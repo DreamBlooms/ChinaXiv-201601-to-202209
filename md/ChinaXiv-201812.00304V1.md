@@ -1,0 +1,148 @@
+1低蛋白质饲粮中苏氨酸水平对越冬前期梅花鹿仔鹿生长性能、营养物质消化率的影响1李仁德 张铁涛 崔学哲 司华哲 孙伟丽　张婷李光玉 王凯英\*
+
+(1.中国农业科学院特产研究所，特种经济动物分子生物学国家重点实验室，长春 130112)摘要：本试验旨在研究低蛋白质饲粮中苏氨酸（Thr）水平对越冬前期梅花鹿仔鹿生长性能、营养物质消化率的影响。选择20只健康、6月龄雄性梅花鹿，随机分为4组，每组5只。4组梅花鹿限量饲喂4种不同饲粮，通过补充过瘤胃赖氨酸、过瘤胃蛋氨酸和过瘤胃苏氨酸，各组饲粮赖氨酸（Lys）、蛋氨酸(Met)水平相同，均分别0.63%、0.18%，Thr水平分别为 $0 . 5 5 \%$ （I组）、 $0 . 4 7 \%$ （Ⅱ组）、 $0 . 5 3 \%$ （II组）、 $0 . 5 8 \%$ （IV组)。此外，I组（对照组）饲粮为蛋白质水平为 $1 5 . 1 5 \%$ 的高蛋白质饲粮，试验组（Ⅱ组、组和IV组）饲粮为蛋白质水平为 $1 3 . 4 6 \%$ 的低蛋白质饲粮。预试期为 $1 5 { \mathrm { d } }$ ，正试期45d。结果显示：1）对照组和ⅡI组末重显著高于IV组（ $\cdot P { < } 0 . 0 5$ )；IV组平均日增重（ADG）极显著低于其他组（ $\cdot P { < } 0 . 0 1$ )；IV组料重比（F/G）极显著高于其他组（ $P { < } 0 . 0 1$ )，ⅡI组极显著低于对照组和IⅢ组（ $P { < } 0 . 0 1$ ）。2）IV组粗脂肪消化率极显著低于ⅡI组（ $\scriptstyle P < 0 . 0 1 .$ 、显著低于Ⅲ组（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 \$ ；对照组中性洗涤纤维(NDF)消化率显著低于 $\mathrm { I I }$ 组( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ；对照组能量消化率极显著低于 $\mathrm { I I }$ 组 $_ { \cdot } P { < } 0 . 0 1 \rangle$ ;ⅡI组钙消化率极显著高于其他组（ $_ { \cdot  { P } < 0 . 0 1 }$ )，IV组极显著低于对照组和III组（ $P { < } 0 . 0 1$ ；Ⅱ组磷消化率极显著高于IV组（ $_ { \cdot \textcircled { P < 0 . 0 1 } }$ )、显著高于对照组和IⅢ组（ $\scriptstyle P < 0 . 0 5$ )。3）ⅡI组蛋氨酸和苏氨酸消化率极显著高于对照组和IV组（ $P { < } 0 . 0 1$ ）、显著高于Ⅲ组（ $_ { . P < 0 . 0 5 } )$ ；ⅡI组天冬氨酸消化率显著高于其他组（ $_ { \cdot } P { < } 0 . 0 5 )$ ；对照组丝氨酸消化率极显著低于其他组（ $_ { \scriptstyle P < 0 . 0 1 } .$ ；对照组谷氨酸消化率极显著高于ⅡI组和IⅢ组（ $P { < } 0 . 0 1 \ )$ ；对照组酪氨酸消化率显著低于Ⅱ组
+
+$\scriptstyle P < 0 . 0 5 .$ )；对照组脯氨酸消化率极显著低于Ⅱ组（ $_ { \cdot  { P } < 0 . 0 1 }$ ）、显著低于Ⅲ组（ $. P { < } 0 . 0 5$ 。由此得出，在饲粮Lys、Met水平相同的条件下，饲喂蛋白质水平为 $1 3 . 4 6 \%$ 、Thr 水平为 $0 . 4 7 \%$ 的低蛋白质饲粮的梅花鹿仔鹿的生长性能、营养物质消化率与饲喂蛋白质水平为 $1 5 . 1 5 \%$ 、Thr水平为 $0 . 5 5 \%$ 的高蛋白质饲粮的梅花鹿仔鹿相当。关键词：梅花鹿仔鹿；苏氨酸；生长性能；营养物质消化率；低蛋白质饲粮中图分类号：S825文献标识码：A文章编号：在我国，梅花鹿的养殖具有悠久的历史，鹿产品具有极高的药用价值和经济价值。随着饲养成本的不断升高，人们越来越认识到提高饲料利用率、降低饲料成本的重要性。降低饲粮蛋白质水平是解决饲料成本高的有效途径，而在低蛋白质饲粮中添加限制性氨基酸能减少蛋白质不足带来的饲料利用率低、生产性能下降等负面影响[1-3]。大量研究表明，在反刍动物低蛋白质饲粮中添加过瘤胃氨基酸可以有效克服添加晶体氨基酸被瘤胃微生物降解的不足，能直接被机体利用，提高饲料利用率[4-5]。苏氨酸在幼龄动物生长发育过程中具有提高动物生长性能、提高饲料转化率、提高动物免疫等作用，而仔鹿过瘤胃苏氨酸相关研究还属于空白，亟待研究和探索[6-10]。本试验通过在低蛋白质饲粮添加过瘤胃苏氨酸，研究其对越冬期梅花鹿仔鹿生长性能、营养物质消化利用率的影响，筛选出低蛋白质饲粮中过瘤胃苏氨酸的适宜添加量，为梅花鹿氨基酸营养研究提供数据支持。1．材料与方法
+
+# 1.1 试验动物与试验设计
+
+选取20只健康的6月龄雄性梅花鹿仔鹿，体重（ $3 8 . 5 5 { \pm } 1 . 4 4 ^ { ^ { . } }$ ）kg，体重及体尺指标差异不显著 $( P { > } 0 . 0 5 )$ ，随机分为4组，每组5只。本试验中饲粮苏氨酸水平依据Hil等[7]和王建红等[1得出的赖氨酸与苏氨酸比例为100：77及高蛋白质饲粮苏氨酸水平而确定。4组仔鹿饲喂4种不同的饲粮，其中I组（对照组）饲喂蛋白质水平为 $1 5 . 1 5 \%$ 的高蛋白质饲粮，试验组（ⅡI、I和IV组）仔鹿饲喂蛋白质水平为 $1 3 . 4 6 \%$ 并添加不同水平过瘤胃苏氨酸的低蛋白质饲粮。各组饲粮中苏氨酸水平分别为 $0 . 5 5 \%$ （I组）、 $0 . 4 7 \%$ （Ⅱ组）、 $0 . 5 3 \%$ （I组）、$0 . 5 8 \%$ （IV组)。通过补充过瘤胃赖氨酸、过瘤胃蛋氨酸，使得4种饲粮中赖氨酸和蛋氨酸水平相同，均分别为 $0 . 6 3 \%$ 、 $0 . 1 8 \%$ 。I、ⅡI、III、IⅣ组饲粮赖氨酸与苏氨酸的比例分别为100.00:86.50、100.00:74.24、100.00:83.48、100.00:92.87。试验期为 $6 0 \mathrm { d }$ ，其中预试期为 $1 5 { \mathrm { d } }$ 正试期为 $4 5 \mathrm { d }$ 。
+
+# 1.2 试验饲粮及饲养管理
+
+为保证各组饲粮具有相同的精粗比和对应的粗蛋白质含量，各组饲粮采用不同的配方。刁其玉等[12]试验发现犊牛4月龄之后瘤胃内环境逐渐稳定， $\mathfrak { p H }$ 、氨氮（ $\mathrm { N H } _ { 3 - \mathrm { N } }$ ）及挥发性脂肪酸含量在一定范围内波动，因而本试验采用的氨基酸为过瘤胃氨基酸。以干全酒糟及其可溶物（DDGS）、玉米、豆粕、玉米胚芽粕、苜蓿草粉、麦麸、食盐、预混料等按不同比例混匀后配制成高蛋白质饲粮（粗蛋白质含量为 $1 5 . 1 5 \%$ ）和低蛋白质饲粮（粗蛋白质含量为 $1 3 . 4 6 \%$ )，低蛋白质饲粮额外添加不同水平的过瘤胃苏氨酸、过瘤胃赖氨酸和过瘤胃蛋氨酸（采用高稳定性技术进行包被，过瘤胃率在 $90 \%$ 以上，肠道释放度在 $9 5 \%$ 以上)，已达到试验设计中确定的苏氨酸、赖氨酸和蛋氨酸水平。各组饲粮组成及营养水平见表1，氨基酸含量见表2。试验于2016年11月12日至2017年1月11日在中国农业科学院特产研究所茸鹿试验基地进行，每日分2次（08：30和15：00）定量饲喂，自由饮水。
+
+# 表1各组饲粮组成及营养水平（风干基础)
+
+Table 1Composition and nutrient levels of diets in different groups (air-dry basis)   
+
+<html><body><table><tr><td colspan="4">项目 组别 Groups</td><td rowspan="2">IV</td></tr><tr><td>Items</td><td>I</td><td>I</td><td>IⅢI</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td></tr><tr><td>干全酒糟及其可溶</td><td>5.50</td><td>6.40</td><td>6.41</td><td>6.07</td></tr><tr><td>物DDGS</td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>31.44</td><td>37.16</td><td>37.29</td><td>38.04</td></tr><tr><td>苜蓿Alfalfa</td><td>45.00</td><td>45.00</td><td>45.00</td><td>45.00</td></tr><tr><td>麦麸Wheat bran</td><td>4.10</td><td>4.02</td><td>3.94</td><td>3.69</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal</td><td>9.85</td><td>4.96</td><td>4.35</td><td>4.10</td></tr><tr><td>玉米胚芽粕 Corn germ meal</td><td>2.88</td><td>0.83</td><td>1.06</td><td>0.83</td></tr><tr><td>预混料 Premix</td><td>0.82</td><td>0.82</td><td>0.82</td><td>0.82</td></tr><tr><td>过瘤胃赖氨酸 RPL</td><td></td><td>0.35</td><td>0.39</td><td>0.41</td></tr><tr><td>过瘤胃蛋氨酸RPM</td><td></td><td>0.05</td><td>0.05</td><td>0.06</td></tr><tr><td>过瘤胃苏氨酸 RPT</td><td></td><td></td><td>0.28</td><td>0.57</td></tr><tr><td>食盐 NaCl</td><td>0.41</td><td>0.41</td><td>0.41</td><td>0.41</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>88.83</td><td>88.79</td><td>88.83</td><td>88.85</td></tr><tr><td>有机物OM</td><td>80.33</td><td>80.73</td><td>82.99</td><td>80.86</td></tr><tr><td>粗蛋白质CP</td><td>15.15</td><td>13.46</td><td>13.46</td><td>13.46</td></tr><tr><td>总能GE/（MJ/kg）</td><td>15.98</td><td>15.88</td><td>15.88</td><td>15.88</td></tr><tr><td>粗脂肪 EE</td><td>2.23</td><td>2.40</td><td>2.40</td><td>2.40</td></tr><tr><td>钙Ca</td><td>0.78</td><td>0.77</td><td>0.77</td><td>0.77</td></tr><tr><td>磷P</td><td>0.46</td><td>0.49</td><td>0.49</td><td>0.49</td></tr><tr><td>中性洗涤纤维 NDF</td><td>55.48</td><td>60.24</td><td>59.66</td><td>60.13</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>28.99</td><td>28.24</td><td>27.64</td><td>28.37</td></tr></table></body></html>
+
+每千克预混料含有 One kilogram of premix contained the following： $\mathrm { M g O } \ 0 . 0 7 6 \ \mathrm { g }$ $\mathrm { Z n S O _ { 4 } \bullet H _ { 2 } O 0 . 0 3 6 ~ g }$ ， $\mathrm { M n S O _ { 4 } \bullet H _ { 2 } O 0 . 0 4 3 ~ g }$ ， $\mathrm { F e S O _ { 4 } \bullet H _ { 2 } O 0 . 0 5 3 ~ g }$ ， $\mathrm { N a S e O _ { 3 } } 0 . 0 3 1 \ \mathrm { g }$ ，VA 484IU， $\mathrm { V D } _ { 3 }$ 496.8 IU，VE 0.828 IU, $\mathrm { V K } _ { 3 } 0 . 2 3 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 0 . 0 9 2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 0 . 6 9 \ : \mathrm { m g }$ ，VB12 0.001 38mg，叶酸 folic acid $0 . 0 2 3 ~ \mathrm { m g }$ ，烟酸niacin $1 . 6 2 \mathrm { m g }$ ，泛酸 calcium pantothenate $1 . 1 5 ~ \mathrm { m g }$ ，CaHPO4 5.17 g, $\mathrm { C a C O } _ { 3 } 4 . 5 7 \ : \mathrm { g }$ 0
+
+# 表2各组饲粮氨基酸含量 (风干基础)
+
+Table 2Amino acid contents of diets in different groups (air-dry basis)   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="2">组别 Groups</td></tr><tr><td>Items</td><td>I</td><td>II</td><td>III IV</td></tr><tr><td>赖氨酸Lys</td><td>0.63</td><td>0.63</td><td>0.63 0.63</td></tr><tr><td>蛋氨酸 Met</td><td>0.18</td><td>0.18</td><td>0.18 0.18</td></tr><tr><td>苏氨酸 Thr</td><td>0.55</td><td>0.47</td><td>0.53 0.58</td></tr><tr><td>天冬氨酸 Asp</td><td>1.27</td><td>1.06</td><td>1.06 1.06</td></tr><tr><td>丝氨酸 Ser</td><td>0.66</td><td>0.57</td><td>0.57 0.57</td></tr><tr><td>谷氨酸Glu</td><td>2.29</td><td>1.94</td><td>1.94 1.94</td></tr><tr><td>甘氨酸Gly</td><td>0.59</td><td>0.50</td><td>0.50 0.50</td></tr><tr><td>丙氨酸 Ala</td><td>0.77</td><td>0.70</td><td>0.70 0.69</td></tr></table></body></html>
+
+<html><body><table><tr><td>半胱氨酸Cys 0.15</td><td>0.13</td><td>0.13</td><td>0.12</td></tr><tr><td>氨酸Val</td><td>0.62 0.54</td><td>0.54</td><td>0.53</td></tr><tr><td>异亮氨酸 Ile</td><td>0.50 0.42</td><td>0.42</td><td>0.41</td></tr><tr><td>亮氨酸Leu</td><td>1.10 0.99</td><td>0.99</td><td>0.99</td></tr><tr><td>酪氨酸Tyr</td><td>0.45 0.39</td><td>0.39</td><td>0.38</td></tr><tr><td>苯丙氨酸 Phe</td><td>0.63</td><td>0.54 0.54</td><td>0.53</td></tr><tr><td>组氨酸His</td><td>0.29</td><td>0.25 0.25</td><td>0.24</td></tr><tr><td>精氨酸Arg</td><td>0.71 0.57</td><td>0.57</td><td>0.56</td></tr><tr><td>脯氨酸 Pro</td><td>0.76</td><td>0.69 0.69</td><td>0.69</td></tr></table></body></html>
+
+# 69 1.3 粪样采集与指标测定
+
+正试期最后4d，每天连续收集粪便，每天09:00—10:00在每个鹿圈内定5个点收集新鲜粪便，每个定点采集粪样 $1 0 0 \ \mathrm { g }$ 左右，按照酸不溶灰分法要求，尽量剔除杂质。所采的粪样于65℃烘箱烘干，粉碎后过 $0 . 4 2 5 \mathrm { m m }$ 筛。饲粮样与粪样中的粗蛋白质、粗脂肪、中性洗涤纤维、酸性洗涤纤维、钙、磷含量参照《饲料分析及饲料质量检测技术》[13]测定，各氨基酸含量采用日立L8900全自动氨基酸分析仪测定。采用 $2 { \mathrm { m o l } } / { \mathrm { L } }$ 盐酸不溶灰分法，参考文献[14]的计算公式计算营养物质消化率，具体如下：某营养物质消化率 $\scriptstyle ( { ^ { 0 } / _ { 0 } } ) = 1 0 0 - 1 0 0 \times$ [饲粮中盐酸不溶灰分含量 $( \% ) /$ 粪便中盐酸不溶灰分含量(%)] $\times$ ［粪便中该营养物质含量 $( \% )$ /饲粮中该营养物质含量 $( \% ) ]$ 能量表观消化率 $\scriptstyle ( { ^ 0 } / _ { 0 } ) = 1 0 0 - 1 0 0 \times$ ［饲粮中AIA含量 $( \% )$ /粪样中AIA含量 $( \% )$ ] $\times$ [粪样中总能（MJ/kg）/饲粮中总能（MJ/kg）]。
+
+# 1.4体重及体尺指标测定
+
+在试验第60天早晨对试验仔鹿进行空腹麻醉，麻醉后使用上海英展牌电子秤(量程为$1 5 0 \mathrm { k g }$ ，精度为 $0 . 0 1 \mathrm { k g } )$ 空腹称重，记录体重，准确计算平均日增重(ADG)；记录每天的采食量，计算平均日采食量(ADFI)与料重比(F/G)。体尺指标（体高、体长、胸围）的测定方法参照《养牛生产学》[15]。
+
+# 1.5 统计方法
+
+数据采用SAS9.3软件的ANOVA程序进行统计分析，并采用Duncan氏法进行多重比
+
+较，分析组间差异显著性， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。数据以平均值±标准差表示。  
+2结果与分析  
+2.1低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿生长性能的影响  
+由表3可知，对照组和Ⅱ组末重显著高于IV组（ $\cdot < 0 . 0 5 \rangle$ ，和I组差异不显著 $\langle P { > } 0 . 0 5 \rangle$ 。IV组平均日增重极显著低于其他组（ $\scriptstyle P < 0 . 0 1 .$ )，其他组之间差异不显著 $( P { > } 0 . 0 5 )$ 。IV组料重比极显著高于其他组（ $\cdot P { < } 0 . 0 1$ )，ⅡI组极显著低于对照组和IⅢ组（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ , ~ } }$ ）°
+
+# 表3低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿生长性能的影响
+
+Table 3Effects of theronine level in a low protein diet on growth performance of sika deer fawns   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td>P 值 P-value</td></tr><tr><td>初重 IBW/kg</td><td>38.05±0.91</td><td>38.63±2.29</td><td>38.46±1.68</td><td>39.33±0.39</td><td>0.854 2</td></tr><tr><td>末重FBW/kg</td><td>44.68±1.77a</td><td>45.85±1.43a</td><td>44.05±2.30ab</td><td>40.83±0.04b</td><td>0.082 3</td></tr><tr><td>体高 BH/cm</td><td>87.67±1.53</td><td>92.00±6.08</td><td>85.00±3.83</td><td>88.50±0.71</td><td>0.218 6</td></tr><tr><td>体长 BL/cm</td><td>123.33±4.73</td><td>132.00±4.36</td><td>127.75±7.09</td><td>128.50±6.36</td><td>0.401 2</td></tr><tr><td>胸围 BS/cm</td><td>88.33±0.58</td><td>85.00±2.65</td><td>84.50±6.56</td><td>81.50±0.71</td><td>0.408 5</td></tr><tr><td>平均日增重 ADG/(kg/d)</td><td>0.11±0.02Aa</td><td>0.12±0.02Aa</td><td>0.09±0.011Aa</td><td>0.03±0.00Bb</td><td>0.000 2</td></tr><tr><td>平均日采食量 ADFI/(kg/d)</td><td>1.04±0.07</td><td>1.02±0.09</td><td>0.98±0.08</td><td>0.93±0.03</td><td>0.290 8</td></tr><tr><td>料重比F/G</td><td>10.28±1.48Bb</td><td>8.56±1.89Cc</td><td>10.14±1.06Bb</td><td>30.95±2.09Aa</td><td><0.000</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P <$ 0.01)，无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。In the same row, values with different small letter superscripts mean significant difference（20 $( P { < } 0 . 0 5 )$ , and with different capital letter superscripts mean extremely significant difference（204号 $( P { < } 0 . 0 1 )$ ,while with no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ . The same asbelow.
+
+2.2低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿能量及营养物质消化率的影响
+
+由表4知，在低蛋白质饲粮条件下，随苏氨酸水平的增加，无论是能量还还是各营养物质的消化率均呈逐渐下降趋势。对照组能量消化率极显著低于 $\mathrm { I I }$ 组（ $P { < } 0 . 0 1$ )，其他组之间差异不显著( $. P { > } 0 . 0 5$ )。IV组粗脂肪消化率极显著低于 $\mathrm { I I }$ 组 $_ { \scriptstyle P < 0 . 0 1 }$ ）、显著低于Ⅲ组( $_ { . } { \cal P } { < } 0 . 0 5 )$ ，与对照组差异不显著（ $( P { > } 0 . 0 5 )$ 。对照组中性洗涤纤维消化率显著低于 $\mathrm { I I }$ 组（ $_ { . } P { < } 0 . 0 5 )$ ，和其他组差异不显著（ $\scriptstyle P > 0 . 0 5 .$ )。Ⅱ组钙消化率极显著高于其他组（ $_ { \scriptstyle P < 0 . 0 1 }$ )，IV组极显著低于粮对照组和IⅢ组（ $_ { . } { P } { < } 0 . 0 1 \$ )，对照组和IⅢ组之间差异不显著（ $\cdot P { > } 0 . 0 5 )$ )。Ⅱ组磷消化率极显著高于IV组（ $_ { \scriptstyle P < 0 . 0 1 }$ )、显著高于对照组和III组（ $_ { . P < 0 . 0 5 ) }$ 。
+
+表4低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿营养物质及能量消化率的影响
+
+Table 4Efects of theronine level in a low protein diet on energy and nutrient digestibility of
+
+<html><body><table><tr><td colspan="2">sika deer fawns</td><td colspan="2">%</td><td colspan="2"></td></tr><tr><td>项目Items</td><td></td><td colspan="2">组别 Groups</td><td></td><td>P值</td></tr><tr><td></td><td>I</td><td>I</td><td>III</td><td>IV</td><td>P-value</td></tr><tr><td>能量Energy</td><td>57.77±2.04Bb</td><td>67.30±5.87Aa</td><td>62.26±4.62ABab</td><td>61.69±1.90ABab</td><td>0.029 3</td></tr><tr><td>粗蛋白质 CP</td><td>46.65±3.95</td><td>49.77±1.07</td><td>48.24±5.17</td><td>47.58±3.93</td><td>0.665 4</td></tr><tr><td>粗脂肪 EE</td><td>62.92±8.74ABab</td><td>70.58±6.08Aa</td><td>65.55±7.62ABa</td><td>55.87±11.68Bb</td><td>0.051 6</td></tr><tr><td>中性洗涤纤维 NDF</td><td>57.56±4.14b</td><td>63.48±3.55a</td><td>62.11±5.22ab</td><td>61.67±0.94ab</td><td>0.056 2</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>37.74±3.91</td><td>38.83±1.57</td><td>38.50±2.38</td><td>38.46±4.41</td><td>0.939 6</td></tr><tr><td>钙Ca</td><td>55.63±5.80Bb</td><td>68.43±1.58Aa</td><td>51.04±3.60Bb</td><td>38.53±6.00Cc</td><td><0.000 1</td></tr><tr><td>磷P</td><td>86.81±3.31ABb</td><td>93.04±2.28Aa</td><td>85.94±4.83ABb</td><td>84.22±2.70Bb</td><td>0.027 7</td></tr></table></body></html>
+
+2.3低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿氨基酸消化率的影响
+
+由表5知，ⅡI组蛋氨酸和苏氨酸消化率极显著高于对照组和IV组（ $\cdot P { < } 0 . 0 1$ ）、显著高于ⅢI组（ $P { < } 0 . 0 5 \rangle$ 。Ⅱ组天冬氨酸消化率显著高于其他组（ $P { < } 0 . 0 5 \rangle$ ，其他组之间差异不显著（ $P { > } 0 . 0 5 )$ 。对照组丝氨酸消化率极显著低于其他组（ $P { < } 0 . 0 1 \ )$ ，其他组之间差异不显著1 $\mathrm { \ P { > } 0 . 0 5 } ^ { \cdot }$ )。对照组谷氨酸消化率极显著高于ⅡI和Ⅲ组 $( P { < } 0 . 0 1 )$ ，和IV组差异不显著 ${ ( P { > } 0 . 0 5 ) }$ 。对照组酪氨酸消化率显著低于 $\mathrm { I I }$ 组（ $\scriptstyle P < 0 . 0 5 .$ )，其他组之间差异不显著（ $. P { > } 0 . 0 5 \$ )。对照组脯氨酸消化率极显著低于ⅡI组( $_ { \scriptstyle P < 0 . 0 1 }$ ）、显著低于IⅢ组( $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ),和IV组差异不显著（ $( P { > } 0 . 0 5 )$ 0表5低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿氨基酸消化率的影响
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">fawns</td><td colspan="2">%</td><td></td></tr><tr><td colspan="3">组别Groups</td><td></td><td>P 值</td></tr><tr><td>项目Items</td><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td>P-value</td></tr><tr><td>赖氨酸Lys</td><td>55.70±4.81</td><td>58.39±3.86</td><td>56.83±7.44</td><td>56.75±5.36</td><td>0.900 1</td></tr><tr><td>蛋氨酸 Met</td><td>72.09±2.20Bb</td><td>79.93±4.37Aa</td><td>74.51±3.19ABb</td><td>73.93±4.37Bb</td><td>0.002 0</td></tr><tr><td>苏氨酸Thr</td><td>50.11±4.20Bb</td><td>62.62±3.59Aa</td><td>55.61±8.14ABb</td><td>51.33±3.54Bb</td><td>0.003 6</td></tr><tr><td>氨酸 Val</td><td>96.71±1.47</td><td>98.03±0.40</td><td>95.27±5.02</td><td>95.35±3.58</td><td>0.595 4</td></tr><tr><td>异亮氨酸 Ile</td><td>55.72±3.00</td><td>58.97±1.55</td><td>56.26±3.84</td><td>52.62±6.81</td><td>0.3078</td></tr><tr><td>亮氨酸Leu</td><td>71.31±3.04</td><td>72.90±4.04</td><td>71.73±6.66</td><td>70.91±5.43</td><td>0.921 2</td></tr><tr><td>苯丙氨酸</td><td>63.87±4.08</td><td>66.33 ±2.70</td><td>65.80±6.89</td><td>65.25±4.89</td><td>0.783 0</td></tr><tr><td>Phe 组氨酸 His</td><td>35.28±3.06</td><td>35.27±3.07</td><td>34.76±2.16</td><td>34.67±2.96</td><td></td></tr><tr><td>精氨酸Arg</td><td>64.36±3.64</td><td>63.79±3.82</td><td>65.61±2.76</td><td>64.64±6.47</td><td>0.972 5</td></tr><tr><td>天冬氨酸</td><td></td><td></td><td></td><td></td><td>0.813 8</td></tr><tr><td>Asp</td><td>63.42±3.46b</td><td>68.04±2.84a</td><td>63.71±4.03b</td><td>63.49±4.23b</td><td>0.063 1</td></tr><tr><td>丝氨酸 Ser</td><td>64.59±2.96Bb</td><td>71.55±2.29Aa</td><td>70.95±3.23Aa</td><td>69.93±5.31Aa</td><td>0.0003</td></tr><tr><td>谷氨酸 Glu</td><td>72.36±2.46Bb</td><td>78.02±2.15Aa</td><td>77.67±3.13Aa</td><td>73.87±4.82ABb</td><td>0.000 7</td></tr><tr><td>甘氨酸 Gly</td><td>58.18±6.75</td><td>61.19±6.11</td><td>59.33±7.53</td><td>56.35±4.97</td><td>0.642 3</td></tr><tr><td>丙氨酸 Ala</td><td>55.40±2.03</td><td>55.45±3.06</td><td>56.02±4.03</td><td>54.70±4.22</td><td>0.907 5</td></tr><tr><td>半胱氨酸</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Cys</td><td>50.28±2.18</td><td>52.15±4.07</td><td>52.05±2.72</td><td>49.86±2.34</td><td>0.335 3</td></tr><tr><td>酪氨酸Tyr</td><td>64.19±3.72b</td><td>69.52±1.39a</td><td>67.06±5.22ab</td><td>66.48±3.73ab</td><td>0.081 7</td></tr><tr><td>脯氨酸 Pro</td><td>67.51±2.88Bc</td><td>75.16±3.24Aa</td><td>71.89±4.90ABab</td><td>70.36±1.67ABbc</td><td>0.001 2</td></tr></table></body></html>
+
+123 3讨论
+
+3.1低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿生长性能的影响由试验结果知，低蛋白质饲粮中苏氨酸水平对越冬前期梅花鹿仔鹿的平均日增重、料重比有极显著影响，对末重有显著影响。杨玉芬等[1研究发现在生长猪低蛋白质饲粮中补充适宜水平的赖氨酸、蛋氨酸、苏氨酸可达到饲喂高蛋白质饲粮时的生长效果。殷溪瀚[17]在荷斯坦奶牛及杨魁[18]在育肥牛的试验中均发现在低蛋白质饲粮中补充适宜水平的过瘤胃赖氨酸和过瘤胃蛋氨酸可获得与高蛋白质饲粮相当的生长性能，而且还能够节约饲料成本。云强等[19]在对犊牛的试验中也有类似发现。Socha 等[20]和 Broderick 等[21]发现在奶牛饲粮中补充氨基酸可改善蛋白质消化能力和饲料转化率。Kidd 等[22]在肉鸡饲粮中添加苏氨酸，饲粮蛋白质水平降低 $1 . 0 \% \sim 1 . 5 \%$ 后对肉鸡的增重和饲料转化率未产生显著影响。张艳蕾[23]通过肉兔试验及曲正祥[24]通过肉鸡试验发现，在苏氨酸水平未达到苏氨酸最适需要量之前，随苏氨酸水平的提高，平均日增重增加；当苏氨酸水平超过机体需要量时，随苏氨酸水平的升高，平均日增重持续下降。唐茂妍等[25]发现，在相同的赖氨酸水平下，生长猪的平均日增重随饲粮苏氨酸水平的增加呈现先升高后下降的趋势。Chee 等[26]、Maroufyan 等[27]及Habte-Tsion 等[28]在研究中均发现适宜水平的苏氨酸能够促进肠道黏蛋白的分泌和营养物质的吸收，从而提高试验动物的生产性能和蛋白质沉积。在低蛋白质饲粮条件下，平均日增重随苏氨酸水平的升高而下降，料重比随苏氨酸水平的升高而升高，原因可能是苏氨酸过量造成体内氨基酸的不平衡，脱氨基作用使能量消耗增大；也可能是因为苏氨酸过量干扰了体内其他氨基酸的吸收和利用。因而，在越冬前期，饲粮蛋白质水平为 $1 3 . 4 6 \%$ 时，饲粮中适宜的苏氨酸水平为$0 . 4 7 \%$ ，此时仔鹿生长性能最佳，并与饲喂蛋白质水平为 $1 5 . 1 5 \%$ 、苏氨酸水平为 $0 . 5 5 \%$ 的高蛋白质饲粮的对照组相当。3.2低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿能量及营养物质消化率的影响饲粮中适宜的蛋白质水平和平衡的氨基酸才会使动物发挥最佳的生长性能和营养物质消化利用[29]，过高或过低都会造成饲粮的浪费及影响动物的生长[30-32]。本试验中，对照组仔鹿饲喂的高蛋白质饲粮的蛋白质水平为 $1 5 . 1 5 \%$ ，与王欣等[33]得出的越冬期梅花鹿适宜蛋白质水平为 $1 5 . 0 9 \%$ 的结果相近。ⅡI组粗脂肪消化率极显著高于IV组，具有随苏氨酸水平增加而降低的趋势，说明过高水平的苏氨酸会降低仔鹿对饲粮中脂肪的消化利用，这与Westermeier 等[34]得出的苏氨酸能够促进脂肪的分解和利用的结论不相符，可能是因为本试验中IⅢI、IV组饲粮中苏氨酸已经过量，影响了仔鹿对营养物质的消化利用，从而导致粗脂肪消化率降低。对照组能量、钙、磷消化率极显著或显著低于Ⅱ组，ⅡI、Ⅲ和IV组钙、磷消化率均随苏氨酸水平的增加呈现下降的趋势，表明降低蛋白质水平可以提高饲粮能量、钙、磷的消化率，过高水平的苏氨酸会降低饲粮能量、苏氨酸的消化率，使钙、磷的排放增加，加重了对环境的污染。Ⅱ组中性洗涤纤维消化率显著高于对照组，且与其他组差异不显著，表明降低饲粮蛋白质水平可以提高饲粮中性洗涤纤维的消化率，但与饲粮中苏氨酸水平无关。因而适宜的饲粮苏氨酸水平能够促进仔鹿对粗脂肪、能量、钙、磷的消化利用，减少钙、磷的排放，减轻对环境的压力。总之，越冬前期仔鹿低蛋白质饲粮中适宜苏氨酸水平为 $0 . 4 7 \%$ 。3.3低蛋白质饲粮中苏氨酸水平对梅花鹿仔鹿氨基酸消化率的影响氨基酸作为蛋白质的基本结构单位，在蛋白质代谢中具有重要作用。由本试验结果知，I组蛋氨酸、苏氨酸、丝氨酸、谷氨酸、脯氨酸消化率均极显著高于对照组，天冬氨酸、酪氨酸消化率显著高于对照组，表明降低饲粮蛋白质水平可以提高饲粮蛋氨酸、苏氨酸、丝氨酸、谷氨酸、脯氨酸、天冬氨酸、酪氨酸的消化率。这与董志岩[35]在生长猪试验中的发现相反。饲粮蛋白质的氨基酸组成与动物机体的蛋白质组成越接近，其生物学价值越高，而当完全缺乏某种必需氨基酸时期生物学价值为0[36]，结合本试验结果可知Ⅱ组饲粮氨基酸已经比较均衡，此时各氨基酸的消化率较高。饲粮中添加限制性氨基酸可降低饲料中蛋白质的用量。陈傲东等[37]研究发现，在饲粮中添加过瘤胃氨基酸能改善奶牛机体的代谢性能及饲料转化率;周彦文[38]研究发现，随着饲粮苏氨酸水平的升高，合浦鹅 Met的代谢率是先升高后下降，本试验中，蛋氨酸和苏氨酸消化率随着饲粮苏氨酸水平的升高呈现逐渐下降的趋势，说明对照组以及III和IV组饲粮中苏氨酸过量。苏氨酸是机体唯一一种不需经过脱氨基和转氨基作用进行分解代谢的氨基酸，可经苏氨酸脱氢酶、苏氨酸脱水酶和苏氨酸醛羧酶催化转变为转变成丝氨酸、甘氨酸等，谷氨酸有部分节约苏氨酸的效应[39]。因此饲粮中丝氨酸、甘氨酸、谷氨酸水平与苏氨酸的代谢具有紧密联系。本试验中丝氨酸、甘氨酸、谷氨酸、天冬氨酸消化率均随饲粮苏氨酸水平的升高而降低，也表明说明对照组以及II和IV组饲粮中苏氨酸过量。总之，越冬前期仔鹿饲粮苏氨酸水平为 $0 . 4 7 \%$ 时，氨基酸消化利用率最大。
+
+在本试验条件下，低蛋白质饲粮（蛋白质水平为 $1 3 . 4 6 \%$ ）中苏氨酸水平为 $0 . 4 7 \%$ 时越冬前期梅花鹿仔鹿的饲料利用率、营养物质消化率及氨基酸消化率最佳，并且饲喂该饲粮的梅花鹿仔鹿可以获得与饲喂高蛋白质饲粮（蛋白质水平为 $1 5 . 1 5 \%$ 、苏氨酸水平为 $0 . 5 5 \%$ ）梅花鹿仔鹿相当的生长性能。
+
+参考文献：   
+[1] KAMRAN Z,SARWAR M,NISA M U,et al.Effect of low levels of dietary crude protein with constant metabolizable energy on nitrogen excretion,litter composition and blood parameters of broilers[J].International Journal of Agriculture and Biology,2010,12:401-405.   
+[2] LEE C,HRISTOV A N,HEYLER K S,et al.Effects of dietary protein concentration and coconut oil supplementation on nitrogen utilization and production in dairy cows[J].Journal of Dairy Science,2011,94(11):5544-5557.   
+[3] WHELAN S J,MULLIGAN F J,FLYNN B.Effect of forage source and a supplementary methionine hydroxy analog on nitrogen balance in lactating dairy cows offered a low crude protein diet[J].Journal of Dairy Science,2011,94(10):5080-5089.   
+[4]DINN N E,SHELFORD JA,FISHER L J,et al.Use of the Cormell net carbohydrate and protein system and rumen-protected lysine and methionine to reduce nitrogen excretion from lactating dairy cows[J].Journal of Dairy Science,1998,81(1):229-237.   
+[5] LORDELO M M,GASPAR A M,LE BELLEGO L L,et al.Isoleucine and valine supplementation of a low-protein corn-wheat-soybean meal-based diet for piglets:growth performance and nitrogen balance[J].Journal of Animal Science,2008,86(11):2936-2941.   
+[6] 李雪玲,张乃锋,马涛,等.开食料中赖氨酸、蛋氨酸、苏氨酸和色氨酸对断奶羔羊生长性 能、氮利用率和血清指标的影响[J].畜牧兽医学报,2017,48(4):678-689.   
+[7]HILL T M,BATEMAN IIH G,ALDRICH J M,et al.Optimal concentrationsof lysine,methionine,and threonine in milk replacersfor calves less than five weeks of
+
+[8]BARTLETT K S,MC-KEITHF K,VANDE-HAAR M J,et al.Growth and body composition of dairy calves fed milk replacers containing different amounts of protein at two feeding rates[J].Journal of Animal Science,2006,84(6):1454-1467.
+
+[9] 毕晔,辛海瑞,潘晓花,等.饲粮苏氨酸水平对北京雏鸭生长性能、胴体品质、免疫机能和血清激素的影响[J].动物营养学报,2017,29(6):1913-1920.  
+[10] DANIELS K M,HILL S R,KNOWLTON K F,et al.Effects of milk replacer composition onselected blood metabolites and hormones in preweaned Holstein heifers[J].Journal of DairyScience,2008,91(7):2628-2640.  
+[11]王建红,刁其玉,许先查,等.日粮Lys、Met 和 Thr 添加模式对0-2 月龄犊牛生长性能、消化代谢与血清学生化指标的影响[J]．中国农业科学,2011,44(9):1898-1907.  
+[12]刁其玉,张蓉.我国幼龄反刍动物生长与消化生理发育特点[J].中国畜牧杂志,2017,53(7):4-8.  
+[13]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.  
+[14]王钰明,赵峰,陈寿飞,等.猪生长阶段与饲粮类型对酸不溶灰分法测定养分消化率的影响[J].动物营养学报,2015,7(3):811-819.  
+[15]莫放.养牛生产学[M].2版.北京:中国农业大学出版社,2010:175-177.  
+[16]杨玉芬,乔建国,陈娥英.生长猪不同低蛋白日粮添加赖氨酸、蛋氨酸、苏氨酸和色氨酸的效果研究[C].福建省畜牧兽医学会 2005 年学术年会.福州：福建省畜牧兽医学会2005:764-768.  
+[17]殷溪瀚.过瘤胃赖氨酸、蛋氨酸对荷斯坦奶公牛生长性能和胴体品质影响的研究[D].硕士学位论文.大庆:黑龙江八一农垦大学,2015  
+[18]杨魁.过瘤胃蛋氨酸和过瘤胃赖氨酸在生长育肥牛中的应用研究[D].硕士学位论文.重
+
+庆：西南大学，2014.
+
+[19]云强,刁其玉,屠焰,等.日粮中赖氨酸和蛋氨酸比对断奶犊牛生长性能和消化代谢的影响[J].中国农业科学,2011,44(1):133-142.
+
+[20] SOCHA M T,PUTNAM D E,GARTHWAITE B D,et al.Improving intestinal amino acid supply of pre-and postpartum dairy cows with rumen-protected methionine and lysine[J].Journal of Dairy Science,2005,88(3):1113-1126.   
+[21] BRODERICK G A,STEVENSON M J,PATTON R A,et al.Effect of supplementing rumen-protected methionine on production and nitrogen excretion in lactating dairy cows[J].Journal of Dairy Science,2008,91(3):1092-1102.   
+[22] KIDD M T,ZUMWALT C D,CHAMBLEE D W,et al.Broiler growth and carcass responses to diets containing L-threonine versus diets containing threonine from intact protein Sources[J].Journal of Applied Poultry Research,2002,11(1):83-89.   
+[23]张艳蕾.日粮苏氨酸水平对生长肉兔生长发育、免疫性能、血液生化指标以及蛋白质代 谢的影响[D].硕士学位论文.泰安：山东农业大学，2011.   
+[24] 曲正祥.日粮苏氨酸缺乏、过量对肉鸡生产性能及生理代谢的影响[D].硕士学位论文. 杨凌:西北农林科技大学,2016.   
+[25]唐茂妍,陈旭东,梁富广,等.生长猪低蛋白质日粮可消化赖氨酸、蛋氨酸 $+$ 胱氨酸、苏氨 酸、色氨酸平衡模式的研究[J].动物营养学报,2008,20(4):397-403.   
+[26] CHEE S H,IJI PA,CHOCT M,et al.Functional interactions of manno-oligosaccharides with dietary threonine in chicken gastrointestinal tract. I .Growth performance and mucin dynamics[J].British Poultry Science,2010,51(5):658-666.   
+[27] MAROUFYAN E,KASIM A,HASHEMI S R,et al.The effect of methionine and threonine supplementations on immune responses of broiler chickens challenged with infectious
+
+bursal disease[J].American Journal of Applied Sciences,2010,7(1):44-20.
+
+[28] HABTE-TSION H M,GE X P,LIU B,et al.A deficiency or an excess of dietary threonine level affects weight gain,enzyme activity,immune response and immune-related gene expression in juvenile blunt snout bream (Megalobrama amblycephala)[J].Fish & Shellfish Immunology,2015,42(2):439-446.
+
+[29]刘大森,李彦芳,张美美.维持泌乳期奶牛日粮氨基酸平衡的重要性及途径[J].饲料工 业,2016,37(18):1-4. [30] 张卫兵,刁其玉,张乃锋,等.日粮蛋白能量比对8-10 月龄后备奶牛生长性能和养分消化 的影响[J].中国农业科学,2010,43(12):2541-2547. [31] SKLAN D,PLAVNIK I.Interactions between dietary crude protein and essential amino acid intake on performance in broilers[J].British Poultry Science,2002,43(3):442-449.   
+[32] ROBBINS K R.Threonine requirement of the broiler chick as affected by protein level and source[J].Poultry Science,1987,66(9):1531-1534. [33]王欣,李光玉,崔学哲,等.雄性梅花鹿仔鹿越冬期配合日粮适宜蛋白质水平的研究[J].中 国畜牧兽医,2011,38(1):23-26. [34] WESTERMEIER C,PAULICKS B R,KIRCHGESSNER M.Feed intake and body weights ofsucklingsowsandpigletsindependenceofdietary threonine supplementation.1.Contributionaboutthethreoninerequirement of suckling sows[J].Journal of Animal Physiology and Animal Nutrition,1998,79(1):33-45.   
+[35]董志岩,刘景,方桂友,等.日粮蛋白质、赖氨酸水平对生长猪生产性能及蛋白质、氨基酸 消化率的影响[J].家畜生态学报,2011,32(2):69-74.   
+[36]邹思湘.动物生物化学[M].4版.北京:中国农业大学出版社,2005:211-217.   
+[37] 陈傲东,陈红莉,孔平,等.氨基酸平衡日粮对奶牛生产性能、血清生化指标及经济效益的
+
+影响[J].中国畜牧兽医,2015,42(10):2650-2657.
+
+[38]周彦文.合浦鹅赖氨酸、蛋氨酸和苏氨酸适宜需要量的研究[D].硕士学位论文.南宁:广西大学,2008.
+
+[39]王红梅 $. 0 { \sim } 6$ 周龄肉仔鸡苏氨酸需要量的研究[D].硕士学位论文.杨凌:西北农林科技大学,2005.
+
+# Effects of Threonine Level in a Low Protein Diet on Growth Performance and Nutrient
+
+# Digestibility ofEarly WinteringSika Deer2
+
+LI Rende ZHANG Tietao CUI Xuezhe SI Huazhe SUN Weili ZHANG TingLI Guangyu WANG Kaiying\*   
+(State Key Laboratory of Special Economic Animal Molecular Biology, Institute of Special Animal And Plant Science, Chinese Academy of Agricultural Sciences, Changchun 130112, China)   
+Abstract: This experiment was conducted to investigate the efects of threonine （Thr） level in a   
+low protein diet on growth performance and nutrient digestibility of early wintering sika der.   
+Twenty healthy 6-month-old male sika deer were randomly divided into 4 groups with 5 deer per   
+group. Infant deer in 4 groups restricted feeding 4 different diets with the same lysine (Lys) and   
+methionine (Met） levels which were $0 . 6 3 \%$ and $0 . 1 8 \%$ ，respectively， through supplemented   
+rumen-protected lysine (RPL), rumen-protected methionine (RPM) and rumen-protected threonine   
+(RPT). The Thr level in 4 diets was $0 . 5 4 \%$ (group I), $0 . 4 6 \%$ (group II), $0 . 5 9 \%$ (group III) and   
+$0 . 7 2 \%$ (group IV),respectively. Infant deer in groupI (control group) were fed a high protein   
+diet with $1 5 . 4 6 \%$ protein level,and infant deer in test groups (groups II， III and IV) were fed a   
+low protein diet with $1 3 . 4 6 \%$ protein level and different levels of Thr. The pretrial period was 15
+
+days,and the formal period was 45 days. The results showed as follows: 1） the final body weight of control group and group I was significantly higher than that of group IV $( P { < } 0 . 0 5 )$ . The average daily gain（ADG） of group IV was extremely significantly lower than that of other groups $( P { < } 0 . 0 1 )$ . The feed/gain (F/G) of group $\mathrm { I V }$ was extremely significantly higher than that of other groups $( P { < } 0 . 0 1 )$ , and it on group II was extremely significantly lower than that of control group and group III $( P { < } 0 . 0 1 )$ .2）The ether extract（EE）digestibility of group IV was extremely significantly lower than that of group II $( P { < } 0 . 0 1 )$ , which was significantly lower than group III $( P { < } 0 . 0 5 )$ . The neutral detergent fiber（NDF）digestibility of control group was significantly lower than that of group II $( P { < } 0 . 0 5 )$ . The energy digestibility of control group was extremely significantly lower than that of group II $( P { < } 0 . 0 1 )$ . The calcium（Ca） digestibility of group II was extremely significantly higher than that of other groups $( P { < } 0 . 0 1 )$ , and it in group IV was extremely significantly lower than that in control group and group III $( P { < } 0 . 0 1 )$ . The phosphorus（P） digestibility of group Il was extremely significantly higher than that of group IV $( P { < } 0 . 0 1 )$ , which was significantly higher than that in control group and group III $( P { < } 0 . 0 5 )$ .3) The digestibility of Met and Thr of group Iwas extremely significantly lower than that of control group and group IV( $P { < } 0 . 0 1$ ），which was significantly higher than that of group III （2号 $( P { < } 0 . 0 5 )$ . The digestibility of aspartic acid （Asp） of group II was significantly higher than that of other groups $( P { < } 0 . 0 5 )$ . The digestibility of serine（Ser）of control group was extremely significantly lower than that of other groups $( P { < } 0 . 0 1 )$ . The digestibility of glutamic acid（Glu） of control group was extremely significantly higher than that of groups II and III $( P { < } 0 . 0 1 )$ . The digestibility of tyrosine（Tyr）ofcontrol group was significantly lower than that of group II （20 $( P { < } 0 . 0 5 )$ . The digestibility of proline（Pro）of control group was extremely significantly lower than that of group I $( P { < } 0 . 0 1 )$ , which was significantly lower than that of group III $( P { < } 0 . 0 5 )$ .It can be seen that under the same dietary Lys and Met levels, the growth performance,nutrient digestibility of sika deer fed the low protein diet with $0 . 4 7 \%$ Thr and $1 3 . 5 6 \%$ protein can be comparable to those fed the high protein diet with $0 . 5 5 \%$ Thr and $1 5 . 1 5 \%$ protein. Key words: sika deer; threonine; growth performance; nutrient digestibility; low protein diet

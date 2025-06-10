@@ -1,0 +1,121 @@
+# 基础研究
+
+# miR-181c靶向己糖激酶2抑制癌相关成纤维细胞的糖酵解
+
+蓝海兵'，罗 亮²,齐协飞}，龚园其'，陈 玉」'南昌大学第二附属医院综合ICU,江西 南昌 330006;中山大学第一附属医院MICU,广东 广州 510080摘要：目的探讨miR-181c在癌相关成纤维细胞(CAFs)糖酵解中的作用和机制。方法 用组织贴壁法分离原代肺腺癌病人肺组织CAF及肺正常成纤维细胞(NFs)。用LipofectamineTM 2000转染 miR-181c mimics,miR-181c inhibitor,siRNA-HK2和HK2-vecto等;Q-PCR检测miR-181家族表达水平;Westerm bloting检测已糖激酶2(HK2）蛋白表达;2-NBDG法检测细胞葡萄糖摄取率；DRY-CHEMFCD3500仪器检测细胞上清中乳酸生成;双荧光素酶报告基因系统检测 $\mathrm { H K } 2 \mathrm { m R N A }$ 表达。结果 在细胞形态上CAFs与NFs无明显区别。与NFs组相比,CAFs组葡萄糖摄取、乳酸生成和HK2蛋白表达明显增加,而miR-181家族表达明显减少 $( P { < } 0 . 0 5 )$ 。在NFs转染inhibitor-181c后，其HK2蛋白表达、葡萄糖摄取和乳酸生成明显增加 $( P { < } 0 . 0 5 )$ ；相反，CAFs转染了mimics-181c后，其HK2蛋白表达、葡萄糖摄取和乳酸生成明显减少( $\scriptstyle \cdot { P < 0 . 0 5 }$ 。并且在敲低HK2细胞的CAFs中，mimics-18lc不能减少葡萄糖摄取和乳酸生成;而mimics-181c可以减少过表达HK2对NFs葡萄糖摄取和乳酸生成的增强作用。结论mir-181c可以通过抑制HK2的蛋白表达来抑制CAFs的糖酵解。
+
+关键词：癌相关成纤维细胞；miR-181；己糖激酶2；糖酵解
+
+# miR-181c inhibits glycolysis by targeting hexokinase 2 in cancer-associated fibroblasts
+
+LANHaibingl,LUO liang², QI Xiefei', GONG Yuanqi,CHEN $\gamma _ { \boldsymbol { u } ^ { \boldsymbol { \imath } } }$ DepartmentofomprehensieIntensieCareUnitSecondAfiatedHospitalofanchangUniersityNanchang330Cina DepartmentofMedicalIntensieCareUnit,FistAfiliatedHospitalofSunYat-senUniversity,Guangzhou50China
+
+Abstract: ObjectiveTo investigate theroleof miR-181cin glycolysisofcancer-associatedfibroblasts (CAFs)and explore the mechanism.Methods Human lungCAFsandnormalfibroblasts (NFs),isolated fromfreshhuman lungadenocarcinomtsue specimens by primarycultureof tissue explants,were transfected with a miR-181c mimics,amiR-181c inhibitor,a siRNA siRNA-HK2orthe vector HK2-vectorviaLipofectamineTM2o0.Quantitativereal-timePCR was used toanalyze thechanges in miR-125bexpresson inthetransfectedcels;hexokinase-2 (HK2)protein expression inthecellswas detected using Western bloting,and the cellular glucose uptake was assessed with 2-NBDG. Lactate production in thecels was examined and expression of HK2 mRNA was detected with dualluciferase reporter gene assay.Results No obvious diference was found in the cell morphology between CAFsand NFs.Compared withtheNFs,the CAFs showed obviously increased glucose uptake, lactate production and HK2 protein expresson with decreased expressions of the miR-181 family $_ { ( P < 0 . 0 5 ) }$ . Transfection with the miR-181 inibito-rsignificantlyincreased glucose uptake,lactateproductionandHK2 proteinexpression intheNFs.In CAFs,transfection with the miR-181 mimics caused significantlylowered glucose uptake,lactate productionand HK2 protein expresionof.Knockdownof endogenous HK2bysiRNAabolished miR-181mimics-mediated decreaseof glucose uptake and lactate productionin CAFs, while transfection with miR-181mimicssuppressed HK2 overexpression-induced enhancementof glucose uptakeand lactate production in NFs. Conclusion Transfection with miR-181 mimics cansuppress glycolysis in CAFs by inhibiting HK2 expression.
+
+Key words: cancer-associated fibroblasts; mir-181c; hexokinase-2; glycolysis
+
+癌相关成纤维细胞(CAFs)是构成肿瘤微环境中的的主要部分，可以分泌多种细胞因子促进与肿瘤细胞生长、侵袭等[1-2]。近期的研究表明,CAFs具有独特的代谢方式，即CAFs通过糖酵解方式将葡萄糖转化为乳酸，供给其周围的肿瘤细胞；而肿瘤细胞则直接用乳酸进行三羧酸循环(TCA),并且高乳酸的酸性环境也促进肿瘤细胞的侵袭[3-4]。miRNA是一类大小为20\~25个核苷酸的非编码小RNA,参与调节细胞多种生理病理过程[5]。miR-181家族包括同源的miR-181a、miR-181b、miR-181c和miR-181d等，研究表明其在细胞的增殖、肿瘤的侵袭等方面具有抑制作用。那么miR-181家族在细胞糖酵解中的作用尚不可知，因此本实验将在原代CAFs上探讨miR-181家族在糖酵解中的作用和机制。
+
+# 1 材料和方法
+
+# 1.1 材料
+
+细胞培养基DMEM及血清(Life，美国)，HK2一抗（Abcam,美国）， $\beta$ -actin一抗（中杉金桥生物公司，北京）,LipofectamineTM 20OO(Life,美国）,PrimeScriptTMRTMasterMix（Taraka,日本),SYBR GREEN(Roche,美国)，乳酸检测试剂盒(Biovision，美国)。
+
+# 1.2 细胞培养
+
+参考Ji等方法分离培养成纤维细胞。获取手术新鲜癌旁及距离癌组织 $5 \mathrm { c m }$ 外肺组织标本，含 $1 \%$ 双抗的PBS灌洗肺组织，用组织剪将肺组织剪成 $1 \ \mathrm { m m } { \times } 1 \ \mathrm { m m } { \times }$ $1 \mathrm { m m }$ 碎组织，均匀铺在培养瓶底部,倒置培养瓶，加入$3 \mathrm { m L }$ 含 $10 \%$ FBS的培养基，置于细胞培养箱中培养 $1 2 \mathrm { h }$ 后轻柔翻转培养瓶，继续培养。10d后显微镜下观察并拍照。
+
+# 1.3Mimics-miRNA、inhibitor-miRNA、siRNA和vector 转染成纤维细胞
+
+Mimics-miRNA、inhibitor-miRNA、siRNA和vector由广州锐博生物公司合成，转染过程参考Lipofec-tamineTM 2000说明进行。
+
+# 1.4Westernblot检测HK2蛋白
+
+收集细胞，加入细胞裂解液匀浆，裂解 $3 0 \mathrm { m i n }$ 后$1 5 ~ 0 0 0 ~ \mathrm { r / m i n . 4 ~ \mathrm { ‰ } }$ ，离心 $1 5 ~ \mathrm { m i n }$ ,收集细胞上清，检测浓度。 $10 \%$ 胶电泳、转膜后， $5 \%$ 脱脂奶粉封闭2h，HK2一抗 $1 : 1 0 0 0 , 4 ^ { \circ } \mathrm { C }$ 摇床过夜，孵二抗，显影。
+
+# 1.5葡萄糖摄取检测
+
+根据Fischer等8的报道,根据细胞对 $\mathrm { [ ^ { 3 } H ] }$ -2DG摄取量来反映其对葡萄糖的摄取率。无血清条件下培养 $2 4 \mathrm { h }$ 后换为低糖DMEM培养液，同时加入 $3 7 \mathrm { k B q / m L } \mathrm { [ ^ { 3 } H ] } \mathrm { - }$ 2DG继续培养 $2 4 \mathrm { h }$ 。消化细胞后留小部分细胞计数，其他用$0 . 5 \mathrm { m o l } / \mathrm { L }$ 氢氧化钠裂解细胞 $1 5 \mathrm { m i n }$ 后，加人同体积$0 . 5 \mathrm { m o l / L }$ 盐酸中和。用酶标仪检测细胞裂解液的dpm值。心肌细胞总放射活性-非特异性结合的放射活性）$2 4 \ : \mathrm { h }$ 细胞数即得出心肌细胞 $\mathrm { [ ^ { 3 } H ] }$ -2DG摄取量。
+
+# 1.6细胞培养基中乳酸检测
+
+12孔板细胞PBS洗1次，更换无酚红培养基培养$2 0 \mathrm { ~ h ~ }$ 后，收集上清后按乳酸检测试剂盒说明书检测，DRY-CHEMFDC3500分析仪检测乳酸含量;同时，消化细胞作细胞计数。最终结果为每 $1 0 ^ { 6 } \mathrm { { ; } }$ 细胞产生乳酸量。
+
+# 1.7Q-PCR检测miR-181家族
+
+参考Nohata等[9的方法,运用AppliedBiosystems公司miR-181家族检测试剂盒(TaqManMicroRNAAssays;AssayID:000480,001098,000482,001099)检测miR-181家族表达水平。
+
+# 1.8 双荧光素酶报告基因检测
+
+参考Hidaka等的方法，在24孔板中加入PLB裂解液 $1 0 0 ~ \mu \mathrm { L }$ ,常温下裂解 $3 0 \mathrm { m i n }$ 后收集于一干净的EP管中。将样品加人白色96孔板中，加入LuciferaseAssayBufferII后酶标仪检测荧光值Luc1,再加入
+
+Stop & $\mathbf { G } \mathbf { l o } ^ { \textregistered }$ Buffer检测荧光值Luc2。Luc1/Luc2即为检测值。
+
+# 1.9 统计方法
+
+应用SPSS13.0统计学软件,采用One-wayANOVA方差分析法，首先利用Levene方法进行方差齐性检验，确定方差齐性且整体比较组间差异有统计学意义后进一步作多重比较，多重比较采用LSD法。以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1糖酵解和miR-181家族在CAFs(癌相关成纤维细胞)中的情况
+
+分离原代成纤维细胞，10d后镜下观察细胞形态，NFs和CAFs都成长梭形，两者在镜下无明显不同（图1A)。进一步检测糖摄取和细胞培养基中乳酸水平，结果可见CAFs组糖摄取和乳酸产生都较NFs组明显增加(图1B、C)。miR-181家族表达水平，CAFs组较NFs组明显减少(图1D)，其中miR-181c减少较为明显。由此可见，CAFs中糖酵解明显增加，可能与miR-181c减少有关。
+
+# 2.2miR-181抑制成纤维细胞糖酵解
+
+在糖酵解增多的CAFs中miR-181家族表达水平明显减少,为进一步明确两者之间的关系，我们通过转染miR-181家族的小片段mimics或抑制片段inhibitor到细胞中。结果显示，在NFs细胞中转染miR-181家族的inhibitor,其葡萄糖摄取和培养基中乳酸水平明显增加（图2A、B);另一方面，CAFs转染miR-181家族的mimics后，其葡萄糖摄取和培养基中乳酸水平明显减少(图2CD)。由此可以推测，miR-181家族参与成纤维细胞糖酵解途径的调控，其中以miR-181c的作用较为明显。
+
+# 2.3miR-181c靶向HK2mRNA下调HK2蛋白表达
+
+通过生物信息学网站(http://www.microrna.org)及相关文献预测miR-181c调控的与糖代谢相关的靶向基因。已糖激酶2(hexokinase-2，HK2)是催化已糖使之磷酸化的酶，它是糖酵解途径的第1个酶，也是糖酵解途径的限速酶。我们对比了NFs和CAFs细胞匀浆中HK2的表达，发现CAFs中HK2的表达较NFs明显增加（图3)。在高表达miR-181c的NFs中转染inhibitor-181c后，HK2的表达明显增加;相反，在低表达miR-181c的CAFs转染mimics-181c后，HK2表达明显降低。为进一步明确miR-181c的靶点，我们通过信息学分析预测miR-181c在HK2mRNA靶点并将其进行突变。荧光素酶报告基因系统检测结果显示，miR-181c可以减少野生型(WT)质粒荧光素酶的荧光，对突变型(MUT)没有影响。以上结果显示，miR-181c可以靶向HK2mRNA下调HK2蛋白表达。
+
+![](images/01a14b501f0d45a34c545d54efb7512005e52897c95f913538194c5fef39e53c.jpg)  
+图1CAFs中糖酵解水平和miR-181家族表达的情况 Fig.1GlycolysislevelandexprsionofR-181familyinCAFs.A:NFsandCAFsunderinverted microscope (Originalmagniication: $\times 2 0 0 )$ ;B: Glucoseuptakeassessdby-NBDG; C:LactatelevelsintheculturemediadeterminedwithlactateAssayKits(ormalized with cell number); D: Q-PCR for analyzing expressions of mir-181 family. $^ { * } P { < } 0 . 0 5$ us NFs group.   
+图2miR-181对成纤维细胞糖酵解的影响 Fig2 Effects of miR-181 family on glycolysis of fibroblasts.Glucose uptake was assessed by 2-NBDG in NFs (A) and CAFs $( C ) _ { }$ the lactate levels in the culture media were determined in NFs $( B )$ and CAFs $( D )$ $^ { * } P { < } 0 . 0 5$ negative control (NC) group.
+
+A Inhibitor-NC B \* Inhibitor-NC ■Inhibitor-miRNA Inhibitor-miRNA 2.0 1.0 0.8 04 0.5 0.0 0.0 miR-181a miR-181b miR-181c miR-181d miR-181a miR-181b miR-181c miR-181d   
+C =Mimics-NIRNA D =Mimics-NiRNA 00 0.2 0.0 miR-181a miR-181b miR-18lc miR-181d miR-181a miR-181b miR-181c miR-181d
+
+2.4miR-181c通过抑制HK2的表达促进细胞糖酵解
+
+虽然HK2可以促进糖酵解，并且miR-181c有抑制HK2蛋白表达的作用，但是mic-181c是否通过抑制HK2来抑制细胞糖酵解，还需进一步验证。通过siRNA技术，在敲低HK2的CAFs细胞中(图4A)转染mimics181c，结果显示敲低HK2后，CAFs细胞葡萄糖摄取和细胞培养基中乳酸水平明显减少（图4B、C)，但是mimics-181c不能进一步减少CAFs细胞葡萄糖摄取和细胞培养基中乳酸水平(图4B、C)。另一方面，我们在低表达HK2的NFs中过表达HK2(图D)，其葡萄糖摄取和细胞培养基中乳酸水平明显增加(图4E、F)，进一步转染mimics-181c后，过表达的HK2减少(图D)，同时葡萄糖摄取和细胞培养基中乳酸水平明显也较过表达HK2组明显减少(图4EF)。由此可见，miR-181c是通过抑制HK2的表达来抑制细胞糖酵解。
+
+# 3讨论
+
+CAFs是癌组织周围呈激活状态的成纤维细胞[-12]较之正常的成纤维细胞(NFs)，CAFs的代谢方式也具有独特性。有研究13表明CAFs与癌细胞的代谢耦联方式比较符合于“反瓦伯格效应”，主要表现为：CAFs的线粒体功能严重受损，迫使CAFs使用糖酵解的方式进行代谢，大量产生的乳酸盐被癌细胞摄取和利用，为癌细胞的生长提供能量[8。另外CAFs产生的乳酸盐还能刺激癌细胞的线粒体，使其氧化磷酸化反应增强。并且，糖酵解产生的乳酸排出到胞外形成酸性环境，有利于肿瘤细胞对周围组织的侵袭[14-15]。我们的结果也显示，在原代CAFs的糖摄取和培养基中乳酸水平较NFs明显增加。
+
+MicroRNA是细胞内重要生理调控机制之一。越来越多的研究表明，microRNA细胞的糖代谢调节，特别的糖酵解发挥重要作用[16-17]。在分离的原代CAFs中，有抑制肿瘤作用的miR-181家族表达水平明显下降。我们进一步在CAFs中转染miR-181家族的mimics,发现CAFs的糖酵解受到明显抑制；相反，在NFs细胞中转染miR-181家族的inhibitor,能够增加其的糖酵解水平。由此可见，miR-181家族参与了CAFs的糖酵解调控。
+
+![](images/c11cbfef0231c7055d71b794a00f4a2e87c9feaeaa9a20f13957568f3bdfff0e.jpg)  
+图3miR-181c靶向HK2mRNA对HK2蛋白表达的影响
+
+![](images/3908b67f316ea1e6c81b2e56c6b29efaca8c3042247b12f0cfa0f93de794bdae.jpg)  
+Fig.3Effectof miR-181conexpressionof HK2 proteinbytargeting HK2mRNA.A:Expresionof HK2 protein determined by WesternblottinginNFsandCAFs( $^ { \prime * } P { < } 0 . 0 5 )$ ; B:Expression of HK2 protein in NFs transfected with inhibitor-181c and mimcs-181 0 $^ { * } P { < } 0 . 0 5$ vs NC group); C: Wild type (WT) and mutation (MUT) of sequences in the 3'UTR of HK2 targeted by miR-181c.The boxed sequences are complementary to the seed sequence of miR-181c; $D$ : Luciferase reporter gene activity in CAFs $^ { \cdot } { } ^ { * } P { < } 0 . 0 5$ Us NC group).   
+图4miR-181c抑制HK2的表达对进细胞糖酵解的影响 Fig.4 miR-18lcsuppressed glycolysis throughdown-regulationofHK2.Westerblotwasused todeterminetheexpresionofHK2in CAFs transfected with siRNA(A) and in NFs transfected with vector-HK2 and mimics-181c $( D ) .$ Glucose uptake was assessed by 2-NBDG in CAFs $( B )$ and NFs $( E )$ ;the lactate levels in culture media were determined in CAFs (C) and NFs $( F )$ ： $^ { * } P { < } 0 . 0 5$ negative control (NC) group.
+
+为了明确miR-181家族调控糖酵解的机制，通过生物信息学分析，发现miR-181家族中抑制糖酵解效果较好的miR-181c可以靶向糖酵解限速酶HK2(已糖激酶2,hexokinase-2)mRNA的3'UTR。在CAFs细胞中增加miR-181c表达后，HK2蛋白表达水平明显减少。通过荧光素酶报告基因系统进一步检测，发现miR-181c靶向的mRNA位点发生突变后，miR-181c对其没有明显的抑制作用。我们可以推测，miR-181c可以靶向HK2mRNA的3UTR，抑制其蛋白翻译。那么，miR-181c是否通过抑制HK2的蛋白水平来减少糖酵解的。敲低CAFs细胞HK2蛋白水平后，再转染mimics-181c后，miR-181c无明显的抑制糖酵解作用；另一方面，miR-181c却可以抑制NFs过表达HK2后糖酵解增加，同时减少HK2的蛋白水平。因此，我们推测miR-181家族是通过抑制HK2的蛋白水平来减少糖酵解。
+
+综上所述，miR-181c有明显的抑制CAFs糖酵解作用，其机制可能是通过抑制糖酵解限速酶HK2蛋白的翻译,这为临床治疗肿瘤提供了一个新的思路。
+
+# 参考文献：
+
+[1]Jia CC,Wang TT,Liu W,etal. Cancer-associated fibroblasts from hepatocellular carcinoma promote malignant cell proliferation by HGF secretion[J].PLoS One,2013,8(5): e63243.   
+[2]Nagasaki T,Hara M,Nakanishi H,et al. Interleukin-6 released by colon cancer-associated fibroblasts is critical for tumour angiogenesis:anti-interleukin-6 receptor antibody suppressed angiogenesis and inhibited tumour-stroma interaction[J].Br J Cancer, 2014,110(2): 469-78.   
+[3]Sotgia F,Martinez-Outschoorn UE,Pavlides S,et al. Understanding the warburg effect and the prognostic value of stromal caveolin-1 as a marker of a lethal tumor microenvironment[J].Breast Cancer Res,2011,13(4): 213.   
+[4]Chaudhri VK,Salzler GG,Dick SA,et al.Metabolic alterations in lung cancer-associated fibroblasts correlated with increased glycolytic etaDoIIsI OI e tumOr_J」.MOI Cancer Kes,∠UI5,II(O): ɔ/y-y∠.   
+[5]黄秀芳,邵建永,颜黎栩,等.乳腺癌差异表达的MicroRNA的筛选研 究[J].中山大学学报:医学科学版,2009(1):69-73,77.   
+[6]Huang P,Ye B,Yang Y,etal.MicroRNA-181 functions as a tumor suppressor in non-small cell lung cancer (NSCLC） by targeting Bcl-2[J].Tumour Biol,2015,36(5): 3381-7.   
+[7]JiX,Ji J,Shan F,et al. Cancer-associated fibroblasts from NSCLC promote the radioresistance in lung cancer cell lines［J]. Int J Clin Exp Med,2015,8(5): 7002-8.   
+[8]Fischer Y,Thomas J,Sevilla L,et al. Insulin-induced recruitment of glucose transporter 4(GLUT4) and GLUT1 in isolated rat cardiac myocytes.Evidence of the existence of different intracellular GLUT4vesicle populations [J].JBiol Chem，1997，272(11): 7085-92.   
+[9]Nohata N,Hanazawa T,Kikkawa N,et al.Caveolin-1 mediates tumor cell migration and invasion and its regulation by miR-133a in head and neck squamous cell carcinoma[J].Int JOncol,2011,38 (1): 209-17.   
+[10]Hidaka H, Seki N, Yoshino H,et al. Tumor suppressive microRNA1285 regulates novel molecular targets: aberrant expression and functional significance in renal cell carcinoma［J].Oncotarget, 2012,3(1): 44-57.   
+[11] Xing F, Saidou J,Watabe K. Cancer associated fibroblasts (CAFs) in tumor microenvironment[J].Front Biosci (Landmark Ed),2010, 15: 166-79.   
+[12]Erez N,Truit M, Olson P, et al. Cancer-Associated fibroblasts are activated in incipient neoplasia to orchestrate Tumor-Promoting inflammation in an NF-kappaB-Dependent manner[J]. Cancer Cell, 2010,17(2): 135-47.   
+[13]Pavlides S,Whitaker-Menezes D,Castello-Cros R，et al.The reverse Warburg effect: aerobic glycolysis in Cancer associated fibroblasts and the tumor stroma[J].Cell Cycle,2009,8(23): 3984-4001.   
+[14] Yizhak K, Le Dévédec SE,Rogkoti VM,et al. A computational study of the Warburg effect identifies metabolic targets inhibiting Cancer migration[J].Mol Syst Biol,2014,10(5): 744.   
+[15] Kroemer G. Mitochondria in cancer[J]. Oncogene,2006,25(34): 4630-2.   
+[16]Yu C, Xue J, Zhu W,et al. Warburg meets non-coding RNAs: the emerging role of ncRNA in regulating the glucose metabolism of cancer cells[J]. Tumour Biol,2015,36(1): 81-94.   
+[17]Jin LH,Wei C.Role of microRNAs in the warburg effect and mitochondrial metabolism in cancer[J].Asian Pac J Cancer Prev, 2014,15(17): 7015-9.
+
+(编辑：孙昌朋)

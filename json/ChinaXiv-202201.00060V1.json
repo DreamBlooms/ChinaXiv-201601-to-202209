@@ -1,0 +1,410 @@
+[
+    {
+        "type": "text",
+        "text": "利他行为的遗传基础：来自定量遗传学和分子遗传学的证据",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李海虹’尚思源²³谢晓非1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(北京大学心理与认知科学学院，行为与心理健康北京市重点实验室，北京 100871)(杭州师范大学心理系，杭州311121)(杭州师范大学附属医院认知与脑疾病研究中心，杭州311121)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 利他行为是指个体耗损自身资源帮助他人的行为。近年来，研究者关注利他行为的遗传基础，基于定量遗传学和分子遗传学两类研究方法，探讨了利他行为的遗传率，证实利他行为确实受遗传所影响，以及发现了四类利他候选基因，包括多巴胺受体基因、5-羟色胺转运体基因、催产素受体基因、和加压素受体基因，并在此基础上讨论环境在基因对利他影响中的作用。一方面基因与环境相关联，二者共同影响利他行为，即基因-环境相关；另一方面基因的效应受环境影响，即差别易感性模型。未来研究需拓展神经生物系统探索，注重全基因组研究、元分析和机制探索，和进行系统的环境干预实践。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词利他行为，基因，基因-环境相关，差别易感性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "古人云“每有患急，先人后己”，所赞扬和推崇的便是利他行为。利他行为的定义有狭义和广义之分。狭义的利他是指不追求任何利益回报、以增进他人福祉为目的的行为(Kaiser,2017)。然而，利他行为通常会给助人者带来声誉、互惠等回报。例如，美国进化生物学家罗伯特·特里弗斯（RobertTrivers）提出互惠利他（reciprocalaltruism;Trivers,1971），即个体通过相互合作而互利的行为。因此，一些研究者支持广义的利他概念，广义的利他是指个体耗损自身资源帮助他人的行为(Li et al.,2020;Wang et al.,2020)，包括了帮助行为、合作行为、资源分享、慈善捐赠和志愿活动等(Batson,2012；胡捷，2017)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利他行为受到广泛推崇的原因在于其对于社会而言具有重要意义，有助于促进人际关系和谐，凝聚社会力量。著名生物学家爱德华·威尔逊（D.S.Wilson）提出的多水平选择理论认为，个体的利他行为能够增强群体的适应性，利他的种族更可能在危机下存活和发展(Wilson&Wilson，2007)。此外，近些年来的大量研究也发现利他行为对于助人者同样具有积极意义。例如，在心理层面上，利他行为有利于促进幸福感(Hui et al.,202O)，提升自我效能感(Crocker et al.,2017);在生理层面上，利他行为能带来内部效用增益(谢晓非 等,2017)，如缓解急性与慢性疼痛(Wang et al.,2020)，降低心血管疾病罹患风险和死亡风险(Burr et al.,2018)等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于利他行为的重要性，探索利他的影响因素是极为必要的。虽然利他对群体和个体具有重要的意义和价值，但是利他行为存在个体差异的证据比比皆是(e.g.,Chong et al.,2019;Li et al.,2020; Zahn-Waxler et al.,1992)。例如，研究发现仅14个月大的婴幼儿就会为遭受痛苦的人提供不同程度的帮助和安慰(Zahn-Waxler etal.,1992)。由于此时婴儿还较小，可能尚未进行社会化学习，因此行为差异更可能源于一些生理性因素，尤其是遗传因素。然而，迄今为止未有研究者对利他的遗传基础研究进行系统梳理。本文将详细介绍利他行为的遗传基础，从定量遗传学研究和分子遗传学研究两方面进行梳理，分析环境因素在其中的作用，并在此基础上探讨未来可能的研究方向，为今后的相关研究提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2遗传基础 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遗传研究主要采用两类研究方法：定量遗传学和分子遗传学。定量遗传学是利用研究设计将行为的环境和遗传效应分离，得到遗传所占方差的比例，也即遗传率（heritability）；分子遗传学是在分子水平上考察可能的“利他\"基因。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1定量遗传学",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "探究利他行为遗传基础的传统研究方法是探究遗传率，通常行为差异的遗传率可以通过双生子研究、收养研究、再婚家庭基因设计等方法进行估计，例如双生子研究法是通过比较同卵双生子之间和异卵双生子之间的相关性，将变异分解为遗传效应、共享环境效应和非共享环境效应，从而判断行为是否受到遗传影响，以及更为重要的是，探究行为多大程度上受遗传影响(Nes&Roysamb,2017)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表一总结了近些年来采用定量遗传学研究方法探究利他及相关变量（如，共情）遗传率的研究，从中不难发现，利他行为确实受遗传所影响。Matthews 等人(1981)最早采用双生子研究法调查230对42至57岁双胞胎，发现共情关心具有较高的遗传率（0.72），而共情能有效促进人的利他行为，被认为是利他行为的内在机制之一(deWaal,2008)，因此该研究验证了探究利他遗传率的可能性。随后，大量研究者开始探究利他遗传率,涉及不同文化背景、遍布各年龄段和阶层、采用不同的利他测量方式，得到了丰富的证据(e.g.,Knafo etal.,2015;Hur et al.,2017;Rushton et al.,1986;Wang & Saudino,2015)。例如，Rushton 等人(1986）让1400 对19至60 岁双胞胎填写自我报告利他量表（Self-Report Altruism Scale），研究发现利他遗传率为0.60，但共享环境解释的方差非常少，非遗传变异主要归因于双胞胎非共享的环境（或是可能的测量误差）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过汇总分析利他遗传率的研究结果，可以发现遗传率估计在不同研究中有所差异（0\\~0.87），表明利他的遗传程度可能受一些因素影响，因此有必要对这些因素进行归纳整理。首先，一些纵向研究证实利他遗传率随年龄增加而增长(Knafo&Plomin,2006;Scourfield etal.,2004)。例如，研究发现利他的遗传效应从2岁时平均0.32上升到7岁时平均0.61，而共享环境效应则从0.47下降到0.03(Knafo&Plomin,2006)，表明遗传影响随着儿童年龄增长不断增强，而由于儿童长大体验到不同的社会环境，共享环境的影响逐渐降低，这也得到了Scourfield等人(2004)的研究证实。其次，利他的测量方式可能影响遗传率估计。研究中最普遍采用的是问卷调查法，如一些研究让被试自行填写利他量表(e.g,Krueger etal.,2001;Rushton etal.,1986)，该方法适用于大样本研究；对于年龄较小的婴幼儿则让父母、教师对其进行问卷评定(e.g.,Hur&Rushton,2007;Knafo etal.,2015)。虽然一些研究发现父母和教师评定的结果极为相似(Knafo&Plomin,2006)，在另一些研究中却发现教师评定的遗传效应（0.78）高于父母的评定结果（0.52）(Scourfieldetal.,2004)。此外，不同于问卷调查法，还有研究采用情景模拟观察(Knafo et al.,2011;Volbrecht etal.,2007)、行为测量(Van IJzendoorn et al.,2010)等方法。例如，母亲和实验者按照指定的脚本模拟痛苦，假装手指被手提箱夹到，对儿童的利他行为进行录像及编码(Zahn-Waxler etal.,1992)。在这些研究中，不同的利他测量方式所产生的测量误差可能不同，继而影响遗传率估计。最后，文化、家庭环境等也是需要考虑的重要因素。例如，现有研究关注了美国、荷兰、英国、韩国、瑞典、以色列等不同国家人群，在比较采用相同利他测量手段的研究时，可以发现韩国人（0.55）与英国人（0.61）等存在一定差异(Hur＆Rushton,2007;Gregory et al.,2009)。但由于研究相对有限，尚不能得出利他遗传率跨文化差异的结论，还需要通过更严谨的实验设计、更多的研究证据去验证。除了文化因素，家庭环境因素如社会经济地位等也可能起作用，Scarr-Rowe假说提出基因×社会经济地位交互（Gene× Socioeconomic Status interaction），即较低（vs．高）社经地位童年环境中的个体认知能力的遗传率较低（vs.高），这可能是因为适应性功能的遗传潜能在更丰富的环境中更能得到充分表达(Scarr-Salapatek,1971;Tucker-Drob&Bates,2016)。鉴于利他行为需耗损自身资源，因此有理由推断在资源丰富的童年家庭环境中成长可能更有利于利他的遗传表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/44e8b346bb6e46c0f2eee6f1c89f8648b86b689719c4b1d8ba2f973d051dcf8f.jpg",
+        "table_caption": [
+            "表一利他及相关变量遗传率研究汇总"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">研究</td><td colspan=\"3\">被试</td><td colspan=\"2\">利他及相关变量测量方式</td><td>结果</td></tr><tr><td>国家</td><td>样本量 年龄</td><td></td><td>测量方式</td><td>测量工具或范式</td><td></td></tr><tr><td>Matthews et al. (1981)</td><td>美国</td><td>230对</td><td>42~57岁 Mage = 48.1岁</td><td>自我报告</td><td>共情关心指数（empathic concern index）</td><td>遗传率0.72</td></tr><tr><td>Rushton et al.</td><td>英国</td><td>双胞胎</td><td>573对19~60岁</td><td>自我报告</td><td>自我报告利他量表（Self-Report Altruism Scale）</td><td>自我报告利他：遗传率0.60，共享环境0.02</td></tr><tr><td>(1986)</td><td></td><td>双胞胎</td><td></td><td></td><td>情绪共情量表（emotional empathy） 培育量表（Nurturance Scale）</td><td>情绪共情：遗传率0.65，共享环境0 培育：遗传率0.60，共享环境0.01</td></tr><tr><td>Zahn-Waxler et al. (1992)</td><td>美国</td><td>184对 双胞胎</td><td>追踪14 月、20个月</td><td>观察</td><td>情景模拟亲社会行为（prosocialact），包含帮助等行为 共情关心（empathic concern）</td><td>亲社会行为：14个月遗传率0.35，共享环境0; 20个月遗传率0，共享环境0.15 共情关心：14个月遗传率0.23，共享环境0；</td></tr><tr><td>Krueger et al. (2001)</td><td>美国</td><td>673对</td><td>Mage=33岁</td><td>自我报告</td><td>自我报告利他量表（Self-Report Altruism Scale）</td><td>20 个月遗传率0.28，共享环境0 遗传率0，共享环境0.35</td></tr><tr><td>Deater-Deckard et al. (2003)</td><td>英国</td><td>双胞胎 3503 对兄弟</td><td>目标4岁儿 童，兄姐(Mage</td><td>母亲评定</td><td>Questionnaire，SDQ），包含分享，帮助和友好等</td><td>长 处与困难问卷（Strengths and Difficulties遗传率0.13，共享环境O.18，非共享环境0.69</td></tr><tr><td>Scourfield et al．南威尔 (2004)</td><td>士</td><td>姐妹 682 对5~17岁 双胞胎</td><td>= 6.31岁)</td><td>母亲、教SDQ问卷 师评定</td><td>条目</td><td>低于11岁：遗传率0.46，共享环境0.30，非共享环境0.2 高于11岁：遗传率0.87，非共享环境0.13</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>威尔士</td><td></td><td></td><td>师评定</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>&英国、</td><td></td><td>追踪2、3、4和父母、教</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>母亲评定：遗传率0.52，非共享环境0.48</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>教师评定：遗传率0.78，非共享环境0.22</td></tr><tr><td>Knafo</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>12567</td><td></td><td></td><td></td><td>儿童2、3、4岁时：父母填写改编的学前儿童Rutter遗传率：0.32(2 岁)，0.39(3岁)，0.52(4岁)，0.61(7岁父母)</td></tr><tr><td>Plomin (2006)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>对双胞</td><td>7岁</td><td></td><td>父母量表(Revised Rutter Parent Scale for Preschool O.61(7 岁教师);</td><td></td></tr><tr><td></td><td></td><td>胎</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Children ）</td><td>共享环境：0.47(2 岁)，0.31(3 岁)，0.1(4 岁)，0.03(7 岁夕</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>儿童7岁时：父母与教师评定SDQ问卷</td><td>母)，0.09(7 岁教师)</td></tr><tr><td>Hur & Rushton</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>514 对2~9岁</td><td></td><td>母亲评定</td><td></td><td></td></tr><tr><td></td><td>韩国</td><td></td><td></td><td></td><td>SDQ 问卷</td><td>遗传率0.55，非共享环境0.45</td></tr><tr><td>(2007)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Mage = 4.4岁</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>双胞胎</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7901a96c28390b988cc4968e979f33f2ee21231e541461f4788cbf11eb985e32.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"3\"></td><td colspan=\"3\"></td></tr><tr><td></td><td></td><td></td><td></td><td>81-</td><td></td><td>亚 9日</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>并非‘并‘：</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>回（uenon</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>√06=W£8[</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>66=</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>本母</td><td></td><td>5500</td><td></td><td>国渊 8</td><td></td></tr><tr><td></td><td>（1）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>（-es） （）8</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>温X</td><td></td><td></td><td>0100</td></tr><tr><td></td><td> I </td><td></td><td></td><td>灰16</td><td></td><td></td><td>uioopuon</td></tr><tr><td></td><td></td><td>（) 本母</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>盟</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>091</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>（国渊</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>5323</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>国美</td><td></td></tr><tr><td>（并‘）</td><td>（sn）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>22-12 6</td><td></td><td>国渊</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，研究者采用定量遗传学研究方法，提供了丰富的利他遗传率证据，证实人类的利他行为确实受遗传所影响。但遗传率估计在不同研究中有所差异，通过对过往研究的归纳、分析可知，遗传率可能受到年龄、测量方法、环境等多种因素影响，然而尚未有研究对这些因素进行系统探究，因此未来需要进行更多的纵向研究和大样本研究重复验证已有研究结论，对现有结果进行元分析，以及考虑可能的家庭、社会环境等调节变量等，例如探究利他遗传率是否受社经地位影响等。以上利他遗传率研究多采用双生子研究法进行探究，仅有一篇研究采用再婚家庭基因设计法(Deater-Deckard etal.,2003)，该方法有助于部分解决在双生子研究中遗传和环境方差估计混淆的问题(Deater-Deckard etal.,2003)，因此在未来研究中丰富利他遗传率估计的研究方法也是十分必要的。此外，双生子研究法将环境对行为的影响区分为共享环境效应和非共享环境效应。汇总以上研究可以发现共享环境对利他的直接影响较小或甚至为零(e.g.,Knafo etal.,2015)，一方面可能是源于儿童越来越多地暴露在非家庭环境（如学校）中，增加了兄弟姐妹之间的差异，另一方面父母对不同子女也可能形成差异化的亲子互动方式。大部分研究都支持显著的非共享环境效应也验证了非共享环境的重要作用(e.g.,VanIJzendoorn etal.,2011)，即使在同一家庭中，父母对子女独特的教养方式、出生次序、生活事件、病史等非共享环境因素都可能使得兄弟姐妹之间彼此不同。总体而言，虽然定量遗传学研究方法存在一定的局限性，例如仅仅是在统计学范畴考察行为的遗传影响，现有研究结论不一，还有待未来进一步探究，但基于该方法所得到的大量研究成果，为探究利他遗传影响打下了坚实的基础。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2分子遗传学",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近些年来随着技术更新升级，研究者开始从分子水平探究是否存在\"利他\"基因。基因是具有遗传特性的脱氧核苷酸序列片段，储存着生命血型、生长、健康、死亡等过程的全部信息。一直以来，研究者们采用候选基因研究（candidate genestudy）的方法，即检验利他行为与已知功能的基因序列的变异（或位于、接近已知功能的基因序列的变异)之间的关联。在过去几十年中，相关研究已十分丰富，利他候选基因研究主要集中在四类神经生物系统中，即在执行功能、学习和奖赏中发挥重要作用的多巴胺系统；与情绪和抑制相关的5-羟色胺系统；以及管理、调节社会认知和行为的催产素系统和加压素系统，相关汇总见表二。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/050d1c7f092c72d060695aefb13c5e2b3523e5a836c884e7f8746bfb1b4ae4e4.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "候选基因 ?科 因分类 ，利他及相关变量分子遗传学研究列表D位点/基因型一 环境因素他量工具Revised结因携带者比基因携带者更利他（ackee3)"
+        ],
+        "table_body": "<html><body><table><tr><td>（ （‘）（S）P</td><td></td><td></td><td>AAAAAC</td><td></td><td rowspan=\"13\"></td></tr><tr><td></td><td></td><td></td><td>18831751</td><td>5</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>'8L1740151</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>AAAAAC</td><td></td></tr><tr><td></td><td>30100</td><td></td><td>(ST'SS 'TT)</td><td></td></tr><tr><td></td><td></td><td>(IYI</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>(ST'SS 'TI)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>非</td><td></td><td>回AS</td><td></td><td></td></tr><tr><td>‘非“与‘</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>（）</td><td> ）   </td><td></td><td></td><td></td></tr><tr><td>（</td><td></td><td></td><td></td><td></td></tr><tr><td>（）</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>5</td></tr><tr><td></td><td>(5005</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>5</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>(J--1</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9189ace5d9ebce37cc322a9377c3bb17948b30f3c613dc6795221d7641663443.jpg",
+        "table_caption": [
+            "注：基因研究（G），基因环境交互研究（GxE)",
+            "4 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>（</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>5</td><td></td></tr><tr><td>(</td><td></td><td></td><td>5</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>/灰雨‘留</td><td></td><td></td><td></td><td></td></tr><tr><td>（/）</td><td></td><td>(LT'II 'TT)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>）三</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>(CA AA CAA)</td><td></td><td></td></tr><tr><td>重（）（864S）4S</td><td></td><td></td><td></td><td></td></tr><tr><td>查与血‘</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>宝餐</td><td>AAAAAC</td><td></td></tr><tr><td>血‘（）（YS）4</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>'SLLSLSI</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>武出</td><td></td><td>118833731</td><td></td></tr><tr><td></td><td></td><td></td><td>5</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.1多巴胺受体基因 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多巴胺（dopamine,DA）是大脑中与奖赏寻求有关的儿茶酚胺类神经递质，个体在感到兴奋和高兴时会释放一定量的多巴胺(Skuse&Gallagher,2009)。大量动物研究发现，多巴胺与动物冲动性、风险决策等有关(黄文强 等,2016)。在与利他行为的关系方面，研究发现助人能带来快乐，当被试对爱人提供支持时，大脑分泌多巴胺的奖赏中心腹侧纹状体（ventral striatum）活动增强，也就是说，这些助人活动促使大脑分泌了多巴胺(Inagaki& Eisenberger,2012)。鉴于多巴胺在奖赏系统里发挥的重要作用，探讨相关的候选基因对于探究人们为何做出利他行为有着重要意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多巴胺发挥作用的过程，通常离不开多巴胺受体的作用，研究者在多巴胺受体基因上发现了与利他行为相关的基因(李曦 等，2020)。多巴胺 D4 受体（Dopaminereceptor4,DRD4）基因位于人类染色体11p15.5位置上，包含5个外显子和4个内含子。DRD4基因第3外显子上的1个48bp 可变串联重复序列会出现2\\~8、10倍的重复序列，更长重复序列降低了受体与多巴胺的结合率。已有研究发现更长的重复序列（6\\~8）与更多的反常风险行为有关，例如相比于DRD4-4R（即4倍重复等位基因）， $\\mathrm { D R D } _ { 4 } \\mathrm { - } 7 \\mathrm { R }$ 与新奇行为、注意缺陷多动障碍症有着更高的相关(e.g.,Rettew&McKee,2005)。DRD4基因的可变串联重复序列也被发现可以预测个体的利他主义(Anacker etal.,2013;Bachner-Melman et al.,2005;Reuter et al.,2013)。例如，Bachner-Melman 等人(2005)让被试填写无私量表，该量表测量个体忽视自身需求、服务他人需求和利他主义的倾向，结果发现DRD4-4R与无私量表显著相关。研究同时也说明DRD4-4R和7R的平衡可能与人类进化过程中对多种行为的需求有关。4R可能决定了利他、亲社会特质，而携带有7R 的被试可能会表现出更多的新奇行为、凶猛好斗甚至是反社会行为(Anacker et al., 2013; Bachner-Melman et al., 2005; Rettew & McKee,2005)。同时鉴于多巴胺是大脑中与奖赏有关的神经递质，该研究也为奖赏和利他之间的关联提供了神经化学基础，即人们可能在做好事时受到多巴胺脉冲的奖励。因此，个体牺牲自身资源利他的原因也许正源于此，通过大脑多巴胺途径“奖赏\"利他行为的特定多态性可能是人类进化过程自然选择的重要结果(Bachner-Melman et al.,2005)。此外，不同于探究多巴胺受体基因和利他的直接关联，近些年的大量研究发现DRD4基因多态性对利他的影响受到宗教信仰、家庭环境等环境因素的调节(王云强 等,2020; Jiang et al.,2015; Sasaki et al., 2013)。例如，DRD4-4R 携带者只有在公开表达攻击性的家庭环境中有更高的利他倾向(王云强 等,2020)，证明环境在基因对行为的影响中也发挥着重要作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.25-羟色胺转运体基因 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5-羟色胺（serotonin），又名血清素，一种抑制性神经递质，与情绪和行为的管控有关。研究发现提升5-羟色胺水平能够增加个体在囚徒困境游戏中的合作行为(Tse&Bond,2002)，反之降低 5-羟色胺水平会减少个体在囚徒困境游戏中的合作行为(Woodetal.,2006)。基于利他的定义，囚徒困境、最后通牒、信任游戏等范式中的合作行为也可以被认为是一种利他行为 (Bhogaletal.，2017;",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Gallotti,& Grujic,2019; Smith,2003;Wang etal.,2020；李曦 等,2020)，即个体舍弃自身利益、利于他人，因此，以上研究证实5-羟色胺水平能够影响个体的利他行为，验证了探究“利他”基因的可能性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5-羟色胺转运体基因(SLC6A4)位于第17号染色体q11.1\\~12，包含14个外显子。5-羟色胺转运体基因参与5-羟色胺的系统调控（从突触间隙输送到突触前神经元），从而调节5-羟色胺在突触中的聚集，这会改变接受受体的浓度(Lesch,2007)。5-羟色胺转运体基因中研究最多的多态性位点是启动子连锁多态性区域（serotonin transporter gene linked polymorphic region,5-HTTLPR）。共情被认为是利他行为的内在机制之一(deWaal,2008)，然而研究者发现 5-HTTLPR与特质共情无显著关联(Huetter etal.,2020)，这可能说明 5-HTTLPR与利他的关系并非由共情所中介，尚不能直接否定5-HTTLPR与利他的关联。5-HTTLPR有两种等位基因：长等位基因（L）和短等位基因（S）。Stoltenberg 等人(2013)发现L基因携带者相比于S基因携带者更可能帮助他人，并且该效应由S 基因携带者将社交情境知觉为威胁所中介。也就是说，携带S基因者更少利他的原因可能是该类人群更可能把社交情景知觉为威胁，有更高的情绪唤起，因而更少地做出可能带有风险、牺牲自身资源帮助他人的利他行为。总体而言，目前对5-羟色胺转运体基因与利他行为之间关系的探究还相对较少，因此未来仍需要更多的研究进行重复探究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.3催产素受体基因 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "催产素（oxytocin，OT）是一种包含9种氨基酸的神经肽(尚思源，苏彦捷，2016；张旭凯等,2018)。早期，研究者发现催产素在女性泌乳、生产、维持依恋关系和母爱活动中发挥了重要作用(Smithetal.,2010)。但它并非女性的专利，而是男女均可分泌。大量研究发现了催产素对人类社会行为的影响(张旭凯 等,2018)，它也被称之为\"爱的荷尔蒙”。例如，研究者通过鼻喷法为参加实验的志愿者注射催产素，发现相比于安慰剂组，催产素能促使个体在面对慈善捐款时捐出更多金钱(Barraza et al.,2011)。催产素水平更高的个体在日常生活中更多参加与他人互动的活动（如社会化活动、帮助行为），报告更高的积极情绪(Isgett et al.,2017)。另有研究发现催产素对利他行为的影响受到内外群体等变量的调节(Daughters et al., 2017)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "催产素系统中受到最广泛研究的是催产素受体基因（Oxytocin Receptor，OXTR），位于3p25染色体上，长约17kb，包含4个外显子和3个内含子。研究发现OXTR的单核苷酸多态性（single nucleotide polymorphisms;SNPs）rs53576与利他有关，携带SNP（rs53576）更多G等位基因（即GG）的个体相比于A等位基因携带者（即AG，AA）更可能帮助别人(Verbeke etal.,2013)。独裁者博弈范式的金钱分配涉及到把\"到手的钱\"分给他人 (Israeletal.,2009)，符合利他行为的定义(Wangetal.,2020；李曦 等,2020)。因此独裁者博弈以及相类似的社会价值取向量表（Social Value Orientation,SVO）等被广泛用于测量个体的利他行为(e.g.,Israel et al., 2009; Jiang et al.,2015; Knafo et al.,2008)。例如，Israel等人(2009)采用这两个范式，探究利他行为与OXTR的15个单标签SNPs之间的关系。结果显示，3段SNP（rs1042778，rs2268490，rs237887）与两个利他任务有显著关系，其中rs1042778相关性最高。最后，携带\"友善基因\"的个体也可以被他人所识别,Kogan等人(2011)让23对夫妇中的一人向另一人讲述人生中一段受苦时光，同时让观察者在无声情况下观察倾诉者20s，结果发现，SNP（rs53576）的等位基因与利他行为表现有关，观察者能够识别出携带SNP（rs53576）的GG型个体比A等位基因携带者（即AG，AA）更加利他。虽然有大量研究证实催产素受体基因与利他的关联，但也有研究得到了不同的结论(Apicella etal.,2010;Bakermans-Kranenburg& van IJzendoorn,2014; Nave et al.,2015)。例如，Apicella 等人(2010)在684名瑞士双生子身上发现，9种SNP（包括：rs53576，rs237887等）与个体独裁者博弈和信任游戏中的表现均无显著关系。作者提出了几种可能的解释以说明为何他们的发现与前人研究不一致，例如瑞典与以色列可能存在环境差异，也就是说外在环境可能会影响OXTR对利他的作用。这也得到了一些研究证据支持，大量研究者发现OXTR对利他的影响受到威胁、接受者身份等外在环境因素的调节(Poulin etal.,2012; Shang et al.,2017;Wu& Su,2018)。因此，催产素受体基因与利他的关系可能不仅仅是简单的相关关系，还需要考虑复杂的环境因素在其中所发挥的作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2.4加压素受体基因 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "垂体后叶加压素（ArginineVasopressin,AVP）是一种神经内分泌激素，简称加压素，与催产素结构相似，由9个氨基酸组成，但第3、8个氨基酸与催产素不同(吴小燕等,2019)。过往大量研究不仅发现加压素在认知加工层面的作用，例如影响个体的听觉加工与注意、面孔识别与记忆，同时发现加压素能够影响家庭关系和社会互动(吴小燕 等,2019)。相比于安慰剂（生理盐水），鼻喷加压素的男性被试在与同性别伙伴参加囚徒困境博弈游戏时更倾向于合作，而鼻喷加压素的女性个体在该任务中则更倾向于在对方背叛自己后仍选择与对方合作(Fenget al., 2015)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "人类被鉴定至少有三种加压素受体类型（V1a，V1b和V2R）。其中，加压素受体（AVPR1a）基因位于 $1 2 \\mathrm { q } 1 4 { \\sim } 1 5$ 染色体上，包含2个外显子。人类在该区域有三个多态性重复序列（RS1，RS3和GT25），其中AVPR1aRS3启动子区重复多态性的长度能够预测个体在独裁者游戏中的利他倾向，长版（327\\~343 bp)相比于短版（308\\~325bp）的人海马区加压素受体mRNA水平更高，表现在利他行为上长版相比于短版愿意分配更多的金钱给他人(Knafoetal.,2008)。然而研究发现，携带 AVPR1aRS3 (327bp)等位基因的儿童更不利他(Avinun etal.,2011)。此外，有研究者证实加压素受体（AVPR1b）基因也能解释个体的利他行为(Wuet al.,2015)，该基因位于1q32 染色体上，包含2个外显子。Wu等人(2015)采用改编的亲社会倾向问卷（revised Prosocial Tendencies Measure,PTM-R），包含利他分量表，发现AVPR1b的rs28373064与个体利他倾向显著相关，且由情绪共情所中介。总体而言，研究者在两类加压素受体基因上找到了与利他相关的单核苷酸多态性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3遗传与环境",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "无论是定量遗传学研究还是分子遗传学研究，都提供了丰富的个体利他行为遗传证据。但不容忽视的是，在定量遗传学研究和分子遗传学研究中，环境已被证实不仅会影响基因遗传率(e.g.,Tucker-Drob&Bates,2016)，同时也在基因对行为的影响过程中发挥着关键作用(e.g.，王云强 等,2020)。外在环境对个体的影响至关重要，有越来越多的研究者认为人是基因和环境综合作用的产物，因此在考察利他行为的遗传基础时，也需充分考虑环境的作用。过往研究者主要围绕着基因-环境相关、基因-环境交互两方面以讨论基因和环境对行为的协同影响作用，前者关注基因可能影响环境，二者共同影响个体行为；后者关注环境影响基因表达，环境会加强或减弱基因对个体行为的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1基因选择环境：基因-环境相关 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "采用定量遗传学的研究方法分离利他行为基因和环境影响时，需要注意的一个重要问题是，基因和环境可能并不是独立的，二者可能相互关联。基因-环境相关(gene-environment correlation, Perlstein & Waller, 2O22； Scarr & McCartney,1983)理论认为，基因推动经历（experience），即基因决定了或者说选择了个体会体验何种环境，因此基因与环境具有一定的相关性。例如，具有亲社会领导力遗传倾向（基因）的一年级儿童会有更多的朋友（环境）(Rivizzignoetal.,2014)。该研究支持了基因-环境相关假设，然而却无法具体解释基因和环境究竟是如何相互作用的。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Scarr 和 McCartney(1983)指出基因-环境相关有三种类型，第一种是被动型，个体被动接受父母给予的基因和环境，而父母给予子女的基因和父母为子女提供的生活环境具有一定的相关性，遗传上倾向于利他的父母不仅会传递利他基因，而且更有可能加强和塑造利于利他行为产生的环境，二者共同促进个体的利他行为。第二种是唤起型，个体的基因型会影响他人对自己的反应（response），利他的个体更可能得到他人的利他反馈。例如，随机匹配一对陌生儿童，让他们自由玩乐，研究发现基因上更倾向于利他和性格外向的5岁儿童唤起了陌生同伴更多的利他行为和随和行为（easy-going behaviour）(DiLalla etal.,2015)。第三种是主动型，拥有某种类型基因的个体会主动创造或选择最适合自己的环境，例如，个体会选择具有相似特征的人作为朋友和婚姻伴侣(Wuetal.,2017)，因此利他的个体更可能选择利他的朋友和伴侣。同时Scarr等人认为，随着个体发展，三种基因-环境相关有所变化，被动型的影响会从婴儿期到青少年期逐渐降低，唤起型和主动型的影响则反之会逐渐提升(Scarr&McCartney,1983)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "基因-环境相关理论说明个体的基因会影响其所生活的环境，二者协同作用于个体的利他行为。该理论有助于解释双生子研究中所发现的遗传效应随年龄不断增强的现象(Knafo& Plomin,2006; Scourfield etal.,2004)。基于基因-环境相关,人们更可能基于他们的基因体验特异性的环境，同时特异性的环境会对行为产生影响，在长时间的发育过程中以上过程系统性发生，基因和环境对行为协同影响不断积累，从而使得遗传效应不断增强(Beam＆Turkheimer,2013)。此外，该理论对现有定量遗传学分析方法提出了新的思考，如果环境变异部分源于遗传变异，那么在试图估计基因对行为变异的影响时，应充分考虑这点并纳入统计模型中(Knoblach et al., 2019)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2环境影响基因表达：差别易感性模型",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "双生子研究估计遗传率的原理是基于通常认为同卵双胞胎的基因完全相同，因此假定同卵双胞胎之间的行为差异是由环境决定的(Hur&Rushton,2007)。然而，一方面，最新的研究表明同卵双胞胎在胚胎发育早期就开始出现遗传学变异，平均有5.2 个早期发育突变，也即同卵双胞胎的基因不一定完全相同(Jonsson etal.,2021)。另一方面，即使拥有相同的基因，基因的表达却可能不同(张闻，郑多，2016)。例如，研究者提出差别易感性模型(differential susceptibility model，赵德懋等,2017;Hartman&Belsky,2016)，认为环境会影响基因的表达。他们认为不能断言基因直接编码人类的社会情感行为，事实极可能是基因编码的酶，在环境的条件下，影响个体的大脑生理反应和神经荷尔蒙系统的模式。这些因素反过来影响人们在看到他人遭受痛苦时的行为、思考和感受，进而影响个体的利他行为。也就是说，携带某种基因型的个体容易受到环境的影响，既包含消极环境的不利影响，也包含积极、支持性环境的有利影响，即外部环境是以一种\"更好或更坏”的方式影响着易感基因携带者的行为发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在多巴胺受体基因中，DRD4-2R和7R基因通常被认为是易感性基因，可能会受到家庭环境、同伴环境、宗教信仰等影响(王云强 等,2020; Sasakietal.,2013;Schlomer etal.,2020)。例如，研究发现携带有DRD4易感性基因的个体在被内隐地启动宗教信仰后（vs.不进行宗教概念启动）有更高的志愿活动意愿，然而不携带有DRD4易感性基因的个体不受宗教信仰启动与否的影响(Sasaki etal.,2013)。一项以中国大学生为被试群体的研究也发现，家庭环境与DRD4基因多态性对大学生利他行为有显著的交互作用，例如在公开表达攻击性的家庭环境中，DRD4一2R(7R)携带者的利他倾向显著低于非携带者，但在较少公开表达攻击性的家庭环境中，非携带者的利他倾向显著低于携带者(王云强 等,2020)。另一些研究关注DRD4是否会影响利他行为所带来的积极情绪收益。研究采用经验取样法记录四川华西医院的护理人员在日常工作中的利他行为和情绪，研究发现DRD4-2R 携带者做出利他行为后积极情绪显著提升、身体疲劳感显著降低，而以上关系未能在未携带 DRD4易感性基因的个体中发现(莊雅婷，2017)。然而，也有一些研究并未发现 $\\mathrm { D R D } _ { 4 }  – 7 \\mathrm { R }$ 基因的易感性特征，例如，研究发现父母教养方式和 $\\mathrm { D R D } _ { 4 ^ { - } }$ 7R 对儿童自评的利他行为无显著的交互作用(Bersted,2016)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在催产素受体基因中也得到了大量发现，OXTR 的SNP（rs53576）普遍被认为是易感性基因，对于 SNP（rs53576)A等位基因纯合子（即AA）携带者和A、G 等位基因携带者，对环境感知到更多威胁的个体(例如：认为世界上恶多于善)会有更少的慈善行为，但是对环境威胁的感知不能预测GG型个体的慈善行为(Poulin etal.,2012)。此外，在OXTR的其他 SNP（如，rs13316193、rs1042778、rs237887和rs2254298）上也得到了丰富的发现，研究发现SNP与利他行为之间的关系受到接受者身份、利他成本和个体性别的调节(Shang etal.,2017;Wu& Su,2018)。进一步的研究发现做出利他行为后的情绪也受到OXTR易感性基因的调节。例如，被试被随机分配进行为期6周的仁爱或正念干预，研究发现rs1042778的GG型个体在经过仁爱干预后显著提升了积极情绪，而rs1042778的TT/TG 型个体和其他 SNP（rs2254298、rs53576）携带者在两种干预方式下均未能提升积极情绪(Isgett et al.,2016)。但是也有研究者在考察做出利他行为所带来的积极情绪收益时，发现以上关系并未受到SNP（rs53576、rs2268498和rs2254298）个体差异的调节(Whillans et al.,2020)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "差别易感性模型强调了虽然个体的某种特质、行为可能受到基因直接指导，但这种指导受到外在环境的制约，基因是经由环境起作用的，这也为利他行为的基因和环境影响提供了另一种思路，即探讨基因与环境对利他行为的交互影响，近些年也受到了越来越多研究者的关注。然而在文献检索时也可以发现，部分研究未能发现易感性基因与环境的交互作用(e.g.,Bersted,2016;Isgett et al.,2016;Whillans etal.,2020)，一方面这可能是源于特定的基因型仅受特异的环境因素所影响，研究者们关注不同的外在环境，当环境发生变化时，基因对行为的影响也可能发生变化，这符合差别易感性模型的基本特征；但是另一方面，这些发现也提示研究者，对研究结果需持有谨慎态度，是否可能存在高估小效应、出版偏差等问题(Whillans et al.,2020)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4总结与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上所述，大量研究者探究利他行为的遗传率，证实利他行为确实受遗传影响，且遗传率估计可能受一些因素调节。借助分子遗传学和基因检测技术，研究者发现了四类利他候选基因，提供了丰富的\"利他\"基因证据。此外，在考虑利他的遗传基础时，也需综合考虑环境在其中的作用，既需要清楚了解基因会影响个体所选择生活的环境，即基因与环境具有一定的相关性，二者协同影响个体的利他行为；同时环境也会影响个体的基因表达，即基因和环境对利他行为具有交互作用，基因的表达受到环境的制约。虽然利他的遗传基础研究已十分丰富，但未来研究可以从如下几个方面进行深入思考：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1拓展神经生物系统探索，注重全基因组研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "首先，面对人类2万多个基因，想要从中找到特定的和利他相关的基因不是一件容易的事。研究者一般在已知的利他生理机制的基础上缩小利他的候选基因范围，这种方法无疑是成功的，已得到了丰富的研究成果，但也导致了目前的研究在利他候选基因的选择上带有推测性，并且可能受到现有知识体系不完整的限制，研究者可能无法全面检验出利他的候选基因。例如，在催产素系统里大量研究者关注OXTR，可能忽略了其他的基因。例如，最近的一项研究发现催产素后叶激素运载蛋白I基因（Oxytocin-NeurophysinI）也能预测个体的利他特质，其位于 20p13染色体上，编码催产素配体。研究发现携带催产素后叶激素运载蛋白I基因SNP（rs2770378）的A等位基因纯合子（即AA）的个体相比于G等位基因携带者（即 AG，GG）自我报告利他特质更高(Chong etal.,2019)。近十年来，全基因组关联研究（genome-wide association study,GWAS）已成为识别与复杂行为和疾病表型相关的常见遗传变异的一种手段，未来研究者可以拓展神经生物系统的探究，朝向全基因组关联研究，为利他的基因研究提供更为丰富的研究成果。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2注重大样本、元分析研究，解决可重复性问题",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "其次，一个普遍的共识是，候选基因研究存在可重复性较低的问题。例如催产素受体基因可能确实能部分解释人类的利他行为，但存在结论不一致、遗传率较低等问题(Bakermans-Kranenburg & van IJzendoorn, 2O14; Benjamin et al.,2012)。一方面，这可能源于现有研究样本量较小，受被试取样影响较大，可能高估利他行为与常见遗传变异之间的关联。更需要意识到的是，基因是以一种复杂的、概率的方式而不是更确定的方式起作用的，因此对现有结论的解读需持有谨慎态度。另一方面过往研究者均只关注单一神经生物系统的一段或多段等位基因，然而众多的证据表明利他基因并不是由某一段特定的基因所决定的，更有可能是多系统、多基因片段共同作用的结果。因此，未来研究需要进行大样本研究，对现有结果进行元分析，考虑可能的家庭、社会环境等调节变量，考察更多的基因组合，尝试探讨多系统-多基因片段对利他的共同作用(张旭凯 等,2018;Israeletal.,2015;Nave et al., 2015)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3加强利他行为遗传基础的机制探索",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "此外，已有研究者开始试图解释或探究利他行为遗传基础的内在机制。例如Stoltenberg 等人(2013)发现 5-HTTLPR 的 S 基因携带者更少助人是因为他们可能将社交情境知觉为威胁，Wu等人(2015)发现AVPR1b 基因rs28373064的G等位基因携带者表现出更多的情绪共情，因而更加利他。近些年来，研究者开始结合磁共振脑成像（functionalMagnetic ResonanceImaging,fMRI），将脑结构和功能作为基因对行为差异的解释机制，并在一些领域取得了一些研究成果（Qianet al.,2018)。未来研究可以从生理、心理角度，同时结合影像遗传学设计，增加对基因影响利他行为机制的探索。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.4加强基因-环境交互研究，进行环境干预实践",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后，差别易感性模型主要关注基因与环境对利他行为的交互影响作用，为利他行为的遗传机制探究开拓了更广阔的研究领域。目前对利他行为的基因-环境交互作用探究主要集中在多巴胺受体基因和催产素受体基因中，在另两个基因系统中的研究还相对较少。同时即使是多巴胺受体基因，当考虑不同的环境因素（如父母的养育环境、同伴环境），关注不同的利他行为类型（如捐赠金额、分享、合作等），可能会得到不一致的结果。例如，DRD4-7R 在某些研究中被发现是易感性基因，在另一些研究中却并未发现其易感性特征(Bakermans-Kranenburg&van IJzendoorn,2011;Bersted,2016)。因此，未来研究可以结合各类基因和各种环境因素，全面探究二者对个体利他行为的交互影响。此外，一般来说基因因客观性、稳定性特征以及伦理道德等问题，无法进行临床实践干预，但差别易感性模型为利他干预提供了新的思路，可以考虑针对不同基因类型的个体进行差别化的环境干预，培育个体的利他倾向，从而增加社会福祉，建设和谐社会。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "胡捷.(2017).利他行为的神经生物学机制——自我利益与他人利益在帮助行为中的作用 (博士学位论文). 北京大学.   \n黄文强，杨沙沙，于萍.(2016).风险决策的神经机制：基于啮齿类动物研究．心理科学进展,24,1767-1779.   \n李曦，林小楠，曹衍淼，张文新.(2020).DRD4基因与亲社会行为的关联及其潜在脑机制．心理科学,43,409- 415.   \n尚思源，苏彦捷.(2016).催产素系统与社会行为—一催产素及其受体基因的作用机制．心理技术与应用, 4(4),224-235.   \n王云强，顾伟伟，王志琳，郭本禹，葛芹玉.(2020).多巴胺受体基因DRD4 与家庭亲密度或矛盾性对大学 生亲社会倾向的交互作用．科学通报,65,2032-2046.   \n吴小燕，封春亮，徐家华，何振宏，罗艺，罗跃嘉.(2019).垂体后叶加压素对人类社会行为的影响．心理科 学进展,27,811-820.   \n谢晓非，王逸璐，顾思义，李蔚.(2017).利他仅仅利他吗？—进化视角的双路径模型．心理科学进展,25, 1441-1455.   \n张闻，郑多.(主编).(2016).医学生物学(全国普通高等医学院校五年制临床医学专业“十三五”规划教材). 中国医药科技出版社.   \n张旭凯，尹航，李鹏，李红.(2018).催产素对社会决策行为的影响．心理科学进展,26,1438-1449.   \n赵德懋，冯姝慧，邢淑芬.(2017).基因与环境的交互作用:来自差别易感性模型的证据．心理科学进展,25, 1310-1320.   \n莊雅婷.(2017).人际公民行为与身心感受的关系：双螺旋模型(博士学位论文).北京大学.   \nAnacker, K.,Enge,S., Reif, A.,Lesch,K-P.,& Strobel,A. (2013). Dopamine D4 receptor gene variation impacts self-reported altruism.Molecular Psychiatry,18,402-403.   \nApicella,C.L.,Cesarini,D.,Johannesson,M.,Dawes,C.T.Lichtenstein,P.，Wallace,B.，Beauchamp,J.，& Westberg，L. (2010). No association between oxytocin receptor (OXTR） gene polymorphisms and experimentally elicited social preferences.PLoS ONE,5, e11153.   \nAvinun,R.,rael,S.,halev,I.,Gritsenko,I.,Borstein,G.,Ebstein,R.P.,&Knafo,A.(2l1).AVPRvaiant associated with preschoolers'lower altruistic behavior.PLoS ONE,6,e25274.   \nBachner-Melman,R., Gritsenko,I.,Nemanov,L., Zohar,A.H.,Dina,C.,&Ebstein,R.P. (20o5).Dopaminergic polymorphisms associated with self-report measures of human altruism: A fresh phenotype for the dopamine D4 receptor.MolecularPsychiatry,10,333-335.   \nBakermans-Kranenburg, M.J.,& van IJzendoorn,M. H. (2011). Diffrential susceptibility to rearing environment depending on dopamine-related genes: New evidence and a meta-analysis. Development and Psychopathology,23,39-52.   \nBakermans-Kranenburg,M.J.,& van IJzendoorn,M. H. (2014).A sociability gene? Meta-analysis of oxytocin receptor genotype effects in humans.Psychiatric Genetics,24,45-51.   \nBarraza,J.A.,McCullough,M.E.,Ahmadi,S.,&Zak,P.J. (20l1).Oxytoci infusion increasescharitabledonations regardless of monetary resources.Hormones Behavior,60,148-151.   \nBatson, C.D.(20l2).Ahistory of prosocial behaviorresearch.InA. W.Kruglanski,& W.Stroebe (Eds.),Handbook of the history of social psychology (pp.243-264).Psychology Press.   \nBeam, C.,&Turkheimer,E.(013).Phenotype-environment correlations in longitudinal twin models.Development and Psychopathology,25,7-16.   \nBenjamin,D.J., Cesarini,D.,van der Loos,M.J. H. M.,Dawes,C.T.,Koelinger,P.D.,Magnusson,P.K.E, Chabris,C.F.，Conley，D.,Laibson,D.，Johannesson，M.，& Visscher,P.M.(2012). The genetic architecture of economic and political preferences. Proceedings of the National Academy of Sciences of the United States of America,109,8026-8031.   \nBersted, K. (2016).Exploring interactions between DRD4 genotype and perceived parenting environment (Unpublished doctoral dissertation). Southern Illinois University Carbondale.   \nBhogal,M. S., Galbraith, N.，& Manktelow, K.(2017). Physical atractiveness, altruism and cooperation in an ultimatum game. Current Psychology, 36,549-555.   \nBur,J.A.,Han,S.,Lee,H.J.,Tvares,J.L.,&Mutchler,J.E. (2018).Healthbeneits aociated withthreehelping behaviors: Evidence for incident cardiovascular disease. The Journals of Gerontology: Series B, Psychological Sciences and Social Sciences, 73,492-500.   \nCesarini,D.,Dawes,C.T.,Fowler,J.H.,Johannessn,M.,Lichtenstein,P.,&Walace,B.(28).Heritabilityof cooperative behavior in the trust game.Proceedings of the National Academy of Sciences of the United States of America,105,3721-3726.   \nChong,A., Chew,S.H.,Lai,P.S.,Ebstein,R.P.,&Gouin,J-P.(2019).The role of the oxytocin-neurophysinIgene in contributing to human personality traits promoting sociality. International Journal ofPsychophysiology, 136,81-86.   \nCrocker,J., Canevelo,A.，& Brown,A.A. (2017).Social motivation: Costs and benefits of selfishness and otherishness.Annual Review of Psychology,68,299-325.   \nDaughters,K., Manstead,A.S.R.,TenVelden,F.S,&De Dreu, C.K. W. (2017). Oxytocin modulates third-party sanctioning of selfish and generous behavior within and between groups. Psychoneuroendocrinology, 77, 18-24.   \nDeater-Deckard,K.,Dunn,J.,O'Connor,T.G.,Davies,L.,& Golding,J. (20o3).Using the stepfamily genetic design to examine gene-environment processes in child and family functioning. Marriage & Family Review,33, 131-155.   \nDe Waal, F. B. M. (2008). Puting the altruism back into altruism: The evolution of empathy. Annual Review of Psychology,59,279-300.   \nDiLalla,L.F.,Bersted,K.,&John,S.G.(2015).Evidenceofreactive gene-environmentcorrelation in preschoolers’ prosocial play with unfamiliar peers.Developmental Psychology,51,1464-1475.   \nFeng,C.,Hacket,P.D.,DeMarco,A.C.,Chen,X.,Stair,S.,Haroon,E.,Ditzen,B.,Pagnoni,G.,&Rilling,J.K. (2015).Oxytocin and vasopressn effects on the neural response to social cooperation are modulated by sex in humans. Brain Imaging and Behavior,9,754-764.   \nGallotti,R.& Grujic,J. (2019).A quantitative description of the transition between intuitive altruismand rational deliberation in iterated Prisoner's Dilemma experiments.Scientific Reports,9,article 17046.   \nGregory,A.M.,Light-Hausermann,J.H.,Rijsdijk,F,&Eley,T.C.(29).Behavioralgeneticanalysesofprosocial behavior in adolescents.Developmental Science,12,165-174.   \nHartman,S.，& Belsky,J. (2016). Anevolutionary perspective on familystudies: Diffrential susceptibility to environmental influences.Family Process,55,700-712.   \nHueter,F.K.,Moehlendick,B.,Knop,D.,& Sifert, W.(2020).Lack of association of common polymorphisms linked to empathic behavior with self-reported trait empathy in healthy volunteers. Hormones and Behavior, 126,104841.   \nHui,B. P. H.,Ng, J. C.K.,Berzaghi, E., Cuningham-Amos,L.A.,& Kogan,A. (2020). Rewards of kindness? A meta-analysis of the link between prosociality and well-being.Psychological Bulletin,146,1084-1116.   \nHur,Y-M.,&Rushton,J.P.(2oo7).Geneticand environmental contributions toprosocial behaviourin2-to9-yearold South Korean twins.Biology Letters,3, 664-666.   \nHur,Y-M.,Taylor,J.,Jeong,H-U.,Park,M-S.,&Haberstick,B.C.(20l7).Perceived familycohesionmoderates environmental influences on prosocial behavior in nigerian adolescent twins.Twin Research and Human Genetics,20,226-235.   \nInagaki,T. K.,& Eisenberger, N.I. (2012). Neural correlates of giving support to a loved one. Psychosomatic Medicine,74,3-7.   \nIsgett, S.F.,Algoe,S.B.,Boulton,A.J., Way,B.M.,&Fredrickson,B.L.(2016).Common variant in OXTR predicts growth in positive emotions from loving-kindness training. Psychoneuroendocrinology,73,244- 251.   \nIsgett,S.F.,Kok,B.E.,Baczkowski,B.M.,Algoe,S.B.,Grewen, K. M.,&Fredrickson,B.L.(2017). Influences of oxytocin and respiratory sinus arrhythmia on emotions and social behavior in daily life. Emotion,17, 1156-1165.   \nIsrael,S.,Hasenfratz,L.,& Knafo-Noam,A. (2015).The genetics of moralityand prosociality. Current Opinion in Psychology,6,55-59.   \nIsrael,S.,Lerer,E.,Shalev,1.,Uzefovsky,F.,Riebold,M.,Laiba,E.,Bachner-Melman,R.,Maril,A.,Borstein,G, Knafo,A.,& Ebstein,R.P. (2oo9).The oxytocin receptor (OXTR) contributes to prosocial fund allocations in the dictator game and the social value orientations task.PLoS one,4,e5535.   \nJiang,Y.,Bachner-Melman,R., Chew, S.H.,& Ebstein,R.P.(2015).Dopamine D4 receptor gene and religious affiliation correlate with dictator game altruism in males and not females: Evidence for gender-sensitive gene $\\times$ culture interaction.Frontiers in Neuroscience,9,article 338.   \nJonsson,H.,Magnusdottir,E.,Eggertsson,H.P.,Stefansson,O.A.,Aradotir, G.A.,Eiriksson,O.,Zink,F, Helgason,E.A.,Jonsdotir,I.,Gylason,A.,Jonasdottir,Ad.,Jonasdottir,As.,Beyter,D.,Steingrimdoir, T.,Norddahl, G.L.,Magnusson,O.T.,Masson,G.,Halldorsson,B.V.,Thorsteinsdotir,U.,Helgason,A., Sulem, P., Gudbjartsson, D.F.,& Stefansson, K. (2021). Differences between germline genomes of monozygotic twins.Nature Genetics,53,27-34.   \nKaiser,K. (2017). A new taxonomy of altruism in terms of prosocial behaviors. Dialogue & Nexus, 4,article 4.   \nKnafo,A.,Israel,S.,arvasi,A.,Bachner-Melman,R.,Uzefovsky,F.,Cohen,L,Feldman,E.,erer,E.,iba,E, Raz,Y.,Nemanov,L., Gritsenko,I.,Dina,C.,Agam, G.,Dean,B.,Bornstein, G.,& Ebstein,R.P.(2008). Individual diffrences in allocation of funds in the dictator game associated with length of the arginine vasopressin la receptor RS3 promoter region and correlation between RS3 length and hippocampal mRNA. Genes,Brain and Behavior,7,266-275.   \nKnafo,A.,Israel,S.，& Ebstein,R.P.(2011).Heritability of children’s prosocial behaviorand differential susceptibility to parenting by variation in the dopamine receptor D4 gene. Development and Psychopathology,23,53-67.   \nKnafo,A.,& Plomin, R. (20o6).Prosocial behavior from early to middle childhood: Genetic and environmental influences on stability and change.Developmental Psychology,42,771-786.   \nKnafo,A.,Uzefovsky,F.,Israel,S.,Davidov,M.,&Zahn-Waxler,C.(O15).The prosocialpersonalityanditsfacets: Genetic and environmental architecture of mother-reported behavior of 7-year-old twins. Frontiers in Psychology,6,article 112.   \nKnoblach,R.A., Schwartz,J. A.， McBride, M.,& Beaver, K. M. (2019). The association between genetic predisposition and parental socialization: An examination of gene-environment correlations using an adoption-based design. International Journal of Offender Therapy and Comparative Criminology， 64, 187-209.   \nKogan,A.,Saslow,L.R.,Impet,E.A.,Oveis,C.,Keltner,D.,& Saturn, S.R. (201). Thin-slicing studyof the oxytocin receptor (OXTR) gene and the evaluation and expression of the prosocial disposition. Proceedings of the National Academy of Sciences of the United States of America,108,19189-19192.   \nKrueger,R.F.,Hicks,B.M.,&McGue,M.(2oo1).Altruismand antisocial behavior: Independenttendencies,unique personality correlates,distinct etiologies.Psychological Science,12,397-402.   \nLesch,K.P. (207).Linking emotion to the social brain.European Molecular Biology Organization Reports,8,24 29.   \nLi, H.,Song,Y.,& Xie,X. (2O20).Altruistic or selfish? Responses when safety is threatened dependon childhood socioeconomic status. European Journal of Social Psychology,50,1001-1016.   \nMatthews,K.A.,Batson,C.D.,Horn,J.,&Rosenman,R.H. (1981).“Principles in his nature which interesthimin the fortune of others..\": The heritability of empathic concern for others.Journal of Personality,49,237- 247.   \nNave,G., Camerer, C.,& McCullough, M. (2015). Does oxytocin increase trust in humans? A critical review of research. Perspectives on Psychological Science,10,772-789.   \nNes,R. B.,& Roysamb,E. (2017). Happiness in behaviour genetics: An update on heritability and changeability. Journal ofHappiness Studies,18,1533-1552.   \nPerlstein,S.,& Waller,R. (2O22). Integrating the studyof personalityand psychopathology in thecontext of geneenvironment correlations across development.Journal of Personality, 90, 47-60.   \nPoulin,M. J.,Holman,E.A.,& Buffne,A.(20l2).The neurogenetics of nice: Receptor genes for oxytocin and vasopressin interact with threat to predict prosocial behavior. Psychological Science,23,446-452.   \nQian,A., Wang,X.,Liu,H.,Tao,H.,Zhou,J.,Ye,Q.,Li,J.,Yang,C.,Cheng,J.,Zhao,K.,& Wang,M. (2018). Dopamine D4 receptor gene associated with the frontal-striatal-cerebellar loop in children with ADHD: A resting-state fMRI study. Neuroscience Bulletin, 34,497-506.   \nRettew,D.C.,& McKee,L. (20o5).Temperament and its role in developmental psychopathology. Harvard Review of Psychiatry,13,14-27.   \nReuter,M.,Felten,A,Penz,S.,Mainzer,A., Markett,S.,& Montag, C. (2013).The influence ofdopaminergic gene variants on decision making in the ultimatum game. Frontiers in Human Neuroscience, 7,242.   \nRivizzigno,A.S.,Brendgen,M.,Feng,B., Vitaro,F.,Dionne,G.,Tremblay,R.E.,& Boivin,M. (2014).Geneenvironment interplay between number of friends and prosocial leadership behavior in children.MerrillPalmer Quarterly, 60,110-141.   \nRushton,J.P.,Fulker,D.W.,Neale,M.C.,Nias,D.K.B.,&Eysenck,H.J. (1986).Altruism and aggression: The heritability of individual differences.Journal ofPersonality and Social Psychology,50,1192-1198.   \nSasaki,J. Y.,Kim, H.S. Mojaverian,T.,Kelley,L.D.S.,Park,I. Y.,&Janusonis,S.(2013).Religionpriming diferentially increases prosocial behavior among variants of the dopamine D4 receptor (DRD4) gene. Social Cognition and Affective Neuroscience, 8,209-215.   \nScarr,S., & McCartney, K. (1983). How people make their own environments: Atheory of genotype $$ environment effects. Child Development,54,424-435.   \nScarr-Salapatek, S. (1971). Race, social class,and IQ. Science,174,1285-1295.   \nSchlomer,G.L.,Cleveland,H.H.,Feinberg,M.E.,Murry,J.L.,&Vandenbergh,D.J.(202).Longitudinal links between adolescent and peer conduct problems and moderation by a sensitivity genetic index.Journal of Research on Adolescence,31,189-203.   \nScourfield,J.,John,B.,Martin,N.,&PeterMcGufin,P.(2O04).Thedevelopmentofprosocialbehaviourinchildren and adolescents: A twin study. Journal of Child Psychology and Psychiatry,45,927-935.   \nShang,S., Wu, N.,& Su,Y.(2017). How oxytocin receptor (OXTR) single nucleotide polymorphisms act on prosociality:The mediation role of moral evaluation.Frontiers in Psychology,8,article 396.   \nSkuse,D.H.,& Galagher,L. (209).Dopaminergic-neuropeptide interactions in the social brain. Trends in Cognitive Sciences,13,27-35.   \nSmith,A.S.,Agmo,A.,Birnie,A.K.,&French,J.A. (2010).Manipulation of the oxytocin system alters social behavior and attraction in pair-bonding primates, Callithrix penicillata. Hormones and Behavior,57,255- 262.   \nSmith,V.L. (2o03). Constructivist and ecological rationality in economics.American Economic Review, 93,465- 508.   \nStoltenberg,S.F.,Christ,C.C.,& Carlo,G.(2O13).Afraidto help: Socialanxiety partiall mediates the association between 5-HTTLPR triallelic genotype and prosocial behavior. Social Neuroscience,8,400-406.   \nTrivers,R.L.(1971). The evolution of reciprocal altruism.The Quarterly Review of Biology, 46,35-57.   \nTse,W.S.,&Bond,A.J. (2o02). Difference inserotonergic and noradrenergic regulationofhuman socialbehaviours. Psychopharmacology,159,216-221.   \nTucker-Drob,E.M.,& Bates,T. C.(2016).Large cross-national differences in gene $\\times$ socioeconomic status interaction on intelligence.Psychological Science,27,138-149.   \nvan IJzendoorn,M.H.,Bakermans-Kranenburg,M.J.,Pannebakker,F.,&Out,D.(2Ol0).In defence ofsituational morality: Genetic, dispositional and situational determinants of children's donating to charity. Journal of Moral Education,39,1-20.   \nVerbeke,W.,Bagozzi,R.P.,vanden Berg,W.E.,&Lemmens,A. (2013).Polymorphisms ofthe OXTR gene explain why sales professionals love to help customers.Frontiers in Behavioral Neuroscience,7,article 171.   \nVolbrecht,M.M.,Lemery-Chalfant,K.,Aksan,N.,Zahn-Waxler, C.,& Goldsmith,H.H. (2007).Examining the familial link between positive affect and empathy development in the second year. The Journal of Genetic Psychology, 168,105-130.   \nWang,M.,& Saudino,K. J. (2O15).Positive afect: Phenotypic and etiologic asociations with prosocial behaviors and internalizing problems in toddlers.Frontiers in Psychology, 6,article 416.   \nWang,Y.,Ge,J., Zhang,H., Wang,H.,& Xie,X. (202O). Altruistic behaviors relieve physical pain. Proceedings of the National Academy of Sciences of the United States of America,1l7,950-958.   \nWhillns,A.V.,Aknin,L.B.,Ross,C.,Chen,L.,& Chen,F.S.(2020).Common variantsof the oxytocinreceptor gene do not predict the positive mood benefits of prosocial spending. Emotion,20,734-749.   \nWilson,D.S.,& Wilson,E.O. (2007).Rethinking the theoretical foundation of sociobiology.The Quarterly Review of Biology,82,327-348.   \nWood,R.M.,Rilling,J.K.,anfey,A.G.,Bhagwagar,,&Rogers,R.,D.(2O6).Effectsof tryptophandepletion on the performance of an iterated Prisoner's Dilemma game in healthy adults. Neuropsychopharmacology, 31, 1075-1084.   \nWu,N.,Shang,S.,& Su,Y. (2015).The arginine vasopressin V1b receptor gene and prosociality: Mediation role of emotional empathy.Psych Journal,4,160-165.   \nWu,N.,& Su,Y. (2O18). Variations in the oxytocin receptor gene and prosocial behavior: Moderating fcts of situational factors. Integrative Zoology, 13,687-697.   \nWu,Y.,Stillwell,D.,Schwar,H.A.,& Kosinski,M. (2017).Birds ofa featherdo flock together: Behavior-based personality-assessment method reveals personality similarity among couples and friends.Psychological Science,28,276-284. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The role of genes in altruistic behavior: Evidence from quantitative genetics and molecular genetics ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "LI Haihong1, SHANG Siyuan²,3, XIE Xiaofei1\\* ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofPsychologicaland CognitiveSciencesand Beijing KeyLaboratoryof Behaviorand Mental Health, Peking University,Beijing l0o871,China)   \n( Departmentof psychology,Schoolof Education,Hangzhou Normal University,Hangzhou 3121,China) (Center for Cognitionand BrainDisorders,Affliated HospitalofHangzhou Normal University,Hangzhou 311121, China) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Altruistic behavior is a behavior that benefits others at a cost to oneself. Recently, researchers have focused on the role of genes in altruistic behavior. Based on quantitative and molecular genetics,the heritability of altruism is summarized, demonstrating the influence of heredity on altruistic behavior; and four categories of altruistic related candidate genes are discussed, including dopamine receptor gene， serotonin transporter gene， oxytocin receptor gene，and vasopressn receptor gene,then an in-depth discussion of the influence of environment on the relationship between genetics and altruism is included. On the one hand, genotype is associated with environment that jointly influence altruistic behavior, known as gene-environment correlation; on the other hand, the effect of genetics on altruistic behavior is influenced by the environment, known as the differential susceptibility model. Future research need to expand on and further explore the effect of neurobiological system on altruistic behavior, which may focus on genome-wide research, meta-analysis, mechanism exploration, and systematic environmental intervention practice. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: altruistic behavior, gene, gene-environment correlation, differential susceptibility ",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "type": "text",
+        "text": "基于倾向得分匹配的农村中老年人慢性病共病对失能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐小兵1，李迪l\\*，孙扬1，舒琴1，肖涟1，徐守荣1，范允舟1【摘要】目的 应用倾向性得分匹配(propensity score matching，PSM)方法探讨农村中老年人慢性病共病对失能的影响，为制定农村中老年人的慢性病共病和失能的管理策略提供参考依据。方法 利用 2018 年中国健康与养老追踪调查（china health and retirement longitudinalstudy，CHARLS）中11088名 $\\geqslant 4 5$ 岁农村中老年人的数据，使用倾向性得分匹配方法将非共病组与共病组以1:1比例进行匹配，应用条件Logistic对慢性病共病与日常生活自理能力（activities of daily living,ADL）失能和工具性日常生活自理能力（instrumental activities ofdailyliving,IADL）失能的关系进行分析。结果 共有3391例匹配成功，匹配前两组的年龄、性别、教育水平、经济水平、婚姻状况、睡眠状况、吸烟饮酒状况、残疾情况、参加社交活动情况的差异均具有统计学意义 $( P { < } 0 . 0 5 )$ ，匹配后两组协变量达到均衡，二元条件Logistic回归分析结果显示，相比非共病的农村中老年人，慢性病共病将增加其ADL 失能( $O R { = } 2 . 2 5$ $9 5 \\% C I { : }$ ：1.96-2.59， $\\textstyle P { < } 0 . 0 1$ ）与IADL失能（ $O R { = } 1 . 5 2$ ， $9 5 \\% C I$ ：1.36-1. 71, $\\textstyle P { < } 0 . 0 1$ ）的风险。结论PSM可有效控制研究组间的混杂偏倚，应用价值长远。在农村，中老年人慢性病共病会增加失能的风险，政府应重视农村地区资源和政策投入，加强对农村地区中老年人慢性病共病和失能的预防与管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】 慢性病共病；倾向得分匹配；失能",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Influence of Multimorbidity on the disability among middle-aged and elderly people in rural based on propensity score matching   \nXU Xiao-bing，LI Di， SUN Yang， SHU Qin， XIAO Lian， XU Shourong，FAN YunZhou   \nUnion Hospital， Tongji Medical College， Huazhong University of Science and Technology, Wuhan，HubeiProvince 430022，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 Objective To evaluate the effect of Multimorbidity on disability in rural middle-aged and elderly people based on the propensity score matching(PSM)，and provide reference for formulating management strategies for Multimorbidity and disability in rural middle-aged and elderly people. Methods The data of 11, O88 rural middle-aged and elderly people $( \\geqslant 4 5$ years old） from 2018 China Health and Retirement Longitudinal Survey (CHARLS） were used,The non- Multimorbidity group and the Multimorbidity group were matched in a 1:1 ratio by the method of propensity score matching method. The relationship between Multimorbidity and activities of daily living(ADL） disability and instrumental activities of daily living （IADL） disability was analyzed by conditional Logistic analysis. Results A total of 3391 cases were successfully matched， and there were statistically significant differences in age， gender， education level， economic level， marital status， sleep status, smoking and drinking status， disability status，and participation in social activities between the two groups before matching（ $\\scriptstyle P < \\ 0 . \\ 0 5 )$ ， the covariates of the two groups were eliminated after matching， and the binary conditional logistic regresson analysis showed thatcompared with non-Multimorbidity rural middle-agedandelderlypeople, Multimorbidity would increase the risk of ADL disability( $O R = 2 . 2 5$ ， $9 5 \\% C I$ ： $1 . 9 6 \\sim 2 . 5 9$ ， $\\mathrm { { \\bf P } } { < } 0 . 0 1$ ）and IADL disability( $O R { = } 1 . 5 2$ ， $9 5 \\% C I$ : 1.36\\~1. 71， $\\textstyle P { < } 0 . 0 1$ ）．Conclusion PSM is beneficial for reducing confounding bias in study groups and has long-term application value.In rural areas，Multimorbidity in middle-aged and elderly people will increase the risk of disability. The government should pay atention to resources and policy input in rural areas， and strengthen the prevention and management of Multimorbidity and disability in rural areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 Multimorbidity；Propensity score matching；Disability",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着人口老龄化的加速和预期寿命的延长，失能问题对全球卫生和社会保健系统带来重大挑战。失能是指由于各种原因导致个体生理功能丧失或受损，日常活动受限和生活自理困难的总称[I。失能不仅对老年人的生活质量造成严重的影响，也给家庭社会带来沉重的负担[2,3]。在农村地区，医疗资源配置和公共卫生服务水平较低，失能问题更为严峻[4]。随着年龄的增长产生慢性疾病被认为是失能的重要原因[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "慢性病具有病程长、恢复慢，易产生并发症等特点，而慢性病共病因复杂且不同疾病存在叠加或协同作用，将增加诊断评估和治疗难度，提高不良健康结局的风险，消耗更多的医疗资源，降低患者的生命质量[。有研究发现慢性病与失能存在关联[7]，慢性病共病与失能之间关联紧密[8]。虽然国内外已开展多项关于共病与失能的研究[8,9]，但少有研究关注农村中老年人群体。此外，慢性病共病与失能的研究存在人口学特征、生活方式等混杂因素，对研究结果的准确性造成影响。倾向得分匹配法(propensity score matching，PSM)作为控制混杂偏倚的有效统计方法，在非随机化研究中被广泛应用[10]。因此，本研究采用中国健康与养老追踪调查数据，通过PSM控制混杂偏移，分析我国农村中老年人慢性病共病与失能的关系，为研究我国农村中老年人失能和慢性病共病管理策略提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.资料来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源 本研究数据来源于“中国健康与养老追踪调查(china health and retirementlongitudinalstudy,CHARLS）”，该数据由北京大学国家发展研究院采用多阶段分层抽样方法，每两年在全国28个省、150个县、450个社区(村)中调查45岁及以上中老年人的个人和家庭基本信息、社会经济状况、健康状况、生物医学测量和社区环境情况等。本文采用在2020年9月最新发布的具有全国代表性的2018年中老年人调查数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究对象 纳入标准： (1)年龄 $\\geqslant 4 5$ 岁；(2)患有慢性病； (3）基于CHARLS 问卷中的问题“您主要生活在农村还是城市？”，纳入受访者回答为“农村”的样本；剔除数据不完整的样本，共纳入11088名研究对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 调查内容",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1慢性病共病与社会人口学基本特征 本研究慢性病共病指同时存在2种或2种以上慢性病。调查的14 种慢性病包括恶性肿瘤、高血压、血脂异常、慢性肺部疾病、心肌病、糖尿病、肾脏疾病、肝脏疾病、哮喘、关节炎或风湿病、胃部疾病或消化系统疾病、脑卒中、与记忆相关的疾病（如老年痴呆症、脑萎缩、帕金森症）和情感及精神问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时，本研究还纳入人口统计学特征，包括：年龄、性别、婚姻状况、教育程度、吸烟史、饮酒史、残疾情况、社会活动情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2失能 本研究分别采用日常生活自理能力（activities of dailyliving,ADL）和工具性日常生活自理能力（instrumental activities of daily living，IADL）进行评估失能情况。ADL参考 Katz日常生活能力评估量表[作为评估工具，该量表共有6个项目：洗澡、穿衣、吃饭、如厕、上下床和排便；IADL 参考Lawton功能性量表[12]作为评估工具，该量表共有6个项目：家务、做饭、购物、打电话、吃药和管钱。ADL/IADL 每个项目评估结果分为“没有困难”、“有困难但能完成”、“有困难，需要帮助”和“无法完成”四个程度，“没有困难”赋值1分，“无法完成”赋值4分。同时，进行了二分类， $\\leqslant 6$ 分生活自理， ${ > } 6$ 分日常生活活动受损定义为ADL/IADL 失能[13]。调查中该量表Cronbachα 系数为0.875，因子分析得到的2个公因子和调查区分的ADL和IADL基本一致，调查结果具有较高的可信度[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4统计学方法采用R4.0.0统计软件对所有纳入变量进行统计描述，对不同人口特征组间失能进行统计检验，计数资料的分析采用 $\\chi ^ { 2 }$ 检验，计量资料的分析采用t检验。采用PSM控制混杂因素的干扰。根据既往文献[14]，本研究以共病状态(是否共病)作为因变量，一般人口学信息、生活方式和健康状况为自变量拟合logistic 回归模型计算倾向得分(propensityscore，PS)。采用最邻近匹配法按照 $1 : 1$ 的匹配比例和0.03的卡钳值进行倾向得分匹配。并检验匹配后共病组和单一慢病组协变量的均衡性。最后针对匹配后的数据采用二元条件Logistic 回归分析慢性病共病对老年人ADL 和IADL 失能的影响，以 $\\textstyle P < 0 . 0 5$ 为差异具有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象的基本信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究共纳入11088 例农村中老年慢性病受访者，其中，男性为5176 例 $( 4 6 . 7 \\% )$ ，少于女性 5912 例 $( 5 3 . 3 \\% )$ ）。在失能方面，受访者中有ADL失能的为2711例 $( 2 4 . 4 \\%$ ），IADL失能的4216例 $( 3 8 . 0 \\% )$ ，不同年龄、性别、教育水平、经济水平、婚姻状况、睡眠状况、吸烟饮酒状况、残疾情况、是否参加社交活动和慢性病共病情况的受访者之间的ADL 失能率和IADL失能率不同，差异均存在统计学意义 $\\left( P < 0 . 0 5 \\right)$ 。共病组的 ADL 失能率为 $2 9 . 7 \\%$ ，高于非共病组 $12 . 6 \\%$ ；共病组的IADL失能率为 $4 3 . 2 \\%$ ，也高于非共病组 $2 6 . 4 \\%$ 。具体见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/34759dde5d4cad3cf433c455acb73ef5b53dc8297f7b24b4696dfab1cdd92680.jpg",
+        "table_caption": [
+            "表1研究对象的基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td rowspan=\"2\">(n1108</td><td rowspan=\"2\">(非=ADL)</td><td rowspan=\"2\">(n=D711)</td><td rowspan=\"2\">x2/t</td><td rowspan=\"2\">P</td><td rowspan=\"2\">非IADL)</td><td rowspan=\"2\">IAD216 ）</td><td rowspan=\"2\">x²/t</td><td rowspan=\"2\">P</td></tr><tr><td></td></tr><tr><td>性别,n(%)</td><td></td><td>4184</td><td></td><td>146.22</td><td><0.001</td><td></td><td></td><td>305.27</td><td><0.001</td></tr><tr><td>男性</td><td>5176 (46. 7)</td><td>(49.9)</td><td>992 (36.6)</td><td></td><td></td><td>3654 (53.2)</td><td>1522 (36.1)</td><td></td><td></td></tr><tr><td>女性</td><td>5912)</td><td>41.3</td><td>17.9)</td><td></td><td></td><td>3218)</td><td>26.)</td><td></td><td></td></tr><tr><td>年龄(岁),n(%)</td><td></td><td></td><td></td><td>687.22</td><td><0. 001</td><td></td><td></td><td>1250.20</td><td><0. 001</td></tr><tr><td>45~</td><td>2497 (22.5)</td><td>2217 (26.5)</td><td>280 (10.3)</td><td></td><td></td><td>2033 (29.6)</td><td>464 (11.0)</td><td></td><td></td></tr><tr><td>55~</td><td>3661 (33.0)</td><td>2949 (35.2)</td><td>712 (26.3)</td><td></td><td></td><td>2573 (37.4)</td><td>1088 (25.8)</td><td></td><td></td></tr><tr><td>65~</td><td>3300 (29.8)</td><td>2299 (27.4)</td><td>1001 (36.9)</td><td></td><td></td><td>1747 (25.4)</td><td>1553 (36.8)</td><td></td><td></td></tr><tr><td>75~</td><td>16.0)</td><td>912 (10.9)</td><td>71.5)</td><td></td><td></td><td>519 (7.6)</td><td>(1.4)</td><td></td><td></td></tr><tr><td>婚姻状况,n(%)</td><td></td><td></td><td></td><td>254.07</td><td><0.001</td><td></td><td></td><td>450.35</td><td><0.001</td></tr><tr><td>已婚/伴侣</td><td>9290 (83.8)</td><td>7285 (87.0)</td><td>2005 (74.0)</td><td></td><td></td><td>6158 (89.6)</td><td>3132 (74.3)</td><td></td><td></td></tr><tr><td>离异、丧偶 等其他</td><td>1798 (16.2)</td><td>1092 (13.0)</td><td>706 (26.0)</td><td></td><td></td><td>714 (10.4)</td><td>1084 (25.7)</td><td></td><td></td></tr><tr><td>教育水平,n(%)</td><td></td><td></td><td></td><td>322.84</td><td><0. 001</td><td></td><td></td><td>1120.90</td><td><0.001</td></tr><tr><td>文盲</td><td>3222</td><td>2105 (25.1)</td><td>1117</td><td></td><td></td><td>1284</td><td>1938</td><td></td><td></td></tr><tr><td></td><td>(29.1) 5225</td><td>4020</td><td>(41.2) 1205</td><td></td><td></td><td>(18.7) 3443</td><td>(46.0) 1782</td><td></td><td></td></tr><tr><td>小学</td><td>(47. 1)</td><td>(48.0)</td><td>(44.4)</td><td></td><td></td><td>(50.1)</td><td>(42.3)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d92c633afdf922e1042fbfd17244ceb874d71810603514693b388d7188f2f41.jpg",
+        "table_caption": [
+            "续表1研究对象的基本信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>(n=11088 ）</td><td>非ADL (n=8377)</td><td>ADL (n=2711)</td><td>x²/t</td><td>P</td><td>非IADL (n=6872)</td><td>IADL (n=4216)</td><td>x21t</td><td>P</td></tr><tr><td>初中</td><td>1968 (17.7)</td><td>1674 (20.0)</td><td>294 (10.8)</td><td></td><td></td><td>1581 (23.0)</td><td>387 (9.2)</td><td></td><td></td></tr><tr><td>高中及以上</td><td>673 (6.1)</td><td>578 (6.9)</td><td>95 (3.5)</td><td></td><td></td><td>564 (8.2)</td><td>109 (2.6)</td><td></td><td></td></tr><tr><td>睡眠时间, ,x(s)</td><td>6.13 (2.17)</td><td>6.27 (2.00)</td><td>5.69 (2.59)</td><td>10.76</td><td><0.001</td><td>6.28 (1.89)</td><td>5.89 (2.55)</td><td>8.67</td><td><0. 001</td></tr><tr><td>吸烟史,n(%)</td><td></td><td></td><td></td><td>32.82</td><td><0. 001</td><td></td><td></td><td>102.06</td><td><0.001</td></tr><tr><td>无吸烟史</td><td>6440 (58.1)</td><td>4737 (56.5)</td><td>1703 (62.8)</td><td></td><td></td><td>3736 (54.4)</td><td>2704 (64.1)</td><td></td><td></td></tr><tr><td>有吸烟史</td><td>4648 (41.9)</td><td>3640 (43.5)</td><td>1008 (37.2)</td><td></td><td></td><td>3136 (45.6)</td><td>1512 (35.9)</td><td></td><td></td></tr><tr><td>饮酒史,n(%)</td><td></td><td></td><td></td><td>134.12</td><td><0.001</td><td></td><td></td><td>306.17</td><td><0.001</td></tr><tr><td>无饮酒史</td><td>7653 (69.0)</td><td>5539 (66.1)</td><td>2114 (78.0)</td><td></td><td></td><td>4329 (63.0)</td><td>3324 (78.8)</td><td></td><td></td></tr><tr><td>有饮酒史</td><td>3435 (31.0)</td><td>2838 (33.9)</td><td>597 (22.0)</td><td></td><td></td><td>2543 (37.0)</td><td>892 (21.2)</td><td></td><td></td></tr><tr><td>残疾情况,n(%)</td><td>6151</td><td>5237</td><td>914</td><td>686.70</td><td><0. 001</td><td></td><td>1539</td><td>989.89</td><td><0.001</td></tr><tr><td>无残疾</td><td>(55.5)</td><td>(62.5)</td><td>(33.7)</td><td></td><td></td><td>4612 (67. 1)</td><td>(36.5)</td><td></td><td></td></tr><tr><td>残疾</td><td>4937 (44.5)</td><td>3140 (37.5)</td><td>1797 (66.3)</td><td></td><td></td><td>2260 (32.9)</td><td>2677 (63.5)</td><td></td><td></td></tr><tr><td>参与社交活动,n(%)</td><td>5399</td><td>4301</td><td>1098</td><td>99.23</td><td><0. 001</td><td>3710</td><td>1689</td><td>202.26</td><td><0.001</td></tr><tr><td>无社交活动</td><td>(48.7)</td><td>(51.3)</td><td>(40.5)</td><td></td><td></td><td>(54.0)</td><td>(40.1)</td><td></td><td></td></tr><tr><td>有社交活动</td><td>5689 (51.3)</td><td>4076 (48. 7)</td><td>1613 (59.5)</td><td></td><td></td><td>3162 (46.0)</td><td>2527 (59.9)</td><td></td><td></td></tr><tr><td>慢性病共病,n(%)</td><td></td><td>5393</td><td></td><td>372.90</td><td><0. 001</td><td></td><td></td><td>280.15</td><td><0.001</td></tr><tr><td>共病组</td><td>7673 (69.2)</td><td>(64.4)</td><td>2280 (84.1)</td><td></td><td></td><td>4360 (63.4)</td><td>3313 (78.6)</td><td></td><td></td></tr><tr><td>非共病组</td><td>3415 (30.8)</td><td>2984 (35.6)</td><td>431 (15.9)</td><td></td><td></td><td>2512 (36.6)</td><td>903 (21.4)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2匹配前后患者一般资料比较",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11088 例农村中老年慢性病患者中，慢性病共病的有 7673 例 $( 6 9 . 2 \\% )$ 。共病组和非共病组的年龄、性别、教育水平、经济水平、婚姻状况、睡眠状况、吸烟饮酒状况、残疾情况、是否参加社交活动的差异均具有统计学意义 $\\left( P { < } 0 . \\ 0 5 \\right)$ ，见表2。将患者一般资料中各因素使用倾向性得分按1:1匹配，最终匹配成功3391组研究对象，共6782例。倾向得分匹配后，共病组与非共病组的一般资料中各因素均无统计学差异，分布达到了均衡，保证了共病组与非共病组具有良好的可比性。具体见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/25235bbe20d4c1a8f2692d601a131d131a630b914aae92be8236348ed19617ed.jpg",
+        "table_caption": [
+            "表2倾向得分匹配前后患者一般资料比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"4\">匹配前</td><td colspan=\"4\">匹配后</td></tr><tr><td>共6组3）</td><td>非=共病</td><td>x2/t</td><td>P</td><td>共=组1)</td><td>非=共组</td><td>x²/t</td><td>P</td></tr><tr><td>性别,n(%)</td><td></td><td></td><td>43.71</td><td><0.001</td><td></td><td></td><td>0.49</td><td>0.481</td></tr><tr><td>男性</td><td>4.1)</td><td>17.5)</td><td></td><td></td><td>(1702)</td><td>(1732)</td><td></td><td></td></tr><tr><td>女性</td><td>(45.2)</td><td>(146.6)</td><td></td><td></td><td>(46.8)</td><td>(46.9)</td><td></td><td></td></tr><tr><td>年龄(岁),n(%)</td><td></td><td></td><td>206.76</td><td><0.001</td><td></td><td></td><td>1.71</td><td>0.634</td></tr><tr><td>45~</td><td>1478</td><td>1019 (29.8)</td><td></td><td></td><td>985 (29.0)</td><td>999 (29.5)</td><td></td><td></td></tr><tr><td>55~</td><td>(19.3) 2483 (32.4)</td><td>1178 (34.5)</td><td></td><td></td><td>1224 (36.1)</td><td>1175 (34.7)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba53e9beecb18851ae24fc44a0ea6e0de50ac911acc53253717a7e456e6f1083.jpg",
+        "table_caption": [
+            "续表2倾向得分匹配前后患者一般资料比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"4\">匹配前</td><td rowspan=\"2\">匹配后</td><td colspan=\"3\"></td></tr><tr><td>共病组 3)</td><td>非4</td><td>x²/t P</td><td>=3组1 ）</td><td>非共组</td><td>x²/t</td><td>P</td></tr><tr><td>65~</td><td>2492 (32.5)</td><td>808 (23.7)</td><td></td><td></td><td>792 (23.4)</td><td>808 (23.8)</td><td></td><td></td></tr><tr><td>75~</td><td>(12.0)</td><td>(12.0)</td><td></td><td></td><td>(1.5)</td><td>(12.91)</td><td></td><td></td></tr><tr><td>婚姻状况,n(%)</td><td></td><td></td><td>27.68</td><td><0.001</td><td></td><td></td><td>2.93</td><td>0.087</td></tr><tr><td>已婚/伴侣</td><td>(63.3)</td><td>2956</td><td></td><td></td><td>8.3</td><td>29.5)</td><td></td><td></td></tr><tr><td>离异、丧偶 等其他</td><td>1339 (17.5)</td><td>459 (13.4)</td><td></td><td></td><td>408 (12.0)</td><td>456 (13.4)</td><td></td><td></td></tr><tr><td>教育水平,n(%)</td><td></td><td></td><td>37.62</td><td><0.001</td><td></td><td></td><td>3.58</td><td>0.311</td></tr><tr><td>文盲</td><td>2338 (30.5)</td><td>884 (25.9)</td><td></td><td></td><td>867 (25.6)</td><td>881 (26.0)</td><td></td><td></td></tr><tr><td>小学</td><td>3606 (47. 0)</td><td>1619 (47.4)</td><td></td><td></td><td>1638 (48.3)</td><td>1607 (47.4)</td><td></td><td></td></tr><tr><td>初中</td><td>1270 (16.6)</td><td>698 (20.4)</td><td></td><td></td><td>708 (20.9)</td><td>691 (20.4)</td><td></td><td></td></tr><tr><td>高中及以上</td><td>4.9</td><td>214)</td><td></td><td></td><td>178)</td><td>212</td><td></td><td></td></tr><tr><td>睡眠时间, x(s）</td><td>5.99 (2.22)</td><td>6.45 (2.02)</td><td>-10.83</td><td><0. 001</td><td>6.43 (2.03)</td><td>6.44 (1.99)</td><td>-0.05</td><td>0.962</td></tr><tr><td>吸烟史,n(%)</td><td></td><td>1918</td><td>7.334</td><td>0.007</td><td>1915</td><td></td><td>0.07</td><td>0.788</td></tr><tr><td>无吸烟史</td><td>4522 (58.9)</td><td>(56.2)</td><td></td><td></td><td>(56.5)</td><td>1903 (56.1)</td><td></td><td></td></tr><tr><td>有吸烟史</td><td>3151 (41. 1)</td><td>1497 (43.8)</td><td>73.37</td><td></td><td>1476 (43.5)</td><td>1488 (43.9)</td><td></td><td></td></tr><tr><td>饮酒史,n(%)</td><td></td><td></td><td></td><td><0.001</td><td>2191</td><td></td><td>0.54</td><td>0.463</td></tr><tr><td>无饮酒史</td><td>5489 (71.5)</td><td>2164 (63.4)</td><td></td><td></td><td>(64.6)</td><td>2161 (63.7)</td><td></td><td></td></tr><tr><td>有饮酒史</td><td>2184 (28.5)</td><td>1251</td><td></td><td></td><td>1200 (35.4)</td><td>1230</td><td></td><td></td></tr><tr><td>残疾情况,n(%)</td><td></td><td>(36.6)</td><td>268.72</td><td><0.001</td><td></td><td>(36.3)</td><td>0.03</td><td>0. 857</td></tr><tr><td>无残疾</td><td>3860 (50.3)</td><td>2291 (67.1)</td><td></td><td></td><td>2276 (67.1)</td><td>2268 (66.9)</td><td></td><td></td></tr><tr><td>有残疾</td><td>3813</td><td>1124</td><td></td><td></td><td>1115</td><td>1123</td><td></td><td></td></tr><tr><td></td><td>(49.7)</td><td>(32.9)</td><td>11.29</td><td>0.001</td><td>(32.9)</td><td>(33.1)</td><td>0.81</td><td>0.369</td></tr><tr><td>参与社交活动,n(%)</td><td></td><td>1745</td><td></td><td></td><td>1694</td><td>1732</td><td></td><td></td></tr><tr><td>无社交活动</td><td>3654 (47.6)</td><td>(51. 1)</td><td></td><td></td><td>(50.0)</td><td>(51.1)</td><td></td><td></td></tr><tr><td></td><td>4019</td><td>1670</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>有社交活动</td><td>(52.4)</td><td>(48.9)</td><td></td><td></td><td>1697 (50.0)</td><td>1659 (48.9)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3慢性病共病对失能的影响 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对匹配后的6782例农村中老年人进行二元条件Logistic回归分析，结果如表3所示，患慢性病共病农村中老年人的 ADL 失能风险是仅患一种慢性病农村中老年人的 2.25 倍（ $O R = 2 . 2 5$ ， $9 5 \\% C I \\colon 1 . 9 6 \\small { - 2 } . 5 9$ ， $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ } }$ )；IADL失能风险是仅患一种慢性病农村中老年人的1.52倍（ $O R { = } 1 . 5 2$ ，95%CI: 1. 36-1. 71, $\\scriptstyle P < 0 . 0 0 1 { \\mathrm { . } }$ ）°",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/52067e4b6dc68cb60b2f5ce0ceb12256ef6fad1d7c67ecfe59d35f073477214d.jpg",
+        "table_caption": [
+            "表3慢性病共病对失能的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>失能</td><td>例数</td><td>共病, n(%)</td><td>非共病, n(%)</td><td>OR值</td><td>95%CI</td><td>P值</td></tr><tr><td>ADL</td><td>1222</td><td>792(64. 8)</td><td>430(35.2)</td><td>2.25</td><td>1.96-2.59</td><td><0.001</td></tr><tr><td>IADL</td><td>2047</td><td>1146(56. 0)</td><td>901(44. 0)</td><td>1.52</td><td>1. 36-1. 71</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "混杂因素的干扰直接关系到评价慢性病共病对失能影响的结果准确性，PSM 可以控制混杂因素的干扰，从而使评价慢性病共病对失能影响类似于随机对照研究的结果[15]。PSM具有分析步骤明确和结果易解释等显著优势，目前被广泛运用于控制观察性研究的混杂偏倚[16]。本研究利用 PSM 评估慢性病共病对失能的影响,PSM 匹配前慢性病共病人群和单一慢性病人群的一般人口学信息、生活方式和健康状况等特征具有显著差异，匹配后两组之间均衡可比，从而确保了本研究评估慢性病共病对失能影响的准确性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本次调查结果显示，农村中老年人的 ADL失能率为 $2 4 . 4 \\%$ ，IADL失能率为 $3 8 . 0 \\%$ ，IADL 失能率比ADL 失能较高，主要是因为相比于ADL能力，IADL的难度更大，对认知能力的要求也更高，这也体现了失能的层次性。与以往研究结果相比，ADL 失能率低于杜治平等[17]和许瑞雪等[18]报道的结果 $( 2 8 . 4 \\% - 3 1 . 7 \\% )$ ，但高于张晗等[19]报道的结果（ $. 2 . 1 \\% )$ ;IADL失能率也存在差异，Bowling $\\mathrm { C B } ^ { [ 2 0 ] }$ 调查的IADL 失能率为 $1 7 . 0 \\%$ ，而 Su P 等调查IADL失能率 $4 9 . 1 7 \\% ^ { [ 2 1 ] }$ 。除了抽样方式、抽样人群和抽样地区造成的差异之外，国内对于中老年人失能率的研究，主要采用国际通用的ADL量表评估，但失能的程度或等级评定尚无统一标准[22,23]也是重要的原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在慢性病共病与失能的关系方面，与 ShiyiC等[24]的研究未发现慢性病患病数量与老年人失能有关联的结论不同，本研究结果表明，与患一种慢性病的农村中老年人相比，慢性病共病中老年人ADL失能风险为的2.25倍；IADL失能风险为1.52倍，农村中老年人的慢性病共病与增加ADL 和IADL 失能风险显著相关，与以往的研究结论相符[9,25]。此外，使用不同的计数方法(4 种慢性疾病)定义慢性病共病得到共病和失能之间的关系也相同，并且风险更大。一项利用中国上海75岁以上老年的研究结果表明，与未患慢性病人群相比，患四种以上慢性疾病为ADL 失能风险是5.61倍，患IADL 失能的风险为5.51倍[21]。究其原因，一方面中老年人慢性病共病患者由于年龄较大、机体功能低下和疾病复杂等特点，对身体功能产生叠加或协同作用，使得疾病治疗周期延长、疾病预后不佳、并发症增多、甚至重要组织器官损害，造成自理能力下降[9]。另一方面，在农村，中老年人的社会经济地位较低，社会服务较差，获得优质医疗服务的机会较低。随着城市化的发展，越来越多的农村青年向城市迁移，而他们的父母却在农村生活，处于空巢状态，患慢性病共病的风险更大。此外，由于大多数农村居民每天从事高强度的农业活动，这也对他们的健康造成不利的影响。特别是农忙季节，居民早起晚睡，睡眠质量得不到保证，所有这些很大程度上导致其共病情况更为严重[26,27]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究为中国农村中老年人慢性病共病对失能的影响提供了新的证据，对制定政策和规划具有重要的意义。由于慢性病共病情况越来越严重，英国等国家制定了共病临床指南，强调融合和以患者为中心的医疗保健服务[28]。为了应对日益加重的多病负担，我国的慢性病的防控也需要从单一疾病模式转向共病管理模式，通过政策引导、学科建设、临床项目支持等方式，提高卫生体系和医疗服务提供者对慢性病共病的应对能力。利用医联体服务模式发展契机，探索慢性病共病的分级诊疗管理新模式，以更有效地管理共病。其次，解决慢性病共病的重点应在于农村地区，目前农村地区的需求大，卫生服务水平较低，且分布分散。所以应加强农村慢性病患者服务体系建设，实现对共病患者的及时发现和标准化管理。此外，需加强对农村中老年人的健康教育，提升其对慢性病的正确认知，在快速城镇化进程中，“留守”农村人口的老龄化形势日益严峻，增强农村居民心理保健意识，丰富农村居民的文娱生活，在中老年人中提倡积极、健康的生活方式，包括有规律地参加社交活动和保证每日充足的睡眠等，才能更好地改善健康状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究利用PSM均衡慢性病共病组与非共病组的混杂偏倚，保证了两组间良好的可比性和结论的可靠性。基于PSM的研究结果表明农村中老年人慢性病共病会增加失能的风险。相关部门和社会各领域应密切合作，加大对农村地区资源和政策投入，调整卫生体系服务重心，加强对农村地区中老年人慢性病共病和失能的预防与管理，满足农村地区中老年人健康需要。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]张萌，马登慧，杜雯雯，等．国内外失能老人家庭照顾者干预研究进展[J]．中国公共卫生, 2022,38(04):499-502. ZHANG Meng,MA Deng-hui, DU Wen-wen, et al. Interventions for family caregivers of disabled elderly at home and abroad:a review on research progress. Chin JPublic Health, 2022,38(04):499-502.   \n[2] Akosile C O, Mgbeojedo U G, Maruf FA,et al. Depression,functional disability and quality of life among Nigerian older adults: Prevalences and relationships[J]. Arch Gerontol Geriatr, 2O18,74:39- 43.   \n[3]王瑞芬，罗颜，陈子烁，等．中国中老年人心脏代谢性共病与失能的关系[J]．吉林大学学报 (医学版),2021,47(03):761-769.WANG Ruifen,LUO Yan, CHEN Zishuo, et al. Associations between cardiometabolic multimorbidity and disability in middle-aged and older Chinese adults. Journal of Jilin University(Medicine Edition),2021,47(03):761-769.   \n[4] Liu X, Lu B, Feng Z. Intergenerational transfers and informal care for disabled elderly persons in China: evidence from CHARLS[J]. Health Soc Care Community, 2017,25(4):1364-1374.   \n[5]李正禹，武继磊，李佳佳，等．慢性病对中国65岁及以上老年人日常活动能力影响的队列研 究[J].中华流行病学杂志,2019,40(O1):33-40.Li Zhengyu,Wu Jilei,Li Jiajia,et al.A cohort study on the impact of chronic diseases on the ability of daily activities in Chinese adults aged 65 years and older[J]. Chinese Journal of Epidemiology, 2019,40(O1):33-40.   \n[6] Islas-Granillo H,Medina-Solis CE,de Lourdes MM,et al. Prevalence of multimorbidity in subjects aged $> / = 6 0$ years in a developing country[J]. CLIN INTERV AGING, 2018,13:1129-1133.   \n[7] Costa Filho A M,de Melo Mambrini J V, Malta DC, et al. Contribution of chronic diseases to the prevalence of disability in basic and instrumental activities of daily living in elderly Brazilians: the National Health Survey (2013)[J]. CAD SAUDE PUBLICA,2018,34(1).   \n[8]刘帅帅，张露文，陆翘楚，等．中国中老年人多重慢性病现状调查与健康损失因素探究：基 于CHARLS 2018数据[J].实用医学杂志，2021,37(04):518-524.LIU Shuaishuai，ZHANG Luwen,LU Qiaochu, et al. The prevalence of multi- morbidity and related functional limitation among middle- aged and senior popula- tion in China: nationally evidence from CHARLS 2018[J].The Journal of Practical Medicine,2021,37(04):518-524.   \n[9] Zhao Y W, Haregu T N,He L,et al. The effect of multimorbidity on functional limitations and depression amongst middle-aged and older population in China: a nationwide longitudinal study[J]. AGE AGEING,2021,50(1):190-197.   \n[10]段立霞，刘晨曦．基于倾向得分匹配的湖北省基层医生抗菌药物使用知识和态度变化分析[J]. 中国全科医学,2022,25(10):1238-1245.Duan Lixia，Liu Chenxi. Changes in Knowledge and Attitudes towards Antibiotic Use among Primary Care Physicians in Hubei Province: a Propensity Score-matched Analysis[J]. Chinese General Practice,2022,25(10):1238-1245.   \n[11] Katz S C,Ford A B ,Moskowitz R W ,et al. Studies of Ilness in the Aged. The Index of Adl: A Standardized Measure of Biological and Psychosocial Function [J]. JAMA,1963,185:914-919.   \n[12] Lawton MP, Brody E M. Assessment of older people: self-maintaining and instrumental activities of daily living[J]. GERONTOLOGIST,1969,9(3):179-186.   \n[13]钱佳慧，曹裴娅，吴侃，等．慢性病对中国老年人日常生活活动能力影响的调查研究[J]．中 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国全科医学,2016,19(35):4364-4369.QIAN JH，CAO P Y，WU K，et al． Investigation of effects of chronic diseases on activities of daily living abilities of the elderly in China [J]. Chinese General Practice,2016，19（35) : 4364 - 4369.   \n[14] Ainslie K, Haber M, Orenstein W A. Challenges in estimating influenza vaccine effectiveness[J]. EXPERT REV VACCINES,2019,18(6):615-628.   \n[15]杨梅，肖静，沈毅，等．倾向评分法及其处理共线性数据的模拟研究[J].中国卫生统计, 2013,30(O6):824-828. Yang Mei, Xiao Jing, Shen Yi, et al. A Simulation Study for Propensity Score in Dealing with Col-linearity Data [J]. Chinese Journal of Health Statistics, 2013,30(06):824-828.   \n[16]解晓曦，赵晓明．基于倾向性评分匹配的患者术后医院感染的影响因素再评价[J].现代预防 医学,2019,46(04):743-746. Xie Xiaoxi, Zhao Xiaoming. Evaluation of the influencing factors of postoperative nosocomial infection based on propensity score matching, 2019,46(04):743-746.   \n[17]杜治平，王取南，李艳玲，等．六安城乡社区老年人慢性病与日常生活能力的相关性研究[J]. 安徽医科大学学报，2020,55(11):1758-1762.Du Zhiping，Wang Qunan,Li Yanling，et al. Associations between chronic diseases and activities of daily living of elderly in Lu'an urban and rural communities [J]. Acta Universitatis Medicinalis Anhui,2020,55(11):1758-1762   \n[18]许瑞雪，毛可，王蒋达，等．农村老年人日常生活活动能力现状[J]．中国老年学杂志, 2019,39(23):5837-5840. Xu Ruixue,Mao Ke, Wang Qida, et al. Status of activities of daily living among the elderly in rural areas [J]. Chinese Journal of Gerontology,,2019,39(23):5837-5840   \n[19]张晗，王志会，王丽敏，等．中国社区老年居民日常生活活动能力失能状况调查[J]．中华流 行病学杂志,2019(03):266-271. Zhang Han,Wang Zhihui, Wang Limin, et al. Study on activities of daily living disability in community-dwelling older adults in China [J]. Chinese Journal of Epidemiology, 2019(03):266-271   \n[20] Bowling C B, Deng L, Sakhuja S,et al. Prevalence of Activity Limitations and Association with Multimorbidity Among US Adults 50 to 64 Years Old[J]. J GEN INTERN MED, 2019,34(11):2390-2396.   \n[21] Su P,Ding H, Zhang W, et al. The association of multimorbidity and disability in a communitybased sample of elderly aged 80 or older in Shanghai, China[J]. BMC GERIATR,2O16,16(1):178.   \n[22] 钱佳慧，吴侃，罗会强，等．中国老年人日常生活活动能力损失现况及影响因素分析[J]．中 华流行病学杂志,2016,37(09):1272-1276. Qian Jiahui,Wu Kan,Luo Huiqiang,et al. Prevalence of loss of Analysis of activities of daily living and influencing factors in elderly population in China [J]. Chinese Journal of Epidemiology,2016,37(09):1272-1276 .   \n[23] Chen S, Zheng J, Chen C,et al. Unmet needs of activities of daily living among a community-based sample of disabled elderly people in Eastern China: a cross-sectional study[J]. BMC GERIATR, 2018,18(1):160.   \n[24] ShiyiC, Jian Q, You L, et al. Disability and Its Influencing Factors among the Elderly in a County, Guangxi Province,China[J]. INT JENV RES PUB HE,2018,15(9).   \n[25] Quinones A R,Markwardt S, Botoseneanu A. Multimorbidity Combinations and Disability in Older Adults[J]. J Gerontol A Biol Sci Med Sci, 2016,71(6):823-830.   \n[26] Ma X,He Y, Xu J. Urban-rural disparity in prevalence of multimorbidity in China: a cross-sectional nationally representative study[J]. BMJ OPEN,2020,10(11):e38404.   \n[27] Zhang C, Xiao S,Shi L,et al. Urban-Rural Differences in Pattrns and Associated Factors of Multimorbidity Among Older Adults in China:A Cross-Sectional Study Based on Apriori Algorithm and Multinomial Logistic Regression[J]. Front Public Health, 2021,9:707062.   \n[28] Salisbury C, Man M S, Bower P, et al. Management of multimorbidity using a patient-centred care ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "model: a pragmatic cluster-randomised trial of the 3D approach[J].LANCET,2018,392(10141):41- 50. ",
+        "page_idx": 8
+    }
+]

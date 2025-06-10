@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.11931/guihaia.gxzw201904026 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "巨菌草根部促生菌的筛选及其促生效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邓振山l\\*，陈凯凯1，李静1，刘显春¹，张宝宝‘，张宝成²1．延安大学 生命科学学院，陕西 延安 716000;2.遵义师范学院，生命科学学院，贵阳 563000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本研究采用巨菌草根部为主要研究材料，进行巨菌草促生菌的筛选，并测定促生菌株的促生效应。以解磷、固氮和产IAA等为筛选标准，对初筛菌株进行多项促生能力的测定，通过形态观察、生理生化特性和16SrDNA序列同源性分析对促生效果最好的菌株YB-07进行分类和鉴定。分别测定其促生能力后，从中筛选出促生效应强的11个菌株进行盆栽试验，通过对这些菌株单独回接和多菌混接的小麦盆栽试验测定了其对小麦的促生效应。从巨菌草根部分离得到了101株促生菌株，分类鉴定结果显示菌株 YB-07归属于根瘤菌属(Rhizobium)，其溶磷量为 $2 0 . 1 \\ \\mathrm { m g ^ { \\bullet L ^ { - 1 } } }$ 、产IAA量为 $2 3 . 7 \\ \\mathrm { m g ^ { \\bullet L ^ { - 1 } } }$ 且同时具有产氨能力。盆栽试验的测定结果表明：多菌混合接种对小麦的促生效应在株高、干重、鲜重和叶绿素含量上较对照组分别增加了 $2 4 . 4 9 \\%$ 、 $3 1 . 8 4 \\%$ 、 $2 8 . 0 6 \\%$ 和 $3 4 . 1 4 \\%$ 。单菌接种对小麦对促生在株高、干重、鲜重、和叶绿素含量上较对照组分别增加了 $1 3 . 5 4 \\%$ 、 $2 0 . 4 5 \\%$ 、 $1 6 . 8 4 \\%$ 和 $3 5 . 1 9 \\%$ 。所筛选到的菌株具有良好的促生长作用，能为进一步构建巨菌草促生菌菌群提供良好的种质资源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：巨菌草，促生菌，筛选，促生效应，盆栽实验中图分类号：Q939.95,S182 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Screening growth-promoting bacteria associated with Pennisetum sinese root and their abilities of growth-promoting effect ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金(31660106);陕西省科技统筹创新工程项目(2016TTC-N-3-1);陕西省县域重点 科技项目(2018XY-14);2019 年陕西省农业厅农业绿色技术研发集成项目;陕西省教育厅服务地方专项计划 项目（16JF029);延安市菌草工程研究中心专项基金;延安市生物资源开发与利用科技创新团队专项基 金;2019 年第八批陕西省省级农业标准化示范区项目[Supported by the National Natural Science Foundation of China(31660106); Science and Technology Coordinating Innovation Program of Shaanxi(2016TTC-N-3-1) ; Key Science and Technology Projects in County of Shaanxi Province (2018XY-14); Agricultural Green Technology Research and Development Integration Project of Shaanxi Provincial Department of Agriculture in 2O19; Service Local Special Plan Program of the Department of Education of Shaanxi Province (16JFO29); Special Fund of Juncao Enginering Research Center of Yan'an City； Special Fund of Technology Innovation Team for the Development and Utilization of Biological Resources of Yan'an City; The Eighth Batch ofProvincial Agricultural Standardization Demonstration Area Projects in Shaanxi Province in 2019]。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：邓振山(1969-)，男，陕西黄陵人，博士，副教授，主要从事微生物资源与利用和环境微生物学研究工作，(E-mail)zhenshandeng214@163.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DENG Zhenshan1\\*,CHEN Kaikai1,LI Jing',LIU Xianchun', ZHANG Baobao1, ZHANG Baocheng2 (1. College ofLife Science,Yan'an University,Yan'an 716ooo,Shaanxi,China; 2.SchoolofBiological and Agricultural Science and Technology, Zunyi Normal College,Zunyi 563ooo,Guizhou,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In this study, the root of the Pennisetum sinese was used as the main research material, screening of growth-promoting strains from Pennisetum sinese,and explore the growth-promoting effects of growth-promoting strains.We used the following criteria as the screening criteria for the determination of multiple growth-promoting capacities of primary strains:the ability to solubilize phosphorus，the ability to fix nitrogen，the ability to produce IAA.Then， we identified physiological and biochemical characteristics and 16S r DNA sequence homology analysis. The strains with excellent overall performance were screened out and used for a pot experiment with a single inoculation and multi-microbe mixed inoculation to determine its growth promoting effect. 101 strains were isolated from the roots of the Pennisetum sinese,and the growth-promoting ability was measured. Among them, the strain with excellent overall performance was $\\scriptstyle \\mathrm { Y B \\sim 0 7 }$ ， which had a phosphorus content of $2 0 . 1 \\ \\mathrm { m g ^ { \\bullet L ^ { - 1 } } }$ ,an IAA yield of $2 3 . 7 \\ \\mathrm { m g } \\bullet \\mathrm { L } ^ { - 1 }$ ，and an ability to produce ammonia at the same time. The results of pot experiment showed that the effect of multi-microbe mixed inoculation on wheat growth increased by $2 4 . 4 9 \\%$ ， $3 1 . 8 4 \\%$ ， $2 8 . 0 6 \\%$ and $3 4 . 1 4 \\%$ in the height, dry weight, fresh weight and chlorophyll content,respectively. Single bacteria inoculation increased the plant height,dry weight, fresh weight,and chlorophyll content by $1 3 . 5 4 \\%$ ， $2 0 . 4 5 \\% , 1 6 . 8 4 \\%$ and $3 5 . 1 9 \\%$ ，respectively，compared with the control group. The selected strain has good growth promoting effect, can provide a good resource for the further construction of the Pennisetum sinese flora promoting bacteria. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Pennisetum sinese， promoting bacteria， screening， growth promoting effect, pot experiment ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "巨菌草(Pennisetum sinese)隶属禾本科狼尾草属，多年生，适宜在热带、亚热带、温带生长和人工栽培。巨菌草是 2005—2007年间由福建农林大学菌草研究所在南非引进的品种，因其在当地生长时植株特别高大，因此将其暂命名为巨菌草，后经鉴定其与国内其他狼尾草略有差别，现正在申报新品种认定。巨菌草属典型的 $\\mathrm { C } _ { 4 }$ 植物，其植株高大，株高一般为3\\~5m；抗逆性强，产量高，粗蛋白和糖分含量高(林兴生等，2013)。植物内生菌在现今植物微生物学、微生物学应用研究领域中，已经占据了越来越重要的位置，主要归功于其具有很多有益的生物学特性，如内生细菌具有增加宿主溶磷(王丽萍等，2015）、分泌吲哚乙酸（IAA）（罗菲等，2011）、固氮（Webster etal.,1997）等促进植物生长的作用。目前为止，巨菌草已经用于香茹、黑木耳等多种食药用菌的栽培(王丽萍等，2015），但对巨菌草的研究大多集中在抗寒、抗碱、抗盐、抗旱等方面(林兴生等，2013；王丽萍等，2015)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自从在延安地区实施\"退耕还林还草工程\"以来，采取封山育林措施，畜牧业养殖模式由传统的\"散养型\"改为\"圈养型”，结果导致饲草短缺已成为制约延安地区畜牧业发展的瓶颈。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，为解决饲草短缺、成本高及“治沟造地工程\"土壤改良问题，2012 年延安大学科研人员从国家菌草工程研究中心成功引种巨菌草到延安市，经过这几年的试验和示范，已经成功推广3万亩，促进了当地畜牧业的发展。但目前研究仍处于起步阶段，关于巨菌草内生菌的研究鲜有报道。鉴于此，本研究以巨菌草作为试验材料，从中筛选出具有促生效应的内生细菌菌株，并采用单菌接种和多菌混合接种的方法，通过盆栽试验结果，测定所筛菌株的促生效应，以期为进一步开发植物促生菌提供种质资源及延安地区巨菌草高效规范化管理与示范推广提供参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.1巨菌草根部样品的采集及前期处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "巨菌草根部样品从延安大学翠园巨菌草示范基地采集，采用五点采样法，选择生长性状良好、无病害症状的健康巨菌草植株体根部样品80个，用灭菌袋包装带回实验室。 $4 ^ { \\circ } \\mathrm { C }$ 低温保藏， $4 8 \\mathrm { { h } }$ 内处理完。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.2盆栽试验土壤来源及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于盆栽试验的土壤采集自延安大学的后山，采集完成后，灭菌袋装好带回实验室。用筛子（ $\\cdot 5 \\ \\mathrm { m m }$ ）筛除土壤中大颗粒的土壤、沙石，植物的根和未完全腐烂的落叶、枝条等杂质。处理好后的土壤装入塑料盆中待用，塑料盆直径为 $1 2 \\mathrm { c m }$ ，每盆装入土壤 $1 . 5 \\mathrm { k g }$ ，待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3供试培养基",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）LB 培养基：蛋白陈 $1 0 \\mathrm { { g } }$ ， $\\mathbf { N a C l } 1 0 \\mathbf { g }$ ，酵母膏 $5 \\mathrm { g }$ ，蒸馏水 $1 0 0 0 { \\mathrm { m L } }$ ， $\\mathrm { p H } 7 . 0$ 。（2）PDA 培养基：马铃薯 $2 0 0 ~ \\mathrm { g }$ ，葡萄糖 $2 0 \\ \\mathrm { g }$ ，琼脂 $1 5 { \\sim } 2 0 ~ \\mathrm { g }$ ，蒸馏水 $1 ~ 0 0 0 ~ \\mathrm { { m L } }$ ，自然 $\\mathrm { \\ p H }$ 。(3）阿须贝(Ashby)培养基：葡萄糖或甘露醇 $1 0 . 0 \\ \\mathrm { g }$ ， $\\mathrm { K H } _ { 2 } \\mathrm { P O } _ { 4 } 0 . 2 \\ \\mathrm { g }$ ， $\\mathrm { M g S O _ { 4 } } { \\cdot } 7 \\mathrm { H _ { 2 } O } \\ 0 . 2 \\ \\mathrm { g }$ NaCl 0.2 g， $\\mathrm { C a S O _ { 4 } { \\cdot } 2 H _ { 2 } O 0 . 1 \\mathrm { g } }$ ， $\\mathrm { C a C O _ { 3 } } 5 . 0 \\mathrm { g }$ ，琼脂 $1 5 { \\sim } 2 0 \\ \\mathrm { g }$ ， $\\mathrm { H } _ { 2 } \\mathrm { O } \\mathrm { ~ 1 ~ } 0 0 0 \\mathrm { \\ m L }$ ， $\\mathrm { p H } 7 . 0$ 。（4）解磷细菌培养基： $\\mathrm { N a C l } 0 . 3 \\ \\mathrm { g }$ ， $\\mathrm { M g S O _ { 4 } { \\cdot } 7 H _ { 2 } O 0 . 3 \\mathrm { ~ g } }$ ， $\\mathrm { M n S O _ { 4 } { \\cdot } 4 H _ { 2 } O 0 . 0 3 \\ g }$ ， $\\operatorname { K C l } 0 . 3 \\ \\mathrm { g }$ $\\mathrm { ( N H _ { 4 } ) _ { 2 } S O _ { 4 } 0 . 5 \\ g }$ ， $\\mathrm { F e S O _ { 4 } } { \\cdot } 7 \\mathrm { H _ { 2 } O } 0 . 0 3 \\ \\{$ ， $\\mathrm { C a _ { 3 } ( P O _ { 4 } ) 2 5 . 0 ~ g }$ ，蔗糖 $1 0 \\mathrm { { g } }$ ，琼脂 $1 5 { \\sim } 2 0 \\ \\mathrm { g }$ ， $\\mathrm { H } _ { 2 } \\mathrm { O } \\mathrm { ~ 1 ~ } 0 0 0$ （204号mL， $\\mathrm { p H } 7 . 0 { \\sim } 7 . 5 \\$ 。（5）NA 培养基：牛肉膏 $ { 3 \\mathrm { ~ g ~ } }$ ，蛋白陈 $1 0 \\mathrm { ~ g ~ }$ ， $\\mathbf { N a C l 5 g }$ ，蔗糖 $1 0 \\mathrm { { g } }$ ，琼脂 $1 5 \\mathrm { ~ g ~ }$ ，蒸馏水$1 0 0 0 { \\mathrm { m L } }$ ， $\\mathrm { p H } 7 . 0$ 。（6）产IAA培养基： $\\mathrm { K H _ { 2 } P O _ { 4 } 0 . 5 \\ g }$ ，酵母膏 $\\mathrm { ~ 1 ~ g ~ }$ ，甘露醇 $1 0 \\mathrm { { g } }$ ， $\\mathrm { M g S O } _ { 4 } 0 . 2 \\ \\mathrm { g }$ ，NaCl 0.1g，色氨酸 $1 0 0 ~ \\mathrm { { m g } }$ ，蒸馏水 $1 0 0 0 { \\mathrm { m L } }$ ， $\\mathrm { p H } 6 . 8 { \\sim } 7 . 2$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样品的表面消毒 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将巨菌草根部用自来水将残留在根部样品表面的残留土冲洗干净，用吸水纸吸干根部表面的水。接着将根部样品浸泡在浓度为 $7 5 \\%$ 的乙醇中，浸泡 $2 { \\sim } 3 \\ \\operatorname* { m i n }$ ，无菌 $\\mathrm { \\ d d H _ { 2 } O }$ 冲洗3次，灭菌的吸水纸吸干后，将根部样品浸泡在浓度为 $0 . 1 \\%$ 的 $\\mathrm { H g } \\mathrm { C l } _ { 2 }$ 溶液中，浸泡时间为3min，取出立即用无菌 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 冲洗6次，确保消毒剂的无残留。将最后一次冲洗的无菌 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 涂布到同样的培养基上用于检测根部样品的表面消毒是否彻底(王志勇等，2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2促生菌株筛选 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将表面消毒彻底的巨菌草根部样品截成约 $1 \\mathrm { c m }$ 的小段，根段放入筛选培养基中，培养基包括PDA培养基，产IAA培养基，Ashby 培养基和解磷培养基等，于 $2 8 { \\pm } 1 ~ ^ { \\circ } \\mathrm { C }$ 恒温静置培养 $3 { \\sim } 5 \\mathrm { d }$ 。待培养基中有可见菌落时，挑取周围菌落移入相应培养基纯化，并进行菌落形态描述、编号和置于 $4 ^ { \\circ } \\mathrm { C }$ 冰箱中备用。将最后一次冲洗的无菌水涂布于培养基上作为对照，于恒温静置培养，检验表面消毒是否彻底。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3促生能力测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1紫外分光光度计法测定吲哚乙酸含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "筛选获得的菌株接入PDA 培养基中，在 $1 8 0 ~ \\mathrm { r / m i n }$ 、 $2 8 ^ { \\circ } \\mathrm { C }$ 的条件下摇床上培养 $4 8 \\mathrm { { h } }$ 。培养后各取 $3 \\mathrm { m L }$ 的菌液， $1 0 0 0 0 \\mathrm { r } \\bullet \\mathrm { m i n } ^ { - 1 }$ 离心 $8 \\mathrm { m i n }$ ，取离心好的上清液 $1 \\mathrm { m L }$ ，并加入 $2 { \\mathrm { m L } }$ 的 Salkowski's $\\mathrm { ( 1 0 . 8 \\ m o l { \\bullet } L ^ { - 1 } H _ { 2 } S O _ { 4 } }$ 含 $4 . 5 \\ \\mathrm { g }$ 的 $\\mathrm { F e C l } _ { 3 } .$ 反应液。在暗处静置混合反应 $3 0 \\mathrm { m i n }$ 。测定 $\\mathrm { O D } _ { 5 4 0 } \\mathrm { n m }$ 的值，使用标准品绘制标准曲线。将测得的数值代入标准曲线获得产吲哚乙酸的含量。用去离子水作为对照处理(田宏等，2005)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2钼蓝比色法测定处理液中的磷含量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别取配置好的 $5 0 ~ { \\mu \\mathrm { g } } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 的含磷标准液各0、0.5、1.0、1.5、2.0、2.5、3.0、3.5、$4 . 0 ~ \\mathrm { m L }$ ，分别置于 $2 0 ~ \\mathrm { m L }$ 具塞试管中，分别加蒸馏水至 $6 ~ \\mathrm { m L }$ ，再加入 $1 ~ \\mathrm { m o L ^ { \\bullet } L ^ { - 1 } }$ 的硫酸溶液 $2 { \\mathrm { m L } }$ ， $2 { \\mathrm { m L } }$ 铁钼酸试剂，混匀。静置 $1 5 \\mathrm { m i n }$ 以后，用比色皿在分光光度计 $\\mathrm { O D } _ { 6 6 0 } \\mathrm { n m }$ 波长处测定吸光度。用所得数据绘制标准曲线，以测出的吸光度通过标准曲线方程计算待测样品溶液的磷含量(张祥胜，2008)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3产氨能力测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将待测菌株接种到NA培养基中，置于 $1 8 0 \\mathrm { r } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ 、 $2 8 ^ { \\circ } \\mathrm { C }$ 的条件下摇床培养 $4 8 \\mathrm { h }$ ，取$1 0 0 ~ { \\mu \\mathrm { L } } / { 5 } ~ \\mathrm { m L }$ 接种于阿须贝液体培养基内，以接种无菌水为对照，每处理3个重复，置于$2 8 ^ { \\circ } \\mathrm { C }$ 恒温培养，7d后对比试验组与对照组的浑浊情况，明显浑浊为阳性。即为有固氮活性(王娜娜，2010；Zahoor etal.,2017)。另将待测菌株接入蛋白膝（ $1 0 \\ \\mathrm { g } { \\bullet \\mathrm { L } ^ { - 1 } }$ ）培养液的试管中，加入 $0 . 5 ~ \\mathrm { m L }$ Nessler's 试剂，出现黄褐色沉淀的为产 $\\mathrm { N H } _ { 3 }$ 阳性反应（王刚等，2009）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4菌株的鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1培养特征观察 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将菌株YB-07采用平板划线法接种于NA培养基中， $2 8 ^ { \\circ } \\mathrm { C }$ 培养1\\~2d，观察并记录单菌落特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2生理生化鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将菌株 YB-07 进行革兰氏染色、甲基红测定、V-P 测定、淀粉水解、吲哚试验、油脂水解和明胶水解试验。试验测定方法及初步鉴定方法参考《微生物学实验》（蔡信之和黄君红，2010）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.316SrDNA序列测定及系统发育树分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "测定初筛菌的促生能力后，选择具有多种促生效应的优势菌株YB-07进行鉴定。对菌株 YB-0716SrDNA 基因片段进行PCR 扩增和测序，获得GenBank 登录号后，运用 MEGA6.06 软件，选用邻接法（Neighbour-Joining）构建系统发育树，分析菌株的系统发育学特征(张磊等，2017；张苗苗等，2017)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5盆栽试验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.1小麦种子处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本试验采用小麦(品种：陕优225 号)进行盆栽试验，将陕优 225小麦种子先用冷水预浸4\\~6h,捞出再用 $5 2 { \\sim } 5 5 ^ { \\circ } \\mathrm { C }$ 温水浸 $1 { \\sim } 2 \\operatorname* { m i n }$ ，使种子温度达到 $5 0 ^ { \\circ } \\mathrm { C }$ ，捞出后放入 $5 6 ^ { \\circ } \\mathrm { C }$ 温水中，浸泡 $5 \\mathrm { m i n }$ 取出，用凉水冷却后晾干播种。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.2促生菌株间亲和性测试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用划线接种的方法测试菌株之间是否存在拮抗作用，将待测的促生菌株分别两两交叉接种于PDA培养基上，放入恒温箱中， $2 8 ^ { \\circ } \\mathrm { C }$ 培养 $2 { \\sim } 3 \\mathrm { d }$ 。若两两交叉划线处菌株能正常生长，则菌株间无拮抗作用，则可以制作复合菌悬液进行试验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.3接种菌剂的制备 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将选取的促生菌菌株接种于LB 液体培养基中，在 $2 5 ^ { \\circ } \\mathrm { C } .$ ， $1 8 0 \\mathrm { r } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ 的条件下培养 48h。各取培养物装入 $3 ~ \\mathrm { m L }$ 离心管中， $1 0 \\mathrm { \\ 0 0 0 \\ r e m i n } ^ { - 1 }$ 离心 $1 0 ~ \\mathrm { m i n }$ ，弃上清液，加入生理盐水$1 \\mathrm { m L }$ 制备成菌悬液，并按表1的设计方法（其中多菌混合组包括固氮、溶磷混合组；溶磷、产IAA混合组及固氮、溶磷与产IAA混合组）处理后，分别取 $1 . 2 ~ \\mathrm { m L }$ （ $2 . 0 { \\times } 1 0 ^ { 9 }$ 个 $\\bullet \\mathrm { m L } ^ { - 1 }$ ）接种于灭菌后的LB 液体培养基中，于 $2 8 ~ ^ { \\circ } \\mathrm { C }$ ， $1 6 0 ~ \\mathrm { r e m i n ^ { - 1 } }$ 培养 $2 { \\sim } 3 \\mathrm { ~ d ~ }$ ，即可获得菌株接种剂。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1接种菌剂的处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b82c03cf356f24d20d2258271a15ae3f1bd0b8f91241c84ecc52df08b77f7ab.jpg",
+        "table_caption": [
+            "Table1Treatments of microbial inoculum "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌株编号 No. of strains</td><td>菌株处理 Strain treatment</td><td>接种量处理 Inoculation volume processing (2.0×109个·mL-1)</td></tr><tr><td>N1</td><td>N-02</td><td>1.2 mL</td></tr><tr><td>N2</td><td>N-01</td><td>1.2 mL</td></tr><tr><td>N3</td><td>YB-07</td><td>1.2 mL</td></tr><tr><td>P1</td><td>NP-01</td><td>1.2 mL</td></tr><tr><td>P2</td><td>NP-02</td><td>1.2 mL</td></tr><tr><td>P3</td><td>NP-03</td><td>1.2 mL</td></tr><tr><td>N+P</td><td>混合菌剂1:N-02、NP-01</td><td>0.6 mL、0.6 mL</td></tr><tr><td>PY</td><td>Mixed bacteria agent 1: N-02、NP-01 混合菌剂2:</td><td>0.3 mL、0.3 mL、0.3 mL、0.3 mL</td></tr><tr><td>NPY</td><td>YB-07、YB-08、YB-09、YB-10 Mixed bacteria agent 2: YB-07、YB-08、YB-09、YB-10</td><td>0.4 mL、0.4 mL、0.4 mL</td></tr><tr><td></td><td>混合菌剂3:N-01、N-02、NP-01 Mixed bacteria agent 3:</td><td></td></tr><tr><td>CK</td><td>N-01、N-02、NP-01 空白对照 Blank control</td><td>1.2 mL无菌水</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.4接种处理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "每次选取5粒饱满，大小均匀的小麦种子进行播种，五个播种点均匀分布，种子离土表面 $3 { \\sim } 5 ~ \\mathrm { c m }$ 。每个处理设3个重复，自然光照下培养。种子催芽过程中及每周每个处理每",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "次接种浓度为 $2 . 0 { \\times } 1 0 ^ { 9 }$ 个 $\\mathbf { \\cdot } \\mathbf { m } \\mathbf { L } ^ { - 1 }$ 的菌悬液 $2 { \\mathrm { m L } }$ ，同时对照组接种等量的无菌水，土壤湿度保持为 $60 \\%$ 。15d后测定小麦苗子的株高、根长、鲜重、叶绿素含量等指标，并做统计学分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1菌株的筛选结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用多种不同的培养基，从巨菌草根部样品中经分离、纯化共获得101株菌株，分别测定促生能力后，从中筛选出促生效果好的11株菌株进行后续的促生试验。其中有8株具有产氨能力，6株具有溶磷能力，3株具有产IAA能力（见表2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6212ced2134f905ef11e5a13235cdd6ee4f8c36bd4b44cf55fa3f8e702c444b.jpg",
+        "table_caption": [
+            "表2巨菌草11株促生菌株促生特性测定",
+            "Table 2 Evaluation plant growth promoting traits of endophytic bacteria from P. sir "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌株编号 Strain number</td><td>促生特性 Characteristics of promotion</td><td>培养基种类 Sorts of medium</td></tr><tr><td>N-01</td><td>产氨、产IAA Ammonia production, indole acetic acid (IAA)</td><td>阿须贝培养基 Ashby medium</td></tr><tr><td>N-02</td><td>solubilization 产氨 Ammonia production</td><td>阿须贝培养基 Ashby medium</td></tr><tr><td>N-03</td><td>产氨 Ammonia production</td><td>阿须贝培养基 Ashby medium</td></tr><tr><td>NP-01</td><td>溶磷、产氨 Phosphate solubilization, ammonia production</td><td>解磷细菌培养基 Phosphorus dissolving bacteria medium</td></tr><tr><td>NP-02</td><td>溶磷、产氨 Phosphate solubilization, ammonia production</td><td>解磷细菌培养基 Phosphorus dissolving bacteria</td></tr><tr><td>P-03</td><td>溶磷 Phosphate solubilization</td><td>medium 解磷细菌培养基</td></tr><tr><td>YB-09</td><td>溶磷、产IAA Phosphate solubilization, indole acetic acid</td><td>解磷细菌培养基 Phosphorus dissolving bacteria</td></tr><tr><td>YB-08</td><td>(IAA)solubilization 产氨 Ammonia production</td><td>medium 阿须贝培养基 Ashby medium</td></tr><tr><td>YB-07 indole acetic acid (IAA)</td><td>产氨、溶磷、产IAA Ammonia production, phosphate solubilization,</td><td>解磷细菌培养基 Phosphorus dissolving bacteria</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0df371142146f3443ce2d1afdb7826291e0c8ce6929d38836ecd03820eb305c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">YB-10</td><td colspan=\"2\">solubilization</td></tr><tr><td>产氨</td><td>阿须贝培养基</td></tr><tr><td rowspan=\"2\">N-06</td><td>Ammonia production</td><td>Ashby medium</td></tr><tr><td>溶磷 Phosphate solubilization</td><td>PKO</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2促生能力的测定结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过实验分别测定了11株促生能力较强菌株的促生指标，表3显示了各菌株的促生能力测定结果，其中菌株YB-07同时具有产氨能力、产IAA和溶磷3种促生能力；菌株 NP-01的溶磷量最高，溶磷量为 $4 5 . 1 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ ；具有产IAA能力的三株菌IAA产生能力相差不大，其中菌株N-01产量最大，达到了 $2 6 . 5 \\ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 。其中菌株YB-07同时具有产氨能力、产IAA和溶磷3种促生能力，因此，本文选取该菌株作为代表菌株后续研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bb4079ad2234fdb94dbb5b80c20d872d707e58fac284c49a02a907244f33375.jpg",
+        "table_caption": [
+            "表311株菌株促生能力测定结果",
+            "Table 3 Results of promotion characteristic from11 strains "
+        ],
+        "table_footnote": [
+            "注： $^ +$ 表示具有产氨能力；ND 表示 没有检测到该项指标; $\\cdot _ { \\pm }$ 表示标准偏差不同的字母代表不同的显著性差异(Duncan-test, $P { < } 0 . 0 5$ 。下同。Note: $^ +$ means $\\mathrm { N H } _ { 3 }$ production capability; ND means no detected; $\\pm$ indicates standard deviation; Different lettersrepresent different significant differences (Duncan-test, $P { < } 0 . 0 5$ ).Thesame below."
+        ],
+        "table_body": "<html><body><table><tr><td>菌株编号 Strain code</td><td>产氨能力 NH3 production</td><td>溶磷量 Soluble phosphate(mg·L-1)</td><td>产IAA量 IAA production (mg·L-1)</td></tr><tr><td>N-01</td><td>+</td><td>ND</td><td>26.5±2.9a</td></tr><tr><td>N-02</td><td>+</td><td>ND</td><td>ND</td></tr><tr><td>N-03</td><td>+</td><td>ND</td><td>ND</td></tr><tr><td>NP-01</td><td>+</td><td>45.1±3.3a</td><td>ND</td></tr><tr><td>NP-02</td><td>+</td><td>30.1±2.2bc</td><td>ND</td></tr><tr><td>P-03</td><td>ND</td><td>24.3±1.9c</td><td>ND</td></tr><tr><td>YB-09</td><td>ND</td><td>33.1±1.8b</td><td>23.0±3.9b</td></tr><tr><td>YB-08</td><td>+</td><td>ND</td><td>ND</td></tr><tr><td>YB-07</td><td>+</td><td>20.1±4.4d</td><td>23.7±3.2b</td></tr><tr><td>YB-10</td><td>+</td><td>ND</td><td>ND</td></tr><tr><td>N-06</td><td>ND</td><td>24.5±2.8c</td><td>ND</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3促生菌株间亲和性测试结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "菌株 N-02与NP-01、N-01、N-02与NP-01及菌株YB-07、YB-08、YB-09与YB-10两两划线交叉处均有菌株生长，表明这些菌株间无拮抗作用，可以用作混合菌剂的制备。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4菌株YB\\~07的鉴定结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4.1培养特征观察 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "观察菌株YB-07在NA培养基培养2d后上形成的菌落，形状近圆形，粘稠状，半透明，边缘整齐，表面稍凸起而富有光泽（图1）。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bad8bedf6c00248c46aacaed6a391437916c3a413cb38cd3450cf4ab159534de.jpg",
+        "img_caption": [
+            "图1菌株YB\\~07的菌落形态 Fig.1 Colony morphology of strain YB-07 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.2生理生化结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "菌株YB-07的测定结果见表4。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4菌株YB-07的生理生化特征",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f26c4217228bce3f407af1b80358185c149c773e4c93c26c1d825b8623e1e261.jpg",
+        "table_caption": [
+            "Table 4Physiological and biochemical characteristics of strain YB-07 "
+        ],
+        "table_footnote": [
+            "注： $^ +$ 表示反应为阳性；-表示反应为阴性。Note: $^ +$ represents positive reaction; - represents a negative reaction."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">特征反应 Characterization</td><td>结果 Results</td></tr><tr><td>革兰氏染色</td><td>Gram stain</td><td></td></tr><tr><td>甲基红测定</td><td>Methyl red assay</td><td>+</td></tr><tr><td>V～P测定</td><td>V-P test</td><td>+</td></tr><tr><td>淀粉水解</td><td>Starch hydrolysis</td><td>+</td></tr><tr><td>吲哚试验</td><td>Indole test</td><td>+</td></tr><tr><td>油脂水解</td><td>Grease hydrolysis</td><td>-</td></tr><tr><td>明胶水解</td><td>Starch hydrolysis</td><td>+</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.316SrRNA序列测定及系统发育分析结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "经 NCBI 的 Blast 比对的结果显示，菌株 YB-07 与根瘤菌属(Rhizobium)的相似度为$9 9 . 6 7 \\%$ ，因此，归属于根瘤菌属(Rhizobium)，其GenBank 登录号为KY852244，其系统进化树图见图2。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/edf51e0d7cc89a81c6eb185cc663266fa83f5f2afdb2518f189e8c214be4dd67.jpg",
+        "img_caption": [
+            "图2菌株YB-0716SrDNA序列系统发育树 Fig.2Phylogenntic tree of YB-O7based on 16S rDNA sequence "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5盆栽试验的结果",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "小麦在培养15d后，对进行不同处理的小麦的各种形态学参数进行测量（表5）。由表5可知，除个别外（如在叶绿素含量上处理N3高于处理PY），总体上，对小麦的促生效应的表现结果上看，在株高、根长、干重和鲜重上，多菌混合接种明显优于单菌接种，其中，处理 $\\mathsf { N } { + } \\mathsf { P }$ 与多菌混合组PY、NPY和 $\\mathsf { N } { + } \\mathsf { P }$ 与单菌接种组各处理之间差异显著 $( P { < } 0 . 0 5 )$ 。而且，单菌接种与多菌混合接种各处理组均高于对照组，差异显著 $( P { < } 0 . 0 5 )$ 。在株高上，单菌接种与对照组相比较分别增加了 $8 . 1 3 \\%$ 、 $1 3 . 5 4 \\%$ 、 $1 6 . 0 4 \\%$ 、 $2 2 . 6 1 \\%$ 、 $3 1 . 0 6 \\%$ 和 $3 1 . 6 9 \\%$ ，差异显著 $( P { < } 0 . 0 5 )$ 。多菌混合接种与对照组相比增加幅度为 $2 1 . 0 8 \\% { \\sim } 4 0 . 4 6 \\%$ （分别为 $4 0 . 7 6 \\%$ 、$2 1 . 0 8 \\%$ 和 $2 4 . 4 9 \\%$ ），差异显著 $( P { < } 0 . 0 5 )$ 。在干重上，单菌接种与对照组相比增加幅度为$1 0 . 2 0 \\% { \\sim } 4 1 . 3 3 \\%$ （分别为 $1 6 . 8 4 \\%$ 、 $1 0 . 2 0 \\%$ 、 $1 0 . 2 0 \\%$ 、 $4 1 . 3 3 \\%$ 、 $1 9 . 9 0 \\%$ 和 $1 1 . 2 2 \\%$ ），差异显著 $( P { < } 0 . 0 5 )$ 。多菌混合接种与对照组相比增加幅度为 $2 8 . 0 6 \\% { \\sim } 5 2 . 5 5 \\%$ （分别为 $2 8 . 0 6 \\% . 2 8 . 0 6 \\%$ 和 $5 2 . 5 5 \\%$ )差异显著 $( P { < } 0 . 0 5 )$ 。在鲜重上，单菌接种与对照组相比增加幅度为 $1 8 . 1 8 \\% { \\sim } 2 7 . 2 7 \\%$ （分别为 $2 2 . 7 3 \\%$ 、0、 $1 8 . 1 8 \\%$ 、 $2 0 . 4 5 \\%$ 、 $2 7 . 2 7 \\%$ 和18.18），差异显著 $( P { < } 0 . 0 5 )$ 。多菌混合接种与对照组相比增加幅度为 $2 0 . 4 5 \\% { \\sim } 6 5 . 9 1 \\%$ （分别为 $6 5 . 9 1 \\%$ 、 $3 1 . 8 1 \\%$ 和 $2 0 . 4 5 \\%$ ），差异显著 $( P { < } 0 . 0 5 )$ 。在叶绿素含量上这一参数上单菌接种与对照组相比较增加幅度为$1 6 . 1 3 \\% { \\sim } 3 5 . 1 9 \\%$ （分别为 $2 8 . 4 9 \\%$ 、 $1 6 . 1 3 \\%$ 、 $2 7 . 4 3 \\%$ 、 $34 . 8 4 \\%$ 、 $3 5 . 1 9 \\%$ 和 $2 6 . 1 6 \\%$ ），差异显著 $( P { < } 0 . 0 5 )$ 。多菌混合接种与对照组相比增加幅度为 $1 7 . 1 9 \\% { \\sim } 3 4 . 1 4 \\%$ （分别为 $3 4 . 1 4 \\% . 2 7 . 9 6 \\%$ 和 $1 7 . 1 9 \\%$ ），差异显著 $( P { < } 0 . 0 5 )$ 。总体上，单菌接种与多菌混合接种均对小麦的生长有一定的促生效果，多菌混合接种明显优于单菌接种对小麦的促生效应。但从某些促生效果看，单菌接种的效果却高于多菌混合接种，如菌株N3接种过后的小麦叶绿素含量增加了 $3 8 . 0 \\%$ ，而处理PY混合接种的叶绿素含量才增加了 $3 6 . 2 \\%$ ，其它指标也同样也有类似结果，而且其各项促生指标均高于其他单菌接种处理组的效果，差异显著 $( P { < } 0 . 0 5 )$ 。小麦促生长状况见图3。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc79a8e0b6ee0ef41f52cfa828bf6777b7e46294911458d11bdae2072390a499.jpg",
+        "table_caption": [
+            "表5不同处理后的小麦生长的影响",
+            "Table 5Effects on wheat growth inoculated with different treatments wheat "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理编号 Number</td><td>株高 Plant height</td><td>根长 Root length (cm)</td><td>鲜重 Plant fresh weight （g）</td><td>干重 Plant dry weight (g)</td><td>叶绿素含量 Chlorophy</td></tr><tr><td>processing N1</td><td>(cm) 34.57±0.6d</td><td>4.6±1.3e</td><td>0.54±0.02c</td><td>0.229±0.01b</td><td>content(SPAD) 36.4±3.9b</td></tr><tr><td>N2</td><td></td><td>4.5±0.7e</td><td>0.42±0.02d</td><td>0.218±0.04b</td><td></td></tr><tr><td>N3</td><td>39.8±4.2bc</td><td>6.6±1.1c</td><td>0.60±0.03b</td><td>0.251±0.02b</td><td>32.9±6.2c 38.0±5.3a</td></tr><tr><td>P1</td><td>40.71±1.0b 37.1±3.0c</td><td>5.5±1.2d</td><td>0.52±0.01c</td><td>0.216±0.08b</td><td>36.1±3.0b</td></tr><tr><td>P2</td><td>39.2±4.3bc</td><td>6.3±1.2c</td><td>0.53±0.03c</td><td>0.216±0.02b</td><td>33.2±1.2c</td></tr><tr><td>P3</td><td>36.3±4.1d</td><td>6.0±1.4c</td><td>0.56±0.02c</td><td>0.235±0.05b</td><td>35.7±5.8b</td></tr><tr><td>N+P</td><td>41.9±5.7b</td><td>10.1±2.3a</td><td>0.73±0.01a</td><td>0.299±0.05a</td><td>38.3±2.2a</td></tr><tr><td>PY</td><td>42.1±5.2b</td><td>7.4±1.5b</td><td>0.62±0.04b</td><td>0.274±0.04ab</td><td>36.2±2.6b</td></tr><tr><td>NPY</td><td>45±3.1a</td><td>7.5±1.6b</td><td>0.63±0.01b</td><td>0.251±0.06b</td><td>38.2±2.1a</td></tr><tr><td>CK</td><td>31.97±1.5e</td><td>4.3±0.7e</td><td>0.44±0.04d</td><td>0.196±0.05c</td><td>28.3±7.1d</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注：a.CK;b.多菌混接处理;c.单菌接种处理。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/635691519e1f658ce93f05e643ff8c73307e3acd539ac038310d47b6ebe4810e.jpg",
+        "img_caption": [
+            "图3小麦盆栽试验结果 Fig.3 Results of pot experiment of wheat "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note:a.CK;b.Treatment of multi-bacteria mixed;c.Treatment of single bacteria. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "该文从巨菌草中根部样品中筛选出了11株促生能力较强的菌株，发现具有溶磷能力的6 株，产IAA的3株。通过盆栽试验表明，IAA产生量、溶磷能力对小麦的株高、根长、鲜重、干重和叶绿素含量等有着明显的促生效应。小麦的生长指标（株高、根长、鲜重、干重等）与促生菌的产氨能力、溶磷能力、产IAA能力之间呈正相关关系。这表明通过接种促生菌株来提高植物的生物量是一个非常有效的途径，对实际农业生产有着积极的作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究表明：内生细菌通过解磷(Paul& Sundararao,1997)、分泌植物激素(罗菲等，2011)、促进植物对矿质元素的吸收(史应武，2005)等途径促进植物生长。关于促生菌株在实际生产中的应用效果，已有许多的文献报道，如邓振山等(2012)的关于植物根际促生菌对玉米的促生效应研究，结果表明在株高、根长和干重方面与对照组的比较分别增加了 $3 0 . 1 4 \\%$ 、 $8 1 . 1 0 \\%$ 和 $3 3 . 3 3 \\%$ ；常慧萍等(2016)通过小麦根际促生菌的筛选及对小麦幼苗促生作用研究，结果表明在分别用HN1202、HP1218、HK1216菌液对小麦种子进行浸种处理，小麦幼苗根长分别较对照(无菌液处理)显著增加 $1 2 . 6 \\%$ 、 $2 0 . 4 \\%$ 、 $1 7 . 5 \\%$ ，株高分别较对照显著增加 $1 1 . 8 \\%$ 、$1 3 . 2 \\%$ 、 $8 . 8 \\%$ ；朱培淼等(2007)的高效解磷细菌的筛选及其对玉米苗期生长的促进作用，结果表明在株高和鲜重方面与对照组比较分别增加了 $3 3 . 7 \\%$ 和 $9 7 . 7 \\%$ 。本试验中通过盆栽试验对筛选到的11株促生菌株进行促生能力测定，结果显示多菌混合接种对小麦的促生效应在株高、干重、鲜重和叶绿素含量上较对照组分别增加了 $2 4 . 4 9 \\%$ 、 $3 1 . 8 4 \\%$ 、 $2 8 . 0 6 \\%$ 和 $3 4 . 1 4 \\%$ 。从总体上来看多菌混合接种明显优于单菌接种对小麦的促生效应，混合菌株中各菌株间通过协同作用充分发挥其促生效果，此结果与常慧萍等(2016)和朱培淼(2007)等的结果一致。但单从某些方面来看，也存在单菌接种的促生效果要高于多菌接种，发生这种现象的可能原因是多菌混合后产生了某种物质抑制了菌株产生的促生长因子发生效应。当然，影响内生菌促进小麦生长的因素是比较复杂的，既有溶磷、分泌IAA，也有固氮、吸收营养物质、分泌维生素、赤霉素、细胞分裂素等因素的影响，以及各个因素间的相互影响(庞发虎等，2016)。本试验筛选得到的菌株具有多种促生能力（包括固氮、产IAA和溶磷等），通过盆栽试验进一步证实菌株N-01、N-02、YB-07和P-03对小麦的促生效果显著，但还需在田间对各菌株的定殖能力、促生能力和复合菌株中的优势促生菌进一步验证与探究。此外，单菌接种的促生效果低于多菌混合接种的促生效果，因此，这些菌株的应用过程中如何去进行科学的、合理的组合进而在大田试验中发挥出更好的效果，尚需进一步研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CAIXZ， HUANGJH， 2010. Microbiologyexperiment[M]. Beijing: Science Press.[蔡信之,黄君红,2010.微生物学实验[M].北京:科学出版社.]   \nCHANG HP, XING WH, XIA TQ, et al., 2016. Screening of plant growth promoting rhizobactetia and their growth promoting effect on wheat seeding[J]. Henan Agric Sci, (45)12:52-57. [常慧萍,邢文会,夏铁骑，等,2016.根际促生细菌的筛选及其对小麦幼苗的促生作用[J]. 河南农业科学,(45)12:52-57.]   \nDENG ZS, DANG JL, ZHANG HZ, 2012. Screening of plant growth-promoting rhizobacteria and theirpromoting effects on maize[J].Microbiol Chin,39(7): 980-988.[邓振山,党军龙,张海州, 2012.植物根际促生菌的筛选及其对玉米的促生效应[J].微生物学通报,39(7):980-988.]   \nLIN XS,LIN JX,LIN H, et al., 2O13. Physiogical responses and alkaline-ttolerance evaluation on 5 species of Juncao under alkaline stress during seeding stage [J]. J Plant Physiol, 49 (2): 167-174.[林兴生,林占嬉,林辉,等,2013.五种菌草苗期对碱胁迫的生理响应及抗碱性 评价[J].植物生理学报,49(2):167-174.]   \nLUO F, WANG Y, ZENG QG, et al., 2011. Diversity and plant growth promoting activities of the cultivable rhizobacteria of Dongxiang wild rice [J].Biodivers Sci,19(4): 476-484.[罗菲,汪涯, 曾庆桂，等,2011.东乡野生稻根际可培养细菌多样性及其植物促生活性分析[J]. 生物多样性,19(4):476-484.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PANG FH, DU RQ，WANG T,2O16. Screening of endophytic bacterial strains in wheat and correlation analysis of factors affecting wheat growth [J]. J Chin Agric Univ, 21 (1): 8-21. [庞发虎,杜瑞卿,王坦,等,2016.小麦内生细菌促生菌株的筛选及其影响小麦生长的因子 的相关性分析[J].中国农业大学学报,21(1):8-21.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PAUL N B , SUNDARARAO W V B,1971. Phosphate-dissolvingbacteriain the raizosphere of some ultivate dlegumes[J]. Plant Soil, 35(1):127-135.   \nSHI YW,2O09. Isolation and screening of endophytic bacteria and its efect on sugar beet gowth [D].Shihezi:ShiheziUniversity.史应武,2009.内生菌分离筛选及其对甜菜促生增糖效应 研究[D].石河子:石河子大学.]   \nTAN H, LI FX, ZHANG DG, et al., 2OO5. A preliminary study on the screening and phosphatedissolving ability of turfgrass-soluble phosphorus bacteria [J]. Pratac Sci, (1O):92-96. [田宏，李凤霞，张德罡，等，2005．草坪草溶磷菌筛选及溶磷能力的初步研究[J]. 草业科学,(10):92-96.]   \nWANG G, ZHANG L,LIU FY, et al., 2009. Selection of rhizobacteria for promoting the plant growth of watermelon seedlings [J].Henan Agric Sci,2009,(2): 90-93.[王刚,张莉,刘凤英, 等,2009.对西瓜幼苗具有促生作用根际细菌的筛选[J].河南农业科学,(2):90-93.]   \nWANG LP, ZHANG J, HU HL, et al., 2015. The remediation characteristics of Pennisetum spp. on Cd contaminated soil[J].Chin J Appl Environ Biol,21(4): 725-732.[王丽萍,张健,胡红玲, 等,2015.巨菌草对镉污染土壤的修复特性[J].应用与环境生物学报,21(4):725-732.]   \nWANG NN, 2O10. Study on the diversity of endophytic bacteria in antagonistic garlic and its growth-promoting characteristics [D].Yangling: Northwest A&F University.[王娜娜,2010. 拮抗性大蒜内生细菌的多样性及其促植物生长特性研究[D]．杨凌：西北农林科技大学.]   \nWANG ZW,LIU XJ, 2014. Research status of isolation methods of endophytic fungi in plants[J]. GuizhouAgricSci，42(1):152-155．[王志勇，刘秀娟，2014. 植物内生菌分离方法的研究现状[J].贵州农业科学,42(1):152-155.]   \nWEBSTER G, GOUGH C,VASSE J, et al.，1997. Interactions of rhizobia with rice and wheat[J]. Plant Soil, 194(1):115-122.   \nZAHOOR M, IRSHAD M, RAHMAN H, et al., 2017. Alleviation of heavy metal toxicity and phytostimulation of Brassca campestris L. by endophytic Mucor sp. MHR-7[J]. Ecotoxic Environ Safe,142:139-149.   \nZHANG L, YE DL, ZHU M,et al.,2O17. Identification and characteriza- tion of 10 Francisella philomiragia strains[J]. Chin JClin Lab Sci, 35(4): 271-276.[张磊,叶大柠,朱焱，等, 2017.10株蜃楼弗朗西斯菌的鉴定与特征分析[J].临床检验杂志,35(4):271-276.]   \nZHANG MM，2017. Isolation，identification and distribution of endophytic bacteria from unvarnished wood [D]. Guangzhou: Guangzhou University of Chinese Medicine .[张苗苗, 2017.白木香中内生菌的分离鉴定及其分布规律的初步研究[D].广州：广州中医药大学.]   \nZHANG XS,2008. Analysis of the factors afecting the available P content in the fermentation liquid of P bacteria determined by Mo-Sb colorimetry [J]. J Anhui Agric Sci,(12): 4822-4823. [张祥胜,2008.钼锑抗比色法测定磷细菌发酵液中有效磷含量测定值的影响因素分析[J]. 安徽农业科学,(12):4822-4823.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZHU PM, YANG XM, XU YC, 2007. High effective phosphate-solub iliz ing bacteria:Their isolation and promoting effect on corn seedling growth [J]. Chin JAppl Ecol,(1): 107-112. [朱培淼,杨兴明,徐阳春,2007.高效解磷细菌的筛选及其对玉米苗期生长的促进作用[J]. 应用生态学报,(1):107-112.] ",
+        "page_idx": 13
+    }
+]

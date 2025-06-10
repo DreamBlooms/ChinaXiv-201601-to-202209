@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "自闭症谱系障碍个体的注意解离及其影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干加裙 王恩国",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（河南大学心理与行为研究所，开封475004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 注意解离是注意定向网络的重要组成部分，指在注意转移过程中对原来刺激进行注意分离的过程。自闭症个体注意解离的早期受损会直接影响其它重要功能的发展，尤其是唤醒调节和共同注意发展。采用间隙重叠范式的研究发现，自闭症个体注意解离能力是否异常还存在争议，被试年龄及取样、测量指标和刺激特征可能是影响的因素；其神经机制可能涉及额叶、顶叶、小脑和胼抵体等脑区。未来应从脑机制研究入手，综合考虑被试特征研究方法和刺激特征对注意解离结果的影响，明确其在自闭症早期预测和识别中的作用。关键词注意解离，自闭症，间隙重叠范式，神经机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自闭症谱系障碍（Autism SpectrumDisorders,ASD）是一种发生在儿童早期的广泛性神经发育障碍，又称自闭症、孤独症（American Psychiatric Association,2013)。对于 ASD个体而言，早期注意损伤可能导致社交和认知能力发展的异常，并且这种缺陷会影响终身ASD 患者在注意各方面表现出不同的缺陷：注意广度狭窄，注意转移困难，注意稳定性差，注意解离延迟，共同注意少于正常个体等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注意解离（attentional disengagement）是指由当前注意的事物向新事物注意转移的过程中，对当前的事物进行注意分离的过程。研究注意解离的重要实验范式是间隙重叠范式（gap-overlap task），该范式是通过呈现中央刺激和外周刺激，来考察被试的注意从中央刺激向外周刺激分离、转移和重新定向的过程（闫国利,2019），主要包括间隙条件（gapcondition,即中央刺激在外周刺激出现之前消失），重叠条件（overlap condition,即中央刺激在外周刺激出现之后不消失），和基线条件（baseline condition,即中央刺激在外周刺激出现的同时消失）。重叠条件用于测量注意解离能力，间隙和基线条件用于测量注意转移能力。在以往研究中，间隙重叠任务有三种不同的变式：（a）重叠 $+$ 间隙 $+$ 基线条件，即三种条件都存在；（b）重叠 $+$ 间隙条件；（c）重叠 $+$ 基线条件。注意解离的指标通常包含两个：解离条件下的眼跳潜伏期以及解离条件下的眼跳潜伏期减去转移条件下的潜伏期得到的解离损耗。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "注意解离假说（attentional disengagement hypothesis）认为注意解离受损是导致自闭症障碍产生的重要因素，注意解离异常可以解释自闭症的多种症状（Keehn et al.,2013）。早期注意解离损伤会引起ASD个体唤醒调节紊乱和共同注意（joint attention）缺陷，进而导致感知觉加工异常、社会交流与社会认知功能缺陷、行为刻板重复和注意过度集中（Sanchez etal.,2019）。许多研究表明，后来诊断为ASD的高风险婴儿（年长同胞中有确诊ASD的婴儿）在早期就出现了注意解离缺陷（Zwaigenbaum et al.,2005），并且有研究者认为注意解离缺陷是未来诊断ASD的一个早期行为标记（behavioral marker）（Elison etal.,2013）。因此,考察ASD个体注意解离的发展特点及认知神经机制，对探究ASD 病因及早期诊断和干预具有重要的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文系统梳理了在间隙重叠任务中ASD个体注意解离的相关研究及其影响因素，然后介绍了注意解离与ASD症状之间的关系，阐述了ASD个体注意解离的神经机制，最后对ASD注意解离的未来研究方向进行了展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2ASD个体注意解离的相关研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1ASD个体注意解离在不同年龄阶段的发展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ASD个体的注意解离能力在不同的年龄阶段上发展不一致。早期高风险婴儿的纵向追踪研究表明，ASD个体在确诊前就已表现出注意解离困难，并且婴儿期注意解离能力对之后ASD发展具有预测作用，注意解离越困难越容易发展为ASD（赵晓宁等,2019）。而在之后年龄偏大些的ASD儿童、青少年和成人的研究中则产生了复杂的结果：与控制组相比，一些研究发现ASD个体在注意解离潜伏期上存在更慢、更快和没有组别差异的结果（Sanchez et al.,2019）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.13岁之前ASD高风险婴儿注意解离的发展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从出生后的第一年开始，婴儿的注意定向网络经历了急剧的发展，1个月左右的典型发展婴儿会经历一个“粘滞性或强制性注意”阶段（Sacrey etal.,2014）。在这个阶段的婴儿会出现注意固着的现象，似乎常常“被迫”去看一个目标，无法轻易地将目光从注视的对象中解离出来（Hood etal.,1993）。1个月后，对刺激解离的能力迅速增加，从两个互相竞争的刺激中视觉解离的反应时在 $2 { \\sim } 4$ 个月之间显著减少，到4个月之后，典型发展婴儿这种异常的注意模式会逐渐消失，注意解离能力在儿童期达到成人水平（Sacrey et al,2014）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最早报告ASD婴儿出现视觉注意解离异常的年龄是在6个月左右（Elison et al.,2013）。该研究在6个月时对56（16名诊断为ASD）名高风险婴儿和41名低风险婴儿进行注意解离的测验，并在24个月左右进行诊断，结果显示6个月时，未来诊断为ASD的高风险婴儿注意解离用时显著长于低风险婴儿。Elsabbagh等人（2009）在 $9 \\sim 1 0$ 个月时比较了19名高风险婴儿和19名低风险婴儿注意解离的差异，结果表明确诊为ASD的高风险婴儿相比于对照组婴儿表现出更长的注意解离潜伏期和更少的促进效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而有些研究的结果显示，ASD婴儿注意解离异常最早出现的时间不是在 $6 \\sim 1 2$ 个月之间而是在12个月之后。Zwaigenbaum等人（2005）对高风险婴儿注意解离与之后ASD症状的关系进行了前瞻性研究，选取65名高风险婴儿（19人诊断为ASD）和85名低风险婴儿，分别在6个月和12个月进行间隙重叠任务的测验，然后在24个月时使用自闭症诊断观察量表（ADOS）进行评估，结果显示6个月不存在组间差异，12个月高风险婴儿出现注意解离异常，且12个月注意解离反应时与24个月ADOS得分呈正相关。结果说明12个月时注意解离的异常与后期ASD的诊断有密切关系。Bryson 等人（2017）也在6个月和12个月分别对83名高风险婴儿（16人确诊为ASD）和53名低风险婴儿进行施测，并在婴儿36个月的时候进行ASD诊断，结果显示诊断为ASD的高风险婴儿存在注意解离缺陷，出现注意解离困难的时间点是12个月而不是6个月，且在高风险组中12个月时左侧注意解离反应时不仅可以预测未来ASD诊断，还发现这些婴儿存在易怒、难以安抚等特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以上婴儿期的前瞻性研究表明，高风险婴儿和低风险婴儿注意解离的差异最早可能出现在 $6 \\sim 1 2$ 个月之间，表现为 $2 4 { \\sim } 3 6$ 个月时诊断为ASD的婴儿，从 $6 { \\sim } 7$ 个月开始其注意解离潜伏期出现延迟，到12个月之后（尤其是 $1 2 { \\sim } 1 4$ 个月之间）开始变得显著增加，并对之后的诊断有较好的预测效果；而在其它对照组婴儿中，注意解离潜伏期逐渐减少或保持不变（Jones etal.,2014）。由于尚未有研究对6个月以前的ASD婴儿的注意定向进行考查，目前还不清楚ASD婴儿存在的注意解离异常是从出生后1个月的“粘滞性注意”阶段的异常注意模式一直延续到后来，还是经历了一段正常发育的时期之后在某个时间节点出现了异常。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.23岁之后ASD个体注意解离的发展",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对3岁之后ASD儿童和成人的研究有助于确定注意解离的损伤是长期存在的，还是因为发展的延迟而暂时存在的（Sacrey etal.，2014)。3岁以后正常发育的儿童在注意定向方面表现得越发成熟，能快速地从当前注视对象中解离，并灵活地在不同对象之间进行注意转换的能力也趋近成人水平。然而，ASD个体的相关研究结果比较复杂。有些研究发现ASD个体的注意解离能力相比于年龄匹配的正常被试和其他类别的被试都存在缺陷，有些研究却发现他们只是注意水平较差，而注意解离能力并未受损。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Landry 和Bryson（2004）使用间隙重叠范式比较了5岁左右的ASD儿童、唐氏综合征（down syndrome,DS）儿童和典型发展（typical development,TD）儿童在注意解离和注意转移上的差异，结果发现ASD儿童注意解离的反应时显著长于唐氏综合征儿童和TD儿童，ASD儿童相比于其他两组儿童在面对两个竞争的刺激时有明显的注意解离困难。Sabatos-DeVito 等人 (2016)通过操纵中央刺激类型的显著性，考查了 $3 \\sim 1 4$ 岁的ASD儿童，其它发育障碍（developmental disabilities,DD）儿童和TD儿童注意解离和定向能力，结果显示",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASD儿童注意解离和定向准确性受损，在ASD和发育障碍组中，注意解离与不同的感觉反应模式有着不同的关联。此外，ASD成人的电生理学研究也显示出该群体注意解离异常。Kawakubo等人（2007）使用事件相关电位（ERP）和眼电描记法（EOG）相结合的方式比较了低功能的ASD成人、智力匹配的发育障碍成人和智力正常的TD成人在完成间隙重叠任务上的表现，结果发现ASD组在眼跳开始前 $1 0 0 { \\sim } 7 0 \\mathrm { m s }$ 的时间内诱发的眼跳前正波显著高于其他组。在重叠条件下，较高幅度的眼跳前正波与ASD组更严重的临床症状显著相关。结果证实了ASD成人在视觉注意解离上存在缺陷，并且ASD与智力发育迟缓的潜在生理基础是不同的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，另一些研究者提出了相反的证据。Van derGeest等人（2001）考查了10岁左右的ASD儿童（16名）与年龄、智商相匹配的TD儿童（15名）是否存在注意解离差异，结果显示ASD儿童注意解离并未存在缺陷，只是相比于TD儿童间隙效应较小，注意参与水平较低，作者认为ASD儿童和控制组之间的差异可能与ASD个体加工刺激能力的缺陷有关，不一定反映了异常的注意解离。Fischer等人（2014）使用自由观看的间隙重叠范式检验了 ${ \\boldsymbol { 5 } } \\sim 1 { \\boldsymbol { 2 } }$ 岁高功能的ASD儿童（44名）和年龄、智商相符的TD儿童（40名）注意解离差异和社会定向能力。结果表明高功能ASD儿童注意解离和社会定向并没有受损，他们注意解离的速度和TD儿童一样快，并且和TD儿童一样对社会性刺激优先定向。Wilson 和Saldana（2018）的研究也得到了相似的结果，在他们的研究中，考查了16",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ASD儿童和18 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TD儿童在间隙重叠任务上的表现，结果显示虽然ASD组表现出更大的解离效应，但在重叠条件下并不存在显著的组别差异，即ASD儿童注意解离不存在缺陷。在ASD成人的研究中也得到了类似的结果。Zalla等（2018）考查了20名高功能的ASD成人和言语智商、非言语智商匹配的TD成人在间隙重叠任务中眼跳反应时的差异，结果也发现两组在重叠和间隙试次中的眼跳反应时并不存在差异，但ASD成人在眼跳峰速度上较低，说明ASD 成人注意解离并未受损，但小脑运动异常导致了ASD个体感觉运动控制上存在一定缺陷。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述研究结果表明，3岁之后的ASD个体在注意解离能力上的研究结果并不一致。造成这种不一致结果的原因很多，如年龄，被试的选取，刺激特征等等。Landry 和Bryson（2004）的研究中使用的是刺激是动态的几何图形，相比于使用单一静态图片刺激所产生的的注意解离损失会高出很多倍（Fischer etal.,2014）；Sabatos-DeVito等人（2016)的研究中虽然使用的是动态和静态结合的刺激，但是该研究选取的ASD组包含了不同亚型的被试，智商并不匹配；Kawakubo等人（2007）的研究对象是低功能的ASD成人。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上ASD个体注意解离在不同年龄阶段的不一致的结果可能暗示着，注意解离假说并不能完全解释 ASD 注意解离能力的发展。ASD个体的注意解离受损也并不是如 Sacrey 等(2014)假设的那样，在生命中的第一年出现并且一直持续到成年期。对于正常个体注意解离的发展，Colombo 和Cheatham（2006）曾猜测3岁之前的注意解离是呈现一个非线性的U型的发展过程。对于ASD个体的注意解离，本文尝试提出几种可能的发展轨迹（如图1）：（1）ASD个体的注意解离能力从出生开始一直处于停滞发展的趋势（图1A）；(2） $0 { \\sim } 6$ 个月，ASD个体注意解离能力与正常个体一样经历了“粘滞性注意”阶段之后有个短暂的提高，6个月之后开始呈现下降的趋势（图1B）；（3）经历 $0 { \\sim } 6$ 个月的正常发展之后，ASD个体的注意解离能力在 $6 { \\sim } 3 6$ 个月之间呈现一个U型的发展过程，在36个月之后，由于ASD的异质性，呈现不同的发展轨迹，一部分个体的注意解离能力逐渐提高达到正常水平（如图1C），另一部分个体的注意解离能力在36个月之后一直处于持续下降的趋势（如图1D）。未来的研究不仅需要对ASD高风险婴儿进行前瞻性纵向研究，还需要综合考虑ASD的异质性、年龄、被试选取的差异，以及用于测量注意解离任务和指标的可变性，进一步明确3岁之后ASD个体注意解离的发展趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cba7b9089d3eb8fa4cd22e004d18257a2c25c93923b2a9c8168c74370571c1b4.jpg",
+        "img_caption": [
+            "图1ASD个体注意解离能力随时间变化的发展轨迹"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2ASD个体注意解离的影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管大量研究发现ASD个体存在注意解离障碍，但仍有部分研究得出不一致的结果。这些尚未统一的研究结果说明，ASD个体注意解离能力是否存在缺陷仍需进一步探讨。那么导致研究出现不一致结果的原因有哪些？本研究将从年龄、ASD的不同亚类型、测量指标和刺激特征等几方面对ASD个体注意解离的影响因素进行系统化的梳理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1年龄对ASD个体注意解离的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "年龄对ASD个体注意解离的发展存在潜在影响。3岁以前确诊的ASD婴儿表现出注意解离障碍，而3岁之后ASD儿童和成人的研究则显示出复杂的结果，这说明注意解离缺陷在ASD个体发展的早期存在，而在之后随着年龄的增长，大脑发育的成熟，这种缺陷可能获得发展的增益，得到改善和恢复，或者仍然处于滞后的状态。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前缺少研究对注意解离能力和年龄之间关系的探讨。在 Todd等人(2009)的研究中使用一个横断分析，比较了ASD群体（年龄在 $9 \\sim 1 5$ 岁）、三个不同年龄组的TD群体（年龄组分别为 $5 { \\sim } 8$ 岁， $9 \\sim 1 1$ 岁和 $1 2 { \\sim } 1 5$ 岁）及TD成人的注意解离能力。结果显示，除了年龄最小的TD组（ $5 { \\sim } 8$ 岁），ASD儿童在间隙条件和重叠条件下眼跳反应时相比于其他年龄组的TD儿童和成人更长，说明ASD组的注意解离在间隙和重叠任务中都受损。该研究虽然显示ASD儿童的注意解离能力存在年龄上的滞后，但没有比较不同年龄阶段的ASD 群体在注意解离上的差异，所以目前尚不清楚注意解离能力随着年龄的变化趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "有研究者认为注意解离效应与ASD个体的实际年龄成负相关，年龄更小的被试相比于年龄大的被试有更显著的注意解离困难，这说明注意解离问题可能随着 ASD个体年龄的增加而减少，或者随着年龄的增长而得到纠正或补偿（Glennon etal.,2020;Wilson& Saldana,2018）。ASD个体在较早的年龄会表现出注意解离眼跳潜伏期的延迟，是因为早期相应的动眼神经控制系统发育延迟，而随着年龄的增长，这种发育延迟由于其它方面的发展或自身获得发展的增益使得受损的注意解离可能自行恢复。但也有研究者认为ASD个体的注意解离能力并不是随着年龄增长逐渐发展的，而是在儿童期就处于停滞状态，随着年龄的增长甚至会倒退（Sanchez etal.,2019）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总的来说，ASD注意解离能力的发展可能在不同年龄阶段、亚类型和个体差异中的表现是不一样的，而注意解离缺陷可能存在于有限的情况或被试群体中。如，在 ASD儿童发展的早期可能存在注意解离的缺陷，但随着年龄的增长，一部分ASD个体（如高功能ASD）由于其它方面的发展使得受损的注意解离可能自行恢复，而另一部分 ASD个体并没有获得发展的增益，导致注意解离能力仍处于停滞甚至倒退。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2ASD不同亚类型的差异对注意解离的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为一种谱系障碍,ASD 群体内部的异质性极大,智力和语言发展能力等均会影响 ASD个体的功能发展(Chiang et al.,2018;Goodwin et al.,2017)。在上述 ASD个体注意解离的相关研究中得到的结果不一致,可能是因为在被试选取过程中，不同亚类型样本的代表性和局限性对其产生了影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先，不同亚型（高、低功能 ASD，阿斯伯格综合征，未分类广泛型精神发育障碍）的ASD个体，他们的注意解离能力可能是不一样的。在使用“谱系障碍”这一概念之后，不同亚型的ASD都包含在其中，很难将其区分开，因此有些研究未区分不同亚型的特点，直接将不同亚型障碍个体作为ASD 组被试与对照组进行比较。例如，Landry 和Bryson（2004）的研究中就包含了2名阿斯伯格综合征的个体，Sabatos-DeVito等(2016)的研究中所选取的ASD组被试同时包含了高功能和低功能ASD个体，这导致ASD组虽然平均智商与TD组匹配，但ASD组内的异质性很大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，在早期注意解离的前瞻性研究中，由于ASD高风险婴儿的年龄较小，无法对其智商进行直接测量，因此在所有的研究中都是采用Mullen早期学习量表（MSEL）来匹配高低风险婴儿的认知能力和运动技能。在年龄大一些的ASD儿童和成人中，大部分研究广泛采用高功能ASD这一亚型作为ASD 组被试。这是因为高功能 ASD的被试认知发展较为健全、在实验过程中能较好地进行配合（Fischer et al.,2014; Kawakubo et al.,2007; Keehn etal.,2019; Van der Geest et al.,2001; Wilson & Saldana,2018; Zalla et al.,2018）。这一做法保证了被试能理解实验指导语，但忽略了智力及认知发展水平较低的低功能 ASD个体在注意解离上的差异。仅有一项研究比较了低功能ASD成人（平均智商为 $4 3 . 6 { \\pm } 1 4 . 7 \\ \\$ ），智力发育迟缓的成人（平均智商为 $4 0 . 6 { \\pm } 1 0 . 9 \\$ ）和TD成人（平均智商为 $1 0 5 . 2 { \\pm } 1 0 . 9 \\$ ）的注意解离能力，并发现ASD成人在注意解离上存在缺陷（Kawakubo etal.,2007），目前还没有研究对不同亚类型的ASD群体内的注意解离能力进行比较，无法确定注意解离障碍是否与ASD的严重程度而不是与发育水平有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，值得注意的是，在智商匹配的高功能ASD群体的研究中，几乎所有的研究都只对实验组和对照组的非言语智商进行匹配，而没有对言语智商进行匹配（除Van der Geestet al.,2001和 Zalla et al.,2018），可能是考查注意解离的间隙重叠范式中主要涉及的是被试的非言语智商，但是这可能会忽略言语智商这一潜在的差异对注意解离结果的影响。另外，在智商匹配的相关研究中，所选取的ASD组（ $8 0 \\sim 1 1 0$ 之间）被试的智商水平总体上还是偏低于对照组（ $1 0 0 { \\sim } 1 2 0$ 之间）。虽然有研究者认为，注意解离能力与ASD个体的智力水平之间没有直接关系，甚至在智力水平正常或高于平均水平的ASD个体中，注意解离缺陷都很明显（Kawakubo et al.,2007;Landry& Bryson,2004）。但未来仍需要运用多种测量方法对大样本的不同亚型的ASD个体的注意解离能力进行区分测量，同时在被试筛选过程中，要谨慎考虑被试的个体差异（如个性因素，注意力状况，生理唤醒基线水平和身心发展差异）对结果的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3测量指标的不同对注意解离的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在注意解离的测量指标上，有的研究直接使用重叠条件下的解离潜伏期（Bryson et al,2017;Elison et al.,2013;Landry& Bryson,2004），也有研究使用重叠与间隙条件下的解离潜伏期差值（Goldberg et al.,2002; Kikuch et al.,2011; Wilson & Saldana,2018; Zwaigenbaumet al.,2005）或者重叠与基线条件下解离潜伏期差值（Fischer et al.,2014;Fischer et al.,2016），还有的研究采用注意从中央刺激解离出来的反应时/正确率等指标（Sanchez et al.,2019）。虽然这些测量指标都认为注意解离能力是把注意从一个目标物中分离出来的效率，这种效率既可以用反应时也可以用正确率来衡量，但是由不同指标测得的数据之间还是会存在差异，这些差异可能会导致注意解离结果的不一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "例如，当采用解离潜伏期差值作为注意解离测量指标时，比较重叠与间隙条件下眼跳潜伏期差值和比较重叠与基线条件下潜伏期差值，二者所测量的注意解离在功能意义上是否有不同？有研究者认为重叠和基线条件之间的潜伏期差异主要是由于中央刺激的移除，和与双侧额叶顶区激活相关的靶前眼跳准备而导致上丘眼动抑制的释放。而重叠和间隙条件之间的潜伏期差异可能是与相位警觉反应（如注视点的消失）相联系，这种警觉反应是与右侧的注意网络系统相联系（Keehn etal.,2019）。此外，Fischer等人（2016）认为使用呈现空屏的间隙条件与ASD注意解离缺陷之间还没有明确的关系。例如，Elsabbagh 等人（2009）的研究中使用了间隙条件，而在之后Elsabbagh等人（2013）的研究中并没有使用，但是两个研究产生了同样的结果。还有研究者认为间隙条件中空屏的呈现使被试没有固定的注视点，当目标刺激呈现时，被试发起眼跳的位置不确定，导致所记录的眼跳数据可能不准确。而在基线条件中，目标出现时被试的注意仍在屏幕中央，可以减少实验中眼晴起跳位置的误差（闫国利等,2019）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sanchez等人（2019）认为当使用不同条件之间的差异分数来获得特定认知结构的“纯粹”衡量标准时，应该谨慎。一方面，一些测量指标的效度无法保证，所测得的结果是否真实反映了注意解离过程以及不同测量指标下的注意解离结果能否直接比较还未知。其次对因变量的操作性定义不清晰也会使测得的结果出现混淆。未来的研究需要更统一明确的测量指标来研究ASD个体的注意解离能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.4刺激特征对注意解离的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在ASD注意解离的研究中，研究者使用的刺激特征不尽相同，而注意解离出现的矛盾的结果可能与相关研究中使用了不同特征的刺激材料有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "动态的刺激可能有助于吸引ASD个体尤其是婴幼儿的注意，使其注视点始终保持在屏幕中央，但这也使得被试对外周刺激的定向更困难，相比于静态刺激更容易得到注意解离缺陷的结果。例如，那些使用动态的图片或动画作为实验刺激的研究中均发现了显著的组别差异（Bedford et al.,2014; Bryson et al., 2017; Klebeg et al., 2016; Landry& Bryson, 2004;Zwaigenbaum etal.,2005）。而另一些使用静态的单一符号或图片作为实验刺激的研究均没有发现注意解离存在组别差异（Fischer et al.,2014; Goldberg et al.,2002; Van der Geest et al,2001; Wilson & Saldana,2018）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，ASD个体对重复的规律性的刺激更加投入，更易产生“粘滞性注意”（Wang etal.,2018）。例如，Landry和Bryson（2004）与 Zwaigenbaum等人（2005）的研究中使用的是重复的规律性的图片（动态的几何图形），他们的实验结果都很显著。Fischer 等人（2016）认为在这些研究中ASD儿童可能在对刺激呈现的规律和特征相比于TD儿童更难掌握，以及对刺激预测和期待的能力更弱，因而容易得到ASD个体注意解离受损的结果。为了消除重复刺激带来的潜在混淆，他的实验中所有试次的刺激都是不重复的，结果并没有发现ASD个体存在注意解离缺陷。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ASD个体对中央或外周刺激的注意偏好也会影响注意解离效果，例如，当中央刺激（或外周刺激）为ASD限制性兴趣物体（如小火车）时，ASD个体注意解离更慢（或更快）（Mo et al.,2019; Sasson& Touchstone,2014）。刺激的不同特征有可能诱发注意资源的竞争。当中央刺激越显著（动态的或多模式的或限制性兴趣的刺激），注意解离越困难同样当外周刺激越吸引人（相比于静态的或单模式的或非限制兴趣的刺激），注意解离越容易。不同的研究结果说明ASD个体可能并非存在注意解离能力的严重缺陷，而是包含有动机、内在兴趣和注意资源利用能力等多种因素的共同作用。未来的研究需要深入探讨刺激特征这一潜在变量对注意解离的影响是直接的还是间接的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "除了以上讨论的因素之外，还有一些其它的影响因素，如间隙重叠范式中，中央刺激和外周刺激之间呈现的时间间隔（ISI）长度可能影响了ASD个体是否表现出注意解离困难，有研究发现ASD个体相比于TD个体在短ISI（小于 ${ 5 0 0 } \\mathrm { m s }$ ）解离更慢，而在更长的ISI( $8 0 0 \\mathrm { { m s } }$ 以上）没有显著差异。那些发现ASD个体注意解离能力完整的研究通常报告ISI时间为1秒或更多，但是大多数报告注意解离缺陷的研究都没有报告ISI时间（Sacreyetal.,2014）。不同的研究工具也可能对结果产生影响（闫国利 等,2019），早期研究中使用摄像机记录并逐帧编码分析，这样获得的反应时的数据不一定精确。近期的研究大部分使用EOG和Tobii眼动仪，这在ASD群体中操作性更强，获得的眼动数据更可靠。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3注意解离与ASD临床症状之间的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ASD个体临床症状上的表现具有复杂性，仅从单方面的认知损伤来研究和解释该病症是不够的。关注注意缺陷与ASD其它临床症状之间的关系，尤其是注意解离缺陷在多大程度上影响ASD其它领域的损伤，也是目前研究的焦点。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1注意解离与异常的感觉反应之间的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "与正常发育的婴儿相比，在36个月大时被诊断为ASD的6个月大的婴儿对低强度刺激的敏感性增加，这暗示了ASD婴儿早期感知可能存在差异（Clifford etal.,2013）。此外，有研究报告与其他高风险或低风险的婴儿相比，被诊断为ASD的24个月大的婴儿在12个月大时对各种刺激表现出更频繁和更强烈的痛苦反应（Zwaigenbaum etal.,2005），而这些敏感性可能与对弱刺激的辨别能力增强有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一些研究也显示，临床的感觉反应模式（sensory response patterms,包括寻求-回避刺激，以及高-低感觉性）与ASD儿童的注意解离之间存在联系，对社会性和非社会性刺激的感觉反应不足是注意缺陷的重要预测因素。Sabatos-DeVito等人（2016）首次使用间隙重叠范式来研究ASD儿童的注意解离和临床上不同感觉反应模式之间的关系。结果表明，ASD个体的注意解离与不同的感觉反应模式存在关联，高寻求行为和低反应性与较差的注意解离有关，而高反应性促进注意解离。研究者认为ASD个体早期临床感觉反应与注意解离缺陷在时间上的重叠出现，进一步证明了其潜在的机制可能是相互交织的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2注意解离与狭隘的认知加工方式之间的关系",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ASD 核心症状之一是狭隘的注意聚焦模式，ASD个体经常被描述为注意过度集中和兴趣狭窄以及对细节的敏锐感知。Elsabbagh等（2009）认为在ASD个体中观察到的狭隘的认知加工方式与早期视觉注意解离困难有关。注意解离能力的缺损会导致ASD个体的注意固着在高限制性兴趣的物体上，产生对环境中非社会性刺激注意偏向，逐渐形成局限兴趣和关注细节的信息加工风格。典型发展的儿童随着年龄增长会开始灵活地扫视他们周围的环境并且在不同物体之间转换注意力，整体信息的加工方式变得更快速和高效。而 ASD 患者表现出对单一特征或物体较长时间的注视，并且在加工视觉刺激时倾向于更多地依赖局部特征，这样会导致对刺激的解离时间延迟。因此，ASD个体狭隘的认知加工方式可能是早期视觉解离困难发展的结果。但是现有的研究并不能确定ASD个体认知加工狭隘导致了注意解离困难，还是注意解离困难导致了这种狭隘的认知加工方式。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3注意解离与社会认知功能缺陷之间的关系",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注意解离对个体正常社会功能的发展是十分必要的。注意解离的缺损会阻碍 ASD个体获取社会信息能力的发展，导致在社会性注意、社会认知和社会技能方面的缺陷。Franchini等人（2017）考查了学龄前ASD儿童在社会性刺激条件下的视觉定向、共同注意和社会交往能力之间的关系。结果显示，ASD儿童相比于TD儿童对社会性刺激定向减少，而在ASD组内部出现很大的异质性。那些对社会性刺激注意更多的ASD儿童，表现出“粘滞性注意”，更难将注意从社会性刺激中解离出来。而视觉定向、共同注意与社会交往能力的发展呈正相关，即社会性定向越多，共同注意行为的频率就越高，而共同注意行为的频率反过来又与沟通技能的提高有关。Schietecatte等人 (2012)同样也证实了患有ASD的婴儿共同注意发起数量与注意解离能力之间存在关系。总而言之，注意解离能力的缺损会使ASD个体缺乏社会性定向，导致对社会性信息获取的减少，从而减少共同注意行为的发生和阻碍社会沟通技能的发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "此外，视觉注意解离的能力在情绪状态的调节中非常重要，注意解离受损可能会导致异常的情绪/唤醒调节、过度反应和限制性气质类型的形成(Sacrey etal.,2014)。婴儿期的情绪调节涉及婴儿内部状态与外部刺激之间的相互作用，以维持体内平衡，这种平衡状态是通过将注意从使人困扰的事件和想法中解离和转移来实现的（Brysonet al.,2017）。ASD个体很难从一个令人不安的社会情境中解离出来，因而他们可能会表现出一种易激怒的倾向和回避行为。Bryson 等人（2017）的研究证实了ASD高风险婴儿12个月时解离潜伏期（尤其是左侧视野）的延迟与父母报告的情绪困扰相联系，表现为高敏感性和较难安抚。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "上述研究表明，注意解离与ASD的临床症状之间存在紧密关联，注意解离受损可能是ASD个体多种心理与行为功能异常发展的共同基础。早期出现的注意解离损伤不仅会导致ASD个体异常的感知觉反应和狭隘的认知加工方式，还会导致共同注意困难，反过来又可能使言语习得延迟或异常，以及心理状态归因技能缺失，甚至损害心理理论和共同注意等社会认知功能的发展（蔡厚德,齐星亮,2018）。因此，探究ASD个体早期注意解离困难与不同功能缺陷之间的关系，对绘制ASD从出生起的发展路径和理解其发生机制至关重要，这既有助于我们鉴别需要早期干预的儿童，又能提高他们可获得的干预范围。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4注意解离缺陷的神经机制",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注意解离作为注意定向系统的一部分，其神经机制也与视觉定向网络密切相关。视觉注意的定向依赖于大脑区域的分布式网络，包括背侧额叶-顶叶皮质网络以及皮质下结构（丘脑、上丘和小脑）来解离和转移注意（Keehnetal.,2013）。视觉解离部分是由相对独立于较高注意过程的动眼神经机制完成的，即外周刺激呈现之后，通过降低上丘喙端（rostral pole of the superior colliculus）视觉细胞活性来释放对中央刺激的视觉定向而实现注意的解离（Kleberget al.,2016）。有研究者认为眼动抑制的异常会导致注意解离受损，ASD个体存在的注意解离缺陷可能是由调节眼球运动控制的小脑-顶叶通路的神经可塑性功能受损导致的眼跳障碍产生的（Johnsonetal.，2016）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "功能性磁共振成像（fMRI）研究表明，注意定位系统与额叶、顶叶有关(Posner et al,2016)。其中，额叶视区（frontal eye field,FEF）负责对刺激的注意解离。Zwaigenbaum 等(2005)认为12个月时观察到的注意解离潜伏期的增加可能与前额皮层的发展过程有关，因为在确诊的ASD学龄前儿童中，观察到了涉及前额叶皮层激活的异常模式。早期 ERP的研究证据表明，眼跳前大脑顶叶出现更大的正成分可能反映了注意解离过程。Kawakubo 等人（2007）采用ERP技术探讨了低功能的ASD成人、精神发育迟滞的成人和TD成人在间隙重叠任务上所诱发的ERP波幅差异。在该研究中,研究者将新刺激呈现前大脑顶叶出现的眼跳前正成分作为指标,若该成分幅值更大或者潜伏期更长，则表明注意解离异常。研究结果显示，与对照组相比，ASD个体在重叠条件下眼跳前正成分幅值更大,并且只表现在刺激呈现在左视野的情况下。相关研究也表明右半球后部顶叶皮层（(posterior parietalcortex,PPC)）受损的病人其注意解离潜伏期更长(Pierrot-Deseiligny et al.,1991)。此外，小脑是ASD 患者大脑中神经解剖异常最常出现的部位，尤其是小脑小叶VI-VII区域在视觉定向中起重要作用（Sacrey et al.,2014）。Mundy（2003）认为ASD中视觉注意解离的缺损可能是由于额叶、顶叶和小脑的复杂功能轴受损所致，其中背侧额叶皮层/前扣带复合体（dorsal medial-frontal cortex/anterior cingulate complex）、眶额叶（orbitofrontal）和杏仁核（amygdala）功能以及小脑在对外界刺激输入的注意调节中可能存在复杂的相互作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "还有研究表明，连接两侧大脑半球神经纤维束的朕抵体（corpuscallsum）在ASD 异常的注意定向中可能起着重要作用（Jones etal.,2014）。Elison 等人(2013)使用弥散张量成像技术（DTI）探究了ASD高风险婴儿视觉注意解离与大脑功能连接之间的关系。结果显示，TD婴儿中注意解离潜伏期和胼抵体微结构之间存在联系，而ASD婴儿中并不明显。重叠条件下较慢的解离潜伏期与胼抵体的径向扩散率降低有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综合上述分析，与ASD个体注意解离过程有关的神经机制涉及到额叶、顶叶、小脑和朕抵体等脑区及其相互作用。然而，目前探讨ASD个体注意解离神经机制的研究较少，只初步确定了与ASD个体注意解离相关的脑区，无法确定它们之间具体的互相作用机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5展望 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "能够灵活地将视线从一个刺激点移动到另一个刺激点是一项基本的注意技能，对于之后其它注意技能（如唤醒调节和共同注意）的发展非常重要。注意解离假说认为异常的注意解离是ASD的早期标记，并且在ASD的发展中起因果作用。然而，ASD个体是否存在注意解离缺陷目前仍存在争议。大部分研究支持注意解离假说，但是另一部分研究并不支持。这可能与不同研究中使用的研究方法和刺激特征有关。未来的研究可以针对以下方面进行深入探究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.1ASD高风险婴儿早期识别和干预",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "个体生命的最初三年是大脑发展最迅速和最重要的时期，早期的注意缺陷可能会影响大脑的发育和功能。正常发育婴儿的早期，倾向于将注意力长时间地集中在物体或事件上表现为“注意固着”。然而， $4 { \\sim } 6$ 个月之后，正常发育婴儿能够相对容易地进行注意解离和转移，而ASD婴儿在这方面的能力似乎出现停滞，相关研究显示高风险婴儿和低风险婴儿注意解离的差异出现在 $6 \\sim 1 2$ 个月之间。从婴儿1岁结束到2岁开始，这种差异在高风险婴儿组内开始变得明显，尤其是在 $1 2 \\sim 1 4$ 个月之间，在重叠条件下，高风险-确诊ASD（EL-ASD）的婴儿相比于高风险正常发展（EL-TD）的婴儿，高风险其他（EL-Other）和低风险（TL）婴儿对刺激的注意解离需要更多的时间（Canu etal.,2020）。由于早期这种注意解离能力的缺损，可能会对后期社会性情绪，语言交流和认知发展产生深远影响。因此，揭示ASD个体早期注意发展的轨迹是研究中最基本的问题，如何在早期进行识别并有效干预以改变这种发展轨迹具有重要的现实意义。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "当前应进一步探究早期注意异常在多大程度上可以作为后续诊断 ASD的预测因子；注意解离困难是否可以成为诊断 ASD的一个早期预测指标；注意解离缺陷具体在哪个时间点出现。未来研究需要对ASD高风险婴儿进行前瞻性纵向研究，尤其是在 $6 { \\sim } 2 4$ 个月之间，选择多个时间点进行纵向测量和追踪，以更全面地观察高风险婴儿注意解离随时间发展的轨迹，最好能创建正常发育婴儿的对照组序列，进行正常和异常注意解离发展轨迹的比较此外，还要结合其它的行为表现或早期风险标志物进行综合诊断和识别，从而有针对性地制定高风险婴儿早期干预策略和方案。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.2ASD个体注意解离预测特异性",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "特异性指该症状只在某个病症中表现出来，而在其它的病症中不表现出来。未来的研究需要明确注意解离缺陷是否为ASD特异性表现，或是否存在于其它发展障碍中，以揭示注意解离是否具有指向ASD的预测特异性。先前研究比较了ASD儿童与智力发育迟滞的儿童（如唐氏综合征儿童）在注意解离上的表现，但是其它类型的神经发育障碍个体，如注意缺陷多动障碍、学习障碍和运动协调障碍等个体在注意解离上是否也存在缺陷。如果注意解离困难只出现在ASD 患者身上，而其他障碍患者正常，那么说明注意解离异常具有指向ASD的预测特异性，可以作为早期ASD很好的预测指标。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "另一方面，有关ASD个体注意解离是否存在缺陷的争议，可能暗示着注意解离这一指标对 ASD 的预测并不是全或无的，而是在ASD群体内存在异质性，某一部分ASD群体可能表现出明显的注意解离缺陷，而某部分群体注意解离相对完整，这可能与ASD群体的不同亚类型相关。先前的研究表明不同亚型的ASD儿童在共同注意发展上存在明显的个体差异，高功能 ASD者在低层次的共同注意上无缺陷，而低功能 ASD 者在高、低层次的共同注意上都存在缺陷(Mundy etal.,1994)。那么，注意解离作为共同注意能力发展必不可少的基础，是否也在ASD的不同亚型上存在特异性？因此，探索不同亚型ASD群体注意解离的共同性和特异性也是未来重要的研究方向之一。未来研究可进一步探究注意解离困难指向 ASD不同亚型的预测性，以阐明注意解离缺陷是否与ASD的严重程度而不是发育水平有关。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3ASD个体注意解离影响因素与改善途径 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "未来研究还需要寻找改善ASD个体注意解离困难的方法。如果早期注意解离缺陷是ASD产生的预测因素，并且对之后社会行为与认知功能的发展产生重要影响，那么对 ASD个体早期注意解离的干预可能有助于改善更高水平的社会交往技能。先前的一项研究表明对12个月大的正常发育婴儿进行偶然凝视注意训练可以使TD婴儿在自由玩耍中对人和物体之间出现更多的注意转移，表现出注意力的提高（Ballieux et al.,2016）。因此，在社会性注意发展的早期，训练注意的组成功能（如注意定向、警觉和执行控制）可能对注意能力的改善产生重要意义。先前的研究也表明早期的干预能够成功地提高 ASD个体共同注意能力（Whalen＆ Schreibman,2003）。未来的研究需要进一步探讨对注意解离的训练是否能够提高ASD个体共同注意能力，以及注意解离能力的改善与之后社会功能发展之间是否存在联系。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "此外，对干预刺激的选择应该考虑不同的刺激类型。动态、多模式和非社会性的刺激可能会更易吸引ASD个体的注意，产生注意解离困难，因此在对 ASD个体注意解离干预训练中，应选择中央刺激类型不显著但外周刺激类型显著的新颖的刺激材料。在刺激呈现时，中央刺激和外周刺激之间的时间间隔应该是变化的，由长到短，呈梯度变化，以自适应的方式使ASD个体不断提高注意解离的效率。其次，Keehn等（2019）认为实验情境也可能是影响ASD注意解离的一个潜在因素，在实验室情境下出现的注意解离缺陷较小，但在现实的生活中这种差异可能很大，因为现实生活情境更多样化，动态，更吸引人和无法预测。针对训练的情境，未来研究应该在有意义的现实生活情境中进行，提高干预训练的有效性和生态性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "蔡厚德,齐星亮.(2018).视觉注意解脱受损与自闭症谱系障碍的发生.中国特殊教育,218(8),41－47.   \n闫国利,周丽,张莉.(2019).空白重叠范式对自闭症儿童的早期预测.心理科学,42(1),223－ 229.   \n赵晓宁,胡金生,李松泽,刘西,刘琼阳,吴娜.(2019).基于眼动研究的孤独症谱系障碍早期预测.心理科学进 展,27(2),301 - 311.   \nAmerican Psychiatric Association.(2013).Diagnostic and statistical manual of mental disorders (5th ed.).https:/ doi.org/10.1176/appi.books.9780890425596.   \nBalieux,H.,Wass,S.V.,Tomalski,P.Kushnerenko,E,Karmiloff-Smith,A.,Johnson,M.H.,& Moore,D.G. (2016).Applying gaze-contingent training within community settings to infants from diverse SES backgrounds. Journal of Applied Developmental Psychology, 43,8 - 17.   \nBedford,R.,Pickles,A., Gliga,T.,Elsabbagh,M.,Charman,T.,Johnson,M.H.,&BASTeam. (214).ddiive effectsof social and non-social attention during infancy relate to laterautism spectrum disorder. Developmental Science,17(4), 612- 620.   \nBryson,S., Garon,N.，McMulen,T.，Brian,J.,Zwaigenbaum,L.,Armstrong,V.，..& Szatmari,P.(2017). Impaired disengagement of attention and its relationship to emotional distress in infants at high-risk for autism spectrum disorder. Journal of Clinical and Experimental Neuropsychology, 40(5),487 - 51.   \nCanu,D., Van der Paelt,S.,Canal-Bedia,R.,Posada,M.,Vanvuchelen,M,&Roeyers,H.(2O2O).Early non-social behavioural indicators of autism spectrum disorder (ASD) in siblings at elevated likelihood for ASD: A systematic review. European Child & Adolescent Psychiatry,1 - 42.   \nChiang,H. L., Kao, W.C., Chou, M. C., Chou, W.J.,Chiu, Y. N., Wu, Y. Y.,& Gau, S.S.F. (2018). School dysfunction in youth with autistic spectrum disorder in Taiwan: The efect of subtype and ADHD. Autism Research,11(6),857 - 869.   \nClifford,S.M.,Hudry,K.,Elsabbagh,M.,Charman,T.,Johnson,M.H.,&BASIS Team. (2013).Temperamentin the first 2 years of life in infants at high-risk for autism spectrum disorders.Journal of Autism and Developmental Disorders,43(3),673 - 686.   \nColombo,J.,& Cheatham, C.L. (20o6). The emergence and basis of endogenous atention in infancy and early childhood.Advances in Child Development and Behavior,34,283- 322.   \nElison,J.T.,Paterson,S.J,Wolf,J.J,Reznick,J.S.,Sasson,N.J.,Gu,H...& Gerig,G. (23).Whitetter microstructure and atypical visual orienting in 7-month-olds at risk for autism.American Journal of Psychiatry, 170(8),899 - 908.   \nElsabbagh,M.,Volein,A.,Holmboe,K.,Tucker,L., Csibra,G.,Baron-Cohen,S.,..&Johnson,M.H.(2009). Visual orienting in the early broader autism phenotype: Disengagement and facilitation.Journal of Child Psychology and Psychiatry, 50(5), 637 - 642.   \nElsabbagh,M.,Fernandes,J.,Webb,S.J., Dawson,G., Charman,T.,Johnson, M.H.,& British Autism Studyof Infant Siblings Team. (2013). Disengagement of visual attention in infancy is associated with emerging autism in toddlerhood. Biological Psychiatry, 74(3),189 - 194.   \nFischer, J.,Koldewyn,K.,Jiang,Y.V.,&Kanwisher,N.(14).Unimpairedatentionaldisengagementandsocial orienting inchildren with autism. Clinical Psychological Science,2(2),214- 223.   \nFischer,J.，Smith,H.，Martinez-Pedraza,F., Carter, A.S.，Kanwisher,N.，& Kaldy，Z. (2016). Unimpaired attentional disengagement in toddlers with autism spectrum disorder. Developmental Science,19(6),1095 - 1103.   \nFranchini,M., Glaser,B., Woodde Wilde,H.,Gentaz,E.,Eliez,S.,&Schaer,M. (2O17).Socialorientingandjoint atention in preschoolers with autism spectrum disorders. PLOS ONE,12(6), e0178859.   \nGlennon,J. M.，D'Souza,H.，Mason,L., Karmilof-Smith，A.，& Thomas,M. S.(202O). Visuo-attentional correlates of Autism Spectrum Disorder (ASD) in children with Down syndrome: A comparative study with children with idiopathic ASD.Research in Developmental Disabilities,104,103678.   \nGoldberg, M.C.,Lasker,A. G., Zee,D.S., Garth,E.,Tien,A.,& Landa,R.J. (2002). Deficits in the initiationof eyemovementsin the absence ofavisual target inadolescentswith high functioning autism. Neuropsychologia, 40(12),2039 - 2049.   \nGoodwin,A., Matthews, N.L.,& Smith, C.J. (2017). The effcts of early language on age at diagnosis and functioning at school age in children with autism spectrum disorder. Journal of Autism and Developmental Disorders,47(7),2176 - 2188.   \nJohnson,B.P.,Lum, J.A., Rinehart,N.J.,&Fielding, J. (2016). Ocular motor disturbances inautism spectrum disorders: Systematic review and comprehensive meta-analysis. Neuroscience & Biobehavioral Reviews, 69, 260 - 279.   \nJones,E. J., Gliga,T.,Bedford,R., Charman,T.,& Johnson,M. H. (2014). Developmental pathways to autism: A review of prospective studies of infants at risk. Neuroscience & Biobehavioral Reviews,39,1 - 33.   \nKawakubo,Y.,Kasai, K.,Okazaki, S.,Hosokawa-Kakurai, M., Watanabe,K.I., Kuwabara,H.,..& Maekawa, H. (2007). Electrophysiological abnormalities of spatial attention in adults with autism during the gap overlap task. Clinical Neurophysiology, 118(7), 1464 - 1471.   \nKeehn,B., Kadlaskar, G.,Keehn,R. M.,&Francis,A.L. (2o19).Auditory atentional disengagement in children with autism spectrum disorder.Journal of Autism and Developmental Disorders, 49(10),3999 - 4008.   \nKeehn，B.， Müler，R. A.，& Townsend, J. (2013). Atypical attentional networks and the emergence of autism. Neuroscience & Biobehavioral Reviews,37(2),164 - 183.   \nKleberg,J.L.,Thorup,E.,& Falck-Yttr,T. (2016).Reduced visual disengagementbut intact phasic alerting in young children with autism. Autism Research,10(3), 539 - 545.   \nKikuchi, Y., Senju, A.,Akechi, H., Tojo, Y., Osanai, H.,& Hasegawa,T. (2011). Atypical disengagement from faces and its modulation by the control of eye fixation in children with autism spectrum disorder. Journal of Autism and Developmental Disorders,41(5), 629 - 645.   \nLandry,R., & Bryson, S.E.(2oo4). Impaired disengagement of attention in young children with autism.Journal of Child Psychology and Psychiatry, 45(6), 1115 - 1122.   \nMo,S.,Liang,L.,Bardikoff,N.,& Sabbagh, M.A. (2019). Shifting visual atention to social and non-social stimuli in Autism Spectrum Disorders. Research in Autism Spectrum Disorders,65,56 - 64.   \nMundy,P., Sigman, M.,& Kasari, C. (1994).Joint atention,developmental level,and symptom presentation in autism. Development and Psychopathology, 6(3),389- 401.   \nMundy,P. (20o3).Annotation: The neural basis of social impairments in autism: The role of the dorsal medialfrontal cortex and anterior cingulate system. Journal of Child Psychology and Psychiatry,44(6),793- 809.   \nPierot-Deseiligny,C.H.,Rivaud,S.,Gaymard,B.，& Agid,Y.(1991).Cortical control of reflexive visuallyguided saccades. Brain,114(3), 1473 - 1485.   \nPosner,M.I.,Rothbart,M.K.,& Voelker,P. (2016).Developing brain networks of attention.Current Opinion in Pediatrics,28(6),720.   \nSabatos-DeVito,M., Schipul, S.E.,Bulluck,J.C.,Belger,A.,& Baranek,G.T. (2016).Eye tracking reveals impaired attentional disengagement associated with sensory response pattrns in children with autism.Journal of Autism and Developmental Disorders,46(4),1319 - 1333.   \nSacrey,L.A.R.，Armstrong, V. L.，Bryson, S.E.，& Zwaigenbaum,L. (2014). Impairments to visual disengagement in autism spectrum disorder: A review of experimental studies from infancy to adulthood. Neuroscience & Biobehavioral Reviews,47,559 - 577.   \nSanchez, M.S.,Petersson,E.,Kennedy,D.P.,Bolte,S.,Lichtenstein,P.,D'Onofrio,B.M.,&Falck-Yter,T. (2019).Visual disengagement: Genetic architecture and relation to autistic traits in the general population. Journal of Autism and Developmental Disorders, 50(6),2188 - 2200.   \nSasson,N.J.,& Touchstone,E.W. (2014).Visual attention to competing social and object images by preschool children with autism spectrum disorder.Journal of Autism and Developmental Disorders,44(3), 584- 592.   \nSchietecatte,I., Roeyers,H.,& Warreyn, P. (2012). Exploring the nature of joint atention impairments in young children with autism spectrum disorder: Associated social and cognitive skils.Journal of Autism and Developmental Disorders, $4 2 ( 1 ) , 1 - 1 2$   \nTodd,J.,Mils,C.,Wilson,A.D.,Plumb,M.S.,& Mon-Williams,M.A. (2009). Slow motor responses to visual stimuli of low salience in autism. Journal of Motor Behavior, 41(5), 419 - 426.   \nVan der Geest,J.N.,Kemner,C.,Camferman,G., Verbaten,M.N.,&van Engeland,H. (2oo1).Eye movements, visual attention, and autism: A saccadic reaction time study using the gap and overlap paradigm. Biological Psychiatry, 50(8),614- 619.   \nWang, Q.,Hu,Y., Shi,D., Zhang,Y.,Zou, X.,Li,S.,..&Yi,L. (2018). Children with autism spectrum disorder prefer looking at repetitive movements in a preferential looking paradigm. Journal of Autism and Developmental Disorders,48(8),2821 - 2831.   \nWhalen,C.,& Schreibman,L. (2O03).Joint attention training for children with autism using behavior modification procedures.Journal of Child Psychology and Psychiatry,44(3), 456 - 468.   \nWilson, C.E.,& Saldana,D. (2018). No evidence of atypical atentional disengagement inautism: A study across the spectrum. Autism,23(3), 677 - 688.   \nZalla,T.,Seassu,M.,Cazalis,F., Gras,D.,& Leboyer,M. (2018). Saccadic eye movements inadults with high functioning autism spectrum disorder. Autism, 22(2),195 - 204.   \nZwaigenbaum,L,Bryson,S.,Rogers,T.,Roberts,W.,Brian,J.,& zatmari,P. (2oo5).Behavioral manifestations ofautism in the first year of life. International Journal ofDevelopmental Neuroscience,23(2-3),143-152. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Attentional disengagement in autism spectrum disorders ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "GAN Jiaqun, WANG Enguo (School ofEducation,Henan University,Kaifeng,475004,China) Abstract: Autism spectrum disorder (ASD) is a neurodevelopmental disorder that presents in childhood. Attntional disengagement is an essential part of the attentional orientation network, which refers to the process of disengaging attention from the original object to another one during the attention shift. The attentional disengagement hypothesis suggests that early impairment of attention disengagement in ASD could substantially aect the development of other perceptions and cognitive capacity. It could then ultimately cascade into a family of impairments in the core clinical symptoms of ASD. Studies using the gap-overlap paradigm resulted in controversial findings regarding atentional disengagement deficits in individuals with ASD. It is possible that the participants’characteristics, the research methods,and the stimulus properties are the main factors that affect attentional disengagement. This neural mechanism may involve the oculomotor nervous system,the frontal lobe,the parietal lobe,the cerebellum,and the corpus callosum.Future research should focus on the mechanisms of the brain,considering the effects of the participants' characteristics,the research methods,and the stimulus properties on the results of attentional disengagement comprehensively and clarifying its role in early prediction and recognition of autism. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: attentional disengagement, autism, gap-overlap paradigm, neural mechanisms ",
+        "page_idx": 16
+    }
+]

@@ -1,0 +1,435 @@
+[
+    {
+        "type": "text",
+        "text": "灌溉和施氮对河西走廊紫花苜蓿生物量分配与水分利用效率的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯　萌¹　于　成¹　林丽果² 吴冬强」 宋锐² 刘慧霞2\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．兰州大学草地农业科技学院/草地农业生态系统国家重点实验室兰州730020;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．西北民族大学生命科学与工程学院 兰州730030)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要确定河西地区紫花苜蓿栽培草地的合理施氮量和灌溉量，对优化当地紫花苜蓿栽培草地生物量分配和提高水分利用效率具有重要意义。本研究利用田间试验研究了不同灌溉量 $\\mathbf { W } _ { 1 }$ ：当地灌溉量的 $60 \\%$ ·， $\\mathsf { W } _ { 2 }$ ：当地灌溉量的 $80 \\%$ · $\\mathrm { W } _ { 3 }$ ：当地灌溉量 $1 ~ 9 2 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ 和施氮量 $\\mathbf { N } _ { 1 } { : } ~ 0 ~ \\mathbf { k g } ( \\mathbf { N } ) { \\cdot } \\mathbf { h } \\mathbf { m } ^ { - 2 }$ $\\mathbf { N } _ { 2 }$ ：： $4 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ${ \\bf N } _ { 3 }$ ： $8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathsf { N } _ { 4 }$ $1 2 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 对2年生紫花苜蓿生物量分配特征及水分利用效率的影响。结果表明：灌溉量为 $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { \\Delta W } _ { 3 }$ 时均显著增加了紫花苜蓿株高、单株分枝数、地上生物量，及 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 和 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层的根系体积、根系生物量和水分利用效率，且 $\\mathsf { W } _ { 2 }$ 和 $\\mathsf { W } _ { 3 }$ 的紫花苜蓿株高、单株分枝数和地上生物量差异不明显，说明采用当地灌溉量的 $80 \\%$ 水量时，紫花苜蓿水分利用效率最高。随着施氮量增加，紫花苜蓿单株分枝数、叶茎比、根系体积、根系生物量、地上和地下生物量比和水分利用效率均呈现先增加后降低的趋势，且在施氮量为 $8 0 ~ \\mathrm { \\ k g ( N ) { \\cdot } h m } ^ { - 2 }$ 时最大，说明紫花苜蓿根系发育和水分利用效率对氮的响应均存在剂量效应。在水氮互作条件下，处理 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ 或 $\\mathrm { W } _ { 2 } \\mathrm { N } _ { 3 }$ 中紫花苜蓿株高、单株分枝数、根系体积和 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 根系生物量及地上生物量与地下生物量比值和水分利用效率达到最优。结合上述分析得出在灌溉量 $\\mathbf { W } _ { 2 }$ 和施氮 ${ \\bf N } _ { 3 }$ 时，紫花苜蓿地上地下生物量比值和水分利用效率达最大值，表明河西走廊紫花苜蓿栽培草地的适宜灌溉量为当地灌溉的 $80 \\%$ 施氮量为 $8 0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，此时紫花苜蓿水分利用效率和地上地下生物量比值配置最优。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词水氮互作河西走廊紫花苜蓿产量构成　水分利用效率中图分类号：S541.9 文献标识码：A 文章编号：1671-3990(2016)12-1623-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of water and nitrogen fertilizer on biomass distribution and water use efficiency of alfalfa (Medicago sativa) in Hexi Corridor) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FENG Meng',YU Cheng',LIN Liguo², WU Dongqiang',SONG Rui², LIU Huixia\\*\\*   \n(1.StateKeyLaboratoryofGrassandAgro-ecosystems/ColegeofPastoralAgricultureScienceandTechnology,Lanzhou   \nUniversity,Lanzhou73o020,China;2.CoegeofLife ScienceandEngineering,Northwest UniversityforNationalities, Lanzhou 730030, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractAlfalfa (Medicago sativa)has high nutritional quality and biomass production and is widelyusedas pasture in animalproduction andsoil erosioncontrol.Therearemany factors influencing the productionofalfalfa,including fertilizer and wateruse.Theapplicationsofboth nitrogenandirrgation have beenthe criticalfactors forimproving wateruse efficincy withoutconsiderable yieldreductioninalfalfa.Thus thedeterminationof areasonableapplicationof nitrogeandirrgation is important fortheoptimizationofbiomassdistributioncharacteristicsand improvementof wateruseeficiency inalfalfa fields in Hexi Corridor.To thatend,afield study wasconductedin2O14 inJiuquanCity(intheHexiCorridorof GansuProvince, China) to research the effects of different irrigation amounts $( \\mathrm { W } _ { 1 } ; 6 0 \\%$ of the conventional irrigation amount; $\\mathrm { W } _ { 2 }$ ： $80 \\%$ of the conventional irrigation amount; $\\mathbb { W } _ { 3 }$ : the conventional irigation amount, $1 ~ 9 2 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } ,$ ） and nitrogen application rates $[ \\mathsf { N } _ { 1 }$ $0 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ · $\\mathbf { N } _ { 2 }$ ：： $4 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ${ \\bf N } _ { 3 }$ ：： $8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ · $\\mathsf { N } _ { 4 }$ ： $1 2 0 \\mathrm { \\ k g ( N ) ^ { . } h m ^ { - 2 } } ]$ on biomass distribution characteristics and water useeficiencyof-yearalfalfaplantations.Thestudyinvestigatedtheefectsofnitrogenappication,irigationandtherelated interactiononalfalfa plant height,branch numberper plant,leaf-stemratio,root volume,root biomass,abovegroundbelowground biomass ratio and water use efficiency.The results suggested that $\\mathsf { W } _ { 2 }$ and $\\mathbb { W } _ { 3 }$ treatments significantly increased plant height, branch number per plant and aboveground biomas.It also increased root biomass,root volume in $2 0 { - } 4 0 ~ \\mathrm { c m }$ $4 0 { - } 6 0 ~ \\mathrm { c m }$ and $0 { - } 6 0 ~ \\mathrm { c m }$ soil layer and water use efciency. Moreover, plant height, branch number per plant and aboveground biomass were not obviously different between $\\mathsf { W } _ { 2 }$ and $\\mathrm { ~ W } _ { 3 }$ treatments.This suggested that $80 \\%$ of the conventional irrigation scheme notonlymaintained normal biomass production in alfalfa plants,but also improved water useeficiency.Branch number per plant,leaf-stemratio，rootvolume,root biomass，aboveground-belowground biomassratioand wateruse fficiency initiallyincreased and then decreased with increasing nitrogenapplication.These parameters peakedunder the treatment of $8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ nitrogen, which suggested that nitrogen application significantly influenced root development and wateruse efficiency of alfalfa plants.Besides this, $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ or $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 3 }$ treatments had the potential to optimize plant height,branch number per plant, root volume and belowground biomass in the $0 { - } 2 0 ~ \\mathrm { c m }$ ， $2 0 { - } 4 0 ~ \\mathrm { c m }$ and $0 { - } 6 0 ~ \\mathrm { c m }$ soil layers.The ratio of aboveground to belowground biomass and water use eficiency was also optimized under $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ or $\\mathrm { W } _ { 2 } \\mathrm { N } _ { 3 }$ treatments. It was concluded that $80 \\%$ of the conventional irrigation amount and $8 0 ~ \\mathrm { \\ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ of nitrogen application were the optimal treatment for alfalfa pasture in Hexi Corridor. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsWater-nitrogen interaction; Hexi Corridor; Alfalfa; Yield components; Water use efficiency ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "紫花苜蓿(Medicago sativa)不仅产量和营养价值高，而且能防风固沙、保持水土和肥田沃土[1-3],因此其栽培草地在世界范围内分布最广[4]。虽然紫花苜蓿不耐涝，但在干旱半干旱地区仍然需要灌溉以维持其正常生长发育[5]。随着我国西部地区各种生态建设工程的持续推进，紫花苜蓿栽培面积将逐渐增加，这将有力推进我国西部地区农业产业结构调整[6-7]。然而紫花苜蓿面积的增加，势必会增加水资源灌溉量，从而加剧西部地区水资源亏缺的困境。紫花苜蓿栽培草地是以收获其营养体生物量为目的的经济作物，因此提高紫花苜蓿栽培草地水资源利用效率，让每一克水生产出更多的营养体生物量，是紫花苜蓿栽培草地管理的核心科学问题。紫花苜蓿根系在长期的生长发育过程中能够形成根瘤[8],实现固氮，供给生长，因此紫花苜蓿栽培草地管理中往往因避免水体富营养化而不便直接增施氮肥[9。但1龄和2龄紫花苜蓿栽培草地，若播种阶段没有接种根瘤菌时，根系往往不易形成根瘤或根瘤数量较少，自身固氮能力很弱[10]，此时需要增施氮满足紫花苜蓿生长对氮的需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤肥力和水分对植物生长既具有协同作用，又具有拮抗作用，合理的水肥互作不仅能够提高紫花苜蓿产量，减少灌溉量和施氮量，还能够减轻土壤盐渍化[11]和减少水资源灌溉量[12]。已有研究表明,水磷互作可显著增加紫花苜蓿地上生物量和水磷利用效率[13]，以及紫花苜蓿的根系生物量[14]。然而水氮互作能否像水磷互作一样提高1龄和2龄紫花苜蓿的地上地下产量和水分利用效率，尚需科学试验提供证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河西走廊是甘肃省乃至全国重要的紫花苜蓿栽培草地分布区[15]，随着该区从制种基地向牧草生产基地的转型，紫花苜蓿栽培草地面积逐年增加[16]。然而该区水资源供给主要靠内陆河，水资源十分有限[17]，同时农户大面积种植紫花苜蓿时往往不会接种根瘤菌，这严重影响了1龄和2龄紫花苜蓿栽培草地的生产性能。因此，本研究分析了不同灌溉量和施氮量交互作用下紫花苜蓿产量和水分利用效率的变化特征，以期丰富紫花苜蓿水肥耦合研究的内容，为河西走廊地区1龄和2龄紫花苜蓿水肥管理提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验区概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验区位于甘肃省金塔县西北部的农垦集团生地湾农场 $( 9 8 ^ { \\circ } 3 4 ^ { \\prime } { \\sim } 9 8 ^ { \\circ } 4 1 ^ { \\prime } \\mathrm { N }$ ， $4 0 ^ { \\circ } 1 3 ^ { \\prime } { \\sim } 4 0 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { E } \\$ ，地处河西走廊中段巴丹吉林沙漠边缘，东西与戈壁荒漠相接，南与沙漠丘陵相接。平均海拔 $1 ~ 2 6 0 ~ \\mathrm { m }$ ，气候为典型温带大陆性气候，年均降水量 $6 4 . 8 ~ \\mathrm { m m }$ ，年均蒸发量 $2 \\ 3 3 6 . 6 \\ \\mathrm { m m } .$ ，年均气温 $9 . 1 ~ \\mathrm { { ^ { \\circ } C } }$ ，1月平均最低气温为零下 $8 . 9 \\ \\mathrm { { ^ circ C } } , 7$ 月平均最高气温 $2 4 . 5 ~ \\mathrm { ^ { \\circ } C }$ 。平均日照总时数为 $3 ~ 1 9 3 . 2 \\mathrm { h } , \\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 有效积温 $3 2 9 2 \\mathrm { ~ \\textdegree C }$ ，全年无霜期 $1 2 0 { \\sim } 1 5 0 ~ \\mathrm { d } _ { \\circ }$ 土壤为砂壤土质，土壤有机质含量 $1 0 . 1 1 ~ \\mathrm { g } \\mathrm { \\cdot k g } ^ { - 1 }$ ，碱解氮含量 $3 7 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ ，速效磷含量 $4 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ ，速效钾含量 $2 7 8 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试的紫花苜蓿栽培草地为 2 龄‘亮苜二号'草地，该品种产地为加拿大，具有抗逆性强、持续利用期长、草质优良、抗病性优秀、营养价值高等特点。2014年5月初种植，种植时未接种根瘤菌。鉴于建植当年紫花苜蓿栽培草地产量不稳定，于2015 年(2龄)开始水氮互作试验处理。试验采用完全随机区组设计，灌溉量为主处理，施氮量为副处理。灌溉量共设置3个水平，分别为 $1 1 7 \\mathrm { m m } ( 1 1 7 0 \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ 、 $1 5 6 \\mathrm { m m }$ 0 $\\mathrm { 1 ~ 5 6 0 ~ m ^ { 3 } { \\cdot } h m ^ { - 2 } }$ ）、 $1 9 2 ~ \\mathrm { m m }$ 0 $( 1 ~ 9 2 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } )$ ，用 $\\mathsf { W } _ { 1 } .$ $\\mathsf { W } _ { 2 }$ 、 $\\mathrm { ~ W ~ } _ { 3 }$ 表示，其中 $\\mathrm { ~ W } _ { 3 }$ 为当地常规灌溉量， $\\mathsf { W } _ { 1 }$ 为当地灌溉量的 $60 \\%$ ， $\\mathsf { W } _ { 2 }$ 为当地灌溉量 $80 \\%$ 。在生长季共灌溉2次，第1次灌溉，即返青水，在5月初结束;第2次灌溉为分枝期前后，5月25日前结束。施氮量分别为 $0 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } , 4 0 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } , 8 0 \\ \\mathrm { k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $1 2 0  { \\mathrm { \\ k g } } (  { \\mathrm { N } } )  { \\mathrm { \\cdot h m } } ^ { - 2 }$ ，分别用 $\\Nu _ { 1 } , \\Nu _ { 2 } , \\Nu _ { 3 }$ 和 $\\mathrm { N } _ { 4 }$ 表示。共计12个处理(3个灌溉水平 $\\cdot { \\times } 4$ 个施氮水平)，每个处理设置3个重复，共计36个小区。小区面积为 $1 0 \\mathrm { m } \\times$ $1 0 \\mathrm { m } { = } 1 0 0 \\mathrm { m } ^ { 2 }$ 。为减小氮素和水分侧向移动对试验结果的影响，小区间设置宽 $1 \\mathrm { ~ m ~ }$ 的走道。采用塑料软管灌水，用水表计量灌水量，每次灌水按照试验设计的定额水量进行灌溉，水表出口接有自制的多孔塑管以保证小区内灌溉均匀。施肥采用直接撒播方式，氮源为尿素(含氮 $4 6 . 4 \\%$ 。施肥分为两次，即灌溉前施肥，每次根据试验设计定额只施入一半，两次施入定额设计总量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "株高、单株分枝数和茎叶比的测定：在紫花首蓿初花期(2015年6月15日)进行取样，每小区在距小区边缘超过 $\\mathrm { ~ 1 ~ m ~ }$ 的地方随机选择20株植株，用卷尺测定其自然高度，然后用手轻轻抛开选定植株地表土壤，以主根为基础记录其枝条的一级分枝数。20株植株的平均高度和平均分枝数作为该小区紫花苜蓿植株的平均株高和单株分枝数。之后，将植株齐地刘割，分离茎和叶(花序包含至叶内)，带回实验室在 $1 0 5 \\mathrm { ~ } \\mathrm { ~ \\textdegree ~ }$ 烘箱内杀青 $1 5 \\ \\mathrm { m i n }$ ，然后在 $7 0 { \\sim } 8 0 \\ \\mathrm { ~ \\textdegree C }$ 烘至恒重称重，20株的平均叶茎比作为植株叶茎比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地上和地下生物量测定：在测定完株高和单枝分株数后，在每个小区采用对角线法选择3个 $0 . 5 \\mathrm { m } \\times$ $0 . 5 \\mathrm { ~ m ~ }$ 的样方，收获其地上生物量，然后将其带回实验室在 $1 0 5 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 下杀青 $3 0 ~ \\mathrm { m i n }$ ， $7 5 \\ \\mathrm { { ^ \\circ C } }$ 下烘至恒重后称重。用小土铲挖土柱，每 $2 0 ~ \\mathrm { c m }$ 取样(土和根的混合物)，直至 $6 0 ~ \\mathrm { c m }$ 深，每个样先用 $0 . 5 ~ \\mathrm { m m }$ 的网筛过筛然后将其放在双层纱布内洗净，剔除杂物，获取根系样品。实验室内用滤纸吸干根系表面的水分，将其放入盛有一定水量的量筒内，并用玻璃棒轻轻搅动，排除水中空气，此时量筒内水分升高的体积，即为紫花苜蓿根系体积。将根系样品放在 $7 5 \\ \\mathrm { { ^ \\circ C } }$ 烘箱中，烘 $2 4 \\mathrm { h }$ ，冷却后称重，即为各层根系的干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶茎比计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶茎比 $\\dot { \\bf \\Phi } =$ 叶的生物量/茎的生物量灌溉水利用效率计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌溉水利用效率 $( \\mathbf { k g } \\cdot \\mathbf { h } \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { m } \\mathbf { m } ^ { - 1 } ) { = } \\colon$ 地上生物量$( \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 } )$ /灌水量(mm) (2)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将灌溉量和施氮量作为变量，采用SPSS19.0软件进行Two-WayANOVA方差分析，采用Duncan比较法进行多重比较分析，采用MATLAB建立水氮互作对地下生物量和水分利用效率效应的二元回归模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1水氮互作对紫花苜蓿地上生物量和植物学特征的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌溉量与施氮量的交互作用明显影响了紫花苜蓿株高和单株分枝数，分别在 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ 和 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 3 }$ 处理最大，但对紫花苜蓿地上生物量及叶茎比没有显著影响。灌溉量对紫花苜蓿株高、单株分枝数和地上生物量产生明显影响(表1)，但对叶茎比没有显著影响,具体表现为灌溉量为 $\\mathsf { W } _ { 1 }$ 处理植株株高和单株分枝数均显著小于 $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { W } _ { 3 }$ 处理 $( P { < } 0 . 0 5 )$ ， $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { W } _ { 3 }$ 间差异不显著，而地上生物量随灌溉量的增加呈先增加后降低的变化趋势，在 $\\mathrm { ~ W } _ { 2 }$ 时达最高。施氮量对紫花苜蓿单株分枝数和叶茎比产生显著影响，而对株高和地上生物量没有显著影响，表现为施肥量 ${ \\bf N } _ { 2 }$ 和 ${ \\bf N } _ { 3 }$ 处理的单株分枝数显著大于 $\\mathbf { N } _ { 1 }$ 处理，叶茎比表现为随着施氮量逐渐增加呈现先升高后降低的趋势， ${ \\bf N } _ { 3 }$ 处理的叶茎比最大，而 $\\mathbf { N } _ { 1 }$ 、 $\\Nu _ { 2 }$ 和 $\\mathrm { N } _ { 4 }$ 处理叶茎比之间差异不显著 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2水氮互作对紫花苜蓿根系的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 对根系体积的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌溉量和施氮量交互作用明显影响了不同土层紫花苜蓿根系体积(表2)，其中 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 根系体积在 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ 处理达最高 $( P { < } 0 . 0 5 )$ ， $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 在$\\mathsf { W } _ { 2 } \\mathsf { N } _ { 1 }$ 和 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ 处理达最大值 $( P { < } 0 . 0 5 )$ ， $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 根系体积在 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 2 }$ 和 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 3 }$ 达最大值 $( P { < } 0 . 0 5 )$ 。单因素条件下，灌溉量明显影响了 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 和$0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层紫花苜蓿根系体积，但对 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层根系体积没有显著影响，表现为随灌溉量增加， $2 0 \\sim$ $4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 和 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 根系体积均为先增加后降低的变化趋势 $( P { < } 0 . 0 5 )$ ，灌溉量为 $\\mathsf { W } _ { 2 }$ 时最大。施氮量明显影响了紫花苜蓿根系体积，其中 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层紫花苜蓿根系体积随施氮量增加具有降低趋势，施氮量为 $\\mathrm { N } _ { 4 }$ 时的根系体积显著小于其他施氮量，而其他土层紫花苜蓿根系体积均随施氮量增加表现为先增加后降低，最大值出现于 ${ \\bf N } _ { 2 }$ 或 ${ \\bf N } _ { 3 }$ 处理 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd979257afcc653d12544c3614e7af3133a7cda2cab3f4bdfa5a1dfa016214ea.jpg",
+        "table_caption": [
+            "表1水氮互作对紫花苜蓿地上生物量和植物学特征的影响 le 1Effect of water-nitrogen interaction on aboveground biomass and botanical featui "
+        ],
+        "table_footnote": [
+            "$\\mathsf { W } _ { 1 }$ ：当地灌溉量的 $60 \\%$ $\\mathsf { W } _ { 2 }$ ：当地灌溉量的 $80 \\%$ $\\mathsf { W } _ { 3 }$ ：当地灌溉量， $\\overline { { 1 ~ 9 2 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 } } }$ $\\overline { { { \\bf N } _ { 1 } ; 0 { \\bf \\ k g } ( { \\bf N } ) { \\bf \\cdot } { \\bf h } { \\bf m } ^ { - 2 } } }$ $\\overline { { { \\bf N } _ { 2 } \\colon 4 0 \\ k g ( \\mathrm { N } ) \\cdot \\mathrm { h m } ^ { - 2 } } }$ $\\overline { { { \\bf N } _ { 3 } ; 8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } } }$ $\\mathrm { \\Delta N _ { 4 } }$ $1 2 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 。 $^ *$ 和 $^ { * * }$ 分别表示该处理在0.05和0.01水平具有显著效应,ns 则表示该因素不具显著效应；不同小写字母表示不同灌溉处理间差异显著 $( P { < } 0 . 0 5 )$ ，下同。 $\\mathsf { W } _ { 1 }$ $60 \\%$ of the conventional irigation amount; $\\mathsf { W } _ { 2 }$ $80 \\%$ of the conventional irigation amount; $\\mathsf { W } _ { 3 }$ : the conventionalirrigation amount, $1 ~ 9 2 0 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathbf { N } _ { 1 }$ $0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathbf { N } _ { 2 }$ $4 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ${ \\bf N } _ { 3 }$ $8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ $\\mathrm { \\Delta N _ { 4 } }$ ： $1 2 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ .\\*and $^ { * * }$ indicate significance at 0.05and0Ollevel0.05 level. The same below."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">处理 Treatment</td><td>株高 Pant height (cm)</td><td>单株分枝数 Branch number per plant</td><td>地上生物量 Aboveground biomass (kg·hm-2)</td><td>叶茎比 Leaf-stem ratio (%)</td></tr><tr><td colspan=\"6\">灌溉量Irrigationamount</td></tr><tr><td colspan=\"2\">W1</td><td>94.7b</td><td>6.3b</td><td>5 365.4c</td><td>1.5</td></tr><tr><td colspan=\"2\">W2</td><td>102.6a</td><td>8.2a</td><td>6 442.2a</td><td>1.5</td></tr><tr><td colspan=\"2\">W3</td><td>100.4a</td><td>7.3ab</td><td>5 968.2b</td><td>1.5</td></tr><tr><td colspan=\"2\">显著性 Sig.</td><td>**</td><td>**</td><td>**</td><td>ns</td></tr><tr><td colspan=\"6\">施氮量 Nitrogen application rate</td></tr><tr><td colspan=\"2\">N1</td><td>98.0</td><td>6.2b</td><td>6148.9</td><td>1.1b</td></tr><tr><td colspan=\"2\">N2</td><td>99.6</td><td>7.8a</td><td>6032.6</td><td>1.1b</td></tr><tr><td colspan=\"2\">N3</td><td>100.7</td><td>8.0a</td><td>5 703.5</td><td>1.4a</td></tr><tr><td colspan=\"2\">N4</td><td>98.7</td><td>6.9ab</td><td>5 816.6</td><td>1.1b</td></tr><tr><td colspan=\"2\">显著性 Sig.</td><td>ns</td><td>*</td><td>ns</td><td>**</td></tr><tr><td colspan=\"6\">灌溉量×施氮量 Irrigation amount × nitrogen application rate</td></tr><tr><td rowspan=\"5\">W1</td><td>N1</td><td>89.2±2.8d</td><td>5.0±0.6cd</td><td>5 605.5±176.7</td><td>1.4</td></tr><tr><td>N2</td><td>91.0±1.3cd</td><td>8.0±1.0abc</td><td>5 390.0±36.0</td><td>1.4</td></tr><tr><td>N3</td><td>96.4±3.5bcd</td><td>7.3±1.5bcd</td><td>5 280.0±91.8</td><td>1.5</td></tr><tr><td>N4</td><td>102.3±2.0ab</td><td>4.7±0.3d</td><td>5 184.7±73.5</td><td>1.5</td></tr><tr><td>N1 101.2±2.1ab</td><td></td><td>7.3±0.7bcd</td><td>6 685.2±18.1</td><td>1.3</td></tr><tr><td rowspan=\"5\">N2</td><td></td><td>109.1±1.8a</td><td>7.3±1.2bcd</td><td>6 634.2±52.1</td><td>1.4</td></tr><tr><td>N3</td><td>103.7±2.4ab</td><td>10.7±1.6a</td><td>6 184.7±306.7</td><td>2.0</td></tr><tr><td>N4</td><td>96.5±1.5bcd</td><td>7.3±0.7bcd</td><td>6 264.7±288.6</td><td>1.1</td></tr><tr><td>N1</td><td>103.6±3.0ab</td><td>6.3±0.3bcd</td><td>6 155.2±52.2</td><td>1.4</td></tr><tr><td>N2</td><td>98.6±1.7bc</td><td>8.0±0.6abc</td><td>6 072.7±54.9</td><td>1.5</td></tr><tr><td>N3</td><td>101.9±3.3ab</td><td></td><td>6.0±1.0bcd</td><td>5 644.2±316.8</td><td>1.6</td></tr><tr><td>N4</td><td></td><td>97.3±2.9bc</td><td>8.7±0.3ab</td><td>6 000.7±173.2</td><td>1.6</td></tr><tr><td>显著性Sig.</td><td></td><td>**</td><td>**</td><td>ns</td><td>ns</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 对根系生物量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "灌溉量、施氮量以及两者间的交互作用均明显影响了不同土层紫花苜蓿的根系生物量(表3)。其交互作用使 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 、 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ ！ $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层根系生物量在 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 3 }$ 处理达最高，而 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层根系生物量在 $\\mathrm { W } _ { 3 } \\mathrm { N } _ { 2 }$ 处理达最大。 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ ！ $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 1 $4 0 \\sim$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$6 0 \\ \\mathrm { c m }$ 和 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层根系生物量均随灌溉量增加呈增加态势，其中 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 和 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层根系生物量在 $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { ~ W } _ { 3 }$ 间差异不显著，但 $\\mathsf { W } _ { 2 }$ 和 $\\mathrm { ~ W } _ { 3 }$ 处理的根系生物量却显著大于 $\\mathsf { W } _ { 1 }$ 处理的根系生物量。随施氮量增加，不同土层生物量基本表现为先增加后降低的变化趋势，最大值出现于 $\\bf N _ { 3 o }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 水氮互作对紫花苜蓿地上和地下生物量比的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "灌溉量与施氮量交互作用显著影响紫花苜蓿地上和地下生物量比(表4)。在灌溉和施氮交互作用的影响下，各土层地上和地下生物量比均在 $\\mathrm { W } _ { 2 } \\mathrm { N } _ { 3 }$ 处理达最大。灌溉量对紫花苜蓿地上和地下生物量比没有明显影响，但施氮量显著影响了紫花苜蓿地上和地下生物量比，随施氮量增加，不同土层地上和地下生物量比均",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/545897d2c5121a869cade876cd245c4758cd052769d2f9d75f46b97fc7a91066.jpg",
+        "table_caption": [
+            "表2水氮互作对紫花苜蓿不同土层根系体积的影响 able 2 Effect of water-nitrogen interaction on alfalfa root volume in different soil lay "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">处理 Treatment</td><td colspan=\"4\">根体积 Root volume (cm³-m-3)</td></tr><tr><td>0~20 cm</td><td>20~40 cm</td><td>40~60 cm</td><td>0~60 cm</td></tr><tr><td colspan=\"5\">灌溉量Irrigation amount</td><td></td></tr><tr><td colspan=\"2\">W1</td><td>241.1</td><td>68.9c</td><td>39.4b</td><td></td></tr><tr><td colspan=\"2\">W2</td><td>259.4</td><td>285.6a</td><td>85.0a</td><td>630.0a</td></tr><tr><td colspan=\"2\">W3</td><td>255.0</td><td>212.8b</td><td>40.6b</td><td>508.3b</td></tr><tr><td colspan=\"2\">显著性 Sig.</td><td>ns</td><td>**</td><td>**</td><td>**</td></tr><tr><td colspan=\"6\">施氮量 Nitrogen application rate</td></tr><tr><td colspan=\"2\">N1</td><td>272.6c</td><td>211.1a</td><td>37.0c</td><td>520.7b</td></tr><tr><td colspan=\"2\">N2</td><td>324.4a</td><td>208.1a</td><td>60.7b</td><td>593.3a</td></tr><tr><td colspan=\"2\">N3</td><td>204.4b</td><td>185.9a</td><td>83.0a</td><td>473.3c</td></tr><tr><td colspan=\"2\">N4</td><td>205.9b</td><td>151.1b</td><td>39.3c</td><td>396.3d</td></tr><tr><td colspan=\"2\">显著性 Sig.</td><td>**</td><td>**</td><td>**</td><td>**</td></tr><tr><td colspan=\"6\">灌溉量×施氮量 Irrigation amount × nitrogen application rate</td></tr><tr><td rowspan=\"4\">W1</td><td>N1</td><td>213.3±33.6c</td><td>17.8±3.8f</td><td>24.4±4.4ef</td><td>255.6±34.9f</td></tr><tr><td>N2</td><td>333.3±20.4ab</td><td>40.0±3.9f</td><td>22.2±12.4ef</td><td>395.5±34.7e</td></tr><tr><td>N3</td><td>277.8±9.7b</td><td>91.1±12.4e</td><td>40.0±3.9de</td><td>408.9±18.2e</td></tr><tr><td>N4</td><td>140.0±10.2d</td><td>126.7±29.1e</td><td>71.1±5.9b</td><td>337.8±26.2e</td></tr><tr><td rowspan=\"4\">W2</td><td>N1</td><td>291.1±21.9b</td><td>344.4±25.6a</td><td>51.1±4.4cd</td><td>686.7±44.4b</td></tr><tr><td>N2</td><td>360.0±35.3a</td><td>382.2±29.1a</td><td>128.9±5.9a</td><td>871.1±18.9a</td></tr><tr><td>N3</td><td>182.2±4.4cd</td><td>277.8±9.7b</td><td>142.2±8.0a</td><td>602.2±12.4c</td></tr><tr><td>N4</td><td>204.4±5.9c</td><td>137.8±11.8de</td><td>17.8±4.4f</td><td>360.0±13.9e</td></tr><tr><td rowspan=\"4\">W3</td><td>N1</td><td>313.3±10.2ab</td><td>271.1±5.9b</td><td>35.6±2.2def</td><td>620.0±7.7bc</td></tr><tr><td>N2</td><td>280.0±13.9b</td><td>202.2±9.7c</td><td>31.1±5.9ef</td><td>513.3±17.7d</td></tr><tr><td>N3</td><td>153.3±27.0cd</td><td>188.9±2.2ce</td><td>66.7±3.9bc</td><td>408.9±31.1e</td></tr><tr><td>N4</td><td>273.3±13.9b</td><td>188.9±21.2cd</td><td>28.9±5.9ef</td><td>491.1±26.2d</td></tr><tr><td colspan=\"2\">显著性Sig.</td><td>**</td><td>**</td><td>**</td><td>**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7814dc050cf0ba13bf3cd531806511b33d21bd551b887497477feb82ef6de0b1.jpg",
+        "table_caption": [
+            "表3水氮互作对紫花苜蓿地下生物量的影响 Table 3Effect of water-nitrogen interaction on the underground biomass of alfalfa "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"4\">地下生物量 Underground biomass (g·m-3)</td></tr><tr><td>0~20 cm</td><td>20~40 cm</td><td>40~60 cm</td><td>0~60 cm</td></tr><tr><td colspan=\"5\">灌溉量 Irrigation amount</td></tr><tr><td>W1</td><td>453.5b</td><td>372.4b</td><td>305.7b</td><td>1 131.7b</td></tr><tr><td>W2</td><td>573.1b</td><td>420.8ab</td><td>353.7a</td><td>1 347.6a</td></tr><tr><td>W3</td><td>503.9a</td><td>446.3a</td><td>379.7a</td><td>1 329.9a</td></tr><tr><td>显著性Sig.</td><td>**</td><td>*</td><td>**</td><td>**</td></tr><tr><td colspan=\"5\">施氮量 Nitrogen application rate</td></tr><tr><td>N1</td><td>484.9b</td><td>370.1b</td><td>305.4b</td><td>1 160.4b</td></tr><tr><td>N2</td><td>520.3ab</td><td>377.7b</td><td>348.0b</td><td>1 246.1b</td></tr><tr><td>N3</td><td>581.6a</td><td>500.3a</td><td>396.9a</td><td>1 478.8a</td></tr><tr><td>N4</td><td>453.9b</td><td>404.6b</td><td>335.2b</td><td>1 193.6b</td></tr><tr><td>显著性 Sig.</td><td>*</td><td>**</td><td>**</td><td>**</td></tr><tr><td colspan=\"5\">灌溉量×施氮量 Irrigation amount × nitrogen application rate</td></tr><tr><td>W1</td><td>607.7±86.9b</td><td>400.3±29.8abcd</td><td>267.0±4.4ef</td><td>1 275.0±120.0bcde</td></tr><tr><td>N1 N2</td><td>486.7±27.7bc</td><td>268.7±15.9e</td><td>253.9±1.6f</td><td>1 009.3±42.5ef</td></tr><tr><td>N3</td><td>451.0±8.1c</td><td>486.7±27.7ab</td><td>412.6±14.5ab</td><td>1 350.2±39.2bc</td></tr><tr><td>N4</td><td>268.7±15.9d</td><td>333.9±46.1cde</td><td>289.5±21.9def</td><td>892.1±82.9f</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "续表",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/62db07b43f2810a959a820dbe906dd781b22a6cbb6c2710552d606284417cb71.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">处理 Treatment</td><td colspan=\"4\">地下生物量 Underground biomass (g·m-3)</td></tr><tr><td>0~20 cm</td><td>20~40cm</td><td>40~60 cm</td><td>0~60cm</td></tr><tr><td colspan=\"6\">灌溉量×施氮量 Irrigation amount × nitrogen application rate</td></tr><tr><td rowspan=\"2\">W2</td><td>N1</td><td>407.3±49.4c</td><td>424.9±45.4abc</td><td>304.9±17.0cdef</td><td>1137.0±107.8cdef</td></tr><tr><td>N2</td><td>485.9±36.3bc</td><td>363.7±40.8cde</td><td>363.7±40.8abcd</td><td>1 213.3±114.6cde</td></tr><tr><td rowspan=\"7\">W3</td><td>N3</td><td>795.0±43.1a</td><td>513.5±26.6a</td><td>410.7±26.7ab</td><td>1 719.1±57.2a</td></tr><tr><td>N4</td><td>604.3±44.7b</td><td>381.0±40.9bcde</td><td>335.7±15.7bcdef</td><td>1 321.0±96.5bcd</td></tr><tr><td>N1</td><td>439.7±17.3c</td><td>285.2±17.1de</td><td>344.4±43.5abcde</td><td>1 069.3±39.1def</td></tr><tr><td>N2</td><td>588.4±26.7b</td><td>500.6±46.6a</td><td>426.5±20.3a</td><td>1 515.6±75.8ab</td></tr><tr><td>N3</td><td>498.8±45.0bc</td><td>500.7±27.0a</td><td>367.4±37.8abcd</td><td>1 367.0±90.5bc</td></tr><tr><td>N4</td><td>488.4±33.5bc</td><td>498.8±44.9a</td><td>380.3±20.3abc</td><td>1 368.0±96.4bc</td></tr><tr><td>显著性Sig.</td><td>**</td><td>**</td><td>*</td><td>**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/868f3d35edd8c02af18d5dafa9f4da455b927cb0129a2c68ae6a143b55b3cdca.jpg",
+        "table_caption": [
+            "表4水氮耦合对紫花苜蓿地上和地下生物量比的影响Table4Effect of water-nitrogen interaction on theratioof aboveground biomassto underground biomass of alfalfa"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"4\">地上和地下根系生物量比 Ratio of aboveground biomass to underground biomass</td></tr><tr><td>0~20 cm</td><td>20~40 cm</td><td>40~60 cm</td><td>0~60 cm</td></tr><tr><td colspan=\"7\">灌溉量 Irrigation amount</td></tr><tr><td>W1</td><td></td><td>3.3</td><td>4.3</td><td>4.9</td><td>12.5</td></tr><tr><td></td><td>W2</td><td>3.8</td><td>4.3</td><td>5.0</td><td>13.1</td></tr><tr><td>W3</td><td></td><td>3.8</td><td>4.5</td><td>5.2</td><td>13.5</td></tr><tr><td colspan=\"2\">显著性Sig.</td><td>ns</td><td>ns</td><td>ns</td><td>ns</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">施氮量 Nitrogen application rate</td><td></td></tr><tr><td colspan=\"2\">N1</td><td>3.5b</td><td>4.5b</td><td>5.2ab</td><td>13.2b</td></tr><tr><td colspan=\"2\">N2</td><td>3.2b</td><td>3.7b</td><td>4.2bc</td><td>11.0c</td></tr><tr><td colspan=\"2\">N3</td><td>4.9a</td><td>5.7a</td><td>6.0a</td><td>16.6a</td></tr><tr><td colspan=\"2\">N4</td><td>3.0b</td><td>3.6b</td><td>4.8b</td><td>11.4bc</td></tr><tr><td colspan=\"2\">显著性 Sig.</td><td>**</td><td>**</td><td>*</td><td>**</td></tr><tr><td colspan=\"2\">W1</td><td colspan=\"4\">灌溉量×施氮量 Irrigation amount × nitrogen application rate</td></tr><tr><td rowspan=\"5\"></td><td>N1</td><td>4.0±0.6bcd</td><td>5.9±0.3ab</td><td>5.0±0.8bc</td><td>14.8±0.4b</td></tr><tr><td>N2</td><td>2.8±0.3def</td><td>3.1±0.4c</td><td>4.5±0.9bc</td><td>10.4±0.9cd</td></tr><tr><td>N3</td><td>4.6±0.8b</td><td>3.7±0.4c</td><td>4.2±0.2bc</td><td>12.5±1.2bcd</td></tr><tr><td>N4</td><td>1.9±0.2f</td><td>4.6±0.3bc</td><td>6.0±0.1abc</td><td>12.5±0.3bcd</td></tr><tr><td>N1</td><td>2.2±0.4ef</td><td>3.3±0.2c</td><td>4.8±0.1bc</td><td>10.3±0.6cd</td></tr><tr><td rowspan=\"6\">W3</td><td>N2</td><td>3.4±0.3bcde</td><td>3.4±0.3c</td><td>4.0±0.2c</td><td>10.8±0.6cd</td></tr><tr><td>N3</td><td>7.1±0.3a</td><td>7.2±0.3a</td><td>7.5±0.3a</td><td>21.7±0.8a</td></tr><tr><td>N4</td><td>2.4±0.1ef</td><td>3.4±0.4c</td><td>3.8±0.3c</td><td>9.7±0.7d</td></tr><tr><td>N1</td><td>4.2±0.6bc</td><td>4.4±0.7bc</td><td>5.7±0.9abc</td><td>14.4±1.2bc</td></tr><tr><td>N2</td><td>3.2±0.4cde</td><td>4.4±0.7bc</td><td>4.0±0.5c</td><td>11.7±0.9bcd</td></tr><tr><td>N3</td><td>3.0±0.1cdef</td><td>6.4±1.5ab</td><td>6.4±1.5ab</td><td>15.7±3.0b</td></tr><tr><td colspan=\"2\">N4</td><td>4.6±0.3b</td><td>2.9±0.1c</td><td>4.5±0.3bc</td><td>12.0±0.4bcd</td></tr><tr><td colspan=\"2\">显著性 Sig.</td><td>**</td><td>**</td><td>*</td><td>**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表现为先增加后降低的趋势，其中施肥量为 ${ \\bf N } _ { 3 }$ 时的地上和地下生物量比显著大于其他施肥量处理 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4水氮互作对紫花苜蓿水分利用效率的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "灌溉量、施氮量及其交互作用均显著影响了紫花苜蓿的水分利用效率(图1)。两个因子的交互作用影响下，紫花苜蓿水分利用效率在处理 $\\mathrm { W } _ { 2 } \\mathrm { N } _ { 3 }$ 时达最高。随着灌溉量增加，紫花苜蓿水分利用效率总体呈先增加后降低的变化态势，在 $\\mathsf { W } _ { 2 }$ 时达最大 $( P { < } 0 . 0 5 )$ 随施氮量增加，紫花苜蓿水分利用效率呈先升高后降低的趋势，在施氮量为 ${ \\bf N } _ { 3 }$ 时达最高 $( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/829e23589b6f927142bfbf9111665be873607c16ea34d55b8de5301d3a4514ea.jpg",
+        "img_caption": [
+            "图1水氮耦合对紫花苜蓿水分利用效率的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effect of water-nitrogen interaction on irrigation water use efficiency of alfalfa IA:灌溉量;NAR:施氮量; $\\mathrm { I A } { \\times } \\mathrm { N A R }$ ：灌溉量和施氮量交互作用。 IA: irrigation amount; NAR: nitrogen application rate; $\\mathrm { I A } { \\times } \\mathrm { N A R }$ interaction between irrigation amount and nitrogen application rate. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5 水氮互作与紫花苜蓿地下生物量和水分利用效率的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 灌溉量和施氮量与地下生物量的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地上生物量(Y与灌溉量 $( X _ { 1 } )$ 、施氮量 $( X _ { 2 } )$ 的二元二次多项式拟合的数学模型为 $Y { = } { - } 4 ~ 0 9 1 { + } 6 . 7 5 5 X _ { 1 } { + }$ $9 . 0 0 1 X _ { 2 } - 0 . 0 0 2 0 9 { X _ { 1 } } ^ { 2 } - 0 . 0 0 0 4 X _ { 1 } X _ { 2 } - 0 . 0 6 0 2 4 { X _ { 2 } } ^ { 2 }$ ， $F$ 检验时， $P { = } 0 . 0 0 0 \\ 0 3 2$ ， $R ^ { 2 } { = } 0 . 8$ ，说明灌水量、施氮量与紫花苜蓿地下生物量具有极其显著回归关系。 $X _ { 1 }$ 、$X _ { 2 }$ 的一次项系数均为正值，说明灌溉量和施氮量对紫花苜蓿地下生物量均具有明显增产作用，且 $X _ { 2 }$ 系数 ${ > } X _ { 1 }$ 系数，表明在一定含水量范围内施氮的增产效应大于灌水的增产效应。 $X _ { 1 } ^ { 2 }$ 、 $X _ { 2 } ^ { 2 }$ 的二次项系数均为负值，说明紫花苜蓿随灌溉量和施氮量增加呈一条开口向下的抛物线，存在报酬递减规律(图 2a),说明一定灌水条件下，随施氮量增加紫花苜蓿地下生物量先增加后降低，而一定施氮条件下，随灌水量增加紫花苜蓿地下生物量亦呈先增加后降低的趋势，因此紫花苜蓿最高地下生物量出现在 $ { \\mathrm { W } } _ { 2 }  { \\mathrm { N } _ { 3 \\circ } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 灌溉量和施氮量与水分利用效率的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水分利用效率(Y与灌溉量 $( X _ { 1 } )$ 、施氮量 $( X _ { 2 } )$ 的数学拟合方程为 $Y { = } { - } 1 4 8 . 3 6 { + } 2 . 1 9 4 X _ { 1 } { + } 0 . 0 3 2 ~ 9 X _ { 2 } { - } 0 . 0 0 6 ~ 9 X _ { 1 } ^ { 2 } { - }$ $0 . 0 0 0 1 8 X _ { 1 } X _ { 2 } { - } 0 . 0 0 0 1 5 { X _ { 2 } } ^ { 2 }$ ， $F$ 检验时, $P { = } 0 . 0 0 0 \\ 0 4 1$ $R ^ { 2 } { = } 0 . 9 8$ ，说明灌水量、施氮量均与紫花苜蓿的水分利用效率呈极显著回归关系。 $X _ { 1 }$ 、 $X _ { 2 }$ 的一次项系数均为正值，表明灌溉量和施氮量均能够增加紫花苜蓿的水分利用效率，且 $X _ { 1 }$ 系数 ${ > } X _ { 2 }$ 系数，表明在一定施氮量范围内灌水提高紫花苜蓿水分利用效率的效应大于施氮的效应。 $X _ { 1 } ^ { 2 }$ 、 $X _ { 2 } ^ { 2 }$ 的二次项系数均为负值，说明紫花苜蓿随灌溉量和施氮量增加呈一条开□向下的抛物线(图2b)。在灌水一定的条件下，随施氮量增加紫花苜蓿水分利用效率先增加后降低；在施氮量一定条件下，随灌水量增加紫花苜蓿水分利用效率呈先增加后降低的趋势，紫花苜蓿最高水分利用效率出现在 $\\mathrm { W } _ { 2 } \\mathrm { N } _ { 3 \\circ }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/86804e4bc24a5894c5ebf555ea95021a35f7a79ea2ecc70aaf71287cd240e33c.jpg",
+        "img_caption": [
+            "图2紫花苜蓿水氮互作下地下生物量(a)和水分利用效率(b)曲面图ig.2Surfacechartsofunderground biomass(a)and wateruse eficiency(b)ofalfalfa under water-nitrogen interactiol"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论和讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "河西走廊乃至西北内陆河流域紫花苜蓿生产不仅受水资源短缺的影响，而且受土壤肥力的影响[17-18]。随着河西走廊逐渐成为甘肃省乃至全国紫花苜蓿生产的重点区域[15,19]，如何通过较低的灌溉量和施肥量维持紫花苜蓿正常产量成为高效利用自然资源、且不降低经济收益的重要科学问题。研究结果表明，虽然灌溉量没有明显影响紫花苜蓿叶茎比、 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层紫花苜蓿的根系体积、地上和地下生物量比;但其显著影响了紫花苜蓿株高、单株分枝数、地上生物量，以及 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 、 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 、 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层的根系体积、根系生物量和水分利用效率。说明灌溉量通过影响地上生物量而影响单位面积产值[20],并通过影响深层根系分布而影响紫花苜蓿利用较深土壤层资源的能力[21]。 $\\mathbf { W } _ { 2 } \\{$ （灌溉量为当地灌溉量的$80 \\%$ 和 $\\mathrm { W } _ { 3 }$ (当地灌溉量)处理紫花苜蓿株高、单株分枝数和地上生物量差异不明显，但 $\\mathsf { W } _ { 2 }$ 却显著增加了土壤深层紫花苜蓿的根系体积，提高了水分利用效率，说明采用当地灌溉量的 $80 \\%$ 水量时，就能够维持紫花苜蓿栽培草地的正常产量，主要原因是增加了根系利用土壤深层资源的能力，提高了紫花首蓿的水分利用效率，因此当地管理紫花苜蓿栽培草地时常用的灌溉量过大，客观上造成水资源浪费。但当紫花苜蓿灌溉量为当地灌溉量的 $60 \\%$ 时，紫花首蓿地上产量及构成要素、根系生物量和体系均显著降低，说明此时已经对紫花苜蓿的正常生长形成水分胁迫，从而抑制了紫花苜蓿的生产[22]，水分利用效率也很低。因此仅从灌溉量的角度，河西走廊当地管理紫花苜蓿栽培草地时，其采用的灌溉量较正常需求过大，适当地降低紫花苜蓿灌溉量(节省 $20 \\%$ 的灌溉量)就能实现紫花苜蓿节水而不减产的目的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明，紫花苜蓿单株分枝数、叶茎比、根系体积、根系生物量、地上和地下生物量比和水分利用效率均随施氮量增加先增加后降低，说明紫花苜蓿根系发育能力和水分利用效率对氮的响应均存在剂量效应，表现为施氮量为 $\\mathrm { N } _ { 3 } [ 8 0 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 时最大，说明 $8 0 \\ \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 可考虑为当地的最适宜施氮量。最适施氮量能够促进紫花苜蓿叶片[23]和根系[24]的生长，提高紫花苜蓿叶片光合生产能力和水分利用能力，并通过增加紫花苜蓿根系而提高其摄取养分和水分的能力[25]，且有助于紫花苜蓿将光合产物更多地分配于地上。当研究地区的施氮量低于$8 0 ~ \\mathrm { \\ k g ( N ) ^ { . } h m } ^ { - 2 }$ 时，土壤养分供给能力较低[26]，紫花苜蓿叶片生长和根系发育受阻，迫使光合能力和水分利用效率降低[24]，而当施氮量超过 $8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ ，土壤供给的可利用氮盈余，紫花苜蓿根系从较小范围内吸收的氮量就能满足其生长需求，因而导致根系自身发育能力减缓，这从施氮量为 $1 2 0  { \\mathrm { \\ k g } } (  { \\mathrm { N } } )  { \\mathrm { \\cdot h m } } ^ { - 2 }$ 和 $8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 时紫花苜蓿根系集中分布层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根系体积和生物量差异不显著得到佐证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "灌溉和施肥具有一定的协同效应[27-28]，这是因为适当施氮能够改善土壤的理化性质，提高土壤的通气性，有助于溶入水中的氮在土壤中转移和运输，从而加快氮素固定和矿化[29]。然而当施氮量和灌溉量不匹配时，过量施肥会提高土壤水势，易使紫花苜蓿遭受水分胁迫，影响其生长，而当土壤水分过大时，土壤中的硝态氮会因淋洗而部分损失，形成氮素供给不足[30]。研究结果表明在 $\\mathrm { W } _ { 2 } \\mathrm { N } _ { 2 } [ \\$ 灌溉量为当地灌溉的 $80 \\%$ ，施氮量为 $4 0 \\mathrm { \\ k g ( N ) } { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 或 $\\mathsf { W } _ { 2 } \\mathsf { N } _ { 3 }$ （204号[灌溉量为当地灌溉的 $80 \\%$ ，施氮量为 $8 0 \\mathrm { ~ k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ 时，紫花苜蓿株高、单株分枝数、根系体积、 $0 { \\sim } 2 0 ~ \\mathrm { c m } .$ $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 根系生物量、水分利用效率和地上生物量与地下生物量比值达最优。这是因为适宜的水氮互作会增加叶片气孔导度，增强紫花苜蓿光合速率和水分利用效率[31：一方面通过促进植物根系发育，增强根系的吸水功能，提高作物水分利用效率[32]；另一方面，提高土壤水分的有效性，使一部分原来对紫花苜蓿生长“无效\"的水变得“有效\"[33]。紫花苜蓿的地上生物量通常作为人们获取的目标产物，是植物初级生产力的最终表现，而根系生物量的积累是植物在地下获取资源能力的直接表达方式之一，较强的根系发展能力，能吸收更多的营养元素和水分能力，从而提高紫花苜蓿地上生物量，提高地上生物量与地下生物量比值和水分利用效率是紫花苜蓿实现高产高效的基础。灌溉量和施肥量与紫花苜蓿根系生物量模拟关系，灌溉量和施肥量与紫花苜蓿水分利用效率的模拟关系，均表现为一条开口向下的抛物线，说明灌溉量和施肥量均存在报酬递减规律，只有在适当灌溉量和施肥量条件下，紫花苜蓿地上地下生物量配置和水分利用效率才能最符合经营管理目标。河西走廊适宜的灌溉量为当地农民灌溉的 $80 \\%$ 和施氮量为 $8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 }$ 此时紫花苜蓿水分利用效率和地上地下生物量比值配置最优。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，灌溉量、施氮量，以及两者互作均明显影响了紫花苜蓿地下生物量和水分利用效率。当施入一定量的氮肥后，采用比当地正常灌溉水平较低的灌溉量可维持与正常灌溉水平下紫花苜蓿地下生物量，即灌溉量为当地灌溉水平 $80 \\%$ 、氮肥施入量为 $8 0 ~ \\mathrm { \\ k g ( N ) ^ { . } h m } ^ { - 2 }$ ，地上生物量与地下生物量比值和水分利用效率最高，整体上证明了水肥互作能够降低紫花苜蓿栽培草地管理中的灌溉量和施肥量，从而实现节约灌溉和减少生产施肥成本的自标。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究已发现适宜的水氮互作能够提高第1茬紫花苜蓿水分利用效率，但水氮互作条件下是否能够影响第2茬紫花苜蓿植株性状、产量以及水分利用效率，有待进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］张春梅，王成章，胡喜峰，等．紫花苜蓿的营养价值及应用 研究进展[J].中国饲料,2005(1):15-17 Zhang C M,Wang C Z,Hu XF,et al.Research advance in nutritional value of alfalfa and its application[J]. China Feed, 2005(1): 15-17   \n[2]王亚玲，李晓芳，师尚礼，等．紫花苜蓿生产性能构成因子 分析与评价[J]．中国草地学报,2007,29(5):8-15 Wang Y L,Li XF, Shi S L,et al. Analysis and evaluation on the production performance components of different alfalfa[J]. Chinese Journal of Grassland,2007,29(5): 8-15   \n[3] 刘慧霞，郭正刚．不同土壤水分条件下添加硅对紫花苜蓿 茎叶和土壤氮磷钾含量的影响[J].应用与环境生物学报, 2011,17(6): 809-813 Liu H X,Guo Z G. Effects of supplementary silicon on nitrogen,phosphorus and potassium contents in the shoots of Medicago sativa plants and in the soil under different soil moisture conditions[J].Chinese Journal of Applied& Environmental Biology,2011,17(6): 809-813   \n[4]寇江涛，师尚礼．2,4-表油菜素内酯对 NaCl 胁迫下紫花苜 蓿幼苗根系生长抑制及氧化损伤的缓解效应[J].中国生态 农业学报,2015,23(8):1010-1019 Kou JT, Shi S L.2,4-epibrassinolide protection against root growth inhibition and oxidative damage of Medicago sativa L. seedling under NaCl stress[J]. Chinese Journal of EcoAgriculture,2015,23(8): 1010-1019   \n[5]赵金梅，周禾，郭继承，等．灌溉对紫花苜蓿生产性能的影 响[J]．草原与草坪,2007(1):38-41 Zhao J M,Zhou H,Guo J C,et al.Effect of irrigation on alfalfa productivity[J]. Grassland and Turf,2007(1): 38-41   \n[6] 赵金梅，玉柱，孙启忠，等．河西走廊紫花苜蓿干草调制技 术研究[J]．草地学报,2009,17(4):485-489 Zhao J M, Yu Z,Sun Q Z, et al. Study on the curing technology of alfalfa hay in Hexi Corridor area[J].Acta Agrestia Sinica,2009,17(4): 485-489   \n[7]寇江涛，师尚礼，王琦，等．垄沟集雨对紫花苜蓿草地土壤 水分、容重和孔隙度的影响[J]．中国生态农业学报，2011, 19(6): 1336-1342 Kou J T, Shi S L, Wang Q,et al. Effect of ridge/furrow rain harvesting on soil moisture,bulk density and porosity in Medicago sativa field[J]. Chinese Journal of Eco-Agriculture, 2011,19(6): 1336-1342   \n[8]Onishchuk O P, Vorob'ev NI,Provorov N A,et al. Symbiotic activity of alfalfa rhizobia (Sinorhizobium meliloti） strains with genetically modified transport of dicarboxylic acids[J]. Russian Journal of Genetics: Applied Research,2011,1(2): 89-96   \n[9]马孝慧，阿不来提·阿不都热依木，孙宗玖，等．氮、磷、钾、 硫肥对苜蓿产量和品质影响[J]．新疆农业大学学报，2005, nitrogen， pnospnorus, potassium and sulpnur Iertizer on alfalfa's yield and quality[J]. Journal of Xinjiang Agricultural University,2005,28(1):18-21   \n[10] 范富，张庆国，张永亮，等．施肥对紫花苜蓿根瘤的影响[J]. 农业网络信息,2006(7):96-98 FanF, Zhang QG Zhang YL,et al.Effect offertilization on alfalfa root nodule[J]. Agriculture Network Information, 2006(7): 96-98   \n[11] 鲁春霞，于云江，关有志．甘肃省土壤盐渍化及其对生态 环境的损害评估[J]．自然灾害学报,2001,10(1):99-102 Lu C X,Yu Y J,Guan Y Z. Soil salinization in Gansu Provinceand itseconomiclossevaluation ofecoenvironmental damages[J]. Journal of Natural Disasters,2001, 10(1): 99-102   \n[12] 李杰，李宗礼，黄高宝，等．基于节水型生态系统的干旱区 草地建设对策一 以民勤绿洲为例[J]．中国沙漠，2013, 33(1): 308-311 Li J,Li Z L,Huang G B,et al. Construction of grassland based on water-saving ecosystems in Arid Region - A case study in Minqin Oasis[J]. Journal of Desert Research,2013, 33(1): 308-311   \n[13] 李新乐，穆怀彬，侯向阳，等．水、磷对紫花苜蓿产量及水 肥利用效率的影响[J]．植物营养与肥料学报，2014，20(5): 1161-1167 Li X L,Mu H B,Hou X Y, et al. Effects of irrigation and phosphorus fertilization on alfalfa yield and water and fertilizer use efficiency[J]. Journal of Plant Nutrition and Fertilizer,2014,20(5): 1161-1167   \n[14]霍海丽，王琦，张恩和，等．灌溉和施磷对紫花苜蓿土壤 水分动态及根重的影响[J]．水土保持通报，2013，33(4): 159-165 Huo HL,Wang Q, Zhang E H,et al.Effect of irrigation and phosphorus supply on dynamic changes of soil moisture under alfalfa plant and root weight of alfalfa[J]. Bulletin of soil and water conservation,2013,33(4):159-165   \n[15]贺访印，王继和，胡明贵．河西走廊苜蓿产业的可持续发 展[J]．草业科学,2000,17(5):41-44 He F Y,Wang JH,Hu M G. Analysis of sustainable development ofalfalfa industry in Hexi Corridor[J]. Pratacultural Science,2000,17(5): 41-44   \n[16]王立耕，晁德林．甘肃河西走廊草业经济发展战略[C]/中 国草业发展论坛论文集．广州：中国草学会,2006 Wang L G, Chao D L. Strategy of pratacultural economy development in Hexi Corridor of Gansu[C]//Proceedings of Development of Prataculture in China. Guangzhou: Chinese Grassland Society,2006   \n[17]李新文，柴强．甘肃河西走廊灌溉农业水资源利用及其潜 力开发对策[J]．开发研究,2001(6):39-41 Li X W, Chai Q. Utilization and exploitation countermeasure of irrigated water resources of agriculture in Hexi Corridor of Gansu[J]. Research on Development, 2001(6): 39-41   \n[18]秦嘉海．河西走廊荒漠化土壤资源及生物改土培肥的效 应[J]．农村生态环境,2004,20(1):34-36 Qin JH. The resources of desertified soil and the effect of biological soil building measures in Hexi Corridor[J].Rural Eco-environment,2004,20(1):34-36   \n[19]郭正刚，王锁民，张自和．紫花苜蓿品种间根系发育过程 分析[J].应用与环境生物学报,2003,9(4):367-371 Guo Z G,Wang S M, Zhang Z H. Analysis of root system development process of several alfalfa (Medicago sativa) cultivars[J].Chinese Journal of Applied & Environmental Biology,2003,9(4): 367-371   \n[20] Saeed I A M,El-Nadi A H. Irrigation effects on the growth, yield,and water use efficiency of alfalfa[J].Irrigation Science, 1997,17(2):63-68   \n[21]张建波，白史且，张新全，等．紫花苜蓿根系与土壤物理性 质的关系[J].安徽农业科学,2006,34(14):3424-3425 Zhang JB,Bai SQ,Zhang XQ,et al.Relation of alfalfa root system and soil physical property[J].Journal of Anhui Agricultural Sciences,2006,34(14): 3424-3425   \n[22]孙洪仁，马令法，何淑玲，等．灌溉量对紫花苜蓿水分利用 效率和耗水系数的影响[J]．草地学报,2008,16(6):636-639 Sun HR,MaLF,He SL,et al.Effect of irrigation amount on water use efficiency and water consumption coefficient of alfalfa[J].Acta Agrestia Sinica,2008,16(6): 636-639   \n[23]李丽，李宁，盛建东，等．施氮量和种植密度对紫花苜蓿生 长及种子产量的影响[J]．草地学报,2012,20(1):54-57 Li L,Li N, Sheng JD,et al. Effects of nitrogen fertilizer and planting density on alfalfa growth and seed yield[J].Acta Agrestia Sinica,2012,20(1): 54-57   \n[24]蒯佳林，刘晓静，李文卿．不同氮素水平对接种根瘤菌 紫花苜蓿生长特性的影响[J]．草原与草坪，2011，31(3): 56-59 Kuai JL,Liu XJ,Li WQ.Effects of different nitrogen levels on the growth characteristics of alfalfa inoculated with rhizobium[J]. Grassland and Turf,2011,31(3): 56-59   \n[25]王丹，何峰，谢开云，等．施氮对紫花苜蓿生长及土壤氮含 量的影响[J].草业科学,2013,30(10):1569-1574 Wang D,He F,Xie K Y,et al. Effects of nitrogen application onalfalfa plant growth and soil nitrogen content[J]. Pratacultural Science,2013,30(10):1569-1574   \n[26] 春亮，李淑英，张怀文，等．紫花苜蓿生产中的产量、土壤 水分和养分动态[J]．华北农学报,2007,22(S1):144-147 Chun L,Li SY, Zhang HW,et al. Dynamic of yield of alfalfa, soil water and nutrient content in the production of alfalfa in Beijing[J]. Acta Agriculturae Boreali- Sinica,2007,22(S1): 144-147   \n[27]Gan Y T,Lafond G P,May W E.Grain yield and water use: Relative performance of winter vs. spring cereals in eastcentral Saskatchewan[J]. Canadian Journal of Plant Science, 2000,80(3): 533-541   \n[28]Howell T A.Enhancing water use efficiency in irrigated agriculture[J].Agronomy Journal,2001,93(2): 281-289   \n[29]王小燕，于振文．不同施氮量条件下灌溉量对小麦氮素吸收 转运和分配的影响[J]．中国农业科学,2008,41(10):3015-3024 Wang X Y, Yu Z W.Effect of irrigation rate on absorption and translocation of nitrogen under different nitrogen fertilizer rate in wheat[J]. Scientia Agricultura Sinica,20o8,41(10): 3015-3024   \n[30]曾长立，刘丽，王兴仁，等．氮肥施用对冬小麦土壤残留 NOj-N 含量及根系分布影响[J]．江汉大学学报：自然科学 版,2002,19(1): 82-85 Zeng C L,Liu L,Wang XR,et al.The effect of N fertilizer applied on the content of soil ${ \\bf N O } _ { 3 } ^ { - }$ -N remained and the space distribution of winter wheat roots[J]. Journal of Jianghan University: Natural Science,2002,19(1): 82-85   \n[31]王田涛，师尚礼，张恩和，等．灌溉与施氮对紫花苜蓿干草 产量及水分利用效率的影响[J].生态学杂志，2010,29(7): 1301-1306 Wang T T, Shi SL, Zhang E H,et al.Effects of irrigation and nitrogen fertilization on hay yield and water use efficiency of Medicago sativa[J]. Chinese Journal of Ecology,2010,29(7): 1301-1306   \n[32] 姜小凤，王淑英，丁宁平，等．施肥方式对旱地土壤酶活性 和养分含量的影响[J].核农学报,2010,24(1):136-141 Jiang X F,Wang S Y,Ding N P,et al.Effect of different fertilization on soil enzyme activity and nutrients[J].Journal ofNuclear Agricultural Sciences,2010,24(1):136-141   \n[33]尹辉，王琦，师尚礼，等．灌溉和施氮对种植第2年紫花苜 蓿产量、水分利用效率及土壤全氮含量的影响[J].草原与 草坪,2012,32(4): 1-7 Yin H,Wang Q，Shi SL,et al.Effect of irrigation and nitrogen supply levels on hay yield and water use efficiency and soil total nitrogen of Medicago sativa[J].Grassland and Turf, 2012,32(4): 1-7 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

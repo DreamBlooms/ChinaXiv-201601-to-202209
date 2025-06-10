@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "Dependency of litter decomposition on litter quality, climate change， and grassland type in the alpine grassland of Tianshan Mountains, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SU Yuan1\\*, GONG Yanming², HAN Wenxuan2.3, LI Kaihui2.4\\*, LIU Xuejun2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "l College of Grassland Science,Shanxi Agricultural University,Taigu O308O1, China;   \n2StateKey Laboratoryof Desert and Oasis Ecology，Xinjiang Instituteof Ecology and GeographyChinese Academyof Sciences,Urumqi 830011,China;   \n3Beijing Key LaboratoryofFarmland Soil Polution Preventionand Remediation,Colegeof Resources andEnvironmental Sciences, China Agricultural University,Beijing 1Oo193, China;   \n4Research Center for Ecology and Environment of Central Asia, Chinese Academyof Sciences,Urumqi 830011,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Liter decomposition is an important component of the nutrient recycling process and is highly sensitive to climate change. However, the impacts of warming and increased precipitation on liter decomposition have not been well studied,especially in the alpine grassand of Tianshan Mountains. We conducted a manipulative warming and increased precipitation experiment combined with different grassland types to examine the impact of liter quality and climate change on the liter decomposition rate based on three dominant species (Astragalus mongbolicus,Potentill anserina,and Festuca ovina) in Tianshan Mountains from 2019 to 2021. The results of this study indicated there were significant differences in liter quality,specific leaf area,and leaf dry mater content.In addition,litter quality exerted significant efects on liter decomposition,and the litter decomposition rate varied in different grassand types. Increased precipitation significantly accelerated the liter decomposition of $P .$ anserina; however,it had no significant effect on the litter decomposition of $A .$ mongbolicus and $F .$ ovina. However, warming consistently decreased the litter decomposition rate, with the strongest impact on the litter decomposition of $F .$ ovina. There was a significant interaction between increased precipitation and liter type, but there was no significant interaction between warming and litter type. These results indicated that warming and increased precipitation significantly influenced litter decomposition; however,the strength was dependent on liter quality. In addition, soil water content played a crucial role in regulating liter decomposition in diferent grassland types. Moreover, we found that the litter decomposition rate exhibited a hump-shaped or linear response to the increase of soil water content. Our study emphasizes that ongoing climate change significantly altered liter decomposition in the alpine grassland, which is of great significance for understanding the nutrient supply and turnover of litter. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: liter decomposition rate； liter quality; warming; increased precipitation; grassand type; Tianshan Mountains ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:SUYuan,GONGYanming,HANWenxuan,LIKaihui,LIUXuejun.2O22.Dependencyof iterdecompositionon literqualityclimatechange,andgrassandtypeinthealpine graslandofTanshanMountains,NorthwestChina.Jouralof Arid Land,14(6): 691-703.https://doi.0rg/10.1007/s40333-022-0096-7 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant liter decomposition is closely linked to terrestrial carbon (C) budgets and provides strong feedback on climate change and nutrient recycling (Bradford et al.,2O14).Liter decomposition is the major pathway to return $\\mathrm { C O } _ { 2 }$ to the atmosphere,accounting for approximately half of the $\\mathrm { C O } _ { 2 }$ (Couteaux et al.,1995),and releases nutrients that can be reused by plants (Parton et al., 2007). The majority of the studies on liter decomposition are primarily based on mesic temperate and tropical ecosystems; however, the important drivers of litter decomposition in dryland ecosystem remain completely unclear (Austin，2011； Huang et al.， 2017； Liu et al.， 2018).Therefore, understanding litter decomposition is vital to predicting liter-mediated C fluxes and nutrient budgets,especially in arid and semi-arid regions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The global average temperature has been estimated to increase by $0 . 7 4 ^ { \\circ } \\mathrm { C }$ by the end of this century due to the increase in the concentrations of greenhouse gases and this unprecedented global warming has resulted in huge changes in the precipitation conditions in terrestrial ecosystems (IPCC 2014). A previous study indicated that warming, increased precipitation, and litter quality significantly regulated litter decomposition in terrestrial ecosystems (Wu et al., 2020).Although several previous studies have examined the responses of litter decomposition to increased temperature,and the results indicated that warming increased (Moise and Henry 2014; Liu et al. 2017),slowed (Prieto et al., 2019; Hong et al., 2021),and had no effects ( $\\mathrm { \\Delta Y u }$ et al., 2019; Chuckran et al.,2O2O) on liter decomposition,depending on liter quality (Xu et al. 2012; Wu et al., 202O),ecosystem type (Aerts, 2006), warming method (open-top chamber or infrared heating)，and experimental duration (Wu et al.，2O2O). Therefore，evidence is required to investigate the response of litter decomposition to warming. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition, the increase of precipitation increased (Wang et al., 2O17;Liu et al.,2020), decreased (Wu et al.,202O),and did not influence (Zhao et al.,2013） litter decomposition in different grassland types. Moreover, the amount of precipitation could regulate the effect of warming on litter decomposition. For instance，warming generally tended to inhibit litter decomposition under lower precipitation conditions; however, it exerted no significant effect on litter decomposition under higher precipitation conditions (Liu et al.， 2O2O). In addition，a meta-analysis by aggregating global data revealed that warming generally decreased litter decomposition when the average annual precipitation was lower than $4 0 0 . 0 \\ \\mathrm {  m m }$ ；however, it significantly enhanced litter decomposition when the average annual precipitation was higher than $4 0 0 . 0 \\ \\mathrm {  m m }$ (Wu et al.，2O2O). Overall， these results suggested that the impact of increased precipitation on litter decomposition remains unclear, depending on the amount of precipitation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Warming or increased precipitation may interact with litter quality to influence litter decomposition. A previous study indicated that high-quality liter exhibited a stronger response to warming than low-quality litter (Liu et al., 2O17). Another study demonstrated that warming had no significant effect on the decomposition of low-quality litter and accelerated the decomposition of high-quality litter (Xu et al.，2O12).However, Hong et al. (2021） reported that littr type affected the response of litter decomposition to warming, with a stronger impact on lower-quality litter. The application of increased temperature in laboratory incubation experiments showed that warming had stronger impacts on the litter decomposition rate of Eriophorum vaginatum than that of Sphagnum palustre in the permafrost peatlands (Gao et al., 2O22). In addition, the increased precipitation significantly enhanced the litter decomposition of Agropyron cristatum after a three-year field incubation experiment; however, it did not influence the litter decomposition of Stipa krylovii and Artemisia frigida (Wang et al.， 2O17). Liu et al. (2006) reported that the addition of water increased the litter decomposition of Allium bidentatum, but had no significant effect on the litter decomposition of S. krylovi. These studies indicated a high uncertainty about how the interaction between warming or increased precipitation and liter quality affects litter decomposition; these interactions are still not completely understood. In addition, a recent study showed that the liter decomposition rate was almost three times faster in wetlands than in upland ecosystems (Xie et al.,2O19).These results indicated that many factors could interact with each other to influence litter decomposition. Therefore,the effect of litter quality,climate change,and ecosystem type,as well as their interaction during the decomposition process,still need to be investigated in the alpine grassland. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Bayanbulak grassland is a typical alpine grassland, where has experienced rapid warming $( 0 . 7 1 ^ { \\circ } \\mathrm { C } / 1 0$ a) and increased precipitation ( $2 6 . 8 ~ \\mathrm { m m } / 1 0$ a) since 1984 (Li et al., 2020). However, the effect of these changes on litter decomposition in this alpine grassland has not been studied so far.In this study，we hypothesized that（1） increased precipitation would promote litter decomposition and warming would inhibit liter decomposition, and (2） warming and increased precipitation would have different effects on litter decomposition of diferent plant species. Therefore， we conducted a manipulative warming and increased precipitation experiment combined with different grassland types to examine the dependency of liter decomposition on litter quality and climatic change based on three dominant species (Astragalus mongholicus, Potentilla anserina,and Festuca ovina) from 2O19 to 2021. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study was conducted at the Bayanbulak Grassland Ecosystem Research Station, Chinese Academy of Sciences $( 4 2 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { N }$ ， $8 3 ^ { \\circ } 4 2 ^ { \\prime } \\mathrm { E }$ . Bayanbulak alpine grassland is located in the southern Tianshan Mountains, Xinjiang Uygur Autonomous Region of China,and covers a total area of approximately $2 . 3 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ . The annual average temperature is $- 4 . 8 0 ^ { \\circ } \\mathrm { C }$ and the average annual precipitation is $2 8 2 . 3 ~ \\mathrm { m m }$ in the study area from 1980 to 2012 (Li et al.,2020). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study， four grassland types without significant human disturbance were selected including wetland, alpine meadow, alpine meadow steppe,and alpine steppe (Table S1). Detailed information has been provided in a previous study (Li et al., 2O2O).An area ( $( 5 0 . 0 \\ \\mathrm { m } { \\times } 5 0 . 0 \\ \\mathrm { m } )$ was fenced against grazing by large animals in each grassland type. In the fenced area, there were five plots established to perform liter decomposition experiment,and the area of each plot was 2.0 $\\mathrm { m } { \\times } 2 . 0 \\mathrm { m }$ ，with a buffer zone of $1 . 0 \\mathrm { m }$ between each plot. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The field manipulative experiment of warming and increased precipitation was established in August 2O19 in the alpine steppe (Site 2). The dominant species in the site is $F .$ ovina,and the subdominant speciesis $P .$ anserina and $A$ ，mongholicus.The treatment of field manipulative experiment included control, warming,and increased precipitation. Each treatment was arranged using a randomized block design with five replicates,resulting in 15 plots.Each plot ( $1 . 5 ~ \\mathrm { m } { \\times } 2 . 0$ m) was $1 . 5 \\mathrm { m }$ away from other plots in each block. For the warming treatment, the air temperature was warmed using open-top chambers (Wang et al.， 2O14)，which were hexagon chambers composed of six pieces of transparent plexiglass, each chamber with $1 . 2 \\mathrm { m }$ width at the top, $1 . 5 \\mathrm { m }$ width at the bottom, and $0 . 5 \\mathrm { { m } }$ high. The passive warming method with little effect on rainfall and snowfall interception is the favored option.For the treatment of increased precipitation, water was applied during the growing seasons from May to September in 2019-2O21. For each water application,the intercepted precipitation was collected using PVC tubes and transferred into plastic containers. At the beginning and end of each month, $4 5 \\mathrm { - L }$ water was added using a backpack sprayer to simulate an increase in the average precipitation by $50 \\%$ of the corresponding long-term average precipitation ( $3 0 0 \\mathrm { m m } ,$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Measurement of litter decomposition ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In mid-August 2O19,we collected the aboveground litter of $A$ .mongholicus, $P .$ anserina,and $F .$ （204号 ovina from the alpine steppe Site 2. After being dried to constant mass,they were cut into fragmentsof $5 \\mathrm { c m }$ inlength,and placed into $2 0 \\mathrm { c m } { \\times } 2 5$ cmpolyethylene litterbags( $_ { ( 0 . 5 - \\mathrm { { m m } } }$ mesh) (Wei et al.，2O22)，each litterbag containing $_ \\textrm { 4 g }$ of dried litter material. Each treatment plot contained 25 litterbags of the same species. We manually fixed these literbags to the soil surface using small nails to ensure that the litterbags were in contact with the soil surface throughout the experimental period. A total of 6Oo literbags were prepared and deployed to the treatment plots in September 2019. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The remaining litter was retrieved 8,10,12,20,and 24 months after the initial deployment of litterbags.For each sampling,five litterbags of each species from each treatment plot were collected. In the laboratory，fresh litter and rocks were handpicked from the literbags.The retrieved litter was then oven-dried at $7 0 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { ~ h ~ }$ to determine the dry mass of litter remaining after carefully removing the soil particles with a brush and fresh plants by hand.We calculated the rate of litter remaining according to the following formula: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL R = \\frac { m _ { t } } { m _ { 0 } } { \\times } 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $L R$ is the rate of litter remaining, $m _ { t }$ is the remaining litter mass after a given time period $t$ (g), and $m _ { 0 }$ is the initial litter mass (g). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Physical and chemical analyses of litter quality and soil properties ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Specific leaf area (SLA) and leaf dry matter content (LDMC) were measured by leaf area meter (LI-3000,LI-COR,Lincoln, USA) and electronic balance, respectively. The SLA was calculated as: SLA $( \\mathrm { c m } ^ { 2 } / \\mathrm { g } ) { = }$ leafarea $( \\mathrm { c m } ^ { 2 } )$ )/leaf weight (g). The LDMC was calculated using $\\scriptstyle \\mathrm { L D M C } ( \\mathrm { g / g } ) =$ dryleaf weight (g)/fresh leaf weight (g). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Surface soil $( 0 { - } 1 0 ~ \\mathrm { c m } )$ was randomly sampled in each plot in October 2018,May 2O19,and August 2019,and sieved with a $2 \\mathrm { - m m }$ mesh. Soil samples were dried at $6 5 ^ { \\circ } \\mathrm { C }$ until they reached a constant weight, and then the soil water content (SWC; $\\%$ ）wasmeasured byweight.Soil $\\mathrm { p H }$ was measure by a $\\mathrm { p H }$ meter. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The initial litter and soil were ground into fine powder by a ball mill. The concentrations of litter total C (litter C), litter total nitrogen (N) (liter N),soil total C (STC),and soil total N (STN) were analyzed using elemental analyzer (24Oo II CHN Elemental Analyzer， Analytik Jena, Germany),and the concentrations of litter total phosphorus (P) (litter P) and soil total P (STP) were measured using continuous flow analyzer (AA3， Seal Analytical， Germany). The concentrations of lignin,hemicellulose,and cellulose in liter were determined using the Van Soest method(Van Soest and Wine, 1968). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We calculated the litter decomposition rate using the following exponential function (Olson, 1963): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { m _ { t } } { m _ { 0 } } = { \\tt e } ^ { - k t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $k$ is the litter decomposition rate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Levene's test was used to test the normality of all data before statistical analysis. Two-way analysis of variance (ANOVA) was used to assess the effects of litter quality and grassland type combined with warming or increased precipitation on the litter decomposition rate. Significant differences among treatments were analyzed using Tukey's multiple comparison post-hoc test and one-way ANOVA with a confidence level of $P { < } 0 . 0 5$ . In addition,regression analysis was used to examine the relationship between SWC and the litter decomposition rate. All statistical analyses were conducted using SPSS 23.0 (IBM SPSS, Chicago, Illinois, USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Soil properties and initial litter quality ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Significant differences in STC, STN, STP, soil $\\mathsf { p H }$ ,and SWC were found in different grassland types(Table 1). STC was $1 6 7 . 9 9 ~ \\mathrm { m g / g }$ in wetland,which was significantly higher than that in other grassland types. STN was higher in wetland and alpine meadow than that in alpine meadow steppe and alpine steppe. The highest STP was found in wetland and the lowest value in alpine meadow steppe; however, there was no significant difference in alpine meadow and alpine steppe. In addition， SWC varied greatly among different grassland types， with the highest value in wetland. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There were significant differences in initial litter quality among the three species (Fig. 1). A. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mongholicus had higher liter N, litter P, SLA,and lignin, but it had lower C:N ratio, C:P ratio, the ratio of lignin to litter N,and LDMC.F. ovina had lower liter N,litter P,and SLA,but it had higher LDMC,cellulose,hemicellulose,and the ratio of lignin to liter N.P. anserina had the lowest value of cellulose,hemicellulose,and N:P ratio. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/957c8f77ac4524eaf00645f144e035b462d00aac2d84791c171582ec42f46d16.jpg",
+        "table_caption": [
+            "Table1Soil properties in different grassland types "
+        ],
+        "table_footnote": [
+            "Note:STC,soilotalbo;,ilotalroen;,oilotalousC,olateoetetloa indicate significantdifferencesamongthe grasslandtypes.Mean $\\pm \\mathrm { S E }$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Wetland</td><td>Alpinw</td><td>meadowsteppe</td><td>Alpinesteppe</td><td>Alpinetepe</td><td>Alpiniesppe</td></tr><tr><td>STC (mg/g)</td><td>167.99±2.07a</td><td>136.91±3.23b</td><td>69.29±0.31c</td><td>45.47±1.27d</td><td>49.17±1.16d</td><td>47.45±2.24d</td></tr><tr><td>STN (mg/g)</td><td>8.42±1.27a</td><td>8.46±0.41a</td><td>4.99±0.24b</td><td>4.30±0.11b</td><td>3.98±0.36b</td><td>4.15±0.47b</td></tr><tr><td>STP (mg/g)</td><td>1.21±0.06a</td><td>0.82±0.01b</td><td>0.70±0.08c</td><td>0.81±0.10b</td><td>0.94±0.12b</td><td>0.88±0.09b</td></tr><tr><td>Soil pH</td><td>7.67±0.02c</td><td>6.86±0.01d</td><td>7.87±0.04b</td><td>7.99±0.03a</td><td>7.85±0.13a</td><td>7.88±0.19a</td></tr><tr><td>SWC (%)</td><td>79.67±3.80a</td><td>56.17±2.41b</td><td>35.17±0.60c</td><td>15.67±0.88d</td><td>3.41±0.57f</td><td>5.52±0.39e</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "300 600 (a) ab a b 8 24 (b) a b C 42 3.0(c) a b C Titeo 551(d) 43 C b a ND 22   \n150 11   \n0 0 0.0 0   \n. mongholicus P.anserina F.ovina A. mongholicus P. anserina ovina A. mongholicus P.anseri rina F.ovina A. mongholicus P.anserina ovina   \n400 (e) a 12, (f) 361 (g)a 0.61 (h) a C b Nrer 8 a C b vs b b C C 4 0.2   \n100   \n0 0 0 0.0   \n1.mongholicus anserina F.ovina A. mongholicus P.anserina F.ovina A. mongholicus P.anserina F.ovina A. mongholicus P.anserina F.ovina P.   \n12 (i) a 40 (i) b a (%) 40 (k) a Hergroner 0.6 (1) b a a b 04 C 20 20 b   \n4 10 10 C   \n0 0 0 0.0   \nA. mongholicus P.anserina F.ovina A. mongholicus P.anserina F.ovina A. mongholicus P.anserina F. ovina A. mongholicus P.anserina F. ovina Species Species Species Species ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Litter decomposition rate in different grassland types ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grassland type and liter type,as well as their interaction，significantly influenced the litter decomposition rate (Figs.2 and 3). Overall, the litter decomposition rate of $A$ . mongholicus was the fastest, and the litter decomposition rate of $F$ 、ovina showed the slowest. In addition,results indicated that the litter of $F .$ ovina decomposed the fastest in wetland; however, the litter of $P$ anserina decomposed faster in alpine meadow steppe than in other grassland types. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The litter decomposition rates of $A$ . mongholicus and $P$ . anserina exhibited a hump-shaped response to the increase of SWC and reached the peak at the medium level of SWC (Fig. 4). Furthermore,a significant positive relationship was observed between the litter decomposition rate of $F$ .ovina and SWC (Fig. 4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b67bc9185c4c09934e91da389b089ee0841cb3f712efcbb4bf82a3ee3c3241f8.jpg",
+        "img_caption": [
+            "Fig.2Rate of litter remaining of $A$ .mongholicus (a), $P .$ anserine (b),and $F .$ ovina (c) in different grassland types at 0,8,10,12,20,and 24 months after the litterbags deployment "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2799e5355517a94d9d667fcf7fb91483e19f9d6418322f45d50ddd052331b4f3.jpg",
+        "img_caption": [
+            "Fig.3Litter decomposition rate of A.mongholicus,P. anserina,and $F .$ ovina in different grassland types. Different lowercase leters indicate significant diffrences among the three species in the same grassland $_ { ( P < 0 . 0 1 ) }$ ,and different capital lettrs indicate significant diffrences among grassland types for the same species $( P { < } 0 . 0 1 )$ . Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/21a8e42283a1bebf657acff77e3d52ae54a8d578f639c5b141c06bae6428ba5a.jpg",
+        "img_caption": [
+            "Fig.4Effect of soil water content (SWC)on the litter decomposition rate of A.mongholicus (a),P.anserina (b), and $F .$ ovina (c) .Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Effect of increased precipitation and warming on the litter decomposition rate ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Litter type and increased precipitation, and their interaction significantly influenced the litter decomposition rate； however, no significant interaction was observed between litter type and warming (Figs.5 and 6). Warming significantly slowed the litter decomposition rate; however, the magnitude of reduction varied among the three species (Fig. 5, Fig. 6).However, increased precipitation produced variable effects on the liter decomposition rate,with an increase in forbs litter and neutral effects for grass and legume litters. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7e01a2fb7cec33943847ee56980dbf792ef51b316d0d9ffd1a51080951f3276.jpg",
+        "img_caption": [
+            "Fig.5Rate of litter remaining of $A$ .mongholicus (a), $P .$ anserine (b),and $F .$ ovina (c) under different trearments at 0,8,10,12,20,and 24 months after the litterbags deployment "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c9d67bc4c8bc530f2c6c565d4024994e6f35c877d13a4416e3fec772d40ba7a.jpg",
+        "img_caption": [
+            "Fig.6Effects of diferent treatments on the liter decomposition rate of A.mongholicus,P.anserina,and $F .$ ovina.Diferent lowercase lettrs indicate significant diffrences among the three species under the same treatment $_ { ( P < 0 . 0 1 ) }$ ,and different capital letters indicate significant differences among treatments for the same species $( P { < } 0 . 0 1 )$ .Bars mean standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Climate change have significantly influenced litter decomposition in the alpine grassland. Warming has been reported to exert inconsistent effects on litter decomposition； however, increased precipitation tended to increase liter decomposition (Table S2),which was consistent with previousstudiesstating that increased precipitation consistentlypromoted litter decomposition. However, Hong et al. (2O21） reported that warming significantly reduced litter decomposition in a single alpine grassland.In contrast, Yin et al. (2O22） stated that warming profoundly increased liter decomposition. These results suggested that the effect of warming on liter decomposition varied greatly in diferent grassland types. In addition,our results indicated that the impacts of increased precipitation on liter decomposition were highly related to SWC. Interestingly， the litter decomposition rates of A. mongholicus and $P .$ anserina exhibited a hump-shaped response to the increase of SWC; however, the liter decomposition rate of $F .$ ovina significantly increased with the increase of SWC. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1Impact of litter quality on the litter decomposition rate ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have indicated that there was significant relationship between the litter decomposition rate and initial litter quality,such as liter N, lignin, C:N ratio,and the ratio of lignin to litter N (Knorr et al.,2005; Veen et al.,2015; Zhang et al.,2016; Zhou et al.,2019). In addition, our results support most previous findings; high-quality liter, such as higher liter N and lower the ratio of lignin to litter N,usually had a rapid litter decomposition rate (Veen et al., 2015).A significantly positive correlation was observed between lignin and the litter decomposition rate in our study, suggesting that lignin content alone could not beter predict the litter decomposition rate in the alpine grassland. In addition, a previous study reported that lignin or the ratio of lignin to litter N exerted different control on the litter decomposition rate among different sites and these differences were significantly correlated with the initial soil N concentration (Aber et al.,198O; Melillo et al.,1982). However, liter P and their stoichiometric ratio varied highly and significantly influenced the litter decomposition rate, which was consistent with previous studies that the liter decomposition rate was inversely related to C:P ratio (Manzoni et al.,201O; Chen et al.,2016). In addition, SLA and LDMC also played an important role in regulating the litter decomposition rate,which had been demonstrated by Bakker et al. (2011), Zhang et al. (2O16) and de la Riva et al. (2O19); they found that the litter decomposition rate was significantly positively and negatively correlated with SLA and LDMC, respectively, implying that litter decomposed faster with higher SLA and lower LDMC. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2Impact of increased precipitation on the litter decomposition rate ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After a two-year field manipulative experiment, we concluded that increased precipitation during the growing season accelerated the litter decomposition rate. Litter decomposition of $F .$ ovina was significantly stimulated under the treatment of increased precipitation; however, no effects were observed in litter decomposition of A. mongholicus and $P .$ anserina (Fig. 6). Previous numerous studies have reported that increased precipitation promoted litter decomposition (Prieto et al., 2019; Liu et al.,2O2O) or had no significant impact on litter decomposition (Liu et al.,2OO6; Zhao et al., 2013).Even in a single system, increased precipitation produced variable effects; it increased and did not significantly affect the litter decomposition rate (Liu et al., 2O06; Schuster et al.,2016). These results supported our study results and reflected the crucial role of precipitation in the litter decomposition process in arid and semi-arid regions.In addition,the litter decomposition rate decreased from higher SWC (wetland） to lower SWC (alpine steppe)， indicating that litter decomposition was limited by soil water availability. Furthermore,we observed that the litter decomposition rates of $A$ . mongholicus and $P .$ anserina exhibited a hump-shaped response to the increase of SWC (Fig. 4). This could be related to a larger SLA of the two species, which was better for water retention, and inhibited microbial decomposition under higher SWC in wetland (Song et al.，2011). In addition,a previous study indicated that waterlogging conditions significantly decreased microbial activity and inhibited litter decomposition (Song et al.,2O11),and changes in water chemistry affected litter decomposition (Warrinnier et al.，2O2O).Furthermore，oxygen availability significantly affected litter decomposition, the litter decomposition rate decreased when SWC increased due to a reduction in oxygen-based processes in wetlands (Bragazza et al., 2016). Therefore, changes in litter quality and SWC may have interactive or complex effects on litter decomposition,and more experimental evidence is required to verify this point.A previous study has demonstrated that drought treatment significantly inhibited litter decomposition, with a stronger effect on low-quality litter (Sanaullah et al.，2O11). In addition, the results of a meta-analysis showed that the effect of increased precipitation on litter decomposition varied highly with experimental duration, litter quality,and amounts of precipitation, and produced an insignificant increase in litter decomposition in grassland (Wu et al., 2020). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3Impact of warming on the litter decomposition rate ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Warming significantly influenced the litter decomposition rate in this study.These diferential responses were likely attributed to the intensity of warming. In a recent study, warming reduced the moisture content of surface soil $( 0 { - } 1 0 \\mathrm { c m } )$ by $5 \\%$ (Gong etal.,2O21),which probably decreased the activity of soil enzymes and inhibited microbial involvement in liter decomposition (Li et al., 2022).A recent study reported that the litter decomposition rate was significantly reduced by warming treatment in alpine steppe (Hong et al.，2O21). This suggested that warming did not necessarily accelerate liter decomposition even in alpine grassand. Warming produced an increase in litter decomposition when the average annual precipitation is greater than $4 0 0 . 0 \\ \\mathrm { m m }$ Inversely, warming reduced litter decomposition when the average annual precipitation is less than $4 0 0 . 0 \\ \\mathrm { m m }$ (Wu et al., 2O2O). In addition, previous studies showed that warming promoted litter decomposition only when soil moisture was not the limiting factor (Aerts,2Oo6). These results indicated that soil water availability regulated the impact of warming on litter decomposition in drylands. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition, the impact of warming on the litter decomposition rate was dependent on litter quality ( $\\mathrm { \\Delta X u }$ et al.,2012; Liu et al.,2020; Wu et al.,2020).We reported that the litter decomposition rate of $F .$ ovina decreased by $20 \\%$ and the litter decomposition rates of A. mongholicus and $P .$ （204号 anserina decreased by $14 \\%$ ，indicating that litter quality controlled the response of litter decomposition to warming. The results of Hong et al. (2O21) revealed that litter type significantly affected the response of litter decomposition to warming，with a stronger impact on low-quality liter. However， another study reported that warming exerted a stronger efect on the decomposition rate of high-quality liter than on low-quality liter (Liu et al.,2O17). A recent study observed that the littr decomposition rate increased with increase of temperature; however, the intensity of the impact depended on litter quality and the increase of temperature (Huang et al., 2021), indicating that liter quality and warming interactively affected liter decomposition. After two-year field manipulative experiment, litter decomposition was significantly reduced by short-term warming,which was not consistent with the result that warming exerted limited effects on litter decomposition during the first two years and significantly inhibited liter decomposition in the last three years (Hong et al.，2O21).In addition,the intensity of warming influenced litter decomposition; the liter decomposition rate was not influenced by the temperature of less than $5 ^ { \\circ } \\mathrm { C }$ but was inhibited by the temperature of greater than $5 ^ { \\circ } \\mathrm { C }$ (Wu et al.， 2020). Overall, the response of liter decomposition to warming was complex and regulated by experimental duration, litter quality, SWC,and intensity or way of warming, as well as their interactions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A two-year field manipulative experiment was conducted to examine the impact of climate change (warming and increased precipitation) and litter quality on the liter decomposition rate of three dominant plant species in the alpine grassland of Tianshan Mountains,Northwest China. Results indicated that warming significantly slowed litter decomposition and increased precipitation accelerated litter decomposition,however, the intensity of the impact depended on litter type. In addition, changes in grassland type notably influenced litter decomposition, with the litter decomposition rate exhibiting a hump-shaped or linear response to the increase of SWC. SWC played a crucial role in regulating liter decomposition in different grassland types. Our results suggested that ongoing climate change significantly altered litter decomposition in the alpine grassland of Tianshan Mountains. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study was financially supported by the National Natural Science Foundation of China (32101345).We appreciate all the staff who provided help in the field experiment of the Bayanbulak Grassland Ecosystem Research Station,Chinese Academy of Science.In addition,we would like to thank allthe reviewers whose insightful comments and suggestions greatly improved this manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AberJD,MelillJM.198o.Literdecomposition:measuringrelativecontributionsoforganic materand nitrogentoforest ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aerts R.206.Thefrezer defrosting:global warmingandliterdecompositionrates incold biomes.JournalofEcology,94(4): 713-724.   \nAustinAT.2O11.Haswaterlimitedourimagination forarid land biogeochemistry?Trends inEcologyandEvolution,6(5): 229-235.   \nBaker MA,Carreno-RocabadoG,PoorterL.2O11.Leaf economics traits predict literdecompositionof tropical plantsand differ among land use types. Functional Ecology,25(3): 473-483.   \nBradford MA,Warrn IRJBaldrianP,etal2O14.Climatefails topredict wooddecompositionatregional scales.Nature Climate Change,4(7): 625-630.   \nBragazza L,Butler A,Robroek B JM,et al.2016.Persistent high temperatureand low precipitation reduce peatcarbon accumulation. Global Change Biology,22(12): 4114-4123.   \nChenY,SayerEJ,LiZA,etal.26.utrientliitationofwoodydebrisdecompositioninatropicalforest:contrastigefects of N and P addition. Functional Ecology,30: 295-304.   \nChuckranPF,ReiboldR,Throop HL,etal.2O20.Multiple mechanismsdetermine theefectof warmingonplantlitter decomposition inadryland.Soil Biologyand Biochemistry,145:107799,doi:10.1016/j.soilbio.2020.107799.   \nCouteaux MM,BotterP,BergB.1995.Literdecomposition,climateand literquality.Trends inEcologyandEvolution, 10(2): 63-66.   \nde la RivaEGPrietoI, VillrR.0l9.Theleafeconomicspectrumdrives leafliterdecompositioninMediterraneaforests. Plant and Soil,435: 353-366.   \nGao SQ,Song Y Y,Song CC,etal.2O22.Efectsof temperature increaseand nitrogenaddition on theearlyliter decomposition in permafrost peatlands. CATENA,209:105801,doi: 10.1016/j.catena.2021.105801.   \nGong Y M, Yue P,Li KH, et al.2021.Different responses of ecosystem $\\mathrm { C O } _ { 2 }$ and ${ \\bf N } _ { 2 } \\mathrm { O }$ emissions and $\\mathrm { C H } _ { 4 }$ uptake to seasonally asymmetric warming in an alpine grassand of the Tianshan. Biogeosciences,18: 3529-3537.   \nHongJT,LuXY,MaXX,etal.2O21.Five-yearstudyontheeffctsofwarmingandplantliterqualityoniterdecomosition rate ina Tibetanalpine grassland.Science ofThe Total Environment,750:142306,doi:10.1016/j.scitotenv.2020.142306.   \nHuang F,Ding XX,Li WW,etal.2O21.The efectof temperatureonthedecompositionofdifferentpartsof maizeresiduesin a solonchak. CATENA,201: 105207,doi: 10.1016/j.catena.2021.105207.   \nHuang GLiY2Ol7.Photodegradationefectsarerelated toprecipitationamount,precipitation frequencyandlitertraits ina desert ecosystem. Soil Biology and Biochemistry,115:383-392.   \nIPCC.2014.Mitigation of Climate Change.Working Group II Contribution to the Fifth Assssment Report of the IntergovernmentalPanelon ClimateChange.In:EdenhoferO,Pichs-MadrugaR,SokonaY,etal.CambridgeandNewYork: Cambridge University Press,151.   \nKnorrM,FreySD,CurtisPS.2O5.Nitrogenadditioandliterdecomposition:Ameta-analysis.Eology,86(12):252257.   \nLiKH,LiuXJ,HuYK,etal.2020.Long-term increasingproductivityof high-elevationgrassandcausedbyelevated precipitation and temperature. Rangeland Ecology and Management,73: 156-161.   \nLi Y,Gong JR,ZhangZH,etal.2O22.Grazingdirectlyorindirectlyafectshootandrootliterdecompositionidirent decomposition stage by changing soil properties. CATENA,209: 105803,doi: 10.1016/j.catena.2021.105803.   \nLiu GF,WangL,JiangL,etal.2O18.Specific leaf area predictsdrylandliterdecompositionviatwo mechanisms.Jouralof Ecology,106: 218-229.   \nLiu HY,Lin L,Wang H,etal.2O2o.Simulating warmeranddrier climate increasesroot productionbut decreasesroot decomposition in an alpine grassland on the Tibetan plateau.Plant and Soil, 458:59-73.   \nLiuJX,LiuSG,LiYY,etal.20l7.Warmingeffectsonthedecompositionoftwoliterspecies inmodelsubtropicalforests. Plant and Soil, 420: 277-287.   \nLiuP,HuangJH,HanXG,etalO6.Diferentialresponsesof iterdecompositiontoincreasedsoilutrientsandwater between two contrasting grassland plant species of Inner Mongolia, China. Applied Soil Ecology,34: 266-275.   \nManzoni S,TrofymowJA,JacksonRB,etal.2O1o.Stoichiometricontrolsoncarbon,ntrogen,andphosphorusdyamicsin decomposing litter. Ecological Monographs,80:89-106.   \nMelilloJM,Aber JD,Muratore JF1982.Nitrogenand lignin control of hardwood leaf liter decomposition dynamics. Ecology,63(3): 621-626.   \nMoiseER,HenryHA.2014.Interactiveresponses of gras literdecompositionto warming,nitrogenaditionanddetritivore access in a temperate old field. Oecologia,176(4): 1151-1160.   \nOlson JS.1963.Energy storageand the balance of producers and decomposers in ecologicalsystems.Ecology,44:322-331.   \nPartonW,Silver WL，Burke IC,etal.2Oo7.Global-scalesimilaritiesin nitrogenrelease paterns during long-term decomposition. Science,315: 361-364.   \nPrieto I,AlmagroM,BastidaF,etal.2O19.Altered leaf literquality exacerbatesthenegative impactofclimatechangeon decomposition. Journal of Ecology,107: 2364-2382.   \nSanaullah M,Rumpel C,CharierX,etal.2Ol1.Howdoes droughtstress influence thedecompositionof plant liter with contrasting quality in a grassland ecosystem?Plant and Soil,352: 277-288.   \nSchusterMJ,KreylingJ,BerwaersS,etal.2Ol6.Droughtinhibitssynergistic interactionsofnativeandexotic literiturs during decomposition in temperate grasslands.Plant and Soil,415: 257-268.   \nSong CC,LiuDY,YangGS,etal.2O11.EfectofitrogenadditionondecompositionofCalamagrostisangustifolialters from freshwater marshes of Northeast China. Ecological Engineering,37:1578-1582.   \nVan SoestPJ,WineRH.1968.Determinationofligninandcellulose inacid-detergentfiber with permanganate.Jourmalof the Association of Official Analytical Chemists,51(4):780-785.   \nVeen GFC,SundqvistMK,WardleDA,etal.2O15.Environmentalfactorsand traits thatdrive plant iterdecompositiondo not determine home-field advantage effects.Functional Ecology,29: 981-991.   \nWangXX,DongSK,GaoQZ,etal.2014.Effectsofshort-termandlong-term warmingonsoilnutrients,microbialbiomasnd enzyme activities inanalpine meadowonthe Qinghai-TibetPlateauofChina.SoilBiologyand Biochemistry,76:140-142.   \nWang X,XuZW,LuXT,etal.2Ol7.Responsesofliterdecompositionandnutrientreleaseratetowaterandnitrogenaddition differed among three plant species dominated in a semi-arid grassland.Plant and Soil,418: 241-253.   \nWarrinierR,BossuytS,ResseguierC,etal.22.Anerobicrespirationintheunsaturatedzoneofagriculturalsoilmobilizes phosphorus and manganese.Environmental Science and Technology,54(8): 4922-4931.   \nWeiB,ZhangDYKouD,etal.O22.Decreasedultravioletradiationandecomposerbodversityihbitliterdecooiion under continuous nitrogen inputs.Functional Ecology,36(4): 998-1009.   \nWu Q Q,Yue K,Wang XC,etal.2O20.Diferential responses of litter decomposition to warming,elevated $\\mathrm { C O } _ { 2 }$ ,and changed precipitation regime.Plant and Soil,455:155-169.   \nXieYJ,XieYH,XiaoHY.2019.Differential responsesof literdecomposition toclimate between wetlandandupland ecosystems in China.Plant and Soil,44O:1-9.   \nXu ZF,Pu XZYinHJ,etal.2O12.Warmingefectsontheearlydecompositionof threelitertypes,Easte TibetanPlateau, China.European Journal of Soil Science,63:360-367.   \nYinR,Qin WK,Zhao HY,et al.2022.Climate warming inanalpine meadow:diferentialresponsesof soilfaunalvs. microbial effects on litter decomposition.Biology and Fertility of Soils,58: 509-514.   \nYu XF,GuoJW,LuXG,etal.2O19.Comparativeanalysesof wetlandplantbiomassaccumulationandliterdecomposition subject to in situ warming and nitrogen addition.Science of The Total Environment,691: 769-778.   \nZhao HM,HuangG,MaJ,etal.2Ol3.Responsesofsurfaceliterdecompositiontoseasonal wateradditionindesert.Chiese Journal of Plant Ecology,36(6): 471-482.(in Chinese)   \nZhang WD,ChaoL,Yang QP,etal.2Ol6.Literqualitymediated nitrogeneffectonplantliterdecompositionregardlessof soil fauna presence.Ecology,97(10): 2834-2843.   \nZhouGY,XuS,CiaisP,etal0l9.ClimateandliterC/Nratioconstraisoilorganiccarbonaccumulation.NationalScience Review, 6(4): 746-757. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f4fc74ef23037e1030799955a569019600aed9260d8ca9939d25277c058ea5c.jpg",
+        "table_caption": [
+            "Table S1 Characteristics of different grassland types in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Grassland type</td><td>Dominant species</td><td>Altitude (m)</td><td>Longitude</td><td>Latitude</td><td>Species richness</td><td>Aboveground biomass (g/m²)</td></tr><tr><td>Wetland</td><td>Carex stenocarpa</td><td>3260</td><td>83°42'11\"E</td><td>42°52'48\"N</td><td>11.8±1.0</td><td>65.7±12.8</td></tr><tr><td>Alpine</td><td>Crex stencpitgand</td><td>3160</td><td>83°35'34\"E</td><td>42°53'24\"N</td><td>12.1±2.4</td><td>103.3±18.2</td></tr><tr><td>meadow steppe</td><td>Carexesta capitg and</td><td>2960</td><td>83°22'18\"E</td><td>42°54'21\"N</td><td>9.5±1.5</td><td>59.5±10.1</td></tr><tr><td>Alpiniesteppe</td><td>Festuca ovina</td><td>2460</td><td>83°02'36\"E</td><td>42°54'57\"N</td><td>8.5±1.5</td><td>65.2±20.2</td></tr><tr><td>Alpine steppe</td><td></td><td></td><td>83°03'12\"E</td><td>42°54'27\"N</td><td>7.8±1.3</td><td>52.5±17.6</td></tr><tr><td>(Site 2) Alpinetsppe</td><td>Festuca ovina Festuca ovina</td><td>2560 2660</td><td>8306'43\"E</td><td>42°54'28\"N</td><td>8.7±1.2</td><td>48.4±10.1</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/0de16091716c163d7ca4c79ebaefaf947972472fa4976113d68b77aea80d0e13.jpg",
+        "table_caption": [
+            "Table S2Summary of the efects of warming and increased precipitation on litter decomposition from field experiments in different grassland types "
+        ],
+        "table_footnote": [
+            "Note: $\" + \"$ ,\"-\",and\"no\"intherowof effectindicatethatthereare increase,decrease,andnosignificantrelationships betweenthe treatment and litter decomposition,respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Treatment intensity</td><td>Effect</td><td>Grassland type</td><td>Precipitation (mm)</td><td>Reference</td></tr><tr><td>Open-top chamber</td><td>2.00℃</td><td>1</td><td>Alpine grassland</td><td>300</td><td>Hong et al. (2021)</td></tr><tr><td>Open-top chamber</td><td>2.50C</td><td>1</td><td>Semiarid shrubland</td><td>358</td><td>Prieto et al. (2019)</td></tr><tr><td>Open-top chamber</td><td>No data</td><td>1</td><td>Semiarid grassland</td><td>425</td><td>Li et al. (2021)</td></tr><tr><td>Infrared heater</td><td>0.00C-4.00C</td><td>+</td><td>Alpine grassland</td><td>406</td><td>Lv et al. (2020)</td></tr><tr><td>Infrared heating</td><td>1.20℃-1.70C</td><td>+</td><td>Alpine grassland</td><td>500</td><td>Luo et al. (2010)</td></tr><tr><td>Wave heater</td><td>1.50℃-1.80℃</td><td>-/no</td><td>Alpine grassland</td><td>489</td><td>Liu et al. (2020)</td></tr><tr><td>Open-top chamber</td><td>1.00C-2.00℃</td><td>1</td><td>Dry tundra</td><td>No data</td><td>Christiansen et al. (2017)</td></tr><tr><td>Open-top chamber</td><td>2.00℃C</td><td>no</td><td>Wet grassland</td><td>561</td><td>Yu et al. (2019)</td></tr><tr><td>Open-top chamber</td><td>1.00C-2.00℃</td><td>no</td><td>Alpine grassland</td><td>593</td><td>Shu et al. (2019)</td></tr><tr><td>Open-top chamber</td><td>1.20℃-1.30C</td><td>+</td><td>Subalpine forest</td><td>801</td><td>Xu et al. (2015)</td></tr><tr><td>Open-top chamber</td><td>1.10C</td><td>1</td><td>Arid alpine system</td><td>327-456</td><td>Brigham et al. (2018)</td></tr><tr><td>Open-top chamber</td><td>3.20C</td><td>+/no</td><td>Subalpine forest</td><td>801</td><td>Xu et al. (2012)</td></tr><tr><td>Infrared heat</td><td>2.50C</td><td>no</td><td>Dry grassland</td><td>241</td><td>Chuckran et al. (2020)</td></tr><tr><td>Reduced precipitation</td><td>30% total annual precipitation</td><td>1</td><td>Semiarid shrubland</td><td>358</td><td>Prieto et al. (2019)</td></tr><tr><td>Reduced precipitation</td><td>No data</td><td>-/no</td><td>Temperate grassland</td><td>654-787</td><td>Schuster et al. (2016)</td></tr><tr><td>Enhanced precipitation</td><td>30% total annual precipitation</td><td>no</td><td>Desert grassland</td><td>70-150</td><td>Zhao et al. (2013)</td></tr><tr><td>Enhanced precipitation</td><td>50% total annual precipitation</td><td>+</td><td>Alpine grassland</td><td>489</td><td>Liu et al. (2020)</td></tr><tr><td>Enhanced precipitation</td><td>30% total annual precipitation</td><td>+/no</td><td>Typical grassland</td><td>385</td><td>Liu et al. (2006)</td></tr><tr><td>pEecipitatdn</td><td>50% topalaional</td><td>+/no</td><td>Typical grassland</td><td>379</td><td>Wang et al. (2017)</td></tr><tr><td>pEenhpitatdn</td><td>nnua-10ecipitataln</td><td>+</td><td>Alpine grassland</td><td>406</td><td>Lv et al. (2020)</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "BrighamLM,EschEH,KoppCW,etal.Ol8.Warmingandshrubencroachmentdecreasedecompositioninridalpineand subalpine ecosystems.Arctic,Antarctic,and Alpine Research,50(1): e1494941,doi:10.1080/15230430.2018.1494941. Christiansen CT,HaugwitzMS,PriemeA,etal.2O17.Enhancedsummer warming reduces fungal decomposer diversityand litter mass loss more strongly in dry than in wet tundra.Global Change Biology,23:406-420. Chuckran PF,Reibold R,Throop $\\mathrm { ~ H ~ L ~ }$ ，et al.2O2o.Multiple mechanisms determine the effect of warming on plant litter decomposition in adryland.Soil Biologyand Biochemistry,145:107799,doi:10.1016/j.soilbio.2020.107799. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "HongJT,LuXY,MaXX,etal.2O1.Five-yearstudyontheeffctsofwarmingandplantliterqualityonliterdecoosition rate naTibetan alpine grassand.ScienceofTheTotal Environment,750:142306,doi:10.1016/j.scitotenv.2020.142306.   \nLi Z,WangFW,SuFL,etal.2O21.Climatechangedriversalterroocontrolsoverliterdecomposition inasemi-arid grassland. Soil Biology and Biochemistry,158:108278,doi:10.1016/j.soilbio.2021.108278.   \nLiu HY,LinL,Wang H,etal.2O20.Simulating warmeranddrierclimateincreasesrootproductionbutdecreasesroot decomposition in an alpine grassland on the Tibetan plateau.Plant and Soil,458:59-73.   \nLiuP,HuangJH,HanXGetalO6.Diferentialresponsesofliterdecompositiontoincreasedsoilnutrientsadwater between two contrasting grassland plant species of Inner Mongolia,China. Applied Soil Ecology,34:266-275.   \nLuoCY,XuGP,ChaoZG,etal.l.Effectofwarmingndgazingonlitermasslossandtemperaturesensitivityf iter and dung mass loss on the Tibetan plateau.Global Change Biology,l6:16O6-1617.   \nLvW W,ZhangLR,Niu HS,etal.2O20.Non-linear temperature sensitivityof itercomponentdecompositionunder warming gradient with precipitation addition on the Tibetan plateau.Plant and Soil,448:335-351.   \nPrieto I,AlmagroM,BastidaF,etal.2Ol9.Alteredleafliterqualityexacerbates thenegativeimpactof climatechangeon decomposition.Journal of Ecology,107:2364-2382.   \nSchusterMJ,KreylingJ,BerwaersS,etal.2Ol6.Droughtinibitssynergistic interactionsofnativeandexoticliermiures during decomposition in temperate grasslands.Plant and Soil,415:257-268.   \nShu M,Zhao QZ,LiZ,etal.2O19.Efectsof global change factors and livingrootsonrootlitter decomposition ina Qinghai-Tibet alpine meadow. Scientific Reports,9:16924,doi:10.1038/s41598-019-53450-5.   \nWang X,XuZW,LuXT,etal2Ol7Resposesofliterdecompositioandnutrientreleaseatetoaterandtrogendtion differed among three plant species dominated in a semi-arid grassland.Plant and Soil,418: 241-253.   \nXuZF,PuXZYinHJ,etal.2O12.Warmingefectsontheearlydecompositionof threelittertypes,EasteTbeanPlateau, China.European Journal of Soil Science,63:36O-367.   \nXu ZF,ZhaoCZ,YinHJ,etal.2015.Warmingand forest management interactivelyaffectthedecompositionof subalpine forests on the eastern Tibetan Plateau: A four-year experiment. Geoderma,239-24O: 223-228.   \nYu XF,GuoJW,LuXG, etal.219.Comparativeanalysesof wetland plantbiomassaccumulationandliterdecomposition subject to in situ warming and nitrogen addition. Science of The Total Environment,691:769-778.   \nZhao HM,HuangGMaJ,etal.2Ol3.Responsesofsurface literdecompositiontosasonal waterditionindesert.Chinese Journal of Plant Ecology,36(6):471-482.(in Chinese) ",
+        "page_idx": 12
+    }
+]

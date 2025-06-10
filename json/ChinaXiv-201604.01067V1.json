@@ -1,0 +1,663 @@
+[
+    {
+        "type": "text",
+        "text": "太阳高能粒子(SEP)传播数值模拟中的太阳风背景场研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏稳稳1,²，沈芳1\\*，左平兵1，秦刚¹，杨子才1,2  \n1中国科学院国家空间科学中心空间天气学国家重点实验室，北京100190  \n2中国科学院大学，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要太阳高能粒子(SEP)事件是一类重要的空间天气灾害性事件，如能准确预报 SEP 事件，人们便可以采取必要的防护措施，保障卫星、星载设备以及航天员的安全，尽可能地降低经济损失.因此，其数值预报研究在空间天气预报研究中占有很重要的地位.SEP 事件中的高能粒子在不同的时间尺度内被耀斑过程或者CME 驱动的激波加速，并且在被扰动后的行星际太阳风中传输，这些过程都紧紧依赖于太阳风背景场.因此获取更加接近物理真实的太阳风背景场是模拟SEP 事件的重要部分，也是提高 SEP 物理模式的关键因素之一.我们目前的工作基于张明等发展的 SEP 在行星际空间传播的模型，尝试将 Parker太阳风速度解及WIND飞船观测的磁场实时数据融入模型中,研究不同的太阳风速度以及真实磁场分布对 SEP在行星际空间中传播的影响.通过求解聚焦传输方程，我们的模拟结果表明：(1)快太阳风条件下，绝热冷却效应项发挥了更大的作用，使粒子能量衰减的更快，而慢太阳风对粒子的通量变化没有显著影响;(2)加入观测的磁场数据时，粒子的全向通量剖面发生了比较明显的变化，具体表现在：通量峰值推迟到达、出现多峰结构、各向异性也发生一些改变.分析表明真实磁场的极性对粒子在行星际空间中传播有着重要的影响.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词太阳高能粒子；磁场；太阳风；行星际输运 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of the solar wind background field on the numerical simulation of the Solar Energetic Particle（SEP） transportation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WEI Wen-Wen1’²，SHEN Fang1\\*，ZUO Ping-Bing1，QIN Gang1 ，YANG Zi-Cai1,2 1StateKeyLaboratoryofSpaceWeather，National Space Science Center， ChineseAcademyofSciences，Beijing1oo19o，China 2Universityof Chinese Academy of Sciences，Beijing 1ooo49，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Solar energetic particles（SEPs） pose one of the most serious hazards to spacecraft systems and constrain human activities in space. Thus，it is of importance to forecast SEP events. Several theories and numerical models are applied to simulate SEP events. Each model makes some assumptions to simplify the complex acceleration and transportation processes within such events. In general,SEP willinteract with ambient solar wind and background magnetic field during transportation. It is recognized that interplanetary transport effects must be taken into account at any analysis of SEP propagation. In the previous simulation, it always assumed Parker magnetic field and fixed solar wind speed as the input parameters. However，these assumptions are too simple when compared with the real conditions. In order to get better results，it is necessary to use more accurate background conditions. Recently，we change the fixed solar wind speed into spatial-dependent speed profile based on Parker's theory，and replace the Parker magnetic field with another Parker-like magnetic field based on in situ data at 1 AU. By solving the focused transport equation with simulation of time-backward stochastic processes method，our results show that:(1） Under fast solar wind speed assumption，it is clear that the omnidirectional flux decreases faster than that for the situation with slow solar wind speed in the decay phase. We suggest that it is due to the adiabatic cooling effect. Fast solar wind speed has a significant effect on the adiabatic cooling，which leads the SEPs to lose energy more quickly during transportation. However， slow solar wind speed has less impact on the time profiles of SEP flux and anisotropy. We also compare the time profiles of SEP event observed at different observatories and energies, the results remain the same as previous；（2） When applying in situ data of magnetic field observed by WIND during different Carrington Rotations，the omnidirectional flux time profiles vary greatly，and the main results are as followings: the peak flux appears to be delayed，multipeak occur，anisotropy also has some differences.We think it results from the magnetic field polarity，which afects the pitch angle，and，furthermore，modulates the momentum. The characteristics are similar in solar minimum and solar maximum，while the peaks seem to be more when solar activity is active. We conclude that the real magnetic field polarity may exert a significant influence during the propagation of SEP. In the future，we will try to use the real-time background conditions which obtain from MHD models in our simulations，in order to make a thorough study of the SEP propagation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords Solar energetic particle；Magnetic field; Solar wind; Interplanetary transport ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太阳高能粒子（SolarEnergeticParticles，简称SEP）事件是能量粒子的通量突然增强的事件，美国国家海洋和大气管理局(NOAA)将SEP事件定义为能量大于 $1 0 \\ \\mathrm { M e V }$ 的粒子在连续 $1 5 ~ \\mathrm { m i n }$ 以上的时间内数目超过 $1 0 \\mathrm { \\ p f u ( c m ^ { - 2 } \\bullet \\ s ^ { - 1 } \\ \\bullet \\ s r ^ { - 1 } ) }$ 的爆发性事件（Rodriguez-Gasén，2O11).SEP事件主要包括三种类型(Kallenrode，2003)：与太阳耀斑爆发相关联的脉冲型事件，与日冕物质抛射驱动的激波相关联的缓变型事件，以及同时具有缓变型和脉冲型事件特征的混合型事件.SEP事件会对卫星和宇航员构成严重的威胁，如能准确预报SEP事件，人们便可以对卫星和星载设备采取必要的防护措施，同时也可以为航天器的故障分析和航天员的安全防护提供科学依据，尽可能地降低损失.然而SEP事件产生和发展的物理机制非常复杂，目前还没有被完全解释清楚，预报SEP事件的能力也不尽如人意(Lario,2005).因此，正确理解和恰当地动力学描述这些机制，对推进和提高空间天气预报能力是非常重要的（魏稳稳等，2015）.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SEP事件中的高能粒子在不同的时间尺度内被耀斑过程或者CME驱动的激波加速，并且在被扰动后的行星际磁场和太阳风中传输.近几十年里，很多研究者探究了太阳风背景场对高能粒子在行星际中传播的影响.Lario 等（2003，2008)基于Ulysses以及ACE卫星的观测，对太阳活动高年里较低能段的高能粒子事件进行了分析，认为行星际磁力线结构会影响高能粒子的经纬度分布.并重点分析了大尺度的行星际结构对2004年9月SEP事件的影响，认为其强度和各向异性时间剖面是由一个共转的低密度、低速、低质子 $\\beta$ 值的太阳风流决定.大尺度太阳风结构对高能粒子传播的影响决定不同位置的宇宙飞船观测到的 SEP事件的性质，不同于低 $\\beta$ 值区域有利于高能粒子的散射，被压缩的磁场区域会阻碍高能粒子的自由流动.磁镜效应与散射过程能够对高能粒子进行有效的约束，这些结构相对于观测者和粒子源项的位置决定SEP事件的特征(Lario etal.,2008).另外，Shen 等(2008)的研究也表明磁云这种复杂结构也能对高能粒子进行有效的约束并显著影响高能粒子的通量.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来一些研究者采用聚焦传输方程模拟粒子在行星际空间中的传播过程，聚焦传输方程包括了许多重要的粒子传输机制：沿磁力线的流动、太阳风对流、投掷角扩散、磁场聚焦效应、垂直扩散、绝热冷却效应等.模拟结果（Ruffolo，1995；Qinetal.，2006；Zhangetal.，2009)发现，在聚焦传播方程中引入绝热冷却效应项，将增加粒子强度的衰减率.Lario等(Larioetal.，1997)研究了太阳风对能量为$0 . 1 { \\sim } 2 0 \\ \\mathrm { M e V }$ 的质子在行星际空间传播的影响，发现太阳风对流能使粒子更早地到达观测者，绝热冷却效应则导致粒子通量减小.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SEP事件中的高能粒子在被扰动后的行星际磁场和太阳风中传输，这一过程紧紧依赖于太阳风和背景场（BarouchandBurlaga，l976；Larioetal.，1997；Malandrakietal.，2OO7).以往粒子传输模型中大多采用理想的Parker螺旋磁场和恒定的太阳风速度，背景场的设置过于简单（Herasetal.，1995；Li et al. ,2003；Zhang et al. ,2009；Wang etal.，2012).因此，建立更加接近物理真实的背景场来模拟粒子在三维行星际空间中的传播是提高SEP事件模拟结果不可或缺的部分，本文将围绕背景场模拟展开讨论，主要研究太阳风速度以及真实磁场分布对SEP在行星际空间中传播的影响.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2模型简介",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SEP在日球层中的传播是SEP研究中的一个核心问题，SEP的空间分布等都与之密切相关.研究高能粒子在行星际空间中的传输时需要求解聚焦传输方程.聚焦传输方程的本质是Fokker-Plank方程，用于描述粒子分布函数 $f$ 在相空间的演化.有些学者(KallenrodeandWibberenz,1997；Ruffolo,1995；Larioetal.，1997)通过有限差分格式对聚焦传输方程进行离散求解.Qin等（2006)和Zhang等(2009)开发并发展了一种计算SEP在三维日球层磁场中传播的模式，该模式采用后向随机微分方法解聚焦传输方程.用于模拟研究观测者处于行星际空间不同的经度、纬度以及径向距离时，SEP通量和各向异性随时间的演化过程.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型采用三维的聚焦传输方程来研究粒子的传播过程，其形式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\frac { \\partial f } { \\partial t } - \\nabla \\cdot \\boldsymbol { \\kappa } _ { \\perp } \\cdot \\nabla f + ( v _ { \\mu } \\boldsymbol { b } + V _ { \\mathrm { s w } } ) \\cdot \\nabla f - \\frac { \\partial } { \\partial \\mu } D _ { \\mu } \\frac { \\partial f } { \\partial \\mu } } \\\\ & { - \\Big [ \\frac { ( 1 - \\mu ^ { 2 } ) v } { 2 L _ { \\mathrm { B } } } - \\frac { \\mu ( 1 - \\mu ^ { 2 } ) } { 2 } ( \\nabla \\cdot \\boldsymbol { V } _ { \\mathrm { s w } } - 3 b \\boldsymbol { b } _ { \\perp } \\nabla \\boldsymbol { V } _ { \\mathrm { s w } } ) \\Big ] \\frac { \\partial f } { \\partial \\mu } } \\\\ & { - \\Big [ \\frac { 1 - \\mu ^ { 2 } } { 2 } ( \\nabla \\cdot \\boldsymbol { V } _ { \\mathrm { s w } } - b \\boldsymbol { b } _ { \\perp } \\nabla \\boldsymbol { V } _ { \\mathrm { s w } } ) + \\mu ^ { 2 } b \\boldsymbol { b } _ { \\perp } \\nabla \\boldsymbol { V } _ { \\mathrm { s w } } \\Big ] p \\frac { \\partial f } { \\partial \\phi } } \\\\ & { \\qquad \\quad \\widehat { \\mathrm { \\Omega } } _ { \\mathrm { c } } ^ { \\mathrm { T } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $f$ 为回旋平均分布函数， $\\kappa _ { \\perp }$ 是垂直扩散系数，$\\mu$ 为投掷角的余弦值， $\\boldsymbol { \\cdot }$ 是粒子的速度， $\\textbf { \\textit { b } }$ 是沿着磁场方向的单位矢量， $V _ { \\mathrm { s w } }$ 是太阳风的速度， $D _ { \\mu \\mu }$ 为投掷角扩散系数， $L _ { \\mathrm { B } } = ( \\pmb { b } \\cdot \\nabla \\mathrm { l n } B ) ^ { - 1 }$ 为磁场聚焦尺度，$\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 是粒子的动量.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "方程中的绝热冷却项的表达式如下：$\\frac { \\mathrm { d } \\phi } { \\mathrm { d } t } = - \\phi \\bigg [ \\frac { 1 - \\mu ^ { 2 } } { 2 } ( \\nabla \\cdot \\mathbf { V } _ { \\mathrm { s w } } - b \\pmb { b } : \\nabla \\mathbf { V } _ { \\mathrm { s w } } ) + \\mu ^ { 2 } b \\pmb { b } : \\nabla \\mathbf { V } _ { \\mathrm { s w } } \\bigg ] ,$ 投掷角余弦 $\\mu$ 随时间演化的表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\mu } { \\mathrm { d } t } = - \\frac { ( 1 - \\mu ^ { 2 } ) v } { 2 L _ { \\mathrm { B } } } + \\frac { \\mu ( 1 - \\mu ^ { 2 } ) } { 2 } ( \\nabla \\bullet \\mathbf { V } _ { \\mathrm { s w } } - 3 b \\pm \\nabla \\mathbf { V } _ { \\mathrm { s w } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们根据Qin等和Zhang等（Zhang，1999；Qinetal.，2006；Zhangetal.，2009)采用的后向随机微分方法来求解聚焦传输方程.方程(1)可以改写为五个一维的后向随机微分方程：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } \\pmb { x } ( s ) = \\sqrt { 2 \\pmb { \\kappa } _ { \\perp } } \\mathrm { d } w ( s ) + ( \\nabla \\bullet \\pmb { \\kappa } _ { \\perp } - v \\mu ( s ) \\pmb { b } - \\pmb { V } _ { \\mathrm { s w } } ) \\mathrm { d } s\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } _ { \\mu } ( s ) = \\sqrt { 2 \\mathrm { m a x } ( D _ { \\mu \\mu } , 0 ) } \\mathrm { d } \\hslash \\omega ( s ) + \\biggl [ \\frac { \\partial D _ { \\mu \\mu } } { \\partial \\mu } + \\frac { ( 1 - \\mu ^ { 2 } ( s ) ) \\upsilon } { 2 L _ { \\mathrm { B } } } \\biggr . \\biggr .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\frac { \\mu ( s ) ( 1 - \\mu ^ { 2 } ( s ) ) } { 2 } ( \\nabla \\cdot \\mathbf { V } _ { \\mathrm { s w } } - 3 \\pmb { b } \\pmb { b } : \\nabla \\mathbf { V } _ { \\mathrm { s w } } ) \\bigg ] \\mathrm { d } s ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } \\phi ( s ) = \\biggl [ \\frac { 1 - \\mu ^ { 2 } ( s ) } { 2 } ( \\nabla \\bullet { \\mathbf { V } _ { \\mathrm { s w } } } - b b : \\nabla { \\mathbf { V } _ { \\mathrm { s w } } } ) + \\mu ^ { 2 } b \\pmb { b } : \\nabla { \\mathbf { V } _ { \\mathrm { s w } } } \\biggr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf \\nabla } \\times \\rho ( { \\bf \\nabla } _ { s } ) \\mathrm { d } s .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求解随机微分方程采用后向时间的技巧，即让虚拟粒子从指定的地点 $r _ { \\mathrm { 0 } }$ 出发，以一定的初始动量$\\boldsymbol { \\mathscr { p } }$ ，从时刻 $t = t _ { 0 }$ 开始沿后向时间运动，直到粒子退出边界.我们假设所有的高能粒子都在太阳附近注入，因此，粒子分布函数在源区满足边界条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\left. f _ { \\mathrm { b } } ( x , \\mu , \\phi , t ) \\right| _ { r = R _ { \\mathrm { s } } } = \\frac { \\boldsymbol { p } ^ { - \\gamma } } { t } \\mathrm { e } ^ { - \\big ( \\frac { T _ { \\mathrm { c } } } { t } + \\frac { t } { T _ { 1 } } \\big ) } a ( \\phi , \\theta ) ,$ (4）其中， ${ a \\left( \\phi , \\theta \\right) }$ 是一个关于日面经度 $\\phi$ 和日面纬度 $\\theta$ 的函数，用来描述SEP源区强度的空间分布， $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 是源区粒子动量， $T _ { \\mathrm { c } }$ 和 $T _ { \\mathrm { l } }$ 分别表示源区粒子注入剖面的上升和衰减时间尺度.我们以下的模拟事例中均假设源区里面的粒子分布均匀一致，即 $a ( \\phi , \\theta ) = 1$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方程的解即为所有数值模拟过程在退出点上的平均值：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\boldsymbol { x } , \\mu , \\boldsymbol { \\phi } , t ) = \\frac { \\sum _ { i = 1 } ^ { N } f _ { \\mathrm { b } } ( \\boldsymbol { x } _ { \\mathrm { e } } , \\mu _ { \\mathrm { e } } , \\boldsymbol { \\phi } _ { \\mathrm { e } } , t _ { \\mathrm { e } } ) } { N } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { x } _ { \\mathrm { e } } , \\mu _ { \\mathrm { e } } , \\boldsymbol { p } _ { \\mathrm { e } }$ 表示虚拟粒子退出边界时的参量， $t _ { \\mathrm { e } }$ 是粒子退出边界的时刻， $N$ 是虚拟粒子的总量.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "粒子全向通量(Omnidirectional flux)的计算公式$j _ { 0 } = 4 \\pi p ^ { 2 } ~ \\frac { f ( \\mu = - 1 ) + 2 f ( \\mu = 0 ) + f ( \\mu = 1 ) } { 4 } ,$ 各向异性（Anisotropy）指数 $A$ 的定义式为 $A \\ =$ $\\quad 2 [ f ( \\mu = 1 ) - f ( \\mu = - 1 ) ] \\quad \\quad$ f(μ=-1)+2f(μ=0）+f(μ=1)），模型中用到的参数见表1（Zhangetal.，2009），我们的模拟过程不考虑垂直扩散对粒子传播的影响，将垂直扩散系数设置为0，即 $\\boldsymbol { \\kappa } _ { \\perp } = 0$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/815170e5aee65debd49fd91585fa59e7a64d9f1f5fba4f3b0d2ae1f824213e89.jpg",
+        "table_caption": [
+            "表1模型中参数设定",
+            "Table1 Model parameters used in the calculations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>公式</td><td>初始值设定</td></tr><tr><td>内边界</td><td>r=Rs</td><td>Rs=0.05 AU</td></tr><tr><td>外边界</td><td>r=R0</td><td>R=50 AU</td></tr><tr><td>太阳自转 频率</td><td>Ω=2π/T</td><td>T=27.27天</td></tr><tr><td>太阳风</td><td>Vsw =Vswer</td><td>Vsw = 400 km·s-1</td></tr><tr><td>磁场</td><td>B0 BoΩsinθ B r2 e rVsw e$</td><td>B0=3.54 nT·AU²</td></tr><tr><td>投掷角</td><td>Dμμ =Do(1-μ²)up-b1</td><td>Do为常数</td></tr><tr><td>扩散系数</td><td>X(h+|μ|a-1)κ(x)</td><td>b1=2/3，h=0.2，q=5/3 κ(x)=(cosp)-²=(B/B)²</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3模拟结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1太阳风速度对粒子传播过程的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据物理性质和起源区域的不同，太阳风一般分为快太阳风 $( v \\geqslant 5 5 0 \\ \\mathrm { k m } \\ \\bullet \\ \\mathrm { s } ^ { - 1 } )$ )和慢太阳风（ $\\cdot \\leqslant$ $4 5 0 \\ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ )（Wangetal.,2000).我们分别计算了快、慢太阳风对粒子通量的影响，快太阳风对不同能量质子的传播过程以及对不同观测位置的通量剖面的影响.并且统计分析了快、慢太阳风条件下统计到的粒子的动量分布特征.模型中磁场采用Parker螺旋磁场.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了研究发展的太阳风速度对粒子在行星际空间中传播的影响，我们将模型中沿径向恒定不变的太阳风速度 $\\pmb { V } _ { \\mathrm { s w } } = V _ { \\mathrm { s w } } \\pmb { e } _ { \\mathrm { r } } ( V _ { \\mathrm { s w } } = 4 0 0 ~ \\mathrm { k m } \\bullet \\mathrm { s } ^ { - 1 } )$ 变为Parker太阳风速度解（由（6)式解出），Parker太阳风速度解的具体数值实现方法详见文献Parker(1958).从(6)式中可以看出，Parker太阳风速度解不再沿径向不变，而是与日心距离 $\\boldsymbol { r }$ 相关.",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { V _ { \\mathrm { s w } } = V _ { \\mathrm { s w } } \\pmb { e } _ { \\mathrm { r } } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $V _ { \\mathrm { s w } }$ 满足如下方程：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { 2 } V _ { \\mathrm { s w } } ^ { 2 } + \\frac { \\gamma / p _ { 0 } } { ( \\gamma - 1 ) \\rho _ { 0 } } \\Big ( \\frac { V _ { 0 } r _ { 0 } ^ { 2 } } { V _ { \\mathrm { s w } } r ^ { 2 } } \\Big ) ^ { ( \\gamma - 1 ) } - \\frac { G M _ { \\theta } } { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\frac { 1 } { 2 } V _ { \\circ } ^ { 2 } + \\frac { \\gamma \\phi _ { \\circ } } { ( \\gamma - 1 ) \\rho _ { \\circ } } - \\frac { G M _ { \\theta } } { r _ { \\circ } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1给出了太阳风速度接近慢太阳风的模拟结果.图1a给出了该事例中太阳风速度随日心距离 $\\boldsymbol { r }$ 的变化曲线，太阳风速度在1AU处达到 $3 8 3 ~ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ ：以下图形中标注为慢太阳风的都是基于图1a中的Parker慢太阳风速度解.图1b给出了不同太阳风速度条件下 $1 0 0 \\ \\mathrm { M e V }$ 能量的质子在1AU赤道处的全向通量对比图.黑色实线代表固定速度 $4 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ 的模拟结果，红色虚线代表固定速度 $3 8 3 ~ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ 的模拟结果，绿色虚线代表Parker太阳风速度解接近慢太阳风速度下的模拟结果.从图1b中可以看出这三条通量曲线非常接近，说明慢太阳风相对固定的太阳风速度而言，对粒子的通量变化影响不大.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2给出了太阳风速度接近快太阳风的模拟结果.图2a中Parker太阳风速度解在1AU处达到$6 4 4 ~ \\mathrm { k m \\cdot s ^ { - 1 } }$ .以下图形中标注为快太阳风的都是基于图2a中的Parker快太阳风速度解.图2b给出了不同太阳风速度条件下 $1 0 0 \\ \\mathrm { M e V }$ 能量的质子在1AU赤道处的全向通量对比图.黑色实线代表固定速度 $4 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ 的模拟结果，红色虚线代表固定速度 $6 4 4 ~ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ 的模拟结果，绿色虚线代表Parker太阳风速度解接近快太阳风速度下的模拟结果.从图2b中可以看出，固定太阳风速度变大时，将增加粒子通量曲线的衰减率，而Parker快太阳风条件下，粒子通量曲线的衰减率进一步增加.通过分析我们认为这是由于快太阳风条件下，绝热冷却效应项发挥了更大的作用.在Parker太阳风速度解的模型中，绝热冷却项 $\\mathrm { d } \\phi / \\mathrm { d } t$ 的表达式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8835930d5afb71fbb5aeda06e9bbbd738c16e559d9ab77ae30c3da5c8d9409d7.jpg",
+        "img_caption": [
+            "图1太阳风速度接近慢太阳风的模拟结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（a）太阳风速度随日心距离的变化；（b）不同太阳风条件下能量为 $1 0 0 \\ \\mathrm { M e V }$ 的质子的全向通量对比.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a）Slow solar wind speed profile；（b）Comparison of $1 0 0 \\ \\mathrm { M e V }$ protons flux between different solar wind speer (a)太阳风速度随日心距离的变化；（b）不同太阳风条件下能量为 $1 0 0 \\ \\mathrm { M e V }$ 的质子的全向通量对比. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c6701eb84b9a1ebdfc507a0cb70611f01b33a0c08c798308e432b5188bda009.jpg",
+        "img_caption": [
+            "Fig.1Simulation results under slow solar wind speed assumption ",
+            "图2太阳风速度接近快太阳风的模拟结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Simulation results under fast solar wind speed assumption i）Fast solar wind speed profile；（b） Comparison of $1 0 0 \\ \\mathrm { M e V }$ protons flux between different solar wind spee ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } p } { \\mathrm { d } t } = - \\pounds \\gamma \\bigg [ \\frac { 1 - \\mu ^ { 2 } } { 2 } ( \\nabla \\cdotp V _ { \\mathrm { s w } } - b b \\colon \\nabla \\cdotp _ { \\mathrm { s w } } ) + \\mu ^ { 2 } b b \\colon \\nabla V _ { \\mathrm { s w } } \\bigg ] = - \\ p \\frac { V _ { \\mathrm { s w } } } { r } \\bigg [ \\frac { 1 - \\mu ^ { 2 } } { 2 } \\Big ( 2 - \\sin ^ { 2 } \\beta \\Big ) \\ 2 \\bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n+ \\mu ^ { 2 } \\sin ^ { 2 } \\beta + \\mu ^ { 2 } \\cos ^ { 2 } \\beta \\frac { \\mathrm { d } V _ { \\mathrm { s w } } } { \\mathrm { d } r } \\frac { r } { V _ { \\mathrm { s w } } } \\bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第一项：1-² $\\frac { 1 - \\mu ^ { 2 } } { 2 } ( \\nabla \\bullet { \\mathbf v } _ { \\mathrm { s w } } - b b _ { : } \\nabla { \\mathbf v } _ { \\mathrm { s w } } ) = \\frac { 1 - \\mu ^ { 2 } } { 2 } \\left[ ( 2 - \\sin ^ { 2 } \\beta ) ~ V _ { \\mathrm { s w } } / r + \\sin ^ { 2 } \\beta { \\mathrm d } V _ { \\mathrm { s w } } / { \\mathrm d } r \\right] ,$ 第二项： $\\mu ^ { 2 } b b : \\nabla V _ { \\mathrm { s w } } = \\mu ^ { 2 } \\sin ^ { 2 } \\beta V _ { \\mathrm { s w } } / r + \\mu ^ { 2 } \\cos ^ { 2 } \\beta \\mathrm { d } V _ { \\mathrm { s w } } / \\mathrm { d } r .$ （204号",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从式(7)可以看出，粒子的动量随时间的函数是衰减的，绝热冷却效应会使得观测到的粒子比它在源区释放时的能量要小.相比于沿径向恒定不变的太阳风速度，在Parker太阳风速度解的条件下，绝热冷却项 $\\mathrm { d } \\phi / \\mathrm { d } t$ 右侧表达式中的方括号里多了$\\sin ^ { 2 } \\beta \\frac { \\mathrm { d } V _ { \\mathrm { s w } } } { \\mathrm { d } r } \\frac { r } { V _ { \\mathrm { s w } } }$ 和 $\\mu ^ { 2 } \\cos ^ { 2 } \\beta \\frac { \\mathrm { d } V _ { \\mathrm { s w } } } { \\mathrm { d } r } \\frac { r } { V _ { \\mathrm { s w } } }$ 两项，这两项在快慢太阳风条件下均为正值.在快太阳风条件下，不仅方括号里的数值增大， $V _ { \\mathrm { s w } }$ 也超过 $4 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ ，使得表达式右侧显著变小，导致绝热冷却效应相对速度固定为 $4 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ 的太阳风明显增强.而在慢太阳风条件下，虽然方括号里的数值增大，但是 $V _ { \\mathrm { s w } }$ 小于 $4 0 0 \\ \\mathrm { k m } \\cdot \\mathrm { s } ^ { - 1 }$ ，使得表达式右侧变化不大，导致绝热冷却效应相对而言没有显著改变.另外，SEP的谱指数是小于零的，所以对于某一特定能段的粒子而言，随着时间推移，观测到的粒子通量会越来越少.因此，在快太阳风条件下，粒子的通量如图2所示衰减的更快，粒子全向通量在后期可达到一个量级的差异.而慢太阳风条件下则如图1所示没有显著变化.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于在SEP的初始相时期粒子密度的梯度大，扩散效应比绝热冷却效应更重要，所以在SEP的初始相可以忽略绝热效应，在SEP的衰减时期，粒子密度空间梯度小，绝热冷却效应将起重要的作用（涂传诒等，1988).在Parker太阳风速度解的条件下，对于某一固定的径向距离 $\\boldsymbol { r }$ ，太阳风速度增大时.相应的 $V _ { \\mathrm { s w } } / r$ 和 $\\mathrm { d } V _ { \\mathrm { s w } } / \\mathrm { d } r$ 也随之增大，第一项和第二项与太阳风速度的大小呈线性关系，因此，太阳风速度越高，会造成SEP向外对流的越多，绝热能量损失也随之增大，绝热效应也就越显著.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我们又对快、慢太阳风速度条件下统计到的粒子的动量进行了统计分析.图3给出了观测到的粒子的动量分布图.黑色实线，红色虚线分别代表Parker太阳风速度解接近快太阳风速度、慢太阳风速度时的统计结果.我们将观测到的粒子动量的最大值和最小值 $( \\phi _ { \\operatorname* { m a x } } \\ \\& \\ \\ p _ { \\operatorname* { m i n } } )$ 等分为10个区间 $\\Delta { p } =$ $0 . 1 ( \\phi _ { \\operatorname* { m a x } } - \\phi _ { \\operatorname* { m i n } } )$ ，然后统计每个动量区间内的粒子数占总的粒子数的百分比.表2为不同太阳风条件下的统计结果，我们设置的目标粒子的动量为$\\begin{array} { r } { p = 0 , 4 4 5 . } \\end{array}$ 其中目标粒子的动量定义为观测者处最终观测到的粒子动量，通过能量计算可以得到，该能量是人为设定的，是为了便于统计分析某一个具体能量段内的粒子的传播特征、分布特征等.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图3和表2的结果可以看出：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8eaa4ca3e914750f6d0cbce250e55dc533ae8d2b7a199afbf15760e2343cc644.jpg",
+        "img_caption": [
+            "图3快慢太阳风条件下统计到的粒子动量分布 Fig.3Momentum distributions of observed particles "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2不同太阳风条件下的统计结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/666e0a906aa7c7d3d24eb51703a8c30204355c294468e8dafac7c93727dbba6a.jpg",
+        "table_caption": [
+            "Table 2Statistical results under different solar wind speed conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>pmin</td><td>pmax</td><td>△p</td><td>统计到的粒子总数</td></tr><tr><td>Vfast</td><td>0.448</td><td>1. 507</td><td>0.106</td><td>201463</td></tr><tr><td>Vslow</td><td>0.447</td><td>1.008</td><td>0.056</td><td>215300</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）从所统计到粒子的最低动量来看，它们都比目标粒子对应的动量高，说明粒子在运动过程中都有能量衰减；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）从所统计到粒子的最高动量来看，快太阳风条件下粒子能量的最大值更大，说明快太阳风条件下粒子能量的衰减可以更加显著；（3）投放相同的粒子数（投放 $1 \\times 1 0 ^ { 6 }$ 个粒子)时，快太阳风条件下统计到的粒子数小于慢太阳风条件下的粒子数，也验证了上述结论；（4）从粒子分布来看，越靠近目标粒子能量段的粒子数越多，且呈现出单调递减的趋势，说明大部分统计到的粒子是能量衰减较少的粒子.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，我们又模拟了快太阳风对不同能量的粒子和不同观测位置处的通量剖面的影响.图4a、4b分别给出了不同太阳风速度条件下 $1 0 0 \\ \\mathrm { M e V }$ 能量的质子在观测者位于0.5AU赤道处以及2AU、纬度 ${ 8 0 } ^ { \\circ }$ 处的全向通量对比.图4c给出了不同太阳风速度条件下 $1 0 ~ \\mathrm { M e V }$ 能量的质子在1AU赤道处的全向通量对比图.黑色实线代表固定速度为 $4 0 0 \\ \\mathrm { k m \\cdot s ^ { - 1 } }$ 的模拟结果，红色虚线代表Parker太阳风速度解接近快太阳风速度下的模拟结果.从结果中可以得出，快太阳风对不同能量段的粒子在不同观测位置处的通量剖面有着相似的影响.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2用实时的磁场观测数据",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以往粒子传输模型中大多采用Parker螺旋磁场，Parker螺旋磁场是一个稳态模型，在太阳风是定态球对称的假定下，根据麦克斯韦方程组、磁冻结效应，以及在源表面 $( R _ { \\mathrm { s } } , \\theta _ { \\mathrm { s } } , \\phi _ { \\mathrm { s } } )$ 处径向的边界条件可以推导出Parker螺旋磁场模型，具体形式为(Parker，1958)",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { { \\cal B } } = B _ { \\mathrm { s } } \\left( \\frac { R _ { \\mathrm { s } } } { r } \\right) ^ { 2 } \\pmb { e } _ { \\mathrm { r } } - B _ { \\mathrm { s } } \\left( \\frac { R _ { \\mathrm { s } } } { r } \\right) ^ { 2 } \\frac { \\Omega ( r - R _ { \\mathrm { s } } ) \\mathrm { s i n } \\theta } { V _ { \\mathrm { s w } } } \\pmb { e } _ { \\phi } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\varOmega$ 为太阳自转频率， $V _ { \\mathrm { s w } }$ 为常数太阳风速度.对于距离太阳很远的地方 $r \\gg R _ { \\mathrm { s } }$ ，根据磁通量守恒定律，模型中用到的是简化的Parker磁场，如表1中所示： $\\pmb { { \\cal B } } = \\frac { B _ { 0 } } { r ^ { 2 } } \\pmb { e } _ { r } - \\frac { B _ { 0 } \\Omega \\mathrm { s i n } \\theta } { r V _ { \\mathrm { s w } } } \\pmb { e } _ { \\phi }$ ，其中 $B _ { \\mathrm { 0 } } { = } 3 . 5 4 ~ \\mathrm { n T }$ 是由1AU处的磁场估算得到.",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6424910cf921248e542b815cc6ed390c45d0ac071cda05ef6a9aaa22ef6cafd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bf5514bdfe1fba986118859782f92a5c5a57052e138136847609b3e1b97a4a4.jpg",
+        "img_caption": [
+            "图4快太阳风条件下观测者处于不同位置时能量为 $1 0 0 \\ \\mathrm { M e V }$ 的质子的全向通量对比((a)和(b))以及能量为 $1 0 \\ \\mathrm { M e V }$ 的质子的全向通量对比(c)",
+            "Fig.4Comparisons of $1 0 0 \\ \\mathrm { M e V }$ protons flux at different locations(panels(a） and（b)）and energies(panel（c)) ",
+            "图5（a）不同行星际磁场下，对比 $1 0 0 \\ \\mathrm { M e V }$ 质子的通量；（c）各向异性；（b）根据WIND飞船数据得到的 CR2056-CR2057内磁场 $\\textstyle B _ { \\mathrm { r } }$ 分量图.太阳坐标为 $( X , Y ) = ( r { \\cos } \\phi , r { \\sin } \\phi ) = ( 0 , 0 )$ ，黑色圆圈为地球 Fig.5Distribution of $1 0 0 \\ \\mathrm { M e V }$ proton omnidirectional flux（a）and anisotropy（c）at different IMF conditions during CR 2056-2057.（b） is distribution of $\\boldsymbol { B } _ { r }$ based on Wind spacecraft data. The Sun is at $( X , Y ) = ( r \\mathrm { c o s } \\phi$ $r \\mathrm { s i n } \\phi ) = ( 0 , 0 )$ and the Earth is at the solid black circle "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "然而，这种简化了的Parker磁场忽略了磁场大小和极性的变化，但是这些因素对粒子在行星际空间中的传输也可能发挥重要作用.因此，为了构造更加真实的背景磁场，我们使用了WIND卫星实时的磁场观测数据来进行背景磁场的设置.Florens等(2007)推导出了可以根据卫星实时观测数据求解磁场三分量 $( B _ { \\mathrm { r } } , B _ { \\theta } , B _ { \\phi } )$ 的类Parker磁场解，如下式（8)所示，我们根据该方法将WIND卫星的观测数据拓展到全空间.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\pmb { { \\cal B } } } = B _ { \\mathrm { s } } ( \\phi _ { \\mathrm { s } } ) \\bigg ( \\frac { R _ { \\mathrm { s } } } { r } \\bigg ) ^ { 2 } { \\pmb { e } } _ { \\mathrm { r } } - B _ { \\mathrm { s } } ( \\phi _ { \\mathrm { s } } ) \\bigg ( \\frac { R _ { \\mathrm { s } } } { r } \\bigg ) ^ { 2 } \\frac { \\Omega ( r - R _ { \\mathrm { s } } ) \\mathrm { s i n } \\theta } { V _ { \\mathrm { s w } } } { \\pmb { e } } _ { \\phi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "假设测试粒子从太阳源表面 $( R _ { \\mathrm { s } } , \\phi _ { \\mathrm { s } } )$ 离开，到达空间任意位置 $( r , \\phi )$ ，并且太阳风在每一个卡林顿周期内是不变的，则可以根据宇宙飞船的观测数据估算 $R _ { \\mathrm { s } }$ 处太阳风的参量.参数 $r , R _ { \\mathrm { s } } , \\phi , \\phi _ { \\mathrm { s } }$ ，观测时间 $\\mathbf { \\Psi } _ { t }$ ，区间 $[ t _ { 0 } , \\ t _ { 0 } + T ]$ 的开始时间 $t _ { 0 }$ 由以下公式计算得到：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\phi _ { \\mathrm { s } } = \\Omega ( t - t _ { 0 } ) - \\Omega ( R _ { 1 } - R _ { \\mathrm { s } } ) / V _ { \\mathrm { s w } } , } \\\\ & { \\phi = \\phi _ { \\mathrm { s } } + \\Omega ( r - R _ { \\mathrm { s } } ) / V _ { \\mathrm { s w } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "模型中使用的是WIND飞船一分钟精度的磁场数据，我们分别计算了处于太阳活动低年以及太阳活动高年的不同卡林顿自转周期(简称CR)内SEP的全向通量和各向异性的时间剖面.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "太阳活动低年的模拟结果如图5所示.其中，图5b是根据WIND飞船在2007年5月3日至2007年5月29日处于CR2056和CR2057内的观测数据得到的黄道面内的磁场图.为了更好的可视化效果，我们将任意日心距离 $\\boldsymbol { r }$ 处的磁场进行了标准化处理，具体标准化处理方法为：将同一条Parker螺线上，任意日心距离 $r$ 处的磁场，均赋为该条螺线在1AU处的磁场数值，然后进行可视化作图.太阳坐标为 $( X , Y ) = ( r \\mathrm { c o s } \\phi , r \\mathrm { s i n } \\phi ) = ( 0 , 0 )$ ，地球处在黑色圆圈处，并按照顺时针方向进行背景磁场的设置.两条黑线的夹角为统计到的粒子所在源区的大致分布范围.图5a中红色虚线为在此CR期间内根据类Parker磁场模拟得到的粒子全向通量剖面，黑色实线为原Parker磁场下的模拟结果，图5c为相应的各向异性剖面.相比之下，我们发现在类Parker磁场下模拟得到的粒子通量峰值会到达的晚一些，全向通量剖面会出现多个峰值并且在衰减相下降的更快，而且一阶各向异性也有明显的不同.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由式子(10)一(12)可知，当加入磁场的观测数据后， $\\cos \\beta$ 和 $\\mathrm { s i n } \\beta$ 的大小不会改变，但是它们的符号会随着磁场的极性而发生相应的改变，从而会影响投掷角 $\\mu$ 值的变化，并最终对动量 $\\boldsymbol { \\mathscr { p } }$ 的值产生影响.因此，我们认为粒子通量峰值推迟到达，多峰结构以及各向异性的差异主要是由于加入的真实磁场",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "具有不同的极性所致.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对通量峰值推迟到达，我们比较了Parker螺旋磁场和类Parker螺旋磁场下最大峰值附近的粒子初始能量的大小，发现Parker磁场下粒子初始能量的平均值大约为0.463，类Parker磁场下粒子初始能量的平均值大约为0.628，而我们统计的目标粒子能量为0.445.由于能量越高，衰减到目标能量所需要的时间越长，所以在类Parker磁场中由于磁场极性对粒子能量的调制，它们到达观测者所需的时间会更久，从而导致峰值推迟到达.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "针对出现的多峰结构，我们在图6中给出了第二个较大峰值到达前后不同时间段内统计到的粒子初始动量 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 的分布范围.黑色实线、红色虚线、绿色虚线分别代表第二个峰值到达前两天，第二个峰值期间以及第二个峰值过后两天内的粒子动量分布.从图6可以看出，不同时间段内动量的分布存在明显差异.在第二个峰出现的时间段内（红色虚线），$\\scriptstyle { p = 1 }$ 附近出现了另一个峰值.通过对通量（为 $ { p ^ { - \\gamma } }$ 的函数)的计算，我们发现这个峰值对该期间的粒子通量的贡献起决定性作用，并且使得该通量超过了前后两天的通量大小.通常情况下随着时间的推移，在衰减相不同时间段内统计到的大部分粒子的动量会不断增大，即类似图6中黑色实线的峰值会不断后移，从而使得全向通量不断减小.然而，同样，由于磁场极性对粒子能量的调制，使得粒子动量出现了额外的峰值并发挥了主要作用，从而导致出现了多峰结构.",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c4a4452b2e07d6b34660d4a538144f294a0f367c1f72ae8901984dafec2f6c2.jpg",
+        "img_caption": [
+            "图6CR2056-CR2057模拟得到的不同时间段内到达观测者的粒子初始动量 $\\boldsymbol { \\mathscr { p } }$ 的分布范围",
+            "Fig.6Initial momentum distributions of observed particles in different intervals during CR2o56-CR2057 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb = { \\pmb B } / { B } = \\mathrm { c o s } \\beta { \\pmb e } _ { r } - \\mathrm { s i n } \\beta { \\pmb e } _ { \\phi } , \\mathrm { c o s } \\beta = \\frac { B _ { \\mathrm { r } } } { B } , \\mathrm { s i n } \\beta = - \\frac { B _ { \\phi } } { B } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { ( 1 - \\mu ^ { 2 } ) v } { 2 } ( - \\cos \\beta \\sin ^ { 2 } \\beta / ( r - R _ { \\mathrm { s } } ) + 2 \\cos \\beta / r ) + \\frac { ( 1 - \\mu ^ { 2 } ) \\mu V _ { \\mathrm { s w } } } { 2 r } ( 3 \\cos ^ { 2 } \\beta - 1 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\small - \\ b { \\mathscr { p } } \\left[ \\frac { 1 - \\mu ^ { 2 } } { 2 } ( \\nabla \\cdot \\mathbf { V } _ { \\mathrm { s e } } - b b ~ ; \\nabla \\mathbf { V } _ { \\mathrm { s e } } ) + \\mu ^ { 2 } b b ~ ; \\nabla \\mathbf { V } _ { \\mathrm { s e } } \\right] = - \\ \\ b { \\mathscr { p } } \\frac { V _ { \\mathrm { s e } } } { r } [ \\mu ^ { 2 } \\sin ^ { 2 } \\beta + ( 1 - \\mu ^ { 2 } ) ( 2 - \\sin ^ { 2 } \\beta ) ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同于Parker磁场下的粒子各向异性，类Parker磁场下的各向异性在上升相位时小于零，而在衰减相期间，各向异性在模拟误差范围内会在零附近上下浮动.由于观测点的磁场极性保持不变，则根据各向异性指数： $A = \\frac { 2 [ f ( \\mu = 1 ) - f ( \\mu = - 1 ) ] } { f ( \\mu = - 1 ) + 2 f ( \\mu = 0 ) + f ( \\mu = 1 ) } ,$ （204以及 $\\mu = \\boldsymbol { p } \\cdot \\boldsymbol { b } / \\rho$ 可知，当 $A$ 为正(负)时，统计到的主要是朝磁场方向同(反)向运动的粒子.因此，在上升相位期间，朝磁场相反方向运动 $( \\mu = - 1 )$ 的粒子占主导.而在衰减相期间，由于磁场极性的影响以及部分粒子投掷角方向的改变，会使得各向异性在误差范围内出现波动.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "太阳活动高年的模拟结果，我们以CR1969 为例展示在了图7中.类似图5的格式，图7a给出了模拟得到的粒子全向通量剖面，图7c为各向异性剖面，图7b给出了WIND飞船在该周期内所观测到的磁场.其中两条黑色线同样代表统计到的粒子所在源区的大致范围.类似太阳活动小年的情况，从图7a和图7c中可以看出，粒子通量峰值也比原Parker磁场到达的晚一些，粒子的全向通量剖面出现了多峰结构，而各向异性在误差范围内并没有太大的差异.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "同样地，我们计算得到类Parker磁场下最大峰值附近所统计到的粒子初始能量的平均值大约为0.562，要大于Parker磁场下粒子能量的平均值0.463，因此粒子在类Parker螺线磁场里运动到达观测者所需的时间更久，导致峰值推迟到达.但是，相比于太阳活动小年粒子的平均初始能量为0.628，该周期内统计到的粒子初始能量要更小一些，所以相比之下粒子的全向通量剖面峰值到达的也更早一些.至于更小的粒子初始能量，可能与太阳活动高年更复杂的磁场极性变化对粒子能量的调制有关.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "此外，与太阳活动小年相比，在太阳活动高年里模拟得到的粒子的全向通量剖面会出现更多的峰值.图8给出了第二、三个峰值到达时以及它们到达之前一段内观测到的粒子初始动量 $\\boldsymbol { \\mathscr { p } }$ 的分布范围.从图8可以看出，在这两个峰值到达之前，如黑线所示，粒子初始动量大约以0.8为峰值，而且粒子的动量分布范围更加广泛.在红线所示的第二个峰值到达期间，粒子的初始动量更加集中地分布在以0.6左右为峰值的一个小范围内，因此根据通量计算公式可知该段时间内粒子的全向通量更大.而在绿线所示的第三个峰值到达期间，粒子的初始动量仍以0.6左右为峰值，但是它们占该时间段内所统计到总粒子数的比例更小，而且来源更加广泛，这就是为什么第三个峰值要比第二个峰值低的原因.类似于太阳活动小年的情况，在太阳活动高年里磁场对粒子能量的调制会导致多峰结构，而这种更多峰值结构的出现，是由于磁场的极性出现了更多的变化，对粒子能量的调制更加复杂所致.",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88ad212a1e6abd869f0e34a245f00acce9bb9349bc558a6f1f138f0ec35d375.jpg",
+        "img_caption": [
+            "图7（a）不同行星际磁场下，对比 $1 0 0 \\ \\mathrm { M e V }$ 质子的通量；（c）各向异性；（b）根据WIND飞船数据得到的CR1969的磁场 $\\boldsymbol { B } _ { \\mathrm { r } }$ 分量Fig.7Distribution of $1 0 0 \\ \\mathrm { M e V }$ proton omnidirectional flux（a）and anisotropy（c）at different IMF conditionsduring CR1969.（b）is distribution of $\\textstyle B _ { \\mathrm { r } }$ based on Wind spacecraft data"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e1aff24095fb5523bdb8a152eb600fb0f8f261a8c0031020441f607b407992d.jpg",
+        "img_caption": [
+            "图8CR1969 模拟得到的不同时间段内到达观测者的粒子初始动量 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 的分布范围",
+            "Fig.8Initial momentum distributions of observed particles in different intervals during CR1969 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图7c中可以看出，类Parker磁场下的各向异性在上升相位时大于零，说明朝磁场相同方向运动 $( \\mu = 1 )$ 的粒子占主导.同样地，在衰减相期间，由于磁场极性的影响以及粒子投掷角方向的改变，会使得各向异性在误差范围内出现一些波动，",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从模拟结果可以看出，太阳活动高年和低年的结果虽然都包含通量峰值推迟到达、出现多峰结构、各向异性发生改变等特点，但也存在差异.由于太阳活动高年磁场比较复杂，导致通量剖面出现更多的峰，各向异性剖面也存在差异.但二者的模拟结果都充分说明了真实磁场极性对粒子在行星际空间中的传播有着重要的影响，",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文通过求解聚焦传输方程研究了太阳风速度和背景磁场对粒子在行星际空间中传播的影响，模拟结果表明：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）将固定的太阳风速度改为变化的Parker太阳风速度解，从模拟结果可以看出慢太阳风对粒子的通量变化没有显著影响，而当太阳风速度加快时，粒子通量剖面在后期下降的更快.这是因为快太阳风条件下，绝热冷却效应更加显著，从而使粒子的能量衰减的更快.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）相对于原Parker磁场模型，加人观测的磁场数据时粒子的全向通量剖面发生了比较明显的变化：通量峰值推迟到达、出现多峰结构，各向异性也发生一些改变.通过分析，我们认为加人观测的磁场数据时，磁场有了极性，粒子的投掷角会随着磁场的极性而发生相应改变，进而也会对粒子的能量进行调制，从而导致模拟结果出现了上述的变化.无论在太阳活动低年还是高年，粒子全向通量剖面和各向异性剖面都伴随着这些改变，而太阳活动高年更加复杂的变化可能是由于磁场的极性更加复杂所致.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "我们的模拟结果说明太阳风速度以及背景磁场对粒子在行星际空间中的传播有着重要的影响.以往粒子传输模型中大多采用恒定的太阳风速度和Parker螺旋磁场，背景场的设置太过理想，这可能导致无法准确模拟太阳高能粒子在行星际空间中的演化过程.因此，设置更加真实的背景场对提高我们的模拟结果有着重要的意义.未来的研究工作中我们将尝试加入由MHD模拟(Fengetal.，201O，2012;Shen etal.，2011,2014)得到的实时变化的太阳风速度和三维磁场分量，建立更加完整、更加接近物理真实的太阳风背景场，以期得到更真实的粒子在三维行星际空间的传播物理过程，同时可以研究日冕物质抛射相互作用等对高能粒子事件形成和传播的影响（Gopalswamyet al.，2002；Shenetal.,2008；Liet al.，2012；Shen et al.,2013).",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Barouch E，Burlaga L F.1976.Three-dimensional interplanetary stream magnetism and energetic particle motion. J. Geoph ys. Res.，81(13)：2103-2110，doi：10.1029/JA081i013p02103.   \nFengXS，YangLP，Xiang CQ，et al.201o.Three-dimensional solar WIND modeling from the sun to earth by a SIP-CESE MHD model with a six-component grid.Astrophys. J.，723 (1)：300-319，doi:10.1088/0004-637X/723/1/300.   \nFengX S，JiangCW，XiangCQ，etal.2o12.Adata-driven model for the global coronal evolution.Astrophys.J.，758（1），doi： 10.1088/0004-637X/758/1/62.   \nFlorens MS L，Cairns I H，Knock S A,et al. 20o7. Data-driven solar wind model and prediction of type II bursts. Geophys. Res.Lett.，34(4)：L04104，doi:10.1029/2006GL028522.   \nGopalswamy N S，Yashiro S，Michalek G，et al. 20o2. Interacting coronal mass ejections and solar energetic particles. Astrophys. J.，572(1)：L103-L107，doi:10.1086/341601.   \nHeras A M, Sanahuja B,Lario D，et al. 1995. Three low-energy particle events：modeling the influence of the parent interplanetary shock.Astrophys.J.，445(1)：497-508，doi:10.1086/175714.   \nKallenrode MB. 2oo3. Current views on impulsive and gradual solar energetic particle events. Journal of Physics G：Nuclear and Particle Physics，29(5):965-981，doi:10.1088/0954-3899/ 29/5/316.   \nKallenrode M B，Wibberenz G. 1997. Propagation of particles injected from interplanetary shocks:A black box model and its consequences for acceleration theory and data interpretation. $J$ ： Geophys.Res.，102（A10）：22311-22334，doi：10．1029/ 97JA01677.   \nLario D，Sanahuja B，Heras A M.1997. Modeling the interplanetary propagation of $0 . 1 { \\sim } 2 0 \\ \\mathrm { M e V }$ shock-aelerated protons.I:ffects of the adiabatic deceleration and solar wind convection.Adu. Space Res.，20(1)：115-120，doi:10.1016/S0273-1177（97) 00492-4.   \nLario D，Roelof EC,Decker R B，et al.20o3.Solar maximum low energy particle observations at heliographic latitudes above 75 degrees.Advances in Space Research，32(4): 579-584，doi: 10.1016/S0273-1177(03)00339-9.   \nLario D. 2oo5.Advances in modeling gradual solar energetic particle events.Aduances in Space Research ，36(12): 2279-2288，doi: 10.1016/j.asr. 2005.07.081.   \nLario D，Decker R B，Malandraki O E，et al. 20o8．Influence of large scale interplanetary structures on energetic particle propagation: September 2O04 event at Ulysses and ACE. J. Geophys. Res.，113 （A3)：A03105，doi:10.1029/2007JA012721.   \nLi G，Zank G P,Rice W K M. 2003.Energetic particle acceleration and transport at coronal mass ejection-driven shocks. J. Geoph ys. Res.，108(A2)：1082，doi:10.1029/2002JA009666.   \nLi G，Moore R，Mewaldt R A，et al. 2012.A Twin-CME scenario for ground level enhancement events. Space Science Reviews , 171(1-4)：141-160，doi:10.1007/s11214-011-9823-7.   \nMalandraki OE, Marsden R G,Tranquile C,et al. 2007. Energetic particle observations by Ulysses during the declining phase of solar cycle 23.J.Geophys.Res.，112(A6)：A061l1，doi:10. 1029/2006JA011876.   \nParker E N. 1958.Dynamics of the interplanetary gas and magnetic fields.Astrophys.J.，128:664-676，doi:10.1086/146579.   \nQin G,Zhang M,Dwyer JR. 2006. Effect of adiabatic cooling on the fited parallel mean free path of solar energetic particles. $J$ Geophys.Res.，111(A8)：A08101，doi：10.1029/2005JA011512.   \nRodriguez-Gasén R. 2o11. Modelling SEP events：latitudinal and longitudinal dependence of the injection rate of shock-accelerated protons and their flux profiles [Ph. D. thesis]. Barcelona: Universitatde Barcelona.   \nRuffolo D. 1995.Effect of adiabatic deceleration on the focused transport of solar cosmic rays.Astrophys. J.，442(2)：861-874, doi:10.1086/175489.   \nShenCL，Wang Y M，YePZ，et al. 20o8.Enhancement of solar energetic particles during a shock-magnetic cloud interacting complex structure.Solar Physics，252(2)：409-418，doi：10. 1007/s11207-008-9268-7.   \nShen C L，LiG，Kong X，et al. 20l3. Compound twin coronal mass ejections in the 20l2 May 17 GLE event. Astrophys. J.，763 (2)：114-121，doi:10.1088/0004-637X/763/2/114.   \nShen F，Feng X S，Wu S T，et al.2011.Three-dimensional MHD simulation of the evolution of the April 2ooo CME event and its induced shocks using a magnetized plasma blob model. J. Geophys. Res.，116(A4)：A04102，doi:10.1029/2010JA015809.   \nShen F,Shen C L，Zhang J，et al. 2Ol4．Evolution of the 12 July 2012 CME from the Sun to the Earth：Data-constrained three dimensional MHD simulations.J.Geophys. Res.，119（9）： 7128-7141，doi:10.1002/2014JA020365.   \nWang Y,Qin G,Zhang M. 2012. Effects of perpendicular diffusion on energetic particles accelerated by the interplanetary coronal mass ejection shock.Astrophys.J.，752(1)：37，doi：10.1088/ 0004-637X/752/1/37.   \nWangYM，Sheeley NRJr，SockerDG，etal．2Ooo.The dynamical nature of coronal streamers.J. Geophys. Res.，105(A11)： 25133- 25142，doi:10.1029/2000JA000149.   \nWei W W,Shen F，Zuo P B. 2015.Research progress on the solar energetic particle model based on magnetohydrodynamic simulation. Progress in Astronomy (in Chinese)，33(1)：1-26，doi:10.3969/j. issn. 1000-8349.2015.01.01.   \nZhang M. 1999. A Markov stochastic process theory of cosmic-ray modulation.Astrophys.J.，513（1)：409-420，doi：10.1086/ 306857.   \nZhang M,Qin G，Rassoul H. 2009. Propagation of solar energetic particles in three-dimensional interplanetary magnetic fields. Astrophys.J.，692(1)：109-132，doi:10.1088/0004-637X/ 692/1/109. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "附中文参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "涂传诒等．1988．日地空间物理学．北京：科学出版社.  \n魏稳稳，沈芳，左平兵．2015．基于磁流体力学模拟的太阳高能粒子物理模式研究进展．天文学进展，33（1)：1-26，doi：10.$3 9 6 9 / \\mathrm { j }$ .issn. 1000-8349.2015.01.01.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(本文编辑胡素芳)",
+        "page_idx": 10
+    }
+]

@@ -1,0 +1,501 @@
+[
+    {
+        "type": "text",
+        "text": "非合作目标激光测距预报的实时修正方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张训力“，赵雪“，字宋吐\"，字祕连\"(1.中国科学院云南天文台，云南 昆明 650011；2.中国科学院大学，北京 1000493.中国科学院空间目标与碎片观测重点实验室，江苏南京，210008)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：非合作目标的激光测距预报一般是基于双行根数（TLE）外推出来的，往往有较大偏差，对激光测距的成功率有较大影响。结合空间目标的轨道理论和实测时的数据分析，预报的偏差主要由于通过预测模型外推的空间目标在运行轨道上的平近点角与实际平近点角存在偏差。根据非合作目标在望远镜跟踪视场中的脱靶量，利用相关算法可以找到一个最佳的时间根数偏差量修正空间目标的平近点角,经过修正,空间目标的视位置偏差得到改善，距离偏差能够从几百米减小到几十米，提升了预期回波到达时刻的准确度，可以给单光子探测器提供更高精度的距离门控，提高测距成功率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：实时修正；时间根数偏差；非合作目标；轨道预报中图分类号：P173.3 文献标识码：A 文章编号：1672-7673(2018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "激光测距技术是一项综合技术，涵盖激光、电子、天文测量和卫星轨道计算等多个学科领域，在实际工作中是一个非常复杂的过程，受目标特性、望远镜指向误差、距离、接收孔径大小等多种因素的影响。在众多影响因素中，空间目标的轨道预报准确性和稳定性直接影响测距望远镜发出的激光脉冲能否持续到达其表面，以及接收端的单光子探测器能否及时探测到回波光子，对激光测距的成功率有很大影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "卫星激光测距系统广泛采用了距离门控技术，即时间滤波技术，有效防止噪声的干扰。也就是在预期回波到达时刻之前一瞬间给单光子探测器送开门脉冲,这样就使得受到噪声干扰的概率减到最小，使得淹没在众多噪声中的单光子探测成为可能[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "非合作目标的激光测距预报，即载入跟踪望远镜的轨道预报一般基于双行轨道根数(Two-line elements,TLE)，经过 SGP4 (Simplified General Perturbations Version4）轨道衍生器外推出来的[2]，在对目标进行跟踪时往往有较大的偏差，主要体现在望远镜视场中的位置偏差以及测站与目标之间的距离偏差。视位置偏差过大导致激光脉冲不能击中目标；测站和目标的预报距离偏差过大，使预期回波到达时刻与实际回波到达时刻出现大的偏差，导致单光子探测器的距离门开启期间探测不到回波光子。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文提出的非合作目标激光测距预报实时修正方法的思路是：先利用双行轨道根数原始预报对可见的非合作目标跟踪几分钟，获取其在望远镜跟踪视场中的脱靶量数据信息，根据这些信息解算时间根数偏差，并基于该时间根数偏差对轨道预报进行修正后，重新载入望远镜继续跟踪目标。激光测距卫星（例如ajisai、beaconc、starlette、stella等）具有双行轨道根数和CPF(Consolidated Prediction Format)两种预报，文[5]将中低轨卫星的 CPF星历与利用全球激光跟踪站的观测数据定轨出的精密轨道进行了比较，分析CPF星历精度在米级以内，文[6]分析了用SGP4模型处理近地目标时，定轨精度在百米量级。为了排除望远镜指向误差等测距系统误差的影响，在理论上证明该方法的有效性，本文把中低轨道高度的激光测距卫星视为非合作目标进行研究分析，把某一时间段可见的激光星的CPF预报作为参考值，即模拟观测值。目标的脱靶量由同一时刻双行轨道根数预报和CPF预报中的方位角和高度角偏差量代替，然后进行时间根数偏差的解算和轨道预报的修正。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1激光测距预报的生成",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1时间系统的转换",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "协调世界时（UTC）是一种修正过的原子时，空间目标的状态以及观测数据都使用 UTC作为输入、输出的时间参数。格林尼治平恒星时（Greenwich sidereal time,GST） ${ \\overline { { \\theta } } } _ { G }$ 是坐标系转换的一个关键参数，故要由协调世界时计算出 ${ \\overline { { \\theta } } } _ { G }$ ，详见文[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2TEME坐标系与站心地平坐标系之间的转换 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用预测模型外推出来的空间目标位置信息是在真赤道平春分点坐标系（True EquatorMean EquinoxFrame,TEME）中表达的，而激光测距望远镜使用的轨道预报则是在站心地平坐标系中表达的，所以要实现由真赤道平春分点坐标系向站心地平坐标系的转换，如图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4a4c2d8a408a688fd4771cd665efbbcfda1804ba6f23c1ad062736ced9e635d.jpg",
+        "img_caption": [
+            "图1TEME坐标系向站心地平坐标系转换示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Schematic diagram of the conversion from the TEME system to the station local system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中,",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { z } \\big ( \\overline { { { \\theta } } } _ { G } \\big ) = \\left( \\begin{array} { c c c } { { \\cos \\overline { { { \\theta } } } _ { G } } } & { { \\sin \\overline { { { \\theta } } } _ { G } } } & { { 0 } } \\\\ { { - \\sin \\overline { { { \\theta } } } _ { G } } } & { { \\cos \\overline { { { \\theta } } } _ { G } } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 1 } } \\end{array} \\right) ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\vec { R }$ 为空间目标在真赤道平春分点坐标系中的位置矢量； $R _ { z } ( \\overline { { \\theta } } _ { G } )$ 为转换矩阵； ${ \\overline { { \\theta } } } _ { G }$ 为格林尼治平恒星时； $\\vec { r }$ 为空间目标在地固坐标系中的位置矢量； $\\vec { \\rho }$ 为空间目标在站心地平坐标系中的位置矢量； $\\vec { r } ^ { s t a }$ 为激光测距望远镜在地固坐标系中的位置矢量； $( M L T )$ 为转换矩阵：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { \\left( M L T \\right) = R _ { x } \\left( \\frac { \\pi } { 2 } - \\phi \\right) R _ { z } \\left( \\frac { \\pi } { 2 } + \\lambda \\right) \\qquad , } \\\\ & { } & { R _ { x } \\left( \\frac { \\pi } { 2 } - \\phi \\right) = \\left( 0 \\qquad \\sin \\phi \\quad \\cos \\phi \\right) } \\\\ & { } & { 0 \\qquad - \\cos \\phi \\quad \\sin \\phi \\quad } \\\\ & { } & { R _ { z } \\left( \\frac { \\pi } { 2 } + \\lambda \\right) = \\left( - \\cos \\lambda \\quad - \\sin \\lambda \\quad 0 \\right) \\quad } \\\\ & { } & { 0 \\qquad \\quad 1 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\phi$ 和λ为激光测距望远镜所在位置的纬度和经度； $R _ { x } \\left( \\frac { \\pi } { 2 } - \\phi \\right)$ 和 $R _ { z } \\left( \\frac { \\pi } { 2 } + \\lambda \\right)$ 均为转换矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3光行差改正",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当对中低轨空间目标进行激光测距时，测站和目标之间往往具有几千千米的距离，在激光脉冲的上行和下行期间，空间目标相对测站发生了较大变化，因此对于激光测距一般用发射时刻作为时标生成跟踪文件，即望远镜的实时指向有个前指量，而针对本文的应用，由于下行光行差的原因，目标可见对应的预报应该滞后，即将激光接收方向作为模拟观测值。CPF预报中，前指量的算法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于某一时刻 $\\tau$ ，空间目标和测站在地固坐标系中的位置矢量为 ${ \\vec { r } } ( X , Y , Z )$ 和 $\\vec { r } ^ { s t a } \\big ( X _ { 0 } ,$ $Y _ { 0 } , \\ Z _ { 0 } \\big )$ ，则测站和空间目标之间的相对距离 $D = | \\vec { r } - \\vec { r } ^ { s t a } |$ 。在不考虑光行差的情况下，激光脉冲发射方向即 $\\tau$ 时刻空间目标的预报位置，激光脉冲在上行光路传播的时间 $T _ { o u t } =$ $D / c$ ， $\\mathrm { ~  ~ \\bar { ~ } c ~ }$ 为光速，空间目标在站心地平坐标系中的位置矢量 $\\vec { \\rho } ( \\rho _ { x } , \\rho _ { y } , \\rho _ { z } )$ 。在考虑光行差的情况下，激光脉冲发射方向为 $T _ { B } = T + T _ { o u t }$ 时刻空间目标的预报位置。空间目标在站心地平坐标系中的位置矢量 $\\cdot \\vec { \\rho } _ { B } \\big ( \\rho _ { B x } , \\rho _ { B y } , \\rho _ { B z } \\big )$ 。此处需要特别注意的是地固坐标系是一个旋转坐标系，计算中需要进行相应改正。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样就得到上行光路的光行差引起的激光发射前指量：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { d } \\mathsf { A } = \\mathsf { A } - A _ { B } = \\tan ^ { - 1 } \\left( - \\frac { \\rho _ { y } } { \\rho _ { x } } \\right) - \\tan ^ { - 1 } \\left( - \\frac { \\rho _ { B y } } { \\rho B _ { x } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { d } \\mathrm { E } = \\mathrm { E } - E _ { B } = \\tan ^ { - 1 } \\frac { \\rho _ { z } } { \\sqrt { \\rho _ { x } { } ^ { 2 } + \\rho _ { y } { } ^ { 2 } } } - \\tan ^ { - 1 } \\frac { \\rho _ { B z } } { \\sqrt { \\rho _ { B x } { } ^ { 2 } + \\rho { B _ { y } } ^ { 2 } } } \\mathrm { ~ . ~ } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于下行光路的光行差引起的激光接收滞后量，利用空间几何相关知识可知，亦为dA， $\\mathrm { d } E$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2时间根数偏差的解算以及预报的修正",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1理论表述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "环绕地球做椭圆运动的空间目标的轨道示意图如图2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c0343b6cab94bd6bb10491585c93874f54285291ee9932ddd618c838a5ea9ed.jpg",
+        "img_caption": [
+            "图2环绕地球运行的空间目标的轨道示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig2 Schematic diagram representing the orbit of earth-circling spatial targe1 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2中，阴影部分为地心天球坐标系 $\\boldsymbol { \\mathcal { O } }$ -XYZ的基本平面(XY平面),接近J2000.0平赤道面， $X$ 轴指向接近J2000.0平春分点， $Z$ 轴指向地球的北极。 $r$ 为空间目标的轨道半径， $\\vec { h }$ 为空间目标轨道平面的法向量， $\\vec { N }$ 为通过轨道升交点的矢量， $\\vec { e }$ 为通过轨道上近地点的矢量。$\\varOmega$ 为从 $X$ 轴方向起量的轨道升交点方向 $\\vec { N }$ 的经度； $\\mathbf { \\chi } _ { i }$ 为轨道面与基本平面的夹角； $\\omega$ 为近地点幅角； $\\theta$ 为极坐标变量。空间目标的轨道极坐标方程为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { r } = \\frac { a ( 1 - e ^ { 2 } ) } { 1 + e \\cos ( \\theta - \\omega ) } \\ . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在（7）式中， $a$ 为半长径； $e$ 为偏心率。近地点幅角 $\\omega$ 和极坐标变量 $\\theta$ 都是从升交点方向起量的，当有摄动时，椭圆轨道随时间变化，升交点方向也在变化， $\\mathbf { \\omega } _ { \\infty }$ 应从这变化的升交点方向起量，而极坐标变量0仍从一个定义的不变方向起量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平近点角M定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = n ( t - \\tau )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从近地点开始起量，其中， $\\boldsymbol { n }$ 为平运动角速度。空间目标的平近点角是一个与时间相关的参数，能够确定对应时刻目标在轨道面内椭圆轨道上的位置。当 $t = \\tau$ 时，M0，相应地，空间目标在近地点处， $\\boldsymbol { r }$ 达到极小值， $\\tau$ 就是空间目标过近地点的时刻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "空间目标在轨运行时会受到多种摄动力的影响，包括地球的非球形引力、日月引力、大气阻力，太阳辐射压力等，对于处于中低轨道的空间目标，受到大气阻力的影响比较大。双行轨道根数考虑了地球非球形引力、日月引力的长期和周期摄动影响，以及大气阻力模型产生的引力共振和轨道衰退。双行轨道根数是“平均”根数，它用特定的方法去掉了周期扰动项,预测模型SGP4用同样的方法重构了周期扰动项[2I。在观测中，空间目标往往在沿迹方向与望远镜的指向中心有较大偏差，提前或者滞后，主要原因是SGP4模型采用的大气模型简化为 $\\boldsymbol { \\mathrm { B } } ^ { * }$ 一个阻力参数，沿迹方向的偏差量可以简化归因于时间根数 $\\mathit { \\Pi } _ { \\tau }$ 偏差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果在跟踪目标时，适当调整 $\\tau$ 的值，可以减小空间目标与望远镜指向中心的偏移量，修正空间目标与测站的距离量，并提高跟踪的稳定性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时间根数t偏差的解算算法如下，记空间目标在站心地平坐标系中的方位角为A，高度角为 $E$ ，离测站距离值为s，实测的序列记为 $( t _ { i } , A _ { i } , E _ { i } , s _ { i } ) , i = 1 , 2 , 3 \\ldots n$ ，在计算预报时适当调整 $\\tau$ 的值，即令 $\\boldsymbol { \\tau } + \\Delta \\boldsymbol { \\tau }$ 取代 $\\tau$ ， $\\Delta \\tau$ 是调整量，亦即空间目标在真赤道平春分点坐标系中相应时刻点的位置 $\\vec { R } _ { i } ( X _ { i } , Y _ { i } , Z _ { i } , t _ { i } + \\Delta \\tau )$ 代替 $\\overrightarrow { R } _ { i } ( X _ { i } , Y _ { i } , Z _ { i } , t _ { i } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vec { r } ( t ) = R _ { z } ( \\overline { { \\theta } } _ { G } ( t ) ) \\vec { R } ( t + \\Delta \\tau )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由此可得预报序列 $( t _ { i } , A ^ { \\prime } { } _ { i } , E ^ { \\prime } { } _ { i } , s ^ { \\prime } { } _ { i } ; \\Delta \\tau )$ $i = 1 , 2 , 3 \\dots n$ 。记 $\\Delta A _ { i } = { A ^ { \\prime } } _ { i } - A _ { i }$ ， $\\Delta E _ { i } = \\boldsymbol { E ^ { \\prime } } _ { i } - \\boldsymbol { E _ { i } }$ ，当 $\\Delta \\tau$ 的选值使",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R M S ^ { * } = \\sqrt { \\frac { \\sum _ { i } ( \\Delta A _ { i } c o s E _ { i } ) ^ { 2 } + \\sum _ { i } { \\Delta E _ { i } } ^ { 2 } } { n } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为跟踪时间段上的极小值，此时 $\\Delta \\tau$ 即为预报的时间根数偏差。上述问题是一个复杂的非线性问题，直接求解比较困难，考虑到时间根数偏差精确到毫秒即可，因此一个简单直接的方式就是在一定范围内进行搜索。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在空间目标的指向信息得到修正时，距离信息也得到了相应的修正，进而能够提高单光子探测器的距离门控的精度，增大接收回波光子的概率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2实例分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ajisai、beaconc、starlette、stella 等激光测距卫星位于近地轨道，与大部分的非合作目标的轨道高度相仿，空间环境类似，能够很好地替代仅有双行轨道根数预报的非合作目标进行研究分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文以 Stella 激光测距卫星的过境情况进行分析。Stella 卫星的轨道高度为792.3X803.1km，处于非合作目标的密集区。当对空间目标进行激光测距时，测站和目标之间往往具有上千千米的距离，在激光脉冲的上行和下行期间，空间目标相对测站发生了较大变化，指向滞后量如图3，横轴为日积秒，纵轴分别为方位角偏差和高度角偏差。可以看出，滞后量波动幅度比较大，最高时可达十几角秒，是解算时间根数偏差时不可忽视的因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f7603668a1583b7f63c325c67a19367374e78edd39171933b0eb577e90bbe3f.jpg",
+        "img_caption": [
+            "图3激光星Stella某一过境弧段中望远镜接收回波光子应有的指向滞后量。"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig3 The lag amount telescope should remedy when receiving theecho photon in one passing segment of Stella ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/00a7c74dc080daaa1fce0f35819588be00ecffca4df092a305116d78b77d368d.jpg",
+        "img_caption": [
+            "22824 (20180311 20:37:30.000-20:44:00.000,792.3X803.1,[-300:300]) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4显示了在stella的某次过境观测弧段，分别用前1min、2min、3min以及全弧段跟踪数据进行时间根数搜索的结果，图中横轴为时间根数偏差 $\\Delta \\tau$ ，纵轴为对应的 $R M S ^ { * }$ ，时间根数搜寻范围为[-100,200]。由图可见，无论用前1min、2min、3min还是全弧段跟踪数据进行搜寻都有一个极小值，对应时间根数偏差分别为26ms、27ms、29ms、 $3 2 m s$ ，并无显著差异。对于其它的激光测距卫星，根据不同时长的跟踪弧段，搜索的时间根数偏差结果如表1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1若干激光测距卫星根据不同时长的跟踪数据解算出的时间根数偏差",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 The time element deviations of some Laser Ranging Stallites by using different duration of the tracking data. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7e804c9f3e9eaaa6fc65d2ad3d76b5b184ec7e2171cd731e9c7ab8f0f7a656c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>激光星</td><td>轨道高度(km)</td><td>过境时长</td><td>前一分钟(ms)</td><td>前两分钟(ms)</td><td>前三分钟 (ms)</td><td>全弧段(ms)</td></tr><tr><td>ajisai</td><td>1479X1497</td><td>12min20s</td><td>35</td><td>35</td><td>35</td><td>34</td></tr><tr><td>beaconc</td><td>928.6X1305</td><td>8min30s</td><td>30</td><td>28</td><td>26</td><td>23</td></tr><tr><td>starlette</td><td>805.5X1107</td><td>6min9s</td><td>36</td><td>38</td><td>40</td><td>43</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过表1可以看出，上述3个激光测距卫星在过境可见的时间段内，用前1min、2min、3min 以及整个弧段解算的时间根数偏差无显著差异。根据搜索时间根数偏差的思想可知，利用的跟踪数据段越长，解算的结果越精确，利用全弧段跟踪数据解算的结果在理论上是最精确的。考虑到中低轨目标过境时间短等问题，选择前1min数据解算的时间根数偏差适用于整个弧段是比较理想的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d26e29ef7f1c38879050d0cef22ff1ff212cd8b460575e06b1a4eeabea02e535.jpg",
+        "img_caption": [
+            "图4激光测距卫星 stella 分别以过境弧段的前1、2、3分钟和整个弧段的跟踪数据搜索出的时间根数偏差结果Fig.4The time element deviations of stella calculated by using the tracking data of previous one、two、threeminutes and entireness of the passing segment.",
+            "图5 stella 的轨道预报分别以0ms（未修正）、26ms、27ms、29ms、32ms 为时间根数偏差修正后与参考轨道在高度角（a）和方位角（b）的偏差量。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig5.Thedeviationsof stella’orbitpredictioncorrected byOms,26ms,27ms 29ms 32mscompared withthereference orbit in azimuth angle and elevation angle. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ee5b38b942f0b837401c7e881952d1cc353de0ad15d64860aa35b87f25892c.jpg",
+        "img_caption": [
+            "图6 stella的轨道预报分别以0ms（未修正）、26ms 为时间根数偏差修正后与参考轨道的偏差量。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig6.The deviations of stella’orbit prediction corrected by Oms,26ms compared with the reference orbit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "激光卫星stella的轨道预报经过相应的修正后，视位置偏差明显减小，且波动幅度也很小。图5(a)中，实线表示 stella 的TLE 原始预报中的方位角与CPF 参考值的残差随观测时间的变化，下方的虚线分别表示TLE预报经过26ms、27ms、29ms、32ms 修正的方位角与 CPF参考值的残差随观测时间的变化。类似地，图5(b)中，实线表示 stella 的双行轨道根数原始预报中的高度角与CPF参考值的残差随观测时间的变化，中间的虚线分别表示双行轨道根数预报经过26ms、27ms、29ms、 $3 2 m s$ 修正的高度角与CPF参考值的残差随观测时间的变化。图6是以 $\\Delta \\mathrm { A } * \\cos E$ 为横坐标，△E为纵坐标画出了整个跟踪弧段以0ms（未修正）和26ms（前一分钟）分别修正后的视位置偏差量的变化。综合以上可以看出，TLE预报经过时间根数偏差改正后，视位置偏差量明显减小，且在某一固定值附近小范围波动，波动范围在几角秒之内。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2若干激光测距卫星修正后的轨道预报在方位角、高度角的偏差均值以及相应的 $R M S ^ { * }$ 。 Table 2 The mean value of the deviations of some Laser Ranging Stallites’ corrected orbit predictions in azimuth angle and elevation angle and corresponding $R M S ^ { * }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2eb45e74cc2cd2bb9dd3dc01453973e6676585a30a2a8926a967a939bd1af659.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>激光星</td><td>△AcosE</td><td>E</td><td>△A cos E1</td><td>E</td><td>△A cos E2</td><td>E</td><td>RMS</td><td>RMS1</td><td>RMS2</td></tr><tr><td>ajisai</td><td>-14.7301</td><td>15.1602</td><td>-20.1686</td><td>4.0037</td><td>-20.0124</td><td>4.3220</td><td>19.2066</td><td>13.5802</td><td>13.5826</td></tr><tr><td>beaconc</td><td>-13.4514</td><td>4.0645</td><td>-9.3972</td><td>-8.8873</td><td>-10.3501</td><td>-5.8718</td><td>12.1740</td><td>8.7697</td><td>4.1602</td></tr><tr><td>starlette</td><td>-69.3258</td><td>15.4581</td><td>-62.3066</td><td>-0.3636</td><td>-60.9365</td><td>-3.4399</td><td>89.6907</td><td>84.2076</td><td>87.8905</td></tr><tr><td>stella</td><td>13.2867</td><td>18.5682</td><td>4.5302</td><td>5.7109</td><td>2.5032</td><td>2.7460</td><td>13.6939</td><td>1.7213</td><td>2.4036</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2中展示了处于近地轨道的4颗激光卫星的双行轨道根数预报在未修正及基于前一分钟，整个弧段解算出的时间根数偏差分别修正后与CPF参考轨道在方位角、高度角的偏差均值以及相应的位置偏差 $R M S ^ { * }$ 。 $\\overline { { \\Delta A _ { 0 } \\cos E _ { 0 } } }$ ， $\\overline { { \\Delta E _ { 0 } } }$ 是双行轨道根数原始预报与参考轨道在方位角、高度角在整个过境弧段的偏差均值。 $\\overline { { \\Delta { A _ { 1 } } \\cos { E _ { 1 } } } }$ ， $\\overline { { \\Delta E _ { 1 } } }$ ;, $\\overline { { \\Delta { A _ { 2 } } \\cos { E _ { 2 } } } }$ ， $\\overline { { \\Delta E _ { 2 } } }$ 分别是基于前一分钟、整个弧段解算的时间根数偏差进行修正后的轨道预报与CPF 参考轨道在方位角、高度角的偏差均值。可以看出后两者的位置偏差 $R M S ^ { * }$ 比双行轨道根数原始预报的要小，即更接近实测运行轨迹。后两者在方位角、高度角的偏差均值也很接近，更进一步说明可以用前一分钟的跟踪数据解算出的时间根数偏差代替整个弧段的跟踪数据解算的时间根数偏差进行轨道预报修正。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/00ce26ede1618bfdf19b2bafbd1d1a7d4d9ec01ddedcfd931a93b94df47e5c55.jpg",
+        "img_caption": [
+            "图6激光星stella 的轨道预报以不同的时间根数偏差修正后，距离预报值与参考值的偏差量。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig6.The distance deviations of stella’orbit prediction corrected by different time elememt bias compared with reference values ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图6 可以看出，激光星 stella 的距离预报分别以26ms、27ms、29ms、32ms为时间根数偏差修正后，距离偏差由最大的二百多米减小到几十米，并且变化范围更稳定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3若干激光测距卫星修正后的轨道预报在预报距离方面的偏差均值以及相应的RMS。",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3 The mean value of the deviations of some Laser Ranging Stallites’ corrected orbit prediction in range and corresponding RMS ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/869231941c72b97684a545c6bc7c526f1c37b3fb38ceadc1d956284fe81cc240.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>激光星</td><td>D</td><td>D1</td><td>D2</td><td>RMS0</td><td>RMS1</td><td>RMS2</td></tr><tr><td>Ajisai</td><td>-215.89</td><td>-49.78</td><td>-54.52</td><td>78.80</td><td>9.68</td><td>11.60</td></tr><tr><td>Beaconc</td><td>-154.19</td><td>8.72</td><td>-29.21</td><td>46.16</td><td>9.11</td><td>4.35</td></tr><tr><td>Starlette</td><td>-214.18</td><td>-4.56</td><td>36.19</td><td>56.31</td><td>14.84</td><td>7.67</td></tr><tr><td>stella</td><td>-180.97</td><td>-37.51</td><td>-4.99</td><td>62.42</td><td>18.58</td><td>8.67</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3 展示了处于近地轨道的4颗激光卫星的轨道预报在未修正及基于前一分钟，整个弧段解算出的时间根数偏差分别修正后相较于CPF 参考轨道在预报距离方面的偏差均值 $\\overline { { D } } _ { 0 }$ 、$\\overline { { D } } _ { 1 }$ 、 $\\overline { { D } } _ { 2 }$ 以及相应的RMS，即 $R M S _ { 0 }$ 、 $R M S _ { 1 }$ 、 $R M S _ { 2 }$ 。可以看出，预报距离偏差均值均由几百米减小到了几十米，甚至几米；均方根值 RMS 也减小了一个量级，说明偏差稳定性显著增强。上述结果说明基于时间根数偏差修正双行轨道根数预报能够提高单光子探测器的距离门控的精度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文介绍了一种非合作目标激光测距预报实时修正的方法。在搜索时间根数偏差的过程中，以 $R M S ^ { * }$ 取得极小值时的 $\\Delta \\tau$ 值为时间根数偏差，用于空间目标的双行轨道根数预报修正；用不同时长的跟踪数据搜寻出的时间根数偏差无显著差异，用前一分钟数据解算的时间根数偏差可以适用于整个弧段；修正后的双行轨道根数预报更接近空间目标的实测运行轨迹且预报距离偏差值均由几百米减小到了几十米，甚至几米，能够提高单光子探测器的距离门控的精度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文选取的若干个空间目标的双行轨道根数预报经过此方法的修正后，视位置值和预报距离值的偏差得到了明显的改善。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Research on Real-time correction method of laser ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ranging prediction of noncooperative target ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhang Xunfang1,2， Zhao Xue1,2，Li Rongwang1,3，Li Zhulian1,3 (1.Yunnan Observatories,Chinese Academy of Sciences,Kunming 650011,China; 2.University of Chinese Academy of Sciences,Beijing 1Oo049,China; 3.Key Laboratory of Space Object and Debris Observation, Chinese Academy of Sciences,Nanjing,210008) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The laser ranging prediction of noncooperative target is extrapolated from TLE commonly, existing large deviation, having great influence on the mission success rate of laser ranging.Based on the orbital theory and the measured data of space target, the deviation of the forecast is mainly due to the deviation of mean anomaly from the prediction model to the real mean anomaly of the spatial target in the orbit. According to the target's miss distance in the field of view of tracking telescope,the relative algorithm can be used to find the optimal time element deviation to correct the mean anomaly of the spatial target. After modification，the apparent position deviation of the spatial target is decreased, the distance deviation can be reduced from several hundred meters to tens of meters making the accuracy of expected echo arrival time better,providing the more precisedistance gate control for the single-photon detector,improving the mission success rate of laser ranging. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: real-time correction; time element deviation; noncooperative target; orbit prediction 参考文献： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]李祝莲,熊耀恒,何妙婵，郑向明，何少辉，伏红林.云南天文台人造卫星激光测距系统原理[J].天文研究与技术,2008(03):248-252.Li Zhulian，Xiong Yaoheng，He Miaochan，Zheng Xiangming，He Shaohui，Fu Honglin.Principle of 1.2m TelescopeSatellite Laser Ranging System[J].Astronomical Research & Technology，20o8(03):248-252.  \n[2]HootsFR,RoehrichRL.Space Track ReportNo.3一Modelsfor PropagationofNORAD ElmentSets.Peterson: NORAD,1980.1  \n[3]翟东升,汤儒峰,李祝莲,李语强,熊耀恒.激光脉冲特性对漫反射激光测距系统精度的影响研究[J].天文研究与技术,2016,13(03):326-332.Zhai Dongsheng，Tang Rufeng，Li Zhulian，LiYuqiang，XiongYaoheng.AStudyintoLaserPulse's Impactonthe Precision andAccuracyof the Difuse LaserRanging System[J].Astronomical Research & Technology,2016,13(O3):326-332.  \n[4]唐美荣,和丽娟,翟东升,李语强,汤儒峰,李祝莲.激光测距系统回波光子分布特性研究[J].天文研究与技术,2017,14(01):32-38.Tang Meirong，HeLijuan，ZhaiDongsheng，LiYuqiang，Tang Rufeng，LiZhulian.Researchonthe Distributionof Echo Photonsin Laser Ranging System[J].Astronomical Research & Technology，2017,14(01):32-38.  \n[5]陈国平,何冰,张志斌,董晓军.CPF 星历精度分析[J].中国科学院上海天文台年刊,2010(00):35-44ChenGuoping,HeBing,ZhangZhibin,Dong Xiaojun.PrecisionanalysisofCPFephemeris[J].PublicationsofShanghaiObservatoryfChinese Academy of Sciences,2010(00):35-44  \n[6]韦栋,赵长印.SGP4/SDP4 模型精度分析[J].天文学报,2009,50(03):332-339.WeiDong,ZhaoChangyin.PrecisionanalysisofGP4/DP4model[J].AstronomicalJournal,2009,50(03):332-339  \n[7]黄城,刘林.参考坐标系及航天应用[M].北京：电子工业出版社，2015.Huang Cheng,Liu Lin.Referencecoordinate systemand Spaceapplications[M].BeiJing:Electronic IndustryPress,2015.  \n[8]李语强，李荣旺,李祝莲，翟东升，伏红林，熊耀恒.空间碎片激光测距应用研究[J].红外与激光工  \n程,2015,44(11) :3324-3329.LiYuqiang，LiRongwang，LiZhulian,ZhaiDongsheng，Fu Honglin，XiongYaoheng.Aplicationresearchonspacedebrislaserranging[J].  \nInfrared and Laser Engineering，2015,44(11) :3324-3329.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]刘林,胡松杰．航天器定轨理论与应用[M].北京：电子工业出版社，2015.LiuLin,HuSongjie.TheoryandApplicationofspacecraftorbitdetermination[M].Beiing:ElectronicIndustryPress,015",
+        "page_idx": 8
+    }
+]

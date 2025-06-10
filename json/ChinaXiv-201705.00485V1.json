@@ -1,0 +1,158 @@
+[
+    {
+        "type": "text",
+        "text": "YAG phosphor with spatially separated luminescence centers† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Haiming Qin, Jun Jiang.\\* Zhaohua Luo and Haochuan Jiang\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A micron size YAG:Ce/YAG:Cr core-shell structure was designed and accomplished via the urea homogeneous precipitation method using the YAG:Ce spherical core as the introduced second phase. Awell dispersed gel like encapsulation structure can be achieved before the formation of YAG:Ce/YAG:Cr core-shell particles via a calcination process.As prepared YAG:Ce/YAG:Cr particlescan emit a broad range of photons from 500 to $7 5 0 \\ n m$ with excitation light of $4 3 3 n m$ .A schematic illustration showing the mechanism of excitation-emission of the core-shell particles is presented.The integral spectra are composed of three parts: emission photons of YAG:Cr，YAG:Ce，and emission light of YAG:Cr excited by the emission photons of the YAG:Ce core according to the proposed mechanism. The method accomplished in this work can significantly improve the exploration of full spectrum luminescent powder synthesis and spectra designation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A phosphor isa luminescent material that can emit photons under high energy excitation.1-3 Among phosphor materials, inorganic phosphors play an important role in the mediation of the synthetic spectrum，displays,LED lighting,etc.4-6 White LEDs are one of the most important application fields for inorganic phosphors.Typically，white light can be achieved via two approaches:LED-based and LED-plus-phosphor-based approaches for white light sources implemented as di-,tri-,and tetrachromatic sources. Aside from the implementation of mono- and di-chromatic phosphors,multi-activator doping in the single matrix is another solution for white light in the phosphor adopted approach. Considering the spatial distance among luminescence centers (or units),co-doping of multi-activators ina single matrix results in the best spectrum uniformity,while combination of RGB spectrum elements provides an absolutely isolated luminescent unit.7,8 However, co-doping of multi-activators inasingle matrix always has a strict limited activator concentration due to luminescence quenching.Difficulties in the optimization of multi-activator concentration and luminescence efficiency in the matrix crystalline structure make it a challenging research work. The uniformity of blended phosphors,on the other hand, is not stable. In the present work,we proposed an yttrium aluminum garnet (YAG) phosphor with spatially separated luminescence centers.The phosphor is designed with a core-shell structure where different luminescence centers were accommodated individually. The structure is constructed via a urea precipitation method with an introduced second phase.The YAG material is attractive as a matrix for the luminescent material due to its excellent chemical and physical properties.9-13 The YAG matrix has several favorable properties such as physical and chemical stability,and transparency over a broad spectral range.YAG based phosphors are the most widely investigatd luminescent materials.At the same time, luminescent materials using YAG as a matrix always exhibit excellent optical properties. The urea precipitation method has been developed as an important approach for the preparation of inorganic particles with defined morphology and composition.14-19 Stable pH obtained during the thermal decomposition of urea in aqueous solution makes it quite promising for the precise composition control of ultrafine powders. The clear decomposition mechanism of urea provides researchers the possibility to analyze the evolution process of ultrafine particles from their initial forming period. Even though the urea precipitation method has been applied in several studies for nanoparticle synthesis,its application in the preparation of particles in the micron size region is seldom reported.In the present work,we implement this method to synthesise spherical YAG nanoparticles by assembling a layer of the Y-Al-Cr-compound on YAG:Ce spherical particles to form a core-shell nanostructure.The prepared particles then transform into YAG:Ce/YAG:Cr particles through a calcination process.The main idea of that route lies in the self-assembling of the Y-Al-Cr-compound on the surface of YAG:Ce based on the burst nucleation synthesis process.We first demonstrated this method to coat the Y-compound on $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ particles of about $5 0 ~ \\mathrm { { n m } }$ to prepare a core-shell structured YAG precursor.20,21 In this work, we expand the method to micrometer size particle preparation.More importantly, the core shell structure is preserved to accommodate different luminescence centers.As prepared YAG:Ce/YAG:Cr particles can emit a broad range of photons from 500 to $7 5 0 \\ \\mathrm { n m }$ ，The method accomplished can significantly improve the exploration of full spectrum lumines cent powder synthesis and spectra designation.Besides,spatially separated luminescence centers in the micrometer range can offer considerable uniformity while avoiding the mutual inter action of co-doped luminescence centers in the same confined crystalline structure.Individual mediation on each component of the core-shell structure can be easily accomplished by varying its core-shell dimension scale and the luminescence centers' concentration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 shows an image of a typical phosphor with $\\delta = 1 : 1$ at different stages of preparation observed bya confocal laser scanning microscope. $\\delta = R _ { \\mathrm { c o r e } } / D _ { \\mathrm { s h e l l } } ,$ where $R _ { \\mathrm { c o r e } }$ is the radius of the core,and $D _ { \\mathrm { s h e l l } }$ is the thickness of the shell. Fig.1a exhibits the morphology of the YAG:Ce phosphor particles, the spherical particles with an average grain size of about $3 \\ \\mu \\mathrm { m }$ offer cores that the Y-Al-Cr-compound attach onto.After the precipitation process,a well dispersed gel like encapsulation structure with an average grain size of about $7 { - } 8 ~ \\mu \\mathrm { m }$ can be observed in Fig.1b.With excitation of a $4 0 8 \\ \\mathrm { n m }$ laser,the YAG:Ce core which locates in the center of the gel as an inclusion can be clearly detected (inset ofFig.1b).A calcined powder witha relatively rough surface can be obtained after the calcination process (see Fig. 1c). Under the radiation of an ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb1c2c65c8299db767f82f96344275633a6dcecd12f9cc168316bacd8004ccb2.jpg",
+        "img_caption": [
+            "Fig.1Microstructure image of phosphor at different preparation stages, (a) YAG:Ce phosphor,(b)Y-Al-Cr-compound coated on the YAG:Ce core, inset:single particle microstructure,(c) Y-Al-Cr/YAG:Ce structure after calcination,(d) luminescence image of Y-Al-Cr/YAG:Ce structured powder, (e and f) cracked Y-Al-Cr/YAG:Ce structured powder. ",
+            "Fig.2 X-Ray diffraction patterns of phosphors at different preparation stages,(a) YAG:Ce phosphor,(b) Y-Al-Cr-compound coated on the YAG:Ce core,(c) Y-Al-Cr/YAG:Ce structure after calcination. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20000 15000 (c) G YAG:Ce/YAG:Cr 100000 G G GG GG GG G 人 一 人 人 0 Thiseetu 5000 (b) Y-A1-CA-G:Cepound 3000 G 2000 G GG 1 G G G 1 1000 A A 人 3000 L G YAG:Ce 20000 10000 (a) G G GG GG GG GI A L 二 0 1 10 20 30 40 50 2 Theta/0 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "excitation laser,different luminescence behaviors of the calcined powder at different positions are observed.The central part of the powder exhibits a near yellow color,while the marginal part emits a nearred color. Overall theparticlesshowan integral color of yellow and red (see Fig.1d).That phenomenon can be observed more clearly in cracked particlesobtained usingball milling.The YAG:Ce core remains intact in the as prepared particles so that the core shell structure was preserved (see Fig.1e and f). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the X-Ray diffraction patterns of a typical phosphor with $\\delta = 1 : 1$ at different preparation stages.It can be seen from the figure that the primary YAG:Ce phosphor is composed of particles with extremely good crystallinity (see Fig.2a).All diffraction peaks can be indexed as the standard diffraction peaks of the YAG crystalline structure.After the coating process,the Y-Al-Cr-compound was precipitated onto the surface of the YAG:Ce core as a precursor,20,21 thus the diffraction intensity of the encapsulation particles is significantly weakened (see Fig.2b).Its intensity is onlyabout $1 / 1 0$ of that of the YAG:Ce phosphor.After the calcination procedure, the Y-Al-Cr-compound decomposes and forms the YAG:Cr phase.According to the diffraction pattern shown in Fig.2c, the YAG crystalline phase can be obtained after the heat treatment.All diffraction peaks shown in Fig.2c can be indexed as YAG crystalline structure diffraction peaks,no other peaks can be detected.YAG:Ce/YAG:Cr particles were thereby accomplished.The result shown in Fig.2 is in excellent accordance with the data exhibited in Fig.1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the excitation-emission spectra of different phosphors.Fig.3a shows the excitation-emission spectra of YAG:Ce and YAG:Cr phosphors.It can be seen from the spectra that the YAG:Ce phosphor can achieve the best emission efficiency at the excitation wavelength of $4 6 0 \\ \\mathrm { n m }$ Its main emission peak ranges from 500 to $6 0 0 \\ \\mathrm { n m }$ ,which is consistent with the typical emission spectra of the $\\mathrm { C e } ^ { 3 + }$ ion (5d-4f transition) in the YAG matrix. The YAG:Cr phosphor can be sufficiently excited at the excitation wavelength of around $4 3 8 ~ \\mathrm { n m }$ .Its main emission peak ranges around $7 0 0 ~ \\mathrm { n m }$ ，which is consistent with the typical emission spectra of the $\\mathrm { C r } ^ { 3 + }$ ion( $\\mathrm { ^ { 4 } T } \\mathrm { - } ^ { 2 } \\mathrm { A }$ transition） in the ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0a8a9b66898f04b085ed5d9cde3bcb9377282c8560646f2dd113b4cd3621a00.jpg",
+        "img_caption": [
+            "Fig.3Excitation-emission spectra of different phosphors,(a) YAG:Ce and YAG:Cr phosphors,(b) YAG:Ce/YAG:Cr encapsulation particles with different core-shell dimension scales. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "YAG matrix.22,23 Fig.3b shows the excitation-emission spectra of YAG:Ce/YAG:Cr particles.It can be seen from the spectra that the encapsulated particles exhibit both excitation-emission behaviors of YAG:Cr and YAG:Ce.Besides,the emission peak intensity of YAG:Cr at around $7 0 0 \\mathrm { n m }$ can be adjusted according to the variation of the core-shell dimension scale.With the increase of the YAG:Cr layer, the intensity of the emission peak at around $7 0 0 ~ \\mathrm { n m }$ rises significantly.At the same time,we can see from Fig.3 that the excitation spectra overlap with the emission spectra of YAG:Ce.It indicates that the YAG:Cr layer can be excited by both the excitation source and the emission photons of YAG:Ce, this phenomenon was also proved by Wang, etc.in a Cr and Ce codoped YAG phosphor in 2oo8.23 Photons emitted by $\\mathrm { C e } ^ { 3 + }$ can be absorbed by the ${ \\mathrm { C r } } ^ { 3 + }$ ion immediately since this process can happen within a unit cell in an activator co-doped phosphor.As to the core shell structure phosphor, this process is very much delayed, the photons emitted by $\\mathrm { C e } ^ { 3 + }$ need to transmit to the YAG:Cr layer to interact with $\\mathrm { C r } ^ { 3 + }$ ions.With the variation of the core-shell dimension scale,the relative emission intensity between $7 0 0 \\mathrm { n m }$ and $5 6 0 \\mathrm { n m }$ can also be adjusted.As the thickness of the YAG:Cr layer increases,the YAG:Ce core will be further shielded from receiving excitation photons.Its emission photons are thereby decreased. At the same time, during its outgoing process,photons emitted from the YAG:Ce core will be further absorbed by increasing the YAG:Cr layer. The overall emission spectra of the core-shell phosphor are thereby adjusted with the variation of the core-shell dimension scale. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A schematic illustration of the emission process of the as prepared YAG:Ce/YAG:Cr encapsulation particles is shown in Fig.4.After the formation of the encapsulation particles,under the excitation of photons with a wavelength of $4 3 3 \\ \\mathrm { n m }$ ，the encapsulation particles can emit photons with wavelength ranges from 500 to $7 5 0 \\ \\mathrm { n m }$ . Based on the experiment and explanation above,we can conclude that the emitted photons include three parts: clearly, two portions of the integral spectra are from the emission photons of YAG:Cr and YAG:Ce,respectively.Moreover,a third portion of the integral spectra is of the emission photons of YAG:Cr excited by the emission photons of the YAG:Ce core. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d5a2efbfe644f3dbf093af661d94c2a1cf69f863447040156a642e26b97509b.jpg",
+        "img_caption": [
+            "Fig.4Schematic illustration of the emission process of the as prepared YAG:Ce/YAG:Cr encapsulation particles. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3d7b7c39fa3897eba0d57f967f5a2966bb3121bc83c5942e20bec61e22339fb.jpg",
+        "img_caption": [
+            "Fig.5Different approaches to enrich the spectra of phosphors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Themethoddemonstratedinthisworkprovidesatransition solution for phosphor spectra designation between activator co-doped phosphors and blended monochromatic phosphors (see Fig.5).It can avoid the unprofitable interaction between different activators in the same confined crystalline structure. At the same time,it can offer better spectra uniformity than blended single phase phosphors.Each activator can be accommodated in its particular crystalline structure at its maximal concentration.The variation of the matrix material can offer the possibility to accommodate more activators in different crystal fields and further enrich its spectra. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The YAG:Ce/YAG:Cr encapsulation structure can be prepared via the urea homogeneous precipitation method using the YAG:Ce spherical core as the introduced second phase.As prepared YAG:Ce/YAG:Cr particles can emit a broad range of photons with wavelengths from 500 to $7 5 0 ~ \\mathrm { n m }$ .The method accomplished in this work can significantly improve the exploration of full spectrum luminescent powder synthesis and spectra designation. Besides,spatially separated luminescence centers in the micrometer range can offer considerable uniformity while avoiding the mutual interaction of co-doped luminescence centers in the same confined crystalline structure.Individual mediation on each component of the core-shell structure can be easily accomplished by varying its core-shell dimension scale and the luminescence centers'concentration.The method presented in this workcan provide a new approach for phosphor synthesis and spectra integration.Several material systems such as oxides,aluminates, etc.,can be prepared according to the implementation of this method. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This project is supported by the National Natural Science Foundation of China (Grant No．51502308，51402317)，the ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ningbo Municipal Nature Science Foundation (2014A610014), and the Ningbo Science and Technology Innovation Team (Grant No.2014B82004). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 J.Emsley，The Shocking History of Phosphorus，London, Macmillan,2000.   \n2 S.Pimputkar,J.S.Speck, S.P.DenBaars and S.Nakamura, Nat.Photonics,2009,3,180.   \n3R.J.Xie and N.Hirosaki,Sci.Technol.Adv.Mater.,2007, 8,588.   \n4 S.Nakamura,T.Mukai and M. Senoh,Appl.Phys. Lett.,1994, 64,1687.   \n5S.NakamuraandG.Fasol,TheBlueLaserDiode:GaNBased LightEmittersandLasers,Springer,Berlin,Germany,1997.   \n6E.F.Schubert and J.K.Kim, Science,2005,308,1274.   \n7C.C.Lin and R. S.Liu,J.Phys.Chem.Lett.,2011,2,1268.   \n8L.Chen,C.C.Lin,C.W.Yeh andR.S.Liu,Materials,2010, 3,2172.   \n9 G.Blasse and A. Bril,Appl. Phys. Lett,1967,11,53.   \nl0 G.Blasse and A. Bril,J. Chem. Phys.,1967,47,5139.   \n[1 Y.Shimizu,K. Sakano,Y.Noguchi and T.Moriguchi,Light emittingdeviceanddisplaydevice,EP0936682A1,1997.   \nl2 U．Reeh，K.Hohn，N.Stath，G．Waitl，P.Schlotter, J.Schneider and R.Schmidt,Light radiating semiconductor component with a luminescence conversion element,US Pat., US 6,812,500B2,2000.   \n13 V.Bachmann, C.Ronda and A. Meijerink, Chem. Mater., 2009,21,2077.   \n14 H. M. Qin, X. J. Tan, W. C. Huang, J. Jiang and H. C. Jiang, Ceram. Int.,2015,41,11598.   \n15B.Aiken,W.P.HSU and E.Matijevic,J.Am. Ceram. Soc., 1988,71(10), 845.   \n16J.G.Li,X.D.Li,X.D.Sun,T.Ikegami and T.Ishigaki, Chem. Mater.,2008,20(6),2274.   \n17 H. M. Qin,H. Liu, Y. H. Sang, Y. H. Lv, X. L. Zhang, Y. Y. Zhang, T. Ohachi and J. Y. Wang, CrystEngComm, 2012,14,1783.   \n18 H.M. Qin, X.H. Zhang,H. Liu, Y. H. Sang and J. Y. Wang, CrystEngComm,2013,15(25),5076.   \n19 X. J. Xu, X. D. Sun, H. Liu, J. G. Li, X. D. Li, D. Huo and S.H.Liu,J.Am. Ceram. Soc.,2012,95(12),3821.   \n20 Y.H. Sang,H.M.Qin, H. Liu,L.L. Zhao, Y.N.Wang,H. D. Jiang and J.Y.Wang,J.Eur. Ceram. Soc.，2013，33(13-14), 2617.   \n21 D.D. Guo,L. L. Zhao, Y. H. Sang,H. Liu,S.H. Liu and X.D. Sun,RSC Adv.,2014,4,55400.   \n22K.M.Kinsman and J.McKittrick,J.Am. Ceram. Soc.,1994, 77，2866.   \n23 W.Wang, J. Tang and S.T.Hus,Chem. Phys.Lett.，2008, 457,103. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

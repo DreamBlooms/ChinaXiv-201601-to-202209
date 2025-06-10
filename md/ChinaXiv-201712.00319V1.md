@@ -1,0 +1,176 @@
+# 基于BIM和本体的建筑运维管理研究
+
+陈贵涛1,2
+
+1.深圳市建筑科学研究院股份有限公司,深圳518049；2.哈尔滨工业大学深圳研究生院,深圳518055）
+
+【摘要】为促进建筑运维管理在语义网上的实现，建立了基于BIM和本体技术的智能应用框架；结合DogOnt 本体建立了建筑运维管理本体；提出了BIM数据提取方法及个体、规则的创建方法；采用Revit API、OWL API和SWRL API技术实现了框架程序。利用一个实际项目验证了框架、方法和程序的有效性。对推进BIM、本体和语义网技术的发展以及建筑运维的网络化、智能化管理具有重要意义。
+
+【关键词】建筑运维管理；本体；BIM；OWL；SWRL  
+【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)04-0067-07  
+【DOI】10.16670/j.cnki.cn11-5823/tu.2017.04.13
+
+建筑生命周期内，运维成本可能数倍于建造成本。有效建筑运维管理以准确详尽的运维信息为基础，是一种高效智能的信息化管理。然而，目前建筑行业普遍存在的信息孤岛、低效的手动操作方式以及运维数据的非数字化等问题已成为实现有效建筑运维管理的主要阻碍。
+
+>建筑信息模型(BIM)是“一个新兴的设计、施工和运维管理方法，该方法采用数字化形式表达建设过程，并基于这种数据模型实现建筑信息交互 。[2]。BIM技术在建筑运维领域内的应用,可实现协调、一致和可量化的运维管理。然而,BIM数据与运维管理系统间的交互是一个低效的易于出错的过程。同时，BIM数据存储技术标准一IFC标准[3]缺少语义，限制了BIM数据的智能应用[4]
+
+本体作为共享概念模型的明确的形式化规范说明,表达了领域内若干概念之间的内在关系[5]本体可以提供共同的术语和形式化的语义，能够进行一致性检查，实现异质数据的集成和不同应用间的互操作,并可实现领域本体的复用和推理[6。更重要的是，本体技术可提供一种机器可理解的数据语义,是语义网[对事物的描述基础。建立建筑运维的本体化描述，对实现运维的网络化、智能化管理具有重要作用。
+
+本文实现了基于BIM与本体技术的建筑运维管理的语义描述与智能推理，为建筑运维管理的语义网实现提供了重要基础，对BIM技术、本体语义网技术的发展及建筑运维的智能化、网络化管理起重要促进作用。
+
+# 1建筑运维管理架构
+
+基于BIM和本体的智能应用框架如图1所示。OWL（Web Ontology Language,网络本体语言）8」知识库通过构建建筑本体与其他领域本体的关联，按建筑本体TBox提供的信息结构，从BIM模型中提取建筑信息，建立建筑本体的ABox。SWRL（Semat-ic WebRuleLanguage,语义网规则语言）9规则引擎桥用于OWL知识库和规则引擎的交互,实现规则推理和OWL知识检索。框架中本体管理系统用于创建、编辑本体。推理机可执行异质监测、TBox计算等任务，以确保本体的一致性。
+
+图1框架的实现需要依靠RevitAPI、OWL$\mathrm { A P I } ^ { [ 1 0 ] }$ 和 SWRL API[9]三个应用程序编程接口。OWLAPI的实体和类的表述以及公理的接口层级和名称与OWL结构标准直接对应。这种规定允许开发者在一个合适的抽象水平上工作，从复杂的本体语法描述中脱离出来。同时，OWLAPI提供了推理机接口，允许推理功能独立于本体知识库运行，减轻了本体的负担与复杂度。
+
+![](images/1f1e49f49ef30a38470fea16264a72ef2ac7796ba47263ca690c4057fa8d8565.jpg)  
+图1基于BIM和本体的智能应用框架  
+图2程序结构
+
+OSWRLAPI采用规则引擎实现了OWL知识库、SWRL规则和第三方规则引擎之间的交互。逻辑以规则的形式独立于OWL知识库被推理和处置。另外,SWRLAPI支持built-ins实现用户定义的用于规则中的判断,同时 SWRL API 提供了built-ins 桥和系列built-ins库,这对于拓展SWRL非常有利。另外 SWRL API采用 SWQRL[1]实现OWL 知识库的检索。SQWRL采用标准 SWRLbuilt-in 机制,作为一个built-in库执行,规则推理与本体检索采用统一的方式执行。
+
+这样，用户从底层的语法、语义、逻辑的数据操a作中脱离出来，专注于ABox、SWRL规则和SQWRL查询等应用层面上的工作，提升了应用框架的适用性,对于拓展本体技术的推广具有重要意义。同时，BIM技术也被融入应用框架，随着语义网技术的发展，建筑信息将不再是存储在专业图纸中的专业信息，而是可以被Web访问，被机器引擎自动处理的有效信息。建筑信息将与其他信息一起构成语义丰富、相互关联的知识库，建筑信息的应用潜力将是不可估量的。
+
+# 2 程序结构
+
+实现图1应用框架的程序结构如图2所示。程序采用 RevitAPI技术,基于Revit 软件[12]（BIM系统)采用C#程序语言实现。系统主要由五部分组成，BIM系统提供建筑运维信息，图形化展示运维结果；数据库主要用于存储建筑运维数据和本体推理结果；建筑运维管理本体是包含了个体和SWRL规则库的OWL知识库，是建筑运维智能管理和网络管理的核心。
+
+BIM数据处 本体处理 建筑运维BIM系统 ↑ 理程序 ↑↓ 数据库 \$ 程序 管理本体
+
+上述三部分通过BIM数据处理程序和本体处理程序实现数据交互。BIM数据处理程序一方面可按照建筑运维管理本体对建筑数据的结构约束，从BIM模型中自动提取数据并存储至数据库。另一方面，该程序可自动读取数据库中存储的本体推理结果，实现运维管理所需的图形展示功能。另外，建筑运维管理功能的流程控制也通过该程序实现。本体处理程序采用Java技术建立，可实现对本体的创建、更新以及对规则和查询的建立和执行。另外该程序可将推理结果存储至数据库，以便BIM处理程序调用。
+
+# 3建筑运维本体
+
+本质上，建筑运维本体提供一个信息结构，能准确完备地描述建筑运维的信息需求。如表1所示，建筑运维的信息包括几何信息和非几何信息两类[13] 。
+
+本研究以 $\mathrm { D o g O n t } ^ { [ 1 4 ] }$ 本体为基础,拓展了 TBox,建立了建筑运维本体。一些基本的概念和关系如图3所示。其中,Building Thing用于模拟建筑构件、设施和设备；BuildingEnvironment用于模拟建筑的空间信息；Sate用于模拟可控单元可以呈现的稳定状态；Functionality用于模拟可控单元的功能;NetworkComponent用于模拟网络特征；Staff用于模拟运维人员。这些基本概念又被详细分为若干子类。例如State按状态特征被划分为连续值（Continue State）和离散值(Discrete State）。
+
+基本概念通过对象属性建立关联，例如Control类中的建筑设备个体通过hasFunction与Function中的某个功能个体关联。同时概念与其特征描述通过数据属性建立关联，例如Room类中的办公室个体通过hasRoomArea与xsd：double类型的数据关联。由于本体TBox包含的概念和关系较多，限于篇幅限制，有关 $\mathrm { D o g O n t }$ 本体的详细介绍参见参考文献[14]。
+
+表1建筑运维的信息需求  
+
+<html><body><table><tr><td>类别 几何</td><td>子类别</td><td>信息需求</td></tr><tr><td>信息</td><td>建筑信息 设备设施 信息 空间信息 空隙信息</td><td>建筑构件、结构构件的几何信息; 机械、电力、管道、通信和消防系统的几何 信息； 建筑、楼层、房间和区域信息；构件、设备和 设施的空间信息； 构件、设备和设施的空隙信息；</td></tr><tr><td></td><td>属性 文件 人员</td><td>设备和设号、称属分：、信购、保修、备 件、使用情况等信息； 设备和设施状态属性：运行状态、运行历史、 维护历史、限值、功率、能耗等信息； 设备设施的合格证、保修文件、操作和使用 说明等； 管理制度；工作程序等; 姓名、分组、职责、薪酬、工作状态等信息</td></tr></table></body></html>
+
+![](images/04527ea3d293e2fc57d2ee7d0f2b3d064bd1372fa72b44704e64f687895f69af.jpg)  
+图3建筑运维本体片段
+
+# 4BIM信息提取方法
+
+BIM模型集成了建筑生命周期内的信息，作为建筑信息数据库为不同阶段不同利益相关者提取需求信息提供了数据基础。然而，从BIM模型中提取信息是一个冗繁的过程。有学者基于IFC文件和ifcXML 文件建立提取程序提取需求信息[12,15]。这种方法存在两个缺点：一是IFC和ifcXML文件中实体、单元、属性和数值间通过复杂的ID引用实现,为找到某个单元的相关信息需要循环遍历大量文本，信息提取效率低；二是尽管基于IFC和ifcXML文档可以获得大部分建筑单元的信息和简单的关联关系，一些复杂的关联关系和建筑空间信息是无法获取的。
+
+本文采用RevitAPI技术根据TBox中关于信息的要求与约束，从BIM模型中直接提取相关信息，建立个体。
+
+# 4.1个体的提取
+
+个体信息的提取首先应建立一个RevitAPI参数到本体TBox的映射，如表2所示。
+
+表2RevitAPI参数到本体TBox的映射片段  
+
+<html><body><table><tr><td>Revit API参数</td><td>类型</td><td>运维本体类</td></tr><tr><td>Room</td><td>基类</td><td>Room</td></tr><tr><td>OST_Floors</td><td>族类型</td><td>Storey</td></tr><tr><td>OST_Walls</td><td>族类型</td><td>Wall</td></tr><tr><td>OST_Windows</td><td>族类型</td><td>Window</td></tr><tr><td>OST_Doors</td><td>族类型</td><td>Door</td></tr><tr><td>OST_ElectricalFixtures</td><td>族类型</td><td>ElectricalSystem</td></tr><tr><td>OST_LightingDevices</td><td>族类型</td><td>Lighting</td></tr><tr><td>OST_PlumbingFixtures</td><td>族类型</td><td>SanitaryFixtures</td></tr><tr><td>OST_DataDevices</td><td>族类型</td><td>DataDevice</td></tr><tr><td>OST_MechanicalEquipment</td><td>族类型</td><td>HVACSystem</td></tr><tr><td>OST_PipeAccessory</td><td>族类型</td><td>PipeAccessor</td></tr><tr><td>OST_DuctTerminal</td><td>族类型</td><td>DuctTerminal</td></tr><tr><td>OST_FireAlarmDevices</td><td>族类型</td><td>FireAlarmDevices</td></tr><tr><td>OST_LightingFixtures</td><td>族类型</td><td>Button</td></tr></table></body></html>
+
+创建逻辑的不同导致运维本体与IFC范例无法完全一致。RevitAPI中对建筑的分类细度较大。例如OST_MechanicalEquipment是水泵、压缩机等机械设备的内置类别参数，然而在运维本体内水泵和压缩机是两个类。因此，在映射中将RevitAPI参数映射至运维本体较高层级的类上，再根据具体单元的其他属性信息确定其归属。
+
+以Room类为例，可利用RevitAPI的Room参数获取建筑内的所有房间，再根据房间的名称确定其类的归属。如果房间名称中包含“办公”则属于Office类，如果包含“卫生间"或"厕所"则属于RestRoom类。
+
+# 4.2个体属性的提取
+
+数据属性的提取可通过RevitAPI内置参数或共享参数直接从BIM模型中提取，前提是建立数据属性与内置参数或共享参数的映射。以房屋的数据属性为例，数据属性与RevitAPI参数间的映射关系如表3所示。
+
+个体间的对象属性涉及他们的空间、逻辑等无法被IFC直接表示的复杂关系。需要分别针对对象属性表示的含义，从BIM模型中提取相关信息逐个建立。同时，在本体内数据属性和对象属性还具有属性约束，在实现过程中应满足属性约束。
+
+表3RevitAPI参数到本体数据属性的映射片段  
+
+<html><body><table><tr><td>数据属性</td><td>RevitAPI参数</td><td>参数属性</td></tr><tr><td>hasRoomID</td><td>ROOM_NUMBER</td><td>BuiltInParameter</td></tr><tr><td>hasRoomName</td><td>ROOM_NAME</td><td>BuiltInParameter</td></tr><tr><td>hasRoomArea</td><td>ROOM_AREA</td><td>BuiltInParameter</td></tr><tr><td>ThasRoomOccupancy</td><td>ROOM_OCCUPANCY</td><td>BuiltInParameter</td></tr><tr><td>hasTenancyDepartment</td><td>ROOM_Department</td><td>SharedParameter</td></tr><tr><td>9 has Warning</td><td>ROOM_Warning</td><td>SharedParameter</td></tr><tr><td>ThasTenancyEndTime</td><td>ROOM_TenancyEndTime</td><td>SharedParameter</td></tr><tr><td>ChasTenancyStartTime</td><td>ROOM_TenancyStartTime</td><td>SharedParameter</td></tr><tr><td>hasTenancyTerm</td><td>ROOM_TenancyTerm</td><td>SharedParameter</td></tr></table></body></html>
+
+functionbuildingInfo $\ O =$ buildingInfoExtract(para)   
+Tif(para 是内置参数或共享参数)   
+利用revitAPI函数直接获取buildingInfo   
+elseif(para是与空间相关的参数) 获得BIM模型中的所有空间rooms 获得para对应对象object foreach(roomin rooms) 获得空间边界boundary 获得object的位置location if(location in boundary) 判定object在空间room内   
+a endif   
+Cendforeach endif
+
+从BIM模型中提取信息的程序伪码如图4所示。需要说明的是RevitAPI中给出了设施、设备族实例的Room属性，用于表示其所属的房间。但这一属性经常会因为建模、操作等原因结果为null。图4所示程序通过空间信息判断设施设备的空间属性,更具鲁棒性。
+
+# 4.3本体个体、规则和检索的建立
+
+本研究中，本体个体、规则和检索的建立采用本体处理程序实现。本体处理程序中采用OWLAPI提供的在一定抽象水平上的接口实现个体声明、类声明和属性声明。个体是类的实例，应遵循类的层级和属性约束，因此，这些声明应该是遵循TBox中关于类的描述，是一种定制的方法。另外,本体技术遵循开放世界假设-没有显式说明的信息就是未知，在个体信息更新过程中，应满足TBox关于属性的存在性约束和基数约束。对于具有唯一对象的属性的更新，应删除旧的声明再建立新的声明。
+
+规则和检索的建立采用SWRL语言实现。SWRL语法包含两个主要部分，前提（antecedent）和结果（consequent），这两部分用符号“ $$ ”相连。“前提”和“结果”都是元素（atom）的集合体，各元素间采用“”相连。SWRL提供了7中类型的元素：类元素，个体属性元素，数据值属性元素，区别个体元素，相同个体元素，built-in元素和数据取值范围元素。每个元素中的变量以“？”开头附以字母表示。一个类元素由本体内一个类的名称和该类的一个个体或变量组合而成。一个个体属性元素由一个对象属性和两个变量表示的个体组成。相似的，一个数值属性元素由一个数值属性和两个变量组成，第一个变量表示OWL个体，第二个变量表示数据属性或值。区分个体元素和相同个体元素用于区分两个变量是否为同一个个体。built－in元素是SWRL提供的最先进的特征，它能够提供更复杂的谓语描述,包括数学计算。
+
+# 5 应用案例
+
+选择一个实际项目-未来立方的空间(图5）为例验证研究本文提出的方法。该项目建筑面积$6 5 8 . 1 8 \mathrm { m } ^ { 2 }$ ,建筑高度 $1 0 . 2 \mathrm { m }$ 。采用 $9 \mathrm { m } \times 9 \mathrm { m } \times 9 \mathrm { m }$ 的空间布局，空间内部功能分区采用模块化技术实现，可根据需求自由转换。
+
+![](images/7642201b904ca86235d7cb408e20e428f8aadb5b740fc386a464f68877536ec2.jpg)  
+图4信息提取伪码示例  
+图5未来立方项目
+
+采用SWRL规则语言建立一个推理规则：如果房间c的租期还有1个月到期，则对房间c进行预警。推理规则的SWRL描述如下：
+
+Rulel:abox:dpaa(?c,hasTenancyEndTime,?t)^ temporal:duration(?d,“now”,?t,“Months")^ swrlb:lessThan(?d,2)→hasWarning(?c,“Y")
+
+BIM数据处理程序提供规则和检索语句界面，当规则被要求执行时，BIM数据处理程序会根据TBox提取空间信息（如图6所示），并将空间信息存储至数据库。之后程序会调用封装了本体处理程序的JAR，建立ABox（如图7所示）。随后规则将被SWRL规则桥导入至规则引擎，dpaa、duration和lessThan三个库内的build-ins将通过SWRLbuilt -in引擎桥导入至规则引擎。规则引擎进行语义推理，推理得出的新的断言将通过SWRL规则引擎桥插入OWL本体。
+
+规则引擎将找到满足条件的房间，并遵循开放世界假设给这些房间增加一个断言（chasWarning“")。因此在增加断言之前，这些房间原有的hasWarning属性应被删除。
+
+查找这些房间的查询语句可描述为：
+
+Q1:abox:dpaa(?c,hasTenancyEndTime,?t)^ temporal:duration(?d,“now”,?t,“Months”) \`swrlb:lessThan $( \textrm { ? d } , 2 ) $ swrlb:select(? c)
+
+这些房间的数据将被存储至数据库，BIM处理程序将从数据库中读取结果信息，并将满足条件的房间的“续租预警”属性更新为ture，并打开各房间在BIM软件中对应的平面视图与三维视图，实现推理结果的直观展示。
+
+实际项目中，没有房间到期，为验证方法有效性做如下调整：F1N005的租期调整为1年，开始时间和结束时间分别为 $2 0 1 6 - 0 3 \mathrm { ~ - ~ } 0 1$ 和2017-03-01。执行推理结果如图7和图8所示。可以看出,在OWL本体中,F1NOO5的 hasTenancyStart-Time、hasTenancyEndTime、hasWaring属性对应数据分别为 $2 0 1 6 - 0 3 - 0 1 \_ 2 0 1 7 - 0 3 - 0 1$ 和Y。在Revit软件中，对应房间的视图已经打开，属性也已修改。
+
+为进一步验证个体信息提取方法，按图4的流程，以Revit单元内置ID为主键，提取了房屋内消防、机械、电力、空调等设备信息。截取信息片段如图所示，以房间2376343为例，设备分布如图9和图10所示。可以看出，本文方法可以有效利用空间关系，处理对象属性公理的构建。
+
+提取BIM模型中的房间信息 提取 导出表格编号 名称 标高 上限 标示高度 面积 占用 租期 租用单位 开始时间 到其时间 续租预警+ B1N001 真空泵房 B1 P1J1 2700 12.76 85%F1J18001 卫生间 P1J1 P2 3000 19.77 100%F1N001 卫生间 P1 P1J1 1500 10.81 100%F1002 楼梯间 P1 P2 4500 12.61 100%F1003 电梯间 P1 P3 9000 9.68 100%F1N004 办公区 P1 P2 4500 77.02 10% 5年 低碳城运营中心 2016-10-01 2021-10-01F1N005 展示区 P1 P2J1 6000 89.00 15% 5年 低碳城运营中心 2016-10-01 2021-10-01P1N006 外廓 P1 P2 4500 50.95 0%F1N007 弱电间 P1 P2 4500 1.56 100%F1N008 强电间 P1 P2 4500 1.20 100%F1009 弱电控制室 P1 P2 4500 8.22 100%F2J18002 楼梯间 P211 P3 3000 11.23 100%F2J18003 门库 P2J1 P3 3000 16.94F2J18005 小型办公展示区 P2J1 F3 3000 56.00 10% 3年 深圳市龙岗区. 2016-10-01 2019-10-01F2N001 卫生间 P2 P3 4500 7.84 100%F2N002 卫生间 P2 P3 4500 9.72 100%F2N003 楼梯间 2 F3 4500 16.76 100%P2N004 强电井 P2 RP1 8150 0.54 100%F2N005S 弱电井 P2 RP1 8150 0.72 100%F2N006 开放活动区 P2 F3 4500 114.37 60% 3年 深圳市龙岗区. 2016-10-01 2019-10-01P2N007 外廊 P2 P3 4500 50.95 0F2N008 楼梯间 P2 P3 4500 9.83 100%F3N001 FLEXLAB实验室 P3 RP1 3650 27.47 %F3N002 FLEXLAB实验室 F3 RP1 3650 28.81 5F3N003 机房 P3 RP1 3650 7.40 60%F3N004 设备间 P3 RP1 3650 7.52 5F3N005 设备间 P3 RP1 3650 8.29 5P3N006 设备放置区 P3 RP1 3650 142.76 8%RFN001 屋项 RP RP3 2200 24.91 0%RFN002 太阳能屋项 RP RP3 2200 46.87 100%天 L
+
+<!--http://www.semanticweb.org/chenguitao/ontologies/FMOnt#FiNo05-->   
+<owl:NamedIndividual rdf:about="http://www.semanticweb.org/chenguitao/ontologies/FMont#FiNo05"> <rdf:type rdf:resource="htp://ww.semanticweb.org/chenguitao/ontologies/FMont#ExhibitionRoom"/> <rdf:type rdf:resource="http://www.semanticweb.org/chenguitao/ontologies/FMont#Room"/> <localedInrdf:resource="http://www.semanticweb.org/chenguitao/ontologies/FMont#F1"/> <roomUpLimitIs rdf:resource"http://ww.semanticweb.org/chenguitao/ontologies/FMont#F2J1"/> <hasHeightrdf:datatype="http://www.w3.org/2001/xmLschema#double">6000.0</hasHeight> <hasRoomArea rdf:datatype="http://www.w3.org/2001/XMLSchema#double">89.0</hasRoomArea> <hasRoomID rdf:datatype="http://www.w3.org/2001/XMLSchema#string>F1N005</hasRoomID> <hasRoomNamerdf:datatype="http://www.w3.org/20o1/XMLSchema#string">展示区</hasRoomName> <hasRoomoccupancy rdf:datatype="http://www.w3.org/2001/xmLSchema#double">15.0</hasRoomOccupancy> <hasTenancyDepartmentrdf:datatype"http://ww.w3.org/21/xSchema#string">低碳城运营中心</hasTenancyDepartment> <hasTenancyEndime rdf:datatype="http://www.w3.org/2001/xmLSchema#date">2017-03-01</hasTenancyEndime> <hasTenancytartime rdf:datatype"http://ww.w3.org/2001/Mchemadate">2016-03-01</hasTenancystartime> <hasTenancyTerm rdf:datatype="http://www.w3.org/20oi/xmSchema#string">1年</hasTenancyTerm> <hasWarningrdf:datatype="http://www.w3.org/20o1/XMLSchema#string">Y</hasWarning>   
+</owl:NamedIndividual>
+
+![](images/3581100bcb2ef115d2d93742f1fd6567c9af31ec50ca5745eef7d9148d8ddf3e.jpg)  
+图8推理结果的BIM展示
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2236994 2236996 2237000 2237002 2238790 223999122399932376343</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295112 2295119 2295322 2322876 2295320 2295082 2295092 2295134</td><td></td></tr><tr><td></td><td></td><td></td><td>229511322951212295265 23230542295149</td><td></td><td></td><td></td><td>2295084 22950942295136</td><td></td></tr><tr><td></td><td></td><td>2295124 2295122 2295366</td><td></td><td></td><td></td><td></td><td>2295266 2295088 2295096 2295137</td><td></td></tr><tr><td>.</td><td></td><td>2295125 2295123 2295367</td><td></td><td></td><td></td><td></td><td>2295363 2295090 2295098 2295138</td><td></td></tr><tr><td></td><td></td><td>22951572295159 2295368</td><td></td><td></td><td>2295364</td><td></td><td>2295142 2295100 2295139</td><td></td></tr><tr><td></td><td></td><td>2295243 2295315 2295369</td><td></td><td></td><td></td><td></td><td>2295365 2295144 2295102 2295303</td><td></td></tr><tr><td></td><td></td><td>2295308 2295317 2295370</td><td></td><td></td><td></td><td></td><td>2322904 2295145 2295147 2295304</td><td></td></tr><tr><td></td><td></td><td>2295310 2295319 2295371</td><td></td><td></td><td></td><td></td><td>2322924229523222951482295305</td><td></td></tr><tr><td></td><td></td><td>2295312 2295197</td><td></td><td></td><td></td><td></td><td>2323110 2295268 2295230 2295306</td><td></td></tr><tr><td></td><td></td><td>2295314 2295198</td><td></td><td></td><td></td><td></td><td>2323136 22952692295282 2295307</td><td></td></tr><tr><td></td><td></td><td>2322874 2295199</td><td></td><td></td><td>2323154</td><td></td><td>2295270 2295283 2295187</td><td></td></tr><tr><td></td><td>2323053</td><td>2295200</td><td></td><td></td><td></td><td></td><td>2295271 2295284 2295188</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295272 2295285 2295189</td><td></td></tr><tr><td></td><td>2295193</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2295195</td><td></td><td></td><td></td><td></td><td></td><td>2295274 2295287 2295191</td><td></td></tr><tr><td></td><td>2295196</td><td></td><td></td><td></td><td></td><td></td><td>2295281 2295288 2295192</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2322869 2295289 2295254</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295160 22862 29525</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295162 2295170</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>22951632295171</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>22951642295172</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>2295165</td><td>2295173</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>22951662295174</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295167 2295176</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295168 2295177</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2295244 2295248</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>22952452295249</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>2295246</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>2295247</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/059d177d9ba51fd66d0c677df3142cd9368ad79be61b3260d0732144cc9aac0e.jpg)  
+图9房间内设备信息(注：第一行为房间ID)  
+图10房间设备信息BIM展示
+
+另外,SQWRL可以实现对OWL本体的查询,找出运维管理所需的信息。示例检索和检索结果如表4所示。可以看出，采用SQWRL尤其是built-in机制的引入可以简便地检索OWL本体信息，
+
+表4检索示例  
+
+<html><body><table><tr><td>检索语句</td><td>描述</td><td>结果</td></tr><tr><td>Q2:tbox:sca(?c,#Room）→sqwrl:se- lect(?c) Q3：abox：dpaa（？r,hasRoomID,?i）^ hasRoomArea(?r,?a）^hasRoomOccu-</td><td>所有房间 类的个体 房间可使 用面积</td><td>图中的房 间名 所有房间 和其可使 用面积</td></tr><tr><td>(100.0-o)/100”,?a,?o)→→sqwrl;se- lect(?r,?1) Q4:hasRoomName（F1N004,?n） ^has- TenancyEndTime（F1NOO4,?et）^has- RoomArea（F1N004,？a）→sqwrl; select(？n,?a,?et)</td><td>某一房间 的名称、面 积和到期</td><td>F1N004; 77.02; 2021 - 10</td></tr><tr><td>Q5:Office(?r) hasRoomArea(?r,?a) ^hasRoomOccupancy（?r,?o）^swrlm： eval(？1,"a *（100.0-o)/100",？a,？ o）^swrlb：greaterThan（？1，60.0）→</td><td>日期 可用面积 大于60m² 的办公室</td><td>-01 F1N004</td></tr></table></body></html>
+
+# 6结语
+
+本文建立了基于BIM和本体技术的建筑运维管理框架,采用RevitAPI、OWLAPI和SWRLAPI技术在该框架下建立了一个建筑运维管理系统，采用一个实际案例验证了本文提出方法的有效性。本文提出的系统框架有效集成了BIM信息，在客户端上还可实现基于BIM的运维管理。个体数据的提取和创建算法可将TBox作为ABox的信息结构，实现信息在OWL知识库的集成。同时在该框架下规则引擎也可方便地被使用。
+
+本文方法为建筑运维管理的语义网实现提供重要基础，对推动BIM、本体与语义网技术的应用及对建筑运维管理的网络化、智能化应用有重要意义。
+
+# 参考文献
+
+[1]O'Connor A C,Dettbarn JL,Gilday L T.Cost analysis of inadequate interoperability in the U.S.capital facilities industry[R].Gaithersburg:NIST,2004.   
+[2]Eastman C,Teicholz P,Sacks R,et al.BIM handbook:A guide to building information modeling for owners,managers,designers,engineers,and contractors，2nd Ed.[M]. Hoboken,NJ:Wiley，2008.   
+[3］Buildingsmart.IFC Overview Summary，2010.http:// build- ingsmarttech.org/specifications/ifc-overview.   
+[4]Venugopal M,Eastman C M,Sacks R,et al.Semantics of model views for information exchanges using the industry foundation class schema[J].Advanced Engineering Informatics.2012，26(2):411-428. used for knowledge sharing?［J].International Journal of Human-Computer Studies.1995，43(5-6):907-928. Kontopoulos E,Martinopoulos G,Lazarou D,et al.An ontology-based decision support tool for optimizing domestic solar hot water system selection[J].Journal of Cleaner Production.2016，112,Part5：4636-4646. 陈小平.语义网基础教程［M].北京：机型工业出版 社，2008. 曾新红，蔡庆河.OWL2Web 本体语言文档概述, 2 2012. htp://nkos. lib. szu. edu. cn/OWL2/OWL2Overvi ewSimplifiedChinese.htm.   
+[9]O'Connor M,Nyulas C,Shankar R,et al.The SWRLAPI: ADevelopment Environment for Working with SWRL Rules[Z].Karlsruhe,Germany:2008.   
+[10]Horridge M,Bechhofer S.The OWL API:A Java API for OWL Ontologies[J]. Semantic Web journal.2011,1（1）: 1-11.   
+[11] O' Conner M,Das A. SQWRL:a Query Language for OWL [Z].Chantilly,VA:2009.   
+[12]Nepal M,Staub-French S,Pottinger R,et al. OntologyBased Feature Modeling for Construction Information Extraction from a Building Information Model[J].Journal of Computing in Civil Engineering.2012，27(5）：555-569.   
+[13]B B,FJ,N L. Application areas and data requirements for BIM-enabled facilities management[J].Journal of construction engineering and management.2O11（3）：431- 442.   
+[14]Bonino D,Castellina E,Corno F.The DOG gateway:enabling ontology-based intelligent domotic environments[J]. IEEE Transactions on Consumer Electronics.2Oo8：1656- 1664.   
+[15］Zhang J,El-Gohary N.Automated Extraction of Information from Building Information Models into a Semantic Logic-Based Representation[J].computing in civil engineering 2015.2015:173-180.
+
+# A BIM and Ontology-based Approach for the Building Operation and Maintenance Management
+
+Chen Guitao1,2
+
+(1. Shenzhen Institute of Building Research Co.， Ltd.， Shenzhen 518049，China; 2.Harbin Institute of Technology Shenzhen Graduate School，Shenzhen 518055，China）
+
+Abstract：For the implementation of the building operation and maintenance management on semantic web，a framework for BIMandontology-based intellgent application is built.Combining some updates with theoriginal DogOntontology，a ontology for building operation and maintenance management is created.The methods are proposed to extract information from BIM models for creating individuals and SWRL rules.Proposed framework for BIM andontology-based intelligent application is implemented byapplying the technologiesof RevitAPI,OWL APIand SWRL API as Revit built-in programs.The efectiveness of the framework method and programme proposed in this paper are verified by a practical project，and the proposed approach would advance the development of BIM，ontologyand semantic web technologiesand would bebeneficial for networked and intelligent building managementof building operation and maintenance.
+
+Key Words:Building Operation and Maintenance Management； Ontology；BIM； OWL； SWRL

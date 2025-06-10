@@ -1,0 +1,630 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHREVIEW ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Environmental costs and benefits of growing Miscanthus for bioenergy in the UK ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JON P. MCCALMONT1,ASTLEY HASTINGS²,NIALL P. MCNAMARA³, GOETZ M.RICHTER4,PAUL ROBSON1,IAIN S. DONNISON1 and JOHN CLIFTON-BROWN1 1Instituteofogical,nonmentalnduralences (),berystthesityogerddnbeystthl SY23 3EQ,UK,nstituteofiologicalandEnironmental Sience,Unoersityofberdeen,24StMacharDrioebdeen AB24 3uu,UK,Centre for Ecology $\\mathcal { E }$ Hydrology,Lancaster Environment Centre,Library Avenue, Bailrigg，Lancaster LA1 4AP,UK,4Rothamsted Research,West Common，Harpenden,Hertfordshire AL5 2JQ,UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Planting the perennial biomass crop Miscanthus in the UK could offset $2 { - } 1 3 \\ \\mathrm { M t }$ oil eq. $\\mathrm { y r } ^ { - 1 } .$ ， contributing up to $10 \\%$ of current energy use. Policymakers need assurance that upscaling Miscanthus production can be performed sustainably without negatively impacting essential food production or the wider environment.This study reviews a large bodyof Miscanthus relevant literature into concise summary statements.Perennial Miscanthus has energy output/input ratios 10 times higher $( 4 7 . 3 \\pm 2 . 2 ) \\$ than annual crops used for energy $( 4 . 7 \\pm 0 . 2 \\$ to $5 . 5 \\pm 0 . 2 )$ , and the total carbon cost of energy production $( 1 . 1 2 \\mathrm { ~ g ~ C O } _ { 2 ^ { - } } { C }$ eq. $\\mathbf { M } \\bar { \\mathbf { J } } ^ { - 1 }$ ） is 20-30 times lower than fossil fuels.Planting on former arable land generally increases soil organic carbon (SOC) with Miscanthus sequestering $0 . 7 – 2 . 2 ~ \\mathrm { M g ~ \\bar { C } 4 – C ~ h a ^ { - 1 } ~ y r ^ { - 1 } }$ . Cultivation on grassland can cause a disturbance loss of SOC which is likely to be recovered during the lifetime of the crop and is potentially mitigated by fossil fuel offset. $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions can be five times lower under unfertilized Miscanthus than annual crops and up to 10O times lower than intensive pasture.Nitrogen fertilizer is generally unnecessary except inlow fertility soils. Herbicide is esential during the establishment years after which natural weed suppresion by shading is sufficient. Pesticides are unnecessary. Water-use efficiency is high (e.g. $5 . 5 { - } 9 . 2 ~ \\mathrm { g }$ aerial DM $( \\mathrm { k g ~ H } _ { 2 } \\mathrm { O } ) ^ { - 1 } .$ ，but high biomass productivity means increased water demand compared to cereal crops.The perennial nature and belowground biomass improves soil structure,increases water-holding capacity (up by $1 0 0 { - } 1 5 0 ~ \\mathrm { m m }$ ,and reduces run-off and erosion. Overwinter ripening increases landscape structural resources for wildlife. Reduced management intensity promotes earthworm diversity and abundance although poor liter palatability may reduce individual biomass. Chemical leaching into field boundaries is lower than comparable agriculture,improving soil and water habitat quality. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:biodiversityeergyropmodelingergycops,GH,landusechange,Miscants,perenial gasesan ecophysiology, renewable energy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received13May2015;accepted16June2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The IPCC 5th report (IPCC,2014) makes clear that it isextremelylikelythat cumulative anthropogenic greenhouse gas emissions have led to unequivocal climate warming with temperature and precipitation extremes seen since the 1950s that are unprecedented over millennia.The report states with high confidence thatwithout additional mitigation efforts, climate warming will more likely than not exceed $4 ~ ^ { \\circ } \\mathrm { C }$ above pre-industrial levels by 21oo; extremes of weather resulting from this would lead to ‘substantial species extinctions,global and regional food insecurity，and consequential constraints on human activities' with the highest relative price to be paid by those least responsible for the problem.The IPCC states categorically that limiting these impacts to more manageable levels requires net global $\\mathrm { C O } _ { 2 }$ emission to decrease to zero in the next few decades through rapid decarbonization of energy production. Sustainable biomass offers the almost unique opportunity to provide storable,flexible use of fuel that can be readily converted to heat,electricity，or even liquid transport fuels and is the single option that might provide a future mechanism to remove atmospheric carbon by capture and storage(CCS) (ETI 2015).Over the past 20 years, fairly comprehensive field data have becomeavailable for the clone-based interspecies hybrid M.giganteus. This review examines the environmental benefits and trade-offs associated with large-scale planting of Miscanthus for UK bioenergy，now made possible by recent breeding of seed-based hybrids in the UK and USA.The review focusses on environmental impacts of field production; it does not cover wider economic analyses that are also important determinants of commercial uptake. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Renewablefuels ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Use of renewable energy in the UK mix was up $3 0 \\%$ from 2012 to 2013 (see Fig.1);it supplied $1 4 . 9 \\%$ ofUK electricity which was $5 . 2 \\%$ of total energy (DUKES 2014a)，well short of the UK 2012 Bioenergy Strategy target of $1 5 \\%$ of total energy by 2020 (DECC,2012). Plant biomass supplied $2 1 . 6 \\%$ of total renewables which offset $2 0 7 9 { \\mathrm { ~ k t } }$ of oil equivalent electricity and $3 3 9 ~ \\mathrm { k t }$ oil eq.heat (DUKES 2014b).Despite the replacement of 2.4 million tonnes of oil use, domestic biomass production remains at a low level compared to total energy demand.Only $0 . 0 5 \\mathrm { \\ : M h a } .$ ，or $0 . 8 \\%$ ，ofUK arable land wasused for bioenergy production in 2013 with 0.03 Mha being used to produce maize for anaerobic digestion (DEFRA 2014a).Results from the OFGEM biomass sustainability data set (Ofgem 2014),excluding liquid feedstocks or anaerobic digestion,showed the UK burnt $3 . 9 \\ \\mathrm { M t }$ of plant biomass for electricity in 2013; of this, $1 . 8 ~ \\mathrm { M t }$ was produced in the UK with the majority being wood products. Home grown dedicated energy cropsprovided only 56kt:47kt ofMiscanthusand9kt of SRCwillow. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biomass crops ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "While the initial premise regarding bioenergy was that carbon recently captured from the atmosphere into plants would deliver an immediate reduction in GHG emission from fossil fuel use,the reality proved less straightforward.Studies suggested that GHG emission from energy crop production and land-use change might outweigh any $\\mathrm { C O } _ { 2 }$ mitigation (Searchinger et al., 2008;Lange，2011)．Nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ production, with its powerful global warming potential (GWP), could be a significant factor in offsetting $\\mathrm { C O } _ { 2 }$ gains (Crutzen et al.，20o8) as well as possible acidification and eutrophication of the surrounding environment (Kim & Dale，2005).However，not all biomass feedstocks are equal, and most studies critical of bioenergy production are concerned with biofuels produced from annual food crops at high fertilizer cost，sometimes using land cleared from natural ecosystems or in direct competition with food production (Naik et al.，2010). Dedicated perennial energy crops， produced on existing,lower grade,agricultural land, offer a sustainable alternative with significant savings in greenhouse gas emissions and soil carbon sequestration when produced with appropriate management (Crutzen et al.,  2008; Hastings et al.，2008,2012;Cherubini et al.，2009;Dondini et al., $2 0 0 9 \\mathrm { a }$ ;Don et al.,2012; Zatta et al.,2014; Richter et al., 2015).Greenhouse gas mitigation is a primary concern in bioenergy production but is not the only consideration, particularly for large-scale land-use transitions. Bioenergy supply chains must be energetically favourable，maintain or increase soil carbon，and be cost effective and environmentally sustainable without interfering with essential food production (Tilman et al., 2009；Valentine et al.，2012)． Miscanthus $\\times$ giganteus (hereafter Miscanthus),a low-input, fast-growing perennial energy grass,is seen to offer an attractive alternative biomass crop (Lewandowski et al.， 2003;Harvey, 2007;Heaton et al.,2008,2010;Zhuang et al.,2013) with energy output/input ratios around ten times that of annual energy crops (Felten et al.,2013) and significant potential to reduce fossil fuel $\\mathrm { C O } _ { 2 }$ emission (CliftonBrown et al.,2004,2007;Hillier et al.,2009). Felten et al. (2013）compared energy balances for oil seed rape (OSR),maize,and Miscanthus and found output/input ratios of $4 . 7 \\pm 0 . 2 ,$ 、 $5 . 5 \\pm 0 . 2 ,$ and $4 7 . 3 \\pm 2 . 2 ,$ ，respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/417facd696456407ff08a3ed7d578c3f5de54decc5324e384ad5161fb13655ee.jpg",
+        "img_caption": [
+            "Fig.1 Current UK renewable energy use as of end 2013,up $30 \\%$ between 2012 and 2013,supplying $1 4 . 9 \\%$ of UK electricity Bioenergy contributes $7 0 . 5 \\%$ of total renewable with plant biomass alone contributing $2 1 . 6 \\%$ at $3 . 9 ~ \\mathrm { M t }$ which was primarily imported "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Potential UK land availability ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The 2007 UK biomass strategy (DEFRA,2007) set a target of $0 . 3 5 ~ \\mathrm { M h a }$ of UK agricultural land growing perennial energy crops by 202O; this would be part of an overall one million hectares in biofuel and energy crop production. The 2012 UK Bioenergy Strategy (DECC, 2012)suggests that the potential land available specifically for Miscanthus that would not impinge on food production is in the range of O.72-2.8 Mha which is well above the 2007 target (Fig. 2 puts the 0.35 Mha into context by showing current UK agricultural land use and 5 year trends). These strategy reports stress that while some energy crops may reduce soil erosion，improve biodiversity,and aid fuel security, production must take place‘..in those parts of the UK where it makes sense... ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lovett et al. (2009) reported that 0.35Mha of Miscanthus could be easily accommodated in the UK. Initially considering just England，using a GIS approach， they produced a constraint map based on 11 preclusion factors covering biophysical, social,and environmental considerations，for example high soil carbon content, cultural or natural heritage,and urban centres,with a final constraint that only poorer quality land in agricultural land class (ALC) grades 3 or 4 would be considered,excluding higher grades 1 and 2 and the worst grade 5. Results suggested potential land availability for Miscanthus，of 3.12 Mha，around one-quarter of total English land area.The authors point out that the 0.35 Mha target represents only $1 1 . 6 \\%$ of this and planting Miscanthus on this more marginal agricultural land would not impinge on essential food production. Lovett et al.(2014) expands the GIS constraint mapping to include Scotland and Wales (see Fig.3a).Here,results suggested 8.5 Mha potentially suitable for growing Miscanthus or SRC willow/poplar, applying the extra restriction to ALC grade 3 or worse reduced this to 6.4 Mha. Grade 3 agricultural lands represent the majority ofUK farmland and coveredaround $5 9 \\%$ of the total 8.5 Mha identified in this study,excluding this and restricting planting to the very worst agricultural land grades 4 and 5 left1.4 Mha,four times the 0.35 Mha target. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9045deae9fa87c6d1398300f564c1956b13a840b064680059f3ffdf72f9f31f9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land-use change ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land-use change is central to UK agriculture, field crop species and farming practices are in constant flux,and land usage will typically follow an economic rationale within the constraints of the EU's Common Agricultural Policy.In 1993，to curb EU overproduction of food, farmers set aside a minimum of $1 5 \\%$ of their cropped land; by 200o, this had dropped to $10 \\%$ and was zero by 2008.In England alone, from 2000 to $2 0 0 6 ,$ the average land area set aside was 0.57 Mha (DEFRA 2014b).The days of set aside are over,agricultural production must increase worldwide to meet growing demands for both food and energy; accommodating this while avoiding increased exploitation of natural lands requires a move towards more sustainable intensification (Tilman et al., 2011;Godfray & Garnett，2014).Concentrating agronomic effort and resources away from the least produc tive $10 \\%$ of farmed area to more productive land while retaining a low-input，high-output perennial energy crop on these poorer areas could offer a mechanism for both intensification and diversification within farms. Farmersmightidentifyareasof their farmswhere yields of more conventional crops are at their lowest，and bought at the expense of high effort and chemical input while detracting effort from their more productive land,and give this area over to at least one economic cropping cycle of a low-input perennial. Miscanthus can improve overworked or difficult soils by acting asa long-term break crop，increasing soil carbon,organic matter，and earthworm diversity (Kahle et al.，2001; Hansen et al.,2004;Felten & Emmerling,2011).Perhaps an ideal situation would see the cycling of this long term break crop around the farm area with conventional crop rotations following to take advantage of the improved organic matter and soil structure. Figure 2 shows a summary of some of the main UK agricultural land uses on areas that might be suitable for Miscanthus production and the variability of their extent between 2009 and 2013 (DEFRA 2014c).Of the 17.3 Mha of utilized agricultural area (UAA) in the UK,around 3 Mha （204号 $( 1 7 . 5 \\% )$ ）were in cereal production in 2013,and this area varied between 3 and 3.2 Mha over the last 5 years with a not unusual 0.26 Mha being completely uncropped in 2013 due to high rainfall, preventing planting in autumn 2012.The area of temporary grassland less than 5 years old,perhapsaprime candidate forMiscanthusproduction in western areas of the UK，has been steadily increasing over the last5 years,currently1.39Mha！ $( 8 \\%$ of UAA),up from 1.24 Mha in 2009. The current extent of oil seed rape (OSR) production,at 0.72 Mha,is more than double the Miscanthus target. Land cover for this conspicuous，high-input crop had risen from being almost unknown in 1980 to 0.40 Mha by 1990 and covering more than 0.70 Mha by 2013 (DEFRA 2014d). Modelling studies (Lovett et al.，20o9;Hastings et al., 2013) show that the mean yield of Miscanthus on grade 3b,4,and5land outside theexcluded areasisaround 10 tons I $\\mathrm {  ~ \\ p h ~ h a ~ } ^ { - 1 } \\mathrm {  ~ y r ^ { - 1 } } ,$ ，and the 2007 Biomass Strategy target of O.35 Mha could produce up to 70 PJ energy, equivalent to 1.67 Mt of oil or $1 . 1 7 \\%$ of total UK energy. The 2012 Bioenergy Target range of 0.72-2.8 Mha would produce 3.44-13.38 Mt oil eq. $( 2 . 4 1 - 9 . 3 9 \\%$ of total energy).Agricultural land is a finite resource in the UK, providing a range of ecosystem services: from food and energy to culture and leisure with impacts on water qualityand naturalhabitats.Milner et al. (2o15) offer a comprehensive ‘threat matrix' quantifying the potential impact on a range of ecosystem services across the UK from land-use change to perennial biomass crops. They concludedthattherewaslittledifference between Miscanthus and SRC when planted on lower grade land with both offering positive improvements in service provision although climate-driven yield estimates and previous land-use were key factors.Optimization of land utilization at a national scale is essential although currently lacking,if land is to be used for producing energy,then policy should aim to produce the maximum amount of energy per ha within the context of wider ecosystem service provision. In terms of energy production intensity，Miscanthusbiomassproduces more net energy per hectare than other bioenergy crops at around 200 GJ $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } ,$ especially arable [maize for biogas 98，oil seed rape for biodiesel 25，wheat and sugar beet ethanol 7-15 (Hastings et al.，2012)]. Felten et al.(2013) calculatedsimilarfigures，reporting 254 GJ $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ for Miscanthus. Energy production intensity calculated for woody perennials can vary significantly by area (Bauen et al.,201O)with yield predictions largely driven by future climate projections (Hastings et al.,2013). Tallis et al. (2013) showed that in theright circumstances,even old varieties of SRC willow can exceed 150 GJ $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } ,$ ， suggesting that planting combinations of crops may be most efficient for overall energy production. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f3c776e739e1b2a67fb597fb5df62ea0e2d447db5d82abf9722e3cec63b480a.jpg",
+        "img_caption": [
+            "Fig.3(a)showsdistrbutionofriculurallandclases (ALCithexcludedareasinblackfollowingovetetal.(214).b)shows themapof modelled annualchangeinsoil carbon followingland-usechange from existingagricultureto Miscanthus outside these areas from Milner et al. (2015),and (c) shows the potential carbon intensity index,in $\\mathbf { g } \\mathbf { C O } _ { 2 } .$ C equivalent per MJ energy in the furnace comparedtooal(33oil(2)andNorthSgas(6).Tecantsarbonitesityisulatedcosideringzomeprgatio 2-year establishment, pelletized fuel,and $1 0 0 ~ \\mathrm { k m }$ of transportation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "More than twiceasmuch carbonis storedintheworld's soils compared to vegetation or atmosphere (Post et al., 1990；Lal，2004;Cox et al.，2011；Scharlemann et al., 2014). It is critically important to understand the impact of large-scale agricultural land-use change on these storage reservoirs. Although extending the capacity of European soils to sequester carbon may be limited relative to overall $\\mathrm { C O } _ { 2 }$ emissions (Smith et al.,1997; Mackey et al.,2013),the potential for losing soil carbon through misplaced land-use change could be far more significant.Any soil disturbance, such as ploughing and cultivation,is likely to result in short-term respiration losses of soil organic carbon,decomposed by stimulated soil microbe populations (Cheng，2009；Kuzyakov，2010). Annual disturbance under arable cropping repeats this year after year resulting in reduced SOC levels.Perennial agricultural systems,such as grassland, have time to replace their infrequent disturbance losses which can result in higher steady-state soil carbon contents (Gelfand et al.， 2011; Zenone et al., 2013).Upscale predictions of these carbon deltas rely on measurements of sample data informing and validating process models (Dondini et al., $2 0 0 9 \\mathrm { a }$ ；Zatta et al.，2014;Agostini et al., 2015).However，collecting enough samples to determine the significance level of any observed change can be challenging(Kravchenko & Robertson,2011) and it is extremely rare to find baseline soil samples taken prior to land-use change.Adjacent reference sites of the previous land-use are generally taken to represent baseline soil conditions although these may not necessarily represent initial conditions accurately.Richter et al. (2015) had the rare opportunity to compare Miscanthus soils after14 years to both archived baseline and anadjacent reference site, though only at $0 { - } 3 0 ~ \\mathrm { c m } ,$ ：they found that using the reference site would have suggested greater declines in original SOC than were seen when compared to the actual baseline.With these limitations in mind，we report here results from empirical sample data and discuss whether some clear trends emerge. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 summarizes nine soil sampling studies of land-use transition from both arable and grassland with SOC stocks compared to adjacent land.Across these nine studies,21 comparisons were made between Miscanthus plantations and grassland (7) or arable (14) with plantation ages ranging from 3 to 19 years.Direct comparisons of absolute numbers between studies are problematic. Some studies (Hansen et al.,20o4;CliftonBrown et al.,2007;Schneckenberger & Kuzyakov,2007; Dondini et al.，2009b;Poeplau & Don，2014） sampled only single sites within each comparison or age class, while others (Felten & Emmerling,2012; Zimmermann et al.,2012) had multiple sites within each comparison. Only two studies (Zatta et al.,2014;Richter et al.,2015) had access to a baseline soil archive collected prior to the land-use change; both these studies investigated the impact on soil carbon of different Miscanthus genotypes, while others were limited to $\\textit { M x }$ giganteus. Sample depths also varied widely as did management regimes with some sites fertilized and others not. Despite this variability,it seems likely that arable land converted to Miscanthus will sequester soil carbon; of the 14 comparisons，11 showed overall increases in SOC over their total sample depths with suggested accumulation rates ranging from 0.42 to $3 . 8 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ . Only three arable comparisons showed lower SOC stocks under Miscanthus，and these suggested insignificant losses between 0.1 and $0 . 2 6 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The grassland to Miscanthus comparisons showed three increases,three decreases,and one no change in soil C stocks.no doubt complicated by the Miscanthus beingplanted on former arable,arable/fallow,or grassland despite being compared to long-term grassland, whereas all comparisons to arable were planted on former arable land. The range of gains and losses was relatively small, $^ { - 1 }$ to $0 . 9 4 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ with only the increase of $0 . 9 4 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ shown to be significant (Hansen et al.，2004).Another study,not included in Table 1 due to incompatibility of units (Kahle et al., 2001),primarily compared plant derived organic matter between Miscanthus and grassland but also sampled for organic carbon at four sites in Germany over multiple years making a total of 12 comparisons.Of these，8 showed higher SOC stocks under Miscanthus compared to the grassland with 5 of these being shown to be highly significant $( P < 0 . 0 1 )$ ),onlyone site showed lower concentrations of SOC across 2 years of sampling.One literature review (Anderson-Teixeira et al.，20o9）felt confident to suggest that conversion of temperate grassland to Miscanthus would see an eventual increase in ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/73938de3d6439e9477bf15202577b6c5e54dbf3781b34a3692d159de09db6a28.jpg",
+        "table_caption": [
+            "(ponunutr) "
+        ],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Mean annual air temp. (C)/ rainfall</td><td>Soil texture (0-30 cm)</td><td>Mean harvest yield (Mg DM ha−1yr-1)</td><td>Total sample depth (cm)</td><td>Plantation age (years)</td><td>Land-use prior to Miscanthus plantation</td><td>Comparison land use</td><td>Total SOC under Miscanthus to sample depth (Mg C ha-1)</td><td>Total SOC under control to sample depth (Mg C ha-1)</td><td>Direction of suggested SOC</td><td>rate since planting (over total sample depth) (Mg C</td><td>C4-C accumulation over sample depth (Mg C</td><td></td></tr><tr><td>Ireland1</td><td>9.9/1004</td><td>Loam/ sandy</td><td>13.4</td><td>30FD</td><td>15</td><td>Grassland</td><td>Grassland</td><td>64</td><td>59.7</td><td>up</td><td>0.29ns</td><td></td><td>Clifton- Brown et al.</td></tr><tr><td>Ireland8</td><td>9.3/822</td><td>loam Sandy loam</td><td>na</td><td>30FD</td><td>3</td><td>Grassland</td><td>Grassland</td><td>79.6</td><td>80.625</td><td>down</td><td>-0.34ns</td><td>0.9</td><td>(2007) Zimmermann et al. (2012)</td></tr><tr><td>UK1</td><td>9.9/1216</td><td>Sandy clay</td><td>14.5</td><td>30ESM</td><td>6</td><td>Grassland</td><td>Grassland</td><td>71.6</td><td>78.8</td><td>down</td><td>-1.2ns</td><td>1.25</td><td>Zatta et al. (2014)</td></tr><tr><td>Germany1</td><td>8.7/679</td><td>loam Loam</td><td>na</td><td>100FD</td><td>9</td><td>Grassland</td><td>Grassland</td><td>112</td><td>121</td><td>down</td><td>-1ns</td><td>Mg ha-1 na</td><td>Schneckenberger & Kuzyakov</td></tr><tr><td>Germany1</td><td>8.7/548</td><td>Sandy loam</td><td>na</td><td>100FD</td><td>12</td><td>Arable/fallow</td><td>Grassland</td><td>70</td><td>64</td><td>up</td><td>0.5ns</td><td>Mg ha-1 na</td><td>(2007) Schneckenberger & Kuzyakov</td></tr><tr><td>Denmark1</td><td>7.4/705</td><td>Coarse loamy</td><td>12.6</td><td>100FD</td><td>9</td><td>Arable</td><td>Grassland</td><td>91</td><td>91</td><td>no change</td><td>ons</td><td>0.78</td><td>(2007) Hansen et al. (2004)</td></tr><tr><td>Denmark1</td><td>7.4/706</td><td>sand Coarse loamy</td><td>14.1</td><td>100FD</td><td>16</td><td>Arable</td><td>Grassland</td><td>106</td><td>91</td><td>up</td><td>0.94*</td><td>1.13</td><td>Hansen et al. (2004)</td></tr><tr><td>Ireland1</td><td>9.3/830</td><td>sand Sandy loam</td><td>16</td><td>60FD</td><td>14</td><td>Arable</td><td>Arable</td><td>131.3</td><td>105.8</td><td>up</td><td>1.82*</td><td>3.2</td><td>Dondini et al. (2009a,b)</td></tr><tr><td>Germany4</td><td>10.5/761</td><td>Loamy sand</td><td>15</td><td>150FD</td><td>2</td><td>Arable</td><td>Arable</td><td>92.9</td><td>90.5</td><td>up</td><td>1.2ns</td><td>1.4</td><td>Felten & Emmerling (2012)</td></tr><tr><td>Germany2</td><td>10.5/762</td><td>Loamy sand</td><td>15</td><td>150FD</td><td>5</td><td>Arable</td><td>Arable</td><td>109.5</td><td>90.5</td><td>up</td><td>3.8ns</td><td>0.68</td><td>Felten & Emmerling (2012)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe51d7cc73b7120775a763e294a5fd2fde22c5b65024ab473dee3d2b4f0a4846.jpg",
+        "table_caption": [
+            "lrrnrrrrtrssir rrts saeies slpa ",
+            "[perrair) l lair "
+        ],
+        "table_footnote": [
+            "arrrs rerrl eirneareirrrilrerirrr nreener er "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>annual air temp. (℃)/ rainfall</td><td>Soil texture (0-30 cm)</td><td>Mean harvest yield (Mg DM ha-1yr-1)</td><td>Total sample depth (cm)</td><td>Plantation age</td><td>Land-use prior to Miscanthus</td><td>Comparison land use</td><td>Total SOC under Miscanthus to sample depth (Mg C ha-1)</td><td>Total SOC under control to sample depth (Mg C ha-1)</td><td>Direction of suggested SOC</td><td>rate since planting (over total sample depth) (Mg C</td><td>C4-C accumulation over sample depth (Mg C</td><td></td></tr><tr><td>Germany7</td><td>10.5/763</td><td>Loamy sand</td><td>15</td><td>150FD</td><td>16</td><td>Arable</td><td>Arable</td><td>112.5</td><td>90.5</td><td>up</td><td>1.375*</td><td>1.03</td><td>Felten & Emmerling (2012)</td></tr><tr><td>Denmark1</td><td>7.4/707</td><td>Coarse loamy</td><td>12.6</td><td>100FD</td><td>9</td><td>Arable</td><td>Arable</td><td>91</td><td>92</td><td>down</td><td>-0.1ns</td><td>0.78</td><td>Hansen et al. (2004)</td></tr><tr><td>Denmark1</td><td>7.4/708</td><td>sand Coarse loamy</td><td>14.1</td><td>100FD</td><td>16</td><td>Arable</td><td>Arable</td><td>106</td><td>92</td><td>up</td><td>0.88*</td><td>1.13</td><td>Hansen et al. (2004)</td></tr><tr><td>Netherlands1</td><td>8/760</td><td>sand na</td><td>13</td><td>80FD</td><td>11</td><td>Arable</td><td>Arable</td><td>93.9</td><td>77.6</td><td>up</td><td>1.48ns</td><td>0.70</td><td>Poeplau &</td></tr><tr><td>Germany1</td><td>7.3/550</td><td>na</td><td>15</td><td>80FD</td><td>15</td><td>Arable</td><td>Arable</td><td>147.8</td><td>150.3</td><td>down</td><td>-0.17ns</td><td>0.37</td><td>Don (2014) Poeplau &</td></tr><tr><td>Denmark1</td><td>7.9/859</td><td>na</td><td>14</td><td>80FD</td><td>18</td><td>Arable</td><td>Arable</td><td>96.5</td><td>89</td><td>up</td><td>0.42ns</td><td>0.54</td><td>Don (2014) Poeplau &</td></tr><tr><td>Switzerland1</td><td>8.4/1185</td><td>na</td><td>14</td><td>80FD</td><td>17</td><td>Arable</td><td>Arable</td><td>133</td><td>116.2</td><td>up</td><td>0.99*</td><td>0.80</td><td>Don (2014) Poeplau &</td></tr><tr><td>Germany1</td><td>9/707</td><td>na</td><td>15</td><td>80FD</td><td>19</td><td>Arable</td><td>Arable</td><td>94.8</td><td>77.6</td><td>up</td><td>0.91*</td><td>0.93</td><td>Don (2014) Poeplau & Don (2014)</td></tr><tr><td>Switzerland1</td><td>9/860</td><td>na</td><td>14</td><td>80FD</td><td>15</td><td>Arable</td><td>Arable</td><td>108.7</td><td>85.2</td><td>up</td><td>1.57*</td><td>0.88</td><td>Poeplau & Don (2014)</td></tr><tr><td>Ireland8</td><td>9.3/823</td><td>Sandy loam</td><td>na</td><td>30FD</td><td>3</td><td>Arable</td><td>Arable</td><td>64.52</td><td>60.51</td><td>up</td><td>1.34ns</td><td>0.62</td><td>Zimmermann et al. (2012)</td></tr><tr><td>UK1</td><td>na</td><td>Silty clay loam</td><td>8.75</td><td>100ESM</td><td>14</td><td>Arable</td><td>Arable</td><td>106.9</td><td>110.6</td><td>down</td><td>-0.26na</td><td>1.10</td><td>Richter et al. (2015)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SOC,but the results here would suggest that there are enough uncertainties to prevent making such an outright assertion,and it is perhaps safer to suggest that over the lifetime of the crop SOC stocks in the soil profile would be at least maintained. In unpublished work, R.Rowe,A.M. Keith,D.Elias,M. Dondini,P. Smith,J. Oxely and N.P.McNamara (2015,in submission) investigated multiple paired comparisons between Miscanthus and grassland (nine sites,mean age 7 years) and Miscanthus and arable (11 sites, mean age 6.5 years) and reported the results of soil carbon modelling from soil cores taken at these sites.They report lower soil carbon stocks under Miscanthus compared to both arable and grassland control sites although these differences were only found to be significant in the $0 { - } 3 0 ~ \\mathrm { c m }$ layer,where arable transition (mean plantation age 6.5 years) suggested a reduction in soil carbon of $- 0 . 9 3 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ and grassland transition (mean age 7 years) at $- 3 . 1 7 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } .$ forthe $0 { \\mathrm { - } } 1 0 0 ~ { \\mathrm { c m } }$ depth， thesebecame $0 . 0 5 ~ \\mathrm { { M g } ~ C ~ \\mathrm { { h a } } ^ { - 1 } ~ } \\quad \\mathrm { { y r } ^ { - 1 } }$ and $- 0 . 6 9 \\ \\mathrm { M g } \\ \\mathrm { C } \\ \\mathrm { h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ although differences were not found to be significant when considered over this depth.R.Rowe,A.M.Keith,D.Elias,M. Dondini, P. Smith, J. Oxely and N.P. McNamara (2015,in submission） suggest sampling limitations in many previous studies which typically sample to a fixed depth and do not account for changes in soil bulk density due to land-use change,and they employed an equivalent soil mass sampling (ESM) strategy in their study，as outlined by Gifford & Roderick (2003).In this technique, sample depth is adjusted to account for soil surface uplift due to belowground Miscanthus biomass. R. Rowe,A.M.Keith,D. Elias,M. Dondini,P. Smith, J. Oxely and N.P. McNamara (2015,in submission) found that apparently larger SOC stocks under Miscanthus compared to controls were not seen when using ESM sampling. However, while care was taken to account for soil bulk density changes under Miscanthus,no similar accommodation is made to account for possible erosion losses under annual arable cultivations used as surrogates for baseline. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon turnover ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Even where results suggest maintained or increased SOC,initial disturbance losses after planting Miscanthus will still occur.It is important to note,as comprehensively discussed by Agostini et al. (2015),that despite SOC changes being generally reported as an annual mean over the age of the plantation,these deltas are unlikely to be constant over time.SOC derived from crop inputs will be lower during the early years of establishment (Zimmermann et al.，2012)with disturbance losses of resident C3 carbon outpacing C4 inputs when planted into grassland.Litter drop and root exudates are a function of yield and biomass and will build and reverse this over time although long-term studies over the potential 15-20 year crop lifetime are notably lacking. Sources of SOC can be investigated using isotopic analysis (Balesdent et al.，1987). C4 plants such as Miscanthus discriminate less against $^ { 1 3 } { \\mathrm { C } }$ than native C3 plants，and therefore，samples of SOC sequestered under Miscanthus will show less depletion of this isotope when compared to an atmospheric standard. Zatta et al. (2014) showed that while SOC after conversion of grassland to Miscanthus showed no significant difference after 6 years,the isotopic signature showed a clear C4 source demonstrating a rapid turnover in soil carbon with mobilized C3 carbon being quickly replaced,results also shown in other such studies (e.g. Poeplau & Don 2014; Richter et al.,2015).Litter input to the soil plays a vital role in sequestering carbon in a mature crop,and overwinter litter drop in Miscanthus is reasonably consistent at around $30 \\text{‰}$ of aboveground biomass production (Lewandowski et al., 20oo; CliftonBrown et al., 2004). The dropped litter accounts for most of the reduction in yield during ripening but is a gain for soil carbon and organic matter and significantly improves overall combustion quality of the harvested biomass.Hansen et al. (2004) used stable isotope analysis of soils under two Miscanthus plantations to calculate a coefficient of retention for input of carbon from this litter at $2 6 \\%$ of the total carbon input for their 9-yearold plantation,increasing to $2 9 \\%$ for the longer,16-year plantation. The data collated in Table 1 suggest a reasonable range of this C4-C sequestration rate in the top $3 0 \\ \\mathrm { c m }$ to be between 0.5 and $\\bar { 1 . 5 } \\mathrm { \\ m g \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 }$ with one outlier at $3 . 2 ~ \\mathrm { M g \\ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ (Dondini et al., $2 0 0 9 \\mathrm { a }$ ). Combining the, albeit limited, published sample data suggests that stocks of SOC in the top $3 0 \\ \\mathrm { c m }$ on converted grasslands is likely to be higher than converted arable land (Fig. 4),but that the accumulation of SOC occurs faster in conversions from arable soils (Fig. 5). The correlation between plantation age and SOC can be seen in Fig. 6,although the wide scatter $( R ^ { 2 } = 0 . 2 )$ likely reflects limited data; the trendline suggests a net accumulation rate of $1 . 8 4 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ with similar levels to grassland at equilibrium. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon spatial modelling across theUK ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon stocks are a balance between the soil organic matter decomposition rate and the organic material input each year by vegetation,animal manure,or any other organic input.In Miscanthus plots,the difference between peak yield and harvest offtake can be used to calculate the soil carbon input from leaf fall and stubble after harvest and estimates of root turnover (Hansen et al.，2oo4). If the previous land use and soil organic carbonlevel isknown, then thenew soil carbon content of land converted to Miscanthus plantations can be estimated using models calibrated by field experiments, either in arable land (i.e.Dondini et al.，2Oo9a) or in pasture (i.e. Zatta et al.，2014); this can be carried out spatially for the entire UKland area and verifiedby the other published data in Table 1.The cohort model (Bosatta & Agren,1985) is used in Fig.3b to calculate the mean annual SOC change for each $\\mathrm { k m } ^ { 2 }$ grid square and its spatial distribution,and the model uses initial soil carbon from the Harmonized World Soil Data Base (HWSD) and the predicted SOC input over 15 years of Miscanthus cropping. Figure 7 shows the histogram of ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a48d983257b0357ec704a7ef3cdbd9c0ced69024f3996ae70271b05daf2161f.jpg",
+        "img_caption": [
+            "Fig.4Boxplot of soil organic carbon stocks found under Miscanthus results from Table 1.The categoriesare land use (arable or grassland) and depth of soil that is considered in the SOC content reported in the literature.Varying sample depths reported reflects limited data at greater depths from previous grassland. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/398bbd32c37fd318a66c9720eb2873e165cb19eb61c1cadcc15afe3db988b679.jpg",
+        "img_caption": [
+            "Fig.5 Annual change in soil organic carbon (SOC） under Miscanthus from Table1;as Fig.3,limited data at greater depths for previous grassland. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/31ce579381cc20a528b5e8cbbecd77f6cf0c7646350071e9c6847a47e2089d91.jpg",
+        "img_caption": [
+            "Fig.6Plantation age vs.SOC stocks under Miscanthus fromTable 1; slope is $1 . 8 4 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ $( R ^ { 2 } = 0 . 2 )$ ："
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SOCchange for the UK on land not excluded by Lovett et al.(2014) for the first three 15-year crop cycles of Miscanthus.Milner et al.(2015) give more details of this and suggest that $9 9 . 6 \\%$ of land within these constraints planted with Miscanthus following economic scenarios of Alexander et al. (2014) would see net gains in SOC between 1.5 and $2 . 5 ~ \\mathrm { M g ~ C ~ h a ^ { - 1 } ~ y r ^ { - 1 } } .$ ，and the slope of Fig. 5 at $1 . 8 4 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ fits well within this range. Hillier et al. (20o9) give a detailed comparison of GHG emissions and SOC changes based on yield predictions for SRC poplar,Miscanthus, OSR,and winter wheat with clear overall GHG benefits being seen with Miscanthus and SRC on both arable and grassland. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chemical requirements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fertilizer ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Nutrient offtakes at spring harvest in Miscanthus are low，and it is therefore generally unfertilized in commercialproductionexceptpossiblyduring establishment where initial soil nutrient status is low. Unnecessary use of nitrogen fertilizer reduces the sustainability of biomass production and GWP offset; therefore,understanding where application is necessary and at what specific rates is important. Cadoux et al. (2012)reviewed nutrient offtake in mature Miscanthus harvests in 27 studies over 10 countries and found a median content of $4 . 9 \\mathrm { ~ g ~ N ~ }$ （20 $( \\mathbf { k g \\ D M } ) ^ { - 1 }$ when harvested in the early spring. Given a typical UK offtake of $1 0 { - } 1 5 ~ \\mathrm { M g ~ D M ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ ， the annual export of organic nitrogen from a site in harvest material would range between 49 and $7 3 . 5 ~ \\mathrm { { k g } ~ N ~ \\mathrm { { h a } } ^ { - 1 } }$ .Accounting for an atmospheric N deposition rate of $3 5 { - } 5 0 \\ \\mathrm { k g } \\ \\mathrm { N } \\ \\bar { \\mathrm { h a } } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ (Goulding et al.,1998) suggests that Miscanthus is unlikely to benefit greatly from inputs of $_ \\mathrm { N }$ unless it was being established in verylow fertility soils; forexample, an optimum application of $1 0 0 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ was seen to give significant yield benefits on a low-fertility sandy loam soil by Shield et al. (2014)．Shield et al. (2014) emphasized that soil nutrient status prior to establishment was key to determining the need for fertilizer,as are ongoing circumstances.Lewandowski & Schmidt (2006) reported that compared to triticale or reed canary grass，Miscanthus showed far higher N-use efficiency and did not respond well to high concentrations of $\\mathrm { \\Delta N }$ fertilizer.Maximum yields were observed with no fertilizer but with existing plant available N in the soil (mineralized) at $5 0 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ ；higher applications of N fertilization (above $1 1 4 ~ \\mathrm { { k g } ~ N \\ h a ^ { - 1 } \\ y r ^ { - 1 } ) }$ were detrimental to crop performance,particularly where soil water wasinshortsupply. Lewandowski et al. (2000) reviewed 19 Miscanthus field trials across Europe and reported that there was little response to $\\mathsf { N }$ fertilizer after the second or third year,although there was some suggestion that early rhizome development may benefit from a low level of application where soils may be low in available $_ \\mathrm { N }$ to begin with. This very low demand for added fertilizer was reported by Christian et al. (2006) whoused 15N isotope-enriched nitrogen fertilizer applied at $6 0 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 }$ to study uptake during the establishment phase following planting. Only $2 3 ~ \\mathrm { k g }$ $ { \\mathrm { ~ N ~ h a ~ } } ^ { - 1 }$ of the total $1 1 7 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ taken up by the developing crop was found to have come from the fertilizer,and $8 0 \\%$ had come from mineralization of soil organic matter of the former grassland or atmospheric deposition. There is a growing body of evidence to suggest some level of bacterial nitrogen fixation associated withMiscanthus (Davis et al.，201o;Dohleman et al., 2012).Nitrogenase activity has been found in both rhizomes and surrounding soil bacteria (Eckert et al., 2001; Miyamoto et al.，2004） with isotope analysis revealing highlevels of biologically fixed nitrogen in Miscanthus biomass,particularly in the first year of establishment (Keymer & Kent,2013).Christian etal.(2008) followed their Miscanthus crop for 14 years under three application regimes, zero,60,and $1 2 0 \\mathrm { \\ k g \\ N h a ^ { - 1 } \\ y r ^ { - 1 } } ,$ and concluded that there was no yield response from the application of the $\\mathrm { \\Delta N }$ fertilizer although monitoring of soil fertility and offtake did suggest,in these soils at least，abenefitfromadditionsofphosphate $( 7 ~ \\mathrm { k g ~ P ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ and potassium $( 1 0 0 ~ \\mathrm { k g ~ K ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ One trade-off to this low nitrogen requirement is that emissions and leaching may initially rise following planting into highly fertilized land or grassland killed inpreparation for conversion (Christian & Riche,1998; Behnke et al.,2012) as Miscanthus is unlikely to utilize all the available nutrients in the establishing year.There may，as mentioned in Heaton et al. (201O),be a case made for trials of some suitable cover crop to be planted during the transition to take advantage of these resources. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7fcb825b95211d8e8c17e85b8157bd99dbe058c04d5d092914309312f0306bf.jpg",
+        "img_caption": [
+            "Fig.7Carbon intensity of Miscanthus pellets produced in the UK outside excluded areas described in Lovett et al. (2014) and mapped in Fig.3.Units are $\\mathrm { ~ g ~ C O } _ { 2 ^ { - } } \\mathrm { C }$ equivalent per MJ energy in the furnace. $X$ -axis indicates potential area of land that could produce Miscanthus at the carbon intensity index indicated on the $y$ -axis. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pesticide ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Despite studies finding some incidence of agricultural disease in Miscanthus (Christian et al.,1994;O'Neill & Farr,1996;Ahonsi et al.，2010),it does not appear to have become a significant problem after more than a decade of commercial growing in the UK,and pesticides are still not generally considered necessary. Lampteyet al.(2003) found that while Miscanthus (M.sinensis in this case) was susceptible to yield losses from infection with Cereal Yellow Dwarf Virus after being inoculated with them in laboratory experiments,it was more resistant than other energy grasses in their study. All were difficult to infect once the plants had got past the seedling stage but of 18 Miscanthus plants none were found to become infected when exposed to the virus after stem extension. Even during its susceptible seedling stage infection was only $3 3 \\%$ despite deliberate inoculation， compared to almost $100 \\%$ for Phalaris arundinacea and Echinochloa crus-galli.Lamptey et al. (2003）did warn，though，that conventional rhizome propagation and translocation of Miscanthusrun therisk of disease transfer between sites;care must be taken that crops sourced for rhizomes are disease free as pesticide control on field crops would be uneconomic and undesirable for sustainable biomass production. The results of such infections were seen ina Miscanthus field trialincentralItaly (Beccari et al.,2O1O)where $90 \\%$ of the transplanted rhizomes failed to establish due to fungal infectionbyFusarium spp.and Mucor hiemalis.Field contamination and improper rhizome storage (high temperature and humidity）were cited as likely factors andMiscanthus litter buried in soil have been found previously to contain Fusarium spores (Gams et al., 1999).Despite these possible challenges，disease incidence is extremely low with the 14-year production life with no pesticide application of Christian et al. (2008) being typical. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Herbicide ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Once established,Miscanthus competes vigorously with weed species, litter build up below the canopy aids suppression，and the fast closing canopy reduces light available to competitors (Lewandowski et al.，2000; Christian et al.,20o8). In the establishing years however, and particularlywhere grassland is converted,chemical weed control is essential (Jorgensen，2011).Control is generally accomplished through conventional pre- and postemergent herbicides， sometimes combined with timelyapplication of glyphosate immediatelyprior to new Miscanthus shoot emergence，allowing weed species some time to develop before application. Competition from grassland weeds in this type of land-use transition can be challenging in the early years (CliftonBrown et al.，20o7)，and land-use change follows the conventional practice of glyphosate spraying of the existing vegetation，sometimes in two rounds,before ploughing， soil preparation，and planting. Christian et al.(2oo8) offer rare documentation of their complete herbicide history over a 14-year Miscanthus study, demonstrating that herbicide weed control was not necessary everyyear with the bulk of their herbicide mixes applied in years one and four with spring application of glyphosate only in years 4 and 13,and they note the effectiveness of the Miscanthus canopy structure and litter layer in natural weed suppression. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Soil nitrous oxide $( \\mathbf { N } _ { 2 } \\mathbf { O } )$ emission ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N } _ { 2 } \\mathrm { O }$ has a global warming potential 298 times greater over 100 years than $\\mathrm { C O } _ { 2 }$ (IPCC,2007),and agriculture is the largest producer of this gas (Williams et al.,2010; Reay et al.,2012).When comparing Miscanthus to more usual annual crop rotations, it generally presents lower $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission although it is well known that $\\mathrm { N } _ { 2 } \\mathrm { O }$ can be particularly challenging to scale from highly variable individual measurements to landscape sums (Rochette &Eriksen-Hamel,2008;Jones et al.,2011).Drewer et al. (2012） compared both Miscanthus and SRC willow to arable rotations of wheat and oil seed rape (OSR), reporting that despite this high variability in the results, the mean $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux rates were around five times higher under the annual crops than under the unfertilized perennial bioenergy crops with differences being highly significant. They also investigated the effects of adding fertilizer to the Miscanthus and OSR control plots at $5 0 ~ \\mathrm { k g } \\mathrm { \\textnormal { N h a } } ^ { - 1 }$ . Before application,Miscanthus flux rates were around zero compared to OSR at $3 0 0 ~ \\mu \\mathrm { g } ~ \\Nu _ { 2 } \\mathrm { O } -$ $\\mathrm { ~ N ~ m ~ } ^ { - 2 } \\mathrm { ~ h ~ } ^ { - 1 }$ ；emissions began to rise within $2 4 \\mathrm { ~ h ~ }$ of the treatment with the highest flux rate measured after $3 6 \\mathrm { ~ h ~ }$ .Miscanthus $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission rates rose to a maximum of $3 3 0 ~ \\mu \\mathrm { g } ~ \\mathrm { N } _ { 2 } \\mathrm { O - N } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { h } ^ { - 1 }$ compared to $2 3 5 0 ~ \\mu \\mathrm { g } ~ \\mathrm { N } _ { 2 } \\mathrm { O } -$ $\\mathrm { ~ N ~ m ~ } ^ { - 2 } \\mathrm { ~ h ~ } ^ { - 1 }$ from the OSR.Emissions declined steadily from there,and after 8 days,no significant difference could be found between the two sites.This transient increasein $\\mathrm { N } _ { 2 } \\mathrm { O }$ following fertilization hasbeen reported in several studies，and Gauder et al. (2012) measured emissions rising by a factor of four between fertilized and unfertilized Miscanthus，although these were still only around $3 0 \\%$ ofa fertilized maize comparison.Jorgensen et al. (1997)，however，measured flux rates from fertilized Miscanthus at twice that of winter rye during April and November，though still only around $6 \\%$ of the gross fossil fuel $\\mathrm { C O } _ { 2 }$ offset potential they did represent about $1 . 5 \\%$ of the mass of $\\Nu$ application,exceeding the IPCC tier 1 expectation of $1 \\%$ (IPCC, 2007) this was corroborated by Behnke et al. (2012) who found $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions between 1.1 and $2 . 4 \\%$ of applied N. Roth et al. (2015) calculated the yield response to fertilizer necessary to offset the GWP of this increased $\\mathrm { N } _ { 2 } \\mathrm { O }$ production. They carried out application trials at 63 and $1 2 5 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 }$ on a 15-year-old crop and concluded that the increased biomass yields they observed did outweigh increased $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions; however，it must be considered that their harvest was from a single year and took place in November where biomass could be in the region of $3 0 \\%$ greater than the more usual spring harvest. This might suggest that yield gains are found in increased leaf biomass rather than stem which would not translate into harvested biomass for energy or figure in fossil fuel offset as in commercial practice, leaves are ideally lost over winter. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Roth et al. (2013) compared newly established and long-term Miscanthus plantations to 18-year-old grassland in Ireland. They found that $\\mathrm { N } _ { 2 } \\mathrm { O }$ flux rates from unfertilized Miscanthusare similar to unfertilized, ungrazed Lolium grassland although they do suggest higher rates during the early establishment period when planted into previous grassland.They calculated cumulative fluxes under newly established Miscanthus at $6 1 4 \\textrm { g N } _ { 2 } \\mathrm { { O - N } \\ h a ^ { - 1 } \\ y r ^ { - 1 } , }$ less from the established longterm Miscanthus at $3 7 8 \\mathrm { ~ g ~ N _ { 2 } O { - } N \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ and lowest from the grassland at $2 1 7 \\mathrm { ~ g ~ N } _ { 2 } \\mathrm { O } { \\cdot } \\mathrm { N } \\mathrm { ~ h a } ^ { - 1 } \\mathrm { ~ y r } ^ { - 1 }$ . However，being both unfertilized and ungrazed，this grassland is an unrealistic comparison for commercial agriculture.Clayton et al. (1997) calculated a figure 10 times higher at $2 . 9 4 ~ \\mathrm { k g ~ N _ { 2 } O { - } N \\ h a ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } }$ for fertilized, ungrazed Lolium grassland,while Oenema et al. (1997), studying intensively managed,grazed grassland, found emissions rising still further，ranging from 10 to $4 0 \\mathrm { \\ k g \\ N _ { 2 } O { \\cdot } N \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ as the effects of urine, trampling and dung release around three times as much $\\mathrm { N } _ { 2 } \\mathrm { O }$ as mown grassland (Velthof et al.， 1996; Rafique et al., 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Carbon intensity in energy production- life cycle assessment ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In theory,burning biomass for energy should be carbon neutral as carbonreleased to the atmosphere was previously fixed from it during photosynthesis.Greenhouse gas benefits lie in reduced fossil fuel use and associated $\\mathrm { C O } _ { 2 }$ emission.In the case of crops or forest managed specifically for bioenergy，there are additional energy inputs and associated GHG costs required for the production process that must be considered. Any anthropological intervention in the process of growing vegetation,changes in land cover，and tillage disturbance，using agrochemicals or altered water balances, leads to changes in the soil's physical and chemical properties.Therefore，the cultivation of feedstock for bioenergy will create some GHG emissions which need to be compared to the land use they replace to estimate the net impact on the atmosphere.The embedded carbon in the machinery and plant manufacture, energy use in cultivation，agrochemicals，transport，and processing/conversion of feedstock into fuel also need to be added to the GHG cost of bioenergy in life cycle analyses (LCA). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hastings et al. (2oo9) compared Miscanthus production to fossil fuels using a metric of $\\mathrm { \\ g \\ C O _ { 2 } { - } C }$ equivalent emissions per MJ of energy at the furnace.For fossil fuels,they included the cost of exploration,production, processing,and delivery to the furnace and for Miscanthus biomass; it was plant propagation to the furnace. Their LCA included the impact on soil carbon per ha of landand used crop yields as reported in Hastings et al. (2013) to calculate soil input and energy yield. Establishment costs were spread over a 15-year crop lifetime and followed the current practice of rhizome propagation with full tillage and two herbicide applications during establishment. It assumed annual cutting，drying in the field in a swath,high-density bailing and pelleting，and nitrogen fertilizer sufficient to balance the harvest offtake minus $\\mathrm { \\Delta N }$ deposition.The IPCC tier 1 $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission factor of $1 \\%$ of applied N fertilizer was used with the assumption that production emissions are from European producers.This results in an amortized GHG establishment cost of $1 2 4 ~ \\mathrm { k g } \\mathrm { ~ C ~ h a ^ { - 1 } ~ y ^ { - 1 } }$ and a yield-related annual GHG cost of $5 7 ~ \\mathrm { k g } \\mathrm { C } ~ \\mathrm { M g } ^ { - 1 }$ of crop. The results in Fig.3c show most of the land in the UK could produce Miscanthus biomass with a carbon index that is substantially lower，at $1 . 1 2 \\mathrm { ~ g ~ C O } _ { 2 ^ { - } } C$ equivalent per MJ energy in the furnace, than coal (33), oil (22),LNG (21),Russian gas (20),and North Sea gas (16)(Bond et al.，2014)，thus ofering large potential GHG savings over comparable fuels even after accounting for variations in their specific energy contents. Felten et al. (2013） found Miscanthus energy production (from propagation to final conversion） to offer far higher potential GHG savings per unit land area when compared to other bioenergy systems. They found Miscanthus(chipsfordomesticheating)saved $2 2 . 3 \\pm 0 . 1 3 ~ \\mathrm { M g } ~ \\mathrm { C O } _ { 2 } – \\mathrm { e q } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ compared to rapeseed (biodiesel） at $3 . 2 \\pm 0 . 3 8$ and maize (biomass, electricity,and thermal) at $6 . 3 \\pm 0 . 5 6$ . Only the low-input Miscanthus was found to be effectively a $\\mathrm { C O } _ { 2 }$ sink. Styles & Jones (2007) calculated GHG savings for Mis canthus in Ireland at $3 5 ~ \\mathrm { { M g } ~ C O _ { 2 } { - e q } \\ h a ^ { - 1 } ~ y r ^ { - 1 } , }$ while Brandao et al. (2011) gave a figure of 11.01 for the UK. Of course these savings are determined by the specific energy source they offset and comparisons do not always account for displaced production. Styles et al. (2015）investigated the effects of indirect land-use change，that is considering GHG emissions from the production of food displaced by bioenergy feedstock production. They found only Miscanthus and rotational maize offered GHG savings when these indirect landuse change (iLUC） impacts were considered and the percentage of displaced production that was directly replaced determined a threshold. Typically replacing $2 -$ $1 4 \\%$ for food crops or grassland diverted into anaerobic digestion negated potential GHG savings，whereas it was around $8 5 \\%$ for pelletized Miscanthus. The GHG benefits for rotational maize were, however, heavily offset by ecosystem service impacts due to intensive production，and of the six bioenergy crop systems investigated,Miscanthus was shown to offer the greatest benefits in ecosystem service provision. It was stressed, though,that these positive effects could be localized, consideration needed to be given where production might be displaced to and the impacts of any land-use changes incurred. The importance of understanding indirect land-use change was also highlighted by Tonini et al. (2012) who used sensitivity analysis to show that uncertainties around this were significant determinants in LCA results. They compared four conversion pathways (AD，gasification， small-scale CHP, and large-scale cofiring with coal) for ryegrass,willow, and Miscanthus and found that when considering their Danish systems,only large-scale cofiring of Miscanthus and willow offered real GHG savings compared to fossil fuel alternatives. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Waterbalance ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Water-use efficiency ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus has higher water-use efficiency (WUE) compared to more conventional C3 crop species,and even some other C4 crops which typically produce more biomass per unit of water transpired (Long, 1983). Beale et al. (1999) investigated WUE in field trials of Miscanthus and another potential C4 biomass crop，Spartina cynosuroides，under both rain-fed and irrigated conditions; they estimated the ratio of aboveground biomass to water use for Miscanthusunder rain-fed conditions at $9 . 2 ~ \\mathrm { g } ~ \\mathrm { D M }$ $( \\mathrm { k g } \\ \\mathrm { H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ compared to $6 . 8 \\ \\mathrm { g }$ DM $( \\mathrm { k g }$ $\\mathrm { H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ for S.cynosuroides.Both crops appeared to become less efficient under irrigation, down by $1 5 \\%$ for Miscanthusto $7 . 8 \\textrm { g D M }$ $( \\mathrm { k g ~ H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ and $2 5 \\%$ for S. cynosuroides to $5 . 1 \\mathrm { ~ g ~ }$ DM $( \\mathrm { k g ~ H } _ { 2 } \\mathrm { O } ) ^ { - 1 } ,$ possibly reflecting greater canopy evaporation under the irrigation regime.Beale et al.(1999) compared their results to the water-use efficiency of a C3 biomass crop，Salix viminalis,reported in Lindroth et al.(1994) and Lindroth & Cienciala (1996),and suggest that WUE for Miscanthus could be around twice that of this willow species. Clifton-Brown & Lewondowski (200o） reported figures from 11.5 to $ { 1 4 . 2 \\mathrm { ~ g ~ } }$ total (above- and belowground) DM $( \\mathrm { k g ~ H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ for various Miscanthus genotypes in pot trials,and this compares to figures calculated by Ehdaie & Waines (1993）with seven wheat cultivars who found WUE between 2.67 and $3 . 9 5 ~ \\mathrm { g }$ total DM $( \\mathrm { k g ~ H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ Converting these Miscanthus values to dry matter biomass per hectare of cropland would see ratios of biomass to water use in the range of to $7 8 { - } 9 2 ~ \\mathrm { k g } ~ \\mathrm { D M } ~ \\mathrm { h a } ^ { - 1 }$ $( \\mathrm { m m } ~ \\mathrm { H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ .Richter et al.(2oo8) modelled harvestable yield potentials for Miscanthus from 14 UK field trials and found soil water available to plants was the most significant factor in yield prediction,and they calculated a DM yield to soil available water ratio at $5 5 ~ \\mathrm { k g }$ $\\mathsf { D M } \\mathrm { \\ h a } ^ { - 1 }$ $( \\mathrm { m m ~ H } _ { 2 } \\mathrm { O } ) ^ { - 1 } .$ ，while just $1 3 ~ \\mathrm { k g ~ D M ~ h a } ^ { - 1 }$ was produced for each $1 \\ \\mathrm { m m }$ of incoming precipitation, likely related to the high level of canopy interception and evaporation. Even by C4 standards these efficiencies are high,as seen in comparisons to field measurements averaging $2 7 . 5 \\pm 0 . 4 ~ \\mathrm { k g }$ aboveground $\\boldsymbol { \\mathrm { D M } } \\mathrm { \\ h a } ^ { - 1 }$ $( \\mathrm { m m } \\mathrm { H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ for maize (Tolk et al.,1998). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Soil water balance ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "However,despite impressive efficiency figures,accumulating biomass at the rapid rate that makes Miscanthus interesting as an energy crop will inevitably lead to increased demand forwaterandconsiderationneedsto be given to water availability when locating plantations (Vanloocke et al.，2010).When Yaegeret al. (2013) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "comparea Vi1scantnus to corn ana soya bean grown in the American mid-West, they found that Miscanthus had effectively a 2-month longer season of transpiration which meant a reduction in soil water reserves during low rainfall. This reduction can be exacerbated by the dense canopy of Miscanthus which intercepts more rain allowing more evaporation at the leaf level and less throughfall to the soil compared to some other crops. Stephens et al. (20o1) modelled reductions in hydrologically effective rainfall (HER)，that israinfall that becomes incorporated into the soil under Miscanthus and willow compared to permanent grass and winter wheat. Results showed reductions in HER under Miscanthus were lower than those for willow SRC but still large at between 100 and $1 2 0 \\ \\mathrm { m m \\ y r ^ { - 1 } }$ ；using their estimate for 0.10 Mha of energy crops reducing HER by $1 5 0 ~ \\mathrm { m m }$ (average across both crops was $1 4 0 { - } 1 8 0 ~ \\mathrm { m m }$ $\\mathrm { y r } ^ { - 1 } ,$ ） meant 0.35 Mha would reduce rainfall reaching the soil by $0 . 7 \\%$ of total UK rainfall. Blanco-Canqui (2010) point out that this water-use and nutrient efficiency can be a boon on compacted,poorly drained acid soils,highlighting their possible suitability for marginal agricultural land. The greater porosity and lower bulk density of soils under perennial energy grasses, resulting from more fibrous, extensive rooting systems, and reduced ground disturbance, improves soil hydraulic properties，infiltration，hydraulicconductivity，and water storage compared to annual row crops. There may be potentially large impacts on soil water where plantation size is mismatched to water catchment or irrigation availability but note that increased ET and improved ground water storage through increased porosity could be beneficial during high rainfall with storage capability potentially increased by 100 to $1 5 0 ~ \\mathrm { m m }$ .There is also a benefit of reduced chemical inputs and nitrate leaching associated with Miscanthus, significantly improving water quality running off farmland (Christian & Riche,1998;Curley et al.,2009). McIsaac et al. (2010) reported that inorganic N leaching was significantly lower under unfertilized Miscanthus $( 1 . 5 { - } 6 . { \\overset { \\cdot } { 6 } } \\mathrm { ~ k g } \\mathrm { ~ N ~ h a ^ { - 1 } ~ y r ^ { - 1 } } )$ than a maize/soya bean rotation $( 3 4 . 2 { - } 4 5 . 9 \\ \\mathrm { k g \\ N h a ^ { - 1 } \\ y r ^ { - 1 } } )$ . They also reported that soils under Miscanthus were drier and calculated increased evapotranspiration from the Miscanthusat $1 0 4 ~ \\mathrm { m m ~ y r } ^ { - 1 }$ .Finch et al. (2004) studied UK energy grasses and willow SRC and compared them to existing grassland and arable. They found that in years of sufficient rainfall,Miscanthus is likely to use less or the same water as existing agricultural land. In drought years, although Miscanthus was likely to impact more on soil water deficits due to increased interception and rooting depth, this could lead to reduced groundwater recharge rates in drier years or reduced winter run-off in wetter conditions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Biodiversity ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "As Miscanthus is an agricultural crop,its place in an agricultural landscape of fields,margins,and farm woodland should be considered in terms of its potential to increase or decrease resources for wildlife in land-use transitions. How does it compare to existing land use or other potential energy crops? Felten & Emmerling (2011） compared earthworm abundance under a 15-year-old Miscanthus plantation in Germany to cereals,maize, OSR, grassland, and a 20-year-old fallow site (after previous cereals). Species diversity was higher in Miscanthus than that in annual crops, more in line with grassland or long-term fallow with management intensity seen to be the most significant factor; the lower ground disturbance allowed earthworms from different ecological categoriesto develop a more heterogeneous soil structure. The highest number of species was found in the grassland sites (6.8) followed by fallow (6.4),Miscanthus (5.1),OSR (4.0),cereals (3.7),and maize (3.O) with total individual earthworm abundance ranging from $6 2 \\mathrm { ~ m } ^ { - 2 }$ in maize sites to $3 5 5 ~ \\mathrm { m } ^ { - 2 }$ in fallow with Miscanthus taking a medium position $( 1 3 2 ~ \\mathrm { m } ^ { - 2 } )$ ，although differences in abundance were not found to be significant between land uses. There is some trade-off in this advantage for the earthworms however; the high-nitrogen-use efficiency and nutrient cycling which reduces the need for nitrogen fertilizer and its associated environmental harm means that, despite large volumes being available,Miscanthus leaf litter does not provide a particularly useful food resource due to its low-nitrogen,high-carbon nature (Ernst et al., 2009;Heaton et al.,20o9) and earthworms feeding on this kind of low-nitrogen material have been found in other studies to lose overall mass (Abbott & Parker,1981). In contrast，though,the extensive litter cover at ground level under Miscanthus compared to the bare soil under annual cereals was suggested to be a potentially significant advantage for earthworms in soil surface moisture retention and protection from predation. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Semere & Slater (20o7a,b) sampled an exhaustive range of aboveground indicator species at five sites in Herefordshire,UK.They compared results between Miscanthus，reed canary grass，and switchgrass and found Miscanthus to contain high levels of diversity in comparison with the other energy grasses; particularly evident in terms of beetles,flies,and birds,with breeding skylarks and lapwings being recorded in the crop itself.It was pointed out by the authors,however, that although the overwinter vegetative structure provided an impor tant cover and habitat resource, it was the noncrop weed species in and around the field sites that underpinned the food webs supporting the bird species.This link between crop density,weed content,and food resources forbirds was again demonstrated by Dauber et al. (2015) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "who recorded the abundances of ground fauna,beetles, spiders,etc.,at14mature Miscanthus sitesin SEIreland. They found light penetration through the canopy directly related to within crop biodiversity，with Miscanthus planted on previous grassland showing higher levels of biodiversity compared to that planted on former arable. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This trade-off between crop success and within-crop biodiversity is to be expected. For an economic return, the most efficient capture of light by the crop canopy will inevitably reduce noncrop weed resources for other species. However,Miscanthus offers environmental benefits in structural heterogeneity,low chemical inputs, and overwinter ripening providing near continuous cover.Particularly in a landscape of high-input arable production,Miscanthus has the potential to offer a 10- to 15-year break crop allowing the soil and surrounding field margins time to recover from intensive production. Bellamy et al.(2oo9) looked at bird species and their food resources at six paired sites in Cambridgeshire comparing Miscanthus plantations up to 5 years old with winter wheat rotations in both the winter and summer breeding seasons.The authors found that Miscanthus offered a different ecological niche during each season; most of the frequently occurring species in the winter were woodland birds,whereas no woodland birds were found in the wheat; in summer,however, farmland birds were more numerous.More than half the species occurring across the sites were more numerous in the Miscanthus,24 species recorded compared to 11 for wheat.During the breeding season, there was once again double the number of species found at the Miscanthus sites with individual abundances being higher for all species except skylark. Considering only birds whose breeding territories were either wholly or partially within crop boundaries, a total of seven species were found in the Miscanthus compared to five in the wheat with greater density of breeding pairs (1.8 vs. 0.59 species $\\mathrm { \\ h a } ^ { - 1 }$ ） and also breeding species (0.92 vs. 0.28 species $\\mathrm { \\ h a } ^ { - 1 }$ ). Two species were at statistically significant higher densities in the Miscanthus compared to wheat,and none were found at higher densities in the wheat compared to Miscanthus.As discussed, the structural heterogeneity,both spatially and temporally, plays an important role in determining within-crop biodiversity,autumn-sown winter wheat offers little overwinter shelter with ground cover averaging $0 . 0 8 \\mathrm { ~ m ~ }$ tall and very few noncrop plants，whereas the Miscanthus，at around $2 ~ \\mathrm { m } ,$ offered far more.In the breeding season, this difference between the crops remained evident; the wheat fields provided a uniform, dense crop cover throughout the breeding season with only tram lines producing breaks,whereas the Miscanthus had a low open structure early in the season rapidly increasing in height and density as the season progressed. Numbers of birds declined as the crop grew with two bird species in particular showing close (though opposite) correlation between abundance and crop height; red-legged partridge declined as the crop grew,whereas reed warblers increased,and these warblers were not found in the crop until it had passed $1 \\mathrm { ~ m ~ }$ in height, even though they were present in neighbouring OSR fields and vegetated ditches.In conclusion, the authors point out that, forall species combined,bird densities in Miscanthus were similar to those found in other studies looking at SRC willow and set-aside fields,all sites had greater bird densities than conventional arable crops. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It is through these added resources to an intensive agricultural landscape and reductions in chemical and mechanical pressure on field margins that Miscanthus can play an important role in supporting biodiversity but must be considered complementary to existing systems and the wildlife that has adapted to it. Clapham et al.(20o8) reports,as do the other studies here,that in an agricultural landscape,it is in the field margins and interspersed woodland that the majority of the wildlife and their food resources are to be found,and the impor tant role that Miscanthus can play in this landscape is the cessation of chemical leaching into these key habitats,the removal of annual ground disturbance and soil erosion，improved water quality，and the provision of heterogeneous structure and overwinter cover. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Summary statements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Based on the literature evidence reviewed above，we present here a number of summary statements addressing concerns and questions around the environmental sustainability of Miscanthus production in the UK. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PotentialUKland aoailability ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "·By planting in appropriate locations, government targets of O.35 Mha of dedicated energy crops could be sustainably met by Miscanthus production without impacting essential food production.   \n·0.35 Mha (2007 Biomass Strategy) would provide the energy equivalent to 1.67Mt of oil each year $( 1 . 1 7 \\%$ of total energy).   \n·0.72-2.8 Mha(2012 Bioenergy Strategy） would provide the equivalent of 3.44-13.38 Mt of oil $\\mathrm { y r } ^ { - 1 }$ （20 $( 2 . 4 1 - 9 . 3 9 \\%$ of total energy). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Soil carbon ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "·Former arable land converted to Miscanthusis most likely to lead to no change or an accumulation of soil organic carbon (SOC)，becoming comparable to an agricultural grassland within the lifetimeofthecrop.Miscanthuscontributes $0 . 9 8 \\pm 0 . 1 4 ~ \\mathrm { M g } ~ \\mathrm { C 4 - C ~ \\mathrm { h } \\bar { a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } }$ through litter drop and root turnover. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Converting semi-permanent grassland to Miscanthus by traditional establishment (spraying， ploughing, tilling,and planting) results in an initial short-term soil carbon loss which is recovered as the crop matures. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Chemical inputs ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "·Nitrogen fertilizer is unnecessary and can be detrimental to sustainability,unless planted into low-fertility soils where early establishment will benefit from additions of around $5 0 ~ \\mathrm { k g } \\mathrm { \\textnormal { N h a } } ^ { - 1 }$ ： ·Early season herbicide application for weed control is essential in the establishing years but becomes redundant as the crop matures,other pesticides are not needed. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "GHG cost of energy production ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "·When considering the entire energy supply chain burning,Miscanthus produces far less GHG per MJ of energy than fossil fuels; $1 . 1 2 \\mathrm { ~ g ~ C O } _ { 2 ^ { - } } { \\mathrm C }$ eq. compared to coal (33),oil (22),gas (16-22). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Nitrous oxide $( N _ { 2 } O )$ emission ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "· $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions can be five times lowerunderunfertilized Miscanthus than annual crops,and up to 100 times lower than intensive pasture land. ·Inappropriate nitrogen fertilizer additions can result in significant increases in $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission from Miscanthus plantations,exceeding IPCC emission factors although these are still offset by potential fossil fuel replacement. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Waterbalance ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "·Water-use efficiency is among the highest of any crop,in the range of $7 . 8 \\mathrm { - } 9 . 2 ~ \\mathrm { g }$ DM $( \\mathrm { k g } \\ \\mathrm { H } _ { 2 } \\mathrm { O } ) ^ { - 1 }$ ： ·Overall, water demand will increase due to high biomass productivity and increased evapotranspiration at the canopy level (e.g. ET up from wheat by $1 0 0 -$ $1 2 0 \\ \\mathrm { m m \\ y r ^ { - 1 } }$ ） Improved soil structures mean greater water-holding capacity (e.g. up by $1 0 0 { - } 1 5 0 ~ \\mathrm { m m } )$ ，although soils may still be drierin drought years. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "·Reduced run-off in wetter years,aiding flood mitigation and reducing soil erosion.   \n·Drainage water quality is improved，and nitrate leaching is significantly lower than arable (e.g. 1.5- $6 . 6 ~ \\mathrm { { k g } ~ N \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ Miscanthus, 34.2-45.9 maize/soya bean). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Biodioersity ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "·Miscanthus adds structural resources to agricultural landscapes, provides overwinter cover,and increases temporal variability which is accessed by different bird species in different seasons.   \n·Earthworm diversity and abundance is improved in arable soils and comparable to grassland soils although biomass may be reduced through poorer food quality.   \n·Reduced chemical inputs improve headland and field boundary quality for wildlife.   \n·Unpalatability of leaf litter and harvest residue removes the need for pest control but trade-off food resources for invertebrates within the cropped area are only provided by interspersed weed species are limited to weed species. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This study distils a large body of literature into simple statements around the environmental costsand benefits ofproducing Miscanthus in theUK,and while there is scope for further research,particularly around hydrology at a commercial scale,biodiversity in older plantations or higher frequency sampling for $\\mathrm { N } _ { 2 } \\mathrm { O }$ in land-use transitions to and from Miscanthus,clear indications of environmental sustainability do emerge. Any agricultural production is primarily based on human demand, and there will always be a trade-off between nature and humanity or one benefit and another; however, the literature suggests that Miscanthus can provide a range of benefits while minimizing environmental harm. Consideration must be given to appropriateness of plantation size and location,whether there will be enough water to sustain its production and the environmental cost of transportation to end-users; its role as a long-term perennial crop ina landscape of rotational agriculture must be understood so as not to interfere with essential food pro duction. There is nothing new in these considerations, they lie at the heart of any agricultural policy,and decision-makers are familiarwith these issues;the environmental evidence gathered here will help provide the scientific basis to underpin future agricultural policy. It is only through an understanding at the government level thatuptake of Miscanthuswill beable to fulfil its potential in the UK bioenergy sector. Despite clear environmental benefitsand developing supply chains, uptake of Miscanthus production remains low among UK farmersand thereismuch inertiato overcome.Financial considerations are paramount in farmers' willingness to adopt novel crops and production practices and uncertainty around grant funding, establishment costs, potential yields,and sale price limits confidence (Sherrington et al.,2008;Adams et al.,2011). There is,however,growing awareness of the bigger picture of environmental stewardship and climate change mitigation (Glithero et al.,2013)and farmers stress theneed for clear,unbiased information on all aspects of bioenergy; from the entire cycle of crop management and marketing to end use,biomass boilers for on-farm use and local energy supply. There is a problem of'chicken and $\\mathrm { e g g ^ { \\prime } }$ in developing these markets; farmers need the incentive of a mature market to sell into to encourage their uptake of these crops，whereas energy producers need a largescale,secure,predictable supply of biomass to invest in the technologies to utilize them.Without top-down intervention,and policystability,itwillbe difficult fora‘critical mass' of growers to develop to provide confidence in energycrop supply. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the BBSRC (Sparking Impact Award and GIANT-LINK project LK0863), by Natural Environment Research Council (NERC) as part of the Carbo-BioCrop project (NE/H01067X/1) and by the MAGLUE project.Many thanks also to Jonathan Scurlock of the National Farmers' Union (NFU) and Jeremy Woods of Imperial College,London, foradvice and feedback. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abbott I, Parker C (1981) Interactions between earthworms and their soil environment. Soil Biology and Biochemistry,13,191-197.   \nAdams PW,Hammond GP,McManus MC,Mezzullo WG (2011) Barriers toand drivers for UKbioenergy development.Renewable and Sustainable Energy Reviews,15, 1217-1227.   \nAgostini F,Gregory AS,Richter GM (2015) Carbon sequestration by perennial energy crops: is the jury still out? BioEnergy Research,1-24.   \nAhonsi MO,Agindotan BO,WilliamsDW,ArundaleR,Gray ME,Voigt TB,Bradley CA(2010) First report of Pithomyces chartarum causing a leaf blight of Miscanthus $\\times$ giganteus in Kentucky.Plant Disease, 94, 480-480.   \nAlexander P,Moran D,Smith P et al. (2014) Estimating UK perennial energy crop supply using farm-scale models with spatially disaggregated data. GCB-Bioenergy, 6, 142-155.   \nAnderson-Teixeira KJ,Davis SC,Masters MD,Delucia EH (2009) Changes in soil organic carbon under biofuel crops.GCB Bioenergy,1,75-96.   \nBalesdent J,MariottiA,Guillet B (1987) Natural 13 C abundance as a tracer for studies of soil organic matterdynamics.Soil Biology and Biochemistry,19,25-30.   \nBauen AW,Dunnett AJ,Richter GM,Dailey AG,Aylott M,Casella E,Taylor G (2010)Modelling supply and demand of bioenergy from short rotation coppice andMiscanthus intheUK.Bioresource Technology,101,8132-8143.   \nBeale CV,Morison JI,Long SP (1999)Water use efficiency of C4 perennial grasses in a temperateclimate.Agricultural and ForestMeteorology,96,103-115. teus rhizome rot caused by Fusarium aoenaceum,Fusarium oxysporum and Mucor hiemalis.AustralasianPlantDiseaseNotes,5,8-29.   \nBehnke GD,David MB, Voigt TB (2012) Greenhouse gas emissions,nitrate leaching, and biomass yields from production of Miscanthus $\\times$ giganteus in Illinois, USA. BioEnergy Research,5,801-813.   \nBellamy PE,Croxton PJ,Heard MS et al.(2009)The impact of growing Miscanthus for biomass on farmland bird populations. Biomass and Bioenergy,33,191-199.   \nBlanco-Canqui H (2010) Energy crops and their implications on soil and environment. Agronomy Journal,02,403–419.   \nBond CE,Roberts J, Hastings AFSJ,Shipton Z, Joao E,Tabyldy K,Stephenson M (2014)ClimateXChange.Available at:htp://www.climatexchange.org.uk/ reducing-emissions/life-cycle-assessment-ghg-emissions-unconventional-gas1/ (accessed 2 February 2015).   \nBosata E,Agren GI (1985) Theoretical analysis of decomposition of heterogeneous substrates.Soil Biology and Biochemistry,17,601-610.   \nBrandao M, Milai Canals L,Clift R (2011) Soil organic carbon changes in the cultivation of energy crops: Implications for GHG balances and soil quality for use in LCA. Biomass and Bioenergy,35,2323-2336.   \nCadoux S, Riche AB,Yates Nicola E,Machet JM (2012) Nutrient requirements of Miscanthus $\\times$ giganteus: conclusions from a review of published studies. Biomass and Bioenergy,8,422.   \nCheng W (2009) Rhizosphere priming effect: its functional relationships with microbialturoverapotraspationd-NdgetsSoilologydcsty 41, 1795–1801.   \nCherubini F, BirdND,CowieA,Jungmeier G,Schlamadinger B,Woess-GallaschS (2009)Energy-and greenhouse gas-based LCA of biofuel and bioenergy systems: key issues,ranges and recommendations.Resources,Conseroation and Recycling, 53, 434-447.   \nChristian D,Riche A (1998) Nitrate leaching losses under Miscanthus grass planted on a silty clayloam soil. Soil Use and management,14,131-135.   \nChristian DG,Lamptey JNL,Forde SMD,PlumbRT(1994) First report of barley yellow dwarf luteovirus on Miscanthus in the United Kingdom.European Journal of PlantPathology,100,167-170.   \nChristian DG,Poulton PR,Riche AB,Yates NE,Todd AD (2006) The recovery over several seasonsof15N-labelledfertilizer applied to Miscanthus $\\times$ giganteus ranging from1toyearsold.iomassandienergy0,3.   \nChristianD,RicheA,Yates N(2o08)Growth,yieldandmineral contentof Miscanthus $\\times$ giganteus grown as a biofuel for 14 successive harvests.Industrial Crops and Products,28,20-27.   \nClapham SJ,SlaterFM, Booth Eet al.(2oo8)The biodiversityofestablishedbiomass grass crops.Aspects of Applied Biology,90,325-329.   \nClayton H, McTaggart IP,ParkerJ,Swan L,SmithKA (1997)Nitrousoxide emissions from fertilised grassland: a 2-year study of the effects of N fertiliser form and environmental conditions.Biology and Fertility of Soils,25,252-260.   \nClifton-Brown JC, Lewondowski I (2ooo) Water use eficiency and biomass partitioning of three different Miscanthus genotypes with limited and unlimited water supply.Annals of Botany,86,191-200.   \nClifton-Brown JC,Stampfl PF,Jones MB (2004) Miscanthus biomass production for energy in Europe and its potential contribution to decreasing fossil fuel carbon emissions. Global Change Biology,10,509-518.   \nClifton-Brown JC,BreuerJ,Jones MB(2007)Carbon mitigationbytheenergycrop Miscanthus.Global Change Biology,13,29-0.   \nCoxPM,BetsRA,Jones CD,SpallSA,TotterdellIJ(11)ccelerationof globalwar ing due to carbon-cycle feedbacks in acoupled climate model. Nature,408,331.   \nCrutzen PJ,Mosier AR,Smith KA, Winiwarter W (2008)N2O release fromagrobiofuel production negates global warming reduction by replacing fossil fuels. Atmospherichemistryandsics,8,995.   \nCurley EM,OFlynn MG,McDonnell KP et al.(2009)Nitrate leaching losses from Miscanthus $\\times$ giganteus impact on groundwater quality. Journal of Agronomy,8, 107-112.   \nDauber J Cass S,Gabriel D,Harte K,Astrom S,O'Rourke E,Stout JC(2015) Yieldbiodiversity trade-off inpatchy fields of Miscanthus $\\times$ giganteus. GCB Bioenergy, 7, 455–467.   \nDavis SC,Parton WJ, Dohleman FG, Smith CM,Del Grosso S,Kent AD,DeLucia EH (2010)Comparative biogeochemical cycles of bioenergy crops reveal nitrogen-fixation and low greenhouse gas emissons in a Miscanthus $\\times$ giganteus agro-ecosystem. Ecosystems,13,144-156.   \nDEFRA (2014a) UK non-food statistical summary.Available at: https://www. gov.uk/government/uploads/system/uploads/attachment_data/file/377944/nonfood-statsnotice2012-25nov14.pdf (accessed 27 January 2015).   \nDEFRA (2O14b)Change in the area and distribution of set-aside in the England and its environmental impact.Available at: http://archive.defra.gov.uk/evidence/ statistics/foodfarm/enviro/observatory/research/documents/observatory08.pdf (accessed 27 January 2015).   \nDEFRA (2014c) Agriculture in the United Kingdom 2013.Availableat: https:// www.gov.uk/government/uploads/system/uploads/attachment_data/file/ 315103/auk-2013-29may14.pdf (accessed 27 January 2015).   \nDEFRA (2014d) Farming statistics- final crop areas,yields,livestock populations and agricultural workforce at 1 June 2013-UK.Available at: htps://www.- gov.uk/government/statistics/farming-statistics-final-crop-areas-yields-livestockpopulations-and-agricultural-workforce-at-1-June-2013-uk (accessed 27 January 2015).   \nDepartment of Energy and Climate Change (DECC)(2012) UK bioenergy strategy. Available at: http://www.gov.uk/government/uploads/system/uploads/attachment_data/file/48337/5142-bioenergy-strategy-.pdf (accessed 27 January 2015).   \nDepartment of Food and Rural Affairs (DEFRA)(2007) UK biomass strategy.Availableat: http://www.biomassenergycentre.org.uk/pls/portal/docs/PAGE/ RESOURCES/REF_LIB_RES/PUBLICATIONS/UKBIOMASSSTRATEGY.PDF (accessed 27 January 2015).   \nDohleman FG,Heaton EA,Arundale RA,Long SP (2012) Seasonal dynamics of above-and below-ground biomass and nitrogen partitioning in Miscanthus $\\times$ giganteus andPanicum virgatum across three growing seasons.GCB Bioenergy,4, 534–544.   \nDon A,Osborne B,Hastings A et al.(2012) Land-use change to bioenergy production in Europe: implications for the greenhouse gas balance and soil carbon. GCB Bioenergy,4,372-91.   \nDondini M,HastingsA,Saiz G,JonesMB,SmithP(209a)Thepotentialof Miscanthus to sequester carbon in soils: comparing field measurements in Carlow,Ireland to model predictions.GCB Bioenergy,1,145.   \nDondini M, Van Groenigen K-J,Del Galdo I, Jones MB (209b) Carbon sequestration under Miscanthus: a study of 13C distribution insoil aggregates. GCB Bioenergy,1, 321-330.   \nDrewer J,Finch JW,Lloyd CR,Baggs EM,Skiba U (2012)How do soil emissions of （204号 $\\mathrm { N } _ { 2 } \\mathrm { O } ,$ （20 $\\mathrm { C H } _ { 4 }$ and $\\mathrm { C O } _ { 2 }$ from perennial bioenergy crops difer from arable annual crops? GCB Bioenergy,4,408-419.   \nDUKES(2014a） Digest of UK energy statistics.Available at: htps://www. gov.uk/government/collections/digest-of-uk-energy-statistics-dukes (accessed 27 January 2015).   \nDUKES (2014b)Digestof UK energy statistics,online summary figures.Available at: https://www.gov.uk/government/uploads/system/uploads/attachment_data/ file/338768/DUKES_2014_internet_content.pdf (accessed 27 January 2015).   \nEckert B,WeberOB,Kirchhof G et al. (2001)Azospirillum doebereinerae sp.nov,a nitrogen-fixing bacterium associated with the C4-grass Miscanthus.International JournalofSystematicand EoolutionaryMicrobiology,51,-6.   \nEhdaie B, Waines JG (1993)Variation in water-use eficiencyand itscomponents in wheat: I. Well-watered pot experiment. Crop Science,33,294-299.   \nErnst G,Henseler I,FeltenD,Emmerling C(2o09) Decompositionand minralization of energy crop residues governed by earthworms.Soil Biology and Biochemistry, 41, 1548–1554.   \nETI (2015) Bioenergy Insights into the future UK Bioenergy Sector,gained using the ETI'sBioenergy Value Chain Model (BVCM).Availableat:http://www. eti.co.uk/wp-content/uploads/2015/03/Bioenergy-Insights-into-the-futureUK-Bioenergy-Sector-gained-using-the-ETIs-Bioenergy-Value-Chai-Mdel.pdf (accessed 14 April 2015).   \nFelten D,Emmerling C(2011)Efects of bioenergy cropcultivation onearthworm communities—a comparative study of perennial Miscanthus and annual crops with consideration of graded land-use intensity.Applied Soil Ecology,49,167-177.   \nFelten D,EmmerlingC(2012)Accumulationof Miscantlus-derivedcarbon in soils in relation to soil depth and duration of land use under commercial farming conditions. Journal ofPlantNutritionandSoil Science,175,661-670.   \nFelten D,FrobaN,Fries J,Emmerling C(2O13)Energybalancesand greenhouse gasmitigation potentials of bioenergy cropping systems (Miscanthus,rapeseed,and maize) based on farming conditions in Western Germany.Renewable Energy,55, 160–174.   \nFinchJWHalloieretal.rogicalctsfo ProductionintheUK-Final Report.epartmentofTradeandIndustryLodon,151.   \nGams W,Klamer M, O'Donnell K (1999) Fusarium miscanthi sp.nov. from Miscanthus litter. Mycologia,91,263-268.   \nGauder M,Butterbach-Bahl K,Graeff-Honninger S,Claupein W,Wiegel R (2012) Soil-derived trace gas fluxes from different energy crops-results from a field neriment in Sniithwest Germanv GCR Rinpnproli 4 289_301   \nGelfand I, Zenone T, Jasrotia P,Chen J,Hamilton SK,Robertson GP (2011) Carbon debt of Conservation Reserve Program (CRP) grassands converted to bioenergy production.Proceedings of the National Academy of Sciences of theUnited States of America,108,13864-13869.   \nGifford RM,Roderick ML (20o3)Soil carbon stocksand bulk density:spatial or cumulative mass coordinates as a basis of expression? Global Change Biology， 9, 1507–1514.   \nGlithero NJ,WilsonP,Ramsden SJ (2013) Prospects for arable farm uptake of Short Rotation Coppice willow and miscanthus in England.Applied Energy,107,209-218.   \nGodfray HCJ,Garnett T (2014) Food security and sustainable intensification.Philosophical TransactionsoftheRoyal Society B:Biological Sciences,369,0120273.   \nGoulding KWT,BaileyNJ,BradburyNJetal.(1998)Nitrogen depositionand itscontribution to nitrogen cycling and associated soil processes.New Phytologist,139, 49-58.   \nHansen EM, Christensen BT,Jensen LS, Kristensen K (2o04) Carbon sequestration in soil beneath long-term Miscanthus plantations as determined by 13C abundance. Biomassand energy26,97-105.   \nHarvey J(2o07)A versatile solution-growing Miscanthus for bioenergy.Renewable Energy World,10,86.   \nHastings A, Clifton-Brown J,Wattenbach M, Stampfl P,Paul Mitchell P,Pete Smith P (2008)Potential of Miscanthusgrasses to provide energy and hence reduce greenhouse gas emissions.Agronomy for Sustainable Development,28,465-472.   \nHastings A,Clifton-Brown J,Wattenbach M,Mitchell CP, Stampfl P, Smith P (2009) Future energypotentialof Miscanthus in Europe.GCB-Bioenergy,1,180-196.   \nHastings A,Yeluripati J,Hillier J, Smith P(2012) Chapter 12-Biofuel crops and greenhouse gasses.In: Biofuel Crop Sustainability (ed.Singh BP),pp.383-406.Wiley Blackwell, Danvers, MA.ISBN 978-0-470-96304-3   \nHastingsA,Talis M, Casella E, MatthewsR,Milner S,SmithP,TaylorG (2013) The technical potential of Great Britain to produce lingo-cellulosic biomass for bioenergy in currentand future climates.Global ChangeBiology-Bioenergy,6,10812.   \nHeaton EA, Dohleman FG,Long SP (2008) Meeting US biofuel goals with less land: the potential of Miscanthus.Global Change Biology,14,2000-2014.   \nHeaton EA,Dohleman FG,Long SP (2oo9) Seasonal nitrogen dynamics of Miscanthus $\\times$ giganteusandPanicumirgatum.GCBioenergy,1,707.   \nHeatonEA,detls biomass crop.Adoances in Botanical Research,56,75-136.   \nHillier J,Whittaker C,Dailey G et al.(2009) Greenhouse gas emissions from four bioenergy crops in England and Wales: integrating spatial estimates of yield and soilcarbonlaceinlifeealys.GBioergy1   \nIntergovernmental Panel on Climate Change (IPCC) (2007) Climate Change 2007: The PhysicalScienceBasis,ContributionofWorkingGroupI,IIandIItotheFourthesment Report ofthe IPCC Chapter 2(eds Solomon S, QinD,Manning Met al.),pp. 1-996.Cambridge University Press, Cambridge.   \nIntergovernmental Panel on Climate Change (IPCC)(2014) Summary for policymakers.In: ClimateChange2O14:Impacts,Adaptation,andVulnerability.PartA:Global andSectoralAspects.ContributionofWorking GroupII totheFifthAssessmentReport ofthe Intergovernmental Panel onClimateChange (edsField CB,Barros VR,Dokken DJ, Mach KJ,Mastrandrea MD, Bilir TE, Chatterjee M,Ebi KL,Estrada YO,Genova RC,Girma B,Kissel ES,Levy AN,MacCracken S,Mastrandrea PR,White LL),pp.1-32.Cambridge University Press,Cambridge,UK and New York, NY.   \nJones SK,Famulari D,Di Marco CF,Nemitz E, Skiba UM,Rees RM,Sutton MA (2011)Nitrous oxide emissions from managed grassand: a comparison of eddy covariance and static chamber measurements.Atmospheric Measurement Techniques,4,2179-2194.   \nJergensen U (2011) Benefits versus risks of growing biofuel crops: the case of Miscanthus.Currntninonmetalstaabili   \nJorgensen RN,Jorgensen BJ,Nielsen NE,Maag M,Lind AM (1997) $\\mathrm { N } _ { 2 } \\mathrm { O }$ emission from energycrop fields of Miscanthus $\\times$ Giganteus and winter rye.Atmospheric Environment,1,9904.   \nKahle P,Beuch S, Boelcke B,Leinweber P,Schulten HR (2001) Cropping of Miscanthus in Central Europe: biomass production and influence on nutrients and soil organic matter. European Journal of Agronomy,15,171-184.   \nKeymer DP,Kent AD (2013) Contribution of nitrogen fixation to first year Miscanthus $\\times$ giganteus.GCBBoenergy,6,86.   \nKim S,Dale BE (20o5) Life cycle assessment of various cropping systems utilized for producing biofuels: bioethanoland biodiesel. Biomass and Bioenergy,29,426-439.   \nKravchenko A,Robertson G(2011) Whole-profile soil carbon stocks: the danger of assuming too much from analyses of too little.Soil Science Society of America Journal, 75, 235–240.   \nKuzyakov Y (2010) Priming effects: interactions between living and dead organic matter.SoilBiologyand Biochemistry,42,363-1371.   \nLai K (∠uu4) sol cardon sequestrauon to muugate cumate cnange. Geouermu, Izs, 1-∠∠.   \nLamptey J,Plumb R,Shaw M(2003)Interactions between the Grasss Phalaris arundinacea,Miscanthus sinensis and Echinochloa crus-gali,and Barley and Cereal YellowDwarf Viruses.JournalofPhytopathology,151,463-468.   \nLange M (2011) The GHG balance of biofuels taking into account land use change. Energy Policy,39,2373-2385.   \nLewandowskiI,Schmidt U(206)Nitrogen,energyand landuseeficienciesof Miscanthus,reed canary grass and triticale as determined by the boundary line approach.Agriculture,Ecosystems $\\mathcal { E }$ Enuironmnt,,6.   \nLewandowski I,Clifton-Brown JC,Scurlock JMO,Huisman W (2000) Miscanthus: Europeanexperiencewithaovelenergycrop.iomassandioenergy,19,927.   \nLewandowski I, Scurlock JMO, Lindvall E, Christou M (2003) The development and current status of perennial rhizomatous grasses as energy crops in the US and Europe.Biomass and Boenergy,25,335-61.   \nLindrothA,Cienciala E (1996)Water use efficiency of short- rotation Salix viminalis at leaf, tree and stand scales.Tree Physiology,16,257-262.   \nLindroth A,Verwijst T,Halldin S (1994)Water-use efficiency of willow:variation with season,umidity,nd bomassallcation.Hydrology,6,1-19.   \nLong S (1983) C4 photosynthesis at low temperatures.Plant Cell& Environment,6, 345-363.   \nLovett AA, Suinnenberg GM,Richter GM, Dailey AG,Riche AB, Karp A (2009) Land use implications of increased biomass production identified by GIS-based suitability andyield mappingfor MiscanthusinEngland.Bioenergy Research,2,7-8.   \nLovett A,Siinnenberg G, Dockerty T (2014) The availability of land for perennial energy crops in Great Britain. GCB Bioenergy,6,99-107.   \nMackey B,Prentice IC,Stefen W et al.(2013) Untangling theconfusion around land carbon science and climate change mitigation policy. Nature Climate Change,3, 552–557.   \nMcIsaac GF, David MB,Mitchell CA (2010) Miscanthus and switchgrass production incentral Illinois: impacts on hydrology and inorganic nitrogen leaching. Journal of Environmental Quality,39,1790-1799.   \nMilner S,LovettA,HollandR,Sunnenberg G,Hastings A,SmithP,TaylorG (2015) A preliminary assessment of the ecosystem service impacts of bioenergy in GB to 2050.GlobalChange Biology-Bioenergy,doi:10.1111/gcbb.12263.   \nMiyamoto T,Kawahara M, Minamisawa K (2O04) Novel endophytic nitrogen-fixing clostridia from the grass Miscanthus sinensisas revealed by terminal restriction fragmentlengthpolymorpismanalysisApliedandEniromentalMicobology 70, 6580-6586.   \nNaik SN,GoudVV,RoutPK,Dalai AK (201o)Production of firstand second generation biofuels:a comprehensive review.Renewable and Sustainable Energy Reviews, 14, 578–597.   \nOenema O,Velthof GL,Yamulki S,Jarvis SC (1997)Nitrousoxide emissionsfrom grazed grassland. Soil Use and Management,13 (Suppl.4),288-295.   \nOfgem (2014) UK biomass sustainability figures.Available at: https://www.ofgem.- gov.uk/publications-and-updates/biomass-sustainability-dataset-2012-13 (accessed 27 January 2015).   \nO'Neill NR,Farr DF(1996)Miscanthus blight,a new foliar disease of ornamental grasses and sugarcane incited by Leptosphaeria sp.and its anamorphic state Stagonospora sp.PlantDisease,80,980-987.   \nPoeplau C, Don A (2014) Soil carbon changes under Miscanthus driven by C4 accumulation and C3 decomposition-toward a default sequestration function. GCB Bioenergy,6,327-338.   \nPost WM,Peng T-H,Emanuel WRetal.(1990)The global carboncycle.American Scientist,78,10-26.   \nRafique R,HennessyD, Kiely G(2011) Nitrous oxide emission from grazed grassland under different management systems. Ecosystems,14, 563-582.   \nReay DS, Davidson EA,Smith KA et al.(2012) Global agriculture and nitrous oxide emissions.Nature Climate Change,2,410-416.   \nRichter GM,Riche AB,Dailey AG,Gezan SA,Powlson DS (2008)Is UK biofuel supply from Miscanthuswater-limited? SoilUseand Management,24,235-245.   \nRichter GM,Agostini F,Redmile-Gordon M,White R,Goulding KWT (2015) SequestrationofCinsoils under Miscanthuscan be marginaland isafected by genotypespecific root distribution.Agriculture Ecosystems $\\mathcal { E }$ Environment,20o,169-177.   \nRochette P, Eriksen-Hamel NS (2008) Chamber measurements of soil nitrous oxide flux: are absolute valuesreliable? Soil Science Society ofAmerica Journal,72,331-342.   \nRoth B, Jones M, Burke J,Williams M(2013) The effects of land-use change from grassland to Miscanthus $\\times$ giganteus on Soil $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions.Land,2,47-451.   \nRoth B,Finnan JM,Jones MB,Burke JI,Williams ML (2015)Are the benefitsof yield responses tonitrogen fertilizer application inthe bioenergy crop Miscanthus $\\times$ giganteus offset by increased soil emisions of nitrous oxide? GCB Bioenergy，7, 145–152.   \nScharlemann J,Tanner EVJ,HiedererR,Kapos V (2014) Global soil carbon: understanding and managing the largest terrestrial carbon pool. Carbon Management,5, 81-91.   \nSchneckenberger K,Kuzyakov Y (2o07) Carbon sequestration under Miscanthus in sandy and loamy soils estimated by natural $^ { 1 3 } \\mathrm { C }$ abundance. Journal of Plant Nutrition and Soil Science,17o,538-542.   \nSearchinger T,Heimlich R,Houghton RA et al. (2008) Use of US croplands for biofuels increases greenhouse gases through emissions from land-use change. Science, 319, 1238-1240.   \nSemere T, Slater F(2oo7a) Ground flora,small mammal and bird species diversity in Miscanthus (Miscanthus $\\times$ giganteus)and reed canary-grass (Phalaris arundinacea) fields.Biomassand Bioenergy,31,0-29.   \nSemere T, Slater F(2007b) Invertebrate populations in Miscanthus (Miscanthus $\\times$ giganteus)and reedcanary-grass(Phalaris arundinacea) fields. Biomass and Bioenergy, 31, 30-39.   \nSherrington C,Bartley J,Moran D (20o8) Farm-level constraints on the domestic supply of perennial energy crops in the UK. Energy Policy,36,2504-2512.   \nShield IF,Barraclough TJP,Riche AB,Yates NE (2O14) The yield and quality response of the energy grass Miscanthus $\\times$ giganteus to fertiliser applications of nitrogen,potassium and sulphur. Biomass and Bioenergy,68,185-194.   \nSmith P,Powlson D, Glendining M, Smith JO (1997) Potential for carbon sequestration in European soils: preliminary estimates for five scenarios using results from long-term experiments. Global Change Biology,3,67-79.   \nStephens W,Hess TM,Knox JW (2001).Review of the efects of energy crops on hydrology.NF0416, Cranfield University MAFF.   \nStyles D, Jones MB (2007) Energy crops in Ireland: quantifying the potential life-cycle greenhouse gas reductions of energy-crop electricity. Biomass and Bioenergy, 31, 759-772.   \nStyles D, Gibbons J,Williams AP et al. (2015) Consequential life cycle assessment of biogas,biofuel and biomass energy options within an arable crop rotation. GCB Bioenergy, doi: 10.1111/gcbb.12246   \nTallis MJ,Casella E,Henshall PA,Aylott MJ,Randle TJ,Morison JIL,Taylor G (2013)Development and evaluation of ForestGrowth-SRC a process-based model for short rotation coppice yield and sopatial supply reveals poplar uses water more efficiently than willow. GCB Bioenergy,5,53-66.   \nTilman D,Socolow R,Foley JAetal.(2009)Beneficial biofuels—thefood,energy and environment trilemma. Science, 325,270.   \nTilman D,Balzer C,Hill J,Befort BL (2011) Global food demand and the sustainable intensification of agriculture.Proceedings of theNational Academy of Sciencesof the Unites States of America,108,20260-20264.   \nTolk JA, Howell TA, Evett SR (1998) Evapotranspiration and yield of corn grown on three High Plains soils. Agronomy Journal, 90,447-454.   \nTonini D,Hamelin L,Wenzel H,Astrup T(2012) Bioenergy production from perennial energy crops: a consequential LCA of 12 bioenergy scenarios including land use changes. Environmental Science & Technology,46,13521-13530.   \nValentine J,Clifton-Brown JC,Hastings A,Robson P,Allison G,Smith P (2012) Food vs.fuel: the use of land for lignocellulosic \"next generation\"energy crops that minimize competition with primary food production. GCB Bioenergy, 4, 1-19.   \nVanloocke A,Bernacchi CJ,Twine TE (2010) The impacts of Miscanthus $\\times$ giganteus production on the Midwest US hydrologic cycle.GCB Bioenergy,2,180- 191.   \nVelthof G,Brader A,Oenema O (1996) Seasonal variations in nitrous oxide losses from managed grasslands in The Netherlands.Plant and Soil,181, 263- 274.   \nWilliams AG,Audsley E, Sandars DL (2010) Environmental burdens of producing bread wheat, oilseed rape and potatoes in England and Wales using simulation and systemmodelling.The International Journal ofLife Cycle Assessment,15,855- 868.   \nYaeger MA,Sivapalan M,McIsaac GF,Cai X (2013)Comparative analysis of hydrologic signatures in two agricultural watersheds in east-central llinois: legacies of the past to inform the future.Hydrology and Earth System Sciences, 17, 4607-4623.   \nZatta A,Clifton-Brown JC,Robson P,Hastings A, Monti A (2014) Land use change from C3 grassland to C4 Miscanthus: effects on soil carbon content and estimated mitigation benefit after six years. GCB Bioenergy,6,360-370.   \nZenone T,Gelfand I,Chen J,Hamilton SK,Robertson GP (2013) From set-aside grassland to annual and perennial cellulosic biofuel crops: Effects of land use change on carbon balance.Agricultural and Forest Meteorology,182,1-12.   \nZhuang $\\scriptstyle { \\mathrm { Q } } ,$ Qin $Z ,$ Chen M(2013) Biofuel, land and water:maize,switchgrass or Miscanthus?EnuironmentalResearchLetters,8,O15020.   \nZimmermann J,Dauber J, Jones MB (2012) Soil carbon sequestration during the establishment phase of Miscanthus $\\times$ giganteus:a regional-scale study on commercial farms using 13C natural abundance.GCB Bioenergy,4, 453-461. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

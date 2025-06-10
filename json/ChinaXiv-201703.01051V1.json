@@ -1,0 +1,526 @@
+[
+    {
+        "type": "text",
+        "text": "Tomographic Data Fusion with CFD Simulations Associated with a Planar Sensor ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU J., LIU S.\\*, SUN S., ZHOU W., I.H.I Schlaberg, WANG M. and YAN Y.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "North China Electric Power University,2 Beinong Road, Changping District, Beijing 102206, China $\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tomographic techniques have great abilities to interrogate the combustion processes, especially when it is combined with the physical models of the combustion itself.In this study,a data fusion algorithm is developed to investigate the flame distribution of a swirl-induced environmental (EV) burner,a new type of burner for low NOx combustion. An electric capacitance tomography (ECT) system is used to acquire 3D flame images and computational fluid dynamics (CFD) is applied to calculate an initial distributionof the temperature profile for the EV burner.Experiments were also carried out to visualize flames at a series of locations above the burner. While the ECTimages essentiallyagree with the CFD temperature distribution,discrepancies exist at a certain height. When data fusion is applied,the discrepancy is visibly reduced and the ECT images are improved.The methods used in this study can lead to a new route where combustion visualization can be much improved and applied to clean energy conversion and new burner development. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Process tomography, data fusion,EVburner, flame ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the requirements for pollution control and energy saving have become more stringent in recent years,the studyoflow-emission andhigh-efficiencyburners isincreasingly necessary. It is believed that low-heat value gaseous fuels, such as blast furnace gas for gas steam combined cycle power generation, not only can solve the problem of electricity production in the iron and steel industry, but also make breakthroughs in energy saving, emission reduction, and environmental improvement [1]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "New burners for low-heat value gaseous fuels have been studied for many years.In the 199Os,ABB solved the problem of combustion stability with a complex control system for a low-heat value gaseous fuel burner[2]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among many new technologies, the swirl-induced environmental (EV) burner has shown favorable features such as low emission generation and good combustion stability. However,as a relatively new type of burner, detailed investigations are still needed to understand the mechanisms of the combustion process.The spatial distribution of the flames in the EV burner is of great importance in assessing the combustion conditions,as it is for common combustors.As combustion very often oc curs with variations or fluctuations in parameters such as combustion intensity in various locations,monitoring of flames should not only be of spatial distributions,but also be able to follow the variations with a certain temporal resolution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To achieve this goal, various techniques are sought to visualize flame distributions in combustion chambers This will be the first and necessary step leading to more difficult tasks such as detecting the locations of poor combustion zones that tend to reduce the combustion efficiency.It would also highlight the locations with excessively high temperature that would increase nitric oxide emissions (NOx) [3]. Moreover, probing details of combustion should require observation of the internal structures of the flames.As a relatively new technology, electric capacitance tomography (ECT） is an attractive approach for its ability to map the entire cross section of a combustion zone with a very fast data acquisition speed ECT is by nature sensitive to electrical properties of the flame,and maps permittivity of the flame that is closely related to the intensity of the combustion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electric capacitance tomography, ECT for short, is a recently developed non-intrusive visualization technolo gy.With distinct advantages,such as non-intrusive sensing and fast data acquisition speed,ECT reconstructs the permittivity distribution in the measuring zone using certain algorithms on the measured capacitance data.The ECT method has been intensively studied and is one of the most promising visualization methods for parametric measurements in multiphase systems.Especially, Waterfall et al. [4], He et al.[5],Liu et al. [6] apply the ECT method into the visualization of the spatial distribution of a flame,which provides an effective approach for understanding the underlying physical and chemical mechanisms of the combustion process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Depending on the materials being measured and the working environment,ECT can use various types of sensors.Figure 1 illustrates an ECT system with a cylindrical sensor.A data acquisition device collects data from the sensor and sends them to a PC,where the data are analyzed and images are reconstructed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/51c2d5f681a0c5ecb3e1129568e305be83b5319e8f0706916b37f293edac7e37.jpg",
+        "img_caption": [
+            "Fig.1 A sketch of typical ECT system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to current theories,flame ionization consistsof thermal ionization and chemical ionization. Chemical reactions and high temperature may excite substances in the flame and generate electrons,ions and electric dipoles. Thermal ionization is determined by flame temperature and ionization potential. On the other hand,chemical ionization is the process that is closely related to endothermic and exothermic reactions of the combustion.For a methane flame, for example,the positive ions in high concentration are $\\mathrm { C _ { 3 } H _ { 3 } } ^ { + }$ ， ${ \\mathrm { H } } _ { 3 } { \\mathrm { O } } ^ { + }$ $\\mathrm { C H O } ^ { + }$ ${ \\mathrm { H } } _ { 5 } { \\mathrm { O } } _ { 2 } ^ { + }$ ， ${ \\mathsf { N O } } ^ { + }$ $\\mathrm { C } _ { 2 } \\mathrm { O } _ { 2 } \\mathrm { H } ^ { + }$ ， $\\mathrm { H } _ { 2 } \\mathrm { O } ^ { + }$ ， ${ \\mathrm { H } } _ { 3 } { \\mathrm { O } } _ { 2 } ^ { + }$ , etc.,however, the negative particles in the flame are mainly electrons and a few negative ions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As far as 3D ECT techniques are concerned, there have been active investigations in both sensor design and image reconstruction algorithms recently. While a majority of the efforts have focused on 3D multi-phase imaging,visualization of the details of a combustion process and flame characteristics still needs substantial development.Ye [7] investigated volumetric and planar ECT. In his study, a planar sensor was built with a matrix of three byfour rectangular electrodes laid on a plastic base.The Landweber iterative algorithm was used for the image reconstruction.Images of test objects,such as wooden blocks，were reasonably well reconstructed.Depth of detection was also observed and found to be at least $8 \\mathrm { c m }$ fora sensor size of 17 by $1 7 \\ \\mathrm { c m }$ .Soleimani et.al. introduced an ECT sensor of 32-eletrodes arranged in four planes with eight electrodes on each plane [8]. They implemented a temporal correlation between 3D ECT images to form 4D maps.3D ECT has also been used for real time multiphase flow visualization.Warsito and Fan [9]applied the 3D ECT technique to gas-liquid-solid fluidized bed measurements,and successfully revealed the flow of bubbles in a multiphase system.As for flame imaging,Gut and Wolanski carried out a preliminary study on 3D flame imaging using a cylindrical ECT sensor of 18 electrodes distributed in three planes [1O]. This article showed a group of flame images in 3D shapes. However,the inner structure of the flames was not reported in the measurement results.All these works have shown certain fundamental features of 3D ECT. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Previous work of our study [11] has tested a planar circular sensor that serves well the purpose of 3D flame imaging,being capable of revealing different zones of a flame.Being a preliminary study, the full characteristics of such a sensor have not yet been fully examined.Further work is thus expected. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The images reconstructed by ECT are presumed to be related to the combustion intensity that is in one way or another related to the temperature distribution.Based on the above assumptions and to improve the ECT technique to reflect the temperature profile more rigorously, it will be beneficial to integrate the information of the combustion itself. For this purpose,in this investigation a numerical simulation of combustion is performed and its data are used as a source for data fusion with the ECT measurements. Details will be described in the following sections. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Models and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CFD model ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The objective of this study is to monitor combustion or the flames in an EV burner by means of a non-intrusive visualization technique,namely ECT.Basically an EV burner is a conical shaped burner, with two air slits opened at opposite sides of the cone wall and the combustion air flows tangentially from the two slits into the cone of the burner.In the middle part of the slits there are small holes acting as the inlet of the gaseous fuel. The fuel and combustion air should mix well for the complete combustion of the fuel. Due to the varying radius of the cone，the swirling gas will form a stable recirculation zoneanda stablecombustion flame in front of the recirculation zone, see depiction in Fig.2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/edb714d5ce4351a312f0d70d32d4add971c60bbf41874190dd03af9ced1a6fde.jpg",
+        "img_caption": [
+            "Fig.2The structure of EV burner "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A Computational fluid dynamics(CFD) simulation is carried out to study the combustion process in the EV burner.In the current work, the Reynolds averaged Navier-Stokes equations combined with the energy equation are solved to obtain the flow field and the temperature profiles in the combustor. The continuity, momentum and energy equations are listed below: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\cdot \\left( \\rho \\vec { \\nu } \\right) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\cdot \\left( \\rho \\vec { \\nu } \\vec { \\nu } \\right) = - \\nabla p + \\nabla \\cdot \\stackrel { = } { \\left( \\tau \\right) } + \\rho \\vec { g }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\cdot \\left( \\vec { \\nu } \\left( \\rho E + p \\right) \\right) = \\nabla \\cdot \\left( k e f f \\nabla T - \\sum _ { j } h _ { j } \\overline { { { j _ { j } } } } + \\left( \\stackrel { = } { \\tau } \\cdot \\vec { \\nu } \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho$ is density, $\\vec { \\nu }$ is the time average velocity, $\\tau$ denotes the stress tensor and $\\vec { g }$ is the gravitational acceleration. For the term $E = h - p / \\rho + \\nu ^ { 2 } / 2$ in equation 3, $h$ represents the sensible enthalpy and $p$ is the mean pressure. $k _ { e f f }$ is the effective conductivity and $\\overrightarrow { j _ { j } }$ represents the diffusion flux of species. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Very often the standard $\\mathbf { k } { - } \\mathbf { \\mathcal { E } }$ turbulence model is applied to close the Navier-Stokes equations.The transport equations for $\\mathbf { k }$ andε are given below: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\nabla \\cdot \\left( { \\rho { k } \\vec { \\nu } } \\right) = \\nabla \\cdot \\left( { \\left( { \\mu + \\frac { { \\mu _ { t } } } { { \\sigma _ { k } } } } \\right) \\nabla { k } } \\right) + G _ { k } + G _ { b } } } \\\\ { ~ } \\\\ { { \\nabla \\cdot \\left( { \\rho \\varepsilon \\vec { \\nu } } \\right) = \\nabla \\cdot \\left( { \\left( { \\mu + \\frac { { \\mu _ { t } } } { { \\sigma _ { \\varepsilon } } } } \\right) \\nabla \\varepsilon } \\right) } } \\\\ { ~ } \\\\ { { + c _ { 1 \\varepsilon } \\frac { \\varepsilon } { k } \\big ( G _ { k } + C _ { 3 \\varepsilon } G _ { b } \\big ) - C _ { 2 \\varepsilon } \\rho \\frac { \\varepsilon ^ { 2 } } { k } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathbf { k }$ andε are the turbulent kinetic energy and the turbulent dissipation rate respectively. $\\mu$ is the air viscosity and $\\mu _ { t }$ represents the turbulent viscosity. $\\sigma _ { k } = 1 . 0$ and $\\sigma _ { \\varepsilon } = 1 . 3$ represent the turbulent Prandtl numbers fork and εrespectively. $G _ { k }$ and $G _ { b }$ denote the generations of turbulence kinetic energy due to mean velocity gradients and buoyancy respectively. The constants of $C _ { I \\varepsilon }$ and $C _ { 2 \\varepsilon }$ are set at the default values 1.44 and 1.92.However, otherturbulent models,such as the Reynolds stress model, can also be considered. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to calculate the turbulent flame in the combustor, the non-premixed model is adopted and the governing equations are shown in equations 6 and 7.In the equations $\\overline { { f } }$ is the Favre mean mixture fraction and $\\overline { { { f ^ { \\prime } } ^ { 2 } } }$ is mixture fraction variance.The constants of $\\sigma _ { t } , C _ { g }$ and $C _ { d }$ are defined as 0.85,2.86 and 2.0 respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\nabla \\cdot ( \\rho \\overset {  } { \\nu } \\overset { } { f } ) = \\nabla \\cdot ( \\frac { \\mu _ { t } } { \\sigma _ { t } } \\nabla \\overline { { f } } ) } } \\\\ { { \\nabla \\cdot ( \\rho \\overset {  } { \\nu } \\overline { { f ^ { \\prime } { } ^ { 2 } } } ) = \\nabla \\cdot ( \\frac { \\mu _ { t } } { \\sigma _ { t } } \\nabla \\overline { { f ^ { \\prime } { } ^ { 2 } } } ) } } \\\\ { { + C _ { g } \\mu _ { t } ( \\nabla \\overline { { f } } ) - C _ { d } \\rho \\frac { \\varepsilon } { k } \\overline { { f ^ { \\prime } { } ^ { 2 } } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The commercial CFD software Fluent is used to solve the equations. The SIMPLE algorithm is chosen to couplethe pressure and the velocity fieldsand second-order schemes are used to solve the discretized form of the above equations.To deal with the high tem perature inside the combustor, the Discrete Ordinates model is adopted to consider the radiation effect.The inlets of the fuel $\\mathrm { ( C H _ { 4 } ) }$ and air are treated as the velocity boundaryand the outletof thecomputational domain isa pressure outlet. In addition, the variable $\\overline { { f } }$ is set to 1.0 at the fuel inlet and O at the air inlet,respectively.Also, the same combustion conditions,e.g. structure of the burner, air feed rate and fuel feed rate,are applied to both the CFD simulation and the ECT measurements to acquire comparable data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The temperature distribution calculated by CFD could be regarded as a good reference for the ECT measurement,either as prior knowledge for the ECT image reconstruction,or as a comparison to test and verify the accuracy of the reconstruction algorithm. In this way, when the parameter distributions from the CFD simulations are successfully integrated into the images from the ECT experiments, better results should be expected. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TheECT Sensor ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A planar circular sensor with eight electrodes was designed and fabricated to detect the material distribution in a 3D space,and to be suitable for a burner,as shown in figure 3.In the central part of the base is a hole to host ,electrodes;2,stainless steel base;3,crystal glass;4,data line;5,supporting flange;6,shielding;7,EVburer the EV burner. The variation of the distribution of the materials above the electrodes will cause the corresponding capacitance variation that will be measured by each pair of electrodes.Therefore,the 3D distribution of materials can be detected.For the same reason，when there is a flame,the permittivity distribution above the electrodes will also be sensed by the electrodes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/38e2587bcdebe9201848cfc16d12045737a83d260b8a56597a660cfefca55900.jpg",
+        "img_caption": [
+            "Fig.3Photos of the eight-electrode ECT sensor "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sensor in figure 3 has eight electrodes evenly spaced on the top plane,beneath the electrodes is an insulation plate made of crystal glass,further down is a stainless steel base.The EV burner is installed through the central hole. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3D Sensitivity map ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A sensitivity map is essential for ECT image reconstruction.In this study,a two-step numerical procedure is used to generate the sensitivity map: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a.The electrodes are excited one by one.For each excitedelectrode,theelectric fieldis calculatedbased on electromagnetic models via the finite element method. This process continues until every electrode is excited and eight electric fields are obtained corresponding to the eight electrodes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b.For each pair of the above calculated electric fields, the inner product is performed to obtain the sensitivity map for each voxel cantered at $( x _ { i } , y _ { i } , z _ { i } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { S ( i \\mathrm { \\bf ~ \\underline { ~ } { ~ } } j , x , y , z ) = { \\bf E } _ { i , x } ( x , y , z ) \\cdot { \\bf E } _ { j , x } ( x , y , z ) } \\\\ & { \\qquad + { \\bf E } _ { i , y } ( x , y , z ) \\cdot { \\bf E } _ { j , y } ( x , y , z ) } \\\\ & { \\qquad + { \\bf E } _ { i , z } ( x , y , z ) \\cdot { \\bf E } _ { j , z } ( x , y , z ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $S ( i \\_ j , x , y , z )$ stands for the element in the sensitivity map corresponding to the electrode pair $i , j ,$ and a voxel location $( x _ { i } , y _ { i } , z _ { i } ) ; { \\bf E } _ { i , x } ( x , y , z )$ is the electric field matrix at $( x , y , z )$ ，with the first subscript indicating the number of the electrode and the second subscript indicating the component of the electric field. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Image reconstruction and fusion method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ECT image reconstruction procedure consists of two processes: the forward problem and the inverse problem.In a mathematical notation,when signal noise is ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ignored, the common ECT imaging model can be approximated as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { S } \\mathbf { G } = \\mathbf { C } \n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where S stands for the sensitivity map,or measurement matrix; $\\mathbf { G }$ stands for the permittivity distribution vector, also called the image that contains the grey values for each voxel; C holds the capacitance values,measured or simulated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When reconstructing the images,an iterative procedure can offer more control over the quality of the image and the magnitude of the error. In this paper, the Landweber algorithm is employed to reconstruct the images. The general equation describing the Landweber algorithm is: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { G } _ { i + 1 } = \\mathbf { G } _ { i } + \\alpha \\mathbf { S } ^ { - 1 } ( \\mathbf { C } - \\mathbf { S } \\mathbf { G } _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Where $\\alpha$ is the step length of the iteration used to control the convergence speed. When the initial value $\\bf { G _ { 0 } }$ ,i.e. the first image in the iteration, is not known it can often be assigned with random values or simply zeros and the iteration process then converges to the value of the minimum norm square.This may cause bigger errors or a longer iteration time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An effective way to judge the convergence for the ECTinverse problem is to set a tolerance error value $\\xi$ for the iteration: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { G } _ { i + 1 } { - } \\mathbf { G } _ { i } < \\boldsymbol { \\xi }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When the condition of equation 11 is fulfilled, the iteration process is completed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the purpose of data fusion, there can be a variety of ways of introducing CFD data into the image reconstruction process.In this study we propose using CFD information as prior knowledge and assigning CFD data to ${ \\bf G } _ { 0 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bf G } _ { 0 } ( x , \\ y , \\ z ) = \\mathrm { \\bf C F D \\_ d a t a } ( x , \\ y , \\ z )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where CFD_data are in a normalized vector containing the temperature data for each voxel. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experimental ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experiments to image the flames were carried out and figure 4 shows the experimental apparatus. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b54ef000990bed97f61dc290d85016a1da5a1960805d44a77a9fc7180550fd61.jpg",
+        "img_caption": [
+            "1.Methane cylinder,2.Air cylinder,3.Pressure gauge,4.Pressure regulator,5.Flow rate valve, 6.Float meters,7.ECT sensor,8.Combustion chamber,9.ECT data logging device,10.Computer. ",
+            "Fig.4Experimental apparatus "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a64140f747a211e158767d674dd64f22926f442d899605b3a21e0183cd0c07e1.jpg",
+        "table_caption": [
+            "Table 1 Parameters of the Cyclone "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Air-intake slit</td><td>Number</td><td>2</td></tr><tr><td>Length/ mm</td><td>70</td></tr><tr><td>Width /mm</td><td>2</td></tr><tr><td rowspan=\"3\">Fuel gas inlet</td><td>Intake area/mm²</td><td>280</td></tr><tr><td>Number</td><td>2</td></tr><tr><td>Length/ mm</td><td>70</td></tr><tr><td rowspan=\"3\">Gas hole</td><td>Number</td><td>8</td></tr><tr><td>Radius/mm</td><td>0.5</td></tr><tr><td>Exit area/mm²</td><td>6.28</td></tr><tr><td rowspan=\"3\">Half-angle of the combustion cone</td><td>Angle/°</td><td>34</td></tr><tr><td>Upper end diameter /mm</td><td>60</td></tr><tr><td>Lower end diameter /mm</td><td>8.04</td></tr><tr><td rowspan=\"2\">flame tube</td><td>Height/mm</td><td>65</td></tr><tr><td>Inner diameter /mm Height/mm</td><td>185 200</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study an EV burner is designed and the specific parameters are shown in table.1 The fuel is high purity methane (volume fraction, $9 9 . 9 5 \\% )$ and dry air is the oxidant.Thefeedratesof the fuel andairarecontrolled bythevalves in the flowmeters.The ECT sensoris fitted onto the gas burner to form an integrated unit, shown in figure 4.For the eight-electrode ECT sensor, the outer diameterof the electrode array is $1 2 4 \\mathrm { m m }$ ，with an inner diameter of $7 4 \\mathrm { m m }$ .The electrodes are made of stainless steel with a $4 ~ \\mathrm { m m }$ thickness and mounted on a crystal glass plate of $1 2 \\mathrm { m m }$ thickness.Below the glass plate is a metal plate serving as a shield to prevent interference from the outside environment. Below the metal plate there is another crystal plate to insulate the electrode wiring from the metal plate.For further reduction of environment interference,a cylindrical shielding was also used to isolate the combustion space from the outside space.A range of methane fuel feed rates were tested, i.e from $3 0 \\mathrm { L } / \\mathrm { h }$ to $1 8 0 \\mathrm { L / h }$ ； and feed rates of the combustion air ranges from $5 0 0 \\mathrm { L / h }$ to ${ 3 0 0 0 } \\mathrm { L / h }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To avoid signal saturation during the measurement, calibrations are conducted before the experiments consisting of a low range and a high range measurement. The low range calibration is a normal measurement with an empty combustion chamber. The high range calibration is performed using sand with a series of moisture content that yields a range of permittivities from 3 to 15.After a number of trial tests,it was found that for the combustion conditions available,sand with a permittivity of above 8 for the high range calibration was sufficiently high to prevent signal saturation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, 1ooo frames at a data sampling rate of 40 frames per second were normally captured for each experimental run,which is enough to provide adequate tem poral resolution.With the measured capacitance and the 3D sensitivity map,a series of images of the flames are reconstructed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experimental results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A set of typical experimental results are presented here when the feed rate of methane is $9 0 \\mathrm { L } / \\mathrm { h }$ and the feed rate of the combustion air is $1 0 0 0 \\mathrm { L / h }$ ,i.e.the fuel/air ratio is 1:11.For this case,the 3D images were reconstructed using the 3D sensitivity map and the Landweber algorithm. To provide clear views of the inner structure of the flames,a series of slices of a typical 3D image are presented in figure 5,each slice corresponding to a different cross section along the axis of the combustion chamber, atdifferent heights from the surface of the electrodes of the ECT sensor. There are three typical cases in figure 5, with similar characteristics. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "H= 20 mm H= 60 mm H= 100 mm H= 140 mm H= 180 mm510 501520253035404550 5101520253035404550 510 51015 15 1520 20253035 20  \n1 2530 子 S 253035 35404540 40455004550 火 C 5010 2030 40 10 20 30 40 10 20 3040 505 5 510 5101520253035404550 510 10 1015 1520253035404550 15 1520 20253035404550 2025 25  \n2 30 3035 354045 好 4550 5030 40 10 20 30 40 10 20 30 40 505 510152025303540 510 152025303540 5101520253035 5101015 1520 20  \n3 25 T 25303035 3540 4045 4045 45 45 4550 50 50 5040 10 40",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The basic features of figure 5 are clear.First,for low positions (e.g. $\\mathrm { H } = 2 0 \\textrm { -- } 6 0 \\ \\mathrm { m m } )$ ，the high permittivity (high grey values,shown as red)parts are spread out above the sensor. Second, at a certain height (e.g.H is $1 0 0 ~ \\mathrm { { m m } ) }$ , the image is distributed in a circular manner. Third, the grey values in the cross sections are not uniform，with strong and weak portions,which implies an asymmetrical intensity of the flame. This can be considered reasonable as the combustion is of a turbulent nature.Fourth,at high positions (e.g. $\\mathrm { H } = 1 4 0 - 1 8 0 ~ \\mathrm { m m } )$ ， the circular structure reduces and eventually merges into a small region of similar intensity,which may indicate the top region of the inner cone of a flame. On the whole, the images display the spatial distributions of the flames quite well. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CFD results and the effect of data fusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CFD simulations were conducted by solving the control equations forthe Navier-Stokes equations.For data fusion purposes the simulations adopted the same conditions as those used for the ECT measurements.The internal flow field of the burner is based on the pressure solver and the pressure-velocity coupling algorithm. The standardwallfunctionisused nearthe wall surface.The intakevelocities includethevelocitiesof theairand the fuel,and the inlet temperature is set to 3ooK.The burner exit condition is set to the flow boundary.All the wall surfaces are assigned the solid walls.An upwind difference scheme of second order accuracy is adopted.Multiple grids are used to accelerate the convergence of the computation process. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The temperature distributions at a series of cross sections are presented in figure 6 below.For clearer visual effects,different scales are used in figure 6,i.e., from 500K to 1550K for the top row and from 600K to 1200K for the bottom row. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The distribution of the temperature in the combustion zone will reflect the flow of the combustion media and theproducts,the shape,the location,and many other important characteristics of the flame.As is shown in figure 6,the flow in the burner appears to be rotating. In a certain range of heights,i.e.H from $1 0 ~ \\mathrm { m m }$ to $3 0 ~ \\mathrm { m m }$ there is a band of high temperature region spreading from the central zone towards the edge.This is characteristically in agreement with the ECT images for those heights However, the CFD data more clearly displayed a swirl like shape at $\\mathrm { H } = 1 0 \\mathrm { m m }$ and at $\\mathrm { H } = 3 0 - 1 8 0 \\ : \\mathrm { m m }$ ,which very likely reflects the effect of the two air inlet slits at the burner wall from which the fuel and air enter the burner in a tangential direction.At some intermediate heights (e.g. $\\mathrm { H } = 6 0 - 1 0 0 \\mathrm { m m } ,$ , the temperature appears to have a circular shape,which resembles well the ECT image for $\\mathrm { H } = 1 0 0 ~ \\mathrm { m m }$ .Aftera certain height the temperature tends to decrease and be more uniform, as at $\\mathrm { H } =$ $1 4 0 \\mathrm { m m }$ and $1 8 0 \\mathrm { m m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "By comparing figure 5 with figure 6,one can see that the images by the two methods roughly agree for certain heights, say $2 0 ~ \\mathrm { { m m } - 1 0 0 ~ \\mathrm { { m m } } }$ ，while the results for $\\mathrm { H } =$ $1 4 0 ~ \\mathrm { m m }$ and $1 8 0 ~ \\mathrm { m m }$ show certain discrepancy: the high intensity areas in the ECT images are small but the CFD profiles are largely uniform.The reason might be that in the higher positions the sensitivity of ECT is weak, thus the ECT images show small area of high temperature. While the CFD results are not related to the sensitivity of ECT detection,they may be more faithful to the real condition and display larger areas of more evenly distributed temperature profiles.Based on this consideration, one may expect improved ECT results by data fusion with the CFD data. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Data fusion was performed using equation 12,where the CFD data provide the prior information as $G _ { \\theta } ,$ and the iterations were performed using equation 10.Usually $\\pmb { G } _ { \\theta }$ was assigned random values or the values of a linear back projection of the measurement. When $\\pmb { G } _ { \\theta }$ is decided by data fusion with complementary data,i.e. CFD data in this study， the results should be improved. Figure 7 shows the images after data fusion.Improvement can be seen for the ECT images,e.g. for $\\mathrm { H } = 6 0 ~ \\mathrm { m m }$ and 180 mm,where clearer circular distribution is displayed for the former and the image is more uniform for the latter. Therefore,by applying data fusion, the ECT images come to ahigher degree reflect the temperature distributions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions and Discussions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study a planar circular ECT sensor was developed to be used with tomographic techniques for EV burners aimed at 3D visualization of flame structures, while a data fusion algorithm was derived to improve the results.Experiments were conducted to obtain ECT images of the flames,while the temperature distribution of the flame under the same experimental conditions was calculated using CFD simulations. ECT images clearly revealedthe structureofthe flames.Albeit with certain discrepancies,in general good agreement was found be tween the ECT results and the CFD data.In addition, data fusion effectively improved the ECT images and reduced the discrepancies between ECT and CFD results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Future study will be needed to find more optimized sensor structures and to develop more accurate images fusion algorithms for better results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc639219d706e8161cc76f063879843891c7fb5258a1868670a6ee9209ed1303.jpg",
+        "img_caption": [
+            "Fig. 6 Slices of the temperature distributionof the flame by CFD "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/43213489926daa8185812fbb91b80cbd3b4f693fcacbbae2c301f81af9b03907.jpg",
+        "img_caption": [
+            "Fig.7Fusion images of ECT and CFD data "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors wish to extend their gratitude to the State Administration of Foreign Experts Affairs for supporting the project‘Overseas Expertise Introduction Program for Disciplines Innovation in Universities’ (ref:B13o09),as wellas the NationalNatural Science Foundationof China projects (61571189,61503137, 61305056). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Ticä A,Guéguen H,Dumur D,et al.Design of a combined cycle power plant model for optimization[J]. Applied Energy,2012,98(5): 256-265.   \n[2]Polyzakis AL,Koroneos C, Xydi G. Optimum gas turbine cycle for combined cycle power plant. Energy Conversion & Management, 2008,49(4): 551-563.   \n[3]Modes to M, Nebra S A. Exergoeconomic analysis of the power genera-tion system using blast furnace and coke oven gas in a Brazilian steel mill[J].Applied Thermal Engineering,2009,29(11-12): 2127-2136.   \n[4]Waterfall RC He R,Wolanski P.2001.Flame visualizations using electrical capacitance tomography (ECT). Proc.SPIE,4188,242-250.(doi: 10.1117/12.417170)   \n[5]He R, Xie C G, Waterfall R C.1994. Engine flame imaging using electrical capacitance tomography. Electronics Letters 30,559-560.(doi: DOI: 10.1049/el:19940406)   \n[6]Liu S, Chen Q, Xiong X, Zhang Z and Lei J. 2008. Preliminary study on ECT imaging of flames in porous media.Measurement Science and Technology 19,1-7.(doi: 10.1088/0957-0233/19/9/094017)   \n[7] Ye ZR.2O14 Volumetric and Planar Electrical Capacitance Tomography.PhD thesis.University ofBath,UK.   \n[8] Soleimani M,Mitchell CN,,Banasiak R and Wajman R. 2009.Four-dimensional electrical capacitance tomography imaging experimental data. Progress in ElectromagneticsResearch,PIER90,171-186.   \n[9]Warsito W and Fan LS.2003,3D-ECT Velocimetry for Flow Structure Quantification of Gas-Liquid-Solid Fluidized Beds. Canadian Journal of Chemical Engineering, 81,985-884.   \n[10]Zbigniew Gut and Piotr Wolanski. 2010.Flame imaging using 3D electrical capacitance tomography. Combustion Science and Technology, 182,1580-1585.   \n[11]Liu J,Liu S, Zhou W,et al. Sensing flame structure by process tomography.[J].Philosophical Transactions of the Royal Society A Mathematical Physical & Engineering Sciences,2016,374(2070).   \n[12]Teng J, Snoussi H, Richard C.Decentralized variational filtering for simultaneous sensor localization and target tracking in binary sensor networks[C]，Taipei,China, 2009:2233-2236. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

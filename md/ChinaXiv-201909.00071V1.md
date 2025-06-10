@@ -1,0 +1,160 @@
+# 西天山小流域动态融雪过程及其与气温的关系
+
+古力米热·哈那提，海米旦·贺力力²，刘迁迁3,4，苏里坦（1．新疆水利水电科学研究院水资源研究所,新疆乌鲁木齐830049；2．中共新疆维吾尔自治区委员会党校，新疆乌鲁木齐830000；3．中国科学院新疆生态与地理研究所,荒漠与绿洲生态国家重点实验室，新疆 乌鲁木齐830011；4．中国科学院大学资源与环境学院,北京100049)
+
+摘要：利用西天山阿热都拜小流域积雪、融雪和气象观测场 2017—2018 年每 $3 0 ~ \mathrm { m i n }$ 的同步降雪、融雪和气温观测数据,对全年积雪期较短时间尺度上的融雪动态过程及其与气温的关系进行了对比分析。结果表明：山区降雪表现为“先升后降"的总体特征。稳定积雪期集中在2017年12月27日至2018年3月8日,最大降雪速率高达9.6$\mathbf { m } \mathbf { m } \cdot \mathbf { h } ^ { - 1 }$ （雪水当量值,转化成新鲜雪深值为 $9 6 . 5 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ )。山区融雪过程的变化规律与降雪变化正好相反，呈现出"先降后升"的变化特征。融雪变化分为3个阶段,第一阶段：随着气温的下降,融雪速率下降,融雪速率由$3 . 2 4 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 逐渐下降至 $0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ;第二阶段：当气温低于融雪的临界温度 $\mathrm { ~ ( ~ - ~ } 1 3 . 5 \sim \mathrm { ~ - ~ } 1 2 . 0 \mathrm { ~ \textdegree C ~ } )$ 时，不产生融雪；第三阶段：随着气温的回升,融雪速率从 $0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 逐渐上升至 $3 . 8 7 ~ \mathrm { { m m } \cdot \mathrm { { h } ^ { - 1 } } }$ 。在全年融雪与气温的大数据关系中,融雪量与气温的相关性系数不是很显著,其相关性系数为0.708;在无降水干扰下,7d平均同步融雪量与气温的相关性系数处于显著水平，Pearson相关性系数为0.907， $\boldsymbol { R } ^ { 2 } = 0 . 8 2 3$ ;当进一步考虑滞后效应后，融雪量与气温的相关性系数提升至极显著的线性关系，相关性系数高达0.943 $\mathrm { , } R ^ { 2 } = 0 . 8 8 9$ ,均通过了0.01显著性水平的双尾检验。在西天山阿热都拜小流域融雪量的变化过程与气温的变化过程有着密切的相关性。这种融雪量对气温变化的响应关系及其分析方法,对于提高应对未来气候变化的能力和预防洪灾及水资源管理具有一定的参考价值。
+
+关键词：小流域；气温；雪深；降雪量；融雪速率；西天山
+
+近几十年，全球变暖成为了一个不争的事实。气温的升高加速了积雪的融化，使得冰冻圈的研究成为国内外专家学者的研究热点[1-8]。积雪是一种重要的淡水资源，据统计，地球表面的全部降水中，以雪的形式形成的降水量约占 $5 \%$ [9],然而对于地处中高纬度的干旱和半干旱地区，降雪所占比例远远大于该值（大于 $5 0 \%$ ）。多年雪冰覆盖了全球海洋面积的 $7 \%$ ，陆地面积的 $10 \%$ 左右；在我国稳定积雪面积 $4 . 2 0 \times 1 0 ^ { 1 0 } \ \mathrm { k m } ^ { 2 }$ （ $4 6 \%$ 国土面积），储量为$7 . 5 0 \times 1 0 ^ { 1 0 } \ \mathrm { m } ^ { 3 }$ 。新疆山区是水资源形成区,融雪是新疆水资源形成的主要来源[10]。新疆积雪资源丰富，是绿洲水资源的主要来源。因此，积雪资源的形成、转化与利用研究是新疆水资源转化利用研究中的重中之重。
+
+新疆山区积雪对气候的变化极为敏感，极端气候和水文事件的频度和强度加大。近年来，受全球气候变暖的影响,新疆降水量均高于往年[1],加之气温的迅速回升，致使南北疆多次发生了历史上罕见的融雪型洪水与强降水形成的综合型洪水。在新疆，每年防范融雪型洪水是一项重要任务。7一8月则以天山两侧融雪和暴雨混合型洪水为主，即升温融雪与强降雨过程叠加引发较大河流的洪水。其中伊犁河谷是新疆春季融雪型洪水的高发地，根据伊犁哈萨克自治州气象台的统计，近10a来，3一4月，伊犁河谷发生融雪型洪水就有20余次，全部是中小河流发生的洪水，主要集中在沿山地带的乡镇。为此，从水资源形成的源头科学分析这一特殊区域的水循环规律，提升径流预报能力，以提高应对未来气候变化的能力，这对预防洪灾及水资源管理具有重要意义。建立与揭示山区融雪径流过程与气温的关系，是解决这一问题的重要途径之一。
+
+目前，传统的雪深测量方法是人工观测法，将雪尺插入雪中至地表面进行地面积雪深度的测量，而积雪持续时间的判断往往限于经验统计的预估方式[12]。然而,受自然地理条件及观测技术的限制,高寒山区积雪过程的监测受到严重制约。高原区域气象站点稀少，且积雪主要以人工观测方式，水文站基本分布在出山口高程在 $2 \ 0 0 0 \ \mathrm { ~ m ~ }$ 以下的位置，高时间频度和观测精度的积雪动态监测研究明显不足。随着积雪自动观测仪器的更新与引进，高原地区积雪形态、动态过程及水文气象交互影响的研究已逐步开展(13]。日新月异的地表观测技术从根本上改变着水文科学的面貌。一系列如雨后春笋般成长起来的新兴观测技术正在重新塑造着对水循环及其伴生过程的观测技术。水文学正由传统上“数据稀缺的科学"转变为“数据丰富的科学”14]
+
+积雪作为广泛关注与重视的自然因素，其自身特性及融雪过程对水文、气象及环境领域均具有重要作用。国外积雪变化特征及其影响因子的研究已取得大量成果。Alexander等[15]利用区域气候模式REGCM3研究了北美地区地表温度与雪水当量扰动的关系，得出季节平均温度变化量为 $1 \ \mathrm { { ^ { \circ } C } }$ 时，雪水当量的变化相当于从浅层雪深（ $\angle 1 4 ~ \mathrm { c m } \dot { }$ )增加到深层雪深( $> 3 1 \ \mathrm { c m } { \mathrm { , } }$ 。
+
+融雪过程主要受气温和降水变化的影响，国外已做了大量相关的研究工作[16-18],Leo-Juhani 等[19]在亚寒带山区建立了5个不同植被点的地面温度传感器和 $3 0 \ \mathrm { c m }$ 高度处的温度传感器，利用附近雪深测量站的雪深数据研究温度雪深的相关关系。Zhang等[20利用气温和降水梯度研究了山区融雪对径流的影响。
+
+在西天山的高寒山区，由于基础观测工作的缺乏，针对积雪消融及其动态过程的研究少有开展，特别是高时间频度积雪连续动态观测基础上，积雪消融及其与气候条件的研究尚未见报道。本文利用美国Cambell气象站、挪威T-200B降雪量仪和德国SSG 雪枕仪自动观测站，通过对年度积雪消融过程的高时间分辨率连续动态监测，探讨动态融雪过程及其与气温的对应关系，为进一步认识西天山伊犁河谷山区积雪动态过程提供理论依据，也对当地水资源动态过程的认识及灾害防御具有重要价值。
+
+本文利用伊犁河谷阿热都拜小流域天然野外实验室的气象、降雪、融雪自动观测站的观测数据，通过对年度积雪消融过程的高时间分辨率连续动态监测，探讨动态融雪过程及其与气温的对应关系，了解山区积雪在气温升高条件下的消融规律，为全面认识典型流域降水产流过程的模拟提供理论依据和技
+
+术支持。
+
+# 研究区概况
+
+研究区位于巩乃斯河流域上游，新疆新源县阿热勒托别镇南部的阿热都拜小流域，气候暖温带大陆性气候，观测点位置为 $4 3 ^ { \circ } 2 2 ^ { \prime } 3 5 ^ { \prime \prime } \mathrm { N } , 8 3 ^ { \circ } 4 5 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { E }$ ，位于小流域下游汇流区的出山口，距河谷 $3 0 \mathrm { ~ m ~ }$ 左右,坡度小于 $1 5 ^ { \circ }$ 。年均气温为 $7 . 3 \mathrm { ~ \textdegree C }$ ,大于 $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 的积温 $2 5 0 0 \sim 3 0 0 0 ~ \mathrm { ^ { \circ } C }$ 。河流属天山西段的一条小河，位于天山西段的中山带，山势陡峭，流域平均海拔 $1 ~ 8 0 0 ~ \mathrm { m }$ ,年降水量约为 $1 \ 0 3 0 \ \mathrm { m m }$ ,其中降雨量为$1 3 0 ~ \mathrm { m m }$ 左右，降雪量为 $9 0 0 ~ \mathrm { m m }$ 左右,年日照时数$2 5 7 0 \mathrm { ~ h ~ }$ 。具有明显的半干旱区河流水文特征，土质类型有山地灰钙土、栗钙土和黑钙土等。
+
+# 2资料与方法
+
+# 2.1 气象数据
+
+气象数据采集使用CAMBELL气象站，气象要素包括气温、湿度、降雨量、太阳净辐射、日照时数、水气压、风速、风向等。数据采集使用CAMBELL公司的CR1000型（工作温度 $- 5 5 \sim 8 5 \mathrm { ~ } \mathrm { ~ \textdegree C }$ ，已扩展)数据采集器，观测期自2017年9月1日至2018年8月31日。数据自动采集，时间间隔 $3 0 ~ \mathrm { m i n }$ ○
+
+# 2.2 积雪雪深
+
+雪深数据来自Campbell公司SR50A自动雪深测量仪，SR50A是利用超声波进行测距。通过测量超声波脉冲发射和返回的时间差测得积雪表面与探头之间的距离，从而确定积雪深度。该设备除了具有雪深探测准确度高、时间分辨率高、适合野外布设等优点外，在寒冷地区具有较高的稳定性。SR50A架设于气象站观测场。雪深数据自动观测时间间隔设为 $3 0 \ \mathrm { m i n } \ 1$ 次(每 $6 ~ \mathrm { m i n }$ 测定1次，每测定5次后取其平均值作为 $3 0 ~ \mathrm { m i n }$ 值)，每日可获得48个雪深数据。研究时段选取一个完整积雪年度（2017年9月1日至2018年8月31日）。
+
+# 2.3 降雪量
+
+降雪量数据采用来自德国公司生产的SSG雪枕仪自动观测站的 $\mathrm { ~ T ~ } { } - 2 0 0 \mathrm { B }$ 型称重式雨雪量计测定。该仪器可以精准测量各种降雪和降雨量，特别的适合于高原以及寒冷地区，由于其添加了一定量的防冻液和机油，解决了低温以及蒸发的问题,其配置有风挡，解决了由于风对降雪降雨的影响问题。配合Campbell公司的CR1000数采器集成使用。降雪量数据自动观测时间间隔设为 $3 0 \ \mathrm { m i n } \ 1$ 次，每日可获得48个降雪量数据，观测时段与气象、降雪量的观测同步。
+
+# 2.4 融雪量
+
+融雪量数据采用来自德国Sommer公司开发的SSG 称重式雪水当量测量仪自动测定，它是一款精密测量雪水当量的测量装置，底座由7块铝板组成，面积为 $6 . 7 2 \mathrm { ~ m } ^ { 2 }$ ,测量范围 $0 \sim 1 ~ 0 0 0 ~ \mathrm { m m }$ 的水当量,适合于高山大量的积雪观测。兼容Campbell公司的CR1000数采器配套使用。融雪量数据自动观测时间间隔设为 $3 0 \ \mathrm { m i n } \ 1$ 次。每日可获得48个雪深数据，观测时段与气象、降雪量等其他观测项目同步。
+
+# 3结果与分析
+
+# 3.1降雪过程
+
+降雪量随着海拔高度的升高而逐渐增加，研究区的年总降雪量为 $8 9 5 ~ \mathrm { m m }$ ,2017—2018年研究区全年降雪的起止日期是从2017年9月30日至2018年5月24日，降雪事件主要集中在2017年12月27日至2018年3月8日（图1a）。由于雪密度的不断变化，为了方便与融雪量、降雨量的对比,本文将降雪量转换成雪水当量值（降雪融化成水的值）。从图1a可看出，2017—2018年最大一次降雪事件发生在2018年1月30日13：00,降雪量为 $9 . 6 5 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 号
+
+雪深是指从地面到雪面的实际高度，也即累计积雪深度，如图1b。雪深的变化与降雪量的变化趋势基本保持一致。2018年1月30日13：00 时左右发生的大幅度降雪，由于当日下午气温相对较高（204号 $( \mathbf { \nabla } - 1 \mathbf { \nabla } \sim - 5 \mathbf { \nabla } \mathrm { \mathcal { C } }$ )，大量的雪转化为雪水，因此雪深增高不是非常明显。稳定积雪期分两个阶段，分别是从2017年11月16日8：00至2017年12月25日12：00和从2017年12月27日13：00至2018年3月8日14：00，其中最大雪深发生在2018年2月20日20：00( $3 9 2 ~ \mathrm { m m }$ )。2017年12月27日开始，雪深逐渐上升，直到2018年2月20日达到最大雪深后逐渐下降，进入融雪阶段，直到3月8日积雪全部消融。从图1b可以看出，雪深下降的速度要快于上升，稳定积雪期雪深的变化呈现“先缓后急”的变化规律，这种变化归功于气温、地温和太阳辐射的快速上升。
+
+从一周平均雪深变化与气温变化的同步曲线可见（融雪期间没有降雪降雨天气发生），在完全消融阶段，雪深日内变化与当天气温的变化存在显著的相关性(图2a）。气温日内最高点发生在16：00左右，而雪深下降最快点发生在17：00左右，因此，可以断定研究区雪深下降或融雪的滞后时长为 $^ \mathrm { ~ 1 ~ h ~ }$ ○从逐日雪深动态变化过程可见（图2b），每日雪深的变化具有同步下降的相似规律性，日平均降幅在25mm左右，雪深快速下降时段发生在每日的12：00—19：00,这与该时间气温回升的变化规律具有超前1 h的同步性。
+
+# 3.2 融雪过程
+
+融雪是新疆水资源形成的主要来源，也是绿洲水资源的主要来源。融雪过程主要受气温和降水变化的影响，融雪量的变化除了与气温有密切的关系，还与降雪量有着同步共振的规律（3a）。从图3可知，除个别时段，融雪量随着降雪量的变化而变化,
+
+![](images/de4f1ec020acdb066b2fffcfbb1c18a7de03fca79decc347d5a8df8182a46030.jpg)  
+图1阿热都拜小流域小时降雪量(a)与雪深(b)的观测数据序列Fig.1Observed data series of hourly snowfall（a）and snow cover depth（b）in a small watershed of Araltol
+
+![](images/fc41b3c727ef8f22a521f1e988f96364eb66274cc285d53f16f2871446c832cd.jpg)  
+图2阿热都拜小流域一周日平均每 $3 0 ~ \mathrm { m i n }$ 雪深与气温(a)及雪深变化过程(b)
+
+Fig.2Average snow depthandair temperature every3O minutes inaweek（a）anddailysnowcover depth every3O minutes in aweek（b）ina small watershed of Araltobe
+
+![](images/bcd7d8cdf0eaaa6a5e9b7d4cdf6f5d8420d58699f6d59af744d9c00e2502903a.jpg)  
+图3融雪量与降水量变化过程(a)及其与气温的关系(b)  
+Fig.3 Change process of snowmelt and precipitation(a）and its relationship with air temperature（b)
+
+最大融雪量发生在2018年4月12日13：00，其融雪速率为 $5 . 7 8 \ \mathrm { \ m m } \cdot \mathrm { \ d } \mathrm { \Omega } ^ { - 1 }$ （雪融化为液态水的深度值)。融雪和降雪过程为一次完整的一年。融雪量主要集中在11月初至3月初，其变化分为3个阶段，第一阶段为融雪速率下降阶段（2017年11月10日至12月29日），融雪速率由 $3 . 2 4 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 逐渐下降至 $0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ；第二阶段为非融雪阶段（2017年12月29日至2018年1月9日以及2018年1月22—30日）；第三阶段为融雪速率上升阶段（2018年1月22日至3月8日），融雪速率由 $1 . 7 6 \ \mathrm { m m } \cdot$ $\ln ^ { - 1 }$ 逐渐上升至 $3 . 8 7 ~ \mathrm { { m m } } \cdot \mathrm { { h } } ^ { - 1 }$ 。这些变化主要归功于对气温的响应。
+
+由于2018年3月8日积雪完全消融，之后融雪与气温之间不存在对应关系，因此,本文将融雪与气温直接相关时间选在稳定积雪阶段（2017年12月27日13：00至2018年3月8日14：00）。影响融雪的因素较多，其中贡献率最大的因素为气温，气温是通过给积雪输送热能来影响融雪。从图3b可见，融雪量的动态变化过程与气温的变化过程有着密切的相关性。由于2017年9—12月和2018年3—5月融雪量大于降雪量，因此，不能真正反映融雪量与气温之间的完全相关性。在有太阳辐射的山区，融雪的临界温度为 $- 1 3 . 5 \sim - 1 2 . 0 \mathrm { ~ ‰ ~ }$ ，而无太阳辐射时,融雪的临界温度为 $- 7 . 5 \sim - 6 . 5 \mathrm { ~ \textdegree C }$ 。尽管当大气温度低于 $0 \mathrm { { ^ \circ C } }$ 时，不会使雪面发生消融,但积雪吸收太阳辐射和地温的热量，雪层内部温度往往高于大气温度，导致雪层内部发生消融现象。因此，融雪的临界温度区间不是恒定的，根据太阳辐射和地表温度等其他因素的影响而变化。不过融雪速率变化的总体趋势与气温的波动存在同步共振的趋势，因此，在它们之间可以建立定量的函数关系，其相关系数如表1。
+
+由于融雪量对同步气温存在滞后响应关系，融雪量与气温的相关性系数不是很显著（相关性系数为0.708，通过0.01显著性水平双尾检验）。通过大量自动观测数据发现，融雪量与同步气温之间存在 $^ \mathrm { ~ 1 ~ h ~ }$ 的滞后效应，温度在先，融雪在后。因此，气温滞后1h后，融雪速率与气温的相关性系数为0.883，其相关关系通过了0.01显著性水平双尾检验。影响融雪量的因素，除了有气温、辐射和地温，还有降雪量，因此，本文为了剔除降雪对融雪的干扰，选择2月底晴朗的连续7d的数据序列作为短期相关性分析的数据（图4）。
+
+Tab.1 Correlation test   
+
+<html><body><table><tr><td>滞后性</td><td>变量</td><td>相关性系数</td><td>融雪量</td><td>气温</td><td>平均值</td><td>标准差</td><td>样本数</td></tr><tr><td rowspan="2">无滞后</td><td>融雪量</td><td>皮尔逊</td><td>1.000</td><td>0.708**</td><td>0.286</td><td>0.662</td><td>1 706</td></tr><tr><td>气温</td><td>皮尔逊</td><td>0.708**</td><td>1.000</td><td>-5.474</td><td>6.997</td><td>1 706</td></tr><tr><td rowspan="2">滞后1h</td><td>融雪量</td><td>皮尔逊</td><td>1.000</td><td>0.883**</td><td>0.286</td><td>0.662</td><td>1706</td></tr><tr><td>气温</td><td>皮尔逊</td><td>0.883**</td><td>1.000</td><td>-5.474</td><td>6.997</td><td>1706</td></tr></table></body></html>
+
+注： $* *$ 表示在0.01级别(双尾)相关性显著。
+
+图4a为2018年2月24日至3月2日的一周平均每 $3 0 ~ \mathrm { m i n }$ 观测的融雪量与气温的变化过程对比图（融雪期间没有降雪天气发生）。从7d平均同步融雪量与气温曲线(图4a)可以发现，融雪量曲线与气温曲线在消融期与非消融期存在一定的一致性特征。在9：00以前和21：00之后的非消融或弱消融期内，融雪量与气温的变化幅度较小，而在气温处于相对较高的状态下，融雪量与气温之间存在较高的相关性，其相关系数检验如表2。从图4可见，13：00当气温达到最高值 $5 . 1 3 \mathrm { ~ \textdegree C }$ 时,对应的融雪速率达到 $2 . 4 2 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ;而14：00当气温开始下降时，其对应的融雪速率达到最高值 $2 . 6 3 \ \mathrm { \ m m } \cdot \mathrm { \ h } ^ { - 1 }$ L由此可见，融雪量与同步气温存在 $^ \mathrm { ~ 1 ~ h ~ }$ 的滞后效应。
+
+从表2可见，在无降水干扰情境下，7d平均同步融雪量与气温的相关性系数处于显著水平，Pear-son相关系数为0.907， $R ^ { 2 } = 0 . 8 2 3$ ,通过了0.01显著性水平双尾检验。当对气温进行 $^ \mathrm { ~ 1 ~ h ~ }$ 的滞后处理后，7d平均同步融雪量与气温的相关性系数处于极显著的线性关系，相关性系数高达0.943， $R ^ { 2 } = { }$ 0.889，通过了0.01显著性水平双尾检验。
+
+图4b为2018年2月24日至3月2日的7d连
+
+![](images/d1febaeb2305da28b37e1870a4ff6251c65b2044a51fb8cf6d8cf21569a6a93d.jpg)  
+图4一周日平均每 $3 0 ~ \mathrm { m i n }$ 融雪量与气温(a)及融雪速率变化过程(b)
+
+Fig.4Average snowmeltandairtemperatureevery3Ominutesinaweek（a）anddailysnowmeltevery3Ominutes inaweek（b)
+
+表1相关性检验  
+表2相关性检验  
+Tab.2 Correlation test   
+
+<html><body><table><tr><td>滞后性</td><td>变量</td><td>相关性系数</td><td>融雪量</td><td>气温</td><td>平均值</td><td>标准差</td><td>样本数</td></tr><tr><td>无滞后</td><td>融雪量</td><td>皮尔逊</td><td>1.000</td><td>0.907**</td><td>1.018</td><td>1.178</td><td>48</td></tr><tr><td></td><td>气温</td><td>皮尔逊</td><td>0.907**</td><td>1.000</td><td>3.652</td><td>1.892</td><td>48</td></tr><tr><td>滞后1h</td><td>融雪量</td><td>皮尔逊</td><td>1.000</td><td>0.943**</td><td>1.018</td><td>1. 178</td><td>48</td></tr><tr><td></td><td>气温</td><td>皮尔逊</td><td>0.943**</td><td>1.000</td><td>3.652</td><td>1.892</td><td>48</td></tr></table></body></html>
+
+注： $* *$ 表示在0.01级别(双尾)相关性显著。
+
+续每 $3 0 ~ \mathrm { m i n }$ 观测的融雪量变化过程图（融雪期间没有降雪天气发生）。从7d连续融雪量的曲线可以发现，在非消融期或者弱融雪期（21：00至次日9:00)的融雪速率均低于 $0 . 5 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ,凌晨几乎接近于0。而在9：00—21：00 的较高消融期内，融雪量与气温之间存在较高的相关性，曲线服从正态分布。融雪高峰主要集中在12：00—19：00，由于大气温和太阳辐射的偏低，2017年3月2日16：00最高气温为 $3 . 6 9 \mathrm { ~ \textdegree C }$ 时，其对应的最大融雪量仅为1.36$\mathbf { m } \mathbf { m } \cdot \mathbf { h } ^ { - 1 }$ ,相比之下,2月27日16：00最高气温为$8 . 2 3 ~ \mathrm { { ^ { \circ } C } }$ 时，其对应的最大融雪量高达 $5 . 8 0 \ \mathrm { m m }$ ·$\ln ^ { - 1 }$ ,其余5d的融雪量均在这两天之间。
+
+总结以上结果可知，积雪升温的变化过程更有利于促进积雪消融。影响融雪量的主要因素为大气温度,其相关性在 $0 . 7 \sim 0 . 9$ 之间。除此之外,也存在很多不确定性因素（占相关性的 $0 . 1 \sim 0 . 3 )$ ，这些因素主要归功于太阳辐射、地表温度、积雪的形态、密度、下垫面状况等综合因素的共同作用，其中影响融雪量的主要因素从大到小排列顺序是气温、太阳辐射、地表温度。本文重点研究了西天山阿热都拜小流域降雪过程与融雪过程的全年高频率动态变化以及大气温度对山区降雪量与融雪量的贡献率，至于积雪消融与综合因素的耦合关系有待进一步研究。
+
+# 4结论
+
+本文利用美国Cambell气象站、挪威T-200B降雪量仪和德国SSG雪水当量仪自动观测站，通过对年度积雪消融过程的高时间分辨率连续动态监测，探讨动态融雪过程及其与气温的对应关系，力争确定大气温度对山区降雪量与融雪量的贡献率，揭示山区积雪在气温升高条件下的消融规律与机理。基于2017—2018年积雪期山区降雪过程与融雪过程对气温的变化响应，得出以下结论：
+
+（1）山区降雪过程在冬季表现为“先升后降”的总体特征。降雪事件主要集中在2017年12月27日至2018年3月8日，其中最大一次降雪事件发生在2018年1月30日13：00—14：00，降雪速率高达 $9 . 6 5 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 。最大一次雪深发生在2018 年5月24日12:00—13:00，雪深高达 $2 3 7 . 3 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 。
+
+（2）山区冬季融雪过程的变化规律与降雪变化过程正好相反，呈“先降后升”的变化。融雪主要变化规律分为3个阶段，第一阶段为融雪速率下降阶段,融雪速率由 $3 . 2 4 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 逐渐下降至 $0 \ \mathrm { m m } \cdot$ （204$\ln ^ { - 1 }$ ;第二阶段为非融雪阶段;第三阶段为融雪速率上升阶段，融雪速率由 $1 . 7 6 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ 逐渐上升至3.87$\mathbf { m } \mathbf { m } \cdot \mathbf { h } ^ { - 1 }$ 。这些变化主要归功于对气温的响应。
+
+（3）在不考虑降水对融雪的干扰下，融雪量与气温的相关性系数不是很显著，其相关性为0.708，通过了0.01显著性水平双尾检验。而考虑滞后效应，融雪速率与气温的相关性系数提升为0.883，其相关关系也通过了0.01显著性水平双尾检验。在无降水干扰情境下，7d平均同步融雪量与气温的相关性系数处于显著水平，Pearson相关性系数为0.907, $R ^ { 2 } = 0 . 8 2 3$ ，当滞后处理后，融雪量与气温的相关性系数处于极显著的线性关系，相关性系数高达为 $0 . 9 4 3 , R ^ { 2 } = 0 . 8 8 9$ ,通过了0.01显著性水平双尾检验。
+
+（4）不同的地区和不同的海拔高度可能存在不同的融雪临界温度。在西天山阿热都拜小流域融雪量的动态变化过程与气温的变化过程有着密切的相关性，在有太阳辐射的山区，融雪的临界温度为$- 1 3 . 5 \sim \mathrm { ~ - ~ } 1 2 . 0 ~ \mathrm { ^ c }$ ，而无太阳辐射时，融雪的临界温度为 $- 7 . 5 \ \sim \ - \ 6 . 5 \ \mathrm { { ‰ } }$ 。尽管当气温低于 $0 \ \mathrm { { ^ circ C } }$ 时，不会使雪面发生消融，但积雪吸收太阳辐射和地温的热量，雪层内部温度往往高于气温，导致雪层内部发生消融现象。这也进一步说明了气温小于 $0 \mathrm { ~ \textdegree C }$ 时，仍然发生融雪过程。通过对融雪与气温的复杂关系表明，融雪量除了受气温的影响外，还受太阳辐射、地表温度、积雪的形态、密度、下垫面状况等综合因素的共同作用。
+
+# 参考文献(References）:
+
+[1]Li C B,QiJG,Wang Shuaibing,et al. Spatiotemporal characteristics of alpine snow and ice melt under a changing regional climate ; A case study in Northwest China[J].Quaternary International, 2015,358:126-136.   
+[2] Braithwaite R.Temperature and precipitation climate at the equilib rium-line altitude of glaciers expressed by the degree-day factor for melting snow[J].Journal of Hydrology,2008,186(54）:437-444.   
+[3] 刘艳,李杨,张璞.玛纳斯河流域融雪径流与积雪一气象因 子分析[J].水土保持研究,2010,17(2)：145-149.[Liu Yan, Li Yang,Zhang Pu.Correlation analysis on snow-climate factors and its effects on snowmelt runoff in Manasi River Basin[J].Re
+
+search of Soll and Water Conservation,2010,17(2):145-149.] [4]郭玲鹏,李兰海，徐俊荣，等.气温变化条件下融雪速率和土壤 水分变化的同步观测试验[J].干旱区研究，2012,29（5）： 890 -897.[Guo Lingpeng,Li Lanhai,Xu Junrong,et al.Experimental study on simultaneous observation of snowmelt and soil moisture content under air temperature increase[J].Arid Zone Research,2012,29(5):890-897.]
+
+[5]杨绍富,刘志辉,闫彦,等.融雪期土壤湿度与土壤温度、气温 的关系[J].干旱区研究,2008,25（5）:642-646.[Yang Shaofu,Liu Zhihui,Yan Yan,etal.Preliminary study on soil humidity and its relationships with soil temperature and air temperature in snow melting season[J].Arid Zone Research,2008,25(5） :642- 646.]
+
+[6]张娜,范昊明,许秀泉.辐射能量对不同深度和密度积雪持水 能力及融雪水量的影响[J].沈阳农业大学学报，2017，48 (2):25O-255.[Zhang Na,Fan Haoming,Xu Xiuquan.Effects of radiation energy on snow water-holding capacity and melt-water amount in different depth and density[J]. Journal of Shenyang Agricultural University,2017,48（2） :250-255.]
+
+[7］王鹏,穆振侠.KM河流域融雪径流与积雪面积—气温关系 分析[J].水资源与水工程学报,2013,24（4）：28-36.[Wang Peng,Mu Zhenxia.Study on relationship of snowmelt runoff with snow area and temperature in KM River Basin[J]. Journal of WaterResource and Water Engineering,2013,24(4）:28-36.]
+
+[8]周扬,徐维新,张娟,等.2013—2015年青藏高原玛多地区两次 动态融雪过程及其与气温关系对比分析[J].自然资源学报， 2017,32(1）:101-133.[Zhou Yang,Xu Weixin,Zhang Juan,et al.A comparative analysis of the two dynamic snow-melting process and their relationship with air temperature during 2O13-2015 in the area of Maduo,Tibetan Plateau[J]. Journal of Natural Resources,2017,32(1):101-133.]
+
+[9]杨俊华,秦翔,吴锦奎,等.祁连山老虎沟流域春季积雪属性的 分布及变化特征[J].冰川冻土，2005，34（5)：1091-1095. [Yang Junhua,Qin Xiang,Hao Jinkui,et al. Simulating the energy and mass balances on the Laohugou Glacier No.12 in the Qilian Mountains[J].Journal of Glaciology and Geocryology,2005,34 (5):1091-1095.]
+
+[10]仇家琪.积雪常规观测术语的含义及其表达一—介绍联合国 教科文组织雪崩图集中的术语和分类[J].冰川冻土，1986，8 (1):89 -93.[Chou Jiaqi. The meaning and expression of the term of the snow cover:The terminology and classification of the concentration of the United Nations Educational,Scientific and
+
+Cultural Organization[J]. Journal of Glaciology and Geocryology,
+
+1986,8(1) 89 -93.]   
+[11］康丽娟,巴特尔·巴克,罗那那,等.1961—2013 年新疆气温和 降水的时空变化特征分析[J].新疆农业科学,2018,55（1)： 123 -133.[Kang Lijuan,Batur Bake,Luo Nana,et al. Spatialtemporal variations of temperature and precipitation in Xinjiang from 1961 to 2013[J]. Xinjiang Agricultural Sciences,2018,55 (1):123-133.]   
+[12］康丽娟,巴特尔·巴克,罗那那,等.SRM 融雪径流模型在黑河 流域上游的模拟研究[J].冰川冻土,2008,30(5）：769－775. [Kang Lijuan,Batur Bake,Luo Nana,et al. The snowmelt runoff model applied in the upper Heihe River Basin[J]. Journal of Glaciology and Geocryology,2008,30(5）:769 -775.]   
+[13］周扬,徐维新,白爱娟,等.青藏高原沱沱河地区动态融雪过程 及其与气温关系分析[J].高原气象,2017,36（1)：24－32. [Zhou Yang,Xu Weixin,Bai Aijuan,et al. Dynamic snow-melting process and its relationship with air temperature in Tuotuohe Qinghai-Xizang plateau[J].Plateau Meteorology,2017,36（1）:24- 32.]   
+[14]Mclaughlin D.An integrated approach to hydrologic data assimilation:Interpolation,smoothing and filtering[J].Advances in Water Resources,2002,25(8-12):1 275-1 286.   
+[15]Alexander P,Gong G .Modeled surface air temperature response to snow depth variability[J]. Journal of Geophysics Research,116 （D14）:14105.DOI:10.1029/2010JD014908.   
+[16]Kobierska F,Jonas T,Magnusson J,et al. Climate change effects on snow melt and discharge of a partly glacierized watershed in Central Switzerland[J].Applied Geochemistry,2011,26:S60- S62.   
+[17]Khadka D,Babel M,Shrestha S,et al. Climate change impact on glacier and snow melt and runoff in Tamakoshi basin in the Hindu Kush Himalayan（HKH）region[J]. Journal of Hydrology,2014, 511 :49 - 60.   
+[18] Singh P,Kumar N. Impact assessment of climate change on the hydrological response of a snow and glacier melt runoff dominated Himalayan River[J]. Journal of Hydrology,1997,193:316-350.   
+[19]Merio L J. The Measurement and Modeling of Snow Melt in Subarctic Site Using Low Cost Temperature Loggers[D]. Oulu: University of Oulu Faculty of Technology,2015.   
+[20]Zhang F,Zhang HB,Hagen S C,et al.Snow cover and runoff modeling in a high mountain catchment with scare data:Effcts of temperature and precipitation[J]. Hydrological Processes,2015,291: 52-66.
+
+# Dynamic Snowmelt Process and Its Relationship with Air Temperature in a Small Watershed in the West Tianshan Mountains
+
+Gulimire Hanati1，Haimidan Helili²，LIU Qian-qian’4， SU Litan³ (1. Xinjiang Institute of Water Resources and Hydropower Research,Urumqi 830049,Xinjiang,China; PartySchoolofinjiangUygurutonomousRegionCommiteoftheCommunistPartyofChina,Urumqi830o,Xinjang,China; 3.StateKeyLaboratoryof Desert and Oasis Ecology,Xinjiang Institute of Ecologyand Geography,ChineseAcademyof Sciences,Urumqi 830011,Xinjiang,China; 4. College of Resources and Environment,University of Chinese Academy of Science,Beijing 10049,China)
+
+Abstract：Snowfall,snowmelt andair temperature ina small watershed namedas Aredubai in the west Tianshan Mountains were synchronouslyobserved every30 minutes from2O17 to 2018,and the relationship between snowmelt andair temperature wasanalyzed.The results showed that the snowfallin the mountainous area increased atfirst and then decreased.The duration of snow cover accumulation was from December 27,2017 to March 8,2018,and the maximum snowfall intensity was as high as $9 . 6 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ (when the value of snow water was converted into fresh snow depth,it was $9 6 . 5 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ ). The rule of snowmelt in the mountainous area was opposite to that of snowfall, that is,thesnowmelt was decreased at firstand then increased.The snowmelt was divided into three stages.The snowmelt rate was gradually decreased from $3 . 2 4 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ to $0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ with the decrease of air temperature at the first stage.The snowmelt did not occur when the air temperature was lower than the critical temperature of snowmelt $( \mathbf { \partial } - 1 3 . 5 - \mathbf { \partial } - 1 2 . 0 \mathbf { \partial } \mathrm { \mathcal { C } } )$ ） at the second stage. The snowmelt rate was gradually increased from $0 \ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ （204号 to $3 . 8 7 ~ \mathrm { m m } \cdot \mathrm { h } ^ { - 1 }$ with the increase of air temperature at the third stage.In the big data relation between snowmelt and air temperature,the corelation coefficient between snowmelt and air temperature was not so significant,and he corelation wasO.708.Under theconditions without precipitation,thecorrelation coeffcient between the7-dayaverage snowmelt and air temperature was significant,the Pearson correlation coeficient was O.907,and $R ^ { 2 } = 0 . 8 2 3$ ： When the hysteresis was furtherconsidered,the corelation coefficient between snowmelt and air temperature was increased significantly,the correlation coefficient was as high as O.943,and $\boldsymbol { R } ^ { 2 } = 0 . 8 8 9$ ,which all passed the twotailedtest at significance level O.O1.There was a close corelation between thedynamic change of snowmelt and air temperature in the small watershed named as Aredubai in the west Tianshan Mountains.The response relationship and analysis method of snowmelt to temperature change have certain reference value for improving the ability to cope with future climate change and preventing flood and water resources management.
+
+Key words:small watershed；air temperature；snow cover depth；snowfall；snowmelt rate；west Tianshan Mountains

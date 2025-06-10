@@ -1,0 +1,240 @@
+# 饲粮添加鱼油对蛋鸡免疫机能的影响
+
+龙　烁　武书庚\* 崔闯飞　张海军　王　晶\* 齐广海　马友彪　杨林林（中国农业科学院饲料研究所，农业农村部饲料生物技术重点开放实验室，生物饲料开发国家工程研究中心，北京100081)
+
+摘要：本试验旨在研究饲粮添加鱼油对蛋鸡体液和细胞免疫机能的影响。试验选用 450只31周龄的健康海兰褐蛋鸡，随机分为5个组，每组6个重复，每个重复15只鸡。对照组饲喂玉米-豆粕型基础饲粮，试验组在基础饲粮基础上分别添加 $0 . 5 4 \%$ 、 $1 . 0 8 \%$ 、 $2 . 1 7 \%$ 和$4 . 3 4 \%$ 的鱼油（二十二碳六烯酸含量分别为0.68、1.35、2.70 和 $5 . 4 0 \ : \mathrm { m g / g } \ : )$ 。预试期1周，正试期12周。结果表明：1）饲粮添加鱼油对蛋鸡脾脏指数、胸腺指数及血清免疫球蛋白 A含量无显著影响（ $. P { > } 0 . 0 5 \$ )。2）免疫后7和 $\mathsf { 1 4 d }$ ，试验组蛋鸡血清禽流感H9 抗体水平显著高于对照组 （ $. P { < } 0 . 0 5 )$ ， $2 . 1 7 \%$ 鱼油组抗体水平最高；免疫后 $2 8 { \mathrm { ~ d ~ } }$ ，试验组蛋鸡血清禽流感H9 抗体水平有高于对照组的趋势（ ${ \scriptstyle \cdot } P { < } 0 . 1 0 )$ 。免疫后7和 $1 4 { \mathrm { d } }$ ，试验组蛋鸡血清新城疫抗体水平显著高于对照组（ $P { < } 0 . 0 5 )$ ；免疫后 $2 8 \mathrm { d }$ ，试验组蛋鸡血清新城疫抗体水平与对照组相比无显著差异（ $P { > } 0 . 0 5$ )。3）与对照组相比， $4 . 3 4 \%$ 鱼油组蛋鸡脾脏白细胞介素-2和白细胞介素-6基因的相对表达量显著降低（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ， $1 . 0 8 \%$ 和 $2 . 1 7 \%$ 鱼油组蛋鸡脾脏白细胞介素-10 和干扰素 $- \gamma$ 基因的相对表达量显著提高（ $\cdot P { < } 0 . 0 5$ )。4）除 $4 . 3 4 \%$ 鱼油组外，饲粮补充鱼油对蛋鸡脾脏淋巴细胞刺激指数和凋亡率无显著影响（ $P { > } 0 . 0 5 )$ 。综上，饲粮添加$0 . 5 4 \% { \sim } 2 . 1 7 \%$ 鱼油能较好地改善蛋鸡免疫机能，过高（ $4 . 3 4 \%$ ）无益。
+
+关键词：鱼油；二十二碳六烯酸；炎性细胞因子；抗体水平；蛋鸡中图分类号：S816 文献标识码：A 文章编号：
+
+作为一种营养调控剂，@-3长链多不饱和脂肪酸（PUFA）在调控炎症反应和免疫功能等方面的作用，逐渐受到重视。其在体内参与氧化供能，调节脂类介质的合成以及细胞因子的释放和激活，还参与细胞膜组成，影响细胞膜结构，从而调控机体炎症反应并影响多种免收稿日期：2018-04-10基金项目：家禽产业技术体系北京市创新团队（CARS-PSTP)作者简介：龙烁（1993—)，女，山东临沂人，硕士研究生，从事家禽营养与饲料科学研究。 E-mail: maplega@163.com\*通信作者：武书庚，研究员，硕士生导师，E-mail:wushugeng@caas.cn；王晶，副研究员，硕士生导师，E-mail: wangjing@caas.cn
+
+疫细胞的功能[1]。营养免疫是在利用特殊营养物质调控机体免疫情况、增强免疫功能，已受到国内外许多学者重视。免疫营养剂能改变机体对病原体的免疫应答，当以高于适宜量饲喂时，可改变机体免疫反应，膳食补充α-3PUFA的人群炎症和自身免疫病的发病率较低，表明ω-3 PUFA具有免疫调节和抗炎活性[2]。当前在家禽中使用的免疫调节剂多系人类疾病模型中发挥抗炎作用的物质[3]。
+
+作为一种免疫营养剂，PUFA在临床上常被用作治疗炎性疾病。当机体受到炎症或免疫的刺激时，磷脂酶 $\mathrm { A } _ { 2 } ( \mathrm { P L A } _ { 2 } )$ 会催化磷脂甘油裂解，产生溶血磷脂酰胆碱（LPC）和类二十烷酸前体[I]。类二十烷酸的代表物质有花生四烯酸(AA)、前列腺素（PGE）等，急性炎症反应中， $\mathrm { P G E } _ { 2 }$ （以AA为前体）不仅发挥自身的促炎作用，还会诱发信号通路下游核转录因子-κB(NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ ）途径，使促炎细胞因子—肿瘤坏死因子（TNF）-α、白细胞介素-1β（IL-1β)、白细胞介素-6（IL-6）、环氧化酶-2（COX-2）和一氧化氮合酶(iNOS)水平升高。ω-3 PUFA作为前体时，会产生促炎效果偏弱的PGE3，并以此削弱炎症反应，产生抗炎效果[1]，同时也通过抑制树突细胞中主要组织相容性复合体 $\mathrm { I I }$ （MHCII）的表达，抑制抗原呈递削弱炎症反应[2]。@-3 PUFA 对家禽免疫应答有潜在调节作用[4-5]。鱼油是二十二碳六烯酸（DHA)和二十碳五烯酸（EPA）的优质原料，是炎症反应的脂类介质的前体物质，具有抗炎和免疫调节功能[]，当前对α-3PUFA的免疫作用的研究多集中在人体健康的研究中，对家禽尤其是高峰期产蛋鸡的研究较少。因此，本试验在高峰期产蛋鸡饲粮中加入不同水平的鱼油，探索@-3 PUFA对蛋鸡免疫器官指数、体液和细胞免疫的影响，以期为α-3PUFA对蛋鸡免疫机能的调节作用提供试验科学指导，为临床营养与免疫关系提供依据。
+
+# 1材料与方法
+
+# 1.1 试验设计与饲粮
+
+试验选用31周龄体况良好、产蛋率接近的海兰褐蛋鸡450只，采用单因子完全随机设计，随机分为5个组，每组6个重复，每个重复15只鸡。对照组（1组）饲喂玉米-豆粕型基础饲粮，试验组（2\~5组）在基础饲粮基础上分别添加 $0 . 5 4 \%$ 、 $1 . 0 8 \%$ 、 $2 . 1 7 \%$ 和 $4 . 3 4 \%$ 的鱼油,DHA 含量分别为0.67、1.35、2.70 和 ${ 5 . 4 0 } \mathrm { m g / g ^ { \prime } }$ （测定值为0.76、1.13、2.73和 $4 . 5 5 \mathrm { m g / g }$ ）°鱼油购自佛山市大茂饲料有限公司，实测DHA含量为 $1 2 5 ~ \mathrm { m g / g }$ 。各组饲粮（组成及营养水平见表1）等氮等能，参照NY/T33—2004配制，饲粮脂肪酸组成见表2。
+
+# 表1饲粮组成及营养水平 (风干基础)
+
+<html><body><table><tr><td>项目Items</td><td colspan="5">组别Groups</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>55.45</td><td>57.80</td><td>55.75</td><td>54.88</td><td>51.20</td></tr><tr><td>豆粕 Soybean meal</td><td>27.47</td><td>27.38</td><td>27.40</td><td>27.20</td><td>26.61</td></tr><tr><td>麦麸 Wheat bran</td><td>1.00</td><td></td><td>1.00</td><td>2.00</td><td>4.00</td></tr><tr><td>鱼油Fish oil</td><td></td><td>0.54</td><td>1.08</td><td>2.17</td><td>4.34</td></tr><tr><td>棕榈油 Palm oil</td><td>4.20</td><td>2.40</td><td>2.50</td><td>1.80</td><td></td></tr><tr><td>石粉 Limestone</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.09</td><td>0.09</td><td>0.09</td><td>0.09</td><td>0.21</td></tr><tr><td>赖氨酸 Lys</td><td></td><td></td><td></td><td></td><td>0.13</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>预混料 Premix1)</td><td>1.46</td><td>1.46</td><td>1.46</td><td>1.46</td><td>1.46</td></tr><tr><td>抗氧化剂 Antioxidant2)</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>沸石粉 Zeolite powder</td><td></td><td></td><td>0.39</td><td>0.07</td><td>1.72</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>11.49</td><td>11.49</td><td>11.49</td><td>11.49</td><td>11.49</td></tr><tr><td>粗蛋白质CP</td><td>16.81</td><td>16.81</td><td>16.81</td><td>16.81</td><td>16.81</td></tr><tr><td>钙Ca</td><td>3.37</td><td>3.37</td><td>3.37</td><td>3.37</td><td>3.37</td></tr><tr><td>有效磷 AP</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td></tr><tr><td>蛋氨酸Met</td><td>0.36</td><td>0.36</td><td>0.36</td><td>0.36</td><td>0.44</td></tr><tr><td>赖氨酸Lys</td><td>0.89</td><td>0.89</td><td>0.89</td><td>0.89</td><td>0.89</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the follwing per kg of diets:VA12 500 IU， $\mathrm { V D } _ { 3 } 4 1 2 5 \mathrm { I U }$ ，VE 15 IU, VK $2 \ : \mathrm { m g }$ ，硫胺素 thiamine $1 \mathrm { m g }$ ，核黄素 riboflavin $8 . 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 1 \mathrm { m g }$ ，烟酸niacin $3 2 . 5 \mathrm { m g }$ ，吡哆醇 pyridoxine $8 \ : \mathrm { m g }$ ，生物素biotin $0 . 5 \mathrm { m g }$ ，二氢叶酸 dihydrofolic acid $1 . 2 5 \mathrm { m g }$ ，$\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，Mn 65 mg， $\mathrm { ~ I ~ l ~ m g ~ }$ ，Fe $6 0 \mathrm { m g }$ ， $\mathrm { C u } 8 \mathrm { m g }$ ， $Z n 6 6 \mathrm { m g }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ，植酸酶 phytase$3 0 0 \mathrm { m g }$ ；蒙脱石 montmorillonite $1 0 0 0 \mathrm { m g }$ ，酵母培养物 yeast culture $1 0 \mathrm { g }$ 。
+
+2)抗氧化剂为每千克饲粮提供 Antioxidant provided the following per $\mathbf { k g }$ of diets:乙氧基喹啉 ethoxyquin$1 5 0 \mathrm { m g }$ ，VE $1 0 0 ~ \mathrm { { m g } }$ ，茶多酚 tea polyphenols $5 0 ~ \mathrm { m g }$ 。
+
+3)代谢能和有效磷为计算值，其余为实测值。The ME and AP were calculated values,while the others were measured values.
+
+表2饲粮脂肪酸组成(干物质基础)  
+Table 2Fatty acid composition of diets (DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>C12:0</td><td>0.31</td><td>0.34</td><td>0.28</td><td>0.28</td><td>0.34</td></tr><tr><td>C14:0</td><td>0.51</td><td>0.73</td><td>1.12</td><td>2.24</td><td>3.27</td></tr><tr><td>C15:0</td><td>0.03</td><td>0.07</td><td>0.10</td><td>0.22</td><td>0.35</td></tr><tr><td>C16:0</td><td>24.47</td><td>17.02</td><td>18.61</td><td>20.60</td><td>14.59</td></tr><tr><td>C16:1</td><td>0.15</td><td>0.56</td><td>1.07</td><td>2.46</td><td>3.82</td></tr><tr><td>C17:0</td><td>0.09</td><td>0.11</td><td>0.16</td><td>0.31</td><td>0.44</td></tr><tr><td>C18:0</td><td>3.1</td><td>2.30</td><td>2.56</td><td>3.21</td><td>2.80</td></tr><tr><td>C18:1 n9c</td><td>28.87</td><td>18.96</td><td>20.61</td><td>21.20</td><td>13.01</td></tr><tr><td>C18:2 n6c</td><td>24.39</td><td>21.25</td><td>21.95</td><td>23.09</td><td>20.92</td></tr><tr><td>C18:3 n3</td><td>1.44</td><td>1.52</td><td>1.44</td><td>0.04</td><td>0.04</td></tr><tr><td>C20:0</td><td>0.05</td><td>0.26</td><td>0.30</td><td>0.38</td><td>0.39</td></tr><tr><td>C20:1</td><td>0.16</td><td>0.21</td><td>0.28</td><td>0.52</td><td>0.81</td></tr><tr><td>C21:0</td><td>0.02</td><td>0.03</td><td>0.04</td><td>0.07</td><td>0.12</td></tr><tr><td>C20:3 n6</td><td>0.00</td><td>0.01</td><td>0.02</td><td>0.15</td><td>0.08</td></tr><tr><td>C20:4 n6</td><td>0.00</td><td>0.08</td><td>0.15</td><td>0.33</td><td>0.50</td></tr><tr><td>C20:5 n3</td><td>0.02</td><td>0.55</td><td>1.13</td><td>2.79</td><td>4.51</td></tr><tr><td>C22:0</td><td>0.03</td><td>0.12</td><td>0.13</td><td>0.17</td><td>0.16</td></tr><tr><td>C24:0</td><td>0.17</td><td>0.21</td><td>0.30</td><td>0.57</td><td>0.76</td></tr><tr><td>C22:6 n3</td><td>0.03</td><td>0.76</td><td>1.13</td><td>2.73</td><td>4.55</td></tr><tr><td>C24:1</td><td>0.01</td><td>0.02</td><td>0.05</td><td>0.11</td><td>0.05</td></tr><tr><td>饱和脂肪酸 SFA</td><td>28.75</td><td>21.19</td><td>23.59</td><td>28.03</td><td>23.23</td></tr></table></body></html>
+
+<html><body><table><tr><td>多不饱和脂肪酸PUFA</td><td>25.88</td><td>24.17</td><td>25.81</td><td>29.03</td><td>30.61</td></tr><tr><td>ω-3多不饱和脂肪酸@-3PUFA</td><td>1.49</td><td>2.83</td><td>3.70</td><td>5.56</td><td>9.10</td></tr><tr><td>@-6多不饱和脂肪酸@-6PUFA</td><td>24.39</td><td>21.34</td><td>22.11</td><td>23.47</td><td>21.51</td></tr><tr><td>ω-6多不饱和脂肪酸/o-3多不饱和脂肪酸</td><td>16.36</td><td>7.55</td><td>5.97</td><td>4.22</td><td>2.36</td></tr><tr><td>ω-6PUFA/o-3PUFA</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 1.2 饲养管理
+
+试验鸡采用3层立体笼养，每笼3只，采用随机编号安排组位，避免环境和位置影响。试验鸡自由采食和饮水，自然光照加人工补光（ $1 6 \mathrm { { h } / d } \AA \AA { . }$ ，光照强度 $2 0 \mathrm { l x }$ ，舍温（20±2）℃，相对湿度 $5 0 \% { \sim } 6 0 \%$ ，自然通风结合纵向负压通风；每天清粪2次，每周消毒1次，常规免疫。每天喂料3次（08：00、13：00和18：00），捡蛋1次。试验预试期1周，正试期12周。
+
+# 1.3 指标测定与方法
+
+# 1.3.1 免疫器官指数测定
+
+正试期12周末，每重复取2只体重相近的蛋鸡，称重，颈静脉放血致死，取脾脏和胸腺，分别称重。
+
+胸腺指数 $( \% ) = 1 0 0 \times$ 胸腺湿重/体重;  
+脾脏指数 $( \% ) = 1 0 0 \times$ 脾脏湿重/体重。
+
+1.3.2 血清免疫球蛋白A（IgA）含量测定
+
+正试期12周末，每重复取1只鸡，用含促凝剂采血管，空腹无菌翅静脉采血 $2 { \sim } 3 ~ \mathrm { m L }$ 37℃水浴锅水浴孵育 $6 { \sim } 7 \mathrm { h }$ ，取上层血清，分装， $- 2 0 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ 储存。用Abcam 公司禽类IgA 试剂盒检测血清中IgA含量。
+
+1.3.3 血清新城疫、禽流感H9抗体水平测定
+
+对照组（1组）和3\~5组蛋鸡肌肉注射新久安（鸡新城疫病毒La Sota株、禽流感病毒H9 亚型，SS/94株）二联灭活疫苗。分别于注射前和注射后7、14 和 28d采血，制备血清（方法见1.3.2）。使用IDVET 禽流感H9抗体竞争酶联免疫吸附试验（ELISA）试剂盒检测抗体水平，结果以 $S / \mathrm { N \% [ }$ 吸光度（OD）样品值/OD 阴性值 $\% ]$ 表示， $S / N \%$ 越低，表明H9抗体水平越高。使用 IDVET 新城疫抗体 ELISA 试剂盒检测新城疫抗体水平。
+
+# 1.3.4脾脏细胞因子基因表达测定
+
+正试期12周末，每重复取1只鸡，颈静脉放血致死，取脾脏 $\boldsymbol { 1 0 } \mathrm { g }$ 左右置于RNA保护液中，置于液氮。 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 溶解RNA保护液，取 $8 0 ~ \mathrm { m g }$ 置于含1mLTrizol的 $1 . 5 ~ \mathrm { m L }$ 无酶管中,置于样品研磨仪（上海净信科技） $6 0 \mathrm { { H z } }$ 研磨 $6 0 ~ \mathrm { s }$ ，充分裂解脾脏细胞；加入 $2 0 0 ~ \mu \mathrm { L }$ 氯仿振荡30 s，4℃孵育 $3 \mathrm { m i n }$ ， $1 2 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ；上清水相转移至新无酶管中，加入等体积异丙醇， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 孵育 $3 0 \mathrm { m i n }$ ， $1 0 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ；弃上清留沉淀， $7 5 \%$ 酒精洗涤2次，弃上清留沉淀并晾干，用 $2 0 { \sim } 5 0 ~ \mathrm { \textmu L }$ 无酶水溶解沉淀， $- 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 保存。紫外可见分光光度计（日本 BioSpec-nano 公司）测定总RNA浓度及纯度，所有样品OD比值（ $\mathrm { O D } _ { 2 6 0 \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } } )$ 在1.8\~2.0， $1 \%$ 琼脂糖凝胶电泳检测总RNA完整性(北京市六一仪器厂，DYY-6C 型)。
+
+使用天根FastQuantRTKit（with gDNase）逆转录试剂盒将总RNA 逆转录为cDNA[具体参照FastQuant RT Kit（with gDNase）说明书]，所得cDNA于－20℃保存或直接用于实时荧光定量PCR 检测。
+
+实时荧光定量PCR检测目的基因表达情况：使用天根SuperReal PreMix Plus(SYBR Green)试剂盒检测白细胞介素-2（IL-2）、IL-6、白细胞介素-10（IL-10）和干扰素-γ（IFN-γ）基因的表达量，并用实时荧光定量PCR仪（美国Bio-Rad）测定。本研究根据GenBank上公布的鸡IL-2、IL-6、IL-10和IFN-γ基因的保守核苷酸序列，用Primer设计并合成5对特异性引物（引物序列见表3)，以cDNA为模板进行PCR反应。以β-肌动蛋白（ $\beta$ -actin）表达量为参比，用$2 ^ { - \Delta \Delta \mathrm { C t } }$ 法计算目的基因相对表达量，其中： $\triangle C _ { Ḋ } \mathrm  t Ḍ Ḍ = Ḍ$ 待测基因Ct一内参基因Ct； $\Delta \triangle C _ { Ḋ } \mathrm { t } = Ḍ$ 试验组△Ct一对照组△Ct。
+
+表3引物序列  
+Table 3Primer sequences   
+
+<html><body><table><tr><td>基因 Genes</td><td>引物序列 Primer sequences (5'-3')</td><td>产物大小 Product size/bp</td><td>GenBank 登录号 GenBank accession numbers</td></tr><tr><td>白细胞介素-2 IL-2</td><td>F:TGGGAGAAGTGGTTACTCTGAAGAA R: GGTGTGATTTAGACCCGTAAGACTC</td><td>122</td><td>NM 204153.1</td></tr><tr><td>白细胞介素-6IL-6</td><td>F:CCTCCTCGCCAATCTGAAGTCA R:CCTCACGGTCTTCTCCATAAACG</td><td>100</td><td>NM204628.1</td></tr><tr><td>白细胞介素-10IL-10</td><td>F:GCTCTGAACTGCTGGATGAGT R:ATGCTCTGCTGATGACTGGTG</td><td>127</td><td>NM001004414.2</td></tr><tr><td>干扰素-γ IFN-γ</td><td>F:GCTGACGGTGGACCTATTATTGTAG R:ATGCTCTGCTGATGACTGGTG</td><td>190</td><td>NM205149.1</td></tr></table></body></html>
+
+# 1.3.5脾脏淋巴细胞增殖和凋亡测定
+
+脾脏淋巴细胞的制备：正试期12周末，对照组、3\~5组每重复取1只鸡，无菌剖检取脾脏，迅速取 $1 0 \mathrm { { g } }$ 左右置于200 目细胞过滤网上，同时加入 $1 { \sim } 2 ~ \mathrm { m L }$ 无菌 Hank's 液，用无菌玻璃研磨杵将脾脏组织磨碎，制成单个细胞悬液， $1 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n } \left( 4 ^ { \circ } \mathrm { C } \right)$ ，Hank's液重悬， $1 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ （4℃），将细胞悬浮于 $2 { \mathrm { m L } }$ RPMI1640培养基，并稀释到$2 \times 1 0 ^ { 7 }$ 个 $/ \mathrm { m L }$ 。
+
+凋亡检测：使用碧云天AnnexinV-FITC 细胞凋亡检测试剂盒。制备的脾脏淋巴细胞悬液用预冷的磷酸缓冲液（PBS）洗2次，使用 $1 \times$ 结合缓冲液重悬细胞，浓度为 $1 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 。将 $1 0 0 \mu \mathrm { L }$ （约 $1 \times 1 0 ^ { 5 }$ 个细胞)转移至 $5 \mathrm { m L }$ 细胞培养管中，加入 ${ 5 \mu \mathrm { L } }$ 的FITC膜联蛋白V（FITCAnnexin $\mathrm { \Delta V }$ ）和 ${ 5 \mu \mathrm { L } }$ 的碘化丙啶（PI)。轻微涡旋，避光 $2 5 \mathrm { ~ \textdegree C }$ 孵育 $1 5 \mathrm { m i n }$ 。加入 $4 0 0 ~  { \mu \mathrm { L } }$ 的$1 \times$ 结合缓冲液。在 $^ { \textrm { 1 h } }$ 内上流式细胞仪（美国Guava $\textsuperscript { \textregistered }$ easyCyte 公司)，检测脾脏淋巴细胞凋亡水平。
+
+增殖检测：淋巴细胞培养：终浓度为 $2 \times 1 0 ^ { 7 }$ 个 $/ \mathrm { m L }$ 的脾淋巴细胞，使用96孔细胞培养板,每孔 $1 0 ~ \mu \mathrm { L }$ 加2孔，第一孔加入 $9 0 \mu \mathrm { L }$ 含有刀豆球蛋白（ConA,SIGMA公司)的RPMI1640培养基（ConA浓度为 $2 0 ~ \mu \mathrm { g / m L }$ )，第二孔加入 $9 0 \mu \mathrm { L }$ RPMI1640 培养基。设置4个空白对照孔（只加 RPMI1640 培养基），于 $5 \%$ 二氧化碳（ $\mathrm { C O } _ { 2 }$ ）培养箱 $3 7 \mathrm { ~ \textdegree C }$ 培养 $7 2 \mathrm { { h } }$ 。使用AbcamBrduCellProliferationELISAKit试剂盒进行淋巴细胞增殖情况测定。第 $4 8 { \sim } 7 2 \mathrm { h }$ 内，每孔加入稀释后的BruU标记液 $1 0 ~ \mu \mathrm { L }$ ，培养 $1 2 { \sim } 2 4 \mathrm { h }$ 。按照 BrdUELISA 检测试剂盒中步骤完成对脾脏淋巴细胞增殖程度测定，在 $4 5 0 / 5 4 0 \ \mathrm { n m }$ 双波长下测定每孔OD 值。
+
+# 1.4 数据统计分析
+
+试验数据采用 SPSS19.0 软件中单因素方差分析（one-wayANOVA）程序，进行单因素方差分析，用Duncan 氏法进行多重比较和指标的相关分析；显著水平为 $P { < } 0 . 0 5$ ，趋势水平为 $\scriptstyle P < 0 . 1 0$ 。结果以平均值和标准误表示。
+
+# 2结果与分析
+
+本试验生产性能结果表明（数据未发表)，不同水平鱼油对试验全期蛋鸡产蛋率、平均蛋重、产蛋量和平均日采食量无显著影响（ $. P { > } 0 . 0 5 )$ ，其中 $4 . 3 4 \%$ 鱼油组（5组）料蛋比显著高于对照组 （ $_ { . P < 0 . 0 5 ) }$ 。
+
+# 2.1饲粮添加鱼油对蛋鸡免疫器官指数和体液免疫的影响
+
+由表4可知，饲粮添加鱼油对蛋鸡脾脏指数和胸腺指数无显著影响（ $. P { > } 0 . 0 5 )$ ，对蛋鸡血清IgA含量也无显著影响（ $_ { . P > 0 . 0 5 ) }$ ，其中 $4 . 3 4 \%$ 鱼油组血清IgA含量最高。免疫后不同时间点血清禽流感H9抗体水平检测结果（图1）表明，免疫后7和 $1 4 { \mathrm { ~ d ~ } }$ ，试验组血清禽流感H9抗体 $\mathrm { { S / N \% } }$ 值显著低于对照组 （ $. P { < } 0 . 0 5 )$ ，表示试验组血清禽流感H9 抗体水平显著高于对照组 $( P { < } 0 . 0 5 )$ ，其中 $2 . 1 7 \%$ 鱼油组抗体水平最高，但不同试验组间无显著差异( $. P { > } 0 . 0 5 )$ ；免疫后 $2 8 { \mathrm { ~ d ~ } }$ ，试验组血清禽流感H9 抗体 $S / N \%$ 值有低于对照组的趋势（ $\cdot P { < } 0 . 1 0 )$ ，表示试验组血清禽流感 H9 抗体水平有高于对照组的趋势，其中 $4 . 3 4 \%$ 鱼油组抗体水平最高。随着免疫后时间延长，各组血清禽流感H9抗体 $S / N \%$ 值均降低，表明血清禽流感H9抗体水平逐渐升高。免疫后不同时间点血清新城疫抗体水平检测结果（图2）表明，免疫后7d，试验组血清新城疫抗体水平显著高于对照组 （ $_ { \cdot } P { < } 0 . 0 5 )$ ，其中 $1 . 0 8 \%$ 鱼油组血清新城疫抗体水平最高；免疫后 $1 4 { \mathrm { ~ d ~ } }$ ，试验组血清新城疫抗体水平显著高于对照组（ $. P { < } 0 . 0 5 )$ ，但各试验组间无显著差异（ $P { > } 0 . 0 5 )$ ；免疫后 $2 8 \mathrm { ~ d ~ }$ ，试验组血清新城疫抗体水平与对照组无显著差异（ $. P { > } 0 . 0 5 )$ ，其中 $1 . 0 8 \%$ 鱼油组血清新城疫抗体水平最高。同时，随着免疫后时间延长，各组血清新城疫抗体水平均升高。
+
+表4饲粮添加鱼油对蛋鸡免疫器官指数和体液免疫的影响  
+Table 4Effects of dietary fish oil on immune organ indices and humoral immunity of laying hens   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">鱼油添加水平 Fish oil supplemental levels/%</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>0.54</td><td>1.08</td><td>2.17</td><td>4.34</td></tr><tr><td>脾脏指数 Spleen index/%</td><td>1.15</td><td>1.14</td><td>1.02</td><td>1.00</td><td>0.93</td><td>0.033</td><td>0.148</td></tr><tr><td>胸腺指数 Thymus index/%</td><td>0.455</td><td>0.506</td><td>0.441</td><td>0.559</td><td>0.494</td><td>0.028</td><td>0.746</td></tr><tr><td>免疫球蛋白AIgA/(ng/mL)</td><td>65.08</td><td>61.72</td><td>63.30</td><td>61.14</td><td>72.73</td><td>2.69</td><td>0.688</td></tr></table></body></html>
+
+![](images/2eb6fd4e439797480d031e0bc05c65e60503900921de64d7bb63e8a4941ce5f1.jpg)
+
+\*表示与对照组相比差异显著（ $( P { < } 0 . 0 5 )$ 。图2同。
+
+\* mean significantly different compared with the control group $( P { < } 0 . 0 5 )$ . The same as Table 2
+
+Fig.1Effects of dietary fish oil on serum avian influenza virus H9 subtype antibody levels of laying hens at
+
+![](images/b058cb6b239e556edb3e132fd95cfddf9f70c5491270c5cb652828a27ad7824e.jpg)  
+图1饲粮添加鱼油对蛋鸡免疫后不同时间点血清禽流感H9抗体水平的影响
+
+Fig.2Effects of dietary fish oil on serum Newcastle disease virus antibody levels of laying hens at different
+
+time points after immunization
+
+2.2饲粮添加鱼油对蛋鸡脾脏细胞因子基因表达的影响
+
+![](images/f64b920c7b69827e05d4447ba386c48fd1f511c41c5a4f7cf200c7577fa796c6.jpg)  
+图2饲粮添加鱼油对蛋鸡免疫后不同时间点血清新城疫抗体水平的影响
+
+饲粮添加鱼油对蛋鸡脾脏细胞因子基因表达的影响结果见图3。由图可知， $0 . 5 4 \%$ ，$1 . 0 8 \%$ 、 $2 . 1 7 \%$ 鱼油组蛋鸡脾脏 $\scriptstyle { I L - 2 }$ 和 $I L { - } 6$ 基因相对表达量与对照组相比无显著差异中 $. P { > } 0 . 0 5 )$ ， $4 . 3 4 \%$ 鱼油组蛋鸡脾脏IL-2 和IL-6基因相对表达量显著低于对照组和其他试验组( $. P { < } 0 . 0 5 \$ )。与对照组相比， $1 . 0 8 \%$ 和 $2 . 1 7 \%$ 鱼油组蛋鸡脾脏 $I L \ – 1 0$ 基因相对表达量极显著升高 $( P { < } 0 . 0 1 \$ )， $0 . 5 4 \%$ 和 $4 . 3 4 \%$ 鱼油组无显著差异（ $( P { > } 0 . 0 5 )$ 。与对照组相比， $0 . 5 4 \%$ 和 $2 . 1 7 \%$ 鱼油组蛋鸡脾脏 $I F N { - } \gamma$ 基因相对表达量显著升高（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ， $1 . 0 8 \%$ 鱼油组蛋鸡脾脏 $I F N { - } \gamma$ 基因相对表达量极显著升高（ $_ { \scriptstyle P < 0 . 0 1 }$ ， $4 . 3 4 \%$ 鱼油组蛋鸡脾脏IFN- $\cdot \gamma$ 基因相对表达量显著降低0 $( P { > } 0 . 0 5 )$ 。
+
+\*表示差异显著（ $_ { \cdot P < 0 . 0 5 }$ ， $^ { * * }$ 表示差异极显著（ $_ { \cdot  { \mathit { P } } < 0 . 0 1 }$ 。表4同。
+
+\* mean significantly different $( P { < } 0 . 0 5 )$ , \*\* mean extremely significantly different $( P { < } 0 . 0 1 )$ ). The same as
+
+![](images/f9ed016be500a114d873dff503878d88213025cb0d92f47ca0516d44e10831cb.jpg)  
+Fig.3Effects of dietary fish oil on cytokine gene expression in spleen of laying hens
+
+Table 4.
+
+图3 饲粮添加鱼油对蛋鸡脾脏细胞因子基因表达的影响
+
+2.3饲粮添加鱼油对蛋鸡脾脏淋巴细胞刺激指数和凋亡率的影响
+
+饲粮添加鱼油对蛋鸡脾脏淋巴细胞刺激指数和凋亡率的影响结果见图4。由图可知，与对照组相比， $1 . 0 8 \%$ 和 $2 . 1 7 \%$ 鱼油组蛋鸡脾脏淋巴细胞在ConA刺激下转化率（刺激指数）无显著差异（ $_ { . P > 0 . 0 5 ) }$ ， $4 . 3 4 \%$ 鱼油组显著降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )。各组间蛋鸡脾脏淋巴细胞凋亡率无显著差异（ $. P { > } 0 . 0 5 )$ 。
+
+![](images/15ba729c82e112133913aad33676c49ab6c2dfab5ee769b0c2812d0812a3ca62.jpg)
+
+饲粮添加鱼油对蛋鸡脾脏淋巴细胞刺激指数和凋亡率的影响
+
+# 3讨论
+
+3.1饲粮添加鱼油对蛋鸡免疫器官指数和体液免疫的影响
+
+本试验中，饲粮添加不同水平鱼油对蛋鸡免疫器官指数无显著影响，但有研究发现肉鸡饲粮补充 $3 \%$ 的鱼油（DHA占总脂肪酸的 $2 1 . 9 \%$ ）对胸腺重量有显著影响、对脾脏重量无显著影响[7]，这与本试验结果不完全一致，可能是由于鱼油中脂肪酸组成有差异或家禽品种、日龄不一致。IgA是外分泌液中主要的免疫球蛋白，分为血清型IgA 和分泌型IgA（sIgA）2 种，血清型IgA主要由肠系膜淋巴组织的浆细胞产生，具有抗菌、抗病毒作用。膳食鱼油在许多动物疾病模型中有显著的临床、免疫和生物化学作用，包括显著增加人体器官移植存活率并降低患有自身免疫性肾小球肾炎（IgA 肾病）的小鼠的蛋白尿，这可能是通过鱼油中ω-3 PUFA竞争性抑制环加氧酶及脂加氧酶对AA的作用，使中性粒细胞和单核细胞产生的白三烯 ${ \bf B } _ { 4 }$ ( $\mathrm { L T B } _ { 4 }$ ）减少，取而代之产生非炎症的PGE和白三烯 ${ \bf B } _ { 5 }$ ( $\mathrm { L T B } _ { 5 }$ ）[8]，从而减少IgA 在肾小球系膜处沉积。在机体处于炎性状态时，鱼油中ω-3PUFA会减少IgA的产生，缓解炎性疾病。当前对健康机体外周血IgA水平的影响的研究也较少。本试验研究表明，饲粮添加不同水平鱼油对蛋鸡血清IgA含量无显著影响，可能是因为蛋鸡处于健康生理状态，体内类二十烷酸分泌未出现异常。关于鱼油对健康禽类血清型IgA水平的影响的相关研究目前较少，还需进一步研究。
+
+体液免疫包括外周血免疫球蛋白含量和抗体介导的特异与非特异性免疫。禽流感是一种由A型流感病毒引起的禽类感染疾病综合征，严重影响禽类养殖。本试验结果中，免疫后7和14d试验组禽流感H9抗体水平显著高于对照组且 $2 8 \mathrm { d }$ 后仍有高于对照组的趋势。采用血凝抑制反应法测定新城疫抗体水平发现，饲粮中添加 $3 \%$ 的鱼油，血清新城疫抗体水平显著高于对照组[7]。He 等[9]在家禽饲粮中补充 $4 . 5 \%$ 的鱼油，1次免疫后14d和2次免疫后9d,正常组和注射环磷酰胺组的新城疫抗体水平显著高于玉米油组，说明肉仔鸡正常生理状态或免疫抑制状态下，含@-3PUFA的鱼油均能提高体液免疫水平，发挥免疫调控作用，这与Guo[10]等的研究结果一致。也有报道家禽中补充鱼油对体液免疫没有改善作用[1]。不同的试验结果可能是由于不同的饮食基础、脂肪酸水平或抗原类别不同。
+
+本试验免疫二联苗后蛋鸡无不良反应，饲粮补充@-3PUFA可改善动物体液免疫水平，提高抗体效价。
+
+3.2饲粮添加鱼油对蛋鸡脾脏细胞因子基因表达的影响
+
+细胞因子是在炎症和免疫应答过程中由免疫细胞产生的一类具有免疫调节功能的小分子多肽或蛋白质。细胞因子的产生受类二十烷酸的调节[5]，饮食脂肪酸会影响类二十烷酸的产生，所以膳食脂质尤其是@-3PUFA会影响细胞因子的产生。研究表明DHA可调节免疫细胞增殖及自然杀伤细胞的活化，进而影响细胞因子的产生[]。T细胞可发展为功能不同的Th和Th2亚群，IL-2和TNF主要由Thi型细胞分泌，而白细胞介素-4（IL-4）、白细胞介素-5（IL-5)和IL-10由Th2型细胞分泌[12]。细胞因子中IL-2、IL-6和TNF都是炎症反应的主要介质[13]。Friedman等[14]研究表明，过高或过低ω-3PUFA会抑制体内或体外IL-2的分泌。与对照组（低ω-3 PUFA）相比，膳食补充ω-3PUFA可降低人外周血单核细胞中IL-1β、IL-2、IL-6和TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ 水平[2]。
+
+有些体外试验表明，高水平α-3PUFA会降低动物细胞因子白细胞介素-1（IL-1）和IL-2基因表达量[15]。本试验表明，IL-2基因相对表达量随鱼油添加水平升高而下降，可能是由于饲粮中@-3PUFA含量的增加，导致LTB4减少，来源于α-6PUFA的LTB4能增加血管的渗透性和血液的流动性，调节促炎介质TNF-α、IL-2、IL-6和IL-1的产生[13]。同时，因为2、4型Toll样受体（TLR）及活化分子表达减弱，介导的外周血单核细胞内信号蛋白表达下降，导致膳食鱼油降低人的IL-2和TNF- $\mathbf { \alpha } \cdot \mathbf { a }$ 表达[16]。Mayer等[17]研究表明鱼油类ω-3PUFA能明显抑制单核细胞在受到内毒素刺激时对IL-6和IL-8的释放，尽管表面黏附因子表达无显著改变，但其对内皮细胞的黏附能力跨膜转运受到抑制。本试验结果表明IL-6相对表达量也随着饲粮鱼油添加水平升高而降低。@-3PUFA抑制NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 的激活也是抑制炎性因子产生及降低炎性细胞反应调节免疫的重要机制[18]。研究表明人体每天补充 $1 . 1 { \sim } 5 . 0 \ \mathrm { g }$ 的EPA+DHA数周，可减少外周血单核细胞的增殖，且IL-2、IL-1、IL-6和TNF-α的表达量降低[19]。
+
+IL-10 是抗炎类细胞因子，创伤后炎性因子释放机体立即产生IL-10、白细胞介素-13（IL-13）等抗炎因子对抗原发促炎反应[19]。食用适当比例DHA和EPA后2个月后，适当ω-3 PUFA可以活化人体白细胞同时促进IFN-γ的分泌[20]。给小鼠饲喂富含鱼油的饲粮提高了体内 IFN-γ含量[21]。Sijben 等[22报道，在饮食中添加鱼油（作为ω-3 脂肪酸的来源）可以增加细胞因子如 IFN-γ的产生。饲粮中补充 $3 \%$ 的鱼油(DHA 占总脂肪酸的 $2 1 . 9 \%$ ，能显著提高脾脏中IFN-γ基因的相对表达量，可能归因于补充鱼油提高了先天免疫细胞活性如 $\mathrm { T h } _ { 2 }$ 细胞并降低类二十烷酸的产生[7。另外，也有体外试验表明鱼油通过降低 $\mathrm { P G E } _ { 2 }$ 的产生进而促进 IFN-γ的分泌[22]。创伤患者在补充鱼油后3和6d外周血IFN-γ水平显著上升。表明补充ω-3PUFA可显著降低创伤后炎症反应程度，促进细胞免疫功能恢复，避免过度炎症反应的发生[19]。
+
+高剂量的鱼油组降低细胞因子的基因表达，可能是由于免疫细胞膜磷脂中不饱和脂肪酸含量增加，导致脂质过氧化作用增强，造成膜损伤影响免疫细胞功能。本试验结果表明，在正常生理状态下，没有病毒或其他诱生剂的作用，各种细胞因子表达结果符合正常机体免疫应答状态，饲粮补充鱼油对机体是有利的，能增强先天性免疫和获得性免疫应答能力，同时也取决于免疫应答的状态。
+
+3.3饲粮添加鱼油对蛋鸡脾脏淋巴细胞刺激指数和凋亡率的影响
+
+本试验结果表明，除 $4 . 3 4 \%$ 鱼油组外，其他各组饲粮补充鱼油对脾脏淋巴细胞增殖和凋亡没有显著影响。Pompos 等[23]研究表明ConA 刺激下淋巴细胞体外增殖不受ω-3 PUFA 添加影响。Calder等[24]研究表明富含ω-3PUFA的鱼油能降低小鼠对ConA 刺激下淋巴细胞的分裂，同时观察到降低了小鼠淋巴细胞发育所必需的白细胞介素和TNF 产量。饲粮添加 $7 \%$ 的鱼油抑制淋巴细胞增殖[1]，因为T细胞产生的IL-2 可诱导T细胞的分化，过量ω-3 PUFA导致IL-2表达量降低，进而影响T淋巴细胞的增殖[25]。有研究发现低浓度（ $5 0 \mathrm { n m o l / L }$ ）的AA、DHA、EPA在体外对脐血源单核细胞凋亡无影响，中浓度（ $1 0 0 \mathrm { n m o l / L }$ ）情况下DHA会显著增加单核细胞凋亡率[26]。之前有研究表明，当补充 $\mathrm { E P A + D H A }$ 在 $2 . 4 { \sim } 9 . 6 \ \mathrm { g / d }$ 时，会降低嗜中性粒细胞和单核细胞的活性，通过减少单核细胞数量减少IL-6、IL-2 和IFN-γ的表达[27]，同时也会减少淋巴细胞的增殖[28]。Kew 等[29]在150 名健康志愿者中分别提供0.77或1.7g/d EPA+DHA 持续6个月，发现摄入不同水平的 $\mathrm { E P A + D H A }$ 并未改变ConA 刺激下外周血淋巴细胞的增殖情况，说明适当摄入@-3PUFA不会对免疫细胞活性产生影响。
+
+4结论
+
+$\textcircled{1}$ 饲粮添加鱼油未见影响蛋鸡免疫器官指数和血清IgA水平。
+
+$\textcircled{2}$ 免疫后7和14d，鱼油组禽流感H9 和新城疫抗体水平显著高于对照组，28d各组间无显著差异。
+
+$\textcircled{3}$ 饲粮添加 $4 . 3 4 \%$ 鱼油显著降低脾脏IL-2和IL-6基因的相对表达量，添加 $1 . 0 8 \%$ 和$2 . 1 7 \%$ 鱼油显著提高脾脏IL-10 和IFN-γ基因的相对表达量。
+
+$\textcircled{4}$ 饲粮添加 $4 . 3 4 \%$ 鱼油显著降低脾脏淋巴细胞刺激指数，其余试验组未见显著影响脾脏淋巴细胞刺激指数和凋亡率。参考文献：
+
+[1]龙烁,王浩,武书庚,等.二十二碳六烯酸的生理学功能及其在家禽生产中的应用[J].动物营养学报,2017,29(4):1101-1109.
+
+[2] CALDER P C.Fat chance of immunomodulation[J].Immunology
+
+Today,1998,19(6):244-247.
+
+[3] WILS-PLOTZ E L,KLASING K C.Effects of immunomodulatory nutrients on growth performanceandimmune-related geneexpression in layerchickschallengedwith lipopolysaccharide[J].Poultry Science,2017,96(3):548-555.
+
+[4]SWIATKIEWICZ S,ARCZEWSKA-WLOSEK A,JOZEFIAK D.The relationship between dietary fat sources and immune response in poultry and pigs:an updated review[J].Livestock Science,2015,180:237-246.
+
+[5]IBRAHIM D,EL-SAYED R,KHATER S I,et al.Changing dietary n-6:n-3 ratio using different oil sources affects performance,behavior,cytokines mRNA expression and meat fatty acid profile of broiler chickens[J].Animal Nutrition,2017,4(1):44-51.
+
+[6] CALDER P C.Omega-3 fatty acids and inflammatory processes[J].Nutrients,2010,2(3):355-374.
+
+[7] SADEGHI A A,SAFAEI A,AMINAFSHAR M.The effects of dietary oil sources on performance,serum corticosterone level,antibody titers and IFN-γ gene expression in broiler chickens[J].Kafkas Universitesi Veteriner Fakültesi Dergisi,2014,20(6):857-862.
+
+[8] FERNANDES G,CHANDRASEKAR B,LUAN X H,et al.Modulation of antioxidant enzymes and programmed cell death by n-3 fatty acids[J].Lipids,1996,31(1):S91-S96.
+
+[9]HE X,YANG X J,GUO Y M.Effects of different dietary oil sources on immune function in cyclophosphamide immunosuppressed chickens[J].Animal Feed Science and Technol0gy,2007,139(3/4):186-200.
+
+[10]GUO Y M,CHEN S Y,XIA Z G,et al.Effects of different types of polyunsaturated fatty acids on immune function and PGE2 synthesis by peripheral blood leukocytes of laying hens[J].Animal Feed Science and Technology,2004,116(3/4):249-258.
+
+[11] FRITSCHE K L,CASSITY N A.Dietary n-3 fatty acids reduce antibody-dependent cell cytotoxicity and alter eicosanoid release by chicken immune cells[J].Poultry Science,1992,71(10):1646-1657.
+
+[12] KANAZAWA M,YOSHIHARA K,ABE H,et al.Effects of PSK on T and dendritic cells differentiation in gastric or colorectal cancer patients[J].Anticancer Research,2005,25(1B):443-449.
+
+[13]李波.@-3多不饱和脂肪酸对严重多发伤患者的炎症反应与免疫功能的调节及预后的影
+
+响[D].博士学论文.武汉:华中科技大学,2010.
+
+[14]FRIEDMAN A,SKLAN D.Effect of dietary fatty acids on antibody production and fatty acid composition of lymphoid organs in broiler chicks[J].Poultry Science,1995,74(9):1463-1469.
+
+[15]CALDER P C.Fatty acids,dietary lipids and lymphocyte functions[J].Biochemical Society Transactions,1995,23(2):302-309
+
+[16] NIETO N.Ethanol and fish oil induce NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ transactivation of the collagen α2（I） promoter through lipid peroxidation-driven activation of the PKC-PI3K-Akt pathway[J].Hepatology,2007,45(6):1433-1455.
+
+[17]MAYER K,MEYER S,REINHOLZ-MUHLY M,et al.Short-time infusion of fish oil-based lipid emulsions,approved for parenteral nutrition,reduces monocyte proinflammatory cytokine generation and adhesiveinteraction withendothelium in humans[J].The Journal of Immunology,2003,171(9):4837-4843.
+
+[18] PLATJ,JELLEMA A,RAMAKERSJ,et al.Weight loss,but not fishoil consumption,improves fasting and postprandial serum lipids,markers of endothelial function,and inflammatory signatures in moderately obese men[J].Journal of Nutriti0n,2007,137(12):2635-2640.
+
+[19]APOUR C S,BELL S J,FORSE R A.Immunologic effects of national cholesterol education panel step-2 diets with and without fish-derived n-3 fatty acid enrichment[J].Journal of Parenteral and Enteral Nutrition,1994,18(4):381-383.
+
+[20]GORJAO R,VERLENGIA R,DE LIMA T M,et al.Effect of docosahexaenoic acid-rich fish oil supplementation on human leukocyte function[J].Clinical Nutrition,2006,25(6):923-938.
+
+[21]FRITSCHE KL,FENG C,BERG JN.Dietary fish oil enhances circulating interferon-gamma in mice during listeriosis without altering in vitro production of this cytokine[J].Journal of Interferon & Cytokine Research,1997,17(5):271-277.
+
+[22] SIJBEN J W C,KLASING K C,SCHRAMA J W,et al.Early in vivo cytokine genes expression in chickens after challenge with Salmonella typhimurium lipopolysaccharide and modulation by dietary n-3 polyunsaturated fatty acids[J].Developmental & Comparative Immunol0gy,2003,27(6/7):611-619.
+
+[23]POMPOS L J,FRITSCHE K L.Antigen-driven murine $\mathrm { C D ^ { 4 + } }$ T lymphocyte proliferation and interleukin-2 production are diminished by dietary (n-3） polyunsaturated fatty acids[J].Journal of Nutriti0n,2002,132(11):3293-3300.
+
+[24]CALDER P C.Immunoregulatory and anti-inflammatory effects ofn-3 polyunsaturated fatty acids[J].Brazilian Journal of Medical and Biological Research,1998,31(4):467-490.
+
+[25]KINSELLA JE,LOKESH B,BROUGHTON S,et al.Dietary polyunsaturated fatty acids and eicosanoids:potential effectson the modulation of inflammatory and immune cells:an overview[J].Nutrition,1990,6(6):24-44.
+
+[26]SWEENEY B,PURI P,REEN D J.Polyunsaturated fatty acids influence neonatal monocyte survival[J].Pediatric Surgery International,2001,17(4):254-258.
+
+[27]CAUGHEY G E,MANTZIORIS E,GIBSON R A,et al.The efect on human tumor necrosis factor alpha and interleukin 1 beta production of diets enriched in n-3 fatty acids from vegetable oil or fish oil[J].The American Journal of Clinical Nutrition,1996,63(1):116-122.
+
+[28] KELLEY D S,TAYLOR P C,NELSON G J,et al.Docosahexaenoic acid ingestion inhibits natural killer cell activity and production of inflammatory mediators in young healthy men[J].Lipids,1999,34(4):317-324.
+
+[29]KEW S,BANERJEE T,MINIHANE A M,et al.Lack of effect of foods enriched with plantor marine-derived n-3 fatty acids on human immune function[J].The American Journal of Clinical Nutriti0n,2003,77(5):1287-1295.
+
+Effects of Dietary Fish Oil on Immune Function of Laying Hens   
+LONG Shuo WU Shugeng\* CUI Chuangfei ZHANG HaijunWANG Jing\* QI Guanghai MA Youbiao YANG Linlin (Key Open Laboratory of Feed Biotechnology of Ministry of Agriculture and Rural Affairs,   
+National Engineering Research Center of Biological Feed Development, Feed Research Institute, Chinese Academy of Agricultural Sciences, Beijing 1ooo81, China)
+
+Abstract: This experiment was conducted to investigate the effects of dietary fish oil on humoral and cellular immune function of laying hens. Four hundred and fifty healthy Hy-Line Brown laying hens of 31-week-old were randomly allotted into 5 groups with 6 replicates per group and 15 hens per replicate. The laying hens in the control group were fed a corn-soybean meal type basal diet, and those in experimental groups were fed the basal diets supplemented with $0 . 5 4 \%$ （20 $1 . 0 8 \%$ ， $2 . 1 7 \%$ and $4 . 3 4 \%$ fish oil with 0.68,1.35,2.70 and $5 . 4 0 ~ \mathrm { m g / g }$ docosahexaenoic acid, respectively. The feeding trial lasted for 12 weeks after 1 week of adaption. The results showed as follows: 1) dietary fish oil did not significantly afect the spleen index, thymus index and serum immunoglobulin A content of laying hens ( $( P { > } 0 . 0 5 )$ . 2）The avian influenza virus H9 subtype antibody levels in serum of laying hens in experimental groups were significantly increased at 7 and 14 days after immunization compared with the control group $( P { < } 0 . 0 5 )$ ,which in $2 . 1 7 \%$ fish oil group was the highest. At 28 days after immunization, the avian influenza virus H9 subtype antibody levels in serum of laying hens in experimental groups showed an increasing tendency compared with the control group $( P { < } 0 . 1 0 )$ . The Newcastle disease virus (NDV) antibody levels in serum of laying hens in experimental groups were significantly increased at 7 and 14 days after immunization compared with the control group $( P { < } 0 . 0 5 )$ , and at 28 days after immunization, the NDV antibody levels in serum of laying hens in experimental groups were not significantly different compared with the control group $( P { > } 0 . 0 5 )$ . 3） Compared with the control group,the relative gene expression levels of interleukin-2 and interleukin-6 in spleen of laying hens in $4 . 3 4 \%$ fish oil group were significantly decreased $( P { < } 0 . 0 5 )$ ，and the relative gene expression levels of interleukin-1O and interferon in spleen of laying hens in $1 . 0 8 \%$ and $2 . 1 7 \%$ fish oil groups were significantly increased $( P { < } 0 . 0 5 )$ . 4) Dietary fish oil had no significant effects on stimulus index and apoptosis rate of lymphocytes in spleen of laying hens except for $4 . 3 4 \%$ fish oil $( P { > } 0 . 0 5 )$ . In conclusion, dietary $0 . 5 4 \%$ to $2 . 1 7 \%$ fish oil can improve the immune function of laying hens but too high $( 4 . 3 4 \% )$ has no benefit.
+
+Key words: fish oil; docosahexaenoic acid; inflammatory cytokine; antibody level; laying hen

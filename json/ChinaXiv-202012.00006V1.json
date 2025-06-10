@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "低温胁迫对澳洲茶树组培苗生理特性的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张晓宁1,2，杨 红3,4，张 烨1,2，陈博雯1,2，肖玉菲1,2，覃子海1,²，刘海龙1,2\\*（1.广西壮族自治区林业科学研究院，南宁530002；2.广西特色经济林培育与利用重点实验室，南宁 530002；3.中国科学院昆明植物所，昆明650201；4.中国科学院大学，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探讨澳洲茶树组培苗耐受低温的能力及对低温胁迫的响应机制，该文测定了3 月龄澳洲茶树组培苗低温处理过程及恢复培养后叶片叶绿素(Chl)、丙二醛(MDA)、抗氧化物酶(SOD,POD,CAT)、抗坏血酸(AsA)、谷胱甘肽(GSH)、可溶性糖(SS)、可溶性蛋白(SP)、游离脯氨酸(Pro)的变化。结果表明：(1)-5℃胁迫 $2 4 \\mathrm { ~ h ~ }$ ，保护酶及抗氧化物质含量均显著下降，MDA 含量显著上升。 $( 2 ) 0 ^ { \\circ } \\mathrm { C }$ 下，AsA 和 GSH 先降后升，POD和CAT相反，SOD持续升高；胁迫 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后保护酶活性显著升高，抗氧化剂含量显著降低。(3)10℃下，SOD 活性先降后升；胁迫 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，渗透调节物质含量均显著升高。因此，3月龄澳洲茶树组培苗在 ${ } _ { - 5 } \\ { } ^ { \\circ } { \\mathrm { C } }$ 受到致死冻害，幼苗能通过启动抗氧化系统及快速积累渗透调节物质响应 $0 ^ { \\circ } \\mathrm { C }$ 以上低温胁迫，但对 $1 0 ^ { \\circ } \\mathrm { C }$ 和 $0 ^ { \\circ } \\mathrm { C }$ 两种低温胁迫的应答机制却存在一定的差异。该研究结果将有助于深入了解其对低温的耐受能力及生理响应机制，为合理引种及规模化种植提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：澳洲茶树，低温胁迫，形态特征，抗氧化物酶，抗氧化剂，渗透调节物质中图分类号：Q945 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of low temperature stress on physiological characteristics of Melaleuca alternifolia tissue culture seedlings ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiaoning $^ { 1 , 2 }$ , YANG Hong34, ZHANG Ye1,2, CHEN Bowen $^ { 1 , 2 }$ , XIAO Yufei12, QIN Zihai12,LIU Hailong1,2\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.Guangxi Forestry Research Institute,Nanning 53ooo2,China; 2.Guangxi Key Laboratory of   \nCultivationand UtilizationofCharacteristic EconomicForests,Nanning530o2,China;3.KunmingInstituteof   \nBotany,Chinese Academy ofSciences,Kunming 6502O1,China; 4. University ofChineseAcademy ofSciences, Beijing 100049, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To explore the response and adaptive mechanisms of Melaleuca alternifolia tissue culture seedlings to cold stress,3-month-old tissue culture seedlings were exposed to low temperatures and then recovered at air temperature investigated, the physiological indexes including chlorophyll (Chl),malondialdehyde (MDA), antioxidant enzyme (SOD, POD, CAT), ascorbic acid (AsA), glutathione (GSH), soluble sugar (SS), soluble protein (SP),free proline (Pro) were examined. The results were as follows:(1) The stress at ${ } ^ { - 5 } { } ^ { \\circ } { \\mathrm { C } }$ for $2 4 \\mathrm { ~ h ~ }$ caused a significant decrease in the activity of antioxidant enzyme and the content of antioxidant, but an increase in the content of MDA. (2) At $0 { } ^ { \\circ } \\mathrm { C }$ ，the activities of POD and CAT rose first and then descended,while the contents of AsA and GSH showed an opposite pattern; After $^ { 4 8 \\mathrm { ~ h ~ } }$ of stress,the activities of protective enzymes significantly increased but the contents of antioxidants decreased. (3)At $1 0 ~ ^ { \\circ } \\mathrm { C }$ the activity of SOD first elevated and then declined; all three osmotic regulators manifested a remarkable elevation after the $4 8 \\mathrm { h }$ of stress. Collectively, the 3-month-old tissue cultures seedlings of $M .$ alternifolia could be lethally injured at ${ } ^ { - 5 } \\ ^ { \\circ } \\mathrm { C }$ ，but they were able to survive the low temperature above $0 ~ ^ { \\circ } \\mathrm { C }$ by rapidly increasing protective enzyme activity and accumulating Osmotic regulators.However， there was a certain difference in mechanisms underlying the response to low temperature stress at $1 0 ^ { \\circ } \\mathrm { C }$ and $0 { } ^ { \\circ } \\mathrm { C }$ .The results of this study will help understand its cold resistance ability and physiological response mechanism,which eventually provide the theoretical basis for rational introduction and large scales of planting. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Melaleuca alternifolia,low temperature stress, morphology characteristics, antioxidant enzyme,antioxidants,osmotic regulators ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "澳洲茶树（Melaleucaalternifolia）又称互叶白千层，为桃金娘科（Myrtaceae）白千层属（Melateuca）常绿小乔木，原产澳大利亚（Shabir，2005），其新鲜枝叶提取的精油即澳洲茶树油（Tea treeoil），又称TTO，享誉世界。TTO具抗氧化、抗菌消炎、抗癌等生理活性，能高效、无毒、无刺激地杀死人体皮肤表面的真菌和细菌，并对某些病毒有抑制作用，是迄今为止发现的最有效的天然抗菌剂之一，被广泛应用于制药、日化、食品和生物材料等行业（Sanyang et al.,2017; Byahatti et al.,2018; Felipe et al.,2018; De Assis et al.,2020; Lee et al.,2020）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于其重要的经济价值和巨大的应用潜力，世界各国纷纷引种栽培，我国自20世纪90年代开始引种种植，目前在广东、广西、福建、海南等9个南方省（区）推广种植。大量研究表明，低温胁迫不但影响植物的产量和品质，也影响着植物的引种和分布（何介南等，2019）。低温胁迫会导致细胞膜脂相变，影响细胞膜系统的选择透性和流动性（Yildiz etal.,2014）。受损的细胞膜可进一步造成细胞内活性氧（ROS）的积累，诱发氧化胁迫，引起蛋白质和核酸的氧化，形成脂质过氧化的最终产物MDA。低温胁迫还会抑制叶绿素的合成（曹阳和张旭艳，2019；刘育梅等，2019），影响光合作用和呼吸作用，最终导致植株生长减缓甚至最终死亡。植株在长期进化过程中形成了一系列防御机制，如启动抗氧化系统清除过量的ROS，也可通过提高渗透调节物质浓度增加细胞液浓度，提高细胞保水能力，降低细胞冰点，提高其应对低温胁迫能力（Meng etal.,2015;曹红星等，2017）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4-松油醇型互叶白千层喜阳喜热，怕霜怕低温，适合在年平均气温 $1 9 { \\sim } 2 3 \\ \\ \\mathrm { ~ \\textdegree ~ }$ ，连续霜期不超过一周的地方种植（官自朝，2000；何介南等，2019）。吴丽君（2017）等在福建永安和邵武2个试验地种植了澳洲茶树组培苗和扦插苗，在2014年2月份（1—2月为年气温最低月份，其中2月最低气温分别为-4℃和 $. 5 . 5 ~ \\mathrm { { ^ \\circ C } }$ ）均观察到扦插苗发生严重冻害，而组培苗冻害症状表现较轻，并认为组培苗抗冻能力强于扦插苗。莫邵展等（2008）对2008年我国南方遭受的百年不遇的冰冻灾害前后3年生澳洲茶树叶片电导率、丙二醛、过氧化物酶、硝酸还原酶等4个生理指标进行了研究，认为互叶白千层具有较强的抵抗低温的能力。然而这些研究只停留在少数几个生理指标的测定或单纯形态特征的观察。由于澳洲茶树在我国引种栽培历时短，其抗寒耐性尤其是组培苗的抗寒能力还未见系统研究报道。为深入了解澳洲茶树组培幼苗的抗寒性能及适栽区域，项目组在前人研究的基础上，以移植3个月的澳洲茶树组培苗（出圃移栽的最佳苗龄）为研究对象，通过对 $1 0 ~ ^ { \\circ } \\mathrm { C }$ 、 $0 ~ ^ { \\circ } \\mathrm { C }$ 、 ${ } ^ { - 5 } \\ { } ^ { \\circ } { \\mathrm { C } } { \\mathrm { : } }$ 短期低温胁迫及恢复培养过程中植株叶片形态特征及10个抗寒生理指标变化规律的观测，分析阐述了澳洲茶树耐受低温能力及对低温的响应与适应机制，为开展防寒栽培，合理引种及规模化种植等提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1供试材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验于2018年6月—9月进行，将生根良好的4-松油醇型澳洲茶树组培苗栽植于广西林科院露天苗圃的红泥基质杯里，在此期间苗圃最低温度 $2 4 ^ { \\circ } \\mathrm { C }$ ，最高温度 $3 6 ^ { \\circ } \\mathrm { C }$ 。生长3个月后选取苗高约 $3 0 \\mathrm { c m }$ 、地径约 $0 . 2 \\mathrm { c m }$ 、长势基本一致的上述植株作为供试材料进行生理指标测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $1 0 ~ ^ { \\circ } \\mathrm { C }$ 、 $0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 、 ${ } ^ { - 5 } { } ^ { \\circ } \\mathrm { C } \\ 3$ 个温度处理。低温胁迫处理在光照培养箱进行， $1 6 \\mathrm { h }$ 光照培养，$^ \\textrm { \\scriptsize 8 h }$ 暗培养，光照强度 $4 ~ 8 0 0 ~ \\mathrm { l x }$ 。每天上午8:00手托幼苗喷水至基质，直至基质滴水为止。低温胁迫后将植株转移到露天苗圃中（温度在 $2 4 { \\sim } 3 3 ~ ^ { \\circ } \\mathrm { C }$ 之间）进行恢复培养，水分条件与试验组保持一致。每个温度处理随机选取18株幼苗（3个重复，每重复6株幼苗），分别于胁迫 $_ { \\textrm { 0 h } }$ （对照）、 $1 2 \\mathrm { ~ h ~ }$ 、 $2 4 \\mathrm { ~ h ~ }$ 、 $^ { 4 8 \\mathrm { ~ h ~ } }$ 以及恢复培养 $^ { 7 2 \\mathrm { ~ h ~ } }$ 后摘取6株幼苗相同部位（中上部）叶片 $\\boldsymbol { 0 . 2 \\mathrm { ~ g ~ } }$ 投入液氮，经速冻后转移至 $. 8 0 ~ ^ { \\circ } \\mathrm { C } ;$ 超低温冰箱保存，进行后续相关生理指标的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3测定项目及方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "澳洲茶树叶片丙二醛（MDA）含量采用硫代巴比妥酸法测定；超氧化物歧化酶（SOD）活性采用黄嘌呤氧化酶法测定；过氧化物酶（POD）活性采用愈创木酚法测定；过氧化氢酶（CAT）活性采用过氧化氢分解法测定；可溶性蛋白（SP）采用考马斯亮蓝法测定；可溶性糖（SS）含量用蒽酮比色法测定；叶绿素（Chl）含量、游离脯氨酸（Pro）含量参照李玲等（2009）的方法测定；抗坏血酸（AsA）含量参照Ma＆Cheng（2003）的方法测定；谷胱甘肽（GSH）含量参照施海涛（2016）的方法测定。以上指标采用上海岚派提供的96T试剂盒。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS 20.0和Microsoft Excel对数据进行统计和分析，测定结果为3次平均值±标准误，数据差异的显著性采用 SPSS 单因素方差分析中的Duncan新复极差法进行估算。2结果与分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1低温胁迫对澳洲茶树幼苗植株形态的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可见， $1 0 ~ ^ { \\circ } \\mathrm { C }$ 和 $0 { } ^ { \\circ } \\mathrm { C }$ 低温胁迫 $^ { 4 8 \\mathrm { ~ h ~ } }$ 及恢复培养 $^ { 7 2 \\mathrm { ~ h ~ } }$ 后，植株叶型叶色与对照基本一致； $- 5 ^ { \\circ } \\mathrm { C } ,$ 胁迫 $2 4 \\mathrm { h }$ ，植株叶片卷曲下垂，叶色变为灰绿色，且恢复培养 $7 2 \\mathrm { { h } }$ 后不能恢复正常形态，故该温度下只在 $0 \\mathrm { h }$ 、 $1 2 \\mathrm { h }$ 、 $2 4 \\mathrm { h } 3 \\$ 个时间点取样进行各生理指标的测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ee3592fc57fca88821fbc97f1539dc8cbc99b666e939076984a215cbd32d6e2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a.对照；b. $1 0 ~ ^ { \\circ } \\mathrm { C }$ 处理 $4 8 \\mathrm { h }$ ；c. $0 ^ { \\circ } \\mathrm { C }$ 处理 $4 8 \\mathrm { { h } }$ ；d. ${ } - 5 ^ { \\circ } \\mathrm { C }$ 处理 $2 4 \\mathrm { h }$ ；e. $0 ^ { \\circ } \\mathrm { C }$ 胁迫 $4 8 \\mathrm { h }$ 后回复常温培养 $7 2 \\mathrm { { h } }$ ;f.  \n$. 5 ^ { \\circ } \\mathrm { C }$ 胁迫 $2 4 \\mathrm { h }$ 后回复常温培养 $7 2 \\mathrm { { h } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a. CK; b. $1 0 ~ ^ { \\circ } \\mathrm { C }$ stress for $4 8 \\mathrm { ~ h ~ }$ ;c. $0 { } ^ { \\circ } \\mathrm { C }$ stress for $4 8 \\mathrm { { h } }$ ;d. ${ } _ { - 5 } { } ^ { \\circ } { \\mathrm { C } }$ stress for $2 4 \\mathrm { h }$ ;e. $^ { 7 2 \\mathrm { h } }$ recovered at air temperature after $0 { } ^ { \\circ } \\mathrm { C }$ stress for $4 8 \\mathrm { ~ h ~ }$ ； f.72hrecoveredatairtemperatureafter ${ } _ { - 5 } { } ^ { \\circ } { \\mathrm { C } }$ stress for $2 4 \\mathrm { h }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effects of low temperature stress on plant morphology of Melaleuca alternifolia ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2低温胁迫下澳洲茶树幼苗抗寒生理指标的变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1低温胁迫下叶绿素含量的变化",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/82e310801026de773c0bb1ba5711ee77b16ad4593855c1cf2b9d5060f9a2db55.jpg",
+        "img_caption": [
+            "图1低温胁迫对澳洲茶树植株形态的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2显示，叶绿素含量在 $. 5 ~ ^ { \\circ } \\mathrm { C }$ 胁迫下变化不显著；在 $1 0 ~ ^ { \\circ } \\mathrm { C }$ 和 $0 \\ { } ^ { \\circ } \\mathrm { C }$ 下呈降-升-降的动态波动。叶绿素的合成是一个极其复杂的过程，包含一系列的酶促反应。胁迫初期叶绿素含量的降低可能是低温抑制了合成过程中催化酶的活性，进而影响了叶绿素的合成。总体而言，在整个胁迫过程中叶绿素含量变化规律不明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H72表示低温胁迫后回复常温培养 $7 2 \\mathrm { h }$ 。下同。   \nH72 indicates $^ { 7 2 \\mathrm { ~ h ~ } }$ of recovering culture at air temperature after low temperature stress. The same below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Effects of low temperature stress on chlorophyll content of leaves ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2低温胁迫下丙二醛含量的变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3显示， ${ } - 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 胁迫下MDA含量持续升高， $0 \\mathrm { { ^ \\circ C } }$ 和 $1 0 \\ \\mathrm { ^ { \\circ } C }$ MDA含量均呈现先升后降的趋势。其中 $0 \\mathrm { { ^ \\circ C } }$ 下胁迫 $2 4 \\mathrm { h }$ 开始下降， $1 0 \\ \\mathrm { { ^ \\circ C } }$ 下回复培养后才开始下降。3种温度下，MDA含量均较胁迫前显著升高，说明MDA含量对低温胁迫较敏感。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60a2def027d95abb59ac8523cc988153944afa063f63451ab3e01c9414e383f9.jpg",
+        "img_caption": [
+            "图2低温胁迫对叶片叶绿素含量的影响",
+            "图3低温胁迫对叶片MDA含量的影响Fig.3 Effects of low temperature stress on MDA content of leaves"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3低温胁迫下保护酶活性的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4、图5、图6显示， $- 5 ^ { \\circ } \\mathrm { C }$ 胁迫 $2 4 \\mathrm { h }$ 后，3种酶活性均显著降低； $0 { } ^ { \\circ } \\mathrm { C } ,$ 胁迫下，SOD活性持续增加，POD和CAT先升后降，表明 $0 { } ^ { \\circ } \\mathrm { C }$ 胁迫初，3种酶活性迅速升高以响应低温胁迫，SOD参与整个胁迫过程中自由基的清除； $1 0 ^ { \\circ } \\mathrm { C }$ 胁迫下POD和CAT活性先升后降，SOD先降后升，胁迫前12hSOD活性下降可能是因为 $1 0 ^ { \\circ } \\mathrm { C }$ 低温胁迫抑制了SOD活性，或SOD对较为缓和的 $1 0 ^ { \\circ } \\mathrm { C }$ 低温不敏感。总之，3种酶在 $1 0 ^ { \\circ } \\mathrm { C }$ 和 $0 ^ { \\circ } \\mathrm { C }$ 胁迫 $4 8 \\mathrm { { h } }$ 后含量均显著上升（除 $1 0 ^ { \\circ } \\mathrm { C }$ 胁迫 $4 8 \\mathrm { h }$ SOD酶活性含量下降外），表明3种抗氧化物酶参与植株应对低温胁迫。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd595cb81ce43c1ac376b33a6b178887979b0f1ef46e0c514e5c6b699f296a8a.jpg",
+        "img_caption": [
+            "图4低温胁迫对叶片SOD活性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bfa991bd560139cdb838b5aec52d6b0503313524ce899af5e3c3f5992f4a462.jpg",
+        "img_caption": [
+            "Fig.4Effects of low temperature stress on SOD activity of leaves ",
+            "图5低温胁迫对叶片POD含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dba4f72111517cf675f351726c4540a8fc2927b09be28ce86a0e14c331ba4923.jpg",
+        "img_caption": [
+            "Fig.5Effects of low temperature stress on POD activity of leaves "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Effects of low temperature stress on CAT activity of leaves ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4低温胁迫下非酶抗氧化物质含量的变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图7、图8显示， ${ } - 5 ~ ^ { \\circ } C$ 胁迫 $2 4 \\mathrm { ~ h ~ }$ ，AsA和GSH含量均显著下降；AsA在 $1 0 ~ ^ { \\circ } \\mathrm { C }$ 和 $0 ~ ^ { \\circ } \\mathrm { C }$ 含量先降后升，GSH在 $1 0 ~ ^ { \\circ } \\mathrm { C }$ 也呈先降后升的趋势，在0℃呈降升降的动态波动。推测AsA及GSH含量先降后升可能是前期作为底物参与抗氧化系统，后再循环重新生成。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/00eb15a237bd4a8a332ffcaec2e9b4eb686713cb23a6e1c61eca72690d7a3249.jpg",
+        "img_caption": [
+            "图6低温胁迫对叶片CAT活性的影响 ",
+            "图7低温胁迫对叶片AsA含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/879618a94dd7473052733c2df2d0b15b2887e867d3668179883903df967156bc.jpg",
+        "img_caption": [
+            "Fig.7Effects oflow temperature stress on AsA content ofleaves ",
+            "图8低温胁迫对叶片GSH活性的影响Fig.8 Effects of low temperature stress on GSH content of leaves"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.5低温胁迫下渗透调节物质含量的变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图9、图10、图11显示， $- 5 ^ { \\circ } \\mathrm { C }$ 胁迫 $2 4 \\mathrm { h }$ Pro 含量显著下降，SS含量显著上升，SP含量略有升高，但变化不显著； $0 \\ { } ^ { \\circ } \\mathrm { C }$ 胁迫前后SP含量显著增加，SS和Pro含量没有显著变化；$1 0 { } ^ { \\circ } \\mathrm { C } ,$ 胁迫前后，3种物质含量均显著增加，表明植株可能通过渗透调节物质的积累应对较缓和的低温胁迫。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/db10feda54ebc43ed9f71a1192db2739062ddcccc8e5d297aeed3ba913abe510.jpg",
+        "img_caption": [
+            "图9低温胁迫对叶片游离脯氨酸含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f06deff28be049f8dfbfb54d526e40f0c2403797b4202c36b7aa3b4563e24e37.jpg",
+        "img_caption": [
+            "Fig.9 Effects of low temperature stress on free proline content of leaves ",
+            "图10低温胁迫对叶片可溶性糖含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8880f61d26862ba6ad4808fbca6f99449aa976235282089f0d015a226ef17845.jpg",
+        "img_caption": [
+            "Fig.10 Effects of low temperature stress on soluble sugar content of leaves ",
+            "图11低温胁迫对叶片可溶性蛋白含量的影响",
+            "Fig.11 Effects of low temperature stress on soluble protein content of leaves "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "低温是限制植物生长、发育和分布的重要环境因子。树木在幼苗阶段在生理和形态等方面对低温胁迫较敏感，会导致细胞损伤、生长减缓，甚至植株死亡（Yildizetal.,2014）。细胞膜系统是植物受低温伤害的原发部位，低温胁迫积累的过量的ROS会诱发膜脂过氧化，MDA是膜脂过氧化的最终产物，它通过与膜结构上的酶和蛋白质相结合、交联并使之失去活性来破坏细胞膜结构。因此，MDA含量能直接反映膜受损程度（Rakei etal.，2016）。3种温度胁迫下，澳洲茶树幼苗叶片 MDA含量均较胁迫前显著增加，推测低温胁迫对细胞膜系统产生的损害在 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 就已经发生。红松和西伯利亚松MDA含量的变化也表明，幼苗早在0℃就开始经历低温造成的损伤（Wangetal.,2019）。MDA 含量的变化受胁迫程度、胁迫时间等因素影响，如0℃低温下MDA含量先升后降，达到最大值的时间为 $2 4 \\mathrm { ~ h ~ }$ ，表明此时植株受到的损伤达到最大（Wanget al.，2019），之后通过启动应激防御系统如抗氧化系统完成对膜系统损伤的有效修复。在 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，MDA含量持续缓慢上升，直到恢复培养后含量才逐渐下降。推测这与10℃下膜系统受到的损伤比较缓和有关，这种MDA在短期较为缓和的低温胁迫下持续缓慢增加的现象体现了植株对轻度低温逆境的适应能力及对轻度低温损伤的承受能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "低温逆境在提高细胞ROS 水平的同时，也会诱发植物防御体系的建立，SOD、POD、CAT、AsA、GSH等参与逆境胁迫中ROS的清除，其活性或含量的升高被认为是植物体对逆境胁迫的一种应激反应，可增强植物的抗逆性（Diaz etal.,2019）。研究表明冷冻诱导 ROS 抗氧化酶表达升高以清除过量的 ROS，是红豆杉抗冻机制之一（Meng et al.,2017）。SOD是植物防御体系中的第一道防线，能催化超氧阴离子（ $\\left. \\mathbf { O } _ { 2 } ^ { - \\cdot } \\right.$ ）生成毒性较小的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ ， $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 可进一步被 POD 和CAT 分解成水和氧气（Farhangi Abriz& Torabian,2017）。研究表明 SOD活性变化与植物抗寒性能有关，一般认为SOD的活性可以被低温所激活，使其提高对低温的适应能力，当低温时间延长时，活性随着胁迫时间的推移而下降（邹志荣和陆帼一，1994）。但不同物种，甚至是同一物种不同抗寒能力的品种在应对低温胁迫时，SOD变化规律都不尽相同，如 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 、6℃、0℃胁迫 $^ { 1 2 \\mathrm { ~ h ~ } }$ 后大花五碰果SOD活性较 $2 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 对照显著升高，非洲桃花心木保持不变，双翼豆则显著下降（何跃君等，2008）；抗寒性强的“东农冬麦1号”，SOD先升后降，抗寒性弱的“济麦 22”，SOD活性在胁迫前期基本维持平稳，后随时间延长呈现先下降再上升的趋势（孙蕊等，2015）。SOD活性的变化还与胁迫程度及时间有关。本研究中 $0 \\ \\mathrm { { ^ \\circ C } }$ 下SOD活性持续升高， $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ SOD 活性先降后升，这与海南山竹子SOD 的变化规律相似，海南山竹子 $3 \\ \\mathrm { ^ \\circ C }$ 胁迫 $^ { 1 2 \\mathrm { ~ h ~ } }$ 后SOD活性较 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 显著升高，而 $1 0 ^ { \\circ } \\mathrm { C }$ 则显著下降（何跃君等，2008）。推测 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 胁迫前期SOD 活性的下降可能是低温抑制的结果，随着胁迫时间的延长，SOD抗氧化系统逐渐被激活。植物的抗寒响应是一个复杂的过程，受多种酶和非酶系统共同调节，本研究中 $1 0 ^ { \\circ } \\mathrm { C }$ 胁迫过程中，虽然 SOD 活性显著低于胁迫前，但其它2种保护酶胁迫后活性显著升高；同时，在0℃下3种保护酶活性均显著增加，这表明多种抗氧化酶协同作用，共同参与澳洲茶树对低温胁迫的响应和适应过程。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AsA、GSH作为抗氧化剂也可通过多种途径直接或间接的猝灭活性氧（Farhangi-Abriz&Torabian，2017）。研究表明低温胁迫显著增加了地中海松树幼苗GSH的含量，且在耐冷性品种积累量约为冷敏感的5倍多（Taibietal.,2018）。本研究中 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 和0℃下AsA、GSH先降后升，推测这两种抗氧化物质胁迫初期作为底物参与抗氧化系统，后通过AsA-GSH再循环生成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "可溶性糖（SS）是植物生长最基本的能量来源，同时也作为冷冻保护剂、渗透调节物质、活性氧清除剂，以及信号分子调节与抗冷相关基因的表达，以保护植物免受低温伤害(Ma et al., 2009; Ruelland et al.,2009; Van den Ende & Valluru,2009; Wei et al.,2017），因此其含量与耐寒性密切相关（Rubio et al.,2016; Zhao et al.,2020）。低温胁迫时，蔗糖可分解为葡萄糖和果糖，使 SS 的浓度加倍，从而维持低温胁迫时的渗透平衡（Ruan＆ Yong,2014）。本研究中，SS含量在-5℃持续上升，推测可能是在 $. 5 \\ \\mathrm { { ^ \\circ C } }$ 叶片细胞结构受到严重破坏，蔗糖分解或前期积累的SS来不及代谢的结果；在 $0 \\ \\mathrm { { ^ \\circ C } }$ 和 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 先升后降，前期含量升高快速响应低温胁迫，后期降低的原因可能是植物内部代谢消耗所致。可溶性蛋白（SP)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为一种低温诱导蛋白，其含量随低温锻炼的进行而升高（Zhangetal.,2019）。增加的SP 可能包含在低温胁迫中参与生化调节的酶和蛋白，以及与信号、调控、保护、修复逆境损伤相关的蛋白（Strimbecketal.,2015）。澳洲茶树无性系幼苗在 $0 \\ \\mathrm { { ^ \\circ C } }$ 和 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 可忍受的低温范围内随胁迫的持续其 SP含量持续增加，在-5℃较恶劣的条件下 SP先升后降。这与松树的研究结果刚好相反，在0℃和和-20℃可忍受的温度范围内SP含量随胁迫时间的延长先升后降，而在-60℃和-80℃则保持稳定（Wang etal.,2019），推测 SP的不同变化规律与这两个树种的低温耐性有关，松树是耐寒树种，澳洲茶树对低温相对较为敏感。脯氨酸（Pro）含量的升高也常被用作衡量植物对低温逆境的适应能力（苏建华，2017）。然而本研究中，仅在 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 胁迫48hPro含量持续显著增加，0℃胁迫Pro含量呈升降升的动态平衡， $- 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 则直线下降。 $- 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ Pro含量的直线下降可能是由细胞膜透性和完整性受到损伤引起的细胞液渗漏导致的。总言之，Pro、SS、SP 三种渗透调节物质在0℃和 10℃两种低温胁迫初期 $1 2 \\mathrm { ~ h ~ }$ 迅速增加，且在 $1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 胁迫后显著增加。这似乎预示着在这两种低温胁迫下，澳洲茶树均能通过快速积累渗透调节物质含量迅速进行响应。总体而言，植株在响应 $0 \\ \\mathrm { { ^ \\circ C } }$ 和 $1 0 \\ \\mathrm { ^ \\circ C }$ 低温胁迫时表现出一定的差异性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对不同低温胁迫的澳洲茶树外观形态及10个与抗寒密切相关的生理指标的观测，结果表明澳洲茶树组培苗能忍受 $0 \\ \\mathrm { { ^ \\circ C } }$ 以上低温胁迫，在-5℃下受到低温冻害较严重，这与苏建华（2017）的研究结果相似，即澳洲茶树组培苗至少可以忍受短暂的0℃左右低温。而吴丽君等（2014）的研究认为澳洲茶树组培苗较扦插苗抗寒，在 $- 5 . 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 的低温下，组培苗仅有轻微冻伤，且随气温升高可陆续恢复叶色。与本结果不一致的可能原因是吴丽君的研究对象苗龄较大且种植在田间经历了自然降温的抗寒锻炼。因此生产中，建议种植区域极端低温在 $0 \\ \\mathrm { { ^ \\circ C } }$ 左右，若在0℃以下区域种植，尽量在9月份以前完成造林，以保证幼苗有足够的生长时间以增加其抗寒性能。关于不同苗龄的组培幼苗、成年植株的抗寒性及对低温的响应机制今后需进行进一步的研究验证。总之，本文系统研究了澳洲茶树组培苗耐受低温能力及对低温的响应与适应机制，为今后开展科学合理栽培，引种及规模化种植等提供了理论依据。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢中国科学院昆明植物研究所刘莉研究员对文章撰写给予了指导，谨致谢意！",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "BYAHATTI SM，BOGAR C，BHAT K, et al., 2018. Evaluation of anticancer activity of Melaleuca alternifolia (i.e.,tea tree oil) on colon cancer cell line (HT29) - An in vitro study[J].J Adv Clin Res Insights, 5(4): 99-103.   \nCAO HX, ZHANG JC,LEI XT, et al.， 2017. Physiological and biochemical respond to low temperature of different oil palm germplasm[J]. J Yunnan Agric Univ,32 (2): 316-321.[曹 红星，张骥昌，雷新涛，等，2017.不同油棕资源对低温胁迫的生理生化响应[J].云南 农业大学学报，32（2）：316-321.]   \nCAO Y, ZHANG XY,2O19. Study on cold resistance of four evergreen broad-leaved plant leaves[J].JShanxiAgric Sci,47(3):334-336.[曹阳，张旭艳，2019.4种常绿阔叶植物叶 片抗寒性研究［J].山西农业科学，47（3）：334-336.]   \nDE ASSIS KMA, DE ARAUJO REGO RI, DE MELO DF, et al., 2020. Therapeutic potential of Melaleuca alternifolia essential oil in new drug delivery systems[J]. Curr Pharm Des,26(33): 4048-4055.   \nDIAZ ML, SORESI DS, BASUALDO J, et al., 2019. Transcriptomic response of durum wheat to cold stress at reproductive stage[J]. Mol Biol Rep, 46(2): 2427-2445.   \nFARHANGI ABRIZ S， TORABIAN S,2017. Antioxidant enzyme and osmotic adjustment changes in bean seedlings as affected by biochar under salt stress[J]. Ecotoxicol Environ Safety, 137(3): 64-70.   \nFELIPE LD, DASILVA WF, DE ARAUJO KC, et al., 2018. Lactoferrin, chitosan and Melaleuca alternifolia-natural products that show promise in candidiasis treatment[J]. Braz JMicrobiol, 49(2): 212-219.   \nGUAN ZC,2OOo0.Melaleuca alternifolia essential oil and its cultivation techniques[J]. Yunnan Agric,15(7):7-8．[官自朝，2000.澳洲茶油树及其栽培技术[J].云南农业，15（7）： 7-8.]   \nHE JN, Liu H, LI JA, et al., 2O19. Research progress of planting and cultivation technology on Melaleuca alternifolia of terpineol-4[J]. JCent S Univ For Technol, 39(9): 8-15.[何介南, 刘昊，李建安，等，2019.松油醇-4 型互叶白千层种植栽培研究进展［J].中南林业科技 大学学报，39（9）：8-15.]   \nHE YQ, XUE L，REN XR,et al.， 2008. Effects of low temperature stress on physiological characteristics of six tree species seedlings[J]. Chin JEcol, 27(4): 524-531.[何跃君，薛立, 任向荣，等，2008．低温胁迫对六种苗木生理特性的影响[J].生态学杂志，27（4）： 524-531.]   \nLEE JY,LEE J, KO SW,et al., 2020.Fabrication of antibacterial nanofibrous membrane infused with essential oil extracted from tea tree for packaging applications[J]. Polymers,12 (1): 125.   \nLI L,LI NH, JIANG SM, et al., 2009. Module experiment guide of plant physiology[M]. Beijing: Science Press．[李玲，李娘辉，蒋素梅，等，2009.植物生理学模块实验指导[M]．北 京：科学出版社.]   \nLIU YM, JIN L, SONG ZY,et al., 2O19. A study on cold resistance in five Sapotaceae fruit trees[J].JFruit Sci,36(2):195-202．[刘育梅，金亮，宋志瑜，等，2019.5 种山榄科果 树的耐寒性研究［J].果树学报，36（2）：195-202.]   \nMA FW, CHENG LL, 2O03. The sun-exposed peel of apple fruit has higher xanthophyll cycledependent thermal dissipation and antioxidants of the ascorbate-glutathione pathway than the shaded peel[J]. Plant Sci, 165(4): 819-827.   \nMA YY, ZHANG YL,LU J,et al., 2OO9. Roles of plant soluble sugars and their responses to plant cold stress[J]. Afr J Biotechnol, 8(10): 2004-2010.   \nMENG DL, YU XH, MA LY, et al., 2017. Transcriptomic response of chinese yew (Taxus chinensis) to cold stress[J]. Front Plant Sci, 8(2): 468.   \nMENG P,BAI X,LI H, et al.， 2015. Cold hardiness estimation of Pinus densiflora var. zhangwuensis based on changes in ionic leakage，chlorophyll fluorescence and other physiological activities under cold stress[J]. JFor Res (Harbin), 26(3): 641-649.   \nMO SZ, SHI FJ, LIANG HQ, 2008. Physiological response of Melaleuca leucadendron to cold damage[J].JAnhui Agric Sci,36(33): 14399-14400.[莫昭展，施福军，梁海清，2008.互 叶白千层对冷害的生理响应［J].安徽农业科学，36（33）：14399-14400.]   \nRAKEI A，MAALI AMIRI R，ZEINALI H,et al.，2016. DNA methylation and physiobiochemical analysis of chickpea in response to cold stress[J]. Protoplasma, 253(1): 61-76.   \nRUAN YL， YONG L, 2014. Sucrose metabolism: Gateway to diverse carbon use and sugar signaling[J]. Annu Rev Plant Biol, 65(1): 33-67.   \nRUBIO S, DANTAS D, BRESSAN SMITH R, et al., 2016. Relationship between endodormancy and cold hardiness in grapevine buds[J]. Plant Growth Regul, 35(1): 266-275.   \nRUELLAND E, VAULTIER MN, ZACHOWSKI A, et al., 2009. Chapter 2 cold signalling and cold acclimation in plants[J]. Adv Bot Res, 49:35-150.   \nSANYANG ML, MUNIANDY Y, SAPUAN SM, et al., 2017. Tea tree (Melaleuca alternifolia) fiber as novel reinforcement material for sugar palm biopolymer based composite films[J]. Bioresources, 12(2): 3751-3765.   \nSHABIR GA,20O5. Method development and validation for the GC-FID assay of p-cymene in tea tree oil formulation[J]. JPharmaceut Biomed, 39(3): 681-684.   \nSHI HT,2016. Guidance of physiological tests of plant stress[M]. Beijing: Science press: 62-65. [施海涛，2016.植物逆境生理学实验指导[M].北京：科学出版社：62-65.]   \nSTRIMBECK GR，SCHABERG PG,FOSSDAL CG,et al.，2015.Extreme low temperature tolerance in woody plants[J]. Front Plant Sci, 6 (4): 884.   \nSU JH,2017. Growth effect and key technology of Melaleuca alternifolia in hillyarea of Yong'an, Fujian[J].Anhui Agric Sci Bull,23(12):106-109.[苏建华，2017．福建永安丘陵山地互叶 白千层种植生长效果与关键技术试验［J].安徽农学通报，23（12）：106-109.]   \nSUN R,LIN Q, WANG XN, 2015. Comparative analysis of anti-oxidative physiological indices on winter wheat in frigid region[J]. Chin Agric Sci Bull,31(12): 1-5.[孙 蕊，林 奇，王晓 楠，2015.低温下寒地冬小麦抗氧化生理指标的比较分析[J].中国农学通报，31（12）： 1-5.]   \nTAIBI K, DEL CAMPO AD，VILAGROSA A，et al.， 2018.Distinctive physiological and molecular responses to cold stress among cold-tolerant and cold-sensitive Pinus halepensis seed sources[J]. BMC Plant Biol, 18(1): 236-247.   \nVAN DEN ENDE W，VALLURU R, 2009. Sucrose, sucrosyl oligosaccharides, and oxidative stress: scavenging and salvaging?[J]. JExp Bot, 6O(1): 9-18.   \nWANG F,LIANG D,PEI X, et al.,2O19. Study on the physiological indices of Pinus sibirica and Pinus koraiensis seedlings under cold stress[J].JFor Res (Harbin),30(4): 1255-1265.   \nWEI YY, XU F, SHAO XF, 2017. Changes in soluble sugar metabolism in loquat fruit during different cold storage[J].JFood Sci Technol, 54(5): 1043-1051.   \nWU LJ, CHENG D,GAO N, et al.， 2017. Tissue cultivation of high-essential-oil Melaleuca altennifolia[J].FujianJAgric Sci,32(7):734-738.[吴丽君，陈达，高楠，等，2017．高 含油互叶白千层高效栽培配套技术研究［J]．福建农业学报，32（7）：734-738.]   \nYILDIZ D, NZOKOU P, DELIGOZ A, et al., 2014. Chemical and physiological responses of four Turkish red pine (Pinus brutia Ten.) provenances to cold temperature treatments[J]. Eur JFor Res, 133(5): 809-818.   \nZHAO Y,WANG ZX,YANG YM, 2020. Analysis of the cold tolerance and physiological response differences of amur grape (Vitis amurensis） germplasms during overwintering[J]. Sci Hortic, 259(1): 1-9.   \nZHANG Y, JIA ML， CAO DM,et al.， 2019. Analysis on cold tolerance of Pachysandra terminalis and selection of evaluation indexes[J]. J Shanxi Agric Sci, 47(3): 337-341.[张雨, 贾民隆，曹冬梅，等，2019．顶花板凳果耐寒性分析及评价指标的筛选［J].山西农业 科学，47（3）：337-341.]   \nZOU ZR,LU GY，1994. The effect of chilling stress on membrane lipid peroxidation and protective enzyme in pepper seedlings[J]. Acta Agric Boreal-Occident Sin, 3(3): 51-56.[邹 志荣，陆帼一，1994.低温对辣椒幼苗膜脂过氧化和保护酶系统变化的影响[J].西北农 业学报，3（3）：51-56.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

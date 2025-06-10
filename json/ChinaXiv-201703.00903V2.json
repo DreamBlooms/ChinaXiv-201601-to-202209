@@ -1,0 +1,302 @@
+[
+    {
+        "type": "text",
+        "text": "Preparation and Electrochemical Properties of High Purity Mixed-Acid Electrolytes for High Energy Density Vanadium Redox Flow Battery ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chuanlin Fan', Haitao Yangl,\\*， Qingshan Zhul,2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratory of Multiphase Complex Systems, Institute of Process Engineering, Chinese   \nAcademy of Sciences, Beijing 100190,P.R. China   \n2 University of Chinese Academy of Sciences, Beijing 100049,P. R.China   \n$^ \\mathrm { { ^ * } E }$ mail: yhtao@ipe.ac.cn (H. Yang), qszhu@ipe.ac.cn (Q. Zhu) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:11 April 2017 / Accepted: 7 June 2017 / Published:12 July 2017 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All-vanadium redox flow battery (VRFB) is a large-scale electrochemical energy storage technology with numerous potential applications because of its inherent safety and long service life.In previous years,a novel mixed-acid electrolyte system, vanadium electrolytes with mixture of sulfuric acid and hydrochloric acid, has been developed by the Pacific Northwest National Laboratory (PNNL） to increase vanadium solubility, which can effectively raise the electrolyte energy density from $2 5 ~ \\mathrm { W h / L }$ to 40 Wh/L. To further improve mixed-acid VRFBs, in present work, high purity mixed-acid electrolytes were prepared using a novel direct dissolution - electrochemical reduction process from high purity vanadium oxytrichloride $\\mathrm { ( V O C l _ { 3 } ) }$ . And the purity and electrochemical properties were investigated, comparing with common mixed-acid electrolytes and regular sulfate electrolytes prepared from metallrgical grade vanadium pentoxide. It was found that the novel process demonstrated a great potential for the low cost and high effciency production of high purity electrolytes with excellnt electrochemical properties for mixed-acid VRFBs. Comparing the traditional high purity electrolytes preparation process,the present novel method will dramatically cut the cost by more than 9O percent, which will considerably facilitate the commercial application of high performance and high density VRFBs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: all-vanadium redox flow battery, electrochemical property, high purity, mixed-acid vanadium electrolyte,vanadium oxytrichloride ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As the exhausting of fosil fuels reserves and with the concern on the environmental consequences of their burning,renewable energy generated from sources such as wind and solar has a rising share in the global energy structure. Given the intermitent and unstable nature of wind power and photovoltaic power, these valuable electrical energies are difficult to be integrated into electrical supply grids [1], which has become a serious limit of renewable energy development. The employ of large-scale energy storage is considered as an effective solution of this problem, which can improve the reliability and economy of the renewable energies [2, 3]. Among numerous large-scale energy storage technologies, the all-vanadium redox flow batery (VRFB) is most promising due to its high energy efficiency,short response time,long service life and independent tunable power and storage capacity [4-5]. And multi-MWh VRFB systems for large-scale energy storage have been demonstrated in the global. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrolytes,acidic solutions containing vanadium ions, $\\mathrm { { V } ( I I ) / \\mathrm { { V } ( I I I ) } }$ or $\\mathrm { \\Delta V ( I V ) / V ( V ) }$ , are the most important active material in VRFBs;and their compositions directly influence the performance and service life of bateries.To improve the energy density of electrolytes,the Pacific Northwest National Laboratory (PNNL) has developed the vanadium electrolytes with mixture of sulfuric acid and hydrochloric acid [6]. The complexation of vanadium ion and chloride ion can effectively stabilize pentavalent vanadium ion with high concentration and increase the energy density from $2 5 \\mathrm { W h / L }$ to 40 $\\mathrm { w h / L }$ , resulting in a new research and development hotspot as well as a commercial surge of mixedacid type VRFBs[7]. In several previous works, it was found that a smal number of special ions (e.g., $\\mathrm { P O _ { 4 } } ^ { 3 - } , \\mathrm { I n } ^ { 3 + } )$ with low concentration may help improve the stability and electrochemical property of electrolytes [8,9]. Most impurities in electrolytes,however， especially silicon and alkaline earth elements,can easily precipitate on electrode and proton exchange membrane during the actual operation of VRFB,resulting in battry damage and the cuting down of service life [10,11]. Therefore, VRFB manufacturers constantly increase purity requirements of purchased vanadium oxide to improve the quality of their batery products [12]. In this situation，numerous methods for preparation of high purity vanadium products have been developed， from metallurgical grade vanadium products. The hydrometallurgical processes,purification of ${ \\mathrm { N a V O } } _ { 3 }$ solution by chemical precipitation or solvent extraction [11，13] were employed to remove impurities for vanadium pentoxide production and prepared subsequently high purity electrolytes for VRFBs, which are usually valid for small batch production as well as result in high cost of VRFB manufacture. Hence,a novel alternative process of high purity vanadium electrolytes with low cost and high efficiency should be developed to improve the performance of mixed-acid VRFBs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Metallurgical grade vanadium oxide can be feasibly transformed to gaseous vanadium oxytrichloride $\\mathrm { ( V O C l } _ { 3 } )$ using a carbochlorination process at $4 0 0 { \\sim } 6 0 0 \\ ^ { \\circ } \\mathrm { C }$ ，which is condensed to a liquid product with a boiling point of $1 2 7 ^ { \\mathrm { { o } } } \\mathrm { { C } }$ and purified by distillation to obtain high purity vanadium oxytrichloride for subsequent production of high purity vanadium oxides [14,15]. The high purity intermediate can be used as sources of vanadium and chloride for the preparation of the mixed-acid electrolyte using a novel process as shown in Fig.1, which can drastically reduce the production cost of vanadium electrolytes for VRFBs owing to the cuting out of the complex production steps of high purity vanadium oxide and no external addition of hydrochloric acid as the chloride source [16]. In the novel process,the as-obtained high purity $\\mathrm { \\Delta V O C l } _ { 3 }$ is directly dissolved in a sulfuric acid solution to obtain $\\mathrm { v ( V ) }$ solution,which is then electrochemically reduced to $\\mathrm { V } ( \\mathrm { I V } )$ solution and V(III) solution as the positive electrolyte and negative electrolyte respectively. In present work， the purity and electrochemical properties of the high purity electrolytes prepared from the high purity $\\mathsf { V O C l } _ { 3 }$ were investigated and compared with the electrolytes prepared from metallurgical grade vanadium pentoxide to validate the feasibility of the novel process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b76aaff2cb5ad157251099136ed21aaf17cdaa02cc7b2082d1d95a49f7e2f71.jpg",
+        "img_caption": [
+            "Figure 1. Novel process of high purity vanadium electrolytes for mixed-acid VRFBs "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "High purity $\\mathrm { \\Delta V O C l } _ { 3 }$ was obtained from the distillation of an analytical pure $\\mathrm { \\Delta V O C l } _ { 3 }$ from Alfa Aesar, in a laboratory scale teflon distiller. This distiller is composed of a teflon evaporator,and a teflon condenser.In the distillation process, the analytical pure $\\mathrm { \\Delta V O C l } _ { 3 }$ was added to the evaporator and then heated to $1 2 7 ^ { \\circ } \\mathrm { C }$ ; distilled high purity chlorides vapor was condensed in the condenser; when the distilled fraction reached about $70 \\%$ , the distillation test was terminated. And pre-determined amount of the high purity $\\mathsf { V O C l } _ { 3 }$ was slowly injected into a sulfuric acid solution with strong agitation, to obtain the high purity intermediate vanadium solution containing $2 . 0 \\mathrm { ~ M ~ V ( V ) } , 2 . 0 \\mathrm { ~ M ~ S O _ { 4 } } ^ { 2 - }$ and $6 . 0 \\mathrm { M }$ $\\mathrm { C l ^ { - } ( H P ) }$ ． And two common purity intermediate vanadium solutions，one (MG） with the same composition as above,another one (S） containing $1 . 5 \\mathrm { ~ M ~ V ( V ) }$ and $5 . 0 \\mathrm { ~ M ~ } \\mathrm { S O } _ { 4 } ^ { 2 - }$ ， were prepared from metallurgical grade vanadium pentoxide with the purity of $9 8 . 5 \\%$ (from Chengde Iron & Steel Group, China),which were firstly activated by concentrated sulfuric acid at $1 5 0 ~ \\mathrm { { ^ \\circ C } }$ and then dissolved in a hydrochloric acid or sulfuric acid solution. All the concentrated sulfuric acid $( 9 8 \\% )$ and concentrated hydrochloric acid $( 3 5 \\% )$ used were of analytical grade (AR, Sinopharm, China). And the ultrapure Water was used for all the solution preparation. The three intermediate vanadium solutions (HP,MG and S)were electrochemically reduced respectively in a diaphragm cell with Nafion 117 as the proton exchange membrane,containing an equivalent volume of $3 . 0 \\ \\mathrm { M }$ sulfuric acid solution in the anode chamber. Combining chronoamperometry with chemical titration,three V(IV） solutions (HP-PE,MGPE and S-PE)as the positive electrolytes and three V(III solutions (HP-NE,MG-NE and S-NE) as the negative electrolytes with various purities were obtained respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the purities of prepared mixed-acid electrolytes, the contents of main impurity elements in positive electrolytes (MG-PE and HP-PE) were determined by inductively coupled plasma mass spectrometry (ICP-MS；Agilent 77OO） and inductively coupled plasma optical emission spectrometry (ICP-OES；Agilent 51OO).The electrochemical properties of the electrolytes were investigated with a three-electrodes system at the constant temperature of $2 5 ^ { \\mathrm { ~ \\circ } } \\mathrm { C }$ ，which was composed of a graphite electrode with the reaction area of $1 . 0 ~ \\mathrm { c m } ^ { 2 }$ as the work electrode,a $1 . 0 ~ \\mathrm { c m } ^ { 2 }$ platinum electrode as the counter electrode and a $\\mathrm { H g / H g _ { 2 } S O _ { 4 } . s a t . K _ { 2 } S O _ { 4 } }$ electrode (from Rex Electric Chemical, Shanghai) as the reference electrode.The electrolytes were characterized by cyclic voltammetry and electrochemical impedance spectroscopy on the IM6ex electrochemical workstation (from Zahner, German). And the AC impedance spectroscopy was analyzed using the Zsimpwin software. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Purity of electrolyte ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/36a2df477c230f486513a27286c0382ae79e32f3c61fa05585c9e23dd8c18bc5.jpg",
+        "table_caption": [
+            "Table 1. Impurity contents of common grade mixed-acid electrolyte (MG-PE) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Element</td><td>mg/L</td><td>Element</td><td>mg/L</td></tr><tr><td>Ag</td><td><1</td><td>Mn</td><td>8.7</td></tr><tr><td>Al</td><td>4.6</td><td>Na</td><td>84.8</td></tr><tr><td>Ba</td><td><1</td><td>Ni</td><td><1</td></tr><tr><td>Ca</td><td>22.9</td><td>Pb</td><td><1</td></tr><tr><td>Cd</td><td><1</td><td>Sb</td><td><1</td></tr><tr><td>Co</td><td><1</td><td>Si</td><td>34</td></tr><tr><td>Cr</td><td>38.2</td><td>Sn</td><td><1</td></tr><tr><td>Cu</td><td><1</td><td>Sr</td><td><1</td></tr><tr><td>Fe</td><td>51.0</td><td>Ti</td><td>13.2</td></tr><tr><td>Mg</td><td><1</td><td>Zn</td><td><1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a10c9b58e13b870f14b150a3ad1a1ebeea73b921e6b68c0c38accc69e73b777.jpg",
+        "table_caption": [
+            "Table 2. Impurity contents of the high purity mixed-acid electrolyte (HP-PE) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Element</td><td>mg/L</td><td>Element</td><td>mg/L</td></tr><tr><td>Ag</td><td><1</td><td>Mn</td><td><1</td></tr><tr><td>Al</td><td>2.3</td><td>Na</td><td>10.0</td></tr><tr><td>Ba</td><td><1</td><td>Ni</td><td><1</td></tr><tr><td>Ca</td><td>11.6</td><td>Pb</td><td><1</td></tr><tr><td>Cd</td><td><1</td><td>Sb</td><td><1</td></tr><tr><td>Co</td><td><1</td><td>Si</td><td>2.6</td></tr><tr><td>Cr</td><td><1</td><td>Sn</td><td><1</td></tr><tr><td>Cu</td><td><1</td><td>Sr</td><td><1</td></tr><tr><td>Fe</td><td><1</td><td>Ti</td><td><1</td></tr><tr><td>Mg</td><td><1</td><td>Zn</td><td><1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, the impurities in the vanadium electrolytes would damage the battery and cause degradation of the performance and lifetime due to their precipitation on the electrode and proton exchange membrane. The performance of VRFB is significantly influenced by the impurity in electrolytes [10,11]. With an expected service life of decade or longer， VRFBs with mixed-acid electrolytes will be no exception, in spite of high solubility of impurities in the electrolytes with high chloride ion concentration. The contents of major impurities in common positive electrolyte samples prepared from metallurgical grade vanadium pentoxide (MG-PE, containing 2.O M V(IV), $2 . 0 \\mathrm { M } \\mathrm { S O } _ { 4 } ^ { 2 \\cdot }$ （2014号 and $6 . 0 \\mathrm { M C l \\ \" }$ ） and the high purity positive electrolyte sample (HP-PE,containing $2 . 0 \\mathrm { M } \\mathrm { V } ( \\mathrm { I V } ) , 2 . 0 \\mathrm { M }$ ${ \\mathrm { S O } _ { 4 } } ^ { 2 - }$ and $6 . 0 \\mathrm { M C l ^ { - } }$ ） prepared from the high purity $\\mathrm { \\Delta V O C l } _ { 3 }$ are listed in Table 1 and 2 respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The MG-PE electrolyte sample prepared from metallurgical grade vanadium pentoxide contains many impurity ions with high concentrations of $5 { \\sim } 9 0 ~ \\mathrm { m g / L }$ ， such as $4 . 6 ~ \\mathrm { m g / L }$ Al, $2 2 . 9 ~ \\mathrm { m g / L }$ Ca, $3 8 . 2 \\mathrm { m g / L }$ Cr, $5 1 \\mathrm { m g / L }$ Fe, $8 . 7 \\mathrm { m g / L }$ Mn, $8 4 . 8 ~ \\mathrm { m g / L }$ Na, $3 4 ~ \\mathrm { m g / L }$ Si and $1 3 . 2 \\mathrm { m g / L }$ Ti. While the impurity ions in the HP-PE electrolyte sample prepared from high purity $\\mathsf { V O C l } _ { 3 }$ are mostly less than 1 $\\mathrm { m g / L }$ ; only a few impurities with concentration less than $1 2 { \\mathrm { m g / L } }$ were detected, including Al, Ca, Na and Si, which may come from the sulfuric acid. The metallurgical grade vanadium pentoxide was extracted from a vanadium-titanium bearing magnetite, which is the main vanadium source in industrial practice[16]. Small amounts of elements in the mineral, such as Cr,Fe,Mn and Ti, enter inevitably into vanadium pentoxide. And impurities such as Na and Si may come from the hydrometallurgical process for the vanadium pentoxide production [13]. These impurities are difficult to be removed to the required limit of VRFBs during the extraction process with low cost, resulting in high impurity contents of the MG-PE electrolyte sample. Due to high purity of $\\mathsf { V O C l } _ { 3 }$ from distillation, the contents of these impurities in the HP-PE sample are extremely low,which is very helpful for improvement of VRFB performance. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the electrolytes of VRFB, polyvalent impurities such as Fe,Mn, and Cr may be involved in electrochemical reactions, resulting in the Coulomb efficiency reduction during the charge-discharge cycles.And alkali or alkaline earth metal ions can easily combine with silicate ion in the electrolytes and deposit on the proton exchange membrane and electrode material-graphite felt [10,11]. The precipitation on proton exchange membrane will result in the blocking of proton transfer and the increasing of its resistance.Moreover,the deposition of numerous impurities on fiber surface of graphite felt decreases electrochemical reaction area, leading to the increase of the polarization the decrease of the voltage efficiency. The electrolytes prepared from the high purity $\\mathrm { \\Delta V O C l } _ { 3 }$ using the novel process only contain a few impurities with extremely low contents,demonstrating a good potential for improvement of mixed-acid VRFBs with low cost.Due to the complex of solution chemistry and electrochemical behavior of vanadium electrolytes，however， the electrochemical properties of the high purity electrolytes from the novel process should be further investigated for their actual applications in VRFBs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. Cyclic voltammogram analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For a better characterization of the electrolytes,the electrochemical properties of mixed-acid electrolytes (MG-PE and HP-PE, containing 2.O M V(IV), $2 . 0 \\mathrm { ~ M ~ } \\mathrm { S O } _ { 4 } ^ { 2 - }$ and $6 . 0 \\mathrm { ~ M ~ C l ^ { - } }$ ; MG-NE and HP-NE, containing 2.0 M V(III), $2 . 0 \\mathrm { ~ M ~ } \\mathrm { S O } _ { 4 } ^ { 2 - }$ and $6 . 0 \\mathrm { ~ M ~ C l { \\bar { ) } } }$ ） were investigated with comparison of conventional electrolytes of sulfate VRFB system (S-PE, containing $1 . 5 \\mathrm { ~ M ~ V ( I V ) }$ and $5 . 0 \\mathrm { ~ M ~ } \\mathrm { S O } _ { 4 } { } ^ { 2 - }$ ; S NE, containing 1.5 M V(III) and $5 . 0 \\mathrm { M } \\mathrm { S O } _ { 4 } ^ { 2 - }$ ). The cyclic voltammograms (CVs) on a $1 . 0 \\mathrm { c m } ^ { 2 }$ graphite electrode of the positive electrolytes (S-PE,MG-PE and HP-PE) were conducted at a scanning rate of $5 \\mathrm { m V / s }$ within the scanning voltage range of $0 - 1 . 3 { \\mathrm { V } }$ (vs. SHE). And the results are shown in Fig. 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b59231d19478328b0462c6a757c92dc98cc228f77096c37f82573e6d08a047f1.jpg",
+        "img_caption": [
+            "Figure 2. Cyclic voltammogram on a graphite electrode of positive electrolytes (S-PE, MG-PE and HP-PE) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the curves of Fig.2, the redox peak current densities for $\\mathrm { \\Delta V ( I V ) / V ( V ) }$ redox couple of mixed-acid electrolytes (MG-PE and HP-PE) are obviously higher than that of the sulfate electrolyte (S-PE), which are atributed to the high concentration and fast mobility of vanadium ions in mixedacid electrolytes [6].And the electrochemical reversibilities for $\\mathrm { \\Delta V ( I V ) / V ( V ) }$ redox reaction of MG-PE and HP-PE are more or less identical to that of S-PE,due to the smaller gap between the oxidation peak potential and the reduction peak potential in MG-PE or HP-PE.While the corresponding peak potentials for MG-PE and HP-PE slightly shift to positive direction, consistent with previous reports [6]. Compared with the common mixed-acid electrolyte (MG-PE),the redox peak potentials of high purity mixed-acid electrolyte (HP-PE) are basically the same, while the current densities show slightly higher value. It indicates that the system of high purity mixed-acid electrolyte and graphite electrode demonstrates a high electrochemical activity, which may be atributed to its lower content of impurity silicate ion as listed in Table 2,which could adsorb on electrode surface and reduce its electrode activity [10]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 shows the cyclic voltammograms (CVs) on a graphite electrode of negative electrolytes (S-NE,MG-NE and HP-NE) at a scanning rate of $5 \\mathrm { m V / s }$ within the scanning voltage range of $- 0 . 5 -$ $0 . 2 \\mathrm { ~ V ~ }$ (vs. SHE). Fig. 3 shows similar trends to the above description about the positive electrolytes. Compared with the sulfate electrolyte (S-NE), the mixed-acid electrolytes (MG-NE and HP-NE) have higher redox peak current densities for $\\mathrm { { V } ( I I ) / \\mathrm { { V } ( I I I ) } }$ redox couple. Among the three samples, the redox peak current densities of high purity mixed-acid electrolyte (HP-NE) are the highest, which are slightly higher than these of common mixed-acid electrolyte (MG-NE). The reasons should be same as that from the analysis of the positive electrolytes as mentioned above. The oxidation peak potential $\\mathrm { \\nabla { V ^ { 2 + } } }$ to $\\mathbf { V } ^ { 3 + } )$ of HP-NE is almost the same with that of MG-NE. However, the reduction peak potential $\\mathrm { \\Delta V ^ { 3 + } }$ to $\\mathrm { V } ^ { 2 + } ,$ ）of HP-NE slightly shifts in the positive direction,displaying depolarization behaviors.This can be attributed to that the impurities such as Fe,Si, Cr(Table 1) in the MG-NE are more easily to be adsorbed and deposited on the electrode surface in the negative potential area, which will reduce its electrochemical activity [10]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/020b00facb4e1e6323395c18e3d3c86e99f6e3441638452c5a2f28f4f93e96e9.jpg",
+        "img_caption": [
+            "Figure 3. Cyclic voltammogram on a graphite electrode of negative electrolytes (S-NE, MG-NE and HP-NE) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From the above CV study,the electrochemical properties of high purity mixed-acid electrolytes prepared from high purity $\\mathsf { V O C l } _ { 3 }$ using the novel process are slightly better than those of the MG mixed-acid electrolytes prepared from metallurgical grade vanadium pentoxide using traditional process,but significantly beter than these of the sulfate electrolytes.The electrochemical reaction behaviors of certain impurity ions in the common mixed-acid electrolytes were not found due to their low concentrations,but their comprehensive negative effects can be verified from the slightly lower redox peak current densities. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0df5db8b2199ecdec8ee136bbc319e30133982ae2b349624ce09d27f144546a2.jpg",
+        "img_caption": [
+            "3.3.Electrochemical impedance spectroscopy "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fae1adcc49e3f8e73530d103c9317b1f4cbed83c75915d9e39ff4dc4148e506.jpg",
+        "img_caption": [
+            "Figure 4. Electrochemical impedance spectroscopy measurements of positive electrolytes (a-S-PE, bMG-PE,c-HP-PE,d-equivalent circuit diagram) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To study the performance of electrolytes involved in electrode reactions,electrochemical impedance spectroscopy (EIS)analysis of the three positive electrolytes (S-PE,MG-PE,and HP-PE) were conducted on $1 . 0 \\mathrm { c m } ^ { 2 }$ graphite electrode. The electrode potential during measurement was set to （204号 $1 . 0 \\mathrm { ~ V ~ }$ (vs. SHE), the standard electrode potential of oxidation of V(IV） to $\\mathrm { v ( V ) }$ . The measurement frequency range was set from $1 0 ^ { 5 }$ to $1 0 ^ { - 1 } \\mathrm { H z }$ , with the disturbing signal of the sine potential of $5 ~ \\mathrm { m V }$ . Fig. 4 shows the results of electrochemical impedance spectroscopy measurements of the three positive electrolytes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A single depressed semicircle in the high frequency region and a sloped line in the low frequency region can be observed in each plot of Fig. 4 (a-c), which demonstrates that the $\\mathrm { \\Delta V ( I V ) / V ( V ) }$ （20 redox reaction should be mix-controlled by the charge transfer reaction at the electrolyte/electrode interface and diffusion processes associated with V(IV) and $\\mathrm { V } ( \\mathrm { V } )$ ions through the solution [17,18]. And the Nyquist plots were fited with the simplified equivalent circuit model as shown in Fig. 4 (d) [18]. In the equivalent circuit, $R _ { e }$ represents the ohmic resistance; $R _ { c t }$ represents the charge transfer resistance at the electrode/electrolyte interface [17,19]; $C _ { d l }$ represents the electrical double-layer capacitance at the electrode/electrolyte interface [18]； and $Z _ { W }$ is the representative Warburg impedance,which is the diffusion impedance resulting from vanadium ion diffusion [2O]. The EIS results are obtained by fitting the impedance plots with the equivalent circuit,as listed in Table 3. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d5e8e0e2f7708fd9cff48232b8e7cd30c434d102ea7648e788cfa99e23975cc3.jpg",
+        "table_caption": [
+            "Table 3.Parameters resulting from fitting the impedance plots with the equivalent circuit model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td> Sample</td><td>Re (Ω·cm²)</td><td>Rct (Ω·cm²)</td><td>Cdt (F·cm2)</td><td>Zw (Ss-5cm2)</td></tr><tr><td>S-PE</td><td>0.970</td><td>1.215</td><td>2.580x10-4</td><td>0.160</td></tr><tr><td>MG-PE</td><td>0.995</td><td>0.210</td><td>2.160x10-4</td><td>0.112</td></tr><tr><td>HP-PE</td><td>0.992</td><td>0.171</td><td>2.150x10-4</td><td>0.138</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Obviously,there are no significant different in $R e$ for the three samples, implying that the conductivity of the mixed-acid electrolyte is hardly raised as partial replacement of sulfuric acid by hydrochloric acid due to its higher concentration of vanadium ions,comparing with the sulfate electrolyte; and the impurity ions also hardly influence the conductivity of the mixed-acid electrolyte. Both electrical double-layer capacitance $( C _ { d l } )$ and Warburg impedance $( Z _ { w } )$ are similar for the three samples. However, $R _ { c t }$ of MG-PE sample and HP-PE sample are $0 . 2 1 0 \\Omega ^ { . } \\mathrm { c m } ^ { 2 }$ and $0 . 1 7 1 \\Omega ^ { . } \\mathrm { c m } ^ { 2 }$ respectively,much lower than that of the sulfate electrolyte sample S-PE $( 1 . 2 1 5 \\ \\Omega ^ { . } \\mathrm { c m } ^ { 2 } )$ . The reduced $R _ { c t }$ implies the transfer of electron is more feasible between mixed-acid electrolyte and electrode. And the resistance of electron transfer for the common mixed-acid electrolyte (MG-PE) is slightly higher than that for the high purity mixed-acid electrolyte (HP-PE),which may be atributed to its lower content of impurities deposited on electrode surface and reduce its electrode activity [1O]. The high purity mixed-acid electrolyte shows the lowest charge transfer resistance and best electrochemical activity on graphite electrode for the related redox couple, which is corresponding to the CV results. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4. Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It is noted that the high purity mixed-acid electrolytes prepared from high purity $\\mathsf { V O C l } _ { 3 }$ using the novel process demonstrate relatively good electrochemical properties, comparing with common mixed-acid electrolytes prepared from metallurgical grade vanadium pentoxide, which is much better than the sulfate electrolytes.The negative effects of impurities in vanadium electrolytes are dawned from their electrochemical characterizations,which would result in battery damage and the cutting down of service life of VRFBs [10, 11]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The impurities of mixed-acid electrolytes mainly come from the crude materials of vanadium pentoxide，concentrated sulfuric acid，concentrated hydrochloric acid and water in conventional preparation method. The purification processes of the crude materials，especially for vanadium pentoxide are complicated,which usually employ the hydrometallrgical processes [11，13,21] in small batch production with high cost and environmental consequence. According to the literature [22], the capital cost of laboratory grade (high purity)electrolytes prepared via traditional process is up to 100 times higher than industrial grade electrolytes. While for the present novel process, $\\mathrm { \\Delta V O C l } _ { 3 }$ which can be effectively purified by distillation is directly dissolved in a sulfuric acid solution and then electrochemically reduced to V(II/IV) electrolytes. The novel preparation method greatly simplifies manufacture process. Compared with industrial grade electrolytes， there is only a $3 0 { \\sim } 5 0$ percent increase in cost of the high purity electrolytes using the present novel preparation method,and in other words,that willdramatically cut the cost by more than 90 percent when comparing the traditional high purity electrolytes process. The novel preparation method proposed in this paper presents great advantages in performance and capital cost， which will considerably facilitate the commercial application of high performance and high energy density VRFBs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In present work, high purity electrolytes for mixed-acid VRFB were prepared from high purity vanadium oxytrichloride $\\mathrm { ( V O C l } _ { 3 } )$ using a novel direct dissolution - electrochemical reduction process. And the purity and electrochemical properties were investigated, comparing with common mixed-acid electrolytes and regular sulfate electrolytes prepared from metallurgical grade vanadium pentoxide. The obtained high purity electrolyte demonstrated obviously higher purity than the common mixedacid electrolyte, containing most impurity ions with concentration less than $1 \\mathrm { m g / L }$ . And only a few impurities with concentration less than $1 2 ~ \\mathrm { m g / L }$ were detected, including Al, Ca, Na and Si, which may come from the used sulfuric acid. The CV and EIS measurements indicated that the high purity mixed-acid electrolytes demonstrated relatively good electrochemical properties，comparing with common mixed-acid electrolytes,and much better than the sulfate electrolytes.The negative effects of impurities in vanadium electrolytes were dawned from their electrochemical characterizations due to their low concentrations. Based on above results,the novel process demonstrates a good potential for the low cost and high efciency production of high purity electrolytes for mixed-acid VRFBs,which would be great benefit to improve the performances of the high energy density batteries. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENT ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The financial support from the National Natural Science Foundation of China (No. 51504232.   \n51504231 and 21325628) is gratefully acknowledged. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. D.M. Kabtamu, J. Y. Chen, Y. C. Chang and C.H. Wang, J. Mater. Chem. A, 4 (2016) 11472.   \n2. A. Parasuraman, T. M. Lim, C. Menictas and M. Skyllas-Kazacos, Electrochim. Acta,101 (2013) 27.   \n3. B. S.Lee and D.E.Gushee, Chem. Eng. Prog.,104 (2008) S29.   \n4． Y.Men and T. Sun, Int. J.Electrochem. Sci.,7 (2012) 3482.   \n5.F. Y. Chen, J.G.Liu, H. Chen and C.W. Yan, Int. J. Electrochem. Sci.,7 (2012) 3750.   \n6. L. Y. Li, S. Kim, W. Wang, M. Vijayakumar, Z. Nie, B. W. Chen, J.L. Zhang, G. G. Xia, J. Z. Hu, G. Graff, J. Liu and Z. G. Yang,Adv. Energy Mater.,1 (2011) 394.   \n7． UniEnergy Technologies, LLC. Comparisons of Storage Technologies. http://www.uetechnologies.com/technology.   \n8. Z. He,L. Chen, Y. He, C. Chen, Y. Jiang, Z. He and S.Liu, Ionics,19 (2013) 1915.   \n9. C. Ding, X. Ni, X.Li, X. Xi, X. Han, X. Bao and H. Zhang, Electrochim. Acta, 164 (2015) 307.   \n10.A.W. Burch,Master's Thesis, University of Tennessee, 2O15.12.   \n11. M. Nakajima, T. Akahoshi， M. Sawahata, Y. Nomura and K. Sato, EP O713257B1, 1995.   \n12. M. Skyllas-Kazacos, COM 2014 - Conference of Metallurgists Proceedings ISBN: 978-1-926872- 24-7.   \n13.P. G. Ning, H. B. Cao and Y. Zhang, CN103540745A, 2014.   \n14.I. Gaballah, M. Djona and E. Allain,Metal. Mater. Trans. B,26 (1995) 711.   \n15.C.L. Fan, Q. S. Zhu and H. T. Yang, PCT/CN2016/072522, 2016.   \n16. C.L. Fan, Q. S. Zhu and H. T. Yang, PCT/CN2016/072523,2016.   \n17. W.Li, Z. Zhang, Y. Tang, H. Bian, T.-W. Ng, W. Zhang and C.-S. Lee, Advanced Science, 3 (2016) 1.   \n18.J. Shen, S.Liu, Z. He and L. Shi, Electrochim. Acta, 151 (2015) 297. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "19.G. Wei, J. Liu, H. Zhao and C. Yan, J. Power Sources,241 (2013) 709.   \n20.L. Yue, W. Li, F. Sun, L. Zhao and L. Xing, Carbon, 48 (201O) 3079.   \n21.R.R. Moskalyk and A. M. Alfantazi, Miner. Eng., 16 (2003) 793.   \n22.M.A. Moore, Master's Thesis, University of Tennessee, 2013,42. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbb { C }$ 2017 The Authors. Published by ESG (www.electrochemsci.org). This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/). ",
+        "page_idx": 10
+    }
+]

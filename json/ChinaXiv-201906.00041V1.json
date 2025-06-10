@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "Desert vegetation distribution and species-environment relationships in an oasis-desert ecotone of northwestern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Peng,234,QU Jianjun1,4\\*,，XU Xianying23,YU Qiushi23,JIANG Shengxiu2,，ZHAO Heran2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryof Desertand Desertification,Northwest Institute of Eco-environment and Resources,Chinese Academyof Sciences,Lanzhou 7300oo,China;   \n² State Key Laboratory Breeding Baseof Deserificationand Aeolian Sand Disaster Combating,Gansu Desert Control Research Institute,Lanzhou 730070,China;   \n3Gansu MinqinNationalFieldObservationandResearchStationonEcosystemofDesertificationRangeland,Minqin7000, China;   \n4 University of Chinese Academy of Sciences,Beijing 100049,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Environmental heterogeneity significantly affects the structure of ecological communities. Exploring vegetation distribution and its relationship with environmental factors is essential to understanding the abiotic mechanism(s) driving vegetation succession,especiallyin the ecologically fragile areas.In this study, based on the quantitative analysis of plant community and environmental factors in 68 plots at 10 different transects in the Minqin oasis-desert ecotone (ODE) of northwestern China,we investigated desert vegetation distribution and species-environment relationships using multivariate analysis. Two-way indicator species analysis (TWINSPAN),detrended correspondence analysis (DCA),and canonical correspondence analysis (CCA) methods were used.A total of 28 species,belonging to 27 genera in 8 families,were identified. Chenopodiaceae, Zygophylaceae, Gramineae,and Leguminosae were the largest families.Annual and perennial herbs accounted for $2 8 . 6 0 \\%$ of the total number of plants,while shrubs $( 4 2 . 9 0 \\% )$ were the most dominant. Nitraria tangutorum was the constructive species of the desert plant community. We divided the 68 plots surveyed in this study into 7 community types,according to the results of TWINSPAN. The distribution of these 7 communities in the DCA ordination graph showed that species with a similar ecotype were clustered together. Results of CCA indicated that groundwater was the dominant factor influencing vegetation distribution, while distance between plot and oasis (Dis) and soil electrical conductivity (EC) were the local second-order factors. Our study suggests that optimizing the utilization of groundwater in oases is key to controling the degradation of desert vegetation.The favorable topographic conditions of sand dunes should be fully utilized for vegetal dune stabilization,and the influence of soil salinity on the selection of afforestation tree species should be considered. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: TWINSPANclasification;ordination; desert plant; groundwater;oasis-desert ecotone;species-environment relationship; Minqin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:ZHAO Peng,QU Jianjun,XU Xianying，YUQiushi,JIANG Shengxiu，ZHAO Heran.2019.Desert vegetation distributionandspecies-environmentrelationshipsinanasis-desertecotoneofnorthwesteChina.JouralofAridLand,1(3): 461-476.https://doi.org/10.1007/s40333-019-0055-0 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A central issue in community ecology is to understand the environmental factors that regulate species distribution and plant community diversity (Ohmann and Spies,1998). It is now recognized that environmental heterogeneity significantly affects the structure of ecological communities (Vivian-Smith, 1997). Species composition is one of the important attributes of plant community structure and is primarily restricted by environmental factors,including climate,elevation, biotic factors，groundwater, and soil properties. These factors influence vegetation paterns variably at different spatial and temporal scales. Climatic factors control the distribution of vegetation on a large scale,while edaphic factors are more important on a small scale (Siefert et al.,2012). Compared with humid areas, plants in arid and semi-arid regions are more susceptible to environmental factors (Böer and Sargeant, 1998). Groundwater is the main source of moisture for perennials in arid and semi-arid regions, ensuring their long-term survival(Thomas et al.,2006). It also affects species distribution,community characteristics (Xu et al., 2007; Li et al., 2010),and plant zonation (Cooper et al., 2006; Rzepecki et al.,2011) by driving water availability (Liu et al., 2017). Precipitation patterns influence the aboveground net primary production of sand-fixing vegetation (Li and Zhao, 2017), community structure (Cheng et al., 20o6),annual plant phenology (Huang et al., 2018), photosynthesis (Liu et al., 2012),and carbon cycle (Thomey et al., 2011). Dune mobility affects the settlement and expansion of desert plants (Hernandez-Cordero et al., 2015). Soil salinity, sodicity, and texture are the main factors affecting vegetation distribution in Mediterranean saltmarshes (Moreno et al., 2O18). Soil total phosphorus and sand are the dominant factors influencing distribution paterns of desert plants in the Heihe River Basin (Li et al., 2018). Therefore, groundwater, climate,microtopography,and edaphic factors are strong driving forces that sustain ecosystem functions, particularly in arid desert regions (Sommer and Froend, 2014; An et al.,2015; El-Keblawy et al.,2015). Understanding the species distribution and its relationship with environmental factors in arid desert regions will help in planning, managing, and restoring the desert ecosystems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The oasis-desert ecotone (ODE) is a typical landscape located downstream of inland rivers in arid regions and is influenced by the interaction between the expanding oasis and encroaching desert. It is a key ecological barrier that protects oasis from the hazards of sand storms (Zhang et al., 2017)and is sensitive to human activities and climate changes. Therefore, the ODE is characterized by environmental vulnerability (Pi et al., 2017). The Minqin ODE in northwestern China is an important ecological barrier that prevents the closing of Badain Jaran Desert and Tengger Desert (Wang and Cui, 2004). Increase in farm irrigation since the late 1950s in the Minqin oasis has caused a dramatic decline in the groundwater level (Zhang et al., 2O12). Because of prolonged drought, dominant species such as Tamarix chinensis, Haloxylon ammodendron, and Nitraria tangutorum have been degraded in the Minqin ODE (Ma et al., 2007,2009; Wang et al., 2015; Ji et al.，2016),thus posing a serious threat to the stability of oases. Therefore,controlling further degradation of desert plants in this region is crucial. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Relationships between desert plants and environmental factors in the Minqin ODE have been extensively investigated. These studies revealed the following aspects: (1） the effects of $H .$ ammodendron plantations on soil physical-chemical properties， soil microorganisms (Xi et al., 2015; Fan et al., 2016), spatial pattern, soil water, and water budget of N. tangutorum nebkhas (Qiu et al.,2015; Wang et al.,2015; Yang et al., 2015); (2) the relationships of climate changes with vegetation gradient characteristics, vegetation restoration, water use,and reproductive phenology (Du et al.,2010,2011; Ma et al.,2010; Chang et al.,2012; Zhu et al.,2013; Han et al.,2015); (3) the clonal population of Calligonum mongolicum and its relationship with environmental factors (Zhou et al., 2012)； and (4) vegetation succession, niche, traits,and physiological responses of desert plants to groundwater (Peng et al.,2004; Yang et al.,2007; Shi et al.,2008; Wei et al.,2008), vegetation,and soil nutrients (Chen et al.,2007,2009). However, most of these studies investigated the relationships between individual environmental factors and plants on a relatively small scale. Research on the combined effects of climate， soil,，microtopography,and groundwater on the species composition and vegetation distribution of desert communities using multivariate analysis hasnot been reported. Understanding vegetation distribution and its relationship with environmental factors is an important prerequisite for the restoration and reconstruction of desert communities in the Minqin ODE. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study investigated the percentage variation in species composition of desert plants explained by climate, groundwater, topography, and soil over an area of ${ \\bar { 2 } } 2 0 0 \\mathrm { k m } ^ { 2 }$ . The main object of this study was to quantify the influence of environmental factors on species composition of sand-fixing plants in the Minqin ODE. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area is located in an ecotone $( 3 8 ^ { \\circ } 3 4 ^ { \\prime } 5 8 ^ { \\prime \\prime } - 3 9 ^ { \\circ } 0 6 ^ { \\prime } 2 1 ^ { \\prime \\prime } \\mathrm { N } _ { \\mathrm { \\Omega } }$ ， $1 0 2 ^ { \\circ } 5 5 ^ { \\prime } 1 4 ^ { \\prime \\prime } { - } 1 0 3 ^ { \\circ } 3 7 ^ { \\prime } 2 2 ^ { \\prime \\prime } \\mathrm { E }$ ；1294- $1 4 1 1 \\mathrm { m }$ a.s.l.; Fig.1) between the Minqin oasis and the southwest fringe of the Badain Jaran Desert in northwestern China. The area is characterized by a typical temperate desert climate, with annual mean air temperature, mean annual precipitation, and mean annual evaporation of $7 . 7 ^ { \\circ } \\mathrm { C }$ ， $1 1 5 . 8 \\mathrm { m m }$ and $2 6 6 4 . 0 ~ \\mathrm { m m }$ ，respectively. Precipitation mainly occurs from July to October, and snowfall is sporadic in winter. The annual mean wind velocity is $2 . 5 ~ \\mathrm { m / s }$ , and the prevailing wind comes from northwest. The average annual duration of gales, sandstorms,and blowing sand during 1959-2015 was 26.3,25.0, and $3 7 . 5 \\mathrm { ~ d } .$ ，respectively. The Minqin is one of the important sources of dust in China,resulting from its fragile eco-environment (Dong et al.，2010). The main soil types are chestnut, brown, and aeolian sand. The zonal vegetation in the region is described as desert steppe. Typical local shrub species include $N .$ tangutorum, Tamarix ramosissima, and C. mongolicum, whereas $H .$ . ammodendron is the dominant artificial species. Over reclamation and overexploitation of groundwater are the main human activities that indirectly affect the desert vegetation distribution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/16ff3ccfa4f86b0f9d3bcbc5e4061753378f749c59f0c89bc476da592b22d27a.jpg",
+        "img_caption": [
+            "Fig.1Location of the study area and sampling plots "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The type of vegetation was investigated during the rainy seasons (July to September) from 2012 to 2015.Ten oasis-desert transects were selected to explore the quantitative relationships between environmental factors and plant species along a groundwater gradient from Baqu to Huqu (Chen and Feng,2013). A total of 68 plots,spaced $5 0 0 \\mathrm { ~ m ~ }$ apart each other,were established at the 10 different oasis-desert transects (Fig.1). The distance between plot and oasis (Dis） was recorded. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Each plot was divided into 3 shrub quadrats( $1 0 \\ \\mathrm { m } { \\times } 1 0 \\ \\mathrm { m } \\$ spaced $3 0 ~ \\mathrm { m }$ apart,and 3 herb quadrats $( 1 ~ \\mathrm { m } { \\times } 1 ~ \\mathrm { m } )$ ）were established on the diagonal of each shrub quadrat. In each quadrat, the species name,height, abundance,and crown diameter were recorded. In addition, the longitude,latitude, and elevation of each quadrat were determined using the global positioning system (GPS; Etrex, Garmin Ltd.， Olathe,KS,USA). We estimated species cover according to the Braun-Blanquet cover-abundance scale (Mueller-Dumbois and Ellnberg,1974).The height, density,frequency,and cover of each species in all shrub and herb quadrats of each plot were averaged and then transformed into the relative values. The average importance value (IV) of each species was calculated according to Equation 1 (Curtis and McIntosh, 1951): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I V } = \\mathrm { R A } + \\mathrm { R D } + \\mathrm { R F } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where RA，RD,and RF represent the relative abundance,relative dominance，and relative frequency of the species, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dominance index was calculated using Equation 2 described below (Simpson,1949). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\sum _ { i = 1 } ^ { s } \\Biggl ( \\frac { n _ { i } } { N } \\Biggr ) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $C$ is the Simpson dominance index; $S$ is the total number of species in the plot; $n _ { i }$ represents the importance value of species $i$ and $N$ is the sum of importance value of all species in the plot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shannon-Wiener diversity index,Pielou evenness index and Margalef richness index were respectively calculated according to Equations 3-5 as follows (Mueller-Dumbois and Ellenberg, 1974): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle H = - \\sum { P _ { i } } \\ln { P _ { i } } , } } \\\\ { { { \\cal J } _ { s w } = H / \\ln { S } , } } \\\\ { { { \\cal D } = \\big ( S - 1 \\big ) \\big / \\ln { N } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the Shannon-Wiener diversity index; $P _ { i }$ is the relative importance value of species $i$ $J _ { s w }$ is the Pielou evenness index; $S$ is the total number of species in the plot; $D$ is the Margalef richness index;and $N$ is the sum of importance value of all species in the plot. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Approximately $5 0 0 ~ \\mathrm { g }$ of soil was randomly sampled from depths of O-5,5-20,20-40, 40-60, 60-80,80-100 cm in each plot. Soil samples were replicated three times at different soil depths. These samples were dried and sieved through a $2 \\mathrm { - m m }$ mesh to remove debris and stones.The sand （204号 $( 0 . 0 2 0 { - } 2 . 0 0 0 \\ \\mathrm { m m } )$ ，silt $( 0 . 0 0 2 \\mathrm { - } 0 . 0 2 0 ~ \\mathrm { m m } )$ ，and clay $( < 0 . 0 0 2 \\ \\mathrm { m m } )$ compositions were measured using a laser particle size analyzer (Malvern Mastersizer 2Oo0,Malvern, England).Soil water content (SWC) was measured by drying soil samples in an oven at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $2 4 \\mathrm { ~ h ~ }$ . Soil organic mater (SOM) content was determined by the oxidation of soil samples with potassium dichromate in a sulfuric acid environment, according to Anne's method (Grubb,1977). Total nitrogen (TN) content was measured using an Autokjeldahl Unit (Segundo et al.,1992). Available phosphorus (AP) content was measured using the Bray method (ISSCAS,1978). Soil electrical conductivity (EC) and $\\mathfrak { p H }$ were determined using a portable conductivity meter (Cole-Parmer Instrument Company) and the potentiometric method, respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data on 96 monitoring groundwater wells in the Minqin oasis were obtained from the Wuwei Water Affairs Bureau. Then, the depth of groundwater (Dep) in each plot was calculated using the Kriging interpolation method (Chen et al., 2012). Data of mean annual precipitation (Pre） and annual mean temperature (Tem） were derived from the CRU Global monthly precipitation and temperature data sets (resolution of $0 . 5 ^ { \\circ } { \\times } 0 . 5 ^ { \\circ } )$ ,which were downloaded from the National Earth System Science Data Sharing Infrastructure, National Science & Technology Infrastructure of China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We classified the plant community by two-way indicator species analysis (TWINSPAN) using WinTWINS version 2.3，according to the importance value of plant species. Detrended correspondence analysis (DCA） and canonical correspondence analysis (CCA） were performed using CANOCO version 5.0 software for Windows (Microcomputer Power, Ithaca, NY, USA) to determine the species-environment relationships. Specifically, DCA was used to reveal the gradient of species distribution,and CCA was carried out to explore the relationships between species distribution and environmental factors.Fourteen environmental factors were contained in the environment matrix to perform the CCA,including the Dep,Dis,altitude,Pre,Tem, SWC,sand, silt, clay, TN,AP, SOM, EC,and pH. All environmental factors were standardized or normalized by log $( y + 1 )$ to ensure the homogeneity of variance,and rare species were eliminated (Leps and Smilauer, 2014). Differences in environmental factors and diversity indices among different communities were explored by variance analysis (ANOVA) and Duncan's multiple range test in SPSS version 18.0.Difference was considered as significant at $P { < } 0 . 0 5$ level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Composition of vegetation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Field surveys recorded a total of 28 species (24 dicot and 4 monocot species) belonging to 27 genera in 8 families in the study area. Annual and perennial herbs accounted for $2 8 . 6 0 \\%$ of the total number of plants,whereas shrubs occupied $4 2 . 9 0 \\%$ and were the most dominant. Chenopodiaceae, Zygophyllaceae, Gramineae, and Leguminosae were the largest families, comprising $2 5 . 0 0 \\%$ （7 species), $1 7 . 8 6 \\%$ (5 species), $1 4 . 2 9 \\%$ (4 species),and $14 . 2 9 \\%$ (4 species) of the total number of recorded species, respectively. The Simpson dominance index values of species were as follows (arranged in decreasing order): $N .$ tangutorum (4.726), $H$ 、ammodendron (2.055),Agriophyllum squarrosum (0.862), C. mongolicum (0.783), and Phragmites australis (0.739) (Table S1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Classification of vegetation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We identified 7 ecologically distinct plant communities based on the third level division in TWINSPAN classification (Fig. 2). Since vegetation distribution is a continuum, similar species exist among different community types, which reflect the transitional characteristic of vegetation distribution. Due to variance of environmental conditions,significant diferences were observed in the diversity indices of the 7 communities.Typical fruticous desert community (Group 1） was dominated by the shrub N.tangutorum located close to the desert. Desert shrub community (Group 2) was dominated by the shrub C.mongolicum and herb A.squarrosum, mainly in the area of mobile sand dunes. Artemisia desert community (Group 3) was dominated by Artemisia salsoloides, mainly in the area of semi-fixed sand dunes. Dwarf tree desert community (Group 4) was dominated by $H _ { \\cdot }$ . ammodendron,which was mostly distributed at the edge of the oasis,accounting for $51 . 5 \\%$ of the total area of artificial sand-fixing forest. Halophyte bush vegetation community (Group 5） was dominated by $T$ ，ramosissima and Reaumuria songarica. Salt semi-shrub community (Group 6) was dominated by Kalidium foliatum and Lycium ruthenicum, mainly in the area of salinized low sandy land or hilly lowland of the Qingtu Lake. Saline meadow community (Group 7) was dominated by $P$ . australis,mainly in the area of artificial water injection zone of the Qingtu Lake. The results of TWINSPAN classification reflect the ecotypes of different communities (Table 1; Table S2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Species-environment relationships ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The DCA was used to measure the variation in community structure with environmental gradients, providing a gradient length reference for community ordination. The cluster types obtained by TWINSPAN classfication were consistent with the results of DCA ordination in the study area (Fig. 3). According to the DCA results, the 7 community types were identified as follows: Group 1, $N$ tangutorum $\\mathbf { \\nabla } \\cdot P$ .australis $+ A$ .squarrosum; Group 2， C. mongolicum $+ H$ ammodendron-A. squarrosum; Group 3,N.tangutorum $+ H$ .ammodendron $+ A$ . salsoloides; Group 4, $H$ ： ammodendron $+ N$ ，tangutorum+Limonium aureum; Group 5，N. tangutorum $+ R$ .songarica $+ T$ ramosissima; Group 6,K.foliatum $+ N .$ tangutorum $+ L$ .ruthenicum; and Group 7,N.tangutorum $\\mathbf { \\nabla } \\cdot P _ { \\mathbf { \\lambda } }$ australis-Salsola collina. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to Pearson's correlation analysis， most environmental factors showed strong correlations with each other (Table S3). Dep was highly correlated with SWC, clay, silt, sand, TN, AP, SOM, pH, EC, altitude,and Tem $( | r | \\ge 0 . 3 1 )$ . High correlations were observed among most of these environmental factors $( | r | 2 0 . 2 7 )$ , except for the correlations of Dis and Pre with SWC, clay, silt, sand, TN,AP, SOM, pH,EC, Dep,and Tem,and the correlations of Tem with clay and SOM. Soil clay and silt were strongly correlated between each other and with sand, TN,and SOM $( | r | \\ge 0 . 6 3 )$ . Additionally， strong negative correlations were observed between SWC and Dep $( | r | 2 0 . 8 8 )$ and among Dep, pH and EC $( | r | \\ge 0 . 3 5 )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The CCA ordination showed the distribution of plant communities and their relationships with environmental factors (Fig. 4). Axes 1 and 2 of CCA accounted for $2 0 . 6 8 \\%$ of the total variation and $54 . 7 7 \\%$ of the fitted variance.Axis 1 of CCA explained $1 3 . 3 6 \\%$ of the total variation $( 3 5 . 3 8 \\%$ of the fitted variance),while axis 2 explained $7 . 3 2 \\%$ of the total variation（ $1 9 . 3 9 \\%$ of the fitted variance). Environmental factors significantly affected the composition of desert plant communities $( P { < } 0 . 0 1 )$ . Marginal effects indicated that all environmental factors,except Pre, were important for explaining the variation in vegetation patterns $( P { < } 0 . 0 5 )$ ，and that most of this variation was explained by Dep,altitude,SWC,and Tem (Table 2). However, conditional effects were important for only 7 factors for explaining the variation in vegetation patterns $( P { < } 0 . 0 5$ ； Table 2). These factors included Dep $( 1 1 . 7 0 \\% )$ ，Dis $( 4 . 1 0 \\% )$ ，EC $( 3 . 9 0 \\% )$ ，silt $( 3 . 2 0 \\% )$ ，altitude $( 2 . 8 0 \\% )$ ，Tem $( 2 . 7 0 \\% )$ , and AP $( 2 . 2 0 \\% )$ . Overall, Dep,Dis,and EC explained most of the variability in vegetation patterns. In addition, no difference was observed between the marginal and conditional effects of Dis,indicating that the variance in Dis was not explained by Dep or EC. Conversely, SWC was highly correlated with Dep,which concealed the contribution of SWC to the interpretation of vegetation distribution variability (Table 2). These results were consistent with the results of Pearson's correlation analysis, indicating that Dep was closely associated with SWC. These relationships among environmental factors were also reflected in the CCA ordination (Fig. 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c8c6afb63c43bbac9dd432bc836b7e79825491d572b433f181aa9bfaf2fc874.jpg",
+        "img_caption": [
+            "Fig.2Dendrogram showing the two-way indicator species analysis (TWINSPAN) classification of 68 plots. Eig, eigenvalue. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/58a7f86e43795c2d6d9618ba94a875c243e16430e325471d8a923539b4106677.jpg",
+        "table_caption": [
+            "Table1 Characteristics of the identified desert plant communities "
+        ],
+        "table_footnote": [
+            "Note:C,Simpson dominance index;H,Shannon-Wiener diversity index; $J _ { s w }$ ，Pielou evenness index; $D$ ,Margalef richness index;Nit,Nitraria tangutorum;aiolalo ArtemisialsdeiaeaossasricKafi ruthenicum;Sac,alsolacollina.Mean±SD.Differentlowercase lettrs indicatesigniicantdiffrencesinthesamecolumat $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Community type</td><td>Habitat</td><td>C</td><td>H</td><td>Jsw</td><td>D</td><td>Dominant species</td></tr><tr><td>1</td><td>Typical fruticous desert</td><td>Semi-fixed dune</td><td>0.35±0.07ab</td><td>1.19±0.22bc</td><td>0.48±0.09b</td><td>8.01±1.29ab</td><td>Nit,Pha,Ags</td></tr><tr><td>2</td><td>Desert shrub</td><td>Mobile dune</td><td>0.30±0.10b</td><td>1.37±0.33b</td><td>0.51±0.12b</td><td>9.27±3.44a</td><td>Cal, Hal, Ags</td></tr><tr><td>3</td><td>Artemisia desert</td><td>Semi-fixed dune</td><td>0.22±0.06b</td><td>1.69±0.26a</td><td>0.64±0.10a</td><td>6.44±1.15b</td><td>Nit,Hal,Ara</td></tr><tr><td>4</td><td>Dwarf tree desert</td><td>Fixed dune</td><td>0.23±0.07b</td><td>1.68±0.24a</td><td>0.62±0.09ab</td><td>7.21±0.78b</td><td>Hal,Nit,Lia</td></tr><tr><td>5</td><td>Halophyte bush vegetation</td><td>Fixed dune</td><td>0.28±0.09b</td><td>1.46±0.21ab</td><td>0.53±0.08b</td><td>8.48±1.22ab</td><td>Tar,Res,Nit</td></tr><tr><td>6</td><td>Salt semi-shrub</td><td>Saline land</td><td>0.24±0.08b</td><td>1.61±0.20ab</td><td>0.61±0.08ab</td><td>7.69±0.51ab</td><td>Kaf,Lyr,Nit</td></tr><tr><td>7</td><td>Saline meadow</td><td>Dry lake</td><td>0.42±0.10a</td><td>0.99±0.25c</td><td>0.51±0.13b</td><td>5.73±1.78b</td><td>Nit,Pha,Sac</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/816e52e54b522c4220a657e7755c75b2662496aadf95facd1b92a316dd7163a8.jpg",
+        "img_caption": [
+            "Fig.3Two-dimensional DCA(detrended correspondence analysis) ordination of 68 plots （7 community groups clustered by TWINSPAN）and dominant plant species.Hal，Haloxylon ammodendron; Cal，Calligonum mongolicum;Nit,Nitrariatangutorum;Bad,assa dasyphylla;Hag,Halogetonglomeratus;Sac,alsolacollina; Ags,Agriophyllumsquarrosum; Kaf,Kalidium foliatum; Com,Corispermum patellforme; Zyf,Zygophyllumfabago; Zyo,Zygophylum xanthoxylon;Hes,Hedysarumscoparium;Peh,Peganum harmala;Pha,Phragmites australis; Erp,Eragrostis pilosa;Hes,Hedysarum scoparium; Cak,Caragana korshinski;Tar,Tamarix ramosissima;Res, Reaumuria songarica; Ara,Artemisia salsoloides; Lia,Limonium aureum; Lyr,Lycium ruthenicum. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of CCA ordination indicated Dep,Dis,and EC as the main factors that explain the distribution patterns of desert vegetation in the Minqin ODE.Most vegetation species showed a clear distribution along the environmental gradients (Fig. 4). The first axis of CCA represented a strong groundwater gradient from 7.76 to $2 2 . 5 1 \\mathrm { ~ m ~ }$ ，while the second axis indicated the gradient of soil properties along the ecotone.Desert shrub(C.mongolicum $+ H .$ ammodendron-A.squarrosum), typical fruticous desert (N. tangutorum- $P .$ australis+A. squarrosum)，and dwarf tree desert ( $H .$ ammodendron $+ N .$ tangutorum $+ L .$ aureum) communities were found inhabiting the edge of the oasis with high groundwater levels. Artemisia desert (N. tangutorum $+ H .$ ：ammodendron $+ A$ salsoloides） and halophyte bush vegetation (N. tangutorum $+ R$ ，songarica $+ T .$ ramosissima) communities were located in regions with medium groundwater levels and semi-fixed sand dunes. Salt semi-shrub (K.foliatum $+ N .$ tangutorum $+ L .$ ruthenicum) and saline meadow (N. tangutorum $\\cdot P .$ australis-S. colina) communities were distributed in regions with low groundwater levels and fixed sand dunes in the Huqu. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The CCA ordination between dominant species and environmental factors revealed that the distribution of plant species varied with environmental factors (Fig. 5). A. squarrosum and $C$ mongolicum were present in regions with both high sand content $( 9 2 . 3 7 \\%$ （ $( \\pm 6 . 0 4 \\% ) \\big )$ and high $\\mathfrak { p H }$ value (8.35 $( \\pm 0 . 3 1 ) \\$ ). L. ruthenicum， Zygophyllum fabago， and $K$ ： foliatum showed strong correlations with SWC( $1 0 . 6 1 \\%$ （204号 $( \\pm 3 . 6 8 \\% ) \\big \\rangle$ ） and EC (606.07 (±411.11)). Caragana korshinskii, $R$ songarica,and Eragrostis pilosa were associated with high clay content ( $( 6 . 4 3 \\%$ $( \\pm 3 . 1 2 \\% ) \\big \\rangle$ ） $P .$ （204 australis was mainly distributed in the artificial water flood area of the Qingtu Lake with high SWC ( $12 . 2 5 \\%$ （204号 $( \\pm 2 . 3 0 \\% ) \\$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a203aeda4d9a9dd0058b182bbfd5e4fff501f8c08df6e99a75fc34e48292e0ae.jpg",
+        "img_caption": [
+            "Fig.4CCA (canonical correspondence analysis） ordination of 68 plots (7 community groups clustered by TWINSPAN)and 14 environmental factors.The arrow indicates environmental factor,and the direction and length ofarow indicate the relationshipof environmental factorwith ordination axes.SWC,soil water content; Dep,depth of groundwater;Dis,distance between plot and oasis；Pre，mean annual precipitation；Tem，annual mean temperature;TN,total nitrogen; SOM,soil organic matter;AP,available phosphorus;EC,electrical conductivity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sparse vegetation in desert ecosystems usually consists of shrub and herbaceous layers. The shrub layer comprises xeric, halophilic,and super-xeric species. Annuals and perennials are the main constituents of herbaceous layer, which grows with fluctuations in precipitation. In the Minqin ODE, shrubs are the constructive or dominant species of desert communities and play a significant role in maintaining species diversity. The artificial species $H .$ ammodendron is distributed at the edge of oasis,while the natural species $N .$ tangutorum is found in desert areas (Chen etal.，2007). Species resistance and interspecific relationship determine the community composition (Miriti, 2007).The most efective method to combat desertification is the establishment of sand-binding vegetation, which creates favorable conditions for colonization by many herbaceous species (Li et al., 2004). H. ammodendron plantations on mobile sand dunes in the Minqin ODE also promote the diversity of herbaceous vegetation (Fan et al.,2Ol6). In this study, we quantitatively classified the sand-fixing vegetation into 7 plant community types, indicating the succession trend of desert vegetation. Desert perennials are considered as soil indicators in eastern Arabia on the basis of plant-soil relationships (Boer and Sargeant,1998).The environmental indicator species can be used to determine soil chemical characteristics,especially in saline habitats (Angiolini et al., 2013). In this study, the distribution of A. squarrosum and C.mongolicum indicated the lowest SWC and the largest soil particle size,while that of $K$ . foliatum and $L$ . ruthenicum indicated the highest salinity and water levels and the finest soil texture. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b58c163cd53c7bfe8df821fe2eae7f14f838462eb7f62b7b940110f1eed6a1e8.jpg",
+        "table_caption": [
+            "Table 2Marginal and conditional effects of environmental factors on plant communitie "
+        ],
+        "table_footnote": [
+            "Note:Dep,dethfouateoilterot;alaure;otalro;Ctii AP,availablephosphorus；Dis，distancebetweenplotandoasis；SOM，soilorganicmater;Pre,annual meanprecipitation.ns non-significant;\\*,significance at $P { < } 0 . 0 5$ level; \\*\\*, significance at $P { < } 0 . 0 1$ level; -, no data. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Environmental factor</td><td colspan=\"4\">General model</td></tr><tr><td colspan=\"2\">Marginal effects</td><td colspan=\"2\">Conditional effects</td></tr><tr><td>Variance explained (%)</td><td>Pseudo-F</td><td>Variance explained (%)</td><td>Pseudo-F</td></tr><tr><td>Dep</td><td>11.70</td><td>8.70**</td><td>11.70</td><td>8.70**</td></tr><tr><td>Altitude</td><td>11.40</td><td>8.50**</td><td>2.80</td><td>2.40**</td></tr><tr><td>SWC</td><td>10.30</td><td>7.50**</td><td>1.40</td><td>1.20ns</td></tr><tr><td>Tem</td><td>8.70</td><td>6.30**</td><td>2.70</td><td>2.30**</td></tr><tr><td>pH</td><td>8.30</td><td>6.00**</td><td>1.00</td><td>0.90ns</td></tr><tr><td>TN</td><td>5.80</td><td>4.10**</td><td>0.60</td><td>0.50ns</td></tr><tr><td>EC</td><td>5.60</td><td>3.90**</td><td>3.90</td><td>3.10**</td></tr><tr><td>AP</td><td>5.50</td><td>3.90*</td><td>2.20</td><td>1.90*</td></tr><tr><td>Silt</td><td>5.40</td><td>3.80**</td><td>3.20</td><td>2.60**</td></tr><tr><td>Sand</td><td>5.30</td><td>3.70**</td><td>1</td><td>1</td></tr><tr><td>Clay</td><td>4.60</td><td>3.20**</td><td>1.80</td><td>1.60ns</td></tr><tr><td>Dis</td><td>4.20</td><td>2.90**</td><td>4.10</td><td>3.20**</td></tr><tr><td>SOM</td><td>3.30</td><td>2.20*</td><td>1.00</td><td>0.90ns</td></tr><tr><td>Pre</td><td>2.50</td><td>1.70ns</td><td>1.30</td><td>1.10ns</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/027680a72c87cd64626598f2e14262bc5b515ba78c69e3638bdc07e9ec8fd948.jpg",
+        "img_caption": [
+            "Fig.5CCA ordination of dominant species in the plant communities and environmental factors. The arrow indicates environmental factor,and the directionand lengthof arow indicate therelationshipof environmental factor with ordination axes.Abbreviations are the same as those in Figures 3 and 4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Water is a deciding factor for the survival and development of desert plants. Groundwater is not only an important source of moisture for desert plants in dry seasons but also a determinant of the depth of the plant root system (Fan, 2015). It can affect the ecosystem function by changing vegetation structure. The heterogeneity of groundwater quality leads to niche differentiation among plant communities in the lower reaches of the Heihe River Basin (Zhu et al.,2O14). In this study, CCA ordination showed that groundwater is a dominant environmental factor influencing the distribution of desert plants in the Minqin ODE. Changes in groundwater level in Baqu and ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Quanshanqu were significantly higher than those in Huqu, with an average reduction of O.64, 0.93, and $0 . 4 1 \\mathrm { ~ m ~ }$ ，respectively,in 20o8 (Chen and Feng,2013). In the direction of groundwater flow (Baqu $$ Quanshanqu $$ Huqu), $\\mathrm { M g } ^ { 2 + }$ , the main component of cation, was gradually replaced by $\\mathrm { { N a } ^ { + } }$ $\\mathrm { S O } _ { 4 } ^ { 2 - }$ was consistently the dominant anion,whereas the proportion of $\\mathrm { C l ^ { - } }$ was gradually increased (Li et al., 2Ol7). With the changes in groundwater level and quality, vegetation also changed from xerophytic to halophytic species. The ecological water conveyance project of the Qingtu Lake was implemented in 2010, which increased groundwater level. Because of improvement in hydrological conditions,the population of N. tangutorum declined gradually in the area surrounding the artificial lake in the dry lake basin, whereas the population of $P$ . australis expanded over a large area. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Water uptake paterns of desert riparian plants vary with the depth of groundwater (Chen et al., 2016). C. mongolicum, $N .$ tangutorum, and $T$ ，ramosissima mainly absorb soil water and groundwater in diferent periods of the growing season (Wu et al.,2014; Zhu et al., 2015; Ji et al., 2016).The optimum depth of groundwater for the increases in the height and cover of $N .$ tangutorum ranges from 1.00 to $9 . 0 0 \\mathrm { ~ m ~ }$ and from 2.00 to $7 . 5 0 \\ \\mathrm { m } .$ ，respectively, in the northeast region of the Ulan Buh Desert (Li et al., 2O11). Woody plants have a deep root system and can absorb groundwater from the depth of $1 0 . 0 0 \\mathrm { ~ m ~ }$ or more. Wetland and riparian vegetation are more sensitive to groundwater depth (Le et al., 1999). Groundwater also influences the water physiology of Populus euphoretic (Chen et al., 2O11） and improves the rainwater utilization efficiency of groundwater-dependent ecosystems in arid regions (Liu et al.,2017). Groundwater table at depths of $2 . 0 0 { - } 4 . 0 0 \\ \\mathrm { m }$ is suitable for plant growth, as groundwater can prevent soil salinization within this range (Cui and Shao, 20o5). When the groundwater level is below the maximum root depth, the vegetation cover is low and sensitive to changes in precipitation (Elmore et al., 2Oo6). Young $H$ ammodendron plants mostly absorb soil water replenished by rainfall， whereas old $H$ ammodendron plants with a deep root system can access water from a greater depth (Zhou et al., 2017). Groundwater directly affects community composition through controlling water use by deep-rooted shrubs or perennial herbs,while indirectly influences vegetation distribution through soil salinization. Because of small spatial differences in precipitation distribution over the study area, the influence of rainfall on species composition of vegetation communities was not significant. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Landform constrains the vegetation type and dynamic changes in transgressive dune fields (Hesp et al.,2011). The distribution of sand-fixing pioneer plants is closely associated with soil moisture (Alamusa et al., 2017). The species composition of $H$ ， ammodendron plantation varies with the degree of sand dune fixation (Liu et al.,2O14). Compared with tall dunes, flat and low fixed dunes can improve the diversity of herbaceous plants and the stability of ecosystems (Tao et al.,2017). Aeolian geomorphic process is an important factor affecting the distribution desert plants and other factors control the growth stages of plants and vegetation distribution by changing soil conditions (Szczucinski, 2012; Hernandez-Cordero et al.,2015; Tang et al.,2016).From desert to oasis, the frequency of sand-laden wind, drift potential,and sand transport decreases while the roughness of surface increases (Zhang et al.,2O17). The difference in dynamic aeolian conditions between oasis and desert shapes the dune microtopography, which restricts the distribution of desert plants. In this study, the Dis variable reflected the influence of topography on the species composition of desert plant communities. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The effect of soil factors on vegetation community structure is scale-dependent (Pan et al.,1998). In coastal dune environment, the distance from the coastline controls the vegetation distribution of coastal dunes by influencing soil proporties (Hwang et al., 2O16). Variation in SOM along the oasis-desert gradient is obvious and closely related to the growth dynamics of annual plants (Chen et al., 2007). Soil surface sediment, $\\mathrm { C a C O } _ { 3 }$ ，soil saturation, $\\mathfrak { p H }$ ,and SOM are major drivers for the succession of coastal desert vegetation (Abd el-Ghani and Amer, 2O03). The underlying soil processes of vegetation succession are acidification and the organic matter accumulation in Dutch wet dune is slack (Sykora et al.,2O04). Soil organic carbon,TN,and EC are highly correlated with community characteristics in the southern Mu Us Sandy Land (Xie et al., 2O15). Soil moisture, salinity,and texture restrict the distribution of plant species in the lower reaches of the Heihe River (Zhao et al., 2O17). This study identified EC as the main soil factor affecting the distribution of desert vegetation.Because of differences in soil salinity, $C .$ mongolicum was distributed only in the sandy desert habitat of Baqu,while $K$ foliatum and $L .$ ruthenicum were found only in the saline habitat of Huqu. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Groundwater, Dis,and EC restrict each other and jointly determine the distribution pattern of desert vegetation on different scales.Additionally, Dis affects the groundwater depth, as a result of intensive irrigation of oasis (Wang and Zhao,2O15). Soil salinity in the study region is subject to groundwater salinity and vegetation cover (Qian et al., 2O17).EC is an important indicator of soil salinization; therefore, groundwater affects soil EC. Soil $\\mathfrak { p H }$ ，water $\\mathfrak { p H }$ ，and EC are the main limiting factors affecting vegetation distribution in the hot, arid sub-tropical monsoon regions (Zereen and Sardar, 2O15). In the Great Basin, groundwater depth and microtopography jointly affect the species distribution of desert vegetation (Mata-Gonzalez et al., 2Ol2). Thus,it can be concluded that the distribution and succession of vegetation are the outcomes of complex interactions among various environmental factors. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vegetation in the Minqin ODE was composed of 28 plant species belonging to 27 genera in 8 families. TWINSPAN classification divided the desert vegetation into 7 community types. The species distribution of community types corresponded to their unique habitat characteristics. Results of CCA ordination indicated that groundwater was the most significant environmental factor affecting species composition, while Dis and EC were the second most important factors. Our results suggest that optimizing the utilization of groundwater in oases is the key to controlling the degradation of desert vegetation. In the future, plant sand-fixation projects should focus on the favorable topographic conditions of sand dunes,and more attention should be given to the limiting factors of soil salinity when selecting the tree species for afforestation. Multivariate analysis on desert vegetation in the Minqin ODE confirms the community types and driving environmental factors on the species distribution patterns. The results could further be applied for the rehabilitation of desert vegetation in arid and semi-arid regions in northwestern China as well as in other similar regions in the world. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thisstudy wassupported by the National Key Research and Development Program of China (SQ2016YFHZ20617-03,2018YFC0507102-05)and the National Natural Science Foundation of China(41661008, 41761051,41761006,41661064,31560128,41801102). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abdel-Ghani MM,AmerWM.20o3.Soil-vegetationrelationships inacoastaldesertplaiofsouthernSinai,EgyptJouralof Arid Environments,55(4): 607-628.   \nAlamusa,YangTT,CaoJ,etal.2Ol7.Soilmoistureinfluencesvegetatiodistributionpates insandunesoftheHorqiSandy Land,Northeast China.Ecological Engineering,105: 95-101.   \nAnP,LiXG,ZhengYR,etal.2O15.Distributioofplantspeciesandspecies-soilrelationshpintheeastcentral Gurbantunggut Desert, China.Journal of Geographical Sciences,25(1):101-112.   \nAngioliniC,LandiM,PieroniG,etal.2Ol3.Soilchemical featuresaskeypredictorsof plantcommunityoccurrence ina Mediterranean coastal ecosystem. Estuarine,Coastal and Shelf Science,119:91-100.   \nBöer B,SargeantD.1998.Desertperenialsasplantandsoil indicators inEasternArabia.PlantandSoil,199(2):261-266.   \nBrower JE,ZarJH,von Ende.199o.Field and Laboratory Methods for General Ecology( $3 ^ { \\mathrm { r d } }$ ed.).Dubuque:William C.Brown Press,237.   \nChang ZF,ZhuSJ,HanFGetal.2l.Differencesinesponseofesertplantsofdiferentecotypes tocmate waring:acase study in Minqin,Northwest China.Journal of Arid Land,4(2): 140-150.   \nChenBM,WangGX,ChengDL,etal.2Oo7.Vegetationchangeandsoilnutrientdistributionalonganoasis-deserttransitioal Zone in northwestern China.Journal of Integrative Plant Biology,49(11):1537-1547.   \nHeH D M,wang U,rng SL.zUy.KI oluese auaisuet Hwau aiea OI NwestlUaaue reservoir and provider. Plant Ecology,201(2): 401-409.   \nChenLJ,FengQ.20l3.Geostatisticalanalysisoftemporalandspatial variationsingroundwaterlevelsandqualityinthe Minqin oasis,Northwest China.Environmental Earth Sciences,70(3):1367-1378.   \nChen YP,ChenYN,XuCC,etal.2012.Groundwaterdepth affects the dailycourse ofgas exchange parametersof Populus euphratica in arid areas.Environmental Earth Sciences,66(2): 433-440.   \nChen YP,ChenYN,Xu CC,etal.2016.Theefectsof groundwaterdepthon wateruptakeofPopulus euphraticaandTamarix ramosissima inthe hyperarid regionof Northwestern China.Environmental Science and Polution Research,23(17):17404 17412.   \nChengXL,AnSQ,LiB,etal.26.Summerrainpulsesizeandrainwateruptakebythreedominantdesertplants inadesertified grassland ecosystem in northwester China.Plant Ecology,184(1): 1-12.   \nCooperDJ,SandersonJS,StannardDI,etalOo6.Efectsof long-term water tabledrawdownonevapotranspirationand vegetation in an arid region phreatophyte community. Journal of Hydrology,325(1-4): 21-34.   \nCui YL,ShaoJL.20o5.Theroleof ground waterinarid/semiarid ecosystems,northwest China.Ground Water,43(4): 471-477.   \nCurtis JT,MclntoshRP.1951.Anupland forestcontinuumitheprairie-forestborderregionof Wisconsin.Ecology,32(3):476- 496.   \nDong ZB,ManDQ,LuoWY,etal.20l0.Horizontalaeoliansedimentfluxinthe Minqinarea,amajorsourceofChinesedust storms. Geomorphology,116(1-2): 58-66.   \nDuJH,YanP,DongYX.2010.Phenologicalresponseof Nitraria tangutorum toclimate change in Minqin CountyGansu Province,northwest China.International Journal of Biometeorology, 54(5): 583-593.   \nDuJH,YanP,DongYX.20l1Precipitationcharacteristicsanditsimpactonvegetationrestoration in inqinCountyGansu Province,northwest China.International Journal of Climatology,31(8):1153-1165.   \nEl-KeblawyA,Abdelfatth MA,KhedrAHA.2015.Relationships between landforms,soil characteristicsanddomiant xerophytes in the hyper-arid northern United Arab Emirates.Journal of Arid Environments,117: 28-36.   \nElmoreAJ,ManingSJ,MustardJF,etal.2Oo6.Declineinalkali meadowvegetationcoverinCalifornia:theectsof groundwater extraction and drought. Journal of Applied Ecology,43(4): 770-779.   \nFan BL,ZhangAP,Yang Y,etal.2O16.Long-termefectsof xerophytic shrub Haloxylon ammodendronplantations onsoil properties and vegetation dynamics in Northwest China.PLoS ONE,11(12): e0168000.   \nFan Y.2015.GroundwaterintheEarth'scritical zone:Relevance tolarge-scale patersand processes.WaterResources Research, 51(5): 3052-3069.   \nGrubb PJ.1977.The maintenanceof species-richnesinplantcommunities:The importanceofteregeneratio niche.Biological Reviews,52(1): 107-145.   \nHanFG,Xu XY,Yu QS.2015.Responseofreproductivephenologyof typical sand-fixing plants toclimatechange in the oasis-desert transitionalzone in Minqin,Gansu,China.JournalofDesertResearch,35(2):330-337.(in Chinese)   \nHernandez-CorderoAIerez-ChaconE,Hernandez-CalventoL.15.Vegetation,distancetotheoast,ndeoliangeoohc processes and landforms in a transgressive arid coastal dune system. Physical Geography,36(1): 60-83.   \nHespP,Martiez M,daSilvaGM,etal.O1Transgressvedunefieldlandformsandvegetationassociations,DoaJuana, Veracruz,Mexico.Earth Surface Processes and Landforms,36(3): 285-295.   \nHuang G,LiCH,LiY2O18.Phenoogicalresponsestotrogenandwateradditioarelinkedtoplant growthpatesindesert herbaceous community. Ecology and Evolution,8(10): 5139-5152.   \nHwang JS,ChoiDG,Choi SC,etal.2O16.Relationshipbetweenthe spatial distributionofcoastalsandduneplantsandedaphic factors in a coastal sand dune system in Korea. Journal of Ecology and Environment,39(1):17-29.   \nISSCAS (Instituteof Soil Sciences,Chinese AcademyofSciences).1978.Physicaland Chemical Analysis Methodsof Soils. Shanghai: Shanghai Science Technology Press,7-59.(in Chinese)   \nJiXB,Zhao WZ,KangE,etal.2016.Transpirationfromthreedominantshrub species inadesert-oasis ecotoneofaridregions of Northwestern China.Hydrological Processes,30(25): 4841-4854.   \nLe Maitre DC,ScotDF, Colvin C.1999.Areviewofinformationon interactions between vegetationand groundwater. WaterSA, 25(2): 137-152.   \nLeps J,Smilauer P.2014.Multivariate Analysis of Ecological Data Using CANOCO 5( $2 ^ { \\mathrm { n d } }$ ed.).New York: Cambridge University Press,15-38.   \nLiF,Zhao WZ.2O17.Hydrologic thresholdsandchangs in ANPofartificialsand-fixingvegetationinadesert-oasis ecotoe in Northwest China. Journal of Arid Environments,146: 44-52.   \nLiHO.LiHY.LiOH.etal.2011.Imnactof groundwaterdenth ongrowthof Nitrariatangutorumonthe northeastofUlanbuh Desert.Scientia Silvae Sinicae,47(11):25-30.(in Chinese)   \nLi HY,FengQ,ChenLJ,etal.2O17.Hydrochemicalcharacteristicsand evolution mechanismof groundwater inthe Miqin Oasis.Arid Zone Research,34(4): 733-740.(in Chinese)   \nLi SJ,SuPX,ZhangHN.2018.Distributionpatersofdesertplntdiversityandrelationshiptosoilpropertiesinthe Heihe River Basin, China.Ecosphere,9(7): e02355.   \nLiXR,XiaoHL,ZhangJG.2O04.Long-termecosystem efectsofsand-bindingvegetationinthe Tengger Desert,orthern China. Restoration Ecology,12(3): 376-390.   \nLi XY,LinLS,ZhaoQ,etal.20l0.Influenceofgroundwaterdepthnspeciescompositionandcommunitystructure inthe transition zone of Cele oasis. Journal of Arid Land,2(4): 235-242.   \nLiu B,Zhao WZ,Wen ZJ.2012.Photosynthetic responseoftwoshrubstorainfallpulsesindesertregionsofnorthwesternChina. Photosynthetica,50(1):109-119.   \nLiu B,Guan HD,Zhao WZ,etal.2017.Groundwater facilitated water-useefficiencyalong agradientofgroundwaterdepth in arid northwestern China.Agricultural and Forest Meteorology,233:235-241.   \nLiu YJ,LiuSZ,JiYF.2014.Communitystructureand populationecologicalfeaturesofplanted Haloxylonammodendronin different habitats in Minqin Oasis.Arid Zone Research,31(1): 94-99.(in Chinese)   \nMa QL,WangJH,ZhuSJ.2Oo7.Efectsofprecipitation,soil watercontentandsoilcrustoartificial Haloxylonammodendron forest.Acta Ecologica Sinica,27(12): 5057-5067.(in Chinese)   \nMa QL,WangJH,LiXR,etal.29.Long-termchangesofTamarix-vegetationintheoasis-desert ecotoneanditsdriving factors: implication for dryland management. Environmental Earth Sciences,59(4): 765-774.   \nMaR,WangJH,QuJQ,etal.2O10.Vegetationgradientcharacteristicsandsoilwaterenvironmentofasis-deserttransitioal Zone in Minqin. Chinese Journal of Ecology,29(6):1075-1080.(in Chinese)   \nMata-GonzalezR,McLendonT,MartinDW,etal.2012. Vegetationasafectedbygroundwaterdepthand microtopographyna shallow aquifer area of the Great Basin. Ecohydrology,5(1): 54-63.   \nMiriti MN.2007.Twenty yearsof changes in spatial asociationandcommunitystructure among desert perennials.Ecology, 88(5): 1177-1190.   \nMoreno J,Terrons A,JuanA,etal.218.Halophtic plantcommunitypatts inMediteraneansaltmarshes:sheddnglighton the connection between abiotic factors and the distributionofhalophytes.Plantand Soil,430(1-2):185-204.   \nMueller-Dumbois D,Ellenberg H.1974.Aims and Methods of Vegetation Ecology. New York: John Wiley& Sons,547.   \nOhmann JL,Spies TA.1998.Regional gradient analysis and spatial patternof woody plant communitiesof Oregon Forests. Ecological Monographs,68(2): 151-182.   \nPanDY,BouchardA,Legendre P.1998.Influenceofedaphic factorsonthespatialstructureofinlandalophyticcommities: case study in China.Journal of Vegetation Science,9(6):797-804.   \nPeng HJ,FuBJ,ChenLDetal.2O04.Studyonfeaturesofvegetationsuccessionanditsdriving forceinGansudesertarasA case study at Minqin County. Journal of Desert Research,24(5): 628-633.(in Chinese)   \nPiH W,Sharrat B,LeiJQ.2O17.Windblownsdiment transportandlossinadesert-oasis cotone inthe TarimBasinScientific Reports,7(1),doi: 10.1038/s41598-017-04971-4.   \nQianT,TsunekawaA,MasuagaT,etal.2O17.AnalysisofthespatialvariatioofsoilsalinityanditscausalfactorChina's Minqin oasis.Mathematical Problems in Engineering,doi:10.1155/2017/9745264.   \nQiuGY,LiC,YanCH.2O15.Characteristicsofsoilevaporation,planttranspirationadwaterbudgetofitrariaduneitearid Northwest China.Agricultural and Forest Meteorology,203:107-117.   \nRzepeckiA,ZengF,ThomasFM.20l1.Xylemanatomyand hydraulicconductivityof threeco-occurringdesertphreatophytes. Journal of Arid Environments,75(4): 338-345.   \nShi Z,Cheng R,Liu S,et al. 2008.Carbon assimilation, $\\delta ^ { 1 3 } \\mathrm { C }$ and water relations of Elaeagnus angustifolia grown at two groundwater depths in the Minqin desert, China.Plant Biosystems,142(3): 525-532.   \nSiefertA,Ravenscroft C,AlthoffD,etal.2l.Scaledependenceofvegetatio-environmentrelationsips:ameta-analysisof multivariate data.Journal of Vegetation Science,23(5): 942-951.   \nSimpson E H. 1949.Measurement of diversity. Nature,163: 688.   \nSommer B,FroendR.2014.Phreatophytic vegetationresponses to groundwaterdepth inadrying mediteranean-type landscape. Journal of Vegetation Science,25(4):1045-1055.   \nSykoraKV,vandenBogertJCJM,BerendseF.2O04.Changesinsoilandvegetationduringduneslacksuccesson.Joualof Vegetation Science,15(2): 209-218.   \nSzczucihski W.201.Thepost-depositionalchangesoftheonshore 2004 tsunami depositsonthe Andaman SeacoastofThailand. Natural Hazards, 60(1): 115-133.   \nlangJ,BussoA,angD,etal..xperimetalndbraectsedligurvorspmorlogicaltratsd biomass allocation of Ulmus pumila var.sabulosa in the Horqin SandyLand, China.Solid Earth,7: 1085-1094.   \nTaoY,WuGL,ZhangYM.20l7.Dune-saledistributionpatternofherbaceous plantsandtheirelationshipwithenvironental factors in a saline-alkali desert in Central Asia.Science of the Total Environment, 576: 473-480.   \nThomasFM,FoetzkiA,ArndtSK,etal.2Oo6.Waterusebyperennialplants inthetransitionzonebetweenriveroasisanddesert in NW China.Basic and Applied Ecology,7(3): 253-267.   \nThomeyML,Colins SL,Vargas R,etal.2O11.Efect of precipitation variabilityonnet primaryproductionandsoilrespiration in a Chihuahuan Desert grassand.Global Change Biology,17(4):1505-1515.   \nUrquiagaS,Cruz KHS,BoddeyRM.1992.Contributionof nitrogen fixationtosugarcane: nitrogen-15andnitrogen-balance estimates.Soil Science Society of America Journal, 56(1): 105-114.   \nVivian-mith G.1997.Microtopographic heterogeneityandfloristic diversityinexperimental wetlandcommunities.Journalof Ecology, 85(1): 71-82.   \nWang B,Cui X.2004.Researcheson laws of water balanceat transitional zone between oasis and desert in Minqin.Acta Ecologica Sinica,24(2):235-240.(in Chinese)   \nWang GH,ZhaoWZ.2015.Thespatio-temporal variabilityof groundwater depth inatypical desert-oasis ecotone.Journalof Earth System Science,124(4):799-806.   \nWang Y,LiC,LiAD,etal15.edgradatiooftrariadneadsoilwateriiniasis.ActaEcologicaica,5(): 1407-1421.(in Chinese)   \nWei X,Pan X,ZhaoC,etal.2008.Responseofthree dominantshrubs tosoil waterand groundwateralong theoasis-desert ecotone in Northwest China.Russian Journal of Ecology,39(7): 475-482.   \nWu Y,Zhou H,Zheng XJ,etal.2014.Seasoalchangesinthewaterusestrategiesof threeco-occuring desert shrubs. Hydrological Processes,28(26): 6265-6275.   \nXi JQ,Yang ZH,GuoSJ,etal.2015.EfectsofHaloxylonammodendronplantingosoilphysico-chemicalpropertiesandoil microorganisms in sandy dunes.Acta Prataculturae Sinica,24(5):44-52.(in Chinese)   \nXieYZ,QiuKY,XuDM,etal.2O15.Spatialheterogeneityofsoilandvegetationcharacteristicsandsoil-vegetation relationships along an ecotone in southern Mu Us SandyLand,China.Journal ofSoils and Sediments,15(7):1584-1601.   \nXu HL,Ye M,LiJM.2o7.Changes in groundwater levelsandtheresponseofnatural vegetationto transferof waterto the lower reaches of the Tarim River. Journal of Environmental Sciences,19(10): 1199-1207.   \nYang YY,LiuLY,ShiPJ,etal.215.orphologyspatialpatendsdimentofitrariatangutorumebkhasibcha interdune areas at the southeast margin of the Badain Jaran Desert, China.Geomorphology,232:182-192.   \nYang ZH,FangET,LiuHJ,etal.2Oo.EfectofwatertabletoicheofplantpopulatioatMinqinoasisfringe.ActaEologica Sinica,27(11): 4900-4906.(in Chinese)   \nZereenA,SardarAA.2O15.Multivariateanalysisof environment-vegetation complexof Veharidistrict,Pakistan.Bangladesh Journal of Botany,44(3): 399-405.   \nZhang K C,An Z S,CaiDW.20l7.Keyroleof desert-oasis transitional area inavoiding oasis land degradation fromaeolian desertification in Dunhuang,Northwest China.Land Degradation & Development,28(1):142-150.   \nZhang YL,MaJH,Chang XL,et al.2O12. Waterresources assessmentin the Minqin Basin: an arid inland river basinunder intensive irrigation in northwest China.Environmental Earth Sciences,65(6):1831-1839.   \nZhao Y,FengQ,XiHY.2O17.Asociationbetwnplantspeciesdiversityandedaphic factorsinthelowerreachesofthe Heihe River, northwestern China. Chemistry and Ecology,33(3):181-195.   \nZhouH,Zhao WZ,Zhang GF.2017.Varying waterutilizationof Haloxylon ammodendron plantations inadesert-oasis ecotone. Hydrological Processes,31(4): 825-835.   \nZhou ZH,JiaoJ,LiY,etal.2012.Thegreyrelatednessanalysisbetweethemodularstructureof clonal populationof Caligonum mongolicumand theenvironmental factors in the Minqin Desert.Scientia Silvae Sinicae,48(5):141-149.(in Chinese)   \nZhu JJ,Chen H,Xing X,etal.2O15.Quantification analysisof watersouresof desert plants inQaidam Basin:Acasestudyof Golmud plot. Geographical Research,34(2): 285-292. (in Chinese)   \nZhuJT,YuJJ,WangP,etal.2O14.Variabilityingroundwaterdepthandcompositioandtheirimpactsonvegetatiosuceion in the lower Heihe River Basin,north-western China.Marine and Freshwater Research,65(3): 206-217.   \nZhu YJ,Lu Q,WuB,etal.20l3.Efectsof increased precipitationonthe wateruseof Nitraira tangutorumatsoutheastedgeof Badain Jaran Desert in China.Chinese Journal of Applied Ecology,24(1): 41-48.(in Chinese) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Appendix ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/572271ef35fbca4e9e0dcf4252dc65b45edd07ba47fa818ffada238361680ed7.jpg",
+        "table_caption": [
+            "Table S1 Species composition in the study area "
+        ],
+        "table_footnote": [
+            "Note: S,shrub;AH,annual herb;PH,perennial herb. "
+        ],
+        "table_body": "<html><body><table><tr><td>Species</td><td>Family</td><td>Life form</td><td>Dominance index (%)</td></tr><tr><td>Haloxylon ammodendron</td><td>Chenopodiaceae</td><td>S</td><td>2.055</td></tr><tr><td>Bassia dasyphylla</td><td>Chenopodiaceae</td><td>AH</td><td>0.307</td></tr><tr><td>Halogetonglomeratus</td><td>Chenopodiaceae</td><td>AH</td><td>0.109</td></tr><tr><td>Salsola collina</td><td>Chenopodiaceae</td><td>AH</td><td>0.186</td></tr><tr><td>Agriophyllumsquarrosum</td><td>Chenopodiaceae</td><td>AH</td><td>0.862</td></tr><tr><td>Kalidiumfoliatum</td><td>Chenopodiaceae</td><td>S</td><td>0.078</td></tr><tr><td>Corispermumpatelliforme</td><td>Chenopodiaceae</td><td>AH</td><td>0.016</td></tr><tr><td>Nitraria tangutorum</td><td>Zygophyllaceae</td><td>S</td><td>4.726</td></tr><tr><td>Sarcozygium xanthoxylon</td><td>Zygophyllaceae</td><td>S</td><td>0.001</td></tr><tr><td>Tribulus terrester</td><td>Zygophyllaceae</td><td>AH</td><td>0.000</td></tr><tr><td>Zygophyllum fabago</td><td>Zygophyllaceae</td><td>PH</td><td>0.012</td></tr><tr><td>Peganum harmala</td><td>Zygophyllaceae</td><td>PH</td><td>0.000</td></tr><tr><td>Phragmites australis</td><td>Gramineae</td><td>PH</td><td>0.739</td></tr><tr><td>Stipa glareosa</td><td>Gramineae</td><td>PH</td><td>0.005</td></tr><tr><td>Chloris virgata</td><td>Gramineae</td><td>AH</td><td>0.000</td></tr><tr><td>Eragrostis pilosa</td><td>Gramineae</td><td>AH</td><td>0.027</td></tr><tr><td>Hedysarum scoparium</td><td>Leguminosae</td><td>S</td><td>0.001</td></tr><tr><td>Lespedeza potaninii</td><td>Leguminosae</td><td>S</td><td>0.000</td></tr><tr><td>Sophora alopecuroides</td><td>Leguminosae</td><td>PH</td><td>0.001</td></tr><tr><td>Caragana korshinskii</td><td>Leguminosae</td><td>S</td><td>0.001</td></tr><tr><td>Tamarix ramosissima</td><td>Tamaricaceae</td><td>S</td><td></td></tr><tr><td>Reaumuria songarica</td><td>Tamaricaceae</td><td>S</td><td>0.186 0.066</td></tr><tr><td>Artemisiasalsoloides</td><td>Compositae</td><td>S</td><td>0.228</td></tr><tr><td>Artemisia frigida</td><td>Compositae</td><td>PH</td><td>0.001</td></tr><tr><td>Karelinia caspia</td><td>Compositae</td><td>PH</td><td>0.000</td></tr><tr><td>Calligonum mongolicum</td><td>Polygonaceae</td><td>S</td><td>0.783</td></tr><tr><td>Limonium aureum</td><td>Polygonaceae</td><td>PH</td><td>0.055</td></tr><tr><td>Lycium ruthenicum</td><td>Solanaceae</td><td>S</td><td>0.032</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0268ff321c001b3c6bb65c2de95718cc4d32ffcd32717bf2796ce36259527dd.jpg",
+        "table_caption": [
+            "eelerer zaqe ",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Environmental factor</td><td>Group 1</td><td>Group 2</td><td>Group 3</td><td>Group 4</td><td>Group 5</td><td>Group 6</td><td>Group 7</td></tr><tr><td>swc</td><td>4.36±2.17c</td><td>2.65±1.08c</td><td>2.79±1.66c</td><td>5.26±4.70bc</td><td>7.26±3.73b</td><td>10.61±3.68a</td><td>12.25±2.30a</td></tr><tr><td>Clay</td><td>2.78±2.27bc</td><td>1.81±0.98c</td><td>3.76±1.68abc</td><td>4.64±3.62abc</td><td>6.43±3.12a</td><td>6.44±3.71a</td><td>5.66±5.04ab</td></tr><tr><td>Silt</td><td>10.97±12.06bc</td><td>5.82±5.07℃</td><td>11.51±6.14bc</td><td>16.89±13.13abc</td><td>23.37±12.94ab</td><td>27.38±16.11a</td><td>21.83±17.77ab</td></tr><tr><td>Sand</td><td>86.25±14.31ab</td><td>92.37±6.04a</td><td>84.73±7.74ab</td><td>78.47±16.67abc</td><td>70.20±15.95bc</td><td>66.18±19.64c</td><td>72.51±22.56bc</td></tr><tr><td>TN</td><td>0.010±0.005c</td><td>0.007±0.003c</td><td>0.012±0.004bc</td><td>0.015±0.010bc</td><td>0.020±0.006ab</td><td>0.026±0.010a</td><td>0.024±0.017a</td></tr><tr><td>AP</td><td>0.99±0.29bc</td><td>0.81±0.13c</td><td>0.75±0.28c</td><td>1.16±0.25ab</td><td>1.37±0.23a</td><td>1.08±0.31b</td><td>1.18±0.25ab</td></tr><tr><td>SOM</td><td>0.27±0.17c</td><td>0.21±0.07c</td><td>0.28±0.09c</td><td>0.34±0.23be</td><td>0.53±0.15bc</td><td>1.02±1.26a</td><td>0.78±0.52ab</td></tr><tr><td>pH</td><td>8.00±0.30a</td><td>8.35±0.31a</td><td>8.14±0.55a</td><td>7.54±0.42b</td><td>7.61±0.18b</td><td>7.15±0.37bc</td><td>7.46±0.33bc</td></tr><tr><td>EC</td><td>336.17±405.57b</td><td>128.95±45.38b</td><td>518.24±389.82ab</td><td>288.99±198.72b</td><td>783.17±320.98a</td><td>606.07±411.11ab</td><td>597.35±316.43</td></tr><tr><td>Dep</td><td>19.73±2.20a</td><td>22.23±1.67a</td><td>22.51±1.83a</td><td>16.11±5.20b</td><td>15.36±5.35b</td><td>6.78±5.38c</td><td>7.76±1.27℃</td></tr><tr><td>Dis</td><td>4.20±1.46a</td><td>2.57±1.62bc</td><td>1.94±1.18bc</td><td>2.25±0.80be</td><td>1.25±1.00c</td><td>2.81±1.75b</td><td>2.94±0.95b</td></tr><tr><td>Altitude</td><td>1344.70±28.21b</td><td>1389.00±14.73a</td><td>1362.02±12.10b</td><td>1323.25±29.99c</td><td>1324.56±24.85c</td><td>1308.38±14.31cd</td><td>1302.78±3.67</td></tr><tr><td>Pre</td><td>140.72±13.57ab</td><td>141.41±13.46ab</td><td>131.72±1.51b</td><td>135.88±2.70b</td><td>133.13±3.21b</td><td>135.23±3.77b</td><td>146.79±14.57*</td></tr><tr><td>Tem</td><td>6.48±1.02b</td><td>5.52±0.00c</td><td>5.53±0.05c</td><td>6.95±0.84ab</td><td>6.92±0.83ab</td><td>7.01±0.61ab</td><td>7.18±0.00a</td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/93984feef22743a110a707f2c54915a9c80f7cd38bca823327dda8c3c6621030.jpg",
+        "table_caption": [
+            "eeereerrreeerrrrir "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Environmental factor</td><td>SWC</td><td>Clay</td><td>Silt</td><td>Sand</td><td>TN</td><td>AP</td><td>SOM</td><td>pH</td><td>EC</td><td>Dep</td><td>Dis</td><td>Altitude</td><td>Pre</td><td>Tem</td></tr><tr><td>swc</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Clay</td><td>0.596**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Silt</td><td>0.631**</td><td>0.955**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sand</td><td>-0.629**</td><td>-0.971**</td><td>-0.998**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TN</td><td>0.711**</td><td>0.824</td><td>0.810**</td><td>-0.818**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AP</td><td>0.450**</td><td>0.341**</td><td>0.339**</td><td>-0.342**</td><td>0.387**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOM</td><td>0.466**</td><td>0.673**</td><td>0.633**</td><td>-0.646**</td><td>0.593**</td><td>0.273*</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>pH</td><td>-0.669**</td><td>-0.497**</td><td>-0.539**</td><td>0.535**</td><td>-0.568**</td><td>-0.460**</td><td>-0.373**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>EC</td><td>-0.471**</td><td>0.515**</td><td>0.554**</td><td>-0.551**</td><td>0.362**</td><td>0.355**</td><td>0.299*</td><td>-0.537**</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Dep</td><td>-0.884**</td><td>-0.408**</td><td>-0.467**</td><td>0.458**</td><td>-0.645**</td><td>-0.445**</td><td>-0.313**</td><td>0.748**</td><td>-0.354**</td><td>1.000</td><td></td><td></td><td></td><td></td></tr><tr><td>Dis</td><td>0.107</td><td>0.467</td><td>0.174</td><td>-0.159</td><td>0.010</td><td>-0.048</td><td>0.143</td><td>0.008</td><td>-0.105</td><td>-0.017</td><td>1.000</td><td></td><td></td><td></td></tr><tr><td>Altitude</td><td>-0.739**</td><td>-0.379**</td><td>-0.433**</td><td>0.425**</td><td>-0.527**</td><td>-0.526**</td><td>-0.295*</td><td>0.728**</td><td>-0.473**</td><td>0.810**</td><td>0.007</td><td>1.000</td><td></td><td></td></tr><tr><td>Pre</td><td>0.032</td><td>-0.163</td><td>-0.129</td><td>0.137</td><td>-0.088</td><td>-0.043</td><td>-0.091</td><td>0.093</td><td>-0.156</td><td>-0.065</td><td>0.183</td><td>0.132</td><td>1.000</td><td></td></tr><tr><td>Tem</td><td>0.610**</td><td>0.236</td><td>0.310*</td><td>-0.298*</td><td>0.429**</td><td>0.578**</td><td>0.152</td><td>-0.643**</td><td>0.336**</td><td>-0.749**</td><td>-0.119</td><td>-0.900**</td><td>-0.072</td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 15
+    }
+]

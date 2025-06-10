@@ -1,0 +1,448 @@
+[
+    {
+        "type": "text",
+        "text": "二次侧不等容VX接线牵引变压器的电气计算和研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏光耀 林国松 唐诗光（西南交通大学电气工程学院 成都610000)",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f9b9d73e95e368b6ce43ebee7e4e072a12c4fe2985edd3b8b0686e808559731.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏光耀男 1992年生，硕士研究生，研究方向为继电保护、地铁供电系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：介绍了VX接线牵引变压器的接线特点；推导了二次绕组容量不相等情况下的VX牵引变压器的节点导纳阵；分析计算了当二次绕组容量的比值发生变化时负序分别对系统的影响，并对结果进行分析总结得到了一般性规律。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：VX接线 不等容 节点导纳阵 负序中图分类号：TM922.73",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Electrical Calculations and Research of the Unequal Capacity VX Traction Transformer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Guangyao Lin GuosongTang Shiguang (Southwest Jiaotong UniversityChengdu 61ooooChina) ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa800e89fe207a7719f6a3f38b0aa477ae67e6bb0c67eece1d14991c67481e41.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The design characteristics of VX connection traction transformer are introduced.The Node admittance matrix of the VX connection traction transformer with the capacity of the Secondary side different are deduced.The influence of negative sequence of the system with the ratio of secondary side capacity change are analyzed and calculated separately and the general rules are Summed up by analyzing and summarizing the results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林国松•男 1974年生，副教授，硕士生导师，研究方向为继电保护、地铁供电系统。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: VX connection, unequal capacity, node admittance matrix, negative sequence ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，我国重载高速电气化铁路正在飞速发展。重载高速电气化铁路相比于普通高速电气化铁路最大的不同就在于牵引负荷大幅度提升，所以牵引功率也会随之提高，这对牵引供电系统提出了新的要求。目前我国采用最多的供电方式为AT供电和直供方式。AT供电方式[具有供电能力强和电压损失小等优点，适用于高速和重载的电气化铁路线路中，是我国近些年来使用最为普遍的供电方式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AT供电方式下的牵引变压器[的接线方式主要有下列几种：单相接线、斯科特接线、伍德桥接线、十字交叉接线和VX接线。其中，三相VX牵引变压器[3]具有占地面积小、投资成本低和供电能力强等优点。并且，由于牵引负荷的非对称特性将会在电力系统中产生负序电流，故可以用VX变压器来减小负序电流的产生。本文中，将只讨论三相VX 牵引变压器[4]，以解决通过改变一、二次绕组的匝数比来减小负序对系统的影响的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 VX牵引变压器简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VX 牵引变压器是由两台等容或者不等容[5]的二次侧中点抽出式单相变压器组合而成，每相有两个二次绕组。其接线原理图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e5942d42084757d9787838301e0e1fe1237df720a000c9a8bf8dbf9037b8b05.jpg",
+        "img_caption": [
+            "图1VX接线原理图",
+            "Fig.1VX wiring schematic "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VX牵引变压器从结构上看，既可以看作是由两台一次侧单相三绕组变压器结合在一起，放在同一油箱中，也可以是由两台单相三绕组变压器从外部连接而成。由于是两台单相三绕组变压器的简单组合，其磁路相互独立，所以一次侧AB、CB两单项容量可以相等，也可以不等，二次侧T绕组和F绕组容量也可以相等或者不相等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 二次侧不等容VX牵引变压器计算分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前人对一次侧容量相等，二次侧容量也相等的VX变压器已经分析较多，而对于实际的电气化铁路，两供电臂的负荷往往是不同的，再综合其他因素考虑，故在实际运行中往往一次侧容量相等，而二次侧容量不相等，及T绕组和F绕组容量不相同，其比值往往在 $1 \\sim 2$ 之间变化。由于负载的大小往往和变压器的铜耗有关，而合理地选择二次侧容量之比可以合理分配负荷进而减小变压器的生产耗材。故本文将着重分析VX变压器一次侧等容，二次边T绕组与F绕组不等容[的情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设AB、CB匝数为 $w _ { 1 }$ ， $\\mathrm { T } _ { 1 } \\mathrm { N }$ ， $\\mathrm { T } _ { 2 } \\mathrm { N }$ 匝数为 $w _ { 2 }$ $\\mathrm { F } _ { 1 } \\mathrm { N } .$ ： $\\mathrm { F } _ { 2 } \\mathrm { N }$ 匝数为 $w _ { 3 }$ ，而 $w _ { 2 } \\not = w _ { 3 }$ ， $w _ { 1 } / w _ { 2 } = k _ { 1 }$ ， $w _ { 1 } / w _ { 3 } = k _ { 2 }$ 。由磁式平衡方程可得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\dot { I } _ { \\mathrm { A B } } ^ { ( 2 ) } = \\dot { I } _ { \\mathrm { N T 1 } } + \\dot { I } _ { \\mathrm { N F 1 } } \\right. } \\\\ { \\left. \\dot { I } _ { \\mathrm { C B } } ^ { ( 2 ) } = \\dot { I } _ { \\mathrm { N T 2 } } + \\dot { I } _ { \\mathrm { N F 2 } } \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对式（1）及其他诸式中， $\\dot { I } _ { \\mathrm { A B } } ^ { ( 2 ) }$ 是按绕组匝数比把电流 $\\dot { I } _ { \\mathrm { A B } }$ 折算到二次侧的值，式中， $\\dot { I } _ { \\mathrm { N T 1 } }$ 、$\\dot { I } _ { \\mathrm { N T 2 } }$ ， $\\dot { I } _ { \\mathrm { N F 1 } }$ 和 $\\dot { I } _ { \\mathrm { N F } 2 }$ 分别是二次侧 $\\mathrm { T } _ { 1 } \\mathrm { N }$ ， $\\mathrm { T } _ { 2 } \\mathrm { N }$ 、 $\\mathrm { F } _ { 1 } \\mathrm { N }$ 和$\\mathrm { F } _ { 2 } \\mathrm { N }$ 绕组的电流。假设AB绕组的阻抗为 $Z _ { 1 }$ ，CB绕组的为 $Z _ { 4 }$ ， $\\mathrm { T } _ { 1 } \\mathrm { N }$ 绕组的为 $Z _ { 2 }$ ， $\\mathrm { T } _ { 2 } \\mathrm { N }$ 绕组的为 $Z _ { 5 }$ ，$\\mathrm { F } _ { 1 } \\mathrm { N }$ 绕组的为 $Z _ { 3 }$ ， $\\mathrm { F } _ { 2 } \\mathrm { N }$ 绕组阻抗 $Z _ { 6 }$ ，其中， $\\begin{array} { r } { Z _ { 1 } = Z _ { 4 } } \\end{array}$ ，$Z _ { \\scriptscriptstyle 2 } = Z _ { \\scriptscriptstyle 5 }$ 、 ${ Z _ { 3 } } = { Z _ { 6 } }$ ，所以有一次侧及二次侧两条回路CB- $\\mathrm { T } _ { 2 } \\mathrm { N F } _ { 2 }$ 与AB- $\\mathbf { \\cdot T _ { 1 } N F _ { 1 } }$ 相同，故可先求AB- $\\mathrm { T } _ { 1 } \\mathrm { N F } _ { 1 }$ 模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由多绕组变压器理论，有传递电压方程为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\bigg ( \\dot { U } _ { \\mathrm { A B } } ^ { ( 2 ) } - \\dot { U } _ { \\mathrm { N T 1 } } \\bigg ) = \\left( \\begin{array} { c c } { Z _ { 2 1 } } & { Z _ { 1 } ^ { ( 2 ) } } \\\\ { Z _ { 1 } ^ { ( 2 ) } } & { Z _ { 3 1 } } \\end{array} \\right) \\left( \\dot { I } _ { \\mathrm { N T 1 } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对式（2）及其他诸式中， $\\dot { U } _ { \\mathrm { A B } } ^ { ( 2 ) }$ 是按绕组匝数比把电压 $\\dot { U } _ { \\mathrm { A C } }$ 折算到二次侧的值，式中， $\\dot { U } _ { \\mathrm { N T 1 } }$ 、 $\\dot { U } _ { \\mathrm { N F 1 } }$ 分别是二次侧 $\\mathrm { T } _ { 1 } \\mathrm { N }$ ， $\\mathrm { F } _ { 1 } \\mathrm { N }$ 绕组的电压，假设 $Z _ { 2 1 }$ ， $Z _ { 3 1 }$ 分别是绕组AB- $\\cdot \\mathrm { N T } _ { 1 }$ 和AB- $\\cdot \\mathrm { N F } _ { 1 }$ 的短路阻抗，折算到二次侧的值， $Z _ { 1 } ^ { ( 2 ) }$ 是变压器一次侧的等效阻抗折算到二次侧的值。由磁势平衡方程可得一、二次侧的负荷电流关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { \\dot { I } _ { \\mathrm { A } } } \\\\ { \\dot { I } _ { \\mathrm { B } } } \\\\ { \\dot { I } _ { \\mathrm { c } } } \\end{array} \\right) = \\frac { 1 } { k _ { 1 } } \\left( \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\\\ { - 1 } & { - 1 } \\end{array} \\right) \\left( \\dot { I } _ { \\mathrm { N T 1 } } \\right) + \\frac { 1 } { k _ { 2 } } \\left( \\begin{array} { l l } { 1 } & { 0 } \\\\ { 0 } & { 1 } \\\\ { - 1 } & { - 1 } \\end{array} \\right) \\left( \\dot { I } _ { \\mathrm { N F 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对式（3）及其他诸式中， $\\dot { I } _ { \\mathrm { A } }$ 、 $\\dot { I } _ { \\mathrm { B } }$ 和 $\\dot { I } _ { \\mathrm { c } }$ 分别是A、B、C相的负荷电流，由式（2）得二次侧端口电压方程",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\dot { U } _ { \\mathrm { N T 1 } } \\right) = \\left( \\dot { U } _ { \\mathrm { N T 1 0 } } \\right) - \\left( \\begin{array} { c c } { Z _ { 1 } } & { Z _ { 1 } ^ { ( 2 ) } } \\\\ { Z _ { 1 } ^ { ( 2 ) } } & { Z _ { 3 1 } } \\end{array} \\right) \\left( \\dot { I } _ { \\mathrm { N T 1 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对式（4）及其他诸式中， $\\dot { U } _ { \\mathrm { N T 1 0 } }$ ， $\\dot { U } _ { \\mathrm { N T } 2 0 }$ ，$\\dot { U } _ { \\mathrm { N F 1 0 } }$ ， $\\dot { U } _ { \\mathrm { N F } 2 0 }$ 是指 $\\mathrm { T } _ { 1 } \\mathrm { N }$ ， $\\mathrm { T } _ { 2 } \\mathrm { N }$ 、 $\\mathrm { F } _ { 1 } \\mathrm { N }$ ， $\\mathrm { F } _ { 2 } \\mathrm { N }$ 绕组的空载电压，其中",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { U } _ { \\mathrm { N T 1 0 } } = \\dot { U } _ { \\mathrm { A C } } ^ { ( 2 ) } = \\dot { U } _ { \\mathrm { N F 1 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\dot { U } _ { \\mathrm { N T 1 0 } } \\right) = \\frac { 1 } { k _ { 1 } } \\left( \\begin{array} { l l l } { 1 } & { 0 } & { - 1 } \\\\ { 0 } & { 1 } & { - 1 } \\end{array} \\right) \\left( \\dot { U } _ { \\mathrm { c } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\dot { U } _ { \\mathrm { N F 1 0 } } \\right) = \\frac { 1 } { k _ { 2 } } \\left( \\begin{array} { l l l } { 1 } & { 0 } & { - 1 } \\\\ { 0 } & { 1 } & { - 1 } \\end{array} \\right) \\left( \\dot { U } _ { \\mathrm { c } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，式（4）可变为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\dot { U } _ { \\mathrm { m i } } = \\dot { U } _ { \\mathrm { m i 0 } } - \\displaystyle \\frac { 1 } { 2 } ( 3 Z _ { 2 1 } + Z _ { 3 1 } - Z _ { 2 3 } ) \\dot { I } _ { \\mathrm { N I 1 } } + \\right. } \\\\ { \\left. \\qquad \\frac { 1 } { 2 } ( Z _ { 2 1 } + Z _ { 3 1 } - Z _ { 2 3 } ) ( \\dot { I } _ { \\mathrm { N I 1 } } - \\dot { I } _ { \\mathrm { N I N } } ) \\right. } \\\\ { \\left. \\qquad \\dot { U } _ { \\mathrm { N F I 0 } } = \\dot { U } _ { \\mathrm { N F I 0 } } - \\displaystyle \\frac { 1 } { 2 } ( 3 Z _ { 3 1 } + Z _ { 2 1 } - Z _ { 2 3 } ) \\dot { I } _ { \\mathrm { F N 1 } } + \\right. } \\\\ { \\left. \\qquad \\frac { 1 } { 2 } ( Z _ { 2 1 } + Z _ { 3 1 } - Z _ { 2 3 } ) ( \\dot { I } _ { \\mathrm { F N 1 } } - \\dot { I } _ { \\mathrm { N I 1 } } ) \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对式（6）及其他诸式中， $Z _ { 2 3 }$ 是 $\\mathrm { T } _ { 1 } \\mathrm { N }$ 与 $\\mathrm { F } _ { 1 } \\mathrm { N }$ 之间的短路阻抗，因为 $\\mathrm { C B - T } _ { 2 } \\mathrm { N F } _ { 2 }$ 与AB- $\\cdot \\mathrm { T } _ { 1 } \\mathrm { N F } _ { 1 }$ 情况相同。所以可由式（3）和式（4）推出节点导纳阵，由于 $Z _ { 2 } = Z _ { 5 }$ ， $Z _ { 3 } = Z _ { 6 }$ ，故可由 $k _ { 1 }$ 、 $k _ { 2 }$ 、 $Z _ { 1 }$ 、 $Z _ { 2 }$ 、 $Z _ { 3 }$ 表示出节点导纳阵",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\left( \\begin{array} { c } { I _ { \\mathrm { A } } } \\\\ { I _ { \\mathrm { A } } } \\\\ { I _ { \\mathrm { B } } } \\\\ { I _ { \\mathrm { C } } } \\\\ { I _ { \\mathrm { T } _ { 1 } } } \\\\ { I _ { \\mathrm { T } _ { 1 } } } \\\\ { I _ { \\mathrm { T } _ { 2 } } } \\\\ { I _ { \\mathrm { T } _ { 2 } } } \\\\ { I _ { \\mathrm { T } _ { 2 } } } \\\\ { I _ { \\mathrm { T } _ { 3 } } } \\end{array} \\right) } & { } & { \\left( \\begin{array} { c } { U _ { \\mathrm { A } } } \\\\ { U _ { \\mathrm { B } } } \\\\ { U _ { \\mathrm { C } } } \\\\ { X } \\end{array} \\right) } \\\\ { \\left( \\begin{array} { c c } { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\end{array} \\right) } & { = } & { \\left( \\begin{array} { c } { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\\\ { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\end{array} \\right) } \\\\ { \\left( \\begin{array} { c } { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\\\ { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\end{array} \\right) } & { = } & { \\left( \\begin{array} { c } { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\\\ { 0 } \\\\ { 0 } \\\\ { \\frac { 1 } { \\sqrt { 3 } } } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $X ,$ 、Y、Z、W分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\left( \\begin{array} { c c c c } { { \\frac { 4 } { M } } } & { { 0 } } & { { - \\frac { 4 } { M } } } & { { - \\frac { N } { M } } } \\\\ { { 0 } } & { { \\frac { 4 } { M } } } & { { - \\frac { 4 } { M } } } & { { 0 } } \\\\ { { - \\frac { 4 } { M } } } & { { - \\frac { 4 } { M } } } & { { \\frac { 8 } { M } } } & { { \\frac { N } { M } } } \\\\ { { - \\frac { N } { M } } } & { { 0 } } & { { \\frac { N } { M } } } & { { \\frac { M - 2 Z _ { 2 } } { M \\times 2 Z _ { 2 } } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { Y } = \\left( \\begin{array} { c c c c } { \\boldsymbol { N } } & { \\boldsymbol { 0 } } & { \\boldsymbol { 0 } } & { \\boldsymbol { 0 } } \\\\ { \\boldsymbol { 0 } } & { - \\frac { \\boldsymbol { N } } { M } } & { \\frac { \\boldsymbol { N } } { M } } & { \\boldsymbol { 0 } } \\\\ { - \\frac { \\boldsymbol { N } } { M } } & { \\frac { \\boldsymbol { N } } { M } } & { - \\frac { \\boldsymbol { N } } { M } } & { \\boldsymbol { 0 } } \\\\ { \\frac { 2 Z _ { 1 } } { M Z _ { 2 } } } & { \\boldsymbol { 0 } } & { \\boldsymbol { 0 } } & { - \\frac { \\boldsymbol { 1 } } { Z _ { 2 } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\left( \\begin{array} { c c c c } { { \\displaystyle { \\frac { N } { M } } } } & { { 0 } } & { { - \\displaystyle { \\frac { N } { M } } } } & { { \\displaystyle { \\frac { 2 Z _ { 1 } } { M Z _ { 2 } } } } } \\\\ { { 0 } } & { { - \\displaystyle { \\frac { N } { M } } } } & { { \\displaystyle { \\frac { N } { M } } } } & { { 0 } } \\\\ { { 0 } } & { { \\displaystyle { \\frac { N } { M } } } } & { { - \\displaystyle { \\frac { N } { M } } } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { - \\displaystyle { \\frac { 1 } { Z _ { 2 } } } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { W = \\left( \\begin{array} { c c c c } { \\frac { M - 2 Z _ { 1 } } { M Z _ { 2 } } } & { 0 } & { 0 } & { - \\frac { 1 } { Z _ { 2 } } } \\\\ { 0 } & { \\frac { M - 2 Z _ { 1 } } { M Z _ { 2 } } } & { \\frac { 2 Z _ { 1 } } { M Z _ { 2 } } } & { - \\frac { 1 } { Z _ { 2 } } } \\\\ { 0 } & { \\frac { 2 Z _ { 1 } } { M Z _ { 2 } } } & { \\frac { M - 2 Z _ { 1 } } { M Z _ { 2 } } } & { - \\frac { 1 } { Z _ { 2 } } } \\\\ { - \\frac { 1 } { Z _ { 2 } } } & { - \\frac { 1 } { Z _ { 2 } } } & { - \\frac { 1 } { Z _ { 2 } } } & { \\frac { 4 } { Z _ { 2 } } } \\end{array} \\right) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $M = 4 Z _ { 1 } + ( { k _ { 1 } ^ { ^ { 2 } } + k _ { 2 } ^ { ^ { 2 } } } ) Z _ { 2 }$ ，而 $N = k _ { 1 } + k _ { 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4二次侧不等容的VX牵引变压器对负序的影响分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据以上节点方程可以得到牵引变压器牵引侧接触线、正馈线、钢轨电流 $\\dot { I } _ { \\mathrm { P l } }$ ， $\\dot { I } _ { \\mathrm { C 1 } }$ ， $\\dot { I } _ { \\mathrm { R 1 } }$ 和 $\\dot { I } _ { \\mathrm { P } 2 }$ ， $\\dot { I } _ { \\mathrm { C } 2 }$ ，$\\dot { I } _ { \\mathrm { R } 2 }$ ，根据磁势平衡原理，利用叠加定理，可以得到二次电流 $\\dot { I } _ { \\mathrm { A } }$ 、 $\\dot { I } _ { \\mathrm { B } }$ ， $\\dot { I } _ { \\scriptscriptstyle \\mathrm { C } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等效电路图如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5196a408430d8debbe41a2e21c2a0b5d10cffdd019b0ed1b3af1e3850178e7c4.jpg",
+        "img_caption": [
+            "图2VX变压器等效电路图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Equivalent circuit diagram of VX transformer ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由 $\\dot { I } _ { \\mathrm { A } } = k _ { 1 } ( \\dot { I } _ { 0 } + \\dot { I } _ { \\alpha 1 } ) + k _ { 2 } ( \\dot { I } _ { 0 } + \\dot { I } _ { \\alpha 2 } ) \\mathfrak { F } \\sharp \\dot { I } _ { \\mathrm { C } } = k _ { 1 } ( \\dot { I } _ { 0 } + \\dot { I } _ { \\beta 1 } ) +$ $k _ { 2 } \\big ( \\dot { I } _ { 0 } + \\dot { I } _ { \\beta 2 } \\big )$ 可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { \\dot { I } _ { \\mathrm { A } } } \\\\ { \\dot { I } _ { \\mathrm { C } } } \\\\ { \\dot { I } _ { \\mathrm { B } } } \\end{array} \\right) = k _ { 1 } \\left( \\begin{array} { l l l } { 1 } & { 1 } & { 0 } \\\\ { 1 } & { - 1 } & { 0 } \\\\ { 0 } & { 0 } & { 0 } \\end{array} \\right) \\left( \\begin{array} { l } { \\dot { I } _ { 0 } } \\\\ { \\dot { I } _ { \\mathrm { a l } } + \\dot { I } _ { \\mathrm { a 2 } } } \\\\ { 0 } \\end{array} \\right) + k _ { 2 } \\left( \\begin{array} { l l l } { 1 } & { 0 } & { 0 } \\\\ { 1 } & { 1 } & { 0 } \\\\ { 1 } & { - 1 } & { 0 } \\end{array} \\right) \\left( \\begin{array} { l } { \\dot { I } _ { 0 } } \\\\ { \\dot { I } _ { \\mathrm { \\beta 1 } } + \\dot { I } _ { \\mathrm { \\beta 2 } } } \\\\ { 0 } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对式（12）及其他诸式中， $\\dot { I } _ { \\mathrm { A } }$ ， $\\dot { I } _ { \\mathrm { B } }$ ， $\\dot { I } _ { \\mathrm { c } }$ 为一次电流， $\\dot { I } _ { \\mathrm { 0 } }$ ， $\\dot { I } _ { 1 }$ ， ${ \\dot { I } } _ { 2 }$ 分别为零序、正序和负序电流。$\\dot { I } _ { \\alpha 1 }$ ， $\\dot { I } _ { \\alpha 2 }$ ， $\\dot { I } _ { \\mathfrak { p } 1 }$ 、 $\\dot { I } _ { \\beta 2 }$ 分别为变压器二次侧 ${ \\mathbf { R } } _ { 1 } { - } { \\mathbf { T } } _ { 1 }$ 回路、$\\bf { F } _ { 1 } – \\bf { R } _ { 1 }$ 回路、 ${ \\mathbf { R } _ { 2 } } { \\mathbf { - } } { \\mathbf { T } _ { 2 } }$ 回路、 $\\mathbf { F } _ { 2 } { \\cdot } \\mathbf { R } _ { 2 }$ 回路电流。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c } { { \\dot { I } _ { 0 } } } \\\\ { { \\dot { I } _ { 1 } } } \\\\ { { \\dot { I } _ { 2 } } } \\end{array} \\right) = \\frac { 1 } { 3 } \\left( \\begin{array} { c c c } { { 1 } } & { { 1 } } & { { 1 } } \\\\ { { 1 } } & { { a ^ { 2 } } } & { { a } } \\\\ { { 1 } } & { { a } } & { { a ^ { 2 } } } \\end{array} \\right) \\left( \\begin{array} { c } { { \\dot { I } _ { \\mathrm { A } } } } \\\\ { { \\dot { I } _ { \\mathrm { c } } } } \\\\ { { \\dot { I } _ { \\mathrm { B } } } } \\end{array} \\right) k _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "且 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na = - \\frac { 1 } { 2 } + \\frac { \\sqrt { 3 } } { 2 } { \\bf j } a ^ { 2 } = - \\frac { 1 } { 2 } - \\frac { \\sqrt { 3 } } { 2 } { \\bf j }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由以上三式可以得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { { \\dot { I } _ { 0 } } } \\\\ { { \\dot { I } _ { 1 } } } \\\\ { { \\dot { I } _ { 2 } } } \\end{array} \\right) = \\frac { k _ { 1 } } { 3 } \\left( \\begin{array} { c c c } { { 3 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { \\frac { 3 } { 2 } + \\frac { \\sqrt { 3 } } { 2 } { \\bf j } } } & { { 0 } } \\\\ { { 0 } } & { { \\frac { 3 } { 2 } - \\frac { \\sqrt { 3 } } { 2 } { \\bf j } } } & { { 0 } } \\end{array} \\right) \\left( \\begin{array} { c } { { \\dot { I } _ { 0 } } } \\\\ { { \\dot { I } _ { \\alpha 1 } + \\dot { I } _ { \\alpha 2 } } } \\\\ { { 0 } } \\end{array} \\right) +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { k _ { 2 } } { 3 } \\left( \\begin{array} { c c c } { 3 } & { 0 } & { 0 } \\\\ { 0 } & { - \\sqrt { 3 } \\mathrm { j } } & { 0 } \\\\ { 0 } & { \\sqrt { 3 } \\mathrm { j } } & { 0 } \\end{array} \\right) \\left( \\begin{array} { c } { \\dot { I } _ { 0 } } \\\\ { \\dot { I } _ { { \\beta } 1 } + \\dot { I } _ { { \\beta } 2 } } \\\\ { 0 } \\end{array} \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设两臂负荷比为 $n$ ，因为 $\\dot { I } _ { \\beta 1 } + \\dot { I } _ { \\beta 2 } = n ( \\dot { I } _ { \\alpha 1 } + \\dot { I } _ { \\alpha 2 } )$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\angle 6 0 ^ { \\circ }$ ，即两臂相差 $6 0 ^ { \\circ }$ ，由式（13）可得",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\dot { I } _ { 1 } = \\displaystyle \\frac { \\dot { I } _ { \\mathrm { o 1 } } + \\dot { I } _ { \\mathrm { a 2 } } } { 6 } [ 3 ( k _ { 1 } - k _ { 2 } n ) + \\mathrm { j } ( \\sqrt { 3 } k _ { 1 } - \\sqrt { 3 } k _ { 2 } n ) ] } \\\\ { \\dot { I } _ { 2 } = \\displaystyle \\frac { \\dot { I } _ { \\mathrm { o 1 } } + \\dot { I } _ { \\mathrm { a 2 } } } { 6 } [ 3 ( k _ { 1 } + k _ { 2 } n ) + \\mathrm { j } ( \\sqrt { 3 } k _ { 2 } n - \\sqrt { 3 } k _ { 1 } ) ] } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 $k _ { 1 }$ 与 $k _ { 2 }$ 的典型比值可以得到如图 $3 \\sim$ 图5所示的一次侧正序电流与负荷电流之比 $k _ { \\mathrm { a } }$ 、负序电流与负荷电流之比 $k _ { \\mathrm { b } }$ 及负序电流与正序电流之比 $k _ { \\mathrm { c } }$ 的变化图。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7971a8653a4e6c643861401fe3f389e89b141100c12f5a0fe48a72b1c60eba9e.jpg",
+        "img_caption": [
+            "图3 $k _ { 1 } = 2 k _ { 2 }$ 时 $k _ { \\mathrm { a } }$ 、 $k _ { \\mathrm { b } }$ 、 $k _ { \\mathrm { c } }$ 变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ab957d6b4649a362df4654d237f0b07567d76cd7b4d06d97f77c551f0b20751.jpg",
+        "img_caption": [
+            "Fig.3Variation diagram of $k _ { \\mathrm { a } }$ and $k _ { \\mathrm { b } }$ and $k _ { \\mathrm { c } }$ as $k _ { 1 } = 2 k _ { 2 }$ ",
+            "图4 $k _ { 1 } = 5 / 3 k _ { 2 }$ 时 $k _ { \\mathrm { a } }$ 、 $k _ { \\mathrm { b } }$ 、 $k _ { \\mathrm { c } }$ 变化图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c09d17aa0defe83931ec7514efce0043af349dfc3579ea47d6dfc381f3d0f0bc.jpg",
+        "img_caption": [
+            "Fig.4Variation diagram of $k _ { \\mathrm { a } }$ and $k _ { \\mathrm { b } }$ and $k _ { \\mathrm { c } }$ as $k _ { 1 } = 5 / 3 k _ { 2 }$ ",
+            "图5 $k _ { 1 } = k _ { 2 }$ 时 $k _ { \\mathrm { a } }$ 、 $k _ { \\mathrm { b } }$ 、 $k _ { \\mathrm { c } }$ 变化图",
+            "Fig.5Variation diagram of $k _ { \\mathrm { a } }$ and $k _ { \\mathrm { b } }$ and $k _ { \\mathrm { c } }$ as $k _ { 1 } = k _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过观察图5，可以得到如下结论：当VX牵引变压器的一次侧容量相同而二次侧T绕组与F绕组容量不同时， $k _ { 1 } : k _ { 2 }$ 从 $1 \\sim 2$ 变化时，负序与负荷电流的比值及负序与正序的比值在负荷比一定的情况下越来越小，说明负序电流在不断减小，可见负序对系统的影响在逐渐变小，也可以进一步说明当改变变压器的二次侧T绕组与F绕组的匝数比时确实可以减小系统负序对系统的影响。而当前实际铁路系统中，VX供电系统中T绕组与F绕组的负荷往往是不相同的，所以合理地改变T绕组与F绕组的匝数比从而减小系统负序的影响是可行的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "三相VX接线牵引变压器具有平衡负序的作用，并且可以通过改变T绕组与F绕组的电压比来合理地减小负序对铁路供电系统的影响，此类研究在减少系统负序的影响和提高铁路系统的稳定性方面具有广阔的前景。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 田颢亮. $2 2 0 \\mathrm { k V }$ 电压等级VX接线单相三绕组牵引 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "变压器的设计[J]．变压器，2014，51(1)：9-13.Tian Haoliang.Design of $2 2 0 \\mathrm { k V }$ one-phase three-winding traction transformer with VX connection[J].Transformer,2014,51(1): 9-13.  \n[2] 谢毓城．电力变压器手册[M]．北京：机械工业出版社，2003.  \n[3] 杨振龙．V/X接线牵引变压器的研究和应用[J].电气化铁道，2004(4)：12-15.Yang Zhenlong.The research and application oftraction transformer with VX connection[J].ElectricRailway,2004(4): 12-15.  \n[4] 张亚杰，龚永纲，李静．电气化铁路VX接线牵引变压器的设计特点[J]．变压器，2012，49(3)：1-4.Zhang Yajie, Gong Yonggang,Li Jing.Designcharacteristics ofVX connection traction transformerof electrification railway[J]. Transformer,2012,49(3): 1-4.  \n[5] 魏宏伟．三相VX接次边及原边不等容牵引变压器有关工程应用分析[D]．北京：中铁工程设计咨询集团有限公司.  \n[6] 马小楠．不等容量VX接线牵引变压器负荷过程分析与补偿方案研究[D]．成都：西南交通大学，2013.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（上接第21页）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[7] 周凤争，沈建新，王凯，等．带正反转功能的通用型无刷直流电机控制器设计[J]，微电机，2007(10):43-44.Zhou Fengzheng,Shen Jianxin,Wang Kai,etal.Design of universal PM BLDC motor controller withreversion function[J].Micromotors,2007(10):43-44.  \n[8] 陈薇薇．电动汽车用永磁同步电机设计及温度场分析[D]．南京：南京航空航天大学，2013.  \n[9] 黄国治，傅丰礼．Y2系列二相异步电动机技术手册[M]．北京：机械工业出版社.  \n[10] 魏雪环，兰志勇，谢先铭，等．永磁体涡流损耗与永磁同步电机温度场研究[J]．电机与控制应用，2015，42(5):28-31.Wei Xuehuan,Lan Zhiyong,Xie Xianming,etal.Research of eddy current loss of permanent magnetand temperature fled ofPMSM[J].Electric Machines& Control Application, 2015,42(5): 28-31.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

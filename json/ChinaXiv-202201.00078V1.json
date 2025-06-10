@@ -1,0 +1,551 @@
+[
+    {
+        "type": "text",
+        "text": "1990一2020年朋曲流域冰川变化及其对气候变化的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "汤远航，李梦琦，邓铃，王小丽(GIS应用研究重庆市高校重点实验室，重庆师范大学地理与旅游学院，重庆401331)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于Landsat系列影像、数字高程模型(DEM)等资料，采用遥感图像处理及目视解译方法，提取了朋曲流域1990—2020年冰川边界信息，研究了近30a来朋曲流域冰川面积的分布、变化及其与气候变化的响应关系。结果表明：(1)1990—2020年研究区冰川面积持续缩小，冰川面积的退缩率为 $1 . 5 2 \\% \\cdot \\mathrm { a } ^ { - 1 }$ ，对比不同时段冰川退缩特征发现,研究时段朋曲流域冰川退缩加速。(2)1990—2020年冰川分布面积随海拔的升高呈先增加后减小趋势， $5 9 0 0 { \\sim } 6 1 0 0 \\ \\mathrm { m }$ 之间冰川分布面积最大。(3)1990—2020年各坡向冰川均表现为退缩趋势，其中南坡冰川退缩率最大，北坡最小。（4）与坡向类似，不同坡度等级的冰川也呈现退缩趋势，冰川退缩主要集中于 $1 5 ^ { \\circ } { \\sim } 4 5 ^ { \\circ }$ 范围内，其中 $3 0 ^ { \\circ } { \\sim } 3 5 ^ { \\circ }$ 之间冰川退缩速率较快。(5)综合分析区域的气温与降水数据可知，研究区冰川面积变化受气候条件的影响，气温上升、降水减少有可能是导致冰川退缩加速的主要原因，相比而言，前者对冰川退缩的影响更大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冰川变化；动机分析；遥感；朋曲流域；地理信息系统",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冰川是冰冻圈的重要组成部分，也是自然界最宝贵的淡水资源，具有重要的地理意义[1]。在气候变暖的趋势下，全球范围内的冰川大都表现出不同程度的退缩趋势[2]。一方面，由于冰雪对太阳辐射具有强烈的反射效应，冰川大规模消融会引起地表辐射以及热量的失衡，从而导致大气环流改变。此外其消融过程中产生的融水注入海洋将会对原有洋流格局产生影响、导致海平面上升，进而改变海洋与大气的相互作用状况，最终影响全球气候格局[3]。另一方面，高山冰川剧烈消融还会导致一系列自然灾害的发生，如冰川泥石流、洪水等，这类现象主要发生于青藏高原东南部和喜马拉雅山等地区，其中我国西藏地区的雅鲁藏布江、波曲及朋曲流域尤为突出[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近期研究结果显示，青藏高原东南部冰川亏损及面积萎缩幅度为最大;其次为喜马拉雅山南缘;青藏高原腹地和末端冰川面积退缩幅度相对较小，冰川物质亏损相对较弱；而帕米尔-喀喇昆仑-西昆仑地区的冰川退缩程度最小，部分冰川甚至呈现前进状态，表现出微弱的物质盈余[5]。朋曲流域位于青藏高原南缘，目前关于朋曲流域的研究，大多集中在区域冰湖面积变化及潜在溃决冰湖分析，尽管有部分关于朋曲流域冰川变化的研究，但研究时段序列较短，且关于朋曲流域冰川与气候变化研究较少[6],研究时段较早，冰川近况未能同步更新。基于此，本研究采用Landsat系列遥感影像、数字高程模型(DEM)等数据，使用遥感图像处理及目视解译方法，提取了朋曲流域1990—2020年冰川边界，研究近30a来朋曲流域冰川面积的分布、变化及其与气候变化的响应关系，以期为朋曲流域冰川变化的预测及灾害防治提供理论基础，也可为朋曲流域合理利用冰川融水作水资源提供理论依据[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "喜马拉雅山脉发育着大量冰川，朋曲流域便是其中之一。朋曲流域 $( 2 7 ^ { \\circ } 4 9 ^ { \\prime } { \\sim } 2 9 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { ~ N ~ } , 8 5 ^ { \\circ } 3 8 ^ { \\prime } \\sim$ （204号$8 8 ^ { \\circ } 5 7 ^ { \\prime } \\mathrm { ~ E ~ }$ ,平均海拔 $4 5 0 0 \\mathrm { ~ m ~ }$ 以上)位于青藏高原南部，地处西藏自治区西南面，与尼泊尔接壤，流域南起喜马拉雅山脉,北起冈底斯山脉,西临佩沽措[8-10](图1)。流域大部分位于喜马拉雅山脉北侧，有明显的风效应，气温较低、降雨较少、蒸发量大；少部分位于喜马拉雅山脉南侧，受印度洋暖湿气流的影响，降雨充沛[1]。因区域地势较高、地形复杂，又位于喜马拉雅山脉的高寒地区，有利的地势条件和气候条件下朋曲流域发育了大量冰川，冰川总面积可达 $1 4 0 0 \\mathrm { k m } ^ { 2 }$ 左右，冰川较为密集且集中分布于沿国境线的喜马拉雅山区，成为了对于周围地区经济和社会发展而言非常重要的固体水库[12]。近年来在全球变暖、强太阳辐射等因素的影响下，朋曲流域冰川处于退缩并加速融化的状态，导致周围地区的冰川湖数量及冰川湖面积增大，在流域水系本就发达的前提下，可能会带来许多严重的自然灾害，如冰湖决堤引发的洪水[9]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 遥感影像数据和DEM资料本文数据源于美国地质勘探局（United States Geological Survey,",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddc29fd02a343976c48b1bb25e0410091c5e078fa547adf7f6c8f7bd8148778c.jpg",
+        "img_caption": [
+            "图1研究区概况",
+            "Fig.1 Overview of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "USGS）、Landsat系列卫星数据源于地理空间数据云(http://www.gscloud.cn/）[i3]，该数据不仅经过了GLS2005全球陆地控制点系统的正射校正，还通过DEM数据做出了高精度的地形校正，且本文数据的大地测量校正建立在精确的DEM数据和地面控制点的基础上，满足研究冰川的遥感监测要求[14]DEM数据采用的是地理空间数据云提供的 $3 0 \\mathrm { m }$ 的ASTERGDEM数据。由于积雪、云层等因素会遮挡遥感视线或造成冰川边界模糊不清，所以本研究选择的影像数据尽量都是夏季无云、少云的清晰图像。但在实际操作中，我们保留了10月左右的部分含云量较高但对冰川区影响较小、总体效果较好的影像数据[13]。本文中最终选用的遥感影像如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2气象格点数据及其他数据由于当前朋曲流域地区附近的气象站点数量较少，本研究在数据分析并综合考虑到目前已搜集到的数据适用性后，最终选用了源于美国特拉华大学地理系气候研究中心的1970—2017年气温和降水格点数据。由于该数据已通过地面站点观测的方法，对朋曲流域气象的描述更为精确,容易得出贴合实际的结论[13]。此外，为了验证格点数据的精准性，本研究还收集了朋曲流域附近3个气象站点的数据与前者进行比较。除上述提到的数据外，本研究还根据第二次冰川编目数据验证了2010年左右朋曲流域地区的冰川边界提取结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用了精度较高的比值阈值法来提取冰川边界[15-18],即计算波段比值后生成比值图像,再设定阈值进行决策树分类，在二值化处理比值图像后，依照阈值设定得到冰川边界初步提取结果[19]。经过实验数据的反复尝试后，最终LandsatTM/$\\mathrm { E T M } +$ 影像的阈值设为1.8,而LandsatOLI数据的阈值设为1.0。为了确保数据的精确性，本研究对比值阈值法计算的结果逐条进行了目视解译[20]。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b070aa28bbf0dea5c03159c3d28c48fd77d64b3628fde88c7346e7b0777bb9c.jpg",
+        "table_caption": [
+            "表1遥感影像列表",
+            "Tab.1 Information of the remote sensing images "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>行列号</td><td>获取日期 (年-月-日)</td><td>云量/%</td><td>获取日期 (年-月-日)</td><td>云量/%</td><td>获取日期 (年-月-日)</td><td>云量/%</td><td>获取日期 (年-月-日)</td><td>云量/%</td></tr><tr><td>141/40</td><td>1988-12-15</td><td>2</td><td>2000-11-22</td><td>1</td><td>2010-12-12</td><td>24</td><td>2020-10-20</td><td>4</td></tr><tr><td>140/40</td><td>1989-11-09</td><td>1</td><td>2000-11-15</td><td>0</td><td>2009-11-08</td><td>1</td><td>2020-10-29</td><td>1</td></tr><tr><td>140/41</td><td>1989-11-09</td><td>1</td><td>2000-10-30</td><td>27</td><td>2012-12-02</td><td>1</td><td>2020-10-22</td><td>11</td></tr><tr><td>139/41</td><td>1990-06-14</td><td>42</td><td>2000-12-26</td><td>1</td><td>2012-10-08</td><td>18</td><td>2020-12-16</td><td>1</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3精度评价 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证冰川边界的精确度，本研究以 $1 5 \\mathrm { ~ m ~ }$ 为距离对1990—2020年的研究区边界进行了缓冲区处理(表2)，由缓冲区面积除以总面积得到误差率。误差率较小，符合本研究要求的精度[21]。冰川与积雪的区分主要依据冰川形态，冰舌部分较为光滑，形态规整，而积雪较呈散状分布，且对于每一条冰川,均采用GoogleEarth历史数据进行目视解译。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2朋曲流域边界缓冲区面积及误差率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/86515a07cc44479dd0b14f5c9648a4a1e9fecbd8afe2515e0abaf3d986bb7b41.jpg",
+        "table_caption": [
+            "Tab.2 Area and error rate of boundary buffer zone in Pumqu Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>缓冲区面积/km²</td><td>总面积/km²</td><td>误差率/%</td></tr><tr><td>1990</td><td>59.09</td><td>1248.71</td><td>4.73</td></tr><tr><td>2000</td><td>58.72</td><td>1209.19</td><td>4.86</td></tr><tr><td>2010</td><td>57.08</td><td>1152.25</td><td>4.95</td></tr><tr><td>2020</td><td>55.45</td><td>1068.10</td><td>5.19</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1冰川分布面积及变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 9 9 0 , 2 0 0 0 , 2 0 1 0$ 年和2020年朋曲流域冰川面积分别为 $1 2 4 8 . 7 0 \\ \\mathrm { k m } ^ { 2 } , 1 2 0 9 . 1 9 \\ \\mathrm { k m } ^ { 2 } , 1 1 5 2 . 2 5 \\ \\mathrm { k m } ^ { 2 }$ 和$1 0 6 8 . 1 0 \\mathrm { k m } ^ { 2 }$ （表3)。对比研究时段内不同时期的冰川分布面积，近30a朋曲流域冰川整体呈现出退缩趋势，但不同时段冰川退缩率有所不同。1990—2000年，冰川面积退缩量为 $3 9 . 5 2 \\mathrm { k m } ^ { 2 }$ ,年均退缩率为 $0 . 3 2 \\ \\% \\cdot \\mathrm { a } ^ { - 1 }$ ;2000—2010年，冰川面积退缩量为$5 6 . 9 4 ~ \\mathrm { k m } ^ { 2 }$ ，与前一时段相比，该时段冰川加速退缩$( 0 . 4 7 \\ \\% \\cdot \\mathrm { a } ^ { - 1 } )$ ； $2 0 1 0 - 2 0 2 0$ 年，冰川面积退缩量为$8 4 . 1 5 \\mathrm { k m } ^ { 2 }$ ，年均退缩率为 $0 . 7 3 \\ \\% \\cdot \\mathrm { a } ^ { - 1 }$ ,3个时段中，该时段冰川年均退缩率最大。综上可知，1990—2020年朋曲流域冰川面积加速退缩，尤其是2010一2020年来,朋曲流域加速退缩的趋势更为显著(图2)[22-23]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2不同海拔冰川分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1990、2000、2010年和2020年朋曲流域冰川面积在不同海拔高度具有明显的差异性，与海拔的变化情况基本一致，具有明显的规律性(图3)。其变化规律表现为：冰川分布面积随海拔的升高不断增大，到达一定高度后开始逐渐缩小。不同时段的冰川分布面积最大及最小区域均出现在同一海拔范围内。海拔 $4 7 0 0 { \\sim } 4 9 0 0 \\mathrm { m }$ 处为冰川分布面积最小的区域， $5 9 0 0 { \\sim } 6 1 0 0 \\ \\mathrm { m }$ 为冰川分布面积最大的区域。2020年冰川分布面积最小值为 $8 . 4 4 \\ \\mathrm { k m } ^ { 2 }$ ，最大值为$2 1 1 . 7 9 \\mathrm { k m } ^ { 2 }$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本流域冰川呈现出如上的分布特征主要是受到地形地势和气候条件的影响[24]。在对流层内，气温随海拔的升高不断降低，而水分变化情况却不同，根据前人研究，空气中的水汽含量随海拔的升高先增加后减少[25]。由此使得冰川分布面积先随海拔的升高而增加，到达一定海拔高度后开始减少，最终形成图3所示的分布特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3不同坡向冰川分布情况及变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1990—2020年朋曲流域北坡冰川分布面积最大，西南坡冰川分布面积最小（图4)。1990、2000、2010年和2020年朋曲流域北坡冰川面积分别为$2 4 6 . 9 1 \\ \\mathrm { k m } ^ { 2 } \\cdot 2 4 1 . 6 6 \\ \\mathrm { k m } ^ { 2 } \\cdot 2 3 3 . 0 2 \\ \\mathrm { k m } ^ { 2 }$ 和 $2 2 2 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ ，分别占研究区对应时段冰川总面积的 $1 9 . 7 7 \\%$ 、$1 9 . 9 9 \\%$ ） $2 0 . 2 2 \\%$ 和 $1 7 . 2 7 \\%$ ，冰川面积减小的趋势愈发明显，但冰川面积在总冰川面积中的比例呈现出先增加后减小的趋势；西南坡的冰川分布面积分别为 $9 1 . 5 6 \\ \\mathrm { k m } ^ { 2 } , 8 7 . 9 5 \\ \\mathrm { k m } ^ { 2 } , 8 2 . 3 5 \\ \\mathrm { k m } ^ { 2 }$ 和 $7 3 . 5 8 \\mathrm { k m } ^ { 2 }$ ,分别占研究区对应时段冰川总面积的 $7 . 3 3 \\% . 7 . 2 7 \\%$ /$7 . 1 5 \\%$ 和 $5 . 7 0 \\%$ ，冰川面积和占比均呈现较为明显的减小趋势。总体而言，北坡向冰川分布面积较多，南坡向分布面积较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/40da6a6b2ab3b80161dba74abfdee0f7a91d67731297f80149e692e5ee03bdd9.jpg",
+        "table_caption": [
+            "表31990—2020年朋曲流域冰川分布面积及变化特征",
+            "Tab.3Distribution area and variation characteristics of glaciers in Pumqu Basin during 1990-2020 "
+        ],
+        "table_footnote": [
+            "注：“-\"代表无数据。"
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>面积/km²</td><td>退缩量/km²</td><td>面积变化/%</td><td>年均面积变化/%·a</td></tr><tr><td>1990</td><td>1248.71</td><td>一</td><td>1</td><td>一</td></tr><tr><td>2000</td><td>1209.19</td><td>39.52</td><td>-3.16</td><td>-0.32</td></tr><tr><td>2010</td><td>1152.25</td><td>56.94</td><td>-4.71</td><td>-0.47</td></tr><tr><td>2020</td><td>1068.10</td><td>84.15</td><td>-7.30</td><td>-0.73</td></tr><tr><td>总计</td><td>二</td><td>180.61</td><td>-15.18</td><td>-1.52</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6818eb467871e8002056793b4c0705806aaa96932c7ac236d214191fdb7c05b3.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图31990—2020年朋曲流域不同海拔高度冰川分布面积Fig.3Distribution areas of glaciers at different altitudes inPumqu Basin during 1990—2020"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1990—2020年朋曲流域各坡向冰川均表现为退缩趋势，且退缩趋势逐渐加大(图5)。其中南坡冰川的退缩率为所有坡向中最大，为 $2 2 . 6 2 \\%$ ，西南坡、东南坡和东坡次之，分别为 $1 9 . 6 5 \\%$ 、 $1 9 . 3 3 \\%$ 和$1 6 . 8 4 \\%$ ;北坡的冰川退缩率为所有坡向中最小，为$9 . 7 4 \\%$ ,西北坡、东北坡和西坡次之，分别为 $1 0 . 4 1 \\%$ 、$1 2 . 6 9 \\%$ 和 $1 4 . 3 4 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4不同坡度冰川分布情况及变化特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2154f22809a513d1ead97ace87c1b5cedd8fa5efff0046407e1b43bd12035853.jpg",
+        "img_caption": [
+            "图21990—2020年朋曲流域部分冰川分布特征Fig.2 Distribution characteristics of some glaciers inPumqu Basin during 1990—2020",
+            "图41990—2020年朋曲流域不同坡向冰川分布面积",
+            "Fig.4Distribution areas of glaciers in different slope directions in Pumqu Basin during 1990—2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究将研究区冰面坡度以 $5 ^ { \\circ }$ 为间隔分为12个等级[13]（图6)，1990—2020年研究区冰川在 $0 { \\sim } 5 ^ { \\circ }$ 坡度范围分布较少， $5 ^ { \\circ } { \\sim } 1 0 ^ { \\circ }$ 坡度范围为最大，此后依次递减，而坡度 ${ > } 5 5 { ^ \\circ }$ 的冰川分布面积稍高于 $5 0 ^ { \\circ } { \\sim } 5 5 ^ { \\circ }$ 坡度范围，但仍低于 $4 5 ^ { \\circ } { \\sim } 5 0 ^ { \\circ }$ 坡度范围。综上可知，朋曲流域冰川大多分布在平缓地带 $( 5 ^ { \\circ } \\sim 2 5 ^ { \\circ } )$ ，而分",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "250 (a)1990年 N 250 (b)2000年 N200 NW NE 200 NW 米150 ? 150  \n三 100 0 W E 三 10050 0 W E50 50100 100150 150200 SW SE 200 SW SE250L 250S SN N250 (c)2010年 250 (d)2020年200 NW 米 NE 200 NW 米 NE150 150  \n三 100 三 10050 500 W E 0 W E50 50100 100150 150200 SW SE 200 SW SE250L 250S S",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/662c091b18055c544bc3f1b35f648dd6e2107c3df3cbb97424598cf2ce309b48.jpg",
+        "img_caption": [
+            "图51990—2020年朋曲流域不同坡向冰川退缩率 Fig.5Glacier retreat rates in different slope directions in Pumqu Basin during 1990—2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba2c28f2c1e14cae3a5e47193b6e405e028e2fb79d30ada3bef304d621efe0e1.jpg",
+        "img_caption": [
+            "图61990—2020年朋曲流域不同坡度冰川分布面积Fig.6Distribution areas of glaciers in different slopes inPumqu Basin during1990—2020"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "布在坡度 $< 5 ^ { \\circ }$ 的极平缓地带和较为陡峭地带的冰川较少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "近30a来，朋曲流域不同坡度等级的冰川均呈退缩趋势(图7)。整体而言，冰川退缩率随坡度的增加呈现出先增加后减少的趋势，冰川退缩主要发生在 $1 5 ^ { \\circ } { \\sim } 4 0 ^ { \\circ }$ 坡度范围内，其中 $3 0 ^ { \\circ } { \\sim } 3 5 ^ { \\circ }$ 坡度范围退缩率最大，为 $1 8 . 4 1 \\%$ ， ${ > } 5 5 ^ { \\circ }$ 坡度退缩率最小，仅为$8 . 9 5 \\%$ 。1990一2000年不同坡度的退缩率大致相同，中、高坡度 $3 5 ^ { \\circ } { \\sim } 5 5 ^ { \\circ }$ )退缩率略高；2000—2010年冰川退缩率在 $0 { \\sim } 3 5 ^ { \\circ }$ 坡度范围内逐渐增加，而后随坡度的增加而减少，在坡度 ${ > } 5 5 ^ { \\circ }$ 后几乎为0;2010一2020年冰川退缩率大体呈现2个波峰，一个是在 $3 0 ^ { \\circ } { \\sim } 3 5 ^ { \\circ }$ 坡度范围，退缩率为 $9 . 9 9 \\%$ ，一个是在",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5b3e65929e9fca629938e24da38d78fcad6e3497fa617a3cb63585e942c5bdc.jpg",
+        "img_caption": [
+            "图71990—2020年朋曲流域不同坡度冰川退缩率 Fig.7Glacial retreat rates in different slopes in Pumqu Basin during 1990—2020 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$5 0 ^ { \\circ } { \\sim } 5 5 ^ { \\circ }$ 坡度范围，退缩率为 $9 . 1 0 \\%$ ，但在坡度 ${ > } 5 5 ^ { \\circ }$ 后依旧减少。综上可知，1990—2020年朋曲流域冰川在 $1 5 ^ { \\circ } { \\sim } 4 5 ^ { \\circ }$ 坡度范围内退缩较大，而在极平缓或极陡峭区域退缩较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5不同规模等级冰川分布情况及变化特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了分析1990—2020年朋曲流域不同规模等级冰川分布情况及变化特征，本研究以喜马拉雅山地区冰川面积大小为标准将研究区朋曲流域冰川分为9个等级 $\\langle \\leqslant 0 . 2 \\ \\mathrm { k m } ^ { 2 } , 0 . 2 { \\sim } 0 . 5 \\ \\mathrm { k m } ^ { 2 } , 0 . 5 { \\sim } 1 \\ \\mathrm { k m } ^ { 2 } , 1 { \\sim }$ $2 \\ \\mathrm { k m ^ { 2 } , 2 { \\sim } 5 \\ k m ^ { 2 } , 5 { \\sim } 1 0 \\ k m ^ { 2 } , 1 0 { \\sim } 2 0 \\ k m ^ { 2 } , 2 0 { \\sim } 5 0 \\ k m ^ { 2 } }$ 和$5 0 { \\sim } 1 0 0 \\ \\mathrm { k m } ^ { 2 } .$ ），分别计算了1990年和2020年研究区不同规模等级冰川条数和冰川面积的分布情况(表4）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5.1 冰川条数的分布情况和变化特征朋曲流域冰川以小规模冰川为主，1990年和2020年面积$\\leqslant 0 . 5 \\mathrm { k m } ^ { 2 }$ 的冰川分别有489条和596条，占各时段冰川总数的 $5 9 . 1 3 \\%$ 和 $6 7 . 8 8 \\%$ 。其中，面积稍大的冰川 $\\geqslant 2 0 \\mathrm { ~ k m } ^ { 2 } ,$ 仅有12条和9条，仅占各时段冰川总数的 $1 . 4 5 \\%$ 和 $1 . 0 3 \\%$ 。研究区内的冰川面积均未超过 $1 0 0 \\mathrm { k m } ^ { 2 }$ 。研究发现，总体上冰川条数与冰川规模呈相反趋势，即冰川的规模越大，对应条数越少。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1990—2020年冰川条数整体上呈现增加趋势，从1990年的827条增加到2020年的878条，增加了51条。但仅有面积 $\\leqslant 0 . 2 \\ \\mathrm { k m } ^ { 2 }$ 和面积处于 $1 0 { \\sim } 2 0 \\ \\mathrm { k m } ^ { 2 }$ 这2个规模的冰川条数呈现出增加的趋势，其余规模等级的冰川条数均呈现减少的趋势，其中冰川规模为 $1 { \\sim } 2 \\mathrm { k m } ^ { 2 }$ 的冰川条数减少的最多，达24条，其次",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c53b171b24ce2e2749e3d5c5a3fc27c065bcdaa0dc85f26c4b496bb062301242.jpg",
+        "table_caption": [
+            "表41990年和2020年朋曲流域不同规模冰川条数与面积统计",
+            "Tab.4Statistics on the numberand area of glaciers of different sizes in Pumqu Basin in 1990 and 202 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">冰川规模/km²</td><td colspan=\"2\">1990年</td><td colspan=\"2\">2020年</td></tr><tr><td>冰川条数</td><td>冰川面积/km²</td><td>冰川条数</td><td>冰川面积/km²</td></tr><tr><td>≤0.2</td><td>285</td><td>29.86</td><td>408</td><td>30.94</td></tr><tr><td>0.2~0.5</td><td>204</td><td>66.83</td><td>188</td><td>58.86</td></tr><tr><td>0.5~1</td><td>119</td><td>86.53</td><td>103</td><td>74.70</td></tr><tr><td>1~2</td><td>94</td><td>133.21</td><td>70</td><td>98.84</td></tr><tr><td>2~5</td><td>81</td><td>251.95</td><td>67</td><td>192.87</td></tr><tr><td>5~10</td><td>26</td><td>196.19</td><td>24</td><td>164.58</td></tr><tr><td>10~20</td><td>6</td><td>87.51</td><td>9</td><td>141.04</td></tr><tr><td>20~50</td><td>11</td><td>326.99</td><td>8</td><td>244.88</td></tr><tr><td>50~100</td><td>1</td><td>69.63</td><td>1</td><td>61.39</td></tr><tr><td>总计</td><td>827</td><td>1248.71</td><td>878</td><td>1068.10</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "是规模为 $0 . 2 { \\sim } 0 . 5 ~ \\mathrm { k m } ^ { 2 }$ 和 $0 . 5 { \\sim } 1 ~ \\mathrm { k m } ^ { 2 }$ 的冰川，均为16条。冰川条数减少的最少的是冰川规模为 $5 { \\sim } 1 0 \\mathrm { k m } ^ { 2 }$ 和 $2 0 { \\sim } 5 0 ~ \\mathrm { k m } ^ { 2 }$ 的冰川，仅为2条和3条。从冰川条数的波动中可以发现，冰川的规模越大，冰川条数的变化越小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 冰川面积的分布情况和变化特征朋曲流域冰川分布面积最大是规模等级为 $2 0 { \\sim } 5 0 ~ \\mathrm { k m } ^ { 2 }$ 的冰川，1990年和2020年面积分别为 $3 2 6 . 9 9 \\ \\mathrm { k m } ^ { 2 }$ 和$2 4 4 . 8 8 ~ \\mathrm { k m } ^ { 2 }$ ，占各时段冰川面积总数的 $2 6 . 1 9 \\%$ 和$2 2 . 9 3 \\%$ 。其次是规模等级为 $2 { \\sim } 5 \\ \\mathrm { k m } ^ { 2 }$ 的冰川，1990年和2020年面积分别为 $2 5 1 . 9 5 ~ \\mathrm { k m } ^ { 2 }$ 和 $1 9 2 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ 占各时段冰川面积总数的 $2 0 . 1 8 \\%$ 和 $1 8 . 0 6 \\%$ 。冰川分布面积最小的是规模等级为 $\\leqslant 0 . 2 \\ \\mathrm { k m } ^ { 2 }$ 的冰川，1990年和2020年冰川分布面积分别为 $2 9 . 8 6 \\mathrm { k m } ^ { 2 }$ 和$3 0 . 9 4 ~ \\mathrm { k m } ^ { 2 }$ ，占相应时段冰川面积总数的 $2 . 3 9 \\%$ 和$2 . 9 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "分析近 $3 0 \\mathrm { ~ a ~ }$ 研究区不同规模冰川面积变化可知，研究区内9个规模等级的冰川，规模等级为$\\leqslant 0 . 2 \\ \\mathrm { k m } ^ { 2 }$ 和 $1 0 { \\sim } 2 0 ~ \\mathrm { k m } ^ { 2 }$ 的冰川分布面积呈现出增长趋势。其余规模等级的冰川面积均呈减少趋势。在呈现增长趋势的不同规模等级的冰川中，处于$1 0 { \\sim } 2 0 ~ \\mathrm { k m } ^ { 2 }$ 的冰川的面积增长最多，由1990年的$8 7 . 5 1 ~ \\mathrm { k m } ^ { 2 }$ 增加到2020年的 $1 4 1 . 0 4 \\ \\mathrm { k m } ^ { 2 }$ ,冰川分布面积增加了 $5 3 . 5 3 \\mathrm { k m } ^ { 2 }$ ,约占1990年该等级规模冰川总面积的 $6 1 . 1 6 \\%$ 。而规模 $\\leqslant 0 . 2 \\ \\mathrm { k m } ^ { 2 }$ 的冰川面积增长最少，由1990年的 $2 9 . 8 6 \\mathrm { k m } ^ { 2 }$ 增加到2020年的30.94$ { \\mathrm { k m } } ^ { 2 }$ ,冰川分布面积增加了 $1 . 0 8 \\ \\mathrm { k m } ^ { 2 }$ ,约占1990年该等级规模冰川总面积的 $3 . 6 2 \\%$ 。在呈现减少趋势的不同规模等级的冰川中，处于 $2 0 { \\sim } 5 0 ~ \\mathrm { k m } ^ { 2 }$ 的冰川的面积减少最多，由1990年的 $3 2 6 . 9 9 \\ \\mathrm { k m } ^ { 2 }$ 减少到2020年的 $2 4 4 . 8 8 \\mathrm { k m } ^ { 2 }$ ，减少了 $8 2 . 1 1 \\ \\mathrm { k m } ^ { 2 }$ ,约占1990年该等级规模冰川总面积的 $2 5 . 1 1 \\%$ 。处于 $0 . 2 { \\sim } 0 . 5 ~ \\mathrm { k m } ^ { 2 }$ 的冰川的面积减少最少，由1990年的 $6 6 . 8 3 \\mathrm { ~ k m } ^ { 2 }$ 减少到2020年的 $5 8 . 8 6 ~ \\mathrm { k m } ^ { 2 }$ ,减少了 $7 . 9 7 ~ \\mathrm { k m } ^ { 2 }$ ,约占1990年该等级规模冰川总面积的 $1 1 . 9 4 \\%$ 。可以发现,与等级规模较大的冰川相比，规模等级较小的冰川，其冰川面积波动较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从冰川条数和冰川面积2个方面分析研究区内1990一2020年的冰川可以发现，冰川的规模等级与冰川的波动呈现相反趋势。即大冰川的波动小，小冰川的波动大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冰川坡度及面积是影响冰川对气候变化响应的重要地形因子[2]。通过对不同坡向和坡度冰川面积的分析，可以发现冰川对气候变化响应具有一定滞后期,冰川平均规模越小,滞后期越短[26],前人选择典型区域，利用中值面积指标研究了整个喜马拉雅山冰川与气候变化的滞后期为 $1 2 \\mathrm { ~ a } ^ { [ 2 7 ] }$ ,喜马拉雅山冰川平均规模为 $7 . 7 8 ~ \\mathrm { k m } ^ { 2 }$ ，而朋曲流域冰川平均规模为 $1 . 5 1 \\ \\mathrm { k m } ^ { 2 }$ 。因此，以10a为滞后期，采用的朋曲流域气候数据提前至1970年。为了更充分地反映研究区气候变化特征，采用年均气温和年降水数据来代表研究年份内不同时段气候的变化情况（图8)。朋曲流域附近3个站点气候的变化情况(图9)如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）1980—1989年，朋曲流域年均气温整体出现上下波动趋势，在1984、1985、1988年时达到最高，为 $1 . 5 ~ \\mathrm { { ^ { \\circ } C } }$ ,最低年均气温为 $0 . 7 ~ \\mathrm { ^ { \\circ } C }$ 。而年降水量整体变化波动较大，1981—1984年变化幅度较小，1985年达到峰值 $1 7 7 3 . 4 \\ \\mathrm { m m }$ ，而1986年急降至谷值$1 3 3 0 . 8 ~ \\mathrm { m m }$ ，后大幅上升。在对应时段（1990—2000年），朋曲流域冰川呈现退缩趋势年均退缩率为$0 . 3 2 \\% \\cdot \\mathrm { a } ^ { - 1 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e31ab4e36c31fc364eceb83fb14850c498c4003650376946e4180e2f16eff24.jpg",
+        "img_caption": [
+            "Fig.8 Temperature and precipitation in Pumqu Basin during l97O—2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb9d42ca256115fa087c1acf6ea6b2a8f424ae77b4fa04daef7379201c3152b8.jpg",
+        "img_caption": [
+            "图81970—2017年朋曲流域气温和降水量",
+            "图91990—2018年朋曲流域附近站点气温和降水量",
+            "Fig.9 Temperature and precipitation of stations near Pumqu Basin during 1990—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）1990一1999年，朋曲流域的年均气温高于上一时段，总体趋势是在波动下降后上升，最高值为 $2 . 1 ~ \\mathrm { ^ { \\circ } C }$ ,最低值为 $0 . 6 ^ { \\circ } \\mathrm { C }$ 。该阶段的年降水量小于前一阶段，趋势为首先下降到 $1 4 7 9 . 5 8 ~ \\mathrm { m m }$ 的谷值，然后上升到 $1 7 0 6 . 9 1 \\ \\mathrm { m m }$ 的峰值。在对应时段（2000一2010年），朋曲流域冰川主要呈现出退缩趋势，朋曲流域冰川年退缩率为 $0 . 4 7 \\ \\% \\cdot \\mathrm { a } ^ { - 1 }$ ,高于第一时段。根据朋曲流域冰川2000一2010年的气温变化以及降水变化特征，可以看出朋曲流域气温升高且降水减少，这可能是导致冰川加速退缩的主要气",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "候因素[13]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）2000一2009年，朋曲流域的年均气温逐年上升至 $2 . 5 ~ \\mathrm { { ^ { \\circ } C } }$ 的峰值，该时段的年均气温显著高于前2个时段。年降水量的总体变化幅度相对较小，呈小幅下降趋势，最低值为 $1 4 6 9 . 5 1 \\ \\mathrm { m m }$ ,但年降水量均高于前一时段。对应年份（2010—2020年），朋曲流域的冰川呈退缩趋势,年退缩率为 $0 . 7 3 \\ \\% \\cdot \\mathrm { a } ^ { - 1 }$ ，高于前2个时段。原因分析表明，尽管年降水量高于前2个阶段，但气温却明显升高，这可能是该时段冰川加速退缩的主要气候原因。据此可以推测：与降水减少相比，气温上升可能对冰川退缩有更大的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(4）2010一2017年，朋曲流域的年均气温、年降水量都高于前3个时段。由此可见未来十几年内，朋曲流域冰川可能将持续处于退缩状态且年退缩率可能逐年增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总体而言，1990—2020年朋曲流域冰川加速退",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "缩，尤其是2010一2020年来，朋曲流域加速退缩趋势更为显著。1990—2020年朋曲流域各坡向冰川均表现为退缩趋势，且退缩趋势逐渐加大。其中，南坡冰川的退缩率在所有坡向中最大，西南坡、东南坡和东坡次之，北坡最小。并且小冰川较大冰川受到气候等各要素的影响更大，退缩现象更为显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于朋曲流域冰川变化的状况，已有学者进行相关研究，如魏红等[28]采用1970年左右地形图数据与2001年的ASTER遥感影像数据发现，研究时段内朋曲流域冰川呈退缩趋势,退缩率为 $0 . 2 9 \\ q _ { 0 } \\cdot \\mathrm { a } ^ { - 1 }$ Che等[29]分析了1970—2013年朋曲流域冰川分布和变化状况，结果表明该区域冰川呈加速退缩状态，后一时段(2001—2013年)冰川退缩速率远大于前一时段（1970一2001年），本文的研究结果与前人一致。与本区域同类型的研究而言，本研究的时间序列更长。并且对于小范围的冰川研究来说，人工目视解译、遥感和地理信息系统技术相结合的研究方法是比较科学且全面的。因此，本研究对区域冰川变化和冰湖预测具有一定的补充作用，对冰川变化预测和灾害防治有重要意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文基于Landsat系列遥感影像数据，通过比值阈值法与目视解译，提取了1990—2020年朋曲流域冰川分布及变化特征，同时结合气象格点数据，分析了研究区冰川变化及其对气候变化的响应，得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）1990—2020年朋曲流域冰川加速退缩，且加速退缩趋势在2010—2020年中尤为明显。（2）朋曲流域冰川分布面积随着海拔的升高而不断扩大，达到一定高度后逐渐缩小，原因是受地形、地势和气候条件的影响。（3）1990—2020年朋曲流域冰川所有坡向冰川均呈退缩趋势。南坡冰川退缩率最大，北坡冰川退缩率最小。研究区北坡的冰川分布面积最大，冰川面积呈下降趋势，但在冰川总面积中的比例呈上升趋势；西南坡冰川分布面积最小，冰川面积和比例均呈下降趋势。总体上看，北坡的冰川分布面积较大，南坡的冰川分布面积较小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）朋曲流域的冰川大多分布在平缓带（ $( 5 ^ { \\circ } \\sim$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$2 5 ^ { \\circ }$ ，而极平缓带 $( < 5 ^ { \\circ } )$ 或较为陡峭的坡带冰川面积相对较小。近30a中，朋曲流域不同坡度的冰川均呈现出退缩的趋势。退缩率呈现出随坡度的增加先增大后减小的趋势。在坡度 $1 5 ^ { \\circ } { \\sim } 4 5 ^ { \\circ }$ 范围内退缩较大，而在极平缓或极陡峭区域退缩较小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（5）以10a为滞后期研究气候对冰川退缩的影响结果表明：气温升高和降水减少可能是冰川加速退缩的主要原因，而前者对冰川退缩的影响大于后者。可以预见，未来十几年内，朋曲流域冰川可能将继续处于退缩状态，年退缩率可能会继续增加。与大冰川相比，小冰川更易受到气候的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "致谢：十分感谢冀琴老师对本文提出大量宝贵的修改意见，同时对USGS、地理空间数据云、美国特拉华大学地理系气候研究中心提供的数据以及寒区旱区科学数据中心共享的中国第二次冰川编目数据一并表示衷心的感谢。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]林浩曦,黄金川,效存德,等.冰冻圈服务综合区划理论与方法 [J].地理学报,2020,75(3): 631-646.[Lin Haoxi,Huang Jinchuan,Xiao Cunde,et al.Theories and methods on comprehensive regionalization of cryospheric services[J].Acta Geographica Sinica,2020, 75(3): 631-646.]   \n[2]牟建新,李忠勤,张慧,等.中国西部大陆性冰川与海洋性冰川 物质平衡变化及其对气候响应一以乌源1号冰川和帕隆94 号冰川为例[J].干旱区地理,2019,42(1):20-28.[Mou Jianxin, Li Zhongqin, Zhang Hui,et al. Mass balance variation of continental glacier and temperate glacier and their response to climate change in western China: Taking Urumqi Glacier No.1 and Parlung No.94 Glacier as examples[J].Arid Land Geography,2019, 42(1): 20-28.]   \n[3]杨雪.林芝地区冰川永久积雪地变化特征及泥石流易发性评价 [D].成都:成都理工大学,2012.[Yang Xue.Change characteristics of glacial permanent snow accumulation and evaluation of debris flow susceptibility in Nyingchi area[D]. Chengdu: Chengdu University of Technology,2012.]   \n[4]童龙云,张继,孔应德.西藏定日朋曲流域达仓沟冰湖溃决泥石 流特征[J].中国地质灾害与防治学报,2019,30(6):34-39,48. [Tong Longyun, Zhang Ji, Kong Yingde. Characteristics of the Dacanggou Debris Flow induced by breakout of glacier-lake in the Pengqu Basin Dirin County of Tibet[J]. The Chinese Journal of Geological Hazard and Control, 2019,30(6): 34-39,48.]   \n[5]邬光剑,姚檀栋,王伟财,等.青藏高原及周边地区的冰川灾害 [J].中国科学院院刊,2019,34(11):1285-1292.[Wu Guangjian, Yao Tandong,Wang Weicai,et al. Glacial hazards on Tibetan Plateau and surrounding alpines[J]. Bulletin of the Chinese Academy of Sciences,2019,34(11): 1285-1292.]   \n[6]王秀娜,杨太保,田洪振,等.近40a来南阿尔泰山区现代冰川 变化及其对气候变化的响应[J].干旱区资源与环境,2013,27 (2): 77-82.[Wang Xiuna,Yang Taibao,Tian Hongzhen,et al. Response of glacier variation in the southern Altai Mountains to climate change during the last 4O years[J]. Journal of Arid Land Resources and Environment, 2013,27(2): 77-82.]   \n[7]冉思红,王晓蕾,罗毅.多模式预测气候变化及其对雪冰流域径 流的影响[J].干旱区地理,2021,44(3):807-818.[Ran Sihong, Wang Xiaolei,Luo Yi.Predicting climate change and its impact on runoff in snow-ice basin with multi-climate models[J].Arid Land Geography,2021,44(3): 807-818.]   \n[8]车涛,晋锐,李新,等.近20a来西藏朋曲流域冰湖变化及潜在 溃决冰湖分析[J].冰川冻土,2004,26(4):397-402.[Che Tao, JinRui,Li Xin,etal.Glacial lakes variation and the potentially dangerous glacial lakes in the Pumqu Basin of Tibet during the last wo decades[J].Journalof GlaciologyandGeocryology2004, 26(4): 397-402.]   \n[9]魏红,马金珠,马明国,等.基于遥感与GIS 的朋曲流域冰川及 冰湖变化研究[J].兰州大学学报,2004,40(2):97-100.[Wei Hong,Ma Jinzhu, Ma Mingguo,et al. Study onchanges of glaciers and glacial lakes in the Pumqu Basin based on RS and GIS[J]. Journal of Lanzhou University,2004,40(2): 97-100.]   \n[10] 晋锐,车涛,李新,等.基于遥感和GIS 的西藏朋曲流域冰川变 化研究[J].冰川冻土,2004,26(3):261-266.[Jin Rui,Che Tao, Li Xin,et al.Glacier variation in the Pumqu Basin derived from remote sensing data and GIS technique[J]. Journal of Glaciology and Geocryology,2004,26(3): 261-266.]   \n[11] 宋福强,李卓卿,肖俞,等.西藏朋曲河流域淡水生态系统服务 价值评估[J].西南大学学报(自然科学版),2018,40(9):142- 149. [Song Fuqiang, Li Zhuoqing, Xiao Yu, et al. A value assessment of freshwater ecosystem services in the Pumqu River Basin, Tibet[J]. Journal of Southwest University (Natural Science Edition), 2018,40(9): 142-149.]   \n[12] 贺新军.青藏高原朋曲河流域耕地的扩张现状及其影响因素研 究[D].重庆:西南大学,2020.[He Xinjun.Study on the expansionstatusandinfluencing factorsof cultivatedlandin Pengqu River Basinof Qinghai TibetPlateau[D].Chongqing: Southwest University,2020.]   \n[13] 冀琴,董军,刘睿,等.1990—2015年喜马拉雅山冰川变化的遥 感监测及动因分析[J].地理科学,2020,40(3):486-496.Ji Qin, Dong Jun,Liu Rui,et al.Glacier changes in response to climate change in the Himalayas in 1990—2015[J]. Scientia Geographica Sinica,2020,40(3): 486-496.]   \n[14] 王聪强,杨太保,冀琴,等.1990—2015年唐古拉山中段冰川变 化遥感监测[J].干旱区地理,2016,39(3):504-512.[Wang Congqiang,Yang Taibao,Ji Qin,et al. Remote sensing monitoring of glacier changes in the middle region of Tanggula Mountain[J].Ar",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "lq Lana Geograpny,∠U10,əy(ə): əU4-ə12. 」   \n[15]Paul F, Kaab A, Maisch M,et al. The new remote-sensing-derived Swiss glacier inventory: I. Methods[J].Annals of Glaciology,2002, 34(1): 355-361.   \n[16] Huggel C, Haeberli W, Kaab A,et al.An assessment procedure for glacial hazards in the Swiss Alps[J]. Canadian Geotechnical Journal, 2004,41(6): 1068-1083.   \n[17]Andreassen L M,Paul F,Kaab A,et al. The new Landsat-derived glacier inventory for Jotunheimen,Norway,and deduced glacier changes since the 1930s[J]. The Cryosphere Discussions,2008,2 (3): 299-339.   \n[18]Racoviteanu A E,Arnaud Y, Williams M W,et al. Spatial patterns in glacier characteristics and area changes from 1962 to 2O06 in the Kanchenjunga- Sikkim area, eastern Himalaya[J]. The Cryosphere, 2015,9: 505-523.   \n[19] 许艾文,杨太保,王聪强,等.1978—2015年喀喇昆仑山克勒青 河流域冰川变化的遥感监测[J].地理科学进展,2016,35(7): 878-888.[Xu Aiwen,Yang Taibao,Wang Congqiang,etal.Variation of glaciers in the Shaksgam River Basin,Karakoram Mountains during 1978—2015[J].Progress in Geography,2016,35(): 878-888.]   \n[20] 陈杰,杨太保,冀琴,等.1976—2014年爬努河流域冰川变化对 气候变化的响应[J].干旱区资源与环境,2015,29(9):171-175. [Chen Jie, Yang Taibao,Ji Qin,et al. Glaciers in response to climate change in the Panuhe Basin,Tibet from 1976 to 2014[J]. Journal of Arid Land Resources and Environment, 2015,29(9): 171-175.]   \n[21] 胡凡盛,杨太保,冀琴,等.近40a阿尔金山冰川与气候变化关 系研究[J].干旱区地理,2017,40(3): 581-588.[Hu Fansheng, Yang Taibao,Ji Qin,et al.Relationship between the glacier and climate change in the Altun Mountain in recent four decades[J]. Arid Land Geography,2017,40(3): 581-588.]   \n[22] 祝合勇,杨太保,田洪阵.1973—2010年阿尔金山冰川变化[J]. 地理研究,2013,32(8): 1430-1438.[Zhu Heyong, Yang Taibao, Tian Hongzhen. Glacier variation in the Altun Mountains from 1973 to 2010[J]. Geographical Research,2013,32(8): 1430-1438.]   \n[23] Cody E,Anderson B M, McColl S T, et al.Paraglacial adjustment of sediment slopes during and immediately after glacial debuttressing[J]. Geomorphology,2020,37(15): 107-411.   \n[24] 刘时银,姚晓军,郭万钦,等.基于第二次冰川编目的中国冰川 现状[J].地理学报,2015,70(1): 3-16.[Liu Shiyin,Yao Xiaojun, Guo Wanqin,et al. The contemporary glaciers in China based on the Second Chinese Glacier Inventory[J].Acta Geographica Sinica, 2015, 70(1): 3-16.]   \n[25]Li D S, Cui BL, Wang Y,et al. Glacier extent changes and possible causes in the Hala Lake Basin of Qinghai-Tibet Plateau[J]. Journal of Mountain Science,2019,16(7): 1571-1583.   \n[26] 冀琴.1990—2015年喜马拉雅山冰川变化及其对气候波动的 响应[D].兰州:兰州大学,2018.[Ji Qin.Himalayan glacier ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "change and its response to climate fluctuations from 199O to 2015 [D].Lanzhou: Lanzhou University,2018.]   \n[27]Xiao F,Ling F,Du Y,etal.Evaluation of spatial-temporal dynamics in surface water temperature of Qinghai Lake from 2O01 to 2010 by using MODIS data[J]. Journal of Arid Land, 2O13,5(4): 452-464.   \n[28] 魏红,马金珠,马明国,等.基于遥感与GIS的朋曲流域冰川及 冰湖变化研究[J].兰州大学学报(自然科学版),2004,40(2): ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "97-100.[Wei Hong, Ma Jinzhu,Ma Mingguo,et al.Study on changes of glaciers and glacial lakes in the Pumqu Basin based on RS and GIS[J]. Journal of Chongqing Normal University (Natural Science),2004,40(2): 97-100.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29]Che T,Lin X,Liou Y A.Changes in glaciers and glacial lakes and the identification of dangerous glacial lakes in the Pumqu River Basin,Xizang (Tibet)[J].Advances in Meteorology，2O14,5(4): 452-464. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Glacier change and its response to climate change in Pumqu Basin during 1990—2020 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TANG Yuanhang， LI Mengqi， DENG Ling， WANG Xiaoli(KeyLaboratoryfGplicaton,Colgeofogaphdousm,hogingalUvesityonging4a)",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study examines the distribution and change of glacier area in the Pumqu Basin,Tibet, China over the last 30 years as wellas its response to climate change.The purpose of this study is to develop a more intuitive and comprehensive understanding of the total change characteristics of glaciers in the Pumqu Basin and the spatial distribution patern and dynamic change diferences between various slope directions and slopes over time.The Pumqu Basin is located on the southern margin of the Qinghai-Tibet Plateau.The Pumqu Basin has experienced crustal uplift,and the precipitation in the basin is large.The glaciers in this area have a large distribution area,diverse types，complex terrain,and climate conditions,and the ecological environment is sensitive and fragile.Currently,research on the Pumqu Basin mostly focuses on the analysis of the regional ice lake area change and the potential colapse of ice lakes.Although there are some studies on glacier change in the Pumqu Basin,the research period sequence is short,and there are few studies on the relationship between glacier and climate change in the Pumqu Basin.The glacier boundaryof the Pumqu Basin from 1990 to 2020 is extracted by remote sensing image processing and visual interpretation methods based on the long-time series of Landsat remote sensing image data and Digital Elevation Model,and the Pumqu Basin is studied from many angles.The results showed that: (l)the glacier area inthe studyarea continued to decrease;the retreat rate of the glacier area in the study period was $1 . 5 2 \\ \\% \\cdot \\mathrm { a } ^ { - 1 }$ from 199O to 2020;and the melting rate increased year by year. (2) The distribution area of glaciers increases first and then decreases with elevation,and the distribution area between $5 9 0 0 \\mathrm { ~ m ~ }$ and $6 1 0 0 \\mathrm { m }$ is the largest. (3) Glaciers in all slope directions showed a retreat trend, with the biggest and smallest retreat rateson the south and north slopes,respectively, during the period of 1990—2020.(4) In addition,the glacier with different slope grades shows a retreating trend. Glacier retreat primarily occurs in the range of $1 5 ^ { \\circ }$ to $4 5 ^ { \\circ }$ ,with a maximum slope of between $3 0 ^ { \\circ }$ and $3 5 ^ { \\circ }$ . The maximum rate of retreat is between $3 0 ^ { \\circ }$ and $3 5 ^ { \\circ }$ . (5) Comprehensive analysis of regional temperature and precipitation data shows that climatic conditions influence glacier area change in the study area, with increasing temperatures and decreasing precipitation likely to be the primary causes of glacier retreat. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key Words: glacier variations；motivation analysis； remote sensing； Pumqu Basin； geographic information sys-tem (GIS)",
+        "page_idx": 9
+    }
+]

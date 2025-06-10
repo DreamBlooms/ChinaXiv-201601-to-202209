@@ -1,0 +1,321 @@
+# 基于粒子群优化算法和模糊熵的多级阈值图像分割算法
+
+吕福起」，李霄民²
+
+(1.重庆工商大学 融智学院 基础课教学部，重庆 401320;2.重庆工商大学 数学与统计学院，重庆 400067)
+
+摘要：针对现有阈值分割算法利用穷举搜索寻找最优阈值而造成的计算成本较大的问题，提出了一种基于粒子群优化算法和模糊熵的多级阈值图像分割算法。图像分割是图像分析中非常重要的预处理步骤，在提出的方法中，首先选择香农熵和模糊熵作为优化技术的目标函数。然后建立了一种基于粒子群优化算法的多层次图像阈值分割，通过最大化香农熵或模糊熵进行图像分割。最后从图像分割数据库中选取“Lena”、“Baboon"和"Airplane"作为测试图像进行性能分析（包括鲁棒性，效率和收敛性），并与现有的几种阈值分割算法进行比较。结果显示，提出的算法得到了的更高PSNR值和更少的分类误差，证明了该算法是一种高效的多级阈值图像分割算法。
+
+关键词：图像分割；粒子群优化算法；模糊熵；香农熵；鲁棒性；目标函数 中图分类号：TP391 doi: 10.3969/j.issn.1001-3695.2018.04.0236
+
+# Multi-level threshold image segmentation algorithm based on particle swarm optimization and fuzzy entropy
+
+Lyu Fuqi1,Li Xiaomin²
+
+(1.Dept.ofBasic Course Teaching,RongzhiCollege,Chongqing Technology&Business University，Chongqing401320, China;2.CollgeofMathematics &Statistics,ChongqingTechnology&BusinessUniversity,Chongqing40o067,China)
+
+Abstract:Aiming attheproblem that the existing threshold segmentation algorithm uses the exhaustive search to find the optimalthresholdandthecalculationcost isrelatively large，thispapercameupwithamulti-level threshold image segmentation algorithm based on particle swarm optimization and fuzzy entropy.Image segmentation was a very important preprocessing step in image analysis.Intheproposed method,itfirstselected Shannonentropyand fuzzyentropy as the objectivefunctionof theoptimization technique.Then it establisheda multi-level image thresholdsegmentation basedon particle swarm optimization algorithm,and performed image segmentationby maximizing Shannon entropy or fuzzy entropy. Finaly,it selectedLena,BaboonandAirplanefromtheimage segmentationdatabaseas testimages forperformance analysis (includingrobustness,eficiencyandconvergence）,andcompared with severalexisting threshold segmentationalgorithms. The results show that the proposed algorithm obtains higher PSNR value and lessclasification error,which proves that this algorithm is an efficient multi-level threshold image segmentation algorithm.
+
+Key words: image segmentation;particle swarm optimization;fuzzyentropy; Shannonentropy; robustness; objective function
+
+# 0 引言
+
+图像分割是计算机视觉领域的一个前沿研究领域，是图像分析中非常重要的预处理步骤[1-3]。分割的目标是将图像的表示简化或更改为更有意义且更易于分析的内容。多年来，该领域已经取得了大量的研究成果。一般而言，目前使用的图像分割方法可概括为基于区域的方法、基于边界的方法、基于聚类的方法[4.5]以及基于阈值的方法[6.7]四大类。阈值技术是用于分割各种类型图像的几种方法中最为流行的一种。图像阈值即从背景中提取场景中的对象，这有助于分析和解释图像。传统的多层次阈值法对于双层阈值处理是有效的，因为其简单、鲁棒性好。然而，由于利用穷举搜索寻找最优阈值，因此需要大量计算成本。近年来，研究人员提出了许多卓越的阈值分割技术[8]，试图应用进化算法和智能优化法来获得最优阈值。
+
+文献[9]中通过计算阈值来将图像分类，该阈值基于像素强度的类别方差[10]。这种方法属于双级阈值分类[II]，在两个阈值的情况下被发现是有效的，但对于多级阈值，计算复杂度非常高。一些研究人员在多层次图像阈值分割方面做了很多努力，并提出了许多方法。文献[12]提出了一种使用禁忌搜索算法优化模糊熵的图像分割的多级图像阈值分割。文献[13]应用细菌觅食（bacteria foragingalgorithm,BFA）优化算法来优化目标函数从而实现高效的图像分割，并进一步提高了收敛速度和全局搜索能力。该方法还对BFA进行了少量修改，自适应地改变细菌的步长，而不是固定的步长，然后进行普通的细菌觅食来分割脑磁共振图像[14]。文献[15]中将模糊熵与蝙蝠算法（batalgorithm，BA）结合使用，并将结果与人工蜂群算法(artificialbee colony,ABC)、粒子群优化算法（particle swarm optimization,PSO）和遗传算法（genetic algorithm,GA）进行比较，证明了该算法的有效性。文献[16]中将萤火虫算法（firefly algorithm,FA）用于多级图像阈值处理，简单而有效。但当扩展到多级阀值时，计算量很大，因为它们对最优阈值进行了穷举搜索。
+
+基于此，本文建立了一种基于粒子群优化算法的多级图像阈值分割，通过最大化香农熵或模糊熵进行图像分割，并将结果与现有的的几种阈值分割进行了比较。针对基于粒子群优化算法的图像阈值处理的性能分析，考虑了目标函数、标准差、结构相似度指数、峰值信噪比、错误分类误差和计算复杂度等指标。总体而言，与现有几种方法相比，所提出的算法取得了得到了的更高PSNR值和更少的分类误差，证明了提出的方法的有效性。
+
+# 1 香农熵与模糊熵
+
+图像阈值处理是使用最佳阈值将灰度输入图像转换为黑白图像的过程。阈值处理可能是局部的，也可能是全局的，但是这些方法的计算量很大，所以需要借助优化技术来优化目标函数，从而减少局部或全局方法的计算时间。优化技术通过最大化目标函数来找到最佳阈值，使得分割图像清楚地区分图像的背景和前景。
+
+本文方法选择香农熵和模糊熵作为优化技术的目标函数。假设一个包含 $\mathbf { \Omega } _ { L }$ 个灰度级的图像，这些灰度级的范围是$\{ 0 , 1 , 2 , . . . , ( L - 1 ) \}$ 。概率 $P _ { i } { = } h ( i ) / N ( 0 < i < ( L { - } 1 ) )$ ，其中： $h ( i )$ （204号表示相应灰度级 $L$ 的像素数量； $N$ 表示图像中等于像素的总数到 ${ \sum } _ { i = 0 } ^ { L - 1 } h ( i )$ 。
+
+# 1.1香农熵的概念
+
+香农熵的概念，即变量的不确定性越大，熵也就越大，了解该变量所需要的信息量也就越大[17]。设 $X$ 是具有元素$\{ X _ { 1 } , X _ { 2 } , . . . , X _ { n } \}$ 的离散随机变量，则概率质量函数 $P ( X )$ 为
+
+$$
+H ( X ) = E [ I ( X ) ] = E [ - \mathrm { l n } ( P ( X ) ) ]
+$$
+
+其中： $E$ 是期望值算子； $\boldsymbol { \mathbf { \ell } } _ { I }$ 表示信息的内容； $I ( X )$ 也是一个随机变量。进一步，香农熵被重写为方程式（2），并被认为是要用优化技术进行优化的目标函数。
+
+$$
+H ( X ) = \sum _ { n } ^ { i = 1 } P ( x _ { i } ) I ( x _ { i } ) = - \sum _ { n } ^ { i = 1 } P ( x _ { i } ) \log _ { b } P ( x _ { i } )
+$$
+
+其中： $b$ 在算法中一般等于2。如果 $P ( x _ { i } ) { = } 0$ ，那么乘数 $0 l o g _ { b } 0$
+
+被认为是零，这与极限一致。
+
+$$
+\operatorname* { l i m } _ { P \to 0 + } p l o g ( p ) = 0
+$$
+
+所述方程式是针对 $X$ 的离散值，并且通过用积分替换求和来适用于 $\boldsymbol { \mathit { X } }$ 的连续值。
+
+# 1.2模糊熵的概念
+
+令 $D = \{ ( i , j ) \colon i = 0 , 1 , 2 , . . . . . , M - 1 ; j = 0 , 1 , 2 , . . . . . . . N - 1 \}$ 和  
+$G = \{ 0 , 1 , 2 , . . . . . . , L - 1 \}$ ，其中： $M$ 是图像的宽度； $N$ 是图像的  
+高度； $\mathbf { \Omega } _ { L }$ 是图像中的灰度级。 $I ( x , y )$ 是在位置 $( x , y )$ 处的图像的  
+强度并且Dk={(x,y):I(x,y)=k,(x,y)=D},$k = 0 , 1 , 2 , . . . . , L - 1$
+
+本文将原始图像的域 $D$ 分成三个区域（如 $E _ { d } \setminus E _ { m }$ 和 $E _ { b }$ ），并假设两个阈值 $T _ { 1 } \cdot T _ { 2 } \circ E _ { d }$ 区域覆盖强度值小于 $T _ { 1 }$ 的像素， $E _ { m }$ 包含强度介于 $T _ { 1 }$ 和 $T _ { 2 }$ 之间的像素， $E _ { b }$ 覆盖强度大于 $T _ { 2 }$ 的像素。$T _ { 2 } . \Pi _ { 3 } = \{ E _ { d } , E _ { m } , E _ { b } \}$ 是 $D$ 的未知概率分区，其概率分布（204号 $P _ { d } = P ( E _ { d } ) \ \cdot \ P _ { m } = P ( E _ { m } )$ 和 $P _ { b } = P ( E _ { b } )$ 在文献[18]中给出。 $\mu _ { d }$ 、$\mu _ { { } _ { m } }$ 和 $\boldsymbol { \mu } _ { b }$ 分别是 $E _ { d } \setminus E _ { m }$ 和 $E _ { b }$ 的隶属函数 $( \mu )$ ，需要六个参数，如 $a _ { 1 } , b _ { 1 } , c _ { 1 } , a _ { 2 } ,$ $b _ { 2 }$ 和 $\boldsymbol { c } _ { 2 }$ 。阈值 $T _ { \scriptscriptstyle 1 }$ 和 $T _ { 2 }$ 值基于隶属函数是可变的。对于每个 $k = 1$ ,2...,.25，令
+
+$$
+D _ { d } = \{ ( x , y ) : I ( x , y ) { \leqslant } T _ { 1 } , ( x , y ) \in D _ { k } \}
+$$
+
+$$
+D m = \{ ( x , y ) : T _ { 1 } < I ( x , y ) { \leqslant } T _ { 2 } , ( x , y ) \in D _ { k } \}
+$$
+
+$$
+D b = \{ ( x , y ) : I ( x , y ) > T _ { 2 } , ( x , y ) \in D _ { k } \}
+$$
+
+如果在 $p _ { d | k } + p _ { m | k } + p _ { b | k } = 1 ( k = 0 , ~ 1 , ~ 2 , . . . . . , ~ 2 5 5 )$ ，像素与 $D _ { k }$ （20相关的情况下， $E _ { d } \setminus E _ { m }$ 和 $E _ { b }$ 的条件概率分别为 $p _ { d | k } , p _ { m | k }$ 和$p _ { b | k }$ ，那么上面的几个等式可以被重写以下的形式：
+
+$$
+p _ { k d } = p ( D _ { _ p } ) = p _ { k } \times p _ { d / k }
+$$
+
+$$
+p _ { k m } = p ( D _ { m } ) = p _ { k } \times p _ { m / k }
+$$
+
+$$
+p _ { k b } = p ( D _ { b } ) = p _ { k } \times p _ { b / k }
+$$
+
+设定灰度值为 $k$ 的像素属于黑暗类（ $\boldsymbol { E } _ { d }$ ）、灰暗类（ $\langle ~ E _ { m }$ ）和亮类（ $E _ { b }$ ）的条件概率分别为 $p _ { d | k } , p _ { m | k }$ 和 $p _ { b | k }$ ，那么以下等式将保持为
+
+$$
+p _ { d } = \sum _ { 2 5 5 } ^ { k = 0 } p _ { k } * p _ { d / k } = \sum _ { 2 5 5 } ^ { k = 0 } p _ { k } * \mu _ { d } ( k )
+$$
+
+$$
+p _ { m } = \sum _ { 2 5 5 } ^ { k = 0 } p _ { k } * p _ { m / k } = \sum _ { 2 5 5 } ^ { k = 0 } p _ { k } * \mu _ { m } ( k )
+$$
+
+模糊 隶属函数Z(k,a,b,c,a,b,c）、$U ( k , a _ { 1 } , b _ { 1 } , c _ { 1 } , a _ { 2 } , b _ { 2 } , c _ { 2 } )$ 和 $S ( k , a _ { 1 } , b _ { 1 } , c _ { 1 } , a _ { 2 } , b _ { 2 } , c _ { 2 } )$ 分别作为黑暗类 $\mu _ { d } ( k )$ 、灰暗 $\mu _ { { \scriptscriptstyle m } } ( k )$ 和亮 ${ \mu } _ { b } ( k )$ 的隶属函数，计算如下：
+
+$$
+\mu _ { \infty } ( k ) = \left\{ \begin{array} { c c } { 0 } & { k \leqslant a _ { 1 } } \\ { \left( k - a _ { 1 } \right) ^ { 2 } } & { a _ { 1 } < k \leqslant b _ { 1 } } \\ { \left( c _ { 1 } - a _ { 1 } \right) * \left( b _ { 1 } - a _ { 1 } \right) } & { a _ { 1 } < k \leqslant b _ { 1 } } \\ { 1 - \frac { ( k - c _ { 1 } ) ^ { 2 } } { \left( c _ { 1 } - a _ { 1 } \right) * \left( c _ { 1 } - b _ { 1 } \right) } } & { b _ { 1 } < k \leqslant c _ { 1 } } \\ { 1 } & { c _ { 1 } < k \leqslant a _ { 2 } } \\ { \left( c _ { 2 } - a _ { 2 } \right) * \left( b _ { 2 } - a _ { 2 } \right) } & { a _ { 2 } < k \leqslant b _ { 2 } } \\ { \left( c _ { 2 } - a _ { 2 } \right) * \left( c _ { 2 } - b _ { 2 } \right) } & { b _ { 2 } < k \leqslant c _ { 2 } } \\ { 0 } & { k > c _ { 2 } } \end{array} \right.
+$$
+
+$$
+\mu _ { d } ( k ) = \left\{ \begin{array} { c c } { { 1 } } & { { k \leqslant a _ { 1 } } } \\ { { \displaystyle { 1 - \frac { \left( k - a _ { 1 } \right) ^ { 2 } } { \left( c _ { 1 } - a _ { 1 } \right) * \left( b _ { 1 } - a _ { 1 } \right) } } } } & { { a _ { 1 } < k \leqslant b _ { 1 } } } \\ { { \displaystyle { \frac { \left( k - c _ { 1 } \right) ^ { 2 } } { \left( c _ { 1 } - a _ { 1 } \right) * \left( c _ { 1 } - b _ { 1 } \right) } } } } & { { b _ { 1 } < k \leqslant c _ { 1 } } } \\ { { 0 } } & { { k > c _ { 1 } } } \end{array} \right.
+$$
+
+$$
+\mu _ { b } ( k ) = \left\{ \begin{array} { c c } { 0 } & { k \leqslant a _ { 2 } } \\ { \frac { ( k - a _ { 2 } ) ^ { 2 } } { ( c _ { 2 } - a _ { 2 } ) * ( b _ { 2 } - a _ { 2 } ) } } & { a _ { 2 } < k \leqslant b _ { 2 } } \\ { 1 - \frac { ( k - c _ { 2 } ) ^ { 2 } } { ( c _ { 2 } - a _ { 2 } ) * ( c _ { 2 } - b _ { 2 } ) } } & { b _ { 2 } < k \leqslant c _ { 2 } } \\ { 1 } & { k > c _ { 2 } } \end{array} \right.
+$$
+
+上述方程是在假设 $0 \leq a _ { 1 } < b _ { 1 } < c _ { 1 } < a _ { 2 } < b _ { 2 } < c _ { 2 } \leq 2 5 5$ 的情况下成立的。然后，每个类别的模糊熵函数可以表示为
+
+$$
+H _ { d } = - \sum _ { 2 5 5 } ^ { k = 0 } \frac { p _ { k } * \mu _ { d } ( k ) } { p _ { d } } * \ln \left( \frac { p _ { k } * \mu _ { d } ( k ) } { p _ { d } } \right)
+$$
+
+$$
+H _ { m } = - \sum _ { 2 5 5 } ^ { k = 0 } \frac { p _ { k } * \mu _ { m } ( k ) } { p _ { m } } * \ln \left( \frac { p _ { k } * \mu _ { m } ( k ) } { p _ { m } } \right)
+$$
+
+$$
+H _ { b } = - { \sum _ { 2 5 5 } ^ { k = 0 } } \frac { p _ { k } * \mu _ { b } ( k ) } { p _ { b } } * \ln \left( \frac { p _ { k } * \mu _ { b } ( k ) } { p _ { b } } \right)
+$$
+
+通过总结每个类别的模糊熵来计算整个模糊熵，即
+
+$$
+H ( a _ { 1 } , b _ { 1 } , c _ { 1 } , a _ { 2 } , b _ { 2 } , c _ { 2 } ) = H _ { d } + H _ { m } + H _ { b }
+$$
+
+上面的等式是一个用优化技术进行优化的目标函数。优化技术通过改变 $a _ { 1 } , b _ { 1 } , c _ { 1 } , a _ { 2 } , b _ { 2 } , c _ { 2 }$ 来优化或最大化$H \ ( a _ { 1 } , b _ { 1 } , c _ { 1 } , a _ { 2 } , b _ { 2 } , c _ { 2 } )$ 函数。一旦这些值被优化，然后用以下等式计算阈值。
+
+$$
+\mu _ { d } ( T _ { 1 } ) = \mu _ { m } ( T _ { 1 } ) = 0 . 5 { \mathrm { ~ a n d ~ } } \mu _ { m } ( T _ { 2 } ) = \mu _ { b } ( T _ { 2 } ) = 0 . 5
+$$
+
+研究表明，两级阈值可以扩展到三级或更多级别，甚至可以限制在单级。对于两个阈值，待优化的参数数量为六个，并且随着阈值水平的增加，待优化的数量参数也在增加，因此模糊熵需要很多时间进行收敛。因此，用香农熵和模糊熵进行图像分割的两级图像阈值分割方法被证明是高效和有效的，但对于多级阈值分割，两种熵技术都需要很多的收敛时间，并且随着阈值水平呈指数增长，而香农熵和模糊熵的缺点是收敛时间。为了进一步提高这些方法的性能并缩短收敛时间，研究人员利用差分进化、粒子群算法、蝙蝠算法和萤火虫算法等优化技术应用于图像阈值分割和以后的图像分割。
+
+# 2 提出的方法
+
+# 2.1粒子群优化算法概述
+
+粒子群优化算法是一种常用的进化寻优技术，它起源于对鸟群捕食行为的研究。它的基本思想是通过群体中各个个体之间的协作以及信息共享来寻找最优解。
+
+在PSO中，鸟群演变为一群没有质量也没有体积的微粒，并将其延伸到了N维空间中。在N维空间中，每个粒子i的位置由矢量 $X _ { i } = \left( x _ { 1 } , x _ { 2 } , . . . , x _ { N } \right)$ 表示。而飞行速度则由矢量
+
+Vi=(v,vV,V)表示。其中每个粒子都会对应一个适应值(fitnessvalue)，这个适应值是根据目标函数设定的。
+
+在这一过程中，每个粒子都知道当前发现的最佳位置pbest以及现在所处的位置 $X _ { i }$ 。而且粒子 $i$ 还知道当前群体中所有粒子发现的最佳位置gbest(gbest即pbest中的最好值)。各个粒子就是通过自身的位置信息，并结合其他粒子的位置信息来决定自己的运动方向的。PSO算法的初始化就是一群随机粒子，即随机解。而在每一次的迭代过程中，粒子将通过分析pbest 和gbest两个极值随时改变运动方向。
+
+粒子就是通过以下公式对速度 $\nu _ { i }$ 和位置 $x _ { i }$ 进行实时更新的，以寻求迭代过程中的最优解。
+
+$$
+\begin{array} { l } { { \nu _ { i } = \omega \times \nu _ { i } + c _ { 1 } \times r a n d ( \lambda ) \times \left( p b e s t _ { i } - x _ { i } \right) + } } \\ { { c _ { 2 } \times r a n d ( \lambda ) \times \left( p b e s t _ { i } - x _ { i } \right) } } \end{array}
+$$
+
+$$
+x _ { i } = x _ { i } + \nu _ { i }
+$$
+
+其中：rand（）是介于0与1之间的随机数； $\omega$ 为惯性因子; $c _ { 1 }$   
+和 $c _ { 2 }$ 是学习因子，通常 $c _ { 1 } = c _ { 2 } = 2$ 。
+
+# 2.2基于粒子群优化算法的模糊熵方法
+
+在本节中展示了通过粒子群算法最大化香农熵或模糊熵来进行图像分割的过程。下面举例说明用香农熵或模糊熵进行图像阈值处理的粒子群优化算法。
+
+输入：初始化群体数量（ $N$ ）、最大迭代次数（ $G _ { k }$ ）、阈值水平（ $\textit { T h } ^ { ) }$ 。初始化随机化参数（ $c _ { 1 }$ 和 $c _ { 2 }$ ），惯性因子( $\scriptstyle { \omega }$ ）和随机数 $( \ r a n d ( \mathbf { \theta } ) )$ 。输出：优化的阈值和分割图像。初始化所有需要的参数及其相应的尺寸和时间 $\scriptstyle t = 0$ 。使用方程式计算每个解 $X _ { i } = \left( x _ { 1 } , x _ { 2 } , . . . , x _ { N } \right)$ 的适应度值 $I _ { i }$ 。
+
+数据：初始化群体数量（ $_ { N } )$ 、最大迭代次数（ $G _ { \boldsymbol { k } }$ ）、阈值水平（ $T h$ ）、初始化随机化参数（ $c _ { 1 }$ 和 $c _ { 2 }$ ）、惯性因子（ $\omega$ ）和适应度值 $I _ { i }$ ：
+
+结果：优化的阈值和分割图像；
+
+for种群中的每一个粒子dofor 种群中的每条路径do初始化粒子速度（即交换序）；
+
+计算每条路径的距离；
+
+评估新的解决方案并更新粒子的位置和速度；
+
+t<最大迭代且全局最终位置满足模糊熵目标函数情况下，比较更新前和更新后的适应度值，相等时更新适应度值，并返回最佳解决方案和相应的分段图像与选定的阈值；
+
+# 3 实验分析
+
+# 3.1实验设置
+
+研究人员从图像分割数据库[19.20]中选取Lena、Baboon 和Airplane作为测试图像进行性能分析（包括鲁棒性、效率和收敛性)，如图1所示。所有图像都采用JPG格式，大小为 $2 2 5 { \times } 2 2 5$ 。所有的实验都在 2GB RAM 的英特尔酷睿 i5 处理器上的
+
+MATLAB2014a上进行。
+
+![](images/e6887bc03bd5c9cecba251031c367465ac5749eb4bdfa67b4da3cffa645c97f3.jpg)  
+图1图像分割数据库中的图片
+
+一般情况下，如果图像的直方图峰值高、对称，并且深度分离，则易于分割。据观察，Baboon 和Airplane 图像直方图的高峰是高且对称的，而Lena图像直方图峰的高峰并不高，因此很难用普通方法进行分割。因此，提出了基于粒子群优化算法的图像阈值分割方法，该方法通过对香农熵和模糊熵进行优化，实现了上述关键图像的高效图像分割。粒子群优化算法的最大迭代次数为30。粒子总数为(解决方案)高于阈值数量的10倍（即，如果阈值 $= 2$ ，则总数 $= 1 0 \times 2$ ）。PSO算法的性能取决于两个调整参数，如加速常数（ $c _ { 1 }$ 和 $c _ { 2 }$ ）和惯性权重因子 $( \mathbf { \Omega } _ { \omega } )$ 。通常将 $c _ { 1 }$ 和 $c _ { 2 }$ 设置为2，采用固定权重0.5。
+
+# 3.2结果分析
+
+在本节中利用香农熵和模糊熵以及文献[9]、文献[12]、文献[13]、文献[15]和文献[16]算法，集中研究了具有不同阈值级数（例如 ${ \mathrm { T h } } = 2$ 、 $\mathrm { T h } = 3$ 、 $\mathrm { T h } = 4$ 和 $\mathrm { T h } = 5$ ）的分割图像的视觉清晰度。三个图像应用几种不同算法获得的不同阈值级数水平的分割图像如图2所示。
+
+从这些图中可以看出，与 $\mathrm { T h } = 4$ 、 $\mathrm { T h } = 3$ 和 ${ \mathrm { T h } } = 2$ 相比，阈值数量较高（ $\mathrm { T h } = 5$ ）的分割图像视觉质量更好。从图2可以看出，对于Lena图像当阈值的数量扩展到5时，背景变得可识别，类似于图2(c)Baboon图像与背景对象混合；但随着阈值数量增加到5，Baboon图像变得清晰可辨。另外，也能看出由本文方法获得的不同阈值级数水平的分割图像在视觉质量上优于对比方法。
+
+本文方法选择香农熵和模糊熵作为优化技术的目标函数。使用模糊熵进行优化的目标函数是当前研究常用的一种方式，并且性能更好。所有算法都经过优化以最大化目标函数。表1显示了将香农熵或模糊熵作为图像分割的目标函数各种算法获得的客观值的比较。从表中可以看出，用模糊熵进行图像阈值似乎比香农熵要好，而且与其他方法相比，由本文方法分割后的图像熵值更大，说明本文方法的分割性能越好。
+
+![](images/9d759b9f0c7220a0a5a122d413d5b2403b4f055eb254c68a4052ed43c2d61069.jpg)  
+图2三个图像应用几种不同算法获得的不同阈值级数水平的分割图像
+
+注:(a)\~(f)分别显示Lena、Baboon 和Barbara 作为测试图像由本文方法、文献[9]、文献[12]、文献[13]、文献[15]和文献[16]获得的2-5级分割图像3.2.1稳定性分析
+
+优化技术的结果本质上是随机的，因为随机性涉及程序本身，并且结果对于每次运行都不是唯一的，所以算法性能通过多次运行并使用不同的初始值进行验证。如果算法的结果在相同情况下可接受（即从一次运行到另一次运行无差别），则算法被认为是鲁棒的。因此，相同的算法运行50次，并在平均50次独立运行时考虑结果。
+
+算法的稳定性用平均值和标准偏差衡量，一般来说，如果其所有技术中其稳定性因子较高，优化技术被认为是更好的，即每次运行的目标函数值应该相同。平均值和标准偏差[21由方程式（22）和（23）计算得出。
+
+$$
+s t d = \sqrt { \frac { 1 } { N } { \sum _ { j = 1 } ^ { N } ( \mu _ { j } - \sigma ) ^ { 2 } } }
+$$
+
+$$
+m e a n ( \sigma ) = \frac { 1 } { N } \sum _ { N } ^ { j } \mu _ { j }
+$$
+
+其中： $\boldsymbol { \mu } _ { j }$ 是第 $j$ 次运行时的目标函数值/适应值； $N$ 是运行次数。图3显示了几种不同分割算法的标准偏差的比较。
+
+表1将香农熵或模糊熵作为图像分割的目标函数各种算法获得的图像熵值的比较  
+
+<html><body><table><tr><td rowspan="2">图像</td><td rowspan="2">算法</td><td colspan="8">目标值</td></tr><tr><td colspan="2">Th=2</td><td colspan="2">Th=3</td><td colspan="2">Th=4</td><td colspan="2">Th=5</td></tr><tr><td rowspan="6">Lena</td><td></td><td>香农熵</td><td>模糊</td><td>香农熵</td><td>模糊</td><td>香农熵</td><td>模糊</td><td>香农熵</td><td>模糊</td></tr><tr><td>文献[9]</td><td>12.2637</td><td>25.4356</td><td>14.5454</td><td>28.4355</td><td>16.3526</td><td>32.1627</td><td>18.43445</td><td>33.4356</td></tr><tr><td>文献[12]</td><td>13.2634</td><td>23.2563</td><td>14.5688</td><td>25.4535</td><td>15.2673</td><td>28.3728</td><td>17.4455</td><td>32.4355</td></tr><tr><td>文献[13]</td><td>12.3627</td><td>24.5677</td><td>15.5455</td><td>26.4545</td><td>16.3728</td><td>34.3728</td><td>17.9434</td><td>36.3245</td></tr><tr><td>文献[15]</td><td>13.2634</td><td>25.5456</td><td>16.5459</td><td>28.4344</td><td>18.3767</td><td>30.2718</td><td>19.3455</td><td>32.4345</td></tr><tr><td>文献[16]</td><td>12.2637</td><td>23.3546</td><td>16.5456</td><td>28.5456</td><td>17.3678</td><td>33.1829</td><td>18.5455</td><td>35.3446</td></tr><tr><td rowspan="7">Baboon</td><td>本文方法</td><td>15.3674</td><td>35.5465</td><td>20.4566</td><td>38.6576</td><td>23.2637</td><td>43.2718</td><td>24.4566</td><td>46.4356</td></tr><tr><td>文献[9]</td><td>13.3627</td><td>26.5467</td><td>14.5455</td><td>28.5456</td><td>16.2637</td><td>30.9176</td><td>17.4350</td><td>32.4345</td></tr><tr><td>文献[12]</td><td>11.2536</td><td>24.5455</td><td>13.5455</td><td>29.5483</td><td>17.3684</td><td>32.9346</td><td>18.5456</td><td>34.3245</td></tr><tr><td>文献[13]</td><td>12.4679</td><td>27.5466</td><td>15.4545</td><td>29.5456</td><td>16.3784</td><td>31.0367</td><td>18.4556</td><td>33.4578</td></tr><tr><td>文献[15]</td><td>13.3562</td><td>28.5469</td><td>14.5454</td><td>30.5567</td><td>17.3728</td><td>32.1726</td><td>19.4233</td><td>35.4344</td></tr><tr><td>文献[16]</td><td>12.3562</td><td>26.5456</td><td>13.4552</td><td>30.3460</td><td>16.2743</td><td>36.6723</td><td>17.4356</td><td>37.4355</td></tr><tr><td>本文方法</td><td>17.3567</td><td>38.3563</td><td>20.5445</td><td>42.4455</td><td>22.6284</td><td>45.2516</td><td>23.4345</td><td>48.3556</td></tr><tr><td rowspan="6">Airplane</td><td>文献[9]</td><td>13.5778</td><td>28.5465</td><td>15.5523</td><td>29.5456</td><td>17.3783</td><td>32.1627</td><td>18.3455</td><td>34.4345</td></tr><tr><td>文献[12]</td><td>12.2560</td><td>25.5463</td><td>13.5468</td><td>28.4358</td><td>14.3647</td><td>32.6470</td><td>16.4566</td><td>35.4535</td></tr><tr><td>文献[13]</td><td>13.2536</td><td>26.5456</td><td>14.4345</td><td>30.4345</td><td>15.2737</td><td>33.9987</td><td>17.4345</td><td>35.4345</td></tr><tr><td>文献[15]</td><td>12.3563</td><td>27.5455</td><td>14.5467</td><td>29.4345</td><td>16.3746</td><td>31.2453</td><td>18.4560</td><td> 33.5435</td></tr><tr><td>文献[16]</td><td>13.2563</td><td>28.5455</td><td>15.5456</td><td>31.4556</td><td>17.2736</td><td>34.6256</td><td>18.3559</td><td>36.3345</td></tr><tr><td>本文方法</td><td>16.3679</td><td>39.4556</td><td>18.5455</td><td>43.4366</td><td>21.0372</td><td>46.8263</td><td>23.5467</td><td>48.4467</td></tr></table></body></html>
+
+![](images/7588c1633868d412944ed48512563391959ece9c5cfbae29c31df144c943576c.jpg)  
+图3几种不同分割算法的标准偏差的比较
+
+从图中可以看出，本文方法得到的所有分割图像均具有较低的标准差值，因此相对于其他算法，粒子群优化算法稳定且更好。
+
+# 3.2.2计算复杂性
+
+计算复杂性是优化技术的收敛时间的量度，其对于不同的阈值数量是可变的。香农熵和模糊熵的计算复杂度为 $O \ ( L ^ { T h } )$ ，其随阈值数（T）和灰度级数（L）呈指数增长。所提出的粒子群优化算法的收敛时间取决于图像的大小和最大迭代次数。
+
+图4列出了本文方法与其他对比方法的收敛时间/计算复杂度，以及针对不同图像的不同阈值数的香农熵和模糊熵。据观察，所提出的粒子群优化算法的平均收敛时间都小于其他算法。除了在图4中突出显示的某些情况下，所有图像的运行时间随着阈值数量的提高而增加。
+
+![](images/346ac21d8c9067c771743369b2707bbf86f05a4d388a2bc251f6f6fb7c27fcbb.jpg)  
+图4几种不同分割算法的执行时间的比较
+
+# 3.2.3峰值信噪比 (PSNR)
+
+PSNR 显示分割图像与输入图像之间的不相似性，作为两个图像的视觉差异的度量，其中单位是分贝（dB)。较高的PSNR值表示分割图像或重建图像质量较好。PSNR在式（24）中给出。
+
+$$
+P S N R = 1 0 \times \log \left( \frac { 2 5 5 ^ { 2 } } { M S E } \right) ( d B )
+$$
+
+其中：MSE 由方程式（25）给出
+
+$$
+M S E = \frac { 1 } { M \times N } { \sum _ { M } ^ { I } \sum _ { N } ^ { J } \{ f ( I , J ) - \sp { \bullet } ( I , J ) \} } ^ { 2 }
+$$
+
+其中： $M \times N$ 是图像的大小；I和J表示原始和解压缩图像的像素值。在这个实验中，研究人员已经取得了 $N = M$ 的正方形图像。 $f ( I , J )$ 为原始图像， $\overline { { f } } ( I , J )$ 为尺寸为 $2 2 5 { \times } 2 2 5$ 的重建图像。
+
+![](images/5afa16d3105196f6a39b8651da63fb15585d45619f44781af8bd33c179e7f1c8.jpg)  
+图5显示了不同算法获得的PSNR值，其中所提出的算法获得了较高的PSNR值。  
+图5几种不同分割算法的峰值信噪比(PSNR)比较   
+图6几种不同分割算法的分类误差比较
+
+3.2.4误分率
+
+它是用于比较优化技术性能的分割后的图像均匀性的度量。误分率由式（26）给出。
+
+$$
+M = 1 - 2 * T h * \frac { et { } { ' } \sum _ { j = 0 } ^ { T h } \sum _ { i \in R _ { j } } ( I _ { i } - \sigma _ { j } ) ^ { 2 } } { N * ( I _ { \operatorname* { m a x } } - I _ { \operatorname* { m i n } } ) ^ { 2 } }
+$$
+
+其中： $T$ 是用于分割图像的阈值的数量； $R _ { j }$ 是第 $j$ 个分割区域； $I _ { i }$ 是该特定分割区域中的像素的强度水平； $\sigma _ { j }$ 是图像的第$j$ 个分割区域的均值； $N$ 是图像中像素的最大和最小强度；（204号 $I _ { \min }$ 和 $I _ { \mathit { m a x } }$ 分别是图像的最大和最小强度。通常，误分率在0与1之间，误分率越低，算法的性能越好。因此，均匀度量度是从最大值1（较好图像质量）与最小值0（最差图像质量）之间的差值来测量的。
+
+图6展示了所提出的方法和其他技术的误分率，其中经证实的所提出的方法具有较小的分类误差并且获得较好的视觉质量。
+
+0.3 0.25 0.2   
+尔 0.15 H H 0.1 0.05 0 文献[9] 文献[12] 文献[13] 文献[15] 文献[16] 新方法   
+Lena 0.1423 0.1828 0.1958 0.1801 0.2529 0.1027   
+Baboon 0.1923 0.1682 0.1491 0.2021 0.1782 0.1278   
+Airplane 0.1425 0.1419 0.1761 0.2213 0.2108 0.1492
+
+# 4 结束语
+
+图像分割是图像分析中非常重要的预处理步骤。传统的多层次阈值法对于双层阈值处理是有效的，因为其简单性、鲁棒性、收敛时间和精度较低。然而，由于利用穷举搜索寻找最优阈值，所以需要大量计算成本，这导致更多的研究应用进化算法来获得最优阈值。图像分割的主要目的是将前景从背景中分离出来。本文建立了一种基于粒子群优化算法的多级图像阈值分割方法。
+
+基于粒子群优化算法的多级图像阈值分割用于图像分割已经有效地提出了所需的输出。粒子群优化算法最大化香农熵和模糊熵的高效和有效的图像阈值。提出的算法在自然图像上进行测试以显示算法的优点。将所提方法的结果与其他优化技术进行了比较，并用香农熵和模糊熵最为目标函数进行了比较。据观察，与对比方法相比，所提出的算法具有更高的适应值和更高的PSNR值，从而提高了分割图像的质量。可以得出结论，提出的算法在所有性能测量参数中均优于对比方法。
+
+# 参考文献：
+
+[1] 汪澜，张慧，张海涛.结合新颜色空间与Otsu 的分水岭彩色图像分割 算法[J].计算机应用研究,2017,34(12):3873-3879.(WangLan,Zhang Hui,Zhang Haitao.Watershed image segmentation algorithm combining with Otsu in new color space [J].Application Research of Computers,2017, 34 (12): 3873-3879.)   
+[2]吕福起，李霄民．利用MLT和SRS的混合图像融合与去噪算法[J].湘 潭大学自然科学学报，2018,40(1):111-114.(Lv Fuqi,Li Xiaomin. Hybrid image fusion and denoising algorithm based on MLT and SRS [J]. Natural Science Journal of Xiangtan University,2018,4O(1): 111-114.)   
+[3]Bruijne MD,Nielsen M. Shape particle filtering for image segmentation [C]// Proc of International Conference on Medical Image Computing and Computer-Assisted Intervention-Miccai. 2014:168-175.   
+[4]刘璐，吴成茂．基于类内类间距离的模糊C-均值聚类分割算法[J].计 算机工程与设计,2016,37(6):1626-1631.(Liu Lu,Wu Chengmao.Fuzzy C-means clustering segmentation algorithm based on intra-class and
+
+inter-class distance [J].Computer Engineering and Design,2O16,37(6):
+
+1626-1631. )   
+[5]Jurowski C,Uysal M,Noe F P.US Virgin islands national park:a factor-cluster segmentation study [J].Journal of Travel & Tourism Marketing,2016,1 (4): 3-31.   
+[6] 龙建武，申铉京，臧慧，等．高斯尺度空间下估计背景的自适应阈值分 割算法[J]．自动化学报,2014,40(8):1773-1782.(Long Jianwu,Shen Xuanjing，Zang Hui,et al.An adaptive thresholding algorithm by background estimation in Gaussan scale space [J]. Acta Automatica Sinica, 2014,40 (8): 1773-1782.)   
+[7]Razali MR M,Ahmad N S,Zaki Z M,et al. Region of adaptive threshold segmentation between mean,median and otsu threshold for dental age assessment [C]// Proc of IEEE International Conference on Computer, Communications,and Control Technology. 2014: 353-356.   
+[8]Lei L,Jin Y.Auto-measurement of grayscale threshold of ternary optical computer's decoder [J]. Computer Engineering & Design,2O12,33(1): 233-237.   
+[9]雷建锋，汪伟．基于OpenCV 的图像阈值分割研究与实现[J].现代电 子技术，2013,41 (24):73-76.(Lei Jianfeng，Wang Wei.Research and implementation of image threshold segmentation based on OpenCV [J]. Computer Engineering and Design,2013,41 (24):73-76.)   
+[10] Hohwy J. Prediction error minimization，mental and developmental disorder,and statistical theories of consciousness [J].Ecology & Civil Engineering,2015,2 (35): 53-61.   
+[11] Li M, Hui X,Shi J. The empirical research on the price discovery function of CSI3Oo index futures based on birge-massart threshold denoising [J]. Journal of Convergence Information Technology,2013,8(7): 459-466.   
+[12]吴鹏.萤火虫算法优化最大熵的图像分割方法[J].计算机工程与应用， 2014,50 (12): 115-119.(Wu Peng.Image segmentation method based on firefly algorithm and maximum entropy method [J]. Computer Engineering and Applications,2014,50(12): 115-119.)   
+[13] Mo H, Yin Y. Image segmentation based on bacterial foraging and FCM algorithm [J]. International Journal of Swarm Intelligence Research,2013,
+
+2(3):16-28.
+
+[14]Kalbkhani H, Shayesteh MG, Zali-Vargahan B.Robust algorithm for brain magnetic resonance image (MRI） classification based on GARCH variances series [J].Biomedical Signal Processing & Control,2O13,8(6): 909-919.   
+[15] Ye Z W,Wang M W,Liu W,et al.Fuzzy entropy based optimal thresholding using bat algorithm [J].Applied Soft Computing,2015,31 (C): 381-395.   
+[16] Zhou C,Tian L,Zhao H,et al.A method of two-dimensional otsu image threshold segmentation based on improved Firefly Algorithm[C]//Proc of IEEE International Conference on Cyber Technology in Automation, Control,and Intelligent Systems.2015: 1420-144.   
+[17] Burenmandula, Zhao Y C,Aqilaltu.Two-particle Boltzmann H-theorem [J]. Acta Mathematicae Applicatae Sinica English,2015,31 (3):747-756.   
+[18] Burenmandula, Zhao Y C,Aqilaltu. Two-particle Boltzmann-theorem [J]. Acta Mathematicae Applicatae Sinica,2015,31(3):747-756.   
+[19] Balocco S,Gatta C, Ciompi F,et al. Standardized evaluation methodology and reference database for evaluating IVUS image segmentation [J]. Computerized Medical Imaging & Graphics the Oficial Journal of the Computerized Medical Imaging Society,2014,38 (2):70-90.   
+[20] Minelli S H, Polo A D.Image segmentation search engine:Advanced access to an image archive database [Cl// Proc of Signal Processing Conference.2015:1043-1046.   
+[21]张海涛，程新文，熊红伟，等．改进蜂群算法的图像阈值分割方法 [J]. 计算机应用研究，2017，34（12):3880-3884.（Zhang Haitao，Cheng Xinwen，Xiong Hongwei,et al. Image threshold segmentation method based on improved artificial bee colony [J].Application Research of Computers,2017,34(12): 3880-3884.)

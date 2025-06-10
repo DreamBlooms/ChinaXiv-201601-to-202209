@@ -1,0 +1,333 @@
+[
+    {
+        "type": "text",
+        "text": "Lysine Malonylation Is Elevated in Type 2 Diabetic Mouse Models and Enriched in Metabolic Associated Proteins\\*图 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yipeng Du‡‡‡,Tanxi CaiS|‡‡, Tingting Li,Peng XueS, Bo Zhou‡, Xiaolong He‡, Peng Wei‡|l, Pingsheng Liu‡, Fuquan YangS\\*\\*,and Taotao Wei‡\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Protein lysinemalonylation，anewly identifiedprotein post-translational modification (PTM), has been proved to be evolutionarily conserved and is present in both eukaryotic and prokaryotic cells.However，its potential roles associated with human diseases remain largely unknown.In the present study,we observed an elevated lysine malonylation in a screening of seven lysine acylations in liver tissues of db/db mice,which is a typical model of type 2 diabetes.We also detected an elevated lysine malonylation in ob/ob mice，which is another model of type 2 diabetes.We then performed affinity enrichment coupled with proteomic analysis on liver tissues of both wild-type (wt) and db/db mice and identified a total of 573 malonylated lysine sites from 268 proteins.There were more malonylated lysine sites and proteins in db/db than in wt mice.Five proteins with elevated malonylation were verified by immunoprecipitationcoupledwithWesternblotanalysis.Bioinformatic analysis of the proteomic results revealed the enrichment of malonylated proteins in metabolic pathways, especially those involved in glucose and fatty acid metabolism.In addition，the biological role of lysine malonylation was validated in an enzyme of the glycolysis pathway.Together,our findings supporta potential role of protein lysine malonylation in type 2 diabetes withpossibleimplicationsforitstherapyinthe future. Molecular& CellularProteomics 14:10.1074/ mcp.M114.041947,227-236,2015. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Post-translational modifications (PTMs)1 have been recognized as a common feature of proteins (1-3).More than 300 types of PTMs have been identified according to the Swiss-Prot database (4, 5).Most of them use small molecular compounds as group donors.For example,adenosine-triphosphate (ATP) is used in phosphorylation, S-adenosylmethionine (SAM) in methylation,and acetyl-CoA inacetylation.Lysineacylations including malonylation (6),succinylation (7),butyrylation (8),propionylation (9),and crotonylation (1O) representa group of PTMs that use intermediates of energymetabolism like malonyl-CoA,succinyl-CoA，butyryl-CoA，propionyl-CoA，and crotonyl-CoA as group donors.Among the lysine acylations, lysine malonylation was first identified in Escherichia coli (E.coli) and HeLacells usinga specific anti-Kmal (anti-malonyllysine) antibody (6). It was found in three proteins in E.coli and 17 proteins in HeLa cells.Using a novel chemical fluorescent probe,another group identified more than 3oo malonylated protein candidates in HeLa cells (11). Despite the rapid progress in detection technologies and tools, functional studies of lysine malonylationand its role in human diseases have been lagging behind. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Type 2 diabetes is characterized by hyperglycemia and production of glycated proteins.For example，glycated hemoglobin A1c (HbA1c) has been clinically used as diagnostic criteria for diabetes.Inaddition to glycation,the role of other types of PTMs in type2 diabetes remains to be revealed.In fact,elevated malonyl-CoA levels have been found in type 2 diabetic patients (12),and prediabetic rats (13).And hepatic overexpression of malonyl-CoA decarboxylase (MCD)decreased malonyl-CoA and reversed insulin resistance (14). Given the use of malonyl-CoA as malonyl donor in lysine malonylation, lysine malonylation is therefore anticipated to be of functional significance in the pathogenesis of type 2 diabetes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we observed elevated lysine malonylation in liver tissues of db/db mice after unbiased screening seven types of lysine acylations.We then detected elevated levels of lysine malonylation in liver tissues of more db/db and ob/ob mice.Using an immunoaffinity based proteomic method,we identifiedatotal of 573malonylated lysine sites from 268 proteins in liver tissues of wt and db/db mice. Elevation of lysine malonylation in five proteins was confirmed byimmunoprecipitation coupled with Western blot analysis. Functional analysis of the malonylated proteins showed an apparent enrichment in metabolic pathways,especially those involved in the glucose and fatty acid metabolism. Our study indicates the putative association between protein lysine malonylationand type 2 diabetes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reagents-Anti-malonyllysine (PTM-901)，anti-acetyllysine (PTM105),anti-1,2-dimethylysine (PTM-602),anti-succinyllysine (PTM-401), anti-butyryllysine (PTM-301),anti-propionyllysine (PTM-201),anti-crotonyllysine (PTM-5o2) antibodies，and anti-malonyllysine conjugated agarose beads were purchased from PTM Biolabs (Chicago,IL).G6Pl (ab86950)，LDHA (ab47010)，FBP1 (ab109732)，and 10-FTHFDH/ ALDH1L1 (ab56777) antibodies were purchased from Abcam (Cambridge,MA).Glutathione (GSH) agarose beads were purchased from GE Healthcare Life Sciences (Uppsala, Sweden). Sequencing-grade trypsin was purchased from Promega (Madison,Wl),and C18 ZipTipswere purchased from Millipore (Billerica,MA).A list of other chemicals used for LC-MS/MS is available in previously published study (15). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Animalsand Samples-C57BLKSdb/db mice $h = 5 )$ andwtmice （204号 $( n = 5 )$ were provided by the Animal Centerof Peking University.C57 BL/6J-ob/ob mice $( n = 4 )$ and wt mice $( n = 4 )$ were provided by the Institute of Laboratory Animal Science,CAMS (Chinese Academy of Medical Science).Mouse studies were approved by the Animal Experimentation Ethics Committee (Institute of Biophysics,CAS)and the National Health and Medical Research Council of China Guidelines on Animal Experimentation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TissueLysatePreparation-Miceweresacrificedbycervical dislocation.Tissues were homogenized in $1 m |$ lysis buffer $5 0 ~ \\mathsf { m m }$ Tris-Cl, pH 7.4,150 mM NaCl, $0 . 5 ~ \\mathsf { m m }$ EDTA, $1 \\mathsf { m m }$ DTT, $1 \\%$ Triton X-100, $0 . 5 \\%$ sodium deoxycholate,and $0 . 1 \\%$ SDS). The homogenized tissues were centrifuged at 12,0o0 rpm and the supernatant containing the tissue lysates was kept for later steps. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Western blottingand Coomassie Blue Staining-Western blot and Coomassie blue staining analysis were carried out as described previously (16). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Vitro Malonylation ReactionandALDOBActivityAssay-Invitro malonylation was performed as previously described (17).Briefly, FLAG-tagged ALDOB was overexpressed in 293T cells and purified using ANTI-FLAG M2 Affinity Gel (A2220,Sigma-Aldrich,St. Louis, MO) as per instruction by the manufacturer.Purified ALDOB proteins were incubated for $1 2 \\mathsf { h }$ at $3 7 ^ { \\circ } \\mathsf { C }$ in buffer containing $1 \\mathsf { m m }$ malonylCoA, $5 0 ~ \\mathsf { m m }$ Tris-Cl, $\\mathsf { p H } 8 . 0$ ，and $1 5 0 \\mathrm { \\ m u } \\mathrm { \\ N a C l }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Enzymatic activity of ALDOB was determined spectrophotometrically by measuring the decrease of NADH at $3 4 0 \\ \\mathsf { n m }$ in a coupled assaywith triosephosphate isomerase (TPl) and glycerophosphate dehydrogenase (GDH) (18).Assays were performed in triplicates at $3 0 ~ ^ { \\circ } \\mathsf { C }$ in buffer A (100 mM Tris-Cl, $\\mathsf { p H } 7 . 5$ ，and 1 mM EDTA) following addition of fructose 1,6-bisphosphate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In-geland In-solution Tryptic Digestion-For in-gel digestion,protein bands around 95KDa,55 KDa, $3 4 \\mathsf { K D a }$ ,and26KDawere excised from the SDS-PAGE gels,cut into small pieces and destained using ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$5 0 ~ \\mathsf { m m }$ triethyl ammonium bicarbonate (TEAB)in $40 \\%$ acetonitrile. $100 \\%$ acetonitrile was used to dehydrate the gel.5 mm Tris (2-carboxyethyl) phosphine (TCEP) was used to reduce the proteins. $1 0 \\mathsf { m m }$ methyl methanethiosulfonate (MMTS) was used to alkylate the proteins.Digestion was carried out using sequencing-grade modified trypsin (Promega) with a substrate ratio of 1:50 (w/w) overnight at $3 7 ^ { \\circ } \\mathsf { C }$ Peptides were extracted with $60 \\%$ acetonitrile and $5 \\%$ formic acid (FA). Resulting peptides were dried and prepared for immunoprecipitation.For insolution digestion,liver tissue lysateswere precipitated withacetone and resolved in $8 \\mu$ urea with $5 0 \\mathsf { m m }$ Tris-HCl, ${ \\mathsf { p H } } 8 . 0$ .Thesampleswere reduced and alkylatedasdone for in-gel digestion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AffinityEnrichmentofMalonylatedPeptides-Thetrypticpeptides obtained from in-gel digestion or in-solution digestion were resolubilized in NETN buffer $( 5 0 \\mathsf { m m }$ Tris-Cl, pH 8.0, $0 . 5 \\%$ Nonidet P-40, $1 0 0 \\mathsf { m m }$ NaCl,and 1 mM EDTA).Anti-malonyllysine antibody-conjugated agarose beadswere added and incubated at $4 ^ { \\circ } \\mathsf { C }$ for $1 2 \\mathrm { ~ h ~ }$ with gentle shaking.The beads were washed two times with NETN buffer,once withETNbuffer $5 0 ~ \\mathsf { m m }$ Tris-Cl, ${ \\mathsf { p H } } 8 . 0$ P $1 0 0 m N N a C l$ and $1 \\mathsf { m m }$ EDTA), and once with purified water.The bound peptides were eluted by $0 . 1 \\%$ trifluoroacetic acid(TFA) and dried using the SpeedVac.The dried peptides were re-dissolved in $0 . 1 \\%$ FA and desalted using C18 ZipTips. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein Identification and Quantification by LC-MS/MS-LCMS/MS analyses were performed on a LTQ-Orbitrap mass spectrometer (Thermo，San Jose,CA) equipped with an Eksigent nanoLC system (Eksigent Technologies,LLC,Dublin,CA). The peptide mixtures were loaded onto $2 0 \\cdot \\mathsf { m m }$ ReproSil-Pur C18-AQ (Dr.Maisch GmbH,Ammerbuch) trapping columns (packed in-house,i.d.，150 $\\mu \\mathsf { m } ;$ resin, $5 \\ \\mu \\mathsf { m } )$ and eluted into $1 5 0 ~ \\mathrm { m m }$ ReproSil-Pur C18-AQ (Dr. Maisch GmbH,Ammerbuch) analytical columns (packed in-house, i.d., $7 5 \\ \\mu \\mathrm { { m } ; }$ resin, $3 \\mu \\mathrm { m } \\dot { }$ forMSanalysis.Elutionwasachievedwitha $0 \\text{‰}$ gradient buffer B (Buffer A, $0 . 1 \\%$ formic acid and $5 \\%$ acetonitrile;Buffer B, $0 . 1 \\%$ formic acid and $9 5 \\%$ acetonitrile) over $9 0 ~ \\mathrm { m i n }$ usinga data-dependent method.All MS/MS spectra were collected using normalized collision energy (setting, $3 5 \\%$ ),an isolationwindow of $3 ~ \\mathsf { m } / z$ ，and one micro-scan. The acquired MS/MS spectra were searched using the Mascot (v2.3.2) search engine in the Proteome DiscovererTM Software (v1.3,Thermo Fisher Scientific,Bremen,Germany) against the mouse Uniprot database (version 2.3,50,807 sequences) using a target-decoy database searching strategy (19).The following search criteria were employed: three missed cleavages wereallowed;mass tolerance for parent ions was set to 20 ppm; mass tolerance for fragment ions was set to $0 . 8 \\mathsf { D a }$ ；minimumpeptide length was set at 6; Cys $_ { + 4 5 . 9 8 7 7 }$ Da,methanethiosulfonate,MMTS) was set as a fixed modification; Met ( $\\cdot + 1 5 . 9 9 4 9$ Da,oxidation) and Lys （2 $( + 8 6 . 0 0 0 4 ~ \\mathsf { D a }$ ，malonylation) were considered as variable modifications.The global false discovery rate (FDR) for both peptidesand proteins was set to O.01.The relative quantitation of proteins between two samples (wt versus db/db mice) was achieved by extracted ion chromatograms (XlCs) of peptides with a Mascot score of ${ } = 2 5$ that ranked first.The resulting peptides were extracted using the Precursor lon Area Detector feature in the Proteome Discoverer program (version 1.3),using a mass tolerance of 3 ppm.Only proteins with a minimum of two quantifiable peptides were included in our final data set.The peptides did not match any proteins present in the Uniprot database,and peptides with no XiCs in both wt and db/db mice were excluded from the final data set. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BioinformaticsAnalysisofMalonylated Proteins-Themalonylated proteins were classified based on the PANTHER (Protein Analysis through Evolutionary Relationships) system.The DAVID 6.7 was employed for enrichment analysis of Gene Ontology (GO) termsand Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways.The default mouse proteome was used as the background list. The significance of the obtained enrichments was evaluated by using the Benjamini-Hochberg corrected $p$ value.The identified proteins with lysine malonylation were searched against the STRlNG database (V 9.1）for protein-protein interactions.A network of protein-protein interactions was generated，which was then visualized using the Cytoscape program (v3.0.2).This interaction network was further analyzed for densely connected regions using the program “Molecular Complex Detection\"(MCODE). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b23d6c609ce11f8e090c5114f38e52f88bb7c2ae608e09d9e00463956cc81b8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein Lysine Malonylation Elevate in Liver Tissues of db/db and ob/ob Mice-The db/db mice，which has a homozygous point mutation in the db gene encoding for the leptin receptor,is an classical type 2 diabetic mouse model (20,21).To investigate the role of protein lysine acylations in type2 diabetes,seven types of lysineacylationswere investigated by Western blot in liver tissue lysates of wt and db/db mice.A marked elevation of lysine malonylation was observed in db/db mice relative to wild type littermates (Fig.1A),while little elevation of lysine acetylation,1,2-methylation,succinylation,butyrylation,propionylation,and crotonylation was detected (Fig.1B-1G). Equal loading was verified by $\\beta$ -actin Western blot and Coomassie blue staining (Fig.1H, I).Furthermore,we detected lysine malonylation in another four wt and db/db mice and observed a significant increase in lysine malonylation in liver tissues of all db/db mice (Fig.2A).To investigatewhether lysine malonylation levels are elevated beyond wt levels in other type 2 diabetic animal models as well,we tested lysine malonylation levels in ob/ob mice.Consistentwith the observations in db/db mice,an elevated levels of lysine malonylation was detected in liver tissues of all ob/ob mice relative to wt mice (Fig.2B). Together, these findings demonstrated that lysine malonylation was elevated in liver tissues of db/db and ob/ob type 2 diabetic animal models. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ldentificationofMalonylatedProteinsinGels-Tovalidate the increase of protein lysine malonylation and identify the malonylated lysine sitesand proteins, liver lysates from three wt or db/db mice were combined and proteins were separated by SDS-PAGE.Four gel bands with the highest levels of lysine malonylation were cut and trypsin-digested (Fig.3A). For analysis of each band,a total of 5O gels were cut and combined.The digested peptides were immunoprecipitated with anti-malonyllysine antibody-conjugated agarose beads and then loaded onto LC-MS/MS.One representative MS/MS spectrum of the identified malonylated peptides is shown in ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6adb1c9189aabe5d17c914f5c245ae93946422572ad4e0c4124559c6413a940.jpg",
+        "img_caption": [
+            "FIG.3.dentificationofprotein lysinemalonylationbyin-geldigestionandLC-M/.A,Diagramof in-geldigestioncoupldwith LC-MS/MSanalysis.Fourprsofandsioomassiebuestainedgel,hichshowedgreatincreasedevelsoflysinemaloylatiobyWeste blot,werecutandtrysin-digestedin-gelDigestedpeptideswereextractedandimmunoprecipiatedusingantialoylsineatibody conjugated agarose beads.Immunoprecipitated peptides were identified by LC-MS/MS. $\\times 5 0$ ：a total of 50 gels were cut for each bands.B, ArepresentativeMS/MSspectraofmalonatedpeptides.Theneutralossof44KDisuniquesignatureofmalonylatioanddesignatedas “-44.\"C, Number of malonylated proteins and peptides detected for each band. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3B.There was a neutral loss of carbon dioxide( $\\mathsf { \\Gamma } ( \\mathsf { C O } _ { 2 }$ ，44 Da)，which was used for confirming the presence of lysine malonylation.The LC-MS/MS results showed that the number of malonylated proteins and peptides identified for each of the four bands was higher in db/db mice relative to wt (Fig.3C). Detailed information on all malonylated proteins and peptides identified is summarized in supplemental Table S1.Together, our results indicated that proteins from the livers of db/db mice weremore intensivelymalonylated than those in wt,whichwas consistent with the results obtained from Western blot analysis ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Identification of Malonylated Proteins in Solution-Having successfully tested the ability of our LC-MS/MS method to detect malonylation,we used in-solution tryptic digestion to widen the scope of our analysis and identify lysine malonylation in a larger number of peptides (Fig.4A). Liver lysates were combined from either three wt or three db/db mice，then ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FIG.4.Proteomic identification and bioinformatics analysis of protein lysinemalonylation.A,Diagram of in-solution digestion coupled with LC-MS/MS analysis.Liver tissues from wtand db/db (db)mice were lysed.Proteins were extracted，trysin-digested，immunoprecipitated using anti-malonyllysine antibody-conjugated agarose beads，and detected by LC-MS/MS. $\\times 3$ ：livers tissues from three mice were combined.B, Venn diagram showing overlapped malonylated peptides between wt and db. C，Venn diagram showing overlapped malonylated proteins between wt and db.D，Pie diagram showing biological process enrichment of total malonylated proteins.Analysis was done with the web tool “PANTHER.”E,Network diagramshowinginteractionsbetween malonylatedproteins extractedfrom STRING database.MCODE method was used to calculate clusters.Five clusters were identified. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2536c5997fbcb7b4fb6a18d697beef01c6dde1951471f8d1372ef685f3a316cc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A B UDP-Glucuronate Pathway Name P-value ↑UGDH Glycolysis/ 8x10-18 UDP-Glucose GBE' Gluconeogenesis ↑UGP2 PYGL Fatty acid 4x10-13 Glucose-1-P Glycoge metabolism PGM1 GK Gluconate-6-P PGLGluconolact-6-P P6GDGlucose-6-P G-6-PasGlucose PGD G6PI Fructose-6-P Ribo-5-P Sedo-7-P Eryt-4-P 7   \nRibu-5-P PFK1 FBP1 VXylu-5-p TKT Gly-3-P TAL Fructose-6-P Fructose-1,6-P2 ALDOB Glycerol-3-P Xylu-5-PTKT Giy3-P IPLGyoGPD1 FABP1 GAPDH Fattyacids Glycerate-1,3-P2 ACSF2/L1/L5/VL FAS PGK1/2 ACBP---Fatty-acyl-CoA Glycerate-3-P ACD↓ PGAM1/2 Trans Enoyl-CoA Glycerate-2-P EHHADH↓ ENO1 Ketoacyl-CoA Malonyl-CoA Phosphoenolpyruvate ACAA1/2 Acetyl-CoA MCD[JACC PDHPyruvate PK LDHA>Lactate ACAT1/2 ME ACLY Acetoacetyl-CoA Oxaloacetate HMGCS2 MDH1 Malate HMGMG-COA CitrtAC01 Fumarate Acetyl-CoAAcetoacetate IsoctraeIDHketogutae Fattyacid metabolism Glucose metabolism ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "trypsin-digested and immunoprecipitated usinganti-malonyllysine-conjugated agarose beads.After immunoprecipitation, LC-MS/MS,and a search against the mouse Uniprot database，we identified a total of 268 Uniprot-reviewed proteins, containing 573 malonylated lysine sites (supplemental Table S2).There were 246 lysine malonylation sites that overlapped between wt and db/db mice (Fig. 4B);and 169 malonylated proteins that overlapped between the two groups (Fig. 4C). We extracted ion chromatograms and calculated the area under the peak associated with malonylated peptides,which indirectly reflects the quantity of each malonylated peptide. For the 246 overlapping peptides，the average under-thecurvearea of extracted ion chromatograms foreach malonylatedpeptides in db/db was larger than thatin thewt mice (supplemental Fig. S1). Together， these results suggested greater malonylation in db/db livers relative to wt,and were consistent with the results obtained by Western blot and in-gel identification. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We compared the 268 malonylated proteins in the mouse liver with two previously acquired malonylation data sets in the HeLa cell line by manually searching for protein homologs. Our data contained 13 malonylated proteins out of 17 proteins identifiedby Zhao et al.and 54 malonylated protein candidates out of the 375 proteins identified by Li et al. (supplemental Table S3) (6,11).Thus, the overlap observed between these data sets confirmed the validity of our experimental procedures and results.We then compared our data with a large-scale succinylation data set,and 135 out of 433 Uniprot-reviewed proteins were shown to overlap between the two data sets (supplemental Table S3) (22). These results suggested that malonylation and succinylation might occur at identical proteins. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our data also revealed that some proteins were highly malonylated.For example，29 malonylated peptides(19 unique malonylated lysine sites) were identified in the onecarbon metabolic enzyme 10-FTHFDH.The proteins with more than five malonylated peptides are summarized in supplementalTable S4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Biological Process Analysis ofMalonylated Proteins-To evaluate the biological relevance of lysine malonylation, the PANTHER classification system was used to sort the malonylated proteins according to theirassociated biological processes (23).The results of this analysis showed that 194 out of 268 malonylated proteins $( 7 2 \\% )$ were classified as involved ina metabolic process (Fig. 4D and supplemental Table S5). The analysis of Gene Ontology (GO) terms by the Functional Annotation Tool of DAVlD also revealed that most of the enriched GO terms were involved in catabolic or metabolic processes (supplemental Table S5) (24). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Protein Interaction NetworkAnalysis ofMalonylated Proteins-To better understand the function of lysine malonylation,the malonylated proteins were subjected to a proteinprotein interaction (PPl) network analysis using the STRING database (25).A PPl network containing 239 nodes and 1517 edges were constructed.To characterize protein complexes among the malonylated proteins,the PPl networks was analyzed for highly connected nodes by MCODE (26). Five highly connected clusters have been identified including the glutathione metabolic,oxoacid metabolic,organic acid metabolic, glucose catabolic,and translation cluster (Fig.4E).The PPl network analysis indicated that lysine malonylation occurs in various metabolic complexes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "KEGGPathway AnalysisofMalonylated Proteins-To furthercharacterize the role of lysine malonylation,KEGG pathwayanalysis was performed for the malonylated proteins.The results showed that malonylated proteins were enriched in the glucose, fatty acid,and amino acid metabolic pathways (supplemental Table S5 and Fig. 5A). Disorders of glucose and fattyacidmetabolismaretwomajorfeaturesof type2diabetes.The majority of enzymes involved in glucose and fatty acid metabolism were identified to be malonylated in livers of db/db mice (Fig. 5B and supplemental Table S2). Indeed, many of the enzymes identified showed elevated levels of lysine malonylation (supplemental Table S6).Dysfunction of glucose metabolic enzymes,including glucokinase (27,28), glucose-6-phosphatase (29，30)，phosphofructokinase (31), and glycogen phosphorylase (32),is known to be involved in type2 diabetes.Although the role of lysine malonylation in dysfunction of metabolic enzymes remains unknown, the high levels of lysine malonylation on metabolic enzymes in db/db livers indicates an association between lysine malonylation and metabolic disorders of type 2diabetes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VerificationofLysineMalonylationby Immunoprecipitation CoupledwithWesternblotAnalysis-ToverifytheLC-MS/MS results,we selected four proteins(10-FTHFDH,G6PI,FBP1, and LDHA) with commercially available antibodies for immunoprecipitation analysis.After immunoprecipitating an equal amount of proteins from wt and db/db samples, lysine malonylation was detected by Western blot.Consistent with the LC-MS/MS results, levels of lysine malonylation of 10- ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b04157c903f432af42cf946144584c4118f5e3b26d2aa88a5a79a4123fc1fb93.jpg",
+        "img_caption": [
+            "FIG.6.Verification of increased lysine malonylation in db/db mice.Four proteins that showed increased lysine malonylation by LC-MS/MS methodand with commerciallyavailable antibodyavailable for immunoprecipitation were selected.Tissue lysates were immunoprecipitated by the selected antibodies and protein-A agarose beads.For GSTs,tissue lysates were directly immunoprecipitated by GSH-beads.Efficiency of immunoprecipitation and malonylation status of target proteins were evaluated by Western blot analysis.A, 10-FTHFDH (10-formyltetrahydrofolate dehydrogenase)．B，G6Pl (Glucose-6-phosphate isomerase).C,FBP1 (Fructose-1,6-bisphosphatase 1).D,LDHA (L-lactate dehydrogenase A chain).E,GSTs (Glutathione S-transferases).F-H,Diagram of reactions involving the indicate proteins.10-CHO-FH4 (10-formyltetrahydrofolate)，FH4 (tetrahydrofolate). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FTHFDH,G6PI,FBP1,and LDHA proteins were elevated in db/db livers relative to wt (Fig. 6A-6D).10-FTHFDH is known to catalyze the transformation of 10-CHO-FH4 to FH4 (Fig. 6F),whereas G6PI, FBP1,and LDHA are important enzymes inglucose metabolism (Fig.6G). In addition，GSTs，which catalyze the conjugation of glutathione (GSH) with electrophilic compounds，were affinity-purified using GSH-beads (Fig.6H).Elevated lysine malonylation of GSTs in db/db mice was detected by Western blot analysis (Fig.6E). Overall, these resultsverified the elevated levels of lysine malonylationobserved for some of the proteins identified by LC-MS/MS. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff991502f41a136411259457103dee23c19e341697561c342bbb958a6564a7dd.jpg",
+        "img_caption": [
+            "FIG.7.Detection of ALDOB activity after malonylation of ALDOB and lysine 107 mutated ALDOB (K107A). Change of ALDOB A,and K107A $B$ activityafter invitromalonylation reaction. ALODB and K107A were purified from HEK293T cells and incubate at $3 0 ^ { \\circ } \\mathsf { C }$ with NADH.Activitywere determined by measuring decrease of absorbance at $3 4 0 ~ \\mathsf { n m }$ $p$ value were calculated based on triplicate measurements. (\\*: $p$ value $<$ 0.01,t test).C，Structure analysis of mammalian ALDOB protein.The catalytic centercontainsseveral key residues including lysine 107 (red).The peptides with lysinemalonylation (red color K) identifiedbyMS/MS are indicated at the bottom. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Impact of Lysine Malonylation on Enzymatic Activity of ALDOB (FructosebisphosphatealdolaseB)-Tovalidatethe biological role of lysine malonylation,we searched the PDB database and found that malonylation can occur on key residues of several enzymes,including K107 on ALDOB，K124 on ACAT1 (Acetoacetyl-CoA thiolase)，K46 and K273 on HMGCS2 (Hydroxymethylglutaryl-CoA synthase，mitochondrial),and K279 and K345 on PBE (Peroxisomal bifunctional enzyme) (Fig. 7C and supplemental Fig. S4). To evaluate the influence of malonylation on their enzymatic activity，we selected ALDOB for further analysis.We purified wild type ALDOB and K107A-mutated ALDOB proteins and determined their enzymatic activity spectrophotometrically.We found that enzymatic activityofK107A-mutated ALDOB decreased $30 \\%$ comparing with ALDOB (supplemental Fig.S5). The results revealsthe importanceofK107 forALDOBactivity.Wenext analyzed the influence of K107 malonylation on ALDOB activity.Because of lack of a site-specific malonyltransferase, we were not able to obtain K107-specific malonylated ALDOB.Alternatively,we nonspecifically malonylated purified ALDOB proteins by an in vitro reaction.We found that purified ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ALDOB was extensively malonylated in vitro,and that enzymatic activity of malonylated ALDOB decreased by $20 \\%$ relative to nonmalonylated ALDOB (Fig. 7A). However, enzymaticactivityofmalonylatedK107A-mutatedALDOB decreased little comparing with K107A-mutated ALDOB (Fig. 7B).Altogether, the body of evidence obtained in our studies indicates that K107 malonylation plays an important role in the regulation of ALDOB activity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In our study,we analyzed acylation patterns inwt and type 2 diabetic mice.We identified an elevation of protein lysine malonylation levels in liver tissues of db/db and ob/ob type 2 diabetic animal models,and identified large numbers of malonylated proteins in liver tissues of db/db mice.Bioinformatics analysis of the malonylated proteins indicatedarole in glucose and fatty acid metabolism as their predominant function.In addition to liver,we also observed the status of lysine malonylation in other tissues and found that elevation of lysine malonylation was liver-specific (supplemental Fig. S2). In addition to db/db and ob/ob mice,we measured lysine malonylation in other type 2 diabetic animal models including KK mice,ob/ob rats,and spontaneously type 2 diabetic monkeys and found elevation of lysine malonylation to various degrees (supplemental Fig. S3).Thus,we hypothesize that liver-specific elevation of lysinemalonylationmightbe common intype2 diabetes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Elevation of lysine malonylation is consistent with previous studies reporting higher malonyl-CoA levels in type 2diabetes (12,13).Because lysine malonylation requires malonyl-CoA, the biological function of malonyl-CoA might indirectly reflect thebiological role of lysine malonylation.Malonyl-transferase(s) and demalonylase(s) are also required for lysine malonylation.SiRT5 has been identified asademalonylase (6). However,knockdownofSiRT5 onlyraises lysinemalonylation moderately,whereasit resultsinamarked increase inoverall succinylation levels,suggesting the existence of other,as yet unidentified demalonylases (33). In addition,SiRT5 does not appear to be associated with type 2 diabetes and SIRT5 deficiency fails to lead to any phenotypes resembling type 2 diabetes (33).Futurework inthis field would have to include the identification of the unknown malonyl-transferase(s) and alternative demalonylase(s), together with the evaluation of their role in type2diabetes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similar to lysinemalonylation, lysine acetylation has been found in almost every enzyme involved in glucose and fatty acid metabolism (34).Acetylation of metabolic enzymes is known to have a great impact on their catalytic functions (34). Acetyl-CoA and malonyl-CoA are closely related and interconvertible,and therefore we propose that lysine malonylation also functions in regulating metabolism.In fact,malonylation can occur on key residues of metabolic enzymes (Fig. 7Aand supplemental Fig.S4).Malonylation of ALDOB in vitro has been shown to decrease its activity (Fig.7B).Malonylation of other proteins probably affect their functions.The following focus in the field would be on studying malonylation of several important type 2diabetic associated proteins. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Analysisof identified malonylated proteins revealed the role of malonylation in metabolic processes.Our malonylation datamirrorearlierproteomicresults foracetylationand succinylation,which demonstrated an enrichment of acetylation and succinylation in metabolic enzymes (22,34).Metabolic intermediates serve as group donors of protein acylations and protein acylations in turn regulate the production of metabolic intermediates.This might bea general feedback mechanism used in cells to control metabolism in a highly efficient manner.Given their potential role in metabolic regulation,acylations might contribute to different pathological processes. Although malonylationmight dominate in metabolic disorders such as type 2 diabetes，other acylations might be more important in other metabolic diseases such as coronary heart disease,hypertension,and hyperlipidemia.Recently，elevation of lysine acetylation has been detected in the kidneys of streptozotocin (STZ)-induced diabetic rats (35). In addition, lysine glutarylation has been associated with the disease of glutaric academia (36).Altogether, ourwork identifieda large number of malonylated proteins,which are potential important in regulating metabolism in type 2 diabetes. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments-We thank Prof. Peng Li (Tsinghua University, China) for providing liver samples of ob/ob mice.We also thank Dr. Junjie Hou (Institute of Biophysics,Chinese Academy of Sciences) for excellent technical assistance and Dr.Torsten Juelich (Peking University, China) for critical reading and editing of the manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\* This work was supported by grants from the National Basic Research Program of China (Nos．2010CB833700，2012CB934003, 2012CB966803,and 2014CBA02003), the Major Equipment Program of China (No.2011YQ030134), the National Natural Science Foundation of China (31100614,31400666),and the National Laboratory of Biomacromolecules. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SThis article contains supplemental Figs.S1 to S5 and Tables S1 to S6. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\*\\* To whom correspondence should be addressed: Chinese Academy of Sciences,15 Datun Road,Chaoyang District, Beijing 100101 China.Tel.: $^ +$ 86-10-6488-8566;Fax: $^ +$ 86-10-6487-1293;E-mail:weitt@ moon.ibp.ac.cn (T.W.) or fqyang@ibp.ac.cn (F.Y.). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These authors contributed equally to this work. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions: Y. D.and T.W.designed the study， collected the data, and wrote the manuscript.T.C.,T.L.,P.X., B. Z., X.H.,and P.W.collected the data. P.L.and F.Y.contributed to discussion and reviewed the manuscript.All authors contributed to data interpretation and approved the final manuscript.T.W.and F.Y. are the guarantors of this work and,as such,had full access to all the datain the study and take responsibility for the integrity of the data and the accuracy of the data analysis. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.Nussinov,R., Tsai, C.J., Xin,F.,and Radivojac,P.(2012) Allosteric posttranslational modification codes.Trends Biochem. Sci.37,447-455   \n2.Walsh,C.T.,Garneau-Tsodikova,S.,and Gatto,G.J.,Jr. (2005) Protein posttranslational modifications:the chemistry of proteome diversifications.Angew Chem.Int.Ed. Engl. 44,7342-7372   \n3.Strahl,B.D.，and Allis,C.D.(20oo) The language of covalent histone modifications.Nature 403,41-45   \n4.Lu,C.T., Huang,K.Y., Su,M.G.,Lee,T.Y., Bretana,N.A.,Chang,W.C., Chen,Y.J.,Chen,，Y.J.，and Huang，H.D.(2013) DbPTM 3.0:an informative resource for investigating substrate site specificity and functional association of protein post-translational modifications.Nucleic Acids Res.41,D295-D305   \n5.Khoury,G.A.,Baliban,R.C.,and Floudas,C.A.(2011) Proteome-wide post-translational modification statistics:frequency analysis and curation of the swiss-prot database.Sci. Rep.1, 90 DOl:10.1038/srep00090   \n6.Peng, C.,Lu,Z., Xie, Z., Cheng, Z., Chen,Y., Tan,M.,Luo,H., Zhang,Y., He,W.,Yang,K., Zwaans,B.M.,Tishkoff,D.,Ho,L., Lombard, D.,He, T.C.,Dai, J., Verdin,E.,Ye,Y.,and Zhao,Y.(2011) The first identification of lysine malonylation substrates and its regulatory enzyme.Mol.Cell Proteomics 10,M111 012658   \n7.Zhang,Z.,Tan,M., Xie,Z.,Dai,L., Chen,Y.,and Zhao,Y. (2011) Identification of lysine succinylation as a new post-translational modification. Nat.Chem.Biol.7,58-63   \n8. Chen,Y., Sprung,R.,Tang,Y., Ball, H., Sangras,B., Kim, S. C.,Falck, J. R., Peng,J.,Gu,W.,and Zhao,Y. (2oo7) Lysine propionylation and butyrylation are novel post-translational modifications in histones.Mol.Cel/ Proteomics 6,812-819   \n9. Cheng,Z.,Tang,Y.,Chen,Y., Kim, S.,Liu,H.,Li, S.S.,Gu,W.,and Zhao, Y.(2009) Molecular characterization of propionyllysines in nonhistone proteins.Mol. Cell Proteomics8,45-52   \n0.Tan,M.,Luo,H., Lee,S.,Jin,F.,Yang,J.S.,Montellier,E.,Buchou,T., Cheng，Z.，Rousseaux，S.，Rajagopal，N.，Lu，Z.，Ye，Z.，Zhu，Q., Wysocka,J.,Ye,Y., Khochbin,S., Ren,B.,and Zhao,Y. (2011) Identification of 67 histone marks and histone lysine crotonylation as a new type of histone modification. Cel/146,1016-1028 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "11.Bao,X., Zhao,Q.,Yang,T.,Fung,Y.M.,and Li,X.D.(2013) A chemical ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "probe for lysine malonylation.Angew Chem.Int. Ed.Engl.52,4883-4886   \n12.Bandyopadhyay,G.K.,Yu,J.G.,Ofrecio,J.,and Olefsky，J.M.(2006) Increased malonyl-CoA levels in muscle from obese and type 2 diabetic subjects lead to decreased fatty acid oxidation and increased lipogenesis;thiazolidinedione treatment reverses these defects. Diabetes 55, 2277-2285   \n13.Zhao,Z., Lee,Y.J.,Kim, S.K., Kim,H.J., Shim,W.S., Ahn, C.W., Lee, H.C., Cha,B. S.,and Ma,Z.A. (20o9) Rosiglitazone and fenofibrate improve insulin sensitivity of pre-diabetic OLETF rats by reducing malonyl-CoA levels in the liver and skeletal muscle. Life Sci.84,688-695   \n14.An,J., Muoio, D.M., Shiota, M., Fujimoto,Y., Cline,G.W., Shulman, G.I., Koves,T.R.,Stevens,R.，Millington,D.,and Newgard,C.B.(2004) Hepatic expression of malonyl-CoA decarboxylase reverses muscle, liver,and whole-animal insulin resistance.Nat. Med.10, 268-274   \n15. Chen,X., Cui,Z.,Wei,S., Hou,J., Xie,Z.,Peng,X.,Li,J., Cai,T., Hang,H., and Yang,F. (2013) Chronic high glucose induced INS-1beta cell mitochondrial dysfunction:a comparative mitochondrial proteome with SILAC.Proteomics 13,3030-3039   \n16.Jiang，P.，Huang，Z.，Zhao，H.,and Wei，T.(2013) Hydrogen peroxide impairs autophagic flux in a cell model of nonalcoholic fatty liver disease. Biochem. Biophys.Res.Commun.433,408-414   \n17.Wagner,G.R.,and Payne,R.M. (2013) Widespread and enzyme-independent Nepsilon-acetylation and Nepsilon-succinylation of proteins in the chemical conditions of the mitochondrial matrix.J. Biol. Chem.288, 29036-29045   \n18.Santamaria,R.,Esposito,G., Vitagliano,L.,Race,V.,Paglionico,I.,Zancan, L.,Zagari,A.,and Salvatore,F. (2ooo) Functional and molecular modeling studies of two hereditary fructose intolerance-causing mutations at arginine 303 in human liver aldolase.Biochem.J.350,823-828   \n19.Elias,J.E.,and Gygi， S.P.(2007) Target-decoy search strategy for increased confidence in large-scale protein identifications by mass spectrometry.Nat.Methods4, 207-214   \n20.Coleman,D.L.(1982) Diabetes-obesity syndromes in mice. Diabetes 31, 1-6   \n21.Hummel, K.P., Dickie,M.M.,and Coleman, D.L.(1966) Diabetes,a new mutation in the mouse. Science 153,1127-1128   \n22.Park,J.,Chen,Y.,Tishkoff, D.X.,Peng,C.,Tan,M.,Dai,L.,Xie,Z.,Zhang, Y.,Zwaans,B.M., Skinner,M.E.,Lombard,D.B.,and Zhao,Y. (2013) SIRT5-mediated lysine desuccinylation impacts diverse metabolic pathways.Mol. Cel 50,919-930   \n23.Mi，H.，Muruganujan，A.，Casagrande,J.T.,and Thomas,P.D.(2013) Large-scale gene function analysis with the PANTHER classification system. Nat.Protoc.8,1551-1566   \n24.Huang da,W., Sherman,B.T.,and Lempicki, R.A. (2009) Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat. Protoc.4,44-57   \n25.Franceschini,A.，Szklarczyk,D.，Frankild,S.，Kuhn,M.，Simonovic，M., Roth,A., Lin,J., Minguez,P.,Bork,P., von Mering, C.,and Jensen,L.J. (2013) STRiNG v9.1: protein-protein interaction networks,with increased coverage and integration.Nucleic Acids Res.41,D808-D815   \n26.Bader, G. D.,and Hogue,C.W.(2003) An automated method for finding molecular complexes in large protein interaction networks.BMC Bioinformatics 4,2   \n27.Glaser，B.，Kesavan,P.,Heyman，M.,Davis,E.,Cuesta,A.，Buchs,A., Stanley, C.A.,Thornton,P.S.,Permutt,M.A., Matschinsky,F.M.,and Herold,K.C.(1998) Familial hyperinsulinism caused by an activating glucokinase mutation.N. Engl.J. Med. 338, 226-230   \n28.Froguel,P.，Vaxilaire，M.，Sun,F.，Velho,G.，Zouali，H.，Butel，M.O., Lesage,S.,Vionnet,N.，Clement,K.,Fougerousse,F.,Tanizawa,Y., Weissenbach,J., Beckmann,J.S., Lathrop,G.M., Passa,P.,Permutt, M.A.，and Cohen，D.(1992) Close linkage of glucokinase locus on chromosome $7 p$ to early-onset non-insulin-dependent diabetes mellitus. Nature 356,162-164   \n29. Clore,J.N., Stillman,J.,and Sugerman,H.(20oo) Glucose-6-phosphatase flux in vitro is increased in type2 diabetes.Diabetes 49,969-974   \n30.Massillon,D.,Barzilai,N., Hawkins,M.,Prus-Wertheimer,D.,and Rossetti, L.(1997) Induction of hepatic glucose-6-phosphatase gene expression by lipid infusion. Diabetes 46, 153-157   \n31.Ristow,M.,Vorgerd,M.,Mohlig，M.,Schatz,H.,and Pfeiffer,A.(1997) Deficiency of phosphofructo-1-kinase/muscle subtype in humans impairs insulin secretion and causes insulin resistance.J.Clin. Invest.100, 2833-2841   \n32.Martin,W.H., Hoover, D.J.,Armento, S.J., Stock,I.A., McPherson,R.K., Danley,D.E., Stevenson,R.W., Barrett, E.J.,and Treadway,J.L.(1998) Discovery of a human liver glycogen phosphorylase inhibitor that lowers blood glucose in vivo.Proc. Natl.Acad. Sci. U.S.A.95,1776-1781   \n33.Yu,J., Sadhukhan,S., Noriega,L.G., Moullan,N., He,B.,Weiss,R.S., Lin, H., Schoonjans,K.,and Auwerx,J. (2013) Metabolic characterization of a Sirt5 deficient mouse model. Sci. Rep.3, 2806   \n34.Zhao,S.,Xu,W.,Jiang,W.,Yu,W.,Lin,Y.,Zhang,T.,Yao,J., Zhou,L., Zeng,Y.,Li,H.,Li,Y.,Shi,J.,An,W.,Hancock, S.M.,He,F.,Qin,L., Chin,J.,Yang,P., Chen,X.,Lei, Q., Xiong,Y.,and Guan,K.L. (2010) Regulation of cellular metabolism by protein lysine acetylation. Science 327,1000-1004   \n35.Kosanam,H.,Thai, K., Zhang,Y.,Advani, A., Connelly,K.A., Diamandis, E.P.,and Gilbert,R.E. (2014) Diabetes induces lysine acetylation of intermediarymetabolism enzymes in the kidney.Diabetes 63,2432-2439   \n36.Tan,M.,Peng,C.,Anderson,K.A.,Chhoy,P.,Xie,Z.,Dai,L., Park,J., Chen,Y.,Huang,H.,Zhang,Y.,Ro,J.,Wagner,G.R.,Green,M.F, Madsen,A.S., Schmiesing,J., Peterson,B. S., Xu,G., llkayeva, O.R., Muehlbauer,M.J., Braulke,T.,Muhlhausen,C.,Backos,D.S., Olsen, C.A.,McGuire,P.J., Pletcher, S.D., Lombard,D.B.,Hirschey,M.D., and Zhao,Y. (2014) Lysine glutarylation is a protein post-translational modification regulated by SIRT5.Cell Metab.19,605-617 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

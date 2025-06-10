@@ -1,0 +1,637 @@
+[
+    {
+        "type": "text",
+        "text": "基于比湿订正拉格朗日模型的新疆短时强降水的水汽来源",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张亚宁，张明军，王圣杰，杜铭霞，马荣，周苏娥，孟鸿飞，余秀秀",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（西北师范大学地理与环境科学学院,甘肃兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于中国地面气象站逐小时观测资料、GDAS 气象数据及2016—2017年 NCEP/NCAR再分析资料,利用拉格朗日后向轨迹模型,结合比湿变化对新疆短时强降水的水汽来源进行订正。结果表明： $\\textcircled{1}$ 新疆的水汽主要来源于包括里海、黑海、地中海、大西洋、北冰洋和附近的内陆地区;新疆常年受西风影响,偏南西风影响较大； $\\textcircled{2}$ 阿尔泰-塔城森林草原自然区和准噶尔盆地荒漠自然区水汽路径总体偏北，伊犁－巴音布鲁克（中天山）自然区和哈密－吐鲁番荒漠自然区受陆地水汽源的影响更大,而塔里木盆地极端干旱荒漠自然区水汽路径总体偏南。聚类分析结果显示,阿尔泰-塔城森林草原自然区的水汽来自于欧洲,准噶尔盆地荒漠自然区的水汽主要来自于中亚、里海和蒙古高原,塔里木盆地极端干旱荒漠自然区水汽主要来自塔里木盆地、西亚、中亚和黑海; $\\textcircled{3}$ 经过比湿判断水汽补给情况后,气团回溯路径普遍变短,水汽主要来自中亚、黑海、里海和附近的陆地;从主要水汽源地的传输水汽平均需要3.5d左右,季节上表现为夏季的水汽源地最近,秋季的水汽源地较远,区域上阿尔泰－塔城森林草原自然区水汽源地最远，哈密-吐鲁番荒漠自然区水汽源地最近; $\\textcircled{4}$ 新疆各起始高度上的降水主要受偏北和偏南的西向气流影响，且从对水汽的贡献来看，偏北的西向气流大于偏南的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：短时强降水；HYSPLIT轨迹模型；水汽来源；大气环流场；回；新疆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆是典型的干旱区，远离海洋，水汽匮乏、天气变化剧烈[1-2],因此该地区常受突发性的强对流天气的影响，夏季短时强降水天气频发，具有突发性强、来势猛、降水时间集中、成因复杂、可预报时效短和危害性大等特点。短时强降水会引发自然灾害，对农业、建筑、通讯、电力和交通等造成严重影响，给国民经济和人民生命财产带来很大损失[3-4],因此加强对短时强降水的监测预警和分析研究显得尤为重要[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "短时强降水的形成除了大气柱中需要具备充足的水汽条件外，源源不断的水汽输送也是必要条件[6-8],分析降水的水汽来源及输送有助于研究降水成因和机理[9，能有效指导区域水资源管理、自然灾害预测预警等[10-12]。许多学者对新疆短时强降水的时空分布特征和水汽来源已经做了大量研究。新疆短时强降水主要发生在夏季，呈现北部多于南部、西部多于东部、山区多于平原和盆地的分布特征[3],强降水量变差系数较大[13],具有显著日变化特征[14-15],主要集中在午后至傍晚。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆水汽主要来源于西方和西北方，其中西方是指从大西洋、地中海、黑海、里海和中亚地区入境的水汽；西北方的气流主要是来自新地岛以西的北冰洋,从西北向东南方向移动入境[16-17];水汽来源也随季节发生变化，夏季主要受西风、西北风水汽影响，冬季则主要受西风水汽影响，仅南疆盆地受来自青藏高原中西部的西南暖湿气流影响[17]。1月和4月的水汽源地是里海和地中海；7月是北大西洋和北冰洋;10 月是黑海和里海[18]。然而对新疆短时强降水的水汽源区、路径和降水贡献率等有待于更加深入的定量化估算。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "前人基于拉格朗日模型对国内外短时强降水水汽输送情况进行了研究[19-22],使水汽输送路径及其源区的研究有了进一步的发展和应用[23],表明拉格朗日方法应用于研究水汽输送源的可行性。但传统的拉格朗日模型后向轨迹回溯时间和起始高度的设置是恒定的,具有不确定性,因此,一些学者(24-25]提出一种新的拉格朗日模型诊断方法,即在研究中加入气象要素，通过研究后向轨迹的特定湿度和水汽补给强度来调整后向持续时间和精确判断水汽源地。Wang 等[26]利用新的拉格朗日模型方法对新疆水汽来源进行诊断发现，南疆的强降水水汽更可能是直接来源于欧洲或中亚蒸发的陆地水分，而不是来自大西洋的海洋水分。新的拉格朗日模型方法可用来定量评估不同源区对降水的相对贡献[23-24],从而加深对降水天气、气候过程的理解，对更为准确地评估蒸发和降水过程、提高预报准确率做出了重要贡献[24,27-28] O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，关于新疆短时强降水水汽来源的研究总体较少，主要围绕不同时间尺度降水的水汽输送路径开展研究。本文选取中国地面气象站逐小时观测资料和GDAS气象数据及2016—2017年NCEP/NCAR再分析资料，利用拉格朗日轨迹模型，结合比湿变化对新疆短时强降水事件的水汽来源进行诊断，从而能加深对新疆短时强降水水汽输送特征的认识,为该地区降水分析和预报提供参考[29-30],为中亚地区的水文过程研究提供有用的信息，并对干旱和半干旱地区降水研究提供参考[26,31-32] O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地处欧亚大陆腹地、位于中国西北边陲，距海较远、海洋湿润水汽难以到达，致使新疆成为欧亚大陆的干旱中心。其范围为： $3 4 ^ { \\circ } 1 5 ^ { \\prime } \\sim 4 8 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N }$ $7 3 ^ { \\circ } 2 0 ^ { \\prime } \\sim 9 6 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { E }$ ,地域辽阔,东西最长达 $1 ~ 9 0 0 ~ \\mathrm { k m }$ ，南北最宽为 $1 ~ 5 0 0 ~ \\mathrm { k m }$ ,面积约为 $1 . 6 6 \\times 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ ，约占中国陆地面积的 $1 / 6$ 。新疆是典型的干旱地区，属于温带大陆性干旱气候，降水稀少且蒸发量大，年均降水量仅为 $1 6 5 . 5 ~ \\mathrm { m m }$ ,且降水时空分布不均[33]河川年径流量为 $8 . 7 9 \\times 1 0 ^ { 1 0 } \\ \\mathrm { m } ^ { 3 }$ ,且年际变化不稳定[34],年内分配不均匀。新疆水资源总体呈现“春旱、夏洪、秋缺、冬枯\"的特征[35]。随着全球变暖,新疆气温和降水总体呈现增加趋势[36-38],但受季节暖湿变化的影响，春、夏季降水呈微弱的减少趋势，秋、冬季降水增加趋势明显[39]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了能更清晰地反映新疆短时强降水的水汽来源区域性差异，本文参考《中国干旱区自然地理》[40],将新疆分为5个自然区（图1）,分别是阿尔泰－塔城森林草原自然区（I）、准噶尔盆地荒漠自然区（Ⅱ）、伊犁－巴音布鲁克（中天山）自然区（Ⅲ）、哈密-吐鲁番荒漠自然区（V)和塔里木盆地极端干旱荒漠自然区（V）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d59e08d6c74fcd4ee3ec1bf580456240903f9bea2711a923fff0783ae5d53ac.jpg",
+        "img_caption": [
+            "审图号：GS(2015)741号图1新疆分区图Fig.1The study area"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）降水数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取中国气象局国家气象信息中心发布的中国地面气象站逐小时观测资料（http：//data.cma.cn），时间序列为2016年6月至2017年7月。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对新疆逐时降雨量 $\\geqslant 5 . \\mathrm { ~ l ~ m m ~ } \\cdot \\mathrm { ~ h ~ } ^ { - 1 }$ 的数据进行筛选后，共得到197次记录。其中，阿尔泰-塔城森林草原自然区（1）有35次记录；准噶尔盆地荒漠自然区（Ⅱ)有81次记录;伊犁－巴音布鲁克(中天山)自然区（Ⅲ)和哈密-吐鲁番荒漠自然区（IV）均有1次记录;塔里木盆地极端干旱荒漠自然区（V）有79次记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）大气环流场数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文使用的气象数据资料选自美国国家环境预报中心（National Centers for EnvironmentalPredic-tion，简称NCEP)运行的全球数据同化系统（GlobalData Assimilation System,简称GDAS）〔41],这套数据的空间分辨率为 $1 ^ { \\circ } \\times 1 ^ { \\circ }$ ,数据包括：气压、气温、降水量、相对湿度和比湿；以及2016—2017年Reanal-ysis1再分析资料 $\\left( 2 . 5 ^ { \\circ } \\times 2 . 5 ^ { \\circ } \\right)$ ，选取与新疆关系密切的 $\\mathrm { 2 0 ^ { \\circ } \\sim 6 0 ^ { \\circ } N , 2 0 ^ { \\circ } \\sim 1 2 0 ^ { \\circ } E \\rangle }$ 空域的风场和水汽通量场，对影响新疆短时强降水水汽来源的大气条件进行了分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2研究方法短时强降水是指短时间内降水强度较大，降水量达到或超过某一量值的天气现象[42]。本文参照曾勇等[3]的方法,将新疆 $^ \\mathrm { ~ 1 ~ h ~ }$ 降雨量 $\\geqslant 5 . \\mathrm { ~ 1 ~ m m }$ 的降水事件（197次)称为短时强降水事件， $5 \\sim 1 0 ~ \\mathrm { m m }$ 的降水事件占总比例的 $7 6 . 1 \\%$ ，而$\\geqslant 1 0 \\ \\mathrm { m m }$ 的降水事件仅占 $2 3 . 9 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）基于HYSPLIT模型后向轨迹计算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文利用美国国家海洋和大气管理局（NationalOceanic and Atmospheric Administration，简 称 NO-AA)大气资源实验室（AirResourcesLaboratory，简称ARL)开发的混合单粒子拉格朗日积分轨迹模式(Hybrid Single-Particle Lagrangian Integrated Trajecto-ry,简称HYSPLIT）。后向轨迹的模拟需要输入求算的时间、地点和高度等基本参数，起算时间按照每次降水初始时间的气象记录，由于水汽在平流层中平均停留时间是 $1 0 \\mathrm { ~ d ~ }$ 左右[43-44],因此采用10 d作为回溯日，即计算每次降水 $2 4 0 \\mathrm { ~ h ~ }$ 之前降水气团轨迹,以新疆气象站点为气团运动终点，后向轨迹的起算高度，即云高或发生降水的高度需要估算，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wang 等[32]估算了新疆中部20余个站点降水事件的云底高度，其平均高度为( $( 6 5 7 \\pm 4 5 4 ) \\mathrm { m }$ ;估计高度 $\\leqslant 1 0 0 \\ : \\mathrm { ~ m ~ } , 1 0 0 \\ : \\sim 5 0 0 \\ : \\mathrm { ~ m ~ } , 5 0 0 \\sim 1 \\ : \\mathrm { ~ 0 0 0 ~ m ~ } , 1 \\ : \\ : 0 0 0 \\sim \\$ $1 5 0 0 \\mathrm { ~ m ~ }$ 和 $> 1 \\ 5 0 0 \\ \\mathrm { ~ m ~ }$ 的比例分别为 $2 . 1 \\% . 4 2 . 3 \\%$ 、$3 7 . 9 \\%$ ） $1 0 . 6 \\%$ 和 $7 . 1 \\%$ 。因此,本文选择 $1 0 0 \\mathrm { ~ m ~ }$ 、$5 0 0 \\mathrm { ~ m ~ } , 1 \\mathrm { ~ } 0 0 0 \\mathrm { ~ m ~ }$ 和 $1 5 0 0 \\mathrm { ~ m ~ }$ 共4层计算后向轨迹。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但恒定的回溯时间和起始高度的设置可能导致一些不确定性,参考前人的研究[24-25],笔者在做拉格朗日轨迹模型研究时，加入了气象要素，通过研究轨迹上水汽的补给强度来判断水汽源地。后向回溯的过程中，较早时刻（每 $6 \\mathrm { ~ h ~ }$ )的比湿高于后一时刻的比湿 $0 . 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,且气团轨迹模拟高度位于行星边界层以下时,即判断为水汽的源地[24]。计算得到的多个源地，采用比湿连续增大且连续变化量之和的最大位置作为水汽源地。如果后向轨迹上的大气比湿小于 $0 . 0 5 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ，认为没有更多的水汽补给，不再向后回溯[43] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）大气可降水量和水汽通量计算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大气水汽含量表示假设整个空气柱中的水汽凝结时所能得到的液态水汽量，也称大气可降水量[45],计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal W } ( \\lambda , \\varphi , t ) ~ = ~ { \\frac { 1 } { g } } { \\int } _ { p _ { s } } ^ { p } q \\mathrm { d } p\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $W$ 为某地单位面积上空整层大气的总水汽含量； $q$ 为各层的比湿； $p _ { s }$ 和 $p$ 分别为地面气压和大气顶气压，考虑到高层水汽少且不确定性大，取300$\\mathrm { { h P a } }$ 为顶层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $p$ 坐标中，单位时间通过垂直于风向的底边为单位长度、高为整层大气柱的面积上的水汽输送通量矢量 $Q$ (垂直积分的水汽通量)经、纬向的计算公式为 $[ 4 6 - 4 7 ]$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { Q _ { u } \\ = \\ \\displaystyle \\frac { 1 } { g } \\int _ { _ { p _ { s } } } ^ { p } u q \\mathrm { d } p } } \\\\ { { \\ } } \\\\ { { Q _ { v } \\ = \\ \\displaystyle \\frac { 1 } { g } \\int _ { _ { p _ { s } } } ^ { p } v q \\mathrm { d } p } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $q$ 为各层的比湿； $p _ { s }$ 和 $p$ 分别为地面气压和大气顶层气压； $u$ 和 $\\mathbf { \\sigma } _ { v }$ 为经、纬向单位气柱内各层大气的风速矢量; $Q _ { u }$ 和 $Q _ { v }$ 的单位为 $\\mathrm { k g \\cdot m ^ { - 1 } \\cdot { s ^ { - 1 } } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）水汽贡献率计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各条水汽通道水汽输送的贡献率计算方法为（48)：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { \\mathrm { s } } = { \\frac { \\sum _ { 1 } ^ { m } q _ { { \\mathrm { l a s t } } } } { \\sum _ { 1 } ^ { n } q _ { { \\mathrm { l a s t } } } } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q _ { \\mathrm { s } }$ 为通道水汽输送贡献率； $q _ { \\mathrm { l a s t } }$ 表示通道上最终位置的比湿; $m$ 表示该通道所包含轨迹条数; $n$ 表示所有轨迹总条数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）水汽源地与站点距离计算",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水汽源地与站点距离计算采用向量夹角公式和弧长公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { D _ { \\mathrm { s } } = R \\mathrm { a r c c o s } \\big [ \\mathrm { c o s } \\beta _ { \\mathrm { 1 } } \\mathrm { c o s } \\beta _ { \\mathrm { 2 } } \\mathrm { c o s } \\left( \\alpha _ { \\mathrm { 1 } } - \\alpha _ { \\mathrm { 2 } } \\right) + } } \\\\ { { \\mathrm { s i n } \\beta _ { \\mathrm { 1 } } \\mathrm { s i n } \\beta _ { \\mathrm { 2 } } \\big ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $R$ 为地球平均半径,取 $6 \\ 3 7 1 \\ \\mathrm { k m } ; \\alpha _ { 1 }$ 和 $\\alpha _ { 2 }$ 为2个点的经度； ${ \\bf \\nabla } \\cdot \\beta _ { 1 }$ 和 $\\beta _ { 2 }$ 为2个点的纬度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 新疆水汽来源后向轨迹的空间分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1水汽通量场和风场对水汽来源的指示由图2可知，新疆春季、夏季、秋季Ⅱ区和V区可降水量较大，冬季V区可降水量较大，大气可降水量和水汽通量总体呈现先减少（7一10月）后增加（1—4月）的趋势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "春季（代表4月），新疆V区形成一个可降水量最大值区，并且呈圆环状向外逐渐减少，而新疆附近的里海和地中海都是可降水量的极大值区，新疆上空流线主要自西向东，因此里海和地中海是春季大气的水汽源地（图2d)；夏季(7月），副热带高压北上抑制了地中海水汽向大气的传输，里海、黑海上空仍是极大值区域，新疆Ⅱ区和V区上空大气可降水量均达到最大，但Ⅱ区比V区水汽通量大，这是由于北部的盆地相对比较开阔，为西风的输送打开了相对流畅的输送路径；而南部的山脉较高，阻挡了水汽的输送。从图2a可知，新疆夏季水汽主要来自于大西洋和北冰洋;秋季(10月），地中海、黑海和里海上空依然是可降水量的极大值区域，用水汽输送流线追踪可知，里海、黑海和地中海是新疆秋季的水汽源地（图2b)；冬季(1月），里海、中亚上空以及新疆V区的可降水量值较大，即冬季新疆的水汽来源为附近的陆地和里海（图2c）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，新疆地区常年受盛行西风的影响。$5 0 0 ~ \\mathrm { { h P a } }$ 上，除夏季外,其余季节风场与纬度基本平行，风速基本一致，夏季呈现偏西南风，且风速较大（图 $3 \\mathrm { a } \\sim 3 \\mathrm { d }$ ）； $7 0 0 \\ \\mathrm { { h P a } }$ 上，山脉两侧的风场完全不同，I区和Ⅱ区夏季、秋季和冬季风场也与纬度基本平行，而Ⅲ区、IV区和V区夏季风场呈东北向，春季、秋季和冬季风场呈西南向，V区夏季和冬季风速较大(图 $3 \\mathrm { e } \\sim 3 \\mathrm { h }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述,新疆的水汽源地主要是里海、黑海、地中海、大西洋、北冰洋和附近的内陆地区，春季水汽主要来自于里海和地中海，夏季的水汽源地主要是北大西洋和北冰洋，秋季水汽来自里海、黑海和地中海，冬季水汽来自附近的陆地和里海。新疆常年受西风影响，偏南西风影响较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/510a3cedd33969bf654f157523ee6fe5be3577810e804e3f666ef40748c8c8bd.jpg",
+        "img_caption": [
+            "图2基于NCEP/NCAR 数据的新疆及其周边地区地面至 $3 0 0 \\ \\mathrm { h P a }$ 水汽通量场和大气可降水量场 Fig.2Water vapor flux field from the ground to the $3 0 0 \\ \\mathrm { h P a }$ height and atmospheric precipitation field based on NCEP/NCAR data in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a5636aef2478361510e305075c0e0dbfa864f965f45688ca967ea22a572fb32.jpg",
+        "img_caption": [
+            "图3基于NCEP/NCAR数据的新疆 $5 0 0 \\ \\mathrm { { h P a } , 7 0 0 \\ \\mathrm { { h P a } } }$ 风场",
+            "Fig.3Wind fields at $5 0 0 ~ \\mathrm { { h P a } }$ and $7 0 0 \\ \\mathrm { h P a }$ heights based on NCEP/NCAR data in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2水汽来源后向轨迹空间分布由图4可以看出，西风环流在新疆起到了主导地位，1区和Ⅱ区的水汽主要来自于大西洋、北冰洋、里海、地中海和黑海，印度洋的水汽受到青藏高原的阻挡，无法到达，且水汽路径总体偏北，较少受到塔里木盆地的影响；Ⅲ区水汽主要来自于中亚，而 $1 5 0 0 \\mathrm { ~ m ~ }$ 起始高度上的水汽传输较为通畅，来自于地中海，IV区水汽主要来自于蒙古高原，Ⅲ区和N区受陆地水汽源的影响更大；V区的水汽主要来自于大西洋、里海、地中海、黑海和波斯湾等，水汽路径总体偏南，受到塔里木盆地的影响较多。随着后向轨迹模式起始高度的增加，山脉的阻挡作用减少，水汽输送越通畅，水汽输送路径越分散。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对后向轨迹的聚类分析有助于明确水汽的准确来源地，也能了解不同方向水汽的贡献率。对图4进行整层聚类以后得到图5，由于HYSPLIT要求聚类分析至少需要16条轨迹，且30条才最理想，由于Ⅲ区和IV区的降水次数较少，因此不做聚类分析，经过筛选后I区有4个站点，Ⅱ区有9个站点，V区有7个站点。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/62f695b747689130bacc88ee9b471996f1564bbe482363b48630bb5a087d6666.jpg",
+        "img_caption": [
+            "图42016年6月至2017年7月新疆地区各降水事件10d后向轨迹的空间分布",
+            "Fig.4Spatialdistributionofthebackwardtrajectoryafterprecipitationeventsfor1OdaysinXinjiangfromJune2O16toJuly2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，I区克拉玛依、托里、额敏和阿勒泰的水汽主要来自于欧洲，贡献率分别为 $8 1 . 2 5 \\%$ 、$7 5 \\%$ $7 0 , 8 0 . 8 3 \\%$ 和 $8 1 . 2 5 \\%$ ； $\\mathbb { I }$ 区乌鲁木齐牧试站、昌吉、沙湾和博乐的水汽主要来自于中亚，分别为$7 5 \\%$ $_ { \\mathrm { ~ o ~ } , 6 8 . 7 5 \\% }$ ） $7 5 \\%$ 和 $8 5 . 7 1 \\%$ ，木垒、精河和阿拉山口的水汽主要来自里海，高达 $8 5 \\% . 8 5 . 7 1 \\%$ 和$70 \\%$ ,天池的水汽主要来自北亚，达到 $6 8 . 7 5 \\%$ ，巴里坤的水汽主要来自蒙古高原，达到 $4 5 . 8 3 \\%$ ： $\\mathrm { \\Delta V }$ 区乌什和伽师水汽主要来自塔里木盆地，均为 $7 5 \\%$ ，柯坪和沙雅水汽主要来自于西亚，分别为 $5 6 . 2 5 \\%$ 和 $7 5 \\%$ ，库尔勒和阿瓦提的水汽主要来自于中亚，分别为 $7 1 . 4 3 \\%$ 和 $5 0 \\%$ ,乌恰的水汽主要来自黑海，占 $9 0 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.3利用比湿订正后的水汽来源后向轨迹如图6所示，经过比湿判断水汽补给情况后，气团回路径普遍变短，调整后的水汽路径大致相似，主要来自中亚、黑海、里海和附近的陆地。南部的巨大山脉阻碍了阿拉伯海和孟加拉湾的印度季风，因此南部的水汽来源较少。I区的水汽主要来自于大西洋、北冰洋、里海、地中海、黑海和中亚，Ⅱ区的水汽主要来自于北冰洋、里海、地中海、黑海和波斯湾，Ⅲ区水汽主要来自于里海和附近的陆地，N区水汽主要来自于附近的陆地，V区的水汽主要来自于里海、地中海、黑海、波斯湾、中亚和塔里木盆地等。起始高度$1 0 0 \\mathrm { ~ m ~ }$ 的水汽后向轨迹极短，显示水汽来源主要为附近的陆地。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2新疆短时强降水水汽回溯源地时间、距离和方向",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同量级的降水事件后向轨迹的回溯时间",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图7所示，经过比湿订正以后，在新疆，从主要水汽源地的水汽传输平均需要3.5d左右，海洋水汽输送到新疆地区已是强弩之末。按照降水事件统计,研究区内偏小的降水占主导地位， $5 \\sim 1 0 \\ \\mathrm { m m }$ 的降水事件占总比例的 $7 6 . 1 \\%$ ，而 $\\geqslant 1 0 \\ \\mathrm { m m }$ 的降水事件仅占 $2 3 . 9 \\%$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从不同季节来看，新疆春季、夏季、秋季 $5 \\sim 1 0$ $\\mathbf { m } \\mathbf { m }$ 降水事件的回溯时间分别为 $3 . 7 \\mathrm { ~ d ~ } . 3 . 3 \\mathrm { ~ d ~ }$ 和3.8d。春季、夏季、秋季 $\\geqslant 1 0 \\ \\mathrm { m m }$ 降水事件的回溯时间分别为 $3 . 8 \\mathrm { ~ d ~ } . 3 . 3 \\mathrm { ~ d ~ }$ 和 $1 . 2 \\mathrm { ~ d ~ }$ 。 $5 \\sim 1 0 ~ \\mathrm { m m }$ 的降水事件夏季回溯时间较短，秋季回溯时间较长， $\\geqslant 1 0 \\ \\mathrm { m m }$ 的降水事件春季回溯时间最长，秋季回溯时间最短。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5768befe810209bd4b043419f471dd44f4ada5472104bc3631492fde64a1154.jpg",
+        "img_caption": [
+            "图52016年6月至2017年7月新疆地区各降水事件10d后向轨迹聚类平均的空间分布Fig.5Spatial distribution of average backward trajectory clustering after precipitation events for1O days in XinjiangfromJune 2016 to July 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从不同分区来看，新疆5个区 $5 \\sim 1 0 \\ \\mathrm { m m }$ 的回溯时间，I区、Ⅱ区、Ⅲ区、 $\\mathrm { \\Delta } \\mathrm { \\mathrm { ~ N ~ } }$ 区和V区分别为4.5$\\textrm { d } . 2 . 6 \\textrm { d } . 3 . 2 \\textrm { d } . 0 . 4 \\textrm { d }$ 和4.4d,5个区 $\\geqslant 1 0 \\ \\mathrm { m m }$ 的回溯时间，I区、 $\\mathbb { I }$ 区和 $\\mathrm { \\Delta V }$ 区分别为2.1d、2.6d和$4 . 2 \\mathrm { ~ d ~ }$ 。 $5 \\sim 1 0 \\ \\mathrm { m m }$ 的降水事件I区回溯时间最长，$\\mathbb { N }$ 区回溯时间最短; $\\geqslant 1 0 \\ \\mathrm { m m }$ 的降水事件I区回溯时间最短，为2.1d,V区回溯时间最长，为 $4 . 2 \\mathrm { ~ d ~ }$ O",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，采用相同的回溯时间用于研究区和研究时段的水汽来源示踪是不准确的，会影响水汽输送过程的研究和水汽来源地的判断。每个降水量级的降水事件，不同的研究区和研究时段回溯日数都存在明显差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 不同区域和研究时段水汽回溯源地和站点的距离如图8所示，从不同季节和分区来看，影响短时强降水的水汽主要来自距离较远的外来水汽，水汽源地和采样点的距离均在 $2 ~ 0 0 0 ~ \\mathrm { k m }$ 左右。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从不同季节看，春季水汽源地较远，平均为$1 ~ 2 3 5 . 9 ~ \\mathrm { k m }$ ,夏季水汽源地较近,平均为 $6 3 5 . 1 ~ \\mathrm { k m }$ ，秋季水汽源地平均传输距离为 $8 8 5 . 4 ~ \\mathrm { k m }$ 。从不同分区看，I区水汽来源地最远，平均需要1684.6$\\mathrm { k m }$ ,V区水汽来源地最近，平均需要 $6 8 . 2 ~ \\mathrm { k m }$ ，Ⅱ区、Ⅲ区和V区水汽源地平均传输距离分别为723.4$\\mathrm { k m } \\ 、 1 2 9 . 7 \\ \\mathrm { k m }$ 和 $5 3 1 . 9 ~ \\mathrm { k m }$ 。即夏季的水汽源地最近，春季的水汽源地远，1区水汽源地最远，N区水汽源地最近。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3不同方向水汽源地的降水频次分布情况本文对水汽源地的方位进行了统计，圆周表示为$3 6 0 ^ { \\circ }$ ,均匀划分为12等份，北（N)是 $0 ^ { \\circ }$ ,东(E)是$9 0 ^ { \\circ }$ ,南(S)是 $1 8 0 ^ { \\circ }$ ,西(W)是 $2 7 0 ^ { \\circ }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e18c6ee88d0e738d632422507123ce7ba27afac57c512c1f72c8a882ad760d6.jpg",
+        "img_caption": [
+            "图62016年6月至2017年7月新疆地区各降水事件经比湿判断后的后向轨迹空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ec3dc7ffdd381389c87135578e574741380174bd89cd014592d5e21f77c42aa.jpg",
+        "img_caption": [
+            "Fig.6Spatialdistributionof theadjustedbackwardtrajectoryof precipitationeventsinXinjiangfromJuneO16toJuly2017 ",
+            "图72016年6月至2017年7月新疆地区不同量级的降水事件后向轨迹的回溯时间Fig.7Retrospective dates of precipitation events at different levels in Xinjiang from June 2O16 to July 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/310b6ca95e95a6b2a68a3b8cdf295e3b4a23d6e89ac35cd68dc37fe34182e3e7.jpg",
+        "img_caption": [
+            "图82016年6月至2017年7月新疆地区不同季节和区域回溯水汽源地和站点距离"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3c4beeaec7a1db9981c032bcc14f464319859427957d58575d9d16827cd63eb.jpg",
+        "img_caption": [
+            "Fig.8Watervaporsourcesandtheirdistances tothemeteorological stationsindiferentseasonsandregionsinXinjiangfrom June 2016 to July 2017 ",
+            "图92016年6月至2017年7月新疆地区不同方向水汽源地的分布情况",
+            "Fig.9Distribution of water vapor sources at diffrent directions in Xinjiang from June 2O16 to July 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图9为统计各个方向上降水发生的频次，100$\\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ } . 1 \\ 0 0 0 \\mathrm { ~ m ~ }$ 和 $1 \\ 5 0 0 \\ \\mathrm { m }$ 这4层均受西风水汽影响最大，西向气流具有偏北或偏南的摆动现象，不同偏向的西方气流交替出现。新疆地区各起始高度上的降水主要受偏北和偏南的西向气流影响，且偏北的西向气流贡献大于偏南的西向气流水汽的贡献。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图 $9 \\mathrm { a } \\sim 9 \\mathrm { d }$ 可知，新疆地区 $1 ~ 5 0 0 \\mathrm { ~ m ~ }$ 起始高度上偏西南方向的降水频次最大，达到84次，其余层降水频次均为60 次左右，其余5个区除 $1 \\ 5 0 0 \\ \\mathrm { m }$ 上水汽受偏南西向气流影响较大外，其余3层水汽均受偏北西向气流影响大。由图 $9 \\mathrm { { e } \\sim 9 h }$ 可知，春季、夏季和秋季降水仍然是西风气流主导水汽上风向，且偏南西风气流的影响大于偏北气流。新疆地区$1 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 和 $1 0 0 0 \\mathrm { ~ m ~ }$ 起始高度上，夏季各个方向上的降水频次均最多，其次为春季，秋季降水频次最少。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图9没有考虑水汽源地的距离问题，而本文中HYSPLIT使用的气象数据分辨率为 $1 ^ { \\circ } \\times 1 ^ { \\circ }$ ,不适用于距离测站过近(空间上接近或小于 $1 ^ { \\circ }$ )。因此，本文为了计算结果的确定性，选取了直线距离大于$3 0 0 ~ \\mathrm { k m }$ 的降水事件进行统计，虽然样本数有所减少，但是西风气流仍然占据主导地位。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/457330d0b35a454323e57796a0490e204bd5568eb9034f3b1f6b013e9fd4f03c.jpg",
+        "img_caption": [
+            "图102016年6月至2017年7月新疆地区源地直线距离 $3 0 0 ~ \\mathrm { k m }$ 以上不同方向水汽源地的分布情况Fig.10Distribution of water vapor sources with different distances over $3 0 0 ~ \\mathrm { k m }$ at different directions in Xinjiang fromJune 2016 to July 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由图 $1 0 \\mathrm { a } \\sim 1 0 \\mathrm { d }$ 可知,新疆地区 $1 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 和$\\mathrm { ~ 1 ~ } 5 0 0 \\mathrm { ~ m ~ }$ 起始高度上的降水受偏北的西向气流影响， $1 ~ 5 0 0 ~ \\mathrm { ~ m ~ }$ 起始高度上的降水受偏南的西向气流影响，从对水汽的贡献来看，偏北的西向气流贡献大于偏南的西向气流。新疆地区 $1 ~ 5 0 0 ~ \\mathrm { { m } }$ 起始高度上偏西南方向的降水频次最大，达到63次，其余层降水频次为30次左右。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由图 $1 0 \\mathrm { e } \\sim 1 0 \\mathrm { h }$ 可知，西风气流仍然主导水汽上风向，新疆地区 $1 0 0 \\mathrm { ~ m ~ } , 1 \\mathrm { ~ } 0 0 0 \\mathrm { ~ m ~ }$ 和 $1 5 0 0 \\mathrm { ~ m ~ }$ 起始高度上夏季降水频次最大，而 $5 0 0 \\mathrm { ~ m ~ }$ 起始高度上春季降水频次最大，除 $1 0 0 \\mathrm { ~ m ~ }$ 起始高度上降水主要受偏北西向气流的影响外，其余层主要受偏南西向气流的影响，秋季各起始高度层的降水均受偏北西风气流的影响较大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "近年来，后向轨迹方法已经被运用到各个方面的研究，如粉尘、黑炭、污染物和水汽等的运行轨迹，利用HYSPLIT可以模拟出某地降水时10d的后向轨迹，但是水汽的补给时间和后向轨迹的回溯日数不完全重合，模型的缺点就在于不能准确地断定研究对象是在哪一位置显著进入气团的，以及哪个位置是水汽的准确来源地。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文在做拉格朗日轨迹模型研究时，加入气象要素，通过研究轨迹上水汽的补给强度来订正判断水汽源地。本文订正水汽来源使用的比湿阀值为$0 . 2 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ,为了验证阈值不同,结果差异不大,笔者对其余的比湿阈值 $( 0 . \\mathrm { ~ 1 ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 } , 0 . 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 和$0 . 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ )也进行了研究。如图11所示，对起始高度为 $5 0 0 \\mathrm { ~ m ~ }$ 的后向轨迹采用 $0 . 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { \\mathrm { ~ - 1 ~ } } \\cdot 0 . 2 \\mathrm { ~ g ~ } \\cdot$ $\\mathbf { k g } ^ { - 1 } \\ 、 0 . 3 \\mathrm { ~ g ~ } \\cdot \\mathbf { k g } ^ { - 1 }$ 和 $0 . 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 这4个比湿阈值进行订正分析。可以看出，调整后的订正方法对不同的阈值不敏感， $0 . 1 \\ \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ 和 $0 . 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ 的阈值,后向轨迹的长度差异较小，随着阈值的增加，后向轨迹表明水分的来源更接近站点，因为距离站点越远，干旱地区的水汽则越少。轨迹追踪到的水汽源地的水汽输送与起始高度有关，高层大气的水汽输送比低层大气的水汽输送更加流畅。基于比湿调整后的拉格朗日模型对新疆短时强降水水汽来源进行订正，这不仅对中国西部地区降水预报和数值模式发展有重要意义[49],也有助于提升对整个亚洲中部干旱区的大气水分循环的定量认识[26] 。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e5a0b5bbde6b1582a9014e3f41c907ec1d9e2e3b66ec44a2a2ec88fffe60fea.jpg",
+        "img_caption": [
+            "图112016年6月至2017年7月新疆地区各降水事件经过不同比湿 $( 0 . 1 \\mathrm { ~ g ~ } \\bullet \\mathrm { ~ k g ~ } ^ { - 1 } \\circ \\mathrm { . ~ 2 ~ g ~ } \\bullet \\mathrm { ~ k g ~ } ^ { - 1 } \\circ \\mathrm { . ~ 3 ~ g ~ } \\bullet \\mathrm { ~ k g ~ } ^ { - 1 }$ 和",
+            "$0 . 4 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ )订正后的 $5 0 0 \\mathrm { ~ m ~ }$ 后向轨迹空间分布",
+            "Fig.11Spatial distribution of $5 0 0 \\mathrm { ~ m ~ }$ trajectories for precipitation events in Xinjiang,adjusted using different specific humidity thresholds $( 0 . 1 , 0 . 2 , 0 . 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { k g } ^ { - 1 }$ and $0 . 4 \\ \\mathrm { g \\cdot k g ^ { - 1 } }$ ）from June 2016 to July 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）新疆短时强降水的水汽源地主要是里海、黑海、地中海、大西洋、北冰洋和附近的内陆地区，春季水汽主要来自里海和地中海，夏季的水汽源地主要是北大西洋和北冰洋，秋季水汽来自里海、黑海和地中海，冬季水汽来自附近的陆地和里海。新疆常年受西风影响，偏南西风影响较大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（2）I区和Ⅱ区水汽路径气团总体更加偏北，Ⅲ区和V区受陆地水汽源的影响更大，而V区水汽路径气团总体偏南。聚类分析结果为I区的水汽来自于欧洲；Ⅱ区的水汽主要来自中亚、里海、蒙古高原，V区水汽主要来自塔里木盆地、西亚、中亚、黑海。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（3）经过比湿判断水汽补给情况后，气团回溯路径普遍变短，水汽主要来自中亚、黑海、里海和附近的陆地。I区的水汽主要来自于大西洋、北冰洋、里海、地中海、黑海和中亚，Ⅱ区的水汽主要来自于北冰洋、里海、地中海、黑海和波斯湾，Ⅲ区水汽主要来自里海和附近的陆地，V区水汽主要来自于附近的陆地，V区的水汽主要来自于里海、地中海、黑海、波斯湾、中亚和塔里木盆地等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（4）经过比湿订正后，从主要水汽源地的水汽传输平均需要3.5d左右，从不同季节来看，5\\~10$\\mathbf { m } \\mathbf { m }$ 的降水事件回溯时间较长的为秋季，较短的为夏季， $\\geqslant 1 0 \\ \\mathrm { m m }$ 的降水事件回溯时间最长的为春季，最短的为秋季;从不同分区来看， $5 \\sim 1 0 \\ \\mathrm { m m }$ 的降水事件回溯时间较长的为I区，较短的为 $\\mathbb { N }$ 区， $\\geqslant 1 0$ $\\mathbf { m } \\mathbf { m }$ 的降水事件回溯时间较长的为V区，较短的为I区。夏季的水汽源地最近，秋季的水汽源地远，I区水汽源地最远，V区水汽源地最近。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(5）新疆地区各起始高度上的降水主要受偏北和偏南的西向气流影响，且偏北的西向气流贡献大于偏南的西向气流水汽的贡献。不考虑水汽源地情况，新疆地区 $1 ~ 5 0 0 \\mathrm { ~ m ~ }$ 起始高度上偏西南方向的降水频次最大，新疆地区 $1 0 0 \\mathrm { ~ m ~ } . 5 0 0 \\mathrm { ~ m ~ }$ 和 $1 \\ 0 0 0 \\ \\mathrm { m }$ 起始高度上，夏季各个方向上的降水频次均最多，秋季降水频次最少。水汽源地大于 $3 0 0 ~ \\mathrm { k m }$ 时，新疆地区$1 \\ 5 0 0 \\ \\mathrm { m }$ 起始高度上偏西南方向的降水频次最大，新疆地区 $1 0 0 \\mathrm { ~ m ~ } , 1 \\mathrm { ~ } 0 0 0 \\mathrm { ~ m ~ }$ 和 $1 \\ 5 0 0 \\ \\mathrm { m }$ 起始高度上夏季降水频次最大，而 $5 0 0 \\mathrm { ~ m ~ }$ 起始高度上春季降水频次最大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]Li Qihu,Chen Yaning,Shen Yanjun,et al. Spatial and temporal trends of climate change in Xinjiang,China[J]. Journal of Geographical Sciences,2011,21(6):1 007 -1 018.   \n[2]胡增运,胡汝骥,周启鸣,等.亚洲中部干旱区干湿时空变化特 征[J].干旱区研究,2018,35（2）:260-268.[Hu Zengyun,Hu Ruji,Zhou Qiming,etal.Spatio-temporal variationof weting or drying in the arid regions in Central Asia[J].Arid Zone Research, 2018,35(2):260 -268.)   \n[3]曾勇,杨莲梅.中亚低涡背景下新疆连续短时强降水特征分析 [J].沙漠与绿洲气象,2016,10(4）:67-72.[Zeng Yong,Yang Lianmei. Characteristics of persistent short-time heavy rainfall causing by Central Asian vortex in Xinjiang[J].Desert and Oasis Meteorology,2016,10(4）:67-72.]   \n[4]陈荣,张明军,王圣杰,等.2008—2014年新疆夏季逐时雨强时 空特征及其影响因素[J].干旱区研究,2017,34(6)：1240- 1 249.[Chen Rong,Zhang Mingjun,Wang Shengjie,et al. Spatiotemporal variation of hourly rainfall intensity and itsaffecting factors in Xinjiang in summer during the period from 2Oo8 to 2014 [J].Arid Zone Research,2017,34(6):1 240 -1 249.]   \n[5」曾勇,杨莲梅.南疆西部两次短时强降水天气中尺度特征对比 分析[J].暴雨灾害,2017,36(5）:410-421.[Zeng Yong,Yang Lianmei. Comparative analysis on mesoscale characteristics of two severe short-time precipitation events in the West of Southern Xinjiang[J].Torrential Rain and Disasters,2017,36（5）:410 - 421.]   \n[6]Bosilovich MG,Schubert S D.Water vapor tracers as diagnostics of theregional hydrologiccycle[J].Journal of Hydrometeorology, 2001,3(2):149 -165.   \n[7]Gimeno L,Nieto R,Drumond A,et al.Influence of the intensification of the major oceanic moisture sources on continental precipitation[J].Geophysical Research Leters,2013,40（7）:1 443- 1 450.   \n[8]Good SP,Noone D,Kurita N,et al.D/H isotope ratios in the global hydrologic cycle[J].Geophysical Research Letters,2015,42 (12) :5 042-5 050.   \n[9]曾勇,杨莲梅,张迎新.新疆西部一次大暴雨过程水汽输送轨 迹模拟[J].沙漠与绿洲气象,2017,11（3）:47-54.[Zeng Yong,Yang Lianmei,Zhang Yingxin. Simulation of water vapor transport trajectories of a heavy rain in Western Xinjiang[J]. Desert and Oasis Meteorology,2017,11(3）:47-54.]   \n[10]Christensen JH,Christensen O B.Severe summer time flooding in Europe[J]. Nature,2003,421(6 925）:805 -806.   \n[11]Schar C,VidalePL,Luthi D,etal.Theroleof increasingtemperature variability European summer heatwaves[J].Nature,2004,427 (6 972) :332 -336.   \n[12]Ralph F M,Neiman PJ,Wick G A,et al.Flooding on California's Russian River:Role of atmospheric rivers[J].Geophyscial Research Letters,2006,33（13）:L13801,doi:10.1029/2006GL026689.   \n[13]杨莲梅.新疆极端降水的气候变化[J].地理学报,2003,58 (4）:577 - 583.[Yang Lianmei. Climate change of extreme precipitation in Xinjiang[J].Acta Geographica Sinica,20o3,58（4）： 577 -583.]   \n[14］张家宝,邓子风.新疆降水概论[M].北京：气象出版社,1987. [Zhang Jiabao,Deng Zifeng.An Introduction to Precipitation in Xinjiang[M].Beijing:China Meteorological Press,1987.]   \n[15]张家宝,苏起元,孙沈清,等.新疆短期天气预报指导手册 [M].乌鲁木齐：新疆人民出版社,1986.［Zhang Jiabao,Su Qiyuan,Sun Shenqing,et al. Xinjiang Short-term Weather Forecast Guidebook[M]. Urumqi: Xinjiang People's Press,1986.]   \n[16］邓铭江.新疆水资源及可持续利用[M].北京:中国水利水电 出版社,2Oo5.[Deng Mingjiang.Water Resources and Sustainable Utilization in Xinjiang Uygur Autonomous Region[M].Beijing: China Water & Power Press,2005.]   \n[17］刘蕊,杨青.新疆大气水汽通量及其净收支的计算和分析[J]. 中国沙漠,2010,30(5）:1 221-1 228.[Liu Rui,Yang Qing. Calculation and analysis of water vapor transportation and its net income in Xinjiang[J].Journal of Desert Research,2O10,30（5）： 1 221 -1 228.]   \n[18]Dai XG,Li WJ,Ma ZG,et al.Water-vapor source shift of Xinjiang region during the recent twenty years[J].Progress in Natural Science,2007,17(5） :569 -575.   \n[19]Wernli H.A Lagrangian-based analysis of extratropical cyclones II: A detailed case-study[J]. Quarterly Journal of the Royal Meteorological Society,1997,123(542）:1 677 -1 706.   \n[20]Brimelow,Julian C,Reuter,etal.Transport of atmospheric moisture during three extreme rainfall events over the Mackenzie River Basin[J]. Journal of Hydrometeorology,2005,6(4） :423-440.   \n[21]Huang Y,Cui X.Moisture sources of anetreme precipitationevent in Sichuan,China,based on the Lagrangian method[J].Atmospheric Science Leters,2015,16(2）:177 -183.   \n[22］陈斌,徐祥德,施晓晖.拉格朗日方法诊断 2007 年7月中国东 部系列极端降水的水汽输送路径及其可能蒸发源区[J].气象 学报,2011,69(5）:810-818.[Chen Bin,Xu Xiangde,Shi Xiaohui.Estimating the water vapor transport pathways and associated sources of water vapor for the extreme rainfall event over east of China in July 20O7 using the Lagrangian method[J].Acta Meteorologica Sinica,2011,69(5） :810 -818.]   \n[23]Nieto R,Gimeno L,Trigo R.A Lagrangian identification of major sources of Sahel moisture[J]. Geophysical Research Leters ,2006, 33（18）:L18707,doi:10.1029/2006GL027232.   \n[24]Sodemann H,Schwierz C,Wernli H. Interannual variability of Greenland winter precipitation sources: Lagrangian moisture diagnostic and North Atlantic Oscillation influence[J]. Journal of Geophysical Research-Atmospheres,2008,113（D3）: D03107,doi: 10.1029/2007JD008503.   \n[25] Crawford J,Hughes C E,Parkes S D.Is the isotopic composition of event based precipitation driven by moisture source or synoptic scale weather in the Sydney Basin,Australia[J]. Journal of Hydrology,2013,507(12）:213-226.   \n[26]Wang S J,Zhang M J,Crawford J,et al. The effect of moisture source and synoptic conditions on precipitation isotopes in arid central Asia[J]. Journal of Geophysical Research Atmospheres,， 2017,122(5):2 667 -2 682,doi:10.1002/2015JD024626.   \n[27]Sodemann H,Stohl A.Asymmetries in the moisture origin of Antarctic precipitation[J].Geophysical Research Letters,2009,36 (22）:L22803,doi:10.1029/2009GL040242.   \n[28]Crawford J,Holins SE,Meredith K T,et al.Precipitation stable isotope variability and subcloud evaporation processes in a semi-arid region[J]. Hydrological Processes,2017,31（1）:20-34doi: 10.1002/hyp.10885.   \n[29］刘伟,姜逢清,李小兰.新疆气候变化的适应能力时空演化特 征[J].干旱区研究,2017,34（3）:531-540.[Liu Wei,Jiang Fengqing,Li Xiaolan.Spatio-temporal evolutionof adaptivecapacity to climate change in Xinjiang[J].Arid Zone Research,2017,34 (3) :531-540.]   \n[30］商沙沙,廉丽姝,马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35（1):68-76.[Shang Shasha,Lian Lishu,Ma Ting,et al. Spatio-temporal variation of temperature and precipitation in Northwest China in recent 54 years[J]. Arid Zone Research,2018,35(1） :68 -76.]   \n[31]Wang S J,Zhang MJ,Hughes C E,et al. Factors controling stable isotope composition of precipitation in arid conditions:An observation network in the Tianshan Mountains,central Asia[J].Tellus Series B-ChemicalandPhysical Meteorology,2016,68,6206, doi:10.3402/tellusb.v68.26206.   \n[32]Wang SJ,Zhang M J,Che Y J,et al. Influence of below-cloud evaporation on deuterium excess in precipitation of arid central Asia and its meteorological controls[J].Journal of Hydrometeorology, 2016,17(7) :1 973 -1 984.   \n[33]史玉光,孙照渤,杨青.新疆区域面雨量分布特征及其变化规 律[J].应用气象学报,2008,19（3）:326-332.[Shi Yuguang, Sun Zhaobo,Yang Qing.Characteristicsof area precipitation in Xinjiang region with its variations[J].Journal of Applied Meteorological Science,2008,19(3）:326-332.]   \n[34］沈永平,苏宏超,王国亚,等.新疆冰川、积雪对气候变化的响 应(I)：水文效应[J].冰川冻土,2013,35(3）:513-527.[Shen Yongping,Su Hongchao,Wang Guoya,etal. The responses of glaciers and snow cover to climate change in Xinjiang I. Hydrological effects[J]. Journal of Glaciologyand Geocryology,2013,35（3）： 513 -527. ]   \n[35]王苏民,窦鸿身.中国湖泊志[M].北京:科学出版社,1999. [Wang Sumin,Dou Hongshen. Chinese Lakes[M]. Beijing: Science Press,1999. ]   \n[36］左敏,陈洪武,江远安,等.新疆近50a气温变化趋势和演变特 征[J].干旱气象,2010,28（2）:160－166.[Zuo Min,Chen Hongwu,Jiang Yuanan,et al.Trend and evolvement characteristics of temperature in recent 5O years in Xinjiang[J].Arid Meteorology,2010,28(2):160 -166.]   \n[37]Wang B L,Zhang MJ,Wei JL,et al. Changes in extreme events of temperatureand precipitation over Xinjiang,Northwest China ,during 1960 - 2009[J]. Quaternary International,2013,298（12）: 141 - 151.   \n[38]李景林,张山清,普宗朝,等.近50 a新疆气温精细化时空变化 分析[J].干旱区地理,2013,36（2）:228-237.[Li Jinglin, Zhang Shanqing,Pu Zongchao,et al. Spatial-temporal variation of seasonal and annual air temperature in Xinjiang during 1961 - 2010[J]. Arid Land Geography,2013,36(2):228-237.]   \n[39]戴新刚,任宜勇,陈洪武.近50 年温度降水配置演变及其波动 机制分析[J].物理学报,2013,62（12）:1-11.[Dai Xingang, Ren Yiyong,Chen Hongwu. Multi-scale feature of climate and climate shift in Xinjiang over the past 5O years[J].Acta Meteorologica Sinica,2013,62(12):1 -11.]   \n[40]陈曦.中国干旱区自然地理[M].北京:科学出版社,2010. [Chen Xi. Natural Geography of Arid Areas in China[M]. Beijing:Science Press ,2010.]   \n[41]Kleist D T,Parrish DF,Derber JC,et al.Introduction of the GSI into the NCEP global data assimilation system[J].Weather and Forecasting,2009,24(6）:1 691-1 705.   \n[42]俞小鼎,姚秀萍,熊庭南,等.多普勒天气雷达原理与业务应用 [M].北京：气象出版社,2006.[Yu Xiaoding,Yao Xiuping, Xiong Tingnan,et al.Principle and Business Application of Doppler Weather Radar[M].Beijing:Meteorological Press,2006.]   \n[43]Gat JR. Atmospheric water balance-the isotopic perspectiveJ]. Hydrological Processes,2000,14(8）:1357-1 369.   \n[44）Trenberth K E.Atmospheric moisture residence times and cycling : Implications for rainfall ratesand climate change[J].Climatic Change,1998,39(4） :667 - 694.   \n[45]Barnes S L.An empirical shortcut to the calculation of temperature and pressure at the lifted condensation level[J]. Journal of Applied Meteorology,1968,7(3）:511.   \n[46]刘国纬.水文循环的大气过程[M].北京：科学出版社,1997. [Liu Guowei. Atmospheric Process of Hydrological Cycle[M]. Beijing:Science Press,1997.]   \n[47］黄艳,刘涛,张云惠.2010 年盛夏南疆西部一次区域性暴雨天 气特征[J].干旱气象,2012,30（4）：615-622.[HuangYan， Liu Tao,Zhang Yunhui. Features of a regional rainstorm in midsummerof 2O1O in Western Xinjiang[J]. Journal of Arid Meteorology,2012,30(4):615 -622. ]   \n[48］岳俊,李国平.应用拉格朗日方法研究四川盆地暴雨的水汽来 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "源[J].热带气象学报，2016,32（2）：256-264.［YueJun，LiGuoping.Study on the moisture source of rainstorms in Sichuan ba-sin by the Lagrangian method[J]. Journal of Tropical Meteorology,2016,32(2) :256-264.]",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[49]杨莲梅,刘晶.新疆水汽研究若干进展[J].自然灾害学报，2018,27(2）:1-13.[Yang Lianmei,Liu Jing.Some progress inXinjiang water vapor research[J]. Journal of Natural Disasters,2018,27(2):1-13.]",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Water Vapor Sources of Short-Time Heavy Rainfall in Xinjiang Based on Specific Humidity-Adjusted Lagrangian Modelel ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Ya-ning， ZHANG Ming-jun， WANG Sheng-jie， DU Ming-xia， MA Rong,ZHOU Su-e， MENG Hong-fei， YU Xiu-xiu(College of GeographyandEnvironmental Science,Northwest Normal University,Lanzhou 73oO,Gansu,China)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The Lagrangian Backward Trajectory Model wasused to research the moisture sources of short-time heavyrainfall in Xinjiang basedon the changeof specific humidityandthe hourlyobserved data from China Ground Weather Station,GDAS meteorological data and NCEP/NCAR data during the period of 2016 -2017.The results showed that : $\\textcircled{1}$ Water vapor sources of Xinjiang were mainly the Caspian Sea,Black Sea,Mediterranean Sea,Atlantic Ocean,Arctic Ocean and nearby inland areas.Xinjiang was affctedbythe westerlywind allthe yearround,especially the westerly wind in the south; $\\textcircled{2}$ The water vapor transport paths in the Altay-Tacheng Forest Grassland Natural Areaand the Desert Natural Area in the Junggar Basin were holistically northerly,and the Ii-Bayanbulak (thecentral Tianshan Mountains）Natural Areaand Hami-Turpan Desert Natural Area were strongly affcted bythe land water vapor sources,and the water vapor transport path in the Extreme Arid Desert Natural Area in the Tarim Basin was holisticall southerly.The result of cluster analysis revealed that the water vapor in the Altay-Tacheng Forest Grassland Natural Area came from Europe；it inthe Desert Natural Area inthe Junggar Basincame mainly from Central Asia,the Caspian Sea and MongolianPlateau；and it in the Extreme Arid Desert Natural Area in the Tarim Basin came mainly from the Tarim Basin,West Asia,Central Asia and the Black Sea; $\\textcircled{3}$ After judging the water vapor replenishment byspecific humidity,the backtracking path became short,and the water vapor came mainly from Central Asia,the Black Sea,Caspian Sea and nearby land.The water vapor transmision from the main sources needed 3.5 days in average.Seasonally,the water vapor sources were the closest in summer and far in autumn.Regionally,the sources were the farthest in the Altay-Tacheng Forest Grassand Natural Area and theclosest in the Hami-Turpan Desert Natural Area; $\\textcircled{4}$ Precipitation in Xinjiang was mainly affected by the northerly and southerly westward airflows,and the northward westward airflow contributed more thanthe southerly westward one. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:short-time heavyrainfall；HYSPLIT trajectory model；water vapor source；atmospheric circulationfield ； backtracking； Xinjiang",
+        "page_idx": 13
+    }
+]

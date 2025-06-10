@@ -1,0 +1,164 @@
+# 高通量RNA甲基化测序数据处理与分析研究进展
+
+刘恋1）张绍武1)\*\*孟佳2陈润生1，3)(西北工业大学自动化学院，信息融合技术教育部重点实验室，西安710072;2)西交利物浦大学生物科学系，吴江太湖新城研究院，苏州 215123；3)中国科学院生物物理研究所，北京 100101)
+
+摘要随着高通量测序技术快速发展，MeRIP-seq (methylated RNA immunoprecipitation sequencing)测序技术开启了RNA 表观遗传学研究新局面，能够在全基因组范围内描述RNA 甲基化．从 MeRIP-seq 高通量数据中挖掘 RNA 甲基化模式，有助于揭示 mRNA 甲基化在调控基因表达、剪切等方面所发挥的潜在功能，有效指导癌症的干预治疗．本文从 MeRIP-seq 测序原理出发，较全面地综述 MeRIP-seq数据处理和分析方法研究现状，并对其所面临的计算问题进行讨论和展望。
+
+关键词MeRIP-seq 测序，数据处理与分析，RNA甲基化，表观遗传学科分类号Q5，Q6，Q7 DOI:10.16476/j.pibb.2015.0078
+
+表观遗传学，包括组蛋白共价修饰(covalenthistonemodification)、DNA甲基化 修 饰(DNAmethylation)、RNA 甲基化修饰(RNA methylation)、基因组印记(genomic imprinting)、基因沉默(genesilencing)、RNA编辑(RNAediting)及非编码RNA(noncodingRNA)等，是指在核苷酸序列不发生改变的情况下，生物表型或基因表达发生了稳定的可遗传变化．RNA甲基化作为表观遗传学研究的重要内容之一，是指发生在RNA分子上不同位置的甲基化修饰现象，6-甲基腺嘌呤0 $\mathrm { N } ^ { 6 }$ -methyladenosine， $\mathrm { m } ^ { 6 } \mathrm { A } _ { \cdot } ^ { \cdot }$ 和5-甲基胞嘧啶0 $\mathrm { C } ^ { 5 }$ -methylcytidine， $\mathrm { m } ^ { \mathrm { 5 } } \mathrm { C } )$ 是真核生物中最常见的两种RNA转录后修饰．RNA甲基化在调控基因表达、剪接、RNA编辑、RNA稳定性、控制mRNA寿命和降解等方面可能扮演重要角色．相对于DNA甲基化，RNA甲基化更加复杂、种类繁多、普遍存在于各种高级生物中[2-4]．由于缺乏有效检测手段，相关研究多局限于非编码tRNA和rRNA，或小部分编码转录片段[，且多数RNA甲基化功能未知.
+
+随着高通量测序技术的发展及一些RNA甲基化功能的发现，人们开始关注RNA甲基化研究．尤其 MeRIP-seq(methylated RNAimmunoprecipitation sequencing)高通量测序技术的出现，能够高效精确检测全转录组不同的RNA甲基化，奠定了RNA甲基化研究基础．如何有效处理和分析MeRIP-seq技术生成的海量数据，是成功发现RNA甲基化机理及功能的关键，
+
+本文较全面介绍MeRIP-seq 测序原理、数据处理及分析基本流程、关键方法、现有算法软件，重点讨论MeRIP-seq数据处理和分析过程中所面临的挑战.
+
+# 1MeRIP-seq技术测序原理
+
+MeRIP-seq技术将甲基化DNA免疫共沉淀(methylated DNA immunoprecipitation， MeDIP) 技术[]、RNA结合蛋白免疫共沉淀(RNAimmunoprecipitation，RIP)技术和RNA 测序(RNAsequencing，RNA-seq)技术[3]组合起来，高精度地检测全基因组(或全转录组)范围内的RNA 甲基化．MeRIP-seq技术采用免疫共沉淀方法，即甲基化RNA特异性抗体与被随机打断的RNA片段进行孵育，抓取有甲基化修饰的片段进行测序；同时需要平行测序一个对照(control)样本，对照样本用于消除抓取带有甲基化片段过程中的背景．然后将免疫共沉淀(IP)样本和对照样本中的序列片段对比(或定位)到参考基因组/转录组上，检测RNA甲基化位点．对照样本测量对应RNA的表达量，本质上是RNA-seq数据．图1为MeRIP-seq技术检测$\mathrm { m } ^ { 6 } \mathrm { A }$ RNA甲基化过程示意图.
+
+MeDIP-seq和ChIP-seq 测序技术均是将免疫共沉淀与测序相结合．MeRIP-seq技术主要应用于RNA 甲基化研究，而 ChIP-seq、MeDIP-seq主要应用于DNA甲基化研究．MeRIP-seq技术要求必须有对照样本，而 MeDIP-seq 和ChIP-seq 技术对于对照样本没有要求．表1为MeRIP-seq、MeDIP-seq和ChIP-seq三种测序技术对比.
+
+![](images/39e80aec000c7bdfda25250b6247156967c38d4dfe69239e11ae46ff53c6c2e5.jpg)  
+Fig.1The work flow of detecting $\mathbf { m } ^ { 6 } \mathbf { A }$ RNA methylation using MeRIP-seq technology   
+图1MeRIP-seq 技术检测 $\mathbf { m } ^ { 6 } \mathbf { A }$ RNA甲基化过程
+
+ChIP-seq MeDIP-seq MeRIP-seq  
+研究对象 化学修饰 化学修饰 化学修饰分子 DNA DNA RNA  
+比对器 非拼接 非拼接 拼接特征 蛋白质绑定位点或峰 CpG岛 甲基化位点或峰量化 相对量(与绝对量线性相关) 相对量(与绝对量线性相关) 相对量(与绝对量不相关)  
+差异分析 仅需要免疫沉淀样本 仅需要免疫沉淀样本 需要免疫沉淀样本和对照样本模体 双链 双链 链特异性在外显子 每个滑窗中对本P读段 定位 标签平移 序列延伸 上进行读 的reads数泊松  
+处理流程 -般不做峰检测显著性 Peak 富 Peaks的显 比较2个泊松分分析 集分析 著性分析 布的均值，确定  
+代表软件 MACS[14]，CisGenome[15] Batman[1q]，MeQA[17] exomePeak[18]，MeRIP-PF[19]
+
+# 2 MeRIP-seq测序文库制备和测序平台数据输出
+
+本小节将针对Illumina/Solexa 测序平台，介绍MeRIP-seq测序文库制备及测序平台数据输出.
+
+# 2.1MeRIP-seq测序文库制备
+
+MeRIP-seq测序文库制备过程如下：首先从样本细胞组织中分离出RNA，考虑到总RNA中含有大量的rRNA序列，因此需要结合不同的方法去除其中的 rRNA．对于真核生物而言，常采用 Poly(T)寡核苷酸提取出带Poly(A)的RNA去除rRNA；而对不含Poly(A)尾的转录本序列以及存在部分降解的总RNA样本而言，需要试剂盒去除rRNA，从而得到除rRNA外的全部RNA，然后将提取出的RNA随机打断．MeRIP-seq技术对带有甲基化修饰的片段(IP样本)进行测序时，需要平行对一个对照样本(Control样本)进行测序，其IP样本和Control样本的片段选择方法主要有以下2种：a．将打断的RNA片段分成两份，一份直接用于制备Control样本的cDNA文库，另一份采用抗 $\mathrm { m } ^ { 6 } \mathrm { A }$ 抗体与被打断的RNA进行孵育，抓取带有 $\mathrm { m } ^ { 6 } \mathrm { A }$ 修饰的片段，用于制备IP样本的cDNA文库．由于测序得到的结果不以所有RNA片段为背景，称这样得到的IP样本和Control样本是非成对的(unpair)，在进行数据处理时需先对Control样本进行处理．b．取两份相同的RNA进行打断，其中一份所有的RNA片段都进行测序，作为Control样本，另一份采用抗 $\mathrm { m } ^ { 6 } \mathrm { A }$ 抗体抓取带有 $\mathrm { m } ^ { 6 } \mathrm { A }$ 修饰的片段进行测序作为IP样本．由于测序得到的IP样本背景为当前测序得到的Control样本，称这样得到的IP样本和Control样本是成对的(pair)，可直接用于数据处理.
+
+获取测序片段后(包括IP样本测序片段和Control样本测序片段)，用随机引物和反转录酶从RNA片段合成双链cDNA．然后，对合成的cDNA进行末端修复并在 $3 ^ { \prime }$ 端加“A”，使用特定测序接头(adapter)连接cDNA片段两端，从而得到用于测序的cDNA．通常情况下，为了得到更高的测序效率，一般采用电泳切胶法获取一定长度的cDNA，再对其进行PCR扩增，得到所需的cDNA文库[20].
+
+# 2.2 测序平台数据输出
+
+将制备好的测序文库放入测序平台的各通道(lane)，通过桥式扩增，形成数以亿计的簇，开始测序．测序时，将4种聚合酶加入到单分子阵列中，每个被加入荧光标记的核苷释放出相对应的荧光．测序仪通过捕获荧光标记核苷酸所释放的荧光信号，利用计算机软件确定测得的碱基及顺序，根据测序顺序连成读段 (read/fragment)，输出以FASTQ格式记录读段序列及测序质量分数.
+
+在 FASTQ文件中，每4行为一个读段，其中第1行以“ $@$ ”开头，后面是reads的ID以及其他信息，第2行为测序得到的read的碱基序列，第3行以“+”开头，跟随着该read的名称(一般与 $@$ 后面的内容相同)，但有时可以省略，而‘ $\mathit { \Pi } ^ { \prime } + \mathit { \Pi } ^ { \prime \prime }$ 一定不能省，第4行代表reads的质量[21].
+
+# 3MeRIP-seq测序数据处理
+
+MeRIP-seq技术主要用于mRNA甲基化检测，其测序数据处理主要包括读段定位、峰检测(peakcalling)、差异甲基化检测及剪接异构体层次的相关处理．图2为MeRIP-seq测序数据处理流程，
+
+![](images/9332d26700aae09dc84e95fb259389c3b26d48f861ab4ee587b7ceabd64e052d.jpg)  
+Fig.2The processof treating the MeRIP-seq data图2MeRIP-seq测序数据处理流程
+
+(a)单样本MeRIP-seq 测序数据处理.(b)双样本MeRIP-seq 数据比较分析流程.
+
+# 3.1 读段定位
+
+获得Control及IP两样本测序数据后，首先对读段数据进行预处理(如将测序质量较差的读段过滤)，然后将两个样本的所有读段序列映射(mapping)定位到参考基因组上，这是后续数据处理和分析的基础．目前，RNA数据的读段定位算法主要采用以下三种技术[22：空位种子索引(spaced-seed indexing)、Burrows-Wheeler 转 换(Burrows-Wheeler transform，BWT)、 Smith-Waterman 动态规划[23．空位种子索引算法基本原理：将读段切成片段，形成种子片段，从中选取一部分作为种子建立索引，然后利用查找、延伸等方法来定位读段.其代表软件包括MAQ[24]、ZOOM[25]、RMAP[26].BWT算法基本原理：通过B-W转换对参考基因组进行一次有规律的重新排序并建立索引，然后利用查找和回溯定位等方法进行读段定位．在查找过程中，可以利用碱基替代来实现允许的错配．其代表软件 包 括 Bowtie [27]、BWA[28]、SOAP2 [29].Smith-Waterman动态规划算法基本原理：利用初始条件和迭代关系计算两条序列所有可能的比对分值，对相同位点加分，不同位点减分．采用空隙惩罚机制处理片段中存在的间隙，并将结果存放于一个矩阵中，利用动态规划方法回溯寻找最优比对结果．其代表软件有BFAST[30]、SHRiMR[3].
+
+MeRIP-seq测序数据实际上是一种RNA读段数据，读段定位时需要进行拼接定位，且读段定位中会面临跨越两个外显子结合区域的定位问题．为解决此问题，人们采用以下三种方法进行RNA读段定位：a．基于已知剪接点的比对定位．该方法在已知基因注释信息基础上实现，剪接点在已知接合区域数据库中可检测到．此类方法不能确定新的剪接点．代表性软件工具包括SpliceSeq[32]、SAMMate[33．b．从头拼接比对定位．此方法不需已知的注释信息，且允许新剪接点的检测．代表性软件工具包括MapSplice[34]、SpliceMap[35]．c．使用注释信息进行从头拼接的比对定位．代表性软件工具包括TopHat[、STAR[37]．TopHat软件首先采用Bowtie比对非拼接的读段，然后采用Maq组装已比对的读段形成序列的岛；在岛屿序列中，TopHat根据之前未映射的读段、可能的标准供体以及接受位点来确定剪接点.
+
+读段定位后，通常采用SAM3或BAM文件存储．BAM格式是对SAM文件的压缩，可以将SAM格式压缩到接近原来的 $20 \%$ .SAMTools[38]、
+
+BEDTools[39]、 $\mathrm { I G V ^ { [ 4 0 ] } }$ 为SAM和BAM文件常用处理软件.
+
+# 3.2 峰检测算法
+
+IP样本中甲基化位点抓取的读段较多，将其映射到参考基因组上，会在甲基化位点附近形成一个读段富集区(enrichmentregion）或者一个“峰(peak)，因而甲基化富集点检测算法称之为峰检测(peakcalling)算法[41]．峰检测过程中，经常遇到两种比较特别的读段：一种为同一个读段可映射到基因组的多个位置上，称之为“多映射读段(multimappingreads)"；另一种为一些完全相同的读段，称之为“复制读段(duplicated reads)"，该类读段可能是由PCR扩增引起的．对于“多映射读段”，常采用下面2种方法处理：a．在不同位置根据周围区域情况按比例分配；b．完全删除这种读段，这是最简单并且最有效的方法[42]．对于“复制读段"，采用SAMTools[38处理.
+
+MeRIP-PF[19]和exomePeak[18]是目前检测MeRIP-seq数据读段富集区的两个主要工具.MeRIP-PF首先将IP样本数据及对照样本数据映射到参考基因组上，并把参考基因组分割成 $2 5 \mathrm { { b p } }$ 的固定窗口，通过比对该窗口上IP样本和Control样本的读段(read)数目，确定 $\mathrm { m } ^ { 6 } \mathrm { A }$ 甲基化区．但该MeRIP-PF[以固定窗口分割参考基因组，对于跨窗口的“峰”及跨外显子的“峰”不能有效地处理，假阳性较高．exomePeak[18]采用Przyborowski[43]和Wilenski[43-44]方法比较两个泊松分布的均值(或$C$ -test)，对特定基因外显子集合进行峰检测，可检测跨越外显子连接区域的峰，该方法可有效解决转录丰度问题．由于基因剪接异构体的多样性，exomePeak算法没有考虑转录复杂性，所涉及的诸如平移(shifting)、延伸(extension)、平滑(smoothing)、检测等计算操作相对直接简单．尽管exomePeak算法目前存在这些不足，但该算法仍可以较好地检测RNA甲基化位点，并对其进行注释.
+
+# 3.3 差异甲基化检测
+
+基于MeRIP-seq数据进行差异甲基化检测，有助于确定2种实验/显性条件(如正常和癌症)下的mRNA表观遗传调控差异．ChIP-Seq数据与MeRIP-seq数据的差异甲基化检测有其本质区别.在ChIP-Seq数据中，由于DNA总数在两种情况下(加刺激、未加刺激)是相同的，那么修饰DNA分子的百分比与其数量保持相同的变化趋势，因此无论使用相对量(百分比)还是绝对量，其差异是一致的．但在MeRIP-seq数据中，由于mRNA差异表达影响，MeRIP-seq 数据的背景(如mRNA转录丰度)差异较大．有可能同时出现“过甲基化(hypermethylation)”和“甲基化RNA总量下降”情况，如图3所示．在DNA甲基化中，未加刺激的情况下，3个DNA分子中有2个被修饰，而加刺激情况下，3个DNA分子中只有1个被修饰.在修饰的DNA分子质量下降的同时，其百分比也是下降的．但在RNA甲基化中，未加刺激的情况下，4个RNA分子中有2个被甲基化，而在加刺激情况下，仅有1个RNA分子，且被修饰．即相对于未加刺激情况下的RNA甲基化，加刺激情况下的RNA甲基化数量虽然减少了，但其RNA 甲基化百分比却增加．图3表明：由于DNA总量保持不变，甲基化DNA总量和其在总DNA中的相对量保持相同的变化趋势；由于RNA总量可能变化，甲基化RNA总量和相对量的变化可能完全不同．另外，图3中所示带有甲基化的RNA在加刺激中的总量虽然下降，可是其相对量却上升，表明了一种过甲基化现象，同时RNA表达量下调了.
+
+exomePeak[8]工具包含差异甲基化区域检测功能，其检测原理基于超几何测试计算两种情况下的峰值富集显著性差异，且与一般情况下的ChIP-Seq和RNA-seq计算的绝对峰值差异不同.
+
+![](images/d291a006ac80d4cf96df07b4d9f37181db6dee42406a0825988d5520f3d28232.jpg)  
+Fig.3The difference of DNA and RNA differential methylation 图3DNA与RNA差异甲基化区别
+
+# 4MeRIP-seq数据处理面临的生物信息学挑战
+
+MeRIP-seq技术为RNA表观遗传学开启了新的研究领域，但数据分析及处理方法的发展滞后于实验技术的进步，现有DNA甲基化数据分析及处理方法不能直接用来分析RNA甲基化数据，急需在以下几方面发展有效的计算方法，分析MeRIP-seq高通量RNA甲基化数据.
+
+# 4.1 甲基化位点预测
+
+与ChIP-Seq 数据类似，基于MeRIP-seq 数据的RNA甲基化位点预测需要消除背景读段分布噪声，如GC含量、映射能力、抗体非特异性结合、局部拷贝数变异等因素引起的实验误差和测序误差．ChIP-Seq数据的背景偏差相对较小，其转录因子或DNA甲基位点预测不需要对照样本，仅通过估计邻居基因组区域的背景就可实现DNA甲基化位点预测[45-4．与此相反，由于mRNA片段转录丰度变化较大及其在 $3 ^ { \prime }$ 和 ${ \boldsymbol { 5 } } ^ { \prime }$ 端的衰减，MeRIP-seq数据的背景读段分布变化非常大，必须通过对照样本测量背景转录丰度．因此MeRIP-seq数据甲基化位点预测需要检测相对于对照样本转录丰度的IP样本“富集峰(peak enrichment)”．因而，mRNA甲基化位点检测与常用的DNA甲基化位点检测有本质上区别.
+
+另外，当RNA甲基化位点处于外显子连接区附近时，“峰”将跨越外显子连接区．因此RNA甲基化位点预测算法需要确定跨越2个或多个外显子的“峰”，否则，当采用现有诸如用于ChIP-Seq数据的MACS[I4峰检测算法时，会错误检测出多个孤立“峰”.
+
+虽然exomePeak[18能够实现跨越外显子连接的RNA甲基化位点检测，但exomePeak并没有完全解决上述MeRIP-seq所存问题．由于exomePeak通过泊松模型计算读段数目，没有考虑生物学差异，会遗漏过离散的读段．因此，需要发展新的RNA甲基化位点检测算法，以更加准确地进行RNA甲基化位点检测.
+
+# 4.2基因剪接异构体层次上mRNA甲基化预测
+
+众所周知，高等真核生物中，通过可变性剪接相同的基因会被转录成不同的异构体(isoform)[47,在基因剪接异构体上也会发生RNA甲基化．当IP样本中的一个峰处于异构体共享外显子时，进行RNA甲基化位点检测前，需对峰读段进行去卷积运算，确定每个异构体的相对贡献．另外，还需要确定对照样本中异构体表达的数量及它们的相应丰度．总之，如何应用RNA-seq 对照数据预测不同异构体甲基化位点，是MeRIP-seq数据分析中一个迫切需要解决的挑战性问题.
+
+# 4.3基因及其剪接异构体层次上的mRNA差异甲基化预测
+
+不同实验条件下，ChIP-Seq数据的背景(基因组DNA)通常非常相似，而由于mRNA的差异表达，MeRIP-seq数据的背景(mRNA转录丰度)差异较大．因而，现有适合于ChIP-Seq数据的差异分析算法[48]，不能直接用来比较两个IP样本中的读段数．需要研究包括相应RNA-seq对照样本的新计算框架，比较富集峰的相对数量．另外，针对某一转录异构体，需要研究有效的算法检测其差异甲基化.
+
+# 4.4基于分子网络的RNA甲基化功能注释
+
+RNA甲基化可通过调控基因表达而实施重要生物学功能，但RNA甲基化如何调控基因、究竟有哪些生物学功能，目前缺乏深入研究．我们可通过整合其他组学数据、构建与RNA甲基化相关的分子网络，采用相关的分子动态信息及网络分析方法[49-53]，研究RNA甲基化的基因调控机制及其所发挥的生物学功能．但如何与其他组学数据整合、如何构建RNA甲基化分子网络及如何挖掘分析也是目前急需解决的挑战性问题.
+
+除上述迫切需要解决的问题之外，RNA-seq 分析中诸如多种读段、转录水平上的测序变化及比对偏差等因素，对于MeRIP-seq甲基化峰的检测同样重要，而ChIP-Seq数据分析方法中不需要考虑这些因素．另外，发展一些有效的方法将RNA甲基化数据与其他组学数据进行整合，深入研究RNA甲基化机理及其生物学功能也是生物信息学今后的一个重要研究方向．因而迫切需要发展新的针对MeRIP-seq数据的分析方法和计算工具解决上述问题，促进表观转录组学这一新兴领域的快速发展.
+
+# 5总结与展望
+
+RNA甲基化在调控基因表达、剪接、RNA编辑、RNA稳定性、控制mRNA的寿命和降解等方面可能扮演重要角色，其甲基化机理、位点预测和差异表达研究，有助于进一步揭示细胞发育、疾病等生物学现象，帮助药物研发者设计出能够调节基因表达、杀死或控制疾病细胞的小分子．本文从MeRIP-seq高通量测序技术出发，首先介绍此技术测序原理，在技术特征和数据处理流程方面与MeDIP-seq、ChIP-seq2种高通量测序技术进行了对比，然后对MeRIP-seq高通量测序数据的读段定位、峰检测、差异甲基化检测及剪接异构体等相关处理方法进行归纳总结，最后，对RNA甲基化位点检测、剪接异构体层次上的甲基化位点检测、RNA差异甲基化分析及基于分子网络的RNA甲基化功能注释所面临的生物信息学挑战问题进行了展望．希望本文能够对正在或即将采用MeRIP-seq 实验进行科学研究的学者和MeRIP-seq高通量数据处理研究者提供参考.
+
+# 参考文献
+
+[1]Fu Y,He C.Nucleic acid modifications with epigenetic significance. Current Opinion in Chemical Biology,2012,16(5): 516-524   
+[2]Desrosiers R,Friderici K,Rottman F.Identification of methylated nucleosides in messenger RNA from Novikoff hepatoma cells.Proc Natl Acad Sci USA,1974,71(10): 3971-3975   
+[3]Harris R A,Wang T,Coarfa C,et al.Comparison of sequencingbased methods to profile DNA methylation and identification of monoallelic epigenetic modifications.Nature Biotechnology,2010, 28(10):1097-1105   
+[4] Dubin D T,Taylor R H. The methylation state of poly A-containing-messenger RNA from cultured hamster cells.Nucleic Acids Research,1975,2(10):1653-1668   
+[5]Meyer KD, Saletore Y, Zumbo P,et al. Comprehensive analysis of mRNA methylation reveals enrichment in $3 ^ { \prime }$ UTRs and near stop codons.Cell,2012,149(7): 1635-1646 [6]Dominisini D, Moshitch-Moshkovitz S,Salmon-Divon M,et dl. Transcriptome-wide mapping of N6-methyladenosine by m6A-seq based on immunocapturing and massively parallel sequencing. Nature Protocols,2013,8(1): 176-189 [7]Meyer K D，Jaffrey S R.The dynamic epitranscriptome: N6-methyladenosine and gene expression control. Nature Reviews Molecular CellBiology,2014,15(5): 313-326 [8]Liu J,Yue Y,Han D,et al.A METTL3-METTL14 complex mediates mammalian nuclear RNA N6-adenosine methylation. Nature Chemical Biology,2013,10(2): 9395 [9]Ping XL,Sun BF,Wang L,et al.Mammalian WTAP is a regulatorysubunitoftheRNAN6-methyladenosine methyltransferase. CellResearch,2014,24: 177-189 [10] Jia G,Fu Y, Zhao X,et al.N6-methyladenosine in nuclear RNA is a major substrate of the obesity-associated FTO. Nature Chemical Biology,2011,7(12): 885-887 [11]宋述慧,李语丽,于军.RNA中6- 甲基腺嘌呤的研究进展.遗 传,2013,35(12): 1340-1351 Song SH,Li YL,Yu J. Hereditas,2013,35(12): 1340-1351 [12] Weber M,Davies JJ,Wittig D,et al.Chromosome-wide and promoter-specific analyses identify sites of differential DNA methylation in normal and transformed human cells.Nature Genetics,2005,37(8): 853-862 [13] Wang Z, Gerstein M, Snyder M. RNA-Seq: a revolutionary tool for transcriptomics.Nature Reviews Genetics,2009,10(1): 57-63 [14]Feng J,LiuT,Qin B,etdl.Identifying ChP-seq enrichmentusing MACS.Nature Protocols,2012,7(9): 1728-1740 [15] Ji H,Jiang H,Ma W,et al.An integrated software system for analyzing ChIP-chip and ChIP-seq data. Nature Biotechnology,   
+2008,26(11): 1293-1300 [16] Down T A,Rakyan V K,Turner D J,et al.A Bayesian deconvolution strategy forimmunoprecipitation-based DNA methylome analysis.Nature Biotechnology,2008,26(7): 779-785 [17] Huang J,Renault V, Sengenes J,et al. MeQA: a pipeline for MeDIP-seq data quality assessment and analysis. Bioinformatics,   
+2012,28(4): 587-588 [18] Meng J, Cui X,Rao M K,et al.Exome-based analysis for RNA epigenome sequencing data.Bioinformatics,2013,29(12):1565-   
+1567 [19] LiY,Song S,Li C,et al.MeRIP-PF:An easy-to-use pipeline for high-resolution peak-finding in MeRIP-Seq data. Genomics, Proteomics & Bioinformatics,2013,11(1): 72-75 [20]孙磊,张林,刘辉.基于RNA-Seq 的长非编码 RNA 预测. 生物化学与生物物理进展,2012,39(12):1156-1166 Sun L,Zhang L,LIU H. Prog Biochem Biophys,2012,39 (12):   
+1156-1166 [21] CockPJ,FieldsCJ,Goto N,etal.The SangerFASTQ file format for sequences with quality scores,and the Solexa/Illumina FASTQ variants. Nucleic Acids Research,2010,38(6): 1767-1771   
+[22]王曦,汪小我,王立坤,等.新一代高通量RNA 测序数据的处 理与分析.生物化学与生物物理进展,2010,37(8):834-846 Wang X,Wang XW,WangL K,et al.Prog Biochem Biophys, 2010,37(8): 834-846   
+[23]杨烨,刘娟.第二代测序序列比对方法综述.武汉大学学报： 理学版,2012,58(5): 463-470 Yang Y,Liu J.JWuhan Univ (Nat.Sci.Ed.),2012,58(5): 463-470   
+[24] Li H, Ruan J, Durbin R. Mapping short DNA sequencing reads and calling variants using mapping quality scores. Genome Research 2008,18(11): 1851-1858   
+[25] Lin H, Zhang Z, Zhang MQ,et al. ZOOM! Zillions of oligos mapped. Bioinformatics,2008,24(21): 2431-2437   
+[26] Smith A D, Xuan Z, Zhang M Q. Using quality scores and longer reads improvesaccuracy of Solexa read mapping. BMC Bioinformatics,2008,9(1): 128-136   
+[27] Langmead B,Trapnell C，Pop M,et al.Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biol,2009,10(3): R25.1-R25.10   
+[28] Li H,Durbin R.Fast and accurate short read alignment with Burrows-Wheeler transform.Bioinformatics,2009,25(14):1754- 1760   
+[29] LiR,YuC,Li Y,et al. SOAP2:an improved ultrafast tool for short read alignment. Bioinformatics,2009,25(15): 1966-1967   
+[30] Homer N,Merriman B,Nelson SF.BFAST: an alignment toolfor large scale genome resequencing. PloS One,20o9,4(11): e7767   
+[31] Rumble S M, Lacroute P,Dalca A V,et al. SHRiMP: accurate mapping of short color-space reads. PLoS Computational Biology, 2009,5(5): e1000386   
+[32] Ryan M C,Cleland J,Kim R,et al. SpliceSeq: a resource for analysis and visualization of RNA-Seq data on alternative splicing and its functional impacts. Bioinformatics,2012,28(18): 2385- 2387   
+[33] Xu G,Deng N, Zhao Z,et al.SAMMate: a GUI tool for processing short read alignments in SAM/BAM format. Source Code for Biology and Medicine,2011,6(1): 2-13   
+[34] Wang K, Singh D, Zeng Z, et al. MapSplice: accurate mapping of RNA-seq reads for splice junction discovery. Nucleic Acids Research,2010,38(18): e178-e178   
+[35] Au K F,Jiang H, Lin L,et al. Detection of splice junctions from paired-end RNA-seq data by SpliceMap.Nucleic Acids Research, 2010,38(14): 4570-4578   
+[36] Kim D,Pertea G,Trapnell C,et al.TopHat2: accurate alignment of transcriptomes in the presence of insertions,deletions and gene fusions. Genome Biol,2013,14(4): R36   
+[37] Dobin A,Davis C A, SchlesingerF,et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics,2013,29(1): 15-21   
+[38] Li H, Handsaker B,Wysoker A,et al.The sequence alignment/map format and SAMtools.Bioinformatics,2009,25(16): 2078-2079   
+[39] Quinlan A R, Hal IM.BEDTools: a flexible suite of utilities for comparing genomic features.Bioinformatics,2010,26(6): 841-842   
+[40]RobinsonJT,Thorvaldsd6ttirH,WincklerW,et al.Integrative genomics viewer. Nature Biotechnology,2011,29(1): 24-26   
+[41] Valouev A, Johnson D S,Sundquist A,et al.Genome-wide analysis of transcription factor binding sites based on ChIP-Seq data.Nature Methods,2008,5(9): 829-834   
+[42]MengJ,Cui X,Liu H,et al.Unveiling the dynamics in RNA epigenetic regulations//BIBM.2013 IEEE International Conference on Bioinformatics and Biomedicine. Shanghai: BIBM,2013: 139-144   
+[43]Krishnamoorthy K，Thomson J.A more powerful test for comparing two Poisson means.Journal of Statistical Planning and Inference,2004,119(1): 23-35   
+[44]Przyborowski J,Wilenski H.Homogeneity of results in testing samples from Poisson series with an application to testing clover seed for dodder.Biometrika,1940,31(3-4):313-323   
+[45]Zhang Y,Liu T,Meyer C A,et al.Model-based analysis of ChIP-Seq (MACS).Genome Biol,2008,9(9):R137   
+[46] Kharchenko PV,Tolstorukov MY,Park PJ.Design and analysis of ChIP-seq experiments for DNA-binding proteins.Nature Biotechnology,2008,26(12):1351-1359   
+[47] Pan Q, Shai O,Lee LJ,et al.Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing.Nature Genetics,2008,40(12):1413-1415   
+[48] Xu H,Wei CL,Lin F,et al.An HMM approach to genome-wide identification of differential histone modification sites from ChIP-seq data.Bioinformatics,2008,24(20): 2344-2349   
+[49]Zhang X,Zhao J,Hao JK,et al.Conditional mutual inclusive information enables accurate quantification of associations in gene regulatory networks.Nucleic Acids Research,2014,43(5): e31   
+[50] Zhang W,Zeng T,Chen L.EdgeMarker: identifying differentially correlated moleculepairsasedge-biomarkers.Journalof Theoretical Biology,2014,362: 35-43   
+[51] Chen L,Liu R,Liu ZP,et al.Detecting early-warning signals for sudden deterioration of complex diseases by dynamical network biomarkers.Scientific Reports,2012,2:342   
+[52]Liu R,Wang X,Aihara K,et al.Early diagnosis of complex diseases by molecular biomarkers,network biomarkers,and dynamical network biomarkers.Medicinal Research Reviews, 2014,34(3): 455-478   
+[53] Wang J, Huang Q,Liu Z P,et al. NOA: a novel network ontology analysis method.Nucleic Acids Research,2011,39(13): e87
+
+# Recent Progress and Challenges in High Throughput RNA Methylation Sequencing Data Analysis
+
+LIU LianD, ZHANG Shao-Wu1)\*\*, MENG Jia²), CHEN Run-Shengl, 3)
+
+0 $^ { 1 ) }$ KeyLabraorstl; （204 $^ { 2 ) }$ DepartmentofiologicalSienes,XJU-WResearchIstitute,Xi'anJotog-LveroolUniversitySuzhu,i; 3 Institute of Biophysics,Chinese Academy of Sciences,Beijing 10olo1,China)
+
+AbstractWith the rapid development of high-throughput sequencing technologies,the emerging of methylated RNA immunoprecipitation sequencing (MeRIP-seq) technology makes it possible to detect RNA epigenetic modifications in alarge scale,which alows transcriptome-wide profiling of RNA methylation. Mining the patterns of global mRNA methylation from these MeRIP-seq data can help reveal the potential functional roles of these mRNA methylations in regulating gene expression,splicing, RNA editing and RNA stability, effectively guiding the therapeutic intervention ofcancer. Here, the principle of MeRIP-seq sequencing was first introduced.Then, the recent progress of the processing and analysis of MeRIP-seq data were comprehensively discussed. In the end, the computational problems and challenges faced in the process ofMeRIP-seq data processing were also summarized.
+
+Key wordsMeRIP-seq sequencing, data processing and analysis,RNA methylation, epigenetics DOI: 10.16476/j.pibb.2015.0078

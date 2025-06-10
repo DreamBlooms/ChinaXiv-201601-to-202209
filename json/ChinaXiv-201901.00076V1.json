@@ -1,0 +1,676 @@
+[
+    {
+        "type": "text",
+        "text": "接受还是拒绝？反应模式助推基础课与拓展课均衡选择",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘隽1,2张震1,2孙彦 2.3韩布新1,2 陆勤4刘萍萍1,2  \n(中国科学院心理健康重点实验室(中国科学院心理研究所)，北京100101)( 中国科学院大学心理学系，北京100049)  \n(中国科学院行为科学重点实验室(中国科学院心理研究所)，北京100101)(4香港理工大学电子计算学系，香港)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要近年课外辅导成为学生学习生活的重要部分，人们普遍选择拓展课数较多，选择基础课数较少。为了实现基础课及拓展课学习的均衡发展，本研究在“接受或拒绝反应模式”(Shafir,1993)的理论框架指导下，通过3个实验探索反应模式对小学生课外辅导课程类型(基础课/拓展课)选择的影响。实验1探讨来自不同家庭的三代人(小学生/父母/祖辈)在不同反应模式(接受/拒绝)下的课程决策差异。为排除不同家庭环境因素的可能影响，实验2探讨来自同一家庭的三代人在不同反应模式下的课程决策差异。实验3在真实的课外辅导现场报名点检验反应模式助推基础课选择的生态化效度。结果表明，(1)父母组选择的辅导课总数显著多于祖辈组和小学生组；(2)三代人在接受和拒绝反应模式下均偏好选择拓展课；(3)同接受反应模式相比，三代人均在拒绝反应模式下选择更多课程，具体表现在拒绝反应模式下对基础课和拓展课的选择数均相对增加，但对拓展课的选择比例相对减少，课程的选择趋于均衡。鉴于此，在选课中简单地采用拒绝反应模式，便可助推小学生家庭选择更多基础课，从而实现基础课及拓展课的均衡选择。本研究成功验证了拒绝反应模式在儿童教育决策领域的适用性，对儿童教育者及学生家庭有重要现实指导意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 反应模式；助推；课外辅导；课程类型；决策者角色",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B849:C91",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "课外辅导指学生在学校教育系统之外的补充或拓展，现已成为学生生活的重要方面(Liu& Bray,2017;Mark& Ora,2013；薛海平,2015)。《2017年中国教育培训行业白皮书》显示参加课外辅导的学生平均选择 2.6门课，其中选课者是小学生的比例最高 $( 9 1 \\% )$ 。课外辅导课程分两种，一种是旨在提高学生学习能力及补习文化知识的基础课，如英语、作文、奥数等，另一种是旨在培养学生才艺技能且有趣好玩的拓展课，如音乐、绘画、游泳等(张冰，2017)。基础课培养学生的基础学力，为其毕生发展和适应未来社会奠定基石；拓展课则从知识广度方面培养学生的发展性学力，满足其个性化需求。两类课程相互依存，重要程度相当(沈建民，谢利民，2001)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于有趣好玩、多样性和对学校课程的互补性，人们可能倾向选择拓展课辅导。伍青生和俞晔(2011)以上海400位小学生家长为样本，发现人们主要从短期内孩子是否开心、感兴趣的角度选择课外辅导。课外辅导的多样性体现在课程科目和教学形式，课程科目的多样性指提供常规学校没有开设的课程，教学形式的多样性指提供特色的场景教学及个性化服务等。拓展课的多样性显而易见，一般从课程名称(如跆拳道课)即可感知其与学校课程的差异。但是基础课以教学形式的多样性为主，其在内容上的多样性相对隐蔽，科目更少(主要围绕语文、数学、英语三学科)且同学校课程相似度高，易让人感到“课程重复”(陈晓陆，2014)。因此，人们更可能选择拓展课而非基础课辅导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，参照国内外的教育评价体制及日益竞争激烈的人才选拔现状，为学生奠定基石的基础课理应得到更多关注。季林飞(2015)发现，受全球化和教育指标国际排名的影响，欧盟各成员国普遍偏好数学、科学和语言等基础课辅导，主要源于这些科目是升学考试科目，重视它们对学生发展更有利。基础课在我国同样是升学考试学科，学生可以通过校外辅导奠定基础，获取个性化服务，更好地适应学校教育并达到评价标准。而家长希望通过课外辅导弥补学校教育的不足(黄笛，2015)，促进孩子全面且个性化发展。因此，如何实现基础课与拓展课均衡的选择成为目前教育的一个难点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "大量研究发现，信息呈现方式影响人们的选择偏好(Bertini,Ofek,&Dan,2009;Dhar&Wertenbroch,2000；黄元娜，宋星云，邵洋，李纾，梁竹苑，2018)。换言之，我们通过更改信息呈现方式，可能会助推(nudge)人们的选择行为。助推是一种行为改变的方法，通过设计决策环境，提供简约且低成本的选择架构，使人们的行为朝着预期的方向改变，已在医疗健康、能源使用等多个领域的行为改变中取得显著成果(Benartzi et al.，2017；Chapman,Li,Colby,& Yoon,2O1O; Li, Sun,& Chen, in press; Sunstein & Reisch,2014; Thaler & Benartzi,2004;Thaler＆ Sunstein,2008；李纾，2016)。在本研究中，我们将借助行为经济学手段，通过改变决策偏好的方法，检验反应模式效应(response mode)对人们教育决策的助推作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1反应模式效应及其发生机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人们的决定通常以“接受”或“拒绝”的反应模式表现出来(李纾，2016)，其决策偏好受到反应模式的显著影响(Chen& Proctor，2017；Mourali& Nagpal，2013；Shafir，1993;Tversky&Kahneman,1981；黄元娜等，2018)。Shafir(1993)基于离婚案件、度假地点和彩票选择等多个决策场景的实证研究发现，率先提出接受或拒绝的反应模式会影响甚至逆转人们偏好的现象。以离婚案件为例，他设置了两个选项，一个是在不同维度上的积极和消极特征均表现突出(enriched)的选项[即家长 A——收入维度：高水平(积极)，工作时间维度：出差频繁(消极)]，另一个是在不同维度上均表现平均(impoverished)的选项[即家长 B——收入维度：中等水平(平均)，工作时间维度：朝九晚五(平均)]，检验被试在不同反应模式中选择孩子抚养者的偏好变化。结果发现，人们在接受反应模式下大多选择积极特征突出的选项，而在拒绝反应模式下大多拒绝消极特征突出的选项，这导致了一个“矛盾”的结果，即家长A选项既被大部分人接受，同时也被大部分人拒绝。且同接受反应模式相比，人们在拒绝反应模式下对不同选项的偏好分布更均衡(如：家长A和B在接受反应模式下的被选比例为 $64 \\%$ 对 $3 6 \\%$ ，但在拒绝反应模式下变为 $5 5 \\%$ 对 $45 \\%$ )。这种怪现象便引出了什么反应模式才真正测量出人们的真爱的争论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shafir (1993)借助兼容性原则(Tversky,Sattath,& Slovic,1988)解释该现象，即当反应模式与选项的属性兼容度(匹配)更高时，该选项的决策权重得以增强。Shafir (1993)发现人们习惯通过挑选而非拒绝做决策，倾向关注积极特征，聚焦于自身想要的是什么。据此，积极特征与接受反应模式更兼容，在决策中所赋予的权重更大，在该模式下个体更偏好积极特征突出的选项。而在拒绝反应模式下，人们会考虑什么是我不需要的，因此消极特征的兼容性更高，且在决策中所赋予的权重更大，个体更容易拒绝消极特征突出的选项。且在该拒绝反应模式下，人们可能会对多个选项充分权衡，降低偏差(biases)概率，对积极和消极特征均表现平均的选项偏好有所提升，因而对两种选项的偏好分布更均衡。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如前所述，拓展课更倾向于被类比为积极和消极特征均突出的选项，而基础课则倾向于被类比为表现平均的选项。首先，从积极的角度看，拓展课指向多元教育目标，其体验趣味性更强，多样化程度更高，更注重知识的横向拓展，内容更丰富(沈建民，谢利民，2001;王维臣，2002；伍青生，俞晔，2011)，可视为其积极特征更突出。相反，基础课辅导科目较少，其主要功能(提高学生学习能力及补习文化知识)因疑似与学校教育重复而更少被关注，其体验趣味性低，多样化程度较低，可视为其积极特征相对不明显(陈晓陆，2014；付洪秀，2014；刘维朝，2002；沈建民，谢利民，2001)。其次，从消极的角度看，拓展课“泛而不精”，不利于学生系统地掌握知识，在当前的应试环境下，促进升学考试的作用有限(王维臣，2002)，可视为其消极特征更突出。相反，基础课因同学校教育相关密切，更利于学生系统掌握知识，有利于升学考试，可视为其消极特征相对不明显。综上，我们假设在接受反应模式下，人们更接受积极特征突出的拓展课；而在拒绝反应模式下，人们更拒绝消极特征突出的拓展课(对消极特征突出的拓展课的偏好减少)，由此对特征表现平均的基础课的选择相对增加，实现基础课与拓展课均衡的选择。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "接受或拒绝的反应模式不仅会在二择一决策中引起偏好改变，还会导致多择多决策的选中项目数量发生显著变化。Park,Jun 和 Macinnis (2000)发现人们在拒绝反应模式(在包括了所有产品配置选项的完整型产品中删除选项)比在接受反应模式(在只有基本产品配置的基本型产品上添加选项)下选择了更多产品，并以“参考依赖和损失厌恶理论”解释其发生机制。人们在接受反应模式下以基本型产品为参考，添加选项获得产品效用但损失金钱，因此少添加以规避金钱损失；而在拒绝反应模式下以完整型产品为参考，拒绝选项将损失产品效用但节省金钱，因此少拒绝以规避效用损失，从而保留更多产品。Levin,Schreiber,Lauriola和 Gaeth (2002)援引禀赋效应(Kahneman,Knetsch,& Thaler,1991)来解释此现象,指人们觉得已拥有的东西(即拒绝反应模式下的备择选项)比未拥有的东西(即接受反应模式下的备择选项)价值更大，从而在拒绝反应模式下保留更多选项。因此我们假设，人们在拒绝比在接受反应模式选择更多课外辅导课程。鉴于反应模式效应广泛应用于医疗、通讯、房地产、旅游、餐饮等领域(Goldstein,Johnson,Herrmann,& Heitmann,2008；Levin et al.，20O2;Peng,Xia,Ruan,&Pu,2016;Pornpitakpan,2009；黄元娜等，2018；金立印，邹德强，裘理瑾，2009;刘扬，孙彦，2014；张广宇，张梦，2016)，本研究试图利用该效应影响消费者在教育培训中的决策，助推均衡选择基础课和拓展课。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2不同决策者的选择偏好",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "儿童教育消费是典型的家庭消费决策，每位家庭成员对决策均有一定的影响力(袁胜军，  \n张新阳，段亚丽，2017)。在中国较为普遍的三代同堂家庭中，儿童教育消费通常需要全家  \n参与：孩子体验，父母付费，祖辈辅助。那么，三代人对课外辅导的决策是否有显著差异？面对同样情境，为自己与为他人决策往往存在差异(Liu,Polman，Liu,&Jiao，2018;",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Polman,2010,2012；刘永芳，王鹏，庄锦英，钟俊，孙庆洲，刘毅，2014)。Polman(2010,2012)发现，人们在为他人决策时多采用提升焦点，关注事物的积极特征；而为自己决策时多采用防御焦点，关注事物的消极特征；同为自己决策相比，为他人决策经历更多决策前失真(predecisional distortion)，即根据事物的突出属性决策。依据解释水平理论(construal leveltheory)（Trope＆Liberman,2003)，人们为自己决策时采用低解释水平(更关注具体和细节信息)的认知方式,倾向考虑选项在多个维度上的表现；而为他人决策时采用高解释水平(更关注抽象和整合信息)的认知方式，倾向把选项的突出特征看为整体信息(陆静怡，尚雪松，2018)。换言之，人们为自己决策时可能权衡多属性，对消极信息更敏感，为他人决策时可能考虑突出属性，对积极信息更敏感。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在课外辅导的选择上，小学生为自己决策，父母和祖辈为他人决策。父母通常是儿童教育消费的主要决策者和付费者，对课外辅导的需求和体验比祖辈更直接，卷入度更高。因此，父母对课外辅导的决策偏好可能更接近小学生而非祖辈。与低卷入相比，高卷入时人们愿意付出更多认知努力，多维度权衡选项(姚杰，刘俊杰，高成，2016)。由此推测，面对课外辅导时，父母与小学生倾向于多维度权衡且对消极属性敏感，可能降低偏差概率，对基础课偏好有所提升；祖辈倾向于考虑课程的突出属性，对积极属性敏感，更可能偏好积极特征明显的拓展课。综上，我们假设父母与小学生的决策更接近，两者比祖辈更偏好基础课。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3研究概观",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究从反应模式切入，结合实验室场景(实验1和实验2)及真实场景(实验3)，探讨小学生家庭对课外辅导的决策偏好，检验反应模式设置对现实中小学生家庭教育决策的助推作用。实验1考察各决策者(小学生/父母/祖辈)在不同反应模式下的课程选择差异。其中，小学生为自己选课，父母及祖辈为孩子选课。实验2以来自同一家庭的小学生、父母、祖辈为被试，进一步验证反应模式对不同决策者的课程决策的影响。实验3在真实的课外辅导报名场景中，选取为小学生报名的父母为被试，探讨反应模式在现实中对消费者课程选择的助推作用。如果证明该简单易行的助推方法有效，则现实中可以通过更改反应模式，促使学生家庭关注并主动选择更多基础课，助推学生基础课及拓展课均衡发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2实验1：反应模式对不同决策者课程选择的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "681位来自北京和广东省的被试参与实验。为保证准确理解实验材料，选择四年级以上小学生参与实验。因年级不符及随意选择答案等，删除81位无效被试数据。600位有效被试包括200位小学生 $( M = 1 1 . 2 5 \\pm 0 . 6 8$ 岁，88位男生)、200位小学生父母 $( M = 3 7 . 2 4 \\pm 3 . 3 5$ 岁,62位男性)和200位家有在读幼儿园或小学孙辈的老年人 $( M = 6 4 . 9 2 \\pm 3 . 9 2 , 1 1 4$ 位男性)。小学生父母的数据通过问卷网采集，小学生和老年人的数据通过一对一访谈采集。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2实验设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2(反应模式：接受/拒绝) $) \\times 2 ($ 课程类型：基础课/拓展课 $) \\times 3$ (决策者角色：小学生/父母/祖辈)的混合设计。其中，课程类型为组内变量，反应模式和决策者角色为组间变量，因变量为被试选择的课程数量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3自变量的操作检验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5门基础课和5门拓展课的筛选和评定步骤如下。首先，我们参考市场常见、开班较多的课外辅导课程，经过预调查筛选出10个选项。其次，邀请20位被试对10门课程的类型进行5点评价（ $1 =$ 基础课， $\\scriptstyle 5 =$ 拓展课)。儿童情商课等5门课程的得分均值都显著大于3，即拓展课属性显著；语文作文等5门课程的得分均值都显著小于3，即基础课属性显著。这说明本实验有效设定了两种不同的课程类型(详细数据见附录表1)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了验证两种课程类型分别对应于我们所假设的特征突出选项和特征平均选项，我们对不同课程类型的选项特征进行了操纵检验。我们又邀请了50位小学生父母对10门课程在不同特征维度上的符合程度进行7点评价( $1 =$ 程度非常低， $7 =$ 程度非常高)。依据以往研究(陈晓陆，2014；沈建民，谢利民，2001；王维臣，2002；伍青生，俞晔，2011)和预调查的结果，我们选定了4个特征维度：趣味性体验、多样化程度、促进升学考试和系统知识掌握的程度。其中，在“趣味性体验”和“多样化程度”维度上，得分越高，代表积极特征越明显；而在“促进升学考试”和“系统知识掌握”的维度上，得分越低，代表消极特征越突出。我们分别对每个维度的评分进行2(课程类型：基础课/拓展课) $\\lvert \\times 5 \\rvert$ (每个课程类型下的5门课程)的重复测量方差分析。结果显示，课程类型在4个维度下评分的主效应均显著。两类课程的特征评分如图1所示，拓展课在趣味性体验 $[ M _ { \\mathrm { \\# G } } ] _ { \\mathrm { e } } = 5 . 0 6$ ， $/ k _ { 1 \\leq \\mathrm { 8 4 } } = 4 . 3 1$ ， $F ( 1 , 4 9 ) { = } 1 6 . 7 5$ ， $\\eta ^ { 2 } = 0 . 2 6$ $p { < } 0 . 0 0 1 ]$ 、多样化程度 $[ M _ { \\mathrm { \\# H \\# } } = 4 . 9 6$ $\\mathcal { M } _ { \\sharp [ 1 \\sharp ] } = 4 . 2 1$ ， $F ( 1 , 4 9 ) \\mathrm { = } 1 4 . 4 0$ ， $\\mathfrak { \\eta } ^ { 2 } \\overset { } { = } 0 . 2 3$ $p { < } 0 . 0 0 1 ]$ 维度下的积极特征均比基础课更突出；而在促进升学考试 $[ M _ { \\mathtt { R H R } } = 4 . 1 5 , M _ { \\mathtt { M E R } } = 5 . 4 6 , F ( 1 , 4 9 ) = 2 8 . 7 5 , \\eta ^ { 2 } = 0 . 3 7 , p < 0 . 0 0 1 ] .$ 号系统知识掌握 $[ M _ { \\mathrm { { f i l } } } ] _ { \\ast } = 4 . 1 1$ ， $\\mathcal { M } _ { \\oplus } \\ L _ { \\oplus } { = } 4 . 9 5$ ， $F ( 1 , 4 9 ) { = } 2 2 . 1 0$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 3 1$ $p \\ { < } 0 . 0 0 1 ]$ 维度下的消极特征均比基础课更突出。即，相对于基础课而言，拓展课在各特征维度上的积极和消极特征均表现得相对更突出。操纵检验的结果表明：将拓展课对应于“特征突出”的选项，而将基础课对应于“特征平均”的选项是合理、可接受的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4dd1383c999daaef7f54e517773dd8c6a81c443a7893c12b726b82682bddc308.jpg",
+        "img_caption": [
+            "消极方向(分数越小越消极）",
+            "积极方向(分数越大越积极）",
+            "图1基础课和拓展课在不同维度上的积极与消极特征评分(实验1)"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4实验程序",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参照Levin等(2002)的实验，本研究适度修改形成实验材料。被试首先浏览10门课程名称及其简介并完成选课任务，然后填报人口学信息。选课任务分接受和拒绝两个版本(见图2)，每位被试只完成其中一种。所有被试的任务几乎完全一样，区别是小学生被试的实验要求是为自己选择课程；而其他被试都假设要为孩子选择课程。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "接受反应模式下的选课任务",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1、请在您想报读的课程前打√——500元/门课/学期——不报读任何课程请跳过此题：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "□语文阅读：每课一招，教孩子阅读如何不丢分  \n□创意美术：包括涂鸦、陶艺、手工等美术课  \n□数学冲刺：数学期中/期末知识串讲  \n□思维逻辑：培养逻辑思维能力的课程  \n□儿童情商课：帮助孩子学会识别、表达、控制自己的情绪  \n□语文作文：学10次课写出高分作文  \n□英语基础：小学英语单词和语法辅导  \n□数学基础：数学基础知识梳理和辅导  \n□体能素质：包括舞蹈、武术、跆拳道等和体育、体能锻炼相关的课程  \n□语言艺术：包括儿童戏剧、播音主持、演讲、辩论等课程",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "拒绝反应模式下的选课任务",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1、请在您不想上的课程前打X—500元/门课/学期—不删减任何课程请跳过此题：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "□数学基础：数学基础知识梳理和辅导  \n□体能素质：包括舞蹈、武术、跆拳道等和体育、体能锻炼相关的课程  \n□数学冲刺：数学期中/期末知识串讲  \n□语文阅读：每课一招，教孩子阅读如何不丢分  \n□儿童情商课：帮助孩子学会识别、表达、控制自己的情绪  \n□语文作文：学10次课写出高分作文  \n□语言艺术：包括儿童戏剧、播音主持、演讲、辩论等课程  \n□思维逻辑：培养逻辑思维能力的课程  \n□创意美术：包括涂鸦、陶艺、手工等美术课  \n□英语基础：小学英语单词和语法辅导",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图2不同反应模式下的选课任务(实验1和实验 2)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为尽可能保证真实客观，并避免课程价格、上课时间、课程顺序和被试的理解偏差等影响，实验材料控制如下： $\\mathbb { O }$ 按照普通家庭的消费标准，将课程价格统一确定为每门课500元； $\\textcircled{2}$ 上课频率为每两周一次课,上课时间为每天最后一节学校课之后(不影响周末安排)； $\\textcircled{3}$ 统一采用市场上同类课程的描述； $\\textcircled{4}$ 课程随机排列； $\\textcircled{5}$ 强调材料匿名及选择无对错，请按自己的真实意愿填写。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5结果与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以反应模式(接受/拒绝)、决策者角色(小学生/父母/祖辈)为组间自变量，课程类型(基础课/拓展课)为组内自变量，以选择课程数量为因变量，进行多因素重复测量方差分析。结果表明，反应模式影响选课数量的主效应显著(见图3)，被试在拒绝反应模式下选择更多课程，$F ( 1 , 5 9 4 ) { = } 4 3 2 . 1 8 , \\eta ^ { 2 } { = } 0 . 4 2 , p < 0 . 0 0 1$ ;决策者角色的主效应显著， $F ( 2 , 5 9 4 ) { = } 1 4 . 8 8 , \\eta ^ { 2 } { = } 0 . 0 5$ $p < 0 . 0 0 1$ ，父母组选择的课程最多 $( M = 5 . 5 2 )$ ，其次是小学生组 $( M = 4 . 5 4 )$ ，祖辈组选择的课程最少 $( M = 4 . 3 3 )$ ；课程类型的主效应显著，被试选择的拓展课显著多于基础课， $F ( 1 , 5 9 4 ) =$ 51.78, $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 8$ ， ${ p < 0 . 0 0 1 } _ { \\circ }$ （204号",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f2044342e1b669baf717d1d9c44793ab93ef498f86155c11cbd97966ec86ce9.jpg",
+        "img_caption": [
+            "□接受反应模式拒绝反应模式",
+            "图3被试在不同反应模式下选择的课程数量(实验1)"
+        ],
+        "img_footnote": [
+            "注：误差线为标准误"
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "反应模式和课程类型交互作用显著， $F ( 1 , 5 9 4 ) = 1 1 . 3 4$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 2$ ， $\\scriptstyle p = 0 . 0 0 1$ 。简单效应分析发现(见图4)，被试在接受和拒绝反应模式下均选择更多拓展课；不同的是，接受反应模式下被试选择基础课与拓展课的平均数量差异较大(0.70 门), $F ( 1 , 5 9 4 ) = 5 5 . 7 8 \\$ ， $p { < } 0 . 0 0 1$ ， $\\eta ^ { 2 } =$ 0.09，而拒绝反应模式下选择基础课与拓展课的平均数量差异显著减小(0.29 门)， $F ( 1 , 5 9 4 ) =$ 7.33, $p = 0 . 0 0 7$ ， $\\boldsymbol { \\eta } ^ { 2 } = 0 . 0 1$ 。课程类型和决策者角色交互作用显著， $F ( 2 , 5 9 4 ) = 9 . 4 2 \\$ ， $\\mathfrak { n } ^ { 2 } = 0 . 0 3$ ，$p < 0 . 0 0 1$ 。简单效应分析发现，各被试组对基础课的偏好有显著差异， $F ( 2 , 5 9 4 ) = 3 . 4 7$ ， $p =$ 0.032， $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 1$ ，父母组选择的基础课 $( M = 2 . 2 9 \\pm 1 . 9 8 )$ 比祖辈组 $( M = 1 . 8 9 \\pm 1 . 9 5 ) \\$ 更多；其他组间偏好比较(即小学生组 $( M = 2 . 2 0 \\pm 1 . 9 1 \\$ )与父母组、小学生组与祖辈组)的差异未达到统计显著 $( p s > 0 . 0 5 )$ 。反应模式、决策者角色和课程类型三因素无显著交互作用， $F ( 2 , 5 9 4 ) = 0 . 9 3 \\$ $p = 0 . 3 9 _ { \\circ }$ （204号",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/638e1c74418362371f0787148013758d85eb82ae48b33da5fd7f1c670dcb4793.jpg",
+        "img_caption": [
+            "图4被试在不同反应模式下选择的课程类型数量(实验1)"
+        ],
+        "img_footnote": [
+            "注：误差线为标准误"
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为进一步明确被试在不同反应模式下对课程类型的偏好比例变化，进行卡方检验。结果发现，被试在接受反应模式下选择的基础课占总选课程比例的 $3 6 \\%$ ，在拒绝反应模式下该比例显著上升到 $4 8 \\%$ ， $\\chi ^ { 2 } \\left( 1 \\right) = 3 5 . 2 8$ ， $\\varrho = 0 . 1 1$ ， $p { < } 0 . 0 0 1$ 。也就是说，同接受反应模式相比，被试在拒绝反应模式下对基础课的偏好比例显著提升，拓展课的偏好比例相对下降，拓展课和基础课的偏好分布趋于均衡，符合预期假设。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本实验发现：(1)人们在拒绝反应模式下均比接受反应模式下选择更多课程；(2)人们在接受和拒绝反应模式下均偏好拓展课程，但同接受反应模式相比，拒绝反应模式下对基础课的偏好显著提升，拓展课和基础课的偏好差异减小。换言之，通过操纵反应模式，人们在拒绝反应模式下选择了更多课程，对课程的关注点从拓展课延伸到了基础课，助推了基础课选择，最终实现拓展课和基础课均衡选择。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本实验还发现不同决策者对课程偏好有显著差异。父母组选择的课程显著多于祖辈组和小学生组，且比祖辈组更偏好基础课。但假设“父母与小学生的决策更接近，两者比祖辈更偏好基础课”未得到完全验证。本实验选取的小学生、父母、祖辈来自不同家庭，生活环境的差异可能增加混淆因素，影响实验结果。为进一步验证反应模式对不同决策者角色的课程决策影响，我们邀请来自同一家庭中的小学生、父母、祖辈为被试，实施了实验2。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3实验2：反应模式对同一小学生家庭课程决策的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.1被试 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "100 个来自北京、上海和广东省的三代同堂的小学生家庭参与实验。因全部题目选择相同答案删除3个无效被试家庭(15位被试)数据。97个有效被试家庭包括426位被试，其中小学生98人 $( M = 9 . 7 7 \\pm 1 . 4 5$ 岁，50位男生)、父母173人 $( M = 4 1 . 7 \\pm 4 . 6 8$ 岁，79位男性)和祖辈155人 $( M = 6 8 . 6 2 \\pm 6 . 5 8$ 岁，79 位男性)。52个家庭共 227名被试参与接受反应模式决策，45个家庭共199位被试参与拒绝反应模式决策。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2实验设计、实验材料及实验程序",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "实验设计、实验材料及实验程序等和实验1一致，除了实验2以同个家庭的三代人为施测对象。实验完成后赠送每个家庭礼品一份。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3结果和讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以反应模式(接受/拒绝)、决策者角色(小学生/父母/祖辈)为组间自变量,课程类型(基础课/拓展课)为组内自变量，选择课程数量为因变量，进行多因素重复测量方差分析。同实验1结果类似，反应模式的主效应显著(见图5)，被试在拒绝反应模式下选择更多课程， $F ( 1 , 4 2 0 )$ $= 2 8 3 . 2 1 \\$ ， $\\eta ^ { 2 } = 0 . 4 0$ ， $p < 0 . 0 0 1$ ；课程类型的主效应显著，被试选择的拓展课平均数量显著多于基础课, $F ( 1 , 4 2 0 ) = 5 2 . 9 2 , \\eta ^ { 2 } = 0 . 1 1 , p < 0 . 0 0 1$ ；决策者角色的主效应显著， $F ( 2 , 4 2 0 ) = 1 1 . 1 1$ ，$\\mathfrak { \\eta } ^ { 2 } = 0 . 0 5$ ， $p < 0 . 0 0 1$ ，父母组平均选课最多 $( M = 5 . 0 9 )$ ，其次是祖辈组 $( M = 4 . 3 6 )$ ，小学生组最少 $( M = 4 . 0 5 )$ 。反应模式和课程类型交互作用显著， $F ( 1 , 4 2 0 ) = 5 . 6 9$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 1$ ， $p = 0 . 0 1 8$ 。简单效应分析发现，同实验1一致，被试在接受 $[ F ( 1 , 4 2 0 ) = 5 0 . 1 8 \\$ ， $p < 0 . 0 0 1$ ， $\\mathfrak { n } ^ { 2 } = 0 . 1 1 ]$ 和拒绝反应模式下 $[ F ( 1 , 4 2 0 ) = 1 1 . 1 7$ ， $p = 0 . 0 0 1$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 3 ]$ 均选择更多拓展课，且同接受反应模式(0.91门)相比，被试在拒绝反应模式下选择基础课与拓展课的数量差异(0.53门)显著减小(见图6)。课程类型和决策者角色，以及反应模式、决策者角色和课程类型三因素均无显著交互",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/045f1013b0da796d341d33b99012de97b1296d131fe1d3d3f52cbc95623c33bd.jpg",
+        "img_caption": [
+            "图5同一家庭被试在不同反应模式下选择的课程数量(实验2)"
+        ],
+        "img_footnote": [
+            "注：误差线为标准误"
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf1669eb7c14b8b1004137afd69333d9c6827bd2b0ff95403871fa456462c0b9.jpg",
+        "img_caption": [
+            "图6被试在不同反应模式下对不同类型课程的选择(实验2)"
+        ],
+        "img_footnote": [
+            "注：误差线为标准误"
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "通过卡方检验进一步分析被试在不同反应模式下对课程类型的偏好比例变化。结果发现，被试在接受反应模式下选择的基础课占总选课程的 $3 5 \\%$ ，而在拒绝反应模式下该比例显著上升到 $4 6 \\%$ ， $\\chi ^ { 2 } \\left( 1 \\right) = 2 1 . 7 4$ ， $\\scriptstyle { \\varnothing = 0 . 1 1 }$ ， $p { < } 0 . 0 0 1$ 。即在拒绝反应模式下，被试对基础课的偏好比例显著提升，对拓展课的偏好比例相对下降，拓展课和基础课的偏好分布趋于均衡，符合预期假设。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "与实验1结果几乎一致，实验2同样验证了通过操纵反应模式，可以提高人们对基础课的关注和选择，最终均衡选择拓展课和基础课。两个实验一致发现父母组比其他两组选择了更多课程，可能是因为父母期望孩子通过课外辅导在学校教育外得到更多补充。与实验1不同的是，实验2中各决策者角色对课程类型的偏好并无显著差异。尽管我们要求每位家庭成员单独完成实验任务，但实验场景仍可能影响家庭成员的感知和决策。当实验在小学生家庭内部进行时，家庭成员更容易感受到选课任务与自己的高相关度，即场景卷入度较高，从而导致三代人的选择呈现较高一致性。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "意外的是，两个实验均表明，天性爱玩的孩子同样显著受到反应模式效应的影响。同父母和祖辈类似，小学生在拒绝反应模式下选择更多课程，且增选更多基础课。这可能与小学生面临学业竞争有关。拒绝反应模式下，小学生更容易意识到基础课辅导带来的学业帮助，而学业成就带来的愉悦可能抵消学生参加基础课辅导的压力(彭湃，2008)，从而使小学生主动选择更多基础课。此外，由于小学生是课外辅导的直接体验者，对辅导内容、教学方式及自己的补课需求均更了解。换言之，拒绝反应模式可能唤起小学生主动学习的动机，让他们做出看似违背“天性”实则对长期发展有利的决策。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "那么，反应模式效应在现实课外辅导中有效吗？真的可以助推学生家庭均衡选择基础课和拓展课吗？为了验证反应模式助推课程均衡选择的生态化效度，我们实施了实验3，由于课程的报名人主要为学生父母，因此该实验的被试群体仅为小学生父母。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4实验3：反应模式影响小学生父母的课程决策的现场实验",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1被试 ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "118位广东省潮州市某区文化馆学生的课程报名人参与了现场实验，成功报名课程的学生于 2018年下学年按选定的课程上课。因学生年级不符(幼儿园及中学生)，删除10位无效",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "被试数据。108位有效被试均为小学生父母 $\\left( M = 3 8 . 0 4 \\pm 3 . 5 8 \\right.$ 岁，22 位男性)。55 名被试参与接受反应模式决策，53位被试参与拒绝反应模式决策。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2实验设计",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "2(反应模式：接受/拒绝) $\\scriptstyle 1 \\times 2$ (课程类型：基础课/拓展课)的混合设计。其中，反应模式为组间变量，课程类型为组内变量，因变量为被试选择的课程数量。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3自变量的操作检验 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3门基础课和3门拓展课的筛选和评定步骤如下。首先，在文化馆新学年拟开设的课程中，选择6门市场上较常见的小学生课外辅导课程。其次，邀请20位被试对6门课程类型进行5点评价（ $1 { = }$ 基础课 $\\scriptstyle 5 =$ 拓展课)。结果表明，书法课、美术课及合唱团3门课程的得分均值都显著大于3，即拓展课属性显著；语文作文辅导、数学辅导及英语辅导3门课程的得分均值都显著小于3，即基础课属性显著。说明实验3有效设定了课程类型(详细数据见附录表2)。由于本实验与实验1中所使用的具体课程名称有所不同，因此再次做了操纵检验。我们采用与实验1相同的特征维度评定和分析步骤，邀请了50位小学生父母分别对本实验中的6门课程的4个特征维度进行评定。结果显示，拓展课在趣味性体验 $[ M _ { \\mathrm { ☉ H \\Xi } } = 4 . 8 2$ ， $\\mathcal { M } _ { \\sharp ; \\sharp 1 , \\sharp } = 4 . 3 3$ ， $F ( 1 , 4 9 ) = 7 . 2 5 , \\eta ^ { 2 } =$ 0.13, $_ { p = 0 . 0 1 ] }$ 、多样化程度 $[ M _ { \\mathrm { \\# G \\# } } = 4 . 6 9$ ， $/ k _ { 1 \\pm \\sqrt { 1 1 } } { = } 4 . 2 9$ $F ( 1 , 4 9 ) = 4 . 4 4$ ， $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 8$ ， $p = 0 . 0 4 ]$ 维度上的积极特征均比基础课更突出，而在促进升学考试 $[ M _ { \\mathrm { \\# } , \\mathrm { \\# } } = 3 . 7 7$ ， $\\mathcal { M } _ { \\oplus \\oplus \\oplus \\oplus } = 5 . 4 4$ ， $F ( 1 , 4 9 ) = 3 4 . 9 8 \\$ ， $\\ \\eta ^ { 2 } =$ 0.42, $p < 0 . 0 0 1 ]$ 、系统知识掌握 $[ M _ { \\mathrm { \\# G \\# } } = 4 . 0 1$ ，M $_ { \\sharp } \\underline { { = } } 5 . 0 1$ $F ( 1 , 4 9 ) = 2 4 . 1 3 , \\ : \\eta ^ { 2 } { = } 0 . 3 3 , \\ : p \\ : { < } 0 . 0 0 1 ]$ 维度上的消极特征均比基础课更突出(见图7)。操纵检验的结果再次表明：将拓展课对应于“特征突出”的选项，将基础课对应于“特征平均”的选项是相对可接受的。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.4实验程序",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/031911fc9eafa0e6a5dffe8159ba4733101301101b3180ad8c8f9a65e7bb06ec.jpg",
+        "img_caption": [
+            "图7基础课和拓展课在不同维度上的积极与消极特征评分(实验3)",
+            "接受反应模式",
+            "1、请在您要报读的课程前打√（在读的课程也选上）不报读请跳过 "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "首先告知准备在文化馆上课的学生家长，可提前报名2018年下学年部分课程，报名方式为现场报名。家长在报名表上浏览6门课程名称并完成选课任务，然后填报人口学信息，并完成其他报名手续(由于文化馆的课程免费向市民开放，故不存在缴纳费用环节)。选课任务分接受和拒绝反应模式两个版本(见图8)，每个反应模式各有6种课程随机排序版本，每位被试随机获取一种反应模式的报名表。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "□书法课 □英语辅导 □合唱团□美术课 □语文作文辅导 □数学辅导",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "拒绝反应模式",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "1、请在您不想报读的课程前打X不删减任何课程请跳过",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "□合唱团 □书法课 □英语辅导$\\sqsubseteq$ 语文作文辅导 □数学辅导 □美术课",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "图8不同反应模式下的选课任务(实验3)",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.5结果与讨论",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "以反应模式(接受/拒绝)为组间自变量，以课程类型(基础课/拓展课)为组内自变量，以被试选择的课程数量为因变量，进行双因素重复测量方差分析。同前两个实验的结果类似，反应模式的主效应显著(见图9)，被试在拒绝反应模式下选择更多课程， $F ( 1 , 1 0 6 ) = 4 7 . 7 1$ ， $\\ \\eta ^ { 2 } =$ 0.31, $p < 0 . 0 0 1$ ；课程类型的主效应显著，被试选择的拓展课显著多于基础课， $F ( 1 , 1 0 6 ) = 4 1 . 5 5$ $\\mathfrak { \\eta } ^ { 2 } = 0 . 2 8 , p \\ < 0 . 0 0 1$ 。反应模式和课程类型交互作用显著， $F ( 1 , 1 0 6 ) = 1 0 . 1 5$ $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 9$ $p = 0 . 0 0 2$ 。简单效应分析发现，被试在接受和拒绝反应模式下均选择更多拓展课；不同的是，接受反应模式下被试选择基础课与拓展课的数量差异较大 $( 0 . 8 3 \\dot { | } \\big ] \\rangle$ ， $F ( 1 , \\ 1 0 6 ) = 4 7 . 2 7$ $p { < } 0 . 0 0 1$ ， $\\boldsymbol \\eta ^ { 2 } =$ 0.31，拒绝反应模式下选择基础课与拓展课的差异显著减小 $( 0 . 2 8 \\dot { | } \\dot { } ] \\dot { }$ ,， $F ( 1 , 1 0 6 ) = 5 . 2 2$ ， $p =$ 0.024, $\\mathfrak { \\eta } ^ { 2 } = 0 . 0 5$ 。",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c9db2b31bcd3f0c5da97e3a4006265815f4e921c2c776a209fa2e876ba357ec.jpg",
+        "img_caption": [
+            "图9被试在不同反应模式下选择的课程数量(实验3)"
+        ],
+        "img_footnote": [
+            "注：误差线为标准误"
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "用卡方检验进一步分析被试在不同反应模式下对课程类型的偏好比例变化。结果显示，被试在接受反应模式下选择的基础课数量仅占总选课程的 $1 7 \\%$ ，而在拒绝反应模式下该比例显著上升为 $44 \\%$ ， $\\chi ^ { 2 } ( 1 ) { = } 1 3 . 8 8$ ， $ \\theta = 0 . 2 7$ ， $p { < } 0 . 0 0 1$ 。即是说，被试在接受和拒绝反应模式下均偏好拓展课，但在拒绝反应模式下，对基础课的偏好比例显著提升，对拓展课的偏好比例相对下降，基础课和拓展课的偏好分布趋于均衡，符合预期假设。",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "实验3在真实场景中考察了反应模式对消费者课程选择的影响。小学生父母在接受反应模式下选择的拓展课比例具有压倒性优势 $( 8 3 \\% )$ ，而在拒绝反应模式下呈现出拓展课 $( 5 6 \\% )$ 和基础课 $( 4 4 \\% )$ 平分秋色的趋势。与前两个实验结论一致，实验3中被试在接受和拒绝反应模式下均偏好拓展课，但在拒绝反应模式下对基础课的偏好显著提升，基础课和拓展课的偏好差异减小。如图9所示，被试在拒绝反应模式下比接受反应模式下平均多选一门课程，而这门课程几乎就是基础课。也就是说，被试在拒绝反应模式下增选了基础课，从而选择了数量相当的拓展课和基础课。可见，调整反应模式助推了小学生父母对基础课的关注和选择，实现基础课及拓展课均衡发展。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5总讨论",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "本研究分别在实验室(实验1和2)和真实场景(实验3)中探讨不同反应模式下人们对基础课和拓展课的决策差异，确定了反应模式在现实中对学生课外辅导选择的助推作用，验证了反应模式效应的稳健性及在儿童教育消费场景中的现实适用性。同以往反应模式效应的结果一致(Levin et al.,2002; Peng et al.,2016; Pornpitakpan,2009;黄元娜等,2018;金立印等,2009;马京晶，马欣昕，张黎，2008)，本研究发现小学生、父母和祖辈三代人在拒绝反应模式下均比在接受反应模式下选择更多课程；明确了三代人虽在接受和拒绝反应模式下均偏好拓展课，但在拒绝反应模式下对基础课和拓展课的选择数均相对增加，但对拓展课的选择比例相对减少，两种课程的选择趋于均衡。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "现有反应模式的研究主要应用于二选一或多选一情境，本研究将其应用于多选多情境，有效拓展了现有反应模式效应研究的范畴(Parket al.，2000；Peng et al.，2016；Sokolova&Krishna,2016)。本研究发现，人们在拒绝比在接受反应模式下选择了更多课程。依据普遍存在的参考依赖及损失厌恶现象，人们以结果偏离参照点的程度作为得失双方的判断标准(Parketal.,2000；李鹏娜，王延伸，杨金花，孙彦，2017)。在接受反应模式下以不选任何课程为参考点，选择更少以规避金钱损失；而在拒绝反应模式下以选择全部课程为参考点，保留更多课程以规避效用损失。另一种可能性是锚定效应(anchoring effects)的影响，即人们的判断受到初始呈现数值的影响。在接受反应模式下人们内心的锚值为0门课，但在拒绝反应模式下该锚值分别为10或6门课，人们参照锚值进行调整，但调整不充分导致选择结果接近锚值(Tversky&Kahneman，1974)。因此在接受反应模式下选择更少课程，而拒绝反应模式下选择更多课程1。",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "三个实验均发现，人们在接受反应模式下更偏好拓展课，在拒绝反应模式下对拓展课的偏好减弱，但对基础课的偏好增加，两种课程的选择差异减少，偏好分布趋于均衡，与反应模式效应(Shafir,1993)的预期假设相符。我们猜测，这是因为课外辅导与学校课程互补的特点是个“双面硬币”：一面是积极的“得到”，小学生得以有更多趣味性体验，得以学习多样化的课程；一面是消极的“失去”，小学生相对减少了与升学考试关系更密切的课程学习机会，相对降低了系统知识掌握的程度，这对于既希望孩子学业成绩好，又希望孩子全面发展的家长而言，是两难的抉择。同基础课相比，拓展课的趣味性更高、科目内容更多样化，其积极特征更突出，与接受反应模式兼容性更强，因此人们在接受反应模式下更容易选择拓展课。然而，拓展课“泛而不精”，不利有效地促进学生系统深入地掌握知识，其消极特征也更突出，与拒绝反应模式的兼容性更强，因而人们在拒绝反应模式下也更容易拒绝拓展课。利用人们在拒绝反应模式下会更拒绝消极特征突出的拓展课(对消极特征突出的拓展课的偏好减少)的特点，我们即可助推人们相对增加对特征表现平均的基础课的选择，实现基础课与拓展课均衡的选择。",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "这些重要发现验证了在现实教育场景中，无需更改原有课程内容，仅以调整反应模式这种低成本、易操作的方式，即可促使学生家庭充分权衡，将关注点从拓展课延伸到基础课，助推基础课和拓展课均衡发展。值得注意的是，课外辅导中是否均衡选择基础课和拓展课，需根据现实情况灵活调整。如小学生在学校已很好掌握了基础课内容，在课外辅导中选择基础课则可能不明智²；如果小学生认为基础课辅导更能满足自身的个性化需求，有意愿参与，则可鼓励孩子参与。教育的最终目标是“引出”，因材施教，引出其兴趣和天分，激发其潜能，促其最优发展，最终使其拥有自我实现的能力。因此，基础课和拓展课的平衡发展应按需而行。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本研究通过行为实验初步考察了儿童教育领域中反应模式对课程偏好决策的影响机制，存在一些不足，值得未来研究探讨。首先，未来研究可采用眼动追踪、事件相关电位和功能性磁共振成像等多种技术手段，深入探讨反应模式效应的发生机制。其次，如果以同样包括基础课和拓展课的学校教育体系为研究场景，是否仍得出类似结论？现在很多学校采用课程选修制，若假设成立将对助推学生的学科均衡发展起重要作用。第三，本研究的操纵检验(课外辅导课程的类型确定及特征评价)被试均为小学生家长，样本代表范围有局限性，检验得出的结论是否可推广至其他群体(例如小学生自身等)仍需进一步探讨。第四，本文未考察就读年级、家庭经济水平、地域等可能调节反应模式和课程偏好关系的变量。这些重要而有趣的科学研究值得深入探讨，将为儿童教育决策提供理论价值和科学指导。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "本文验证了反应模式效应适用于儿童教育决策领域，聚焦小学生选择课外辅导的现实热点问题，为儿童教育研究提供了跨领域的理论线索。更重要的是，我们用现场实验证明，无需更改原有选项，仅调整反应模式这种简单易行的方式，即可助推小学生家庭关注并选择更多基础课，促进基础课和拓展课均衡选择。这种反应模式效应在实验室及真实的课外辅导场景中均能影响课程选择，可为儿童教育者及学生家庭提供科学指导，有重要的现实指导意义。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢李纾研究员、沈丝楚博士和栾胜华研究员对本文多次的悉心指导。感谢梁兴丽和王晨茜对本文数据分析提供的建议。感谢黄婉芳和袁娟娟协助收集实验一数据，感谢杨雨衡、王熠柯和刘潇协助收集实验二数据，感谢广东省潮州市湘桥区文化馆协助收集实验三数据。",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \nBenartzi,S.,shars,,anK.Lste,C.arR.aka.aig,.().oldgovtst more in nudging?Psychological Science,28,1041-1055.   \nBertini,M.,Ofek,E.,&Dan,A.(2o9).Theimpactofadd-onfeaturesonconsumerproductevaluations.JournalofConsumer Research,36(1),17-28.   \nChapman,G.B,Li,M,Coby,H.,&Yoon,H.(ol).Optinginstingoutofinfluenzavaccination.TheJournalofteAmrican Medical Association,304,43-44.   \nChen,J,&octo..).olefcatioeectejetiosfrintJolfExprmetaloy General,146(4),543-568.   \nChen,X.(2O4).Conflictandcoperation:Astudyoftheelationshipbetweeneducationalinstitionsndshools(Uublishd master's thesis). Nanjing Normal University.   \n[陈晓陆.(2014)．冲突与合作：辅导机构与学校的关系研究(硕士学位论文)．南京师范大学.]   \nDhar,R.,&Wertebroch,K.(o).Consumrhicebetweendonicndutilitariangoods.JoualofarketingReearch(), 60-71.   \nGoldstein,D.GJoson,E.J,a,.&eia,.8).udgeourstorstowardbeterices.adsin Review,86(12),99-106.   \nFu,H,(2014).Problesandeflectionsonthemarketoffterschooltutoringmarketinprimaryndsecondaryshools (Unpublshd master'sthesis).apitaloral Uiversityeiing.   \n[付洪秀.(2014)．中小学课外辅导市场存在的问题及其反思(硕士学位论文)．首都师范大学,北京.]   \nHuang，D.(2O15).Scholextracuriculartrainingmarketregulationresearch (Unpublishedmaster'sthesis).Guangxi Normal University.   \n[黄笛.(2015)．公共管理视域下的中小学课外培训市场规制研究(硕士学位论文).广西师范大学.]   \nHuang,Y.,Song,X,hao,Y.Li,S.,&Liang,Z.(o18).Nudging:Defaultoptioneffectandresponsemodepromoteorgandoor registry participation in China. Acta Psychologica Sinica, 50(8),868-879.   \n[黄元娜，宋星云，邵洋，李纾，梁竹苑.(2018).以小拨大：默认选项和反应模式效应助推中国器官捐献登记.心理学报， ${ \\it 5 0 ( 8 ) }$ ， 868-879.]   \nJi,L.(05).ComprsoadosideationofteftersooltutoringiprarydsecondaryhoolsinaouthKaJan andEuropean Union.JournalofBeijingInstituteofEducation,29(3),67-72.   \n[季林飞.(2015).中、韩、日、欧盟中小学课外教育的比较与思考.北京教育学院学报,29(3),67-72.]   \nJin,L.Zou,D,&iuL.().eectotiofrngsueroiceiicstoatiootext.Nkaisin Review,12(6),90-100.   \n[金立印，邹德强，裘理瑾.(2009).服务定制情境下选项的战略呈现：呈现框架对消费者选择的影响.南开管理评论,12(6),90-100.] ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Kaheman,Desch,,aer.H).oas:eontectssversiodasaslf Economic Perspectives,5(1),193-206. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Levin,I.P.,hebr,J,riola,&GethG.J.).Ataleoftoas:dingufrobsicprodctvessalingdo froma fully-loaded product. Marketing Letters,13(4),335-344.   \nLi,M.,Sun,Y.&Chen,H.(inres).Tedcoectsdge:Bootigndieneithorsetionsyhogialcience https://doi.0rg/10.1177/0956797618761374   \nLi,P.Wang,YYang,J,&SunY.).Apicationofbehavioraldecisionthoryieeryconseationmanagement.Joalf Psychological Science,40(3),760-765.   \n[李鹏娜，王延伸，杨金花，孙彦.(2017).行为决策理论在能源节约管理中的应用．心理科学，40(3),760-765.]   \nLi,S.(2016).Neither \"carrot\"nor\"stick\":Anewshortcut tonudge social development.Management Insights,6,92-96.   \n[李纾.(2016)．既非\"胡萝卜\"也非\"大棒\"：助推社会发展的一条新捷径．管理视野,6,92-96.]   \nLiu,J.,&BrayM. (2O17).DeterminantsofdemandforprivatesupplementarytutoringinChina:Findingsfromanationalsurvey. Education Economics,25(2),205-218.   \nLiu,W.(2002).Layingafoundation forthelifelongdevelopmentof students—buildinganewcuriculumsystemwithelegant characteristics.Hunan Education，15，33-34.   \n[刘维朝．(2002)．为学生的终身发展奠基—全面构建有雅礼特色的课程新体系.湖南教育，15，33-34.]   \nLiu,Y.,Polman,E,Li,Y.&Jia,J.(l8).ChoosingforthrsditsationtoforatiosarchOrgazationalevior Human Decision Processes,147,65-75.   \nLiu,Y.,Wang,P.,Zhuang,J.,Zhong,J.,Sun,Q.,&Liu,Y.(014).Self-otherdierencesindecision-making:Questions,udiesand reflection.Advances in Psychological Science,22(4),580-587.   \n[刘永芳，王鹏，庄锦英，钟俊，孙庆洲，刘毅．(2014)．自我-他人决策差异:问题、研究与思考．心理科学进展， $ { \\mathcal { Z } }  { \\mathcal { Z } } ( 4 )$ ， 580-587.]   \nLiu,Y.,&Sun,Y.(014).Newavenuesforframingefctresearchindecision-making:Fromisktointertemporalandfroverbal to graph framing.Advances in Psychological Science，22(8),1205-1217.   \n[刘扬，孙彦.(2014).行为决策中框架效应研究新思路——从风险决策到跨期决策,从言语框架到图形框架.心理科学进展，22(8), 1205-1217.]   \nLu,J.,&Sang,X.ol8).Makingdeciionsfoothes:Multi-dimesioalpsyhologicalmechanissanddecisionfeings.Advances in Psychological Science,26(9),1545-1552.   \n[陆静怡，尚雪松.(2018).为他人做决策:多维度心理机制与决策体验．心理科学进展,26(9),1545-1552.]   \nMa,J.，Ma,X.，&Zhang，L.(20o8).Preferenceasymmetrybetweenutilitarianandhedonicproductsinacquisitionand forfeiture——compact discversus music CD.Journal of Marketing Science，4(1),107-119.   \n[马京晶，马欣昕，张黎.(2008).选择与放弃中对产品实用性和享乐性的不同偏好——以电脑光盘和音乐cd 为例.营销科学学 报,4(1),107-119.]   \nMark,B.,&Ora,K.Ol3).Behindthefacadeoffe-freeeducation:Sadoweducationnditsimpicationsforsocialjustice.Oford Review of Education,39(4),480-497.   \nMourali,M,&gal,A.(3).epowerfuct,poweseject:Powr'seneindciotrates.Joualofusi Research,66(7),874-880   \nPark,C.W.,Jun,.Y,&aInis,D.J.(O).ChoosingwhatIantversusrejectingwhatIdootwant:Aaplicationofdecio framing to product option choice decisions. Journal of Marketing Research,37(2),187-202.   \nPeng,H.,Xia,S.uan,F.,&u,B.(l6).Agedirencsincosumerdecisiomakingunderoionframing:Fromtheoitio perspective. Frontiers in Psychology,7:1736.   \nPeng,P.(oo8).Shadoweducation:Foreignresearchonprivatetutoringanditsinspiration.ComparativeEducationReview1,61-65.   \n[彭湃.(2008).\"影子教育\"：国外关于课外补习的研究与启示.比较教育研究,1,61-65.]   \nPolman,E.(2Ol2).EfectsofselfotherdecisionmakingonregulatoryfocusandchoiceoverloadJournalofPersonalitydocial Psychology,102(5),980-993.   \nPolman,E.().ftiosttiihkigoalofxpritalialhog6()44   \nPorpitakpan,C.(2oo9).Cross-culturalgeneralizationoftheefectofoptionchoiceframingnproductoptionchoices.AsiaPacific Journal of Marketing and Logistics,21(3),342-354.   \nShafir,E.(1993).Choosing versusrejecting:Whysomeptionsarebothbeterand worsethanothers.Memory&Cognition,21(4), 546-556.   \nShen,J.,&Xie,L.(2ool).Ontherejuvenationofthevitalityofresearchbasedcuriculum—alsoontherelationshipbetwen research-basedcurriculumandfoundationnderichmentcurriculum.Cuiculum,TeachingMaterialandMthod,0,-5.   \n[沈建民，谢利民.(2001).试论研究型课程生命活力的焕发— -兼论研究型课程与基础型课程、拓展型课程的关系.课程.教材.教 法,10,1-5.]   \nSokolova，T.，&Krishna，A.(2016).Takeitorleaveit:Howchoosingversusrejectingalternativesaffectsinformation processing. Journal of Consumer Research,43(4),614-635.   \nSunstein，C.R.，&Reisch，L.A.(20l4).Automaticallygreen:Behavioraleconomicsandenvironmentalprotection.Harvard Environmental Law Review,38,127-158.   \nThaler,R.H.,&Benarti,S.(o4).SavemoretmorrowusingbehaviralconomcstoincreaseemploysvingJoualofoliical Economy,112(S1), S164-S187.   \nThaler,R.H.,&Sunstein,C.R.(20o8).Nudge:Improvingdecisionsbout heal,wealthnd happiness.NewHaven,CT:Yale University Press.   \nTrope,Y.,&Liberman,N.(2003).Temporal construal. Psychological Review,110(3),403-421.   \nTversky,A.,&Kahneman,D.(1974).Judgmentunderuncertainty: Heuristicsandbiases.Science,85(4157),124131.   \nTversky,A.,&Kahneman,D.(1981).The framingofdecisionsandthepsychologyofchoice.Science,211(4481),453-458.   \nTversky,A.,atathS,&lovic,P.(988).Contingent weightingijudgmentandcoice.PsychologicalRevie95,7384.   \nWang,W.(2O02).The natureandofferingsofenrichment currculum.Research ofModern Basic Education,4,61-65   \n[王维臣.(2002)．拓展课程的定位与设置——国外经验的启示.现代基础教育研究,4,61-65.]   \nWu，Q，&Yu，Y.(2011).Extra-curicularselectionforprimaryschoolstudentsfromurbanfamilies——aconsumption perspective.Journal of Xuzhou Normal University (Educational Science Edition),4,49-52.   \n[伍青生，俞晔.(2011).城市小学生家庭课外教育选择行为特征——基于消费视角的研究.徐州师范大学学报(教育科学版)， 4,49–52.]   \nXue,D.(2O18).Acomparativestudyofshadoweducation inChinaand Singapore (Unpublished master'sthesis).Shangxi Normal University.   \n[薛丹.(2018).中国与新加坡影子教育的比较研究(硕士学位论文)．陕西师范大学.]   \nXue,H.(2015).Fromscholeducationtoshadoweducation:Educationcompetionandsocialreproduction.PekingUniversity Education Review,13(3),47-69.   \n[薛海平.(2015).从学校教育到影子教育：教育竞争与社会再生产．北京大学教育评论,13(3),47-69.]   \nYao,J.,Liu,J,&GaoC.(l6).Researcheimpactofprodctatbutesevauabilturcaseecisio:Moderatigcsf involvement.Nanjing UniversityofFinance& Economics,6,84-91.   \n[姚杰，刘俊杰，高成.(2016).产品属性评估性对选购决策的影响研究:卷入度调节作用.南京财经大学学报，6,84-91.]   \nYuan,S.,ZhangX,&Duan,Y.(ol7).Analysisoftheifeningfactorsonthedecisiomakingprocessoffmildres training based on the ISM model and AHP-entropy method. Chinese Journal of Systems Science,25(4),94-100.   \n[袁胜军，张新阳，段亚丽.(2017).基于 ISM 和 AHP-Entropy 的家庭儿童培训消费决策影响因素研究．系统科学学报,25(4), 94–100.]   \nZhang,I,eJang.gXug.i)itactsdee review and future directions.Advances in Psychological Science,26(10),1711-1723.   \n[张爱荣，陈俊芳，匡仪，王晓明，吴小菊，杨舒雯.,.李纾.(2018).环境和生态意识催生的社会许可问题：缘起与应对.心理科学 进展,26(10),1711-1723.]   \nZhang,B.(2017).Shadoweducationandtheculturalreproductionofchina newmidleclasesspeaking fromBourdieu’s heoryof cultural capital. Theory &Practice of Education,37(22),17-20.   \n[张冰.(2017).“影子教育”与中国“新中间阶层”的文化再生产——从布迪厄的文化资本理论说开去.教育理论与实践,37(22), 17-20.]   \nZhang,G.,&Zhang,M. (2O16).Goalframingefectsonthepurchasingdecisionoftourismservices incustomizationscenarios.ourism Tribune,31(1),57-67.   \n[张广宇，张梦.(2016)．定制化情境下旅游服务购买决策的目标框架效应.旅游学刊,31(1),57-67.] ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Accept or Reject? The Nudge Effect of Response Options on Making a Balanced Choice between Enhancement and Enrichment Classes ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "LIU Jun1,2; ZHANG Zhen1,2; SUN Yan23; HAN Bu-Xin12; LU Qin4; LIU Ping-Ping1,2 (l CASKey Laboratory of Mental Health,Institute of Psychology,Beijing lO0101,China)   \n(² Department of Psychology, University of Chinese Academy of Sciences, Beijing 1Oo049,China) ( CASKey Laboratory of Behavioral Science,Institute of Psychology,Beijing lOol01, China) (4 Department of Computing,The Hong Kong Polytechnic University, Hong Kong, China) ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "In recent years, extracurricular classes have always been hot topics of research in areas such as Education, Economics and Sociology. Taking extracurricular classes have become an important part of student lives.There are two types of curricula for students: (1） the enhancement classes which aim to improve the learning abilities and academic performance; (2) the enrichment classes which focus on developing the comprehensive abilities, such as interests and specialties. Recent studies have shown that enrichment classes of various kinds are much more popular than enhancement classes targeted for improvement of academic performances.Primary school students and their parents tend to choose enrichment classes which are more enjoyable than enhance classes which have long-term benefit academically. How can we achieve the balance in choosing between the two types of curricula? Guided by the theoretic framework of the Nudge Effect of the two response options - Accept and Reject, this work explores the task-type effect of accept and reject as diferent options to influence the selection of different types of classes through three experiments. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Experiment 1 observes the difference in class selection strategy categorized by generations as three groups (students/parents/grand-parents) of different families under the two response options. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Experiment 2 observes the difference in class selection strategy by three generations of the same family under the two response options.The design and procedures of the two experiments are similar except participants are invited under the laboratory scenario. It adopts a 2 (response options: accept/reject; between-subjects variable) $\\times ~ 2$ (curricula types: enhancement classes / enrichment classes;within-subjects variable) $\\times ~ 3$ (types of decision makers: primary school students / primary school parents $/$ grandparents; between-subjects variable) mixed design.Results show that (1） people in the parent group tend to select more classes than that of both the student group and the grand-parent group; (2) all three groups tend to select more enrichment classes than academic enhancement classes no matter which response option is used; and (3) when comparing the two response options,all tree groups tend to select more number of classes under the reject option.More specifically,under the reject option, people tend to select more enhancement classes relatively than that in the accept option.However, under the reject option, the differences between enrichment classes and enhancement classes are narrowed，which means the selection of enrichment classes and academic enhancement classes are more balanced under the reject option. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Experiment 3 is conducted as field studies to directly talk to people who are submitting applications for extracurricular classes to see whether the use of different response options can indeed influence their decision making on the spot.It adopts a 2 (response options: accept/reject; between-subjects variable) $\\times ~ 2$ (curricula types: enhancement classes / enrichment classes; within-subjects variable） mixed design.Consistent with those results of Experiment 1& 2,Experiment 3 shows that parents tend to select more classes in the rejection response condition than in the acceptance response condition. Participantsalso tend to select enrichment classes in both response conditions.However， their preference to enhancement classes in the rejection response condition was significantly higher than that in the acceptance response condition. All the three experiments show that the rejection response option has a significant boost to a more balanced selection of primary school parents. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "This study successfully proved that the use the reject option is also applicable to decision making strategies of child education. The result of this work can serve as a direct reference to both educators as well as student families when making choices on extracurricular classes. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Key words response options； nudging； extracurricular classes； curricula types； decisionmakers",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "附录",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/1df0e5b804e5a3dde0a41f88e7cefb1b49bd261a18e8f5d095e7a2e70475353a.jpg",
+        "table_caption": [
+            "表1实验1和实验2课程类型控制的分析结果"
+        ],
+        "table_footnote": [
+            "注：t(19)中，19为自由度； $\\ast \\ast \\ast$ 代表 $p { < } 0 . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>课程类型</td><td>课程名字</td><td>M</td><td>SD</td><td>t(19)</td></tr><tr><td>拓展课</td><td>儿童情商课</td><td>4.95</td><td>0.22</td><td>39.00***</td></tr><tr><td rowspan=\"8\">基础课</td><td>素质体能</td><td>4.80</td><td>0.70</td><td>11.57***</td></tr><tr><td>语言艺术</td><td>4.60</td><td>0.75</td><td>9.49***</td></tr><tr><td>思维逻辑</td><td>4.85</td><td>0.37</td><td>22.58***</td></tr><tr><td>创意美术</td><td>5.0</td><td>0</td><td></td></tr><tr><td>语文作文</td><td>1.4</td><td>0.60</td><td>-11.96***</td></tr><tr><td>数学冲刺</td><td>1.45</td><td>0.51</td><td>-13.58***</td></tr><tr><td>语文阅读</td><td>1.20</td><td>0.52</td><td>-15.39***</td></tr><tr><td>数学基础</td><td>1.15</td><td>0.49</td><td>-16.91***</td></tr><tr><td></td><td>英语基础</td><td>1.3</td><td>0.57</td><td>-13.31***</td></tr></table></body></html>",
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/1bc9cb9e37c9fe3bdcd4c8ba487a9b851032c7fad8c9c43dfd4a39b8cf40cc91.jpg",
+        "table_caption": [
+            "表2实验3课程类型控制的分析结果"
+        ],
+        "table_footnote": [
+            "注：t(19)中，19为自由度；\\*\\*\\*代表 $p { < } 0 . 0 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>课程类型</td><td>课程名字</td><td>M</td><td>SD</td><td>t(19)</td></tr><tr><td>拓展课</td><td>书法课</td><td>4.75</td><td>0.44</td><td>17.62***</td></tr><tr><td rowspan=\"5\">基础课</td><td>美术课</td><td>4.80</td><td>0.41</td><td>19.62***</td></tr><tr><td>合唱团</td><td>4.65</td><td>0.49</td><td>15.08***</td></tr><tr><td>语文作文辅导</td><td>1.30</td><td>0.57</td><td>-13.31***</td></tr><tr><td>数学辅导</td><td>1.20</td><td>0.52</td><td>-15.39***</td></tr><tr><td>英语辅导</td><td>1.35</td><td>0.59</td><td>-12.57***</td></tr></table></body></html>",
+        "page_idx": 29
+    }
+]

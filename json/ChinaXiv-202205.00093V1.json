@@ -1,0 +1,683 @@
+[
+    {
+        "type": "text",
+        "text": "基于注意力网络的情感分析中的对比句处理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张蓉1,2†，刘 渊²，李阳1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.江苏信息职业技术学院 物联网工程学院，江苏 无锡 214000;2.江南大学 人工智能与计算机学院，江苏无锡214000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：方面级情感分析旨在确定评论中对特定方面的情绪极性，但目前较少研究复杂句对情感分类的影响。基于此，提出了一种基于BERT和带相对位置自注意力网络的方面级情感分析模型。首先，通过动态加权采样方法平衡对比句稀缺的问题，使模型学习到更多的对比句特征信息；其次，利用双头自注意力网络提取带相对位置的特征表示，与预训练模型得到的带绝对位置的特征表示联合训练；最后，通过标签平衡技术对模型正则化处理，稳定模型对中性样本的辨识。该模型在 SemEval 2014Task4Sub Task2上进行实验，在两个数据集上的Acuracy和Macro-fl指标都有所提高。实验结果表明，该模型在对比句分类上是有效的，同时在整个测试集上分类也优于其他基准模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：方面级情感分析；对比句；注意力网络；BERT模型；相对位置编码中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2022.02.0052",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Handling contrastive sentences in sentiment analysis with attention network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Rong1,2†, Liu Yuan²,Li Yang1 (1.SchoolofInternetofngsEngineering,JangSuVocationalCollegeofInformationTechnology,WuXiJangsu1000, China; 2.SchoolofArtificial Intelligence & Computer,JiangNan University,WuXi Jiangsu 214000,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aspect-level sentiment analysis aims to determine thesentiment polarity towards specific aspect in reviews. However,litle research has been doneon the influenceofcomplexsentences onsentiment classification.Basedon this,this paper proposed an aspect sentiment clasification model based on Bertand Self-atention network with relative position. Firstly,itused thedynamic weighted sampling methodtobalance therarecontrastivesentences,sothat the modelcanlearn morecontrastive sentence feature information.Then,it jointlytrained the feature representations extracted bydouble-head self-atention network withrelative positionandthe featurerepresentations obtainedbythe Pre-trained model withabsolute position.Finaly,itusedthelabelsmoothingregularizationtechnologytostabilizethemodel toidentifytheneutralsamples. Ittested this model on Sub Task2 in SemEval 2014 task,and improved bothaccuracyand Macro-Flindicators of the two datasets.The experimental results showthatthe effectivenessof the proposed modelforcontrastivesentences classification, and also yield improvements in the whole test set over other benchmark models. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:aspect-level sentimentanalysis;contrastivesentences; atentionnetwork;bertmodel; relativepositionencoding ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文本情感分析可以帮助企业准确的分析用户对产品各个方面的评价，为企业制定详细产品更新策略提供有效参考意见。而且细粒度的情感分析方法，因其在对话系统、在线评论和社交网络等现实场景中的广泛应用而受到学术界和业界的关注和兴趣[1]。方面级情感分类(aspect-level sentimentclassification，ASC)[2]是一种细粒度的情感分析任务，它旨在确定一个句子中方面词的情感极性(例如：积极、消极、中性)。一个句子可能含有多个方面词，且每个方面词的情感极性可能不同，所以需要指定目标方面才能判断相应的情感极性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，深度学习通过构建神经网络自动进行学习提取特征，在情感分析领域展现出良好的性能[3]。基于BERT[4]等的预训练模型(Pre-trainedModels，PTMs)就是其中最先进的模型之一，已被证明在GLUE基准测试[5]上具有最先进的性能，包括文本分类。BERT是一个在维基百科大型文本语料库中预先训练过的语言模型，它特殊的结构允许对有监督的ASC等下游任务进行微调。虽然PTMs从大型语料库中获取一般语言知识，本身已经包含了很丰富的语法语义知识，但如何有效地将其知识适应下游任务仍然是一个关键问题[]。同时，由于维基百科文章内容客观陈述的多，而带情感的主观评论少，导致BERT模型对情感方面的内容学习不够；再加上通常用于ASC分析的数据集都只有少量的训练样本，使得原本就复杂的ASC任务依然面临着严峻的挑战[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "另外，ASC任务不仅缺乏带有标签的训练数据，还存在复杂句问题(例如对比情绪句、内隐情绪句和具有误导性的中性评论)，如表1所示，例如评论“airhas higher resolution butthe fontsaresmall.”，这个句子就存在两个个目标方面：“resolution”“fonts”，和相互对立的情绪极性：“higher”为积极，“small”为消极；在评论“The waiter poured wateron myhandandwalkedaway.”中并不包含情感词，但面向目标方面“waiter”很明显呈现消极；而评论“Theservicewastypical short-order,dinnertype.”表述非常隐晦，面向目标方面“service”情感极性为中性。以上这些复杂句都超出了现有模型的学习能力[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "该文通过进一步研究BERT作为预训练模型的不足和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ASC 数据集中复杂句(例如，不同方面具有不同极性的句子)的分布与特征，基于BERT-DK[7]，在采样、特征提取等方面优化与复杂句特征相关的微调技术。该文的主要贡献有：1)对验证集上的错误样本进行实证研究，系统总结易错样本的特征；2）提出了一种新的方面级情感分析框架，提高了复杂句和整个测试样本的分类性能；3）将利用注意力模块提取出带相对位置的特征表示，与BERT-DK模块提取出带绝对位置的特征表示联合训练，提升模型对位置信息的捕获能力；4）首次将加权随机采样应用于方面级情感分析中。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9f5aa7c0ff8d6eb2954f11a4620cc6abe38b73ff9048ae86a541c9af01b1a79.jpg",
+        "table_caption": [
+            "表1评论中复杂句示例",
+            "Tab.1Examples of complex sentences in reviews "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评论</td><td>复杂句类型</td></tr><tr><td>air has higher reso-lution but the fonts are small.</td><td>对比句</td></tr><tr><td>The waiter poured water on</td><td>内隐句</td></tr><tr><td>my hand and walked away.</td><td></td></tr><tr><td>The service was typical short-order, dinner type.</td><td>误导性中性句</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1方面级情感分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ASC 任务既可以单独训练，也可以和方面词提取(AspectExtraction,AE）任务一起联合训练[9,l0]。它需要关注每个具体方面的细微观点，因此相较于篇章级或句子级的情感分类任务更加复杂[I]。其中 ASC任务的小样本问题一直受到研究者的重视，通常采取两种解决途径：一种是通过模型优化，使其更擅于捕获语法、语义特征，例如：SunChi等人[2]通过对方面构造辅助句的方式将ASC任务从单个句子分类任务转换为语句对的分类任务，类似于机器问答和自然语言推理任务，通过对BERT预训练模型微调获得更佳性能。Karimi等人[13]利用对抗过程在嵌入空间中生成与真实世界的例子类似的数据，对情绪分析中的AE和ASC两个任务联合对抗训练，提出了BERT对抗训练(BAT)的新架构。另一种是通过辅助额外的情感字典或同领域语料库，例如：HeRuidan 等人[14]提出的PRET+MULT框架通过共享浅层嵌入和LSTM层的方式从亚马逊评论数据集上训练的文档级情绪分类任务的情感知识迁移到ASC任务。文献[7]通过使用额外特定领域的数据，提出一种后训练方法微调BERT模型从其源领域和任务适应到方面级情感分析领域和任务中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，最近基于神经网络的方法较少关注ASC数据集中包含复杂句的问题。 $\\mathrm { { X u H u } }$ 等人[15]用具体数据和实验结果证实ASC数据集中存在对比句且极其罕见(有多个方面且具有不同极性的句子称为对比句)，导致现有的 ASC分类器不能很好地学习这些对比句知识，从而“降级”为句子级的情感分类器。并提出了一种自适应重加权(ARW)方案，通过给每个训练样本分配一个代表训练重要性的权重，动态地将模型引导向强化对比句的样本训练上，有效地提高了对比句的样本分类。LiZhengyan 等人[l6]对内隐情绪句进行专门的研究，将ASC数据集划分为外显式情绪表达切片和隐式情绪表达切片，结果表明大约有 $30 \\%$ 的评论被划分为隐式情绪表达。通过在大规模情感注释的语料库上采用监督对比预训练引入外部情感知识来，将内隐情绪表达的表现与具有相同情绪标签的表现对齐，并采用方面感知微调来提高模型对基于方面的情绪识别的能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2调整样本权重",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大多数用于分类的机器学习算法都是在假设平衡类的情况下开发的，然而，在现实生活中，拥有适当平衡的数据并不常见。在自然语言处理任务中，也存在大量的类别不平衡的任务。最经典的就是序列标注任务中类别是严重不平衡的[7]，比如在命名实体识别中，显然一句话里边实体是比非实体要少得多，这就是一个类别严重不平衡的情况。对于缓解类别不平衡问题，比较基本的方法就是调节样本权重[18]。在学习中为少数类样本赋予更高的权重，比如在神经网络中，使得少数类产生的误差损失对网络权重更新贡献更大。调整样本权重在领域适应[19]和情感分析[20]都得到应用，但加权目的和加权方法完全不同。该文则是通过调整对比句采样权重来改善罕见但关键的样本在训练中的影响性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 自注意力机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自注意机制(Self-Attention)[21]自提出以来，迅速在自然语言处理领域取得了巨大的进展。对于文本分类和推荐等任务，输入是一个序列，但输出不是一个序列，在这种情况下，注意力可以用于学习相同输入序列中的每个token的与之相关的token，注意力权重的目的是捕捉同一序列中的两个单词是如何关联的，其中相关性的概念取决于主要任务[22]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于给定的词嵌入层输出序列 $X = ( x _ { 1 } , \\quad x _ { 2 } , . . . , x _ { n } )$ ，为每个序列位置创建三个向量(Q-查询向量、K-键向量、V-值向量)，然后对每个位置 $x _ { i }$ 使用Q、K、V实现注意力机制，最终得到序列 $Y = ( y _ { 1 } , y _ { 2 } , . . . y _ { n } )$ ，其中 $y _ { i }$ 包含了 $x _ { i }$ 的信息以及 $x _ { i }$ 与所有其他序列位置的关系。这里的Q、K、V三个向量使用前馈层生成。自注意力计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { A t t e n t i o n } ( \\mathrm { Q } , \\mathrm { K } , \\mathrm { V } ) = \\mathrm { s o f t m a x } ( \\frac { \\mathrm { Q } \\mathrm { K } ^ { \\mathrm { T } } } { \\sqrt { d _ { k } } } ) V\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于给定词向量维度 $d _ { m o d e l }$ ，多头自注意力即指对维度为$d _ { m o d e l } / h$ 的投影(Q、K、V矩阵执行 $h$ 次注意。对每一个head,(Q、K、V被唯一的投影为维度为 $d _ { m o d e l } / h$ 的矩阵，自注意力输出维度也为 $d _ { m o d e l } / h$ 。然后将每个head的输出连接起来，并再次应用线性投影层，得到与在原始(Q、K、V)矩阵上执行一次自注意相同维度的输出。整个过程用公式描述如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { M u l t i H e a d } ( Q , K , V ) \\ = \\mathbf { C o n c a t ( h e a d _ { 1 } , . . . h e a d _ { h } ) } W ^ { o }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { h e a d } _ { \\mathrm { i } } = \\mathbf { A t t e n t i o n } ( Q W _ { i } ^ { \\varrho } , K W _ { i } ^ { \\kappa } , V W _ { i } ^ { \\nu } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中投影为权重矩阵 $W _ { i } ^ { Q } \\in \\mathbb { R } ^ { d _ { m o d e l } \\times d _ { q } }$ ， $W _ { i } ^ { K } \\in \\mathbb { R } ^ { d _ { m o d e l } \\times d _ { k } }$ ， $W _ { i } ^ { V } \\in \\mathbb { R } ^ { d _ { m o d e l } \\times d _ { v } }$ Wo ∈Rhdxd xkl",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在设计ASC“预训练 $^ { + }$ 微调”架构分类器时，自注意力机制经常被运用于对下游任务的微调中[23]。实际上BERT等预训练模型的主体是Transformer，而Transformer有两个主要组成部分：自我注意和位置级前馈层。两者都是排列等变的，并且对输入标记的顺序不敏感。为了使模型具有位置感知性，会通过自注意力机制在每个字符位置的词嵌入的基础上，添加绝对位置编码，但是这种绝对位置编码方式会导致一些片段位置信息损失[24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受 Shaw 等人[25]的启发，该文提出了 $\\mathrm { D W S ^ { + } }$ RpSAN来解决BERT预训练模型位置信息损失和ASC任务中复杂句的挑战。和以往工作的主要区别首先是利用将对比句稀缺问题看做简单的不平衡类问题，通过动态调整训练样本的采样权重来提升对比句的采样频率；其次结合了BERT预训练模型提取的绝对地址特征和自注意力模块提取的相对地址特征，通过并行训练，弥补了预训练模型在位置信息提取方面的不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据集分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该文在当下最受欢迎的ABSA基准数据集SemEval2014Task4 SubTask2[26]上评估算法的性能，该数据集包括2个方面的领域：餐厅(简称Rest)和笔记本电脑(简称Lap)，拥有3 种情绪标签：积极、消极和中性，每个评论包含0个、1个或多个目标方面，这些评论包含不规则的词汇单位和句法模式，因此，这些数据是有噪声的、稀疏的和高维的。为了与前人的实验结果进行比较，确保实验数据的一致性，该文采用了 $\\mathrm { { X u H u } }$ 等人[15]实验中对原始数据集的处理，包括删除了原始数据集中存在冲突的句子，对每条评论添加“contra”标签，并从测试集中抽取出对比性句子创设一个独立的数据集以测试比较各模型处理性能。详细统计数据如表2和3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pontiki[26]等人在对这两个领域数据集注释过程中发现：在Lap数据集中，用户对笔记本电脑的评论多为一个整体，并且当他们对特定方面评论时，通常使用形容词隐含指代某些方面(例如“昂贵”、“重”等)，而不使用具体明确的目标方面(例如“价格”、“重量”等)，因此相比之下Rest数据集包含了更多的目标方面。由表2可见，在训练集中，含有方面的句子占比在Rest数据集中达到 $7 5 \\%$ ，而在Lap 数据集中仅为 $4 7 . 7 5 \\%$ 。此外，对笔记本电脑的评论经常提到功能描述而不表达任何情绪(例如“Has a5-6 hourbatterylife.”)，从而导致Lap 数据集中包含了更多的中性样本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2SemEval2014Task4SubTask2方面情绪分类统计表",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/84979b7b39de96c9979227baa3b0856849d43892f8ccf6e741979c712ba7c77f.jpg",
+        "table_caption": [
+            "Tab.2Summary of semeval 2014 Task 4 Sub Task 2 on aspec1 sentiment classification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">sentinentCiasshication</td></tr><tr><td></td><td>Rest</td><td>Lap</td></tr><tr><td>训练集</td><td></td><td></td></tr><tr><td>#句子</td><td>2000</td><td>3045</td></tr><tr><td>#方面</td><td>1743</td><td>2358</td></tr><tr><td>#积极</td><td>2164</td><td>987</td></tr><tr><td>#消极</td><td>805</td><td>866</td></tr><tr><td>#中性</td><td>633</td><td>460</td></tr><tr><td>#含有方面的句子</td><td>1978</td><td>1462</td></tr><tr><td>%含有方面的句子</td><td>75%</td><td>47.75%</td></tr><tr><td># 对比性句子</td><td>319</td><td>165</td></tr><tr><td>%对比性句子</td><td>16.1%</td><td>11.3%</td></tr><tr><td>测试集</td><td></td><td></td></tr><tr><td>#句子</td><td>676</td><td>800</td></tr><tr><td>#方面</td><td>622</td><td>654</td></tr><tr><td>#积极</td><td>728</td><td>341</td></tr><tr><td>#消极</td><td>196</td><td>128</td></tr><tr><td>#中性</td><td>196</td><td>169</td></tr><tr><td>#含有方面的句子</td><td>600</td><td>411</td></tr><tr><td>%含有方面的句子</td><td>88.8%</td><td>51.4%</td></tr><tr><td># 对比性句子</td><td>80</td><td>38</td></tr><tr><td>%对比性句子</td><td>13.3%</td><td>9.2%</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另外，最能体现和评估模型处理细粒度情感分类性能的对比性情绪句在这两个领域的训练集和测试集中都很罕见。Rest训练集上的对比性句约 $1 6 \\%$ ，而Lap 训练集上更少(约$1 1 \\%$ ，甚至比注释错误的句子(可以看做是噪声)还要少。在这样一个对比句匮乏的数据集上训练的机器学习模型倾向于降级为粗粒度(句子级)情感分类器。例如，对于评论“Thescreen is good and also the battery.”尽管存在两个目标方面“screen”和“battery”，但每个目标方面情感极性都为积极，使得整句也呈积极，模型处理这样的评论相当于处理句子级的情感分类。事实上，大多数样本主导训练过程，罕见但重要的样本很容易被忽略，甚至可能被认为是噪声，这对于大多数机器学习模型来说是一个普遍且广泛存在的问题，可以看做不平衡数据问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3bde7e677e7f060bdb557729655d64bbbb787bb955c4442a71d711dd79f2f971.jpg",
+        "table_caption": [
+            "表3对比性句子测试集统计表",
+            "Tab.3Summary of Contrastive Test Set "
+        ],
+        "table_footnote": [
+            "通过上述分析，可以看出两个领域的数据集不仅存在小"
+        ],
+        "table_body": "<html><body><table><tr><td>对比性句子测试集</td><td>Rest</td><td>Lap</td></tr><tr><td>#对比性句子</td><td>80</td><td>78</td></tr><tr><td>#方面</td><td>228</td><td>203</td></tr><tr><td>#积极</td><td>85</td><td>72</td></tr><tr><td>#消极</td><td>60</td><td>71</td></tr><tr><td>#中性</td><td>83</td><td>60</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样本问题，还因为对某一特定主题发表意见的评论通常整句呈现出一种一致性意见而非对比性意见，在这种情况下，存在类数据不平衡问题，任何分类器都会偏向于多数非对比句，而这些问题在Lap数据集上尤为突出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 提出的方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1问题定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定一个上下文序列 $W ^ { c } = \\left\\{ w _ { 1 } ^ { c } , w _ { 2 } ^ { c } . . . , w _ { n } ^ { c } \\right\\}$ 和 ${ W ^ { t } = \\left\\{ w _ { 1 } ^ { t } , w _ { 2 } ^ { t } . . . , w _ { n } ^ { t } \\right\\} }$ ，其中 $W ^ { t }$ 是 $W ^ { c }$ 的子序列，方面级情感分析任务旨在预测目标方面 $W ^ { t }$ 在句子 $W ^ { c }$ 中的情感倾向。图1展示了所提出的相对位置自注意编码器网络(DWS+RPSAN)的整体架构，它主要由融合领域意识的BERT-DK嵌入层、带相对位置自注意力编码层和输出层构成。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d43bfecc54b6cf7dccbf0516d42a30ec5b84dba0568241e6521e92393ca43cba.jpg",
+        "img_caption": [
+            "图1 BERT-DK+DWS+RPSAN 模型结构Fig. 1 Bert-dk+dws+rpsan model architecture"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2动态加权随机采样 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "鉴于对比句是细粒度情感分析任务的关键样本又非常罕见，需要思考现有的训练过程中如何使得机器学习模型从这些罕见的样本中学习。假设将数据集中样本分为对比性和非对比性两类： $c l a s s _ { c o n t r a }$ 和 $c l a s s _ { n o \\_ c o n t r a }$ ，基于均匀分布，从每个类中随机采样得到的概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( x \\in c l a s s _ { i } ) = \\frac { \\# \\{ c l a s s _ { i } \\} } { \\# \\{ t r a i n \\} } = \\frac { N _ { c l a s s _ { i } } } { N _ { t r a i n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而 Rest 训练集上 $c l a s s _ { n o \\_ c o n t r a } : c l a s s _ { c o n t r a } \\approx 5$ ，Lap 训练集上$c l a s s _ { n o \\_ c o n t r a } : c l a s s _ { _ { c o n t r a } } \\approx 9$ ，两个数据集上 $N _ { c l a s s _ { n o \\_ c o m n o } } \\gg N _ { c l a s s _ { c o m n o } }$ ，即$p ( x \\in c l a s s _ { n o \\_ c o n t r a } ) \\gg p ( x \\in c l a s s _ { c o n t r a } )$ ，如果使用这样的数据集训练模型，那么模型看到的非对比性句子机会要远大于对比性句子，导致深度学习模型很难从现有的训练过程中学习这些罕见样本。Gao等人[27通过研究发现，在训练的早期阶段，大多数样本的损失主导了总损失，并决定了模型参数更新方向。到了迭代后期，尽管罕见样本主导总损失，但是可能对总损失贡献不足。在最坏的情况下，当优化器开始过拟合大多数样本中的小细节时，才可能会考虑到罕见的例子的损失，意味着验证过程中为了避免过拟合可能会在罕见样本真正得到良好优化之前停止对模型的训练。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到这种罕见但重要的样本很容易被忽略的机器学习过程，需要解决两个问题：一是在训练早期阶段增加对比句样本；二是在验证过程找到最佳模型之前更早地增加(或重新平衡)那些没有被很好优化的样本的采样机会。一个自然解决方案是平衡训练集，多数类过采样或少数类过采样是两种可能的策略。由于数据非常稀疏，欠采样的多数类是次最优的，因为可能会在学习过程中失去有意义的样本。因此，过采样少数类是一个更好的解决方案[27]。在采样时对罕见且重要样本进行数据加强，使得 $p ( x \\in c l a s s _ { n o \\_ c o n t r a } ) = p ( x \\in c l a s s _ { c o n t r a } )$ 。由于深度学习模型通常是在逐批处理的基础上进行训练的，调整每类样本的权重自然应该是在每轮迭代结束时，这是因为每个样本都参与学习过一次，模型可以集中于那些没有被很好地处理(分类错误)的样本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析，该文的目标是设计一个动态自适应方案，不断调整在训练集中已知的对比句采样的权重。由于概率的数值不能明确区分模型是否在一个样本上犯了错误，所以实验中使用正确率加权法，即通过控制权重赋予对比性句更大的采样权重。同时，为避免模型过度适应少数类，每轮迭代结束后，找到分类不正确的样本和对应的类别，根据验证集上两种类别样本分类错误率动态更新权重。设第 $\\mathbf { \\eta } _ { \\mathrm { ~ n ~ } }$ 轮迭代class;类样本的采样权重为 $w _ { i } ^ { e p o c h _ { n } } ( i \\in$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(no_contra,contra)，初始化权重设置如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { \\scriptscriptstyle i } ^ { \\it e p o c h \\mit _ { n } } = \\frac { t o t a l \\_ s a m p l e - n u m _ { \\scriptscriptstyle c l a s s _ { i } } } { t o t a l \\_ s a m p l e } \\qquad n = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "权重更新公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } ^ { \\mathrm { e p o c h } _ { \\mathfrak { n } } } = w ^ { e p o c h _ { \\mathfrak { n } - 1 } } + \\varepsilon \\times e r r o r \\_ r a t e _ { i } ^ { e p o c h _ { \\mathfrak { n } - 1 } } \\qquad n \\ge 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $e r r o r _ { - } r a t e _ { i } ^ { \\mathrm { e p o c h _ { n \\cdot l } } }$ 表示第 $^ { n - 1 }$ 次 epoch 中验证集上class;类的分类错误率， $\\varepsilon$ 是更新因子，用于调节验证集中分类错误样本类别对加权采样的影响，能影响下一轮迭代中对比句采样权重，越大则分类错误样本的类别对下一轮迭代加权采样影响越大，反之，对下一轮迭代加权采样的影响就越小。该文尝试 $\\varepsilon \\in \\{ 0 . 0 , \\ 0 . 0 5 , \\ 0 . 1 , \\ 0 . 1 5 , \\ 0 . 2 , \\ 0 . 2 5 , \\ 0 . 3 \\}$ ， $\\varepsilon = 0 . 0$ 时，相当于每轮迭代时的各类别采样权重为初始化权重保持不变，此时模型在对比句分类上已获得了一定的性能提升，随着 $\\varepsilon$ 值的提升，模型性能并不是一直提升，而是先递增后递减，在 $\\varepsilon = 0 . 1$ 时获得最好结果，这也说明 $\\varepsilon$ 值过大存在过分强调分类结果对采用权重的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 BERT-DK嵌入层 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "词嵌入层使用预先训练好的BERT-DK模型[来生成序列的词向量,该模型是在BERT[3]的基础上，针对BERT对情感方面的内容学习不够，不能很好适用于评论类分类特别是细粒度情感分类的问题，先进行掩码语言建模，然后使用无监督的领域(餐厅或笔记本电脑)评论数据集对预先训练过的BERT权重进行句子预测，提高其领域意识，再使用有监督的ASC数据进行微调。经过BERT-DK层处理过的词向量从某种程度上说是具备领域意识的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4带相对位置的自注意力层",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注意力机制属于非递归模型，无法捕捉输入序列中元素的顺序，因此使用时需要显式地编码位置信息。目前常用的有三种嵌入方式：正弦位置编码、通过学习得到的位置编码和相对位置表示。BERT-DK嵌入层模块已使用正弦位置信号嵌入绝对位置信息，用于处理序列问题，而相对位置信息在执行自注意力计算时是丢失的，会导致和微调的实际数据之间存在偏差。为了加入这丢失的相对位置信息，该文使用Shaw等人[25]提出的相对位置嵌入。相对位置嵌入不是对每个位置使用固定的嵌入，而是根据自我注意机制中比较的\"键和“查询”之间的偏移量产生不同的学习嵌入。在原自注意力基础上，引入了两个只与相对位置有关的向量： $a _ { i j } ^ { V } , a _ { i j } ^ { V } \\in \\mathbb { R } ^ { d _ { m o d e l } }$ ，学习每两个序列位置之间的相对位置信息，其采用一组可训练的嵌入向量来表示输入句子中每个单词的位置编码。如果attention的目标词是 $X _ { i }$ 的话，引入这两个向量之后，那么在计算 $X _ { j }$ 对 $X _ { i }$ 的注意力特征的时候，需要额外考虑 $X _ { j }$ 对 $X _ { i }$ 的两个与位置相关的向量。同时引入一个可调参数 $k$ ，用于限制两个序列位置之间最大的距离。实验中尝试了 $k \\in \\left. 1 . 2 . . . 1 2 \\right.$ ，发现 $k > 8$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法1 BERT-DK $\\cdot ^ { + }$ DWS+RPSAN ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 1:BERT $- D K + D W S + R P S A N$ （204 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input: $D _ { { t r } }$ :training set with $\\mathfrak { n }$ samples;  \n$e$ ：maximum number of epochs.  \nOutput: $p _ { \\theta } ( \\hat { y } | \\ \\cdot \\ , \\ \\cdot )$ :a trained model.  \n1 $w _ { i }  \\frac { n - n _ { c l a s _ { i } } } { n } \\qquad i \\in ( n o \\_ c o n t r a , c o n t r a )$ /／初始化所有样本权重  \n2 for $e p o c h \\in \\{ 1 , \\ldots \\cdot , \\ e \\}$   \n3 do  \n4 for $( a b , \\ x b , \\ y b ) \\ \\in \\ B a t c h i f y ( \\ D _ { t r } \\ x _ { i } )$ /／检索一个动态加权随机采用的批次  \n5 do  \n6 $e m b _ { e n c o d e r \\_ l a y e r s } , e m b _ { p o o l e d } \\gets B e r t - D K ( a ^ { b } , x ^ { b } )$ //使用bert-dk 模型预训练  \n7 $e m b _ { r p } \\gets R P S a n ( e m b _ { e n c o d e r \\_ l a y e r s } )$ （204号$/ /$ 使用带相对位置的自注意力层提取特征  \n8 $L _ { _ { A b s o l u t e } } \\gets C r o s s E n t r o p y ( p _ { \\theta } ( \\hat { y } ^ { b } \\mid e m b _ { p o o l e d ) } , y ^ { b } )$ /／计算带绝对地址词嵌入的交叉熵损失  \n9 $L _ { R \\mathrm e l a t i v e } \\gets C r o s s E n t r o p y ( p _ { \\theta } ( \\hat { y } ^ { b } | e m b _ { \\eta \\mathrm p } ) , y ^ { b } )$ /／计算带相对位置词嵌入的交叉熵损失  \n10 $L ( \\theta ) = \\frac { L _ { \\mathit { A b s o l u t e } } + L _ { \\mathit { R e l a t i v e } } } { 2 } + L _ { \\mathit { l s r } }$ /／计算带标签平滑正则化的联合训练损  \n11 BackProp&ParamUpdate $( L , M )$ /／反向传播并更新参数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12 end ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "13 $\\hat { y } _ { 1 : n } \\gets \\mathrm { a r g m a x } p _ { \\theta } ( \\hat { y } _ { 1 : n } | a _ { 1 : n } , x _ { 1 : n } )$ /／计算当前预测结果  \n14 $e r r o r \\_ r a t e _ { i } \\gets \\frac { \\sum _ { 1 } ^ { j } ( y _ { j } \\neq \\hat { y } _ { j } \\Lambda c l a s s _ { i } ( x _ { j } ) ) } { n }$ /／计算错误率  \n15 $w _ { i } = w _ { i } + \\varepsilon \\times e r r o r \\_ r a t e _ { i }$ /／调整所有样本权重",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "16 end ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以后效果就没有提升了，说明临域为8的窗口内，attention对相对位置比较敏感，窗口以外，相对位置可以不做区分，即临域为8的窗口以外，用窗口内 $\\mathrm { ( g r a m } { = } 8 \\dot { ) }$ 的嵌入向量平均池化替代。将 $a _ { i j } ^ { V } , a _ { i j } ^ { V }$ 定义为可训练的向量，本质上就是训练 $w ^ { K } = ( w _ { - k } ^ { K } , . . . , w _ { k } ^ { K } )$ 和 $w ^ { V } = ( w _ { - k } ^ { V } , . . . , w _ { k } ^ { V } )$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i j } ^ { K } = w _ { c l i p ( j - i , k ) } ^ { K }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { _ { i j } } ^ { V } = w _ { c l i p ( j - i , k ) } ^ { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { c l i p } ( x , k ) = \\operatorname* { m a x } ( - k , \\operatorname* { m i n } ( k , x ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5分类模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于现有ASC模型对中性情绪分类性能不够稳定，主要表现在一方面易于将中性样本分类成积极或消极，另一方面易于将积极或消极样本分类成中性极性，BERT-DK+DWS+RPSAN模型在原有的交叉熵损失函数中引入一个标签平滑正则化 (Label Smoothing Regu-larization，LSR)项[28]，用以惩罚低熵输出分布，抑制模型对其预测的自信度，达到稳定模型对中性类的判断的目的。对于训练样本 $_ x$ ，假设其每个标签 $k \\in \\{ 1 . . . k \\}$ 的实际概率分布为 $q ( k | x )$ ，将 $q ( k | x )$ 替换为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq ( k \\mid x ) = ( 1 - \\lambda ) q ( k \\mid x ) + \\lambda u ( k )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathbf { u ( k ) }$ 是标签上的先验概率分布， $\\lambda$ 为平滑参数。实验中，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "先验标签分布统一设置为 $u ( k ) = 1 / C$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LSR等价于标签先验概率分布 $u ( k )$ 与模型预测分布 $p _ { \\theta }$ 之间的 $K L$ 散度。LSR 定义如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { l s r } = - D _ { K L } ( u ( k ) \\| p _ { \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因此，LSR 相当于用一对交叉熵损失 $q ( k | x )$ 和 $u ( k )$ 替换一个交叉熵损失。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整个模型需要优化的目标函数(损失函数)是 $L _ { A b s o l u t e }$ 、$L _ { \\mathrm { R e } l a t i \\nu e }$ 和 $L _ { \\imath s r }$ 的交叉熵损失，其定义为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( \\theta ) = \\frac { L _ { \\mathit { A b s o l u t e } } + L _ { \\mathit { R e l a t i v e } } } { 2 } + L _ { \\mathit { l s r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $L _ { A b s o l u t e }$ 和 $L _ { \\mathrm { R e } l a t i v e }$ 分别代表带绝对地址特征表示和带相对地址特征表示的损失。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BERT-DK $. +$ DWS $+$ RPSAN模型的参数优化过程如算法1BERT-DK $. +$ DWS+RPSAN所示，提出的算法包含三个阶段：用动态加权随机采样阶段，用BERT-DK词嵌入预处理阶段，联合带相对位置自注意力机制微调阶段。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1实验环境和超参数设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "所有的实验和基准测试都使用一个单一的GPU(GTX1080Ti)运行，CPU为IntelCore i7-8700K@4.7GHz，内存为16G。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "微调时，对于超参数的设置一般与所参考和对照的实验保持一致，个别超参数也会根据新模型特点进行调整。其中，自注意力模块中多头注意力head的个数与Shaw等人[24]所设置的一致，将文本向量分成2个头效果是最好的。在辍学率上，与前者的高辍学率0.7不同，更倾向于0.1这样的低辍学率，这与本模型基于BERT有关，一般BERT模型在处理情感分类时，都会选择0.1作为辍学率。在Rest和Lap数据集的初始学习率选择上，2e-5和3e-5都经过前人实验反复验证过的比较好的设置值，该文通过设计多种消融反复实验，发现将Rest数据集初始学习率设置为2e-5，将Lap数据集初始学习率设置为3e-5是最合适的，这种细微的差别应该和Rest数据集相比Lap数据集包含更多的方面级句子有关。批量大小设置为32，与BERT-DK模型保持一致，每批都是通过加权随机采样训练集构建。在训练过程中，设置epoch数为20，并保存在此期间训练得到的最大准确率模型。带相对位置的自注意力模型的词向量维度 $d _ { m o d e l }$ 与BERT-DK模型输出词嵌入相同，设置为300；采用Adam优化器对所有参数进行更新，设置交叉熵损失的标签平滑参数λ为0.2。所有结果的平均运行次数超过10次。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2对比模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "该文选取4个分类器作为基线，同时对该文提出的合成新的改进模块进行了消融实验，结果表明所有的模块都对最后的性能有帮助作用，而其中动态随机加权采样对Rest数据集提供了最大的贡献，带相对位置的自注意力层对Lap数据集提供了最大的贡献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AOA[29]:引入了一个attention-over-atten-tion(AOA)神经网络，以联合的方式对目标方面和句子进行建模，并明确地捕捉方面与句子上下文之间的交互作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MGAN[30]：利用细粒度和粗粒度的注意机制来设计MGAN框架，还使用目标方面对齐损失来描述具有相同上下文的目标方面之间的方面级交互。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BERT-DK[]:在BERT模型基础上，使用域(笔记本电脑或餐厅)评论，对预先训练过的BERT权重首先执行掩码语言(MLM)建模，再进行下一句子(NSP)预测，然后使用有监督的ASC数据进行微调。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3实验结果与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "模型的性能采用Accuracy 和Macro-fl度量来评估，表4包含了所有实验结果的总结。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4各模型在完整数据集和对比句测试集上性能",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/51be5e02f4b7247f2edbc895e5056eaea68af0513cb288aa9fb8bc1e9884ea74.jpg",
+        "table_caption": [
+            "Tab.4Performance ofASC baselines and the proposed Scheme on bothFull Test Setand Contrastive Test Set "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td colspan=\"4\">Rest</td></tr><tr><td>Acc.</td><td>MF1</td><td>Acc.</td><td>Lap MF1</td></tr><tr><td>AOA</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>81.20</td><td></td><td>74.50</td><td></td></tr><tr><td>对比句测试集</td><td>42.98</td><td>33.66</td><td>42.86</td><td>33.53</td></tr><tr><td>MGAN</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>81.25</td><td>71.94</td><td>75.39</td><td>72.47</td></tr><tr><td>对比句测试集</td><td>53.95</td><td>57.64</td><td>46.80</td><td>43.38</td></tr><tr><td>BERT-DK</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>84.21</td><td>76.2</td><td>76.9</td><td>73.65</td></tr><tr><td>对比句测试集</td><td>65.53</td><td>66.92</td><td>51.13</td><td>50.04</td></tr><tr><td>BERT-DK+ARW</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>85.35</td><td>78.46</td><td>77.23</td><td>73.81</td></tr><tr><td>对比句测试集</td><td>71.84</td><td>72.66</td><td>61.08</td><td>60.34</td></tr><tr><td>Ours:BERT-DK+DWS</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>86.33</td><td>79.60</td><td>76.39</td><td>72.95</td></tr><tr><td>对比句测试集</td><td>73.90</td><td>74.91</td><td>62.81</td><td>61.97</td></tr><tr><td>Ours:BERT-DK+RPSAN</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>86.09</td><td>79.42</td><td>77.82</td><td>74.89</td></tr><tr><td>对比句测试集</td><td>71.97</td><td>73.28</td><td>67.34</td><td>66.54</td></tr><tr><td>Ours:BERT-DK+DWS+RPSAN</td><td></td><td></td><td></td><td></td></tr><tr><td>完整数据集</td><td>86.88</td><td>81.48</td><td>78.90</td><td>75.63</td></tr><tr><td>对比句测试集</td><td>75.90</td><td>75.78</td><td>67.00</td><td>66.40</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从实验结果可以看到采用动态加权采样方法后，Rest和Lap的对比句测试集性能分别提高了约 $8 . 4 \\%$ 和 $1 1 \\%$ 。与BERT+DK方案相比，也提高了约 $2 \\%$ 。在加权采样后，Rest完整数据集的性能在Rest上有所改善，但在Lap上的性能略有下降,原因可能是加权采样不适合学习，而Lap 数据集中噪声样本(注释错误样本)远超对比句样本，该模型学习了更多的一些注释错误使得整体性能下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BERT-DK+RPSAN模型使Rest和Lap 的对比句测试集性能分别提高了约 $6 . 4 \\%$ 和 $1 5 . 5 \\%$ ，值得一提的是，在Lap 的对比句测试集上性能达到了最优。与BERT+DK相比，在Rest对比句测试集上性能略有提升，在Lap对比句测试集上提高了约 $4 . 5 \\%$ 。在Rest和Lap的完整数据集上，性能较BERT-DK和BERT ${ \\bf \\nabla } \\cdot { \\bf D } { \\bf K } + { \\bf \\nabla }$ AWS 比均有提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BERT-DK+DWS $+ { \\cdot }$ RPSAN模型除了在Lap的对比句测试集上性能略低于不带加权采样的BERT-DK $^ +$ RPSAN 模拟，其他性能上均有提升，在Rest的对比句测试集上尤为显著，证明了该文的改进方法是有效的，特别是提高了模型在对比句上的整体表现，真正测试了细粒度层面的情感分类能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2展示了分别使用随机采样和动态加权随机采样方法从Rest测试集最后10个批次中采样的非对比性句子类和对比性句子类的分布情况，每个批次的左侧柱体代表非对比性句子类，右侧柱体代表对比性句子类，由图所示，加权随机采样很好平衡了数据集中关键性对比性句子严重稀缺的问题，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5是运行BERT-DK $^ +$ DWS运行在验证集上的易错样本分析统计表，运行10次分类错误次数超过5次的样本被定义为“HardSample”，分析这些样本，可以看出模型对中性分类最易出错(Rest和Lap 数据集中的HardSample均为22个，占比 $70 \\%$ 以上)，具体体现倾向于把中性标签预测成其他标签，或者是把其他标签预测成中性，主要原因可能在于中性情绪本就是一种非常模糊的情感状态，同时与数据集人工标注中性存在不可靠性有关；另外，模型对整句中存在对比性意见的句子(含对比句)预测出错率占比高(Rest数据集中20个，Lap 数据集中18个，占比 $58 \\%$ 以上)，而且方面词在整句中所处的位置非常关键。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与数据集人工标注中性存在不可靠性有关；另外，模型对整句中存在对比性意见的句子(含对比句)预测出错率占比高(Rest数据集中20个，Lap数据集中18个，占比 $58 \\%$ 以上)，而且方面词在整句中所处的位置非常关键。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此处用2个非对比句易错样本为例来展示中性分类不稳定性和整句中存在对比性意见时，方面词与代表情绪性词汇相对距离不同，分类难易不同，具体见图3和4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "增加带相对位置的自注意力模块后，在HardSample1方面词[leathercarryingcase]的10 次预测中，错误预测由7次降为4次，不再是易错样本，而HardSample2方面词[application]的10次预测中，错误预测由10次降为8次，但还是属于易错样本。一方面说明自注意力模块能够提升模型对中性类的分辨能力，模型泛化能力增强；另外一方面也说明中性类不稳定和整句中存在对比性意见对分类结果的影响等问题依然是ASC任务的瓶颈，这也是作者后面的研究重点。标签平滑正则化(LSR)的处理使得中性类样本的预测准确率得到一定的提升，从三个消融模型的实验结果来看，提升大概在 $0 . 1 2 \\substack { - 0 . 2 \\% }$ 之间，表4中就不再详细标注。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随机采样 30 1o_contra 25 20 \\*耕 10 contra 5 2 3 4 8 9 10 批次/个 (a)随机采样 动态加权随机采样 25 1 2 3 4 5 6 7 8 9 10 批次/个 (b)动态加权随机采样 ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef0264f8f7d40e86f7e006e26c7faf3efca0232b60d9aef296b08e6d1f61e186.jpg",
+        "table_caption": [
+            "表5验证集上易错样本(Hard Sample)分析",
+            "Tab.5Hard sample analysis on validation set "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据集</td><td rowspan=\"2\">总计</td><td rowspan=\"2\">Hard Sample</td><td colspan=\"2\">Hard Sample 中与“中性”相关的样本</td><td colspan=\"2\">包含不同意见词汇的句子</td></tr><tr><td>样本极性为“中性”</td><td>预测极性为“中性”</td><td>对比句</td><td>非对比句</td></tr><tr><td>Rest</td><td>150</td><td>31</td><td>16</td><td>6</td><td>4</td><td>14</td></tr><tr><td>Lap</td><td>150</td><td>30</td><td>9</td><td>13</td><td>11</td><td>9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a62ac5b66c5b7e32168696d9544a83e8652c0e4d89f433363c33ab4483dcec7.jpg",
+        "img_caption": [
+            "图2Rest测试集中最后10个批次采样的非对比句和对比句的分布情况",
+            "图3HardSample1展示了中性类不稳定和相对位置对分类结果的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Hard samplelshows the neutralclass'instabilityand the influenceof relative positionon clasificationresult ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b65dcb0dbaf6b263b3037f73b4b5787f4f9b78589b09c935d7275b87d97b125.jpg",
+        "img_caption": [
+            "Fig.2Distribution of no_contra samples and contra samples in the last10 batches ofRest test set ",
+            "图4Hard Sample2 展示了中性类不稳定和整句中存在对比性意见对分类结果的影响",
+            "Fig.4Hard sample2 shows the neutral classinstability and the impactof the existence ofcomparative opinions in "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "the whole sentence on the classification results ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究注意到BERT作为情感分类任务预训练模型时存在的位置信息损失问题，采用实证法对验证集上易错样本加以分析，证实了位置信息对分类的重要性。同时对ASC数据集中的复杂句进一步研究，观察到提升ASC分类器性能的关键不仅要解决对比句稀缺问题，还要注意中性类不稳定问题和整句中存在对比性意见时对其中具体方面正确分类所带来的挑战。该文通过动态加权采样方法平衡对比句和非对比句训练样本数量，并利用自注意力网络提取带相对位置的特征表示和预训练模型提取的带绝对位置特征表示联合训练，辅以标签平滑正则化处理。实验结果表明，该模型在处理对ASC任务至关重要的对比句方面取得了新突破，同时在整个测试集上分类效果也很好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]张严，李天瑞．面向评论的方面级情感分析综述[J].计算机科学, 2020,47 (6):200-206.(Zhang Yan,Li Tianrui. Review of commentoriented aspect-based sentiment analysis [J]. Computer Science,2020, 47 (6): 200-206.)   \n[2]Thet TT, Na JC, Khoo C S. Aspect-based sentiment analysis of movie reviews on discussion boards [J]. Journal of Information Science,2010, 36 (6): 823-848.   \n[3]Zhang Lei, Wang Shuai,Liu Bing. Deep learning for sentiment analysis: Asurvey [J].Wiley Interdisciplinary Reviews:Data Mining and Knowledge Discovery,2018,8(4): e1253.   \n[4] Devlin J,Chang Mingwei, Lee K,et al. Bert: Pre-training of deep bidirectional transformers for language understanding [C]/ Proc of the Conference of the North American Chapter of the Association for Computational Linguistics:Language Technologies.2019:4171-4186.   \n[5]Wang A, Singh A, Michael J,et al. GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [C]/ Proc of the EMNLP Workshop BlackboxNLP: Analyzing and Interpreting Neural Networks for NLP.2018: 353-355.   \n[6] Qiu Xipeng,Sun Tianxiang,Xu Yige,et al. Pre-trained models for natural language processing: A survey [J]. Science China Technological Sciences,2020:1-26.   \n[7]Xu Hu,Liu Bing,Shu Lei,et al. BERTPost-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis [C]// Proc of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.2019: 2324- 2335.   \n[8]Wang Kai,Shen Weizhou, Yang Yunyi,et al. Relational Graph Attention Network for Aspect-based Sentiment Analysis [C]// Proc of the 58th Annual Meeting of the Association for Computational Linguistics.2020: 3229-3238.   \n[9]曾义夫，蓝天，吴祖峰，等．基于双记忆注意力的方面级别情感分类 模型[J].计算机学报,2019,42(8):1845-1857.(Zeng Yifu,Lan Tian, Wu Zufeng,et al. Bi-memory based atention model for aspect level sentiment classification [J]. Chinese Journal of Computers,2019,42 (8): 1845-1857.)   \n[10] Yang Heng,Zeng Biqing, Yang Jianhao,et al. A multi-task learning model for chinese-oriented aspect polarity classification and aspect term extraction [J]. Neurocomputing,2021,419: 344-356.   \n[11] Ambartsoumian A,Popowich F. Self-attention: A better building block for sentiment analysis neural network classifiers [Cl//Proc of the 9th Workshop on Computational Approaches to Subjectivity: Sentiment and Social Media Analysis.2018:130-139.   \n[12] Sun Chi, Huang Luyao,Qiu Xipeng.Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence [C]//Proc of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2019: 380- 385.   \n[13] Karimi A,Rossi L,Prati A.Adversarial training for aspect-based sentiment analysis with bert $[ \\mathrm { C } ] / \\AA$ the 25th International Conference on Patterm Recognition.IEEE,2021: 8797-8803.   \n[14] He Ruidan,Lee W S,Ng HT,et al. Exploiting document knowledge for 585.   \n[15] Xu Hu,Liu Bing,Shu Lei,et al.A failure of aspect sentiment classifiers and an adaptive re-weighting solution [J]. arXiv preprint arXiv:1911. 01460,2019.   \n[16] Li Zhengyan,Zou Yicheng,Zhang Chong,et al.Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training [Cl/ Proce of the Conference on Empirical Methods in Natural Language Processing.2021: 246-256.   \n[17] Akkasi A, Varoglu E,Dimililer N. Balanced undersampling: a novel sentence-based undersampling method to improve recognition of named entities in chemical and biomedical text [J]. Applied Inteligence.2018, 48 (8): 1965-1978.   \n[18] Guo X,Yin Y,Dong C,et al. On the class imbalance problem [C]/ The 4th international conference on natural computation.IEEE,2oo8,4:192- 201.   \n[19] Wang Rui, Utiyama M,Liu Lemao,et al. Instance weighting for neural machine translation domain adaptation [Cl/ Proc of the Conference on Empirical Methods in Natural Language Processing.2017: 1482-1488.   \n[20] Pappas N,Popescu-Belis A.Explaining the stars: Weighted multipleinstance learning for aspect-based sentiment analysis [C]// Proc of theConference on Empirical Methods In Natural Language Processing. 2014: 455-466.   \n[21] Yang Zichao,Yang Diyi,Dyer C,et al. Hierarchical atention networks for document classification [C]// Proc of the conference of the North American chapter of the association for computational linguistics: human language technologies. 2016: 1480-1489.   \n[22] Chaudhari S,Mithal V,Polatkan G,et al.An attentive survey of attention models[J]. ACM Transactions on Intellgent Systemsand Technology, 2021,12 (5): 1-32.   \n[23] Yang Heng, Zeng Biqing,Yang Jianhao,et al.A multi-task learning model for chinese-oriented aspect polarity classification and aspect term extraction [J]. Neurocomputing, 2021, 419: 344-356.   \n[24] Yang Zhilin，Dai Zihang，Yang Yiming，et al.Xlnet: Generalized autoregressive pretraining for language understanding [J]. Advances in neural information processing systems, 2019, 32.   \n[25] Shaw P, Uszkoreit J, Vaswani A.Self-attention with relative position representations [C]// Proc of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2018: 464-468.   \n[26] Pontiki M,Galanis D,Papageorgiou H,et al. Semeval-2014 task 4: Aspect based sentiment analysis [C]// International workshop on semantic evaluation. 2014: 19-30.   \n[27] Gao T,Jojic V. Sample importance in training deep neural networks [J]. 2016.   \n[28] Szegedy C,Vanhoucke V,Ioffe S,et al. Rethinking the inception architecture for computer vision [C]// Proc of the IEEE conference on computer vision and pattern recognition.2016: 2818-2826.   \n[29] Huang Binxuan,Ou Yanglan,Carley K M.Aspect level sentiment classification with attention-over-attention neural networks[C]// International Conference on Social Computing:Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation. Springer, Cham,2018:197-206.   \n[30] Li Zheng,Wei Ying,Zhang Yu,et al.Exploiting coarse-to-fine task transfer for aspect-level sentiment classification [C]//Proc of the AAAI Conference on Artificial Intelligence.2019,33 (01): 4253-4260. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

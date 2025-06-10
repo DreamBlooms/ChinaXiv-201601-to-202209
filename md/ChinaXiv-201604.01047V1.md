@@ -1,0 +1,256 @@
+# 基于日心坐标系的三维立体剖分模型及编码
+
+胡雅斯1 宋君君 时蓬¹段然1
+
+1(中国科学院国家空间科学中心 北京 100190)2(北京航天飞行控制中心北京 100094)
+
+摘要随着空间数据的大量增长，对数据可视化和数据存取效率提出了更高要求，迫切需要对数据进行有效的组织和管理．对庞大的日地空间，采用 SDOG-R 方法将日地空间剖分为不同分辨率等级的格网，并针对该网格提出相应的编码方案．以太阳风模型数据为例，给出了具体的组织实例，经实验验证，该剖分模型不仅解决了球心处网格过密问题，还满足了径向分辨率大于经纬球面分辨率的需求．基于三维立体剖分的太阳风LOD 空间数据模型，不但能提供多分辨率数据，而且显著提高了大规模数据检索和存取速度，有效地支持海量空间数据的组织管理关键词空间剖分，SDOG-R，编码，多分辨率  
+中图分类号P353,TP391.9
+
+# Study on 3D Subdivision Mode and Encoding in Heliocentric Coordination System
+
+HU Yasi1 SONG Junjun² SHI Peng1 DUAN Ran1
+
+1(National Space Science Center,Chinese Academy of Sciences,Beijing 100190)
+
+2(BeijingAerospace Control Center,Beijing 100094)
+
+AbstractWith the ever-increasing of space data, a reasonable data-arrangement is strongly required for high effciency in data accessing and visualization.In this paper,basing on the characteristics of solar-wind data,a SDOG-R grid model is employed, which is radial independent division in the adaptive SDOG grid. For huge Sun-Earth space,it is divided into multi-resolution grids. The original data, which is output from a SIP-CESE solar wind model,are re-sampled,and put into the subdivided grids. The grid model is applied to both regular and irregular sampling data, and fully maintains the characteristics of original data to the best and encodes grids with an improved CDZ curve. Specific examples of data organization are given. The experiments prove that the grid model not only resolves the problem that grids are too dense at two poles and the spherical center, but also meets the need for higher resolution in radius than in latitude and longitude.Besides, 3D LOD spatial data model can not only provide multi-resolution data,but also significantly improve the large-scale mass data retrieval and access effciency, and can support the organization and management of massive spatial data effectively. Key wordsSpace subdivision, SDOG-R,Encoding,Multi-resolution
+
+# 0 引言
+
+中国针对太阳、地球、月球的空间探测开展了一系列项目研究，例如夸父计划、地球空间双星探测计划、高分辨率对地观测系统工程、探月工程等这些探测项目已经获取或即将获取到大量空间科学探测数据，例如磁层、辐射带和电离层数据等.在科学研究中除探测数据外,还需要提供一些模型输出数据,例如太阳风数据等.一方面，空间信息量的不断增长并不意味着有效的空间信息必然增长，无序的空间信息资源有可能加剧信息增长与有效应用之间的矛盾[1-2]；另一方面,如何从当前大量复杂的数据中找到需要的数据是迫切需要解决的问题[3].
+
+地理信息系统的发展,特别是数字地球技术的发展，使地球科学研究具有强有力的数据组织和管理手段.面对快速发展的空间科学，对数据进行统一组织管理，提高数据的可视化效果和数据存取效率，具有重要理论研究意义和广泛的应用前景[3-8].
+
+在庞大的太阳系空间，为了研究不同类型空间数据的变化情况，需要构建三维立体剖分格网模型并且对网格进行编码,进而将数据划分成不同的分辨率等级,实现对庞大空间数据的组织,提高存取效率[3],为空间数据的组织、管理、分析提供技术支撑[4,9-17]
+
+由于目前中国尚没有实际探测的太阳风数据，本文将采用中国空间天气学国家重点实验室研发的三维太阳风模型输出数据作为测试数据[4,16-18]，对日地空间进行立体剖分，并提出了相应的编码方案
+
+DOG (Sphere Degenerated-Octree Grid)[24-25]、适应性 SDOG 格网[26].
+
+适应性 SDOG-R[26] 格网模型是在 SDOG 格网的基础上，沿径向递归进行二分细分，直至格网的径向分辨率满足要求为止．该模型既继承了球面退化四叉树的优点，又解决了球心处格网过密问题，由于在半径上可继续进行独立剖分并能满足径向分辨率大于球面分辨率的需求，因此本文选用 SDOG-R 格网模型实现空间数据的三维立体剖分
+
+# 1.1 SDOG-R格网模型
+
+SDOG-R 格网的具体剖分步骤[26]如下.
+
+步骤1将整个球体在经度上平分2次,纬度上平分1次，形成8个八分体，如图1(a)所示
+
+步骤2八分体第1次剖分．首先，等分径线，以半径为原半径一半的球面切割八分体，将八分体分为内网格和外网格，如图1(b)所示;然后,等分经线，取外网格外表面左右两经线的中点，用纬线连接两中点，再以新产生的纬线与球心所构成的圆锥面切割外格网，生成外上网格和外下网格,内格网保持不变,如图1(c）所示；最后，等分纬线,取外下网格的上下纬线中点，以两中点及球心确定的平面切割外下网格，生成外下左网格和外下右网格，如图1(d)所示.
+
+步骤3八分体首次剖分将产生4个子网格,根据网格不同的退化特点，将内单元格命名为球面退化格网(SG),外上单元格命名为纬线退化格网 (LG),外下左单元格和外下右单元格命名为正常格网 (NG)SDOG格网全部由这三种基本格网构成.经过第1次剖分生成一个SG，一个LG，二个NG.
+
+# 1剖分模型的构建
+
+目前，立体剖分网格模型研究大都基于地球空间的剖分，为了处理大量的地学数据，需要将整个地球实体进行格网划分,格网模型有多种,包括Yin-Yang格网[19]、Stemmer立体格网[20]、Ballard 格网分层结构[21]、Stadler立体格网[22]等.正多面体立体剖分模型有些是基于四面体和六面体的，其运算量大，通用性不强．为解决这些问题，不断有新的格网划分模型提出，包括QuaPA[23]、球体退化八叉树格网 S-
+
+步骤4在第1层 SDOG 格网基础上,进行第 2次剖分，对SG，LG，NG三种格网分别剖分，其中SG按照步骤3的规则剖分.纬线退化格网LG要经过退化，纬线退化格网LG的内层格网和外层格网均剖分成3块，则1个格网分成6块;正常格网NG则是八叉树剖分，且1个格网分成8块
+
+步骤5重复上述步骤 $2 { \sim } 4$ ，生成不同分辨率等级的 SDOG 格网（见图 $2 { \sim } 4$ ）
+
+步骤6 在每一层的 SDOG 格网基础上，在径向继续细分，得到对应剖分层次的SDOG-R格网，细分次数视需求而定．图5所示为在3次剖分的SDOG 格网基础上，对某一个 SDOG 网格在径向 3次细分的结果，一个SDOG 网格则变成8个子网格，SDOG-R格网生成.
+
+通过径向截面结合球面剖分可以分析SDOG格网剖分过程，进而给出格网数量计算方法
+
+图 2(a）给出的是八分体径向剖分结果．从图 2(a）可以看出，第1次剖分时径向1分为2，从内到外分别为第0层和第1层,图2(b)给出的是外侧第1层对应球面的网格剖分结果．图2(a）网格上的数字为对应球面的网格个数，上网格1个则标1,下网格有左右2个则标2,第1次剖分一共有4个网格.
+
+如图3所示，第2次剖分时径向1分为4.可以看出，第2次剖分其实是第1次剖分的结果全压缩在八分体内侧一半,而外侧一半则是第1次第2层继胡雅斯等：基于日心坐标系的三维立体剖分模型及编码续剖分的结果.依次类推，第3次剖分结果如图4所示.
+
+![](images/e71c36d56f1ea1060f88c470981bdf0afa527f6a5eeaaf16f110e11b91175222.jpg)  
+图1 SDOG 格网第1次剖分
+
+![](images/decb329b5f4819ce6caa4780965b9ec1e0b8486b2499d32756512da24f41ce61.jpg)  
+Fig.1 The first subdivision for SDOG   
+图2第1次剖分 SDOG 格网数量  
+Fig.2Grids’number diagram for the first SDOG subdivision
+
+![](images/3f438de00cdabff55256e0ae7001f34a385543cd2678f7bf1ce0991d7e800dce.jpg)  
+Fig.3Grids'number diagram for the second SDOG subdivision
+
+![](images/329437c83d1cdb7a55885ff7780e605271aad3ea353f247f87da7fa995950b16.jpg)  
+图3第2次剖分SDOG格网数量  
+图4第3次剖分SDOG格网数量  
+Fig.4Grids’number diagram for the third SDOG subdivision
+
+从图4可以看出，以半径为一半的位置为界，半径由外往里，网格相对密度是递增的，从半径1/2 处到半径1/4处这一段，相对网格密度也是递增的，但是这段密度只有外侧 $1 / 2$ 的一半．所以网格密度在半径 $1 / 2$ 处附近达到最高，其次是 $1 / 4$ 处.表明当剖分层次为 $n$ 时，径向剖分得到的球面层数是 $2 ^ { n }$
+
+从图4还可以发现，除去北极顶的1个网格比较特殊外,其他网格都与2有关,其具有一定规律性第 $n$ 次剖分，外侧半球被分成 $2 ^ { n - 1 }$ 层球面，最外层的球面网格个数 $N$ 计算如下:
+
+$$
+2 ^ { 0 } \times 2 ^ { 1 } + 2 ^ { 1 } \times 2 ^ { 2 } ;
+$$
+
+$n = 3$ 时, $N = 2 + 2 \times 4 + 4 \times 8 =$
+
+$$
+2 ^ { 0 } \times 2 ^ { 1 } + 2 ^ { 1 } \times 2 ^ { 2 } + 2 ^ { 1 } \times 2 ^ { 2 } +
+$$
+
+$$
+2 ^ { 2 } \times 2 ^ { 3 } ;
+$$
+
+$$
+\begin{array} { l } { { 2 ^ { 0 } \times 2 ^ { 1 } + 2 ^ { 1 } \times 2 ^ { 2 } + 2 ^ { 2 } \times 2 ^ { 3 } + } } \\ { { 2 ^ { 3 } \times 2 ^ { 4 } ; } } \end{array}
+$$
+
+$n = i$ 时， $N = 2 ^ { 0 } \times 2 ^ { 1 } + 2 ^ { 1 } \times 2 ^ { 2 } +$
+
+$$
+\begin{array} { l } { 2 ^ { 2 } \times 2 ^ { 3 } + \cdot \cdot \cdot + 2 ^ { i - 1 } \times 2 ^ { i } = } \\ { 2 ^ { 1 } + 2 ^ { 3 } + 2 ^ { 5 } \cdot \cdot \cdot + 2 ^ { 2 i - 1 } = } \\ { \displaystyle \frac 2 3 ( 4 ^ { i } - 1 ) . } \end{array}
+$$
+
+第 $i$ 次剖分后，外侧半球网格总数为
+
+$$
+2 ^ { i - 1 } \times \frac { 2 } { 3 } ( 4 ^ { i } - 1 ) .
+$$
+
+如果经过 $n$ 次剖分，则不包含1的体剖分格网数为
+
+$$
+N _ { \mathrm { { n u m } } } = \sum _ { i = 1 } ^ { n } 2 ^ { i - 1 } \times \frac { 2 } { 3 } ( 4 ^ { i } - 1 ) =
+$$
+
+$$
+{ \frac { 1 } { 3 } } \sum _ { i = 1 } ^ { n } 2 ^ { i } \times ( 4 ^ { i } - 1 ) =
+$$
+
+$$
+\begin{array} { l } { { \displaystyle \frac { 1 } { 3 } \sum _ { i = 1 } ^ { n } ( 2 ^ { 3 i } - 2 ^ { i } ) = \frac { 1 } { 3 } \Big ( \sum _ { i = 1 } ^ { n } 2 ^ { 3 i } - \sum _ { i = 1 } ^ { n } 2 ^ { i } \Big ) = } } \\ { { \displaystyle \frac { 1 } { 3 } \Big [ \frac { 8 } { 7 } ( 2 ^ { 3 n } - 1 ) - 2 ( 2 ^ { n } - 1 ) \Big ] = } } \\ { { \displaystyle \frac { 1 } { 2 1 } ( 2 ^ { 3 n + 3 } - 7 \times 2 ^ { n + 1 } + 6 ) . } } \end{array}
+$$
+
+再加上所有未考虑的1,由于每一层顶上都有一个1,经过 $n$ 次剖分，分成 $2 ^ { n }$ 层,则有 $2 ^ { n }$ 个1.因此，八分体所有网格个数为
+
+$$
+\begin{array} { l } { { N = N + 2 ^ { n } = } } \\ { { \qquad \displaystyle { \frac { 1 } { 2 1 } ( 2 ^ { 3 n + 3 } - 7 \times 2 ^ { n + 1 } + 6 ) + 2 ^ { n } . } } } \end{array}
+$$
+
+对于普通八叉树剖分得到的网格个数 $N = 2 ^ { 3 n }$ （ ${ \bf \chi } _ { n } >$ 0)，可以发现格网数量以 $2 ^ { 3 }$ 速度增长.
+
+表1给出了经5次剖分的网格数量统计.从表1可以看出普通球体八叉树网格与SDOG网格的比较结果．当剖分层次大于3的时候，数据压缩比就稳定在 $6 1 \%$ ．这样既节省了大量的数据存储空间和格网编码数量，又有效平衡了两极格网过密的缺点，使得格网大小趋于均匀化．然而，当径向分辨率大于球向分辨率时，SDOG格网已不能满足需求，为了最大程度保留径向数据的完整性,解决两个维度上分辨率不一致的问题，可以在SDOG格网的基础上继续在径向独立细分，使得径向的剖分次数大于球面的剖分次数，以满足径向分辨率大于球面分辨率需求.因此，提出径向细分的球体退化八叉树格网(SphereDegenerated Octree Grid-Radius),即 SDOG-R格网.
+
+综上所述，每一个 SDOG-R 格网都是在对应剖分层次的SDOG 格网基础上生成的，其中径向细分的次数要根据实际需求进行相应调整．特别是当径向细分次数为0时，即是SDOG格网.SDOG格网主要是用较少的网格数解决质心格网过密的问题，而 SDOG-R主要是解决径向和球面两个维度分辨率不同步的问题.
+
+![](images/b23c98463acea261a58a4930b32695128d5dcbf96af4a3940e0116a59ea4be89.jpg)  
+图5第1层 SDOG 格网径向3次细分构架Fig.5The third subdivision in radius for the first SDOG
+
+表1八分体剖分网格数量比较表  
+Table 1 Comparison table for grids’number after subdivision of eighth sphere   
+
+<html><body><table><tr><td>剖分</td><td>普通球体八叉树</td><td>SDOG</td><td>格网数量 降低比率/(%)</td></tr><tr><td>层次 1</td><td>格网个数 2=8</td><td>格网数 1+2+1=4</td><td>50.00</td></tr><tr><td>2</td><td>2 = 64</td><td>[(1+2)×2+2×8]+4=26</td><td>59.38</td></tr><tr><td>3</td><td>29 = 512</td><td>[1×6+(2+4+4)×8]×2+26=198</td><td>61.33</td></tr><tr><td>4</td><td>212 = 4096</td><td>[1 ×6+(2+4×2+8×4)×8]×4+198=1566</td><td>61.77</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>215 = 32 768</td><td>[1 ×6+(2+4×2+8×4+16 ×8)×8] ×8+1566=12494</td><td>61.87</td></tr></table></body></html>
+
+# 1.2 SDOG-R 格网编码
+
+编码是将每个剖分后的子网格赋予唯一的标识，使得网格中的坐标、属性数据和编码形成一一对应的关联关系．为了进行高效的数据索引，格网编码应遵循相邻格网的编码尽可能连续，连续的编码所对应的格网尽可能相邻的原则．下面以第1层剖分SDOG-R为例,详述其编码规则[2,24,27].
+
+(1)用 $0 { \sim } 7$ 的八进制数对八分体进行编码，以确定八分体所在的象限．按照逆时针方向将北半球依次编号为0,1,2,3,将南半球依次编号为4,5,6,7,如图6所示
+
+(2)参照图1，八分体的首次剖分即沿径向1分为2,将内层记为0,外层记为1；每层都分成4个网格,0层4个网格合并为1个，用0表示，即SG 网格；1层上面的两个网格合为一个，用4表示，即LG网格；下面两个网格即左下网格，右下网格，分别编码为6,7,即 NG网格.
+
+(3)对于八分体第2次剖分，顶上三棱柱编码与第1次剖分单元的编码方法相同，一分为六，新网格编码在之前的基础上分别加上0,2，3，4,6，7;子六面体一分为八，新编码分别在之前的编码基础上加上0,1,2,3,4,5,6,7,依次类推;剖分层次每增加1,编码相应增加一位.
+
+(4）分割线后面编码标识的是径向细分后的层号，用二进制码表示．在径向上，每个 SDOG 格网都要经过径向3次剖分，即一分为八，则任意一个SDOG-R格网细分后，在其本身编码后加上径向细分标识位，径向细分标识位确定 SDOG-R 格网的具体位置.由图7可以看出，在第一次 SDOG网格的基础上，继续进行径向1次细分，分割线后面的编码标识是径向细分后的层号，用二进制码表示．径向3次细分后的结果如图8所示．综上所述，要唯一标识一个SDOG-R网格，编码包含两部分，即分割线前的 SDOG格网编码和分割线后的径向层号.编码可以表示为
+
+![](images/a0eb4acdc876f0f9808a0db7a74188061eaf9c2bb02b77029d97f85df80100b5.jpg)  
+图6 八分体编码
+
+![](images/7a820d9daadb9fcd4a410c74c2b7a1c545c625e860e16a49c6b445c351b6b577.jpg)  
+Fig.6Coding for eighth sphere   
+图7第1层SDOG径向1次细分编码  
+Fig.7Encoding diagram for the first subdivision in radius for the first SDOG
+
+$$
+\mathrm { M o r t o n } = q _ { 1 } q _ { 2 } \cdot \cdot \cdot q _ { n } q _ { n + 1 } { \stackrel { \_ p } { \_ } } p .
+$$
+
+式中， $q _ { 1 }$ 为八分体象限标识位, $q _ { i }$ 1 $( i > 1 )$ ）为每一层八分体剖分每个网格对应的编码,符号“—”为分隔符，$p$ 为以 SDOG 格网为基础在径向上细分3次后的径向标识位.
+
+径向标识位 $p$ 与原SDOG 编码用分割线分开，$p$ 用二进制码表示，1位代表细分1次，2位代表细分2次，每经过一次细分，编码增加一位，剖分的次数越多，生成的子网格越小．依此类推，第2层SDOG-R格网编码如图9所示.
+
+![](images/9d88cacde0451f16cbae66a5c9eddc96b647916f3f202a4c6243138d7a55c677.jpg)  
+Fig.8Encoding diagram for the third subdivision in radius for the first SDOG
+
+![](images/627c64b1c7d229b6823156be89d0d8044f5ab24951859dea9743e3df1da2bad2.jpg)  
+图8第1层SDOG径向3次细分编码  
+图9第2层SDOG径向1次细分编码  
+Fig.9Encoding diagram for the first subdivision in radius for the second SDOG
+
+通过网格编码，使得网格中的数据与编码相互对应，为数据检索、组织及数据应用与分析提供技术支持.
+
+# 2数据组织实例
+
+以太阳风粒子密度数据为例，阐述如何使用 SDOG-R 模型对空间数据进行组织和管理．该数据是由太阳行星际守恒元解元（SIP-CESE）三维太阳风模型[16-18] 输出的.
+
+通过对该太阳风数据的组织，通过可视化展示可以帮助科学而家分析该太阳风模型是否满足预期，能为科学研究提供技术支撑[12].
+
+# 2.1 数据分析
+
+所分析的数据在极坐标下采样，三个坐标轴分别为半径、经度和纬度，其具有不规则采样的特点．在以太阳为中心的球体采样空间中，纬度范围为 $- 9 0 ^ { \circ } \ \sim \ 9 0 ^ { \circ }$ 采样 55次，经度范围为 $0 ^ { \circ } \sim 3 6 0 ^ { \circ }$ 采样 80 次，径向采样范围约1AU（日地平均距离$1 \mathrm { A U } = 1 4 9 5 9 7 8 7 0 . 6 9 1 \mathrm { k m } )$ 采样154次.采样间隔如图10所示[28].
+
+从图10 可以看出，经度间隔集中在 $4 . 5 ^ { \circ }$ ，浮动范围也很小，可以认为在经度上是等间隔采样的.纬度上间隔是非均匀的，在低纬上间隔大，高纬上间隔小，赤道上间隔最小．从图10(c）所示的半径间隔分布可以看出，离太阳越远，则半径间隔越远，且呈线性趋势增长，增长斜率约为 $2 . 8 6 \%$ ，并且在径向的采样次数远多于经向和纬向上的次数，
+
+根据上述分析可以看出，太阳风数据在经向和纬向的采样次数接近，即经纬向分辨率基本同步，而径向采样次数明显较大，即半径分辨率与经纬球面分辨率不同步．若在经纬径三个方向采用相同的剖分次数，就会失去部分径向数据特征，造成一定的数据失真．当径向剖分层次比球面上多时，可以解决此问题
+
+由于八分体数据维度近似是 $2 ^ { 5 } \times 2 ^ { 5 } \times 2 ^ { 8 }$ ，即径向采样密度是球面的 $2 ^ { 3 }$ 倍,所以可采用 SDOG-R格网对该数据进行剖分，即在SDOG格网的基础上继续在径向细分3次即可满足分辨率要求.
+
+# 2.2 可视化显示
+
+在日心黄道坐标系下，以太阳风粒子密度数据为例,粒子密度单位为 $\mathrm { m ^ { - 3 } }$ ，由于密度值数据量级相差太大，并且每个数值出现的频率差别很大，若用一种颜色的渐变描述，无法表达数据特征，则需要较多的颜色描述数据特性.根据数值及其频率分段制作的颜色模板如图11所示
+
+图11所示的太阳风密度颜色对照显示，颜色模板共有17个等级，颜色等级对应不同的密度数值范围.根据图11所示的颜色模板对太阳风密度数据进行可视化处理,结果如图12和图13所示.图12给出的是原始数据，原始太阳风数据约为2.34GB，经数据处理提取出某时刻的密度数据为67.496MByte).图13给出的是剖分后的数据，剖分层次LOD为3,4，5时，数据量分别为0.989MByte，4.062MByte,
+
+![](images/b7b33cb2ca45067f10c7abe116c83e8283b6f77822248843cda31c44b9a98e57.jpg)  
+图10采样点经度(a)、纬度(b)和半径(c)的间隔分布 Fig.10Longitude (a),latitude (b) and radius (c) interval distribution of sampling data
+
+![](images/2d2c51aa6c3d08b8f2a60ee4579387fc45bcb2798fcf0f1388a6f95fac396955.jpg)  
+图11密度颜色对照（单位 $\mathrm { m } ^ { - 3 }$ ）  
+Fig.11 Comparison drawing for density and color (Unit $\mathrm { m } ^ { - 3 }$ ）
+
+![](images/60f8987e32a40e0add37e4aaedc5b9b634c8492fe2ee0aeb432a4f2c7160ba6d.jpg)  
+图12原始太阳风绝对密度数据Fig.12Original solar wind density data
+
+11.855MByte.可以看出，原始数据在中心非常密集外围稀疏，剖分后的数据比较均匀，能完整表达太阳风的整体特征，数据分辨率随LOD值的增加而增大．可视化速度快，基本达到实时，原始数据要加载约 40s以上，而剖分后 $\mathrm { L O D } { = } 4$ 数据只需要3s即可绘制，并且放大和缩小操作非常流畅
+
+如果需要获取基于某个特征或基于某个区域的所有数据，必须浏览所有文件才能提取对应数据．在信息巨大的情况下，采用这种方式检索数据费时费力且容易遗漏,通过对每个网格进行编码，将网格、属性数据、坐标、时间等信息统一组织，可以快速定位所需要的信息．在传统的检索中，基于数据逐行查找而基于该数据组织方法，则将数据分区分块网格化，可以层层递进地快速定位，只查找其所在分区，其他分区可以不进行查找，
+
+通过剖分和编码将大量数据进行有效组织：第一，可以提供多分辨率层次数据，提高数据检索效率;
+
+第二，可以将空间位置与属性数据关联起来;第三，可以有效地减少冗余数据量，提高数据的可用性
+
+# 3结论
+
+采用适应性SDOG-R格网模型对日地空间进行立体剖分，并提出了相应的编码方案．经试验验证,SDOG-R格网模型不仅能够很好地解决日心附近格网过密问题，还可以满足径向分辨率与球面分辨率同步和不同步两种需求．同时能够提供多种分辨率层次的数据，有效提高检索效率，适用于不规则采样数据的剖分.但是，本文采用的方法在半径向为等间隔的，如果能够实现径向非等间隔的递归剖分，将会更加贴合太阳风数据的物理特征，
+
+该模型不局限于太阳风数据的剖分，理论上对类似采样的空间数据都可适用.在剖分的网格中放置不同的数据，即可实现多种空间物理数据的组织管理
+
+# 参考文献
+
+[1] CHENG Chengqi,GUO Hui. A pilot research on framework of Global Geographic Information System (G2IS) [J]. Geom．World,2007，1(6):25-27 (程承旗．全球地理信息系 统 G2IS 架构体系初探[J].地理信息世界,2007,1(6):25-27)   
+[2] CHENG Chengqi. Preliminary studies on geospatial information code model based on global subdivision model[J].Geog.Geo-Inf.Sci.,2009,25(4):2-5(程承旗.基于 全球剖分模型的空间信息编码模型初探[J].地理与地理信息科 学,2009,25(4): 2-5)   
+[3]HU Y,MENG X,PAN Z.Organization method for solar wind data with LOD technology[J].J. Conv. Inf. Tech., 2013,8(2):323-329   
+[4]FENG Xueshang,XIANG Changqing,ZHONG Dingkun. Numerical study of interplanetary solar storms[J].Sci. Sin．Terr.，2013，43(6):912-933(冯学尚，向长青，钟鼎坤. 行星际太阳风暴的数值模拟研究[J].中国科学:地球科学，2013, 43(6): 912-933)   
+[5] WANG Hechuang.Research on Key Technology of the Solar Wind System Simulation [D].Chengdu: Chengdu UniversityofTechnology，2012（王合闯.太阳风系统仿真与 关键技术研究[D].成都：成都理工大学，2012)   
+[6] YANG Liping. 3-dimensional Numerical Study on the Background Solar Wind[D]. Beijing: Graduate University of Chinese Academy of Sciences,2011(杨利平．背景太阳风 的三维数值模拟研究[D].北京：中国科学院研究生院，2011)   
+[7] YE Zhanyin.Numerical Research about Coronal Mass Ejection [D]. Beijing:Graduate University of Chinese Academy of Sciences，2003（叶占银．日冕物质抛射的数值 研究[D].北京：中国科学院研究生院，2003)   
+[8] ZHOU Yufen.Three-dimensional Numerical Research of Coronal Mass Ejections [D].Beijing:Graduate University of Chinese Academy of Sciences,2008（周玉芬.日冕物质抛 射的三维数值模拟研究[D].北京：中国科学院研究生院,2008)   
+[9] LUO H, CHEN G X, DU A M. Multi point observations of Pi2 pulsations and correlation with dynamic processes in the near-Earth magnetotail on March 18,2009[J].Sci. China:Earth Sci., 2014(2):359-371   
+[10] LEE C,LUHMANN JG, ODSTRCIL D,et al. The solar wind at 1 AU during the declining phase of solar cycle 23: comparison of 3D numerical model results with observations [J]. Solar Phys.,2009,254(1): 155-183   
+[11] WEBB D F,ALLEN JH. Spacecraft and ground anomalies related to the October-November 2003 solar activity[J]. Space Weather, 2004, 2(3): 2-4   
+[12] FENG Xueshang, XIANG Chagnqing, ZHONG Dingkun, et al.Comparative study of Ulysses observation and MHD simulation of the solar wind 3D structure[J]. Chin. Sci. Bull.,2005,50(8):820-826 (冯学尚，向长青，钟鼎坤，等.三 维太阳风结构的 Ulysses 观测和 MHD 模拟的比较研究[J].科 学通报,2005,50(8):820-826)   
+[13] XIE Yanqiong. Comprehensive Studies on Solar Storm [D]. Beijing: Graduate University of Chinese Academy of Sciences，2007 (解妍琼．太阳风暴的综合研究[D]．北京：中国科 学院研究生院，2007)   
+[14] SHI Yong,WEI Fengsi, FENG Xueshang,et al. Threedimensional MHD simulation of the solar wind structure observed by Ulysses[J]. Chin. Sci. Bull., 2001(6): 511- 514(石勇，魏奉思，冯学尚,等.Ulysses 观测的太阳风结构的 三维 MHD 模拟[J].科学通报,2001(6):511-514)   
+[15] WANG Chi. MHD simulation on the interaction of the solar wind with the magnetosphere[J].Chin.J. Space Sci., 2011，31(4):413-428(王赤．太阳风-磁层相互作用的磁流体 力学数值模拟研究[J].空间科学学报,2011,31(4):413-428)   
+[16] XU Wenyao.Energy budget in the coupling process of the solar wind,magnetosphere and ionosphere[J]. Chin.J. Space Sci.,2011,31(1):1-14 (徐文耀.太阳风-磁层-电离层 耦合过程中的能量收支[J].空间科学学报,2011,31(1):1-14)   
+[17] XIANG Changqing, FENG Xueshang, FAN Quanlin, et al.An observation-based model of solar wind background[J]. Chin．J. Space Sci.,2006,26(3):161-166 (向长 青,冯学尚，范全林,等.一个基于观测的太阳风背景模型[J].空 间科学学报,2006,26(3):161-166)   
+[18] FENG Xueshang, XIANG Changqing, ZHONG Dingkun. The state-of-art of three-dimensional numerical study for corona-interplanetary process of solar storms[J]. Sci. Sin.：Terr.,2011,41(1):1-28(冯学尚，向长青,钟鼎坤．太 阳风暴的日冕行星际过程三维数值研究进展[J]．中国科学：地 球科学,2011,41(1):1-28) [19] KAGEYAMA A，SATO T. The “Yin-Yang Grid":an overset grid in spherical geometry[J].Geochem.Geophys. Geosys.,2004(5):1-15 [20] STEMMERK,HARDERH,HANSENU.A neW method to simulate convection with strongly temperature and pressure-dependent viscosity in a spherical shell:Applications to the Earth's mantle[J].Phys.Earth Planet.Int.,   
+2006,157(3-4):223-247 [21]BALLARD S,HIPPJR,YOUNGCJ.Efficient and accurate calculation of ray theory seismic travel time through variable resolution 3d Earth models [J].Seism.Res.Lett.,   
+2009,80(6):990-1000 [22]STADLERG,GURNIS M,BURSTEDDE C.Thedynamics of plate teconics and mantle folw:from local toglobal scales georg stadler[J]. Science, 2010,1(329): 1033-1038 [23]WU Lixin，SHI Wenzhong. A new QuaPA-based IDcoding method for global spatial data organization [J]. Geog．Geo-Inf.Sci.,2003,19(5):1-5(吴立新,史文中.基 于QuaPA的无边界GIS与全球空间编码新方法[J].地理与 地理信息科学，2003,19(5):1-5) [24] YU Jieqing，WU Lixin.Geo-ontology logical structure and development technology for 3D geology modeling[J]. Geog.Geo-Inf．Sci.，2009，25(1):1-2 (余接情，吴立新. 球体退化八叉树网格编码与解码研究[J].地理与地理信息科学, 2009,25(1): 1-2)   
+[25]WU Lixin,YU Jieqing.Global 3D-grid based on sphere degenerated octree and its distortion features[J].Geog. Geo-Inf.Sci.,2009,25(1):1-4(吴立新，余接情．基于球体 退化八叉树的全球三维格网与变形特征[J].地理与地理信息科 学,2009,25(1):1-4)   
+[26]YU Jieqing,WU Lixin.Adaptable spheroid degeneratedoctree grid and its coding method[J].Geog.Geo-Inf. Sci., 2012,28(1):14-18 (余接情,吴立新.适应性球体退化八叉树格 网及其编码方法[J].地理与地理信息科学,2012,28(1):14-18)   
+[27] TONG Xiaochong.Expression of spherical entities and generation of Voronoi diagram based on truncated icosahedron DGG[J].Geom.Inf.Sci.Wuhan Univ.,2006, 31(11):428-435 (童晓冲．全球多分辨率六边形网格剖分及地 址编码规则[J].测绘学报，2007,36(4):428-435)   
+[28]HU Yasi,SHI Peng，DUAN Ran.PDQG-R subdivision mode and encoding in heliocentric coordinate system [J]. Chin.J.Space Sci.,2015,35(5):626-633(胡雅斯，时蓬，段 然．基于日心坐标系的 PDQG-R 剖分模型及编码研究[J].空 间科学学报,2015,35(5):626-633)
+
+![](images/3147374ad507d5a81161d19ca167405dc07daddbd7de33650735e8b0f136de5c.jpg)  
+图13SDOG-R 格网剖分后太阳风绝对密度数据Fig.13Solar wind density data afterSDOG-R subdivision

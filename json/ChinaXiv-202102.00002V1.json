@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "Periodic sponge effect on tourism ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hongxuan Yan 1 Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing lOo190, China and Center for Forecasting Science, Chinese Academy of Sciences, Beijing 1OO190, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper investigates the relationship between the service sector and GDP in Denmark by adopting unit root test, Johansen cointegration test and Granger causality test with yearly data. The characteristics of service sector against agriculture sector, industry sector are also discussed. Under the monthly scale, the behaviours of the number of rented hotel room,power production and IPI are studied. The deindustralization caused by the development of tourism and the financial crisis of 2Oo8 is discussed.The existence of peridic sponge effect between tourism and the manufacturing is found. By presenting several convinced explanations,this phenomenon willhelp to understand the dynamic mechanism of the economic developments. In the context offlexicurity labour market with flexible employment policies in Denmark, the unemployment issue against the tourism, power production and IPI is explored.Lastly,an approach to calculate periodic sponge effect index with some examples of Denmark's data is proposed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Periodic sponge effect ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tourism as a significant export sectors has widely contributed to economic growth through its various impacts,such as employment generation, foreign exchange earnings, government revenues, multiplier effects, development of infrastructure,and development of entrepreneurial and other skils (Ozturk and Acaravci, 2009).Tourism has made great contributions to economic growth since all sectors are related with this industry directly and indirectly. It triggers overall economic growth. Moverover, half of the World employment will be allocated to tourism industry until 2O2O based on statistics of Tourism World Organization (Lashkarizadeh et al., 2O12). The growth of the tourism industry dramatically causes an increase of household incomes and government revenues through multiplier efects,improvements in the balance of payments and the international revenues. Consequently,enhancing tourism has become an important target for most governments (Samimi et al.,2O11). Furthermore,tourism can help to resolve the issue of unemployment because tourism industry creates employment opportunities and employs a substantial proportion of the labour force (Proenca and Soukiazis,2Oo8). In addition,for some countries,tourism is able to replace activities that have lost their competitive advantage Proenca and Soukiazis (2Oo8). Similar to the export-led growth hypothesis (ELGH) that postulates that improvement of economy can be caused not only by the increase od the amount of labour and capital,but also by the expansion of exports,Brida and Pulina (2010)demonstrated tourism-led growth hypothesis (TLGH) for a wide range of developed and developing countries. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The development of tourism is based on a wealth of natural resources,such as atractive wildlife reserves,unique natural landscapes and pleasant climate. These characteristics becomes a comparative advantage which is similar in concept with natural resources (Kenell,2Oo8).Furthermore, in fact,tourism turns non-tradable goods and services into exportable,which means that tourism forms a movement of customers from one place to another to consume local non-traded goods and services (Nowak and Sahli, 2007). Similar to the natural resources,the existence of the Dutch Disease in the tourism area has drawn great attention. The term Dutch Disease was first mentioned in the Economist Journal on November 26, 1977 to describe poor management in natural gas sector in the Netherlands. With the discovery of natural gas reserves in the North Sea region of the Netherlands,a huge amount of natural gas was exported, yet the economy unexpectedly regressed (Macdonald, 2Oo07). This is explainable for the economy which is based solely on some certain sectors,such as oil or natural gas. The abundance of natural resource exports increase the local revenues and make the currency stronger. However, this results in the other exports becoming more expensive, and imports becoming cheaper, which makes other sectors less competitive. Furthermore,the comparative advantage of natural resource exports cause the increase of the domestic demand, which leads to an increase of prices of non-tradable goods.These temporarily higher natural resource revenues usually are spent on non-traded goods, which leads to relative higher price of non-tradable goods (Tuncay and Ozcan, 2O2O). In fact, the Dutch Disease does not only happen to natural resources since any foreign exchange inflow causes similar results.Tourism also creates a large inflow of foreign capital (Kenell,2Oo8). Besides,in tourism area, foreign workers’ incomes,public expenditures,and foreign aid can speed up capital-foreign exchange inflows.Hence, the tourism can bring shock efects in the economy (Capo et al., 2Oo7). However, there exists important diferences between trade in tourism and commodity exports, which implies that it is not proper to adopt the Dutch disease literature directly on tourism sectors (Nowak and Sahli, 2007). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In terms of Dutch Disease, many studies object to the expansion of tourism. Tuncay and Ozcan (2020) found that the Dutch disease does exist in some of the Mediterranean countries with high tourism dependence, such as Albania, Bosnia and Herzegovina, Croatia,Egypt, Greece, Italy, Morocco,and Turkey. Copeland (1991) showed that the tourism boom will highly affect the level of welfare,output and factor prices.After discussion of the complexities of analyzing the net effect of tourism growth on domestic economies,Nowak and Sahli (2O07) claimed that the increment of inbound tourism will cause net welfare losses and other negative economic impacts. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The benefits of development of tourism are also proposed. Balaguer and Cantavella-Jorda (2O02) investigated that the international tourism make significant contribution in economic growth multiplier effects in Spain.For Spain and Italy, Cortes-Jimenez and Pulina (2O1O) showed that the inbound tourism promotes economic growth. Further more,Brida et al. (2O11) also showed that tourism is an important factor of economic growth. Ghalia and Fidrmuc (2O18) studied the efect of tourism on economic growth for 133 countries including 32 countries highly dependent on tourism during that period. The results revealed that the tourism only causes adverse impacts for the countries that are both highly dependent on trade and on tourism. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigated the role of tourism played in economic development, Johansen co-integration test and Granger causality test are adopted to show there exists a positive relationship between tourism and economic growth,and the tourism expenditure willbenefit the economic development in various countries,such as Greece (Dritsakis,2004),Turkish (Demiroz and Ongan,2005),Mexican (Sanchez Carrera et al.,2008), Chile (Brida and Risso,2009), South Tyrol (Brida and Risso, 2010), Jordan (Kreishan, 2010), Uruguay (Brida et al.,201O),Aruba (Ridderstaat et al.,2014) and 19 island economies (Seetanah,2011).Furthermore,Vector Autoregression (VAR) type models ((Samimi et al.,2011), (Oh, 2005))and Autoregressive Distributed Lag (ARDL) type models (Khoshnevis Yazdi et al.,2017),(Srinivasan et al.,2012), (Kibara et al.,2012)are applied to reveal that tourism has positive impact on economic growth in different countries.Multivariate model is derived by Tang and Tan (2O15) to demonstrate that tourism lead to positive impacts on Malaysia's economic growth both in the short term and in the long term. Besides, panel data techniques are employed to indicate that tourism contributes significantly to the improvement of economy in many countries,such as China (Deng et al.,2O14), Southern European countries (Proenca and Soukiazis, 2008),Pacific Island countries (Narayan et al.,201O) and other 134 countries (Holzner, 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The impacts on the manufacturing caused by the development are also widely discussed. Copeland (1991)claimed that an increase in tourism tends to causes the de-industralization. Furthermore, Chao et al. (2006) showed that the tourism expansion willead to de-industrialization in the traded good sector which causes lower resident welfare. Ojaghlou et al. (2O19) found that a growing tourism sector willead to the de-industrialisation and unstable long-term growth in the Turkish economy. However,the opposite results are found in some other countries. Kenell(2O08) revealed that there is no evidence to support the negative impacts of the development of tourism on Thailand economy because the manufacturing industry is the largest contributor to GDP and source of foreign capital inflow. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tourism becomes one of the main economic engines with total contribution of $9 . 5 \\%$ to global GDP and $8 . 9 \\%$ of total employment in 2013 and tourism and hospitality creates diversified employment opportunities in different sectors (Aynalem et al.,2016).McCaty and Serju (20o6)found that tourist industry will expand employment in Jamaica. Szivas and Riley (1999) investigated the labor mobility into tourism employment from other economic sectors. During economic transition, employees came from an unusually wide range of industries, which indicates that the employment in tourism is attractive and accessible for people with various stock of human capital. A large number of unskilled workers can also be employed in a tourism boom (Ghalia and Fidrmuc,2O18). Hjalager and Andersen (2O01) showed that there are increasing numbers of both employees and companies possessing a more professional Danish tourist sector. However, in terms of Recruitment criteria,educational background including dedicated training or a formal degree does not lead to any particular advantages against the employees with less relevant qualifications.Besides,the retention rate for the employees with a professional or vocational tourism education is significantly better than unskilled employees.Furthermore,Marcouiller and Xia(2Oo8) claimed that tourism as an important economic activities providing a source of both entrepreneurial and household income. Cukier et al. (2002) showed that,comparing with other traditional employment options,the tourism employment is able to provides many job opportunities for women and migrant workers with fair remunerated. However, with the rapid development of Turkish tourism,Aykac (2O10) pointed out that the mismatch between the needs of the labor market and the available labor force will cause a qualitative degradation of tourism services.To enhance tourism employment, the government need to integrate policy approach combining tourism policy, education policy and labor policy. Lundmark (2Oo6) examined the tendency of temporal tourism labour migration leading to permanent migration of tourism workers in the Swedish mountain municipalities. Besides,seasonality as a common characteristic in tourism has a profound impact on the management of human resources (Joliffe and Farnsworth, 2003). Ashworth and Thomas (1999) uses recent advances in econometric work to study the result of policies on lessening the seasonal character in UK tourism. Mourdoukoutas (1988) investigated the employments generated in the tourist industry of the Greek islands. The unemployment is not necessrily caused by seasonal employment because some employees choose seasonal occupations due to the high payment. Consequently, unemployment compensation policy need to be designed to smooth out the seasonal nature of employment in tourist industry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our first contribution is to investigate the relationship between the service sector and GDP in Denmark. We demonstrate thatthe tourism will not cause Dutch Disease, which means that the development of tourism does not slow down the economic growth. Furthermore,we adopt unit root test to detect the existence of stationarity in the time series of service sector and GDP. Johansen cointegration test is applied to examine the cointegration relationship. And then the Granger causality test is performed to show the causality between service sector and GDP. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our second contribution is to analyze the development tendency of service sector against agriculture sector,industry sector before and after the financial crisis 2Oo08.The decline in the proportion of agriculture sector follwed by a increment of service sector is ilustrated to show the change of industrial structure in Denmark.Moreover,the existence of de-industralization caused by the boost of service sector is examined. The analysis shows that the service sector does not lead to de-industralization but the shock of the financial crisis does. In addition,the service sector replaces a certain amount of GDP shares from the industry sector after the crisis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our third contribution is to figure out the existence of periodic sponge effect between tourism and the manufacturing，which helps to understand the dynamic mechanism of the economic developments. By studying the behaviours of the number of rented hotel room, power production and IPI,the differences between de-industralization and periodic sponge effect are compared. Furthermore,the causes of this effect are also be discussed from various aspects. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our forth contribution is to illustrate the relationship between the unemployment against the number of rented hotel room, power production and IP.Due to the flexible employment policies,there also exists labor mobility pattern of “periodic sponge effect\". Moreover, the manufacturing is found to be a dominant factor driving the unemployment and the tourism gradually play an unneglectable role in solving unemployment issue. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our last contribution is to propose a periodic sponge efect index which describes a reversed cyclical relationship between two time series. This index is then applied to analyze the cross relationship among unemployment rate, the number of rented hotel room, power production and IPI. The results suggest that there are very strong periodic sponge effct between the number of rented hotel room vs power production and unemployment rate vs the number of rented hotel room. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The rest of the paper is organised as folows.Section 2 introduces the data set used in this study. The relationships between service sector and GDP in yearly data are analyzed by adopting unit root test,Johansen cointegration test and Granger causality test. Moreover, the features of service sector against agriculture sector,industry sector in yearly dataare also investigated.Section 3 introduces the seasonal phenomenon called “periodic sponge effect’.The cross relationships among the number of rented hotel room, power production and IPI in monthly scale are discussed. Section 4 studies the unemployment issue in Denmark and shows the roles of the tourism, power production and IPI played in impacting the unemployment rate. Section 5 proposes an approach to calculate periodic sponge effect index with applications on Denmark's data. Lastly, section 6 concludes the paper. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 The impacts of the service sector ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Data description ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Denmark is often be analysed in political-economic research area because of the lowest Gini coefficient (latest OECD figures from 2012),strong local companies with great competitiveness and prominent economic performance (Refslund and Sprensen,2016). The data set analysed in this study is obtained from Den (2O2O)that is the central authority on Danish statistics.It is a state institution under the Ministry of Economic Affairs and the Interior. They collect, compile and publish statistics on the Danish society. Danish was a predominantly agricultural country. After the year of 1945,Denmark has significantly developed the industrial base and service sector. By 2O17,the agriculture sector only contribute less than $2 \\%$ of overall GDP. On the other hand, the industrial base and services contribute around $18 \\%$ and $76 \\%$ respectively (Den,2O2O).In yearly scale analysis,to describe the characteristic of agriculture,industry and service sectors in Denmark,the percentage of agriculture, industry and service in Gross Domestic Product (GDP)are adopted as indexes. Agriculture sector includes forestry,hunting,and fishing,cultivation of crops and livestock production. Industry sector corresponds manufacturing, which comprises mining, manufacturing,construction, electricity, water,and gas. Services sector includes wholesale and retail trade (including hotels and restaurants),transport,and government, financial, professional,and personal services such as education, health care,and real estate services.And tourism is the most important component in Denmark's tertiary industry,which can be a representative indicator of service sector. In monthly data studies, we adopt rented hotel room numbers in a month as a index to investigate the dynamic mechanism of tourism sector statistics.Furthermore,we use industrial production index (IPI) to describe the changes in the manufacturing because the IPI is a key indicator to measure the output of industrial economic activities. In addition,the statistics of electricity production is used to measure the industrial production activities. Besides,in order to study the features of labor market in Denmark,the unemployed rate used in this paper is the statistic for unemployment, which comprise allunemployed persons basing on the resident population in Denmark. The labour market of Denmark is the freest in Europe (Wor, 2O2O). Employers maintain a very high level of flexibility, which means they can hire and fire whenever they want. And on the other hand, the unemployment compensation is relatively high to guarantee a stable living standard for unemployed ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "persons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2The relationship analysis between service sector and GDP in yearly data ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This part investigates the relationship between the economic growth and the service sector. The figure 1 describes the trend of the GDP (in billion U.S.dollar) and the percentage changes of service sector in Denmark.The behaviour of the trend of service sector is slight diffrent from the changes of GDP.There are two obvious stages in GDP trend.Before the financial crisis of 2O08,the GDP in Denmark shows a steady growth. After the year of 2OO8,both of them behave smooth fluctuations.For the service sector, there are three steps.For the frst step period from 1979 to 1989,the proportion of the service sector is around $6 1 . 5 \\%$ . For the second step from 1990 to 2008,the average of the proportion increase to $62 \\%$ . After the financial crisis of 2OO8, the percentage of the service sector fluctuates near $65 \\%$ ，which is third step. The overall trends of both GDP and service sector have similar direction. In other Words,the development of tourism can be roughly regraded as an indicator of economic growth. There does not exist Dutch Disease in Denmark. The enhancement of tourism does not cause any negative economic impacts. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a6813d5358fd5308b1057481922b9664574caf31cb9cf781bfb493870c54eb4.jpg",
+        "img_caption": [
+            "Figure 1: Time series plot for the GDP (in billion U.S.dolar）and the percentage changes of service sector in Denmark "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the relationship between the GDP and the service sector, a unit root test is performed.The unit root test as a commonly used method is used to detect the existence of stationarity in a time series in case of suffering from spurious regression problem. The null hypothesis is defined as the presence of a unit root which indicates a systematic pattern that is unpredictable in this time series.The the alternative hypothesis is the existence of diferent types of stationarity depending on the test used. In this study,the Augmented Dickey-Fuller (ADF)(Dickeyand Fuller,1981) and Phillips-Perron (PP) (Phillips and Perron,1988)Unit Root Tests are adopted in both the levelsand the first differences of the variables. Table l reports the ADF and PP test results.In levels of variables,the null hypothesis of one unit root cannot be rejected. In the case of frst difference,the nullhypothesis is rejected. Hence, both time series are integrated processes of order one, I(1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/70504f0d4930cd13ea085705f73dff8a07c06f55bdf332c2ac2382c818563f42.jpg",
+        "table_caption": [
+            "Table 1: Unit root tests test for the GDP(in billion U.S.dollar)and the percentage changes of service sector "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Level</td><td>Lags</td><td>ADF</td><td>PP</td><td>1st difference</td><td>Lags</td><td>ADF</td><td>PP</td></tr><tr><td>GDP</td><td>1</td><td>-2.5637</td><td>-11.409</td><td>GDP</td><td>2</td><td>-3.151*</td><td>-33.432*</td></tr><tr><td>SS</td><td>1</td><td>-2.8332</td><td>-12.578</td><td>SS</td><td>2</td><td>-4.879*</td><td>-29.88*</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where SS is short for service sector;Augmented Dickey-Fuller is short for ADF,PP for Phillips； The optimal lags selected based on the Akaike information criterion (AIC); The symbol $( * )$ stands for rejection of null hypothesis at the $5 \\%$ level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cointegration is used to describe the common behavior of a set of multivariate time series. In the case that each of these individual time series may be nonstationary, cointegration investigate the stationarity of certain linear combinations of these components. To examine the cointegration relationship between GDP and service sector, Johansen cointegration test (Johansen,1988) is applied. Both trace and maximum eigenvalue types method are adopted to examine the existence of cointegration.The nullhypothesis is that there are no cointegrating equations.The alternate hypothesis is that cointegration is present. According to the Table 2, the first hypothesis, $r = 0$ tests for the presence of cointegration. It is clear that since the test statistic is less than the $5 \\%$ level significantly $( 1 2 . 9 5 < 1 7 . 9 5 )$ and ( $1 2 . 6 3 < 1 4 . 9 0 )$ for trace tests and max eigenvalue methods,respectively. Hence, there is not evidence to reject the nullhypothesis of no cointegration. The second test for $r \\leq 1$ against the alternative hypothesis of $r > 1$ also does not provide evidence to reject $r \\leq 1$ since the test statistic is less than the $1 \\%$ level significantly. We conclude that there is no cointegration between the GDP and the service sector. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ed8ae7fea960001e9590e510072c6a9f12288c3bcb39339aa96269768919045.jpg",
+        "table_caption": [
+            "Table 2: Johansen cointegration test for the GDP (in billion U.S. dollar) and the percentage changes of service sector "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Hypothesis</td><td>test 10%</td><td>5%</td><td>1%</td></tr><tr><td colspan=\"4\">Trace Tests</td></tr><tr><td>r≤1</td><td>0.32 6.50</td><td>8.18</td><td>11.65</td></tr><tr><td>r=0</td><td>12.95 15.66</td><td>17.95</td><td>23.52</td></tr><tr><td colspan=\"4\"> Max Eigenvalue</td></tr><tr><td>r≤1</td><td>0.32 6.50</td><td>8.18</td><td>11.65</td></tr><tr><td>r=0</td><td>12.63 12.91</td><td>14.90</td><td>19.19</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The causality relationship need to be examined to determine whether one time series provide information in forecasting another.The Granger causality test (Granger,1988) is adopted to study the causality relationship betweenthe GDP and the service sector. According to the Table 3, the GDP granger causes the service sector but the other direction is not true,the service sector does not granger causes GDP.These results indicate that there is a one-directional causality between GDP and service sector. In other Words,the economy development will boost the tourism in Denmark. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8d46a3d1b09859db44bf2ccba97cfc105817b8213ab56c7dacc8b4e14555fe49.jpg",
+        "table_caption": [
+            "Table 3: Granger causality test for the GDP (in bilion U.S.dollar) and the percentage changes of service sector "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Hypothesis</td><td>Lag</td><td>F-statistic</td><td>p-value</td></tr><tr><td>Null: GDP does not Granger cause SS</td><td>2</td><td>6.8682</td><td>0.00312*</td></tr><tr><td>Null: SS does not Granger cause GDP</td><td>2</td><td>0.0116</td><td>0.988</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where SS is short for service sector. The symbol $( * )$ stands for rejection of null hypothesis at the $5 \\%$ level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3The features of service sector against agriculture sector, industry sector in yearly data ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This part investigates the characteristic of the development of service sector against agriculture sector and industry sector at a macro level. The Figure 2 ilustrates the tendency of the percentage of agriculture sector and industry sector and service sector in Denmark's GDP. There is a monotonic decreasing in the proportion of agriculture sector from 1979 to 2009. And then this proportion hovers around $1 \\%$ after the financial crisis of 2Oo8.In terms of emergy evaluations,Rydberg and Haden (2Oo6) found that approximately1,110,0oo,OoO person-hours of direct labor were required for agriculture production due to the usage of draft animals for traction in 1936.In in 1970 and 1999,approximately 415,000,000 and 121,000,000 person-hours were required for production due to the usage of modern traction machine. Consequently, the development of agriculture tends to rely on commercial energy and indirect labor. In addition,this motivate farmers change their jobs to the service and manufacturing sectors. Before the financial crisis of 2008,due to the limitation of net emergy yields of agricultural production,even high eficient agricultural technologies and advanced agricultural policies are adopted,other sectors,especially the service sector, still dominate the economic growth. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the proportion of manufacturing sector, there are two main levels for the manufacturing sector with the boundary of the fnancial crisis of 2Oo8.Before this financial crisis,the percentage of the manufacturing has never reduced below $2 1 . 5 \\%$ ． After the year of 2OO8,it has not risen back to $2 1 . 5 \\%$ . Besides, there is a small peak around the year of 1980 and it shows a fluctuating movement from 1981 to 1991. A small bottom appears in 1992 to 1993. The industrial activities is boosted to roughly $24 \\%$ in 2000 and followed by a short stable level round $2 2 . 5 \\%$ . The financial crisis of 2Oo8 is a hammer blow for the manufacturing. The proportion rapidly decreases below $20 \\%$ . It takes 1O years for the manufacturing to climb back to $21 \\%$ Comparing with the manufacturing sector, the service sector shows a completely opposite trend against it in short term, which means that whenever there is araise in manufacturing sector, there more likely to be a decline in the service sector. This can not be regarded as the de-industralization caused by the service sector because normal volatility in international merchandise trade which is an unneglectabe factor in supply and demand relationship tends to drive the temporary recession in the manufacturing sector. Besides, Jensen and Johannesen (2O17) claimed that the great recesion caused by the financial crisis of 2Oo8 can be transmited to the real economy through a reduction in credit supply, which leads to areduction of industry expansion. Before the financial crisis of 2OO8,even the fluctuations between the manufacturing sector and the service sector are opposite, in long term, the level of proportion of the manufacturing sector is able to maintain around $2 2 . 5 \\%$ while the level of the service sector lift from $5 9 . 5 \\%$ to $62 \\%$ . This indicates that the the boost of the service sector does not cause de-industralization in Denmark.However, after the fnancial crisis of 2008, the service sector jumps to step of $6 5 \\%$ whereas the average proportion of manufacturing sector fall below $2 0 . 5 \\%$ . To some extend,this de-industralization is driven by both the shock of the financial crisis and the boost of the service sector. This economic crash hit the manufacturing sector which may cause high unemployment rate,low investment rate and slow cross-border trade.And then the service sector takes over the proportion of the decrease of the manufacturing sector, which makes it hardly to recover for the manufacturing sector. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bd9d3dc2fe47ba7fa451742c686e446def4bcd673a41d69a743a831ce2fa330.jpg",
+        "img_caption": [
+            "Plot for services sector V.S.agriculture in Denmark ",
+            "Figure 2: Time series plot for the percentage changes of agriculture sector, industry sector and service sector in Denmark's GDP) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3Tourism VS manufacturing, periodic sponge effect in monthly data ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Figure 3 shows the time series trend of the number of rented hotel room (in black)and IPI (in blue) from Jan 2Oo0 to Dec 2O019. There exist a strong seasonality in both tourism and industrial base.For every year, the peak of the number of rented hotel room is around August and then drop rapidly to the bottom around January. The main reason for this phenomenon is the temperate maritime climate in Denmark.The temperature in autumn is around $1 5 ^ { \\circ }$ which is very comfortable and mild to tourist. In winter, the temperature is around $0 ^ { \\circ }$ and the humidity due to the rainy period is very high, which may cause an unpleasant travel experience.Furthermore,due to the high latitude location of Denmark,the daytime is much longer than other low latitudes in summer and autumn, which provides longer visiting time for tourists. Moreover, there are many free concerts and performance during tourist season. Overall,there is a mild increase of the trend of the tourism development before the financial crisis of 2OO8 and there is a small decline around the financial crisis of 2Oo8. And then tourism is significantly enhanced after this financial crisis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the manufacturing sector,the trend of IPI shows an obvious seasonal behaviour, which is countercyclical to the seasonal period of tourism. Furthermore,the botom of IPI happens during the time of tourist season.Due to the highly flexible labour market policy,employee in manufacturing can easily switch to tourism during tourist season. Before the financial crisis of 2OO8,there exist a stable increase trend in IPI. However, the IPI level off till September 2O16 followed by a small rise. The recovery of manufacturing sector is much slower than the tourism sector. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this study, we define this seasonal phenomenon as “periodic sponge effect” between manufacturing and tourism. Understanding the characteristic of the periodic sponge effect is crucial to figure out the dynamic of the internal rules of development of tourism, manufacturing and economy. These works will greatly improve the government policies making and economic growth forecasting. This periodic sponge phenomenon is not ade-industralization effect which is lead to a long term decline on the industry. This seasonality behaviour has several distinct features. Firstly,there exist a significant seasonal pattern in Denmark tourism industry, which attract vast number of casual laborers and capital during the tourist peak season because there is a great need for tour guide, temporal performer, waiters,cook, drivers and other related workers. This movement of labor willslow down the manufacturing activities and increase the labor cost because the tourism jobs during the tourist season usually provide better pay and comfortable work situation compared with factory jobs with heavy workload.Furthermore,the investors are also willing to earn more profit by switching some investment targets to tourism area during this period because the average price in the area related to the tourism, such as transportation,accommodation, entertainment and shopping, will rise a lot. Moreover,after the tourist season, these temporary jobs will disappear and the commodities price will return to normal. Due to a very tight immigration policy,Denmark people can easily move back to their original job position. Secondly, there must be a flexible employment polices for employers and a higher level of unemployment assistance.In this case,the labor mobility is rapid and high effcient because the employees with less concern of unemployment issues can adapt the demand of labor market in a more flexible fashion. Thirdly,the barriers to entry tourism labor market are very low compared with other technical jobs.Besides of the seasonal labor mobility,this feature greatly benefits unemployed people. The tourism industry provides a beter option for most of unemployed people compared with collcting unemployment benefits at home.Fourth and most pressng,this phenomenon driven by tourism seasonal pattern does not harm the manufacturing at all. The overall mean of the manufacturing shows a stable increasing trend except the financial crisis of 2OO8 period. This seasonal fluctuation does not impact the stability of the manufacturing. On the contrary, this cyclical volatility offers an important bufer Zone for the manufacturing labor market. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/74cdf5508552feeafddcdaf586dc1d20f81ddd12a55d67c17da7e91bc2cf8487.jpg",
+        "img_caption": [
+            "Figure 3: Time series plot for the number of rented hotel room (scaled in million) and IPI "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Figure 4 shows the time series trend of the IPI and power production. The electricity can not be stored after it is generated. Furthermore,the amount of electricity generated can be regarded as the powder consumption. The manufacturing plays an important role in powder consumption. Consequently, the statistics of power production can be used to approximate the development of the manufacturing. Before the financial crisis of2Oo8,the volatilityof the IPIis similar to the trend of power production.After the year of 2008,the amplitude of the fluctuation of IPI is much smaler than the trend of power production, which means tat the dominant role of IPI in the powder consumption has decreased. In addition, the overalltrend of power production shows a mild decline even there is a slow increase in the IPI. This can be explained by the developments of the manufacturing with environmental protection and energy saving technologies. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Under the advocacy of the Paris Agreement, there are requirements for allsectors to reduce the levels of greenhouse gasss emissions.The industry sector with high emissions and intense energy demand need to be transformed to more sustainable energy system (Wiese and Baldini, 2O18). The green industries have been well developed since the late 197Os in Denmark. For example,in 2004,the proportion of wind energy increases to $1 8 . 8 \\%$ of total electricity consumption, which equivalent to the consumption of 1.4 milion Danish households (Kristinsson and Rao,2Oo8). There exists a bottom-up,market-driven green industry especially the wind turbine industry in Denmark. The development of green industries resulted in several giant companies with industrial cluster (Vestergaard et al., 2004). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dd24bce133604a68a260fd9edacf75b41265c894e50e52aea8e5ace153d9a86.jpg",
+        "img_caption": [
+            "Figure 4: Time series plot for the IPI and power production "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The Figure 5 shows the time series trend of the number of rented hotel room (scaled in milion) and power production. The cycle of fluctuation of the power production is almost reverse to the period of the number of rented hotel room. During the tourist season, the power production wil reach the bottom. This is due to the downturn period of the manufacturing. This is another evidence to support the“periodic sponge effect” between manufacturing and tourism. Moreover, in terms of sustainable economic growth, the tourist is an outstanding environmentally friendly industry. Consequently,the tourist can be take into the consideration to be a replacement of heavily-polluting industries. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccffabeb9935fab2e48bf3eb55f4920c0a4e0d47a19c70e8959ad77a3b6a7c0f.jpg",
+        "img_caption": [
+            "Figure 5: Time series plot for the number of rented hotel room (scaled in million) and power production "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Unemployment in Denmark ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The flexible hiring and fring rules for employers with income security for employees as wellas a generous social safety net constitutes the main characteristic of active labour market in Denmark (Andersen and Svarer,2O07). Andersen (2O12) found that the unemployment caused by the crisis is much sensitive and large due to the Denmark's flexicurity labour market with flexible firing rules.However,the concern about losing jobs in Denmark is much lower compared with other countries due to the low employment protection for ordinary employees and the higher level of unemployment benefits. Consequently, there exists a high level of mobility between jobs,a lower level of job tenure and higher job creation (Svarer et al., 2015). Besides of the contributions of the comparatively low level of unemployment rate made by the low level of employment protection and the high level of social protection, active labour market policies also do play a remarkable role in this. These policies help redundant workers to upgrade their skills that match the needs of the labour market. Especially for low-skilled employees,their qualifications can be quickly and constantly upgraded when skills demands are changing (Refslund et al., 2017). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Figure 6 shows the time series plot for the unemployment rate,the number of rented hotel room (scaled in million), power production and IPI from January 2O07 to June 2019. For unemployment rate, regardless of the cyclical fluctuations,there are two key turning points,which are the financial crisis of 2008 and a economic recovery at the end of 2O11. Within this period, the unemployment rate declines to the lowest bottom just before the financial crisis of 2Oo8.However,the financial crisis cause a dramatic wave of job losses until the end of 2O11. Moreover,the fluctuation of the trend of unemployment rate is geting smaller and smaller. Overall, the trend of the unemployment rate shows a stable decline. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/6308120dc540406ddd3fb78b76e1d6d7d136c0d4c6df2d8c9e2a080ab6b156cb.jpg",
+        "img_caption": [
+            "Figure 6: Time series plot for the unemployment rate,the number of rented hotel room (scaled in milion), power production and IPI "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The Figure 7 shows the time series plot for the unemployment rate and the number of rented hotel room.The cycle of the volatility of the unemployment rate is reversed against the trend of the number of rented hotel room, which means the tourism is able to creates a large number of jobs for jobless people in short term. This can be explained by the labor mobility pattern of “periodic sponge effect”. The overall trend of the unemployment rate does not follw the trend of the tourism.After the year of 2011,the unemployment rate is slowly decreasing because the job opportunities in tourism industry are gradually created for unemployed people. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb647e117dae09fc75e7decec8da475d7e42259f1cb161eb0779685ac9628577.jpg",
+        "img_caption": [
+            "Figure 7: Time series plot for the unemployment rate and the number of rented hotel room (scaled in million) "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Figure 7 shows the time series plot for the unemployment rate and IPI. The overall tendencies of unemployment rate and IPI are opposite, which means that the unemployment is mainly dominated by the manufacturing.Besides,the speed of the overalltrend of the unemployment rate decreases faster than the increase speed of the manufacturing, which means that the manufacturing is not longer play the most significant role in addressing unemployment problem. Instead of the manufacturing, the tourism has been a significant contributor to address unemployment. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bab5735f68e314261af86e883a37be92dc8be99673f22c0df58e84e3b8e72d2.jpg",
+        "img_caption": [
+            "Figure 8: Time series plot for the unemployment rate and IPI "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The Figure 7 shows the time series plot for the unemployment rate and power production. The cycle of the fluctuation of the unemployment rate has similar steps with the power production. The appearance of the peak of the unemployment rate is always accompanied by a peak of power production. The trend of power production mainly folow the trend of IPI except the downturn period around the end of 2O11 is not obvious.Even some enterprises face dificulties in their business operation during tough time 2O08 to 2011, the manufacturing still try to maintain regular operation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/272d5993f2e78ed2bb7b1a15c6b479a0955f0a117141f023f0dc327447729af9.jpg",
+        "img_caption": [
+            "Figure 9: Time series plot for the unemployment rate and power production "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "5 Calculation of periodic sponge effect index ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This periodic sponge effect index aims to describe a reversed cyclical relationship between two time series. This index only capture the strength of reversed collaborative cycle rather than the amplitude of vibration because these time series may be obtained from different scenarios and may differ greatly in the magnitude. The fundamental method of this index is to use 1 step lagged difference to capture the increasing and decreasing tendency. And then compare the synchronization between these two time series. If most of the frequencies of fluctuation for both time series are coincident, this index willclose to one.Hence,The range of this index is from zero (no periodic sponge effect at all) to one (two time series follow exact periodic sponge effect). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1: Two sets of time series $Y _ { t } ^ { 1 }$ and $Y _ { t } ^ { 2 }$ with same length.   \n2: Calculate the 1 step lagged difference $Y _ { i + 1 } ^ { 1 } - Y _ { i } ^ { 1 }$ for $i \\in ( 1 , \\cdots , n - 1 )$ for time series $Y _ { 1 : n } ^ { 1 }$   \n3: Repeat the same steps for $Y _ { 1 : n } ^ { 2 }$   \n4: Read the sign of lagged difference series $S ^ { 1 }$ and $S ^ { 2 }$ ：   \n5: Compare the difference between $S ^ { 1 }$ and $S ^ { 2 }$ for each time point and count the total number $n _ { s }$ ：   \n6: Calculate the periodic sponge effect index $P S E = n _ { s } / n$ where $P S E \\in [ 0 , 1 ]$ ： ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The turning point can also be obtained by read the changing point of the sign in the lagged diffrence series. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In order to test the periodic sponge effect index,two sin curves are simulated to undertake the test. The Figure 10 shows two sin curves with totally reversed periods.By adopting the Algorithm 1,the PSE is calculated to be one, which means they have perfect periodic sponge effect. Furthermore,the number of turning points is three, which means there are three tendency changing points. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/5062efbf61912342680a44ec51b2142efad7349e1ddfdd4c80a607ae61729f71.jpg",
+        "img_caption": [
+            "Figure 1O: Simulated sin curves "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The Table 4 shows the periodic sponge relationship between various sectors. There exist very strong periodic sponge effect between HR vs PG and UR vs HR,which agree with our previous analysis. The periodic sponge efects between PG vs IPI and UR vs PG are very weak, which indicates that their fluctuation periods are nearly same.Furthermore,the smoothing adopted on these time series do improve the accuracies. Consequently,this periodic sponge efect index can be used to evaluate the periodic sponge relationship between two time series. ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfda65ae80317a4d601c2c4adfdc87f20aaa8752f2c9c21c203f8841ea28e8fd.jpg",
+        "table_caption": [
+            "Table4:PSE testresults "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>results</td><td>smoothing</td><td>HR vs IPI</td><td>HR vs PG PG vs IPI</td></tr><tr><td>PSE</td><td>None</td><td>0.69</td><td>0.32</td></tr><tr><td>PSE</td><td>10 0.56</td><td>0.44 0.82</td><td>0.37</td></tr><tr><td>PSE</td><td>20</td><td>0.62 0.89</td><td>0.39</td></tr><tr><td>results</td><td>smoothing UR vs IPI</td><td>UR vs HR</td><td>UR vs PG</td></tr><tr><td>PSE</td><td>None</td><td>0.47 0.70</td><td>0.25</td></tr><tr><td>PSE</td><td>10</td><td>0.48 0.72</td><td>0.28</td></tr><tr><td>PSE</td><td>20</td><td>0.49 0.73</td><td>0.31</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where HR is short for the numberofrented hotel room,PG is shortfor power production,and UR is short for unemployment rate. Smoothing means the time series is smoothed before apply Algorithm 1. Smoothing lag represents how many data points are included in smoothing. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusion ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This paper aim to investigate the role of tourism played in economic growth from various aspects in Denmark. By analysing yearly scale data,the overall relationship between the economic growth and the service sector is described.The Dutch Disease caused by the tourism is disproved, which means that the increment of tourism does not harm the economic development.The unit root test is adopted to detect the existence of stationarity in service sector and GDP.Results show that both time series are integrated processes of order one,I(1). Johansen cointegration test is applied to show there is no cointegration between the GDP and the service sector. And then the Granger causality test is performed to show the increase of economy will enhance the tourism in Denmark. The characteristics of the development of service sector against agriculture sector and industry sector at a macro level are studied with reliable explanations. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Under the monthly scale,the behaviours of the number of rented hotel room as a outstanding index to investigate the dynamic mechanism of tourism sector statistics,power production and IPI are studied. The cross relationships and tendencies of these time series are examined before and after the financial crisis of 2008.The de-industralization is caused by the joint force of the tourism and the financial crisis of 2008. The economic crash hit the manufacturing sector to a very low level and then the service sector takes over the proportion of the decrease of the manufacturing sector. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The existence of periodic sponge effect between tourism and the manufacturing is found, which helps to understand the dynamic of the economic developments. This phenomenon is carefully addressed by presenting several features, including the significant seasonal pattern in Denmark tourism industry, tight immigration policy,flexible employment policies,higher level of unemployment assistance and low barriers to entry tourism labor market. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the unemployment against the number of rented hotel room, power production and IP are illustrated by introducing the Denmark's flexicurity labour market with flexible firing and hiring rules. In Denmark's labor market, these also exists the periodic sponge efect. Furthermore,the manufacturing is the main factor causing unemployment and the tourism can gradually solve unemployment issue. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "An approach to calculate the periodic sponge effect index that examines the strength of reversed cyclical relationship between two time series is proposed. This method is further applied to detect the cross periodic sponge relationship among the unemployment rate, the number of rented hotel room, power production and IP. The results agree with the analysis from previous sections. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "There are some limitations for our current study. Other countries are also needed to investigate to show if this periodic sponge effect is prevalence. Besides,this the periodic sponge effect index can also can be adopted in other areas to examined if this is a unique feature in tourism area. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2020). Statistics denmark. https:/ /www.dst .dk/en. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(2020). World bank country and lending groups. https: //datahelpdesk.worldbank.org/ knowledgebase/articles/906519#High_income.   \nAndersen, T. M. (20l2). A flexicurity labour market in the great recession: The case of denmark. De Economist, 160(2):117-140.   \nAndersen, T. M. and Svarer, M. (2Oo7). Flexicurity—labour market performance in denmark. CESifo Economic Studies, 53(3):389-429.   \nAshworth,J.and Thomas,B.(1999). Patterns of seasonality in employment in tourism in the uk. Applied Economics Letters, 6(11):735-739.   \nAykac,A. (2010). Tourism employment: Towards an integrated policy approach. Anatolia,21(1):11-27.   \nAynalem, S., Birhanu, K.,and Tesefay,S. (2O16). Employment opportunities and challenges in tourismand hospitality sectors. Journal of Tourism & Hospitality,5(6):1-5.   \nBalaguer, J. and Cantavella-Jorda, M. (2O02). Tourism as a long-run economic growth factor: the spanish case. Applied economics, 34(7):877-884.   \nBrida, J. G.,Lanzilota,B., Lionetti, S.,and Risso, W. A. (2O1O). Research note: The tourism-led growth hypothesis for uruguay. Tourism Economics,16(3):765-771.   \nBrida, J. G.and Pulina, M. (2010). A literature review on the tourism-led-growth hypothesis.   \nBrida, J. G., Punzo,L.F.,and Risso, W. A. (2O11). Research note: Tourism as a factor of growth-the case of brazil. Tourism Economics,17(6):1375-1386.   \nBrida,J. G. and Risso,W. A. (20o9). Tourism as a factor of long-run economic growth: An empirical analysis for chile. European Journal of Tourism Research, 2(2).   \nBrida, J. G. and Risso, W. A. (201o). Tourism as a determinant of long-run economic growth. Journal of Policy Research in Tourism, Leisure & Events,2(1):14-28.   \nCapo,J.,Font, A.R.,and Nadal, J.R. (20o7).Dutch disease in tourism economies: Evidence from the balearics and the canary islands. Journal of sustainable Tourism, 15(6):615-627.   \nChao, C.-C.,Hazari,B.R.,Laffargue,J.-P.,Sgro,P.M.,and Eden,S. (2O06). Tourism, dutch disease and welfare in an open dynamic economy. The Japanese Economic Review, 57(4):501-515.   \nCopeland, B. R. (1991). Tourism, welfare and de-industrialization in a small open economy. Economica, pages 515-529.   \nCortes-Jimenez,I. and Pulina, M. (2O1O). Inbound tourism and long-run economic growth. Current Issues in Tourism, 13(1):61-74.   \nCukier,J. et al. (20o2). Tourism employment issues in developing countries: examples from indonesia. Tourism and development: Concepts and issues, pages 165-201.   \nDemiroz,D.M.and Ongan, S. (2Oo5). The contribution of tourism to the long-run turkish economic growth. Ekonomicky casopis, 9:880-894.   \nDeng,T., Ma, M.,and Cao, J. (2O14). Tourism resource development and long-term economic growth: A resource curse hypothesis approach. Tourism Economics, 20(5):923-938.   \nDickey,D.A. and Fuller, W.A. (1981).Likelihood ratio statistics for autoregressive time series with a unit root. Econometrica: journal of the Econometric Society, pages 1057-1072.   \nDritsakis, N. (2O04). Tourism as a long-run economic growth factor: an empirical investigation for greece using causality analysis. Tourism economics, 1O(3):305-316.   \nGhalia,T.and Fidrmuc, J. (2O18). The curse of tourism? Journal of Hospitality & Tourism Research, 42(6):979-996.   \nGranger, C. W. (1988). Causality, cointegration, and control. Journal of Economic Dynamics and Control, 12(2-3):551-559.   \nHjalager, A.-M. and Andersen, S. (2Oo1). Tourism employment: contingent work or professional career? Employee Relations.   \nHolzner, M. (2011). Tourism and economic development: The beach disease? Tourism Management, 32(4):922-933. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Jensen,T.L.and Johannesen,N.(2017).The consumption efects of the 2007-2008 financial crisis: Evidence from households in denmark. American Economic Review, 107(11):3386-3414. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Johansen, S. (1988). Statistical analysis of cointegration vectors. Journal of economic dynamics and control, 12(2-3):231-254.   \nJolliffe,L.and Farnsworth, R. (2Oo3). Seasonality in tourism employment: human resource challenges. International Journal of Contemporary Hospitality Management.   \nKenell, L. (2Oo8). Dutch disease and tourism-the case of thailand.   \nKhoshnevis Yazdi, S., Homa Salehi, K.，and Soheilzad, M. (2O17). The relationship between tourism, foreign direct investment and economic growth: evidence from iran. Current Issues in Tourism,20(1):15- 26.   \nKibara, O. N., Odhiambo, N. M.,and Njuguna, J. M. (2012). Tourism and economic growth in kenya: An empirical investigation. International Business & Economics Research Journal (IBER),11(5):517-528.   \nKreishan, F. M. (2010). Tourism and economic growth: The case of jordan. European Journal of Social Sciences, 15(2):63-68.   \nKristinsson, K.and Rao,R.(2Oo8). Interactive learning or technology transfer as a way to catch-up? analysing the wind energy industry in denmark and india. Industry and innovation,15(3):297-320.   \nLashkarizadeh, M., Keshmir, Z., Gashti, H. P., Rafat,B. S., et al. (2012).Evaluation of the relationship between tourism industry and economic growth in iran. Asian Journal of Business and Management Sciences,1(9):88-97.   \nLundmark, L. (20o6). Mobility, migration and seasonal tourism employment: Evidence from swedish mountain municipalities. Scandinavian Journal of Hospitality and Tourism, 6(3):197-213.   \nMacdonald, R. (2Oo7). Not dutch disease,it's china syndrome. Insights on the Canadian Economy Analytical Paper.   \nMarcouiler, D. W.and Xia, X.(2008). Distribution of income from tourism-sensitive employment. Tourism Economics,14(3):545-565.   \nMcCatty,M.and Serju, P. (206). Tourism, economic growth and employment. Bank of Jamaica, Kingston.   \nMourdoukoutas, P. (1988). Seasonal employment, seasonal unemployment and unemployment compensation: The case of the tourist industry of the greek islands. American Journal of Economics and Sociology, 47(3):315-329.   \nNarayan, P. K., Narayan, S., Prasad, A.,and Prasad, B. C. (201O). Tourism and economic growth: a panel data analysis for pacific island countries. Tourism economics,16(1):169-183.   \nNowak,J.-J.and Sahli, M. (2oo7). Coastal tourism and ‘dutch disease'in asmallisland economy. Tourism Economics, 13(1):49-65.   \nOh, C.-O. (2005). The contribution of tourism development to economic growth in the korean economy. Tourism management, 26(1):39-44.   \nOjaghlou, M. et al. (2019). Tourism-led growth and risk of the dutch disease: Dutch disease in turkey. International Business Research, 12(7):103-120. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ozturk,I. and Acaravci, A. (O09). On the causality between tourism growth and economic growth: Empirical evidence from turkey. Transylvanian Review of Administrative Sciences, 5(25):73-81. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Phillips, P. C.and Perron,P. (1988). Testing for a unit root in time series regression. Biometrika,75(2):335- 346. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Proenca, S.and Soukiazis,E. (2Oo8). Tourism as an economic growth factor: a case study for southern european countries. Tourism Economics,14(4):791-806.   \nRefslund, B., Rasmussen, S.,and Sprensen, O. H. (2O17). Security and labour market flexibility: an alternative view from denmark. Myths of employment deregulation: how it neither creates jobs nor reduces labour market segmentation, page 207.   \nRefslund,B.and Sprensen,O.H.(2016). Islands in the stream? the challenges and resilience of the danish industrial relations model in a liberalising world. Industrial Relations Journal,47(5-6):530-546.   \nRidderstaat, J., Croes,R.,and Nijkamp,P. (2O14). Tourism and long-run economic growth in aruba. International Journal of Tourism Research,16(5):472-487.   \nRydberg, T. and Haden, A. C. (2O06). Emergy evaluations of denmark and danish agriculture: Asessing the influence of changing resource availability on the organization of agriculture and society. Agriculture, Ecosystems & Environment, 117(2-3):145-158.   \nSamimi, A. J.,Sadeghi, S.,and Sadeghi, S. (2011). Tourism and economic growth in developing countries: P-var approach. Middle-East Journal of Scientifc Research,1O(1):28-32.   \nSanchez Carrera, E. J., Brida,J. G.，and Risso, W.A. (2O08). Tourism's impact on long-run mexican economic growth. Economics Bulletin, 23(21):1-8.   \nSeetanah, B. (2011). Assessing the dynamic economic impact of tourism for island economies. Annals of tourism research,38(1):291-308.   \nSrinivasan, P., Kumar, P. S. and Ganesh, L. (2O12). Tourism and economic growth in sri lanka: An ardl bounds testing approach. Environment and Urbanization Asia, 3(2):397-405.   \nSvarer,M.,Andersen,T.M.,and Rosholm,M.(2015). Flexicurity,dansk pkonomi og den pkonomiske krise. In Dansk Flexicurity, pages 245-264. Hans Reitzels Forlag.   \nSzivas,E.and Riley, M. (1999). Tourism employment during economic transition. Annals of tourism research, 26(4):747-771.   \nTang,C.F.and Tan,E.C.(2015). Does tourism effectively stimulate malaysia's economic growth? Tourism management, 46:158-163.   \nTuncay,N.and Ozcan, C.C. (2O20). The effect of dutch disease in the tourism sector: the case of mediterranean countries. Tourism and hospitality management, 26(1):97-114.   \nVestergaard,J., Brandstrup,L.,and Goddard II,R.D.(2O04). Industry formation and state intervention: The case of the wind turbine industry in denmark and the united states. In Online version of a paper published in the Academy of International Business (Southeast USA Chapter) Conference Proceedings (November 2004), pages 329-340.   \nWiese,F.and Baldini,M. (2018). Conceptual model of the industry sector in an energy system model: A case study for denmark. Journal of Cleaner Production, 2O3:427-443. ",
+        "page_idx": 20
+    }
+]

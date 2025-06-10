@@ -1,0 +1,80 @@
+# Performance Enhancement of Aperture Antennas Used for Estimation of Direction of Arrival (DOA)
+
+() 2Weibo Wang,(2)Xiang Gu2Rj Mita   
+(1) School of Electrical and Information Engineering, Xihua University, Chengdu, Sichuan, China   
+wangweibo@mail.xhu.edu.cn, guxiang8@hotmail.com, rajmittra@ieee.org
+
+(2) EMC Lab, Department of Electrical Engineering, The Pennsylvania State University, State College,PA,USA (3Key Laboratory of Microwave Remote Sensing, Centre for Space Science and Applied Research, Chinese Academy of Sciences, Beijing, China
+
+Abstract-In this paper,we propose a method based on signal processing techniques to improve the performance of aperture antennas,such as a parabolic reflector,used to estimate the Direction of Arrival (DOA) of a signal. Three signal processing algorithms are investigated, including the correlation method, which isused to make an initial estimate of the incidence angle withina certainrange.Then inverse matrix method and singular value decomposition method are subsequently utilized to refine the estimate within this range.
+
+# I. INTRODUCTION
+
+DOA estimation techniques for aperture antenna have wide applications in many fields,such as communication,radar, sonar,radio,etc [1].Many algorithms,including the Multiple SignalClassification(MUSIC)， EstimationofSignal Parameters via Rotation Invariance Techniques (ESPRIT), have been investigated to address this problem.However,these techniques do not perform too well on highly correlated or coherent signals generated via multipath propagation scenario. Alternative approaches for coherent signals have also been developed for DOA estimation， including the Maximum Likelihood (ML） method,Weighted Subspace Fiting(WSF) method，Spatial Smoothing(SS） method，Singular Value Decomposition (SVD) method and Toeplitz method, to name a few.Its accuracy of the ML method degrades severely when the angular separation between sources is small and the signalto-noise ratio (SNR) drops below a certain level [2].The WSF method presents a relatively high computational burden owing to the multi-variable minimization that it must perform.The SS method cannot resolve the number of signals that exceed the number of array sensors.The performance of SVD method is poor when the SNR level is low,because it reconstructs the matrix data set,which includes all the signal information,by directly processing the noise-free snapshot data[3]. In this paper,a novel technique for DOA estimation is proposed for aperture antennas,such as the parabolic reflector to improve the estimation in a computationally efficient manner. The proposed method uses the correlation approach to estimate the DOA within a certain angular range.The inverse matrix and SVD methods are subsequently employed to improve the initial estimate and improve the resolution of the aperture antenna.
+
+# II. PROBLEMFORMULATION
+
+Fig.1 shows a representative aperture antenna, namely a parabolic reflector.We assume that the sensors receiving the signals are distributed in the focal plane of the reflector along the $y$ axis.Our task is to estimate the azimuthal angle of arrival by using the proposed method.
+
+![](images/8b5769a20ceffe5f2676cc3be967210c3f28f3dfc40d9b89f2836f5dbca6ab9b.jpg)  
+Fig.1. Geometry of the parabolic reflector with sensors located in its focal plane.
+
+Uniform Linear Array (ULA) of $N$ sensors receiving $I$ signals from the directions $\theta _ { \mathrm { i } } , \ i { = } 1 , \cdots J .$ The incident field is assumed to be a plane wave originating from a large distance away from the antenna.The received signal vector can be as follows [4]:
+
+$$
+\begin{array} { l } { { \bf x } ( t ) = { \bf A } { \bf s } ( t ) + { \bf n } ( t ) } \\ { \quad { \bf x } ( t ) = [ x _ { 1 } ( t ) , \cdots , x _ { N } ( t ) ] ^ { T } } \\ { \quad { \bf A } = [ a ( \theta _ { 1 } ) , \cdots , a ( \theta _ { I } ) ] } \\ { \quad { \bf s } ( t ) = [ s _ { 1 } ( t ) , \cdots , s _ { I } ( t ) ] ^ { T } } \\ { \quad { \bf n } ( t ) = [ n _ { 1 } ( t ) , \cdots , n _ { N } ( t ) ] ^ { T } } \end{array}
+$$
+
+here $x _ { \mathrm { n } } ( t )$ represents the signal received at the nth sensor, with $\scriptstyle n = 1 , \cdots , N ;$ the matrix A comprises the vector of the signal waveform; $s _ { \mathrm { i } } ( t )$ is the ith signal,where $i { = } 1 , \cdots , I ;$ and $n _ { \mathrm { n } } ( t )$ is the additive white Gaussian noise induced in the nth sensor.
+
+# III. PROPOSED METHOD FORDOAESTIMATION
+
+We begin the procedure,proposed herein,by using the correlation method as described below. The correlation coefficient $\rho$ between two signals $s _ { \mathrm { i } } ( t )$ and $s _ { \mathrm { k } } ( t )$ is given by:
+
+$$
+\rho _ { i k } = \frac { E \Big [ s _ { i } ( t ) s _ { k } ^ { * } ( t ) \Big ] } { \sqrt { E \Big [ \big | s _ { i } ( t ) \big | ^ { 2 } \Big ] E \Big [ \big | s _ { k } ( t ) \big | ^ { 2 } \Big ] } }
+$$
+
+where $\rho$ represents the linear correlation (or dependence) between the two signals. If $\scriptstyle \rho = 1$ ，there is a total positive correlation while there is no correlation if $\scriptstyle \rho = 0$
+
+Following the correlation step,which provides as with as crude estimate of the range of the DOA,our next step is to investigate the SVD method，which is a type of matrix reconstruction technique that is useful dealing withillconditional matrices,which the matrix may well be for practical situations.For the noise-free case or if the SNR is low. we can use the Inverse Matrix method to find the incident angle of incoming signal. We note also that many DOA algorithms perform a subspace decomposition,by using an eigenvalueeigenvector analysis,which is usually implemented by using the SVD method [5]. $R _ { I ^ { \times 1 } }$ which is the output of the SVD operator,can be written as
+
+$$
+R _ { \scriptscriptstyle { I \times 1 } } = C _ { \scriptscriptstyle { I \times M } } ^ { - 1 } K _ { \scriptscriptstyle { M \times 1 } }
+$$
+
+The normalized values show the positions of the incident angles, $I$ is the number of the entries of $R$ $\boldsymbol { C } _ { I \times M } ^ { - 1 }$ is the inverse matrix of the new base matrix,which is the truncated version of the original base matrix,whose size $N$ has been truncated to $M$ by using the SVD，which delete the eigenvectors whose eigenvalues fall below a certain threshold, to improve the condition number of the new base matrix.The original base matrix can be derived in advance by using $I$ different incident angles.We add that the $K _ { M \times 1 }$ is the received signal at the $N$ sensors following the SVD projection.
+
+# IV. NUMERICALRESULTS
+
+For the purpose of the numerical experiments reported herein,we set the frequency of operation to be $3 0 \mathrm { G H z }$ ,and use a reflector whose focal length $( F )$ is $1 6 . 1 6 \mathrm { m m }$ ，andithasan aperture diameter $( D )$ of $6 3 . 6 \mathrm { m m }$ (6.36𝜆). We begin by using the HFSS simulator to generate the original base matrix for 61 incident angles ranging from $- 3 0 ^ { \circ }$ to $3 0 ^ { \circ }$ ，witha $1 ^ { \circ }$ interval. We assume that there are 67 sensors $( 0 . 0 9 5 4 \lambda$ separation） on the focal plane along the y axis; hence $N$ is 67.The SVD threshold is set to $1 0 ^ { - 3 }$ ,and the SNR is assumed to be 40dB.
+
+Fig.2(a) shows the magnitude distribution of the focal plane fieldwhentwoincidentwavesfrom $0 ^ { \circ }$ and $3 ^ { \circ }$ are simultaneously incident upon the reflector.From the plot of the correlation coefficient shown in Fig.2(b),we see that we can narrow the search range within $- 2 ^ { \circ }$ and $+ 5 ^ { \circ }$ ，The DOA results for this reduced range are shown in Fig.3(b),and are compared with those in Fig.3(a) when the entire angular range is used. We can see that the proposed two-step method is demonstrably superior in resolving two incident angles that are quite close to eachother. Fig.4(a) plots the correlation coefficient. The two angles are $0 ^ { \circ }$ and $2 5 ^ { \circ }$ .We note that the search region now range from $- 5 ^ { \circ }$ to $3 0 ^ { \circ }$ . Fig.4(b) illustrates the improvement achieved by using the proposed algorithm.
+
+Note also that the improvement in the resolution obtained by using the proposed approach is far superior to that realized when using the correlation or other traditional schemes.
+
+1.6 ICalculated weight with noise(SNR= 40dB) 1.6 Calculated weight with noise(SNR= 40dB)   
+1.4 t 1.4 de Condition No.:975 (after SVD) Condition No.:419 (after SVD) 1 米米 1 米米   
+0.8 0.8   
+0.6 0.6   
+0.4 0.4   
+0.2 0.2 -30 0 -20 -10 0 10 20 30 -21012345 Incident Annle Incilent Annle
+
+![](images/a18c6cc3f0e54f1308de2f352bee99a2a18caef03474b653abbbb63f32cc11ea.jpg)  
+Fig.2.For the case of simultaneous incidence of two waves coming from $0 ^ { \circ }$ and $3 ^ { \circ }$ (a) normalized magnitude;and (b) correlation coefficient.   
+Fig.3.For the case of simultaneous incidence oftwo waves coming from $0 ^ { \circ }$ and $3 ^ { \circ }$ (a) DOA results obtained by using the entire range; and (b) fine search DOA results (normalized).   
+Fig.4.For the case of simultaneous incidence of two waves coming from $0 ^ { \circ }$ and $2 5 ^ { \circ }$ (a) correlation coefficient; and(b) fine search DOA results(normalized) using the proposed algorithm.
+
+1.2 0+25 degree 1.6 Calculated weight with noise(SNR= 40dB) 3dB threshold=0.707 3dB threshold=0.707 福 egei 0.6 0.4 0.2 0.2 -30 -20 -10 0 10 20 30 3 -20 -10 0 10 20 30 Incident Anale Incident Anqle
+
+# ACKNOWLEDGEMENT
+
+This work is supported by Chunhui plan z2012026.13209645.
+
+# REFERENCES
+
+[1] Y.Zhang,Z.Ye,and C.Liu,"An efficient DOA estimation method in multipath environment," Signal Processing,vol. 90, pp. 707-713,2010.   
+[2] C.Kasparis,"Improved resolution DoA estimation through shrunk projections on the signal sub-space," Signal Processing,vol.92,pp. 1673-1678,2012.   
+[3] G.Di Mario，E.D.Di Claudio,and G.Orlandi,"Fast SVD-based algorithm for signal selective DOA estimation," inIEEE International Symposium onCircuits and Systems,vol.2,pp.497-500,1996.   
+[4] B.Liao,Z. Zhang,and S.Chan,"DOA estimation and tracking of ulas with mutual coupling," Aerospace and Electronic Systems,IEEE Transactions on, vol. 48,pp.891-905,2012.   
+[5] A.Massetani,F.Piazza,and A.Uncini,"Efficient DOA estimation by a specific SVD algorithm,"inIEEE International Symposium onCircuits and Systems,vol.2,pp.389-392,1994.

@@ -1,0 +1,145 @@
+# 旋转盘片式空间相机快门的设计与研制
+
+张鑫 周惠坤 李保权 白超平 史春艳（中国科学院国家空间科学中心,天基空间环境探测北京市重点实验室,北京100190)
+
+摘要：以空间成像观测中应用的快门装置为研究目标，介绍了目前在空间相机中应用的几种快门型式，并分析其优缺点.选取旋转盘片式快门作为研究对象，从曝光方式出发,研究快门控制策略,分析电机选型及控制规则构建基于DSP控制器的方案,并基于该方案进行了快门曝光时间的测试最大误差 $3 . 0 \%$ 最小误差 $0 . 1 \%$ 测试结果满足任务需求.目前该装置在国内同类快门中具有动态范围宽、曝光误差小、工程化程度高的特点.
+
+关键词：空间相机;快门;旋转盘片式快门  
+中图分类号：TH751 文献标志码:A 文章编号：1674-1579(2015)06-0037-05  
+DO1: $1 0 . 3 9 6 9 / \mathrm { j }$ . issn. 1674-1579.2015.06.008
+
+# Design and Manufacture of Rotary-Disc Shutter of Space Imager
+
+ZHANG Xin ,ZHOU Huikun,LI Baoquan ,BAI Chaoping ,SHI Chunyan ( Center of Space Science and Applied Research ,Chinese Academy of Sciences ,Beijing lOO19O ,China)
+
+Abstract: Regarding the shutter of space imager as the research background ,the advantages and disadvantages of different types of shutters are introduced.The rotary-disc shutter is selected as the research object.Starting from the mode of exposure,the control strategy of shutter is investigated.The reason for selecting PMSM motor is analyzed ,and a controller based on Digital Signal Processor(DSP) is designed. Furthermore ,the maximum error of exposure time is less than $3 . 0 \%$ ,which meets the performance requirements of telescope imager.
+
+Keywords: telescope; shutter; rotary-disc shutter
+
+# 0引言
+
+随着人类空间活动的逐步增多，诸多卫星内部安装了空间相机而快门装置是其中的关键部件.快门装置是一种由驱动器控制的机构，通过调节光线入射时间避免感光器件曝光过度.在空间环境下应用快门装置有特殊要求:首先空间环境温度交变频繁卫星内部温度范围经常在 $- 1 5 \mathrm { ^ q C } \sim + 4 5 \mathrm { ^ \circ C }$ 的范围内变化对快门装置温度适应性要求较高；另外对快门装置可靠性要求高在长时间工作情况下，不允许出现机构卡死的现象；还有在真空环境下，油脂易挥发，作为活动机构的快门装置，内部轴承和活动关
+
+节应使用无脂润滑
+
+本文将介绍几种空间相机快门型式，并选择当前空间相机中普遍使用的旋转盘片式快门装置重点研究对其中曝光方式、电机控制方式、控制器设计分别论述最后对测试结果进行总结，
+
+# 空间相机快门型式介绍
+
+快门种类很多，从技术形式上大体可以分为机械快门、电子快门和程序快门3类.在目前的空间相机应用中机械快门应用较多常用的机械快门有如下3种:即旋转中心式快门、旋转盘片式快门和焦点平面式快门.
+
+旋转中心式快门的光孔是从中心打开，然后向中心关闭（见图1）所以快门的正光性好不破坏构象的几何精度，并且它可以获得很高的光效系数( $\eta$ 约到 $9 0 \%$ ），和很短的曝光时间，一般可达到$1 / 2 5 0 \sim 1 / 3 0 0$ s 甚至可达到 $1 / 1 \ 0 0 0 \ \mathrm { s }$ 或更短[1].
+
+![](images/496eea573382058faba5fef7ab22d864be087592942a1fd7f5c783c7b1455b37.jpg)  
+图1 旋转中心式快门Fig.1Leaf shutter
+
+旋转盘片式快门的结构最简单，它与旋转中心式快门一样可以获得较高的拍摄频率和较短的曝光时间，一般可达 $1 / 2 5 0 \sim 1 / 3 0 0$ s同时也具有较高的光效系数，一般在 $70 \%$ 以上.见图2所示，当光孔直径较大时不仅使快门的结构尺寸和叶片的重量增加无法得到较短的曝光时间同时大直径的盘片在高速旋转时容易引起振动，破坏仪器的正常工作.旋转盘片式快门的缺点是对于亮度快速变化的对象，成像正光性不好.因为盘片在工作过程中是从物镜的光孔一边扫向另一边，该过程中如果对象亮度变化则导致像场的照度不均.另外由于旋转盘片工作位置的安装对于自标光束的不对称也会带来所谓光学不同步误差[1-2].
+
+焦点平面式快门按运动方向分，有横走式和纵走式两种;按幕帘的材料分，有幕帘式和钢片式两种如图3所示.钢片式比幕帘式应用多，因为钢片式运动速度快（走完 $2 4 ~ \mathrm { m m }$ 约 $6 . 5 \sim 8 ~ \mathrm { m s }$ ）在高速时缝隙宽度较大( $1 / 1 \ 0 0 0$ s时,缝隙宽度约为 $3 \sim$ $3 . 5 ~ \mathrm { m m } \mathrm { , }$ ）所以曝光时间稳定，曝光的不均匀性小.钢片式快门还有一个突出的优点是有效曝光时间可以更短现已达到 $1 / 4 0 0 0 \ \mathrm { s } . 1 / 8 \ 0 0 0 \ \mathrm { s }$ 和 $1 / 1 2 0 0 0 \ \mathrm { s }$ 这个优点是幕帘快门望尘莫及的.缺点是动量和冲击较大使得照相机拍摄时声音大、抖动量大，
+
+![](images/9c876721eeddc57a0c3e73370e1d9cd99a4525bff9c8a3f32f387f6d53bd5a64.jpg)  
+图3焦点平面式快门 Fig.3Focal-plane shutter
+
+# 2旋转盘片式快门曝光实现方式
+
+![](images/f808e39119b9cb1c0dd0f17a618190c185e809ad5bbebbc6ac84dba639085b3f.jpg)  
+图2旋转盘片式快门Fig.2Rotary-disc shutter
+
+目前，空间相机中很多采用旋转盘片式快门，该方式快门可以适应较宽的动态范围，并且曝光过程中均匀度较高(针对亮度变化缓慢的对象而言).另外该型式快门相对旋转中心式快门、焦点平面式快门而言具有结构简单的特点[34].在温度交变剧烈的空间环境下这种简单的结构故障率低，寿命长，不易出现机构卡死的现象因此工作也更加可靠.很多已经在轨运行的空间相机的快门都采用这种方法[56]如 SOHO卫星上的极紫外成像望远镜 EIT(extreme ultraviolet imaging telescope）、GOES卫星上的软X射线成像仪SXI（soft X-ray imager）、YOH-KOH卫星上的软X射线望远镜SXT(softX-raytele-scope)及SOLAR-B卫星上的X射线望远镜XRT(X-ray telescope).
+
+旋转盘片式快门控制装置采用由电机控制具有扇形孔的铝盘实现，该装置主要包括电机、铝盘、编码器、控制电路等几个部分.根据 $\frac { \theta } { \omega } = t , \theta$ 为铝盘开孔角度 ${ \bf \Omega } , \omega _ { \mathrm { { \Gamma } } }$ 为电机转速 $\mathbf { \Omega } , t$ 为转过开孔所用的时间，也就是曝光量.由此可见，为了精确控制曝光时间，在开孔一定的情况下只要准确控制转盘的转速即可.而铝盘开孔的大小要根据曝光时间而定.
+
+在空间相机的曝光时间设置上，采用指数式的变化方式.这样，有限的几个曝光时间就能满足系统动态范围的要求，大大降低了对辐照时间控制装置的控制要求，
+
+曝光时间的确定基本公式如下：
+
+$$
+T _ { \natural \sharp \sharp \sharp } \ = \ C _ { 1 } 2 ^ { A / C _ { 2 } }
+$$
+
+式中 $C _ { 1 } = 1 . 0 \mathrm { ~ } , C _ { 2 } = 2 . 0 \mathrm { ~ } A$ 是正整数.
+
+本文设计的快门装置根据上述原则，设计实现以下27种曝光控制：
+
+$1 \ \mathrm { m s } \circ 2 \ \mathrm { m s } \circ 3 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 6 \ \mathrm { m s } \circ 8 \ \mathrm { m s } \circ 1 1 \ \mathrm { m s } \circ 1 6 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 4 \ \mathrm { m s } \circ 2 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 2 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 4 0 \ \ \mathrm { m s } \circ 5 \ \mathrm { m s } \circ 6  4 0 0 \ \ \ \mathrm { m s } \circ 5 \ \mathrm { m s } \circ 6  5 0 0 \ \ \ \mathrm { m s }$ （204号$2 3 \mathrm { \ m s } \mathrm { , } 3 2 \mathrm { \ m s } \mathrm { , } 4 5 \mathrm { \ m s } \mathrm { , } 6 4 \mathrm { \ m s } \mathrm { , } 9 1 \mathrm { \ m s } \mathrm { , } 1 2 8 \mathrm { \ m s } \mathrm { , } 1 8 1 \mathrm { \ m s } \mathrm { , }$ （20$2 5 6 \ \mathrm { m s } \circ 3 6 2 \ \mathrm { m s } \circ 5 1 2 \ \mathrm { m s } \circ 7 2 4 \ \mathrm { m s } \circ 1 . \ 0 2 \ \mathrm { s } \circ 1 . \ 4 5 \ \mathrm { s } \circ 1 .$ $2 . 0 4 8 \ \mathrm { s } . 2 . 9 0 \ \mathrm { s } . 4 . 0 9 \ \mathrm { s } . 5 . 7 9 \ \mathrm { s } . 8 . 1 9 \ \mathrm { s } . 1 1 . 5 8 \ \mathrm { s }$ ·
+
+该快门控制装置实现 $\mathrm { m s } \sim \mathrm { s }$ 量级变化,跨度4个数量级以上.如果铝盘上开一个扇形孔则电机调速范围相当大.如果铝盘上开两个扇形的孔孔径大小一个为 $3 ^ { \circ }$ 另外一个为 $6 0 ^ { \circ }$ ,中心线相差 $1 8 0 ^ { \circ }$ ,相当于两个快门分别用于不同时间等级的曝光.为便于下文叙述,依次称为S、L孔.屏蔽区1和2位于两个通光孔之间.曝光装置的铝盘设计如图4.图中Z轴与开孔的中心线垂直，是理想的编码器Z(Zero)信号的中心线当位于 $3 ^ { \circ }$ 孔的标记槽与该轴重合时光电码盘(旋转变压器)产生具有清零功能的Z信号.这就要求铝盘及Z信号光耦的安装最好位于图中的 $Z$ 轴否则先要通过实测找到Z信号的位置，然后在软件中给定该位置量.
+
+![](images/98cda37a38b330def7ebb908bfec830c20593be6d27bb586744a12755a0b9c40.jpg)  
+图4曝光控制装置铝盘设计Fig.4Rotary disc
+
+如何制定一个正确的电机控制策略将决定是否准确实现曝光时间.因此快门运动规律将决定电机的控制策略.但是无论何种曝光方式的实现都遵循以下规律:
+
+(1)扫描方式，电机通过快门时间内转速必须均匀，从而保证曝光的均匀性.(2)滞留方式，电机从启动加速到减速停留的过渡时间要尽量小，以保证曝光时间的准确性(3)电机待机时，光源必须定位于铝盘的某个位置这样才能保证电机下次启动时在光源进入快门的狭缝之前达到匀速状态或进入狭缝后及时停止并且系统必须能够检测出任意时刻光源在快门上的相应位置.
+
+# 3电机控制设计
+
+旋转盘片式快门控制系统框图如图5所示
+
+![](images/ec06190af96132a8b60e3a66e9234288b169687b38da8bd7ff11562334fce016.jpg)  
+图5控制系统框图  
+Fig.5System controller diagram
+
+接下来将重点针对其中的电机控制单元设计和DSP(digitalsignalprocessor)控制器设计重点论述
+
+旋转盘片式快门对电机的要求较高，首先要求响应速度要快如果在开孔进入光路之前转盘不能加速到规定速率则造成曝光不准确.其次电机调速范围要宽，电机调速范围从 $3 0 \sim 5 0 0 ~ \mathrm { r / m i n }$ 因此要求电机在高低速范围内都有良好的运行特性.另外要求电机运行平稳，由于曝光控制装置距离电荷耦合器件CCD(chargecoupleddevice）传感器较近，如果运行时候有明显的振动会传递到CCD安装组件上造成图像模糊
+
+伺服电机按照驱动电流波形可以分为直流无刷电机BDCM(brushless direct current motor)和永磁同步电机 PMSM（ permanent magnet synchronous mo-tor).BDCM是矩形波电流驱动，虽然成本低但是低速转矩脉动大高速时矩形波电流发生畸变引起转矩下降所以一般用于低速、转矩要求不高的场合.而PMSM是正弦波电流驱动，更多的用于要求较高的速度和位置的场合.因此曝光时间控制单元选用PMSM电机作为驱动电机[7-8].
+
+PMSM由永磁体的转子和绕有三相绕组的定子构成，三相绕组通电即会产生磁场,通过改变绕组内电流大小和相位即可产生旋转的磁场转子上的永磁磁极和定子上的磁极N、S相互吸引，可以同步运动.因此对电机的控制就是控制施加在转子上的转矩而转矩的产生来自定子三相电流的变化.因此就要建立转子转矩与三相电流之间的数学模型，通过控制电流来实现对转子转矩的控制.
+
+从转子坐标来看，对于定子电流可以分为两部分即力矩电流 $i _ { \boldsymbol { q } }$ 和励磁电流 $i _ { d }$ .因此，矢量控制中常使 $i _ { d } = 0$ 来保证用最小的电流幅值得到最大的输出转矩.
+
+其中转矩方程为 $T _ { e } = \rho _ { n } \psi _ { f } i _ { q }$ 其中 $\rho _ { n }$ 为电机极对数 ${ \pmb { \psi } } _ { f }$ 为转子永磁体磁链，由此建立了三相电流与电磁力矩之间的关系.根据上述即可建立PMSM矢量控制结构图如图6所示，
+
+![](images/213eaea90fcefd854598beae1e53a9988510dd2db2b67494f1f9f02c9753f0f5.jpg)  
+图6PMSM矢量控制结构图Fig.6PMSM vector-control diagram
+
+在永磁同步电机矢量控制中，通常采用电压型逆变器 其主电路结构如图7所示.其中每一个桥臂有上、下两个开关器件.通过调整每个桥臂上开关的通断时间，可以调整通过三相绕组的平均电流值从而实现矢量控制，这称之为脉宽调制PWM（pulse-width modulation).
+
+6个开关器件的开关规律必须遵守以下规则：
+
+（1)任何时刻处于开状态和处于关状态的开关器件数自都必须是3；(2)同一桥臂的两个开关器件由互补的驱动信号控制不能同时导通，
+
+![](images/cfced3cd28ac92758c47f40e463bbb1cbde957fa4332936d47d648966ae17af3.jpg)  
+图7电压型逆变器主电路 Fig.7Voltage Inverter
+
+# 4基于DSP的控制器设计
+
+矢量控制尽管为高性能交流调速系统的实现提供了理论保证但由于矢量控制算法比较复杂对运算处理器的性能要求较高，使用高性能单片机控制变频调速系统是简化系统结构、完善系统功能、实施复杂有效的控制策略、提高系统可靠性的有力保证.TI公司的TMS320F240数字处理芯片，具有高速信号处理和数字控制功能所必须的体系结构特点，而且它还有为电机控制提供单片解决方案所必须的外围设备如用于模数转换的ADC(analog-digitalcon-version）方便脉宽调制的时钟增减计数模式、死区发生单元、便于空间矢量脉宽调制的PWM单元、中断保护等.因而选用TMS320F240作为核心控制器件来组成控制电路.在这个控制核心的基础上加上电流反馈的处理电路旋转编码器信号的处理电路、故障综合和保护电路以及与上位微机的串行通信等等外围电路组成功能比较完善的控制系统.控制器的结构如图8所示.
+
+![](images/bd907ba97cb7d44ae50ec000e08ba577ceac558b9b0d0f8b164980a0a29039c1.jpg)  
+图8基于DSP的控制器结构图 Fig.8Controller based on DSP
+
+# 5 实验结果
+
+在实验中针对快门的不同曝光时间点进行了多次测试和验证.快门的最短曝光时间可达 $1 ~ \mathrm { m s }$ 1延时时间可调.由于旋转盘片采用铝材，重量轻转动惯量小故快门在在整个打开或者关闭过程中运行平稳,噪音较小，没有过冲、失步现象.同时根据空间环境应用下温度交变剧烈，电机内油脂易挥发的特点，验证过程中进行了 $- 3 5 \mathrm { ^ C } \sim + 6 0 \mathrm { ^ \circ C }$ ,共计5000小时的寿命测试，其机械寿命可达连续开关1000000次.其尺寸、性能、寿命均满足成像设备需求.
+
+表1曝光时间实测值Tab.1Test data of exposure time  
+
+<html><body><table><tr><td>曝光时间</td><td>次数</td><td>实测值ms</td><td>误差%</td></tr><tr><td rowspan="5">1 ms</td><td>1</td><td>1.03</td><td>3%</td></tr><tr><td>2</td><td>1.02</td><td>2%</td></tr><tr><td>3</td><td>0.98</td><td>2%</td></tr><tr><td>4</td><td>0.98</td><td>2%</td></tr><tr><td>5</td><td>1.04</td><td>4%</td></tr><tr><td rowspan="5">10 ms</td><td>1</td><td>10.01</td><td>0.1%</td></tr><tr><td>2</td><td>10.04</td><td>0.4%</td></tr><tr><td>3</td><td>9.98</td><td>0.2%</td></tr><tr><td>4</td><td>10.01</td><td>0.1%</td></tr><tr><td>5</td><td>10.03</td><td>0.3%</td></tr></table></body></html>
+
+由上表可见最短曝光时间误差最大，随着曝光时间延长，误差相对减小.
+
+![](images/0874e9a2ee8f122a357d1235df35a5de3fbe4b912d6aa3dc39e0513fe0af5d5d.jpg)  
+图9快门实物图Fig.9Shutter picture
+
+# 6结论
+
+从应用的角度出发，设计了旋转盘片式空间相机的快门介绍了快门的工作原理及结构组成总结了该快门的特点经实验及测试证明研制的旋转盘片式快门运动平稳、可靠，寿命可达百万次曝光时间调节范围大( $1 / 1 \ 0 0 0 \sim 1 0 \ \mathrm { s } )$ 曝光量误差最大3.$0 \%$ 最小 $0 . 1 \%$ .在我国空间相机同类快门装置中，该快门装置具有动态范围宽、曝光误差小、寿命长的特点具备空间环境下工程应用的要求.
+
+#
+
+参考文献   
+[1] 胡杰锋.旋转扉板百叶窗快门的理论探讨[J].长春 光学精密机械学院学报197902:41-53.   
+[2］徐鹏 黄长宁王涌天等.卫星振动对成像质量影响 的仿真分析[J].宇航学报 2003 24(3):259-263. XUPeng,HUANG Changning,WANG Yongtian,et al. Modulation transfer function in push-broom camera limits resulting from mechanical vibration[J].Journal of Astronautic ,2003,24(3):259-263.   
+[3]HILL S,PIZZO V J.Advanced solar imaging from the GOES-R spacecraft[J]．SPIE,2003,4853(2):465- 478.   
+[4] BRENNANGL,JAMESLR,CHRISTOPHEREG,et al．A system to reduce jitter for the GOES N/O/P Solar X-ray Imager[J]. SPIE,2004,5171(2):101-110.   
+[5] LEMENJR,DUNCAN D,EDWARDS C,etal. Solar xray imager for GOES[J]. SPIE,2003,5171(1):65-76.   
+[6]BORNMANN PL，SPEICH D，HIRMAN J，et al. GOES solar x-ray imager: overview and operational goals [J].SPIE,1996 ,2812(2):309-319.   
+[7］张鑫 苏东林 李保权 等．太阳XEUV成像望远镜 波长选择装置[J]．北京航空航天大学学报200632 (4):421-425. ZHANG X,SUDL,LI BAOQ,et al. Filter wheel device in solar X-EUV image telescope [J]. Journal-Beijing University of Aeronautics and Astronautics,2006， 32(4): 421-425.   
+[8］张鑫苏东林,李保权等．太阳X-EUV成像望远镜 的移动补偿系统[J]．北京航空航天大学学报2007， 33(3):319-321.
+
+ZHANGX,SUDL,LIBAOQ,etal.Jitter compensationsystem in solar X-EUV imaging telescope[J].Journal-Beijing University of Aeronautics and Astronautics, 2007,33(3):319-321.
+
+作者简介：张鑫(1977一）男副研究员研究方向为空间环境探测;周惠坤(1989一）男工程师研究方向为空间环境探测;李保权（1973一）男研究员，研究方向为空间环境探测;白超平（1991一）男研究生研究方向为工程可靠性分析与设计；史春艳（1978一）女工程师研究方向为数据处理

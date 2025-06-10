@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "ZIC2-dependent OCT4 activation drives self-renewal of human liver cancer stem cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pingping Zhu,YanyingWang,1LeiHe,²GuanlingHuang,3YingDu,'GengZhang,1XinlongYan,PengyanXia,BuqingYe, Shuo Wang,' Lu Hao,1.3 Jiayi Wu,1,3 and Zusen Fan1,3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Universityof ChineseAcademyofSciences,Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Livercancer stemcells (CSCs)have been identifiedand shown to haveself-renewalanddifferentiation properties; however, thebiologyofthesehepaticCSCsremainslargelyunknown.Here,weanalyzedtranscriptome geneexpressionprofilesofliver CSCsand non-CSCsfromhepatocelularcarcinoma (HCC)celslines and found that thetranscriptionfactor (TF)ZIC2 is highly expressedinliverCSCs.ZIC2wasrequiredfortheself-renewal maintenanceof iverCSCs,as ZIC2depletionreduced sphere formationand xenografttumorgrowth inmice.Wedeterminedthat ZIC2acts upstreamoftheTFOCT4andthat ZIC2recruits the nuclearremodeling factor (NURF)complex totheOCT4 promoter,thereby initiatingOCT4activation.InHCC patients, expression levelsoftheNURFcomplex wereconsistent withclinicalseverityand prognosis.Moreover,ZIC2andOCT4 levels positivelycorrelatedtotheclinicopathologicalstagesofHCCpatients.Altogether,ourresultsindicatethatlevelsof lC2, OCT4,and the NURFcomplexcanbedetectedandusedfordiagnosisand prognosis predictionof HCCpatients.Moreover, these factors may be potential therapeutic targets for eradicating liver CSCs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hepatocellular carcinoma (HCC) is one of the most common cancers worldwide,ranking the third leading cause of cancer-related deaths (1).The high rate of recurrence and heterogeneity are the 2 major features of HCC (2).The cancer stem cell model (CSC model proposes that only a rare subset of cancer cells within tumor bulk display the capacity to self-renew,differentiate,and generate a new tumor (3).These CSCs are responsible for sustaining tumor growth and are resistant to conventional treatments (4), accounting for a hierarchical organization of heterogeneous cancer cells andahigh rate of cancerous recurrence.Recently,several surface markers,including CD13, CD133,CD24,EpCAM,CD44, and CD9O,can be used to enrich liver CSCs (5,6).However, the hepatic CsC biology remains largely unknown. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liver CSCs,like other CSCs,behave as stem cells in that they can self-renew and differentiate into heterogeneous tumor cells. Master transcription factor-mediated (TF-mediated) transcriptional regulation is one of the key regulatory mechanisms to determine cell-fate changes (7,8). OCT4,NANOG,and SOX2 have been defined as the core pluripotent TFs in embryonic stem cells (ESCs). Four TFs (OCT4,SOX2,KLF4,and c-MYC) have been defined as beingable to convert differentiated fibroblasts into induced pluripotent stem cells (iPSCs) (9,1O).These findings indicate that core TFs play a central role in establishing and maintaining the pluripotency of stem cells.OCT4,a member of the POU family,exerts a fundamental role in the maintenance of naive pluripotency as a master ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TF in mammalian development. OCT4 deficiency results in preimplantation lethality of mouse embryos (11).OCT4 is also sufficient to initiate reprogramming of mouse and human somatic cells without other reprogramming factors (12,13),suggesting that OCT4 plays a crucial role in somatic cell reprogramming. Recent studies have reported that OCT4 is highly expressed in urothelial cancer and ovarian cancer tissues (14,15).These observations suggest that OCT4 may play an important role in tumorigenesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The zinc finger TF ZIC2 belongs to a gene family originally identified by their homology to the drosophila odd-paired genes (16).In both mice and humans,heterozygous deletions or other mutations of ZIC2 cause severe brain malformation,indicating its critical role in the development of the CNS (17). ZIC2 has been reported to be highly expressed in some tumors and implicated in tumorigenesis (18,19).However,how ZIC2 regulates liver cancer andliverCsCsremains elusive. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chromatin remodeling is a prerequisite for gene transcription (20),which relies on ATP-dependent chromatin-remodeling com plexes.The nuclear remodeling factor complex (NURF complex),a major member of the ISWI subfamily,specifically targets the chromatin via association with sequence-specific TFs and modified histones (21,22).The NURF complex contains 3 components in mammalian cells,including BPTF, SNF2L,and RBBP4 (also known as RBAP46/48) (23).The NURF complex plays a critical role in the regulation of embryonic development,differentiation,and stem ness maintenance (24,25).The NURF complex can also modulate the canonical WNT pathway,probably through regulating the chromatin structures of targeting genes to make TFs more accessible (26).Recently,we demonstrated that the NURF complex participates in the regulation of self-renewal of hematopoietic stem cells (HSCs) inac-MYC-dependent manner (27).In this study,we show that ZIC2 is highly expressed in liver CSCs and is required for the self-renewal ofliver CSCs. ZIC2 recruits the NURF complex to trigger OCT4 activation,which sustains the stemness of liver CSCs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZIC2ishighly expressed in liver CSCs.CD13 and CD133 arewidely used as liver CSC markers (6,28).The $\\mathrm { C D 1 3 ^ { + } C D 1 } 3 3 ^ { + }$ cell subset exhibited slow growth ability compared with their counterpart $\\mathrm { C D 1 3 ^ { - } C D 1 } 3 3 ^ { - }$ cells.We previously demonstrated that the $\\mathrm { C D 1 3 ^ { + } C D 1 } 3 3 ^ { + }$ cell subset was successfully enriched in HCC cell lines and HCC primary samples (29).We isolated $\\mathrm { C D 1 3 ^ { + } C D 1 } 3 3 ^ { + }$ cell populations from Huh7 and Hep3B cells,since liver CsCs and their sphere-forming abilities were much stronger than those of $\\mathsf { C D 1 3 - C D 1 3 3 ^ { - } }$ cell subsets (Supplemental Figure 1,A and B; supplemental material available online with this article; doi:1O.1172/ JCI81979DS1).We previously performed transcriptome microarray analysis of $\\mathrm { C D 1 3 ^ { + } C D 1 } 3 3 ^ { + }$ cells (hereafter called liver CSCs) and CD13 CD133- cells (hereafter called non-CSCs) sorted from HCC cell lines (GSE66529) (29).We analyzed differential noncoding RNA transcripts in liver CSCs compared with non-CSCs and showed that lncTCF7 is highly expressed in liver CSCs,playing a critical role in the maintenance of liver CSC self-renewal (29). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,wewantedto identifywhich TFswere involved in the maintenanceofliver CSC self-renewal.Weanalyzed TFs based on gene expression profiles of liver CsCs and non-CSCs derived from Huh7 and Hep3B cells.We chose top-1O TFs that were highly expressed in liver CSCs compared with non-CSCs (Figure 1A). We then knocked down these selected TFs and performed in vitro sphere-formation assays.Among these 1O TFs,ZIC2 depletion displayed the strongest inhibitory effect on oncosphere formation (Figure 1B).We nextdetected ZIC2 expression in HCC patient samples and noticed that ZIC2 was highly expressed in HCC samples, including early and advanced stages (Figure 1C).In parallel,major pluripotency factors,including OCT4,NANOG,SOX2,c-MYC, andKLF4,werealso elevated inHCC samples.These observations were validated by immunoblotting (Figure 1D).Moreover,elevated ZIC2 expression was further confirmed by IHC staining (Figure 1E).High expression of ZIC2 in HCC tumors was also confirmed by Wurmbach's cohort (GSE6764) (ref.3O and Supplemental Figure 1C).Additionally,we also noticed that ZIC2 was highly expressed innondifferentiatedHCCcell linesversus in differentiated HCC cell lines (GSE36133) (ref.31 and Supplemental Figure 1D).Finally, high expression of ZIC2 was in agreement with poor prognosis of HCC patients (GSE1O186) (ref.32 and Supplemental Figure 1E). Altogether, ZIC2is highly expressed in HCC tumor tissues. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next tested expression levels of ZIC2 in liver CSCs enriched from both HCC cell lines and patient samples.We found that ZIC2 was highly expressed in liver CSCs compared with non-CSCs derived from HCC samples (Figure 2A and Supplemental Figure 2A).In addition,we performed sphere-formation experiments using HCC cell lines and HCC primary sample cells,and detected expression levels of ZIC2.We found that ZIC2 expression was dramatically increased in the oncosphere cells generated by both patient samples and HCC cell lines (Figure 2,B and C,and Supplemental Figure 2B).Moreover, ZIC2 expression was positivelycorrelatedwithCD13expression(Figure2D).Finally,ZIC2 was localized as puncta staining in the nucleus of tumor cells,and similar staining pattern appeared in oncosphere cells (Figure 2E). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Taken together, ZIC2 is highly expressed in the nucleus of HCC tumor tissues and liver CSCs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZIC2is required for self-renewal ofliverCsCs.To furtherdetermine the pathological role of ZIC2 in liver CSCs,we knocked out ZIC2 in 8 HCC cell lines usinga CRISPR/Cas9 system (Figure 3A).Two ZIC2 KO cell strains were established for each cell line.ZIC2 deletion dramaticallydeclined sphere formation inHuh7,Hep3B,andPLCcells, which had sphere-formation capacity (Figure 3B and Supplemental Figure 3A).Additionally, ZIC2-deficient Hep3B cells remarkably decreased xenograft tumor growth (Figure 3C).We then performed sphere formation and digested oncospheres formed by ZIC2- deficient or control cells into single-cell suspension, then s.c implanted $. 1 \\times 1 0 ^ { 4 } , 1 \\times 1 0 ^ { 3 } , 1 \\times 1 0 ^ { 2 }$ ,and10 cells into BALB/c nude mice. Tumor-initiating capacity was evaluated after 3 months of tumor implantation. ZIC2 deficiency dramatically reduced tumor-initiating capacity (Figure 3D) and declined CSC ratios bya limiting dilution xenograft analysis (Supplemental Table 1A).Similar observations wereachieved in other cell lineswith ZIC2deletion.We also silenced ZIC2 in 6 HCC primary cells using a lentivirus-infection system and established ZIC2 knockdown cells (Figure 3E).Two pairs of shRNA sequences obtained similar knockdown efficiency for each sample cell. ZIC2 knockdown significantly decreased sphere formation and xenograft tumor growth (Figure 3F and Supplemental Figure 3, B and C).Similar observations were achieved in all the 6HCC samples. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next overexpressed ZIC2 in HCC primary cells and cell lines using lentivirus infection (Supplemental Figure 3D and data not shown).We observed that ZIC2 overexpression in HCC primary cells remarkably increased sphere formation and xenograft growth (Supplemental Figure 3,E and F).We tested 6 HCC samples with similar results. Similar results were obtained by ZIC2 overexpression in cell lines such as Hep3B,Huh7,and PLC cells (Supplemental Figure 3G and data not shown).Altogether, ZIC2 is required for the maintenance of liver CSC self-renewal and tumor propagation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZIC2initiates activationof OCT4 signaling.To further determine the underlying mechanism of ZIC2 in the regulation of liver CSCs,we analyzed key TFs related to stemness in ZIC2KOHep3B cells.We noticed that OCT4 mRNA was almost undetectable in ZIC2-deficient cells (Figure 4A).Moreover, OCT4 protein levels were remarkably reduced in ZIC2-deficient cells using Western blot (Figure 4B).Inaddition,ZIC2deficiency dramatically declined the downstream target genes of OCT4 (Figure 4C).Similar results were obtained in ZIC2-silenced HCC primary cells (Figure 4D). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZIC2 overexpression in HCC primary cells and cell lines remarkably increased OCT4 expression (Figure 4E and data not shown). Additionally,ZIC2 expression levels were positively correlated with the OCT4 expression levels in HCC tumor tissues (Figure 4F). Expression levels of OCT4 and its target genes were dramatically elevated in liver cancer cels and liver CSCs formed by HCC primary cells and Hep3B cells (Figure 1C, Figure 5A,and Supplemental Figure 4,A-C).Finally, OCT4 expression levels were consistent with the CD13 expression levels (Supplemental Figure 4D). These data suggest that OCT4 is activated in liver CSCs, which was in agreement with the transcriptome microarray data (Figure 1A). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the role of OCT4 in the maintenance of liver CSC self-renewal, we knocked down OCT4 in HCC primary cells by 2 pairs of OCT4 shRNAs (Figure 5B).OCT4 knockdown dramatically reduced the capacity of sphere formation (Figure 5C) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Clinical Investigation ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6be627a89c773255008e68622afc68b65700d6f5d3e0fc0cfee4dfa3b5b4d8cc.jpg",
+        "img_caption": [
+            "Figure1ZC2isexpredinCtumors.()afeepriefsexpredste.() Top10TFsweredepetedindHpBcelersprefatiottediaysignfcanceated.tl(d) ZIC2expreioeseeriintitmpaiaivndbotingD).;() werestainedfoepretaiageereoinetel;tatioflexpresdeldiie calculatedusinglmage-ProPusandstatisticalresultswereshownintherightpanel.eHCC,earlyHC;aHCCdvancedHC.alebars: $5 0 ~ { \\mu \\mathrm { m } }$ .Dataare shown as means $\\pm { \\mathsf { S D } }$ .Two-tailed Student's t test was used for statistical analysis. $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ ${ \\star \\star \\star p } < 0 . 0 0 1$ $^ { \\# } P < 0 . 0 5$ ;and $^ { \\# \\# } P < 0 . 0 1$ .Dataare representative of at least 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and it attenuated xenograft tumor initiating capacity and liver CSC ratios (Figure 5D and Supplemental Table 1B).We silenced OCT4 in 6 HCC primary sample cells with similar observations.In parallel, similar observations were achieved in Hep3B cells (Supplemental Figure 4E).Taken together, OCT4 signaling is essential for the maintenance ofliver CSC stemness. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next overexpressed ZIC2 in OCT4-silenced HCC primary cells.We found that ZIC2 overexpression in OCT4-silenced HCC cells did not promote sphere formation or xenograft tumor growth (Supplemental Figure 5,Aand B).Furthermore,we knocked down ZIC2 in OCT4-silenced HCC cells and observed that depletion of ZIC2 in OCT4-silenced HCC cells did not affect either sphere formation or xenograft tumor growth (data not shown).Additionally, ZIC2 knockdown in OCT4-overexpressing HCC cells did not impair OCT4-mediated elevated sphere formation or xenograft tumor growth (Supplemental Figure 5,C and D).Moreover,we rescued WT OCT4 or a dominant-negative mutant OCT4 (33) expression in ZIC2-depleted primary cells (Figure 5E).We noticed that WT OCT4 was able to rescue the self-renewal of ZIC2- silenced cells (Figure 5F),whereas the dominant-negative mutant OCT4 had no such activity.We tested 6 HCC samples with similar results (Supplemental Figure 5E).We concluded that ZIC2 drives self-renewal of liver CSCs upstream of OCT4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/394f8484a4d6ce81c2a52d9fff350b09753c61de15bf08e6ecc2700ae83196d9.jpg",
+        "img_caption": [
+            "Figure2IC2iseeedins.)expedinDry.ndC2sei derivedfromHCmltopelsatiaiBndotingC).D)dprie byquantitatifdeas.)dsesedid antibodies,then counterstained with DAPI folowed by confocal microscopy. Scale bars: $2 0 \\mu \\mathrm { m }$ .Data are shown as means $\\pm { \\mathsf { S D } }$ .Two-tailed Student's t test was used for statistical analysis. $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ ; and $^ { * * * } P < 0 . 0 0 1$ .Data are representative of at least 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ZIC2 binds to the OCT4 promoter for its activation.We next performed a ChIP assay in primary oncospheres using anti-ZIC2 antibody.We analyzed a 3-kb locus upstream from the transcription start site (TSS) of the OCT4 gene promoter.We observed that a-2,530\\~-2,447 bp region of the OCT4 promoterupstream from the TSS was occupied by ZIC2 protein (Figure 6A).We tested 3 HCC primary specimens with similar results.Similar results were achieved in Hep3B cells (Supplemental Figure 6A).To confirm that OCT4 was activated by ZIC2,we performed luciferase reporter assays.We identifieda-2,55O\\~-2,43O bp fragmentof the OCT4 promoter (CR4 region) bound to the ZIC2 protein (Supplemental Figure 6,Band C).Finally,the ZIC2 binding ofthe OCT4 promoter was confirmed by a gel EMSA (Figure 6B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We next wanted to determine the physiological function of the ZIC2 binding to the OCT4 promoter.We examined chromatin accessibility of the OCT4 locus by a standard DNase I digestion assay. We found that ZIC2KO remarkablyattenuated chromatinaccessibility of the OCT4 locus (Figure 6C).Moreover, ZIC2 deficiency significantly reduced the H3K4 tri-methylation (H3K4Me3) level on the OCT4 locus (Figure 6D),a major hallmark of transcription activation. Six HCC primary samples showed similar observations (Figure 6E).By contrast, ZIC2 overexpression dramatically enhanced both the chromatinaccessibility of the OCT4 locusand theH3K4Me3 level of the ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Clinical Investigation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f2cba47297212e6e2eb228ba8cb0874d7ca7724244e5d5e7a2b010c535e5850.jpg",
+        "img_caption": [
+            "Figure3.ZICdeficenbrogateelfrealofliverCSCsandtumorpropagation.(A)ZIC-deficentcellretablisdusi/ Cas9system.deavaefidthcf(itoads)ndeceeed ZIC2wasdeletedelles.B)definmpsefofCcllllsdntrcllsutfsptio (C) ZIC2-deficient and control Hep3B cells $( 1 \\times 1 0 ^ { 6 } )$ were injected into ${ \\mathsf { B A L B / c } }$ nude mice.Tumor sizes were measured every 5 days. (D) ZIC2 deficiency reducestumoriigapaityecatedepBellempantedintBemcfoumoioentagsfuf tionmiceeeated(eftpel)ndabishdtumoree(gtpel).(ilecdinCpaumos. silencedells(s)dbeotreltl)euredforfai.iCmplesdibeis KO cell. Scale bars: $5 0 0 ~ { \\mu \\mathrm { m } }$ (B and F). Data are shown as means $\\pm { \\mathsf { S D } }$ .Two-tailed Student's t test was used for statistical analysis. $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ · and $^ { * * * } P < 0 . 0 0 1$ .Data are representative of at least 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OCT4 locus (Supplemental Figure 6,D-F).These results suggest that ZIC2 binds to the promoter of OCT4 that initiates its activation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next explored whether ZIC2 sustains the self-renewal of liver CSCs via binding to OCT4 promoter.We deleted the ZIC2 binding sequence of OCT4 promoter in Hep3B cells using a CRISPER/Cas9 lentivirus system,which was confirmed by DNA sequencing (Supplemental Figure 6G).We found that ZIC2 overexpression did not enhance OCT4 expression in the OCT4 promoter binding sequence-deleted Hep3B cells (Supplemental Figure 6H).Consequently,these cells failed to promote sphere formation (Figure 6F and Supplemental Figure 6I) and xenograft tumor propagation (Supplemental Figure 6J).These data indicate that ZIC2 binding to the OCT4 promoter is necessary for ZIC2- initiated self-renewal of liver CSCs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ZIC2interactswith theNURFcomplex.To furtherelucidate the molecular mechanism of ZIC2 in regulating OCT4 expression, we screened interacting candidates using ZIC2 as bait with a yeast 2hybrid system.We deleted the DNA-binding domain of ZIC2 (aa 255-415) to subclone into pGBKT7 plasmid (BD-ZIC2△DB). We identified that RBBP4 gene was an interactor for ZIC2 and furtherconfirmed by yeast2hybrid assays (Figure 7A).RBBP4 is acomponent of the NURF complex.Their direct interactionwas verified by a pulldown assay (Supplemental Figure 7A).With a coimmunoprecipitation (Co-IP) assay,anti-ZIC2 antibody could precipitate RBBP4 in primary sphere cell lysates,as well as the other2 components BPTF and SNF2L (Figure 7B).Inaddition, we next performed ChIP immunoblots with elution gradients.With crosslinking treatment,ZIC2 coeluted with the components of the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Hep3B B Hep3B 7704 7402 Huh7 W □ Z2KO#1 22k02 M #2Z Z#X202 M 22Z Z#X222 M #XX20 Z#X222 M #X222 Z#X202 \\* \\* 0.4 OCT4 0 GAPDH C-MYC NANOG OCT4 KLF4   \nC Hep3B PLC 7721 HepG2 LM3   \nHAlpeidee tenr 1.2WT □ Z2KO#1 Z2KO#2 X2Z Z#X212 Z#X200 Z#X202 #22Z 22222 #X22Z KO202 0.8 MM M M M 22 电 GOCTA FGF4 FBX15 REX1 SOX2   \nD E F ■shCtrl Sh2IC2# shZIC2#2 1 eve 00e216 \\*\\*\\* n \\*\\*\\* 0.4 0 \\* \\* \\* 0OTE 0 中 6 22mo #1 #2 #3 #4 #5 #6 #1 #2 #3 #4 #5 #6 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "NURF complex (Figure 7C).In parallel, BPTF was also associated with ZIC2 in a chromatin-binding fashion (Figure 7D).These data indicate that the interaction of ZIC2 with the NURF complex is chromatin embedded. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Colocalization of ZIC2 with the NURF complex in the nucleus was visualized in HCC primary cells and their oncosphere cells by confocal microscopy (Figure 7E). Similar observations were obtained in Hep3B cells and their oncospheres (Supplemental Figure 7B).IHC staining showed merged staining of ZIC2 with the NURF complex (Figure 7F and data not shown). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We next tested expression levels of the NURF complex in liver CSCs.We noticed that the components of the NURF complexwere highly expressed in liverCsCs derived fromHCC samples and oncosphere cells generated from HCC samples (Supplemental Figure 8, A and B).Additionally,the expression levels of the 3 components of the NURF complex were positively correlated with the CD13 expression level in HCC samples (Supplemental Figure 8C).Finally, the expression levels of the 3 components of the NURF complex were significantly elevated in $C D \\boldsymbol { 1 3 } ^ { \\mathrm { h i } }$ samples compared with $C D 1 3 ^ { \\mathrm { l o } }$ samples provided by the Wang's cohort dataset (GSE1452O) (ref. 34 and Supplemental Figure 8D). Overall, these data indicate that ZIC2 interacts with the NURF complex in the nucleus of HCC cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TheNURF complex isrequired for self-renewal of liver CSCs. To explore the role of the NURF complex in the regulation of liver CsCs,we silenced each componentof the NURF complex in HCC primary cells (Figure 8A,left panel).Knockdown of the NURF components remarkably suppressed OCT4 expression in HCC primary cells (Figure 8A,right panel).Similar results were obtained using Hep3B cells (Supplemental Figure 9A). Furthermore,knockdown of the NURF complex significantly reduced chromatin accessibility of the OCT4 locus (Supplemental Figure 9B).The NURF complex bound to the OCT4 promoter by ChIP assays (Supplemental Figure 9C).Coincidently, the NURF complex occupied the CR4 region of the OCT4 promoter, the same region as ZIC2.Importantly,the CR4 region of the OCT4 promoter displayed muchlowerlevels ofH3K4Me3 in NURF complex-silenced primary cells (Supplemental Figure 9D).These data suggest that the NURF complex enhances OCT4 expression. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Of note,knockdown of the NURF components in HCC primary cells and cell lines dramatically reduced sphere formation and xenograft growth (Figure 8B and Supplemental Figure 9,E and F).Additionally,depletion of the NURF components in HCC primary cells markedly reduced tumor initiating capacity (Figure 8C) and CSC ratios by a limiting-dilution xenograft analysis (Supplemental Table1C).We tested 6 HCC samples and achieved similar results.To further verify the relatively physiological role of the NURF complex,we knocked out BPTF,a core component of the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Clinical Investigation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4007afba82f93a0073f128c75a6c018a355e87b5ce7ef7e9fd4c1bad1f1dffe.jpg",
+        "img_caption": [
+            "Figure5.CT4activatioisqedfothmateancefivCs.)CisglexpedinsphesgenetedCpriys.d C)OCT4wasdrilsB)dicaeseuedforefaa).(aede werdigestedintogeeldtnetditBdeiceiterentdtis.(dFpleedprarelsweabd andrescudwitunctialndantgativeutat(),tenselfreeasmeasudinspereforatioem; 04, OCT4; Vec,vector; Mut,mutation.Scale bars: $5 0 0 \\mu \\mathrm { m }$ (C and F).Data are shown as means $\\pm { \\mathsf { S D } }$ .Two-tailed Student's t test was used for statistical analysis. $^ { * * } P < 0 . 0 1$ and $^ { * * * } P < 0 . 0 0 1$ .Data are representative of at least 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NURF complex, in HCC cell lines usinga CRISPR/Cas9 system (Figure 8D).We found that BPTFdeficiency remarkably impaired OCT4 expression and sphere formation (Figure 8,D and E,and Supplemental Figure 9G),which was in agreement with the NURF complex-silencing results. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next rescued WT or mutant OCT4 expression in NURF-depleted HCC primary cells (Supplemental Figure 10A). We found that WT OCT4 could predominantly restore the self-renewal of NURF-depleted cells,whereas mutant OCT4 had no such effect (Supplemental Figure 1O,B and C),suggesting that the NURF complex promotes liver CSC self-renewal via OCT4 signaling.Importantly,depletion of ZIC2 abolished its binding capacity to the NURF complex,leading to disassociation from the OCT4 promoter (Figure 8F).However, depletion of the NURF complex did not affect the binding capacity of ZIC2 to the OCT4 promoter (Supplemental Figure 10D),suggesting that the NURF complex directly regulated OCT4 expression.In sum, NURF complex-mediated OCT4 activation is required for the self-renewal maintenance of liver CSCs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NURF complex levels are consistent with HCC severity and prognosis.As shownabove,the NURF complex was highly expressed in liver CsCs and involved in the regulation ofliver CSCs.We further wanted to explore whether the NURF complex was implicated in HCC progression.Firstly,we analyzed NURF expression levels using Wang's cohort (GSE1452O).The 3 NURF complex components were significantly highly expressed in HCC tumor tissues (Figure 9A).We tested the NURF complex expression in HCC samples through quantitative RT-PCRand immunoblotting.The NURF complex was highly expressed in HCC patients (Figure 9,B and C). Additionally, the expression levels of the NURF complex were well correlated with clinicopathological stages of HCC patients (Figure 9B).This result was further validated by IHC staining (Figure 9D). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A B rereeg on earetsissn OCT4 promoter   \nOCT4   \npromoter 8 \\*\\*   \n-2927\\~-27830000010 reelee 4 \\*\\* \\*   \n-2530\\~ -2447 0 WT   \n-1958\\~-1844 1 9 又 双 180 +Z2KO#1   \n-1629\\~ -1499 2 0 Y   \n-11912\\~-1085 9 9 -2530927- 0.1 ←Z2KO#2   \n-190\\~ -87 OU 1U   \nD E ChIP: H3K4Me3   \nTurnrne plor 1.2 OCT4 promoter ChIP: guerreie 1.2 ■shCtrl □ shZIC2#1 ■shZIC2#2   \n0.8 H3K4Me3 0.8   \n04 \\*\\*\\*\\* \\*\\*\\*\\* T +\\*\\* \\*\\* + 22KO1 \\*   \n0 0   \nHep3B PLC HuH7 Sample #1 #2 #3 #4 #5 #6   \nF Hep3B N NS NS NS 4 中 2 0 Hep3B PLC Huh7Hep3B PLC Huh7   \nOCT4P-KO#1 OCT4P-KO#1 OCT4P-KO#2 OCT4P-KO#2 OCT4P-KO#1 OCT4P-KO#2   \n+oeVec +0eZIC2 +oeVec +0eZIC2 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Base on analyzing Wang's cohort (GSE1452O),we observed that the BPTF expression levels were consistent with clinicopathological stages of HCC patients (Figure 9E).Additionally, higher BPTF expression levels represented higher frequency of1-year recurrence of HCC patients (Figure 9F).Finally,we analyzed Wang's cohort (GSE1452O) (34) and Petel's cohort (E-TABM-36) (35) with survival information.We found that patients with higher expression levels of BPTF displayed worse prognosis (Figure 9G).In sum,expression levels of the NURF complex in tumor tissues are consistent with clinical severity and prognosis ofHCC patients. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Twenty years ago,Dick and colleagues firstly isolated the $\\mathrm { C D } 3 4 ^ { + } / \\mathrm { C D } 3 8 ^ { - }$ leukemic subpopulation cells as leukemic CSCs (36).Subsequently,CsCs have been identified in many other solid tumors,including breast,lung,brain,liver,colon,prostate, and bladder cancers (3,6,37).CsCs harbor similar characteristics associated with normal tissue stem cells,including selfrenewal,differentiation,and the ability to form a new tumor. CSCs may be responsible for cancer relapse and metastasis due to their invasive and drug-resistant capacities (38).Several surface markers have been identified to enrich liverCSCs,whose heterogeneous markers may represent different cellular origins (39).However, it remains largely unknown about hepatic CSC biology.In this study,we analyzed differential TFs from ourtranscriptome microarray datasets derived from liver CSCs (29).We found the TF ZIC2 is highly expressed in liver CSCs. ZIC2 is required for the self-renewal maintenance of liver CSCs upstream of OCT4 activation signaling.ZIC2 recruits the NURF complex to the OCT4 promoter that initiates OCT4 activation. Expression levels of the NURF complex are consistent with clinical severity and prognosis of HCC patients. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Elucidation of signaling pathways that modulate the maintenance and survival of liver CSCs is important for the understandingofhepatic CSCbiologyand the developmentofnovel therapies against HCC.Several signaling pathways,such as WNT,TGF $\\cdot \\beta$ 0 AKT,and STAT3 pathways,have been defined to be implicated ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Clinical Investigation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7754ce37bae20290a7521fef7335233fbf37073c4b5833f633de33b4cc808b74.jpg",
+        "img_caption": [
+            "Figure7ZIC2iteactsithecpex.()oatesitBsttaintrasfecdabdinD) fusedtheDNAbndingregiondeleted(aa25-415)ZIC2gene(BD-DB),andGal4-AD-fusedRBBP4Selectedconesweredetectedfor $\\beta$ -galactosidase atitydiootiiapf assay. (C and D) HCC sample sphere cells were treated with $1 \\%$ formaldehyde for crosslinking.Then anti-ZIC2(C) or anti-BPTF antibody(D)was incubated with treatedysatefooctioetcfiefostd assays.(E)2liCaoldeesedfdtersai4 were also merged with ZIC2 (data not shown). Scale bar: ${ 1 0 \\mu \\mathrm { m } }$ .(F) ZIC2 and BPTF were costained by IHC staining.Blue arowhead denotes ZIC2,red arrowhead indicates BPTF,and black arrowhead indicates merge of ZIC2 and BPTF. Scale bars: $5 0 \\mu \\mathrm { m }$ .Data are representative of at least 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "in the regulation of liver CSCs (39).Not surprisingly, some liver CSC subsets and normal tissue stem cells may share core regulatory genes and common signaling pathways. In this study,we found that OCT4 is highly expressed in liver CsCs and is essential for the maintenance of liver CSCs.The TF OCT4,encoded by the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pou5fl gene,is a member of the POU family. OCT4 is required for the stemness properties of ESCs (11),suggesting it is an essential factor in early development of mammalian embryogenesis.Importantly, OCT4 harbors oncogenic potential (4O,41).Moreover,it has been reported that OCT4 is involved in the maintenance of lung ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7dcb897ba9890dde9b042942da150022b5f0ca035e3be5c859637c09aba71378.jpg",
+        "img_caption": [
+            "Figure8.TheNURFcomplexisequiredforself-renewalofliverCSCs.(A)TheNURFcomplexehancesOCT4expression.TheNURFcompoents wereknockeddowfolowedbydetectiofOCTexpresson.(B)SphereforationasperforedwithNURFomplexsilencedprimarycelsiHC samplesobtadiasults.coseead2d4sidylgstedradeti Percentagoftumorfrmatimiceascalculated.D)BF-deficetcelswereestablisdbyCPR/CAS9systemBFdeficienyaerifid byWesternlot.(weeuuredfpefmats.arsereacedinestdceln.Fs wereperforedusingtheicatedanti-URFantibodiesandthnOC4promoterementregioswerexamedbyuantitativeale bars: $5 0 0 ~ { \\mu \\mathrm { m } }$ (B and E). Data are shown as means $\\pm { \\mathsf { S D } }$ .Two-tailed Student's t test was used for statistical analysis. $^ { * } P < 0 . 0 5$ and $^ { * * } P < 0 . 0 1$ .Data are representative of at least 3 independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CSCs,as well as the regulation of tumor progression in bladder cancer (42,43).Here,we showed that OCT4 is required for the selfrenewal maintenance of liver CSCs,suggesting that OCT4 plays a critical role in the regulation ofliver CsCs and tumor propagation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "OCT4 acts as a gatekeeper in the beginning of mammalian development; it regulates the transcription of many genes,such as FOXO15,ZNF42,REX1,FGF4,SOX2,NANOG,and sO on.How ever,how OCT4 expression is regulated remains largely unknown. Here,we observed that ZIC2 can bind to the fourth region (CR4) of OCT4 promoter, which triggers OCT4 expression in liver CSCs. The ZIC TF family members (ZIC1-5) contain highly conserved C2H2-class zinc finger motifs and are involved in early embryonic development.ZIC2 mutations cause human holoprosencephaly (44).A recent report showed that ZIC2 is highly expressed in cervical cancer and associated with activation of Hedgehog signaling (18).Here,we found that ZIC2 is constitutively expressed in liver CSCs and participates in the regulation of liver CSC maintenance. Actually,ZIC2 is also highly expressed in ESCs,iPSCs,and2/3 partial hepatectomy-regenerated (PH-regenerated) liver cells (data not shown).These data suggest that ZIC2 plays a crucial role in the maintenance and survival of both normal stem cells and CSCs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Due to the analogy to tissue-specific stem cells,which confer maintaining adult tissues,CSCs contribute to long-term growth and are responsible for the maintenance and growth of tumors (45).The clonal evolution model proposes that tumor cells progressively accumulate mutations,some of which harbor increased fitness and survival advantage that generate CSCs (46).Transcriptional regulation is one of the key regulatory ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Clinical Investigation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/b17af85a9b79af82485a359336a1967d288b1411d5a39ec2f1fd4519f16025e0.jpg",
+        "img_caption": [
+            "Figure9.NURFomplelevesareconsistentitCseveritndprogosis.()eUFompleishiglyexpresedinCCdatasesprovdedby Wang'scohort (GSE452).(BandC)HighexpresionoftheURFcomplexwaverifiedinHCCsamplesbuantitativeRT-CR(B)andWestenblot (C).eH,arlC;C(pgel) calculated using Image-Pro Plus 6 (right panel). Scale bars: $5 0 ~ { \\mu \\mathrm { m } }$ .(E and F) High BPTF expression is consistent with late clinicopathological stages (E) andearlyecure(fCitsprynsrt().G)EpessesfteRFmeeedisis prediction of HCC patients. HCC samples were divided into 2 groups according to $B P T F$ expression levels followed by Kaplan-Meier survival analysis.For A,EandFdtaeodolodbeeedthdttilsielta lineswithinosprestanvelsfgntsiteseprentiterile);updoeesoesdt and 25th percentiles,respectively. For Band D,data are shown as means $\\pm { \\mathsf { S D } }$ .Two-tailed Student's t test was used for statistical analysis. $^ { * } P < 0 . 0 5$ （20 and $^ { * * } P < 0 . 0 1$ .Experiments were repeated at least 3 times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "mechanisms determining cell fate,which includes cis-regulatory elements and transacting factors.Among all transacting factors,chromatin-remodeling regulation plays a pivotal role in gene transcription (2O,47),which depends on ATP-dependent chromatin remodeling complexes.Based on a common SWI2/ SNF2-related catalytic ATPase subunit, the chromatin remodeling complexes are classified into 4 major subfamilies,which are SWI/SNF,ISWI,CHD,and INO8O (48).The NURF complex is a core member of the ISWI subfamily.The NURF complex consists of 4 subunits in drosophila (NURF3O1,NUFF55,NURF38, and IsWI) and 3 components in mammalian cells (BPTF,RBBP4, and SNF2L) (49).The NURF complex can regulate the canonical ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Wnt signaling pathway via modulating the chromatin structures of targeting genes to make transcriptional regulators more accessible (26).We previously showed that the NURF complex can be recruited on the $\\mathbf { \\Psi } _ { c }$ -MYC promoter for its activation,which regulates the self-renewal of HSCs (27).Here,we showed that ZIC2 can recruit the NURF complex to the OCT4 promoter for its initiation,which modulates the maintenance and survival of liver CSCs.These findings indicate that the NURF complex is implicated in the tumorigenesis ofHCC. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Based on our online-cohort dataset analysis and experimental results,the NURF complex is highly expressed in HCC tumors and liver CSCs.The NURF complex knockdown or deletion impairs the self-renewal maintenance of liver CSCs and tumor initiation.Importantly,the expression levels of the NURF complex are positively correlated with clinical severity and prognosis of HCC patients.Moreover,ZIC2 and OCT4 are also required for the maintenance and survival of liver CSCs,which are positively related to the clinicopathological stages ofHCC patients.In summary, ZIC2, OCT4,and the NURF complex can be detected for the diagnosis and prognosis prediction of HCC patients,which might be used as targets for eradicating liver CsCs for future therapy. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Gene expression analyses.Cohort datasets were downloaded from NCBI or EBI.R language and Bioconductor was used for background correction, normalization,calculation of gene expression,and annotation (5O).Genes and expression lists generated by R3.1.O were used for further analysis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "HCC cell lines.Human HCC cell line Hep3B,PLC,LM3,7721, HepG2,and Huh7 were provided by Zeguang Han (Shanghai Jiaotong University SchoolofMedicine,Shanghai,China);77O4and74O2 were provided by Pengyuan Yang (Institute of Biophysics,Chinese Academy of Sciences,Beijing,China).HCC cells were grown in DMEM medium supplemented with $10 \\%$ FBS (Invitrogen), $1 0 0 ~ \\mathrm { \\mu g / m l }$ penicillin,and $1 0 0 \\mathrm { U / m l }$ streptomycin. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Antibodiesandregents.Anti- $- \\beta$ -actin (catalogA1978),anti-Flag (cata log F18O4) Abs were purchased from Sigma-Aldrich.Anti-ZIC2 (catalog ARP35821_PO5O) antibody was obtained from Aviva Systems Biology. Anti-OCT4 (catalog 275O) antibody was purchased from Cel Signaling Technology.Anti-SNF2L (catalog 61465) antibody was purchased from Active Motif.Anti-BPTF (catalog bs-11641R)antibody was obtained from Bioss Inc.Anti-RBBP4 (catalog 2O364-1-AP) antibody was purchased from Proteintech Group,Inc.FITC-conjugated CD13 antibody (catalog 11-O138)was obtained from eBioscience.Phycoerythrinconjugated (PE-conjugated) CD133 (catalog13oo98826)was purchased from Miltenyi Biotec.Alexa488-conjugated donkey anti-mouse IgG (catalog R37114),Alexa594-conjugated donkey anti-mouse IgG (catalog R37115),and Alexa594-conjugated donkey anti-rabbit IgG (catalog R37119)Abs were obtained from Invitrogen.Alkaline phosphataseconjugated (AP-conjugated） secondary antibody (catalog BA1011) was obtained from Wuhan Boster Biological Technology,Ltd.HRPconjugated secondary antibody(catalog sc-2OO4,sc-2Oo5)was obtained from Santa Cruz Biotechnology, Inc.bFGF (catalog GF446-5OUG) was obtained from Millipore.EGF (catalog E5036-200UG),PEG5000 (catalog 175233-46-2),and DAPI(catalog 28718-90-3) were purchased from Sigma-Aldrich.N2 supplement (catalog 175O2-O48) and B27 (catalog 17504-O44) were obtained from Invitrogen.Dual-detection luciferase detection kit (catalog E191O) was purchased from Promega. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "QuantitativeRT-PCR.mRNAwas extracted accordingto standard protocols provided by Invitrogen.The total mRNA served as a template,and reverse-transcription PCRwas followed by standard proto cols from Promega Company.cDNA was examined for gene expression byquantitative RT-PCR.For ChIP assay,extracted DNA fragments and input genomic DNA served as a template.The primer sequences we used are shown in the Supplemental Table 2. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Western blot.Western blot was performed as described (27).For details,specimens or spheres derived from primary cells were homogenized withRIPAbuffer $( 1 5 0 \\mathrm { m M N a C l }$ $0 . 5 \\%$ sodium deoxycholate, $0 . 1 \\%$ SDS, $1 \\%$ NP40, $1 \\mathrm { m M }$ EDTA,and $5 0 ~ \\mathrm { m M }$ Tris $\\mathrm { [ p H 8 . 0 ] }$ )supplemented with cocktail protease inhibitor (Roche Diagnostics).After boiling for 15 minutes,supernatants were loaded for SDS-PAGE.Nitrocellulose membranes were incubated with primary antibodies for immunoblotting, then incubated and visualized by HRP-conjugated secondary antibodies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CRISPR/Cas9KO system.ZIC2-and BPTF-deficientHep3B cells were established usinga CRISPR/Cas9 system according to the standard protocol provided by Zhang's lab (51).Briefly,single guide RNA (sgRNA) was generated by online CRISPR Design Tool (http://tools. genome-engineering.org) and cloned into pSpCas9 (BB)-2A-GFP vector.After confirming the cutting efficiency of sgRNA,pSpCas9 vectors were transfected into Hep3B cells.Sorted ${ \\mathrm { G F P ^ { + } } }$ Hep3B cells were seeded into 96-well plates for monoclonalization.Four weeks later,the cell clones derived from single cells were detected for gene expression.The sgRNA sequences of ZIC2 were $5 ^ { \\prime }$ -CCATCACCACTCCGCCGCGG ${ \\cdot } 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -TTCACGGTCCTGCATCTCGG-3'. The sgRNA sequences of BPTF were $5 ^ { \\prime }$ -CCCCCCGATGGGTCCGGACG ${ \\cdot } 3 ^ { \\prime }$ and5'-CCCGCCTCGGCTCCGACATG-3'. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For deletion of the ZIC2 binding sequence of OCT4 promoter in Hep3B cells,we used LentiCRISPRv2 (catalog 52961),pVSVg (catalog 8454),and psPAX2 (catalog 1226O) plasmids purchased from AddGene.We produced lentivirus in 293T cells and infected Hep3B cells with lentivirus,followed by puromycin selection and monoclonalization.sgRNA sequences ofthe OCT4 promoterwere:OCT4 promoter KO #1: $5 ^ { \\prime }$ -GTGCCGTGATGGTTCTGTCC- ${ \\cdot } 3 ^ { \\prime }$ (F) and 5'-GGAGGAACATGCTTCGGAAC ${ \\cdot } 3 ^ { \\prime }$ (R); OCT4 promoter KO #2: $5 ^ { \\prime }$ -CCTCTGAGAG GCCGTCTTCT ${ \\cdot } 3 ^ { \\prime }$ (F)and $5 ^ { \\prime }$ -TCGGCCTTTAACTGCCCAAA ${ \\cdot } 3 ^ { \\prime }$ (R).Selected cell clones with deletion of the ZIC2 binding sequence of OCT4 promoter were confirmed by DNA sequencing. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "IHC assay.Formalin-fixed tumor tissue sections were deparaf finized in xylene (1O minutes,twice),rehydrated in graded alcohols $( 1 0 0 \\%$ $100 \\%$ ， $9 5 \\%$ $8 5 \\%$ ,and $70 \\%$ alcohols),and finally submerged in distilled water.After treated in $3 \\%$ Hydrogen Peroxide $\\mathrm { ( H } _ { 2 } \\mathrm { O } _ { 2 } )$ for 15 minutes,the slides were processed for antigen retrieval in Tris-EDTA buffer $\\mathrm { \\Omega } ^ { \\mathrm { ' 1 0 ~ m M } }$ $\\mathrm { p H } 8 . 0$ ), $1 2 1 ^ { \\circ } \\mathrm { C }$ for 5 minutes,and then cooled down slowly.After blocking with $10 \\%$ goat serum for 3O minutes,the sections were incubated in primary antibodies overnight.After washing 3 times with PBS,the sections were incubated in HRP or AP-conjugated secondary antibodies,and subsequent detection was performed using the standard substrate detection ofHRP orAP.Then,the sections were stained withhematoxylinand dehydration in graded alcohols and xylene.For double staining,there was no counterstaining with hematoxylin. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Co-IP assay.For Co-IP,sphere cells $( 5 \\times 1 0 ^ { 6 } )$ ）were harvested, washed 3 times with PBS,and then treated with RIPA buffer for 30 minutesat $4 ^ { \\circ } \\mathrm { C }$ .Precipitation was removed from cell lysate by centrifugation,and the supernatants was precleared for1 hour by protein $\\mathbf { A } / \\mathbf { G }$ beads (Santa Cruz Biotechnology Inc.).Then,the precleared protein $\\mathbf { A } / \\mathbf { G }$ beads were removed and primary antibodies were added for incubation overnight.New protein $\\mathbf { A } / \\mathbf { G }$ beads were added for IP.Finally the precipitate was collected and detected as described (27). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Lentivirus production and cellinfection.ZIC2 plasmid was provided byEloisa Herrera (Instituto de Neurociencias de Alicante,Campus San Juan,Avd.Ramony Cajal $s / { \\mathfrak { n } }$ ,Alicante O355O,Spain).We constructed Pbplv-GFP-Flag-ZIC2 using ZIC2 plasmid as a template. For virus production,we transfected 293T cells with Pbplv-GFP or Pbplv-GFP-Flag-ZIC2 plasmid,along with package plasmids.Hep3B and HCC primary cells were infected by the virus supernatants.After sorting for ${ \\mathrm { G F P ^ { + } } }$ cells,we established ZIC2 overexpression cells. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Journal of Clinical Investigation ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZIC2-,OCT4-,and NURF complex-silenced Hep3B or HCC primary cells were established using pSicoR-GFP shRNA vectors by a similar strategy. shRNA sequences are listed in Supplemental Table 3. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sphere formation assay.Hep3B cells (1,OoO) orHCC primary cells $( 5 , 0 0 0 )$ were seeded in UltraLow Attachment 6-wellplates (Corning Inc.) and cultured in Dulbecco's modified Eagle's medium/F12 supplemented with B27,N2 (Invitrogen), $2 0 \\mathrm { n g / m l }$ EGF,and $2 0 \\mathrm { n g / m l }$ Basic Fibroblast Growth Factor (Millipore).Cells were incubated in a $\\mathrm { C O } _ { 2 }$ incubator 2 weeks later; spheres were counted under stereomicroscope (Olympus). We collected medium containing nonsphere cells and spheres into an eppendorf tube and let stand for 5 minutes for sphere/nonsphere separation.The pellets were spheres,and supernatants were nonsphere cells. The spheres were fixed for immunofluorescence staining or digested for Co-IP and Western blot assays.Supernatants were then removed into a new eppendorftube with transferpettor and collected by centrifugation at $^ { 4 , 0 0 0 \\mathrm { r p m } }$ for 5 minutes.Pellets were nonsphere cells and used directly for subsequent experiments.We cultured these nonsphere cells under the same nonadherent conditions as sphere cells. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry.Cells were labeled with FITC-conjugated CD13 and PE-conjugated CD133 antibodies followed by CsC isolation. For FACS analysis,cells were incubated either with fluorescenceconjugated antibodies orwith primary antibodies and further fluorescence-conjugated secondaryantibodies. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Yeast 2-hybrid. Yeast 2-hybrid screening was performed using Matchmaker Gold Yeast 2-Hybrid system (Takara Bio Inc.) followed by the guidelines of the manufacturer's instruction (52).Briefly,the DNA binding region-deleted (aa 255-415) ZIC2 gene was cloned into pGBKT7 plasmid (BD-ZIC2△DB).BD-ZIC2△DB and plasmids containing Gal4-activating domain (AD) fused human liver library (Takara Bio Inc.) were cotransformed into the AH1O9 yeast strain. Then, the transformed yeasts were grown on plates with SD medium lacking adenine,histidine,tryptophan,and leucine.Selected clones were isolated and identified by DNA sequencing.Recovery of the plasmidsand $\\beta$ -galassaywere performedas described (52). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence staining.Cellswere fixed by $4 \\%$ paraformaldehyde (PFA) for 2O minutes and penetrated by $0 . 5 \\%$ tritonX-100 for 30 minutes.After blocking with $10 \\%$ FBS,primary antibodies were addedand incubated overnightat $4 ^ { \\circ } \\mathrm { C } .$ After washing 3 times with PBS, fluorescence-conjugated secondary antibodies were added for observation by confocal microscopy.For HCC tissue samples,specimens were treated with $3 \\%$ hydrogen peroxide and then Tris-EDTA buffer for antigen retrieval before blocking with FBS. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ChIP.We performed ChIP assays according to the standard pro tocol (Uptate Biotechnology,Inc.).Briefly,primary orHep3B spheres were digested with Trypsin/EDTAand incubated in $1 \\%$ formaldehyde for 10 minutes at $3 7 ^ { \\circ } \\mathrm { C }$ .They were then cracked by warm SDS lysis buffer for1O minutes on ice,followed by ultrasonic to shear DNA to lengths between 2OO and 1,Ooo bp.Chromatin was precleared with proteinA/G beads,followed by incubation with the indicated antibodies for ChIP assay as described (27). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ChIP-Immunobloting assay. Oncosphere cells were treated with $^ { \\circ } +$ crosslink) or without (-crosslink) $1 \\%$ formaldehyde for $1 0 \\ \\mathrm { \\ m i n }$ 0 cracked with SDS lysis buffer,and treated byultrasonication.AfterIP with the indicated antibodies and beads,the eluate $( 5 0 0 \\mu \\mathrm { l } )$ was layered onto $3 5 \\mathrm { m l } 1 0 \\% { - } 4 0 \\%$ (W/V) gradient sucrose.Beckman SW28 rotor was used for ultracentrifugation at 24,OoO rpm for 3O hours.Then,fractions were carefully collected into $2 { \\cdot } \\mathrm { m l }$ tubes,and the elution gradients were concentrated to $1 0 0 ~ \\mu \\mathrm { l }$ using centrifugal concentration tubes.Finally, the samples were analyzed using Western blotting or PCR assays. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "DNaseI sensibility assay.Cell nuclei were isolated and lysed for DNase Idigestion as described (53).After digestion for5 minutes at $3 7 ^ { \\circ } \\mathrm { C }$ ,total DNA was extracted and quantitative RT-PCR was performed with the indicated promoter-specific primers. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Gel EMSA assay.Recombinant GST-ZIC2 or GST protein was expressed in $E$ .coli BL21(λDE3) and purified with GST beads.The DNA fragment $( - 2 5 5 0 { \\sim } 2 4 3 0 \\ \\mathrm { b p } )$ of OCT4 promoter was produced by Sangon company (Shanghai, China),and labeled with $[ \\mathrm { r } ^ { - 3 2 } \\mathrm { P } ]$ dATP accordingto standard protocol.Probes and recombinant proteins were incubated in binding buffer,and mobility shift assay was performed using gel electrophoresis. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Luciferase reporter assay.Luciferase reporter assay was performed according to the standard protocol of Dual-Luciferase Reporter Assay system (Promega).Briefly,indicated fragments of OCT4 promoter were cloned into the pGL3 luciferase reporter vector and transfected into ZIC2 overexpression and control Hep3B cells.For each sample,1 ng pRL-TK was transfected for loading control.Thirty-six hours later,cells were collectedand lysedbylysis buffer followedbydetectionofluciferaseactivity. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In vivo xenograft experiments. Six-week-old female BALB/c normal mice and nude mice were obtained from the Animal Center of the Chinese Academy of Medical Sciences (Beijing,China).For tumor-initiating assays,6 BALB/c nude mice were used every sample. Tumor-initiating cell frequencies were calculated using extreme limiting dilution analysis (54). Tumor cells $( 1 \\times 1 0 ^ { 6 } )$ were injected into 6-week-old BALB/c nude mice.Every 5 days,tumor volume was calculated as described (55).For tumor-formation assay,spheres were digested into single cells by Trypsin/ EDTA,and indicated gradient cells were injected into BALB/c nude mice. Tumor formation was evaluated at the third month.For xenograft tumor propagation,5 BALB/c nude mice were used for one sample. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Statistics. Tumor-initiating cell frequencies were calculated using extreme limiting dilution analysis (54).Statistical significance was evaluated usinga2-tailed Student's t test. $P$ values less than O.O5 were considered significant. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Study approval.Human liver cancer specimens were obtained from the Department of Hepatobiliary Surgery,PLA General Hospital (Beijing,China) with informed consent,according to the Institutional Review Board approval.All experiments involving mice were approved by the institutional committee of Institute of Biophysics, Chinese Academy of Sciences. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank Junying Jia (Institute of Biophysics,CAS) and Jing Li (Cnkingbio Co.Ltd,Beijing,China) for technical support. This work was supported by the National Natural Science Foundation of China (81330047, 91419308,81272270,81402459,and 81101531);the State Projects of Essential Drug Research and Development (2012ZX09103301-041)；973 Program of the Ministry of Science and Technology of China (2O15CB553705, 2010CB9119O2);and the Strategic Priority Research Programs of the Chinese Academy of Sciences (XDAO1O10407). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Address correspondence to: Zusen Fan,The CAS key Laboratory of Infection and Immunity,Institute of Biophysics,Chinese Academy of Sciences, Beijing,China 1O0101. Phone: 86.1O.64888457; E-mail: fanz@moon.ibp.ac.cn. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1.Han ZG.Functional genomic studies: insights into the pathogenesis ofliver cancer.Annu Rev Genomics Hum Genet.2012;13:171-205.   \n2.Visvader JE.Cell of origin in cancer. Nature.   \n2011;469(7330):314-322.   \n3.Visvader JE,Lindeman GJ. Cancer stem cells: current status and evolving complexities. Cell Stem Cell.2012;10(6):717-728.   \n4. Zhou BB,Zhang H,Damelin M,Geles KG, Grindley JC,Dirks PB.Tumour-initiating cels: challenges and opportunities for anticancer drug discovery.Nat Rev Drug Discov.   \n2009;8(10):806-823.   \n5.Yang ZF,etal.Significance of $\\scriptstyle \\mathrm { \\overrightarrow { C D 9 0 ^ { + } } }$ cancer stem cells in human liver cancer. Cancer Cell.   \n2008;13(2):153-166.   \n6.HaraguchiN,etal. CDl3 is a therapeutic target in human liver cancer stem cells.JClin Invest.   \n2010;120(9):3326-3339.   \n7.Sekiya S,Suzuki A.Direct conversion of mouse fibroblasts to hepatocyte-like cells bydefined factors.Nature.2011;475(7356):390-393.   \n8.Ladewig J, Koch P,Bruistle O.Leveling Waddington: the emergence of direct programming and the loss of cell fate hierarchies.Nat Rev Mol Cell Biol.2013;14(4):225-236.   \n9.Yu J, et al.Induced pluripotent stem cel lines derived from human somatic cels. Science.   \n2007;318(5858):1917-1920.   \n10.Takahashi K,Yamanaka S.Induction of pluripotent stem cels from mouse embryonic and adult fibroblast cultures by defined factors. Cell.   \n2006;126(4):663-676.   \n11. Nichols J, etal.Formation of pluripotent stem cells in the mammalian embryo depends on the POU transcription factor OCT4.Cell.   \n1998;95(3):379-391.   \n12. Kim JB,et al. OCT4-induced pluripotency in adult neural stem cells.Cell.2009;136(3):411-419.   \n13.KimJB,etal. Direct reprogramming of human neural stem cels by OCT4.Nature.   \n2009;461(7264):649-653.   \n14. Wezel F,Pearson J, Kirkwood LA,Southgate J. Differential expression of OCT4 variants and pseudogenes in normal urothelium and urothelial cancer.Am J Pathol.2013;183(4):1128-1136.   \n15.Zhang Z,etal.Follcle-stimulating hormone inhibits apoptosis in ovarian cancer cells by regulating the OCT4 stem cell signaling pathway. Int JOncol.   \n2013;43(4):1194-1204.   \n16.Benedyk MJ, Mullen JR,DiNardo S.odd-paired: a zinc finger pair-rule protein required for the timely activation of engrailed and winglessin Drosophila embryos. Genes Dev.1994;8(1):105-117.   \n17. Garcia-Frigola C,Carreres MI, Vegar C,Mason C,Herrera E.ZIC2 promotes axonal divergence at the optic chiasm midline by EphB1-dependent and -independent mechanisms.Development.   \n2008;135(10):1833-1841.   \n18. Chan DW,et al.ZIC2 synergistically enhances Hedgehog signalling through nuclear retention of Glil in cervical cancer cells.J Pathol.   \n2011;225(4):525-534.   \n19.Marchini S,etal.The zinc finger gene ZIC2 has features of an oncogene and its overexpression ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "correlates strongly with the clinical course of epithelial ovarian cancer. Clin Cancer Res. 2012;18(16):4313-4324. 20.Narlikar GJ,SundaramoorthyR,Owen-Hughes T.Mechanisms and functions of ATP-dependent chromatin-remodeling enzymes.Cell. 2013;154(3):490-503. 21.Wysocka J, etal.A PHD finger of NURF couples histone H3 lysine 4 trimethylation with chromatin remodelling. Nature.2006;442(7098):86-90. 22.Ruthenburg AJ, etal.Recognition of a mononucleosomal histone modification pattern by BPTF via multivalent interactions. Cell. 2011;145(5):692-706. 23.Hamiche A,Sandaltzopoulos R, Gdula DA, Wu C. ATP-dependent histone octamer sliding mediated by the chromatin remodeling complex NURF.Cell.1999;97(7):833-842. 24.Landry J,etal.Essential role ofchromatin remodeling protein Bptf in early mouse embryos and embryonic stem cells.PLoS Genet. 2008;4(10):e1000241. 25.Cherry CM,Matunis EL.Epigenetic regulation of stem cell maintenance in the Drosophila testis via the nucleosome-remodeling factor NURF. Cell Stem Cell.2010;6(6):57-567. 26.Song H, Spichiger-Haeusermann C,Basler K. The ISWI-containing NURF complex regulates the output of the canonical Wingless pathway. EMBO Rep.2009;10(10):1140-1146. 27 XiaP,etal.WASHis required for thedifferentiation commitment of hematopoietic stem cells in ac-Myc-dependent manner.J Exp Med. 2014;211(10):2119-2134. 28.Ma S,et al.Identification and characterization of tumorigenic liver cancer stem/progenitor cells. Gastroenterology.2007;132(7):2542-2556. 29.Wang Y,etal. The long noncoding RNA lncTCF7 primes self-renewal of liver cancer stem cells through activation of Wnt signaling.Cell Stem Cell.2015;16(4):413-425. 30.Wurmbach E,et al. Genome-wide molecular profiles of HCV-induced dysplasia and hepatocellular carcinoma. Hepatology.2007;45(4):938-947. 31.Barretina J,etal.The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity.Nature.2012;483(7391):603-607. 32.HoshidaY,etal.Integrative transcriptomenalysis reveals common molecular subclasses of human hepatocellular carcinoma.Cancer Res. 2009;69(18):7385-7392. 33.Pan G,Qin B,Liu N,Scholer HR,Pei D. Identification of a nuclear localization signal in OCT4 and generation of a dominant negative mutant by its ablation.JBiol Chem. 2004;279(35):37013-37020. 34.Roessler S,et al. Integrative genomic identification of genes on 8p associated with hepatocellular carcinoma progression and patient survival. Gastroenterology.2012;142(4):957-966 e912. 35.Boyault S,et al.Transcriptome classification of HCC is related to gene alterations and to new therapeutic targets. Hepatology. 2007;45(1):42-52. 36 Ianidnt T et al A rell initiating hiiman ariite ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "myeloid leukaemia after transplantation nto SCID mice.Nature.1994;367(6464):645-648.   \n37. O'Brien CA,PollettA,Gallinger S,Dick JE.A human colon cancer cell capable ofinitiating tumour growth in immunodeficient mice.Nature. 2007;445(7123):106-110.   \n38.Gupta PB,Chaffer CL,Weinberg RA.Cancer stem cells: mirage or reality? Nat Med. 2009;15(9):1010-1012.   \n39.Ji J, Wang XW.Clinical implications of cancer stem cellbiology in hepatocellular carcinoma. Semin Oncol.2012;39(4):461-472.   \n40.Gidekel S,Pizov G,Bergman Y,Pikarsky E.Oct-3/4 is adose-dependent oncogenic fate determinant. Cancer Cell.2003;4(5):361-370.   \n41.Hochedlinger K, Yamada Y, Beard C,Jaenisch R. Ectopic expression of Oct-4 blocks progenitorcelldifferentiation and causes dysplasiain epithelial tissues. Cell.2005;121(3):465-477.   \n42.Chang CC,Shieh GS,WuP,Lin CC,Shiau AL,Wu CL.Oct-3/4 expression reflects tumor progression and regulates motility of bladder cancer cells. Cancer Res.2008;68(15):6281-6291.   \n43.Chen YC,et al. Oct-4 expression maintained cancer stem-like properties in lung cancer-derived CD133-positive cells.PLoS One.2008;3(7):e2637.   \n44.Brown SA,et al.Holoprosencephaly due to mutations in ZIC2,a homologue of Drosophila odd-paired.Nat Genet.1998;20(2):180-183.   \n45.Beck B, Blanpain C.Unravelling cancer stem cell potential.Nat Rev Cancer.2O13;13(1O):727-738.   \n46.Greaves M,Maley CC.Clonal evolution in cancer. Nature.2012;481(7381):306-313.   \n47.Krasteva V, Buscarlet M,Diaz-Tellez A,Bernard MA, Crabtree GR,Lessard JA.The BAF53a subunit ofSWI/SNF-like BAF complexes is essential for hemopoietic stem cell function. Blood. 2012;120(24):4720-4732.   \n48.Clapier CR,Cairns BR.The biology of chromatin remodeling complexes.Annu Rev Biochem. 2009;78:273-304.   \n49.Alkhatib SG,Landry JW.The nucleosome remodeling factor.FEBS Lett.2011;585(2O):3197-3207.   \n50.R Development Core Team.R: A Language and Environment for Statistical Computing.Vienna, Austria: the R Foundation for Statistical Computing; 2011.   \n51. Ran FA,Hsu PD,Wright J, Agarwala V, Scott DA, Zhang F. Genome engineering using the CRISPR-Cas9 system.Nat Protoc. 2013;8(11):2281-2308.   \n52. XiaP,etal. RNF2 is recruited by WASH to ubiquitinate AMBRA1leading to downregulation of autophagy. CellRes.2014;24(8):943-958.   \n53.Ye B,et al.Pcid2 inactivates developmental genes in human and mouse embryonic stem cells to sustain their pluripotency by modulation of EID1 stability.Stem Cells.2014;32(3):623-635.   \n54.Hu Y,Smyth GK.ELDA:extreme limiting dilution analysis for comparing depleted and enriched populations in stem cell and other assays.JImmunol Methods.2009;347(1-2):70-78.   \n55. Zhu P,etal.C8orf4 negatively regulatesselfrenewal ofliver cancer stem cells via suppression of NOTCH2 signalling. Nat Commun.2015;6:7122. ",
+        "page_idx": 13
+    }
+]

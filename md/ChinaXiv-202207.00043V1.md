@@ -1,0 +1,242 @@
+# 小学低年级汉语儿童语素意识、汉字识别和词汇知识的发展关系一交叉滞后研究
+
+夏月」谢瑞波」王振梁」阮世芳²伍新春3
+
+(浙江师范大学家长教育研究中心，浙江省智能教育技术与应用重点实验室，金华，321004)(北京师范大学中国基础教育质量监测协同创新中心，北京，100875)(北京师范大学心理学部，应用实验心理北京市重点实验室，儿童阅读与学习研究中心，北京，100875)
+
+摘要以146名小学一年级儿童为研究对象，进行了历时2年的3次追踪测试，考察小学生从一到三年级的语素意识、汉字识别和词汇知识之间发展关系的变化。在控制了语音意识、快速命名、正字法意识、一般认知能力和自回归效应后，结果发现：(1)一年级时的汉字识别显著预测二年级的同音语素意识和同形语素意识；(2)一年级时的词汇知识显著预测二年级的复合语素意识和汉字识别；(3)二年级时的汉字识别和词汇知识对三年级的同音语素意识、同形语素意识和复合语素意识均有显著预测作用； (4)二年级时的同形语素意识对三年级的词汇知识具有显著预测作用。结果表明，小学一至三年级的汉字识别和词汇知识对语素意识具有预测作用；三种语素意识对汉字识别和词汇知识的预测作用中，只有同形语素意识能够显著预测词汇知识；三种语素意识、汉字识别和词汇知识的发展关系存在变化且具有阶段性特点。
+
+关键词语素意识，汉字识别，词汇知识，交叉滞后模型，汉语儿童
+
+# 1引言
+
+儿童语言文字的习得是一个复杂的过程(Cheng et al.,2015;Ku& Anderson,2003)，其中语素意识、汉字识别和词汇知识在这一发展过程中都具有重要的作用和意义，这三者之间发展关系的变化也是汉语研究者关注的热点(Cheng et al.,2016; Dulay et al.,2021; Grigorakis &Manolitsis,2020;Kim et al.,2020)。一方面，语言发展过程中汉语儿童在认知上会形成各种元语言意识，其中语素意识是元语言意识的重要组成成分(Kuo&Anderson,2006；程亚华 等,2017)。语素意识是指个体对语言最小意义单元的感知和操作(McBride-Chang et al.,2008;Kuo &Anderson,2006)，通过将词语拆分，并对其成分进行分析来构建整词的意义(Carlisle,
+
+2000)。行为和计算建模的证据表明，由于汉语语言及书写系统的特殊性，汉语中的音节、字符和语素之间存在着一一对应关系，一个语素一般表示一个汉字，这使得汉语对语义处理的要求比英语等拼音文字更高(Dulay et al.,2021; McBride,2016)。基于此，语素意识在汉语中发挥着更重要的作用,尤其是在字词学习中(Ku& Anderson,2003;Wang&Liu,2020;Wanget al.,2021；方铖豪 等,2019)。另一方面，汉字识别和词汇知识在汉语儿童语言发展过程中也是至关重要的。进入小学的儿童开始接触书面文本，逐渐对字符的形态结构有了深入的理解和认识，从而掌握更多更复杂的汉字和词汇。此外，在英语儿童和汉语儿童的研究中均已发现字词之间存在紧密联系(Hulme et al.,2019; Ouellette,2006)。综上，同时考察语素意识、汉字识别和词汇知识在小学儿童语言发展过程中的相互关系具有十分重要的意义。然而，目前还鲜有研究对小学低年级汉语儿童语素意识、汉字识别和词汇知识三者之间发展关系的变化进行系统探究。
+
+汉字是表意文字，其书写符号与语素有着较为系统而透明的对应关系(董琼 等,2013)。与拼音文字相比，汉语语素意识存在其特殊性，并且对汉语儿童言语技能的发展有着十分重要的作用。首先,汉语词汇中 $70 \%$ 以上的词都是复合词，且语素的构词位置比较自由(Packard,2000)；其次，由于汉语中只有1300多个音节，而常用语素有5000多个，音节较少，语素较多，造成了汉语中存在大量的同音语素；再次，由于字义的演化和字形的简化，相同的字形可能具有不同含义，造成汉语中存在很多同形语素。根据汉语语素的特点，Liu等人(2012)将语素意识结构划分为语素水平和语素结构水平。前者指儿童对特定语素的识别和操作，主要包括同音语素意识和同形语素意识，是对同音字和多义字的区分能力，如“糖”和“唐”属于同音语素，“告别”和“别针”中的“别”属于同形语素。后者指儿童对语素结构规则的理解和操作的能力，也是对词内部结构的意识，主要包括复合语素意识，如“书包”中语素“书”和“包”的关系。
+
+儿童在早期语言发展过程中，从口语的同音语素辨析中开始习得部分语素意识(Carlisle,1995;Hao et al.,2013; Li et al.,2016)。口语中，大量同音语素和同形语素匹配不同的意义。同音语素如“红枣”里的“枣”指水果，而“早上”里的“早”指时间。同形语素如“表哥”里的“表”指亲戚关系，“表格”里的“表”指显示。儿童在接受正规汉字学习之后，开始建立形音义之间的联系，字形的获得将对辨析不同意义的同音语素和同形语素提供视觉依据，从而促进同音语素意识和同形语素意识的发展(李虹，舒华,2009；邹丽娟，舒华,2016)。也就是说，汉字学习对同音语素意识和同形语素意识的发展具有重要作用。另一方面，研究也发现词汇知识有可能促进儿童语素意识的发展(Chung,2020;Ramirez et al.,2014)。词汇知识是学习者掌握词汇质量的体现，反映了词汇在学习者的心理词典中是如何组织的，也反映了学习者对词汇知识的所知水平，对词汇多种含义的了解程度(Afshari&Tavakoli,2007; Li &Kirby,2015;Qian et al.,1999)。丰富的词汇知识给儿童提供了理解和掌握语素规则的机会，有助于儿童归纳语言中语素的规律，更好地内化词汇的构成规则，从而促进其语素意识的建构和发展(程亚华 等,2017；赵英 等,2016)。例如：儿童在认识“表哥”、“表格”、“裱画框”等词语后，可以将该类词语的语素结构信息进行整合，分析总结同音语素（“表哥”的“表”和“裱画框”的“裱”)和同形语素（“表哥”的“表”和“表格”的“表”)的规律。此外，随着儿童词汇学习经验的丰富，意识到对词汇的加工和理解可以是灵活多变的。复合词中具有相同意义的汉字在相似语境下是能够相互替换的，利用两个词汇中共同的成分“表”或“裱”来推测没有学习过的同类结构新词，如“表弟”、“表示”、“装裱”。随着词汇知识的不断积累，有助于同音语素意识、同形语素意识和复合语素意识的发展(McBride-Chang et al.,2008)。因此，汉字识别和词汇知识可能是影响儿童语素意识发展的重要因素。
+
+语素意识也可能是促进识字量和词汇知识增长的重要影响因素之一(Cheng etal.,2015;McBride-Cheng et al.,2005)。同音语素意识和同形语素意识的发展有助于心理词典的加工处理，将语音相同的语素和字形相同的语素进行系统地归类，从而加快汉字语音和字形的提取速度,进而促进汉字识别的能力和词汇知识的积累(Dickinson & Porche,2011; McBride-Changet al.,2005;Ouellete,2006; Zhang et al.,2013)。同时，同音语素意识和同形语素意识能够帮助儿童认识到不能仅仅依靠字音的信息而固着在一个语素上，从而主动去区分同音字和多义字。同音语素意识发展得好的儿童，同一个读音可以激活多个字形和字义；同形语素意识发展好的儿童，对于一字多义会更加敏感，形义联结更好，对于字义的理解会更准确，从而有助于字词的学习。此外，相较于拼音文字能够通过派生和屈折等方式衍生单词的含义，现代汉语较少有派生词和屈折词(Kuo & Andeson,2006;McBride-Chang et al.,2008)。然而，现代汉语中存在大量的复合词，复合语素意识发展的好的儿童能够从复合词中快速提取出单个语素的意义，合理地推测词义促进汉字的学习。实证研究表明，无论是拼音文字还是非拼音文字体系，语素意识发展得好的儿童更容易进行字词阅读(Cheng et al.,2015;Kim etal.,2020)。
+
+小学儿童语言发展是语素意识、汉字识别和词汇知识等语言认知技能共同促进的结果，这是一个动态发展变化的过程，不同阶段三者之间的发展关系可能存在差异(McBride-Changet al.,2008；赵英 等，2016)。探索三者的发展关系有助于了解小学儿童语言发展的规律，并能为语言教学指导提供理论依据。Cheng 等人(2015)选取1\~2年级汉语儿童为研究对象，对其复合语素意识和词汇知识的关系进行了4次追踪研究，结果发现复合语素意识与词汇知识之间存在相互预测关系。但是，此研究未考虑同音语素意识、同形语素意识与词汇知识的关系。程亚华等人(2017)在对一年级汉语儿童的语素意识和词汇知识的双向关系研究中，进行了为期半年的追踪，研究发现同音语素意识和复合语素意识对词汇知识的发展具有显著预测作用，词汇知识也能够显著预测半年后的复合语素意识、同音语素意识和同形语素意识的发展。然而，该研究追踪时间较短并且未将汉字识别纳入考察或控制。McBride-Chang 等人(2005)在控制了词汇知识的前提下，采用横断研究设计对小学二年级儿童的语音意识、语素结构意识和汉字识别进行研究，发现语素意识显著预测汉字识别，而汉字识别对语素意识的预测作用不显著。还有研究将同音语素意识、同形语素意识和复合语素意识抽潜为单一变量的语素意识进行探索(Zhang,2015，赵英 等,2019)，模糊了同音语素意识、同形语素意识和复合语素意识的区别以及与汉字识别和词汇知识的独特关系。此外，以往研究通常采用横断研究设计或者追踪时间较短，从而无法刻画语素意识、汉字识别和词汇知识之间长时程的发展关系。相较之下，只有追踪研究才可以合理推论变量之间可能存在的因果关系，通过控制因变量的自回归效应，直接探讨自变量对因变量动态发展的预测作用(董琼 等,2013)。因此，本研究拟进一步采用长时程的追踪设计，在更为严格的控制条件下，从动态发展的视角探索小学儿童三种语素意识、汉字识别和词汇知识之间的相互预测关系以及这种关系的变化特点，对三者之间的发展关系在小学低年级阶段进行系统的探索。
+
+由于小学一年级儿童刚开始接受系统的学校教学，正值语素意识、汉字识别和词汇知识发展的关键时期，关注这一阶段的儿童可以更好地探索个体如何运用汉字识别和词汇知识来发展语素意识以及使用语素意识来扩展识字量和词汇知识的规律。因此，本研究选取小学一年级儿童为研究对象，对其语素意识(包括同音语素意识、同形语素意识和复合语素意识)、汉字识别和词汇知识进行追踪测查，通过交叉滞后模型探索小学儿童三种语素意识、汉字识别和词汇知识之间发展关系的变化。以往研究发现，语音意识、快速命名、正字法意识和一般认知能力与三种语素意识、汉字识别、词汇知识的关系紧密(Li etal.,2012;Perfetti& Stafura,2014; Pan et al.,2016; Powell& Atkinson, 2021; Ruan et al.,2017; Song et al., 2016; Weng et al.,2016)。因此，本研究将对语音意识、快速命名、正字法意识和一般认知能力进行控制。
+
+# 2研究方法
+
+# 2.1被试
+
+本研究采取整群抽样的方式选取山西省两所小学一年级儿童为研究对象，开展为期2年3次的追踪研究。所有儿童的母语均为汉语，没有明显的认知和语言发展迟滞。学生家长多为学校附近的居民和商户，其中父亲受教育程度大专及以上占 $4 3 . 5 4 \%$ ，母亲受教育程度大专及以上占 $3 7 . 0 9 \%$ 。第一次测试时间(T1)为一年级的春季学期，共有146 名儿童参与测试，其中男生78人，女生68人，月龄为 $8 1 . 9 2 ~ \pm ~ 4 . 0 9 ( \mathrm { T } 1$ 时施测的月龄)。第二次(T2)的测试时间为二年级秋季，间隔6个月。第三次(T3)的测试时间是三年级秋季，间隔时间为12个月。由于转学等原因，T2、T3分别流失被试19人和2人。对流失被试进行分析，流失被试与继续参与测试的儿童在一般认知能力、快速命名、语音意识、同音语素意识、同形语素意识、复合语素意识、汉字识别和词汇知识等变量上均无显著差异 $( p s > 0 . 0 5 )$ ，表明被试不存在结构化流失。
+
+# 2.2测验任务
+
+# 2.2.1语素意识
+
+# 同音语素意识
+
+采用同音语素产生任务，对同音语素意识进行测量(Li etal.,2012)。主试口语呈现一个含有目标语素的词汇，要求儿童先用该目标语素组词，以确认被试已经掌握该语素。然后主试再要求被试列举与目标语素有相同读音的语素，并使用这些同音字组出尽可能多的词。例如，含有目标语素为“糖果”的“糖tang”，要求被试用与“糖tang”读音相同的字组词，如“食堂”、“池塘”。每个正确答案计1分。三次测验的内部一致性α系数分别为0.73、0.72、0.74。
+
+# 同形语素意识
+
+采用同形语素产生任务，对同形语素意识进行测量(李虹，舒华,2009)。主试口语呈现一个双字词并指定其中一个语素(如“花朵”的“花”)作为目标语素，让儿童重新组两个词，其中一个目标语素的意义与原词中的意义相同(如“小花”)，另一个则不同(如“花钱”)。每个正确答案计1分。三次测验的内部一致性α系数分别为0.73、0.72、0.70。
+
+# 复合语素意识
+
+采用复合词产生任务，对复合语素意识进行测量(Liu&McBride-Chang,2010；董琼,2013)。主试向被试口头描述一个新事物的句子，要求被试创造一个新词给这个新事物命名。该测验共8个练习和20个项目，题目分为两组，第一组问题的答案是两个语素的，共12个题目，评分者根据儿童是否提取出关键语素、产生出的词汇结构的准确和简洁程度，答案为三级评分(2、1、0)；第二组问题的答案是三个语素的，共8个题目，答案为四级评分(3、2、1、0)。例如，用叶子做成的盘子叫做什么？回答：“叶盘”得2分，“叶子盘”或“叶盘子”得1分，使用了无关语素，与整句意思的相关性不高得0分。三次评分者一致性分别为0.98、0.99 和0.98，三次测验的内部一致性α系数分别为0.84、0.82、0.85。
+
+# 2.2.2汉字识别
+
+汉字识别任务是采用已有测验考察儿童的识字量大小(Lietal.,2012)，反映字词解码这一初级阅读过程。共150个汉字，按照难度依次增加的顺序排列。要求被试由左到右、由上到下阅读，连续十个错误或不会即停止。每读正确一个记1分。三次测验的内部一致性α系数分别为0.93、0.92、0.94。
+
+# 2.2.3 词汇知识
+
+采用词汇定义测验任务，对词汇知识进行测量(李虹 等,2009)。主试口头呈现词汇，要求被试对词汇进行解释，如“电话”是什么？或者什么是“电话”？记录原始答案并进行评分。该任务共有1个练习和32个项目，从易到难排列，连续5个答错即停止。由两位评分者根据儿童的回答与词汇意义的符合程度进行独立评分(2、1、0),词汇解释语义贴切符合语境且连贯准确得2分；整体语义可以理解但不够贴切和准确得1分；语义完全不符得0分。三次评分的评分者一致性分别为0.93、0.94和0.94，T1、T2和T3测验的内部一致性α系数分别为0.85、0.84、0.85。
+
+# 2.2.4语音意识
+
+采用音位删除任务(Shu etal.,2006)，考察儿童对声母、韵母等语音单位的认知和操作的能力，任务要求被试将一个音节指定部分的音位删除后读出，如“/cha/不说/ch/还剩什么？答案/a/。正确回答记1分，满分12分。测验的内部一致性α系数为0.79。
+
+# 2.2.5快速命名
+
+采用数字命名任务，测验儿童快速形—音通达的能力(Lietal.,2012)。测验由1、3、4、5、8五个数字组成 $5 { \times } 5$ 的数字矩阵，每行中五个数字的顺序不同。测试中要求被试由左到右、由上到下以最快的速度命名，主试用秒表记录时间，精确值为0.01秒。本测验进行两次，取其平均数作为快速命名的成绩。该测验的重测信度为0.81。
+
+# 2.2.6正字法意识
+
+采用已有测验考查儿童对汉字结构的认识(Li&Wu,2015)。测验要求被试做出真假字判断，在真字下面打“√”，在不是真字的下面打“×”。共涉及四种测试材料：假字、位置错误、笔画乱写和部件错误，其中假字符合正字法规则。假字：如“篓”；位置错误：如“攵”；笔画乱写：如“”；部件错误：如“”。共90个项目，每种构字方式的项目数分别是45、15、15、15，判断正确计1分。测验的内部一致性α系数为0.85。
+
+# 2.2.7非言语智力
+
+采用瑞文推理测验任务考察儿童一般认知能力(张厚粲，王晓平,1989)。测验要求儿童在6至8个选项中选择一个选项补全缺失图形。共5组，60个选项，答对一项记1分。测验的内部一致性α系数为0.91
+
+# 2.3测试程序
+
+本研究在获得家长和老师的同意后进行施测，由经过专业训练的心理学研究生担任主试。集体测验(正字法意识测验和非言语智力测试)在教室集中施测，个别测验(语素意识测验、词汇知识测验、汉字识别测验、语音意识测验和快速命名测验)在学校安排的单独的教室内进行一对一施测，每次测试时间大约为45 分钟。采用 SPSS 22.0软件对数据进行描述性统计和相关性分析，采用 Mplus 8.0 对数据进行交叉滞后建模。
+
+# 3结果
+
+# 3.1描述性统计结果和相关性分析
+
+三次追踪测查(T1、T2、T3)的同音语素意识、同形语素意识、复合语素意识、汉字识别和词汇知识及T1的快速命名、正字法意识、语音意识和一般认知能力的得分情况及重复测量方差分析的结果，如表1所示。从表1中可以看出，随着时间的推移，小学儿童的词汇知识、同音语素意识、同形语素意识、复合语素意识和汉字识别均显著提高：词汇知识 $F ( 2 ,$ （20$3 9 6 ) = 1 4 . 5 5 , p < 0 . 0 0 1$ ， $\mathfrak { \eta } ^ { 2 } = 0 . 6 8$ ；同音语素意识 $F ( 2 , 3 9 6 ) = 1 4 . 1 2$ ， $p < 0 . 0 0 1$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 6 3$ ;同形语素意识 $F ( 2 , 3 9 6 ) = 1 3 . 3 6$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 4 8$ ；复合语素意识 $F ( 2 , 3 9 6 ) { = } 1 5 . 5 5$ ， $p <$ 0.001, $\mathfrak { \eta } ^ { 2 } = 0 . 8 8$ ；汉字识别 $F ( 2 , 3 9 6 ) { = } 2 5 . 3 3 \$ ， $p < 0 . 0 0 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 9 2$ 。
+
+表1三个时间点(T1、T2、T3)测验结果（ $\cdot M { \pm } S D )$ 及重复测量方差分析结果  
+
+<html><body><table><tr><td>变量</td><td>T1 (M ± SD)</td><td>T2 (M ± SD)</td><td>T3 (M ±</td><td>SD)</td><td>F</td><td>n²</td></tr><tr><td>词汇知识</td><td>10.69 ± 5.74</td><td></td><td>13.51 士 6.36</td><td>19.86 士 6.62</td><td>14.55***</td><td>0.68</td></tr><tr><td>同音语素</td><td>8.68 ± 4.57</td><td></td><td>13.39 士 4.61</td><td>15.97 士 6.22</td><td>14.12***</td><td>0.63</td></tr><tr><td>同形语素</td><td>9.26 ± 3.16</td><td></td><td>10.67 ±2.94</td><td>12.53 ± 3.47</td><td>13.36***</td><td>0.48</td></tr><tr><td>复合语素</td><td>15.36 ±11.64</td><td></td><td>20.84 ± 10.81</td><td>28.75 士 10.91</td><td>15.55***</td><td>0.88</td></tr><tr><td>汉字识别</td><td></td><td>44.72 ± 24.96</td><td>59.65 ± 23.51</td><td>88.28 ± 18.66</td><td>25.33***</td><td>0.92</td></tr><tr><td>一般认知能力</td><td>28.06 ±</td><td>9.31</td><td></td><td></td><td></td><td></td></tr><tr><td>快速命名</td><td>12.52</td><td>± 2.78</td><td></td><td></td><td></td><td></td></tr><tr><td>语音意识</td><td>8.86 ± 2.92</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>正字法意识</td><td></td><td>67.86 ± 8.33</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+注： $^ { * } p < 0 . 0 5$ ， $^ { * * } p < 0 . 0 1$ $^ { * * } p < 0 . 0 0 1$ ，下同。
+
+为了分析各个测验之间的相互关系，计算了三次测验中各个变量之间的相关，结果见表2。如表2所示，3次测验间词汇知识、汉字识别、同音语素意识、同形语素意识和复合语素意识均表现出中等程度的稳定性。3次测验间词汇知识的相关系数在0.55\~0.65之间，汉字识别的相关系数在0.71\~0.86之间，同音语素意识的相关系数在 $0 . 4 2 { \sim } 0 . 5 3$ 之间，同形语素意识的相关系数在0.37\~0.48，复合语素意识的相关系数在0.49\~0.60。3次的词汇知识、汉字识别和三种语素意识之间均存在显著正相关，相关系数在 $0 . 2 0 { \sim } 0 . 8 6$ 之间。此外，控制变量中一般认知能力、快速命名、语音意识和正字法意识与部分测验相关。
+
+表2 词汇知识、汉字识别、同音语素意识、同形语素意识、复合语素意识和控制变量相关分析结果  
+
+<html><body><table><tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td></td><td>18</td></tr><tr><td>1.</td><td>词汇知识T1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.</td><td>词汇知识T2</td><td>.64**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3.</td><td>词汇知识T3</td><td>.55**</td><td>.65**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4.语素T</td><td>.48**</td><td>.36**</td><td>.38**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5.同音语素T2</td><td>.37**</td><td>.38**</td><td>.38**.53**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6.</td><td>同音语素T3</td><td>.35**</td><td>.36**</td><td>.55** .42** .47**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7.</td><td>同形语素T1</td><td>.60**</td><td>.36**</td><td>.47**.42** .26**</td><td></td><td></td><td>.38**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>8．同形语素T2</td><td>.39**</td><td>.52**</td><td>.53**.41**.46**</td><td></td><td></td><td>.39**</td><td>.42**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td>9.形语素T3</td><td>.48**</td><td>.53**</td><td>.63**.32**.39**</td><td></td><td></td><td>.61**</td><td>.37**</td><td>.48**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>10.复合语素T1</td><td>.50**</td><td>.41**</td><td>.37**.41**.24**</td><td></td><td></td><td>.28**</td><td>.38**</td><td>.35**</td><td>.37**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11.9夏</td><td>合语素T2</td><td>.49**</td><td>.54**</td><td>.52**.34** .37**</td><td></td><td></td><td>.34**</td><td>.32**</td><td>.50**</td><td>.43**</td><td>.60**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>12.复合语素T3</td><td>.41**</td><td>.47**</td><td>.62**.34**.33**</td><td></td><td></td><td>.52**</td><td>.34**</td><td>.43**</td><td>.54**</td><td>.49**</td><td>.60**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>13.汉字识别 T1</td><td>.34**</td><td>.20*</td><td>.29**.34**.39**</td><td></td><td></td><td>.41**</td><td>.30**</td><td>.36**</td><td>.38**</td><td>.44**</td><td>.36**</td><td>.38**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14.</td><td>字识别T2</td><td>.39**</td><td>.30**</td><td>.39**.29**.41**</td><td></td><td></td><td>.51**</td><td>.27**</td><td>.37**</td><td>.47**</td><td>.35**</td><td>.43**</td><td>.44**</td><td>.83**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>h</td><td>15.汉字识别T3</td><td>.45**</td><td>.39**</td><td>.46**.32** .38**</td><td></td><td></td><td>.52**</td><td>.31**</td><td>.42**</td><td>.47**</td><td>.34**</td><td>.49**</td><td>.50**</td><td>.71**</td><td>.86**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>16.般认知能力</td><td>.37**</td><td>.32**</td><td>.33** .27**.19*</td><td></td><td></td><td>.15</td><td>.36**</td><td>.21**</td><td>.17*</td><td>.30**</td><td>.26**</td><td>.30**</td><td>.30**</td><td>.22*</td><td>.31**</td><td>1</td><td></td><td></td><td></td></tr><tr><td></td><td>17．快速命名</td><td>-.25**</td><td>-.15</td><td>-.27** -.21* -.26**</td><td></td><td></td><td>-.28**</td><td>-.11</td><td>-.15</td><td>-.21*</td><td>-.11</td><td>-.24**</td><td>-.22**</td><td>-.27**</td><td>-.30**</td><td>-.34**</td><td>-.14</td><td>1</td><td></td><td></td></tr><tr><td></td><td>18．语音意识</td><td>.27**</td><td>.16</td><td>.25**</td><td>.17*</td><td>.32**</td><td>.23**</td><td>.29**</td><td>.18*</td><td>.27**</td><td>.24**</td><td>.29**</td><td>.32**</td><td>0.16</td><td>.20*</td><td>.20*</td><td>.08</td><td>-.14</td><td>1</td><td></td></tr><tr><td></td><td>19．正字法意识</td><td>.20*</td><td>.13</td><td>.02</td><td>.07</td><td>.15</td><td>.03</td><td>.07</td><td>.07</td><td>.14</td><td>-.03</td><td>0.11</td><td>0.11</td><td>.19*</td><td>.19*</td><td>.17*</td><td>.19*</td><td>-.06</td><td>.14</td><td>1</td></tr></table></body></html>
+
+# 3.2交叉滞后模型检验
+
+在相关分析的基础上，通过交叉滞后模型来探索语素意识、汉字识别和词汇知识之间的纵向关系。在控制语音意识、正字法意识、快速命名和一般认知能力的影响后，构建理论模型如图1所示。
+
+![](images/b55ec213847d7b39980f9caa002404d86f640d29268b618f29ffef554837218f.jpg)  
+图1语素意识、汉字识别和词汇知识交叉滞后检验模型
+
+注：图中单线箭头为预测关系，双线箭头曲线为相关关系。
+
+对交叉滞后模型进行检验，模型拟合指数良好，分别为 $\chi ^ { 2 } / d f = 1 . 2 2$ ,RMSEA $= 0 . 0 4$ ，$\operatorname { S R M R } = 0 . 0 3$ ， $\mathrm { C F I } = 0 . 9 9$ ， $\mathrm { T L I } = 0 . 9 7$ 。模型结果如图2所示。T1的词汇知识可以预测 T2的汉字识别 $( \beta = 0 . 1 2 , p < 0 . 0 5 )$ ;T1 词汇知识可以预测 T2的复合语素意识 $( \beta = 0 . 1 7 , p < 0 . 0 5$ ）T1 的汉字识别可以预测 T2 的同音语素意识和同形语素意识 $( \beta = 0 . 2 0 , p < 0 . 0 5$ $\beta = 0 . 2 4$ $p <$ 0.01)；T2 的汉字识别可以预测 T3 的复合语素意识、同音语素意识和同形语素意识( $( \beta = 0 . 1 8$ 号$p < 0 . 0 5 ; \beta = 0 . 3 5 , p < 0 . 0 0 1 ; \beta = 0 . 2 8 , p < 0 . 0 0 1 )$ ；T2 的词汇知识可以预测T3的复合语素意识、同音语素意识和同形语素意识 $( \beta = 0 . 1 6 , p < 0 . 0 5 ; \beta = 0 . 1 5 , p < 0 . 1 ; \beta = 0 . 3 6 , p < 0 . 0 0 1 )$ T2 的同形语素意识可以预测 T3 的词汇知识 $( \beta = 0 . 1 3 , p < 0 . 1 )$ 。此外，T1的语素意识对 T2的词汇知识和汉字识别均无显著预测作用;T2的语素意识对T3 的汉字识别也无显著预测作用。
+
+![](images/516c2bbe4fc919da3107800bf816d3ab9a0698aefe6d945ba4e34f51f0564004.jpg)  
+图2语素意识、汉字识别和词汇知识交叉滞后模型检验
+
+注：为呈现结果简洁，控制变量及其相关路径系数未在图中显示。
+
+# 4讨论
+
+本研究考察了同音语素意识、同形语素意识、复合语素意识与汉字识别和词汇知识之间的发展关系在小学低年级阶段的变化特点。采用追踪研究设计，在控制了语音意识、快速命名、正字法意识、一般认知能力和自回归效应后，在小学低年级阶段发现了汉字识别和词汇知识对语素意识具有稳定的预测作用，即前一个时间点的汉字识别和词汇知识可以显著预测后一个时间点的语素意识，为语素意识、汉字识别和词汇知识之间的关系提供了追踪研究的证据。本研究结果揭示语素意识很可能是字词学习和阅读的结果，这一结果进一步说明了在小学低年级阶段汉字识别和词汇知识对语素意识的重要预测作用。同时，二年级时的语素意识能够预测三年级的词汇知识，说明从二年级开始语素意识的发展达到了一定的水平，能够与词汇知识相互促进。此外，在本研究中，对语音意识、快速命名、正字法意识、一般认知能力和自回归效应进行了控制，这很可能是目前关于探索语素意识、汉字识别和词汇知识三者之间关系最为严格的检验。这说明三者之间的发展关系不依赖于儿童的语音意识和快速命名等阅读认知技能，此发现对于以后的理论研究和教学实践具有重要的启示意义。
+
+# 4.1汉字识别和语素意识的发展关系
+
+本研究发现一年级时的汉字识别对二年级的同音语素意识和同形语素意识具有预测作用，二年级时的汉字识别对三年级的三种语素意识均存在显著预测作用。儿童进入学校学习后，接受正式的书面文字教学，对字符结构有了更深的认识，形音义之间的联系变得更为紧密(邹丽娟，舒华，2016)。儿童逐渐归纳出一音多字的规律，在拼音学习过程中对同音字进行仔细的区分辨别，有助于同音语素意识的发展。同时，随着儿童接触大量汉字，儿童意识到相同字形在不同语言情境中所表达的含义有所变化，开始逐渐理解同一个字可能有多重语义，从而促进同形语素意识的发展(Mcbride-Chang et al.,2003)。此外，本研究未发现一年级时的汉字识别对二年级的复合语素意识的预测作用，可能的原因是小学一年级儿童汉字积累有限，而复合词是将两个汉字根据语义进行组合。发展复合语素意识需要儿童拥有一定的识字量，对汉语文字体系有更深的理解(赵微，陈泊荣,2015)。
+
+此外，本研究还发现二年级时的汉字识别不仅能够预测三年级的同音语素意识和同形语素意识，而且还进一步预测了三年级的复合语素意识。小学儿童在经过一年的汉字学习后，接受了更多的文字符号信息刺激，汉字的积累有了进一步的提升，能够将所学的汉字融会贯通进行组合，从而促进了复合语素意识的发展。以往关于汉语的实证研究也指出，文字阅读对语素意识的促进作用可能会出现在一年级到三年级之间(Hulme et al.,2019;Duly et al.,2021)。结合本研究的发现，可以推测儿童的汉字识别对三种语素意识的促进作用存在变化且具有阶段性特点。在小学一到二年级阶段，汉字识别主要是促进同音语素意识和同形语素意识的发展。在小学二到三年级阶段，汉字识别进一步促进复合语素意识的发展。基于本研究发现，在实践教学中，针对小学一年级儿童的汉字教学要注重其同音语素和同形语素的辨析。在此基础上，小学二年级儿童可以侧重培养其复合语素意识的形成。
+
+如果儿童语素意识发展的水平高，那么就更有可能意识到同一字形可能有不同含义，同一读音可能对应不同的字符，并且更能够灵活运用复合语素意识推测汉字的意义，细致分辨可能的不同含义。然而，本研究以小学低年级儿童为研究对象未发现语素意识对汉字识别显著的预测作用。可能的原因有以下几点，首先，本研究控制了语音意识、快速命名、正字法意识、一般认知能力以及相关变量的自回归效应，是在严格的控制条件下探究三种不同语素意识、汉字识别和词汇知识之间发展关系的变化情况。其次，小学低年级儿童的语素意识各成分发展水平并不一致(Chen et al.,2008;Liu&McBride-Chang,2010)。同音语素意识发展的转折点为小学四年级，同形语素意识发展的转折点为小学五年级，复合语素意识发展的转折点为小学五年级，一直到小学六年级仍在发展(董琼，2013；赵微，陈泊荣,2015)。本研究考察的对象是小学一年级到三年级的儿童，语素意识发展水平仍较低且不均衡。综上，故本研究未发现语素意识显著预测汉字识别的证据。
+
+# 4.2词汇知识和语素意识的发展关系
+
+一年级时的词汇知识能够显著预测二年级的复合语素意识，二年级时的词汇知识能够进一步预测三年级的同音语素意识和同形语素意识。这一结果不仅和已有的一年级时的词汇知识能够促进二年级的复合语素意识发展的研究结论一致(Cheng et al.,2015)，而且在此基础上还进一步发现二年级时的词汇知识能够促进三年级的同音语素意识和同形语素意识的发展。进入小学以后，儿童开始暴露在丰富的语言环境中，儿童不仅能在日常口语中获取简单词汇的信息，而且能从书面文本中学习到更多复杂词汇的含义。丰富的词汇知识增加了儿童掌握和运用语素规则的机会，有利于促进其语素意识的建构和发展(赵英 等,2016)。汉语复合词的语素规律较为简明，且具有可识别的意义(Kuo&Anderson,2006)。儿童在进入学校学习后，从不断积累的词汇知识中归纳出一定的语素组合规则，进而有助于复合语素意识的发展。随着词汇知识的增加，儿童意识到词汇中相同的字形在不同的语言情境下可能代表不同的含义，逐渐掌握相同字形所包含的多种语义信息，使得同形语素意识得以发展(程亚华 等，2017)。同时，拥有更多词汇知识的儿童能够更好地从已经整合的词汇中概括出一音多字的规律，从而促进同音语素意识的发展(McBride,2016)。
+
+本研究发现儿童一年级时的语素意识未能显著预测二年级的词汇知识。与以往的部分研究结果存在差异。赵英等人(2016)的研究在控制了词汇知识的自回归效应后，发现一年级儿童的同音语素意识和复合语素意识对其二年级的词汇知识有显著的预测作用。研究结果之间存在差异的一个可能原因是赵英等人(2016)的研究只控制了词汇知识的自回归效应，未对其它重要影响因素加以控制。而本研究不仅控制了词汇知识和语素意识的自回归效应，而且对语音意识、快速命名和正字法意识等与词汇知识和语素意识的发展有着重要影响的变量进行了控制(Li et al.,2012; Perfetti & Stafura,2014; Ruan et al.,2017; Song et al.,2016; Weng et al.,2016；李虹 等,2011)。因此，在本研究中可以更纯粹的考察词汇知识和语素意识之间发展关系的变化，这可能也是本研究中发现一年级的语素意识对二年级的词汇知识不存在独立预测作用的重要原因之一。同时，Hulme 等人(2019)的研究中也未发现语素意识对词汇知识的预测作用。语素意识的发展成熟是一个漫长的过程，以往研究发现语素意识的发展变化从学前一直持续到小学高年级阶段(董琼,2013；赵微，陈泊荣,2015)。在小学低年级阶段，儿童开始“学会阅读”(learn to read)，其主要任务是掌握字词，学会阅读的基本技巧(Quinn et al,2014; Song etal.,2015)。儿童开始积累更多更复杂的词汇知识，而词汇的运用仍未达到自动化的程度，内化的语素意识发展水平也有限(Berninger et al.,2010; McBride-Chang et al.,2003;李虹 等,2011)。因此，一年级时的语素意识未能独立预测二年级的词汇知识。此外，本研究结果表明，在小学低年级阶段主要是词汇知识促进语素意识的发展，语素意识对词汇知识的促进作用有限。
+
+# 4.3汉字识别和词汇知识的发展关系
+
+本研究发现一年级时的词汇知识对二年级的汉字识别具有预测作用，而二年级时的词汇知识对三年级的汉字识别没有显著预测作用。日常生活中为了沟通交流的便利，儿童口语中接触到的大多是生活词汇，通过不断的练习和刺激，词汇知识得以迅速发展，这可能是一年级时的词汇知识能够促进二年级的汉字识别的原因之一。然而，元语言意识发展的阶段理论指出，明确地操纵语言单位和抽象地反思语言规则的能力通常落后于丰富的交际语境中的语言表现(Gombert,1992;Valtin,1984)。一年级时儿童的词汇知识大多来源于口语词汇，并且开始学习掌握部分简单的常用汉字。随着学习的深入，二年级时儿童接触的书面汉字较常用汉字更为复杂抽象，儿童需要掌握更多的词汇知识才能熟练地操纵语言单位和理解语言规则。因此，二年级时的词汇知识未能显著预测三年级的汉字识别。
+
+此外，本研究未发现汉字识别对词汇知识的预测作用。从儿童自身生活经历来看，小学儿童正式进入学校之前，在日常生活中主要通过口语的方式进行交流和沟通，接触的书面文本也大多通过图片等具体形象的方式呈现，较少接触具有抽象汉字的书面文本，对汉字形态结构和书写符号的认识有限，儿童对汉字的认知还处于具体形象的事物上(李虹，舒华,2009)。虽然儿童进入学校系统学习了抽象的汉字，但是小学一二年级的儿童对汉字的认识仍有较大的发展空间，仅仅掌握的是一些简单和常用的汉字，这些汉字所组成的词汇可能儿童在口语习得中已经较好掌握。因此，汉字识别对词汇知识的预测作用不显著。
+
+# 4.4局限与展望
+
+本研究通过追踪研究设计对小学低年级儿童三种语素意识、汉字识别和词汇知识之间可能存在的发展关系进行了较为系统和严格的探究，有助于对三者之间的发展关系有一个系统全面的了解。关注三者之间可能存在的关系以及这种变化的具体阶段特点，对我们在实际教学过程中提出有针对性的举措具有重要的参考意义。然而，本研究还存在一定的局限性，在未来的研究中需要继续加以深入探讨。首先，虽然目前的研究本质上是纵向的，揭示语素意识很可能是阅读和字词学习的结果，语素意识和字词之间可能存在因果关系，但我们的研究设计还不能做出因果推论(程亚华 等,2018)。在未来的研究中，有必要进行实验或干预研究以检验三种语素意识、汉字识别和词汇知识之间可能存在的因果关系，得出更为严谨的结论。其次，在未来研究中可以采用随机截距的交叉滞后模型或其他能够分离出个体间和个体内效应的统计分析方法，从而可以得到更有说服力的研究结论。
+
+# 参考文献
+
+Afshari,S.,& Tavakoli,M. (2O17).The relationship between depth and breadth of vocabulary knowledge and Iranian EFL learners' listening comprehension. International Journal of Research Studies in Language Learning, 6(3), 13-24.
+
+Berninger, V.W.，Abbot,R.D.，Nagy，W.，& Carlisle,J. (2010). Growth in phonological,orthographic，and morphological awareness in grades 1 to 6. Journal of Psycholinguistic Research, 39(2),141-163.   
+Carlisle,J. (1995). Morphological awarenessand early reading achievement. In L. Feldman(ed), morpholodical aspects of language processing (pp. 189-209). Hillsdale, NJ: Erlbaum.   
+Carlisle, J. (20o0). Awareness of the structure and meaning of morphologically complex words: Impact on reading. Reading and Writing, 12(3),169-190.   
+Chen,X., Hao,M.,Geva,E.,& Zhu,J.(20o8).The role of compound awarenessin Chinese children's vocabulary acquisition and character reading. Reading and Writing, 22(5), 615-631.   
+Cheng,Y.,Li, L., & Wu, X. (2015). The reciprocal relationship between compounding awareness and vocabulary knowledge in Chinese: a latent growth model study. Frontiers in Psychology, 6, 440-448.   
+Cheng,Y. Zhang,J.，Wu, X.,Liu,H.，& Li, H. (2016). Cross-lagged relationships between morphological awareness and reading comprehension among Chinese children. Frontiers in Psychology,7,1379-1391.   
+Cheng,Y. H.,Li, H., Wu, X. C.,& Dong,Q. (2017). The reciprocal relationship between Chinese grade one children's morphological awareness and vocabulary: evidence from a longitudinal study. Journal of Psychological Science, 40(1),103-109.   
+[程亚华，李虹，伍新春，董琼.(2017).一年级汉语儿童语素意识与口语词汇的双向关系：追踪研究的证据. 心理科学,40(1),103-109.]   
+Cheng,Y. H., Wang, J.,& Wu, X. C. (2018). The role of morphological awareness in Chinese children's reading comprehension: The mediating efect of word reading fluency. Acta Psychologica Sinica, 50(4),413-425.   
+[程亚华，王健，伍新春.(2018).小学低年级儿童汉语语素意识在阅读理解中的作用：字词阅读流畅性的中 介效应．心理学报.50(4),413-425.]   
+Chung，B. (2020). The mediating efects of vocabulary between morphological awareness and reading comprehension in school-aged children. Communication Sciences and Disorders,25(2),279-287.   
+Dickinson, D.,& Porche,M. V. (2011).Relation between language experiences in preschool classrooms and children's kindergarten and fourth-grade language and reading abilities. Child Development, 82(3), 870-886.
+
+Dong, Q.,Li,H.,Wu,X.C.,Rao,X.W.,& Zhu,J.(2013).The role of morphologicalawareness in linguistic skills development of Chinese kindergartener: Evidence from a longitudinal study. Psychological Development and Education,29(2),147-151.
+
+[董琼,李虹，伍新春，饶夏激，朱瑾.(2013).语素意识对学前儿童言语技能发展的预测作用：追踪研究的证 据．心理发展与教育,29(2),147-151.]   
+Dong,Q.(20l3).The structure,development of morphological awareness and its role in the reading development of Chinese children (Unpublished doctorial dissertation). Beijing Normal University.   
+[董琼.(2013).汉语语素意识的结构、发展及其在阅读发展中的作用．北京师范大学博士论文.]   
+Dulay，K.M.， Law, S. Y.， McBride,C.，& Ho,C. (2021). Reciprocal effects of morphological awareness, vocabulary knowledge,and word reading: A cross-lagged panel analysis in Chinese. Journal of Experimental Child Psychology,206,105100.   
+Fang,C.H., Cheng,Y.H.,& Wu, X. C.(2O19).The influence of morphological awareness and oral vocabulary knowledge on Chinese children's reading ability: a longitudinal study. Psychological Development and Education,35(1),57-67.   
+[方铖豪，程亚华，伍新春.(2019).小学低年级儿童汉语语素意识，口语词汇知识对阅读能力的影响：一项 追踪研究．心理发展与教育,35(1),57-67.]   
+Gombert, J. E. (1992). Metalinguistic development. Chicago: University of Chicago Press.   
+Grigorakis,I.,&Manolitsis,G.(2O2O).Longitudinal effctsofdifferent aspects ofmorphological awarenessils on early spelling development. Reading and Writing, 34(4), 945-979.   
+Hao,M.,Chen, X.,Dronjic,V.,Shu,H.,& Anderson,R.C. (2013).The development of young Chinesechildren's morphological awareness: The role of semantic relatedness and morpheme type. Applied Psycholinguistics, 34(1), 45-67.   
+Hulme,C., Zhou,L., Tong, X.,Lervag,A.,& Burgoyne,K. (2019).Learning to read in Chinese: Evidence for reciprocal relationships between word reading and oral language skills. Developmental Science, 22(1),el2745.   
+Ku, Y.,& Anderson, R. C. (2oo3). Development of morphological awarenessin Chinese and English. Reading and Writing,16(5),399-422.   
+Kuo,L.,& Anderson, R. C. (2o06). Morphological awareness and learning to read: A cross-language perspective. Educational Psychologist,41(3),161-180.   
+Kim, Y.,Guo, Q.,Liu, Y.,Peng,Y.,& Yang,L. (202O). Multiple pathways by which compounding morphological awareness is related to reading comprehension: Evidence from Chinese second graders.Reading Research
+
+Quarterly,55(2),193-212.
+
+Li,H.,& Shu,H. (2O9).Diffrence ofcognitive skills between goodand poor readers of preschool and primary school.Psychological Development and Education,25(3),1-8.   
+[李虹，舒华.(2009).学前和小学低段不同识字量儿童的认知能力比较．心理发展与教育,25(3),1-8.]   
+Li,H.,Dong,Q., Zhu,J.,Liu,J.P.,& Wu,X.C. (2009).The role of morphologicalawareness inkindergarteners’   
+linguistic skill development. Journal of Psychological Science, 32(6),1291-1294.   
+[李虹，董琼，朱瑾，刘俊娉，伍新春.(2009).语素意识在学前儿童言语技能发展中的作用．心理科学,32(6), 1291-1294.]   
+Liu,P.D.& McBride-Chang,C. (2010). What is morphological awareness? Tapping lexical compounding awareness in Chinese third graders. Journal of Educational Psychology, 102(1),62-73.   
+Li, H.,Rao, X.W., Dong,Q., Zhu, J.,& Wu, X. C. (2011). The roles of phonological awareness, morphological awareness and rapid naming in linguistic skils development of kindergartener. Psychological Development and Education,27(2),158-163.   
+[李虹，饶夏微，董琼，朱瑾，伍新春.(2011).语音意识、语素意识和快速命名在儿童言语发展中的作用．心 理发展与教育，27(2),158-163.]   
+Li,H.，Shu,H.，McBride-Chang,C.,Liu,H.，& Peng,H. (2012). Chinesechildren'scharacter recognition: Visuo-orthographic, phonological processing and morphological skils. Journal of Research in Reading,35(3), 287-307.   
+Liu,P.D.,McBride-Chang, C.,Wong,T.,Shu,H.,& Wong,A. (2012). Morphological awareness in Chinese: Unique asociations of homophone awareness and lexical compounding to word reading and vocabulary knowledge in Chinese children.Applied Psycholinguistics,34(4),755-775.   
+Li,L.,& Wu,X. (20l5).Efects of metalinguistic awareness on reading comprehension and the mediator role of reading fluency from grades 2 to 4. PloS ONE, 10(3),e0114417.   
+Li,M.,& Kirby,J.R. (2015).The effectsof vocabulary breadthand depth onEnglishreading.Applied Linguistics, 36(5), 611-634.   
+Li, H.,Dronjic,V., Chen, X.,Li, Y., Cheng,Y.,& Wu, X. (2016). Morphological awareness asa functionof semantics,phonology,and orthography and as a predictor of reading comprehension in Chinese.Journal of Child Language,44(5),1218-1247.   
+Mcbride-Chang, C., Shu, H., Zhou,A., Wat, C.P.,& Wagner,R. K. (2003). Morphological awareness uniquely predicts young children's chinese character recognition. Journal of Educational Psychology, 95(4),743-751.   
+McBride-Chang,C., Cho,J.,Liu,H.,Wagner,R.K.,Shu,H.,Zhou,A.B.,.. Muse,A. (20o5).Changing models across cultures: Associations of phonological awareness and morphological structure awareness with vocabulary and word recognition in second graders from Beijing, Hong Kong, Korea,and the United States. Journal of Experimental Child Psychology, 92(2),140-160.   
+McBride-Chang,C.,Tardif,T.,Cho,J.,Shu,H.,Fletcher,P.,Stokes,S.,..Leung,K. (2008). What’sina word? Morphological awareness and vocabulary knowledge in three languages.Applied Psycholinguistics，29(3), 437-462.   
+McBride,C. (2016). Is Chinese special? Four aspects of Chinese literacy acquisition that might distinguish learning Chinese from learning alphabetic orthographies. Educational Psychology Review, 28(3), 523-549.   
+Ouellette, G. P. (2o06). What’s meaning got to do with it: The role of vocabulary in word reading and reading comprehension. Journal of Educational Psychology,98(3), 554-566.   
+Packard,J. L. (2oo0). The morphology of Chinese: A linguistic and cognitive approach. Cambridge,UK: Cambridge University Press.   
+Perfeti, C.，& Stafura, J. (2014). Word knowledge in a theory of reading comprehension. Scientific Studies of Reading,18(1),22-37.   
+Pan,J.,Song,S.，Su,M.，McBride,C.,，Liu,H.,Zhang,Y.，..Shu,H. (2016). On the relationship between phonological awareness，morphological awareness and Chinese literacy skils: Evidence from an 8-year longitudinal study. Developmental Science, 19(6), 982-991.   
+Powell,D.,& Atkinson,L. (2021). Unraveling the links between rapid automatized naming (RAN), phonological awareness, and reading. Journal of Educational Psychology, 113(4),706-718.   
+Qian,D. (1999).Asessing the roles of depth and breadth of vocabulary knowledge in reading comprehension. Canadian Modern Language Review, 56(2),282-308.   
+Quinn,J.M.，Wagner,R.K.,Petscher, Y.,& Lopez,D.(2015).Developmental relations between vocabulary knowledge and reading comprehension: A latent change score modeling study. Child Development, 86(1), 159-175.   
+Ramirez, G.， Walton, P.,& Roberts, W. (2014). Morphological awareness and vocabulary development among kindergarteners with different ability levels. Journal ofLearning Disabilities, 47(1),5464.   
+Ruan,Y.,Georgiou,G.,Song,S.,Li,Y.,&Shu, H. (2017). Does writingsystem influence the associationsbetween phonological awareness,morphological awareness，and reading? A meta-analysis. Journal of Educational Psychology 110(2),180-202.   
+Shu,H.，McBride-Chang，C.，Wu，S.，& Liu,H. (2006). Understanding Chinese developmental dyslexia morphological awareness as a core cognitive construct. Journal ofEducational Psychology, 98(1),122-133.   
+Song,S.，Su,M., Kang,C., Liu,H., Zhang, Y.,& McBride-Chang, C. (2015). Tracing children's vocabulary development from preschool through the school-age years: An 8-year longitudinal study. Developmental Science, 18(1),119-131.   
+Song,S., Georgiou, G. K.,Su,M.,& Shu, H. (2016). How well do phonological awareness and rapid automatized naming correlate with Chinese reading accuracy and fluency? A meta-analysis. Scientific Studies of Reading, 20(2),99-123.   
+Valtin,R. (1984).The development of metalinguistic abilities in children learning to read and write.In Language awareness and learning to read (pp.207-226). Springer, New York, NY.   
+Weng,X.,Li, G.,& Li,R. (2016). Mediating effects of working memory in the relation between rapid automatized naming and Chinese reading comprehension. Journal of Psycholinguistic Research, 45(4), 945-959.   
+Wang, L., & Liu, D. (2020). The role of morphological awareness in reading Chinese characters: The moderating effect of morpheme family size. Scientific Studies of Reading,24(2),170-178.   
+Wang,L.,Wang,J.,Liu,D.,&Lin,D.(2O21).The role of metalinguisticawareness and character properties in early Chinese reading. Journal of Experimental Child Psychology, 210,105185.   
+Zhang,Y.,Tardif,T.,Shu,H.,Li,H.,Liu,H.,McBride-Chang,C.,..Zhang,Z. (2013).Phonological skillsand vocabulary knowledge mediate socioeconomic status effects in predicting reading outcomes for Chinese children. Developmental Psychology, 49(4), 665-671.   
+Zhang, H. C. & Wang, X. P. (1989), Standardization research on Raven's standard progresive matrices in China. Acta Psychologica Sinica,21(2),113-121.   
+[张厚粲，王晓平.(1989).瑞文标准推理测验在我国的修订．心理学报,21(2),113-121.]   
+Zou, L.,& Shu,H. (2O13).The cognitive and neural mechanisms of morphological awareness procesing during word recognition. Advances in Psychological Science, 21(9),1570-1577.   
+[邹丽娟，舒华.(2013).语素在词汇识别中的认知及神经机制．心理科学进展,21(9),1570-1577.]   
+Zhao, W.,& Chen, B.R. (2015).A studyofreading-related cognitive skilsin Chinese.Studies ofPsychology and Behavior,13(3),367-374.   
+[赵微，陈泊蓉.(2015)．影响小学生汉语阅读的认知因素．心理与行为研究,13(3),367-374.]   
+Zhang,H. (2015). Morphological awareness in vocabulary acquisition among Chinese-speaking children: testing partial mediation via lexical inference ability. Reading Research Quarterly, 50(1),129-142.   
+Zhao,Y.,Cheng,Y.H.,Wu,X.C.,& Nguyen,T.P. (2O16).The reciprocal relationship between morphological awareness and vocabulary knowledge among Chinese children: A longitudinal study.Acta Psychologica Sinica, 48(11), 1434-1444.   
+[赵英，程亚华，伍新春，阮氏芳.(2016).汉语儿童语素意识与词汇知识的双向关系：一项追踪研究．心理学 报,48(11),1434-1444.]   
+Zhao,Y.,Wu, X. C.,& Chen, H.J. (2019).The impact of morphological awareness on reading comprehension among Chinese children: The mediating role of silent reading fluency. Psychological Development and Education,35(4),430-438.   
+[赵英，伍新春，陈红君.(2019).汉语儿童语素意识对阅读理解的影响:默读流畅性的中介效应．心理发展与 教育,35(4),430-438.]
+
+# The Relationship among Morphological Awareness, Character Recognition and Vocabulary Knowledge in Elementary School Children: A Cross-lagged Model
+
+XIA Yue1; XIE Ruibo1; WANG Zhenliang1; NGUYEN Thi Phuong²; WU Xinchun3
+
+(ParentEducationResearchCenterinZhejiangNormalUniversity,KeyLaboratoryofIntellgentEducationTechnologyand
+
+ApplicationofZhejiangProvinceJia3,China)(CollaborativeInovationCenterofAssssmentforBasicEducatiQality
+
+Beijing NormalUniversity,Beijing,o0875,China)(Facultyofpsychology,BeijingKeyLaboratoryofApliedExpetal
+
+Psychology,Research CenterofChildren'sReadingandLearning,Beijing Normal University,Beijing loo875,China)
+
+# Abstract
+
+The present study aims to examine the relationship among morphological awareness, character recognition and vocabulary knowledge of elementary school students. Numerous studies on the language development of Chinese children show that as language learning progresses, an individual's language system gradually develops and matures. Morphological awareness, Chinese character recognition and vocabulary knowledge play an important role in children's language development. There is a strong one-to-one correspondence between syllables, morphemes and characters in Chinese. It is necessary to consider along with morphological awareness, character recognition and vocabulary knowledge simultaneously in the language development among elementary school children.
+
+Three follow-up tests were administered to 146 first-grade elementary school children over a 2-year period to examine changes in the developmental relationships between morphological awareness， Chinese character recognition，and vocabulary knowledge in elementary school children in grades 1 through 3. In addition, phonological awareness,rapid automatized naming of digits,orthographic awareness and intelligence were all measured as control variables at Time 1 (fall semester of Grade 1). A cross-lagged model was conducted to explore the relationship among children's morphological awareness, character recognition and vocabulary knowledge at different time points.
+
+The results showed that the relationship among morphological awareness， character recognition and vocabulary knowledge varied across developmental stages after controlling the aforementioned control variables.(1） Character recognition at Time 1 significantly predicted the homophone and homograph awareness at Time 2；(2） Vocabulary knowledge at Time 1 significantly predicted compounding awareness and character recognition at Time 2; (3) Character recognition and vocabulary knowledge at Time 2 significantly predicted homophone, homograph and compounding awareness at Time 3.(4） Homograph awareness at Time 2 significantly predicted vocabulary knowledge at Time 3.
+
+The results indicated that the relationship among different levels of morphological awareness, character recognition and vocabulary knowledge in Chinese elementary children has been changing over time. From Grade 1 to Grade 3,character recognition and vocabulary knowledge had stable predictive efects on morphological awareness，while the predictive effects of morphological awareness on Chinese character recognition and vocabulary knowledge changed with age.
+
+Key words morphological awareness, Chinese character recognition， vocabulary knowledge, cross-lagged study, Chinese children

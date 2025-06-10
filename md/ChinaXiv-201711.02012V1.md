@@ -1,0 +1,209 @@
+# 蒙古文音乐领域的语义检索初探
+
+鲍玉来1,²毕强²1内蒙古大学图书馆 呼和浩特 010021)2(吉林大学管理学院长春 130022)
+
+摘要：【目的】在蒙古文信息资源急剧增长的背景下，探索将基于本体的语义检索应用到蒙古文领域，提高蒙古文信息资源检索效果。【方法】利用本体技术重视推理、互联的优势，借助语义解析与推理工具Jena的规则推理引擎，设计并实现了基于蒙古文音乐领域本体的蒙古文语义检索系统。【结果】相较于关键词匹配检索，语义检索系统查全率达到 $9 5 . 6 \%$ 、查准率达到 $9 3 . 2 \%$ ，明显高于关键词匹配检索。【局限】仅以蒙古族多声部音乐为研究对象，实验对象数据有限，检索具有一定的局限性。【结论】对基于蒙古文领域本体的语义检索进行了完整的研究，为蒙古文语义网应用研究打下良好的理论和技术基础。
+
+关键词:蒙古文领域本体语义推理语义检索分类号：TP182G353
+
+# 1引言
+
+互联网发展有两种明显的趋势：信息资源的语义化；用户与信息资源的多语言化[1]。其实，当前不仅英语、汉语、俄语等语言网络信息资源在急剧增长，随着中国少数民族文献信息资源建设的推进，各类少数民族语言的网络信息资源也在飞速增加，尤其是传统蒙古语(简称蒙古文)信息资源建设经过几十年的艰苦努力，从无到有，取得了令人瞩目的成就。如内蒙古蒙古文报网联盟平台、耶理巴蒙古文文献管理系统[2]、蒙古文期刊网[3]、中国蒙古学信息网[4]等。此外，内蒙古大学图书馆参加了“中美百万册数字图书馆合作计划”,共完成了6000余种蒙古文现代图书数字化，建立了“蒙古文资源全文数据库"[5]。在此背景下，如何高效地获取有价值的蒙古文信息资源，为蒙古文用户提供更有效的检索服务，成为当下蒙古文信息资源数字化建设亟待解决的难题。
+
+传统蒙古语属于阿尔泰语系，主要使用者分布在中国内蒙古自治区、辽宁省、黑龙江省、吉林省、甘肃省、青海省、新疆维吾尔自治区等地区，是中国少数民族语言中使用范围、社会影响及国际知名度比较广泛的语种。蒙古文有34个字母,其中包含7个元音字母和27个辅音字母。蒙古文的拼写是以词为单位竖写，一个词内字母连着写，词之间用空格分开，总的书写规则是从上到下连写，从左到右移行。蒙古文的每个字母在字首、字中、字尾有不同的变体；有的变体有多种形式，导致这些变体字母的书写形式不一致，存在一字多形、多字同形、形同音不同的现象。此外，蒙古文中有一套非常复杂而严密的正字法规则和语法规则[7，所有的这些特点导致它不能按字母读音检索，以至于蒙古文被称为最难检索的文字之一。
+
+随着语义网的提出，本体成为语义网新的研究方向和热点。国内研究人员对语义网的探索主要集中在本体构建和语义检索两方面，构建了一些具有推理能力的系统。Li 等8提出一种基于描述逻辑的组合推理方法。Huang 等提出利用语义相似度计算获得粗糙本体中的隐藏信息，实现了关联信息的挖掘。孟红伟等[通过对文献领域本体中的重要概念进行语义标注和语义相似度计算，提高文献检索的准确度。周群芳等[11]设计一个基于 Jena 推理和Lucene 框架的专利语义检索系统，提高了专利检索的效率。武俊丽[12在研究中先分析了传统信息检索方式的不足之处，利用本体的结构特点，对语义标注技术进行分析研究，构建适用于计算机领域期刊文献的检索系统。李兵[13]构建适用于专利领域的语义检索系统，通过语义推理达到提高查准率的目的。在蒙古语语义Web研究中，苏依拉等[14利用本体知识，建立了一个蒙古文的内蒙古自治区的小型地名本体词表，方便有关地理信息的语义检索；此外苏依拉等[15]还通过构建"人工智能 $( 1 + 1 ) 1 0 0 0$ )"课程蒙古文领域本体，并对检索的知识点进行语义相似度计算，构建适用于蒙古文教学领域的学习系统。塔娜等[1以跨语言信息检索需求为背景,利用构建领域本体的方法给出蒙汉双语计算机术语语义词典的初步设计方法。从整体上来看，蒙古文语义Web研究相对于汉语语义Web研究，还处于相对薄弱的阶段。
+
+因此本文引入语义Web技术，选取蒙古族音乐代表性的多声部音乐潮尔和马头琴为本体研究对象，重点探讨适用于蒙古文音乐领域本体的推理规则，构建基于蒙古语音乐领域的语义检索原型系统，并实现该系统，为蒙古文语义Web的应用研究奠定一定的基础，进一步丰富语义网的研究领域和内容。
+
+# 2蒙古文音乐领域本体构建
+
+目前比较成熟的本体构建方法有 TOVE 法[17]IDEF-5 法[18]、骨架法[19]、七步法[20]等。本文借鉴"七步法"和"骨架法"的主要步骤，结合Methontology 法、IDEF-5法的特点，根据"蒙古文音乐"领域本体构建实际情况，确定本文的构建思路和流程，如图1所示。
+
+本体研究缺少对中文，特别是少数民族语言的支持。基于蒙古文音乐领域的本体构建方法研究，验证了蒙古文领域本体构建技术的可行性。有利于建立蒙古文数字资源知识组织，进一步丰富蒙古文信息处理和语义网领域的研究内容。本文的研究对象是具有蒙古族传统音乐代表性的潮尔和马头琴音乐。本体的共享特性使本体模型中的数据能够实现重用，而蒙古文音乐领域现在还未找到可以重用的本体数据。通过领域专家、相关文献书籍等收集蒙古音乐潮尔和马头琴领域的术语和概念知识，并确定核心概念之间的关系。使用Protegé构建本体模型。本研究中的蒙古文音乐领域本体可根据其概念定义的清晰性、一致性、完整性、可扩展性等构建规则进行确认。在进化环节，根据本体的可扩展性、灵活性的特点，特别是蒙古文存在一字多形和一词多义现象，在蒙古音乐本体构建初期，一些概念之间的关系可能不是很明确。N表示还可以对蒙古音乐本体数据进行维护和完善。Y表示之前构建的蒙古音乐本体没有问题，可以完成本体建库。
+
+![](images/85ca71e2b28e77133e4930b685a5e640f97e65d264e3dd46706c2b886befdbe3.jpg)  
+图1蒙古文音乐领域本体构建流程
+
+# 2.1蒙古文音乐重要术语和概念获取
+
+通过蒙古文期刊网和中国知网选取一定量关于蒙古文音乐潮尔和马头琴的学术论文，利用基于层叠隐马尔可夫模型的蒙古语词切分系统[21]对这些数据进行预处理，取得数据中的蒙古音乐术语概念的字词集合;按照最具蒙古族音乐领域代表性的原则，选取关键蒙古音乐的术语概念如下：
+
+蒙古族多声部音乐 $( \lim \limits _ { x  \infty } x  \infty ) \lim \limits _ { a  \infty } x  \infty \forall \lim \limits _ { a  \infty } a  \infty$ $( a + 1 - 1 )$ 、潮尔 $( \overline { { \mathfrak { m } } } , \widehat { \mathfrak { n } } )$ 、冒顿潮尔 $( \log \alpha \frac { 1 } { 2 } )$ 、托布秀尔 $( \cos \gamma \pi - \alpha )$ 、浩林潮尔 $( \sin \alpha + \pi - 1 , \pi , 0 )$ 、潮尔哆 $( \overline { { \mathfrak { m } } } , \hat { \mathfrak { m } } ^ { \widehat { } } \mathfrak { s } _ { \overline { { \mathfrak { m } } } , \overline { { \mathfrak { d } } } } )$ 、胡尔 $( \mathfrak { m } _ { \mathfrak { N } } )$ 、多声部 $( 1 0 7 / \frac { 1 } { 1 0 7 6 0 } \cos \theta )$ 、持续低音声部 $( \cos \pi , \sin \alpha ) \cos \alpha = \sin \alpha$ $\tan ( \frac { \pi } { 4 } + \pi + \infty + \pi )$ 、持续低音声部为乐器演奏 $( \sin \pi , \sin \alpha ) \sin \alpha$ $\tan ( \theta ) \div \tan ( \theta + \theta ) \xrightarrow [ ] { } \tan ( \theta )$ 、旋律声部 $( \cdots + \infty , 0 )$ 、旋律声部为乐器演奏 $( \cdots + i + 1 ) \textcircled { 1 } i \neq 0$ 、旋律部分长调$( \lim \limits _ { x  \infty } x ) \xrightarrow [ \infty ] { 0 } \lim ( 0 ) \lim \limits _ { x  \infty } ( 0 , 0 ) \xrightarrow [ \infty ] { 0 } 0$ 、潮尔类乐器 $( \arccos \pi ^ { \prime } \infty , \ldots , 7 \pi ^ { \prime } )$ $( \arctan )$ 、叶克勒 $( 5 x + 7 )$ 、海拉克森潮尔 $( \sin x + \frac { 1 } { 2 } \pi + \cos )$ 、潮尔音乐文化语境 $( \overrightarrow { a } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \Bigg ) = ( \overrightarrow { a } \overrightarrow { b } \overrightarrow { b } \overrightarrow { b } \Bigg )$ 、地域环境 $( \sum \limits _ { i = 1 } ^ { n } a _ { i } )$ （204号$\pi \times \frac { r } { v } \pi \pi ( \frac { } { v \pi } \pi )$ 、生存语境 $( \frac { 1 } { 1 + \cos 1 2 0 } \approx 1 + \cos 2 0 \approx 2 0 \pi \times 2 )$ 、潮尔音乐源流 $( \overrightarrow { a } \cdot \overrightarrow { b } \cdot \overrightarrow { b } \cdot \overrightarrow { b } \cdot \overrightarrow { n } \cdot \overrightarrow { b } \cdot \overrightarrow { b } \cdot \overrightarrow { b } )$ 、早期潮尔音乐现象 $( \frac { 1 } { 2 0 } ) \pi = \frac { 1 } { 2 0 0 0 } \times ( \frac { 1 } { 2 0 0 } + 1 ) \pi ( \frac { 1 } { 2 0 0 } \times 5 )$ 、自然音响 $( \overbrace { \theta \cdots } ^ { \infty } , \overbrace { \theta \cdots } ^ { 0 } )$ 、表演形式 $( \sin \alpha + \pi , \pi ^ { 2 } \cos \alpha )$ 、可单人表演 $( \lim \limits _ { i  \infty } 1 0 \div 0 ) \approx \lim ( 0 \neq 0 )$ 、多人表演 $( 1 0 + 1 0 + 1 ) \div ( 1 0 + 1 )$ 、音乐结构 $( \sin \theta \cos \theta - \cos \theta \cos \theta$ （204号 $\sin ( \frac { \pi } { 2 } \pi )$ 、人声 $^ +$ 人声 $( \pi \cot \alpha ( \cot \alpha - \cot \alpha ) + \cot \alpha ) + \cos \alpha ( \cot \alpha )$ $\mathfrak { m } ( ) )$ 、人声 $^ { \cdot } +$ 乐器 $( \sin \alpha + \cot \alpha ( \sin \alpha - \cot \alpha ) + \cos \alpha \sin \alpha ) = 0$ 、乐器 $^ +$ 乐器 $( 0 . 0 7 0 - 1 ) \div 5 \cdots 0 . 0 7 0 ( 0 . 0 7 0 - 1 ) \div 5 \cdots 0 .$ 、发展和流行分布（204号 $( \sin ( \frac { \pi } { 2 \pi } + \frac { 1 } { 6 } ) \sin ( \frac { \pi } { 2 } \pi - 2 \pi \cos ( \frac { \pi } { 2 \pi } + \frac { 1 } { 6 } ) )$ 、新疆蒙古族留存的冒顿潮尔$( \sqrt { 1 + \pi \times 1 + \pi \times 2 } ) \pi \times ( \frac { 1 } { 1 0 0 } \times \pi \times \frac { 1 } { 1 0 0 } \times \pi \times 1 0 0 \times \pi ) = \frac { 1 } { 1 0 0 \times 1 0 0 \times 1 0 0 } \times \pi \times \frac { 1 } { 2 } = \frac { 1 } { 1 0 0 0 } \times ( \pi \times \pi )$ 、科尔沁蒙古人的传统乐器海拉克森 $( \sin \alpha \pi - \sqrt { \pi } , \sin \alpha \pi - \sqrt { \pi } , \sin \alpha \pi )$ 1lsgtig（204号 $\cos \alpha \sin \alpha = \frac { \cos \alpha } { \cos \alpha } = \frac { \cos \alpha } { \cos \alpha } \alpha$ 、锡林郭勒地区流行的潮尔哆 $( 1 7 7 , 7 )$ d（204 $\approx \frac { 1 } { 4 0 } 0 0 \div \pi ( \pi ) = \frac { 1 } { 2 0 \pi } 0 \pi 0 0 0$ 、马头琴 $( \hbar \pi / \hbar \pi \pi )$ 、三种定弦法（204号 $( \sin \theta \cos ^ { \prime } \pi - \sin ^ { \prime } \pi \sin ^ { \prime } \theta \pi ) \xrightarrow [ \pi ] { \sin ^ { \prime } \pi \sin ^ { \prime } \theta } \pi \sin ^ { \prime } \pi \sin ^ { \prime } \pi \big >$ 、正四度定弦法 $( \pi M \in \Theta \ c m \theta N$ （204号$\sin N \pi \times \sin ( \pi \pi ) \sin ( \pi \pi , \pi \pi , \pi )$ 、正五度定弦法 $( \pi \alpha \theta ^ { \prime } ) ^ { 2 }$ $\sqrt [ ( \pi ] { \pi } \approx \frac { 1 } { 2 } ( \pi ) \frac { 1 } { 2 } ( \pi \frac { 1 } { 2 } )$ 、反四度定弦法 $( \frac { \sin \alpha } { \cos \alpha } - \frac { \sin \alpha } { \cos \alpha } - \frac { \sin \alpha } { \sin \alpha } )$ $\sqrt [ ( \gamma ] { 0 0 1 } ( \pi \pi ^ { \prime } \pi ^ { \prime } \Theta _ { \overline { { \succ } } \overline { { \succ } } } ) \xrightarrow [ \gamma ] { 0 } \sqrt { \pi \pi ^ { \prime } \pi ^ { \prime } \pi ^ { \prime } \Theta } \pi \pi _ { \because } ^ { \prime } ) \big )$ 、五种演奏法 $( 9 + 8 ) \pi \pi \pi \times ( \arctan \times 0$ $m \neq ( 1 , 1 )$ 、潮尔定弦胡尔演奏法 $( \overline { { \cdots } } \overline { { \infty } } ) \overline { { \cdots } } \overline { { \infty } } \widehat { \mathbb { G } } \overline { { \cdots } } \overline { { \mathbb { G } \cdots \cdots \cdots \times \cdots } } \hat { = } \mathfrak { M } \overline { { \cdots } } \overline { { \cdots } } \overline { { \infty } }$ （20 $( 1 - 1 ) \div ( 0 . 0 1 0 - 1 ) \cdots 1$ 、潮尔定弦或黑力定弦厄鲁特演奏法（20 $( \overrightarrow { a } \cdot \overrightarrow { b } \cdot \overrightarrow { n } \cdot \overrightarrow { n } )$ iaialigiglaggoiavioy $\dag$ （204号（204 $( 1 - x + \frac { 1 } { 2 } \textcircled { 1 } 1 \pi \times 1 . 7 )$ 、察哈尔定弦泛音演奏法 $( \sqrt { n } \infty \infty ) \sqrt { n } \sin \frac { 1 } { 2 }$ $\sin x \cos ( \arctan \pi x - \frac { 1 } { 2 } )$ 、博尔赤斤定弦泛音演奏法 $( \sin x + 1 ) ^ { \prime }$ $\textcircled { 9 } \pi \pi \times ( 1 - \pi + \pi ) \pi \times ( 1 + \pi + \pi + \pi ) \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times \pi \times$ 、博尔赤斤定弦图布尔演奏法 $( \sin \alpha + \sin \alpha \cos \alpha + \sin \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \sin \alpha \cos \alpha \cos \alpha \cos \alpha \cos \alpha \sin \alpha \cos \alpha \cos \alpha \cos \alpha \sin \alpha \cos \alpha \cos \alpha \sin \alpha \sin \alpha \cos \alpha \cos \alpha \sin \alpha \cos \alpha \sin \alpha \sin \alpha \cos \alpha \sin \alpha \sin \alpha \cos \alpha \sin \alpha \sin \alpha \sin \alpha \sin \alpha \alpha \cos \alpha \sin \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \sin \alpha \alpha \sin \alpha \delta \sin \alpha \delta \sin \alpha \delta \sin \alpha \delta \sin \alpha \alpha \delta \delta \sin \alpha \delta \sin \alpha \delta \delta \delta \sin \alpha \delta \delta \delta \delta \alpha \sin \delta \delta \delta \delta \delta \alpha \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \alpha \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \delta \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r \ c o r c$ 、流行分布 $( \sin x - \pi + \pi )$ $\sin ( 1 7 ^ { \circ } )$ 、内蒙古 $( \cos \theta + \tan \theta )$ 、辽宁 $( \overbrace { \overbrace { \big . } \mathrm { ~ } } \overbrace { \big . } \mathrm { ~ } $ 、吉林 $( \infty / )$ 、黑龙江 $( \sin \tan \alpha )$ 、甘肃 $( \mathop { \mathfrak { M } } _ { : } { \mathfrak { M } } _ { \theta } )$ 、新疆 $( \overbrace { \cdots } , \overbrace  \sum _ { j = 1 } ^ { n } \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } \sum _ { k = 1 } ^ { n } \sum _ { j = 1 } ^ { n } \sum _ { k = 1 } ^ { n } )$ 、代表人物 $( 9 0 \div 0 . 7 \div 1 7 = 1$ （204号（20 $( a + b )$ 、巴拉贡 $( 0 \breve { m } \breve { } )$ 、布林巴雅尔 $( \overbrace { \theta _ { \nabla \mathcal { H } } \theta _ { \nabla } \hat { \mathbf { r } } } )$ 、桑都仍$( \sin \frac { \pi } { \cos } \cos \pi , \sin \pi )$ 、色拉西 $( \sin ( x )$ 、经典作品 $( \sin \pi , \sin ^ { \circ } \theta , \cos \pi )$ 、太仆寺阿斯尔 $( \sin \theta + \pi + \infty )$ 、平魔记 $( \lim \limits _ { x  \infty } N \exp ( - \infty / \pi )  \infty )$ 、美丽富饶的阿拉善 $( \sin \pi , \sin \pi , \sin \theta )$ 、色润赛罕杭盖 $( \sin \alpha ) \sin \alpha$ $\sin ( \pi x )$ 、走马 $( \overrightarrow { a } \cdot \overrightarrow { b } ) ^ { n }$ 、鄂尔多斯的春天 $( \sqrt { o x } \pi \theta \theta ^ { \prime } \theta \theta \theta ^ { \prime } )$ 等概念。
+
+# 2.2 蒙古文音乐本体概念类层次关系的建立
+
+类用于描述抽象的实体对象，代表着一类具有共同特性的实例对象。类具有继承性并以层次结构的形式组织，最顶层的类代表着最抽象的实体概念，子类继承了父类的抽象特性，代表比其父类更具体或范围更小的实体概念。
+
+通过查阅相关文献，本文使用自底向上的方法，明确概念集中的每一个概念知识的含义。分析概念之间潜在的显性关系和隐性关系。蒙古族多声部音乐潮尔和马头琴领域中核心术语概念是在蒙古文音乐基础上建立起来的，它们的从属关系已经体现了概念的分层结构，如图2和图3所示：
+
+Class hierarchy: Thing 四8   
+OThing falo_aogg _ea_gi t_frsom ta__i Oaeedinrd_d eged_ea T · a_ d 重具 Orptgd _au___t t_ emnd_ag_tead emnd_arvea_ta t_ t__ g Of_s__ofomn
+
+![](images/f200e0b00334e6a333106c2855b2f53d852af04fd2eb3070c52432d581ebca53.jpg)  
+图2Protégé中概念类的层次关系面板   
+图3Protégé中对应汉语概念类的层次关系
+
+# 2.3 蒙古文音乐本体类和属性的定义
+
+本体表示的具体过程就是定义类和属性。在本体模型中，属性表示不同概念(类)之间的关系，也显示了不同概念类之间的差异，在本体建模工具Protegé中主要包括对象属性和数据属性。对象属性的作用是明确不同概念类之间的关系。数据属性的作用是描述概念类具有的数据。通过定义属性区分了不同概念类，同时也避免了重复定义概念类，有利于对不同概念类进行描述和归纳，逐步形成知识层次结构：
+
+蒙古族多声部音乐：{潮尔，马头琴}潮尔：{冒顿潮尔，托布秀尔，浩林潮尔，潮尔哆，胡尔}多声部：{持续低音声部，持续低音声部为乐器演奏}
+
+旋律声部：{人声旋律声部，旋律声部为乐器演奏，旋律部分长调}
+
+潮尔类乐器：{叶克勒，海拉克森潮尔}潮尔音乐文化语境：{地域环境，生存语境}潮尔音乐源流：{早期潮尔音乐现象，自然音响}表演形式：{单人表演，多人表演}音乐结构:{人声+人声，人声+乐器，乐器+乐器}
+
+发展和流行分布：{新疆蒙古族留存的冒顿潮尔，科尔沁蒙古人的传统乐器海拉克森潮尔，锡林郭勒地区流行的潮尔哆}
+
+马头琴三种定弦法：{正四度定弦法，正五度定弦法，反四度定弦法}
+
+马头琴五种演奏法：{潮尔定弦胡尔演奏法，潮尔定弦或黑力定弦厄鲁特演奏法，察哈尔定弦泛音演奏法，博尔赤斤定弦泛音演奏法，博尔赤斤定弦图布尔演奏法}
+
+流行分布：{内蒙古，辽宁，吉林，黑龙江，甘肃，新疆}代表人物：{巴拉贡，布林巴雅尔，桑都仍，色拉西}
+
+经典作品：{太仆寺阿斯尔，平魔记，美丽富饶的阿拉善，色润赛罕杭盖，走马，鄂尔多斯的春天}
+
+为了更好地描述本体概念之间的关系，新增对象属性：Depend(依赖),Depended(被依赖),Use(使用),Used(被使用)。
+
+# 2.4 添加实例
+
+在Protégé中的Individuals 面板中添加类的实例(个体)，给这个实例中各个属性的赋值，完成蒙古音乐领域本体的构建，如图4所示：
+
+![](images/5a1f777eef0a4b4cc170d110fb326691b857e794a2d5e50951a0b5057ccadeeb.jpg)  
+图4Protégé中添加实例面板
+
+# 2.5蒙古文音乐本体语义推理
+
+本文使用开源Java 框架Jena[22]作为推理工具，实现蒙古文音乐领域内的概念知识的语义推理
+
+Jena 框架自身包含RETE和TabledDatalog 两个规则推理引擎，它们能够实现三种推理模型。本文采用规则推理实现语义推理。规则推理，是指把相关领域的专家知识形式化地描述出来，形成系统规则。这些规则表示该领域的一些问题与这些问题相应的答案，可以利用它们模仿专家在求解中的关联推理能力。制定推理规则时要紧密遵循本体的实际应用，主要研究的领域是蒙古文音乐，所以推理规则需要根据蒙古文音乐领域本体和检索需求进行制定。在本文中推理规则制定如下：
+
+(1）本体模型中概念间的层级结构和类的继承性具有异曲同工之处，在本体概念中类的继承性主要表现为子类概念继承父类的特性，子类概念同时也有父类概念类所没有的属性，继承推理规则如下：
+
+Rulel:(?a,rdfs:subClassOf,?b),(?s,rdfs:type,?a) $. >$ (?s,rdfs: type,?b)
+
+如果a是b的子类且s属于a的某个实例或者属性，则s也属于b的某个实例或者属性。
+
+(2）本体中有时会存在两个具有相同属性值却名称不同的概念类，而且有时候它们表示相同知识点的概念类，对于这一类本体推理规则如下：
+
+Rule2: (?a，owl:equivalentClass，?b)，(?s,rdf:type，?a) $. >$ (？s, rdf:type, ?b) Rule3:(?a，owl:equivalentClass，?b)，(?s,rdf:type，?b) $. >$ (？s, rdf:type, ?a)
+
+名称不同但却表示同一知识点的概念类a和b具有相同的属性值。
+
+# (3）有包含关系的本体类，推理规则如下：
+
+Rule4:(?a,rdfs:subClassOf,?b), (?b,rdfs:subClassOf,?c) $\ J { \bf - } > \ u$ (?a,rdfs: subClassOf, ?c)
+
+概念类a、b、c形成面向对象中类的继承关系，a的属性由c继承而来，同时a也包含c所没有的属性。
+
+(4）音乐概念存在相互依赖和平行的关系，推理规则如下：
+
+Rule5:(?f depended ?a),(?f depended ?b) $. >$ (?a paralel ?b)
+
+概念类a和b同时依赖于f，则它们互为平行概念。
+
+(5）音乐中的不同概念在使用时存在关联性，推理规则如下：
+
+Rule6:(?a used ?b),notEqual (?a,?b) $\scriptscriptstyle - >$ (?areference ?b)
+
+检索概念a时会用到概念b的相关信息，且a和b表示不同概念，则a和b具有关联关系。
+
+# 3蒙古文音乐语义检索系统实现
+
+本系统是基于蒙古文音乐领域本体的语义检索系统，利用本体的推理技术对查询关键词进行语义扩展，通过基于推理规则的语义推理技术获得本体数据中的隐藏关联信息，从而实现蒙古文音乐领域语义检索原型系统。
+
+# 3.1 系统架构
+
+根据系统的功能性需求分析，参考主流的Web 搜索引擎的架构方式，结合语义Web和本体推理技术，设计语义检索系统模型，检索对象为蒙古文音乐领域的相关概念知识。采用浏览器/服务器(即B/S 结构)的架构方式，由浏览器客户端，WebAPP 服务器端(Tomcat)和DB端(存储领域本体文件)构成三层架构体系。
+
+系统实现的技术路线：使用RichFaces框架完成系统与用户交互，包括系统查询检索界面和结果反馈界面。借助基于Jena框架设计的JavaBean推理中间件，完成对查询关键词(检索条件)的语义解析和查询范围扩展，使用推理引擎和推理规则完成推理过程，调用本体数据与本体模型中的数据进行匹配，输出查询结果。通过Protegé构建蒙古文音乐领域本体，借助Jena 实现持久化存储，制定适合蒙古文音乐领域的推理规则。系统的整体架构设计如图5所示：
+
+![](images/0b34d26224955ea3c5e6e85f2d3255ca6aad00393aa21d4484e0bf032ad66049.jpg)  
+图5蒙古文音乐语义检索系统架构
+
+# 3.2 语义检索流程
+
+(1）系统通过检索界面得到用户输入的查询关键  
+词，通过检索条件可以将查询范围限制在本体知识库  
+中的概念类、属性、实例等，从而明确检索需求。(2）在检索请求提交后，系统会根据输入的检索  
+词进行相应的语义扩展，并且根据推理规则得出与原  
+查询词相近或相似的查询词集合，在语义层面上实现  
+查询范围的扩展。(3）将原有信息和推理出来的隐含信息结合起来，  
+形成推理后的完整数据库。(4)再将用户的查询请求在经过推理的数据库中  
+进行信息匹配，获取有用的信息。(5）将最终查询结果以条理清晰、便于用户识别  
+和使用的形式反馈给用户。本系统的检索流程如图6所示。
+
+# 3.3 系统验证
+
+在系统没有使用语义推理功能的情况下，输入“蒙古族多声部音乐"这一概念进行检索时，检索效果如图7所示。系统反馈的结果集中包含了蒙古族多声部音乐的典型代表"潮尔”、“潮尔表演形式"和"音乐结构"等概念知识。
+
+![](images/0bdb1f89d5c94a361f12297f34bbe2657c6b069851b83a289f70e63d0609dd85.jpg)  
+图6语义检索时序图
+
+![](images/da83f5cfe4e1b4f6a84fe4212669a6cb2fad814eb73df500ae86f10794c1b22b.jpg)  
+图7蒙古文音乐语义检索效果
+
+系统使用了语义推理功能的情况下，再次输入“蒙古族多声部音乐"这一概念进行检索，经过语义推理后的检索效果如图8所示。在系统返回的结果集中不仅包含"潮尔"等相关概念，而且包括潮尔的具体种类，如"浩林潮尔”、“冒顿潮尔"等概念，以及多声部音乐的一些表演属性，如"单人表演”，“人声 $\cdot _ { + }$ 乐器"等更详细的概念知识。
+
+![](images/b67d6c415d7b281344a6556528a6bf65e60bbf795a96ff0a0e0a8b9626ee5094.jpg)  
+图8经过语义推理后的检索效果
+
+通过对150篇蒙古文音乐领域文献检索测试显示，语义检索系统查全率达到 $9 5 . 6 \%$ 、查准率达到 $9 3 . 2 \%$ 明显高于关键词匹配检索(查全率 $7 5 . 2 \%$ ，查准率$7 3 . 6 \%$ ）
+
+# 4结语
+
+本文虽然只是以蒙古文多声部音乐为研究对象，但是对基于蒙古文领域本体的语义检索进行了完整的研究。由于传统的基于关键字的检索引擎在检索蒙古文信息资源时存在诸多不足，本文利用本体实现了基于蒙古文音乐领域的蒙古文语义检索系统，在一定程度上提升了蒙古文信息资源检索的效果，为蒙古文语义网应用研究打下了很好的理论和技术基础，具有很好的可推广性。
+
+# 参考文献：
+
+[1] 章成志．多语言领域本体学习研究[M]．南京：南京大学出 版社，2012:1-3．(Zhang Chengzhi．Domain Ontology Learning Research with Multi Language [M]. Nanjing: Nanjing University Press,2012:1-3.)   
+[2]耶理巴蒙古文文献管理系统[EB/OL].[2016-03-31].http:// www.surag.net/ $? { \mathrm { p } } { = } 8 1 1 6 .$ (Mongolian Literature Management System[EB/OL].[2016-03-31].http://www.surag.net/?p= 8116.)   
+[3]蒙古文期刊网[EB/OL].[2016-03-31].http:/journal.surag. net/．(Mongolian Journals [EB/OL]． [2016-03-31]. http:// journal.surag.net/.)   
+[4]中国蒙古学信息网[EB/OL].[2016-03-31].http://mgl.surag. net/.(China Mongolia Information Network [EB/OL].[2016- 03-31]. http://mgl.surag.net/.)   
+[5]王福，康健．蒙古文资源数字化共建共享保障体系研究[J]. 图书情报工作，2015,59(12):39-43.(Wang Fu,Kang Jian. Study on the Construction and Sharing of the System of Mongolian Digital Resources [J].Library and Information Service,2015,59(12): 39-43.)   
+[6]狄冬梅.基于 DSpace 构建传统蒙古文学科机构知识库平台 [J]．计算机工程与科学，2010，32(10):139-141，149.(Di Dongmei.Design of the Institutional Repositoryfor Traditional Mongolian Literature with DSpace [J]. Computer Engineering and Science,2010,32 (10): 139-141,149.)   
+[7]敖其尔．蒙文国际标准码与远程教育[C].见：中国远程教 育技术标准化国际研讨会论文集,2001.(AoQier.Mongolian International Standard Code [C]. In: Proceedings of the 2011 International Symposium on Technology Standardand Distance Education, 2001.)   
+[8]Li Guanyu,Ma Di, Loua V.Fuzzy Ontology Based Knowledge Reasoning Framework Design [C]. In: Proceedings of the 3rd International Conference on Software Enginering and Service Science.2012.   
+[9]Huang YH, Li G Y, Li Q Q. Rough Ontology Based Semantic Information Retrieval [C]. In:Proceedingsof the 6th International Symposium on Computational Intelligence and Design. 2013.   
+[10]孟红伟，张志平，张晓丹．基于领域本体的文献智能检索模 型研究[J].情报杂志,2013,32(9):180-184.(Meng Hongwei, Zhang Zhiping， Zhang Xiaodan.Research on Intelligent Information Retrieval Model Based on Domain Ontology [J]. Journal of Information,2013,32 (9):180-184.)   
+[11] 周群芳，吴婕,谷俊．基于本体的专利语义检索研究[J]．情 报探索，2013(9):71-74.(Zhou Qunfang，Wu Jie,Gu Jun. Study on Ontology-based Patent Semantic Retrieval [J]. Information Research,2013 (9): 71-74.)   
+[12]武俊丽．基于领域本体的语义检索系统的研究与实现[D]. 太原：太原理工大学，2010．(Wu Junli.Research and Implementation of Semantic Retrieval System Based on Domain Ontology [D]. Taiyuan: Taiyuan Universityof Technology, 2010.)   
+[13]李兵．基于领域本体的专利语义检索研究[D]．北京：北京 理工大学，2015.(Li Bing.Research on Patent Semantic Retrieval Based on Domain Ontology[D]. Beijing:Beijing Institute of Technology, 2015.)   
+[14]苏依拉，孙日旺，谭艳梅，等．基于本体标注的蒙文地名识 别研究[J]．计算机工程与科学，2013，35(8):156-162.(Su Yila,Sun Riwang,Tan Yanmei,et al.Study of Mongolian Place Name Recognition Based on Ontology Annotation [J]. Computer Engineering and Science,2013,35(8):156-162.)   
+[15]苏依拉，吉亚图，窦葆媛．基于蒙古语课程领域语义Web 的 推理与检索方法的研究[J].计算机工程与科学,2016,38(2): 376-384.(Su Yila，Ji Yatu，Dou Baoyuan．A Semantic Web-based Reasoning and Retrieval Method in Mongolian Curriculum [J]. Computer Engineering and Science,2016,38 (2): 376-384.)   
+[16]塔娜，林民，李小庆.面向跨语言信息检索的蒙汉语义词典 构建初探[J]．计算机与数字工程,2010,32(8):42-45,54.(Ta Na,Lin Min,Li Xiaoqing.Preliminary Study on Building Mongolian and Chinese Bilingual Semantic Dictionary for Cross-Language Information Retrieval [J]. Computer and Digital Engineering,2010,32(8):42-45,54.)   
+[17] Ma J,Zhang Q，Zhang J,et al.A Rule-based Ontology Reasoning for Scientific Effects Retrieval[C].In:Proceedings of the 2Ol2 IEEE International Conference on Management of Innovation and Technology.2012:232-237.   
+[18] Delbru R,Campinas S,Tummarello G. Searching Web Data: An Entity Retrieval and High-performance Indexing Model [J]. Journal of Web Semantics,2012,10(1): 33-58.   
+[19]高洪美．基于文献领域本体的语义搜索技术的研究与实现 [D]．上海：华东理工大学，2014.(Gao Hongmei.Research and Implementation of Semantic Search Technology Based on Ontology in Literature Domain [D]. Shanghai: East China University of Science and Technology,2014.)
+
+[20]Dewan H.REDIS:The Data Structure Server for Your Cloud
+
+[J].PC Quest,2011.   
+[21]丛伟．基于层叠隐马尔可夫模型的蒙古语词切分系统的研 究[D]．呼和浩特：内蒙古大学，2009.(Cong Wei．Study of Mongolian Word Segmentation System Based on the Cascaded Hidden MarkovModel [D]. Hohhot:Inner Mongolia University,2009.)   
+[22]王海川．云计算环境下服务语义检索与组合方法应用研究 [D]．济南：山东财经大学，2014．（WangHaichuan. Application Research of Service Semantic Retrieval and Combination Method in Cloud Computing Environment [D]. Ji'nan: Shandong University of Finance and Economics,2014.)
+
+# 作者贡献声明：
+
+鲍玉来：提出研究思路，设计研究方案，收集数据，构建本体，搭建系统，起草论文;  
+毕强：研究方案的设计和实现；修改论文。
+
+# 利益冲突声明：
+
+所有作者声明不存在利益冲突关系。
+
+# 支撑数据：
+
+支撑数据由作者自存储,E-mail:65003846@qq.com。  
+[1]鲍玉来，毕强.mongolian music.owl.蒙古音乐本体数据.
+
+收稿日期:2016-06-27  
+收修改稿日期:2016-10-17
+
+# Semantic Retrieval for Mongolian Music: An Explorative Study
+
+Bao Yulai1²Bi Qiang² 1(Inner Mongolia University Library, Hohhot O10021, China) 2(School of Management, Jilin University, Changchun 130022, China)
+
+Abstract: [Objective] This paper aims to improve the retrieval performance of the booming Mongolian information resources with Ontology based semantic technology.[Methods] We designed a semantic retrieval system with the help of Mongolian music domain Ontology as well as the semantic analysis and inference engine Jena. [Results]Compared to the keyword matching retrieval systems,the recalland precision of the proposed system were significantly improved （2 $( 9 5 . 6 \%$ and $9 3 . 2 \%$ , respectively).[Limitations] The experimental data only included the Mongolian multi-voice music. [Conclusions]The proposed semantic retrieval system lays theoreticaland technological foundations forthe researchof Mongolian semantic Web applications.
+
+Keywords: Mongolian Domain OntologySemantic reasoningSemantic retrieval

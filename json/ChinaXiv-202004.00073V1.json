@@ -1,0 +1,276 @@
+[
+    {
+        "type": "text",
+        "text": "语义认知的习得、发展和老化及其神经机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程士静 何文广",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(曲阜师范大学教育学院，曲阜 273165)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要作为语言系统的重要组成部分，探究语义认知发展机制及其神经机理对揭示人类语言发展、认知机制有着重要意义。以语义认知能力的习得、发展、老化认知机制为主线，在系统阐释词汇-语义系统的习得、语义认知能力和策略发展的基础上，进一步探讨了语义认知老化的认知机制及其神经机理。最后，围绕儿童和成人的语义认知差异、句法和语义认知老化的差异、语义认知老化的影响因素等问题上进行了思考和展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 语义认知；语义习得和发展；语义认知老化；神经机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语言是人类在漫长历史进化过程中，逐渐形成的集社会、文化、生物、心理等因素为一体的复杂符号体系，该符号体系的重要功能在于实现人际间的交流与沟通，而该功能的实现在很大程度上则依赖于语义，即语言所蕴含的意义。尽管学界对有关语义的界定和理解存在争议，但是综合来看，语义是基于语言形式表现出来的、用于描述事物本质及其关系的客观知识体系，是人脑对客观现实及其关系的反映(秦春秀，祝婷，赵捧未，张毅,2014)。从表现形式上看，语义是主观的，但从功能上看，语义则具有客观现实性，是人类理解世界、采取行为的重要指导性因素，而该功能的实现则基于人们对语义的正确理解和表征，即语义认知。科学、合理、正确的语义认知是客观语义知识取得心理现实性的重要前提和保障。因此，探究语义认知的发展机制、影响因素及其神经机理对于揭示语言认知机制、有效达成语言功能有着重要理论和实践意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1语义认知含义分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语义认知，即语义客观知识体系获得心理现实性的心理表征过程，它要求人们既要以可接受的形式表征信息，又要控制人们在特定情况下如何使用和操作语义知识。语义认知是语义客观知识体系渗透行为的神经认知机制的集合，使人们能够识别和推断环境中的物体和事件。具体来说，语义认知就是要了解任务需要的对象和动作(Badre&Wagner,2002;Hoffman,McClelland, & Ralph, 2018; Ralph, Jefferies,Patterson,& Rogers, 2017; Yee & Thompson-Schill,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016)，并在此基础上对存贮在语义记忆中的概念特征等知识信息进行表征和提取(许振国,2011)。因此，语义认知是诸多认知系统协同作用的结果。而其中语义表征系统和语义控制系统最为重要。语义表征系统通过分布于大脑皮层内的感觉、运动、语言、情感等诸多信息源间的高阶关系实现概念知识的编码。通过该系统，人们可以将从语言和非语言经验中获得的知识归纳、提炼到新的情况中，该系统更多和语言经验有关，相对比较稳定。语义控制系统主要包括语义检索和语义竞争两个子系统，主要负责控制、操纵语义表征系统的激活，以生成适合于每个特定时间或特定任务环境的推断和行为(Hoffman,2019;Ralph et al.,2017)，该系统更多的依赖于个体的认知神经系统的成熟性，具有鲜明的发展变化性。研究表明，语义表征系统和语义控制系统具有不同的神经表征机制(胡云霄，2017)，因而两者有着不同的形成、发展、衰老模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2语义认知能力的习得、发展认知机制及其神经基础",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1儿童词汇-语义系统的建构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "学界普遍认为，作为构成语句、篇章最基本的单位，词汇的意义是语义系统中最自然、最基础的组成部分，它贯穿语义发展的始终，具有不可或缺的地位和作用(王德春，2006)。因此，个体语义的发展是建立在词义获得的基础之上，而词义的获得又依赖于个体的词汇量。研究表明，个体生命早期的词汇量是显著递增的，表现出爆炸性模式。有研究发现，7\\~8个月的婴幼儿已可以从语音流中提取单词形式，并能保持较长时间(Cheour et al.,2002)。儿童是在什么时间逐渐建构起自己的词汇-语义系统的呢？诸多证据表明，24个月左右的婴幼儿已开始逐步发展有着不同语义关系的词汇-语义系统(Arias-trejo& Plunkett，2009，2013;Rämä，Siri，& Serres，2013)。Chow，Davies 和 Plunkett(2017)通过四图视觉情境范式(four-picture VisualWorldParadigm,VWP)考察了24个月和30个月大的幼儿在口语-单词识别中词汇-语义表征的激活方式，将视觉情境与听觉刺激跨通道结合，即以显示器呈现的四幅图片(包含听觉目标词，与目标词语音、语义相关或无关的图片)作为视觉情境，通过耳机播放听觉刺激，要求被试注视图片或对图片进行选择。结果发现，两岁之前的幼儿就可以把单词和他们口语中所指的参照物联系起来，并且可以从语言中提取出关于语义相关的信息。但也有研究表明，18个月左右的幼儿就已经建构起自己的词汇-语义系统(Rämä etal.,2013)。儿童词汇-语义系统的发展，既受到语义类型的影响，也受到儿童认知能力和语言经验的影响。来自跨通道偏好注视范式(Intermodal Preferential Looking Paradigm,IPLP)的研究比较了幼儿和成人词汇-语义系统存在的差别，该范式是婴儿认知研究中偏好范式的一种变式，和",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "VWP 研究不同的是婴儿IPLP研究倾向于使用两张图片，目标通常只是调查婴儿是否已学习或已理解目标词。实验包含学习和测试两个阶段，若婴儿在测试阶段对词语相匹配的那个客体注视时间更长，那么就认为婴儿已经成功地将词语和客体联系起来。IPLP 研究表明，幼儿的词汇-语义系统与成人的词汇-语义系统最初是不同的。虽然幼儿在1岁时就表现出对语音细节的敏感性，并能将单词与意义相匹配，但他们对单词之间语音相似性和语义相似性的理解程度在2岁时才开始趋于成人。该发现表明了儿童从幼儿期基于单独对单词进行编码的词汇-语义系统逐渐发展到根据单词之间语音和语义的相似性对单词进行编码的词汇-语义系统。但后来研究者发现幼儿语音和语义表征激活的顺序和时间进程与成人是相近的，都是以渐进的方式从语言中提取语音和语义信息，只不过在提取速度上有些差异，幼儿从口语中提取语音信息的速度比他们提取语义信息的速度快(Chow etal.,2017)。另外，有研究发现，正在学习两种语言的双语儿童，与单语儿童相似，对单词之间的分类关系也很敏感，这表明接触两种语言并不会延迟词汇-语义系统的发展，但是在自动加工的效率上不如单语儿童，这也许是因为他们可能需要额外的时间来处理语义相关性。据此，研究者们认为双语儿童语义加工的认知过程可能因语言经验而异(Räma,Sirri,& Goyet, 2018)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2儿童语义认知能力及其策略的发展",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从语义发展的过程来看，婴幼儿更多是在假设检验认知策略的基础上来发展语义认知能力。起初，他们会根据自己的理解对初始词义进行词义假设，这时词汇的初始意义与成人视角下的词义往往不尽相同，可能会造成词义的过度扩展或者扩展不足的现象(马菊青,2005)。前种情况下儿童常常会赋予词语一个较大的外延，即用一个单词指代种类比较广泛的物体或事件。比如，儿童使用“狗狗”这个词指代所有长毛的四条腿动物。后种情况下儿童会用一般性单词指代较小范围的物体，即把一个词语只用在一种环境下或者只用来特指一种事物。例如，把“饼干”只用于指巧克力小饼。儿童对初始词义形成假设后，随后的社会交往环境促使儿童反复的提出假设，并不断的验证和修正该假设，儿童词义的义素也相应的逐步稳定，导致儿童的词汇-语义系统在整个过程中逐渐完善且不断丰富。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了假设检验认知策略外，统计学习(StatisticalLearning)是目前有关儿童语音、正字法、语义、句法等多种语言现象习得的具有强大普适性解释效力的语言学习机制。统计学习又称内隐学习或程序学习，主要是指儿童在大量语言现象的接触过程中，于不觉间抽取某种语言现象的概率特性(Wells,Christiansen,Race,Acheson,& Macdonald,2009)。学界通常把该统计学习看成是个体具有的一种强大的先天能力，个体在很早的时候就对协同发生的语音、正字法、语义概率非常敏感。有研究表明，8个月大的婴儿对音节协同发生的概率已经比较敏感，他们可以根据该概率从人工语言中抽取出相应的词汇(Saffran,Newport，& Aslin,1996)。12\\~14 个月大的婴幼儿可以通过快速评估多个孤立的模糊单词和场景中的统计证据来匹配单词的意义从而完成词汇学习(Smith&Yu,2008)。基于统计学习策略，儿童可以将获得的词汇迁移到新的情景中，也可以从具有普适性词汇意义中提取该词的特殊语义(官群，赵建蓉，姚茹，2018)。Arizmendi 团队使用跨情景词汇学习实验范式研究发现，即使说话较晚的幼儿也具备利用统计学习增进其词汇容量、提升词汇学习的能力(Alt,Meyers,Oglivie,Nicholas,&Arizmendi, 2014)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如上所述，儿童是在假设检验和统计学习的基础上形成了词汇-语义映射系统(lexical-semantic mapping system)。那么，儿童是如何在更大语言信息单元层面通达和提取语义信息的呢？研究发现，儿童最初是通过话语片断建构语义，此后，通过掌握语法意义建构新的话语。语法意义的习得使儿童语言中语义之间的关系越来越清晰、明确，同时也能够顺利的将自己的想法表达出来。伴随词汇语义关系及其搭配规律的发现,儿童不断地建构其内部的语义体系(马菊青，2005)。为了有效、准确、经济的通达和提取语义信息，儿童会有意识的使用某些认知策略建构和提取语义(桂诗春,2000)。总体来说，存在着三种理解策略：(1)自我主观认知策略。该策略是指儿童会先对自己主观存在的生理心理状态进行评估，然后根据评估结果和自己仅存的语言水平来对话语进行理解和会晤。(2)口语中的谐音策略。这一策略指的是，当儿童听到某个词汇的发音和他大脑认知系统中已有词汇的发音一样或者非常相近时，便会对该词汇产生同样的理解。(3)非言语策略。该策略指的是儿童会把大脑中已经构建好的知识经验、成人给予的态度反应以及言语发生时的周围环境结合起来进行话语理解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3语义习得和发展的神经机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "较之语音感知能力，个体语义认知能力的获得似乎要晚许多。研究表明，婴儿从出生开始，就能够辨别自然语言中用来区分单词的语音细节，7\\~8个月的婴儿就能从语音流中提取单词形式。但是，在词汇形式和其意义间建立起稳定的映射关系却是个非常漫长的过程。有研究运用事件相关电位(event-related potential,ERP)技术考察了7\\~9 个月婴儿语义习得的神经机制，结果发现，在动作语义或词汇语义信息的识别中，9个月大的婴儿诱发了和成人类似的 N400脑成分，而7个月大的婴儿则没有观察到N400 成分，据此他们认为在单个词汇语义的识别中，9个月大的婴儿才基本上具备了类似成人的语义认知机制(Reid etal.,2009)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "语义整合的认知能力似乎发展的更晚，Friedrich 和Friederici(2005)使用语义启动任务，研究了12\\~19个月年龄段个体的体语义整合发展特点，结果在12月大的婴儿身上，没有发现标示语义整合机制存在的N400 成分，直到19个月大的幼儿身上才观察到类似成人语义整合机制的 N400 成分。据此，研究者认为1岁前的婴儿已具备基于词汇提取语义的认知能力，但语义整合能力却要推延到18个月左右才能具备。虽然19个月大的幼儿表现出类似成人诱发的 N400 成分，但其波幅、潜伏期及半球分布方面和成人还是存在差异性。在成人被试中，N400 成分在顶叶中心部分表现最强，额叶部位反应相对较弱，且右半球的反应比左半球更强烈，但在儿童被试身上，额叶区域有较强的激活，且两半球激活强度差异不明显。该现象说明，儿童语义信息的提取和整合自动化程度仍然不够，依然需要认知控制的参与。此外，研究者还使用 ERP技术考察了21\\~24个月儿童语义关联性认知能力，结果发现，刺激项目间的索引关系及语义不一致关系在儿童被试和成人被试中诱发了类似的N400 成分，说明该年龄段的儿童对语义之间的关联性就有了认知能力(Torkildsen& Syversen,2007；Arias-Trejo &Plunkett,2009)。不止如此，研究者还发现24个月的个体已经具备语义分类认知能力。Räma,Sirri 和 Serres (2013)在语义启动任务中于24个月大的儿童右侧枕叶附近观察到标示语义分类启动效应的N400成分，据此他们得出上述结论，考察了上述年龄段儿童语义分类认知能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "来自 ERP 技术的研究已表明，12\\~24个月左右的婴幼儿基本具备诸如语义提取、语义整合、语义联想、语义分类等多种语义认知能力。那么，该年龄段的婴幼儿在上述语义认知过程中是否和成人经历了类似的神经活动？由于在神经激活空间定位方面 ERP 技术不够精确，学界开始借助功能磁共振成像技术(fMRI)对该问题进行了深入研究。一项有关 5\\~10 岁儿童听觉语义信息处理的研究显示，儿童和成人具有类似的脑激活模式，除却负责语义处理的经典脑区如颞叶、顶叶及部分枕叶有激活外，左侧梭状回的前、后外侧，及扣带回左前侧也有激活，不同是儿童被试在上述部分脑区的激活更强(Balsamo,Xu,& Gaillard,2006;Binder etal.,1997)。有关语义表征的研究也表明，儿童在额下中回前腹侧区(BA47)和颞上中回前腹侧区(BA 22,21)表现出更多的激活(Booth et al.,2006)。Chou 等人(2010)以9\\~12 岁、具有不同语义理解水平的儿童为被试，就其语义加工中神经激活模式的差异进行了研究，发现语义理解水平较好的被试，包括颞下回和颞中回在内的后侧区域神经系统有更强的激活，而语义理解水平相对较差的被试，包括额下回和额中回在内的前侧脑区有更多的激活。研究者据此认为，语义理解水平较低的被试可能由于语义系统连接较弱或不准确，导致语义选择过程中更多的使用负责执行控制功能的前额脑区。在另一项有关9\\~15岁儿童语义认知的研究中(Chouetal.,2006)，研究者们发现年龄较大的儿童在进行语义搜索任务时，右侧额下回、左侧颞中回和顶叶下叶等区域有较强的激活，该结果说明年龄较大的儿童具有更精细的语义表征和更完整的语义整合机制。而且，该研究还发现，右侧颞上回(BA 22)的激活强度和年龄大小相关，右侧颞中回(BA 21)的激活则和语义理解准确性相关，该结果说明年龄越小、语义理解水平越低的被试，语义认知活动中右半球的激活越强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3语义认知老化的认知机制及其神经基础 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着生理机能老化，老年人的各项认知功能都呈现出衰退趋势，作为人类较为复杂的语言认知能力也不可避免的发生老化(何文广，2017)。目前，句法认知老化已获得共识，但有关语义认知能力是否会发生老化依然存在争论。来自词汇测试的研究表明，语义在整个成年期保持相对稳定，老化现象不明显(Laver,2009)。语义认知荟萃分析表明，60 岁以上的老年人词汇语义认知得分反而要高于30岁以下的年轻人。研究者认为这是由于语义知识随着年龄增长而有所增加所导致(Verhaeghen,2003)。据此，他们认为语义认知老化现象并不严重，与年轻人相比，虽然在其它认知领域中观察到了许多功能衰退现象，但是老年人在语义处理的大多数方面依然保持稳定，老年人依然有着较好的语义认知能力。然而，也有研究者主张语义认知老化现象的存在，这主要是因为语义认知过程中需要认知控制，而认知控制能力伴随着年龄的老化而呈现出衰退趋势，所以语义认知不可避免的存在老化现象(Hoffman &Morcom,2018;Hoffman,2019; Boudiaf et al.,2018)。研究表明，语义控制能力的老化会降低概念知识快速提取与检索的效率，进而影响到相应任务的语言生成(Wierenga etal.,2008)。Boudiaf 等人(2018)使用 fMRI技术考察了老年人语义分类能力。行为数据显示，正常的老化与概念或语义表征的丧失无关，而与词汇生成过程和词汇产生障碍有关。脑成像的结果则显示在涉及单词检索和生成的脑区，老年被试激活较弱。同时，与左半球负责语义加工对应的右半球相应脑区，老年被试有着较强的激活表现。该结果说明，在词汇检索、语义分类等任务中，老年被试需要征用右半球有关脑区以补偿左半球因老化而导致的语义加工效率的降低。语义认知能力的老化还体现在阅读理解水平上。研究发现，阅读中语境对老年人的词汇语义加工有明显的影响，他们不容易使用自上而下的上下文约束，因此在句子理解中更主要依赖自下而上的词汇特征来指导单词的语义通达(Payne＆Federmeier,2018)。此外，老年人的阅读理解水平还受到词汇语义丰富性的影响，其主要原因在于面临具有多种词义的词汇时，老年人选择符合语境的义项、控制非目标义项的能力衰退(Hoffman& Woollams，2015;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pexman&Yap,2018)。一项来自语义匹配任务的研究表明，年轻人在任务中受词频和想象力的影响较大，这两个因素与语义表征的丰富性有关，相比之下，老年人没有表现出词频效应和较弱的想象力。据此，研究者认为，老年人由于语义知识库较大且词汇义项表征较为精细，在词汇语义匹配过程中，老年人需要付出较多的认知控制资源，以便更好的完成语义匹配实验任务(Hoffman,2019)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近来，语义认知老化得到了更多神经生理学研究结果支持。与老年人左颞中回的激活相比，左下前额回的激活在年轻受试者中是显著的。此外，老年人在右侧梭状回和顶叶的激活显著，而年轻人则在右侧扣带回区域的激活显著。在语义流畅性任务中，Baciu 等人(2016)发现,老年被试和年轻被试在前额叶、颞叶、枕叶、顶叶均有激活,老年人对该语义任务的大脑激活体现在右半球的顶叶前部和感觉-运动联合区区域，在左半球的激活主要体现在前扣带回区域。而在语义判断任务(Lacombe,Jolicoeur, Grimault,Pineault,&Joubert,2015)中,年轻人在双侧颞顶区和左侧颞叶前部脑区的激活中不如老年人，反而在左侧前额皮层的激活强于老年人。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，语义认知老化已是不争的事实，导致语义认知老化的认知机制是什么呢？已有研究表明，语义表征和语义控制是语义加工较为依赖的两个认知系统(Hoffman,2018,2019;Ralph et al.,2017)。较之年轻人，老年人在语义表征、词汇知识、语义丰富性方面老化效应并不明显，语义认知老化更多体现在涉及到选择、抑制、转换、整合、维持等语义控制任务方面。而且，语义认知的这种老化机理并不是语言认知所特有的，它和人类一般执行认知能力的老化有着紧密关联。因为，来自神经影像学的研究表明，语义控制脑区和一般执行能力任务激活的脑区有着高度重合，它们共同激活前额叶(AF)、左额下回(LIFG)、左后颞中回(pMTG)等脑区。而且，老年人的语义神经激活模式表现出由神经专门区域向一般任务区域转移的趋势，左半球负责语义认知的几个核心区域(包括LIFG、pMTG 和dIPC)的激活强度减弱，而包含右脑额下沟(rIFS)、额中回(MFG)、右脑背侧下顶叶皮质(dIPC)和背侧前扣带回皮质(dACC)在内的多需求网络(multiple demand network，MDN)区域则有着更强的激活(Jefferies,2013)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，言语工作记忆能力的衰退也是造成语义认知老化的原因。研究表明，言语工作记忆对概念-语义信息的维持有着重要作用(Fiebach,Friederici,Smith,& Swinney,2007)。虽然在词汇知识方面老年人和年轻人不存在明显的差异，但在使用句法规则和语义关系等约束条件处理长句或复合句时，老年人的表现不如年轻被试(Vassileiou,Meyer,Beese,&Friederici,",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2018)。据此，Caplan,DeDe,Waters,Michaud 和 Tripodis (2011)认为这是由于老年人言语工作记忆容量衰退导致了抑制和维持语义信息能力的减弱。另外，言语工作记忆能力的衰退还会影响到老年人语境知识的使用及其语用推理能力。来自语篇阅读理解的研究表明，老年人利用语境线索预测即临句子成分的能力减弱，并且他们倾向于将更多的认知资源分配给低预测词或低频词(Rayner, Yang,Schuett,& Slattery, 2013)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4问题与展望",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1儿童和成人的语义认知机制是否存在差异性？",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "语义是复杂的认知过程，就目前来看，儿童和成年人在语义认知机制上存在着年龄差异。那这种年龄差异到底是质的不同还是量的变化呢？一种观点普遍认为，语义认知的发展具有连续性，工作记忆等其他与语义加工相关的认知能力的衰退是造成后期语义加工困难的主要原因(Kavé& Knafo-Noam,2015)。同时，语言经验的不同也是其差异性的来源之一(Hoffman,2019)。儿童由于在工作记忆、语言经验等方面与成人有着量的差异，所以他们在语义认知方面表现出的差异性，更多是量的不同。随着儿童工作记忆容量及语言经验的不断增长，在语义认知机制及策略上会与成人趋于一致。另一种观点则认为，儿童和成年人在语义认知的发展上具有质的差异。在语义加工策略上，成年人对阅读中单词的识别是自下而上的过程，而儿童更多的是结合上下文，使用自上而下的加工策略。电生理学证据表明，成年人在语义一致性任务中是一种自动的、扩散激活的加工过程，但儿童则是一种缓慢的、受控的抑制加工过程(Benau,Morris,&Couperus,2011)。在脑区激活上，儿童在语义加工过程中除了左半球颞叶区域的激活增强外，还征用了具有一般执行功能的前额区域。而成年人和老年人相比，老年人则激活了与左半球语义加工区域相对应的右半球区域。虽然,有些学者认为儿童和成人在语义认知机制方面存在质的差异，但是“质”的界定标准是什么、用什么方法衡量，以及质和量差异的划分是否具有语义认知任务特异性等问题还存在争论，需要深入系统的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2语义和句法认知老化模式差异性探讨",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，有关语义、句法认知老化模式是否具有差异性问题主要存在两种观点。一种观点认为，随着生理年龄的增长，句法认知能力更容易受损，而语义认知能力则相对保存完好(Alatorre-Cruz et al.,2018; Poulisse,Wheeldon,& Segaert,2019)。较之语义认知，句法认知能力为什么更容易发生老化呢？首先，语义和句法隶属于不同的知识体系。语义即语言所蕴含的意义，用于描述事物本质及其关系的客观知识体系，多属于陈述性知识体系，它的认知更多地依赖于个体的语言经验，认知老化的效应往往不明显。句法则是由一套数量有限的抽象规则组成的系统，多属于程序性知识，其加工更多的依赖于工作记忆等认知资源，容易受认知老化的影响。其次，语义和句法有着不同的认知神经表征机制。研究表明，语义的认知神经表征主要包括颞上回、颞中回和角回等神经结构的双侧网络，而句法加工的神经表征则主要涉及由额下回和颞-顶区域组成的强左偏侧网络(Shafto&Tyler,2014)。由于前额叶和顶叶生理老化相对较早且速度较快，所以句法认知更容易受生理老化的影响(Harley，Oliver,Jessiman,&Macandrew,2013)。但现在越来越多的研究显示，语义认知老化效应同样非常明显，诸如词汇语义通达、句子语义提取、文本语义整合(Boudiaf et al.,2018;Hoffman et al.,2018;Payne＆Federmeier,2018)，而且语义认知老化在个体中年阶段就开始有所表现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作为语言系统的两个主要组成部分，语义准确、有效的提取离不开对句法即时、有效的认知，如果句法受认知老化影响较为明显的话，语义认知同样应该有着鲜明的认知老化表现。为什么当前的研究更倾向于主张句法认知容易老化、语义认知能力相对完好呢？句法老化和语义老化彼此间有着什么样的影响？句法和语义认知老化是否具有同步性？句法和语义认知间的老化关系是否因为语言任务的不同而有所不同？这些问题亟待深入研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3语义认知老化影响因素的思考",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "语义认知是较为复杂的认知活动，该过程既受到诸如语义表征、语义控制、言语工作记忆等主体性因素的制约，又受到词汇习得年龄、词频、词性等诸多客体性因素的影响。当前有关语义认知老化的研究主要集中于主体性因素的分析，而有关影响语义认知老化客体性因素的研究则较为欠缺。词汇习得年龄(age of acquisition,AOA)是指单词以口头或书面形式接触和理解的年龄。词汇语义假设认为(兰丽珍，2016)，词汇习得的顺序可能是语义系统中最重要的因素，习得时间不同的词汇不仅在大脑中有着不同的神经表征基础，而且其表征质量也存在差异。因此，词汇习得年龄不仅影响到词汇语义的通达和提取，同样会影响到语义的发展和老化。词汇语义习得时间对语义认知老化会有着什么样的影响呢？是否早习得的词汇语义老化较晚，而晚习得的词汇语义老化较早呢？另外，早期习得的词汇不仅有着较高的使用频率，而且从词性上来说多是具体词，那么词频和词性对语义认知老化又有何影响呢？如果词频和词性对语义认知老化有影响，其影响是独立于词汇习得年龄，还是彼此间存在交互作用呢？",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "官群，赵建蓉，姚茹.(2018).语言习得的统计学习探究——来自普通人群和特殊人群的证据.中国特殊教育",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3),78-82.   \n桂诗春.(2000)．新编心理语言学.上海：上海外语教育出版社.   \n何文广.(2017).语言认知老化机制及其神经基础.心理科学进展,25(9),1479-1491.   \n胡云霄.(2017)．老年人教育背景、年龄对言语流畅性的影响(博士学位论文)．吉林大学，长春.   \n兰丽珍.(2016)．汉语词汇习得年龄效应的机制探讨．淮海工学院学报(人文社会科学版),14(1),54-57.   \n马菊青.(2005-03-16)．儿童语言习得过程中语义发展规律研究.青海师范大学学报(哲学社会科学版)(5)，10   \n6-109.   \n秦春秀，祝婷，赵捧未，张毅.(2014)．自然语言语义分析研究进展.图书情报工作,58(22),130-137.   \n王德春.(2006)．语言学通论(修订版)．北京：北京大学出版社.   \n许振国.(2011)．语义加工中汉语概念特征的差异性效应(博士学位论文).河南大学，开封.   \nAlatorre-Cruz,G. C.， Silva-Pereyra,J.，Fernandez T.，Rodriguez-Camacho M. A.， Castro-Chavira，S. A.，& Sanchez-Lopez, J. (2018). Effects of age and working memory load on syntactic processing: An event -related potential study. Frontiers in Human Neuroscience,12,185.   \nAlt,M.,Meyers,C.,Oglivie,T.,Nicholas,K.,&Arizmendi,G(2O14).Cross-situational statisticallybased word learning intervention for late-talking toddlers. Journal of Communication Disorders, 52(1),207-220.   \nArias-Trejo,N.，& Plunkett，K. (2Oo9).Lexical-semanticpriming effcts during infancy.Philosophical Tra nsactions of the Royal Society B: Biological Sciences, 364(1536), 3633-3647.   \nArias-Trejo,N.,& Plunkett, K. (2O13). What's in a link: Associative and taxonomic priming effcts in theinfant lexicon. Cognition, 128(2),214-227.   \nBaciu,M.，Boudiaf,N., Cousin,E.,Perrone-Bertoloti，M.，Pichat,C.,，Fournet,N.，... Krainik,A.(2016). Functional MRI evidence for the decline of word retrieval and generation during normal aging. AGE, 38(1), 1-22.   \nBadre,D.,& Wagner,A. D. (Oo2). Semantic retrieval, mnemonic control,and prefrontal cortex. Behavioraland Cognitive Neuroscience Reviews,1(3),206-218.   \nBalsamo, L. M., Xu,B.,& Gaillard, W. D. (2O06).Language lateralization and the role of the fusiform gyrus in semantic processing in young children. Neurolmage,31(3),1306-1314.   \nBenau,E.M.,Moris,J.,& Couperus,J.W. (2O11).Semantic processing inchildren and adults: Incongruity and the N400. Journal of Psycholinguistic Research, 40(3),225-239.   \nBinder, J. R.,Frost, J.A.,Hammeke,T. A., Cox, R. W.,Rao,S.M.,& Prieto,T. (1997). Human brain language areas identified by functional magnetic resonance imaging.The Journal of neuroscience : the offcial journal of   \nBooth,J.R.,Lu,D., Burman, D.D.,Chou,T.L.，Jin, Z.,Peng,D.L.，...Liu,L. (2006).Specializationof phonological and semantic processing in Chinese word reading. Brain Research, 1071(1),197-207.   \nBoudiaf,N.,Laboissiere,R., Cousin,E.,Fournet,N.,Krainik,A.,&Baciu,M. (2o18).Behavioral evidence fora diferential modulation of semantic processing and lexical production by aging: A full linear mixed-effcts modeling approach. Aging,Neuropsychology,and Cognition, 25(1),1-22.   \nCaplan,D.，Dede,G.，Waters,G.,Michaud,J.,& Tripodis,Y. (2011). Efcts of age,speed of processing,and working memory on comprehension of sentences with relative clauses. Psychology and Aging, 26(2), 439-450.   \nCheour,M.，Martynova,O.，Naatanen,R.，Erkkola,R.， Sillanpaa,M.，Kero，P.，...Hamalainen，H.(2002). Psychobiology: Speech sounds learned by sleeping newborns. Nature, 415(6872), 599-600.   \nChou,T.L.,Booth,J.R.,Bitan,T.,Burman,D.D.,Bigio,J.D.,Cone,N.E.,..Cao,F. (2010).Developmental and skill effects on the neural correlates of semantic processing to visually presented words. Human Brain Mapping,27(11), 915-924.   \nChou,T.L.,Booth,J.R.，Burman,D.D.，Bitan,T.，Bigio,J.D.,Lu,D.,& Cone,N.(20O6).Developmental changes in the neural correlates of semantic processing. Neurolmage, 29(4),1141-1149.   \nChow, J., Davies,A.A.,&Plunket,K.(2O17).Spoken-word recognition in2-year-olds: The tugof warbetween phonological and semantic activation. Journal of Memory & Language, 93,104-134.   \nFiebach，C.，Friederici，A.，Smith，E.，& Swinney，D.(2O07).Lateral inferotemporal cortex maintains conceptual—Semantic representations in verbal working memory. Journal of Cognitive Neuroscience,19(12) 2035-2049.   \nFriedrich, M.,&Friederici, A. D.(20o5). Phonotactic knowledge and lexical-semantic processng in one-year-olds: Brain responses to words and nonsense words in picture contexts. Journal of Cognitive Neuroscience,17(11), 1785-1802.   \nHarley,T. A., Oliver,T.M., Jesiman,L. J.,& Macandrew, S.B.G (2013). Ageing makes us dyslexic.Aphasiology, 27(4), 490-505.   \nHoffman,P. (2O18).An individual differences approach to semantic cognition: Divergent effects of age on representation, retrieval and selection. Scientific Reports,8(1), 8145-8158.   \nHoffman, P. (2019). Divergent effects of healthy ageing on semantic knowledge and control: Evidence from novel comparisons with semantically impaired patients. Journal of Neuropsychology, 13(3), 462-484.   \nHoffman,P.,Mcelland,J.L.,&Ralph,M.A.L. (O18). Concepts,control,and context: Aconnectionist account ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "of normal and disordered semantic cognition. Psychological Review, 125(3),293-328. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hoffman,P.,& Morcom, A. M. (2018). Age-related changes in the neural networks supporting semantic cognition: A meta-analysis of 47 functional neuroimaging studies. Neuroscience & Biobehavioral Reviews,84,134-150.   \nHoffman,P.,& Woollams,A.M. (2O15).Opposing effects of semantic diversity in lexical and semantic relatednes decisions. Journal of Experimental Psychology Human Perception & Performance, 41(2),385-402.   \nJefferies，E. (20l3). The neural basis of semantic cognition: Converging evidence from neuropsychology, neuroimaging and tms. Cortex, 49(3), 611-625.   \nKavé, G,& Knafo-Noam, A. (2O15). Lifespan development of phonemic and semantic fluency: Universal increase, difrential decrease.Journal of Clinical & Experimental Neuropsychology,37(7),751-763.   \nLacombe,J.,Jolicoeur,P., Grimault,S.,Pineault,J,&Joubert,S.(2O15).Neural changesassociated withsemantic processing in healthy aging despite intact behavioral performance. Brain & Language,149,118-127.   \nLaver, G D. (2009). Adult aging effects on semantic and episodic priming in word recognition. Psychology & Aging, 24(1), 28-39.   \nPayne,B.R.，& Federmeier,K.D.(2O18). Contextual constraints on lexico-semantic processing in aging: Evidence from single-word event-related brain potentials. Brain Research,l687,117-128.   \nPexman,P. M.,& Yap,M.J. (2O18). Individual diferences in semantic processing: Insights from the calgary semantic decision project. Journal of Experimental Psychology: Learning， Memory，and Cognition, 44(7), 1091-1112.   \nPoulisse,C., Wheeldon,L.,& Segaert,K. (2019). Evidence against preserved syntactic comprehension in healthy aging. Journal of Experimental Psychology: Learning, Memory, and Cognition, 45(12),2290-2308.   \nRalph,M.A.L., Jeferies,E.,Patterson,K.，& Rogers,T.T.(2o17).The neural and computational bases of semantic cognition. Nature Reviews Neuroscience, 18(1), 42-55.   \nRäma,P.， Sirri, L.，& Goyet,L. (2O18).Event-related potentials associated with cognitive mechanisms un derlying lexical-semantic processing in monolingual and bilingual 18-month-old children.Journal of Neur olinguistics, 47, 123-130.   \nRama,P., Sirri,L.,& Serres,J. (2O13).Development of lexical-semantic language system: N40 priming effect for spoken words in 18- and 24-month old children. Brain & Language,125(1),1-10.   \nRayner,K.,Yang,J.,SchuettS.,& Slatery,T.J. (2O13).Eye movementsof older and younger readers when reading unspaced text. Experimental Psychology, 60(5), 354-361.   \nReid,V.M.,Hoehl,S.，Grigutsch,M.,Groendahl,A.,Parise,E.,& Striano,T. (2O9).The neural correlatesof 12 infant and adult goal prediction: Evidence for semantic processng systems. Developmental Psychology,45(3), 620-629.   \nSaffran,J.R.,Newport,E.L.,&Aslin,R.N.(1996).Word segmentation: The role of distributional cues.Journal of Memory & Language, 35(4), 606-621.   \nShafto,M.A.,& Tyler,L. K. (2O14).Language in the aging brain: The network dynamics of cognitive decline and preservation. Science,346(6209), 583-587.   \nSmith,L.，& Yu, C. (2Oo8). Infants rapidly learn word-referent mappings via cross-situational statistics. $C o$ （204号 gnition, 106(3), 1558-1568.   \nTorkildsen，J.K.，& Syversen，G.(2O07).Electrophysiological correlates of auditory semantic priming in 24-month-olds. Journal of Neurolinguistics,20(4),332-351.   \nVassileiou,B.,Meyer,L.,Beese,C.,&Friederici,A.D.(2O18).Alignment of alpha-band desynchronization with syntactic structure predicts successful sentence comprehension. Neuroimage,175, 286-296.   \nVerhaeghen, P. (2003). Aging and vocabulary scores: A meta-analysis. Psychology and Aging,18(2),332-339.   \nWels,J.B., Christiansen,M.H.，Race,D.S.,Acheson,D.J.,& Macdonald,M.C.(2009).Experience and sentence processing: Statistical learning and relative clause comprehension. Cognitive Psychology,58(2), 250-271.   \nWierenga, C.E.,Benjamin,.,Gopinath,K.,Perlstein,W..,Leonard,C..,Rothi,L.J..Crosson,B.（(2008). Age-related changes in word retrieval: Role of bilateral frontal and subcortical networks.Neurobiology of Aging,29(3),436-451.   \nYee,E.,& Thompson-Schill,S.L.(2016).Putting concepts into context. Psychonomic Bulletin & Review, 23(4), 1015-1027. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The acquisition, development and aging of semantic cognition and related neural mechanism ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "CHENG Shi-Jing; HE Wen-Guang (School of Educational, Qufu Normal University,Qufu 273165,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Semantic cognition is an important part of language systems,and thus the exploration of its development mechanism and the underlying neural mechanism is of great significance to reveal the development and cognitive mechanism of human languages. This paper focuses on the acquisition, development and aging of semantic cognition,and further explores the mechanism of aging in semantic cognition and related neural mechanism based on systematic elaboration of lexica-semantic acquisition and the development of semantic cognitive ability and strategy. Finally, discussions were made on the differences between children and adults in semantic cognition, syntactic and semantic cognitive aging, and the influencing factors of aging. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: Semantic processing; Semantic acquisition and development; Aging in semantic cognition; Neural mechanism ",
+        "page_idx": 13
+    }
+]

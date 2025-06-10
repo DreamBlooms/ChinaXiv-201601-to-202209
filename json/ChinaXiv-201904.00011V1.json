@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "基于Stein-Weiss函数的彩色掌纹特征识别算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴明珠」，陈 瑛」，李兴民²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．广州工程技术职业学院 信息工程系，广州 510075;2.华南师范大学 计算机学院，广州 510631)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对目前掌纹识别算法中对彩色掌纹图像的识别研究不多，提出一种新的基于 Stein-Weiss函数解析性质的BP 神经网络彩色掌纹图像的识别算法。首先为彩色掌纹图像中的每个像素点构建一个 Stein-Weiss 函数，再根据Stein-Weiss 函数的解析性，计算出相应像素的十六个特征值，将这些特征值输入到 BP神经网络的输入层，通过 BP神经网络的自学习能力对这些数据进行分类学习；然后通过 BP神经网络的泛化能力来获取掌纹边缘线；最后对掌纹边缘线提取成对几何特征建立特征库，通过成对几何直方图相交算法进行掌纹识别。实验结果表明，相对于以往的灰度掌纹图像识别算法，该算法能够更快地提取出更精细的掌纹线，识别率更高，并且对于旋转和噪声的干扰具有较强的鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：斯坦一韦斯函数；解析性；反向传播神经网络；掌纹识别；成对几何特征；鲁棒性 中图分类号：TP391.41 doi: 10.19734/j.issn.1001-3695.2018.10.0845 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Color palmprint feature recognition algorithm based on Stein-Weiss function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wu Mingzhu1, Chen Yin1, Li Xingmin² (1.Dept.of Information Enginering，Guangzhou Instituteof Technology，Guangzhou 51075，China;2.Schoolof Computer,South China Normal University, Guangzhou 510631, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Forthe problem ofthepalmprintrecognition algorithm had less research ontherecognitionofcolorpalmprint images,this paper proposed anew BP neural network color palmprint image recognition algorithm based on the analytical properties of Stein-Weissfunction.The proposed method firstconstructs a Stein-Weissfunction for each pixel inthecolor palmprint image.Then according to the analyticityofthe Stein-Weiss function,sixteen eigenvalues ofthecorresponding pixelare calculated.These eigenvalues areusedas theinput dataoftheBPneural network.These datacanbeclasified and learned through theself-learning abilityofBPneural network.Thenthepalmprint edge isobtained through generalization ability of BP neural network.Finaly,the pairwise atributes are extracted from palmprintedge,and the feature libraryis built.The palmprintisrecognizedbythepaired geometric histogramintersectionalgorithm.Theexperimentalresults show thattheproposed algorithmcan extract finer palmprintfasterand therecognitionrate is higher compared with the previous grayscal palmprint image recognition algorithm.And ithas strong robustnessto the interference ofrotation and noise. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: stein-weissfunction; analytic; bpneural network; palmprint recognition; pairwise atributes; robustness ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "掌纹识别是一种生物特征识别技术。与指纹、人脸等生物特征相比，掌纹面积相对较大，包含更多的个人信息，并且掌纹具有旋转不变性和唯一性，以及采集设备的成本低等优势[1]。近年来，它已广泛应用于科学技术领域，具有良好的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "掌纹识别算法的整个过程主要包括掌纹图像的采集，图像的预处理，掌纹特征的提取以及特征的匹配与识别[2]。其中，常用的掌纹特征提取算法主要包括基于掌纹结构的提取算法[3.4]，即基于点、线结构特征的提取，该方法简单明了，易于理解，但是提取结果决定于边缘检测和预处理效果，容易丢失细节。基于掌纹纹理的提取算法[5\\~7]，该方法利用掌纹纹理能量对掌纹进行描述，降低了计算量，但光照条件的改变将导致算法的稳定性。基于子空间的提取算法[8-10]，该方法从高维空间向低维空间转换，具有较强的特征描述能力和较高的识别率，但是会引起样本内离散度矩阵的奇异性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "而常见的掌纹匹配识别算法主要包括欧氏距离[8,II]、海明距离[12,13]、BP 神经网络[14,15]、支持向量机分类[16,17]等方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以上的掌纹提取与识别算法大部分是基于灰度的掌纹图像。然而，彩色掌纹图像比灰度图像所包含的信息更丰富，所以直接对彩色掌纹图像进行特征提取，获取到的个人信息会更多，更有利于生物识别工作。近些年发展起来的高维数学理论[18\\~21]，为人们直接提取彩色图像的特征提供了有利的工具。文献[18]利用四元数对彩色图像进行边缘检测与提取，这是将超复数应用于彩色图像研究的开端；文献[19]提出利用Clifford代数矢量积表示定理来提取掌纹线，但并不是直接对彩色图像进行的提取；文献[20]中则提出了基于八元数矢量积表示定理的彩色图像自动提取算法，实验结果表明能够提取出较精细的掌纹线，识别率也比较高。本文在文献[20]的研究基础上，提出了一种改进的掌纹识别算法。Stein-Weiss解析函数是高维函数理论，然而掌纹图像恰好具有多方向的特点，这为研究掌纹识别提供了适合的高维数学工具。而且与同是高维数学理论的八元数对比来看，Stein-Weiss比八元数解析性更好[21]，所以为了提取出来更精细的掌纹线，本文提出了基于Stein-Weiss函数解析性质的BP神经网络彩色掌纹图像的识别算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Stein-Weiss解析函数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stein和Weiss在高维的Hardy空间中推广解析函数，引进了Stein-Weiss 解析函数的定义如下[21]。设在 $R n$ 区域中的向量函数集 $F = \\left( { \\mu _ { 1 } , \\mu _ { 2 } , . . . , \\mu _ { n } } \\right)$ ，若F是该区域上实调和函数的梯度，则称F是该区域的Stein-Weiss解析函数，也称为共轭调和函数系[21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$F = \\left( { \\mu _ { 1 } , \\mu _ { 2 } , . . . . , \\mu _ { n } } \\right)$ 满足广义Cauchy-Riemann 方程[21]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { 1 } ^ { n } \\frac { \\hat { \\sigma } u _ { j } } { \\hat { \\sigma } x _ { j } } = 0 \\ , \\frac { \\hat { \\sigma } u _ { i } } { \\hat { \\sigma } x _ { j } } = \\frac { \\hat { \\sigma } u _ { j } } { \\hat { \\sigma } x _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特别 $\\scriptstyle n = 2$ 时， $\\scriptstyle { F = \\mathbf { u } + \\mathbf { i v } }$ 的解析充要条件是 $\\mathrm { ( u , v ) }$ 是Stein-Weiss 解析函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定理[22]设",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { 0 } } + e _ { 1 } \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { 1 } } + e _ { 2 } \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { 2 } } + e _ { 3 } \\frac { \\hat { \\sigma } } { \\hat { \\sigma } x _ { 3 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = f _ { 0 } + e _ { 1 } f _ { 1 } + e _ { 2 } f _ { 2 } + e _ { 3 } f _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则 $f D = D f = 0 \\Leftrightarrow { \\overline { { f } } } = \\left( f _ { \\mathrm { 0 } } , - f _ { \\mathrm { 1 } } , - f _ { \\mathrm { 2 } } , - f _ { \\mathrm { 3 } } \\right)$ 是 Stein-Weiss 解析函数,即左右 $\\mathrm { H } ^ { - }$ 解析函数为 Stein-Weiss 解析函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 BP神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用误差反向传播算法的BP神经网络，包括了两段学习过程[23]，第一个学习过程是信号的正向传播，首先输入信号，然后通过隐含层作用于输出层的节点，经过非线性变换，产生输出层每个节点的实际输出值；第二个学习过程是将输出误差进行反向传播，若前面的过程得到的实际输出值与理想的输出值不相符合，则通过隐含层向输入层逐层反传，递归地计算出误差，根据此误差来循环调整权值。这也是神经网络学习训练的循环过程[24]。具体算法过程包括以下主要组成部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模式顺传播过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将 BP神经网络定义为 $B P _ { n e t }$ ，样本输入向量$A _ { k } = \\left( a _ { 1 } , a _ { 2 } , \\cdots a _ { n } \\right)$ ，输出向量 $Y _ { k } = \\left( y _ { 1 } , y _ { 2 } , \\cdots y _ { q } \\right)$ 。在隐含层进行输入的向量 $\\boldsymbol { S } _ { k } = \\left( s _ { 1 } , s _ { 2 } , \\cdots s _ { p } \\right)$ ，输出的向量 $B _ { k } = \\left( b _ { 1 } , b _ { 2 } , \\cdots b _ { p } \\right)$ 。在输出层进行输入的向量 $L _ { k } = \\left( l _ { 1 } , l _ { 2 } , \\cdots l _ { q } \\right)$ ，输出的向量 $C _ { k } = \\left( c _ { 1 } , c _ { 2 } , \\cdots c _ { q } \\right)$ □其中， $k = 1 , 2 , \\cdots m$ 为样本数，输入层设置的节点数为 $\\mathfrak { n }$ ，隐含层设置的节点数为 $\\mathfrak { p }$ ，输出层设置的节点数为 ${ \\bf q } ^ { [ 2 3 ] }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从输入层到隐含层的权值设为 $w _ { i j } , i = 1 , 2 , \\cdots n , j = 1 , 2 , \\cdots , p$ ：从隐含层到输出层的权值设为 $\\nu _ { j t } , j = 1 , 2 , \\cdots p , t = 1 , 2 , \\cdots , q$ 。隐含层阈值为 $\\theta _ { j } , j = 1 , 2 , \\cdots p$ ，输出层阈值为 $\\gamma _ { { \\scriptscriptstyle t } } , t = 1 , 2 , \\cdots q$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隐含层输出：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { j } ^ { k } = f \\left( S _ { j } ^ { k } \\right) = \\frac { 1 } { 1 + e ^ { - S _ { j } ^ { k } } } , j = 1 , 2 , \\cdots p\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输出层输入：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { t } ^ { k } = \\sum _ { j = 1 } ^ { n } w _ { j t } b _ { j } - \\gamma _ { t } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输出层输出: $C _ { t } ^ { k } = f \\bigl ( L _ { t } ^ { k } \\bigr ) = \\frac 1 { 1 + e ^ { - L _ { t } ^ { k } } } , t = 1 , 2 , \\cdots q$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2误差反传播过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "把输出误差经过隐含层向输入层逐层进行反向传播，在这个过程中，误差沿梯度方向减小，并且对应于最小误差的权值和阈值在反复训练和学习后得以确定[24]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输出层权值调整量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\nu _ { j t } = - \\alpha \\Bigg ( \\frac { \\partial E _ { k } } { \\partial \\nu _ { j t } } \\Bigg ) = \\hat { \\sigma } \\delta _ { t } ^ { k } C _ { t } \\left( 1 - C _ { t } \\right) b _ { j } = \\alpha d _ { t } ^ { k } b _ { j } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha \\in ( 0 , 1 ) , t = 1 , 2 , \\cdots q , j = 1 , 2 , \\cdots p$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "输出层阈值调整量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta { \\gamma } _ { t } = - \\alpha \\Bigg ( \\frac { \\partial { E } _ { k } } { \\partial { \\gamma } _ { t } } \\Bigg ) = - \\alpha d _ { t } ^ { k }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隐含层到输入层连接权值调整量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta w _ { i j } = - \\beta \\Bigg ( \\frac { \\partial E _ { k } } { \\partial w _ { i j } } \\Bigg ) = \\beta e _ { j } a _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "隐含层阈值调整量为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\theta _ { j } = - \\beta \\Bigg ( \\frac { \\hat { \\sigma } E _ { k } } { \\hat { \\sigma } \\theta _ { j } } \\Bigg ) = - \\beta e _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每个节点的权值调整与每个学习样本的误差 $E _ { k }$ 成比例,这种思想即为标准误差反向传播算法。但是如果把所有学习样本的全局误差全部输入到网络后再统一进行连接权值的调整，这种思想即为累积误差反向传播算法[25]，本文使用的就是全局误差，其计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { k } = \\sum _ { t = 1 } ^ { m } E _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3记忆训练 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将一组样本输入网络后反复进行学习训练，通过调整网络参数即权值和阈值来控制实际输出值在规定的范围内。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4学习收敛 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "网络的全局误差通过多次训练之后趋于最小值。在训练过程中，为了避免收敛到局部最小点，本文将一个小随机数添加到每个权值上，并且适当改变隐含层单元的个数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 基于Stein-Weiss解析性的BP神经网络彩色掌纹提取算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为在二维彩色掌纹图像数据中掌纹的分布方向大多数是垂直或者倾斜的，所以在算法中综合考虑了图像像素点在斜方向和垂直方向的结构特征，即使用了六邻域结构。然后将依据Stein-Weiss函数解析性质所得到的特征值输入到BP神经网络的输入层进行反复训练，最终得到彩色图像掌纹线的提取结果。具体算法步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)自动获取BP神经网络的训练样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用文献[20]中所提出的方法，使用四种传统边缘检测算子提取掌纹样本图像的边缘图像，然后将它们进行“或”运算融合并膨胀，最后将膨胀后的掌纹边缘图片作为BP 神经网络的训练样本[20]。输入样本向量进行训练，直至误差达到设定阈值时停止，并将权值和阈值进行保存。实验结果如图1所示，图中(a)为掌纹原图，(b)为对原图进行融合和膨胀之后得到的边缘图，将其作为网络的训练样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e60e7bf97d74102779f194d08ded67914462daae8ddb3ae7f16f56d69f944e0a.jpg",
+        "img_caption": [
+            "图1BP网络的训练图像和目标图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Training image and targetimage ofBP networkb)定义像素的 Stein-Weiss 函数。六维向量空间的向量函数定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( x \\right) = f _ { 1 } e _ { 1 } + f _ { 2 } e _ { 2 } + f _ { 3 } e _ { 3 } + f _ { 4 } e _ { 4 } + f _ { 5 } e _ { 5 } + f _ { 6 } e _ { 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(11)中向量函数虚部e1,e2,e3,e4,e5,e6上对应的数值是彩色图像像素点的R、G、B、H、S、I分量值。其中",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$x _ { 1 } e _ { 1 } + x _ { 2 } e _ { 2 } + x _ { 3 } e _ { 3 } + x _ { 4 } e _ { 4 } + x _ { 5 } e _ { 5 } + x _ { 6 } e _ { 6 }$ ， $( { \\bf x } _ { 1 } , { \\bf x } _ { 2 } , { \\bf x } _ { 3 } , { \\bf x } _ { 4 } , { \\bf x } _ { 5 } , { \\bf x } _ { 6 } )$ 为像素点的坐标； $f _ { I , f _ { 2 } , f _ { 3 } , f _ { 4 } , f _ { 5 } , f _ { 6 } }$ 分别是彩色掌纹图像像素的R、G、B、H、S、I分量值。如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/46880c40e835d32fff4c18312d10705d7717b92af56d9536d05009c3c4845280.jpg",
+        "img_caption": [
+            "图2像素的6邻域示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)获取特征值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将向量函数 $\\operatorname { f } ( \\mathbf { x } )$ 代入广义Cauchy-Riemann式，并应用差分形式得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { 6 } \\frac { \\hat { \\sigma } f _ { j } } { \\hat { \\sigma } x _ { j } } = 0 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\hat { \\sigma } f _ { i } } { \\hat { \\sigma } x _ { j } } { = } \\frac { \\hat { \\sigma } f _ { j } } { \\hat { \\sigma } x _ { i } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathrel { \\mathop : } i \\not = j$ 。当然实际图像的解析性不会都完全符合上面的公式，根据Stein-Weiss函数的解析性定理，使用恰当的阈值T来判断该像素点是否满足解析性。因为边缘点是不满足解析性的，因此将得到的式（12）（13）改写成",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na - \\sum _ { j = 1 } ^ { 6 } \\frac { \\hat { \\sigma } f _ { j } } { \\hat { \\sigma } x _ { j } } = 0 \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { i j } = \\frac { \\hat { \\sigma } f _ { i } } { \\hat { \\sigma } x _ { j } } - \\frac { \\hat { \\sigma } f _ { j } } { \\hat { \\sigma } x _ { i } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "把式(14)(15)展开得到的 $a$ 和 $b _ { i j }$ ，其中 $i , j = 1 \\cdots 6 , i < j$ ，一共16 个值分别作为图像的16个特征值 $a _ { 0 } , a _ { 1 } , \\cdots a _ { 1 5 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)提取掌纹边缘线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择待识别的彩色掌纹图像，提取该图像的特征值$a _ { 0 } , a _ { 1 } , \\cdots a _ { 1 5 }$ ，以这16个值输入到BP网络的输入层，所以输入层有16个节点，利用步骤a)已经训练好的网络对输入向量进行训练，直到误差收敛到指定值，最后输出的即为掌纹提取结果。输出的结果是二值图，所以输出层有2个节点。本文隐含层的单元数设为8。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4基于成对几何特征直方图的掌纹匹配算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过上述改进算法，可以提取出彩色掌纹图像的边缘，如何基于提取出来的边缘特征进行掌纹的识别就是接下来的重点工作。本文利用几何不变特性的成对几何特征[26]，即有向相对角和有向相对位置来建立特征库，并利用成对几何特征直方图的相交算法来进行图片的匹配识别。具体算法过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1成对几何特征向量的构造。",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文利用Stein-Weiss解析性与BP神经网络相结合提取出彩色掌纹边缘，提取结果为二值图。首先本文利用文献[26]中改进的霍夫变换算法来对上述得到的二值图进行掌纹边缘的线性特征的提取，然后引入成对几何特征即有向相对角和有向相对位置[26来构造掌纹边缘的特征向量，如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）构造有向相对角特征向量将任意两条线段表示成向量 $\\overrightarrow { x _ { a b } }$ 和 $\\overrightarrow { x _ { c d } }$ 方向是指向远离交点的。相对角特征公式如下所示[26]：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { _ { X _ { a b } , \\overrightarrow { X _ { c d } } } } = \\operatorname { a r c c o s } \\left[ \\frac { \\overrightarrow { x _ { a b } } \\cdot \\overrightarrow { x _ { c d } } } { \\left| \\overrightarrow { x _ { a b } } \\right| \\left| \\overrightarrow { x _ { c d } } \\right| } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如果两条线段之间的夹角方向是顺时针，那么有向相对角的符号就是正号，反之，就是负号。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e64b554ff38205419b56f248b28b1354fe844e999d67fa35b4ed3dc552266ac.jpg",
+        "img_caption": [
+            "Fig.2Six neighborhood map of pixels ",
+            "图3成对几何特征",
+            "Fig.3Paired geometric features "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）构造有向相对位置特征向量如图2所示，有向相对位置特征公式如下所示[26]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { S } _ { _ { X _ { a b } } , _ { X _ { c d } } } = \\frac { 1 } { \\displaystyle \\frac { 1 } { 2 } + \\frac { D _ { i b } } { D _ { a b } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2成对几何特征直方图的构造",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "构造好上述成对几何特征向量之后，为了方便进行匹配，利用二维特征直方图来统计它们。计算二维特征直方图单元的公式如下所示[26]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH { \\left( \\theta _ { i j } , \\mathcal { S } _ { i j } \\right) } = \\left\\{ \\begin{array} { l l } { H { \\left( \\theta _ { i j } , \\mathcal { S } _ { i j } \\right) } + 1 \\quad } & { i f \\quad \\quad e _ { i j } \\in E } \\\\ { H { \\left( \\theta _ { i j } , \\mathcal { S } _ { i j } \\right) } \\quad } & { o t h e r w i s e } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：i和j表示掌纹边缘图像中提取出的两条线段，E表示边集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3直方图相交匹配算法[26] ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了方便匹配，将4.2节中的二维特征直方图按行扫描，进行降维，得到一维直方图；然后将两幅掌纹图像所对应的直方图A和B进行归一化处理，得到 $\\mathfrak { n }$ 个单元。利用以下式(19)来计算两个直方图之间的距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd = 1 - \\sum _ { i = 1 } ^ { n } \\operatorname* { m i n } ( A _ { i } - B _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$d$ 值的范围在[0,1]内，它的大小决定了两幅图像的相似性，即越小越相似。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文是在Window7系统上做的实验，算法是使用VisualStudio和MATLAB7.0编程工具来实现。为了验证实验效果，采集了60个人，每个人4张彩色掌纹图像作为样本集，大小均是 $^ { 1 2 8 ^ { * } 1 2 8 }$ 。将这些样本分别运用本文所提出的彩色掌纹特征提取与匹配算法进行掌纹边缘特征提取，以及构造成对几何特征直方图，从而建立彩色掌纹特征库。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.1彩色掌纹线提取实验结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别使用四种传统的边缘提取算子（即Canny 算子、Robert 算子、Sobel算子和Prewitt 算子)，以及文献[18]中的四元数解析性结合BP神经网络，文献[20]中的八元数解析性BP神经网络，和本文中的Stein-Weiss解析性BP神经网络这七种算法分别进行彩色掌纹边缘的提取，实验结果如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d74b5f3f3c52dc0264001012ad9f0a01e868e5229b39afedf2bfc1526f1bc9e1.jpg",
+        "img_caption": [
+            "图4七种算法提取掌纹边缘效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因为上述四种传统的边缘提取算子进行掌纹边缘提取之前需要将彩色掌纹图像转换成灰度图，所以这个过程已经丢失了部分信息，由上面的实验效果图可以看出，利用图4（c)\\~(f)传统的四种边缘算子所提取出来的掌纹边缘明显没有图（b）（g）（h）的边缘信息丰富。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "而四元数、八元数以及本文提出的Stein-Weiss解析函数都可以直接对彩色掌纹原图进行边缘提取，将这三种算法进行比较，由上述实验结果图可以看出，图4（g）的四元数解析性结合BP神经网络算法提取出来的掌纹边缘，明显没有图4（b）（h）另外两种算法提取的边缘信息丰富和清晰。而由图 4(b)与 (h)的效果图对比来看，本文所提出的算法又会比八元数解析性BP神经网络算法提取出来的掌纹要更加精细，比如图4(b)中用红圈圈出来的掌纹细节在图4(h)的相同位置中就不够清晰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2彩色掌纹线识别的实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1）识别算法的整体性能测试将本文提出的掌纹特征提取与识别算法和文献[20]中提出的基于八元数的彩色掌纹特征提取与识别算法分别用图4(a)的样本图片对各自建立好的特征库进行匹配识别操作。同时采用文献[27]中近年来比较热门的卷积神经网络识别算法来进行掌纹线的识别（学习率取0.03，卷积核的数量为50)。三种算法最终识别的性能比较如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/01da47b7c0eaa0ba28065280cc290ca894fb3bfbfadb1a625708b438053bd170.jpg",
+        "table_caption": [
+            "Table 1 Comparison of recognition performance between three "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">algorithms</td></tr><tr><td>算法</td><td>拒真率%认假率%识别成功率%</td><td></td><td></td><td>平均运行时间/s</td></tr><tr><td>文献[20]算法</td><td>0</td><td>4</td><td>96</td><td>7.004</td></tr><tr><td>文献[27]算法</td><td>0</td><td>0.9</td><td>99.1</td><td>210</td></tr><tr><td>本文算法</td><td>0</td><td>1.1</td><td>98.9</td><td>5.324</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上述实验表1数据可以看出，相对于文献[20]的掌纹识别算法而言，本文所提出的掌纹识别算法的识别成功率和运行效率都较高。因为本文所使用的Stein-Weiss解析性比八元数的解析性更好，而且输入的特征值向量更多，因此提取到的边缘信息会更丰富。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然文献[27]的识别率相对于本文算法稍高，但是因为卷积网络需要训练的时间比较长，所以总体的运行时间比文本的算法要多很多，所以从识别率和运行时间综合考虑的情况下，本文提出的掌纹识别算法还是优于卷积神经网络识别算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）识别算法的鲁棒性测试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在掌纹的匹配与识别过程中，使用的是基于几何不变特性的成对几何特征来进行地识别，其对于旋转变化以及噪声干扰都具有较高的鲁棒性，具体实验测试如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先将测试原图4(a)进行逆时针旋转 $3 0 ^ { \\circ } .$ $4 5 ^ { \\circ } { \\cdot } 6 0 ^ { \\circ }$ ，如图5(a)(b)(c)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/934c6986abaafd3eba8f1724ff982038c5ef130a2c826c85933e7645d90f005c.jpg",
+        "img_caption": [
+            "Fig.4Seven algorithms to extract palmprint edge effects ",
+            "图5测试原图进行旋转不同角度效果图",
+            "Fig.5Effect chart of rotating the original test image at differen angles "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将本文提出的掌纹特征提取与识别算法、文献[20]中提出的基于八元数的彩色掌纹特征提取与识别算法以及文献[27]提出的卷积神经网络的掌纹识别算法，分别用图5(a)(b)(c)作为样本图片对各自建立好的特征库进行匹配识别操作，三种算法最终的识别性能比较如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2三种算法对于旋转鲁棒性的识别性能比较",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4604ff3d2924b95c7387ea26965b2a6c5c435caefcc319ceeff51b4de2323d9.jpg",
+        "table_caption": [
+            "表1三种算法的识别性能比较",
+            "Table 2 Comparison of recognition performance between three "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">algorithms for rotational robustness</td></tr><tr><td>算法</td><td>成功率%</td><td>旋转30°识别旋转45°识别 成功率%</td><td>旋转60°识别 成功率%</td></tr><tr><td>文献[20]算法</td><td>83.8</td><td>78.5</td><td>71.2</td></tr><tr><td>文献[27]算法</td><td>98.9</td><td>98.5</td><td>97.6</td></tr><tr><td>本文算法</td><td>98.5</td><td>97.8</td><td>97.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上述实验表2数据可以看出，相对于文献[20]的掌纹识别算法，本文所提出的掌纹识别算法和文献[27的掌纹识别算法对于旋转的鲁棒性，其识别成功率远大于文献[20]的识别算法。然而虽然文献[27]的识别率较高，但是由表1已经可以看出卷积神经网络识别算法需要花费大量的训练时间。再次，对测试原图4(a)分别加上不同参数的高斯噪声干扰，如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c946668af83f0a1efaec3e9bd0f8707fbf5f5d33dab2d59538b5c0749c3cdd92.jpg",
+        "img_caption": [
+            "图6测试原图加入不同参数的高斯噪声干扰效果图Fig.6Effect chart of adding different parameters of gauss noisejamming to the original chart"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将本文提出的掌纹特征提取与识别算法、文献[20]中提出的基于八元数的彩色掌纹特征提取与识别算法以及文献[27]提出的卷积神经网络的掌纹识别算法，分别用图6(a)(b)作为样本图片对各自建立好的特征库进行匹配识别操作，三种算法最终的识别性能比较如表3所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3三种算法对于噪声鲁棒性的识别性能比较 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b90f3e8760fb51000fdc691c0b5cf4f7f81fecbf9e73465ca1fd1a4b830a50e.jpg",
+        "table_caption": [
+            "Table 3Comparison of recognition performance between three "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">algorithms for noise</td><td>robustness</td></tr><tr><td>算法</td><td>图6(a)识别成功率/%</td><td>图6(b)识别成功率/%</td></tr><tr><td>文献[20]算法</td><td>86.4</td><td>80.2</td></tr><tr><td>文献[27]算法</td><td>98</td><td>97.6</td></tr><tr><td>本文算法</td><td>93.2</td><td>90.6</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由上述实验表3数据可以看出，相对于文献[20]的掌纹识别算法，本文所提出的掌纹识别算法和文献[27]的掌纹识别算法对于噪声干扰的鲁棒性，其识别成功率也大于文献[20]的识别算法。然而虽然文献[27的识别率较高，但是由表1已经可以看出卷积神经网络识别算法需要花费大量的训练时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文使用了高维数学工具Stein-Weiss解析函数与BP神经网络相结合，对彩色掌纹图像直接进行边缘特征提取，同时对提取出来的掌纹边缘特征构造成对几何直方图特征向量来进行掌纹识别。通过实验测试分析比较，可以看出本文提出的掌纹提取与识别算法不仅提取出来的掌纹边缘信息丰富并且清晰，而且在保证较快的运行速度的前提下也能保障较高的识别率，尤其是对于旋转和噪声干扰的鲁棒性也较强。当然从提取出来的掌纹边缘图中也可以看到一些噪声点，因此接下来的研究方向就是如何在保证边缘提取的精度和识别效率的前提下，进一步提高算法的抗噪性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]张鹏．基于特征提取的掌纹识别[D].北京：北京理工大学，2016. (Zhang Peng.Palmprint recognition based on feature extraction [D]. Beijing:Beijing Institute of Technology,2016.)   \n[2]赵丹丹，基于深度学习的掌纹识别算法研究[D].呼和浩特：内蒙 古农业大学,2O16.(Zhao Dandan.Palmprint recognition based on deep learning [D].Hohhot: Inner Mongolia Agricultural University,2016.)   \n[3]康冰，刘富，魏祺鞾．基于光谱融合的掌纹精细纹路提取[J].吉林 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "大学学报:工学版,2015,45(4):1274-1280.(Kang Bing,Liu Fu,Wei Qiwei.Palmprint fine line feature extraction based on spectral fusion [J]. Journal of Jilin University:Engineering and Technology Edition,2015, 45(4): 1274-1280. ) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[4] 李梦雯．基于联合边缘和方向特征的掌纹识别 [D].合肥：安徽大 学,2018.(Li Mengwen. Palmprint recognition based on local joint edge and orientation patterns [D]. Hefei: Anhui University, 2018.）   \n[5] Kang Wenxiong.Palm vein verification using multiple features and locality preserving projections [J]. The scientific world journal,2014,9 (11): 1024-1028.   \n[6]梅支礼，陶海军，王加强.Gabor 滤波器的掌纹特征提取研究[J]．中 国计量学院学报,2015,26(3):347-352.(Mei Zhili,Tao Haijun,Wang Jiaqiang. Study of Gabor filters on palmprint feature extraction [J]. Journal of China University of Metrology,2015,26 (3): 347-352.)   \n[7]Aykut M,Ekinci M.Developing a contactless palmprint authentication system by introducing a novel ROI extraction method [J]. Image & Vision Computing,2015,40(8): 65-74.   \n[8] 吴婕，任江涛．基于子空间特征融合的两级掌纹识别算法[J].计算 机工程与应用,2015,51(11):175-178.(Wu Jie,Ren Jiangtao.Two level palmprint recognition algorithm based on subspace features [J]. Computer Engineering and Applications,2015,51(11): 175-178.)   \n[9]申莎莎．基于Curvelet 稳定特征曲面的掌纹识别新方法[J].华东师 范大学学报:自然科学版 2015(3):98-104.(Shen Shasha.A novel palmprint recognition algorithm based on Curvelet invariant features of the surface [J]. Journal of East China Normal University:Natural Science,2015(3): 98-104.)   \n[10]邢瑞．图像特征提取算法在掌纹识别中的应用研究[D].长春：吉林 大学,2017.(Xing Rui. Research of image feature extraction algorithm in the application of palmprint recognition [D]. Changchun: Jilin University, 2017. )   \n[11]王连加．基于PCA-LBP特征的掌纹识别研究[J].计算机仿真,2010, 27(11):254-257.(Wang Lianjia.Palmprint recognition based on principle analysis charact and local binary pattern [J].Computer Simulation,2010,27(11): 254-257.)   \n[12]徐承爱，林伟，肖红．一种基于加权海明距离的自适应遗传算法[J]. 华南师范大学学报:自然科学版,2015,47(6):121-127.(Xu Chengai, Liu Wei, Xiao hong. An adaptive genetic algorithm based on weighted hamming distance [J]. Journal of South China Normal University: Natural Science Edition,2015,47(6): 121-127.)   \n[13]李丽颖，苏变萍，张彦博，等．基于海明距离的区间三角模糊多属性 决策问题[J]．数学的实践与认识,2016,46(17):106-111.(Li Liying, SuBianping，Zhang Yan-bo，etal.Interval triangularfuzzy multiple-attribute decision making method based on hamming distance [J].Mathematics in practice and theory,2016,46 (17): 106-11.)   \n[14]陈智，黄琳琳．基于ICA和BP 神经网络相结合的掌纹识别[J]．北 京航空航天大学学报，2008(3):290-294.(Chen Zhi，Huang Linlin. Palmprint recognition based on ICA an BP neural network [J]. Journal of Beijing University of Aeronautics and Astronautics, 2008(3): 290-294.)   \n[15]戚爽．掌纹图像识别中BP神经网络的运用[J].信息通信,2016(10): 24-25.(Qi Shuang. Application of BP neural network in palmprint recognition [J]. Information &Communications,2016 (10): 24-25.）   \n[16]李明昊．基于Gabor 小波和支持向量机的掌纹识别算法的研究[J]. 呼和浩特：内蒙古农业大学，2011.(Li Minghao.The research on palmprint recognition using gabor wavelet and support vector machine [J].Hohhot: Inner Mongolia Agricultural University,2011.)   \n[17]李昆仑，张亚欣，刘利利，等．基于改进PCA和支持向量机的掌纹 识别[J].计算机科学，2015,42(S2):146-150.(Li Kunlun，Zhang Yaxin,Liu Lili,et al.Palmprint recognition based on improved PCA andSVM[J].Computer Science,2015,42(S2):146-150.)   \n[18]崔建明，刘建明，廖周宇．基于SVM算法的文本分类技术研究[J] 计算机仿真,2013,30(2):299-302,368.(Cui Jianming,Liu Jianming, Liao Zhouyu.Research of text categorization based on support vector machine [J].Computer Simulation,2013,30(2): 299-302,368.)   \n[19]吴涌彬，李兴民．基于Clifford 代数矢量积的掌纹提取方法[J].计 算机与现代化，2012(5):45-47，54.(Wu Yongbin，Li Xingmin. Palmprint extraction method based on clifford algebra vector product [J].Computer and Modernization,,2012(5): 45-47,54.)   \n[20]黄国恒，李兴民．基于八元数的彩色掌纹特征提取与识别算法[J]. 计算机工程,2012,38(22):28-33.(Huang Guoheng,Li Xingmin.Color palmprint feature extraction and recognition algorithm based on octonion [J].Computer Engineering,2012,38(22): 45-47,54.)   \n[21]李兴民．八元数分析[D].北京：北京大学，1998.(LiXingmin.The octonion analysis [D].Beijing:Beijing University,1998.)   \n[22]吴明珠，王晓婵，李兴民．利用Stein-Weiss解析函数性质的3维血管 分割[J].中国图象图形学报，2016.21(4):434-441.(WuMingzhu, Wang Xiaochan,Li Xingmin.New 3D vessel segmentation algorithm using the stein-weiss analytic function properties [J].Journal of Image ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and Graphics,2016.21 (4): 434-441.)   \n[23]马阳．八元数与BP神经网络在肝脏血管分割中的应用[D]．广州： 华南师范大学,2014.(Ma Yang.The application of octonion and BP neural network in liver vessel segmentation [D],Guangzhou: South China Normal University,2014.)   \n[24]李春蕾，李想．城镇控制测量中GPS高程拟合分析[J].测绘与空间 地理信息,2012(8):173-174.(Li Chunlei,Li Xiang.Analysis of GPS height fitting in town control survey [J].Geomatics& Spatial Information Technology,2012(8):173-174.)   \n[25]刘恩东．基于BP神经网络的管道缺陷识别[J]．电子技术与软件工 程,2017(2):11-12.(Liu Endong. Pipeline defect recognition based on BP neural network [J]. Electronic Technology& Software Engineering, 2017 (2): 11-12.)   \n[26]吴明珠．利用成对几何特征直方图改进基于轮廓的图像检索[D]. 广州：暨南大学,20o6.(Wu Mingzhu.Improvement of contour-based image retrieval using pairwise geometric histogram [D],Guangzhou: Jinan University,2006.)   \n[27]王作为．基于卷积神经网络的掌纹识别[D].青岛：青岛理工大学, 2017.(Wang Zuowei.Palmprint recognition based on convolutional neural network [D]. Qingdao:Qingdao University of Technology, 2017.) ",
+        "page_idx": 5
+    }
+]

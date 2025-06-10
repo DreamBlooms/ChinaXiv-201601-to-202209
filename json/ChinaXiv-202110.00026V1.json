@@ -1,0 +1,710 @@
+[
+    {
+        "type": "text",
+        "text": "城市绿色基础设施生态系统服务供需关系及空间优化以西安市为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘维，周忠学，郎睿婷(陕西师范大学地理科学与旅游学院，陕西 西安710119)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：维持城市生态系统服务供需平衡是建设宜居城市、提高城市居民福祉的基础，同时对区域经济与可持续发展具有重要意义。以西安市建成区为例，基于2018年遥感数据、统计数据和实地调研等多源数据，构建粮食需求、水资源需求、固碳释氧、空气净化、高温调节、减弱噪声和休闲娱乐服务需求测算模型，并应用ArcGIS等分析工具,对研究区城市绿色基础设施(Urban green infra-structure,UGI)服务供需空间匹配关系进行评估和分析，最后运用最小累积阻力模型识别生态源地和生态廊道，对西安市UGI空间格局进行优化。结果表明：(1）西安市建成区UGI分布不均匀，破碎化程度高,连通性较差。UGI提供的生态系统服务总价值小于居民对服务需求总价值,在空间上表现为显著不匹配性。(2)不同生态系统服务供需匹配状况存在差异，高温调节服务、空气净化服务和休闲娱乐服务供大于求，匹配状况较好；粮食供给、固碳释氧、水源涵养和减弱噪声服务供小于求，供需赤字。(3)研究区生态系统服务供需具有显著空间异质性，随着人口集聚程度的提高，大部分生态系统服务(如高温调节、减弱噪声等)供需的空间匹配程度显著下降，在空间上表现为由城市中心的严重失调向边缘的良好匹配渐变。(4)研究区生态源地斑块面积较小，破碎化程度高，连接度低，UGI网络缺乏主干生态廊道。通过构建由沿渭河、秦岭北麓2个生态走廊，沣河、潏河、灞河等7个生态保育区及沿道路绿化带等组成的UGI网络，可使生态系统服务供需空间关系更趋协调。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态系统服务；绿色基础设施；供需关系；空间格局优化；西安市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城市绿色基础设施(Urban green infrastructure,UGI)是指城市内部及周边天然或人工的绿色空间网络1，不仅包括森林、草地和农场，还包括水域、可重新修复或开垦的矿厂、原生土地等，他们通过廊道连接成为网络空间[2-4],为城市提供自然景观和生态系统服务。在150a前美国在自然规划活动中已经提出了绿色基础设施(Greeninfrastructure,GI)的雏形。1960s—1990s随着生态学、景观生态学、景观规划等学科理论和方法的不断发展，学者们进一步提出了生态网络和生态廊道等概念，促进了GI网络结构研究的发展[5]。21世纪初，欧洲一些国家为提高城市生物多样性等功能，推动了GI在城市环境规划中的实践应用[6。国际上对UGI服务的研究集中在文化服务[7]、固碳服务[8]、洪水调节[9]、气候变化[10]和生物多样性保护等方面。近年来随着我国对城市生态建设的重视，国内对UGI也开展了大量的研究，主要集中在UGI的识别和优化[12]生态修复设计[13]、生态绿化带的划定[14]等方面。UGI是城市内部自然景观和生态系统的主要构成部分，也是城市生态系统服务的主要供给者，对城市生态具有关键的\"基础作用”。但目前对UGI及其生态系统服务方面的研究还较为缺乏，尤其是在UGI的生态系统服务测算、供需关系及空间格局优化等方面有待进一步深入研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近十几年来国外学者在生态系统服务供需理论和应用方面做了大量研究。如Cotinovis等i5基于绩效分析方法绘制了城市转型过程中生态系统服务供需价值综合地图，进行了定量的空间分析；Lo-rilla等[6]对希腊西海岸爱奥尼亚群岛内的粮食供给、气候调节和休闲娱乐服务供需价值进行了空间匹配度分析;Bukvareva等[7]提出了空气和水资源净化服务供需评估方法，分析了生态系统服务供给、需求和消费之间的关系。国内对生态系统服务供需研究尚处于起步阶段，谢高地等8基于计量经济学及生态系统服务理论研究，提出了“生态系统服务生产一消费一价值化\"的分析框架，为生态系统服务消费理论研究提供了基础。此后，严岩等[9]分析了生态系统服务供给、需求和消费的内涵、特征。刘慧敏等[20和肖玉等21对生态系统服务传递载体进行了分析，有利于准确识别生态系统服务供给和需求的热点区域。近几年，学者们开始结合不同区域特征对多种生态系统服务供需空间关系进行研究，如刘立程等[22]对兰州市的生态系统服务供需匹配状况进行了分析和评价；王壮壮等[23]通过绘制陕西省产水服务供需图，对生态系统服务供需风险时空特征进行了评估。但目前对生态系统服务需求测算仍缺乏统一的量化评估方法，指标选取存在困难，如对休闲娱乐、空气净化、固碳释氧、生物多样性保护等服务需求的表征指标选取及测算方法仍是难点，对生态系统服务供给尤其是生态系统服务需求的空间制图处于探索阶段[24]。在空间尺度上,生态系统服务供需关系研究多基于区域25、国家等大尺度，而对生态系统服务需求高度密集、供需矛盾尖锐的城市建成区内生态系统服务供需关系研究不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究结合西安市快速发展过程中存在的自然景观不足、热岛效应明显、水资源短缺、碳排放量高、污染严重等突出的城市生态问题，选取粮食生产、固碳释氧、水源涵养、空气净化、高温调节、减弱噪声及休闲娱乐等7类典型生态系统服务，构建供给与需求测算模型，基于 $3 0 ~ \\mathrm { m } { \\times } 3 0 ~ \\mathrm { m }$ 栅格单元，对UGI服务的价值进行测算及供需关系分析。在此基础上，构建最小累积阻力模型，识别本区的生态源地与生态廊道，提出UGI格局优化方案，这对实现西安市土地资源有效配置、宜居环境建设、构建城市生态安全格局以及推动城市生态文明建设具有重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西安市地处关中平原中部，主要由秦岭山地、渭河平原和黄土台塬等多种地貌构成，境内地势由西南向东北方向倾斜，海拔高度差异较大，属温带半湿润大陆性气候，四季分明。近几十年来，随着西部大开发战略、“一带一路\"倡议、关天经济区规划等的实施，西安市城镇化速度不断加快，城市人口大规模集聚，城市用地快速扩张。2019年末西安市常住人口达 $1 0 2 0 . 3 5 \\times 1 0 ^ { 4 }$ 人，人口城镇化率$7 4 . 6 1 \\%$ ,建成区面积达 $7 2 9 . 1 4 ~ \\mathrm { k m } ^ { 2 }$ ,近10a增幅达$8 4 . 6 \\%$ 。近年来，随着西安绿色发展示范城市及生态型城市的建设，尽管城市绿地面积大幅增加，2018年达到 $3 1 6 8 1 \\ \\mathrm { h m } ^ { 2 }$ ,人均绿地面积 $9 . 9 8 ~ \\mathrm { m } ^ { 2 }$ ，但仍低于全国人均绿地面积 $1 4 . 1 \\ \\mathrm { m } ^ { 2 }$ 的水平。在空间分布上表现为中心城区和老城区少，城郊相对较多，与人口及经济的空间分布格局不相匹配。UGI是城市结构中重要的自然因素，影响着生态系统服务功能的变化[26],影响着城市居民的生活质量及健康[27-28]因此，探讨UGI生态系统服务供需价值及其空间关系，优化西安市UGI空间格局，对解决城市发展面临的生态环境问题，将西安市建设成为幸福感更高、更宜居的城市具有较大的实践意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究区为西安市建成区，具体范围以建设用地超过 $6 0 \\%$ 的区域2并结合西安市城市总体规划（2008一2020年）、西安城市绿地系统规划等来综合确定(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源及处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区UGI数据是基于ArcGIS10.2软件对2018年西安市“高分一号\"影像进行目视解译，并参考野外调研、近年西安市土地利用变化状况修正获得(图1)，像元 $3 0 \\mathrm { m } { \\times } 3 0 \\mathrm { m }$ 。气温数据来源于Land-sat8OLI数据，应用ENVI软件中的大气校正模块进行地表温度反演获得。社会经济数据来自于《西安统计年鉴2019》，粮食作物价格来自《中国农村统计年鉴》，人口数据来自全国第六次人口普查数据，并参考闫庆武等29基于居民点密度的方法进行人口",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa48dabf171658425494bc10a6acd2aeb2a86587cc132309239d0099869aa945.jpg",
+        "img_caption": [
+            "图1西安市城市绿色基础设施(UGI)分布 Fig.1UGI distribution of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "空间化。噪声数据来自《2018年西安市环境状况公报》，并根据西安市城市功能分区通过插值法进行空间化。空气质量数据来自中国空气质量监测分析平台（https://www.aqistudy.cn/）,连续获取2018年日数据，在ArcGIS10.2中通过插值法空间化",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1生态系统服务供给测算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1高温调节服务城市内部因建筑物、道路等高蓄热体密集、废热排放、热量扩散不畅等原因形成热岛效应，绿色植被及水体通过遮荫、蒸腾蒸发作用可降低周围气温，形成高温调节服务。高温调节服务供给可通过UGI所覆盖近地面大气温度与最高气温的差值，再综合夏季居民空调降温耗能价值进行测算。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { i } = C \\times \\left( T _ { \\mathrm { 1 } } - T _ { \\mathrm { 1 } } \\right) \\times S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\scriptscriptstyle i } = \\left( D _ { \\scriptscriptstyle i } - 6 . 3 6 5 5 \\right) \\big / 1 . 1 3 7\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $S _ { i }$ 表示栅格 $i$ 上高温调节服务供给价值(元);$T _ { _ { 1 } }$ 为研究区夏季近地面最高温度 $( \\mathcal { C } ) : D _ { i }$ 为栅格 $i$ 上实际地表温度 $( \\operatorname { \\mathrm { ‰ } }$ （通过遥感数据进行地表温度反演获得）； $T _ { i }$ 为栅格 $i$ 上的近地面大气温度 $( \\mathrm { { } ^ { \\circ } C ) }$ ，计算公式(2)参考韩秀珍等[30的研究； $C$ 为单位空间人工降温花费（元· $\\mathcal { C } ^ { - 1 }$ )(参考李梦桃等[31]的研究）;S为单位栅格面积 $\\left( \\mathbf { m } ^ { 2 } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2其他生态系统服务测算本研究中的其他生态系统服务主要包括粮食生产、水源涵养、固碳释氧、空气净化、减弱噪声、休闲娱乐等服务，其供给参考已有成果测算[32-35]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生态系统服务需求测算 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1粮食需求测算城市居民对粮食的消费构成粮食需求。本研究采用人均粮食需求量来估算粮食需求服务。测评中依据主要粮食价格进行价值化，然后通过人口密度图进行空间化处理。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ i } { = } W { \\times } P _ { _ \\mathrm { p o p } } { \\times } a\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { i }$ 表示栅格 $i$ 上的粮食需求服务价值(元); $W$ 为人均粮食需求量 $( \\mathbf { k g } \\cdot \\mathbf { \\lambda } \\mathbf { \\lambda } \\mathbf { \\lambda } ^ { - 1 } )$ ： $P _ { \\mathrm { p o p } }$ 为人口密度（人·栅格-1); $\\mathbf { \\Omega } _ { a }$ 为主要粮食平均价格（元 $\\cdot \\mathrm { k g } ^ { - 1 }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2水资源需求测算研究中以城镇居民人均生产用水、生活用水和生态用水的总量作为水资源需求服务的测度指标，并以水库建造成本进行价值化，采用人口密度图空间化，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { _ i } { = } M { \\times } P _ { _ { \\mathrm { p o p } } } { \\times } C\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\left. W _ { i } \\right.$ 表示栅格 $i$ 上的水资源需求价值(元); $M$ 为人均用水量 $( m ^ { 3 } \\cdot \\lambda ^ { - 1 } )$ ： $P _ { \\mathrm { p o p } }$ 为人口密度(人·栅格-);$C$ 为我国水库平均每单位建造费用，取0.67元· $\\mathrm { m } ^ { - 3 }$ O2.2.3固碳释氧服务需求测算居民在生产生活消费化石能源、消耗 $\\mathrm { O } _ { 2 }$ 并排放大量 $\\mathrm { C O } _ { 2 }$ ,加剧了气候变暖，为缓解气候变化从而产生了固碳需求。本研究采用城镇居民人均年 $\\mathrm { C O } _ { 2 }$ 排放量和相应消耗的 $\\mathrm { O } _ { 2 }$ 量作为固碳释氧服务需求。由质量守恒定律，产生一份 $\\mathrm { C O } _ { 2 }$ 的同时即消耗32/44份 $\\mathrm { O } _ { 2 }$ ，以碳税法及制氧价格进行价值化。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = P _ { _ \\mathrm { p o p } } \\times R \\times \\left( U _ { \\mathrm { C 0 _ { 2 } } } + \\frac { 3 2 } { 4 4 } U _ { \\mathrm { 0 _ { 2 } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { i }$ 表示栅格 $i$ 上的固碳释氧需求价值(元);$P _ { \\mathrm { p o p } }$ 为人口密度(人·栅格 $^ { - 1 }$ ） $R$ 城镇居民人均年 $\\mathrm { C O } _ { 2 }$ 排放量,取 $2 . 1 3 \\mathrm { t } \\cdot \\mathrm { a } ^ { - 1 [ 1 9 ] }$ $U _ { \\mathrm { { c o } _ { 2 } } }$ 为固定单位质量 $\\mathrm { C O } _ { 2 }$ 的价值,参照瑞典碳税法 $\\mathrm { C O } _ { 2 }$ 的价值1.2元 $\\mathbf { \\cdot } \\mathbf { \\varrho } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ $U _ { \\mathrm { o _ { 2 } } }$ 为单位质量 $\\mathrm { O } _ { 2 }$ 价值，取卫生部网站公布氧气平均价格1.0元 $\\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4空气净化服务需求测算城区居民生活中的化石能源使用、汽车尾气排放等导致大气污染，空气质量下降，居民产生对洁净大气及环境的需求。本研究用城区实际空气质量状况与洁净空气状况之间的差距来测评空气净化服务的需求，即假定将空气中的污染物作净化处理达到洁净空气状态所花的费用作为该服务的需求价值。研究中依据主要污染物（如 $\\mathrm { S O } _ { 2 } \\ 、 \\mathrm { N O } _ { 2 } \\ 、 \\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ )净化处理成本进行价值评估，并综合考虑居民生活空间分布及人口密度状况进行空间制图，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ i } = \\sum _ { j = 1 } ^ { 4 } ( S \\times H \\times P _ { _ j } \\times Q _ { _ { i j } } \\times P _ { _ { \\mathrm { p o p } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { i }$ 为栅格 $i$ 上年空气净化需求价值(元);S为单位栅格面积 $( \\mathbf { m } ^ { 2 } ) ; H$ 为高度，取普通6层居民楼高$2 0 \\textup { m }$ $P _ { j }$ 为第 $j$ 种污染物的处理成本（其中 $\\mathrm { S O } _ { 2 }$ 和$\\mathrm { N O } _ { 2 }$ 的处理成本分别为0.6元· $\\mathbf { k g } ^ { - 1 }$ 和0.63元· $\\mathbf { k g } ^ { - 1 }$ ，$\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 的处理成本取0.15元· $\\mathbf { k g } ^ { - 1 }$ ）； $Q _ { i j }$ 为栅格 $i$ 上第 $j$ 种污染物的污染浓度 $\\left( \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 } \\right)$ ; $P _ { \\mathrm { p o p } }$ 为人口密度(人·栅格-1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5休闲娱乐服务需求测算城市快节奏的工作和生活压力，使居民产生到公园、绿地或湖边等自然环境中进行健身、运动和休憩等休闲活动，释放压力和愉悦心情的精神需求，即休闲娱乐服务需求。由于城市居民休闲娱乐与绿地空间密切关联，故参考Larondelle等3的研究，用人均绿地面积作为衡量居民对休闲娱乐服务需求的代用指标。假定达到全国城市人均绿地面积水平即认为可以满足城市居民在日常工作和生活中的基本休闲娱乐需求，因此研究中采用全国城市人均绿地面积与人口数量的乘积测评休闲娱乐服务需求，并用单位绿地面积提供的休闲娱乐服务的平均值进行价值化处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\scriptscriptstyle i } = C \\times \\overline { { V } } \\times P _ { \\mathrm { p o p } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $E _ { i }$ 表示栅格 $i$ 上休闲娱乐需求价值(元); $\\overline { { V } }$ 为单位面积绿地提供的休闲娱乐服务的平均价值（元· $\\mathbf { m } ^ { - 2 }$ )[27]； $P _ { \\mathrm { p o p } }$ 为人口密度(人·栅格 $^ { - 1 }$ ）； $C$ 为全国城市人均绿地面积，取2018年《中国统计年鉴》中$1 4 . 1 \\ \\mathrm { m } ^ { 2 }$ ·人-1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.6 减弱噪声需求测算城市居民日常受到如交通、工程施工等各种噪声的影响，当噪声超过一定限值，就会严重干扰正常工作与生活，甚至危害身体健康，因而居民产生对噪声污染消减的需求。本文以实际噪声监测数据与国家标准噪声限值（分贝)之间的差值作为减弱噪声的服务需求，并结合降噪成本进行价值评估。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { _ i } = ( W _ { _ i } - R _ { _ i } ) \\times P\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $V _ { i }$ 为栅格i上减弱噪声需求价值(元); $\\textstyle \\mathbf { W } _ { i }$ 为栅格i上实测噪声分贝[dB(A)]； $R _ { i }$ 为栅格 $i$ 上国家标准噪声限值分贝[dB(A)]; $P$ 为噪声降低成本，取7.66元·dB(A)-1[37]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.7高温调节服务需求测算夏、秋高温季节人们需借助空调、风扇等设施进行降温，产生对高温调节服务的需求。本研究用夏、秋季人们通常开启空调降温的下限温度与实际近地面大气温度之间的差值来测算高温调节服务的需求，并将单位空间空气人工降温 $1 \\ \\mathrm { { ^ { \\circ } C } }$ 的花费进行价值化。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\scriptscriptstyle i } = C \\times \\left( T _ { \\scriptscriptstyle i } - T _ { \\scriptscriptstyle 2 } \\right) \\times S\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { i }$ 为栅格 $i$ 上的高温调节需求价值(元); $T _ { i }$ 为栅格 $i$ 近地面大气温度 $( \\mathbb { C } ) { \\ : } { T } _ { 2 }$ 为通常开启空调降温的下限温度，取 $2 6 ~ \\mathrm { \\textbar { C } } ; C$ 为单位空间人工降温花费（元· ${ } ^ { \\mathcal { C } ^ { - 1 } }$ ； $s$ 为单位栅格面积 $\\left( \\mathbf { m } ^ { 2 } \\right)$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3生态系统服务供需关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究采用生态系统服务实际供给价值与当地居民需求价值的差值来表达生态系统服务的供需关系。研究中为消除不同服务价值的量纲差，先对各项服务供需价值进行归一化处理([0,1)，然后分析生态系统服务的供需差（ $\\mathrm { ^ { \\prime } E S } _ { i } \\mathrm { , }$ ，用以评估生态系统服务供需的匹配程度。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { E S } } _ { i } = S _ { i } - D _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：ES表示第 $i$ 类生态系统服务供给与人类需求之间的匹配程度； $S _ { i }$ 表示第 $i$ 类生态系统服务功能的供给价值； $D _ { i }$ 表示居民对第 $i$ 类生态系统服务需求价值。当 $\\mathrm { E S } _ { i } { > } 0$ ，表示该类服务供给量处于盈余状态，供大于求；当 $\\mathrm { E S } _ { i } { = } 0$ 时，表示该类生态系统服务供需平衡；当 $\\mathrm { E S } _ { i } { < } 0$ 时，表示该类生态系统服务赤字，供不应求。按照ES指标值将生态系统服务供需匹配程度分为5个等级(表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4生态阻力面构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务在流动过程中会受到自然和社",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/77838cf62ca1e79ef270c927fbd94e1d5ee1e0b49b208f0382c5017f475518ff.jpg",
+        "table_caption": [
+            "表1生态系统服务供需差(ES)指标分级",
+            "Tab.1 Classification ofESiindicators "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ES:</td><td>供需匹配度</td></tr><tr><td>-1.0~-0.5</td><td>严重失调</td></tr><tr><td>-0.5~0</td><td>轻度失调</td></tr><tr><td>0</td><td>均衡</td></tr><tr><td>0~0.2</td><td>一般均衡</td></tr><tr><td>0.2~1.0</td><td>良好匹配</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "会经济因素的阻碍作用。本研究选择景观类型、归一化植被指数(NDVI）、地形、坡度和人口密度作为阻力面分量，对不同阻力面分量采用专家打分法赋予不同权重(表2)，生成综合阻力面。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1生态系统服务总供需特征分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "西安市区UGI覆盖面积 $3 4 4 3 1 . 5 \\mathrm { { h m } } ^ { 2 }$ ，占研究区总面积的 $3 9 \\%$ ,其中草地面积最大，占比为 $3 1 . 9 \\%$ ，水域面积最小，仅占 $5 . 9 \\%$ 。从图1可看出UGI主要分布在居住小区、道路两侧，以小斑块聚集为主；而大、中斑块分布集中在城市公园、建成区边缘地带和水域周围，斑块数量较少。市中心因建筑用地密集，UGI斑块面积小、更为破碎，连通性差，仅沿古城墙护城河、个别主干道等形成景观廊道。在建成区东北部的铲灞国家湿地公园，渭河、铲河与灞河沿岸UGI斑块面积较大、连通性好且种类丰富。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究区UGI生态系统服务供需价值测评结果如图2。西安市UGI生态系统服务供给总价值约为$2 8 \\times 1 0 ^ { 8 }$ 元，不同生态系统服务供给价值差异较大，其中高温调节服务供给价值突出，占总价值约为$7 5 . 0 \\%$ ,水源涵养服务的价值占比最小，约为 $1 . 1 \\%$ O由图2a可见，研究区生态系统服务供给价值受UGI分布格局的影响，在空间上表现出由中心城区向四",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8b6210787c0aad6657b194e5406fffd44de9e523a1e06d2469310c21befe0f0.jpg",
+        "table_caption": [
+            "表2阻力面分量及权重",
+            "Tab.2 Components and weights of resistance surface "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>-级因子</td><td>二级因子</td><td>等级</td><td>赋值</td><td>权重</td></tr><tr><td>自然因素</td><td>景观类型</td><td>水域</td><td>1</td><td>0.20</td></tr><tr><td></td><td></td><td>林地</td><td>2</td><td></td></tr><tr><td></td><td></td><td>耕地</td><td>3</td><td></td></tr><tr><td></td><td></td><td>园地</td><td>4</td><td></td></tr><tr><td></td><td></td><td>草地</td><td>5</td><td></td></tr><tr><td></td><td>归一化植被指数(NDVI)</td><td>建设用地</td><td>6</td><td></td></tr><tr><td></td><td></td><td>-0.52~0</td><td>6</td><td>0.20</td></tr><tr><td></td><td></td><td>0~0.17</td><td>5</td><td></td></tr><tr><td></td><td></td><td>0.17~0.29</td><td>4</td><td></td></tr><tr><td></td><td></td><td>0.29~0.41</td><td>3</td><td></td></tr><tr><td></td><td></td><td>0.41~0.57</td><td>2</td><td></td></tr><tr><td></td><td></td><td>0.57~0.88</td><td>1</td><td></td></tr><tr><td></td><td>高程/m</td><td>227~387</td><td>1</td><td>0.15</td></tr><tr><td></td><td></td><td>387~414</td><td>2</td><td></td></tr><tr><td></td><td></td><td>414~452</td><td>3</td><td></td></tr><tr><td></td><td></td><td>452~507</td><td>4</td><td></td></tr><tr><td></td><td></td><td>507~615</td><td>5</td><td></td></tr><tr><td></td><td>坡度/%</td><td>615~810</td><td>6</td><td></td></tr><tr><td></td><td></td><td>0~19.52</td><td>1</td><td>0.15</td></tr><tr><td></td><td></td><td>19.52~31.85</td><td>2</td><td></td></tr><tr><td></td><td></td><td>31.85~43.51</td><td>3</td><td></td></tr><tr><td></td><td></td><td>43.51~53.78</td><td>4</td><td></td></tr><tr><td></td><td></td><td>53.78~64.05</td><td>5</td><td></td></tr><tr><td>社会经济因素</td><td>人口密度/人·栅格1</td><td>64.05~87.35</td><td>6</td><td>0.30</td></tr><tr><td></td><td></td><td>0.23~4.37</td><td>1</td><td></td></tr><tr><td></td><td></td><td>4.37~9.86</td><td>2</td><td></td></tr><tr><td></td><td></td><td>9.86~17.86</td><td>3</td><td></td></tr><tr><td></td><td></td><td>17.86~25.42</td><td>4</td><td></td></tr><tr><td></td><td></td><td>25.42~31.35</td><td>5 6</td><td></td></tr><tr><td></td><td></td><td>31.35~38.03</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f1aebd64302916860329d19878fe350973d573633e3bede89ee09c2a6e0d65d.jpg",
+        "img_caption": [
+            "图2西安市UGI生态系统服务总供给、总需求价值分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Distributions of the supply and demand values of the total UGI ecosystem services in Xi'an City周逐渐递增的特点。在城市中心区，城市化水平较高、建筑密度较大，绿地景观少，如莲湖区UGI仅占该区总面积的 $1 4 . 5 \\%$ ，生态系统服务供给价值较低；东部灞桥区，人口密度较低，绿地景观丰富，区内有灞河、鲸鱼沟、铲灞国家湿地公园等天然水域景观，沿河流生态廊道保护较好，景观连通性较高，形成面积较大的UGI斑块，提供较高价值的水源涵养、固碳释氧等服务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图2b可见，生态系统服务需求价值受经济发展水平、人口密度等因素的影响，在空间上表现出由中心向四周递减的特点。需求价值最大为雁塔区，占总需求价值的 $2 4 . 3 \\%$ ,最小为灞桥区，仅占总需求价值的 $7 . 3 \\%$ 。雁塔区总面积 $1 4 9 1 0 \\mathrm { h m } ^ { 2 }$ ，区内有西安高新技术产业开发区和曲江新区两大国家级经济开发区，是西安市经济、商贸、科研、住宅中心区，人口数超过 $1 2 5 { \\times } 1 0 ^ { 4 }$ ，人口密集，对生态系统服务需求高。灞桥区建设用地占比相对较少，人口密度明显低于核心区域，经济产出较少，对生态系统服务需求明显较低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "西安市生态系统服务供需价值空间匹配度如图3所示，建城区生态系统服务供需存在较为明显的空间不匹配性，表明西安市UGI分布与城市人口和经济发展存在空间错位。总体上，研究区内生态系统服务供需良好匹配区面积较少，仅零星分布在研究区边缘，如长安区西南、灞桥区东南和渭河沿线，该地区为城市郊区，植被覆盖度较好、水源丰富，且人口及商业活动分布较少，生态系统服务供给高而需求低，因此呈现供大于求的良好态势。在城市中心区，UGI缺乏，生态系统服务供给低，而人口和建筑用地高度集聚、经济活动规模大，对生态系统服务需求高，除休闲娱乐服务空间匹配度较好外，其他服务供需匹配度均较低，呈严重失调态势。西安城区的诸多大型遗址公园，如大明宫遗址公园、大唐芙蓉园、曲江池等，林草景观、水域面积较大，不仅为居民提供较高的休闲娱乐服务，也明显提高了生态系统服务总供给，生态系统服务供需空间匹配趋于均衡。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4abf2e51256ff2af294b48df69fbe0127434acc7b095dccf1692db561895de02.jpg",
+        "img_caption": [
+            "图3西安市UGI生态系统服务总供需空间匹配度 Fig.3Spatial matching of supply and demand of ecosystem services in Xi'an City "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2各项生态系统服务供需空间关系分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务需求与人口密度、经济发展水平等密切相关。本研究按照人口密度将研究区分为高度集聚区（ $1 . 8 { \\times } 1 0 ^ { 4 } { \\sim } 2 . 4 { \\times } 1 0 ^ { 4 } .$ 人 $\\mathrm { k m } ^ { - 2 }$ ）、中高度集聚区（ $1 . 0 { \\times } 1 0 ^ { 4 } { \\sim } 1 . 8 { \\times } 1 0 ^ { 4 }$ 人 $\\mathrm { k m } ^ { - 2 }$ ）、中度集聚区( $\\left[ 0 . 3 \\times 1 0 ^ { 4 } \\sim \\right.$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 . 0 \\times 1 0 ^ { 4 }$ 人 $ { \\mathrm { k m } } ^ { - 2 }$ )和低度集聚区（ $ \\sf \\langle < 0 . 3 \\times 1 0 ^ { 4 } \\$ 人 $\\mathrm { k m } ^ { - 2 }$ ）（图4)。运用SPSS软件对生态系统供需服务价值进行双变量相关性分析，揭示人口与经济聚集程度对生态系统服务供需关系的影响(表3、图5)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f4ab6b9c605efa8b1e6228aaa31e43405fd41aa4fb2f4b96394c23a4df476a9.jpg",
+        "img_caption": [
+            "图4西安市城市人口集聚程度分区",
+            "Fig.4Zoning of urban population density in Xi'an City "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在不同的人口聚集区内，不同生态系统服务供需空间相关性及空间匹配状况均存在显著差异。在高度集聚区内，高温调节(-0.215)与减弱噪声(-0.179)服务供需相关系数均通过显著性检验，二者具有明显的空间负相关，这与供需匹配度测算一致。该区域是主要的商贸和居住区，经济活动频繁，建筑用地集中，对生态系统服务需求量较大，UGI匮乏，生态系统服务供给严重不足，形成大面积供需失调区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中高度集聚区集中分布在雁塔区和莲湖区，是主要的居住、商贸和文教区。该区域生态系统服务供需轻度失调面积占比较大，严重失调面积占比次之，但总体来看，该区供给盈余区面积占比要大于在高度集聚区的占比(图5f)，供需失调状况略好。高温调节、空气净化和减弱噪声服务供大于需的面积占比均在 $12 \\%$ 以上，沿道路呈带状分布，表明城市绿化带对生态系统服务供给能力的提升较为显著。该区域土地开发利用强度高，难以大面积新增UGI，因此可通过建设道路绿化带及城市街心花园等途径，增强区域生态系统服务供给能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中度集聚区主要分布在未央区南部，是西安主要的工业综合区。该区域内总供需服务呈现显著性负相关(-0.117),空间不匹配性较为显著，各项服务均以轻度失调为主。其中，减弱噪声服务的供需相关系数绝对值小于高度集聚、中高度集聚和低度集聚3个区，表明减弱噪声服务供需的空间匹配状况略好于这3个区。固碳释氧、高温调节、空气净化和减弱噪声服务供需盈余面积均达 $1 3 \\%$ 以上，其中固碳释氧服务的良好匹配区面积占比最高(图 $5 \\mathrm { a }$ ，约为 $2 1 \\%$ ，分布在大明宫遗址公园附近。大明宫遗址公园面积约为 $3 . 2 \\mathrm { k m } ^ { 2 }$ ,草地、林地分布较多,提供了较高的生态系统服务价值，是该区域内重要的生态源地。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "低度集聚区占研究区面积较大，主要分布在研究区北部、西南及东南，是主要的生态旅游及科教综合区。该区域大部分服务供给与需求均呈现出负相关性，高温调节服务相关系数绝对值最大，表明空间错位较为显著。但同时该区域各项服务均存在供需盈余区，其面积占比高于高度集聚、中高度集聚和中度集聚区。尽管该区高校及科研机构众多，如国家民用航大基地、长安大学城等，对生态系统服务需求较大，但该区公园、水域面积较广，如铲灞湿地公园等，渭河、灞河等沿河自然植被丰富，生态系统服务供给能力强，本区生态系统服务供需基本趋于协调。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总体上，研究区内生态系统服务总供给与总需求相关系数为-0.166，且通过显著性检验，表明该区域供需价值具有明显的空间负相关，即空间不匹配性。大部分生态系统服务相关系数均为负，并通过显著性检验，表明需求价值较大的区域，供给价值较少，供需服务存在显著的空间错位，这与生态系统服务总供需的空间分布状况相一致(图2)。其中，休闲娱乐服务供需价值的相关系数为正，表明未出现空间错位，这是由于休闲娱乐供给与需求服务均与人口密度和经济发展水平相关，但该服务的供给价值远低于需求价值，仍以供需失调为主。随着城市人口集聚程度的提高，部分生态系统服务供需匹配程度明显降低(图5)，如高温调节和减弱噪声服务，随着人口密度的增加，轻度失调区面积占比不断增加，而供需均衡区面积占比不断减少；固碳释氧、空气净化和水源涵养服务随人口密度增加，严重失调区面积占比不断加大，表明城市规模越大、人口及经济越集聚对UGI的挤压程度越严重，导致生态系统服务供需失调的程度越为显著。但部分生态系统服务供需关系在不同程度的人口集聚区并没有表现出显著差异性，如粮食供需与休闲娱乐服务在整个研究区内失调区域面积占比高达$9 8 \\%$ ,故匹配度并未随人口密度的变化出现显著差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/da6e3bc25636b0dba6cf1ec583eb069e5b1fd5a5224a24234aa79ef7ec1f5846.jpg",
+        "table_caption": [
+            "表3不同人口集聚区生态系统服务供需相关系数",
+            "Tab.3Correlationcoeficients of supplyanddemand of ecosystemservices indiferent populationconcentrationareas "
+        ],
+        "table_footnote": [
+            "注： $*$ 表示0.05水平显著性检验； $^ { * * }$ 表示0.01水平显著性检验。"
+        ],
+        "table_body": "<html><body><table><tr><td>人口集聚区</td><td>粮食供需</td><td>水源涵养</td><td>固碳释氧</td><td>高温调节</td><td>空气净化</td><td>减弱噪声</td><td>休闲娱乐</td><td>总服务</td></tr><tr><td>低度集聚区</td><td>-0.181**</td><td>-0.064</td><td>-0.140**</td><td>-0.444**</td><td>0.003</td><td>-0.291**</td><td>0.166**</td><td>-0.255*</td></tr><tr><td>中度集聚区</td><td>-0.098</td><td>-0.044</td><td>0.241°</td><td>-0.386**</td><td>0.234*</td><td>-0.161**</td><td>0.330**</td><td>-0.117*</td></tr><tr><td>中高度集聚区</td><td>0</td><td>-0.091</td><td>-0.085</td><td>-0.244**</td><td>0.182</td><td>-0.191**</td><td>0.245**</td><td>-0.073</td></tr><tr><td>高度集聚区</td><td>0</td><td>-0.032</td><td>-0.015</td><td>-0.215**</td><td>-0.060</td><td>-0.179**</td><td>0.185**</td><td>0.051</td></tr><tr><td>建成区</td><td>-0.160**</td><td>-0.084°</td><td>-0.057°</td><td>-0.037</td><td>0.458**</td><td>-0.214**</td><td>0.266**</td><td>-0.166**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b23e9159a333397722876b52d5235f4f60acfc846bdc4fa388da0591e5c4fe63.jpg",
+        "img_caption": [
+            "图5不同生态系统服务空间匹配度面积占比",
+            "Fig.5Proportion of space matching degree of different ecosystem services "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3UGI空间格局优化分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.1基于生态系统服务价值空间分布的生态源地识别生态源地是指对维护区域生态稳定与安全具有重大意义的生态用地[38],其内部具有较高的生态系统服务价值和连通性[39]，主要集中在大面积的林地、水域等周围。本研究以生态服务价值较高的UGI斑块作为生态源地备选地，运用热点分析工具，分析各斑块的空间集聚程度，并依据各斑块的集聚程度对其进行分级。最终选取斑块面积大于0.1$ { \\mathrm { k m } } ^ { 2 }$ ，生态系统服务价值较高且空间集聚度为热点的UGI斑块，作为生态源地。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究区生态系统服务价值冷热点分析(图6)呈现出生态系统服务供给价值的空间集聚程度，识别出生态源地面积为 $5 8 3 2 . 5 8 \\mathrm { h m } ^ { 2 }$ ，占研究区总面积的$6 . 7 \\%$ ，以耕地和林地为主。主要分布在研究区边缘及城市内部公园，如灞桥区东南、长安区西南及渭河沿岸。大明宫遗址公园和汉长城遗址公园，因UGI分布较为集中，且能提供较多的休闲娱乐等服务价值，从而形成热点区，成为城区的主要生态源地。而城区中心多为建设用地，UGI面积较小,斑块破碎、分布零散，生态系统服务供给较差，则形成冷点区。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1ddbf58626486eab676c6ce6ea7476f4114e0bb67b23588bd11840cef68af7c.jpg",
+        "img_caption": [
+            "图6西安市生态系统服务供给价值冷热点分布Fig.6Distribution of cold and hot spots of ecosystemservices supplyvalue inXi'an City"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.2基于最小累积阻力模型的生态廊道识别不同的自然及人文因素会对物种的迁移、扩散和能量流、生态流的流动产生阻力作用。本研究综合考虑地形、坡度、NDVI、景观类型及人口密度等因子，构建生态综合阻力面，用以描述物种或能量流流动的阻力大小。生态廊道是连接生态源地之间物种、信息和能量流动并具有一定宽度的条状区域，对维持生态系统内部的连通性和稳定性具有重要的作用[40]。运用最小累积阻力模型,以生态阻力面为基础，识别最小累积阻力路径，并结合UGI实际分布状况识别出生态廊道及生态源地(图7)。总计有生态廊道为71条，总长度为 $4 0 5 \\mathrm { k m }$ ,大致覆盖整个研究区，但存在明显的空间差异。生态源地总体表现出中心城区少、新开发区多的态势，如新城区、雁塔区生态源地缺失；长安区内高校及科研院所居多，校园绿地构成了主要生态源地;北部渭河沿岸的滨河公园成为未央区内生态源地的主体；西部生态源地以耕地为主体。在城市中心区，UGI以街旁绿地、社区公园和附属绿地为主，但斑块面积较小，难以形成生态源地。总体上，研究区生态源地主要沿渭河、灞河及秦岭北麓分布，中心城区缺乏主干生态廊道、连通性差。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cd485563a8c1705c08a75583f1c2dd9160237dde19ae06c7d119977bbddcf0e.jpg",
+        "img_caption": [
+            "图7西安市生态源地及生态廊道空间分布 Fig.7Spatial distribution of ecological source and ecological corridor in Xi'an City "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.3UGI空间格局优化分析在对研究区UGI生态系统服务供需空间关系分析的基础上，通过识别现有的生态源地及生态廊道，对UGI格局进行优化（图8)。首先，基于现有的生态源地构建生态保育区。生态保育区是生态系统服务高供给区，以保护与建设为主，减少斑块的孤立与破碎，从而发挥较大的抗干扰能力。沿渭河和灞河构建大型生态湿地公园生态保育区；沿沣河打造河滨绿地景观，并结合斗门、细柳等街道内的农业用地(耕地)构建沣河生态保育区；沿潏河建设生态绿化带，并结合西安城市生态公园及郭杜大学城的各高校大片校园绿地，构成组团式生态保育区。结合大雁塔、大唐芙蓉园、曲江池、西安市植物研究所、杜陵遗址生态公园等形成公园绿地生态保育区。在灞桥区结合白鹿原、樱桃谷构建生态旅游保育区。其次，构建城市南北两条生态大廊道。参考城市主导风向一一东北风，打造渭河沿岸及秦岭北麓两条东西走向的绿色景观走廊轴线，连通南北生态保育区。一条是沿渭河建设泾渭林带，连通自西向东的景观节点及生态保育区，包括铲灞湿地公园、渭河城市运动公园、洋渭生态景观区等。另一条是依托南部秦岭山地的自然生态保护区，构建秦岭北麓生态旅游带，保护森林等重要的自然资源。两轴的构建有利于连通生态保育区，并促进生态、能量及物种的流动。城市中心区是人口密度较大、建设用地密集和大面积生态系统服务供需严重失调区，可结合环城公园及三环绿化带等道路，建设 $3 0 \\mathrm { ~ m ~ }$ 宽的生态绿环，为城区提供生态过渡带，加强UGI内外连通交融；同时，沿城区内部主要干道如太华路一曲江路、莲湖路一长乐路、未央路一长安路、昆明路一咸宁路、丈八西路一雁南四路、汉城路一丈八北路一丈八三路等建设道路绿化带；结合遗迹保护绿化带和城市街心花园等绿地，构建城内小型生态廊道，将边缘区的重要绿地资源引入城市中心区，加强内外生态流及物种等流动。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d96eeafdc680df45b65b87f5e1922613111d68abd6956b01bfe93cd48bdecd67.jpg",
+        "img_caption": [
+            "图8西安市UGI空间格局优化",
+            "Fig.8UGI spatial pattern optimization in Xi'an City "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对西安市UGI空间格局优化的具体措施有：一是对已有且面积较大的UGI斑块进行保护与质量提升。如对大型市级公园未央湖游乐园、大唐芙蓉园、曲江池遗址公园等进行拓展与保护，在大型UGI斑块周围新建街心花园与道路绿化等，增加生态节点，增强其辐射范围。二是新增绿化用地。现有生态源地分布呈现南、北较多，东、西较少的态势，因此应开展城市绿化工程，增加东、西方向的UGI用地，建设生态保育区。三是加强生态廊道建设，增强生态源地之间的连通性。首先对现有的公园进行“拆墙透绿”，拆除围墙进行增绿，并与街道等相互融合。其次，依托主城区的3条环路、8条河流以及对外交通主干道构建生态廊道，形成城市绿色骨架。四是对特色景观节点进行规划培育，如铲灞湿地公园以水域生态系统为基底，重点保护好灞河流域水质，减少公园中的硬性边界频度，从而减少生态阻力，有利于生物流动，保护生物多样性；大明宫遗址公园、曲江遗址公园、大唐芙蓉园等，应结合历史遗迹保护增加公园内景观异质性，保持城市生态系统稳定。最终形成由两条东西走向的生态走廊，多区域的生态保育区以及以城市道路绿化带为基质的多条生态廊道等构成的UGI优化格局。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前，在国内外研究中对生态系统服务供给的定量评估[4I]、权衡关系分析等已较为成熟，但对生态系统服务需求的定量测算、制图及供需关系研究仍是难点。本研究结合西安市UGI的基本特点选取7类典型生态系统服务，尤其是探索性构建了高温调节、减弱噪声等服务的需求测评方法与模型，从像元尺度评价了UGI生态系统服务的需求状况并进行制图。从研究结果来看，这些测评模型能够较为客观地描述城市生态系统服务的需求及其空间异质性，对当前生态系统服务需求的定量测评方法及制图研究具有一定的贡献，可丰富生态系统服务供需研究方法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "西安市作为我国西部重要的国家中心城市，近30a来，城镇化进程不断加快，人口与经济大规模集聚，对城市生态系统造成很大压力[42]。因此，未来加强UGI建设，营建景观优美、生态宜居的城市环境尤为迫切。本研究从生态系统服务供需关系新视角，分析了城市不同人口密度集聚区UGI提供的生态系统服务与人类需求的空间匹配度，并综合考量自然因素及人文因素对物种迁移、生态流动的影响，通过构建综合生态阻力面模型分析了UGI空间格局、生态系统服务供需匹配关系及存在的问题，结合当前西安市城市绿地系统规划现状提出了本市UGI建设与优化方案。结果显示，城市建成区内人口、经济集聚程度的提高会对UGI生态系统服务供需平衡造成严重压力。同时这一研究思路可将当前城市地理学、景观生态学及生态系统服务研究等学科知识相整合应用于生态系统规划、管理与决策中，尤其在将生态系统服务研究成果应用到实践",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "管理方面具有一定的借鉴意义，也有助于西安市UGI提升及生态系统可持续发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务需求与人口分布、城市居民的偏好等具有密切的关系，本研究中采用街道办尺度的人口密度数据对主要生态系统服务的供给及需求进行空间化有不足之处；在研究中对城市居民的个人偏好调查不足，这在一定程度上会影响休闲娱乐服务需求的评价结果；同时因部分数据获取困难，如气象站点及噪音站点数据较少，使得生态系统服务需求的空间表达不够精细，但这不会影响减噪服务需求的空间格局及规律。生态系统服务供需受生态系统结构、功能、生物化学过程以及区域人口经济发展、科学技术进步等诸多方面的影响，具有复杂性和动态性，需进一步探究生态系统服务产生、需求及流动的机理(或机制），构建生态系统服务供给尤其是需求的测算指标与方法，以推动生态系统服务供需研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）西安市建成区UGI占总面积的 $3 9 \\%$ ，主要分布在城市边缘和主干道两侧，分布不均，破碎化程度高，中心城区连通性较差。UGI提供的生态系统服务总价值为 $2 8 \\times 1 0 ^ { 8 }$ 元,在空间上呈现出由西南和东北向中心递减的趋势。西安市建成区城市居民对生态系统服务需求总价值为 $2 2 4 \\times 1 0 ^ { 8 }$ 元，与供给价值相差较大,在空间上呈现出由城市中心严重失调向边缘良好匹配渐变的态势。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2）不同生态系统服务供需匹配状况存在差异，其中高温调节、空气净化和休闲娱乐供大于求，供需空间匹配状况较好，表明城市内UGI建设对提升区域内生态系统服务影响显著。粮食供给、固碳释氧、水源涵养和减弱噪声等服务供小于求，表明城市UGI建设不足，难以满足城市居民对部分生态系统服务需求。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3）研究区生态系统服务供需表现出明显的空间异质性，人口与经济集聚对生态系统服务供需空间匹配状况具有显著影响。随着人口集聚程度的提高，大部分生态系统服务(如高温调节、减弱噪声等)供需空间匹配程度显著下降，呈现高需求低供给的负相关。表明人口密集的城市中心区生态系统服务供需赤字较为严重，空间匹配以低供给高需求的空间错位为主导；建成区边缘生态系统服务表现出供需盈余特征，以高供给、低需求良好匹配",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为主。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(4）研究区生态源地呈条带状分布，集中于北部渭河沿岸及南部秦岭北麓，空间分布不均衡；生态廊道密度及连接度低，缺乏主干生态廊道。通过构建由沿渭河、秦岭北麓两条生态走廊，沣河、潏河、灞河等7个生态保育区及诸多沿道路绿化带等组成的UGI网络可实现空间格局的优化，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]吴伟,付喜娥.绿色基础设施概念及其研究进展综述[J].国际城 市规划,2009,24(5):67-71.[Wu Wei,Fu Xi'e.The concept of green infrastructure and review of its research development[J]. Urban Planning International, 2009,24(5): 67-71.]   \n[2]Fabos JG.Greenway planning in the United States: Its origins and recent case studies[J]. Landscape and Urban Planning,2004,68 (2-3): 321-342.   \n[3]Benedict M,Macmahon E T. Green Infrastructure: Smart conservation for the 21\" century[J]. Renewable Resources Journal, 2002,20 (3): 12-17.   \n[4]Weber T, Sloan A,Wolf J. Maryland's green infrastructure assessment: Development of a comprehensive approach to land conservation[J].Landscape & Urban Planning,2006,77(1-2): 94-110.   \n[5]Hanski I, Gilpin M.Metapopulation dynamics:Brief history and conceptual domain[J]. Biological Journal of the Linnean Society, 1991, 42(1): 3-16.   \n[6]Snall T,Lehtomäki J,Arponrn A,et al.Green infrastructure design based on spatial conservation prioritization and modeling of biodiversity features and ecosystem services[J].Environmental Management,2016,57(2): 251-256.   \n[7]Terkenli T S, BellS,Toskovic O,et al. Tourist perceptions and uses of urban green infrastructure: An exploratory cross-cultural investigation[J].Urban Forestry & Urban Greening，2020,49: 126624,doi: 10.1016/j.ufug.2020.126624.   \n[8]Chen W Y.The role of urban green infrastructure in offsetting carbon emissions in 35 major Chinese cities:A nationwide estimate [J]. Cities,2015,44: 112-120.   \n[9]LiL, Collins A M,Cheshmehzangi A,et al.Identifying enablers and barriers to the implementation of the green infrastructure for urban flood management: A comparative analysis of the UK and China[J].Urban Forestry & Urban Greening,2020,54:126770, doi: 10.1016/j.ufug.2020.126770.   \n[10]Candela de la Sota Sandez,Ruffato-Ferreira V,Ruiz-Garcia L,et al. Urban green infrastructure as a strategy of climate change mitigation:A case study in northern Spain[J]. Urban Forestry & Urban Greening,2019,40: 145-151.   \n[11]Nakamura F,Ishiyama N, Yamanaka S,et al. Adaptation to climate change and conservation of biodiversity using green infrastruc",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ture[J].River Research and Applications,2020,36(6): 921-933. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12] 李文俊,李峻峰.基于GIS 的中小尺度绿色基础设施识别与优 化——以安徽宣城南溪湿地生态旅游区为例[J].合肥工业大 学学报(社会科学版),2017,31(3):128-134.[Li Wenjun,Li Junfeng.Identification and optimization of small and medium-sized green infrastructure based on GIS: A case study of Nanxi wetland ecological tourist area in Xuancheng,Anhui Province[J].Journal of Hefei University of Technology (Social Science Editon),2017, 31(3): 128-134.]   \n[13] 栾博,王鑫,金越延,等.场地尺度绿色基础设施的协同设计 —以咸阳渭柳湿地公园生态修复设计为例[J].景观设计学, 2017,5(5): 26-43.[Luan Bo,Wang Xin,Jin Yueyan,et al. Collaborative design of site-scale green infrastructure: A case study on the ecological restoration design of Weiliu Wetland Park in Xianyang[J].Landscape Architecture Frontiers,2017,5(5): 26-43.]   \n[14] 李咏华,马淇蔚,范雪怡.基于绿色基础设施评价的城市生态带 划定—以杭州市为例[J].地理研究,2017,36(3):583-591. [Li Yonghua,Ma Qiwei,Fan Xueyi.Delimiting the urban ecological belts based on green infrastructure assessment: A case study of Hangzhou[J]. Geographical Research,2017,36(3): 583-591.]   \n[15]Cotinovis C, Geneletti D.A performance-based planning approach integrating supply and demand of urban ecosystem services[J]. Landscape and Urban Planning,2020,201: 103842,doi:10.1016/ j.landurbplan.2020.103842.   \n[16]LorillRS, KalogirouS,Poirazidis K,etal.Identifying spatial mismatches between the supply and demand of ecosystem services to achieve a sustainable management regime in the Ionian Islands (western Greece)[J]. Land Use Policy,2019,88:104171,doi: 8810. 1016/j.landusepol.2019.104171.   \n[17]Bukvareva E, Zamolodchikov D, Krave G,et al. Supplied,demanded and consumed ecosystem services: Prospects for national assessment in Russia[J].Ecological Indicators,2017,78:351-360.   \n[18] 谢高地,甄霖,鲁春霞,等.生态系统服务的供给、消费和价值化 [J].资源科学,2008,30(1): 93-99.[Xie Gaodi,Zhen Lin,Lu Chunxia, et al. Supply,consumption and valuation of ecosystem services in China[J]. Resources Science,2008,30(1): 93-99.]   \n[19]严岩,朱捷缘,吴钢,等.生态系统服务需求、供给和消费研究进 展[J].生态学报,2017,37(8): 2489-2496.[Yan Yan, Zhu Jieyuan, Wu Gang,et al. Review and prospective applications of demand,supply，and consumption of ecosystem services[J].Acta Ecologica Sinica,2017,37(8): 2489-2496.]   \n[20]刘慧敏,范玉龙,丁圣彦.生态系统服务流研究进展[J].应用生 态学报,2016,27(7): 2161-2171.[Liu Huimin,Fan Yulong,Ding Shengyan.Research progressof ecosystem service flow[J]. Chinese Journal of Applied Ecology,2016,27(7): 2161-2171.]   \n[21] 肖玉,谢高地,鲁春霞,等.基于供需关系的生态系统服务空间 流动研究进展[J].生态学报,2016,36(10):3096-3102.[Xiao Yu,Xie Gaodi,Lu Chunxia,et al, Involvement of ecosystem service flows in human wellbeing based on the relationship between supply and demand[J]. Acta Ecologica Sinica,2016,36(10): 3096- 3102.]   \n[22] 刘立程,刘春芳,王川,等.黄土丘陵区生态系统服务供需匹配 研究——以兰州市为例[J].地理学报,2019,74(9):1921-1937. [Liu Licheng,Liu Chunfang,Wang Chuan,et al. Supply and demand matching of ecosystem services in loess hilly region: A case study of Lanzhou[J].Acta Geographica Sinica,2019,74(9):1921- 1937.]   \n[23] 王壮壮,张立伟,李旭谱,等.区域生态系统服务供需风险时空 演变特征——以陕西省产水服务为例[J].生态学报,2020,40 (6): 1887-1900.[Wang Zhuangzhuang, Zhang Liwei, Li Xupu,et al. Spatio-temporal pattern of supply-demand risk of ecosystem services at regional scale: A case study of water yield service in Shaanxi Province[J]. Acta Ecologica Sinica,2020,40(6):1887- 1900.]   \n[24] 马琳,刘浩,彭建,等.生态系统服务供给和需求研究进展[J].地 理学报,2017,72(7): 1277-1289.[Ma Lin,Liu Hao,Peng Jian,et al. A review of ecosystem services supply and demand[J]. Acta Geographica Sinica,2017,72(7): 1277-1289.]   \n[25] 谢余初,张素欣,林冰,等.基于生态系统服务供需关系的广西 县域国土生态修复空间分区[J].自然资源学报,2020,35(1): 217-229.[Xie Yuchu, Zhang Suxin, Lin Bing,et al. Spatial zoning forland ecologicalconsolidation inGuangxibasedontheosstem services supply and demand[J]. Journal of Natural Resources, 2020,35(1): 217-229.]   \n[26] 胡忠秀,周忠学.西安市绿地生态系统服务功能测算及其空间 格局研究[J].干旱区地理,2013,36(3):553-561.[Hu Zhongxiu, Zhou Zhongxue.Ecosystem services evaluation and its spatial pattern analysis of urban greenland in Xi'an City[J].Arid Land Geography,2013,36(3): 553-561.]   \n[27] 韩晔,周忠学.西安市绿地景观吸收雾霾生态系统服务测算及 空间格局[J].地理研究,2015,34(7):1247-1258.[Han Ye, Zhou Zhongxue. Evaluation on ecosystem services in haze absorption by urban green land and its spatial patern analysis in Xi'an[J]. Geographical Research,2015,34(7): 1247-1258.]   \n[28] 孙庆祥,周华荣.阿尔泰山森林生态系统服务功能及其价值评 估[J].干旱区地理,2020,43(5):1327-1336.[Sun Qingxiang, Zhou Huarong.Service function and value evaluation of the Altai Mountains forest ecosystem[J]. Arid Land Geography,2020,43(5): 1327-1336.]   \n[29] 闫庆武,卞正富,张萍,等.基于居民点密度的人口密度空间化 [J].地理与地理信息科学,2011,27(5):95-98.[Yan Qingwu,Bian Zhengfu, Zhang Ping,et al. Census spatialization based on settlementsdensity[J].Geographyand GEO-Information Science, 2011, 27(5): 95-98.]   \n[30] 韩秀珍,李三妹,窦芳丽.气象卫星遥感地表温度推算近地表气 温方法研究[J].气象学报,2012,70(5):1107-1118.[Han Xiuzhen,Li Sanmei,Dou Fangli.Study of obtaining high resolution near-surface atmosphere temperature by using the land surface ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "temperature from meteorological satellite data[J].Acta Meteorologica Sinica,2012,70(5): 1107-1118.]   \n[31]李梦桃,周忠学.西安市城市景观的正负生态系统服务测算及 空间格局[J].地理学报,2016,71(7):1215-1230.[Li Mengtao, Zhou Zhongxue. Measurement and spatial pattern of positive and negative ecosystem services of urban landscape in Xi'an[J]. Acta Geographica Sinica,2016,71(7): 1215-1230.]   \n[32] 张碧桃,周忠学.秦巴山区土地利用变化对农业生态系统服务 的影响——以汉中盆地为例[J].陕西师范大学学报(自然科学 版),2020,48(1): 21-31.[Zhang Bitao, Zhou Zhongxue.Impact of land use change on agro-ecosystem services in Qinba Mountain area: A case study of Hanzhon Basin[J]. Journal of Shaanxi Normal University (Natural Science Edition),2020,48(1): 21-31.]   \n[33]邹月,周忠学.西安市景观格局演变对生态系统服务价值的影 响[J].应用生态学报,2017,28(8):2629-2639.[Zou Yue,Zhou Zhongxue. Impact of landscape pattern change on ecosystem service value of Xi’an City,China[J].Chinese Journal of Applied Ecology,2017,28(8): 2629-2639.]   \n[34] 彭建,王仰麟,陈燕飞,等.城市生态系统服务功能价值评估初 探——以深圳市为例[J].北京大学学报(自然科学版),2005(4): 594-604.[Peng Jian,Wang Yanglin, Chen Yanfei,et al.Economic value of urban ecosystem services:A case study in Shenzhen[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2005(4): 594-604.]   \n[35] 周忠学.西咸都市化对都市农业发展的影响——基于生态系统 服务视角[M].北京:科学出版社,2018:189-190.[Zhou Zhongxue.The impact of Xi'an-Xianyang urbanization on urban agricultural development from the perspective of ecosystem services[M]. Beijing: Science Press,2018: 189-190.]   \n[36] Larondelle N,Lauf S. Balancing demand and supply of multiple urban ecosystem services on different spatial scales[J]. Ecosystem Services,2016,22: 18-31.   \n[37]陈龙,谢高地,盖力强,等.道路绿地消减噪声服务功能研究 —以北京市为例[J].自然资源学报,2011,26(9):1526-1534. [Chen Long,Xie Gaodi,Gai Liqiang,et al.Research on noise reduction service of road green spaces: A case study of Beijing[J]. Journal of Natural Resources,2011,26(9): 1526-1534.]   \n[38]Peng J, Zhao S Q,Dong JQ,et al. Applying ant colony algorithm to identify ecological security patterns in megacities[J]. Environmental Modelling& Software,2019,117: 214-222.   \n[39] 陈昕,彭建,刘焱序,等.基于\"重要性-敏感性-连通性\"框架的 云浮市生态安全格局构建[J].地理研究,2017,36(3):471-484. [Chen Xin,Peng Jian,Liu Yanxu, et al. Constructing ecological security patterns in Yunfu City based on the framework of importance-sensitivity-connectivity[J]. Geographical Research, 2017, 36 (3): 471-484.]   \n[40]毛诚瑞,代力民,齐麟,等.基于生态系统服务的流域生态安全 格局构建——以辽宁省辽河流域为例[J].生态学报,2020,40 (18): 6486-6494.[Mao Chengrui,Dai Limin,Qi Lin,et al. Constructing ecological security pattern based on ecosystem services: A case study in Liaohe River Basin,Liaoning Province,China[J]. Acta Ecologica Sinica,2020,40(18): 6486-6494.]   \n[41]王鹏,刘小鹏,王亚娟,等.黄土丘陵沟壑区生态移民过程及其 生态系统服务价值评价——以宁夏海原县为例[J].干旱区地 理,2019,42(2): 433-443.[Wang Peng,Liu Xiaopeng,Wang Yajuan, et al.Ecological migration process and the evaluation of its ecosystem service value in Loess hilly and gully region: A case study of Haiyuan County,Ningxia[J].Arid Land Geography,2O19,42(2): 433-443.]   \n[42] 宋静雪,周忠学.关中平原典型村落农业转型对生态系统服务 的影响研究[J].干旱区地理,2020,43(3):807-819.[Song Jingxue,Zhou Zhongxue.Impact of agricultural transformation of typical villages in Guanzhong Plain on agro-ecosystem services[J].Ar",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "id Land Geography,2020,43(3): 807-819.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supply-demand relations of ecosystem services of urban green infrastructure and its spatial optimization: A case of Xi'an City ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LIU Wei, ZHOU ZhongXue, LANG Ruiting (School of Geography and Tourism,Shaanxi Normal University,Xi'an 71O119,Shaanxi, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Urban green infrastructure (UGI) isa critical component of the urban natural ecosystem,which provides various ecosystem services for residents.It is of great significance to explore the spatial dependence of ecosystem service supply-demand relationships not only to reveal the relationship between ecology and economy but also for building a livable environment. However, bettr quantitative evaluation and spatial mapping of the demand of ecosystem services，and in particular analysis of the relationship between demand and supply of ecosystem services,are stillmissing. Taking the built-up area of Xi'an City in Shaanxi Province of China as an example,based on remote sensing, population and environmental monitoring data from 2018,several evaluation models for the demand of ecosystem services,such as high temperature regulation and noise reduction, were developed in this study,and the spatial relationships of supply and demand of diffrent ecosystem services were analyzed on a pixel scale.Furthermore, in this study, we propose an optimized landscape pattern for a UGI in Xi'an by identifying ecological sources and ecological corridors based on the minimum cumulative resistance model. The results show that (1) the UGI in the built-up area of ${ \\mathrm { X i } } ^ { \\prime }$ an is unevenly distributed, exhibiting a high degree of fragmentation and poor connectivity.The total value of residents’demand for ecosystem services can be reached with $2 2 4 \\times 1 0 ^ { 8 }$ yuan, whereas the total value of UGI ecosystem service supply is just $2 8 \\times 1 0 ^ { 8 }$ yuan, presenting a serious mismatch between supply and demand. (2) The degree of spatial matching between supply and demand of ecosystem services varies from one individual service to another.The supply of high temperature regulation,air purification,and leisure and entertainment services is greater than the residents’demand for these ecosystem services,so the matching situation between supplyand demand is good in these cases; while the level of food supply,carbon sequestration and oxygen release,water conservation,and noise reduction services is less than the demand,the provisioning of these services are seriously lacking.(3）The matching of supplyand demand of different kinds of ecosystem services hassignificant spatial heterogeneity. Overall，with the increase in population density,the spatial matching of supply and demand of most ecosystem services (such as high temperature regulation and noise reduction)decreases significantly,which shows a high matching degreein urban fringe areas and a serious imbalance in urban core areas.(4)In the overallstudy area,the ecological source patch is small,highlyfragmented,and poorlyconnected,andthe UGInetwork lacksamain ecological coridor.We propose constructing UGI networks composed of two ecological corridors (one ecological corridor along Wei River side and another along the north foot of the Qinling Mountains)，seven ecological conservation areas (including the Ba River),and plentiful green belts along roads that willcoordinate the spatial matching between supply and demand of ecosystem services and optimize the landscape patern in Xi'an City. This work not only provides an enriched method for ecosystem services demand optimization but also will provide a guide for applying ecosystem service knowledge to ecological management, which willbe an aid to the promotion of UGIs and sustainable development of ecosystems in Xi'an. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: ecosystem services； green infrastructure;relation between supply and demand; spatial pattern optimization; Xi'an City ",
+        "page_idx": 13
+    }
+]

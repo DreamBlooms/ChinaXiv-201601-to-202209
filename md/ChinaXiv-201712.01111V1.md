@@ -1,0 +1,114 @@
+临床研究
+
+# 非优良胚胎形成的囊胚与卵裂期优良胚胎的冻融胚胎移植的临床结局比较
+
+许丽娟,陈 薪，田小龙,刘玉东，王 楠,叶德盛,郭萍萍,陈士岭南方医科大学南方医院妇产科生殖医学中心，广东广州510515摘要：目的探讨不同发育天数胚胎的发育潜能，为D3非优良胚胎进行囊胚培养及其冻融移植提供依据。方法回顾性分析687例复苏周期胚胎移植患者的资料，根据胚胎冷冻时间不同，分为3组：D5冷冻组（ $scriptstyle n = 8 7$ 、D6冷冻组（ $\scriptstyle n = 1 1 1$ 和D3冷冻组（ $\overset { \cdot } { n } = \overset { \cdot } { \underset { \cdot } { \longrightarrow } }$ 489),采用外源性雌孕激素或自然周期准备内膜,比较各组间的临床妊娠率、流产率、种植率等指标。结果每组移植周期临床妊娠率、流产率、种植率分别为：D5冷冻组 $5 8 . 6 \%$ ） $9 . 8 \%$ ） $4 2 . 9 \%$ ;D6冷冻组 $3 2 . 4 \%$ ） $1 9 . 4 \%$ ） $2 3 . 3 \%$ ;D3冷冻组 $4 4 . 9 \%$ ） $1 6 . 4 \%$ ：$2 6 . 9 \%$ 。D5冷冻组的临床妊娠率和种植率均明显高于另外两组，且差异均具有统计学意义！ $( P { < } 0 . 0 5 )$ 。结论D3的非优良胚胎继续培养，若能够形成囊胚，所形成的D5囊胚冻融移植的临床结局优于D3的优良胚胎和非优良胚胎形成的D6囊胚冻融移植的临床结局。因此D3的非优良胚胎的囊胚培养及其冻融移植具有临床应用价值，且在冻融胚胎移植周期若有不同冷冻时间的胚胎可供选择时，可以优先选择非优良胚胎来源的D5囊胚,其次选择D3的卵裂期胚胎。
+
+关键词：囊胚移植；玻璃化冷冻；临床妊娠率；非优良胚胎
+
+# Comparison of clinical outcomes of blastocysts derived from non-top quality embryos and cleavage-stage high-quality embryos in frozen-thawed embryo transfer cycles
+
+XU Lijuan, CHEN Xin,TAN Xiaolong,LIU Yudong, WANG Nan,YEDesheng, GUOPingping,CHENShiling Reproductiveedcieenteepartmentoftetricsdeologfgspitaluticalesity 510515, China
+
+Abstract:ObjectiveToexplore thedevelopmental potentialofembryosatdiferentdevelopmentaldaysandprovideevidence for blastocyst cultureof non-topqualitycleavage stage embryosin frozen-thawed embryo transfer (FET)cycles.Methods The clinicaldataof687FETcycles wereretrospectivelyanalyzed.According totheembryofreezing time,thepatients weredivided into day 5 (D5) blastocyst group $( n { = } 8 7 )$ , day 6 (D6) blastocyst group $( n { = } 1 1 1 )$ and day 3 cleavage-stage embryo (D3) group ( $\overset { \cdot } { n } =$ 489)withhormonereplacementcyclesornatural cycles forendometrial preparation.Theclinical pregnancyrates,mscariage rates,andimplantationrates werecomparedbetween the3groups.Results Theclinicalpregnancyrate,miscariagerateand implantation rate per transfer were $5 8 . 6 \%$ ， $9 . 8 \%$ ，and $4 2 . 9 \%$ in D5 group, $3 2 . 4 \%$ ， $1 9 . 4 \%$ ,and $2 3 . 3 \%$ in D6 group, and $4 4 . 9 \%$ 1 $1 6 . 4 \%$ ,and $2 6 . 9 \%$ in D3 group, respectively. The clinical pregnancy rate and implantation rate were significantly higher in D5 group than in the other two groups $_ { ( P < 0 . 0 5 ) }$ . Conclusion The D5 blastocysts derived from non-top quality D3 embryos after cryopreservation can have beter clinical outcomes than those derived from D3cleavage-stage embryos and D6 blastocysts, and are therefore a better option than D3 cleavage-stage embryos in FET cycles.
+
+Key words: blastocyst transfer; vitrification; clinical pregnancy rate; non-top quality embryo
+
+在应用体外受精-胚胎移植（ $\ln$ vitrofertilization-embryo transfer,IVF-ET)治疗不孕患者时，胚胎的质量是影响临床结局的重要因素。早期预测胚胎的着床潜能极具挑战性。目前许多生殖医学中心选择移植胚胎的策略是按照胚胎的形态学评分标准对受精后3d的卵裂期胚胎进行质量评估，根据评分选择优良胚胎进行移植和冷冻，对剩余的发育缓慢、形态学评分较低的胚胎等非优良胚胎则采用继续培养的方法，待形成囊胚后选择可用胚胎予以冻存，其中部分非优良胚胎可能形成优质囊胚，而囊胚移植可以提高临床妊娠率和胚胎着床率，但是这些卵裂期非优质胚胎形成的囊胚与卵裂期优质胚胎的着床潜能相比有无差别？即这种治疗策略给临床带来了一个新问题，若患者同时具有冻存的D3胚胎和囊胚，是选择D3胚胎抑或选择囊胚移植以尽早获得临床妊娠。本研究通过回顾性分析687例复苏周期胚胎移植患者的资料，比较非优良胚胎在第5和第6天形成的囊胚与第3天卵裂期的优良胚胎的冻融胚胎移植的临床结局，探讨不同发育天数胚胎的发育和着床潜能，为冻融胚胎移植周期胚胎的选择提供参考。
+
+# 1资料与方法
+
+# 1.1研究对象
+
+选取2011年1月 ${ \sim } 2 0 1 3$ 年12月在本生殖中心行外源性雌孕激素方案或者自然周期方案准备内膜的冻融胚胎移植的687个周期：均为第二移植周期，患者年龄均小于35岁，同时排除子宫内膜异位症患者以及拟移植日内膜厚度 $< 8 ~ \mathrm { m m }$ 的患者。所有胚胎均采用玻璃化冷冻。根据胚胎冷冻时间不同，分为3组：D5冷冻组( $\overset { \cdot } { n } = \overset { \cdot } { \underset { \cdot } { \longrightarrow } }$ 87）、D6冷冻组（ $\scriptstyle n = 1 1 1$ 和D3冷冻组 $\scriptstyle { \overbrace { n { = } 4 8 9 } }$ )。D3冷冻组移植1\~3枚胚胎，D5和D6冷冻组移植1-2枚胚胎。
+
+# 1.2胚胎评分
+
+按照Peter卵裂期胚胎评分系统评估卵裂期胚胎质量[]。I级：卵裂球大小均匀,形状规则,透亮,碎片$< 1 0 \%$ ；Ⅱ级：卵裂球稍不均匀或形状稍不规则，胞浆有颗粒现象，碎片在 $10 \% { \sim } 2 0 \%$ 之间；Ⅲ级：卵裂球明显不均匀或形状明显不规则,胞浆有颗粒现象，碎片在 $20 \%$ ）$5 0 \%$ 之间；V级：卵裂球严重不均匀或形状严重不规则，胞浆有颗粒现象，碎片 $5 5 0 \%$ 。本中心D3选择优良胚胎进行冷冻，包括以下条件：(1)由2PN发育而来；(2)胚胎卵裂球数目在7\~8个；(3)卵裂球无差异；(4)碎片小于 $20 \%$ 。
+
+# 1.3囊胚培养及评分
+
+本中心D3优良胚胎冷冻后剩余的胚胎进行囊胚培养的必须符合以下条件之一：(1)由2PN发育而来、细胞数 ${ \geqslant } 4$ 碎片 $\mathrm { \leqslant } 2 0 \%$ 的非优良胚胎或Day2到Day3未继续生长的胚胎;(2)由0PN或1PN或巨大卵非≥3PN发育而来的Day2到Day3继续生长的胚胎。根据Garnder囊胚分级法对形成的囊胚进行分级。先根据囊胚的扩张和孵出程度将囊胚分成1\~6级：1级，早期囊胚，囊胚腔体积<囊胚总体积的一半；2级，囊胚腔体积 $\cdot >$ 囊胚总体积的一半；3级，完全扩张囊胚，囊胚腔占据整个囊胚；4级，扩张后囊胚，囊胚腔体积较早期囊胚明显扩大，透明带变薄；5级，正在孵化的囊胚，囊胚正在从透明带破裂口孵出；6级，孵化出的囊胚，囊胚完全从透明带中脱出。3\~6级囊胚需对内细胞团和滋养外胚层细胞进行评分。ICM评分：A级，细胞数目多，结合紧密；B级，细胞数目较少,结合较松散;C级，细胞数目极少。TE评分：A级，细胞数目多，囊胚四周均有细胞分布；B级，细
+
+胞数目较少，上皮细胞较松散；C级，细胞数目极少。本中心将囊胚培养至5\~6d发育至2\~6期的囊胚，内细胞团质量分级 $\scriptstyle \geqslant \mathbf { B }$ 级视为可冻存囊胚，并将第5\~6天评分$\scriptstyle \geqslant 3 \mathrm { B B }$ 的囊胚定为优质囊胚。
+
+# 1.4子宫内膜准备方法
+
+1.4.1外源性雌孕激素替代方案(HRT）患者于月经来潮的第2天开始口服戊酸雌二醇（补佳乐， $\mathrm { 1 ~ m g / }$ 片，拜耳医药保健有限公司） $4 \mathrm { m g / d }$ 起始，每4d增加 $2 \ : \mathrm { m g }$ ，共服12d后B超监测子宫内膜厚度，子宫内膜厚度 ${ < } 8 ~ \mathrm { m m }$ 者,补佳乐再增至 $1 0 \mathrm { m g / d }$ ，4d后B超监测子宫内膜厚度，当子宫内膜厚度 ${ \bf \hat { \tau } } \mathbf { \geq } 8 \ \mathbf { m m }$ ,当日抽血检测血清 $\mathrm { E } _ { 2 } , \mathrm { L H }$ 和P的水平，随后加上黄体酮 $6 0 ~ \mathrm { m g }$ 肌肉注射进行黄体支持，3d或5d后行D3胚胎或囊胚移植，并继续给予黄体酮及补佳乐。
+
+1.4.2自然周期方案对于月经规律有排卵者，在预计排卵日前 $3 { \sim } 4 \mathrm { d }$ 行B超检测卵泡发育，并行尿黄体生成素（LH)监测。当B超监测排卵或尿LH出现峰值且内膜 $\mathrm { > } 8 \ \mathrm { m m }$ ,即抽血检测血清 $_ { \mathrm { E } _ { 2 } , \mathrm { L H } }$ 和P的水平，随后加上黄体酮 $6 0 ~ \mathrm { m g }$ 肌肉注射进行黄体支持。于排卵后 $3 \mathrm { d } /$ 5d或LH峰出现 $4 \ : \mathrm { d } / 6 \ : \mathrm { d }$ 行D3胚胎或囊胚移植，并继续给予黄体酮。
+
+# 1.5移植结局
+
+临床妊娠：移植后4周B超下见到妊娠囊。妊娠 $> 2 0$ 周为继续妊娠。种植率：B超下见到的妊娠囊总数 占移植胚胎总数的百分比。
+
+# 1.6统计学分析
+
+使用SPSS16.0软件进行统计分析，计数资料采用卡方检验，计量资料采用独立样本 $\mathbf { \Phi } _ { t }$ 检验， $P { < } 0 . 0 5$ 表示差异有统计学意义。
+
+# 2结果
+
+# 2.1 基本情况比较
+
+3组间在年龄、不孕时间及内膜准备方案、不孕类型方面均无显著差异 $( P { > } 0 . 0 5 )$ 。但D6组的年龄较D5组大，且有统计学差异( $_ { P < 0 . 0 5 }$ ，表1)。
+
+# 2.2 决定移植日子宫内膜厚度、血清雌、孕激素水平的 比较
+
+3组在决定移植日子宫内膜厚度、血清雌、孕激素水平这3方面均无差异( $_ { \mathrm { \infty . 0 . 0 5 } }$ ，表2)。
+
+# 2.3冻融胚胎移植的临床结局比较
+
+由表3可见，按照移植个数分别比较各组间的妊娠 情况，移植1个或 ${ \geqslant } 2$ 个胚胎D5冷冻组妊娠率均高于D3 冷冻组和D6冷冻组，D5冷冻组妊娠率分别为： $5 3 . 8 \%$ 和 $5 9 . 5 \%$ ，且移植2个胚胎时D5冷冻组与其他两组的 妊娠率差异均有统计学意义 $( P { < } 0 . 0 5 )$ 。虽然移植1个 和2个胚胎时D3组妊娠率均高于D6冷冻组( $3 5 . 5 \%$ vs
+
+表1患者一般情况Tab.1 Baseline characteristics of the patients (n=number of cycles)  
+
+<html><body><table><tr><td></td><td>D5(n=87)</td><td>D6(n=111)</td><td>D3(n=489)</td><td>P</td></tr><tr><td>Age(year)</td><td>29.1±2.9</td><td>29.9±3.0*</td><td>29.7±2.8</td><td>0.111</td></tr><tr><td>Years of infertility(year)</td><td>4.1±2.0</td><td>4.4±3.0</td><td>4.6±2.6</td><td>0.169</td></tr><tr><td>Endometrial preparation</td><td></td><td></td><td></td><td rowspan="3">0.21</td></tr><tr><td>HRT(n)</td><td>54</td><td>57</td><td>255</td></tr><tr><td>Natural cycle(n)</td><td>33</td><td>54</td><td>234</td></tr><tr><td>Type of infertility</td><td></td><td></td><td></td><td></td></tr><tr><td>Primary infertility(n)</td><td>39</td><td>60</td><td>260</td><td>0.893</td></tr><tr><td>Secondary infertility(n)</td><td>38</td><td>51</td><td>229</td><td></td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5 \mathrm { \ } v s$ D5 group.
+
+表2决定移植日子宫内膜厚度、血清雌、孕激素水平 Tab.2 Endometrial thickness and serum levels of $\mathrm { E } _ { 2 }$ and $\mathrm { \Delta P }$ on the dayof transfer ( $\scriptstyle { n = { \frac { } { } } }$ number of cycles)   
+
+<html><body><table><tr><td></td><td>D5(n=87)</td><td>D6(n=111)</td><td>D3(n=489)</td><td>P</td></tr><tr><td>Endometrial thickness(mm)</td><td>9.6±1.6</td><td>9.3±1.4</td><td>9.6±1.6</td><td>0.290</td></tr><tr><td>E(pg/ml)</td><td>393.1±473.8</td><td>357.8±313.1</td><td>370.5±324.4</td><td>0.840</td></tr><tr><td>P(ng/ml)</td><td>0.89±0.33</td><td>0.65±0.39</td><td>0.69±0.48</td><td>0.266</td></tr></table></body></html>
+
+$2 6 . 2 \%$ $4 5 . 1 \ \%$ vs $3 6 . 2 \%$ )，但差异均无统计学意义， $P >$ $0 . 0 5$ 。3组的多胎均发生于移植多于2个胚胎时，比较其多胎率可见D3冷冻组的多胎率虽然较其余两组均高（可能与D3冷冻组移植胚胎个数有关)，但3组的差异无统计学意义， $P { > } 0 . 0 5$ 。在移植2个胚胎时，D3冷冻的多胎妊娠率为 $3 2 . 2 \% ( 4 4 / 1 3 7 )$ ,移植3个则为 $4 0 . 8 \% ( 3 1 \%$ 76)。3组间的异位妊娠情况比较示D6冷冻组的异位妊娠率明显高于其他两组，但差异无统计学意义， $P >$ 0.05。其中D6冷冻组有1例宫内合并宫外妊娠，D3冷冻组移植3个胚胎时发生2例，均行手术减灭宫外胚胎，宫内妊娠均得以保留，并顺利分娩。D5冷冻组的种植率显著高于其他两组，且差异有统计学意义， $P { < } 0 . 0 5 ,$ □虽然D3冷冻组较D6冷冻组种植率稍高，但差异无统计学意义， $P { > } 0 . 0 5 _ { \circ }$ ，尽管D5组的继续妊娠率较其他两组均高，但3组的继续妊娠率相互间差异均无统计学意义。
+
+# 3讨论
+
+胚胎质量是影响IVF-ET临床妊娠结局的重要因素，目前大多数生殖中心在临床上是以胚胎形态学作为胚胎质量的判断标准，与卵裂期胚胎相比，囊胚培养和移植通过延长胚胎体外培养时间对胚胎发育潜能进行了筛选，故囊胚移植能够明显提高临床妊娠率和胚胎着床率。但是若全部进行囊胚培养，囊胚形成率约为$40 \%$ ，约 $9 \%$ 的患者无囊胚形成而无可用胚胎，但是这部分卵裂期胚胎中有部分胚胎是可以着床的[3。故大多数生殖医学临床采用的策略是在受精后3d选择优质胚胎进行移植和冻存，剩余的发育缓慢、形态学评分较低的胚胎等非优良胚胎采用囊胚培养的方法选择可用胚胎予以冻存。但已有研究证实因形态学评分低而被认为不适合移植和冷冻的胚胎，行囊胚培养后可形成囊胚，这些胚胎在新鲜周期移植也可获得较好的临床妊娠率[46]。
+
+表33组妊娠结局的比较 Tab.3 Comparison of clinical outcomes in the 3 groups (n=number of cycles)   
+
+<html><body><table><tr><td></td><td>D5 group(n=87)</td><td>D6 group(n=111)</td><td>D3 group(n=489)</td><td>P</td></tr><tr><td>Single embryo transfer cycle(n)</td><td>13</td><td>42</td><td>17</td><td></td></tr><tr><td>Clinical pregnancy rate(%)</td><td>53.8(7/13)</td><td>26.2(11/42)</td><td>35.3(6/17)</td><td>0.178</td></tr><tr><td>Multiple pregnancy rate(%)</td><td>0.0(0/7)</td><td>9.1(1/11)</td><td>16.7(1/6)</td><td>0.552</td></tr><tr><td>Miscarriage rates(%)</td><td>14.3(1/7)</td><td>9.1(1/11)</td><td>0.0(0/6)</td><td>0.645</td></tr><tr><td>Transfer 2or 3 embryos cycle(n)</td><td>74</td><td>69</td><td>472</td><td></td></tr><tr><td>Clinical pregnancy rate(%)</td><td>59.5(44/74) *</td><td>36.2(25/69)**</td><td>45.1(213/472)</td><td>0.017</td></tr><tr><td>Multiple pregnancy rate(%）</td><td>38.7(17/44)</td><td>20.0(5/25)</td><td>35.3(75/213)</td><td>0.252</td></tr><tr><td>Ectopic pregnancy rate(%)</td><td>0.0(0/44)</td><td>8.0(2/25)</td><td>3.3(7/213)</td><td>0.189</td></tr><tr><td>Implantation rate(%)</td><td>41.9(62/148) *</td><td>22.5(31/138)**</td><td>26.8(293/1095)</td><td>0.000</td></tr><tr><td>Miscarriage rates(%)</td><td>9.1(4/44)</td><td>24.0(6/25)</td><td>16.9(36/213)</td><td>0.244</td></tr><tr><td>Total clinical pregnancy rate(%)</td><td>58.6(51/87) *</td><td>32.4(36/111)**</td><td>44.8(219/489)</td><td>0.001</td></tr><tr><td>Total multiple pregnancy rate(%)</td><td>33.3(17/51)</td><td>16.7(6/36) *</td><td>34.7(76/219)</td><td>0.099</td></tr><tr><td>Total ectopic pregnancy rate(%)</td><td>0(0/51)</td><td>5.6(2/36)</td><td>3.2(7/219)</td><td>0.293</td></tr><tr><td>Total implantation rate(%)</td><td>42.9(69/161) *</td><td>23.3(42/180)**</td><td>26.9(299/1112)</td><td>0.000</td></tr><tr><td>Total miscarriage rate(%)</td><td>9.8(5/51)</td><td>19.4(7/36)</td><td>16.4(36/219)</td><td>0.404</td></tr><tr><td>Total ongoing pregnancy rate（%）</td><td>90.2(46/51)</td><td>80.6(29/36)</td><td>83.6(183/219)</td><td>0.404</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs D3 group; $^ { * * } P { < } 0 . 0 5$ vs D5 group.
+
+此外，目前在辅助生殖治疗中，仅有 $3 1 . 2 \%$ 的胚胎被利用，可见在辅助生殖治疗中有很高的胚胎浪费率。如果将胚胎评分低、发育速度慢的胚胎能够利用，那胚胎的利用率和累计妊娠率都将提高[4]。Balaban等[5研究表明，卵裂期胚胎质量与囊胚形成率有关，而与形成的囊胚质量无关。因此，对一些形态学上认为无、冻存价值的非优质胚胎可延长体外培养时间，培养至囊胚，筛选出具有发育潜能的胚胎，从而可以最大限度地利用胚胎，减少患者的损失[3,8]。
+
+随着胚胎干细胞研究的发展，非优良胚胎越来越受到人们的关注。在临床上移植这样发育缓慢的低评分胚胎仍然获得妊娠并产下正常婴儿的例子亦不少见。我们的研究表明，发育缓慢低评分的胚胎行囊胚培养至第5\~6天后可形成囊胚，且复苏周期移植能获得较好的临床结局。比较复苏周期移植非优良胚胎培养形成的第5天囊胚与第3天卵裂胚胎，证明早期胚胎形态学评分并不能准确的预测胚胎的发育潜能，通过囊胚培养能筛选出有发育潜能的胚胎,提高了胚胎的利用率，最大限度的节约胚胎4。我们的研究显示D3冷冻组和D5冷冻组的继续妊娠率和异位妊娠率分别是 $8 3 . 6 \%$ 和$3 . 2 \%$ $9 0 . 2 \%$ 和 $0 \%$ ,虽然均无统计学差异，但D5冷冻组较D3冷冻组继续妊娠率高约 $7 \%$ 而无一例异位妊娠出现。分析原因，可能与以下因素有关：(1)在体内，卵裂期胚胎尚位于输卵管中，因此，在囊胚期进行胚胎移植使胚胎发育与子宫内膜同步,更符合子宫的生理环境[10],这与D5冷冻组的临床妊娠率高于D3冷冻组相符合。(2)由于不是每个胚胎均有继续发育的潜能,约有一半的胚胎发育至2\~3d的4\~8细胞即停滞,而早期胚胎的形态学评分并不能评估胚胎的发育潜能，因此部分评分高的优良胚胎亦有发育停滞的情况出现，而囊胚培养可以有效的对胚胎进行筛选，得到发育潜能更好的胚胎。D5冷冻组的囊胚虽然来源于非优良胚胎，但其经过了囊胚培养的筛选,所以D5冷冻组的种植率较D3冷冻组显著增高。(3)囊胚移植缩短了移植后胚胎继续发育与着床之间的间隔，且子宫收缩减少，有利于胚胎的着床且可以减少胚胎被排出的机会[2]，囊胚较卵裂期胚胎移植的异位妊娠发生率低与此有关。我们的研究也显示，D5冷冻组的异位妊娠率为 $0 \%$ ,低于D3冷冻组的异位妊娠率 $( 3 . 2 \%$ )。由此可见D3的非优良胚胎继续培养，若能够形成囊胚，所形成的D5囊胚冻融移植的临床结局可优于D3的优良胚胎冻融移植的临床结局，因此在冻融胚胎移植时，若有D3的卵裂期胚胎和非优良胚胎来源的D5囊胚可供选择时，可以优先选择D5囊胚进行移植以获得更好的临床结局。
+
+本研究同时比较了来源于非优良胚胎形成的D5和D6囊胚的临床结局，结果显示，按照移植个数分别比较第5天囊胚较第6天囊胚的临床妊娠率，均显示D5组较D6组临床妊娠率高，且差异均有统计学意义（ $P <$ 0.05）。D5组较D6组种植率高，分别为 $4 4 . 6 \%$ 和$2 4 . 7 \%$ ，且差异有统计学意义（ $( P { < } 0 . 0 5 )$ 。分析原因，可能是：(1)第5天观察胚胎时我们将符合冷冻标准的3BB以上的胚胎冷冻，而2期胚胎、早期桑葚胚将继续培养至第6天再观察，这个过程也是对胚胎的一个选择，同时，继续发育至D6天的胚胎即使能够发育到达到冷冻的标准，在第5天也显示胚胎的发育滞后[13；(2)与第5天囊胚移植相比，第6天囊胚移植时的子宫内膜与胚胎发育不同步，内膜的容受性差，这也可能是D6组较D5组和D3组的异位妊娠发生率显著增高的原因。有研究显示，D5和D6冻融周期行单囊胚移植，其临床妊娠率分别为 $56 . 5 \%$ 和 $4 4 . 9 \%$ ，且差异有统计学意义( $P <$ 0.001)[14]。这与我们的研究相符。而任新玲等研究认为，即使第6天发育至3期以上的囊胚，其复苏后对妊娠结局也没有影响，他们认为囊胚的发育速度对妊娠结局无影响[15]。Vanderzwalmen等研究表明,相对于第5天囊胚来说，即使第6天囊胚完全扩张、质量较好，但因为其囊胚的细胞增多，导致较多的新陈代谢和更大的囊胚腔,这些都会影响冷冻复苏的过程和结果[16]。因此认为，第5天的囊胚较第6天的囊胚有更好的发育潜能，这与我们的研究结果相符合。因而，在复苏周期中若有第5天囊胚和第6天囊胚可供选择时，优先选择第5天囊胚进行移植将获得更好的临床结局。
+
+本研究中，第3天卵裂期胚胎与来源于非优良的第6天囊胚比较，第3天胚胎较来第6天囊胚临床妊娠率和种植率略高，分析原因，可能与来源于非优良胚胎行囊胚培养过程中发育滞后有关[14]，且第6天囊胚与子宫内膜不同步，这些因素都将影响胚胎着床。但样本数较少，需要进一步研究来验证该结论。
+
+综上所述，对于以往卵裂期胚胎形态学评分低、发育缓慢被认为不可移植的非优良胚胎可以加以选择，对于有培养价值的胚胎延长培养时间直至囊胚期，D5和D6能够形成囊胚的胚胎在冻融移植周期仍然可以获得较好的妊娠结果，尤其是D5囊胚在冻融胚胎移植周期可以获得更高的临床妊娠率，故在冻融胚胎移植周期中，若有不同冷冻时间的胚胎可以选择时，优先选择非优良胚胎来源的D5囊胚，其次选择D3卵裂期胚胎进行移植。通过非优良胚胎选择性的囊胚培养和冻融胚胎移植周期移植胚胎的选择，能有效提高胚胎的利用率，改善患者的临床结局，减轻患者的经济负担和缓解患者的心理压力。
+
+# 参考文献：
+
+[1]Brinsden,PR.A textbook of in vitro fertilization and assisted reproduction[M.NewYork: The part heno Publishing Group Inc, 1999: 196.   
+[2]Gardner DK,Lane M,Stevens J,et al.Blastocyst score affects implantation and pregnancy outcome: towards a single blastocyst transfer[J].Fertil Steril,2000,73(6):1155-8.   
+[3]高梦莹,李永刚,马艳萍,等.囊胚培养与囊胚移植的临床应用[J].生 殖与避孕,2011,31(11): 765-8.   
+[4]Ren X,Liu Q,Chen W,et al. Selection and vitrification of embryos with a poor morphological score:a proposal to avoid embryo wastage[J].JHuazhong Univ Sci Technolog Med Sci, 2012,32(3): 405-9.   
+[5]Balaban B,Urman B,Alatas C,et al.Blastocyst-stage transfer of poor-quality cleavage-stage embryos results in higher implantation rates[J].Fertil Steril, 2001,75(3): 514-8.   
+[6]Graham J,Han T,Porter R,etal.Day 3 morphology isa poor predictor of blastocyst quality in extended culture[J].Fertil Steril, 2000,74(3): 495-7.   
+[7]Patrizio P, Sakkas D.From oocyte to baby:a clinical evaluation of the biological efficiency of in vitro fertilization[J].Fertil Steril, 2009,91(4):1061-6.   
+[8]Poulain M,Hesters L,Sanglier T,et al.Is it acceptable to destroy or include human embryos before day 5 in research programmes? J] Reprod Biomed Online,2014,28(4): 522-9.   
+[9］王治鸿,王丽媛,土增荣,等.非优质胚胎继续囊胚培养冷冻复苏移植 后获临床妊娠二例并文献分析[J].中国药物与临床,2013,13(11): 1454-5.   
+[10]Kolibianakis EM,Zikopoulos K,Verpoest W,et al. Should we advise patients undergoing IVF to start a cycle leading to a day 3 or a day 5 transfer?J].Hum Reprod,2004,19(11): 2550-4.   
+[11]黄荷凤,王利权.现代辅助生育技术[M].北京:人民军医出版社 2003.   
+[12]Fanchin R,Ayoubi JM,Righini C,et al.Uterine contractility decreases at the time of blastocyst transfers[J].Hum Reprod,2001, 16(6): 1115-9.   
+[13]Kirkegaard K,Kesmodel US,Hindkjaer JJ,et al.Time-lapse parameters as predictors of blastocyst development and pregnancy outcome in embryos from good prognosis patients:a prospective cohort study[J].Hum Reprod,2013,28(10): 2643-51.   
+[14]李 城,李 梅,马水英,等.不同发育天数冻融单囊胚移植的临床结局 比较[J].现代妇产科进展,2014,23(2):121-3.   
+[15]任新玲,章汉旺,刘群,等.复苏周期单囊胚移植的影响因素分析[J]. 华中科技大学学报:医学版,2011,40(6):742-5.   
+[16]Vanderzwalmen P,Bertin G,Debauche Ch,et al.Births after vitrification at morula and blastocyst stages:effect of artificial reduction of the blastocoelic cavity before vitrification[J]. Hum Reprod,2002,17(3): 744-51.
+
+(编辑：经媛)

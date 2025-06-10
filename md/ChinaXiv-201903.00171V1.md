@@ -1,0 +1,194 @@
+# 黄土丘陵沟壑区生态移民过程及其生态系统服务价值评价
+
+以宁夏海原县为例
+
+王鹏,²，刘小鹏1,²，王亚娟²，韩晓佳,4， 温胜强1,2（1宁夏大学资源环境学院，宁夏银川750021;2宁夏(中阿)旱区资源评价与环境调控重点实验室，宁夏银川750021;3中国科学院水利部水土保持研究所,陕西杨凌712100；4中国科学院大学,北京100049)
+
+摘要：以海原县为研究对象，以2000、2005、2010年和2015年遥感数据为基础数据,综合运用土地利用动态度、生态系统服务价值评价模型、地理探测器等模型对海原县2000—2015年的生态系统服务价值时空变化进行研究。结果显示:2000—2015年海原县土地利用类型发生明显变化，林地、建设用地、水域以及园地面积分别增加 $2 4 \ 5 3 2 . \ 5 6 \ \mathrm { h m } ^ { 2 } \setminus 1 3 \ 2 3 3 . 7 1 \ \mathrm { h m } ^ { 2 } \setminus 1 \ 0 9 3 . \ 5 8 \ \mathrm { h m } ^ { 2 }$ 和812.16$\mathrm { { h m } } ^ { 2 }$ ,而耕地、草地和未利用地面积呈下降趋势，其中未利用面积下降幅度最大，共减少21333.05$\mathbf { h } \mathbf { m } ^ { 2 }$ ;研究期间海原县生态系统服务价值呈现出逐年增加的变化趋势，由2000 年的 $3 7 . 2 5 \times 1 0 ^ { 8 }$ 元增加至2015年的 $6 2 . 2 3 \times 1 0 ^ { 8 }$ 元，变化率为 $6 7 . 0 7 \%$ ，而林地、园地和水域面积的增加是海原县生态系统服务价值增加的关键；从生态系统服务价值空间分布来看，海原县生态系统服务价值在空间呈现出由西南向东北递减的变化趋势；研究期间研究区生态系统单项服务价值均呈现出增加的变化趋势,其中废物处理和水源涵养增加量最大，其次是生物多样性和气候调节，而食物生产、原材料生产以及娱乐文化增加量最低，说明海原县的生态系统调节服务 $>$ 支持服务 $>$ 供给服务 $>$ 文化服务；通过地理探测器诊断发现草地、园地、林地、气候调节、土壤形成与保护、生物多样性保护的决定力$q$ 值均 $> 0 . 8$ ,说明这6项因子对研究区生态系统服务价值变化具有重要的影响作用。
+
+关键词：生态移民过程；黄土丘陵沟壑区；生态系统服务价值；地理探测器；海原县文章编号： 1000 -6060(2019)02-0433-11(0433\~0443)
+
+生态系统服务是通过生态系统结构、过程和功能直接或间接得到的生命支持产品和服务，具有巨大的间接和直接的经济价值，是生态资产的重要组成部分，也是人类赖以生存的物质基础和环境条件[1-2]。当前生态系统服务问题成为生态学与地理学等相关学科的研究前沿和热点问题，国内外学者针对生态系统服务功能进行了大量的研究，取得了丰富的研究成果。国外学者COSTANZA［3-4]从生态系统功能的角度出发估算了全球16个生物区系的经济价值，并将全球生态系统服务分为17类，为生态系统服务理论和方法的发展奠定了基础；DAI-LY[5]提出了评价生态系统服务及其权衡效应的概念框架，并将生态系统服务分为产品生产、再生产过程、稳定性维持过程、生态实现功能和多样性保护功能;SINCLAIR[6]基于COSTANZA[4]提出的生态系统服务理论与方法将生态系统服务分为供给服务、调节服务、文化服务和支持服务4类，在国内外研究中被广泛使用。而 Ronnback、Bolund[7]等利用该理论和方法对农业和城市生态系统的服务价值进行了估算，使生态系统服务价值理论及其方法得到长足的发展。Polasky[8]等利用土地利用变化数据对区域生态系统服务价值进行了实证分析。我国学者谢高地[9]等将Costanza 提出的生态系统服务价值的估算原理和方法与我国实际情况相结合，提出了“中国生态系统服务单位面积生态服务价值当量”表，为我国生态系统服务价值核算奠定了基础。目前学术界针对土地利用变化与生态系统服务的关系研究成果比较丰富，主要包括土地利用变化与生态系统服务理论方法探讨[10],以及基于3S 和模型的城市[11-12]、库区、海岸带、公路沿线和流域等[13-16]土地利用变化对生态系统服务价值的影响研究。
+
+2001年以来，国家对居住在生存环境恶劣、“一方水土养不起一方人”地区的贫困人口组织实施了大规模易地扶贫搬迁，累计搬迁 $6 . 8 \times 1 0 ^ { 6 }$ 余人。“十三五"期间,全国计划易地扶贫搬迁贫困人口达$1 ~ 0 0 0 \times 1 0 ^ { 4 }$ 人。宁夏是我国较早实施生态移民的典型区域，自20世纪80年代以来先后组织实施了吊庄移民（1983—2000年）、易地生态移民（2001—2007年）、中部干旱带县内生态移民（2007一2011年)和中南部地区生态移民(2011年一至今)4个阶段的生态移民工程。生态移民作为解决人口、贫困和环境问题的有效途径和方法得到了政府、学者以及社会各界人士的广泛关注，并针对生态移民进行了大量的研究，生态移民的主要研究内容包括生态移民意愿与影响因素和农户响应[17]、安置区可持续发展与战略[18]、生计转型[19]、效益评估[20] 安置模式[21]以及生态补偿[22]、生态移民政策[23]和安置区生态风险评价[24-26]等研究。而生态移民过程最直接的表现是改变迁出区和迁入区土地利用结构，致使迁入区土地的规模集中开发，对迁出区和迁入区生态系统服务产生重要影响。
+
+生态移民是具有扶贫和生态建设双重意义的特殊的人口迁移过程，对区域土地利用产生最直接的作用，导致生态系统服务价值的变化。本文以地处黄土丘陵沟壑区的宁夏海原县为例，采用土地利用动态度、生态系统服务价值指数和敏感性指数，结合地理探测器模型，揭示生态移民过程中土地利用变化对生态系统服务影响的机制特征，以期为生态移民地区土地利用规划和生态建设提供理论参考和科学依据，进一步丰富生态系统服务价值研究内容。
+
+# 研究区概况
+
+海原县地处宁夏中部干旱带，介于 $1 0 5 ^ { \circ } 0 9 ^ { \prime } \sim$ $1 0 6 ^ { \circ } 1 0 ^ { \prime } \mathrm { ~ E ~ } , 3 6 ^ { \circ } 0 6 ^ { \prime } \sim 3 7 ^ { \circ } 0 4 ^ { \prime } \mathrm { ~ N ~ }$ 之间(图1）。该区域处于黄土高原西北部，境内丘陵起伏，沟壑纵横，地势西南高、东北低，其地貌类型由西南向东北可依次分为土石山区、黄土丘陵沟壑区和河谷川区，平均海拔 $1 ~ 9 5 0 \sim 2 ~ 1 6 0 ~ \mathrm { m }$ ,属于典型的温带大陆性气候,年平均气温 $7 . 2 ~ \mathrm { ^ { \circ } C }$ 。光照资源丰富，年日照时数2710h,年平均降水量 $3 6 0 ~ \mathrm { m m }$ ,年均蒸发量 $2 \ 2 0 0 \ \mathrm { m m }$ ，素有“十年九旱”之称,是宁夏最干旱的县之一。海原县总面积 $6 ~ 3 7 7 . 6 4 ~ \mathrm { k m } ^ { 2 }$ ,辖5个镇、12个乡，165个行政村。据宁夏统计数据显示，截止2015年底，全县农民人均纯收入6257.98元，总人口约 $3 9 . 6 9 \times$ $1 0 ^ { 4 }$ 人,其中回族人口约占总人口的 $7 0 . 8 5 \%$ ,全县实现地区生产总值（GI $\mathrm { ) P ) } 4 3 . 8 5 \times 1 0 ^ { 8 }$ 元,三次产业结构为 $2 5 . 5 \%$ $, 3 1 . 2 \%$ 和 $4 3 . 3 \%$ 。
+
+![](images/b0a8940763ca9c457b327e8e02b02c0c97c7282a264b220296f07273aac452ed.jpg)  
+图1研究区位图  
+Fig.1Geographical location of study area
+
+# 2 数据与方法
+
+# 2.1 数据来源与处理
+
+本文以海原县2000、2005、2010 和2015 年4期LandsatTM遥感卫星影像为研究数据，利用ENVI5.0遥感解译软件对将海原县不同时期的卫星影像进行波段合成、裁剪、图像配准等预处理。依据土地资源分类系统，结合海原县土地利用现状，将研究区分为耕地、园地、林地、草地、水域、建设用地和未利用地7种土地利用类型。在ArcGIS软件的支持下，采取人机交互式解译,通过监督分类和目视解译相结合的解译方法，得到研究区2000、2005、2010、2015年的土地利用矢量图。通过利用GPS野外采样点对遥感影像分类结果进行精度检验发现，海原县4期土地利用分类的解译总精度与Kappa指数均大于0.82，达到研究解译精度需求。社会经济数据来源于相应年份的《宁夏统计年鉴》和《海原县统计公报》以及相关调查数据。
+
+# 2.2生态系统服务价值研究方法
+
+2.2.1土地利用变化分析土地利用动态度是土地利用变化动态的重要指标，是指一定时间内区域中某种土地利用类型的数量变化情况[27],其表达式为：
+
+$$
+K = ( U _ { a } - U _ { b } ) \times \frac { 1 } { T } \times 1 0 0 \%
+$$
+
+式中： $K$ 为研究时段内某一土地利用类型的动态度，$U _ { a }$ 和 $U _ { b }$ 分别为研究初期和研究末期某种土地利用类型的面积， $T$ 为研究时段。
+
+2.2.2单位面积生态系统服务价值的确定本研究引用谢高地等[28]提出的单位面积生态系统服务价值当量表，依据海原县社会经济发展状况，对单位面积农田年粮食产量的经济价值进行修正，得到研究区不同生态系统服务的价值系数表。其修正计算方法为：
+
+$$
+E = \frac { 1 } { 7 } \sum _ { i = 1 } ^ { n } \frac { m _ { i } p _ { i } q _ { i } } { M } ( i = 1 , 2 , \cdots , n )
+$$
+
+式中： $E$ 为单位面积农田生态系统提供的食物生产服务功能的经济价值（元· $\mathrm { h m } ^ { - 2 }$ ）； $i$ 为农作物种类;$m _ { i }$ 为第 $i$ 种粮食作物的面积; $p _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 种作物的全国平均价格 $( \overrightarrow { \pi } \cdot \mathbf { t } ^ { - 1 }$ ）； $q _ { i }$ 为第 $\mathbf { \chi } _ { i }$ 中粮食作物单产（t· $\mathbf { h } \mathbf { m } ^ { - 2 }$ ）； $M$ 为粮食作物总面积;1/7为在没有人力投入的自然生态系统提供的经济价值是现有单位面积农田提供的粮食生产服务价值的 $1 / 7$ 。表1为2015 年海原县不同生态系统服务价值系数表。
+
+2.2.3生态服务价值及其变化量估算本研究依据COSTANZA等学者提出的生态系统服务价值评价模型，结合海原县的实际状况对研究区各土地利用类型单位面积年度生态系统服务功能价值进行计算，其中建设用地的生态系统服务功能价值不进行估算。其计算公式如下：
+
+$$
+\ E S V \ = \ \sum P _ { i } \times { \cal L } _ { i }
+$$
+
+$$
+\mathit { E S V } _ { f } = \sum P _ { f i } \times L _ { i }
+$$
+
+式中： $E S V$ 为研究区生态系统服务总价值； $\boldsymbol { P } _ { i }$ 为单位面积上土地利用类型 $i$ 的生态系统服务价值（元· $\mathrm { h m } ^ { - 2 } \cdot \mathrm { ~ a ~ } ^ { - 1 } ,$ ; $L _ { i }$ 为研究区土地利用类型面积$( \mathrm { \nabla { h m } } ^ { 2 } ) : E S V _ { f }$ 为研究区生态系统单项服务价值（元）； $P _ { f i }$ 为单位面积上土地利用类型的生态系统单项服务价值（元· $\mathbf { h } \mathbf { m } ^ { - 2 } \cdot \mathbf { a } ^ { - 1 }$ ）
+
+表12015年海原县不同生态系统服务价值系数表  
+Tab.1Value coefficients of different ecosystem services in Haiyuan County in 2015   
+
+<html><body><table><tr><td>一级类型</td><td>二级类型</td><td>森林</td><td>草地</td><td>农田</td><td>湿地</td><td>河流/湖泊</td><td>未利用地</td></tr><tr><td>调节服务</td><td>气体调节</td><td>3 653.62</td><td>835.11</td><td>521.95</td><td>1 879.00</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>气候调节</td><td>2 818.50</td><td>939.50</td><td>929.06</td><td>17 850.52</td><td>480.19</td><td>0.00</td></tr><tr><td></td><td>水源涵养</td><td>3 340.45</td><td>835.11</td><td>626.33</td><td>16 180.30</td><td>21 274.48</td><td>31.32</td></tr><tr><td></td><td>废物处理</td><td>1 367.50</td><td>1 367.50</td><td>1 711.98</td><td>18 977.92</td><td>18 977.92</td><td>10.44</td></tr><tr><td>供给服务</td><td>食物生产</td><td>104.39</td><td>313.17</td><td>1 043.89</td><td>313.17</td><td>104.39</td><td>10.44</td></tr><tr><td></td><td>原材料生产</td><td>2 714.11</td><td>52.19</td><td>104.39</td><td>73.07</td><td>10.44</td><td>0.00</td></tr><tr><td>支持服务</td><td>土壤形成与保护</td><td>4 071. 17</td><td>2 035.59</td><td>1 524.08</td><td>1 785.05</td><td>10.44</td><td>20.88</td></tr><tr><td></td><td>生物多样性</td><td>3 403.08</td><td>1 137.84</td><td>741. 16</td><td>2 609.73</td><td>2 599.29</td><td>354.92</td></tr><tr><td>文化服务</td><td>娱乐文化</td><td>1 336.18</td><td>41.76</td><td>10.44</td><td>5793.59</td><td>4 530.48</td><td>10.44</td></tr></table></body></html>
+
+# 2.3 地理探测器
+
+地理探测器是基于GIS空间叠加技术和集合论，用以识别多因子之间交互作用的模型方法，在分析地理要素格局演变和地域空间分异等方面应用十分广泛[29-30] O
+
+借鉴地理探测器模型，引入生态系统服务价值分异决定力指标 $\textit { q }$ 。假定研究区域存在生态系统服务价值指数 $y _ { \circ } \ y$ 被采集在研究区域内，由采样单元$i ( i = 1 , 2 , 3 , \cdots , n , n$ 为总采样单元数)组成的格点系统，假设 $A = \left\{ A _ { h } \right\}$ 是可能存在的一种影响生态系统服务价值分异的因素， $h = 1 , 2 , 3 , \cdots , L , L$ 为因素分类数， $\boldsymbol { A } _ { h }$ 代表因素 $A$ 不同的类型。一个类型 $h$ 对应空间上一个或多个子区域。为了探测因素 $A$ 与生态系统服务价值指数 $y$ 的空间相关性，将生态系统服务价值指数 $y$ 图层与因素 $A$ 图层叠置，在因素$A$ 的第 $h$ 类型（对应一个或多子区域）， $y$ 的离散方差被记为 $\sigma ^ { 2 }$ ，因素A对生态系统服务价值指数 $\mathrm { \Delta y }$ 的决定力大小为：
+
+$$
+q ~ = ~ 1 ~ - \frac { 1 } { n \sigma ^ { 2 } } \sum _ { h = 1 } ^ { L } n _ { h } \sigma ^ { 2 }
+$$
+
+式中： $n _ { h }$ 为在因素 $A$ 的类型 $h$ （对应一个或多个子区域)内的样本数; $n$ 为在整个研究区域H内的所有样本数， $n = \ \sum _ { h \ : = 1 } ^ { L } { n } _ { h }$ 为因素 $A$ 的分类数； $\sigma ^ { 2 }$ 扩为整个区域的离散方差。当各因素对生态系统服务价值发生具有决定力时，每个类型（对应一个或多子区域)的离散方差 $\sigma _ { h } ^ { 2 }$ 会较小,类型（对应一个或多个子区域)之间的离散方差会较大。当离散方差 $\sigma _ { h } ^ { 2 }$ 趋近于0时，因素 $A$ 的决定力 $q = 1$ ，是生态系统服务价值发生分异完全由因素 $A$ 决定的理想状态；当因素 $A$ 的决定力 $q = 0$ 时，生态系统服务价值指数随机分布，因素 $A$ 对生态系统服务价值发生分异没有影响，决定力 $q$ 值越大，表明因素对生态系统服务价值发生分异的影响越大。通过比较因素决定力的大小，探测出生态系统服务价值分异的主导因素。
+
+# 3 结果与分析
+
+# 3.1 土地利用动态分析
+
+海原县不同土地利用类型中，草地和耕地面积所占比例最大，两者占总面积的 $7 5 \%$ 以上，水域和园地面积最小，所占比例不足总面积的 $0 . 0 2 \%$ ，各类土地利用类型面积从大到小依次为草地 $>$ 耕地 $>$ 林地 $>$ 建设用地 $>$ 未利用地 $>$ 水域 $>$ 园地。2000—2015年间海原县不同土地利用面积变化较为明显，林地、建设用地、水域以及园地面积分别由2000 年的 $6 4 ~ 8 9 1 . 7 4 ~ \mathrm { h m } ^ { 2 } \cdot 2 5 ~ 9 4 8 . 6 1 ~ \mathrm { h m } ^ { 2 } \cdot 4 ~ 2 6 4 . 1 4 ~ \mathrm { h m } ^ { 2 } .$ ，4 $2 7 9 . 6 \ \mathrm { h m } ^ { 2 }$ 增加至2015年的： $8 9 4 2 4 . 2 7 \mathrm { h m } ^ { 2 }$ 、
+
+表2海原县2000—2015 年土地利用变化  
+Tab.2Land use change of 20oo—2015 County in Haiyuan   
+
+<html><body><table><tr><td>年份</td><td>土地利用类型</td><td>林地</td><td>草地</td><td>耕地</td><td>园地</td><td>水域</td><td>建设用地</td><td>未利用地</td></tr><tr><td>2000</td><td>面积/hm²</td><td>64 891.71</td><td>268 294.03</td><td>234 131.97</td><td>4 279.6</td><td>4 264.14</td><td>25 948.61</td><td>35 954.33</td></tr><tr><td>2005</td><td>面积／hm²</td><td>71 885.74</td><td>278 295.07</td><td>220 135.74</td><td>4 595.84</td><td>4 581.36</td><td>29 392.25</td><td>28 878.39</td></tr><tr><td>2010</td><td>面积／hm²</td><td>80 907.64</td><td>273 563.72</td><td>218 321.21</td><td>4 835.72</td><td>4 963.38</td><td>33 907.38</td><td>21 265.34</td></tr><tr><td>2015</td><td>面积／hm²</td><td>89 424.27</td><td>267 392.7</td><td>216 694.34</td><td>5 091.76</td><td>5 357.72</td><td>39 182.32</td><td>14 621.28</td></tr><tr><td>2000—2005</td><td>面积变化／hm²</td><td>6 994.03</td><td>10 001.04</td><td>- 13 996.23</td><td>316.25</td><td>317.23</td><td>3 443.64</td><td>-7 075.95</td></tr><tr><td></td><td>变化率／%</td><td>10.78</td><td>3.73</td><td>-5.98</td><td>7.39</td><td>7.44</td><td>13.27</td><td>-19.68</td></tr><tr><td></td><td>动态变化率／%</td><td>2.16</td><td>0.75</td><td>-1.20</td><td>1.48</td><td>1.49</td><td>2.65</td><td>-3.94</td></tr><tr><td>2005—2010</td><td>面积变化／hm²</td><td>9 021.91</td><td>-4 731.35</td><td>-1 814.53</td><td>239.87</td><td>382.01</td><td>4 515.13</td><td>-7 613.04</td></tr><tr><td></td><td>变化率／%</td><td>12.55</td><td>-1.7</td><td>-0.82</td><td>5.22</td><td>8.34</td><td>15.36</td><td>-26.36</td></tr><tr><td></td><td>动态变化率／%</td><td>2.78</td><td>-0.35</td><td>-0.16</td><td>1.12</td><td>1.79</td><td>3.48</td><td>-4.23</td></tr><tr><td>2010—2015</td><td>面积变化／hm²</td><td>8 516.62</td><td>-6 171.02</td><td>-1 626.87</td><td>256.04</td><td>394.34</td><td>5 274.95</td><td>-6 644.06</td></tr><tr><td></td><td>变化率／%</td><td>10.53</td><td>-2.26</td><td>-0.75</td><td>5.29</td><td>7.95</td><td>15.56</td><td>-31.24</td></tr><tr><td></td><td>动态变化率／%</td><td>2.62</td><td>-0.46</td><td>-0.14</td><td>1.20</td><td>1.85</td><td>4.07</td><td>-3.70</td></tr><tr><td>2000—2015</td><td>面积变化／hm²</td><td>24 532.56</td><td>-901.33</td><td>- 17 437.64</td><td>812.16</td><td>1 093.58</td><td>13 233.71</td><td>- 21 333.05</td></tr><tr><td></td><td>变化率／%</td><td>37.81</td><td>-0.34</td><td>-7.45</td><td>18.98</td><td>25.65</td><td>51.00</td><td>-59.33</td></tr><tr><td></td><td>动态变化率／%</td><td>2.52</td><td>-0.02</td><td>-0.49</td><td>1.27</td><td>1.71</td><td>3.4</td><td>-3.96</td></tr></table></body></html>
+
+表3海原县不同生态系统服务功能价值量  
+Tab.3Value of different ecosystem services of Haiyuan County   
+
+<html><body><table><tr><td rowspan="2">土地利用 类型</td><td rowspan="2">2000 ESV/ （108元）</td><td rowspan="2">2005 ESV/</td><td rowspan="2">2010 ESV/</td><td rowspan="2">2015 ESV/</td><td colspan="2">2000 -2005</td><td colspan="2">2005 -2010</td><td colspan="2">2010- -2015</td><td colspan="2">2000- -2015</td></tr><tr><td>ESV/ （108元）</td><td>变化率 /%</td><td>ESV/ (108元)</td><td>变化率 /%</td><td>ESV/ （108元）</td><td>变化率 /%</td><td>ESV/ （108元）</td><td>变化率 /%</td></tr><tr><td>林地</td><td>9.672</td><td>12.285</td><td>15.854</td><td>20.415</td><td>2.613</td><td>27.01</td><td>3.569</td><td>29.05</td><td>4.561</td><td>28.77</td><td>10.743</td><td>111.07</td></tr><tr><td>草地</td><td>13.245</td><td>15.757</td><td>17.761</td><td>20.216</td><td>2.512</td><td>18.97</td><td>2.004</td><td>12.71</td><td>2.455</td><td>13.82</td><td>6.971</td><td>52.63</td></tr><tr><td>耕地</td><td>11.032</td><td>11.896</td><td>13.524</td><td>15.631</td><td>0.864</td><td>7.83</td><td>1.628</td><td>13.69</td><td>2.107</td><td>15.58</td><td>4.599</td><td>41.68</td></tr><tr><td>园地</td><td>1.834</td><td>2.254</td><td>2.718</td><td>3.333</td><td>0.42</td><td>22.90</td><td>0.464</td><td>20.59</td><td>0.615</td><td>22.63</td><td>1.499</td><td>81.73</td></tr><tr><td>水域</td><td>1.349</td><td>1.653</td><td>2.045</td><td>2.571</td><td>0.304</td><td>22.54</td><td>0.392</td><td>23.71</td><td>0.526</td><td>25.72</td><td>1.222</td><td>90.59</td></tr><tr><td>未利用地</td><td>0.116</td><td>0.094</td><td>0.081</td><td>0.064</td><td>-0.022</td><td>-18.97</td><td>-0.013</td><td>-13.83</td><td>-0.017</td><td>- 20.99</td><td>-0.052</td><td>-44.83</td></tr><tr><td>总计</td><td>37.248</td><td>43.939</td><td>51.983</td><td>62.23</td><td>6.691</td><td>17.96</td><td>8.044</td><td>18.31</td><td>10.247</td><td>19.71</td><td>24.982</td><td>67.07</td></tr></table></body></html>
+
+$3 9 \ 1 8 2 . 3 2 \ \mathrm { h m } ^ { 2 } \cdot 5 \ 3 5 7 . 7 2 \ \mathrm { h m } ^ { 2 } \cdot 5 \ 0 9 1 . 7 6 \ \mathrm { h m } ^ { 2 }$ ,其中建设用地面积增加速度最快，变化率为 $5 1 \%$ ,其次是林地和水域面积，变化率分别为 $3 7 . ~ 8 1 \%$ 和$2 5 . 6 5 \%$ ，园地面积增加速度较慢，变化率仅为$1 8 . 9 8 \%$ ;而耕地、草地以及未利用地面积分别由2000 年的 234131.97 $\mathrm { { h m } } ^ { 2 }$ 、268 294.03 $\mathrm { { h m } } ^ { 2 }$ 、$3 5 ~ 9 5 4 . 3 3 ~ \mathrm { h m } ^ { 2 }$ 下降至2015 年的 $2 1 6 \ 6 9 4 . \ 3 4 \ \mathrm { h m } ^ { 2 }$ 、（204号 $2 6 7 ~ 3 9 2 . 7 ~ \mathrm { h m } ^ { 2 }$ ） $1 4 ~ 6 2 1 . 2 8 ~ \mathrm { h m } ^ { 2 }$ ,其中未利用地面积下降幅度最大,共减少 $2 1 ~ 3 3 3 . 0 5 ~ \mathrm { h m } ^ { 2 }$ 。从动态变化率来看,研究期间海原县各土地利用类型中，未利用地和建设用地面积变化幅度最大，其次是林地、水域、耕地以及园地,草地最小。
+
+# 3.2生态系统服务价值变化分析
+
+3.2.1生态系统服务价值时间变化分析研究期间海原县生态系统服务价值呈现出逐年增加的变化趋势（表3），由2000年的 $3 7 . 2 4 8 \times 1 0 ^ { 8 }$ 元增加至2015年的 $6 2 . 2 3 \times 1 0 ^ { 8 }$ 元，价值变化率为 $6 7 . 0 7 \%$ 0在各生态系统中，林地、草地、耕地、园地和水域的生态服务价值分别增加了 $1 0 . 7 4 3 \times 1 0 ^ { 8 }$ 元、 $\phantom { + } 6 . 9 7 1 \ \times$ ${ 1 0 } ^ { 8 }$ 元 $\phantom { 0 } { . 4 . 5 9 9 } \times 1 0 ^ { 8 }$ 元 $\phantom { + } 1 . 4 9 9 \times 1 0 ^ { 8 }$ 元和 $1 . 2 2 2 \times 1 0 ^ { 8 }$ 元；而未利用地的生态服务价值减少 $0 . \ 0 5 2 \times 1 0 ^ { 8 }$ 元,变化率为 $- 4 4 . 8 3 \%$ 。2000—2007 年间宁夏在红寺堡扬黄灌区、固海扩灌区和盐环定扬水灌区等地区建设易地生态移民安置区31处，搬迁安置南部山区贫困人口 $1 4 . 2 \times 1 0 ^ { 4 }$ 人,其中海原县累计搬迁$4 . 0 8 \times 1 0 ^ { 4 }$ 人口，有效减轻了该县的生态压力。同期，宁夏建设了扶贫扬黄灌溉、固海灌区等水利工程，海原县水域面积不断扩大，生态系统服务功能进一步提升。2007一2011年,宁夏实施了中部干旱带县内生态移民工程，其中海原县通过县内移民，实施整村搬迁，累计搬迁移民 $1 . 1 8 \times 1 0 ^ { 4 }$ 户,共计 $5 . 9 3 \times$ $1 0 ^ { 4 }$ 人,涉及西安镇、树台乡、红羊乡等6个乡镇35个行政村114个自然村，贫困人口的搬迁和生态整治降低了区域生态环境压力，提升了生态系统服务功能。2011—2015 年，除进一步实施退耕还林还草工程,海原县通过实施精准扶贫和生态移民政策，搬迁移民 $1 . 2 8 \times 1 0 ^ { 4 }$ 户 $5 . 5 6 \times 1 0 ^ { 4 }$ 人，县内安置3632户 $\phantom { - } 1 . 6 7 \times 1 0 ^ { 4 }$ 人，县外安置9143户 $\phantom { + } 3 . 8 9 \times 1 0 ^ { 4 }$ 人，进一步提高了资源环境承载能力，人地关系更加和谐，生态系统功能更加完善，生态系统服务价值增加迅速。
+
+3.2.2生态系统服务价值空间变化分析本文以乡镇为单元对海原县各个乡镇的生态系统服务价值进行估算，并分析其生态系统服务价值空间变化（图2）。由图可知,2000—2015年海原县各乡镇的生态系统服务价值具有较大变化，整体看来各乡镇生态系统服务价值呈现增加趋势，且幅度较大。树台乡和海城镇的生态系统服务价值最大，两者占海原县总生态系统服务价值的 $1 6 . 6 8 \%$ ,红羊乡、西安镇、关桥乡、曹洼乡、李俊乡、史店乡、贾塘乡、郑奇乡以及九彩乡的生态系统服务价值次之，而李旺镇、七营镇、关庄乡、高崖乡、甘城乡以及三河镇的生态系统服务价值最低，对研究区生态系统服务价值贡献率较低。
+
+从空间分布来看，海原县生态系统服务价值呈现出由西南向东北递减的变化趋势（图3）。2000一2007年的易地生态移民工程,主要以县外安置为主，搬迁人口主要集中在该县西南土石山区和黄土丘陵沟壑区的树台乡、红羊乡、西安镇和曹洼乡等地区，人口的迁移减轻了西南地区的生态承载力。2007一2011年海原县通过县内安置，整村（乡）搬迁的方式安置移民 $5 . 9 3 \times 1 0 ^ { 4 }$ 人，并对遗留村庄进行土地平整和生态恢复，提高了生态质量。此外，西南地区生态系统价值系数较大的林地、园地和草地分布较广，而退耕还林还草政策的实施使得林地和草地面积不断增加是西南地区生态系统服务价值高的主要原因之一。东北地区生态系统服务价值较低主要是由于生态移民安置区的建设以及交通用地的增加致使草地和耕地面积不断下降，生态环境承载力载荷加重，导致园地和林地等生态系统服务功能价值系数较大的土地利用类型数量减少，使得区域生态系统服务价值总量较低。
+
+![](images/ab2a6d8a9c2ff6e2dad457b877348b4a8638d88b4f56856a5f66c21aa36c4a59.jpg)  
+干吴区地理  
+图2海原县各乡镇生态系统服务价值
+
+![](images/a484df2ffb275fa8222fb22f859e187e55681f789c9c68a70ad7cefae6ac4c2b.jpg)  
+Fig.2Township ecosystem services value of Haiyuan County   
+图3海原县生态系统服务价值空间分异图  
+Fig.3Spatial differentiation map of ecosystem services value of Haiyuan County
+
+# 表4海原县各单项生态服务功能价值变化
+
+Tab.4Value changes of individual ecological services of Haiyuan County   
+
+<html><body><table><tr><td rowspan="2">生态功能</td><td colspan="8">单项生态系统服务功能</td><td colspan="4">单项生态系统服务功能变化率</td></tr><tr><td colspan="2">2000</td><td colspan="2">2005</td><td colspan="2">2010</td><td colspan="2">2015</td><td rowspan="2">2000</td><td rowspan="2">2005 一</td><td rowspan="2">2010 一</td><td rowspan="2">2000 /</td></tr><tr><td></td><td>ESVf/ （108元）</td><td>百分比 /%</td><td>ESVf/ 百分比 （108元） /%</td><td>ESVf/ （108元）</td><td>百分比 1%</td><td>ESVf/ （108元）</td><td>百分比 /%</td><td>一 2005</td></tr><tr><td>气体调节</td><td>3.861</td><td>10.37</td><td>4.633</td><td>10.54</td><td>5.562</td><td>10.70</td><td>6.731</td><td>10.82</td><td>19.99</td><td>2010 20.05</td><td>2015 21.02</td><td>2015 74.33</td></tr><tr><td>气候调节</td><td>4.772</td><td>12.81</td><td>5.64</td><td>12.84</td><td>6.674</td><td>12.84</td><td>7.91</td><td>12.71</td><td>18.19</td><td>18.33</td><td>18.52</td><td>65.76</td></tr><tr><td>水源涵养</td><td>4.896</td><td>13.14</td><td>5.87</td><td>13.36</td><td>7.04</td><td>13.54</td><td>8.553</td><td>13.74</td><td>19.89</td><td>19.93</td><td>21.49</td><td>74.69</td></tr><tr><td>废物处理</td><td>6.654</td><td>17.86</td><td>7.724</td><td>17.58</td><td>8.971</td><td>17.26</td><td>10.61</td><td>17.05</td><td>16.08</td><td>16.14</td><td>18.27</td><td>59.45</td></tr><tr><td>食物生产</td><td>2.211</td><td>5.94</td><td>2.45</td><td>5.58</td><td>2.78</td><td>5.35</td><td>3.22</td><td>5.17</td><td>10.81</td><td>13.47</td><td>15.83</td><td>45.64</td></tr><tr><td>原材料生产</td><td>1.412</td><td>3.79</td><td>1.75</td><td>3.98</td><td>2.21</td><td>4.25</td><td>2.814</td><td>4.52</td><td>23.94</td><td>26.29</td><td>27.33</td><td>99.29</td></tr><tr><td>土壤形成与保护</td><td>7.681</td><td>20. 62</td><td>9.01</td><td>20.51</td><td>10.55</td><td>20.30</td><td>12.5</td><td>20.09</td><td>17.30</td><td>17.09</td><td>18.48</td><td>62.74</td></tr><tr><td>生物多样性</td><td>4.81</td><td>12.91</td><td>5.68</td><td>12.93</td><td>6.71</td><td>12.91</td><td>8.022</td><td>12.89</td><td>18.09</td><td>18.13</td><td>19.55</td><td>66.78</td></tr><tr><td>娱乐文化</td><td>0.951</td><td>2.55</td><td>1.182</td><td>2.69</td><td>1.486</td><td>2.86</td><td>1.87</td><td>3.00</td><td>24.29</td><td>25.72</td><td>25.84</td><td>96.64</td></tr><tr><td>总计</td><td>37.248</td><td>100.00</td><td>43.939</td><td>100.00</td><td>51.983</td><td>100.00</td><td>62.23</td><td>100.00</td><td>17.96</td><td>18.31</td><td>19.71</td><td>67.07</td></tr></table></body></html>
+
+3.2.3生态系统单项服务价值变化研究期间海原县生态系统单项服务价值均呈现出增加的变化趋势（表4）。其中废物处理和水源涵养增加量最大，分别为 $3 . 9 5 6 \times 1 0 ^ { 8 }$ 元和 $3 . 6 5 7 \times 1 0 ^ { 8 }$ 元,其次是生物多样性和气候调节,分别增加 $3 . 1 3 8 \times 1 0 ^ { 8 }$ 元和$3 . 2 1 2 \times 1 0 ^ { 8 }$ 元；而食物生产、原材料生产以及娱乐文化增加量较低,介于 $0 . 9 \times 1 0 ^ { 8 } \sim 1 . 5 \times 1 0 ^ { 8 }$ 元之间。从单项服务价值贡献率来看，生态系统单项服务价值中土壤形成与保护、废物处理和水源涵养的单项服务价值贡献率最高，其次是生物多样性、气候调节和气体调节，而粮食生产、原材料生产和娱乐文化单项服务价值贡献率最低。其中气体调节、水源涵养、原材料生产和娱乐文化的贡献率逐年增加，变化率分别为 $7 4 . 3 3 \% . 7 4 . 6 9 \% . 9 9 . 2 9 \%$ 和 $9 6 . 6 4 \%$ ;而废物处理、粮食生产、土壤形成与保护的贡献率在2000一2005年间逐年下降，主要原因是受退耕还林、还草政策和安置区城镇村以及交通用地建设发展的影响，耕地面积下降明显，使得废物处理、粮食生产、土壤形成与保护的贡献率不断下降；气候调节和生物多样性的贡献率研究期间虽有波动，但研究始末未发生明显变化。各土地利用类型中，林地、园地和水域调节服务和支持服务的价值系数较大，是导致其服务价值增大的主要原因。从侧面可看出海原县的生态系统调节服务 $>$ 支持服务 $>$ 供给服务 $>$ 文化服务，研究结果看似与海原县以农业为主的发展定位背道而驰，但却是有据可循。海原县位于六盘山区，经过生态移民和生态建设工程改造后，生态环境质量逐年提升，林地、园地和水域面积增加迅速,除此之外,海原县草地面积广布，而草地生态系统调节服务和支持服务价值系数较大，使得调节服务和支持服务大于供给服务。而耕地面积在政策驱动和人类生产活动作用影响下不断减少，是导致海原县生态系统供给服务较低的主要原因。
+
+表5各影响因素对生态系统服务价值分异的决定力地理探测结果  
+ophysical exploration results of diffrent factors affecting ecosystem service value differentiation   
+  
+
+<html><body><table><tr><td rowspan="2">指标</td><td colspan="5">级别</td><td rowspan="2">q值</td></tr><tr><td>第一级</td><td>第二级</td><td>第三级</td><td>第四级</td><td>第五级</td></tr><tr><td>耕地</td><td></td><td></td><td></td><td>216 694.3~220 181.8 220181.7~223 669.4 223 669.3~227156.9 227156.9~230 644.4 230 6444~23 4131.9</td><td></td><td>0.780 6</td></tr><tr><td>园地</td><td>4279.60~4442.02</td><td>4 442.02~4 604.45</td><td>4 604.45~4 766.89</td><td>4766.89~4 929.32</td><td>4929.32~5 091.75</td><td>0.864 5</td></tr><tr><td>林地</td><td>64891.70~69798.21</td><td>69 798.21~74 704.73</td><td>74704.73~79611.24</td><td>79611.24~84517.75</td><td>84 517.75~89 424.26</td><td>0.800 9</td></tr><tr><td>草地</td><td>267392.7 ~269573.1</td><td>269 573.1~271 753.6</td><td>271 753.6~273 934.1</td><td>273 934.2 ~276 114.6</td><td>276 114.6~278 295.1</td><td>0.941 3</td></tr><tr><td>水域</td><td>4264.13~4482.85</td><td>4 482.85~4 701.56</td><td>4 701.56~4920.28</td><td>4 920.28~5 139.12</td><td>5 139.12~5 357.71</td><td>0.717 9</td></tr><tr><td>未利用地</td><td>14621.2~18887.8</td><td>18 887.8~23 154.5</td><td>23 154.5~27 421.1</td><td>27 421.1~31 687.7</td><td>31 687.7 ~35 954.3</td><td>0.596 3</td></tr><tr><td>气体调节</td><td>3.86~4.44</td><td>4.44~5.01</td><td>5.01~5.58</td><td>5.58~6.16</td><td>6.16~6.73</td><td>0.796 3</td></tr><tr><td>气候调节</td><td>4.77~5.40</td><td>5.40~6.03</td><td>6.03~6.65</td><td>6.65~7.28</td><td>7.28~7.91</td><td>0.911 4</td></tr><tr><td>水源涵养</td><td>4.90~5.63</td><td>5.63~6.36</td><td>6.36~7.09</td><td>7.09~7.82</td><td>7.82~8.55</td><td>0.697 2</td></tr><tr><td>土壤形成 与保护</td><td>6.65~7.45</td><td>7.45~8.24</td><td>8.24~9.03</td><td>9.03~9.82</td><td>9.82~10.61</td><td>0.872 5</td></tr><tr><td>废物处理</td><td>2.21~2.41</td><td>2.41~2.61</td><td>2.61~2.82</td><td>2.82~3.02</td><td>3.02~3.22</td><td>0.740 9</td></tr><tr><td>生物多样 性保护</td><td>1.41~1.69</td><td>1.69 ~1.97</td><td>1.97 ~2.25</td><td>2.25~2.53</td><td>2.53~2.81</td><td>0.848 3</td></tr><tr><td>食物生产</td><td>7.68~8.64</td><td>8.64~9.61</td><td>9.61~10.57</td><td>10.57~11.54</td><td>11.54~12.50</td><td>0.621 3</td></tr><tr><td>原材料生产</td><td>4.81~5.45</td><td>5.45~6.09</td><td>6.09~6.74</td><td>6.74~7.38</td><td>7.38~8.02</td><td>0.724 9</td></tr><tr><td>娱乐文化</td><td>0.95~1.13</td><td>1.13~1.32</td><td>1.32~1.50</td><td>1.50~1.69</td><td>1.69~1.87</td><td>0.527 3</td></tr></table></body></html>
+
+# 3.3土地利用变化对生态系统服务价值影响分异的因素分析
+
+地理空间要素影响生态系统服务价值的分异。基于研究期海原县生态系统服务价值评价，对影响生态系统服务价值形成的各类土地利用面积和生态系统服务价值当量因子进行分级，分别计算各指标对生态系统服务价值分异决定力 $q$ 值。依据地理探测器模拟可知（表5），海原县各类土地利用类型面积的变化对生态系统服务价值影响分异决定力 $q$ 值依次为草地（0.9413） $>$ 园地（0.8645） $>$ 林地$( 0 . 8 0 0 9 ) >$ 耕地 $( 0 . 7 8 0 \ 6 ) >$ 水域 $( 0 . 7 1 7 9 ) >$ 未利用地(0.5963）；在9项生态系统服务价值当量因子中，气候调节 $( \ 0 . \ 9 1 1 \ 4 ) \ >$ 土壤形成与保护$( 0 . 8 7 2 5 ) >$ 生物多样性保护 $( 0 . 8 4 8 \ 3 ) >$ 气体调节(0.7963) $>$ 废物处理 $( 0 . 7 4 0 \ 9 \ ) \ >$ 原材料生产(0.7249) $>$ 水源涵养（0.6972） $>$ 食物生产$( 0 . 6 2 1 3 ) >$ 娱乐文化(0.5273）。这说明，在干旱半干旱地区，重视提升草地、园地、林地和耕地生态系统服务功能，对该地区调节气候气体、土壤形成与保护、废物处理、维护生物多样性和涵养水源的极端重要性。
+
+# 4结论
+
+本文采用谢高地等得到的中国生态系统单位面积生态系统服务价值当量表，结合海原县的实际状况，利用生态系统服务价值评价模型对海原县生态系统服务功能进行评价研究，得出以下结论：
+
+（1）海原县各土地利用类型发生明显变化。林地、建设用地、水域以及园地面积增加明显，其中建设用地面积增加速度最快,年增长率为 $3 . 4 \%$ ;其次是林地和水域面积，变化率分别为 $3 7 . ~ 8 1 \%$ 和$2 5 . 6 5 \%$ ，园地面积增加速度较慢，年增加率为$1 . 2 7 \%$ ;而耕地、草地以及未利用地面积则均呈现出逐年不断下降的变化趋势，其中未利用面积下降幅度最大,共减少 $2 1 ~ 3 3 3 . 0 5 ~ \mathrm { h m } ^ { 2 }$ 。从动态变化率来看，研究期间海原县各土地利用类型中，未利用地和建设用地面积变化幅度最大，其次是林地、水域、耕地以及园地，草地最小。
+
+（2）研究区2000—2015年间生态系统服务价值呈上升趋势。其生态系统服务价值由2000年的$3 7 . 2 4 8 \times 1 0 ^ { 8 }$ 元上升至2015年的 $6 2 . 2 3 \times 1 0 ^ { 8 }$ 元，价值变化率为 $6 7 . 0 7 \%$ 。耕地、林地、草地、园地和水域的生态服务价值呈逐年增加的变化趋势，未利用地的生态服务价值逐年下降。自治区政府通过县内移民，整村搬迁的形式对贫困地区进行移民搬迁，并围绕“水源、生态、开发、特色、转移”五个重点，按照“人随水走，水随人流”的思路，优先将居住在偏远分散、生态失衡、干旱缺水地区贫困人口搬迁到现有扬黄工程沿线、公路沿线和城郊，通过发展优势特色农业、设施农业和旱作节水高效农业，降低了区域生态压力的同时，提高了区域生态系统服务功能，使得区域经济发展水平和生态环境质量稳步提高，人地关系和谐。
+
+（3）2000—2015年海原县生态系统服务价值在空间分布上呈现出由西北向东南递减的变化趋势。海原县通过县内、县外以及整村搬迁等方式对西南土石山区和黄土丘陵沟壑区的贫困人口进行安置，并对遗留村庄进行土地平整和生态恢复，减轻了生态环境压力，提升了生态系统服务功能。而东北地区是主要的移民安置区，生态移民安置区建设以及交通用地的增加致使草地和耕地面积下降；移民数量的增加，居民生产生活等活动与区域生态环境冲突明显，生态环境承载力载荷加重，导致园地和林地等生态系统服务功能价值系数较大的生态用地面积下降，使得区域生态系统服务价值总量不高。
+
+（4）海原县生态系统各单项服务价值均呈现出上升的变化趋势。其中水源涵养服务价值增加量最大,共增加了 $3 . 6 5 7 \times 1 0 ^ { 8 }$ 元,主要原因是水源调节系数较大的园地和水域面积增加所带来的结果；而林地面积的增加是气体调节服务价值增加的主要原因。娱乐文化的服务价值增加量最小，共增加了$0 . 9 1 9 \times 1 0 ^ { 8 }$ 元,究其原因是区域娱乐文化系数较大的园地和水域面积占比较小。海原县的生态系统调节服务 $>$ 支持服务 $>$ 供给服务 $>$ 文化服务。研究期间草地、园地、林地、气候调节、土壤形成与保护和生物多样性保护对生态系统服务影响的决定力 $q$ 值 $>$ 0.8，表明这6项因素是影响生态系统服务的主要因素。
+
+土地利用变化改变着生态系统结构和功能，同时也影响着区域生态系统向社会提供产品和服务能力的大小，而生态移民过程最直接的表现就是改变区域土地利用格局，从而改变区域生态系统服务功能。海原县虽为农业大县，但同时也是生态移民最大的迁出区之一，同时伴随着县内移民过程，这种特殊的人口迁移方式以及生态移民政策和生态环境保护政策都将对生态系统产生影响，直接决定着生态系统结构、功能以及生态系统服务价值的高低。但由于数据的限制,本文利用不同时期的土地利用变化,仅采用COSTANZA等提出并修正的模型对研究区生态系统服务价值进行估算，如果能用物质量法、价值量法和能值法等不同方法对比分析海原县土地利用对生态系统服务的影响，将会使评估结果更科学准确。
+
+# 参考文献(References)
+
+[1]傅伯杰,张立伟.土地利用变化与生态系统服务：概念、方法与 进展[J]．地理科学进展,2014,33（4）：441-446.[FU Bojie, ZHANG Liwei. Land use change and ecosystem services:Concepts , methods and progress[J].Advances in Geography,2014,33（4）： 441 - 446.]   
+[2] LIU Xiaopeng,CHEN Xiao,HUA Kaiping,et al. Efects of land use change on ecosystem services in arid area ecological migration[J]. Chinese Geographical Science,2018,28(5）:894-906.   
+[3] COSTANZA R,D'ARGER,GROOTRD,et al.The value of the world's ecosystem services and natural capital[J].Ecological Economics,1997,387(1) :3-15.   
+[4] COSTANZAR,D'ARGER,GROOTRD,etal .The value of the world's ecosystem services and natural capital[J].Nature,1997, 387(6630):253-260.   
+[5] DAILY GC.Nature's services:Societal dependence on nature ecosystem[M].Washington DC:Island Press,1997   
+[6] SINCLAIR KE,MARSHALL SJ,MORAN T A.A Lagrangian approach to modelling stable isotopes in precipitation over mountainous terrain[J].Hydrological Processes,2011,25（16）:2481- 2491.   
+[7]BOLUND P,HUNHAMMAR S. Ecosystem services in urban areas [J].Ecological Economics,1999,29(2）:293-301.   
+[8]POLASKY S,NELSON E,PENNINGTON D,et al. The impact of land-use change on ecosystem services,biodiversity and returns to landowners:A case study in the state of Minnesota[J].Environmental and Resource Economics,2011,48(2）:219-242.   
+[9］谢高地,甄霖,鲁春霞,等.一个基于专家知识的生态系统服务 价值化方法[J].自然资源学报,2008,23（5）:911-919.［XIE Gaodi,ZHEN Lin,LU Chunxia,et al.A method of ecosystem service value based on expert knowledge[J]. Journal of Natural Resources,2008,23(5） :911 -919.]   
+[10］傅伯杰,于丹丹,吕楠.中国生物多样性与生态系统服务评估 指标体系[J].生态学报,2017,37（2）:341-348.[FU Bojie, YU Dandan,LYU Nan.Evaluation index system of biodiversity and ecosystem services in China[J]. Chinese Journal of Ecology,2017, 37(2) :341 -348.]   
+[11］叶延琼,章家恩,陈丽丽,等.城市化背景下广佛都市圈农林生 态系统服务价值[J].应用生态学报,2016,27（5）：1619- 1627.[YE Yanqiong,ZHANG Jia'en,CHEN Lili,etal.The service value of agriculture and forestry ecosystem in Guangfo City circle under urbanization[J]. Journal of Applied Ecology,2016,27 (5) :1619 -1627.]   
+[12］张骞,高明,杨乐,等.1988—2013 年重庆市主城九区生态用地 空间结构及其生态系统服务价值变化[J].生态学报,2017,37 (2）:566-575.[ZHANG Qian,GAO Ming,YANG Le,et al. Spatial structure of ecological land and its ecosystem service value changes in the nine districts of the main city of Chongqing from 1988 to 2013[J]. Chinese Journal of Ecology,2017,37(2）:566 - 575.]   
+[13］严恩萍,林辉,王广兴,等.1990 -2011年三峡库区生态系统服 务价值演变及驱动力［J].生态学报,2014,34（20）：5962- 5973.[YAN Enping,LIN Hui,WANG Guangxing,et al. Evolution and drivingforce of ecosystem service value in the Three Gorges Reservoir Area from 1990 to 2011[J].Acta Ecologica Sinica, 2014,34(20) :5962 -5973]   
+[14］李晓炜,侯西勇,邸向红,等.从生态系统服务角度探究土地利 用变化引起的生态失衡——以莱州湾海岸带为例[J].地理科 学,2016,36（8）:1197-1204.[LI Xiaowei,HOU Xiyong,DI Xianghong,et al.Exploring the ecological imbalance caused by land use change from the perspective of ecosystem services: Taking Laizhou Bay coastal zone as an example[J]. Geography Science, 2016,36(8) :1197 -1204.]   
+[15］郜红娟,罗绪强,韩会庆,等.贵州山区公路沿线生态系统服务 价值变化[J].南京林业大学学报（自然科学版),2016,40 (1）:135-141.[GAO Hongjuan,LUO Xuqiang,HAN Huiqing,et al. Change of ecosystem service value along the highway in Guizhou mountainousarea[J]. Journal of Nanjing Forestry University（Natural Science Edition）,2016,40(1):135-141.]
+
+[16］王雅，蒙吉军.黑河中游土地利用变化对生态系统服务的影响[J].干旱区研究，2017，34（1）：200-207.［WANGYa，MENGJijun.Impacts of land use change on ecosystem services in the mid-dle reaches of the Heihe River Basin[J].Arid Zone Research,2017,34(1) :200-207.]
+
+[17］唐宏，张新焕，杨德刚.农户生态移民意愿及影响因素研 究——基于新疆三工河流域的农户调查[J].自然资源学报, 2011,26（10）:1658-1669.[TANG Hong,ZHANG Xinhuan, YANG Degang.Farmers’willingness and influencing factors of ecological immigration:Based on the survey of farmers in the Sangong River Basin of Xinjiang[J].Journal of Natural Resources,2011,26 (10):1658-1669.]
+
+[18］王永平，吴晓秋，黄海燕，等.土地资源稀缺地区生态移民安置 模式探讨—以贵州省为例[J].生态经济，2014，30（1)：66- 69,82-82.[WANG Yongping,WU Xiaoqiu,HUANGHaiyan,et al.Discussion on the ecological resettlement modes in the scarce land resource regions:A case study of Guizhou Province[J].Ecological Economy,2014,30(1) :66-69,82-82.]
+
+[19］史俊宏.生态移民生计转型风险管理：一个整合的概念框架与 牧区实证检验[J].干旱区资源与环境，2015，29(11)：37-42. [SHI Junhong.Risk management of eco-migration livelihood transformation:An integrated conceptual framework and empirical test of pastoral areas[J].Arid Land Resources and Environment,2015, 29(11):37 -42.]
+
+[20］贾耀锋.中国生态移民效益评估研究综述［J].资源科学，2016,38（8）:1550-1560.［JIAYaofeng.A review of the evalua-tion of ecological immigration benefits in China[J].Resources Sci-ence,2016,38（8):1550-1560.]
+
+[21］金莲，王永平，黄海燕,等.贵州省生态移民可持续发展的动力机制[J].农业现代化研究,2013,34（4）：403-407.［JINLian，WANG Yongping,HUANG Haiyan,et al.Dynamic mechanism ofsustainable development of ecological migration in Guizhou Prov-ince[J].Research of Agricultural Modernization,2013,34（4）：403 -407.]
+
+[22］李屹峰，罗玉珠，郑华，等.青海省三江源自然保护区生态移民补偿标准[J].生态学报,2013,33（3）：764－770.[LIYifeng，LUO Yuzhu,ZHENG Hua,et al.Compensation criteria for cologi-cal migration in Sanjiangyuan Nature Reserve,Qinghai Province[J].Chinese Journal ofEcology,2013,33（3）:764-770.]
+
+[23」芦清水，赵志平.应对草地退化的生态移民政策及牧户响应分析一基于黄河源区玛多县的牧户调查[J」.地理研究，2009，28(1):143-152,277-277.[LUQingshui,ZHAO Zhiping.Eco-logical immigration policy and herd response analysis to deal with
+
+grassland degradation:Based on the investigation of pastoral households in Maduo County of the Yellow River[J]. Geographical Research,2009,28(1):143-152,277 -277.]   
+[24］王鹏,王亚娟,刘小鹏,等.基于景观结构的生态移民安置区生 态风险评价—以宁夏红寺堡区为例[J].生态学报,2018,38 (8):2672 -2682.[ WANG Peng, WANG Yajuan,LIU Xiaopeng, et al.Ecological risk assessment of ecological resettlementarea based on landscape structure:Taking Hongsibu district of Ningxia as an example[J].Acta Ecologica Sinica,2018,38（8）:2672 - 2682.]   
+[25］王亚娟,王鹏,韩文文,等.宁夏中部干旱带生态移民过程生态 风险时空分异—以红寺堡区为例[J].干旱区地理,2018,41 (4）:817-825.[WANG Yajuan,WANG Peng,HAN Wenwen,et al.Spatial and temporal differentiation of ecological risk in the process of ecological migration in the arid zone of central Ningxia： Taking Hongsibu district as an example[J].AridLand Geography, 2018,41(4) :817 -825.]   
+[26］韩晓佳,王亚娟,刘小鹏,等.基于不同利益相关者认知分析的 生态移民安置区生态风险识别［J].应用生态学报,2017,28 （9）:3061-3070.[HAN Xiaojia,WANG Yajuan,LIU Xiaopeng, et al.Ecological risk identification of ecological resetlement areas based on cognitive analysis of different stakeholders[J].Chinese Journal of Applied Ecology,2017,28（9）:3061-3070.]   
+[27］魏慧,赵文武,张晓,等.基于土地利用变化的区域生态系统服 务价值评价—以山东省德州市为例[J].生态学报,2017,37 （11）:3830 -3839.[WEI Hui,ZHAO Wenwu,ZHANG Xiao,et al.Evaluation of regional ecosystem service value based on land use change:A case study of Dezhou city,Shandong Province[J].Chinese Journal of Ecology,2017,37（11）:3830-3839.]   
+[28］谢高地,鲁春霞,冷允法,等.青藏高原生态资产的价值评估 [J].自然资源学报,2003,18（2）:189－196.[XIE Gaodi,LU Chunxia,LENG Yunfa,et al.The evaluation of ecological assets in the Tibetan Plateau[J]. Journal of Natural Resources,2O03,18 (2):189 -196.]   
+[29］王劲峰,徐成东.地理探测器：原理与展望[J].地理学报, 2017,72（1）:116-134.[WANG Jinfeng,XU Chengdong. Geographical detectors ; Principles and prospects[J]. Journal of Geographical Sciences,2017,72(1） :116-134.]   
+[30］刘小鹏,王可,叶均艳,等.宁夏水贫困地域分异的WPI-Geodetector 测度与分析[J].干旱区地理,2018,41（1)：160－169. [LIU Xiaopeng,WANG Ke,YE Junyan,et al. Measurement and analysis of WPI-Geodetector in differentiation of water poverty in Ningxia[J].Arid Land Geography,2018,41(1）:160-169.]
+
+# Ecological migration process and the evaluation of its ecosystem service value in Loess hilly and gully region: A case study of Haiyuan County ,Ningxia
+
+WANG Peng²，LIU Xiao-peng12，WANG Ya-juan12，HAN Xiao-ji $^ { 3 , 4 }$ ，WEN Sheng-qiang1,2 (1SchoolofsoucsdEoent,ingiaUversityncun0ngiahina；KeyLboratory（iab） of ResourceEvaluationandEnvironmental Regulationof Arid Region inNingxia,Yinchuan5021,Ningxia,China; 3InstituteofSoiland Water Conservation,Chinese AcademyofSciencesand Ministryof Water Resources,Yangling72100, Shaanxi,China；4University of Chinese Academy of Sciences,Beijing 10oo49,China)
+
+Abstract：Taking Haiyuan County,Ninxia Pvovince,China as the research object,based on the remotely sensed data in 200,2005,2010 and 2015,the land use dynamics,ecosystem service value evaluation model and Geo-detectionmodelareused tomaptheecologyof Haiyuan County from 2OOO to 2O15 toanalyze the temporal and spatial changes in ecosystem service value.The results show that the land use types in Haiyuan County have been changed significantly from 2OoO to 2O15.Theareaof forest land,construction land,waterareaand garden area were increased by $2 4 ~ 5 3 2 . 5 6 ~ \mathrm { h m } ^ { 2 }$ ， $1 3 ~ 2 3 3 . 7 1 ~ \mathrm { h m } ^ { 2 }$ $1 \ 0 9 3 . 5 8 \ \mathrm { h m } ^ { 2 }$ and $8 1 2 . 1 6 ~ \mathrm { h m } ^ { 2 }$ respectively,while the cultivated land, grassland and unused land area showed a declining trend with the unused land area being decreased the most by 21 （20 $3 3 3 . 0 5 ~ \mathrm { h m } ^ { 2 }$ .During the 15 years,the ecosystem services value in Haiyuan County showed an increasing trend from $3 7 . 2 5 \times 1 0 ^ { 8 }$ yuan in 2000 to $6 2 . 2 3 \times 1 0 ^ { 8 }$ yuan in 2015 with the change rate of $6 7 . 0 7 \%$ . The increase of forest land,garden land and water area was the key to the increase of the ecosystem services value in Haiyuan County. From the perspectiveof the spatial distribution of theecosystem service value,it displayed a decreasing trend from southwest to northeast.The value of individual service in the studyarea showed an increasing trend,with the largest increase in waste treatmentand waterconservation,folowed bybiodiversityand climateregulation.The food production,raw material production and entertainment culture werehaving the lowest increase.Itindicated alist inthedescending order of the ecosystem services value as folows: the ecosystem adjustment Services,Support Services,Supply Services and Culture Services. The deterministic $q$ values of grassland,garden,forest land,climate regulation, soilformationand protection,and biodiversityconservation wereallarger thanO.8,which indicatedthatthesesix factors had important impact on the changes in the ecosystem services value in the study area.
+
+Key words:ecological migration process； loess hilly and gully area；ecosystem services value；geography detector； Haiyuan County.

@@ -1,0 +1,665 @@
+[
+    {
+        "type": "text",
+        "text": "Restoration of brain consciousness ex vivo after circulatory death in pigs Guo ZY1,2.3t\\*\\*，Sun CJ1,23,t, Xu GX4,Yn $\\mathbf { M X } ^ { 1 , 2 , 3 , \\dagger }$ , Zhu $\\mathrm { C H } ^ { 1 , 2 , 3 }$ , Zheng $\\mathrm { D H } ^ { 5 }$ , Zhang $\\mathrm { Y X } ^ { 1 , 2 , 3 }$ Wang $\\mathrm { L H } ^ { 1 , 2 , 3 }$ , Xie $\\mathrm { R X } ^ { 1 , 2 , 3 }$ , Zhang $\\boldsymbol { Z } \\mathrm { H } ^ { 1 , 2 , 3 }$ Gao $\\mathrm { N X } ^ { 1 , 2 , 3 }$ ,Huang $\\mathrm { S } Z ^ { 1 , 2 , 3 }$ ,Yu ${ \\mathrm { P } } ^ { 6 }$ ,He $\\mathrm { S J } ^ { 1 , 2 , 3 }$ , Zhao Q1,2.3,\\*, He XS1,2.3,\\*   \n1Organ Transplant Center, The First Afiliated Hospital, Sun Yat-sen University, Guangzhou 510080, China   \n2Guangdong Provincial Key Laboratory of Organ Donation and Transplant Immunology, Guangzhou 510080, China   \n3Guangdong Provincial International Coperation Baseof Science and Technology, Guangzhou 510080, China   \n4Department of Neurosurgery,The First Affiliated Hospital， Sun Yat-sen University, Guangzhou 510080, China   \n5Intensive Care Unit, The First Afiliated Hospital,Sun Yat-sen University, Guangzhou 50080, China   \nCenter for Neurobiology, Zhongshan School of Medicine, Sun Yat-sen University Guangzhou 510080, China   \n+These four authors contribute equally to the article and should be considered as co-first authors \\*Corresponding authors   \nGuo ZY, Zhao Qand He XS, Organ Transplant Center, The First Afiliated Hospital, Sun Yatsen University, No.58 Zhongshan Er Road, Guangzhou 510080, China; Tel and fax.: 86-20- 87306082; E-mail addresses: rockyucsf1981 $@$ 126.com， zhaoqiang_china@sina.com & gdtrc@163.com   \nAuthor contributions   \nGuo ZY, Zhao Q and He XS designed the research; Guo ZY, Sun CJ, Huang SZ, Zheng DH, Xie RX and Zhao Q developed the surgical procedure. Guo ZY, Zhu CH, Wang LH, He SJ and ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang ZHperformed the perfusion experiments and analyzed the data.Yu P, Zheng DH and Xu GX detected the MCA blood flow and EEG studies and analyzed the data. Sun CJ, Yin MX and Xu GX collected the tissue samples,analyzed and quantified the histological data. Guo ZY and Gao NX promoted the metabolomics and analyzed the data. Guo ZY and He XS wrote the manuscript and prepared figures. All author discussed and commented on the data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In clinical practice, a patient is declared dead after 3O minutes of unsuccessful resuscitation post-cardiac arrest, as the brain is considered irreversibly damaged within minutes after cardiac arrest. A recent report showed that celular function of the brain can be restored hours postmortem in pigs. However, whether consciousness can be regained ex vivo is unknown. Herein, we developed normothermic machine perfusion (NMP） technology for ex vivo brain resuscitation after circulatory death. We found that perfusion of the brain alone was able to preserve circulation, cytoarchitecture, metabolic activity and brainstem function, but failed to regain consciousness. With supports of a functioning liver, global electrocorticographic activity and consciousness were restored. Brain function could be maintained for at least 22 hours. The technology was able to resuscitate consciousness of the brain suffering 5O-min normothermic ischemia. These findings demonstrate that liver-assisting brain NMP can restore and maintain consciousness ex vivo after a prolonged interval post-mortem. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords: consciousness; normothermic machine perfusion; cardiac death; brain resuscitation;   \nbrain function. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Human beings can be legally declared dead if they show irreversible loss of all brain function (brain death) or all circulatory function (circulatory death). Due to the advances in life support therapy such as extracorporeal membrane oxygenation (ECMO),a patient can survive without his own circulatory function1.On the other hand,there is a long-held assumption that mammalian brains are irreversibly damaged within a few minutes after cessation of blood supply2-4. Based on this assumption, circulatory death is usually declared after 30 minutes of unsuccessful resuscitation post-cardiac arrest5, because the brain is considered “dead” even the circulation can be restored by artificial techniques at this circumstance.In controlled donors after circulatory death, the patient is declared dead 2-5 minutes after their hearts stop beating and organ donation proceeds6.Indeed, a systemic analysis with inclusion of 493 donors showed that under strict observance of the 5-min interval, return of spontaneous cerebral and cardiac activity following asystole has not occurred to date?. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However, emerging evidence challenges this assumption. In the cats and macaques, the neuronal, electrophysiological and metabolic function of the brain can be regained after 60-min global ischemia8-11. In the pigs,the brains can tolerate 30-min global ischemia under pressurecontrolled reperfusion12. However, these studies used a heart-beating model, which is very different from the clinical scenarios of cardiac arrest.Besides,studies have shown that the cellular and mitochondrial functions of human brain tissue specimens can be well-preserved hours after death13-15. Most recently， Zvonimir et al reported successul restoration of circulation and cellular function in isolated pig brains four hours post-mortem by using a BrainEx system to re-establish their oxygen supply16. However, coordinated electrical pattern or consciousness has never been recorded in this system. Therefore, we should not consider it as successful recovery of brain function post-mortem and convincing evidence which can challenge the current diagnostic criteria of death is still lacking. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The BrainEx system actually used ex vivo normothermic machine perfusion (NMP) technology, which provides normothermic oxygen supply to the organs. NMP is not a new concept. Indeed, in 196Os,researchers tried to use NMP to test whether the brain function can be maintained ex vivo17. The study demonstrated that the metabolic and electrophysiological activity of the brains can be restored but deteriorated quickly (2-3 hours) even after very short ischemia time. This might be explained by the under-developed NMP technology at that time. Recent reports showed that ex vivo NMP is able to resuscitate function of human hearts,lungs, livers and kidneys after circulatory death18-21. However, it is still unknown whether NMP can also resuscitate the brain function. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notably, the Yale group did not aim to restore the brain consciousness16.Besides, the technological characteristics might explain why global electrophysiological activity could not be regained in their model. Firstly, the brain may be probably not able to tolerate the long normothermic ischemia time ( $\\mathrm { \\Delta } 6 0 \\mathrm { \\ m i n } \\mathrm { \\Delta }$ ）and total ischemia time( $2 4 0 \\mathrm { m i n } )$ ). Secondly, the brain is highly sensitive to the changes of environment. The BrainEx system may be not able to provide suitable conditions, such as metabolic environment for the restoration of brain function. Finally, as claimed in their paper, various antagonists were added in the perfusate to prevent possible electrophysiological recovery. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, we designed to test whether consciousness can be restored ex vivo after circulatory death and what is the ischemic interval limit after which it can be regained.The ex vivo brain NMP technology contains surgical techniques to isolate the brain, suitable perfusate, machine perfusion device and brain function assessment techniques.We firstly perfused the brain alone immediately after circulatory death and found that only brainstem function were restored. Then a liver was added into the perfusion circuit to provide metabolic supports for brain resuscitation, which successfully help restore and maintain consciousness as assessed by behavior monitoring, consciousness scoring and electrophysiological recording. Subsequently, the normothermic ischemia time was carefully prolonged and the brain function could be recovered after 5O minutes post-cardiac arrest. Finally, the perfusate metabome analysis, and RNA sequencing analysis and proteomics analysis of brain tissue were conducted to dissect the possible molecular mechanisms.The results in this study demonstrated evidence that brain consciousness can be restored and maintained ex vivo after circulatory death. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.Methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 The placement of electrodes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The reference electrodes were placed on A1,A2 and $\\mathrm { C z }$ ，and the ground electrode was placed on $\\mathrm { F } z$ ，The electrodes were placed according to the international 1O-2O system, the electrode names begin with one or two letters indicating the general brain region or lobes where the electrode was placed (Fp, fronto-polar; F, frontal; C,central; P, parietal; O, occipital; T, temporal). Each electrode name ended with a number or letter indicating the distance to the midline. Odd numbers were used in the left hemisphere, even numbered in the right hemisphere. Larger numbers indicated greater distances from the midline,while electrodes placed at the midline were labeled with a \"z\" for zero. Cz was placed over midline central brain regions and Fz was placed over midline frontal brain regions.A1 and A2 electrodes were placed on the left and right ears, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sample preparation, UHPLC separation and raw data processing for metabolomics analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 \\mu \\mathrm { L }$ of sample was transferred to an EP tube, and $4 0 0 ~ \\mu \\mathrm { L }$ extract solution (acetonitrile: methanol $= 1 \\colon 1$ ) containing internal standard (L-2-Chlorophenylalanine, $2 \\mu \\mathrm { g / m L }$ ) was added. After 30 s vortexed, the samples were sonicated for 5 min in ice-water bath. Then the samples were incubated at $\\scriptscriptstyle - 4 0 ^ { \\circ } \\mathrm { C }$ for $^ { \\textrm { 1 h } }$ and centrifuged at $1 0 0 0 0 ~ \\mathrm { r p m }$ for $1 5 ~ \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C } . 4 2 5 ~ \\mu \\mathrm { L }$ of supernatant was transferred to a fresh tube and dried in a vacuum concentrator at $3 7 ^ { \\circ } \\mathrm { C }$ .Then, the dried samples were reconstituted in $2 0 0 ~ \\mu \\mathrm { L }$ of $50 \\%$ acetonitrile by sonication on ice for 10 min. The constitution was then centrifuged at $1 3 0 0 0 ~ \\mathrm { r p m }$ for $1 5 ~ \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ ，and $7 5 ~ \\mu \\mathrm { L }$ of supernatant was transferred to a fresh glass vial for LC/MS analysis. The quality control (QC) sample was prepared by mixing an equal aliquot of the supernatants from al of the samples. The UHPLC separation was carried out using an Agilent 1290 Infinity series UHPLC System (Agilent Technologies), equipped with a UPLC BEH Amide column $( 2 . 1 * 1 0 0 \\ \\mathrm { m m } \\ ^ { * } \\ 1 . 7 \\ \\mu \\mathrm { m } _ { \\mathrm { m } }$ Waters). The mobile phase consisted of $2 5 \\ \\mathrm { m m o l / L }$ ammonium acetate and $2 5 \\ \\mathrm { m m o l / L }$ ammonia hydroxide in water ( $\\mathrm { \\Phi } ^ { \\mathrm { p H } = 9 . 7 5 }$ ) (A) and acetonitrile (B). The elution gradient was set as follows: $0 { \\sim } 1 . 0 \\operatorname* { m i n }$ 5 $9 5 \\%$ B; $1 . 0 { \\sim } 1 4 . 0 \\ \\mathrm { m i n }$ ， $9 5 \\% { \\sim } 6 5 \\%$ B; $1 4 . 0 { \\sim } 1 6 . 0 \\operatorname* { m i n }$ ， $6 5 \\% { \\sim } 4 0 \\%$ B; 16.0\\~18.0 min, $40 \\%$ B; 18.0\\~18.1 min, $4 0 \\% { \\sim } 9 5 \\%$ B; $1 8 . 1 { \\sim } 2 3 . 0 \\operatorname* { m i n }$ ， $9 5 \\%$ B.The flow rate was $0 . 5 \\mathrm { m L } / \\mathrm { m i n }$ . The column temperature was $2 5 ^ { \\circ } \\mathrm { C }$ . The auto-sampler temperature was $4 ^ { \\circ } \\mathrm { C }$ ,and the injection volume was $2 ~ \\mu \\mathrm { L }$ (pos) or $2 ~ \\mu \\mathrm { L }$ (neg), respectively. An Agilent 6495 triple quadrupole mass spectrometer (Agilent Technologies) was applied for assay development in a multi-reaction monitoring (MRM) mode. Capillary voltage $= + 3 0 0 0 / { - 2 5 0 0 } \\mathrm { V } ,$ gas $( \\mathrm { N } _ { 2 } )$ temperature $= 1 7 0 ^ { \\circ } \\mathrm { C }$ gas $( \\Nu _ { 2 } )$ flow $= 1 6 \\mathrm { L } / \\mathrm { m i n }$ , sheath gas $( \\Nu _ { 2 } )$ temperature $= 3 5 0 ^ { \\circ } \\mathrm { C }$ ，sheath gas flo $\\mathrm { w } = 1 2 \\mathrm { L } / \\mathrm { m i n }$ ,nebulizer $= 4 0$ psi, Fragmentor $= 3 8 0$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The format for MRM raw data (.d files from Agilent data acquisition software MassHunter B.06.00） were first converted to files in mzML format using the“msconvert” program from ProteoWizard (version 3.0.6526). Then the mzML files were converted into text format files using the“mscat\" program incorporated in ProteoWizard(version 3.0.6526) so that the data can be loaded into R and processed by MRMAnalyzer. The generated text format files contain four columns: transition index,Q1 and Q3 specifications of MRM transitions,retention time and intensity, respectively. The MRM data processing using the MRMAnalyzer includes five steps: “pseudo\" accurate $\\mathrm { m } / \\mathrm { z }$ transformation, peak detection and alignment, metabolite identification, quality control check and statistical analysis22. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3 Surgical preparation of the porcine heads and livers ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A total of 20 Tibet mini-pigs (purchased from Southern Medical University, Guangzhou, China, $3 0 { - } 5 0 ~ \\mathrm { k g } )$ ） were used during development of the brain NMP technology. The study protocol was reviewed and approved by the Animal Ethical Committee of The First Affiliated Hospital of Sun Yat-sen University. Circulatory death was induced by exsanguination and ventricular injection of 1g potassium chloride. To mimic clinical organ donation after circulatory death,a 5-min no-tough time was waited before the head (and liver) was harvested. After the technology was optimized in the preliminary experiments,independent 27 brains were perfused, and 5 brains harvested immediately after circulatory death were used as controls in pathological assessment, data from which are presented herein. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the BAI group, after anesthesia, the skin, connective tissues and musculature around the connection between C7 and T1 vertebra were cut with a high-frequency electric knife. The bilateral common carotid arteries and veins were well-dissected and the vertebral arteries from subclavien arteries were ligated. Then thoracotomy was performed to expose the roots of common carotid artery trunk and jugular vein stem. Then, 625oo U heparin was intravenously injected. Exsanguination (80o-10o0 mL whole blood) from the abdominal aorta was conducted and followed by ventricular injection of 1g potassium chloride.At 5 minutes after cardiac arrest, the common carotid artery trunk and jugular vein stem were divided. The esophagus, trachea and spinal cord were disconnected. The head was harvested and immediately connected to the brain NMP system through the common carotid artery trunk. For the liver-assisting brain NMP groups, the liver with the abdominal aorta (including celiac artery) and portal vein were welldissected before exsanguination. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 Ex vivo brain NMP technology ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our ex vivo brain NMP system consists of an arterial pump unit, a venous pump unit, an oxygenation unit, a filtration unit, a thermo unit and a control unit (Figure.1A). The arterial pump unit uses a magnetic rotary pump to supply a pulsatile (60 beat per minute) whole-blood containing perfusate, with an adjustable perfusion pressure range of $0 { - } 1 1 0 \\mathrm { m m H g }$ and perfusion flow range of 0-10o0 mL/min. The adjustable perfusion pressure range of the venous pump unit is $0 { - } 1 2 ~ \\mathrm { m m H g }$ ,with a perfusion flow of $0 { - } 2 5 0 0 \\mathrm { m L / m i n } .$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the BAI group, a $1 6 ~ \\mathrm { F r }$ arterial cannula was inserted into the common carotid artery trunk to perfuse the brain. In the liver-assisting NMP groups,the abdominal aorta (with the celiac artery) was connected to the common carotid artery trunk, and the $1 6 \\mathrm { F r }$ arterial cannula was inserted into the abdominal aorta to simultaneously perfuse the liver and brain. Meanwhile, a straight 24Fr cannula was inserted to the portal vein to perfuse the liver. The artery pressure range was maintained at $9 0 { \\cdot } 1 0 0 ~ \\mathrm { m m H g }$ to keep the left MCA flow close to the preoperative value. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5Measurement of global cerebral metabolism ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hourly venous perfusate samples were collected from the jugular vein outflow of the brain during NMP. Arterial perfusate samples were collected from the common trunk carotid arterial inlet line to the brain every 2O minutes during the first three hours of perfusion, and then every half hour for the following three hours.One hundred microlitres of each sample was immediately analysed using the i-STAT $\\textsuperscript { \\textregistered }$ 1 blood analyser system (Abbott； Flextronics, Singapore） with $\\mathrm { C G 4 + }$ and ${ \\mathrm { E C } } 8 +$ test cartridges. Similarly, the arteriovenous gradients in glucose (GLU),lactate (Lac),PH, partial pressure of carbon dioxide and oxygen (PCO2,PO2) were calculated. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6 PET-CT scan ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The PET-CT examination was performed on a Philips Gemini-GXL-PET-CT (Philips Healthcare, Netherlands). The perfusate glucose level prior to injection was ${ < } 1 0 \\ \\mathrm { m m o l / L }$ .A standard injection of 4 mci 2-Deoxy-2- $\\cdot [ ^ { 1 8 } \\mathrm { F } ]$ fluoro-D-glucose $( [ ^ { 1 8 } \\mathrm { F } ] \\mathrm { F } \\mathrm { D } \\mathrm { G } )$ was administered, followed by a 30-minute uptake period. The PET protocol used a 10-minute single bed acquisition with the head positioned in an appropriate head restraint. Image reconstruction parameters were as follows: $1 2 0 \\mathrm { k V } ,$ 250 mAs and $3 . 7 5 { \\cdot } 4 \\mathrm { m m }$ PET slice thickness in $1 4 4 \\times 1 4 4$ matrix. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.7 Global electrophysiological monitoring of the brains ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After sedation but before tracheal intubation, the initial global EEG of pig brains was recorded. During ex vivo NMP, the global EEG of isolated pig heads was recorded continuously throughout NMP. Real-time detection and assessment of global EEG from scalp were performed by qEEG analysis system (NicoletOne software version 5.94, Natus Medical Inc, San Carlos, CA, USA). The spectral entropy of qEEG was utilized to assess the conscious states of the isolated pig heads, especially for the awake state. Global EEG was recorded from 12 silver disc electrodes (Fp1,Fp2, C3, C4, T3, T4, O1, O2,Fz, Cz, A1 and A2). The placement of electrodes is provided in the Supporting Information. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.8 Transcranial doppler (TCD) cerebral blood flow chart ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "After sedation but before tracheal intubation, the initial cerebral blood flow signal charts of the pigs were measured. During ex vivo NMP, the cerebral blood flow signal chart measurement of isolated pig head was performed every hour. The signal chart of cerebral blood flow was acquired from the left MCA through the ocular windows (depth range 4-4.5cm) with 1.6 MHz probe by TCD (EMS-9PB,Delica, Shenzhen, China). The peak blood flow value of TCD waveform was used to evaluate the cerebral blood flow. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.9 Assessment of conscious states by Full Outline of UnResponsiveness (FOUR) score and dailybehavior monitoring ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The conscious state of isolated pig heads during ex vivo NMP was assessed by the FOUR score. The FOUR score is a coma assessment scale, which consists of four components (eye response， motor response, brainstem reflexes,and respiration) and each component has a maximal score of $4 ^ { 2 3 }$ . The score of these four components was recorded every hour throughout NMP. All the procedures of scoring were recorded by videos. We also assessed the foraging, drinking water and responses to the pig's voice. In addition, these properties of consciousness can be explained at the neural, behavioral, and phenomenal levels.The assessment of daily behaviors was carried out hourly and recorded by videos. The cerebral cortex response of isolated pig heads was evaluated by performing intensive light and sound stimulation. The responses to these stimuli, such as closure of eyelids and ear movement, were recorded by videos.The EEG reactivity referring to any change in frequency or amplitude due to light and sound stimulation was recorded by qEEG analysis system. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.10 Tissue processing and histology ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tissue section preparation. Following the endpoint of each experiment, the whole brain was obtained from the head and handled as follows.The tissues were dissected into 7-mm-thick blocks and fixed for 4 days in $4 \\%$ paraformaldehyde at $4 ^ { \\circ } \\mathrm { C }$ . Tissues were trimmed into $5 \\mathrm { - m m }$ thick slabs and placed in dehydration boxes. Tissues was then dropped stepwise into $7 5 \\%$ alcohol for $3 . 5 \\mathrm { ~ h ~ }$ ， $8 5 \\%$ alcohol for $2 \\mathrm { h }$ ， $90 \\%$ alcohol for $2 \\mathrm { h }$ ， $9 5 \\%$ alcohol for $^ { 1 \\mathrm { ~ h ~ } }$ ，and $100 \\%$ alcohol for $4 0 \\mathrm { m i n }$ . Samples were sequentially cleared with the mixture contained $50 \\%$ alcohol and $50 \\%$ dimethyl benzene for $5 \\mathrm { { m i n } }$ ,dimethyl benzene I for $5 \\mathrm { { m i n } }$ ,dimethyl benzene I for 5 min.Tissues were immersed in paraffin I for $^ \\textrm { \\scriptsize 1 h }$ ，paraffin I for $^ \\textrm { \\scriptsize 1 h }$ ，paraffin III for $^ \\textrm { \\scriptsize 1 h }$ Eventually, blocks were embedded in melted wax, cooled into a wax block at $- 2 0 ^ { \\circ }$ freezing table,and sectioned into $3 \\mathrm { - } 5 \\mu \\mathrm { m }$ section using the pathological slicer (Shanghai Leica Instrument, RM2016). Slices were mounted on anti-off slide. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "HE staining. Sections were serially dewaxed in dimethyl benzene I for $2 0 \\mathrm { m i n }$ ，dimethyl benzene I for $2 0 \\mathrm { m i n }$ ， $100 \\%$ alcohol I for $5 \\mathrm { { m i n } }$ ， $100 \\%$ alcohol I for $5 \\mathrm { m i n }$ ， $7 5 \\%$ alcohol for 5 min, and washed with $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ for $3 \\mathrm { m i n }$ . Tissue sections were counterstained with hematoxylin for $4 ~ \\mathrm { m i n }$ , flushed with water; differentiated by hydrochloric acid aqueous solution for $1 0 ~ \\mathrm { s }$ rinsed with water; and dyed by aqueous ammonia (Sinopharm Chemical Reagent Co., Ltd, 10002118, China), flushed with water. Section were serially dehydrationed in $7 5 \\%$ alcohol, $8 5 \\%$ alcohol and $100 \\%$ alcohol,and embedded in eosin solution for $5 \\mathrm { m i n }$ . Samples were serially dehydrated in $100 \\%$ alcohol I, $100 \\%$ alcohol II, $100 \\%$ alcohol III, n-butyl alcohol, dimethyl benzene I,and dimethyl benzene II for 5 min in each step. Finally, slices were sealed by neutral gum. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TUNEL staining. Sections were serially dewaxed in dimethyl benzene I， dimethyl benzene II, and dimethyl benzene III for $1 5 \\mathrm { m i n }$ in each step; washed by $100 \\%$ alcohol I, $100 \\%$ （20 alcohol I1, $8 5 \\%$ alcohol, and $7 5 \\%$ alcohol for $5 ~ \\mathrm { m i n }$ in each step; rehydrated in $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ for 5 min. Section was encircled by a circle drew by immunohistochemical pen to prevent liquid from flowing away. The tissue was covered with proteinase $\\mathrm { \\sf ~ K }$ solution (Servicebio, G1205, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "China) in the circle, incubated for $2 5 \\mathrm { m i n }$ in a $3 7 ^ { \\circ } \\mathrm { C }$ incubator and rinsed with PBS $\\mathrm { ( p H = } 7 . 4 ) \\$ (3 $\\times 5 \\mathrm { { m i n } }$ ). After incubated in the cell membrane breaking solution (Servicebio, G1204, China) for 20 min at room temperature, sections were washed thrice. Appropriate reagent A(TdT) and reagent B (dUTP) in the TUNEL kit (Roche,11684817910, Switzerland) were mixed 1:9, and added into slices to incubate for 2 hours in a $3 7 ^ { \\circ } \\mathrm { C }$ incubator. Tissues were rinsed thrice and dyed by DAPI staining solution (Servicebio, G1012, China) at room temperature in dark for 10 min. Samples were washed thrice and sealed with an anti-fluorescence quenching agent (Servicebio, G1401, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Nissl staining. Sections were serially dewaxed as the step of HE staining. Tissue was stained with $1 \\%$ toluidine blue(Servicebio,G1032, China) for 5 min. Sections were quickly rinsed in $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ and then differentiated in $1 \\%$ glacial acetic acid. The degree of differentiation was controlled under the microscope, and the slices were roasted. Slides were cleared in dimethyl benzene for $5 \\mathrm { m i n }$ , dried slightly, and sealed by neutral gum. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunohistochemistry (IHC). Section were serially dewaxed as the step of TUNEL staining. After rehydrating,tissue sections were suffered to antigen retrieval using retrieval fluid （204 $\\mathrm { ( p H = 9 . 0 ) }$ ）(Servicebio, G1203, China) and washed in PBS $\\mathrm { ( p H = } 7 . 4 ) \\$ ） $( 3 \\times 5 ~ \\mathrm { { m i n } } )$ . Endogenous peroxidases of tissues were quenched with $3 \\%$ （204号 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ for $2 5 ~ \\mathrm { m i n }$ at room temperature, and protected from light. Slides were blocked in $3 \\%$ bovine serum albumin (BSA) (Servicebio, G5001,China） for $3 0 ~ \\mathrm { m i n }$ before incubation with primary antibody overnight at $4 ^ { \\circ } \\mathrm { C }$ . The primary antibody included: HIF- $1 \\alpha$ (Hypoxia-inducible factor 1-alpha; mouse anti-HIF-1 alpha; 1:100; Abcam; ab16066); Hsp70 (Heat shock $7 0 \\mathrm { k D a }$ protein; mouse anti-Hsp70; 1:200; Abcam; ab47454); and NRF2 (Nuclear factor, erythroid 2 like 2; rabbit anti-NRF2/NFE2L2； 1:200; Proteintech; 16396-1-AP). Unconjugated primary antibodies were rinsed with PBS $\\mathrm { ( p H = 7 . 4 ) }$ $( 3 \\mathrm { ~ \\times ~ } 5 \\mathrm { ~ m i n } )$ .HRP-conjugated secondary antibodies corresponding species of the primary antibody were dropped on slides to cover the tissue and incubated for $5 0 \\ \\mathrm { m i n }$ at room temperature. Unconjugated secondary antibodies were washed with PBS ( $\\mathrm { ( p H = 7 . 4 ) }$ 0 $3 \\times 5$ min). Freshly prepared DAB coloring solution (Servicebio, G1211, China) was dropped to cover the sample. Action time was depended on color rendering under the microscope. Development of color reaction was terminated by water flush. The positive color was brownish-yellow. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tissue sections were counterstained with hematoxylin for $3 \\ \\mathrm { m i n }$ ， flushed with water; ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "differentiated by hematoxylin differentiation solution for $1 0 ~ \\mathrm { s }$ , rinsed with water; and dyed by the hematoxylin blue liquid (Servicebio, G1340, China), flushed with water. Nuclei were dyed blue. Section were serially dehydrated in $7 5 \\%$ alcohol, $8 5 \\%$ alcohol, $100 \\%$ alcohol, dimethyl benzene I,and dimethyl benzene II for 5 min in each step.Finally,slices were sealed by neutral gum. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence $( I F )$ . Sections were serially dewaxed as the step of HE staining. Tissues were suffered to antigen retrieval using retrieval fluid $\\mathrm { ( p H { = } } 8 . 0 \\$ ）（Servicebio,G1202, China） and washed in PBS $\\mathrm { ( p H = 7 . 4 ) }$ ， $( 3 ~ \\mathrm { ~ \\times ~ ~ 5 ~ ~ m i n } )$ ). Samples were incubated with autofluorescence quencher agent for $5 \\mathrm { { m i n } }$ and washed with running water for $1 0 ~ \\mathrm { { m i n } }$ . Slides were blocked in $3 \\%$ BSA for 30 min before incubation with primary antibody overnight at $4 ^ { \\circ } \\mathrm { C }$ The primary antibody included: IBA1 (Ionized calcium binding adapter molecule 1; goat antiIbal; 1:100; Abcam; ab5076); GFAP (Glial fibrillary acidic protein; mouse anti-GFAP; 1:100; Sigma; G3893); GAD1 (Glutamate decarboxylase 1; goat anti- GAD1; 1:100; R&D systems; AF2086); and NRGN (Neurogranin; sheep anti-NRGN; 1:100; R&D systems; AF7947). The nucleus were dyed with DAPI. Tissues were washed thrice and sealed with an anti-fluorescence quenching agent. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Microscopy and image processing. Images of HE,TUNEL and Nissl staining were viewed by an upright microscope (NIKON, ECLIPSE CI, Japan) equipped with a imaging system(NIKON DS-U3). IHC and IF were visualized using the fluorescence microscope (CIC, XSP-C204， China) and a Case Viewer (3D HISTECH, Pannoramic MIDI， Hungary), respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Histological data analysis and quantification. Images (using the $1 0 \\times$ or $2 0 \\times$ objectives as described previously) of samples dyed for TUNEL,Nissl, IHC or marker protein (GAD1, NRGN,GFAP and IBA1） were standardized to equivalent image area, randomized, and summarized by a blinded participant for the interested fields.For allimages,cells were retained if exceeding the lowest intensity level, not presenting vacuoles larger than nucleus, or not indicating mechanical injury of cells. Randomized observer-blinded trial was used to process the figures as described earlier. Interested objects were counted using the tally function in ImageJ software (NIH). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.11 Metabolomics analysis of the perfusate during ex vivo brain NMP. ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Perfusate samples from the arterial perfusion line at 2 and 3 hours after NMP were collected in the BAI and LABI groups. Triple samples were retained at each time point. The detailed protocol of sample preparation, UHPLC separation and raw data processing is provided in the Supporting Information. The data were analyzed by means of Statistical Analysis System (SAS Institute Inc., Version 9.O). Statistical significance was declared at $\\mathrm { P } < 0 . 0 5$ . The resultant three-dimensional data involving the peak number, sample name, and normalized peak area were fed to a SIMCA software package (v14.1; Sartorius Stedim Data Analytics AB; Umea, Sweden） for principal component analysis (PCA） and orthogonal projections to latent structures-discriminate analysis (OPLS-DA). PCA showed the distribution of original data. To obtain an enhanced level of group separation and obtain an increased understanding of variables responsible for classification, supervised OPLS-DA was applied. This permutation test was conducted to validate the mode. On the basis of OPLS-DA, a loading plot was constructed showing the contribution of variables to differences between the two groups.To refine this analysis,the first principal component of variable importance in the projection (VIP) was obtained. If $\\mathrm { P } < 0 . 0 5$ and $\\mathrm { V I P } > 1$ , then the variable was defined as a significantly differential metabolite between the groups. Using the Kyoto Encyclopedia of Genes and Genomes (KEGG, http://www.genome.jp/kegg), metabolic pathways mapped by every differential metabolite were acquired. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.12RNA sequencing analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In brief, isolation of total RNA and RNC-RNA was used by TRIzol Reagent, according to the manufacturer's instructions. Total RNA was performed for subsequent RNA-seq. The polyA+ mRNA was selected from the total RNA samples by RNA Purification Beads (Vazyme). The cDNA library products were generated using VAHTS mRNA-seq V2 Library Prep Kit for Illumina and sequenced using the Ilumina HiSeq X Ten. Library construction and sequencing were performed at Shenzhen Chi-Biotech Corporation. High-quality reads were kept for the sequence analysis by the Ilumina quality filters. The mRNA abundance was normalized using rpkM. Genes with $> ~ 1 0$ mapped reads were considered as quantified genes. The edgeR package method was adopted to analyze the differential expression genes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.13 Proteomics analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "After dithiothreitol (DTT) added to reduced disulfide bond and iodoacetamide added (IAA) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "to alkylated, ice acetone was added to samples for proteins precipitation 5h at ${ \\displaystyle - 2 0 ~ ^ { \\circ } C }$ ， $1 0 0 0 \\mathrm { g }$ centrifugation at $4 ^ { \\circ } \\mathrm { C }$ collected the protein pellets and wash two times with ice acetone. Then, pellets was dissolved with $2 5 ~ \\mu \\mathrm { L }$ trypsin (Promega,Madison，WI） solution (in $5 0 ~ \\mathrm { m M }$ ammonium bicarbonate， $2 0 \\mathrm { n g / \\mu L } )$ with strongly vortex and then incubated at $3 7 ^ { \\circ } \\mathrm { C }$ overnight. Trypsin-digestion peptides desalted with Pierce C18 spin tips (Thermo Scientific, MA, USA) under the guidance of its specification before LC-MS/MS analysis. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The peptides were resuspended with $2 0 ~ \\mu \\mathrm { L }$ solvent A (solvent A: water with $0 . 1 \\%$ formic acid) and analyzed by on-line nanospray LC-MS/MS on an Orbitrap Fusion coupled to an EASY-nano-LC system (Thermo Scientific,MA, USA). The analysis was performed on each fraction,with MS1 mass resolution of 350-1550 and MS/MS resolution of $3 0 ~ \\mathrm { K }$ under HCD mode. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "All MS/MS raw data were analyzed using Maxquant 1.5.2.8 with the LFQ method. Andromed was set up to search “Swissprot pig protein database. fasta\"(Download in 12/2019, 104050 entries） assuming the digestion enzyme trypsin. Andromed was searched with a fragment ion mass tolerance of $0 . 0 2 0 \\mathrm { D a }$ ,a parent ion tolerance of 10.0 PPM and max miss cleavage of 2. Carbamidomethyl of cysteine was specified in Sequest as fixed modifications. Oxidation of methionine and acetyl of the n-terminus were specified in Sequest as variable modifications. Protein identifications was controlled by both peptides and proteins FDR $< 0 . 0 1$ and unique peptides $\\geq 1$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.14 Measurement of serum S100- $\\cdot \\beta$ level ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The perfusate samples from arterial perfusion line were collected and shaken. $8 0 ~ \\mu \\mathrm { L }$ samples were dropped onto the chip of $\\mathrm { S 1 0 0 { - } \\beta }$ Rapid Test Kit (Immunochromatography) (Wuhan Easy Diagnosis Biomedicine, China). The chip was incubated $1 5 \\mathrm { m i n }$ and tested in an immunoassay analyzer (Wuhan Easy Diagnosis Biomedicine Co., QMT80oo, China). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2.15 Statistics and reproducibility ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "All data are presented as the mean $\\pm$ s.e.m.Data analysis was conducted using paired and unpaired t-tests, repeated ANOVAs. The number of brains per control group and experimental group,as well as appropriate statistical analyses, are specified in each figure legend. In Figure. 2A, the two-tailed paired t-tests were used to compared the MCA blood flow between NMP duration and pre-operation. In Figure.2, D and F, the unpaired t-tests were used to compared the apoptotic cells in Cortex and Hippocampus between normal group and the other group, or between BAI group and the other group. In Figure. 2F, the two-tailed paired t-tests were used to compared the blood gas parameters between arterial and venous during NMP. In Figure. 3, C to E,the unpaired t-tests were used to compared the Four score, MCA blood flow, and S100- $\\beta$ between BAI group and LABI group during NMP. In Figure.4, B and C, the unpaired t-tests were used to compared the Neuronal cell density cells in CA1 field (B) and Dentate gyrus field (C) between normal group and the other group, or between BAI group and the other group. In Figure.4, E and F, the unpaired t-tests were used to compared the GADl staining cells (E) and NRGN staining cels (F) in Cortex field between normal group and the other group, or between BAI group and the other group. In Figure.4, Hand I, the unpaired t-tests were used to compared the immunofluorescent stains for microglia (IBA1) in CA1 field (H) and Dentate gyrus field (I) between normal group and the other group,or between BAI group and the other group. In Figure.4, K and L, the unpaired t-tests were used to compared the immunofluorescent stains for astrocytes (GFAP) in CA1 field (H) and Dentate gyrus field (I) between normal group and the other group,or between BAI group and the other group. In Figure.4N,the unpaired t-tests were used to compared metabolites between BAI and LABI group. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Allstatistical analyses by SPSS 20.0 (SPSS Inc, Chicago, Illinois, USA) and data plotting were conducted using GraphPad 8 (GraphPad Software, Inc.). All figures were assembled using Adobe Ilustrator CC (Adobe System, Inc.). $P { < } 0 . 0 5$ was considered to indicate a significant difference from the control. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.1 Overview of technology of ex vivo brain NMP ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Our ex vivo brain NMP system consists of an arterial pump unit, a venous pump unit, an oxygenation unit, a filtration unit, a thermo unit and a control unit (Figure. la). The flowing perfusate passes through the oxygenation unit and is heated by the heater, then passes through the filtration unit and perfuses the brain/liver. The oxygenation unit maintains the $\\mathrm { P O } _ { 2 }$ and $\\mathrm { P C O } _ { 2 }$ of the perfusate with expected ranges by adjusting the air flow to ensure metabolic needs for the brains. The filtration unit filters out tiny blood clots and impurities,and the thermo unit maintains the temperature of the perfusate at $3 8 ^ { \\circ } \\mathrm { C }$ . The operating interface of the control unit monitors and adjusts the perfusion pressure and temperature. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The system circulated a whole blood-based perfusate (Table S1) with a pulsatile artery line and non-pulsatile portal vein line. The arterial perfusion pressure gradually increased from 60 mmHg to $9 0 { \\cdot } 1 0 0 \\ \\mathrm { m m H g }$ in 10 minutes to achieve a middle cerebral artery (MCA) flow close to the preoperative value. The portal vein perfusion pressure was set at $5 { \\cdot } 1 2 \\ \\mathrm { m m H g }$ to maintain a flow higher than 500 mL/min. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The brains were re-perfused ex vivo immediately or after various warm ischemia times (WIT) with or without combined perfusion of a liver. When the livers were used, they were reperfused ex vivo as soon as they were harvested to ensure their viability (Figure.1B). In this study, we designed six experimental groups: brain alone immediately NMP group (BAI group, $\\mathtt { n } = 5$ ); liver-assisting brain immediately NMP group (LABI group, $\\mathbf { n } = 5$ ); liver-assisting brain 30 min-WIT NMP group (LABWI-30 group, $\\mathtt { n } = 5$ ); liver-assisting brain 50 min-WIT NMP group (LABWI-50 group, $\\mathbf { n } = 5$ ); liver-assisting brain 60 min-WIT NMP group (LABWI-60 group, $\\mathtt { n } = 4$ ); liver-assisting brain 240 min-WIT NMP group (LABWI-240 group, ${ \\mathfrak { n } } = 3$ ） ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "During NMP, electroencephalogram (EEG) was monitored to detect the electrical activity of the brains. Transcranial Doppler (TCD) was used to monitor the MCA flow. The blood gas analysis of the perfusate was performed to guide adjustment of gas supply and perfusate components. Intracranial pressure was measured by a pressure tube that passed through the cervical spinal stump into the cerebellar medullary cistern.A shot of $5 0 ~ \\mathrm { m L }$ mannitol was used when the intracranial pressure exceeded $8 0 \\ \\mathrm { m m H } _ { 2 } \\mathrm { O }$ .A dose of $0 . 5 ~ \\mathrm { m g }$ nimodipine was used when the MCA flow was $1 0 \\mathrm { c m / s }$ lower than the preoperative value.A dose of $5 0 \\mathrm { m g }$ Tramadol ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Hydrochloride Injection was added in the perfusate to reduce pain in case it was presented. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.2 Preservation of tissue integrity, metabolic activity and brain stem function after brainalone NMP ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Firstly, we tested whether NMP of brain alone immediately after circulatory death (BAI group) was able to resuscitate consciousness. Due to the 5-min no-touch time and NMP preparation, the brains suffered $1 0 . 1 \\pm 1 . 8$ min WIT in this group (Figure. 1B). The TCD detection showed that the pre-operative flow of the left MCA was $3 8 . 8 \\pm 9 . 6 ~ \\mathrm { c m / s }$ . The flow was close to the pre-operative level at the beginning of NMP,but started to decline after 6-hour perfusion even when nimodipine was used to dilate the vessels (Figure. 2A). The general structure of the whole brains was preserved (Figure. S1). The hematoxylin and eosin (HE) staining demonstrated the tissue integrity was restored,although obvious ischemia-reperfusion injuries in the cortex, thalamus, hippocampus,cerebellum and brainstem were observed when compared to the healthy controls (Figure. 2B). The terminal deoxynucleotidyl transferasemediated biotinylated UTP nick end labeling(TUNEL) showed $1 1 . 2 \\%$ and $6 . 0 \\%$ apoptotic cells in the cortex and hippocampus, respectively (Figure.2, C to E). These data demonstrated that brain circulation and tissue integrity were preserved during ex vivo NMP. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We then investigated whether restored blood supply to the brains could re-activate the global metabolic activity. The arterial and venous samples were compared throughout the course of experiments. Consistent with the previous studies16.24, the arteriovenous gradients demonstrated consistent consumption of glucose and oxygen during NMP, with concurrent production of $\\mathrm { C O } _ { 2 }$ and a physiological drop in pH values (Figure.2F). Recently, a study reported that both the brains and muscles are major organs releasing lactate25, which might explain the increasing lactate levels during perfusion. Since the head contains tissues other than the brain, the arteriovenous gradients reflected the global metabolic activity of the whole head. To evaluate the metabolic activity of the brain, a positron emisson computed tomography (PETCT) scan was done and showed that the cerebrum (standard uptake value: O.09), cerebellum (standard uptake value: O.08) and brainstem (standard uptake value: O.08) were under active glucose metabolism (Figure. 2G). These results confirmed that metabolic activity of the brain was regained during ex vivo NMP. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A previous study showed complete recovery of pig brain function after global ischemia26, during which the brain was resuscitated in vivo with heart beating (the full function of organs other than the brain was preserved). In the current model, some brainstem reflexes, such as corneal reflex and pupillary light reflex, were presented during ex vivo NMP. Besides, the pig heads showed spontaneous respiration and its frequency increased along with the increased （204号 $\\mathsf { p C O } _ { 2 }$ level in the perfusate (video S1). However, the EEG monitoring did not document any kind of organized global electrical activity in this group (Figure. 2H),although they looked like awake. Obvious edema of the re-perfused brains (Figure. S1) and increased arterial resistance (Figure. S2C) occurred, which are in consistence with a previous study in monkeys17. These findings suggest that ex vivo NMP of the brain alone is able to restore brainstem function, but it fails to restore consciousness. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.3 Ex vivo restoration of consciousness by addition of a liver in the NMP circuit ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Hepatic encephalopathy or even hepatic coma is a common complication in patients suffering end-stage liver disease²7. We hypothesized that global electric activity could not be restored ex vivo without the supports of a functioning liver. Therefore,a liver from the same pig was perfused along with the head in the system (LABI group). Because of the additional procedures, the WIT of the brains in this group ( $1 4 . 2 \\pm 0 . 7 \\mathrm { \\ m i n }$ ） was longer than those in the BAI group ( $1 0 . 1 \\pm 1 . 8 \\mathrm { \\ m i n }$ 0 $\\scriptstyle \\mathrm { P = 0 . 0 6 7 }$ ). The livers continued to produce bile during perfusion, indicating that they were functioning28. Under this circumstance,the EEG monitoring recorded frequent $\\alpha$ waves and $\\beta$ waves (Figure.3A), both of which represent the conscious activity of the brains29,30. Importantly,the ex vivo perfused heads presented with activities associated with high-order brain functions such as eyeball tracking,foraging and response to recorded pig Voice (video S2). The Full Outline of UnResponsiveness (FOUR) score, which is used to assess the conscious state 23, was much higher in the LABI versus BAI group (3h-NMP: $8 . 2 \\pm 0 . 7$ versus $4 . 2 \\pm 0 . 2$ ， $\\scriptstyle \\mathrm { \\mathrm { P } < 0 . 0 0 1 }$ ； 5h-NMP: $8 . 8 \\pm 0 . 4$ versus $4 . 8 \\pm 1 . 7$ ， $\\mathrm { ~ P ~ } { = } 0 . 0 4 6 2$ ）(Figure.3C). The maximum FOUR score achieved 13 in the LABI group (Table S2), suggesting an almost conscious wake status of the ex vivo perfused brain. During the preliminary stage of establishing this system, the arousal (i.e. cycles of eye-opening and closing) and awareness of one isolated pig head, were maintained for 22 hours. The perfusion was stopped because the perfusionist was too tired to continue. Collectively, these data showed that consciousness can be restored ex vivo by combined brain and liver NMP. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.4Regained brain function 5O minutes after cardiac arrest ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The previous in vivo study showed that the pig brain can tolerate 3O-min global ischemia26, and a very recent ex vivo study reported that cellular function can be restored after 4-hour complete ischemia (l-hour warm ischemia plus 3-hour cold ischemia) with no sign of consciousness recorded16. To test the longest normothermia ischemia interval after which consciousness can be restored ex vivo in pigs, the brain WIT was extended to 3O minutes (LABWI-30), 50 minutes (LABWI-50), 60 minutes (LABWI-60),and 240 minutes (LABWI240) in the current study. The brain consciousness could be retained in three out of five pigs after 2-3 hours of ex vivo NMP, as evidenced by EEG records (Figure. 3A), FOUR scores (Figure.3A) and daily behaviors (video S3) in the LABWI-30 group. When the brains suffered 50-min WIT, consciousness was documented in one brain, although four of the five brains presented with brainstem function.In the case with consciousness,the eyelids were closed after stimulation by intensive light and the ears moved in response to intensive sound (video S4). The EEG reactivity referring to these stimuli in frequency and amplitude was recorded by quantitative EEG (qEEG) analysis system (Figure.3B). In contrast, neither organized electrical activity nor brainstem reflex showed up in the brains suffering 60-min or 240-min WIT (Figure. 3A,Table S2). These results suggest that under proper conditions,brain function can be restored after unexpected long interval post-cardiac arrest. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3.5 Improved circulation and reduced neuronal injuries after liver-assisting versus brain alone NMP ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "It is of great importance to understand the roles of a functioning liver in ex vivo restoration of consciousness. Addition of the liver increased the MCA flow under similar arterial perfusion pressure (Figure. 3D), and substantially declined the perfusate level of S100- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ (LABI versus BAI) (Figure.3E),which is a biomarker of neural injury³1. Interestingly, the $\\mathrm { S 1 0 0 { - } \\beta }$ level did not increase along with the prolonged WIT, which might be explained by the inhibition of protein synthesis. We subsequently assessed whether there were anatomical reflections in the cytoarchitectural integrity of brain regions which are highly susceptible to anoxia and ischemia, such as the neocortex, hippocampus，and cerebellum32,33. The HE staining demonstrated obvious pathological changes of cell shrinkage，nucleus pyknosis or perinuclear space expansion in cortical, hippocampal and cerebellar cells in the BAI group (Figure. 2B). In contrast, pyramidal neurons had plump cell bodies with large centrically located nuclei and exuberant nerve fibers in the LABI group. The cytoarchitectures of the cortex, thalamus, hippocampus,cerebellum and brainstem in the LABI and LABWI-30 groups were comparable to those in the normal controls (Figure. S5). Besides, no significant increase of apoptotic cels in the hippocampus was documented in these two groups (Figure.2, C to E).As the WIT prolonged, tissues of the cortex, hippocampus, cerebellum, brainstem and thalamus became looser with more severe vacuolation and cell shrinkage, deepened nuclear pyknosis, increased apoptotic and necrotic cells (Figure. 2， C to E; and Figure. S5). Interestingly， the cytoarchitecture was well-preserved in the LABWI-50 brain with consciousness (Figure. S6). ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "We further assessed the neuronal viability by Nissl staining. The results showed comparable density of live neurons in both CA1 field and dentate gyrus between the Normal and LABI/LABWI-30 groups. In contrast, there was a decreased density of live neurons in the CA1 field in the BAI group (Figure. 4,A to C). Immunofluorescent analysis for the inhibitory neuronal marker glutamate decarboxylase 1 (GAD1) revealed preserved cell density in the cortex of the BAI, LABI and LABWI-30 groups (Figure. 4D upper and Figure. 4E). Notably, staining for the excitatory neuronal marker neurogranin (NRGN） revealed decreased cell density in the cortex of the BAI group,but preserved cell density in the other groups (Figure. 4D lower and Figure. 4F). We next assessed whether the glial cells maintained their structural properties after NMP. Staining for microglial marker (IBA1) produced fragmented signals with signs of cellular destruction in the CA1 field of al the perfused brains, but preserved density in the dentate gyrus of BAI,LABI and LABWI-30 groups (Figure. 4, G to I). In contrast, staining for astrocytic marker (GFAP) revealed fragmented signals only in the LABWI-60 brains and preserved astrocyte density in other groups (Figure. 4, J to L). To dissect the potential mechanisms,immunohistochemisty analysis for the hypoxia-induced markers (HIF-1α,HSP70 and NRF2) was conducted. Staining of these markers in the cortex demonstrated that the BAI brains suffered obvious ischemic injuries compared to the normal controls (Figure. S7). Collectively, with the supports of a functioning liver, the ischemic injuries were reduced. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "3.6 Regulation of perfusate metabome profile by the liver in the NMP circuit ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The metabolism function of the liver is considered as a prerequisite for normal brain function34. The Ultra High Performance Liquid Chromatography coupled to triple-quadrupole ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "MassSpectrometry(UHPLC-QqQ-MS) metabolomicsanalysisdocumented different metabolome profiles between the BAI and LABI groups (Figure. S8,A and B). Glycine, serine and threonine metabolism was the most significantly different metabolic pathway, followed by methane metabolism, alanine, aspartate and glutamate metabolism, as well as arginine and proline metabolism (Figure. S8C). The heatmap of hierarchical clustering analysis showed the identified differentially expressed metabolites (screened by variable importance in the projection $> 1$ and $P < 0 . 0 5$ ）(Figure. 4M). The level of two inhibitory neurotransmitters (yAminobutyric acid and Glycine) increased,but the level of an excitatory neurotransmitter (LGlutamic acid) decreased, during NMP in the BAI versus LABI brains (Figure.4N). In addition, the level of two aromatic amino acids (L-Phenylalanine and L-Tryptophan) elevated in the BAI group,but with no significant difference in the level of detected branched chain amino acids between the two groups (Figure. 4N). These findings are in consistence with well-clarified roles of neurotransmitters and aromatic amino acids in the pathogenesis of hepatic encephalopathy 27.Interestingly,the roles of26outof39 identified differentially expressed metabolites in brain function have not been reported in the literature. The above results suggest the crucial role of liver metabolic function in brain resuscitation. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "3.7 Different gene expression profiles in the LABI versus BAI brains ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "By comparing global gene expression profiles using a whole genome gene array approach, we identified a total of 129 differentially expressed genes (DEGs) (up-regulation,107 genes; down-regulation, 22 genes） in the cortex of brains after 6-hour NMP in LABI versus BAI groups with an altered expression level of more than 2-fold at a statistical significance level of $\\mathbf { P } < 0 . 0 1$ (Figure. 5A). The DEGs could be divided into 5 major groups, including regulation of synapse and axon (15 DEGs), regulation of neurotransmitters (9 DEGs), neural system process and development (42 DEGs), sensory perception (20 DEGs) and wound healing (20 DEGs), suggesting that the liver directly affected the neural signal transduction, which is in accordance with the EEG results. In the regulation of synapse and axon group, a subgroup of genes,including GPER1,PENK,FAM196A, GRIP2,ADORA2A,F2R, TAC1 and NTRK2, were involved in regulation of synaptic transmission (Figure. 5B). Addition ofa liver in the perfusion circuit up-regulated the expression of this group of genes except GRIP2 when compared to the BAI brains.Notably, GPER1, GRIP2,ADORA2A,F2R and NTRK2 were also involved in regulation of neurotransmitter (Figure. 5C). Besides， the expression of several other neurotransmitter-related genes (RGS9， FGR， AGT and RORA), were up-regulated in the LABI group. In terms of neural system process and development, the liver-assisting NMP upregulated the expression of NTS,NTN5,ARHGEF15, VCAM1, VIM,PPP1R1B and CRB2,but down-regulated the expression of FUT9, STRIP1 and NEUROD6 (Figure. 5D). Most of these genes were related to the development of central nervous system. It is largely unknown that how these genes may participate in the process of consciousness. Interestingly,a large number of genes related to sensory perception of sight (GPER1, ARHGEF15,NTRK2, RGS9, FGR, NTS, VIM, GNG11, GNG4, COL18A1 and GPR88), pain (ADORA2A, F2R, TAC1 and LXN), taste(TCF7,GNG1l and GNG4)， sound (USP53)， smell (GNAL） and heat (LXN) were differentially expressed between the BAI and LABI groups (Figure. 5E). The majority of these genes except GNG4 and LXN were up-regulated in the LABI brains, suggesting enhanced sensory perception in this group. Finally, a number of genes related to wound healing were upregulated in the LABI groups (Figure. 5F), indicating that the liver provides additional protection for the brains suffering from ischemia. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "3.8 Distinct proteomics profiles in the LABI versus BAI brains ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "We further explored the molecular mechanism underling the protective effects of a functioning liver on the brain by proteomics analysis. To visualize the protein expression differences, we applied unsupervised hierarchical clustering analysis (HCA) on the significant proteins with mean-centered label-free quantification (LFQ) intensity transformed with log2 function (Figure. 5H).A total of 44 differentially expressed proteins were identified in the cortex of brains in the LABI versus BAI groups.Notably, we observed a high percentage (18/33, $4 3 . 2 \\%$ ）of annotated proteins(GPS1，MCCC2，DNM2，GRM5，CADPS2，SLC6A11, KCNMA1, CNTNAP2, KCNAB2, KCNA2, REEP1, GUD1, CUTA, GAD1, GNAZ, hint1, Cldn1l and ACTR10) related to regulation of synapse and axon. In brain, glutamate and GABA are two major neurotransmitters, which play excitatory and inhibitory functions, respectively. Addition of a liver in the NMP circuit increased expression of two glutamate receptors (GLUD1 and GRM5)， but decreased expression of one GABA receptor (SLC6A11） and glutamate decarboxylase 1 (GAD1, decarboxylating glutamate into GABA), which suggests stronger excitatory but weaker inhibitory neuronal signaling in the cortex of LABI versus BAI group. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Interestingly， reduced protein expression of one calcium-activated potassium channel (KCNMA1)， two voltage-gated potassium channel (KCNA2 and KCNAB2)，and a cell adhesion protein (CNTNAP2) (functioning in the localization of voltage-gated potassium channel complex), were found in the LABI versus BAI cortex. Studies have showed that these potassum channels are crucial for the action potential repolarization and neurotransmitter release35-38. Reduced activity leads to an increase in postsynaptic excitatory responses. Collectively, the proteomics analysis showed a clear enhanced excitatory neural signaling in the LABI versus BAI cortex. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The liver-assisting brain NMP model is established based on clinical practice.First of all, to simulate controlled donation after circulatory death, exsanguination and ventricular injection of potassium chloride was used to induce cardiac arrest and the brain was harvested after 5-min no-touch time.Meanwhile,it has been showed that the core temperature largely affects the brain resuscitation³2. The study reported full neurological recovery from profound $( 1 8 . 0 ^ { \\circ } \\mathrm { C } )$ acute accidental hypothermia by active invasive rewarming technique. In the study reported by Vrselja et al, the brains were preserved on ice for three hours after 1-hour warm ischemial6. Besides, the Hemopure-based perfusate used did not contain any immune cells, which role out the profound effects of immune response in ischemia-perfusion injuries16. Therefore, their results might over-estimate the brain tolerance to “prolonged\"(4-hour) ischemia.In the current study, to represent the majority of clinical conditions,the brains only suffered normothermic ischemia before NMP and the perfusate was a whole blood cell-based one.Therefore, the model might better simulate the clinical conditions when compared with the previously reported models 16,25,26. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge,the standard method to assess consciousness ex vivo has not been reported. In the early studies and the recent report16.17.39, EEG was used to detect the signs of consciousness. However, the EEG activity itself would not reliably signal a conscious brain since such activity is always detected in people who are under general anaesthesia40. In this study, instead of isolating the brains from the skull, we preserved the brains in the skull and disconnected the head from the body between C7 and T1 vertebra, which makes it feasible for testing brainstem reflexes,ability to breathe,and particularly response to external stimuli. Therefore, we can use the FOUR score, a clinical scoring system to assess the state of consciousness23. The results suggested a almost fully conscious state in some experiments, although the FOUR score could not achieve its maximum of 16 score, due to the disability of language communication and incomplete respiration movement without the chest. The EEG changes under sound and light stimulus further supports the awake state of the perfused brains. These direct evidence show that consciousness can be restored and maintained ex vivo. One of the important findings in this study is the critical role of a liver in the ex vivo ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "restoration of consciousness. This finding is in consistent with the presence of severe coma in patients suffering primary graft non-function post-liver transplantation, which requires an urgent re-transplant for life-saving41.We found that addition of a liver in the NMP circuit can reduce the levels of inhibitory neurotransmitters and aromatic amino acids in the perfusate, which is consistent with clinical observations in hepatic encephalopathy27. Moreover,the RNA sequence analysis showed that the liver-assisting NMP enhanced the expression of a number of genes related to synapse formation and function, neurotransmitter, and sensory perception. The proteomics analysis demonstrated that the majority of differentially expressed proteins were involved in regulation of synapse activity and the excitatory neural signaling was stronger in the LABI versus BAI groups ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Ex vivo maintenance of consciousness would raise important ethical consideration. In this study, the pig brains were dissected under full anesthesia and procured after cardiac arrest. The perfusions were discontinued after 6-hour NMP,although our preliminary result showed that the consciousness can be maintained for more than 22 hours.Painkiller was used during ex vivo brain NMP and no obvious sufferings (if we can interpret them correctly) was recorded in any experiment. However, a standard ethical guideline should be outlined by the corresponding stakeholders according the international regulations. Most importantly, any attempt to use this technology in resuscitating human brain ex vivo should be forbidden before the corresponding international regulations or laws are approved. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Undoubtedly, there are a number of limitations in this study. Firstly, we tried to use pigs for food production instead of experimental animals. However， our institutional ethic committee only considered ethical application using experimental animals and the lab did not allow to conduct studies using animals for food production. Secondary, we did not document a full FOUR score in any experiment because it is almost impossible to get full score in an isolated head or brain according the criteria. It is suggested that EEG activity with responsiveness to transcranial magnetic stimulation (TMS） might be an alternative to assess consciousness in this circumstance. Finally, we showed that the liver-assisting NMP was able to regulate the metabome profiles of perfusate, enhance gene and protein expression related to synapse and neurotransmitter，and ameliorate ischemic injuries. However， the detailed molecular mechanism is still unclear due to the complexity of brain function and study design ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "of big animal experiments. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we report that ex vivo liver-assisting brain NMP can restore brain consciousness after“circulatory death” in pigs.Without use of any central nervous system stimulant, the maximum WIT after which the brain consciousness can be restored is about 50 minutes.After further development and optimization of the technology,the complete ischemia time that the brain can endure might be prolonged. The knowledge from this and following studies willprobably help improve the technology of brain resuscitation, and update the current diagnostic criteria of death. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants as follows: the National Natural Science Foundation of China (81970564, 81471583 and 81570587), the Guangdong Provincial Key Laboratory Construction Projection on Organ Donation and Transplant Immunology (2013A061401007 and 2017B030314018), Guangdong Provincial Natural Science Funds for Major Basic Science Culture Project (2015A030308010), Guangdong Provincial Natural Science Funds for Distinguished Young Scholars (2015A030306025), Special Support Program for Training High Level Talents in Guangdong Province (2015TQ01R168),Pearl River Nova Program of Guangzhou (201506010014),and Science and Technology Program of Guangzhou   \n(201704020150).   \nCompeting interests: None declared   \nData and materials availability: All data needed to evaluate the conclusions in the paper are present in the paper or the supporting information. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "711 References: ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "/   \n713 Perez-Vela JL et al. The use of ECMO in ICU. Recommendations of the Spanish Society ofCritical Care   \n714 Medicine and Coronary Units. Med Intensiva 2019; 43(2): 108-120.   \n715 2.Borjigin J,Lee U,Liu T,Pal D, Huff S, Klarr D et al. Surge of neurophysiological coherence and   \n716 connectivity in the dying brain. Proc Natl Acad Sci U S A 2013; 110(35): 14432-14437.   \n717 3.COLE SL, CORDAY E.Four-minute limit for cardiac resuscitation.JAm Med Assoc 1956; 161(15):   \n718 1454-1458.   \n719 4. GRENELL RG. Central nervous system resistance; the effects of temporary arrest of cerebral   \n720 circulation for periods of two to ten minutes. J Neuropathol Exp Neurol 1946; 5: 131-154.   \n721 5．Torke AM, Bledsoe P,Wocial LD,Bosslet GT, Helft PR. CEASE: a guide for clinicians on how to   \n722 stop resuscitation efforts. Ann Am Thorac Soc 2015; 12(3): 440-445.   \n723 6.McGee A, Gardiner D, Murphy P.Determination of death in donation after circulatory death: an   \n724 ethical propriety. Curr Opin Organ Transplant 2018; 23(1): 114-119.   \n725 7.Shapey IM, Summers A, Augustine T,van Dellen D. Systematic review to assess the possibility of   \n726 return of cerebral and cardiac activity after normothermic regional perfusion for donors after circulatory   \n727 death. Br J Surg 2019; 106(3): 174-180.   \n728 8. Hossmann KA, Zimmermann V. Resuscitation of the monkey brain after 1 h complete ischemia. I.   \n729 Physiological and morphological observations. Brain Res 1974; 81(1): 59-74.   \n730 9.Zimmermann V, Hossmann KA. Resuscitation of the monkey brain after one hour's complete   \n731 ischemia. I1. Brain water and electrolytes. Brain Res 1975; 85(1): 1-11.   \n732 10.Kleihues P, Hossmann KA, Pegg AE, Kobayashi K, Zimmermann V. Resuscitation of the monkey   \n733 brain after one hour complete ischemia. II. Indications of metabolic recovery. Brain Res 1975; 95(1):   \n734 61-73.   \n735 11.Hossmann KA, Sato K. Recovery of neuronal function after prolonged cerebral ischemia. Science   \n736 1970; 168(3929): 375-376.   \n737 12．Allen BS,Ko Y, Buckberg GD, Tan Z. Studies of isolated global brain ischaemia: I. Controlled   \n738 reperfusion provides complete neurologic recovery following 30 min of warm ischaemia - the importance   \n739 of perfusion pressure. Eur JCardiothorac Surg 2012; 41(5): 1147-1154.   \n740 13． Verwer RW, Hermens WT, Dijkhuizen P,ter Brake O,Baker RE,Salehi A et al. Cells in human   \n741 postmortem brain tissue slices remain alive for several weeks in culture. Faseb J2002; 16(1): 54-60.   \n742 14. Onorati M,Li Z, Liu F, Sousa A, Nakagawa N,Li M et al. Zika Virus Disrupts Phospho-TBK1   \n743 Localization and Mitosis in Human Neuroepithelial Stem Cells and Radial Glia. Cell Rep 2016; 16(10):   \n744 2576-2592.   \n745 15．Barksdale KA，Perez-Costas E，Gandy JC，Melendez-Ferro M， Roberts RC，Bijur GN.   \n746 Mitochondrial viability in mouse and human postmortem brain. Faseb J2010; 24(9): 3590-3599.   \n747 16. Vrselja Z, Daniele SG, Silbereis J, Talpo F,Morozov YM, Sousa A et al.Restoration of brain   \n748 circulation and cellular functions hours post-mortem. Nature 2019; 568(7752): 336-343.   \n749 17. White RJ, Albin MS, Verdura J. Preservation of viability in the isolated monkey brain utilizing a   \n750 mechanical extracorporeal circulation. Nature 1964; 202: 1082-1083.   \n751 18.Warnecke G, Moradiellos J, Tudorache I, Kuhn C, Avsar M, Wiegmann B et al. Normothermic   \n752 perfusion of donor lungs for preservation and assessment with the Organ Care System Lung before   \n753 bilateral transplantation: a pilot study of 12 patients. Lancet 2012; 380(9856): 1851-1858.   \n754 19.Dhital KK, Iyer A, Connellan M, Chew HC, Gao L,Doyle A et al. Adult heart transplantation with   \n755 distant procurement and ex-vivo preservation ofdonor hearts after circulatory death: a case series. Lancet   \n756 2015; 385(9987): 2585-2591.   \n757 20． Nasralla D, Coussios CC, Mergental H,Akhtar MZ,Butler AJ, Ceresa C et al. A randomized trial   \n758 of normothermic preservation in liver transplantation. Nature 2018; 557(7703): 50-56.   \n759 21. Hosgood SA, Saeb-Parsy K, Hamed MO, Nicholson ML. Successful Transplantation of Human   \n760 Kidneys Deemed Untransplantable but Resuscitated by Ex Vivo Normothermic Machine Perfusion. Am   \n761 J Transplant 2016; 16(11): 3282-3285.   \n762 22. Cai Y, Weng K, Guo Y, Peng J, Zhu ZJ. An integrated targeted metabolomic platform for high  \n763 throughput metabolite profiling and automated data processing. Metabolomics 2015; 11(6): 1575-1586.   \n764 23． Wijdicks EF,Bamlet WR,Maramattom BV,Manno EM,McClelland RL.Validation ofa new coma   \n765 scale: The FOUR score. Ann Neurol 2005; 58(4): 585-593.   \n766 24.Lam TI, Brennan-Minnella AM, Won SJ, Shen Y, Hefner C,Shi Y et al. Intracelular pH reduction   \n767 prevents excitotoxic and ischemic neuronal death by inhibiting NADPH oxidase. Proc Natl Acad Sci $U$ （204号   \n768 S A 2013; 110(46): E4362-E4368.   \n769 25. Jang C, Hui S, Zeng X, Cowan AJ， Wang L, Chen L et al. Metabolite Exchange between   \n770 Mammalian Organs Quantified in Pigs. Cell Metab 2019; 30(3): 594-606.   \n771 26. Allen BS,Ko Y,Buckberg GD, Tan Z. Studies of isolated global brain ischaemia: II. Influence of   \n772 pulsatile flow during cerebral perfusion and its link to consistent full neurological recovery with   \n773 controlled reperfusion following $3 0 \\mathrm { m i n }$ of global brain ischaemia. Eur JCardiothorac Surg 2012; 41(5):   \n774 1155-1163.   \n775 27. Prakash R, Mulln KD. Mechanisms, diagnosis and management of hepatic encephalopathy. Nat   \n776 Rev Gastroenterol Hepatol 2010; 7(9): 515-525.   \n777 28. Mergental H, Perera MT, Laing RW, Muiesan P, Isaac JR, Smith A et al. Transplantation of   \n778 Declined Liver Allografts Following Normothermic Ex-Situ Evaluation. Am J Transplant 2016; 16(11):   \n779 3235-3245.   \n780 29. Koch C, Massimini M, Boly M, Tononi G. Neural correlates of consciousness: progress and   \n781 problems. Nat Rev Neurosci 2016; 17(5): 307-321.   \n782 30.Mashour GA, Hudetz AG. Neural Correlates of Unconsciousness in Large-Scale Brain Networks.   \n783 Trends Neurosci 2018; 41(3): 150-160.   \n784 31. Micheti F, D'Ambrosi N,Toesca A, Puglisi MA, Serrano A, Marchese E et al. The S100B story:   \n785 from biomarker to active factor in neural injury. J Neurochem 2019; 148(2): 168-187.   \n786 32. Hughes A,Riou P, Day C.Full neurological recovery from profound (18.0 degrees C） acute   \n787 accidental hypothermia: successul resuscitation using active invasive rewarming techniques. Emerg   \n788 Med J2007; 24(7): 511-512.   \n789 33．Horn M, Schlote W. Delayed neuronal death and delayed neuronal recovery in the human brain   \n790 following global ischemia. Acta Neuropathol 85(1): 79-87.   \n791 34.Felipo V.Hepatic encephalopathy: effects ofliver failure on brain function. Nat Rev Neurosci 2013;   \n792 14(12): 851-858.   \n793 35. Contet C, Goulding SP, Kuljis DA, Barth AL.BK Channels in the Central Nervous System. Int Rev   \n794 Neurobiol 2016; 128: 281-342.   \n795 36. Saint-Martin M, Joubert B,Pelier-Monnin V, Pascual O, Noraz N, Honnorat J. Contactin  \n796 associated protein-like 2, a protein of the neurexin family involved in several human diseases. Eur $J$ （20   \n797 Neurosci 2018; 48(3): 1906-1923.   \n798 37． Perkowski JJ, Murphy GG. Deletion of the mouse homolog of KCNAB2,a gene linked to ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "monosomy lp36,results in associative memory impairments and amygdala hyperexcitability.JNeurosci 2011; 31(1): 46-54.   \n38.Lambe EK, Aghajanian GK. The role of Kv1.2-containing potassum channels in serotonin-induced glutamate release from thalamocortical terminals in rat frontal cortex.JNeurosci 20o1; 21(24): 9955- 9963.   \n39. Hirsch H, Tesch P. Recovery of the electrocorticogram of canine brains after complete cerebral ischaemia at 37 degrees and 32 degrees C. Neurosurg Rev 1982; 5(2): 49-54.   \n40．Brown EN,Lydic R,Schiff ND.General anesthesia,sleep,and coma. NEngl JMed 2010; 363(27): 2638-2650.   \n41. Chen XB, Xu MQ. Primary graft dysfunction after liver transplantation. Hepatobiliary Pancreat Dis Int 2014; 13(2): 125-137. ",
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c10441de263b45cf4480e5ba0fde9790ae23797753f4d6b35753cf53b9826e3.jpg",
+        "img_caption": [
+            "Figure.1 The ex vivo brain normothermic machine perfusion (NMP） system and experimental workflow. "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "(A) Simplified schematic of the open-circuit perfusion system. The porcine head was connected to the perfusion system via a pulsatile artery line.In addition, the liver was connected to the system through a common artery line and a non-pulsatile portal vein line.Ports for arterial and venous sampling are shown. In this system, electroencephalogram (EEG) was performed to detect the electrical activity in the brain. The left middle cerebral arterial flow were detected by transcranial doppler(TCD). (B) Schematic depicting the experimental workflow and conditions. WIT, warm ischaemia time; BAI, brain alone immediately NMP; LABI, liver-assisting brain immediately NMP; LABWI-30, liver-assisting brain 30 min-WIT NMP; LABWI-50, liverassisting brain 50 min-WIT NMP; LABWI-60, liver-asssting brain 60 min-WIT NMP; LABWI-240, liver-assisting brain 240min-WIT NMP. ",
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/8625dfe1767c85cd0ba9e45890f718bdba30818f5c8869bf725a566546d3e11c.jpg",
+        "img_caption": [
+            "Figure.2 Ex vivo normothermic machine perfusion (NMP) of brain alone can maintain vascular circulation, tissue integrity and metabolic activity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "(A) The transcranial doppler (TCD) demonstrating restoration of the middle cerebral arterial (MCA） flow by the ex vivo perfusion system in a representative brain. Mean $\\pm$ s.e.m for statistics. Two-tailed paired t-test for each point. (B) Hematoxylin and eosin (HE) staining $( 4 0 0 \\times )$ of the cortex, thalamus,hippocampus, cerebellum,and brainstem after 6-hour NMP.(C) The terminal deoxynucleotidyl transferase-mediated biotinylated UTP nick end labeling (TUNEL) $( 2 0 0 \\times )$ demonstrating apoptotic cells (green). (D） and (E） Histograms displaying normalized percentage of TUNEL positive nuclei in the cortex and hippocampus. Two areas （204号 $( 2 0 0 \\times )$ of each brain for counting. (F) Paired measurements of arterial and venous samples indicating the arteriovenous gradients from the ex vivo brain NMP system. Mean $\\pm$ s.e.m for statistics.Two-tailed paired t-test for each point. (G) The positron emission computed tomography (PET-CT) scan showing active glucose metabolism of the whole brain. (H) The electroencephalogram (EEG) testing results showing respiration movement but no organized lobal electrical activity. \\*Indicates a significant difference. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/c881ddb57ddc9370ebfc1bd83ddec503d058eecb3d1c3171ebbab91f7a7fed45.jpg",
+        "img_caption": [
+            "Figure.3 A functioning liver is required for ex vivo restoration of brain consciousness. "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(A) The electroencephalogram (EEG) testing results showing distinct conscious state of the five groups.(B) The EEG results demonstrating responses of one brain suffering 50-min WIT to strong light (upper) and sound (lower） stimuli. (C) The Full Outline of UnResponsiveness (FOUR) score in the five groups (BAI vs LABI, t-test. 3h: $p { < } 0 . 0 0 1$ ; 4h: $\\scriptstyle { p = 0 . 0 2 5 }$ ; 5h: $\\scriptstyle p = 0 . 0 4 6 )$ ！： ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "(D) The middle cerebral arterial (MCA) flow in the five groups (BAI vs LABI, t-test. 2h: $\\scriptstyle { p = 0 . 0 3 1 }$ ; 4h: $\\scriptstyle { p = 0 . 0 4 1 }$ ; 5h: $\\scriptstyle { p = 0 . 0 0 5 }$ ; 6h: $\\scriptstyle { p = 0 . 0 0 3 }$ ).(E)The levels of $\\mathrm { S 1 0 0 { - } \\beta }$ ，a biomarker of brain injury in the five groups (BAI vs LABI, t-test. 4h: $p { < } 0 . 0 0 1$ ; 5h: $p { < } 0 . 0 0 0 1$ ; 6h: $\\scriptstyle { p < 0 . 0 0 1 }$ ） $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p { < } 0 . 0 0 1$ ,\\*\\*\\*\\*p<0.0001. ",
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/8249105cda2a7457602a2e87e09d22a6fbd4e9c701f45dfcc8bbf712a7fd9fc2.jpg",
+        "img_caption": [
+            "Figure. 4 The liver-assisting perfusion improves neuron viability and changes perfusate "
+        ],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "metabolomeprofiles. ",
+        "text_level": 1,
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "(A)Nissl staining $( 4 0 0 \\times )$ portraying soma and axon structure integrity of neurons in the hippocampus. Neurons with intact cell bodies were counted in the CA1 field (B) and dentate gyrus (C). Two areas $( 1 0 0 \\times )$ of each brain were used for counting. Immunofluorescence staining for glutamate decarboxylase 1 (GAD1) (red) and Neurogranin (NRGN) (pink) of the cortex (D). GAD1 (E) and NRGN (F) positive stained cells were counted. Immunofluorescence staining for ionized calcium binding adapter molecule 1 (IBA1) of the hippocampus (G). IBA1 positive stained cels were counted in CA1 field (H) and dentate gyrus (I). Immunofluorescence staining for glial fibrillry acidic protein (GFAP) of the hippocampus (J). Fluorescence area of GFAP was measured with ImageJ software in the CAl field (K) and dentate gyrus (L). Two areas $( 2 0 0 \\times )$ of each brain were used for counting. Heat map of the metabonomic differences in BAI versus LABI group, demonstrating 39 differentially expressed metabolites between the two groups (M). The color of each section is proportional to the significance of change of metabolites(red, up-regulated;green， down-regulated). Therelativelevelsof inhibitory/excitatory neurotransmitters and aromatic/branched chain amino acids of the perfusate between the two groups (N). $^ { * } p { < } 0 . 0 5$ ， $^ { * * } p { < } 0 . 0 1$ ， $^ { * * * } p { < } 0 . 0 0 1$ ， $^ { * * * * } p { < } 0 . 0 0 0 1$ ： ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "A B Regulation of synapse and axon C Regulation of neurotransmitter MME 6.6 ADORA2A 5.4 ADORA2A 5 RGS9 ARHGEF15 4.3 GPER1 1.7 0 FAM196K RFRR H SMAD6 2.3 AGT -2 F2R 1.8 NTRK2 1.2 FLNA 1.7 GRIP2 -1.9 GPER1 1.7 FN1 1.7 BAI (N=5) LABI (N=5) NTRK2 1.2 TNFRSF21 -1.1 MYRF -1.5 GRIP2 -1.9 E Bsrns L F FGM H GPR88 7.2 NTS MME 6.6 ADORA2A NTS 6.1 S100A8 4.2 BAI (N=5) LABI (N=5) ADORA2A 5.4 VWF 3.75   \nD Nervous system process and development TAC1 TCF7 45 1-5 MYL9 CTGF 3.0 3.4 logFC to BAI ARHGEF15 43 S100A9 2.6 GMM8 NTN5 760 6.4 RRRPR RS GNAL 2.0 342 FLNA E 品 20188 NTS 6.1 1 COL18A1 1.8 GPER1 ADORA2A 5.4 PWMM -5 GFER 18716 FN 163 TCF7 4.5 R GNG11 1.5 EFEMP2 1.5   \nARHGEF15 4.3 10g VIM 1.3 ID3 1.5 FAM196A 4.3 NTRK2 124 F3 1.4 S100A8 4.2 LXN -3.0 BAI (N=5) LABI (N=5) PENK 3.9 PPP1R1B 3.7 BAI (N=5) LABI (N=5) RGS9 3.4 S100A9 2.6 G UPS53 2.1 ENG 2.0 A0A481D2F4 COLINAL 2018 C F2R 1.8 LOC410K5B927 CD44 1.8 A0A480X592 VACMA 1 0 GPER1 1.7 G -1 FN1 1.7 GRB2 1.6 -2 FGR 1.6 GNGRA 1B154 NA B32 广 C   \nTNFRSPGS 1 FUT9 -1.2 UROD STRIP1 -1.4 AOA480U678 MYRF -1.5 RORCIL1 GRIP2 -1.9 GDPD1 GNG4 -2.4 AOTR100 LXN -3.0 A0A4X1U671   \nNEUROD6 -3.8 GANDT1 MAS1 -7.3 A0A4X1TMB8 BAI (N=5) LABI (N=5) BAI (N=5) LABI $( \\Nu = 5 )$ ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "(A) The heat map showing the identified differentially expressed genes, containing 107 upregulated and 22 down-regulated genes in the LABI versus BAI cortex. The differentially expressed genes enriched in regulation of synapse and axon (B), regulation of neurotransmiter(C), neural system process and development (D), sensory perception (E) and wound healing (F). The heat map showing the identified differentially expressed proteins in the LABI and BAI cortex, including 12 up-regulated proteins and 32 down-regulated proteins (G). ",
+        "page_idx": 37
+    }
+]

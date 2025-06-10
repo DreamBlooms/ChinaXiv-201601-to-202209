@@ -1,0 +1,118 @@
+# 基础研究
+
+# HBV转基因小鼠体内淋巴细胞表型特点及干扰素α对其的影响
+
+严鑫,钟锐华1,刘锦红1,周扬',唐利波1,李咏茵1,刘光泽²,侯金林1器官衰竭防治国家重点实验室//广东省病毒性肝炎研究重点实验室//南方医科大学南方医院感染内科,广东广州 510515;广州市解放军458医院全军肝病中心//转基因工程研究室,广东广州 510602
+
+摘要：目的探讨乙型肝炎病毒(HBV)转基因小鼠体内淋巴细胞表型特点及干扰素α对其病毒学指标和免疫细胞表型的影响。方法选取HBV转基因小鼠和野生型(WT)小鼠,采用ELISA检测HBV转基因小鼠血清HBsAg和HBcAb水平及两组小鼠血清IL-21及IL-6水平，分离肝、脾以及外周血淋巴细胞,流式细胞术检测CD4\*T和CD19+B细胞频数;给予9只HBV转基因小鼠重组鼠源性干扰素( $\iota ( \mathrm { r m I F N - a } )$ 皮下注射,同时9只HBV转基因小鼠相应注射PBS,观察其血清HBsAg、HBVDNA、IL-6、IL-21水平的变化以及外周血 $\mathrm { C D 4 ^ { \ast } T }$ 和 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数变化。结果HBV转基因小鼠的血清HBsAg水平较高并能检测到HBcAb,其血清IL-21及IL-6水平较WT小鼠显著升高 $( P { < } 0 . 0 5 )$ ;HBV转基因小鼠外周血、肝脏以及脾脏淋巴细胞中CD4+T细胞频数较WT小鼠均明显低下( $P { < } 0 . 0 5 )$ ，但其肝脏 $\mathbf { C D 1 9 ^ { * } B }$ 细胞频数明显高于WT小鼠 $( P { < } 0 . 0 5 )$ ;HBV转基因小鼠肝内CD4\*T细胞频数与血清HBsAg水平呈负相关,而肝内 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数与血清HBcAb水平呈正相关;rmIFN- $\mathbf { \nabla } \cdot \mathbf { a }$ 处理可显著提高HBV转基因小鼠外周血 $\mathrm { C D 4 ^ { \ast } T }$ 和 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数以及血清IL-6水平 $( P { < } 0 . 0 5 )$ 。结论HBV转基因小鼠体内淋巴细胞亚群频数异常，外源性干扰素α可通过调节淋巴细胞亚群频数发挥免疫调节作用。
+
+关键词：乙型肝炎病毒；转基因小鼠；干扰素 $\mathrm { { ' a } }$ ；免疫调节
+
+# Characteristics of lymphocyte phenotypes in HBV transgenic mice and the effect of interferon- $\alpha$ : a preliminary study
+
+YAN Xin',ZHONGRuihua’,LIUJinhong',ZHOUYang',ANGLibo',LIYongyin',LIUGuangze²,HOUJnlin StateKeyLaboratoryofOrganFailureResearchGuangdongProincialKeyLaboratoryofViralHepatisResearchDepartmentf InfectiousDiseases，NanfangHospitalSouthernMedicalUniersityGuangzhou510515，China;KeyLaboratoryofragenic Engineering,Center of Infectious Diseases,458 Hospital of PLA,Guangzhou 510602,China
+
+Abstract: Objective To analyze thecharacteristics of lymphocyte phenotypes in hepatitis B virus (HBV)transgenic mice and the effect of exogenous interferon $\alpha$ on virological profiles and lymphocytes phenotypes of the mice. Methods HBV transgenic mice and wild-type (WT) mice were examined for serum levels of HBsAg, HBcAb, IL-21,and IL-6 using ELISA. The frequencies of $\mathrm { C D 4 ^ { \ast } T }$ and $\mathrm { C D 1 9 ^ { + } B }$ cells separated from the liver, spleen,and peripheral blood were detected by flow cytometry. Nine HBV transgenic mice were injected subcutaneously with recombinant mouse interferon alpha (rmIFN- $\alpha$ )and another 9 transgenic mice were injected with PB,andtheir HBsAg,HBVDNA,IL-6,and IL-21levelsand frequenciesof peripheral blood $\mathrm { C D 4 ^ { + } T }$ and $\mathrm { C D 1 9 ^ { + } B }$ cells were detected. Results HBV transgenic mice showed a high level of $\mathrm { H B s A g }$ with a detectable level of HBcAb and significantly increased serum levels of IL-21 and IL-6 as compared with WT mice $( P { < } 0 . 0 5 )$ . The transgenic mice had a significantly lower frequency of $\mathrm { C D 4 ^ { + } T }$ cells in the peripheral blood, liver and spleen $( P { < } 0 . 0 5 )$ but a significantly higher frequency of $\mathrm { C D 1 9 ^ { + } }$ B cells in the liver $( P { < } 0 . 0 5 )$ . An inverse correlation between intrahepatic $\mathrm { C D 4 ^ { + } T }$ cell frequency and serum HBsAg level while a positive correlation between intrahepatic $\mathrm { C D 1 9 ^ { + } B }$ cell frequency and HBcAb level were found in HBV transgenic mice. Administration of rmIFN- $\alpha$ significantly increased the frequencies of $\mathrm { C D 4 ^ { + } T }$ and $\mathrm { C D 1 9 ^ { + } }$ B cells in the peripheral blood and the serum level of IL-6 in HBV transgenic mice $_ { ( P < 0 . 0 5 ) }$ . Conclusion HBV transgenic mice have lymphocyte subset dysregulation and exogenous interferon- $\alpha$ can modulate the immune function of the mice by regulating the frequencies of lymphocyte subsets.
+
+Key words: hepatitis B virus; transgenic mouse; interferon alpha; immunoregulation
+
+# 自然状态下乙型肝炎病毒(HBV)易感宿主仅局限
+
+于人和黑猩猩等灵长类动物，因此，既往国内外学者相继建立多种小动物模型用于慢性HBV感染疾病的相关研究，包括HBV转基因小鼠、高压水动力转染小鼠模型以及病毒载体转导小鼠模型等。HBV转基因小鼠通过胚胎显微注射技术将部分或者完整拷贝的HBV基因组整合至小鼠受精卵基因组中，获得的HBV小鼠模型血清能稳定表达HBV基因转录翻译的产物[1-2]。作为一种方便且稳定的乙肝小动物模型，HBV转基因小鼠被广泛应用于乙型肝炎发病机制、药物筛选研发以及疫苗研究等领域[3]。研究表明HBV转基因小鼠体内为免疫耐受状态，肝脏无炎症反应。由于树突状细胞的抗原提呈功能缺陷，其体内的HBV特异性免疫反应处于低应答状态[4],而目前对于HBV转基因小鼠体内各组织的淋巴细胞亚群频数和细胞因子分泌水平尚不清楚。干扰素 $\alpha$ 作为目前临床广泛应用的抗病毒治疗药物，目前关于其在体内对免疫系统影响的研究报道尚不多，因此，本研究中我们分析HBV转基因小鼠体内各组织的淋巴细胞亚群频数并探讨外源性添加干扰素a对其体内淋巴细胞亚群频数的影响。
+
+# 1材料和方法
+
+# 1.1实验动物
+
+WT小鼠和HBV转基因小鼠[5均为6\~8周龄雄性BALB/c品系。HBV转基因小鼠由中国人民解放军第458医院全军肝病中心提供，WT小鼠购自南方医科大学实验动物中心。纳入9只HBV转基因小鼠皮下注射rmIFN- $\mathbf { \nabla } \cdot \mathbf { a }$ 作为实验组，注射剂量为 $2 { \times } 1 0 ^ { 5 } \mathrm { U } / 1 0 0 \mu \mathrm { L } / \mu \Updownarrow , 2$ 次/周，持续4周，另外纳入9只HBV转基因小鼠给予同样的方案皮下注射 $1 0 0 ~ \mu \mathrm { L }$ PBS作为对照组。以上小鼠均在SPF级别饲养。
+
+# 1.2实验试剂
+
+rmIFN-α购自北京义翘神州生物技术公司,HBsAg和HBcAb诊断试剂盒购自北京万泰生物药业公司，IL-21和IL-6检测试剂盒购自eBioscience，HBV核酸定量检测试剂盒(PCR-荧光探针法)购自达安基因公司，流式抗体 anti-mouse CD4-FITC 和anti-mouseCD19-Percp购自BD,小鼠外周血淋巴细胞分离液购自天津灏洋生物制品科技公司，Percoll分离液购自GE。
+
+# 1.3 实验技术
+
+1.3.1收集血清毛细采血管刺入小鼠内眦静脉收集全 血，静置后离心获得血清， $- 2 0 \mathrm { { ^ { \circ } C } }$ 备用。
+
+1.3.2 分离外周血单个核细胞 $1 0 0 ~ \mu \mathrm { L }$ 外周血与 $6 ~ { \mu \mathrm { L } }$ 肝素钠混匀，后续按照试剂盒说明书操作。  
+1.3.3 分离肝和脾脏内淋巴细胞 参照既往文献方法[6-9]。1.3.4 酶联免疫吸附法(ELISA)检测血清HBsAg、HBcAb、IL-21以及IL-6水平实验操作按照对应试剂盒说明书进行，根据标准曲线对各指标进行分析。  
+1.3.5荧光定量PCR检测血清HBVDNA 实验操作按照试剂盒说明书进行。扩增反应体系总体积 $2 5 ~ \mu \mathrm { L }$ ，内含 $1 3 . 5 ~ \mu \mathrm { L }$ 反应液（含引物、探针和dNTP等）， $1 . 5 ~ \mu \mathrm { L }$ taqDNA聚合酶， ${ 5 \mu \mathrm { L } }$ DNA模板,加入超纯水至 $2 5 ~ \mu \mathrm { L }$ 。扩增程序为： $9 3 \ \mathrm { ^ { \circ } C } \ 2 \ \operatorname* { m i n }$ ， $( 9 3 ~ \mathrm { ^ { \circ } C } ~ 4 5 ~ \mathrm { s } , 5 5 ~ \mathrm { ^ { \circ } C } ~ 1 ~ \mathrm { m i n } ) \times 1 0$ 循环， $( 9 3 \mathrm { ~ ‰ ~ } 3 0 \mathrm { ~ s } , 5 5 \mathrm { ~ \textdegree C ~ } 4 5 \mathrm { ~ s } ) { \times } 3 0$ 循环， $4 0 \mathrm { ~ \textdegree C ~ } 2 0 \mathrm { ~ s ~ }$ ，用RocheLightCycler480仪器进行检测和分析。  
+1.3.6淋巴细胞表型标记淋巴细胞加入CD4-FITC和CD19-Percp流式抗体标记后用BDFACSCantoII流式细胞仪检测,采用BDFACSDiva软件分析各细胞亚群比例。  
+1.4统计学分析采用SPSS20.0数据分析软件，两组间比较采用两个独立样本非参数Mann-Whitney $U$ 检验或Wilcoxon符号秩检验进行统计分析，样本间相关分析采用Spearman相关分析， $P { < } 0 . 0 5$ 表示差异有统计学意义。
+
+# 2结果
+
+2.1HBV转基因小鼠血清HBsAg水平较高并能检测到 HBcAb,其血清IL-21和IL-6水平较WT小鼠显著性升高
+
+ELISA检测HBV转基因小鼠血清HBsAg与HB-cAb的水平，结果显示HBsAg处于较高水平(图1A)并能检测到血清HBcAb(图1B)。进一步检测血清细胞因子IL-21和IL-6水平，发现HBV转基因小鼠血清IL-21和IL-6水平均明显高于WT小鼠 $\scriptstyle \left( P = 0 . 0 3 3 \right.$ ，图2A； $P =$ 0.002,图2B)。
+
+![](images/7129c9eb718b1d9d632021c68d378e2cdef7bb359d6c7d6ab3a0b976d45b633a.jpg)  
+图1HBV转基因小鼠 $\scriptstyle { \binom { } { n = 4 2 } }$ 和WT小鼠 $\scriptstyle { \left( n = 1 1 \right) }$ 的血清(A)HBsAg和 $( B ) _ { \mathrm { H B c A b } }$ 水平Fig.1 Serum levels of HBsAg (A) and HBcAb (B) inHBV transgenic mice $( n { = } 4 2 )$ andWTmice $( n { = } 1 1 )$ 一
+
+![](images/57ffe562597aa99a1271348198d62b79e71dbbac9904325c6d8833e5a004ade8.jpg)  
+图2比较HBV转基因小鼠 $\scriptstyle { \binom { } { n = 4 2 } }$ 和WT小鼠 $\scriptstyle ( n = 8 )$ 的血清 $\scriptstyle ( A ) \operatorname { I L } - 2 1$ 和 $( B ) \mathrm { I L } { - } 6$ 水平Fig.2 Comparison of serum levels of IL-21 (A) and IL-6 (B) in HBV transgenic mice $( n { = } 4 2 )$ andWT mice $( n { = } 8 )$ ：  
+图3HBV转基因小鼠 $\scriptstyle { \mathrm { . } n = 2 0 } )$ 和WT小鼠 $\scriptstyle { \left( n = 1 1 \atop - 1 \right) }$ )外周血、肝脏以及脾脏 $\scriptstyle ( A ) \ C D 4 ^ { \prime } \mathrm { T }$ 细胞和 $( B ) \mathrm { C D 1 9 ^ { + } B }$ 细胞频数 的比较 Fig.3 Comparison of frequencies of $\mathrm { C D 4 ^ { + } T }$ (A) and $\mathrm { C D 1 9 ^ { + } }$ B cells $( B )$ in the peripheral blood, liver,and spleen between HBV transgenic mice $( n { = } 2 0 )$ and WT mice $( n { = } 1 1 )$ ：
+
+# 2.2HBV转基因小鼠和WT小鼠外周血、肝以及脾脏$\mathrm { C D 4 ^ { + } T }$ 和 $\mathbf { C D 1 9 ^ { + } B }$ 细胞频数
+
+流式细胞术检测结果发现，与WT小鼠相比，HBV转基因小鼠的外周血、肝脏以及脾脏淋巴细胞中 $\mathrm { C D 4 ^ { + } T }$ 细胞频数均明显降低( $_ { P = 0 . 0 0 5 }$ ${ \cal P } { = } 0 . 0 0 1$ $\scriptstyle P = 0 . 0 4 0$ ，图
+
+3A)。对于 $\mathrm { C D 1 9 ^ { + } B }$ 细胞，外周血中可发现相似的结果中 $scriptstyle \scriptstyle P = 0 . 0 2 9$ ，图3B),但HBV转基因小鼠肝脏 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数明显高于WT小鼠( $P { < } 0 . 0 0 1$ ,图3B)，而脾脏中$\mathbf { C D 1 9 ^ { + } B }$ 细胞频数在两组之间差异无统计学意义。
+
+A P=0.005 B (rsllsgts 80L P P<0.001  
+80 车 上 60 #P=0.001 P=0.040  
+6040 . r =\* ： 1 40 P=0.029 3 中 心  
+20 T = 中 20 新 主 1 ： ：0  
+0  
+HBV WT HBV WT HBV WT HBV WT HBV WT HBV WTBlood Liver Spleen Blood Liver Spleen
+
+$2 . 3 \mathrm { \ H B V }$ 转基因小鼠肝内 $\mathrm { C D 4 ^ { + } T }$ 和 $\mathbf { C D 1 9 ^ { + } B }$ 细胞频数 与血清HBsAg、HBcAb水平的相关性分析
+
+相关分析发现HBV转基因小鼠肝内 $\mathrm { C D 4 ^ { + } T }$ 细胞频数与血清HBsAg水平呈负相关 $( r { = } { - } 0 . 4 0 3 , P { = } 0 . 0 2 5$ 图4A)，而其肝内 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数则和血清HBcAb水平呈正相关 $( r = 0 . 3 6 1 , P = 0 . 0 4 6$ ,图4B)，同时其血清HB-sAg水平和HBcAb水平呈正相关 $\stackrel { \prime } { \cdot } = 0 . 4 7 8 , P = 0 . 0 0 1$ ，图4C)。
+
+# 2.4rmIFN-α可上调HBV转基因小鼠外周血 $\mathrm { C D 4 ^ { + } T }$ 和$\mathbf { C D 1 9 ^ { + } B }$ 细胞频数以及血清IL-6水平
+
+与注射PBS的HBV转基因小鼠相比，给予rmIFN-α处理4周后的小鼠其外周血 $\mathrm { C D 4 ^ { + } T }$ 和 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数较基线均明显升高（ $P { = } 0 . 0 0 8 ; P { = } 0 . 0 2 8$ ，图5A，B),同时血清IL-6水平较基线亦显著性升高( $scriptstyle \overbrace { P = 0 . 0 1 1 }$ 图5C)，但未观察到rmIFN-α对HBV转基因小鼠的血清HBsAg和HBVDNA水平有明显影响(数据未展示)，且血清IL-21水平较基线也无明显变化(图5D)。
+
+# 3讨论
+
+HBV转基因小鼠是目前常用的研究模型，虽然其能持续复制病毒，分泌HBV抗原蛋白，但肝脏无明显病理变化，表现为HBV特异性免疫耐受状态，与人类无症状HBV携带者表现很相似[10]。刘光泽等通过体外特异性刺激培养脾淋巴细胞,分析IFN-γ、IL-2、IL-10细胞因
+
+60 r=-0.403 801 r=0.361 4 (h)trl lgeeaaa □ P=0.025 (%) P=0.046 r=0.478 0 □ /0Dqv0H P=0.001 □ 401 品 □ □ □ □ 20 □ □ ° b□ 20 pog 品 □ □ 品 □ 中 A B □ 0 HBsAg(D 13 0.05 H1Ab D9.15 0.20 0 5000 1000 200030004000
+
+![](images/9c6c6e0e5c4e9905eece11339d536c78975e41e0dac040130f7aa56ce6ab3d66.jpg)  
+图4HBV转基因小鼠 $( A )$ 肝内 $\mathrm { C D 4 ^ { + } T }$ 细胞频数和血清HBsAg水平、 $( B )$ 肝内 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数和血清HBcAb水平、 $( c )$ 血清 HBsAg和HBcAb水平关系的相关性分析 Fig.4 Analysis of the correlations between intraheaptic $\mathrm { C D 4 ^ { \ast } T }$ cell frequency and serum HBsAg (A), between intraheaptic CD19\*B cell frequency and serum HBcAb $( B )$ ,and between serum HBsAg and HBcAb levels (C)in HBV transgenic mice.   
+图5HBV转基因小鼠给予rmIFN $\scriptstyle { \mathfrak { a } } ( n = 9 )$ 和PBS $\scriptstyle { \left( n = 9 \right) }$ 处理后外周血 $\scriptstyle ( A ) \ C \mathbf { D } 4 ^ { * } \mathrm { T }$ 细胞频数、 $\mathbf { \Gamma } ( B ) \mathbf { C D 1 9 ^ { + } B }$ 细胞频数、 $\scriptstyle { ( C ) \mathrm { I L } - 6 }$ 以及 $( D ) \mathrm { { I L } } \mathrm { { - } } 2 1$ 水平的变化Fig.5 Change of the frequencies of peripheral blood $\mathrm { C D 4 ^ { + } T }$ (A) and $\mathrm { C D 1 9 ^ { + } B }$ cells $( B )$ and serum levels ofIL-6 (C) and IL-21 $( D )$ in HBV transgenic mice treated with rmIFN- $\alpha$ 0 $\scriptstyle ( n = 9 )$ and PBS $( n { = } 9 )$ ：
+
+子的分泌水平发现HBV转基因小鼠体内的Th1、Th2细胞功能受到抑制，表明T细胞针对HBV特异性的细胞免疫和体液免疫均受到抑制,T细胞免疫活化状态欠佳[]。Wirth等[12-13]将HBV转基因小鼠B细胞和正常小鼠B细胞分别与正常小鼠的T细胞一起转移至已照射致命辐射的同系小鼠体内，发现过继转移HBV转基因小鼠B细胞的小鼠也能对HBsAg产生免疫应答，证实HBV转基因小鼠体内B细胞功能正常。
+
+在本研究中我们发现HBV转基因小鼠各组织，包括外周血、肝脏和脾脏，其 $\mathrm { C D 4 ^ { + } T }$ 细胞频数均显著低于WT型小鼠,机制可能在于其体内存在免疫耐受，在T细胞水平上功能活化较低，自分泌可促进T细胞增殖分化的细胞因子表达水平也下降，从而导致其体内 $\mathrm { C D 4 ^ { + } T }$ 细胞比例失调。而对于B细胞的研究则发现一个有趣的现象，即HBV转基因小鼠的肝脾内B细胞频数增高而其外周血的B细胞频数则显著性低于WT小鼠，结合所测得的HBV转基因小鼠血清内高水平表达的IL-21和IL-6,考虑B细胞中有相当一部分可能在IL-21和IL-6作用下分化成浆细胞，而浆细胞主要存在于二级淋巴器官的生发中心内，其主要在组织内发挥作用而较少存在于外周血内，因此我们推测本研究所观察到B细胞在不同组织的分布差异可能与浆细胞有关[14]。此外,我们的研究也发现HBV转基因小鼠肝脾内 ${ \bf C D 4 ^ { + } C X C R 5 ^ { + } }$ 细胞频数明显高于WT小鼠(数据未展示)，这也可能与HBV转基因小鼠血清较高水平的IL-21和IL-6有关，这一结果也与既往研究相一致[15-16]。
+
+HBeAg血清学转换是HBeAg阳性慢性乙型肝炎患者抗病毒治疗停药的指标之一。干扰素α,尤其聚乙二醇干扰素α-2a(PegIFNα-2a)因具有相对较高的HBeAg血清转换率，停药后持续应答率高以及疗程相对固定等优势[17-18],目前被用作抗病毒治疗的一线药物。干扰素α除诱导抗病毒蛋白生成发挥抗病毒作用外[19-21],还参与调节机体免疫过程从而促进HBV特异性免疫功能的重建[22]。然而，干扰素α治疗对慢性HBV感染者体内T和B细胞的作用目前尚未有深入的研究报道。本研究发现HBV转基因小鼠予rmIFN-a治疗4周后，其血清HBsAg和HBVDNA水平与对照组相比并无明显变化，考虑可能与干预治疗时间较短有关系。但外周血IL-6水平、 $\mathrm { C D 4 ^ { + } T }$ 以及 $\mathrm { C D 1 9 ^ { + } B }$ 细胞频数均显著升高，说明干扰素α能对HBV转基因小鼠的免疫系统起到一定的调节作用，可能通过上调 $\mathrm { C D 4 ^ { + } T }$ 和 $\mathbf { C D 1 9 ^ { + } B }$ 细胞频数来参与HBV特异性的细胞免疫和体液免疫，促炎症因子IL-6水平升高也提示干扰素α通过激活了体内免疫系统发挥抗病毒效应，至于关于干扰素a发挥调节作用的机制以及机制中发挥主要作用的淋巴细胞亚群的探讨，仍需后续深入研究。
+
+# 参考文献：
+
+[1]Cheng L,Li F,Bility MT,et al．Modeling hepatitis B virus infection,immunopathology and therapy in mice[J].Antiviral Res, 2015,121(9): 1-8.   
+[2]Dembek C,Protzer U.Mouse models for therapeutic vaccination against hepatitis B virus[J].Med Microbiol Immunol,2015,204(1): 95-102.   
+[3］田利源,王玉民,邓继先.HBV转基因小鼠--乙型肝炎研究的重要工 具[J].生物技术通讯,2004,15(3):292-5.   
+[4]Akbar SM, Onji M, Inaba K,et al.Low responsiveness of hepatitis B virus-transgenic mice in antibody response to T-cell-dependent antigen: defect in antigen-presenting activity of dendritic cells [J]. Immunology,1993,78(3): 468-75.   
+[5]刘光泽，熊一力,王洪敏,等.近交系高表达HBV转基因小鼠的建立及 表达传代稳定性[J].中国兽医学报,2003,23(6):580-2.   
+[6]Curry MP,Norris S,Golden-Mason L,et al. Isolation of lymphocytes from normal adμLt human liver suitable for phenotypic and functional characterization[J].JImmunol Methods,20oo,242(1/2): 21-31.   
+[7］孔晓明,金齐力,韦 莉,等.小鼠肝脏淋巴细胞几种分离方法的比较 [J].蚌埠医学院学报,2013,38(8):1052-5.   
+[8]张峰,吕凌,浦立勇,等. $\mathrm { C D 4 ^ { + } C D 2 5 ^ { + } }$ Tr细胞与大鼠肝移植自发免 疫耐受关系的研究[J].中华外科杂志,2006,44(21):1463-6.   
+[9]吴伟忠,谢 琪,范行义.用Percoll法、Ficoll法及常规法制备的效应细 胞杀伤功能的比较[J].上海免疫学杂志,1989(5):286-9.   
+[10] Chisari FV.Hepatitis B virus transgenic mice: insights into the virus and the disease[J].Hepatology,1995,22(4 Pt1): 1316-25.   
+[11]刘光泽,贾彦征,王洪敏,等.HBV转基因小鼠T细胞免疫状态[J].中 国兽医学报,2000,20(4):356-7.   
+[12]Wirth S,Guidotti LG,Ando K,et al. Breaking tolerance leads to autoantibody production but not autoimmune liver disease in hepatitis B virus envelope transgenic mice[J].JImmunol,1995,154 (5): 2504-15.   
+[13]Takashima H,Araki K,Miyazaki J,et al. Characterization of T-cell tolerance to hepatitis B virus (HBV) antigen in transgenic mice[J]. Immunology,1992,75(3): 398-405.   
+[14]Eibel H,Kraus H, Sic H, et al.B cell biology: an overview[J]. Curr Allergy Asthma Rep,2014,14(5): 434.   
+[15] Feng J,Lu L,Hua C,et al. High frequency of $\mathrm { C D 4 ^ { + } C X C R 5 ^ { + } 7 }$ TFH cells in patients with immune-active chronic hepatitis B[J].PLoS One,2011,6(7): e21698.   
+[16]冯俊燕.滤泡性辅助性T细胞在慢性肝炎患者中的表达及其机制研究 [z],2012.   
+[17] Lampertico P,Maini M,Papatheodoridis G. Optimal management of hepatitis B virus infection-EASL Special Conference [J].J Hepatol,2015,63(5): 1238-53.   
+[18] Sarin SK, Kumar M,Lau GK,et al.Asian-Pacific clinical practice guidelines on the management of hepatitis B:a 2O15 update[J]. Hepatol Int,2016,10(1):1-98.   
+[19]Buster EH, Janssen HL.Antiviral treatment for chronic hepatitis B virus infection--immune modulation or viral suppression[J]. Neth J Med,2006,64(6): 175-85.   
+[20] Janssen HL,Berk L,Schalm SW,et al. Antiviral effect of prolonged intermittent lymphoblastoid alpha interferon treatment in chronic hepatitis B[J].Gut,1992,33(8): 1094-8.   
+[21]Rang A,Gunther S,Will H. Effect of interferon alpha on hepatitis B virus replication and gene expression in transiently transfected human hepatoma cells[J]. JHepatol,1999,31(5): 791-9.   
+[22] Wang L, Zou ZQ, Liu CX,et al. Immunotherapeutic interventions in chronic hepatitis B virus infection:a review[J].JImmunol Methods,2014,407(5): 1-8.
+
+（编辑：孙昌朋）

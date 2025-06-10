@@ -1,0 +1,504 @@
+[
+    {
+        "type": "text",
+        "text": "谷氨酸脱氢酶缺失对单核细胞增生李斯特菌生物被膜、毒力以及胞外蛋白表达的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王文静' 杨丽玉 刘婵娟 赵进 罗勤\\*（华中师范大学生命科学学院，遗传调控与整合生物学湖北省重点实验室，武汉",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "430079) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】探究谷氨酸脱氢酶缺失对单核细胞增生李斯特菌(Listeridmonocytogenes,Lm)生物被膜、毒力以及胞外蛋白表达的影响。【方法】利用微孔板法，检测谷氨酸脱氢酶缺失对Lm生物被膜形成能力的影响；比较野生株、谷氨酸脱氢酶缺失株EGDe△gdhA以及回复菌株EGDe△gdhA+pERL3-gdhA的溶血活性以及对棉铃虫幼虫的半数致死量，检测谷氨酸脱氢酶缺失对Lm毒力的影响；利用iTRAQ技术对Lm野生株EGDe与谷氨酸脱氢酶缺失株EGDe△gdhA的胞外蛋白进行分离与鉴定，并对差异表达蛋白进行生物信息学分析。【结果】与野生株相比，缺失株形成的生物被膜量显著降低！ $( \\mathsf { P } { \\leqslant } 0 . 0 1 )$ ），溶血活性下降，对棉铃虫幼虫的半数致死量上升了1.6倍；蛋白质组学结果显示，缺失谷氨酸脱氢酶后差异性表达的胞外蛋白有62个，其中47个蛋白表达量下调，15个蛋白表达量上调。进一步将这些差异表达蛋白质同COG数据库进行比对以及功能聚类分析，结果显示，这些蛋白质的功能分别属于碳水化合物转运与代谢、核苷酸转运和代谢、能量合成",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "与转运相关、",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "转录以及细胞膜细胞壁相关蛋白等16个功能类别；其中碳氮代谢以及能量转运相关蛋白数量最多，为24个，占所鉴定出的差异蛋白总量的 $3 8 . 7 1 \\%$ 。表明谷氨酸脱氢酶是单核细胞增生李斯特菌中碳氮代谢和能量转运中的关键酶。同时，我们发现有3个与细菌粘附以及生物被膜形成相关的蛋白表达量下降。以上结果较好地解释了EGDe△gdhA在基础培养基中生长缓慢和生物量显著性下降，以及生物被膜形成能力降低的现象。【结论】谷氨酸脱氢酶在单核细胞增生李斯特菌生物被膜、毒力以及胞外蛋白表达方面有重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：单核细胞增生李斯特菌，谷氨酸脱氢酶，生物被膜，毒力，iTRAQ，胞外蛋白表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of glutamate dehydrogenase deletion on biofilm formation, virulence and extracellular proteins expression of Listeria monocytogenes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WANG Wen-jing YANG Li-yu LIU Chan-juan ZHAO Jin LUO Qin\\* (Hubei Key Laboratory of Genetic Regulation and Integrative Biology, College of Life Sciences, Central China Normal University, Wuhan 430079, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective]To explore the effect of glutamate dehydrogenase deletion on biofilm formation, virulence and extracellular proteins expression of Listeria monocytogenes.[Methods] The effect of glutamate dehydrogenase deletion on the formation of L.monocytogenes biofilms was examined using a microtiter plate method. The hemolytic activity, the semi-lethal dose of Helicoverpa armigera (Hubner)in wild-type, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GDH-deficient and revertant strains were compared.The differentially expressed extracellular proteins between the wild strain and GDH-deficient strain were identified and analyzed by iTRAQ technology. [Results]Compared with wild strains, the amount of biofilm formed by the GDH-deficient strains was significantly decreased $( \\mathrm { P { \\le } } 0 . 0 1 )$ , as well as the hemolytic activity, but its semi-lethal dose on Helicoverpa armigera (Huibner) was increased 1.6 fold. The functions ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of all sixty-two differential expressed extracellular proteins identified by iTRAQ were cataloged into 16 functional groups, including carbohydrate transport and metabolism, energy synthesis and transport, transcription, cell membrane protein related to cell wall and so on. Among them, the most dominant groups including 24 proteins, accounting for $3 8 . 7 1 \\%$ of total differential expressed proteins, are related to carbon and nitrogen metabolism as well as energy transport, suggesting that glutamate dehydrogenase is a key enzyme in carbon and nitrogen metabolism as well as energy synthesis and transport for L.monocytogenes. The slow growth and reduced biomass of EGDeAgdhA compared to EGDe in minimal essential medium were in agreement well with these proteomic results. In addition, the expressions of three proteins from EGDeAgdhA associated with bacterial adhesion and biofilm formation were also significantly decreased. [Conclusion]Deletion of glutamate dehydrogenase reduces bacterial biofilm formation and virulence, affects significantly the extracellular protein expression in L.monocytogenes. Key words: Listeria monocytogenes, Glutamate dehydrogenase, Biofilm, Virulence, iTRAQ, Extracellular protein. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单核细胞增生李斯特菌(Listeria monocytogenes，以下简称Lm)是人畜共患李斯特菌病(listeriosis）的主要病原菌，能引起人及动物产生脑膜炎、败血症、流产等症状[1]。Lm在入侵宿主的过程中，可通过吞噬作用或表达内化素蛋白，侵入宿主细胞；然后在细胞溶血素LLO（由hy基因编码）以及两种磷脂酶的作用下逃离吞噬泡进入宿主细胞胞质[2]；最后在其膜蛋白ActA的作用下，进行细胞之间的传播[3]。Lm在自然界中广泛存在，并能在多数固体表面形成生物被膜。生物被膜是细菌抵御外界不良环境的一种重要形式，它可以显著增强细菌对各种杀菌剂的耐受能力，极大增强细菌的抗逆性，给食品行业造成严重困扰[4-5]。细菌分泌的胞外蛋白对于病原菌的生存、侵染以及生物被膜的形成都有着重要的作用[6-7]。Lm基因组编码大量具有信号肽的蛋白质，但迄今为止只有部分蛋白质在胞外蛋白中被检测到[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "谷氨酸脱氢酶（Glutamate dehydrogenase,GDH），广泛存在于动物、植物以及微生物中，是一种催化 $\\mathrm { N H } _ { 4 } ^ { + }$ 和 ${ \\mathfrak { a } } .$ -酮戊二酸合成谷氨酸或其逆反应的酶[9]。该酶在三羧酸循环、氮代谢调控、能量产生和信号转导中起着重要作用，且在猪链球菌2型中，GDH已经证明与毒力相关[10-1]。在Lm中GDH是由gdhA基因编码，其对Lm生存以及毒力方面的具体作用尚无研究报道。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究比较分析了Lm野生株（EGDe）、GDH缺失株（EGDe△gdhA）和GDH缺失回复株（EGDe△gdhA+pERL3-gdhA）三种菌株的生物被膜形成能力以及对棉铃虫幼虫的毒力，并利用iTRAQ技术对EGDe与EGDe△gdhA的胞外蛋白进行了蛋白质组学分析，从而探究GDH在Lm的生物被膜形成能力、毒力以及胞外蛋白表达方面的重要作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.实验材料与实验方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验材料",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1.1菌株与质粒 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单核细胞增生李斯特菌野生菌株 EGDe（血清型1/2a，全基因组序列已[12]）、温度敏感型穿梭整合质粒pLSV101以及高拷贝表达质粒pERL3为德国维尔茨堡大学微生物系WernerGoebel教授馈赠。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 引物",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b613c73fa2103456c28583b84ec152453180b672d1806dd444b6152830266221.jpg",
+        "table_caption": [
+            "表1本实验中所用到的引物",
+            "Table 1 The primers used in this study "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Primers</td><td>Sequences</td></tr><tr><td>P1: gdhA A-F</td><td>ACAGGATCCGAACGCCTTAT</td></tr><tr><td>P2: gdhA A-R</td><td>ATAAGTAGCCGATTTCACGAC</td></tr><tr><td>P3: gdhA B-F</td><td>AAATCGGCTACTTATATAAAGTTCTATTCGG</td></tr><tr><td>P4: gdhA B-R</td><td>GGTGAATTCTATTATTACGGGCTTC</td></tr><tr><td>P5: gdhA-ck-F</td><td>AAGGTGGCTCTGACTTTGATC</td></tr><tr><td>P6: gdhA-ck-R</td><td>ATAACAAGGTTACCAGGTGC</td></tr><tr><td>P7: gdhA-XbaI-F</td><td>TAATCTAGATAAAACTCAACCAAGAGAAGG</td></tr><tr><td>P8: gdhA-BamHI-R</td><td>ATGGGATCCCTGAGTTCTCAAATCTTACAG</td></tr><tr><td>P9:pERL3-ck-F</td><td>GAAAACCGCTACGGATCACATC</td></tr><tr><td>P10: pERL3-ck-R</td><td>CCAACCTGCCATCACGAGATTT</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2 缺失突变株 EGDe△gdhA与回复菌株 EGDeΔgdhA+pERL3-gdhA 的构建",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先采用 SOEingPCR[13]方法构建用于同源重组的穿梭质粒pLSV101-gdhA$( \\mathrm { A } { + } \\mathrm { B } )$ ：以EGDe 基因组为模板，使用引物P1/P2和P3/P4分别扩增 gdhA 基因上下游同源臂 A(376bp)和B(413bp)；然后将PCR产物纯化后作为模板，以P1/P4引物对进行第二次PCR，从而获得含有BamHI和 EcoRI酶切位点的AB融合片段 $g d h A \\ ( \\mathrm { A ^ { + } B } ) ( 7 8 9 \\ \\mathrm { b p } )$ ，双酶切后将融合片段gdhA $\\left( \\mathrm { A } { + } \\mathrm { B } \\right)$ 连接到质粒pLSV101上，得到质粒pLSV101-gdhA $( \\mathrm { A } { + } \\mathrm { B } )$ 。然后按照王莉等[14]的方法将其电转入EGDe感受态细胞中，进行同源重组和筛选gdhA基因缺失突变子EGDe△gdhA。所得突变子经PCR(以 gdhA 基因上下游引物对P5/P6PCR 扩增 EGDe△gdhA中的 gdhA基因片段，以EGDe基因组为对照来验证gdhA基因的缺失)和测序验证为正确突",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以 EGDe基因组DNA为模板使用引物对P7/P8 扩增出C片段(包含gdhA 基因ORF 和启动子在内的2458bp片段)，XbaI和BamHI双酶切后，将C片段连接到多拷贝质粒pERL3上，构建gdhA基因的重组表达质粒pERL3-gdhA。然后将其电转入EGDe△gdhA 感受态细胞中，使用引物对 P9/P10 进行PCR 检测和测序验证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3细菌生长曲线的测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "挑取待测菌株的单克隆于 $5 \\mathrm { m l }$ BHI(BrianHeartInfusion，购自B&D公司)培养基中过夜复苏，次日取 $2 \\mathrm { m l }$ 复苏的菌株接入新鲜的 $1 0 0 \\mathrm { m l } \\mathrm { M E M }$ minimalessentialmedium，配制方法参考Premaratne[15])培养基中，混匀后，采用分光光度计(DR3900，HACH)测定菌液此时的 $O D _ { 6 0 0 }$ ，记为 $^ { 0 \\mathrm { h } }$ 的值。继续振荡培养，每隔 $2 \\mathrm { h }$ 检测菌液 $O D _ { 6 0 0 }$ 的变化，直至细菌生长状态达到稳定期。实验重复3次，数据采用origin6.1软件分析处理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4微孔板法检测菌株的生长和生物被膜的形成",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参照冯飞飞[16]与Djordjevic[17]等的方法进行：挑取待测菌株的单克隆在BHI培养基中过夜复苏，将复苏后的菌液1:50 转接到新鲜培养基中，培养至 $O D _ { 6 0 0 }$ 为0.2左右。然后取 $2 0 0 ~ \\mu \\mathrm { l }$ 加到96孔板里，每个样品设置6个重复。将微孔板置于 $3 7 \\mathrm { ~ \\textdegree C }$ 下培养，分别培养 $2 4 \\mathrm { h }$ 与 $4 8 \\mathrm { { h } }$ 后，先用酶标仪（BioTeK,Synergy2）测定各孔菌液的 $O D _ { 6 0 0 }$ 值，以检测菌株的生长状况。然后弃去各孔培养基，所生成的生物被膜经蒸馏水洗涤，室温干燥后，用 $1 \\%$ 乙二酸铵结晶紫染色，酶标仪测定其 $O D _ { 5 9 5 }$ 的光吸收值。所获得实验数据使用Origin6.1和 SPSS软件进行分析处理。结晶紫染色后的生物被膜，直接置于倒置显微镜下(重光COIC XDS-1B)观察，拍照记录。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5细菌溶血活性检测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参照于新惠等[18]的方法：取 $1 \\mathrm { m l }$ 无菌脱纤维绵羊血， $2 6 0 0 ~ \\mathrm { r / m i n }$ 离心 $\\cdot 5 \\mathrm { m i n }$ 弃上清。用生理盐水洗涤血细胞沉淀，清洗三次。用50倍体积生理盐水重悬血细胞，并以 $1 \\mathrm { m l }$ 每支分装于 $1 . 5 \\mathrm { m l }$ 离心管中。将待测菌液在BHI中培养至对数中期，分别取待测菌液 $3 0 ~ \\mu \\mathrm { l }$ 、 $5 0 ~ \\mu \\mu \\mu$ 、 $1 0 0 \\mu \\mathrm { l }$ 加入装有 $1 \\mathrm { m l }$ 血细胞的离心管中， $3 7 ^ { \\circ } \\mathrm { C }$ 静置培养 $3 0 \\mathrm { m i n }$ 后， $2 6 0 0 \\mathrm { r / m i n }$ 离心 $\\cdot 5 \\mathrm { m i n }$ ，收集上清，检测 $O D _ { 5 4 3 } \\mathrm { n m }$ 处吸光度值。以只含有血细胞的上清作为阴性对照，以加入了等量无菌水的上清作为阳性对照。实验重复三次。数据采用origin6.1分析处理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6细菌对棉铃虫幼虫的毒性实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考张颖等[19]的方法：将待测菌株摇至 $\\mathrm { O D } _ { 6 0 0 }$ 为0.6左右，用BHI培养基将菌株进行5倍梯度稀释（根据预实验将 EGDe 稀释至 $5 ^ { 2 } 、 5 ^ { 3 } 、 5 ^ { 4 } 、 5 ^ { 5 } 、 5 ^ { 6 }$ ; EGDe△gdhA稀释至 $5 ^ { 0 } 、 5 ^ { 1 } 、 5 ^ { 2 } 、 5 ^ { 3 } 、 5 ^ { 4 }$ ; EGDe△gdhA $^ +$ pERL3-gdhA稀释至 $5 ^ { 0 } 、 5 ^ { 1 } 、 5 ^ { 2 } 、 5 ^ { 3 } 、 5 ^ { 4 } )$ 。每个梯度使用18条虫子，每只虫子注射 ${ 5 \\mu \\mathrm { l } }$ 菌液。另注射一组BHI培养基为空白对照。注射后连续观察三天致死率（幼虫在触摸时无任何反应时被认为已死亡），计算细菌对棉铃虫幼虫的半数致死量 $\\mathrm { L D } _ { 5 0 }$ ，采用SPSS17.0软件分析处理所得数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.7棉铃虫病理切片的制备 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "选择注射 $7 2 \\mathrm { { h } }$ 后感染症状明显的幼虫，观察症状并用解剖剪对选取的棉铃虫幼虫第三头足到第一腹足间的中肠进行解剖。然后用苦味酸固定液进行固定，充分固定 $2 4 \\mathrm { h }$ 后水洗，经过脱水，浸蜡，包埋一系列工序后，再进行切片，展片，捞片，烤片和脱蜡，最后进行HE 染色（本实验所得病理切片由湖北百奥斯生物科技有限公司制作)。所得病理切片置于倒置显微镜下(重光COIC XDS-1B)观察，拍照记录。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.8野生株EGDe与缺失株EGDe△gdhA的胞外蛋白质组鉴定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.8.1蛋白样品制备",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将待测菌株培养至稳定期前期，用高速冷冻离心机（Eppendorf，5804R） $4 ^ { \\circ } \\mathrm { C }$ ，$1 2 0 0 0 \\mathrm { r p m }$ 离心1h收集上清液。上清液加入3倍体积的丙酮，在 $- 2 0 ^ { \\circ } \\mathrm { C }$ 冰箱中过夜沉淀蛋白。所得蛋白用冷丙酮洗涤两次，然后置于空气中干燥，待样品干燥后用 $8 \\mathrm { M }$ 尿素重悬蛋白，置于 $- 8 0 ^ { \\circ } \\mathrm { C }$ 待用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.8.2蛋白样品的胰蛋白酶消化和iTRAQ标记",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋白样品用DTT（sigma）还原 $^ { \\textrm { 1 h } }$ ，然后加入IAA（sigma），室温避光条件下烷基化 $3 0 \\mathrm { m i n }$ 后加入 $1 0 \\mathrm { m M }$ DTT猝灭。接着将胰蛋白酶以1:100的酶与底物比例加至蛋白样品中，加入 $1 0 0 \\mathrm { m M }$ 的三乙基碳酸氢铵（pH8，T7408，Sigma）,$3 7 ^ { \\circ } \\mathrm { C }$ 下消化 $1 8 \\mathrm { h }$ 。消化后的蛋白脱盐并在真空中干燥。最后每组各取 $1 0 0 ~ \\mu \\mathrm { g }$ 按照AB SCIEX 公司试剂盒（iTRAQReagent-8 plex Multiplex kit）说明书进行标记，野生株 EGDe 标记为113、114、115，缺失株标记为116、117、118。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.8.3蛋白样品的强阳离子交换液相色谱分级(SCX)以及LC-MS/MS分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将差异标记的样品混合后，使用PolySULFOETHYL $\\mathbf { A ^ { \\mathrm { T M } } }$ ( $2 0 0 \\mathrm { x } 4 . 6 \\mathrm { - m m }$ 200A）的SCX色谱柱进行强阳离子交换液相色谱分级。分离后的样品脱盐后冻干,每份样品经ABSciexTripleTOF $\\textcircled { \\textcircled { ‰} } 6 6 0 0$ 系统的纳升级液相色谱串联质谱(NanoLC-MS/MS）分析采集数据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.8.4数据的生物信息学分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所得原始数据通过Mascot (Martrix science)软件搜索Listeria_monocytogenes_UniProt和常见的MS污染物数据库，进行查库鉴定及定量分析。根据蛋白质丰度水平，以差异倍数大于1.2或小于0.8且经统计检验P-value值小于0.05的蛋白视为缺失株EGDe△gdhA与野生株EGDe之间的差异性表达蛋白，利用 Microbes Online Comparative Genomics Database (MOCGD)(http://www.microbesonline.org/)对差异性表达的蛋白进行COG聚类分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.实验结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1GDH缺失对单核细胞增生李斯特菌生长的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，野生株EGDe、GDH缺失株EGDe△gdhA以及GDH高拷贝质粒回复株EGDe△gdhA+pERL3-gdhA在对数前期的生长情况无明显差异。但是在对数后期以及稳定期前期，缺失GDH后，细菌的生长较为缓慢，且生物量显著低于野生株；同时，回复菌株EGDe△gdhA+pERL3-gdhA的生长速率却快速增大，对数末期的生物量显著高于野生株和缺失株，然后细菌生长开始下降，直至降到与野生株和缺失株类似的稳定期的生物量。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4281e9a764bd48109eee9a8774bc17ba553104083c440c6d3175cfc34f6597a.jpg",
+        "img_caption": [
+            "图1EGDe、EGDe△gdhA 和 EGDe△gdhA+pERL3-gdhA生长曲线的比较 Fig.1 Comparison of the growth of EGDe, EGDe△gdhA and EGDe△gdhA+pERL3-gdhA in minimal essential medium. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2GDH缺失对单核细胞增生李斯特菌生物被膜形成的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图2 (a)和(b)所示，将野生株 EGDe、缺失株 EGDe△gdhA以及回复菌株",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EGDe△gdhA+pERL3-gdhA静置培养，当保持三种菌在培养24和48小时生长量没有明显差异的条件下，我们发现EGDe△gdhA形成的生物被膜显著低于野生株EGDe（ $\\mathbf { P { \\le } } 0 . 0 1 \\$ ），而回复菌株形成的生物被膜量基本与EGDe的相当。如图2（c）是培养 $4 8 \\mathrm { { h } }$ 后在显微镜下观察到的结果：野生株与回复菌株形成的生物被膜较为致密，而缺失株形成的生物被膜较为疏松，与图2（b）结果一致。这说明缺失GDH会造成Lm生物被膜形成能力受到影响，导致生物被膜形成量下降。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c08df951a1db67308af146ed2fd5c6fea8c97b97b1b0d4f39873d5a925f976b.jpg",
+        "img_caption": [
+            "图2EGDe、EGDe△gdhA 和EGDe△gdhA+pERL3-gdhA生物被膜形成能力的比较 Figure 2 Biofilm formation by EGDe, EGDe△gdhA andEGDe△gdhA $+$ pERL3-gdhA "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注： (a)三株菌株在培养 $2 4 \\mathrm { h }$ 和 $4 8 \\mathrm { { h } }$ 后的生长量。(b)三株菌株在培养 $2 4 \\mathrm { h }$ 和 $4 8 \\mathrm { h }$ 后的生物被膜形成量。(c)显微镜下，三种菌株形成的生物被膜结构( $4 8 \\mathrm { h }$ ， $2 0 \\times )$ ；\\*\\*：在同一培养时间段内，与野生型菌株 EGDe 相比，突变株 EGDe△gdhA 的生物被膜形成量具有极显著性差异(P${ \\leqslant } 0 . 0 1 { \\mathrm { \\cdot } }$ ）",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Note: (a): The biomass of the three strains after $2 4 \\mathrm { h }$ and $4 8 \\mathrm { h }$ of cultivation; (b): Biofilm quantities for the three strains measured by microtiter plate assay after 24 hand $4 8 \\mathrm { h }$ of incubation; (c): Biofilm formed in the 48h by the three strains observed under a $2 0 \\times$ objective; $^ { * * }$ :Significant differences of the biomass of biofilm betweentthe mutant strain EGDe△gdhA and the wild type strain EGDe during the same culture time $( \\mathbf { P } { \\leqslant } 0 . 0 1 )$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.3GDH缺失对单核细胞增生李斯特菌毒力的影响2.3.1GDH缺失对单核细胞增生李斯特菌溶血活性的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lm 中hly 基因编码的李斯特菌溶血素(Listeriolysin O,LLO)能裂解宿主吞噬体膜，导致细菌逃逸到宿主细胞质中，是细菌在宿主细胞内繁殖所必需的最重要的毒力因子。hly 基因缺失将导致细菌溶血活性降低，细菌毒力极大下降[20]。为了检验GDH缺失是否会影响细菌的溶血活性，我们比较了LLO 在EGDe、EGDe△gdhA和EGDe△gdhA+pERL3-gdhA中的活性差异。如图3所示，当野生株EGDe 菌液体积增加时，菌液中LLO蛋白含量增高，导致红细胞溶血程度增加。但与EGDe相比，缺失株EGDe△gdhA 溶血活性显著性减弱，且随着菌液体积的增加，这种差异越来越明显。意外的是，回复株EGDe△gdhA+pERL3-gdhA的溶血活性始终低于EGDe△gdhA，且不随菌液体积增加而变化。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/366bd97e72d2a8c62bb89089d96b2e2f59b2d638842698a59bcc652ddca2d370.jpg",
+        "img_caption": [
+            "图3EGDe、EGDe△gdhA 和 EGDe△gdhA+pERL3-gdhA 的溶血活性 Fig.3 Hemolytic activity of EGDe, EGDe△gdhA and EGDe△gdhA+pERL3-gdh "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3.2GDH对单核细胞增生李斯特菌侵染棉铃虫幼虫的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为进一步从活体水平探究GDH缺失是否会影响Lm 的毒力，我们比较了野生株EGDe、缺失株 EGDe△gdhA以及回复株 EGDe△gdhA+pERL3-gdhA 对棉铃虫幼虫的致死能力。结果如表2所示，注射BHI培养基的棉铃虫幼虫在培养 $7 2 \\mathrm { { h } }$ 后皆没有死亡（活动正常，可以正常化蛹），而注射了不同Lm 菌株的棉铃虫幼虫均出现不同程度的死亡。与EGDe相比，EGDe△gdhA的半数致死量（ $\\mathrm { L D } _ { 5 0 } \\mathrm { . }$ ）上升了1.6倍左右，这说明缺失GDH使Lm 的毒力下降。但有趣的是GDH回复菌株对棉铃虫的半数致死剂量不仅没有回复到野生株水平，且是三株菌株中最低的，该结果与溶血实验结果一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表2EGDe、EGDe△gdhA 和 EGDe△gdhA+pERL3-gdhA 对棉铃虫的半数致死剂量(LD50)",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/56830e5264c43bb9ad73fd7fc383a423775ff4ecef360ed41a7e2bcdb07c3fee.jpg",
+        "table_caption": [
+            "Table 2 The semi-lethal dose of EGDe, EGDe△gdhA and EGDe△gdhA+pERL3-gdhA on Helicoverpa armigera(Hubner) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>菌株 Strain</td><td>半数致死剂量LD5o(cfu)</td></tr><tr><td>BHI</td><td>(死亡条数为0)</td></tr><tr><td>EGDe</td><td>3.89*10^6cfu</td></tr><tr><td>EGDe△gdhA</td><td>6.34*10^6cfu</td></tr><tr><td>EGDe△gdhA+pERL3-gdhA</td><td>4.07*10^7cfu</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.3棉铃虫幼虫中肠病理切片的观察 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，在注射野生株EGDe $7 2 \\mathrm { { h } }$ 后，棉铃虫肠道细胞几乎全部溶解，仅剩下较为完整的基底膜。但是注射缺失株EGDe△gdhA后，肠道细胞虽然也发生了轻微的溶解与空泡化现象，但溶解程度显著低于注射野生株EGDe的幼虫，这也说明了缺失GDH后,Lm 对棉铃虫的侵染能力下降。而注射了回复株EGDe△gdhA+pERL3-gdhA的棉铃虫肠道细胞同样发生了溶解和空泡化，但其程度基本与缺失株的相似，该结果也与前面的溶血活性以及半数致死量的测定结果较为一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/de9ed53c04fd9d6af91907fa7b68a840b96003e10181b57fbe6e03dffbb4555e.jpg",
+        "img_caption": [
+            "图4 注射 EGDe、EGDe△gdhA 和 EGDe△gdhA+pERL3-gdhA72h 后的棉铃虫肠道病理切片。 注：BM为棉铃虫肠道基底膜；EC为棉铃虫肠道细胞;DEC为溶解的肠道细胞。 Fig.4 Tissue section of the midgut of H. armigera after $7 2 \\mathrm { { h } }$ injection of EGDe, EGDe△gdhA and EGDe△gdhA+pERL3-gdhA. Note: BM, Basement membrane; EC, Epithelial cell; DEC, Dissolved epithelial cell. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.4野生株EGDe与缺失株EGDe△gdhA的胞外蛋白质组学结果",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "如前所述，GDH的缺失会导致Lm的生物被膜形成能力与毒力下降。而细菌分泌的胞外蛋白对病原细菌的生存与侵染以及生物被膜的形成有着重要的作用。为进一步探究GDH对Lm 胞外蛋白表达的影响，我们利用iTRAQ技术对Lm 野生株EGDe与谷氨酸脱氢酶缺失株EGDe△gdhA的胞外蛋白进行分离与鉴定，并对差异表达蛋白进行生物信息学分析。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "依据蛋白质丰度水平，以差异倍数大于1.2或小于0.8且经统计检验P-value值小于0.05 的蛋白视为野生株EGDe与缺失株 EGDe△gdhA之间的差异性表达蛋白。实验重复三次，共鉴定出差异性表达蛋白个数62个。与EGDe相比，在EGDe△gdhA中下调表达的蛋白有47个，上调15个（见表3）。利用MOCGD对差异性表达的蛋白进行COG聚类分析，除了6个蛋白无COG功能注释外，其余蛋白被归属于碳水化合物转运与代谢（11个）、脂质运输和代谢转运（2个）和氨基酸转运与代谢（4个）、核苷酸转运和代谢（1个）、能量产生与转化（6个）、翻译后修饰，蛋白质周转，分子伴侣（3个）、转录相关（7个）、和细胞壁/膜/包膜产生（4个）等16个功能类别，涵盖了细菌的大部分生理功能（如图5所示）。其中碳氮代谢与能量转运相关蛋白数量最多（功能分类归属于碳水化合物转运与代谢、脂质运输和代谢转运、氨基酸转运与代谢、核苷酸转运以及代谢、能量产生与转化相关蛋白），为24个，占所鉴定出的差异蛋白总量的 $3 8 . 7 1 \\%$ 。表明谷氨酸脱氢酶是Lm中碳氮代谢和能量转运中的关键酶。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "R I.. C:Energy production and conversion; D:Cell cycle control,celldivision, chromosomepartitioning E:Amino acid transport and metabolism； F:Nucleotide transport and metabolism; G:Carbohydratetransportand metabolism； H:Coenzyme transport and metabolism; I:Lipid transport and metabolism; J:Translation,ribosomal structure and biogenesis; K:Transcription; L:Replication,recombination and repair； M:Cellwall/membrane/envelope biogenesis O:Posttranslational modification, protein turnover,chaperones ; R: General function prediction only； S:Function unknown； T:Signal transduction mechanisms; C V:Defense mechanisms; G 0 2 4 6 8 10 12 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig5 COG clustering analysis of differentially expressed proteins ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表3iTRAQ方法鉴定到的差异性表达蛋白",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7f0aa07738bd32a6e0753318d39d8d3f447eb735b10c2f12bf89fd3a86a2ff5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Table3Differential COG1） Locus2) Putative function</td><td>by11RAQ</td><td>4Protein score</td><td></td></tr><tr><td colspan=\"2\"></td><td> 3)MM/Pie</td><td></td><td>ratio</td></tr><tr><td colspan=\"2\">(G) Carbohydrate transport and metabolism Uncharacterized Protein</td><td>0.65/46.95</td><td>110.97</td><td>0.71</td></tr><tr><td>lmo0859 lmo2455</td><td></td><td></td><td>40.79</td><td>1.29</td></tr><tr><td>lmo2848</td><td>2-phosphoglycerate dehydratase</td><td>4.70/46.47 5.31/48.07</td><td></td><td></td></tr><tr><td></td><td>L-rhamnose isomerase</td><td></td><td>39.33</td><td>1.67</td></tr><tr><td>lm02665 1mo2734</td><td>PTS galacticol transporter subunit IIC</td><td>8.74/45.57</td><td>36.51</td><td>1.48</td></tr><tr><td>lmo0401</td><td>Sugar hydrolase</td><td>5.14/100.90</td><td>67.64</td><td>0.19</td></tr><tr><td>lmo0359</td><td>Alpha-mannosidase</td><td>4.95/100.00</td><td>45.52</td><td>0.63</td></tr><tr><td>lmo1217</td><td>D-fructose-1,6-biphosphate aldolase</td><td>5.02 /31.60</td><td>41.25</td><td>0.51</td></tr><tr><td>lmo2771</td><td>Endo-1,4-beta-glucanase and to aminopeptidase</td><td>5.14/38.90</td><td>36.33</td><td>0.58</td></tr><tr><td>lmo2002</td><td>Beta-glucosidase</td><td>5.28/55.10</td><td>31.94</td><td>0.49</td></tr><tr><td>lm02556</td><td>PTS sugar transporter</td><td>5.94/17.20</td><td>38.98</td><td>0.75</td></tr><tr><td colspan=\"2\">Fructose-1,6-bisphosphate aldolase</td><td>5.2/30.00</td><td>37.70</td><td>0.52</td></tr><tr><td>(C): Energy production and conversion lmo0520</td><td>Transcriptional regulator</td><td></td><td></td><td></td></tr><tr><td>lmo1811</td><td></td><td>4.91/38.00</td><td>61.54</td><td>1.53</td></tr><tr><td>lmo1183</td><td>ATP-dependent DNA helicase RecG</td><td>5.69/78.00</td><td>98.2</td><td>0.52</td></tr><tr><td>lmo0396</td><td>Hypothetical protein</td><td>6.86/22.20</td><td>42.97</td><td>0.50</td></tr><tr><td>lmo0300</td><td>Pyrroline-5-carboxylate reductase</td><td>5.08/28.10</td><td>32.57</td><td>0.55</td></tr><tr><td>lmo0067</td><td>Phospho-beta-galactosidase</td><td>4.99/53.60</td><td>30.36</td><td>0.55</td></tr><tr><td colspan=\"2\">Dinitrogenase reductase ADP-ribosylation protein (O): Postranslational modification, protein turnover, chaperones</td><td>4.89/37.70</td><td>328.92</td><td>0.48</td></tr><tr><td>lmo2069</td><td>Class Iheat-shock protein (chaperonin) GroES</td><td>4.60/100.60</td><td></td><td></td></tr><tr><td>lmo1059</td><td>Thioredoxin</td><td>4.83/199.20</td><td>241.72 41.1</td><td>2.26 3.58</td></tr><tr><td>lmo2206</td><td> protease subunit B</td><td>64.97 /97.50</td><td>95.97</td><td>0.43</td></tr><tr><td>lmo0520</td><td>Transcriptional regulator</td><td>4.91/38.00</td><td>61.54</td><td>1.53</td></tr><tr><td>lmo1811</td><td>ATP-dependent DNA helicase RecG</td><td>5.69/78.00</td><td>98.2</td><td>0.52</td></tr><tr><td>lmo1183</td><td>Hypothetical protein</td><td></td><td>42.97</td><td>0.50</td></tr><tr><td>lmo0396</td><td></td><td>6.86/22.20</td><td></td><td></td></tr><tr><td>lmo0300</td><td>Pyrroline-5-carboxylate reductase</td><td>5.08/28.10</td><td>32.57</td><td>0.55</td></tr><tr><td>lmo0067</td><td>Phospho-beta-galactosidase Dinitrogenase reductase ADP-ribosylation protein</td><td>4.99/53.60 4.89/37.70</td><td>30.36 328.92</td><td>0.55 0.48</td></tr><tr><td colspan=\"2\">(M): Cell wall/membrane/envelope biogenesis</td><td></td><td></td><td></td></tr><tr><td>lmo0582 Peptidase P60</td><td></td><td>8.56/42.70</td><td>515.01</td><td>2.13</td></tr><tr><td>lmo2555</td><td>Glycosyl transferase family 1</td><td>6.91/47.89</td><td>55.32</td><td>0.377</td></tr><tr><td>lmo2754</td><td>D-alanyl-D-alanine carboxypeptidase</td><td>6.93/48.07</td><td>100.2</td><td>0.77</td></tr><tr><td>lmo2185</td><td>Sortase B</td><td>5.033/21.05</td><td>59.56</td><td>0.78</td></tr><tr><td colspan=\"2\">(I) Lipid transport and metabolis</td><td></td><td></td><td></td></tr><tr><td>lmo0354</td><td>Fatty-acid--CoA ligase</td><td>6.268/58.10</td><td>30.86</td><td>1.36</td></tr><tr><td>lmo1753</td><td>Diacylglycerol kinase</td><td>5.64/34.02</td><td>37.46</td><td>0.47</td></tr><tr><td colspan=\"2\">(K)Transcription</td><td></td><td></td><td></td></tr><tr><td>lmo0630</td><td>PTS fructose transporter subunit IIA</td><td>5.57/77.72</td><td>52.06</td><td>3.05</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/135dd76c2c47e25866c95ed00fe714bebd943e4f8c0fc20e60d8e2693aed591d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note: 1)COG:functional category according to the Cluster of Orthologous Genes using the Microbes Online Comparative Genomics Database (MOCGD) (http://www.microbesonline.org/). 2)Locus tag was obtained from NCBI(nr) Listeria monocytogenes EGD-e database with the common name in parentheses. "
+        ],
+        "table_body": "<html><body><table><tr><td>lmo2606</td><td>DNA-directed RNA polymerase subunit alpha</td><td>4.797/34.91</td><td>42.97</td><td>1.37</td></tr><tr><td>lmo1408</td><td>PadR family transcriptional regulator</td><td>8.82/20.72</td><td>97.05</td><td>0.36</td></tr><tr><td>lmo1878</td><td>Transcriptional regulator MntR</td><td>5.46/16.39</td><td>45.26</td><td>0.68</td></tr><tr><td>lmo0258</td><td>DNA polymerase III subunit beta</td><td>4.70/42.43</td><td>30.84</td><td>0.58</td></tr><tr><td>lmo1899</td><td>ATP-dependent helicase DinG</td><td>5.78/106.06</td><td>45.71</td><td>0.30</td></tr><tr><td>lmo2107</td><td>DeoR family transcriptional regulator</td><td>5.28/28.40</td><td>38.58</td><td>0.30</td></tr><tr><td colspan=\"5\">(D) Cell cycle control, cell division, chromosome partitioning</td></tr><tr><td>lmo1606</td><td>DNA translocase FtsK</td><td>5.317/87.79</td><td>50.78</td><td>1.46</td></tr><tr><td colspan=\"5\">(E)Amino acid transport and metabolism</td></tr><tr><td>lmo1663</td><td>Asparagine synthetase</td><td>5.02/48.99</td><td>38.39</td><td>1.20</td></tr><tr><td>lmo1628</td><td>Tryptophan synthase beta chain</td><td>5.50/43.70</td><td>62.16</td><td>0.51</td></tr><tr><td>lmo2539</td><td>Serine hydroxymethyltransferase</td><td>5.53/45.12</td><td>41.06</td><td>0.76</td></tr><tr><td colspan=\"3\">(J)Translation, ribosomal structure and biogenesis</td><td></td><td></td></tr><tr><td>lmo1530</td><td>Queuine tRNA-ribosyltransferase</td><td>7.21/42.92</td><td>38.02</td><td>1.31</td></tr><tr><td>lmo1459</td><td>Glycyl-tRNA synthetase subunit alpha</td><td>4.85/34.30</td><td>83.53</td><td>0.65</td></tr><tr><td>lmo2656</td><td>30S ribosomal protein S12</td><td>11.24/15.10</td><td>54.09</td><td>0.66</td></tr><tr><td colspan=\"3\">(F) Nucleotide transport and metabolism</td><td></td><td></td></tr><tr><td>lmo2155</td><td>Ribonucleotide-diphosphatereductase alpha</td><td>5.59/87.39</td><td>115.43</td><td>0.36</td></tr><tr><td colspan=\"3\">(L) Replication,recombination and repair</td><td></td><td></td></tr><tr><td>lmo1320</td><td>DNA polymerase III PolC</td><td>5.26/162.70</td><td>80.30</td><td>0.76</td></tr><tr><td colspan=\"3\">(V) Defense mechanisms</td><td></td><td></td></tr><tr><td>lmo0607</td><td>ABC transporter ATP-binding</td><td>5.56/63.3 0</td><td>52.10</td><td>0.35</td></tr><tr><td>lmo1964</td><td>lABC-type multidrug transport system</td><td>6.35/33.29</td><td>34.51</td><td>0.44</td></tr><tr><td>lmo0028</td><td>Similar to E.coli microcin C7 self-immunity protein</td><td>4.48/34.38</td><td>61.81</td><td>0.67</td></tr><tr><td colspan=\"3\">(S)Function unknown</td><td></td><td></td></tr><tr><td>lmo2181</td><td>Sortase</td><td>5.35/28.62</td><td>47.73</td><td>0.79</td></tr><tr><td colspan=\"3\">(H) Coenzyme transport and metabolism</td><td></td><td></td></tr><tr><td>lmo1042</td><td>Molybdopterin biosynthesis protein</td><td>5.167/45.00</td><td>38.26</td><td>0.44</td></tr><tr><td>lmo1093</td><td> NH(3)-dependent NAD(+) synthetase</td><td>5.07/30.59</td><td>32.26</td><td>0.68</td></tr><tr><td>lmo2770</td><td>Glutathione synthetase</td><td>4.92/88.56</td><td>36.36</td><td>0.47</td></tr><tr><td colspan=\"3\">(T) Signal transduction mechanisms</td><td></td><td></td></tr><tr><td>lmo1935</td><td>Protein-tyrosine/serine phosphatase</td><td>4.92/36.63</td><td>36.18</td><td>0.63</td></tr><tr><td colspan=\"3\">(R) General function prediction only</td><td></td><td></td></tr><tr><td>lmo0919</td><td>Antibiotic ABC transporter ATP-binding protein</td><td>8.929/59.10</td><td>74.01</td><td>1.44</td></tr><tr><td>lmo1760</td><td>Geranylgeranylglyceryl phosphate synthase-like protein</td><td>5.109/25.36</td><td>37.53</td><td>0.42</td></tr><tr><td>lmo1226</td><td>LacI family transcription regulator</td><td>5.79/38.81</td><td>43.98</td><td>0.72</td></tr><tr><td>lmo1537</td><td>Predicted GTPase</td><td>5.12/47.1 0</td><td>37.98</td><td>0.63</td></tr><tr><td>lmo2232</td><td>Hypothetical protein</td><td>4.70/49.10</td><td>38.21</td><td>0.77</td></tr><tr><td>lmo2359</td><td>Hypothetical protein</td><td>4.89/31.07</td><td>31.27</td><td>1.58</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3)Putative functions were assigned from NCBI (nr) Listeria monocytogenes EGD-e database. 4)Theoretical molecular masses (expressed in kDa) and isoelectric point (expressed in pl). 5)Changes in protein levels was reported as the ratio between the glutamate dehydrogenase deletion mutant EGDeAgdhA and wild-type EGDe. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3．讨论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "谷氨酸脱氢酶属于氨基酸脱氢酶家族，谷氨酸在GDH的作用下，转化为α酮戊二酸和氨，前者进入TCA循环； $\\mathfrak { a }$ -酮戊二酸和谷氨酰胺在谷氨酸合成酶（GOGAT）的作用下，合成谷氨酸，进入氮代谢途径。在细菌中，两个代谢分支必须很好地协调，才能在任何给定的营养环境中都能实现较高的生长率[21]。我们研究发现Lm 缺失GDH后，菌株在MEM培养基中生长缓慢，且在对数末期以及稳定期前期生物量显著性低于野生株 EGDe。在枯草芽胞杆菌[21]、地衣芽胞杆菌[22]中缺失GDH后，细菌的生物量也降低，这些结果均表明谷氨酸脱氢酶是细菌中联系碳氮代谢的关键酶。同时，我们通过蛋白质组学的方法验证了缺失GDH后，差异性表达蛋白中碳氮代谢和能量转运相关蛋白占总蛋白的 $3 8 . 7 1 \\%$ .暗示EGDe△gdhA在基础培养基中生长缓慢和生物量显著性下降可能是由于缺失GDH后，细菌碳氮代谢和能量转运失衡，从而导致细菌体内合成生长所需物质减少所致。而回复菌株EGDe△gdhA+pERL3-gdhA在对数末期的生物量显著高于野生株和缺失株，则有可能是因为回复表达GDH基因gdhA的质粒pERL3是多拷贝质粒，GDH的过量表达加快了细菌碳氮代谢和能量转运，从而导致Lm 生长速率增快，生物量增多。但这种变化似乎并不能持久，因为回复菌株的生长最终还是稳定到与野生株相似的水平。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "生物被膜是细菌抵御外界不良环境的一种重要形式，它可以显著增强细菌对各种杀菌剂的耐受能力，极大增强细菌的抗逆性。缺失GDH后，EGDe△gdhA生物被膜形成能力显著低于野生株 EGDe；同时，在EGDe与EGDe△gdhA的胞外差异表达蛋白组中，我们发现有三个已被验证过与细菌粘附和生物被膜形成相关的蛋白(Lmo1226、Lmo2555、Lmo2365)在EGDe△gdhA发生了显著下调表达。其中，LacI家族转录调节子Lmo1226 对于Lm 的粘附起到重要作用[23]；缺失Lmo2555的同源蛋白BgsB能造成在粪肠球菌生物被膜形成能力显著下降[24];Lmo2365的同源蛋白RofA已被BeckertS等人证明对于A链球菌粘附和入侵真核细胞不可缺少[25]。这些结果共同说明GDH的缺失，会使Lm 的生物被膜形成能力下降。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在猪2型链球菌中，GDH是新近发现的一个与细菌毒力相关的蛋白，通过GDH蛋白电泳图谱可以区分菌株的毒性高低[I]。GDH在Lm 中是否与毒力相关目前尚无研究报道。我们发现与野生株相比，GDH缺失株的溶血活性显著下降，对棉铃虫幼虫的半致死量上升了约1.6倍，这暗示缺失GDH后Lm的毒力有所下降。尽管 Lm的主要毒力蛋白（PlcB、ActA、Mpl、LLO、PlcA、PrfA）没有在本研究条件所得的差异性表达的胞外蛋白中检测到，但我们发现Lm的毒力相关蛋白P60（编码基因lmo0582）与ClpB（编码基因lmo2206）发生了差异性表达（见表2）。已有文献表明，敲除CIpB 编码基因后，突变体对小鼠的侵染能力下降[26]；而P60可以加速细胞分裂和肌动蛋白尾部形成，在Lm侵染宿主细胞过程中发挥着重要作用，敲除p60 后，Lm 对小鼠的毒力下降[27]。因此，我们推测GDH也可能通过一定途径影响Lm的致病能力，具体机制亟待深入探讨，这将是我们今后研究的重点之一。至于回复菌株EGDe△gdhA+pERL3-gdhA的溶血活性以及对棉铃虫的半数致死率均低于缺失株和野生株，其原因尚不清楚，推测可能是因为所GDH的过量表达也可能破坏细菌体内的碳氮代谢平衡，从而抑制了Lm毒力因子如LLO和（或者）PrfA的活性，这与张颖[19在研究全局转录调控因子CodY的过量表达结果一致，充分说明细菌的致病能力与其体内的碳氮代谢密切相关。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "综上所述，我们的研究结果表明，GDH在Lm生物被膜形成能力、毒力以及胞外蛋白表达方面有着重要的作用。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1]Kumaraswamy M, Do C, Sakoulas G, et al. Listeria monocytogenes Endocarditis: Case Report, Review of the Literature, and Laboratory Evaluation of Potential Novel Antibiotic Synergies. International Journal of Antimicrobial Agents, 2018, 38(1):51-60.   \n[2]Price R, Jayeola V, Niedermeyer J, et al. The Listeria monocytogenes Key Virulence Determinants hly and prfA are involved in Biofilm Formation and Aggregation but not Colonization of Fresh Produce. Pathogens, 2018,7(1):7-18.   \n[3]Pillich H, Puri M, Chakraborty T. ActA of Listeria monocytogenes and Its Manifold Activities as an Important Listerial Virulence Factor.Current Topics in Microbiology and Immunology, 2017, 399:113-132.   \n[4]Jr W M D. Bacterial Adhesion: Seen Any Good Biofilms Lately? Clinical Microbiology Reviews, 2002, 15(2):155-166.   \n[5]Mah TF, O'Toole G A.Mechanisms of biofilm resistance to antimicrobial agents. Trends in Microbiology,2001, 9(1):34-39.   \n[6]Trost M, Wehmhoner D, Kärst U, et al. Comparative proteome analysis of secretory proteins from pathogenic and nonpathogenic Listeria species. Proteomics, 2005, 5(6):1544-1557.   \n[7] Gilan I, Sivan A. Effect of proteases on biofilm formation of the plastic-degradingactinomycete Rhodococcus ruber C2O8. Fems Microbiology Letters,2013,342(1):18-23.   \n[8]Desvaux M, Dumas E, Chafsey I, et al. Comprehensive appraisal of the extracellular proteins from a monoderm bacterium: theoretical and empirical exoproteomes of Listeria monocytogenes EGD-e by secretomics. Journal of Proteome Research, 2010, 9(10):5076-5092.   \n[9]Treberg JR, Banh S,Pandey U, et al. Intertissue differences for the role of glutamate dehydrogenase in metabolism. Neurochemical Research, 2014, 39(3):516-526.   \n[10] Plaitakis A, Berl S, Yahr MD.Neurological disorders associated with deficiency of glutamate dehydrogenase. Annals of Neurology, 1984, 15(2):144-153.   \n[11]Okwumabua O, Persaud J S, Reddy PG. Cloning and characterization of the gene encoding the glutamate dehydrogenase of Streptococcus suis serotype 2. Clin Diagn Lab Immunol, 2001, 8(2):251-257.   \n[12]Glaser P, Frangeul L, Bunchrieser C, et al. Comparative genomics of Listeria species[J]. Science, 2001, 294(26): 849-852.   \n[13] Luo Q, Zhou Q C, Deng L F, et al. Some essential elements on the inlC promoter for PrfA-dependent regulation in Listeria monocytogenes. Acta Microbiologica Sinica, 2007, 47(1): 22-28.   \n[14]王莉，冯飞飞，张强，等．单核细胞增生李斯特菌毒力基因inlB/actA双缺失 突变株的构建．生物技术通报,2010,0(11):182-185. Wang L, Feng F F, Zhang Q, et al. Construction of a mutant strain of Listeria monocytogenes with a deletion of inlB and actA. Biotechnology Bulltin, 2010, 0(11): 182-185.   \n[15]Premaratne R J,Lin W J, Johnson E A. Development of an improved chemically defined minimal medium for Listeria monocytogenes.Applied & Environmental Microbiol0gy, 1991, 57(10):3046-3048.   \n[16]冯飞飞，张强，王莉,等．毒力基因调控蛋白PrfA促进单核细胞增生李斯特菌 生物被膜的形成[J]．微生物学通报,2011,38(9):1450-1457. Feng F F, ZHANG Q, WANG L,et al. The virulence regulator PrfA plays a significant role in the Listeria monocytogenes biofilm formation[J]. Microbiology China, 2011, 38(9):1450-1457.   \n[17]Djordjevic D, Wiedmann M, Mclandsborough L A. Microtiter plate assay for assessment of Listeria monocytogenes biofilm formation. Appl Environ Microbiol[J]. Applied & Environmental Microbiology, 2002, 68(6):2950-2958.   \n[18]于新惠,张颖,王文静,罗勤.rmlB 基因在单核细胞增生李斯特菌耐药性、生物被 膜形成和毒力方面的作用[J].微生物学通报,2017,44(01):161-171. Yu X H, Zhang Y, Wang W J, et al. Contribution of rmlB in envelope-acting a antibiotic resistance biofilm formation and virulence in Listeriamonocytogenes[J]. Microbiology China, 2017, 44(1): 161-171.   \n[19]张颖,汤雨倩,沈怡,罗勤.CodY在单核细胞增生李斯特菌运动和毒力方面的作 用[J].中国生物工程杂志,2017,37(07):56-63. ZHANG Y,TANG YQ ,SHEN Y et al.The role of CodY in the regulation of flagellar motility and virulence in Listeria monocytogenes[J]. China Biotechnology， 2017，37(7):56-63.   \n[20]Ren Y H, Yi-Jing L I, Wang X S, et al. Cloning and sequence analysis of the hly gene of Listeria Monocytogenes[J]. Journal of Northeast Agricultural University, 2004, 35(1):46-49.   \n[21]Katrin Gunka, Fabian M. CommichauControl of glutamate homeostasis in Bacillussubtilis: a complex interplay between ammonium assimilation, glutamatebiosynthesisanddegradation[J].MolecularMicrobiology, 2012,85(2):213-224.   \n[22]Tian G, Wang Q, Wei X, et al. Glutamate dehydrogenase (RocG) in Bacillus licheniformis WX-O2: Enzymatic properties and specific functions in glutamic acid synthesis for poly- $\\cdot \\gamma$ -glutamic acid production. Enzyme & Microbial Technol0gy, 2017, 99(06):9-15.   \n[23]Glenn. Genes involved in attachment of Listeria monocytogenes to abiotic surfaces[D]. Leicester: University of Leicester, 2014.   \n[24] Theilacker C, Sava I, Sanchez-Carballo P, et al.Deletion of the glycosyltransferase bgsB of Enterococcus faecalis leads to a complete loss of glycolipids from the cell membrane and to impaired biofilm formation[J]. BMC Microbiology, 2011, 11(1):67-78.   \n[25] Beckert S, Kreikemeyer B, Podbielski A. Group A streptococcal rofA gene is involved in the control of several virulence genes and eukaryotic cell attachment and internalization[J]. Infection & Immunity, 2001, 69(1):534-537.   \n[26]Chastanet A, Derre I, Nair S, et al. clpB, a Novel Member of the Listeria monocytogenes CtsR Regulon, Is Involved in Virulence but Not in General Stress Tolerance[J]. Journal of Bacteriology, 2004, 186(4):1165-1174.   \n[27] Pilgrim S, Kolb-Mäurer A, Gentschev I, et al. Deletion of the gene encoding p60 in Listeria monocytogenes leads to abnormal cell division and loss of actin-based motility[J]. Infection & Immunity, 2003, 71(6):3473-3784. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

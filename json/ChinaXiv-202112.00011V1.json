@@ -1,0 +1,317 @@
+[
+    {
+        "type": "text",
+        "text": "猫须草抗炎活性成分研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李毅鹏1²，潘争红²，符毓夏²，宁德生²\\*，李连春²，海洪1（1.桂林理工大学 化学与生物工程学院，广西 桂林 541006；2．广西植物功能物质研究与利用重点实验室，广西壮族自治区中国科学院广西植物研究所，广西 桂林 541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了研究猫须草（Clerodendranthus spicatus）抗炎活性成分。该研究采用活性追踪的方法，利用硅胶、MCI柱色谱以及HPLC 等分离技术，对猫须草抗炎活性部位进行分离纯化，通过波谱数据分析和文献比对鉴定化合物结构；利用LPS 诱导的RAW264.7巨噬细胞炎症模型进行抗炎活性评价。结果表明：（1）从猫须草抗炎活性部位分离得到10个化合物，分别鉴定为泡桐素（1)、鼠尾草素（2）、对苯二甲酸二辛酯（3）、N-(N-苯甲酰基 $\\cdot L$ 苯丙酰基) $. L .$ -苯基丙醇（4）、fragransin $\\mathbf { B } _ { 1 } ( \\pmb { 5 } ) , 6 , 7 , 8 , 4 ^ { \\prime } .$ 四甲氧基黄酮（6） $N \\mathrm { . }$ 反式-阿魏酰酪胺（7）、$N \\mathrm { . }$ 顺式-阿魏酰酪胺（8）、trans $. N .$ cinnamoyltyramine（9）、新海胆灵A（10)，其中化合物1、4、8-10为首次从该植物中分离得到。（2）抗炎结果显示，猫须草抗炎活性成分主要存在于中低极性部位，从中分离得到的大部分化合物显示出一定的NO生成抑制活性，其中酰胺类成分（7-9）均具有较好的抗炎活性，表明该类成分是猫须草抗炎作用的主要成分之一。该研究丰富了猫须草抗炎物质基础，为其开发利用提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：猫须草，化学成分，结构鉴定，酰胺，抗炎活性中图分类号：Q946.8 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anti-inflammatory constituents of Clerodendranthus spicatus ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yipeng1,2, PAN Zhenghong²,FU Yuxia²,NING Desheng² \\*,LI Lianchun²,HAI Hong (1.CollegeofChemistryand Bioengineering,Guilin UniversityofTechnology,Guilin541o06,Guangxi,China;2. Guangxi Key Laboratory of Functional Phytochemicals Research and Utilization, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences,Guilin 541006,Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To study the anti-inflammatory constituents of Clerodendranthus spicatus.With the aid of activity tracing,the compounds were isolated from the anti-inflammatory active fractions of $C$ spicatus through various separation methods including column chromatography on silica gel, MCI and HPLC. Their chemical structures were identified by analyzing their spectra data and comparing with published literatures. The inflammatory cell model，built by LPS-induced RAW264.7 macrophage cells, was used to evaluate anti-inflammatory effects. The results were as follows:(1)Ten compounds were obtained from anti-inflammatory active fractions and their structures were identified as paulownin (1),salvigenin (2), bis-(2-ethylhexyl) terephthalate (3), $N .$ (N-benzoy- $\\boldsymbol { \\cdot } \\boldsymbol { L }$ -phenylalany) $L$ -phenylalanol (4), fragransin $\\mathbf { B } _ { 1 }$ (5), $^ { 6 , 7 , 8 , 4 ^ { \\prime } }$ -tetramethoxyflavone (6)，N-trans-feruloyltyramine (7)，N-cis-feruloyltyramine (8)， trans $. N .$ cinnamoyltyramine (9), neoechinulin A (10),respectively. Compounds 1,4,8-10 were obtained from this plant for the first time. (2)The anti-inflammatory test results showed that the anti-inflammatory constituents of C. spicatus mainly existed in the mid-low polarity extract. Most of compounds showed different inhibition efects on NO production. Among of them,amides (7-9) also showed anti-inflammatory effects,indicated they were one of main anti-inflammatory constituents of C.spicatus. The study enrich the material basis of anti-inflammatory of $C .$ ，spicatus,and also provide a scientific basis for its development and utilization. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Clerodendranthus spicatus, chemical constituents, structural identification,amides, anti-inflammatory activity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "猫须草（Clerodendranthus spicatus）为唇形科肾茶属多年生草本植物，因其雄蕊酷似猫须，又名“肾茶”、“猫须公”，傣名“雅糯妙”，是傣族传统的药食两用植物（国家中医药管理管《中华本草》编委会，2005)。猫须草含有丰富的黄酮、酚酸、萜类、木脂素等成分（张永怡等，2021)，而且药理学研究显示该植物具有清热利水，排石通淋的功效，通常用于治疗急慢性肾炎、痛风等疾病，表明猫须草对炎症性疾病具有较好疗效（刘少会等，2017；谢招虎等，2019；郭银雪等，2020)。目前有关猫须草的文献报道多侧重于提取物活性筛选及其提取工艺研究，抗炎活性物质基础研究较少。为了阐明该药用植物的抗炎活性成分，本实验采用活性追踪的方法，对猫须草抗炎活性部位进行化学成分研究。结果从活性部位中分离得到10个化合物（图1)，其中化合物1、4、8-10为首次从该植物中分离得到，通过体外抗炎活性筛选，明确该植物抗炎作用的活性部位及其物质基础。研究结果为猫须草的开发利用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ce13bbc79c9000e92cf661a797892a623e122430ce8e7bb2cfced48f8b9bd99.jpg",
+        "img_caption": [
+            "图1化合物1-10结构式 Fig.1 Structures of compounds 1-10 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与仪器",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "猫须草采自广东罗定市龙湾镇，经由广西壮族自治区中国科学院广西植物研究所蒋运生研究员鉴定为唇形科肾茶属植物猫须草（Clerodendranthus spicatus）的全草。凭证样品存放于广西植物功能物质研究与利用重点实验室。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞株：RAW264.7细胞（中国典型培养物保藏中心）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2仪器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "${ 5 0 0 } \\mathrm { M H z }$ 超导核磁共振波谱仪（瑞士 布鲁克公司)；LC-MS-IT-TOF 液相色谱质谱联用仪（日本岛津公司)；安捷伦 1200 型高效液相色谱仪（美国安捷伦公司)；XS205 型精密分析天平（梅特勒-托利多仪器有限公司)；倒置显微镜（舜宇光学科技有限公司)；无菌操作台，（苏净集团苏州安泰有限公司)；全波长多功能酶标仪（Bio Tek 公司)；二氧化碳细胞培养箱（美国 Thermo 公司）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3试剂",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DMEM营养液、胎牛血清（ThermoFisher Scietific 公司）；NO 试剂盒（RnD Systems公司）；LPS（sigma公司）；柱色谱和薄层色谱所用硅胶（青岛海洋化工有限公司）；MCI填料（日本三菱化学公司）；SephadexLH-20 凝胶（Amershan Biosciences 公司）；色谱纯乙腈（赛默飞世尔科技（中国）有限公司）；甲醇、 $9 5 \\%$ 乙醇、石油醚等试剂均为分析纯（西陇化工股份有限公司）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1提取和分离 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "猫须草全草，阴干粉碎，称取 $1 5 . 0 \\mathrm { k g }$ 粗粉，加入 $9 5 \\%$ 乙醇浸提3次（ $4 5 \\mathrm { L } \\times 3 )$ ，每次提取 $2 4 \\mathrm { h }$ ，过滤，合并3次浸提液， $5 0 \\ \\mathrm { ~ \\textdegree ~ }$ 减压回收溶液，得到浸膏 $\\mathrm { 1 6 2 . 5 ~ g }$ 。取 $1 5 0 ~ \\mathrm { g }$ 浸膏用适量纯水超声溶解，分别用石油醚、乙酸乙酯、正丁醇萃取得到相应的提取物。对不同极性提取物进行体外抗炎试验。根据抗炎活性和TLC 分析结果，将石油醚和乙酸乙酯部位合并，过MCI柱纯化，依次用体积分数为 $20 \\%$ 、 $40 \\%$ 、 $60 \\%$ 、 $80 \\%$ 、 $9 5 \\%$ 的甲醇梯度洗脱，收集各流份， $5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 减压浓缩，得到5个组分： $20 \\%$ （ $\\mathrm { 1 1 . 4 ~ g } \\mathrm { \\cdot }$ ）、 $40 \\%$ （ $\\begin{array} { r } { 8 . 8 \\textrm { g } \\ ' } \\end{array}$ ）、 $60 \\%$ ( ${ 1 9 . 7 } \\ \\mathrm { g } \\ \\mathrm { ) }$ 、$80 \\%$ ( $2 1 . 4 { \\bf g } ^ { \\cdot }$ 、 $9 5 \\%$ （ $\\mathrm { 1 5 . 3 g \\dot { } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据TLC分析结果，将 $6 0 \\%$ 和 $80 \\%$ 组分合并，过硅胶柱分离纯化，用石油醚/乙酸乙酯中 $\\cdot 1 0 { : } 1 {  } 0 { : } 1$ ，v/v）洗脱，得到5个组分 $\\mathrm { F r } . 1 { \\sim } \\mathrm { F r } . 5$ 。Fr.1过硅胶柱纯化，用石油醚/乙酸乙酯 $( 5 { : } 1 \\mathrm {  } 0 { : } 1 $ ，v/v）洗脱，经TLC检视合并各流份，得到3个组分 $\\mathrm { F r . } 1 { - } 1 { \\sim } \\mathrm { F r . } 1 { - } 3$ 。Fr.1-2 经硅胶、凝胶反复纯化，得到化合物1（ $\\lvert 8 . 3 \\ \\mathrm { m g }$ ）、2( $6 . 5 ~ \\mathrm { m g }$ 、3（ $\\lvert 5 . 3 \\mathrm { \\ m g } \\rangle$ 。Fr.2经凝胶柱分离（氯仿/甲醇 $= 1 { : } 1$ ，v/v)，得到4个组分 $\\mathrm { F r } . 2 { - } 1 { \\sim } \\mathrm { F r } . 2 { - } 4$ 。Fr.2-2经高效液相色谱制备[乙腈（A）/水（B)， $2 5 \\% \\sim 5 5 \\%$ A， $0 { \\sim } 4 5 \\ \\mathrm { m i n } ]$ ，得到化合物4（ $9 . 2 ~ \\mathrm { m g }$ )。Fr.2-3经硅胶反复纯化（石油醚/乙酸乙酯 $\\scriptstyle = 4 : 1$ ，v/v)，得到化合物5（ $9 . 5 ~ \\mathrm { m g }$ )。Fr.3经凝胶柱分离（氯仿/甲醇$= 1 { : } 1$ ，v/v)，得到5个组分 $\\mathrm { F r } . 3 { - } 1 { \\sim } \\mathrm { F r } . 3 { - } 5$ 。Fr.3-4经硅胶柱色谱（石油醚/丙酮 $= 5 { : } 1 \\mathrm {  } 0 { : } 1$ ，v/v）和半制备高效液相色谱纯化[乙腈（A）/水（B)， $5 \\% \\sim 4 0 \\% \\sim 6 0 \\% .$ A， $0 { \\sim } 3 0 { \\sim } 5 5 \\mathrm { m i n } ]$ ，得到化合物6（ $1 0 . 7 ~ \\mathrm { m g }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $40 \\%$ 组分 $\\mathbf { 8 . 8 \\textrm { g } }$ 过C18柱纯化，依次使用体积分数为 $30 \\%$ 、 $50 \\%$ 、 $70 \\%$ 、 $9 5 \\%$ 的甲醇梯度洗脱， $5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 减压浓缩，得到4个组分 $\\mathrm { F r } . 6 { \\sim } \\mathrm { F r } . 9$ 。Fr.9 经凝胶柱分离纯化（氯仿/甲醇 $\\ c =$ 1:1，v/v)，得到4个组分 $\\mathrm { F r . } 9 { - } 1 { \\sim } \\mathrm { F r . } 9 { - } 4$ 。Fr.9-2经高效液相色谱制备[乙腈（A）/水（B），$3 2 \\% { \\sim } 4 0 \\% { \\sim } 6 0 \\%$ A， $0 { \\sim } 3 0 { \\sim } 4 5 \\ \\mathrm { m i n } ]$ ，得到化合物7（ $5 . 1 ~ \\mathrm { m g }$ 、8( $9 . 5 ~ \\mathrm { m g }$ 、9( $8 . 1 ~ \\mathrm { m g } ^ { \\cdot }$ ）10 ( $\\mathrm { \\Delta } [ 6 . 8 \\mathrm { m g } ]$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2抗炎活性测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "抗炎活性测定参考文献（王淑慧等，2019）并略作修改。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同极性部位的抗炎活性测定：取对数生长期的RAW264.7细胞，制成浓度为 $5 { \\times } 1 0 ^ { 4 } { \\sim }$ ${ 6 } { \\times } { 1 0 } ^ { 4 }$ 个 $\\mathrm { \\ m L ^ { - 1 } }$ 的单细胞悬液，接种于12孔板中，每孔 $1 \\mathrm { m L }$ ，置于 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $5 \\% \\mathrm { C O } _ { 2 }$ 的细胞培养箱中培养。培养 $2 4 \\mathrm { ~ h ~ }$ 后，分别设置空白对照组、LPS组、药物组（ $9 5 \\%$ 叶醇提取物组、石油醚部位组、乙酸乙酯部位组、正丁醇部位组和水部位组)，其中药物组（4 个浓度）和LPS 加入终浓度分别为12.5、25.0、50.0、100 和 $0 . 2 0 \\mu \\mathrm { g } \\cdot \\mathrm { m L } ^ { - 1 }$ ，每组设3个平行孔。继续培养 $2 4 \\mathrm { h }$ 后，取上清，Griess 法测定NO 含量，并应用 SPSS16.0 软件进行回归计算 $\\mathrm { I C } _ { 5 0 }$ 值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物抗炎活性测定：实验步骤同上，其中药物组（化合物1-10）给药终浓度分别为6.25、12.5、25.0、 ${ 5 0 . 0 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3化合物结构鉴定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物1：白色粉末，ESI-MS $m / z$ ： $3 7 1 . 3 \\ : [ \\mathrm { M + H } ] ^ { + }$ ，分子式为 $\\mathrm { C _ { 2 0 } H _ { 1 8 } O _ { 7 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR (500 MHz, $\\mathrm { C D C l } _ { 3 }$ ), δ: 6.94 (1H, d, $J { = } 1 . 0 \\mathrm { H z }$ ,H-2'),6.91 (1H, s,H-2),6.85 (2H,m,H-6,6), 6.83(1H, d, $J { = } 8 . 0 \\mathrm { H z }$ ,H-5), 6.78 (1H, d, $J { = } 8 . 0 \\mathrm { H z }$ ,H-5'),5.98 (2H, s, ${ \\mathrm { - O C H } } _ { 2 } \\mathrm { O } .$ ),5.96 (2H, s, $. \\mathrm { O C H } _ { 2 } \\mathrm { O } _ { - } )$ ), 4.84 (1H, d, $J { = } 4 . 5 \\operatorname { H z }$ ,H-7'),4.81(1H, s,H-7),4.49 (1H, dd, $J = 8 . 0$ ,9.5Hz,H-9'b),4.03 (1H, d, $J { = } 9 . 5 \\mathrm { H z }$ ,H-9b), 3.90 (1H, d, $J = 9 . 5 ~ \\mathrm { H z }$ ,H-9a), 3.81 (1H, dd, $J = 6 . 5 ~ 9 . 5 ~ \\mathrm { H z }$ ,H-9'a), 3.04 (1H, m, H-8'); $^ { 1 3 } \\mathrm { C }$ -NMR(125 MHz, $\\mathrm { C D C l } _ { 3 }$ ),δ:129.4 (C-1), 107.6 (C-2),148.1 (C-3), 148.3 (C-4), 108.7 (C-5),120.3 (C-6), 87.6 (C-7), 91.8 (C-8), 75.0 (C-9), 134.8 (C-1), 107.0 (C-2'),147.4 (C-3'),148.2 (C-4), 108.3 (C-5),119.9 (C-6), 86.0 (C-7), 60.6 (C-8), 71.8 (C-9),101.3, 101.4 (2 $\\mathrm { \\times - O C H _ { 2 } O - }$ 。以上数据与文献（冯薇等，2010）基本一致，故鉴定为泡桐素（paulownin）。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物2:黄色粉末, $\\mathrm { E S I - M S } \\ m / \\zeta \\colon 3 2 9 . 1 \\ [ \\mathrm { M + H } ] ^ { + }$ ，分子式为 $\\mathrm { C _ { 1 8 } H _ { 1 6 } O _ { 6 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR ${ \\bf \\zeta } 5 0 0 { \\bf M H z }$ ，acetone- $. d _ { 6 }$ ),δ:12.93 (1H, s,5-OH), 8.04 (2H, d, $J = 8 . 5 \\ : \\mathrm { H z }$ ,H-2',H-6'), 7.13 (2H, d, $J = 8 . 5 \\ : \\mathrm { H z }$ H-3',H-5'), 6.86 (1H, s,H-3), 6.72 (1H, s,H-8),3.99 (3H, s, ${ 6 } \\mathrm { - O C H } _ { 3 } .$ ),3.92 (3H, s, ${ \\mathrm { 7 - O C H } } _ { 3 }$ ,3.80(3H,s, $4 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } ^ { \\prime }$ ）， $^ { 1 3 } \\mathrm { C }$ -NMR( $1 2 5 ~ \\mathrm { M H z }$ ，acetone- $. d _ { 6 }$ )， $\\delta$ ：165.0 (C-2), 104.4 (C-3),183.5 (C-4),163.8(C-5), 133.6 (C-6),154.0 (C-7), 92.0 (C-8), 154.1 (C-9), 106.6 (C-10), 124.4 (C-1), 129.1(C-2', 6'), 115.5 (C-3', 5'), 160.2(C-4), 60.6 ( $_ { ( 6 - \\mathrm { O C H } _ { 3 } ) }$ ,56.8( $7 \\mathrm { - O C H } _ { 3 }$ )56.0 $\\scriptstyle 4 ^ { \\prime } \\to \\mathrm { O C H } _ { 3 } ,$ ),。以上数据与文献（Shaheen et al.,2011）基本一致，故鉴定为鼠尾草素（salvigenin）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物3：黄色油状物，ESI-MS m/z： $3 9 1 . 3 \\left[ \\mathrm { M } + \\mathrm { H } \\right] ^ { + }$ ，分子式为 $\\mathrm { C _ { 2 4 } H _ { 3 8 } O _ { 4 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR (500MHz,acetone- $\\cdot d _ { 6 } )$ ), δ: 8.14 (4H, s,H-3,4,6,7), 4.27 (4H, m,H-1',1\"),1.73 (2H,m, H-2',2\"),0.95(6H, t, $J { = } 7 . 5 \\mathrm { H z }$ ,H-8', 8\"), 0.92 (6H, t, $J { = } 7 . 5 \\mathrm { H z }$ ,H-6', 6\"); $^ { 1 3 } \\mathrm { C }$ -NMR( $1 2 5 \\mathrm { M H z }$ ,acetone- $. d _ { \\delta } \\backslash$ )， $\\delta$ 166.1(C-1, 8), 135.2 (C-2, 5), 130.3 (C-3, 4,6,7), 68.0 (C-1, 1\"),39.8 (C-2', 2\"), 31.3 (C-3', 3\"),29.7 (C-4',4\"),23.6 (C-5',5\"),14.3 (C-6',6\"),24.7 (C-7',7\"),11.4 (C-8,8\")。以上数据与献（Dissanayake et al.，2016）基本一致，故鉴定为对苯二甲酸二辛酯[bis-(2-ethylhexyl)terephthalate]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物4：白色粉末，ESI-MSm/z： $4 0 3 . 2 \\left[ \\mathrm { M } + \\mathrm { H } \\right] ^ { + }$ ，分子式为 $\\mathrm { C } _ { 2 5 } \\mathrm { H } _ { 2 6 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 3 }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR(500 MHz, acetone- $. d _ { 6 }$ ), δ: 7.82 (2H, d, $J { = } 7 . 0 \\mathrm { H z }$ ,H-3\", 7\"), 7.52 (1H, t, $J { = } 7 . 5 \\mathrm { H z }$ ,H-5\"), 7.42 (2H, t, $J { = } 8 . 0 \\mathrm { H z }$ ,H-4\",6\"), 4.84 (1H, m, NHCO), 4.08 (1H, m, NHCO), 3.21 (1H, dd, $J = 9 . 5$ ， $1 3 . 5 \\mathrm { H z }$ H-3a), 3.03 (1H, dd, $J { = } 9 . 5$ ， $1 3 . 5 \\mathrm { H z }$ ,H-3b),2.89 (1H, dd, $J = 7 . 5$ ， $1 3 . 5 \\mathrm { H z }$ ,H-3'a),2.75 (1H, dd, $J$ $= 7 . 5$ ， $1 3 . 5 ~ \\mathrm { H z }$ ,H-3'b); $^ { 1 3 } \\mathrm { C }$ -NMR ( $1 2 5 ~ \\mathrm { M H z }$ ，acetone- $\\cdot d _ { 6 }$ ), δ: 171.7 (C-1), 55.9 (C-2), 38.3 (C-3), 139.8 (C-4),129.0 (C-5,9),130.2 (C-6, 8),126.8 (C-7), 63.6 (C-1), 53.9 (C-2),37.6 (C-3),138.9 (C-4),129.0 (C-5', 9),130.2 (C-6,8), 127.2 (C-7), 167.4 (C-1\"),135.3 (C-2\"),128.2 (C-3\",7\"), 130.1 (C-4\",6\"),132.2(C-5\")。以上数据与文献（Xu et al.,2009；李柏榆等，2018)基本一致， 故鉴定为 $N \\mathrm { \\Omega }$ (N-苯甲酰基 $- L$ 苯丙酰基)L苯基丙醇 [N-(N-benzoy- $L$ -phenylalany) $\\cdot L$ -phenylalanol]。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化合物5:淡黄色胶状物，ESI-MSm/z:405.2 $\\mathrm { \\left[ M \\mathrm { + H } \\right] ^ { + } }$ ，分子式为 $\\mathrm { C } _ { 2 2 } \\mathrm { H } _ { 2 8 } \\mathrm { O } _ { 7 }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR(500 MHz, $\\mathrm { C D C l } _ { 3 }$ ), δ: 6.64 (4H, s,H-2,6,2', 6'), 5.59 (2H, s,4,4'-OH),4.47(2H, d, $J { = } 6 . 0 \\mathrm { H z }$ ,H-7,7'), 3.84 (12H, s, 3, 5, 3', $5 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } ^ { \\prime }$ ),2.30 (2H,m,H-8,8'),1.02 (6H, d, $J = 6 . 5 ~ \\mathrm { H z }$ ,9, 9'); $^ { 1 3 } \\mathrm { C }$ -NMR 1 $( 1 2 5 ~ \\mathrm { M H z }$ ， $\\mathrm { C D C l } _ { 3 } .$ ), $\\delta$ :133.3 (C-1, 1), 103.2 (C-2,6,2', 6), 147.0 (C-3,5,3',5'), 134.1 (C-4,4'), 87.5 (C-7,7),44.3 (C-8,8\"),13.1(C-9,9'),56.3 (3,5,3',5'-OCH3)。以上数据与文献（季霄等， 2014）基本一致，故鉴定为fragransin $\\mathbf { B } _ { 1 }$ 。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物6:黄色晶体,ESI-MS $m / z$ : 343.1 $\\boldsymbol { \\left[ \\mathrm { M + H } \\right] ^ { + } }$ ，分子式为 $\\mathrm { C _ { 1 9 } H _ { 1 8 } O _ { 6 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR ${ 5 0 0 } \\mathrm { M H z }$ ，$\\mathrm { C D C l } _ { 3 } .$ ), δ: 7.82 (2H, d, $J = 8 . 5 \\ : \\mathrm { H z }$ ,H-2', 6'), 7.00 (2H, d, $J = 8 . 5 \\ : \\mathrm { H z }$ ,H-3', 5'), 6.81 (1H, s, H-5),6.60 (1H,s,H-3),3.99 (6H,s,6, $\\mathrm { 8 - O C H } _ { 3 } ;$ )，3.92 (3H，s, $\\mathrm { \\ } 7 { \\mathrm { - O C H } } _ { 3 }$ )，3.89 (3H，s, $4 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } \\cdot$ ）${ } ^ { 1 3 } \\mathrm { C } .$ -NMR ( $1 2 5 ~ \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ )， $\\delta$ : 161.3 (C-2),107.0 (C-3),177.4 (C-4),96.3 (C-5),157.7 (C-6),140.4 (C-7), 152.6 (C-8),154.6 (C-9), 112.8 (C-10),123.8 (C-1), 127.7 (C-2',6), 114.4 (C-3', 5),162.2 (C-4'), 56.4 （ $( 6 \\mathrm { - O C H } _ { 3 } ) ,$ ,61.6( $7 \\mathrm { - O C H } _ { 3 } ,$ ,62.3（ $\\underbrace { \\phantom { 1 } 8 \\mathrm { - } \\mathrm { O C H } _ { 3 } } _ { \\mathrm { ~ } } ,$ ,55.6 $( 4 ^ { \\prime } { \\mathrm { - O C H } } _ { 3 } )$ )。以上数据与文献（Shin etal.,2012)基本一致，故鉴定为 $^ { 6 , 7 , 8 , 4 ^ { \\prime } }$ 四甲氧基黄酮(6,7,8,4'-tetramethoxyflavone）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物7：浅黄色油状， $\\mathrm { E S I - M S } \\ : m / \\zeta : 3 1 4 . 1 \\ : [ \\mathrm { M + H } ] ^ { + }$ ，分子式为 $\\mathrm { { C _ { 1 8 } H _ { 1 9 } N O _ { 4 } } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR(500 MHz, $\\mathrm { C D } _ { 3 } \\mathrm { O D } $ ,δ:7.42(1H,d, $J = 1 6 . 0 \\ : \\mathrm { H z }$ ,H-7),7.07 (1H, d, $J { = } 2 . 0 \\mathrm { H z }$ ,H-2),7.03 (2H, d, $J =$ $8 . 0 \\mathrm { H z }$ ,H-2',6),7.00 (1H, dd, $J = 2 . 0 , 8 . 0 \\mathrm { H z }$ ,H-6), 6.78 (1H, d, $J { = } 8 . 0 \\mathrm { H z }$ ,H-5), 6.71 (2H, d, $J$ $= 8 . 0 \\mathrm { H z }$ ,H-3', 5'), 6.93 (1H, d, $J = 1 6 . 0 \\mathrm { H z }$ ,H-8),3.83 (3H, s, $3 \\mathrm { - O C H } _ { 3 } .$ ),3.44(2H，t $, J = 7 . 5 \\ : \\mathrm { H z }$ ， H-8'), 2.72 (2H, t, $J = 7 . 5 ~ \\mathrm { H z }$ ,H-7); $^ { 1 3 } \\mathrm { C }$ -NMR ( $1 2 5 ~ \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D } ;$ )， $\\delta$ ：128.1 (C-1), 111.5 (C-2), 149.9 (C-3), 149.3 (C-4),116.5 (C-5), 123.2 (C-6),142.1 (C-7), 118.7 (C-8),169.2 (C-9), 131.3 (C-1),130.7 (C-2', 6'), 116.3 (C-3', 5'), 156.8 (C-4'), 35.7 (C-7), 42.5 (C-8), 56.4 ( $3 \\mathrm { - O C H } _ { 3 } ,$ 。以上 数据与文献（Darwish etal.,2003；杨洋等，2016）基本一致，故鉴定为 $N .$ -反式-阿魏酰酪胺 (N-trans-feruloyltyramine）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物8：浅黄色油状，ESI-MS $m / z$ : 314.1 $\\mathrm { [ M + H ] } ^ { + }$ ，分子式为 $\\mathrm { { C _ { 1 8 } H _ { 1 9 } N O _ { 4 } } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR(500 $\\mathbf { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ),δ:7.36 (1H,d, $J { = } 2 . 0 \\mathrm { H z }$ ,H-2), 6.99 (2H, d, $J = 8 . 5 \\ : \\mathrm { H z }$ ,H-2',6'),6.92 (1H, dd, $J$ $= 2 . 0$ ， $8 . 0 \\mathrm { H z }$ ,H-6),6.73(1H, d, $J { = } 8 . 0 \\mathrm { H z }$ ,H-5), 6.68 (2H, d, $J { = } 8 . 5 \\mathrm { H z }$ ,H-3',5'),6.60 (1H, d, $J$ $= 1 2 . 5 ~ \\mathrm { H z }$ ,H-7), 5.80 (1H, d, $J = 1 2 . 5 ~ \\mathrm { H z }$ ,H-8),3.83 (3H,s, $3 \\mathrm { - O C H } _ { 3 }$ ),3.38 (2H,t, $J = 7 . 5 ~ \\mathrm { H z }$ H-8'), 2.68 (2H, t, $J = 7 . 5 \\ \\mathrm { H z }$ ,H-7); $^ { 1 3 } \\mathrm { C }$ -NMR ( $1 2 5 ~ \\mathrm { M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D } )$ )， $\\delta$ ：131.2 (C-1), 114.0 (C-2), 148.6 (C-3), 148.6 (C-4), 115.9 (C-5), 124.9 (C-6),138.4 (C-7), 121.6 (C-8),170.3 (C-9), 128.5 (C-1),130.7 (C-2', 6'), 116.3 (C-3', 5), 156.9 (C-4), 35.6 (C-7), 42.4 (C-8'), 56.4 ( $3 \\mathrm { - O C H } _ { 3 } \\rangle$ 。以上 数据与文献（Hwangetal.，2016）基本一致，故鉴定为 $N \\mathrm { . }$ 顺式-阿魏酰酪胺 （ $N _ { \\mathbf { \\ell } }$ -cis-feruloyltyramine）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物9：白色粉末，ESI-MS $m / z$ ：290 $\\mathrm { ^ \\circ \\left[ M \\mathrm { + N a } \\right] ^ { \\ast } }$ ，分子式为 $\\mathrm { C _ { 1 7 } H _ { 1 7 } N O _ { 2 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR (500 MHz, $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ),δ:7.54 (2H,m,H-2,6),7.53 (1H, d, $J = 1 6 . 0 \\ \\mathrm { H z }$ ,H-7), 7.37 (3H, m, H-3, 4, 5), 7.05 (2H, d, $J = 8 . 5 \\ : \\mathrm { H z }$ ,H-2',6),6.71 (2H, d, $J { = } 8 . 5 \\operatorname { H z }$ ,H-3', 5'), 6.56 (1H, d, $J = 1 6 . 0 \\mathrm { H z }$ ,H-8), 3.46 (2H, t, $J = 7 . 5 ~ \\mathrm { H z }$ ,H-8'), 2.74 (2H, t, $J = 7 . 5 ~ \\mathrm { H z }$ ,H-7); $^ { 1 3 } \\mathrm { C }$ -NMR( $\\mathrm { 1 2 5 ~ M H z }$ ， $\\mathrm { C D } _ { 3 } \\mathrm { O D } \\rangle$ )， $\\delta$ ： 136.3 (C-1),128.8 (C-2, 6),129.9 (C-3, 5),130.7 (C-4),141.6 (C-7), 121.9 (C-8), 168.6 (C-9), 131.3 (C-1),130.8 (C-2',6),116.3 (C-3',5'),35.8 (C-7),42.6 (C-8)。以上数据与文献（冯文明 等，2018）基本一致，故鉴定为trans $. N .$ cinnamoyltyramine。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "化合物10:浅黄色粉末,ESI-MSm/z:324.2 $\\mathrm { \\left[ M \\mathrm { + H } \\right] ^ { + } }$ ，分子式为 $\\mathrm { C _ { 1 9 } H _ { 2 1 } N _ { 3 } O _ { 2 } }$ 。 $\\mathrm { ^ { 1 } H }$ -NMR(500 MHz, $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ),δ:7.42 (1H,d, $J { = } 8 . 0 \\mathrm { H z }$ ,H-7),7.24 (1H, d, $J { = } 8 . 0 \\mathrm { H z }$ ,H-4),7.21 (1H, s,H-8), 7.11 (1H,m,H-6), 7.07 (1H, m,H-5),6.08 (1H, dd, $J = 1 1 . 0$ ， $1 7 . 5 \\mathrm { H z }$ ,H-17), 5.10(1H, d, $J = 1 0 . 5$ Hz, H-18a), 5.08 (1H, d, $J = 1 7 . 5 \\ : \\mathrm { H z }$ ,H-18b),4.22 (1H, $\\mathsf { q }$ $J { = } 7 . 0 \\mathrm { H z }$ ,H-12),1.55 (3H, s, H-19), 1.54 (3H, s,H-20),1.52 (3H,d, $J { = } 7 . 0 \\mathrm { H z }$ ,H-15); $^ { 1 3 } \\mathrm { C } .$ -NMR $( 1 2 5 ~ \\mathrm { M H z }$ $\\mathrm { C D } _ { 3 } \\mathrm { O D }$ ), δ: 146.0 (C-2), 104.3 (C-3),127.3 (C-3a), 119.8 (C-4),121.2 (C-5),122.6 (C-6),112.7 (C-7),136.9 (C-7a), 114.3 (C-8),124.8 (C-9), 162.2 (C-10), 52.6 (C-12),168.7 (C-13), 20.7 (C-15), 40.5 (C-16),146.2 (C-17),112.6(C-18),28.1(C-19),28.2(C-20)。以上数据与文献（范翠梅等，2016)基本一致， 故鉴定为新海胆灵A（neoechinulinA）。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4抗炎测试结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1猫须草不同极性部位抗炎结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，除水部位外，其余部位均显示出抑制NO生成活性，中低极性的石油醚、乙酸乙酯部位抗炎活性最强，表明这两个部位是猫须草抗炎作用的主要部位。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/381cabbaebc34ceb95e1bff408030fc9488573439d176642fb9d2d5c3acdac7a.jpg",
+        "table_caption": [
+            "able 1 Inhibitory effects of different polarity fractions on NO production in RAW264.7 c "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样品 Sample</td><td>IC50 (μg·mL-1)</td></tr><tr><td>95%乙醇提取物95% ethanol extract</td><td>43.297±0.013</td></tr><tr><td>石油醚部位 Petroleum ether fraction</td><td>15.678±0.022</td></tr><tr><td>乙酸乙酯部位 Ethyl acetate fraction</td><td>19.065±0.005</td></tr><tr><td>正丁醇部位 n-butanol fraction</td><td>53.829±0.011</td></tr><tr><td>水部位 Water-soluble fraction</td><td>>100</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2化合物抗炎活性结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对从活性部位中得到的10个化合物进行抗炎活性筛选，由表2可知，化合物5-9表现出一定的抗炎活性，结构类型涉及黄酮、木脂素和酰胺类，其中获得的酰胺类成分（7-9)均显示出一定的NO生成抑制活性，表明该类成分是猫须草抗炎作用的主要成分之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d2a123c7139c9a2a0aed253a6575ec8c4a4350fadf6a0baa29776d5d980b535.jpg",
+        "table_caption": [
+            "表1不同极性部位对RAW264.7细胞生成NO的抑制作用",
+            "表2化合物1-10对RAW264.7细胞生成NO的抑制作用",
+            "Table 2 Inhibitory effects of compounds 1-10 on NO production in RAW264.7 cells "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>化合物 Compound</td><td>IC50 （μmol·L-1)</td></tr><tr><td>1</td><td>>50.00</td></tr><tr><td>2</td><td>>50.00</td></tr><tr><td>3</td><td>>50.00</td></tr><tr><td>4</td><td>>50.00</td></tr><tr><td>5</td><td>28.81</td></tr><tr><td>6</td><td>41.80</td></tr><tr><td>7</td><td>40.20</td></tr><tr><td>8</td><td>48.56</td></tr><tr><td>9</td><td>36.41</td></tr><tr><td>10</td><td>>50.00</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "一氧化氮（NO）是一种高活性的含氮自由基，它既具有第二信使和神经递质的功能，又可以作为效应分子对动脉粥样硬化、关节炎、痛风、癌症等多种炎症性疾病的发生与发展过程起到重要调节作用（Bansal etal.,2016)，这种作用与其参与NF-kB、MAPK、JAK/STAT等多种信号通路密切相关，NO常作为判断炎症反应及抗炎药物筛选的重要指标。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验利用NO炎症模型对猫须草提取物及其化学成分进行抗炎活性评价，结果发现大部分化合物具有较好的 NO 生成抑制活性。多项研究也证实：N-反式-阿魏酰酪胺（7）和$N \\mathrm { . }$ 顺式-阿魏酰酪胺（8）在Hep3B 细胞模型中能够抑制IL-6介导的 STAT3 激活（Hwang etal.,2016)。trans-N-cinnamoyltyramine(9)对环氧化酶I/II显出一定的抑制作用（Park,2007）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在高剂量 $\\mathrm { ^ { \\prime } 0 . 4 5 \\ g { \\cdot } k g ^ { - 1 } } ,$ ）下，泡桐素（1）能够明显抑制二甲苯致小鼠耳肿胀和减少醋酸致小鼠扭体次数（李燕婧等，2007)。鼠尾草素（2）对脾细胞分泌IL-4和 $\\mathrm { I F N } { - } \\gamma$ 具有调节作用（Noori et al.,2013）。fragransin $\\mathbf { B } _ { 1 }$ （5）在体外能够抑制炎症因子TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 、IL-1β和IL-8的产生，在体内耳肿胀炎症模型中,fragransin $\\mathbf { B } _ { 1 }$ 的抗炎作用优于阿司匹林(Chen etal.,2020）。新海胆灵A（10）在高剂量下（ $\\mathrm { 1 0 0 ~ \\mu m o l { \\cdot } L ^ { - 1 } }$ ）才显示出较好的NO生成抑制作用，还能够抑制TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 、 $\\mathrm { I L } \\mathrm { - } 1 \\beta$ 分泌（Kimetal.,2013)。研究结果表明这些成分能够有效抑制炎症因子分泌，缓解炎症反应，以达到抗炎作用，是潜在的抗炎分子。从抗炎成分的结构类型来看，这些成分涉及黄酮、木脂素、含氮化合物等，表明猫须草抗炎作用是多类型成分共同作用的结果。本研究不仅阐明猫须草抗炎活性部位及其物质基础，为其进一步在抗炎方面的开发利用提供理论依据。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BANSAL SK, YADAV R, KUMAR A, et al., 2016. Nitric oxide: from the molecule of the year to an important signaling molecule [J]. Indian JHealth Sci Care,3(1): 39-44.   \nCHEN WD, ZHAO YL,DAI Z,et al., 2020. Bioassay-guided isolation of anti-inflammatory diterpenoids with highly oxygenated substituents from kidney tea (Clerodendranthus spicatus) [J]. JFood Biochem, 44(12): 13511-13521.   \nDISSANAYAKE AA,WAGNER CM, NAIR MG, 2016. Chemical characterization of lipophilic constituents in the skin of migratory adult sea lamprey from the great lakes region [J]. PLoS ONE, 11(12): 1-17.   \nDARWISHFM,REINECKE MG,20O3.Ecdysteroids and other constituents from Sida spinosa L. [J]. Phytochemistry, 62(8): 1179-1184.   \nEditorial Commitee of Chinese Herb Medicine,State Administration of Traditional Chinese Medicine,2OO5. Chinese Herb Medicine，Vol. Dai Medicine [M]. Shanghai: Shanghai Science and Technology Press:155-156.[国家中医药管理局《中华本草》编委会,2005．中 华本草.傣药卷[M]．上海：上海科学技术出版社：155-156].   \nFAN CM, CHOU GX, ZHU EY, 2016. Chemical constituents from Crotalaria sessiliflora L. [J]. Acta Pharm Sin,51(5):775-779.[范翠梅，俞桂新，朱恩圆，2016.野百合的化学成分研 究[J].药学学报,51(5): 775-779.]   \nFENG W, YANG JS,2010. Studies on chemical constituents of Fomes fomentarius (L. Ex. Fr.) [J]. Chin PharmJ,45(20):1528-1530.[冯薇，杨峻山,2010．木蹄层孔菌化学成分研究[J]．中 国药学杂志，45(20): 1528-1530.]   \nFENG WM, HAN ZZ, WANG ZT, 2018. Chemical constituents from Dioscorea opposite [J]. Chin Tradit Herbal Drugs,49(21): 5034-5039.[冯文明，韩竹箴，王峥涛，2018．山药化学成分 研究[J]．中草药，49(21): 5034-5039.]   \nGUO YX,HU MR,GE PY, 2020. Study on the protective effect of flavone of Clerodendranthus spicatus on renal tubular epithelial cells in acute renal failure [J]. Mod Tradit Chin Med Mat-Mat World Sci Technol,22(6):1773-1779.[郭银雪，胡茂蓉，葛平玉，2020．肾茶黄 酮对急性肾衰中肾小管上皮细胞保护作用的研究[J].世界科学技术-中医药现代化， 22(6): 1773-1779.]   \nHWANG JT, KIM Y, JANG HJ, et al., 2016. Study of the UV light conversion of feruloyl amides from Portulaca oleracea and their inhibitory effect on IL-6-induced STAT3 activation [J]. Molecules, 21(7): 865-877.   \nJI X,WU SL, JIA TZ, et al., 2O14. Study on chemical constituents of Myristicae semen [J]. Chin Tradit Herbal Drugs,45(23):3367-3372.[季霄，吴士龙，贾天柱，等，2014．肉豆蔻的化 学成分研究[J]．中草药，45(23):3367-3372.]   \nKIM KS, CUI X, LEE DS,et al., 2013. Anti-Inflammatory effect of neoechinulin a from the marine fungus Eurotium sp. SF-5989 through the suppression of NF-kB and p38 MAPK pathways in lipopolysaccharide-stimulated RAW264.7 macrophages [J]. Molecules,18(11): 113245-13259.   \nLIU XH, XIE YX, SU CD, et al.， 2O17. Research progress of Clerodendranthus spicatus in treatment of chronic kidney disease [J]. Hunan J Tradit Chin Med, 33(8):193-194.[刘少会, 谢永祥，苏朝东，等，2017．肾茶治疗慢性肾脏疾病的研究进展[J]．湖南中医杂志， 33(8): 193-194.]   \nLI BY, SHAO YT, CAO JX, et al., 2018. Chemical constituents from the fruits of Melodinus khasianus [J].JChin Med Mat,41(9): 2112-2115.[李柏榆，邵玉亭，曹建新，等，2018．景 东山橙果实化学成分研究[J]．中药材，41(9):2112-2115.]   \nLI YJ, ZHONG ZX, ZHOU GF, et al., 2007. The experiment studies on pharmacological action of paulownin [J].Guangxi Sci,14(4):405-406.[李燕婧，钟正贤，周桂芬，等，2007．泡桐 甲素药理作用的实验研究[J].广西科学，14(4):405-406.]   \nNOORI S, HASSAN ZM, YAGHMAEI B, et al., 2013. Antitumor and immunomodulatory effects of salvigenin on tumor bearing mice [J]. Cell Immunol, 286(1-2): 16-21.   \nPARK JB, 2007. Caffedymine from cocoa has cox inhibitory activity suppressing the expression of a platelet activation marker P-selectin [J]. J Agric Food Chem, 55(6): 2171-2175.   \nSHIN HJ, NAM JW, YOON UJ, et al., 2012. Identification of three new flavonoids from the peels of Citrus unshiu [J]. Helv Chim Acta, 95(2): 240-245.   \nSHAHEEN UY, HUSSAIN MH,AMMAR HA, 2011. Cytotoxicity and antioxidant activity of new biologically active constituents from Salvia lanigra and Salvia splendens [J]. Pharmacogn J, 3(22): 36-48.   \nWANG SH, CHENG JT, GUO C, et al., 2019. Chemical constituents of Phyllanthus emblic and its anti-inflammation activities [J]. Chin Tradit Herbal Drugs, 50(2O): 4873-4878.[王淑慧, 程锦堂，郭丛，等，2019.余甘子化学成分研究[J]．中草药，50(20):4873-4878.]   \nXU BX,HUANG ZM, LIU CX,et al.,2O09. Synthesis and anti-hepatitis B virus activities of Matijing-su derivatives [J]. Bioogan Med Chem, 17(8): 3118-3125.   \nXIE ZH, DI PT, LI ZF, 2O19. Research progress on mechanism of Clerodendranthus spicatus on treating gout [J].JBasic Chin Med,25(6):860-863.[谢招虎，狄朋桃，李兆福，2019．猫 须草治疗痛风的机制研究进展 [J]．中国中医基础医学杂志，25(6):860-863.]   \nYANG Y, MEI WL, DONG WH, et al., 2016. Bioactive components from agarwood originating from Aquilaria crassna [J].J Trop Subtrop Bot,24(5): 577-583.[杨洋，梅文莉，董文化， 等，2016．柯拉斯那沉香的生物活性成分研究 [J]．热带亚热带植物学报，24(5): 577-583.]   \nZHANG YY, WU JC,LI SP, et al.， 2021. Research progress on chemical constituents and pharmacological actions of Clerodendranthus spicatus [J]. Acta Chin Med Pharmcol, 49(1): 112-120.[张永怡，吴家超，李水萍，等，2021．民族药肾茶的化学成分与药理作用研究 进展[J]．中医药学报，49(1):112-120.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

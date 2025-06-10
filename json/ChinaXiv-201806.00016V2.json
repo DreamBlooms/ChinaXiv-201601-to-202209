@@ -1,0 +1,411 @@
+[
+    {
+        "type": "text",
+        "text": "Lyapunov-type inequalities for a class of nonlinear higher order differential equations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jun Zheng1,Haofan Wang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Mathematics, Southwest Jiaotong University Chengdu,Sichuan,P.R.ofChina 611756 2 School of InformationScience & TechnologySouthwest Jiaotong University Chengdu611756,Sichuan,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inthis work,weestablshseveralLyapunov-typeiequalitiesforalassofonnearhighrorderdieretialequationshavingfo ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\psi ( u ^ { ( m ) } ( x ) ) ) ^ { \\prime } + \\sum _ { i = 0 } ^ { n } r _ { i } ( x ) f _ { i } ( u ^ { ( i ) } ( x ) ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "with anti-periodic boundary conditions,where $m > n \\geq 0$ are integers, $\\psi$ and $f _ { i } ( i = 0 , 1 , 2 , . . . , n )$ satisfy certain structural conditions such thatthecosiderdequatiosavegenraloearitis.Tebaidiequaitseetesiosdomplementsofeexistigults the literature. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:Lyapunov inequality,Higher order differential equation, nonlinear equation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If $u$ is a nontrivial solution of the following second order differential equation ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { u ^ { \\prime \\prime } ( x ) + r ( x ) u ( x ) = 0 , x \\in ( a , b ) , } } \\\\ { { u ( a ) = u ( b ) = 0 , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $r$ is a continuous and nonnegative function defined in $[ a , b ]$ , then the following inequality ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } r ( x ) \\mathrm { d } x \\geq { \\frac { 4 } { b - a } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "holds,which was first provedbyLyapunov[7]and knownas“Lyapunov inequality\".The Lyapunov inequalityand its various generalizationshaveproved tobeusefultools inoscilationthory,disconjugacy,genvalueproblems,andnumerousoterapplications forthe theoriesofdifferentialanddifference equations,andalsoin timesales.Since theappearanceofLyapunov's fundamentalpaper,thereare mayimprovementsandgeneralizationsof(1)intheliteratureEspecialy,theLypunovinequalityhasbengeneralizedextensivelytotheigher-orderlinearequationssee[1-4,6,8-13,15,14,16,8]andreferenceserein. Butsofar,onlyafewresultshavebeenachievedforhigherorderdifferentialequations thathaveeither generalnonlinearitiesor anti-periodic boundaryconditions.For example,[12]and[17]havecontributedtocertain higherequationswithanti-periodic boundary conditions,and to general nonlinear second order equations with Dirichlet boundaryconditions respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 2012,Wang[12]considered Lyapunov-type inequalities forcertain higher orderdiferentialequations withanti-periodic boundary conditions.The main result in [12] is as follows: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theorem A If $u ( x )$ is a nonzero solution of the following $( m + 1 )$ -order half-linear differential equation anti-periodic boundary conditions: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( | u ^ { ( m ) } ( x ) | ^ { p - 2 } u ^ { ( m ) } ( x ) ) + r ( x ) | u ( x ) | ^ { p - 2 } u ( x ) = 0 , ~ x \\in ( a , b ) , } \\\\ & { u ^ { ( i ) } ( a ) + u ^ { ( i ) } ( b ) = 0 , i = 0 , 1 , 2 , . . . , m , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "then ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int _ { a } ^ { b } | r ( x ) | d x > 2 \\biggl ( \\frac { 2 } { b - a } \\biggr ) ^ { m ( p - 1 ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inarecent work[17],theauthors establishedLyapunov-type inequalitiesforaclassofnonlinearsecondorderequations with a general form as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( \\psi ( u ^ { \\prime } ( x ) ) ) ^ { \\prime } + r ( x ) f ( u ( x ) ) = 0 , x \\in ( a , b ) , } \\\\ & { u ( a ) = u ( b ) = 0 . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structural conditions are given as below, which allow the functions $\\psi$ and $f$ to have a large class of nonlinearities (see Section 1 and 4 in [17],and Remark 1,for instance): ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(A) $\\psi , f \\in C ( ( - \\infty , \\infty ) ) \\cap C ^ { 1 } ( ( 0 , \\infty ) )$ with $f \\not \\equiv 0$ on $( - \\infty , \\infty )$   \n(B) $\\psi$ is odd on $( - \\infty , \\infty )$   \n(C) $f ( t ) \\geq 0$ for all $t \\in [ 0 , \\infty )$   \n(D） There exists $k _ { 0 } > 0$ such that $| f ( t ) | \\leq k _ { 0 } \\psi ( | t | )$ for all $t \\in ( - \\infty , \\infty )$   \n(E）There exists constants $\\alpha , \\beta \\ge 0$ such that ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha \\psi ( t ) \\leq t \\psi ^ { \\prime } ( t ) \\leq \\beta \\psi ( t ) , \\ \\forall t > 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(F） There exists constants $\\theta _ { 0 } , \\delta _ { 0 } \\geq 0$ such that",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { 0 } f ( t ) \\leq t f ^ { \\prime } ( t ) \\leq \\delta _ { 0 } f ( t ) , \\ \\forall t > 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main result in [17] is the following theorem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theorem B Suppose that conditions (A)-(D) are satisfied.Let $u$ be a nontrivial solution of (3). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "i If $\\psi$ satisfies (E), then $\\begin{array} { r } { \\int _ { a } ^ { b } | r ( x ) | \\mathrm { d } x \\geq \\frac { 2 } { k _ { 0 } } \\cdot \\frac { 1 + \\alpha } { 1 + \\beta } \\cdot \\operatorname* { m i n } \\big \\{ \\big ( \\frac { 2 } { b - a } \\big ) ^ { \\alpha } , \\big ( \\frac { 2 } { b - a } \\big ) ^ { \\beta } \\big \\} . } \\end{array}$ (i) If $f$ satisfies ), hen $\\begin{array} { r } { \\int _ { a } ^ { b } | r ( x ) | \\mathrm { d } x \\geq \\frac { 2 } { k _ { 0 } } \\cdot \\frac { 1 + \\theta _ { 0 } } { 1 + \\delta _ { 0 } } \\cdot \\operatorname* { m i n } \\big \\{ \\big ( \\frac { 2 } { b - a } \\big ) ^ { \\theta _ { 0 } } , \\big ( \\frac { 2 } { b - a } \\big ) ^ { \\delta _ { 0 } } \\big \\} . } \\end{array}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our motivation for this paper comes from the papersof[12]and[17].Weatemptto establish several newLyapunov-type inequalities foralarge class of nonlinear higher diferential equations underanti-periodic boundaryconditions.The results obtained in this paper are generalizations of [12] and [17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Problem setting and main results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we establish Lyapunov inequalities for the following equation ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { ( \\psi ( u ^ { ( m ) } ( x ) ) ) ^ { \\prime } + \\displaystyle \\sum _ { i = 0 } ^ { n } r _ { i } ( x ) f _ { i } ( u ^ { ( i ) } ( x ) ) = 0 , x \\in ( a , b ) , } \\\\ { u ^ { ( j ) } ( a ) + u ^ { ( j ) } ( b ) = 0 , j = 0 , 1 , 2 , . . . , m , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $r$ is a given function defined in $[ a , b ] , \\psi$ and $f$ satisfy some of the following structural conditions: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$( H _ { 1 } ) \\psi , f \\in C ( ( - \\infty , \\infty ) ) \\cap C ^ { 1 } ( ( 0 , \\infty ) ) \\mathrm { ~ w i t h ~ } \\sum _ { i = 0 } ^ { n } | f _ { i } | \\neq 0 \\mathrm { ~ o n ~ } ( - \\infty , \\infty ) , i = 0 , 1 , 2 , . . . , n .$ （204号   \n（204号 $( H _ { 2 } ) \\psi$ is odd on $( - \\infty , \\infty )$ ：   \n$( H _ { 3 } )$ $f _ { i } ( t ) \\geq 0$ for all $t \\in [ 0 , \\infty )$ ， $i = 0 , 1 , 2 , . . . , n$   \n（204 $( H _ { 4 } )$ There exists constants $k _ { i } \\geq 0$ satisfying $\\sum _ { i = 0 } ^ { n } k _ { i } > 0$ such that $| f _ { i } ( t ) | \\le k _ { i } \\psi ( | t | )$ for all $t \\in ( - \\infty , \\infty )$ ， $i = 0 , 1 , 2 , . . . , n$   \n$( H _ { \\psi } )$ There exists constants $\\alpha , \\beta \\ge 0$ such that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha \\psi ( t ) \\leq t \\psi ^ { \\prime } ( t ) \\leq \\beta \\psi ( t ) , \\forall t > 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$( H _ { f _ { i } } )$ There exists constants $\\theta _ { i } , \\delta _ { i } \\geq 0$ such that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } f _ { i } ( t ) \\leq t f _ { i } ^ { \\prime } ( t ) \\leq \\delta _ { i } f _ { i } ( t ) , \\forall t > 0 , i = 0 , 1 , 2 , . . . , n .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Remark 1 (i) The structural condition $\\left( H _ { \\psi } \\right)$ (or $( H _ { f _ { i } } ) _ { \\cdot }$ ） was firstly presented in $I I 7 J ,$ which is a slight version given by （20 $\\alpha = \\beta = p - 1$ $\\psi ( t ) = | t | ^ { p - 2 } t \\left( p > 1 \\right)$ $\\textstyle \\alpha = a , \\beta = a + { \\frac { 1 } { \\ln d } }$ i， $( H _ { \\psi } )$ $\\psi ( t ) = | t | ^ { a - 1 } t \\log _ { c } ( b | t | + d ) , a , b > 0 , c , d > 1 .$ $\\psi$ $\\begin{array} { r } { \\psi ( t ) = \\frac { | t | ^ { a - 1 } t } { \\log _ { c } ( b | t | + d ) } } \\end{array}$ $b > 0 , c , d >$ （204 $\\begin{array} { r } { 1 , a > \\frac { 1 } { \\ln d } } \\end{array}$ with $\\alpha = a - \\textstyle { \\frac { 1 } { \\ln d } } , \\beta = a$ 讥 $\\left( H _ { \\psi } \\right)$ . More examples ofnonlinearfunctions satisfying $( H _ { \\psi } )$ can be found in $I I 7 _ { \\bf { + } }$ Section 1 and $^ { 4 ] }$ ，   \n（204号 $( i i ) \\ B y \\ ( H _ { 1 } ) - ( H _ { 4 } ) , \\psi ( 0 ) = f _ { i } ( 0 ) = 0 \\ ( i = 0 , 1 , 2 , . . . , n )$ and $\\psi ( t ) \\geq 0$ for any $t \\geq 0$ Furthermore,if $\\psi$ (or $f _ { i } )$ satisfies $\\left( H _ { \\psi } \\right)$ (or $\\left( H _ { f _ { i } } \\right)$ ), then $\\psi ^ { \\prime } ( t ) \\geq 0$ (or $f _ { i } ^ { \\prime } ( t ) \\geq 0 ,$ ,which guarantees the increasing monotonicity of $\\psi ( t )$ (or $f _ { i } ( t ) )$ in $t \\geq 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Throughout this paper, we always assume that $m > n \\geq 0$ are integers, $r _ { i } \\in L ^ { 1 } ( a , b )$ with $r _ { i } \\not \\equiv 0$ on $( a , b )$ $( i = 0 , 1 , 2 , . . . , n )$ and conditions $\\left( H _ { 1 } \\right) - \\left( H _ { 4 } \\right)$ are satisfied. Moreover, we say $u$ is a solution of (4) if $u \\in C ^ { m + 1 } ( a , b ) \\cap C ^ { m } ( [ a , b ] )$ ， $\\psi ( u ^ { ( m ) } ( x ) )$ is absolutely continuous in $x$ ，and $u$ satisfies the equation in (4) almost everywhere in $( a , b )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The main result in this paper is given below. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Theorem1 Suppose that (4) admits a nontrivial solution. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { H _ { \\psi } ) , t h e n \\displaystyle \\sum _ { i = 0 } ^ { n } \\left( \\int _ { a } ^ { b } \\left| r _ { i } \\right| d x \\cdot k _ { i } \\cdot \\operatorname* { m a x } \\left\\{ \\left( \\frac { b - a } { 2 } \\right) ^ { \\alpha ( m - i ) } , \\left( \\frac { b - a } { 2 } \\right) ^ { \\beta ( m - i ) } \\right\\} \\right) \\geq \\frac { 2 ( 1 + \\alpha ) } { 1 + \\beta } . } } \\\\ { { \\cdot { H _ { f } } _ { \\mathrm { t } } ) \\left( i = 0 , 1 , 2 , \\ldots , n \\right) , t h e n \\displaystyle \\sum _ { i = 0 } ^ { n } \\left( \\int _ { a } ^ { b } \\left| r _ { i } \\right| d x \\cdot k _ { i } \\cdot \\frac { 1 + \\delta _ { i } } { 1 + \\theta _ { i } } \\cdot \\operatorname* { m a x } \\left\\{ \\left( \\frac { b - a } { 2 } \\right) ^ { \\theta _ { i } ( m - i ) } , \\left( \\frac { b - a } { 2 } \\right) ^ { \\delta _ { i } ( m - i ) } \\right\\} \\right) \\geq 2 . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Corollary 2 If $u$ is a nontrivial solution of (4) with $\\psi ( t ) = f _ { i } ( t ) = | t | ^ { p - 2 } t , p > 1 , i = 0 , 1 , 2 , . . . , n ,$ then ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 0 } ^ { n } \\left( \\int _ { a } ^ { b } | r _ { i } | d x \\cdot \\left( { \\frac { b - a } { 2 } } \\right) ^ { ( p - 1 ) ( m - i ) } \\right) \\geq 2 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Particulary, if $n = 0$ ，there holds $\\begin{array} { r } { \\int _ { a } ^ { b } | r _ { 0 } | d x \\geq \\frac { 2 ^ { m ( p - 1 ) + 1 } } { ( b - a ) ^ { m ( p - 1 ) } } } \\end{array}$ (b-a)m(p-1),which is the same as (2). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3Proof of main result ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We present first some auxiliary results needed in the main proofs. In this section, we always write $\\begin{array} { r } { \\Psi ( t ) = \\int _ { 0 } ^ { t } \\psi ( s ) \\mathrm { d } s } \\end{array}$ and $\\begin{array} { r } { F _ { i } ( t ) = \\int _ { 0 } ^ { t } f _ { i } ( s ) \\mathrm { d } s ( i = 0 , 1 , 2 , . . . , n ) } \\end{array}$ for $t \\geq 0$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lemma 3 [17] Assume that $\\psi$ satisfies $( H _ { 1 } ) – ( H _ { 4 } )$ and $\\left( H _ { \\psi } \\right)$ . The following results hold true. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(i) $\\psi ( s t ) \\leq \\operatorname* { m a x } \\{ s ^ { \\alpha } , s ^ { \\beta } \\} \\psi ( t )$ ， $\\forall s , t \\geq 0$   \n(i) $\\Psi$ s $\\dot { C } ^ { 2 } -$ contiuous on $( 0 , + \\infty )$ , and convex on $[ 0 , + \\infty )$   \n(iii) $\\begin{array} { r } { \\frac { t \\psi ( t ) } { 1 + \\beta } \\leq \\Psi ( t ) \\leq \\frac { t \\psi ( t ) } { 1 + \\alpha } } \\end{array}$ ， $\\forall t \\geq 0$ ），",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Remark 2 The function $f _ { i }$ satisfying ( $\\mathbf { \\bar { \\Pi } } _ { H _ { 1 } } )$ $( H _ { 4 } )$ and $\\left( H _ { f _ { i } } \\right)$ and the function $F _ { i }$ have similar properties as above. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lemma 4 Let u be a $C ^ { m }$ -contious function on $[ a , b ]$ satisfying (4b). The following inequalities hold: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m a x } _ { x \\in [ a , b ] } | u ^ { ( i ) } ( x ) | \\leq \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { m - i } \\cdot \\frac { 1 } { b - a } \\cdot \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | d x , ~ i = 0 , 1 , 2 , . . , m - 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proof.It suffices to note that ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle | u ^ { ( i ) } ( x ) | = \\frac { 1 } { 2 } \\bigg | \\int _ { a } ^ { x } u ^ { ( i + 1 ) } ( y ) \\mathrm { d } y + \\int _ { b } ^ { x } u ^ { ( i + 1 ) } ( y ) \\mathrm { d } y \\bigg | } \\\\ { \\displaystyle \\qquad \\leq \\frac { 1 } { 2 } \\bigg ( \\int _ { a } ^ { x } \\big | u ^ { ( i + 1 ) } ( y ) \\big | \\mathrm { d } y + \\int _ { x } ^ { b } \\big | u ^ { ( i + 1 ) } ( y ) \\big | \\mathrm { d } y \\bigg ) } \\\\ { \\displaystyle \\qquad \\leq \\frac { 1 } { 2 } \\int _ { a } ^ { b } \\big | u ^ { ( i + 1 ) } ( y ) \\big | \\mathrm { d } y ~ ( i = 0 , 1 , 2 , . . , m - 1 ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lemma 5 Let u be a $C ^ { m }$ -continuous function on $[ a , b ]$ satisfying (4b). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(i）If $f _ { i }$ satisfies $( H _ { f _ { i } } ) ( i = 0 , 1 , 2 , . . , n )$ ，then ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { f _ { i } \\bigg ( \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { m - i } \\frac { 1 } { b - a } \\cdot \\displaystyle \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | d x \\bigg ) \\cdot \\displaystyle \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | d x } \\\\ & { \\leq ( 1 + \\delta _ { i } ) \\cdot \\operatorname* { m a x } \\bigg \\{ \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\theta _ { i } ( m - i ) } , \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\delta _ { i } ( m - i ) } \\bigg \\} \\cdot \\displaystyle \\int _ { a } ^ { b } F _ { i } \\big ( | u ^ { ( m ) } ( x ) | \\big ) d x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(ii)If $\\psi$ satisfies $\\left( H _ { \\psi } \\right)$ ,then for $i = 0 , 1 , 2 , . . , n ,$ there holds ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\psi \\bigg ( \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { m - i } \\cdot \\frac { 1 } { b - a } \\cdot \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | d x \\bigg ) \\cdot \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | d x } \\\\ & { \\leq ( 1 + \\beta ) \\cdot \\operatorname* { m a x } \\bigg \\{ \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\alpha ( m - i ) } , \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\beta ( m - i ) } \\bigg \\} \\cdot \\int _ { a } ^ { b } \\Psi ( | u ^ { ( m ) } ( x ) | ) d x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proof. We only prove (i). Indeed, by Lemma 3 (i)-(ii),we get ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { f _ { i } \\left( \\left( \\cfrac { b - a } { 2 } \\right) ^ { m - i } \\cfrac { 1 } { b - a } \\cdot \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | \\mathrm { d } x \\right) \\cdot \\cfrac { 1 } { b - a } \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | \\mathrm { d } x } \\\\ & { \\leq \\operatorname* { m a x } \\left\\{ \\left( \\cfrac { b - a } { 2 } \\right) ^ { \\theta _ { 1 } ( m - i ) } , \\left( \\cfrac { b - a } { 2 } \\right) ^ { \\delta _ { i } ( m - i ) } \\right\\} \\cdot f _ { i } \\left( \\cfrac { 1 } { b - a } \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | \\mathrm { d } x \\right) \\cdot \\cfrac { 1 } { b - a } \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | \\mathrm { d } x } \\\\ & { \\leq \\operatorname* { m a x } \\left\\{ \\left( \\cfrac { b - a } { 2 } \\right) ^ { \\theta _ { 1 } ( m - i ) } , \\left( \\cfrac { b - a } { 2 } \\right) ^ { \\delta _ { i } ( m - i ) } \\right\\} \\cdot ( 1 + \\delta _ { i } ) \\cdot F _ { i } \\left( \\cfrac { 1 } { b - a } \\int _ { a } ^ { b } | u ^ { ( m ) } ( x ) | \\mathrm { d } x \\right) } \\\\ & { \\leq \\operatorname* { m a x } \\left\\{ \\left( \\cfrac { b - a } { 2 } \\right) ^ { \\theta _ { 1 } ( m - i ) } , \\left( \\cfrac { b - a } { 2 } \\right) ^ { \\delta _ { i } ( m - i ) } \\right\\} \\cdot ( 1 + \\delta _ { i } ) \\cdot \\cfrac { 1 } { b - a } \\cdot \\int _ { a } ^ { b } F _ { i } \\left( | u ^ { ( m ) } ( x ) | \\right) \\mathrm { d } x . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Proof of Theorem 1. Without loss of generality, we assume that $\\begin{array} { r } { c = \\int _ { a } ^ { b } | u ^ { ( m ) } | \\mathrm { d } x > 0 } \\end{array}$ .Otherwise, if $\\begin{array} { r } { \\int _ { a } ^ { b } | u ^ { ( m ) } | \\mathrm { d } x = 0 } \\end{array}$ $| \\boldsymbol { u } ^ { ( m ) } | \\equiv 0$ due to the continuity of $\\boldsymbol { u } ^ { ( m ) }$ . That is to say $u ( x ) \\equiv P _ { m - 1 } ( x )$ , a polynomial of $( m - 1 )$ -th degree. However, by the boundary conditions,it follows $P _ { m - 1 } ( x ) \\equiv 0$ ,which is a contradiction with our assumption that $u$ is a nontrivial solution. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Firstly, we prove Theorem 1 (i) under the assumption that $\\psi$ satisfies the structural condition $\\left( H _ { \\psi } \\right)$ . Multiplying (4) by $u ^ { ( m - 1 ) }$ integrating over $( a , b )$ , and using Lemma 3 (ii), $( H _ { 2 } ) – ( H _ { 4 } )$ ,Lemma 4, and Lemma 5 (ii), we get ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\int _ { \\mathcal { A } } ^ { \\infty } \\Psi \\{ | x ^ { ( n ) } | \\} d x \\leq \\frac { 1 } { 1 - \\alpha } \\displaystyle \\int _ { x } ^ { x } \\phi ( | x ^ { ( n ) } | ) | x ^ { ( n - 1 ) } | \\mathrm { d } x } \\\\ & { = \\frac { 1 } { 1 - \\alpha } \\displaystyle \\int _ { x } ^ { x } \\phi ( | x ^ { ( n ) } \\rangle \\mathrm { d } x ) } \\\\ & { = \\frac { 1 } { 1 - \\alpha } \\displaystyle \\sum _ { u = \\frac { 1 } { \\alpha } } ^ { \\frac { 1 } { \\alpha } } \\int _ { x } ^ { x } \\phi ( | x ^ { ( n ) } \\rangle \\mathrm { d } x ^ { ( n - 1 ) } \\mathrm { d } x } \\\\ & { \\leq \\frac { 1 } { 1 - \\alpha } \\displaystyle \\sum _ { u = \\frac { 1 } { \\alpha } } ^ { \\frac { 1 } { \\alpha } } ( \\int _ { x } ^ { x } | x | \\cdot \\Delta _ { u } ^ { \\infty } | x ^ { ( n - 1 ) } | x ^ { ( n - 1 ) } | \\cdot \\Delta ^ { \\infty } | x ^ { ( n - 1 ) } | ) ) } \\\\ & { \\leq \\frac { 1 } { 1 - \\alpha } \\displaystyle \\sum _ { u = \\frac { 1 } { \\alpha } } ^ { \\frac { 1 } { \\alpha } } ( \\int _ { x } ^ { x } | x | \\cdot \\Delta _ { u } ^ { \\infty } | x ^ { ( n - 1 ) } | x ^ { ( n - 1 ) } | \\cdot \\Delta ^ { \\infty } | x ^ { ( n - 1 ) } | ) ) } \\\\ & { \\leq \\frac { 1 } { 1 - \\alpha } \\displaystyle \\sum _ { u = \\frac { 1 } { \\alpha } } ^ { \\frac { 1 } { \\alpha } } ( \\int _ { x } ^ { x } | x | \\cdot \\Delta _ { u } ^ { \\infty } | x ^ { ( n - 1 ) } | x ^ { ( n - 1 ) } | \\cdot \\Delta ^ { \\infty } | x ^ { ( n - 1 ) } | ) \\cdot \\frac { 1 } { 2 } \\int _ { x } ^ { x } | x ^ { ( n - 1 ) } | \\mathrm { d } x \\rangle } \\\\ & { \\leq \\frac { 1 } { 1 - \\alpha } \\displaystyle \\sum _ { u = \\frac { 1 } { \\alpha } } ^ { \\frac { 1 } { \\alpha } } ( \\int _ { x } ^ { x } | x | \\cdot \\Delta ^ { \\infty } | x ^ { ( n - 1 ) } | x ^ { ( n - 1 ) } | x ^ { ( n - 1 ) } | \\cdot \\Delta ^ { \\infty } | x ^ { ( n - 1 ) } | x ^ { ( n - 1 ) } | x ^ { ( n ) } | ) \\cdot } \\\\ &  \\leq \\frac { 1 } { 1 + \\alpha } \\displaystyle \\sum _ { u = \\frac { 1 } { \\alpha } } ^ { \\frac { 1 } { \\alpha } } \\int _ { x } ^ { x } \\Psi \\{ | x ^ { ( n - 1 ) } | x ^ { ( n ) } | x ^ { ( n - 1 ) } | x ^ { ( n ) } | x ^  \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note that $\\begin{array} { r } { \\int _ { a } ^ { b } \\Psi ( | u ^ { ( m ) } | ) \\mathrm { d } x \\mathrm { ~ > ~ } 0 } \\end{array}$ Otherwise, $\\begin{array} { r } { \\int _ { a } ^ { b } \\Psi ( | u ^ { ( m ) } | ) \\mathrm { d } x = 0 } \\end{array}$ By Lemma 5 (ii) and Lemma 3 (i), we deduce that fol $i = 0 , 1 , 2 , . . . , n$ ,there holds ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leq c \\psi ( t ) = c \\psi \\left( \\frac { 2 ^ { m - i } t } { c } \\cdot \\frac { c } { 2 ^ { m - i } } \\right) \\leq \\operatorname* { m a x } { \\left\\{ \\left( \\frac { 2 ^ { m - i } t } { c } \\right) ^ { \\alpha } , \\left( \\frac { 2 ^ { m - i } t } { c } \\right) ^ { \\beta } \\right\\} } \\psi \\left( \\frac { c } { 2 ^ { m - i } } \\right) c \\leq 0 , \\forall t \\geq 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which implies $\\psi \\equiv 0$ for all $t \\in [ 0 , + \\infty )$ . Then by the odd property of $\\psi$ ，we have $\\psi \\equiv 0$ for all $t \\in ( - \\infty , + \\infty )$ . Due to $( H _ { 4 } ) , \\sum _ { i = 0 } ^ { n } \\left| f _ { i } \\right| \\equiv 0$ for all $t \\in ( - \\infty , + \\infty )$ , which is a contradiction with the assumption $( H _ { 1 } )$ . Finally, the desired result can be obtained. Theorem1 (i) has been proven. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Now we prove Theorem 1 (ii). Let $j _ { 0 } \\in [ 0 , n ]$ be a integer such that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { j _ { 0 } } = \\int _ { a } ^ { b } \\frac { 1 } { k _ { j _ { 0 } } } ( 1 + \\theta _ { j _ { 0 } } ) F _ { j _ { 0 } } ( | u ^ { ( m ) } | ) \\mathrm { d } x = \\operatorname* { m a x } _ { j = 0 , \\ldots , n } \\Bigg \\{ \\int _ { a } ^ { b } \\frac { 1 } { k _ { j } } ( 1 + \\theta _ { j } ) F _ { j } ( | u ^ { ( m ) } | ) \\mathrm { d } x \\Bigg \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Using Lemma 3 (iii), $( H _ { 2 } ) – ( H _ { 4 } )$ , Lemma 4 and Lemma 5 (i), we get ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { f _ { \\mathrm { i n } } \\leq \\displaystyle \\int _ { a } ^ { b } \\frac { 1 } { k _ { 0 } } J _ { \\alpha } ( { a } ^ { \\mathrm { i n } } ) | | { a } ^ { \\mathrm { i n } \\alpha } | | \\partial _ { t } \\nu } & { } \\\\ & { \\leq \\displaystyle \\int _ { a } ^ { b } \\nu _ { \\mathrm { i n } } ( | a ^ { \\mathrm { i n } \\alpha } | ) | | a ^ { \\mathrm { i n } \\alpha } | } \\\\ & { = \\displaystyle \\int _ { a } ^ { b } \\nu _ { \\mathrm { i n } } ( | a ^ { \\mathrm { i n } \\alpha } \\rangle \\mathrm { d } a ^ { \\mathrm { i n } \\alpha } ) \\mathrm { d } a ^ { \\mathrm { i n } \\alpha } } \\\\ & { = \\displaystyle \\int _ { a } ^ { b } \\frac { \\nu _ { \\mathrm { i n } } ^ { \\alpha } \\nu _ { \\mathrm { i n } } ^ { \\alpha } / ( | a ^ { \\mathrm { i n } } \\rangle \\mathrm { d } a ^ { \\mathrm { i n } \\alpha } ) \\mathrm { d } a ^ { \\mathrm { i n } \\alpha } } { \\omega ^ { \\mathrm { i n } \\alpha } } } \\\\ & { \\leq \\displaystyle \\sum _ { a = 0 } ^ { b } \\left( \\operatorname* { m a x } _ { \\mathrm { i n } } ^ { 1 } | | c _ { i } ( a ^ { \\mathrm { i n } } ) \\rangle a ^ { \\mathrm { i n } \\alpha - 1 } | | \\cdot \\displaystyle \\int _ { a } ^ { b } | x _ { i } ( c ) | | \\mathrm { d } c \\rangle \\right) } \\\\ & { \\leq \\displaystyle \\sum _ { a = 0 } ^ { b } \\left( \\int _ { a } ^ { b } | | c _ { i } | | a ^ { \\mathrm { i n } } \\cdot f _ { i } \\left( \\frac { \\left( b - a \\right) ^ { m - 1 - n } } { 2 ^ { m - 1 } } \\int _ { a } ^ { b } | | a ^ { \\mathrm { i n } } \\rangle | \\mathrm { d } a \\rangle \\right) \\cdot \\frac { 1 } { 2 } \\int _ { a } ^ { b } | u ^ { \\mathrm { i n } } | | c \\rangle \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\le \\displaystyle \\frac { 1 } { 2 } \\displaystyle \\sum _ { i = 0 } ^ { n } \\bigg ( \\int _ { a } ^ { b } | r _ { i } | { \\bf d } x \\cdot ( 1 + \\delta _ { i } ) \\cdot \\operatorname* { m a x } \\bigg \\{ \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\theta _ { i } ( m - i ) } , \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\delta _ { i } ( m - i ) } \\bigg \\} \\cdot \\int _ { a } ^ { b } F _ { i } ( | u ^ { ( m ) } | ) { \\bf d } x \\bigg ) } \\\\ & { = \\displaystyle \\frac { 1 } { 2 } \\displaystyle \\sum _ { i = 0 } ^ { n } \\bigg ( \\int _ { a } ^ { b } k _ { i } | r _ { i } | { \\bf d } x \\cdot \\frac { 1 + \\delta _ { i } } { 1 + \\theta _ { i } } \\cdot \\operatorname* { m a x } \\bigg \\{ \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\theta _ { i } ( m - i ) } , \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\delta _ { i } ( m - i ) } \\bigg \\} \\cdot \\int _ { a } ^ { b } \\frac { 1 + \\theta _ { i } } { k _ { i } } F _ { i } ( | u ^ { ( m ) } | ) { \\bf d } x \\bigg ) } \\\\ & { \\le I _ { \\boldsymbol { j } _ { 0 } } \\cdot \\displaystyle \\frac { 1 } { 2 } \\sum _ { i = 0 } ^ { n } \\bigg ( \\int _ { a } ^ { b } k _ { i } | r _ { i } | { \\bf d } x \\cdot \\frac { 1 + \\delta _ { i } } { 1 + \\theta _ { i } } \\cdot \\operatorname* { m a x } \\bigg \\{ \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\theta _ { i } ( m - i ) } , \\bigg ( \\frac { b - a } { 2 } \\bigg ) ^ { \\delta _ { i } ( m - i ) } \\bigg \\} \\bigg ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note that , $k _ { j _ { 0 } } \\geq 0 , 1 + \\theta _ { j _ { 0 } } > 0$ and $F _ { j _ { 0 } } ( | u ^ { ( m ) } | ) \\geq 0$ , arguing as in the proof of (i), we may get $I _ { j _ { 0 } } > 0$ . Finally, (5) implies the desired result. ■ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]R.Agarllapuiotdddfreatsidiom and Applied Analysis,15(6):2281-2300,2016.   \n[2]D.akk.Lapuotetealealitfrtaieoddretatiosplathmput,(2):6.   \n[3]i   \n[4]X.He and X.Tang.Lyapunov-type inequalities for even order diferential equations.11(2):465-473,2012.   \n[5]G.ibulfsdsUlitcaomml Differential Equations,16(2-3):311-361,1991.   \n[6]XLidratifoddetaitaaedsl of Qualitative Theory of Differential Equations,2016(12):1-10,2016.   \n[7]ALyapuobaldelbitueetiatetoUvr4ep Fac.Sci.Toulouse,9(1907)203-474,Translationof the original paperpublished in Comm.Soc.Math.Kharkow,1892.   \n[]SPag 2009.   \n[9]N.PadgOtealitdedatio.tAlpl2):9.   \n[10]N.ParhiandS.PanigrahiLiapunov-typeinequalityforigherorderdifferentialequations.Math.Slovaca,52(1):3146,2002.   \n[1]YQigdaoissdeealfrdd: Advances and Applications,17(2):89-103,2017.   \n[12]YWangyaotidetalaositicoudadp 25(12):2375-2380,2012.   \n[13]X.YangOnapunotyeiqualityfotaingeroderdieretalquatsAppathomput.4(-)3O0.   \n[14]X.Yang,Y.Kim,andK.Lo.Lyapunov-type inequalityforquasilinearsystems.Appl.Math.Let,34():33-36,2014.   \n[15]X.adolist   \n[16]QZf   \n[17] J. Zheng and X. Guo.Lyapunov-type inequalities for $\\psi -$ laplacian equations.2018.chinaXiv:201805.00171.   \n[18] X.Zuoand W.Yang.Lyapunov-type inequalities for higher-order differential equations with one-dimensional $p$ -Laplacian.Journal of Mathematical inequalities,8(4):737-746,2014. ",
+        "page_idx": 5
+    }
+]

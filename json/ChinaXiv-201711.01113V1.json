@@ -1,0 +1,416 @@
+[
+    {
+        "type": "text",
+        "text": "基于无人机数码影像的冬小麦叶面积指数探测研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高林1,2,3,4,5 杨贵军1,2,3,4\\*\\* 李红军6 李振海1,2,3,4 冯海宽1,2.3,4 王磊1,2,3,4 董锦绘1,2,3,4 贺鹏1,2,3,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．北京农业信息技术研究中心北京100097;2.国家农业信息化工程技术研究中心北京100097;3．农业部农业信息技术重点实验室北京10097;4.北京市农业物联网工程技术研究中心北京10097;5.南京大学地理与海洋科学学院南京210023;6.中国科学院遗传与发育生物学研究所农业资源研究中心石家庄050022)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要叶面积指数(LAI)是评价作物长势的重要农学参数之一，利用遥感技术准确估测作物叶面积指数(LAI)对精准农业意义重大。目前，数码相机与无人机系统组成的高性价比遥感监测系统在农业研究中已取得一些成果，但利用无人机数码影像开展作物LAI估测研究还少有尝试。为论证利用无人机数码影像估测冬小麦LAI的可行性，本文以获取到的3个关键生育期(孕穗期、开花期和灌浆期)冬小麦无人机数码影像为数据源，利用数字图像转换原理构建出10种数字图像特征参数，并系统地分析了3个生育期内两个冬小麦品种在4种氮水平下的LAI与数字图像特征参数之间的关联性。结果表明，在LAI随生育期发生变化的同时，10种数字图像特征参数中 $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 和本文提出的基于无人机数码影像红、绿、蓝通道DN值以及可见光大气阻抗植被指数(VARI)计算原理构建的数字图像特征参数UAV-based $\\mathrm { V A R I _ { R G B } }$ 也有规律性变化，说明冬小麦的施氮差异不仅对LAI有影响，也对某些数字图像特征参数有一定影响；在不同条件(品种、氮营养水平以及生育期)下的数字图像特征参数与LAI的相关性分析中， $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 与LAI显著相关。进而，研究评价了 $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 构建的LAI估测模型，最终确定UAV-based $\\mathrm { V A R I _ { R G B } }$ 为估测冬小麦LAI的最佳参数指标。结果表明UAV-based $\\mathrm { V A R I _ { R G B } }$ 指数模型估测的 LAI 与实测 LAI 拟合性较好 $( R ^ { 2 } { = } 0 . 7 1$ ，$\\operatorname { R M S E } { = } 0 . 8 , P { < } 0 . 0 1 )$ 。本研究证明将无人机数码影像应用于冬小麦LAI探测是可行的，这也为高性价比无人机遥感系统的精准农业应用增添了新成果和经验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词无人机遥感数码影像冬小麦叶面积指数数字图像特征参数中图分类号：S565;TP79 文献标识码：A 文章编号:1671-3990(2016)09-1254-11",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Winter wheat LAI estimation using unmanned aerial vehicle RGB-imaging ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAOLin125NGGuj4Hog,IZhena,FENGa WANGLe ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.BeijingReseachCenterforgiculturalIormationcholgyeigo7China;.NatioalEgieringRseachte forAgricultural InformationTechnologyBeijingo97,China;3.KeyaboratoryofAgro-informatics,MinistryofAgriculture, Beijing 10o97,China; 4.Beijing Engineering ResearchCenterofAgricultural InternetTransactions,Beijing097,China; 5.SchoolofGeograpicalandOceanographicSciences,Nanjing University,Nanjing210o23,China;6.CenterforAgricultural   \nResourcesResearch,stituteofGeneticsandevelopmentaliologyinesecademyofSiences,Shjzuang50ina) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractLeaf area index (LAI) is an important agronomic parameter used in evaluating crop growthcharacteristics.The accurateestimationofLAIbasedonremotesensing technologyiscriticalforprecisionagriculture.Thecurrentcost-effective unmanedaerial vehicle (UAV)ofagricultural remote sensing monitoringsystem,which was established based ona multi-rotor UAVwith adigitalcamera mountedonitsplatform,hasledtosignificantachievements inagriculturalresearch.However,there has beenlitleresearchonretrievingcropLAIbasedonUAVdigital imagery.Todemonstrate thefeasibilityofusing UAVdigital imageryto estimate winter wheatLAI,weused thiscost-effctiveUAVsystemtomonitoragriculturaloperationinthe studyarea. ThenmanyUAVdigitalimages (alsoknownasRGBimages)usedasthestudydatasourcerecordedatthreecritical growthstages booting,anthesisand filingstagesof winterwheat.Wecalculatedtencharacteristic parameters fromtheRGB imagesbasedon digitalimagingconversionprinciple.Furthermore,wesystematicallanalyzedtherelationshipbetweenLAIatthethreegrowth stagesof the two winter wheat varieties with the four nitrogen levels and characteristic parametersofRGB images.It was indicated that among the ten characteristic parameters, $\\mathrm { R } / ( \\mathrm { R } { + } \\mathrm { G } { + } \\mathrm { B } )$ and UAV-based $\\mathrm { V A R I _ { R G B } }$ (visible atmospherically resistant index basedon UAVRGB image,which was calculated in this paper basedon DNin thered,green and bluechannels of UAV digital imagesandthecalculation principleof VARI)regularlychanged with LAIof winter wheat.Thechangeoccurred regularlyand simultaneouslyforthe threegrowth stages.Itshowed that diferent nitrogenlevels in winter wheatnotonly influencedLAI,butalsoifluencedsomecharacteristicparametersofdigitalimages.Meanwhile,thestudyalsoindicatedthat $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ and UAV-based $\\mathrm { V A R I _ { R G B } }$ were more significantly correlated with LAI under different conditions, including variety, nitrogen leveland growth stage among the ten characteristic parameters.Then twocomprehensive evaluationofLAIinversion models between LAI and $\\mathrm { R } / ( \\mathrm { R } { + } \\mathrm { G } { + } \\mathrm { B } )$ and UAV-based $\\mathrm { V A R I _ { R G B } }$ were established.The evaluation demonstrated that UAV-based $\\mathrm { V A R I _ { R G B } }$ was the best parameter which optimally retrieved LAI of winter wheat. LAI estimated by the exponential model of UAV-based $\\mathrm { V A R I _ { R G B } }$ strongly matched with measured LAI, with $R ^ { 2 } = 0 . 7 1$ ， $\\mathrm { R M S E } = 0 . 8$ and at 0.01 significance level. Therefore, the results showed thattheapplicationof UAVdigitalimageryinretrieving winter wheat LAI was feasible.The study also enrichedthe achievements and experienceof using cost-efective UAVremotesensing monitoring system in precisionagriculture. KeywordsUnmanned aerial vehicle (UAV); Remote sensing; Digital imagery; Winter wheat; Leaf area index (LAI); Characteristic parameters of digital image ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冬小麦(TriticumaestivumL.)是我国主要的粮食作物之一，研究冬小麦表型信息和生理过程对指导农业生产和粮食增产意义重大。叶面积指数(leaf areaindex，LAI)被定义为单位土地面积上植株叶片的叶面积总和[1]，是冬小麦重要农学参数之一，不仅与植物蒸腾作用、光合有效辐射密切相关，且常常作为评价作物长势和预测产量的依据。目前，基于遥感原理的LAI分析技术因其非侵入式和高通量特点已得到广泛关注，以航空航天影像或地面非成像光谱信息为遥感数据源的LAI探测研究层出不穷：王来刚等l2将SPOT-5和HJ-CCD两种不同时空分辨率数据相融合，估算出高空间分辨率的LAI时间序列，为冬小麦长势监测提供了信息支撑；孙晓等[3利用CASI高光谱遥感数据分析了森林LAI；付元元等[4]比较了高光谱维数约简法与植被指数法对冬小麦LAI的估算精度，指出基于维数约简的方法具有更高的估算精度。然而卫星过长的重访周期以及较低的影像空间分辨率限制了其在农业评估中的价值，再者因大气辐射传输引起的信号退化及其固定的过境时间往往造成研究区可用的关键物候期数据匮乏;航天遥感因其复杂的飞行姿态加重了后期数据处理的难度并且其组织运营成本高昂[5]；地面光谱测量范围有限且数据获取工作量大等因素制约了传统遥感技术在农业领域的深入发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，无人机(unmanned aerial vehicle,UAV)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "日益民用化，发展无人机为遥感平台的近地 $( 5 0 { \\sim } 1 0 0 ~ \\mathrm { m } )$ 遥感信息获取技术已成为构建星空地一体化遥感系统的理想衔接点。而中国对空域政策的放宽以及时下农情发展，使得开展近地无人机农业遥感为田块尺度农田管理提供准确信息就显得尤为重要。但是，无人机载荷有限，搭载在其上的传感器在体型和重量上受到严格限制。国际上如TETRACAM、Cubert制造商虽已研发出 ADC-Lite(www.tetracam.com)、UHD185-Firefly(http://cubert-gmbh.de/)等光谱传感器,相关研究也有报道[6-8]，但传感器价格昂贵且后期数据处理过程复杂，成为禁锢无人机遥感技术在农业领域广泛推行的枷锁。今天，随着数码相机的普及，摄影技术已成为一种炙手可热的数字图像信息获取手段。基于数字图像技术的植物生物量、LAI估测研究也得到长足发展：单成刚等9利用数字图像技术研究了冬小麦冠层生物量的垂直分布；李明等[10]研究出一种在复杂图像背景下提取小麦LAI的方法，同时较好地模拟了不同条件下 LAI 的变化；孙涛等[11]基于相片Gamma校正原理对水稻(OryzasativaL.)不同生长冠层相片进行Gamma校正，并在此基础上利用冠层孔隙率法实现对不同生长期水稻LAI的精确估算。此类研究为数码影像的农业应用提供了佐证。但受数据获取方式固定以及数码影像幅宽较小等因素的制约，试验仅适合在固定地点的微小区域开展[12]难以满足大面积作物长势快速无损监测的需要。所以，国内外许多学者尝试围绕数码相机与无人机系统组成的高性价比遥感监测系统开展研究：Bendig等[13设计以多旋翼无人机为遥感平台搭载数码相机的农业遥感监测系统，利用无人机数码影像生成的作物表面模型实现了对大麦生物量的估测；汪小钦等[14]参考健康绿色植被的光谱特性，分析了无人机数码影像(或称为RGB影像)中植被与非植被的光谱特征，利用构建出的可见光波段差异植被指数VDVI(visible-banddifferencevegetation index)对可见光波段无人机遥感影像的健康绿色植被信息进行提取，取得较好效果。这些研究成果展现了无人机数码影像的农业应用前景，也推动了无人机遥感的定量应用，但直接将无人机数码影像应用于探测作物LAI方面的研究国内还少有尝试。鉴于此，本文在现有研究基础上，通过对大田冬小麦开展无人机遥感监测试验，以获取到的3个关键生育期(孕穗期、开花期和灌浆期)冬小麦无人机数码影像为数据源，利用数字图像转换原理构建出10种数字图像特征参数，并系统性地分析了3个生育期内两个冬小麦品种在4种氮水平下的LAI与数字图像特征参数之间的关联性进而确定冬小麦LAI的估测参数及反演模型，基于对LAI估测结果的精度评价，探讨利用无人机数码影像估测冬小麦LAI的可行性，以期为无人机数码影像在精准农业中的应用增添一点新成果和经验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 大田试验设计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冬小麦试验于2014年9月至2015年6月在北京市昌平区小汤山国家精准农业研究示范基地开展，该地位于 $4 0 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N }$ $1 1 6 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { E }$ ，海拔高度 $3 6 ~ \\mathrm { m }$ ，气候类型属典型的暖温带半湿润大陆季风气候。供试土壤为潮土，前茬作物为玉米(Zea maysL.)，供试冬小麦品种分别为‘中麦175'(ZM175)和‘京9843'(J9843)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验田共设48个小区，每个小区面积 $4 8 \\mathrm { m } ^ { 2 } ( 6 \\mathrm { m } ^ { \\times }$ $8 ~ \\mathrm { m }$ ，种植行间距 $1 5 \\ \\mathrm { c m } _ { \\circ }$ 每16个小区为一组，每组均按 $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 3 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 6 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $3 9 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (分别对应N1、N2、N3、N4)进行施氮处理，氮肥为尿素，共3次重复(图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a687c213174227402497e1689dd75073ffd0bb843dfbfce5df93595fb28158ce.jpg",
+        "img_caption": [
+            "图1研究区地理位置及冬小麦变量施肥试验概况",
+            "Fig.1Location of the experimental field and variable nitrogen fertilizer application on winter wheat N1、N2、N3、N4 分别对应 $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $1 3 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 、 $2 6 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ 和 $3 9 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 } 4$ 个施氮水平。下同。N1,N2,N3,N4 were four nitrogen rates of $0 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $1 3 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ $2 6 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ and $3 9 \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ,respectively. The same below. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 地面数据获取",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "分别于2015年冬小麦孕穗期(4月26日)、开花期(5月13日)和灌浆期(5月22日)采集试验小区内固定样方 $( 2 ~ \\mathrm { m } { \\times } 0 . 1 5 ~ \\mathrm { m } { \\times } 1 ~ \\mathrm { m } = 0 . 3 ~ \\mathrm { m } ^ { 3 } )$ 数据。对小区取样的20茎冬小麦进行茎叶分离，利用CI-203型激光叶面积仪测定叶片叶面积，求其总和，进而计算出单茎叶面积，然后乘以单位面积单茎数(单位面积单茎数是根据关键生育期田间群体样本调查获得)得到冬小麦LAI。3个生育期共获取到144个冬小麦LAI样本数据(LAI最大值8.81，最小值0.35，平均值3.02，标准差1.66，变异系数0.55)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3无人机遥感数据获取与处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究采用八旋翼电动无人机(单臂长 $3 8 6 ~ \\mathrm { m m }$ 机身净重 $4 . 2 ~ \\mathrm { k g }$ ，载重 $6 ~ \\mathrm { k g } ^ { \\cdot }$ 为遥感平台，配备惯性测量单元(inertialmeasurementunit，IMU)实时记录飞行状态下地理位置和三轴姿态角。无人机遥感平台搭载索尼Cyber-shotDSC-QX100高清相机，主要参数为:1)尺寸和质量: $6 2 . 5 ~ \\mathrm { m m } { \\times } 6 2 . 5 ~ \\mathrm { m m } { \\times } 5 5 . 5 ~ \\mathrm { m m }$ $1 7 9 \\ \\mathrm { g } ; 2 ) 2 \\ 0 9 0$ 万像素CMOS传感器；3)焦距 $1 0 ~ \\mathrm { m m }$ (定焦拍摄)。无人机遥感试验于地面数据采集当天12:00—13:00太阳光辐射强度稳定，天气晴朗无云时开展，飞行高度 $5 0 \\mathrm { m }$ ，获取到 $0 . 0 1 3 \\mathrm { ~ m ~ }$ 空间分辨率真彩色数码相片。3次无人机遥感试验均采用同一套航线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "借助AgisoftPhotoScan软件进行无人机遥感数据处理。将数码相片与每幅相片的经纬度、高程、翻滚角、俯仰角以及航向角进行匹配；基于动态结构算法检测相片特征点，建立匹配特征点对，进而排列相片；通过密集多视角立体匹配算法生成三维密集点云，同时拼接相片生成研究区无人机数码正射影像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4冬小麦群体冠层的数字图像特征参数计算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从无人机数码正射影像中提取每个小区冬小麦冠层红、绿、蓝通道灰度(graylevel)平均值。采用交互式方法处理3个色彩参数平均值，依次得到两类传统的数字图像特征参数：比值型色彩参数，如绿光与红光比值 $( \\mathrm { G } / \\mathrm { R } )$ 、绿光与蓝光比值(G/B)、红光与蓝光比值(R/B)和可见光标准化值，如红光标准化值$[ \\mathrm { R } / ( \\mathrm { R + G + B } ) ]$ 、绿光标准化值 $[ \\mathrm { G } / ( \\mathrm { R } { + } \\mathrm { G } { + } \\mathrm { B } ) ]$ 和蓝光标准化值 $\\mathbf { B } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } ) ]$ 。大量研究[15-17]表明经处理后的传统数字图像特征参数与植被表型信息具有良好的相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "遥感领域出现的植被指数大多是基于可见光-近红外范围光谱反射率构建的，单独利用可见光反射率构建的植被指数相对稀少，表1列出了4种已有文献提及的可见光波段植被指数。Motohka等[18]借助绿红植被指数(green red vegetation index,GRVI)辨别作物生育期;Gitelson等[19]证明了可见光大气阻抗植被指数(visible atmospherically resistant index,VARI)对LAI、生物量以及水分胁迫都有良好的估测能力；Hunt等[20]利用绿叶植被指数(green leaf index,GLI)成功估算出叶片中叶绿素含量;Woebbecke 等[21]利用超绿植被指数(excess green index，ExG)在多种条件下识别杂草。植被冠层图像的RGB灰度值不同于对应波段的光谱反射率，但RGB灰度值是对红(R)、绿(G)、蓝(B)波段反射光强的量化表达[22]。王方永等[23]研究证实RGB灰度值同样反映了植被冠层叶片对光的反射特性。因此本研究参照表1列举出的4种可见光波段植被指数的计算原理，基于无人机数码正射影像红、绿、蓝通道提取的灰度值，构建出4种新型的数字图像特征参数，将其依次命名为: UAV-based $\\mathrm { G R V I _ { R G B } }$ 、UAV-based $\\mathrm { V A R I _ { R G B } }$ 、UAV-based GLIRGB、UAV-based ExGRGBo",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/725b7214c6998ca1e523e0e81998cd81939b3432259c2ec13b31e4c2c6429a08.jpg",
+        "table_caption": [
+            "表1常用和本研究构建的可见光波段植被指数 'able 1Frequently-used and constructed in this paper visible band vegetation indices $( \\mathrm { V I _ { v i s } } )$ 号 "
+        ],
+        "table_footnote": [
+            "RR、RG、 $R _ { \\mathrm { B } }$ 分别是红、绿、蓝光谱反射率, $\\mathrm { D N } _ { \\mathrm { r } } .$ $\\mathrm { D N } _ { \\mathrm { g } } ,$ $\\mathrm { D N } _ { \\mathrm { b } }$ 分别是红、绿、蓝通道 DN 值。 $R _ { \\mathrm { R } }$ $R _ { \\mathrm { G } }$ $R _ { \\mathrm { B } }$ are spectral reflectance of red, greel and blue,respectively. $\\mathrm { D N } _ { \\mathrm { r } }$ $\\mathrm { D N _ { g } }$ $\\mathrm { D N } _ { \\mathfrak { b } }$ are digital numbers in red channel, green channel and blue channel, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td>植被指数 Vegetation indice</td><td>含义 Meaning</td><td>公式 Formula</td><td>来源 Reference</td></tr><tr><td>GRVI</td><td>绿红植被指数 Green red vegetation index</td><td>RR</td><td>Motohka et al.[18]</td></tr><tr><td>VARI</td><td>可见光大气阻抗植被指数 Visible atmospherically resistant index</td><td>RG-RR RG+R-RB</td><td>Gitelson et al.[19]</td></tr><tr><td>GLI</td><td>绿叶植被指数 Green leaf index</td><td>2×RG-RR-RB 2×RG+RR +RB</td><td>Hunt et al.[20]</td></tr><tr><td>ExG</td><td>超绿植被指数</td><td>2×RG-RR-RB</td><td>Woebbecke et al.[21]</td></tr><tr><td>UAV-based GRVIRGB</td><td>Excess green index 基于无人机数码正射影像的GRVI</td><td>DNg -DN,</td><td>本文</td></tr><tr><td>UAV-based VARIRGB</td><td>GRVI based on RGB image of unmanned aerial vehicle 基于无人机数码正射影像红、绿、蓝通道提取灰度值的VARI</td><td>DNg +DN, DNDDNDN6</td><td>This study Thudy</td></tr><tr><td>UAV-based GLIRGB</td><td>基于无人机数码正射影像红、绿、蓝通道提取灰度值的GLI</td><td>2×DNg-DN, -DNb</td><td>本文</td></tr><tr><td></td><td>GLI based on RGB image of unmanned aerial vehicle</td><td>2× DNg +DN, + DNb</td><td>This study</td></tr><tr><td>UAV-based ExGRGB</td><td>基于无人机数码正RG影B像红、绿、蓝通道提取灰度值的ExG</td><td>2×DNg -DN, -DNb</td><td>This udy</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 研究思路",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于无人机数码影像的冬小麦LAI反演主要步骤(图2)包括：1)冬小麦群体冠层的特征参数计算,得到数字图像特征参数G/R、G/B、R/B、 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 人${ \\bf G } / ( { \\bf R } + { \\bf G } + { \\bf B } )$ 小 ${ \\bf B } / ( { \\bf R } + { \\bf G } + { \\bf B } ) ,$ 、UAV-based $\\mathrm { \\ G R V I _ { R G B } }$ 、UAV-based ${ \\mathrm { V A R I } } _ { \\mathrm { R G B } } .$ 、UAV-based GLIRGB、UAV-based ExGRGB（计算中发现：灌浆期部分UAV-based $\\mathrm { \\ G R V I _ { R G B } }$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 有负值，其原因一方面在于灌浆期冬小麦叶片逐渐由绿变黄，部分小区冬小麦冠层图像的绿通道灰度值低于红通道灰度值；另一方面在于无法对数码影像进行可行性的辐射定标，导致直接利用红绿蓝通道灰度值计算归一化型植被指数有可能出现负值)。2)LAI与特征参数的关联性分析，即从冬小麦品种、氮肥管理以及生育期3个因素上分别探讨特征参数的变化趋势和特征参数与LAI的相关性，并综合上述两个结论得到能够描述3个生育期整体LAI分布情况的数字图像特征参数。3)选择总体样本的 $70 \\%$ 建模，并对估测模型进行客观评价；利用未参与建模的 $30 \\%$ 样本验证LAI估测模型的精度。在模型精度评价中引入国际上常用的决定系数$( R ^ { 2 } )$ 和均方根误差(RMSE)作为评判预测值与实测值拟合性指标(表2)，其中 $R ^ { 2 }$ 越接近1，说明模型的参考价值越高;RMSE越小，说明模型精度越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于AgisoftPhotoScan的无人机数码相片拼接 UAV digital photos mosaic by Agisoft PhotoScan 无人机数码相片 动态结构算法 (SFM) 相片特征点检测 地面控制点(GCPs) 相片排列 vehicle digital Structure from motion algorithm Ground control points Photos alignment points detection photos 数码正射影像 密集多视角立体匹配算法(MVS) Digital orthophoto Dense multiview stereo algorithms W小麦群体叶面积数 数字图像特征参数 Characteristic Extraction winter V 利用数字图像技术进行无人机数码影像的冬小麦叶面积指数探测 parameters of 不同条件下的叶面积指数 digital image Leaf area index in different conditions ? wi1)冬小麦cutivar G/RR,GAB- R/Bd $\\mathrm { \\ G R V { l _ { R G B } } } .$ $( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } )$ A $( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } _ { \\perp }$ $\\mathrm { \\Delta V A R I _ { \\mathrm { R G B } } }$ $3 / ( \\mathrm { R + G + B } )$ （204号 w 2)氮肥管理 UAV-based $\\mathrm { G L I } _ { \\mathrm { R G B } }$ ,UAV-based ExGRGB Nitrogen f单ienagement 1指标 2指标 Single growth stage First indicator Second indicator 数字图像特征参数的变化趋势与LAI动态 不同条件下的冬小麦叶面积指数与数字图像特征 分布的关系 参数的相关性分析 Relationship between the changing trend of Correlation analysis between winter wheat leaf area digital image feature parameters and dynamic index and the characteristic parameters of digital 总体样本 distribution of LAI image in different conditions Overall sample 优选的数字图像特征参数 Optimal digital image feature parameters $7 0 \\%$ 建模Inversion 上 模型评价 Model evaluation ? 关键生育期冬小麦群体叶面积指数估算模型 -30%验证Validation The best inversion model of winter wheat leaf area index based on keyphenologies ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9e089cb83729fbdb3303fc1ebaa09be7fff09f756d46e0f6a9cf7ad6270f40e.jpg",
+        "table_caption": [
+            "Table2Assessment indices ofwinter wheatLAI estimating model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>验证指标 Assessment index</td><td>公式 Formula</td><td>备注 Comment</td></tr><tr><td>决定系数(R²)</td><td>∑(x,-x）²x(v-y）²</td><td></td></tr><tr><td>Coefficient of determination</td><td>R²=</td><td>其中 xi、x、yi、y分别为实测值、实测值均值、模拟值、</td></tr><tr><td></td><td>∑（x-x）²×∑（y,-y)）² i=1 i=1</td><td>模拟值均值;n为测量次数。 xi、x、yi、 y were measured value, measured average</td></tr><tr><td>均方根误差(RMSE) Root mean square error</td><td>(vi-x)）²</td><td>value,simulated value and simulated average value, respectively.n was the measurement time.</td></tr><tr><td></td><td>RMSE=1 n</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1不同氮营养水平下的冬小麦LAI动态变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同氮营养水平下冬小麦LAI随生育时期的动态变化如图3所示。可以看出，随着施氮量的增加，冬小麦LAI在不同品种及生育期是表现不同：就‘中麦 $1 7 5 ^ { \\mathrm { { \\circ } } } \\mathrm { L A I } ( \\mathrm { L A I } _ { \\mathrm { Z M } 1 7 5 } )$ 而言，整体上，3个生育期随着施氮量的增加而增加(N3灌浆期除外)，特别当施氮量达到最大时(N4), $\\mathrm { L A I } _ { \\mathrm { Z M 1 7 5 } }$ 高于其他氮营养水平;‘京9843'的 $\\mathrm { L A I } ( \\mathrm { L A I } _ { \\mathrm { J 9 8 4 3 } } )$ 动态变化不同于‘中麦175',整体上，当施氮量由N1变化至N3，3个生育期$\\mathrm { L A I } _ { \\mathrm { J 9 8 4 3 } }$ 逐次增大(N1灌浆期除外)，而当施氮量达到最大的N4时，LAI并未随施氮量的提高而增大，所以4种施氮水平下, $\\mathrm { L A I } _ { \\mathrm { J 9 8 4 3 } } \\mathrm { N } 3$ 处理高于其他氮营养水平。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对冬小麦3个生育期LAI进行统计分析(表 3),并结合图3对品种间LAI做比较，相同氮水平下,$\\mathrm { L A I } _ { \\mathrm { Z M 1 7 5 } }$ 与 $\\mathrm { L A I _ { J 9 8 4 3 } }$ 的差异在N1和N4水平下达极显著水平 $( P { < } 0 . 0 1 )$ ；在 N3 水平下差异达显著水平$( P { < } 0 . 0 5 )$ ；在 N2 水平下差异不明显 $( P { > } 0 . 0 5 )$ 。LAIZM175和 $\\mathrm { L A I } _ { \\mathrm { J 9 8 4 3 } }$ 分别在 $0 . 3 5 2 { \\sim } 8 . 8 0 8$ 和 $0 . 4 2 0 { \\sim } 6 . 6 3 1$ 范围内变化，且 $\\mathrm { L A I } _ { \\mathrm { Z M 1 7 5 } }$ 变化程度 $( \\mathrm { C V } _ { Z \\mathrm { M } 1 7 5 } { = } 5 8 . 1 8$ )大于LAIJ9843( $\\mathrm { C V } _ { \\mathrm { J 9 8 4 3 } } { = } 5 2 . 0 3$ )；N1水平时， $\\mathrm { L A I _ { J 9 8 4 3 } }$ 普遍高于 $\\mathrm { L A I } _ { \\mathrm { Z M } 1 7 5 }$ ；N2、N3 时，两种冬小麦LAI均随施氮量的提升而增加，说明氮肥的使用极大地改善了土壤肥力，促进了冬小麦生长；N4水平时，因两个品",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d84ca76a8968e83050467c129f1dc2c13f8e7872f81b385b83d8cba0e0601b61.jpg",
+        "img_caption": [
+            "图3不同氮营养水平下不同生育期冬小麦‘中麦175'(a)和‘京 $\\mathbf { 9 8 4 } 3 ^ { \\circ } ( \\mathbf { b } )$ 叶面积指数(LAI)变化Fig.3Changesofleafareaindex(LAI)atdierentgrowth stagesofwinter wheatvarieties‘ZM175’(a)and‘J9843'(b)atdiferentnitrogen levels"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/546f21261d46fbf2629b3879720fba1612008cecc78928f797c5d2998d1aa409.jpg",
+        "table_caption": [
+            "表2冬小麦LAI估测模型精度评价指标",
+            "表3不同氮营养水平下冬小麦叶面积指数(LAI)统计分析",
+            "lable 3Statistic analysis of winter wheat leaf area index (LAI) on different nitrogen nutritional lev( "
+        ],
+        "table_footnote": [
+            "\\*和\\*\\*分别表示在 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 水平差异显著。\\*and \\*\\* mean significant difference at $P < 0 . 0 5$ and $P < 0 . 0 1$ ,respectively "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">氮处理</td><td colspan=\"5\">ZM175</td><td colspan=\"5\">J9843</td><td rowspan=\"2\">P</td></tr><tr><td>Nitrogen treatment 最小值 Min 最大值Max平均值 Mean 标准差 SD</td><td></td><td></td><td></td><td>CV (%)</td><td>最小值Min最大值Max平均值Mean 标准差 SD</td><td></td><td></td><td></td><td>CV (%)</td></tr><tr><td>N1</td><td>0.352</td><td>4.525</td><td>1.633</td><td>1.168</td><td>71.53</td><td>0.523</td><td>5.359</td><td>2.547</td><td>1.170</td><td>45.93</td><td>0.004**</td></tr><tr><td>N2</td><td>1.350</td><td>5.886</td><td>3.203</td><td>1.269</td><td>39.63</td><td>0.420</td><td>6.631</td><td>2.515</td><td>1.769</td><td>70.33</td><td>0.063</td></tr><tr><td>N3</td><td>0.635</td><td>8.072</td><td>3.167</td><td>1.938</td><td>61.20</td><td>1.310</td><td>6.332</td><td>3.891</td><td>1.421</td><td>36.53</td><td>0.015*</td></tr><tr><td>N4</td><td>2.132</td><td>8.808</td><td>4.253</td><td>1.686</td><td>39.64</td><td>0.612</td><td>5.572</td><td>2.984</td><td>1.499</td><td>50.23</td><td><0.001**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecoagri.ac.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "种对 N4肥力的反应差异，导致 $\\mathrm { L A I } _ { \\mathrm { Z M 1 7 5 } }$ 普遍高于LAIJ98430",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2LAI与数字图像特征参数的关联性分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于对数字图像特征参数在不同氮水平下随生育时期的变化分析发现，10种数字图像特征参数中$\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 随生育时期的变化有下述规律(图4)：N3水平下，‘京 $9 8 4 3 ^ { \\circ } \\mathrm { L A I }$ 高于其他氮水平，但‘京 9843'的 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 却低于其他氮水平；N4水平下，‘中麦175'的LAI高于其他氮水平，但其 $\\mathrm { R } / ( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } )$ 却低于其他氮水平。与 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 的变化趋势不同，‘京9843'的UAV-based $\\mathrm { V A R I _ { R G B } }$ 在N3 水平下高于其他氮水平;N4水平下‘中麦 $1 7 5 ^ { \\circ }$ UAV-based $\\mathrm { V A R I _ { R G B } }$ 也高于其他氮水平。说明冬小麦的氮营养水平不仅对LAI有一定影响，也对某些植被冠层图像特征参数有影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由不同条件(品种、氮营养水平以及生育期)下的数字图像特征参数与LAI的相关性分析可知：$\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 、G/R、UAV-based $\\mathrm { G R V I _ { R G B } }$ 、UAV-based$\\mathrm { V A R I _ { R G B } }$ 与LAI之间具有显著相关性(表4)，即只考虑品种差异时，4个数字图像特征参数与 $\\mathrm { L A I } _ { \\mathrm { Z M } 1 7 5 }$ 的相关性 $( R ^ { 2 } { = } 0 . 7 1 3 { \\sim } 0 . 7 5 0$ ， $\\scriptstyle P < 0 . 0 1 { \\dot { ) } }$ 优于 $\\mathrm { L A I } _ { \\mathrm { J 9 8 4 3 } }$ $( R ^ { 2 } =$ $0 . 5 9 5 { \\sim } 0 . 6 7 3$ ， $P { < } 0 . 0 1 \\$ )；只考虑氮营养差异时，4个数字图像特征参数与 N2 的 LAI 相关性最高 $( R ^ { 2 } =$ $0 . 7 6 8 { \\sim } 0 . 7 9 5$ $P { < } 0 . 0 1 \\$ )，与N3的LAI相关性最低 $( R ^ { 2 } =$ $0 . 5 8 5 { \\sim } 0 . 6 4 1$ ， $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ ；只考虑生育期差异时，4个数字图像特征参数与灌浆期LAI的相关性 $( R ^ { 2 } { = } 0 . 6 5 2 \\sim$ 0.686, $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ } }$ 高于孕穗期 $\\scriptstyle ( R ^ { 2 } = 0 . 5 4 0 \\sim 0 . 5 9 2$ ， $P { < } 0 . 0 1$ ）和开花期 $\\scriptstyle ( R ^ { 2 } = 0 . 4 8 2 \\sim 0 . 5 8 9$ ， $P { < } 0 . 0 1$ )。同时，4种数字图像特征参数中, $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 与LAI的相关性较高：只考虑品种差异时， $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 的$R ^ { 2 }$ 最高为0.75，UAV-based $\\mathrm { V A R I _ { R G B } }$ 的 $R ^ { 2 }$ 最高为0.713, $P { < } 0 . 0 1$ ；只考虑氮营养差异时， $\\scriptstyle \\mathrm { R } / ( \\mathrm { R + G + B } )$ 的$R ^ { 2 }$ 最高，为0.795,UAV-based $\\mathrm { V A R I _ { R G B } }$ 的 $R ^ { 2 }$ 最高，为0.77, $P { < } 0 . 0 1$ ；只考虑生育期差异时， $\\mathrm { R } / ( \\mathrm { R } { + } \\mathrm { G } { + } \\mathrm { B } )$ 的$R ^ { 2 }$ 最高，为0.686,UAV-based $\\mathrm { V A R I _ { R G B } }$ 的 $R ^ { 2 }$ 最高，为0.653, $P { < } 0 . 0 1$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1d43eb26f1c94a5481b28b0097879ab007bfd160525328ffbd1c7898362afab.jpg",
+        "img_caption": [
+            "图4不同氮营养下不同生育期冬小麦‘中麦 $\\mathbf { 1 7 5 \\% 6 } )$ 和京 $9 8 4 3 ^ { \\circ } ( \\mathbf { c } , \\mathbf { d } )$ 的 $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 和UAV-based $\\mathbf { V A R I _ { R G B } }$ 变化Fig. 4Changes of $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ and UAV-based $\\mathrm { V A R I _ { R G B } }$ at different growth stages of winter wheat variety $^ { \\bullet } Z { \\bf M } 1 7 5 ^ { \\bullet }$ (a, b)and“J9843'(c,d) on different nitrogen levels"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ac947163651f9093126b463b1eac456b3632190a569874b0733668d35ee2b9a.jpg",
+        "table_caption": [
+            "表4不同条件下优选的冬小麦数字图像特征参数与LAI的相关性",
+            "Table4Corelationbetween optimaldigitalimage characteristic parametersandLAIofwinter wheat indiferentconditions "
+        ],
+        "table_footnote": [
+            "Ⅰ表示只考虑品种差异，Ⅱ表示只考虑氮营养差异，Ⅲ表示只考虑生育期差异。\\*\\*表示 $P { < } 0 . 0 1$ 水平显著相关。I indicates that onlydifferentutirseosed;Iidatolftevessidedaesatolieoaconsidered. $^ { * * }$ means significant correlation at $P < 0 . 0 1$ ："
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">植被指数 Vegetation indice</td><td colspan=\"2\">I</td><td colspan=\"4\">Ⅱ</td><td colspan=\"3\">Ⅲ</td></tr><tr><td>‘中麦175' ZM175</td><td>‘京9843’ J9843</td><td>N1</td><td>N2</td><td>N3</td><td>N4</td><td>孕穗期 Booting</td><td>开花期 Anthesis</td><td>灌浆期 Filling</td></tr><tr><td>R/(R+G+B)</td><td>0.750**</td><td>0.673**</td><td>0.706**</td><td>0.795**</td><td>0.641**</td><td>0.729**</td><td>0.592**</td><td>0.589**</td><td>0.686**</td></tr><tr><td>G/R</td><td>0.713**</td><td>0.595**</td><td>0.713**</td><td>0.768**</td><td>0.585**</td><td>0.689**</td><td>0.540**</td><td>0.487**</td><td>0.654**</td></tr><tr><td>UAV-based GRVIRGB</td><td>0.713**</td><td>0.595**</td><td>0.713**</td><td>0.768**</td><td>0.585**</td><td>0.690**</td><td>0.540**</td><td>0.482**</td><td>0.652**</td></tr><tr><td>UAV-based VARIRGB</td><td>0.713**</td><td>0.602**</td><td>0.710**</td><td>0.770**</td><td>0.587**</td><td>0.687**</td><td>0.544**</td><td>0.502**</td><td>0.653**</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3LAI估算模型的构建与评价 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合2.2的研究结论：10种数字图像特征参数中$\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 不仅随LAI的动态变化发生规律性变化，而且与LAI有较高的相关性；研究分别选择 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 和UAV-based VARIRGB来反演3个关键生育期的冬小麦LAI。从142个样本(孕穗期样本内有2个LAI值8.07和8.81，偏离群体水平，所以本研究不考虑)中随机选择 $70 \\%$ 作为建模样本， $30 \\%$ 作为验证样本。通过对比 $\\mathrm { R } / ( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 各自构建的线性、指数、幂以及对数回归模型精度，发现指数模型最适宜估算LAI:$\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 指数模型在 $\\textstyle P { < } 0 . 0 1$ 水平下 $R ^ { 2 } { = } 0 . 6 9$ UAV-based $\\mathrm { V A R I _ { R G B } }$ 指数模型在 $P { < } 0 . 0 1$ 水平下 $R ^ { 2 } { = }$ 0.63。虽然 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 指数模型的建模精度略高于UAV-based ${ \\mathrm { V A R I } } _ { \\mathrm { R G B } }$ 指数模型，但参与建模的$\\scriptstyle \\mathrm { R } / ( \\mathrm { R + G + B } )$ 动态范围在 $0 . 3 1 8 { \\sim } 0 . 3 9 5$ ，其变异系数为0.05，说明建模的 $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 离散度非常低，这必然导致所构建的指数模型出现一个自变量 $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 对应多个因变量(LAI)现象(图5a)，说明估测LAI的不确定性太大，模型鲁棒性不足。相比之下，参与建模的UAV-based $\\mathrm { V A R I _ { R G B } }$ 动态范围为 $- 0 . 0 9 7 { \\sim } 0 . 1 7 6$ 其变异系数为0.95，说明建模的UAV-based $\\mathrm { V A R I _ { R G B } }$ 离散程度较大，这就在一定程度上降低了UAV-based$\\mathrm { V A R I _ { R G B } }$ 指数模型估测LAI的不确定性，增强了模型的鲁棒性 (图5b)。综合上述分析结果，研究选择UAV-based$\\mathrm { V A R I _ { R G B } }$ 指数模型 $\\mathrm { ( L A I { = } 1 . 3 3 8 \\ 1 ^ { * } e ^ { 8 . 5 5 7 \\ 5 ^ { * } U A V - b a s e d \\ V A R I _ { R G B } } }$ 作为3个关键生育期LAI估测模型，并利用 $30 \\%$ 验证样本对该模型进行精度检验(图6)，结果表明LAI实测值与LAI预测值拟合度较高( $R ^ { 2 } { = } 0 . 7 1$ ， $\\mathrm { R M S E } { = } 0 . 8$ ，$\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c093c03d71f22d94d42bc9b05505f0b6a9847341f7de3a96fe1728a9844db50.jpg",
+        "img_caption": [
+            "图5冬小麦关键生育期 $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ (a)和UAV-based $\\mathbf { V A R I } _ { \\mathbf { R G B } } ( \\mathbf { b } )$ 与LAI的指数模型 estimation exponent models based on $\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ (a) and UAV-based ${ \\mathrm { V A R I } } _ { \\mathrm { R G B } }$ (b) of winter wheat at key "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在现代农业高速发展的今天，快速、精确掌握作物长势信息是农业精准管理的关键。目前，围绕高性价比无人机遥感监测系统的科学研究已取得一些成绩，为无人机数码影像的实践应用提供了佐证;然而直接将无人机数码影像技术应用于LAI估测的相关研究还比较少。本文以冬小麦关键生育期无人机数码影像为数据源，计算出由RGB灰度值构建的10种数字图像特征参数，考虑到水肥管理差异、光温条件变化以及不同生育期群体结构特点对作物长势的影响(这些影响作用往往使植株不同部位发生色彩变化[24])，依次分析和评价了LAI和数字图像特征参数在品种、氮营养以及生育期3个条件下的变化特征和相关性。结果表明10种数字图像特征参数中 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 与LAI的关联性较好：一方面，受施氮差异影响，不同品种的LAI随生育期发生变化的同时， $\\scriptstyle \\mathrm { R } / ( \\mathrm { R + G + B } )$ 和UAV-based$\\mathrm { V A R I _ { R G B } }$ 也表现出规律性的变化；另一方面， ${ \\mathrm { R / ( R + } }$ $\\mathbf { G } { + } \\mathbf { B } _ { \\rule { 0 ex } { 3 ex } } ^ { \\prime }$ 和UAV-based $\\mathrm { V A R I _ { R G B } }$ 在3个条件(品种、氮营养水平以及生育期)下与LAI的相关性显著。$\\mathbf { R } / ( \\mathbf { R } { + } \\mathbf { G } { + } \\mathbf { B } )$ 在应用数字图像技术诊断作物氮素营养方面具有重要作用，李红军等[25]研究指出 ${ \\mathrm { R / ( R + } }$ $\\mathbf { G } { + } \\mathbf { B } )$ 与冬小麦植株全氮含量存在较好的相关性；魏全全等[26]研究发现 $\\mathrm { R } / ( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } )$ 是诊断冬油菜(BrassicacampestrisL.)氮素营养状况的最佳冠层图像参数;也有一些学者[27]将 $\\mathrm { R } / ( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } )$ 应用到SPAD值、植株硝酸盐含量、生物量等指标的诊断上。而本文的研究结果更进一步扩展了 $\\mathrm { R } / ( \\mathrm { R } + \\mathrm { G } + \\mathrm { B } )$ 的应用，使其可作为开展作物LAI估测研究的重要数字图像参数。UAV-based $\\mathrm { V A R I _ { R G B } }$ 是根据VARI计算原理构建的新型数字图像特征参数，其在一定程度上保持了VARI的优点，表现出对LAI信息的高度敏感，然而类似UAV-based $\\mathrm { V A R I _ { R G B } }$ 这种参照植被指数计算原理构建的数字图像特征参数在基于数字图像技术的作物营养诊断和表型参数估测方面的应用还比较少,本研究为今后利用数字图像技术探测作物理化参数提供了几点可借鉴的新思路。 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 与3个关键生育期的LAI关联性较好，但因本研究计算的$\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ 离散度偏低，导致其构建的指数模型估测的LAI不确定性较大;UAV-based VARIRGB的稳定性优于 $\\mathbf { R } / ( \\mathbf { R } + \\mathbf { G } + \\mathbf { B } )$ ，基于UAV-based $\\mathrm { V A R I _ { R G B } }$ 指数模型预测的LAI与实测LAI达到高度拟合 $( R ^ { 2 } { = } 0 . 7 1$ ，$\\mathrm { R M S E { = } } 0 . 8$ ， $P { < } 0 . 0 1$ )，所以确定UAV-based VARIRGB为反演冬小麦LAI的最佳参数指标；这说明在选择合适参数估测LAI时，不仅要考虑参数与LAI的相关性，同时也要分析LAI估测模型的稳定性。总之,本文证实了无人机数码影像估测冬小麦LAI是可行的，同时也为高性价比无人机遥感系统在精准农业中的应用增添了经验。与杨北方等[28利用地面数字图像估测棉花(Gossypium spp.)LAI 所得结论一致,本研究结果再一次证明应用数码图像监测作物长势以及为精准农业提供重要信息是有理论依据的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/11324fc514abd4890f4aa15839c73b0b41bde6c494e00b517d9fa2e309e26de3.jpg",
+        "img_caption": [
+            "图6冬小麦叶面积指数(LAI)预测值与实测值的比较 Fig.6Relationship between predicted and observed LAI valuesofwinterwheat "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "相比于传统的卫星遥感技术，基于数码相机构建的无人机遥感监测系统更便于实时、无损、快速地获取小范围单一作物长势信息。然而该方面的研究还不深入，存在一些不成熟的地方，如本试验中使用的数据虽然是在稳定的太阳辐射条件下以固定的曝光方式获取的，但辐射定标问题仍在一定程度上制约着无人机数码影像的应用。由于本研究重点在于分析利用无人机数码影像估测冬小麦LAI的可行性，所以文中未比较灰度值与光谱反射率在作物长势监测上的差异，但文瑶等[29]研究发现由灰度值校正的反射率比原始灰度值在监测作物长势方面优势更明显，而此结论将有助于后续无人机遥感相关研究的深入开展。再者，因本试验仅涉及4种氮素水平，所以构建的UAV-based $\\mathrm { V A R I _ { R G B } }$ 指数型LAI反演模型能否对其他氮水平下的LAI做出准确预测，以及在 $\\mathrm { L A I } { > } 6$ 时是否如VARI一样出现饱和效应，干扰LAI反演模型的预测能力，这也将作为后续的研究重点。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Chen JM,Cihlar J.Retrieving leaf area index of boreal conifer forests using Landsat TM images[J].Remote Sensing of Environment,1996,55(2):153-162   \n[2]王来刚，田永超，朱艳，等．不同时空分辨率遥感数据融合 估算冬小麦叶面积指数[J]．农业工程学报，2012，28(17): 117-124 WangLG,TianYC,ZhuY,etal.Estimation of winterwheat leaf area index by fusing different spatial and temporal resolution remote sensing data[J]. Transactions of the CSAE, 2012,28(17):117-124   \n[3]孙晓，谭炳香．基于CASI高光谱遥感数据的森林叶面积指 数反演[J].广东农业科学,2012,39(14):189-193 SunX,Tan B X.Estimating forest leaf area index based on CASI remote sensing data[J]. Guangdong Agricultural Sciences,2012,39(14):189-193   \n[4]付元元，杨贵军，冯海宽，等．基于高光谱维数约简与植被 指数估算冬小麦叶面积指数的比较[J].农业工程学报, 2012,28(23):107-113 Fu YY,Yang G J,Feng HK,et al. Comparison of winter wheat LAI estimation methods based on hyperspectral [5]Berni JA J,Zarco-Tejada PJ, Suarez L,et al. Thermal and narrowband multispectral remote sensing for vegetation monitoring from an unmanned aerial vehicle[J]. IEEE Transactions on Geoscience and Remote Sensing,20o9,47(3): 722-738   \n[6] 高林，杨贵军，王宝山，等．基于无人机遥感影像的大豆叶 面积指数反演研究[J]．中国生态农业学报，2015，23(7): 868-876 Gao L,Yang G J,Wang B S,et al. Soybean leaf area index retrieval with UAV (unmanned aerial vehicle)remote sensing imagery[J]. Chinese Journal of Eco-Agriculture,2015,23(7): 868-876   \n[7] 李冰，刘谘源，刘素红，等．基于低空无人机遥感的冬 小麦覆盖度变化监测[J]．农业工程学报，2012，28(13): 160-165 Li B,Liu R Y,Liu S H, et al. Monitoring vegetation coverage variation of winter wheat by low-altitude UAV remote sensing system[J]. Transactions of the CSAE,2012,28(13): 160-165   \n[8] Bareth G, Aasen H，Bendig J，et al.Low-weight and UAV-based hyperspectral ful-frame cameras for monitoring crops:Spectral comparison with portable spectroradiometer measurements[J]. Photogrammetrie-Fernerkundung-Geoinformation,2015,2015(1): 69-79   \n[9]单成刚，廖树华，龚宇，等．应用数字图像技术估测冬小麦 冠层生物量垂直分布特征的研究[J]．作物学报,2007,33(3): 419-424 Shan C G,Liao S H,Gong Y,et al. Application of digital image processing for determination of vertical distribution of biomass in the canopy of winter wheat[J].Acta Agronomica Sinica,2007,33(3): 419-424   \n[10]李明，张长利，房俊龙．基于图像处理技术的小麦叶面积 指数的提取[J]．农业工程学报,2010,26(1):205-209 Li M, Zhang C L,Fang JL. Extraction of leaf area index of wheat based on image processing technique[J]. Transactions of the CSAE,2010,26(1): 205-209   \n[11]孙涛，刘振波，葛云健，等．基于数码相片Gamma 校 正的水稻叶面积指数估算[J]．生态学报，2014，34(13): 3548-3557 Sun T,Liu Z B,Ge Y J,et al. Estimation of paddy rice leaf area index based on photo gamma correction[J].Acta Ecologica Sinica,2014,34(13): 3548-3557   \n[12]Gago J,Douthe C,Coopman R E,et al. UAVs challenge to assess water stress for sustainable agriculture[J].Agricultural Water Management, 2015,153: 9-19   \n[13] Bendig J, Bolten A, Bennertz S,et al. Estimating biomass of barley using crop surface models(CSMs） derived from UAV-based RGB imaging[J]. Remote Sensing,2014,6(11): 10395-10412   \n[14]汪小钦，王苗苗，王绍强，等．基于可见光波段无人机遥感 的植被信息提取[J]．农业工程学报,2015,31(5):152-159 Wang X Q，Wang M M,Wang S Q,et al.Extraction of images[J]. Transactions of the CSAE,2015,31(5): 152-159   \n[15] Richardson M D, Karcher D E,Purcell L C. Quantifying turfgrass cover using digital image analysis[J]. Crop Science, 2001,41(6):1884-1888   \n[16]李存军，王纪华，刘良云，等．基于数字照片特征的小麦覆 盖度自动提取研究[J]．浙江大学学报：农业与生命科学版, 2004,30(6): 650-656 Li C J,Wang JH,Liu L Y,et al. Automated digital image analyses for estimating percent ground cover of winter wheat based on object features[J]. Journal of Zhejiang University: Agriculture & Life Sciences,2004,30(6): 650-656   \n[17]李岚涛，张萌，任涛，等．应用数字图像技术进行水稻氮素 营养诊断[J]．植物营养与肥料学报,2015,21(1):259-268 Li L T, Zhang M, Ren T, et al. Diagnosis of N nutrition of rice using digital image processing technique[J]. Journal of Plant Nutrition and Fertilizer,2015,21(1): 259-268   \n[18] Motohka T, Nasahara K N,Oguma H,et al. Applicability of green-red vegetation index for remote sensing of vegetation phenology[J]. Remote Sensing,2010,2(10): 2369-2387   \n[19] Gitelson A A,Vina A,Arkebauer TJ,et al. Remote estimation of eaf area index and green leaf biomas in maize canopies[J]. Geophysical Research Letters,2003,30(5)，doi: 10.1029/ 2002GL016450   \n[20]Hunt Jr ER,Doraiswamy PC,McMurtrey JE,et al.Avisible band index for remote sensing leaf chlorophyll content at the canopy scale[J]. International Journal of Applied Earth Observation and Geoinformation,2013,21:103-112   \n[21]Woebbecke D M,MeyerG E,Von Bargen K,et al.Color indices for weed identification under various soil,residue, and lighting conditions[J].Transactions of the ASAE,1995, 38(1):259-269   \n[22] Hong G W,Luo MR,Rhodes P A.A study of digital camera colorimetriccharacterizationbasedonpolynomial modeling[J].Color Research & Application, 2001,26(1): 76-84   \n[23]王方永，王克如，李少昆，等．应用两种近地可见光成像传 感器估测棉花冠层叶片氮素状况[J]．作物学报,2011,37(6): 1039-1048 Wang F Y, Wang KR, Li S K, et al. Estimation of canopy leaf nitrogen status using imaging spectrometer and digital camera in cotton[J]. Acta Agronomica Sinica,2011,37(6): 1039-1048   \n[24]李亚兵，毛树春，韩迎春，等．不同棉花群体冠层数字图像 颜色变化特征研究[J]．棉花学报,2012,24(6):541-547 Li Y B,Mao S C,Han Y C,et al.Study on the color characteristics variation of cotton canopy digital images[J]. Cotton Science,2012,24(6): 541-547   \n[25]李红军，张立周，陈曦鸣，等．应用数字图像进行小麦氮素 营养诊断中图像分析方法的研究[J]．中国生态农业学报, 2011, 19(1): 155-159 Li H J, Zhang L Z,Chen X M, et al. Image analysis method in application of digital image on diagnosing wheat nitrogen status[J].Chinese Journal of Eco-Agriculture,2011，19(1): 155-159   \n[26]魏全全，李岚涛，任涛，等．基于数字图像技术的冬油菜氮 素营养诊断[J]．中国农业科学,2015,48(19):3877-3886 Wei QQ,LiL T,Ren T,et al.Diagnosing nitrogen nutrition status of winter rapeseed via digital image processing technique[J]. Scientia Agricultura Sinica,2015,48(19): 3877-3886   \n[27]肖焱波，贾良良，陈新平，等．应用数字图像分析技术进行 冬小麦拔节期氮营养诊断[J].中国农学通报，2008，24(8): 448-453 Xiao $_ { \\mathrm { ~ Y ~ B ~ } }$ ,Jia L L,Chen X P,et al.N status diagnosis of winter wheat by using digital image analysis technology[J]. Chinese Agricultural Science Bulletin,2008,24(8):448-453   \n[28]杨北方，韩迎春，毛树春，等．基于数字图像的棉花长势空 间变异分析[J].棉花学报,2015,27(6):534-541 YangBF,HanYC,MaoSC,etal.Analysisofthespatial variability in cotton growth conditions based on digital imaging[J]. Cotton Science,2015,27(6): 534-541   \n[29]文瑶，李民赞，赵毅，等．玉米苗期冠层多光谱反射率 反演与叶绿素含量诊断[J]．农业工程学报,2015,31(S2): 193-199 Wen Y,Li M Z,Zhao Y,et al.Multispectral reflectance inversion and chlorophyll content diagnosis of maize at seeding stage[J].Transactions of the CSAE,2015,31(S2): 193-199 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

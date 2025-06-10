@@ -1,0 +1,246 @@
+# 人际同步对合作行为的促进机制及解释模型
+
+马昕玥崔丽莹
+
+(上海师范大学教育学院心理学系，上海 200234)
+
+摘 要 同步作为集体仪式的核心要素，对群体生存和发展具有重要意义。人际同步是一种特殊的协调行为，具有锁时锁相的特征。近年来研究发现同步能够促进合作等亲社会行为，具体的促进机制包括神经生理的激活、社会联结感的增强、认知灵敏度的提高和积极情绪的唤起，学者们也从不同角度提出了三种不同的解释模型：自我-他人重叠模型、合作加强模型和集体沸腾模型。未来的研究需要进一步剖析同步行为的亲社会功能，厘清同步效应的调节机制、特异性和普适性。
+
+关键词人际同步，合作，社会联结感，群体身份认同，自我-他人表征重叠
+
+从仪仗士兵的一致步调，到宗教信徒祈祷时的同步鞠躬，从异口同声的团队合唱到整齐划一的广场舞，同步(synchrony)是人类社会生活的常见行为特征，同步中的个体往往具有一致的运动节律。Lakens (2010)认为运动节律是个体用来推断某个人是否属于社会群体的重要信息来源。研究发现，同步能够有效促进社会联结(Tuncgenc＆Cohen,2016)，与他人同步是陌生的个体间建立社会联系的有效手段(Ehrenreich,2007)。同步的研究可以追溯至对宗教仪式的探讨。仪式(ritual)是文化的传承，人类的行为标记，同步是仪式的重要组成部分，同步动作是集体仪式的核心要素之一(邹小燕 等,2018)。Fischer 等人(2013)认为行为的同步和仪式的神圣价值是集体仪式促进合作动机与行为的潜在机制。目前对同步行为的研究已经从人类学、宗教学发展到社会心理学和认知神经科学，聚焦于同步的产生及其机制。
+
+作为社会交往顺利进行的前提条件，人际同步(interpersonal synchrony)与行为匹配(behavioral matching)同属于人际协调(interpersonal coordination) (Bernieri & Rosenthal,1991)。两者都表示人与人在身体运动上的一致性，但在行为时间和动作精确性上存在差异(Chartrand&Lakin,2013)。行为匹配又称行为模仿(behavioral mimicry)，即模仿他人的动作，达成动作匹配可存在短暂的时间延迟，初始行为(initiated behavior)与重复行为(copiedbehavior)间一般不超过5s (Chartrand&Lakin,2013)；人际同步指两个或更多人的动作在时间上的重叠，即两个或两个以上的个体以时间锁定/锁时(time-locked)的方式展开的一系列运动(Cirelli,2018)。邹小燕等人(2018)将同步动作定义为以相同频率和(或)周期对周期性行为进行匹配的趋势，强调群体成员之间动作的协调一致性。其中，狭义同步指个体动作在时间和相位上(in time and phase)与另一个人的精确匹配(exact rhythmic matching of actions)(Moganet al.2017)，强调行为同时(in-time)同相(in-phase)发生。广义同步可以包括同相同步和反相(anti-phase)同步，例如，当两个人同时以相同速度举起右臂然后同时以相同速度举起左臂，即同相同步；但如果两人节奏相同但一人举起左臂而另一人举起右臂，则相位不同但频率相同，即反相同步。虽然同相和反相都是稳定的协调模式，但同相同步更为稳定(Rennung &Goritz, 2016)。
+
+# 人际同步对合作的影响
+
+越来越多的研究证明人际同步能够促进个体的合作行为。Anshel和Kipper(1988)最早关注到集体歌唱对信任与合作的积极作用，他们将音乐和活动分别进行检验，发现共同听音乐提高了人际间的信任，同步活动增加了囚徒困境中的合作行为。Wiltermuth 和Heath (2009)设计了三个实验考察人际同步对合作的影响，前两个实验发现使用行走任务和“杯子与音乐”任务操控人际同步后，个体在薄弱环节协调测验(Weak Link Coordination Exercise)中对他人的合作预期显著高于异步组；第三个实验发现人际同步的操纵对公共物品困境中的合作行为也有类似的促进效果，即使需要牺牲个人利益，与他人同步后的个体仍然保持较高合作。Reddish,Fischer 和 Bulbulia (2013)将合作行为的测量从公共物品游戏扩展到猎鹿博弈，进一步发现共享意向性(shared intentionality)在促进同步群体合作中的重要性，当同步动作与共享意向相结合时产生的合作水平最高，这表明当同步作为集体目标驱动时会更有力地促进合作。从以往人际同步与合作行为的关系研究来看，不仅双人同步(Cross et al.，2019;Rabinowitch & Meltzoff,2017; Valdesolo et al.，2010)、三人及以上的群体同步(Good et al.,2017；Reddish，Fischer，& Bulbulia，2013；Sullivan etal.，2015)，甚至大规模的群体同步(Jackson et al.,2018;von Zimmermann &Richardson,2016)都可以促进合作行为。而且，这种促进作用既存在于经典的合作实验范式(如囚徒困境和公共物品博弈)中(Cross et al.，2019;Fischer et al.,2013; Good et al.,2017; Sulivan et al.,2015)，也存在于真实生活中的合作行为(如合作完成一项任务)(Jackson et al.,2018; Rabinowitch & Meltzoff,2017; von Zimmermann &Richardson，2016)。元分析发现，同步对合作行为的促进作用的效应量可以达到0.25(Vicaria & Dickens,2016)。
+
+从发展角度来看，同步对合作的促进效应始于何时呢？研究发现，12个月的幼儿已经表现出对同步的偏好，他们更喜欢与自己同步运动的玩具(Tunggeng etal.,2015)。4岁儿童在同步的音乐制作活动后会表现出更多自愿的帮助行为和自发的合作行为(Kirschner&Tomasello,2010)。与异步运动或不运动组相比，在任务执行之前获得的同步运动经验增强了4 岁儿童的合作能力，同步组与陌生同龄人共同完成合作性任务(联合按键任务和“给”与“拿”任务)的速度更快，同步经验增加了伙伴之间的有意交流，从而导致更多的协调与合作(Rabinowitch & Meltzoff, 2017)。
+
+# 2同步促进合作的过程机制
+
+同步何以促进合作？从已有文献来看，以往的研究者主要从四个方面解释了同步对合作的促进过程：神经生理系统的激活提供了生理基础；认知灵敏度的提高奠定了心理基础；社会联结感的增强和积极情绪的唤起促进了人际水平的积极互动。
+
+# 2.1神经生理系统的激活
+
+首先，行为同步带来的生理同步(physiological synchrony)有助于群体纽带的形成。有研究比较了三人同步或异步击鼓时的心电图和自我报告的群体凝聚力，发现行为同步和生理同步均可以预测个体感知到的群体凝聚力，但只有生理同步预测了个体随后的合作(Gordon etal.,2020)。不同类型生理同步的作用可能不同。两人在面对面的囚徒困境游戏中心率和皮肤电均出现同步，但只有皮肤电的同步性能预测合作(Behrens etal.,2020)。
+
+其次，大脑的奖励系统，包括涉及欲望和动机的神经结构，创造了一个正向的反馈回路，从而在同步效应中发挥作用。有研究采用fMRI探讨同步行为对合作行为的影响，发现与他人同步敲鼓后个体更愿意帮助一起敲鼓的人，并且在同步敲鼓时尾状核体被激活了，说明奖赏系统参与了这一行为，即同步行为激活了大脑的奖赏系统进而促使个体更多地帮助同伴(Kokal et al., 2011)。
+
+最后，神经生物学理论假设内源性阿片系统(the endogenous opioid system)的调节影响了社会反应(Mogan et al., 2017)。 ${ \bf \nabla } \cdot \beta \cdot$ -内啡肽释放假说认为同步性会激活内源性阿片系统从而导致亲和性和社会性奖励行为的增加(Loseth et al.,2014)。人们常用疼痛阈值作为内啡肽的指标，内啡肽升高会导致疼痛阈值增加，同步后个体疼痛阈值的升高表明内源性阿片系统被激活。几项有关人际同步的研究，如集体划船(Cohen et al.,2010)、同步演唱(Weinstein et al.,2016)、击鼓(Dunbar et al.,2012)和跳舞(Tarr et al.,2016)均发现与他人同步后疼痛阈值增加。Lang 等人(2017)将同步的亲社会效应分为态度效应(即同步促进喜爱度增加)和行为效应(即同步促进基于信任的合作行为)，发现疼痛阈值增加与喜爱度和合作等亲社会性指标之间存在显著正相关，同步可能通过提高疼痛阈值来增加信任游戏中的合作行为。换言之，内源性阿片系统的激活，如 ${ \mathfrak { \beta } }$ -内啡肽的释放，可能是促进合作的重要因素。但 Sullivan 等人(2015)的研究没有发现疼痛阈值的中介作用，可能因为这一研究采用的是在跑步机上的同步运动，疼痛阈值的测量方式(非入侵式的血压袖带)在这类活动中受限。
+
+# 2.2社会联结感的增强
+
+同步行为是重要的社会信息来源。人际同步具有特定的运动学特质，这些特质可以促进社会联结，塑造社会观念(Macpherson et al.,202O)。社会联结(social bonding)是个体对周围世界人际关系亲密度的自我觉察，是个体归属感的重要成分(邹小燕 等,2018)。已有研究对社会联结感知的测量维度包括信任、实体性(entitativity）、相互关联性(interconnectedness）、亲密度、吸引力、相似性、喜欢、亲和性(affiliation)、融洽关系(rapport)、凝聚力、归属感、认同等。元分析发现同步对社会联结感知有小程度的正向影响(Mogan et al.,2017;Rennung &Goritz,2016)。具体影响可以分为三个方面：
+
+首先，同步可以增加同伴间的喜爱、亲和性或亲近感。Hove 和Risen (2009)邀请被试和实验者敲击同一节奏或不同节奏，结果被试更偏好与自己同步的实验者。同步还可以降低偏见，增加亲近感，使个体更希望再次见到他们的同伴(Atherton et al.,2019)。一项使用沉浸式虚拟现实(VR)的研究发现，同步状态下被试与虚拟共同参与者的社交亲密度显著高于不同步被试，表明同步产生的积极影响在虚拟现实环境中也是有力的(Tarr etal.,2018)。
+
+其次，同步可以促进对他人的同情或信任。Valdesolo 和DeSteno (2011)发现与异步他人相比，个体会对同步他人产生更多的同情，感知相似性起到了中介作用。同步让个体感觉与群体其他成员更相似且更信任对方(Wiltermuth&Heath,2009)。这意味着同步性可能形成一个基本信号，大脑通过这个信号来解释个体与同步他人之间的相似性或统一性，并调整随后的情绪反应和道德行为。
+
+最后，同步可以促进对集体的社会认同。与他人的同步运动会促进集体的社会认同，从而增加群体内部的合作(Good et al.,2017)。但高度同步也可能带来不良影响，高度同步的被试对同步他人违法行为的判断比低同步或不同步的被试更宽松，对群体团结的感知(theperception of group unity)中介了这一路径(Chvaja et al.,202O)。此外，与同伴的“相互社会注意系统”，即个体间的颞顶叶连接和/或前额叶皮层之间的耦合，也能促进社会互动和整合，增强适应特定互动、同伴及目标的能力(Gvirts&Perlmutter,2019)。
+
+# 2.3认知灵敏度的提升
+
+同步对认知过程的影响涉及到注意力、记忆、心理理论、任务的感知敏感性、对自由的感知等，但与合作有关的促进过程主要体现在两方面：首先，同步可以提高感知觉的敏感性(perceptual sensitivity)。Valdesolo 等人(2010)发现同步摇摆增强了个体对其他实体运动的感知敏感性，进而促使其在木质迷宫实验的合作任务中获得成功。感知敏感性完全中介了同步对合作任务的影响，说明与他人同步可以通过提高感知敏感性提升对同伴活动的觉察和回应，从而增加在未来合作活动中成功的可能性。其次，人际同步可以促进个体的心智化(mentalizing)。心智化系指个体对他人心理状态的推断，在社会互动中，对他人心理需求和状态的推断与关注均有利于促进合作等亲社会行为。但这种促进作用只表现在对同步他人的推断，而不能泛化(Baimel et al.,2018)。
+
+目前对人际同步促进合作行为中认知过程的关注较少，但是根据自我-他人表征重叠理论：自我-他人重叠作为一种认知现象(訾红岩，何嘉梅，2019)，人际同步可以促进对自我与他人概念表征的融合。因此注意和认知敏感性等认知过程在同步对合作的促进作用中扮演着什么样的角色还需要更多的研究与探讨。
+
+# 2.4积极情绪的唤起
+
+人际同步对积极情绪的唤起具有促进作用。与他人同步会使个体感觉良好，产生积极情绪(Galbusera et al.,2019;Mogan et al.,2017,2019; Tschacher et al.,2014)，元分析发现同步性对积极情绪的正向影响效应中等(Mogan et al.,2017)。已有文献对积极情绪的测量通常包括积极情绪、一般生活满意度和幸福等维度。同步性与积极情绪呈正相关，与消极情绪呈负相关，且这种关系在同步者均为女性时更强(Tschacher et al.,2014)。积极情绪在社会互动中有着重要作用，可以正向预测个体的合作行为(Rand etal.,2015)，因此同步行为也可通过增强积极情绪进而促进合作行为。但也有研究显示与他人同步没有增加愉悦感(Reddish，Fischer,& Bulbulia,2013;Wiltermuth&Heath,2009)，或者不论个体同步或异步后均表现出积极情绪上升、消极情绪下降(Tarr et al.,2016)。这表明可能是活动本身而非同步性促进了积极情绪，但这一猜想还需要更多研究证明。
+
+综上所述，人际同步对合作的促进过程不仅体现在认知和情绪的变化上，也反映在生理反应和社会联结层面。然而，由于每个实证研究探索的目标问题和聚焦点不同，大部分的研究结果只能并列呈现，既无法呈现各类因素之间的关联，比较不同因素在作用模式上的差异，也无法揭示不同因素之间是否存在交互影响。基于人际互动的复杂性，同步对合作的影响也是一个复杂的过程，单一研究无法提供完整的阐释和说明。
+
+# 3同步促进合作的解释模型
+
+基于对同步促进作用的过程分析，以往的研究者们分别从不同角度提出了三种同步促进合作的模型假设：自我-他人表征重叠模型认为个体通过对自我与他人表征和行为的相似性感知产生联结感，从而促进合作行为；合作加强模型认为通过强调共同目标、增加联合注意会增强个体的积极预期，从而促进合作行为；集体沸腾模型认为与他人同步创设了一种积极的情绪氛围，个体在这种氛围的渲染下产生积极情绪与身份认同，从而促进合作行为。在以上三个模型的基础上，结合同步促进合作的相关文献，本文提出了一个综合模型(见图 1)，该模型整合了同步促进合作的不同过程机制和潜在边界条件。
+
+# 3.1自我-他人表征重叠模型
+
+个体行为在时间上的协调涉及自我与他人之间界限的构建和引导(Baimel etal.,2018)。Aron 等人(1991)首先提出自我-他人重叠概念，自我-他人表征重叠(self-other representationaloverlap)又称自我模糊模型(the blurring-of-self model)，该模型认为随着人们彼此同步的活动，自我和他人之间的界限变得模糊。个体可能会逐渐减少自己和他人之间的区分，甚至将他人纳入自我，将他人的资源、观点和特质视为自己的一部分，在表征他人和表征自己时出现信息表征重叠的现象(訾红岩，何嘉梅,2019)。自我-他人重叠可以促进助人行为，随着自我-他人重叠程度越高，个体的助人时间越长，助人的意愿程度更大(钟毅平 等,2015)。精确同步具有时间和相位锁定的性质，同步动作将更多地抑制自我-他人边界。
+
+广泛的神经编码可以被同步行为放大，在一定程度的认知加工后，可能导致他人生成和自我生成行为的混合(Paladino et al.,2010)。根据感知运动模型(Perception Action Model)，同步会驱动社会感知(Behrens et al.,2020)，将互动伙伴视为自己的一部分可能会导致感觉上更接近他们(Fischer et al.,2013;Overy&Molnar-Szakacs,2009)。同步行为对联结感知的影响证明了这一点(Atherton et al.,2019; Chvaja et al.,2020)。虽然目前缺少对合作研究的直接证据，但有研究者发现自我-他人重叠对同步影响亲社会性具有重要的解释作用。信任博弈中同步性对同步他人喜爱度的影响受到自我-他人重叠的中介(Lang etal.,2017)。Feng 等人(2020)进一步使用 fNIRS 探讨了同步对独裁者游戏中的亲社会行为的影响，发现与对照组相比，同步组中成对被试的行为同步、右侧前额叶皮层的人际神经同步(INS)、自我-他人重叠、感知的相似性和亲和力更高，自我-他人的重叠和INS 在行为同步对亲社会行为的影响中起着串行中介作用。
+
+# 3.2合作加强模型
+
+社会联系(social bonding)源于以群体为中心的社会认知。同步行动会增加注意力的社会分配，使个体更多关注和回应群体成员的行为(Macrae etal.,2008)，从而增加群体成员间的社会联系(Wolf etal.，2015)，推动个体将感受到的社会凝聚力转化为联合行动。Reddish,Fischer 和 Bulbulia (2013)提出的合作加强模型(the reinforcement of cooperation model)认为,同步行动与共同目标相结合时提高了合作预期，并进一步提高合作行为。当形成同步的共同目标时，对同步的感知能够为成功的合作提供即时反馈，即感知到的同步越多，个体对合作成功的感觉越强烈，进一步强化了群体团结的认知，个体也从群体中感受到更大的信任和信心，相信群体内的其他个体会选择合作，从而加强群体的合作趋势。
+
+Reddish,Fischer和 Bulbulia(2013)验证了同步的效应确实是由成功合作的感知驱动，提高信心和信任然后转移到未来的合作任务，研究者比较了同步、异步、被动和共享意向(将同步作为小组的共同目标)四种条件下的合作行为，发现共享意向时产生了最高水平的合作，且与其他条件相比，处于共同目标条件下的被试感觉与小组成员更加接近，这表明共同努力创造同步性会使个体认为自己与小组更加融合，当同步性和和共享意向性相结合时，个体的合作性显著增强。后续研究证明，感知到的合作水平在同步与对互动伙伴的喜欢度之间发挥着重要的中介作用，即人际同步提高了个体对他人合作的感知，进而增加了对合作对象的喜爱(Lang et al., 2017)。
+
+# 3.3集体沸腾模型
+
+人类生活中的同步行为，如跳广场舞或大合唱，常常会给人带来激昂向上的情绪，甚至可能会兴奋。集体沸腾(collective effervescence)概念最早出现在 Durkheim(1915/1968)对集体仪式的描述中，指通过充满活力的群体活动增加积极情绪和社会凝聚力的过程(Jackson et al,
+
+2018)。集体沸腾的产生可以唤起个体的群体身份意识。Durkheim说“一旦个体聚集在一起，一种电从他们的接近中产生，并迅速将他们发射到一个非凡的高度”。在此基础上，蜂巢假设(Hive Hypothesis)提出当一个人沉浸在社会群体中时，他的幸福感会增强(Haidt et al.,2008)。人际同步是一种个体间以完全相同的节奏和幅度活动的行为方式，在同步活动中个体容易将自己沉浸在同步群体中，产生愉悦、幸福等情绪或情感，而积极情绪体验对合作具有正向预测作用(窦凯 等,2018)，因此同步后个体可能更加合作、奉献集体，将群体利益放在首位。虽然关于集体沸腾模型的验证性研究较少，甚至有些研究没有发现情绪上的差异(Tarr et al.,2016;Wiltermuth&Heath,2009)，但许多研究者都认同这一模型的可能性(Gelfandet al.,2020;Mogan et al.,2017; Tuncgeng&Cohen,2016)。首先，根据集体沸腾的定义，这种集体兴奋感对整个社会具有适应性作用；其次，实验室中的同步与现实的同步差异较大(Mogan etal.,2017)，实验中对同步性的操作往往会刻意控制其他因素(如，情绪)的影响，导致实验室中的同步(如，行走或机械的活动手臂)更加单调，而现实生活中的同步，尤其是集体仪式，本身可能具有丰富的情感色彩。
+
+以上三个模型既存在区别又包含着一些内在联系。有研究者认为群体规模可能通过影响注意分散进而影响不同模型的作用，小规模群体更适合自我-他人表征重叠模型，而大规模群体中集体沸腾模型的解释可能更好(Mogan et al.,2017)。虽然三个模型对同步效应的解释各有侧重，但核心都是将同步者看作是一个整体，在人与人的同步过程中，不仅仅是行为上的相似，个体的认知和情绪也会逐渐与同步对象联结和整合在一起，在心理上形成对新群体的趋近、认同和归属。这与Michael等人(2020)对协调促进亲社会的机制的阐述类似。首先，协调通过对他人福祉的关心(concern for others'well-being)、信任和行动的承诺感(sense ofcommitment to perform an action)产生亲社会动机(prosocial motivation)；其次，无论群体还是个体水平，协调均可以帮助个体明确亲社会行为的对象，增强亲社会性动机进而促进亲社会行为。从群体水平，协调行为的一个重要功能是表达个体间的相似性(similarity)，这种表达可以分为行为(即，同时做同样的事)、目标(共同目标)和关注焦点(共同注意)三个水平，而不论是何种水平的相似性，协调的亲社会效应均产生于群体身份认同(group-identification)；从个体水平，协调行为是传达同伴能力和意愿的重要线索，成功的协调表明对方具有较高的能力，愿意为他人调整自身行为。受到 Michael等人(2020)的启发，本文在三个模型基础上，整合并构建了同步促进合作的心理过程模型(见图 1)。
+
+![](images/f25aba1fe1abf08d2fb46342561a3580c6428da45e59c444dbc7fb52af2b239b.jpg)  
+图1同步促进合作的心理过程模型
+
+根据这一模型，同步既可以直接产生合作动机来促进合作，也可以通过明确合作对象进而增强合作动机来增进合作。同步带来的共同行为、共同目标和注意以及积极情绪氛围诱发的积极情绪可以促进对群体身份的认同；与此同时，同步也传达了同伴能力高低和为他人改变意愿的程度等重要线索。将某人视作群体一员和接收到他人的积极线索都可能诱发个体的关心、喜爱、信任和承诺感，进而增加合作动机与合作行为。虽然人际同步对合作行为的促进作用在不同实验室情境和现实情境均得以验证，即这一效应具有一定的普适性，但同步对合作的促进效应仍然会受到个体、同步对象和情境等诸多变量的影响。合作动机并不等于合作行为，在不同合作类型中同一动机对合作行为的激发作用可能不同：信任是合作的基础，对不同类型的合作具有稳定的预测作用；对他人福祉的关心体现了合作概念中对他人利益的关注，因此也可能促进不同类型的合作，尤其是个人和集体利益冲突的情境下的合作；而喜欢和承诺感的稳定性更差，更可能受到合作情境等因素的影响从而在不同类型的合作中作用不同，但这仍需要更多研究的验证。因此未来研究还需要对上述模型中不同心理路径及其边界条件进行更多验证。
+
+# 4未来研究展望
+
+由于同步与合作间的因果联系建立起来不久(Anshel&Kipper,1988;Wiltermuth&Heath,2009)，已有的研究数量不多且研究结果存在不一致。比如，在对Wiltermuth 和Heath (2009)
+
+的重复实验中，Schachner和Garvin (2010)对实验者进行了单盲操纵，结果没有发现同步对合作的促进作用；Cohen等人(2013)曾检验同步与世俗/宗教启动对合作行为的交互作用，发现只有宗教启动促进合作行为而同步与否对合作没有影响，原因可能是该研究用击鼓作为同步操纵，动作简单、重复、幅度小且持续时间短，同步强度不足以产生促进合作的条件，该研究也未发现同步后疼痛阈限的增加和相似感、积极情绪的变化；Tarr 等人(2016)也没有发现同步促进个体在经济游戏中的捐赠，可能原因是被试单独学习同步动作后根据耳机中的音乐和指示进行活动，从而减少了对他人的关注。这些结果都表明，同步对合作行为的促进效应容易受到其他因素的干扰，未来研究可进一步探索。
+
+首先，人际同步促进合作行为的时效性和广泛性还需要更多验证。目前对合作助人等亲社会行为的测量均在同步行为结束后立刻实施(Atherton etal.,2019)，也有研究检验了人际同步在咨询与干预中对社会情感和认知功能的促进作用(Feniger-Schaal et al.,2020;Keisari etal.,2020)。但同步对合作行为的影响到底有多久，能否作为一种有效的促进合作水平与合作能力的手段仍需要更多研究证明。此外，同步的亲社会效应能否泛化？有些研究者认为同步的亲社会效应具有特定指向性，个体只对内群体成员表现出亲社会性(Tarr etal.,2015)；但也有研究者发现当第三方被证明与同步他人存在特定联系(如朋友)时，即使第三方并没有与被试同步仍然可以获得较多的帮助(Cirelli et al.,2016)，甚至同步可以诱导广义的亲社会性，无论非同步他人是个体还是群体(Reddish,Bulbulia,&Fischer,2013;Reddish etal.,2016)。
+
+其次，同步对合作的影响机制之间可能是一种共存互补的关系，同步对合作的影响也可能受到其他因素的调节。比如自我-他人重叠和感知的合作调节了同步性对人际喜欢的影响，而信任行为由疼痛阈值的变化调节(Lang et al.,2017)。不同的神经认知和情感心理机制可能介导同步对不同反应的影响，而这种介导受到群体规模大小的调节(Mogan et al.,2017)。有研究同时操纵了同步行为和生理唤醒，发现同步和唤醒共同预测了未来形成更大、更紧密的群体聚集和困境中更高的合作水平(Jackson et al.，2018；von Zimmermann & Richardson,2016)。还有研究发现不同文化背景的人同步后合作更高；相同文化背景则没有这种结果(Cross etal.,2019)。这可能提示了人际同步对合作行为的促进作用可能对在某些情况下被掩盖，当同步个体间原本就具有明显而强烈的社会联结，同步的亲社会效应可能就不显著。未来的研究需要进一步探讨同步效应的调节机制，揭示社会身份、群体规模、合作行为类型和文化背景等多种因素的影响。
+
+再次，不同类型的同步行为间以及同步与其他类型协调运动间对合作的影响的差异研究较少。同步类型(如行为同步和状态情绪同步、无意和有意同步)是否影响对合作的促进作用？有研究发现共同经历相同负性情绪事件促进合作行为，即共患难更同盟(苗晓燕 等，2021)，甚至当个体处于同一着装状态也会提高群体凝聚力和协调性(Yang et al.,2020)。此外，模仿也能通过增加喜欢、联系和融洽来促进社会凝聚力，但与同步可能具有不同的社会功能。以往研究发现，同步可以在完全有意识的、明确的指导下发生，但模仿中只有当被模仿者没有意识到模仿才会在人际交往中产生积极的社会后果(Valdesolo et al.,2010)。因此未来的研究需要进一步厘清同步效应的特异性。
+
+最后，人际同步也可能具有反社会效应。如削弱个体的情绪调节能力(Galbusera et al,2019)，损坏个体与外群体的联系造成群际偏差(intergroup bias)(邹小燕 等,2018)，激发群体冲突、减少群体创造力和增加有害的服从(Gelfand etal.,2020)。高度同步会放大对内群体的偏好，导致对道德规范的不公正应用(Chvajaet al.,2020)。未来的研究应该关注如何有效增加同步行为的亲社会功能，减少反社会风险。如，在人际交往中同步活动可能有助于克服刚开始与陌生人互动的痛苦并最终增加社会联结与信任合作。
+
+# 参考文献
+
+窦凯，刘耀中，王玉洁，聂衍刚.(2018).“乐”于合作：感知社会善念诱导合作行为的情绪机制．心理学报50(01),101-114. https://doi.0rg/10.3724/SP.J.1041.2018.00101
+
+苗晓燕，孙欣，匡仪，汪祚军.(2021).共患难,更同盟：共同经历相同负性情绪事件促进合作行为.心理学报，53(01),81-94. https://doi.org/10.3724/SP.J.1041.2021.00081
+
+钟毅平，杨子鹿，范伟.(2015)．自我一他人重叠对助人行为的影响:观点采择的调节作用.心理学报,47(08),1050-1057.https://doi.0rg/10.3724/SP.J.1041.2015.01050
+
+訾红岩，何嘉梅.(2019)．自我-他人重叠及其相关概念辨析.心理科学进展,27(07),1238-1247.https://doi.0rg/10.3724/SP.J.1042.2019.01238
+
+邹小燕，尹可丽，陆林.(2018).集体仪式促进凝聚力：基于动作、情绪与记忆.心理科学进展,26(05),939-950.https://doi.0rg/10.3724/SP.J.1042.2018.00939
+
+Anshel,A.,& Kipper,D.A. (1988). The influence of group singing on trust and cooperation. Journal of Music Therapy,25(3),145-155.https://doi.org/10.1093/jmt/25.3.145
+
+Aron,A.,Aron,E.N.,Tudor,M.,&Nelson,G.(1991).Close relationshipsas includingotherin theself.Journal of Personality and Social Psychology,60(2),241-253. htps://doi.org/10.1037/0022-3514.60.2.241
+
+Atherton,G.,Sebanz,N.,&Cross,L.(2O19).Imagine all the synchrony:The effects of actual and imagined synchronous walking on attitudes towards marginalised groups. PLOs ONE,14(5),Article e0216585. https://doi.org/10.1371/journal.pone.0216585
+
+Baimel,A.,Birch,S.A.J.,& Norenzayan,A. (2O18). Coordinating bodies and minds: Behavioral synchrony fosters mentalizing.Journal of Experimental Social Psychology,74,281-290. https://doi.org/10.1016/j.jesp.2017.10.008
+
+Behrens,F.,Snijdewint,J.A.,Moulder,R.G.,Prochazkova,E.,Sjak-Shie,E.E.,Boker,S.M.,&Kret,M.E. (2020).Physiological synchrony is associated with cooperative success inreal-life interactions.Scientific Reports,10(1),Article 19609 (2020). https://doi.0rg/10.1038/s41598-020-76539-8
+
+Bernieri,F.J.,&Rosenthal,R. (1991). Interpersonal coordination: Behavior matching and interactional synchrony. In R. S.Feldman & B. Rimé (Eds.), Fundamentals of nonverbal behavior (pp.401-432). Cambridge University Press.
+
+Chartrand,T.L.,&Lakin,J.L. (2O13).The antecedents and consequences of human behavioral mimicry.Annual Review of Psychology,64(1),285-308.https://doi.org/10.1146/annurev-psych-113011-143754
+
+Chvaja,R., Kundt,R.,& Lang, M. (2O2O). The effects of synchrony on group moral hypocrisy.Frontiers in Psychology,11,Article 544589.https://doi.org/10.3389/fpsyg.2020.544589
+
+Cireli,L.K. (2O18). How interpersonal synchrony facilitates early prosocial behavior. Current Opinion in Psychology,20,35-39.https://doi.org/10.1016/j.copsyc.2017.08.009
+
+Cireli,L. K.,Wan,S.J.,& Trainor,L.J. (2O16). Social effects of movement synchrony: Increased infant helpfulness only transfers to affiliates of synchronously moving partners. Infancy,21(6), 807-821. https://doi.org/10.1111/infa.12140
+
+Cohen,E.E.,Ejsmond-Frey,R.,Knight,N.,&Dunbar,R.I.M.(2O10).Rowers'high: Behavioural synchrony is correlated with elevated pain thresholds.Biology Letters,6(1),1O6-108. https://doi.0rg/10.1098/rsbl.2009.0670
+
+Cohen,E.,Mundry,R.,& Kirschner,S. (2O13).Religion,synchrony,and cooperation.Religion, Brain and Behavior,4(1),20-30.https://doi.0rg/10.1080/2153599x.2012.741075
+
+Cross,L.,Turgeon,M.,& Atherton, G. (2O19).Moving with the in-crowd: Cooperation and interpersonal entrainment in in- vs.out- groups.Current Psychology,4O(7),3393-3400. https://doi.0rg/10.1007/s12144-019-00283-0
+
+Dunbar,R.,Kaskatis,K.,MacDonald,I.,& Barra,V. (2Ol2).Performance of music elevates pain threshold and positive afect: Implications for the evolutionary function of music. Evolutionary Psychology,10(4),
+
+688-702.https://doi.0rg/10.1177/147470491201000403
+
+Durkheim,E.(1968).The Elementary forms ofthe religious life (Joseph Ward Swain,Trans.).New York: Free Press. (Original work published 1915)
+
+Ehrenreich,B.(2Oo7).Dancing in the streets: A history of collctive joy.New York: Metropolitan.
+
+Feng,X.,Sun,B.,Chen,C.,Li,W., Wang,Y.,Zhang,W.,Xiao,W.,& Shao,Y. (2O2O).Self-other overlapand interpersonal neural synchronization serially mediate the effect of behavioral synchronization on prosociality. Social Cognitive and Affective Neuroscience,15(2),203-214. https://doi.org/10.1093/scan/nsaa017
+
+Feniger-Schaal,R.,Schonherr,D.,Altmann, U.,& Strauss,B. (2O2O).Movement synchrony in the mirror game. Journal of Nonverbal Behavior,45(1),107-126.https://doi.org/10.1007/s10919-020-00341-3
+
+Fischer,R.,Callander,R.,Reddish,P.,&Bulbulia,J.(2Ol3).Howdoritualsafctcooperation?Human Nature, 24(2),115-125.htps://doi.org/10.1007/s12110-013-9167-y
+
+Fitzpatrick,P.,Romero,V.,Amaral,J.L.,Duncan,A.,Barnard,H.,& Schmidt,M.J.R.R.C.(2017).Social motor synchronization $\because$ Insights for understanding social behavior in autism.Journal ofAutism and Developmental Disorders,47(7),2092-2107. https://doi.org/10.1007/s10803-017-3124-2
+
+Galbusera,L.,Finn,M.T.M.,Tschacher,W.,& Kyselo,M. (2O19).Interpersonal synchrony feels good but impedes self-regulation of affect. Scientific Reports,9(1),Article 14691. https://doi.0rg/10.1038/s41598-019-50960-0
+
+Gelfand,M.J.,Caluori,N.,Jackson,J.C.,& Taylor,M.K.(2O2O).The cultural evolutionary trade-off of ritualistic synchrony.Philosophical Transactions of the Royal Society B: Biological Sciences,375(1805), Article 20190432.https://doi.org/10.1098/rstb.2019.0432
+
+Good,A., Choma,B.,&Russo,F.A.(2O17).Movement synchrony influences intergroup relations ina minimal groups paradigm.Basic and Applied Social Psychology,39(4),231-238. https://doi.0rg/10.1080/01973533.2017.1337015
+
+Gordon,I.,Gilboa,A.,Cohen,S.,Milstein,N.,Haimovich,N.,Pinhasi,S.,&Siegman,S. (202O).Physiological and behavioral synchrony predict group cohesion and performance. Scientific Reports, $I O ( 1 )$ , Article 8484 (2020). https://doi.org/10.1038/s41598-020-65670-1
+
+Gvirts,H.Z.,& Perlmuter,R. (2019). What guides us to neurally and behaviorally align with anyone specific? A neurobiological model based on fNIRS Hyperscanning studies.The Neuroscientist,26(2),108-116. https://doi.0rg/10.1177/1073858419861912
+
+Haidt,J., Seder,J.P.,& Kesebir,S. (2Oo8). Hive psychology,happines,and public policy.Journal ofLegal Studies,37(S2), S133-S156.https://doi.0rg/10.1086/529447
+
+Hove,Michael,J.,& Risen,Jane,L.(20o9). It'sall in the timing $\because$ Interpersonal synchrony increases affiliation. Social Cognition,27(6),949-961. https://doi.org/10.1521/soco.2009.27.6.949
+
+Jackson,J.C.,Jong,J.,Bilkey,D.,Whitehouse,H.,Zollmann,S.,McNaughton,C.,&Halberstadt,J.(2018). Synchrony and physiological arousal increase cohesion and cooperation in large naturalistic groups. Scientific Reports,8(1),Article 127 (2018). https://doi.org/10.1038/s41598-017-18023-4
+
+Keisari,S.,Feniger-Schal,R.,Palgi,Y., Golland,Y., Geser-Edelsburg,A.,& Ben-David,B. (202).Synchrony in old age: Playing the mirror game improves cognitive performance. Clinical Gerontologist,1-15. Advance online publication. https://doi.org/10.1080/07317115.2020.1799131
+
+Kirschner, S.,& Tomasello,M. (2010).Joint music making promotes prosocial behavior in 4-year-old children. Evolution and Human Behavior,31(5),354-364.htps:/doi.org/10.1016/j.evolhumbehav.2010.04.004
+
+Kokal,I.,Engel,A.,Kirschner,S.,&Keysers,C. (2O11).Synchronizeddrumming enhancesactivityintheaudate and facilitates prosocial commitment - If the rhythm comes easily. PLOs ONE,6(11),Article e27272. https://doi.org/10.1371/journal.pone.0027272
+
+Lakens,D. (20l0). Movement synchrony and perceived entitativity. Journal of Experimental Social Psychology, 46(5),701-708.https://doi.org/10.1016/j.jesp.2010.03.015
+
+Lang,M.,Bahna,V.,Shaver,J.H.,Reddish,P.,& Xygalatas,D.(2O17).Sync to link: Endorphin-mediated synchrony effects on cooperation. Biological Psychology,127(2017),191-197. https://doi.org/10.1016/j.biopsycho.2017.06.001
+
+Loseth,G.E.,Ellingsen,D.M.,&Leknes,S.(2014).State-dependent $\mu$ -opioid modulation of social motivation. Frontiers in Behavioral Neuroscience,8,Article 430.https://doi.org/10.3389/fnbeh.2014.00430
+
+Macpherson,M. C.,Fay,N.,& Miles,L.K. (2O2O). Seeing synchrony: A replication of the effects of task-irrelevant social information on perceptions of interpersonal coordination.Acta Psychologica,209, Article 103140.https://doi.org/10.1016/j.actpsy.2020.103140
+
+Macrae,C.N.,Duffy,O.K.,Miles,L. K.,& Lawrence,J. (2008). A case of hand waving: Action synchrony and person perception. Cognition,109(1),152-156. https://doi.org/10.1016/j.cognition.2008.07.007
+
+Michael,J.,McEllin,L.,&Felber,A. (2O20).Prosocial effects of coordination-What,howand why?Acta Psychologica,207,Article 103083.https://doi.org/10.1016/j.actpsy.2020.103083
+
+Mogan,R.,Bulbulia,J.,&Fischer,R. (2Ol9).Joint action enhances cohesionand positive affect,but suppresses aspects of creativity when combined with shared goals.Frontiers in Psychology,9,Article 2790. https://doi.org/10.3389/fpsyg.2018.02790
+
+Mogan,R.,Fischer,R.,& Bulbulia,J.A. (2O17).To be insynchrony or not?A meta-analysis of synchrony's effects on behavior,perception,cognition and afect.Journal of Experimental Social Psychology,72,13-20. https://doi.org/10.1016/j.jesp.2017.03.009
+
+Overy,K.,& Molnar-Szakacs,I. (2O09). Being together in time: Musical experience and the mirror neuron system. Music Perception,26(5),489-504.https://doi.org/10.1525/mp.2009.26.5.489
+
+Paladino, M.P.,Mazzurega,M.,Pavani,F.,& Schubert,T.W.(2O1O).Synchronous multisensory stimulation blurs self-other boundaries.Psychological Science,21(9),1202-1207. https://doi.0rg/10.1177/0956797610379234
+
+Rabinowitch,T. C.,& Meltzoff,A.N. (2O17). Synchronized movement experience enhances peer cooperation in preschool children. Journal of Experimental Child Psychology,160,21-32. https://doi.org/10.1016/j.jecp.2017.03.001
+
+Rand,D.G.,Kraft-Todd,G.,& Gruber,J.(2O15).Thecollective benefits of feeling goodand leting go: Positive emotion and (dis) inhibition interact to predict cooperative behavior.PLOS ONE,10(1),Article e017426. https://doi.org/10.1371/journal.pone.0117426
+
+Reddish,P.,Bulbulia,J.,&Fischer,R. (2O13).Does synchrony promote generalized prosociality?Religion,Brain and Behavior,4(1),3-19.https://doi.org/10.1080/2153599x.2013.764545
+
+Reddish,P.,Fischer,R.,& Bulbulia,J.(2Ol3).Let's dance together: Synchrony,shared intentionalityand cooperation.PLOS ONE,8(8),Article e71182. htps://doi.org/10.1371/journal.pone.0071182
+
+Reddish,P.,Tong,E.M.W.,Jong,J.,Lanman,J.A.,&Whitehouse,H.(2O16).Colective synchrony increases prosociality towards non-performers and outgroup members. British Journal of Social Psychology, 55(4), 722-738. https://doi.org/10.1111/bjso.12165
+
+Rennung, M.,& Goritz,A. S. (2O16). Prosocial consequences of interpersonal synchrony. Zeitschrift Fur Psychologie,224(3),168-189.https://doi.0rg/10.1027/2151-2604/a000252
+
+Schachner,A.,& Garvin,L. (2O10).Does synchrony really afect social variables?Efects on cooperation, conformity may not be robust.Poster session presented at International Conference on Music Perception and Cognition, Seattle, WA.
+
+Sulivan,P.,Gagnon,M.,Gammage,K.,&Peters,S.(2O15).Is the effectof behavioral synchronyoncooperative behavior mediated by pain threshold? Journal of Social Psychology,155(6),650-660.
+
+https://doi.0rg/10.1080/00224545.2015.1071766
+
+Tarr,B.,Launay,J., Cohen,E.,& Dunbar,R. (2O15).Synchrony and exertion during dance independentlyraise pain threshold and encourage social bonding. Biology Letters,11(10),Article 20150767. https://doi.org/10.1098/rsbl.2015.0767
+
+Tarr, B.,Launay,J.,& Dunbar,R.I. M. (2O16). Silent disco: dancing in synchrony leads to elevated pain thresholds and social closeness.Evolution and Human Behavior,37(5),343-349. https://doi.org/10.1016/j.evolhumbehav.2016.02.004
+
+Tarr,B.,Slater,M.,& Cohen,E. (2018).Synchronyand socialconnection in immersive Virtual Reality.Scientific Reports,8(1),Article 3693. https://doi.0rg/10.1038/s41598-018-21765-4
+
+Tschacher,W.,Rees,G.M.,&Ramseyer,F.(2O14).Nonverbal synchronyand affectin dyadic interactions. Frontiers in Psychology,5,Article1323.https://doi.org/10.3389/fpsyg.2014.01323
+
+Tuncgenc,B.,& Cohen,E.(2O16).Movement synchrony forges social bonds across group divides.Frontiers in Psychology,7, Article 782. htps://doi.org/10.3389/fpsyg.2016.00782
+
+Tuncgenc,B.,Cohen,E.,&Fawcet,C.(2O15).Rock with me:The role of movement synchrony in infants’social and nonsocial choices. Child Development, 86(3),976-984.https:/doi.org/10.1111/cdev.12354
+
+Valdesolo,P.,&DeSteno,D.(2011).Synchrony and the social tuning of compasion.Emotion,11(2),262-266. https://doi.0rg/10.1037/a0021302
+
+Valdesolo,P., Ouyang,J.,& DeSteno,D.(2010). The rhythm of joint action: Synchrony promotes cooperative ability.Journal of Experimental Social Psychology,46(4),693-695. https://doi.org/10.1016/j.jesp.2010.03.004
+
+Vicaria,I.M.,& Dickens,L. (2O16).Meta-analyses of the intra-and interpersonal outcomes of interpersonal coordination.Journal of Nonverbal Behavior,40(4),335-361.htps://doi.org/10.1007/s10919-016-0238-8 von Zimmermann, J.,& Richardson, D.C. (2O16). Verbal synchrony and action dynamics in large groups. Frontiers in Psychology,7,Article 2034. https://doi.org/10.3389/fpsyg.2016.02034
+
+Weinstein,D.,Launay,J.,Pearce,E.,Dunbar,R.I.M.,& Stewart,L. (2016).Singing and socialbonding: Changes in connectivity and pain threshold as a function of group size. Evolution and Human Behavior,37(2), 152-158. https://doi.org/10.1016/j.evolhumbehav.2015.10.002
+
+Wiltermuth,S.S.,& Heath, C.(2009). Synchrony and cooperation. Psychological Science,20(1),1-5. https://doi.0rg/10.1111/j.1467-9280.2008.02253.x
+
+Wolf,W.,Launay,J.,&Dunbar,R.I.M.(2O15).Jointatention,shared goals,andsocialbonding.BritishJournal ofPsychology,107(2),322-337.https://doi.org/10.1111/bjop.12144
+
+Wood,C.,Caldwell-Haris,C.,& Stopa,A.(O18).The rhythms of discontent: Synchrony impedes performance and group functioning in an interdependent coordination task. Journal of Cognition and Culture,18(1-2), 154-179.https://doi.org/10.1163/15685373-12340028
+
+Yang,J.,Zhang,H.,Ni,J.,De Dreu,C.K.W.,&Ma,Y.(2O2O).Within-groupsynchronization in the prefrontal cortex associates with intergroup conflict.Nature Neuroscience,23(6),754-760. https://doi.0rg/10.1038/s41593-020-0630-x
+
+# Mechanisms and models of interpersonal synchrony in promoting cooperation
+
+MA Xinyue, CUI Liying
+
+(DepartmentofPsychology,CollegeofEducation,Shanghai Normal University,Shanghai 2O0234,China)
+
+Abstract: Synchrony,a core element of collctive rituals,is of great significance to the survival and development of groups. Interpersonal synchrony is a kind of coordination behaviour that emphasises the coordinated consistency of movements among group members with time- and phase-locked characteristics. Recent studies have found that synchrony can promote pro-social behaviours such as cooperation, and the potential process mechanisms underlying this promoting effect involve the activation of neurophysiological systems，an enhanced sense of social connectedness， increased cognitive sensitivity，and evocation of positive emotions.Previous researches have proposed three different models of this positive effect from different perspectives: (1) the self-other representational overlap model,(2) the reinforcement of cooperation model,and (3) the collective effervescence model. These three models have their own focuses in explaining the role of interpersonal synchrony in promoting cooperation, but they cannot fully explain how interpersonal synchrony affects cooperation. Therefore, this paper proposes a new psychological process model of synchrony for cooperation that provides a more comprehensive and clearer structure of the direct and indirect paths through which synchrony affects cooperation,and identifies two important moderators (group size and identity/cultural background). In addition, this paper summarises the shortcomings of the existing researches and provides suggestions for future research to effectively increase the pro-social function of synchrony and reduce its antisocial risk. Keywords:interpersonalsynchrony， cooperation，perceptionofsocialbonding, group-identification, self-other representational overlap

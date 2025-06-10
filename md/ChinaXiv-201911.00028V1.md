@@ -1,0 +1,174 @@
+# 民勤绿洲边缘积沙带形成的环境条件
+
+\$兆丰'，朱淑娟'，杜娟'，石学刚²，段晓峰'，赵鹏¹，张剑挥(1甘肃省治沙研究所，甘肃 兰州 730070；2 甘肃农业大学林学院,甘肃 兰州730070)
+
+摘要：甘肃河西地区经过60多年的防沙治沙，在绿洲边缘形成了一条积沙带。民勤绿洲边缘积沙带高 $4 . 8 \sim 1 8 . 6 \mathrm { ~ m ~ }$ ，宽 $3 0 . 4 \sim 4 6 1 . 4 \mathrm { ~ m ~ }$ 。为什么有的地段积沙带高大，而有的地段积沙带相对矮小,或者有的地段积沙带较宽，而有的地段积沙带较窄？对此，以民勤为研究区,通过对民勤绿洲边缘积沙带进行了调查，运用相关分析等方法和SPSS软件进行了分析。结果表明：(1）民勤绿洲边缘积沙带按形成方式可分为天然灌丛积沙带、乔木林带积沙带、人工固沙林积沙带3种，其中天然灌丛形成的积沙带相对高大，而农田边缘单纯的乔木林带形成的积沙带最窄。（2）控制积沙带高度的环境因子主要是积沙带与主风向的夹角，即积沙带与主风向的夹角越小，则积沙带的高度越低。上风向对准风沙口时,则积沙带与主风向的夹角越小,积沙带的宽度亦越小。（3）典型相关分析结果好于单相关分析。结果显示,积沙带的形态主要是由其宽度、宽高比和断面形状决定的，而影响积沙带形态特征的环境因子主要是上风向是否对准风沙口以及沙源的距离，亦即当上风向未对准风沙口时积沙带较宽且断面积较大，积沙带与上风向沙源距离越小则积沙带越高大。
+
+关键 词：绿洲边缘；积沙带；成因；环境因素；民勤
+
+1949 年以来，在我国西北、华北广大沙区经过60多年的防沙治沙，在绿洲边缘形成了大量的防风固沙林带，对保护农田起到了至关重要的作用[1]。在我国西北沙区防沙治沙的措施几乎都实施在绿洲边缘，尤其是绿洲边缘上风向。经过几十年的防沙治沙，在沙区绿洲边缘尤其上风向流沙大量堆积[2-7],形成了一条流沙堆积带,即积沙带[8] 0
+
+目前国内外尚没有关于积沙带的研究报道，与之相近的研究主要有植物阻沙积沙的研究[2-3]、风沙流结构[4-6] 、灌丛沙堆[7,9-1]以及荒漠—绿洲过渡带研究等[12-14]。2011—-2013 年我们首次提出了积沙带的概念及其问题，并对河西走廊绿洲边缘积沙带的成因以及积沙带表征的环境信息[15-17]、绿洲边缘积沙带的防风固沙功能[8]以及积沙带的生态效应[18-20]等进行了调查研究。
+
+甘肃河西走廊沙区的积沙带形成于绿洲农田边缘，是人工措施加自然力作用的结果。积沙带的生态作用既有正向的,亦可能有负向的。正向作用如阻止流沙进入农田、积沙带自身防风阻沙的作用等。负向作用如积沙带衰退、活化后，就会形成新的沙源。目前，河西绿洲边缘积沙带的负向作用尚未表现出来。积沙带的形成，有利于保护农田减少风沙危害。只要合理保护，积沙带可长期稳定存在。积沙带自身作为防风固沙的障碍物，高度是表征其防护功能的一个重要指标[19]。肯定地讲,积沙带的形成是气候环境因子共同作用的结果。如上所述，不论国内国外，截止目前还没有人做过有关绿洲边缘积沙带的研究。绿洲边缘积沙带的形成与哪些因素有关，这是积沙带研究的一个基本问题，在此之前，我们已经对河西走廊沙区积沙带的形成做过初步分析。
+
+甘肃河西绿洲边缘积沙带西高东低，总体上为断续分布，其中以民勤绿洲边缘积沙带最为完整、最为高大[15-17]。鉴于此,本文以民勤沙区为研究区，进一步探究积沙带的动态平衡及其与环境因子的关系，并对积沙带形成的环境条件做进一步的分析。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+民勤县 $( 1 0 1 ^ { \circ } 4 9 ^ { \prime } \sim 1 0 3 ^ { \circ } 1 2 ^ { \prime } \mathrm { E } . 3 8 ^ { \circ } 0 5 ^ { \prime } \sim 3 9 ^ { \circ } 2 8 ^ { \prime } \mathrm { N } .$ 海拔 $1 \ 3 0 0 \sim 1 \ 3 5 0 \ \mathrm { m } ,$ )位于河西走廊东北部，地处石羊河下游即腾格里沙漠西部边缘，北和西北侧与巴丹吉林沙漠接壤,土地总面积为 $1 6 \ 0 1 6 \ \mathrm { k m } ^ { 2 }$ 。当地多年平均降水量 $1 1 6 . 5 2 \ \mathrm { m m }$ ,蒸发量 $2 \ 3 5 1 . 7 9 \ \mathrm { m m }$ ，年平均 $\geqslant 1 7 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ 大风28.2d,沙尘暴25.8d,扬沙天气37.8d，浮尘天气30.2d，依据民勤县统计部门提供的资料，目前境内沙漠、戈壁、盐碱滩地和低山残丘占总土地面积的 $9 4 . 2 \%$ ,其中沙漠面积占总面积的 $5 5 . 0 3 \%$ 。
+
+# 1.2 观测调查方法
+
+在民勤绿洲上风向边缘大体每 $1 0 ~ \mathrm { k m }$ 选定1个观测样点，共选择了14个观测样点（图1）。在每个样点上沿垂直农田边缘方向（即垂直主风向NW 方向)从农田边缘到沙漠平缓处设置样线，测定了积沙带的宽度、高度和迎风坡及背风坡度等（积沙带在该样点的轮廓线）。沿该样线方向调查积沙带及其迎风坡滩地和背风坡滩地的宽度、植物种类、植株高度和植被盖度。植被纯盖度在植株冠幅内用目测法测得。在GoogleEarth上用标尺工具调查与沙源的距离。气候资料采用中国气象科学数据服务网和当地气象站1971—2016 年的数据。
+
+# 1.3 数据处理方法
+
+积沙带的断面积用三角形面积表示；与沙源的距离为沙源前沿到积沙带上风向边缘的距离，上风向(NW)正对风沙口为1，否则为0;植被类型分为天然灌丛（柴湾）、人工固沙林、自然植被和低盖度（盖度 $< 0 . 0 3$ ）自然植被，分别用3、2、1、0表示。以相关关系揭示环境要素对积沙带影响的大小，数据分析用SPSS13.0完成。
+
+其中典型变量用如下公式表示：
+
+$$
+\begin{array} { c } { { U _ { i } = A _ { 1 } X _ { 1 } + A _ { 2 } X _ { 2 } + \cdots + A _ { n } X _ { n } } } \\ { { { } } } \\ { { V _ { i } = B _ { 1 } Y _ { 1 } + B _ { 2 } Y _ { 2 } + \cdots + B _ { n } Y _ { m } } } \end{array}
+$$
+
+式中： $U _ { i }$ 为积沙带的第 $i$ 对典型变量的沙丘特征典型变量; $X _ { 1 } , X _ { 2 } , \cdots , X _ { n }$ 为 $n$ 个特征变量； $A _ { 1 } \setminus A _ { 2 } \setminus \cdots ,$ $\textstyle A _ { n }$ 为各特征变量对应的系数； $V _ { i }$ 为积沙带的第 $\mathbf { \chi } _ { i }$ 对典型变量的气候环境因子典型变量; $Y _ { 1 } \setminus Y _ { 2 } \setminus \cdots \setminus Y _ { m }$ 为 $m$ 个环境因子变量; $B _ { 1 } \setminus B _ { 2 } \setminus \cdots \setminus B _ { m }$ 为各环境变量对应的系数。
+
+![](images/69fc28b48da14b052d4ca3eb1fef3893ad356c63560138026a57841f9e5a1329.jpg)  
+图1民勤绿洲边缘积沙带观测样点  
+Fig.1Observation points on sand-accumulation belt along the Minqin oasis
+
+# 2结果与分析
+
+# 2.1 积沙带的分布特征
+
+民勤沙区积沙带平均高 $9 . 5 \mathrm { ~ m ~ }$ ,最高 $1 8 . 6 \mathrm { ~ m ~ }$ ,最低 $4 . 8 \mathrm { ~ m ~ }$ 。平均宽 $2 2 9 . 9 \mathrm { ~ m ~ }$ ,最宽 $4 6 1 . 4 \mathrm { ~ m ~ }$ ,最窄$3 0 . 4 \mathrm { ~ m ~ }$ 。与主风向（NW）的夹角平均 $7 1 . 7 ^ { \circ }$ ，最大$9 0 ^ { \circ }$ ,最小 $2 7 ^ { \circ }$ 。宽高比平均30.8，最大83.9，最小6.1。
+
+积沙带高度的分布趋势是：位于民勤绿洲中段大滩乡西北绿洲边缘的9号、7号和8号测点处最高，分别为 $1 8 . 6 \mathrm { ~ m ~ } . 1 7 . \mathrm { ~ 1 ~ m ~ }$ 和 $1 5 . 2 \mathrm { ~ m ~ }$ ,这一带是民勤古老的“柴湾”即天然灌丛区；而位于低盖度天然植被区的13号、5号和4号测点处最低，分别为$4 . 8 \mathrm { ~ m ~ } , 5 . 4 \mathrm { ~ m ~ }$ 和 $5 . 5 \mathrm { ~ m ~ }$ （图2a）。积沙带宽度的分布趋势是：位于民勤绿洲西南边缘人工林地的4号、5号、6号和3号测点处最宽,分别为 $4 6 1 . 4 \mathrm { ~ m ~ } . 4 4 9 . 5$ $\mathbf { m } \cdot 4 4 1 . 5 \mathrm { ~ m ~ }$ 和 $3 4 2 . 0 \mathrm { ~ m ~ }$ ，而位于民勤北部西渠镇西北侧农田防护林的13号、12号、11号和14号测点处最窄，分别为 $3 0 . 4 \mathrm { ~ m ~ } . 5 9 . 7 \mathrm { ~ m ~ } . 6 5 . 6 \mathrm { ~ m ~ }$ 和 $6 6 . 7 \mathrm { ~ m ~ }$ （图2a）。积沙带与主风向（NW）的夹角平均为$7 1 . 7 ^ { \circ }$ ,多数在 $8 0 ^ { \circ }$ 以上，只有7号、8号和12号测点处积沙带走向与主风向夹角很小，分别为 $2 7 ^ { \circ } , 3 5 ^ { \circ }$ 和 $5 0 ^ { \circ }$ （图2b）。积沙带的宽高比变差较大，最大是在薛百乡的4号和勤峰农场固沙林地5号测点，分别为83.9和83.2，农田边缘乔木防护林带形成的积沙带宽度最小，如位于民勤北部西渠镇西北侧的11号、12号、13号和14号，宽高比在 $6 . 1 \sim 7 . 9$ 之间（图2b）。
+
+# 2.2积沙带的几种形成方式
+
+天然灌丛积沙带：历史上民勤绿洲上风向边缘就有连片的白刺灌丛和怪柳灌丛，在当地史志上称作“柴湾”，其中以连古城西北绿洲边缘、泉山西北绿洲边缘一带比较集中，灌丛植物主要以白刺（Ni-trariatangutorum）和怪柳（Tamarixramosissima）为主，丘间地为沙蒿（Artemisiaarenaria）红砂（Reau-muriasongarica)等。这些自然形成的灌丛密集，阻沙积沙效果好，但由于天然灌丛一般分布不规则，高低起伏的沙丘连片，因而“积沙带”的带状特征不很典型。
+
+乔木林带积沙带：由于这种积沙带主要是在农田边缘营造乔木护田林带形成的，因而这种方式形成的积沙带沿农田边缘较为整齐，“积沙带”的视觉效果十分明显，如石羊河下游民勤西渠西北绿洲边缘的义地村、三附村、西臣村、制产村边缘的积沙带（图3）。通过对当地的调查，这里并不存在天然柴湾，积沙带是由农田边缘人工防风固沙林带形成的。积沙带最初的形成过程是：先在农田边缘营造胡杨防护林带，然后再在杨树林带株间插植怪柳，逐渐形成了一条以怪柳灌丛为主的积沙带，目前在怪柳积沙带上还残存有枯死的杨树主杆（图4）。
+
+工人固沙林积沙带：由于农田外围绿洲边缘人工造林一般是斑块状的，因而这种方式形成的积沙带的“积沙带”的视觉效果也并不明显，亦即虽然积沙带整体有所抬高，有的地段形成了“积沙带”的视角效果(图5、图6），而有的地段并不能形成“积沙带”的视角效果，如民勤县薛百乡西北绿洲边缘一带。
+
+# 2.3积沙带的形成发育与环境因子的关系
+
+2.3.1单相关关系积沙带的特征值主要有高度$( X _ { 1 } )$ 、宽度 $( X _ { 2 } )$ 、宽高比（ $( X _ { 3 } )$ 和断面面积（ $( X _ { 4 } )$ ，环境因子主要是积沙带与主风向的夹角 $( Y _ { 1 } )$ 、与沙源的距离( $\left( { \cal Y } _ { 2 } \right)$ ）、防护林类型( $\left. Y _ { 3 } \right)$ 以及上风向有无风沙□（ $\cdot Y _ { 4 }$ )等。积沙带形态特征之间的关系是：积沙带的高度以及积沙带的宽度与积沙带的断面积为显著正相关( $\textstyle P < 0 . 0 5 )$ ,积沙带的宽度与积沙带的宽高比为极显著正相关( $P < 0 . 0 1 )$ （表1）。
+
+![](images/5c60ab936fa99fd9b5a7ec69791b6dedd636e6d7e3e64e0228becf0a65f5bc8a.jpg)  
+图2积沙带形态特征  
+Fig.2Morphological characteristics of sand-accumulation belt
+
+![](images/2a19e01f713a0793437f320f6ee274984b1728ff02239e9d78a885eb3ebd6d89.jpg)  
+图3西渠乡制产村西北农田边缘天然灌丛积沙带 Fig.3Natural shrub sand-accumulation belt at the edge of northwest farmland in Zhichan Village of Xiqu Township
+
+![](images/ac3b7201fb35625c5c1ee6850d55e843a09b6549abe9c4a5dd46d74a77aee8a8.jpg)  
+图4西渠乡西臣村西北农田边缘积沙带 Fig.4Sand-accumulation belt at the edge of northwest farmland in Xichen Village of Xiqu Township
+
+![](images/afc6baba54f70e602a77f1a29306d1a8fe0aa5f849277f0a1c44add2e1a894e3.jpg)  
+图5大滩乡北中村农田防护林与沙障积沙带 Fig.5Sand-accumulation belt formed by windbreak $\&$ sand barrier in Beizhong Village of Datan Township
+
+积沙带形态特征与环境因子之间的关系是：积沙带高度与积沙带和主风向的夹角之间为极显著负相关( $P < 0 . 0 1 ~ \cdot$ ,积沙带的宽度与上风向有无风沙□为显著负相关( $\textstyle P < 0 . 0 5 ,$ ，积沙带的宽高比与积沙带和主风向的夹角之间为显著相关( $P < 0 . 0 5 )$ ，积沙带和主风向的夹角与上风向风有无沙口亦为显
+
+![](images/3dedf9e030c8bdaea2aeb76b56a29a7089da0a1d3a3357cf46d1acc940930254.jpg)  
+图6大滩乡北东村西北农田边缘积沙带 Fig.6Sand-accumulation belt at the edge of northwest farmland in Beidong Village of Datan Township
+
+著负相关( $\scriptstyle P < 0 . 0 5 )$ 。
+
+2.3.2典型相关关系积沙带的发育形成是多种气候环境因子共同作用的结果,由表1可以看出，不仅4个积沙带的特征值与4个环境变量之间存在着相互作用，而且积沙带特征值之间以及环境变量之间亦存在一定的相互作用。进一步以积沙带的特征值 $( X _ { 1 } \sim X _ { 4 } )$ 和环境变量( $\left[ Y _ { 1 } \sim Y _ { 4 } \right]$ )做典型相关分析，结果表明：
+
+第1对典型变量 $U _ { 1 }$ 和 $V _ { 1 }$ 为极显著相关( $R =$ 0.972, $P < 0 . 0 1 \$ ),第一典型变量 $U _ { 1 }$ 解释了总变异的 $5 1 . 3 \%$ ,第二典型变量 $V _ { 1 }$ 只能解释了总变异的$1 8 . 7 \%$ 。公式如下：
+
+$$
+U _ { 1 } = 0 . 9 0 6 X _ { 1 } + 1 . 9 5 6 X _ { 2 } - 0 . 2 0 2 X _ { 3 } - 1 . 1 0 4 X _ { 4 }
+$$
+
+$$
+V _ { 1 } = \mathrm { ~ - 0 . ~ } 1 9 8 Y _ { 1 } \mathrm { ~ } - 0 . 3 3 3 Y _ { 2 } \mathrm { ~ } + 0 . 6 7 7 Y _ { 3 } \mathrm { ~ } - 1 . 0 9 0 Y _ { 4 }
+$$
+
+第2对典型变量 $U _ { _ { 2 } }$ 和 $V _ { 2 }$ 为显著相关( $R =$ $0 . 8 4 6 , P < 0 . 0 5 )$ ,第一典型变量 $U _ { _ { 2 } }$ 解释了总变异的 $2 0 . \ 1 \%$ ,第二典型变量 $V _ { 2 }$ 解释了总变异的$4 5 . 5 \%$ 。公式如下：
+
+$$
+U _ { 2 } = \mathrm { { } } - 1 . 4 9 9 X _ { 1 } + 5 . 9 7 5 X _ { 2 } - 5 . 4 8 2 X _ { 3 } - 1 . 7 7 3 X _ { 4 }
+$$
+
+$$
+V _ { 2 } = 0 . \ 1 8 3 Y _ { 1 } \ - 0 . \ 2 4 6 Y _ { 2 } \ - 0 . \ 8 5 5 Y _ { 3 } \ - 0 . \ 1 5 5 Y _ { 4 }
+$$
+
+由典型相关系数(表2)可以看出，积沙带的宽度 $( X _ { 2 } )$ 及积沙带的宽高比 $( X _ { 3 } )$ 与第1对典型变量$U _ { 1 }$ 的相关系数较大，上风向是否对准风沙口（ $( Y _ { 4 } )$ 及到沙源的距离 $\left( \begin{array} { l } { Y _ { 2 } } \end{array} \right)$ 与第1对典型变量 $V _ { 1 }$ 的负相关系数相对较大。积沙带的宽度( $\left( { { X } _ { 2 } } \right)$ 以及积沙带的宽高比 $\left( { { X } _ { 3 } } \right)$ 与第1对典型变量 $V _ { 1 }$ 的相关系数较大，上风向是否对准风沙口( $Y _ { 4 }$ ）及积沙到沙源的距离 $( Y _ { 2 } )$ 与第1对典型变量 $U _ { 1 }$ 的负相关系数较大。积沙带的高度 $( X _ { 1 } )$ 与第2对典型变量 $U _ { 2 }$ 的负相关
+
+Tab.1Relationships between the characteristics of the sand-accumulation belt and the environmental factors   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">积沙带特征</td><td colspan="4">环境变量</td></tr><tr><td>积沙带宽 度／m</td><td>积沙带宽 高比</td><td>积沙带断 面积／m²</td><td>与主风向夹 角／°</td><td>沙源距离 /m</td><td>防护林类型</td><td>上风向风沙口</td></tr><tr><td>积沙带高度／m</td><td>-0.15</td><td>-0.52</td><td>0.66 *</td><td>-0.66 **</td><td>-0.11</td><td>0.43</td><td>0.47</td></tr><tr><td>积沙带宽度／m</td><td></td><td>0.91**</td><td>0.61*</td><td>0.40</td><td>-0.53</td><td>0.30</td><td>-0.64 *</td></tr><tr><td>积沙带宽高比</td><td></td><td></td><td>0.23</td><td>0.56 *</td><td>-0.40</td><td>0.17</td><td>-0.68 *</td></tr><tr><td>积沙带断面积／m</td><td></td><td></td><td></td><td>0.13</td><td>-0.48</td><td>0.50</td><td>-0.09</td></tr><tr><td>与主风向夹角／°</td><td></td><td></td><td></td><td></td><td>-0.16</td><td>-0.34</td><td>-0.61*</td></tr><tr><td>沙源距离／m</td><td></td><td></td><td></td><td></td><td></td><td>-0.45</td><td>-0.03</td></tr><tr><td>防护林类型</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.43</td></tr></table></body></html>
+
+注：\*\*表示在 $9 9 \%$ 水平上极显著相关， $*$ 表示在 $9 5 \%$ 的水平上显著相关
+
+# 表2典型相关系数
+
+表1积沙带特征与环境因子的关系  
+Tab.2 Canonical correlation coefficient   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">第1对典型变量</td><td colspan="4">第2对典型变量</td></tr><tr><td colspan="2">U</td><td colspan="2">V</td><td colspan="2">U</td><td colspan="2">V</td></tr><tr><td>与所在的典型变量</td><td>X</td><td>-0.003</td><td>Y</td><td>0.228</td><td>X</td><td>-0.706</td><td>Y</td><td>0.679</td></tr><tr><td></td><td>X</td><td>0.963</td><td>Y</td><td>-0.543</td><td>X</td><td>0.142</td><td>Y</td><td>0. 074</td></tr><tr><td></td><td>X</td><td>0.842</td><td>Y</td><td>0.314</td><td>X</td><td>0.288</td><td>Y</td><td>-0.916</td></tr><tr><td></td><td>X4</td><td>0. 645</td><td>Y4</td><td>-0.598</td><td>X4</td><td>-0.381</td><td>Y4</td><td>-0.715</td></tr><tr><td>与另一个典型变量</td><td>Y</td><td>0.222</td><td>X</td><td>-0.003</td><td>Y</td><td>0.575</td><td>X</td><td>-0.598</td></tr><tr><td></td><td>Y</td><td>-0.528</td><td>X</td><td>0.937</td><td>Y</td><td>0.063</td><td>X</td><td>0.120</td></tr><tr><td></td><td>Y</td><td>0.305</td><td>X</td><td>0.819</td><td>Y</td><td>-0.776</td><td>X</td><td>0.244</td></tr><tr><td></td><td>Y4</td><td>-0.581</td><td>X4</td><td>0.627</td><td>Y4</td><td>-0.606</td><td>X4</td><td>-0.322</td></tr></table></body></html>
+
+系数相对较大，防护林类型 $( Y _ { 3 } )$ 与第2对典型变量$V _ { 2 }$ 的负相关系数相对较大。积沙带的高度( $( X _ { 1 } )$ 与第2对典型变量 $V _ { 2 }$ 的负相关系数相对较大，防护林类型 $\left( { { Y } _ { _ { 3 } } } \right)$ 以及上风向是否对准风沙口( $\overline { { Y _ { 4 } } }$ )与第2对典型变量 $U _ { _ { 2 } }$ 的相关系数较大。
+
+# 3讨论
+
+除了个别地段历史时期形成的柴湾之外，积沙带的形成开始于绿洲农田边缘的防沙治沙[16-17]甘肃河西地区在20世纪50年代开始在农田边缘防沙治沙[19],绿洲边缘的积沙带经历了60多年的形成发育过程，积沙带的形成必须经历发育、成长、稳定和衰退4个阶段，河西走廊绿洲边缘的积沙带目前处于稳定状态[18-19]。民勤县是河西走廊乃至全国重点风沙危害区，防沙治沙历史较早，民勤绿洲边缘的积沙带是河西走廊绿洲边缘分布最连续、最高大的积沙带，只要保护适当，再经历 $7 0 \sim 8 0$ a尚不至于活化造成危害。
+
+影响积沙带形成和发育的因素有许多，这些因子并不是孤立发挥作用的。单相关只反映了单项因子与积沙带高度和宽度的关系，而典型相关反映了因子的线性组合作用。第一个典型相关系数高于单相关系数，由第一个典型相关关系可以看出，积沙带的形态特征主要是由其宽度( $\left. { { X } _ { 2 } } \right.$ ）、宽高比 $( X _ { 3 } )$ 和断面积 $( X _ { 4 } )$ 决定的，而控制积沙带形态特征的环境因子主要是上风向是否对准风沙口( $\vert Y _ { 4 } \rangle$ )及其与沙源的距离 $( Y _ { _ 2 } )$ 。第二个典型相关系数是在剔除了第一典型相关关系后的剩余关系，由第二个典型相关关系可以看出，防护林类型( $\left| \begin{array} { l } { \mathbf { \sigma } } \\ { Y _ { 3 } } \end{array} \right.$ 即植被盖度越低以及上风向无风沙口( $Y _ { 4 }$ )的积沙带其高度越低（表2）。
+
+除了部分地段积沙带上残存的杨树枯杆(图4)和沿积沙带分布有整齐的怪柳之外，现存的植被只能反映当前的植被状况，因而本文只对现存植被按植被类型进行了划分，从分析结果看，植被类型对积沙带形态的影响甚微（表1）。另外，民勤绿洲北部边缘由于农田弃耕(图3、图4），积沙带失去了灌溉农田的边缘补给水，积沙带顶部现存的怪柳严重枯死，如何更好地保护弃耕农田边缘的防护林则是一个需要进一步研究的问题。
+
+由于积沙带只是近几年来本课题组提出的一个新概念，没有历史资料记载，民勤绿洲边缘积沙带形成于何年无法准确判定，但有一点是肯定的，即其形成于绿洲农田边缘的防沙治沙，各地段的形成时间及其原因也不尽相同。前述已知，河西地区在20 世纪50年代开始在农田边缘防沙治沙，1956年河西走廊开始了农田防护林的规划设计和营造试点[19]由此可见，河西走廊以及民勤绿洲边缘的积沙带的形成只有60a的历史。
+
+上风向沙源的丰富状况肯定是积沙带形成和发育的一个重要因素，风沙口不仅具有丰富的沙源，而且风力相对强劲，是风沙流经常发生的地段。由单相关分析可知，上风向对准风沙口即风力较为强劲地段的积沙带较窄，亦即坡度较陡，而积沙带的特征参数与沙源的距离不相关。进一步由典型相关分析可见,在线性组合变量中，积沙带上风向沙源的距离是决定积沙带高度的一个重要因素。典型关系真正反映了积沙带形态特征与环境因素之间的内在关系。
+
+环境因子中没有考虑降水量的原因是，一方面当地降水很少，多年平均只有 $1 1 0 \ \mathrm { m m }$ ，研究区西南至东北跨度不足 $9 0 ~ \mathrm { k m }$ ，因而各观测样点之间的差异不会很大。二是积沙带下风向是灌溉农田，上风向植被均很稀疏，因而本课题在各观测样点并未设置降水观测。
+
+# 4结论
+
+民勤绿洲边缘积沙带高 $4 . 8 \sim 1 8 . 6 \mathrm { ~ m ~ }$ ,平均高$9 . 5 \mathrm { ~ m ~ }$ ;沙带宽 $3 0 . 4 \sim 4 6 1 . 4 \mathrm { ~ m ~ }$ ,平均宽 $2 2 9 . 9 \mathrm { ~ m ~ }$ 。积沙带按形成方式可分为天然灌丛积沙带、乔木林带积沙带、人工固沙林积沙带3种，其中天然灌丛形成的积沙带相对高大，而农田边缘单纯的乔木林带形成的积沙带最窄。
+
+控制积沙带高度的环境因子主要是积沙带与主风向的夹角，即积沙带与主风向的夹角越小，则积沙带的高度越低。上风向对准风沙口时，则积沙带与主风向的夹角越小,积沙带的宽度亦越小。典型相关分析结果表明，积沙带的形态特征主要是由其宽度、宽高比和断面积决定的，而影响积沙带形态特征的环境因子主要是上风向是否对准风沙口及沙源的距离，亦即当上风向未对准风沙口时积沙带较宽且断面积较大，积沙带与上风向沙源距离越小则积沙带越高大。
+
+参考文献（References）   
+[1］祁有祥,赵廷宁.我国防沙治沙综述[J].北京林业大学学报 （社会科学版）,2006,5（S1）:51-58.[QI Youxing,ZHAO Tingning.The summation of combating and controlling desertification in Cina[J]. Journal of Beijing Forestry University（Social Science Edition）,2006,5（S1） :51-58.]   
+[2］汪万福,王涛,李最雄,等.敦煌莫高窟崖顶灌木林带防风固沙 效应[J].生态学杂志,2004,24（11）:2492－2500.[WANG Wanfu,WANG Tao,LI Zuixiong,et al. The effcts of blown sand on the shrub belt over the top of the Mogao Grottoes[J].Chinese Journal of Ecology.2004,24（11）:2492-2500.]   
+[3]程皓,李霞,侯平,等.塔里木河下游不同覆盖度灌木防风固沙 功能野外观测研究[J].中国沙漠,2007,27(6）：1022-1026. [CHENG Hao,LI Xia,HOU Ping,etal.Field investigation on function ofreducing windandstabilizingsandunder diferentege tation cover in lower reaches of Tarim River[J].Journal of Desert Research,2007,27(6) :1022-10226.]   
+[4]BUTTERIFELD G R. Near-bedmass flux profiles in aeolian sand transport:High-resolution measurements in a wind tunnel[J]. Earth Surface Processes and Landforms,1999,24(5） :393 -412.   
+[5]NI JR,LI Z S,MENDOZA C.Vertical profiles of aeolian sandmass flux[J]. Geomorphology,2002,49:205- 218.   
+[6］冯大军,倪晋仁,李振山.风沙流中不同粒径组沙粒的输沙量 垂向分布实验研究[J].地理学报,2007,62（11）：1194-1203. [FENG Dajun,NI Jinren,LI Zhenshan. Vertical mass flux profiles of different grain size groups in aeolian sand transport[J].Acta Geographica Sinica,2007,62(11）:1194 -1203.]   
+[7]PARSONS A J,WAINWRIGHT J,SCHLESINGER W H. The role of overland flow in sediment and nitrogen budgets of mesquite dune fields,southern New Mexico[J].Journal of Arid Environments, 2003,53:61 -71.   
+[8］常兆丰,王强强,张剑挥,等.绿洲边缘积沙带的防风固沙功 能———以甘肃河西沙区为例[J].农业工程,2015,5（4）：51 58.[CHANG Zhaofeng,WANG Qiangqiang,ZHANG Jianhui,et al.Fuction of preventing wind and sand flow for accumulated sandbelt in oasis edge[J].Agricultural Engineering,2015,5(4）:51- 58.]   
+[9]WANG X,WANG T,DONG Z,et al. Nebkhas development and its significance to wind erosion and land degradation in semi-arid northern China[J].Journal of Arid Environments,2006,65:129- 141.   
+[10］张萍,哈斯,岳兴玲,等.白刺灌丛沙堆形态与沉积特征[J].干 旱区地理,2008,31（6）:926-932.［ZHANGPing，HASI Eerdun,YUE Xingling,etal. Nitraria nebkhas:Morphology and sediments[J].Arid Land Geography,2008,31(6）:926 -932.]   
+[11］于春堂,杨晓晖,尹伟伦,等.鄂尔多斯高原北缘唐古特白刺灌 丛沙包的空间分布格局分析[J].北京林业大学学报,2008,30 (5）:39-45.[YU Chuntang,YANG Xiaohui,YIN Weilun,et al. The spatial pattern of Nitraria tangutorum shrub islands in the north of Ordos Plateau[J].Journal of Beijing Forestry University, 2008,30(5):39 -45.]   
+[12］张新时.天山北部山地一绿洲—过渡带一荒漠系统的生态建 设与可持续农业范式［J].植物学报,2001,43（12）：1294 1299.[ZHANG Xinshi. Ecological restoration and sustainable agricultural paradigm of mountain-oasis-ecotone-desert system in the
+
+north of the Tianshan mountains[J].Acta Botanica Sinica,2001,
+
+43（12):1294-1299.][13］王蕙,赵文智，常学向.黑河中游荒漠绿洲过渡带土壤水分与植被空间变异[J].生态学报，2007，27（5)：1731－1739.[WANG Hui,ZHAO Wenzhi,CHANG Xuexiang. Spatial variabili-ty of soil moisture and vegetation in dwsert-oasis ecotone in themiddle reaches of Heihe River Basin[J].Acta Ecological Sinica,  
+2007,27(5):1731-1739.][14］刘冰，赵文智，杨荣.荒漠绿洲过渡带怪柳灌丛沙堆特征及其空间异质性[J].生态学报，2008，28（4）：1446-1455.［LIUBing,ZHAOWenzhi,YANGRong.Charactcristicsand spatial het-erogeneity of Tamarix ramosissima nebkhas at desert-oasis ecotone[J].Acta Ecological Sinica,2008,28(4):1446-1455.][15］刘世增，常兆丰，张剑挥，等.甘肃河西绿洲边缘积沙带所表征的气候环境信息[J].干旱区研究，2013，20（2）：364-371.[LIUShizeng,CHANGZhaofeng,ZHANGJianhui,et al.Climateand environment information from sand accumulation belt in oasismarginal zone in the Hexi Corridor,Gansu Province[J].Arid ZoneResearch,2013,20(2）:364-371.][16］常兆丰，刘世增，唐进年，等.河西绿洲边缘积沙带的成因初探[J].干旱区资源与环境,2014,28(5):60-66.[CHANGZha-ofeng,LIU Shizeng,TANG Jinnian,et al.Formation causes of accu-mulated sand-belt in the Hexi oasis edge[J].Journal of Aril Land
+
+Resources Environment.2014,28(5）:60-66.]
+
+[17］常兆丰，张剑挥,唐进年，等.河西绿洲边缘积沙带与环境因子 的关系[J].生态学杂志，2012,31（6）：1548-1555.［CHANG Zhaofeng,ZHANG Jianhui,TANG Jinnian,et al.Relationships between sand-accumulation belt and environmental factors along oasis edge of Hexi,Gansu Province of northwest China［J].Chinese Journalof Ecology,2012,31(6):1548-1555.]   
+[18］常兆丰,张剑挥,王强强,等.河西绿洲边缘积沙带的稳定性及 其生态效应[J].生态学杂志，2014,33（2）：433－439. [CHANG Zhaofeng,ZHANG Jianhui,WANG Qiangqiang,et al. Stability and ecological effects of accumulated sand-belts along the oasis fringe in Hexi of Gansu[J].Chinese Journal of Ecology, 2014,33(2):433-439.]   
+[19］常兆丰,王强强,张剑挥,等.河西绿洲边缘积沙带及其生态意 义［J].生态学报，2015,33（24）:8046-8052.［CHANG Zhaofeng,WANG Qiangqiang,ZHANG Jianhui,et al. The ecological significance of accumulated sand-belt along the oasis edge of Hexi of Gansu[J].Acta Ecological Sinica,2015,33（24）:8046- 8052.]   
+[20]CHANG ZF,WANGQQ,ZHANG JH,et al.Accumulated sandbelt along the oasis fringe and its ecological significance in Hexi of Gansu[M]//David Chen.Environmental science and information application technology.London:CRC Press,2015:51-58.
+
+# Environmental factors causing the formation of sand-accumulation belt along the oasis fringe in Minqin
+
+CHANG Zhao-feng'， ZHU Shu-juan'，DU Juan'， SHI Xue-gang², DUAN Xiao-feng' ,ZHAO Peng’， ZHANG Jian-hui'(1Gansu Desert Control Research Institute,Lanzhou 73OO7O,Gansu,China;2Gansu Agricultural University Forestry College,Lanzhou 73oo7O,Gansu,China)
+
+Abstract：After 6O yearsof desert control efort in Hexi region of Gansu Province,China,asand-accumulation belt are formed along the oasis fringe.The sand-accumulation belt is 4.8 -18.6 m high and $3 0 . 4 - 4 6 1 . 4 \mathrm { ~ m ~ }$ wide along the fringe of MinqinOasis.Whythe belt is higher in some area whilerelativelyshort inanotherarea；or wider in some area while narrow in another area?To find the answers,we investigated the sand-accumulation belt along the fringe of Minqin Oasis,and made the analysis using the correlation analysis method and SPSS software.The results show as follows:（1）According to its formation ways,the sand-accumulation belt along the fringeof Minqin Oasis can be divided into 3 types as natural shrubbelt,arbor forestbelt and artificialsand-fixation forest belt.The beltformedbynatural shrubsisrelativelytall,whereasthebeltformedbyarbor foresttreesattheedgeoffarmland is relatively narrow.（2）The angle between the sand-accumulationbelt and the prevailing wind is the main environmental factorcontroling theheightof sand-accumulation belt.Thesmalerthe angle is,thelower thebelt is.When theupper wind is aligned with the wind-drift sand mouth,the smallertheangleis,the narrower the belt is.（3）Result of canonical corelation analysis is beterthan thatof singlecorrelation analysis.The morphological of sand-accumulationbeltare mainlydetermined byits width,aspect ratioand sectional shape.Themain environmental factors efecting the morphological characteristics of sand-accumulationbelt are whetherthere is wind-drift sand mouth in theupper wind direction as well as the distance from sand source.If there is no sand mouth in its upwinddirection, the sand accumulationbelt willbe widerand thesectional area be bigger;if the distance between the sand-accumulation belt and the upwind sand source is small,the sand-accumulation belt will be higher.
+
+Key words:oasis fringe； sand-accumulation belt；cause of formation； environmental factor； Minqin

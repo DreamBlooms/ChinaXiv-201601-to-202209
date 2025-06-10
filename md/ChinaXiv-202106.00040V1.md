@@ -1,0 +1,206 @@
+# 西北干旱区绿洲葡萄园净碳交换及其影响因素
+
+张扬，朱高峰，秦文华，赵楠，陈惠玲（兰州大学资源环境学院，甘肃 兰州730000)
+
+摘要：研究干旱区绿洲农业生态系统碳收支动态和其碳源汇形成机制对于指导绿洲农业固碳减排至关重要。基于敦煌干旱绿洲葡萄园涡度相关系统观测的 $\mathrm { C O } _ { 2 }$ 通量和相关环境因子数据，估算2019年生长季(5一10月)葡萄园的碳收支总量，同时探究净生态系统碳交换(NEE)的日、季动态及其对叶面积指数(LAI）、光合有效辐射(PAR)、水汽压差(VPD)和空气温度( $\mathbf { \sigma } _ { T _ { a } } ^ { } )$ 等的响应。结果表明：(1)生长季期间,葡萄园净生态系统碳交换(NEE）生态系统呼吸 $( R _ { \mathrm { e } } )$ 和总初级生产力(GPP)的累计量分别为 $- 6 4 7 . 3 \ 、 8 8 3 . 2 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ 和 $1 5 3 0 . 5 \ \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 }$ $R \mathrm { / G P P }$ 值为 $5 7 . 7 \%$ ,表明其碳消耗强度较低，为强烈的碳汇过程。(2)生长季NEE量变化呈单峰型(7月峰值),与空气温度的季节变化相似。这表明在水分供应充足的基本条件下,空气温度对于NEE具有显著影响。（3）生长季NEE受到LAI、PAR、VPD、 $T _ { \mathrm { a } }$ 等生物物理因素的综合作用,在整个生长季PAR是与其相关性最高的环境因子,通过驱动光合作用增加固碳量;生长季LAI先增加后减少，光合固碳量也相应受到影响,进而造成NEE呈先下降后上升趋势。同时,保持VPD处于适宜的范围 $2 0 { \sim } 3 5 \mathrm { h P a } ,$ ),可有效地提高其固碳能力。
+
+关键词：绿洲葡萄园；涡度相关系统；净生态系统碳交换；影响因素
+
+陆地生态系统是联系大气和陆地物质能量交换的纽带，近年来，随着全球大气 $\mathrm { C O } _ { 2 }$ 浓度的增加，陆地生态系统碳交换受到越来越多的关注[1-2]。涡度相关技术的发展使我们能够长期连续的监测陆地生态系统 $\mathrm { C O } _ { 2 }$ 通量变化，该技术是陆地生态系统直接测定 $\mathrm { C O } _ { 2 }$ 通量的标准方法[3],其测量精度较高[4]。当前，该技术已被广泛应用于陆地生态系统碳循环研究中，并且成为全球规模最大的国际通量观测研究网络(FLUXNET)的主要技术方法。目前，全球通量站主要涵盖了从 $4 0 ^ { \circ } \mathrm { S } { \sim } 7 0 ^ { \circ } \mathrm { N }$ 之间的各类植被区的400多个站点3，但就其分布密度而言，在全球干旱半干旱区开展的长期定位观测仍较少。全球干旱半干旱区土地面积占陆地表面的1/3以上[5],且气候变化使其面积呈增加趋势，脆弱的生态环境使该区生态系统碳交换过程对自然和人类活动的干扰较为敏感。
+
+我国干旱半干旱区约占陆地总面积 $5 2 \% ^ { [ 6 ] }$ ,当前针对我国干旱半干旱区的碳交换研究多集中在沙漠灌丛、草原等生态系统，其植物群落叶面积、地上生物量和净初级生产力较低。例如，刘冉等通过涡度相关法测定古尔班通古特沙漠南缘盐生荒漠生态系统 $\mathrm { C O } _ { 2 }$ 通量的年内和年际变异，Jia等利用涡度相关技术量化了毛乌素沙漠南缘的半干旱灌丛净生态系统碳交换（NEE）、总初级生产力(GPP)和生态系统呼吸 $\left( R _ { \mathrm { e } } \right)$ 的年累计量，并分析了多个时间尺度上碳通量对生物物理因子的依赖关系。吴利禄等采用该技术估算民勤绿洲荒漠过渡带梭梭人工林的总固碳量。另外，也有部分研究关注了西北干旱区独具特色的灌溉绿洲农业生态系统,例如玉米、棉花等农田的碳通量变化[10-11],而敦煌市作为西北干旱区传统的粮棉种植基地，近20a来调整农业结构，持续增加鲜食葡萄的种植，2012年其葡萄种植面积约 $8 3 . 3 \ \mathrm { k m } ^ { 2 }$ ,到2016年已达到$1 1 2 . 7 \mathrm { k m } ^ { 2 [ 1 2 ] }$ ,但目前对于该区葡萄园碳交换关注仍较少。
+
+敦煌葡萄的广泛种植造成下垫面改变，对区域碳循环会产生一定的影响，因此明晰绿洲葡萄园生态系统与大气之间的净碳交换及其影响因素、估算葡萄园固碳能力显得尤为重要，这对评估西北干旱区灌溉绿洲农业生态系统碳源汇能力具有重要意义。本研究基于涡度相关系统和自动气象站观测的2019年敦煌南湖绿洲葡萄园生长季的 $\mathrm { C O } _ { 2 }$ 通量和环境因子，分析干旱绿洲葡萄园生长季碳收支日、季动态，探究叶面积指数(LAI)、光合有效辐射(PAR）、水汽压差(VPD)和空气温度 $( T _ { \mathrm { a } } )$ 等因素对NEE的影响，为理解绿洲葡萄园碳汇形成机制和指导绿洲农业固碳减排提供参考。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+研究区位于甘肃省敦煌市西南方向约 $7 0 \mathrm { k m }$ 的南湖绿洲，属于极端干旱区，其年日照时数为 $3 1 1 5 \sim$ $3 2 4 7 \mathrm { h } ^ { [ 1 3 ] }$ ,年总太阳辐射范围为 $5 9 0 3 . 4 { \sim } 6 3 0 9 . 5 \mathrm { M W } \cdot$ $\mathbf { m } ^ { - 2 }$ ,其年均温约 $9 . 3 ~ \mathrm { { ^ { 9 C ^ { [ 1 4 ] } } } }$ ,保证了该区作物生长所需的光热条件。研究区年潜在蒸散发量大，约为2400$\mathbf { m } \mathbf { m } ^ { [ 1 5 ] }$ ,但拥有党河水库的稳定灌溉水源,其土壤类型多为沙壤土，养分含量较高。基于上述光、热、水和土壤等资源优势，已成为除新疆等地以外，我国最适宜葡萄种植的地区之一。其中，在南湖绿洲区， $9 5 \%$ 以上的作物为无核白葡萄。我们选取核心研究区（ $4 5 0 \mathrm { m } { \times } 1 6 0 \mathrm { m }$ 的一块无核白葡萄典型样地$( 5 2 ~ \mathrm { m } \times 4 3 ~ \mathrm { m }$ ),葡萄种植株距约 $1 \mathrm { m }$ ，行间距 $3 \mathrm { ~ m ~ }$ ，冠层高度 $2 . 5 \mathrm { ~ m ~ }$ 。葡萄的熟制是一年一熟，生长季为5—10月，其中5月初萌芽，5月底开花，6一7月中旬挂果，7月底至8月成熟，9月采摘，10月中期埋土冬藏。
+
+# 1.2 研究方法
+
+1.2.1观测方法研究区样地中架设一套涡度相关系统，包括一套三维超声风速仪(R3-50,Gill,UK)和开路式 $\mathrm { C O _ { 2 } / H _ { 2 } O }$ 气体分析仪(LI-7500,LI-Cor,USA)，安装高度为 $4 ~ \mathrm { m }$ ,测定潜热、显热和 $\mathrm { C O } _ { 2 }$ 通量等，该区全冠层覆盖的7一9月主导风向为东北风，该方向白天大气不稳定层结时源区长度约 $1 5 0 \mathrm { m }$ 夜间大气稳定层结时约为 $2 5 0 \mathrm { m }$ ,全天主要通量源区均落在核心研究区葡萄地内。同时结合一套自动气象站，监测空气温度 $( T _ { \mathrm { a } } )$ 和相对湿度(RH)、光合有效辐射(PAR)和降水（Rainfall) ${ . 5 \mathrm { c m } }$ 土壤温度$( T _ { \mathrm { s 5 } } )$ 和 $5 \mathrm { c m }$ 土壤含水量(SWC)等环境因子。其中$T _ { \mathrm { a } }$ 和RH在地面 $1 . 0 , 1 . 5 , 2 . 0 , 2 . 5 \mathrm { ~ m ~ }$ 和 $3 . 0 \mathrm { ~ m ~ }$ 高度处采用温湿度传感器观测（HMP6O,Vaisala,Finland），本研究中 $T _ { \mathrm { a } }$ 和RH采用5个高度的平均值，水汽压差（VPD）由 $T _ { \mathrm { a } }$ 和RH计算得到；PAR采用光合有效辐射仪(LI-190R，LI-Cor,USA)在 $3 \mathrm { ~ m ~ }$ 高度处测定，降水由翻斗式雨量筒（TE525,TexasElectronics,USA）测定，而土壤温湿度传感器(5TE,Decagon,USA)埋设在地下 $5 \ \mathrm { c m }$ 处,用于观测 $T _ { \mathrm { s 5 } }$ 和SWC。所有数据均由数据记录器(CR1000,Campbell Scientific,USA）记录,采集间隔为 $3 0 \mathrm { m i n }$ 。
+
+叶面积指数(LAI)是指单位土地面积上植物叶片的总面积，其表征植物生长状况和冠层发育，采用植物冠层分析仪(LAI-2200，LI-Cor，USA)每月选择晴朗的1d测定葡萄园的LAI，重复3次取其平均值。
+
+1.2.2数据插补与拆分涡度数据首先采用Ed-dyPro软件进行预处理，包括异常值及野点值剔除、坐标旋转修正、频率损失修正、WPL修正等， $\mathrm { C O } _ { 2 }$ 数据处理后的质量分级标志 $Q _ { \mathrm { c } }$ 值为0、1、2的数据分别占比 $5 2 \% . 3 3 \%$ 和 $1 5 \%$ ， $8 5 \%$ 的数据良好。进一步的剔除夜间NEE为负值、降雨前后半小时和超出有效范围 $\left( - 4 1 { \sim } 2 0 ~ { \mu } \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 } \right)$ 的数据，采用REddyProc包进行通量数据插补和组分拆分(https://www.bgcjena.mpg.de/bgi/index.php/）。其中NEE插补主要通过以下步骤[16]：(1)通过移动点法和断点检测法计算摩擦风速阈值为 $0 . 0 8 4 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ ,剔除湍流较弱时（尤其是夜间)的 $\mathrm { C O } _ { 2 }$ 通量，葡萄园 $\mathrm { C O } _ { 2 }$ 通量总有效率为$6 8 \%$ ，其中白天有效率为 $7 6 \%$ ，夜间为 $5 7 \%$ 。（2）采用查表法、平均日变化曲线法或样本边缘分布采样法，插补NEE数据。
+
+当前，NEE拆分最常用的是夜间NEE与温度的非线性回归模型拆分法，将其拆分为 $R _ { \mathrm { e } }$ 和GPP(公式1)。
+
+$$
+\mathrm { N E E } = R _ { \mathrm { e } } - \mathrm { G P P }
+$$
+
+式中：NEE表示净生态系统 $\mathrm { C O } _ { 2 }$ 交换量； $R _ { \mathrm { e } }$ 为生态系统呼吸；GPP为总初级生产力；单位均为 $\mu \mathrm { m o l }$ ·$\mathbf { m } ^ { - 2 } \cdot \mathbf { s } ^ { - 1 }$ 。
+
+夜间植物只进行呼吸作用，因此夜间NEE等于$R _ { \mathrm { e } }$ ，运用夜间 $R _ { \mathrm { e } }$ 和温度的关系(公式2)，推出白天 $R _ { \mathrm { e } }$ 对温度的响应，再根据公式1求出GPP。
+
+$$
+R _ { \mathrm { e } } = R _ { \mathrm { r e f } } \times \mathrm { e x p } \Bigg ( E _ { 0 } \Bigg ( \frac { 1 } { \left( T _ { \mathrm { r e f } } - T _ { 0 } \right) } - \frac { 1 } { \left( T _ { \mathrm { s } 5 } - T _ { 0 } \right) } \Bigg ) \Bigg )
+$$
+
+式中： $R _ { \mathrm { r e f } }$ 为基准温度下的生态系统呼吸( $\mathbf { \mu } _ { \mathrm { \mu } } ( \mathbf { \mu } _ { \mathrm { { m o l } } } \cdot \mathbf { \mu } _ { \mathrm { { m } } } ^ { - 2 }$ .$\mathbf { s } ^ { - 1 }$ ）； $\boldsymbol { E _ { 0 } }$ 为活化能 $( \mathrm { K J } \cdot \mathrm { m o l } ^ { - 1 }$ ； $T _ { 0 }$ 保持在 $- 4 6 . 0 2 \mathrm { ~ \textdegree C }$ 恒
+
+定； $T _ { \mathrm { r e f } }$ 为参考温度 $1 5 \ \mathrm { { ^ circ C } }$ $T _ { \mathrm { s 5 } }$ 为 $5 \ \mathrm { c m }$ 处土壤温度（204号 $( \mathcal { C } )$ 0
+
+1.2.3NEE与PAR、VPD和 $T _ { \mathrm { a } }$ 的关系筛选 $\mathrm { P A R } { > } 1 0$ $\mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 的日间NEE,采用直角双曲线模型[17],分析5一10月日间NEE与PAR的关系。
+
+$$
+\mathrm { N E E } = R _ { \mathrm { e , d } } - { \frac { \alpha A _ { \mathrm { m a x } } \mathrm { P A R } } { A _ { \mathrm { m a x } } + \alpha \mathrm { P A R } } }
+$$
+
+式中：PAR为光合有效辐射； $R _ { \mathrm { e , d } }$ 为白天生态系统呼吸； $A _ { \mathrm { m a x } }$ 是PAR趋向无穷大时的最大光速率； $\alpha$ 为初始光能利用率 $( \mu \mathrm { m o l } \cdot \mu \mathrm { m o l } ^ { - 1 }$ ）
+
+各月日间VPD按照每 $5 \mathrm { { h P a } }$ 为一个区间，分为若干个区间： $[ 0 \sim 5 ] _ { \setminus } \left[ 5 \sim 1 0 \right] _ { \setminus } \left[ 1 0 \sim 1 5 \right] _ { \setminus } \cdots ,$ 将各个区间半小时尺度上的NEE和VPD求平均，绘制各月日间NEE对VPD的响应曲线，
+
+夜间 $\mathrm { N E E } ( R _ { \mathrm { e } } )$ 与 $T _ { \mathrm { a } }$ 的关系采用指数模型拟合[18]如公式4所示。
+
+$$
+R _ { \mathrm { e } } = \alpha e ^ { \beta T _ { \mathrm { a } } }
+$$
+
+式中： $R _ { \mathrm { e } }$ 为夜间 $\mathrm { N E E } ( \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 } )$ ; $T _ { \mathrm { a } }$ 为空气温度$( \operatorname { \mathcal { C } } ) ; \alpha , \beta$ 分别为拟合参数。
+
+夜间生态系统呼吸温度敏感性根据公式5计 算[18]。
+
+$$
+Q _ { 1 0 } = \mathrm { e } ^ { 1 0 \beta }
+$$
+
+式中： $Q _ { 1 0 }$ 为夜间生态系统呼吸温度敏感性； $\beta$ 为拟合参数。
+
+# 2结果与分析
+
+# 2.1生长季葡萄园生理和环境因子动态
+
+研究区葡萄的生长状况采用叶面积指数(LAI)来表述,5一9月，LAI呈先增加后减小的趋势，6月达到最大，为 $3 . 9 \mathrm { ~ m } ^ { 2 } \cdot \mathrm { m } ^ { - 2 }$ ;空气温度 $( T _ { \mathrm { a } } )$ 和 $5 \mathrm { c m }$ 处土壤温度（ $\left( T _ { \mathrm { s } 5 } \right)$ 变化较稳定，日平均 $T _ { \mathrm { a } }$ 和 $T _ { \mathrm { s 5 } }$ 约为 $2 0 . 2 ~ \mathrm { \textdegree C }$ 和$1 8 . 5 ~ \mathrm { { ^ { \circ } C } }$ ，自9月末二者开始逐渐下降，10月仅为9.4和 $1 3 . 0 \mathrm { { ^ { c } } }$ ,平均 $T _ { \mathrm { s 5 } }$ 略高于 $T _ { \mathrm { a } }$ （图1a)。5—10月降水总量仅为 $4 2 . 9 \ \mathrm { m m }$ ，降水稀少(图1b); $5 \mathrm { c m }$ 土壤含水量(SWC)受到农田的6次大水漫灌影响而存在6次突增，分别在出土期、萌芽期、开花期、两次结果期和埋土期前期，两次结果期增量较其他阶段小，是由于此时处于果实成熟期，水分过多会影响果实糖分的积累。生长季日平均光合有效辐射(PAR)受阴天、降雨等天气状况的影响而变化。PAR在7月11日13:00达到最大，为 $1 8 7 8 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ ;PAR和 $T _ { \mathrm { a } }$ 的变化类似，也在9月末显著下降。水汽压差(VPD)是影响光合作用的重要因素，其变化如图1c,5—7月日平均VPD相对较高，最大出现在5月23日，为 $2 6 . 7 0 \mathrm { { h P a } } ; 8$ 月后逐渐下降。
+
+![](images/56571772a65f45eac9712616f56156cc1fd3c59cf9b1e943ee313b8cd7e665a5.jpg)  
+图1生长季葡萄园环境因子动态变化  
+Fig.1 Dynamic variation of environmental factors during growing season in the vineyard
+
+# 2.2生长季葡萄园碳收支动态
+
+生长季葡萄园碳通量变化如图2a所示，5月7日以前和10月19日以后，NEE是正值，表明此时葡萄园为碳源;而5月中旬至10月中旬，NEE则为负值，葡萄园呈现一个强烈的碳汇过程。GPP变化受PAR的影响显著，二者具有较一致的波动，其中GPP在7月24日达到最大，为 $1 6 . 4 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ 。5—10月平均 $R _ { \mathrm { e } }$ 分别为 $3 . 6 \ 、 5 . 7 、 6 . 8 、 5 . 1 、 4 . 5 \mathrm { ~ g ~ C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 }$ 和2.6$\mathbf { g } \mathbf { \Lambda } \mathbf { C } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 }$ 。生长季累计NEE、 $. R _ { \mathrm { e } }$ 和GPP变化由图2b 可知,三者累计量分别为 $- 6 4 7 . 3 \ 、 8 8 3 . 2 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ 和$1 5 3 0 . 5 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ $R _ { \mathrm { e } } / \mathrm { G P P }$ 值为 $5 7 . 7 \%$ ，为强烈的碳汇过程。另外， $\mathrm { N E E } , R _ { \mathrm { e } }$ 和GPP累计量均呈先缓慢、后迅速、再缓慢变化的特征，这与葡萄生长所处的物候期直接相关。在葡萄生长初期和末期，植被生理活动较缓慢；而进入生长旺盛期，温度适宜、植被冠层发育等极大的促进了其生理活动。
+
+![](images/69d22b61467ef3cee41e2982af1857ffe4d4f857ccd4a9014994170224f931a5.jpg)  
+图2生长季葡萄园碳交换及其累计量变化 Fig.2Variation ofcarbon exchange and cumulative values during growing season in the vineyard   
+图3生长季各月净生态系统碳交换(NEE）生态系统呼吸 $\left( R _ { \mathrm { e } } \right)$ 和总初级生产力(GPP)的累计收支 Fig.3Cumulative values of net ecosystem exchange (NEE), ecosystem respiration $( R _ { \mathrm { e } } )$ and gross primary productivity (GPP) each month during growing season
+
+生长季各月葡萄园累计碳收支如图3所示，NEE、 $R _ { \mathrm { e } }$ 和GPP累计量均表现为7月最大，10月最小。5—10月 $R _ { \mathrm { e } } / \mathrm { G P P }$ 值分别为 $6 8 . 3 \%$ 、 $5 1 . 0 \%$ 、$5 4 . 7 \% . 5 1 . 0 \% . 5 8 . 1 \%$ 和 $8 5 . 5 \%$ ,6—8月葡萄生长旺盛，GPP和 $R _ { \mathrm { e } }$ 累计值较其他月份大，但碳消耗强度却略低。
+
+500 NEE Re 400 GPP （./ d -100 I -200 1 5 6 7 8 9 10 月份
+
+# 2.3生长季各月碳收支平均日变化
+
+生长季各月碳收支（NEE $\ 、 R _ { \mathrm { e } }$ 和GPP)平均日变化呈单峰型(图4)。NEE各月平均日变化呈“U"型（图4a），各月（5—10月）日平均NEE分别为-1.6、$- 5 . 3 \_ - 5 . 5 \_ - 4 . 7 \_ - 3 . 2 \ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 和 $- 0 . 4 ~ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 }$ .$\mathrm { ~ s ~ } ^ { - 1 }$ ,碳汇能力逐渐增强，7月达到最大，随后逐渐降低。 $R _ { \mathrm { e } }$ 和GPP各月日变化呈倒"U"型（图4b和 $_ \mathrm { 4 c }$ ），也表现为相似变化趋势。另外，各月夜间NEE为正值，为碳排放过程，而日出后开始光合固碳，当光合作用大于呼吸作用，NEE转化为负值，整体表现为碳吸收过程。自5—10月，早上NEE由正转负的时刻分别为8:00、7:30、7:30、8:00、8:30、9:00；下午由负转正的时刻分别为20:00、20:30、19:30、19:00、19:00、18:30。可见，不同月份NEE日变化正负值转化的时间存在差异，主要是由于各月日出、日落时间变化导致的光合作用开始和结束时间不同所致。日出之后、日落之前植物在光照等条件下，开始同化碳，当光合作用逐渐大于呼吸作用时，由碳源向碳汇过
+
+![](images/cd9c69f24a787d4a0cc2d1d7fc4c9a4802761671f63669ed2b2d096b7f5053a8.jpg)  
+图4生长季各月NEE $\phantom { } \cdot R _ { \mathrm { e } }$ 和GPP平均日变化 Fig.4Average daily variation of NEE, $R _ { \mathrm { e } }$ and GPP each month during growing season
+
+程转化。
+
+# 2.4生长季NEE与LAI的关系
+
+葡萄园生长季中NEE对LAI的响应呈线性（图5)，直线的拟合优度达到 $9 2 \%$ 。随着葡萄叶面积指数的增加，NEE呈明显下降趋势;拟合直线的斜率
+
+![](images/b33b22f16293d6055e03a671bd9d6f7a35009f943b21b678c1a5d5f5b3323aa6.jpg)  
+图5生长季NEE与LAI的关系 Fig.5Relationship between NEE and LAI during growing season
+
+表示增加单位叶面积指数时NEE的变化量，葡萄园中NEE的变化量为 $- 2 . 4 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { d } ^ { - 1 }$ ○
+
+# 2.5生长季NEE与环境因子的关系
+
+生长季各月白天NEE与环境因子的相关分析结果见表1，PAR作为光合作用的主要驱动力，是生态系统碳循环的重要影响因素，在整个生长季PAR是与NEE负相关性最高的因子，相关系数达到0.619( ${ \cal P } { > } 0 . 0 1 \ \rangle$ 。其中5—8月相关系数逐渐增高，8月日间PAR与NEE的相关系数最大，为0.773；之后逐渐减小。就整个生长季而言，由于葡萄的生理状况和环境条件具有较大波动， $T _ { \mathrm { a } \setminus \mathrm { V P D } }$ 、RH和SWC与NEE的相关性较低，但NEE在各月同时受 $T _ { \mathrm { a } \setminus \mathrm { V P D } }$ 、RH和SWC等的综合影响，较整个生长季相关性略高。
+
+2.5.1生长季白天NEE与PAR的关系采用直角双曲线模型对生长季白天NEE与PAR关系进行拟合(图6)，结果表明，各月白天的NEE与PAR符合直角双曲线关系，模型解释了生长季不同月份NEE变化的 $1 3 \% { \sim } 5 4 \%$ ，各月拟合优度变化与相关分析中相关系数的大小排序一致，10月白天NEE对PAR的响应微弱，主要原因是生长季末期温度和PAR均显著下降、植物叶片衰老，导致植被对 $\mathrm { C O } _ { 2 }$ 的吸收减少。生长季各月，随着白天PAR逐渐增强，NEE均呈下降趋势；然而在相同PAR条件下，存在较多不同的NEE值，且NEE以拟合的直角双曲线为中心，上下波动大且分散。
+
+生长季各月光合曲线拟合参数见表2，最大光合速率在 $7 . 9 1 { \sim } 3 0 . 5 8 ~ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ 之间波动,8月达到最大，而10月最小；白天生态系统呼吸则在7月
+
+表1生长季白天NEE与环境因子的相关性分析  
+Tab.1 Correlation analysis of daytime NEE and environmental factors during growing season   
+
+<html><body><table><tr><td>月份</td><td>PAR</td><td>T</td><td>VPD</td><td>RH</td><td>SWC</td><td>n</td></tr><tr><td>5</td><td>-0.566**</td><td>-0.210**</td><td>-0.222**</td><td>0.176**</td><td>-0.006</td><td>881</td></tr><tr><td>6</td><td>-0.595**</td><td>-0.222**</td><td>-0.112**</td><td>0.078*</td><td>-0.135**</td><td>865</td></tr><tr><td>7</td><td>-0.647**</td><td>-0.282**</td><td>-0.236**</td><td>0.183**</td><td>0.025</td><td>833</td></tr><tr><td>8</td><td>-0.773**</td><td>-0.329**</td><td>-0.248**</td><td>0.225**</td><td>0.081*</td><td>844</td></tr><tr><td>9</td><td>-0.728**</td><td>-0.329**</td><td>-0.318**</td><td>0.309**</td><td>-0.170**</td><td>741</td></tr><tr><td>10</td><td>-0.364**</td><td>-0.407**</td><td>-0.249**</td><td>-0.154**</td><td>0.275**</td><td>689</td></tr><tr><td>5-10</td><td>-0.619**</td><td>-0.035*</td><td>-0.042**</td><td>-0.022</td><td>-0.066**</td><td>4909</td></tr></table></body></html>
+
+注：\*、\*\*分别表示通过0.05和0.01水平的显著性检验。
+
+20 (a)5月 (b)6月1510 。 。 。 y=6.323.24(27.19119x)。 。 。 。 o。5 5 。 。 。  
+(S.zUI.Jom)/ 8 80 0051 88 898000 geO8 88 8 888 8 0 8-15 8 。 T 8880 8 8 &。 8 。 8 %00 。-20 。 。。 。 。 99 882530 y=4.03-0.66x/(13.01+0.051x) 。 。 。 。 。 。 。 8 。 8 8 Q-35 R2=0.27 。 8 o。 。-40 。20[。(c)7月 (d)8月15 0 y=7.65-4.68x/(27.54+0.170x) 。10 R²=0.40 。。 。。  
+(SIzUI.m)/T 5 00 0 。 0 00 8 88 8880 品-10 -5 898 品 B 88 。 80 88 8 8 8 8 8 00 o。o 8 8-15 8 8 8 98 8 88 8品 8 % 。 o。 8 8-20 800 9 8 8 8 。0 082530 8。 。°。 品。 8 。o。 8 8 y-3.18-0.45x/(7.91057x)-35 。 。 。 0 %0 。 R²=0.13-4020 (e)9月 (f)10月10505 y-5-24-215/204  
+(.zUI.Jo)/ 80881055 888 0。 。 8 R 8 88。 0-20 。 。 。 & 888 8 8 O 。 。 9 000 。 000。 9 。 。 8-25 。。 。 00 8 oo-35 -30 0 。 88 0-40 。0 250 500 750 1000 1250 1500 1750 20000 250 500 7501000 1250 1500 1750 200PAR/(μmol·m-2-s-1) PAR/(μmol·m-2-s-1)
+
+Tab.2 Fitting parameters of photosynthetic curve during growing season   
+
+<html><body><table><tr><td>月份</td><td>最大光合速率Amax /(μmol·m-2·s−1)</td><td>白天生态系统呼吸Re,d (μmol·m²·s-1)</td><td>初始光能利用率α (μmol·μmol-1)</td><td>样本数</td><td>R</td></tr><tr><td>5</td><td>13.01</td><td>4.03</td><td>0.051</td><td>770</td><td>0.27</td></tr><tr><td>6</td><td>27.19</td><td>6.32</td><td>0.119</td><td>663</td><td>0.39</td></tr><tr><td>7</td><td>27.54</td><td>7.65</td><td>0.170</td><td>746</td><td>0.40</td></tr><tr><td>8</td><td>30.58</td><td>5.62</td><td>0.066</td><td>763</td><td>0.54</td></tr><tr><td>9</td><td>20.64</td><td>5.24</td><td>0.104</td><td>644</td><td>0.44</td></tr><tr><td>10</td><td>7.91</td><td>3.18</td><td>0.057</td><td>598</td><td>0.13</td></tr></table></body></html>
+
+达到最大,为 $7 . 6 5 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 。初始光能利用率体现了植物对弱光的利用能力，其中6、7月利用率较高，分别达到 $0 . 1 1 9 \ \mu \mathrm { m o l } \cdot \mu \mathrm { m o l } ^ { - 1 }$ 和 $0 . 1 7 0 ~ \mu \mathrm { m o l }$ ·$\mu \mathrm { m o l } ^ { - 1 }$ ,而在5月和10月较低，仅为 $0 . 0 5 1 ~ \mu \mathrm { m o l }$ ·$\mu \mathrm { m o l } ^ { - 1 }$ 和 $0 . 0 5 7 ~ \mu \mathrm { m o l } \cdot \mu \mathrm { m o l } ^ { - 1 }$
+
+2.5.2生长季白天NEE与VPD的关系VPD可以反映空气的干燥程度，直接控制葡萄叶片气孔导度和冠层导度，是影响其光合能力的另一重要因素，因此也会间接影响NEE变化，但是其调节机制复杂。生长季各月NEE对VPD的响应存在差异（图7)，整体而言，NEE随着VPD增加呈现先下降后上升的趋势，各月间VPD最适宜范围在 $2 0 { \sim } 3 5 \mathrm { h P a }$ 。
+
+2.5.3生长季白天NEE与 $T _ { \mathrm { a } }$ 的关系生态系统呼吸与温度的关系通常用指数方程来描述，植被夜间NEE与 $R _ { \mathrm { e } }$ 数值相等。为了探究葡萄园NEE对于 $T _ { \mathrm { a } }$ 的响应，本研究着重分析了各月夜间 $\mathrm { { N E E } } ( R _ { \mathrm { { e } } } )$ 与 $T _ { \mathrm { a } }$ 的指数关系(表3)，结果表明： $T _ { \mathrm { a } }$ 解释了各月NEE变化的 $3 5 \% { \sim } 7 2 \%$ ,夜间NEE随着 $T _ { \mathrm { a } }$ 的增加呈指数上升
+
+![](images/01c000bae4abea32877d103d18165ab7695902c1f51802e593ce48c5b326877b.jpg)  
+图7生长季各月白天NEE与VPD的关系 Fig.7The relationship between daytime NEE and VPD each month during growing season
+
+# 表3生长季各月夜间NEE与 $T _ { \mathrm { a } }$ 的关系
+
+表2生长季光合曲线拟合参数  
+Tab.3 Relationship between NEE and $T _ { \mathrm { a } }$ of nighttime each month during growing season   
+
+<html><body><table><tr><td>月份</td><td>指数方程</td><td>Q10</td><td>R</td></tr><tr><td>5</td><td>y=0.389e0.127x</td><td>3.6</td><td>0.41</td></tr><tr><td>6</td><td>y=1.103e0.072x</td><td>2.1</td><td>0.36</td></tr><tr><td>7</td><td>y=1.177e0.077x</td><td>2.2</td><td>0.66</td></tr><tr><td>8</td><td>y=0.625e0.02x</td><td>2.5</td><td>0.35</td></tr><tr><td>9</td><td>y=0.610e0.125x</td><td>3.5</td><td>0.72</td></tr><tr><td>10</td><td>y=0.843e0.119x</td><td>3.3</td><td>0.66</td></tr></table></body></html>
+
+趋势。其中夜间 $\mathrm { { N E E } } \left( R _ { \mathrm { { e } } } \right)$ 的温度敏感性 $Q _ { 1 0 }$ 存在明显的季节波动，5月、9月、10月 $Q _ { 1 0 }$ 值均大于3,5月达到最大，为3.6;而在夏季的6—8月 $Q _ { 1 0 }$ 均小于3,6月仅为2.1。
+
+# 3讨论
+
+2019年生长季5—10月，葡萄园NEE $\cdot R _ { \mathrm { e } }$ 和GPP累计值分别为 $- 6 4 7 . 3 \ 、 8 8 3 . 2 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 }$ 和 $1 5 3 0 . 5 \mathrm { ~ g ~ C ~ }$ ：$\mathrm { m } ^ { - 2 }$ ,相比于旱区其他生态系统，葡萄园具有较强的碳汇能力，例如，民勤绿洲-荒漠过渡带梭梭人工林在生长季固碳量仅为 $3 4 . 4 \ \mathrm { g } \ \mathrm { C } \cdot \mathrm { m } ^ { - 2 \left[ 9 \right] }$ ,而科尔沁草甸湿地5—9月NEE累计值为 $- 2 0 9 . 0 \textrm { g C } \cdot \mathbf { m } ^ { - 2 \left[ 1 9 \right] }$ 。另外，古尔班通古特沙漠灌木区连续3个生长季(2004—2006年)NEE分别 $- 6 4 . 4 \ 、 - 1 7 . 2 、 - 2 5 . 1 \textrm { g C }$ ：$\mathbf { m } ^ { - 2 [ 7 ] }$ ,库尔勒绿洲膜下滴灌棉田在2012—2014年生长季NEE则分别为 $- 1 6 9 . 0 \ 、 - 3 9 7 . 4 \ 、 - 2 2 3 . 6 \textrm { g C } .$ $\mathbf { m } ^ { - 2 [ 1 1 ] }$ ,尽管上述生态系统生长季净碳吸收量的年际波动较大，但均明显低于葡萄园，上述生态系统年固碳能力与该区葡萄园相比，差异主要在于水分是否充分灌溉，同时也与该类生态系统的植物群落叶面积、地上生物量和净初级生产力较低有关。葡萄园 $R _ { \mathrm { e } } / \mathrm { G P P }$ 值为 $5 7 . 7 \%$ ,这反映了该生态系统碳消耗强度略低，而陈小平等[19]指出科尔沁草甸湿地在生长季5—9月碳消耗强度达到 $7 7 . 3 \%$ ,杨鹏举研究的库尔勒棉田在2012—2014年生长季5—9月碳消耗强度甚至为 $8 4 . 7 \%$ ） $6 7 . 9 \%$ 和 $7 8 . 9 \%$ ○
+
+葡萄园生长季NEE变化呈单峰型，7月达到峰值，这与部分研究中NEE的双峰变化特征不同。Liu等[20]研究发现江西千烟洲人工针叶林NEE季节变化呈双峰特征，在5月和9月形成两次峰值，主要原因是6一7月降雨极少，十旱造成生长旺盛期NEE低于其他时期。吴利禄等°也指出民勤梭梭林在生长季NEE变化呈双峰曲线，7月、8月固碳量反而较小，主要是由于此时降水较少、持续高温干旱，植物生理活动受到水分限制所致。尽管本研究的葡萄园位于西北干旱区，但其分布在具有稳定灌溉水源的绿洲，为保证葡萄的正常生长，生长季每月进行一次大水漫灌，因此没有长时间的水分胁迫现象，其NEE的季节变化与空气温度的季节变化相似，呈现单峰型，这表明干旱区葡萄园在水分供应充足的基本条件下，空气温度对于NEE具有显著影响。
+
+NEE的变化是生态系统光合作用与呼吸作用所共同决定的，因此受到LAI、PAR、VPD 和 $T _ { \mathrm { a } }$ 等生物物理因素的共同作用。其中LAI的变化决定了生态系统获取光能和进行光合作用的潜力，本研究中LAI与NEE均呈较好的线性关系。由于LAI的测定仅在生长季每月进行1d,重复3次，因此直线拟合点数较少，增加了分析的不确定性。后续有待结合多年测定的LAI深入分析NEE对于LAI的响应。PAR作为陆地生态系统光合作用的主要驱动力，会显著影响碳循环过程。在整个生长季PAR是与NEE相关性最高的因子，相关系数达到0.619( $P <$ 0.01)。生长季各月，随着白大光合有效辐射逐渐增强，NEE均呈下降趋势。各月白天的NEE与PAR符合直角双曲线关系，6—9月拟合优度较高，5月和10月较低；而最大光合速率、初始光能利用率以及白天生态系统呼吸等各项生理活动均表现为6一9月较旺盛,生长初期和末期相对较弱,这与李润东等[21]的研究结论一致。但拟合的最大光合速率和初始光能利用率均高于同纬度的北京松山落叶阔叶林[21和八达岭针阔混交林[22]，主要原因是研究区光照充足、葡萄冠层覆盖度高，对光能的利用率强。VPD则通过调控植物气孔的开闭来影响光合作用，进而影响NEE,因此较高或较低的VPD均会抑制光合作用和NEE[23],本研究中NEE随着VPD增加呈先下降后上升的趋势,VPD的最适范围主要在 $2 0 { \sim } 3 5 \mathrm { h P a }$ ，即NEE绝对值达到最大时的最适VPD范围为 $2 0 \sim$ $3 5 \mathrm { { h P a } }$ 。Carrana等[24]研究表明，高温条件下，水分亏缺是造成植物固碳减少的主要原因，因此保持VPD处于最适范围内，可使植物更有效地进行水分和养分循环，进而提高固碳能力。另外，夜间NEE值随着 $T _ { \mathrm { a } }$ 的增加呈现指数上升趋势，5一10月平均夜间NEE $\left( R _ { \mathrm { e } } \right)$ 的温度敏感性 $Q _ { 1 0 }$ 为2.9，较先前研究中科尔沁草甸生态系统呼吸的温度敏感性( $Q _ { 1 0 } =$ 2.4)略高[19]，表明葡萄园对于气候变暖可能更敏感。本文相关分析表明,各月NEE与SWC的相关性较PAR、VPD等因素小，因此，本研究着重关注其他因素，但由于该区属于干旱区人工灌溉的果园，水分变化会显著影响葡萄的生长状况，进而影响通量相关过程，因此，后续进一步探究灌溉前后的碳交换差异是极为重要的方向。
+
+# 4结论
+
+（1）2019年生长季葡萄园NEE、 $R _ { \mathrm { e } }$ 和GPP累计量分别为 $- 6 4 7 . 3 \ 、 8 8 3 . 2 \mathrm { ~ g ~ C ~ } { \cdot } \mathrm { m } ^ { - 2 }$ 和 $1 5 3 0 . 5 \mathrm { g } \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 }$ ,生长季表现为强烈的碳汇过程；相比于干旱区其他生态系统，葡萄园碳消耗强度 $( R _ { \mathrm { e } } / \mathrm { G P P = } 5 7 . 7 \%$ 略低。各月 $\mathrm { N E E } , R _ { \mathrm { e } }$ 和GPP累计量均在7月最大、10月最小，但在生长旺盛的6一8月碳消耗强度( $\mathrm { \mathit { R e } } / \mathrm { G P P } )$ 反而较低。
+
+（2）生长季NEE量值变化呈单峰型（7月峰值)，与空气温度的季节变化相似，表明干旱区葡萄园在水分供应充足的基本条件下，空气温度对于NEE具有显著影响。
+
+（3）生长季NEE受到LAI、PAR、VPD、 $T _ { \mathrm { a } }$ 等生物物理因素的综合作用，其中在整个生长季PAR与NEE相关性最高，通过驱动葡萄的光合作用增加其固碳量;生长季LAI先增加后减少，光合固碳量也相应受到影响，进而造成NEE呈现下降后上升趋势。另外，保持VPD处于适宜范围（ $2 0 { \sim } 3 5 \mathrm { h P a } ,$ ，可有效地提高其固碳能力。
+
+# 参考文献(References):
+
+[1] Chu X J,Han G X,Xing QH,et al. Changes in plant biomass induced by soil moisture variability drive interannual variation in the net ecosystem CO2 exchange over a reclaimed coastal wetland
+
+[J]. AgriculturalandForest Meteorology,2019,264:38-148.   
+[2]Gao X,GuFX,HaoWP,etal.Carbonbudgetofrainfedsping maize cropland with straw returning on the Loess Plateau, China [J]. Science of the Total Environment,2017,586:1193-1203.   
+[3]于贵瑞,伏玉玲,孙晓敏,等.中国陆地生态系统通量观测研究 网络(ChinaFLUX)的研究进展及其发展思路[J].中国科学(地球 科学),2006,36(增刊):1-21.[Yu Guirui,Fu Yuling,Sun Xiaomin, et al. Research progress and development ideas of Chinese terrestrial ecosystem flux observation and research network (ChinaFLUX)[J]. Scientia Sinica (Terrae),2006,36(Suppl.):1-21.]   
+[4]王进.玛纳斯河流域农田生态系统碳动态及其驱动因素研究 [D].石河子:石河子大学,2017.[Wang Jin.Study on Agroecosystem Carbon Moving and Driving Factors in the Valley of Manas River[D]. Shihezi: Shihezi University,2017.]   
+[5]Delgado-Baquerizo M, Maestre F T, Gallardo A,et al. Decoupling of soil nutrient cycles as a function of aridity in global drylands[J]. Nature, 2013, 502: 672-676.   
+[6]Liang J,Zhang L, Wang Y,et al.Turbulence regimes and the validity of similarity theory in thestable boundary layer over complex terrain of the Loess Plateau, China[J]. Journal of Geophysical Research,2014,119(10): 6009-6021.   
+[7]刘冉,李彦,王勤学,等.盐生荒漠生态系统二氧化碳通量的年 内、年际变异特征[J].中国沙漠,2011,31(1):108-114.[Liu Ran,Li Yan,Wang Qinxue,et al. Seasonal and anual variations of carbon dioxide fluxes in desert ecosystem[J].Journal of Desert Research,2011,31(1): 108-114.]   
+[8]Jia X,Zha TS,WuB,et al. Biophysical controls on net ecosystem （204号 $\mathrm { C O } _ { 2 }$ exchange over a semiarid shrubland in Northwest China[J]. Biogeosciences,2014,11: 4679-4693.   
+[9]吴利禄,高翔,褚建民,等.民勤绿洲-荒漠过渡带梭梭人工林 净碳交换及其影响因子[J].应用生态学报,2019,30(10):3336- 3346.[Wu Lilu,Gao Xiang,Chu Jianmin, et al. Net carbon exchange and its driving factors of Haloxylon ammodendron plantation in the oasis-desert ecotone of Minqin,China[J]. Chinese Journal of Applied Ecology,2019,30(10): 3336-3346.]   
+[10] 王亚楠,龙慧灵,袁占良,等.基于涡度相关的黑河玉米生态系 统生长季碳通量和固碳能力变化特征研究[J].河南农业科学, 2015,44(8): 154-159.[Wang Yanan,Long Huiling, Yuan Zhanliang,et al. Carbon fluxes and carbon sequestration capacity variation of maize ecosystem in Heihe Basin based on eddy covariance observation[J]. Journal of Henan Agricultural Sciences,2015,44 (8): 154-159.]   
+[11]杨鹏举.绿洲膜下滴灌棉田水热碳通量实验与模拟研究[D].北 京:清华大学,2016.[Yang Pengju.Experimental and Numerical Study on Water,Heat and Carbon Fluxes in Cotton Field Sunder Mulched Drip Irrigation inan Oasis[D]. Beijing: Tsinghua University, 2016.]   
+[12] 孙文强.敦煌市葡萄种植户生产经营现状调查分析[D].兰州: 甘肃农业大学,2O17.[Sun Wenqiang.Investigation and Analysis on Production and Management of Grape Growers in Dunhuang City[D]. Lanzhou: Gansu Agricultural University,2017.]   
+[13] 蔡正旺,苏雪,牟迈,等.甘肃敦煌南湖自然保护区生物多样性 及保护对策[J].西北师范大学学报(自然科学版),2007,43(6): 71-78.[Cai Zhengwang,Su Xue, Mou Mai, et al. Biodiversity and protection countermeasures in Dunhuang Nanhu nature reserve of Gansu Province[J]. Journal of Northwest Normal University (Natural Science),2007,43(6): 71-78.]   
+[14]BaiY,ZhuGF,SuYH,etal. Hysteresisloopsbetweennopy conductance of grapevines and meteorological variables in an oasis ecosystem[J].Agricultural and Forest Meteorology,2015,214- 215: 319-327.   
+[15]Ma JZ, He JH,Qi S,et al. Groundwater recharge and evolution in the Dunhuang Basin, northwestern China[J].Applied Geochemistry,2013,28: 19-31.   
+[16]Wutzler T,Lucas-Moffat A, Migliavacca M, et al. Basic and extensible post-processing of eddy covariance flux data with REddyProc [J].Biogeosciences,2018,15: 5015-5030.   
+[17]ollinger D Y, Kelliher F M,Byers JN,et al. Carbon dioxide exchange between an undisturbed old- growth temperate forest and the atmosphere[J].Ecology,1994,75: 134-150.   
+[18] Lloyd J,Taylor JA. On the temperature dependence of soil respiration[J].Functional Ecology,1994,8: 315-323.   
+[19] 陈小平,刘廷玺,王冠丽,等.温度和水分对科尔沁草甸湿地净 生态系统碳交换量的影响[J].应用生态学报,2018,29(5): 1523-1534.[Chen Xiaoping,Liu Tingxi, Wang Guanli,etal.Effects of temperature and moisture on net ecosystem $\mathrm { C O } _ { 2 }$ exchange over a meadow wetland in the Horqin, China[J]. Chinese Journal of Applied Ecology,2018,29(5): 1523-1534.]   
+[20] Liu YF,Song X, Yu G R,et al. Seasonal variation of $\mathrm { C O } _ { 2 }$ flux and its environmental factors in evergreen coniferous plantation[J]. Science in China,2005,48(1): 123-132.   
+[21] 李润东,范雅倩,冯沛,等.北京松山天然落叶阔叶林生态系统 净碳交换特征及影响因子[J].应用生态学报,2020,31(11): 3621-3630.[Li Rundong,Fan Yaqian,Feng Pei,et al. Characteristics of net ecosystem carbon exchange and its affecting factors in a deciduous broad-leaved forest in Songshan,Beijing, China[J]. Chinese Journal of Applied Ecology,2020,31(11): 3621-3630.]   
+[22] 唐祥,陈文婧,李春义,等.北京八达岭林场人工林净碳交换及 其环境影响因子[J].应用生态学报,2013,24(11):3057-3064. [Tang Xiang,Chen Wenjing,Li Chunyi,et al. Net carbon exchange and its environmental afecting factors in a forest plantation in Badaling,Beijing of China[J]. Chinese Journal of Applied Ecology,2013,24(11): 3057-3064.]   
+[23] Zhang L H, Chen YN, Zhao RF,et al. Significance of temperature and soil water content on soil respiration in three desert ecosystems in Northwest China[J]. Journal of Arid Environments,2010, 74: 1200-1211.   
+[24] Carrana A, Janssens I A, Curiel Yuste J, et al. Seasonal changes in photosynthesis,respiration and NEE of a mixed temperate forest [J].Agricultural andForest Meteorology,2004,126:15-31.
+
+# Net carbon exchange and its influencing factors of the oasis vineyard in China's northwest arid region
+
+ZHANG Yang， ZHU Gaofeng， QIN Wenhua， ZHAO Nan， CHEN Huiling(Colege of Earth and Environmental Sciences,Lanzhou University,Lanzhou73oooo,Gansu,China
+
+Abstract: Studying carbon budget dynamics and the formation mechanism ofcarbon sources and sinks in the oasis’s agricultural ecosystem in China’s northwest arid region are crucial. Carbon oxide $\left( \mathrm { C O } _ { 2 } \right)$ fluxes were measured from May to October during the growing season of the arid oasis vineyard in Dunhuang using the eddy covariance system. Based on the $\mathrm { C O } _ { 2 }$ fluxes and data of relevant environmental factors,carbon exchage cumulative values，the net ecosystem exchange (NEE） dynamics，response to leaf area index (LAI), photosynthetically active radiation (PAR), water vapor deficiency (VPD),and air temperature $( T _ { \mathrm { a } } )$ in the vineyard were estimated.Results obtained showed that during the growing season,the total cumulative amount of net ecosystem exchange (NEE),ecosystem respiration $( R _ { \mathrm { e } } )$ ,and gross primary productivity (GPP) were -647.3,883.2, and $1 5 3 0 . 5 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { \cdot 2 }$ ，respectively. $R _ { \mathrm { e } } / \mathrm { G P P }$ value was $57 . 7 \%$ ,indicating a slightly lower carbon consumption intensity and an intense carbon sink process.During the growing season,NEE showed a single peak change and peaked in July;this is similar to the seasonal variation in air temperature.This indicated that air temperature significantly affected NEE under the primary conditions of sufficient water supply. During the growing season, NEE was affected by biophysical factors such as LAI，PAR，VPD，and $T _ { \mathrm { a } }$ .PAR was the most relevant environmental factor, increasing carbon sequestration by driving the photosynthesis of vines.LAI increased initially and then decreased during the growing season,causing the photosynthetic carbon sequestration to be affected accordingly; NEE also decreased initially and then increased. Keeping VPD in a suitable range (20-35 hPa) could effectively improve the carbon sequestration capacity of vines.
+
+Keywords: the vineyard of oasis; eddy covariance system; net ecosystem exchange; influencing factors

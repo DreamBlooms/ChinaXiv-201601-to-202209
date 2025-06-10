@@ -1,0 +1,229 @@
+# 黑河中游夏季昼夜水汽同位素特征及水汽来源分析
+
+孟鸿飞¹，张明军}，王圣杰}²，邱雪}，杜铭霞'，张亚宁}余秀秀'，周苏娥'
+
+（1西北师范大学地理与环境科学学院，甘肃兰州730070；2陕西省河流湿地生态与环境重点实验室，陕西渭南714099)
+
+摘要：基于2012年6\~8月的实测水汽同位素数据及相关气象数据，对黑河中游夏季昼夜的同位素基本特征、水汽来源方向及潜在蒸发源地进行了研究。结果表明：空气水汽线斜率白天大于夜晚和水汽过量气值白天大于夜晚，综合说明白天局地蒸发较夜晚强烈;夏季受西风水汽影响显著。其中,6月主要受西风水汽和北冰洋水汽影响，7、8月主要受西风水汽和东南方向水汽影响，且8月受东南方向水汽影响最为明显；水汽运移路径上下垫面地形和气压带移动会影响水汽后向轨迹高度，西北方向上水汽输送通道较顺畅，风速较大，有利于水汽的输送；水汽蒸发源地主要集中在研究区周围及以东、以北部，其次是西北部。绿洲是主要的水汽蒸发源地，其次是城市和河流，白天较夜晚局地蒸发强烈且面积大。
+
+关键 词：夏季昼夜；水汽来源；水汽同位素；黑河中游文章编号：
+
+稳定同位素D( $\mathrm { \Omega ^ { 2 } H } )$ 和 $^ { 1 8 } 0$ 作为天然示踪剂，是水文学、水文气象学及环境化学等学科的研究热点[1-3]。空气中的水汽虽然仅占大气的 $0 . 1 \%$ \~$3 \%$ ,但却是大气中最活跃的成分[4],而且大气较液态水在水循环过程中参与程度更高，因此，对水汽稳定同位素进行研究可以提供气团凝结历程等更加重要的信息[5] C
+
+水汽同位素研究在国外开始较早[6],在国内,余武生等[7]对那曲河流域水汽同位素研究发现季风活动和降水事件对水汽中 $\delta \ ^ { 1 8 } 0$ 的影响最大，章新平等[研究了TES反演的水汽δD 的时空分布，石梦雨等基于GCM(大气环流模式)水汽同位素数据分析了乌鲁木齐大气水汽中稳定同位素变化特征及其与ENSO（厄尔尼诺与南方涛动的合称)的关系。但是受限于大气水汽收集过程的复杂性和分析仪器的限制，大多数水汽同位素研究存在数据连续性不高或准确度低的问题[10],远不及降水稳定同位素研究广泛和深入。随着科技的发展，水汽同位素数据在获取方式上的取得长足进步，WEN 等["]利用大气水汽 $\delta ^ { 1 8 } 0$ 和&D比值与通量的原位连续观测系统研究发现北京近地面大气水汽中 $\delta ^ { 1 8 } 0$ 和8D在夏季风期间的日变化及昼夜变化幅度较其他时段大；张娜等[12研究发现栾城地区水汽同位素组成随高度增加逐渐减小;姚天次等[13]利用高时频水汽稳定同位素分析仪发现长沙近地面大气水汽中氢氧稳定同位素值冬、春季高于夏、秋季，夜晚高于白天，这些研究对于揭示研究区大气的运动过程具有重要意义。
+
+此外，水汽来源一直是水文学研究的热点，研究方法大都基于气象资料或同位素数据单独分析，但是本文在水汽来源鉴别方法上对二者进行了有机结合，将气象学方法PSCF（潜在源贡献因子）和CWT（浓度权重轨迹）分析法与水汽过量氘（ $d = \delta \mathrm { D } - \$ $8 \delta ^ { 1 8 } 0$ )数据统一起来，这样做的优越性一是水汽 $d$ 受外界影响很小，是良好的水汽示踪指标，二是分析结果可视化，可以更直观的鉴别研究区的水汽潜在蒸发源地,已有研究[14-15]表明CWT模型在鉴别水汽潜在蒸发源地上的可行性。为了对比分析，将研究分为白天和夜晚2个时段进行对比。本文研究区位于黑河中游的绿洲区，对该区水汽同位素的研究，对于深刻理解河西走廊地区的水汽循环过程和降水成因具有重要的理论意义。
+
+# 1研究区概况
+
+研究区 $\langle 3 8 ^ { \circ } 5 1 ^ { \prime } \mathrm { N } , 1 0 0 ^ { \circ } 2 2 ^ { \prime } \mathrm { E }$ ,海拔 $\mathrm { ~ 1 ~ 5 5 0 ~ m }$ 位于甘肃省张掖市，属于典型温带大陆性干旱气候。1961—2010年日平均气温为 $7 . 4 ~ \mathrm { \textdegree C }$ ,年降水量为$1 2 8 . 7 \ \mathrm { m m }$ ,降水主要集中在夏季6\~8月[16-17],是黑河流域主要的水资源消耗区，气候干燥，降水稀少并且集中，日照充足，太阳辐射强烈，多大风,昼夜温差大[18]。采样点设置在张掖市西南部的干旱人工沙漠绿洲田中，人工绿洲面积超过 $1 \ 3 0 0 \ \mathrm { k m } ^ { 2 }$ ,种植的农作物主要为玉米，下垫面均匀，有利于水汽同位素的收集[19]
+
+# 2 数据与方法
+
+# 2.1 数据来源
+
+水汽同位素数据来源于耶鲁大学水汽稳定同位素数据库（https://vapor-isotope.yale.edu/dataset/site-dataset)及相关参考文献[17]。水汽同位素数据是由大气水汽 $\delta ^ { 1 8 } 0$ 和 $ { \delta \mathrm { D } }$ 比值与通量的原位连续观测系统测定，随着季节的推移，水汽采样高度从初离地面 $0 . 6 \mathrm { ~ m ~ }$ 和 $1 . 6 \mathrm { ~ m ~ }$ 增加到玉米季末的 $2 . 6 \mathrm { ~ m ~ }$ 和$3 . 6 \mathrm { ~ m ~ }$ ,精度为每小时,其中， $\delta \ ^ { 1 8 } 0$ 和 $ { \delta \mathrm { D } }$ 的每小时测试误差分别不超过为 $1 \text{‰}$ 和 $\pm 0 . 3 \% o$ ，观测时间为2012年5月16日上午 $9 : 0 0 \sim 9 \$ 月22日上午10：00，无缺测值，数据量为3026个。数据具体测定及处理、仪器配置与质量控制参见参考文献[16-17]。本文选取的研究时段为 2012 年的夏季(6\~8月），为了便于研究，均匀选取北京时间9：00、12：00、15：00、18：00时4个时次作为白天的研究时段， $2 1 : 0 0 , 0 0 : 0 0 , 0 3 : 0 0 , 0 6 : 0 0$ 作为夜晚研究时段,数据量为712个。计算后向轨迹所使用的气象数据是NCEP(美国国家环境预报中心)提供的GDAS(全球资料系统)气象数据，分辨率是 $1 ^ { \circ } \times 1 ^ { \circ }$ 。此外，风玫瑰图采取的是2012年夏季张掖市各月的最大风速、风向数据，数据来源于中国气象数据共享网（http://data.cma.cn/）；大气可降水量与水汽通量分析采用空间分辨率为 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 的ERA-Inter-im(欧洲中期天气预报中心)再分析资料，水汽通量散度选取的是NCEP气象数据，空间分辨率是 $2 . 5 ^ { \circ }$ $\times 2 . 5 ^ { \circ }$ 。
+
+# 2.2 后向轨迹聚类分析
+
+本文使用TrajStat 软件[20],其对气团轨迹的计算利用了NOAA的HYSPLIT模式中的计算模块[21]。后向轨迹聚类通过计算每对轨迹组合的空间相异度( ${ \cdot } s P V A R )$ 和总空间相异度(TSV)对所有达到模式受点区域的气团轨迹进行分组聚类。因本研究主要关注聚类轨迹方向，故采用的是角度距离(angeldistance)算法对到达黑河中游的气流轨迹进行分类，得到造成研究区夏季气团的主要输送路径，夏季各月昼夜后向轨迹条数如表1所示，后向轨迹时长为 $1 4 4 \mathrm { ~ h ~ } ( 6 \mathrm { ~ d ~ } )$ ，参考以往研究区及周边地区水汽来源研究[15,22-23],将轨迹计算起始点高度设为距地面 $1 \ 0 0 0 \ \mathrm { m }$ 。 $S P V A R$ 计算如式(1)所示。
+
+$$
+S P V A R = \sum _ { j \ = 1 } ^ { x } \ \sum _ { i \ = 1 } ^ { t } \ D _ { i j } ^ { 2 }
+$$
+
+式中： $D _ { _ { i j } }$ 为第 $i$ 条轨迹中第 $j$ 个小时的停留点到平均轨迹相应点的距离； $\mathbf { \Xi } _ { t }$ 为轨迹时间长度； $x$ 为该聚类中的轨迹条数;TSV为所有聚类的 SPVAR之和[24]
+
+# 表1黑河中游夏季各月昼夜后向轨迹条数
+
+Tab.1Number of backward trajectories in the middle reaches of Heihe River during the day and night in summer   
+
+<html><body><table><tr><td>时段</td><td>6月</td><td>7月</td><td>8月</td></tr><tr><td>昼</td><td>108</td><td>116</td><td>120</td></tr><tr><td>夜</td><td>112</td><td>116</td><td>124</td></tr><tr><td>合计</td><td>220</td><td>232</td><td>244</td></tr></table></body></html>
+
+# 2.3PSCF(潜在源贡献因子)分析
+
+$P S C F$ 是基于条件概率函数发展而来的一种判断污染源可能方位的方法[25-27],该方法通过在途经区域停留时间计算污染轨迹与所有轨迹的比值来指示每个网格对受点地区污染贡献的条件概率函数，其定义经过某一区域的气团到达受点所对应某要素值(水汽 $d$ 值)超过设定阈值(水汽 $d$ 平均值），设定的依据参考相关文献[28],本研究中， $6 \sim 8$ 月白天的阈值依次是 $2 0 . 1 8 \% o \setminus 1 9 . 0 3 \% o \setminus 1 8 . 2 \%$ ，夜晚阈值依次是 $8 . 7 4 \% o . 7 . 4 3 \% o . 6 . 6 7 \%$ ,计算网格范围内每条轨迹的要素值，若要素值高于设定阈值，则认为该轨迹水汽 $d$ 值较高，其值越大说明该网格对应的下垫面蒸发较其他网格对应的下垫面蒸发严重，即为黑河中游主要潜在蒸发源区，本文为了较好的覆盖研究区，所选格网化区域范围为 $9 7 ^ { \circ } \mathrm { E } \sim 1 0 3 ^ { \circ } \mathrm { E } , 3 7 . 5 ^ { \circ } \mathrm { N }$ $\sim 4 1 ^ { \circ } \mathrm { N }$ ，分辨率为 $0 . 1 ^ { \circ } \times 0 . 1 ^ { \circ }$ ，由于 $P S C F$ 的误差会随着网格与采样点距离的增加而增加[28],当 $n _ { i j }$ 较小时，会有很大的不确定性，为了减小这种不确定性，引入权重函数公式（3）， $W ( n _ { i j } )$ 函数的确定参考ZENG等[29]、POLISSAR 等[30]和张磊等[31]的研究结果。
+
+$$
+P S C F _ { _ { i j } } = \frac { m _ { i j } } { n _ { i j } } \times W ( n _ { i j } )
+$$
+
+$$
+W ( n _ { i j } ) = \begin{array} { l l } { 0 . 7 0 } & { 2 0 < n _ { i j } \leqslant 8 0 } \\ { } & { } \\ { 0 . 4 2 } & { 1 0 < n _ { i j } \leqslant 2 0 } \\ { } & { } \\ { 0 . 0 5 } & { n _ { i j } \leqslant 1 0 } \end{array}
+$$
+
+式中： $m _ { i j }$ 为研究区域内经过网格 $( i , j )$ 超过水汽 $d$ 阈值的轨迹数; $n _ { i j }$ 为网格 $( i , j )$ 内所有轨迹数。
+
+# 2.4浓度权重轨迹(CWT)分析
+
+$C W T$ 是一种源区识别并将其网格化的方法[32]网格区域的大小、分辨率与PSCF分析相同，本研究利用计算出的水汽 $d$ 日数据，计算了每条后向轨迹的水汽 $d$ 权重值，以反映不同轨迹水汽 $d$ 值的大小、水汽源地以及再循环水汽对空气团中 $d$ 值的影响状况。在CWT分析中，每个网格均有一个权重水汽 $d$ 值，通过计算经过该网格的所有轨迹对应的平均水汽 $d$ 值来实现，根据公式(4)计算得到。为了减小误差,采用与 $P S C F$ 分析法相同的权重函数 $\mathbb { W } ( n _ { i j } )$ 。
+
+$$
+C _ { i j } = \frac { \displaystyle \sum _ { k = 1 } ^ { m } C _ { k } T _ { i j k } } { \displaystyle \sum _ { k = 1 } ^ { m } T _ { i j k } } \times W (  { n _ { i j } } )
+$$
+
+式中： $C _ { i j }$ 为网格 $( i , j )$ 上的平均权重水汽 $d$ 值 $( \% o ) : k$ 是轨迹数目； $C _ { k }$ 是轨迹 $k$ 经过网格 $( i , j )$ 时对应研究
+
+区水汽 $d$ 值的大小; $T _ { \mathit { i j k } }$ 是轨迹 $k$ 在网格 $( i , j )$ 上停留的时间，计算过程中，用落在网格内轨迹的端点数来代替停留时间。
+
+# 2.5大气可降水量、水汽通量及散度
+
+大气可降水量与水汽通量的计算参照相关参考文献[33]。根据后向轨迹起始高度,参照高度与气压高度对照表选取的气压高度层是 $8 0 0 \ \mathrm { h P a } \ 、 7 7 5 \ \mathrm { h P a } \ 、$ $7 5 0 \ \mathrm { h P a }$ 和 $7 0 0 ~ \mathrm { { h P a } }$ ,并计算相应高度层水文水汽通量散度,计算公式参考相关文献[34] C
+
+# 3结果与分析
+
+# 3.1水汽同位素昼夜特征分析
+
+空气水汽线的斜率白天大于夜晚(图1），影响其斜率的主要因素是相对湿度，当相对湿度较低的时候，动力学蒸发作用加强，导致空气水汽线的斜率降低[35],说明研究区夜晚的大气相对湿度小于白天，动力学蒸发强于白天，同位素分馏严重。
+
+月变化上，水汽同位素 $\delta \ ^ { 1 8 } 0$ 和 $ { \delta \mathrm { D } }$ 均呈增加趋势（图2），这与研究区下垫面（玉米地)的农田生态系统的蒸散发强弱关系密切。受局地的蒸散发和大气湍流影响[36],夜晚各月增幅均没有白天明显，下垫面蒸散贡献给近地层的水汽具有相对较高的稳定同位素比率，而夜晚城市热岛效应减弱，蒸散发较白天减弱。值得注意的是，夜晚的 $\delta \ ^ { 1 8 } 0$ 值大于白天,这与湍流作用有很大关系，大气湍流的强弱对于水汽同位素高低层之间的混合具有重要影响，在白天日出后，地面温度升高，底层大气趋于不稳定，湍流作用加强，蒸发强烈，而此时湍流混合的作用大于地面蒸发的作用，水汽含量反而减小，导致近地层水汽中的稳定同位素不断降低，在夜晚，温度降低，大气层趋于稳定，大气湍流作用减弱，近地面水汽增加导
+
+![](images/88a0251a7603fc8f52bd42ead619a5e9375850611f090ac28770fbd3432fadc6.jpg)  
+图12012年夏季黑河中游昼夜空气水汽线
+
+Fig.1Moisture line of theair in the middle reachesof Heihe Riverduring the dayand night in summer of 2012
+
+![](images/208b4dbddeb647c60c1cbadaeace82ed03e6bbe9c3502178a9ad3c01170f9c6a.jpg)  
+图22012 年夏季黑河中游昼夜水汽中 $\delta ^ { 1 8 } 0$ 、 $\boldsymbol { \delta \mathrm { D } }$ 和 $d$ 的月变化  
+g.2Monthly varition of $\delta \ ^ { 1 8 } 0$ ， $\boldsymbol { \delta \mathrm { D } }$ and $d$ in the middle reaches of Heihe River during the day and night in summer
+
+致水汽同位素富集。
+
+水汽 $d$ 值白天高于夜晚(图2e,2f)，这是由于白天温度高，局地蒸发严重。各月中值相差不大，说明研究区夏季水汽来源稳定。6月水汽 $d$ 值的变化幅度大于7、8月，说明6月水汽来源较7、8月复杂，验证了下文分析结果。此外，水汽 $d$ 均值(即阈值)从6\~8月逐渐减小，说明东南方向水汽较湿润，也从侧面说明水汽 $d$ 在鉴别水汽来源问题上的适用性。
+
+# 3.2后向轨迹聚类及最大风速风向分析
+
+6月白天(图3a)，西风水汽合计占比 $5 4 . 4 6 \%$ ，北冰洋水汽占比 $4 5 . 5 4 \%$ 。夜晚（图3b），西风水汽路径较白天集中，主要集中在准噶尔盆地中南部，合计占比 $5 3 . 7 1 \%$ ，与白天持平，北冰洋水汽占比$3 8 . 8 9 \%$ ,较白天减少 $6 . 6 5 \%$ ,西太平洋水汽占比
+
+# $7 . 4 1 \%$ 。
+
+7月白天（图3c），西风水汽占比 $5 5 . 1 7 \%$ ，北冰洋水汽占比 $3 3 . 6 2 \%$ ,西太平洋水汽占比 $1 1 . 2 1 \%$ 0夜晚（图3d），西风水汽占比 $6 1 . 2 1 \%$ ，比白天略有增加，北冰洋水汽占比 $1 9 . 8 3 \%$ ,东南方向水汽占比$1 8 . 9 7 \%$ 。可以发现，7月北冰洋水汽已经减弱，在到达研究区之前均会在一定程度上受西风水汽影响。
+
+8月白天（图3e），到达研究区的水汽受西风水汽与东南方向水汽的共同影响，其中 $2 6 . 6 1 \%$ 的西风水汽未受到东南方向水汽影响，其余西风水汽在到达研究区之前方向发生了明显偏转，原因是受到了西太平洋水汽影响。夜晚(图3f)，北冰洋水汽占比 $1 4 . 5 2 \%$ ， $2 5 . 8 1 \%$ 的西风水汽，其余水汽受西风水汽与西太平洋水汽共同影响。
+
+![](images/33dfc0001f86a790fee5873315c6f3d43a692ee0c189cd8e7b48b8397e05680a.jpg)  
+图32012年夏季黑河中游昼夜水汽后向轨迹聚类
+
+Fig.3Backward trajectory clustering of water vapor in the middle reaches of Heihe River during the day and night in summer of 2012
+
+6\~8月均受西风水汽、北冰洋水汽及东南方向水汽影响，但6月受到北冰洋水汽影响明显，7、8月受北冰洋水汽影响减弱，8月受东南方向水汽影响大于7月。整体来看，受西风影响显著，与前人研究结果一致[37-39],白天和夜晚在水汽来源方向上无明显差别。
+
+受天山山脉和蒙古高原的抬升及东南方向水汽运移路径下垫面相对较平缓影响，西风水汽和北冰洋水汽后向轨迹聚类高度整体较东南方向高（图4)。受气压带移动影响，8月水汽后向轨迹高度较6、7月高。
+
+6月水汽主要受西北风、北风及东南风的影响，西、北风合计占比约为 $45 \%$ ,并且最大风速达 $8 \sim 1 6$ $\mathbf { m } \cdot \mathbf { s } ^ { - 1 }$ ;7月水汽主要受西北风影响，占比约 $3 5 \%$ ，最大风速达 $8 \sim 1 6 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ;8 月水汽主要受东南风影响，占比近 $30 \%$ ,最大风速为 $4 \sim 8 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ，西风及北风合计占比近 $30 \%$ ，整体来看，分析结果与后向轨迹分析结果吻合，受下垫面起伏影响，西北方向上水汽输送通道较顺畅，风速较大，有利于水汽输送（图5）。
+
+# 3.3 PSCF分析
+
+6月（图6a，6b）， $P S C F$ 无明显高值区，主要集中在研究区周围，范围较小；7月白天（图6c），PSCF高值区主要集中在研究区以东，范围大，高值概率为$4 0 \% \sim 6 0 \%$ ;其次是西北区域，范围较小，沿黑河分布，高值概率为 $3 0 \% \sim 5 0 \%$ ,夜晚（图6d）的PSCF高值区主要集中在研究区以东，高值概率为 $30 \%$ \~$5 0 \%$ ,PSCF高值覆盖区域较白天小;8月白天（图6e）， $P S C F$ 高值集中在研究区东部，其次是西北区域,高值概率为 $3 0 \% \sim 5 0 \%$ ,夜晚（图6f），PSCF高值区集中在研究区周围，范围小，高值概率为$3 0 \% \sim 4 0 \%$ 。整体来看，夏季潜在蒸发源地主要集中在研究区以东、以北区域，其次是西北部。白天局地蒸发范围较夜晚大。
+
+# 3.4 CWT分析
+
+6月白天（图 $\mathrm { 7 a } \mathrm { ) }$ ）， $C W T$ 高值主要集中在研究区以东，范围较小。高值范围为 $12 \% o \sim 1 6 \% o$ ，夜晚（图7b），CWT高值主要集中在研究区以东，范围为$4 \text{‰}$ ；7月白天（图7c）， $C W T$ 高值集中在研究区以东、以北，其值基本大于 $14 \text{‰}$ ,此外，研究区西北方向的CWT值也较高，范围为 $10 \% o \sim 1 4 \% o$ ,夜晚（图7d），CWT高值集中在研究区以东、以北，达 $6 \text{‰}$ 以上；8月白天（图7e）， $C W T$ 高值主要分布在研究区以东、以北，其次是西北方向，其值基本在 $10 \text{‰}$ 以上。夜晚(图7f）， $C W T$ 高值主要分布在研究区周围，范围小，其值范围为 $3 \text{‰}$ 。
+
+总体来看，PSCF和CWT的高值区域基本吻合。夏季的CWT高值范围相差不大，白天的 $C W T$ 高值
+
+![](images/9c20c545d24417763ea9fcbfce5eaee9fcb92334e8c2ad764573c6ebfa2107e4.jpg)  
+Fig.4Three dimensional map of backward trajectory clustering of water vapor in the middle reaches of Heihe River during the day and night in summer of 2012
+
+![](images/9a5553b348e4c257388713ba061e10eec4af4a7b172ea7c4b56294e6b886274c.jpg)  
+图42012年夏季黑河中游昼夜水汽后向轨迹聚类三维图  
+图52012年黑河中游夏季各月最大风速及风向
+
+Fig.5Maximum wind speed and wind direction inthe middle reaches of Heihe River ineach month in summerof 2012
+
+![](images/940f2f833914ec63ef155f0300664488ecb951f43460564964ba8f50da053aa5.jpg)  
+图62012年夏季黑河中游昼夜PSCF分析
+
+Fig.6Analysis of $P S C F$ in the middle reaches of Heihe River during the day and night in summer of 2012基本都在 $10 \text{‰}$ 以上，夜晚的CWT高值在 $5 \text{‰}$ 左右。高值区域主要集中在研究区周围，这是因为受黑河及该区自然条件影响，该地绿洲广布，而绿洲地表水分较大且受植物蒸腾作用的影响，使得绿洲的实际蒸发量较其他地表大[40],所以绿洲是研究区主要的水汽蒸发来源。其次，高值区还分布在以东、以北及西北方向。这可能与城市热岛效应有关，该区东北部集中了张掖、山丹和民乐，且研究区距规模较大的张掖市区近。西北方向则是距研究区较远且城市规模较小的临泽和高台两县，此外受黑河影响，蒸发水汽 $d$ 值较东北方向小。整体来看，CWT高值区域范围白天大于夜晚，其值也是白天大于夜晚，说明白天蒸发较夜晚强烈。
+
+![](images/ac3614f51a7aa114fac323fc9916c58fe96b04d8008a30b22a2e1c8cbf094aab.jpg)  
+图72012年夏季黑河中游昼夜CWT分析  
+Fig.7Analysis of day and night CWTin middle reaches of Heihe River in summer 2012
+
+# 3.5大气可降水量、水汽通量及散度分析
+
+从图8可以看出，大气可降水量最大值位于研究区东南方向，最小值主要位于西藏北部和新疆南部交界地区,这与王可丽等[41]的研究结果基本一致。6月水汽主要受西风水汽和北冰洋水汽影响，7月北冰洋水汽减弱，东南方向西太平洋水汽逐渐加强，8月基本不受北冰洋水汽影响，西太平洋水汽达到夏季最强，这是由于东南季风加强，导致水汽西上北进。大气可降水量6月最小，在 $3 0 \sim 3 5 ~ \mathrm { k g } ~ \cdot$ （204号$\mathbf { m } ^ { - 1 } \cdot \mathbf { s } ^ { - 1 }$ 之间,7月和8月都在 $3 5 \sim 4 0 ~ \mathrm { k g } \cdot \mathrm { ~ m ~ } ^ { - 1 }$ ：s-'之间,主要是因为随着东南季风的加强,导致湿润的西太平洋水汽影响到黑河中游。
+
+图9表示的是研究区及其周边地区2012年夏季水汽的净收支情况，可以发现水汽通量散度正值区主要位于青藏高原的中部，为水汽的辐散区，而值较低的负值区集中在新疆南部和研究区的东南方向,这与前人[34,42]研究结果基本吻合,整体来看,在夏季，受西风和东南季风影响明显，西北一东南水汽通道上是水汽的辐合区，有利于降水的形成。
+
+![](images/b90c099648d0a414500dd4bdabdc9efa4601a7ec87aee71fdf8816d96234356f.jpg)  
+Fig.8Atmospheric precipitation and vapor flux in summer in the station and its surrounding areas
+
+![](images/3df4fb1826d7dc8b0eda6820f60f4073c175f662c87e2c3e6838ae1b413d3601.jpg)  
+图8研究站点及其周边地区夏季大气可降水量与水汽通量  
+图9研究站点及其周边地区夏季水汽通量散度  
+Fig.9Divergence of vapor flux in summer in the station and its surrounding areas
+
+# 4结论
+
+本文除对黑河中游水汽同位素基本特征进行简单分析外，主要基于水汽 $d$ 数据，利用PSCF、CWT分析法对研究区2012年夏季各月昼夜水汽潜在蒸发源地进行鉴别，并结合后向轨迹聚类、最大风速风向分析、大气可降水量、水汽通量及散度分析得出以下结论：
+
+(1)黑河中游夏季白天水汽蒸发线斜率大于夜晚,夜晚动力学分馏作用强。水汽SD 与 $\delta ^ { 1 8 } 0$ 值按月递增，受城市热岛效应影响，白天增幅明显，水汽$d$ 值白天较夜晚大，说明白天局地蒸发强烈,6月水汽来源复杂，水汽 $d$ 值按月递减，说明西太平洋水汽较湿润。
+
+(2)整体受西风水汽影响显著。6月受西风水汽和北冰洋水汽影响明显，西太平洋水汽影响最小，7、8月受西风水汽与西太平洋水汽共同影响明显，西太平洋水汽对8月影响最大。
+
+(3)由于西风水汽路径较其他方向通畅，西北风最大风速大于其他方向，利于水汽输送。天山山脉和蒙古高原的抬升使得西风水汽和北冰洋水汽后向聚类轨迹高度高于西太平洋方向。受气压带移动影响，8月水汽后向轨迹高度整体高于6、7月。
+
+(4)局地蒸发白天较夜晚强烈且蒸发范围也较夜晚大，研究区周围以东和以北地区是主要潜在蒸发源地，其次是西北部。绿洲是主要的水汽蒸发源地,其次是城市和河流，相对而言，城市规模越大且距研究区较近时蒸发越严重。此外，受温度影响，这些特征在白天更为明显。
+
+# 参考文献(References)
+
+[1]LIU X,RAO Z,ZHANG X,et al.Variations in the oxygen isotopic composition of precipitation in the Tianshan Mountains region and their significance for the westerly circulation[J].Journal of Geographical Sciences,2015,25(7):801-816.
+
+[2] 李红寿,詹鸿涛,邱飞.应用 8D 和 $\mathfrak { 8 } ^ { 1 8 } 0$ 确定敦煌莫高窟洞窟蒸发水分来源[J].干旱区地理,2017,40（6)：1179-1187.[LI Hongshou,ZHAN Hongtao,QIU Fei.Use of SD and $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ todetermine the source of evaporation water in Dunhuang MogaoGrottoes[J].Arid Land Geography,2017,40(6）：1179-1187.]  
+[3］孙芳强,尹立河,马洪云,等.新疆三工河流域土壤 8D 和 $\mathfrak { 8 } ^ { 1 8 } 0$ 特征及其补给来源[J].干旱区地理，2016,39（6)：1298-1304.[SUN Fangqiang,YIN Lihe,MA Hongyun,et al.Features of8D and $\mathfrak { F } ^ { 1 8 } 0$ and origin of soil water in Sangong River Basin,Xin-jiang［J].Arid Land Geography,2016,39(6）：1298-1304.]  
+[4] 盛裴轩,毛节泰,李建国,等.大气物理学[M].北京：北京大学出版社,2003：17-19.［SHENGPeixuan,MAO Jietai,LI Jian-guo,et al.Atmospheric physics[M].Beijing：Peking UniversityPress,2003：17 -19.]  
+[5] HE H,LEE X,SMITH R B.Deuterium in water vapor evaporatedfrom a coastal salt marsh[J].Journal of Geophysical Research：At-mospheres,2001,106(D11)：12183-12191.  
+[6] WHITE JW C,GEDZELMAN SD.The isotopic composition of at-mospheric water vapor and the concurrent meteorological conditions[J].Journal of Geophysical Research：Atmospheres,1984,89（D3):4937-4939.
+
+[7］余武生,姚檀栋,田立德,等.那曲河流域季风结束前后大气水 汽中 $\mathfrak { 8 } ^ { 1 8 } 0$ 变化特征[J].科学通报,2006,51（2)：194-199. [YUWusheng,YAO Tandong,TIAN Lide,et al. $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { ~ 0 ~ }$ variation characteristic of atmosphere vapor isotope during the monsoon period of Naqu River[J].Chinese Science Bulletin,2006,51(2）:194 -199.]
+
+[8］章新平,张新主,关华德,等.由 TES 反演的大气水汽中 δD 的 时空分布特征［J].气象学报，2012,70（6)：1367－1380. [ZHANG Xinping,ZHANG Xinzhu,GUAN Huade,et al. Spatial and temporal distribution characteristics of the SD in the atmospheric vapor as retrieved from the TES data[J].Acta Meteorologica Sinica,2012,70(6):1367-1380.]   
+[9]石梦雨,王圣杰,姚俊强,等.基于GCM的乌鲁木齐水汽稳定 同位素变化特征及其与ENSO 的关系[J].干旱气象,2018,36 （6）: 895-904.[SHI Mengyu, WANG Shengjie,YAO Junqiang, et al.Variation of stable isotope in water vapor over Urumqi and its relationship with ENSO based on isotope-enabled GCMs[J]. Journal of Arid Meteorology,2018,36(6） :895-904.]   
+[10］柳景峰,丁明虎,效存德.大气水汽氢氧同位素观测研究进展 -理论基础、观测方法和模拟[J].地理科学进展,2015,34 (3）: 340-353.[LIU Jingfeng,DING Minghu,XIAO Cunde. Review on atmospheric water vapor isotopic observation and research: Theory,method and modeling[J].Progressin Geography,2015,34 (3):340 -353.]   
+[11]WEN XF,SUN X M,ZHANG S C,et al. Continuous measurement of water vapor D/H and $^ { 1 8 } 0 / ^ { 1 6 } 0$ isotope ratios in the atmosphere [J]. Journal of Hydrology,2008,349(3 -4）: 489 -500.   
+[12］张娜,孙晓敏,袁国富,等.利用原位连续测定水汽 $\mathfrak { \delta } ^ { 1 8 } 0$ 值和 Keeling Plot方法区分麦田蒸散组分[J].植物生态学报,2010, 34(2）: 170-178.[ZHANG Na,SUN Xiaomin,YUAN Guofu,et al.Partitioning wheat field evapotranspiration using Keeling Plot method and continuous atmospheric vapor $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \boldsymbol { 0 }$ data[J]. Chinese Journal of Plant Ecology,2010,34(2）：170-178.]   
+[13］姚天次,章新平,谢宇龙,等.长沙地区近地面水汽中氢氧稳定 同位素的变化特征[J].环境科学学报,2017,37（2)：545- 553.[YAO Tianci,ZHANG Xinping,XIE Yulong,et al.Variations of hydrogen and oxygen isotopes in atmospheric water vapor of near surface in Changsha[J].Acta Scientiae Circumstantiae,2017,37 (2): 545 -553.]   
+[14] SALAMALIKIS V,ARGIRIOU A A,DOTSIKA E. Stable isotopic composition of atmospheric water vapor in Patras,Greece：A con centration weighted trajectory approach［J].Atmospheric Research,2015,152:93-104.   
+[15］孟鸿飞,张明军,王圣杰,等.CWT方法在中国夏季降水水汽来 源识别中的应用［J].干旱区研究,2018,35（4）：872－881. [MENG Hongfei,ZHANG Mingjun,WANG Shengjie,et al.Application of CWT method in identifying water vapor sources of summer precipitation in China[J].Arid Zone Research,2018,35(4): 872 -881.]   
+[16]HUANG L,WEN X. Temporal variations of atmospheric water vapor δD and $\delta ^ { 1 8 } \mathrm { ~ O ~ }$ above an arid artificial oasis cropland in the Heihe River Basin[J]. Journal of Geophysical Research：Atmospheres,2014,119(19）: 11456 -11476.   
+[17]WEN X,YANG B,SUN X,et al. Evapotranspiration partitoning through in-situoxygen isotope measurements in anoasis cropland [J].Agricultural and Forest Meteorology,2016,230:89 -96.   
+[18］杨淇越.黑河流域大气降水环境同位素应用研究［D].兰州： 兰州大学,2010.[YANG Qiyue.Study on the environment isotope in precipitation in the Heihe River Basin[D]. Lanzhou: Lanzhou University,2010.]   
+[19］王小婷,温学发.黑河中游春玉米叶片水D和O的富集过程和 影响因素［J].植物生态学报,2016,40（9）：912－924. [WANG Xiaoting,WEN Xuefa.Leaf water δD and $\boldsymbol { \mathfrak { \delta } } ^ { 1 8 } \mathrm { ~ 0 ~ }$ enrichment process and influencing factors in spring maize(Zea mays) grown in the middle reaches of Heihe River Basin[J]. Chinese Journal of Plant Ecology,2016,40(9): 912-924.]   
+[20]WANG YQ,ZHANG X Y,DRAXLER R R. TrajStat: GIS-based software that uses various trajectory statistical analysis methods to identify potential sources from long-term air polution measurement data[J].Environmental Modeling and Software,2009,24（8）: 938 - 939.   
+[21]DRAXLER R R,HESS G D. An overview of the HYSPLIT-4 modeling system for trajectories[J].Australian meteorological maga zine,1998,47(4) : 295 -308.   
+[22]童佳荣,周明亮,孙自永,等.基于D, $^ { 1 8 } 0$ 同位素和 HYSPLIT4 气团轨迹模型的黑河上游降水水汽来源研究［J].干旱区资源 与环境,2016,30（7）：151-156.[TONG Jiarong,ZHOU Mingliang,SUN Ziyong,et al. Water vapor sources precipitation in the upper reaches of Heihe River:Evidence from stable water isotopes and air mass trajectory model[J]. Journal of Arid Land Resources and Environment,2016,30(7）：151-156.]   
+[23］吴军年.张掖大气降水的 $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ 特征及水汽来源[J].安徽农业 科学,2011,39（3）：1601-1604.[WU Junnian.Characteristics of the $\hat { \mathbf { 0 } } ^ { 1 8 } \mathrm { ~ O ~ }$ in precipitation and water vapor source in Zhangye [J]. Journal of Anhui Agricultural Sciences,2011,39（3）：1601 - 1604.]   
+[24］赵倩彪,胡鸣,张懿华.利用后向轨迹模式研究上海市 $\mathrm { P M } _ { 2 . 5 }$ 来 源分布及传输特征[J].环境监测管理与技术,2014,26（4)： 22- 26.[ZHAO Qianbiao,HU Ming,ZHANG Yihua.Study of source distributionand transportationcharacteristicsof $\mathrm { P M } _ { 2 . 5 }$ in Shanghai using back ward trajectory model[J].The Administration and Technique of Environmental Monitoring,2014,26(4）： 22- 26.]   
+[25] ZENG Y,HOPKE P K.A study of the sources of acid precipitation in Ontario,Canada[J].Atmospheric Environment,1989,23（7）: 1499 -1509.   
+[26]GAO N,CHENG M D,HOPKE P K.Potential source contribution function analysis and source apportionment of sulfur species measured at Rubidoux,CA during the southern California air quality study,1987[J].Analytica Chimica Acta,1993,277（2）：369 - 380.   
+[27]HOPKE P K,GAO N,CHENG M D. Combining chemical and meteorological data to infer source areas of airborne pollutants[J]. Chemometrics and Intelligent Laboratory Systems,1993,19（2）: 187 - 199.   
+[28］王爱平,朱彬,银燕,等.黄山顶夏季气溶胶数浓度特征及其输 送潜在源区[J].中国环境科学,2014,34（4）：852－861. [WANG Aiping,ZHU Bin,YIN Yan,et al. Aerosol number concentration properties and potential sources areas transporting to the top of mountain Huangshan in summer[J].China Environmental Science,2014,34(4) : 852 -861.]   
+[29] ZENG Y,HOPKE P K.A study of the sources of acid precipitation in Ontario,Canada[J].Atmospheric Environment,1989,23（7）： 1499 - 1509.   
+[30]POLISSAR A V,HOPKE P K,PAATERO P,et al. The aerosol at Barrow,Alaska:Long-term trends and source locations[J].Atmospheric Environment,1999,33（16）:2441-2458.   
+[31］张磊，金莲姬，朱彬，等.2011年6-8月平流输送对黄山顶污 染物浓度的影响[J].中国环境科学,2013,33(6)：969 -978. [ZHANG Lei,JIN Lianji,ZHU Bin,et al. The influence of advective transport on the concentrations of pollutants at the top of mountain Huangshan from June to August,2O11[J].China Environmental Science,2013,33(6) :969 -978.]   
+[32]HSU Y K,HOLSEN T M,HOPKE P K. Comparison of hybrid receptor models to locate PCB sources in Chicago[J]. Atmospheric Environment,2003,37(4）: 545-562.   
+[33］刘国纬.水文循环的大气过程［M].北京：科学出版社,1997. [LIU Guowei. Atmospheric processes in hydro-cycle[M]. Beijing: Science Press,1997.]   
+[34］李江林,李照荣,杨建才，等.近10a夏季西北地区水汽空间分 布和时间变化分析[J].高原气象,2012,31(6)：1574-1581. [LI Jianglin,LI Zhaorong,YANG Jiancai,et al. Analyses onspatial distribution and temporal variation of atmosphere water vapor over northwest China in summer of later1O years[J].Plateau Meteorology,2012,31(6) : 1574 -1581.]   
+[35]GONFIANTINI,ROBERTO.Environmental isotopes in lake studies [C]//Handbook of Environmental Isotope Geochemistry.Amsterdam,Netherlands:Elsevier,1986:113 -168.   
+[36］谢宇龙,章新平,姚天次,等.长沙近地面水汽中稳定同位素的 监测与分析[J].环境科学,2016,37(2）：475－481.[XIE Yulong,ZHANG Xinping,YAO Tianci,et al.Monitoring and analysis of stable isotopes of the near surface water vapor in Changsha[J]. Environmental Science,2016,37(2）:475 -481.]   
+[37]DING YJ,YE B S,ZHOU W J. Temporal and spatial precipitation distribution in the Heihe catchment,northwest China,during the past40a[J]. Journal of Glaciology and Geocryology,1999,21:42 -48.   
+[38]YAO T D,ZHOU H,YANG X X. Indian monsoon influences altitude effert nf $\mathfrak { F } ^ { 1 8 } \mathrm { O }$ in precipitation/river water on the Tibetan Plat
+
+eau[J].Chinese Science Bulletin,2009,54(16）:2724-2731.
+
+[39］张强，张杰,孙国武,等.祁连山山区空中水汽分特研究[J].气象学报,2007,65（4）：633-643.[ZHANG Qiang,ZHANG Jie,SUN Guowu,et al.Research on atmospheric water-vapor distribu-tion over Qilianshan Mountains［J].Acta Meteorologica Sinica,2007,65(4):633 -643.]
+
+[40］尚松浩，孙丽艳,郝增超.互补相关原理在绿洲月蒸发量估算中的应用[J].水文,2008,28（3）：67-69.[SHANG Songhao,SUN Liyan,HAO Zengchao.Using complementary relationship toestimate monthly evapotranspiration in arid oasis[J].Journal ofChinaHydrology,2008,28（3）：67-69.]
+
+[41］王可丽，江灏,赵红岩.西风带与季风对中国西北地区的水汽输送［J].水科学进展,2005，16（3）：432-438.［WANGKeli，JIANG Hao,ZHAO Hongyan.Atmospheric water vapor transportfromwesterly and monsoon over the northwest China.［J].Ad-vances inWater Science,2005,16(3):432-438.]
+
+[42］李佳芳,石培基,朱国锋,等.河西走廊中部大气降水 $8 ^ { 1 8 } 0$ 变化 特征及水汽输送[J].环境科学学报，2015，35（4)：947-955. [LIJiafang,SHI Peiji,ZHU Guofeng,et al.Characteristics of $\mathfrak { F } ^ { 1 8 } 0$ in precipitation and moisture transports in the central Hexi Corridor [J].Acta Scientiae Circumstantiae,2015,35(4):947-955.]
+
+# Isotopic characteristics of water vapor and its sources during day and night along the Heihe River in summer
+
+MENG Hong-fei1， ZHANG Ming-jun’，WANG Sheng-jie1,²， QIU Xuel，DU Ming-xia' ZHANG Ya-ning¹， YU Xiu-xiu1， ZHOU Su-e1 (1CollegeofGeographyand EnvironmentalScience,NorthwestNormal UniversityLanzhou7307,Gansu,China; KeyLaboratoryforEcologyandEnvironmentof River Wetlands inShaanxi Province,Weinan714099,Shaanxi,China)
+
+Abstract：In this study,we analyzed thebasic characteristics of water vapor isotopes in the middle reaches of the Heihe River,Gansu Province,China mainly based on water vapor $d$ data. We used PSCF and CWT analysis for the 2012 summer months in the studied area.We identified potential steam source locations during theday and night, and connected thiswith backward trajectory clustering,maximum wind speed and direction analysis,atmospheric precipitation data,and vapor flux divergence.Our results showed thatthe slope of the moisture line inthe daytime was greater than that at night,with elevated $d$ values during the day.This suggests that local evaporation is stronger during the day than at night.The values of D and $^ { 1 8 } 0$ in the water vapor increased every month,and were significantly elevated during the day due to the urban heat island efect.The water vapor source was complex,and the $d$ （204号 value of the water vapor decreased throughoutthe summer.In June,high values reflected relatively humid conditions inthe western Pacific,which were significantlyafected byarcticand westerly water vapor.In Julyand August,the arctic vapor was steadily replaced by southeast water vapor.Surface topography and the movement of the pressure Zone onthe path of water vapor transportboth afected the height of the backward trajectory of the water vapor.The water vapor transportationchannel in the northwest direction was smooth with high wind speeds,which encourages water vapor transportation.In response tothe movementof the pressre belt,the backward trajectory heightof water vapor in August was higher than that in June and July.The origins ofthe water evaporation were mainly concentrated to the east and north ofthe study area,with lesser contributions from the northwest.Oases were the main source of water evaporation,folowed bycities and rivers,with local evaporation being stronger during thedaythanatnight. Indeed,most of the observed features were strengthened by warm daytime temperatures.
+
+Key words:summer days and nights；water vapor sources；water vapor isotope；middle reaches of Heihe River

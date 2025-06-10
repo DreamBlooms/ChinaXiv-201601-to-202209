@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "24小时尿钠排泄与难治性高血压患者血压达标状态的相关性：单中心横断面研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王青海¹，李师承²，武燕翔¹，王晨雨¹，严晓伟1中国医学科学院北京协和医学院北京协和医院心内科，北京 100730²广西壮族自治区人民医院心血管内科，南宁530021",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通信作者：严晓伟电话：010-69155068，E-mail：xswy_pumc $@$ 163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的分析 $2 4 \\mathrm { ~ h ~ }$ 尿钠排泄与难治性高血压（resistant hypertension，RH）患者诊室血压及家庭自测血压（homeblood presure monitoring，HBPM）达标状态的关系。方法采用北京协和医院心内科门诊 RH数据库，2017年10月至年3月间在北京协和医院心内科门诊就诊的RH患者入选本研究，进行横断面调查。检测患者 $2 4 \\mathrm { ~ h ~ }$ 尿钠，记录患者同期诊室血压、HBPM水平及临床用药情况，以所有患者 $2 4 \\mathrm { ~ h ~ }$ 尿钠水平四分位数为分界点，将研究对象分为低尿钠、低-中尿钠、中-高尿钠及高尿钠4组。采用多因素Logistic回归，分析影响 RH血压达标状态的危险因素。结果共202 例 RH患者入选本研究，男性107例，女性95例，平均年龄！ $\\left( 5 9 . 8 7 \\pm 1 6 . 3 0 \\right)$ 岁。 $2 4 \\mathrm { ~ h ~ }$ 尿钠平均水平为（ $1 9 8 . 9 2 { \\scriptstyle \\pm 9 6 . 5 9 }$ ）mmol。年轻患者及体质量指数高者尿钠水平更高（ $P$ 均 $< 0 . 0 0 1$ )。随尿钠升高，降压药物的服用种类显著增多（ $P { = } 0 . 0 0 1$ ，早晨及上午的HBPM达标率低（ $P { = } 0 . 0 4 0$ ，0.032）。多因素Logistic 回归分析显示， $2 4 \\mathrm { ~ h ~ }$ 尿钠水平与诊室血压（ $O R \\ 2 . 3 5 6$ ，$9 5 \\%$ CI $1 . 0 0 4 { \\sim } 5 . 5 3 3$ ， $P { = } 0 . 0 4 9$ ），HBPM早晨血压（OR2.408， $9 5 \\%$ CI 1.026\\~5.650, $\\scriptstyle P = 0 . 0 3 0 { \\mathrm { , } }$ ）及HBPM上午血压（OR2.299, $9 5 \\%$ CI 1. 031\\~5.129, $P { = } 0 . 0 3 3$ ）达标状态独立相关，而与下午及夜间HBPM血压达标状态无显著相关（ $P$ 均>0.05)。结论 $2 4 \\mathrm { ~ h ~ }$ 尿钠是RH患者诊室血压及 HBPM早晨及上午血压达标的独立相关因素，限制钠盐摄入对减少 RH 患者血压波动、促进血压达标有重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】难治性高血压；24小时尿钠；诊室血压；家庭自测血压   \n【中图分类号】R544 【文献标志码】A 【文章编号】1674-9081（2019)02-0000-06   \nDOI: $1 0 . 3 9 6 9 / \\mathrm { j }$ .issn.1674-9081.2019.02.000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correlation between 24-hour urinary sodium excretion and the status of blood pressure control in patients with resistant hypertension : a single-center cross-sectional study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Qing-hai1，LI Shi-cheng²，WU Yan-xiang1，WANG Chen-yu1，YAN Xiao-wei ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { 1 }$ Department of Cardiology，Peking Union Medical College Hospital,Chinese Academy of Medical Sciences & Peking Union Medical College，Beijing 100730,China （204号 $^ 2$ Department of Cardiology,The People’s Hospital of Guangxi Zhuang Autonomous Region，Nanning 530021，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author:YAN Xiao-wei Tel:86-10-69155068,E-mail：xswy_pumc@ 163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】 ObjectiveTo study the correlation between 24-hour urinary sodium excretion and the controlling status of office blood pressure（BP）and home blood pressure monitoring（HBPM）in patients with resistant hypertension （RH).MethodsA cros-sectional study was performed based on the RH patient database in Peking Union Medical Collge Hospital.All RH patients treated in the Department of Cardiology，Peking Union Medical College Hospital from October 2017 to March 2O18 were enroled.Twenty-four-hour urinary sodium excretion (24h-UNa） was examined to estimate daily sodium intake.Ofice BP，HBPM（4 measurements daily：before medicine in the morning，1O a.m., ${ } ^ { 4 } \\mathrm { ~ p ~ }$ . m.，and before sleeping at night，respectively），and the types of antihypertensive drugs were recorded.Based on the quartile method for $2 4 \\mathrm { h }$ -UNa excretion，all enrolled patients were stratified into four groups:low 24h-Una,low-mid 24h-UNa,mid-high 24h-UNa,and high 24h-Una groups.MultipleLogistic regresion analysis wasused to analyze thecorrelation of independent factors with the rate of BP control.ResultsTotally 2O2 subjects were recruited, $1 0 7 \\ \\mathrm { m e n }$ ，95 women，aged ( $5 9 . 8 7 \\pm 1 6 . 3 0 \\$ ）years，and the $2 4 \\mathrm { h }$ -UNa was ( $1 9 8 . 9 2 { \\scriptstyle \\pm 9 6 . 5 9 }$ ） mmol.Patients with higher urine-sodium excretion were younger and with a higher body mass index( $P { < } 0 . 0 0 1$ ).The number of antihypertensive drugs increased significantly with the increase of urinary sodium level ( $P { = } 0 . 0 0 1$ ).High urine sodium excretion was associated with the reduced BP control rate for HBPM in the morning and at $1 0 \\mathrm { ~ a ~ }$ . m.. Multivariate Logistic regression analysis showed that 24h-UNa was independently associated with the target achievement of office BP（OR 2.356, $9 5 \\%$ CI 1.004-5.533, $P =$ 0.049），morning HBPM（OR 2.408, $9 5 \\%$ CI 1. 026-5.650, $P { = } 0 . 0 3 0$ ），and10a.m.HBPM（OR2.299, $9 5 \\%$ CI 1. 031-5.129, $P { = } 0 . 0 3 3$ ），while not with the $^ 4 \\mathrm { ~ p ~ }$ . m.and night HBPM.Conclusions24h-UNa is an independent risk factor forthecontrolrates of offce BPand morning HBPM inRH patients.Restrictionof sodium 'salt intake plays an important role in reducing BP fluctuation and improving BP control. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】resistant hypertension；24-hour urinarysodium excretion；offceblood pressure；home blood pressure monitoringMed JPUMCH，2019,10(2):0-00",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高血压是遗传和环境因素共同作用导致的慢性心血管疾病，全球每年有165万例心血管病死亡归因于钠摄入过多[1]。高盐摄入是影响血压的重要环境因素之9，日均摄盐量每增加 $\\mathrm { ~ 1 ~ g ~ }$ ，平均血压则会上升2mm Hg，舒张压上升 $1 . 7 \\ \\mathrm { m m } \\ \\mathrm { H g } ^ { [ 2 ] }$ ，而减少盐的摄入具有明确的降压作用[3]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "难治性高血压（resistant hypertension，RH）作为-种特殊类型的高血压，其患病率为 $5 \\% \\sim 3 0 \\%$ ，是高血压治疗中的难点[4]，严格限盐有利于控制RH的血压，我国的专家共识建议常规评估RH患者的盐摄入量。截至目前，尚无盐摄入量与RH患者血压达标状态关系的报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "血压评估包括诊室及诊室外血压测量，家庭自测血压（home blood pressure monitoring，HBPM）作为重要的诊室外血压，可提供医疗环境外的大量血压监测数据，筛查隐蔽性高血压，观察血压节律与变异，评估降压效果，预测心血管事件风险[6-7]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对北京协和医院RH患者的横断面调查，评估 $2 4 \\mathrm { ~ h ~ }$ 尿钠排泄与诊室血压、HBPM的关系，为RH防治提供真实世界的临床研究证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用北京协和医院心内科RH患者数据库，对2017年10月至2018年3月期间在北京协和医院心内科门诊就诊的患者入选本研究。所有患者自愿参加本研究并签署知情同意书。本研究获北京协和医院伦理委员会批准（ZS1377），并在中国临床试验注册中心注册（ChiCTR1800017189）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入选标准：（1）年龄20\\~80岁；（2）符合难治性高血压诊断标准[4]，即在改善生活方式的前提下,经3种或3种以上降压药物（其中一种为利尿剂）足量联合治疗1个月后，收缩压 $\\geqslant 1 4 0 \\ \\mathrm { m m } \\ \\mathrm { H g }$ 和/或舒张压 ${ \\geqslant } 9 0 { \\mathrm { ~ m m ~ H g } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "排除标准：（1）继发性高血压；（2）肾功能不全，估计肾小球滤过率（estimated glomerular filtrationrate，eGFR） ${ < } 6 0 ~ \\mathrm { m l / }$ （ $\\operatorname* { m i n } \\cdot 1 . 7 3 \\ \\mathrm { m } ^ { 2 }$ )；（3）1型糖尿病及血糖控制不佳的2型糖尿病（糖化血红蛋白>$8 . 0 \\%$ 或空腹血糖 ${ > } 1 1 . 0 \\ \\mathrm { m m o l / L } \\rangle$ ；（4）服用小剂量氢氯噻嗪之外的影响钠吸收和排泄的药物；（5）慢性阻塞性肺病、严重肝功能损伤、风湿免疫病、内分泌疾病、肿瘤患者或妊娠或哺乳期妇女、治疗依从性差者；（6）其他研究者认为不适合的患者，包括检测数据不全等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以 $2 4 \\mathrm { ~ h ~ }$ 尿钠四分位数将患者分为低尿钠、低-中尿钠、中-高尿钠及高尿钠组。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2 血压测定方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1诊室血压测定方法：诊室内常规坐位，测右上肢血压3次，取血压读数接近的2次测定值的均值。1.2.2HBPM测定方法：使用校正的上臂式电子血压计（血压计均经我中心诊室内校验，检测数值相差$5 \\ \\mathrm { m m \\ H g }$ 以内者可作为合格血压计使用）（血压计有型号、厂家和产地要求及限制吗？请注明），就诊前一周分别于每日晨起服药前、上午 $1 0 : 0 0$ 、下午$1 6 : 0 0$ 、晚上睡前这4个时间点，坐位测右上肢血压3次，取血压读数接近的2次测定值的均值。重点记录留取 $2 4 \\mathrm { ~ h ~ }$ 尿当天的4次HBPM。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 $2 4 \\textbf { h }$ 尿钠法评估盐摄入量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 4 \\mathrm { ~ h ~ }$ 尿样采集要求在就诊前3天内收集，参照北京协和医院检验科提供收集尿液的详细书面说明，由课题组成员向患者详细说明尿液收集方法，要求患者全天尿标本均需留存，记录全天总尿量，检测时混匀取样。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "收集调查对象常规膳食 $2 4 \\mathrm { ~ h ~ }$ 尿样后，采用离子电极法测定尿钠浓度（mmol/L）， $2 4 \\mathrm { ~ h ~ }$ 尿钠量 $\\mathrm { ( m m o l ) = }$ $2 4 \\mathrm { ~ h ~ }$ 尿钠浓度（mmol/L） $\\times 2 4 \\mathrm { ~ h ~ }$ 尿量(L)，根据氯化钠在食盐中的比例（ $9 9 \\%$ ）及钠在氯化钠中的比重，通过患者 $2 4 \\mathrm { ~ h ~ }$ 尿钠排泄量估算其盐摄入量[ $\\mathrm { 1 0 0 ~ m m o l }$ 钠相当于 $5 . 8 5 \\ \\mathrm { g }$ 氯化钠 $\\left( \\approx 6 \\ \\mathbf { g } \\right) ] ^ { [ 5 ] }$ 。尿钠测定及 $2 4 \\mathrm { ~ h ~ }$ 尿钠计算均由北京协和医院检验科协助完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 , 1 4$ 一般临床资料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "记录患者文化程度、吸烟、饮酒、糖尿病等既往中 测量患者身高、体重、腰围，计算体质量指数，bodymass index，BMI）。检测 $2 4 \\mathrm { ~ h ~ }$ 尿钠的同时，取清晨空腹血测定血常规、电解质、血糖、血脂、肾功能等指标。eGFR计算参照2009年慢性肾脏病流行病学合作研究（CKD-EPI）公式计算[8]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2所有患者的诊室血压、身高、体重、腰围均由课题组研究人员完成测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 血压达标状态定义",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血压达标状态的定义参照《中国高血压防治指南2010》执行[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1诊室血压达标标准： ${ < } 1 4 0 / 9 0 \\ \\mathrm { m m \\ } \\mathrm { H g }$ ；65岁及以上老年人血压 $< 1 5 0 / 9 0 \\ \\mathrm { m m } \\ \\mathrm { H g }$ 为血压达标；伴有蛋白尿或糖尿病患者血压 $< 1 3 0 / 8 0 \\ \\mathrm { m m } \\ \\mathrm { H g }$ 定义为血压达标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 HBPM达标标准： $< 1 3 5 / 8 5 ~ \\mathrm { \\ m m ~ \\ H g }$ 定义为达标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 6 统计学处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS19.0进行统计分析。通过方差分析，判断计量资料是否呈正态分布，正态分布者采用均数+标准差表示，偏态分布者采用中位数和四分位间距表示。计数资料采用绝对数、百分比及构成比表示。观察不同尿钠水平间用药种类及血压达标的差异，以诊室血压、HBPM达标状态为因变量，以体质量指数、eGFR、24h尿钠、24h尿钾、是否应用螺内酯、应用药物种类等危险因素作为自变量，采用多因素Logistic回归分析尿钠水平与诊室血压、HBPM达标状态的相关性。 $\\scriptstyle P < 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1一般情况及尿钠水平",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "共202例RH患者入选本研究，其中男性107例，女性95例，平均年龄（ $5 9 . 8 7 { \\scriptstyle \\pm 1 6 . 3 0 }$ ）岁。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 4 \\mathrm { ~ h ~ }$ 尿钠平均 ( $1 9 8 . 9 2 { \\scriptstyle \\pm 9 6 . 5 9 }$ ）mmol（范围 $4 7 \\sim$ $5 1 3 \\ \\mathrm { m m o l }$ )，估算盐摄入量为（ $( 1 1 . 6 4 \\pm 5 . 6 5 \\$ ） $\\mathbf { g }$ ( $2 . 7 5 \\sim$ $_ { 3 0 . 0 1 \\mathrm { ~ g } } ^ { \\cdot }$ )，日摄盐量符合指南推荐 $6 \\mathrm { \\ g }$ 以内的 RH 患者只占 $1 7 . 2 \\%$ ，而 $44 \\%$ 患者超过 $1 2 \\ \\mathrm { g / d }$ ， $1 5 . 1 \\%$ 超过 $1 8 \\ \\mathrm { g / d }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以所有患者 $2 4 \\mathrm { ~ h ~ }$ 尿钠水平四分位数为分界点，将受试者分为低尿钠（ $2 4 \\mathrm { ~ h ~ }$ 尿钠 $< 1 2 7 . 5 0 \\ \\mathrm { m m o l } ;$ 、低-中尿钠（ $1 2 7 . 5 0 \\ \\mathrm { m m o l } \\leqslant \\ 2 4 \\ \\mathrm { h }$ 尿钠 $< 1 8 2 . 5 0 \\ \\mathrm { m m o l }$ ）、中-高尿钠 （ $1 8 2 . 5 0 \\ \\mathrm { m m o l } \\leqslant 2 4 \\ \\mathrm { h }$ 尿钠 $< 2 4 2 . 7 5 \\ \\mathrm { m m o l }$ ）及高尿钠 ( $2 4 \\mathrm { ~ h ~ }$ 尿钠 $\\geqslant 2 4 2 . 7 5 \\ \\mathrm { m m o l }$ ）4组。各组平均尿钠水平由低到高分别为（ $9 2 . 3 5 { \\pm } 2 2 . 7 9 \\$ ）mmol、（ $1 5 7 . 1 5 \\pm$ 16.39）mmol、（ $2 1 2 . 3 2 \\pm 1 5 . 1 6 ^ { \\cdot }$ ）mmol和（ $3 3 3 . 9 1 \\pm$ 72.61）mmol。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究人群中，随者尿钠水平升高，年龄呈下降趋势（ $\\begin{array} { r } { P < 0 . 0 0 1 } \\end{array}$ )，BMI及腰围逐渐增大（ $P$ 均 $<$ 0.001），平均用药数量亦随之增多（ $P { < } 0 . 0 0 1 \\$ ，提示高尿钠者以年轻及腹型肥胖患者多见（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2降压药物使用情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "受试者均服用包括小剂量氢氯噻嗪在内的3种或3种以上降压药物，其他降压药物的应用比例从高到低分别为血管紧张素转换酶抑制剂及血管紧张素受体阻滞剂 （ $1 9 0 / 2 0 2 , 9 4 . 0 \\% \\rangle$ 、钙通道阻滞剂（178/202，$8 8 . 1 \\%$ ）、 $\\beta$ 受体阻滞剂 ( $( 1 4 3 / 2 0 2 , 7 0 . 8 \\% )$ 、醛固酮受体拮抗剂 ( $6 3 / 2 0 2 , 3 1 . 2 \\%$ ）和 $\\alpha$ 受体阻滞剂（12/202,$5 . 9 \\%$ )。随着 $2 4 \\mathrm { ~ h ~ }$ 尿钠水平的增高，降压药物的服用种类逐渐增多 $( \\chi ^ { 2 } = 2 4 . 0 2 5$ ， $P { = } 0 . 0 0 1$ ）（图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3不同尿钠水平间的血压达标率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同尿钠组间的诊室血压达标率无统计学差异（ $P { = } 0 . 2 5 5 )$ ，但HBPM的早晨和上午血压组间达标率存在统计学差异（ $P = 0 . 0 4 0$ 和0.032），高尿钠组患者的血压达标率最低（图2）。HBPM下午和睡前血压组间达标率无明显差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4影响RH患者血压达标状态的多因素分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多因素Logistic回归分析显示， $2 4 \\mathrm { ~ h ~ }$ 尿钠与诊室血压（OR2.356， $9 5 \\%$ CI $1 . 0 0 4 \\sim 5 . 5 3 3$ ， $P = 0 . 0 4 9$ ）达标状态独立相关，是影响诊室血压达标状态的危险因素 (表2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbf9e02050a0d12aed08d79769a41efc321a01853a705cc97db69fbc684f46e5.jpg",
+        "table_caption": [
+            "表1难治性高血压患者一般临床资料"
+        ],
+        "table_footnote": [
+            "$P$ 值为4组间整体比较的统计学分析结果；BMI：体质量指数"
+        ],
+        "table_body": "<html><body><table><tr><td>人群特征</td><td>总体 (n=202)</td><td>低尿钠组 (n=50)</td><td>低-中尿钠组 (n=51)</td><td>中-高尿钠组 (n=51)</td><td>高尿钠组 (n=50)</td><td>P值</td></tr><tr><td>年龄(均数±标准差，岁)</td><td>59.87±16.30</td><td>66.04±13.32</td><td>63.70±14.93</td><td>55. 74±14. 80</td><td>49.00±16.30</td><td><0. 01</td></tr><tr><td>男性[n（%）]</td><td>107 (53.0)</td><td>21 (42.0)</td><td>24 (47.1)</td><td>30 (58.8)</td><td>32（64）</td><td>0.059</td></tr><tr><td>BMI（均数±标准差，kg/m2）</td><td>25.03± 4.26</td><td>25.62± 4. 12</td><td>25.67± 2.68</td><td>27.69±3. 00</td><td>30.34± 5.97</td><td><0.01</td></tr><tr><td>腰围(均数±标准差，cm)</td><td>94.68±11.00</td><td>89.00± 8.64</td><td>92. 04± 7. 46</td><td>97. 44±8.56</td><td>102. 19±11. 57</td><td><0. 01</td></tr><tr><td>吸烟［n（%）]</td><td>24 (11.9)</td><td>3(6.0)</td><td>5(9.8)</td><td>6 (11.8)</td><td>10 (20.0)</td><td>0.075</td></tr><tr><td>饮酒[n（%）]</td><td>27 (13.4)</td><td>4（8）</td><td>8 (15.7)</td><td>5(9.8)</td><td>10 (20.0)</td><td>0.135</td></tr><tr><td>卒中[n（%）]</td><td>19 (9.4)</td><td>3(6.0)</td><td>9 (17.6)</td><td>4 (7.8)</td><td>3(6.0)</td><td>0.070</td></tr><tr><td>糖尿病[n（%）]</td><td>62 (30.7)</td><td>8(16 ）</td><td>23 (45.1)</td><td>15 (29.4)</td><td>16 (32.0)</td><td><0.01</td></tr><tr><td>空腹血糖(均数±标准差，mmol/L)</td><td>6.96± 2.54</td><td>6.82± 3.42</td><td>6.37± 1.01</td><td>7.04± 3.24</td><td>6.69± 1.84</td><td>0.828</td></tr><tr><td>糖化血红蛋白(均数±标准差，%)</td><td>6.50± 1.31</td><td>6.06± 1.91</td><td>6.19± 0.73</td><td>7.06± 1.92</td><td>5.79± 1.73</td><td>0.145</td></tr><tr><td>总胆固醇(均数±标准差，mmol/L)</td><td>4.37± 1.01</td><td>4.22± 1.29</td><td>4.16± 0.78</td><td>4.35± 1.08</td><td>4.62± 0.89</td><td>0.424</td></tr><tr><td>低密度脂蛋白胆固醇（均数±标准差，</td><td>2.44± 0.88</td><td>2.21± 1.05</td><td>2.41± 0.91</td><td>2.37± 0.88</td><td>2. 59± 0.71</td><td>0.527</td></tr><tr><td>球滤过率［均数±标准差，ml/（min· 1.73 m²) ]</td><td>80.69±23.30</td><td>75. 68±24. 76</td><td>75.00±25.05</td><td>83.71±19.52</td><td>87. 18±25.69</td><td>0.183</td></tr><tr><td>平均用药数量(均数±标准差，n)</td><td>3.62± 0.72</td><td>3.26± 0.56</td><td>3.61± 0.70</td><td>3.78± 0.73</td><td>3.84± 0.77</td><td><0. 01</td></tr><tr><td>24h尿钠（mmol)</td><td>198.9±96.6</td><td>92. 34±22. 79</td><td>157. 15±16. 39</td><td>212. 32±15. 16</td><td>333. 91±72. 61</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "□5种药物 □4种药物 ■3种药物   \n30000   \n90% 1.00 11.80% 17.60% 22.00% 80%   \n分   \n0% 37.30% 43.10% 40.00%   \n类50% 80.00% 30% 50.90%   \nN 20% 39.30% 38.00% 低尿钠组低-中等尿钠组中-高尿钠组高尿钠组 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 4 \\mathrm { ~ h ~ }$ 尿钠与HBPM早晨（OR2.408， $9 5 \\%$ CI $1 . 0 2 6 \\sim$ 5.650, $\\scriptstyle P = 0 . 0 3 0$ ）及上午（ $O R \\ 2 . 2 9 9$ ， $9 5 \\%$ CI $1 . 0 3 1 \\sim$ 5.129， $P = 0 . 0 3 3$ ）的血压达标独立相关，是影响血压达标状态的危险因素；与下午及晚上睡前HBPM血压达标无相关性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究显示，RH患者多存在钠盐摄入超标现象，高尿钠者以年轻及腹型肥胖者多见。 $2 4 \\mathrm { ~ h ~ }$ 尿钠所反应的高钠盐饮食是RH患者诊室血压、HBPM早晨及上午血压达标的独立危险因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a50e39e44eaa386baaf765ed74b5e54b6ba41981c68a1083aeac345627ff5079.jpg",
+        "img_caption": [
+            "图1不同尿钠水平的难治性高血压患者应用降压药物种类比较",
+            "图21不同尿钠水平的难治性高血压患者家庭自测血压达标率HBPM：家庭自测血压"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "评估高血压患者盐摄入量的常用方法包括 $2 4 \\mathrm { ~ h ~ }$ 尿钠测定、盐阈值、膳食调查、夜尿钠测定、点尿钠测定等[3,10]。各种检测方法均有不足，其中 $2 4 \\mathrm { ~ h ~ }$ 尿钠测定是目前检测膳食中钠摄入量最准确的方法，也是国际公认的金标准[11]，被多项国际大型流行病学研究采用[12-13] O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "降压药物的应用可侧面反映盐对RH患者血压的影响。本研究中，随着 $2 4 \\mathrm { ~ h ~ }$ 尿钠排泄（即摄盐量）的增加，患者为控制血压所服用的药物数量显著增加。增加尿钠排泄是控制血压的重要措施，利尿剂是促进钠排泄、降低血压的重要药物。噻嗪类利尿剂可作用于髓袢升支粗段皮质部（此段重吸收 $\\mathrm { { N a } ^ { + } }$ 为原尿，占尿Na的 $1 0 \\% \\sim 1 5 \\%$ )，抑制钠重吸收，增加尿钠排泄，从而降低体内 $\\mathrm { { N a } ^ { + } }$ 负荷，降低血压，这也是推荐RH患者应用利尿剂的原因所在[9,14]。本队列所有患者均长期服用小剂量氢氯噻嗪，药物对尿钠排泄的影响处于稳定状态，且不同患者间利尿剂的剂量差异小，一定程度上减少了利尿剂对 $2 4 \\mathrm { ~ h ~ }$ 尿钠测定结果的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/15798ac4526a147f85c8063b9c03f2ed7cbbd460f982b747febde06391450bb4.jpg",
+        "table_caption": [
+            "表2影响难治性高血压患者诊室及家庭自测血压达标状态的多因素Logistic回归分析"
+        ],
+        "table_footnote": [
+            "诊室血压以 $< 1 4 0 / 9 0 ~ \\mathrm { m m ~ H g }$ 为达标，家庭自测血压以 $< 1 3 5 / 8 5 ~ \\mathrm { m m ~ H g }$ 为达标．BMI：体质量指数，eGFR：估测的肾小球滤过率 7 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">影响因素</td><td rowspan=\"2\" colspan=\"2\">诊室血压达标</td><td colspan=\"8\">家庭自测血压达标</td></tr><tr><td colspan=\"2\">早晨</td><td colspan=\"2\">上午</td><td colspan=\"2\">下午</td><td colspan=\"2\">睡前</td></tr><tr><td></td><td>OR(95% CI)</td><td>P值</td><td>OR (95% CI)</td><td>P值</td><td>OR(95% CI)</td><td>P值</td><td>OR(95% CI)</td><td>P值</td><td>OR(95% CI)</td><td>P值</td></tr><tr><td rowspan=\"2\">BMI</td><td>2.473</td><td>0.045</td><td>1.040</td><td>0.925</td><td>0.876</td><td>0.805</td><td>1. 174</td><td>0.762</td><td>1.590</td><td>0.394</td></tr><tr><td>(1.020~5.996)</td><td></td><td>(0.460~2.334)</td><td></td><td>(0.307~2.498)</td><td></td><td>(0.415~3.319)</td><td></td><td>(0.548~4.616)</td><td></td></tr><tr><td rowspan=\"2\">eGFR</td><td>1.560</td><td>0.187</td><td>0.217</td><td>0.032</td><td>0.248</td><td>0.069</td><td>1. 614</td><td>0.321</td><td>1. 841</td><td>0.192</td></tr><tr><td>(0.805~3.020)</td><td></td><td>(0.054~0.880)</td><td></td><td>(0.055~1.113)</td><td></td><td>(0.638~4.083)</td><td></td><td>(0.736~4.603)</td><td></td></tr><tr><td rowspan=\"2\">24h尿钠</td><td>2.356</td><td>0.049</td><td>2.408</td><td>0.030</td><td>2.299</td><td>0.033</td><td>1. 485</td><td>0.500</td><td>1. 610</td><td>0.481</td></tr><tr><td>(1.004~5.533)</td><td></td><td>(1.026~5.650)</td><td></td><td>(1.031~5.129)</td><td></td><td>(0.471~4.681)</td><td></td><td>(0.427~6.069)</td><td></td></tr><tr><td rowspan=\"2\">24h尿钾</td><td>0.996</td><td>0.989</td><td>1. 231</td><td>0.368</td><td>1.430</td><td>0.243</td><td>0.908</td><td>0.758</td><td>0.697</td><td>0.556</td></tr><tr><td>(0.589~1.686)</td><td></td><td>(0.783~1.936)</td><td></td><td>(0.785~2.605)</td><td></td><td>(0.491~1.679)</td><td></td><td>(0.210~2.315)</td><td></td></tr><tr><td rowspan=\"2\">应用螺内酯</td><td>0.447</td><td>0.163</td><td>0.991</td><td>0.988</td><td>0.787</td><td>0.703</td><td>0.489</td><td>0.292</td><td>0.285</td><td>0.094</td></tr><tr><td>(0.144~1.384)</td><td></td><td>(0.316~3.113)</td><td></td><td>(0.231~2.687)</td><td></td><td>(0.130~1.847)</td><td></td><td>(0.066~1.239)</td><td></td></tr><tr><td>≥3种抗高血压</td><td>0.327</td><td>0.044</td><td>0.415</td><td>0.162</td><td>0.873</td><td>0.822</td><td>0.661</td><td>0.540</td><td>0.211</td><td>0.042</td></tr><tr><td>药物</td><td>(0.110~0.972)</td><td></td><td>(0.121~1.422)</td><td></td><td>(0.268~2.844)</td><td></td><td>(0.175~2.489)</td><td></td><td>(0.047~0.943)</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在影响血压的环境因素中，高盐摄入被认为是重.要的因素之一[5]。国际性研究[15]证实，24h 尿钠排泄量（反应钠摄入量）每减少 $1 0 0 \\ \\mathrm { m m o l }$ ，收缩压和舒张压分别降低 $3 . 5 \\ \\mathrm { m m \\ H g }$ 和 $1 . 5 \\ \\mathrm { m m \\ H g }$ 。中国人盐摄入普遍超标，我国大部分地区人均盐摄入量 ${ > } 1 2 ~ \\mathrm { g / d }$ ，明显高于我国高血压指南 ${ < } 6 ~ \\mathrm { g / d }$ 的推荐[9]。本研究提示日摄盐量超过指南推荐量（ $6 ~ \\mathrm { g / d } ^ { \\cdot }$ ）的患者占 $8 2 . 8 \\%$ ，盐摄人量超标可能在该类患者血压控制不良中起着重要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高盐摄入可增强患者肾脏交感神经功能[16]，继而增加肾小管对钠的重吸收[17]。在盐敏感患者，高盐摄入可明显增加血浆去甲肾上腺素水平，升高血压[18]，还可以通过增加血管平滑肌细胞内钠离子含量，增加血管平滑肌细胞对升压物质（交感神经递质、血管紧张素ⅡI等）的反应性[19-20]。高盐摄入损害血管内皮功能，降低一氧化氮生物合成，抑制血管扩张，增强阻力动脉的收缩性[21]。因此，高盐摄入在血压升高形成机制中起重要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "影响RH患者血压达标状态的因素包括生活方式（盐摄入、运动、体重）、年龄、文化程度、采用的各种降压药物等。任何一种分组方法都无法平衡这些因素的干扰，均难以确定某一因素与血压达标状态的绝对因果关系。因此，本研究将RH患者作为一个整体，以患者血压达标状态为因变量，观察多个自变量对达标状态的影响。研究显示 $2 4 \\mathrm { ~ h ~ }$ 尿钠排泄量是影响RH患者诊室血压及家庭自测血压达标状态的不利因素，与诊室血压及晨起、上午HBPM达标状态独立相关。患者在就诊时（各种环境因素的影响）以及在清晨苏醒过程中（神经内分泌激活）处于相对应激状态，儿茶酚胺类物质分泌增加以及血管对升压物质的反应性增强可能是导致RH患者血压波动、控制不良的重要原因。鉴于本研究中受试者是在我院门诊长期接受积极降压药物治疗的RH患者，高盐摄入主要影响这些患者在应激时的血压达标状态。此发现为高盐摄入在RH 血压控制不良中发挥的作用提供了理论依据，突显控盐在RH平稳降压中的意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究未发现RH患者尿钠排泄与HBPM下午及睡前血压达标状态相关。在接受充分降压药物治疗的RH患者，高盐摄入主要影响应激状态下的血压达标（诊室、早晨、上午），而HBPM下午及睡前血压并不能反应高盐摄入的条件性升压效应（如应激状态的升压物质，尤其是儿茶酚胺明显升压效应），弱化了高盐摄入对血压的影响，而诊室及清晨血压与高盐摄入的相关性则较好佐证了该问题，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文尚存在一定局限性。首先，本研究主要针对RH这一特殊人群，病例数偏少，多因素分析结果尚需在更大规模的研究中进一步论证。其次，本研究未对患者实施盐敏感试验，未能进一步分析高盐摄入对盐敏感患者、盐抵抗患者及中间类型患者的影响。该部分研究目前正在进行中。最后，在分析药物影响因素的过程中，只考虑了降压药物的数量而未分析药物剂量，也是研究的不足之处。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，RH患者多存在高盐摄入现象，对RH患者进行盐摄入量评估是临床诊疗的重要内容。高盐摄入的RH患者使用的降压药物种类和数量增加，是影响诊室血压及家庭自测血压达标状态的重要因素。限制钠盐摄入对减少RH患者应激时血压波动、促进血压达标至关重要。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Mozaffarian D,Fahimi S，Singh GM，et al.Global sodium consumption and death from cardiovascular causes ［J].N Engl JMed,2014,371:624-634. Juraschek SP，MillerER II，Weaver CM，et al.Effectsof Sodium Reduction and the DASH Diet in Relation to Baseline Blood Pressure［J]．J Am Coll Cardiol，2017，70: 2841-2848. 中华医学会心血管病学分会高血压学组.限盐管理控制 高血压中国专家指导意见［J].中华高血压杂志，2015, 23:1028-1034. 孙宁玲，霍勇，王继光，等.难治性高血压诊断治疗中国 专家共识［J].中华高血压杂志，2013，21：321-326. 孙宁玲，牟建军，李玉明.高血压患者盐摄入量评估和血 压管理临床流程专家建议书［J]．中华高血压杂志, 2016,24: 727-728. Stergiou GS，Siontis KC，Ioannidis JP.Home blood pressure as a cardiovascular outcome predictor：it's time to take this method seriously[J].Hypertension，2010,55：1301-1303. Dolan E,Stanton A,Thijs L,et al. Superiority of ambulatory over clinic bloodpressuremeasurement inpredicting mortality：the Dublin outcome study［J].Hypertension, 2005，46:156-161.   \n[8] Levey AS，Stevens LA，Schmid CH,etal.A new equation to estimate glomerular filtration rate ［J].Ann Intern Med, 2009，150：604-612.   \n[9］中国高血压防治指南修订委员会.中国高血压防治指南 2010［J]．中华高血压杂志，2011，19：701-743.   \n［I0」孙丁玲.高盐-高皿压的科字之声［J」.中华高皿压杂志, 2017,25:519-524.   \n[11]Rust P,Ekmekcioglu C. Impact of Salt Intake on the Pathogenesis and Treatment of Hypertension[J].Adv Exp Med Biol,2017, 956: 61-84.   \n[12]Mente A,O’Donnell MJ,Rangarajan S,et al. Association of urinary sodium and potassium excretion with blood pressure [J].N Engl JMed,2014,371:601-611.   \n[13]Mente A,ODonnell M,Rangarajan S,et al.Associations of urinary sodium excretion with cardiovascular events in individuals with and without hypertension：a pooled analysis of data from four studies [J].Lancet，2016,388：465-475.   \n[14]Sica DA,Carter B,Cushman W,et al. Thiazide and loop diuretics[J].JClin Hypertens，2011，13：639-643.   \n[15]Group ICR.Intersalt:an international study of electrolyte excretion and blood pressure.Results for 24 hour urinary sodium and potassium excretion[J].BMJ,1988，297：319-328.   \n[16]Grassi G,Dell’Oro R,Seravalle G,et al. Short-and longterm neuroadrenergic effects of moderate dietary sodium restriction in essential hypertension［J].Circulation，2002, 106: 1957-1961.   \n[17]DiBona GF.Neural control of the kidney:past，present，and future［J].Hypertension，2003,41:621-624.   \n[18]Campese VM,Romoff MS,Levitan D，et al. Abnormal relationship between sodium intake and sympathetic nervous system activity in salt-sensitive patients with essential hypertension［J]. Kidney Int，1982,21:371-378.   \n[19]Linde CI,Karashima E，Raina H,et al. Increased arterial smooth muscle $\\mathrm { C a } ^ { 2 + }$ signaling，vasoconstriction，and myogenic reactivity in Milan hypertensive rats［J].AmJPhysiol Heart Circ Physiol,2012,302：H611-H620.   \n［20］李师承，陈连凤，冯淑怡，等.高盐饮食对去甲肾上腺素 诱导的Dahl盐敏感大鼠肠系膜动脉收缩反应的影响［J]. 中国心血管杂志，2018，23：264-269.   \n[21］Toda N，Arakawa K.Salt-induced hemodynamic regulation mediated by nitric oxide[J]．J Hypertens，2011，29: 415-424. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(收稿日期：2018-12-04)",
+        "page_idx": 5
+    }
+]

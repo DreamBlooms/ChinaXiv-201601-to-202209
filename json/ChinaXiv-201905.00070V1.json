@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "多目标追踪在各类人群评价与训练中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李泰安」 张禹李杰2.1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(北京体育大学心理学院，北京 100084)(杭州师范大学心理科学研究院，杭州 311121)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要多目标追踪范式主要用来探讨动态情景下对多个目标的视觉注意和记忆加工过程，早期研究侧重于追踪过程中的影响因素及加工机制，近年来，越来越多的研究应用多目标追踪范式对各类人群进行评价与训练，包括儿童、老年人、神经发育障碍患者、驾驶员、运动员、电子游戏玩家、以及一些其他职业群体。总体来看，多目标追踪表现越好，在复杂快速的动态情境中的专业表现越好；反之，多目标追踪表现差，标志着认知功能可能发育不成熟或出现衰退。并且，多目标追踪还可作为认知训练的手段，改善老年人和神经发育障碍患者的认知功能，提高各职业人群的专业表现。未来，多目标追踪作为评价和训练的方法还有很大的发展空间，包括加强特殊职业人群的模拟训练，扩展目标人群，结合立体视觉和真实场景，结合身体活动，探索多人合作的多目标追踪，拓展用于进行情绪和社会功能的评价与训练等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词多目标追踪；心理评估；认知训练；注意",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现实生活中，人们在探索周边环境信息时需要同时对多个运动客体保持良好的注意(如团体运动、驾驶等行为)。由 Pylyshyn 和 Storm(1988)提出的多目标追踪(Multiple ObjectTracking,MOT)范式主要关注人们在动态场景中的视觉追踪模式，其动态性、持续性等特点可以很好地反映个体在现实场景中的注意加工过程，自提出以来，就受到了广大研究者的关注(魏柳青，张学民，刘冰，鲁学明，李迎娣,2010；张滨熠，丁锦红,2010)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "依据多目标追踪的特点，为了探索了人们的视觉认知加工过程和机制，大量研究选择操纵运动目标或分心物客体特征(颜色、形状、大小等)的实验方法(Franconeri，Jonathan，&Scimeca,2010；Li, Oksama,& Hyona,2018；Makovski & Jiang，2009； Scholl,Pylyshyn，&Feldman,2001; Scimeca&Franconeri,2015;VanMarle& Scholl,2003；胡路明，吕创，张学民,魏柳青,2018；胡路明，苏晶，魏柳青，张学民,2018；吕馨，刘景瑶，魏柳青，张学民,2019)。还有研究借助三维模拟技术提高了传统多目标追踪范式的生态学效度，使之能够更加真实地反映现实场景中的视觉加工过程(Lochner& Trick，2011，2014，2015；Romeas，Guldner，&Faubert,2016)。对多目标追踪表现的考察可以根据追踪数量的变化直接量化操作，一般人群可以同时追踪 4\\~5个目标，通常情况下正确率能够达到 $8 5 \\% { \\sim } 9 5 \\%$ (Pylyshyn，2000，2004,2006)。同时，还可以把客体运动追踪速度的上限作为反应追踪表现的评价指标(Faubert,2013;Tinjust,Allard,&Faubert,2008)。随着研究的不断深入，多目标追踪领域的研究范式已趋于成熟，相关理论模型的提出也使我们对动态情境下多目标追踪的认知机制有了更加深入的了解(Cavanagh & Alvarez,2005;Li, Oksama,& Hyonä,2019; Oksama & Hyonä, 2004,2008;Pylyshyn & Storm,1988; Pylyshyn,2000,2001; Yantis,1992)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在大量理论研究基础上，研究者们逐渐开始使用多目标追踪范式考察不同人群的追踪表现及视觉加工特征，发现了追踪表现与年龄之间存在相关关系(Dprum etal.，2016;Plourde,Corbeil,&Faubert,2017;Tullo,Faubert,&Bertone,2015)，还有伴随注意困难的神经发育障碍患者(Beaton et al.,201O; Brodeur,Trick,Flores,Mar,& Burack,2013；马玉，张学民，张盈利,魏柳青,2013)、驾驶员(Casut,Martin,Keller,&Jäncke,2014;Lochner& Trick,2011,2014,2015；Woods-Fry et al.，2017)、运动员(Mangine etal.，2014; Martin，Sfer,D'Urso Villar,&Barraza，2017；李雪佩，2017)和电子游戏玩家(Dobrowolski，Hanusz，Sobczyk，Skorko，&Wiatrow,2015;Oei&Patterson,2013)等人群的追踪表现与一般人群之间的差异。除上述人群外，现实生活中还有诸多职业或情境需要复杂的视觉注意能力，如雷达监测员(Allen,McGeorge,Pearson,& Milne,2004)、国防生(OTCs) (Barker, Allen,& Mcgeorge,2010)、飞行员(Hoke et al.,2017；姜薇，丰廷宗，潘静，李永娜,2013)、外科医生(Harenberg et al.,2016)等职业人群的视觉追踪表现也都显现出一定的优势。而且，使用多目标追踪进行认知训练具有改善老年人和神经发育障碍患者的认知功能(Assed& Serafim，2016;Legault，Allard，&Faubert,2013;Legault &Faubert,2012; Tulo,Guy,Faubert,&Bertone,2018)，提高运动员传球决策正确率(Romeas et al.,2016)，提高部队士兵工作记忆广度(Vartanian,Coady,& Blackler,2016)的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上可知，利用多目标追踪范式既能探讨视觉认知加工机制，也可以将该范式作为对不同人群进行认知评价与训练的工具。本文就多目标追踪在不同人群中评价与训练的相关研究进行梳理，在此基础上对多目标追踪的研究方向及技术革新进行分析和展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2不同人群评价与训练的研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1年龄相关的一般人群",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪范式已被用于测评儿童、成年人和老年人等不同年龄阶段人群的视觉认知能力。研究发现，成年人在多目标追踪任务表现上好于儿童和老年人，能够正确追踪运动速度更快(Legault et al.，2013；Plourde etal.，2017；Tullo et al.,2015)、数量更多的目标(Trick,Hollnsworth,&Brodeur,2009)。而且追踪表现与成年人年龄存在负相关，即年龄越大，表现越差(Dprum et al.,2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "儿童的多目标追踪表现与其年龄大小也存在相关。为了更加有效地测量儿童的多目标追踪表现，研究者对多目标追踪材料进行了改良，选取不同年龄段的儿童进行“抓间谍”(Catch the Spies，将目标设定为间谍，非目标设定为民众，要求儿童找出人群中的间谍)追踪实验，结果发现其正确追踪的目标数量随年龄增加而增加。而且，6岁儿童在追踪1\\~2个目标时的成绩明显低于其他更高年龄段的儿童(Trick,Jaspers-Fayer,& Sethi,2005)，表明可能 6岁的儿童还未形成持续的注意追踪能力，6到7岁这个阶段可能是多目标追踪能力发生的重要阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "老年人的追踪能力整体弱于儿童和成年人，尤其是三维追踪任务的表现下降明显(Plourde et al.,2017)。老年人在多目标任务中背侧注意网络(the dorsal attention network,DAN)的激活减弱，默认网络(the default mode networks,DMN)的抑制减弱(Dorum et al.,2016)，提示我们由于年龄的增长，大脑生理出现的变化可能损害了老年人立体视觉和持续性注意机能，因而给老年人的日常生活带来很多困扰。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪不仅可用于各年龄段人群认知能力的评价，还可用于认知训练。目前认知训练的研究发现老年人脑认知功能是可以通过训练改善的(Mahncke etal.，2006)。有研究采用虚拟现实技术，通过持续5周，每周1次，每次30分钟的3维多目标追踪训练可以帮助人们处理与社会相关的视觉动态场景，重点是可以提高老年人识别生物动作(Biological motion,BM)的知觉整合能力(Legault&Faubert,2012)。同样的3维多目标追踪训练还可以提高老年人的认知表现，其提高效应的大小与年轻人相当(Legault etal.,2013)。针对一名80 岁老年人的个案研究显示，经过持续16周，每周两次，每次90分钟的3维多目标追踪训练，其情景记忆和工作记忆的存储和检索过程都有所改善，能更多地使用策略，信息处理速度更快(Assed& Serafim,2016)。上述结果都表明，3维多目标追踪训练可以有效缓解老年人的认知衰退，维持其认知功能。神经科学认为，由于衰老大脑的神经可塑性依然存在，因此认知训练对于老年人建立补偿神经回路和修复受损机能来说是有用的(Mahncke etal.,2006)，老年人年龄增长导致的认知功能下降可以经过系统的认知训练提高，并且这种训练的效益可以持续(Richards,Bennett,& Sekuler,2006)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2伴随注意困难的神经发育障碍患者 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视觉注意能力的高低可以反映神经发育障碍患者的注意缺陷程度(Cappa etal.，2005;Novack&Johnstone，1998)。采用多目标追踪任务对诸如威廉姆斯综合征(Williamssyndrome)、唐氏综合征(Down syndrome)、特纳综合征(Turner syndrome)、自闭症(Autism)等神经发育障碍患者(研究对象多为儿童)进行测评，发现其追踪表现通常较普通儿童更差。威廉姆斯综合征患者表现出动态注意能力的缺陷，即动态追踪任务中的表现差于年龄匹配组的儿童，而相同的静态记忆任务中两组人群没有差异(O'Hearm,Landau,& Hoffman,2005)。唐氏综合征、中低功能自闭症和特纳综合征儿童在多目标追踪任务中似乎只能追踪1个目标(Beaton et al.,2010; Brodeur et al.,2013；马玉 等,2013)，说明他们可能失去了多焦点注意或是将多个目标进行整合的能力。特纳综合征女孩会采用一些策略来应对较为简单的多目标追踪的问题，而当认知负担的增加时，其策略的使用便会失效，即不能根据任务难度的提升而做出适应性改变，从而导致表现的下降。她们的皮质和皮层下颞叶、时间空间处理回路均存在发育异常的问题，她们在多目标追踪任务中激活的脑区(包括皮层下通路)与正常发育的女孩也有所不同(Beaton etal.,2010)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "轻度认知刺激可以提高神经发育障碍患者的康复比率(Cappa et al.，2005；Novack &Johnstone,1998)。研究表明多目标追踪训练对伴随注意缺陷、工作记忆或视觉信息处理速度受限的人群有益，例如注意缺陷障碍、自闭症谱系障碍等疾病(Parsons etal.,2014)。也有研究发现持续5周共15次的多目标追踪训练提升了伴随注意缺陷的神经发育障碍儿童的注意能力，其中包含自闭症谱系障碍(Autism Spectrum Disorder，ASD)、注意缺陷/多动障碍(Attention-Deficit/Hyperactivity Disorder,ADHD)、智力障碍(Intellectual Disability)、语言障碍(Language Disorder)、特殊学习障碍(Specific Leaming Disorder)，以及其他神经发育障碍疾病，说明用非语言的、基于视觉的任务来训练非典型发育儿童注意力的方法是可行的(Tullo et al,2018)。目前，药物或传统的医疗手段仍是神经发育障碍疾病的主要治疗方式，而认知训练在未来作为辅助评价与治疗手段可能会有更加广阔的发展空间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3驾驶员",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人们在道路上行走或驾驶车辆时，需要对道路中的多个客体进行持续的动态注意，并同时做好应对任何突发事件的准备，而当注意资源被分散时，则意味着危险的发生(Banducci etal.,2015;Rahimian,O'Neal, Zhou,Plumert,& Kearney,2018)。研究显示，驾驶与多目标追踪任务调用类似的心理过程。实验要求参与者在模拟驾驶的同时追踪模拟情景中高速公路上的多辆汽车，结果发现相比于只进行追踪任务，参与者在执行双任务时的追踪表现明显下降，说明驾驶任务占用了多目标追踪的部分资源(Lochner&Trick,2011,2015)，反过来，追踪过程也会影响驾驶操作(如控制前进和停车)的完成(Lochner&Trick,2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此多目标追踪范式也可以用来评价驾驶者驾驶能力和视觉认知能力的高低。一般年龄越大的驾驶员，驾驶速度越慢，同时其多目标追踪表现也越差(Michaels etal.,2017)。老年人更容易出现注意资源分散的情况，他们的认知表现与其在实际道路和模拟器上的驾驶表现相关(Casuttet al.,2014;Woods-Fry et al.,2017)。眼动实验也表明，老年人与年轻人对复杂道路环境中多个运动客体的注意方式存在差异(Dukic &Broberg,2012;Romoser,Pollatsek,Fisher,&Williams,2013)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4运动员",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运动员的认知优势特征一直是运动心理学所关注的焦点之一(Voss，Kramer，Basak,Prakash,&Roberts,2010；周成林，刘微娜,2010)。精确的视知觉、合理的注意分配与广泛的工作记忆对于比赛关键节点的决策有着极其重要的作用，可以使运动员更快速准确地在运动场上提取有效信息，更好地阅读和掌控比赛(Huff,Papenmeier,& Zacks,2012; Romeas et al.,2016；王静，李杰，张禹，2018)。而多目标追踪范式具有动态、并行、基于客体的特征，符合运动场景中运动员需要对场内诸多客体的时空与表面特征信息进行分析的特点，可以作为运动员认知能力评价与训练的重要工具。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "很多研究发现运动经验越丰富的人，其多目标追踪表现越好。比如排球和篮球运动员在追踪2个以上目标时的表现优于普通大学生，且反应速度也比普通大学生更快(Zhang,Yan,&Liao,2009；李雪佩,2017)。足球、冰球、橄榄球等项目的精英运动员的多目标追踪表现也好于高水平业余运动员和非运动员普通大学生，并且精英运动员表现出更高的学习效率，且仍有继续提高的潜力(Faubert，2013)。对于团队运动项目中负责传球和组织的球员来说，场上的位置决定了他们场上的任务分工，他们需要通过持续注意多个队友和对手的位置信息，因此其多目标追踪表现也更好(Mangine et al.,2014;Martin et al.,2017)。对 NBA球员的进一步研究显示高水平篮球运动员的多目标追踪速度上限与其在赛季内的实际表现(助攻、失误、助攻失误比、抢断)相关(Mangine etal.,2014)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪训练能够提高运动员的视觉认知能力，如静态视敏度、立体视觉、空间对比敏感度、扫视能力等(Junyent,Blazquez,Fortó,& Torradeflot,2015)，还可以提高视觉信息加工速度和工作记忆能力，并引起神经脑电功能静息态(qEEG)的变化(Parsons etal.,2014)。研究者发现参与者在经过20天，每天40试次的多目标追踪训练后，最终准确追踪4个目标时的速度上限提高了一倍多，且速度与时间的相关显著；训练最终结束后，参与者都可以在原始的速度上准确地追踪6个目标(Thompson,Gabrieli,&Alvarez,2010)，表明多目标追踪训练提高人们视觉追踪能力可以同时表现在追踪速度与数量两方面。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运动竞技中训练的效果要由真实场景的运动表现来检验。有研究将3维多目标追踪训练效果的检验程序从实验室转移到真实足球场景，以传球、带球、射门三项基本技能为标准来评判运动表现，探究了实验室非运动情境下的知觉认知训练效果能否迁移到运动场景。结果发现连续5周，每周3次，每次大约8分钟的3维多目标追踪训练可以有效提升足球情境下的传球决策表现(Romeas et al.,2016)。目前，以多目标追踪范式为主体的认知训练方法已被列入高水平运动员的训练体系，如英超、北美职业冰球联盟和美国国家橄榄球联盟等赛事，这为竞技领域运动训练体系的发展提供了借鉴经验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪任务还可以作为队医评估运动员脑部受伤情况的工具。有研究比较了三种脑部受伤评估方法后，发现运动脑震荡评估工具测试的结果与运动员多目标追踪的速度上限相关(Oslund,Cullen,Kowalski,&Christie,2017)，这表明多目标追踪表现可以反映运动员的认知状态，由此推断其脑震荡恢复情况，判断其是否可以重返赛场。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5电子游戏玩家",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "电子游戏虽然没有体育运动那样多的肢体动作，但是依然需要优秀的视觉认知能力。游戏玩家与运动员有着类似的视觉加工过程，即经常处理多个目标持续动态变化的追踪情境，如需要持续关注敌我双方及任务有关的各个参数等。有研究表明，游戏玩家在一些基本认知能力上优于非游戏玩家，比如他们可以更快地追踪移动物体，更好地检测存储在视觉短期记忆中的客体变化，更快地在客体间完成视觉转换，以及更有效地执行心理旋转(Boot,Kramer,Simons,Fabiani,& Gratton,2008)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已有一些研究利用多目标追踪范式对游戏玩家的认知表现进行评价。研究发现有视频电子游戏经验的人群有更好的追踪表现，尤其动作类视频游戏玩家的多目标追踪表现好于非游戏玩家(Trick etal.,2005)，他们甚至能多追踪约2个目标(Green&Bavelier,2006)。动作类游戏中，需操控多个分队的即时战略游戏玩家的多目标追踪表现又好于第一人称射击游戏玩家(Dobrowolski et al., 2015)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动作类视频游戏训练可以补偿受试者的注意瞬脱，提高其认知控制能力和多目标追踪表现(Oei&Patterson,2013)。在训练过程中短时记忆能力的改变起调节作用(Green& Bavelier,2006)。这表明游戏对认知能力的塑造可能是通过改变短时记忆能力而发挥效用，不同人群间多目标追踪表现的差异也可能源自于短时记忆能力的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6其他职业人群",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "某些其他特殊职业人群也表现出多目标追踪能力的优势。Alen 等人(2004)发现雷达监测员的多目标追踪任务与点探测任务的成绩要高于普通大学生。Barker等人(2010)的研究结果也显示，对于经常从事需要良好动态空间认知任务的国防生(OTCs)成员，他们的多目标追踪表现会比其他本科生更好。类似的，姜薇等人(2013)结合多目标追踪范式和目标融合技术的方法，对比了飞行学员和普通大学生在多目标追踪任务中的加工模式，发现飞行学员比大学生有更大的注意广度和更有效的注意分配。Vartanian等人(2016)则发现3维多目标追踪训练有效提高了加拿大武装部队(CAF)成员的工作记忆广度。这些结果都提示我们在对诸如雷达监测员、飞行员等军事专业人员进行选拔和训练时需对其认知加工能力加以注意，对于这些需要高密度视觉信息处理的岗位可以考虑将多目标追踪表现作为其选拔和训练的考核",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "指标之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了军事领域的人群外，有研究还探讨了在外科手术领域中多目标追踪能力与模拟腹腔镜手术(虚拟现实模拟)技术之间的关系，发现多目标追踪成绩是外科手术技术水平的重要预测源。多目标追踪训练可以满足模拟外科手术过程中的复杂认知需求，因而可作为外科手术医生的知觉认知评价和训练手段(Harenberg etal.,2016)，但多目标追踪训练是否能提高真实手术的能力还需要进一步研究支持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3总结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪范式的持续性、多焦点性、刺激驱动性、动态性等特点(魏柳青等，2010)可以很好地反映个体在现实场景中的注意加工过程，可用于评价各类人群的认知能力以及专业表现。随着年龄增长，人们在儿童期的多目标追踪能力逐渐增强，成年期的追踪能力最强，到老年期逐渐衰退，尤其立体视觉追踪能力衰退明显。神经发育障碍患者的追踪表现较普通儿童更差，尤其是唐氏综合征和特纳综合征的儿童只能追踪一个目标。年龄越大的驾驶员，驾驶速度越慢，同时其多目标追踪表现也越差。运动员遭受脑震荡创伤后多目标追踪能力下降，随着伤病的恢复，追踪能力逐渐回升。集体球类项目运动员、视频游戏玩家、雷达监测员、从事需要良好动态空间认知能力任务的国防生及飞行员的多目标追踪能力通常均好于普通大学生。而且，多目标追踪任务表现可预测运动员在赛场上的表现以及医生在外科手术中的表现。总体来看，多目标追踪表现越好，在复杂快速的动态情境中的专业表现越好；反之，多目标追踪表现差，标志着认知功能可能发育不成熟或出现衰退。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了用于评价，多目标追踪还可作为认知训练的手段，可有效改善老年人和神经发育障碍患者的认知功能(Assed & Serafim,2016; Legault & Faubert,2012; Legault et al.,2013; Tulloet al.,2018)、提高运动员传球决策正确率(Romeas etal.,2016)，以及提高部队士兵工作记忆广度(Vartanianetal.,2016)。目前，涉及多目标追踪训练的研究及应用相对较少，还有待更多的研究检验训练效果的持续性及可迁移性，并将其应用至更大范围的人群。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪作为评价和训练的方法未来还有很大的发展空间，包括加强特殊职业人群的模拟训练，扩展目标人群，结合立体视觉和真实场景，结合身体活动，探索多人合作的多目标追踪，拓展用于进行情绪和社会功能的评价与训练等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1加强特殊职业人群的模拟训练",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "认知模拟训练是诸如军事、航空航天等特殊职业人群训练体系的重要组成部分，可以有效提高他们的认知能力，使其在各自的工作情境中更加迅速、准确地分析实时及突发情况，做出合适的判断和决策。多目标追踪在此类训练中有良好的应用前景，它的优势包括稳定持久的训练效果、无副作用和伦理问题、较少的时间和金钱消耗、广泛的适用性、可结合其他干预手段使用等(Harenberg et al.,2016; Oei& Patterson,2013; Romeas et al.,2016; Vartanian etal.,2016)，并可针对各特殊职业人群制定相应的训练方案，以使认知模拟训练更高效、更有针对性。例如，可将追踪速度作为多目标追踪训练的指标，以提高受训者在快速情境中的追踪和响应能力；在多目标追踪范式中融入军事、航空航天等职业相关的特殊场景、任务以及活动状态(如隐蔽、翻转、失重或超重状态等)等，以提高受训者在具体情境中的认知加工和反应能力；在逐渐增加追踪任务难度的同时采集受训者的神经生理指标(如脑电、皮电、呼吸等)，将其与追踪绩效结合分析，以评估并提高受训者在执行此类高负荷认知任务时的情绪状态和身体适应性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2扩展目标人群，增大样本量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如教师(上课时关注多个学生)、警察(指挥交通、在人群中抓捕嫌疑人、检查监控录像)等群体在工作中也需要多目标追踪能力，可以对其进行评价和训练。在施测过程中可结合手机、电脑网络等方式，以获得更大样本的数据。当然，在扩展应用人群时应保持审慎态度，因为并非所有群体都强调多目标追踪能力。例如，对于运动员来说，团体球类项目需要多目标追踪，而田径、游泳等项目则未必需要。一项涵盖曲棍球、足球、极限飞盘、武术等运动项目的研究并没有确切地发现运动员的追踪表现优势(Tricketal.,2005)。有研究进一步探讨了运动中视觉注意与专业技能之间的联系，发现注意能力与运动类型之间没有相关，不能互相预测，团体运动与个人运动之间也没有差异(Memmert, Simons,&Grimme,2009)。因此未来的研究在扩展目标人群，增大样本量的同时，也应注意考量不同人群之间的特征差异，例如对于运动员来说要继续关注运动项目、策略和经验(水平)对视觉追踪和运动表现的影响，进一步确定多目标追踪能力在认知层面的定位(Vossetal.,2010)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3结合立体视觉和真实场景，提高评价与训练的生态学效度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现阶段的实验任务多在二维计算机屏幕上呈现给参与者，这与现实世界的视觉追踪存在一定偏差。研究表明在真实或模拟环境中进行认知训练的效果会更好，Mann,Williams,Ward和 Janelle(2007)的元分析显示，以反应正确率为因变量，在刺激类型的效果量比较中，真实场景效果量为中等 $\\mathrm { E S } = 0 . 4 2 , 9 5 \\% \\mathrm { C I } = 0 . 3 3 \\mathrm { - } 0 . 5 0 )$ ，而静态刺激与动态视频的效果量均低于0.35。在运动领域，Faubert和 Sidebottom(2012)认为运动认知训练要包含4个特征，其中就包含立体视觉。研究者已将三维立体显示技术应用到多目标追踪范式中，一定程度上提高了应用其进行认知评价与训练的生态学效度(Tinjust etal.,2008)，未来可结合更多的模拟技术，如虚拟现实(virtual reality,VR)等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4将多目标追踪与身体活动相结合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于人体动作控制系统与认知系统共用认知资源，因此追踪外在客体和保持自体运动存在共同的机制。研究发现如果人们在追踪的同时进行身体活动(例如走动、蹬功率自行车，甚至站立)，多目标追踪表现会受到损害(Fabri et al.，2017；Faubert& Sidebottom，2012;Thomas & Seifert,2010,2011；龚然，陈听，岳小祺，肖义然，张禹,2016)。而现实生活中人们通常是一边移动身体，一边追踪外部运动客体，例如人们快速穿越马路时；运动员在场上更是需要经常保持高唤醒水平的身体状态。结合身体活动进行多目标追踪能力的评价与训练可能将更好地反映人们在实际场景中的追踪能力，并提高人们使用认知资源控制自身运动并追踪外在客体的效率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5探索多人合作的多目标追踪",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "现代社会的工作越来越复杂，往往需要多个人合作完成(Dechurch&Mesmermagnus,2010)，同样，我们在真实世界中很多时候也需要多人同时进行追踪，例如多人运动项目比赛情境、多名警察抓捕嫌疑人等。而传统的多目标追踪研究几乎都是单人任务，难以针对此类复杂情境进行评价与训练。近期，开始有研究者考查人们在双人追踪模式下的多目标追踪表现，两人之间可以交流双方选择的客体位置、选择正确率，或是以上两种信息同时交流。结果发现相比于单人追踪模式，双人追踪条件下能产生更大的收益，其中同时交流两种信息的团队最快获得收益，其次是交流选择正确率，而交流选择位置的团队最晚达到同样的收益水平。然而，参与者主观更加关注的却是同伴选择的位置信息，或许是他们认为位置信息的交流更加直观(Wahn,Kingstone,&Konig,2017)。未来可通过采集多人同时操作任务的脑电和眼动 数 据(Niehorster，Cornelisse，Hooge，& Holmqvist，2O17；Nystrom，Niehorster,Cormelissen,&Garde,2017)，进一步研究多人合作多目标追踪任务中，究竟哪些信息会促进团队收益的产生，及其与团队中个人所觉察信息的联系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.6拓展研究领域，结合多目标追踪进行情绪和社会功能的评价与训练",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多目标追踪不仅是一个认知任务，同时还受到多种因素的影响。在现实生活中，人们追踪最多的客体之一是他人的面孔，此追踪过程可反映人的社会认知。例如，人们更容易追踪高吸引力的漂亮面孔(Li,Oksama,&Hyonä,2016;Liu&Chen,2012)。在追踪过程中，人们会利用表情信息对面孔分组(雷寰宇，魏柳青，吕创，张学民，闫晓倩，2016)。相比于中性表情面孔，人们对愤怒和恐惧目标面孔的追踪正确率更高；而当分心物为快乐的情绪面孔时，人们对目标面孔的追踪绩效下降 (Jin& Xu,2015;Li,Oksama,Nummenmaa,& Hyonä,2018)。在未来研究中，可赋予追踪目标更丰富更真实的情绪及社会信息，如让儿童在虚拟现实场景中对虚拟人物进行追踪，从而对其进行评价与训练。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总之，目前多目标追踪范式的基础研究已日渐成熟，利用其进行的评价与训练研究正渐入佳境，未来的研究将更加生态化、团体化、科技化和多模态化，涉及更广泛特殊人群的研究可能将反哺于理论，推进相关理论的深入研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "龚然，陈听，岳小祺，肖义然，张禹.(2016).不同运动强度对篮球运动员多目标追踪影响及眼动分析.天津体育学院学报,31(4). 358-363.doi:10.13297/j.cnki.issn1005-0000.2016.04.015   \n胡路明，吕创，张学民，魏柳青．(2018).身份交换对多身份追踪表现的影响．心理学报，50(1)，9-27. doi:10.3724/SP.J.1041.2018.00009   \n胡路明，苏晶，魏柳青，张学民．(2018).多目标追踪中基于运动信息的分组效应．心理学报,50(11)，43-56. doi:10.3724/SP.J.1041.2018.01235   \n姜薇，丰廷宗，潘静，李永娜.(2013).飞行学员多目标追踪任务加工特点的研究.航天医学与医学工程,26(4),269-273 doi:10.3969/j.issn.1004-9436.2014.08.097   \n雷寰宇，魏柳青，吕创，张学民，闫晓倩.(2016).多身份追踪中基于表情特征的分组效应.心理学报,48(2)，141-152. doi:10.3724/SP.J.1041.2016.00141   \n李雪佩.(2017).运动技能水平对多目标追踪能力影响的fMRI研究(硕士学位论文).上海体育学院.   \n吕馨，刘景瑶，魏柳青，张学民.(2019).目标数量与运动框架旋转角度对不同场认知风格个体多目标追踪表现的影响．心理学 报,51(1),24-35.doi:10.3724/SP.J.1041.2019.00024   \n马玉，张学民，张盈利，魏柳青.(2013)．自闭症儿童视觉动态信息的注意加工特点——来自多目标追踪任务的证据.心理发展与 教育,29(6),571-577. doi:10.16187/j.cnki.issn1001-4918.2013.06.001   \n王静，李杰，张禹.(2018).足球运动员在动态追踪任务中的追踪表现和注意分配特点．天津体育学院院报，33(2),139-147. doi:10.13297/j.cnki.issn1005-0000.2018.02.007   \n魏柳青，张学民，刘冰，鲁学明，李迎娣.(2010).多目标视觉追踪的现象、规律和认知加工机制.心理科学进展,18(12),1919-1925.   \n张滨熠，丁锦红.(2010).多目标视觉追踪的认知机制．人类工效学，16(1),53-56.doi:10.3760/cmaj.issn.1674-6554.2010.04.033   \n周成林，刘微娜．(2010)．竞技比赛过程中认知优势现象的诠释与思考．体育科学，30(10)，13-22. doi:10.3969/j.issn.1000-677X.2010.10.002   \nAlen,R.,McGeoe,Parsoe,A..4)oeiseiiprgercing.Adie Psychology,18(3),337-347.doi:10.1002/acp.975   \nAssed,M.M.,&erafim,A.D.P.(O6).MemortriningandbenefitsforqualityoflifeinthelderlyAcasereport.Dementiaand Neuropsychologia,10(2),152-155.doi:10.1590/S1980-5764-2016DN1002012   \nBanduci,S.Edsr.hb.owecski,r.).cll andtext messagecoversatiosonsimulatedstreecrossing.HumanFactors,58(1),5062.doi:0.17/0870609501   \nBarker,K.，Alen，R.，&Mcgeorge,P(2Ol0).Multiple-objecttracking:Enhancedvisuospatialrepresentationsasaresultof experience.Experimental Psychology,57(3),208-214.doi:10.1027/1618-3169/a000026   \nBeaton,E.Atoddad,JceJ.o).ticactbcti multiplebject rackingtaskingirlswithturnersyndrome:Neurocorelatesofreducedspatiotempralresolution.AmericanJournal onIntellectual and Developmental Disabilities,115(2),140-156.doi:10.1352/1944-7558-115.2.140   \nBoot,W.R.,Kramer,A.F,imos,D.J,Fabiani,M.,&Graton,G.(o).Thefectsofvideogameplaingnatenionmor and executive control. Acta Psychol,129(3),387-398.doi:10.1016/j.actpsy.2008.09.005   \nBrodeur,D.A.,Trick,L.M.,Flores,H.,Marr,C.，&Burack,J.A. (2O13).Multiple-objectrackingamongindividualswithdown syndromeandtypicallyevelopingchdren.DevelopmentandPsychopathology,25(2),545-553.doi:10.1017/s95457940   \nCappa,S.F.,eke,Tarke,S.,osi,B.temmerB,&aneugten,C..o).EFideliescoitiverehbin Reportof an EFNS task force.European Journalof Neurology,10(1),11-23doi:10.1046/j.1468-1331.2003.00537.x   \nCasu,G.,Mrtin,.,Keller,M.,&Jncke,L(14).Terelatiobetweenerforanceinroaddingcognitivesregd drivingsimulatorinolderhealthydrivers.TransportationResearchPartF:PsychologyandBehaviour,22(1)，232-244 doi:10.1016/jtrf.2013.12.007   \nCavanagh,P.,lreG.A().racinmlipleargetsilifocaationdsingieSece,9454 doi:10.1016/j.tics.2005.05.009   \nDechurch,L.A.&Mesmermagnus,J.R.(2olo).Theognitivenderpinningsofefectiveteamwork:Ameta-analysis.Joualf AppliedPsychology,95(1),32-53.doi:10.1037/a0017328   \nDobrowolski,Pauz,K.bzyk,,Skorko,.,&Wiatrow,A. (5).ogitieenhancementivideogameplaers:eolef video game genre. Computers in Human Behavior,44(44),59-63.doi:10.1016/j.chb.2014.11.051   \nDprum,E.S.sDfa,Tchad,Gd.J,s,..es,L.T().erelatedc brainetworkactivationandcoactivationduringmultiplejectracking.BainndBhavior6(),Oo3.doi:1./bb53   \nDukic,T.，&Broberg，T.(2O12).Olderdrivers’visualsearchbehviouratintersections.TransportationResearchPartF:afic Psychology and Behaviour,15(4),462-470. doi:10.1016/j.trf.2011.10.001   \nFabri,T.L.,Kdcliyit,ed,N).Ugarc motorandcognitiveperformanceinhealthychildrenandyouth.GaitandPosture,54,154159.doi:10.1016/jgaitpost.2017.03.2   \nFaubert,J.(2O13).Professionalathleteshaveextraordinaryskillsforrapidlylearningcomplexandneutraldynamicvisual scenes.Scientific Reports,3(1). doi:10.1038/srep01154   \nFaubert,J.,&bto,L.().erealotigfetes.ualfcalrtog   \nFranconeri,S,JonatanS.V,&Scimeca,J.M.(0).Tackingmuliplebjectsismitedonlybjectspacing,nots time,or capacity. Psychological Science,21(7),920-925. doi:10.1177/0956797610373935   \nGren，C.S.，&Bavelier，D.(2006).Enumerationversusmultipleobject tracking:Thecaseofactionvideogame players.Cognition,10(1),217245.doi:10.1016/j.cognition.205.10.004   \nHarenberg,S.,ayutz,ot,,owe,,rsh,KLterK.6.Caulipleecttracgdict laparoscopicsurgical skills?.JournalofSurgicalEducation,73(3),386-390.doi:10.1016/j.jsurg.2015.11.013   \nHoke,Jetel,e,bttf Training Effectiveness.InInterservice/Industry Training,Simulation,and Education Conference,Orlando,FL.   \nHuff,M.,Papenmeier,F，&Zacks,J..(22).Visualtargetdtectionisimpairedateventboundaries.VisualCogo0), 848-864.doi:10.1080/13506285.2012.705359   \nJin,H.J.,&Xu,.H(l5).eectofarfulexpreiosoulipefacracing.sologicelgc,55(2)7.   \nJunyentL.Q.APFt,deotG.C)eaegithroct Improve Performance in Three Different Sports.Educació Fisica i Esports,l19(1),97-108.   \nLegault,1,Alard,R,&Faubert,J.(O3).Healthyderbsererssoequivalentperceptualognitietrainingbeneitstoyoung adults for multiple object tracking.Frontiers inPsychology,4(323),1-7.doi:10.3389/fpsyg.2013.00323   \nLegault,I,&aubert,J.(O2).erceptualogtietrainingimprovsoogicalmotioperception:Evidencefortraferabilityf training in healthy aging. Neuroreport,23(8),469-473.doi:10.1097/wnr.0b013e328353e48a   \nLiJ.,Oksa,,).ciaacctsedtiio(), 383-392. doi:10.1111/sjop.12304   \nLi,J.,OksaaL,&n,J.(8).osouplngteeyoeetsdaletiolfrsgdingitit tracking. Journal of Cognitive Psychology,30(5-6),609-626. doi:10.1080/20445911.2018.1476517   \nLi,J,OksaaL,&Hyn,J(19).odelofipledentitracing(0:Resolvngthsals.Paraleotoey in tracking.Cognition,182,260-274.doi:10.1016/j.cognition.2018.10.016   \nLi,J.,Oksama,L,mmeaa,L,&Hyo,J.(18).Angrfcearetrackedoreeasilythanneutralfacsdurigultipleitity tracking. Cognition and Emotion,32(3),464-479. doi:10.1080/02699931.2017.1315929   \nLiu,C.H.&enW.(2).eautyiseersd:fctsofractivessiniplefacetacingQuarterlyualf Experimental Psychology, 65(3),553-564. doi:10.1080/17470218.2011.624186   \nLochner,M.J,&Tick,L.M.(June).AtentonalackingofMutipleVehclesinHighwyrivingScenaioProcdsofte 6th InternationalDivingSymposiumonHumanFactorsinriverAsessment,Training,andVehicleesign,IwaCityCalifoia. https://doi.org/10.17077/drivingassessment.1390   \nLochner,M.J.,&Trick,L.M.(014).Multiplebectrackinghileding:Themultiplevehcletackingtas.Aentionrcetion and Psychophysics,76(8),2326-2345. doi: 10.3758/s13414-014-0694-3   \nLochner,M.J.,&rick,L.M.(O15,June).TheEfectsofTaskLoadandVehicleHeterogeneityonPerformanceintheMultiple-Vehicle TrackingTask.Proceedingsof the8th InternationalDriving Symposiumon Human Factors inDriverAsessment,Training,and Vehicle Design,Salt Lake City, Utah.Iowa City.   \nMahncke,H.WConorB.BApelman,J.hsanudin,O.N.ardyJ.L.,Wood,R.A...erzenich,..().Mer enhancementinhealthylderdultsusingabainplasticity-basedtrainngprogram:Arandomized,controledstudyrocedigof the National Academyof Sciencesof the United StatesofAmerica,103(33),12523-12528.doi:10.1073/pnas.0605194103   \nMakovski,T.,&JiangYV.(O9).Theoleofsualworkingmemoryinatentiverackingofuniqeojects.JournalofExpeetal Psychology: Human Perception and Performance,35(6),1687-1697.doi:10.1037/a0016453   \nMangine,G.aes.JgwkiJ.owdJ.tout..().Vaac isrelatedtobasketbal-specificmeasuresof performance inNBAplayers.JournalofStrengthnd Conditioning Research,28(9) 2406-2414. doi:10.1519/JSC.00000000000050   \nMann,D.T,ills,.rdP&Jaele,C..).rceptaogiieepertiseioret-analyis.Joaf Sport and Exercise Psychology,29(4),457-478. doi:10.1123/jsep.29.4.457   \nMartin,A.,SferA..,DUrsoVilr,M.A,&arra,JF ().PosiinAfftsPefaceinuObjectTaciginRgb Union Players.Frontiers in Psychology,8.doi:10.3389/fpsyg.2017.01494   \nMemmert,D.,imos,D.J,&Gme,T.(o).erelatioshipetweenvisualatntionndexpertiseinorts.ycolofSo and Exercise,10(1),146-151.doi:10.1016/j.psychsport.2008.06.002   \nMichaels,,ri,tabhleFbJ..iat andmeasurestofaithfullyevaluateiskydrivingbehavior:Acomparativestudyofdifferentdriveragegroups.PlosOne,(10) e0185909.doi:10.1371/jourmal.pone.0185909   \nNovack,T.A.,&Johstoe,B.(1998).Addressingacontiuumofrecoveryafteracquredbrainijury.JournaloftheIntetional Neuropsychological Society Jins,4(4),409.   \nNiehorster,Deleog,,olistK).acgihdisechrJalofVi.   \nNystrom，M.，Niehorster，D.C.，Cornelissn，T.，&Garde，H.(2017).Rea-timesharingofgazedatabetweenmultipleeye trackers-evaluation,tols,andadvice.BehaviorResearch Methds,49(4),1310-1322.doi:10.3758/s13428-016-0806-1   \nOei,A.C.,&Paterson,M.D.(O13).Enhancingcognitionwithvieogames:Amultiplegametrainingstudy.PlosOne,8(3),58546 doi:10.1371/journal.pone.0058546   \nOHearn,K.,,&fan,J.E.).ipleectcingilehillsdoeialle children. Psychological Science,16(11),905-912. doi:10.111/j.1467-9280.2005.01635.x   \nOksama,L.&Hyona,J.(2o4).multiplebjectrackingcarriedoutautomaticallybyanarlyisionmechanismindependentof higher-orderognitio?Anididualdirenceappoach.VisualCognition,(),63671.doi:10.08/3506803440047   \nOksama,L.&Hyon,J.(Oo8).DamicbindingofidentityandlocatioinformationAseralodelofmultipledentitytracking CognitivePsychology,56(4),237-283.doi:10.1016/j.cogpsych.2007.03.001   \nOslund,K.R,ulln,H,owasi,K&rstie,B.).elatiseengdevicstrddotiie assessment. British Journal of Sports Medicine,51(11),A9.2-A10.   \nParsons,B.,Magil,T，Boucher,A.,Zhang,M.,Zogbo,K.，Berube,S..Faubert,J. （204).Enhancingcognitivefunctionusing perceptual-cognitive training. Clinical EEG and Neuroscience,47(1),37-47.doi:10.1177/1550059414563746   \nPlourde,M.,Corbeil,M.E.,&Faubert,J. (2O17).Efectofageandstereopsisonamultiple-objecttrackingtask.PlosOne,(12): e0188373.   \nPylyshyn,Z.W. (2ooo).Situating vision in the world.Trends inCognitive Sciences,4(5),197-207.   \nPylyshyn，Z.W.(2001).Visualindexes，Preconceptualobjects，Andsituatedvision.Cognition,80(1-2)，127-158. doi:10.1016/s0010-0277(00)00156-6   \nPylyshn,Z.W.(o4).Somepuzlingfindingsinmultipleobjecttracking:ITackingwitoutkeeping trackofbjectidentitis.Visual Cognition,11(7),801-822.doi:10.1080/13506280344000518   \nPylyshyn,Z.W.).Someplingdins inultipleetracing:IbofoinotargetsVisualCogio(), 175-198.doi:10.1080/13506280544000200   \nPylyshyn,Z.W.,&Stor,R.W. (198).ackingmultipleindependenttargets:Evidenceforaparaleltrackingmechanism.Spatial Vision,3(3),179-197.doi:10.1163/156856888x00122   \nRahimian,P.,OealE.E,ou,S.,mrt,J,KaryJ.K.).aingecle-toedean(cati technology:Sending traffic warings totexting pedestrians.HumanFactors,60(6),833-843.doi:10.117/0018720818781365   \nRichards,E.Benet,J,&kuler,A.B.(O6).Agerelatedderencesinleainwithteusefuleldofview.VisionResech 46(25),4217-4231. doi:10.1016/j.visres.2006.08.011   \nRomeas,T.,Guldner,A.,&Faubert,J.(016).3D-multiplebectrackingtraiingskimprovespassingdecisio-makingaacyn soccer players.Psychologyof Sport and Exercise,22,1-9.doi:10.1016/j.psychsport.2015.06.002   \nRomoser,M.R.E.,Polltsek,A.,Fisher,D.L.&WilliamsC.C.(23).Comparingtheglancepaternsofderversusyounger experienced drivers:Scaningfor hazards whileapproachingand enteringthe intersection. TransportationResearch PartF:Traffic Psychologyand Behaviour,16(16),104-116.doi:10.1016/jtrf.2012.08.004   \nScholl,.J.l,Wdan,J.)atisalect:Edeefroareriiobectacg Cognition,80(1-2),159-177.doi:10.1016/s0010-0277(00)00157-8   \nScimeca,JM.,&Faconeri,.L.(5).electingandtrackingmultiplejects.WileyterdisciplinarReviews:CogieSciece, 6(2),109-118. doi:10.1002/wcs.1328   \nThompson,TW,GabrieiJ.D,&varz,G.A.().Adaptivetraininginultipleecttrackingexpandsaeioalpacit Journal of Vision,10(7), 308.   \nThomas，L.E.，&Seifert，A.E.(2010).Self-motionimpairsmultiple-objecttracking.Cognition，Il7(1)，80-86. doi:10.1016/j.cognition.2010.07.002   \nThomas,L.E.,&Seifert,A.E.(2O).HowManyObjectsareYou Worth?QuantficationofteSelf-MotionLoadonMultipleObject Tracking.FrontinPsychology,2,245.doi:10.3389/fpsyg.2011.00245   \nTinjust,D.Allrd,R&Fubert,J.(o8).Ipactoftereooicvisionand3epresetatioofsualspaceonleect tracking performance. Journal of Vision,8(6), 509.   \nTrick,L.M.，Jaspers-Fayer,F，&Sethi，N.(2Oo5).Multiple-bjecttrackinginchildren:The“catchthespies”task.Cognitive Development,20(3),373-387.doi:10.1016/j.cogdev.2005.05.009   \nTrick,L.M.,rthH,reD.A.).etcincostes:Dtfctoote diminished performance in diferent age groups? Computation,cognition,and Pylyshyn,79-99.   \nTulo,D.,Fubtto,A).elsfetioalsoccrosdeeloetalgos:thdsial multiple objecttracking study. Journal of Vision,15(12),463.   \nTulo,D.,Guy,JFaubert,J,&Bertone,A.(18).Trainngithathee-dimesionalmuipleject-tracking(D-Oradig improvesatentioninstudentswithaneurodevelopmentalcondition:Arandomizedcontroledtrial.Developmentalcience,2(6), e12670. doi:10.111/desc.12670   \nVanMarle,K.,&choll,.J. (203).Atentive trackingofjectsv.substances.Psychological Sience,14(5),49504.   \nVartanian,O.Coady,L&ackler,K.Ol6).Dultiplejecttrackingboostsworkingmemorypan:Implicatiosforoie training in military populations.Military Psychology,28(5),353-360.doi:10.1037/mil0000125   \nVoss,M.W.,rar.,sak,Ckash.S.,obrts,.().reeptthletes‘xprtinoitielboa meta-analyticreviewofcognitionandsportexpertise.AppliedCognitivePschology,24(6),812-826.doi:10.10/acp1588   \nWahn,B.,Kingstoe,KnigP(7).Toaceeehoe:Iforiobotteactoscsdfoc scorescontributetotecoectiveenitijointvisospatialtask.FrontersinPschology8,669.d089/fsyg09   \nWoods-Fry,Hto.,.Fbtd,a.ioe Tracking Speed ThresholdsareAssociated with Measures of SimulatedDriving Performance inOlder Drivers.Procedingsof the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The application of multiple object tracking in the evaluation and training of different populations ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LI Taian'; ZHANG Yu1; LI Jie2, 1 ( SchoolofPsychology,Beijing Sport University,Beijing 0o084,China)(Institutes of Psychological Sciences, Hangzhou Normal University, Hangzhou 311121,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Multiple Object Tracking (MOT) is mainly used to explore visual attention and memory for multiple objects in dynamic contexts.Earlier studies focused on the influencing factors and processing mechanisms of the tracking process. An increasing number of recent studies have used MOT to evaluate and train different populations,including children,the elderly, patients with neurodevelopmental conditions,drivers,athletes，video game players,and other occupational groups. In general, a trend has emerged whereby the better the performance of MOT, the better the professional performance in complex and fast dynamic contexts. Conversely, poorer performance of MOT indicates that cognitive functioning may be immature or declining. In addition, MOT can also be used as a means of cognitive training to improve the cognitive function of the elderly and patients with neurodevelopmental conditions and improve the professional performance of various occupational groups. MOT should be considered for future use as it has enormous potential as a method of evaluation and training. This can be further improved in various ways， including strengthening the simulated training of special occupational groups, expanding the target populations, combining MOT with stereoscopic vision and real scenes, taking physical activities during MOT, exploring MOT with multi-person cooperation, and using MOT for the evaluation and training of emotional and social functions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: Multiple Object Tracking; psychological evaluation; cognitive training; attention ",
+        "page_idx": 12
+    }
+]

@@ -1,0 +1,553 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201605281028 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柳获，胡振通，靳乐山.生态保护补偿的分析框架研究综述.生态学报,2018,38(2）：380-392.  \nLiu D,Hu ZT,JinLS.Reviewonanalytical frameworkofeco-compensation.Acta Ecologica Sinica,2O18,38(2):80-392.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的分析框架研究综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柳荻¹，胡振通²，靳乐山1,3，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国农业大学人文与发展学院，北京100193  \n2 清华大学中国农村研究院，北京100084  \n3中国生态补偿政策研究中心,北京100193",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生态保护补偿作为一种让生态系统服务的提供者愿意提供那些具有外部性或者公共物品属性的生态系统服务的激励机制而备受世界关注。系统梳理生态保护补偿的国际研究进展,对于完善中国的生态保护补偿制度建设和推进中国的生态保护补偿实践具有重要的借鉴意义。简要介绍了生态保护补偿的概念、基本思想和特性,然后详细阐述了生态保护补偿分析框架中的核心问题的研究进展,包括生态保护补偿的主体、生态保护补偿的客体、生态保护补偿的标准、生态保护补偿的条件性、生态保护补偿的效率以及生态保护补偿和缓减贫困的关系等,最后总结了国际生态保护补偿研究对于完善中国的生态保护补偿制度建设的启示。未来中国的生态保护补偿研究应该关注的关键问题有：促使私营部门增加在生态系统服务的投资,揭示生态系统服务形成和供给机制,完善生态保护补偿标准的制定,确保生态保护补偿的条件性,做好生态保护补偿的基线和瞄准,研究生态保护补偿对缓减贫困的影响等。 >",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态保护补偿;生态补偿；态系统服务付费；环境服务付费",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review on analytical framework of eco-compensation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU $\\mathrm { D i } ^ { 1 }$ ，HU Zhentong²， JIN Leshan1,3, \\*   \n1 College of Humanities and Development Studies，ChinaAgricultural University，Beijing 1Oo193，China   \n2China Institutefor Rural Studies，Tsinghua University,Beijing 1OOo84，China   \n3 China Eco-compensation Policy Research Centre，Beijing 10o193，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Eco-compensation hasatracted increasing interest asa mechanism to translate external,non-market valueof the environmentintorealfinancialincentives forlocalactors toprovideenvironmental services.Aninternationalreviewof ecocompensation，therefore，is essential to perfect institutionconstructionand toimprove the practice of China'secocompensation.Thispaper begins with a brief introduction of eco-compensation，namely itsdefinition，its basic logic，and someof its keyfeatures.Wethen proceed toreview somecore isses intheanalytical framework ofeco-compensation，such as subject，object，rates，conditionality，eficiency，andtherelationshipbetween eco-compensationand povertyallviation. Finally，weconclude bysuggesting howtoimprove institutionconstructionof China'seco-compensationusing inteational practice and lessons.In order to improve eco-compensation mechanism in China，efforts should focus on providing entry points for private sector investment inthe environment，revealing the mechanismof ecosystemservices’formationand its supply，establishingthe gauge of eco-compensation rates，ensuring the conditionality of eco-compensation，seting up baseline and targeting，and finally，studying how eco-compensation contributes to the poverty allviation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "environmental services ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为生态文明建设的重要制度保障,生态保护补偿在中国被视为保护生态环境、平衡上下游利益关系、贯彻《全国主体功能区规划》的新的政策工具。从205年《关于制定国民经济和社会发展第十一个五年规划的建议》首次提出“按照谁开发谁保护、谁受益谁补偿的原则,加快建立生态补偿机制”以来,国务院每年都将生态保护补偿机制建设列为年度工作要点。最近十年,生态保护补偿的研究和实践在中国获得了快速的增长，从最初的通过污染者付费实现外部成本内部化,到既包括通过污染者付费实现外部成本内部化又包括通过受益者付费实现外部经济内部化，到更加侧重通过受益者付费实现外部经济内部化,到只包括通过受益者付费实现外部经济内部化的演变过程,“生态补偿”的概念在2016年变更为“生态保护补偿”。2016年5月,国务院办公厅发布《关于健全生态保护补偿机制的意见》,指出“到 2020 年,实现森林、草原、湿地、荒漠、海洋、水流、耕地等重点领域和禁止开发区域、重点生态功能区等重要区域生态保护补偿全覆盖\"。生态保护补偿的顶层设计获得重大进展。 ?",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿,国际上通常称之为生态系统服务付费(Payments for Ecosystem Services 或者Payments forEnvironmental Services,PES）,作为一种让生态系统服务的提供者愿意提供那些具有外部性或者公共物品属性的生态系统服务的激励机制,在20世纪90年代受到了国际上尤其是发达国家学术界和发展领域的高度关注。无论是理论研究层面,还是实践进展层面,生态保护补偿的国外研究都要领先于中国。系统梳理生态保护补偿的国际研究进展,对于完善中国的生态保护补偿制度建设和推进中国的生态保护补偿实践具有重要的借鉴意义。本文首先简要介绍生态保护补偿的概念、基本思想和特性,然后详细阐述生态保护补偿分析框架中的核心问题的研究进展,最后总结国际生态保护补偿研究对于完善中国的生态保护补偿制度建设的启示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1生态保护补偿的概念、基本思想、特性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1概念 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最早且最有影响力的生态保护补偿定义来自国际林业研究中心（CIFOR)的Wunder在 2005 年给出的定义：“生态保护补偿是一种自愿的交易行为;生态系统服务能够被很好地界定,或者由某种特定的土地利用方式来确保生态系统服务的产生;至少有一个生态系统服务的购买者;至少有一个生态系统服务的提供者;只有生态系统服务的提供者提供了生态系统服务才付费（条件性)”[1]。这个定义通常被附加“基于科斯定理的”“私人的”“使用者支付类型的\"等标签,并且国际上广泛实施的生态保护补偿项目多数是政府支付类型的,现实中的生态保护补偿项目很难严格满足该定义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从2005 年到2015年之间,学术界对生态保护补偿的概念进行了广泛而又深入的探讨。Van Noordwijk 等认为生态保护补偿应该满足现实性、自愿性、条件性和有利于穷人4个特性[2]。Sommerville 等认为生态保护补偿是一种对生态系统服务的提供者进行的有条件的正向激励,它的成功实施需要考虑额外性和多样的制度环境[3]。Muradian 等给出了生态保护补偿的宽泛定义,认为生态保护补偿是一种社会成员之间的资源转移，目的是在自然资源管理中形成一种激励,促使个人或者集体采取符合社会利益的土地利用决策[4]。Tacconi认为生态保护补偿是一项通过向自愿参与的生态系统服务的提供者进行有条件的付费来获得额外的生态系统服务供给的透明的制度,应该满足透明性、自愿性、条件性和额外性四个特性[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015 年,Wunder[6]对生态保护补偿的定义进行了回顾,并对生态保护补偿的定义进行了修订。修订后的生态保护补偿定义是：“生态保护补偿是一种生态系统服务使用者和生态系统服务提供者之间的自愿交易，基于双方协定的自然资源管理规定而产生被补偿的生态系统服务,进行有条件的付费”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着生态保护补偿国际理念的发展与应用，生态保护补偿逐步受到国内决策者和研究者的重视。早期的生态保护补偿的概念是对生态环境破坏者的惩罚性措施，从征收生态环境补偿费的角度进行定义,将生态保护补偿视为一种减少生态环境损害的经济刺激手段[7]。随着社会经济的发展,生态保护补偿的内涵发生了拓展,由单纯针对生态环境破坏者的收费,拓展到对生态服务提供者(或生态环境保护者)的补贴[8]。李文华等人认为\"生态保护补偿是一种以保护生态服务功能、促进人与自然和谐相处为目的,根据生态系统服务价值、生态保护成本、发展机会成本,运用财政、税收、市场等手段,调节生态保护者、受益者和破坏者经济利益关系的制度安排”9]。经过十几年的发展,生态保护补偿的概念实现了从最初的通过污染者付费实现外部成本内部化,到既包括通过污染者付费实现外部成本内部化又包括通过受益者付费实现外部经济内部化,到更加侧重通过受益者付费实现外部经济内部化,到只包括通过受益者付费实现外部经济内部化的演变过程。（",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然不同学者对生态保护补偿的定义存在一定的差异,但是有一点是基本一致的,生态保护补偿是一种激励机制而不是惩罚机制,遵循\"受益者付费原则”,而不是“污染者付费原则”。虽然世界范围内很多生态保护补偿案例并不符合Wunder对生态保护补偿的定义所列举的标准,但是Wunder对生态保护补偿的定义仍然被学术界认为是生态保护补偿的主流定义。 2",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 基本思想",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的经济学理论基础是基本统一的,在资源和环境领域,因为存在外部性而难以实现最优管理,生态保护补偿是一种外部性内部化的手段,用以解决资源环境领域的外部性问题。外部性的后果是市场无效率,难以实现资源的优化配置。外部性的解决有两大思路，一是借助市场机制，二是实行政府管制。借助市场机制是科斯定理的具体应用,科斯定理指出,“当交易费用为零时,只要初始产权界定清晰,并允许经济当事人进行谈判交易,那么无论初始产权如何界定,都可以实现资源的有效配置”,存在交易费用和产权界定不清是外部性产生的重要原因,也是科斯定理在具体应用中面临的两大阻碍[0]。生态保护补偿正是科斯定理的具体应用。 >",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dec3992399b52094d55723304f592674495956d7848abdd99f00e581a7b13e51.jpg",
+        "img_caption": [
+            "图1生态保护补偿的基本逻辑",
+            "Fig.1Basic logic of eco-compensation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1显示了生态保护补偿的基本逻辑[11]。森林生态系统的管理者通常在森林保护中只能获得少量的收益,当把森林砍伐后转变为农田或者草地时,他们可以获得更多的收益。森林砍伐会使得下游的居民在水质净化方面的生态系统服务减少和全球层面生物多样性和碳汇功能的下降。通过生态保护补偿,生态系统的管理者将得到补偿,森林保护的收益将大于森林转化为农田或者草地的收益,使得森林保护成为生态系统管理者的最佳选择。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3特性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的机制设计和有效实施包含了一些重要的特性。综合考虑不同学者对生态保护补偿的定义,生态保护补偿存在3个重要的特性,分别是条件性（conditionality）、自愿性（voluntariness）、额外性（additionality）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“条件性”是指“只有生态系统服务的提供者提供了生态系统服务或者采取了特定的土地利用方式或者采取了协定的自然资源管理规定才付费”。Wunder认为条件性是生态保护补偿的最重要的特性[6]。当生态",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "保护补偿项目的实施缺乏条件性时,生态系统服务的提供者是否采取了特定的土地利用方式而提供了相应的生态系统服务就会不得而知。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“自愿性”是指“自愿参与,生态系统服务的提供者愿意采取特定的土地利用方式,生态系统服务的使用者愿意付费”。当生态保护补偿项目的实施缺乏自愿性时,生态保护补偿项目的实施就会遇到阻碍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“额外性”是指“通过付费所购买的生态系统服务”。当生态保护补偿项目的实施缺乏额外性时,生态保护补偿项目的效率是很低的,通俗地讲,就是花了钱却什么都没有得到。额外性也是评估生态保护补偿项目效率的重要指标。 2",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2生态保护补偿的分析框架",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "纵观国际上生态保护补偿或者生态系统服务付费的研究,生态保护补偿的分析框架,包括生态保护补偿的主体、生态保护补偿的客体、生态保护补偿的标准、生态保护补偿的条件性、生态保护补偿的效率以及生态保护补偿和缓减贫困的关系等。其中生态保护补偿的主体和客体是生态保护补偿的基本组成部分,生态保护补偿的标准和条件性是生态保护补偿的核心问题、难点问题、重要特性;生态保护补偿的效率以及生态保护补偿和缓解贫困的关系是生态保护补偿的后评估。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 生态保护补偿的主体",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿主体包括生态保护补偿的卖方和生态保护补偿的买方",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的卖方是生态系统服务的提供者,由于不同的土地利用方式会影响生态系统服务的供给，因此生态保护补偿的潜在卖方是土地所有者[11]。国际上大多数的生态保护补偿项目的卖方是私人土地所有者。有的生态保护补偿项目涉及保护区等公共土地,政府作为公共土地的所有者也可以是生态保护补偿项目的卖方。在一些生态保护补偿项目中,土地属于集体产权,社区具有管理和使用土地的权利,因此社区也可以是生态保护补偿的集体卖方。不管生态保护补偿的卖方是私人土地所有者还是政府或者集体土地所有者,生态保护补偿项目意在寻求成本最低的生态系统服务提供者[11]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的买方既可能是生态系统服务的使用者也可能是代表生态系统服务使用者的第三方（如政府、NGO等）,Engel 等将前者称为“使用者补偿”,后者称为“政府补偿”[11]。Pagiola 和Platais 认为“使用者补偿”通常比“政府补偿”更加有效率,因为生态系统服务的使用者具有更多的生态系统服务价值的信息，具有动机去监督生态保护补偿项目的有效运行,能够直接观察生态系统服务能否被有效提供,而且在必要的情况下可以就补偿协议进行终止或者再协商[12]。Engel 等认为“政府补偿”通常比“使用者补偿”更加成本有效,因为生态系统服务属于公共物品,随着生态系统服务的使用者的数量增加,交易费用和搭便车的动机在增加,而“政府补偿\"具有交易费用的规模效应和能够克服使用者搭便车的问题。Wunder等对13个来自不同国家的生态保护补偿典型案例进行了比较分析得出，“使用者补偿”比“政府补偿”更加有效率,但通常是小范围的,随着范围的增加,交易费用不断上升,因为交易费用存在规模效应,所以“政府补偿”比“使用者补偿”更加成本有效,但通常是大范围的[13]。从实践中看,大多数的来自发达国家和发展中国家的生态保护补偿项目都是大规模的“政府补偿”[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2生态保护补偿的客体",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿需要基于特定的活动类型或者特定的生态系统服务的供给来进行补偿。生态保护补偿的客体是活动类型和生态系统服务。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "活动类型是指特定的土地利用方式或者协定的自然资源管理规定,用来确保生态系统服务的产生。在生态保护补偿实践中,活动类型既可以是基于一种既定的事实,促进土地利用方式的转变来增加生态系统服务的供给,例如在森林已经被砍伐的地区重新造林;也可以是基于生态系统服务损失的风险,避免土地利用方式的转变而减少生态系统服务的供给，例如保护森林以防止森林被砍伐。通常情况下,对改变土地利用的补偿标准要高于保持土地利用的补偿标准[1]。从监管的难易程度看,有些活动类型是能够被清晰地监管的,例如退耕还林;有些活动类型是不能够被清晰地监管的,如改进农业管理实践中的养分管理、有机农业等[15-16]。Porras 等在对发展中国家的流域生态保护补偿案例的汇总研究中,将活动类型分为4种类型,分别是改进土地的管理实践、重新造林、保护现有的生态系统、修复退化的生态系统[17-18]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务是由特定的土地利用方式或者协定的自然资源管理规定而产生。生态系统服务,按照联合国《千年生态系统评估报告》,包括四大类,即供给服务、调节服务、文化服务以及支持服务。在生态保护补偿项目中,关注较多的生态系统服务是生物多样性、碳汇、流域保护等[19]。生态系统服务的概念有存量和流量之分,在生态保护补偿中,生态系统服务是一个流量的概念,并且是“流量的增量”的概念,因为活动类型（两种状态之间的变化)而产生的生态系统服务的增量。生态系统服务的表现形式有3个，一是生态系统服务物理量,二是生态系统服务价值量,三是生态系统服务指数。生态系统具有复杂性,认识和管理生态系统服务需要有可靠的生态学基础,包括识别生态系统服务的重要提供者、确定生态系统服务提供的关键影响因素、测量生态系统服务提供的时空分布等[20-21]。由于生态系统服务的公共物品属性和信息不完全等原因,生态系统服务的价值化很难有规范统一的估算方法[21-23],不同类型的生态系统服务会采取不同的价值估算方法,相同类型的生态系统服务也可以采取不同的价值估算方法,且估算结果往往不能直接比较[24]。实践中,很多生态保护补偿项目中设计了生态系统服务指数来代表生态系统服务,例如尼加拉瓜的“生态系统服务指数”（ESI)[25],美国的“环境效益指数”（EBI）[26]。不过生态系统服务指数能否准确地代表生态系统服务存在不C同的认识,Zabel和Roe 指出生态系统服务指数对生态系统服务存在扭曲[27]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "活动类型和生态系统服务之间的因果关联存在不确定性,即特定的土地利用方式是否产生了相应的生态系统服务是需要做后评估的。土地利用变化对环境服务的影响主要通过三种途径,分别是改变生物多样性、改变生态系统过程和改变生境[28]。土地利用变化和环境服务的供给之间的关系存在不确定性,使得生态保护补偿效率的评估变得困难,揭示生态系统服务形成和供给机制是生态保护补偿的科学基础[17]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3生态保护补偿的标准",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的标准将论述两个重要问题，一是生态保护补偿标准的核算方法,即生态保护补偿标准确定的依据,二是生态保护补偿标准的差别化,即生态保护补偿标准的差别化的依据和影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 核算方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿标准是生态保护补偿研究中的核心问题和难点问题。通常情况下,生态保护补偿标准要大于生态系统服务提供者的机会成本,小于生态系统服务对受益者的价值。理论上,为了建立生态保护补偿机制,只有机会成本小于生态系统服务价值,存在福利改善的空间,才能进一步构建生态保护补偿机制,机会成本和生态系统服务价值构成生态保护补偿标准的合理区间。生态保护补偿标准如果小于机会成本,生态系统管理者不愿意改变已有的土地利用方式。生态保护补偿标准如果大于生态系统服务价值,生态系统服务的受益者不愿意支付这 $$ 生态保护补偿费用。只有当生态保护补偿标准介于二者之间时,生态系统服务的买方和卖方才有可能通过协商达成一致,构建生态保护补偿机制。机会成本是生态保护补偿标准的理论下限值,生态系统服务价值是生态保护补偿标准的理论上限值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态系统服务价值评估一直是资源环境领域的一个难点问题,由于生态系统本身的复杂性和经济学方法的局限性,尚没有一个成熟的估算方法,估算结果往往很大,不同的估算方法得出的结果的差异往往也很大，很难具有实际操作意义。学术界的一般观点是：生态系统服务价值可以作为生态保护补偿标准的理论上限，而不作为现实的生态保护补偿标准,现实的生态保护补偿标准,普遍接受的补偿水平以机会成本为主[1,29-32]。国内的退耕还林项目和草原生态保护补助奖励政策,美国的保护性休耕项目（CRP）和环境质量激励项目（EQIP）[26.33],以及哥斯达黎加、尼加拉瓜等国的生态保护补偿项目[25.34],都主要以机会成本作为生态保护补偿标准制定的依据。机会成本法被广泛应用于森林、流域、草原等生态保护补偿领域。李晓光等应用机会成本法估算海南中部山区森林保护的总机会成本为2.37亿元[35]。秦艳红等运用机会成本法估算陕西省吴起县的退耕还林补偿标准为900元每亩每年[36]。段靖等构建了流域生态保护补偿直接成本核算的一般性框架与方法,提出了基于分类核算的机会成本计算方法[37]。胡振通等运用机会成本法对禁牧补助标准进行了估算[38]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 差别化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于不同地区自然条件、社会经济状况存在差异性,生态保护补偿标准单一会产生过度补偿和补偿不足的问题,有必要分地区实行差别化的补偿标准[3943]。国内很多关于退耕还林（草)政策的研究均指出,不能实行一刀切政策,必须遵循自然条件、社会经济区域差异性的客观规律,根据机会成本的差异实施差别补偿[4,45]。大规模的政府支付类型的生态保护补偿项目,尤其有必要就生态保护补偿标准的差别化进行深人探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "机会成本的异质性和生态系统服务的异质性是实施补偿标准差别化的基础。机会成本的异质性,跟地理位置、人口结构、家庭规模、社会经济状况等相关。Kosoy 等提出估算机会成本的3个代理变量,分别是生态系统服务提供者从事农业的净收益、生态系统服务提供者的主观受偿意愿、土地租金[46]。生态系统服务的异质性,跟地理位置、自然条件等相关。在实际操作中,仅仅为了排序或者区分不同地区的生态系统服务的差别,并不一定需要知道生态系统服务的具体价值,可以采用生态系统服务指数进行评估,例如尼加拉瓜的“生态系统服务指数”（ESI)[25],美国的“环境效益指数”（EBI)[26]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "差别化的补偿标准能够显著地提升生态保护补偿的效率。Wunscher等通过对哥斯达黎加的森林生态系统服务项目(PSA)的研究指出,没有考虑项目参与者的异质性会影响生态保护补偿的效率,将项目参与者的机会成本、直接保护成本纳人项目选择会显著地提升生态保护补偿的效率[47]。美国的保护性休耕项目(CRP)在1990年由统一的固定付费模式转变为通过竞争性投标(又称为反向拍卖)的方式来选择项目参与者,提高了每单位支付所获取的生态系统服务[26]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "无差别化的补偿标准公开透明、容易操作,差别化的补偿标准能够提升生态保护补偿的效率,但补偿标准在多大程度上差别化需要综合考虑差别化带来的效率改进和信息收集成本的增加。信息收集成本需要考虑生态系统服务的提供者和使用者之间的信息不对称问题。信息不对称是指,生态系统服务的提供者就生态系统服务提供的机会成本比生态系统服务的使用者有信息优势。信息不对称会产生两种影响，一是生态系统服务的提供者存在隐瞒信息而获取信息租金的激励,使得补偿标准偏高,二是生态系统服务的提供者存在隐瞒行为的道德风险,使得监管存在困难[48]。对于如何降低信息租金,Ferraro 认为存在3种方法,分别是收集与机会成本相关的信息、使用筛选合约揭示农户类型、竞争性投标[48]。第一种方法在于生态系统服务的使用者收集生态系统服务提供者的机会成本的信息,第二、三种方法在于通过一定的机制设计让生态系统服务提供者主动表达机会成本。 $\\bigcirc$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4生态保护补偿的条件性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的条件性是指“只有生态系统服务的提供者提供了生态系统服务或者采取了特定的土地利用方式或者采取了协定的自然资源管理规定才付费”[6]。条件性是生态保护补偿最重要的特性,生态保护补偿项目在实施中是否满足条件性,直接影响生态保护补偿项目的效率。生态保护补偿的条件性的研究，可以细分为3个问题:1)生态保护补偿项目的实施在多大程度上满足了条件性;2)生态保护补偿的条件性是基于生态系统服务的支付还是基于活动类型的支付;3)生态保护补偿的条件性的监督管理权应该如何分配。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿项目的实施在多大程度上满足了条件性？很多发展中国家的生态保护补偿项目都没有满足条件性。Wunder通过对玻利维亚和越南的生态保护补偿项目的研究,指出很多生态保护补偿项目缺乏有效的监管,甚至没有监管,付费仅仅是一种善意的给予,而不取决于生态系统服务的供给[49]。条件性的实现跟监管技术和监管成本相关,监管技术落后,监管成本高,条件性的实现相对困难。条件性的实现还跟自愿性相关,生态保护补偿项目的实施缺乏自愿性时,例如存在补偿不足的问题,生态系统服务的提供者可能会不遵守协定的自然资源管理规定[6,17]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的条件性可以分为基于生态系统服务的支付(又称为基于产出的支付、基于绩效的支付)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "和基于活动类型的支付(又称为基于投入的支付)两种类型。基于生态系统服务的支付,需要核实生态系统服务的存在,并建立基线来衡量生态系统服务的额外性[11],需要理解活动类型和生态系统服务之间的因果关联,了解生态系统服务的空间分布,寻找能够识别和监测、简化但能精确衡量生态系统服务的指数[50],借助指数来量化生态系统服务产出,根据指数表现来进行支付。Zabel和Roe认为基于生态系统服务的支付的优点在于,属于生态系统服务的直接激励,能够充分挖掘生态系统服务提供者在生态系统服务提供方面的经验和知识,为生态系统服务的供给留有创新的空间[27]。而 Engel 等却认为,由于生态系统服务提供者并不清楚生态系统服务提供的水平,从而妨碍了生态系统服务提供者恰当地管理他们的土地[]。Zabel 和 Roe 指出,基于生态系统服务的支付需要注意两个问题：一是生态系统服务生产存在不确定性,生态系统服务生产是人类活动和自然因素的共同结果;二是生态系统服务指数对生态系统服务存在扭曲,生态系统服务指数很难完全代表生态系统服务[27]。因为存在生态系统服务生产的不确定性,当实施基于生态系统服务的支付时,生态系统服务提供者需要承担生态系统服务生产的自然风险,如果生态系统服务提供者属于风险规避型,将会拾高生态保护补偿标准,影响生态保护补偿的财务效率[51]。如果存在具体的活动类型,是目标生态系统服务生产所需的,且能够清晰地被生态系统服务的使用者或者监管者所认识,那么基于活动类型的支付并不会产生过高的监管成本,能够提高生态保护补偿的财务效率。实践中,已有的大多数生态保护补偿项目都是基于活动类型进行支付[17,51-52]。因为存在生态系统服务提供者和生态系统服务使用者之间的信息不对称,所以基于活动类型的支付,相比于基于生态系统服务的支付,将大幅增加监管成本,需要监管生态系统服务提供者是否按照合约的规定采取了特定的土地利用方式,监管特定的土地利用方式是否产生了预期的生态系统服务[11]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的条件性的监督管理权应该如何分配？一些研究表明,相比于生态系统服务的使用者直接行使监督管理权,将监督管理权下放至本地组织,如社区和家庭，并提供相应的经济补贴,能够充分利用本地的文化、习俗、社会关系等非正式制度,以达到激励和约束的作用,保证合约更好的履行[53-54]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5生态保护补偿的效率",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的目标是通过补偿来购买生态系统服务,衡量生态保护补偿效率的指标通常有两个，一是额外性,二是成本有效性,又可以称为财务效率。额外性是指通过付费所购买的生态系统服务,也就是因生态保护补偿干预而产生的生态系统服务。成本有效性是指在给定的预算约束下所能获得的生态系统服务,即每单位支付所获取的生态系统服务。两个指标之间存在一致性,在一定的预算约束下,追求尽可能多的额外性，也就是追求每单位支付的最大生态系统服务。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基线是测度生态保护补偿额外性的基础,瞄准有助于提升生态保护补偿的效率。下面分别来介绍评估生态保护补偿效率的3个重要方面,基线、额外性、瞄准。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5.1 基线",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的基线是测度生态保护补偿额外性的基础。生态保护补偿的基线是指一个地区在未进行生态保护补偿项目干预下的生态系统服务供给情况。只有建立生态保护补偿基线,才能比较生态保护补偿干预前后,因生态保护补偿干预而产生的生态系统服务的多少，即额外性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wunder提出了3种不同的生态保护补偿基线,分别是静态基线、动态下降基线、动态上升基线。以森林生态保护补偿为例,如果该地区森林生态系统服务保持恒定,那么应该采取静态基线;如果该地区森林生态系统服务逐步好转,例如在没有干预的情况下,森林覆盖率也会不断恢复,那么应该采取动态上升基线;如果该地区森林生态系统服务逐步变差,例如森林砍伐普遍而导致森林覆盖率逐年下降,那么应该采取动态下降基线。基线的合理选择对生态保护补偿效率的评估至关重要。如果合理的基线选择是动态上升的基线,而实际选择了静态基线或者动态下降的基线,那么会高估额外性。如果合理的基线选择是动态下降的基线,而实际选择了静态基线或者动态上升的基线,那么会低估额外性[1,49]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "很多学者对生态保护补偿基线进行了深入探讨和研究。Ribaudo 和 Savage 对美国的点源和非点源的水质交易项目进行了研究,指出生态保护补偿项目应该尽量排除属于缺乏额外性的参与者,由于养分管理等农业管理实践很难被监管者清晰地观察,同时存在农民和监管者之间的信息不对称,如何建立严格的基线来排除缺乏额外性的参与者是项目成功实施的关键[16]。Virah-Sawmy等对REDD $+$ 森林生态保护补偿项目中的基线进行了研究,在传统的两种基线(线性趋势基线、历史平均基线)的基础上,提出了指数平滑基线,通过比较3种基线发现,指数平滑基线能够提升REDD $^ +$ 森林生态保护补偿项目的效率[55]。随着技术的发展,当前可以采用卫星遥感数据进行基线评估[34]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.2 额外性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的额外性是指通过补偿所购买的生态系统服务,也就是因生态保护补偿干预而产生的生态系统服务。Pagiola在2005年提出了一个生态保护补偿效率的分析框架（如图2所示)[56]。图中,横轴表示某种活动类型的个人净收益,纵轴表示某种活动类型产生的生态系统服务价值,共有4个象限。其中第二象限（左上),个人净收益为负,生态系统服务价值为正,存在正外部性。第四象限（右下),个人净收益为正,生态系统服务价值为负,存在负外部性。45 度对角线将平面分为两个部分,在对角线的上边表示某种活动类型的社会总收益为正,而在对角线的下面表示某种活动类型的社会总收益为负。（",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿意在通过受益者付费实现外部经济内部化，因此生态保护补偿的目标在于将那些个人净收益为负但社会总收益为正的活动类型通过补偿转变为个人净收益为正的活动类型,如图2中A的情况。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿项目在实践中存在3种无效率的情形：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1)情形B,应该补偿但补偿不足。社会总收益为正,应该补偿;但因为补偿不足,个人净收益仍为负,社会总收益为正的活动类型未被采纳。2)情形C,不该补偿但进行了补偿。社会总收益为负,不该补偿;通过补偿,个人净收益为正,补偿超出了生态系统服务价值,社会总收益为负的活动类型被采纳。3)情形D,不需要补偿而进行了补偿。个人净收益原本就大于零,即便没有补偿,土地利用者也会采取该活动类型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "情形B未采取社会总收益为正的活动类型，情形C采取了社会总收益为负的活动类型，都带来了社会福利的损失。实践中，因为补偿标准偏低往往会产生这两类无效率的情形，补偿标准偏低因为补偿不足而使得社会总收益为正的活动类型未被采纳，补偿标准偏低吸引了成本较低但社会总收益为负的活动类型被采纳[57]。情形D，对那些不需要补偿就会采用活动类型的土地利用者进行了补偿，通常被认为是缺乏额外性，或者是“花了钱什么也没买到”[58]。这种情形会降低生态保护补偿的财务效率，在生态保护补偿预算约束下，减少情形D,可以将多出的生态保护补偿资金去购买相应的生态系统服务。为了提升生态保护补偿的效率,应该筛选最有效的生态系统服务提供者,减少对情形C和D的补偿,增加对情形B 的支付使其转变为情形 A。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6d9f159097c68265ba8962cd0f5c048b792459775af21da1c7cc63333b3d620.jpg",
+        "img_caption": [
+            "图2生态保护补偿效率的分析框架",
+            "Fig.2A framework to analyze the efficiency of eco-compensatior "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "还有一种情形也产生了生态保护补偿的无效率,通常称之为溢出。溢出是指环境破坏活动从生态保护补偿项目区域转移到非项目区域,生态保护补偿项目区的生态系统服务改善带来了非项目区的生态系统服务破坏,如果存在溢出效应,生态保护补偿的环境效益被高估了[59]。溢出即可能是直接发生的,也可能是通过市场的价格传导间接发生的[60]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.3 瞄准 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿的瞄准是指在一定的生态保护补偿预算约束下如何在生态保护补偿项目申请者之间进行选择以使得生态保护补偿项目的财务效率(即每单位支付所获取的生态系统服务)最大[11]。根据生态保护补偿效率的分析框架,在所有的项目申请者中,有一些项目申请者属于3类无效率的情形[11]。当没有瞄准时,无效率的项目申请者会被纳入到生态保护补偿项目中,导致生态保护补偿的效率变低,存在效率提升的空间。通过瞄准筛选最有效的生态系统服务提供者可以提升生态保护补偿的效率[47]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在生态保护补偿项目中,生态系统服务的分布、生态系统服务损失的风险、项目参与者的机会成本都存在空间异质性。瞄准可以基于生态系统服务、成本或者两种的结合,分别简称为效益瞄准、成本瞄准、效益成本比瞄准[61]。效益瞄准就是基于生态系统服务,生态系统服务得分高的项目申请者优先纳入生态保护补偿项目。成本瞄准就是基于成本,成本包括机会成本、交易成本和直接保护成本,是一种灵活的支付模式。在统一的支付模式下,低成本的生态系统服务提供者愿意参与,高成本的生态系统服务提供者不愿意参与。在灵活的支付模式下,高成本的项目申请者获得高的支付,低成本的项目参与者获得低支付,相比于统一的支付模式,平均支付水平下降,在给定的生态保护补偿预算下,可以将更多的土地纳入到生态保护补偿项目中。效益成本比瞄准,是效益瞄准和成本瞄准的结合,效益成本比越高的项目申请者优先纳入生态保护补偿项目,同时也是一种灵活的支付模式。瞄准还可以基于生态系统服务损失的风险,风险大的项目申请地区优先纳入生态保护补偿项目，这会提高产生额外性的可能性[62]。 O",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "很多学者对生态保护补偿项目中的瞄准问题进行了研究。Ferraro提出了基于距离函数的非参数瞄准方法[63]。Alix-Garcia 等运用了基于森林砍伐风险的瞄准方法,研究发现,相比于统一的支付模式,基于森林砍伐风险的支付模式是更加有效率的[62]。Wunscher 等对哥斯达黎加的森林生态保护补偿项目中的瞄准进行了研究,综合考虑了生态系统服务、成本以及生态系统服务损失的风险三个因素,发现成本瞄准能显著地提升生态保护补偿效率,效益瞄准能够中度地提升生态保护补偿效率,生态系统服务损失的风险因为异质性低而对生态保护补偿效率影响不大[47]。美国的保护性休耕项目（CRP)采用了效益成本比瞄准方法,构建了环境效益指数(EBI)来衡量不同地区的生态系统服务水平,通过竞争性投票(反向拍卖)的方式让项目申请者主动表达成本,通过效益成本比的得分由高到低筛选项目申请者[26]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "瞄准可以提升生态保护补偿的效率,但在具体实施中会面临交易成本的问题。瞄准的应用需要综合考虑瞄准带来的效率改进和交易成本增加。交易成本主要来自于信息收集成本,需要收集不同地区的生态系统服务量或者生态系统服务指数以及生态系统服务损失风险,收集不同地区项目申请者的保护成本和机会成本，而成本信息的收集往往会面临信息不对称的问题。交易成本随着个体数量的增加而增加,个体规模越小,交易成本也越大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6生态保护补偿和缓减贫困",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "生态保护补偿是一种提升自然资源管理效率的环境经济政策工具而不是一种减贫的机制,但在生态保护补偿实践中往往会存在一些其他目标,其中最重要也最普遍的就是缓减贫困[13]。生态保护补偿被许多决策者认为存在潜在的能够同时解决环境保护和缓减贫困的作用[64]。从客观上说,很多提供生态系统服务的区域属于边远偏僻的经济欠发达区域,尤其在中国,生态环境特别重要的地区多数是西部贫困地区,生态保护补偿项目通过直接或者间接的方式影响着贫困农民,因此在生态保护补偿项目中,的确需要考虑贫困问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关于生态保护补偿和缓解贫困的研究,Pagiola 等提出了3个关键问题:1)谁是潜在的生态保护补偿项目参与者,其中多少人是贫困的;2)贫困家庭参与到生态保护补偿项目中,存在哪些阻碍;3)生态保护补偿项目对贫困家庭参与者产生了哪些影响[5]。关于贫困家庭参与生态保护补偿项目的阻碍,Pagiola等认为贫困家庭要参与到生态保护补偿项目中需要满足3个条件,分别是有资格参与、有意愿参与、有能力参与[65]。有资格参与是指,因为生态系统服务的供给由特定的土地利用方式来产生,所以只有土地所有者才有资格参与生态保护补偿项目,无地的极端贫困家庭将被排除在生态保护补偿项目之外。有意愿参与是指,贫困家庭参与生态保护补偿所获得的补偿标准应该大于机会成本,在一定的补偿标准下,低机会成本的贫困家庭愿意参与生态保护补偿项目,高机会成本的贫困家庭不愿意参与生态保护补偿项目。有能力参与是指，即便贫困家庭有资格、有意愿参与生态保护补偿项目,贫困家庭也会因为土地的产权不清晰、投资费用、技术限制等因素而无法参与到生态保护补偿项目。Wunder认为贫困家庭要参与到生态保护补偿项目中还需要满足第四个条件,即有竞争力参与[6]。有竞争力参与是指,贫困农户因为土地面积小且分布分散,需要承担较高的交易成本,而生态保护补偿项目的实施为了降低交易成本往往会有集中连片的要求或者最小土地规模的要求,土地规模较小的贫困农户在交易成本上缺乏参与生态保护补偿项目的竞争力。关于生态保护补偿项目对贫困家庭参与者产生的影响,Pagiola 等认为既包括直接的收人影响,也包括社会资本和文化等间接的非收入影响[65]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在生态保护补偿项目中,环境保护和缓解贫困是较难同时实现的,能够同时实现需要满足一些特定的条件。Mills 等认为贫困农民生计单一、土地面积小且更依赖于自然资源,生态保护补偿可能会通过扩大收入差距而对贫困农民产生不利影响[33]。Bulte 等认为将生态保护补偿和缓减贫困联系到一起,可能会导致更低的效率,不论是环境保护的目标还是缓减贫困的目标[67]。Ziberman 等认为贫困农户最可能受益于生态保护补偿项目的条件是,机会成本和生态系统服务价值成负相关,即机会成本比较低,但生态系统服务价值比较高，否则贫困的小户的境况会变差,而富裕的大户的境况会变好[68]。按照生态保护补偿的自愿性要求,有一个最基本的推测是参与生态保护补偿项目应该不会比不参与生态保护补偿项目的境况要差,否则贫困农户就不会选择参与生态保护补偿项目。Wunder同时指出,不能因为生态保护补偿项目的自愿性特征就断定生态保护补偿具有缓减贫困的正向效应,因为很多生态保护补偿项目的自愿性特征并不明显,很多贫困农户可能被迫参与生态保护补偿项目,而获得的补偿无法完全弥补成本,例如中国的退耕还林项目和越南的森林生态保护补偿项目[66]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3结论和启示",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "纵观国际上生态保护补偿或者生态系统服务付费的研究,生态保护补偿的分析框架包括生态保护补偿的主体、生态保护补偿的客体、生态保护补偿的标准、生态保护补偿的条件性、生态保护补偿的效率以及生态保护补偿和缓减贫困的关系等。其中生态保护补偿的主体和客体是生态保护补偿的基本组成部分;生态保护补偿的标准和条件性是生态保护补偿的核心问题、难点问题、重要特性;生态保护补偿的效率以及生态保护补偿和缓解贫困的关系是生态保护补偿的后评估。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "中国的生态保护补偿制度建设,实施了很多大规模政府资助的生态保护补偿项目（例如退耕还林项目、森林生态效益补偿基金、草原生态保护补助奖励政策、湿地生态效益补偿等),积极推进流域上下游横向生态保护补偿和重点生态功能区区域生态保护补偿,力求在国家层面建立一套完善的生态保护补偿制度。作为生态文明建设的重要制度保障,随着《关于健全生态保护补偿机制的意见》的出台,生态保护补偿在未来将获得较大的实践发展。但总体来说,生态保护补偿尚处于起步探索阶段,涉及利益关系复杂,在促进生态环境保护方面的作用还没有充分发挥,需要付出长期艰苦努力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "国内外生态保护补偿的理论基础和分析框架都是一致的,但总体来说,国际的研究比国内的研究要更早更深入。生态保护补偿涉及不同的领域,例如森林、流域、草原、农业、湿地等;有丰富的实践形式,例如森林碳汇（REDD+）、农业环境付费(美国的环境质量激励计划、欧盟的共同农业政策）、水基金、水质交易、碳排放交易、湿地银行等。国际生态保护补偿研究对于完善中国的生态保护补偿制度建设具有重要的启示。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "未来中国的生态保护补偿研究应该关注的关键问题有：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第一,生态保护补偿的买方既可能是生态系统服务的使用者也可能是代表生态系统服务使用者的第三方（如政府、NGO等)。中国已经实施了大量政府主导的生态保护补偿项目,未来如何孕育和促使私营部门增加在生态系统服务的投资,扩大生态保护融资,是生态保护补偿制度建设的重要组成部分。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "第二,生态保护补偿的客体是活动类型和生态系统服务。活动类型是指特定的土地利用方式或者协定的自然资源管理规定,用来确保生态系统服务的产生。在生态保护补偿中,生态系统服务是一个流量的概念，并且是“流量的增量”的概念。活动类型和生态系统服务之间的因果关联存在不确定性,揭示生态系统服务形",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "成和供给机制是生态保护补偿的科学基础。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第三,生态保护补偿的标准是生态保护补偿研究中的核心问题和难点问题。生态系统服务价值可以作为生态保护补偿标准的理论上限,而不作为现实的生态保护补偿标准,现实的生态保护补偿标准,普遍接受的补偿水平以机会成本为主。机会成本的异质性、生态系统服务的异质性是实施生态保护补偿标准差别化的基础,补偿标准在多大程度上差别化需要综合考虑差别化带来的效率改进和信息收集成本的增加。 2",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第四,生态保护补偿的条件性是生态保护补偿最重要的特性。基于活动类型的支付会大幅增加监管成本,需要监管生态系统服务提供者是否按照合约的规定采取了特定的土地利用方式,监管特定的土地利用方式是否产生了预期的生态系统服务。 C)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第五,生态保护补偿的效率属于生态保护补偿的后评估,需要做好合理的基线选择,通过瞄准筛选最有效的生态系统服务提供者可以提升生态保护补偿的效率,但瞄准的应用需要综合考虑瞄准带来的效率改进和成本增加。 (75",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第六,缓减贫困是生态保护补偿项目中除环境保护这一首要目标之外的最重要也最普遍的其他目标。“十三五\"时期是中国全面建成小康社会的决胜阶段,坚决打赢脱贫攻坚战,到 2020 年现有标准下的 5575 万人贫困人口全部脱贫,在“五个一批\"中,明确指出要生态补偿脱贫一批,在贫困地区,需要深入研究生态保护补偿对缓减贫困的影响。 1",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]WunderaentsfooetalervicesoeutsandoltsgrosiaenterfoeatioalFresteseah24-24.  \n[2]NoordwjV,LeioaB,Emero,cVelaeSJllerwall.iteadidcatosfrtalservicecompensationdreardcasmsalisticolutaryonditoaldrooor.irobKeya：Worldgroforestryte2: 37-37.  \n[3]SomevilJos-GlEJcealfofotsfaoety2009，14(2):34-34.  \n[4]MuradianR,obraE,ascalU,Koso,ayHRecoilingtoryndpractc：Analteativeconeptualframewkfoudestadigpayments for environmental services.Ecological Economics,2010,69(6）：1202-1208.  \n[5] Tacconi L. Redefining payments for environmental services. Ecological Economics，2012，73: 29-36.  \n[6] Wunder S.Revisitingtheconceptof payments for environmental services.Ecological Economics，2O15，117：234-243.  \n[7] 陆新元,汪冬青,凌云,王金南,杨金田,钱小平.关于我国生态环境补偿收费政策的构想.环境科学研究.1994(01)：61-64.  \n[8] 毛显强,钟瑜,张胜.生态补偿的理论探讨.中国人口·资源与环境.2002(04)：40-43.  \n[9] 中国生态补偿机制与政策研究课题组.中国生态补偿机制与政策研究.北京：科学出版社，2007.  \n[10] Coase R H. The problem of social cost. The Journal of Law and Economics,1960,3: 1-44.  \n[11] EngelS,PagiolaS，WunderSesigingpayentsforevoentalsrvicsinheoyndpractic：AnovevieofteisuoloicalEconomics，2008,65(4): 663-674.  \n[12] Pagiola S,PlataisG.Payments for Environmental Services：From TheorytoPractice.Washington，DC:WorldBank，2006.  \n[13] WunderS，EngelS，agiolaSakingstock:Aompaativeaalysisofpaentsfevintalsvicesprgasinvelopddelingcountries. Ecological Economics,2008,65(4）：834-852.  \n[14] SchomersS,atdoetfots：vdopasooeveloddustrldtrscosc，2013,6:16-30.GhoshG，RibaudoM，ShortleJ.Baselinerequirementscanhindertradesinwaterqualitytradingprograms：EvidencefromtheConestogawatershed.Journal of Environmental Management,2011,92（8）:2076-2084.  \n[16] RibaudoM，SavageJontrolioditioalditsfrotrtaagentiatealitdingprgastouhligblieliestringency.Ecological Economics，2014，105：233-239.  \n[17] PorasI，Grieg-GranM，NevesN.Allthatgliters；AreviewofPaymentsforWatershedServicesinDevelopingCountriesLondon，UK;International Institute for Environment and Development,2009.  \n[18]PorasIAylwardB，engelJonitoringdevaluatioofpntsforWatersdServicesSheesinDevelopingoutriesodonUK：International Institute for Environment and Development，2013.  \n[9]PgiolsdelEakeetidetdRoutledge，2002.  \n[20]Kremen C.Managingecosystemservices:whatdoweneed toknowabout theirecology?EcologyLeters，2005，8（5）:468-479.  \n[21] 李文华,张彪,谢高地.中国生态系统服务研究的回顾与展望.自然资源学报，2009(01)：1-10.  \n[22] 杨光梅,李文华,闵庆文.生态系统服务价值评估研究进展—国外学者观点.生态学报，2006(01)：205-212.  \n[23]CostazaR,KubiszeskiIErvinD,fstoneR,BodJ,rowD,hangH,ujoV,GranekE,laskyS.Valuingelservices.F1000 Biology Reports，2011,3（14）：14.  \n[24]GotRD,randerL,PloegSVD,CostanzaR,BerardF,ratL，Chritie,CrossmanN,GhermandiA,HeinL.Globalestiatesoftevalue of ecosystems and their services in monetary units.Ecosystem Services,2012,1(1）： 50-61.  \n[25]PagiolaeE，bJeurgeiughaofsoalccNicaragua. Ecological Economics，2007,64(2）：374-385.  \n[26]Classen R， Cattaneo A，Johansson R. Cost-efective designof agri-environmental payment programs:U.S.experi ein theol andpracticeEcological Economics，2008,65(4）: 737-752.  \n[27]Zabel A，Roe B.Optimal design of pro-conservation incentives.Ecological Economics，2009,69(1):  \n[28] 欧阳志云,郑华.生态系统服务的生态学机制研究进展.生态学报，2009(11)：6183-6188.  \n[29] Farley J,CostanzaR.Paymentsforecosystemservices:Fromlocal toglobal.Ecological Eonomics，2010,69(1):2060-2068.  \n[30] 秦艳红,康慕谊.国内外生态补偿现状及其完善措施．自然资源学报，2007(04)：557-567.  \n[31] 李晓光,苗鸿,郑华,欧阳志云.生态补偿标准确定的主要方法及其应用.生态学报，2009(08)：4431-4440.  \n[32] 李文华,刘某承.关于中国生态补偿机制建设的几点思考.资源科学，2010(05）：791-796.  \n[33] Landell-Mills N,Porras IT. Silver Bulle orFools‘Gold;A global review of markets for frest er ces and their impact on the poor.London，UK: International Institute for Environment &Development，2002.  \n[34]KalacskaM，anc-AzofefaG，RivardB，Cl-AlvaadJCQuedaMseinaessentforeviroentalervicesptfromsatelite imagery:Acase studyfrom Costa Ricaand Mexico.Journal of Environmental Management，2O08,88(2）:348-359.  \n[35］李晓光,苗鸿,郑华,欧阳志云,消焱．机会成本法在确定生态补偿标准中的应用——以海南中部山区为例.生态学报，2009（09)：4875-4883.  \n［36］秦艳红,康慕谊.基于机会成本的农户参与生态建设的补偿标准- 以吴起县农户参与退耕还林为例.中国人口.资源与环境，2011(S2) : 65-68.  \n[37] 段靖,严岩,王丹寅,董正举,代方舟.流域生态补偿标准中成本核算的原理分析与方法改进.生态学报，2010(01)：221-227.  \n[38] 胡振通,柳获,孔德帅,靳乐山.基于机会成本法的草原生态补偿中禁牧补助标准的估算.干旱区资源与环境，2017(02）：63-68.  \n[39] 陶然,徐志刚,徐晋涛.退耕还林,粮食政策与可持续发展.中国社会科学，2004(06)：25-38.  \n[40] 张树川,左停,李小云.关于退耕还林(草)中生态效益补偿机制探讨.经济问题，2005(11)：49-51.  \n[41] 李或挥,孙娟.从政府与农户的动态博弈分析退耕还林工程的可持续性.中国人口.资源与环境，2006(06)：62-65.  \n[42]OhlC，DrechestKtldFpesatiotsfathterogeiEistececdessdatoEcological Economics，2008, 67(2): 162-174.  \n43]NewtolsESnderC.secofcrveergeityfdialitoalttfrenvironmntalservicesprogrammewithanundiferentiatedrewardstructure.GlobalEnvironmentalChange，2O12,22（1）：27-36.  \n[44] 彭文英,张科利,李双才.黄土高原退耕还林(草)紧迫性地域分级论证．自然资源学报，2002(04)：438-443.  \n[45] 秦艳红,康慕谊.退耕还林(草)的生态补偿机制完善研究——以西部黄土高原地区为例.中国人口·资源与环境，2006(04)：28-32.  \n[46] Kosoyatlehree cases in Central America.Ecological Economics，2007,61(2/3）：446-455.WinscherT,gelS，WnerSatilargetigfetsfovioetalic：AlfotigoseatieiocalEconomics，2008,65(4）: 822-833.  \n[48] FerraroJ.AsrifoatiodcctsifotsfotalrcolicalEooics，4）18.  \n[49] Wunder S.Theeficiencyofpamentsforevironmntalservicesintropicalconservation.ConservationBiology，Oo,21（）：48-58.  \n[50]TomicosDE,ijviotalcsdndsegeitestsifrooglatodAgriculture，Ecosystems & Environment，2004，104：229-244.  \n[51]DrisseS，uasobingpefoancesdndtiobsedpaentstprovideviroentalodsnderucertantyolgicalEconomics,2013,85:77-84.  \n[52]MahantyS,Suich H,TacconiL.Access and benefis in payments forenvironmental servicesand implications for REDD $^ +$ : Lessons from seven PESschemes.Land Use Policy，2013，31：38-47.  \n[53] WunderS，AlbánM.DecentralizedpaymentsforenvironmentalservicesThecasesofPimampiroandPROFAFORinEcuador.EcologicalEconomics，2008,65(4）:685-698.  \n[54]ChatreA,AgrawalAForestcoosdlocalefoceentPrcingoftatioalcadeyofcsofteUnitedStatesofec2008，105(36)：13286-13291.  \n[55] Virah-SawyStokloaJEbeligJAprobbiticenarioapproachforevelopingmpredReducedEmisiosfroDeforestatiodDegradation（REDD $+$ ）baselines.Global Ecology and Conservation，2015,4：602-613.  \n[56] Pagiola S.Assessing the eficiency of payments for environmental services programs.Washington：World Bank，2005.  \n[57] Pagiola S.Payments for environmental services in Costa Rica.Ecological Economics,2O08,65(4)：712-724.  \n[58] FerraroP,PaaakSKonefootgcallformpcaleatioofodesitservatioivesmntsoSolo,(4):e105.  \n[59] RobertsoNehsttoiCenter for International Forestry Research,2005.  \n[60] Chomitz KM.Baseline,leakageandmeasurementisues:HwdoforestryandeergyprojectscopareClimatePolicy,（)：3-49.  \n[61] Babcock B,Lakshminarayan PG，Wu J,Zilberman D.Targeting tols for the purchase of environmental amenitie Land Economics，1997，73(3):325-339.  \n[62] Alix-Garcia J，De Janvry A，Sadoulet E.Therole of risk in targeting payments environmental services. Social Science ElectronicPublishing，2005.  \n[63] Ferraro P J.Targeting conservation investments in heterogeneous landscapes 1distance-function approach and application to watershedmanagement.American Journal of Agricultural Economics，2004,86(4）：905-918.  \n[64] 靳乐山,李小云,左停.生态环境服务付费的国际经验及其对中国的启示.生态经济，2007(12)：156-158.  \n[65]PgidlaSrasA，lataisGCanpntsioetashluepovertAnxploaioofthsusdeevdeedate from Latin America.World Development，2005，33(2）：237-253.  \n[66] WunderS.PaetfoiotalsdhrocesandpreliaryEontdvelotoc，13(3):279-297.  \n[67]BulteEH，ZilberanD,LipperL，StringerR.Paymentsforecosystemservicesndpovertyreduction：Concepts，isses，ndmpiicalperspectives.Environment and Development Economics，2008,13（3）：245-254.  \n68]ZilbenDipr，arthouldtsfotalsefiteotdevelooc，2008,13(3):255-278. e",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

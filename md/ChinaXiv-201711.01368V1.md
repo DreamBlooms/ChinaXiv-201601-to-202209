@@ -1,0 +1,168 @@
+饲粮中添加过瘤胃蛋氨酸、过瘤胃赖氨酸对荷斯坦奶公牛肉用生产性能和肉品质的影响高　岩」　吴建豪²曲永利l\* 潘琪琪」张士博」　韩天龙」王志博」　殷溪瀚1（1.黑龙江八一农垦大学动物科技学院，大庆163319;2.上海光明荷斯坦牧业有限公司，上海
+
+202177)
+
+摘要：本试验旨在研究在饲粮中添加过瘤胃蛋氨酸(RPMet)、过瘤胃赖氨酸(RPLys)对荷斯坦奶公牛肉用生产性能和肉品质的影响。采用完全随机试验设计，选择 25 头12 月龄左右、体重相近的健康荷斯坦奶公牛，随机分为5组，每组5个重复，每个重复1头。对照组饲喂基础饲粮（牧场实用饲粮)；其余4个试验组分别在基础饲粮中添加 RPMet $1 5 \ : \mathrm { g / d }$ （RPM 组）、RPLys $3 0 \mathrm { g / d }$ （RPL 组）、RPLys30 g/d+RPMet 15 g/d （ $\mathbf { R P L + M }$ 组）和RPLys 30 g/d+RPMet15 g/d（同时基础饲粮粗蛋白质水平降低$1 . 7 1 \%$ ） $[ \mathsf { R P L + M ( L ) }$ 组]。预试期 $1 0 \mathrm { d }$ ，正试期 $1 5 0 \mathrm { d }$ 。结果表明：1) $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M }$ （L）组试验牛末重、平均日增重均显著高于对照组（ $\scriptstyle \left. { \cal P } < 0 . 0 5 \right)$ )，料重比显著低于对照组（ $\scriptstyle P < 0 . 0 5 .$ ，但这2组间差异不显著（ $P { > } 0 . 0 5 )$ ； $\mathbf { R P L + M }$ (L）组养殖效益最高，为7.67元/（d·头)，且高出 $\mathbf { R P L + M }$ 组0.32元/(d·头)。2)与对照组相比，饲粮中添加RPMet、RPLys 对荷斯坦奶公牛净肉率无显著影响 $( P 5 0 . 0 5 )$ RPM 组、RPL 组、 $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M ( L ) }$ 组宰前活重显著增加 $( P { < } 0 . 0 5 )$ ，且以 $\mathbf { R P L + M }$ 组最高，但$\mathbf { R P L + M }$ 组与 $\mathbf { R P L + M ( L ) }$ 组无显著差异 $( P { > } 0 . 0 5 )$ ；RPL 组屠宰率显著升高 $( P { < } 0 . 0 5 )$ ；各试验组胴体产肉率和肉骨比均显著增加 $( P { < } 0 . 0 5 )$ ，但试验组间差异不显著 $( P { > } 0 . 0 5 )$ 。3)饲粮中添加 RPMet、RPLys 对眼肌面积、剪切力、熟肉率、大理石花纹等级、 $\mathsf { p H }$ 和肉色等级均无显著影响 $( P { > } 0 . 0 5 )$ 。4)饲粮中添加RPMet、RPLys对肌肉脂肪酸组成亦无显著影响 $( P { > } 0 . 0 5 )$ 。综上所述，在饲粮中添加 RPMet、RPLys可保持奶公牛同等的肉品质和肌肉脂肪酸含量，并在一定程度上提高奶公牛肉用生产性能；且添加RPMet和RPLys可替代部分蛋白质饲料，增加养殖效益。
+
+关键词：过瘤胃蛋氨酸；过瘤胃赖氨酸；奶公牛；肉用生产性能；肉品质中图分类号：S816.7；S823 文献标识码： 文章编号：
+
+近年来，随着奶业的发展，我国每年都有大量的奶公犊诞生[Il，由于奶公牛并不能产奶，在产
+
+肉性能上也无法与肉用牛或兼用牛相比，因此长期以来并不受我国奶牛和肉牛养殖业的重视[2]。在许多发达国家，奶公牛主要用于牛肉生产。英国市场上 $40 \%$ 的牛肉来自奶用公犊育肥[3]；美国奶公牛数量占肉牛饲养量的 $8 \% [ 4 ]$ ；法国的常规做法是把去势奶公犊肥育到18月龄左右屠宰上市[5]。但我国现处于转型期间，牛肉缺乏，奶公牛肉的生产可作为我国牛业市场的新途径，但有关奶公牛的营养调控技术十分缺乏。  
+目前，赖氨酸和蛋氨酸被认为是玉米-豆粕型饲粮条件下反刍动物的第一、第二限制性氨基酸[6-7]。过瘤胃氨基酸是提高饲粮蛋白质利用率的有效手段，过瘤胃赖氨酸(rumen-protected lysine,RPLys)和过瘤胃蛋氨酸(rumen-protected methionine,RPMet)在奶牛生产上应用很多，已被证明在奶牛产奶量[8]、乳成分[9]、热应激[10]等性状上均取得很好的效果。但在奶公牛生产上的应用效果还鲜有报道。因此,本文旨在研究饲粮中添加RPMet、RPLys 对奶公牛肉用生产性能及肉品质的影响，探讨用 RPMet、RPLys替代部分蛋白质饲料的可行性，为奶公牛生产应用提供理论依据。
+
+1材料与方法
+
+1.1 试验设计
+
+采用完全随机试验设计，选择25头12月龄左右、平均体重为 $( 2 8 1 . 6 0 { \pm } 1 . 5 7 \$ ）kg 的健康荷斯坦奶公牛，随机分为5组，每组5个重复，每个重复1头。对照组饲喂基础饲粮（牧场实用饲粮)；4个试验组分别在基础饲粮中添加 RPMet 15g/d（RPM 组）、RPLys30 g/d（RPL 组）、RPLys 30g/d+RPMet15 g/d ( $\mathbf { R P L + M }$ 组）和RPLys30 g/d+RPMet $1 5 { \mathrm { g / d } } [  \$ 同时饲粮粗蛋白质（crude protein,CP)水平降低 $1 . 7 1 \% \mathrm { { J } [ \mathrm { { R P L + M ( L ) } } }$ 组]。预试期 $1 0 \mathrm { d }$ ，正试期150d。
+
+1.2 饲养管理
+
+试验牛全部为舍饲拴养，基础饲粮参照我国农业部《肉牛饲养标准》（NY/T815-2004）配制。试验饲粮组成、营养水平及RPMet、RPLys 添加量见表1。RPMet和RPLys 来自北京亚禾有限公司，瘤胃保护率分别为 $6 0 . 2 5 \%$ 和 $6 8 . 8 1 \%$ 。每天08:00 和16:00 饲喂，自由饮水，精饲料饲喂 $4 ~ \mathrm { { k g / d } }$ ，粗饲料羊草饲喂 $5 \mathrm { k g / d }$ 。
+
+表1试验饲粮组成、营养水平及过瘤胃蛋氨酸、过瘤胃赖氨酸添加量（干物质基础)
+
+Table1 Composition and nutrient levels of experimental diets and supplemental levels of RPMet and RPLys (DM
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">basis) %</td></tr><tr><td></td><td></td><td>组别 Groups</td><td></td><td></td></tr><tr><td></td><td>对照 Control</td><td>RPM</td><td>RPL</td><td>RPL+M</td><td>RPL+M(L)</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>55.00</td><td>55.00</td><td>55.00</td><td>55.00</td><td>55.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal</td><td>24.00</td><td>24.00</td><td>24.00</td><td>24.00</td><td>17.00</td></tr><tr><td>麦麸Wheat bran</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>22.00</td></tr><tr><td>小苏打 NaHCO3</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>预混料 Premixl)</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels²)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>综合净能 NEmf/(MJ/kg)</td><td>7.21</td><td>7.21</td><td>7.21</td><td>7.21</td><td>7.15</td></tr><tr><td>粗蛋白质CP</td><td>16.12</td><td>16.12</td><td>16.12</td><td></td><td></td></tr><tr><td>赖氨酸Lys</td><td>0.80</td><td></td><td>1.54</td><td>16.12</td><td>14.41</td></tr><tr><td></td><td>0.25</td><td>0.80</td><td>0.25</td><td>1.54</td><td>1.41</td></tr><tr><td>蛋氨酸Met 钙Ca</td><td></td><td>0.62</td><td>0.91</td><td>0.62</td><td>0.58</td></tr><tr><td>磷P</td><td>0.91</td><td>0.91 1.01</td><td>1.01</td><td>0.91</td><td>0.90</td></tr><tr><td>额外添加 Extra supplementation</td><td>1.01</td><td></td><td></td><td>1.01</td><td>1.03</td></tr><tr><td></td><td></td><td></td><td>30.00</td><td></td><td></td></tr><tr><td>过瘤胃赖氨酸 RPLys/(g/d)</td><td></td><td></td><td></td><td>30.00</td><td>30.00</td></tr><tr><td>过瘤胃蛋氨酸 RPMet/(g/d)</td><td></td><td>15.00</td><td></td><td>15.00</td><td>15.00</td></tr></table></body></html>
+
+1’每千克预混料含有 One kg of premix contained the folowing:VA 250 00 IU，VD3 40 000 IU，VE1000 IU，Cu1g， $\mathrm { Z n } 3 \mathrm { g }$ ，Fe $5 \mathrm { g }$ ，Mn ${ 4 \mathrm { g } }$ ， $\mathrm { ~ I ~ } 5 0 \ : \mathrm { m g }$ ，Se $1 0 \mathrm { m g }$ ，Co $1 0 \mathrm { m g }$ 。
+
+2综合净能为计算值，其余为实测值。 $\mathrm { { N E } _ { \mathrm { { m f } } } }$ was a calculate value and others were measured values.
+
+1.3样品采集与测定方法
+
+生长性能：试验开始和结束时分别采用地秤称量体重；平均日增重（average daily gain,ADG）为总增重除以试验天数；料重比（F/G）为每千克体重增重所消耗的饲粮。
+
+牛肉样品的采集：试验牛于饲养试验结束后在黑龙江省齐齐哈尔市屠宰场屠宰，屠宰前禁食 24h，称重。屠宰后 $0 { \sim } 4 \ \mathrm { ~ \textdegree ~ }$ 排酸 $2 4 \mathrm { h }$ ，取12\~13肋间眼肌的肉样，在-80℃冷冻保存。
+
+屠宰性能：屠宰过程中称量胴体重、骨重和净肉重，并测定眼肌面积。
+
+肉品质： $\mathrm { \ p H }$ 在宰后 $4 5 \mathrm { \ m i n }$ 测；肉色对照肉色等级图片判断背最长肌横切面处颜色的等级，肉色按颜色深浅分为8个等级；大理石花纹参照日本牛肉分级标准进行划分；剪切力使用C-LM3B型数显肌肉嫩度仪测量；牛肉中脂肪酸的组成和含量使用气相色谱仪分析；熟肉率的测定方法为将肉样放入 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴锅中水浴加热 $3 0 \ \mathrm { m i n }$ ，取出冷却至室温，用吸水纸吸干表面水分后称重，计算公式如下：
+
+熟肉率 $( \% ) \ = 1 0 0 \times$ （加热后肉重／加热前肉重）。
+
+1.4 统计分析
+
+数据经Excel整理后，采用 SPSS 19.0 进行 one-way ANOVA单因素方差分析，Duncan 氏法进行多重比较，试验数据用"平均值 $\pm$ 标准误"表示；以 $\scriptstyle P < 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.1荷斯坦奶公牛生长性能和经济效益
+
+RPMet和RPLys 对荷斯坦奶公牛生长性能和经济效益的影响见表2。 $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M }$ (L)组试验牛末重、平均日增重均显著高于对照组（ $\cdot P { < } 0 . 0 5$ ）,料重比显著低于对照组（ $\scriptstyle \cdot < 0 . 0 5$ ，但这
+
+2 组间差异不显著（ $P { > } 0 . 0 5 \$ 。 $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M }$ （L）组饲粮投入和过瘤胃氨基酸投入合计的成本为14.25 和12.97元/(d·头)，比对照组的11.55元/(d·头)分别多 2.70 和1.42元/(d·头)；但 $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M }$ (L)组试验牛平均日增重分别比对照组高0.62 和 $0 . 5 5 \mathrm { k g / d }$ ，以当时肉牛市场价16.00元/kg计算， $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M }$ (L）组增重收益分别比对照组高9.76 和8.80元/(d·头)。而养殖效益为增重收益减去成本， $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M }$ (L)组分别比对照组高7.06 和7.38 元/(d·头)，且 $\mathbf { R P L + M }$ (L)组比 $\mathbf { R P L + M }$ 组高出0.32元/(d·头)。
+
+表2过瘤胃蛋氨酸和过瘤胃赖氨酸对荷斯坦奶公牛生长性能和经济效益的影响  
+Table2 Effects of RPMet and RPLys on growth performance and economic benefit of Holstein bulls   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td></tr><tr><td>对照 Control</td><td>RPL+M</td><td>RPL+M(L)</td></tr><tr><td>初重Initial weight/kg</td><td>279.00±25.28</td><td>283.02±29.30</td><td>281.76±26.54</td></tr><tr><td>末重Finial weight/kg</td><td>389.31±25.71b</td><td>486.90±20.60a</td><td>475.77±25.99a</td></tr><tr><td>平均日增重 ADG/ (kg/d)</td><td>0.74±0.02b</td><td>1.36±0.09a</td><td>1.29±0.04a</td></tr><tr><td>料重比F/G</td><td>5.45±0.54b</td><td>3.00±0.47a</td><td>3.09±0.33a</td></tr><tr><td>肉牛销售价格 Sale price of beef/ （元/kg)</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>饲粮投入Diet input/（元/d)</td><td>11.55</td><td>11.55</td><td>10.27</td></tr><tr><td>过瘤胃氨基酸投入 RPAA input/（元/d)</td><td>0.00</td><td>2.70</td><td>2.70</td></tr><tr><td>增重收益 Weight gain profit/ (元/d)</td><td>11.84</td><td>21.60</td><td>20.64</td></tr><tr><td>养殖效益 Farming income/（元/d)</td><td>0.29</td><td>7.35</td><td>7.67</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 ${ \it P } > 0 . 0 5 )$ ，不同小写字母表示差异显著( $\scriptstyle \phantom { + } ( P < 0 . 0 5 )$ 。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference ( $\mathrm { ( } P \mathrm { > } 0 . 0 5 \mathrm { ) }$ ，while with different small letter superscripts mean significant difference ( $\mathrm { \Delta } P { < } 0 . 0 5 \mathrm { \Delta }$ ).The same asbelow.
+
+# 2.2荷斯坦奶公牛肉用生产性能
+
+RPMet 和RPLys对荷斯坦奶公牛肉用生产性能的影响见表3。添加RPMet和RPLys对骨重和净肉率无显著影响（ $\cdot P { > } 0 . 0 5 )$ 。与对照组相比，RPM组、RPL组、 $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M ( L ) }$ 组宰前活重均显著增高 ( $\cdot P { < } 0 . 0 5 \$ ），其中 $\mathbf { R P L + M }$ 组宰前活重最高，但与 $\mathbf { R P L + M ( L ) }$ 组差异不显著（ $\cdot > 0 . 0 5 )$ ，与RPM组和RPL组差异显著（ $\scriptstyle P < 0 . 0 5$ )。RPL组、 $\mathbf { R P L + M }$ 组和 $\mathbf { R P L + M ( L ) }$ 组胴体重和净肉重均显著高于对照组（ $. P { < } 0 . 0 5$ ），RPM组胴体重和净肉重与对照组差异不显著（ $\cdot P { > } 0 . 0 5$ ）。RPL组屠宰率显著高于对照组( $\cdot P { < } 0 . 0 5 \$ ），其余各组与对照组差异不显著（ $P { > } 0 . 0 5$ ）。RPM组、RPL组、 $\mathbf { R P L + M }$ 组和 $\mathsf { R P L + M ( L ) }$ 组胴体产肉率和肉骨比均显著高于对照组（ $P { < } 0 . 0 5$ ），且试验组间差异不显著（ $P$ ${ > } 0 . 0 5 { \mathrm { : } }$ ）。
+
+Table 3Effects of RPMet and RPLys on meat performance of Holstein bulls   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别 Groups</td></tr><tr><td>对照 Control</td><td>RPM</td><td>RPL</td><td>RPL+M</td><td>RPL+M(L)</td></tr><tr><td>宰前活重 SBW/kg</td><td>389.31±25.71d</td><td>432.60±20.13c</td><td>456.61±25.44b</td><td>486.90±20.60a</td><td>475.77±25.99ab</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>172.75±6.21c</td><td>196.66±8.79bc</td><td>230.21±13.41a</td><td>223.89±12.65ab</td><td>206.99±8.44ab</td></tr><tr><td>骨重 Bone weight/kg</td><td>35.50±2.21</td><td>37.52±3.25</td><td>38.15±4.49</td><td>39.77±3.21</td><td>35.16±5.74</td></tr><tr><td>净肉重Meat weight/kg</td><td>139.53±12.05c</td><td>161.05±7.60bc</td><td>196.66±15.51a</td><td>189.07±18.58a</td><td>172.79±11.16ab</td></tr><tr><td>屠宰率 Dressing percentage/%</td><td>44.33±3.51b</td><td>45.00±3.29ab</td><td>50.33±2.14a</td><td>45.67±3.61ab</td><td>43.37±1.52b</td></tr><tr><td>净肉率 Meat percentage/%</td><td>35.25±3.15</td><td>37.07±2.06</td><td>43.98±2.08</td><td>38.30±3.56</td><td>35.63±1.55</td></tr><tr><td>胴体产肉率 Meat percentage of carcass/%</td><td>79.60±1.52b</td><td>81.79±0.57a</td><td>84.03±1.59a</td><td>84.23±1.00a</td><td>82.57±0.77a</td></tr><tr><td>肉骨比 Ratio of meat to bone</td><td>3.98±0.36b</td><td>4.50±0.26a</td><td>4.91±0.40a</td><td>4.92±0.06a</td><td>4.74±0.14a</td></tr></table></body></html>
+
+# 94 2.3 荷斯坦奶公牛肉品质
+
+RPMet 和RPLys 对荷斯坦奶公牛肉品质的影响见表4。添加RPMet和RPLys 对荷斯坦奶公牛肉品质无显著影响 $( P { > } 0 . 0 5 )$ 。 $\mathbf { R P L + M }$ 组眼肌面积最大，为（ $1 1 2 . 0 3 { \scriptstyle \pm 2 0 . 1 3 }$ ） $\mathrm { c m } ^ { 2 }$ ，但各组间差异均不显著 $( P { > } 0 . 0 5 )$ 。与对照组相比，各试验组剪切力、熟肉率、pH（ $4 5 ~ \mathrm { m i n }$ ）无显著变化 $( P { > } 0 . 0 5 )$ 。各组大理石花纹等级均为2级。肉色等级（ $4 5 \mathrm { m i n }$ ）各组均为6。
+
+表4过瘤胃蛋氨酸和过瘤胃赖氨酸对荷斯坦奶公牛肉品质的影响
+
+Table 4Effects of RPMet and RPLys on meat quality of Holstein bulls   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>对照Control</td><td>RPM</td><td>RPL</td><td>RPL+M</td><td>RPL+M(L)</td></tr><tr><td>眼肌面积 Eye muscle area/cm²</td><td>96.15±11.50</td><td>105.24±10.68</td><td>99.06±15.45</td><td>112.03±20.13</td><td>108.58±15.55</td></tr><tr><td>剪切力 Shear force/kg</td><td>4.79±0.56</td><td>5.21±0.81</td><td>5.04±0.35</td><td>4.82±0.29</td><td>5.03±0.43</td></tr><tr><td>熟肉率 Cooked meat rate/%</td><td>47.51±1.50</td><td>46.25±1.89</td><td>46.17±3.60</td><td>49.16±3.41</td><td>47.59±2.19</td></tr><tr><td>大理石花纹等级 Marbling degree</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>pH*</td><td>7.01±0.24</td><td>6.46±0.35</td><td>6.96±0.02</td><td>7.12±0.76</td><td>7.26±0.81</td></tr><tr><td>肉色等级 Meat color degree*</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td></tr></table></body></html>
+
+\*:屠宰后 $4 5 \mathrm { m i n }$ 测得。
+
+\*: measured at $4 5 \mathrm { m i n }$ after slaughter.
+
+2.4荷斯坦奶公牛肌肉脂肪酸组成
+
+RPMet 和RPLys 对荷斯坦奶公牛肌肉脂肪酸组成的影响见表5。添加RPMet和RPLys 对荷斯坦奶公牛肌肉脂肪酸组成无显著影响（ $\cdot  { P } { > } 0 . 0 5 ) ,$ 。其中RPM组不饱和脂肪酸含量最高，为 $4 3 . 4 9 \%$ 各组间差异均不显著（ $\cdot P { > } 0 . 0 5 )$ 。
+
+表5过瘤胃蛋氨酸和过瘤胃赖氨酸对荷斯坦奶公牛肌肉脂肪酸组成的影响（占总脂肪酸比例）
+
+Table 5Effects of RPMet and RPLys on muscle fatty acid composition of Holstein bulls（percentage of total fatty acids) %   
+
+<html><body><table><tr><td colspan="2">acids) 70 组别Groups</td></tr><tr><td>项目Items</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>对照 Control</td><td>RPM</td><td>RPL</td><td>RPL+M</td><td>RPL+M(L)</td></tr><tr><td>亚油酸 C18:2n6c</td><td>2.77±0.23</td><td>2.32±0.11</td><td>2.91±0.11</td><td>2.33±0.12</td><td>2.83±0.15</td></tr><tr><td>亚麻酸C18：3n3</td><td>0.50±0.05</td><td>0.50±0.04</td><td>0.45±0.02</td><td>0.49±0.05</td><td>0.48±0.03</td></tr><tr><td>油酸C18：1n9c</td><td>37.39±3.18</td><td>38.68±0.55</td><td>36.39±1.10</td><td>38.06±0.54</td><td>35.49±2.42</td></tr><tr><td>硬脂酸C18：0</td><td>19.27±1.56</td><td>17.89±1.59</td><td>19.01±1.45</td><td>20.94±2.10</td><td>18.19±1.54</td></tr><tr><td>棕榈酸 C16：0</td><td>32.35±1.68</td><td>32.15±0.65</td><td>29.96±0.97</td><td>31.42±1.52</td><td>29.79±1.04</td></tr><tr><td>棕榈油酸 C16：1</td><td>2.51±0.58</td><td>2.49±0.19</td><td>2.49±0.33</td><td>2.56±0.29</td><td>2.50±0.05</td></tr><tr><td>不饱和脂肪酸PUFA</td><td>43.17±3.04</td><td>43.49±0.68</td><td>42.24±1.06</td><td>43.44±0.85</td><td>41.30±2.35</td></tr></table></body></html>
+
+3讨论
+
+3.1RPMet和RPLys 对荷斯坦奶公牛生长性能和养殖效益的影响
+
+饲粮蛋白质水平会影响肉牛的生长增重。杨魁[1的研究中，饲粮中添加RPMet 和RPLys 对肉牛平均日增重显著提高，而料重比显著降低。Hussein 等[2]研究结果表明，给荷斯坦阉牛饲喂 RPMet和 RPLys 可以提高平均日增重。这与本试验结果一致，提高平均日增重且显著降低料重比，提高了饲粮转化率。
+
+在基础饲粮和低蛋白质饲粮中添加RPMet和RPLys对试牛的平均日增重和料重比影响均不显著，但低蛋白质饲粮降低了饲养成本，提高了养殖效益，说明RPMet和RPLys 可以替代部分蛋白质饲料。
+
+3.2RPMet和RPLys 对荷斯坦奶公牛肉用生产性能的影响
+
+屠宰率和净肉率是衡量动物生长性能和屠宰性能的重要指标。刘保仓[13]试验结果表明，精饲料中添加RPLys 对宰前活重、胴体重、净肉重、胴体产肉率具有提高趋势。这与本试验结果相似，本试验中饲粮中添加RPLys 试牛的宰前活重、胴体重、净肉重、屠宰率、胴体产肉率和肉骨比均高于对照组。李晓蒙等[14]对荷斯坦公牛的研究中表明高能量高蛋白质组的屠宰率、净肉率、胴体产肉率均高于中能量中蛋白质组和低能量低蛋白质组。本试验结果表明， $\mathbf { R P L + M }$ 组与 $\mathbf { R P L + M }$ （L）组肉牛各项屠宰性能差异不显著，这可能是由于饲粮中的过瘤胃氨基酸补充了低蛋白质组缺乏的必需氨基酸，满足试牛生长所需要的氨基酸水平，说明饲粮中添加过瘤胃氨基酸可以减少饲粮蛋白质饲料用量。
+
+# 3.3RPMet和RPLys 对荷斯坦奶公牛肉品质的影响
+
+pH 代表牛肉中的酸度，是衡量牛肉品质好坏的一个重要参数，既影响牛肉的嫩度、适口性和货架时间，又与牛肉的肉色显著相关[15]。本试验中，饲粮中单独添加 RPLys 或RPMet的牛肉pH有所下降，但差异均不显著，与肉色的变化趋势一致。薛丰等[16]试验中，在利木赞杂交肉牛饲粮中单独添加RPLys 对牛肉pH及肉色等级均无显著影响。说明饲粮赖氨酸水平对肉的嫩度影响差异不显著，Bidner 等[17]对猪肉品质的研究有相似的结果，具体原因还有待进一步研究。
+
+剪切力是评定肉嫩度的最常用指标之一。本试验中， $\mathbf { R P L + M }$ 组与 $\mathbf { R P L + M }$ （L）组的牛肉剪切力差异不显著，这与肌肉pH的变化趋势一致，说明RPLys 和RPMet 替代部分蛋白质饲料对牛肉的嫩度并不影响。
+
+# 3.4RPMet和RPLys对荷斯坦奶公牛脂肪酸组成的影响
+
+脂肪的摄食及其相关的健康问题已成为当今社会的普遍关注的热点问题之一[18]。对于牛肉脂肪酸组成有影响的3个主要因素是动物年龄、饲粮组成和肉牛品种[19]。Maddock 等[20]在饲粮中添加 $8 \%$ 亚麻籽，显著提高了肌肉中多不饱和脂肪酸、亚麻酸的含量。Gilis 等[211的研究结果表明，短期育肥牛补充脂质可增加脂肪组织中共轭亚油酸的含量，但只有 $8 . 3 \% { \sim } 1 7 . 5 \%$ 。于伽等[22]对延边黄牛的研究表明，饲粮中添加亚麻籽可以改善血液中脂肪酸的组成，提高了肌肉总脂肪酸中不饱和脂肪酸含量。由本试验可知，不同的饲粮处理没有影响荷斯坦奶公牛肌肉中各脂肪酸的含量。RPL 组不饱和脂肪酸含量高于其余各组，但差异不显著。RPM 组油酸含量最高，RPL 组亚油酸含量最高，对照组与RPM组则是亚麻酸含量最高，而 $\mathbf { R P L + M }$ 组棕榈油酸含量最高。RPMet和RPLys 对肉牛肌肉中脂肪酸的影响机制尚不明确，有待深入研究。
+
+4结论$\textcircled{1}$ 在荷斯坦奶公牛基础饲粮中添加 RPMet 和 RPLys，可在一定程度上提高奶公牛的肉用生产  
+性能，增加宰前活重、胴体重、净肉重、屠宰率、胴体产肉率和肉骨比，并可保持奶公牛同等的肉  
+品质和肌肉脂肪酸含量。$\textcircled{2}$ RPMet 和RPLys 替代部分蛋白质饲料对荷斯坦奶公牛的肉用生产性能和肉品质均无不良影  
+响，并且可降低饲养成本，提高养殖收益。  
+参考文献：  
+[1]曹兵海.我国奶公特资源利用现状调研报告[J].中国农业大学学报,2009,14(6):23-30.  
+[2]焦平林,苏辉,吴明楼,等.纤维素酶制剂对肉牛及奶牛生产性能的影响[J].中国畜牧杂志,1997(2):43-44.  
+[3] 刘文,鲁建民.现代英国肉牛业[J].黄牛杂志,2002,28(2):36,39.  
+[4] LEHMKUHLERJW,和立文.用荷斯坦奶牛生产市场需要的优质牛肉[J].中国畜牧杂志,2015(增刊1):115-116.  
+[5]MANDELL IB,GULLETT E A,WILTON J W,et al.Effects of gender and breed on carcasstraits,chemical composition,and palatability attributes in Hereford and Simmental bulls and
+
+steers[J].Livestock Production Science,1997,49(3):235-248.
+
+NRC.Nutrient requirements of dairy catte[S].7th ed.Washington,D.C.:National Academy Press,2001.  
+冯仰廉.反刍动物营养学[M].北京:科学出版社,2006.  
+[8]孙华,张晓明,王欣,等.过瘤胃保护蛋氨酸对奶牛生产性能的影响及经济效益分析[J].中国奶牛,2010(11):7-11.  
+[9]NOFTSGER S,ST-PIERRE N R.Supplementation of methionine and selection of highly digestiblerumen undegradable protein to improve nitrogen efciency for milk production[J].Journal of DairyScience,2003,86(3):958-969.  
+[10]韩兆玉,周国波,金志红,等.过瘤胃蛋氨酸对热应激下奶牛生产性能、淋巴细胞凋亡以及相关基因的影响[J].动物营养学报,2009,21(5):665-672.  
+[11]杨魁.过瘤胃蛋氨酸和过瘤胃赖氨酸在生长育肥牛中的应用研究[D].硕士学位论文.重庆:西南大学,2014.  
+[12]HUSSEIN H S,BERGER LL.Feedlot performance and carcass characteristics of Holstein steers asaffected by source of dietary protein and level of ruminally protected lysine and methionine[J].Journalof Animal Science,1995,73(12):3503-3509.  
+[13]刘保仓.过瘤胃赖氨酸在育肥牛羊精补料中的添加效果研究[D].硕士学位论文.石河子:石河子大学,2014.  
+[14]李晓蒙,李秋凤,曹玉凤,等.日粮能量和蛋白质水平对荷斯坦公牛肉品质的影响[J].中国畜牧杂志,2015,51(19):38-43.  
+[15]张杰.日粮营养水平、亚麻籽和维生素E对奶公牛生产性能及肉品质的影响[D].硕士学位论文.保定:河北农业大学,2014.  
+[16]薛丰,郭晓旭,郭望山,等.日粮添加过瘤胃赖氨酸对利木赞杂交肉牛胴体性状和肉质的影响[J].中国农业大学学报,2010,15(4):82-86.  
+[17]BIDNER B S,ELLIS M,WITTE D P,et al.Influence of dietary lysine level,pre-slaughter fasting,andrendement napole genotype on fresh pork quality[J].Meat Science,2004,68(1):53-60.  
+[18]BRAY G A.Epidemiology,risks and pathogenesis of obesity[J].Meat Science,2005,71(1):2-7.  
+[19]徐龙.日粮因子对肉牛的脂肪酸消化代谢、生长效率、胴体品质及牛肉中脂肪酸组成的影响[D].博士学位论文.呼和浩特:内蒙古农业大学,2013.
+
+[20]MADDOCK T D,BAUER M L,KOCH K B,et al.Effct of processing flax in beef feedlot diets on performance,carcass characteristics,and trained sensory panel ratings[J].Journal of Animal Science,2006,84(6):1544-1551.
+
+[21]GILLIS M H,DUCKETT S K,SACKMANN JR.Effects of supplemental rumen-protected conjugated linoleic acid or corn oil on fatty acid composition of adipose tissues in beef cattle[J].Journal of Animal Science,2004,82(5):1419-1427.
+
+[22]于伽,陈娜,高青山,等.亚麻籽对延边黄牛血液和肌肉中脂肪酸及其相关基因表达的影响[J].中国 畜牧杂志,2015,51(增刊):87-91.
+
+Effects of Rumen-Protected Methionine and Rumen-Protected Lysine Supplementations in Diets on Meat Production Performance and Meat Quality of Holstein Bulls
+
+GAO Yan1WU Jianhao²QU Yongli1\* PAN Qiqi1ZHANG Shibo1HAN Tianlong1 WANG Zhibo1YIN Xihan1
+
+(1. College of Animal Science and Technology, Heilongjiang Bayi Agricultural University, Daqing 163319,China；2. Shanghai Bright Holstan Co.Ltd., Shanghai 202177,China)
+
+Abstract: This experiment was conducted to investigate the effects of rumen-protected methionine (RPMet) and rumen-protected lysine (RPLys) supplementations in diet on meat production performance and meat quality of Holstein bulls.Twenty five Holstein bulls aged about 12 months with similar body weight were selected and divided into 5 groups by random experiment design,and each group included 5 replicates with 1 bull per replicate.The control group was fed a basal diet (ranch practical diet)，and the other 4 groups were fed the basal diet added with RPMet $1 5 \ \mathrm { g / d }$ (RPM group), RPLys $3 0 ~ \mathrm { g / d }$ (RPL group), RPLys 30 g/d+RPMet $1 5 \ : \mathrm { g / d }$ $\mathbf { \nabla } _ { \mathrm { R P L + M } }$ group) and RPLys 30g/d+RPMet $1 5 \mathrm { g / d }$ (meanwhile dietary crude protein level was lowered $1 . 7 1 \%$ ） $[ \mathrm { R P L + M ( L ) }$ group], respectively. Adaptation and experimental periods lasted for 10 and $1 5 0 \mathrm { d }$ , respectively. The results showed as follows: 1) $\mathbf { R P L + M }$ and $\mathbf { R P L + M ( L ) }$ groups had significantly higher finial weight, average daily gain than control group $( P { < } 0 . 0 5 )$ ,and had significantly lower ratio of feed to gain than control group $( P { < } 0 . 0 5 )$ ， but there were no differences between the above two groups （20 $( P { > } 0 . 0 5 )$ ; the highest economic benefit of farming was ${ \mathrm { R P L } } { \mathrm { + M } }$ (L） group [7.67 RMB/(d·bul)], which was 0.32 RMB/(d·bull) higher than that of ${ \mathrm { R P L } } { \mathrm { + M } }$ group. 2) Compared with control group, meat percentage
+
+was not affected by RPMet and RPLys supplementations ( $\scriptstyle ( P > 0 . 0 5 )$ ; RPM, RPL, $\mathbf { R P L + M }$ and $\mathbf { R P L + M ( L ) }$ groups had significantly higher body weight before slaughter $( P { < } 0 . 0 5 )$ , and the value reached the highest in $\mathbf { R P L + M }$ group,but they were not significantly different from those in $\mathbf { R P L + M ( L ) }$ group $( P { > } 0 . 0 5 )$ ; RPL group had significantly higher dressing percentage ( $( P { < } 0 . 0 5 )$ ； all experimental groups had significantly higher meat percentage of carcass and ratio of meat to bone $( P { < } 0 . 0 5 ) ,$ ，and there were no significant differences among experimental groups ( $\scriptstyle \cdot { \cal P } \mathrm { > } 0 . 0 5 )$ .3）RPMet and RPLys supplementations in diet had no significant effects on eye muscle area, shear force, cooked meat rate, marbling degree, $\mathrm { p H }$ and meat color degree $( P { > } 0 . 0 5 )$ . 4) There was no significant difference on muscle fatty acid composition $( P { > } 0 . 0 5 )$ . It is concluded that dietary supplementations of RPMet and RPLys can maintain similar meat quality and muscle fatty acid composition of Holstein bulls,and can improve meat production performance; and the supplementations of RPMet and RPLys can instead part of protein feed,and can increase the economic benefit of farming.   
+Key words: RPMet; RPLys; bulls; meat production performance; meat quality

@@ -1,0 +1,640 @@
+[
+    {
+        "type": "text",
+        "text": "融合蛋白NusA-hRI的高效异源表达、纯化及活性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "付大伟，孙莹莹，徐伟 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（哈尔滨商业大学食品工程学院，黑龙江哈尔滨150076）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：人核糖核酸酶抑制因子(human ribonuclease inhibitor,hRI）是一种能够调节核糖核酸酶活性的酸性包浆蛋白。通过构建含 SUMO、IF2、GST、NusA、MsyB、Trx 和 MBP融合标签的重组表达载体，以大肠杆菌BL21（DE3）作为宿主菌进行自诱导（auto-induction，AI）表达，从而使 hRI 的表达量得以提升。利用 MagNi磁珠纯化及电泳分析 hRI的表达状况，通过RNase/Sepharose 亲和层析获得纯度较高的蛋白。纯化后获得的融合蛋白浓度为$2 9 6 0 . 5 1 3 ~ \\mathrm { m g / L }$ ，与其它公司的hRI活性进行比较，检测其酶活性约为 ${ 5 0 } \\mathrm { U / \\mu L }$ ，并使其成功用于RNA的保护，为NusA-hRI的应用提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：人核糖核酸酶抑制因子；融合标签；诱导表达；磁珠纯化；亲和层析 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficient Heterologous Expression,Purification and Activity Analysis of Fusion Protein NusA-hRI FU Da- wei,SUN Ying-ying,XU wei ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(KeyLaboratory for Food Science and Engineering, Harbin University of Commerce, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heilongjiang ProvinceHarbin ,150076, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Human ribonuclease inhibitor (hRI) is an acidic pulping protein that regulates ri bonuclease activity.By constructing a recombinant expression vector containing SUMO, I F2,GST,NusA,MsyB,Trx and MBP fusion tags ，E.coli BL21 (DE3） was used as a ho st strain for auto-induction (AI) expression, thereby the expression level of hRI is improve d. The expression of hRI was analyzed by MagNi magnetic bead purification and electrop horesis,and the protein with higher purity was obtained by RNase/Sepharose afinity chro matography.The concentration of the fusion protein obtained after purification was 2960.51 $3 \\ \\mathrm { m g / L }$ ，which was compared with other companies,and its enzyme activity was about 50 $\\mathrm { U / \\mu L }$ ，which was successfully used for RNA protection. Purely provide a theoretic-al basi s for the application of NusA-hRI. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Human ribonuclease inhibitor ;Fusion tags； Auto-induction; Magnetic bead method;Affinity chromatography ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人核糖核酸酶抑制因子(human ribonuclease inhibitor,hRI）是许多哺乳动物组织细胞质提取物中的一系列相互关联的核糖核酸酶抑制剂之一，分子量 $5 0 \\mathrm { K D a } ^ { [ 1 ] }$ 。hRI 由460个氨基酸残基组成,富含亮氨酸和半胱氨酸残基，其中至少有30个半胱氨酸的巯基以还原型存在,还作者简介：付大伟（1981-)，男，博士，讲师，研究方向为基因工程与分子生物学，18603612527 ，E-mail:fudaweinovo@163.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "原型巯基是保持抑制因子正常生物学活性所必需的[2]。其抑制效应使其在体外转录和翻译反应中在RNA完整性的保持上有广泛应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究构建了含 SUMO、IF2、GST以及 NusA 等不同融合标签的八种重组表达载体[3],以大肠杆菌BL21（DE3）作为宿主菌,通过自诱导表达[4及利用MagNi 磁珠纯化[5],RNase/Sepharose 亲和层析纯化最终筛选出表达量高的重组菌 NusA-hRI，并通过单因素及正交试验优化诱导条件。初步检测其具有抑制 RNaseA活性，防止 RNA 被降解[6-8]的作用，为核糖核酸酶酶抑制剂的生产及应用提供理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$E$ .coli BL21（DE3）菌株和 TransI 菌株由本实验室提供。HiFiDNA 聚合酶，DNAMarker、蛋白质 Marker 北京全式金生物技术有限公司；T4DNA 连接酶、限制性内切酶BamHI、NotI NEB 公司；二硫苏糖醇（DTT）、氨苄青霉素（Amp)、三羟甲基氨基甲烷（Tris）Taraka公司；NP40Sigma 公司；溶菌酶 Amresco 公司；核糖核酸酶A 北京沁源惠帜生物技术有限公司；MagNi Protein Purification Kit 北京诺贝奥生物技术有限公司。实验所用质粒均由本实验室构建，特性如下：pNBEI\\~VII 均为Amp'抗性，N 端 His-Tag ，C 端 His-Tag，分别含融合标签 SUMO、IF2、MBP、NusA、MsyB、GST、Trx，分子量分别为13、19.6、40、55、16.1、32、17.3 kDa，pNBE VIII为Ampr抗性，含融合标签 MBP,含 signal peptides，分子量 $4 0 \\mathrm { k D }$ ，C 端 His-Tag[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 仪器与设备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "T100 TMThermal Cycler PCR 仪美国 BIO-RAD 公司;Gds8000 凝胶成像仪 美国 Uvp公司；H2050R 台式离心机 湖南湘仪实验室仪器开发有限公司；DK-8D电热恒温水槽、DHP-9162 恒温培养箱 上海一恒科技有限公司；DZP-102 恒温振荡器哈尔滨东联电子技术开发有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 hRI 基因的扩增",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引物的设计通过hRI基因在Genbank 数据库中报道的序列及所用载体的序列决定。分别于上、下游引物的 5'端插入了 BamHI 和NotI 酶切位点。上游引物 P1：5'-TCCAGGGGCCCCTGGGATCCATGAGCCTGGACATCCAGAGC-3’，下游引物 P2：5’-TGGTGCTCGAGTGCGGCCGCTCAGGAGATGACCCTCAGGGATG-3’，引物被送到上海生工生物有限公司进行合成。以全基因合成的 hRI 基因为模板，利用上述 P1，P2 引物进行PCR 扩增。通过 $1 \\%$ 琼脂糖凝胶电泳检测得到的产物，并通过胶回收重新获取基因片段，经BamHI和NotI酶切后进行柱回收。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 重组表达载体的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过T4DNA连接酶将其与经BamHI 和NotI酶切后的pNBE3CI\\~VIII表达载体相连，得到重组载体 pNBE3CI\\~VII-hRI，并将其转化至 E.coli TransI 克隆感受态细胞中，于Amp\"抗性平板涂布培养。经过菌落 PCR 和酶切鉴定筛选阳性单克隆菌落，同时送至上海生工生物有限公司进行序列测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 重组菌的自诱导表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将测序成功的八种重组载体热激转化到表达感受态细胞 E.coli BL21（DE3）中，于Ampr抗性平板涂布培养，挑取单菌落，于Amp'抗性的1mLLB 液体培养基中接种，37℃摇床培养 $1 6 \\mathrm { h }$ ，再以千分之一的接种量于 $1 0 ~ \\mathrm { m L }$ 自诱导培养基[9]中接种，37℃, $1 5 0 \\mathrm { r p m / m i n }$ 自诱导 $6 \\mathrm { h }$ ， $2 0 ^ { \\circ } \\mathrm { C }$ ， $1 5 0 \\mathrm { r p m / m i n }$ 培养 $2 4 \\mathrm { h }$ ，离心得到沉淀[10]， $12 \\%$ 聚丙烯酰胺凝胶电泳观察蛋白条带。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4重组蛋白的可溶性表达检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取 $1 \\mathrm { m L } 1 . 3 . 3$ 中获得的菌液，12000 rpm /min ， $5 \\mathrm { m i n }$ 离心，得到沉淀，裂解后过夜冻存，融化后按 MagNi 磁珠纯化法的说明书进行操作。将沉淀、上清、穿透峰及洗脱液[3]在$12 \\%$ 聚丙烯酰胺凝胶点样分析以及Bandscan 软件分析蛋白表达量，选出高效表达的菌株。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5融合蛋白hRI的自诱导表达条件的单因素试验",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取影响自诱导表达的四种因素：温度、pH、接种量、瓶装量进行单因素试验，每种试验取三次结果平均值作为最终数值，得到最佳条件[II]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5.1培养温度的优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "向4瓶 $1 0 ~ \\mathrm { m l }$ 灭菌后的自诱导培养基中加入4种成分及Ampr，以千分之一的接种量将菌液分别接种， $3 7 ^ { \\circ } \\mathrm { C }$ 摇床培养测得 $6 0 0 \\mathrm { n m }$ 分光光度值0.2左右时，将其放至16、20、25、30℃摇床培养 $2 4 \\mathrm { h }$ ，选取出最适温度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5.2 初始 pH的优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "向4瓶初始 pH 分别为 5、6、7、8、9 的 $1 0 \\mathrm { m l }$ 灭菌后的自诱导培养基中加入4种成分及Ampr，以千分之一的接种量将菌液分别接种， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ， $1 5 0 \\mathrm { r p m / m i n }$ 自诱导培养 $6 \\mathrm { h }$ $2 0 ^ { \\circ } \\mathrm { C }$ ， $1 5 0 \\mathrm { r p m / m i n }$ 培养 $2 4 \\mathrm { h }$ ，选取出最适 $\\mathfrak { p H }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.5.3接种量的优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "向4瓶 $1 0 ~ \\mathrm { m l }$ 灭菌后的自诱导培养基中加入4种成分及Ampr，以 $1 \\text{‰}$ 、 $2 \\text{‰}$ 、 $5 \\text{‰}$ 、 $10 \\text{‰}$ 、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 0 \\mathrm { ‰ }$ 的接种量将菌液分别接种， $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ,150 rpm/min 自诱导培养 6h, $2 0 ^ { \\circ } \\mathrm { C }$ ，150 rpm/min培养 $2 4 \\mathrm { h }$ ，选取出最佳接种量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.5.4瓶装量的优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "向4瓶装有25、50、75、100、 $1 5 0 ~ \\mathrm { m L }$ 灭菌后培养基的 $2 5 0 \\mathrm { m L }$ 三角瓶中加入4种自诱导成分及Ampr，以千分之一的接种量将菌液分别接种， $3 7 \\mathrm { ~ \\textdegree ~ }$ ， $1 5 0 \\mathrm { r p m / m i n }$ 自诱导培养6h， $2 0 ^ { \\circ } \\mathrm { C }$ ， $1 5 0 \\mathrm { r p m / m i n }$ 培养 $2 4 \\mathrm { h }$ ，选取出最佳瓶装量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.6正交试验优化培养条件",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以温度、pH、接种量、瓶装量为研究对象进行正交试验，通过L9（34）正交表进行优化，每组试验重复三次，确定最佳培养条件[]。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/17a2370d4bd1eae77e3e93fd35d99d9c7d7e4c613271d669acae46846d95e20f.jpg",
+        "table_caption": [
+            "表1正交试验因素水平表",
+            "Table1 Orthogonal test factor level table "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">水平</td><td colspan=\"4\">因素</td></tr><tr><td>A/温度(C)</td><td>B/pH</td><td>C/接种量(%o)</td><td>D/瓶装量（mL/250）</td></tr><tr><td>1</td><td>15</td><td>6</td><td>1</td><td>25</td></tr><tr><td>2</td><td>20</td><td>7</td><td>2</td><td>50</td></tr><tr><td>3</td><td>25</td><td>8</td><td>5</td><td>75</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.7 裂解菌体及MagNi磁珠纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "向 $1 0 0 \\mathrm { m l }$ 灭菌后的自诱导培养基中加入4种成分及 $\\mathbf { A } \\mathbf { m } \\mathbf { p } ^ { \\mathrm { r } }$ ，以千分之一的接种量将菌液分别接种， $3 7 ^ { \\circ } \\mathrm { C }$ 摇床培养 $6 \\mathrm { h }$ ， $2 0 ^ { \\circ } \\mathrm { C }$ 培养24h，离心得到沉淀。加入含 $5 0 \\mathrm { m m o l / L }$ Tris-HC1 pH8.0， $1 \\%$ 的 Triton-X 100， $4 \\text{‰}$ 的 NP40 溶液的裂解缓冲液及浓度 $1 \\mathrm { m g / m L }$ 的溶菌酶[12,13]，悬浮菌体。放于 $- 2 0 ^ { \\circ } \\mathrm { C }$ 过夜冻存,取出于 $3 7 ^ { \\circ } \\mathrm { C }$ 融化 $3 0 \\mathrm { { m i n } }$ ，加入 $1 \\%$ 的 $5 0 0 \\mathrm { m M } \\mathrm { C a C l } _ { 2 }$ $1 \\%$ 的 $\\mathrm { { 1 m g / m l } }$ DNase，混匀后放于 $3 7 ^ { \\circ } \\mathrm { C }$ 水浴 $3 0 \\mathrm { m i n }$ ，取出后加入1/10的5MNaC[12], $1 2 0 0 0 \\mathrm { r p m }$ ，离心 $5 \\mathrm { m i n }$ 。收集上清用于 MagNi 磁珠纯化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.8RNase/Sepharose 亲和层析纯化[14] ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将磁珠纯化得到的粗蛋白在含有 5mMDTT,1mMEDTA,pH6.4,45mM 的磷酸钾缓冲溶液中透析两次，每次6h。用20倍柱体积的该缓冲溶液洗脱亲和层析柱至平衡状态，将透析后的蛋白上样吸附，收集穿透峰，用20倍柱体积含0.5MNaCl的该缓冲溶液洗脱杂蛋白，$1 0 0 \\mathrm { m M }$ 乙酸盐缓冲溶液， $\\mathrm { p H } 5 . 0$ ，3MNaCl,5mMDTT，1mMEDTA， $1 5 \\%$ 甘油洗脱目的蛋白，收集洗脱液 SDS-PAGE 分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.9纯化后的hRI的浓度测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将纯化后的蛋白通过PEG2000 浓缩，再经透析除盐，用BCA蛋白浓度测定法对 hRI浓度进行测定，加入蛋白储存液，冻存至 ${ } - 2 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.0 融合蛋白NusA-hRI的活性检测",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用 NusA-hRI抑制RNA 酶水解RNA 的能力测定其活性[3]。以M公司购买的RI作对照，将不同体积的RI融合蛋白加入到含有 $5 0 \\mathrm { m M }$ Tris-Cl缓冲液（pH7.4），50mMNaCl,$1 0 \\mathrm { m M }$ DTT 的反应混合物中[15]，加入5ngRNaseA，在室温孵育10分钟，加入 $1 ~ { \\mu \\mathrm { g } }$ 提取的植物总RNA。将混合物 $2 0 ~ \\mu \\mathrm { l }$ 在室温下孵育10分钟。用 $1 \\%$ 琼脂糖凝胶进行RNA 电泳，并通过溴化乙锭染色显现，将电泳条带用Bio-1D软件进行相近性分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1目的基因的扩增",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以全基因合成的hRI基因为模板通过PCR扩增，在 $1 \\%$ 琼脂糖凝胶电泳上可以看到一条清晰条带大小约1383bp（图1），同期望目的片段大小相符。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b01dc337a26de7578fe9ea65aa2cbf61d233506a869f87ab3cb7221f8282c51.jpg",
+        "img_caption": [
+            "图1PCR扩增hRI基因",
+            "M：DNA 分子标准；1：hRI基因 PCR 产物。Fig.1 PCR amplification of hRI geneM: DNA marker; 1: hRI gene PCR product."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2重组质粒的鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1菌落PCR ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分别将pNBEI～VII 表达载体（图 2）及扩增出的 hRI基因经BamHI 和 NotI 酶切后，经T4DNA 连接酶连接，转化到 E.coli TransI中，于Amp'抗性平板涂布培养， $3 7 \\mathrm { ~ \\textdegree ~ }$ 过夜培养，每种载体选取4 个阳性菌落做菌落 PCR 检测（图3），在 $1 \\%$ 琼脂糖凝胶电泳上可以看到大小约 1383 bp 的pNBEI～VIII 重组载体目的条带，同期望大小基本相符，确定重组表达载体构建成功。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9852825927ec4b4ca1acd8ed0162c062b21ab5837e1177731040c31a234d0f68.jpg",
+        "img_caption": [
+            "图2酶切检测重组表达载体"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M：DNA 分子标准;1:PCR 扩增的hRI基因; $2 { \\sim } 9 { \\colon } \\mathrm { B a m H I }$ 与NotI酶切的重组载体pNBE$\\mathrm { I } { \\sim } \\mathrm { V I I I } _ { \\circ }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Detection of the recombinant expression vector by restriction enzyme digestion ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M: DNA marker; 1: PCR amplified hRI gene; 2\\~9: Recombinant vectors pNBE I to VIII digested with BamH I and Not I. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/76408a27570795cc87bf2d937fa2580f8a1f96e2f0f2b739772236742e0b609c.jpg",
+        "img_caption": [
+            "图3菌落 PCR 鉴定重组表达载体"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M：DNA分子标准； $1 { \\sim } 4$ ：重组质粒pNBEI-hRI； $5 { \\sim } 8$ ：重组质粒pNBEII-hRI； $9 \\sim$ 12：重组质粒pNBEIIII-hRI； $1 3 \\sim 1 6$ ：重组质粒pNBEIV-hRI； $1 7 \\sim 2 0$ ：重组质粒 pNBE V- hRI； $2 1 \\sim 2 4$ ：重组质粒 pNBEVI-hRI； $2 5 { \\sim } 2 8$ ：重组质粒 pNBEVI-hRI; $2 9 \\sim 3 2$ ：重组质粒pNBEVIII-hRI ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Detection of the recombinant expression vector by PCR ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M:DNA marker; $1 { \\sim } 4$ : recombinant plasmid pNBE I-hRI; $5 { \\sim } 8$ :recombinant plasmid pNBE I-hRI; 9\\~12: recombinant plasmid pNBE III-hRI; $1 3 { \\sim } 1 6$ : recombinant plasmid pNBE IV-hRI; 17\\~20: recombinant plasmid pNBE V-hRI; 21\\~24: recombinant plasmid pNBE VI-hRI; 25\\~28: recombinant plasmid pNBE VII-hRI; $2 9 { \\sim } 3 2$ : recombinant plasmid pNBE VIII- hRI ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3重组菌的自诱导表达",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "挑选检测成功的菌株，按照质粒提取试剂盒方法提取质粒，将其转化至表达感受态细胞E.coliBL21（DE3）中，筛选菌株接种后自诱导培养，收集沉淀， $12 \\%$ 聚丙烯酰胺凝胶电泳显示（图4），重组菌 BL21（DE3）/pNBEI-hRI、BL21（DE3）/pNBE III-hRI、BL21（DE3）/pNBEIV-hRI、BL21（DE3）/pNBEV-hRI表达的融合蛋白与期望基本一致，大小分别为 63、90、105、66.1KDa。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef01b0c22c73cc9782aaa875943096e02f074a198ecaceab4ab532009777bcf9.jpg",
+        "img_caption": [
+            "图 $4 ~ \\mathrm { h R I }$ 诱导表达的 $12 \\%$ 聚丙烯酰胺凝胶分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "M：蛋白质分子标准； $1 { \\sim } 8$ ：分别为载体pN $\\mathrm { B E \\ I \\sim \\mathrm { V I I I } }$ 的自诱导表达的重组菌 Fig.4 Analysis of hRI I induced expression of $12 \\%$ polyacrylamide gel   \nM: protein marker; 1 to 8: self-inducible recombinant strains of vector pNBE I to VII1, respectively ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4重组蛋白的可溶性表达鉴定",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对1.3.3中得到的沉淀通过MagNi磁珠纯化，对各重组菌表达可溶性hRI的状况进行检测，通过 $12 \\%$ 聚丙烯酰胺凝胶电泳可以看出（图5)，重组菌 BL21（DE3）/pNBEI- hRI、BL21（DE3）/pNBE II- hRI、BL21（DE3）/pNBE IV-hRI、BL21（DE3）/pNBEV-hRI 经过洗脱后蛋白条带与期望值大小相符，蛋白表达量分别为 $3 7 . 1 7 \\%$ 、 $3 2 . 9 9 \\%$ 、$4 2 . 6 3 \\%$ 、 $2 9 . 1 8 \\%$ ，其余四种重组菌未表达可溶性蛋白，并且从条带上看杂蛋白含量最少的是重组菌 BL21（DE3）/pNBEIV-hRI，重组蛋白NusA-hRI 表达量偏高，大小约105kDa，同期望的分子质量大小基本一致。接下来优化此重组菌的培养条件，使其表达量提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/25ec1461ba5c93c959cdbcec9a75e34dd889564371d1aec7d072e474c618e9e0.jpg",
+        "img_caption": [
+            "图5hRI可溶性表达的 $12 \\%$ 聚丙烯酰胺凝胶分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "M:蛋白分子标准;1,5,9,13,17,21,25,29:分别为表达载体 pNBEI\\~VII的重组菌裂解后沉淀;2,6,10,14,18,22,26,30:分别为表达载体 pNBEI\\~VIII 的重组菌裂解后上清;3,7,11,15,19,23,27,31:分别为表达载体 pNBEI\\~VIII重组菌纯化的穿透;4,8,12,16,20,24,28,32:分别为表达载体 pNBEI\\~VIII重组菌纯化的洗脱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 5 Analysis of soluble expression of hRI by $12 \\%$ polyacrylamide gel M: protein marker; 1, 5,9, 13, 17, 21, 25,29: precipitated by recombinant plasmids   \nexpressing the vector pNBE I\\~VIII,respectively; 2, 6,10,14,18,22,26,30: The supernatant of the recombinant plasmid pNBE I\\~VII was cleaved; 3,7,11,15,19, 23, 27, 31:   \nrespectively, the penetration of the expression vector pNBE I\\~VII recombinant bacteria; 4, 8,12,16, 20,24,28,32: elution of the purified recombinant plasmid pNBE I\\~VII1, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5重组蛋白hRI自诱导表达条件优化",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.1单因素试验 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "选取对菌体生长影响较大的温度、pH、接种量、瓶装量进行单因素实验，各因素水平及结果见表2。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "菌体密度虽然随着温度升高而变大，但是蛋白表达量及产量会降低，所以 $2 0 ^ { \\circ } \\mathrm { C }$ 为最佳诱导温度，此时蛋白产量是 $4 3 7 . 1 1 3 \\mathrm { { m g / L } }$ ；瓶装量越大，溶氧量就会越小，所以50$\\mathrm { m L } / 2 5 0 ~ \\mathrm { m L }$ 是最佳瓶装量；蛋白产量为 $5 8 7 . 2 4 3 \\mathrm { m g / L }$ ；接种量和 $\\mathfrak { p H }$ 对蛋白表达影响较小，在接种量 $2 \\text{‰}$ ， $\\mathfrak { p H }$ 为7时蛋白产量最高，分别是 $5 4 6 . 3 3 9 ~ \\mathrm { m g / L }$ 、 $5 4 2 . 0 1 1 ~ \\mathrm { m g / L }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/28ccb01100b72f9668a9f2df833cd581bef1437dcc3997f22d1ad6632caa3d3a.jpg",
+        "table_caption": [
+            "表2培养条件单因素实验设计及结果",
+            "Table 2 Single factor experimental design and results of culture conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素</td><td>水平</td><td>菌体密度(OD)</td><td>蛋白表达量(%)</td><td>蛋白产量(mg/L)</td></tr><tr><td>温度</td><td>16</td><td>1.56</td><td>30.12</td><td>305.272</td></tr><tr><td>Temperature</td><td>20</td><td>1.82</td><td>38.37</td><td>437.113</td></tr><tr><td>(℃)</td><td>25</td><td>2.03</td><td>37.13</td><td>418.720</td></tr><tr><td rowspan=\"6\">pH</td><td>30</td><td>2.17</td><td>35.88</td><td>407.335</td></tr><tr><td>5</td><td>2.42</td><td>49.17</td><td>534.322</td></tr><tr><td>6</td><td>2.56</td><td>51.22</td><td>541.270</td></tr><tr><td>7</td><td>2.50</td><td>53.70</td><td>546.339</td></tr><tr><td>8</td><td>2.63</td><td>52.91</td><td>540.433</td></tr><tr><td>9</td><td>2.33</td><td>49.03</td><td>531.701</td></tr><tr><td rowspan=\"6\">接种量 Inoculum size (%0)</td><td>1</td><td>2.92</td><td>46.42</td><td>535.133</td></tr><tr><td>2</td><td>3.03</td><td>50.07</td><td>542.011</td></tr><tr><td>5</td><td>3.37</td><td>55.97</td><td>539.228</td></tr><tr><td>10</td><td>3.52</td><td>43.31</td><td>526.970</td></tr><tr><td>20</td><td>3.66</td><td>34.88</td><td>462.034</td></tr><tr><td>25</td><td>2.99</td><td>52.55</td><td>562.020</td></tr><tr><td rowspan=\"4\">瓶装量 Bottled volume (mL/250 mL)</td><td>50</td><td>3.28</td><td>57.14</td><td>587.243</td></tr><tr><td>75</td><td>3.11</td><td>56.98</td><td>577.312</td></tr><tr><td>100</td><td>3.08</td><td>54.77</td><td>543.098</td></tr><tr><td>150</td><td>2.97</td><td>49.13</td><td>506.771</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5.2正交试验优化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出， $\\mathrm { R _ { A } { > } R _ { D } > } \\mathrm { R _ { C } > } \\mathrm { R _ { B } }$ ，说明影响该蛋白产量的大小顺序为：温度、瓶装量、接种量、 $\\mathfrak { p H }$ 。从表4可以看出，影响该蛋白产量的各因素显著性次序为温度 $>$ 瓶装量 $\\ >$ 接种量 ${ \\tt > } \\tt { p H }$ ，其中温度有极显著影响，瓶装量和接种量有显著性影响。通过正交试验得到自诱导培养条件的最佳组合为 $\\mathrm { A } _ { 2 } \\mathrm { D } _ { 2 } \\mathrm { C } _ { 3 } \\mathrm { B } _ { 3 }$ ，但正交设计表中并没有该组合的试验，因此，我们补充该组试验，测得蛋白产量为 $7 2 3 . 3 3 7 ~ \\mathrm { { m g / L } }$ 。综合来看，得到最佳诱导培养条件：温度 $2 0 ^ { \\circ }$ C、 $\\mathrm { p H } 8$ 、接种量 $5 \\text{‰}$ 、装瓶量 $5 0 ~ \\mathrm { m L } / 2 5 0 ~ \\mathrm { m L }$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4112c4532e9d844f160b1340840c02358578ab3b076e4af019857c943c99553.jpg",
+        "table_caption": [
+            "Table 3 L9 (34) orthogonal design table and interpretation of results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>试验序号</td><td>A/温度(C)</td><td>B/pH</td><td>C/接种量 (%0)</td><td>D/装瓶量 (mL/250 mL)</td><td>蛋白产量(mg/L)</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>518.335±0.011</td></tr><tr><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>546.431±0.002</td></tr><tr><td>3</td><td>1</td><td>3</td><td>3</td><td>3</td><td>512.785±0.003</td></tr><tr><td>4</td><td>2</td><td>1</td><td>2</td><td>3</td><td>583.213±0.005</td></tr><tr><td>5</td><td>2</td><td>2</td><td>3</td><td>1</td><td>687.236±0.009</td></tr><tr><td>6</td><td>2</td><td>3</td><td>1</td><td>2</td><td>654.112±0.002</td></tr><tr><td>7</td><td>3</td><td>1</td><td>3</td><td>2</td><td>623.621±0.003</td></tr><tr><td>8</td><td>3</td><td>2</td><td>1</td><td>3</td><td>503.901±0.007</td></tr><tr><td>9</td><td>3</td><td>3</td><td>2</td><td>1</td><td>584.097±0.002</td></tr><tr><td>蛋白产 量</td><td>K1 1577.55</td><td>1725.17</td><td>1676.35</td><td>1789.67</td><td></td></tr><tr><td>K2 Protein</td><td>1924.56</td><td>1737.57</td><td>1713.74</td><td>1824.16</td><td></td></tr><tr><td>K3 yield</td><td>1711.62</td><td>1750.99</td><td>1823.64</td><td>1599.90</td><td></td></tr><tr><td>(mg/L) 极差R</td><td>347.01</td><td>25.82</td><td>147.29</td><td>224.26</td><td></td></tr><tr><td colspan=\"6\">表4正交试验方差分析表</td></tr><tr><td colspan=\"2\">因素 离差平方和</td><td colspan=\"2\">自由度 F比</td><td>Table 4 variance analysis table of orthogonal test P值</td><td>显著性 **</td></tr><tr><td colspan=\"2\">温度 20414.941</td><td colspan=\"6\">2 183.564 0.0054</td></tr><tr><td colspan=\"2\">111.214</td><td colspan=\"4\" rowspan=\"2\">2 1.000</td><td rowspan=\"2\">* *</td></tr><tr><td colspan=\"2\">pH</td></tr><tr><td colspan=\"2\">接种量 9721.893</td><td colspan=\"4\">3907.999 2 35.139</td></tr><tr><td colspan=\"2\">瓶装量</td><td colspan=\"4\">0.0277 2 87.416 0.0113</td></tr><tr><td colspan=\"2\"></td><td colspan=\"4\"></td></tr><tr><td colspan=\"2\">误差 111.214</td><td colspan=\"4\">2</td></tr><tr><td colspan=\"2\"></td><td colspan=\"6\"></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "表3L9 $( 3 ^ { 4 } )$ 正交设计表及结果分析"
+        ],
+        "table_footnote": [
+            "注： $\\mathrm { F } _ { 0 . 0 5 }$ $( 2 , 2 ) = 1 9 . 0 0 0$ ；\\*显著差异（ $\\mathrm { P } { < } 0 . 0 5 \\ \\mathrm { ) }$ ）； $^ { * * }$ 极显著差异（ $\\scriptstyle \\mathbf { P < } 0 . 0 1$ ）。Attention : $\\mathrm { F } _ { 0 . 0 5 } \\left( 2 , 2 \\right) = 1 9 . 0 0 0$ ； \\* significant differences ( $\\mathrm { P } { < } 0 . 0 5 \\ )$ ； $^ { * * }$ extremely significantdifferences （ $\\scriptstyle \\mathbf { P < } 0 . 0 1$ ）。"
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5.3MagNi 磁珠纯化",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "取 $1 0 \\mathrm { m L }$ 裂解冻融后离心得到的上清液进行磁珠纯化，通过 $12 \\%$ 聚丙烯酰胺凝胶可以看出。穿透中有极少量hRI，但漂洗中几乎看不到蛋白条带，证明蛋白与磁珠结合情况较好，收集洗脱蛋白只有一条大小为是 $1 0 5 \\mathrm { \\ K D a }$ 的清晰带，同期望一致，纯化量高。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5692d2b9c971520d00bc5a23800f324c178486e9ef800e9896cd06153f0d0d3d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图6磁珠纯化 hRI的 $12 \\%$ 聚丙烯酰胺凝胶 分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "：蛋白质分子标准；1：菌体裂解后的沉淀；2：菌体裂解后的上清；3：纯化穿透峰；$4 { \\sim } 7$ ：纯化杂蛋白漂洗； $8 \\sim 1 2$ ：第1次到第5次分批次洗脱得到的hRI。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 $12 \\%$ polyacrylamide gel analysis of hRI purified by magnetic beads   \nM: protein marker; 1: precipitation after bacterial cell lysis; 2: supernatant after bacterial cell   \nlysis; 3: purification breakthrough peak; 4-7: purification of protein rinsing; 8\\~12: the hRI obtained by sub-batch elution from first to fifth. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.4RNase/Sepharose 亲和层析纯化 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "将收集的各阶段洗脱液进行 $12 \\%$ 聚丙烯酰胺凝胶电泳分析，确定第二个峰为目标蛋白。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/12a0ba7168c31e850194574a1dcf7a5fea41b2a48c9276fe224476e981869ec2.jpg",
+        "img_caption": [
+            "图7RNase/Sepharose 亲和层析纯化",
+            "Fig.7 purification of RNase/Sepharose affinity chromatography "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.5 重组蛋白 NusA-hRI 的浓度测定",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "将纯化后的融合蛋白 NusA-hRI进行聚乙二醇浓缩及透析除盐，通过BCA 法测定其浓度为 $2 9 6 0 . 5 1 3 ~ \\mathrm { m g / L }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5.6融合蛋白NusA-hRI的活性检测",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本实验以M公司购买的RI作对照，通过 $1 \\%$ 琼脂糖凝胶电泳可以看出，加入M公司购买的RI超过 $1 \\mu \\mathrm { L }$ 时，RNA不会降解，纯化后的NusA-hRI加入超过 $0 . 8 \\mu \\mathrm { L }$ 时，RNA不会降解。通过Bio-1D软件进行相近性分析可得，第2\\~10条带与1号条带的相近性分别约为 $1 8 \\%$ 、 $30 \\%$ 、 $30 \\%$ 、 $98 \\%$ 、 $98 \\%$ 、 $30 \\%$ 、 $50 \\%$ 、 $98 \\%$ 、 $98 \\%$ 。通过M公司购买的RI对比，可得酶活力大约为 ${ 5 0 } \\mathrm { U / \\mu L }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/51df07ef402af3ca3f998d57c36cf92ede66800b625e37e5b80ec07a9ea35fdb.jpg",
+        "img_caption": [
+            "图8 hRI酶活性检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "M：DNA分子标准；1：提取的植物叶片RNA；2\\~6：加入体积分别为0.4、0.6、0.8、1.0、 $1 . 2 \\mu 1$ 的M公司的RI；7\\~10：加入体积为0.4、0.6、0.8、 $1 . 0 \\mu \\up$ 的hRI。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8 detection of hRI enzyme activity M: DNA marker; 1: extracted plant leaf RNA; 2\\~6: added RI of M company with volume of 0.4, 0.6, 0.8, 1.0, $1 . 2 \\mu 1$ ,respectively; $7 { \\sim } 1 0$ : added hRI volume of 0.4, 0.6, 0.8, $1 . 0 \\mu \\mathrm { l }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本实验构建了含 SUMO、IF2、GST、NusA、MsyB、Trx 和 MBP 融合标签的重组表达载体，通过磁珠纯化法检测可溶性表达情况[3],最终筛选出表达量高的重组菌 BL21（DE3)(pNBEIV-hRI)，通过单因素及正交试验确定最佳自诱导条件： $3 7 ^ { \\circ } \\mathrm { C }$ 培养6h, $2 0 ^ { \\circ } \\mathrm { C }$ 培养 $2 4 \\mathrm { h }$ 、$\\mathrm { p H } 8$ 、接种量 $5 \\text{‰}$ 、装瓶量 $5 0 ~ \\mathrm { m L } / 2 5 0 ~ \\mathrm { m L }$ 。通过磁珠纯化法检测并通过RNase/Sepharose亲和层析得到表达量高的融合蛋白 NusA-hRI，浓缩脱盐后利用 BCA 法测定其浓度为$2 9 6 0 . 5 1 3 ~ \\mathrm { m g / L }$ 。利用 NusA-hRI抑制RNA酶水解RNA 的能力测定其活性，得到的融合蛋白酶活约为 ${ 5 0 } \\mathrm { U / \\mu L }$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了实现 NusA-hRI的可溶性表达，本实验利用融合标签构建表达载体[15]，选取 BL21（DE3）作为宿主菌及采用低温诱导[16]。通过上述实验可以看出，温度对蛋白的诱导表达及包涵体的形成有极显著影响，所以低温诱导有利于促进蛋白可溶性表达。但因蛋白质性质不同，促进可溶性表达的方法自然不同，所以使hRI达到最高表达量的方法还需深入探索。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1] 葛莹,孙婧慧,闫征,等.小鼠核糖核酸酶抑制剂的高效可溶性表达与氧化抗性鉴定.中国生物工程杂志,2010,30(11):17-23.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ge Y,Sun J H,Yan Z,et al. Eficient soluble expression and oxidative resistance ide-n tification of mouse ribonuclease inhibitors.Chinese Journal of Biotechnology,2010,30(1 1):17-23. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2] 杨明洁,王艇,樊建慧,等.融合蛋白GST-hRI的可溶性表达及对CCI4引起的急性肝损伤的保护作用.中华实用诊断与治疗杂志,2009,23(08):784-787.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Yang M J,Wang T,Fan JH, et al. Solubility of fusion protein GST-hRI and its protective effect on acute liver injury induced by CCl4.Chinese Journal of Practical Diagnosisand Therapy,2009,23(08):784-787. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3] 付大伟,陈启蒙,徐伟.融合蛋白 Trx-T4DL 可溶性表达、纯化与其生物活性应用.食品工 业科技,2018,39(07):83-89+96. Fu D W,Chen Q M,Xu W. Soluble expression, purification and biological application of fusion protein Trx-T4 DL.Science and Technology of Food Industry,2018,39(07):83- $8 9 + 9 6$ [4] Nie Y, Yan W, Xu Y, et al. High-level expression of Bacillus naganoensis pullulanase from recombinant Escherichia coli with auto-induction effect of lac operator. Plos One,2013, 8(10): 78-84.   \n[5] Dammicco S,Goux M, Lemair C,et al. Regiospecific radiolabelling of Nanofitin on Ni magnetic beads with [18F] FBEM and in vivo PET studies. Nuclear Medicine & Biology, 2017, 51(6): 33-39.   \n[6] Makino T, Skretas G, Georgiou G. Strain engineering for improved expression of recombinant proteins in bacteria. Microb Cell Fact ,2011,5(7):10-32.   \n[7] J.H. Park, I.S. Hwang，K.I. Kim,et al. Functional expression of recombinant human ribonuclease/angiogenin inhibitor in stably transformed Drosophila melanogaster S2 cells. Cytotechnol0gy, 2008,57 (1) :93-99.   \n[8] Klink TA，Vicentini AM,Hofsteenge J， et al. High-level soluble production and characterization of porcine ribonuclease inhibitor. Protein Expr Purif. 20o1, 22(2):174-179.   \n[9]万鹏．猪流行性腹泻病毒抗原基因COE 的原核表达与纯化．河南:河南农业大学,2015. Wan P. Prokaryotic expression and purification of porcine epidemic diarrhea virus antigen gene COE. Henan: Henan Agricultural University, 2015.   \n[10] 崔倩倩．防治小菜蛾高效绿僵菌工程菌的构建．北京:中国农业科学院,2013. Cui Q Q. Construction of an engineered fungus for the control of Plutella xylostella. Beijing:Chinese Academy of Agricultural Sciences, 2013.   \n[11] 顾娟，劳勋，金明飞，等．人胰高血糖素样肽-1突变体融合蛋白在大肠杆菌中的自诱导 表达优化．微生物学通报,2010,37(05):726-731. Gu J，Lao X， Jin M F,et al. Optimization of auto-induction expression of human glucagon-like peptide-1 mutant fusion protein in Escherichia coli. Bulletin of Microbiology, 2010, 37(05): 726- 731.   \n[12] 付大伟,陈启蒙,孙莹莹,等.T4DNA 聚合酶在大肠杆菌中高效表达、纯化及部分生物学 活性研究．食品科学,2018,39(16):214-220. Fu D W,Chen Q M,Sun Y Y,et al. High Expression,Purification and Partial Biological Activity of T4 DNA Polymerase in E.coli. Food Science,2018,39(16):214-220.   \n[13] Bernier SC ，Cantin L，Salesse C .Systematic analysis of the expression, solubility and purification of a passenger protein in fusion with different tags. Protein expression and purification 2018,152(7):92-106.   \n[14] Blackburn P, Wilson G, Moore S. Ribonuclease inhibitor from human placenta. Purification and properties. JBiol Chem,1977,252(16):5904-5910.   \n[15] Wanhua Guo,Lin Cao,Zhijun Jia,. High level soluble production of functional ribonuclease inhibitor in Escherichia coli by fusing it to soluble partners. Protein Expresion and Purification.2011,77(2):185-192.   \n[16] 刘皓熙.TAT-MT融合蛋白在大肠杆菌中的高效表达、纯化及体外活性初步测定．广州: 暨南大学,2011. Liu H X. High-level expression, purification and in vitro activity determination of TAT-MT fusion protein in Escherichia coli. Guangzhou:Jinan University, 2011. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

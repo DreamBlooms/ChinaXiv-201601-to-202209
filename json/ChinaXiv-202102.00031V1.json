@@ -1,0 +1,421 @@
+[
+    {
+        "type": "text",
+        "text": "Dialectical thinking islinkedwith smaller bilateral nucleus accumbens and right amygdala: the mediating role of sensitivity to reward ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hui-Xian $\\mathbf { L i } ^ { 1 , 2 }$ ,Xiao Meng $\\mathrm { H u } ^ { 3 * }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1CAS Key Laboratory of Behavioral Science, Institute of Psychology, Beijing, China; ²Department of Psychology, University of Chinese Academy of Sciences, Beijing, China; 3Department of Psychology, Renmin University of China, Beijing, China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiao Meng Hu   \nDepartment of Psychology,Renmin University of China, Beijing, China No. 59 Zhongguancun Street, Haidian District, Beijing 1Oo872, China. E-mail address: xiaomeng $8 2 5 \\textcircled { a }$ gmail.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our current work examined the interface of thinking style and mental health at both behavioral and neuropsychological levels which describe a predisposition to psychopathology. Thirty-nine Chinese participants were divided into high and low holistic thinkers based on the triad task scores， completed the Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ)，and performed structural and resting-state functional magnetic resonance imaging. We found that high holistic thinkers were much less sensitive to reward than low holistic thinkers. Furthermore, their bilateral nucleus accumbens and right amygdala volumes were smaller than those of low holistic thinkers. Our integrated results showed that the relationship between holistic thinking tendency and the amygdala volume was mediated by the nucleus accumbens and the sensitivity to reward. Finally, restingstate functional connectivity results showed increased FC between left nucleus accumbens and bilateral amygdala in high holistic thinkers. The present synthetical results suggest that dialectical thinking may lead to better mental health outcomes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Dialectical thinking； Holistic Thinking; Reinforcement Sensitivity Theory; Amygdala; Nucleus Accumbens; Resting-State Functional Connectivity; Psychopathological Predisposition; Mental Health ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A growing body of work has illuminated that East Asians and Westerners profoundly differ in attention, perception,and cognition (Nisbett and Masuda, 2003; Nisbett and Miyamoto, 2Oo5).East Asians think holistically while Westerners think analytically(Spencer-RodgersandPeng，2O18).Holistic thinking involves understanding a system by sensing its larger-scale patterns as well as giving broader attentiontocontext， relationships， andbackgroundelements.Analytical thinking involves understanding a system by thinking about its parts and how they work together to produce larger-scale effects,as well as giving a narrow focus on objects in the foreground and tend to disentangle phenomena from the contexts in which they are embedded. The holistic thinkers attend to the entire field, assgning causality to it, making relatively little use of categories and formal logic, and relying on \"dialectical\" reasoning (Nisbett et al., 2001). Dialectical thinking influences how East Asians evaluate themselves, their lives,and their subjective well-being. Cross-cultural research shows that East Asians report less positive affect，lower life satisfaction，and psychological well-being than do Westerners (Cheng et al., 2011; Kitayama et al., 200O; Lee and Wu, 2008; Lee and Seligman, 1997; Spencer-Rodgers et al., 2004; Wong et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although most researchers have demonstrated that dialecticism was correlated to lower psychological well-being (Chen et al., 2013; Hamamura et al., 2O08; SpencerRodgers et al.， 2OO4),it is not clear whether dialecticism has positive or negative impacts on mental health (Wong and Liu, 2O18). Holistic thinking cultures accept the coexistence of good and bad in their lives and embrace a view of the world as constantly changing and contradictory (Boucher et al.， 2OO9). Holistic thinkers embrace the coexistence of positive and negative emotions (emotional complexity) and exhibited higher levels of emotional complexity than North Americans (SpencerRodgers et al., 2O1O). The non-dialectical thinkers tend to polarize their emotional experiences, maximizing positive emotions and minimizing negative emotions,while dialectical thinkers tend to maintain a balance between moderate emotions and prefer to aim for emotional moderation (Leu et al.,2Ol1). Therefore,a dialectical thinker may report less frequent high arousal of positive affect, not because she or he has a lower level of subjective well-being but because high arousal of positive affect is not associated with her or his conceptualizations of well-being (Wong et al., 2011). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One looming question is what is the relationship between dialectical thinking and mental health.More specifically，is dialectical thinking associated with better or poorer mental health outcomes? However, the dominant concept of subjective wellbeing consists of positive emotions and the absence of negative emotions (Schimmack, 2Oo7), reflecting European and American cultures.Dialectical thinkers who discourage the adoption of extreme emotions (Miyamoto and Ryff, 2O11） may balance positive emotions by accepting negative emotions and their tendency to accept negative emotional experiences may lead to lower subjective well-being (Wong and Liu, 2O18). Therefore, it is preferable to measure positive and negative affect as separate dimensions. Importantly，we need to examine indicators that are closely related to mental health. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our current work,we proposed examining the associations among thinking style,emotional experiences,and behavioral reactivity as a means to resolve the above issues. Gray's reinforcement sensitivity theory (RST) (Gray,197O; Gray and Mcnaughton, 2Ooo; McNaughton and Corr, 2O04), a prominent neuroscience theory of personality,consists of three major brain systems,which regulate the intensity of approach and withdrawal behavior in response to emotional stimuli: the behavioral inhibition system (BIS), the behavioral activation system (BAS),and the fight-flightfreeze system (FFFS). The BAS is responsible for approach behavior in response to pleasant stimuli, along with positive emotional experiences.The BIS takes control of behavior in response to goal conflict. The BIS is activated when a goal conflict stimulus is presented and is accompanied by anxiety，which inhibits otherwise dominant behavior in the conflict and seeks the best way to resolve the conflict. The FFFS system is activated by all conditioned and unconditioned aversive stimuli regulating defensive avoidance behavior, along with negative emotional experiences (fear). These systems reflect brain structures that influence sensitivity to reinforcing events and control emotional experiences (Torrubia et al., 2001). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The RST shows the existence of two general traits (Adrian-Ventura et al., 2019), which can be assessed with self-report questionnaires. The first is punishment sensitivity (SP),which reflects the responsiveness of the FFFS and the BIS,and the second is reward sensitivity (SR)，which reflects the responsiveness of the BAS (Torrubia et al.，2OO1).Furthermore， the previously studied BIS reflected the combined BIS and FFFS function (Corr，2OO4). Individuals with high SR/BAS experience more positive emotions and exhibit more approach behavior to achieve positive reinforcement， whereas individuals with high SP/BIS experience more negative emotions and exhibit more behavioral inhibition (Smillie et al.,2OO6). Thus, RST can provide meaningful information for understanding individuals’ positive and negative emotional experiences and behavioral responses. Specifically, we can assess the extent to which individuals pursue positive emotions (BAS) and avoid negative emotions (BIS) separately by using existing well-validated questionnaires. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Prior research has shown that SP/BIS and SR/BAS are valid predictors of various forms of psychopathology (Kimbrel et al., 2OO7; Torrubia et al., 2O01). Studies have demonstrated that higher SP can generalize anxiety disorders (Maack et al., 2O12) and anxiety-depression mixed disorders (Hundt et al.， 2Oo7)，obsessive-compulsive disorders (Fullana et al., 2OO4), and longer duration of schizophrenia (Scholten et al., 2006),while lower punishment sensitivity can predict unipolar depression (Hundt et al.,2007). Furthermore， higher BAS can predict hyperactive-impulsive attentiondeficit/hyperactivity disorder behaviors(Mitchell and Nelson-Gray，2Oo6） and addictive behaviors (Franken et al.，2O06; Pardo et al.， 20O7; Scholten et al., 2006; Zisserson and Palfai，2OO7).At the opposite extreme, some researchers related depression disorders to lower BAS activity (Hundt et al., 2OO7; Kimbrel et al., 2007). Therefore, the RST can provide an effective assessment of the psychopathological vulnerability of holistic and analytical thinkers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The responsiveness of the BIS/BAS system depends on environmental inputs, while the sensitivity of the system is biologically based (Scholten et al.， 2O06). Put differently, self-report questionnaires measure more of an individual's responsiveness or perception of a stimulus,whereas biometric measures are direct indicators of individual sensitivity. Neurobiological factors (e.g., brain structure and function） play a vital role in our understanding of different thinking styles and their mental health risk. Of particular interest, the nucleus accumbens and amygdala have been involved in social and emotional processing as well as reward and punishment processing (Sheth et al.， 2O17). Moreover, their structural alteration has been known to be associated with psychopathology (Tottenham and Galvan, 2O16). One pathway by which holistic/dialectical thinking may confer mental health risk is through changes to the amygdala and the nucleus accumbens. Thus,examining the structural and functional differences between the nucleus accumbens and the amygdala in individuals with holistic and analytical thinking may provide insights into the emergence of psychopathology. Furthermore， the amygdala and the nucleus accumbens can directly reflect individuals with different thinking styles sensitize to positive and negative emotions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Therefore, our work aimed to investigate the relationship between thinking styles and mental health from two aspects. On the one hand, we linked the thinking styles to Gray's reinforcement sensitivity theory as a predictor of psychopathology. On the other hand, we examined whether structural and functional differences of the nucleus accumbens and amygdala exist between holistic and analytical thinkers. Finally，we integrated thinking styles,reinforcement sensitivity,and neural substrates. First, we examined group differences in participants with holistic versus analytical thinking styles by the triad task (Talhelm et al.,2O14).Participants selected one of two images that they thought matched the target image. One selection type belongs to the same abstract category (analytical thinking) as the target picture (e.g., chickens and cattle belong to the animal category),and the other has a functional relationship (holistic thinking) with the target picture (e.g. catle eats grass). One disadvantage of crosscultural research comparing analytical and holistic thinking styles is that it is dificult to control the presence of other culture-specific variables that might covary with the analytical-holistic cognitive styles (Bacha-Trams et al.,2O18). Therefore, we studied holistic and analytical participants within the Chinese culture as there is a spectrum of individuals with analytical to holistic cognitive styles within each culture (Kitayama et al.,20O6; Talhelm et al., 2O14). Therefore, we calculated the ratio of the selected relational pairings to the overall selection,representing individuals’ holistic thinking tendency. We used the Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ) (Torrubia et al., 2OO1) to evaluate the extent and sensitivity to which individuals experience positive and negative emotions. This questionnaire is suitable for assessing self-reported sensitivity to social reward and punishment and social tendency and avoidance behavior (Fussner et al.， 2O18). Furthermore，we collected the structural and resting-state functional images using magnetic resonance imaging to examine the structural and functional of the nucleus accumbens and the amygdala. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We first tested the hypothesis that holistic thinkers would be less prone to positive reward, nor negative threat. Then, we relate thinking styles to the volume of the amygdala and the nucleus accumbens and their functional connectivity in the resting-state. Finally, we examined relationships among thinking style, reinforcement sensitivity, and neutral substrates. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Participants. Fifty Chinese adult participants who were young and healthy completed the magnetic resonance imaging scanning experiment and the triad task. Thirty-nine (18 males; age range: 18-28 years; mean age: 21years) of them accomplished the MRI scanning experiment， the triad task,and online survey. Exclusion criteria included neurological or psychiatric disorders, psychotropic medication use and any history of substance or alcohol abuse.Approval was obtained from the Institutional Review Board of the Institute of Psychology，Chinese Academy of Sciences.All participants were given written informed consent. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Questionnaires. The Sensitivity to Punishment and Sensitivityto Reward ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Questionnaire (SPSRQ) (Torrubia et al., 2001)） consists of 48 yes-no response items which contains two independent 24-item scales: sensitivity to punishment (SP) and sensitivity to reward (SR). The Chinese version of SPSRQ(SPSRQ-CV） (En-jie, 2012）removed 12 items that were not closely related to the life of Chinese or inconsistent with their way of thinking but was basically consistent with the original SPSRQ scale structure.The internal consistency coefficients of SR(16-item) and SP (18-item) were O. 64 and O.8O. The test-retest reliability of SR and SP were O.89 and 0. 61. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Evaluate the holistic-analytical thinking styles. Participants were asked to freely select one of two images that they thought matched the target image (see Fig. 3A). Selected items included two types. One type belonged to the same abstract category (i.e.analytical thinking) as the target picture (e.g.,chickens and cattle belong to the animal category),and the other has a functional relationship (i.e. holistic thinking) with the target picture (e.g. cattle eats grass). The task consisted of 14 different selection trials (See supplementary materials for all stimuli). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The task-fMRI experiment obtained the number of two types of pictures selected by participants. The result showed that thirty-nine participants chose more relational pairings (the number of relational pairings: $9 . 3 8 ~ \\pm ~ 2 . 8 4$ ； the number of category pairings: $4 . 1 3 \\pm 2 . 9 2$ · $\\mathrm { T } _ { 3 8 } = 5 . 7 4$ ， $\\mathrm { p } < . 0 0 0 0 1 \\$ ). We calculated the ratio of the selected relational pairings to the overall selection.Participants in the top 1/3 of the ratio score were categorized into high holistic thinker group/holistic thinking tendency $( 0 . 9 0 \\pm$ 0.07). And those in the bottom $1 / 3$ of the ratio score were categorized into low holistic thinker group/analytical tendency‘ $( 0 . 5 1 \\pm 0 . 1 9 )$ ). The differences between the two groups was considerable ( $\\mathrm { \\Delta T } _ { 2 0 . 0 1 } = 7 . 6 4$ , p <.00001). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MRI data acquisition. MRI data were acquired on a GE MR75O 3.OT scanner with 8-channel cranial coil at MRI Research Center, Institute of Psychology， Chinese Academy of Sciences. T1-weighted anatomical images were acquired using 3D-SPGR pulse sequence (192 sagittal slices, repetition time $( \\mathrm { T R } ) = 6 . 6 5 2 ~ \\mathrm { m s }$ , echo time $\\mathrm { ( T E ) = }$ $2 . 9 2 8 ~ \\mathrm { m s }$ , flip angle $( \\mathrm { F A } ) = 1 2$ degrees, field of view $( \\mathrm { F O V } ) = 2 5 6 ~ \\mathrm { m m } \\times 2 5 6 ~ \\mathrm { m m }$ matrix size $= 2 5 6 \\times 2 5 6$ ，slice thickne $\\mathrm { s s } = 1 ~ \\mathrm { m m }$ ，voxel size $= 1 \\times 1 \\times 1 ~ \\mathrm { m m ^ { 3 } } .$ ).The functional data were acquired with echo-planar imaging (EPI) sequence (37 axial slices, $\\mathrm { T R } = 2 0 0 0 ~ \\mathrm { m s }$ ， $\\mathrm { T E } = 3 0 ~ \\mathrm { m s }$ ， $\\mathrm { F A } = 9 0$ degrees, $\\mathrm { F O V } = 2 2 4 \\ \\mathrm { m m } \\times 2 2 4 \\ \\mathrm { m m }$ matrix size $= 6 4 \\times 6 4$ ， slice thickness $= 3 . 5 \\mathrm { m m }$ , voxel size $= 3 . 5 \\times 3 . 5 \\times 3 . 5 \\mathrm { m m } ^ { 3 } .$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MRI data analysis. The cortical and subcortical volumetric segmentation was performed with DPABISurf (http://fmri.org/DPABISurf) based on Freesurfer 6.0.1 (http:/surfer.nmr.mgh.harvard.edu). The volume of bilateral nucleus accumbens and amygdala were extracted from Freesurfer. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The resting-state functional MRI data preprocessing was performed using the toolbox for Data Processing & Analysis of Brain Imaging (Yan et al.，2016) (http://rfmri.org/DPABI) based onStatisticalParametricMapping (http://www.fil.ion.ucl.ac.uk/spm). The preprocessing comprised slice-timing and head motion correction, normalized to MNI space by DARTEL. Band-pass temporal filter $( 0 . 0 1 { - } 0 . 1 \\ \\mathrm { H z } )$ ）and spatial smoothing (4mm FWHM kernel) were applied to the normalized functional images. We defined bilateral amygdala and nucleus accumbens as anatomical regions of interest (Chao et al.） and extracted the average time series from each ROI and calculated their functional connectivity (FC) between each ROIpair by Pearson correlation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mediation analysis. We used the PROCESS tool in SPSS (Hayes, 2O17) to test the relationship among holistic thinking tendency， sensitivity to reward (SR), bilateral nucleus accumbens，and amygdala. The bootstrap approach was used to test significance by 5OoO bootstrap resampling to generate the $9 5 \\%$ confidence interval. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Group differences in sensitivity to reward and punishment. The holistic thinking tendency was negatively correlated with the reward sensitivity (Spearman's rho $( 3 9 ) =$ -0.366, ${ \\tt p } = 0 . 0 2 2 )$ but was not correlated with punishment sensitivity (Spearman's rho $( 3 9 ) = 0 . 1 9 8$ ， $\\mathrm { p } = 0 . 2 2 8 \\mathrm { , }$ ）(Table 1).Furthermore,we found that high holistic thinkers were much less sensitive to reward than low holistic thinkers (Fig. 1A. $\\mathrm { T } _ { 2 8 } = - 2 . 4 6 5$ p $\\mathbf { \\varepsilon } = \\mathbf { \\varepsilon } 0 . 0 2 0$ ，Cohen's $\\mathrm { ~ d ~ } = \\ - 0 . 9 0 2$ ， $9 5 \\%$ $\\textrm { C I } = ~ ( - 3 . 8 5 8 , ~ - 0 . 3 5 6 ) )$ ，while sensitivity to punishment was not different from low holistic thinkers (Fig. 1A. $\\mathrm { T } _ { 2 8 } = 1 . 3 3 6$ ， ${ \\mathfrak { p } } =$ 0.192, Cohen's $\\mathrm { d } = 0 . 4 8 9$ $9 5 \\%$ $\\mathbf { \\nabla } , \\mathbf { C I } = ( - 1 . 0 4 7 , 4 . 9 7 6 ) )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/75ffd1343f194056058cbac1fd5b3cb19a32659384ff78c4de3b3a545ba9e71d.jpg",
+        "table_caption": [
+            "Table 1. The correlation between holistic thinking tendency,sensitivity to reward and punishment, the volume of bilateral nucleus accumbens,and amygdala $( { \\mathfrak { n } } = 3 9$ ） "
+        ],
+        "table_footnote": [
+            "Note: #: Non-normal distribution. a: $\\mathsf { p } = 0 . 0 5 4$ Two-tailed. \\* $\\mathfrak { i } _ { \\mathfrak { p } } < 0 . 0 5$ ; \\*\\* p <0.01. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Mean</td><td>SD</td><td>HT#</td><td>SR#</td><td>SP#</td><td>LNAcc</td><td>RNAcc</td><td>LAmy</td></tr><tr><td>Sensitivity to Reward (SR)</td><td>9.44</td><td>2.64</td><td>-0.366*</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sensitivity to Punishment (SP)</td><td>11.36</td><td>4.10</td><td>0.198</td><td>-0.206</td><td></td><td></td><td></td><td></td></tr><tr><td>the volume of</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Left Nucleus Accumbens (LNAcc)</td><td>553.13</td><td>82.51</td><td>-0.523**</td><td>0.379*</td><td>-0.073</td><td></td><td></td><td></td></tr><tr><td>Right Nucleus Accumbens (RNAcc)</td><td>629.45</td><td>87.48</td><td>-0.463**</td><td>0.311a</td><td>-0.146</td><td>0.641**</td><td></td><td></td></tr><tr><td>Left Amygdala (Bar-Haim,#1719)</td><td>1647.72</td><td>216.32</td><td>-0.194</td><td>0.109</td><td>0.003</td><td>0.420**</td><td>0.494**</td><td></td></tr><tr><td>Right Amygdala (RAmy)</td><td>1826.26</td><td>210.70</td><td>-0.321*</td><td>0.137</td><td>-0.009</td><td>0.490**</td><td>0.556**</td><td>0.878**</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Nucleus accumbens and amygdala volume compared between two groups. High holistic thinkers had smaller volumes in the left nucleus accumbens (Fig. 1B. $\\mathrm { T } _ { 2 8 } =$ -3.614, $\\mathtt { p } = 0 . 0 0 1$ ，Cohen's $\\mathrm { d } = - 1 . 3 2 3 , 9 5 \\% \\mathrm { C I } = ( - 1 5 5 . 0 1 3 , - 4 2 . 8 6 6 ) \\mathrm { \\Omega }$ ） compared to low holistic thinkers. In addition, right nucleus accumbens volumes were also smaller in high holistic thinkers (Fig. 1B. $\\mathrm { T } _ { 2 8 } = - 3 . 2 7 9$ ， $\\mathtt { p } = 0 . 0 0 3$ , Cohen's $\\mathrm { d } = - 1 . 2 0 0$ ， $9 5 \\%$ CI $= ( - 1 5 2 . 1 5 8 , - 3 5 . 1 4 2 ) )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The volume of the right amygdala was smaller in high holistic thinkers than in low holistic thinkers $( { \\mathrm { F i g . ~ } } 1 { \\mathrm { C . ~ } } \\mathrm { T } _ { 2 8 } = - 2 . 1 7 0 , { \\mathrm { p } } = 0 . 0 3 9$ , Cohen's $\\mathrm { d } = - 0 . 7 9 4 , 9 5 \\% \\mathrm { C I } =$ (-321.984,-9.286)). Left amygdala volumes were likewise smaller in high holistic thinkers, but the difference between the two groups was not significant. (Fig. 1C. $\\mathrm { T } _ { 2 8 }$ $= - 1 . 6 1 0 , \\mathrm { p } = 0 . 1 1 9 )$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe9350c1e8fe31d66761034a3fdd44a6071f5d254b67a2d0870a9e3b3b4f0134.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.1.Group differences in the sensitivity to reward and punishment (A)，bilateral nucleus accumbens (B),and amygdala volume (C).D,the relationship between holistic thinking tendency, sensitivity to reward, left nucleus accumbens volume,and bilateral amygdala. E. Group differences in the resting-state functional connectivity between left nucleus accumbens and bilateral amygdala.H_holistic thinkers $\\mathbf { \\tau } = \\mathbf { \\tau }$ high holistic thinker group; $\\mathrm { ~ L ~ } _ { - }$ holistic thinkers $\\mathbf { \\tau } = \\mathbf { \\tau }$ low holistic thinker group. Pink represents the high holistic thinker group and blue represents the low holistic thinker group. $\\mathrm { S R } =$ sensitivity to reward, $\\mathrm { S P = }$ sensitivity to punishment, LNAcc $\\mathbf { \\tau } = \\mathbf { \\tau }$ left nucleus accumbens,，LAmy $\\mathbf { \\tau } = \\mathbf { \\tau }$ left amygdala， RAmy $\\mathbf { \\tau } = \\mathbf { \\tau }$ right amygdala, $\\mathrm { F C = }$ functional connectivity. \\* $p < 0 . 0 5$ ： $^ { * * } p < 0 . 0 1$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mediation analysis. We further examined the relationship among holistic thinking tendency, sensitivity to reward and punishment, and the volume of nucleus accumbens and amygdala. We first tested the normality of these variables (Table S1). Spearman rank correlation was used to calculate the correlation for data involving non-normal distributions, otherwise, Pearson correlation was used. First, we found that there were positive correlations between bilateral nucleus accumbens and bilateral amygdala volumes (Table 1 Pearson's $\\mathbf { r } = 0 . 4 2 0$ ， $\\mathrm { { p = 0 . 0 0 8 } }$ ， Pearson's $\\mathrm { r } = 0 . 4 9 0$ ， $\\mathtt { p } = 0 . 0 0 2$ Pearson's $\\mathrm { r } = 0 . 4 9 4$ ， $\\mathrm { p } = 0 . 0 0 1$ , Pearson's $\\mathrm { r } = 0 . 5 5 6 , \\mathrm { p } < . 0 0 1 )$ . The holistic thinking tendency was negatively related to bilateral nucleus accumbens volumes (Table 1 Left: Spearman's rho $( 3 9 ) = - 0 . 5 2 3 , \\mathrm { p } < . 0 0 1$ ; Right: Spearman's rho $( 3 9 ) = - 0 . 4 6 3 , \\mathrm { ~ I ~ }$ $\\mathbf { \\epsilon } = \\mathbf { \\epsilon } _ { 0 . 0 0 3 } )$ and right amygdala volume (Table1 Spearman's rho $( 3 9 ) = - 0 . 3 2 1$ ， ${ \\mathfrak { p } } =$ 0.047).Furthermore, the sensitivity to reward was positively correlated with left nucleus accumbens volume (Spearman's rho $( 3 9 ) = - 0 . 3 7 9$ ， ${ \\tt p } = 0 . 0 1 7 ,$ ). The positive correlation between reward sensitivity and right nucleus accumbens volume was borderline significant (Spearman's rho $( 3 9 ) = - 0 . 3 1 1$ ， $\\mathfrak { p } = 0 . 0 5 4 \\AA ,$ . We did not find a significant correlation between punishment sensitivity and other variables. The correlation results among all variables are presented in Table 1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，we examined the specific relationships between the variables mentioned above by mediation analysis. On the one hand, the results showed that sensitivity to reward had a certain effect between thinking tendency and nucleus accumbens volume. Specifically, it played a partial mediating role between the thinking tendency and the volume of the left nucleus accumbens (Fig.1D, Table2). However，for the right nucleus accumbens, the mediating effect of SR was not significant, but the regulating effect was significant (Fig. S1). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,we found that the relationship between holistic thinking tendency and bilateral amygdala volume was fully mediated by the volume of the nucleus accumbens (Fig. 1D, Table2, a2b2; Fig. S2). Moreover, reward sensitivity can also influence their relationship through voxel nucleus volume (Fig. 1D, Table2, ala3b2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/b92a5d06ec7ee9edf13938b3c9b70286ff7a69d766d795f14e9f02562e5d51b5.jpg",
+        "table_caption": [
+            "Table 2. Specific and total indirect effects,direct effect, standard error,and $9 5 \\%$ bias-corrected confidence intervals $\\mathrm { ( n } = 3 9 \\mathrm { ) }$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Path</td><td>Effect</td><td>Boot SE</td><td>BootLL CI95%</td><td>BootUL CI95%</td></tr><tr><td colspan=\"5\">X=HT;Y: Left_Amygdala; Mediators: sensitivity to reward; Left Nucleus Accumbens</td></tr><tr><td>a1b1</td><td>19.26</td><td>76.45</td><td>-74.94</td><td>236.47</td></tr><tr><td>a2b2</td><td>-208.36</td><td>106.28</td><td>-480.43</td><td>-45.55</td></tr><tr><td>ala3b2</td><td>-39.78</td><td>30.24</td><td>-163.02</td><td>-4.12</td></tr><tr><td>Total indirect effect</td><td>-228.88</td><td>107.03</td><td>-491.73</td><td>-59.43</td></tr><tr><td>Direct effect c'</td><td>76.88</td><td>180.37</td><td>-289.29</td><td>443.06</td></tr><tr><td colspan=\"5\">X= HT; Y: Right_Amygdala; Mediators: sensitivity to reward; Left Nucleus Accumbens</td></tr><tr><td>a1b1</td><td>29.24</td><td>67.09</td><td>-52.52</td><td>232.74</td></tr><tr><td>a2b2</td><td>-207.49</td><td>100.14</td><td>-462.69</td><td>-54.30</td></tr><tr><td>ala3b2</td><td>-39.61</td><td>31.11</td><td>-157.30</td><td>-3.77</td></tr><tr><td>Total indirect effect</td><td>-217.86</td><td>96.63</td><td>-465.31</td><td>-63.54</td></tr><tr><td>Directeffectc’</td><td>-68.92</td><td>168.45</td><td>-410.90</td><td>273.05</td></tr><tr><td colspan=\"5\">X=HT; Y: Left_Nucleus Accumbens; Mediator: sensitivity to reward</td></tr><tr><td>Indirect effect</td><td>-31.29</td><td>22.84</td><td>-100.16</td><td>-0.08</td></tr><tr><td>Direct effect</td><td>-163.90</td><td>55.36</td><td>-276.18</td><td>-51.62</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Note: alb1,Holistic thinking tendency $$ sensitivity to reward $$ Left/Right Amygdala; a2b2, Holistic thinking tendency $$ Left_ Nucleus Accumbens $$ Left/Right Amygdala; ala3b2, Holistic thinking tendency $$ sensitivity to reward $$ Left_ Nucleus Accumbens $$ Left/Right Amygdala. $\\mathrm { H T } =$ Holistic thinking tendency, $\\mathrm { S E = }$ standard error, $\\mathrm { C I } =$ confidence interval, $\\mathrm { L L } =$ lower limit, ${ \\mathrm { U L } } =$ upper limit. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The resting-state functional connectivity between bilateral nucleus accumbens ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "and amygdala ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We compared the FC strengths between high and low holistic thinkers. High holistic thinkers demonstrated increased FC between left nucleus accumbens and bilateral amygdala than low holistic thinkers (Fig.1E, LNAcc_LAmy: $\\mathrm { T } _ { 2 8 } = 3 . 2 0 9$ ， $\\mathtt { p } = 0 . 0 0 3$ Cohen's $\\mathrm { d } = 1 . 1 7 4$ ， $9 5 \\%$ CI = (0.069, 0.314); LNAcc_RAmy: $\\mathrm { T } _ { 2 8 } = 2 . 5 1 8$ ， ${ \\tt p } = 0 . 0 1 8$ Cohen's ${ \\mathrm { d } } = 0 . 9 2 1$ ， $9 5 \\% \\mathrm { C I } = ( 0 . 0 2 7 , 0 . 2 6 1 ) )$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To our knowledge,this is among the first to link the reinforcement sensitivity theory and neural substrates of holistic versus analytical thinking， providing behavioral and biological mechanisms to support the link between different ways of thinking and mental health indicators. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "On the one hand, we used SPSRQ based on reinforcement sensitivity theory to evaluate individual sensitivity to positive and negative emotions. We found that the sensitivity to reward of high holistic thinkers was lower than those with low holistic thinkers,that is to say,the high holistic thinkers were more insensitive to reward signals and they were less likely to pursue extreme positive emotions. Different thinkers’ beliefs about mental health could partially explain our results.Tsai et al.'s previous work shows that Hong Kong Chinese value high-arousal positive affect less than European Americans do and value low-arousal positive affect more than European Americans do (Tsai et al.， 2006). The values people place on things influence their behavior,and they tend to promote their mental health by looking for experiences that best fit their beliefs (Wong and Liu, 2O18). Wong et al.'s work also demonstrates that participants who endorse dialectical beliefs report less positive affect (Wong et al., 2O11). Therefore, holistic beliefs regarding mental health which emphasize moderation may result in lower levels of high-arousal positive affect and approach behavior, given that the pursuit of positive affect is less relevant to these beliefs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Substantial research has shown that SP/BIS and BR/BAS are associated with various psychological disorders and mental illnesses (Torrubia et al., 2Oo1), especially punishment sensitivity. Reward sensitivity is less associated with mental illness and is mainly manifested in addictive behaviors,i.e.，addicts have high reward sensitivity (Franken et al., 2O06; Pardo et al., 2007; Scholten et al., 2006; Zisserson and Palfai, 2007).An epidemiological study shows that BIS is a vulnerability factor for anxiety and depression disorders and supports the role of BAS for drug abuse and noncomorbid alcohol diagnoses, nevertheless there is no relationship between BAS and diagnoses of depression (Johnson et al.， 2Oo3). However， to distinguish between subtypes of depressive symptoms,researchers have found that low BAS predicts anhedonic depression symptoms but not mixed anxiety-depression symptoms (Hundt et al.,2OO7;Kimbrel et al., 2OO7). Furthermore, the BIS and BAS are functionally interdependent, with each having an antagonistic effect on the actions of the other system， so that low BAS may exacerbate the effects of high BIS on anhedonic depressive symptoms (Corr, 2OO2). Hundt et al.'s work shows that when life stress is low, low BAS and high BIS predict anhedonic depression (Hundt et al., 2OO7). We did not find differences in punishment sensitivity between the two groups (Fig. 1A), whereas reward sensitivity is lower in individuals with high holistic thinkers (Fig. 1A), suggesting that individuals with high holistic thinkers may have a predisposition to suffer from anhedonia depression. Especially when one's life circumstances are generally good (less stressful in life), individuals with dialectical tendency may ‘look for the bad in the good' and less pursuit of positive emotional tendencies may lead to a relative increase in anhedonia. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The amygdala and the nucleus accumbens are closely related to our emotions and that respond to both negative or positive signals (Monk et al., 2OO8). Their structural alteration has been known to be associated with psychopathology (Tottenham and Galvan, 2O16). Researchers have found that Trait anxiety is positively correlated with the bilateral volume of nucleus accumbens (Kühn et al., 2O11). Furthermore, Gunther et al.'s research reveals that higher levels of social anxiety predicts increased gray matter volume in the right amygdala and bilateral nucleus accumbens (Günther et al., 2018). Adolescentsmajor depression disorder (MDD） shows larger nucleus accumbens volume compared to healthy controls (Lee et al., 2O2O). A meta-analysis of amygdala volume in mood disorders shows a trend toward increased left amygdala volume in adults with bipolar disorder.Besides, left amygdala volume is larger in unipolar inpatients than in controls,whereas there is no significant changes in amygdala volume in unipolar outpatients (Hamilton et al., 2Oo8). The effects of the amygdala in patients with MDD is ambiguous. The largest MDD study did not detect differences for the amygdala and nucleus accumbens，while lower hippocampal volumes (Schmaal et al.，2O2O). Our work suggests that the bilateral nucleus accumbens and right amygdala are smaller in individuals with high holistic thinkers (Fig. 1B,1C). Thus, individuals with a high holistic thinking style may be at lower risk for anxiety and depression. Based on neural mechanisms,we may be able to state that individuals with dialectical thinking report lower subjective well-being,but it does not mean that their thinking styles result in bad outcomes for mental health. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,our results indicate that the relationship between holistic thinking tendency and the amygdala volume is fully mediated by the nucleus accumbens (Fig. 1D，Fig. S2). Substantial studies demonstrated that across various species， the amygdala and vomeronasal nucleus respond to both negative and positive signals (Ernst et al.， 2005； Monk et al.， 2008). Especially，the amygdala responds most dramatically to negative stimuli (Phelps et al., 2OO1; Whalen et al., 1998),while the nucleus accumbens is most consistently responsive to reward stimuli (Kelley, 2004; May et al.， 2O04； Schultz， 2OO4). Furthermore, there are numerous neuronal connections between the amygdala and the nucleus accumbens (Keistler et al., 2017; Piantadosi et al., 2O17),which has been implicated in the formation of cue-reward associations (Beyeler et al., 2O16; Namburi et al., 2015). Our results show that holistic thinking tendency is negatively correlated with reward sensitivity,which is positively related to the nucleus accumbens,and then, there is a negative correlation between holistic thinking tendency and the nucleus accumbens volume (Table 1). Therefore, the insensitivity of the high holistic thinkers to reward could partly explain why its bilateral nucleus accumbens are smaller than low holistic thinkers，and further explains the small size of the mediation of the bilateral nucleus accumbens between holistic thinking tendency and the volume of amygdala. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In addition to finding that high holistic thinking individuals are reward insensitive and have smaller volumes in the bilateral nucleus accumbens and right amygdala,we also found significantly higher resting-state functional connectivity between the left nucleus accumbens and bilateral amygdala in high holistic thinkers than in low holistic thinkers. Beyeler et al.'s work demonstrates that the projectors between amygdala and nucleus accumbens preferentially encode positive valence defined as the differential response to rewarding versus aversive stimuli (Beyeler et al., 2016). Furthermore, the optogenetic activation of bilateral amygdala terminals in the nucleus accumbens derived positive reinforcement (Namburi et al., 2O15), which may facilitate approval behavior. Therefore， the resting-state FC between the amygdala and the nucleusaccumbensmayreflect individual spontaneous responsiveness strength to reward-related stimuli. Although individuals with high holistic thinking are self-reported insensitive to reward, it is their brain functions that may be authentic and credible. The increased functional connectivity between the nucleus accumbens and the amygdala may illustrate that high holistic thinkers are sensitive to reward stimulus responses, whereas self-reported reward insensitivity may be more responsive to their belief of seeking positive emotions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the current study shows that individuals who score high on holistic thinking have lower sensitivity to reward. In terms of neural substrates, individuals with a high holistic thinking tendency had smaller volumes in the bilateral nucleus accumbens and right amygdala than those with a low holistic thinking tendency. Furthermore, our result shows that there is increased resting-state functional connectivity between the bilateral amygdala and the nucleus accumbens in high holistic thinkers. Taken together, these results manifest the complex relationships between dialectical thinking and mental health which awaits future research to uncover. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "14, 329-338.   \nBacha-Trams,M., Alexandrov, Y.I., Broman,E., Glerean,E., Kauppila,M., Kauttonen,J.,Ryyppo,E., Sams,M., Jaaskelainen,IP., 2O18.A drama movie activates brains of holistic and analytical thinkers differentially. Soc Cogn Affect Neurosci 13,1293-1304.   \nBeyeler,A.,Namburi,I Simonnet, C., Calhoon, G.G., Conyers, G.F.,Luck,R.,Wildes, C.P., Tye,K.M., 2016.Diverg Routing of Positive and Negative Information from the Amygdala duringMemo   \nBoucher, ，2009.Culture and Implicit Self-Esteem:Chinese Are “Good Cross-Cultural Psychology 40,24-45.   \nChao,M.N Essentializing race: Implications for bicultural individual cholo Science18,341-348.   \nChen, d,M.H.,2013.The role of dialectical self andbicultui Journal of Persnality 81, 61-75. Cheng Tiliouine, H., Alao, A.A., Chio, J.H.M. Hakuzimana,A.，Hertel，J.，Liu,J.-T., Onyewad Self-Construal and Subjective WellBeing: A s-Cultural Psychology 42, 832-855.   \nCorr,P.J.,2002 ty theory: tests of the joint subsystems hypothesis of anxiety and impulsivity. Personality and Individual Differences 33,511-532.   \nCorr, P.J.,2O04.Reinforcement sensitivity theory and personality. Neurosci Biobehav Rev 28,317-332. En-jie,W.,2012.Reliability and validity of Chinese Version of SPSRQ in University Students. Chin J Sch Health,60-62.   \nErnst,M., Nelson,E.E., Jazbec,S.,McClure,E.B.,Monk, C.S.,Leibenluft,E.,Blair,J.,Pine,D.S, 2005.Amygdala and nucleus accumbens in responses to receipt and omission of gains in adults and adolescents.Neuroimage 25,1279-1291.   \nFranken, I.H.A., Muris,P., Georgieva, I., 2Oo6. Gray's model of personality and addiction. Addictive Behaviors 31,399-403.   \nFullana, M.A.,Mataix-Cols,D., Caseras, X.,Alonso,P.,Manuel Menchón,J., Valejo,J.,Torrubia,R, 2004.High sensitivity to punishment and low impulsivity in obsessive-compulsive patients with hoarding symptoms. Psychiatry Research 129,21-27.   \nFussner, L.M.,Luebbe,A.M., Smith,A.R., 2018. Social reward and social punishment sensitivity in relation to dietary restraint and binge/purge symptoms. Appetite 127, 386-392.   \nGray, J.A.,1970. The psychophysiological basis of introversion-extraversion. Behav Res Ther 8, 249- 266.   \nGray,J.A.,Mcnaughton,N., 2Ooo. The neuropsychology of anxiety : an enquiry into the functions of the septo-hippocampal system. Oxford University Press.   \nGunther,V., Ihme,K.,Kersting,A.， Hoffmann,K.T.,Lobsien,D.， Suslow,T.，2018.Volumetric Associations Between Amygdala, Nucleus Accumbens,and Socially Anxious Tendencies in Healthy Women. Neuroscience 374, 25-32.   \nHamamura, T., Heine, S.J., Paulhus,D.L., 2Oo8. Cultural diferences in response styles: The role of dialectical thinking. Personality and Individual Differences 44, 932-942.   \nHamilton, J.P., Siemer, M., Gotlib,I.H.,2008.Amygdala volume in major depressive disorder: a metaanalysis of magnetic resonance imaging studies. Mol Psychiatry 13, 993-1000.   \nHayes，A.F.，2017. Introduction to mediation，moderation，and conditional process analysis:A regression-based approach. Guilford Publications.   \nHundt,N.E.,Nelson-Gray,R.O., Kimbrel, N.A., Mitchel, J.T., Kwapil, T.R.,20o7. The interactionof reinforcement sensitivity and life events in the prediction of anhedonic depression and mixed anxietydepression symptoms.Personality and Individual Differences 43,1oo1-1012.   \nJohnson，S.L.，Turner，R.J.，Iwata，N.，2O03.BIS/BAS Levels and Psychiatric Disorder: An Epidemiological Study. Journal of Psychopathology and Behavioral Assessment 25,25-36.   \nKeistler, C.R., Hammarlund, E., Barker, J.M., Bond, C.W., DiLeone,R.J., Pittenger, C., Taylor, J.R., 2017. Regulation of Alcohol Extinction and Cue-Induced Reinstatement by Specific Projections among Medial Prefrontal Cortex, Nucleus Accumbens, and Basolateral Amygdala. J Neurosci 37, 4462-4471. Kelley,A.E.， 2OO4. Ventral striatal control of appetitive motivation: role in ingestive behavior and reward-related learning. Neurosci Biobehav Rev 27,765-776.   \nKimbrel, N.A.,Nelson-Gray,R.O., Mitchel, J.T.,20o7.Reinforcement sensitivity and maternal style as predictors of psychopathology. Personality and Individual Diferences 42, 1139-1149.   \nKitayama, S.,Ishi, K., Imada,T.,Takemura,K.,Ramaswamy,J.,2Oo6.Voluntary settlementand the spirit of independence: evidence from Japan's \"Northern frontier\".JPers Soc Psychol 91,369-384. Kitayama, S., Markus, H.R., Kurokawa, M., 20oo. Culture, Emotion, and Well-being: Good Feelings in Japan and the United States. Cognition and Emotion 14, 93-124.   \nKuhn,S., Schubert,F., Gallinat, J., 2O11. Structural correlates of trait anxiety: reduced thickness in medial orbitofrontal cortex accompanied by volume increase in nucleus accumbens. J Afect Disord 134, 315-319.   \nLee,K.H., Yoo, J.H.,Lee,J.,Kim, S.H.,Han,J.Y., Hong, S.B.,Shin,J., Cho, S.C.,Kim,J.W.,Brent, D.A.,2020.The indirect effect of peer problems on adolescent depression through nucleus accumbens volume alteration. Sci Rep 10,12870.   \nLee, S.-j.,Wu, C.-h.,2Oo8. Comparing the Level of Positive Tendency in a Life Satisfaction Evaluation between Chinese and Western People. Social Indicators Research 89,147-153.   \nLee,Y.-T., Seligman, M.E.P.,1997. Are Americans more Optimistic than the Chinese? Personality and Social Psychology Bulletin 23,32-40.   \nLeu, J.,Wang, J., Koo, K., 2O11. Are Positive Emotions Just as \"Positive\" Across Cultures? Emotion (Washington, D.C.) 11, 994-999.   \nMack, D.J., Tull, M.T., Gratz,K.L.， 2012. Examining the incremental contribution of behavioral inhibition to generalized anxiety disorder relative to other Axis I disorders and cognitive-emotional vulnerabilities. J Anxiety Disord 26, 689-695.   \nMay, J.C., Delgado, M.R., Dahl, R.E., Stenger, V.A., Ryan, N.D.,Fiez, J.A., Carter, C.S.,2004.Eventrelated functional magnetic_resonance imaging of reward-related brain circuitry in children and adolescents. Biol Psychiatry 55,359-366.   \nMcNaughton, N., Corr, P.J., 2O04. A two-dimensional neuropsychology of defense: fear/anxiety and defensive distance. Neurosci Biobehav Rev 28,285-305.   \nMitchell,J.T., Nelson-Gray,R.O.,2006.Atention-Deficit/Hyperactivity Disorder symptoms in adults: Relationship to Gray's Behavioral Approach System. Personality and Individual Diferences 40,749- 760.   \nMiyamoto,Y., Ryff, C.D.,2011. Cultural differences in the dialectical and non-dialectical emotional styles and their implications for health. Cognition and Emotion 25,22-39.   \nMonk, C.S., Klein,R.G., Telzer,E.H.,Schroth,E.A., Mannuzza,S.,Moulton, J.L.,3rd, Guardino,M., Masten, C.., McClure-Tone, E.B., Fromm,S.,Blair, R.J., Pine, D.S., Ernst, M.,2008. Amygdala and nucleus accumbens activation to emotional facial expressons in children and adolescents at risk for major depression. Am J Psychiatry 165, 90-98.   \nNamburi,P.,Beyeler,A., Yorozu, S., Calhoon, G.G., Halbert,S.A.,Wichmann,R.，Holden， S.S., Mertens, K.L.,Anahtar,M.,Felix-Ortiz,A.C., Wickersham,I.R., Gray, J.M., Tye, K.M.,2015.Acircuit mechanism for differentiating positive and negative associations. Nature 52o,675-678.   \nNisbett,R.E., Masuda, T.,2003.Culture and point of view. Proc Natl Acad Sci U S A 100,11163- 11170.   \nNisbett, R.E., Miyamoto, Y.,20o5.The influence of culture: holistic versus analytic perception. Trends Cogn Sci 9, 467-473.   \nNisbett,R.E., Peng,K.,Choi,I., Norenzayan,A.,2Oo1.Culture and systems of thought: holistic versus analytic cognition. Psychol Rev 108,291-310.   \nPardo,Y., Aguilar,R.， Molinuevo,B.， Torrubia,R., 2Oo7. Alcohol use as a behavioural sign of disinhibition: Evidence from J.A. Gray's model of personality.Addictive Behaviors 32,2398-2403. Phelps,E.A., O'Connor, K.J., Gatenby, J.C., Gore, J.C., Grillon, C.,Davis,M.,2001. Activation of the left amygdala to a cognitive representation of fear. Nat Neurosci 4, 437-441.   \nPiantadosi，P.T.， Yeates,D.C.M.，Wilkins,M.，Floresco， S.B.，2017. Contributions of basolateral amygdala and nucleus accumbens subregions to mediating motivational conflict during punished reward-seeking. Neurobiol Learn Mem 140, 92-105.   \nSchimmack，U.， 2007. Methodological Issues the Assessment of the Affective Component of Subjective Well Being. Oxford Handbook of Methods in Positive Psychology.   \nSchmaal, L.,Pozzi, E., T, C.H.,van Velzen, L.S., Veer, IM., Opel, N., Van Someren,E.J.W., Han, L.K.M., Aftanas,L., Aleman, A., Baune,B.T., Berger, K., Blanken, T.F., Capitao,L., Couvy-Duchesne, B.，K,R.C.，Dannlowski，U.，Davey，C.，Erwin-Grabner， T.，Evans，J.，Frodl，T.，Fu，C.H.Y., Godlewska,B., Gotlib, I.H., Goya-Maldonado,R., Grabe,H.J., Groenewold, N.A.， Grotegerd,D., Gruber,O., Gutman, B.A.，Hall, G.B.， Harrison,B.J.，Hatton, S.N.，Hermesdorf,M.，Hickie,IB., Hillnd, E., Irungu,B., Jonassen,R., Kely, S., Kircher,T.,Klimes-Dougan, B., Krug,A.,Landro, N.I., Lagopoulos, J., Leerssen, J.，Li, M., Linden,D.E.J.，MacMaster,F.P., A，M.M.，Mehler, D.M.A., Nenadi ,I.,Penninx,B., Portella, M.J., Reneman,L.,Renteria, M.E., Sacchet,M.D.,P, G.S., Schrantee,A., Sim, K.,Soares,J.C.,Stein,D.J.,Tozzi,L.,van Der Wee,N.J.A.,vanTol,M.J.,Vermeiren,R.,ViveGilabert,Y., Walter, H., Walter,M.,Whalley,H.C., Witfeld, K., Whitte,S.,Wright,M.J., Yang,T.T., Zarate,C.,Jr.,Thomopoulos,S.I.，Jahanshad,N.，Thompson,P.M.，Veltman,D.J.,2O20.ENIGMA MDD: seven years of global neuroimaging studies of major depression through worldwide data sharing. Transl Psychiatry 10,172.   \nScholten,M.R.M., van Honk,J., Aleman,A.,Kahn, R.S., 2OO6.Behavioral inhibition system (BIS), Behavioral activation system (BAS） and schizophrenia: Relationship with psychopathology and physiology. JournalofPsychiatric Research 40, 638-645.   \nSchultz, W., 2O04. Neural coding of basic reward terms of animal learning theory， game theory, microeconomics and behavioural ecology. Curr Opin Neurobiol 14,139-147.   \nSheth，C.，McGlade，E.，Yurgelun-Todd，D.，2017．Chronic Stressin Adolescents and Its Neurobiological and Psychopathological Consequences: An RDoC Perspective. Chronic Stress (Thousand Oaks) 1.   \nSmillie，L.D.，Pickering，A.D.， Jackson， C.J.，2006.The new reinforcement sensitivity theory: implications for personality measurement. Pers Soc Psychol Rev 1O,320-335.   \nSpencer-Rodgers，J.，Peng，K.，2O18.The psychological and cultural foundations of East Asian cognition: Contradiction, change,and holism.   \nSpencer-Rodgers,J., Peng,K.,，Wang,L.，2010. Dialecticism and the Co-occurrence of Positive and Negative Emotions Across Cultures.Journal of Cross-Cultural Psychology 41,109-115.   \nSpencer-Rodgers，J.，Peng，K.，Wang，L.，Hou， Y.， 2O04.Dialectical self-esteem and East-West differences in psychological well-being.Pers Soc Psychol Bull 30,1416-1432.   \nTalhelm, T. Zhang, X., Oishi, S.， Shimin, C., Duan, D.,Lan, X. Kitayama, S.,2014. Large-scale psychological differences within China explained by rice versus wheat agriculture. Science 344, 603- 608.   \nTorrubia, R.，Avila, C., Molt6,J., Caseras, X., 2001. The Sensitivity to Punishment and Sensitivity to Reward Questionnaire (SPSRQ) as a measure of Gray's anxiety and impulsivity dimensions. Personality and Individual Differences 31, 837-862.   \nTotenham, N., Galvan,A., 2O16. Stress and the adolescent brain: Amygdala-prefrontal cortex circuitry and ventral striatum as developmental targets. Neurosci Biobehav Rev 7O,217-227.   \nTsai, J.L.,Knutson, B.,Fung,H.H., 2Oo6. Cultural variation in affect valuation. JPers Soc Psychol 90, 288-307.   \nWhalen,P.J.， Rauch, S.L.，Etcoff N.L.,，McInerney， S.C., Lee,M.B., Jenike,M.A., 1998.Masked presentations of emotional facial expressons modulate amygdala activity without explicit knowledge. J Neurosci 18,411-418.   \nWong,Y., Liu,T.,2O18. Dialecticism and mental health: Toward a Yin-Yang vision of wellbeing. pp. 547-572.   \nWong,Y.J., Ho,R.M.,Li,P., Shin,M., Tsai,P.-C.,2011. Chinese Singaporeans' lay beliefs,adherence to Asian values,and subjective well-being. Personality and Individual Differences 50,822-827. Yan, C.G., Wang, X.D., Zuo, X.N.,Zang, Y.F., 2016. DPABI: Data Processing & Analysis for (RestingState) Brain Imaging. Neuroinformatics 14,339-351.   \nZisserson, R.N., Palfai, TP., 2OO7. Behavioral Activation System (BAS） sensitivity and reactivity to alcohol cues among hazardous drinkers.Addictive Behaviors 32,2178-2186. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/caf528cee98d9b3ec81213d258e4b422157de34cfa0785f73b7e6358269282a0.jpg",
+        "table_caption": [
+            "Table S1.The tests of normality. "
+        ],
+        "table_footnote": [
+            "\\* This is a lower bound of the true significance. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Kolmogorov-Smirnova</td><td colspan=\"3\">Shapiro-Wilk</td></tr><tr><td>Statistic</td><td>df</td><td>p</td><td>Statistic</td><td>df</td><td>p</td></tr><tr><td>Holistic thinking tendency (HT)</td><td>0.176</td><td>39</td><td>0.004</td><td>0.907</td><td>39</td><td>0.004</td></tr><tr><td>reward sensitivity (SR)</td><td>0.142</td><td>39</td><td>0.047</td><td>0.919</td><td>39</td><td>0.008</td></tr><tr><td>punishment sensitivity (SP)</td><td>0.125</td><td>39</td><td>0.129</td><td>0.943</td><td>39</td><td>0.047</td></tr><tr><td>Left Nucleus Accumbens (LNAcc)</td><td>0.089</td><td>39</td><td>.200*</td><td>0.972</td><td>39</td><td>0.431</td></tr><tr><td>Right Nucleus Accumbens (RNAcc)</td><td>0.085</td><td>39</td><td>.200*</td><td>0.988</td><td>39</td><td>0.954</td></tr><tr><td>Left Amygdala (Bar-Haim,#1719)</td><td>0.083</td><td>39</td><td>.200*</td><td>0.972</td><td>39</td><td>0.436</td></tr><tr><td>Right Amygdala (RAmy)</td><td>0.062</td><td>39</td><td>.200*</td><td>0.981</td><td>39</td><td>0.73</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd975e0ef168536db9481a450e8a4ecdbcbd0e10e86c96b3aa93ea39b26c3b3b.jpg",
+        "img_caption": [
+            "Fig. S1.The efect of sensitivity between thinking tendency and nucleus accumbens volume: moderate effect (A) and partial mediating effect (B). "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/a95e606143487a79076a07702d82d03aff59a926f61c0da8c4a20ab4ea07769d.jpg",
+        "img_caption": [
+            "Fig. S2. The full mediating effect of right nucleus accumbens volume between thinking tendency and bilateral amygdala volume. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "All stimuli ",
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5971f03ccc34a5be35b7d3066387ccf144fb72ead3f35b5280c74a43d958337.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4cc1c48cb85ab25a7a0d0a117b1a323eecefda63bcbfe631aa5ccd43dad6b35.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/5758120e2a35d4d7b518975adec5428b0a3dd5f66af957f27f6c559eadd59988.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/379e77b832b4d425283a5f98efb2e776cba79e77028babef0df4ec95db3b035e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b79ff4c40cd089beb0416ffe5968554f59723319c6c929acea694b7a4067060.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 23
+    }
+]

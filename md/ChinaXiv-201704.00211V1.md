@@ -1,0 +1,243 @@
+洪惠坤,谢德体,郭莉滨,胡蓉,廖和平.多功能视角下的山区乡村空间功能分异特征及类型划分.生态学报,2017,37（7)：2415-2427.HongHK,Xie,o,u,iieeoaialiooarulfalscaEcologica Sinica,2017,37(7) :2415-2427.
+
+# 多功能视角下的山区乡村空间功能分异特征及类型划分
+
+洪惠坤1,²，谢德体²，郭莉滨³，胡 蓉1，廖和平1，
+
+1西南大学地理科学学院，重庆400715  
+2西南大学资源环境学院，重庆400715  
+3重庆第二师范学院，重庆400065
+
+摘要：以西部山区重庆乡村空间为研究对象,构建乡村空间多功能评价指标体系,将乡村空间多功能划分为农业生产功能、经济发展功能、生态保育功能、生态稳定性功能,社会保障居住家园功能五种子功能，采用熵权法定量核算2013年全市乡村空间功能值,运用GIS技术和Dagum 基尼系数刻画重庆市不同地区乡村空间功能值地区差异特征,并划分了重庆市乡村空间多功能类型，研究结果表明：(1)山地型乡村地形复杂，景观类型多样，功能也极具多样性，研究区乡村空间除了生态稳定性功能外，其他各功能值具有显著的空间分异特征,有明显的空间集聚性。（2)Dagum 基尼系数,是一种有效的技术方法,能够更为深入地刻画研究区乡村空间功能值地区间差异及区内差异特征。基尼系数测算及其分解结果显示,地区间差距是总体差距的主要来源,其贡献率都超过 $5 0 \%$ 。（3)根据乡间空间多功能分布的差异性及山地乡村的特点和山区生态环境的脆弱性,将研究区乡村空间划分为农业生产-经济发展型,农业生产-人居生活型,人居生活-社会保障型,人居生活-经济发展型,水源涵养生态保育型，生态保育-经济发展型,生态保育-农业生产型,土壤保持生态保护型8种功能类型,能较好地体现地域特色,为科学健康的开发利用山地乡村空间土地资源提供有益借鉴，有利于区域协调可持续发展。
+
+关键词：多功能；山区；乡村空间;Dagum基尼系数;生态
+
+# Differentiation of spatial function in a mountainous rural area from a multifunctional perspective
+
+HONG Huikun1,²，XIE Deti ²,GUO Libin³,HU Rong¹,LIAO Heping
+
+1School ofGeographical sciences in Southwest University,Chongqing 4OO715,China   
+2College of resources and environments in Southwest University，Chongqing 40O715,China   
+3Chongqing University of education,Chongqing 4Ooo65，China
+
+Abstract：Ruralareas are a combined space system including multi-level towns，villages，andadministrativeregions.At present，China isentering astageofrapid economic development.Rapid industrializationandurbanization isaccompanied byarecombination and interactionof urban and rural population mobilityand economicandsocial development factors, which have resulted in areconstructionof thesocio-economic structureandspatial distributionpaterns.Rural space is afectedbyvarious increasinglyseriousproblems，such aseroded agricultural production space，exacerbated rural hollwing，extrudedandbroken ecological space，unbalanced functional rural space，decreasedland utilization effciency, andincreasinglyseriousecologicalandenvironmental crises.Aditionally，diferences inregionaldevelopmentconditions andprocesses，diversityofregional development goals，various social demands，andlandusesuitability haveresulted in diferent geographicalspaces withavarietyoffunctions.Asaresult,theregionalfunctionofruralselements hasgradually transformed intoamulti-functionof"production，ecology，and life,"presenting significantregionalandtemporal variability.Rural function hasbecome increasinglycomplexanddiversified，andrural development orientation includesa widerange offeatures.Anin-depth studyofrural transformationdevelopmentindiferentregions，thein-homogeneityof rural spatial patern，andthedivisioninrural spatialfunction typesduringthereconstructionprocess，andthe mechanisms and paternsof rural reconstruction from the dynamic mechanism of rural economic structureand spatial structure reconstructionisfundamentalforthefieldsofregionalagricultureandruralgeography.Thisresearch isnecessrytoprovide efective implementationof spacecontrol，and managementandregulationforthe healthydevelopment of specificrural space，and forthesystematicdevelopment andtransformationof rural areas.Mountainous rural areas are characterized by complicatedlandspacefunctional structureabundantlayers，anddiversifiedspatiallandscapes；therefore,itisimpractical tosolveisuesoflandutilizationandspatialoptimizationinmountainousruralareas withtraditionalspatialplanning theories and methods.The present study focused on therural western mountainous areas of Chongqing City asacase study；we constructeda multi-function evaluation indexsystem ofrural spaceand identifiedtherural space multi-function as five subfunctions：agriculturalproduction，conomicdevelopment，ecologicalconservation，ecological stability，ndsocialsecurity. The present study adopted the entropymethod todetermine therural spatial functionvaluesthroughout Chongqing Cityin 2013，and appied Geographical Information Systems（GIS）technologyand theDagum Gini coeffcient estimation to determiethedifferentialcharacteristicsofrural spatialfunctionanddistributionof themulti-functional typesofrural spaces inthecity.Theresultsshowedthat:（1）vally-typevillagesarecharacterized bycomplexterainanddiversifiedlandscape typesandfunctions；there wasobviousspatialagglomerationandsignificantspatial variabilityinaditiontothestabilityof ecologicalfunction.2）TheDagumGinicoefficient isaneffective technical methodthatcanbeused determineregional diferencesand inter-districtdisparityinthe studyarea more clearly.Theseresultsshowed thatGnbis themainsourceof the overall gap with a contribution rate of more than $50 \%$ .（3）Based on the distribution differences in rural space function, mountainous vilage characteristics，and ecological environment vulnerability，thespace was divided into eight functional types：agricultural productionand economic development，agricultural productionand livablearea，livableareaandsocial security，livableareaandeconomicdevelopment，water conservationand ecological conservation，ecological conservation and economicdevelopment，ecological conservationandagricultural production，and soilconservationandecological protection.These functional types efectivelyreflecttheregionalcharacteristics，and provideausefulreferenceforscientific and environmental managementand development，andutilizationof thelandresourcesof the mountainous rural space，hus enhancing coordinated and sustainable regional development.
+
+Key Words:multi-functional space；mountain area；rural space；Dagum Gini coefficient； ecology
+
+乡村是由多层次的集镇、村庄及其所管辖的区域组合而成的空间系统[1-2]。当前,中国正步入经济快速发展阶段，快速工业化和城镇化进程伴随着城乡人口流动和经济社会发展要素的重组与交互作用，导致了农村地区社会经济形态和地域空间格局的重构[3],乡村空间面临农业生产空间被蚕食，农村空心化加剧,生态空间的挤压与破碎,乡村功能空间失衡，土地利用效率下降，生态环境危机日益加剧等问题。而区域发展条件与过程的差异性,区域发展目标的多元性、社会需求的多样性及土地利用的多宜性,使不同地域空间同时具有多种功能,如乡村聚落地域功能逐渐转向"生产、生态、生活"的多功能[4],并呈现出显著的地域差异性与时间变异性特征[5-6],乡村的功能趋于复杂化和多元化,乡村发展定位也呈现出多元化的特征。国内外学者从乡村各种功能结构的变化、乡村转型发展驱动机制[7]、土地利用多功能[8-10] 多功能乡村转型[1-2],乡村地域功能的多样构成[3-14]、时空演变及相互作用[15-16]等方面针对乡村空间形态变化及演进机制进行了研究,也是
+
+http://www.ecologica.cn
+
+近年来学术界的研究热点。而深入研究不同区域乡村转型发展与重构进程中乡村空间格局异质性及乡村空间功能类型划分[17-18],从乡村经济结构和空间结构重构的动力机制出发,探索乡村重构的道路和模式,是区域农业与乡村地理学科领域亟待深入研究的重要前沿课题[19-20],对于有针对性地实施空间管制、引导调控具体乡村空间的健康发展及促进区域乡村有序发展转型具有重要指导意义。
+
+山区乡村具有土地空间功能结构复杂、层次丰富、国土空间景观多样化等特征，以传统的空间规划理论和方法解决山区乡村的土地利用空间优化问题存在较大缺陷。中国西南地区受地形、地质灾害和生态脆弱等因素的影响,适宜进行大规模开发利用空间有限,社会经济发展和人口的迅速集聚对各类国土空间需求持续增长,但国土空间供给能力与需求潜力仍存在巨大差距[2-2]。重庆地处三峡库区生态敏感区,是中西部地区唯一的直辖市,当前重庆市正处于城市化工业化加速发展时期,城市用地急剧膨胀,乡村空间面临转型重构发展。而重庆地貌结构复杂，地势起伏大，山地、丘陵面积达7.75 万 $ { \mathrm { k m } } ^ { 2 }$ ，占幅员总面积的 $9 4 . 0 5 \%$ ,而平坝河谷面积仅0.49万 $ { \mathrm { k m } } ^ { 2 }$ ,占幅员面积的 $5 . 9 5 \%$ ,是典型以丘陵、山地为主要地貌类型的“山城”，生态系统脆弱敏感,有效耕地资源短缺,建设用地拓展空间不足[23],土地资源面临巨大的环境、生态和社会压力。区域间、城乡间自然条件、资源禀赋、发展现状和发展潜力等差异很大[24],导致乡村空间内部用地结构、乡村功能性等方面也存在较大的差异。因此,本文以多功能理论和土地可持续利用理论为基础，充分考虑到山区乡村空间的脆弱性和生态敏感性,构建乡村空间多功能评价指标体系,在识别乡村空间多功能基础上,采用熵权法对重庆市 2013年面板年份的乡村空间功能值进行测度,运用Dagum 基尼系数刻画重庆市不同地区乡村空间功能值地区差异特征,探索山区乡村空间的格局分异及功能类型划分,从新的视角观察探讨中国山区乡村空间发展的多元目标、区域差异化路径及对策,为乡村发展方向提供科学依据,引导乡村土地合理利用,促进乡村空间土地资源健康可持续利用。
+
+# 1研究区概况、数据来源与研究方法
+
+# 1.1乡村空间多功能评价指标体系构建
+
+多功能性的概念最早源自农业部门,到了20 世纪90年代后期,随着全球和欧洲农业政策的变化,这一概念被广泛采纳并成为农业、林业、公共产品、就业等领域的重要研究内容[25]。乡村是人类相对原生态的地域空间系统,是由经济、社会和环境组成的复杂系统,是人类重要的工作、居住地点和环境空间。乡村空间是生产、生态和生活空间的统一体,具有自然特性、领域性和功能复合性。功能作为乡村空间重要的属性之一，从多功能视角明确乡村独特的功能特点[26],能够较好的表征乡村空间的异质性。山地型乡村地形复杂,景观类型多样,功能也极具多样性特点。因此,山区乡村空间多功能评价指标体系应充分考虑山地乡村的特点和山区生态环境的脆弱性和敏感性,结合评价区的实际情况,选取相应的指标。本研究基于乡村土地承载的人口、社会经济和生态要素的差异,以乡村空间为研究对象,以县域为研究单元,借鉴国土空间三生功能理论和人文—经济地理学学界关于乡村空间功能的研究成果[27-28],将乡村空间多功能划分为农业生产功能、经济发展功能、生态保育功能、生态稳定性功能,社会保障居住家园功能,这些功能并非独立，而是相互影响相互交织在一起使乡村空间具有多功能性,并结合研究区域乡村土地利用特征,构建出乡村空间多功能评价的指标体系(表1)。
+
+农业生产功能主要是指乡村通过生产空间,为社会提供粮食、油料等农林牧渔业初级产品生产方面的功能，本研究选取人均粮食产量、乡村人口人均耕地面积和高产田比重3个指标来衡量农业生产功能,这些指标能够较好的反映其土地生产力本底条件和发展潜力,值越大,农业生产功能越强。此外,考虑到山地丘陵区的地形因素， $2 5 ^ { \circ }$ 以上的陡坡耕地和土地垦殖过度易造成水土流失、土地退化、江河淤塞和生态环境恶化等严重后果，所以选取了垦殖指数和 ${ > } 2 5 ^ { \circ }$ 坡耕地指数这两个负向指标来衡量农业生产功能。
+
+经济发展功能主要是指乡村生产空间为乡村区域内的人们创造经济财富，反映乡村生产空间的经济活力性,指农业生产以外的生产功能。农村就业结构反映乡村人口从事非农生产的情况,比值越大反映该区域非农就业机会越多,经济活力性越强,属正向指标。人均二三产业值和人均GDP反映了乡村空间经济发展的能力，而交通通达度越好,经济发展潜力越大,越有利于促进其他经济指标的增长。因此,本文主要选取了反映乡村空间经济发展功能的人均二三产业值、农村就业结构、人均GDP 和反应乡村交通等基础设施供给能力的交通通达度等指标来计算经济发展功能值。
+
+表1乡村空间多功能评价指标体系  
+Table1 Multi-function evaluation index system of rural space   
+
+<html><body><table><tr><td>功能 Function</td><td>指标 Index</td><td>指标性质 Index Character</td><td>指标解释及计算方法 Index Interpretation and calculation method</td></tr><tr><td>农业生产功能</td><td>人均粮食产量</td><td>正向</td><td>粮食产量/人口</td></tr><tr><td>APF Agricultural production function</td><td>乡村人口人均耕地面积</td><td>正向</td><td>耕地面积/乡村人口</td></tr><tr><td></td><td>垦殖指数</td><td>负向</td><td>已开垦种植的耕地面积/土地总面积</td></tr><tr><td></td><td>>25坡耕地指数</td><td>负向</td><td>>25°坡耕地面积/区域耕地面积</td></tr><tr><td></td><td>高产田比重</td><td>正向</td><td>基本农田规模/耕地总面积</td></tr><tr><td>经济发展功能</td><td>人均二三产业值</td><td>正向</td><td>二三产业值之和/总人口</td></tr><tr><td>EDF Economic development function</td><td>农村就业结构</td><td>正向</td><td>乡村非农就业/乡村人口</td></tr><tr><td></td><td>人均GDP</td><td>正向</td><td>GDP/总人口</td></tr><tr><td>生态保育功能</td><td>交通通达度</td><td>正向</td><td>农村道路面积/土地总面积</td></tr><tr><td>ECF Ecological conservation function</td><td>区域生态服务价值总量</td><td>正向</td><td>区域生态服务价值总和（通过Costanza、谢高地等</td></tr><tr><td></td><td>地均生态服务价值</td><td>正向</td><td>人的方法计算) 生态服务价值总和/农用地面积</td></tr><tr><td></td><td>森林覆盖率</td><td>正向</td><td>林地面积/区域总面积</td></tr><tr><td>生态稳定性功能</td><td>水土流失率(土层流失指数)</td><td>负向</td><td>水土流失面积/区域总面积</td></tr><tr><td>ESF Ecological stability function</td><td>湿地面积比</td><td>正向</td><td>湿地面积/区域总面积</td></tr><tr><td></td><td>人均水资源量</td><td>正向</td><td>水资源量/乡村人口</td></tr><tr><td></td><td>灾害发生指数</td><td>负向</td><td>破坏生境及危害农业生产的自然灾害发生频率</td></tr><tr><td>社会保障居住家园功能 SSF Social security home function</td><td>每万人拥有医院和卫生医院床 位数</td><td>正向</td><td>医院和卫生医院床位数/总人口</td></tr><tr><td></td><td>城乡收入平衡指数</td><td>正向</td><td>农村居民纯收入/城镇居民可支配收入</td></tr><tr><td></td><td>农民人均纯收入</td><td>正向</td><td>农民从事生产性和非生产性的经营收入</td></tr><tr><td></td><td>农村人均住房面积</td><td>正向</td><td>农村住房面积/农村人口</td></tr><tr><td></td><td>农村居民恩格尔系数</td><td>负向</td><td>居民家庭中食物支出占消费总支出的比重</td></tr></table></body></html>
+
+性质为“ $+ ^ { \prime }$ ”表示正向指标，值越大相应功能越大；性质为“-”表示逆向指标，值越大相应功能越小
+
+生态保育功能是指为乡村生态系统提供环境负熵流,容纳消解污染物的功能，从而维持乡村生态环境平衡,维护生态系统特征和服务功能。重点选取了形成乡村生态空间系统特征、影响生态功能的特征因子,主要包括形成生态系统特征和服务功能的自然条件指标和生态环境现状指标：区域生态服务价值总量、地均生态服务价值、森林覆盖率。区域生态服务价值是依据Costanza 等提出的方法[29],结合谢高地等[30]制定的不同省份生态系统生物量因子进行修正,最终计算得到各区县单位面积的生态服务价值量,值越大,表明其生态系统具有维持其结构、自我调节能力，生态保育功能越强。
+
+生态稳定性功能是指乡村空间对于外界干扰具有的抵抗能力,生态环境稳定性程度,可以从乡村空间维持生态平衡的状况以及乡村生态环境脆弱性来体现。研究区特殊的山地地形、有限的土地资源以及脆弱的生态特征,极易发生滑坡、泥石流、水土流失等灾害,因此,根据研究区域实际情况,重点选取水土流失率、人均水资源量、湿地面积比、灾害发生指数反映山区生态系统稳定性状况。
+
+社会保障居住家园功能主要通过聚落空间(体系)响应和引导区域城乡人口变化趋势,提供理想栖居空间,体现在提供就业机会、保障村民生产生活等方面,包括区域人口承载、公共管理与公共服务用地和社会保障等方面,主要选取了每万人拥有医院和卫生医院床位数、反映乡村生活保障功能和城乡收入差距的城乡收入平衡指数、农民人均纯收入、农村人均住房面积和农村居民恩格尔系数来体现
+
+# 1.2研究区概况与数据来源
+
+# 1.2.1 研究区概况
+
+重庆市位于中国内陆西南部、长江上游,四川盆地东部边缘,地跨东经 $1 0 5 ^ { \circ } 1 1 ^ { \prime } - 1 1 0 ^ { \circ } 1 1 ^ { \prime }$ 、北纬 $2 8 ^ { \circ } 1 0 ^ { \prime }$ 一$3 2 ^ { \circ } 1 3 ^ { \prime }$ 之间的青藏高原与长江中下游平原的过渡地带,地处长江上游、三峡库区腹心地带,辖38个区县,幅员面积8.24万 $ { \mathrm { k m } } ^ { 2 }$ ,气候温和,属亚热带季风性湿润气候,冬暖夏热,无霜期长、雨量充沛、常年降雨量1000—$1 4 5 0 ~ \mathrm { m m }$ 。2013 年全市共3358.42万人，其中农业人口2014.37万人，占总人口的 $5 9 . 9 8 \%$ ,农用地面积$6 9 9 2 3 8 3 . 7 1 \mathrm { { h m } } ^ { 2 }$ ,其中,耕地 $2 4 5 6 3 1 0 . 9 9 \mathrm { h m } ^ { 2 }$ ,林地 $3 7 8 2 7 8 7 . 7 9 \mathrm { h m } ^ { 2 }$ ,村庄用地 $7 6 3 6 2 . 3 5 \mathrm { h m } ^ { 2 }$ ,乡村道路用地$6 0 5 6 5 . 3 \ \mathrm { h m } ^ { 2 }$ ,是一个集大城市、大农村、大库区、大山区于一体的年轻直辖市。
+
+近年来，重庆市政府实施大城市带大农村战略，全力推进统筹城乡综合配套改革,乡村发展取得较大的成就。2013 年农林牧渔业增加值1002.68亿元,粮食综合单产 $3 3 9 . 6 \mathrm { k g } / 6 6 6 . 7 \mathrm { m } ^ { 2 }$ ,农村居民人均纯收入8332元,人均生活消费支出5796元,农村居民恩格尔系数 $4 3 . 8 \%$ ,农村居民人均住房面积 $4 1 . 6 \mathrm { m } ^ { 2 }$ ,比往年有所增强。但由于重庆市农村地域广、人口多，整体上还处于欠发达阶段，局部地方贫困程度还较深，且受特殊地形地貌限制,机械化程度较低,农业生产的市场竞争能力较弱,区域乡村空间内部用地结构、乡村发展状况等方面也存在较大的差异。如2013年都市功能拓展区、城市发展新区、渝东北生态涵养区和渝东南生态保护区的农业增加值分别占全市的 $1 0 . 2 \%$ $. 4 7 . 8 \% . 3 1 . 2 \%$ 和 $1 0 . 8 \%$ ，说明城市发展新区和渝东北生态涵养区是我市现代农业发展的主力,都市功能拓展区在保障鲜活农产品供给和发展观光休闲农业方面仍扮演重要角色。2013 年农民收入水平与人均财政支出的比例,都市拓展区为2倍、城市发展新区为1.7倍、都市功能核心区为1.6倍、渝东北地区为1.3倍、渝东南地区为0.9倍,区域间财政支出与农民收入水平极不对称,公共财政支出对农民收入增长的效率还有较大改善空间[31]。
+
+# 1.2.2 数据来源
+
+研究数据主要涉及区域土地利用、社会经济发展和生态环境等方面。文章所采用的土地利用数据资料以重庆市地形图、土地利用现状图、土地利用矢量图(2013年)及其他辅助图件为基础,利用地理信息系统软件ARCGIS 对土地利用现状进行数据处理。其他基础数据主要来源于《重庆市统计年鉴》（2014年）、《重庆市环境统计公报》（2013年）、环保局及农业普查资料等统计资料和实地调查资料，评价所使用的数据根据各项指标的原始数据经过计算得到。县域是我国行政相对独立,地域性和综合性较为完整的基本区域单元,每个县域都具有较一致的自然条件和社会经济文化背景,是我国目前统计资料中经常采用的单元。因此,本研究以重庆市县域单元为研究样本,把市辖区当做县域单元来处理,由于重庆市渝中区城市化率为 $100 \%$ ,故只研究重庆市剩余的37个区县。根据重庆市主体功能区划和考虑行政区划的完整性,把37个区县分为3类： $\textcircled{1}$ 都市功能区,包括都市功能核心区和都市功能拓展区的8个区县:大渡口、江北、沙坪坝、九龙坡、南岸、渝北、北碚、巴南区; $\textcircled{2}$ 城市发展新区,包含涪陵、长寿、江津、合川、永川、南川、大足、綦江、铜梁、潼南、荣昌、璧山12个区县； $\textcircled{3}$ 渝东北生态涵养发展区,包含万州、梁平、城口、丰都、垫江、忠县、开县、云阳、奉节、巫山、巫溪11个区县； $\textcircled{4}$ 渝东南生态保护发展区,包含黔江、石柱、秀山、酉阳、武隆、彭水等6个区县（自治县）。
+
+# 1.3 研究方法
+
+# 1.3.1 熵权法
+
+(1)指标标准化处理
+
+由于文章中的指标既有正向指标又有逆向指标,因此在进行指标的处理上有所区分。文中采用极差归一化法进行指标的标准化，其公式为：
+
+正向指标处理
+
+逆向指标处理
+
+$$
+\begin{array} { c } { { Y _ { i j } = \displaystyle \left( \begin{array} { l } { { 1 - a } } \end{array} \right) + a \frac { X _ { i j } - X _ { \mathrm { m i n } j } } { X _ { \mathrm { m a x } j } - X _ { \mathrm { m i n } j } } } } \\ { { } } \\ { { Y _ { i j } = \displaystyle \left( \begin{array} { l } { { 1 - a } } \end{array} \right) + a \frac { X _ { \mathrm { m a x } j } - X _ { i j } } { X _ { \mathrm { m a x } j } - X _ { \mathrm { m i n } j } } } } \end{array}
+$$
+
+（其中 $\mathtt { a } = 0 . 9$ ）
+
+(2)指标权重处理
+
+文中采用较为客观的权重处理办法,即熵权法。利用信息熵进行权重的处理,主要包括以下几个步骤：
+
+a.计算熵值
+
+$$
+E _ { j } = - k \sum _ { i = 1 } ^ { m } Y _ { i j } \mathrm { l n } Y _ { i j } , k = 1 / \mathrm { l o g } m
+$$
+
+b.计算指标差异系数
+
+$$
+H _ { j } = 1 - E _ { j }
+$$
+
+c.对指标差异系数 $H _ { j }$ 进行归一化处理,得到权数
+
+$$
+W _ { j } = H _ { j } / \sum _ { j = 1 } ^ { n } H _ { j }
+$$
+
+（4)计算各子功能的得分 $Z _ { i }$
+
+$$
+Z _ { _ { i s } } = \sum _ { j = p } ^ { q } W _ { j } Y _ { _ { i j } }
+$$
+
+# 1.3.2Dagum 基尼系数及其分解方法
+
+传统刻画变量空间非均衡的方法包含：标准差、变异系数、加权变异系数,基尼系数等[32-34],但这些方法不足之处在于不能对地区差距进行再分解。泰尔指数方法的运用结束了上述方法不能进行地区分解的历史，实现了对总的地区发展差距(收入差距)的分解,但其本身仍然存在不足之处，即泰尔指数仅考虑了子样本的不同而没有考虑子样本的分布状况,而样本之间的交叉重叠问题会影响到实证结果的精确度。
+
+Dagum将基尼系数分为3个组成部分，分别是：群内差距贡献( $\langle G _ { w }$ )、种群之间超变净值差距的贡献（ $G _ { n b }$ ）、群体间超变密度的贡献 $\left( G _ { t } \right) ^ { [ 3 5 ] }$ 。目前这一方法已经被国内学者应用于多个研究领域[36-38],Dagum 基尼系数的计算公式如式(1)所示：
+
+$$
+G = { \frac { \displaystyle \sum _ { j = 1 } ^ { k } \sum _ { h = 1 } ^ { k } \sum _ { i = 1 } ^ { n _ { j } } \sum _ { r = 1 } ^ { n _ { h } } \mid y _ { j i } - y _ { h r } \mid } { 2 n ^ { 2 } { \bar { y } } } }
+$$
+
+其中 $y _ { j i } ( y _ { h r } )$ 是 $j ( h )$ 地区内任意一区县的功能值大小， $\bar { y }$ 是全市各区县乡村空间功能值的均值， $n$ 是区县的个数， $k$ 是地区划分的个数,将重庆市各区县按照重庆市主体功能区划分,将都市功能核心区和都市功能拓展区合并为都市功能区,剩下的为城市发展新区、渝东南生态保护发展区、渝东北生态涵养发展区,故 $k$ 取4,$n _ { j } ( n _ { h } )$ 是 $j ( h )$ 地区内区县个数。
+
+$$
+\bar { Y } _ { h } \leqslant \cdots \bar { Y } _ { j } \leqslant \cdots \bar { Y } _ { k }
+$$
+
+在进行基尼系数分解时,先要根据地区内乡村空间功能值的均值进行排序,如公式(2)所示。基尼系数的值越大时,表明区域差异化程度越大。
+
+$$
+\begin{array} { c }  { \displaystyle { G _ { y } = \frac { \frac { 1 } { 2 N _ { j } } \sum _ { i = 1 } ^ { n _ { j } } \sum _ { j = 1 } ^ { n _ { k } } | y _ { i } - y _ { j } | } } } \\ { { \mathrm { } } } \\ { { \displaystyle { G _ { y } = \frac { \sum _ { i = 1 } ^ { n _ { k } } G _ { \delta \lambda } p _ { \delta \lambda } } { \sum _ { i = 1 } ^ { n _ { k } } G _ { \delta \lambda } p _ { \delta } } } } } \\  { \displaystyle { \phantom { \frac { \sum _ { i = 1 } ^ { n _ { k } } \sum _ { j = 1 } ^ { n _ { k } } | y _ { \lambda } - y _ { \lambda } | } { G _ { \delta \lambda } p _ { \lambda } ( Y _ { \lambda } + Y _ { \lambda } ) } } } } \\ { { \mathrm { } } } \\ { { \displaystyle { \mathrm { } \sum _ { i = 1 } ^ { n _ { k } } \sum _ { j = 1 } ^ { n _ { k } } G _ { \delta } ( p _ { \delta } s _ { \delta } + p _ { \delta } s _ { j } ) D _ { j } } } } \end{array}
+$$
+
+http://www.ecologica.cn
+
+$$
+G _ { _ t } = \sum _ { j = 2 } ^ { k } \sum _ { h = 1 } ^ { j - 1 } G _ { j h } ( p _ { j } s _ { h } + p _ { h } s _ { j } ) ( 1 - D _ { j h } )
+$$
+
+$$
+D _ { j h } = \frac { d _ { j h } - p _ { j h } } { d _ { j h } + p _ { j h } }
+$$
+
+$$
+\begin{array} { l } { { \displaystyle { d _ { j h } = \int _ { 0 } ^ { \infty } d F _ { j } ( \boldsymbol { y } ) \int _ { 0 } ^ { \boldsymbol { \gamma } } ( \boldsymbol { y } - \boldsymbol { x } ) d F _ { h } ( \boldsymbol { x } ) } } } \\ { { \displaystyle { \begin{array} { l } { { \begin{array} { r l } { { \scriptstyle \infty } } & { { \scriptstyle \infty } } \\ { { \scriptstyle 0 } } & { { \scriptstyle \infty } } \end{array} } } \\ { { \begin{array} { r l } { { \scriptstyle p _ { j h } = \displaystyle { \int _ { 0 } ^ { \boldsymbol { d } } F _ { h } ( \boldsymbol { y } ) \int _ { 0 } ^ { \boldsymbol { \gamma } } ( \boldsymbol { y } - \boldsymbol { x } ) d F _ { j } ( \boldsymbol { y } ) } } \\ { { \scriptstyle 0 } } & { { \scriptstyle 0 } } \end{array} } } } \end{array} } } } \end{array}
+$$
+
+# 2结果与分析
+
+# 2.1 功能分析
+
+采用ARCGIS 自然断点法将乡村空间各类功能值分为5个等级;弱、较弱、中、较强、强,统计分析得到不同等级功能区分布范围。从图1可见,可以直观地看出,研究区乡村空间各功能值大多具有显著的空间分异特征,具有明显的空间集聚性。
+
+乡村农业生产功能值强的区域集中分布在都市功能区周边的城市发展区域,整体呈现四周高中间低及渝东北低的空间分布特征(图1)。主要是由于城市发展区域地势较为平坦,土壤相对肥沃,耕地资源丰富,建设空间对耕地资源的侵占相对较少,是重庆市现在和未来主要的农产品生产区。都市功能区属于重庆市城市核心拓展区和人类活动频繁区域,受到经济高速发展因素的影响,耕地被大量侵占,除特色农业产业空间外,粮食生产空间较少，农业生产功能相对较低。
+
+乡村经济发展功能值强的区域集中分布在都市功能区,整体呈现中间高四周低的空间分布特征（图1)。这种空间分布格局与区域经济发展特征具有较高的空间异一致性,而与农业生产功能呈现基本相反的空间格局。
+
+乡村生态保育功能值强的区域生态保育功能高值区主要集中在渝东北、渝东南地区(图1)。这一区域主要环绕库区沿线分布,该地区也是国家重点生态功能区与重要生物多样性保护区,景观多样性指数和植被覆盖度较高，生物多样性较丰富，土地资源活力较好,生态保育功能较强。
+
+乡村生态稳定性功能整体较弱(图1)。都市功能区和城市发展新区生态稳定性较弱主要源于这片区域属于重庆市城市发展核心区和拓展区,由于城镇化和工业化的迅速发展,该地区土地类型变化迅速,人类活动对土地资源的过度攫取使城市土地发生不可逆的功能转变,改变了土地利用系统结构与功能状态,造成了土地资源压力过大,土地供需矛盾突出,威胁到了当地的生态环境,因此土地社会经济属于亚健康可持续状态，生态稳定性功能较弱。渝东南区域地貌以丘陵、山地为主、土地资源稀缺加之脆弱的生态决定了该地区既是生态敏感区又是生态脆弱区。该区域石漠化、生态灾害、水土流失和农业面源污染严重,如该区域石漠化面积达 $3 7 2 5 \ \mathrm { k m } ^ { 2 }$ ，占该地区国土面积的近 $20 \%$ ,占全市石漠化面积的 $4 1 . 6 \%$ ,从而造成了该区域土地利用风险指数高,资源环境压力大,人地矛盾突出,生态系统稳定性差,对外界干扰敏感性强,遭遇破坏后其生态环境恢复力差，生态稳定性功能弱。
+
+从社会保障居住家园功能看（图1）,整体呈现以都市功能区为高值点向四周扩散降低的空间分布特征，与经济发展功能具有较高的空间一致性。究其原因主要是因为渝东北、渝东南地区远离城市发展中心,经济较为落后,科技、人力资源不足,乡村基础设施建设资金投人严重滞后,导致乡村社会保障居住家园功能较弱。
+
+# 2.2乡村空间功能值基尼系数测算及其分解
+
+表2给出了研究区域乡村空间子功能值空间分布的基尼系数及其分解结果。根据4个区域各功能的横向比较发现,都市功能区APF差距最大,内部发展不平衡,2013年,基尼系数达0.2310,EDF和ESF功能差距最小,分别为0.0796和0.0722,说明该区域的EDF 和ESF总体分布较为均衡,空间差异性较小;城市发展新区
+
+![](images/befbee574c14c16e70aece58e3e2a9fa7ec1f1e853ed591cf992607e620b8faf.jpg)  
+图1重庆市乡村空间功能值空间差异  
+Fig.1The spatial difference of rural spatial function value in Chongqing City
+
+ECF差距最大,2013年基尼系数达0.2420,APF最小,仅为0.0553,空间分布较为均衡;渝东北和渝东南区域功能差距最小的是ESF,2013 年基尼系数分别是0.0712 和0.0428,而渝东北区域差距最大的功能是 ECF，2013年基尼系数达0.1897,渝东南生态环保区SSF最大，2013年,基尼系数达0.1567,空间分布非均衡性较为明显。
+
+从区际基尼系数来看,都市功能区和城市发展新区与渝东北和渝东南之间的功能差距最大，远高于都市功能区和城市发展新区之间与渝东北和渝东南之间的功能差距。具体来说,都市功能区与渝东北渝东南之间差距最大的是ECF,分别高达0.4673 和0.5260，其次是 SSF,分别高达0.4126 和0.5120,差距最小的是 ESF，分别为0.0766,0.1252。城市发展新区之间与渝东北和渝东南之间的功能差距与都市功能区与渝东北渝东南之间的差距较为相似。都市功能区和城市发展新区之间各功能差距不是很大,除了APF 和ECF功能差距较大以外,其他功能的空间差异性较小,较为均衡。渝东北和渝东南之间各功能差距也不是很大,仅有 SSF 空间非均衡性较为明显。
+
+表2分解结果还表明，从乡村空间功能值地区差距的来源及其贡献率来看,四大区域地区间差距对地区总体差距贡献是最大的,其贡献率都超过 $5 0 \%$ ,尤其是 APF 和 SSF分别高达 $8 0 . 1 4 \%$ ， $7 8 . 9 5 \%$ ,这表明地区间差距是总体差距的主要来源。区内差距对总体差距贡献比较均衡,基本上是在 $1 5 \%$ 左右。
+
+表2重庆市2013年乡村空间功能值非均衡程度的测度及分解结果  
+lable 2Measurement and decomposition results of non-equilibrium degree of rural spatial function   
+
+<html><body><table><tr><td rowspan="2">F能</td><td rowspan="2">G</td><td rowspan="2">都市区</td><td rowspan="2">城市区</td><td rowspan="2">渝</td><td rowspan="2">渝区</td><td rowspan="2">都市</td><td rowspan="2">都东北</td><td rowspan="2">都市</td><td rowspan="2">城东北</td><td rowspan="2">城东南</td><td rowspan="2">渝东</td><td colspan="3">献率C</td></tr><tr><td></td><td></td><td></td></tr><tr><td>APF</td><td>0.2720</td><td>0.2310</td><td>0.0553</td><td>0.1132</td><td>0.0862</td><td>0.3484</td><td>0.2566</td><td>0.3542</td><td>0.1448</td><td>0.0765</td><td>0.1575</td><td>0.8015</td><td>0.0602</td><td>0.1383</td></tr><tr><td>EDF</td><td>0.2046</td><td>0.0796</td><td>0.1221</td><td>0.1611</td><td>0.0746</td><td>0.1096</td><td>0.2156</td><td>0.1346</td><td>0.2167</td><td>0.1391</td><td>0.1527</td><td>0.5346</td><td>0.2733</td><td>0.1921</td></tr><tr><td>ECF</td><td>0.5598</td><td>0.1995</td><td>0.2421</td><td>0.1897</td><td>0.0428</td><td>0.2599</td><td>0.4674</td><td>0.5260</td><td>0.3577</td><td>0.3984</td><td>0.1451</td><td>0.6902</td><td>0.1633</td><td>0.1465</td></tr><tr><td>ESF</td><td>0.1904</td><td>0.0722</td><td>0.1006</td><td>0.0712</td><td>0.1214</td><td>0.1006</td><td>0.0766</td><td>0.1253</td><td>0.1056</td><td>0.1194</td><td>0.1364</td><td>0.5556</td><td>0.2285</td><td>0.2159</td></tr><tr><td>SSF</td><td>0.4353</td><td>0.1286</td><td>0.0797</td><td>0.1730</td><td>0.1567</td><td>0.1922</td><td>0.4126</td><td>0.5120</td><td>0.2591</td><td>0.3720</td><td>0.2118</td><td>0.7896</td><td>0.0987</td><td>0.1118</td></tr></table></body></html>
+
+$G$ 为总体基尼系数； $\mathrm { G n b } , \mathrm { G t } , \mathrm { G w }$ ,分别为地区间差距、超变密度和地区内差距；都市功能区简称都市区、城市发展区简称城市区、渝东北生态涵养发展区简称渝东北区、渝东南生态保护发展区简称渝东南区
+
+# 3乡村空间功能类型划分
+
+乡村空间功能类型划分不仅关系到所属生态系统的平衡和微观经济生产的效益,而且影响到整个区域的生态平衡和整个社会的宏观经济平衡。在新的社会经济发展形势下，重庆已划分五大功能区域，各功能区发展定位各有侧重、各具特色。根据以上结果分析发现重庆市乡村空间各功能值具有显著的空间分异特征，具有明显的空间集聚性,地区间差距是乡村功能值总体差距的主要来源,都市功能区和城市发展新区与渝东北和渝东南之间的功能差距最大，远高于都市功能区和城市发展新区之间与渝东北和渝东南之间的功能差距。重庆市自然资源禀赋和生态承载力条件差异显著,土地开发中存在资源供给矛盾、生态环境恶化等问题[39].尤其是功能区之间和功能区内的乡村空间各类功能值的差距不一样，乡村空间不同功能的表现形式与作用强度存在差异[16],存在某种功能占优势地位,某些功能较弱的现象,如果单一的按五大功能区功能要求来确定各区域乡村空间的发展，不能充分地体现地域特色，不利于区域协调可持续发展。因此，有必要根据乡村空间优势功能评价结果，统筹乡村空间开发利用和保护，进一步划分乡村空间功能类型，加强乡村空间开发引导和管控,调整空间结构,优化空间布局。结合重庆市山区地域特征、乡村空间各类功能优势度的差异性和空间分布的非均衡性以及区域发展的实际需求,尤其是渝东北和渝东南区域生态稳定性功能较弱且区内差距较大，重点考虑了在生态稳定功能值弱的区域强化以提高土地生产功能、环境功能为重点的土地利用模式，此外，在生态稳定功能值较强的区域,发展合理的有特色的土地利用模式,由此将重庆市乡村空间划分为8种功能类型：
+
+http ://www.ecologica.cn
+
+1)I类农业生产-经济发展型该类型区域主要包括城市发展新区的合川、荣昌、涪陵、江津和綦江区的乡村空间，该类型区域农业生产功能和经济发展功能均名列前茅，是重庆市农业保障功能地区和乡村经济功能集聚的重点区域。该类型区域地势较为平坦，土壤相对肥沃，区位条件优越，耕地以灌溉水田为主，占区域内耕地总面积的 $4 6 . 2 8 \%$ ，小于 $1 5 ^ { \circ }$ 的耕地为区域内耕地总面积的 $6 9 . 6 8 \%$ ;今后,应严格保护现有基本农田，培养土壤肥力，通过创建农业产业化示范基地，发展城郊特色效益农业，并依托示范基地和龙头企业的集群集聚效应，调整农业产业和农村经济结构，合理组织农业生产和农村经济活动，运用“互联网 $+$ 农业”思维，发展农村电子商务，推进电商与实体流通融合发展，打造农业知名品牌，进一步拓展特色农产品出口市场。同时推进綦江、涪陵等食品工业园发展,大力发展农产品精深加工，建成全市农产品加工示范区。
+
+2)Ⅱ类农业生产-人居生活型该类型区域主要分布于城市发展新区的大足、铜梁和渝东北生态涵养发展区的梁平和忠县,这部分区域农业功能发展较为良好,经济功能相对落后,但乡村社会保障居住家园功能相对较好,是乡村农业生产的重要区域。该类型区域生产功能优势突出,应引导其农业生产功能合理发展,打造主城区“菜篮子”和优质的粮油基地,重点发展物流农业、休闲农业和成品农业,积极打造城郊都市农业示范区和城郊乡村宜居社区。
+
+![](images/8ab7a61456cc33ac3f59ab93711d00e72d13ebefe3a0e0cb1d29959b81cd013e.jpg)  
+图2重庆市乡村空间功能类型划分  
+Fig.2The multi-function types of rural spaces in Chongqing City
+
+3)I 类人居生活-社会保障型该类型区域主要包括都市功能区的大渡口区,江北区,九龙坡区,沙坪坝区。该类型区域主要位于重庆市核心发展区域,城市经济较为发达,但是就乡村空间功能强度来说,社会保障居住家园功能强度比经济发展功能强度更好,乡村基础设施建设更为完善,是重庆市乡村美好生活空间的典范区。
+
+4)V类人居生活-经济发展型该类型区域主要包括都市功能区的南岸区、渝北区、北碚区和巴南区以及城市发展新区的长寿区、璧山县,该区位于经济发展核心和农业保障地区的缓冲地带,整体经济发展良好，社会保障居住家园功能较强。今后,该区域作为都市功能拓展区，在保护和利用好有限的耕地的基础上，通过农村居民点整理创造良好的非农生产空间,可以特色水果、花卉苗木、设施蔬菜等为重点，着眼于满足现代都市人群需求,建设一批特色农业观光园、采摘园、体验园,发展、改造和提升一批“农家乐”,打造一批乡村旅游度假村，发展多功能都市现代经济产业。
+
+5)V类水源涵养生态保育型该类型区域主要包括巫山县、秀山县、城口县、丰都县。该类型区域生物多样性丰富,是重庆市的重要生态屏障,但近年来受人类活动干扰强度增大,生态功能衰退;受山地地形所限制,农业功能也较为落后。因此,本区域应该在稳定发展农业的基础上,保护现有自然资源,加强对水源涵养区的保护与管理,严格保护具有重要水源涵养功能的自然植被,限制或禁止各种不利于保护生态系统水源涵养功能的经济社会活动和生产方式,继续加强生态恢复与生态建设,治理土壤侵蚀,恢复与重建水源涵养区森林、湿地等生态系统,提高生态系统的水源涵养功能[40]。该类型区域的优势还体现在旅游资源丰富,以自然保护以及生态旅游为中心，建设沿江绿化带，增强沿江风景的观赏性，发展生态旅游土地利用模式，提高区域的经济效益和生态效益。
+
+6)V类生态保育-经济发展型主要包括黔江区、开县和万州区。这类型区域生态保育功能良好,生态稳定性功能也较为良好，具有一定的经济发展功能，因此，在保证经济发展功能的同时应严格控制对生态环境的破坏,以优先保护生态功能为首要目标,限制高耗能和高污染产业和工程项目的进入避开土地利用风险大的影响因子,要充分利用自然资源,念好“山"字经,深入挖掘本地区的生态资源优势,发展生态特色效益农业。开展生态产业示范,培育替代产业,减轻区内其他经济作业对水源和生态系统的压力。立足于农业特色资源的延伸利用和深度加工,培植具有地方优势的农产品,引导鼓励土地承包经营权向专业大户、家庭农场、农民合作社和农业企业流转,发展多种形式的适度规模经营,解决土地细碎化问题,提高农业规模化、集约化水平,大力发展加工工业和乡镇企业,形成以工带农、以农促工的良性关系。
+
+7)VI类生态保育-农业生产型主要包括南川区、潼南县、垫江县、酉阳县和石柱县。该类型区域主要属于山区丘陵区域,生态保育功能良好,土地环境风险相对其他区域要低一些,但是生态问题也是不容忽视的,农业生产功能也较为发达,发展山区农业要积极从山区条件出发,发挥生态环境多样化的优势,在发展资源特色型土地利用模式的同时也要加强区域生态环境建设,重点培植畜牧产业、药材产业、林果产业,努力建成山地特色农业基地。
+
+8)V类土壤保持生态保护型这类型区域主要包括渝东北的云阳县、奉节县和巫溪县以及渝东南区域的彭水县和武隆县。这类型区县的乡村空间生态稳定性功能较弱,环境风险性较大,土地开发利用风险较大,原因是这两个区域的水土流失和地质灾害较为严重。过去,不合理的土地利用,特别是陡坡开垦,以及交通、矿产开发、城镇建设、森林破坏、草原过度放牧等人为活动,导致地表植被退化、土壤侵蚀和石漠化危害严重[41]。是制约当地经济和社会发展的关键限制因素。今后,该区要有计划、有步骤地实施天然林资源保护、退耕还林还草、三峡库区水环境保护和地质灾害防治等工作,提高森林覆盖率,建立自然保护区,与周边环境协调发展。开展石漠化区域和小流域综合治理,协调农村经济发展与生态保护的关系，恢复和重建退化植被的同时,调整产业结构,加速城镇化和社会主义新农村建设的进程,加快农业人口的转移,降低人口对土地的压力。土地开发利用应该以降低本类型乡村空间土地环境风险影响的基础上,以发展丘陵农果为主,大面积林草种植相结合的环境友好型模式,改善本区生态环境,促进该区经济的多元化,提高本区的农业经济效益和生态效益。
+
+# 4结论与讨论
+
+本研究以西部山区重庆乡村空间为研究对象,构建乡村空间多功能评价指标体系，将乡村空间多功能划分为农业生产功能、经济发展功能、生态保育功能、生态稳定性功能,社会保障居住家园功能五种子功能,采用熵权法定量核算2013年全市乡村空间功能值,运用 Dagum基尼系数刻画重庆市不同地区乡村空间功能值地区差异特征,并划分了重庆市乡村空间功能类型,结论与建议如下：
+
+（1）山地型乡村地形复杂,景观类型多样,功能也极具多样性。研究区乡村空间除了生态稳定性功能外，其他各功能值具有显著的空间分异特征,有明显的空间集聚性。乡村农业生产功能值强的区域集中分布在都市功能区周边的城市发展区域,整体呈现四周高中间低及渝东北低的空间分布特征，主要受地形和经济发展状况影响。乡村经济发展功能、社会保障居住家园功能强的区域大多集中分布在都市功能区,以都市功能区为高值点向四周扩散降低的空间分布特征，主要受城市经济发展中心辐射影响。乡村生态保育功能值强的区域生态保育功能高值区主要集中分布于环库区沿线的渝东北、渝东南地区。乡村生态稳定性功能整体较弱，空间分布较为均衡。
+
+(2)基尼系数测算及其分解结果显示,地区间差距是总体差距的主要来源,其贡献率都超过 $5 0 \%$ 。都市功能区和城市发展新区与渝东北和渝东南之间的功能差距最大，远高于都市功能区和城市发展新区之间与渝东北和渝东南之间的功能差距。城市发展新区之间与渝东北和渝东南之间的功能差距与都市功能区与渝东北渝东南之间的差距较为相似,地区间差距是研究区域乡村空间功能值总体差距的主要动因。因此,政府在制定乡村发展相关政策和乡村规划时时,应适当向渝东南和渝东北地区倾斜,加强基础设施和公共服务设施建设,努力缩小地区差距。可见,Dagum基尼系数,是一种有效地技术方法，能够更为深入地刻画研究区乡村空间功能值地区间差异及区内差异特征，而以往研究较少对区域乡村空间的地区差异程度进行测度，难以揭示乡村空间功能差距的来源,本研究能够为乡村功能培育与乡村发展方向确定及路径选择提供科学依据。
+
+(3)山区乡村具有土地空间功能结构复杂、层次丰富、国土空间景观多样化等特征,各区县功能组合呈现出多样化的特征,研究根据重庆市乡村空间优势功能评价结果及山地乡村的特点和山区生态环境的脆弱性，进一步将乡村空间划分为农业生产-经济发展型,农业生产-人居生活型，人居生活-社会保障型，人居生活-经济发展型,水源涵养生态保育型，生态保育-经济发展型，生态保育-农业生产型，土壤保持生态保护型8种功能类型,能较好地体现地域特色,为科学健康的开发利用山地乡村空间土地资源提供有益借鉴,有利于区域协调可持续发展。未来乡村发展进程中,针对不同的乡村空间功能类型,其土地利用方式将面临转型,以适应其功能特点。因此,土地资源管理决策部门应适时、快速洞察各类土地利用信息,调整土地资源管理政策措施及宏观规划决策,科学管控土地利用方式转型[42]。一是通过土地资源管理经济手段调节和引导土地利用活动，增加土地的投入，提高土地利用的集约度。二是通过土地整治技术以及土地规划技术等土地资源工程技术方法,解决当前乡村土地利用结构不够优化,农业土地利用的规模不经济等土地利用问题,如通过实施土地整治,开展"空心村"整治和社区建设工作,调整农地利用结构,归并零散地块,增加有效耕地面积,提高耕地质量,提高土地利用率和产出率,适应社会经济发展对土地的需求。通过土地利用规划统筹安排各类空间用地，重点控制建设用地和占用耕地规模,形成合理用地结构。三是通过创新土地资源管理政策制度,鼓励农民保留承包权,转让使用权,发展多种形式的规模经营,大力推进土地的节约集约利用,严格控制用地总量规模,提高乡村空间土地利用效率,保障土地民生[43]。
+
+(4)研究还发现乡村经济发展功能与社会保障居住家园功能有相似的空间差异,功能值强的区域均集中分布在都市功能区,整体呈现中间高四周低的空间分布特征,而与农业生产功能呈现基本相反的空间格局。乡村是由经济、社会和环境组成的复杂系统，区域发展条件与过程的差异性，区域发展目标的多元性、社会需求的多样性及土地利用的多宜性,使不同地域空间同时具有多种功能,这些功能之间的关系如何,相互如何影响以及乡村空间功能非均衡形成的影响因素是今后值得进一步研究的方向。此外,本研究设置的评价指标和类型划分等问题还有待进一步深入探讨研究和验证，由于数据收集的局限性,本文仅为基于现状数据的研究，在后续研究中，可收集多个时间段的数据对乡村空间功能时空变化做动态研究。
+
+# 参考文献（References）：
+
+[1］石忆邵.乡村地理学发展的回顾与展望.地理学报，1992，47(1)：80-88.  
+[2］谢花林.乡村景观功能评价.生态学报，2004，24(9)：1988-1993.  
+[3］龙花楼.中国乡村转型发展与土地利用.北京：科学出版社，2012.  
+[4］刘彦随，龙花楼.中国农业地理与乡村发展研究进展及展望：建所70周年农业与乡村地理研究回顾与前瞻.地理科学进展，2011，30(4):409-416.  
+[5］杨忍，刘彦随，龙花楼，张怡筠.中国乡村转型重构研究进展与展望——逻辑主线与内容框架.地理科学进展,2015,34（8)：1019-1030.  
+[6]LngHL,iY,LiuY，Wos,ZouJAeleratedrestructuringinuralChieledby‘icreasingcreasingbala’adusepolicy for dealing with hollowed villages.Land Use Policy，2012,29(1）：11-22.  
+[7]BouarisouoiaoriefetfralveotplsiaUse1-8.  
+［8］张晓平，朱道林，许祖学.西藏土地利用多功能性评价.农业工程学报，2014，30(6)：185-194.  
+[9］甄霖，魏云洁，谢高地，Helming K，曹淑艳，杨莉，潘影,Koenig H.中国土地利用多功能性动态的区域分析.生态学报，2010,30（24)：6749-6761.  
+[10]WilsonGA.Thespatialityofultifunctionalagriculture：ahumangeographyperspective.Geoforum，2Oo9,40(2）：269-280.  
+[11］林若琪，蔡运龙.转型期乡村多功能性及景观重塑.人文地理，2012，27(2)：45-49.  
+[12] 冯健.乡村重构：模式与创新.北京：商务印书馆，2012.  
+[13]ManderU，WigeingH,elingK.MultifuctioalLandUse：MetingFutureDemandsforLndcapeGdsdServiceserlindeeg：
+
+Springer,2007：1-13.[14]WilemnL，HeinLvanMensvortMEF，VerbugPH.Spaceforpeople，plantsndivestockquantfinginteractiosaoglelandscape functions in a Dutch rural region.Ecological Indicators,201O,1O(1）：62-73.[15］刘玉，唐林楠，潘瑜春，唐秀美，任艳敏．京津冀地区县域农产品生产功能的时空格局及耦合特征.农业工程学报，2015，31（16)：305-314.[16］李平星，陈雯，孙伟.经济发达地区乡村地域多功能空间分异及影响因素——以江苏省为例.地理学报，2014,69(6)：797-807.[17]vanEupenM,MetzgerMJérez-SobaMVerburgPHvanDooA,unceRGH.AraltypologfortrategicEuropeanpoliesLadUsePolicy，2012，29(3):473-482.[18]Kunfuraesetaslcaspoase.[19]龙花楼.论土地整治与乡村空间重构.地理学报,2013,68（8)：1019-1028.[20］龙花楼，张杏娜.新世纪以来乡村地理学国际研究进展及启示.经济地理，2012，32（8)：1-7,135-135.[21］刘兴云.新型城镇化顶层设计的思路.光明日报,2013-02-27（11).[22］张占斌.新型城镇化的战略意义和改革难题.国家行政学院学报，2013，（1)：48-54.［23］潘卓.基于生态位适宜度的两江新区低丘缓坡土地利用情景模拟研究[D]．重庆：西南大学，2013.[24] 喻小倩.加快推进重庆市新型城镇化进程的思考.吉林农业，2015，（6)：124-125.[25]HelmingK,Pere-SobaM,TabbushP.SustainabilitympactAsesmntfLandUseangesBerlinHeidelberg：Springer0：7-105.[26]ClokePoutsidedvelontonseatiodanicresinglyaketableoodit/kedPolicydCangeiah'Britain.Oxford：Pergamon Press，1992：269-295.[27］曹玉红，曹言红.生态-生产-生活功能协调的长江岸线资源开发与管理.环境科学与管理,2011,36(10)：176-179.[28］樊杰.我国主体功能区划的科学基础.地理学报，2007，62(4)：339-350.[29]CostanzaR,AgeR,eGrooR,FarberS,rass,HanB,LibrgK,eemS,O'NeillRV,arueloJ,RaskinRG,nden Belt M.The value of the world's ecosystem services and natural capital.Nature，1997,387(6630)：253-260.[30］谢高地，甄霖，鲁春霞，肖玉，陈操.一个基于专家知识的生态系统服务价值化方法．自然资源学报，2008，23（5）：911-919.[31］张洪松，胡晓群.重庆市"十三五"主要农业指标的分析与展望.重庆经济，2015，（3）：3-7.[32］胡志远，欧向军.基于泰尔指数的江苏省区域差异多指标测度.经济地理，2007，27（5）：719-724.[33］覃成林，张华，张技辉.中国区域发展不平衡的新趋势及成因——基于人口加权变异系数的测度及其空间和产业二重分解.中国工业经济，2011，（10)：37-45.[34］刘华军，何礼伟.中国地区差距及其演变(2000—2012）——基于地区发展与民生指数(DLI)的再考察.经济与管理评论，2015，（1)：141- 146.[35]DagumC.AnwaroachtothedecompositionoftheGinincomeinequalityratioEmpiicalEconomics，1997,22（4）：1-531.[36］沈丽，鲍建慧.中国金融发展的地区差距问题研究——基于 Dagum 基尼系数方法的分析.山东财政学院学报，2013，（4）：41-48.[37］聂荣，高艳，储德银.中国农村居民收人分配差距的时空演变——基于 Dagum 基尼系数分解．财贸研究，2015,（4)：20-28.[38］刘华军，何礼伟，杨骞.中国人口老龄化的空间非均衡及分布动态演进：1989—2011.人口研究，2014，38（2）：71-82.[39］黄璐.基于共生理论的重庆城乡土地空间规划研究——以渝东南生态保护发展区为例[D].重庆：西南大学，2014.[40］廖和平，洪惠坤，陈智.三峡移民安置区土地生态安全风险评价及其生态利用模式——以重庆市巫山县为例.地理科学进展，2007，26(4) : 33-43.[41］莉萍.我国10类生态功能区主要生态问题及生态保护方向.农业现代化研究，2007，28（5）：640-640.[42］黄贤金.土地调控的制度掣肘与改革.人民论坛，2014，（26)：25-27.[43］龙花楼.论土地利用转型与土地资源管理.地理研究，2015，34(9)：1607-1618.

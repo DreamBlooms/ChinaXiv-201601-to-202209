@@ -1,0 +1,227 @@
+# 利用浮标和NWP风场对HY-2散射计联合定标验证
+
+朱金台1,²,董晓龙²,云日升²
+
+(1.航天东方红卫星有限公司,北京 100094;2.中国科学院空间科学与应用研究中心,中国科学院微波遥感重点实验室,北京 100190)
+
+摘要：本文对海洋二号卫星微波散射计(Haiyang-2 Scaterometer,HY-2 SCAT)进行了海洋定标算法研究,并使用数值天气预报模型风场(Numerical Weather Prediction,NWP)和浮标数据对定标后反演风场进行联合验证.通过匹配 2012年12月份的HY-2 SCAT反演风场、NWP风场及浮标的观测数据,共得到无降雨条件下的 3112个 $2 5 \mathrm { k m }$ 分辨率的匹配数据.对匹配数据进行分析时,采用基于变量的误差分析方法能够得到比传统线性回归方法更精确的验证结果.选取在风场U、V分量进行联合验证能得到较在风速、风向上更为有利的验证结果.验证结果表明,经过海洋定标法之后的HY-2 SCAT测量后向散射系数的误差残余小于0.15dB,其反演风场与浮标及NWP数据相吻合,U、V分量相对浮标及NWP数据偏差均小于 $0 . 2 3 \mathrm { m / s }$ ,验证了该定标算法的有效性及定标后反演风场的高精度.
+
+关键词：海洋二号卫星；微波散射计；定标验证；海面风场中图分类号：TP732.1 文献标识码：A 文章编号：0372-2112（2015)11-2237-06电子学报URL：http://www.ejournal.org.cn DOI: 10.3969/j.issn.0372-2112.2015.11.015
+
+# Dalibration and Validation of HY-2 Scatterometer Using NWP and Buoy Data
+
+ZHU Jin-tai1,2,DONG Xiao-long2,YUN Ri-sheng² (1.DFH Satellite Company Limited,Beijing 100o94,China; 2.The CASKey Laboratory of Microwave Remote Sensing,National Space Science Center, ChineseAcademy of Sciences,Beijing1Oo190,China)
+
+Abstract:Thescaterometeronboard HY-2 satelite iscalibratedusing Numerical Ocean Calibrationand its retrieval winds aftercalibrationarevalidated from13O global buoysand windsfomtheEuropean CentreforMedium-Range WeatherForestingNumericalWeatherPredictionmodelusingtriple-collocationduringDecember2O12,rsultingin3112colocatedtriplets.TheKNMI QCflag isusedtocoocatethedatawihoutaineorts.Itisfoundthatfunctionalelationshipmploingtheeror--varables method ismoreaccuracythanthatusinglinearregressonforthevalidationofretrieval windfromHY-2scaterometer.Moreover, usingthewindcomponentdomainisconfimedtobefavourable.Itisshownthattheuncertaintiesafteroceancalibrationislsan ,resulting in $0 . 2 \mathrm { m / s }$ systematic wind efects.For both zonal and meridional winds,the similar wind fieldscomparing with buoys and ECMWF indicate that the efective of thecalibrationand high qualityof the retrieval winds.
+
+Key words：HY-2 satelite;scatterometer;calibration and validation,wind field
+
+# 1引言
+
+2011年8月16日成功发射的海洋二号卫星(Haiyang-2,HY-2)是中国第一颗海洋动力环境卫星，其搭载的微波散射计(HY-2 Scatterometer,HY-2 SCAT)采用$\mathrm { K u }$ 波段 $( 1 3 . 2 5 6 ~ \mathrm { G H z } )$ 笔形波束旋转扫描体制.该体制散射计具有较大的观测刘幅，且星下点无遗漏.HY-2SCAT采用 $\mathrm { 1 m }$ 圆盘反射面天线提供VV极化(外波束)和HH极化(内波束)两个笔形波束分别以固定入射角( $4 8 ^ { \circ }$ 和$4 1 ^ { \circ }$ )对地球表面目标进行4次测量，分别记为内波束前视、内波束后视、外波束前视和外波束后视.内外波束对应的观测刘幅分别为 $1 3 5 0 ~ \mathrm { k m }$ 和 $1 7 5 0 ~ \mathrm { k m }$ ，使得HY-2SCAT每天能够覆盖 $90 \%$ 的海洋表面1」.
+
+为了达到HY-2SCAT设计的 $\pm 2 \mathrm { m / s }$ 风速精度和$\pm 2 0 ^ { \circ }$ 风向精度的风产品精度要求，对HY-2SCAT进行在轨定标及对定标后反演风场进行真实性检验是HY-2SCAT业务化运行的重要过程.星载微波散射计常用地面扩展目标和地面定标设备对其进行在轨外定标[2,3」.为了提高定标精度，Stoffelen为ASCAT开发了利用全球海面风场定标方法[4].对于HY-2 SCAT,海洋定标法(Numerical Ocean Calibration,NOC)不仅能够提供高精度的绝对定标且能够消除转动过程中的方位向测量偏差.为了有效评估对HY-2SCAT定标效果，需要对定标后的反演风场进行绝对定标验证.在此之前，已经有多种方法对散射计反演风场进行定标验证.对于QuikSCAT,Ebuchi[5]、Bourassa[6]和 Katheesan[7]等人分别采用浮标数据和调查船测量数据对QuikSCAT反演风场进行评估和验证;Verspeek[8]和 Bentamy[9]利用欧洲中期天气预报中心（European Centre for Medium-Range WeatherForecasts,ECMWF)数值天气预报(NumericalWeatherPre-diction，NWP)风场数据、浮标数据以及QuikSCAT反演风场分别对ASCAT风场进行验证.ThomasMathew等人利用Jason高度计风场反演数据与OSCAT风场数据进行对比的方法对OSCAT风场进行验证[10]；WANGHe等人利用浮标、调查船以及石油平台测风计等现场观测数据对 HY-2 SCAT反演风场进行了真实性检验[1].以上验证方法把诸如浮标、调查船等现场观测风场当做真值,利用传统线性回归(Linear Regresson,LR)并计算风场偏差、标准差等手段对散射计反演风场进行评估，该方法忽略了现场观测数据本身的误差以及散射计反演风场与现场观测之间因时间和空间分辨率不一致带来的相对偏差，因此利用以上方法对散射计反演风场进行绝对验证的时候会额外引入一定量的偏差.为了解决在对散射计反演风场验证时，基于地球物理模型(GeophysicalModelFunction,GMF)的散射计反演风场与现场风场测量误差之间的不一致性问题，Stoffelen开发了利用散射计反演风场、NWP模型风场以及浮标观测风场数据联合验证方法对散射计反演风场进行真实性检验，该方法已经成功应用到ERA-40有效波高及OS-CAT反演风场的验证中[12\~14].本文采用基于变量的相关误差分析方法（Functional Relationship,FR）,利用HY-2SCAT风场反演数据、ECMWF模型风场以及全球浮标数据对经过NOC 定标之后的HY-2SCAT反演风场进行联合验证，通过估计误差变量和定标系数实现对HY-2SCAT定标效果的验证和风场反演的真实性检验.
+
+# 2 HY-2SCAT定标及验证方法
+
+# 2.1 HY-2 SCAT海洋定标法
+
+海洋定标法通过收集NWP的风场信息，进而通过GMF仿真海面的后向散射系数 $( \sigma ^ { 0 } )$ ，并与HY-2 SCAT实际测量的 $\boldsymbol { \sigma } ^ { 0 }$ 进行对比实现对HY-2 SCAT的在轨定标[15].NOC 是基于大量数据的傅里叶分析估计其对应傅里叶系数并与GMF进行对比， $\mathrm { K u }$ 波段的GMF模型(NSCAT-3)对应的海面后向散射系数 $\boldsymbol { \sigma } ^ { 0 }$ 是观测入射角$\theta$ 、风速 $\mathbf { \sigma } _ { v }$ 及相对风向 $\phi$ 的函数，可以表示为：
+
+$$
+\sigma ^ { 0 } ( \theta , v , \phi ) = B _ { 0 } ( \theta , v ) \big ( 1 + B _ { 1 } ( \theta , v ) \cos ( \phi )
+$$
+
+$$
++ B _ { 2 } ( \theta , v ) \mathrm { c o s } ( 2 \phi ) )
+$$
+
+其中 $\theta$ 为观测入射角， $\mathbf { \sigma } _ { v }$ 表示风速， $\phi$ 为相对风向. $\boldsymbol { \sigma } ^ { 0 }$ 的均值主要取决于 $\boldsymbol { B } _ { 0 }$ ，受 $B _ { 1 }$ 和 $B _ { 2 }$ 的影响较小.对于 HY-2SCAT,风单元(WindVectorCell,WVC)对应的内、外波束对应的入射角近似为一常量.因此式(1)可以表示为傅里叶展开式形式为：
+
+$$
+\sigma ^ { 0 } ( \ v , \phi ) = { \frac { 1 } { 2 } } a _ { 0 } ( \ v ) + a _ { 1 } ( \ v ) \cos ( \phi ) + a _ { 2 } ( \ v ) \cos ( 2 \phi )
+$$
+
+其中 $a _ { 0 } = 2 B _ { 0 } , a _ { 1 } = B _ { 0 } B _ { 1 } , a _ { 2 } = B _ { 0 } B _ { 2 }$ ,可以表示为：
+
+$$
+a _ { n } = \frac { 1 } { \pi } \int _ { 0 } ^ { 2 \pi } \sigma ^ { 0 } ( \nu , \phi ) \mathrm { c o s } ( n \phi ) \mathrm { d } \phi , n = 0 , 1 , 2
+$$
+
+利用NOC对HY-2SCAT进行在轨外定标只需收集数天HY-2SCAT和ECMWF风场数据，然后利用式（2)估计出其傅里叶系数 $a _ { 0 }$ （即 $2 B _ { 0 }$ )即可得到HY-2 SCAT和ECMWF风场模拟 $\sigma ^ { 0 }$ 之间的偏差，即：
+
+$$
+\Delta \sigma ^ { 0 } = \frac { 1 } { 2 } a _ { 0 } ^ { \mathrm { S C A T } } - \frac { 1 } { 2 } a _ { 0 } ^ { \mathrm { N W P } } = B _ { 0 } ^ { \mathrm { S C A T } } - B _ { 0 } ^ { \mathrm { N W P } }
+$$
+
+把HY-2 SCAT测量得到的 $\boldsymbol { \sigma } ^ { 0 }$ 减去 $\varDelta \sigma ^ { 0 }$ 即可完成对HY-2SCAT的海洋定标.
+
+# 2.2 HY-2SCAT联合验证法
+
+为了评估定标效果及HY-2SCAT反演风场质量，需要对HY-2SCAT进行真实性检验.假设收集得到 $N$ 个匹配风场测量值分别为 $( x _ { i } , y _ { i } , z _ { i } )$ ， $i = 1 , \cdots , N$ ，其对应的风场真值为 $T _ { i } , i = 1 , \cdots , N .$ 则其测量值可以表示为：
+
+$$
+x _ { i } = X _ { i } + e _ { x i } = T _ { i } + e _ { x i }
+$$
+
+$$
+y _ { i } = Y _ { i } + e _ { y i } = a _ { 1 } + b _ { 1 } T _ { i } + e _ { y i }
+$$
+
+$$
+z _ { i } = Z _ { i } + e _ { z i } = a _ { 2 } + b _ { 2 } T _ { i } + e _ { z i }
+$$
+
+其中 $X _ { i } , Y _ { i } , Z _ { i }$ 表示风场真值 $T _ { i }$ 的线性相关项, $e _ { x i } , e _ { y i } , e _ { z i }$ （204号表示均值为0的随机误差项,且独立于 $T _ { i }$ ： $a _ { n }$ ， $b _ { n }$ ， $n =$ 1,2，分别表示测量值相对参考系统定标系数的一阶系数和偏差.通常认为浮标数据相对星载散射计和NWP数据更为精确，因此定义 $x , y , z$ 分别表示浮标、HY-2SCAT和ECMWF的风场信息.由于浮标和HY-2SCAT的空间和时间分辨率均较ECMWF小很多，因此浮标和HY-2SCAT包含的风场信息比ECMWF更为丰富.Vo-gelzang研究表明浮标和散射计的观测误差可以假设为相关项且独立于 NWP 风场即 $< e _ { x } e _ { y } > = r ^ { 2 }$ ， $< e _ { x } e _ { z } > =$ $< e _ { y } e _ { z } > = 0$ 其中 $< \cdot >$ 表示均值，这里相关系数 $r ^ { 2 } = { }$ $1 . 0 \mathrm { m } ^ { 2 } / \mathrm { s } ^ { 2 [ 1 6 ] }$ .这里 $r ^ { 2 }$ 并不是浮标和 HY-2 SCAT本身的测量误差，而是由于其测量数据与NWP数据对应时因时间和空间分辨率不同引人的误差.
+
+通过以上假设,式(5)中未知系数 $a _ { 1 } , b _ { 1 } , a _ { 2 } , i$ $b _ { 2 }$ 可以通过以下计算得出[16]
+
+$$
+\begin{array} { r l } & { a _ { 1 } = \langle \boldsymbol { y } \rangle - b _ { 1 } \langle \boldsymbol { x } \rangle } \\ & { a _ { 2 } = \langle \boldsymbol { z } \rangle - b _ { 2 } \langle \boldsymbol { x } \rangle } \\ & { b _ { 1 } = \langle \boldsymbol { y } ^ { * } \boldsymbol { z } ^ { * } \rangle / \langle \boldsymbol { x } ^ { * } \boldsymbol { z } ^ { * } \rangle } \\ & { b _ { 2 } = ( \langle \boldsymbol { y } ^ { * } \boldsymbol { z } ^ { * } \rangle \langle \boldsymbol { x } ^ { * } \boldsymbol { z } ^ { * } \rangle ) / ( \langle \boldsymbol { x } ^ { * } \boldsymbol { y } ^ { * } \rangle \langle \boldsymbol { x } ^ { * } \boldsymbol { z } ^ { * } \rangle } \\ & { \phantom { b _ { 2 } = } - ( \langle e _ { x } e _ { y } \rangle \langle \boldsymbol { y } ^ { * } \boldsymbol { z } ^ { * } \rangle ) ) } \end{array}
+$$
+
+其中 $x ^ { ^ { * } } , y ^ { ^ { * } }$ 和 $z ^ { * }$ 分别表示对应项与其均值之差，式(5)中零均值误差项 $e _ { x } , e _ { y } , e _ { z }$ 的方差可以表示为：
+
+$$
+\mathrm { v a r } ( \ e _ { x } ) = \big \langle ( \ x ^ { * } \ ) ^ { 2 } \big \rangle - \big \langle y ^ { * } \ z ^ { * } \big \rangle / ( \ b _ { 1 } b _ { 2 } )
+$$
+
+$$
+\mathrm { v a r } ( \textit { e } _ { y } ) = \big \langle ( \textit { y } ^ { * } ) ^ { 2 } \big \rangle / b _ { 1 } ^ { 2 } - \big \langle y ^ { * } \ z ^ { * } \big \rangle / ( b _ { 1 } b _ { 2 } )
+$$
+
+$$
+\mathrm { v a r } ( \ e _ { z } ) = \langle ( z ^ { * } ) ^ { 2 } \rangle / b _ { 2 } ^ { 2 } - \langle y ^ { * } z ^ { * } \rangle / ( b _ { 1 } b _ { 2 } )
+$$
+
+为了对比 $Y$ 和 $Z$ ，可以把 $Y$ 和 $Z$ 表示成类似式(5)即：
+
+$$
+Y = a _ { 3 } + b _ { 3 } Z
+$$
+
+对比式(8)和式(5)可得系数 $\mathbf { \alpha } _ { a _ { 3 } }$ 和 $b _ { 3 }$ 分别为：
+
+$$
+\begin{array} { l } { { a _ { 3 } = a _ { 1 } - a _ { 2 } b _ { 1 } / b _ { 2 } } } \\ { { b _ { 3 } = b _ { 1 } / b _ { 2 } } } \end{array}
+$$
+
+# 3测量数据
+
+# 3.1 HY-2 SCAT数据
+
+HY-2SCAT的测量数据为国家卫星海洋应用中心提供的2012年12月1-31日未经定标的Level-2A（L2A)数据，WVC空间分辨率为 $2 5 \mathrm { k m } \times 2 5 \mathrm { k m }$ .本文利用最大似然法结合NSCAT-3模型对HY-2SCATL2A数据进行风场反演，生成包含海洋风场的L2B数据，反演过程中采用多解方案（MSS，选择144个解作为风场反演模糊解而不是传统的4个模糊解)结合二维变分法(2DVAR)得到HY-2SCAT反演风场，该方法能够获得比传统方法更为精确的反演风场.雨衰是影响散射计风场测量精度的一个重要因素，尤其对Ku波段微波散射计，为了得到高精度反演风场用于定标验证过程，在对HY-2SCAT风场反演过程中采用KNMI提供的降雨标记算法标记并剔除降雨区域数据.
+
+HY-2SCAT刘幅远端的风单元（对应WVC编号1-8,69-76)只被VV极化前、后视各观测一次，因此该区域的反演风场质量相对较差，不用来进行定标结果验证和对比.
+
+# 3.2 预报模型数据
+
+用于定标和验证时的NWP数据选取ECMWF发布的空间分辨率约为 $0 . 5 5 ^ { \circ } \times 0 . 5 5 ^ { \circ }$ 的预报风场.ECMWF预报数据为UTC00,UTC03,UTC06,UCT09,UTC12,UTC15和UTC18每3小时提供一次的预报数据.把ECMWF提供的NWP风场 $U$ 分量和 $V$ 分量的风场经过插值处理转化成 $2 5 \mathrm { k m }$ 空间分辨率的风场.通过NSCAT-3得到的 HY-2SCAT反演风场为海平面10米处的等效风场，利用LKB模型把ECMWF风场转换到海平面 $1 0 \mathrm { m }$ 处等效风场[17].
+
+# 3.3 浮标数据
+
+利用浮标数据对HY-2SCAT反演结果进行验证时，匹配收集了约130个全球浮标其位置分布如图1所示.这些浮标均远离海岸线 $5 0 \mathrm { k m }$ 以上，其测量数据均通过ECMWF质量控制，保证了浮标测量数据的有效性.由于HY-2SCAT的WVC分辨率为 $2 5 \mathrm { k m }$ ，在浮标数据进行收集和与HY-2SCAT测量数据进行匹配时，选取浮标位置与HY-2SCATWVC中心距离小于 $1 7 . 7 \mathrm { k m } ( 2 5 / \sqrt { 2 } )$ 、测量时间差小于30分钟的浮标测量数据进行匹配，共得到3112个匹配浮标数据.通过LKB模型把浮标数据转化为海平面 $1 0 \mathrm { m }$ 处等效风场.
+
+![](images/38c3dfe863683aaae9e8736dea62b677949eb5bbcfa3212c502326e41b6c6465.jpg)  
+图1 浮标分布图
+
+# 4HY-2SCAT定标及验证结果
+
+# 4.1 HY-2SCAT定标结果
+
+本文对HY-2SCAT进行定标和验证时，选取均被HH极化和VV极化观测到的WVC，即对应WVC编号为9-68，则每个WVC分别被HH极化和VV极化前视和后视共观测4次.选取2012年12月1-7日HY-2SCAT剔除降雨后的 $\boldsymbol { \sigma } ^ { 0 }$ 测量数据估计HY-2SCAT定标系数，由式(4)共得到4个定标系数，如图 $2 ( a )$ 所示.从图中可以看出，HY-2SCAT测量的 $\boldsymbol { \sigma } ^ { 0 }$ 比ECMWF风场通过GMF模型仿真得到的 $\sigma ^ { 0 }$ 高约1.7dB.把该定标系数补偿到2012年12月HY-2SCAT测量数据中，得到经过NOC定标后的HY-2SCAT测量数据，并对定标后数据进行反演，定标后的误差残余如图 $2 ( \boldsymbol { b } )$ 所示，反演结果如图3所示.从图2和图3中可以看出经过NOC之后误差残余为 $0 \sim 0 . 1 5 \mathrm { d B }$ ,带来的风速偏差为 $0 \sim 0 . 2 \mathrm { m / s }$ ，经过NOC之后的风向标准差小于 $1 5 ^ { \circ }$ .由于星下点附近对应WVC的测量方位角比较接近，因此其对应WVC的风向精度差于其他WVC.
+
+# 4.2 HY-2SCAT验证结果
+
+4.1节给出了HY-2SCAT测量数据NOC定标结果，可以看出经过NOC之后HY-2SCAT风场反演得到了明显改善.为了对NOC之后的反演风场进行绝对评价，利用浮标、ECMWF联合对HY-2SCAT反演风场进行验证.
+
+![](images/7b679650bdd6fb23fbd1001cbe86a0244118f0471384d219b22319e5790a835e.jpg)  
+图2NOC定标系数
+
+![](images/fe1425e3dbec815fc18d3c527a02ce46040fe0cd1333ffb1a1a30ec601c81a04.jpg)  
+图3NOC定标结果  
+图4 $( v , \phi )$ 域联合验证散点图
+
+风场验证的精确度受验证参量选取的影响，风场 $U , V$ 分量域 $( U , V )$ 的概率分布近似为对称高斯分布，对应误差分布在 $U , V$ 域比较相似且独立于风速;而风速-风向域 $\displaystyle ( \boldsymbol { v } , \phi )$ 分布中，风向的随机误差分布受风速的影响，尤其是在低风速条件下，且由于风速均为正值因此其误差也非对称分布[12].为了对比不同情况,这里在风速-风向域 $\displaystyle ( \boldsymbol { v } , \phi )$ 和风场 $U , V$ 分量域 $( \mathrm { \Delta } U , \mathrm { \Delta } V )$ 分别进行验证.
+
+$\displaystyle ( \boldsymbol { v } , \phi )$ 域和 $( \mathrm { \Delta } U , \mathrm { \Delta } V )$ 域验证结果分别如图4和图5所示.图中虚线表示利用3.2节基于变量的误差分析方法(FR)得到的定标直线，从图中可以看出收集风场数据对称分布于定标直线两侧.为了对比传统线性回归方法(LR)，把LR得到的定标直线如图4和图5中直线所示.对比图4和图5可以看出，相对于 $( \mathrm { \Delta } U , \mathrm { \Delta } V )$ 域，在$\displaystyle ( \boldsymbol { v } , \phi )$ 域FR和LR得到的定标直线相对偏差较大，主要是由于 $( \boldsymbol { v } , \phi )$ 域中的随机误差大于 $( U , V )$ 域.定标验证系数如表1所示，从表1中也可以看出在 $( \boldsymbol { v } , \phi )$ 域FR和LR得到定标验证系数差别较明显，而在 $( U , V )$ 域则有相对稳定的一致性，这同样说明了在 $\displaystyle ( \boldsymbol { v } , \phi )$ 域随机误差较大.因此在 $( \mathrm { \Delta } U , \mathrm { \Delta } V )$ 域分别对浮标、HY-2SCAT和ECMWF风场数据的随机误差标准差及其对应风场的标准差进行统计，结果如表2所示.从表2中可以看出浮标观测数据的随机误差的标准差最大，ECMWF风场数据的随机误差标准差最小，这与浮标、HY-2SCAT以及ECMWF空间分辨率紧密相关.三者测量数据的近似一致的标准差和近似一致的相关系数表明HY-2SCAT经过NOC之后的反演风场、浮标测量风场以及ECMWF预报风场之间的一致性，其中相对浮标和ECMWF风场数据，HY-2SCAT风场 $U , V$ 分量偏差均小于 $0 . 2 3 \mathrm { m / s }$ ，验证了定标算法的有效性.
+
+S.W/Ss 2520 7060 . 252050 240  
+15 40 180 15  
+10 30120 1020  
+510 60 5  
+0  
+0 5 10152025 60120180 240 300 360  
+Buoy风速/ms -1 Buoy风向/()(a)风速分布 (b)风向分布  
+25 360 25  
+S.W/Ss 20 50 300 + 2040  
+15 1530 180  
+1020 120 10  
+510 60 58  
+0  
+0 5 10 15 2025 0 60 120 180240300 360  
+Buoy风速/m's -1 Buoy风向/()(c)风速分布 (d)风向分布  
+25 360 25  
+S.W/ISs 20 50 S 2040  
+15 1530  
+10 20 10  
+510 5  
+0 0 510152025 0 060120180240300360  
+ECMWF风速/ms-1 ECMWF风向/()(e)风速分布 (f)风向分布2515 2515 2520 [-S.u/  
+PS.W/ISs 5 15 HHII 5 2015-5 10 -510  
+-15 5 -155-25 美 -25-25 -15 -5 515 25 -25-15 -5 5 15 25Buoy U分量/ms-1 Buoy U分量/ms-1(a)风场U分量分布 (b)风场V分量分布25 20 25  
+/ 18 CD T 3015 16 15 25145 12 5 20-5 18 -5 156 10  
+-15 3 4 -15 5-25 2 -25-25-15-5515 25 -25 -15-551525Buoy U分量/ms-1 BuoyU分量/m's-1(c)风场U分量分布 (d)风场V分量分布25 20 25  
+SA/PPs 18 -s.u/ 3015 16 15 255 14 12 /HXAI 5 20-5 1086 -5 1510  
+-15 ： 4 -15 5  
+-25 2 -25-25-15-551525 -25-15-551525ECMWF分量/m·s-1 ECMWF分量/m·s-1(e)风场U分量分布 (f)风场V分量分布
+
+表1 $\displaystyle \big ( \boldsymbol { v } , \boldsymbol { \phi } \big )$ 域及 $( \mathit { \Pi } U , V )$ 域用基于变量的误差分析方法(FR)和线性回归(LR)分别得到的定标系数， $X , Y , Z$ 分别对应浮标、HY-2SCAT和ECMWF风场数据
+
+表2( $\displaystyle U , V )$ 域用基于变量的误差分析方法(FR)得到的随机误差 $\boldsymbol { e } _ { x }$ =$e _ { y } , e _ { z }$ 的标准差以及观测值 $X , Y , Z$ 标准差结果  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">定标 系数</td><td colspan="2">Y= a + bX</td><td colspan="2">Z = a + bX</td><td colspan="2">Y= a + bZ</td></tr><tr><td>FR</td><td>LR</td><td>FR</td><td>LR</td><td>FR</td><td>LR</td></tr><tr><td>风速 /(m/s)</td><td>a b</td><td>-0.88 1.10</td><td>0.06 1.01</td><td>0.00 1.02</td><td>0.62 0.87</td><td>-0.88 1.08</td><td>0.79 0.99</td></tr><tr><td>风向/(°)</td><td>b</td><td>-5.95 1.06</td><td>6.28 0.93</td><td>0.00 1.01</td><td>10.33 0.88</td><td>-5.95 1.06</td><td>0.56 1.00</td></tr><tr><td>U分量 /(m/s)</td><td>a b</td><td>0.23 1.05</td><td>0.21 0.95</td><td>0.00 1.00</td><td>0.33 0.92</td><td>0.23 1.04</td><td>-0.13 1.03</td></tr><tr><td>V分量 /(m/s)</td><td>a b</td><td>-0.15 1.07</td><td>-0.11 0.98</td><td>0.00 0.95</td><td>-0.10 0.85</td><td>-0.15 1.12</td><td>0.01 1.10</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">误差标准差/(m/s)</td><td colspan="3">测量标准差/(m/s)</td><td colspan="3">相关系数</td></tr><tr><td>ex</td><td>ey</td><td>e</td><td>X</td><td>Y</td><td>Z</td><td>Rxy</td><td>Rxz</td><td>Ryz</td></tr><tr><td>U</td><td>2.05</td><td>1.47</td><td>0.66</td><td>7.31</td><td>7.65</td><td>7.33</td><td>0.98</td><td>0.98</td><td>0.98</td></tr><tr><td>V</td><td>2.06</td><td>1.27</td><td>0.76</td><td>6.24</td><td>6.43</td><td>5.67</td><td>0.97</td><td>0.97</td><td>0.97</td></tr></table></body></html>
+
+# 5结论
+
+本文基于HY-2SCAT测量数据和ECMWFNWP等效风场数据结合NSCAT-3模型对HY-2SCAT进行海洋定标.利用2012年12月1-7日HY-2SCAT测量数据得到HY-2SCATNOC定标系数，并把其校正到2012年12月测量 $\boldsymbol { \sigma } ^ { 0 }$ 数据中.相比ECMWF预报数据，经过NOC之后的HY-2 SCAT $\boldsymbol { \sigma } ^ { 0 }$ 误差残余为 $0 \sim 0 . 1 5 \mathrm { d B }$ ,带来的风速偏差小于 $0 . 2 \mathrm { m / s }$ ，且关于星下点左右对称；经NOC之后的风向标准差小于 $1 5 ^ { \circ }$ ,风向精度关于星下点左右对称且星下点对应WVC风向精度较刘幅其他位置差，这主要是由于星下点VV极化和HH极化观测方位角比较接近，导致反演时风向精度较差.
+
+为了绝对评价HY-2SCAT的NOC定标效果，采用浮标和ECMWF预报风场对HY-2SCAT反演风场联合验证.利用NSCAT-3模型对HY-2SCAT定标后 $\boldsymbol { \sigma } ^ { 0 }$ 进行反演，并采用多解方案结合二维变分法进行风向去模糊处理.在剔除降雨数据时，针对HY-2SCATVV极化和HH极化均能观测到的WVC,选取距离HY-2SCAT$1 7 . 7 \mathrm { k m }$ 且观测时间间隔相对HY-2SCAT小于0.5小时的浮标观测数据进行匹配，共得到HY-2SCAT、ECMWF和浮标完全匹配的3112个观测数据.采用FR和LR方法分别对匹配数据在风速-风向域和风场U-V分量域进行验证.由于FR方法考虑了HY-2SCAT、ECMWF和浮标观测数据空间及时间分辨率不同等误差因素，采用FR方法相对LR更接近匹配数据分布.由于风场 $U _ { - }$ V分量分布近似对称高斯分布，而风速-风向域分布中，风向误差受限于风速大小，风速越小，风向误差越大，因此对比发现在风场U-V分量进行验证更能反演HY-2SCAT风场精度.对比发现，浮标、HY-2SCAT以及ECMWF风场数据中的随机误差与其空间分辨率紧密相关，当统一到 $2 5 \mathrm { k m }$ 空间分辨率进行统计时，由于浮标本身测量的空间分辨率最小,因此其随机误差最大；对比三者风场数据的标准差和FR得到的定标直线可知，三者风场数据保持了一致性，表明HY-2 SCAT经NOC之后的风场与浮标观测数据和ECMWF预报数据相吻合，验证了HY-2SCAT海洋定标的有效性.
+
+感谢国家卫星海洋应用中心提供的HY-2微波散射计数据以及ECMWF提供的浮标和预报风场数据.
+
+# 参考文献
+
+[1]Jiang X W,Lin M S,Liu JQ,et al.The HY-2 satellite and its preliminary assessment[J].International Journal of Digital Earth,2012,5(3):266-281.   
+[2]Long D G,Skouson G B.Calibration of spaceborne scatterometers using tropical rain forests[J].IEEE Transactions on Geoscience and Remote Sensing,1996,34(2) :413-424.   
+[3]Wilson JJW,Anderson C,Baker MA,etal.Radiometric calibration of the advanced wind scatterometer radar ASCAT carried onboard the METOP-A Satelite[J].IEEE Transactions on Geoscience and Remote Sensing,2010,48(8）:3236-3255.   
+[4]Stoffelen A.A simple method for calibration of a scatterometer over the ocean[J].Journal of Atmospheric and Oceanic Technology,1999,16(2) :275 - 282.   
+[5]Ebuchi N,Graber HC,Caruso MJ.Evaluation of wind vectors observed by Quik SCAT/SeaWinds using ocean buoy data[J]. Journal of Atmospheric and Oceanic Technology，2002，19 (12):2049 - 2062.   
+[6] Bourassa M A,Legler D M,O'brien JJ,et al.Sea Winds validation with research vessels[J]. Journal of Geophysical Research-Oceans,2003,108(C2):3019-1-16.   
+[7] Satheesan K,Sarkar A,Parekh A,et al.Comparison of wind data from Quik SCAT and buoys in the Indian Ocean[J].International Journal of Remote Sensing,2007,28（10）: 2375 - 2382.   
+[8]Verspeek J,Stoffelen A,Portabella M,et al.Validation and calibration of ASCAT using CMOD5.n[J].IEEE Transactions on Geoscience and Remote Sensing,2010,48(1) :386 -395.   
+[9]Bentamy A, Croize-Fillon D,Perigaud C. Characterization of ASCAT measurements based on buoy and QuikSCAT wind vector observations[J].Ocean Science,2008,4(4) :265- 274.   
+[10] Mathew T,Chakraborty A,Sarkar A,et al. Comparison of oceanic winds measured by space-borne scatterometers and altimeters[J].Remote Sensing Letters,2012,3(8):715-720.   
+[11] Wang H,Zhu JH,Lin M S,et al.First six months quality assessment of HY-2A SCAT wind products using in situ measurements[J].Acta Oceanologica Sinica,2013,32（11） : 27 - 33.   
+[12] Stoffelen A.Toward the true near-surface wind speed:Error modeling and calibration using triple collocation［J]. Journal of Geophysical Research - Oceans,1998,103（C4）: 7755 - 7766.   
+[13] Caires S,Sterl A.Validation of ocean wind and wave data using triple collocation[J].Journal of Geophysical Research-Oceans,2003,108(C3):3098-1- 16.   
+[14]Chakraborty A,Kumar R,Stoffelen A.Validation of ocean surface winds from the OCEANSAT-2 scatterometer using triple collocation[J] .Remote Sensing Letters,2013,4（1） : 85 -94.   
+[15]Verspeek J,Stoffelen A,Verhoef A,et al.Improved ASCAT wind retrieval using NWP ocean calibration[J］.IEEE Transactions on Geoscience and Remote Sensing,2012,50(7) :2488 - 2494.   
+[16]Vogelzang J,Stoffelen A,Verhoef A,et al.On the quality of high-resolution scatterometer winds[J].Journal of Geophysical Research-Oceans,2011,116(C10033):1-14.   
+[17]Liu W T,Katsaros K B,Businger JA.Bulk parameterization of air-sea exchanges of heat and water-vapor including the molecular constraints at the interface[J].Journal of the Atmospheric Sciences,1979,36(9):1722-1735.
+
+# 作者简介
+
+朱金台(通信作者）男，工学博士，航天东方红卫星有限公司工程师，主要从事星载微波散射计在轨定标方法和技术研究、星载微波遥感载荷系统研究.
+
+![](images/dcc9ce5dbe807613be4981ab930a14ff0b3c027ed29f4b99b2694bd14f1cc2d0.jpg)
+
+E-mail: zhujintai @ 163.com
+
+![](images/0797efd1852bf7dcbccf6613846e768509971550eae7748a5b63b72f8070e82d.jpg)
+
+董晓龙男，工学博士，中国科学院空间科学与应用研究中心研究员、博士生导师，主要研究方向：微波(包括毫米波、亚毫米波)遥感成像与探测的理论与方法研究，先进星载、机载和地基主、被动微波遥感器研制及目标与环境的电磁散射与辐射特征以及微波遥感应用研究等.
+
+E-mail: dongxiaolong @ mirslab.cn

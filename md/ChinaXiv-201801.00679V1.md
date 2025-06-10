@@ -1,0 +1,94 @@
+# 临床研究
+
+# 膝关节滑膜皱襞综合征关节镜与保守治疗的远期效果对比
+
+罗洪斌',冯兴伦',韦昌南},温建强²  
+佛山市中医院三水医院骨科，广东 三水 528100；佛山市中医院骨科，广东 佛山 528000
+
+摘要：目的对比膝关节滑膜皱襞综合征(SPS)的关节镜与保守治疗的远期效果。方法收集接受关节镜手术的31例SPS患者作为观察组，以接受玻璃酸钠关节腔注射保守治疗的27例SPS患者作为对照组，比较手术前后的疼痛视觉评分及Lysholm评分差异;对以上患者随访5年,使用Kaplan-Meier生存分析法比较两组的长期疗效。结果治疗后两组的疼痛视觉评分及Lysholm评分均较各自治疗前明显降低 $( P { < } 0 . 0 5 )$ ，但治疗后观察组的疼痛视觉评分显著低于对照组，而Lysholm评分显著高于对照组$( P { < } 0 . 0 5 )$ 。观察组的疗效维持时间的算术均数及中位数分别为49、43个月，而对照组分别为33、29个月;观察组的累积疗效维持率显著高于对照组 $( \chi ^ { 2 } { = } 4 . 9 3 3 , P { = } 0 . 0 2 6 )$ 。结论 关节镜治疗膝关节SPS的临床疗效优于保守治疗，且前者的疗效远期维持时间明显长于后者。
+
+关键词：滑膜皱襞综合征；关节镜;保守治疗;Kaplan-Meier分析
+
+# Long-term outcomes of arthroscopy and non-surgical therapy in patients with knee synovial plica syndrome
+
+LUOHongbin',FENGXinglun1,WEI Changnan',WENJianqiang   
+DepartmentofOrthopedics，SanshuiTCMHospitalAfliatedtoFoshanCMHospitalSanshui528100China;Departmento   
+Orthopedics,Foshan TCMHospital,Foshan528o0o,China
+
+Abstract: Objective To compare the long-term outcomes of arthroscopy and non-surgical therapy in patients with knee synovial plica syndrome (SPS). Methods Thirty-one patients with knee SPS undergoing arthroscopic surgery and 27 SPS patients undergoing conservative treatment with articularcavity injection of sodium hyaluronate (control group)were compared forvisual painscore(VAS)andthe Lysholmscore beforeand after theoperation.Thepatients werefollowed-up for more than 5 years,andthe long-term outcomes were compared using Kaplan-Meier survival analysis.Results VAS and the Lysholm scores in both groups were significantly lowered after treatment $_ { ( P < 0 . 0 5 ) }$ . The postoperative VAS score was significantly lower while the Lysholm score significantly higher in arthroscopic surgery group than in the control group( $P <$ 0.05).Arithmetic mean and the median time of curative efect maintenance were 49 and 43 months in arthroscopic surgery group,ascompared with 33 and 29 months inthe control group,respectively;thecumulative efect maintenancerate in arthroscopic surgery group was significantly higher than that in the control group $\scriptstyle \langle \chi ^ { 2 } = 4 . 9 3 3 .$ $P { = } 4 . 9 3 3 \rangle$ . Conclusion Arthroscopic treatment produces beter therapeutic effect on kneejoint SPS and ensures longer long-term therapeutic ffect maintenance than conservative treatment.
+
+Key words: plica syndrome; arthroscopy; conservative treatment; Kaplan-Meier analysis
+
+滑膜皱襞综合征(SPS)是一种与胚胎期原始隔膜退化不完全密切相关的骨科疾病，多有外伤史或长期运动损伤史，其发生率约 $9 \% { \sim } 4 5 \%$ 不等[。由于SPS容易合并宾骨软化、宾股关节紊乱以及半月板损伤等，且由于神经解剖变异大，故SPS容易漏诊及误诊[2]。关节镜是诊断和治疗SPS的"金标准”，但是临床上不少患者不同意关节镜治疗而采用保守治疗，究竟两种方法的长期效果差异如何，关节镜手术的优势如何？目前该方面的研究尚缺少较标准的对比性统计学方法。为此，笔者采用Kaplan-Meier生存分析法，对接受关节镜手术与保守疗法的SPS患者进行长期疗效观察，发现关节镜的疗效维持时间明显长于保守治疗，过程如下。
+
+# 1资料和方法
+
+1.1 临床资料
+
+以2009年1月\~2014年1月我科收治的SPS患者作为观察对象。人选条件如下：经关节镜、关节核磁共振、关节超声等检查确诊为SPS;无合并其他明显疼痛性疾病;同意长期随访。共入选58例，均为单膝发病，年龄24\~69岁，病程0.3\~16年。其中镔上13例、镔下16例、镔内25例、髋外11例、复合6例，侧滑膜皱襞按照接受治疗的方法分为关节镜组(观察组)及保守治疗组(对照组)3，两组的性别构成及年龄均无统计学差异(表1)。
+
+# 1.2 治疗方法
+
+1.2.1手术方法麻醉并使用止血带后，使用美国Stryker膝关节镜系统从前外侧标准切口入镜，按"髋上囊-内侧沟-内侧间隙-髁间窝-镔股关节-外侧沟-外侧间隙"的探查顺序对膝关节进行检查，然后由髋下前内侧入路置入探针以协助检查，如发现滑膜皱襞，记录其部位、范围大小、宽度、厚度、色泽、是否充血及软骨面磨损程度，用探针检查皱襞的质地、弹性。在关节镜下完全切除滑膜皱襞，随之用刨刀打磨不平的软骨面，常规清理关节内碎屑[4]。
+
+1.2.2门诊定期关节腔注射玻璃酸钠治疗，治疗周期为1年，每半年接受1个疗程的玻璃酸钠注射，每个疗程分5次注射，连续5周，每周1次。
+
+# 1.3疗效评价
+
+患者进行计划60个月的随访，方式为复诊、邮件、电话、QQ及微信等。当无明显诱发因素再度出现治疗前症状且持续1周以上，判断为复发。当在某个随访时间点患者仍未复发但后续失访，则记录为删失，用 $+ ^ { \prime }$ 表示[5。采用疼痛视觉评分(VAS)法对患者的膝关节疼痛进行评价，最低0分，最高10分。使用Lysholm评分对膝关节的功能进行评分[]。
+
+# 1.4 统计学方法
+
+定量资料采用均数 $\stackrel { \cdot } { \pm }$ 标准差表示，使用卡方检验比较性别构成差异;使用两独立样本t检验比较两组间定量指标的差异，配对t检验比较治疗前后指标差异；使用Kaplan-Meier法分析两组SPS患者的疗效维持时间中位数及累积维持时间差异，症状无复发赋值为“0”，复发为“1”。运用统计软件包SPSS17.0处理数据，当 $P <$ 0.05认为差异有统计学意义。
+
+# 2结果
+
+# 2.1临床疗效比较
+
+治疗前两组的VAS及Lysholm评分均无统计学差异 $( P { > } 0 . 0 5 )$ 。治疗后，两组的VAS较治疗前明显降低，Lysholm评分均较治疗前明显升高(均为 $P { > } 0 . 0 5$ 。组间比较显示，治疗后观察组VAS显著低于对照组( $P =$ 0.036)，Lysholm评分显著高于对照组( $\scriptstyle P = 0 . 0 2 1$ ，表1)。
+
+表1两组患者的一般情况及疗效比较Tab.1 Comparison of general condition and curative effect (n, Mean±SD)  
+
+<html><body><table><tr><td rowspan="2">Group</td><td rowspan="2">九</td><td colspan="2">Gender</td><td rowspan="2">Age (year)</td><td colspan="2">VAS Score</td><td colspan="2">Lysholm Score</td></tr><tr><td>M</td><td>F</td><td>Before treatment</td><td>Last follow-up</td><td>Before treatment</td><td>Last follow-up</td></tr><tr><td>Observation</td><td>31</td><td>23</td><td>8</td><td>47.61±21.52</td><td>5.19±2.43</td><td>2.03±1.02*</td><td>73.39±4.27</td><td>88.16±8.57*</td></tr><tr><td>Control</td><td>27</td><td>21</td><td>6</td><td>45.29±20.16</td><td>5.04±2.26</td><td>3.21±1.69*</td><td>71.64±4.09</td><td>79.38±6.14*</td></tr><tr><td>x</td><td></td><td>1.016</td><td></td><td>2.023</td><td>0.917</td><td>-2.014</td><td>3.013</td><td>-5.107</td></tr><tr><td>P</td><td></td><td>0.204</td><td></td><td>0.078</td><td>0.803</td><td>0.036</td><td>0.065</td><td>0.021</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs before treatment.
+
+# 2.2Kaplan-Meier分析
+
+观察组有4例患者删失，分别在第6、11、26、56个月删失，删失率 $1 2 . 9 \%$ ;对照组有3例删失，分别在第9、16、37个月删失，删失率 $1 1 . 1 \%$ 。两组删失率无统计学差异$( P { > } 0 . 0 5 )$ 。观察组疗效维持期最长的案例大于60个月(2例，占 $6 . 4 5 \%$ )，而对照组疗效维持期最长的时间为58个月。观察组的疗效维持时间的算术均数及中位数分别为49、43个月，而对照组分别为33、29个月。随着随访时间的延长，两组的累积疗效维持率有所下降。经Kaplan-Meier生存分析Logrank(Mantel-Cox)检验法,各时间点权重一样,得出结果 $\chi ^ { 2 } { = } 4 . 9 3 3 , P { = } 0 . 0 2 6$ ，两组患者的累积疗效维持率差异具有统计学意义(表2,图1)。
+
+# 3讨论
+
+滑膜皱襞是源于胚胎发育期间的滑膜隔结构，至后期间隔消失而融为一个膝关节腔，这些在胎儿早期存在的隔膜如果在出生后直至成人时仍不消失，便成为滑膜皱襞[8]。膝关节内镔内侧皱襞又称滑膜棚架,是最易引发临床症状的皱襞，后者可导致周围结构牵拉、撞击，从而引起反复慢性炎症及瘢痕化增生加重病情，同时可以导致周围软骨及半月板结构的继发性损伤而需要治疗干预,包括手术及保守治疗9。在本研究中,笔者运用生存分析当中可以判断疗效差异的一种统计学方法：Kaplan-Meier分析法，比较了手术与保守治疗对SPS疗效维持的差异，并发现关节镜手术的远期效果优于保守治疗，这较同类研究具有一定的优势。
+
+数据显示，治疗前两组的VAS及Lysholm评分均无统计学差异，说明两组入选具有均匀性及可比性。治疗后，两组的VAS较治疗前明显降低,Lysholm评分均较治疗前明显升高，尤其在跛行支撑交锁不稳疼痛肿胀及总分项目均有显著改善，提示两组方法均可获得一定的疗效。组间比较显示，治疗后观察组VAS显著低于对照组，Lysholm评分显著高于对照组，这与丁欢[等的报道具有一致性,进一步说明手术疗效优于保守治疗，其原因为单纯玻璃酸钠只能起到润滑作用，并不能消除形态异常或增生的滑膜，尤其不能去除病变滑膜内的神经纤维等，尤其对于宾内侧型SPS患者，疼痛较顽固，本组占 $4 3 . 1 \% ^ { [ 1 1 ] }$ 。但以上数据只能说明在某个时间点的比较，具有一定的局限性，并不能反映在长期随访的区间内差异如何，因此笔者对SPS患者进行为期5年的随访。
+
+表2两组患者疗效维持时间的比较Tab.2 Comparison of cumulative time of curative effect maitenance  
+
+<html><body><table><tr><td rowspan="3">Group</td><td rowspan="3">n</td><td rowspan="3">Loperst maintnthance</td><td colspan="4">Arithmetic mean of the duration of curative effect (month)</td><td colspan="4">Median duration of curative effect (month)</td></tr><tr><td rowspan="2">Mean</td><td rowspan="2">SE</td><td colspan="2">95% confidence interval</td><td rowspan="2">Mean</td><td rowspan="2">SE</td><td colspan="2">95% confidence interval</td></tr><tr><td>Lower limit</td><td>Upper limit</td><td>Lower limit</td><td>Upper limit</td></tr><tr><td>Observation</td><td>31</td><td>60+</td><td>49.155</td><td>4.103</td><td>41.112</td><td>57.198</td><td>43.000</td><td>7.406</td><td>28.485</td><td>57.515</td></tr><tr><td>Control</td><td>27</td><td>58</td><td>33.760</td><td>4.935</td><td>24.087</td><td>43.433</td><td>29.000</td><td>12.072</td><td>14.338</td><td>61.662</td></tr></table></body></html>
+
+![](images/3f6f3c317f0fe21087f16cf8f42d7aaf301091194a3f2d3e937e14665b14a6be.jpg)  
+图1两组的累积疗效维持率曲线 Fig.1 Curvesofcumulativetherapeuticeffect maintenance rates in the two groups.
+
+统计结果显示，两组删失率无统计学差异，仍然说明具有较好的可比性。观察组疗效维持期最长的案例大于60个月，占 $6 . 4 5 \%$ ，而对照组疗效维持期最长的时间为58个月，初步提示观察组优于对照组。观察组的疗效维持时间的算术均数及中位数均长于对照组，进一步提示观察组的疗效持续性好。最终经Kaplan-Meier分析，判定两组患者的累积疗效维持率差异具有统计学意义，因此从统计学的角度证明了观察组效果全面优于对照组。产生以上差异的原因包括：关节镜下滑膜切除不仅能阻止局部病变的进展，还有利于改善关节周围骨破坏[12];大量临床案例提示经非手术治疗无效或病程超过6个月者，应行关节镜下治疗，尤其是Shelf征阳性的患者[13],但本研究的保守治疗患者长期要求保守治疗，其病程已远超6个月，导致两种疗法的差异随着疗程的进展而不断增大。
+
+关节镜治疗膝关节SPS的临床疗效优于保守治疗，且前者的长期疗效维持时间明显长于后者。但本研究数据提示，接受关节镜治疗患者术后的第43个月，需注意复发的可能，其原因可能为滑膜组织增生再度出现关节损害[14],因而提醒患者加强随访,后者对于骨科医师的临床决策具有重要参考作用。
+
+# 参考文献：
+
+[1]SchindlerOS.'TheSneakyPlica'revisited:morphology,pathophysiology and treatment of synovial plicae of the knee[J].Knee Surg Sports Traumatol Arthrosc,2014,22(2): 247-62.  
+[2]白晓冬,鲁 英,刘凤岐.膝关节鯙下滑膜皱襞的关节镜诊断与治疗[J].国际外科学杂志,2015,42(11):739-42.  
+[3]叶俊强，杨柳,史玉朋,等.镔内侧滑膜皱襞综合征的诊断和治疗[J].中国骨与关节损伤杂志,2008,23(8):646-8.  
+[4]丛宇,郭 亭,赵建宁,等.膝关节滑膜皱襞综合征不同治疗方法的疗效分析[J].中国骨与关节损伤杂志,2015,30(8):833-5.  
+[5]王素珍,孟维静,安洪庆,等.基于倾向指数匹配法的肝癌病人疗效评价[J].南方医科大学学报,2012,32(9):1234-7  
+[6]何 锐,杨 柳,郭 林,等.镔内侧滑膜皱襞中表达P物质的神经分布与镔股关节痛的相关性[J].中华骨科杂志,2009,29(6):567-71.  
+[7]陈世益,MurrellG.关节镜下孟唇固定加关节囊热挛缩治疗肩关节前方不稳的回顾性分析[J].中华骨科杂志,2005,25(11):656-61.  
+[8]丛宇,周利武,赵建宁,等.46例经关节镜诊治膝关节镔内侧滑膜皱襞综合征分析[J].医学研究生学报,2015,28(1):49-51.  
+[9]韦金忠,凌义龙.关节镜治疗膝关节滑膜皱襞综合症临床疗效[J].中国中西医结合外科杂志,2014,20(3):320-1.  
+[10]丁欢,胡小鹏,朱燕辉,等.关节镜下治疗膝关节内侧滑膜皱襞综合征[J].实用骨科杂志,2012,18(5):410-2.  
+[11]Al-Hadithy N,Gikas P,Mahapatra AM,et al. Review article: Plicasyndrome of the knee[J]. J Orthop Surg (Hong Kong),2011,19(3):354-8.  
+[12]曾润铭,邹育才,林 菁,等.膝关节类风湿关节炎滑膜切除术后远期观察[J].南方医科大学学报,2006,26(6):867-9.  
+[13]宋卫东,李 德,刘尚礼,等.膝关节内侧滑膜皱襄综合征的关节镜诊治[J].中华关节外科杂志：电子版,2010,4(1):47-51.  
+[14] Kent M,Khanduja V. Synovial plicae around the knee[J]. Knee,2010,17(2): 97-102.
+
+(编辑：孙昌朋)

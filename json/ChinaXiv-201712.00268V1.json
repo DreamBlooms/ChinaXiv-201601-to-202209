@@ -1,0 +1,356 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于结构方程模型的孕妇运动行为的影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘怡，罗碧如",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "四川大学华西第二医院出生缺陷与相关妇儿疾病教育部重点实验室,四川 成都 610041摘要：目的 在调查研究的基础上深人分析孕妇运动行为的影响因素。方法采用问卷调查的形式分别对妊娠早、中、晚期各650.650、750名孕妇展开运动行为调查研究,采用结构方程模型(structural equation modeling,SEM)进行影响因素分析,模型中主要设置了四个潜变量，包括孕妇对运动行为的态度、运动行为的主观规范、运动行为意向以及运动行为，并分别针对4个潜变量设置了相应的观测变量。结果 孕妇年龄集中在18\\~35岁;孕妇及其丈夫的文化程度均较高;孕妇的母亲和婆婆的文化程度均偏低;孕期的主要照顾者是其母亲,其次是丈夫。在出行方式上,妊娠早、中、晚期妇女分别以步行、坐公交车、专人接送为主;妊娠各期的主要运动方式均为散步;妊娠各期妇女均倾向于从事静息型体力活动，运动强度越大，运动时间越少。结构方程模型分析结果显示，妊娠期妇女的运动行为受行为意向的影响(标准化回归系数为0.372)；行为态度和主观规范通过影响行为意向而最终影响运动行为(标准化回归系数分别为0.140及0.669)。结论 妊娠各期孕妇的运动行为均不合理,运动形式单一，运动时间和强度不足。主观行为规范通过对行为态度及行为意向的影响而间接影响孕妇的运动行为，提示应加强对孕妇主要照顾者的健康教育。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：孕妇；运动；结构方程模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Factors affecting maternal physical activities: an analysis based on the structural equation modeling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIUYi,Oir   \nWestChinaositysitalasityKbtortedeaedeeofdd   \n(SichuanUniversity),MinistryofEducation,Chengdu 61oo41,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToanalyze thefactorsafectingmaternal physical activities atdiferent stages among pregnant women. MethodsSelf-designedquestionnaires wereusedtoinvestigatethephysicalactivitiesofwomenindiferentstages,including 650inthefist,650ineecod,and50intetdtrimesterofpregancy.ctosigmatealpscalcii were analyzedusingthestructuralequationmodelthatcomprised4latentvariables (atitde,norm,behavioralatentionand behavior)withobserved variables thatmatchedthelatentvariables.Results Theparticipantsranged from18 to35yearsof age.The women and their husbands,but not their mothers or mothers-in-law, were all welleducated.Thecaregiver during pregnancy was mostlythe mother follwedbythehusband.For traveling,thewomeninthefirst,secondandthird trimesters preferred walking,bus,and personal escort,respectively;the main physical activity was walking inal trimesters,and the women in diferent trimester were mostlysedentary，a greater intensity of exercise was associated with less exercise time. Structural equation modeling (SEM) analysis showed that the physical activities of pregnant women was affected by behavioralintention(withstandardedregressoncoeficientof072);atitudeandsubjectivenormsafectedphyicalactivity byindirectly influencing the behavior intention (standardized regresion coeficientsof 0.140and 0.669). Conclusions The pregnant women indiferent stages have inappropriatephysical activities with insuficient exercise timeand intensity.The subjective norms affects the physical activitiesof thepregnant women byinfluencingtheiratitudesandbehaviorintention indirectly, suggesting the need of health education of the caregivers during pregnancy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: pregnant women; physical behavior; structural equation modeling ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着围生期保健意识的深人，越来越多的研究证实，孕妇在孕期进行安全的运动有益于其自身及胎儿的健康，可显著降低孕期各种并发症的发生[2],如降低妊娠期糖尿病的发生，降低剖宫产率，缓解孕妇的抑郁和焦虑情绪等[3-4]。尽管如此，全球范围内孕期坚持运动的妇女仍然不多5，仅有五分之一的孕妇按照美国妇产科学会（American Association of Obstetrics andGynecology,ACOG)提出的指南进行运动[6-7]。更有研究表明，一些孕前有运动习惯的妇女在孕期减少甚至放弃了运动行为[8-10]。关于孕期运动行为影响因素的研究显示， $8 5 \\%$ 的美国孕妇认为阻碍她们进行运动的原因是自身内心的障碍，其次还包括周围朋友的影响、政策因素[11]、照顾者健康意识缺乏等[12];而我国孕妇不愿参与运动的主要原因有存在安全顾虑[13]、对运动知识不了解、个人习惯以及家人不允许等[14]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Downs 等[15]以理性行为理论(theoryof reasonedaction,TRA)为框架对孕期运动行为的影响因素进了研究，结果表明，孕妇是否有运动的意向决定了她是否会主动进行运动，而运动意向又由主观社会规范所决定。我国关于孕期运动尚未形成规范化的体系，已有的关于影响因素的研究多是基于现状的简单分析，且缺乏理论基础，并未深人剖析多种可能的潜在变量对孕妇运动行为的影响。故本文在前期调查研究的基础上，以TRA为指导构建结构方程模型，旨在深入分析我国孕妇孕期运动行为的影响因素，为进一步开展针对性、个性化的孕期运动指导和培训提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用便利抽样的方法，选取在成都市某三甲妇产儿童专科医院产科门诊建卡或进行产前检查的妊娠各期共2070例孕妇作为调查对象。纳入标准：(1)孕早、中、晚期孕妇孕周分别为： $< 1 4$ 周、24\\~28周 $\\scriptstyle \\geqslant 3 2$ 周。且各期孕妇均无内外科合并症和并发症；(2)自愿参加本研究并签署知情同意书。排除标准：(1)有精神障碍性疾病难以配合研究者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1调查工具查阅文献资料并以TRA为框架，自行设计调查问卷，经专家评价及预调查，最后修订为《妊娠早期妇女运动行为调查表》、《妊娠中期妇女运动行为调查表》、《妊娠晚期妇女运动行为调查表》，调查表均包括一般资料、运动行为及体力活动自填表3个部分。1)一般资料：包括年龄等9个条目；(2)运动行为：包括出行方式、常进行的运动等;(3)体力活动自填表：量表引自丹麦，其将孕妇的体力活动分为A、B、C、D、E、F、G、H、I九个等级，信度为0.87,效度为 $0 . 7 5 ^ { [ 1 6 ] }$ L",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2样本量根据参考文献[17」,孕期体质量平均增长 $1 3 . 8 \\mathrm { k g }$ ，标准差 $5 . 2 \\mathrm { k g }$ ，检验水准 $\\mathrm { \\dot { \\alpha } = 0 . 0 5 }$ $\\scriptstyle u _ { a } = u _ { 0 . 0 5 } = 1 . 9 6$ 容许误差取 $3 \\%$ ，即 $\\mathrm { J } _ { 6 = \\bar { x } - \\mu = 3 \\% \\times \\mu \\ 1 3 . 8 \\times 3 \\% } = 0 . 4 1 4 k g$ ，$\\sigma { = } 5 . 2 \\mathrm { k g }$ ,则样本含量为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn = ( \\frac { u _ { \\alpha } \\sigma } { \\delta } ) ^ { 2 } = ( \\frac { 1 . 9 6 \\times 5 . 2 } { 0 . 4 1 4 } ) ^ { 2 } = 6 0 6 \\approx 6 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3资料收集首先，研究人员向研究对象解释调查的目的、原则和方法，孕妇同意后签署知情同意书。然后研究人员一对一在旁指导孕妇自行填写问卷，填写时间 $2 0 { \\sim } 3 0 \\mathrm { m i n }$ ，有疑问者当场给予解答，并现场收回问卷。1.2.4 孕期运动行为影响因素的结构方程模型分析结构方程模型，又称潜在变量模型，是当代行为与社会领域量化研究的重要统计方法，其方程式中包含随机变量(观察变量、潜在变量及误差变量)和结构参数。它主要用于分析观察变量间彼此的复杂关系，尤其是发掘潜在变量间的关系。本研究以TRA为框架设计调查问卷，在调查研究的结果基础上构建SEM分析孕妇运动行为的影响因素。因此，初始模型潜变量之间的关系包括行为态度和主观行为规范对行为意向的影响，以及行为态度、主观行为规范和行为意向对行为的直接影响。理性行为理论框架见图1,基于TRA构建的结构方程模型中涉及的变量见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5统计学方法采用Epidata建立数据库，运用SAS9.1进行统计分析，运用率、构成比、均数等描述研究对象的社会人口学资料和运动行为；运用x检验比较妊娠前后的运动行为差异。并基于SEM探索各变量之间的因果关系并深入分析孕妇运动行为的影响因素。以 $P { < } 0 . 0 5$ 表示差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 妊娠各期妇女的社会人口学资料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "妊娠早、中、晚期各发放问卷660份、660份、750份，各回收有效问卷624份、619份、738份，有效率分别为$9 5 \\% 9 4 \\% 9 8 \\%$ 。结果显示，妊娠各期孕妇的社会人口学资料相似。年龄主要在18\\~35岁；孕前BMI多在正常范围;除孕中期妇女外,孕早、晚期妇女的家庭人均月收入均较高；初产妇和经产妇的构成各约 $5 0 \\%$ ;孕妇及其丈夫的文化程度均较高；孕妇的母亲和婆婆的文化程度均偏低, $5 0 \\%$ 以上为初中及以下;孕妇的主要照顾者是其母亲，其次是丈夫(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2各期孕妇的运动行为",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 各期孕妇的运动方式在出行方式上，妊娠早、中、晚期妇女分别以步行、坐公交车、专人接送为主；妊娠以后各期的运动方式均主要是散步。结果见表3。2.2.2各期孕妇的运动强度和时间研究显示，妊娠各期妇女从事静息型体力活动时间较多，运动强度越大则运动时间越少(表4)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3模型的建立及修订",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结构方程模型多采用 $\\chi ^ { 2 }$ 值、RMR、RMSEA、GFI、NFI、CFI等指标评价拟合效果。 $\\chi ^ { 2 }$ 检验，即拟合优度检验，一般认为x、x/df越小，则模型拟合程度越好。GFI表示模型拟合得到的方差和协方差能够解释数据资料的方差和协方差的程度，通常认为GFI大于0.90时模型拟合效果良好。NFI和PNFI也是常用指标，它反映假设模型与一个观测变量间没有任何共变假设的独立模型的差异程度，通常认为NFI大于0.90,PNFI大于0.50时模型拟合较好。RMSEA系数不受样本量大小和模型复杂程度的影响，通常认为RMSEA在0\\~0.05时表明假设模型拟合效果非常好， $0 . 0 5 \\mathrm { \\sim } 0 . 0 8$ 时拟合效果较好，0.08\\~0.1时拟合模型尚可接受，如果大于0.10则表明假设模型拟合效果不佳。CFI是另一个常用的指数，它反映了假设模型与无任何共变关系的独立模型差异程度的量数，CFI值越接近1越好，而PCFI大于0.5时模型拟合较好[18]。本研究中初始模型分析结果提示模型拟合效果欠佳。参数估计的结果显示：孕妇的文化程度和行为意向不直接相关（ $( P { > } 0 . 0 5 )$ ；月收入和运动行为及主观规范不直接相关( $( P { > } 0 . 0 5 )$ ；行为态度和主观规范的相关性虽然有统计学意义，但是相关系数非常小。模型修正的目的是对初始模型进行调整，删除或增加某些路径，最终生成最优的模型。因此，对模型进行修正时，将上述因果关系进行删除。初始模型和修正模型的参数比较见表5。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a88023736123c22a32e88a1b030ae958c86e14f61c1d2966ee8f8a4fa635f32.jpg",
+        "img_caption": [
+            "图1理性行为理论 Fig.1 Theory of reasoned action model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5040d44563a7f876f86b5e2ad5f721fd1fdd1f2751294383779c7059b28e947b.jpg",
+        "table_caption": [
+            "表1结构方程模型中涉及的变量 Tab.1 Variables involved in structural equation model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Latent Variables (Code)</td><td>Observed variables(Code)</td></tr><tr><td rowspan=\"2\">(Attitude)</td><td>Know the benefits of reasonable motion(benefit)</td></tr><tr><td>Know the dangers of unreasonable motion（harm)</td></tr><tr><td rowspan=\"2\">（Subjective Norm）</td><td>Maternal compliance with recommendations of husband（norm)</td></tr><tr><td>Maternal compliance with recommendations of mother（norm）</td></tr><tr><td rowspan=\"2\">（Intention）</td><td>Do you want to take physical behavior?(self)</td></tr><tr><td>Do you think the physical behavior is beneficial to you?（agree)</td></tr><tr><td rowspan=\"2\">(Behavior)</td><td>Weekly exercise time （time）</td></tr><tr><td>Do housework?(housework)</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4模型参数结果报告",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "妊娠期妇女的运动行为受行为意向的影响(标准化回归系数为0.372)。行为态度和主观规范通过影响行为意向最终影响运动行为（标准化回归系数分别为0.140及0.669)。月收入与孕妇的文化程度通过影响行为态度而间接影响运动行为(标准化回归系数分别为0.120及0.108)，母亲的文化程度通过影响主观规范而间接影响运动行为(标准化回归系数为0.205)。图1为修正后的参数模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/16ccc677c01a26dda34220487ea951e6b6815eb674a87486413ddfd9774f7b65.jpg",
+        "table_caption": [
+            "表2各期孕妇的一般资料Tab.2 Demographic information of the pregnant women in different trimesters"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variables</td><td colspan=\"2\">Early pregnancy （n=624)</td><td colspan=\"2\">Mid pregnancy (n=619)</td><td colspan=\"2\">Late pregnancy(n=738)</td></tr><tr><td>Number</td><td>(%）</td><td>Number</td><td>（%）</td><td>Number</td><td>(%）</td></tr><tr><td>Age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18-35 (year)</td><td>548</td><td>87.8</td><td>512</td><td>82.7</td><td>635</td><td>86.0</td></tr><tr><td>≥35 (year)</td><td>76</td><td>12.2</td><td>107</td><td>17.3</td><td>103</td><td>14.0</td></tr><tr><td>Pre-pregnancy BMI</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><18.5</td><td>115</td><td>18.4</td><td>107</td><td>17.3</td><td>139</td><td>18.8</td></tr><tr><td>18.5-24.9</td><td>464</td><td>74.4</td><td>458</td><td>74.0</td><td>538</td><td>72.9</td></tr><tr><td>25.0-29.9</td><td>33</td><td>5.3</td><td>46</td><td>7.4</td><td>47</td><td>6.4</td></tr><tr><td>≥30.0</td><td>12</td><td>1.9</td><td>8</td><td>1.3</td><td>14</td><td>1.9</td></tr><tr><td>Education level</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Senior and below</td><td>101</td><td>16.2</td><td>133</td><td>21.5</td><td>80</td><td>10.8</td></tr><tr><td>College</td><td>171</td><td>27.4</td><td>159</td><td>25.7</td><td>205</td><td>27.8</td></tr><tr><td>Undergraduate and above</td><td>352</td><td>56.4</td><td>327</td><td>52.8</td><td>453</td><td>61.4</td></tr><tr><td>Income</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><2000</td><td>37</td><td>6.0</td><td>424</td><td>68.5</td><td>29</td><td>4.0</td></tr><tr><td>2001-3000</td><td>123</td><td>19.7</td><td>93</td><td>15.1</td><td>143</td><td>19.4</td></tr><tr><td>>3000</td><td>464</td><td>74.3</td><td>102</td><td>16.4</td><td>566</td><td>76.6</td></tr><tr><td>Maternal history</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primipara</td><td>298</td><td>47.8</td><td>264</td><td>42.6</td><td>388</td><td>52.6</td></tr><tr><td>Multipara</td><td>326</td><td>52.2</td><td>355</td><td>57.4</td><td>350</td><td>47.4</td></tr><tr><td>Education level of husband</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Senior and below</td><td>95</td><td>15.2</td><td>107</td><td>17.3</td><td>75</td><td>10.2</td></tr><tr><td>College</td><td>146</td><td>23.4</td><td>150</td><td>24.2</td><td>168</td><td>22.7</td></tr><tr><td>Undergraduate and above</td><td>383</td><td>61.4</td><td>362</td><td>58.5</td><td>495</td><td>67.1</td></tr><tr><td>Education level of mother</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Junior and below</td><td>345</td><td>55.3</td><td>374</td><td>60.3</td><td>382</td><td>51.8</td></tr><tr><td>Senior</td><td>191</td><td>30.6</td><td>188</td><td>30.4</td><td>253</td><td>34.3</td></tr><tr><td>College and above</td><td>88</td><td>14.1</td><td>57</td><td>9.3</td><td>103</td><td>13.9</td></tr><tr><td>Education level of mother in law</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> Junior and below</td><td>370</td><td>59.3</td><td>389</td><td>62.8</td><td>390</td><td>52.9</td></tr><tr><td>Senior</td><td>182</td><td>29.1</td><td>171</td><td>27.7</td><td>233</td><td>31.5</td></tr><tr><td>College and above</td><td>72</td><td>11.6</td><td>59</td><td>9.5</td><td>115</td><td>15.6</td></tr><tr><td>Main caregiver</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Self</td><td>39</td><td>6.3</td><td>63</td><td>10.2</td><td>64</td><td>8.7</td></tr><tr><td>Husband</td><td>211</td><td>33.8</td><td>169</td><td>27.3</td><td>171</td><td>23.2</td></tr><tr><td>Mother</td><td>272</td><td>43.6</td><td>255</td><td>41.2</td><td>360</td><td>48.8</td></tr><tr><td>Mother in law</td><td>79</td><td>12.7</td><td>117</td><td>18.9</td><td>110</td><td>14.9</td></tr><tr><td>Nanny or relatives</td><td>23</td><td>3.6</td><td>15</td><td>2.4</td><td>33</td><td>4.4</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1妊娠各期孕妇的运动行为现状 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由前期的调查研究结果可知，各期孕妇的运动行为均存在不合理之处，运动形式单一，多倾向于选择静息型体力活动，如散步，且运动时间和强度不足。本研究中，散步作为一种既简单又安全的运动行为最受孕妇的欢迎,这也与一篇meta分析的结果相锲合[19]。但适用于妊娠期妇女的运动方式多样,还包括孕妇体操、瑜伽[20]、骑自行车2以及水中运动等，这些运动的强度更大，且安全性均得到了证实。在本研究中，妊娠早期练习孕妇体操的妇女不到 $20 \\%$ ,妊娠中晚期均低于 $10 \\%$ ,妊娠各期均没有从事重度体力活动(I型)的孕妇。可见妊娠期运动开展并不理想。妊娠是一个特殊的过程,孕妇在此期间的体力活动状况可能影响到妊娠状态和妊娠结局[22]，妊娠期适度的运动不仅能降低孕妇心脑血管疾病、各种妇科肿瘤、妊娠期糖尿病和子痫的发病风险，还可以降低各种新生儿出生缺陷的发生[2.4.23],而妊娠期不坚持运动或运动量严重不足则会导致相对应的不良后果，所以孕期运动具有特殊的重要意义且形式内容也具有特殊性。ACOG关于孕期体力活动的指南[24明确提出，“无并发症或合并症的孕妇应每天或1周的大多数日子进行中度体力活动至少 $3 0 \\mathrm { m i n } ^ { \\prime \\prime }$ ,如爬楼梯、快速步行、孕妇瑜伽、保健操以及一些水中运动等。这提示在今后的健康教育中，应丰富孕妇孕期的运动形式，并鼓励孕妇",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd7feaa799028fa9d57772048d79a28e70b8f2a7678f74d7e76a2538b7a823f1.jpg",
+        "table_caption": [
+            "表3妊娠各期妇女运动方式 Tab.3 Types of physical activities of pregnant women in different trimesters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Variables</td><td colspan=\"3\">Early pregnancy（n=624）</td><td colspan=\"3\">Mid pregnancy（n=619)</td><td colspan=\"3\">Late pregnancy(n=738）</td></tr><tr><td>Item</td><td>Number</td><td>(%)</td><td>Item</td><td>Number</td><td>(%)</td><td>Item</td><td>Number</td><td>(%)</td></tr><tr><td>Travel mode (The top 2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Walk</td><td>189</td><td>30.3</td><td>Bus</td><td>151</td><td>24.4</td><td>Car</td><td>199</td><td>27.0</td></tr><tr><td></td><td>Bus</td><td>130</td><td>20.8</td><td>Car</td><td>133</td><td>21.5</td><td>Walk</td><td>189</td><td>25.6</td></tr><tr><td>Regular exercise mode (The top 2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Walk</td><td>494</td><td>79.2</td><td></td><td>584</td><td>94.3</td><td></td><td>689</td><td>93.4</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Gymnastics</td><td>121</td><td>19.4</td><td></td><td>38</td><td>6.1</td><td></td><td>41</td><td>5.6</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/25ae7423eb70c55a43421caa598c045c4bff2a24cc1801f67080ac8f63e21c5e.jpg",
+        "table_caption": [
+            "表4妊娠期各种强度体力活动时间 Tab.4 Time spent in physical activities of different intensities during pregnancy (Mean±SD) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Intensity</td><td>Early pregnancy</td><td>Mid pregnancy</td><td>Late pregnancy</td></tr><tr><td>A</td><td>9.67±0.95</td><td>9.47±0.76</td><td>9.44±0.90</td></tr><tr><td>B</td><td>4.97±1.28</td><td>4.50±1.10</td><td>4.76±1.36</td></tr><tr><td>C</td><td>6.86±2.83</td><td>6.90±1.32</td><td>6.52±1.40</td></tr><tr><td>D</td><td>2.81±0.89</td><td>3.02±0.92</td><td>2.96±0.73</td></tr><tr><td>E</td><td>2.19±1.01</td><td>2.10±0.50</td><td>2.09±0.49</td></tr><tr><td>F</td><td>1.77±0.52</td><td>1.75±0.34</td><td>1.64±0.85</td></tr><tr><td>G</td><td>1.00±0.63</td><td>0.96±0.14</td><td>0.92±0.22</td></tr><tr><td>H</td><td>0.66±0.07</td><td>0.65±0.06</td><td>0.65±0.22</td></tr><tr><td>I</td><td></td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fbf60370a5e996ed459f2a59cfe967e61a139c0880d7054afa9be309c4dd8804.jpg",
+        "table_caption": [
+            "表5初始模型和修正模型参数比较 Tab.5 Comparison of parameters between the initial model and modified model "
+        ],
+        "table_footnote": [
+            "$\\chi ^ { 2 }$ value;df:Degreeof freedom; GFI: Goodness-of-fit index;PGFI: Adjust the GFIby the degree of freedom model and parameters'number;NFI:Normed fitindex;PNFI: Adjust theNFIby the degreeoffreedom model;RMSEA:Root mean squared error of approximation. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model</td><td>MIN/DF</td><td>GFI</td><td>PGFI</td><td>NFI</td><td>PNFI</td><td>CFI</td><td>PCFI</td><td>RMESEA</td></tr><tr><td>Initial model</td><td>5.18</td><td>0.849</td><td>0.512</td><td>0.634</td><td>0.451</td><td>0.651</td><td>0.464</td><td>0.086</td></tr><tr><td>Modified model</td><td>4.41</td><td>0.935</td><td>0.581</td><td>0.826</td><td>0.616</td><td>0.858</td><td>0.639</td><td>0.072</td></tr><tr><td>Judge</td><td><5</td><td>>0.90</td><td>>0.50</td><td>>0.90</td><td>>0.50</td><td>>0.90</td><td>>0.50</td><td><0.10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "增加运动时间和强度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2基于SEM的运动行为影响因素分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经SEM分析后发现，孕妇的运动行为取决于行为意向。行为意向即行为趋向的意图，是做出行为之前的行为动机和思想倾向[25]，它可以激发个体朝着一定目标采取积极的行动，通常积极的行为意向会产生积极的运动行为[26。本研究中行为意向的观测变量为是否赞同采取的行为是有益的且内心愿意采取运动行为，其标准化回归系数分别为0.742、0.772，提示孕妇本人的意愿和看法会影响其行为意向，应尽早对孕妇进行健康教育，让她们从内心认可孕期运动对母婴有好处并产生运动的需要，从而形成积极的运动意向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究表明，孕妇对行为的态度和主观行为规范决定了孕妇的运动行为意向，且主观行为规范的影响远大于态度产生的影响。主观行为规范的观测变量为孕妇对母亲和丈夫看法的遵从程度，标准化回归系数分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5994553e170936f401f3f0f73107e4a6ac0e03da443071cf66df522b34872ce8.jpg",
+        "img_caption": [
+            "图2孕妇运动行为影响因素的修正模型 Fig.2Final structural equation model of factors associated with physical activities in pregnant women. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.739和0.633，说明孕妇的母亲和丈夫作为其孕期的主要照顾者会对孕妇的运动行为意向产生重要影响。刘稚琴等研究显示，游泳作为一种安全性已经得到证实的孕期运动，却不被孕妇及家人接受[27]。经SEM深入分析后则可以解释为不合理的主观行为规范对孕妇运动行为的限制。提示在今后的健康教育中应把孕妇的母亲和丈夫纳入教育范围，让他们知晓孕期运动的目的和意义，从而主动帮助孕妇形成良好的行为意向并采取合理的运动行为。孕妇的主要照顾者对其运动行为的影响最显著，有研究表明28，丈夫有体育锻炼习惯和陪伴妻子运动会对孕妇的运动产生积极的影响。但本组研究对象的主要照顾者是其母亲，其次是丈夫，且母亲文化程度普遍偏低，按照中国的传统思想，她们多认为孕期宜“静养”，不适合进行体力活动，这在很大程度上限制了各期孕妇的运动行为。所以对她们的健康教育应采取生动活泼的形式，如视频播放、情景演练等，让她们真正懂得孕期运动的重要性，形成规范统一的认知，陪伴孕妇运动，从而积极地影响孕妇的运动行为。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "孕妇自身的态度对行为意向的影响作为一个独立因素产生作用。态度是个体在社会生活中按照功利原则进行取舍的结果[29]。当孕妇认同并内化关于运动的观点后，就会形成稳定的态度，进而达成行为意向并影响行为。是否知道不合理运动的危害以及合理运动的好处是孕妇对行为的态度的观测变量，其标准化回归系数分别为0.837、0.853。王新等3调查结果显示，仅有",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 . 1 \\%$ 的孕妇选择盆底肌锻炼，除了与孕妇的文化程度低、认知度较差有关外，孕妇不能坚持练习和缺乏兴趣也是重要的影响因素。经SEM深人分析后则可以解释为孕妇尚未对孕期合理运动形成积极正确的态度。本组对象的文化程度较高，但妊娠早期练习体操的孕妇不到 $20 \\%$ ,妊娠中晚期均低于 $10 \\%$ ，且各期都没有从事重度体力活动者，可见孕妇对孕期运动的知识态度仍有待提高。提示在今后的健康教育中，应主动告知孕妇在孕期运动的好处和不合理运动的危害，帮助其形成积极的运动行为意向，通过多种形式如孕妇学校、新媒体平台、热线咨询和个性化指导等，使孕妇了解更多的孕期运动知识，提高孕妇的运动兴趣并在整个孕期坚持运动。从结构方程模型还可以看出，孕妇的文化程度和家庭收入对行为的态度有影响，即文化程度越高、家庭收入越高，行为的态度越好。提示应加强对文化程度低、家庭收入低人群的关注，采取针对性的健康教育方法以提高她们运动的积极性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与以往的研究相比，本研究首次将结构方程模型用于对孕期运动影响因素的分析，明确归类了几个主要方面的影响因素。本研究验证了运动意向对运动行为的直接作用，尤其明确了主观社会规范对运动行为的重大间接影响，为以后的健康教育工作指明了清晰的方向。由于目前国内尚缺乏孕期运动的指南和评估标准，故不能准确判断本组研究对象的运动行为。提示今后应加强孕期运动的研究和宣教，规范孕期运动，尽早提出我国孕期运动的指南，从而规范孕期运动的指导和管理，在今后研究中可将孕妇选择的运动类型和运动所消耗的能量纳入结构方程模型，进行综合分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Domingues MR,Bassni DG,da Silva SG,et al.Physical activity during pregnancy and maternal-child health (PAMELA):study protocol for a randomized controlled trial[J]. Trials,2015,16(1): 227-34.   \n[2]Mudd LM,Owe KM,Mottola MF,et al.Health benefits of physicalactivity during pregnancy: an international perspective[J]. Med Sci Sports Exerc,2013,45(2): 268-77.   \n[3］王晨,杨慧霞.孕期运动在妊娠期糖尿病预防和管理中的作用[J].中 华妇幼临床医学杂志:电子版,2014,10(5):676-9.   \n[4]Hinman SK, Smith KB,Quillen DM,et al. Exercise in pregnancy:a clinical review[J]. Sports Health,2015,7(6): 527-31.   \n[5]Amezcua PC,Lardelli CP,Olmedo RR,et al. Compliance with leisure-time physical activity recommendations in pregnant women [J].Acta Obstet Gynecol Scand,2011,90(3): 245-52.   \n[6]Amezcua-Prieto C,Lardelli-Claret P,Olmedo-Requena R,et al. Compliance with leisure-time physical activity recommendations in pregnant women [J].Acta Obstet Gynecol Scand,2011,90(3): 245-52.   \n[7]National Center for Health Statistics.Health,United States,2013: with special feature on prescription drugs [R].Hyattsville (MD): National Center for Health Statistics (US),2014.   \n[8] Gaston A, Cramp A. Exercise during pregnancy: a review of patterns anddeterminants[J].J Sci Med Sport,2011,14(4): 299-305.   \n[9]Amezcua-Prieto C,Olmedo-Requena R,Jimenez-Mejias E,et al. Changesin leisure time physical activity during pregnancy compared to the prior year[J].Matern Child Health J,2013,17(4): 632-8.   \n[10]Evenson KR，Wen F.Prevalence and correlates of objectively measured physical activityand sedentary behavioramong USpregnant women[J].Prev Med,201,53(1-2): 39-43.   \n[11]Evenson KK.Perceived barriers to physical activity among pregnant women[J].Matern Child Health J,2009,4(13): 364-75.   \n[12]Bauer PW, Broman CL,Pivarnik JM. Exercise and pregnancy knowledge among healthcare providers [J].J Womens Health (Larchmt),2010,19(2): 335-41.   \n[13]尹亚楠,罗碧如.妊娠不同时期孕妇对运动的认知及现状调查[J].护 理学杂志,2015,30(2):17-20.   \n[14]尹亚楠,罗碧如.成都市孕妇孕中、晚期运动状况调查与分析[J].中华 妇幼临床医学杂志:电子版,2013,9(2):162-5.   \n[15]Downs DS.Hausenblas HA.Pregnant women's third trimester exercise behaviors,body mass index,and pregnancy outcomes[J]. Psychol Health,2007,22(5): 545-59.   \n[16]Jiang H,He G,Li M,et al.Reliability and validity of a physical activity scaleamong urban pregnant women in Eastern China[J]. Asia Pac JPublic Health,2015,27(2): 1208-16.   \n[17]Bungum,JT,Peaslee.Exercise during pregnancy and type of delivery in nulliparae[J].JObstet Gynecol Neonatal Nurs,2000,29 (3): 258-64.   \n[18]吴明隆.结构方程模型[M].2版.重庆:重庆大学出版社,2010.   \n[19] Tobias DK, Zhang CL,van Dam RM,et al.Physical activity before and during pregnancy and risk of gestational diabetes mellitus a meta-analysis[J].Diabetes Care,2011,34(1): 223-9.   \n[20]Juhl M,Madsen M,Andersen A,et al. Distribution and predictors of exercise habits among pregnant women in the Danish National Birth Cohort[J]. ScandJMed Sci Sports,2012,22(1): 128-38.   \n[21]苏伟才,李明子,杨慧霞,等.妊娠期糖代谢正常妇女体力活动状况调 查[J].护理学杂志,2009,24(6):9-12.   \n[22] Schnohr P, Lange P, Scharling H,et al.Long-term physical activity in leisure time and mortality from coronary heart disease,stroke, respiratory diseases,and Cancer. The Copenhagen City Heart Study [J].Eur JCardiovasc Prev Rehabil,2006,13(2):173-9.   \n[23] ACOG Committee Obstetric Practice. ACOG Commitee opinion. Number 267,January 2Oo2:exercise during pregnancy and the postpartum period[J]. Obstet Gynecol,2002,99(1): 171-3.   \n[24]杨延忠.健康行为理论与研究[M].北京:人民卫生出版社,2007: 38-40.   \n[25]马 骁.健康教育学[M].北京:人民卫生出版社,2004:67.   \n[26]刘稚琴,姚 峻.孕妇孕期规律运动的知信行调查[J].浙江预防医学， 2014,26(10): 1057-8.   \n[27]董胜雯,刘启帆,马 艳，等.天津市城乡妇女孕期运动现状分析[J].现 代妇产科进展,2015,24(8):613-5.   \n[28]郭念锋.心理咨询师(基础知识)[M].北京:民族出版社,2011.   \n[29]王 新,李亚洁,邓美莲.610名孕妇盆底肌锻炼知信行现状及影响因 素分析[J].护理学报,2012,19(5):8-11. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（编辑：吴锦雅）",
+        "page_idx": 6
+    }
+]

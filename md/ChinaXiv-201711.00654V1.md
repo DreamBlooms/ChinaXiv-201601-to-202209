@@ -1,0 +1,116 @@
+# 不同攻角下涡轮叶栅边界层分离再附的大涡模拟研究
+
+王云飞 秦勇 陈浮 刘华坪（哈尔滨工业大学能源科学与工程学院458信箱，哈尔滨150001）
+
+摘要：本文采用三维可压缩N-S方程的大涡模拟方法，对低压涡轮叶栅T106A 边界层的演化过程进行研究，分析攻角的变化对吸力面边界层的分离再附位置、分离泡长度等流动现象的影响。基于弦长和出口速度的雷诺数为 $1 . 1 { \times } 1 0 ^ { 5 }$ 出口马赫数为0.4。研究结果表明：来流攻角为 $+ 7 . 8 ^ { \circ }$ 时，叶栅表面静压系数、吸力面边界层分离和再附位置与实验结果吻合较好；边界层分离后在三维不稳定性作用下依次形成∧涡、发卡涡等结构，最终发生转捩；当来流从正攻角向负攻角变化时，吸力面边界层的分离点向下游移动，分离泡长度逐渐减小。
+
+关键词：大涡模拟；低压涡轮；攻角；边界层分离中图分类号：TV131.2 文献标识码：A
+
+# Compressible LES of unsteady boundary layer separation and reattachment in turbines: influence of incidence angle
+
+WANG Yun-Fei QIN Yong CHEN Fu LIU Hua-Ping (School of Energy Science and Engineering, Harbin Institute of Technology，Harbin 150001， China)
+
+Abstract: In order to predict and analyze the phenomenon of separation, reatachment as wellas separation bubble at diffrent incidence angles. Self-developed large eddy simulation (LES） program of compressible N-S equations was used to simulate the flow field and the evolutionary process of the boundary layer in T106A low-pressure turbine cascade.The outlet Mach number is O.4 and the Reynolds number is $1 . 1 { \times } 1 0 ^ { 5 }$ （204号 based on the exit isentropic velocity and the axial chord length. The computational results show the time-averaged pressure coefcient on the blade surface and the points of separation and reattachment at $+ 7 . 8 ^ { \circ }$ incidence angle compare well with experiment data. The boundary layer separates from the suction side and the hairpin vortexes are formed in successon. The rapid growth of the hairpin vortex eventually leads to transition in boundary layer. As the incidence angle changes from positive to negative, the separation point on the suction side moves downstream and the length of the separation bubble is gradually shorter.
+
+Key word: large eddy simulation; low-pressure turbine; incidence angle; boundary layer separation
+
+# 0前言
+
+为了保证飞行器在各种飞行环境下具有优越的性能，需要航空发动机在不断变化的工况下始终具备良好的工作能力。低压涡轮作为航空发动机的主要部件之一，常工作于低雷诺数、高负荷条件下，边界层极易发生分离、转捩及再附等现象[1,2]。进口攻角是影响涡轮叶栅变工况气动性能的主要因素之一，详细研究不同攻角下低压涡轮叶栅流场的非定常特性具有重要的意义。
+
+国内外很多学者通过大量的实验和数值模拟方法，分析了攻角对涡轮叶栅流场结构和性能等方面的影响。Jouini[3]和 Benner[4]等人都通过实验发现，攻角在很大程度上影响着叶栅叶型损失及二次流损失的大小。Dossena 等[5的研究结果表明，气流攻角的变化会引起二次流大小、位置和形状的改变。张获等对雷诺数为 $5 { \times } 1 0 ^ { 5 }$ 时的涡轮叶栅进行模拟，描述了吸力面边界层分离、卷起，向下游输运、破裂以及从尾缘脱落等一系列过程。魏东海等7用直接数值模拟对二维涡轮叶栅流场进行研究，结果显示攻角对近壁面流动的影响主要体现在前缘附近。陈绍文[8]，孙大伟[等也对涡轮流场、损失及性能的变攻角特性进行了探讨。这些工作主要集中在分析攻角变化对通道涡、二次流损失或总压损失所产生的影响，而对流场结构非定常演化过程的研究较少。
+
+攻角的改变会引起分离泡形态和尺寸的变化，进而影响涡轮性能。大涡模拟方法凭借其独特的优势，能够较好的描述流场中流动细节的非定常特性。本文采用自编程三维可压缩流动的大涡模拟方法，对不同攻角下涡轮叶栅非定常流场进行计算，研究其对边界层分离再附的影响，分析边界层演化过程，为涡轮的优化设计提供更多理论基础。
+
+# 1控制方程与数值方法
+
+本文所用的控制方程和数值求解方法与文献[10]基本一致，对流通量通过四阶精度的中心格式计算，亚格子模型采用动力涡粘模型，时间推进为三阶三步的Runge-Kutta法。计算程序为多块并行大涡模拟程序（MPLES)，其更多细节可参见文献[10]。模拟叶栅中的流动属于内流问题，边界条件通常给定进口总温、总压、气流角以及出口背压，由文献[11]给出的方法求得。
+
+# 2 计算模型
+
+低压涡轮叶栅T106A的叶型及几何参数分别如图1和表1所示。图2为计算域示意图和边界条件的设置方式，计算域入口距叶栅前缘 $0 . 5 C _ { a x }$ （ $C _ { a x }$ 为轴向弦长)，出口距叶栅尾缘 $1 . 6 C _ { a x }$ ，展向高度为0.2$C _ { a x }$ 。无量纲化以后的流向、周向及展向尺寸分别为3.1、0.93和0.2。三个方向的网格为 $3 2 0 \times 1 8 0 \times 6 0$ ，壁面第一层网格 $y ^ { + } { < } 1$ ，边界层内布置约35个节点。基于轴向弦长和出口速度的雷诺数为 $1 . 1 \times 1 0 ^ { 5 }$ ，出口马赫数为0.4，来流攻角的变化范围是 $. 1 0 ^ { \circ } \sim + 7 . 8 ^ { \circ }$ 。
+
+![](images/235ced39ddd3bd0bd019184899357c20c76fa12e4d2c0e4d4d601e2045de701a.jpg)  
+图1T106A叶栅叶型 Fig.1 Profile ofT106A cascade
+
+表1T106A叶栅几何参数Table 1 Geometrical parameter of T106A cascade  
+
+<html><body><table><tr><td>参数</td><td>单位</td><td>数值</td></tr><tr><td>弦长</td><td>[mm]</td><td>198</td></tr><tr><td>轴向弦长</td><td>[mm]</td><td>170</td></tr><tr><td>安装角</td><td>[]</td><td>30.7</td></tr><tr><td>节距</td><td>[mm]</td><td>158</td></tr><tr><td>叶高</td><td>[mm]</td><td>375</td></tr></table></body></html>
+
+![](images/d5f223818c443a4bb9ab71a194b3ab9f1f87c4ca6e0266d4c17e220579e5f4a4.jpg)  
+图2计算域示意图Fig.2 Computational domain
+
+# 3计算结果分析
+
+当流场充分发展，即流动参数具有准周期性的变化规律时，开始采集瞬态流场，每个工况的总采样瞬态流场均多于3000个，总采样时间均超过26个周期。对叶片沿周向所受合力随时间的变化进行快速傅里叶变换，图3给出了 $+ 7 . 8 ^ { \circ }$ 攻角下叶片沿周向受力的频谱图。图中可以看出，主频率为 $\scriptstyle { f = 4 . 2 9 8 }$ ,因此无量纲的准周期为 $\scriptstyle { T = 0 . 2 3 2 7 }$ 。其他来流攻角工况的主频率和准周期值与 $+ 7 . 8 ^ { \circ }$ 攻角结果相差不大，在表2中给出。
+
+表2各攻角工况的主频率和准周期  
+Table 2 Main frequency and period of different incidences   
+
+<html><body><table><tr><td>攻角</td><td>主频率 (f)</td><td>准周期（T)</td></tr><tr><td>-10°</td><td>4.549</td><td>0.2198</td></tr><tr><td>-5°</td><td>4.733</td><td>0.2113</td></tr><tr><td>0°</td><td>4.342</td><td>0.2303</td></tr><tr><td>+5°</td><td>4.442</td><td>0.2251</td></tr><tr><td>+7.8°</td><td>4.298</td><td>0.2327</td></tr></table></body></html>
+
+图4为 $+ 7 . 8 ^ { \circ }$ 攻角下叶栅表面时均压力系数与实验测量数据的对比，压力系数的定义为：
+
+$$
+c _ { p } = \left( p - p _ { 2 } \right) \big / \big ( p _ { 1 } ^ { * } - p _ { 2 } \big )
+$$
+
+式中 $\left. p _ { 1 } \right.$ 和 $p _ { 2 }$ 分别为入口总压和出口静压。可以看出，本文大涡模拟结果与实验数据吻合较好，只是对吸力面后部压力平台的预测略有区别，可能是由于数值模拟与实验的来流湍流强度有所差异造成的。吸力面后部的压力平台说明，壁面附近流体向下游输运过程中，受逆压梯度和粘性力等因素的共同作用，流速逐渐降低，发生了边界层分离。
+
+从旋涡角度分析边界层的分离、转捩及再附等现象，有助于了解边界层的发展规律，图5给出了$+ 7 . 8 ^ { \circ }$ 攻角时，某两个时刻吸力面后部大尺度相干结构的形态，采用 $\varrho$ 法则进行旋涡识别，取 $Q = 1 2 0$ 的等值面。图中可以看出，上游发展来的二维剪切层，由于展向速度扰动的影响迅速表现出三维特性，展向涡发生扭曲， $t _ { 1 }$ 时刻形成了三角形的∧涡结构。 $\Lambda$ 涡向下游输运过程中不断生长，很快便呈现出类似于发卡涡的形态(如图5(b)所示)。发卡涡的拉伸作用逐渐导致了层流边界层的崩溃，大尺度的旋涡随即开始破碎，形成大量较小尺度的旋涡，小尺度旋涡聚集到尾缘处 (如图5(a))，边界层内流体发生转捩并再附到壁面上，流动完全变为湍流状态。
+
+![](images/4f93d55c9e99c6ceff8d4421e3ad326b34c76d22997bef9a42dc669cfd1428a4.jpg)  
+图 $3 + 7 . 8 ^ { \circ }$ 攻角下叶片受力的频谱图 Fig.3FFT of the force on the cascade
+
+![](images/055b01dd428549202cfb58f3ea9a27818618c464efdc23789d7b53f5140f61d4.jpg)  
+图4叶栅表面时均压力系数分布  
+Fig.4Time-averaged pressure coefficient distribution
+
+![](images/4fe68c7cdebdbb89b576e83a7c478225dc96a91cf425828e035520044ffd124e.jpg)  
+图5吸力面后部的大尺度逆序结构  
+Fig.5 Coherent structure at the rear part of suction side
+
+图6为 $+ 7 . 8 ^ { \circ }$ 攻角工况下，吸力面瞬时切应力的时空分布图，图中黑色实线为切应力等于零的位置。可以清晰地看到，在 $8 3 \% C _ { a x }$ 位置附近，边界层开始分离，但在某些时刻，分离的边界层会立即附着到壁面上，随后再次分离，从而形成了多个分离泡同时存在的现象。
+
+图7为不同攻角下吸力面时均摩擦力系数的分布。摩擦系数的定义为：
+
+$$
+C _ { f } = \tau _ { w } \Big / \Big ( p _ { 2 } ^ { * } - p _ { 2 } \Big )
+$$
+
+式中 ${ p _ { 2 } } ^ { * }$ 为出口总压， $\tau _ { w }$ 为沿轴向的壁面切应力。首先观察 $+ 7 . 8 ^ { \circ }$ 攻角工况，图中显示，从前缘起摩擦力系数先减小到一个极小值，随后增大，这与图4中吸力面压力系数先增大后减小的变化相对应，叶栅表面先后经历了逆压梯度和顺压梯度的作用，流体在 $6 0 \% C _ { a x }$ 后再次受到逆压梯度影响，直到 $8 3 \% C _ { a x }$ 位置摩擦力小于零，边界层在此位置发生了分离，$9 7 \% C _ { a x }$ 后摩擦力变为正值且急剧增加，意味着边界层内的流动状态由层流转捩为湍流，并再附到壁面上， $8 3 \% { \sim } 9 7 \% C _ { a x }$ 之间是回流区，其长度即为时均的分离泡长度。另外， $0 \sim 5 \% C _ { a x }$ 之间摩擦力为负值，说明由于较大的正攻角，使得前缘吸力面侧出现了一个小的分离泡。其他四个工况中摩擦力系数的变化趋势与 $+ 7 . 8 ^ { \circ }$ 攻角类似，但零攻角和负攻角工况均没有出现前缘分离的现象。随着攻角的减小，分离点向下游移动，而再附点位置基本没有变化，均在$9 7 \% C _ { a x }$ 附近，因此可以判断，分离泡尺度也随着攻角的减小而缩短。
+
+针对- $\cdot 1 0 ^ { \circ }$ 、 $0 ^ { \circ }$ 和 $+ 7 . 8 ^ { \circ }$ 攻角，沿叶栅吸力面取五个位置，分别为 $5 \%$ $C _ { a x }$ 、 $30 \%$ （204号 $C _ { a x }$ 、 $70 \%$ $C _ { a x }$ 、 $80 \%$ （204号 $C _ { a x }$ 和 $90 \% C _ { a x }$ ，将时间平均和展向平均后的二维速度矢量分解为切向速度和法向速度，法线上的切向速度$u _ { t }$ 在图8中给出。可以看到，在前缘 $5 \%$ （20 $C _ { a x }$ 处，三种攻角工况速度剖面相差较大，且攻角越大，法线上的切向速度越大；从壁面附近切向速度的局部放大图（图9(a)）中可以看出， $+ 7 . 8 ^ { \circ }$ 攻角条件下，靠近壁面很薄的区域内出现了回流现象，而零攻角和负攻角工况均没有回流发生。随着法线位置向下游移动，不同攻角下速度剖面的差异逐渐减小，直到$70 \%$ （204号 $C _ { a x }$ 处，各工况下的 $u _ { t }$ 分布基本一致。由图7可知，从 $8 0 \% C _ { a x }$ 开始各攻角工况的边界层将依次发生分离，因此速度剖面又表现出差异。 $90 \% C _ { a x }$ 处边界层内速度分布的区别在图9(b)中更清晰地展示出来，$\cdot 1 0 ^ { \circ }$ 攻角条件下，回流区中负的切向速度值较小，边界层的厚度也最薄。
+
+![](images/4b23c6436601bc9355b13362372e9e3f2c0ca9e03a9409e4b8fd35d372bbcb36.jpg)  
+图6吸力面切应力时空分布图
+
+![](images/2117f925783892d037b44b6f742d42f24f027f5353e88087ef7c5d528ce5a2ab.jpg)  
+Fig.6S-T diagram of wall shear stress on the suction surface   
+图7吸力面时均摩擦力系数分布  
+Fig.7 The distribution of time-averaged friction coefficient
+
+![](images/c524d1dba3a5c137186c70560d1734b2f45e381be4934213ac88380b1ae53c4d.jpg)  
+图8吸力面不同位置的切向速度分布（—代表- $. 1 0 ^ { \circ }$ 攻角，--代表 $0 ^ { \circ }$ 攻角，…代表 $+ 7 . 8 ^ { \circ }$ 攻角）
+
+![](images/21128d9cbf4fd6cbfec9ff0ddd54b5217257f29e05bd7fa746164d9ac5772a34.jpg)  
+Fig.8 Tangential velocityprofiles at5 cross-sections on the   
+图 $9 5 \% C _ { \mathrm { a x } }$ 和 $9 0 \% C _ { \mathrm { a x } }$ 处近壁面切向速度（一代表- $. 1 0 ^ { \circ }$ 攻角，---代表 $0 ^ { \circ }$ 攻角，…代表 $+ 7 . 8 ^ { \circ }$ 攻角）Fig.9 Tangential velocity profiles at $5 \%$ $C _ { a x }$ and $90 \%$ $C _ { a x }$ near thesuction side (—: i= -10°,---: $\mathrm { i } { = } 0 ^ { \circ }$ ,…:i= $+ 7 . 8 ^ { \circ }$ ）
+
+# 4结论
+
+本文采用自编程三维可压缩的大涡模拟方法，详细研究了低压涡轮吸力面边界层的演化过程，分析了来流攻角对边界层分离再附的影响。主要得出以下结论：(1） $+ 7 . 8 ^ { \circ }$ 攻角下叶栅表面压力系数、吸力面边界层分离及再附位置均与实验数据吻合较好，说明本文发展的大涡模拟方法具有较高的精度；（2）吸力面尾缘在某些时刻会同时存在多个分离泡，边界层发生分离后，依次展现出∧涡、发卡涡等旋涡形态，发卡涡的拉伸作用导致了层流边界层的崩溃，最终转捩为湍流，并再附到壁面上；（3）当来流从正攻角向负攻角变化时，吸力面边界层分离点向下游移动，再附点基本保持不变，分离泡长度减小；（4）较大的正攻角条件下，吸力面前缘会出现微弱的分离现象，吸力面后部分离泡厚度也较大。
+
+# 参考文献
+
+[1] Tucker P G. Trends in Turbomachinery Turbulence Treatments[J].Progress in Aerospace Sciences,2O13,63: 1-32   
+[2] Luo H,Qiao W,Xu K.Passive Control of Laminar Separation Bubble with Spanwise Groove on a Low-speed Highly Loaded Low-pressure Turbine Blade[J]. Journal of Thermal Science,2009,18(3): 193-201   
+[3] Jouini D B M,Moustapha SH, Sjolander S A.Midspan Flow-field Measurements for Two Transonic Linear Turbine Cascades at Off-design Conditions[J].Journal of turbomachinery,2002,124(2):176-186   
+[4] Benner M W, Sjolander S A， Moustapha SH. Measurements of secondary flows downstream of a turbine cascadeatoff-designincidence[R]. ASMEPaper, GT2004-53786   
+[5]Dossena V,D'Ippolito G, Pesatori E. Stagger angle and pitch-chord ratio effects on secondary flows downstream of a turbine cascade at several off-design conditions[R]. ASME Paper, GT2004-54083   
+[6]张荻，舒静，蓝吉兵，等．低压透平叶栅边界层分离再 附的大涡模拟[J]．中国电机工程学报,2009(29):77-83 ZHANG Di, SHU Jing, LAN Jibing, et al. Large-eddy simulation of boundary layer separation and reattachment in low-pressure turbine cascade[J].Proceedings of the CSEE,2009 (29): 77-83   
+[7]魏东海，邹正平，叶建，等．二维涡轮叶栅流场的直接 数值模拟[J]．航空动力学报,2005,20(4):549-555 WEI Donghai, ZOU Zhengping,YE Jian,et al. Direct numerical flow simulation in a two-dimensional turbine cascade[J]. Journal of Aerospace Power,2005,20(4): 549-555   
+[8]陈绍文，陈浮，徐文远，等．变攻角下低压涡轮导向器 二次流的实验研究[J]．燃气涡轮试验与研究，2006, 18(4): 15-19 CHEN Shaowen, CHEN Fu, XU Wenyuan， et al. Experimental investigation ofsecondary flowwith different incidences in an LP turbine guide vane[J]. Gas Turbine Experiment and Research,2006,18(4): 15-19   
+[9]孙大伟，乔渭阳，许开富，等．不同攻角对涡轮叶栅损 失的影响[J]．航空动力学报,2008,23(7):1232-1239 SUN Dawei, QIAO Weiyang, XU Kaifu, et al. Influence of different incidences on loss in turbine cascade[J].Journal of Aerospace Power, 2008,23(7): 1232-1239   
+[10]叶建．非定常环境中叶片边界层时空演化机制的大涡模 拟[D]．北京：北京航空航天大学,2008 YE Jian. Large-eddy Simulation of Blade Boundary Layer Spatio-temporal Evolution under Unsteady Disturbances[D]. Beijing: Beihang University,2008   
+[11] Blazek J. Computational fluid dynamics: principles and applications[M]. $2 ^ { \mathrm { n d } }$ Edition,Amsterdam: Elsevier, 2005: 283-284

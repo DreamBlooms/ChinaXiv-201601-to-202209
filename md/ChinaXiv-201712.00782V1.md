@@ -1,0 +1,134 @@
+# 基础研究
+
+# Apelin-13对大鼠局灶性脑缺血-再灌注损伤的保护作用
+
+吴光勇'，李亮²，廖达光'，王知非}1中南大学湘雅三医院神经外科,湖南 长沙 410013;湖南省娄底市中心医院神经外科,湖南 娄底 417000摘要：目的 探讨Apelin-13对大鼠局灶性脑缺血-再灌注损伤(CIRI)的保护作用及其可能的机制。方法 改良线栓法建立S-D大鼠局灶性CIRI模型,分假手术组、模型组、小剂量 Apelin-13干预A组、中剂量B组、大剂量C组共5组,Apelin-13进行侧脑室注射,分别进行神经功能评分,脑水肿、脑梗死体积测定,观察细胞凋亡;检测脑组织丙二醛(MDA）超氧化物歧化酶(SOD)的活性和细胞外调节蛋白激酶1/2(ERK1/2)。结果(1)B、C组较模型组神经功能评分降低 $( P { < } 0 . 0 5 )$ ，含水量、脑梗死体积降低( $P <$ 0.05);模型组梗死组织可见水肿、坏死,较多深染、固缩核细胞；B组、C组TUNEL阳性细胞数低于模型组 $( P { < } 0 . 0 5 )$ ;(2)B、C组缺血周边脑组织MDA含量降低，SOD的活性增加 $( P { < } 0 . 0 5 )$ ;(3)各组ERK1/2蛋白表达无差异性 $( P { > } 0 . 0 5 )$ ；模型组和干预组p-ERK1/2蛋白表达高于假手术组( $P { < } 0 . 0 5 )$ ;干预组高于模型组 $( P { < } 0 . 0 5 )$ 。结论Apelin-13可能通过抑制氧化应激反应对大鼠局灶性CIRI起保护作用;ERK1/2信号通路可能参与了Apelin-13保护作用机制。
+
+关键词:Apelin-13;脑缺血-再灌注损伤;MDA;SOD;ERK1/2
+
+# Protective effect of Apelin-13 on focal cerebral ischemia-reperfusion injury in rats
+
+WU Guangyong',LI Liang²,LIAO Daguang',WANG Zhifei DepartmentofNeurosurgerytheirdXiangyaHospitalofCentralouthUniversityHunanProvince，Changsha，hina; ²Departmentof Neurosurgery, the Central Hospital ofLoudi City,HunanProvince,Loudi 417oo,China
+
+Abstract:ObjectiveToinvestigatetheprotectiveefectofApelin-13onfocalcerebralischemia-reperfusioninjuryinrats. Methods Focal transient cerebral ischemia-reperfusion injury was induced in male SDrats using modified suture occlusion technique.Therats were randomly divided into 5 groups: Sham group,Model group,Apelin-low dose (A) group, Apelin-middle dose (B)groupand Apelin-high dose(C)group. Apelin-13 wasinjected into lateral cerebral ventricle,and the neurological functionscore,brain edemainfarct volume,apoptosis,malondialdehyde (MDA)superoxidedismutase (OD) and extracellular regulated kinase1/2 (ERK1/2) protein were measured.Results Neurological function scores,percentageof brain water content, infarct volumes and TUNEL-positive cels in Band C groups were lower than those in Model group $P <$ 0.05).The level of MDA in thetissue bomogenate of brain tisue in the surounding area of ischemia of Band C groups was lower than that of Model group, while the activity of SOD was higher $( P { < } 0 . 0 5 )$ . There was no significant difference in ERK1/2 protein expression among the groups $( P { > } 0 . 0 5 )$ . P-ERK1/2 increased in Model group and A, B, and C groups compared with Sham group $( P { < } 0 . 0 5 ) .$ , and that of A, B,and C group was higher than that of Model group $( P { < } 0 . 0 5 )$ . Conclusion Apelin-13 may playanimportantrolebyinhibiting oxidativestress toprotect against focal cerebral ischemia-reperfusion injury;ERK1/2 signaling pathway may be involved in the protective mechanism of Apelin-13.
+
+Keyword: apelin-13; brain ischemia-reperfusion injury; malondialdehyde; superoxide dismutase; extracellularregulated kinase1/2
+
+脑血管疾病(cerebrovasculardisease,CVD)是神经系统常见病及多发病，严重威胁人民的身体健康[，缺血性脑血 管 病(ischemic cerebrovascular disease,ICVD)占CVD的 $70 \%$ 左右。脑缺血梗死后血液再通会出现脑缺血-再灌注损伤(cerebralischemia-reperfusioninjury,CIRI),其机制十分复杂。Apelin是一种小分子内源性神经肽，是血管紧张素受体样蛋白J受体的天然配体，不仅参与了神经系统的生理功能调节，也与其发生、发展密切相关,具有神经保护作用[2-4]。Apelin可被肽酶分解成多种相对分子量不同的成熟活性肽，以Apelin-13的生物活性最强。本研究拟观察Apelin-13对大鼠局灶性脑缺血-再灌注损伤的作用，探讨其作用机制，为CIRI的防治提供新的方法和策略。
+
+# 1 材料与方法
+
+1.1 材料
+
+Apelin-13为美国Sigma公司产品，MDA测试盒和SOD测试盒购自武汉博士德生物工程公司；兔抗ERK1/2多克隆抗体和兔抗p-ERK1/2多克隆抗体为美
+
+国Cell Signaling Biotechnology 公司产品。Apelin-13溶解于 $0 . 9 \%$ 的生理盐水中，配置成不同浓度的溶液(单位μg/kg)。
+
+# 1.2实验动物与分组
+
+选取8周龄的健康S-D雄性大鼠100只，体质量$2 5 0 { \sim } 3 0 0 ~ \mathrm { g }$ （中南大学实验动物学部提供)。随机分为5组：假手术组(只分离血管20只）缺血再灌注模型组（20只）Apelin-13干预组( $1 0 ~ \mathrm { \mu g / k g }$ 为干预A组 $5 0 ~ \mu \mathrm { g / k g }$ 为B组、 $. 1 0 0 ~ \mu \mathrm { g / k g }$ 为C组，每组20只)，再灌注前 $1 5 \mathrm { m i n }$ 侧脑室注射Apelin-13溶液 $5 \mu \mathrm { L } _ { \circ }$ 假手术组和模型组注射相同剂量的生理盐水。每组随机取5只大鼠，断头处死取出整个脑组织，进行2,3,5-氯化三苯基四氮唑(TTC)染色，观察梗死的体积；5只大鼠取全脑组织，称取大脑湿质量，然后 $1 0 8 ~ \mathrm { { ^ { \circ } C } }$ 烘烤 $^ { 7 2 \mathrm { ~ h ~ } }$ 后，再称干质量；5只大鼠进行TUNEL染色；余下5只大鼠在断头处死后取出全脑组织后，取缺血半暗带脑组织，用于MDA和SOD以及Westernblotting检测。
+
+# 1.3侧脑室埋管与动物模型制备
+
+所有实验S-D大鼠在实验室恒温、恒湿动物房中适应环境一周， $1 2 \mathrm { ~ h ~ }$ 昼夜交替，自由饮食，避免不良刺激。术前禁食 $1 2 \mathrm { h }$ ，自由饮水，腹腔注射 $10 \%$ 水合氯醛麻醉后固定在脑立体定位仪上，矢状缝和冠状缝愈合处向后 $3 { \sim } 4 ~ \mathrm { m m }$ ,中线旁开 $1 . 5 \mathrm { m m }$ 处,深度为 $3 . 5 \mathrm { m m }$ ，钻孔埋入插管套管，骨蜡封闭固定。每次注药 $3 \mathrm { m i n }$ 并留针$1 \mathrm { m i n } ^ { [ 5 ] }$ 。埋管后,参照 zea-Longa线栓法[],并略加改进制备大鼠大脑中动脉局灶性脑缺血模型。颈部正中切口，分离右侧颈总、颈内、外动脉，在动脉分叉处结扎颈外动脉，颈总动脉剪一小口，插入头端呈圆钝形的尼龙鱼线（直径 $0 . 2 8 ~ \mathrm { m m } \rangle$ ,插入长度约 $1 8 ~ \mathrm { m m }$ ，在大脑中动脉起始端堵塞动脉。将颈总动脉和尼龙鱼线一起结扎，缝合皮肤。在阻断血流2h后，通过拔出尼龙鱼线实现再灌注 $7 2  { \mathrm { h _ { \mathrm { o } } } }$ 假手术组只分离血管，不结扎动脉，不插入尼龙鱼线。大鼠苏醒后左侧肢体瘫痪，站立不稳，左上肢屈曲、行走时向左侧转圈的大鼠为造模成功,用于后续实验[7]。
+
+# 1.4临床症状观察、肌力检查、神经功能评分
+
+观察肢体瘫痪，站立，肢体屈曲，行走情况。采用Longa的5级4分法进行神经功能评分：无明显神经功能缺损记为0分;左前肢伸展障碍记为1分;行走时向左侧旋转打圈记为2分；行走时向左侧倾倒记为3分；不能自发行走，意识丧失，昏迷记为4分;动物死亡记为5分。评分为0分、4分和5分的大鼠均被剔除，剔除的大鼠在后续实验中得到补充[8]。
+
+# 1.5含水量、脑梗死体积计算和TUNEL染色
+
+大鼠脑缺血 $2 \mathrm { h }$ 再灌注 $^ { 7 2 \mathrm { ~ h ~ } }$ 后，断头取出全脑，去掉低位脑干、嗅球和小脑，用电子称称取大脑湿质量，然后 $1 0 8 ~ \mathrm { { ^ { \circ } C } }$ 烘烤72h后，再称取大脑的干质量。脑组织含水量的计算公式为：(湿质量-干质量)湿质量 $\times 1 0 0 \%$ O大鼠断头处死后完整取出脑组织，将大脑均匀切成5片冠状切片。脑片浸入 $2 \%$ TTC溶液， $3 7 ~ \mathrm { { ^ { \circ } C } }$ 恒温水浴中孵育 $1 5 ~ \mathrm { m i n }$ 染色，染色后取出于 $4 \%$ 多聚甲醛中固定 $2 4 \mathrm { h }$ 后，数码相机摄像，红色区域为正常脑组织，苍白色区域为梗死区,相机微距拍摄,Imagepro plus5.1图像分析软件分析并计算脑梗死体积。TUNEL染色时先行缺血再灌注后，麻醉后剪开胸腔，暴露心脏，从左心室快速灌注生理盐水 $1 0 0 ~ \mathrm { m L }$ ，然后以 $4 \%$ 多聚甲醛 $2 0 0 ~ \mathrm { m L }$ 左右灌注固定,石蜡包埋,切片，片厚约为 $5 \mu \mathrm { m }$ ，相邻切片分别予以TUNEL染色，中性树胶封片，观察脑组织凋亡情况。
+
+# 1.6缺血周边区脑组织的MDA、SOD、ERK1/2检测
+
+大鼠断头取出脑组织，然后取缺血周边半暗带脑组织，低温粉碎、高速离心提取脑组织匀浆上清液，按照试剂盒说明书进行操作，采用分光光度法检测脑组织匀浆上清液中丙二醛(MDA)含量和超氧化物歧化酶(SOD)的活性。提取脑组织总蛋白进行WesternBlotting，采用蛋白裂解液试剂盒，按说明书进行操作，远红外荧光扫描成像系统扫描并测定目标带单位密度， $\beta \cdot$ -actin做为参照，以ERK1/2、p-ERK1/2对 $\beta$ -actin的比值代表各组蛋白相对表达水平。
+
+# 1.7统计学方法
+
+采用SPSS13.0统计学软件进行数据分析，计量资料数据用均数 $\cdot \pm$ 标准差来表示，多组间差异的比较采用单因素方差分析，然后组间差异的两两比较采用LSD-T检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1Apelin-13对大鼠脑缺血再灌注损伤后神经功能缺损的影响
+
+如表1结果所示，模型组神经功能评分明显高于评分为0的假手术组，表明缺血再灌注造成了明显的神经功能缺损。Apelin-13处理后，肌力明显增强，干预B,C组神经功能评分明显低于模型组 $( P { < } 0 . 0 5 )$ ，干预A组与模型组差异均无统计学意义 $( P { > } 0 . 0 5 )$ ,提示较大剂量Apelin-13能够改善局灶性脑缺血再灌注损伤后的神经功能缺失。
+
+# 2.2Apelin-13对脑缺血-再灌注损伤大鼠脑梗死体积的影响
+
+如图1结果所示，假手术组大鼠脑组织TTC染色表现为均匀一致的红色，模型组缺血再灌注侧脑组织TTC染色出现大范围苍白色梗死区域。缺血损伤的体积中模型组为 $2 3 6 { \pm } 2 1 ~ \mathrm { m m } ^ { 3 }$ ,A组 $1 8 7 \pm 1 9 ~ \mathrm { m m } ^ { 3 } . \mathrm { B }$ 组$1 7 5 { \pm } 1 7 ~ \mathrm { m m } ^ { 3 } . \mathrm { C }$ 组 $1 5 2 { \pm } 1 5 \ \mathrm { m m } ^ { 3 }$ ,Apelin-13干预后梗死区域体积缩小 $( P { < } 0 . 0 5 )$ ,提示Apelin-13能够减轻局灶性脑缺血再灌注损伤后的梗死体积，从而产生神经保护作用。
+
+表1不同组大鼠Longa神经功能评分Tab.1 Longa neurological function score in different groups  
+
+<html><body><table><tr><td>Group</td><td>6h</td><td>12 h</td><td>24 h</td><td>48 h</td><td>72 h</td></tr><tr><td>Model group</td><td>2.84±0.34</td><td>2.91±0.27</td><td>3.38±0.31</td><td>3.30±0.35</td><td>2.52±0.24</td></tr><tr><td>A group</td><td>2.61±0.24</td><td>2.81±0.32</td><td>3.21±0.40</td><td>2.98±0.31</td><td>2.34±0.26</td></tr><tr><td>B group</td><td>2.32±0.31</td><td>2.43±0.26</td><td>1.89±0.18</td><td>1.26±0.13</td><td>0.91±0.12*</td></tr><tr><td>C group</td><td>2.01±0.21</td><td>1.85±0.22</td><td>1.32±0.24</td><td>0.98±0.12</td><td>0.68±0.09*</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs Model group, $^ { \mathrm { v } } P { > } 0 . 0 5$ vs Model group.
+
+![](images/f303ed998a94464955904875d3ba09d20da4a7c240a0c9585cdb801b907813a7.jpg)  
+图1肉眼所见不同组别大鼠的梗死脑组织 Fig.1 Infarcted brain tissue of rats in different groups under the naked eye.
+
+2.3Apelin-13对缺血-再灌注损伤大鼠脑组织含水量的影响
+
+如图2结果所示，模型组脑组织含水量 $( 8 2 . 3 4 \pm$ $0 . 8 3 \%$ 明显高于假手术组 $( 7 3 . 2 7 { \pm } 0 . 6 3 ) \% ( P { < } 0 . 0 5 )$ ，提示大脑中动脉缺血再灌注后造成了明显的脑水肿。不同剂量的Apelin-13处理后，B组含水量 $( 7 8 . 3 6 \pm 1 . 1 4 ) \%$ 、C组含水量 $( 7 5 . 7 8 \pm 1 . 0 1 ) \%$ 明显低于模型组（ $8 2 . 2 3 \pm$ $0 . 8 3 ) \% ( P { < } 0 . 0 5 )$ ,A组含水量 $( 8 1 . 3 2 { \pm } 0 . 9 1 ) \%$ 与模型组差异无统计学意义（ $( P { > } 0 . 0 5 )$ ,提示中、大剂量Apelin-13能够减轻局灶性脑缺血再灌注损伤后脑组织水肿。
+
+# 2.4Apelin-13对脑缺血再灌细胞凋亡的影响
+
+如图3结果所示，光镜下观察，假手术组脑组织切片见细胞形态完整，未见TUNEL阳性细胞。模型组梗死周围组织明显水肿、坏死，可见深染、固缩核细胞。运用Apelin-13干预后，C组TUNEL阳性细胞数 $( 2 7 . 3 0 \pm$ 2.028/每高倍视野）B组TUNEL阳性细胞数 $( 3 1 . 4 8 \pm$ 3.178/每高倍视野)明显低于模型组（ $\langle 4 2 . 6 7 { \scriptstyle \pm 3 . 4 5 8 } _ { I }$ 每高倍视野） $( P { < } 0 . 0 5 )$ ；A组TUNEL阳性细胞数 $( 4 0 . 7 4 \pm$ 1.158/每高倍视野)与模型组差异无统计学意义（ $\left( P \right)$ 0.05)，提示中、大剂量Apelin-13能够减轻局灶性脑缺血再灌注损伤后的细胞凋亡。
+
+# 2.5Apelin-13对缺血周边区脑组织中MDA含量和SOD活性及ERK1/2蛋白水平的影响
+
+如表2结果所示：与假手术组比较，模型组大鼠缺血周边区脑组织中MDA含量显著性增加,SOD活性显著性降低(均 $P { < } 0 . 0 5 )$ ;与模型组比较，干预B、C组大鼠缺血周边区脑组织中MDA水平均显著降低，SOD活性均显著增加,以C组更加明显 $( P { < } 0 . 0 5 )$ ；干预A组脑组织中MDA含量及SOD活性与模型组比较没有显著性差异 $( P { > } 0 . 0 5 )$ 0
+
+![](images/935cb9fcfd9b6ccdd3f117448cc2583e0d1f4b60229d5b49ffc161632eba2d4d.jpg)  
+图2各组脑组织含水量 Fig.2 Brain water content of different groups $( \% )$ · $^ { * } P <$ 0.05 vs Sham group; $^ { \mathrm { 5 } } P > 0 . 0 5$ us Model group; $^ { * } P { < } 0 . 0 5$ Us Model group.
+
+如图4结果所示，Westernblotting结果显示，各实验组均有ERK1/2蛋白表达，模型组与假手术组相比，表达无统计学差异( $( P { > } 0 . 0 5 )$ ,提示局灶性脑缺血再灌注损伤对脑组织中ERK1/2蛋白总量无明显影响。Apelin-13干预后结果显示，各干预组与假手术组ERK1/2表达差异无统计学意义 $( P { > } 0 . 0 5 )$ 。另外各实验组均有p-ERK1/2表达，模型组和干预组p-ERK1/2蛋白表达高于假手术组 $( P { < } 0 . 0 5 )$ ,而且干预组高于模型组$( P { < } 0 . 0 5 )$ ；提示局灶性脑缺血再灌注损伤后脑组织中ERK1/2蛋白磷酸化水平增强，Apelin-13干预后ERK1/2蛋白磷酸化水平增强更加明显。表明Apelin-13对局灶性脑缺血再灌注损伤后脑组织ERK1/2蛋白总量无明显影响，但能促进ERK1/2蛋白磷酸化。
+
+B 5 25 ii 图3不同组别大鼠TUNEL阳性细胞 观察 Fig.3Observation of TUNEL-positiv cells ineati cellsin different rats (A-E,Original ats (A-E，Oouigir $\times 2 0 0 \$ $B$ Model group; C: A group; D: B group E: C group; F: TUNEL-positive cells pe field ( $^ { * } P { > } 0 . 0 5$ us Model group, $^ { \sharp } P { < } 0 . 0 5$ us Model group). Sham
+
+表2不同组别大鼠脑组织MDA含量和SOD活性 Tab.2 MDA content and SOD activity in different groups $( n { = } 5 )$   
+
+<html><body><table><tr><td>Group</td><td>SOD(U/mgprot)</td><td>MDA(nmol/mgprot)</td></tr><tr><td> Sham group</td><td>325.68±19.21</td><td>12.54±2.34</td></tr><tr><td>Model group</td><td>112.32±15.28*</td><td>50.25±4.56*</td></tr><tr><td>A group</td><td>125.54±16.32#</td><td>48.32±3.68#</td></tr><tr><td>B group</td><td>250.25±18.02</td><td>36.28±3.52</td></tr><tr><td>C group</td><td>301.28±18.36</td><td>20.12±2.84</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ vs sham group, $^ { \# } P > 0 . 0 5$ vs Model group, $^ { \mathrm { v } } P { < } 0 . 0 5$ vs Model group.
+
+# 3讨论
+
+动脉粥样硬化所致的心肌梗塞、脑梗塞等缺血性组织损伤是导致病人死亡的主要原因，研究表明缺血-再灌注损伤加重了脑缺血疾病对机体的损害，增加了死亡率和致残率。其机理十分复杂，氧化应激、过量自由基的产生是重要原因[10-12]。再灌注神经损伤的严重程度主要取决于缺血梗死面积、持续时间以及内源性神经保护机制的启动。寻找一种新的安全有效的防治脑缺血-再灌注损伤的方法具有十分重要的意义。
+
+![](images/e9c676002bf1e3a05a08eacecf2f5954bbda8a4daf714d481ab5fcf3e693d40b.jpg)  
+图4不同组别大鼠ERK1/2和p-ERK1/2蛋白电泳情况Fig.4 Expression of $\mathrm { E R K 1 } / 2$ and $\mathsf { p }$ -ERK1/2indifferentrats. $^ { \ast } P { < } 0 . 0 5$ Us Sham group, $^ { \mathrm { { } ^ { \sharp } }} P < 0 . 0 5$ us Model group.
+
+Apelin是由Tatemoto等从牛的胃分泌物中分离纯化的一种小分子内源性神经肽，是血管紧张素受体样蛋白J受 体(putative receptor protein related to theangiotensinreceptorATl,APJ)的天然配体。Apelin/APJ系统在神经元的胞体和神经纤维中均有大量的表达[13-14],具有神经保护作用,能对抗兴奋性毒性损伤、氧化应激损伤，抑制神经细胞的凋亡等，是一种内源性神经保护因子。不同长度的Apelin多肽片段在体内的分布、与APJ的结合能力、体内外生理与药理作用都不尽相同。Apelin能抑制大脑皮质细胞中活性氧的产生、细胞色素C的释放以及caspase-3的激活，促进Akt和ERKI/2的磷酸化，抑制大脑皮质细胞凋亡，减少 $\mathrm { C a } ^ { 2 + }$ 积聚，降低钙蛋白酶calpain的活化，保护大脑皮质神经元抵抗谷氨酸的兴奋性毒性损伤[15]。
+
+Apelin前体肽在蛋白水解酶的作用下可分解为长度不同的多肽片段，以Apelin-13生物活性最强[16-17]。Apelin-13在神经系统的表达水平较高，与神经系统疾病的关系非常密切。本研究采用Apelin-13对脑缺血-再灌注损伤大鼠进行治疗，其结果显示,Apelin-13改善了脑缺血-再灌注损伤大鼠模型的临床症状、神经功能缺损，增强肌力，显著性降低了脑组织的含水量和脑水肿的程度，也显著性降低神经功能评分和脑梗死体积和比例。同时本研究通过TUNEL染色对缺血周边脑组织神经细胞凋亡进行观察发现,中、大剂量Apelin-13干预后，TUNEL阳性细胞明显减少，表明Apelin-13可抑制局灶性脑缺血再灌注损伤后神经细胞凋亡。
+
+机体在遭受有害刺激时出现氧化应激反应，产生了大量的活性氧自由基，超出了机体对其清除能力，从而对细胞的DNA、蛋白质和脂质等造成巨大的损伤。MDA是活性氧发生脂质过氧化的终产物，是衡量机体内细胞发生氧化应激的指标之一。SOD是清除体内活性氧自由基的主要自由基清除剂，通过催化超氧化物发生岐化反应而清除自由基[18]。本研究结果显示干预B组和C组通过Apelin-13处理明显抑制了缺血周边脑组织中氧化应激的产生，降低了MDA含量，显著增加了SOD的活性。结果表明Apelin-13抑制了氧化应激反应达到保护脑缺血-再灌注损伤。与以往的研究发现Apelin能通过抗氧化应激[19],对抗肌萎缩性侧索硬化症的进展，发挥神经保护作用相一致。
+
+ERK介导的细胞信号转导通路可能是多种刺激的共同通路。本实验研结果显示，脑缺血再灌注后，脑组织中ERK1/2总量并未发生明显的改变，而ERK1/2磷酸化水平增强，说明ERK1/2的活化在脑缺血再灌注中扮演了重要角色。本实验对Apelin-13的研究中发现，Apelin-13处理对缺血再灌注脑组织有保护作用，表现在减轻神经功能缺损、脑水肿以及抑制细胞凋亡。同时发现Apelin-13处理后进一步增加了脑组织ERK1/2的磷酸化水平，提示p-ERK1/2可能在脑缺血再灌注后扮演着一个保护性的角色;同时也提示，Apelin-13干预在脑缺血再灌注后发挥一系列保护作用可能与ERK1/2蛋白活化相关。
+
+总之，本研究表明Apelin-13对大鼠局灶性脑缺血-再灌注损伤有保护作用，其机制可能与Apelin-13抑制氧化应激有关。Apelin-13是防治脑缺血-再灌注损伤的一种有效途径和新的方法，为脑缺血-再灌注损伤提供了新的治疗靶点和策略
+
+# 参考文献：
+
+[1]Bell ML.Comment: temperature and risk of stroke mortality in China[J].Neurology,2013,81(12):1064-70.   
+[2]武 菲,张秋玲.Apelin/APJ系统的神经保护作用及其机制[J].生理科 学进展,2013,44(1):39-44.   
+[3]Pope GR,Roberts EM,Lolait SJ,et al. Central and peripheral apelin receptor distribution in the mouse: species differences with rat[J]. Peptides,2012,33(1): 139-48.   
+[4]Zeng XJ,Yu SP, Zhang L,et al. Neuroprotective effect of the endogenous neural peptide apelin in cultured mouse cortical neurons [J].Exp Cell Res,2010,316(11): 1773-83.   
+[5]Drougard A, Duparc T, Brenachot X,et al. Hypothalamic apelin/ reactive Oxygen speciessignaling controls hepaticglucose metabolism in the onset of diabetes [J].Antioxid Redox Signal, 2014,20(4): 557-73.   
+[6]Longa EZ,Weinstein PR,Carlson S,et al. Reversible middle cerebral artery occlusion without craniectomy in rats[J].Stroke, 1989, 20(1): 84-91.   
+[7] Yulug E,Tiredi S,Karaguzel E,et al. The short term effects of resveratrol on ischemia-reperfusion injury in rat testis[J].Jediatr Surg,2014,49(3): 484-9.   
+[8]Dachir S,Shabashov D,Trembovler V,et al. Inosine improves functional recovery after experimental traumatic brain injury [J]. Brain Res,2014,1555(1): 78-88.   
+[9] Cong WT,Ling J, Tian HS,et al.Proteomic study on the protective mechanism of fibroblast growth factor 21 to ischemia-reperfusion injury[J].Can JPhysiol Pharmacol,2013,91(11): 973-84.   
+[10]Tie R,Ji L,Nan Y,etal.Achyranthes bidentata polypeptides reduces oxidative stress and exerts protective effects against myocardial ischemic/reperfusion injury in rats [J].Int JMol Sci, 2013,14(10): 19792-804.   
+[11] Xue L,Wu Z,Ji XP,et al. Effect and mechanism of salvianolic acid B on the myocardial ischemia-reperfusion injury in rats[J].Asian Pac J Trop Med,2014,7(4): 280-4.   
+[12]Kurtoglu T, Basoglu H, Ozkisacik EA,et al.Effects of cilostazol on oxidative stress,systemic cytokine release,and spinal cord injury in a rat model of transient aortic occlusion[J].Ann Vasc Surg,2014,28 (2): 479-88.   
+[13] Carpéné C,Dray C,Attané C,et al. Expanding role for the apelin/ APJ system in physiopathology[J].JPhysiol Biochem,2007,63(4): 359-73.   
+[14]Lang L,Ingorokva S,Hausott B,et al. Selective up-regulation of the vasodilator peptide apelin after dorsal root but not after spinal nerve injury[J]. Neuroscience,2010,170(3): 954-60.   
+[15] Cook DR,Gleichman AJ,Cross SA，et al．NMDA receptor modulation by the neuropeptide apelin: implications for excitotoxic injury[J]. JNeurochem,2011,118(6): 1113-23.   
+[16]Hosoya M,Kawamata Y,Fulmsumi S,et al. Molecular and functional characteristics of APJ[J].Tissue distribution of mRNA and interaction with the endogenous ligand apelin[J].J Biol Chem, 2000,275(28): 21061-7.   
+[17]Lee DK,Saldivia VR,Nguyen T,et al.Modification of the terminal residue of apelin-13 antagonizes its hypotensive action[J].Endocrinology,2005,146(1): 231-6.   
+[18]Hagar H,Al Malki W. Betaine supplementation protects against renal injury induced by Cadmium intoxication in rats:role of oxidative stress and caspase-3[J].Environ Toxicol Pharmacol, 2014,37(2): 803-11.   
+[19]Kasai A,Kinjo T, Ishihara R,et al.Apelin deficiency accelerates the progression of amyotrophic lateral sclerosis[J]. PLoS One,2011, 6 (8): e23968.
+
+(编辑：经媛)

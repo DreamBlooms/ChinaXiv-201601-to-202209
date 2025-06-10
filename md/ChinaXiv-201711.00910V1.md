@@ -1,0 +1,257 @@
+# 不同酶及组合处理对青贮水稻秸秆微观结构的影响
+
+王玉荣’² 陶　莲²马　涛²石长青」许贵善」 刁其玉12\*（1.塔里木大学动物科学学院，阿拉尔843300；2.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京100081)
+
+摘要：本试验以水稻秸秆为研究对象，采用高效降解纤维素酶进行青贮发酵处理，分析其对水稻秸秆微观结构的影响，旨在实现农作物秸秆的高效降解，提高其营养价值。设青贮对照（S组）、复合酶制剂处理（C组）、果胶酶 $+$ 漆酶处理（PL组）、复合酶制剂 $\mid +$ 果胶酶 $+$ 漆酶处理(CPL组)和原料（M组），各组采用袋装真空青贮。室温贮藏45d后取样，采用实验室检测方法、苯酚硫酸法、 $^ { 4 , 4 ^ { \prime } }$ 二羧酸 $^ { - 2 , 2 ^ { \prime } }$ -喹啉（BCA）法、近红外光谱（FTIR）、X-射线衍射分析和伊红美兰法分析不同酶或酶组合处理的水稻秸秆青贮饲料的营养成分含量、发酵品质及微观结构变化。结果表明：1）与S 组相比，PL组、C 组及CPL 组的乳酸(LA)含量显著增加（ $. P { < } 0 . 0 5$ ， $\mathsf { p H }$ 、氨态氮/总氮及乙酸、纤维素含量均显著降低( $. P { < } 0 . 0 5 )$ ；CPL组、C组的粗蛋白质含量显著降低（ $P { < } 0 . 0 5$ ）。2）与S组相比，PL组青贮水稻秸秆的聚合度显著降低（ $. P { < } 0 . 0 5$ ），降低幅度达 $3 0 . 2 6 \%$ ，分子间氢键结合力减弱，结晶度与比表面积无显著变化( $. P { > } 0 . 0 5 .$ );C 组青贮水稻秸秆聚合度显著降低( $. P { < } 0 . 0 5 \rangle$ ，降低幅度达 $2 7 . 1 1 \%$ ，分子间氢键结合力减弱，结晶度与比表面积无显著变化（ $. P { > } 0 . 0 5 )$ ）；CPL组青贮水稻秸秆的聚合度显著降低（ $P { < } 0 . 0 5$ ），降低幅度达 $56 . 3 2 \%$ ，分子间氢键结合力减弱，有降低结晶度和增加比表面积的趋势（ $. P { > } 0 . 0 5$ ）。综上，CPL组降解纤维组分的效果最理想，能有效地破解细胞壁中木质素-纤维素-半纤维素复合结构，将纤维素降解为可利用的糖，提高水稻秸秆青贮饲料的营养含量，降低聚合度及结晶度，增大比表面积，从而提高秸秆的可消化性及利用率。
+
+关键词：秸秆；木质纤维素；微观结构；生物处理
+
+中图分类号：S816.33
+
+农作物秸秆是一种重要的饲料资源，但由于秸秆细胞壁中纤维素复杂的层次结构、凝聚态结构以及包裹着纤维素的半纤维素和木质素，使其作为饲料的利用率一般都较低[1-2]。木质素与半纤维素以共价键形式结合，将纤维素分子包被在其中，形成一种自然屏障，使消化酶不易与纤维素分子接触，导致其在动物瘤胃中的分解受到限制[3。大量的国内外学者对秸秆的高效利用做了很多方面的研究，目前提高秸秆饲料化利用率的常用加工处理方法有物理处理、化学处理和生物处理。其中生物处理具有能耗低、污染小、易于操作等优点，依靠微生物和酶制剂的生物降解能力来破坏秸秆细胞壁作为草食家畜饲料，已引起广泛重视[4-5]。纤维素具有的特定层次结构特征，将其可分为一级结构、二级结构、三级结构和四级结构，并分别用聚合度、氢键、结晶度及比表面积进行表征[]。生物处理可通过改变纤维素组分的含量，改变不同层次纤维素的微观结构。其纤维素空间结构的破解程度可反映细胞壁破壁的有效性，故找到有效的酶组合破解农作物秸秆细胞壁，改变秸秆的理化结构，把秸秆中的纤维素、半纤维素和木质素等碳水化合物降解为可被动物直接利用的单糖，将有效提高秸秆饲料化的利用率。因此，本试验以水稻秸秆为研究对象，选用复合酶制剂、果胶酶及漆酶不同组合后，进行青贮发酵处理，并采用实验室检测方法、苯酚硫酸法、二羧酸-2,2’-喹啉(BCA)法、近红外光谱（fourier transform infared，FTIR）、X-射线衍射分析（X-ray diffractionsprctra,XRD）和伊红美兰法分析不同酶或酶组合处理的水稻秸秆青贮饲料的营养成分、发酵品质及微观结构变化，旨在寻找能破解农作物秸秆细胞壁空间结构的酶制剂组合，以期为秸秆的利用提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+水稻秸秆取自吉林省吉林市，品种为稻花香，于2015年9月收获籽粒后收割。
+
+复合酶制剂[纤维素酶（ $\geqslant 1 0 \ 0 0 0 \ \mathrm { U / g }$ ） $+$ 木聚糖酶（ $\geq 1 2 0 0 0 0 \mathrm { U } / \mathrm { g }$ ）+β-葡聚糖酶（≥40000U/g）]、果胶酶（ $: \geqslant 1 0 \ 0 0 0 \ \mathrm { U / g } \rangle$ ）、漆酶（ $\geqslant 1 0 \ 0 0 0 \ \mathrm { U / g }$ ），粉末状，试验所用复合酶制剂及酶均购自夏盛实业集团有限公司，常温贮存。
+
+# 1.2 试验设计
+
+本试验共设计5个组，每组3个重复，试验组设计及样品编号见表1。水稻秸秆刈割后，截取7、8节点之间5cm茎段，共取600 株，其余用青贮切碎揉搓机切短至 $1 { \sim } 2 ~ \mathrm { c m }$ ，将复合酶制剂、果胶酶、漆酶按表1的组合及添加剂量溶于蒸馏水，搅拌，均匀喷洒在粉碎的水稻秸秆及截取的茎段上，将水分调节至 $7 5 \% \sim 8 0 \%$ 。青贮对照组直接添加蒸馏水，不添加任何酶制剂，其余方法同上。取原料样品后，另取样品装入聚乙烯袋 $( 2 4 ~ \mathrm { c m } { \times } 4 0 ~ \mathrm { c m } )$ ，每袋1kg，茎段40株，用真空包装机(DZ一280/2SD)抽真空并封口。原料样品置于冰盒中，迅速带回实验室，一20℃贮藏，青贮样品室温条件下 $2 5 { \sim } 3 7 \ \mathrm { ~ } ^ { \circ } \mathrm { C } ,$ 贮藏，贮藏45d后开封取样，立即于一20℃保存，待检。
+
+# 表1试验设计及样品编号
+
+Table 1The experiment design and the number of samples
+
+<html><body><table><tr><td colspan="3">组别Groups</td><td>Supplemental</td><td>添加剂量</td></tr><tr><td colspan="3"></td><td></td><td>dosage/ （g/kg)</td></tr><tr><td>稻秸 Rice straw (M)</td><td>M-1</td><td>M-2</td><td>M-3</td><td></td></tr><tr><td>青贮对照 Silage control (S)</td><td>S-1</td><td>S-2</td><td>S-3</td><td></td></tr><tr><td>复合酶制剂 Compound enzyme preparation (C)</td><td>C-1</td><td>C-2</td><td>C-3</td><td>1.0</td></tr><tr><td>果胶酶+漆酶 Pectinase+laccase</td><td>PL-1</td><td>PL-2</td><td></td><td>0.5+1.0</td></tr><tr><td>(PL)</td><td></td><td></td><td>PL-3</td><td></td></tr><tr><td>复合酶制剂+果胶酶+漆酶</td><td></td><td></td><td></td><td></td></tr><tr><td>Compound enzyme</td><td>CPL-1</td><td>CPL-2</td><td>CPL-3</td><td>1.0+0.5+1.0</td></tr><tr><td>preparation+pectinase+laccase</td><td></td><td></td><td></td><td></td></tr><tr><td>(CPL)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 2测定指标与方法
+
+# 2.1发酵品质及营养成分的测定
+
+取水稻秸秆青贮饲料样品 $2 0 \ \mathrm { g }$ ，加入 $1 8 0 ~ \mathrm { m L }$ 蒸馏水，搅拌均匀，用组织捣碎机搅碎1min，先后用4层纱布和定性滤纸过滤，滤出残渣得到浸出液，再用pH测定仪（Testo 205型号，德国）测定青贮饲料浸出液的 $\mathrm { \ p H ^ { \left[ 8 - 9 \right] } }$ 。采用苯酚-次氯酸钠比色法测定氨态氮(ammonianitrogen, $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ ）含量[0]。使用GC128型气相色谱分析乳酸（lactic acid,LA）、乙酸（aceticacid，AA）、丙酸（propionic acid，PA）、丁酸（butyric acid，BA）的含量，火焰离子化检测器（FID），柱 $2 \mathrm { m } \times 4 \mathrm { m m }$ ，固定相Pora-pakQ（80目），柱温 $2 2 0 \mathrm { ~ \textdegree ~ }$ ，汽化室和检测器温度 $2 6 0 \mathrm { ~ \textdegree ~ }$ ， $\mathrm { N _ { 2 } { = } 6 5 \ m L / m i n }$ ，空气 $= 5 5 0 ~ \mathrm { m L / m i n }$ ， $\mathrm { H } _ { 2 } { = } 5 5 \mathrm { m L } / \mathrm { m i n }$ ，灵敏度 $1 6 \times 1 0 3$ ，纸速$5 \mathrm { { m m } / \mathrm { { m i n } } }$ 。测定处理前后的水稻秸秆的营养含量，包括干物质（drymatter，DM）、纤维素（cellulose，C）、半纤维素（hemicellulose，HC）、木质素（lignin，L）、粗蛋白质（crudeprotein，CP）、总氮（total nitrogen，TN）含量[11]。
+
+# 2.2水稻秸秆微观结构的测定
+
+# 2.2. 1 聚合度
+
+茎段样品过200目，采用苯酚-硫酸法[12测定茎段样品中的总糖浓度，BCA法[13]测定样品中还原糖的浓度，总糖浓度与还原糖浓度的比值，即为样品的聚合度，平均聚合度取整数[14]。
+
+# 2.2.2 FTIR
+
+FTIR[15]分析使用VERTEX70V 型傅里叶变换红外光谱仪（Bruker公司，德国）对不同组的水稻秸秆青贮饲料进行扫描电镜观察。试验处理：茎段粉碎 $1 \mathrm { m i n }$ ，过200目； $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，干燥 $1 2 \mathrm { h }$ 后，称取 $1 \mathrm { m g }$ 样品与 $5 0 \mathrm { m g } \mathrm { K B r }$ 研磨，压强 $1 \mathrm { { M p a } }$ ，压成直径约 $1 3 \mathrm { m m }$ 直径的薄片。试验条件：扫描范围在 $1 0 0 0 \mathrm { c m } ^ { - 1 } { \sim } 4 0 0 0 \mathrm { c m } ^ { - 1 }$ 区间，光谱分辨率 $2 \mathrm { c m } ^ { - 1 }$ 。
+
+# 2.2.3 XRD
+
+XRD[16]使用D8-Advance 型X-射线衍射仪（Bruker 公司，德国），试验条件： $\mathrm { { C u - K a } }$ 专 $4 0 \ \mathrm { K V } \times 4 0 \ \mathrm { m A }$ ，扫描速度 $1 ~ \mathrm { { ^ { \circ } C / m i n } }$ ，步长 $0 . 0 4 ^ { \circ }$ ，2θ角扫描范围3°\~40°。试验处理：茎段样品均粉碎 $1 \mathrm { m i n }$ ，过200目。分别对经不同处理的水稻秸秆青贮饲料进行X射线衍射扫描，观察不同处理后的样品结晶度变化。并根据Meyer等[16]提出的公式计算结晶度：
+
+$$
+C r I ~ \left( \% \right) ~ = ~ \left[ ( I _ { 0 0 2 } - I _ { \mathrm { a m } } ) / I _ { 0 0 2 } \right] ~ \times 1 0 0 \circ
+$$
+
+式中： $C r I$ 表示结晶度； $I _ { 0 0 2 }$ 表示纤维素I在20为 $2 2 { \sim } 2 3$ ℃时结晶强度的最大值(对于
+
+纤维素Ⅱ， $2 \ : \boldsymbol { \theta }$ 为 $1 8 { \sim } 2 2 \ \mathrm { ~ \textdegree ~ }$ ； $I _ { \mathrm { a m } }$ 表示纤维素I在20为 $1 8 \sim 1 9$ ℃时结晶强度的最小值(对于纤维素 $\mathrm { I I }$ ，20为 $1 3 { \sim } 1 5 \ \mathrm { ~ } ^ { \circ } \mathrm { C }$ ）
+
+# 2.2.4 比表面积
+
+采用伊红美兰法测定样品的比表面积[7]。茎段样品过200 目，取 $0 . 2 ~ \mathrm { g }$ 悬浮 $2 5 ~ \mathrm { m L }$ 美兰溶液中，恒温 $2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，转速 $1 2 0 ~ \mathrm { r / m i n }$ ，振荡吸附 $1 2 \mathrm { h }$ ，每种3组平行。取出静置 $1 5 \mathrm { m i n }$ ，10$0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，取得上清液，在 $6 6 0 \mathrm { n m }$ 的波长下进行比色，测得溶液中美兰的含量，单位质量秸秆吸附剂吸附美兰的量可引据下列公式计算出：
+
+$$
+q = \frac { ( C _ { 0 } - C _ { t } ) * V } { m }
+$$
+
+式中： $q$ 表示单位质量秸秆样吸附美兰的量（ $\cdot \mathrm { m g / g }$ ）； $C _ { 0 }$ 表示美兰的初始浓度 $( \mathrm { m g / L } )$ ；$C \mathrm { t }$ 表示 $t$ 时刻美兰的浓度( $\mathrm { \ m g / L } \mathrm { \cdot }$ ； $V$ 表示美兰溶液的体积（L）； $M$ 表示秸秆样的质量（g）。
+
+$$
+S = \mathbf { q } * \mathbf { a }
+$$
+
+式中：S表示比表面积 $( \mathrm { m } ^ { 2 } / \mathrm { g }$ ）； $q$ 表示单位质量秸秆样吸附美兰的量（ $\mathrm { \ m g / g }$ ）；a为1mg 美兰覆盖固体的面积，对秸秆物质为 $2 . 4 5 \mathrm { m } ^ { 2 }$ 。
+
+# 2.3 数据统计分析
+
+试验数据经过Excel2010初步整理后，采用 SPSS19.0软件分析。水稻秸秆样品均使用单因素方差分析检验程序进行差异显著性分析， $P { < } 0 . 0 5$ 为差异显著。
+
+# 3结果与分析
+
+# 3.1青贮原料的营养成分
+
+由表2可知，青贮原料的纤维素含量为338.84g/kgDM，青贮原料的DM含量为229.07
+
+g/kg FM。
+
+# 表2青贮原料的营养成分
+
+Table 2Nutrient composition of silage material   
+
+<html><body><table><tr><td>项目</td><td>含量 Content</td></tr><tr><td>干物质Dry matter/（g/kg FM)</td><td>229.07</td></tr><tr><td>纤维素Cellulose/（g/kg DM)</td><td>338.84</td></tr><tr><td>半纤维素 Hemicelluloses/（g/kg DM)</td><td>264.22</td></tr><tr><td>木质素Lignin/（g/kg DM)</td><td>45.16</td></tr><tr><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein/ （g/kg DM)</td><td>37.13</td></tr></table></body></html>
+
+# 3.2水稻秸秆青处理后发酵品质及营养成分
+
+由表3可知，水稻秸秆经不同青贮处理后，与S组相比， $\mathsf { p H }$ 均显著降低（ $_ { \cdot } P { < } 0 . 0 5 \$ ），乳酸含量均显著增加（ $P { < } 0 . 0 5$ ），其中CPL组乳酸含量最高。各组之间的DM含量差异不显著( $P { > } 0 . 0 5$ ），PL组、C 组和CPL组纤维素含量均显著低于S组（ $. P { < } 0 . 0 5$ ），各组的木质素含量没有显著差异（ $. P { > } 0 . 0 5$ ）。
+
+# 表3水稻秸秆青贮处理后发酵品质及营养成分
+
+Table 3Fermentation quality and nutrient composition of rice straw after silage treated   
+
+<html><body><table><tr><td>项目Items</td><td>组别 Groups</td><td>平均标准误</td><td>P值</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="7">营养成分 Nutrient composition</td></tr><tr><td>干物质DM/（g/kgFM)</td><td>246.10</td><td>238.17</td><td>223.19</td><td>226.74</td><td>16.25</td><td>0.529</td></tr><tr><td>纤维素C/（g/kg DM)</td><td>419.84a</td><td>390.52℃</td><td>393.68b</td><td>371.01d</td><td>1.27</td><td>0.003</td></tr><tr><td>半纤维素 HC/（g/kg DM)</td><td>246.19c</td><td>236.81d</td><td>268.91a</td><td>262.33b</td><td>0.72</td><td>0.037</td></tr><tr><td>木质素L/ （g/kgDM)</td><td>41.29</td><td>41.72</td><td>41.88</td><td>40.00</td><td>0.32</td><td>0.931</td></tr><tr><td>粗蛋白质 CP/（g/kg DM)</td><td>41.01b</td><td>43.67a</td><td>37.56d</td><td>38.53c</td><td>0.21</td><td>0.018</td></tr><tr><td>发酵品质 Fermentation quality</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>pH</td><td>3.73a</td><td>3.65c</td><td>3.64d</td><td>3.66b</td><td>0.013</td><td><0.01</td></tr><tr><td>乳酸 LA/(g/kg DM)</td><td>34.50d</td><td>37.19b</td><td>36.67c</td><td>52.97a</td><td>1.240</td><td><0.01</td></tr><tr><td>乙酸 AA/(g/kg DM)</td><td>10.34a</td><td>6.18b</td><td>3.71</td><td>3.18d</td><td>0.508</td><td><0.01</td></tr><tr><td>丙酸 PA/(g/kg DM)</td><td>1.86a</td><td>0b</td><td>0b</td><td>0b</td><td>0.052</td><td><0.01</td></tr><tr><td>丁酸 BA/(g/kg DM)</td><td>0℃</td><td>0.35a</td><td>0.19b</td><td>0C</td><td>0.017</td><td><0.01</td></tr><tr><td>氨态氮/总氮NH3-N/TN</td><td>63.68a</td><td>36.36d</td><td>37.62c</td><td>45.79b</td><td>1.290</td><td>0.005</td></tr></table></body></html>
+
+# 3.3水稻秸秆不同青贮处理后的微观结构
+
+# 3.3.1 聚合度
+
+由表4可知，与稻秸原料（M组）相比，青贮处理后的水稻秸秆聚合度均发生了不同程
+
+度的减少，差异显著( $( P { < } 0 . 0 5 )$ )。与S 组相比,PL组、C 组及CPL组聚合度显著降低( $( P { < } 0 . 0 5 )$ ，其中，CPL组聚合度最低。
+
+# 表4水稻秸秆聚合度
+
+Table 4Degree of polymerization of rice straw   
+
+<html><body><table><tr><td>项目Item</td><td colspan="5">组别 Groups</td><td rowspan="2">平均标准误</td><td rowspan="2">P值</td></tr><tr><td></td><td>M</td><td>S</td><td>PL</td><td>C</td><td>CPL</td><td>SEM</td></tr><tr><td>聚合度 DP</td><td>430a</td><td>380b</td><td>265d</td><td>277℃</td><td>166e</td><td>12.11</td><td>0.015</td></tr></table></body></html>
+
+# 3.3.2 红外扫描
+
+水稻秸秆经不同处理青贮后，FTIR光谱图存在一定差异(图1)。青贮前水稻秸秆的 FTIR光谱中木质纤维素特征吸收峰均有出现。将经不同青贮处理后水稻秸秆的FTIR光谱进行对比发现， $2 9 2 1 ~ \mathrm { { c m } ^ { - 1 } }$ 处甲基和亚甲基吸收峰，1162 和 $1 0 5 1 ~ \mathrm { c m } ^ { - } 1$ 处以及 $1 7 3 5 \mathrm { c m } ^ { - 1 }$ 处的振动峰强度明显减弱，说明C-O-C键发生断裂，秸秆中纤维素和半纤维素被部分降解。而在1$6 5 6 ~ \mathrm { { c m } ^ { - 1 } }$ 处的苯环吸收峰也明显减弱，证明木质素除被解聚之外，还发生了部分苯环降解。
+
+1.水稻秸秆（M）；2.青贮对照（S）；3.果胶酶 $+$ 漆酶（PL）；4.复合酶制剂（C）；5.复合酶制剂 $\mid +$ 果胶酶 $^ +$ 漆酶（CPL）。下图同。
+
+1. rice straw (M)； 2. silage control (S); 3. pectinase+laccase (PL); 4. compound enzyme preparation (C); 5.compound enzyme preparation+pectinase+laccase (CPL). The same as below.
+
+![](images/1d646065a9ec4582a7089faf1f39e781bd12712713b6f72840edeb4b7d221fc3.jpg)  
+图1水稻秸秆FTIR 图谱  
+Fig.1FTIR spectra of rice straw
+
+# 3.3.3 结晶度
+
+经不同酶或酶组合处理之后的水稻秸秆青贮饲料与未处理的水稻秸秆相比，X射线衍射峰的位置基本没有改变，只是峰的强度产生一定的变化。由图2可知，PL组、C 组、CPL组的101和002处结晶衍射峰强度明显低于S、M组，峰形更平缓。各组004 处的衍射峰强度都较弱。
+
+![](images/8fc42bae21be2e31172dc260b9880276ab7e33187edcac8f45f6d994fb43063a.jpg)  
+图2水稻秸秆×射线衍射图  
+Fig.2X-ray spectra of rice straw
+
+由表5可知，水稻秸秆经不同青贮处理后，与S组相比，结晶度具有降低的趋势，但是差异不显著（ $P { > } 0 . 0 5 \$ ），CPL组结晶度降低的最明显。
+
+# 表5水稻秸秆结晶度
+
+Table 5The crystalinity of rice straw %   
+
+<html><body><table><tr><td>项目</td><td colspan="5">组别Groups</td><td>平均标准误</td><td>P值</td></tr><tr><td>Item</td><td>M</td><td>S</td><td>PL</td><td>C</td><td>CPL</td><td>SEM</td><td>P-value</td></tr><tr><td>结晶度CrI</td><td>47.52</td><td>45.53</td><td>42.51</td><td>42.85</td><td>40.18</td><td>3.24</td><td>0.217</td></tr></table></body></html>
+
+# 3.3.4 比表面积
+
+由表6可知，水稻秸秆经不同青贮处理后，与S组相比，各组的比表面积值没有显著变化（ $( P { > } 0 . 0 5 )$ ），变化范围不大（ $1 . 1 2 { \sim } 1 . 2 0 ~ \mathrm { m } ^ { 2 } / \mathrm { g }$ ），其中CPL 组的比表面积增加的最多。
+
+# 表6水稻秸秆比表面积
+
+Table 6The specific area of rice straw $\mathrm { m } ^ { 2 } / \mathrm { g }$   
+
+<html><body><table><tr><td>项目Item</td><td colspan="5">组别Groups</td><td>平均标准误</td><td>P值</td></tr><tr><td></td><td>M</td><td>S</td><td>PL</td><td>C</td><td>CPL</td><td>SEM</td><td>P-value</td></tr><tr><td>比表面积 Specific</td><td>1.11</td><td>1.12</td><td>1.14</td><td>1.15</td><td>1.20</td><td>0.070</td><td>0.88</td></tr><tr><td>area</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 4讨论
+
+4.1不同酶制剂及组合处理对水稻秸秆青贮饲料营养成分及发酵品质的影响
+
+赵政等[17研究发现，稻秸青贮饲料经酶处理后，对DM含量没有显著影响，本试验结果与其相符，说明水稻秸秆饲料经酶处理后，较大程度地保留了饲料的营养物质。本试验发现，与青贮对照组相比，稻秸青贮饲料经过复合酶制剂、果胶酶+漆酶、复合酶制剂 $^ +$ 果胶酶+漆酶处理后，纤维素的含量不同程度降低，可能是由于在青贮过程中，纤维素被酶降解为单糖或双塘，为乳酸菌发酵提供底物，这与赵国琦等[18研究结果一致。然而，在本试验中复合酶制剂及复合酶制剂 $^ +$ 果胶酶+漆酶处理的粗蛋白质含量明显低于青贮对照组，这与赵政等[17]和赵国琦等[18]结果不符。陶莲等研究认为，秸秆青贮后氨态氮含量的提高可能会引起粗蛋白质含量的消耗，本试验结果与其相似。
+
+大量研究表明，水稻秸秆青贮饲料经酶处理后，可促进青贮乳酸发酵，改善青贮饲料的发酵品质[15，19-20]。本研究发现，与青贮对照组相比，经不同的酶制剂及组合处理后，氨态氮/总氮显著降低，pH显著降低，说明不同的酶制剂及组合在一定程度上改善了水稻秸秆青贮的品质,此结果与王兴刚[20的试验结果相符。青贮饲料中添加酶制剂的主要目的是把纤维素、半纤维素等结构性的碳水化合物降解为可溶性的糖，以获得更多的发酵底物，促进乳酸菌发酵[21]。本试验青贮饲料经不同的酶或酶组合处理后，与青贮对照组组比，乳酸含量显著提高，乙酸含量降低，说明不同酶及酶组合处理的水稻秸秆青贮饲料发酵过程中，同型发酵乳酸菌占据主导地位，促进了乳酸菌发酵，产生了大量的乳酸，提高了发酵品质,这与吕文龙等[22、Nkosi等[23]及李龙兴[24]的研究结果基本一致。青贮对照组丙酸含量与其他酶及不同酶组合处理差异显著，青贮对照组丙酸含量最高。在果胶酶 $^ +$ 漆酶及复合酶制剂处理中检测到了微量的丁酸，说明这2组与其他处理相比青贮效果不佳，与王力生等2的结果相似，可能与保存方式有关，尚待进一步验证。
+
+# 4.2不同酶制剂及组合处理对青贮水稻秸秆微观结构的影响
+
+聚合度的大小决定纤维素碳链的长度，是纤维素转化为可发酵糖的重要表征[26]。冯冲凌等[7利用 PCA分析方法发现，添加酶可促进发酵过程中微生物对聚合物碳源的代谢能力，本试验研究结果与其基本相符。本试验发现，青贮稻秸经复合酶制剂、果胶酶 $+$ 漆酶、复合酶制剂 $\mid +$ 果胶酶 $\vdots$ 漆酶组处理后，与对照组相比，聚合度降低的幅度分别为 $3 0 . 2 6 \%$ 、 $2 7 . 7 1 \%$ 、56.32%，表明处理后纤维素碳链缩短，被酶降解为可利用的发酵糖，与 Zhang等[26试验结果一致。本研究发现，复合酶制剂 $+$ 果胶酶 $\dot { . } +$ 漆酶处理聚合度降低幅度明显高于复合酶制剂、果胶酶 $+$ 漆酶处理，原因可能是所用酶制剂中含β-葡聚糖酶，其作为内切葡聚糖酶可作用于纤维素的非结晶区，随机水解纤维素中的糖苷键，把纤维素长碳链切断，转化成不同聚合度的纤维素短碳链，最终纤维素聚合度降低，并使外切酶作用的纤维素碳链末端数增加。但β-葡聚糖酶并不能单一完成降解，需要多种酶共同协作才能完成[24]。
+
+纤维素碳链通过其葡萄糖残基上的羟基和分子间或者内部的羟基基团形成的氢键链接，形成稳定结构，氢键破坏后会成为游离的羟基，故氢键与羟基成为纤维素破坏力度的二级表征[1,6]。柳珊等[28]、Zhang 等[26]研究发现，通过生物处理的秸秆青贮饲料细胞壁纤维素的降解只维持在微纤丝的水平，未达到超分子结构水平，细胞壁的组成成分未发生变化，只是含量发生变化。本试验添加不同组合的酶制剂后，与青贮对照组相比，青贮水稻秸秆发酵末期的纤维素、半纤维素、木质素的含量均发生降低，与其结果基本一致。唐洪涛等[29]利用Y射线辐照与NaOH溶液协同处理秸秆，发现其FTIR光谱图有关纤维素及半纤维素的C-O-C伸缩振动吸收峰振动强度减弱，表明纤维素聚合度降低及纤维素含量降低，本试验利用复合酶制剂、果胶酶 $+$ 漆酶及复合酶制剂 $^ +$ 果胶酶 $^ +$ 漆酶处理稻秸青贮饲料后得到的结果与其相符。Dai 等[30利用FTIR光谱分析经生物化学协同处理秸秆样品，研究结果发现，木质素、半纤维素相关 $\scriptstyle { \mathrm { C = O } }$ 伸缩振动峰消失，纤维素、半纤维素的相关C-O-C 键振动峰强度显著减弱，本试验发现木质素、半纤维素相关 $\scriptstyle { \mathrm { C = O } }$ 伸缩振动峰并未消失，但经复合酶制剂 $\mid +$ 果胶酶+漆酶处理的青贮水稻秸秆的 $\scriptstyle \mathrm { C = O }$ 伸缩振动峰强度最弱，峰形趋于平缓，与其结果相似。
+
+纤维素碳链形成的片层因排列的结构特点，分为结晶区纤维素与无定形纤维素，其中结晶性纤维素难被动物机体利用吸收，由于其易结晶的特点，结晶度作为反映纤维素聚集时形成结晶的程度表征[1,6]。本研究发现，经酶处理的青贮饲料的结晶度与青贮对照组相比，无显著性变化。Wang 等[31研究结果表明，黄孢原毛平革菌具有产细胞壁降解酶的特性，处理秸秆后，其纤维素结晶度大大提高，本试验结果与其不符，原因可能是本试验将酶结合青贮方法处理秸秆，在发酵过程中，酶无法集中作用于结晶区纤维素[30。本研究中，结晶度在处理前后未发生显著变化，与Lee 等[32研究结果一致，原因可能是多种纤维素酶协同作用，才可对结晶度产生效果，其中纤维素二糖水解酶占主导作用[33]。同时，水稻秸秆由于产地等原因，成分及结构都会产生差异，其降解所需要的酶的组分之间，以及各酶之间活性的最适比例都不尽相同。
+
+比表面积作为表征纤维素微纤丝与降解纤维素酶分子之间可接触面积大小的指标，其对纤维素在反刍动物机体内吸收效果程度有重要意义 $^ { [ 1 , 6 ] }$ 。Castoldi等[15]和Wang等[31]研究结果都表明，利用生物处理方法处理秸秆，不仅会改变纤维素的含量，分解部分木质素及半纤维素，还增加了纤维素比表面积。本试验中经复合酶制剂 $\mid +$ 果胶酶 $\vdots$ 漆酶处理的青贮水稻秸秆比表面积增加的最多，从 $1 . 1 2 \mathrm { m } ^ { 2 } / \mathrm { g }$ 增加至 $1 . 2 0 \mathrm { m } ^ { 2 } / \mathrm { g }$ ，聚合度降低了 $56 . 3 2 \%$ ，纤维素含量也显著降低，与其结果一致。原因可能是果胶酶可分解细胞间的粘贴物质果胶，使秸秆组织疏松，细胞离间，为其他崩溃细胞壁的纤维素酶、半纤维素酶、木聚糖酶疏通进入秸秆组织的通道和细胞接触面，并利于秸秆木质纤维素结构的暴露[16.30-31]。本研究将高效纤维素降解酶与其他木质素降解酶进行组合，发现单一的木质素类降解酶组分并不能达到破解秸秆细胞壁的效果，需要多种酶类组分共同作用才能完成秸秆细胞壁的降解。
+
+# 5结论
+
+$\textcircled{1}$ 经不同酶或酶组合处理后，青贮发酵45d后的水稻秸秆青贮饲料均呈黄绿色，质地较好，呈酸香味，发酵末期pH降低，产生大量乳酸，DM及纤维素含量降低，具有良好的发酵品质。
+
+$\textcircled{2}$ 复合酶制剂 $+$ 果胶酶 $^ +$ 漆酶处理能有效地破解细胞壁中木质素-纤维素-半纤维素复合结构，将纤维素降解为可利用的糖，提高水稻秸秆青贮饲料的营养含量，降低了秸秆聚合度及结晶度，增大了比表面积。
+
+$\textcircled{3}$ 酶制剂处理不仅能改变水稻秸秆的化学成分、物理特性，同时通过改变纤维素层次性的空间结构，提高秸秆可消化性，从而提高了秸秆的利用率。
+
+# 参考文献：
+
+[1]裴继诚.植物纤维化学[M].4版.北京:中国轻工业出版社,2012.
+
+[2]刘卢生,索朗次仁,玉永雄,等.氨化剂和氨化条件对水稻秸秆氨化的影响[J].饲料工业,2012,33(3):51-54.
+
+[3] DING S Y,LIU Y S,ZENG Y N,et al.How does plant cell wall nanoscale architecture correlate with enzymatic digestibility[J].Science,2012,338(6110):1055-1060.
+
+[4]SARITHA M,ARORA A,LATA.Biological Pretreatment of lignocellulosic substrates for enhanced delignification and enzymatic digestibility[J].Indian Journal of Microbiology, 2012,52(2):122-130.
+
+[5]张立霞,刁其玉,李艳玲,等.利用生物制剂破解秸秆抗营养因子的研究进展[J].饲料工业,2013,34(5):21-26.
+
+[6]王玉荣,陶莲,许贵善,等.秸秆木质纤维素微观结构及其裂解方法[J].中国饲料,2016(12):38-41.
+
+[7]崔美,黄仁亮,苏荣欣,等.木质纤维素新型预处理与顽抗特性[J].化工学报,2012,63(3):677- 687.
+
+[8] 陶莲,刁其玉.青贮发酵对玉米秸秆品质及菌群构成的影响[J].动物营养学报,2016,28(1):198-207.
+
+[9] HAN K J,COLLINS M,VANZANT E S,et al.Bale density and moisture effects on alfa lfa round bale silage[J].Crop Science,2004,44(3):914-919.
+
+[10] BRODERICK G A,KANG J H.Automated simultaneous determination of ammonia and total amino acids in ruminal fluid and in vitro media[J].Journal of Dairy Science,198 0,63(1):64-75.
+
+[11]张丽英.饲料分析及质量检测技术[M].北京:中国农业大学出版社,2002:53-56,70-74.
+
+[12] MASUKO T,MINAMI A,IWASAKI N,et al.Carbohydrate analysis by a phenol-sulfuric acid method in microplate format[J].Analytical Biochemistry,20o5,339(1):69-72.
+
+[13]肖琼,肖安风,姚德恒,等.琼胶酶水解工艺条件的优化及产物分析[J].中国食品学报,2015,1 5(12):99-106.
+
+[14] AN Q D,ZHANG G L,WU H T,et al.Alginate-deriving oligosaccharide production by alginase from newly isolated Flavobacterium sp. LXA and its potential application in protection against pathogens[J].Journal of Applied Microbiology,2009,106(1):161-170.
+
+[15] CASTOLDI R,BRACHT A,MORAIS G R D,et al.Biological pretreatment of Eucalyptu S grandis sawdust with white-rot fungi:study of degradation patterns and saccharificati on kinetics[J].Chemical Engineering Journal,2014,258:240-246.
+
+[16] MEYER L,JACQUET N,VANDERGHEM C,et al.Effect of steam explosion pre-treatme nt on enzymatic saccharification of lignocellulosic material[C]/Cost FPO6O2 final Meet ing/Italic 6.Viterbo:COST,2011.
+
+[17]赵政,李旭.乳酸菌和纤维素酶对早稻秸秆青贮饲料品质的试验[J].饲料工业,2010,31(1 7):22-25.
+
+[18]赵国琦,丁健,贾亚红,等.纤维素酶对大黍青贮饲料品质的影响[J].中国畜牧杂志,2003,39(2):9-11.
+
+[19]李富国,张永根,夏科,等.绿汁发酵液和脱氢乙酸钠对水稻秸青贮发酵品质的影响[J].中国饲料,2011(22):20-23.
+
+[20]王兴刚.添加乳酸菌与酶制剂对稻秸青贮品质的影响[D].硕士学位论文.南京:南京农业大学,2013.
+
+[21] VAN KUIJK S J A,SONNENBERG A S M,BAARS J J P,et al.Fungal treated lignoce llulosic biomass as ruminant feed ingredient:a review[J].Biotechnology Advances,2015,3 3(1):191-202.
+
+[22]吕文龙,刁其玉,闫贵龙.不同添加剂对不带穗玉米秸秆青贮发酵品质的影响[J].中国畜牧兽医,2010,37(3):22-26.
+
+[23] NKOSI B D,MEESKE R,PALIC D,et al.Laboratory evaluation of an inoculant for ensi ling whole crop maize in South Africa[J].Animal Feed Science and Technology,2009,1 50(1/2):144-150.
+
+[24]李龙兴.西藏主要农作物秸秆与牧草混合青贮的研究[D].硕士学位论文.南京:南京农业大学,2013.
+
+[25]王力生,齐永玲,陈芳,等.不同添加剂对笋壳青贮品质和营养价值的影响[J].草业学报,2013,22(5):326-332.
+
+[26] ZHANG M F,QIN Y H,MA J Y,et al.Depolymerization of microcrystalline cellulose b y the combination of ultrasound and Fenton reagent[J].Ultrasonics Sonochemistry,2016, 31:404-408.
+
+[27]冯冲凌.黄孢原毛平革菌及其关键功能酶对木质纤维素降解转化特性的研究[D].博士学位论文.长沙:湖南大学,2011.
+
+[28]柳珊,吴树彪,张万钦,等.白腐真菌预处理对玉米秸秆厌氧发酵产甲烷影响实验[J].农业机 械学报,2013,44(增刊2):124-129,142.
+
+[29] 唐洪涛,王锋,李伟明,等.γ射线辐照与NaOH溶液协同预处理对玉米秸秆酶解产糖率及微观结构的影响[J].核农学报,2012,26(3):535-542.
+
+[30] DAI Y Z,SI M Y,CHEN Y H,et al.Combination of biological pretreatment with NaOH /Urea pretreatment at cold temperature to enhance enzymatic hydrolysis of rice straw [J].Bioresource Technology,2015,198:725-731.
+
+[31] WANG F Q,XIE H,CHEN W,et al.Biological pretreatment of corn stover with ligninol ytic enzyme for high efficient enzymatic hydrolysis[J].Bioresource Technology,2013,14 4:572-578.
+
+[32] LEE J W,GWAK K S,PARK J Y,et al.Biological pretreatment of softwood Pinus densi flora by three white rot fungi[J].Journal of Microbiology,2007,45(6):485-491.
+
+[33] PANDEY K K,PITMAN A J.Examination of the lignin content in a softwood and a h ardwood decayed by a brown-rot fungus with the acetyl bromide method and Fourier transform infrared spectroscopy[J].Journal of Polymer Science Part A:Polymer Chemistr y,2004,42(10):2340-2346.
+
+Effect of Different Enzymes and Their Combinations on Microstructure of Rice Straw Silage
+
+WANG Yurong1TAO Lian²MA Tao²SHIChangqing1XU Guishan1DIAO Qiyu1,2\* (1. College ofAnimal Science, Tarim University, Alar 843300, China; 2. Feed Research Institute, Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of Ministry of Agriculture,Beijing 100081, China)
+
+nutritional value,high efficient degrading enzymes for silage fermentation were used to investigate their efects of microstructure of rice straw silage. Silage control (S group), compound enzyme preparation treated (C group), pectinase+laccase treated (PL group), compound enzyme preparation $+$ pectinase+laccase treated (CPL group) and raw material (M group) were used and samples were packaged by vacuum packager in polyethylene bags. After storing at room temperature for $4 5 { \mathrm { ~ d } } .$ ，changes of the silage quality and nutrients content were analyzed using laboratory testing methods,and changes of microstructure were analyzed using phehol-suffufic acid colorimetry, bicinchoninic acid disodium salt (BCA） method,fourier transform infared spectroscopy (FTIR), X-ray diffraction analysis and eosin-methylene blue method. The results showed as follows: 1) compared with the S group, the lactic acid (LA) content in groups PL, C and CPL was significantly increased $( P { < } 0 . 0 5 )$ ,the $\mathsf { p H }$ , ratio of ammonia nitrogen to total nitrogen and content of acetic acid and cellulose were significantly decreased $( P { < } 0 . 0 5 )$ ; the crude protein (CP) content in groups $\mathbf { C }$ and CPL was significantly decreased ( $\scriptstyle ( P < 0 . 0 5 )$ ). 2) Compared with the S group,the polymerization degree of rice straw silage in group PL was significantly decreased （20 $( P { < } 0 . 0 5 )$ ， which was lowered by $3 0 . 2 6 \%$ , the intermolecular hydrogen bond binding force was faded, and specific surface area and crystallinity didn't change $( P { > } 0 . 0 5 )$ ；the polymerization degree of rice straw silage in group C was significantly decreased ( $( P { < } 0 . 0 5 )$ ,which was lowered by $2 7 . 1 1 \%$ ,the intermolecular hydrogen bond binding force was faded,and specific surface area and crystallinity didn't change $( P { > } 0 . 0 5 )$ ; the polymerization degree of rice straw silage in group CPL was significantly decreased $( P { < } 0 . 0 5 )$ , which was lowered by $56 . 3 2 \%$ , the intermolecular hydrogen bond binding force was faded,and specific surface area and crystallinity trend increased $( P { > } 0 . 0 5 )$ Inconclusion，group CPL hasthe best effect，it caneffectivelybreak the lignin-cellulose-hemicelllose composite structure and cellulose degraded into available sugar, improve the nutrient content of rice straw silage fodder, reduce the degree of polymerization and the crystallinity, increase the specific surface area,so as to improve the digestibility and utilization of the straw.
+
+Key words: straw; lignocellulose; microstructure; biological treatment

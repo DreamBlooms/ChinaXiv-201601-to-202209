@@ -1,0 +1,201 @@
+# 电场作用下微液滴变形和破裂的数值研究
+
+崔于桐，王宁宁，刘海湖(西安交通大学能源与动力工程学院，西安710049)
+
+摘要采用电场对微液滴进行精确操控在化工、生物医学、能源和环境领域具有广阔的应用前景。准确预测外加电场作用下粘性液滴的变形与破裂行为，是精确操控微液滴行为的重要前提。本文基于漏电介质模型发展格子 Boltzmann 有限差分混合数值方法对恒稳电场作用下的液滴变形与破裂行为进行研究，结果表明：本文数值方法可对恒稳电场作用下液滴的小变形进行准确预测，验证了该模型的有效性和准确性；对于沿垂直于电场方向变形的液滴(扁平型)，液滴随电场毛细数的增加呈现四种不同的形态：椭圆形、类椭圆形、哑铃型和破裂；对于沿电场方向变形的液滴(扁长型)，其变形参数随电场毛细数的变化与扁平型液滴显著不同，液滴呈现的形态包括椭圆形、类椭圆形、周期振荡和破裂。在液滴变形阶段，扁平或扁长型液滴均随电场毛细数的增加而变形增大；液滴破裂阶段，破裂所需时间均随电场毛细数的增加而缩短。研究工作为深刻认识电场作用下微液滴变形和破裂机制提供理论基础。
+
+关键词格子Boltzmann 方法；液滴变形与破裂；漏电介质模型；电场毛细数中图分类号：TK121 文献标识码：A 文章编号：
+
+# Numerical Study of Microdroplet Deformation and Breakup under a Steady Electric Field
+
+CUI Yu-Tong, WANG Ning-Ning, LIU Hai-Hu (School ofEnergyand Power Engineering,Xi'anJiaotong University,Xi'an 710o49,China)
+
+AbstractManipulation of microdroplets in a precise manner by an external electric field has received much atention due to its importance in the fields of chemical engineering,biomedicine,energy and environment.In order to accurately manipulate the droplet behavior in microfluidic devices,it is necessary to study and gain an in-depth understanding of the deformation and breakup ofa viscous droplet under an external electric field. In this paper,a hybrid method,in which the color latice Boltzmann and the finite diffrence methods are coupled by the leaky dielectric model,is used to study the deformation and breakup of a droplet under a steady electric field.The hybrid method is first validated by simulating the droplet subject to a smalldeformation.We then investigate the influence of the intensity of the electric field,the ratio of the dielectric permitivity inside and outside of the droplet,as wellas theratio of the electricconductivityon the droplet behavior It is found that the oblate droplet can exhibit four different shapes or states,i.e. ellipse,quasi-elipse，dumbbell,and droplet breakup,which are stronglydependent on the electrical capillry number.Distinct from the oblate droplet,the prolate droplet does not exhibit the dumbbellshape but the periodic oscillation.For either prolate or oblate droplet, increasing electrical capillry number leads to an increased droplet deformation when the deformation occurs,and to a shorter time for the droplet to break up when the breakup occurs.This study provides the theoretical foundation for a deep understanding of droplet deformation and breakup in the presence of electric field.
+
+Key WordsLatice Boltzmann method; Droplet deformation and breakup; Leaky dielectric model; Electrical capillary number
+
+# 0引言
+
+微液滴具有体积小、低扩散、无交叉污染、快速的反应动力学、高通量的分析潜力等优点。随着微流控技术的不断进步与发展，微液滴技术在化学、生物医学、能源和环境等领域得到了广泛的关注和应用[1]。例如，在化学领域，液滴微流控正逐步取代传统分析化学中的实验室，微液滴越来越多地作为纳升化学的反应器或合成器，精确控制反应试剂的分子浓度和反应时间，从而自动快速地完成各种复杂的化学反应和分析功能。在微液滴的应用中，液滴动力学行为的精确操控是极其重要的。存在多种方式生成和操控微液滴，其中，电场力操控是一种有效的非接触式方式，并已成功应用于雾化、喷墨打印、增强液滴融合、破乳等行业。在外加电场的作用下，悬浮在粘性液体中的液滴可表现出变形、运动、旋转和破裂[2]等复杂行为。这些复杂行为主要取决于电场强度和流体性质，包括粘性、界面张力、导电性和介电常数等。因此，开展电场作用下液滴变形与破裂行为的研究既是微流控技术发展的内在要求，也可为工业应用电场提供理论指导和技术支撑。
+
+对于电场作用下不混溶液滴变形运动的研究，早期开始于Taylor[2]以及Melcher和Taylor[3]的理论和实验研究工作。Taylor关于液滴变形的理论研究基于一些基本假定，即液滴呈中性、准静态电场、液滴与运载流体均为漏电介质流体、液滴只做微小变形以及液滴表面无电荷移动，相关理论称作漏电介质模型。在这种假设条件下，液滴本身不带电荷，但是允许电荷在液滴表面上堆积。由于电荷堆积速度比流体的运动速度快得多，导致系统电荷出现伪定常分布，电场满足准静态假设。Hua 等人4基于漏电介质模型和理想介质模型，采用前向追踪法对带电液滴在均匀电场中的变形进行了研究，证实该理论可对小变形、有限导电性和介电常数之差的液滴在恒稳电场中的变形做出有效的预测。然而，Torza等人[5实验研究发现液滴变形较大时，Taylor模型的理论解与实验结果存在较大偏差。随后，Ajayi对Taylor所采用的线性理论进行了进一步延伸，提出了含有二阶项的理论模型，但是该模型仍未从根本上解决理论解与实验值之间偏差的问题。
+
+在电场的影响下，液滴不仅产生变形甚至可能破裂；感应电荷在液滴表面聚集，同时液滴内部和外部的粘性流动相互耦合，且内外流体之间存在界面张力，对理论分析电流体动力学问题提出了巨大的挑战。随着计算机运行速度的飞速提高，数值建模和模拟已成为研究电场作用下液滴动力学行为的另一种重要手段。Sherwood[通过边界积分法求解控制电场的拉普拉斯方程和控制流场的斯托克斯方程研究了液滴在电磁场内的破裂。基于漏电介质模型,Baygents[8采用类似的方法研究了均匀电场中两液滴的相互作用。同样基于漏电介质模型，Feng 和Scott9采用贾辽金有限元方法建立了在Stokes流动条件和有限雷诺数下液滴变形与电场强度之间的关系。Lac 和Homsy[10]采用边界积分法对三维液滴在恒稳电场作用下的变形进行了数值研究。Fernandez等人[11]分析了槽道中的液滴在电场力作用下的变形。Tomar等人[12使用Volume-of-Fluid方法模拟了导电液滴在电场作用下的变形行为。
+
+近年来，格子Boltzmann方法(LBM)已发展成为模拟复杂流体流动的一种有效数值工具。LBM具有天生的并行特性，以及边界处理简单、程序易于实施等优点。此外，LBM的动理论特性使得它能够方便地描述不同相间的相互作用，自动追踪相界面。因此，LBM特别适合于模拟微液滴动力学行为。本文基于LBM 颜色模型[13.14]对两相流动进行求解,并采用有限差分法对电场控制方程进行求解，两种方法通过漏电介质模型进行耦合，对恒稳电场作用下不可压粘性液滴的变形与破裂行为进行数值研究，揭示电场强度、液滴内外介质介电常数比和电导率比对液滴行为的影响规律。
+
+# 1研究对象及方法
+
+# 1.1研究对象
+
+将初始半径为 $R _ { d }$ 、电中性的二维圆形液滴置于两平行板电容器所形成的恒稳电场下，液滴位于两板中心并悬浮于运载流体中。根据对称性，本文取液滴水平轴线以上为计算域，几何模型如图1所示。上极板具有恒定电势 $\phi$ ，计算域下边界为水平对称轴，其电势为零，在系统中存在着垂直向下、强度为 $E$ 的恒稳电场。
+
+液滴与运载流体分别用下角标及‘ $\dot { } o$ 表示，其物理性质分别为：密度 $\rho _ { i } \setminus \rho _ { o }$ ；电导率 $\sigma _ { i } , \sigma _ { o }$ ：介电常数 $\varepsilon _ { i } \setminus \varepsilon _ { o }$ ；以及动力粘度 $\mu _ { i } \setminus \mu _ { o }$ 。通过它们可以定义以下无量纲参数，即密度比$M = \rho _ { i } / \rho _ { o }$ ，电导率比 $R = \sigma _ { i } / \sigma _ { o }$ ，介电常数比${ \cal Q } { = } \varepsilon _ { i } / \varepsilon _ { o }$ ，及粘性比 $\lambda { = } \mu _ { _ i } / \mu _ { _ o }$ 。为简单起见，本文假设液滴与运载流体具有相同的密度和粘度，且忽略重力的影响。液滴和外部运载流体之间界面张力系数为γ。
+
+![](images/a90c8a803a6ee7b3485e7aeda8e1ee045a77ea0ecc32e9617c921fa23c76434b.jpg)  
+图1恒稳电场作用下液滴几何模型示意图(中间点划线为竖直方向对称轴)
+
+Fig.1 Sketch of the geometrical modelofa droplet immersed in a second fluid and subject to a steady electric field(the middle dash-dot line represents the symmetry axis in the vertical direction)
+
+由于仅在液滴表面存在电荷，所以电场力仅作用在液滴表面，并通过电场毛细数 $C a _ { E }$ 表征电场强度与界面张力的相对大小，其定义为：
+
+$$
+C a _ { _ { E } } = \frac { E ^ { 2 } \varepsilon _ { o } R _ { d } } { \gamma }
+$$
+
+Taylor采用线性模型[2]计算漏电介质液滴在恒稳电场中的稳定形态，发现液滴在电场作用下会出现扁平型或扁长型。根据Taylor理论，引入变形参数 $D$ 定量描述液滴的变形：
+
+$$
+D = \frac { L - B } { L + B }
+$$
+
+其中， $L$ 和 $B$ 分别为液滴的长轴和短轴长度。电场作用下液滴的变形主要取决于以下无量纲参数：电导率之比 $R$ ，介电常数之比 $\varrho$ 和电场毛细数 $C a _ { E } .$ 0
+
+针对恒稳电场作用下二维液滴的变形运动，Feng等人借鉴Taylor模型推导出变形参数的理论解[15]为
+
+$$
+D _ { f } = \frac { f _ { d } \left( R , \mathcal { Q } \right) } { 3 ( 1 + R ) ^ { 2 } } C a _ { E }
+$$
+
+其中 $f _ { d } = R ^ { 2 } + R + 1 - 3 Q$ 为指示函数。可根据指示函数的正负判定液滴的变形方式： $f _ { d } > 0$ 时，液滴沿电场强度方向变形，为扁长型； $f _ { d } < 0$ 时，液滴沿垂直于电场强度的方向变形，为扁平型。
+
+值得指出，计算区域的大小取决于液滴的变形情况，设置原则为在尽量节省计算成本的前提下，液滴两端与计算区域边界始终保持合理的距离。在无特殊说明的情况下，本文对称计算区域的尺寸给定为 $8 R _ { d } \times 4 R _ { d }$ 。
+
+# 1.2研究方法
+
+本文采用格子Boltzmann颜色模型[14]对两相流动进行求解。在颜色模型中，采用不同的颜色来区分不同的流体，不同流体之间的相互作用通过引入颜色梯度来实现，采用Brackbill等人[16的连续表面力模型建模界面张力，并通过Guo 等[17的体积力格式引入到模型中。然而，该处理并未保证两相流体互不相溶的特性。为促使液滴与运载流体两相分离并维持相界面的存在，采用Latva-Kokko和Rothman[18]所提出的算式重新标色算法，该算法能够保持界面的各向同性同时有效减少相界面处的假拟速度[13]。为提升模型的数值稳定性，采用多松弛时间(MRT)模型[19处理碰撞项。图1中计算域上边界采用半步长反弹实施无滑移边界条件，下边界为对称边界条件，左右边界为周期性边界条件。
+
+根据Melcher和Taylor[3]以及Saville等[20]对电流体动力学的研究，由于液滴表面的动态电流很小、磁效应的影响可以忽略，因此电场强度 $E$ 是无旋的0 $\nabla \times \pmb { { \cal E } } = 0$ )，并且与电势的关系可表述为
+
+$$
+E = - \nabla \Phi
+$$
+
+流体系统采用漏电介质模型描述，即认为液滴具有一定的导电能力；由于电荷在界面上所聚集的速度远高于流体运动的时间尺度，所以可对电荷控制方程做准静态简化，即
+
+$$
+\nabla \cdot \left( { \boldsymbol { \sigma } } { \boldsymbol { E } } \right) = 0
+$$
+
+将方程(4)代入到方程(5)，可获得流体的电荷守恒方程为
+
+$$
+\nabla \cdot \left( \sigma \nabla \Phi \right) = 0
+$$
+
+对于不可压缩流体，作用在相界面处的电应力$F _ { _ { E S } }$ 可写为：
+
+$$
+\boldsymbol { F } _ { E S } = \boldsymbol { \nabla } \cdot \boldsymbol { \tau } ^ { M } = - \frac { 1 } { 2 } \boldsymbol { E } \cdot \boldsymbol { E } \boldsymbol { \nabla } \varepsilon + \boldsymbol { q } ^ { \nu } \boldsymbol { E }
+$$
+
+其中， $\tau ^ { M }$ 为麦克斯韦应力张量， $q ^ { \nu } = \nabla \cdot \left( \varepsilon E \right)$ 为电荷在界面处的体密度。在具体实施过程中，首先采用有限差分法离散求解方程(6)获得电势，然后通过方程(4)获得电场强度，进一步通过方程(7)计算作用在相界面处的电应力并与格子Boltzmann颜色模型相耦合。
+
+# 2模型验证
+
+本节通过模拟电场毛细数 $C a _ { E }$ 对液滴变形的影响，并与 Feng 等[15]提出的理论解相比较，验证所发展模型的准确性。不失一般性，考虑三组典型的$( R , { \cal Q } )$ 值，分别为(1.75，3.5)， $f _ { d } { = } - 4 . 6 9 { < } 0$ ；(3.25,3.5)， $f _ { d } { = } 4 . 3 1 { > } 0$ ；(4.75，3.5)， $f _ { d } { = } 1 7 . 8 1 { > } 0$ 。对于每组 $( R , { \cal Q } )$ 值，研究液滴变形参数 $D$ 随电场毛细数$C a _ { E } ( 0 \leq C a _ { _ E } \leq 1 )$ 的变化规律。
+
+![](images/ba8a5747a59f271be2ecc68bd3064155187b2ae46176c3cbdbf8e4ae70161e55.jpg)  
+图2不同 $( R , { \cal Q } )$ 情况下，液滴变形参数 $D$ 随电场毛细数 $C a _ { E }$ 的变化。实线为Feng等[15]的理论解；符号为本文的模拟结果
+
+Fig.2Deformation parameter $D$ as a function of $C a _ { E }$ at different $( R , { \cal Q } )$ values.The solid lines are the theoretical values   
+calculated from Feng et al.[15], while the discrete symbols are the simulation results
+
+从图2可知，对于任何一组 $( R , { \cal Q } )$ 值，液滴变形(扁平或扁长)程度随电场毛细数 $C a _ { E }$ 的增加而增加。电场毛细数 $C a _ { E }$ 小于0.3时，模拟结果与理论解吻合良好；然而， $C a _ { E }$ 大于0.3时，对于 $R { = } 1 . 7 5$ 或$R { = } 4 . 7 5$ ，由于液滴变形较大，不再满足理论推导中所做的小变形假设，模拟结果与理论解发生偏差，并且偏差随 $C a _ { E }$ 的增大而增大。 $\mathrm { H u }$ 等人[21]对于三维液滴变形的数值模拟也得出与之相似的结论。图3给出了四种参数条件下液滴稳态变形情况、流线和速度矢量图。从中可以看出，扁平和扁长型液滴内的环流方向刚好相反。
+
+以上研究结果表明，本文数值模型在恒稳电场作用下液滴小变形的数值模拟中，体现了良好的数值精度和模型稳定性。
+
+![](images/46fda7239ac677a8dab74478f2e2eec8421bd9de5d74709b182f8a66185e1115.jpg)  
+图3不同参数条件下稳态的液滴形状、流线(左)及速度矢量分布(右):(a) $R { = } 1 . 7 5$ ， $Q { = } 3 . 5$ ， $C a _ { E } { = } 0 . 5$ ； (b) $R { = } 1 . 7 5$ ， $Q { = } 3 . 5$ ，$C a _ { E } { = } 1 . 0$ ； (c) $R { = } 4 . 7 5$ ， $Q { = } 3 . 5$ ， $C a _ { E } { = } 0 . 5$ ； (d) $R { = } 4 . 7 5$ ， $Q { = } 3 . 5$ $C a _ { E } { = } 1 . 0$ 。其中，蓝色实线为液滴相界面Fig.3 The steady droplet shape,streamlines (left half) and thevelocity vectors (right half) for (a) $R { = } 1 . 7 5$ ， $Q { = } 3 . 5$ ， $C a _ { E } { = } 0 . 5$ (b) $R { = } 1 . 7 5$ ， $Q { = } 3 . 5$ ， $C a _ { E } { = } 1 . 0$ ；(c) $R { = } 4 . 7 5$ ， $Q { = } 3 . 5$ ， $C a _ { E } { = } 0 . 5$ (d) $R { = } 4 . 7 5$ ， $Q { = } 3 . 5$ ， $C a _ { E } { = } 1 . 0$ . The blue lines represent thedroplet interfaces
+
+# 3结果与讨论
+
+# 3.1液滴扁平型变形及破裂
+
+指示函数 $f _ { d } { < } 0$ 时，液滴会发生扁平型变形，随着电场毛细数 $C a _ { E }$ 的进一步增大，液滴将可能发生破裂。图4给出了 $R { = } 0 . 1$ ， $Q { = } 2 . 0$ 时的液滴变形参数$D$ 随电场毛细数 $C a _ { E }$ 的变化情况。
+
+从图4可以看出，液滴变形参数 $D$ 值为负数，表明液滴沿着与电场强度垂直的方向变形，并且随着电场毛细数 $C a _ { E }$ 的增加而增大。根据毛细数的大小，我们观察到四种不同的液滴形态：椭圆形、类椭圆形、哑铃形和液滴破裂。当电场毛细数$C a _ { E } { \le } 0 . 0 4$ 时，稳态液滴为椭圆形，模拟结果与Feng等[15]的理论解吻合良好；当电场毛细数$0 . 0 4 < C a _ { E } < 0 . 1 4$ 时，稳态液滴为类椭圆形，模拟结果开始与理论解出现差异(因变形较大，小变形假设不再适用);当 $0 . 1 4 \leq C a _ { E } { < } 0 . 1 7$ 时，液滴长轴继续增大，短轴进一步减小，稳态液滴为沿着水平方向的哑铃形。值得强调，当电场毛细数 $C a _ { E } { = } 0 . 1 4$ 左右时，液滴变形参数 $D$ 发生了突变，液滴表面的电应力不再能被液滴内部环流所产生的粘性应力所平衡，液滴被拉伸为两头大中间扁的哑铃型，直到电场力与流场的切应力达到新的平衡。图5给出了 $C a _ { E } { = } 0 . 1 3 9$ 及0.168条件下稳态液滴形状、流线(左)和速度矢量分布图(右)，此时液滴长宽比大于7。从中可以看出液滴在水平方向上的长度随电场强度的增加而增长，且液滴的变形参数 $D$ 趋于-1。
+
+当电场毛细数增加到 $C a _ { E } { = } 0 . 1 7$ 左右时，液滴在恒稳电场的作用下发生破裂。如图6所示，在电场力的作用下，液滴中部发生收缩，沿水平方向整体拉伸为哑铃型。在液滴破裂过程中，液滴未在竖直中轴线处发生断裂，而是在左右哑铃型的颈部发生断裂。断裂后形成两个对称的大液滴和中间一个小液滴，中间的小液滴会在界面张力的主导下重新收缩为椭圆形，而左右的两个大液滴会在电场力的作用下拉伸为不对称的哑铃型。
+
+![](images/e1396dae663f1707b532293ba062c39093c820aa0a43215d8af8aa52f8c78556.jpg)  
+图 $4 R { = } 0 . 1$ ， $Q { = } 2 . 0$ 时，液滴变形参数 $D$ 随电场毛细数 $C a _ { E }$ 的变化。黑色实线为Feng等[15]的理论解，红色离散点为本文的模拟结果
+
+Fig.4 Deformation parameter $D$ as a function of the   
+electrical capillary number $C a _ { E }$ for $R { = } 0 . 1$ and $Q { = } 2 . 0$ .The black   
+line is the theoretical results from Feng et al.[15], while the red circles are the simulation results
+
+![](images/9fe8d233a62cde34cbd25e4fa9330684de08927a3078c4a10b2155df1ce21e50.jpg)  
+图 $5 \ R { = } 0 . 1$ 5 $Q { = } 2 . 0$ 时，不同电场毛细数下稳态液滴形状、流线(左)和速度矢量分布(右)：(a) $C a _ { E } { = } 0 . 1 3 9$ (b)
+
+$C a _ { E } { = } 0 . 1 6 8$ 。其中蓝色实线为液滴相界面
+
+Fig.5 The steady droplet shape, streamlines (left half) and   
+the velocity vectors (right half) at $R { = } 0 . 1$ and $Q { = } 2 . 0$ for (a)   
+$C a _ { E } { = } 0 . 1 3 9$ and (b) $C a _ { E } { = } 0 . 1 6 8$ . The blue lines represent the droplet interfaces
+
+![](images/150bcd1472d6a5d79ed66ef2193da365ad097cd817a97e19aec3d509fe9c2f0b.jpg)  
+图 $5 \ C a _ { E } { = } 0 . 1 7 6$ 时液滴破裂过程图  
+Fig.6 The snapshots of the droplet breakup when
+
+# 3.2液滴扁长型变形与破裂
+
+当指示函数 $f _ { d } { > } 0$ 时，液滴会发生扁长型变形。本节选取 $R { = } 1 0$ ， $Q { = } 0 . 2$ 研究不同电场毛细数下液滴扁长型变形与破裂行为。
+
+在模拟中我们发现，液滴在电场毛细数 $C a _ { E }$ 从零增大的过程中会呈现四种不同的形态：椭圆形、类椭圆形、液滴振荡和液滴破裂。如图7所示，电场毛细数 $C a _ { E }$ 较小时 $( C a _ { E } { \le } 0 . 2 )$ ，液滴变形也较小，沿电场强度方向被拉伸为椭圆形，与理论预测吻合良好。随着电场毛细数 $C a _ { E }$ 的增大，液滴变形增加，逐渐偏离椭圆形(类椭圆形液滴)。如图8所示，当$0 . 6 { \le } C a _ { E } { \le } 0 . 8 8$ 时，液滴变形参数 $D$ 经历类阻尼振荡，即液滴在经过一段时间后最终趋向于平衡状态，而且 $C a _ { E }$ 越大，液滴变形参数 $D$ 的峰值越高，达到稳态所需的时间越长。随着 $C a _ { E }$ 继续增加$( C a _ { E } { > } 0 . 8 8 )$ ，扁长型液滴的变化与扁平型液滴的变化出现显著不同：扁长型液滴在恒稳电场的作用下发生周期性振荡，且振荡频率与振幅不随时间改变。该物理现象在以往研究中未见报道。当周期性振荡出现时，随 $C a _ { E }$ 的增大，液滴变形参数 $D$ 的振荡平均值增大，振荡频率稍许提高，振幅减小。
+
+![](images/d238a843d4cdd29fb9df0cc46e6262808fccd929781d4726a2e5c96de9eb9ab1.jpg)  
+图 $7 R { = } 1 0$ $Q { = } 0 . 2$ 时，液滴变形参数 $D$ 随电场毛细数$C a _ { E }$ 的变化。黑色实线为Taylor理论解；红色离散点为本文模拟结果
+
+Fig.7 Deformation parameter $D$ as a function of the electrical capillary number $C a _ { E }$ for $R { = } 1 0$ and $Q { = } 0 . 2$ .The black line is the theoretical results from Feng et al.[15], while the red circles are the simulation results
+
+图9展示了电场毛细数 $C a _ { E } { = } 1 . 0 0$ 时的液滴振荡变形图，其中图9(a)给出了半个振荡周期内5个等间隔时刻(见图 9(b))液滴的界面形状。由图 9(a)可知，液滴呈现哑铃形状的时间为(t1-t4)，远长于呈现椭圆形状(t5)的时间。
+
+置于恒稳电场中的静止液滴，会在液滴相界面处产生感应电荷，电场提供给液滴的能量转化为液滴相界面处流体的动能，使得液滴被逐渐拉长。随着液滴在电场方向上的拉伸，液滴表面由恒稳电场存在而产生的感应电荷量逐渐减少，电场力也随之减弱。与此同时，随着液滴变形量的增加，作用在相界面上的界面张力不断增大。在液滴被拉长的过程中，存在某一时刻，界面张力对液滴的作用超过电场力的作用，而且液滴的动能也因液滴内外环流的存在而逐渐耗散，动能耗散为零时，液滴变形参数达最大值(见图9中 $t _ { I }$ 时刻)。随后，液滴在界面张力的作用下收缩；随着液滴的收缩，界面张力逐渐减小，液滴表面的感应电荷增加，电场力增大，再次达到液滴动能为零时，液滴变形参数 $D$ 达最小值，液滴又将在电场力的作用下被拉长，重复上述过程。因此，在某一电场毛细数 $C a _ { E }$ 的范围内，液滴在电场力与界面张力的共同作用下发生周期振荡。
+
+![](images/8791fdb19f1c7cf7c3fded6835906836d4d65f97751aa9e130e0a081553b976b.jpg)  
+图8液滴变形参数 $D$ 随时间步 $\mathbf { \chi } _ { t }$ 的变化曲线Fig.8 The droplet deformation $D$ versus time step $t$
+
+![](images/36ff910f4e46e2a5bc84cdf7170b474a7859b094afd19b920994a7a8b21fd823.jpg)  
+图9 $\cdot C a _ { E } { = } 1 . 0 0$ 时，(a)几个典型时刻的液滴形状；(b)周期性振荡液滴的变形参数随时间的演化。其中(a)图中各时刻在 $D \mathrm { - } C a _ { E }$ 曲线上的位置已标注于(b)图; $t _ { \theta }$ 对应初始液滴未发生形变的时刻
+
+Fig.9 (a) The droplet shapes at several typical times and (b) the time evolution of the deformation parameter $D$ during   
+the droplet oscillation when $C a _ { E } { = } 1 . 0 0$ .Note that the times in (a)   
+are labelled on the D- $C a _ { E }$ curve in (b).The black lines represent the initial shape of the droplet
+
+电场毛细数 $C a _ { E }$ 增加到足够大时 $( \mathrm { C a } _ { E B } 7 . 2 4 )$ ，液滴将在恒稳电场的作用下发生破裂。对于扁长型变形的液滴，当沿电场强度方向被拉长时，其水平方向受力平衡，并在水平对称轴上的液滴界面宽度趋于零时发生破裂，如图10所示。液滴破裂为三个子液滴，在中轴线处有少量的液滴残余，上下等量的两部分被拉伸为长条形并沿着电场方向移动。值得指出，扁长型液滴破裂时的变形参数 $D$ 约为0.99(即液滴的长宽比约为100:1)，该参数(子液滴的大小)几乎不随 $C a _ { E }$ 的增加而变化，而液滴破裂所需时间随 $C a _ { E }$ 的增大而减小。
+
+![](images/977477d554e32103d69d17a7adc9f279f9bb8e548f1fb87d46b91a1913dabccc.jpg)  
+图 $1 0 ~ C a _ { E } { = } 2 . 2 6$ 时，液滴破裂过程图Fig.10 The snapshots of the droplet breakup when
+
+基于上述讨论，针对扁长型变形的液滴，可以得出以下结论：在恒定介电常数比 $\varrho$ 和电导率比 $R$ 的情况下，液滴存在两个电场临界毛细数，分别为区分液滴发生稳态变形或发生周期性振荡的临界毛细数 $C a _ { E V }$ ，和液滴破裂的最小电场毛细数 $C a _ { E B }$ 。对于当前算例 $( R { = } 1 0 , Q { = } 0 . 2 )$ ，振荡临界毛细数 $C a _ { E V }$ 在区间(0.87,0.89)中，破裂临界毛细数 $C a _ { E B }$ 在区间(2.24,2.26)中。
+
+4结论
+
+本文基于格子Boltzmann颜色模型计算两相流动、有限差分方法计算电场，并通过漏电介质模型耦合，发展出混合数值方法对恒稳电场作用下液滴变形与破裂行为进行研究。针对不同拉伸方向的液滴变形数值研究发现，液滴变形(扁平或扁长)均随电场毛细数的增加而增加；电场毛细数较小时（2 $( C a _ { \mathrm { E } } { < } 0 . 3 )$ ，本文模拟结果与Feng 等[l的理论解完全吻合；电场毛细数较大时，由于液滴变形不符合小变形假设，模型结果与理论解出现偏差，并且偏差随 $C a _ { \mathrm { E } }$ 的增大而增大。
+
+本文也研究了电场毛细数对液滴变形及破裂现象的影响规律。对于扁平型变形的液滴 $( f _ { d } { < } 0 , R { = } 0 . 1$ $Q { = } 2 . 0 )$ ，液滴沿着垂直于电场强度的方向上拉伸，液滴随电场毛细数的增加呈现四种不同的形态：椭圆形 $( C a _ { E } \underline { { < } } 0 . 0 4 )$ 、类椭圆形 $( 0 . 0 4 < C a _ { E } < 0 . 1 4 )$ 、哑铃型 $( 0 . 1 4 \leq C a _ { E } { < } 0 . 1 7 )$ )及破裂(破裂临界毛细数 $C a _ { E }$ 约为0.17)。对于扁长型变形的液滴 $( f _ { d } { > } 0$ ， $R { = } 1 0$ ，$Q ^ { = 0 . 2 ) }$ ，液滴沿着电场强度方向发生拉伸变形，其变形参数 $D$ 随电场毛细数的变化与扁平型液滴显著不同，液滴呈现的形态有：椭圆形 $( C a _ { E } { \le } 0 . 2 )$ 、类椭圆形 $( 0 . 2 { < } C a _ { E } { \leq } 0 . 8 8 )$ 、周期振荡 $( 0 . 8 8 < C a _ { E } \leq 2 . 2 4 )$ 及破裂 $( C a _ { E B }  – 2 . 2 4 )$ 。液滴变形阶段，扁平或扁长型液滴变形参数 $D$ 均随电场毛细数的增加而增大；液滴破裂阶段，破裂所需时间均随电场毛细数的增加而缩短。
+
+# 参考文献
+
+[1] 邓楠楠，汪伟，巨晓洁，等．微流控技术操控 微尺度液滴及其聚并的研究进展[J]．中国科 学：化学,2015,45(1): 7-15. Deng N, Wang W, Ju X, et al. Recent advances in microscale droplets [J]. Scientia Sinica Chimica, 2015,45(1): 7-15.   
+[2] Taylor G.Studies in electrohydrodynamics.I. The circulation produced in a drop by electrical field [C]//Proceedings of the Royal Society ofLondon A: Mathematical， Physical and Engineering Sciences. The Royal Society，1966,291(1425): 159-166.   
+[3] Melcher JR, Taylor G I. Electrohydrodynamics: a review of the role of interfacial shear stresses [J]. Annual Review of Fluid Mechanics,1969,1(1): 111-146.   
+[4]Hua J，Lim L K，Wang C H. Numerical simulation of deformation/motion of a drop suspended in viscous liquids under influence of steady electric fields [J]. Physics of Fluids, 2008, 20(11): 113302.   
+[5] TorzaS， Cox R G， Mason SG. Electrohydrodynamic deformation and burst of liquid drops [J]. Philosophical Transactions of the Royal Society of London A: Mathematical, PhysicalandEngineeringSciences， 1971, 269(1198): 295-319.   
+[6] Ajayi 0 0. A note on Taylor's electrohydrodynamic theory [C]/Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences. The Royal Society, 1978, 364(1719): 499-507.   
+[7] Sherwood J D. Breakup of fluid droplets in electric and magnetic fields [J]. Journal of Fluid Mechanics,1988,188: 133-146.   
+[8]Baygents J C， Rivette N J， Stone H A. Electrohydrodynamic deformation and interaction of drop pairs [J]. Journal of Fluid Mechanics, 1998, 368: 359-375.   
+[9] Feng J Q, Scott T C. A computational analysis of electrohydrodynamics of a leaky dielectric drop inan electric field [J]. Journal of Fluid Mechanics, 1996,311: 289-326.   
+[10] Lac E,Homsy G M. Axisymmetric deformation and stability of a viscous drop in a steady electric field [J]. Journal of Fluid Mechanics, 2007, 590: 239-264.   
+[11] Fernandez A，Tryggvason G, Che J,et al. The effects of electrostatic forces on the distribution of drops in a channel flow: Two-dimensional oblate drops [J].Physics of Fluids,2005,17(9): 093302.   
+[12] Tomar G, Gerlach D, Biswas G, et al. Two-phase electrohydrodynamicsimulations using a volume-of-fluidapproach[J].Journalof Computational Physics, 2007,227(2): 1267-1285.   
+[13] Halliday I，Hollis A P，Care C M. Lattice Boltzmann algorithm for continuum multicomponent flow [J]. Physical Review E, 2007, 76(2): 026708.   
+[14] Liu H, Ju Y,Wang N, et al. Lattice Boltzmann modeling of contact angle and its hysteresis in two-phase flow with large viscosity difference [J]. Physical Review E,2015, 92(3): 033306.   
+[15]Feng JQ.A 2D electrohydrodynamic model for electrorotation of fluid drops [J]. Journal of Colloid and Interface Science，2002，246(1): 112-121.   
+[16] Brackbill J U，Kothe D B，Zemach C．A continuum method for modeling surface tension [J].Journal of Computational Physics,1992, 100(2): 335-354.   
+[17] Guo Z, Zheng C, Shi B.Discrete lattice effects on the forcing term in the lattice Boltzmann method [J]. Physical Review E,2002, 65(4): 046308.   
+[18]Latva-Kokko M， Rothman D H. Diffusion properties of gradient-based lattice Boltzmann models of immiscible fluids [J]. Physical Review E,2005, 71(5): 056702.   
+[19] Lallemand P,Luo L S. Theory of the lattice Boltzmannmethod:Dispersion， dissipation, isotropy，Galilean invariance,and stability [J]. Physical Review E,2000, 61(6): 6546.   
+[20] SavilleDA.Electrohydrodynamics:the Taylor-Melcherleakydielectricmodel[J]. Annual Review of Fluid Mechanics, 1997, 29(1): 27-64.   
+[21] Hu W F,Lai M C,Young Y N. A hybrid immersed boundary and immersed interface method for electrohydrodynamic simulations [J]. Journal of Computational Physics, 2015，282: 47-61.

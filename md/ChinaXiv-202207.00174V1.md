@@ -1,0 +1,169 @@
+# 老年人群共病问题现状挑战与应对策略
+
+章轶立1黄馨懿²齐保玉³孙传睿王晓阳3,4 魏戌3”谢雁鸣 5\* 10.12114/j.issn.1007-9572.2022.0514
+
+基金项目：中国中医药循证医学中心“业务研究室主任专项”（2020YJSZX-4)；中国中医科学院科技创新工程重大攻关项目（CI2021A02013)；江苏高校优势学科建设工程资助项目(PADP)；南京中医药大学特聘教授启动资金项目；南京中医药大学罗林秀基金项目(LLX202205)
+
+1.210023 江苏省南京市，南京中医药大学中医学院·中西医结合学院 2.100029北京市北京中医药大学中医学院3.100102北京市 中国中医科学院望京医院4.712046 陕西省咸阳市，陕西中医药大学 5.100700 北京市 中国中医科学院中医临床基础医学研究所  
+\*通信作者：魏戌，研究员；E-mail:weixu.007@163.com 谢雁鸣，研究员；E-mail:ktzu2018@163.com
+
+# Current challenges and strategies for coping with multimorbidity in the elderly population
+
+ZHANG YiLi', HUANG XinYi², QI BaoYu, SUN ChuanRui³, WANG XiaoYang4, WEI $\mathrm { X u } ^ { 3 }$ , XIE YanMing5   
+1. School of Traditional Chinese Medicine & School of Integrated Chinese and Western Medicine, Nanjing University ofChinese Medicine, Nanjing 210023, China;   
+2. School of Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China;   
+3. Wangjing Hospital, China Academy of Chinese Medical Sciences, Beijing 100102, China;   
+4. Shaanxi University of Chinese Medicine, Xianyang 712046, China;   
+5. Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing 100700, China   
+\*Corresponding author: WEI Xu, researcher; $E$ -mail: weixu.007@163.c0m XIE YanMing, researcher; E-mail: ktzu2018@163.com
+
+【摘要】中国已进入老龄化社会，共病是老年人群较为突出的公共健康问题。总结梳理老年人群共病领域研究现状，分析探讨相应策略对于老年共病人群的临床综合管理具有重要意义。本文重点从共病管理研究实践、共病诊疗模式、共病用药策略、共病医护团队及健康管理服务体系建设方面分析了该领域研究现状，同时提出建立以患者为中心的共病管理研究方案、推广应用老年共病评估工具、开展共病共有病因及机制研究、制定共病管理规范性指南/共识、借鉴中医学“以证统病”“整体观念”思想、融合互联网 $+$ 技术与智能可穿戴设备及开展共病早期风险评估与管理等应对策略，综合展望共病领域后期研究方向，以期为该领域进一步深入研究提供参考。
+
+【关键词】 共病；骨质疏松症；老龄化；多重用药
+
+# 【中图分类号】 【文献标识码】 A
+
+Abstract: China has entered an aging society, and multimorbidity is a prominent public health problem in the elderly population. It is important to summarize the research in the field of multimorbidity in the elderly population and to analyze and discuss the strategies for the comprehensive clinical management of the elderly multimorbidity population. Herein, we analyzed the current status of research in this field in terms of multimorbidity management practice,multimorbidity diagnosis and treatment model, multimorbidity medication strategy and multimorbidity medical and nursing team building. Meanwhile,we proposed to establish a patient-centered multimorbidity management research program, promote the application of geriatric multimorbidity assessment tools， conduct research on the common etiology and mechanismofco-morbidity， developstandardizedguidelines/consensuson multimorbidity management, and draw on the "Holism concept of TCM" of "Treating diseases with syndrome", integrate Internet+ technology and smart wearable devices, and conduct early risk assessment and management of multimorbidity. We provided a comprehensive outlook on late research directions in the field of multimorbidity with the aim of providing a reference for further in-depth research in this field.
+
+Key words: multimorbidity; osteoporosis; aging; polypharmacy
+
+随着1970年Feinstein教授首次提出“共病”概念[1],“多病”、“终生共病”等衍生概念也相继出现[2.3,4]。2008 年，世界卫生组织（WHO）将“共病”定义为“同时具有多种长期且需要持续性、多样化治疗的健康问题”[5]。英国医学杂志（BMJ）最新数据表明，世界高收入国家共病现象主要由年龄驱动，随着人口结构的变化，患有两种或两种以上疾病的人口比例正在稳步增加，且这一趋势将进一步持续[6]。
+
+伴随我国公共卫生保健政策的不断健全与医疗水平的进一步提高，2019 年人均期望寿命提升至 77.3岁[7]。因此共病人群比例提高、老年人口医疗保障需求持续增加等社会现象亟待引起关注[8]。《"十四五”健康老龄化规划》表明， $78 \%$ 以上的老年人至少患有一种以上慢性病[9]。2018年《中国老年疾病临床多中心报告》显示，近年来我国老年住院患者慢性病和共病现象尤为突出，人均患病4.68种，共病率高达 $91 . 3 6 \%$ ；共病模式方面，缺血性心脏病合并高血压居于首位[10]。共病不仅使老年人的功能状态下降、生活质量下降，还使得失能、衰弱、死亡及多重用药风险大大增加，导致医疗保障需求不断增加，这对共病卫生健康管理提出了更高要求。
+
+因此，着眼国家卫生健康政策导向及人民群众基本医疗保健需求，本文从老年人群共病问题切入，总结梳理老年人群共病领域的研究内容，并分析探讨相应策略，以期为我国老年共病研究与临床实践提供思路。
+
+# 1老年共病问题现状与挑战
+
+# 1.1老年共病医疗管理研究与实践尚需发展
+
+与单一慢性病相比，共病除降低患者健康相关生命质量、增加患者医疗保健支出外，还增加了患者健康状况评估和管理难度，使医疗决策做出的程序变得更加复杂困难。在共病管理政策和指南制定方面，我国尚处于起步阶段。目前，虽然多数单一病种具备了相应指南/专家共识[11,12]规范临床实践活动，但仅仅依据各专病指南对共病进行管理则难免造成决策的偏颇，这就要求政府决策机构、医疗卫生人员、科学研究人员等进一步提高对共病政策制定和综合管理的重视程度。
+
+此外，老年共病患者需求难以被传统的医疗服务管理模式满足。目前，由于共病门诊科室及相关管理手段方法的欠缺，共病患者需多次辗转于不同科室。老年人行为能力较差，就诊困难；单一专科诊室的医嘱难以针对共病人群进行全面治疗。并且，因患者对自身共病情况所知甚少，向某专科诊室医生描述共患疾病时往往出现偏差。因此，我国共病管理的研究与实践亟待加强，共病管理范围应当从单一病种管理向共病综合管理转变。
+
+# 1.2以单病为导向临床诊疗模式急需突破
+
+《Nature》杂志评论文章表明，现阶段临床实践和科学研究多数仍是围绕单一疾病或系统展开。然而，多种疾病相互影响而综合形成的人体累积效应，往往并不是几种单一医疗决策简单叠加可以应对的[13]。同时，临床研究往往将患有共病的老年人群排除在外。因此，依照单病种指南制定的针对特定疾病的诊断和治疗方案，可能并不适用于共病、高龄的老年人群[14]。
+
+改善老年人的功能状态和生活质量是老年医学的宗旨，其对于共病的处理，不是将治疗疾病的方案简单叠加，而是需要根据老年人的具体情况综合评估，全面掌握老年患者的身体状况，随后进行全面管理、综合干预，增强老年人群的健康管理意识，最终提高健康期望寿命。
+
+# 1.3老年共病人群多重用药问题亟待解决
+
+老年患者作为特殊群体之一，身体代谢能力下降的同时受多种疾病困扰。在服用不同种类及作用机制的药物后，更容易发生药物不良反应，不仅影响疗效，还会加重患者身体代谢负担，严重影响共病预后[15]。
+
+老年共病人群多重用药问题主要体现在以下方面[16]： $\textcircled{1}$ 多种药物同时治疗现象普遍，药物种类繁多、服用方式复杂，导致患者依从性较差。有研究表明，门诊、社区老年患者使用至少5种药物[17]，65 岁以上社区老年人多重用药率为$3 7 \% ^ { [ 1 8 ] }$ ；住院患者中5种以上多重用药比例占 $4 3 . 8 \% ^ { [ 1 1 ] }$ 。 $\textcircled{2}$ 剂量或疗程不当、重复治疗和潜在相互作用等情况普遍存在[19]，增加了药物不良反应/不良事件的出现风险，进而导致患者生活质量降低。
+
+随着《老年人多重用药安全管理专家共识》[20]的发布，未来需进一步探索和发现更多提高老年共病多重用药安全性的有效措施，减少药物治疗不良反应及疾病不良临床结局风险，促进疾病好转与康复，提高老年人生活质量。
+
+# 1.4老年共病医护团队规模与能力仍需提高
+
+考虑到老年共病患者患有多种疾病且需长期护理的特点，全科医生成为共病诊疗管理中不可或缺的环节。然而，我国全科医生尚未完全担负起共病管理的职能角色，共病诊疗医护团队仍有待进一步建设。
+
+研究报道，英国、美国等多个欧洲及北美国家已具备较为健全的全科医生团队体系[21]，将全科医生作为共病诊疗管理的关键角色。“全科医学”概念1989 年已引入我国，但目前全科医学教育资源依然短缺，职能定位仍欠清晰，全科医生专业素质仍有待加强。此外，基层医疗体系的建设仍需加强，分级诊疗制度尚未完全落实。这使得目前共病患者仍选择分别就诊与多个科室，医生依然按照单病种指南对老年共病患者某一疾病进行诊疗，共病管理领域全科医生难以施展拳脚。
+
+# 1.5老年共病人群健康管理服务体系建设有待推进
+
+2016年12月，英国国家健康与临床优化研究所发布了《共病：临床评估与管理》（Multimorbidity:clinical assessment and management），该指南以共病管理为主题，重点提出共病人群管理的基本原则和步骤[22]。此外，为着力为降低社会共病率，英国政府也推出了诸如社区首诊制度和共病人群自我管理等系列举措。其中，社区首诊制度的核心是以全科医护团队为主的慢病管理，而共病人群自我管理主要是促进共病人群间的主动沟通交流，内容包括但不限于疾病药物管理、饮食起居、日常锻炼等多方面疾病管理能力，以此降低共病发病率。
+
+目前，我国老年共病的首诊主要集中在社区，社区卫生服务单元通过健康管理档案与老年共病患者建立长期、稳定、连续的服务关系[23]。然而，现阶段医疗服务模式中仍旧缺乏老年病基层预防、诊治以及急性病后期的医疗服务[24]，基层卫生部门共病管理亦显经验不足[25]。因此，未来仍需推动建立具有中国特色的老年医疗服务体系建设，通过对重点人群的序贯健康管理降低共病发生率、提高目标人群生活质量。
+
+# 2老年共病问题的应对策略
+
+# 2.1推动建立以患者为中心的共病管理与研究方案
+
+JAMA杂志刊文指出，医生仅关注单一疾病的治疗与管理对于共病患者是不适宜的。临床医生应尽可能熟悉掌握合适的共病评估工具，并基于恰当的循证医学证据，遵循“以患者为中心”的原则为共病患者选择和实施医疗决策[26]。
+
+英国《共病：临床评估与管理》指南提出，患者的身体状况、疾病不同治疗方案之间的影响等方面是医疗人员制定共病管理方案时需重点考虑的。此外，患者的个人需求，治疗偏好和目标、与健康相关的生活质量等方面也需要被重点考虑，进而减少治疗费用、不良反应和过度医疗以提高生活质量。此外，共病管理依旧需要遵循单一疾病指南治疗的收益和风险。
+
+# 2.2大力推广应用老年共病评估工具
+
+推广应用老年共病评估工具对共病管理具有一定意义，查尔斯共病指数(Charlson comorbidity index，CCI)因其获取的便捷性而被广泛应用。此外，Kaplan-Feinstein 共病指数、Elixhauser 共病指数和老年共病指数（geriatric index ofcomorbidity，GIC）等也是被广泛认可的评估工具[27]。
+
+共病指数的临床应用及推广，有助于通过选择恰当的疾病治疗方案进一步提升我国老年人共病管理水平。此外，其应用对我国共病模式的总结、后续共病治疗指南的制定以及以患者为中心的个性化诊疗的发展具有一定意义。
+
+值得注意的是，评估工具开发过程中使用的不同方法，使不同共病指数工具具有特异性使用场景，有的共病指数是基于疾病开发，而有的基于患者使用药物情况开发。因此，在共病评估工具选择和使用过程中应重视研究目的、资料来源等因素。此外，不同工具所包括疾病种类及数量的不同也影响了评估工具的适用范围。
+
+# 2.3系统开展共病共有病因及机制研究
+
+《柳叶刀》杂志明确提出，共病研究是公共卫生领域的优先发展内容，而共有风险因素的识别与潜在机制的探索更是共病研究领域的首要目标[28]。共病现象的普遍性使得共有机制研究的重要性逐步提升。前期研究提示[29]，相似疾病表型的疾病是由功能相关的基因导致的，例如有学者应用孟德尔随机化方法研究了多发性硬化症（MS）和炎症性肠病（IBD）共有致病基因30。
+
+除饮食情况、生活习惯、药物副作用等因素导致疾病可能同时发生外，共病共有机制的识别也将有助于为疾病预防、治疗以及预后改善提供线索[31]。然而，共病共有机制研究尚未在当前主流疾病研究方向中受到应有的重视，有关共病现象的生物机制研究更是少有涉及。随着大数据时代的到来，从繁杂且异构化的医疗数据中获取潜在的、有价值的信息已成为学术界和卫生管理部门关注的热点。
+
+从大量的医疗数据中，利用数据挖掘方法发现共病的潜在机制，进而为共病诊疗和管理提供理论支持是未来的研究发展方向之一。
+
+# 2.4规范制定共病预防管理临床实践指南与专家共识
+
+随着老年共病群体的数量不断增加，缓解共病带来的医疗、社会负担的需求日渐明显。老年共病患者群体多重用药等问题也使现有共病管理方式存在潜在用药风险。因此，制定针对共病的科学合理的临床治疗方案[32]，同时加强共病研究，对进一步提高共病的综合防治水平具有重大意义。目前，已有国家将应对共病问题作为国家卫生健康工作的重点任务之一，制定了相应的共病预防和管理指南。2017年英国国家卫生与临床优化研究所（NICE）以改善共病患者医疗服务、降低共病患者疾病负担（多重用药和频繁就医）减少共病患者非计划住院为目标，制定了共病临床综合管理指南[33,34]。
+
+共病管理规范性指南/共识的制定，首先需要考虑老年患者自身的人群特点，老年患者与年轻人身体代谢能力差异较大，治疗方案的制定需考虑初始剂量，给药途径等方面[35,36]。其次，应着力提高医护人员对共病的重视程度、加强医务人员对共病及多重用药知识学习。熟悉药物配伍禁忌、加强对病人的用药监管，紧密医护合作等方面也需要加强[37]。目前，多学科整合团队（GIT）治疗模式得到重视，通过多学科合作，加强科室间互相沟通，为老年患者制定最佳的诊疗方案以保证治疗合理安全[38]。随着我国首部《医养结合机构老年共病患者安全用药专家共识》和《老年人多重用药安全管理专家共识》等专家共识的发布[39]，老年共病患者安全用药水平及诊疗服务质量将稳步提升。
+
+# 2.5 主动借鉴中医学“以证统病”“整体观念”思想
+
+“辨证论治”、“整体观念"等中医临床实践的重要特征。从“证候”角度切入选方用药，遵循中医理论“以证统病”，即将各种病归纳在证之下探讨证与病的诊断和疗效关系，可以实现多病种良好共同治理，同时符合社会经济效益[40]。《中医药发展战略规划纲要（2016—2030年)》中明确提出要更好发挥中医药在治未病中的主导作用、在重大疾病治疗中的协同作用、在疾病康复中的核心作用，逐步实现中医药服务领域全覆盖。近年来，老年共病管理强调多学科团队参与，包括中医师的全程参与，目的是对老年患者进行老年综合评估，全面了解老年人在医学、精神、社会行为、环境等方面的情况，进行个体化干预[41]。
+
+中医综合调理理念可应用于共病管理领域，治疗的关键是找准各个疾病的基本病机。当前，“病证结合”思路是中西医结合研究与发展的重要路径，但通常强调西医诊治疾病的主导地位，“以病统证”为主而“以证统病”为辅。在老年共病管理过程中，如果过度关注各种“病”的局部而忽略整体，长期服用大量药物、药物副作用以及药物之间的相互作用将最终导致病人机体功能进一步下降。
+
+因此，“以证统病”“整体观念”思想应融入老年共病管理中，精简药物、提高疗效、改善预后、节约成本。共病管理不是单一疾病管理范式的叠加，而是基于共同的病理环节的精准调控。中医整体观念与现代医学“共病管理”的理念相契合，基于多种疾病的共同基本病机实施统一的基础治法，再个体化随证加减，最终实现共病管理。
+
+# 2.6深度融合应用互联网 $+$ 技术与智能可穿戴设备
+
+顺应新时代“医疗大健康”的新需求，积极推动互联网、物联网、大数据、云计算、人工智能等为关键技术的信息技术与老年共病健康管理的深度融合是促进该领域管理与防控的重要途径。
+
+在海量数据推层出新的“数据爆炸”时代，结合医学专业优势，借助新媒体传播老年共病健康知识，打造医疗大健康舆论氛围，提升居民健康素养，是推进疾病防控关口前移，推动健康中国战略目标的有力手段。此外，借助智能可穿戴设备等新的技术设备，在数据收集、方式手段、健康信息监测等要素上达成数据化、在线化、智能化、移动化方式，或将有利于通过大数据精准定位老年共病重点人群，有针对性提供所需的健康知识，提高科学信息的传播效率；借助微信、微博等媒体社交平台，制作系列微视频，编制健康科普歌曲，传播健康知识。
+
+# 2.7积极开展老年共病人群早期风险评估与管理
+
+二十一世纪以来，数据科学逐渐发展为独立学科[42]。在医学领域中，伴随各种组学研究的推进、疾病登记和监测系统的完善以及大规模人口普查和流行病学调查的开展，人群电子健康档案等多源异构数据信息不断累积，也为疾病风险识别与预评估测提供了必要条件[43]。
+
+老年共病人群本身病情复杂，日常诊疗过程中积累的医学数据信息大多呈现多源、异构、海量、高维的特征。基于该类人群的健康医疗大数据，可建立融合疾病、环境、社会等多方面因素的疾病危险因素识别，实现共病早期发病风险预测，这也将为改善共病患者群体的健康状况，进而加速实现《“健康中国2030”规划纲要》要求提供更高效的研究对策与科学路径。
+
+# 3总结与展望
+
+当前，我国人口老龄化问题逐渐受到重视，在建立“基层首诊、双向转诊”的分级诊疗格局道路上，发展“以患者为中心”的全科医生制度及老年多学科团队势在必行。卫生专业人员不仅应重视制定更好的战略来管理慢性疾病和预防并发症，还应加大保持或提高慢性病患者的健康监测与管理能力。此外，我国共病全流程管理的临床实践尚无统一的指导原则，更无针对性的临床实践指南。因此，相关部门更应重视并加速相关领域的实践研究。由于现有“单病种”健康管理单元的异质性，目前针对共病人群的有效管理模式尚在探索阶段[44]。
+
+值得注意的是，2018年中国老年保健医学研究会老龄健康服务与标准化分会正式发布《居家（养老）老年人共病综合评估和防控专家共识》[45]，提示了我国共病领域进入新阶段，该共识对共病老年人进行了多项目、多维度的综合评估，制定并提出了保护老年人健康和功能状态为目的的治疗计划，以着力改善共病老年人躯体、功能、心理和社会等问题。然而，未来该领域的发展过程中，仍需清楚的认识到不同国家老年共病健康管理模式的制定，与不同国家的医疗服务体系与国情发展轨迹密切相关，在制度和组织建设方面不可盲目借鉴。
+
+综上所述，深入研究并确定我国老年共病人群的患病情况及共病组合模式，阐明共病数量与疾病终点结局间的关系具有重要意义。提升医护人员对老年共病群体复杂性的理解，有助于进一步优化共病防控策略，确定具有针对性的防治目标和策略。特别是通过明确共同的风险因素，对共病人群实施针对性管理，降低死亡率和致残率，提高患者生存质量和健康期望寿命。此外，制定专注于共病的临床实践指南将对推动健康中国的建设具有重要战略意义。
+
+PMCID: PMC5636030   
+4 Kessler RC, Avenevoli S, McLaughlin KA, et al. Lifetime comorbidity of DSM-IV disorders in the NCS-R Adolescent Supplement (NCS-A） [J]. Psychological Medicine,2012,42(9): 1997-2010.   
+5 World Health Organization. Multimorbidity: technical series on safer primary care [M]. Geneva: World Health Organization, 2016.   
+6 Christopher JM Whitty, Carrie MacEwen, Andrew Goddard, et al. Rising to the challenge of multimorbidity. BMJ 2020; 368: l6964 Doi: 10.1136/bmj.l6964   
+7 http://www.gov.cn/guoqing/2021-04/09/content_5598657.htm   
+8 Han YT, He Y, Lv J, et al. Aging in China: perspectives on public health[J]. Global Health Journal, 2020, 4(1): 11-17. DOI: 10.1016/j.glohj.2020.01.002   
+9 http://www.gov.cn/zhengce/zhengceku/2022-03/01/content_5676342.htm   
+10 曹丰，王亚斌，薛万国，等．中国老年疾病临床多中心报告[J]．中华老年多器 官疾病杂志，2018,17(11): 801-808.Cao F,Wang YB,Xue WG,et al. Clinical multicenter report on geriatric diseases in China[J]. Chinese Journal of Geriatric MultiOrgan Diseases, 2018,17(11): 801-808.   
+11 国家基层高血压防治管理指南 2020 版[J].中国循环杂志,2021,36(03):209-220. National guidelines for the management of primary hypertension prevention and treatment, 2020 edition[J]. Chinese Journal of Circulation,2021,36(03):209-220. 12 中华医学会糖尿病学分会,国家基层糖尿病防治管理办公室.国家基层糖尿病 防治管理指南(2022)[J].中华内科杂志,2022,61(03):249-262.Chinese Medical Association, National Primary Care Diabetes Management Office. National primary care diabetes prevention and management guidelines (2O22) [J]. Chinese Journal of Internal Medicine,2022,61(03):249-262.   
+13 Whitty Christopher J M， Watt Fiona M. Map clusters of diseases to tackle multimorbidity [J]. Nature, 2020, 579: 494-496. DOI: 10.1038/d41586-020-00837-4 14 Zhang N, Ning XH, Zhu ML, et a1. Atitudes towards advance care planning and healthcare autonomy among community dwelling older adults in Beijing, China [J]. Biomed Res Int, 2015, 2015: 453932. DOI: 10.1155/2015/453932   
+15 李灵艳,王青,张少景,等.老年住院患者共病及多重用药与衰弱关系的分析[J]. 北京医学，2018,40(1):8-11. Li LY,Wang Q, Zhang SJ, et al. Analysis of the relationship between co-morbidity and multiple medications and frailty in elderly inpatients[J]. Beijing Medicine, 2018,40(1):8-11. 16 郑鹏远.医养结合机构老年共病患者多重用药安全性探讨[J].中华保健医学杂 志,2021,23(04):323-325. Zheng PY. Exploring the safety of multiple medications for geriatric co-morbid patients in medical and nursing institutions[J]. Chinese Journal of Health Care Medicine,2021,23(04):323-325.   
+17 Qato DM, Wilder J, Schumm LP, et al. Changes in prescription and over-the-counter medication and dietary supplement use among older adults in the United States, 2005 vs.2011[J].JAMAInternMed,2016,176(4):473-482. DOI: 10.1001/jamainternmed.2015.8581   
+18 李荔,李莎,卫芸,张园园,闫丽娥.社区老年人多重用药率及其相关因素的系统 综述[J].中国全科医学,2021,24(25):3161-3170.LiL,Li S,Wei Y, Zhang YY,Yan LE. A systematic review of polypharmacy rates and its associated factors among older adults in the community[J]. China General Medicine,2021,24(25):3161-3170.   
+19 王金明，林盛强，杨玉明，等．社区共病患者服药依从性及影响因素调查分析 [J].中国全科医学,2017,20(23): 2827-2831.Wang JM,Lin SHQ, Yang YM, et al. Investigation and analysis of medication adherence and influencing factors among community co-morbid patients[J]. Chinese general medicine, 2017,20(23): 2827-2831. 20 老年人多重用药安全管理专家共识[J].中国全科医学,2018,21(29):3533-3544. Expert consensus on the safe management of multiple medication use in the elderly[J]. Chinese general medicine, 2018,21(29):3533-3544.   
+21 吴童，栾奕，刘英.英澳美中四国全科医学发展状况的对比研究[J].全科医学 临床与教育,2018,16(6): 601-604. Wu T,Luan Y,Liu Y.A comparative study of the development of general medicine in the United Kingdom, Australia, the United States and China[J]. Family Medicine Clinical and Education, 2018,16(6): 601-604.   
+22 FARMER C, FENU E, O'FLYNN N, et al. Clinical assessment and management of multimorbidity: Summary of NICE guidance[J]. Bmj,2016，354: i4843. DOI: 10.1136/bmj.i4843   
+23 FOX M T, SOURAYA S,MALINIP, et al. Acute care for elders’ components of acute geriatric unit care: Systematic descriptive review. Journal of the American Geriatrics Society, 2013, 61(6): 939-946. DOI: 10.1111/jgs.12282   
+24 孟丽,石婧,段春波,等.国内外老年人医疗服务介绍[J].中华老年医学杂志, 2016,35(8):808-810. Meng L,Shi Jing,Duan Chunbo,et al. Introduction to medical services for the elderly at home and abroad[J]. Chinese Journal of Geriatrics,
+
+2016,35(8):808-810.
+
+25 狄娜,郑嘉堂,王鹏飞,等.北京市老年人慢性病及共病分析[J].中国全科医学, 2018 ,21(3): 265-268.Di Na, Zheng Jiatang, Wang Pengfei, et al. Analysis of chronic diseases and co-morbidities among the elderly in Beijing[J]. China General Medicine, 2018 ,21(3): 265-268.   
+26 Mary E Tinett, Terri R Fried, Cynthia M Boyd. Designing health care for the most common chronic condition—multimorbidity. JAMA. 2012 June 20; 307(23): 2493- 2494. DOI: 10.1001/jama.2012.5265   
+27 周玉洁,吕启圆,李现文.共病及共病指数研究进展与应用展望[J].中国公共卫 生,2015,31(11): 1513-1516. Zhou YJ, Lv QY, Li XW. Research progress and application prospect of co-morbidity and co-morbidity index[J]. Chinese Public Health, 2015, 31(11):1513-1516.   
+28 The Lancet , Making more of multimorbidity: an emerging priority.[J] .Lancet, 2018, 391: 1637.DOI: 10.1016/S0140-6736(18)30941-3   
+29 冯程程．基于临床共病现象分析潜在的分子机理[D].华东师范大学,2016. Chengcheng Feng. Analysis of potential molecular mechanisms based on clinical comorbidity phenomena[D]. East China Normal University,2016.   
+30 Yang Y, Musco H， Simpson-Yap S,et al. Investigating the shared genetic architecture between multiple sclerosis and inflammatory bowel diseases. Nat Commun. 2021;12(1):5641. DOI: 10.1038/s41467-021-25768-0   
+31 Mohammad Ali Moni, Pietro Lio. comoR: a software for disease comorbidity risk assessment [J]. J clin Bioinforma. 2014, 4: 8. DOI: 10.1186/2043-9113-4-8   
+32 Goodman RA, Boyd C, Tineti ME, et al. IOM and DHHS meeting on making clinical practice guidelines appropriate for patients with multiple chronic conditions [J]. Ann Fam Med, 2014, 12: 256-259.DOI: 10.1370/afm.1646   
+33 KERNICK D, CHEW-GRAHAM C A, O'FLYNN N. Clinical assessment and management of multimorbidity: NICE guideline[J]. Brit J Gen Pract, 2017, 67(658): 235-236. DOI: 10.1136/bmj.i4843   
+34National Institute for Health and Care Excellence.Multimorbidity : clinical assessment and management [EB/OL]. (2017-03-17).   
+35 李梦梦，刘嘉鹏，李景业，等．老年非瓣膜性心房颤动患者多重用药影响因素 及对抗凝治疗的影响[J]．中国医药,2019,14(1):1-5.LiMM,LiuJP,LiJY,et al. Factors influencing multiple medication use and impact of anticoagulation therapy in
+
+elderly patients with non-valvular atrial fibrillation[J]. China Medicine, 2O19,14(1): 1- 5.
+
+36 曾平，朱鸣雷，闫雪莲,等．老年住院患者多重用药与老年综合征的关系[J]. 中国临床保健杂志,2019,22(3): 322-326. Zeng P, Zhu ML,Yan Xuelian,et al. The relationship between multiple medications and geriatric syndrome in elderly hospitalized patients[J]. Chinese Journal of Clinical Health Care, 2019,22(3): 322-326. 37 曾艳，张茹.对老年2型糖尿病住院患者多重用药相互作用的分析及干预研究 [J].实用药物与临床，2019,22(5):535-540.Zeng Y, Zhang R.Analysis and intervention study of multiple drug interactions in elderly inpatients with type 2 diabetes mellitus[J]. Practical Drugs and Clinics,2019, 22(5): 535-540.   
+38 刘夏，潘琴，徐迅科，等．基于《中国老年人潜在不适当用药判断标准(2017 版)》的老年患者不适当用药评价研究[J].药学实践杂志,2019,37(3):283-288.Liu Xia, Pan Qin, Xu Xunke, et al. Study on the evaluation of inappropriate medication use in elderly patients based on the Criteria for Judging Potential Inappropriate Medication Use in Chinese Elderly (2017 Edition)[J]. Journal of Pharmacy Practice,2019,37(3): 283-288.   
+39 医养结合机构老年共病患者安全用药专家共识[J].中华保健医学杂 志,2021,23(06):561-568. Expert consensus on the safe use of medication for elderly co-morbid patients in medical and nursing institutions[J]. Chinese Journal of Health Care Medicine,2021,23(06):561-568.   
+40 焦一鸣,王放,付小红.论以证统病的研究[J].中医文献杂志,2011,4(6):156-158. Jiao Yiming,Wang Fang,Fu Xiaohong. On the research of unifying disease with evidence[J]. Journal of Chinese Medicine Literature,2011,4(6):156-158.   
+41 曾平,朱鸣雷,曲璇.治疗老年共病患者的重要模式:多学科整合团队[J].中华老 年多器官疾病杂志,2013,12(5):336-338. Zeng P,Zhu ML,Qu Xuan.An important model for treating elderly patients with co-morbidities: multidisciplinary integrated teams[J]. Chinese Journal of Geriatric Multiorgan Diseases,2013,12(5):336-338. 42 严慈庆.健康管理与健康风险评估[J].健康研究,2018,38(01):1-8.Yan C-Q. Health management and health risk assessment[J]. Health Research,2018,38(01):1-8. 43 相静,王玖,胡西厚.健康医疗大数据驱动下的疾病风险评估与预测方法探析[J]. 中国卫生信息管理杂志,2018,15(03):329-333.Xiang J, Wang J,Hu XH. Exploration of disease risk assessment and prediction methods driven by health care big data[J]. Chinese Journal of Health Information Management,2018,15(03):329-333.   
+44 LEFEVRET, D'IVERNOISJF, DEANDRADEV, et al. What do we mean by multimorbidity? An analysis of the literature on multimorbidity measures, associated factors,and impact on health services organization. Rev Epidemiol Sante Publique, 2014, 62(5): 305-314. DO1: 10.1016/j.respe.2014.09.002   
+45 中国老年保健医学研究会老龄健康服务与标准化分会.居家(养护)老年人共病 综合评估和防控专家共识[J].中国老年保健医学，2018,16(3):28-31.Chinese Society for Geriatric Health Care Medicine, Aging Health Service and Standardization Branch. Expert consensus on comprehensive assessment and prevention and control of co-morbidities in the elderly at home (care)[J]. China Geriatric Health Care Medicine, 2018, 16(3): 28-31.

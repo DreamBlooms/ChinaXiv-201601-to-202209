@@ -1,0 +1,105 @@
+# 四川卧龙国家级自然保护区马先蒿属一新种一一熊猫马先蒿
+
+林红强1，程跃红1\*，刘荣2.3，尹民4，郁文彬 2.5,(
+
+（1．四川卧龙国家级自然保护区管理局，四川汶川623006；2.中国科学院西双版纳热带植物园综合保护中心，云南 勐腊 666303；3．中国科学院大学，北京 100047；4.杏坛苑，重庆 400030;5．中国科学院核心植物园保护生物学协同中心，云南 勐腊 66303；6.中国科学院东南亚生物多样性中心，云南 勐腊666303)
+
+摘要：熊猫马先蒿是在四川卧龙国家级自然保护区发现的一新种马先蒿。该新种属于互生叶类群，其基生叶成丛，花冠属于短管有喙型，且下唇将喙包裹住，花管在近萼端发生约180度的扭旋使得花冠下唇在侧上方，这一特征明显区别于其他国产马先蒿物种。分子系统发育分析表明熊猫马先蒿是Clade7成员，与火焰系、假欧氏系、喙齿系、拟蕨系和长喙系等成员构成姐妹关系，但熊猫马先蒿的花冠形态特征明显区别于近缘物种。
+
+关键词：马先蒿属，列当科，四川，汶川，卧龙中图分类号：Q949 文献标识码：A
+
+# Pedicularis pandania (Orobanchaceae), a new species of Pedicularis from the Wolong National Nature Reserve, Sichuan Province, China
+
+LIN Hongqiang1,CHENG Yuehong1\*,LIU Rong23,，YINMin4, YU Wenbin2,5.6 (1.Sichuan Wolong National Natural Reserve Administration Bureau,Wenchuan 623oo6,Sichuan, China; 2.   
+Center for Integrative Conservation,Xishuangbanna Tropical Botanical Garden,ChineseAcademy of Sciences,   
+Mengla 666303,Yunnan,China;3. University of Chinese Academy of Sciences,Beijing 10o049,China; 4.Almond   
+Temple Garden,Chongqing 40oo30,China;5.CenterofConservationBiology,Core Botanical Gardens,Chinese   
+Academy ofSciences,Mengla 6663O3,Yunnan,China; 6.SoutheastAsia Biodiversity Research Institute,Chinese Academyof Science,Mengla 666303,Yunnan,China)
+
+Abstract: Pedicularis pandania (Orobanchaceae) was a new species discovered in the Wolong National Nature Reserve, Sichuan, China. This new species belongs to the alternative-leaved group that characterizing by having abundant basal leaves or only 1-3 cauline leaves,short-tubed and beaked corolla,and the lower lip completely enveloping the beaked galea. Due to the corolla tube was strongly twisted near the calyx, the corolla lower lip was completely upside down, which was distinguished from other Chinese species.Phylogenetic analyses showed that $P .$ pandania fell into the Clade 7,as a sister to species in Series Flammeae, Pseudo-oederianae, Rhynchodontae, Filiculae and Macrorhynchae.Morphologically, however, the new species is easily discriminated from them in the corolla form as mentioned above.
+
+Keywords: Pedicularis, Orobanchaceae, Sichuan,Wenchuang,Wolong
+
+马先蒿属（Pedicularis L.）是列当科（Orobanchaceae）植物中最大的一个属，大约有600 余种，广泛分布于北温带，其中三分之二以上的物种集中分布于中国西南山地至西喜马拉雅地区(钟补求,1963;Yang et al.,1998；郁文彬和王红,2020)。根据已有的志书记载，中国马先蒿属植物最为丰富省份是云南省、其次是四川省和西藏藏族自治区（钟补求，1963;
+
+Yang etal.,1998；王红,2006)。近年来，随着野外调查工作的不断深入，逐渐有一些马先蒿的新种被发现和报道，主要来自中国西南的喜马拉雅一横断山地区（Yang etal.,2003;Yu etal.,2010;Liu&Yu,2015; Yu et al.,2018;Li et al.,2019)。2019 年8月，本文作者在四川省卧龙国家级自然保护区开展动植物调查时，发现了一种未知的马先蒿。2020年7月，作者通过进一步的调查，并采集了植物标本和DNA材料（图1：A-F)，通过形态特征比较和系统发育分析，进一步确定该未知马先蒿是一新种。由于该新种是在大熊猫的栖息地四川卧龙国家级自然保护区发现，所以我们将这个新种命名为熊猫马先蒿，即Pedicularis pandaniaW.B.Yu, H.Q. Lin & Y.Hong Cheng 。
+
+# 1 材料与方法
+
+马先蒿新种的凭证标本和DNA材料采自于四川省汶川县的四川卧龙国家级自然保护区。新鲜的叶片采集后，利用硅胶干燥和保存。总DNA采用改良的CTAB 方法提取(Doyle &Doyle,1987)，然后进行高通量测序文库构建和测序。测序文库筛选的片段大小约 $3 5 0 ~ \mathrm { b p }$ 采用双向 $1 5 0 ~ \mathrm { b p }$ 进行测序（NovaSeq 6000 System，Illumina）（Zeng et al.,2018；黎若竹等,2021)。测序数据使用GetOrganelle 软件包组装叶绿体基因组和核糖体DNA(Jin et al.,2020)，然后从中提取nrITS、matK、rbcL和trnL- ${ \bf \nabla } \cdot { \bf F } _ { \mathbf { \Omega } }$ 片段整合到Yuetal.(2015)的马先蒿属系统发育分析的矩阵中，利用 RaxML 软件构建最大似然树(Stamatakis et al.,2008)，并统计1000 次的靴带值（Bootstrap Value）估算分支的支持率。具体的参数设置参照Yu et al.(2015)。
+
+电镜观察的花粉材料是采自干燥标本的花。随机从标本上选取了3朵成熟花，利用镊子将盔内的花药取出，然后将花药中花粉转移到电镜样品台，喷金后利用电子显微镜（ZEISSEVOLS10,Germany）观察和拍照。
+
+# 2结果与分析
+
+# 2.1系统发育分析
+
+比对后的nrITS、matK、rbcL和trnL- ${ \bf \nabla } \cdot { \bf F } _ { \mathbf { \Omega } }$ 矩阵长度分别是 $6 8 0 \mathrm { b p }$ （变异位点/系统发育信号位点：460/377）、768 bp（429/294）、 $6 5 4 ~ \mathrm { b p }$ （169/99）和1511bp（700/443)。联合矩阵长度是 $3 6 1 3 \mathrm { b p }$ ，包括了1758个变异位点和1213个信号位点。
+
+系统发育分析显示熊猫马先蒿属于Clade7的成员（图2)，以互生叶类群为主要，同时也有对生/轮生叶类群(Tkach etal.,2014;Yu et al.,2015)。在这个分支中，美丽马先蒿（ $P .$ bella Hook.f.)是最基部分支，随后分别按对生/轮生叶或互生叶类群分成了4个独立的分支。熊猫马先蒿是互生叶类的小分支Clade7E的成员（ $\mathbf { B S = } 1 0 0 ^ { \cdot }$ )，其近缘类群是钟补求系统中根叶亚群中的火焰系（Series Flammeae Prain）、假欧氏系（Series Pseudo-oederianae Limpr.）、喙齿系（Series Rhynchodontae Prain）、拟蕨系（Series Filiculae Li）和长喙系（SeriesMacrorhynchaeLi）等成员（钟补求,1955,1963)。不过与熊猫马先蒿最近缘的姐妹类群暂不清楚，它与拟蕨马先蒿（P.filiculaFranch.exMaxim.）一样是非常孤立的分支。
+
+# 2.2形态特征分析
+
+熊猫马先蒿是一种互生叶类的马先蒿，基生叶成丛，且叶柄长达 $1 0 \ \mathrm { c m }$ ，根茎基部有很多宿存老叶叶柄或鳞片状木质化叶。这个新种最典型的特征是花冠下唇包裹住喙（图1:B，E），这种特征也见于佛氏系（SeriesFranchetranaePrain）、假大花系（SeriesPseudomacranthae P.C.Tsoong）、魏氏系（SeriesWilsoniaeL.）、美丽马先蒿、三色马先蒿（ $. R .$ （204号tricolorHand.-Mazz.）、硕花马先蒿（P.megalanthaD.Don）、显著马先蒿（ $P .$ insignis Bonati)等。但是，熊猫马先蒿的花冠管发生了扭旋，所以整朵是下垂且下唇在侧上方（图1：E)，与硕花马先蒿类似，而其他包唇物种的下唇都是上举的。
+
+熊猫马先蒿的花粉是近圆球形、辐射对称和中等大小（极面 $2 2 . 4 6 { \sim } 2 5 . 5 6 ~ \mu \mathrm { m } ~ \times$ $\times$ 赤道面 $1 9 . 6 6 { \sim } 2 3 . 2 4 ~ \mu \mathrm { m } .$ )，三合沟型萌发沟，具有颗粒状的外壁纹饰（图1：G-I)。
+
+# 2.3分类处理
+
+熊猫马先蒿新种图1：A-F，图3
+
+Pedicularis pandania W.B. Yu, H.Q.Lin & Y.Hong Cheng, sp. nov. Fig. 1: A-F, Fig.3
+
+Herbs perennial, $1 0 { - } 4 0 ~ \mathrm { c m }$ tall, drying black. Roots facicled,up to $2 5 \ \mathrm { c m }$ long. Stem erect, 1 to several， unbranched，cylindrical pubescent，woodly marcescent leaves and petioles of preceding years and lanceolate scales persistent at base.Leaves almost all basal, sometimes 1 to 3 alternative cauline leaves; leave petiole $3 { \cdot } 9 \ \mathrm { c m }$ long,leaf blade lanceolate-oblong ca. $2 { \mathrm { - } } 7 \ \log \times $ $1 . 4 { - } 2 . 6 ~ \ \mathrm { c m }$ wide,abaxially persistent and furfuraceous，adaxially glabrescent or sparsely pubescent, pinnatipartite to pinnatisect; segments 8-13 pairs,opposite or subopposite,regular pinnatifid or dentate. Inflorescences racemose, $5 { - } 2 5 ~ \mathrm { c m }$ long，8-2O-flowerrf； bracts leaf-like, shorter than flowers. Pedicel $4 { \cdot } 3 1 \ \mathrm { m m }$ long. Calyx campanulate,up to $1 0 ~ \mathrm { m m }$ long， sparsely pubescent, $\pm 1 / 4$ cleft anteriorly; lobes 5,unequal,abaxially lateral pair larger, leaf-like and toothed,adaxially lateral pair small and toothed,and posterior one acicular. Corolla rose,ca. 20 mm long; tube ca. $1 2 ~ \mathrm { m m }$ long,equal to calyx, twisted near the calyx making the corolla upside down; beaked ca. $1 0 { - } 1 2 \mathrm { m m }$ ,slender, slightly twisted, galea crested; corolla lower-lip enclosed the beak, ca. $1 2 \mathrm { - } 1 5 \ \mathrm { m m \ l o n g } \times 2 0 \mathrm { - } 2 5 \ \mathrm { m m }$ wide,middle lobe rounded, smaller thanlateral lobes; four filaments pubescent. Capsule ovoid-lanceolate to long ovoid, ca. $2 0 \mathrm { m m }$ long.
+
+Type: China. Sichuan Province(四川省),Wenchuan County(汶川县), Sichuan Wolong National Natural Reserve(四川卧龙国家级自然保护区),Yeniugou (野牛沟),alt. $3 ~ 7 0 0 { \sim } 4 ~ 1 0 0 ~ \mathrm { m }$ ，alpine meadows or shrubs,28 Jul.2020,Hong-Qiang Lin（林红强）& Yue-Hong Cheng（程跃红) 20200728257 (holotype: HITBC; isotypes: HITBC,KUN)。
+
+![](images/5cc9ddeb49697fcfe4868261d6993681bc501da67f1380bc1d892c5a4d4dfbf7.jpg)  
+图1熊猫马先蒿的生境、植物照片和花粉形态特征
+
+A．生境全貌；B.全株；C.根；D.叶片背面；E.花序和花；F.花的特写；G.花粉全貌；H.花粉极面 观；I.花粉外壁纹饰。   
+A.Habit; B.Plant; C.Root; D.Leaf(abaxial);E.Inflorescence and flowers; F.Flower; G.Polen grains; H.Polar view;I.Detail of exine ornamentation.
+
+Fig. 1 Habit and plant photos of Pedicularis pandania and characteristics of pollen grains 右图的13个分支划分参照Yuetal.(2015)；左上角图的分支靴带值支持率标在分支上。 Right tree showed the clade numbers folowed Yu et al. (2O15); The left-up tree showed bootstrap support values annotated above branches.
+
+![](images/92f582dc1db79431521769812291ad0c17faf61275e807cf07701598d13e1a97.jpg)
+
+图2基于四个DNA片段(nrITS,matK,rbcL 和 trnL- $F$ 联合矩阵的马先蒿属最大似然树 Fig.2 Maximum likelihood tree of Pedicularis inferred using the concatenated matrix of four DNAregions (nrITS,matK,rbcL and trnL- $F$ ）
+
+![](images/54fe7261dafe91f0311b2ad671ff9bb5d85e526f3e4e92a7c9f74fe0b9d4481a.jpg)  
+图3熊猫马先蒿的墨线图（刘荣绘） Fig. 3 Line drawing of Pedicularis pandania (Drawn by Rong Liu)
+
+A．植株；B.花萼；C.花下唇和盔；D.花药和柱头；E.果实。   
+A. Plant; B. Calyx; C.Lower lip and beak of corolla;D.Anthers and stigma; E.Fruit.
+
+多年生草本，高 $1 0 { \sim } 4 0 ~ \mathrm { c m }$ ，干时变黑。根稍木质化，圆形，粗壮，长多达 $2 5 \mathrm { c m }$ ，偶有须根。茎直立，不分枝，圆柱形，被绒毛，基部有宿存枯叶或木质化鳞片状叶柄。叶几乎全部基生，茎中下部偶有1到3片叶互生；叶柄长 $3 { \sim } 9 \mathrm { c m }$ ,叶片长椭圆形，长 $2 { \sim } 7 \ \mathrm { c m }$ ，宽 $1 . 4 { \sim } 2 . 6$ cm，背面密被柔毛，正面疏被柔毛，羽状深裂至全裂；小裂片8\~13，对生或近对生，规则浅裂或疏生牙齿。总状花序，长达 $5 { \sim } 2 5 ~ \mathrm { c m }$ ，花8\~20朵；苞片叶状，比花短。花梗长4\~31mm，被绒毛。花萼钟型，长达 $1 3 \mathrm { m m }$ ，被细毛，前方稍开裂至管1/4；萼齿5枚，不等大，侧后方1对大且叶状齿，前侧方1对小和具叶状齿，后面1枚小而线型。花冠紫红色，长约$2 0 ~ \mathrm { m m }$ ；花冠管与花萼近等长，约 $1 2 \mathrm { m m }$ ，近萼处扭旋使得花冠翻转；喙长 $1 0 { \sim } 1 2 ~ \mathrm { m m }$ ，喙细长，末端稍作扭旋，具鸡冠状凸起；下唇包裹住喙，长约 $1 2 { \sim } 1 5 \ \mathrm { m m }$ ，宽约 $2 0 { \sim } 2 5 ~ \mathrm { m m }$ 中裂较小；两对花丝均被细毛。蒴果扁平基部大上面小，长约 $2 \mathrm { c m }$ 。
+
+分布和濒危等级：目前，熊猫马先蒿仅在四川省汶川县卧龙保护区有发现，生长在海拔$3 ~ 7 0 0 { \sim } 4 ~ 1 0 0 ~ \mathrm { m }$ 高山杜鹃灌丛或高山草甸中。在已知的分布点有超过5000 余株开花个体，在保护区其他区域可能也有分布。由于现在的种群位于保护区内，人为干扰较少，受威胁程度较低，建议将其濒危等级划为无危（LeastConcern,LC）。
+
+物候：熊猫马先蒿的开花时间大约6月中下旬开始，可持续至8月下旬，果期是7月至
+
+9月底。
+
+词源：种加词“pandania”是来源大熊猫的英文名字“panda”，因为该新种目前仅在在大熊猫的自然栖息地卧龙国家级自然保护区所发现，且现在暂时只发现生长在保护区。
+
+致谢感谢中国科学院西双版纳热带植物园中心实验室的电镜实验平台和超算中心提供的支持；感谢首都师范大学顾垒博士的讨论和交流。
+
+# 参考文献:
+
+DOYLE JJ, DOYLE JL, 1987. A rapid DNA isolation procedure for small quantities of fresh leaf tissue [J]. Phytochemistry, 19:11-15.   
+JIN JJ,YU WB, YANG JB, et al., 2O2O. GetOrganelle: a fast and versatile toolkit for accurate de novo assembly of organelle genomes [J]. Genome Biol, 21: 241.   
+LI X,WANG H, LI DZ,et al.，2019. Taxonomic and nomenclatural notes on Pedicularis (Orobanchaceae): I. one new species from northwest Yunnan, China [J]. PhytoKeys,130: 205-215.   
+LI RZ, CAI J, YANG JB,et al., 2021. Plastid phylogenomics resolving phylogenetic placement andgeneraphylogenyofSterculioideae(Malvaceaes.1.）[J]. Guihaia. 10.11931/guihaia.gxzw202103060.[黎若竹，蔡杰，杨俊波，等，2021．利用叶绿体基因 组数据解析锦葵科梧桐亚科的系统位置和属间关系[J].广西植 物.10.11931/guihaia.gxzw202103060.]   
+LIU ML, YU WB,2O15. Pedicularis wanghongiae (Orobanchaceae), a new species from Yunnan, southwestern China [J]. Phytotaxa,217: 53-62.   
+STAMATAKIS A，HOOVER P,ROUGEMONT J,2008.A rapid bootstrap algorithm for the RAxML web servers [J]. Syst Biol, 57: 758-771.   
+TKACH N,REE RH, KUSS P, et al., 2014. High mountain origin, phylogenetics, evolution, and niche conservatism of arctic lineagesin the hemiparasiticgenusPedicularis (Orobanchaceae) [J]. Mol Phylogenet Evol,76: 75-92.   
+TSOONG PC,1955.A new classification system of Pedicularis [J]. Acta Phytotax Sin, 4: 71-147. [钟补求,1955．马先蒿属的一个新分类系统 [J]．植物分类学报,4:71-147.]   
+TSOONG PC,1963.Flora Reipublicae Popularis Sinacae (Vol. 68): Scrophulariaceae (Pars II) [M].Beijing:Science Pres.[钟补求,1963．中国植物志(第 68 卷)——玄参科(二)[M]. 北京：科学出版社.]   
+WANG H, 2006. Pedicularis L. [M] // CHEN SK, WANG H. Flora Yunnnanica (Vol.16). Beijing: Science Press:468-61.[王红,2006．马先蒿属 [M]// 陈书坤，王红．云南植物志（第十 六卷)．北京：科学出版社:468-611.]   
+YANG FS, HONG DY, WANG XQ, 2003. A new species and a new specific synonym of Pedicularis (Scrophulariaceae） from the Hengduan Mountains,China [J]. Novon，13: 363-367.   
+YANG HB,HOLMGREN NH, MILL RR,1998. Pedicularis Linn. [M]//WU ZY, RAVEN PH Flora of China. St. Louis & Beijing: Missouri Botanical Garden Press & Science Press: 97-209.   
+YU WB, HUANG PH, LI DZ, et al., 2010. A new species of Pedicularis (Orobanchaceae) from the Hengduan Mountains, Southwestern China [J]. Novon, 2O: 512-518.   
+YU WB,LIU ML,WANG H, et al.， 2015. Towards a comprehensive phylogeny of the large temperate genus Pedicularis (Orobanchaceae)，with an emphasis on species from the Himalaya-Hengduan Mountains [J]. 15:176.   
+YU WB，WANG H, LIU ML，et al.， 2018. Phylogenetic approaches resolve taxonomical confusion in Pedicularis (Orobanchaceae): reinstatement of Pedicularis delavayi and discovering a new species Pedicularis milliana [J]. PLoS ONE,13: eO200372.   
+YU WB, WANG H,2020. Orobanchaceae [M]//LI DZ, CHEN ZD,WANG H, et al. The Families and Genera of Chinese vascular plants.Beijing: Science Press: 2O74-2093.[郁文彬，王红, 2020.列当科 [M]//李德铁，陈之端，王红，等．中国维管植物科属志．北京：科学出 版:2074-2093.]   
+ZENG CX, HOLLINGSWORTH PM， YANG J， et al.， 2018. Genome skimming herbarium specimens for DNA barcoding and phylogenomics [J].Plant Methods,14: 43.

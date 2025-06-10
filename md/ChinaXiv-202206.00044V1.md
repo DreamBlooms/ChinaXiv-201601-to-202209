@@ -1,0 +1,287 @@
+# 整合对联结再认和项目再认的促进作用：“只有收益”观点
+
+刘泽军 郭春彦（首都师范大学心理学院，北京100048）'摘要研究旨在探讨整合如何影响联结再认和项目再认及其加工过程。编码阶段要求被试学习复合词和非复合词，提取阶段完成联结再认和项目再认测验。结果显示，复合词比非复合词有更好的联结再认表现，但在项目再认表现上两者之间没有显著的差异。ERP 结果显示，在联结再认上，复合词诱发显著的FN400效应（与熟悉性加工有关）和LPC 效应（与回想加工有关），非复合词只诱发显著的LPC 效应，且复合词比非复合词有更大的LPC 效应。在项目再认上，复合词比非复合词诱发更大的FN400效应。总而言之，整合在促进联结再认的同时并不会损害项目再认的表现，支持了“只有收益"观点。
+
+关键词整合，联结再认，项目再认,FN400 效应,LPC 效应
+
+# 1引言
+
+再认是指我们能够意识到当前事件或情景过去是否发生过的一种能力，是衡量记忆效果的一种有效的方法。双加工理论认为再认判断可以由两个相互独立的加工过程来支持：熟悉性和回想。前者是一种对项目的熟悉感，但不能回忆起相关细节信息的加工过程；后者则是一种可以回忆起相关细节信息的加工过程(Mandler,1980; Yonelinas,2002;Yonelinas et al,2010)。早期研究发现，熟悉性和回想加工都能支持单个项目的再认，但联结再认一一即判断项目与项目间关系、项目与背景间关系等涉及两个或两个以上属性间关系是否同时出现过的能力一－只能由回想加工来支持(Boucher,et al.,2016; Mandler,1980; Yonelinas,2002;Yonelinas etal.,2010）。然而，这一观点受到越来越多的质疑。研究者发现，当两个或两个以上项目被捆绑编码形成一个新的整体表征时，熟悉性加工也能够支持联结再认。Graf 和Schacter (1989)将这种将两个或两个以上项目捆绑编码为一个整体的操作定义为整合(Unitization，刘泽军 等,2019；刘贵雄 等,2019；律原 等,2015)或一体化(郑志伟 等,2015)。随后，大量的行为学研究(Ahmad& Hockley,2014; Liu et al.,2020; Parks& Yonelinas,2015)、事件相关电位研究(event-related potentials,ERPs)(Bader et al.,2010; Han et al.,2018; Liet al.,2019; Rhodes & Donaldson,2007,2008; Tibon et al.,2014)、遗忘症患者研究(D'Angelo etal.,2015; Giovanello et al.,2006; Quamme et al.,2007)以及老年群体的研究(Bastin et al.,2013;Bridger et al.,2017; Delhaye ＆ Bastin,2016; Zheng et al.,2015)开始探讨整合对联结再认及其加工过程的影响。研究结果一致表明，整合能够促进基于熟悉性加工的联结再认表现。然而，在这些研究中，研究者都忽略了另一个重要的问题一一即整合如何影响构成联结的单个项目的再认？已有的关于整合对项目再认影响的研究不仅数量较少，而且研究结果也存在明显的分歧。“收支平衡"观点认为整合以损害项目再认为代价来促进联结再认，而“只有收益"观点则认为整合在促进联结再认的同时并不会损害项目再认(Parks& Yonelinas,2015; Pilgrim etal., 2012)。
+
+“收支平衡"观点认为当要学习的项目被整合为一个整体时，单个项目的语义被隐藏起来，同时个体将更多的认知资源投放到联结编码中，减少对项目编码的资源投放，进而导致项目再认受损。Pilgrim等(2012)采用交互表象法（高整合条件）和项目表象法（低整合条件）两种方式来操纵整合水平。编码阶段给被试呈现两个语义无关的词语，在交互表象条件下要求被试将两个词语的表象整合到一个情境中；在项目表象条件下要求被试分别想象两个词语的表象。提取阶段只呈现单个词语并要求被试进行新/旧判断。结果显示，两种整合条件间有相等的项目再认表现。区分熟悉性和回想加工对项目再认的贡献，结果显示虽然两种整合条件间有相等的LPC 效应，但高整合条件比低整合条件诱发了更小的FN400 效应。其中FN400效应是指早期额区新旧效应(Early frontal old/new effect)，表现为刺激出现后 $3 0 0 \sim 5 0 0 ~ \mathrm { m s }$ 双侧额区上新项目比旧项目诱发更负的波幅，与熟悉性加工有关；LPC 效应是指晚期新旧效应(Left parietal old/new effect)，表现为刺激出现后 $5 0 0 \sim 7 0 0 ~ \mathrm { m s }$ 左侧顶区上旧项目比新项目诱发更正的波幅，与回想加工有关(Curran,2000;Curran& Cleary,2003)。基于这一研究，Pilgrim 等(2012)得出结论：整合对项目再认的影响过程中发生了损失(减少了FN400 效应)，支持"收支平衡"观点。然而，作者认为整合虽然减少了FN400 效应，但两种整合条件间项目再认的准确率是相等的。从另一种角度来讲，被试可以依据较少的神经活动而达到相等的再认表现是一种促进作用，应当支持"只有收益"观点。Ahmad 和 Hockley (2014)采用复合词和非复合词来探讨整合对联结再认和项目再认的作用。编码阶段要求被试学习复合词（例如，交通一堵塞）和非复合词（例如，蓝天一手表），提取阶段要求被试分别完成联结再认和项
+
+59 目再认测验。联结再认测验要求被试区分重组/旧词对，项目再认测验要求被试区分新/旧单  
+60 词。结果显示，复合词比非复合词有更好的联结再认表现和更差的项目再认表现，表明整合  
+61 在促进联结再认的同时损害了项目再认，支持"收支平衡"观点。需要注意的是，Ahmad 和  
+62 Hockley (2014)的研究中只包含了20个被试，且每一个实验条件只有10个试次，研究结果  
+63 存在偶然性。此外，Ahmad 和 Hockley (2014)的研究也并未关注整合对联结再认和项目再认  
+64 加工过程的影响，无法知晓整合如何影响熟悉性和回想加工对联结再认和项目再认的贡献。  
+65 “只有收益"观点认为整合是在项目编码的基础上实现的，尤其对于复合词，由于联结是  
+66 早已存在的，并不需要占用额外的认知资源，因此整合并不会损害项目再认。Parks 和  
+67 Yonelinas (2015)采用概念定义法和句子填充法来操纵整合水平。具体而言，在概念定义条件  
+68 下，研究者人为地赋予这两个语义无关的词语一个新的定义（例如，将牛奶-汽车定义为一  
+69 种专门运输牛奶的交通工具）；而在句子填充条件下，研究者创造了一个可以容纳这两个语  
+70 义无关词语的句子框架（例如，他把牛奶撒到了汽车里）。编码阶段给被试呈现两个语义无  
+71 关的词语及其概念定义或句子填充描述，提取阶段则要求被试完成联结再认和项目再认测验。  
+72 结果显示，概念定义条件比句子填充条件有更好的联结再认，但两种条件间的项目再认并没  
+73 有显著的差异。随后他们采用接受者操作特征曲线来评估熟悉性和回想加工对联结再认和项  
+74 目再认的贡献。结果显示，在联结再认上，概念定义条件比句子填充条件诱发更多的熟悉性  
+75 和回想加工；而在项目再认上，概念定义条件和句子填充条件诱发相等熟悉性和回想加工。  
+76 这些研究结果表明，整合能够通过增加熟悉性和回想加工来提高联结再认的表现，但并不影  
+77 响项目再认及其加工过程。Liu 等(2020)采用复合词和非复合词为实验材料，开展了行为和  
+78 脑电两个实验来探讨整合对项目再认的作用。研究结果一致显示，复合词和非复合词两种条  
+79 件间有相等的项目再认表现。但在区分熟悉性和回想加工对项目再认的贡献时，行为实验结  
+80 果显示，复合词比非复合词诱发更多的回想加工；而 ERP 实验结果显示，非复合词比复合  
+81 词诱发更大的LPC 效应，两个实验的结果出现明显的分歧。Liu等(2020)将这一分歧解释为  
+82 行为实验中的回想加工可能混入熟悉性加工的贡献。作者认为还可以从另一角度进行解释，  
+83 相比较于非复合词中没有联结而需要花费更多的认知资源进行联结编码，复合词由于联结早  
+84 已存在而可以将节省的认知资源投放到项目编码中，使得被试可以依据较少的认知努力（较  
+85 少的 LPC 效应）而得到更好的再认成绩（更多的“记得"反应）。
+
+基于上述研究之间的分歧，本研究拟通过一个实验同时考察整合对联结再认和项目再认的作用，检验"收支平衡"和"只有收益"观点的合理性。相比较于交互表象法和概念定义法需要在实验过程中通过指导语来操纵整合水平，复合词得益于日常生活中的捆绑呈现，词对之间有更强的联结，是一种更明确和稳定的整合方式。因此，本研究选择复合词vs.非复合词这种操纵整合的方式来考察整合对联结再认和项目再认及其加工过程的影响。基于已有研究，我们预测：（1）整合能够促进熟悉性加工对联结再认的贡献；（2）整合可能并不会损害项目再认的表现。
+
+# 2 方法
+
+2.1 被试
+
+依据Parks和Yonelinas (2015)所得的效应量(effect size j $\mathrm { \hat { \ } } =$ .61)，估计要达到 $\mathtt { a } = 0 . 0 5$ ，11 $\beta = 0 . 9 5$ 水平，至少需要12名被试。29 名某高校的大学生参与实验（11名男生，18 名女生），平均年龄为22.83岁（范围为18\~25岁），所有被试视力或矫正视力正常，右利手，无精神疾病，身体健康。所有被试均为自愿参加实验，实验结束后获得一定的报酬。本实验也已经得到首都师范大学伦理委员会的批准。
+
+# 2.2 实验材料
+
+实验材料来源于 Zheng 等(2015)和Liu等(2020)，包含144 对复合词、144 对非复合词和96个新词。12名未参加正式实验的被试完成材料评定任务，采用5点量表分别对编码阶段和提取阶段的实验材料进行熟悉程度( $1 =$ 非常不熟悉, $5 =$ 非常熟悉)和整合程度( $1 =$ 整合程度非常低, $5 =$ 整合程度非常高)的评估。编码阶段的结果显示，复合词和非复合词有相等的熟悉程度 $[ 4 . 6 6 \pm 0 . 2 7 , 4 . 7 0 \pm 0 . 3 1 , t ( 1 1 ) = - 1 . 0 2 , p = 0 . 3 3 ]$ ，且复合词比非复合词有更高的整合水平 $[ 4 . 8 0 \pm 0 . 2 5 , 1 . 1 6 \pm 0 . 1 2 \ t ( 1 1 ) = 4 3 . 8 6 , p < . 0 0 1$ $d = 1 2 . 6 6 ]$ 。提取阶段的结果显示，在联结再认测验中，复合一旧词对、复合一重组词对、非复合一旧词对和非复合一重组词对有相等的熟悉程度 $[ 4 . 6 0 \pm 0 . 3 6 , 4 . 7 0 \pm 0 . 2 8 , 4 . 7 0 \pm 0 . 3 1 , 4 . 7 1 \pm 0 . 2 9 , F ( 3 , 3 3 ) = 0 . 7 9 , p = 0 . 4 2 ]$ ，且四组词对之间的整合水平存在显著的差异 $[ 4 . 8 2 \pm 0 . 2 6 , 4 . 8 6 \pm 0 . 1 6 , 1 . 1 6 \pm 0 . 1 9 , 1 . 0 8 \pm 0 . 1 ($ ），$F ( 3 , 3 3 ) = 1 8 7 0 . 4 6 , p < . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 9 9 ]$ 。事后比较显示，复合一旧词对和复合一重组词比非复合一旧词对和非复合一重组词对有更高的整合水平( $\mathrm { a l l } p s < 0 . 0 0 1 \mathrm { \Omega }$ ，而复合一旧词对和复合一重组词对、非复合一旧词对和非复合一重组词对之间的整合水平没有显著差异(all $p s >$ 0.18)。在项目再认测验中，复合一旧词、非复合一旧词和新词之间有相等的熟悉程度 $[ 4 . 2 6 \pm$ $0 . 9 4 , 4 . 3 4 \pm 0 . 9 1 , 4 . 3 9 \pm 0 . 7 1 , F ( 2 , 2 2 ) = 1 . 3 6 , p = 0 . 2 7 ]$ 。以上结果表明，实验材料匹配良好，符合实验要求。
+
+# 2.3实验程序
+
+使用17英寸的纯平显示器呈现实验材料，被试与屏幕的距离为 $7 0 \mathrm { c m }$ （视角为 $6 . 0 8 ^ { \circ } \times$ $2 . 2 4 ^ { \circ }$ ）。为了避免疲劳效应，实验分为6个组块，其中3个组块构成联结再认测验，每个组块包括编码阶段、休息阶段和提取阶段；另外3个组块构成项目再认测验，每个组块只包含提取阶段。以一个组块为例，在联结再认测验中，编码阶段屏幕上首先出现一个 $+ ^ { , , , }$ ，持续 $9 0 0 \sim 1 1 0 0 \mathrm { m s }$ ，紧接着呈现一对词语，持续时间为 $4 0 0 0 \mathrm { { m s } }$ ，在此期间被试需要对词语的整合水平进行5点评分（ $1 =$ 整合程度非常低, $5 =$ 整合程度非常高），并记住这对词对。随后，再次呈现 $\cdot _ { + } , \cdot ,$ ，开始下一个试次。词对呈现顺序伪随机，分两组呈现共96 对词语。学习结束后，休息两分钟，进行联结再认测验。为了保证编码一提取阶段学习词对和测验词对的整合水平保持一致，32对复合词重新组合成16对复合词（剩余32个单个词语），32对非复合词重新组合成16对非复合词（剩余32个单个词语）。如此编码阶段学习96对词语，测验阶段只呈现64对词语，分为4种提取条件：（1）复合一旧词对（与复合词中的词对完全一致）；（2）复合一重组词对（两个复合词重新组合后形成的新复合词）；（3）非复合一旧词（与非复合词中的词对完全一致）；（4）非复合一重组词对（两个非复合词重新组合后形成的新非复合词）。三组联结再认测验结束后，被试再完成3组项目再认测验。以一个组块为例，32对复合词中剩余的32个单个词语和32对非复合词中剩余的32个单个词语被作为旧词语，与32个新词共同构成项目再认的材料，分为3种提取条件（共96个词对)：（1）复合一旧词（与复合词中的某个词语完全一致）；（2）非复合一旧词（与非复合词中的某个词语完全一致）；（3）新词（与学习阶段的单个词语无语义相关，且学习阶段没有呈现过）。联结再认和项目再认测验的实验材料分配见附录1。在再认测验中，被试需要对词对或词语进行"新/旧"判断，其中只有完全一致的旧词对或旧词语被判断为"旧”，重新组合的重组词对和新词语都被判断为"新”。每个试次中，屏幕上首先出现一个 $\cdot \cdot _ { + } , \cdot ,$ ，持续 $9 0 0 \sim 1 1 0 0$ ms，紧接着呈现词对或词语，持续时间为 $2 0 0 0 \mathrm { { m s } }$ ，要求被试进行“新（F）/旧（J）"判断。实验程序见图1。
+
+图1实验流程图  
+![](images/14e4a526f0494ae583c2d5a798bf1125830164ccfe4c36ab0e896f9cec17519b.jpg)  
+注：图中红色方框的刺激表示脑电数据分析的零点
+
+# 2.4EEG记录
+
+实验采用 Neuroscan 公司生产的 ESI一64 导脑电记录系统记录相应的 EEG，电极帽采用国际10-20扩展电极位置系统的 $\mathrm { \ A g / A g C l }$ 电极帽。数据采集时，左侧乳突处的电极作为参考电极，右侧乳突处的电极作为记录电极；离线数据分析时，采用双侧乳突的均值作为参考。垂直眼电(VEOG)的记录采用左眼眶上下的两个电极，水平眼电(HEOG)的记录采用两侧外眼角处的2个电极，接地电极(GND)位于 $\mathrm { F P z }$ 和 $\mathrm { F } z$ 之间。脑电信号的采样频率为 ${ 5 0 0 } \mathrm { H z }$ ，连续记录时滤波带通为 $0 . 0 5 \sim 1 0 0 \mathrm { H z }$ ，头皮电阻小于 $5 \mathrm { k } \Omega$ 。离线数据分析时滤波带通为 $0 . 0 5 \sim$ $4 0 \mathrm { { H z } }$ 。以词语呈现时间点为0点（见图1中的红框标注），截取 $- 2 0 0 \sim 1 0 0 0 \mathrm { m s }$ 的脑电数据,其中 $- 2 0 0 \sim 0 \mathrm { m s }$ 为基线，以回归程序对眨眼伪迹进行校正处理。叠加平均前剔除波幅超过$\pm 7 5 \mu \mathrm { V }$ 的试次，并只对正确试次进行叠加。在联结再认中，复合一旧词对、复合一重组词对、非复合一旧词对和非复合一重组词对的平均叠加试次数分别为40、26、33、33；在项目再认中，复合一旧词、非复合一旧词和新词的平均叠加试次数分别为58、54、44。根据之前的研究(Liu et al.,2020; Pilgrim et al.,2012)以及对 ERP 波形图的检查,我们最终选定 300$\sim 5 0 0 ~ \mathrm { m s }$ 和 $5 0 0 \sim 7 0 0 ~ \mathrm { m s }$ 两个时窗，左额叶(Left Frontal: F5、F3、F1）、右额叶(Right Frontal:F2、F4、F6)、左顶叶(Left Parietal: P5、P3、P1)和右顶叶(Right Parietal: P2、P4、P6)四个脑区进行数据分析。
+
+# 3结果
+
+# 3.1整合评定的结果
+
+对编码阶段的整合评定进行配对样本 $t$ 检验分析。结果显示，复合词比非复合词有更高的整合水平 $\cdot [ 4 . 7 2 \pm 0 . 2 2 , 1 . 5 4 \pm 0 . 3 9 , t ( 2 8 ) = 4 4 . 5 0 , p < 0 . 0 0 1$ Cohen's $d = 8 . 2 6 ]$ 和更快的反应时 $[ 1 2 0 6 . 5 5 \pm 3 1 8 . 7 4 , 1 6 7 2 . 0 6 \pm 3 8 8 . 5 6 , t ( 2 8 ) = - 6 . 4 4 , p < 0 . 0 0 1$ , Cohen's $d = - 1 . 1 9 ]$ ，表明被试能够很好地区分复合词和非复合词。
+
+# 3.2联结再认
+
+# 3.2.1行为结果
+
+以整合条件（复合词、非复合词）为自变量，以旧词对的击中率(hits)、重组词对的虚报率(False alarms,FAs)、联结再认的表现(probability of true recognition, $\mathrm { P r } = \mathrm { h i t s } - \mathrm { F A s } )$ 以及正确反应的反应时为因变量，进行配对样本 $t$ 检验或重复测量方差分析。结果显示，在旧词对的 hits上，复合词比非复合词有更高的 hits $[ t ( 2 8 ) = 6 . 7 5 , p < 0 . 0 0 1$ , Cohen's $d = 1 . 2 5 ]$ ；在重组词对的FAs上，复合词和非复合词有相等的 FAs $[ t ( 2 8 ) = 0 . 6 3 , p = 0 . 5 3 ]$ ；在联结再认的 $\mathrm { P r }$ 上，复合词比非复合词有好的联结再认表现 $[ t ( 2 8 ) = 5 . 6 7 , p < 0 . 0 0 6$ ,Cohen's $d = 1 . 0 5 ]$ 。对正确反应时进行2（整合条件：复合词、非复合词） $\times 2$ （提取条件：旧词对、重组词对）重复测量方差分析。结果显示，整合条件主效应显著 $[ F ( 1 , 2 8 ) = 4 0 . 7 3 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 5 9 ]$ ，提取条件主效应显著 $[ F ( 1 , 2 8 ) = 1 2 0 . 9 7 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 8 1 ]$ ，整合条件 $\times$ 提取条件交互效应显著 $[ F ( 1 , 2 8 ) = 5 5 . 8 4 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } =$ $\mathfrak { n } _ { p } ^ { 2 } = 0 . 6 7 ]$ 。简单效应分析显示，不论是旧词对还是重组词对，复合词都比非复合词有更快的反应时。
+
+表1描述统计分析表(M/SD)  
+
+<html><body><table><tr><td></td><td>复合词</td><td>非复合词</td></tr><tr><td>击中率</td><td>0.86(0.08)</td><td>0.72(0.12)</td></tr><tr><td>虚报率</td><td>0.32(0.10)</td><td>0.25(0.12)</td></tr><tr><td>联结再认</td><td>0.55(0.12)</td><td>0.46(0.18)</td></tr><tr><td>旧词对的反应时</td><td>1056.47(117.40)</td><td>1202.62(114.15)</td></tr><tr><td>重组词对的反应时</td><td>1217.49(116.59)</td><td>1302.09(98.55)</td></tr></table></body></html>
+
+# 3.2.2ERP结果
+
+$3 0 0 \sim 5 0 0 ~ \mathrm { m s }$ （FN400效应）
+
+重组词对vs.旧词对：以3个电极的平均波幅为因变量，进行2（整合条件：复合词、非复合词） $\times 2$ （提取条件：重组词对、旧词对） $\times 2$ （脑区：额区、顶区） $\times 2$ （半球：左半球、右半球）重复测量方差分析。结果显示，整合条件主效应显著 $[ F ( 1 , 2 8 ) = 3 4 . 3 6 , p <$ 0.001, $\mathfrak { n } _ { p } ^ { 2 } = 0 . 5 5 ]$ ，整合条件 $\times$ 脑区 $[ F ( 1 , 2 8 ) = 9 . 9 4 , p = 0 . 0 0 4 , \eta _ { p } ^ { 2 } = 0 . 2 6 ]$ 、整合条件 $\times$ 半球$[ F ( 1 , 2 8 ) = 1 7 . 5 7 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 3 9 .$ 、整合条件 $\times$ 提取条件 $\times$ 脑区 $[ F ( 1 , 2 8 ) = 6 . 0 3 , p :$ $p =$ 0.021, $\eta _ { p } ^ { 2 } = 0 . 1 8 ]$ 和整合条件 $\times$ 脑区 $\times$ 半球交互效应显著 $[ F ( 1 , 2 8 ) = 1 4 . 6 9 , p = 0 . 0 0 1 , \eta _ { p } ^ { 2 } =$ 0.34]。简单效应分析显示，在双侧额区上，复合一重组词对比复合一旧词对诱发更负的波幅(all $p s < 0 . 0 6 3 )$ ；而在四个脑区上，非复合一重组词对和非复合一旧词对诱发相等的波幅中 $\mathrm { \hat { a l l } \ p s > 0 . 1 0 } \}$ （见图2a）。
+
+比较复合词vs.非复合词条件间FN400效应的差异：为了比较条件间FN400效应的差异，我们首先计算 FN400 效应的大小（FN400 效应 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 旧词对 $( \ddagger \Psi )$ 诱发的波幅 －重组词对(正确拒绝)诱发的波幅，见图2b,2c）。以整合条件（复合词、非复合词）、脑区（额区、顶区）和半球（左半球、右半球）为自变量进行重复测量方差分析。结果显示，只有整合 $\times$ 脑区交互效应显著 $[ F ( 1 , 2 8 ) = 6 . 0 3 , p = 0 . 0 2 1 , \eta _ { p } ^ { 2 } = 0 . 1 8 ]$ ，其余效应均不显著( ${ \mathrm { a l l ~ } } F s < 2 . 4 2 , p s > 0 . 1 3 )$ 。简单效应分析显示，在双侧额区上，复合词比非复合词诱发更大的FN400 效应。
+
+$5 0 0 \sim 7 0 0 ~ \mathrm { m s }$ (LPC 效应)
+
+重组词对vs.旧词对：以3个电极的平均波幅为因变量，进行2（整合条件：复合词、非复合词) $\times 2$ （提取条件：重组词对、旧词对） $\times 2$ （脑区：额区、顶区） $\times 2$ （半球：左半球、右半球)的重复测量方差分析。结果显示，整合条件 $[ F ( 1 , 2 8 ) = 1 6 . 1 7 , p < 0 . 0 0 1$ $\mathfrak { n } _ { p } ^ { 2 } = 0 . 3 7 ]$ 和提取条件主效应显著 $[ F ( 1 , 2 8 ) = 1 5 . 9 7 , p < 0 . 0 0 1 , \eta _ { p } ^ { 2 } = 0 . 3 6 ]$ ；整合条件 $\times$ 提取条件 $[ F ( 1 , 2 8 )$ $= 5 . 7 4 , p = 0 . 0 2 3 , \eta _ { p } ^ { 2 } = 0 . 1 7 ]$ ，整合条件 $\times$ 脑区 $[ F ( 1 , 2 8 ) = 9 . 8 7 , p = 0 . 0 0 4 , \eta _ { p } ^ { 2 } = 0 . 2 6 ]$ ，整合条件 $\times$ 脑区 $\times$ 半球 $[ F ( 1 , 2 8 ) = 4 . 4 6 , p = 0 . 0 4 4$ $\eta _ { p } ^ { 2 } = 0 . 1 4 ]$ 和整合条件 $\times$ 提取条件 $\times$ 脑区 $\times$ 半球交互效应显著 $[ F ( 1 , 2 8 ) = 1 2 . 1 4 , p = 0 . 0 0 2 , \eta _ { p } ^ { 2 } = 0 . 3 0 ]$ 。简单效应分析显示，在右额区和双侧顶区上，复合一旧词对比复合一重组词对诱发更正的波幅(all $p s < 0 . 0 2 5 )$ ；在右顶区上，非复合一旧词对比非复合一重组词对诱发更正的波幅 $( p = 0 . 0 4 4 )$ （见图2a）。
+
+比较复合词vs.非复合词条件间LPC效应的差异：为了比较条件间LPC 效应的差异，我们首先计算LPC 效应的大小（LPC 效应 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 旧词对 $( \ddagger \Psi )$ 诱发的波幅－重组词对 $( { \underline { { \operatorname { \bf { \tau } } } } } \hbar \hbar \hbar ) \hbar \operatorname { \bf { \tau } } ^ { * } = \hbar \operatorname { \bf { \tau } } ^ { * } ( { \underline { { \operatorname { \bf { \tau } } } } } )$ 诱发的波幅，见图 2b,2c）。以整合条件（复合词、非复合词）、脑区（额区、顶区）和半球（左半球、右半球）为自变量进行重复测量方差分析。结果显示，整合条件主效应显著 $[ F ( 1 , 2 8 )$ $= 5 . 2 7 , p = 0 . 0 2 9$ ， $\eta _ { p } ^ { 2 } \ = 0 . 1 6 ]$ ，整合条件 $\times$ 脑区 $\times$ 半球交互效应显著 $[ F ( 1 , 2 8 ) = 1 5 . 3 1 , p =$ 0.001, $\eta _ { p } ^ { 2 } = 0 . 3 5 ]$ 。简单效应分析显示，在右额区和左顶区上，复合词比非复合词诱发更大的 LPC效应( $\operatorname { a l l } p s < 0 . 0 3 5 )$ 。
+
+总而言之，整合不仅能促进熟悉性加工对联结再认的贡献，还能通过增加熟悉性和回想加工对联结再认的贡献来提高联结再认的表现。
+
+![](images/3670427f3c2282744157f2c7588dd6a5e3de9e99a4fcfc120c9062090fa64609.jpg)  
+图2 联结再认中各条件下叠加平均的波形图(a)、新旧效应分布的波形图(b)和地形图(c)
+
+# 3.3项目再认
+
+# 3.3.1行为结果
+
+以整合条件（复合词、非复合词）为自变量，以旧词的hits、项目再认的表现以及正确反应的反应时为因变量，进行配对样本 $t$ 检验或重复测量方差分析。结果显示，复合一旧词和非复合－旧词有相等的 hits $[ 0 . 7 5 \pm 0 . 1 4$ vs. $0 . 7 3 \pm 0 . 1 1$ ， $t ( 2 8 ) = 0 . 9 7$ $p = 0 . 3 4 ]$ 和项目再认表现 $\{ 0 . 3 4 \pm 0 . 1 5 \mathrm { \ v s . \ } 0 . 3 2 \pm 0 . 1 3 , t ( 2 8 ) = 0 . 9 7 , p = 0 . 3 4 \}$ 。贝叶斯分析显示，有中等强度的证据支持零假设为真 $( B F _ { 0 1 } = 0 . 3 0 2 )$ ，即整合确实不影响项目再认的表现。对正确反应时进行单因素（提取条件：复合一旧词、非复合一旧词、新词）重复测量方差分析。结果显示，提取条件主效应显著 $1 2 2 8 . 4 0 \pm 1 2 5 . 5 0$ ， $1 0 0 3 . 7 2 \pm 1 3 5 . 5 2$ vs. 1112.36 ± 127.30, $F ( 1 , 2 8 ) = 4 6 . 1 9$ ， $p <$ 0.001, $\mathfrak { \eta } _ { p } ^ { 2 } = 0 . 6 2 ]$ ，非复合一旧词有最快的反应时，其次是新词，而复合一旧词的反应时最慢(all $p s < 0 . 0 0 1 \AA$ 。
+
+# 3.3.2ERP结果
+
+$3 0 0 \sim 5 0 0 ~ \mathrm { m s }$ （FN400效应）
+
+复合一旧词、非复合一旧词vs.新词：以3个电极的平均波幅为因变量，进行3（提取条件：复合一旧词、非复合一旧词、新词） $\times 2$ （脑区：额区、顶区） $\times 2$ （半球：左半球、右半球）的重复测量方差分析。结果显示，只有提取条件 $\times$ 脑区 $\times$ 半球交互效应显著 $[ F ( 2 ,$ 56) = 4.02, $p = 0 . 0 2 3$ ， $\mathfrak { n } _ { p } ^ { 2 } = 0 . 1 3 ]$ ，其余效应均不显著(all $F s < 2 . 3 9 , p s > 0 . 1 0 )$ 。简单效应分析显示，新词比复合一旧词在右额区上诱发更负的波幅 $( p = 0 . 0 0 9 )$ ；新词和非复合一旧词在四个脑区上诱发相等的波幅(al $1 p s > 0 . 1 0 )$ （见图3a）。
+
+比较复合词vs.非复合词条件间FN400效应的差异：与联结再认分析一致，我们首先计算 FN400 效应的大小（FN400效应 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 旧词 $( \sharp \sharp )$ 诱发的波幅 －新词(正确拒绝)诱发的波幅，见图3b,3c）。以整合条件（复合词、非复合词）、脑区（额区、顶区）和半球（左半球、右半球）为自变量进行重复测量方差分析。结果显示，只有整合条件 $\times$ 脑区交互效应显著 $[ F ( 1 ,$ （20$2 8 ) = 5 . 7 8 , p = 0 . 0 2 3 , \eta _ { p } ^ { 2 } = 0 . 1 7 ]$ ，其余效应均不显著(all $F s < 2 . 4 7 , p s > 0 . 1 3 \rangle$ 。简单效应分析显示，在额区上，复合词比非复合词诱发更大的FN400 效应 $( p = 0 . 0 4 9 )$ 。$5 0 0 \sim 7 0 0 ~ \mathrm { m s }$ (I.PC 效应)
+
+复合一旧词、非复合一旧词vs.新词：以3个电极的平均波幅为因变量，进行3（提取条件：复合一旧词、非复合一旧词、新词） $\times 2$ （脑区：额区、顶区） $\times 2$ （半球：左半球、右半球）的重复测量方差分析。结果显示，提取条件主效应显著 $[ F ( 2 , 5 6 ) = 3 . 6 6 , p = 0 . 0 4 4 , \eta _ { p } ^ { 2 }$ $= 0 . 1 2 ]$ ，提取条件 $\times$ 脑区 $[ F ( 2 , 5 6 ) = 3 . 8 2 , p = 0 . 0 2 8 , \eta _ { p } ^ { 2 } = 0 . 1 2 ]$ 、提取条件 $\times$ 半球 $[ F ( 2 , 5 6 ) =$ 3.70, $p = 0 . 0 5 0$ $\eta _ { p } ^ { 2 } \ = 0 . 1 2 \big ]$ 和提取条件 $\times$ 脑区 $\times$ 半球交互效应显著 $[ F ( 2 , 5 6 ) = 1 1 . 1 4 , p <$ 0.001, $\eta _ { p } ^ { 2 } = 0 . 2 9 ]$ 。简单效应分析显示，复合一旧词比新词在右额区和双侧顶区上诱发更正的波幅( $\operatorname { a l l } p s < 0 . 0 3 9 )$ ；非复合一旧词比新词在双侧顶区上诱发更正的波幅( $\left( \mathrm { a l l } p s > 0 . 0 5 5 \right)$ （见图3a）。
+
+比较复合词vs.非复合词条件间LPC效应的差异：与联结再认分析一致，我们首先计算LPC 效应的大小（LPC效应 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 旧词 $( \sharp \sharp )$ 诱发的波幅－ 新词 $( \mathbb { E } \mathbb { H } \mathbb { H } \mathbb { E } \mathbb { Z } )$ 诱发的波幅，见图3b,3c）。以整合条件（复合词、非复合词）、脑区（额区、顶区）和半球（左半球、右半球）为自变量进行重复测量方差分析。结果显示，整合条件 $\times$ 脑区 $[ F ( 1 , 2 8 ) = 5 . 9 2 , p = 0 . 0 2 2 , \eta _ { p } ^ { 2 } = 0 . 1 7 ]$ 和脑区 $\times$ 半球交互效应显著 $[ F ( 1 , 2 8 ) = 6 . 6 3 , p = 0 . 0 1 6 , \eta _ { p } ^ { 2 } = 0 . 1 9 ]$ 。简单效应分析显示，在双侧额区上 $( \mathrm { a l l } p s < 0 . 0 4 2 )$ ，复合词比非复合词诱发更大的新旧效应。
+
+总体而言，整合虽然增加了熟悉性加工对项目再认的贡献，但并不影响项目再认的总体表现。
+
+![](images/e6bf606436924d0b796747f48c9596abcfbbe4c0084db3fd8cd2c5640e630184.jpg)  
+图3 项目再认中各条件下叠加平均的波形图(a)、新旧效应分布的波形图(b)和地形图(c)
+
+# 4讨论
+
+虽然关于整合对联结再认作用的研究观点已基本趋于一致一一整合能够促进熟悉性加工来支持联结再认，但关于整合如何影响构成联结的单个项目的再认，已有研究较少且存在明显的分歧。“收支平衡"观点认为整合在促进联结再认的同时会损害项目再认，而"只有收益"观点认为整合在促进联结再认的同时并不会损害项目再认。本研究发现，整合在促进联结再认的同时并不会损害项目再认，支持了“只有收益"观点。ERP结果显示，整合不仅能够促进熟悉性加工来支持联结再认，还能增加回想加工对联结再认的贡献。同时，整合还能够增加熟悉性加工对项目再认的贡献。
+
+# 4.1整合对联结再认的促进作用
+
+对于联结再认，整合不仅能够促进熟悉性加工来支持联结再认，还能增加回想加工对联结再认的贡献，这一结果与已有研究相一致(Bridger et al.,2017;Li etal.,2019; Parks &Yonelinas,2015; Tibon et al.,2014; Zheng et al.,2015)。出现这一结果的原因可能是，复合词由于在日常生活中经常捆绑呈现而形成较强的联结。编码阶段被试学习复合词的同时增加了对联结的熟悉性，而构成非复合词的两个词语之间没有这种联结，被试即使学习过这一词对，获得的联结熟悉性也远小于复合词(Bader et al.,2010;Lu et al.,2020)。提取阶段当要求被试区分复合一旧词对和复合一重组词对时，他们可以依靠这一增加的联结熟悉性来区分旧词对和重组词对，表现为复合词诱发显著的FN400效应；而在区分非复合一旧词对和非复合一重组词对时，这一联结熟悉性的作用明显更小，表现为非复合词没有诱发显著的FN400 效应。虽然熟悉性加工能够支持联结再认，但回想加工对联结再认的作用仍然不能忽略。已有研究发现，整合可能促进(Bridger et al.,2017; Parks& Yonelinas,2015; Tibon et al.,2014;Zheng et al.,2015)、不影响(Han et al., 2018; Li et al.,2017,2019; Liu et al.,2020; Lu et al.,2020)、甚至损害(Bader et al.,2010; Kamp et al.,2016; Kriukova et al.,2013; Shao et al.,2016)回想加工对联结再认的贡献。出现这一分歧的原因，可能是由于词对之间的联结程度有所不同。当词对之间的联结程度非常强时，被试可以依靠单个词语而回想起与之配对的词语（例如，依据“希腊"可以回想起“希腊一神话"），进而正确接受旧词对或者正确拒绝重组词对(Bridger et al.,2017; Li et al.,2019; Parks & Yonelinas,2015; Tibon et al.,2014; Zheng et al.,2015)。在本研究中，由于复合词有较强的联结，被试可以依靠单个词语而回想起与之配对的词语，因此复合词能够诱发显著的LPC 效应；而非复合词由于词对之间的联结较弱，被试则较难依靠单个词语而回想起与之配对的词语，因此非复合词诱发更小的LPC 效应。简而言之，对于拥有较强联结的复合词，被试不仅可以依赖编码阶段学习复合词时增加的联结熟悉性来完成联结再认测验，还可以依据单个词语而回想起学习过的词对来完成联结再认测验。而非复合词由于两个词语之间较弱的联结，编码阶段被试学习非复合词时增加的联结熟悉性难以支持被试来完成联结再认测验，且依据单个词语回想起原学习词对的难度也更大。因此，在复合词条件下熟悉性和回想加工都能支持联结再认测验，而在非复合词条件下只有回想加工能够支持联结再认，且复合词比非复合词有更多的回想加工。
+
+# 4.2整合对项目再认的影响
+
+关于整合对项目再认的作用，存在两种截然相反的观点。“收支平衡"观点认为整合以损害项目再认为代价来促进联结再认，而“只有收益"观点认为整合在促进联结再认的同时并不会损害项目再认。早期，作者试图从认知资源有限的角度试图解释"收支平衡"和“只有收益"观点的合理性。认为认知资源是有限的，整合中的联结编码和项目编码是一个竞争认知资源的过程，但两者之间并不是此消彼长的关系，而需要考虑到实验材料的性质。依据实验前刺激材料的性质，整合可以划分为自上而下整合和自下而上整合(Tibon etal.,2014)。前者通过指导被试将两个或两个以上语义无关的项目捆绑编码为一个整体表征或分别编码为两个相互独立的表征来操纵整合水平（例如，交互表象法vs.项目表象法、概念定义法vs.句子填充法），而后者则依赖项目间固有的知觉特性或内在联系来操纵整合水平（例如，复合词 vs.非复合词、相关词对vs.无关词对）。在自上而下的整合中，由于实验前材料之间的无联结性，编码阶段被试需要将更多的认知资源投放到联结编码中形成整体表征，而将较少的认知资源被投放到项目编码上，因此整合可能会损害项目再认的表现，支持"收支平衡"观点。但在自下而上的整合中，由于实验前材料之间已有的联结，在进行整合编码时并不需要占用额外的认知资源来生成联结，被试将足够的认知资源投放到对项目编码中，因此整合并不会损害项目记忆的表现，支持"只有收益"观点。分别检验自上而下整合和自下而上整合对项目再认的作用，本实验、Liu等(2020)使用复合词和非复合词来操纵自下而上整合，结果显示自下而上整合并不损害项目再认的表现，与我们的预期相一致。Parks 和 Yonelinas (2015)和Pilgrim 等(2012)采用概念定义法和交互表象法操纵自上而下整合的研究也发现，高整合条件和低整合条件诱发相等的项目再认表现，与我们的预期不相符。需要注意的是，上述四项研究一致发现，不论是自上而下整合还是自下而上整合都不会影响项目再认的表现，支持“只有收益"观点。究其原因，可能还是因为不论是哪种整合方式，被试在编码阶段都对联结和项口逊1』缅。
+
+加工路径假说认为整合有两条灵活的加工路径，一条是直接整体加工路径，另一条是单个成分语义加工路径(Buchler et al.,2008;Frisson et al.,2011; Yonelinas et al.,2001)。前者认为整合直接对整体进行加工，而后者认为整体加工是依赖对成分的加工的。支持整体加工优先的研究者认为，当编码时间有限时，优先加工整体而不能加工成分，因此整合可能会损害项目再认的表现。支持成分语义加工的研究者则认为整体是由成分构成，在加工整体的同时成分也得到加工，因此整合并不会损害项目再认(Ji etal.,2011)。对于使用复合词和非复合词来操纵自下而上整合的研究(本实验、Liuetal.,2020)，不论是整体加工优先还是成分语义加工优先，编码阶段的刺激材料呈现 $4 0 0 0 \mathrm { { m s } }$ ，被试都有足够的时间来完成整体编码（即联结）和成分编码（即项目）。同理，对于使用语义无关词对来操纵自上而下整合的研究(Parks&Yonelinas,2015;Pilgrim etal.,2012),编码阶段研究者通过人为地赋予这些刺激一定的意义来指导被试对这些词语进行编码。在这一过程中，被试不可避免地对这些词语进行了一定程度的编码。因此，不论自下而上整合还是自上而下整合都可能不影响项目再认的表现。那么，什么情况下“收支平衡"观点才会成立呢？在现有的五项研究中，本实验、Liu 等(2020)、Parks 和 Yonelinas (2015)和Pilgrim 等(2012)四项研究都使用同一组新词作为实验材料，且新词与原学习词对之间无任何语义相关，结果显示整合并不会影响项目再认的表现。而 Ahmad 和Hockley (2014)使用两组新词（复合一新词、非复合一新词）作为实验材料，结果显示复合一新词比非复合一新词有更高的FAs。虽然这一更高的FAs 不是导致整合损害项目再认表现的唯一原因，但这一发现为"收支平衡"观点提供了很好的思路。当项目再认测验
+
+中使用的新词与旧词存在较高的相似性时（为了区别于低相似性的新词，我们称高相似性的新词为诱饵词），由于诱饵词的高FAs，整合可能会损害项目再认的表现。未来研究可以通过将新词区分为语义无关新词和语义相关诱饵词，来检验“只有收益”和“收支平衡”观点345的合理性以及这两种观点的适用条件。
+
+区分熟悉性和回想加工对项目再认的贡献，结果显示复合词诱发显著的FN400 效应和LPC 效应，而非复合词只诱发了显著的LPC 效应。即熟悉性和回想加工都能支持复合一旧词和新词的区分，而非复合一旧词和新词的区分只能依靠回想加工。究其原因，可能是因为相比较于非复合词，构成复合词的单个词语在编码时激活了更多的语义相关节点（激活扩散模型）。而非复合词由于缺少联结，单个词语在编码时激活较少的语义相关节点，导致复合一旧词比非复合一旧词有更大的相对熟悉性（实验中由于学习而增加的熟悉性，见 Bader etal.,2010）。在提取时这一增加的相对熟悉性会有助于被试区分复合一旧词和新词，而非复合一旧词这一相对熟悉性的作用则较小，必须依靠回想加工来完成项目再认测验。同样，这一增加的相对熟悉性也可以很好地解释 Ahmad 和 Hockley (2014)研究中复合一新词比非复合一新词有更高的FAs这一结果。相比较于非复合词，构成复合词的单个词语编码阶段激活更多语义相关节点，导致被试对这些未学习过的诱饵词有更高的熟悉感。测验阶段这种增加的熟悉感会诱导被试做出错误的旧反应，导致更高的FAs 和更差的项目再认表现。需要注意的是，与Liu等(2020)的研究相比较，本研究和Liu 等(2020)一致发现整合并不会影响项目再认的总体表现，但在区分熟悉性和回想加工对项目再认的贡献时，Liu 等(2020)发现整合减少了回想加工(LPC 效应)对项目再认的贡献，而本研究发现整合增加了熟悉性加工(FN400 效应)对项目再认的贡献。为了使两个研究中的数据具有可比性，作者向Liu 等(2020)寻求帮助得到他们经过校正后的新旧效应的数据，与本研究经过校正后的数据  
+363 (McCarthy and Wood,1985;Wilding,2006)进行了2（研究：本研究、Liu等(2020)）×2（整  
+364 合条件：复合词、非复合词）的重复测量方差分析。在与熟悉性加工相关的FN400 效应上，  
+365 所有效应均不显著(all $F s < 1 . 6 7$ ,all $p s > 0 . 2 1$ )。计划比较的结果也显示，不论在复合词还是  
+366 非复合词条件下，本研究与Liu等(2020)的研究都诱发了相等的FN400 效应。而在与回想加  
+367 工相关的LPC 效应上，研究的主效应边缘显著 $[ F ( 1 , 2 2 ) = 3 . 7 0 , p = 0 . 0 6 8$ ， $\eta _ { p } ^ { 2 } = 0 . 1 4 ]$ ，本研  
+368 究比 Liu 等(2020)的研究诱发更大的LPC 效应。计划比较显示，在复合词上，本研究比 Liu  
+369 等(2020)的研究诱发更大的 LPC 效应 $( p = 0 . 0 2 7 )$ ；在非复合词上，本研究和Liu 等(2020)的研  
+370 究诱发相等的LPC 效应 $( p = 0 . 3 4 )$ 。因此，本研究和Liu等(2020)最大的区别在于复合词诱发  
+371 的 LPC 效应上。而造成本研究中复合词诱发更大LPC 效应的一个原因可能就是本实验中被
+
+试优先完成了联结再认测验。区分旧词对/重组词对的联结再认测验诱导被试更多的使用回想一接受或回想一拒绝的加工策略，增加了对回想加工的依赖。而在Liu等(2020)的研究中，被试直接进行项目再认测验，被试对熟悉性和回想加工的依赖程度并没有显著的差异。对校正后的FN400效应和LPC 效应进行2（效应类型：FN400、LPC） $\times \ 2$ （整合条件：复合词、非复合词）重复测量方差分析。结果显示，在Liu等(2020)的研究中，所有效应均不显著(all$F s < 1 . 4 8$ ,all $p s > 0 . 2 4 )$ ；而在本研究中，只有效应类型主效应显著 $[ F ( 1 , 2 8 ) = 6 . 2 4 , p = 0 . 0 2 0$ $\mathfrak { n } _ { p } ^ { 2 } = 0 . 2 2 ]$ ，LPC 效应明显大于FN400 效应，即本研究中回想加工对项目再认的贡献明显大于熟悉性加工。与复合词和非复合词之间相等的LPC 效应一致，复合词和非复合词之间也有相等的总体项目再认表现。
+
+总而言之，虽然研究者使用不同方式来操纵整合水平，但研究结果一致显示：整合并不会损害项目再认的总体表现，但熟悉性和回想加工对项目再认的贡献则可能受被试对这两种加工过程的依赖程度的影响。
+
+# 4.3整合可能的认知机制：项目假说和语义精细加工假说
+
+虽然不少的研究都关注了整合对联结再认的作用，但关于这一作用认知机制的研究却非常少。Tibon 等(2018)首次从项目假说和语义精细加工假说两个角度来解释整合的认知机制。项目假说认为熟悉性不能支持无语义联结的再认，项目再认可以由熟悉性来支持。那么，如果熟悉性能够支持无语义相关项目对的联结再认，则表明整合形成的是一个全新的项目表征。而语义精细加工假说认为，整合本质上也是对单个项目语义和联结语义的精细加工过程。因此，整合不仅能够促进联结再认还能够促进项目再认的表现。结合本研究的结果，整合能够促进熟悉性加工来支持联结再认，支持了项目假说。同时，整合并不影响项目再认的表现，反对了语义精细加工假说。这一结果与Parks 和 Yonelinas (2015)的研究相一致。Parks 和Yonelinas (2015)同时考察了整合和加工水平对联结再认和项目再认的影响。学习阶段要求被试完成概念定义任务（高整合条件）、句子填充任务（低整合条件）、元音计数任务（浅加工条件）和愉悦度判断任务（深加工条件），测验阶段要求被试完成联结再认和项目再认测验。结果显示，对于加工水平，不论在联结再认还是在项目再认上，深加工都比浅加工条件有更好的再认表现；而对于整合，高整合比低整合条件有更好的联结再认表现，但两种整合条件有相等的项目再认表现，表明整合和加工水平是两个不同的变量。依据本实验的研究结果一一整合促进了熟悉性加工来支持联结再认且并不影响项目再认，项目假说似乎更合理。未来研究不仅应该关注整合对联结再认和项目再认的作用机制，还应该同等程度地关注整合的发生机制。
+
+# 5结论
+
+相比较于以往整合研究中只关注联结再认，本研究同时考察了整合对联结再认和项目再认的作用，以及熟悉性和回想加工对两种再认的贡献。结果显示，整合在促进联结再认的同时并不损害项目再认，支持了“只有收益"观点。区分熟悉性和回想加工对再认的贡献，结果显示整合不仅能够促进熟悉性加工来支持联结再认，还能够增加回想加工对联结再认的贡献和增加熟悉性加工对项目再认的贡献，为项目假说提供了实验证据。总体而言，整合是一种非常有效的能够提高联结记忆表现的编码策略。
+
+# 参考文献
+
+Ahmad,F.N.,& Hockley,W.E.(2O14).The roleoffamiliarity inassociative recognition of unitized compound word pairs.The Quarterly Journal of Experimental Psychology, 67(12),2301-2324. Bader,R.,Mecklinger,A.,Hoppstadter,M.,& Meyer,P.(2Ol0).Recognition memoryforone-trial-unitized word pairs: Evidence from event-related potentials. Neuroimage, 50(2),772-781. Bastin, C.,Diana,R.A., Simon,J., Colete,F.,Yonelinas,A.P.,& Salmon,E. (2013).Associative memory in aging: The effect of unitization on source memory. Psychology and Aging, 28(1),275-283. Boucher,O., Chouinard-Leclaire,C.,Muckle, G., Westerlund,A.,Burden,M.J.,Jacobson,S.W.,&.Jacobsone,J. L. (2016). An ERP study of recognition memory for concrete and abstract pictures in school-aged children.   
+24 International JournalofPsychophysiology,106,106-114.   
+25 Bridger,E.K.Kursawe,A.L.,Bader,R.,Tibon,R.,Gronau,N.,Levy,D.A.,& Mecklinger,A.(2017).Age   
+26 effects on associative memory for novel picture pairings. Brain Research,1664,102-115.   
+27 Curran,T. (20oo). Brain potentials ofrecollection and familiarity. Memory & Cognition,28(6),923-938.   
+28 Curran,T.,& Cleary,A.M. (2o03). Using ERPs to dissciate recollection from familiarity in picture recognition.   
+29 Cognitive Brain Research,15(2),191-205.   
+30 D'Angelo, M.C.,Kacolja,A.,Rabin,J.S.,Rosenbaum,R.S.,& Ryan,J.D.(2015). Unitization supports lasting   
+31 performance and generalization on a relational memory task:Evidence from a previously undocumented   
+32 developmental amnesic case. Neuropsychologia, 77,185-200.   
+33 Delhaye,E.,& Bastin,C.(016).The impact ofaging on asociative memory for preexisting unitized associations.   
+34 Aging,Neuropsychology, and Cognition,25(1),1-29.   
+35 Giovanello,K.S.,Keane,M.M.,& Verfaelie,M.(2oo6).The contribution of familiarity to associative memory in
+
+437 Graf,P.，& Schacter, D.L. (1989). Unitization and Grouping Mediate Dissociations in Memory for New   
+438 Associations.Journal of Experimental Psychology: Learning, Memory,and Cognition,15(5),930-940.   
+439 Han,M.,Mao,X.,Kartvelishvili,N.,Li,W.,& Guo,C.(2018). Unitization mitigates interferencebyintrinsic   
+440 negative emotion in familiarity and recolection of associative memory: Electrophysiological evidence.   
+441 Cognitive,Affective, & Behavioral Neuroscience,18(6),1259-1268.   
+442 Ji,H.,Gagné,C.L.,& Spalding,T.L. (2011).Benefits and costsof lexicaldecompositionand semantic integration   
+443 during the processng of transparent and opaque English compounds. Journal of Memory and Language, 65(4),   
+444 406-430.   
+445 Kamp,S. M.，Bader,R.，& Mecklinger, A. (2016). The effect of unitizing word pairs on recollction versus   
+446 familiarity-based retrieval—further evidence from ERPs.Advances in Cognitive Psychology,12(4),169-178.   
+447 Kriukova，O.，Bridger，E.，& Mecklinger，A.(2013).Semantic relations diferentially impact associative   
+448 recognition memory: Electrophysiological evidence. Brain and Cognition, 83(1),93-103.   
+449 Li,B.，Han，M.，Guo，C.，& Tibon，R.(2019). Unitization modulates recognition of within-domain and   
+450 cross-domain associations: Evidence from event-related potentials. Psychophysiology, 56(11),1-14.   
+451 Li,B.,Mao,X.,Wang,Y.,& Guo, C.(2O17).Electrophysiological corelates of familiarity and recollection in   
+452 associative recognition: Contributions of perceptual and conceptual processng to unitization. Frontiers in   
+453 Human Neuroscience, 11,1-12.   
+454 Liu, G.,Jia,Y., Wang,Y., Mai,K., Guo, C. (2o19). The bilingual L2 advantage in associative recognition. Acta   
+455 Psychologica Sinica,51(01),14-23.   
+456 [刘贵雄，贾永萍，王余娟，买合甫来提·坎吉，郭春彦.(2019).联结再认中双语者第二语言记忆优势效应.心   
+457 理学报,51(01),14-23.]   
+458 Liu, Z.,Wang,Y.,& Guo, C.(O20). Under the condition of unitization at encoding rather than unitization at   
+459 retrieval， familiarity could support associative recognition and the relationship between unitization and   
+460 recollection was moderated by unitization-congruence. Learning & Memory, 27,104-113.   
+461 Liu, Z.,Wang,Y.,& Guo, C.(2019). Investigating the item recognition in assciative memory: A unitization   
+462 perspective. Advances in Psychological Science, 27(03), 490-498.   
+463 [刘泽军，王余娟，郭春彦.(2019)．从整合的角度看联结记忆中的项目再认．心理科学进展,27(03),490-498.]   
+464 Liu, Z.,Wu,J., Wang, Y.,& Guo,C. (2020). Unitization does not impede overallitem recognition performance:   
+465 Behavioral and event-related potential study. Neurobiology of Learning and Memory， 167. DOI:   
+466 10.1016/j.nlm.2019.107130   
+467 Lu,B.,Liu. Z.,W,Y.,& G,C.(2020).The different efects ofconcept definition and interactive imagery encoding   
+468 on asociative recognition for word and picture stimuli. International Journal of Psychophysiology，158,   
+469 178-189.   
+470 Lv,Y.,Liang,J., Guo, C.(2015).The Influence of Semantic Integration between Items on Associative Recognition:   
+471 Evidence from ERPs Study. Acta Psychologica Sinica, 47(04), 427-438.   
+472 [律原，梁九清，郭春彦.(2015).项目间语义可整合性对联结再认的影响—来自 ERPs研究证据．心理学   
+473 报, 47(04),427-438.]   
+474 Mandler,G.(1980). Recognizing: The judgment ofprevious occurrence. Psychological Review, 87(3),252-271.   
+475 McCarthy,G.，Wood, C.，1985.Scalp distributions of event-related potentials: An ambiguity associated with   
+476 analysis of variance models. Electroencephalography and Clinical Neurophysiology, 62,203-208.   
+477 Parks,C.M.,& Yonelinas,A.P.(2O15).The importance of unitization for familiarity-based learning.Journal of   
+478 Experimental Psychology: Learning, Memory, and Cognition, 41(3), 881-903.   
+479 Pilgrim,L.K.，Murray，J.G.，& Donaldson，D.I.(2012).Characterizing episodic memory retrieval:   
+480 Electrophysiological evidence for diminished familiarity following unitization.Journal of Cognitive   
+481 Neuroscience, 24(8),1671-1681.   
+482 Quamme, J.R., Yonelinas,A,P.,& Norman, K,N. (2oo7). Effect of unitization on associative recognition in   
+483 amnesia. Hippocampus,17(3),192-200.   
+484 Rhodes,S.M.,& Donaldson,D.I. (2oo7).Electrophysiological evidence for the influence of unitization on the   
+485 processes engaged during episodic retrieval: Enhancing familiarity based remembering. Neuropsychologia,   
+486 45(2), 412–424.   
+487 Rhodes,S.M.,& Donaldson, D.I. (2008). Electrophysiological evidence for the efectof interactive imagery on   
+488 episodic memory: Encouraging familiarity for non-unitized stimuli during associative recognition. Neuroimage,   
+489 39(2),873- 884.   
+490 Shao,H., Opitz, B., Yang, J.,& Weng, X. (2016). Recolection reduces unitised familiarity effect. Memory,24(4),   
+491 535-547.   
+492 Tibon,R., Greve,A.,& RN Henson. (2018).The missing link? Testing a schema account ofunitization. Memory&   
+493 Cognition, 46:1023-1040.   
+494 Tibon, R., Gronau, N., Scheuplein,A.L., Mecklinger,A., & Levy,D.A. (2014). Asociative recognition processe   
+495 are modulated by the semantic unitizability of memoranda. Brain & Cognition, 92(92C),19-31.   
+496 Wilding,E.L.,206.The practiceofrescaling scalp-recorded event-related potentials.Biological Psychology，72,   
+497 325-332.   
+498 Yonelinas,A. P. (2002). The nature of recollction and familiarity: A review of 30 years of research. Journal of   
+499 Memory & Language, 46(3), 441-517.   
+500 Yonelinas,A.P.，Aly，M.，Wang，W.C.，& Koen,J.D.(2010).Recolection and familiarity:Examining   
+501 controversial assumptions and new directions. Hippocampus, 20(l1),1178-1194.   
+502 Yonelinas,A.P.,Hopfinger,J.B.，Buonocore,M.H.，KrollN.E.A.，& Baynes,K.(2001). Hippocampal,   
+503 parahippocampal and occipital-temporal contributions to associative and item recognition memory: An fMRI   
+504 study. Neuroreport, 12(2),359-363.   
+505 Zheng,Z.,Li,J. Xiao,F.,Broster,L.S.,& Jiang,Y. (2015).Electrophysiological evidence for the effectsof   
+506 unitization on associative recognition memory in older adults. Neurobiology of Learning and Memory，121,   
+507 59-71.   
+508 Zheng,Z.,Li,J.，Xiao,F.(2015).Familiarity Contributes to Associative Memory:TheRole of Unitization.   
+509 Advances in Psychological Science, 23(02),202-212.   
+510 [郑志伟，李娟，肖凤秋.(2015)．熟悉性能够支持联结记忆:一体化编码的作用．心理科学进展,23(02),   
+511 202-212.]   
+512   
+513   
+514   
+515   
+516   
+517   
+518   
+519   
+520   
+521   
+522   
+523
+
+# Effects of Unitization on Associative and Item Recognition: The
+
+"Benefits-only" Account
+
+LIU Zejun, GUO Chunyan (DepartmentofPsychology,Capital Normal University,Beijing,China)
+
+# Abstract
+
+It is widely accepted that unitization can promote familiarity-based associative recognition, but its efect on recognition of individual components remains unclear.A few studies have focused on this question and shown two different accounts: One is “benefits and costs” account which argues that unitization promote associative recognition at the cost of item recognition,the other is "benefits-only” account which holds that unitization can promote associative recognition without impairing item recognition. In the current study, we aimed to explore how unitization influence associative and item recognition.
+
+Twenty-nine participants took part in the study. To avoid fatigue effects,three study-test cycles were completed with a short break (2 min) in between.For each cycle,96 word pairs were encoded at a rate of 4 s each, with a $9 0 0 \sim 1 1 0 0 ~ \mathrm { m s }$ fixation cross between trials.Forty-eight word pairs were presented in compound word pairs (CW） and 48 word pairs were presented in non-compound word pairs (NCW). After a 2-min distracting phase, participants took part in an associative recognition test, in which 64 word pairs were presented: (1) CW-intact word pairs, (2) CW-rearranged word pairs, (3) NCW-intact word pairs, and (4) NCW-rearranged word pairs. In order to matched the level of unitzation between the studied and tested word pairs, two compound word pairs were rearranged into a new compound word pairs, and the same is true of non-compound word pairs.The remaining four words were used as old stimuli in item recognition test. After all three cycles are completed, participants then took part in an item recognition test. The item test was also divided into three cycles.For each cycle, 96 single words were presented: (1) Compound-old words,(2) Non-compound-old words,and (3） new words. In both associative and item recognition tests, participants were instructed to press the “F” if the word pairs or words had been learned at encoding and to press the“J" otherwise. Meanwhile, the EEG was recorded.
+
+First, the results showed higher level of unitization and faster RTs for compound word pairs than for non-compound word pairs at encoding. It indicated that the manipulation of unitization was effective in the current study. Second, concerning associative recognition， an enhanced recognition performance,with a larger familiarity-related FN40o effect and recollection-related LPC effect, was observed for compound word pairs than for non-compound word pairs. This results suggested that unitization could improve associative recognition performance through increasing the contribution of familiarity and recollection simultaneously. And finally，an equivalent item recognition performance between the two word pairs was found, despite the compound word pairs elicited a larger FN40o effect than the non-compound word pairs. This indicated that unitization did not impair the item recognition performance.
+
+In summary， the current study suggests that unitization not only facilitates associative recognition but also does not impair item recognition， supporting the “benefits-only” account. Importantly,familiarity can support associative recognition when the two items were unitized into a new presentation. This means that unitization is an effective strategy for improving associative memory, especially for groups with impaired recollection.
+
+Keywords unitization, associative recognition, item recognition,FN4o0 effect, LPC effect 附录1单个组块中联结再认测验和项目再认测验的材料分配示意图
+
+![](images/e432bf4ad2bfd4118e6785c51242fbc7afccdaa668e2d3bd79d74e04878479e6.jpg)
+
+574   
+575

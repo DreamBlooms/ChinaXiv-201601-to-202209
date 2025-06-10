@@ -1,0 +1,224 @@
+# 胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 异源表达、纯化及酶学性质分析
+
+郭倩倩1,2,3高登科1,2,3程晓涛1,2,3路福平1,2,3秦慧民 $^ { 1 , 2 , 3 ^ { * } }$ 天津科技大学生物工程学院 天津 3004572省部共建食品营养与安全国家重点实验室天津 3004573工业发酵行
+
+教育部重点实验室 天津 300457)
+
+摘要：胆固醇氧化酶专一性地催化胆固醇为胆甾-4-烯-3-酮，广泛地应用于临床以及食品加工行业。本论文将来源于Pimelobacter simplex的胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ ，分别转化到大肠杆菌宿主BL21(DE3)、Rosetta(DE3)和C41(DE3)中，在不同温度（ $1 5 \ \mathrm { { ^ \circ C } }$ 、 $2 5 \ \mathrm { { ^ \circ C } }$ 、 $3 7 \ \mathrm { { ^ circ C } }$ ）及IPTG诱导浓度 $( 0 . 0 1 \ \mathrm { m M }$ 、 $0 . 1 \mathrm { \ m M } , 0 . 5 \mathrm { \ m M } \rangle$ 下异源表达 $\mathrm { P s C O _ { 4 } }$ 。结果表明,转入Rosetta(DE3)菌株的 $\mathrm { P s C O _ { 4 } }$ 蛋白，在IPTG浓度为 $0 . 1 \mathrm { m M }$ 、 $1 5 \ \mathrm { { ^ \circ C } }$ 下经 $1 8 \mathrm { h }$ 诱导表达， $\mathrm { P s C O _ { 4 } }$ 可溶性表达量最高 $( 0 . 6 3 ~ \mathrm { m g / m l } )$ 。异源表达的胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 最适温度为 $3 0 \ \mathrm { ^ { \circ } C }$ ，最适 $\mathsf { p H }$ 为7.5。通过TLC,GC-MS 检测出 $\mathrm { P s C O _ { 4 } }$ 催化胆固醇生成胆甾-4-烯-3-酮。以胆固醇和 $\beta$ 谷甾醇、豆甾醇和孕烯醇酮为底物，测定 $\mathrm { P s C O _ { 4 } }$ 对四种底物的催化反应动力学参数，胆固醇 $k _ { \mathrm { { c a t } } } / K _ { \mathrm { { m } } }$ 为$0 . 0 8 { \mathrm { ~ s } } ^ { { - 1 } } { \cdot } { \mu } { \mathrm { M } } ^ { { - 1 } }$ 分别高于 $\beta \mathrm { . }$ 谷甾醇 $( 0 . 0 4 ~ \mathrm { s ^ { - 1 } { \cdot } \mu M ^ { - 1 } ) }$ 、豆甾醇 $( 0 . 0 0 5 \mathrm { s ^ { - 1 } { \cdot } \mu \mathrm { M ^ { - 1 } ) } }$ 和孕烯醇酮(0.02$\mathbf { s } ^ { \mathrm { - 1 } } { \cdot }  { \mu \mathrm { M } } ^ { \mathrm { - 1 } } .$ ）
+
+关键词：胆固醇氧化酶；催化活性；酶学性质；底物特异性
+
+# Heterologous expression， purification and enzymatic characterization of cholesterol oxidase $\mathsf { P s C 0 } _ { 4 }$
+
+GUO Qian-qian1,2.3， GAO Deng-ke1,2.3， CHENG Xiao-tao1,2.3， LU Fu-ping1,2.3，QINHui-min1,2.3\*
+
+1. College of Biotechnology,Tianjin University of Science and Technology; Tianjin 300457,China
+
+2.State Key Laboratory of Food Nutrition and Safety; Tianjin 3oo457,China
+
+3.KeyLaboratoryof Industrial Fermentation MicrobiologyMinistryofEducation;Tianjin 3Oo457,China
+
+Abstract: Cholesterol oxidase,which catalyzes the reaction of cholesterol to cholest-4-en-3-one, is widely used in clinical and food processing industry. Cholesterol oxidase from Pimelobacter simplex $\left( \mathrm { P s C O } _ { 4 } \right)$ was transformed into $E$ ：coli BL21(DE3), Rosetta(DE3),and C41(DE3). The bacteria was induced at different temperatures $( 1 5 ^ { \circ } \mathrm { C } , 2 5 ^ { \circ } \mathrm { C } , 3 7 ^ { \circ } \mathrm { C } )$ ，and different IPTG concentrations $( 0 . 0 1 \ \mathrm { m M }$ ， $0 . 1 \mathrm { \ m M }$ ， $0 . 5 \mathrm { \ m M } ,$ .The results showed that $\mathrm { P s C O _ { 4 } }$ was expressed greatly in supernatant of Rosetta(DE3) $( 0 . 6 3 ~ \mathrm { m g / m l } )$ ,at the conditions of $0 . 1 \mathrm { m M }$ IPTG and $1 5 \ \mathrm { { ^ \circ C } }$ ： The optimum temperature and $\mathsf { p H }$ of heterologous expressed $\mathrm { P s C O _ { 4 } }$ was $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ and 7.5.The product of cholesterol catalyzed by $\mathrm { P s C O _ { 4 } }$ was identified by TLC and GC-MS.The substrate specificity of $\mathrm { P s C O _ { 4 } }$ towards cholesterol and $\beta$ -sitosterol and stigmasterol and pregnenolone was determined. The $K _ { \mathrm { m } } / k _ { \mathrm { c a t } }$ value of cholesterol $( 0 . 0 8 \mathrm { ~ s } ^ { - 1 } \cdot \mu \mathrm { M } ^ { - 1 } )$ is higher than $\beta$ -sitosterol (0.04 $\mathbf { s } ^ { \mathrm { - 1 } } { \cdot }  { \mu }  { \mathrm { M } } ^ { \mathrm { - 1 } } )$ , stigmasterol $( 0 . 0 0 5 \mathrm { s ^ { - 1 } { \cdot } \mu M ^ { - 1 } ) }$ and pregnenolone $( 0 . 0 2 \mathrm { \ s ^ { - 1 } { \cdot } \mu M ^ { - 1 } ) }$ ：
+
+:ey word: cholesterol oxidase; catalytic activity; enzymatic property; substrate specificity基金项目：国家自然科学基金（批准号：31771911）资助。第一作者：郭倩倩（1992年生)，女，主要研究方向：酶工程\*通讯作者，电子信箱：huiminqin@tust.edu.cn
+
+胆固醇作为自然界中含量丰富的甾醇化合物之一，构成了人体的主要脂类物质，并具有重要的生理功能[1l，例如：细胞膜的重要组成成分，对生物膜的透性有一定的调节作用；内分泌腺合成类固醇激素的原料；有助于血管壁的修复和保持完整[2.3]。尽管胆固醇为人体所必需，但在人体内过量时也会造成危害，如造成动脉硬化、冠心病、脑中风等心脑血管疾病[5]。国内外大量的研究资料证实，膳食因素与心血管疾病的发生关系密切，控制和减少膳食中胆固醇的摄入量，对降低胆固醇水平，预防心血管疾病至关重要[]。
+
+胆固醇能够被胆固醇氧化酶消化，生成胆甾-4-烯-3-酮和 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，也可以作用于含有羟基的甾体类化合物[4]。临床上，广泛应用胆固醇氧化酶来检测血清中胆固醇的浓度。同时，在食品加工行业中应用胆固醇氧化酶来减少食品中的胆固醇。此外，在农业应用方面胆固醇氧化酶作为一种防治鳞翅目害虫的生物农药[7]。动植物来源的胆固醇氧化酶研究较少，目前主要研究集中在微生物来源的胆固醇氧化酶，已报道的产胆固醇氧化酶微生物有：Arthrobacter（节杆菌），Pimelobacter（脂肪杆菌），Corynebacterium（棒状杆菌），Nocardia erythropoli（红平诺卡氏菌），Rhodococcus erythropolis（红平红球菌），Mycobacterium（分支杆菌），Pseudomonas（假单胞菌），Brevibacteriumsterolicum（留短杆菌），Rhodococcus sp.（红球菌）和 Streptomyces sp.（链霉菌）。
+
+胆固醇氧化酶对胆固醇的催化反应为三步反应如图1所示，第一步反应称作“还原半反应”，将第一个己烷环上的3-羟基脱氢，随之将两个氧化还原当量转移到氧化态的黄素辅因子（E-FloX）而成为还原态（E-FlredH）；第二步反应称作“氧化半反应”，即此时还原态的黄素辅因子与分子氧反应，生成氧化态的黄素辅因子和过氧化氢；最后一步反应叫做“异构化”，即第二个己烷环上的双键从△5-6转移到第一个己烷环上的△4-5，最终生成产物胆甾-4-烯-3-酮[8]。
+
+当前，国内外对胆固醇氧化酶的研究已有一定的深度。Sohngen于1913年首次揭示分支杆菌（Mycobacteria sp.）能基中生长。Turfitt 发现N.erythropolis 能够降解胆固醇，并首次分离得到胆固醇氧化酶[9]。随后，很多不同来源的胆固醇氧化酶被发现，同时有很多方法也被应用于胆固醇氧化酶的研究当中，如采用蛋白变性再复性的方法对异源表达的不可溶蛋白进行纯化，进而对蛋白进行酶学性质的研究[12]，此方法已在 $\mathbf { P s C O } _ { 3 }$ 的研究中得到了证实[10]。如今，胆固醇氧化酶的催化机理已被阐明，不同来源的胆固醇氧化酶的空间结构已被解析，但少有对Pimelobacter来源的胆固醇氧化酶的研究。本文主要介绍了Pimelobacter simplex来源的胆固醇氧化酶基因 $\mathrm { P s C O _ { 4 } }$ 异源表达、经分离纯化后重组酶的酶学性质，以及通过结构模拟揭示其催化反应机理。
+
+![](images/f3d3b6cbe2b9fdaa1776420d4a7667181cd7ac77d2a6f3488cf66d5b2dc02181.jpg)  
+图1胆固醇氧化酶的三步催化反应Fig.1Three-step catalytic reaction ofcholesterol oxidase
+
+# 1 材料和方法
+
+# 1.1材料
+
+# 1.1.1 实验材料及仪器
+
+大肠杆菌 BL21(DE3)、Rosett(DE3)、C41(DE3),pET-28a $( + )$ 质粒以及Pimelobacter simplex为本实验室保藏；实验使用常规试剂为国药集团化学试剂有限公司（上海，中国）和上海生工生物工程股份有限公司（上海，中国）生产。胆固醇及胆甾-4-烯-3-酮标准品，抗生素购置 Sigma。酵母提取物及胰蛋白脉为OXOID 公司生产。Ni-NTA Surperflow及Open Column为德国QIAGEN 公司生产，10 KDa 超滤管购自Millipore 公司。低分子量蛋白质 Marker,质粒小提试剂盒购自OMEGA，BCA蛋白浓度试剂盒购自北京 Solarbio 科技有限公司（北京，中国)。限制性内切酶 EcoRI和XhoI，连接酶 solutionI，DNA 聚合酶Prime STAR Max均购自宝日医生物技术有限公司(北京，中国)。离子交换色谱柱（SOURCETM15S）和凝胶过滤色谱柱(SuperdexTM 200 Increase)均购自美国GE 公司。
+
+# 1.1.2 仪器
+
+SDS-PAGE 电泳系统、Quantity One 凝胶成像系统；TU1810紫外可见分光光度计购自北京普析通用仪器公司（北京，中国)；Avanti J-26s xp 低温高速离心机购自美国 BeckmanCoulter；Multifuge X1R 台式冷冻离心机、酶标仪购自德国 Thermo scientific；Mastercyclernexus PCR 仪购自德国 eppendorfAG；AKTATM pure 购自美国GE 公司；超声波细胞粉碎机购自宁波新艺超声设备有限公司（浙江，中国)。
+
+# 1.2 方法
+
+# 1.2.1PsCO4异源表达载体的构建
+
+以P.simplex 基因组为模板，设计引物PrimerF：（CGGAATTCATGCACGCAGAAGACCGCG)，Primer R:(CCGCTCGAG TCAGCCGCGGT TGGGCCACAC)，进行 PCR扩增目的基因片段。PCR体系为 $2 5 ~ \mu \mu$ ，程序为： $9 8 \ \mathrm { { ^ \circ C } }$ 预变性 $3 0 ~ \mathrm { s }$ ： $9 8 \ \mathrm { { ^ \circ C } }$ 变性 $1 0 \mathrm { ~ s ~ }$ ， $5 5 \ \mathrm { ^ \circ C }$ 退火 $1 5 \mathrm { ~ s } , 7 2 \mathrm { ~ \textdegree ~ }$ 延伸 10 s,30 个循环; $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $7 \mathrm { m i n }$ 。将获得的扩增片段以及载体 pET- $2 8 \mathrm { a } ( + )$ 用限制性内切酶 EcoRI和 XhoI进行双酶切反应，酶切产物经Cycle-pure kit (OMEGA)纯化回收，SolutionI过夜低温连接，通过热击转化法转入 $E .$ coli JM109中，挑取转化子菌落PCR以及单双酶切进行验证，最后送样品至测序公司进行验证。
+
+# 1.2.2 重组蛋白表达条件优化
+
+为了获得大量可溶性重组蛋白，对蛋白诱导表达条件进行合理优化。选择大肠杆菌宿主：BL21(DE3)、Rosetta(DE3)、C41(DE3)；IPTG 诱导浓度： $0 . 0 1 ~ \mathrm { m M }$ ， $0 . 1 ~ \mathrm { m M }$ ， $0 . 5 \mathrm { m M }$ ；诱导温度 $1 5 \ \mathrm { { ^ \circ C } }$ 、 $2 5 \ \mathrm { { ^ \circ C } }$ 、 $3 7 \ \mathrm { { ^ circ C } }$ 。离心收集菌体并破碎，高速离心取上清进行 SDS-PAGE 电泳分析。使用Quantity One 采集凝胶图像,用 Image Lab 软件对 SDS-PAGE 电泳图做灰度分析，研究不同诱导条件下目标蛋白表达量所占百分比。使用BCA试剂盒测定上清液总蛋白的浓度，计算不同表达宿主、诱导条件下的 $\mathrm { P s C O _ { 4 } }$ 表达量。
+
+# 1.2.3重组蛋白的纯化步骤及条件
+
+将构建好的重组质粒通过热击转化法转入 $E .$ coli BL21中过夜培养，挑取转化子转接试管培养，再转接到摇瓶中诱导表达， $5 0 0 0 \mathrm { r p m } 1 0 \mathrm { m i n }$ 离心收菌。异源表达的蛋白 $\mathrm { P s C O _ { 4 } }$ 在N端含有His 标签。采用亲和层析法（Ni-NTA Surperflow 树脂）初步纯化蛋白，收集菌体后，加入适量裂解缓冲液，超声破碎， $4 0 0 0 0 { \mathrm { g } } , 4 { \mathrm { ~ ‰ ~ } }$ 离心 $3 0 \mathrm { m i n }$ ，取上清液与提前平衡的Ni-NTASurperflow 结合 $^ { \textrm { 1 h } }$ ，使用洗杂缓冲液，洗脱20个柱体积，洗脱杂质蛋白，用10个柱体积洗脱缓冲液溶出目标蛋白 $\mathrm { P s C O _ { 4 } }$ ；采用离子交换层析、凝胶色谱层析进一步对蛋白进行纯化，用上一步纯化得到的洗脱缓冲液进行离子交换（4MPa， $3 \mathrm { m l / m i n }$ ），分子筛（ $2 . 3 \mathrm { M P a }$ 0.5ml/min）。
+
+# 1.2.4 $\mathrm { P s C O _ { 4 } }$ 酶学性质测定
+
+酶活力检测方法参考季文明等[11]的方法。溶液A（4-氨基-安替比林 $1 \mathrm { m M }$ ，苯酚 $6 \mathrm { m M }$ 辣根过氧化物酶 ${ 7 0 0 0 } \mathrm { U / L }$ ，PBS 缓冲液）；溶液B（ $0 . 0 8 \%$ 胆固醇， $4 . 3 \%$ Triton X-100，异丙醇）。酶活定义： $3 0 \mathrm { ~ \textdegree C }$ ，PBS 缓冲液 $\mathrm { p H } 7 . 5$ ，每分钟催化胆固醇生成 $\mathrm { 1 ~ \mu m o l ~ H _ { 2 } O _ { 2 } }$ 所需要的酶量，定义为一个酶活力单位(U)，酶活测定方法将 $3 ~ \mathrm { m l }$ 溶液A和 $1 5 0 ~ \mu \mathrm { l }$ 溶液B混合，$3 0 \mathrm { ~ \textdegree ~ }$ 保温 $3 \mathrm { m i n }$ 后加入 $5 0 ~ \mu \updownarrow$ 适量浓度酶液，准确反应 $5 \mathrm { m i n }$ ，置于沸水终止反应。 $5 0 0 \mathrm { n m }$ 测定光吸收值OD500，根据酶活定义及 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 的标准曲线计算酶活。
+
+最适温度的测定，在不同温度（ $2 0 – 6 0 \mathrm { ~ \textdegree C }$ ）下测定胆固醇氧化酶的比酶活，以比酶活最高者为 $100 \%$ 。将胆固醇氧化酶在不同温度下保温1h后，迅速冷却至 $0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，测定酶的残余酶活力。
+
+分别用浓度为 $2 0 ~ \mathrm { m M }$ 的磷酸盐缓冲液 $\mathrm { ( p H ~ 6 . 0  – 8 . 0 ) }$ 、HEPES (pH 7.0-8.0)、Tris (pH7.0-9.0)、MES $\mathrm { ( p H } 5 . 5 \ – 6 . 5 \mathrm { ) }$ ）、甘氨酸 $\mathrm { ( p H } 8 . 5 – 9 . 0 )$ 的缓冲溶液配置测定酶活力的溶液A，以酶活最高者为 $100 \%$ 。此外，将酶液用不同 $\mathsf { p H }$ 值的缓冲液稀释，在 $4 ^ { \circ }$ C下放置1h后，测
+
+定其残余酶活力。
+
+酶动力学参数测定方法为：以胆固醇、 $\beta \mathrm { . }$ -谷甾醇、孕烯醇酮及豆甾醇作为底物，底物溶度范围设定在 $1 0 { - } 2 0 0 0 ~ \mu \mathrm { M }$ 之间。最后数据通过GraphPad Prism (version 5.0O)软件中的Michaelis-Menten方程拟合计算相应的 $K _ { \mathrm { m } }$ ， $\mathrm { \Delta V _ { m a x } }$ ， $k _ { \mathrm { { c a t } } }$ 值。
+
+1.2.5催化产物胆甾-4-烯-3-酮TLC及GC-MS分析
+
+Ni亲和层析所得的 $\mathrm { P s C O _ { 4 } }$ 蛋白液通过透析置换于反应缓冲液ExchangeA（ $5 0 ~ \mathrm { m M }$ Tris-HCl pH 8.0，200 mM NaCl, $3 \mathrm { m M }$ DTT and $2 5 ~ \mu \mathrm { M }$ FAD）中。 $\mathrm { 1 \ m l }$ 酶催化反应体系组成为： $5 0 ~ \mathrm { m M }$ Tris-HCl pH 8.0, $5 0 ~ { \mu \mathrm { g } }$ PsCO4, ${ 5 \mu \mathrm { M } }$ FAD, $3 \mathrm { m M }$ DTT, $1 0 \mathrm { m g }$ 胆固醇（溶于 $0 . 8 \%$ 异丙醇，w/v），置于 $3 0 \ \mathrm { ^ { \circ } C }$ 下过夜反应。
+
+反应体系中加入 $5 0 0 ~ \mu \mathrm { l }$ 乙酸乙酯萃取（重复三次）后， $\Nu _ { 2 }$ 吹干溶于 $5 0 ~ \mu \mu \mu$ 甲醇，并进行TLC及GC-MS分析。TLC流动相（石油醚：乙酸乙酯 $\ c =$ 4:1）。 $2 0 \mathrm { m i n }$ 后于紫外（ $2 5 4 \mathrm { n m }$ ）下观察。
+
+气相色谱-质谱法联用： $1 \mu \mathrm { l }$ 的上样量，GC-MS (VARIAN 4000 GC/MS)，以 HP-5 ms (30$\mathrm { m } { \times } 0 . 2 5 \ \mathrm { m m } \times 0 . 2 5 \ \mathrm { m m }$ ，Agilent Technologies)色谱柱分离胆固醇及催化产物，离子模式为70$\mathrm { { \tt e V } }$ 。升温程序为：以 $1 5 0 \ \mathrm { ^ \circ C }$ 为初始温度并保持 $3 \mathrm { m i n }$ ，然后以 $5 \ \mathrm { { ^ { \circ } C } \ / m i n }$ 速度升到 $3 0 0 \mathrm { ~ \textdegree ~ }$ ，保持 $1 0 \mathrm { m i n }$ 。结果与NIST数据库比对进行分析鉴定。
+
+# 2 结果与讨论
+
+# 2.1 重组表达载体 $\mathrm { P s C O _ { 4 } }$ -pET28a验证
+
+用 EcoRI 和 XhoI限制性内切酶双酶切PsCO4-pET28a，可以得到 $5 . 3 \mathrm { \ k b p }$ 和 $1 . 6 \mathrm { k b p }$ 两条带；同时利用菌落PCR 也得到了1.6 kbp 的清晰条带，如图2所示，与目的基因长度一致，经测序验证正确，重组质粒构建成功。
+
+![](images/c54061f3d8647aeb4f8f79999572f497212b9648efcd840bee5abbf87d680a8c.jpg)  
+图2 $\mathrm { P s C O _ { 4 } }$ 酶切及菌落PCR验证
+
+1：菌落PCR；2：双酶切；3：EcoRI单酶切；4： $\mathrm { { \ P s C O _ { 4 } } }$ -pET28a；M:DNAMarker
+
+1:Colony PCR；2：Double enzyme digestion；3：EcoRIdigestion；4： $\mathrm { P s C O _ { 4 } }$ -pET28a；5:DNA Marker KB ladder
+
+# 2.2 $\mathrm { P s C O _ { 4 } }$ 诱导表达的条件优化
+
+利用生物信息学软件DNAMAN分析 $\mathrm { P s C O _ { 4 } }$ 核酸序列，预测出 $\mathrm { P s C O _ { 4 } }$ 分子量约为57.3kDa。用BCA 法测定不同诱导条件下，各自上清可溶性蛋白的浓度，然后再通过Image lab灰度分析 SDS-PAGE 电泳图，最后计算出目标蛋白的浓度。最终结果表明，选取大肠杆菌Rosseta(DE3)作为宿主菌，并在低温 $1 5 \ \mathrm { { ^ \circ C } }$ 和 $0 . 1 \mathrm { m M }$ IPTG 浓度下诱导 $1 8 \mathrm { h }$ ，破碎上清可溶性目标蛋白量最高为 $0 . 6 3 ~ \mathrm { m g / m l }$ 。一般情况下，高温高浓度 IPTG 诱导得到的目标蛋白浓度很低，可能是由于高温高浓度的诱导条件会使目标蛋白肽链合成速度过快，以至于没有足够的时间进行正确折叠，导致形成很多折叠错误的蛋白质，最后形成包涵体沉淀。所以，低温以及适当浓度的IPTG对于形成可溶性有活性的蛋白是必要的。
+
+![](images/39ae540d297bdfa182f3b34ed8ad4b35709b926c44a55463a7990b03fd3bdf8d.jpg)  
+Fig.2Enzyme digestion and Colony PCR of $\mathrm { P s C O _ { 4 } }$ -pET-28a   
+图3不同诱导条件下可溶性蛋白的浓度  
+Fig.3The concentration of soluble $\mathrm { P s C O _ { 4 } }$ in different induction conditions.
+
+诱导条件：1-3:15C0.05,0.1,0.5mmol/LIPTG;4-6:25 C0.05,0.1,0.5mmol/LIPTG;7-9:37℃0.05,0.1,0.5 mmol/LIPTG.
+
+Induction conditions:1-3:15 $\mathrm { { ^ \circ C } }$ 0.05,0.1,0.5 mmol/L IPTG;4-6: 25 $\mathcal { C }$ 0.05,0.1,0.5 mmol/LIPTG;7-9:37℃0.05,0.1,0.5 mmol/L IPTG.
+
+# 2.3 $\mathrm { P s C O _ { 4 } }$ 诱导表达及纯化
+
+通过对 SDS-PAGE 电泳图（图4A）分析发现：目标蛋白可以可溶性表达于上清，但也有大量蛋白错误折叠，以包涵体形式存在于沉淀中。通过Ni-NTA亲和层析可以看出， $5 0 ~ \mathrm { m M }$ 咪唑的漂洗缓冲液中含有较多目标蛋白，说明 $\mathrm { P s C O } _ { 4 }$ 和 Ni-NTA 树脂亲和力较弱，即使如此，洗脱液中依然洗脱下大量的目标蛋白。该结果也与前述蛋白表达条件优化中，以
+
+Rosetta(DE3)作为宿主菌，在低温 $1 5 \ \mathrm { { ^ \circ C } }$ 和 $0 . 1 ~ \mathrm { m M }$ IPTG 浓度下诱导，蛋白的表达量最高相符。从离子交换层析图（图4B）中可以看出目标蛋白响应值高达 $3 7 0 \mathrm { m A U }$ ，在盐浓度约为$5 0 0 ~ \mathrm { m M }$ 时开始被大量洗脱下来，图5可以看出目标蛋白在 $1 4 \mathrm { m l }$ 流出，介于 $1 3 \mathrm { m l }$ （ProteinMarker $1 3 . 7 \mathrm { k D a }$ ）和 $1 7 \mathrm { m l }$ 之间（Protein Marker $7 5 . 0 \mathrm { k D a }$ ），可以断定 $\mathrm { P s C O _ { 4 } }$ 是以单体形式存在。SDS-PAGE 分析可得到高达 $9 5 \%$ 以上纯度的目的蛋白，进而可以进行准确的蛋白浓度测定和酶动力学参数测定。
+
+![](images/5fcacfae579ad3c497c47efb6a1a1ac5b610a51ca917acce45c61f5b03d00816.jpg)  
+图4亲和层析和离子交换层析
+
+（A）1：上清；2：沉淀；3：流穿液；4：洗杂液；5：洗脱液;
+
+（B）离子交换层析图
+
+Fig.4 SDS-PAGE of affinity chromatography and Ion exchange chromatography (A）1:supernatant; 2:precipitant; 3:flowthrough; 4: washing buffer; 5:elution buffer;
+
+（B）Ion exchange chromatography
+
+![](images/5344ced9c89e9e874eb752551b6ea68ae6367267bc666cde8a4eb8522ed88ab0.jpg)  
+图5凝胶过滤层析  
+Fig.5 Gel filtration chromatography
+
+# 2.5 酶催化产物鉴定
+
+胆固醇氧化酶特异性催化底物胆固醇成胆甾-4-烯-3-酮，并且该产物在紫外（ $2 5 4 \mathrm { n m }$ ）下可以显色。通过TLC薄层色谱法分析，初步验证了 $\mathrm { P s C O _ { 4 } }$ 具有催化胆固醇的活性(图6A)。
+
+利用气相色谱-质谱法联用检测酶催化产物，如图6B，发现胆固醇及胆甾-4-烯-3-酮分别在保留时间 $3 4 . 2 9 \mathrm { m i n }$ 、 $3 5 . 1 7 \mathrm { m i n }$ 处有吸收峰，质谱检测结果与NIST库比对高度一致，$1 2 4 ~ \mathrm { { m / z } }$ 为其特征离子峰，进一步证明异源表达的 $\mathrm { P s C O _ { 4 } }$ 在体外依然具有催化胆固醇生成胆甾-4-烯-3-酮的氧化活性。
+
+![](images/8fd7b292327672083a716860b69917862dee09e38e06c15516ce3c396810e2aa.jpg)  
+图6薄层色谱法和气相色谱-质谱联用法鉴定催化产物  
+Fig.6Product analysis with（A）TLCand（B,C）GC-MS
+
+（A）TLC1：空质粒pET $2 8 \mathrm { a }$ ；2： $\mathrm { { \tt P s C O } _ { 4 } }$ -pET28a；3：胆固醇标品；4：胆甾-4-烯-3-酮标品；(B)and (C) GC-MS
+
+(A）1:Vector pET-28a; 2: $\mathrm { P s C O _ { 4 } }$ -pET28a; 3:Cholesterol;4:Standard of 4-Cholesten-3-one;
+
+# 2.6 酶学性质分析
+
+通过1.2.4的方法将 $\mathrm { P s C O _ { 4 } }$ 置于不同温度、pH条件下进行催化反应，测出 $\mathrm { P s C O _ { 4 } }$ 最适的反应条件。
+
+在 $2 5 ^ { \circ } \mathrm { C }$ 、 $3 0 \ \mathrm { ^ { \circ } C }$ 、 $3 5 \ \mathrm { { ^ \circ C } }$ 、 $4 0 \ \mathrm { ^ \circ C }$ 、 $4 5 \ \mathrm { ^ \circ C }$ 、 $5 0 \ \mathrm { ^ \circ C }$ 、 $5 5 \ \mathrm { ^ \circ C }$ 和 $6 0 ~ \mathrm { { ^ \circ C } }$ 下，测定 $\mathrm { P s C O _ { 4 } }$ 最适反应温度。图7A表明，当温度低于 $3 0 \ \mathrm { ^ { \circ } C }$ 时，胆固醇氧化酶 $\mathrm { P s C O } _ { 4 }$ 活性随着温度的上升而缓慢上升，而当温度高于 $3 0 \mathrm { ~ \textdegree ~ }$ 时，其活性逐渐下降。将胆固醇氧化酶置于不同 $\mathfrak { p H }$ 的环境下处理后反应，结果如图7B所示，随着 $\mathfrak { p H }$ 值得上升, $\mathrm { P s C O _ { 4 } }$ 表现出升高的催化活性，当 $\mathsf { p H } = 7 . 5$ 时，酶活力达到最大值，而当 $\mathrm { p H } > 7 . 5$ 时，酶活力呈现下降趋势，说明胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 在弱碱环境下保持较高活性，最适反应 $\mathfrak { p H }$ 为7.5。
+
+![](images/41b032f5c3f4fb930430873b81cd618829a584aae75fcfcd482da531a14007cf.jpg)  
+图7温度（A）和pH（B）对胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 酶活的影响  
+Fig.7Effect of temperature (A) and pH(B) on the $\mathrm { P s C O _ { 4 } }$
+
+# 2.5酶动力参数
+
+$\mathrm { P s C O _ { 4 } }$ 对胆固醇、 $\beta$ -谷甾醇、豆甾醇和孕烯醇酮的动力学参数如下表所示，可以看出胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 对胆固醇有较高的活性，其豆甾醇相对活性约只有 $67 . 2 0 \%$ 。通过比较二者动力学参数可以发现，胆固醇的 $K _ { \mathrm { m } }$ 为 $2 3 1 . 2 1 ~ \mu \mathrm { M }$ ，低于豆甾醇等底物，说明 $\mathrm { P s C O _ { 4 } }$ 对胆固醇的亲和力较强，这也说明 $\mathrm { P s C O _ { 4 } }$ 对胆固醇的催化活性较高的原因。 $k _ { \mathrm { { c a t } } } / K _ { \mathrm { { m } } }$ 表示的是酶对底物的催化效率，胆固醇的 $k _ { \mathrm { { c a t } } } / K _ { \mathrm { { m } } }$ 值2倍高于 $\beta$ -谷甾醇，并且其反应速率 $k _ { \mathrm { c a t } }$ 也明显高于 $\beta$ （2谷甾醇，说明来源于 $P .$ simplex 的 $\mathrm { P s C O _ { 4 } }$ 对胆固醇有更高的偏好性。通过胆固醇及 $\beta$ 谷甾醇结构比对发现， $\beta$ -谷甾醇在C-22位上多了个 ${ \cdot } { \mathrm { C } } _ { 3 } { \mathrm { H } } _ { 7 }$ ，使其空间结构上更加复杂，在酶反应过程中 $\beta$ -谷甾醇在进入酶活性中心时，比胆固醇受到更多的空间位阻，可能是导致其活性低于胆固醇的主要原因。
+
+表1胆固醇氧化酶的酶学性质  
+Table.1 Cholesterol oxidase enzymatic properties   
+
+<html><body><table><tr><td rowspan="2">底物</td><td>比酶活</td><td>相对酶活</td><td>Km</td><td>Kcat</td><td>kcat/Km</td></tr><tr><td>(U·mg-1)</td><td>(%)</td><td>(uM) 231.21 ± 11.20</td><td>(s-1)</td><td>(s-1 ·μM-1)</td></tr><tr><td>胆固醇 β-谷甾醇</td><td>11. 02</td><td>100</td><td>362.25 ± 23.50</td><td>18.49 ± 1.81 14.49 ± 1.09</td><td>0.08 0.04</td></tr><tr><td>豆甾醇</td><td>7.41 0.04</td><td>67.20 0.35</td><td>526.23±10.60</td><td>2.54±0.47</td><td>0.005</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>孕烯醇酮</td><td>1.00</td><td>9.10</td><td>300.98±2.51</td><td>5.99±0.68</td><td>0.02</td></tr></table></body></html>
+
+# 2.6 $\mathrm { P s C O } _ { 4 }$ 三维结构及催化机制分析
+
+来源不同的胆固醇氧化酶其氨基酸序列存在较大的差异，所以蛋白质的空间结构也存在较大的差异。检索PDB 数据库， $\mathrm { P s C O _ { 4 } }$ 与Brevibacteriumsterolicum来源的胆固醇氧化酶在氨基酸序列比对中具有较高的相似度。用 SWISS-MODEL（http://swissmodel．expasy．org)同源建模。 $\mathrm { P s C O _ { 4 } }$ 的功能结构由两个结构域组成，即辅因子FAD 结合区域和底物结合区，分子模拟如图8粉色为FAD，黄色为底物类似物。从图中可以看出 $\mathrm { P s C O _ { 4 } }$ 结合底物氨基酸有W56、M402、K346、L306、I409、I398、L400与PsChO 的底物结合氨基酸V204、P63、V46、F70、L360、T329、E346完全不同[13]。且底物结合区有足够大的空间可以容纳胆固醇。胆固醇结合位点是由隔离了蛋白外界环境的大量loop包围形成的疏水“口袋”组成，这个区域表现出更高的柔性，通过模拟对比发现 $\mathrm { P s C O _ { 4 } }$ 与 $P .$ simplex 来源的PsChO[13]和Brevibacteriumsterolicum来源的胆固醇氧化酶lcoy相比具有较大的底物入口通道直径为11.8A如图9所示。更有利于底物出入活性中心进行催化反应。据参考文献[14报道在底物胆固醇进入疏水口袋时，相关loop 在空间结构上会进行调整，从而促进生物催化反应的顺利进行。
+
+![](images/070489711ba307b89a464788ab7b39482c667a07cb128c12a857ab6299fcb947.jpg)  
+图 $8 \ : \mathrm { P s C O _ { 4 } }$ 活性中心底物结合关键氨基酸比较图
+
+![](images/0909b8f13960f62c594a48f15f75d81da309f34bbab3067929d9c9bb1d98288a.jpg)  
+Fig. $8 \ \mathrm { P s C O _ { 4 } }$ active center substrate binding key amino acid comparison   
+图9不同来源胆固醇氧化酶底物结合通道
+
+A） $\mathrm { { \tt P s C O } _ { 4 } }$ 的模拟底物结合通道（B）PsChO的底物结合通道
+
+（C）Brevibacterium sterolicum 来源的胆固醇氧化酶lcoy 底物结合通道 Figure 9 Cholesterol oxidase substrate binding domains from different sources
+
+(A) $\mathrm { P s C O _ { 4 } }$ mimic substrate binding channel （B）PsChO substrate binding channel （C）Cholesterol oxidase lcoy substrate-bound channel from Brevibacterium sterolicum
+
+胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 具有两种催化功能，首先胆固醇氧化酶的氧化脱氢，即：作用于胆固醇C3上的 $\beta$ -羟基氧化其为胆甾-5-烯-3-酮；接着是异构化：胆甾-5-烯-3-酮在胆固醇氧化酶作用下将C4β位上质子转移到C6位上，最终生成产物胆甾-4-烯-3-酮。活性中心的His469 在氧化过程中起到从类固醇底物的C3-OH中提取质子的碱催化剂的作用，质子氢从底物C3 传递到 FAD-N5，并且随后作为用于稳定异构化中的二烯醇中间体的酸[15]，其催化反应基元反应如图10。
+
+![](images/9eea5ca2b4ecba44ec501e6c7e270e63325f8c64142b6c8110442ed8bf763712.jpg)  
+图10胆固醇氧化酶催化机制(A）[16]和胆固醇氧化酶序列比对（B)
+
+Figure 10 Cholesterol Oxidase Catalytic Mechanism (A)[15] and Cholesterol Oxidase Sequence Alignment (B)
+
+注:Fsp.:Frankiasp.EAN1pec,WP020461426;S.arenicola:SarenicolaarenicolaCNS-205WP_012182946;S.sp.:Streptomyces
+
+sp.,AAA26719.
+
+# 3结论
+
+胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 在大肠杆菌Rosetta(DE3)实现了高效的表达。蛋白经过Ni亲和层析发现， $\mathrm { P s C O _ { 4 } }$ 与 Ni树脂之间的亲和力较弱，低浓度的咪唑就能洗脱出蛋白。测得纯化出来的酶液的酶学性质，发现酶的最适反应温度为 $3 0 \ \mathrm { ^ { \circ } C }$ ，最适 $\mathrm { p H } 7 . 5$ 。胆固醇为底物的催化反应其产物经TLC、GC-MS 验证为胆甾-4-烯-3-酮。以胆固醇豆甾醇、 $\beta$ -谷甾醇和孕烯醇酮为底物，初步研究该胆固醇氧化酶 $\mathrm { P s C O _ { 4 } }$ 对底物的特异性，发现其对胆固醇的催化活性较高。对 $\mathrm { P s C O _ { 4 } }$ 进行三维建模，底物结合位点的分析。该研究为后续更深入研究 $\mathrm { P s C O _ { 4 } }$ 的底物特异性及催化机理提供理论依据。
+
+参考文献  
+[1]王镜岩，朱圣庚，徐长法．生物化学(上、下)第三版[M]．北京：高等教育出版社，2002．114Wang JG, Zhu SG,Xu C F.Biochemistry,third Edition [M].Beijing: Higher Education Press,2002.114[2] 张士亮．胆固醇与人体健康[J]．生物学通报，1998，33(11)：22-23  
+Zhang S L. Cholesterol and human health. Bulletin of Biology [J]. 1998,33 (11): 22-23  
+[3]周东明．胆固醇缺乏对 Jurkat 细胞增值功能及调亡的影响[J]．第三军医大学学报，2000，22(4）：363-365  
+Zhou D M.The effect of cholesterol deficiencyon the proliferation and apoptosis of Jurkat cels [J]. Journal ofThird Military Medical University,2000,22 (4): 363-365  
+[4] Doukyu N，Nihei S. Cholesterol oxidases with high catalytic activity from Pseudomonas aeruginosa:Screening， moleculargenetic analysis， expression and characterization[J]. Journal of BioscienceandBioengineering, 2015,120(1): 24-30  
+[5] 沈同，王镜岩，生物化学(上、下)第一版[M]．北京：高等教育出版社，1999 年.  
+Shen T, Wang JY,Biochemistry, first edition [M]. Beijing: Higher Education Pres,1999.  
+[6]欧阳红，杨秀芳．心脑血管疾病饮食调节[M]．北京：金盾出版社，2009年：187  
+Ouyang H, Yang XF.The diet regulation of cardiovascular and cerebrovascular diseases [M]. Beijing: Jindunpublishing house, 2009:187  
+[7]MathieuJM, WangF,SegatoriL,etal. Increased resistance tooxysterol cytotoxicityin fibroblasts transfectedwith a lysosomally targeted Chromobacterium oxidase[J]. Biotechnology And Bioengineering，2012，109 (9):2409-2415  
+[8]王冠超．重组胆固醇氧化酶的表达与纯化研究[D]．无锡：江南大学，食品学院，2014.  
+Wang G C.Expression and purification of recombinant cholesterol oxidase[D]. Wuxi: Jiangnan University, School
+
+of food science and technology, 2014.
+
+[9] Turfit G.The microbiological degradation of steroids: 2. Oxidation of cholesterol by Proactinomyces spp[J]. Biochemical Journal, 1944,38(5): 492
+
+[10] Qin HM, Wang JW,Guo QQ,et al. Refolding of a novel cholesterol oxidase from Pimelobacter simplex reveals dehydrogenation activity[J].Protein Expression & Purification,2017,139(7): 1-7
+
+[11] Kojima K,Kobayashi T,Tsugawa W,et al.Mutational analysis of the oxygen-binding siteof cholesterol oxidase and its impact on dye-mediated dehydrogenase activity[J]. Journal Of molecular Catalysis B-enzymatic, 2013,88(88): 41-46
+
+[12] Glynou K,Ioannou PC, Christopoulos TK. One-step purification and refolding of recombinant photoprotein aequorin by immobilized metal-ionafinity chromatography[J].Protein Expression & Purification,2003,27(2): 384-390
+
+[13] Qin HM,Zhu ZL,Ma Z,et al.Rational designof cholesterol oxidase for eficient bioresolutionofcholestane skeleton substrates[J]. Scientific Reports.2017,7:16375
+
+[14] 季文明，陈毅力，张和春．比色法测定胆固醇氧化酶酶活．无锡轻工大学学报，2000,5(19)：251-254 Ji W M,Chen YL, Zhang H C,et al. Assay of cholesterol oxidase activity by colorimetry[J]. Journal of Wuxi University ofLight Industry,2000, 5(19) : 251-254
+
+[15]Yue Q K,Kass IJ,Sampson N S,et al. Crystal structure determination of cholesterol oxidase from Streptomyces and structural characterization ofkey active site mutants[J].Biochemistry,199,38(14): 427-4286.
+
+[16]Li J, Vrielink A,Brick P,etal.Crystal structureof cholesterol oxidase complexed with a steroid substrate: implicationsfor flavin adenine dinucleotide dependentalcohol oxidases[J].Biochemistry，1993 32(43), 11507-11515

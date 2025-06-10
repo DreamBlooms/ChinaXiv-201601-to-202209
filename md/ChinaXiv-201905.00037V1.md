@@ -1,0 +1,262 @@
+# 一种面向PDF文本内容审查的高效多模式匹配算法
+
+刘邦国，陈庆春，类先富(西南交通大学 信息科学与技术学院，成都 611756)
+
+摘要：多模式匹配算法是网络入侵检测和内容过滤的核心算法。针对Wu-Manber 多模式匹配算法所存在的匹配效率低、跳转距离较小的问题,结合PDF文本内容的编码规则,提出了一种适用于中文PDF文本内容审查的Wu-Manber改进算法。该算法使用布隆过滤器提取模式串关键信息，同时结合双重哈希和PDF文本编码规则，减少了无谓的匹配次数，加大了跳转幅度，从而提升了PDF文本的匹配性能。实验结果表明，这种改进算法在 PDF文本审查中的匹配速率有较大提升，尤其当最短模式串较长且模式串规模较大时速度可以提升一倍以上。
+
+关键词：多模式匹配；Wu-Manber算法；PDF文本编码；布隆过滤器中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2018.11.0868
+
+Efficient multi-pattern matching algorithm for PDF content search
+
+Liu Bangguo, Chen Qingchun, Lei Xianfu (SouthwestJiaotong University,School ofInformation Science&Technology,Chengdu 611756,China)
+
+Abstract: Multi-pattern matching plays an importantrole in network intrusion detection and content filtering.To solve the deficiencyof Wu-Manber multi-pattrn matching algorithm in terms of the achieved matching eficiencyand jump distance, propose an improved Wu-Manber algorithm for ChinesePDF document content revciew on the basis of thecoding formats of PDF document content.Byemploying the Bloom filter to extract thecurcial information of the pattrn string，and exploitingthedouble hash andPDFdocument encodingrules,itisshown that the proposed improvedalgorithm isable to reducethe number of unecessry matches and increase the jump distance,thus improving the matching eficiency for the contentretrieval of PDFdocument.The practical experimentalresults confirms the improved matching eficiency for PDF document.When the shortest mode string is long andthe mode string size is large,the matching efciencycan be even doubled.
+
+Key Words: multi-pattern matching; Wu-Manber algorithm; PDF text encoding; bloom filter
+
+# 0 引言
+
+多模式匹配算法用于在文本中寻找出特定模式集中所有出现的模式串，在网络入侵检测和防御[1,2]、病毒扫描、垃圾邮件检测、网络带宽和服务质量评估[3]等网络信息安全领域有十分广泛的应用。此外，多模式匹配在文本检索、搜索引擎和生物基因序列分析[4等多个领域也有相关的应用。
+
+随着互联网流量激增，本文已经进入信息和大数据时代，但随之也伴随着出现一些含有不良信息的网络文件，这些文件多以动态网页、静态文件（如PDF文档）等形式出现。便携式文档格式PDF（portabledocumentformat）是一种标签命令式的文件格式，文件中可以包含超链接、表格、文字、图片等多种内容。目前网络中越来越多的信息流倾向于采用PDF文档来保存，对PDF文件的文本内容进行解析并对其中的敏感内容进行管控成为一个愈发重要的课题[5]。尤其当模式串规模较大时，如何在PDF文档内容的匹配检索过程中减少计算资源和存储资源消耗，提升和改善搜索和匹配过程效率，这是本文的主要研究背景和出发点。
+
+本文在经典的Wu-Manber[多模式匹配算法的基础上，结合中文PDF内容流的编码规则，提出了一种面向中文PDF文本内容审查的 ${ \mathrm { W u } } .$ -Manber改进算法。该算法使用布隆过滤器提取模式串关键信息，同时结合双重哈希和PDF文本编码规则，减少了无谓的匹配次数，加大了跳转幅度，从而提升了PDF文本的匹配性能。
+
+# 1 PDF文件结构及编码规则
+
+一个完整的 PDF 文件从结构上分为四部分，即文件头(head)、交叉引用表(xref)、文件体(body)和文件尾(trailer)。其中文件体(body)是PDF文件的主要部分，由很多串行化的间接对象构成，它们共同组成了PDF文件的实际内容，如页面、字体、图形等。此外，文件体的这些间接对象之间有层次等级关系，需要各个对象之间层层调用来引出具体内容，形成了如图1所示的树型结构，其中页面(page)的 Contents属性中stream与endstream之间的数据流便是被压缩后的文本内容。
+
+PDF的文本内容以十六进制形式表示，位于stream 流中操作符TJ/Tj的前面，形式如<6C2985F61A09>TJ，其编码方式一般是Unicode、GBK或CID格式。由于中文字符是宽字符且数目较大，为了减少PDF文件大小，一般采用CID 编码。此外，不同的PDF文件中文文本的CID 编码各不相同，所以每个中文PDF文件存在映射关系表cMap，用于储存中文文本的Unicode编码数据与CID编码数据的对应关系。例如，“模式”的Unicode编码数据为6A215F0F，在某PDF文件的间接对象中对应的CID编码数据为<1F4E143C>TJ，从中可以看出，一个汉字对应的CID编码是由四个字符组成的。
+
+![](images/e1a621f6bdaad856d4361d85f61b7d2cab3683701af723bc3c9cc39ddd4a944f.jpg)  
+图1 PDF文件结构  
+Fig.1File structure ofPDF
+
+# 2 多模式匹配算法研究现状
+
+面向PDF文本内容审查的多模式匹配是经典多模式匹配算法的一种特殊应用。目前多模式匹配算法的研究大致可以分为三类，以下作具体的阐述：
+
+a）基于有限状态机匹配算法。这类算法的典型代表是AC[7算法。AC 算法具有匹配性能较稳定、受模式串长度和特征影响小等优点。但是AC算法建立Trie状态树的时间和空间复杂度随模式串集合线性增长，当模式串集合规模过大时，容易出现“内存墙”的问题，即消耗大量内存导致机器宕机，而且一旦增加或删除模式串都需要重新建立Trie状态树。针对以上问题，文献[8]提出了一种改进算法HashTrie来优化空间利用率，通过使用递归哈希函数将模式串的信息存储在位图中，从而用位图来取代状态转移表从而减少内存开销。这种算法虽然相比AC算法节省了 $9 9 . 6 \%$ 的内存空间，但是匹配速率也只有AC算法的 $45 \%$ 左右，因而只适合于大规模模式串且模式串长度较短的应用场景。
+
+b）基于哈希散列的匹配算法。这类算法是在 $\mathrm { { B M } ^ { \mathrm { { ( 9 ] } } } }$ 单模式匹配领域的扩展，主要思路是使用散列来记录模式串的信息，并用字符块匹配来提高跳转幅度。比较有代表性的基于哈希散列的匹配算法包括KR[10]算法和WM算法。这类算法的优点是空间占用小，在大字符集上匹配速度很快，但是当最短模式串长度较小或者模式串集合规模过大时匹配速度也会受到很大限制。针对上述问题，文献[11]引入了LONG_SHIFT和SHORT_SHIFT两张哈希表，用于在可能出现匹配时做进一步的校验，两张表分别进行长模式串检验和短模式串校验，目的是为了提高检验率，解决最短模式串长度较小而引起的跳转距离过小的问题。这种方法在模式串长度分布不均匀时能取得一定的效果，但对于模式串集合中短模式串较多的情况匹配的效率难以得到有效提升。文献[12]结合QS算法对WM算法进行了改进，提出了QWM算法，该算法在匹配阶段判断当前窗口匹配失败时检查当前窗口后面的B字符块，使得最大移动距离从 $\mathrm { m } { \cdot } \mathrm { B } { + } 1$ 增大为 $\mathrm { m + B }$ 。QWM算法使用误匹配信息来增加匹配窗口的跳跃距离，在中文字符集上取得了 $7 \%$ 左右的提升效果，但是当模式串规模较大时匹配效率提高不大。
+
+c）基于位并行的匹配算法。这类算法是用位图来模拟状态机的匹配过程，即用位向量运算替代状态机跳转，并用机器码来并行运算加快速度，有代表性的是Shift-AND/Shift-OR[13]算法。这类算法空间占用小且匹配速率较高，但是受限于机器字节宽度的影响，通常只适用于小规模模式集的匹配。针对这个问题，文献[14]提出了结合q-gram 技术来对 Shift-And 算法进行扩展，首先将所有模式串规约成一个通配模式串p；然后用位并行算法shift-And对p 进行搜索，对可能出现匹配的情况进行二级精确校验，从而极大地增加了校验率，但是这种方法在大于10万的超大规模模式集上仍然没有较好表现。
+
+目前国内外学者针对多模式匹配算法进行大量研究，并提出了很多新的改进算法，尤其在大规模模式串的匹配方面有了很大的进展。文献[15]提出了TFD 算法来处理大规模URL匹配的问题，结合散列技术和双数组Trie树加速精确校验的进程，同时优化了存储空间。但是Trie数据结构需要占用较大的存储空间，导致该算法的内存开销很大，限制了该算法的实际应用。文献[16]基于经典的SOG匹配算法，提出了一种过滤型的改进算法SOGOPT。该算法对模式串集合进行分组并且为每个模式串选择了特定的窗口，大幅度地提高了匹配性能。但是由于机器字节宽度的影响，当最短模式串的长度较长时该算法的匹配性能较差。
+
+尽管多模式匹配算法已经有很多研究成果，但是针对PDF文本内容的多模式匹配，尤其当模式集合较大时的研究成果还很少。本文在Wu-Manber算法的基础上，结合中文PDF 文本内容的编码规则，从增大跳转幅度和减少无谓的精确校验次数的角度出发，采用双重哈希跳转和布隆过滤器等多种优化技术，提高了中文PDF文本的多模式匹配性能。
+
+# 3 本文算法设计研究
+
+本章提出一种适用于PDF 文本内容审查的多模式匹配算法，该算法是在经典的Wu-Manber算法基础上，结合中文PDF文本编码规则的特点进行了改进，以适应模式串集合规模很大时的PDF文本匹配的需求。本文在3.1节中介绍了Wu-Manber算法，并分析了该算法在PDF文本匹配中的不足和缺陷。针对这些不足之处，在3.2\~3.4节介绍了本文的三种改进方法。3.5节是本文提出改进算法的具体描述，包括预处理和扫描匹配过程。
+
+# 3.1Wu-Manber算法分析
+
+Wu-Manber 算法是 SunWu在1994年提出的经典多模式匹配算法，该算法利用了BM算法中提出的“坏字符”跳转的思想，是一种启发式的算法。为了方便描述，首先给出Wu-Manber算法的符号定义，如表1所示。
+
+表1Wu-Manber 算法符号表  
+[able1 Parameter description ofWu-Manber algorithm   
+
+<html><body><table><tr><td>符号</td><td>描述</td></tr><tr><td>£</td><td>字母集</td></tr><tr><td>m</td><td>模式集合最短长度</td></tr><tr><td>B</td><td>字符块大小</td></tr><tr><td>T</td><td>文本</td></tr><tr><td>table_size</td><td>SHIFT、PREFIX、HASH表大小</td></tr><tr><td>k</td><td>模式串集合的数量</td></tr><tr><td>X={x1,x2, …,xB}</td><td>长度为B的字符块</td></tr><tr><td>P={p1,P2，,Pk}</td><td>模式集合，Pi是第i个模式串</td></tr></table></body></html>
+
+本节将对Wu-Manber算法的预处理和扫描阶段做具体阐述，并分析该算法在PDF文本匹配中的缺点。
+
+# 3.1.1预处理阶段
+
+在预处理中，先根据模式串集合计算最短模式串长度 $\mathrm { ~ m ~ }$ 随后利用 $\mathrm { m } , \mathrm { k }$ 和 $\Sigma$ 计算字符块B和tablesize的值，最后截取每个模式串的前 $\mathrm { ~ m ~ }$ 个字符作为匹配窗口来构造了三张哈希表：SHIFT、HASH和PREFIX表。三张哈希表的构造方法如下：
+
+a)SHIFT表。SHIFT用于存储任意长度为B的字符块V的哈希值，此处称为跳转值。如果V不存在于模式串集合的任何模式串中，则跳转值为 $\mathrm { m } { \cdot } \mathrm { B } { + } 1$ ；否则定义V出现在所有模式串最右位置的索引值为d，则跳转值为 $\mathrm { m } { \cdot } \mathrm { d }$ 。式（1）为SHIFT表的计算方法。
+
+$$
+S H I F T [ V ] = \left\{ \begin{array} { c } { { m - B + 1 , V \not \in P } } \\ { { } } \\ { { \operatorname* { m i n } \{ m - d \big | \forall j P j [ d - i ] = V [ B - i ] \} , V \in P } } \end{array} \right.
+$$
+
+b)HASH表。HASH表用于存储每个模式串前 $\mathbf { m }$ 个字符中最右端长度为B的字符块的哈希值，此处称为后缀哈希值。拥有相同后缀哈希值的字符块被放入同一个链表中存储。
+
+c）PREFIX表。PREFIX表用于存储每个模式串前 $\mathrm { ~ m ~ }$ 个字符中最左端长度为B的字符块的哈希值，此处称为前缀哈希值。
+
+# 3.1.2扫描阶段
+
+扫描阶段主要是利用之前构造好的三张哈希表，从前到后地扫描文本T，并不断检测是否匹配到模式串，直到扫描到文本末尾。具体过程如下：
+
+a)在文本T中，计算当前匹配窗口中最右端长度为 B的字符块的哈希值，记作h。b）查看SHIFTh的值，若大于0则匹配窗口按照SHIFT[h]的值向右移动，执行步骤a)；若等于0则执行步骤c)。c）计算当前匹配窗口的最左端长度为B的字符块的哈希值，记做 pre_hash。d)将HASH[h]所在链表的全部模式串，逐个计算PREFIX[h]的值，判断是否等于pre_hash。e）若不等于则跳过，回到步骤d)。f)若等于，则对该模式串进行逐字符地精确匹配。g）让该模式串从当前匹配窗口的最左端开始从前到后地精确匹配。HASH[h]所在链表全部模式串都校验完成后，将匹配窗口向右移动1个距离，执行步骤a)。
+
+# 3.1.3Wu-Manber算法的缺点
+
+当将Wu-Manber算法应用于模式串规模较大的PDF文本内容审查时匹配效率不佳，主要有两方面的原因，详细阐述如下：
+
+a）跳转距离小，哈希冲突大。一方面，经典Wu-Manber算法中，字符块B的取值一般为2或3，在PDF中文文本的内容检索中，一个汉字会对应4个字符，当最短模式串是4个汉字时，转换编码后m是16，此时B的值若为2将会产生大量的哈希冲突而造成校验成功率下降，减缓了匹配进程;另一方面，Wu-Manber算法中SHIFT表的最大跳转值为$\mathrm { m } { \cdot } \mathrm { B } { + } 1$ ，且在精确校验后跳转值为1，在PDF文本匹配中该跳转值明显可以进行增加且不会出现匹配遗漏。
+
+b)精确检验耗时严重。 $\mathrm { W u }$ -Manber算法在匹配过程中，当SHIFT表的跳转值为0时表明可能匹配到了模式串。此时就需要进行精确校验来判断是否匹配成功，而这个过程需要逐一地遍历对应HASH表映射的链表中的全部模式串。由于中文PDF文本采用CID 编码格式，使得模式串的长度较长且相同前缀出现的比例较大，相同前缀的冲突链很长，导致在精确校验时遍历较多的模式串而造成CPU消耗很大，匹配效率低下。
+
+# 3.2调整 SHIFT表跳转值
+
+根据PDF中文文本编码具有四个字符组成一个汉字的特点，在预处理阶段，初始化SHIFT哈希表时键的取值可以相隔四个单位。此外，将Wu-Manber算法的SHIFT表默认跳转值（最大跳转值），即当文本串中的字符块没有出现在任何模式串中时的SHIFT跳转值，从 $\mathrm { m } { \cdot } \mathrm { B } { + } 1$ 改为 $\scriptstyle \mathrm { m - B + 4 }$ 。在匹配阶段，精确校验结束后的跳转值，在Wu-Manber算法中固定为1，然而该跳转值可以动态地得到，在本文3.3节中会具体描述该值的计算方法，并且由于CID编码的特殊性，最小跳转值为4。
+
+例如，对于模式串集合 $\scriptstyle \mathbf { P } = \left\{ { \begin{array} { l } { } \end{array} } \right.$ 不可思议，妙不可言，信息时代}，在某PDF中转换为CID编码后，${ \bf \mathrm { P } } =$ {4e0d53ef601d8bae,59994e0d53ef8a00,4fe1606f65f64ee3}，根据如下公式(2)计算字符块大小B的值：
+
+$$
+B { = } \bigl \lceil 4 ^ { { \ast } } \log \Sigma ( 2 ^ { { \ast } } m ^ { { \ast } } r ) \bigr \rceil
+$$
+
+其中： $\Sigma$ 是字符集的大小，是模式串的个数。取字符块大小$\scriptstyle \mathbf { B = } 8$ ，则根据该模式串集合构造的SHIFT表，如表2所示。可以看出，每个字符块的跳转值都是4的倍数，因此加大了跳转的幅度。
+
+表2SHIFT表键值对映射关系  
+Table 2Key-value pair mapping of SHIFT table   
+
+<html><body><table><tr><td>字符块</td><td>跳转值</td></tr><tr><td>4e0d53ef</td><td>4</td></tr><tr><td>53ef601d</td><td>4</td></tr><tr><td>601d8bae</td><td>0</td></tr><tr><td>59994e0d</td><td>8</td></tr><tr><td>53ef8a00</td><td>0</td></tr><tr><td>4a1606f6</td><td>8</td></tr><tr><td>0bf65f64</td><td>4</td></tr><tr><td>5f644ee3</td><td>0</td></tr></table></body></html>
+
+# 3.3双重哈希跳转
+
+Wu-Manber算法中，将匹配窗口的最右端大小为B的字符块命名为H，则当SHIFT[H]=O 时会检验PREFIX表之后进行精确校验，结束后匹配窗口仅向右滑动1个距离。当文本串规模较大时，精确校验次数很多而滑动距离只有1会导致算法的匹配效率不高。
+
+为此，本文新增了一张JUMP哈希表，它的键与HASH表相同，而值表示精确匹配后的精确跳转值：当前验证的字符块H没有出现在其他模式串的匹配窗口时，儿U $/ \mathrm { M P [ H ] } \mathrm { = m } \mathrm { - B } \mathrm { + } 4$ ；当前验证的字符块H只在其他模式串的匹配窗口最左端出现时， $\mathrm { J U M P [ H ] = m { - } B }$ ；其余情况下JUMP[H]=4。因此，在匹配阶段结束精确校验后，跳转值根据JUMP[H]得到，这样将匹配阶段的无谓时间消耗转移到预处理阶段，加快了匹配性能。
+
+# 3.4使用布隆过滤器减少无谓匹配
+
+布隆过滤器(Bloom filter)是由 Burton Bloom[17]在1970 年提出的一种高效的随机数据存储结构，它用位图简洁地表示一个集合，并且快速地判断一个元素是否属于该集合。布隆过滤器是基于多哈希函数映射压缩参数空间的数据结构，将k 个哈希函数运算后的值映射到位图中，空间和时间效率都很高[18]。
+
+由于PDF中文文本的编码格式，即一个汉字带有四个字符的信息，在匹配阶段进入精确匹配但是没有匹配到模式串的情况很多，这样造成精确匹配的成功率较低。为此，本文提出使用布隆过滤器来避免不需要进行精确匹配的情况，从而加速匹配。首先，定义当前匹配窗口的后缀字符块和下一个匹配窗口的前缀的字符块组成长度为B的新字符块为HB。在预处理阶段，将所有非最短模式串的字符块HB加入到布隆过滤器中。在匹配阶段，当检测到可能出现匹配时，在查找PREFIX和HASH表之前计算字符块HB是否在布隆过滤器之中，如果存在则进行精确校验，否则直接根据 JUMP[H]来跳转。
+
+布隆过滤器可以快速地检索一个元素是否在集合中，它的优点是时间和空间效率都远超同类的算法，但是它也存在假阳性误判的缺陷。假阳性误判，即布隆过滤器有一定概率将不在集合中的元素误判为在集合中。假阳率的计算如下公式（3）所示。
+
+$$
+f = ( 1 - e ^ { - { \frac { n k } { s } } } ) ^ { k }
+$$
+
+其中： $\mathfrak { n }$ 表示加入布隆过滤器的规则集数量； $\mathbf { k }$ 是布隆过滤器中哈希函数的数目；s则表示布隆过滤器中位图的比特数量。由上式可以看出，适当地选择s和 $\mathbf { k }$ 的值可以降低假阳率。从式（3）可以推导出 $\mathfrak { n }$ 、S、 $\mathbf { k }$ 三者的关系为
+
+$$
+k = ( \frac { s } { n } ) I _ { n } 2
+$$
+
+其中： $\frac { s } { n }$ 表示布隆过滤器映射每个元素所需的比特位数。为了避免布隆过滤器的假阳性误判，本文选择两个明显独立的哈希函数[I9]：SDBM和SAX。SDBM在不同的数据集中有很好的差方分布，SAX则具有高效的移位运算速度，两者的计算公式如下：
+
+$$
+S D B M = c + ( h a s h < < 6 ) + ( h a s h < < 1 6 ) - h a s h
+$$
+
+$$
+S A X = c + ( h a s h < < 5 ) + ( h a s h > > 2 )
+$$
+
+# 3.5改进算法描述
+
+本文提出的改进算法包括预处理和扫描匹配阶段。预处理阶段主要包括根据模式集计算最短模式串长度 $\mathrm { ~ m ~ }$ 值，利用所有模式串匹配窗口的后缀字符块构造HASH和JUMP表，并根据匹配窗口的前缀字符块构造PREFIX表以及非后缀字符块构造SHIFT表，最后用3.4节提出的HB字符块构造布隆过滤器(BloomFilter)。图2是预处理的示意图。其中灰色部分代表长度为m的匹配窗口，用于计算SHIFT、HASH、PREFIX和JUMP表。表中index表示由字符块计算出的哈希值，shift和skip 都表示跳转值，id代表一个模式串的编号。深灰色部分代表HB字符块，用于初始化布隆过滤器。
+
+![](images/4966f43ffc684cfcc58aab5251528ed2e34bd06c33afbab3ed8a0757e77fcff9.jpg)  
+图2改进算法预处理示意图
+
+扫描匹配阶段会利用预处理生成的四张哈希表以及布隆过滤器，算法1的伪代码是对该阶段的描述。匹配过程中始终维持长度为 $\mathbf { m }$ 的匹配窗口向右移动，假设当前匹配窗口的后缀长度为B的字符块为H，则判断SHIFT[H ${ > } 0$ 时直接跳转 SHIFT[H]的值；否则对字符块H 的后缀和下一匹配窗口的前缀组成的长度为B的字符块HB进行布隆过滤器校验，若验通过则进行PREFIX和HASH表的精确校验，否则直接跳过JUMP[H]的值。
+
+算法1扫描文本匹配算法1.index $ \mathsf { m } - 1$ ,text_len←len(text)
+
+2．while index $\angle \cdot \angle$ text_len do   
+3．block_hash $$ HashCode(text+index-B,B)   
+4.shift_value $$ SHIFT[block_hash]   
+5.if shift_value >0 then   
+6.index $$ index $^ +$ shift_value   
+7.else if not BloomFilter.contains(index,B）then   
+8. index←index $^ +$ JUMP[block_hash]   
+9.else   
+10. prefix_hash $$ HashCode(text+index-m,B)   
+11．while HASH[prefix_hash] $\neq$ null do   
+12. find match HASH[prefix_hash][id]   
+13．end while   
+14．index←index $^ +$ JUMP[block_hash]   
+15．end if   
+16．end while
+
+图3和4是改进算法和Wu-Manber算法处理相同实例的结果。其中模式集合是 $\mathbf { P } { = } \mathbf { ; }$ 新时代、曾几何时、算几何题目}，在某PDF 中用CID 编码转换后 $\mathrm  P = \{ 0 7 9 e 8 5 h 6 7 9 c l $ 、3f89463d8a09237f、 $2 9 3 6 4 6 3 \mathrm { d } 8 \mathrm { a } 0 9 1 \mathrm { c } 6 3 7 3 \mathrm { a } 2 \ddagger$ 。由此可知，最短模式串长度 $\mathrm { m } { = } 1 2$ ， $\scriptstyle \mathrm { B = } 8$ ，预处理阶段各表项的取值如图3所示。
+
+![](images/4225838dbab093820f7c594c9c892e2000d0ad6d7c3e11fa1408d3a4640b4ac8.jpg)  
+图3改进算法预处理阶段例子
+
+![](images/bdb3e0f566333d1707472fd97efec69a5e5674faa2e25b761e18a05bd2075897.jpg)  
+Fig.2Schematic diagram of improved algorithm preprocessing   
+Fig.3Example of improved algorithm preprocessing   
+图4改进算法扫描匹配阶段例子  
+Fig.4Example of improved algorithm scan matching
+
+图4显示了改进算法扫描匹配阶段的过程。当改进算法计算到匹配窗口字符463d8a09在SHIFT表中对应值为0时，不会立即进行精确校验，而是检测当前匹配窗口后缀字符块和下一个匹配窗口前缀字符块组成的长度为B的字符块8a09465c是否在布隆过滤器中，检测失败后文本向后移动JUMP[463d8a09]=4个距离，继续检查直到文本结束。
+
+在这个例子中，相比于Wu-Manber算法，改进算法的平均跳跃距离(5.6次)大于WM算法的平均跳跃距离(2.8次)，并且改进算法避免了进行一次精确校验，从而加速了匹配的进程。由此可知，改进算法在处理中文PDF文本时，当最短模式串长度较长且各个模式串中存在相同前后缀时，改进算法具有跳跃距离大和精确校验次数少的优势，从而使匹配的效率更高。
+
+# 4 实验评估
+
+本文的实验评估除了对算法整体的匹配速率进行对比之外，还考虑了Wu-Manber算法中精确匹配成功率（MSR）和哈希表跳转率（HSR）的比较。本文将匹配窗口右端字符块定义为H,SHIFT[H] ${ \left| { > 0 } \right. }$ 以及被布隆过滤器拦截而直接跳转的次数记为SkipCount，SHIFT[H]=0时进入精确匹配的次数记为MatchCount，成功匹配到模式串的次数记为SuccessCount，则精确匹配成功率（MSR）的和哈希表跳转率（HSR）的计算公式如式（7）（8）所示。
+
+$$
+M S R = { \frac { S u c c e s s C o u n t } { M a t c h C o u n t } }
+$$
+
+$$
+H S R = { \frac { S k i p C o u n t } { S k i p C o u n t + M a t c h C o u n t } }
+$$
+
+由于 $\mathrm { w } _ { \mathrm { u } }$ -Manber算法中在进入精确匹配后可能出现误匹配而减缓匹配性能，所以MSR的值越高说明算法效率越好。哈希表跳转率高则表明算法的哈希表访问率低，即哈希计算的次数少，所以HSR的值越高说明算法的时间效率越好
+
+# 4.1实验数据和实验环境
+
+本文使用的实验软硬环境是：IntelC612E5-2600v4CPU$\textcircled { a } 3 . 2 0 ~ \mathrm { G H z } ~ 1 6$ 核；内存32GB；操作系统为Centos6.6；内核版本是3.10.0-123.e17.x86_64。程序代码使用 $\scriptstyle \mathbf { C } + +$ 语言编写， $\mathrm { g } \mathrm { + } + 5 . 4 . 0$ 编译，单线程运行。
+
+本文实验中选取的PDF文档包括100个 $1 0 0 \mathrm { K B } { \sim } 1 0 0 \mathrm { M B }$ 的PDF文件。由于篇幅的限制，表3列出了部分实验样本。随后使用PDFBinder1.2软件将100个PDF文档进行合并，构成大小约 $5 0 0 ~ \mathrm { M B }$ 的PDF文件，最后提取其中的stream文本内容用于算法性能测试。为了充分评估算法性能，实验根据PDF文本内容随机生成了数目分别为10000、20000、30000、40000、50000、60000、70000、80000共8个模式集合，其中最短模式串为12，最长模式串为168。
+
+表3实验的部分PDF文档  
+Table3 PDF documents of experiment   
+
+<html><body><table><tr><td>文件名</td><td>文件大小</td></tr><tr><td>基于PDF文档的网络学习资源建设.pdf</td><td>112KB</td></tr><tr><td>PDF1.7文档规范.pdf</td><td>397KB</td></tr><tr><td>一种改进的多模式匹配算法.pdf</td><td>530 KB</td></tr><tr><td>LWIP协议栈源码详解.pdf</td><td>1481KB</td></tr><tr><td>C和指针.pdf</td><td>11328KB</td></tr><tr><td>Hadoop 权威指南.pdf</td><td>51930KB</td></tr></table></body></html>
+
+# 4.2 实验结果及分析
+
+首先对上文提到的精确匹配成功率（MSR）和哈希跳转率（HSR）进行了测试。实验选用的模式集规模为10000，在最短模式串递增的情况下对WM和改进算法分别进行了实验测试。图5和6是测试结果示意图。从图中可以看出，改进算法的MSR和HSR相比于传统的WM算法都有较大提升，这是因为随着最短模式串长度的增大，布隆过滤器利用模式串信息而过滤掉的无谓匹配更多，二重哈希的跳转次数和距离也随之增大，所以改进算法的MSR和HSR相比于WM算法提升明显。
+
+![](images/2fc3ca87103c72f9f029516644b0fb3b919ea6e27d716eecf134616d5478b41a.jpg)  
+图5模式串规模为10000时MSR对比
+
+图7\~9是算法整体匹配速度的仿真。实验中模式串共有10000条，模式串与文本串的占比为 $1 7 . 6 2 \%$ 。由图可见，使用本文提出的改进算法相比于其他算法在PDF文本的匹配上有更高的性能。当最短模式串长度为12时，本文提出的改进算法在模式串规模为万级时的匹配速度和SOGOPT算法相差不大，但相比于WM和QWM算法匹配速度可以提升大约为 $20 \%$ （ ${ \sim } 4 0 \%$ 。当最短模式串长度较长时，由于模式串所携带的信息更多，本文提出的改进算法中双重哈希跳转和布隆过滤器的作用得以体现，即匹配过程中跳转幅度更大，精确校验次数更少，从而使得匹配速度开始明显优于其他算法，尤其当模式串规模增大时匹配速度更是达到QWM和WM算法的一倍以上。而SOGOPT算法随着最短模式串长度和模式串规模的增大，它采用的分组规约受到限制而造成精确校验次数增多，导致其算法效率有所下降。
+
+![](images/c26c675c2f8ebde4189ec722f95861dbeca9f3a8ff897f2ed899982311226832.jpg)  
+图6模式串规模为10000 时HSR对比
+
+![](images/fad6c640f3bae9d22e3cd677686a1cbf537902db1c7677c93a792aa8315b60c4.jpg)  
+Fig.6HSR comparison when pattern string size of 10 000   
+图7模式串最短长度为12时匹配速度对比
+
+![](images/89400623877725418368114889bcc38ef7079d5ae83c4a21ec003c4568abe592.jpg)  
+Fig.5MSR comparison when pattern string size of 10 000   
+Fig.7Comparison of matching speed when shortest string length is 12   
+图8模式串最短长度为16时匹配速度对比  
+Fig.8Comparison of matching speed when shortest string length is 16
+
+![](images/cbb9fd821968239e26af620aad1dc1ea2d5362ba897b84c76024407f9970ab47.jpg)  
+图9模式串最短长度为20时匹配速度对比  
+Fig.9Comparison of matching speed when shortest string length is 20
+
+# 5 结束语
+
+在互联网流量爆炸的今天，PDF文件的内容监管和过滤在网络信息安全领域中愈发重要。本文分析了Wu-Manber算法在PDF文本匹配中的缺点和不足，并根据PDF内容流的编码规则，利用双重哈希跳转和布隆过滤器优化匹配性能，提出一种适用于PDF文本匹配的改进算法。在真实数据中测试表明，本文提出的改进算法和其他算法相比在中文PDF文本审查中匹配效率更高，尤其在大规模模式串的应用环境中性能更佳。
+
+目前PDF文件的版本更新日益频繁，内容流的标签订位也在不同版本中有不同的方式。在今后的工作中，将研究不同版本PDF的中英文编码规范，结合本文及其他改进算法，希望研究出具有普遍适用能力的中英文PDF文本高效匹配算法。
+
+# 参考文献：
+
+[1]Stylianopoulos C,Almgren M, Landsiedel O.Multiple pattern matching for network security applications:acceleration through vectorization [C]//Proc of the 46th IEEE International Conference on Parallel Processing.Bristol:IEEE Press,2017:472-482.   
+[2]Langlois J M P,Savaria Y. Memory-efficient string matching for intrusion detection systems using a high-precision pattern grouping algorithm [C]// Proc of Symposium on Architectures for Networking and Communications Systems.California,USA:ACM Press,2016: 37-42.   
+[3]曹成宏，雷迎科，徐一鸣．面向链路层比特流数据频繁统计的 AC-IM 算法[J].小型微型计算机系统，2018，39（7):62-66.(Cao Chenghong，Lei Yingke,Xu Yiming.AC-IM algorithm oriented frequent statistics of link-layer bit stream data [J].Journal of Chinese Computer Systems,2018,39(7): 62-66.)   
+[4]Tahir M, Sardaraz M,Ikram A A.EPMA:efficient pattern matching algorithm for DNA sequences [J].Expert Systems with Applications, 2017,80 (1): 162-170.   
+[5]孙本阳，王轶骏，薛质．一种改进的恶意PDF文档静态检测方案[J]. 计算机应用与软件,2016,33(3):308-313.(Sun Benyang,Wang Yijun, Xue Zhi.An improved static detection scheme for malicious pdf documents [J]. Computer Applications and Software,2016,33 (3): 308-313.)   
+[6]Wu S,Manber U.A fast algorithm for multi-pattern searching [J]. CiteSeer,1994 (1): 1-20.   
+[7]Singh R,Mohaar G S.Fast document indexing using aho-corasick state machine [C]// Proc of the 17th IEEEInternational Conference on Information Reuse and Integration .New York:IEEE Press,2016: 469-475.   
+[8]张萍，刘燕兵，于静，等.HashTrie:一种空间高效的多模式串匹配 算法[J].通信学报，2015,36(10):172-180.(Zhang Ping，Liu Yanbing,Yu Jing,et al. HashTrie:a space-efficient multiple string matching algorithm [J].Journal on Communications,2015,36(10): 172-180.)   
+[9]Rahim R,Ahmar A S,Ardyanti A P.Visual approach of searching process using Boyer-Moore algorithm [J]．Journal of Physics: Conference Series,2017,930 (1): 1-5.   
+[10] Karp R M,Rabin M O.Efficient randomized pattern-matching algorithms [J].IBMJRes Dev,1987,31(2): 249-260.   
+[11]夏念，嵩天．短规则有效的快速多模式匹配算法[J].计算机工程与 应用,2017,53(7):1-8.(Xia Nian, Song Tian. Short rule efficient rapid multi-pattern matching algorithm [J]. Computer Engineering and Applications,2017,53(7): 1-8.）   
+[12] Zhang W. An improved Wu-Manber multiple patterns matching algorithm[C]//ProcofIEEEElectronicInformationand Communication Technology. New York: IEEE Press,2016: 286-289.   
+[13] Saikrishna V,Rasool A,Khare N. Spam filtering through multiple pattern bit parallel string matching combining shift AND & OR [J]. International Journal of Computer Applications,2013,61 (5): 40-45.   
+[14] Elziky MA,Ibrahim D M,Sarhan A M. Improved duplicate record detection using ASCII code Q-gram indexing technique [J].Arabian Journal for Science and Engineering,2018,43 (12): 7409-7420.   
+[15] Yuan Zhenlong,Yang Baohua,Ren Xiaoqi,et al. TFD: a multi pattern matching algorithm for large-scale URL filtering [C// Proc of Computing,Networking and Communications.Beijing: IEEE Press, 2013: 359-363.   
+[16] 刘燕兵，邵妍，王勇，等．一种面向大规模 URL 过滤的多模式串匹 配算法[J].计算机学报,2014,37(5):1159-1169.(Liu Yanbing,Shao Yan,Wang Yong，et al.A multiple string matching algorithm for large-scale URL filtering [J]. Chinese Journal of Computers,2014,37 (5): 1159-1169.)   
+[17] Holley G,Wittler R,Stoye J. Bloom filter trie: an alignment-free and reference-free data structure for pan-genome storage [J]. Algorithms for Molecular Biology,2016,11 (1): 1-9.   
+[18] Aldwairi M,Al-Khamaiseh K. Exhaust: optimizing Wu-Manber pattern matching for intrusion detection using Bloom filters [Cl// Proc of the 2nd World Symposium on Web Applications and Networking .Sousse, Tunisia: IEEE Press,2015: 1-22.   
+[19] Chinaunix．几种常用 hash 算法及原理[EB/OL]．[2016-08-09]. http://blog.ChiNaunix. net/uid-30592332-id-5749402.html.

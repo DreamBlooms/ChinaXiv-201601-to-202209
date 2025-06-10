@@ -1,0 +1,434 @@
+[
+    {
+        "type": "text",
+        "text": "高功能自闭症个体对威胁性情绪面孔的注意偏向",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范晓壮1,2 毕小彬 1.2谢宇 1,2 贺荟中 1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1华东师范大学教育学部特殊教育学系；²华东师范大学自闭症研究中心，上海 200062）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要高功能自闭症（High-FunctioningAutism,HFA）个体智力正常，但也面临着严重的社会功能障碍。对威胁性情绪面孔的注意偏向与HFA个体社会功能的发展密切相关。梳理相关研究发现，HFA个体在自动加工阶段和情绪目标参与阶段，不存在威胁性情绪面孔注意偏向；而在任务与情绪无关的控制加工阶段，存在威胁性情绪面孔注意偏向。针对HFA个体威胁性情绪面孔注意偏向的理论解释主要有杏仁核理论、强烈世界理论和执行功能理论等。神经生理机制方面，HFA个体对威胁性情绪面孔的注意偏向可能与其异常的皮下及皮层通路功能有关，同时可能会受5-羟色胺系统基因及催产素水平等的影响。未来研究可在综合考虑研究方法及个体因素的基础上，进一步探究其加工特征及神经生物机制，着力开发科学有效的干预策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 高功能; 自闭症; 威胁性； 情绪面孔； 注意偏向",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "情绪注意偏向（affect-biased attention）是指，包含情绪信息的刺激相对于无情绪的刺激能更迅速或持久地引发个体的注意，得到进一步的认知加工（彭晓哲,周晓林,2005；白学军，贾丽萍，王敬欣,2013）。快速、准确地识别他人的情绪信号对于维系社会纽带、增强群体凝聚力和保障群体生存至关重要（Van Rooijen,Ploeger,&Kret,2017），因此人们会对承载强烈情绪信息的面孔，特别是传递重要警告信号的威胁性情绪面孔表现出注意偏向（Okon-Singer,Lichtenstein-Vidne,&Cohen,2013）。威胁性情绪面孔的注意偏向是一种特殊的情绪注意偏向，指威胁性情绪面孔（主要包括愤怒、恐惧、厌恶面孔等）相比于其它情绪面孔，能更快更多地捕获个体的注意。生物个体对威胁性情绪面孔的注意偏向是其适应生存和维持社会关系的必备技能，但过度注意这些威胁信息则会引发个体的社会情绪问题（Fu&Pérez-Edgar,2019），束缚个体社交能力的发展（Pérez-Edgar,Taber-Thomas,Auday,&Morales,2014; Morales,Pérez-Edgar,& Buss,2014）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自闭症谱系障碍（Autism SpectrumDisorders,ASD）又称自闭症或孤独症，是一种发生在儿童早期的神经发育障碍，其核心症状表现为社会沟通与交往障碍，兴趣狭窄与行为刻板等（American Psychiatric Association,2013）。临床上，ASD个体普遍存在社会情绪障碍与问题行为等（Maskey,Warnell,Parr,Le Couteur,& McConachie,2O13; Horiuchi et al., 2014;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pisula et al.,2O17; Irwanto,Kahfi,Febriyana,Hartini,&Takada,2019）。研究发现，对威胁性社会信息特别是威胁性情绪面孔的注意偏向会对ASD个体社会功能的发展产生极大的影响。一方面，对威胁性情绪面孔的异常注意偏向可能会阻碍ASD个体准确判断他人的意图及心理状态，导致社会情绪加工障碍。如有研究发现，ASD个体较多关注社会情境中的负性情绪信息（Embregts&VanNieuwenhuijzen,2009）。他们常错误解读面孔表情，把中性情绪面孔识别为愤怒或伤心情绪面孔（Eack,Mazefsky,&Minshew,2015）。另一方面，对威胁性情绪面孔的异常注意可能会引发ASD个体的社交回避行为，影响其社会沟通能力的发展（Zalla& Sperduti,2013）。如以往研究发现，ASD个体对愤怒面孔的注意越少，其社会沟通障碍越严重（Garcia-Blanco et al.,2017; Matsuda,Minagawa,& Yamamoto,2015）。因此，对ASD个体威胁性情绪面孔注意偏向的研究，不仅有利于揭示其情绪与认知过程的交互作用机制，而且有利于科学干预方法的发展与完善。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，关于ASD个体威胁性情绪面孔注意偏向的实验研究多以高功能自闭症（High-Functioning Autism,HFA）及阿斯伯格综合症（Asperger's syndrome,AS）个体为研究对象。这是因为高功能自闭症和阿斯伯格个体认知能力较好（Koyama,Tachimori,Osada,Takeda,&Kurita,2007），能够理解实验要求，配合完成实验任务。所谓高功能自闭症是指，自闭症谱系障碍中认知能力较好，智力正常（ $\\mathrm { . } \\mathrm { I Q } \\geqslant 7 0$ ）的一部分群体（Koyama etal.,2007）。而阿斯伯格综合症也是自闭症谱系障碍的一部分\\*（American Psychiatric Association,2013），但他们在认知和语言能力方面均无显著落后（Macintosh&Dissanayake,2004;AmericanPsychiatric Association,2013）。AS和HFA个体认知能力较好，但他们都会表现出自闭症的核心症状（De Giambattista etal.,2019），存在显著的社会沟通与交往障碍（Macintosh&Dissanayake,2004）。综合众多HFA个体威胁性情绪面孔注意偏向的研究发现：一，HFA个体在自动加工阶段不存在对威胁性情绪面孔的注意偏向。这可能是由于HFA个体对社会性线索缺乏兴趣，对威胁性情绪面孔并不敏感，不会将威胁性情绪面孔加工为威胁信息（Hollocks,Ozsivadjian,Matthews,Howlin,& Simonoff,2013; May, Cornish,& Rinehart,2015）。二，在控制加工阶段，HFA个体表现出对威胁性情绪面孔的注意偏向。这可能是因为，在控制加工阶段，HFA个体依赖一定的情绪识别策略，能够从威胁性情绪面孔中提取威胁信号。为回避这种高度厌恶的感受，而表现出对威胁性情绪面孔的注意回避（Markram,Rinaldi,&Markram,2007;Kamila Markram&Markram,2010）。此外也可能是由于其执行功能障碍（Hill,2004），而表现出对威胁性情绪面孔的过度注意偏向。三，在（情绪）目标导向的注意阶段，HFA个体受情绪目标的影响，并未表现出对威胁性情绪面孔的注意偏向。这可能与该群体的抑制控制能力有关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2HFA个体对威胁性情绪面孔的注意偏向表现",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "梳理以往研究发现，一些研究支持HFA个体存在威胁性情绪面孔注意偏向（Ashwin,Wheelwright,& Baron-Cohen, 2Oo6b; Isomura, Ogawa, Yamada, Shibasaki,& Masataka,2014a;Krysko& Rutherford,2OO9;May,Cornish,& Rinehart,2O16; Sasson,Shasteen,& Pinkham,2016;Zhao,Zhang,Fu,&Maes,2016）。另一些研究则发现，HFA个体不会表现出对威胁性情绪面孔的注意偏向（Hollocks et al.,2013; Isomura,Ito,Ogawa,& Masataka,2014; May et al,2015; Sato etal.,2017）。分析相关影响因素发现，上述不一致的研究结果可能与注意的不同阶段有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据注意的双加工理论（Schneider&Shiffrin,1977），对威胁性情绪面孔的注意偏向可能发生在注意的两个阶段，即自动加工阶段和控制加工阶段（Mogg& Bradley,1998）。自动加工阶段，个体不能有意识地识别威胁性刺激；而控制加工阶段，个体能有意识地提取威胁信号，并对威胁性情绪面孔做出自上而下的注意抑制或注意转移（Cisler,Bacon,&Williams,2009）。研究者认为，对威胁性情绪面孔的注意偏向可能是自动加工和控制加工协调作用的结果。一方面，威胁性刺激的物理特性和生物进化意义，驱动个体在无意识状态下对其进行自动化加工（Bannerman,Milders,de Gelder,& Sahraie,20o9）；另一方面，个体会根据当前的目标、任务及已有的知识经验、期望等，来主动调整对威胁性情绪信息的注意（Sussman,Jin,&Mohanty,2016）。因此，我们将从自动加工阶段、控制加工阶段和目标参与阶段对相关研究进行梳理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1自动加工阶段，HFA个体不存在威胁性情绪面孔注意偏向",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有关HFA个体威胁性情绪面孔注意偏向的研究，多以刺激呈现时间小于500毫秒（millseconds,ms）作为自动加工的标准。多数研究发现，在自动加工阶段，HFA个体不存在对威胁性情绪面孔的注意偏向（Hollocks etal.,2013;May etal.,2015; Uono,Sato,& Toichi,2009;Garcia-Blanco,Lopez-Soler et al.,2017）。如，Hollocks等（2013）、Garcia-Blanco和Lopez-Soler等（2017）采用点探测范式，在屏幕的左右两端同时呈现一张情绪面孔（愤怒或者开心面孔）和一张中性情绪面孔作为线索，持续500ms后线索消失，并出现探测点，要求被试对探测点做出判断。结果发现HFA组和典型发展（Typically Developmental,TD）组均未表现出对威胁性情绪（愤怒）面孔的注意偏向。根据注意偏向的成分理论，注意偏向包含注意警觉（vigilance）、注意解除困难（dificulty in disengaging）和注意回避（attentionalavoidance or shift）三个成分（Cisler et al.,2009;Cisler&Koster,2010）。其中，注意警觉指与中性刺激相比，个体会优先注意威胁性刺激（Koster,Verschuere,Custers,& Crombez,2007）。注意解除困难指，相比于中性刺激，个体更难从威胁性刺激中解除注意。注意回避指个体回避对威胁性刺激的注意（Cisler＆Koster,2010）。因此，为进一步检测HFA个体在上述三个成分上的表现，May等（2015）采用改良的点探测范式（即增加“中性-中性”情绪面孔对线索作为参照），以500ms作为线索呈现时间，同样发现HFA个体不存在对威胁性情绪面孔的注意偏向，也不存在对威胁性情绪面孔的注意警觉、注意解除困难和注意回避。由上述几项研究可知，在500ms刺激呈现时间条件下，HFA个体和TD个体都不存在对威胁性情绪面孔的注意偏向。但Uono等（2009）以情绪面孔伴随动态视线为线索，在屏幕上呈现460ms后，要求被试对探测点做出反应。结果显示HFA个体没有表现出对恐惧情绪面孔的注意偏向，而TD个体表现出对恐惧情绪面孔的注意偏向。也有研究采用情绪Stroop任务同样发现，TD个体对威胁性情绪面孔有注意偏向，而AS个体没有表现出对威胁性情绪面孔的注意偏向（Ashwin,Wheelwright,&Baron-cohen,2006a）。此外，还有少量研究发现，HFA个体在自动加工阶段存在威胁性情绪面孔注意偏向。如Monk等（2010）采用点探测范式发现，HFA个体和TD个体均表现出对开心、愤怒面孔的注意偏向。在注意偏向的成分上，Zhao等（2016）采用空间线索任务，即先在屏幕的左侧或右侧呈现一张情绪面孔（厌恶或开心、中性情绪面孔）作为线索，随后消失并出现探测点，要求被试对探测点做出判断。结果发现HFA个体存在对厌恶面孔的注意偏向，具体表现为对厌恶情绪面孔的注意警觉。除此之外，还有一项研究发现HFA伴随特质焦虑个体表现出对愤怒面孔的注意偏向（Hollocks,Pickles,Howlin,& Simonoff,2016）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在自动加工阶段，多数研究支持HFA个体不存在对威胁性情绪面孔的注意偏向，少量研究得到了不一致的结论，可能的原因是：（1）研究中所采用的情绪类型不同。Zhao等（2016）等采用的是厌恶面孔，而其他研究多采用愤怒面孔。有研究指出，厌恶面孔虽然与恐惧面孔都传达负性信号，但愤怒面孔传递直接的威胁信息，而厌恶面孔则传达反感、人际拒绝等信号（Rozin,Lowery,&Ebert,1994），因此HFA个体可能会对愤怒和厌恶面孔产生不同的注意反应。（2）研究中HFA个体的焦虑状态不同。如Hollocks等（2016)发现，伴随特质焦虑的HFA个体表现出对威胁性情绪面孔的注意偏向，而无焦虑的HFA个体则没有表现出对威胁性情绪面孔的注意偏向。（3）点探测/空间线索任务的信度不足。Monk等（2010）、Hollocks等（2013）、Garcia-Blanco和Lopez-Soler等（2017）采用了相同的研究范式、实验程序、和威胁性情绪类型，但研究结果仍存在差异。这可能是由于500ms刺激呈现时间中，个体会有多个隐性注意的转换（Posner&Peterson,1990），使得点探测任务本身信度不足（Waechter,Nelson,Wright,Hyatt,&Oakman,2014），而造成研究结果的差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2控制加工阶段，HFA个体存在对威胁性情绪面孔的注意偏向",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究者多以刺激呈现时间大于1000ms作为控制加工的条件（Yiend,2010）。已有研究采用视觉搜索任务、点探测/空间线索任务、自由观看（眼动）任务等来检测HFA个体在控制加工阶段的注意偏向表现。上述任务中，被试均不需要对情绪信息做直接反应。结果显示，在控制加工阶段，HFA个体存在对威胁性情绪面孔的注意偏向，但不同任务中，注意偏向的具体成分存在差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1视觉搜索任务中，HFA个体存在威胁性情绪面孔注意偏向",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一些研究采用视觉搜索范式发现，HFA个体表现出对威胁性情绪面孔的注意偏向( Ashwin et al., 2OO6b; Isomuraet al.,2O14a; Isomura, Ogawa, Yamada, Shibasaki, & Masataka,2014b;Krysko&Rutherford,2009;May et al.2016;Rosset et al.,2011）。该任务要求被试判断所呈现的面孔是否相同，以被试做出判断的时间或速度作为注意偏向的指标（Fox et al,2000）。Ashwin等（2016b）采用简笔画情绪面孔（该研究指出简笔画材料可消除许多低级感知因素的影响，从而能够更好地控制实验变量），Rosset等（2011）采用卡通画情绪面孔作为刺激材料，均发现HFA组与TD组都表现出了对愤怒面孔的注意偏向。考虑到刺激材料的生态学效度，Krysko和Rutherford（2009）、May等（2016）采用真人面孔照片为材料，发现HFA组与TD组一致表现出了“愤怒面孔优势效应”（Anger SuperiorityEffect）。当然有研究指出，虽然HFA个体和TD个体都表现出了对愤怒面孔的注意偏向，但两组个体的加工策略可能并不相同。TD个体采用了整体构形策略，而HFA个体更偏向采用细节加工策略（Isomura etal.,2014b）。统合上述研究结果发现，HFA个体在视觉搜索任务中表现出对威胁性情绪面孔的注意偏向，且不受刺激类型（简笔画、卡通画、真人面孔照片等）的影响，但HFA个体威胁性情绪面孔注意偏向的加工策略还有待进一步研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2点探测/空间线索任务中，HFA个体存在威胁性情绪面孔注意偏向",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当面孔对线索呈现时间超过1000ms时，Garcia-Blanco和Lopez-Soler等（2017）、Ghosn等（2018）采用点探测范式的研究发现：HFA个体对威胁性情绪面孔（愤怒）表现出更强的注意回避，而TD组无此表现。Zhao等（2016）采用空间线索范式的研究结果显示，HFA儿童表现出对厌恶面孔的注意警觉，随后表现出注意回避趋势。Garcia-Blanco，Yanez，Väzquez，Marcos和Perea（2017）、Ghosn等（2018）采用点探测范式，给被试呈现1250ms情绪场景图片对，结果发现HFA个体对威胁性情绪场景表现出了优先注意。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述采用点探测/空间线索任务的研究结果显示，在控制加工阶段，HFA个体表现出对威胁性情绪面孔的注意偏向，但注意偏向的具体成分存在争议。以单纯的情绪面孔作为刺激材料的研究发现，HFA个体表现出对威胁性情绪面孔的注意回避；而对威胁性情绪场景的注意偏向表现为优先注意。这可能是因为HFA个体在情绪场景材料中更多采用了细节加工策略，因而能够优先注意威胁性情绪信息（Ghosnetal.,2018）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3自由观看任务中，HFA个体对威胁性情绪面孔的注意偏向",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自由观看任务中，被试只需自由注视刺激材料而不用做其它的操作反应，采用眼动设备记录被试的眼动轨迹和数据。这类任务以注视情绪面孔的首次注视潜伏期、首次注视时长、总注视时间为注意偏向指标（Armstrong＆Olatunji,2012）。总体来说，在自由观看任务中，HFA个体表现出对威胁性情绪面孔的注意偏向，但注意偏向的具体成分尚不一致。一些研究发现，HFA个体对威胁性情绪面孔表现出注意解除困难。如，陈顺森（2012）给被试呈现单独的情绪面孔时，HFA个体对不同情绪面孔的觉察时间差异不显著，但对恐惧情绪面孔的注视时间长于中性或愉快面孔，即存在对恐惧情绪面孔的注意解除困难。为探测背景因素对觉察情绪面孔的影响，陈顺森、白学军、沈德立、闫国利和张灵聪（2011）将独立的情绪面孔嵌入中性风景图片中，让被试自由观察时（时间为5s），同样发现HFA个体表现出对恐惧情绪面孔的注意解除困难。Crawford，Moss，Anderson，Oliver和McCleery（2015）让被试自由观看厌恶-中性情绪或者开心-中性情绪面孔对（每个情绪面孔对呈现1500ms）。结果发现HFA个体观看厌恶表情的时间比例高于中性情绪面孔，而观看开心面孔的时间比例与中性情绪面孔无显著性差异，即HFA个体表现出对厌恶表情的注意解除困难。另一些研究发现，ASD个体对威胁性情绪面孔表现出注意警觉和注意解除困难。若将情绪面孔嵌入乱序的环境背景中时，ASD个体表现出对恐惧情绪面孔的注意警觉和注意解除困难（陈顺森等,2011）。当情绪面孔处于与中性情绪面孔的竞争条件中时，Unruh,Bodfish和Gotham（2018）发现HFA个体表现出对愤怒面孔的注意警觉和注意解除困难，但TD个体对开心面孔存在注意偏向。当威胁性情绪面孔处在更具竞争性的刺激中（包括3张非面孔图，1张恐惧情绪面孔，1张开心面孔，和1张平静面孔）时，HFA个体依然表现出对恐惧情绪面孔的注意警觉和注意解除困难（陈顺森,2012）。但White，Maddox和Panneton（2015）让被试自由观看面孔对材料时，以每个500ms内注视情绪刺激的时长作为统计指标，发现HFA个体表现出对厌恶面孔的注意回避。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总结上述研究发现，多数研究支持HFA个体在自由观看任务中表现出对威胁性情绪面孔的注意偏向，但注意偏向的具体成分不同。这种不同可能与目标刺激的呈现背景（即有无竞争或干扰刺激）有关。当威胁性情绪面孔独立呈现（无背景的独立面孔或语义不相关背景下的独立面孔）时，HFA个体仅表现出对威胁性情绪面孔的注意解除困难。而当威胁性情绪面孔处于竞争条件下时（与中性或平静、开心面孔同时出现），HFA个体则表现出对威胁性情绪面孔的注意警觉和注意解除困难。White等（2015）未发现注意警觉和注意解除困难，可能是由于该研究采用的注意偏向指标不同。该研究以时段内注视时长为判断指标，异于其它研究，且这种时段分析对注意回避更加敏感（Armstrong＆Olatunji,2012）。但首次注视潜伏期、首次注视时长能更直接地反映初始的注意行为，故当两种分析方式并存时，研究者倾向于优先采用首次注视潜伏期和首次注视时长作为判定指标（Armstrong＆Olatunji,2012）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3情绪目标参与阶段，HFA个体不存在威胁性情绪面孔注意偏向",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "前面所述的研究均采用了情绪信息与操作要求不相关的任务，即被试不需对情绪面孔直接做反应。当被试要完成的任务与情绪信息相关时，被试需要意志控制来对情绪信息做精细加工。抑制控制能力受损可能会造成HFA个体不会表现出对威胁性情绪面孔的注意偏向。Isomura等（2014）以简笔画面孔为材料，要求被试指出与干扰面孔不同的目标情绪面孔。结果发现HFA组注意愤怒面孔和开心面孔的时间不存在显著差异，但TD组注意愤怒面孔更快。Farran，Branson和King（2011）采用真人黑白图像为材料，让被试听录音中的目标表情，并在干扰面孔中指出所听到的表情。结果发现HFA组未表现出对威胁性情绪面孔的注意偏向。当刺激材料为更复杂的多种族多性别的情绪面孔时，HFA个体未表现出威胁性情绪面孔注意偏向（Sasson etal.,2016）。此外结合眼动技术的研究也指出，HFA个体不存在对威胁性情绪面孔的注意偏向。林云强（2012）采用真人面孔材料，要求被试指出不同情绪面孔的位置，结果发现，HFA个体存在对开心面孔的注意偏向（首次注视高兴面孔的时间短），而非威胁性情绪面孔注意偏向。在此基础上，林云强等通过改变面孔方向（林云强，刘宝根，陈冠杏,2014）、搜索矩阵的大小（林云强，唐泉,2015）、面孔群持续时间（林云强，曹贤佳，朱慧敏，李菲菲,2019）、面孔偏转（林云强，童叶莹,2016）等，均发现HFA个体存在正性情绪面孔注意偏向，而非威胁性情绪面孔注意偏向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "上述各研究均要求被试指出不同情绪面孔的精确位置或类型。因此，在任务开始前，被试便预先知道所呈现的面孔材料矩阵中存在不一致的面孔表情，从而更多依赖自上而下的搜索策略来完成任务（LoBue＆Matthews,2014）。此外，被试可能为回避威胁性信号带来的厌恶感受，而不愿意去点击威胁性刺激，造成对威胁性情绪面孔的反应时更慢（LoBue＆Matthews,2014）。因此，HFA个体可能能够依赖自上而下的外显策略识别情绪面孔（Harms,Martin,&Wallace,2010），但因其无法抑制威胁性情绪面孔的干扰（Herrington et al.,2017），而不会表现出对威胁性情绪面孔的注意偏向。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3HFA个体对威胁性情绪面孔注意偏向的原因探析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合已有研究结果，HFA个体在自动加工阶段及情绪目标参与阶段，不存在对威胁性情绪面孔的注意偏向，而在（情绪信息与操作任务不相关的）控制加工阶段，表现出对威胁性情绪面孔的注意偏向。HFA是自闭症谱系障碍的一部分群体，以下结合自闭症相关理论尝试对现有结论做分析与解释。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1自闭症的杏仁核理论（The Amygdala Theoryof Autism）",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一般来说，人们会对有价值的刺激或与自己相关的刺激表现出注意偏向，而忽略不相关的刺激（Cisler etal.,2009）。自动加工阶段，ASD个体不存在对威胁性情绪面孔的注意偏向，可能是因为他们没有把威胁性情绪面孔加工为重要的或者威胁到自己的信息，不能从威胁性情绪面孔中提取出威胁信号。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "自闭症的杏仁核理论认为，ASD个体在识别情绪面孔时杏仁核激活不足，因此不能准确识别他人情绪，不能根据他人的情绪表情推断他人的想法和意图（Baron-Cohen et al.,2000）。已有研究发现，ASD个体对情绪面孔的加工存在障碍，尤其表现为对负性情绪的加工存在异常。如，Lacroix，Guidetti，Rogé和Reilly（2014）采用情绪标签任务（Emotion labeling task）、情绪匹配任务（Emotion matching task）、情绪识别任务（Emotion identification task）发现4\\~8岁的ASD儿童表现出负性情绪识别困难。Yeung，Lee和Chan（2019）发现ASD青少年（ $1 1 \\sim$ 18岁）同样表现出负性情绪面孔识别障碍。也有研究指出，ASD个体能够依赖后天习得的情绪识别策略，在外显的情绪识别任务中表现出正常的情绪识别能力（Harms etal.,2010）。但在内隐情绪加工或短时情绪知觉时，ASD个体依然存在情绪面孔的加工障碍（Wagner,Hirsch,Vogel-Farley,Redcay,&Nelson,2013）。因此，当一些研究以外显的情绪识别任务来检测被试的情绪识别能力时，会发现HFA个体在自动加工阶段的威胁性情绪面孔注意偏向与其情绪识别能力没有显著性相关（Hollocks et al.,2013;May et al.,2015）。由此推测，在自动加工阶段，HFA个体内隐地加工情绪信号的能力缺损，没有把威胁性情绪面孔加工为威胁信息，而不会对威胁性情绪面孔产生注意偏向。或者HFA个体可能过度依赖策略去识别表情，而忽略了对威胁性信号的加工（May etal.,2015），而没有对威胁性情绪面孔产生注意偏向。只有当HFA个体将威胁性情绪面孔和威胁信号建立联结时，他们才会表现出对威胁性情绪面孔的注意偏向（Isomura et al.,2014a）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2强烈世界理论（The IntenseWorld Theory）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从生物进化的角度来看，ASD个体也会表现出对威胁性情绪面孔的注意偏向，加之其异常的知觉能力，使得他们表现出过度或者异于常人的注意偏向表现。强烈世界理论可解释ASD个体在控制加工阶段的表现。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "强烈世界理论是基于动物模型（丙戊酸鼠）的神经影像学研究而提出的。该理论认为ASD个体的核心障碍可能是由杏仁核及大脑新皮质等脑区的局部神经微环路（local neuralmicrocircuits）功能过强造成的（Markram et al.,2007; Kamila Markram& Markram,2010）。具体表现为，在知觉和认知层面，受大脑新皮层调节而产生过度知觉（hyper-perception）、过度注意（hyper-attention）、过度记忆（hyper-memory）；在情感层面，受边缘系统脑区过度功能调节而造成过度情绪反应（hyper-emotionality）（KamilaMarkram&Markram,2010）。因此，ASD个体可能并不是对环境中的社会情绪信号不感兴趣，而是因为这些情感信号和特征过于强烈，使得杏仁核过度反应，将这些信息加工为了反感或厌恶的刺激。ASD个体为回避这种情感压力和紧张感，而表现出社交退缩行为（Markrametal.,2007;KamilaMarkram＆Markram,2010）。该理论得到了一些实证研究的支持，Tottnham等（2014）发现，ASD个体评定中性情绪面孔的威胁性等级越高，杏仁核激活水平越高。Kleinhans等（2010）在情绪面孔匹配任务中发现，相比于TD个体，ASD个体左侧前额叶激活减弱，枕叶激活增强。这种激活模式表明，ASD个体高阶脑区的相对整合力较低，而感觉区的功能过强。因此回避高唤醒刺激可能是一种适应性反应，以战胜强烈物理刺激带来的高度情绪唤起及过度的厌恶感受。由此可以解释，在控制加工阶段，为克服威胁性情绪面孔诱发的高度痛苦感受,HFA个体会主动调节自身的注意，从而表现出对威胁性情绪面孔的注意回避（Daltonet al.,2005; Corden, Chilvers,& Skuse,2Oo8; Kliemann,Dziobek,Hatri,Steimke,& Heekeren2010; Zalla & Sperduti, 2O13; Garcia-Blanco,Lopez-Soler et al., 2017）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3执行功能异常假说（ExecutiveDysfunction）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究发现，典型发展个体对威胁性情绪面孔的注意与其抑制控制能力有关（Auday，Taber-Thomas,&Perez-Edgar,2018）。随着年龄的发展，典型发展个体会逐渐发展出成熟的抑制能力，抑制对威胁性刺激的自动加工，以更好的适应社会生存（Reinholdt-Dunne,Mogg,",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Esbjorn,&Bradley,2012; Field&Lester,2010; Morales,Fu,&Pérez-Edgar,2016）。ASD个体对威胁性情绪面孔的异常注意偏向可能与其执行功能有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "执行功能包含认知灵活性、抑制控制、工作记忆等多个高级认知加工过程，主要指个体根据当前情境或目标任务，灵活调整自身行为，包括抑制与当前任务不相符的行为而表现出恰当的行为(Hill,2004)。ASD个体存在认知灵活性和注意转换障碍（贺荟中，梁志高,2013)，表现为难以从当前的任务或刺激离开而注意到新任务或新刺激，即注意解除困难（Bryson etal.,2018; Sacrey,Armstrong,Bryson,& Zwaigenbaum,2014）。此外，ASD个体还存在优势行为抑制障碍（Prepotent Response Inhibition）和干扰抑制（Interference Control）障碍（Geurts,van den Bergh,&Ruzzano,2014），即无法根据当前情境或目标抑制不恰当的行为（Adams &Jarrold,2012）。已有研究多采用视觉搜索范式，发现HFA个体难将注意从威胁性情绪面孔中解除出来（林云强,2012；陈顺森等,2011）。而在对威胁性情绪面孔的注意抑制能力方面，已有研究发现ASD个体受不相关负性社会信息的干扰较大（Herrington etal.,2017）。以此推测，在控制加工阶段，ASD个体的执行功能异常可能会造成对威胁性情绪面孔的注意解除困难；在情绪目标参与阶段，ASD个体无法抑制威胁性信息的干扰，因而不会表现出对威胁性情绪面孔的注意偏向。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4HFA个体对威胁性情绪面孔注意偏向的潜在神经机制",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前，ASD个体对面孔情绪信息注意的神经机制研究主要集中于与TD个体的对比研究。神经影像学研究表明，普通发展个体对威胁性情绪信息的注意偏向可能有两条神经通路。一是皮层下快速加工通路，即“上丘-枕核-杏仁核”皮层下警觉系统，能够在无意识状态下对威胁性刺激进行快速、粗略的识别和检测（Tamietto＆deGelder,2010）。然后将信息反馈给视觉皮层，增强视觉皮层对威胁性情绪信息的反应，从而产生注意偏向。另一个为皮层通路，由杏仁核、脑岛、前扣带回、前额皮层、眶额皮层等共同对威胁性刺激进行准确细致地识别加工（Sierra-Mercado,Padilla-Coreano,&Quirk,2011）。从注意偏向的具体成分上看，注意警觉主要与杏仁核-前扣带回网络联结有关，而注意解除与前额叶皮层（特别是眶额叶皮层）功能相关（张禹，罗禹，赵守盈，陈维，李红,2014）。从已有研究来看，HFA个体可能存在皮下通路及皮层通路的功能异常。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1HFA个体可能存在皮下通路功能异常",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，在行为反应上，HFA个体与TD个体都表现出对开心和愤怒面孔的注意偏向；但在神经生理反应上，HFA个体表现出了更大的右侧杏仁核激活，及较弱的杏仁核-颞叶功能联结（Monk etal.,2010）。这说明HFA个体与TD个体加工威胁性情绪面孔的神经机制并不同。为探测具体的脑区反应，Leung等采用脑磁技术（magnetoencephalography,MEG）发现，TD个体加工愤怒面孔时（相对于快乐面孔），右侧枕下叶、距状沟和中央后区活动更大，但HFA个体加工不同情绪面孔时的神经反应没有显著性差异（Leung,Pang,Anagnostou,&Taylor,2018）。这说明HFA个体可能缺乏对不同情绪面孔的神经敏感性。此外，Wagner等（2013）结合眼动和事件相关电位技术（Event RelatedPotentials,ERP），发现HFA组与TD组对情绪面孔的视觉注视行为相似，而脑电反应不同。HFA组在三种表情（愤怒、恐惧、中性面孔）下的N170成分没有显著差异，而TD组对恐惧情绪面孔有更大的N170反应。该研究推测HFA个体可能经过训练后，在外显的眼动轨迹上能够达到与TD个体一致的水平，但HFA个体对情绪面孔的加工机制仍不同于TD个体。综上，HFA个体的皮下通路异常，可能会造成其威胁性情绪面孔知觉异常（Fishman,Linke,Hau,Carper,&Muller,2018）。使得HFA个体在自动加工阶段，因无法快速知觉威胁信号，而不会对威胁性情绪面孔产生注意偏向。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2HFA个体可能存在皮层通路功能异常",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究指出，TD儿童早期主要依赖皮下通路（如杏仁核）对威胁性信息进行加工，随后发展出成熟的威胁性信息加工机制，即依赖皮上通路来进行加工（Hung,Smith,& Taylor,2012）。为探测HFA个体对情绪面孔的注意机制，Leung等（2015）让被试注视屏幕，随后一张情绪面孔图片和一张乱码模糊图分别呈现在屏幕左右两边，持续 $8 0 \\mathrm { m s }$ ，要求被试判断乱码图的位置。结果发现TD个体加工威胁性情绪面孔时激活了杏仁核、扣带回区域，而HFA个体对威胁性情绪面孔表现出扣带回激活减弱，说明HFA个体未发展出成熟的威胁性情绪面孔的处理能力。此外，威胁性情绪面孔对HFA个体和TD个体的意义可能并不相同。如Ashwin等给被试呈现单独的情绪面孔时，发现TD组知觉恐惧情绪面孔时，负责自动情感评估的社会脑区激活更大，如左侧杏仁核和左侧眶额叶皮层的激活更大，这表明恐惧情绪面孔对TD个体具有重要的情感意义（Ashwin,Baron-Cohen,Wheelwright,O'Riordan,&Bullmore,2007）。而高功能自闭症及阿斯伯格组则表现出杏仁核和眶额叶皮层激活不足，说明他们提取和整合情感信息的能力存在损伤。由于眶额叶皮层与社会抑制、行为调节功能有关（vanHonk,Peper,& Schutter,2005）。HFA个体在加工愤怒面孔时，眶额叶区域激活不足（Leunget al.,2015)使得他们无法根据他人的情绪信息来调整自己的行为。此外，Courchesne和Pierce（2005）发现，HFA个体还表现出长距离的皮质联结减少，以及额叶功能衰竭等，使得其无法有效整合信息，阻碍向初级感觉区域提供反馈信息。因此，在控制加工阶段，HFA个体可能因整合情绪信息的能力受损，且无法有效调整自己的行为，而表现出异常的威胁性情绪面孔注意偏向。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从电生理反应的研究来看，Torrence和Troup（2018）指出，TD个体对愤怒面孔的注意偏向表现为更负的N2pc；对恐惧情绪面孔的注意偏向表现出更大的C1及N170反应；且对出现在威胁性情绪面孔之后的探测点有更大的P1反应。这说明TD个体注意不同情绪面孔时会产生不同的脑电反应，且对威胁性情绪面孔的注意偏向会进一步影响个体注意随后出现的刺激。对比TD个体的脑电反应，de Jong，van Engeland和Kemner（2008）发现，ASD个体注视恐惧情绪面孔和中性情绪面孔时诱发出的N170成分没有显著差异，说明ASD个体可能难以区分恐惧情绪面孔和中性情绪面孔。他们无法从愤怒、恐惧等威胁性情绪面孔中提取威胁或警告信号，因此，在注意早期阶段，他们不会表现出对威胁性情绪面孔的注意偏向。而在加工的中后期，Dawson等发现， $3 \\sim 4$ 岁TD儿童观看恐惧情绪面孔比中性情绪面孔表现出更大的N300，但 $3 \\sim 4$ 岁HFA儿童注视恐惧情绪面孔和中性情绪面孔的N300成分的振幅不存在显著差异（Dawson,Webb,Carver,Panagiotides,& Mcpartland,2004）。在加工的晚期成分上，TD儿童对恐惧情绪面孔的负慢波（Negative Slow Wave,NSW）振幅更大，而HFA儿童则无此表现（Dawson et al.,2004）。这表明，早期阶段，HFA儿童未表现出对恐惧情绪面孔的优先注意；加工后期阶段，HFA个体对恐惧情绪面孔的进一步知觉和概念加工也存在异常。从而也支持了HFA个体对威胁性情绪面孔的注意偏向可能会表现出阶段性差异，在不同阶段可能均会表现出异常的加工。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.3HFA个体情绪信息注意偏向的相关基因研究进展",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究指出，脑神经发育异常可能只是下游症状，非发病机制（武文佼，张鹏,2016）。不同基因的变异可能会影响其编码的蛋白质结构及突触传导功能，进而影响神经发育，紊乱脑区功能，造成认知及行为障碍（巨兴达,宋伟,徐婧,2018）。目前关于ASD 的常见风险基因多达一千多个（Xiong etal.,2019），罕见变异基因69个（Ruzzo etal.,2019）。因此，某些神经递质和基因类型可能与ASD个体对威胁性情绪面孔的注意偏向有关。5-羟色胺（5-hydroxytryptamine,5-HT）系统基因被认为是自闭症的候选基因之一，其中，5-羟色胺转运体（SLC6A4）等位基因长度会影响个体对情绪信息特别是负性情绪信息的神经反应。如，短等位基因携带者观看愤怒面孔时，杏仁核激活更大（von dem Hagen,Passamonti,Nutland,Sambrook,& Calder,2011），且主要体现在注意的早期阶段（Faja,Dawson,Aylward,Wijsman,& Webb,2016）。另外，5-HT水平是ASD 的生化易感性指标之一（Leboyer et al.,1999）。可能在发育早期，ASD个体的脑部 5-HT水平存在异常，进而影响了其额叶、颞叶、顶叶和枕叶等几个皮层区域的发育（Chandana et al.,2005;Bachevalier,&Loveland,2006）。因此，5-HT 水平的改变可能会影响 ASD个体的脑神经发育，进而使 ASD个体有异常的行为表现（Fernandez,Mollinedo-Gajate,&Peiagarikano,2018）。另一个与情绪性信息注意有关的候选基因是催产素受体基因（oxytocin receptor gene,OXTR）。研究发现，OXTR多态性可能会影响其蛋白表达和合成，从而导致边缘脑系统内特定的神经元网络激活不足，影响情绪信息的加工及空间定向（Kranz et al.,2016）。而催产素（Oxytocin,OXT）本身也是一种重要的神经调节因子，常被用来作为社会功能紊乱的生物指标（Kanat etal.,2017）。研究发现，提高 ASD个体的催产素水平，能够调节该群体对面孔的注意（Kanat et al.,2017），增加其对正性和中性面孔眼睛区域的注意（Kanat,Heinrichs,Mader,van Elst,&Domes,2015）。这可能是因为催产素增强了“社会脑”各部分之间的联结，并抑制了对威胁性情绪线索的杏仁核反应，减弱了对厌恶信号或身体强烈刺激的焦虑和回避，而提高了自上而下的注意力资源分配能力（Andari,Richard,Leboyer,& Sirigu,2016）。基因及神经递质的研究使得我们从生物基础层面加深了对ASD的认识，然而，引发ASD 的特定致病基因尚未明确。多数研究支持 ASD 是多种基因变异相互影响控制的结果（Pilorge etal.,2016），不同的基因和基因组的变异可能会产生相同的行为表现（武文佼，张鹏,2016）。因此，要揭示基因变异对 ASD个体的影响，仍需要进行多学科、多层次、多领域的综合探索，针对已经发现的风险基因，进一步分析基因对ASD个体的作用机制，开发有效的治疗方案。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5、总结与展望 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上所述，HFA个体对威胁性情绪面孔的注意偏向可能具有阶段性特征。在自动加工阶段和情绪目标参与阶段，HFA个体不存在对威胁性情绪面孔的注意偏向；而在控制加工阶段，HFA个体表现出对威胁性情绪面孔的注意偏向，但注意偏向的具体成分受实验范式及刺激材料等的影响而不同。已有研究不仅丰富了我们对ASD个体的认识，也为开展科学有效的干预提供了新的思路。结合对已有文献的分析，未来可考虑从以下几方面开展研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第一，强化对ASD个体威胁性情绪面孔注意偏向的特点及机制研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "一方面，优化研究方法，进一步揭示ASD个体对威胁性情绪面孔注意偏向的时间进程和阶段特征。注意是一个持续动态的过程，但已有的行为实验范式（如点探测/空间线索任务)只能探测到目标出现时刻的注意表现，无法记录注意偏向发生的时间进程（文涛，汪亚珉，丁锦红,2011)。再加上，当前的行为实验范式还存在信度较低等问题（Staugaard,2009;Waechter& Stolz,2015）。未来研究可结合信度较高且可记录注意时间进程的眼动技术（Sears,Quigley，Fernandez,Newman,&Dobson,2018）和事件相关电位技术（Kappenman,Farrens,Luck,&Proudfit,2014），进一步分析ASD个体对威胁性情绪面孔注意偏向发生的阶段和时间特征。此外，现有的研究对注意偏向成分的分析还存争议，这可能与所采用的研究范式有关。如，目前研究多采用视觉搜索任务发现HFA个体对威胁性情绪面孔表现出注意解除困难，但该任务在剥离注意偏向成分上并无优势（罗禹，高朋，赵守盈，张禹,2017）。研究者常用间隙-重叠范式（gap-overlap paradigm）来研究个体的注意解除能力，发现ASD个体表现出对几何图形（Bryson etal.,2018）、限制性兴趣（齐亚菲，梁良，莫书亮，王福兴,2016）的注意解除困难；但对社会性刺激（Katarzyna,Fred,&Ami,2010）、不熟悉的卡通角色（Wilson&Saldana,2018）的注意解除更快。因此，未来研究可结合间隙-重叠范式，进一步验证ASD个体对威胁性情绪面孔的注意解除特征。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "另一方面，简化实验任务，提高研究方法的适用范围。作为一种谱系障碍，ASD群体内部的异质性极大，智力和语言发展能力等均会影响ASD个体的功能发展(Goodwin,Matthews,& Smith,2017;Chiang etal.,2018）。Field和Lester（2010）指出对威胁性信息的注意偏向会随着个体的发展（年龄，认知发展）和个性特征（如气质、焦虑）的变化而改变。如，儿童早期阶段，个体普遍会表现出对威胁性信息的注意偏向；随着年龄及执行功能的发展，个体能够发展出成熟的抑制注意威胁性信息的能力，因此不再表现出对威胁性信息的注意偏向（Field&Lester,2010）。此外，个人因素（如焦虑、抑郁、恐惧特质）也是造成威胁性信息注意偏向的重要因素，高焦虑及抑郁个体会表现出特定的威胁性信息注意偏向（Morales etal.,2016）。如前所述，对ASD个体威胁性情绪面孔注意偏向的研究多以HFA个体为研究对象，且尚不清楚年龄、认知水平、及共患病（如焦虑、抑郁）等个人因素对ASD个体威胁性信息注意偏向的影响（May et al.,2015; Isomura et al.,2014a;Hollocks et al.,2013）。未来可开发适合低功能及不同类型ASD个体的实验程序，减少对被试任务理解和操作的要求，进一步分析不同因素对其注意偏向的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二，深入开展ASD个体威胁性情绪面孔注意偏向的神经机制及与基因相关的研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "一方面，已有的神经机制研究多以单独呈现的情绪面孔为刺激材料（Torrence,& Troup,2018;Ashwin etal.,2007;Dawson et al.,2004），不能揭示注意偏向产生时的神经反应。研究指出，不同刺激之间的竞争可能是注意偏向产生的先决条件（Cisler etal.,2009）。因此未来研究应考虑在创设竞争的条件下（如结合点探测范式），分析ASD个体对威胁性情绪面孔注意偏向的神经反应。另外，脑神经发育异常可能只是下游症状（武文佼，张鹏,2016），ASD个体神经机制的异常可能与其基因及神经递质功能有关。异常基因及神经递质功能可能会影响关键神经信号的传导和基因表达水平，进而影响神经发育，紊乱脑区功能，造成ASD 个体的认知及行为障碍（巨兴达等,2018）。因此，若能将基因功能研究与ASD个体的行为特征研究（如对威胁性情绪面孔的注意偏向）相结合，一方面可揭示 ASD 的发病机制，另一方面也能指导对ASD个体的教育和干预。因此未来研究可结合脑神经科学技术、基因影像技术等，从脑区结构及功能、神经生物反馈、生物遗传等多方面，从根源上对ASD个体威胁性情绪面孔注意偏向的作用机制进行探讨。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第三，开展ASD个体对威胁性情绪面孔注意偏向的治疗或干预研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对ASD个体威胁性情绪面孔注意的干预不仅有利于减少其情绪问题行为，还能够促进其社交能力的发展，帮助其更好地参与社会生活。研究发现，对情绪信息的注意偏向可以通过神经疗法得到改善，也可通过行为干预得到提高。如，对高自闭特质个体鼻喷催产素，能够提高他们对正性和中性情绪面孔的注意（Xuetal.,2015）；而认知行为疗法能够减少个体对威胁性信息的注意偏向（Hadwin&Richards,2016）。但是，目前对ASD个体威胁性情绪面孔注意偏向的干预研究很少，更没有形成体系(Luxford,Hadwin,&Kovshoff,2017)。因此，未来研究可结合现有的研究成果，开发科学的干预或治疗方法，为ASD个体提供支持和服务。首先，结合神经生物学研究成果，开发药物或针剂治疗方案，如催产素的使用计量、治疗时间及适用人群分析等(Quintana et al.,2017)。其次，在已有研究基础上，开发实用的筛查、评估工具，以便于分析不同ASD个体对威胁性情绪面孔注意偏向发生的阶段和原因，为制定个别化的干预方案提供科学的依据。再次，开发和完善干预方法和技术，提高干预效果。认知行为干预法、注意偏向训练等，对改善 ASD个体对社会性信息的注意有一定成效(Alvares etal.,2019)。未来研究可进一步分析这些干预方法对 ASD个体威胁性情绪面孔注意偏向的作用机制及适用范围，完善干预体系建设。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n白学军，贾丽萍,王敬欣.(2013)．抑制范式下的情绪注意偏向．心理科学进展,21(05), 785-791.   \n陈顺森，白学军，沈德立，闫国利，张灵聪.(2011).7～10岁自闭症谱系障碍儿童对情绪面孔 的觉察与加工．心理发展与教育,27(5),449-458.   \n陈顺森.(2012)．自闭症幼儿面孔加工特点的眼动研究:社会认知缺陷指标的探索(博士学位 论文)．天津师范大学.   \n贺荟中，梁志高.(2013)．自闭症儿童执行功能研究述评.教育理论与实践.33(31),45-48.   \n巨兴达，宋伟，徐婧(2018).CHRM3 基因与孤独症谱系障碍．心理科学进展, 26(12):2141-2152.   \n林云强.(2012)．自闭症谱系障碍儿童威胁知觉的实验研究(博士学位论文)．华东师范大学， 上海.   \n林云强，曹贤佳，朱慧敏，李菲菲.(2019).面孔群持续时间对自闭症儿童表情威胁知觉影响 的眼动研究．中国特殊教育,3,61-68.   \n林云强，刘宝根，陈冠杏.(2014).面孔方向对自闭症儿童表情视觉搜索影响的眼动研究．中 国特殊教育,5,25-32.   \n林云强，唐泉.(2015).矩阵大小对自闭症儿童表情视觉搜索影响的眼动研究．中国特殊教育, 12, 58-65.   \n林云强，童叶莹.(2016).面孔偏转对自闭症儿童表情觉察影响的实验研究．中国特殊教育,12, 33-40.   \n罗禹，高朋，赵守盈，张禹.（2017）.急性应激对威胁刺激注意定向和注意解除的影响:认知 神经机制研究.心理科学进展,25(03)，381-392.   \n彭晓哲，周晓林.(2005).情绪信息与注意偏向，心理科学进展,13(04),488-496.   \n齐亚菲，梁良，莫书亮，王福兴.(2016)．孤独症儿童对限制性兴趣刺激的视觉注意：一项眼 动研究．中国特殊教育,5,5.   \n文涛，汪亚珉，丁锦红.(2011)．威胁性刺激注意偏向的研究范式．人类工效学,17(03), 76-79.   \n武文佼，张鹏.(2016).自闭症谱系障碍的生物基础．心理科学进展,24(5),739-752.   \n张禹，罗禹，赵守盈，陈维，李红.(2014)．对威胁刺激的注意偏向:注意定向加速还是注意解 除困难？心理科学进展,22(07),1129-1138.   \nAdams,N. C.,& Jarrold, C.(2012). Inhibition in Autism: Children with Autism have difficulty iInhibiting irrelevant distractors but not prepotent responses. Journal of Autism Developmental Disorders, 42(6), 1052-1063.   \nAlvares, G. A., Chen, N. T. M., Notebaert, L., Granich, J., Mitchell, C.,& Whitehouse,A. J. O. (2019). Brief social attention bias modification for children with autism spectrum disorder. Autism Research,12(3), 527-535.   \nAmerican Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). Washington, DC: American Psychiatry Association Press,50-59.   \nArmstrong, T.,& Olatunji, B. O. (2O12). Eye tracking of attention in the affective disorders: A meta-analytic review and synthesis. Clinical Psychology Review, 32(8),704-723.   \nAndari,E., Richard, N.,Leboyer, M.,& Sirigu,A. (2O16). Adaptive coding of the value of social cues with oxytocin, an fMRI study in autism spectrum disorder. Cortex, 76, 79-88.   \nAshwin， C.，Baron-Cohen， S.，Wheelwright, S.， O'Riordan，M.，& Bullmore，E. T.(2007). Differential activation of the amygdala and the ‘social brain'during fearful face-processing in Asperger Syndrome. Neuropsychologia, 45(1), 2-14.   \nAshwin, C., Wheelwright, S., & Baron-Cohen, S. (2006a). Attention bias to faces in Asperger Syndrome: A pictorial emotion Stroop study. Psychological Medicine, 36(6), 835-843.   \nAshwin, C., Wheelwright, S.，& Baron-Cohen, S. (2006b). Finding a face in the crowd: Testing the anger superiority effect in Asperger Syndrome. Brain and Cognition, 61(1), 78-95.   \nAuday,E.S., Taber-Thomas,B.C.,& Perez-Edgar,K.E.(2O18).Neural correlates of attention bias to masked facial threat cues: Examining children at-risk for social anxiety disorder. Neuroimage Clinical, 19,202-212.   \nBachevalier, J.,& Loveland, K.A. (2OO6). The orbitofrontal-amygdala circuit and self-regulation of social-emotional behavior in autism. Neuroscience and Biobehavioral Reviews, 30(1), 97-117.   \nBannerman, R.L., Milders, M., de Gelder,B.,& Sahraie, A. (2Oo9). Orienting to threat: Faster localization of fearful facial expressions and body postures revealed by saccadic eye movements. Biological Sciences, 276(1662), 1635-1641.   \nBaron-Cohen, S., Ring, H. A. Bullmore,E.T., Wheelwright, S., Ashwin, C.,& Williams, S. C. (2000). The amygdala theory of Autism. Neuroscience and Biobehavioral Reviews,24(3), 355-364.   \nBryson, S., Garon, N., McMullen, T., Brian, J., Zwaigenbaum, L., Armstrong, V.,... Szatmari, P. (2018). Impaired disengagement of attention and its relationship to emotional distress in infants at high-risk for autism spectrum disorder.Journal of Clinical and Experimental Neuropsychology,40(5),487-501.   \nChandana, S.R., Behen, M. E., Juhasz, C., Muzik, O., Rothermel, R.D., Mangner, T. J.,. Chugani, D. C. (2Oo5). Significance of abnormalities in developmental trajectory and asymmetry of cortical serotonin synthesis in autism. International Journal of Developmental Neuroscience, 23(2),171-182.   \nChiang, H.-L., Kao, W.-C., Chou, M.-C., Chou, W.-J., Chiu, Y.-N., Wu, Y.-Y.,& Gau, S. S.-F. (2018). School dysfunction in youth with autistic spectrum disorder in Taiwan: The effect of subtype and ADHD. Autism Research, 11(6), 857-869.   \nCisler,J.M.,Bacon，A. K.，& Williams，N.L. (20o9). Phenomenological characteristicsof attentional biases towards threat: A critical review. Cognitive Therapy and Research, 33(2), 221-234.   \nCisler,J.M.,& Koster,E.H.W.(2O1O). Mechanisms of atentional biases towards threat in anxiety disorders: An integrative review. Clinical Psychology Review, 3O(2), 203-216.   \nCorden, B., Chilvers,R.,& Skuse,D. (2oo8). Avoidance of emotionally arousing stimuli predicts social-perceptual impairment in Asperger's syndrome. Neuropsychologia, 46(1),137-147.   \nCourchesne,E.,& Pierce, K. (2Oo5). Why the frontal cortex in autism might be talking only to itself: Local over-connectivity but long-distance disconnection. Current Opinion in Neurobiology，15(2),225-230.   \nCrawford, H., Moss,J., Anderson, G. M., Oliver, C.,& McCleery, J.P. (2015). Implicit discrimination of basic facial expressions of positive/negative emotion in Fragile X Syndrome and Autism Spectrum Disorder. American Journal on Intellctual and Developmental Disabilities, 120(4), 328-345.   \nDalton, K.M., Nacewicz,B.M., Johnstone,T., Schaefer, H. S., Gernsbacher,M.A., Goldsmith, H. H.,... Davidson, R.J. (2Oo5). Gaze fixation and the neural circuitry of face processing in autism. Nature neuroscience, 8(4), 519-526.   \nDawson, G., Webb, S. J., Carver, L., Panagiotides, H.,& Mcpartland, J. (2O04). Young children with autism show atypical brain responses to fearful versus neutral facial expressions of emotion. Developmental Science, 7(3), 340-359.   \nde Giambatista, C., Ventura, P., Trerotoli, P., Margari, M., Palumbi, R.,& Margari, L. (2019). Subtyping the autism spectrum disorder: Comparison of children with high functioning Autism and Asperger Syndrome. Journal of Autism Developmental Disorders, 49(1), 138-150.   \nde Jong,M. C., van Engeland, H.,& Kemner,C.(2O08). Attntional effects of gaze shifts are influenced by emotion and spatial frequency, But not in Autism. Journal of the American Academy of Child and Adolescent Psychiatry, 47(4), 443-454.   \nEack, S. M., Mazefsky, C. A.,& Minshew, N. J. (2O15). Misinterpretation of facial expressions of emotion in verbal adults with autism spectrum disorder.Autism,19(3),308-315.   \nEmbregts,P.,& Van Nieuwenhuijzen, M. (20o9). Social information processing in boys with Autistic Spectrum Disorder and mild to borderline intellectual disabilities. Journal of Intellectual Disability Research,53(11), 922-931.   \nFaja, S., Dawson, G., Aylward,E., Wijsman,E. M.,& Webb, S.J. (2016).Early event-related potentials to emotional faces differ for adults with autism spectrum disorder and by serotonin transporter genotype. Clinical Neurophysiology， 127(6), 2436-2447.   \nFarran,E.K.,Branson, A.,& King,B.J. (2O11). Visual search for basic emotional expressions in autism; impaired processing of anger,fear and sadness, But a typical happy face advantage. Research in Autism Spectrum Disorders, 5(1), 455-462.   \nFernändez，M.，Mollinedo-Gajate,I.，& Penagarikano,O. (2O18).Neural circuits for social cognition: Implications for Autism. Neuroscience,370, 148-162   \nField,A. P.,& Lester, K.J. (201O). Is there room for ‘development’ in developmental models of information processing biases to threat in children and adolescents? Clinical Child Family Psychology Review, 13(4),315-332.   \nFishman, I., Linke,A.C., Hau, J., Carper, R.A.,& Mullr, R.-A. (2O18). Atypical functional connectivity of amygdala related to reduced symptom severity in children with Autism. Journal of the American Academy of Child Adolescent Psychiatry, 57(1O), 764-774.   \nFox,E., Lester,V., Russo,R., Bowles,R. J., Pichler,A.,& Dutton, K. (2OoO). Facial expressions of emotion: Are angry faces detected more efficiently? Cognition and Emotion,14(1),61-92.   \nFu, X.,& Perez-Edgar, K.(2O19). Threat-related attention bias in socioemotional development: A critical review and methodological considerations. Developmental Review, 51, 31-57.   \nGarcia-Blanco, A.,Lopez-Soler, C., Vento, M., Carmen Garcia-Blanco, M., Gago,B.,& Perea, M. (2017).Communication deficits and avoidance of angry faces in children with autism spectrum disorder. Research in Developmental Disabilities,62, 218-26.   \nGarcia-Blanco, A. C., Yanez, N., Vazquez, M. A., Marcos,I.,& Perea, M. (2O17). Modulation of attention by socio-emotional scenes in children with autism spectrum disorder. Research in Autism Spectrum Disorders,33,39-46.   \nGeurts,H. M., van den Bergh, S.F. W. M.,& Ruzzano, L. (2O14). Prepotent response inhibition and interference control in autism spectrum disorders: Two meta-analyses. Autism Research,7 (4), 407-420.   \nGhosn,F., Perea,M., Castell, J., Vazquez, M. A., Yanez, N., Marcos, I.,.. . Garcia-Blanco,A. (2018).Attentional patterns to emotional faces versus scenes in children with autism spectrum disorders. Journal of Autism Developmental Disorders, 49(4), 1484-1492.   \nGoodwin, A., Matthews, N.L.,& Smith, C. J. (2O17). The effects of early language on age at diagnosis and functioning at school age in children with autism spectrum disorder. Journal of Autism and Developmental Disorders, 47(7),2176-2188.   \nHadwin, J. A.,& Richards,H. J. (2016). Working memory training and CBT reduces anxiety symptoms and attentional biases to threat: A preliminary study. Frontiers in Psychology，7, 47.   \nHarms，M. B.， Martin, A.，& Wallace,G. L. (2010). Facial emotion recognition in autism spectrum disorders: A review of behavioral and neuroimaging studies. Neuropsychology Review, 20(3),290-322.   \nHerrington, J. D., Maddox, B.B., McVey, A. J., Franklin, M. E., Yerys, B.E., Miller,J. S., & Schultz, R. T. (2O17). Negative valence in Autism Spectrum Disorder: The relationship between amygdala activity, selective atention, and co-occurring anxiety. Biological Psychiatry: Cognitive Neuroscience And Neuroimaging,2(6), 510-517.   \nHill,E.L. (2O04). Evaluating the theory of executive dysfunction in Autism. Developmental Review,24(2),189-233.   \nHollocks,M.J., Ozsivadjian，A.，Matthews,C.E.，Howlin,P.，& Simonoff,E.(2013).The relationship between attentional bias and anxiety in children and adolescents with autism spectrum disorders. Autism Research, 6(4),237-247.   \nHollocks,M.J.,Pickles,A.,Howlin,P.,& Simonoff,E.(2016).Dual cognitive and biological correlates of anxiety in autism spectrum disorders. Journal of Autism and Developmental Disorders,46(10), 1-13.   \nHoriuchi, F., Oka, Y., Uno, H., Kawabe, K., Okada,F., Saito,I.,... Ueno, S.-i. (2014). Age- and sex-related emotional and behavioral problems in children with autism spectrum disorders: Comparison with control children. Psychiatry and Clinical Neurosciences, 68(7), 542-550.   \nHung,Y., Smith, M.L.,& Taylor, M. J. (2012). Development of ACC-amygdala activations in processing unattended fear. Neurolmage, 60(1), 545-552.   \nIrwanto, Kahfi, M., Febriyana,N., Hartini, S.,& Takada, S.(2O19). Emotional and behavioral problems of pre-school children with autistic spectrum disorder assessed by the Child Behavior Checklist 1-5.The Kobe journal of medical sciences, 64(5),E170-E173.   \nIsomura,T., Ito, H., Ogawa, S.,& Masataka,N. (2O14). Absence of predispositional attentional ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "sensitivity to angry faces in children with autism spectrum disorders. Scientific Reports,4, 7525. Isomura,T., Ogawa, S.， Yamada, S.， Shibasaki，M.，& Masataka,N. (2014a). The effect of inversion on the anger superiority effect in children with and without autism spectrum disorders. Journal of Psychological Abnormalities in Children,3(2),117. Isomura，T.，Ogawa，S.，Yamada，S.， Shibasaki，M.，& Masataka， N. (2014b). Preliminary evidence that different mechanisms underlie the anger superiority effect in children with and without autism spectrum disorders.Frontiers in Psychology, 5(5),461. Kamila Markram, & Markram, H. (2010). The Intense World Theory-a unifying theory of the neurobiology of autism. Frontiers in Human Neuroscience,4,1-29. Kanat,M.,Heinrichs,M., Mader,I., van Elst,L.T.,& Domes,G. (2015). Oxytocin modulates amygdala reactivity to masked fearful eyes. Neuropsychopharmacology,40(11), 2632-2638. Kanat,M., Spenthof,1., Riedel, A., van Elst, L. T., Heinrichs, M.,& Domes, G. (2017). Restoring effects of oxytocin on the attentional preference for faces in autism. Translational Psychiatry,7,1097. Kappenman, E. S., Farrens,J.L., Luck, S.J.,& Proudfit, G.H.(2O14). Behavioral and ERR measures of attentional bias to threat in the dot-probe task: Poor reliablity and lack of correlation with anxiety. Frontiers in Psychology,5, 1368. Katarzyna, C., Fred, V.，& Ami, K. (2O1O). Limited attentional bias for faces in toddlers with autism spectrum disorders. Archives of general psychiatry, 67(2),178-185. Kleinhans,N.M.,Richards,T., Weaver,K.,Johnson,L.C.,Greenson,J.,Dawson, G.,& Aylward, E.(2010). Association between amygdala response to emotional faces and social anxiety in autism spectrum disorders.Neuropsychologia,48(12),3665-3670. Kliemann, D., Dziobek,I., Hatri, A., Steimke,R.,& Heekeren, H. R. (2O1O).Atypical reflexive gaze patterns on emotional faces in autism spectrum disorders. Journal of Neuroscience, 30(37), 12281-12287. Koster, E. H. W., Verschuere, B., Burssens,B., Custers,R.,& Crombez, G. (2007). Attention for emotional faces under restricted awareness revisited:Do emotional faces automatically attract attention?Emotion, 7(2),285-295. Koyama,T., Tachimori, H., Osada, H., Takeda, T.,& Kurita,H. (20o7). Cognitive and symptom profiles in Asperger's syndrome and high-functioning autism. Psychiatry and Clinical Neurosciences, 61(1),99-104. Kranz,T. M., Kopp, M., Waltes,R., Sachse, M., Duketis,E., Jarczok, T. A.,... Chiocchetti, A. G. (2016).Meta-analysis and association of two common polymorphisms of the human oxytocin receptor gene in autism spectrum disorder. Autism Research, 9(1O),1036-1045. Krysko, K. M., & Rutherford, M. D. (2O09). A threat-detection advantage in those with autism spectrum disorders. Brain and Cognition, 69(3), 472-480. Lacroix, A., Guideti, M., Rogé, B., & Reilly, J. (2014). Facial emotion recognition in 4-to 8-year-olds with autism spectrum disorder: A developmental trajectory approach. Research in Autism Spectrum Disorders,8(9), 1146-1154. Leboyer, M., Philippe,A., Bouvard, M., Guilloud-Bataille, M., Bondoux, D., Tabuteau, F., Launay, J. M. (1999). Whole blood serotonin and plasma beta-endorphin in autistic probands and their first-degree relatives.Biological Psychiatry, 45(2),158-163. Leung, R. C., Pang, E. W., Anagnostou, E.,& Taylor, M. J. (2018). Young Adults with Autism Spectrum Disorder Show Early Atypical Neural Activity during Emotional Face Processing. Frontiers in Human Neuroscience,12,10. Leung,R.C.,Pang, E. W., Cassel, D., Brian, J. A., Smith, M.L.,& Taylor, M.J. (2015). Early neural activation during facial affect processing in adolescents with autism spectrum disorder. NeuroImage Clinical, 7, 203-212. LoBue,V.,& Matthews, K. (2O14). The snake in the grass revisited: An experimental comparison of threat detection paradigms. Cognition and Emotion, 28(1), 22-35 Luxford, S., Hadwin, J. A.,& Kovshoff,H. (2O17).Evaluating the effectiveness of a school-based cognitive behavioural therapy intervention for anxiety in adolescents diagnosed with autism spectrum disorder. Journal of Autism and Developmental Disorders, 47(12), 3896-3908. Macintosh, K.E.,& Dissanayake, C.(2OO4). Annotation: The similarities and differences between autistic disorder and Asperger's disorder: a review of the empirical evidence. Journal of Child Psychology and Psychiatry, 45(3), 421-434. Markram, H., Rinaldi,T.,& Markram, K. (2OO7). The Intense World Syndrome-an alternative ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "hypothesis for autism. Frontiers in Neuroscience,1(1),77-96.   \nMaskey, M., Warnell,F., Parr, J. R., Le Couteur, A., &McConachie, H. (2013). Emotional and Behavioural Problems in Children with Autism Spectrum Disorder. Journal of Autism Developmental Disorders,43(4), 851-859.   \nMatsuda, S., Minagawa, Y., & Yamamoto, J. (2015). Gaze behavior of children with asd toward pictures of facial expressions.Autism Research and Treatment, 9,617-190.   \nMay,T., Cornish, K.,& Rinehart, N. J. (2O15). Mechanisms of anxiety related attentional biases in children with autism spectrum disorder. Journal of Autism and Developmental Disorders, 45(10), 3339-3350.   \nMay, T., Cornish, K.,& Rinehart, N. J. (2016). Exploring factors related to the anger superiority effect in children with autism spectrum disorder. Brain and Cognition, 106,65-71.   \nMogg,K.,& Bradley，B. P. (1998). A cognitive-motivational analysis of anxiety. Behaviour Research and Therapy,36(9), 809-848.   \nMonk, C. S., Weng, S.J., Wiggins, J. L., Kurapati, N., Louro, H. M., Carrasco, M.,.. . Lord, C. (2010). Neural circuitry of emotional face _processing in autism spectrum disorders. Journal of Psychiatry and Neuroscience, 35(2), 105-114.   \nMorales, S.,Fu, X.,& Pérez-Edgar, K.E. (2O16).A developmental neuroscience perspective on affect-biased attention. Developmental Cognitive Neuroscience,21,26-41.   \nMorales,S.,Pérez-Edgar, K.E.,& Buss,K. A. (2014).Atention biases towards and away from threat mark the relation between early dysregulated fear and the later emergence of social withdrawal. Journal of Abnormal Child Psychology, 43(6), 1067-1078.   \nOkon-Singer, H., Lichtenstein-Vidne,L.,& Cohen, N. (2013). Dynamic modulation of emotional processing. Biological Psychology, 92(3), 480-491.   \nPérez-Edgar, K., Taber-Thomas,B.,Auday, E.,& Morales, S. (2014). Temperament and attention as core mechanisms in the early emergence of anxiety. Contributions to Human Development, 26, 42-56.   \nPilorge, M., Fassier, C.,Le Corronc, H., Potey,A., Bai, J.,De Gois, S.,...Betancur, C. (2016). Genetic and functional analyses demonstrate a role for abnormal glycinergic signaling in autism. Molecular Psychiatry,21,936-945.   \nPisula,E., Pudlo, M., Slowinska, M., Kawa,R.， Strzaska, M., Banasiak, A.,& Wolanczyk, T. (2017). Behavioral and emotional problems in high-functioning girls and boys with autism spectrum disorders: Parents' reports and adolescents' self-reports. Autism, 21(6), 738-748.   \nPosner, M. I.,& Petersen, S.E. (199O). The atention system of the human brain. Annual Review of Neuroscience, 13(1), 25-42.   \nQuintana，D. S.，Westlye，L. T.，Hope， S.， Naerland，T.，Elvsashagen，T.，Dorum, E.，...Andreassen, O.A. (2O17). Dose-dependent social-cognitive effects of intranasal oxytocin delivered with novel Breath Powered device in adults with autism spectrum disorder: A randomized placebo-controlled double-blind crossover trial. Translational Psychiatry, 7(5), e1136.   \nReinholdt-dunne,M.L., Mogg,K., Esbjorn,B.H.,& Bradley,B.P. (2012). Effects of age and anxiety on processing threat cues in healthy children. Journal of Experimental Psychopathology, $^ { 3 ( 1 ) }$ 30-41.   \nRosset,D., Santos,A., Da Fonseca,D., Rondan, C.,Poinso,F.,& Deruelle, C. (2011). More than just another face in the crowd: Evidence for an angry superiority effect in children with and without autism. Research in Autism Spectrum Disorders, 5(2), 949-956.   \nRozin,P., Lowery,L.,& Ebert, R.(1994).Varieties of disgust faces and the structure of disgust. Journal of Personality and Social Psychology,66(5), 870-881.   \nRuzzo,E. K., Pérez-Cano,L., Jung, J.-Y., Wang,L.-k., Kashef-Haghighi,D.,Hartl, C.,... Wall, D.P. (2O19). Inherited and De Novo genetic risk for autism impacts shared networks. Cell, 178(4), 850-866.e826.   \nSacrey,L. A., Armstrong, V.L., Bryson, S.E.,& Zwaigenbaum,L. (2014). Impairments to visual disengagement in autism spectrum disorder: A review of experimental studies from infancy to adulthood. Neuroscience and Biobehavioral Reviews, 47, 559-577.   \nSasson, N. J., Shasteen, J.R.,& Pinkham, A.E.(2016). Brief report: Reduced prioritization of facial threat in adults with Autism. Journal of Autism and Developmental Disorders, 46(4), 1471-1476.   \nSato, W., Sawada,R., Uono, S., Yoshimura, S., Kochiyama, T., Kubota, Y.,... Toichi, M.(2017). Impaired detection of happy facial expressions in autism. Scientific Reports,7(1),13340.   \nSchneider,W.,& Shiffrin, R. M. (1977). Controlled and automatic human information processing: I. Detection, search,and attention. Psychological Review, 84(2),127-190.   \nSears,C., Quigley,L.,Fernandez, A., Newman, K.,& Dobson, K. (2O18). The reliability of attentional biases for emotional images measured using a free- viewing eye-tracking paradigm. Behavior Research Methods,51(6), 2748-2760.   \nSierra-Mercado,D.，Padilla Coreano,N.，& Quirk,G. J.J.N.(2011). Dissociable roles of prelimbic and infralimbic cortices，ventral hippocampus,and basolateral amygdala in the expression and extinction of conditioned fear. Neuropsychopharmacology,36(2), 529-538.   \nStaugaard, S.R. (2009). Reliability of two versions of the dot-probe task using photographic faces. Psychology Science Quarterly,51(3), 339-350.   \nSussman, T. J., Jin, J.,& Mohanty,A. (2O16). Top-down and bottom-up factors in threat-related perception and attention in anxiety. Biological Psychology, 121,160-172.   \nTamietto, M.,& de Gelder,B. (2010). Neural bases of the non-conscious perception of emotional signals.Nature Reviews Neuroscience,11(10),697-709.   \nTorrence,R.D.,& Troup,L.J. (2O18).Event-related potentials of attentional bias toward faces in the dot-probe task: A systematic review. Psychophysiology, 55(6), 20.   \nTottenham, N., Hertzig, M. E., Gillespie-Lynch, K., Gilhooly, T., Millner,A. J.,& Casey, B. J. (2014). Elevated amygdala response to faces and gaze aversion in autism spectrum disorder. Social Cognitive and Affective Neuroscience, 9(1),106-117.   \nUnruh,K. E.，Bodfish, J. W.,& Gotham, K. O. (2018). Adults with autism and adults with depression show similar attentional biases to social-affective images. Journal of Autism and Developmental Disorders,7, 1-12.   \nUono,S.， Sato, W.，& Toichi, M. (2O09). Dynamic fearful gaze does not enhance attention orienting in individuals with Asperger's disorder. Brain and Cognition,71(3),229-233.   \nvan Honk,J.,Peper,J. S.,& Schuter,D.J. (2Oo5).Testosterone reduces unconscious fear but not consciously experienced anxiety: Implications for the disorders of fear and anxiety. Biological Psychiatry, 58(3), 218-225.   \nVan Rooijen, R., Ploeger,A.,& Kret, M. E. (2017). The dot-probe task to measure emotional attention: A suitable measure in comparative studies? Psychonomic Bulletin and Review, 24(6),1686-1717.   \nvon dem Hagen EA,Passamonti L, Nutland S, Sambrook J, Calder AJ. (2O11).The serotonin transporter gene polymorphism and the effect of baseline on amygdala response to emotional faces. Neuropsychologia,49,674-80.   \nWaechter, S., Nelson, A. L., Wright, C., Hyatt, A.,& Oakman, J. (2014). Measuring attentional bias to threat: Reliability of dot probe and eye movement indices. Cognitive Therapy and Research,38(3),313-333.   \nWaechter, S.，& Stolz,J. (2O15). Trait anxiety，state anxiety，and attentional bias to threat: Assessing the psychometric properties of response time measures. Cognitive Therapy Research, 39(4), 441-458.   \nWagner,J.B.，Hirsch，S.B.，Vogel-Farley，V.K.，Redcay，E.，& Nelson，C.A.(2013). Eye-tracking, autonomic, and electrophysiological correlates of emotional face processing in adolescents with autism spectrum disorder. Journal of Autism and Developmental Disorders, 43(1),188-199.   \nWhite,S. W., Maddox, B. B.,& Panneton, R. K. (2015). Fear of negative evaluation influences eye gaze in adolescents with autism spectrum disorder: A pilot study. Journal of Autism and Developmental Disorders, 45(11), 3446-3457.   \nWilson, C.E.,& Saldana, D. (2O18). No evidence of atypical atentional disengagement in autism: A study across the spectrum. Autism, 23(3),677-688.   \nXiong, J., Chen,S., Pang, N.,Deng, X., Yang,L.,He,F.,..Peng, J. (2019). Neurological diseases with autism spectrum disorder: Role of ASD risk genes. Frontier in Neuroscience, 13, 349.   \nXu,L., Ma, X., Zhao, W., Luo, L., Yao, S., & Kendrick, K. M. (2015). Oxytocin enhances attentional bias for neutral and positive expression faces in individuals with higher autistic traits. Psychoneuroendocrinology, 62, 352-358.   \nYeung, M. K., Lee, T.L.,& Chan, A. S. (2019). Impaired recognition of negative facial expressions is partly related to facial perception deficits in adolescents with high-functioning autism spectrum disorder. Journal of autism developmental disorders.2,1-11.   \nYiend,J. (2O1O). The effects of emotion on attention: A review of attentional processing of emotional information. Cognition & Emotion,24(1),3-47.   \nZalla,T.,& Sperduti, M. (2Ol3). The amygdala and the relevance detection theory of autism: An evolutionary perspective. Frontiers in Human Neuroscience,7, 894.   \nZhao,X.， Zhang, P., Fu,L.，& Maes, J. H. R.(2O16). Attentional biases to faces expressing disgust in children with autism spectrum disorders: an exploratory study. Scientific Reports, 6, 19381. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Attention bias toward threatening emotional faces in individuals with high-functioning autism ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "FAN Xiaozhuang1,2; BI Xiaobin1,2; XIE $\\mathrm { Y u } ^ { 1 , 2 }$ ; HE Huizhong1,2 (l Department of Special Education, Faculty of Education, East China Normal University ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Shanghai 200062, China) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(2 Autism Research Center, East China Normal University, Shanghai 2Ooo62, China) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Abstract: High-functioning autism (HFA) is a term commonly used to identify patients with autism spectrum disorder who have average or above average intellectual abilities but also face severe social dysfunctions.Attention bias towards threatening emotional faces is closely related to the development of social function in individuals with HFA. By reviewing the related research, the authors found that individuals with HFA do not have threatening emotional face atention bias during the automatic processing stage or emotional target participation stage; however, in the control processing stage, where tasks are unrelated to emotions, they demonstrate threatening emotional face attention bias.The theoretical explanations for this threatening emotional face attention bias in individuals with HFA mainly include the Amygdala theory of autism, Intense world theory,and Executive function theory. In terms of neurophysiological mechanisms,it may be related to their abnormal subcutaneous and cortical pathway functions and may be affected by serotonin system genes and oxytocin levels.Based on a comprehensive consideration of research methods and individual factors,future research can further explore the relevant processing characteristics and neuro-biological mechanisms and make efforts to develop scientific and effective intervention strategies. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words: High-functioning autism (HFA); threatening; emotional faces; attention bias ",
+        "page_idx": 19
+    }
+]

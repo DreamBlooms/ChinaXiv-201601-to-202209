@@ -1,0 +1,469 @@
+[
+    {
+        "type": "text",
+        "text": "干旱区梨园不同覆盖条件下土壤环境因子综合性评价研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹刚}，毕淑海²，赵明新¹，曹素芳¹，王玮}，牛济军²，李红旭1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.甘肃省农业科学院林果花卉研究所，甘肃 兰州730070;2.甘肃亚盛实业股份有限公司条山农工商开发分公司,甘肃 白银730400)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在干旱沿黄灌区开展不同覆盖材料配合滴灌的灌溉保摘方式下，进一步研究了不同覆盖方式对梨园全生育期的土壤理化性状和养分含量变化影响，分析了土壤温度、水分 $\\mathrm {  ~ \\cdot \\mathrm {  ~ } p H }$ 等和矿质营养元素间的相互关系，对覆盖后的土壤质量进行了综合性评价。试验处理分为无覆盖对照(T1）、园艺地布覆盖(T2)、玉米秸秆覆盖(T3)和黑地膜覆盖(T4)4个处理;试验设计为随机区组设计，每个处理小区均为167株梨树(约占地 $6 6 7 \\mathrm { ~ m } ^ { 2 }$ ），重复3次；各小区土样分 $0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ . 4 0 { \\sim } 6 0 \\ \\mathrm { c m }$ 土层取样。结果表明：(1)园艺地布和黑地膜覆盖处理有一定的增温效应，而玉米秸秆覆盖有较好的降温和稳温效应，且增墒效应明显，土壤含水率比其他3种处理显著提高了 $1 . 0 \\% { \\sim } 2 . 7 \\%$ 。(2）相较无覆盖处理，黑地膜覆盖可提升表层土壤 $\\mathrm { \\ p H }$ ,并加速表层土壤有机质的分解，有机质含量较无覆盖处理下降 $3 3 . 1 \\%$ ;玉米秸秆覆盖可显著降低各土层的土壤 $\\mathrm { \\ p H }$ ，降低范围为 $1 . 8 \\% { \\sim } 4 . 6 \\%$ ，并促进0\\~20$\\mathrm { c m }$ 土层有机质的提升，土壤有机质含量增加 $1 2 . 2 \\%$ ；园艺地布覆盖下 $0 { \\sim } 4 0 \\mathrm { c m }$ 土层内土壤有机质含量和全盐量均有降低。(3)黑地膜覆盖下 $0 { \\sim } 2 0 \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层的碱解氮含量分别为 $7 3 . 0 0 \\mathrm { m g \\cdot g ^ { - 1 } }$ 和$6 4 . 5 3 \\mathrm { \\ m g \\cdot g ^ { - 1 } }$ ，均显著地高于无覆盖处理，无覆盖条件下土壤碱解氮在深层 $( 4 0 \\mathrm { - } 6 0 ~ \\mathrm { c m }$ 土层)积累较多，显著地高于玉米秸秆和黑地膜覆盖；各处理 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层速效磷含量差异显著，大小顺序均为 $_ { \\mathrm { T 4 > T 3 > T 2 > T 1 } }$ ，玉米秸秆覆盖可提升土壤速效钾和速效铁的含量。(4)进行主成分分析表明不同覆盖方式对梨园浅层土壤环境因子的影响要明显大于深层土壤，在 $0 { \\sim } 4 0 \\ \\mathrm { c m }$ 土层内各覆盖处理效果均好于无覆盖处理，其中玉米秸秆覆盖在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层综合得分分别为1.189和0.326，覆盖效果最佳。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：干旱区；不同覆盖；土壤质量；主成分分析章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球范围中，干旱地区多为光照和热量条件充足，昼夜温差大，但降水量稀少，蒸发量大的地方，虽在一定的方面上讲有利于作物生长和干物质的积累的优势，但总体而言，因其土壤沙漠化严重和极度缺水少雨，被普遍认为是农业生产力低的地方，伴随着全球性气候变暖造成的干旱与半干旱地区不断扩大、干旱程度逐渐加深已极大地威胁着农业的发展。甘肃省景泰县地处黄土高原与腾格里沙漠过渡地带，是我国西部极佳的优质林果生产基地之一，该区气候干旱、土壤沙性强、保水蓄肥能力差是农业生产中的常见问题，且近年来环境变化加剧了降水在时空分配的不均匀程度，使植物长期处于干旱与短湿交替的水分环境中，对植物的生长发育极为不利[1]。因此,生产中利用滴灌设施配合地膜覆盖技术是改变上述不利环境条件，实现节水增效、保证作物生长和农业产业可持续发展的重要举措。但随着地膜的使用年限加长，产生的残膜给农业生产带来了不良的影响，尤其是土壤受到严重污染[2],土壤物理、化学、生物性状会发生改变[3-4]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于上述情况,研究者们将关注目光投向了其他覆盖材料以取代地膜，通过新材料的合理使用既起到节水保熵的作用，又可避免环境污染的问题，其中麦草和秸秆等生物资源，兼具保水稳温、培肥土壤以及防止水土流失的作用被广为应用5-。另一方面，作为新型覆盖材料,园艺地布具有使用寿命长、抑制杂草生长、透气性强和保持较高的土壤温度的优点，近年来也开始在部分地区农业生产中得到推广应用[10-11]。虽然,在许多作物生产中已证明覆盖能降低作物棵间蒸发2，提高土壤含水量、增加土壤贮水[13-14],提高根系表面积和根系生物量[15-16],从而提高降水利用效率和作物产量[17-19]。但不同覆盖材料对土壤水分、温度、pH、有机质和养分等理化性状的影响差异较大2，随覆盖量和覆盖方式的不同，径流量与土壤有效养分成分均显著发生了改变,且相互影响[21-23]。尤其在贫瘠的土壤条件下不同地表覆盖对梨园的土壤理化性状和养分状况究竟有哪些改变，哪种覆盖方式更适宜干旱和半干旱地区的梨树生产，真正做到节水保和土壤改良尚缺乏深人的研究，因此，通过比较试验，研究不同覆盖条件下梨树全生育期的土壤理化性状和养分含量变化，分析土壤温度、水分、pH等和矿质营养元素间的相互关系，并结合主成分分析综合评价覆盖措施对土壤因子的影响规律，找出适合旱区梨园最佳保摘覆盖材料和技术，为该区梨园合理覆盖保及土壤改良提供理论和应用参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验地概况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验地为甘肃省中西部景泰县，地理位置位于$3 7 ^ { \\circ } 0 8 ^ { \\prime } 1 2 ^ { \\prime \\prime } { \\sim } 3 7 ^ { \\circ } 1 2 ^ { \\prime } 0 . 6 0 ^ { \\prime \\prime } \\mathrm { N } , 1 0 4 ^ { \\circ } 0 2 ^ { \\prime } 4 . 3 1 ^ { \\prime \\prime } { \\sim } 1 0 4 ^ { \\circ } 0 5 ^ { \\prime } 0 . 4 3 ^ { \\prime \\prime } \\mathrm { E }$ 之间，平均海拔 $1 5 7 0 \\mathrm { m }$ ,四季分明，气候干燥，年均日照时长 $2 6 4 5 { \\sim } 2 7 1 5 \\mathrm { ~ h ~ }$ 、降水量 $1 8 5 ~ \\mathrm { m m }$ 、蒸发量$3 0 3 8 ~ \\mathrm { m m }$ 、气温 $9 . 1 ~ \\mathrm { ^ { \\circ } C }$ ，极端最高和最低气温分别为$3 9 . 5 ~ \\mathrm { ^ { \\circ } C }$ 和 $- 2 4 . 3 ~ \\mathrm { { ‰ } }$ ,兼具温带干旱型大陆气候和沙漠性气候特点，雨热同季（7一9月），无霜期不少于$1 2 0 \\mathrm { d }$ 。试验园为国家梨产业体系兰州综合试验站建立的高标准宽行密株栽培模式梨园，试验面积$1 . 3 5 \\mathrm { h m } ^ { 2 }$ ,选园区中 $5 \\mathrm { ~ a ~ }$ 生黄冠梨作为试验品种（杜梨砧木），行株距 $4 \\mathrm { m } { \\times } 1 \\mathrm { m }$ ,定植密度：167株 $/ 6 6 7 ~ \\mathrm { m } ^ { 2 }$ ，南北行向。供试土壤( $\\left( 0 { \\sim } 3 0 \\ \\mathrm { c m } \\right.$ 土层)主要理化性质如下：沙壤土,试验前 $\\mathrm { \\ p H }$ 值为8.63,土壤有机质含量为$8 . 7 5 \\mathrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,速效氮、磷、钾含量分别为 $4 7 . 7 5 \\mathrm { m g } \\cdot \\mathrm { k g } ^ { - 1 }$ 、$2 5 . 5 6 ~ \\mathrm { m g \\bullet k g ^ { - 1 } , 1 1 3 . 5 0 ~ m g \\bullet k g ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验于2018年3—11月进行。试验处理分为无覆盖对照(T1）、园艺地布覆盖(T2）、玉米秸秆覆盖(T3)和黑地膜覆盖(T4)4个处理。以单行作为试验小区，随机区组排列，各小区试验株树均为167株，重复3次。清耕处理：在果树生长季节多次进行浅耕除草，保持梨园地面干净；园艺地布覆盖：选择宽 $1 \\mathrm { m }$ ,重量为 $9 0 \\ \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 }$ ,主要原料为聚丙烯的黑色园艺地布；玉米秸秆覆盖：将秸秆切成碎段覆盖于树盘内，覆盖厚度 $\\times$ 宽度 $= 2 0 \\ \\mathrm { c m } { \\times } 9 0 \\ \\mathrm { c m }$ ;黑地膜覆盖：选用厚度 $8 ~ { \\mu \\mathrm { m } }$ 幅宽 $9 0 ~ \\mathrm { c m }$ 的聚乙烯黑色地膜。各覆盖均于3月中旬进行铺设，树体和其他土壤管理一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3指标测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1土壤含水量测定2018年3—9月分别于梨树生长发育的不同时期(萌芽期、花前期、花后期、幼果期、果实膨大期、采收前和采收后)用烘干法测定各处理 $0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ . 4 0 { \\sim } 6 0 \\ \\mathrm { c m }$ 土层的土壤含水量，土样采集用5点取样法，重复3次。土壤含水量 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （土壤鲜质量-烘干土质量）／烘干土质量 $\\cdot \\times$ $100 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2土壤温度测定2018年3—9月，使用L-95型温度自动记录仪（浙江杭州路格仪器有限公司生产)测定各处理的土壤温度，选试验树西侧距树干$6 0 ~ \\mathrm { c m }$ 处，依次将温度探头放入 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 深的土层内，每 $2 0 ~ \\mathrm { c m }$ 为一个测定步长，连续记录各土层温度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.3土壤理化性状测定2018年10月在园区封冻水灌溉前，各处理分别采集东西向距树干 $6 0 ~ \\mathrm { c m }$ 处土层深度 $0 { \\sim } 2 0 \\ \\mathrm { c m } \\ . 2 0 { \\sim } 4 0 \\ \\mathrm { c m } \\ . 4 0 { \\sim } 6 0 \\ \\mathrm { c m }$ 的土壤样品（5个点的混合样品)进行理化性状的分析，具体指标如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）采用PB-0型 $\\mathrm { \\ p H }$ 计测定土壤pH值;（2）采用TP320型电导率分析仪测定土壤全盐量；（3）采用重铬酸钾－硫酸氧化法测定土壤有机质含量[24];(4）用 $\\mathrm { H _ { 2 } S O _ { 4 }  – H _ { 2 } O _ { 4 } }$ 消煮法后，采用 $\\mathrm { A A } _ { 3 }$ 连续流动分析仪测定土壤全氮含量25；（5）用 $1 \\ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 } \\ \\mathrm { K C l }$ 浸取后，采用 $\\mathrm { A A } _ { 3 }$ 连续流动分析仪测定土壤铵态氮和",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "硝态氮含量[26]；(6)采用电感耦合等离子体发射光 谱法（ICP,Optima-2100DV)测定土壤全铁和有效 铁含量[27] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2010软件整理数据并制作图表，图表中数据为平均值 $\\cdot ^ { \\pm , }$ 标准误；用SPSS22.0统计软件Duncan新复极差法进行数据多重比较和显著性分析，数据标准化后采用因子分析法进行主成分分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同覆盖方式对黄冠梨园土壤温度的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "梨树生长发育的不同物候期内，不同覆盖处理对不同土层的温度有明显的影响(表1)。各处理 $0 \\sim$ $6 0 \\ \\mathrm { c m }$ 土层内的平均温度均在3月最低，之后逐渐升高，各土层处理间8月之前均表现为T2处理土壤攘温度较高、T3处理土壤温度较低，8月后T1处理温度较高； $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层T2处理温度较低、 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和$4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层T4处理温度较低。从年均温度来看，T3处理不同土层温度均显著降低， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层T1处理温度最高， $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层T2处理温度最高。不同处理间 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层温度极差较小为 $1 . 7 ~ \\mathrm { ^ { circ } C } \\cdot 2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层温度差异较大，均为 $2 . 1 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各处理不同土层温度变幅的变化规律不同（图1)， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层各覆盖处理7月前增幅大，8月后降幅小;T1处理则相反，前期增幅较小，后期降幅大。T2和T4处理7月后 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层温度开始下降，8月 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层温度开始下降，T1和T3处理 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层温度在8月后才开始下降， $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层温度下降可延迟至9月，T3处理表现出了明显的稳温效应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同覆盖方式对黄冠梨园土壤含水量的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤含水量的变化规律各不相同(表2),T2、T3、T4处理全生育期 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土壤含水量均高于T1处理，变异系数均小于T1处理，表现出覆盖后的普遍增墒和稳嫡效应。从具体的增熵效果看，以T3处理土壤含水量最高，比其他3种处理显著提高了$1 . 0 \\% { \\sim } 2 . 7 \\% ( P { < } 0 . 0 5 )$ ,T2处理增熵效果最小，只较T1处理高 $0 . 3 \\% { \\sim } 1 . 6 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对各层土壤含水量进行比较发现，T2\\~T4处理土壤含水量随土层的加深逐渐降低，土层间含水量",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/515c5d191ab0da3a65c65b0837050685b334bd131a9603db6a03b2e9a9f9e11f.jpg",
+        "table_caption": [
+            "表1不同土层土壤平均温度",
+            "Tab.1 Average soil temperature of different soil layers "
+        ],
+        "table_footnote": [
+            "注：T1\\~T4分别为无覆盖、园艺地布覆盖、玉米秸秆覆盖和黑地膜覆盖处理；不同小写字母表示同一土层不同处理间在0.05水平上差异显著性。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层/cm</td><td rowspan=\"2\">处理</td><td colspan=\"8\">月平均温度/C</td><td rowspan=\"2\">年均 温度/℃</td><td rowspan=\"2\">变异 系数/%</td></tr><tr><td>3月</td><td>4月</td><td>5月</td><td>6月</td><td>7月</td><td>8月</td><td>9月</td><td>10月</td></tr><tr><td rowspan=\"4\">0~20</td><td>T1</td><td>8.0±0.22a</td><td>13.0±0.03b</td><td>15.5±0.14c</td><td>20.5±0.08c</td><td>22.9±0.06a</td><td>22.4±0.17a</td><td>16.8±0.01a</td><td>10.4±0.26a</td><td>16.2</td><td>34.1</td></tr><tr><td>T2</td><td>6.8±0.11b</td><td>13.9±0.02a</td><td>16.2±0.07b</td><td>21.7±0.11a</td><td>21.3±0.02c</td><td>18.2±0.13d</td><td>14.2±0.06d</td><td>8.1±0.06d</td><td>15.1</td><td>36.6</td></tr><tr><td>T3</td><td>4.5±0.18d</td><td>10.7±0.08d</td><td>14.5±0.05d</td><td>18.8±0.09d</td><td>20.8±0.09d</td><td>20.7±0.05b</td><td>16.2±0.09b</td><td>10.0±0.09b</td><td>14.5</td><td>39.8</td></tr><tr><td>T4</td><td>5.6±0.22c</td><td>11.9±0.04c</td><td>16.5±0.13a</td><td>21.6±0.07b</td><td>21.5±0.04b</td><td>19.6±0.12c</td><td>15.8±0.07c</td><td>9.5±0.08c</td><td>15.3</td><td>38.2</td></tr><tr><td rowspan=\"4\">20~40</td><td>T1</td><td>7.0±0.17a</td><td>12.2±0.05b</td><td>15.2±0.11c</td><td>19.5±0.07c</td><td>21.7±0.05b</td><td>21.9±0.11a</td><td>16.9±0.09a</td><td>11.4±0.18a</td><td>15.7</td><td>33.7</td></tr><tr><td>T2</td><td>6.6±0.09b</td><td>13.6±0.07a</td><td>16.8±0.06a</td><td>21.6±0.08a</td><td>22.1±0.04a</td><td>20.4±0.10c</td><td>16.6±0.06b</td><td>11.2±0.09ab</td><td>16.1</td><td>33.7</td></tr><tr><td>T3</td><td>2.8±0.17d</td><td>10.1±0.13d</td><td>14.3±0.05d</td><td>18.5±0.08d</td><td>20.6±0.10d</td><td>20.8±0.06b</td><td>16.6±0.10b</td><td>11.1±0.07b</td><td>14.4</td><td>42.9</td></tr><tr><td>T4</td><td>4.7±0.12c</td><td>10.7±0.10c</td><td>16.5±0.03b</td><td>20.7±0.06b</td><td>21.2±0.03c</td><td>20.0±0.12d</td><td>15.9±0.06c</td><td>10.1±0.05c</td><td>15.0</td><td>39.7</td></tr><tr><td rowspan=\"4\">40~60</td><td>T1</td><td>6.0±0.12c</td><td>11.3±0.12c</td><td>14.6±0.10b</td><td>18.5±0.07c</td><td>20.9±0.06b</td><td>21.6±0.07a</td><td>17.2±0.08b</td><td>12.5±0.18a</td><td>15.3</td><td>34.5</td></tr><tr><td>T2</td><td>7.5±0.16a</td><td>13.9±0.10a</td><td>16.1±0.05a</td><td>20.4±0.08a</td><td>21.4±0.04a</td><td>21.4±0.05b</td><td>17.4±0.05a</td><td>11.9±0.07c</td><td>16.3</td><td>30.6</td></tr><tr><td>T3</td><td>1.7±0.23d</td><td>9.7±0.05d</td><td>14.0±0.06c</td><td>18.1±0.08d</td><td>20.3±0.09c</td><td>20.9±0.08c</td><td>17.0±0.06b</td><td>12.1±0.09b</td><td>14.2</td><td>44.9</td></tr><tr><td>T4</td><td>7.0±0.19b</td><td>12.2±0.03b</td><td>16.1±0.02a</td><td>20.0±0.06b</td><td>20.8±0.04b</td><td>20.2±0.10d</td><td>16.4±0.05c</td><td>11.3±0.04d</td><td>15.5</td><td>32.0</td></tr><tr><td rowspan=\"4\">0~60</td><td>T1</td><td>6.7±0.14a</td><td>11.8±0.04b</td><td>14.9±0.11c</td><td>19.1±0.07c</td><td>21.5±0.05a</td><td>21.8±0.10a</td><td>17.1±0.05a</td><td>10.9±0.07c</td><td>15.5</td><td>34.9</td></tr><tr><td>T2</td><td>6.9±0.18a</td><td>13.8±0.07a</td><td>16.2±0.07a</td><td>20.9±0.09a</td><td>21.5±0.05a</td><td>20.1±0.08c</td><td>16.2±0.06c</td><td>11.9±0.08a</td><td>15.9</td><td>31.4</td></tr><tr><td>T3</td><td>2.5±0.19c</td><td>9.8±0.07d</td><td>14.0±0.05d</td><td>18.1±0.08d</td><td>20.2±0.09c</td><td>20.7±0.05b</td><td>16.7±0.09b</td><td>11.6±0.19b</td><td>14.2</td><td>43.1</td></tr><tr><td>T4</td><td>5.9±0.14b</td><td>11.7±0.10c</td><td>16.1±0.03b</td><td>20.2±0.06b</td><td>20.8±0.03b</td><td>19.9±0.11d</td><td>16.2±0.05c</td><td>10.8±0.05c</td><td>15.2</td><td>35.0</td></tr><tr><td colspan=\"2\">变异系数/%</td><td>35.98</td><td>13.23</td><td>6.72</td><td>6.57</td><td>3.90</td><td>4.66</td><td>4.39</td><td>11.19</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/acf4004ee5c65945b767842801af843b14ef9fc915090dcb48ab115c40d16a74.jpg",
+        "img_caption": [
+            "注：T1\\~T4分别为无覆盖、园艺地布覆盖、玉米秸秆覆盖和黑地膜覆盖处理；不同小写字母表示同月不同处理在0.05水平的差异显著。下同。",
+            "图1不同处理对梨园土壤温度变幅的影响",
+            "Fig.1Effects of different treatments on soil temperature variation "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2不同土层土壤含水量差异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc9cbfe70be3e2982332ce854852fde6683fc999edb79e64e2721833a110b4af.jpg",
+        "table_caption": [
+            "Tab.2Soil moisture of different soil layers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层/cm</td><td rowspan=\"2\">处理</td><td colspan=\"8\">土壤含水量/%</td><td rowspan=\"2\">变异 系数/%</td></tr><tr><td>萌芽期</td><td>花前期</td><td>花后期</td><td>幼果期</td><td>果实膨大期</td><td>采收前</td><td>采收后</td><td>年均</td></tr><tr><td>0~20</td><td>T1</td><td>11.6±0.31b</td><td>16.4±0.44bc</td><td>12.9±0.43b</td><td>12.8±1.65b</td><td>10.7±1.33b</td><td>10.1±3.27a</td><td>9.2±0.99b</td><td>12.0</td><td>18.4</td></tr><tr><td></td><td>T2</td><td>12.7±2.92ab</td><td>15.6±0.39c</td><td>12.5±0.17b</td><td>13.7±0.28ab</td><td>13.1±0.40a</td><td>12.4±1.76a</td><td>12.3±1.85a</td><td>13.2</td><td>8.3</td></tr><tr><td></td><td>T3</td><td>15.6±0.50a</td><td>20.0±0.44a</td><td>16.7±0.55a</td><td>15.0±0.17a</td><td>15.0±0.98a</td><td>12.9±3.06a</td><td>13.3±1.20a</td><td>15.5</td><td>14.1</td></tr><tr><td></td><td>T4</td><td>13.8±0.23ab</td><td>17.0±0.73b</td><td>13.1±1.85b</td><td>15.1±0.61a</td><td>14.1±0.62a</td><td>14.0±1.07a</td><td>12.3±1.15a</td><td>14.2</td><td>9.8</td></tr><tr><td>20~40</td><td>T1</td><td>12.5±0.23b</td><td>17.7±0.62ab</td><td>12.3±4.34a</td><td>11.8±0.35b</td><td>10.9±0.54a</td><td>10.6±1.42b</td><td>10.4±1.24a</td><td>12.3</td><td>18.7</td></tr><tr><td></td><td>T2</td><td>12.2±0.26b</td><td>16.4±0.39b</td><td>11.9±0.05a</td><td>12.2±0.19b</td><td>9.9±1.78a</td><td>14.0±0.66ab</td><td>11.3±1.32a</td><td>12.6</td><td>15.4</td></tr><tr><td></td><td>T3</td><td>15.4±0.75a</td><td>18.3±1.30a</td><td>15.9±0.56a</td><td>10.9±0.16b</td><td>9.1±0.42a</td><td>15.2±2.69a</td><td>13.3±2.40a</td><td>14.0</td><td>20.9</td></tr><tr><td>40~60</td><td>T4</td><td>12.5±0.38b</td><td>17.2±0.84ab</td><td>14.8±1.32a</td><td>13.9±1.29a</td><td>9.7±0.13a</td><td>14.6±1.39a</td><td>11.5±0.98a</td><td>13.4</td><td>16.9</td></tr><tr><td></td><td>T1</td><td>10.5±0.51c</td><td>17.9±0.06ab</td><td>9.7±0.22d</td><td>7.6±0.19d</td><td>10.4±2.11b</td><td>10.0±2.00a</td><td>10.5±0.43ab</td><td>10.9</td><td>27.5</td></tr><tr><td></td><td>T2</td><td>16.0±0.61a</td><td>18.7±0.90a</td><td>13.7±0.31a</td><td>9.7±0.35c</td><td>8.5±0.25b</td><td>12.1±2.96a</td><td>9.1±1.22b</td><td>12.5</td><td>28.2</td></tr><tr><td></td><td>T3</td><td>13.3±0.76b</td><td>17.1±0.21b</td><td>12.6±0.31b</td><td>11.0±1.07b</td><td>15.1±1.56a</td><td>15.0±3.41a</td><td>10.9±0.87ab</td><td>13.6</td><td>15.6</td></tr><tr><td></td><td>T4</td><td>12.4±0.94b</td><td>17.9±0.16ab</td><td>11.4±0.53c</td><td>15.4±0.87a</td><td>9.9±0.81b</td><td>10.8±1.20a</td><td>11.5±0.58a</td><td>12.5</td><td>23.3</td></tr><tr><td>0~60</td><td>T1</td><td>11.5±0.96a</td><td>17.3±0.47a</td><td>11.6±1.70b</td><td>10.7±2.76a</td><td>10.7±2.48a</td><td>10.2±0.32b</td><td>11.8±1.39ab</td><td>11.7</td><td>21.7</td></tr><tr><td></td><td>T2</td><td>13.6±1.24a</td><td>16.9±0.81a</td><td>12.7±0.79ab</td><td>11.9±1.70a</td><td>10.5±0.25a</td><td>12.8±2.01a</td><td>12.5±1.64a</td><td>12.8</td><td>16.6</td></tr><tr><td></td><td>T3</td><td>14.7±2.07a</td><td>18.5±1.61a</td><td>15.1±0.93a</td><td>12.3±2.30a</td><td>13.1±2.30a</td><td>14.3±1.02a</td><td>10.0±0.72b</td><td>14.4</td><td>14.8</td></tr><tr><td></td><td>T4</td><td>12.9±0.81a</td><td>17.4±1.46a</td><td>14.8±2.17ab</td><td>13.1±2.00a</td><td>11.2±3.44a</td><td>13.1±1.24a</td><td>10.9±0.46ab</td><td>13.4</td><td>16.3</td></tr><tr><td colspan=\"2\">变异系数/%</td><td>12.0</td><td>6.0</td><td>13.7</td><td>15.5</td><td>18.1</td><td>14.4</td><td>11.3</td><td>8.8</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大小为 $0 { \\sim } 2 0 \\ \\mathrm { c m } { > } 2 0 { \\sim } 4 0 \\ \\mathrm { c m } { > } 4 0 { \\sim } 6 0 \\ \\mathrm { c m }$ ,而T1处理土壤含水量则是 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 最高， $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 最低，说明T1处理土壤表层水分损失较多，覆盖后有效降低了",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表层土壤水分的蒸发，并使上部土壤保持较高的含水量;处理间对比，也均呈现出覆盖条件下高，T1处理低的规律。T2\\~T4处理中土层的增效果均以",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T3处理最高，与T1处理相比，其增幅范围为 $1 . 7 \\%$ 2$3 . 5 \\% ( P { < } 0 . 0 5 )$ 。比较各生育时期 $0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土壤平均含水量，T3处理始终高于其他3个处理。T2和T4处理除花前期和果实膨大期略低于T1处理，其他各时期也均高于T1处理，上述说明，地表覆盖可通过雨水入渗、蒸腾减轻和保墒增湿等作用影响土壤水分状况。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同覆盖方式对黄冠梨园土壤理化性状的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "各处理3个土层土壤 $\\mathrm { \\ p H }$ 的变化规律不同（图2),T1和T2处理的土壤 $\\mathrm { \\ p H }$ 值呈现出土层越深pH越大的规律，而T4和T3处理的土壤 $\\mathrm { \\ p H }$ 则呈现表层1 $( 0 { \\sim } 2 0 \\mathrm { c m } )$ 和深层 $( 4 0 { \\sim } 6 0 ~ \\mathrm { c m } )$ 高，中间层 $( 2 0 { \\sim } 4 0 ~ \\mathrm { c m } )$ ，低的规律。处理间进行比较发现， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层T4处理 $\\mathrm { \\ p H }$ 最高， $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 和 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层T1处理 $\\mathrm { \\ p H }$ 最高，T3处理显著地降低了土壤的 $\\mathrm { \\ p H }$ 值 $_ { ( P < 0 . 0 5 ) }$ ，各土层分别低于T1处理 $1 . 8 \\% . 4 . 6 \\%$ 和 $3 . 2 \\%$ 。各处理土壤全盐量均随土层加深均呈降低趋势，在0\\~20cm和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层处理间全盐量从大到小依次为$\\mathrm { T 4 { > } T 1 { > } T 3 { > } T 2 , { \\mathrm { T } } }$ 4处理分别比T2处理高出 $6 0 . 5 \\%$ 和$4 6 . 3 \\%$ ,差异显著( $_ { ( P < 0 . 0 5 ) }$ ， $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层各处理间无明显差异。T3处理提高了土壤有机质的含量，其$0 { \\sim } 2 0 ~ \\mathrm { c m }$ 王层有机质含量分别显著高出T1、T2和T4处理 $1 2 . 2 \\%$ ） $2 6 . 7 \\%$ 和 $4 1 . 3 \\%$ $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层分别较T2和T4处理提升了 $2 4 . 0 \\%$ 和 $3 8 . 3 \\%$ ，差异显著( $P <$ 0.05），而T2和T4处理有机质含量显著低于T1处理，尤其是T4处理， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层有机质含量分别较T1处理降低了 $3 3 . 1 \\%$ 和 $3 4 . 0 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同覆盖条件下梨园土壤的矿质营养元素含量也呈现出不同的变化规律(图3)，全氮、全磷和全铁含量仅在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层有所差异，T2处理全氮含量显著低于其他处理，T3处理全磷含量显著提升，各土层分别较T1处理提高了 $1 2 . 9 \\%$ ） $3 . 3 \\%$ 和 $1 0 . 0 \\%$ ，差异显著( $( P { < } 0 . 0 5 )$ ;相较于T1处理，各覆盖处理下土壤全铁含量也有所增加， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层T3处理最高，均高出T1处理 $9 . 0 \\%$ ，而 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层仅T4处理高出T1处理 $1 0 . 0 \\%$ ,达差异显著水平中 $( P { < } 0 . 0 5 )$ 。不同处理下速效性养分含量的变化则非常明显，T4处理 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层的碱解氮含量分别为 $7 3 . 0 0 \\ \\mathrm { m g \\cdot g ^ { - 1 } }$ 和 $6 4 . 5 3 ~ \\mathrm { m g \\cdot g ^ { - 1 } }$ ,显著高于T1处理，但T1处理 $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层碱解氮含量最高，且与T3和T4处理形成显著性差异( $( P { < } 0 . 0 5 )$ ；土壤速效磷含量在 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层大小顺序均为 $\\scriptstyle \\mathrm { T } 4 > \\mathrm { T } 3 > \\mathrm { T } 2 > \\mathrm { T } 1$ ,处理间均差异显著( $_ { ( P < 0 . 0 5 ) }$ ）， $4 0 \\sim$ $6 0 ~ \\mathrm { c m }$ 土层大小顺序均为 $\\mathrm { T 1 > T 4 > T 3 > T 2 }$ ,也均差异显著 $( P { < } 0 . 0 5 )$ ;T3处理显著提升了土壤速效钾的含量，3个土层速效钾含量分别高出T1处理 $3 4 . 9 \\%$ 、$6 1 . 2 \\%$ 和 $3 1 . 1 \\% \\left( P { < } 0 . 0 5 \\right) ; 0 { \\sim } 2 0 \\ \\mathrm { c m }$ 土层有效铁含量T3 处理显著高于T1和T4处理, $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层T3处理显著高于T2和T4处理， $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 土层各处理间无差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4不同覆盖方式下梨园土壤环境因子综合评价",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对不同覆盖处理下15个梨园土壤环境因子指标进行主成分分析，各指标间相关性系数如表3所示，并提取到特征值大于1的主成分3个(表4)，第一、二、三主成分的贡献率分别为 $1 . 9 8 4 \\% , 1 3 . 2 2 6 \\%$ 和 $7 6 . 6 4 0 \\%$ ，累积方差贡献率达到 $8 5 . 4 3 5 \\%$ ，此3个主成分可反映出全部指标提供的信息。第一主成分下土壤硝态氮、速效钾、铵态氮、碱解氮、有机质、有效铁等均有较高的正值，可代表土壤氮磷和有效性矿质元素的因子。第二主成分综合了土壤温度、土壤含水量、土壤pH的信息，可认为是反映土壤物理性质的因子。第三主成分则综合了全盐量、土壤",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c9474721ddb69638045da245ff1fa7c777a726f7ba21c8907c43d320055f421.jpg",
+        "img_caption": [
+            "图2不同处理对梨园土壤理化性状的影响",
+            "Fig.2 Effect of different treatment on the physicochemical properties of soil in pear orchard "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7be1345a357bc333499795c38f8398af2e0393e7b1af196249f94e79bc7a01ca.jpg",
+        "img_caption": [
+            "图3不同土层矿质元素含量差异",
+            "Fig.3Content ofmineral elements in different soil layers "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3各指标相关系数矩阵",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/33e6e2f5e073ae42c9213f9754dae1b50eb80c3ade95595fc7e0629807f52c08.jpg",
+        "table_caption": [
+            "Tab.3 Correlation coefficients matrix of each index "
+        ],
+        "table_footnote": [
+            "注： $X 1$ 为土壤温度； $X 2$ 为土壤含水量； $X 3$ 为土壤pH; $X 4$ 为土壤电导率；X5为土壤有机质； $X 6$ 为土壤全氮;X7为土壤全磷；X8为土壤全钾； $X 9$ 为土壤全铁; $X 1 0$ 为土壤碱解氮; $X 1 1$ 为土壤速效磷; $X 1 2$ 为土壤速效钾; $X 1 3$ 为土壤速效铁; $X 1 4$ 为土壤铵态氮； $X 1 5$ 为土壤硝态氮。"
+        ],
+        "table_body": "<html><body><table><tr><td>指标</td><td>X1</td><td>X2</td><td>X3</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td><td>X10</td><td>X11</td><td>X12</td><td>X13</td><td>X14</td><td>X15</td></tr><tr><td>X1</td><td>1.000</td><td>-0.641</td><td>0.519</td><td>0.147</td><td>-0.101</td><td>-0.017</td><td>-0.114</td><td>0.098</td><td>-0.323</td><td>-0.115</td><td>-0.503</td><td>-0.333</td><td>-0.283</td><td>-0.181</td><td>-0.167</td></tr><tr><td>X2</td><td></td><td>1.000</td><td>-0.758</td><td>0.195</td><td>0.415</td><td>0.413</td><td>0.603</td><td>0.400</td><td>0.615</td><td>0.398</td><td>0.702</td><td>0.622</td><td>0.695</td><td>0.644</td><td>0.518</td></tr><tr><td>X3</td><td></td><td></td><td>1.000</td><td>-0.258</td><td>-0.590</td><td>-0.445</td><td>-0.640</td><td>-0.248</td><td>-0.476</td><td>-0.567</td><td>-0.602</td><td>-0.653</td><td>-0.551</td><td>-0.590</td><td>-0.652</td></tr><tr><td>X4</td><td></td><td></td><td></td><td>1.000</td><td>0.324</td><td>0.728</td><td>0.613</td><td>0.620</td><td>0.430</td><td>0.646</td><td>0.467</td><td>0.457</td><td>0.580</td><td>0.514</td><td>0.455</td></tr><tr><td>X5</td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.755</td><td>0.834</td><td>0.293</td><td>0.196</td><td>0.591</td><td>0.563</td><td>0.767</td><td>0.645</td><td>0.829</td><td>0.884</td></tr><tr><td>X6</td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.917</td><td>0.593</td><td>0.270</td><td>0.828</td><td>0.756</td><td>0.874</td><td>0.869</td><td>0.929</td><td>0.840</td></tr><tr><td>X7</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.604</td><td>0.478</td><td>0.715</td><td>0.742</td><td>0.867</td><td>0.848</td><td>0.929</td><td>0.883</td></tr><tr><td>X8</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.442</td><td>0.632</td><td>0.651</td><td>0.592</td><td>0.720</td><td>0.549</td><td>0.524</td></tr><tr><td>X9</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.092</td><td>0.319</td><td>0.260</td><td>0.325</td><td>0.309</td><td>0.182</td></tr><tr><td>X10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.839</td><td>0.877</td><td>0.847</td><td>0.782</td><td>0.786</td></tr><tr><td>X11</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.924</td><td>0.933</td><td>0.821</td><td>0.747</td></tr><tr><td>X12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.937</td><td>0.926</td><td>0.907</td></tr><tr><td>X13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.914</td><td>0.845</td></tr><tr><td>X14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td><td>0.872</td></tr><tr><td>X15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1176240f8e6251da6b9d6538f6c3e7faf66c4c9d847f8f1fa922c91b489138c.jpg",
+        "table_caption": [
+            "Tab.4 Results of the principal component analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"3\">主成分</td></tr><tr><td>第一主成分</td><td>第二主成分</td><td>第三主成分</td></tr><tr><td>土壤温度</td><td>0.053</td><td>-0.403</td><td>0.167</td></tr><tr><td>土壤含水率</td><td>-0.071</td><td>0.327</td><td>0.049</td></tr><tr><td>土壤pH</td><td>-0.028</td><td>-0.245</td><td>0.089</td></tr><tr><td>电导率</td><td>-0.059</td><td>-0.134</td><td>0.411</td></tr><tr><td>土壤有机质</td><td>0.213</td><td>-0.044</td><td>-0.213</td></tr><tr><td>土壤全氮</td><td>0.135</td><td>-0.123</td><td>0.061</td></tr><tr><td>土壤全磷</td><td>0.089</td><td>-0.010</td><td>0.068</td></tr><tr><td>土壤全钾</td><td>-0.073</td><td>-0.065</td><td>0.395</td></tr><tr><td>土壤全铁</td><td>-0.257</td><td>0.260</td><td>0.439</td></tr><tr><td>土壤碱解氮</td><td>0.143</td><td>-0.091</td><td>0.002</td></tr><tr><td>土壤速效磷</td><td>0.067</td><td>0.101</td><td>0.007</td></tr><tr><td>土壤速效钾</td><td>0.151</td><td>0.021</td><td>-0.088</td></tr><tr><td>土壤速效铁</td><td>0.084</td><td>0.019</td><td>0.057</td></tr><tr><td>土壤铵态氮</td><td>0.143</td><td>-0.013</td><td>-0.045</td></tr><tr><td>土壤硝态氮</td><td>0.193</td><td>-0.041</td><td>-0.138</td></tr><tr><td>特征值</td><td>9.512</td><td>63.414</td><td>63.414</td></tr><tr><td>贡献率/%</td><td>1.984</td><td>13.226</td><td>76.640</td></tr><tr><td>累积贡献率/%</td><td>1.319</td><td>8.795</td><td>85.435</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "全钾和土壤全铁的信息。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "计算各主成分得分和综合得分 $F$ 值发现不同覆盖方式对梨园浅层土壤环境因子的影响要明显大于深层土壤，按 $F$ 值大小对各覆盖处理进行排序，结果显示(表5)，不同覆盖处理对不同土层影响的综合得分排序为， $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层： $_ { \\mathrm { T 3 > T 2 > T 4 > T 1 } }$ ;20\\~40cm土层： $_ { \\mathrm { T 3 > T 2 > T 4 > T 1 } }$ · $4 0 { \\sim } 6 0 ~ \\mathrm { c m }$ 王层： $\\mathrm { T 1 > T 4 > T 3 > }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7485fce38acc3f1a26130cae7d8120b423720603960b36c6abaa4261d0a827e4.jpg",
+        "table_caption": [
+            "表4主成分分析结果",
+            "表5不同处理各主成分得分及综合得分",
+            "Tab.5Principal component scores and comprehensive scoresof different treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">scoresordnierenttreathents</td></tr><tr><td rowspan=\"2\">土层/cm</td><td rowspan=\"2\">处理</td><td colspan=\"3\">得分</td><td rowspan=\"2\">排名</td></tr><tr><td></td><td>第一主成分第二主成分第三主成分</td><td>综合</td></tr><tr><td rowspan=\"8\">0~20 20~40</td><td>T1</td><td>0.753</td><td>-0.192</td><td>0.047</td><td>0.608 4</td></tr><tr><td>T2</td><td>0.980</td><td>-0.026 -0.109</td><td>0.845</td><td>2</td></tr><tr><td>T3</td><td>0.860</td><td>0.313</td><td>0.016</td><td>1.189 1</td></tr><tr><td>T4</td><td>0.298</td><td>0.210</td><td>0.167 0.675</td><td>3</td></tr><tr><td>T1</td><td>-0.166</td><td>-0.100</td><td>-0.002 -0.267</td><td>8</td></tr><tr><td>T2</td><td>0.015</td><td>-0.103</td><td>-0.004 -0.091</td><td>6</td></tr><tr><td>T3</td><td>0.242</td><td>0.174</td><td>-0.090</td><td>0.326 5</td></tr><tr><td>T4</td><td>-0.402</td><td>0.088</td><td>0.139</td><td>-0.175 7</td></tr><tr><td rowspan=\"4\">40~60</td><td>T1</td><td>-0.355</td><td>-0.129</td><td>-0.066</td><td>-0.551 9</td></tr><tr><td>T2</td><td>-0.754</td><td>-0.073</td><td>0.031 -0.796</td><td>12</td></tr><tr><td>T3</td><td>-0.878</td><td>0.179</td><td>-0.033</td><td>-0.731 11</td></tr><tr><td>T4</td><td>-0.594</td><td>-0.035</td><td>-0.095</td><td>-0.724 10</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "T2。由此可以看出，在 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层内各覆盖处理对土壤性状的影响要好于T1处理，以T3处理为最佳。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "农业生产中利用地表覆盖技术除具有广谱的保摘、防止水土流失、减少地表蒸发的作用外，还因不同的覆盖材料兼有蓄肥促稳，改善土壤环境因子的保障性作用[28]。其中，多数研究证明地膜覆盖有显著地提高土壤温度，抑制土壤水分蒸发损失地作用[29]。本试验中，黑地膜覆盖有一定的增温效应和较明显的保效应，同时还提升了土壤碱解氮的含量，但土壤有机质分解加速，含量低于无覆盖条件，这是因为地膜覆盖后虽可增加土壤的保水保肥能力，提高氮肥的利用效率，但也能加快有机质分解[30],而赵德英等[20]的研究结果发现地膜覆盖降低了土壤碱解氮的含量，此种差异应该是由取样时期不同造成，果实采收后，树体对水肥的吸收会显著降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地布作为一种新型的覆盖材料具有足够大的渗水性，同时允许作物根部呼吸，吸收水分和营养，还能保持较高的土壤温度[1.31]。本试验结果中，园艺地布覆盖的增温效应仅次于黑地膜覆盖，所以同样造成了土壤有机质的快速分解;园艺地布覆盖也具有一定的保作用，提高了土壤含水率；但土壤全氮含量显著低于无覆盖和其他覆盖处理，这与园艺地布覆盖可有效阻止养分流失的研究结论不一致[32-33],可能是由于土壤氮素的代谢速率以及土壤氮素代谢酶类活性有所不同，需在今后的研究中进一步确定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "秸秆覆盖能够阻截部分降雨能量，阻止雨滴直接打击土壤表面，减少土壤颗粒分离和扩散，防止地表结皮，同时还能增加地表糙率和下渗，从而减少径流总量和降低地表径流的流速，降低对土壤的冲刷作用[5.34-37]。从本试验结果看，玉米秸秆覆盖有较好的降温和稳温效应，且兼具最佳的保效应，全生育期土壤含水率提升明显，能有效解决本区域内的“春旱\"问题。同时，玉米秸秆覆盖还有效提升了土壤有机质的含量，并起到调节碱性土壤高pH的作用，这说明覆盖玉米秸秆后在土壤结构改善和土壤肥力提升方面均有显著的促进作用，与秸秆还田降低了土壤容重、增加土壤孔隙度和大粒径微团聚体数量及水稳定性，降低了雨水对土壤的冲击力和淋洗作用，从而使土壤结构能够保持良好状态的研究结论较为一致[38-40]；玉米秸秆覆盖显著促进了土壤速效钾含量的提升，同时还提高了表层和中层土壤有效铁的含量，这可能是源于土壤微生物对秸秆覆盖物的分解作用，使大量速效性养分在土壤中富集与积累[41-42],以及通过根系的分泌、微生物的分解、土壤的微酸化及秸秆残体的滞留作用，使得土壤矿物质的有效态含量得以增加[20.43]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对梨园土壤性状多个单项指标进行对比分析，再结合主成分分析法，进行覆盖效果对土壤质量影响的综合性评价，筛选出了受不同覆盖方式影响土壤质量的几个关键因子，包括土壤有效性养分、物理性状及土壤钾和铁等，并保证在不损失试验本身信息的前提下，将试验数据标准化后转换成个数较少且独立的综合指标，能够对覆盖效果进行客观、全面的评价[44-45]。本研究分析结果显示不同覆盖方式对梨园浅层土壤环境因子的影响要明显大于深层土壤，在 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层内各覆盖处理对土壤性状的影响均好于无覆盖处理，其中玉米秸秆覆盖在 $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层综合得分分别为1.189和0.326,均最高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文在干旱沿黄灌区研究了不同覆盖方式对梨园全生育期的土壤理化性状和养分含量变化的影响，并结合主成分分析对土壤质量进行了综合评价。主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）园艺地布和黑地膜覆盖具有较为明显的增温效应，玉米秸秆覆盖有较好的降温和稳温效应，兼具良好的增熵效应，土壤含水率较其他处理显著提高 $1 . 0 \\% { \\sim } 2 . 7 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）黑地膜和园艺地布覆盖可造成土壤有机质的加速分解，尤其在黑地膜覆盖下有机质含量下降高达 $3 3 . 1 2 \\%$ ,但黑地膜覆盖下 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 和 $2 0 { \\sim } 4 0 ~ \\mathrm { c m }$ 土层土壤碱解氮含量分别为 $7 3 . 0 0 ~ \\mathrm { m g \\cdot g ^ { - 1 } }$ 和 64.53$\\mathbf { m g \\cdot g ^ { - 1 } }$ ,为各处理中最高,玉米秸秆覆盖较无覆盖可提升各土层速效钾含量达 $3 1 . 1 \\% { \\sim } 6 1 . 2 \\%$ ，同时也起到了一定的提升土壤速效铁含量的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）主成分分析提取到特征值大于1的3个主成分，累积方差贡献率达 $8 5 . 4 3 5 \\%$ ，综合评价后发现不同覆盖方式对梨园浅层土壤环境因子的影响要明显大于深层土壤，玉米秸秆覆盖综合得分高、覆盖效果最好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)   \n[1]山仑,邓西平,张岁岐.生物节水研究现状及展望[J].中国科学 基金,2006,20(2): 66-71. [Shan Lun,Deng Xiping,Zhang Suiqi. Advances in biological water-saving research: Challenge and perspectives[J].Bulletin of National Natural Science Foundation of China,2006,20(2): 66-71.]   \n[2]王志超,李仙岳,史海滨,等.覆膜年限及灌水方法对河套灌区 农膜残留的影响[J].农业工程学报,2017,33(14):159-165. [Wang Zhichao,Li Xianyue,Shi Haibin,etal. Effects of mulching years and irrigation methods on residual plastic film in Hetao Irigation District[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactionsof the CSAE),2017,33(14):159- 165.]   \n[3]谢孟林,查丽,郭萍,等.垄作覆膜对川中丘区土壤物理性状和 春玉米产量的影响[J].干旱地区农业研究,2017,35(2):31-38. [Xie Menglin,Zha Li,GuoPing,etal.Efectsof differentridging and mulching measures on soil physical properties and yield of spring maize in hilly area of central Sichuan Basin[J].Agricultural Research in the Arid Areas,2017,35(2): 31-38.]   \n[4]查丽,谢孟林,朱敏,等.垄作与覆膜对川中丘陵春玉米根系分 布及产量的影响[J].应用生态学报,2016,27(3):855-862.[Zha Li,Xie Menglin, Zhu Min,et al.Effects of ridge-cultivation and plastic film mulching on root distribution and yield of spring maize in hilly area of central Sichuan Basin, China[J]. Chinese Journal of Applied Ecology,2016,27(3): 855-862.]   \n[5]林超文,罗春燕,庞良玉,等.不同耕作和覆盖方式对紫色丘陵 区坡耕地水土及养分流失的影响[J]).生态学报,2010,30(22): 6091-61O1.[Lin Chaowen, Luo Chunyan,Pang Liangyu,et al.Effects of different cultivation and mulching methods on soil erosion and nutrient losses from a purple soil of sloping land[J]. Acta Ecologica Sinica,2010,30(22): 6091-6101.]   \n[6]牛新胜,马永良,牛灵安,等.玉米秸秆覆盖冬小麦免耕播种对 土壤理化性状的影响[J].华北农学报,2007,22(增刊2):158- 163.[Niu Xinsheng,Ma Yongliang,Niu Ling'an,et al.Effects of no-tillage planting for winter wheat with maize straw mulching on soil physicochemical properties[J].Acta Agriculturae Boreali-Sinica,2007,22(Suppl. 2): 158-163.]   \n[7]徐福利,梁银丽,汪有科,等.秸杆覆盖保护耕作法土壤水分和 温度变化及玉米产量效应[J].土壤通报,2006,37(4):648-650. [Xu Fuli,Liang Yinli,Wang Youke,et al.Effect of stock mulch conservation method on soil moisture,soil temperature and corn yield[J]. Chinese Journal of Soil Science,2006,37(4): 648-650.]   \n[8]严奉君,孙永健,马均,等.灌溉方式与秸秆覆盖优化施氮模式 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对秸秆腐熟特征及水稻氮素利用的影响[J].中国生态农业学 报,2016,24(11): 1435-1444.[Yan Fengjun,Sun Yongjian, Ma Jun, et al.Effects of irrigation method and straw mulch-nitrogen management patern on straw decomposition characteristics and nitrogen utilization of hybrid rice[J].Chinese Journal of Eco-Agriculture,2016,24(11): 1435-1444.]   \n[9]张桂玲.秸秆腐熟物覆盖对板栗园土壤微生物、养分含量和产 量的影响[J].果树学报,2012,29(6):1057-1062.[Zhang Gunling.Effects of straw hydrolysate mulching on soil microbial quantities,soil nutrient contents and yield in chestnut orchard[J]. Journal of Fruit Science,2012,29(6): 1057-1062.]   \n[10] 邓家林.新型覆盖材料—LS地布在果树节水抗旱上的应用 效果[J].中国果业信息,2010,27(7): 54.[Deng Jialin.Application effect of a new covering material: LS gardening cloth on water saving and drought resistance of fruit trees[J]. China Fruit News, 2010, 27(7): 54.]   \n[11] 郑悦,李会科,张泰然,等.园艺地布微垄覆盖对渭北旱地矮化 苹果根域土壤水分的影响[J].西北农业学报,2019,28(4): 631- 640.[Zheng Yue,Li Huike,Zhang Tairan,et al.Effects of black ground fabric micro-ridge mulching on root zone soil moisture of dwarf apple in Weibei dryland, China[J].Acta Agriculturae Boreali-occidentalis Sinica, 2019,28(4): 631-640.]   \n[12] 彭正凯,李玲玲,谢军红,等.不同耕作措施对旱地作物生育期 农田耗水结构和水分利用效率的影响[J].水土保持学报, 2018,32(5): 214-221. [Peng Zhengkai,Li Lingling,Xie Junhong, et al.Effects of different tillage practices on water consumption structure and water use efficiency during crop growth period in arid farmland[J]. Journal of Soil and Water Conservation,2018,32 (5): 214-221.]   \n[13]刘匣.基于田间试验和Aquacrop模型的覆膜冬小麦生长动态 和土壤水分模拟分析[D].杨凌:西北农林科技大学,2017.[Liu Xia.Evaluation analysis of winter wheat growing development and soil moisture under plastic mulching based on field experiment and Aquacrop model[D]. Yangling: Northwest Agriculture & Forestry University,2017.]   \n[14]程宏波,牛建彪,柴守玺,等.不同覆盖材料和方式对旱地春小 麦产量及土壤水温环境的影响[J].草业学报,2016,25(2):47- 57.[Cheng Hongbo,Niu Jianbiao,Chai Shouxi,etal.Effect of different mulching materials and methods on soil moisture and temperature and grain yield of dryland spring wheat in northwestern China[J]. Acta Prataculturae Sinica,2016,25(2): 47-57.]   \n[15]Leng HM,Wan FX, Zhang Y T.Study on relationship of root mor phological characters and biomass of Cupressus lusitanica in different age classes[J]. Agricultural Science & Technology，2013,14 (12): 1830-1833,1838.   \n[16]Luis HB,Juan D L. Total fine root mass and nutrient content in forest ecosyetems (Pinus patula Schltdl and Cham Cupressus lusitanica Mill and Quercus humboldtii Bonpl.) from Piedras Blancas,Antioquia-Colombia[J].Revista Facultad Nacional De Agronomia, 2005,58(2): 2007-2930.   \n[17] 于显枫,张绪成,方彦杰,等.减氮追施和增密对全膜覆盖垄上 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "微沟马铃薯水分利用及生长的影响[J].作物学报,2019,45(5): 764-776.[Yu Xianfeng,Zhang Xucheng,Fang Yanjie,et al.Effects of top dressing with reduced nitrogen fertilizer and density enhancement on water use eficiency and growth of potatoes planted in mini-ditch on ridges with plastic mulching[J].Acta Agronomica Sinica,2019,45(5): 764-776.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18] 李玲玲,黄高宝,张仁陟,等.不同保护性耕作措施对旱作农田 土壤水分的影响[J].生态学报,2005,25(9):2326-2332.[Li Lingling,Huang Gaobao, Zhang Renzhi, etal.Effects of conservation tillage on soil water regimes in rainfed areas[J].Acta Ecologica Sinica,2005,25(9): 2326-2332.]   \n[19] 张绪成,王红丽,于显枫,等.半干旱区全膜覆盖垄沟间作种植 马铃薯和豆科作物的水热及产量效应[J].中国农业科学, 2016,49(3): 468-481.[Zhang Xucheng,Wang Hongli, Yu Xianfu, et al.Effect of potato and beans intercropping with whole field plastics mulching and ridge-furrow planting on soil thermal-moisture status and crop yield on semi-arid area[J]. Scientia Agricultura Sinica,2016,49(3): 468-481.]   \n[20] 赵德英.梨园树盘覆盖的土壤生态效应及树体生理响应研究 [D].北京:中国农业科学院,2013.[Zhao Deying.Study on the soil ecological effects and physiological response in different groundcover pear tree[D]. Beijing: Chinese Academy of Agricultural Sciences,2013.]   \n[21]王佳文,彭杰,刘新路,等.基于电磁感应数据的膜下滴灌土壤 水分动态变化研究[J].干旱区地理,2021,44(1):250-257. [Wang Jiawen,Peng Jie,Liu Xinlu, et al. Dynamic variation of soil moisture in field with drip irigationunderfilmusing electromag netic inductio data[J].AridLand Geography2021,4(1):50 257.]   \n[22] 陈伟,王红阳,王志坚,等.黄土丘陵区香梨园土壤水分、养分分 布特征及其与产量的关系[J].应用生态学报,2021,32(9): 3159-3166.[Chen Wei,Wang Hongyang,Wang Zhijian,et al. Distribution characteristics of soil water and nutrients in pear orchard and their relationship with yields in loess hilly region[J]. Chiese Journal of Applied Ecology,2021,32(9):3159-3166.]   \n[23] 周旭姣,王琦,张登奎,等.基于SCS-CN模型的半干旱黄土高原 区秸秆炭覆盖集雨垄径流预测[J].干旱区地理,2021,44(1): 99-108.[Zhou Xujiao,Wang Qi, Zhang Dengkui,et al. Runoff estimation of ridge-furrow rainwater harvesting with maize straw biochar application based on soil conservation service curve number (SCS-CN) model in semiarid regions of China[J].Arid Land Geography,2021,44(1): 99-108.]   \n[24] 莫志成.土壤有机质的加热容量法快速检测分析[J].工程技术 研究,2019,15(125): 251-252.[Mo Zhicheng.Rapid detection and analysis of soil organic mater by heating capacity method[J]. Engineering and Technology Research,2019,15(125): 251-252.]   \n[25] 张英利,许安民,尚浩博,等.AA3型连续流动分析仪测定土壤 和植物全氮的方法研究[J].西北农林科技大学学报(自然科学 版),2006,34(1O): 128-132.[Zhang Yingli, Xu Anmin, Shang Haobo,et al.Determination study of total nitrogen in soil and plant by continuous flow analytical system[J]. Journal of Northwest A&F University (Natural Science Edition),2006,34(10): 128-132.]   \n[26] 宋海星,李生秀.根系的吸收作用及土壤水分对硝态氮、铵态氮 分布的影响[J].中国农业科学,2005,38(1): 96-101.[Song Haixing,Li Shengxiu.Efects of root uptake function and soil water on $N 0 _ { 3 } ^ { - } { - } \\mathrm { N }$ and $\\mathrm { N H _ { 4 } ^ { + } { - N } }$ distribution[J]. Scientia Agricultura Sinica, 2005,38(1): 96-101.]   \n[27] 叶峻.电感耦合等离子体原子发射光谱法(ICP-AES)测定不同 品种山药中矿物质元素与对比研究[JJ.中国无机分析化学, 2014,4(4): 6O-61.[Ye Jun.Determination of trace mineal elements in Chinese yam by microwave digestion inductively coupled plasma atomic emisson spectrometry (ICP-AES)and its comparative study[J]. Chinese Journal of Inorganic Analytical Chemistry, 2014, 4(4): 60-61.]   \n[28] 王改玲,石生新,王青杵,等.晋北黄土丘陵区不同林草措施的 蓄水保土和土壤水分效应研究[J].干旱区资源与环境,2012, 26(11): 172-177.[Wang Gailing,Shi Shengxin,Wang Qingchu,et al.Effectofdiferent forestand grass vegetationonsoil and water conservation and soil moisture in loess hilly area in northern Shanxi Province[J]. Journal of Arid Land Resources and Environment,2012,26(11): 172-177.]   \n[29] 路海东,薛吉全,郝引川,等.黑色地膜覆盖对旱地玉米土壤环 境和植株生长的影响[J].生态学报,2016,36(7):1997-2004. [Lu Haidong,Xue Jiquan,Hao Yinchuan,et al. Effects of black film mulching on soil environment and maize growth in dry land [J].Acta Ecological Sinica,2016,36(7): 1997-2004.]   \n[30] 王永鹏.秸秆还田与地膜覆盖耦合对玉米产量及土壤有机质平 衡的影响[D].兰州:兰州大学,2014.[Wang Yongpeng.Effect of straw returning and plastic film mulching coupling on maize yield and the balance of organic mater in the Loess Plateau[D]. Lanzhou: Lanzhou University,2014.]   \n[31] 沈晓燕,王永峰,温亚茹,等.园艺地布在软籽石榴园生产管理 中的应用效果[J].果树学报,2017,34(增刊):147-151.[Shen Xiaoyan,Wang Yongfeng,Wen Yaru,et al.Application effect of garden cloth in the production and management of soft seed pomegranate garden[J]. Journal of Fruit Science,2017,34(Suppl.): 147- 151.]   \n[32] 周建国,生静雅.园艺地布在现代果园行间管理中的应用[J].安 徽农业科学,2013,41(30):11972-11973.[Zhou Jianguo,Sheng jingya.Application of groundcover in modern orchard intercropping management[J]. Journal of Anhui Agricultural Sciences, 2013,41(30): 11972-11973.]   \n[33] 杨熠路,胡枫,倪照君,等.园艺地布覆盖对桃园土壤和桃果实 品质的影响[J].中国果树,2021(8): 24-30.[Yang Yilu, Hu Feng, Ni Zhaojun,et al.Effects of black ground fabric mulching on fruit quality and soil in peach orchard[J]. China Fruits,2021(8): 24-30.]   \n[34] 朱高立,黄炎和,林金石,等.模拟降雨条件下秸秆覆盖对崩积 体侵蚀产流产沙的影响[J].水土保持学报,2015,29(3):27-31, 37.[Zhu Gaoli,Huang Yanhe,Lin Jinshi,et al.Effect of straw mulch on colluvial soil erosion and yield of runoff and sediment under simulated rainfal[J]. Journal of Soil and Water Conservation,2015,29(3): 27-31,37.] [35] 李慧,靳志锋,岳胜如.冻融期不同地表覆盖模式对土壤水分的 影响[J].节水灌溉,2018,278(10):29-31,37.[Li Hui,Jin Zhifeng, Yue Shengru.Effects of diferent soil surface mulching method during freezing-thawing period on soil water[J].Water Saving Irrigation,2018,278(10): 29-31,37.] [36] 徐锡蒙,郑粉莉,吴红艳,等.玉米秸秆覆盖缓冲带对细沟侵蚀 及其水动力学特征的影响[J].农业工程学报,2015,31(24):   \n111-119.[Xu Ximeng,Zheng Fengli, Wu Hongyan, et al.Impacts of cornstalk mulching buffer stripon rill erosion and its hydrodynamic character[J]. Transactions of the Chinese Society of Agricultural Engineering (Transactions of the CSAE),2015,31(24): 111-119.] [37] 胥生荣,张恩和,马瑞丽,等.覆盖对枸杞根系土壤环境和水分 利用的影响[J]. 草业学报,2019,28(2):12-22.[Xu Shengrong, Zhang Enhe,Ma Ruili, et al.Efects of mulching on soil environment and water utilization by roots of Lycium barbarum[J]. Acta Prataculturae Sinica,2019,28(2): 12-22.] [38]LimaHAF,Filho CFF,Pimentel MM,et al. Geology,petrology and geochronology of the layered mafic-ultramafic intrusions in the Porto Nacional area,central Brazil[J]. Journal of South American Earth Sciences,2008,26(3): 300-317. [39]Zhang G S,Chan K Y,LiG D,et al. Effect of straw and plastic film management under contrasting tillage practices on the physical properties of an erodible loess soil[J]. Soil & Tillage Research,   \n2008,98(2): 113-119. [40]Wuest S B. Surface versus incorporated residue effects on water-stable aggregates[J].Soil& Tillage Research,2007,96(1-2): 124-130. [41] 李升东,王法宏,司纪升,等.耕作方式对土壤微生物和土壤肥 力的影响[J].生态环境学报,2009,18(5):1961-1964.[Li Shengdong,Wang Fahong,Si Jisheng,et al.Effect of different farming methods on soil microbial biomass and soil fertility[J].Ecology and Environmental Sciences,2009,18(5):1961-1964.] [42] 郑华斌,彭少兵,唐启源,等.免耕与秸杆覆盖对土壤特性、玉米 生长发育及产量的影响[J].作物研究,2007,21(增刊1):634-   \n638.[Zheng Huabin,Peng Shaobing,Tang Qiyuan,etal.Effects of no-tillage and straw mulching on soil characteristics,growth and yield of maize[J]. Crop Research,2007,21(Suppl.1): 634-638.] [43] 黄明,吴金芝,李友军,等.耕作力式和秸秆覆盖对旱地麦豆轮 作小麦籽粒产量、蛋自质含量和土壤硝态氮残留的影响[J].草 业学报,2018,27(9): 34-44.[Huang Ming,Wu Jinzhi,Li Youjun, et al. Effects of tillage method and straw mulching on grain yield and protein content in wheat and soil nitrate residue under a winter wheat and summer soybean crop rotation in drylands[J].Acta Prataculturae Sinica,2018,27(9): 34-44.] [44] 纪龙,申红芳,徐春春,等.基于非线性主成分分析的绿色超级 稻品种综合评价[J].作物学报,2019,45(7):982-992.[Ji Long, Shen Hongfang,Xu Chunchun, et al. Comprehensive evaluation of green super rice varieties based on nonlinear principal component analysis[J]. Acta Crops Sinica,2019,45(7): 982-992.] [45]刘建新,欧晓彬,刘秀丽,等.过氧化氢缓解裸燕麦幼苗低温胁 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "迫的主成分和隶属函数分析[J].植物研究,2018,38(5):748- 756.[Liu Jianxin, Ou Xiaobin,Liu Xiuli,et al. Principal component and subordinate function of the alleviating effects of hydro gen peroxide $\\mathrm { ( H } _ { 2 } \\mathrm { O } _ { 2 }$ )on low-temperature stress in naked oat (Avena nuda)seedlings[J].Bulletin of Botanical Research,2O18,38(5): 748-756.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Comprehensive evaluation of soil environmental factors under different mulching conditions in pear orchard in arid region ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CAO Gang'， BI Shuhai²， ZHAO Mingxin'， CAO Sufang',WANG Wei'， NIU Jijun²， LI Hongxu'(1.InsituteofFruitandFloricultureResearch,Gansu Academyof Agricultural Science,Lanzhou 73Oo70,Gansu,China;2.Gansu Yasheng Industry Limited Liability Company,Lanzhou 73O4Oo,Gansu, China)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study investigated the effects of diferent mulching materials on the changes of soil physical and chemical properties and nutrient content during the entire growth period of pear orchard,at Jingtai County, Gansu Province, China,analyzing the relationship between soil temperature,moisture, $\\mathsf { p H }$ ，and mineral nutrients and comprehensively evaluating the soil.Four mulching treatments were used in this experiment: no mulching (T1), gardening cloth mulching (T2),maize straw mulching (T3),and black plastic mulching (T4).The randomized block design was adopted. Each treatment plot consisted of 167 pear trees (covering an area of about $6 6 7 ~ \\mathrm { m } ^ { 2 } .$ ）, repeated for three times; soil samples of each plot were obtained from $0 { - } 2 0 ~ \\mathrm { c m }$ $2 0 { - } 4 0 ~ \\mathrm { c m }$ ,and $4 0 { - } 6 0 ~ \\mathrm { c m }$ soil layers.The results showed that (1) the treatments of gardening cloth mulching and black plastic mulching had a certain warming efect.The gardening cloth mulching could reduce the content of soil organic mater and the total salt content of soil. The treatments of plastic mulching film could increase the surface soil $\\mathfrak { p H }$ and accelerate the decomposition of organic matter in the surface soil. Maize straw mulching had welltemperature lowering and stabilizing effcts,and the effct of soil moisture increasing was obvious.Meanwhile,compared with the other three treatments, its soil moisture content significantly increased by $1 . 0 \\% { - 2 . 7 \\% }$ . (2) Compared with no mulching treatment,black film mulching could improve the $\\mathfrak { p H }$ and accelerate the decomposition of organic matter in topsoil, and the content of organic matter decreased by $3 3 . 1 \\%$ .At the same time,maize straw mulching significantly reduced the $\\mathfrak { p H }$ of each soil layer with a reduction range of $1 . 8 \\% - 4 . 6 \\%$ and promoted the increase of organic matter in $0 { - } 2 0 ~ \\mathrm { c m }$ soil layer with increasing the content of soil organic matter by $12 . 2 \\%$ .(3) The content of soil organic matter and total salt in $\\textstyle 0 - 4 0 \\ \\mathrm { c m }$ soil layer under gardening cloth mulching decreased. The contents of alkali-hydrolyzable nitrogen in O-20 and $2 0 { - } 4 0 ~ \\mathrm { c m }$ soil layers under black plastic mulching were $7 3 . 0 0 \\mathrm { m g \\cdot g ^ { - 1 } }$ and $6 4 . 5 3 ~ \\mathrm { m g \\cdot g ^ { - 1 } }$ ,respectively, which were significantly higher than those under no mulching treatment. Soil alkali-hydrolyzable nitrogen accumulated more in the deep layer ( $4 0 { - } 6 0 ~ \\mathrm { c m }$ soil layer) without mulching,which was significantly higher than that of maize straw and black plastic mulching.The content of available phosphorus in 0-20 and $2 0 { - } 4 0 ~ \\mathrm { c m }$ soil layers of each treatment was observed to be significantly different, and the order from high to low was $_ { \\mathrm { T 4 > T 3 > T 2 > T } }$ 1. Furthermore, maize straw mulching could increase the availability of potassium and available iron in soil. (4) According to the comprehensive assssment by principal component analysis,the effects of different mulching methods on the environmental factors of shallow soil in pear orchard were significantly greater than those of deep soil, and the effects of each mulching treatment in the $0 { - } 4 0 ~ \\mathrm { c m }$ soil layer were beter than those without mulching treatment. The comprehensive scores of corn straw mulching in $0 { - } 2 0 ~ \\mathrm { c m }$ and $2 0 { - } 4 0 ~ \\mathrm { c m }$ soil layers were 1.189 and 0.326, respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: arid region； different mulching； soil quality; principal component analysis",
+        "page_idx": 10
+    }
+]

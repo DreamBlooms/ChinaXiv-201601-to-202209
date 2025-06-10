@@ -1,0 +1,277 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高中心动脉脉压水平与慢性腹膜透析病人的心血管疾病相关",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨小兵',郭东风²,蒋建平1  \n1南方医科大学南方医院肾内科,广东广州 510515;岳阳市第一人民医院肾内科,湖南 岳阳 414000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的了解慢性腹膜透析病人的中心动脉脉压水平，分析其与心血管疾病(CVD)的关系。方法 单中心横断面研究，共纳人234例维持性腹膜透析病人（均接受腹膜透析3月以上）。采用SphygmoCor无创主动脉脉波分析仪检测病人的中心动脉收缩压和舒张压，脉压 $\\scriptstyle \\cdot =$ 收缩压-舒张压。CVD定义为临床确诊的缺血性心脏病,心力衰竭，脑卒中和外周血管性疾病。结果 有CVD的腹膜透析病人中心动脉脉压水平显著高于无CVD者 $( 5 1 . 7 \\pm 2 2 . 5 \\ \\mathrm { m m H g } \\ v s \\ 4 3 . 7 \\pm 1 7 . 8 \\ \\mathrm { m m H g } , P = 0 . 0 0 4 )$ ,而肱动脉脉压在两组病人间无显著差异( $6 6 . 7 { \\pm } 2 5 . 3 ~ \\mathrm { m m H g }$ Us $6 1 . 9 { \\pm } 1 9 . 7 ~ \\mathrm { m m H g } , P { = } 0 .$ $\\scriptstyle P = 0 . 1 0 6$ )。多因素Logistic回归分析后，中心动脉脉压仍独立与CVD相关(校正后OR $1 . 3 3 , 9 5 \\%$ 置信区间 $1 . 0 1 { - } 1 . 7 3 , P { = } 0 . 0 4 )$ 。结论 高中心动脉脉压水平与慢性腹膜透析病人CVD相关。关键词：中心动脉脉压;心血管疾病;腹膜透析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High central pulse pressure level is associated with cardiovascular disease in patients receiving maintenance peritoneal dialysis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Xiaobing, GUO Dongfeng², JIANG jianping   \nDepartentlcityes   \nYueyang 414000, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To evaluate the association betweencentral pulse pressure level and cardiovascular diseases (CVD)in patients receiving maintenance peritoneal dialysis.Methods This cros-sectional study was conducted in234 patientson maintenance peritoneal dialysis. Central pulse presure levels were measured using a SphygmoCor analyzer，and cardiovasculardiseasesweredefinedasdiagnosedischemicheartdisease,heartfailure,strokeorperipheralvasculardisease. Results The central pulse pressure levels of patients with CVD were significantly higher than those without CVD( $5 1 . 7 { \\pm } 2 2 . 5 \\$ Us $4 3 . 7 { \\pm } 1 7 . 8$ mmHg, $\\scriptstyle P = 0 . 0 0 4$ ), while the brachial pulse pressure levels were comparable between the two patient groups. After adjusting for brachial pulse pressureand other relevant risk factors,central pulse pressure level was found to independently associate with CVD (adjusted $\\mathrm { O R } { = } 1 . 3 3$ $9 5 \\% C \\mathrm { I }$ 1.01-1.73, $\\scriptstyle P = 0 . 0 4$ ). Conclusion High central pulse pressure level may serve as a risk factor for CVD in patients on maintenance peritoneal dialysis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: central pulse pressure; cardiovascular diseases; peritoneal dialysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "心血管疾病(CVD)是终末期肾病腹膜透析病人最常见的并发症和首要死亡原因[1-2]。我们之前的研究显示，腹膜透析病人的CVD患病率高达 $5 0 \\%$ ,超过 $30 \\%$ 的病人死于心血管并发症[3]。研究表明，慢性腹膜透析CVD有多种危险因素，包括传统心血管危险因素（老年、糖尿病、高血压、吸烟及血脂紊乱)和尿毒症、透析相关的危险因素(尿毒素、贫血、营养不良、液体过度负荷、炎症、残余肾功能丧失等)4。尽管有如此多危险因素，目前仍不断有新的危险因素被发现。寻找新的潜在危险因素，能进一步为防治慢性腹膜透析病人CVD提供新靶点和动态检测指标。中心动脉压是指升主动脉根部的血压，包括中心动脉收缩压和舒张压。中心动脉脉压(central pulse pressure, CPP) $\\mid =$ 中心动脉收缩压-舒张压。有证据显示，中心动脉血压及其相关指数与心血管风险的关系可能比传统的肽动脉血压更为密切，可能独立于肱动脉血压更好地预测心脑血管事件[5-6]。目前，CPP可以通过无创，自动的方法进行测量，在临床上易操作且重复性好，适用大样本人群的研究。截至目前，国内尚缺乏CPP水平在慢性腹膜透析病人中与CVD关系的大样本研究。本文拟通过检测慢性腹膜透析病人的CPP水平，分析其与CVD的关系，探明CPP能否做为一反映慢性腹膜透析病人CVD风险的简单、可靠指标。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1对象和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2012年6月\\~2014年6月在南方医科大学南方医院肾内科进行腹膜透析的病人。纳入标准：年龄 $\\scriptstyle \\geq 1 8$ 岁；腹膜透析方式为持续不卧床腹膜透析(CAPD)，透析时间$\\geqslant 3$ 个月，透析治疗方案稳定；有中心动脉血压检测结果及检测时间点1月内完整血化验指标和腹膜透析充分性评估资料。排除标准：腹膜透析前已有心血管疾病者。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 CVD定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照文献[3]，根据典型临床表现，心电图、超声心动图检查和实验室化验结果诊断的：(1)缺血性心脏病;(2)充血性心力衰竭;(3)脑卒中；(4)外周血管性疾病。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3中心动脉血压检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SphygmoCor无创主动脉脉波分析仪进行测量。病人坐位平静休息 $1 0 ~ \\mathrm { m i n }$ 后，使其手腕与心脏处于同一水平。病人放松、平静呼吸，将仪器探头置于桡动脉搏动最明显处，由机器自动显示主动脉搏动波形和计算中心动脉血压值。每个病人测量3次，取均值作为最终数据。中心动脉脉压 $\\dot { \\bf \\Phi } = { \\bf \\Phi }$ 中心动脉收缩压-中心动脉舒张压(单位, $\\mathrm { m m H g }$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4其他临床数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入选病人在4周内按预先设计的调查表(包括人口学资料、生活方式、疾病和用药史)接受问卷调查，并接受调查表规定的各项检查(包括体检和实验室检查）。伴随用药定义为持续用药4周以上的各类药物。病人血样于清晨空腹采取，按规定的方法(或用相同的试剂盒)在2周内完成各项指标检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将所有病人分为有或无心CVD两组。连续数据用均数±标准差表示，组间比较采用t检验；分类数据以例数(百分比)表示，组间比较采用确切概率法x检验。以CVD为因变量，采用多因素逐步回归Logistic模型分析CVD的相关危险因素。肱动脉脉压和单因素分析中 $P <$ 0.05的变量以前进法进入模型。分析软件采用SPSS$^ { 1 7 . 0 , P }$ 值为双侧检验， $P { < } 0 . 0 5$ 认为有统计学显著意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "234例腹膜透析病人中，113例有CVD,占 $4 8 . 3 \\%$ 。有CVD组病人年龄大，体重指数(BMI)、血甘油三酯水平、糖尿病和高血压史比例高，血白蛋白水平低。两组间的血胆固醇、血红蛋白、血钙磷和血全段甲状旁腺素水平无显著差别。有CVD组病人透析时长平均30个月， $\\mathbf { \\nabla } \\mathrm { K t } { } / \\mathbf { \\nabla }$ V平均1.9;无CVD组病人平均透析时长25个月， $\\mathrm { K t / V }$ 平均1.9;两组间比较无显著差异。伴随用药比例,包括血管紧张素系统抑制剂，钙离子拮抗剂，β受体阻滞剂及他汀等，在两组间比较亦无显著差别(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f359f9e590cbfb4f99e77bcb790d4ce8b6cd05f52ccff2465f5709f9c5c6add4.jpg",
+        "table_caption": [
+            "表1有或无心血管疾病腹膜透析病人的临床特征Tab.1 Characteristics of PD patients with or without cardiovascular disease"
+        ],
+        "table_footnote": [
+            "Abbreviations:PD，peritoneal dialysis；iPTH,intactparathyroidhormone；CRP,C-reactiveprotein；ACEI，angiotensin converting enzyme inhibitors;ARB,anigotensin II type Ireceptor blockers; CCB,Calcium channel blockers. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>With CVD (n=113)</td><td>Without CVD (n=121)</td><td>P</td></tr><tr><td>Demographics</td><td></td><td></td><td></td></tr><tr><td>Age (year)</td><td>56.7±13.7</td><td>49.5±14.3</td><td><0.001</td></tr><tr><td>Male,n (%)</td><td>53(46.9)</td><td>54(44.6)</td><td>0.793</td></tr><tr><td>Body-mass Index (kg/m)</td><td>22.8±3.3</td><td>21.5±3.2</td><td>0.004</td></tr><tr><td>Smoking, n (%)</td><td>14(12.4)</td><td>8(6.6)</td><td>0.178</td></tr><tr><td>Diabetes,n (%)</td><td>27(23.9)</td><td>15(12.4)</td><td>0.027</td></tr><tr><td>History of hypertension, n (%)</td><td>108(95.6)</td><td>105(86.8)</td><td>0.022</td></tr><tr><td>Laboratory parameters</td><td></td><td></td><td></td></tr><tr><td>Serum triglycerides (mmol/L)</td><td>2.1±1.2</td><td>1.8±1.0</td><td>0.031</td></tr><tr><td>Serum total cholesterol (mmol/L)</td><td>5.0±1.2</td><td>5.3±1.3</td><td>0.143</td></tr><tr><td>Serum HDL-cholesterol (mmol/L)</td><td>1.0±0.3</td><td>1.1±0.3</td><td>0.053</td></tr><tr><td>Hemoglobin (g/L)</td><td>104.1±19.6</td><td>100.3±20.7</td><td>0.149</td></tr><tr><td>Serum creatinine (μmol/L)</td><td>917.4±297.6</td><td>919.7±346.6</td><td>0.956</td></tr><tr><td>Serum calcium(mmol/L)</td><td>2.2±0.2</td><td>2.2±0.3</td><td>0.978</td></tr><tr><td>Serum phosphhorus (mmol/L)</td><td>2.1±0.6</td><td>2.0±0.5</td><td>0.735</td></tr><tr><td>Serum iPTH (pg/ml)</td><td>458.0±484.8</td><td>415.6±348.8</td><td>0.449</td></tr><tr><td>Serum albumin (g/L)</td><td>38.3±5.2</td><td>39.7±6.2</td><td>0.076</td></tr><tr><td>Serum CRP (mg/L)</td><td>11.2±19.9</td><td>7.7±11.3</td><td>0.124</td></tr><tr><td>PD and combined therapy</td><td></td><td></td><td></td></tr><tr><td>Duration of PD (month)</td><td>30.0±24.0</td><td>25.0±21.4</td><td>0.098</td></tr><tr><td>Kt/V</td><td>1.9±0.4</td><td>2.0±0.7</td><td>0.132</td></tr><tr><td>ACEI/ARB,n (%)</td><td>76(67.3)</td><td>87(71.9)</td><td>0.478</td></tr><tr><td>CCB, n (%)</td><td>78(69.0)</td><td>76(62.8)</td><td>0.337</td></tr><tr><td>β-blocker,n (%)</td><td>60(53.1)</td><td>59(48.8)</td><td>0.516</td></tr><tr><td>Statins,n (%)</td><td>12(10.6)</td><td>5(4.1)</td><td>0.078</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2有CVD的腹膜透析病人中心动脉脉压(CPP)水平显著升高",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有CVD病人的CPP水平是 $5 1 . 7 { \\pm } 2 2 . 5 ~ \\mathrm { m m H g }$ ，显著高于无CVD者 $( 4 3 . 7 { \\pm } 1 7 . 8 ~ \\mathrm { m m H g } , P { = } 0 . 0 0 4 )$ ;而CVD组肱动脉脉压(brachial pulse pressure,BPP)水平与无",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CVD组比较无显著差别（ $6 6 . 7 { \\scriptstyle \\pm 2 5 . 3 }$ vs $6 1 . 9 { \\pm } 1 9 . 7 , P { = }$ 0.106)。两组病人在肱动脉收缩压、舒张压上无显著差别；有CVD组病人中心动脉收缩压偏高( $\\scriptstyle P = 0 . 0 5 3 ,$ ，舒张压无显著差别(表2，图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/001e4974447f145b16a35ae8bd92b14c9feb9bc44ba86f7354078d142efcd809.jpg",
+        "table_caption": [
+            "表2有或无心血管疾病腹膜透析病人的中心动脉和肱动脉血压水平Tab.2 Blood pressure levels of PD patients with or without cardiovascular disease"
+        ],
+        "table_footnote": [
+            "Abbreviations: PP:Pulse pressure; SBP:Systolic blood pressure; DBP:Diastolic blood pressure. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>With CVD (n=113)</td><td>Without CVD (n=121)</td><td>P</td></tr><tr><td>Central PP (mmHg)</td><td>51.7±22.5</td><td>43.7±17.8</td><td>0.004</td></tr><tr><td>Central SBP (mmHg)</td><td>138.2±27.9</td><td>131.5±23.2</td><td>0.053</td></tr><tr><td>Central DBP (mmHg)</td><td>86.5±16.6</td><td>87.7±13.7</td><td>0.563</td></tr><tr><td>Brachial PP(mmHg)</td><td>66.7±25.3</td><td>61.9±19.7</td><td>0.106</td></tr><tr><td>Brachial SBP (mmHg)</td><td>151.3±28.2</td><td>148.0±24.6</td><td>0.338</td></tr><tr><td>Brachial DBP (mmHg)</td><td>84.6±17.1</td><td>86.1±14.5</td><td>0.474</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e557d91858388cc42edb19212bab38335ef561dea4fa8c3fddb1d2c87b85eb83.jpg",
+        "img_caption": [
+            "图1有无心血管疾病腹膜透析病人的中心动脉脉压和肱动脉脉压水平比较Fig.1 Pulse pressure levels of PD patients with or withoutcardiovascular disease."
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3CPP水平是腹膜透析病人CVD的独立危险因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "透析病人心血管危险因素包括普通人群危险因素，如老年，糖尿病，高血压，吸烟和高血脂，以及尿毒症相关危险因素，如尿毒素，贫血，营养不良，透析不充分等，将CPP、肽动脉脉压和上述可能的危险因素纳入多因素Logistic模型进行分析后显示，CPP是腹膜透析病人CVD的独立危险因素，校正后OR(每升高1个SD)$1 . 3 3 , 9 5 \\%$ 置信区间， $1 . 0 1 - 1 . 7 3 , P { = } 0 . 0 4$ （表3）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究表明，有CVD的慢性腹膜透析病人，其中心动脉的脉压水平较无CVD病人显著升高，经多种危险因素校正后，中心动脉脉压仍是慢性腹膜透析病人CVD的独立危险因素。联合其他CVD危险因素，检测和动态观察中心动脉脉压水平，有助于临床医生筛查高CVD风险的腹膜透析病人、协助判断干预效果（如降压、超滤治疗)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "脉压指收缩压和舒张压之差，脉压大小可以反映大动脉的僵硬程度，是心血管事件和死亡的独立危险因素[。在日常临床实践中,病人往往通过袖套式血压计测量上臂肽动脉血压，此时通过收缩压和舒张压计算出的脉压为肽动脉脉压，主要反映外周动脉僵硬度。中心动脉压测量的是主动脉血压，此时计算的脉压更能反映大动脉的僵硬度和心脑肾重要脏器的灌注压。我们的研究表明，有CVD的慢性腹膜透析病人中心动脉脉压水平显著高于无CVD者，而两者的肱动脉脉压水平并无显著差别。在校正肱动脉脉压、传统及腹膜透析相关的CVD危险因素后，中心动脉脉压仍与CVD显著相关，说明中心动脉脉压比外周动脉脉压(肱动脉脉压)更能反映慢性腹膜透析病人的CVD风险。在一晚期肾脏病病人的研究中，中心动脉脉压独立预测死亡，而肱动脉脉压无预测作用8，支持我们上述观点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近期研究显示：即使收缩血压正常，高脉压仍是发生中风的独立危险因子9；在既往无CVD的人群中，高中心动脉脉压水平 ${ \\geqslant } 5 0 \\ \\operatorname* { m m } \\mathrm { H g }$ )能独立预测CVD发生[0];糖尿病和空腹血糖异常的病人中心动脉脉压水平显著高于无糖尿病者[11];在有慢性肾脏病但未透析的病人中，中心动脉脉压水平较外周动脉脉压与肾功能下降更相关[]；在腹膜透析病人中的研究显示，高脉压水平与死亡相关[13]。目前国内尚无大样本腹膜透析病人研究观察中心动脉脉压与CVD的关系，本研究结果补充了这方面数据。因中国腹膜透析病人在人种、发病年龄、肾脏原发疾病等与欧美病人存在差别，本研究结论也从侧面反应了在不同人种、不同原发疾病人群中，高中心动脉脉压水平均与CVD密切相关。在腹膜透析这一CVD高危人群中，监测和控制中心动脉脉压有更重要临床意义。中心动脉脉压可独立影响血管重塑4，是血管老化的预测因子[15],可能是其与CVD相关的机制之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d3d19ec69bb14cbb4cc4d71b745b8e8b7e05294e23e27cf291204dc8d07be03.jpg",
+        "table_caption": [
+            "表3多因素Logistic回归分析：234例腹膜透析透析病人心血管疾病危险因素 Iab.3Multivariate Logistic regresson analysis: risk factors associated with CVD in 234PD patients "
+        ],
+        "table_footnote": [
+            "BMI: Body-mass indes; SBP: Systolic blood pressure; PP: Pulse pressure; PD: Peritoneal dialysis. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Crucial OR (95% CI)</td><td>P</td><td>Adjusted OR (95% CI)</td><td>P</td></tr><tr><td>Age (per 1 year increase)</td><td>1.04 (1.02-1.06)</td><td><0.001</td><td>1.03 (1.01-1.06)</td><td><0.001</td></tr><tr><td>BMI (per 1 kg/m² increase)</td><td>1.12 (1.04-1.22)</td><td>0.005</td><td>1.12 (1.02-1.23)</td><td>0.020</td></tr><tr><td>Diabetes (yes vs no)</td><td>2.22 (1.11-4.43)</td><td>0.024</td><td></td><td></td></tr><tr><td>History of hypertension (yes Vs no)</td><td>3.29 (1.16-9.30)</td><td>0.025</td><td></td><td></td></tr><tr><td>Central SBP (per 1 mmHg increase)</td><td>1.01 (1.00-1.02)</td><td>0.055</td><td></td><td></td></tr><tr><td>Central PP (per SD increase)</td><td>1.42 (1.11-1.81)</td><td>0.005</td><td>1.33 (1.01-1.73)</td><td>0.040</td></tr><tr><td>Brachial PP (per SD increase)</td><td>1.19 (0.96-1.48)</td><td>0.108</td><td></td><td></td></tr><tr><td>Serum triglycerides (per1 mmol/L increase)</td><td>1.31 (1.02-1.69)</td><td>0.034</td><td>1.47 (1.08-2.00)</td><td>0.014</td></tr><tr><td>Serum albumin (per1 g/L decrease)</td><td>1.04 (1.00-1.09)</td><td>0.077</td><td>1.08 (1.02-1.15)</td><td>0.006</td></tr><tr><td>Duration of PD (per month increase)</td><td>1.01(1.00-1.02)</td><td>0.099</td><td></td><td></td></tr><tr><td>Statins (yes vs no)</td><td>2.76 (0.94-8.09)</td><td>0.065</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究为单中心研究，虽然是在大腹透中心进行的大样本研究，但研究结果仍需多中心、更大样本量的研究进一步验证。另本研究为横断面研究，所有病人均在腹膜透析和降压治疗后，病人的脉压并不是其原始状态，研究结论并不能反映原始中心动脉脉压值和CVD的关系。横断面研究限制了我们分析中心动脉脉压水平的动态变化和CVD的关系，这一点值得在前瞻性设计中进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总之，我们的研究表明，高中心动脉脉压水平与慢性腹膜透析病人心血管疾病显著相关。无创性中心动脉脉压检测自动简单，人为误差小，适用大腹透中心门诊病人的随访和检测，有助于临床医生及早预防和处理CVD，降低腹膜透析病人CVD死亡风险和延长生存期。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Foley RN，Parfrey PS,Sarnak MJ.Clinical epidemiologyof cardiovascular disease in chronic renal disease[J].Am J Kidney Diseases,1998,32(5, Supplement 3): S112-9.   \n[2]De Jager DJ,Grootendorst DC,Jager KJ,et al.Cardiovascular and noncardiovascular mortality among patients starting dialysis [J]. JAMA,2009,302(16): 1782-9.   \n[3]Hou FF,Jiang JP,Chen JH,et al.China collaborative study on dialysis:a multi-centers cohort study on cardiovascular diseases in patients on maintenance dialysis[J].BMC Nephrol,2O12,13:94.   \n[4]Krediet RT,Balafa O.Cardiovascular risk in the peritoneal dialysis patient[J].Nat Rev Nephrol,2010,6(8): 451-60.   \n[5]Agabiti-Rosei E,Mancia G,O'rourke MF,et al.Central blood pressure measurements and antihypertensive therapy a consensus document[J].Hypertension,2007,50(1): 154-60.   \n[6]Boutouyrie P,Alivon M,Precision HA.Accuracy and added value of central pressure measurement [J].J Hypertens,2O11，29(6): 1059-60.   \n[7]Safar ME.Pulse pressure,arterial stiffness,and cardiovascular risk [J]. Curr Opin Cardiol,2000,15(4): 258-63.   \n[8]Safar ME,Blacher J,Pannier,et al.Central pulse pressure and mortality in End-StageRenal disease[J].Hypertension,2Oo2,39(3): 735-8.   \n[9]Okada K, Iso H,Cui RZ,et al. Pulse pressure is an Independent risk factor for stroke among middle-aged Japanese with normal systolic blood pressure:the JPHC study[J].J Hypertens，2011,29(2): 319-24.   \n[10]Roman MJ,Devereux RB,Kizer JR,et al.High central pulse pressure is independently associated with adverse cardiovascular outcome the strong heart study[J].JAm Coll Cardiol, 20o9,54(18): 1730-4.   \n[11] Chirinos JA,Segers P, Gillebert TC,et al. Central pulse pressure and its hemodynamic determinants in middle-aged adults with impaired fasting glucose and diabetes:the asklepios study [J]. Diabetes Care,2013,369(8): 2359-65.   \n[12]Gosse P, Coulon P,Papaioannou G,et al.Long-term decline in renal function islinked to initial pulse pressure in the essential hypertensive[J].JHypertens,2009,27(6):1303-8.   \n[13]Fang W,Yang X,Bargman JM,et al.Association between pulse pressure and mortality in patients undergoing peritoneal dialysis[J]. Peritoneal Dialysis International, 20o9,29(2):163-70.   \n[14] Ott C,Raff U. Harazny JM el al.central pulse pressure is an Independent determinant of vascular remodeling in the retinal circulation[J].Hypertension,2013,61(6): 1340-5.   \n[15]Oscar R,Rene OA, Joan FH, et al. Central aortic pulse pressure, a better predictor of vascular aging[J].J Clin Hypertens,2O13,15(1): 107. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：吴锦雅）",
+        "page_idx": 3
+    }
+]

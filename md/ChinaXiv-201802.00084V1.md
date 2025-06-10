@@ -1,0 +1,136 @@
+# 甲醇催化燃烧动力学及铂催化剂结构选择性研究
+
+涂维峰1,2，冉景煜1,3，张力1,3
+
+（1、低品位能源利用技术及系统教育部重点实验室（重庆大学），重庆400044;2、Department of Chemical Engineering and Applied Chemistry,University of Toronto,Toronto,M5T 3E5;3、重庆大学能源与环境研究所，重庆400044）
+
+摘要在严格的动力学控制下研究了甲醇催化燃烧反应动力学本征特性。铂催化剂上甲醇催化燃烧由氧气在催化剂上的活化过程控制，催化燃烧速率受限于铂表面的活性氧原子浓度；甲醇催化燃烧速率等于氧气在催化剂表面上的活化速率，随氧气分压增加而线性增加而不依赖于甲醇的分压。催化燃烧反应速率常数随催化剂颗粒直径减小而降低，随铂原子配位数减小而降低，由于少部分活性组分更容易吸附在铂催化中低配位数的原子上限制了氧气的活化过程。在微量催化剂的协助下甲醇就能实现稳定的低温催化燃烧，因而能有效地改善微细燃烧器内燃烧特性。
+
+关键词催化燃烧；甲醇；氧气活化；颗粒直径；动力学本征中图分类号：TK16 文献标识码：A
+
+# Structure Sensitivity and Kinetic of Methanol Catalytic Combustion over
+
+# Supported Pt Catalyst
+
+TU Weifeng1,2 RAN Jingyu1,3 ZHANG Li1,3
+
+1. KeyLaboratoryofLow-gradeEnergyUtilizationTechnologiesandSystems (Chongqing University),MinistryofEducation,
+
+Chongqing 400044, China;
+
+2.Department of Chemical Engineering and Applied Chemistry,Universityof Toronto,Toronto,Canada,M5T3E5;
+
+3.Institute of energy and environment, Chongqing University，Chongqing40o044， China)
+
+Abstract: Intrinsic kinetic of methanol catalytic combustion was investigated under kinetically control regime.The rates of methanol catalytic combustion are determined by oxygen activation on supported platinum catalyst and limited by the number of surface reactive oxygen atoms on platinum cluster surface.The rate of methanol catalytic combustion which equals to the rate of oxygen dissociation on Pt cluster increases with increasing partial pressure of oxygen and is independent of partial pressure of methanol.The rate constant of methanol catalytic combustion increases as the coordination number of surface platinum atomand the diameter of platinum cluster,because a small amount of inert species preferentially bind to coordinatively unsaturated surface platinum atoms, which prevents these atoms to involve catalytically activation of oxygen. Methanol catalytic combustion can occur eficiently over a trace amount of supported platinum catalyst at low temperatures,showing a potential advantage in improving the combustion characteristic in a micro scale combustor.
+
+Key words: Catalytic combustion；Methanol; Oxygen activation； Cluster diameter； Intrinsic kinetic
+
+# 0引言
+
+随着微电子机械系统(MEMS)技术的商业应用，促使低质量、高比能的微型动力源的研究成为能源领域的热点问题。甲醇是最简单的醇类燃料，具备来源广泛，且具有容易存储和运输等特点；另外甲醇的体积能量密度和质量能量密度都非常高（5600$\mathrm { { W } { \mathrm { - h r / k g } } ) }$ ；因而目前甲醇被广泛地用于燃料电池[1或替代柴油[2]。表面催化燃烧技术能降低燃料的着火温度还能稳定燃烧并提高燃烧效率，削弱微细燃烧器的壁面粹熄效应[3]。因此研究甲醇催化燃烧技术对微型燃烧器的研究与开发具重要的现实意义。
+
+研究表明催化燃烧（ $\mathrm { C H } _ { 4 } ^ { [ 4 ] }$ 、 $\mathrm { C } _ { 2 } \mathrm { H } _ { 6 } { } ^ { [ 5 ] }$ 以及 $\mathrm { C O ^ { [ 6 ] } }$ ）经历了一系列燃料与表面活性氧分子的动力学耦合过程。催化燃烧速度及其关键控速步骤依赖于表面活性物种的特性和覆盖率。甲醇具有三种不同的化学键，如C-H、O-H和C-O 键，因此甲醇催化燃烧过程中存在多种活化路径，生成多种含碳产物，使甲醇催化燃烧变得非常复杂。甲醇催化燃烧过程中，由于甲醇和氧气分压的变化，铂催化剂表面活性物种将发生一系列动态变化，进而控制甲醇催化燃烧速度，而目前文献中鲜有这方面的报道[7-9]。本文将在严格的化学动力学控制下研究甲醇在铂催化剂表面上低温（353-473K）催化燃烧的动力学本征特性，分析甲醇和氧气分压以及催化剂结构特性对甲醇催化燃烧反应的影响。从而进一步深入认识表面催化燃烧本质，为甲醇燃料在微型燃烧器领域的研究与应用奠定基础。
+
+# 1 实验方法
+
+# 1.1催化剂的制备与表征
+
+使用在空气气氛下 $6 7 3 \mathrm { ~ K ~ }$ 焙烧3小时的二氧化硅（Grace，比表面积 $3 3 0 \mathrm { m } ^ { 2 } \mathrm { g } ^ { - 1 }$ ，孔体积 $1 . 2 5 \mathrm { c m } ^ { 3 } \mathrm { g } ^ { - 1 }$ ，颗粒直径 $0 { \sim } 7 5 ~ \mu \mathrm { m } )$ 作为载体。用等体积方法将硝酸四氨（Sigma Aldrich, $9 9 . 9 9 5 \ \%$ ）的水溶液浸渍二氧化硅载体。然后将样品在 $3 5 3 \mathrm { ~ K ~ }$ 干燥24小时，再在空气（Linde, $9 9 . 9 9 \%$ $0 . 3 \mathrm { c m } ^ { 3 } \mathrm { g } ^ { - 1 } \mathrm { s } ^ { - 1 } )$ 气氛下 $6 7 3 \mathrm { K }$ $( 0 . 0 5 \mathrm { K } \mathrm { s } ^ { - 1 } )$ 焙烧5个小时。另外将其中一部分干燥后的样品在 $7 7 3 \mathrm { ~ K ~ }$ 焙烧5个小时以获得较大的铂颗粒直径。将焙烧后的催化剂在 $6 7 3 \mathrm { K } ( 0 . 0 3 3 \mathrm { K } \mathrm { s } ^ { - 1 } ) 5 \%$ 的氢气（Linde， $0 . 3 \mathrm { c m } ^ { 3 } \mathrm { g } ^ { - 1 } \mathrm { s } ^ { - 1 } )$ 气氛下还原1小时。将催化剂暴露在空气前需要在室温 $1 \%$ 氧气气氛下老化6个小时。同时，使用不可逆氢气吸附测量铂在二氧化硅上的分散度。催化剂上负载的平均铂颗粒直径由铂的分散度和半球模型计算得到[]。
+
+# 1.2催化燃烧速率测定
+
+使用过量稀释的催化剂进行本征动力学测量以消除因燃烧放热而形成的温度和浓度梯度。将 $1 \%$ $\mathrm { P t } / \mathrm { S i O } _ { 2 }$ 催化剂与二氧化硅混合形成二氧化硅和催化剂的混合物（混合比例为100-400)，再将此混合物压片、破碎成125-180 微米的颗粒。再用大量的二氧化硅在微细燃烧器内稀释二氧化硅与催化剂的混合物颗粒，最终获得总的二氧化硅与催化剂的比例为5700。微细通道内甲醇催化燃烧实验系统（图1)，包括反应物配气部分、微细通道及产物分析部分。
+
+![](images/98b7be02a09f575ab4608e0f9154eee53383272b616af8da980a22645268c7c4.jpg)  
+图1微细通道内甲醇催化燃烧实验系统
+
+![](images/4a5e3172325739e48b075f796a1730e22a7be462bc294d69ad9c71ae750b938f.jpg)  
+Fig.1 Experimental setup of methanol catalytic combustion in a micro-chamber   
+图2甲醇在 $1 \% \mathrm { P t } / \mathrm { S i O } _ { 2 }$ 和 $\mathrm { S i O } _ { 2 }$ 上催化燃烧过程中甲醇转化率随燃烧温度的变化  
+Fig.2 Methanol conversion during catalytic combustion on $1 \%$ $\mathrm { P t } / \mathrm { S i O } _ { 2 }$ and $\mathrm { S i O } _ { 2 }$ as a function of temperature
+
+首先将含有催化剂（ $0 . 0 5 \mathrm { m g } 1 \% \mathrm { P t } / \mathrm { S i O } _ { 2 }$ ）的混合物在氢气（Linde， $9 9 . 9 9 9 \%$ ）气氛下 $6 7 3 \mathrm { K }$ 还原1小时以活化铂催化剂。微细反应通道（内径 $8 \mathrm { m m }$ 长 $1 5 ~ \mathrm { m m }$ ）内催化剂床层温度（ $3 5 3 \substack { - 8 0 0 \mathrm { K } }$ ）由轴向伸入的热电偶测得。使用质量流量计控制 $5 \% \mathrm { O } _ { 2 } / \mathrm { H e }$ (Linde, $9 9 . 9 9 \%$ ）和He（Linde, $9 9 . 9 9 9 \%$ )，用注射泵（LEGATO100）将甲醇燃料注入气路。用加热带将管路维持在 $3 7 3 \mathrm { ~ K ~ }$ 以防止甲醇和产物冷凝。反应物和产物组分由在线微型色谱仪测量，微型色谱仪（CP4900）装有HP-PLOTU和MolSieve5A两根色谱柱，已及两个独立的热导检测器。
+
+# 2甲醇在负载型铂催化剂上低温催化燃烧
+
+在负载型铂催化剂上甲醇低温催化燃烧主要生成甲醛、甲酸甲酯、二氧化碳和水。图2表示甲醇在负载型铂催化剂！ $\mathrm { { ' 0 . 0 5 m g ~ 1 . 0 ~ w t ^ { 0 } / o ~ P t / S i O _ { 2 } } } \mathrm { { ' } }$ 上和载体上催化燃烧 $\left( 1 . 5 \mathrm { k P a } \mathrm { O } _ { 2 } , 1 \mathrm { k P a } \mathrm { C H } _ { 3 } \mathrm { O H } \right)$ 转化率（参与燃烧的甲醇占入口处甲醇的百分比： $X _ { \mathrm { C H 3 O H } } { = }$ $F _ { \mathrm { C H 3 O H , R e a c t e d } } / F _ { \mathrm { C H 3 O H , 0 } } )$ 随温度的变化特性。图3表示甲醇在铂催化剂上催化燃烧过程中含碳产物的选择
+
+性随温度分布特征。
+
+![](images/35642fb453be8c72f05b763b58a218768e56896f452544d09561357089633902.jpg)  
+图3甲醇催化燃烧过程中含碳产物随温度的分布特性 Fig.3 Selectivity of carbon containing products during methanol catalytic combustion as a function of temperature
+
+![](images/8b756785f90d84aaad59644ff6a875ff800ae5ac2c61a5673239dfa9366df9ce.jpg)
+
+![](images/6c6e32827cba7f57eab7452346105b23a4794aaa06c152c10d97631717abab44.jpg)  
+图4不同催化剂颗粒内稀释比下甲醇催化燃烧反应速率随氧 气分压的变化特性 Fig.4Methanol catalytic combustion rates at different intra-particle dilution ratios as a function of oxygen pressure   
+图5不同甲醇分压下甲醇催化燃烧反应速率随氧气分压的变化特性  
+Fig.5 Methanol catalytic combustion rates as a function of oxygen pressure at different methanol pressure
+
+在铂催化剂上甲醇催化燃烧能在室温发生，其反应速率随着温度升高而加快。在室温（ $\left( 3 0 0 \mathrm { K } \right)$ 附近，副产物甲酸甲酯为主要产物（在313K时，甲酸甲酯的选择性为 $83 \%$ )；随着温度增加甲酸甲酯的选择性快速下降，同时中间产物甲醛成为主要燃烧产物；当温度高于 $3 7 3 \mathrm { ~ K ~ }$ 甲醛和甲酸甲酯都与氧气反应快速生产成二氧化碳。甲醇在铂催化剂上燃烧产物中没有检测到任何一氧化碳，因为CO在铂催化剂上的燃烧速度远远大于甲醇的催化燃烧速度。甲醇在载体 $\mathrm { S i O } _ { 2 }$ 上的反应较慢，只有温度高于 $4 5 0 \mathrm { ~ K ~ }$ 才发现产物生成。在铂催化剂上和二氧化硅上甲醇催化燃烧转化率为 $50 \%$ 的反应温度分别为472K和627K；而当温度为 $3 7 3 \mathrm { ~ K ~ }$ 时，甲醇在铂催化剂上的燃烧转化率是在 $\mathrm { S i O } _ { 2 }$ 上的两个数量级（如图2)，而且中间产物和副产物在二氧化硅上的反应完全不可测。因此说明当温度为 $3 7 3 \mathrm { ~ K ~ }$ 时甲醇在铂催化剂上催化燃烧过程都不会受载体 $\mathrm { S i O } _ { 2 }$ 的影响。
+
+甲醇催化燃烧是一个高放热反应（ $\Delta \mathrm { H } ^ { \circ } \sb { 2 9 8 } =$ $- 7 2 6 . 5 \mathrm { ~ k J / m o l } ;$ ，因此在催化燃烧过程中必然会导致催化剂活性位的温度增加以及反应速率加快，形成沿燃烧器内和催化剂颗粒内温度和浓度梯度。因此需要限制和消除传热传质的影响并保证催化燃烧处于严格的化学动力学控制下进行。本文使用 $\mathrm { S i O } _ { 2 }$ （载体）在催化剂颗粒间和燃烧器内稀释催化剂以减少单位体积内放热量，进而消除传热传质对催化燃烧动力学本征的影响。图4为甲醇催化燃烧速率（单位铂催化剂活性中心的反应速度）在不同催化剂颗粒间稀释比( $\mathrm { S i O } _ { 2 }$ 与催化剂的稀释比为 $1 0 0 { : } 1 { \sim } 4 0 0 { : } 1 \rangle$ 和相同甲醇分压（ $0 . 5 \ \mathrm { k P a } \$ ）下随氧气分压的变化。当催化剂颗粒内稀释比高于100:1后甲醇催化燃烧速率不随颗粒内稀释比变化，表明甲醇催化燃烧速率与催化剂活性中心数目成正比。因此在如此高的稀释比下甲醇催化燃烧过程完全处于化学动力学的控制下而没有受到传热传质的影响[10]。
+
+# 3甲醇催化燃烧动力学本征分析
+
+# 3.1甲醇及氧气分压对甲醇催化燃烧的影响
+
+在恒定温度（373K）恒定空速（ $1 . 2 6 \times 1 0 ^ { 8 }$ $\mathrm { c m } ^ { - 3 } / \mathrm { g } _ { \mathrm { c a t } ^ { - } } \mathrm { h } ^ { \cdot }$ ）条件下研究了甲醇和氧气分压（1.0-2.0kPa $\mathrm { C H } _ { 3 } \mathrm { O H }$ $0 { \cdot } 1 0 \mathrm { k P a } \mathrm { O } _ { 2 } .$ )对铂基催化剂 $( 0 . 0 5 \mathrm { m g } 1 . 0 \$ $w t \%$ $\mathrm { P t } / \mathrm { S i O } _ { 2 }$ ）上甲醇催化燃烧速度的影响。当甲醇和氧气的转化率低于 $10 \%$ 时，可以认为在整个燃烧器内催化燃烧速度保持不变，因此催化燃烧反应平均速度可由如下公式（1）计算：
+
+$$
+r _ { \mathrm { C H } _ { 3 } \mathrm { O H } } { = } \frac { X _ { \mathrm { C H } _ { 3 } \mathrm { O H } } F _ { \mathrm { C H } _ { 3 } \mathrm { O H } , \mathrm { O } } } { W }
+$$
+
+式中 $r _ { \mathrm { C H 3 O H } }$ 为甲醇催化燃烧速率( $\mathrm { i m o l }$ （ $\mathrm { \dot { g } }$ -atom $\mathrm { \ P t }$ surface ${ \boldsymbol { \cdot } } { \boldsymbol { \mathrm { s } } } { \boldsymbol { ) } } ^ { - 1 }$ )， $X _ { \mathrm { C H 3 O H } }$ 为甲醇转化率， $F _ { \mathrm { C H 3 O H } , 0 }$ 为进入燃烧器的甲醇摩尔流量（ $\mathrm { | m o l \ s ^ { - 1 } }$ ， $W$ 为铂催化剂中有效活性中心数目（ $\mathbf { g }$ -atom $\mathrm { P t } _ { \mathrm { s u r f a c e } } )$ 。图5为在不同甲醇分压下甲醇在铂基催化剂（ $\langle 1 . 0 \ \mathrm { w t ^ { 0 } / o } \ \mathrm { P t / S i O } _ { 2 }$ ）上催化燃烧反应速率（ $\cdot r _ { \mathrm { C H 3 O H } } )$ ）随氧气分压的变化特性。图5表明甲醇催化燃烧速率不随甲醇分压的变化而变化，而随氧气分压的增加而线性增加。由实验结果可知甲醇催化燃烧速率对甲醇分压的反应级数为零级，而对氧气分压的反应级数为一级；所以实验测得的甲醇催化燃烧速率方程为：
+
+$$
+r _ { \mathrm { C H } _ { 3 } \mathrm { O H } } { = } k _ { \mathrm { e f f } } [ \mathrm { C H } _ { 3 } \mathrm { O H } ] ^ { 0 } [ \mathrm { O } _ { 2 } ] ^ { 1 }
+$$
+
+式中 $k _ { \mathrm { e f f } }$ 为甲醇催化燃烧速率常数（mol(g-atom$\mathrm { P t } _ { \mathrm { s u r f a c e } ^ { - \mathrm { S } - \mathrm { k P a } } ) ^ { - 1 } \ : , }$ 。由甲醇催化燃烧速率对甲醇及氧气分压的依赖特性可知氧气在催化剂上的活化过程限制了甲醇催化燃烧速率，因为氧气活化过程只依赖于氧气分压[5]。由于氧气活化为甲醇催化燃烧过程中的速控步骤将使铂催化剂表面活性中心上活性氧原子的生成速率远远低于甲醇与活性氧原子的反应速率，导致表面活性氧原子的数目被消耗殆尽形成类似纯净的催化剂表面从而限制了甲醇催化燃烧速率。另外铂催化剂表面上也不可能存在甲醇的吸附物种，否则增加甲醇分压将导致催化燃烧速率下降。
+
+# 3.2甲醇催化燃烧反应机理
+
+基于紫外线光电子能谱[11]和泛密度功能函数[12]的研究，甲醇分子首先通过其氧原子平衡地吸附在表面铂原子上。在表面活性氧原子的促进下，甲醇分子经历一些列活化步骤，首先断开O-H键而形成表面吸附的甲氧基，再断裂甲氧基中的C-H键形成表面吸附的甲醛分子，最后解吸为甲醛[13]。目前很多研究证明并确认了表面活化氧原子参与甲醇中O-H键活化过程，如铂催化剂上的程序升温脱附和单晶铂上的高分辨电子能量损失谱[14,15]。表面活性氧原子也能促进甲氧基中C-H键活化过程而形成吸附甲醛[13]或者形成亚甲二氧基（ $\mathrm { H } _ { 2 } \mathrm { C O } _ { 2 } { ^ * }$ ）[16]，而研究表明在氧原子覆盖的金属催化剂表面上甲醛分子能很容易地与表面活性氧形成亚甲二氧基，该反应的活化能非常低（ $1 3 . 5 \ \mathrm { k J \ m o l ^ { - 1 } \ ^ { [ 1 7 ] } }$ )。另外亚甲二氧基也能在铂原子对上分解为甲酸盐，进而分解为燃烧产物二氧化碳或与甲醇反应生成副产物甲酸甲酯[18]。甲醇催化燃烧反应的关键步骤为氧气在表面铂原子上的活化过程，而且该过程必须是不可逆过程（同位素标记的氧原子交换速率 $( r _ { \mathrm { O 1 6 O 1 8 } } { = } 5 \times 1 0 ^ { - 9 }$ mol (g-atom$\mathrm { P t } _ { \mathrm { s u r f a c e } ^ { - \mathrm { S } } } ) ^ { - 1 }$ ， $5 \mathrm { \ k P a \ O } _ { 2 } \cdot$ ）[19]远远小于甲醇催化燃烧速率)。综上所述，本文提出了甲醇在铂催化剂上催化燃烧反应机理如表1。
+
+Table 1 Reaction pathway of methanol catalytic combustion on supported Pt   
+
+<html><body><table><tr><td>步骤 基元反应</td></tr><tr><td>1 O2+2*→20*</td><td></td></tr><tr><td>2</td><td>CHOH+*←→CHOH*</td></tr><tr><td>3</td><td>CHOH*+O*→CHO*+OH*</td></tr><tr><td>4</td><td>CHO*+O*→CHOO*+H*</td></tr><tr><td>5</td><td>CHOO*←→HCHO+O*</td></tr><tr><td>6</td><td>CH2OO*+*→CHOO*+H*</td></tr><tr><td>7</td><td>CHOO*+*→CO2*+H*</td></tr><tr><td>8</td><td>CHOH*+CHOO*→HCOOCH+*+ OH*</td></tr><tr><td>9</td><td>H*+OH*←→HO+*</td></tr><tr><td>10</td><td>CO2*←→CO+*</td></tr></table></body></html>
+
+# 4催化剂结构对甲醇催化燃烧的影响
+
+众所周知，铂催化剂都是以晶体颗粒的形式分布在载体表面，每个晶体颗粒都由很多铂原子按体心立方排列而成。在铂颗粒表面上分布着具有不同配位数的铂原子且对气相组分的键能各不相同；更低配位数的铂原子对组分的吸附键能更强。当减小颗粒直径时催化剂表面上低配位数的铂原子数将会增加[20]，导致反应活化物与表面铂原子的平均键能增加而被更牢地吸附在催化剂表面上。
+
+当催化剂颗粒直径由 $4 . 8 \mathrm { n m }$ 减少到 $3 . 0 \mathrm { n m }$ 时，甲醇催化燃烧速率常数由62 mol$\left( \mathrm { g { - } a t o m P t _ { s u r f a c e } { - } s { - } k P a } \right) ^ { - 1 }$ 降低到40 mol$\left( \mathrm { g { - } a t o m P t _ { s u r f a c e } { - } s { - } k P a } \right) ^ { - 1 }$ ；降低了0.67倍。由于甲醇催化燃烧过程中将会有少量的亚甲二氧基物种（ $\mathrm { C H } _ { 2 } \mathrm { O } _ { 2 } ^ { * } .$ ）作为燃烧产物中间活性组分，将选择性地吸附在表面低配位数的铂原子上（角点及边界处)，且亚甲二氧基（ $\mathrm { \langle 4 1 9 . 7 \ k J / m o l ^ { [ 1 7 ] } } .$ ）与铂原子的结合键能高于氧原子（ $( 3 6 5 . 3 \mathrm { k J / m o l ^ { [ 4 ] } }$ ）与铂原子的结合键能。因此随着催化剂颗粒直径的减小，低配位数的铂原子比例将增加，导致 ${ \mathrm { C H } } _ { 2 } { \mathrm { O } } _ { 2 } { ^ { * } }$ 被更强地吸附在铂催化剂表面，进而限制了氧气在铂催化剂表面上的活化速率。
+
+# 5结论
+
+通过对甲醇在铂催化剂上催化燃烧动力学本征的研究，得出以下结论：
+
+（1）甲醇能在微量铂催化剂上实现低温催化燃烧。温度为472K时甲醇转化率就能达到 $50 \%$ ；在低温下主要生成中间产物甲醛和副产物甲酸甲酯，温度高于500K时甲醇以及中间产物和副产物都能完全
+
+转化为二氧化碳实现完全燃烧。  
+（2）甲醇催化燃烧过程中，铂催化剂表面上活性氧以及吸附性甲醇的覆盖率都较低，未被覆盖的铂原子是最大表面物种。氧气在铂催化剂表面的活化过程为甲醇催化燃烧的动力学关键步骤，其反应速度对氧气的反应级数为1，而不依赖于甲醇的分压。（3）燃烧中间活性组分一一亚甲二氧基趋于吸附在催化剂颗粒的边、角位置，且键能随着催化剂颗粒直径减小而加强，导致甲醇催化燃烧速率随着催化剂颗粒直径减小而降低。
+
+# 参考文献
+
+[1]Prater D N,Rusek J J. Energy density of a methanol/hydrogen-peroxide fuel cell [J]. Appl Energ 74 (2003) 135-140.   
+[2]Yu W, Chen G, Huang Z,et al. Experimental and kinetic modeling study of methyl butanoate and methyl butanoate/methanol flames at different equivalence ratios and C/O ratios [J]. Combust Flame 159 (2012) 44-54. [3]Maruta K.Micro and mesoscale combustion [J]. Proc Combust Inst 33 (2011) 125-150.   
+[4]Chin Y H, Buda C, Neurock M, et al. Selectivity of chemisorbed oxygen in $\mathrm { { C - H } }$ bond activation and CO oxidation and kinetic consequences for $\mathrm { C H } _ { 4 } { \mathrm { - } } \mathrm { O } _ { 2 }$ catalysis on Pt and Rh clusters [J]. JCatal 283 (2011) 10.   
+[5]Garcia-Diéguez M, Chin Y-H, Iglesia E. Catalytic reactions of dioxygen with ethane and methane on platinumclusters:Mechanisticconnections,site requirements,and consequences of chemisorbed oxygen [J].JCatal 285 (2012) 260-272.   
+[6] Allian A D， Takanabe K，Fujdala K L，et al. Chemisorption of CO and mechanism of CO oxidation on supported platinum nanoclusters [J].J Am Chem Soc 133 (2011) 4498-4517.   
+[7]Wu J C， Fan Y-C, Lin C-A. Deep oxidation of methanol using a novel Pt/boron nitride catalyst [J]. Ind Eng Chem Res 42 (2003) 3225-3229.   
+[8]McCabe R,McCready D. Kinetics and reaction pathways of methanol oxidation on platinum [J]. J Phys Chem 90 (1986) 1428-1435.   
+[9]McCabe R,Mitchell P. Exhaust-catalyst development for methanol-fueled vehicles:1.A comparative study of methanol oxidation over alumina-supported catalysts containing group 9,10,and 11 metals [J].Appl Catal 27 (1986) 83-98.   
+[10] Koros R M,Nowak E J.A Diagnostic Test of Kinetic Regime in a Packed Bed Reactor [J]. Chem Eng Sci 22 (1967) 470-&.   
+[11] Ehlers D H, Spitzer A,Lüth H. The adsorption of methanol onPt(l1l)， an IR reflection and UV photoemission study [J]. Surf Sci 160 (1985) 57-69.   
+[12]Blohski P, López N. On the Adsorptionof Formaldehyde and Methanol on a Water-Covered Pt(111): a DFT-D Study [J]. J Phys Chem C 116 (2012) 15484-15492.   
+[13] Lee W T, Thomas F, Masel R I. Methanol oxidation on $( 2 { \times } 1 )  { \operatorname { P t } } ( 1 1 0 )$ : does the C-O or $\mathrm { O - H }$ bond break first? [J]. Surf Sci 418 (1998) 479-483.   
+[14] Sexton B A. Methanol decomposition on platinum (111)[J]. Surf Sci 102 (1981) 271-281.   
+[15] Sexton B A， Rendulic K D， Huges A E. Decomposition pathways of $\mathrm { C } _ { 1 } - \mathrm { C } _ { 4 }$ alcohols adsorbed on platinum (111) [J]. Surf Sci 121 (1982) 181-198.   
+[16] Wachs I E, Madix R J. The selective oxidation of $\mathrm { C H } _ { 3 } \mathrm { O H }$ to $H _ { 2 } C O$ on a copper(110) catalyst [J]. J Catal 53 (1978) 208-227.   
+[17] Li S,Lu X, Guo W, et al. Formaldehyde oxidation on the $\mathrm { P t / T i O } _ { 2 }$ (101） surface: A DFT investigation [J].J Organomet Chem 704 (2012) 38-48.   
+[18] Liu J,Zhan E,Cai W,et al. Methanol Selective Oxidation to Methyl Formate over $\mathrm { R e O x } / \mathrm { C e O } _ { 2 }$ Catalysts [J]. Catal Lett 120 (2008) 274-280.   
+[19] Weiss B M, Iglesia E. NO Oxidation Catalysis on Pt Clusters: Elementary Steps, Structural Requirements, and Synergistic Effects of $\Nu { \cal O } _ { 2 }$ Adsorption Sites [J]. JPhys Chem C 113 (2009) 13331-13340.   
+[20] Van Hardeveld R,Hartog F. The statistics of surface atoms and surface sites on metal crystals [J]. Surf Sci 15 (1969) 189-230.

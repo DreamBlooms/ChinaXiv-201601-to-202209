@@ -1,0 +1,580 @@
+[
+    {
+        "type": "text",
+        "text": "基于Catboost的AMSR-2半经验地表温度降尺度",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李永康}²，王新军¹，马燕飞³，胡贵锋'，桂海月¹，张冠宏¹(1.新疆农业大学草业与环境科学学院,新疆土壤与植物生态过程实验室,新疆 乌鲁木齐830052;  \n2.中国科学院空天信息创新研究院,数字地球重点实验室,北京100094;  \n3.邯郸学院经济管理学院地理系,河北 邯郸056005)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以古尔班通古特沙漠为研究对象,采用2019年AMSR-2的4通道被动微波亮温及MODIS植被指数,探索Catboost算法对被动微波地表温度空间降尺度的可行性,填补古尔班通古特沙漠MYD11A1的缺失像元，为获取全天候日、夜间多层土壤温度提供数据参考。结果表明：(1)古尔班通古特沙漠日、夜间用于降尺度研究的特征向量$( 2 3 . 8 \\mathrm { G H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 3 6 . 5 \\mathrm { G H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 1 8 . 7 \\mathrm { G H z } \\mathrm { H z } \\mathrm { H } _ { \\mathrm { \\cdot } } 8 9 \\mathrm { G H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 3 6 . 5 - 2 3 . 8 \\mathrm { G H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 3 6 . 5 \\mathrm { V } - 1 8 . 7 \\mathrm { G H z } \\mathrm { H } _ { \\mathrm { \\cdot } } \\mathrm { E V I } _ { \\mathrm { \\cdot } } \\mathrm { N D V I } ) \\frac { H _ { \\mathrm { \\cdot } } } { 2 7 } \\mathrm { G H z } \\mathrm { H } _ { \\mathrm { \\cdot } } 6 . 5 \\mathrm { H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 1 8 . \\mathrm { D V I } ) \\frac { H _ { \\mathrm { \\cdot } } } { 2 7 } \\mathrm { G H } _ { \\mathrm { \\cdot } } 3 6 . 5 \\mathrm { G H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 3 6 . 5 \\mathrm { V } _ { \\mathrm { \\cdot } } 3 6 . 5 \\mathrm { G H z } \\mathrm { V } _ { \\mathrm { \\cdot } } 5 0 \\mathrm { H z } \\mathrm { H } _ { \\mathrm { \\cdot } } \\mathrm { E V I } _ { \\mathrm { \\cdot } } \\mathrm { N D V I } ) \\frac { H _ { \\mathrm { \\cdot } } } { 2 7 }$ 与地表温度的相关性空间分异特征明显，显示沙漠相关性高,绿洲相关性低，且日间分异性更强;而盐矿覆盖会降低微波与地表温度相关性。（2）Catboost4通道模型建立的被动微波亮温与地表温度间映射关系表现出鲁棒性。降尺度结果精度较高，日夜间 $R ^ { 2 }$ 分别为0.977、0.980，RMSE分别为 $3 . 6 9 \\mathrm { K } . 2 . 3 8 \\mathrm { K }$ ，MAE分别为 $2 . 7 1 \\mathrm { K } , 1 . 7 0 \\mathrm { K } _ { \\circ } ( 3 )$ 单通道相关性统计结果与重要性分析结果存在差异,表明特征因子相关性统计结果不能直接作为Catboost被动微波反演地表温度特征选择依据。(4）降尺度结果与站点6层土壤温度均呈极显著正相关，并随着深度的增加相关系数 $\\boldsymbol { r }$ 总体呈下降趋势，RMSE呈增加趋势。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地表温度；AMSR-2；Catboost；降尺度；古尔班通古特沙漠 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地表温度(Land Surface Temperature,LST)作为长波辐射与地气湍流热通量交换的直接驱动力[1],是反映区域乃至全球尺度水热平衡的重要参数之二[2],及时有效地获取区域地表温度信息对气候、农业研究具有重要的现实意义[3-4],地表温度已广泛应用于城市热岛效应[5]、干旱监测[、能量平衡评估[7]蒸散发[3-4]等研究领域。由于地形、土壤、植被、天气等因素的复杂性，造成地表温度空间上具有异质性\"，时间上具有波动性，需要高时空分辨率的数据描述地表温度的空间分布及时间演变。目前，包括MODIS与AVHRR在内的热红外及其他光学遥感晴空地表温度反演算法已达较高精度[9-10],但非晴空区域反演受天气影响严重，如中纬度地区MODIS数据超过 $6 0 \\%$ 被天气影响，云为最主要原因[]。微波通道能穿透云层，受大气影响较弱，可获取复杂天气状况下的地表辐射信息[12-13],但其空间分辨率较低，在区域尺度研究中需融合其他数据来提高空间分辨率。微波地表温度空间降尺度是指在确定低空间分辨率微波像元值的基础上，融合高空间分辨率地表温度信息，使得微波全天候观测地表温度的同时，获取更多的细节信息[14]]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "辐射传输理论是多通道被动微波反演地表温度的物理基础，但为病态反演，且部分参数机理有待明确[15-17]。基于物理过程的半经验反演算法对被动微波反演地表温度具有重要意义。最早，McFar-land 等[15]以 SSM/I(Special Sensor Microwave/Imager)为数据源，通过多元线性回归对地表温度反演，发现 $3 7 \\ : \\mathrm { G H z }$ 与地表温度相关性最高，其他通道处理可用于修正水汽影响。Njoku[18]、 $\\mathbf { G a o } ^ { [ 1 7 ] }$ 等以AMSR-E为数据源，表明 $3 6 . 5 \\ : \\mathrm { G H z }$ 垂直极化为地表温度最佳反演通道，受到大气影响较小，能够获取浅层温度信息，但裸地的低含水量及散射作用会降低微波反演的精度。Mao[19-20]等以AMSR-E为数据源,建立单通道亮温与MODIS地表温度之间的关系，得出89",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GHz垂直极化相关性最高， $3 6 ~ \\mathrm { G H z }$ 垂直极化与18GHz水平极化和 $2 3 ~ \\mathrm { G H z }$ 垂直极化的差分别能够消除地表和大气水分对地表温度反演的影响，在此基础上建立经典的4通道算法。近年机器学习模型为解决此问题提供了新的思路， $\\mathrm { S u n } ^ { [ 2 1 ] }$ ） $\\mathrm { T a n } ^ { [ 2 2 ] }$ 等分别使用回归树与卷积神经网络融合AMSR-2多通道亮温对美国和中国全天候地表温度进行了反演，取得了较好的结果。机器学习主要是基于数值关系算法，能充分利用被动微波亮温的多通道信息，达到较高的反演精度，但单纯的机器学习方式，缺乏对通道的选择及其物理意义的分析，结果的无法解释性可能限制其进一步应用。新的机器学习算法往往能够推动半经验反演模型的发展。Catboost（Cat-egoricalboosting)是Yandex于2017年提出的一种新的GBDT(Gradient Boosting Decision Tree）鲁棒性算法,精度与稳定性均高于随机森林与支持向量机[23],能够改善以往GBDT算法(如LightGBM、XGboost）的过度拟合问题,已逐渐应用于蒸散发反演[23-24]、土地分类[25]等研究。目前，基于Catboost算法的遥感研究相对较少，因此本研究结合Catboost算法与4通道组合，探索基于半经验模型的被动微波地表温度降尺度方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠区站点稀少，地表温度数据稀缺，仅有位于南缘绿洲区的新疆阜康荒漠生态系统国家野外科学观测研究站（简称阜康荒漠生态站），难以满足模型对输入数据的要求；且沙漠区域遥感地表温度产品受云影响严重，2019年MODIS地表温度产品日夜间云覆盖率分别达 $6 3 . 0 \\% . 6 5 . 9 \\%$ 时间、空间上的不连续，严重影响了数据的使用及进一步研究。本文以古尔班通古特沙漠为研究区，通过Catboost算法建立基于空间结构相似性的精细图像与粗图像之间的非线性映射关系，将AMSR-2数据融入到地表温度降尺度研究中，为古尔班通古特沙漠提供全天候高空间分辨率的地表温度产品，拓宽Catboost算法应用领域，为数据稀缺区地表温度获取提供有效的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "古尔班通古特沙漠 $( 4 4 ^ { \\circ } 1 5 ^ { \\prime } { \\sim } 4 6 ^ { \\circ } 5 ^ { \\prime } \\mathrm { N }$ $8 4 ^ { \\circ } 5 0 ^ { \\prime }$ 2$9 1 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E } )$ 是中国第二大沙漠(图1)，位于准噶尔盆地中部，玛纳斯河流域以东及乌伦古河以南地区，面积约 $4 . 8 8 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ，主要沙丘类型为沙垅，占沙漠面积 $8 0 \\% ^ { [ 2 6 ] }$ 。属典型中温带大陆性干旱气候,常年受西风带控制，受此影响纵向沙丘从西北向东南移动。全年平均气温 $5 { \\sim } 5 . 7 ~ \\mathrm { \\% }$ ,昼夜温差 $1 0 { \\sim } 3 0 ~ \\mathrm { ^ circ C }$ ，极端气温最高可达 $4 1 . 7 ^ { \\circ } \\mathrm { C }$ ,最低可至 $- 3 1 \\ { } ^ { \\circ } \\mathrm { C } ^ { [ 2 7 ] }$ 。全年蒸发量为 $2 0 0 0 { \\sim } 2 8 0 0 ~ \\mathrm { m m }$ ，降水主要集中于5—9月，降水量 $< 2 2 0 ~ \\mathrm { m m }$ ,沙漠腹地低至 $7 0 { \\sim } 1 0 0 ~ \\mathrm { m m }$ ,冬季积雪深度约 $3 0 \\ \\mathrm { c m } ^ { [ 2 8 ] }$ ,受此影响春夏季短命植物生长旺盛。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/959bec90103aba4884d6be830879da7a2d57616e597e38f5e89eb10a5f53be56.jpg",
+        "img_caption": [
+            "图1研究区概况示意图",
+            "Fig.1 Overview of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1遥感数据选取2019年GCOM-W卫星AM-SR-2传感器的L1R数据集与Aqua卫星MODIS传感器的MYD13A3数据集作为Catboost模型特征向量，MYD11A1数据作为模型训练的目标向量(表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "L1R数据集由JAXA(http://gportal.jaxa.jp)提供,共包括 $6 . 9 \\ { \\mathrm { G H z } } \\ { \\mathrm { , ~ } } 1 0 . 7 \\ { \\mathrm { G H z } } \\ { \\mathrm { , ~ } } 1 8 . 7 \\ { \\mathrm { G H z } } \\ { \\mathrm { , ~ } } 2 3 . 8 \\ { \\mathrm { G H z } } \\ { \\mathrm { , ~ } } 3 6 . 5$ GHz和 $8 9 . 0 ~ \\mathrm { G H z }$ 频率垂直与水平极化的14个通道。根据Mao等[19]4通道算法，选取 $3 6 . 5 \\mathrm { \\ G H z \\ \\mathrm { V } }$ 亮温为温度反演的主导因子； $2 3 . 8 \\mathrm { \\ G H z \\ } \\mathrm { V }$ 与 $1 8 . 7 \\ \\mathrm { G H z }$ H的亮温作为辅助数据，以消除大气、地表水等影响； $8 9 \\mathrm { G H z } \\mathrm { V }$ 消除其他因素的平均影响。单个扫描周期(16d)共14d过境研究区，过境时间约在日间15:00、夜间 $4 { : } 0 0$ 。MYD13A2与MYD11A1数据由LADDC提供。MYD13A2为16d合成增强植被指数(EnhancedVegetationIndex,EVI)与归一化植被指数（Normalized Vegetation Index,NDVI)，MYD11A1为日尺度地表温度数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AMSR-2被动微波亮温与MODIS-Aqua数据集获取时间相近，研究区二者单个扫描周期内每天过境时间差 $< 1 5 ~ \\mathrm { m i n }$ ，可减少因观测时间错位引起的误差;MYD11A1由于云影响，像元缺失严重，因此选用未被云影响且质量控制averageLSTerror≤1K的MYD11A1像元与AMSR-2被动微波数据集建立映射关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2地表实测数据阜康荒漠生态站 $( 8 7 ^ { \\circ } 3 3 ^ { \\prime } 3 6 ^ { \\prime \\prime } \\mathrm { E }$ 、$4 4 ^ { \\circ } 1 0 ^ { \\prime } 3 0 ^ { \\prime \\prime } \\mathrm { N } .$ 位于古尔班通古特沙漠南缘，是绿洲荒漠过渡区，地面植被较为茂盛，多以荒漠草原和草甸草原为主[29],平均海拔 $4 6 1 \\mathrm { ~ m ~ }$ ,提供每日逐时6层地表温度数据（分别距地表 $5 \\ \\mathrm { c m } \\setminus 1 0 \\ \\mathrm { c m } \\setminus 2 0 \\ \\mathrm { c m } \\setminus 4 0$ $\\mathrm { c m } \\ : 8 0 \\ : \\mathrm { c m } \\ : . 1 6 0 \\ : \\mathrm { c m } )$ 。由于AMSR-2扫描间隙的存在及自动站采集探头不明原因导致的数据缺失，共选白天264条、夜间270条数据参与地表温度验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自动站数据由国家生态科学中心提供(http://rs.cern.  \nac.cn/index.jsp）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3数据处理选取被动微波 $3 6 . 5 ~ \\mathrm { G H z } ~ \\mathrm { V } \\cdot 2 3 . 8 \\$ $\\mathrm { G H z } \\mathrm { \\textrm { V } } { , } 1 8 . 7 \\mathrm { G H z } \\mathrm { \\textrm { H } } { , } 8 9 \\mathrm { G H z } \\mathrm { \\textrm { V } }$ 亮温通道为特征向量进行组合变换，MYD13A2植被指数作为辅助数据，构建基于Catboost的半经验被动微波降尺度模型，将 $1 0 \\mathrm { k m }$ 分辨率被动微波亮温降尺度为 $1 \\mathrm { k m }$ 分辨率地表温度数据。AMSR-2日间与夜间地表温度降尺度具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 将AMSR-2与MODIS数据通过最近邻法统一重采样至 $1 0 \\mathrm { k m }$ ,选取MYD11A1质量average LSTerror≤1K的像元匹配AMSR-2微波亮温数据及MYD13A2植被指数数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 降尺度特征向量的空间相关性统计方法。在 $1 0 \\mathrm { k m }$ 空间分辨率下，6个AMSR-2被动微波亮温通道(4个原始单通道和2个组合通道)及2个MYD13A3植被指数与MYD11A1，在全年尺度（365d)上进行单个像元位置的Pearson相关分析，获取各个特征向量的相关系数 $r$ 及概率 $P$ 数据，绘制相关系数 $r$ 空间分布图(图2)；对研究区内相关系数 $r$ 进行统计分析，绘制相关系数 $r$ 频率分布图(图3)。进而分析各特征因子与地表温度的相关性及相关性的空间特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ Ctboost4通道模型十折交叉验证。基于前人研究成果及相关性空间统计分析，选取4通道半经验向量组合[21]( $3 6 . 5 ~ \\mathrm { G H z } ~ \\mathrm { V } \\mathrm { ~ , ~ } 3 6 . 5 \\mathrm { - } 2 3 . 8 ~ \\mathrm { G H z } ~ \\mathrm { V } \\mathrm { ~ , ~ }$ $3 6 . 5 \\ \\mathrm { V - 1 8 . 7 \\ G H z \\ H . 8 9 \\ G H z \\ V ) }$ 结合MYD13A3增强植被指数训练Catboost模型，构建各特征因子与地表温度间的映射关系。通过“十折交叉验证\"方案[30-31](10-foldcross-validation)评估模型",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 基于空间相似性的地表温度降尺度。将被动微波亮温通过最近邻算法重采样至 $1 ~ \\mathrm { k m }$ ，与对应像元的 $1 \\ \\mathrm { k m \\ M Y D } 1 3 \\mathrm { A } 3$ 植被指数组成特征向量，输入至 $1 0 \\mathrm { k m }$ 空间尺度上训练完成的Catboost模型，基于不同尺度空间结构相似性反演 $1 ~ \\mathrm { k m }$ 空间分辨率的地表温度数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4b28f8a60dc329e95b2ab9718668c7a032f28de4b8f44891f22c92d1b66568c.jpg",
+        "table_caption": [
+            "表1AMSR-2与MODIS相关数据参数",
+            "Tab.1 The information of AMSR-2 microwave brightness temperature and MODIS data "
+        ],
+        "table_footnote": [
+            "注：H代表水平极化，V代表垂直极化。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">AMSR-2被动微波亮温数据</td><td colspan=\"3\">MODIS数据</td></tr><tr><td>中心频率/GHz</td><td>极化方式</td><td>空间分辨率/km</td><td>数据类型</td><td>空间分辨率/km</td><td>数据集</td></tr><tr><td>18.7</td><td>V/H</td><td>10</td><td rowspan=\"2\">MYD 11A1</td><td rowspan=\"2\">1</td><td>LST_Day_1 km</td></tr><tr><td>23.8</td><td>V/H</td><td>10</td><td>QC_Day</td></tr><tr><td>36.5</td><td>V/H</td><td>10</td><td rowspan=\"2\">MYD 13A2</td><td rowspan=\"2\"></td><td>1 km_16_days_EVI</td></tr><tr><td>89</td><td>V/H</td><td>5</td><td>1 km_16_days_NDVI</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/211d52135a1de0cebfd49eef03231282feff27dcb71c9b3af9bab03313b6d84a.jpg",
+        "img_caption": [
+            "图2日(a）夜(b)间各特征因子相关性的空间分布",
+            "Fig.2Factors’correlations spatial distribution maps in the daytime (a)and nighttime (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 降尺度结果的精度验证及特征因子的重要性评价。选用 $1 ~ \\mathrm { k m }$ 空间分辨率质量控制averageLST error $\\leqslant 1 \\mathrm { ~ K ~ }$ 的MODIS晴空像元，对降尺度结果进行精度验证;对模型因子进行重要性分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{6}$ 降尺度结果的多层地温相关性分析。通过阜康荒漠生态站6层地温数据与对应位置的降尺度结果进行相关性分析，通过 $r , P$ 、RMSE(Root MeanSquareError)对相关性结果进行评价。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{7}$ 将基于Catboost半经验模型降尺度的被动微波地表温度与MODIS质量控制后的晴空像元融合，填补MODIS地表温度缺失像元，得到全天候的地表温度产品。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于AMSR-2被动微波亮度温度的全天候地表温度降尺度技术路线如图4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 微波地表温度反演的辐射传输模型被动微波观测反演地表温度的物理基础为辐射传输理论[18],通过辐射能量平衡建立地表温度反演算法。辐射传输方程描述了被动微波辐射计接收到的总能量，包括地面辐射和向上、向下的大气路径辐射以及由大气吸收而减弱的辐射分量[19-20],通用辐射",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bac68676a1ce8acfaf8908c986400167ac60bcc4f940d31022463c807d191ea1.jpg",
+        "img_caption": [
+            "图3日(a)夜(b)间各特征因子相关性的频率统计Fig.3Day(a) and night (b) correlations histogram of each factor"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "传输方程表示如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { B _ { f } \\big ( T _ { f } \\big ) = \\tau _ { f } ( \\theta ) \\varepsilon _ { f } B _ { f } \\big ( T _ { s } \\big ) + \\big [ 1 - \\tau _ { f } ( \\theta ) \\big ] } \\\\ & { \\qquad ( 1 - \\tau _ { f } ( \\theta ) B _ { f } \\big ( T _ { a } ^ { \\downarrow } \\big ) + \\big [ 1 - \\tau _ { i } ( \\theta ) \\big ] B _ { f } \\big ( T _ { a } ^ { \\uparrow } \\big ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { s }$ 代表地表温度; $T _ { _ a }$ 代表平均大气温度; $T _ { f }$ 代表 $f$ 频率的亮度温度; $\\tau _ { f } ( \\theta )$ 代表 $f$ 频率在观测角 $\\theta$ 的透射率； $\\boldsymbol { \\varepsilon } _ { f }$ 代表 $f$ 频率的地表发射率;$B _ { f } \\big ( T _ { s } \\big )$ 代表地表辐射； $T _ { a } ^ { \\downarrow }$ 与 $\\boldsymbol { T } _ { a } ^ { \\intercal }$ 分别为大气下行与上行辐射。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于多通道辐射传输方程反演地表温度，每加入1个通道，将加入1个新的未知数， $N$ 个通道加入时，有 $N { + } 1$ 个未知数，因此基于被动微波的物理模型的地表温度反演为病态反演[14.32]。为解决此问题,Fily等学者假设同一频率下垂直极化发射率 $\\boldsymbol { \\varepsilon } _ { \\scriptscriptstyle V }$ 与水平极化发射率 $\\textstyle { \\varepsilon _ { H } }$ 可简化为线性关系$\\pmb { \\varepsilon } _ { V } = a \\pmb { \\varepsilon } _ { H } + b$ 表示[15-17,33],式(1)亦可简化为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL S T = \\Big [ T _ { b _ { \\nu } } - a T _ { b _ { \\scriptscriptstyle H } } - ( 1 - b - a ) \\tau _ { f } ( \\theta ) T _ { a } ^ { \\perp } \\Big ] \\Big / \\big [ b \\tau _ { f } ( \\theta ) \\big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\omega } _ { a , b }$ 为线性回归系数； $T _ { b }$ 为微波亮温值; $T _ { b }$ 的下标 $V , H$ 分别代表垂直极化与水平极化。但是这种假设简化了先决条件，如恒定的大气校正、地表植被的吸收、忽略大气散射效应等[15-17.33]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2Catboost被动微波地表温度反演的机器学习模型通过机器学习方法多通道微波亮温反演地表温度，避免了简化垂直与水平亮温的相互关系，较好地解决病态反演问题。Catboost是在XG-boost、LightBMG等基础上新提出的一种GBDT算法[34],能够较好的解决复杂的数据异构、噪声高、特征相互依赖等问题[24]。Catboost模型中特征向量提供信息高于目标向量[34]，而传统的GBDT算法通过平均目标向量来作为节点分割的准则[35],因此Cat-boost能够利用到特征之间的联系，丰富特征维度，降低低频目标向量对结果影响；其为一种贪婪的机器学习方式，结合所有特征及所有特征组合建立决策树24；此外，其通过排序梯度提升，添加先验分布项，去除训练集中噪声数据，克服传统GBDT的过拟合问题,解决预测梯度偏移[34]",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92f6e58efd75c3846c2104342d39e90967ceb2abd1510cef7db08407096a8f37.jpg",
+        "img_caption": [
+            "图4AMSR-2全天候地表温度降尺度流程图 Fig.4 Flowchart of the method forAMSR-2all-weather land surface temperature downscaling "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在模型实际运行中，贪婪的学习方式导致每迭代一次，都对目标变量进行统计分组，以及密集的数值特征将导致建立决策树的高计算负担。但以上问题在python接口Catboost算法通过GPU克服，且该算法支持多个GPU线程工作，分布式树学习实现对数据或特征并行处理。AMSR-2被动微波亮温具有多频率、双极化特征，Catboost算法能够在保证提取多通道特征的同时提高学习效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.3验证方法本研究基于Catboost模型，对4通道组合向量进行训练，构建被动微波亮温、植被指数与MODIS地表温度之间的映射关系。Catboost算法的4通道模型初步评估,选用\"十折交叉验证\"[30-31]方案。十折交叉验证之初在统计学中用来测试算法模型的准确性。将古尔班通古特沙漠的训练数据随机分为10组，循环地将其中9组作为训练数据拟合模型，其余的1组作为验证。将10次的拟合精度均值作为本模型的最终精度。采用十折交叉验证能够有效降低系统误差、随机误差和粗差，使模型测试的精密度达到理论上的最高[36-37]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "特征向量的空间相关性统计分析。在像元尺度进行皮尔逊相关分析，获取各个特征向量的相关系数 $r$ 及概率 $P$ ，绘制相关系数 $r$ 空间分布图，分析各特征因子与地表温度相关性的统计特征及空间特征。将决定系数 $R ^ { 2 }$ (Coefficient ofdetermination）、平均绝对误差MAE(Meanabsoluteerror)和均方根误差RMSE作为Catboost模型评价指标，进行超参数搜索、验证及对比。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "模型的构建与评价分为3步：（1）以MYD11A1作为目标向量的Catboost模型构建，通过其Python接口输出Catboost4通道模型的十折交叉验证，对模型进行初步评价；（2）根据Catboost4通道模型，将降尺度后的 $1 \\mathrm { k m }$ 地表温度数据与MYD11A1晴空像元对比分析、评价精度；(3)将降尺度地温与站点6层地温分析，确定各层土温与被动微波降尺度地表温度相关性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1降尺度特征向量空间相关性统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从相关性的空间分布(图2)及相关性的频率统计(图3)两方面对特征因子与地表温度的相互关系分析表明：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）古尔班通古特沙漠日、夜间单通道微波与地表温度的相关性呈现绿洲、沙漠分异显著，主要表现为沙漠内部相关性较高，周边绿洲较低；与夜间相关性空间特征相比，日间的绿洲与沙漠分异性更强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）EVI与NDVI相关性空间特征相似，能较好描述沙漠与周边绿洲分异性(沙漠区 $>$ 绿洲区），但描述能力低于单通道亮温;相关性均值EVI>NDVI（日间EVI与NDVI分别为0.76、0.74，夜间分别为0.808、0.798)，因此在模型构建中选用EVI作为模型构建的辅助数据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）区域各特征因子相关性均值日间：23.8GHzI $7 \\ ( 0 . 9 8 ) \\ > 3 6 . 5$ GHz V $( 0 . 9 5 ) > 1 8 . 7$ GHz H$( 0 . 9 4 ) > 8 9$ GHzV(0.93),36.5-23.8GHzV(0.31)>36.5V-18.7 GHz $\\mathrm { ~ H ~ } ( \\mathrm { ~ - ~ } 0 . 0 2 )$ ,EVI(0.76) $>$ NDVI(0.74);夜间： $2 3 . 8 \\mathrm { G H z V } ( 0 . 9 6 ) > 3 6 . 5 \\mathrm { G H z } ( 0 . 9 4 ) >$ $8 9 ~ \\mathrm { G H z } \\left( 0 . 9 3 \\right) > 1 8 . 7 ~ \\mathrm { G H z } \\left( 0 . 8 6 \\right)$ ， $3 6 . 5 { - } 2 3 . 8 ~ \\mathrm { G H z } ~ \\mathrm { V }$ $( 0 . 2 0 ) > 3 6 . 5 \\mathrm { ~ V - 1 8 . 7 ~ G H z ~ H ( - 0 . 1 6 ) , E V I } ( 0 . 8 0 8 ) >$ NDVI(0.798)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$3 6 . 5 ~ \\mathrm { V } { - } 1 8 . 7 ~ \\mathrm { H }$ 的通道组合与地表温度相关性空间特征日夜间差异较大，且分布完全相反。这可能是由日夜间沙漠区地表水分差异引起，沙漠日夜间地表温度差异较大，日间迅速增温，达到较高温度，沙漠化严重的西部水分蒸发缺失严重，而有稀疏植被覆盖的东部水分蒸发较少，因此相关性空间特征东西差异较大。夜间低温促进空气水分向地表水分运动，沙漠化严重的西部降温较快，有稀疏植被覆盖的东部较慢，因此卫星过境时（北京时间4:00)西部地表水分高于东部。此结果印证 $3 6 . 5 ~ \\mathrm { V } - \\$ $1 8 . 7 \\ : \\mathrm { H }$ 与地表水分具有较高的相关性[20.22]。 $3 6 . 5 ~ \\mathrm { V } - \\$ $2 3 . 8 \\mathrm { H }$ 在周边绿洲与地表温度呈负相关，沙漠内部呈正相关,其相关性空间特征分异性显著，这是由于$3 6 . 5 \\ : \\mathrm { V } { - 2 3 . 8 } \\ : \\mathrm { H }$ 与大气水汽极度相关引起的[20.22.38]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在像元尺度对相关系数 $r$ 概率 $P$ 进行了计算，除古尔班通古特沙漠外西北方向盐场聚集区，单通道概率 $P$ 均呈极显著水平，表明盐场会严重影响被动微波与地表温度的映射关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2Catboost4通道模型十折交叉验证 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "十折交叉验证结果(图5)表明，基于Catboost的4通道模型能够较好地构建 $1 0 \\mathrm { k m }$ 尺度下被动微波亮温与地表温度之间的映射关系，且表现出鲁棒性。日间 $R ^ { 2 }$ 、MAE、RMSE均值分别为 $0 . 9 7 3 、 2 . 9 5 \\mathrm { K }$ 、$3 . 8 0 \\mathrm { K }$ ，夜间 $R ^ { 2 }$ 、MAE、RMSE均值分别为0.964、2.24$\\mathrm { K } . 3 . 0 4 \\mathrm { K }$ ，表明日夜间4通道Catboost模型精度均较高，泛化能力在 $1 0 \\mathrm { k m }$ 尺度下得到了较好的验证，且夜间交叉验证结果优于日间。日间最大值与最小值差分别为 $0 . 0 0 1 , 0 . 0 7 \\mathrm { ~ K ~ } , 0 . 1 3 \\mathrm { ~ K ~ }$ ；夜间最大值与最小值差分别为 $0 . 0 0 1 , 0 . 0 4 \\mathrm { K } , 0 . 0 6 \\mathrm { K }$ ，日夜间均较小，表明模型具有较高的稳定性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3降尺度精度验证及特征因子重要性评估",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.1精度验证MODIS为像元尺度( $\\mathrm { 1 ~ k m } { \\times } 1 \\ \\mathrm { k m } ,$ 的降尺度地表温度验证提供了真值数据,Wang等[39]获得了2000—2001年的地表真值数据，对MODIS数据进行了评估，结果表明MODIS的地表温度产品精度在1K以内；于文凭等[40]以黑河流域为研究区对MODIS地表温度产品进行精度验证，表明平均绝对误差小于 $2 . 2 ~ \\mathrm { K }$ ，可以用来间接评估反演产品的质量。因此,可选取MODIS 质量average LST error $\\leqslant 1$ K的晴空像元对反演的地表温度验证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过MODIS 质量average LST error $\\leqslant 1 \\mathrm { ~ K ~ }$ 的晴空像元，对地表温度降尺度结果进行精度验证(图6)，日间与夜间 $R ^ { 2 }$ 分别为0.977、0.980，RMSE分别为$3 . 6 9 \\mathrm { ~ K ~ } , 2 . 3 8 \\mathrm { ~ K ~ }$ ,MAE分别为 $2 . 7 1 \\mathrm { K } , 1 . 7 0 \\mathrm { K }$ 。表明基于4通道亮温的Catboost降尺度结果具有较高精度，可满足地表温度基本应用需求。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "夜间地表温度降尺度结果精度高于日间。原因可能是古尔班通古特沙漠日间升温较快，日间过境时间(约15:00)温度升至较高水平，大气、土壤水分随温度升高降至较低水平，因此，4通道模型消除",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6da7f21f99bb9dbf0f0df57bf50ba1dc4d8108a92bd6679a971099d23ab8fc2c.jpg",
+        "img_caption": [
+            "图5日间、夜间Catboost十折交叉验证结果",
+            "Fig.5 The 1O-fold cross-validation result of Catboost in day and night "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "360 R²=0.977 30000 360 R²=0.980 30000 c 340 MAB-271K 25000 340 MAE-1-70K5 25000 320 N=5520941 20000 320 N=5073433 20000 300 300 15000 15000 280 280 260 10000 260 10000 240 -Fit 5000 240 --Fit 5000 220 1:1 0 220 1:1 0 220 240 260 280 300 320 340 360 220 240 260 280 300 320 340 360 MYD11A1日间地表温度/K MYD11A1夜间地表温度/K ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大气、地表水分干扰的优势在日间被消弱;夜间过境时间(约4:00)沙漠温度降低至较低水平，大气、地表水分随温度降低升至较高水平，4通道模型对水汽的校正效应能够提高LST反演精度。此结果与$3 6 . 5 \\mathrm { V } { - } 1 8 . 7 \\mathrm { H }$ 日夜间相关性分析一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2重要性分析由图7可知，日间特征向量重要性表现为： $8 9 ~ { \\mathrm { G H z } } ~ { \\mathrm { V } } ( 3 7 . 7 ) > 3 6 ~ { \\mathrm { G H z } } ~ { \\mathrm { V } } ( 2 3 . 8 ) > 3 6$ GHz V-23 GHz $\\mathrm { V } ( 1 5 . 6 ) > \\mathrm { E V I } ( 1 5 . 4 ) > 3 6 - 2 3$ GHz V(7.5);夜间特征向量重要性表现为： $8 9 \\ \\mathrm { { G H z } \\ \\mathrm { { V } } }$ $( 4 7 . 2 ) > 3 6 - 2 3 \\mathrm { ~ G H z ~ V } ( 1 9 . 2 ) > 3 6 \\mathrm { ~ G H z ~ V } ( 1 3 . 3 ) > \\mathrm { { E V I } }$ $( 1 2 . 6 ) > 3 6 { - } 2 3 \\mathrm { G H z } \\mathrm { V } ( 7 . 8 ) \\varsigma$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "单通道相关性统计结果与Catboost重要性分析结果存在差异。日间、夜间 $3 6 \\ : \\mathrm { G H z }$ 垂直极化地表相关性均高于 $8 9 ~ \\mathrm { G H z }$ ,但重要性分析中， $8 9 \\ : \\mathrm { G H z }$ 高于$3 6 ~ \\mathrm { G H z }$ 约1.5\\~3倍。日间 $3 6 ~ \\mathrm { G H z }$ 与地表温度的相关性均值(0.95)高于夜间相关性均值(0.94)，而相较于日间重要性，夜间降低了约 $4 4 \\%$ ；日间 $8 9 ~ \\mathrm { G H z }$ 与地表温度的相关性均值(0.93)与夜间相等，而相较于日间重要性，夜间 $8 9 \\mathrm { G H z }$ 占比增加约 $2 5 \\%$ 。表明相关性较低的单通道可能为多通道反演地表温度提供更多信息，且单微波通道与地表温度的相关性高低不能作为Catboost模型反演地表温度特征因子选择的依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4降尺度结果的6层地温相关性分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于不同微波通道的穿透性具有较大差异，因此多通道亮温反演地表温度数据，往往缺乏对反演结果深度的定量描述，因此选取阜康荒漠生态站6层地温数据与对应位置的降尺度结果进行相关性分析(图8)。日夜间降尺度结果与6层地温的 $P <$ 0.001，呈极显著相关；日间各层地温的相关性 $( r ) 5$ $\\mathrm { c m } \\left( 0 . 9 8 0 \\right) > 1 0 \\ \\mathrm { c m } \\left( 0 . 9 7 7 \\right) > 1 5 \\ \\mathrm { c m } \\left( 0 . 9 7 1 \\right) > 2 0 \\ \\mathrm { c m }$ $( 0 . 9 6 9 ) > 4 0 \\ \\mathrm { c m } ( 0 . 9 5 7 ) > 1 0 0 \\ \\mathrm { c m } ( 0 . 8 9 9 )$ ，夜间各层地温的相关性 ${ \\bf \\rho } ( r ) 5 \\ \\mathrm { c m } ( 0 . 9 8 1 ) = 1 0 \\ \\mathrm { c m } ( 0 . 9 8 1 ) = 1 5 \\$ $\\mathrm { c m } ( 0 . 9 8 1 ) > 2 0 \\ \\mathrm { c m } ( 0 . 9 8 0 ) > 4 0 \\ \\mathrm { c m } ( 0 . 9 7 5 ) > 1 0 0 \\ \\mathrm { c m }$ (0.928），相关性 $r$ 均在0.8以上，呈极强相关。表明日夜间各深度的土壤温度，均与AMSR-2降尺度结果具有较高的相关性，且随着深度的增加，均方根误差呈增长趋势。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e423989e639dcb1bf032bd561198a8f6278009c9994f0089d2293ee296af51ef.jpg",
+        "img_caption": [
+            "图6基于日间、夜间Catboost半经验模型的地表温度降尺度结果与MYD11A1散点图 Fig.6The scatter plots for downscaled LST derived from day/night Catboost model with MYD11A1 ",
+            "图7日间(a）、夜间(b)Catboost半经验地表温度降尺度模型(4通道及EVI)重要性分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.7The importance bar of model (Catboost with 4 channels and EVI)feature vectors respectively inday(a)and night(b) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "450 5cm:r=0.980,RMSE=3.78K 320 5cm:r-0.981,RMSE=5.58K 10 cm:r=0.977,RMSE=4.57K 10 cm:r=0.981,RMSE=5.93K cg 15 cm:r=0.971,RMSE=5.36K 300 15cm:r=0.981,RMSE=6.34K 400 20cm:r=0.969,RMSE=5.64K 40 cm:r=0.957,RMSE=6.37K 280 20cm:r-0.980,RMSE=6.43K 40 cm:r=0.975,RMSE=6.93K 100 cm:r=0.928,RMSE=7.41K 100 cm:r=0.899,RMSE=8.70K 260 -1:1 --1:1 350 240 300 220 200 250 (a)日间 180 (b)夜间 1 上 1 160 L L 1 260 280 300 320 340 360 380 200 220 240 260 280 300 320 站点地表温度/K 站点地表温度/K ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "日夜间反演结果与不同深度相关性变化差异主要存在于 $5 、 1 0 、 1 5 、 2 0 \\ \\mathrm { c m }$ 的4层。日间卫星过境时(约15:00)，太阳辐射能量使土壤各层温度分异显著，随深度增加逐层降低特征；夜间过境时(约4:00)，土壤缺乏太阳辐射能量输入，各层土壤温度均较低且分异性弱。多层地温的相关性检验结果显示，降尺度结果与各层土壤温度均具有较高的相关性。此结论可用于被动微波亮温反演多层土壤温度提供理论依据，结合本研究成果，可以避免热红外遥感的云强干扰，获取全天候的每天昼夜2次观测的6层温度产品，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5基于Catboost的昼夜全天候地表温度产品",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过融合AMSR-2亮温反演得到日尺度的地表温度数据，填补MODIS由云导致的地表温度空缺像元，获得地表温度产品(图9)。当晴空时，使用MO-DIS提供的LST像元值，当有云雨出现时，使用AM-SR-2微波亮温的反演地表温度。以8月13日与8月14日连续2d为例进行展示，通过数据融合在昼夜尺度上获取了时间、空间连续的地表温度产品。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "比较Tan等[22]基于卷积神经网络垂直极化微波地表温度反演精度，本研究的 $R ^ { 2 }$ 提高了0.08，RMSE降低了 $0 . 3 9 \\mathrm { K }$ ,但是较全波段反演精度较低，且本文增加了夜间地表温度的反演。较 $\\mathrm { S u n }$ 等[21]的4通道回归树的算法，日间、夜间 $R ^ { 2 }$ 分别增加了0.075、0.076，RMSE分别减少了 $0 . 1 4 \\mathrm { ~ K ~ } , 0 . 5 5 \\mathrm { ~ K ~ }$ ,MAE分别减少了 $0 . 3 \\mathrm { ~ K ~ } , 0 . 4 3 \\mathrm { ~ K ~ }$ ;与该文章均表明夜间的精度高于日间，且对比证明Catboost对于被动微波与地表温度的拟合关系优于回归树；且在被动微波亮温反演地表温度的基础上进行了降尺度研究，构建了云下地表温度像元。此外，吸纳Huang等[41]的研究想法，将遥感地表温度与站点多层土壤温度建立相关关系，反演多层地温。通过被动微波亮温反演的地表温度产品与多层站点土壤温度相关性 $R ^ { 2 }$ 更高（ $5 \\mathrm { c m }$ 处达到0.98)，但同时RMSE也更大。推测原因在于 $6 . 9 \\ : \\mathrm { G H z }$ 最大干沙穿透深度达 $2 5 ~ \\mathrm { c m }$ ,能够更好的获取地下辐射相关信息，但训练的目标向量(MYD11A1)本身为表层温度，缺乏深层土壤温度数据来建立映射关系。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）古尔班通古特沙漠日夜间各特征向量与地表温度的相关性空间分异明显，沙漠相关性高，绿洲相关性低，且日间分异性更强；盐矿覆盖会降低微波与地表温度相关性。区域各特征因子相关性均值表现为日间： $2 3 . 8 ~ \\mathrm { G H z } ~ \\mathrm { V } \\left( 0 . 9 8 \\right) > 3 6 . 5 ~ \\mathrm { G H z } ~ \\mathrm { V }$ $( 0 . 9 5 ) > 1 8 . 7 \\mathrm { G H z } \\mathrm { H } ( 0 . 9 4 ) > 8 9 \\mathrm { G H z } \\mathrm { V } ( 0 . 9 3 )$ ,36.5GH $\\mathrm { I z ~ V - 2 3 . 8 ~ G H z ~ V ~ ( 0 . 3 1 ) } > 3 6 . 5 ~ V - 1 8 . 7 ~ \\mathrm { G H z }$ H$\\left( - 0 . 0 2 \\right) , \\mathrm { E V I } \\left( 0 . 7 6 \\right) > \\mathrm { N D V I } \\left( 0 . 7 4 \\right)$ ；夜间： $2 3 . 8 \\ : \\mathrm { G H z } \\ : \\mathrm { V }$ $( 0 . 9 6 ) > 3 6 . 5 \\mathrm { G H z } ( 0 . 9 4 ) > 8 9 \\mathrm { G H z } ( 0 . 9 3 ) > 1 8 . 7 \\mathrm { 6 }$ GHz1 $0 . 8 6 ) , 3 6 . 5 \\mathrm { G H z } \\mathrm { V } - 2 3 . 8 \\mathrm { G H z } \\mathrm { V } ( 0 . 2 0 ) > 3 6 . 5 \\$ $1 8 . 7 \\mathrm { G H z } \\mathrm { H } ( - 0 . 1 6 ) , \\mathrm { E V I } ( 0 . 8 0 ) > \\mathrm { N D V I } ( 0 . 7 9 ) ,$ 门",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）十折交叉验证表明Catboost4通道模型建立的被动微波亮温与地表温度间映射关系表现出鲁棒性。日间 $R ^ { 2 }$ (coefficient of determination）、MAE(Mean Absolute Error）、RMSE(Root Mean Square Er-ror)均值分别为 $0 . 9 7 3 , 2 . 9 5 \\mathrm { K } , 3 . 8 0 \\mathrm { K }$ ,夜间 $R ^ { 2 }$ 、MAE、",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：(a）代表 $1 \\mathrm { k m }$ 分辨率晴空下MODISLST(K)；(b)代表 $1 \\mathrm { k m }$ 分辨率AMSR-2反演LST(K)；(c）代表 $1 \\mathrm { k m }$ 分辨率MODIS与AMSR-2融合LST(K)",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fd8e31104a24e756af3e7c62c39fb0dc148e9ceb0016a0ed95d5d51a253696e.jpg",
+        "img_caption": [
+            "图9全天候地表温度产品合成图",
+            "Fig.9The integrated all-weatherLST "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RMSE均值分别为 $0 . 9 6 4 , 2 . 2 4 \\mathrm { K } , 3 . 0 4 \\mathrm { K }$ ，表明模型精度均较高。日间最大值与最小值差分别为0.001、$0 . 0 7 \\textrm { K } , 0 . 1 3 \\textrm { K }$ ;夜间最大值与最小值差分别为$0 . 0 0 1 , 0 . 0 4 \\mathrm { K } , 0 . 0 6 \\mathrm { K }$ ，日夜间均较小,表明模型具有较高的稳定性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3）地表温度降尺度结果具有较高精度，MO-DIS验证日夜间 $R ^ { 2 }$ 分别为 $0 . 9 7 7 、 0 . 9 8 0$ ,RMSE分别为 $3 . 6 9 \\mathrm { ~ K ~ } , 2 . 3 8 \\mathrm { ~ K ~ }$ ,MAE分别为 $2 . 7 1 \\mathrm { K } , 1 . 7 0 \\mathrm { K }$ 。降尺度结果与站点7层地表温度进行了验证分析，结果表明与站点6层土壤温度均呈极显著正相关，并随着深度的增加相关系数 $r$ 总体呈下降趋势，RMSE呈增加趋势，此结果为可微波获取全天候日、夜间多层土壤温度提供数值参考。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）单通道相关性统计结果与重要性分析结果存在差异，日间、夜间 $3 6 ~ \\mathrm { G H z }$ 垂直极化地表相关性均高于 $8 9 \\mathrm { G H z } , 8 9 \\mathrm { G H z }$ 重要性高于 $3 6 ~ \\mathrm { G H z }$ 约1.5\\~3倍。日间 $3 6 ~ \\mathrm { G H z }$ 与地表温度的相关性均值(0.95)高于夜间相关性均值(0.94)，而相较于日间重要性，夜间降低了约 $4 4 \\%$ ；日间 $8 9 \\mathrm { G H z }$ 与地表温度的相关性均值(0.93)与夜间相等，而相较于日间重要性，夜间 $8 9 ~ \\mathrm { G H z }$ 占比增加约 $2 5 \\%$ 。表明特征因子相关性统计结果不能直接作为Catboost被动微波反演地表温度特征选择依据。此外，各因子的重要性分析对于机理逆向评估具有重要意义。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢：衷心感谢中国科学院新疆生态与地理研究所阜康荒漠生态试验站提供数据及程磊的帮助；感谢中国科学院空天信息创新研究院赵静对论文修改中的帮助！",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Li Z L,Tang B H, Wu H,et al. Satellite-derived land surface temperature: Current status and perspectives[J].Remote Sensing of Environment,2013,131: 14-37.   \n[2]Anderson M, Norman J,Kustas W,et al.A thermal-based remote sensing technique for routine mapping of land-surface carbon, water and energy fluxes from field to regional scales[J]. Remote Sensing of Environment, 2008,112(12): 4227-4241.   \n[3]Kalma JD, McVicar TR, McCabe MF.Estimating land surface evaporation:A review of methods using remotely sensed surface temperature data[J]. Surveys in Geophysics,2008,29(4):421- 469.   \n[4]Wang K,Li Z, Cribb M.Estimation of evaporative fraction from a combination of day and night land surface temperatures and NDVI: A new method to determine the Priestley-Taylor parameter[J]. Remote Sensing of Environment,2006,102(3): 293-305.   \n[5]Faqe IG. Urban Land Use land cover changes and their effect on land surface temperature: Case study using dohuk city in the Kurdistan Region of Iraq[J]. Climate,2017,5(1): 13-31.   \n[6]Wan Z, Wang P,Li X. Using MODIS land surface temperature and normalized difference vegetation index products for monitoring drought in the southern Great Plains,USA[J]. International Journal of Remote Sensing,2010,25(1): 61-72.   \n[7]Hain C R,Anderson M C. Estimating morning change in land surface temperature from MODIS day/night observations: applications for surface energy balance modeling[J]. Geophysical Research Letters,2017,44(19): 9723-9733.   \n[8]Neteler M.Estimating daily land surface temperatures in mountainous environments by reconstructed MODIS LST data[J]. Remote Sensing,2010,2(1): 333-351.   \n[9]Wang F,Qin Z, Song C,et al. An improved mono-window algorithm for land surface temperature retrieval from Landsat 8 thermal infrared sensor data[J]. Remote Sensing,2015,7(4): 4268- 4289.   \n[10]Duan S B,Li ZL,Wang C,et al.Land-surface temperature retrieval from Landsat 8 single-channel thermal infrared data in combination with NCEP reanalysis data and ASTER GED product[J]. International Journal of Remote Sensing,2018,40(5-6): 1763-1778.   \n[11] Mao K,Shi J,Tang H,et al.A neural network technique for separating land surface emissivity and temperature from ASTER Imagery[J]. IEEE Transactions on Geoscience and Remote Sensing, 2008,46(1): 200-208. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12]何文英,陈洪滨,李军.陆面微波比辐射率的卫星观测研究进展 [J].地球物理学报,2020,63(10):3573-3584.[He Wenying, Chen Hongbin,Li Jun.Development of land surface microwave emissivity retrieval using satellite observations[J]. Chinese Journal of Geophysics,2020,63(10): 3573-3584.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13] 钱博,陆其峰,杨素英,等.卫星遥感微波地表发射率研究综述 [J].地球物理学进展,2016,31(3): 960-964.[Qian Bo,Lu Qifeng,Yang Suying,et al. Review on microwave land surface emissivity by satelite remote sensing[J]. Progress in Geophysics,2016, 31(3): 960-964.]   \n[14] 汪子豪,秦其明,孙元亨,等.基于BP神经网络的地表温度空间 降尺度方法[J].遥感技术与应用,2018,33(5):793-802.[Wang Zihao,Qin Qiming,Sun Yuanheng,et al. Downscaling of remotely sensed land surface temperature with the bp neural network[J]. Remote Sensing Technology and Application,2018,33(5): 793-802.]   \n[15]McFarland MJ, Miller RL,Neale C MU.Land surface temperature derived from the SSM/I passive microwave brightness temperatures[J]. IEEE Transactions on Geoscience and Remote Sensing, 1990,28(5): 839-845.   \n[16]Fily M.A simple retrieval method for land surface temperature and fraction of water surface determination from satelite microwave brightness temperatures in sub-arctic areas[J]. Remote Sensing of Environment,2003,85(3): 328-338.   \n[17]Gao H,Fu R,Dickinson RE,et al.A practical method for retrieving land surface temperature from AMSR-E over the Amazon Forest[J].IEEE Transactions on Geoscience and Remote Sensing, 2008,46(1): 193-199.   \n[18] Njoku EG,Li L. Retrieval of land surface parametersusing passive microwave measurements at 6-18 GHz[J]. IEEE Transactions on Geoscience and Remote Sensing,1999,37(1): 79-93.   \n[19]Mao K,Shi J,Li Z, et al.A physics-based statistical algorithm for retrieving land surface temperature from AMSR-E passive microwave data[J]. Science in China Series D:Earth Sciences,2007,50 (7): 1115-1120.   \n[20] 毛克彪,王道龙,李滋睿,等.利用AMSR-E被动微波数据反演 地表温度的神经网络算法[J].高技术通讯,2009,19(11):1195- 1200.[Mao Kebiao,Wang Daolong,Li Zirui,etal.A neural network method for retrieving land-surface temperature from AMSRE data[J]. Chinese High Technology Letters,2009,19(11): 1195- 1200.]   \n[21] Sun D,Li Y, Zhan X,et al.Land surface temperature derivation under all sky conditions through integrating AMSR-E/AMSR-2 and MODIS/GOES observations[J]. Remote Sensing,2019,11(14): 1704.   \n[22] Tan J, Esmaeel N,Mao K,et al. Deep learning convolutional neural network for the retrieval of land surface temperature from AMSR2 data in China[J]. Sensors,2019,19(1): 2987-3007.   \n[23]Huang G,Wu L,Ma X,et al.Evaluation of CatBoost method for prediction of reference evapotranspirationin humid regions[J]. Journal of Hydrology,2019,574: 1029-1041.   \n[24]Zhang Y, Zhao Z, Zheng J. CatBoost: A new approach for estimat ing daily reference crop evapotranspiration in arid and semi-arid regions of Northern China[J]. Journal of Hydrology，2O20,588 (125): 87-99.   \n[25] 姜琦刚,杨秀艳,杨长保,等.基于CatBoost算法的面向对象土 地利用分类[J].吉林大学学报(信息科学版),2020,38(2):185- 191.[Jiang Qigang, Yang Xiuyan, Yang Changbao,et al. Objectoriented land use classification based on CatBoost algorithm[J]. Journal of Jilin University(Information Science Edition),2020,38 (2): 185-191.]   \n[26] 王新军,赵成义,杨瑞红,等.古尔班通古特沙漠南缘荒漠化过 程演变的景观格局特征分析[J].干旱区地理,2015,38(6): 1213-1225.[Wang Xinjun, Zhao Chengyi, Yang Ruihong, et al. Landscape patern characteristics of desertification evolution in southern Gurbantunggut Desert[J].Arid Land Geography,2015,38 (6): 1213-1225.]   \n[27]Mamtimin A,Wang Y, Sayit H,et al. Seasonal variations of the near-surface atmospheric boundary layer structure in China's Gurbantinggit Desert[J].Advances in Meteorology,202O: 6137237.   \n[28] 段呈,吴玲,王绍明,等.近30年古尔班通古特沙漠短命植物的 时空格局[J].生态学报,2017,37(8):2642-2652.[Duan Cheng, Wu Ling,Wang Shaoming,et al. Analysis of spatio-temporal patterns of ephemeral plants in the Gurbantuinggit Desert over the last 30 years[J].Acta Ecologica Sinica,2017,37(8): 2642-2652.]   \n[29] 陈林,王式功,王莉莉.新疆阜康地区秋季大气NO和 $\\mathrm { O } _ { 3 }$ 变化特 征及影响要素[J].干旱气象,2012,30(3):345-352.[Chen Lin, Wang Shigong,Wang Lili.Variation characteristics and influencing factors of NOx and Ozone in autumn in Fukang Region of Xinjiang[J]. Journal of Arid Meteorology,2012,30(3): 345-352.]   \n[30]范永东.模型选择中的交叉验证方法综述[D].太原:山西大学, 2013.[Fan Yongdong.A Summary of Cross-Validation in Model Selection[D]. Taiyuan: Shanxi University,2013.]   \n[31] 郝静,孙成,郭兴宇,等.京津冀内陆平原区 $\\mathrm { P M } _ { 2 . 5 }$ 浓度时空变化 定量模拟[J].环境科学,2018,39(4):1455-1465.[Hao Jing, Sun Cheng,Guo Xingyu,et al.Simulation of the spatio-temporally resolved $\\mathrm { P M } _ { 2 . 5 }$ aerosol mass concentration over the inland plain of the Beijing-Tianjin-Hebei region[J]. Environmental Science,2018,   \n[32] 金旭峰,吴莹,钱博.基于AMSR2数据的青藏高原地表温度反 演[J].地球物理学进展,2020,35(4):1269-1275.[Jin Xufeng, Wu Ying, Qian Bo.Retrieval of land surface temperature from AMSR2 data over the Qinghai-Tibetan Plateau[J]. Progress in Geophysics,2020,35(4): 1269-1275.]   \n[33] Bhagat V S. Space-borne passive microwave remote sensing of soil moisture: A review[J]. Recent Progressin Space Technology, 2015,4(2): 119-150.   \n[34]Prokhorenkova L,Gusev G,Vorobev A,et al. CatBoost: Unbiased boosting with categorical features[J].Advances in Neural Signal Processing, 2018: 6638-6648.   \n[35]Zhang K, Scholkopf B, Muandet K,et al.Domain adaptation under target and conditional shift[C]//3Oth International Conference on Machine Learning,ICML,2013:1856-1864.   \n[36]Colliander A,Jackson TJ,Bindlish R,et al.Validation of SMAP surface soil moisture products with core validation sites[J]. Remote Sensing of Environment,2017,191: 215-231.   \n[37] 陶本藻,邱卫宁,张书毕,等.误差理论与测量平差[M].武汉：武 汉大学出版社,2012.[Tao Benzao,Qiu Weining,Zhang Shubi,et al.Error Theory and Measurement Adjustment[M].Wuhan:Wuhan University Press,2012.]   \n[38] 毛克彪,胡德勇,黄健熙,等.针对被动微波AMSR-E数据的土 壤水分反演算法[J].高技术通讯,2010,20(6):651-659.[Mao Kebiao,Hu Deyong,Huang Jianxi,et al.A algorithm for retrieving soil moisture from AMSR-E passive microwave data[J]. Chinese High Technology Letters,2010,20(6): 651-659.]   \n[39] Wang W,Liang S, Meyers T.Validating MODIS land surface temperature products using long-term nighttime ground measurements [J].Remote Sensing of Environment,2008,112(3): 623-635.   \n[40] 于文凭,马明国.MODIS地表温度产品的验证研究—以黑河 流域为例[J].遥感技术与应用,2011,26(6):705-712.[Yu Wenping,Ma Mingguo. Validation of the MODIS land surface temperature products:A case study of the Heihe River basin[J].Remote Sensing Technology and Application,2011,26(6): 705-712.]   \n[41]Huang R, Huang J-x, Zhang C,et al. Soil temperature estimation at different depths,using remotely-sensed data[J]. Journal of Integrative Agriculture,2020,19(1): 277-290. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Downscaling land surface temperature through AMSR-2 passive microwave observations by Catboost semiempirical algorithms ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "LI Yongkangl²， WANG Xinjun'， MA Yanfei³， HU Guifeng', GUI Haiyue'， ZHANG Guanhong'   \n(1.Collge of Grassandand EnvironmentSciences of Xinjiang Agricultural UniversityXinjiang KeyLaboratoryof   \nSoil and PlantEcological Processes,Urumqi 83oo52,Xinjiang,China; 2.KeyLaboratoryof Digital Earth Science,   \nAerospace Information Research Institute, Chinese Academy of Sciences,Beijing 10Oo94, China; 3.Departmentof Geography of Handan University,Handan O56Oo5,Hebei, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study aimed to fillin the missing pixels of MYD11A1 in the Gurbantunggut Desert and provide a theoretical basis for obtaining all-weather and multilayer soil temperatures during daytime and nightime.We explored the feasibility of the CatBoost algorithm for the spatial downscaling of passive microwave surface temperature by using the four-channel passive microwave brightnesstemperature and MODIS vegetation index of the 2019 AMSR-2.Results show that (1) the spatial differentiation between feature vectors and surface temperature is evident during daytime and nightime in the Gurbantunggut Desert.It indicates high desert correlation,low oasis correlation,and strong daytime differentiation.The salt mine coverage reduces the correlation between passive microwave brightness temperature and surface temperature. (2) The mapping relation between the passive microwave brightness temperature and surface temperature from the four-channel CatBoost model is robust. The accuracy of the downscaled results is high,with daytime-nighttime $R ^ { 2 }$ of 0.977 and 0.980, RMSE of 3.69 and $2 . 3 8 \\mathrm { ~ K ~ }$ ,and MAE of $2 . 7 1 \\mathrm { ~ K ~ }$ and $1 . 7 0 \\mathrm { ~ K ~ }$ ,respectively. (3） Single-channel correlation and importance analysis results are different,suggesting that feature correlation results cannot be directly used as a basis for selecting surface temperature features with the CatBoost passive microwave inversion of LST. (4) Downscaling LST is significantlyand positively correlated withthe soil temperature in six layers from the Fukang site.The correlation coefficient decreases, and RMSE increases as depth increases. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords: land surface temperature;AMSR-2； Catboost; downscale; Gurbantunggut Desert",
+        "page_idx": 12
+    }
+]

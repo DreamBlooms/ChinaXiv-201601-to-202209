@@ -1,0 +1,186 @@
+# 北部湾徐闻海域红树内生细菌物种多样性及其杀线虫活性研究
+
+李蜜，候师师，银江林，何宇铭，刘永宏，易湘茜"（广西中医药大学 海洋药物研究院/药学院，南宁530200)
+
+摘要：对北部湾徐闻海域红树植物内生细菌的分布特征、物种多样性及其杀线虫活性进行分析，为研究新型微生物杀虫剂提供菌种资源。本次实验从徐闻县采集7种红树植物共16份样品，设计10种分离培养基，使用稀释涂布法分析红树植物内生细菌的分布特征。通过16S rRNA分子生物学方法，对内生细菌进行多样性分析探讨内生细菌的物种多样性。利用秀丽隐杆线虫模型，通过杀线虫活性实验测试内生细菌乙酸乙酯提取物的杀线虫活性。研究结果表明，从16 份植物各组织器官中获得 33株内生细菌，分布于19个科23个属，其中芽孢杆菌属（Bacillus）为优势菌属，获得8株潜在的新种或新属。同时，筛选到2株具有显著杀线虫活性的菌株，半数致死浓度（ $\mathrm { L C } _ { 5 0 }$ ）分别为 $2 8 . 6 3 ~ \mathrm { { m g } \cdot \mathrm { { m L } ^ { - 1 } } }$ 和 $1 7 8 . 0 3 ~ \mathrm { { m g } \cdot \mathrm { { m L } ^ { - 1 } } }$ 。研究结果证实了徐闻海域红树具有多样性丰富的内生细菌，同时部分细菌具有较强的杀线虫活性，具有发现新型微生物杀虫剂的潜力。
+
+关键词：内生细菌，红树林，物种多样性，杀线虫活性中图分类号：R946 文献标识码：A
+
+# Study on diversity and nematicidal activity of endophytic bacteria from mangrove plants collected from Beibu Gulf coast at Xuwen
+
+Li Mi, Hou Shishi, Yin Jianglin,He Yuming,Liu Yonghong,Yi Xiangxi (Institute of Marine Drugs /Faculty of Pharmacy, Guangxi University of Chinese Medicine,Nanning 530200, China)
+
+Abstract:To study the distribution,diversity and nematicidal activity of endophytic bacteria from mangrove plants collected from Beibu Gulf coast at Xuwen.It can provide bacterial resources for the microbial insecticides. The bacteria were isolated from sixteen samples seven mangrove plants which collected from the Xuwen by designed 10 kinds of isolation medias.The 16S rRNA molecular biology method,dilution coating method and Caenorhabditis elegans screening model were used to explore the diversity and nematicidal activity of endophytic bacteria isolated from mangrove plants.The results showed that33 endophytic bacteria were isolated by16 organs and tissues which could be classified into 19 familiesand 23 generaand the dominant genus were Bacillus.The eight potential new species or genera were obtained.Through the nematicidal activity test obtained 2 kinds of activity bacteria.Two endophytic bacterial had the extremely significant nematicidal activitiesand the lethal concentration of $50 \%$ was $2 8 . 6 3 ~ \mathrm { { m g } \cdot \mathrm { { m L } ^ { - 1 } } }$ and $1 7 8 . 0 3 ~ \mathrm { { m g } \cdot \mathrm { { m L } ^ { - 1 } } }$ ,respectively. The research confirm that mangrove plants collected from the Xuwen are rich in endophytic bacteria. At the same time,parts ofthe bacteria have strong nematicidal activity,which could be a potential source for the discovery of the new microbial insecticides. Key words:endophytic bacteria,mangrove plants,species diversity,nematicidal activity
+
+红树林生态系统（mangrove ecosystems）主要包括种类丰富的动物群落、红树木本植物群落和微生物群落（Chen etal.,2009）。红树林环境中的微生物能够耐高盐和酸性等环境，因而其在物种、基因组成和生态功能上形成了多样性差异。仝林燕等（2011）从湛江红树林海域采集泥土样品 550份，共分离到195株放线菌，其中从三种红树植物白骨壤、桐花树、木榄的根际土壤中分离到110株放线菌。许敏等（2016）从11份广东湛江红树林植物样品中共得到159株放线菌，分布于12个科19个属，其中链霉菌属为优势菌属。陈振明等（2006)从湛江海域红树林植物中发现9株细菌对番茄有促进生长的作用，4株细菌能抑制生长。Liuet al.,（2010）采用PCR-DGGE方法和DGGE 指纹图谱对福建省九龙江口福工红树林区的微生物群落结构及基因多样性进行分析，发现红树林区细菌多样性远大于非红树林区域。我国广东湛江红树林国家级自然保护区呈带状散布于雷州半岛沿海滩涂，主要由高桥、特呈岛、徐闻等组成（许敏等，2016）。关于该海域红树林微生物多样性研究多集中于高桥镇（许敏，2015；许敏等，2016)，徐闻沿北部湾海域研究报道并不多见，因此开展红树林内生细菌多样性研究具有重要意义，值得我们进一步探索。
+
+目前，根结线虫病严重危害着我国乃至全世界的农作物，使作物受到不同程度的侵害。据报道，我国每一种粮食、蔬菜以及经济作物都至少被一类植物线虫残害（蔚应俊，2006）。世界范围内，线虫病害占植物病害的 $1 5 { \sim } 2 0 \%$ ，由此造成经济损失可达1570亿美元（Abadet al.,2008）。因此，安全防控线虫的病害成为目前急需解决的关键问题。已有学者从红树林环境中筛选到具有杀线虫活性的微生物。王帅等（2018）筛选到一株可杀死南方根结线虫的生防真菌Snef 21命名为聚多曲霉A（spergillus sydowii）其发酵液对卵囊孵化抑制效果较好，相对抑制率分别为 $4 4 . 1 \%$ 与 $5 0 . 6 \%$ 。有学者还从红树林放线菌分离到具有杀线虫活性的阿扎霉素(azalomycin)类化合物（Xuetal.,2014)。为此，本实验以湛江徐闻海域红树植物为研究对象，分析红树植物内生细菌的多样性及筛选杀线虫活性，以期发现细菌新物种及杀线虫活性菌株，为新型微生物杀虫剂的发现奠定基础。
+
+# 1材料与方法
+
+# 1.1实验材料
+
+样品采集：2017年7月14日在广东徐闻县迈陈镇的红树林（经纬度为 $1 0 9 ^ { \circ } 5 9 ^ { \prime } 1 4 ^ { \prime \prime } \mathrm { E }$ 、$2 0 ^ { \circ } 2 0 ^ { \prime } 1 2 ^ { \prime \prime } \mathrm { N } \dot { }$ ）采集到海莲（Bruguiera sexangula）、红海榄（Rhizophora stylosa）、桐花树（Aegiceras corniculatum）、海漆（Excoecaria agallocha）、黄槿（Hibiscus tiliaceus）、阔苞菊（Pluchea indica）、白骨壤（Avicennia marina）7种红树植物的根茎叶样品16份，具体信息如表1所示。收集无病虫害的新鲜并带枝叶的植株以及一部分植物根部，用无菌水冲洗样品表面泥沙及残留物，装入采样袋进行密封保存，置于采样冰盒中尽快拿回实验室进行后期处理。
+
+线虫材料来源：本实验所使用的野生型秀丽隐杆线虫（Caenorhabditis elegans）和OP50尿嘧啶缺陷型大肠杆菌（Escherichiacoli）均由广西科学院汪斌博士提供。
+
+表1样品采集信息  
+
+<html><body><table><tr><td colspan="3">Table1 Information of collected samples</td></tr><tr><td>样品编号</td><td>植物种类</td><td>采集部位编号</td></tr><tr><td>Number of samples</td><td>Plant species</td><td>Number of collect tissue</td></tr></table></body></html>
+
+<html><body><table><tr><td>A 海莲Bruguiera sexangula</td><td></td><td>A-1 A-2</td></tr><tr><td rowspan="3">B</td><td rowspan="3">桐花树 Aegiceras corniculatum</td><td>A-3</td></tr><tr><td>B-1</td></tr><tr><td rowspan="2">B-2 B-3</td></tr><tr><td rowspan="2"></td></tr><tr><td>C-1,</td></tr><tr><td rowspan="2">C</td><td>红海榄Rhizophora stylosa C-2</td></tr><tr><td>D-1</td></tr><tr><td rowspan="2">D</td><td>海漆Excoecaria agallocha D-3</td></tr><tr><td>E-2</td></tr><tr><td rowspan="2">E 黄槿Hibiscus tiliaceus</td><td>E-3</td></tr><tr><td>F-2</td></tr><tr><td rowspan="2">F 阔苞菊Plucheaindica</td><td></td></tr><tr><td>F-3</td></tr><tr><td rowspan="2">G 白骨壤Avicennia marina</td><td>G-2</td></tr><tr><td>G-3</td></tr></table></body></html>
+
+注：1.根，2.茎，3.叶。Note: 1.Root,2. Stem,3.Leaf.
+
+# 1.2细菌分离
+
+1.2.1分离及纯化培养基
+
+分离培养基：采用10种分离培养基对红树植物内生细菌进行分离，分别为AGG（改良的高氏培养基）、M4（海藻糖-天冬酰胺培养基）、M5（海藻糖-脯氨酸培养基）、M7（改良ISP5 培养基）、M9（精氨酸-天冬酰胺培养基）、M10（改良淀粉-水解酪素培养基）、ISP7（酪氨酸-天冬酰胺培养基）、ISP3（燕麦培养基）、ISP4（无机盐-淀粉琼脂培养基）、R2A（R2A琼脂培养基)。详细配方见参考文献（李菲等,2016)。培养基中添加重铬酸钾和制霉菌素抑制真菌生长，终浓度分别为 $2 5 ~ \mathrm { { m g } \cdot L ^ { - 1 } }$ 和 $5 0 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ 。待培养基温度降至 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 左右时加入抑制剂，混匀倒于培养皿中制成固体培养基。
+
+纯化及保藏培养基：改良 ISP2 固体培养基，配方为酵母提取物 $2 . 0 \ \mathrm { g }$ ，麦芽提取物 $2 . 0 \ \mathrm { g }$ 葡萄糖 $2 . 0 \ \mathrm { g }$ ，琼脂粉 $1 5 . 0 \ \mathrm { g }$ ， $3 0 \mathrm { g }$ 的海盐和 $1 0 0 0 { \mathrm { m L } }$ 去离子水。
+
+发酵培养基：改良ISP2液体培养基，培养基配方同改良ISP2固体培养基，但不加入琼脂粉。
+
+# 1.2.2红树植物样品的处理
+
+采集的红树植物于无菌操作台中选取完整无病虫害的根、茎和叶不同组织部位。参考李家怡等（2017）用 $5 \%$ 次氯酸钠溶液浸泡 $8 \mathrm { m i n }$ ，无菌水冲洗残余液体； $7 5 \%$ 的酒精溶液浸泡$5 \mathrm { m i n }$ ，无菌水冲洗至无酒精味。
+
+取已处理的不同部位红树植物样品大约 $\textrm { 2 g }$ 于研钵充分研磨， $2 { \mathrm { ~ m L ~ } }$ 无菌水与研磨样品充分混匀；取 $1 \mathrm { m L }$ 该浓度液作为样品原液，再依次稀释到 ${ { 1 0 } ^ { - 3 } }$ 和 ${ { 1 0 } ^ { - 4 } }$ 组织悬液，当做涂布的样液，置于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱暂存。
+
+# 1.2.3菌株的分离纯化及保藏
+
+取上述组织悬液 ${ { 1 0 } ^ { - 3 } }$ 和 ${ { 1 0 } ^ { - 4 } }$ 稀释液 $0 . 2 \mathrm { m L }$ ，分别涂布于10种分离培养基上，倒置放置于 $2 8 \mathrm { ~ \textdegree C }$ 恒温培养箱培养2-8周。通过形态观察挑取形态各异的单菌落使用改良ISP2固体培养基进行分离纯化，通过三区划线纯化，获得纯净的单菌落，并记录菌落数及菌落的形态特征。将纯化好的纯菌株用竹签刮取对数生长期的菌体，于 $2 0 \% \mathrm { ( V / V ) }$ 无菌甘油管中制成菌悬液于 ${ } ^ { - 8 0 \mathrm { ~ ‰ ~ } }$ 超低温冰箱保藏。
+
+# 1.2.416SrRNA基因序列分析
+
+菌株基因组DNA的提取采用Chelex-100 树脂法（周双清等，2010)，选取纯化好的菌株，用无菌竹签挑取芝麻粒大小的菌体加入装有 ${ 5 0 \mu \mathrm { L } }$ Chelex-100 树脂的八连管中，用竹签充分搅拌使菌体与树脂混匀，进行PCR梯度扩增。
+
+PCR 梯度扩增参照Walshetal.（1991）方法，扩增引物使用细菌通用引物27F(5'-AGAGTTTGATCCTGGCTCAG-3)和 1492R(5'-GGTTACCTTGTTACGACTT-3')。PCR产物利用 $1 \%$ 琼脂糖凝胶电泳检测，Bi-RAD凝胶成像仪观察电泳目标条带的有无来作为判断基因组DNA提取是否合格，检验合格后将PCR产物送至上海美吉生物医药技术有限公司广州分公司进行测序。测序结果经DNA Star 软件整理，利用数据库EzBioCloud（https://www.ezbiocloud.net/）（Kim et al.,2009）进行在线比对；对16S rRNA基因序列进行相似性比对搜索，从中选取相似性较高且是有效描述的典型菌株的16S rRNA基因序列作为参比对象。
+
+# 1.3杀线虫活性测试
+
+# 1.3.1 细菌发酵粗提物的制备
+
+参考李飞娜等（2017）及覃媚等（2016）的方法，将对数生长期的细菌接种于 $2 0 0 ~ \mathrm { m L }$ 改良ISP2 液体培养基中，于 $1 8 0 \mathrm { r } { \cdot } \operatorname* { m i n } ^ { - 1 } 2 8$ ℃摇床发酵7d，合并发酵液用等体积的乙酸乙酯萃取，取乙酸乙酯层利用旋转蒸发仪浓缩至浸膏状后备用，收集粗提物置干燥器中4℃低温保存。
+
+# 1.3.2细菌代谢产物的杀线虫实验
+
+参考许敏等（2016）的方法，用红树内生细菌发酵液乙酸乙酯粗提物进行杀线虫活性实验，用公式线虫致死率 $( \% ) \mathop { = }$ 线虫死亡数/线虫总数 $\times 1 0 0 \%$ 计算线虫致死率，以线虫致死率 ${ > } 5 0 \%$ 为阳性结果。
+
+（1）线虫产卵培养：将秀丽隐杆线虫线挑至新鲜的已加有OP50的NGM培养基（Brenner.,1974）中进行产卵培养，镜检培养皿产卵较多时收集线虫。
+
+（2）线虫的同步化：将线虫用M9 缓冲液进行冲洗，于 $3 0 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 离心 $1 \mathrm { m i n }$ 弃去上清液。加入三倍体积的裂解液，上下颠倒震荡约 $5 \mathrm { m i n }$ ，使线虫表皮破裂，释放虫卵，以保证线虫裂解充分，于 $3 0 0 0 \mathrm { r } { \cdot } \mathrm { m i n } ^ { - 1 }$ 离心 $1 \mathrm { m i n }$ ，弃去上清。再加入 $2 \mathrm { m L M } 9 \$ 缓冲液冲洗，将裂解得到的虫卵加至涂有大肠杆菌OP50 的NGM培养基上，置于 $2 8 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 生化培养箱内培养$3 6 \mathrm { h }$ 左右，即可得到处于同一龄期的线虫，用于杀线虫活性实验。
+
+（3)杀线虫活性实验：依次在96孔板中每孔加入含线虫M9 缓冲液约 $2 0 ~ \mu \mathrm { L }$ 约每 $2 0 { \mu \mathrm { L } }$ 20 条)，再加入 ${ 5 \mu \mathrm { L } }$ 甲醇溶解的细菌发酵液粗提物（浓度 ${ 5 0 0 \mu \mathrm { g } { \cdot } \mathrm { m L } ^ { - 1 } }$ )，用M9 缓冲液补足至 $1 0 0 \mathrm { { L } }$ 后，置于 $2 0 \mathrm { ~ \textdegree C }$ 培养箱中培养， $2 4 \mathrm { h }$ 后在体式显微镜下观察并记录线虫总数和死亡数。虫体僵直，震荡 $3 0 \mathrm { ~ s ~ }$ 仍僵直判定为线虫死亡。设置 $1 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 阿维菌素阳性组和 $5 \%$ 的甲醇溶液阴性组对照。
+
+（4）线虫半数致死浓度 $\mathrm { ( L C _ { 5 0 } }$ 值)的测定：加入 $7 5 ~ { \mu \mathrm { L } } ~ { \ M } 9$ 缓冲液至96孔板，同时加入$2 0 \mu \mathrm { L }$ 的线虫(每 $2 0 \mu \mathrm { L } 2 0$ 条)。采用倍半稀释法，将2株活性菌株IMDGX4744和IMDGX4303的乙酸乙酯提取浓缩物分别用甲醇稀释成10个浓度梯度，取各个浓度 ${ 5 \mu \mathrm { L } }$ 加入96孔板，置于 $2 0 \mathrm { ~ \textdegree C }$ ，培养 $2 4 \mathrm { h }$ 后观察并统计。采用Probit法（贾春生，2006）分别计算2株活性菌株的 $\mathrm { L C } _ { 5 0 }$ 值。
+
+# 1.4统计分析
+
+线虫寿命数据采用 SPSS Statistics 21.0进行统计分析，本文中所有图表均采用Excel 2013软件，细菌的16SrRNA基因序列利用DNAStar软件进行整理。
+
+# 2结果与分析
+
+# 2.1红树植物内生细菌多样性分析
+
+如表3所示，共分离得到157株内生细菌，隶属于6个纲13个目19个科23个属。其中芽孢杆菌属（Bacillus）共分离到33株，占分离总菌数的 $2 0 . 3 8 \%$ ，为此次分离内生细菌的优势菌群。肠杆菌属（Enterobacter）和假单胞菌属（Pseudomonas）均分离得到21株细菌，均占总菌数的 $1 3 . 4 \%$ ，泛菌属（Pantoea）得到20株，占分离总菌数的 $1 2 . 7 \%$ 。不同样品其优势菌群存在差异，其中，海莲（B.sexangula）优势菌群为芽孢杆菌属（15)，桐花树（A.corniculatum）分离到假单胞菌属10 株，红海榄（R.stylosa）获得6株无色杆菌属（Achromobacter sp.,）由此可见，从总的菌株数量来看优势菌群为芽孢杆菌属，而不同样品分离得到的优势菌群不同。通过16SrRNA基因序列比对排重，最终获得33株内生细菌。
+
+根据 16S rRNA 基因序列相似性小于 $9 8 . 6 5 \%$ 的菌株属于潜在新物种的归类原则（KimM.,2014)，由表2可知33株内生细菌中存在8株潜在的新种或者新属。菌株 IMDGX 4649Actinomycetospora sp., IMDGX 4744 Altererythrobacter sp., IMDGX 4908 Asaia sp., IMDGX4645 Aurantimonas sp., IMDGX 4737 Myxococcus sp., IMDGX 4088 Pacificimonas sp., IMDGX4145Paracoccus sp.,IMDGX 4725 Pseudomonas sp.，分别与有效发表菌株 Actinomycetosporachiangmaiensis, Altererythrobacter marensis, Asaia siamensis, Aurantimonas coralicida,Myxococcus fulvus, Pacificimonas aurantium, Paracoccus aestuarii, Pseudomonas mendocina 的最高相似度分别为 $9 7 . 9 2 \%$ ， $9 7 . 7 6 \%$ ， $9 7 . 7 4 \%$ ， $9 8 . 0 3 \%$ ， $9 7 . 9 2 \%$ ， $9 7 . 5 3 \%$ ， $9 7 . 3 8 \%$ ， $9 7 . 8 2 \%$ 可能为潜在的新物种。
+
+# 2.2红树植物内生菌种属数量分布
+
+各样品分离到的细菌物种及属的数量分布如图1所示。7种红树植物中桐花树样品分离到最多的内生细菌，共19 株隶属于16个属，其次是海莲得到13株内生细菌隶属于10个属，依次为红海榄和阔苞菊均为10株，海漆和白骨壤均为7株，黄槿分离到6株。不同红树部位内生菌多样性亦存在差异，桐花树中分离得到的细菌种属数量依次是根 $>$ 茎 $>$ 叶，根得到的种属数量最多远大于茎及叶。红海榄、海漆和白骨壤分离得到的细菌种属数量根 $>$ 茎。黄槿和阔苞菊所得菌株数量差异不大，茎和叶的菌株数量基本保持一致。而海莲的茎中获得的菌株种属数量最多，根及叶基本保持相同数量的种属。由此可见，大部分植物分离得到的细菌种属数量根 $>$ 茎 $>$ 叶，此结果与诸多学者得到的成果一致，内生细菌主要来源于植物的根部（Zhaoetal.，2011；魏玉珍等，2010)，而部分植物组织器官可培养内生细菌多样性存在较大的差异，可能是采集红树的时间季节，所处的环境及样品运输的破坏程度有关（解修超，2007)，具体原因还有待进一步研究探讨。
+
+# 2.3不同培养基分离效果的差异
+
+不同成分的培养基可以满足不同微生物的营养需求，培养基营养成分的差异严重影响微生物的生长。由图2和表2可知，R2A琼脂培养基分离得到的细菌种属数量最多获得 27株细菌隶属15个种11个属，其培养基主要成分包括酵母浸出物，蛋白肺，酪蛋白水解物，葡萄糖，可溶性淀粉等。其次是M9 精氨酸-天冬酰胺培养基分离得到24株11个种隶属8个属。M7改良ISP5（主要成分为酵母粉和L-天冬酰胺）和P7酪氨酸-天冬酰胺培养基分别得到22株9个种隶属7个属和16株9个种隶属8个属。表2可知,Achromobacter属可从AGG、M10、M4、M5 和M7培养基中分离得到。本次分离得到的Bacillus（芽孢杆菌属）、Pantoeadispersa、Enterobacter xiangfangensis 和 Pseudomonas psychrotolerans 菌株在大多部分培养基中均能较好的生长。但是仍然存在很多菌株只能在一种培养基中分离得到，如菌株Actinomycetospora chiangmaiensis、 Altererythrobacter marensis、 Asaia siamensis、Exiguobacteriumprofundum和Micromonospora sediminicola等，因此在进行细菌纯化时建议使用相对应的分离培养基。
+
+图1不同红树植物组织分离得到的内生细菌种属  
+![](images/b72fe70b6f98f8aae68818bb32fe8ed24d163b567aa8b74a974d64da6005a483.jpg)  
+红树植物组织Mangrove tissue
+
+注：A-G.具体信息见表1。1．根，2．茎，3．叶。
+
+Note:A-G.Information in the table 1.1.Root,2. Stem,3.Leaf.
+
+![](images/cf15ad474929be93fbe79859c31cd31d8647c5aebff1edf69942f0fe29f99af7.jpg)  
+Fig.1Endophytic bacteria species isolated from different mangrove tissue   
+图2不同培养基分离得到的内生细菌  
+Fig.2Endophytic bacteria isolated from different media
+
+# 表2可培养内生细菌在不同培养基中的分布
+
+Table 2 Distribution of cultivable endophytic bacteria in different culture medium   
+
+<html><body><table><tr><td rowspan="2">菌株编号</td><td rowspan="2">参比菌种</td><td colspan="10">培养基类型 Medium type</td></tr><tr><td>AGG</td><td>M10</td><td>M4</td><td>M5</td><td>M7</td><td>M9</td><td>P3</td><td>P4</td><td>P7</td><td>R2A</td></tr><tr><td>Strain code IMDGX 4143</td><td>Reference strains Achromobacter denitrificans</td><td>1</td><td>1</td><td>1</td><td>2</td><td>3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4385</td><td>Achromobacter marplatensis</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4138</td><td>Achromobacter ruhlandii</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4270</td><td>Acinetobacter junii</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4649</td><td>Actinomycetospora chiangmaiensis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4744</td><td>Altererythrobactermarensis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>IMDGX 4908</td><td>Asaia siamensis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>IMDGX 4850</td><td>Swaminathania salitolerans</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>IMDGX 4645</td><td>Aurantimonas coralicida</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr><tr><td>IMDGX 4146</td><td>Bacillus altitudinis</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>4</td><td></td></tr><tr><td>IMDGX 4827</td><td>Bacillus paralicheniformis</td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td>1</td><td></td></tr><tr><td>IMDGX 4062</td><td>Bacillus siamensis</td><td>1</td><td>4</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4763</td><td>Bacillus zhangzhouensis</td><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td>4</td><td></td><td>3</td><td>2</td></tr><tr><td>IMDGX 4277</td><td>Bacillus tequilensis</td><td></td><td></td><td></td><td>1</td><td>5</td><td>1</td><td>2</td><td>1</td><td></td><td>6</td></tr><tr><td>IMDGX4827-1</td><td>Cedecea lapagei</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4075</td><td>Enterobacter xiangfangensis</td><td>3</td><td>2</td><td>2</td><td>1</td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr><tr><td>IMDGX 4491</td><td>Exiguobacterium profundum</td><td></td><td>1</td><td></td><td></td><td>1</td><td>7</td><td>3</td><td>3</td><td>1</td><td>1</td></tr><tr><td>IMDGX 4787</td><td>Micromonospora sediminicola</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4737</td><td>Myxococcus fulvus</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4910</td><td>Nocardiopsis synnemataformans</td><td></td><td>2</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>2 1</td></tr><tr><td>IMDGX 4088</td><td>Pacificimonas aurantium</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4776</td><td>Pantoea dispersa</td><td>1</td><td>2</td><td>1</td><td>2</td><td>6</td><td>2</td><td>1</td><td>3</td><td>2</td><td>1</td></tr></table></body></html>
+
+# C hinaXiv合作期刊
+
+<html><body><table><tr><td>IMDGX 4145</td><td>Paracoccus aestuarii</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4756</td><td>Paracoccus homiensis</td><td>1</td><td>1</td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr><tr><td>IMDGX 4725</td><td>Pseudomonas mendocina</td><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4379</td><td>Pseudomonas parafulva</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4767</td><td>Pseudomonas psychrotolerans</td><td>1</td><td>1</td><td>5</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr><tr><td>IMDGX 4528</td><td>Pseudoxanthomonas spadix</td><td></td><td></td><td></td><td>1</td><td>3</td><td></td><td></td><td>2</td></tr><tr><td>IMDGX 4651</td><td>Salinicola salarius</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr><tr><td>IMDGX 4664</td><td>Stakelama pacifica</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4090</td><td>Staphylococcus epidermidis</td><td></td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td>6</td></tr><tr><td>IMDGX 4926</td><td>Stenotrophomonas maltophilia</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>IMDGX 4650</td><td>Thalassospira povalilytica</td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr></table></body></html>
+
+表333株可培养内生细菌的物种组成Table3Speciesof 33cultivable endophytic bacteria  
+
+<html><body><table><tr><td rowspan="2">菌株编号</td><td rowspan="2">参比菌种</td><td rowspan="2">相似性</td><td rowspan="2">来源</td><td rowspan="2">属 Genera</td><td colspan="6">不同红树分离的细菌数量</td><td rowspan="2">总计 Total</td></tr><tr><td></td><td></td><td>Number of bacteria isolates from different mangrove</td><td></td><td></td><td></td></tr><tr><td>Strain code</td><td>Reference strains</td><td>Similarity (%)</td><td>Origin</td><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F G</td><td></td></tr><tr><td>IMDGX 4143</td><td>Achromobacterdenitrificans</td><td>99.87</td><td>B-1、B-2、B-3、C-1、 C-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4385</td><td>Achromobacter marplatensis</td><td>99.47</td><td>G-3</td><td>无色杆菌属 Achromobacter</td><td>1</td><td>1</td><td>6</td><td>1</td><td></td><td>1</td><td>10</td></tr><tr><td>IMDGX 4138</td><td>Achromobacter ruhlandii</td><td>99.74</td><td>A-3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4270</td><td>Acinetobacter junii</td><td>99.43</td><td>B-3和F-3</td><td>不动杆菌属 Acinetobacter</td><td></td><td>2</td><td></td><td></td><td>2</td><td></td><td>4</td></tr><tr><td>IMDGX 4649</td><td>Actinomycetospora chiangmaiensis</td><td>97.92</td><td>B-1</td><td>放线孢菌属 Actinomycetospora</td><td>1</td><td>1</td><td></td><td></td><td></td><td>2</td><td>4</td></tr><tr><td>IMDGX 4744</td><td>Altererythrobactermarensis</td><td>97.76</td><td>A-2</td><td>Altererythrobacter 菌属</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4908</td><td>Asaia siamensis</td><td>97.74</td><td>C-1</td><td>Asaia 菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4850</td><td>Swaminathania salitolerans</td><td>98.07</td><td>A-1</td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4645</td><td>Aurantimonas coralicida</td><td>98.03</td><td>B-1、B-3 和F-1、F-3</td><td>橙单胞菌属Aurantimonas</td><td></td><td>6</td><td></td><td></td><td></td><td>1</td><td>7</td></tr><tr><td>IMDGX 4146</td><td>Bacillus altitudinis</td><td>99.74</td><td>B-2 和G-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4827</td><td>Bacillus paralicheniformis</td><td>99.83</td><td>F-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4062</td><td>Bacillus siamensis</td><td>99.87</td><td>G-1、A-1、A-2、A-3、 C-1、C-2、C-3、D-2、</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4763</td><td>Bacillus zhangzhouensis</td><td></td><td>D-3 A-1、A-2、A-3、B-1、</td><td>芽孢杆菌属 Bacillus</td><td>15</td><td>3</td><td>3</td><td>3</td><td>2</td><td>6</td><td>32</td></tr><tr><td></td><td></td><td>100.00</td><td>B-2、B-3、C-1、C-2、 C-3、D-2、D-3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4277</td><td>Bacillus tequilensis</td><td>99.87</td><td>A-2 和F-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>IMDGX4827-1</td><td>Cedecea lapagei</td><td>98.63</td><td>C-1 A-1、A-2、A-3、B-1、</td><td>柠檬酸杆菌属 Citrobacter</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4075</td><td>Enterobacter xiangfangensis</td><td>99.87</td><td>B-2、B-3、C-1、C-2、 C-3、D-2、D-3、E-2、 E-3、F-2、F-3、G-2、</td><td>肠杆菌属 Enterobacter</td><td>3</td><td>1</td><td>4</td><td>6</td><td>2</td><td>3</td><td>21</td></tr><tr><td></td><td>Exiguobacterium profundum</td><td></td><td>G-3 B-1</td><td>微小杆菌属</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4491</td><td></td><td>99.74</td><td></td><td>Exiguobacterium 小单孢菌属</td><td>1</td><td>2</td><td></td><td></td><td></td><td></td><td>2 1</td></tr><tr><td>IMDGX 4787</td><td>Micromonospora sediminicola</td><td>100.00</td><td>E-3</td><td>Micromonospora</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4737 IMDGX 4910</td><td>Myxococcus fulvus</td><td>97.92 99.74</td><td>A-2 和F-2 A-1、A-2 和 G-1、G-2</td><td>粘球菌属 Myxococcus 拟诺卡氏菌属 Nocardiopsis</td><td>2 2</td><td></td><td></td><td></td><td>1</td><td>2</td><td>3 4</td></tr><tr><td>IMDGX 4088</td><td>Nocardiopsissynnemataformans Pacificimonas aurantium</td><td>97.53</td><td>B-1</td><td>Pacificimonas 菌属</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td>IMDGX 4776</td><td></td><td></td><td>B-1、B-2、B-3、E-1、</td><td></td><td>1</td><td>4</td><td></td><td></td><td>2</td><td></td><td></td></tr><tr><td></td><td>Pantoea dispersa</td><td>100.00</td><td>E-2、E-3、G-1、G-2、 G-3</td><td>泛菌属Pantoea</td><td></td><td></td><td>2 1</td><td>4</td><td></td><td>6</td><td>20</td></tr><tr><td>IMDGX 4145</td><td>Paracoccus aestuarii</td><td>97.38</td><td>B-2</td><td>副球菌属 Paracoccus</td><td>3</td><td>1</td><td></td><td></td><td>1</td><td></td><td>5</td></tr><tr><td>IMDGX 4756</td><td>Paracoccus homiensis</td><td>100.00</td><td>A-2、A-3 和F-2、F-3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4725 IMDGX 4379</td><td>Pseudomonas mendocina</td><td>97.82</td><td>A-2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Pseudomonas parafulva</td><td>100.00</td><td>A-2 和F-2 A-1、A-2、A-3、B-1、</td><td>假单胞菌属Pseudomonas</td><td>4</td><td>10</td><td>1</td><td>5</td><td>1</td><td></td><td>21</td></tr><tr><td>IMDGX 4767</td><td>Pseudomonas psychrotolerans</td><td>100.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4"></td><td></td><td></td><td>B-2、B-3、D-1、D-2、</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>D-3、E-1、E-2、E-3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>B-1、B-2、B-3、C-1、</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMDGX 4528 Pseudoxanthomonas spadix</td><td>99.10</td><td>C-2、C-3、D-1、D-2、 D-3、F-1、F-2、F-3</td><td>假黄色单胞菌属 Pseudoxanthomonas</td><td></td><td>1</td><td>1</td><td>2</td><td>2</td><td></td><td>6</td></tr></table></body></html>
+
+<html><body><table><tr><td>IMDGX 4651</td><td>Salinicola salarius</td><td>99.74</td><td>B-1</td><td>Salinicola 菌属</td><td></td><td>1</td></tr><tr><td>IMDGX 4664</td><td>Stakelama pacifica</td><td>98.80</td><td>B-2</td><td>Stakelama 菌属</td><td>1 1</td><td>1</td></tr><tr><td rowspan="4">IMDGX 4090</td><td rowspan="4">Staphylococcus epidermidis</td><td rowspan="4"></td><td>B-1、B-2、B-3、E-1、</td><td></td><td>2</td><td></td></tr><tr><td>100.00</td><td>E-2、E-3、F-1、F-2、</td><td>2 1 葡萄球菌属 Staphylococcus</td><td>7</td></tr><tr><td>F-3</td><td></td><td></td><td></td></tr><tr><td>B-1、B-2、C-1、C-2</td><td></td><td>寡养单胞菌属</td><td></td></tr><tr><td>IMDGX 4926</td><td>Stenotrophomonas maltophilia</td><td>99.61</td><td>和F-1、F-2</td><td>Stenotrophomonas</td><td>1 1 1</td><td>3</td></tr><tr><td>IMDGX 4650</td><td>Thalassospira povalilytica</td><td>100.00</td><td>B-1</td><td>Thalassospira 菌属</td><td>1</td><td>1</td></tr></table></body></html>
+
+# 2.4红树植物内生细菌发酵产物的杀线虫活性分析
+
+内生细菌发酵产物的杀线虫活性测试结果如表4所示。其中，细菌代谢粗提物中致死率高于 $5 0 \%$ 的阳性菌株有2 株IMDGX 4744 和IMDGX 4725，其致死率分别为 $5 9 . 0 9 \%$ 和$78 . 9 5 \%$ 。IMDGX4744和IMDGX4725的致死率曲线如图3和4所示， $\mathrm { L C } _ { 5 0 }$ 值分别为178.03$\mathrm { { m g } { \cdot } \mathrm { { m L } } ^ { - 1 } }$ 和 $2 8 . 6 3 ~ \mathrm { { m g } \cdot \mathrm { { m L } ^ { - 1 } } }$ 。
+
+表4内生细菌代谢产物的杀线虫活性  
+Table 4 Nematicidal activity of the extracts from endophytic bacteria   
+
+<html><body><table><tr><td>菌株编号</td><td>致死率</td><td>菌株编号</td><td>致死率</td></tr><tr><td>Strain code 5%甲醇(阴性对照)</td><td>Fatality rate（%)</td><td>Strain code IMDGX 4725</td><td>Fatality rate（%)</td></tr><tr><td>Methanol（Negative control)</td><td>4.50</td><td></td><td>78.95</td></tr><tr><td>1ug·mL阿维菌素（阳性对照）</td><td></td><td>IMDGX 4075</td><td></td></tr><tr><td>Abamectin（Positive control)</td><td>15.00</td><td></td><td>10.00</td></tr><tr><td>IMDGX 4767</td><td>14.29</td><td>IMDGX 4737</td><td>4.76</td></tr><tr><td>IMDGX 4776</td><td>9.09</td><td>IMDGX 4062</td><td>10.00</td></tr><tr><td>IMDGX 4650</td><td>9.52</td><td>IMDGX 4146</td><td>13.64</td></tr><tr><td>IMDGX 4744</td><td>59.09</td><td>IMDGX 4910</td><td>9.09</td></tr><tr><td>IMDGX 4850</td><td>45.00</td><td>IMDGX 4138</td><td>4.76</td></tr><tr><td>IMDGX 4528</td><td>30.00</td><td>IMDGX 4908</td><td>5.56</td></tr><tr><td>IMDGX 4827</td><td>10.00</td><td>IMDGX 4143</td><td>4.76</td></tr></table></body></html>
+
+![](images/66388aa6b4ba3b0430d7e1463912ac953579f7b1270d08c11d2220cde152072e.jpg)  
+图3IMDGX4725发酵产物的致死率曲线
+
+![](images/186c64f23b06567fd04d12672c993416f4d997b358c3d30b22562dd6f35278b7.jpg)  
+Fig.3Mortality curve of the IMDGX 4725   
+图4IMDGX4744发酵产物的致死率曲线Fig. 4 Mortality curve of the IMDGX 4744
+
+# 3 讨论
+
+红树林受周期性潮汐影响，其营养物质变化较大，微生物资源丰富。大量研究表明，红树林生境可培养内生细菌多样性远大于非红树林生境。为了解广东徐闻海域红树植物可培养内生细菌的物种组成及分布，课题组从徐闻海域采集到7种红树植物16份组织器官，利用10种培养基，从中分离内生细菌资源。研究结果表明，从中分离获得32株内生细菌，隶属于19科23属，其中芽孢杆菌属为优势菌属，此外获得8株相似性小于 $9 8 . 4 6 \%$ 的潜在新种或新属，多样性较为丰富。近年来，关于红树植物内生菌株多样性的研究报道逐渐增多，目前国内外已有大量文献报道红树内生菌株的多样性。吴越等（2017）从7份广西北仑河口红树林植物根际土壤样品中分离得到110株放线菌，分布于7个目9个科15个属。Hong etal.，（2009）使用11个选择性分离培养基从中国8个地区的红树林土壤和红树植物中分离到2000多株放线菌，鉴定获得237株，分布于5个目7个科10个属，分离到的放线菌具有较强的抗菌和抗肿瘤活性。魏玉珍等（2009）从沿北部湾山口海域的红树林采集到10种真红树植物和5种半红树植物并从中分离得到77株细菌。由此可见，红树林微生物资源丰富，具有从中发现活性新化合物的潜力。
+
+据文献报道，红树植物内生菌具有良好的抗菌（吴越等，2017）、抗病毒（李菲等，2016)、杀虫（许敏等，2016）及抗肿瘤（Hong etal.,2009）等生物活性。许敏等（2016）前期从湛江高桥海域筛选到三株具有杀线虫活性的链霉菌，其 $\mathrm { . L C } _ { 5 0 }$ 值分别为83.2、132和 $1 3 8 ~ \mathrm { m g { \cdot m L } ^ { - 1 } }$ 。课题组此次从徐闻海域分离到的32株内生细菌中筛选到2株具有杀线虫活性。活性菌株IMDGX4744和IMDGX4725分别从海莲的茎和叶子中分离到，分别隶属于Altererythrobacter属和Pseudomonas（假单胞菌属） $\mathrm { L C } _ { 5 0 }$ 值分别为178.03和 $2 8 . 6 3 \mathrm { \ m g { \cdot } m L ^ { - 1 } }$ 。与许敏等（2016）研究结果相比，不同海域的不同菌株可筛选到相同活性且 $\mathrm { L C } _ { 5 0 }$ 值存在差异，Altererythrobacter属、Pseudomonas（假单胞菌属）和链霉菌属菌株均具有较强的杀线虫活性。关于筛选到的2株活性细菌的杀线虫活性在本研究中进行了首次报道，具有进一步开发成为新型微生物杀虫剂的潜力。由此可见，湛江沿北部湾海域红树植物内生细菌多样性较为丰富，具有从中挖掘杀线虫活性菌株的潜力。
+
+本次实验设计十种分离培养基对红树内生细菌进行多样性筛选，从R2A培养基中获得最多菌株，其次是M9精氨酸-天冬酰胺培养和M7改良ISP5培养基。三种培养基中R2A和M7均含有酵母浸出物，M9和M7均含L-天冬酰胺。由此可见，微生物生长需要提供相应的氮源和氨基酸以供其营养需求，所以在今后设计红树林生境微生物分离培养基的同时，可以适当考虑增加或者使用不同的氮源和氨基酸。湛江沿北部湾海域红树植物内生细菌资源丰富，且部分菌株具有较强的杀线虫活性，对于寻找新型微生物杀虫剂具有重要意义，同时对于我国红树林植物资源的保护与红树植物内生细菌药用资源的深入开发具有重要的促进作用。
+
+# 参考文献：
+
+ABAD P,GOUZY J,AURY JM,et al.，2O08.Genome sequence of the metazoan plant-parasitic nematode Meloidogyne incognita[J]. Nat Biotechnol,26(8): 909.   
+BRENNER S,1974.The genetics of Ceanorhabditis elegans[J]. Genetics,77(1): 71-94.   
+CHENG YS,GAN XH, WU ZX,et al.,2O01. Present The mangrove on the cost of guangdong[J].Prot For Sci Technol,46(1):32-35.[陈远生，甘先华，吴中亨，等,2001．广东省沿海红树林现状和发展[J]．防护林科 技,46 (1): 32-35.]   
+CHEN ZM,HE J,HE H,et al.,20O6.Isolation and screening of endophytic antifungal bactetia mangroves[J]. Microbiol,33(3):18-23.[陈振明，何进坚，何红，等,2006.红树林内生细菌的分离及拮抗菌筛选[J]．微 生物学通报,33(3):18-23.]   
+CHEN L,WANG W, ZHANG Y,et al., 2009.Recent progresses in mangrove conservation,restoration and research in China[J]. JPlant Ecol,2(2): 45-54.   
+HONG K,GAO AH,XIE QY,et al.,2O09. Actinomycetes for marine drug discovery isolated from mangrove soils and plants in China[J].Mar Drug,7(1): 24-44   
+HOLGIUN G, VAZQUEZ P, BASHAN Y,2001. The role of sediment microorganisms in the productivity, conservation,and rehabilitation of mangrove ecosystems: an overview[J].Biol Fetil Soil,33 (O4): 265-278.   
+JIE XC,2O07.Isolationand identification of the endophytic acti-nomycetes from mangrove and isolation and identification of the bioactive metabolites of two marine Streptomyces[D]. Trop Agric Univ S Chin: 28-31. [解修超，2007．红树植物内生放线菌的分离鉴定和2株海洋链霉菌活性代谢产物的分离鉴定[D].华南 热带农业大学:28-31.]   
+JIA CS, 2006. Calculatiang the $\mathrm { L C } _ { 5 0 }$ of insecticides with software SPSS[J]. Chin Bull Entomol, 43(3): 414-417. [贾春生,2006．利用 SPSS 软件计算杀虫剂的 $\mathrm { L C } _ { 5 0 }$ [J]．应用昆虫学报,43(3):414-417.]   
+KIM KH,ROHSW,CHANGHW,et al.,2O09. Nitratireductor basaltis sp.nov. isolated from black beach sand[J]. Int JSyst Evol Microbiol,59(1): 135-8.   
+LI F, GAO C H, ZHU L B,et al., 2016.Diversity and cytotoxic activityof endophytic bacteria isolated from Sonneratia apetala of Maowei Sea[J]. Acta Microb Sin,56(4): 689-697.[李菲，高程海，竺利波，等,2016. 茅尾海无瓣海桑内生细菌多样性及其细胞毒活性[J]．微生物学报,56(4):689-697.]   
+LI JY,ZHOU WH,LIF,et al.，2O17.Diversity of cultivated marine bacteria andantibacterial activity of endophytic bacterial in Rhizophora stylosa[J].Guihaia,37(3):308-314.[李家怡，周文红，李菲，等, 2017．红海榄内生细菌多样性及其抑制鱼类致病菌活性研究[J].广西植物, $3 7 ( \ 3 ) : 3 0 8 { - 3 1 4 . } ]$ （20   
+LIU J,MA K M, QUL Y,2018. Heavy metal polution assessment and source analysis in the water of Zhanjiang mangrove swamp[J].JHydroecology,39(1):23-31.[刘静，马克明，曲来叶,2018．湛江红树林湿地水体重 金属污染评价及来源分析[J]．水生态学杂志,39(1):23-31.]   
+LIU H,YANG C, TIAN Y, et al., 2010. Analysis of microbial community structure in mangrove sediments by PCR-DGGE technique[J]. Acta Microbiol Sin, 50(7): 923-930.   
+LI F, GAO CH, ZHU LB,et al.,2016.Diversityand cytotoxic activity of endophytic bacteria isolated from Sonneratia apetala of Maowei Sea[J].Acta Microb Sin,56(4): 689-697.[李菲，高程海，竺利波,等．茅尾海 无瓣海桑内生细菌多样性及其细胞毒活性[J]．微生物学报,2016,56(4):689-697.]   
+LEI JC,LI CH, HUANG HQ, et al.,20O7. Screening of Marine Actinomycetes With Nematicidal Activity and the Identification of Strain HA0701l[J]. Biotechnol Bull,(6):146-149.[雷敬超,李传浩，黄惠琴，等,2007．杀 线虫海洋放线菌的筛选及菌株 HA07011 的鉴定[J].生物技术通报,(6):146-149.]   
+LIU FF,2012. Study of the tidal-flat area mangrove bacterial diversity from Zhanjiang[D]. Guangdong Ocean Univ.[刘菲菲．湛江红树林滩涂海洋细菌多样性的研究[D]．广东海洋大学,2012.]   
+LI FN,PANZ,TUOL,etal.,2017. Studies on the diversity and noveltyof endophytic actinobacteria isolated from mangrove plants collected in Macao [J].Chin JAntibiot,42(4): 284-293.[李飞娜，潘臻，廣利，等,2017. 澳门红树林植物内生放线菌多样性及新颖性研究[J].中国抗生素杂志,42(4):284-293.]   
+QIN M,YU QW, ZHU LB,et al., 2016. Diversity of epiphytic bacteria of three species of gracilaria and their bacteriostatic activities[J].JS Agric,47(11):1966-1973.[覃媚，于清武，竺利波，等,2016.三种江共附 生细菌多样性及抑菌活性分析[J]．南方农业学报,47(11),1966-1973.]   
+TONG LY,2011. Isolation and identification of actinomycetes from the soil of root system of mangrove forest in Zhangjiang[D].Guangdong ocean Univ.[仝林燕,2011．湛江红树林滩涂放线菌的分离鉴定[D]．广东海洋 大学.]   
+WU Y,LI XJ,CHEN JH,et al.，2O17.Diversityandantimicrobial activityof actinobacteria isolated from mangrove rhizosphere soil in Beilun Estuary,Guangxi [J]. Chin JAntibiot,42(04):302-310.[吴越，李小俊, 陈建宏，等,2017.广西北仑河口红树林植物根际土壤放线菌多样性及抗菌活性研究[J].中国抗生素杂 志,42(04): 302-310.]   
+WANG S, GUO LY, ZHU XF, et al.,2018.Toxicity of fungus snef 210 against Meloidogyne incognita in tomato [J].Plant Protec,44(06):55-60.[王帅，郭龙玉，朱晓峰，等,2018．聚多曲霉 Snef210对南方根结线虫毒性 的研究[J]．植物保护,44(06): 55-60.]   
+WALSH PS,METZGER DA,HIGUCHI R,1991.Chelex 100 as a medium for simple extraction of DNA for PCR-based typing from forensic material[J]. Biotechniques,10(4): 506-513.   
+WEI YJ,2006.Control of wheat nematode diseases[J]. Mod Agric Sci Technol,(8): 67-67.[蔚应俊,2006.小麦 线虫病害的防治[J]．现代农业科技,(8):67-67.]   
+WEI YZ, ZHANG YQ, ZHAOLL, et al.,2010. Isolation, screening and preliminary identification of endophytic actinobacteria from mangroves at Shankou of Guangxi Province[J]. Microbiology,37(6):823-828.[魏玉珍, 张玉琴，赵莉莉，等，2010．广西山口红树林内生放线菌的分离、筛选及初步鉴定[J]．微生物学通报， 37(6): 823-828.]   
+WEI YZ,ZHAO LL,LI QP,et al.,2009.Isolationand activityscreening of endophytic bacteria from mangrove in shankou guangxi[C].Establishment meetacad semin microbiol resour commitee Chin soc microbiol.[魏玉珍, 赵莉莉，李秋萍，等，2009.广西山口红树林内生菌的分离及生理活性筛选[C]．中国微生物学会微生物 资源专业委员会成立大会暨学术研讨会.]   
+XU M,2015.Study on diversity and bioactivity of actinobacteria isolated from mangrove plants colected from Zhanjiang in Guangdong Province[D].Guilin med univ.[许敏,2015.广东湛江红树植物内生放线菌资源 勘探及生物活性研究[D]．桂林医学院.]   
+XU DB，YE WW,HAN Y,et al.， 2014. Natural Products from Mangrove Actinomycetes[J]. Mar Drug, 12(5):2590-2613.   
+XU M,LI J,DAI SJ,et al.,2016. Study on diversity and bioactivityof actinobacteria isolated from mangrove plants collected from Zhanjiang in Guangdong Province[J].Chin JAntibiot,41(O1): 26-34.[许敏,李静，戴 素娟,等,2016.广东湛江红树林植物内生放线菌资源勘探及生物活性研究[J].中国抗生素杂志，41(01): 26-34.]   
+ZHOU SQ,HUANG XL,HUANG DY, et al.,2010. A rapid method for extracting DNA from a ctinomycetes by chelex-100[J].Biotechnol Bull,(2):123-125.[周双清，黄小龙，黄东益，等,2010.Chelex-100 快速提取放 线菌DNA作为 PCR 扩增模板[J].生物技术通报,(2):123-125.]   
+ZHAO K,PENTTINEN P,GUAN T,et al.，2011.The diversity and anti-microbial activity of endophytic actinomycetes isolated from medicinal plants in Panxi plateau, China[J]. Curr Microbiol, 62:182-190.

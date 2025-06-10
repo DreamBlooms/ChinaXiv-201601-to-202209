@@ -1,0 +1,164 @@
+# 滇西北高山冰缘带植物新记录
+
+徐波，陈光富2\*(1.西南林业大学 林学院，昆明650224；2.丽江师范高等专科学校 应用技术学院，云南丽江 674199)
+
+摘要：高山冰缘带是陆地上海拔最高的植被带，自然条件恶劣，难以到达。滇西北高山冰缘带植物区系具有丰富的物种多样性，特有性高。该文对滇西北高山冰缘带进行植物多样性调查，通过采集标本、查阅植物志及模式标本等参考资料进行形态特征研究，发现云南新记录属1个，即囊种草属(Thylacospermum Fenzl)，新记录种5个：囊种草[Thylacospermumcaespitosum(Camb.） Schischk]、红萼蝇子草[Silene rubricalyx (Marq.） Bocquet]、狭叶丛菔(Solms-laubachia angustifolia J.P. Yue，Al-Shehbaz & H. Sun)、圆齿鸦跖花[Oxygraphisendlicheri (Walp.) Bennet & S.Chandra]及密垫火绒草[Leontopodium haastioides (Hand.-Mazz.)Hand.-Mazz.]。这些新发现一方面丰富了滇西北高山冰缘带植物区系资料，另一方面说明高山冰缘带植物多样性调查仍存在不足。针对青藏高原高山冰缘带，特别是植物多样性调查薄弱及空白地区，细致和深入的调查工作亟待开展和完善。
+
+关键词：滇西北，高山冰缘带，多样性调查，区系，新记录中图分类号：Q949 文献标识码：A
+
+# New record to alpine subnival belt of Northwest Yunnan
+
+XU ${ \bf B 0 } ^ { 1 }$ , CHEN Guangfu2\* (1.Forestry college, Southwest Forestry University, Kunming 650224, China; 2.Applied Technology College,Lijiang Normal College,Lijiang 674199, Yunnan, China)
+
+Abstract:The alpine subnival belt is the highest in the terrestrial vegetation belt,endures harsh natural environment, and is inaccessible due to high altitudes and remote distances.Alpine subnival flora of Northwest Yunnan harbours abundant plant diversity and high endemism. In this study,we investigated the plant diversity of the alpine subnival belt in Northwest Yunnan through collection specimens and the studies on morphological characteristics based on the flora references and type specimens. One new record genus and five new record species in Yunnan have been reported: Thylacospermum Fenzl, Thylacospermum caespitosum (Camb.） Schischk, Silene rubricalyx (Marq.） Bocquet， Solms-laubachia angustifolia J. P. Yue, Al-Shehbaz & H. Sun, Oxygraphis endlicheri (Walp.） Bennet & S. Chandra, Leontopodium haastioides (Hand.-Mazz.) Hand.-Mazz.These new records enrich the floristic information for the alpine subnival belt in Northwest Yunnan,and they prove that there are still deficiencies in the investigation of plant diversity in the alpine subnival belt. It is urgent to thoroughly carry out and improve investigation work in the alpine subnival belt of the Qinghai-Tibet Plateau,especially in the under-investigated
+
+and blank areas.
+
+Key words: Northwest Yunnan,alpine subnival belt, plant diversity investigation, flora, new record
+
+全国范围而言，云南省的生物多样性编目工作做得较好，先后完成了《云南种子植物名录》《云南植物志》等编研工作，基本阐明了云南植物多样性及分布规律、植物区系特征。陈丽等(2013)对云南省高等植物多样性与分布状况的研究表明，对该地区特别是历史上调查不足的区域开展深度的调查依然十分必要。在滇西北的横断山区高山带，由于海拔高、地形复杂、气候恶劣、缺氧，细致的植物多样性调查工作难度大，导致植物标本采集匮乏，逾半数植物标本采集量仅1-2号；且海拔越高，平均标本采集量越少(张大才和孙航，2008)。高山冰缘带位于山地垂直植被带顶端，海拔更高，气候条件更加残酷，交通不便，难以到达，植物多样性调查更加薄弱，影响了人们对高山冰缘带植物多样性的认识。
+
+为此，徐波等在参考《横断山区维管植物》《西藏植物志》《云南植物志》《青海植物志》及FloraofChina 等文献资料基础上，查阅国内横断山区主要馆藏标本，结合大量的高山冰缘带考察，完成《横断山高山冰缘带种子植物》，并分析了横断山高山冰缘带植物组成及区系特征，证实该植物区系具有丰富的种子植物多样性，特有性非常高，植物特殊适应结构和资源类型多样(徐波等，2014)。值得注意的是，高山冰缘带不是一个连续分布的植被带，山系内各个山峰相互隔离，形成特殊的“天空岛”(sky islands)；“岛上”的气候、植被及物种与其周边低海拔地区不同(Heald,1951;He&Jiang,2014)。同时，低海拔异质的生境对高山冰缘带物种的迁移扩散形成障碍，导致冰缘带的特有物种呈现狭域分布格局，甚至局限在某一个特定山头，如十字花科丛菔属(Solms-laubachia)、罂粟科紫堇属(Corydalis)等植物(徐波等，2014)。高山冰缘带存在较多狭域分布的特有种，这要求广泛深入开展植物多样性调查。
+
+尽管之前的冰缘带植物多样性调查覆盖了横断山大部分地区，因调查时间、调查山体坡向、调查人员植物分类能力差异等原因，该地区本底调查仍存在遗漏，部分山系冰缘带调查力度不足，诸多偏远山区难以到达，调查存在不足，甚至空白。近几年横断山高山冰缘带仍有不少新类群发表，如云南省德钦县国道214 公路边的白马雪山发现白马山柴胡(Bupleurumbaimaense) (Ma et al.,2013)和轮叶绿绒蒿(Meconopsis uniflora) (Yoshida et al.,2019)，云南省香格里拉市的天宝雪山发现天宝山丛菔(Solms-laubachia tianbaoshanensis）(Chen et al.,2018)，香格里拉市格咱乡大雪山的孙航雪莲(Saussurea sunhangii) (Raab-Straube,2017)，四川省小金县国道 318 路边巴郎山垭口的巴郎山雪莲(S.balangshanensis) (Zhang et al.,2019)等。要强调的是，高山冰缘带植物生长季较短(6月—10月)，导致野外科考窗口期短暂；植物花期不同步，有些类群6月份开花(如十字花科等)，有些直到9月份才开花(如龙胆科、伞形花科等)；另外，同一时间、同一山体的不同坡向，物种的差异很大。高山冰缘带的特殊性给野外工作和植物多样性本底调查增加了不少难度。高山冰缘带还有多少物种没有被发现，未来如何开展冰缘带植物多样性调查，作者坚信对调查薄弱和空白地区的高山冰缘带开展细致和深入的调查研究，一定会有新的发现。自2006年以来，作者一直坚持围绕青藏高原高山冰缘带开展植物多样性调查研究。
+
+# 1研究区域概况
+
+高山冰缘带是高山带上部生态系统向冰雪带的过渡(Nagy& Grabherr,2009)。高山冰缘带植物区系是高山垂直带谱中位居最高，与冰雪带相邻接的植被带中植物种类的总称(李渤生等，1981；徐波等，2014)。横断山区纬度较低，不少的山峰没有永久积雪，但在山顶附近，由于寒冻及强烈风化，地表岩石剥落成大小不等的砾石，石隙中有少量的土壤，基质贫瘠，植被稀疏，这类生境也归入高山冰缘带(图1：A)。高山冰缘带植被是陆地上海拔最高的植被带，其所处的生境是陆地植物多样性分布的极限环境，空气稀薄、年均温低、昼夜温差大、强风、日照辐射强烈，气候温度变化剧烈，在数小时内可经受强风、暴晒、雨雪或冰雹的袭击，这样严酷的自然条件限制了大多数物种的生存，仅少数具有特殊生物学特性的物种才能定居于此。高山冰缘带植物区系是植物适应极端或极限生存环境的产物，其植物区系组成主要是由适应冰雪或严寒生境的寒旱生或寒冷中旱生的多年生轴根性草本及垫状植物组成。其主要特点是植被极度稀疏、盖度低、种群小、群落结构简单，植物生长季节短，常呈斑块状不连续分布，具有先锋群落性质和呈小聚群分布的特征(李渤生等，1981；刘伦辉等，1984；吴征镒等，1987)。
+
+滇西北位于横断山区南部，孕育了全球最丰富的生物多样性资源，被认为是世界上生物多样性热点地区之一的印度-缅甸区中物种最为丰富的区域(Myers et al.,2000;Boufford et al.,2004)，同时也是高山冰缘带植物多样性异常丰富的区域。大雪山垭口(面向四川方向，左侧)高山冰缘带，位于云南省迪庆藏族自治州香格里拉市格咱乡，市区以北直线距离约 $8 4 \mathrm { k m }$ 省道217公路边左侧约 $2 \mathrm { k m }$ 处，海拔 $4 2 9 5 { \sim } 4 8 7 9 \mathrm { m }$ ，所在地无气候观测站。巴拉格宗垭口高山冰缘带位于迪庆藏族自治州香格里拉市尼西乡，市区西北直线距离约 $7 0 ~ \mathrm { k m }$ ，海拔4$3 1 4 { \sim } 4 ~ 6 8 7 ~ \mathrm { m }$ ，所在地无气候观测站。住古雪山高山冰缘带，位于云南省丽江市玉龙纳西族自治县鸣音镇，市区以北直线距离约 $6 2 ~ \mathrm { k m }$ ，海拔 $4 ~ 1 2 5 { \sim } 4 ~ 3 1 2 ~ \mathrm { m }$ ，所在地无气候观测站。三个调查地点地处偏远山区，交通不便，植物多样性调查薄弱，其植被稀疏，为高山稀疏砾石草甸及流石滩，均属高山冰缘带植被。
+
+# 2研究方法
+
+在植物多样性野外调查过程中，重点关注偏远且调查不足地区的高山冰缘带，强调回访调查。在同一地点开展高山冰缘带植物多样性调查，秉承同一时间和不同坡向，不同时间和不同坡向多次开展，兼顾花期及果期开展多次调查的原则。选择长势良好，有花或有果的个体采集标本，同时收集种子及分子材料，以备后期开展相关的细胞学及分子生物学研究。用报纸压制，配合瓦楞纸及暖风机烘烤制作标本。参考《云南植物志》《横断山区维管植物》《横断山高山冰缘带种子植物》《中国植物志》《西藏植物志》及FloraofChina进行物种初步鉴定，同时利用数据库(如 https://plants.jstor.org 等)查阅模式标本，进行形态学比较研究，进一步鉴定物种。
+
+# 3研究结果
+
+# 3.1 石竹科(Caryophyllaceae)
+
+3.1.1新记录属 囊种草属(ThylacospermumFenzl) 图1：B
+
+囊种草 Thylacospermum caespitosum (Camb.) Schischk. in Sched. ad Herb.Fl. Ross 9:90.1932；西藏植物志1：704．图版224：7-12.1983；横断山区维管植物(上)：414.1991；中国植物志26：251.1996；Flora of China 6:40-41.2001；横断山高山冰缘带种子植物 240.2014.
+
+主要特征：多年生垫状草本，常呈球形，直径达 $3 0 \mathrm { c m }$ 或更大，全株无毛。茎基部强烈分枝，木质化。叶排列紧密，呈覆瓦状，叶片卵状披针形，长 $2 { \sim } 4 \ \mathrm { m m }$ ，宽约 $2 \ \mathrm { m m }$ ，顶端短尖，质硬，有光泽。花单生茎顶，几无梗；萼片披针形，长约 $2 . 5 \mathrm { m m }$ ，宽约 $1 \mathrm { m m }$ ，顶端钝或渐尖，具3条绿色脉；花瓣5或4，卵状长圆形，顶端稍圆钝，基部稍狭，全缘；花盘圆形，肉质，黄色；雄蕊10，短于萼片；花柱3或2，线形，常伸出萼外。蒴果球形，直径$2 . 5 { \sim } 3 ~ \mathrm { m m }$ ，黄色，具光泽,6或4齿裂;种子肾形，直径约 $1 . 5 \mathrm { m m }$ ，具海绵质种皮(Lu&Gilbert,2001)。
+
+分布：中国的新疆、青海、甘肃、四川(南至木里、稻城)、西藏(东达类乌齐、八宿)。
+
+生于海拔 $( 3 ~ 6 0 0 { \sim } ) 4 ~ 3 0 0 { \sim } 6 0 0 0 \mathrm { m }$ 的山顶流石滩、岩石缝和高山垫状植被中。哈萨克斯坦、吉尔吉斯、印度西北部、尼泊尔、印度锡金邦也有。模式标本采自印度西北部(Lu& Gilbert,2001)。
+
+中国云南新记录。
+
+凭证标本：2011年9月16日，徐波等 SunH-07ZX-3530(KUN)；2012年7月6日，徐波、罗冬XUBo-517(KUN)；2017年10 月4日，徐波、叶法志、吕圣林、周媛婷、李东Tsui-1024(KUN)；云南省香格里拉市格咱乡大雪山垭口左侧，海拔 $4 3 6 5 \mathrm { ~ m ~ }$ ，高山流石滩;经纬度为 $9 9 ^ { \circ } 4 8 ^ { \prime } 2 3 . 9 3 "$ E、 $2 8 ^ { \circ } 3 4 ^ { \prime } 1 7 . 4 6 " \mathrm { ~ N ~ }$ 。伴生种主要有梭沙韭(Allium forrestii)、香青属一种(Anaphalis sp.)、灰岩紫堇(Corydalis calcicola)、紫茎垂头菊(Cremanthodium smithianum)、孙航雪莲(Raab-Straube,2017)、维西风毛菊(Saussurea spathulifolia)、旱生丛菔(Solms-laubachiaxerophyta)等。
+
+# 3.1.2蝇子草属(SileneL.)新记录种图1：C
+
+红萼蝇子草 Silene rubricalyx (Marq.)Bocquet,Candollea 22:15.1967；横断山区维管植物(上): 422.1991；中国植物志 26: 322-323.1996; Flora of China 6: 92-93.2001.—Melandriumrubricalyx(Marq.)Pax&Hoffm.，西藏植物志1:724.1983.
+
+主要特征：多年生草本，高 $5 { \sim } 1 5 ~ ( \sim 2 0 ) ~ \mathrm { c m } .$ 。根粗壮，木质，常具匍匐茎。茎疏丛生，直立，不分枝，密被紫色腺柔毛。基生叶叶片匙形或狭倒披针形，长 $2 . 5 { \sim } 5 \mathrm { c m }$ ，宽 $7 { \sim } 1 3 ~ \mathrm { m m }$ 顶端急尖或近急尖，下面中脉明显，被柔毛；茎生叶1\~2对，较小，叶片椭圆形，长 $1 { \sim } 2 \mathrm { c m }$ 。花1\~3朵，微俯垂，花后直立，花梗长 $2 . 5 { \sim } 3 ~ \mathrm { c m }$ ，被腺柔毛；苞片披针形，被腺毛；花萼钟形或筒状钟形，膜质，呈囊状，长 $1 3 { \sim } 1 7 ~ \mathrm { m m }$ ，宽 $8 { \sim } 1 0 \ \mathrm { m m }$ ，口张开，果时膨大，密被腺柔毛，纵脉褐色或紫黑色，萼齿宽三角形，长约 $4 \mathrm { m m }$ ，被细柔毛，边缘具缘毛；雌雄蕊柄约长 $3 \mathrm { m m }$ ，被绵毛；花瓣露出花萼约 $7 \mathrm { m m }$ ，爪外露 $2 { \sim } 3 ~ \mathrm { m m }$ ，楔形，长 $1 3 { \sim } 1 4 ~ \mathrm { m m }$ ，宽5\~6mm，上部具三角状卵形耳，淡红色，瓣片开展，轮廓宽卵形，长约 $5 \mathrm { m m }$ ，紫色或深紫色，4裂；雄蕊微露花冠喉部，花丝基部被柔毛。蒴果球形或椭圆形，比宿存萼短，5齿裂；种子近球形，微压扁，长约 $1 . 5 \mathrm { m m }$ ，褐色，光亮，脊具不明显小瘤(Zhou et al.,2001)。
+
+分布：中国的西藏东部(察隅、墨脱)、四川(西南)。生于海拔 $3 4 0 0 { \sim } 3 6 0 0 ( { \sim } 4 3 0 0 ) \mathrm { m }$ 的高山草甸矮柳丛，石灰岩石砾中，花岗岩陡坡岩隙(Zhou etal.,2001)。
+
+中国云南新记录。
+
+凭证标本：2011年9月16日，徐波等 SunH-07ZX-3543(KUN)；2015年10月14日，徐波、陈光富、张煜坤、王洪斌 Tsui-311(KUN)；云南省香格里拉市格咱乡大雪山垭口左侧，海拔 $4 3 3 5 \mathrm { m }$ 的流石滩；经纬度为 $9 9 ^ { \circ } 4 8 ^ { \prime } 2 3 . 1 2 " \mathrm { E }$ 、 $2 8 ^ { \circ } 3 4 ^ { \prime } 1 2 . 8 3 " \mathrm { N }$ 。伴生种主要有梭沙韭、红指香青(Anaphalis rhododactyla)、灰岩紫堇、马鞭草叶马先蒿(Pedicularis verbenaefolia)、杜鹃花属一种(Rhododendron sp.)、柳属一种(Salix sp.)、维西风毛菊等。
+
+# 3.2十字花科(Brassicaceae)新记录种图1：D
+
+丛菔属(Solms-laubachia Muschl.）狭叶丛菔 Solms-laubachia angustifolia J.P. Yue, Al-Shehbaz &H. Sun in Ann.Missouri Bot.Gard.95(3):532.2008；横断山高山冰缘带种子植 物 210-211.2014.
+
+主要特征：多年生，簇生草本，高 $2 { \sim } 6 \ \mathrm { c m }$ ；茎基部被宿存叶柄。基生叶莲座状；叶片线形，长 $2 . 0 { \sim } 7 . 7 ~ \mathrm { c m }$ ，宽 $0 . 3 { \sim } 1 . 3 \ \mathrm { m m }$ ，无纤毛，正面具沟槽，疏被软毛，边缘全缘；叶柄$0 . 4 { \sim } 1 . 5 ~ \mathrm { c m }$ ，增厚，不具纤毛；无茎生叶；花蓝紫色，芳香，宽椭圆形、阔倒卵形；果梗单生于基部叶丛，长 $1 { \sim } 1 . 7 ~ \mathrm { c m }$ ；子房有14\~22 枚胚珠。果实，线形至狭椭圆形，长 $1 . 6 { \sim } 4 . 8 ~ \mathrm { c m }$ 宽 $4 { \sim } 8 \ \mathrm { m m }$ ，光滑，具不明显的网状脉；隔膜完整；花柱 $1 { \sim } 1 . 6 \ \mathrm { m m }$ ；柱头全缘至轻微2裂；种子两列，阔卵形至近圆形(Yue etal.,2008)。
+
+分布：中国的四川西南部(木里、稻城)。生于海拔 $3 8 0 0 { \sim } 5 2 0 0 \mathrm { m }$ 的砾石草甸、流石滩、
+
+峭壁(Yue et al.,2008；徐波等，2014)。
+
+中国云南新记录。
+
+凭证标本：2017年6月8日，徐波、彭建生等 Tsui-834(KUN)；云南省香格里拉市尼西乡巴拉格宗垭口,海拔 $4 3 1 4 \mathrm { m }$ 的砾石草地，流石滩;经纬度为 $9 9 ^ { \circ } 2 6 ^ { \prime } 4 9 . 3 3 " \mathrm { E } . 2 8 ^ { \circ } 2 3 ^ { \prime } 5 6 . 3 8 "$ N。伴生种主要有穗花粉条儿菜(Aletris pauciflora var.khasiana)、香青属一种(Anaphalis sp.)、川滇雀儿豆(Chesneya polystichoides)、高山大戟(Euphorbia stracheyi)、裹盔马先蒿(Pediculariselwesii)、柳属一种(Salix sp.)、堇菜属一种(Viola sp.)等。
+
+# 3.3毛茛科(Ranunculaceae)新记录种图1：E
+
+鸦跖花属(Oxygraphis Bunge）圆齿鸦跖花 Oxygraphis endlicheri(Walp.） Bennet & S.Chandra，Indian Forester 108:374.1982；Flora of China 6: 434.2001．- -Oxygraphispolypetala J.D.Hooker& Thomson.Fl.Ind.27.1855；中国植物志 28：331-334.1980；西藏植物志2：109-111.1985.
+
+主要特征：植株高 $4 { \sim } 8 \ \mathrm { c m }$ ，簇生。须根长。基生叶2\~5片，光滑；叶片近纸质，圆形，肾形或卵形，长 $5 { \sim } 2 0 ~ \mathrm { m m }$ ，宽 $7 { \sim } 2 2 ~ \mathrm { m m }$ ，基部近心形或截形，边缘有5\~13个浅圆齿，顶端钝或圆钝；叶柄长 $3 { \sim } 5 \mathrm { c m }$ ，基部有膜质宽鞘。花葶1\~4条，长于 $1 . 5 \mathrm { c m }$ ，果期延长可达 $6 \mathrm { c m }$ 光滑；苞片1枚或不存在，线形或倒卵状楔形，全缘或3浅裂；花单生，直径 $1 . 2 { \sim } 2 \mathrm { c m }$ ；萼片5，光滑，近革质或厚纸质，卵形或椭圆形，长 $3 { \sim } 8 \ \mathrm { m m }$ ，果后增大，宿存；花瓣黄色或表面白色，10\~15枚，长圆状匙形，长 $6 { \sim } 1 0 \ \mathrm { m m }$ ，宽 $1 . 2 { \sim } 4 \ \mathrm { m m }$ ，顶端尖，基部渐狭成爪，蜜槽呈杯状凹穴；花药椭圆形，长约 $0 . 5 { \sim } 0 . 8 \ \mathrm { m m }$ ；花托无毛。聚合果卵球形，直径 $8 { \sim } 1 0 \ \mathrm { m m }$ 有多数密集光滑的瘦果；瘦果菱状楔形，长约 $2 \ \mathrm { m m }$ ，宽约 $1 \ \mathrm { m m }$ ，有4条纵肋，顶端有长约 $0 . 5 \mathrm { m m }$ 的直喙(Wang et al.,2001)。
+
+分布：中国的西藏南部(亚东)。生于海拔 $3 ~ 6 0 0 { \sim } 5 ~ 0 0 0 ~ \mathrm { m }$ 的高山草甸或林缘。不丹、印度北部、尼泊尔、克什米尔、巴基斯坦北部也有(Wang etal.,2001)。
+
+中国云南新记录。
+
+凭证标本：2012年7月6日，徐波、罗冬XUBo-526(KUN)；2017年10月4日，徐波、叶法志、吕圣林、周媛婷、李东 Tsui-1022(KUN)；2019年6月19日，徐波、王俊伟、刘云Tsui-1289(KUN)；云南省香格里拉市格咱乡大雪山垭口，生于海拔 $4 3 5 5 \mathrm { m }$ 的砾石草地、流石滩；经纬度为 $9 9 ^ { \circ } 4 8 ^ { \prime } 2 6 . 1 0 "$ E、 $2 8 ^ { \circ } 3 4 ^ { \prime } 1 6 . 3 2 " \mathrm { ~ N ~ }$ 。伴生种主要有西藏无柱兰(Amitostigmatibeticum)、银莲花属一种(Anemone sp.)、宽翅碎米荠(Cardamine franchetiana)、美丽蓝钟花(Cyananthus formosus)、台氏马先蒿(Pedicularis delavayi)、独一味(Phlomis rotata)、维西风毛菊、旱生丛菔等。
+
+![](images/4f0d30a2c049ed5f6ef6924d527a379828d9ede2935fa4d65104e21f58da192d.jpg)  
+图1新记录种及滇西北高山冰缘带生境
+
+A．滇西北高山冰缘带生境；B.囊种草；C.红萼蝇子草；D.狭叶丛菔；E.圆齿鸦跖花；F.密垫火绒草。 A.Habitat of alpine subnival in Northwest Yunnan;B.Thylacospermum caespitosum (Camb.)Schischk.; C.Silene rubricalyx (Marq.)Bocquet; D.Solms-laubachia angustifolia J.P. Yue,Al-Shehbaz & H. Sun; E. Oxygraphis endlicheri (Walp.) Bennet&S.Chandra;F.Leontopodium haastioides (Hand.-Mazz.)Hand.-Mazz.
+
+Fig.1 New record species and habitat of alpine subnival in Northwest Yunnan
+
+# 3.4菊科(Asteraceae)新记录种图1：F
+
+火绒草属(Leontopodium R. Brown） 密垫火绒草 Leontopodium haastioides (Hand.-Mazz.)Hand.-Mazz. in Beih.Bot.Centralbl. 44(2): 84. pl.I,7.1928；西藏植物志4：676.1985；横断山区维管植物(下)：2013.1994；中国植物志75：115.1979；Flora ofChina 20-21：778-781.2011；横断山区高山冰缘带种子植物343.2014.
+
+主要特征：多年生草本，形成紧密垫状，直径可达 $1 0 \mathrm { c m }$ 。根状茎细长，多分枝。根出条多数，高 $1 . 5 { \sim } 3 ~ \mathrm { c m }$ ，叶丛密集覆瓦状，基部具宿存老叶，整体呈短圆柱状。叶匙形或椭圆形， $2 { \sim } 6 \times 1 { \sim } 2 \ \mathrm { m m }$ ，基部紧贴，薄，干膜质，背面疏被蛛丝状毛，叶上端平展，加厚，草质，密被灰色绒毛，顶端圆。头状花序单生，雌雄异株，或多数为雌花，直径 $3 { \sim } 4 ~ \mathrm { m m }$ ；苞叶不存在，头状花序隐没于根出条顶端的叶丛中，无花序梗。总苞披针形至倒披针形， $4 { \sim } 6 \times 0 . 6 { \sim } 2$ mm，顶端急尖或圆钝，花冠长 $3 { \sim } 4 ~ \mathrm { m m }$ 。瘦果长约 $1 . 2 \mathrm { m m }$ ，有乳突或光滑；不育的子房光滑或疏被柔毛。冠毛白色，长约 $4 \mathrm { m m }$ (Chen& Bayer,2011)。
+
+分布：中国的西藏(定结、浪卡子、亚东、措美等地)、四川(木里)。生于海拔4300\~5 300$\mathbf { m }$ 的高山砾石草甸，流石滩，雪线附近瘠地和岩石上、冰川冲积地。不丹、印度(锡金)、尼泊尔也有(Chen&Bayer,2011)。
+
+中国云南新记录。
+
+凭证标本：2017年10月1日，徐波、叶法志、吕圣林、周媛婷、李东 Tsui-1005(KUN);2019 年7月2日，徐波、王俊伟、刘云 Tsui-1399(KUN)；云南省丽江市玉龙县鸣音镇住古雪山，海拔 $4 2 2 9 \mathrm { m }$ 的流石滩；经纬度为 $1 0 0 ^ { \circ } 1 7 ^ { \prime } 5 5 . 5 0 " \mathrm { ~ E ~ }$ 、 $2 7 ^ { \circ } 2 4 ^ { \prime } 5 2 . 0 6 " \mathrm { N } .$ 。伴生种主要有花叶点地梅(Androsace alchemilloides)、大花福禄草(Arenaria smithiana)、多柱无心菜(Arenariaweissiana)、秀丽绿绒蒿(Meconopsis venusta)、拟楼斗菜(Paraquilegia microphylla)、丛菔属一种(Solms-laubachia sp.)等。
+
+# 4讨论
+
+生物分类依赖于分类学家、野外考察、标本采集和分类研究(Wilson,2004)。通过研究确定囊种草(Thylacospermum caespitosum)、红萼蝇子草(Silene rubricalyx)、狭叶丛菔(Solms-laubachiaangustifolia)、圆齿鸦跖花(Oxygraphisendlicheri)和密垫火绒草(Leontopodium haastioides)五种高山冰缘带发现的植物均为云南省新记录种；其中，红萼蝇子草、圆齿鸦跖花为横断山高山冰缘带植物区系新记录。根据文献及馆藏标本，结合新分布记录，可以确定囊种草分布区类型为中亚-横断山分布，红萼蝇子草为东喜马拉雅-横断山南部分布，狭叶丛菔为横断山南部特有分布，圆齿鸦跖花为中、西喜马拉雅-横断山间断分布，密垫火绒草为中喜马拉雅-横断山间断分布。以上云南新记录(1个新记录属、5个新记录种)，采集自滇西北三座偏远的高山冰缘带，扩大了以上物种的分布区范围，说明高山冰缘带植物多样性调查不足，需持续开展研究工作。
+
+囊种草是分布海拔最高的种子植物之一(Lu＆Gilbert,2001;徐波等,2014)，同时也是世界上最耐旱、耐寒的典型高山垫状植物(de Bello etal.,2011)。研究表明垫状植物不仅能够很好的适应高山生境，由于其特化形态结构还可对其它非垫状植物具有“护理效应”(nurse effects)(Yang，2010)。部分植物必须着生于垫状植物表面或周围才能在高山生境内生存或繁殖，因此垫状植物对维持高山植物多样性具有重要意义(Cavieres et al.,2014)。囊种草具有两种表型，一种是平坦且松散的垫状，另外一种是圆顶形且紧密的垫状；平坦且松散的类型相较于圆顶形且紧密的类型对周边高山植物的“护理作用”更强(Dvorskyetal.,2013;Michalet etal.,2016)。从区系成分上讲，囊种草属为中亚分布型，能够分布到横断山南部，说明中亚区系成分在横断山冰缘带植物区系中仍占有一席之地(吴征镒等，2006)。类似的例子如高山熏倒牛(Biebersteiniaodora)，该种最初记载仅分布到西藏西部阿里至中亚地区，其后在横断山区的左贡县也有发现(徐波等,2014)。
+
+本研究中云南新记录的红萼蝇子草采自海拔 $4 3 3 5 \mathrm { ~ m ~ }$ ，比植物志记载的海拔高 $7 0 0 \mathrm { ~ m ~ }$ 可以分布到高山冰缘带，《横断山高山冰缘带种子植物》未收录，该种亦为高山冰缘带新记录种。此外，云南新记录的圆齿鸦跖花在横断山区无标本记录，且新记录的标本采自高山冰缘带，《横断山高山冰缘带种子植物》亦未收录，该种同时为横断山高山冰缘带新记录种。狭叶丛菔花期早，为2008 年发表的新物种(Yue et al.,2008)，发表时未见到有花的标本。我们6月份开展的高山冰缘带植物多样性调查首次采集到花期标本，确定其花色为蓝紫色，完善了该种的形态学特征描述。形态上狭叶丛菔与旱生丛菔(Solms-laubachia xerophyta)相似，叶片狭窄，叶上具有沟槽，叶柄增厚；区别在于前者叶子长，叶柄及叶片光滑，果实狭椭圆形至线形；后者叶子短，通常 $0 . 7 { \sim } 2 \mathrm { c m }$ ，叶柄具纤毛，叶片被柔毛，果实披针形至线状披针形。狭叶丛菔发表时，仅有包含模式在内的8号标本，鉴于其狭窄的分布范围及初步的保护评估，将该种定为极危物种(CR)(Yue etal.,2008)。此次新发现扩大了该物种的分布区，为探讨十字花科丛菔属系统演化提供了新材料。值得注意的是红萼蝇子草、狭叶丛菔及圆齿鸦跖花花色艳丽，观赏性极佳，均为有潜力的花卉资源。
+
+密垫火绒草分布区较广泛，可能与该种具有垫状结构、植株密被绵毛有关。垫状结构和绵毛结构为高山冰缘带植物区系重要的生态适应特征，对冰缘带极端环境具有特殊的适应能力(徐波等，2014)。密垫火绒草为喜马拉雅中、西部-横断山间断分布型，这种间断分布类型见于多种高山冰缘带植物，如矮粉条儿菜(Aletris nana)、帕里韭(Allium phariense)、四川无心菜(Arenaria szechuensis)、厚棉紫菀(Aster praini)、裂叶兔耳草(Lagotis pharica)、扇叶垫柳(Salix flabellaris)等(徐波等，2014)。这些种最东分布到横断山高山冰缘带，至西可分布到西藏日喀则地区，甚至西喜马拉雅地区，但在西藏昌都、林芝、山南等地区却多未见分布记录，原因是这些地区本底调查薄弱，存在采集空白。以昌都地区为例，除上世纪七十年代吴征镒先生率队开展的植物多样性调查，以及二十世纪初中国科学院昆明植物研究所和美国哈佛大学联合开展的横断山区植物多样性联合考察外，并无其它大规模系统调查涉及高山冰缘带。横断山区冰缘带种子植物多样性编目工作已基本完成，但越来越多的新种、新记录种被发现，说明冰缘带调查仍然存在空白，针对高山冰缘带的考察仍需加强，特别是对临近的青藏高原冰缘带，强调同一地点不同坡向、不同季节多次回访的植物多样性调查亟待开展和完善。
+
+生物多样性编目是生物多样性保护与规划的基础，是生物多样性保护的核心内容(Smith& Figueiredo，2010)。详实的生物多样性数据有助于识别亟需优先保护的区域和类群，有效获取生物多样性分布数据是可持续利用和管理决策的关键(Sousa-Baena etal.,2014)。因此，加强青藏高原高山冰缘带薄弱和空白区域的物种多样性调查，对生物多样性保护工作意义重大。生物多样性分布不均匀，可用于保护的资源又存在不足，因而采取系统的、科学的方式确定优先保护的类型和地区是非常紧迫和重要的工作(马克平，2001)。目前，许多国家及相关的国际组织已根据不同的标准开展了物种濒危等级的评价工作，用以确定优先保护的物种，并开展了很多评估和确定生物多样性优先保护地区的相关研究，制定了保护优先度的不同标准(Olson&Dinerstein,1998;Myers etal.,2000；蒋志刚和罗振华,2012)。
+
+物种濒危状况评估被认为是实施生物多样性优先保护的重要工具(Mace&Lande,1991)，对制订物种保护管理政策尤其重要。因此，未来在完成青藏高原高山冰缘带种子植物多样性编目工作之后，可以根据物种的濒危状况(分布区大小和受威胁程度)、特有性(冰缘带特有和中国特有)、特殊适应结构(温室植物、绵毛植物、垫状植物等)、药用资源、花卉资源、特殊抗寒种质资源、社区的服务功能等，按照一定的标准确立优先保护物种。同时，可以根据特有植物种数、物种多样性、群落代表性、珍稀濒危植物种数/极小种群等确定优先保护区域。另外，未来在开展冰缘带植物多样性调查时，应选择样点建立固定样方，作为植物多样性监测的永久观测点，进行定期观察，获得动态数据，形成地区乃至青藏高原高山冰缘带植物多样性的监测网络体系。
+
+致谢感谢叶法志、邓成志、王洪斌、王俊伟、张煜坤等人参与野外冰缘带植物多样性调查工作，以及在调查过程中辛苦的付出，特此致谢。
+
+# 参考文献：
+
+BOUFFORD DE, DIJK PPV, ZHI L,2004. Mountains of Southwest China [M]//MITTERMEIER RA,ROBLES-GIL P, HOFFMANN M, et al.，eds. Hotspots revisited: Earth's biologically Richest and most endangered terrestrial ecoregions. 2nd ed. Mexico: Cemex: 159-164.   
+CAVIERES LA,BROOKER RW,BUTTERFIELD BJ, et al., 2014.Facilitative plant interactions and climate simultaneously drive alpine plant diversity [J]. Ecol Lett, 17: 193-202.   
+CHENHL,AL-SHEHBAZIA,YUE JP, et al., 2018. Solms-laubachia tianbaoshanensis (Brassicaceae), a new species from NW Yunnan, China [J]. Phytotaxa, 379(1): 39-48.   
+CHEN L,DONG HJ,PENG H, 2013.Diversity and distribution of higher plants in Yunnan, China[J].Biodivers Sci,21(3):359-363.[陈丽，董洪进，彭华，2013．云南省高等植物多 样性与分布状况[J]．生物多样性，21(3)：359-363.]   
+CHEN YS, BAYER RJ, 2011. Leontopodium R. Brown [M]//WU ZY, RAVEN PH, HONG DY, eds. Flora of China. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press, 20-21: 778-781.   
+DE BELLO F, DOLEZAL J, DVORSKY M, 2011. Cushions of Thylacospermum caespitosum (Caryophyllaceae) do not facilitate other plants under extreme altitude and dry conditions in the northwest Himalayas[J]. Ann Bot, 108: 567-573.   
+DVORSKY M,DOLEZAL J, KOPECKY M, et al., 2013. Testing the stress-gradient hypothesis at the roof of the world: Efects of the cushion plant Thylacospermum caespitosum on species assemblages[J]. PLoS ONE,8: e53514.   
+JIANG ZG, LUO ZH, 2012. Assessing species endangerment status: Progress in research and an example from China[J].Biodivers Sci,20(5): 612-622.[蒋志刚，罗振华，2012.物种受威 胁状况评估：研究进展与中国的案例[J].生物多样性,20(5)：612-622.]   
+HE K,JIANG XL,2014. Sky islands of Southwest China. I. An overview of phylogeographic patterns[J]. Chin Sci Bull, 59, 585-597.   
+HEALD WF,1951. Sky islands of Arizona[J]. Nat Hist, 6O: 56-63.   
+LI BS, ZHANG JW, WANG JT, et al.,1981. A preliminary study of the subnival vegetation in Xizang[J].Acta Bot Sin,23(2): 132-139.[李渤生，张经炜，王金亭，等，1981．西藏高山 冰缘植被的初步研究[J]．植物学报，23(2)：132-139.]   
+LIU LH, YU YD, ZHANG JH, 1984. The division of vertical vegetation zone in Hengduanshan [J].Acta Bot Yunnan,6(2):205-216.[刘伦辉，余有德，张建华，1984．横断山自然植被垂 直带的划分[J]．云南植物研究，6(2)：205-216.]   
+LU DQ, GILBERT MG, 2001. Thylacospermum Fenzl[M]//WU ZY, RAVEN PH, HONG DY, eds. Flora of China[M]. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press,6: 40-41.   
+MA KP,2O01. Hotspots assessment and conservation priorities identification of biodiversity in China should be emphasized[J].Acta Phytoecol Sin,25(1): 125-125.[马克平，2001．中国生 物多样性热点地区评估与优先保护重点的确定应该重视[J]．植物生态学报，25(1): 125-125.]   
+MA XG, ZHAO C, LIANG QL, et al., 2013. Bupleurum baimaense (Apiaceae), a new species from Hengduan Mountains, China[J]. Ann Bot Fen, 50(6): 379-385.   
+MACE GM, LANDE R,1991. Assessing extinction threats: Toward a re-evaluation of IUCN threatened species categories[J]. Conserv Biol, 5,148-157.   
+MICHALET R, SCHOB C, XIAO S, et al.,2016. Beneficiary feedback effects on alpine cushion benefactors become more negative with increasing cover of graminoids and in dry conditions[J]. Funct Ecol 30: 79-87.   
+MYERS N,MITTERMEIER RA,MITTERMEIER CG, et al.，20O0.Biodiversity hotspots for conservation priorities[J]. Nature, 403: 853-858.   
+NAGY L, GRABHERR G, 2009. The biology of alpine habitats[M]. New York: Oxford University Press: 1-392.   
+OLSON DM, DINERSTEIN E,1998. The Global 200: A representation approach to conserving the earth's most biological valuable ecoregions[J]. Conserv Biol, 12, 502-515.   
+RAAB-STRAUB EV, 2017. Taxonomic revision of Saussurea subgenus Amphilaena (Compositae, Cardueae)[M].Berlin: Botanic Garden and Botanical Museum Berlin, Freie Universitat Berlin. -Englera,34: 122-126.   
+SMITH GF,FIGUEIREDO E,2010. E-taxonomy:An affordable tool to fill the biodiversity knowledge gap[J]. Biodivers Conserv, 19: 829-836.   
+SOUSA-BAENA SM, GARCIA LC,PETERSON AT, 2014. Completeness of digital accessible knowledge of the plants of Brazil and priorities for survey and inventory[J]. Divers Dist, 20: 369-381.   
+YOSHIDA T, XU B, BOUFFORD DE, 2019. Revision of Meconopsis integrifolia var. uniflora (Papaveraceae)[J]. Harvard Pap Bot, 24(1): 41-46.   
+XU B,LI ZM, SUN H,2014. Seed plants of the alpine subnival belt from the Hengduan Moutains, SW China[M].Beijing:Science Press:1-413.[徐波，李志敏，孙航，2014．横断山高山冰 缘带种子植物[M]．北京：科学出版社：1-413.]   
+YANG Y, NIU Y, CAVIERES LA, etal.,2010. Positive associations between the cushion plant Arenaria polytrichoides (Caryophylla-ceae) and other plant alpine plant species increase with altitude in the Sino-Himalayas[J].J Veg Sci, 21: 1O48-1057.   
+YUE JP, SUN H,LI JH, et al., 2008. A synopsis of an expanded Solms-laubachia (Brasicaceae), and the description of four new species from Western China[J].Ann Mo Bot Gard, 95(3): 520-538.   
+WANG WC, TAMURA M, GILBERT MG, 2001. Oxygraphis Bunge[M]//WU ZY, RAVEN PH, HONG DY, eds. Flora of China. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press, 6: 434.   
+WILSON EO,2004. Taxonomy as a fundamental discipline[J]. Phil Trans Roy Soc Lond B,359: 739.   
+WU JY,PENG H, JIANG XL, et al., 2016. An inventory of county-level biodiversity in Northwest Yunnan[J].Biodivers Sci,24(12):1414-1420.[武建勇，彭华，蒋学龙，等，2016.滇西北 县域生物多样性本底调查与评估[J]．生物多样性，24(12)：1414-1420.]   
+WU ZY, ZHOU ZK, SUN H, et al., 2006. The areal-types of seed plants and their origin and differentiation[M].Kunming:Yunnan Science & Technology Press:430.[吴征镒，周浙昆, 孙航，等，2006．种子植物分布区类型及其起源和分化[M]．昆明：云南科技出版社： 430.]   
+WU ZY, ZHU YC, JIANG HQ, 1987. Vegetation of Yunnan [M]. Beijing: Science Press: 648-656. [吴征镒，朱彦丞，姜汉侨，1987．云南植被[M]．北京：科学出版社：648-656.]   
+ZHANG DC, SUN H, 2008. Distribution of specimens and species richness of seed plants above timber line in the Hengduan Mountains, Southwest China[J]. Biodivers Sci,16(4): 381-388. [张大才，孙航，2008．横断山区树线以上区域种子植物的标本分布与物种丰富度[J]．生 物多样性，16(4)：381-388.]   
+ZHANG YZ, TANG R, HUANG XH, et al., 2O19. Saussurea balangshanensis (Asteraceae), a new species from the Hengduan Mountains region, SW China[J]. Nord J Bot, e02078.   
+ZHOU LH, WU ZY,LIDEN M, et al., 2001. Silene L. [M] /WU ZY,RAVEN PH,HONG DY, eds.
+
+Flora of China[M]. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press,6: 92-93.

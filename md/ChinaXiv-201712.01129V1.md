@@ -1,0 +1,151 @@
+基础研究
+
+# 腺病毒介导靶向 $\mathbf { N F - \kappa B }$ 基因的shRNA对体外食蟹猴子宫内膜细胞增殖活性的影响
+
+朱峰城，刘木彪，潘 颖，王雪峰，陈燕英南方医科大学珠江医院妇产科，广东广州 510282
+
+摘要：目的合成高特异性靶向NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ 基因的shRNA腺病毒载体，观察其对体外培养的食蟹猴子宫内膜细胞的增殖活动是否具有直接的抑制效应。方法 设计携带有NF-kB-p65基因及空载基因的shRNA腺病毒载体,体外培养食蟹猴子宫内膜细胞,分成实验组及对照组,实验组转染携带NF- $\kappa \mathrm { B - p } 6 5$ shRNA的腺病毒,对照组转染携带空载基因的腺病毒,共培养后观察有关细胞增殖活性如凋亡蛋白及细胞周期的改变情况。结果腺病毒载体PCR和测序结果与预期结果一致，经包装产生的病毒滴度为$1 . 5 8 \times 1 0 ^ { 1 1 } \mathrm { U / m l } _ { \circ }$ NF-kB-p65-shRNA腺病毒感染食蟹猴子宫内膜细胞后,实验组子宫内膜细胞凋亡蛋白的表达水平明显高于阴性对照组 $( P { < } 0 . 0 5 )$ ;实验组凋亡细胞较对照组明显增多，进入细胞分裂期细胞数明显少于对照组 $( P { < } 0 . 0 5 )$ 。结论携带NF- $\kappa \mathbf { B }$ 基因的腺病毒体外感染食蟹猴子宫内膜细胞后可加速子宫内膜细胞的凋亡，并抑制子宫内膜细胞的增殖，为后期该基因在食蟹猴子宫内膜异位症模型上的研究提供理论基础。
+
+关键词：子宫内膜异位症;RNA干扰;NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 基因；腺病毒；食蟹猴
+
+# Adenovirus vector-mediated short hairpin RNA targeting nuclear factor-kB suppresses proliferation of endometrial cells of Macaca fascicularis in vitro
+
+ZHUFengcheng,LIU Mubiao,PAN Ying,WANG Xuefeng, CHEN Yanying DepartmentofObstetricsandGynecology,ZhujiangHspital,Southern MedicalUnioersity,Guangzhou28,ina
+
+Abstract: Objective To assessthe efect of a high specific adenovirus vector-mediated shRNA targeting nuclear factor-kB (NF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ )oncellproliferationof theendometriumof Macacafascicularis.Methods Theadenoviral vectorNF-kB-p65-shRNAand theemptyvector wereseparatelytrasnfected inculturedendometrialcelsofMacacafscicularis.Thechangesintheexpresion of the target gene proteinand apoptotic proteins,cell proliferation,andcellcycle distribution were observed after the transfection.Results Comparedwith thecontrol cels，infectionof theendometrialcells with the NF-kB-p65-shRNA adenovirus significantly increased the expresion levelsof apoptotic proteins,promoted apoptosis of theendometrial clls, and reduced the cels in division stage. Conclusions NF-kB-p65 shRNA adenovirus can efectively promote apoptosis of endometrial cells and inhibit the proliferation of endometrial cells of Macaca fascicularis.
+
+Keywords: endometriosis;RNA interference; nuclear factor KappaB;atadenovirus;Macaca fasciculari
+
+NF- $\kappa \mathbf { B }$ 基因是由美国麻省理工学院癌症研究中心的Baltimore和麻省Whitehead生物医学研究所的Rwiansen于1986年从B淋巴细胞内发现1，它作为一种重要的核转录因子，多种细胞中均可有它的存在，主要参与细胞增殖和细胞凋亡、炎症反应、免疫反应等各种病理生理过程的基因转录调控，被证实参与多种恶性肿瘤的发生发展。NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 由失活状态转为激活状态后，许多参与恶性肿瘤细胞生长、浸润以及新生血管形成的相关因子的表达或者其功能均可被上调，如VCAM-1、MMPs、IL-6、VEGF、ELAM-1、ICAM-1及 $\mathrm { I L } { - } 8 ^ { [ 2 - 5 ] }$ ，导致肿瘤细胞的粘附性、侵袭性及血管生成能力明显增强。有文献报道子宫内膜细胞及异位子宫内膜细胞同样存在着NF $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因的表达，并在调节子宫内膜细胞的细胞增殖、炎性反应、抑制凋亡等生理功能上扮演着重要的角色[69]。本课题组前期在裸鼠体内实验证实,靶向抑制NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因后可以显著减少子宫内膜异位种植和生长的机会[，但是，裸鼠毕竟是低等动物，与人的病理生理过程相差较大，不利于发病机制的模拟。雌性灵长类动物具有与人类极其相似的遗传背景，它们的内分泌、月经周期和解剖结构上与人类妇女有许多相同之处。同时也是自然界中目前已知唯一会自发性罹患子宫内膜异位症(Endometriosis,EM)的动物，因此本实验旨在通过观察沉默NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 基因的表达后是否能够抑制食蟹猴的在位子宫内膜细胞的增殖活性，为后续进一步NF-kB在食蟹猴EM模型的研究提供理论基础。RNA干扰技术作为目前最有效的转录后基因沉默方法，本实验将采用小RNA干扰技术沉默NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 的表达，并观察其作用于食蟹猴子宫内膜细胞后的效果，现将本实验报道如下。
+
+# 1材料与方法
+
+# 1.1 实验材料
+
+1.1.1主要仪器和设备光学显微镜及光学显微镜照相系统均购于日本Olympus公司, $- 8 0 \ \mathrm { { ^ circ C } }$ 冰箱购于日本Sanyo公司，752紫外光栅分光光度计购于上海第三分析仪器厂，550ELISA酶标仪购于美国Bio-Rad公司，多导生理记录仪购于美国Gilson公司,SensiAnsys凝胶图像分析系统购于上海培清科技有限公司，倒置相差显微镜购于日本Nikon公司及其他相关设备。
+
+1.1.2主要实验试剂胰蛋白酶购于美国Amresco公司，二甲基亚讽购于美国Sigma公司，胎牛血清购于美国Gibco公司,RPMI1640干粉购于美国Gibco公司，硝酸纤维素膜购于美国Amersham公司，预染蛋白Marker购于美国Fermentas公司,Cellcycle staining试剂盒购于杭州联科公司,CK19多克隆抗体、Caspase3多克隆抗体 $\mathrm { . \beta }$ -Actin多克隆抗体、CD34多克隆抗体、HRP标记驴抗兔IgG、GAPDH多克隆抗体均购于武汉Bostern 公司,Vimentin多克隆抗体。
+
+# 1.2 方法
+
+1.2.1食蟹猴子宫内膜细胞的获取 选取6\~8岁的健康雌性食蟹猴，购自广州蓝岛生物技术有限公司华南灵长类研究开发中心（动物使用许可证：SYXK（粤）[2008-0088])，体质量约 $3 . 5 ~ \mathrm { k g }$ 。于月经第8\~15天（即食蟹猴在位子宫内膜处于增殖期)，由专业动物手术麻醉师行气管插管，戊巴比妥那( $( 1 5 { \sim } 2 0 ~ \mathrm { m g / k g } )$ 行静脉全麻，常规消毒，经腹剖开子宫获取子宫内膜组织，一部分立即放置于 $10 \%$ RPMI1640培养基中待培养，另一部分子宫内膜组织即用体积分数 $4 \%$ 福尔马林液固定后作
+
+组织病理学检查[7]。
+
+1.2.2食蟹猴子宫内膜细胞的原代培养将获取的子宫内膜组织在D-hanks液中反复涮洗，去除血污，剪成 $\triangleleft 1 \mathrm { m m } ^ { 3 }$ (肉眼成糊状)的小组织块，加人3倍体积的复合消化酶( $1 \%$ 胰蛋白酶 $1 0 . 1 \%$ EDTA)中充分混匀后置$3 7 ~ \mathrm { ^ { \circ } C }$ 恒温水浴中静置消化，每隔 $1 5 \mathrm { m i n }$ 取出震荡，共消化 $6 0 ~ \mathrm { { m i n } }$ ,加入含 $20 \%$ DMEM/F12无菌胎牛血清的培养液终止上清液消化。然后使组织块自然沉降，留上清液于无菌离心管中 $2 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ,弃上清液，用巴氏吸管吹打成细胞悬液，光镜下见组分主要为核直径$2 5 ~ { \mu \mathrm { m } }$ 的球型细胞，台盼蓝染色证明细胞存活率达 $9 5 \%$ 以上，用滴板计数并调整细胞浓度，以 $5 . 0 { \times } 1 0 ^ { 5 } / \mathrm { m l }$ 接种于盛有DMEM/F12培养液的一次性 $2 5 \ \mathrm { c m }$ 培养瓶中，置于 $3 7 ~ \mathrm { ^ { 9 } C } \cdot 5 \% ~ \mathbf { C O } _ { 2 } . 9 9 \%$ 湿度的 $\mathrm { C O } _ { 2 }$ 培养箱中培养过夜，次日换液，清除污染的红细胞和未贴壁细胞，继续培养，每 $4 8 \mathrm { ~ h ~ }$ 换液。培养 $2 4 { \sim } 4 8 \mathrm { h }$ 后，细胞出现明显增殖，表现为逐渐聚集成团及成片样生长，细胞为梭形和铺路石样交织在一起，待细胞融合后取一部分细胞，用于检测子宫内膜细胞阳性标志物CK19及vimentin,剩下继续培养，用于后续实验。
+
+1.2.3NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ shRNA序列的设计及合成因未在NCBI、EBI等数据库中找到有食蟹猴NF-kB-p65的基因序列,故本实验采用人的NF-kB-p65的mRNA序列全长。由广州莱德尔生物科技有限公司遵照shRNA设计原则设计合成NF-kB-p65 shRNA和阴性对照shRNA,将2对分别含有HindⅢ与BamHI酶切位点的RNA变性退火合成双链NF-KB(各序列见表1)。
+
+表1寡核苷酸片段序列Tab.1 Oligonucleotide sequences  
+
+<html><body><table><tr><td>Gene name</td><td>Primersequence</td></tr><tr><td>NF-KB</td><td>5'-AAAAAGGACATATGAGACCTTCAATCTCTTGAATTGAAGGTCTCATATGTCC-3"</td></tr><tr><td>NF-κB-HindIIF</td><td>5'-AGCTTAAAAAGGACATATGAGACCTTCAATCTCTTGAATTGAAGGTCTCATATGTCCG-3'</td></tr><tr><td>NF-κB-BamHIR</td><td>5'-GATCCGGACATATGAGACCTTCAATTCAAGAGATTGAAGGTCTCATATGTCCTTTTTA-3'</td></tr></table></body></html>
+
+1.2.4 退火产物与PDC316-EGFP-U6载体重组 $\textcircled{1}$ 应用限制性内切酶HindI和BamH1对质粒PDC316-EGFP-U6进行双酶切， $3 7 ^ { \circ } \mathrm { C }$ 环境过夜，然后回收酶切产物，利用DNA凝胶回收试剂盒回收酶切产物； $\textcircled{2}$ 将含有黏性末端的PDC316-EGFP-U6载体和退火后的含NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 基因的shRNA连接，同时以水代替基因与PDC316-EGFP-U6载体连接，作为阴性自连对照， $1 6 ~ \mathrm { { ^ circ C } }$ 连接 $2 \mathrm { h }$ ，随后进行转化； $\textcircled{3}$ 冰浴条件下将 $6 ~ \mu \mu$ 连接产物分别加入至 $3 0 \mu \mathrm { l } \mathrm { D H } 5 \alpha .$ 感受态细胞中进行转化，将菌液涂布于含氨苄青霉素( $\mathrm { 1 0 0 \ : \mu g / m l }$ )的LB平板表面，室温下放置，至液体吸收，倒置平板，转移入 $3 7 ~ \mathrm { ^ { \circ } C }$ 生化培养箱过夜培养。结果阴性对照平板无菌落生长，而实验组所涂布平板长较多菌落，认为所长全部为阳性菌落，选取其中3个菌落用于提取质粒，从平板上面各接3个菌落于 $3 \mathrm { m l } \mathrm { L B }$ 管中摇床过夜培养,分别编号为：NF-kB1/NF-kB2/NF- $\mathbf { \kappa } _ { \kappa \mathbf { B } 3 }$ ,利用高纯质粒小量提取试剂盒，按照说明书进行质粒提取，选取阳性结果进行测序，并进行Blast比对。
+
+1.2.5腺病毒转染食蟹猴子宫内膜细胞 将第一阶段获得的食蟹猴子宫内膜细胞用含 $10 \%$ 胎牛血清的抗生素DMEM培养基培养、传代，待细胞至贴壁生长 $80 \% \sim$ $90 \%$ 时，更换为不含胎牛血清及抗生素的DMEM培养基并过夜培养，分成实验组和对照组，实验组利用携带NF-kBp65shRNA的腺病毒转染子宫内膜细胞，对照组为不携带基因的腺病毒载体,感染浓度 $4 { \times } 1 0 ^ { 9 } \mathrm { p f u / m l }$ 转染后 $^ { 4 \mathrm { ~ h ~ } }$ 更换为DMEM完全培养基。在 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 培养箱中过夜，另取内膜细胞分别接种于六孔培养板中，分两组，实验组3个孔，对照组3个孔。实验组利用携带NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ p65 shRNA的腺病毒转染转染子宫内膜细胞，对照组为不携带基因的腺病毒载体，感染浓度亦为 $4 { \times } 1 0 ^ { 9 } \mathrm { p f u } / \mathrm { m l } , 2 4 \mathrm { h }$ 后荧光显微镜观察病毒感染率，第2天移除含病毒颗粒沾染的培养基，加人新的培养基，继续培养3\~5d后检测。
+
+1.2.6流式细胞技术检测细胞周期分别收集实验组细胞及阴性对照组细胞各 $1 \times 1 0 ^ { 6 }$ 个，分别加入 $- 2 0 \ \mathrm { { ^ { \circ } C } }$ 的$70 \%$ 乙醇在 $4 \mathrm { { ^ { \circ } C } }$ 下固定 $2 0 \operatorname* { m i n } , 2 0 0 0 \ : \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 弃上清,使用PBS液洗涤。用终浓度为 $4 0 ~ \mu \mathrm { g / m l }$ 的Rnase $3 7 ~ \mathrm { ^ { \circ } C }$ 消化 $2 0 ~ \mathrm { m i n }$ ，再次 $2 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ 弃上清，PBS液洗涤，加入终浓度 $3 ~ \mu \mathrm { g } / \mathrm { m l }$ 的PI,室温$5 \mathrm { m i n }$ ，放在冰浴中，进行上机检测两组细胞周期情况。1.2.7Western blot检测凋亡蛋白PARP-1和caspase3(1)总蛋白的提取：细胞培养结束后，去上清，常规收集各组细胞， $4 \mathrm { { ^ { \circ } C } }$ PBS液洗涤2次，加入全蛋白裂解液裂解$3 0 \mathrm { m i n } , 1 2 0 0 0 \mathrm { r / m i n }$ 离心收集上清液。取两组总蛋白样本量各 $5 0 ~ { \mu \mathrm { g } }$ 与 $5 { \times } \mathrm { S D S }$ 上样缓冲液混匀后， $1 0 0 \ \mathrm { { ^ { \circ } C } }$ 沸水煮 $5 \mathrm { m i n }$ ;(2)进行Westernblot实验：制备 $12 \%$ 分离胶和 $5 \%$ 积层胶,微量加样器上样，进行电泳，浓缩胶 $8 0 \mathrm { V }$ 电泳 $3 0 ~ \mathrm { m i n }$ ，分离胶 $1 2 0 { \mathrm { V } }$ 电泳 $7 0 ~ \mathrm { m i n }$ 。电泳结束后，$3 0 0 \mathrm { m A }$ 转膜 $1 2 0 \mathrm { m i n } ; 5 \%$ 脱脂奶粉(TBST溶)室温封闭$6 0 \ \mathrm { m i n }$ ;随后加入稀释比例为 $1 \colon 1 0 0 0$ 的PARP-1、caspase3一抗孵育， $4 \mathrm { { ^ { \circ } C } }$ 过夜；次日，TBST溶液漂洗，然后分别加入HRP标记的羊抗兔二抗 $1 : 6 0 0 0 .$ 羊抗小鼠二抗 $1 : 6 0 0 0$ 室温孵育 $1 2 0 ~ \mathrm { { m i n } _ { \mathrm { { o } } } }$ 暗室曝光10s至 $1 0 ~ \mathrm { m i n }$ 立即以KODAK显影液和定影液，进行ECL检测，冲洗胶片,结果以培清凝胶成像分析系统拍照,SensiAnsys软件分析。
+
+# 1.3主要观察指标
+
+子宫内膜细胞标记物的表达情况，流式细胞仪检测细胞周期的改变情况，Westernblot检测凋亡蛋白PARP-1和caspase3的表达情况
+
+# 1.4统计学处理
+
+应用SPSS19.0软件进行统计学分析，实验数据采用两独立样本 $t$ 检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义
+
+# 2结果
+
+# 2.1 NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ shRNA腺病毒表达载体的鉴定结果
+
+将NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 引物进行变性退火后，收集产物后进行$1 \%$ 琼脂糖凝胶电泳分析，可见约 $1 0 0 \mathrm { b p }$ 的目的条带，与预期大小一致，如图1A箭头标示。将限制性内切酶HindII和BamHI对质粒PDC316-EGFP-U6进行双酶切后，收集产物取样进行 $1 \%$ 琼脂糖凝胶电泳分析，可得到约 $5 0 0 0 \mathrm { b p }$ 左右的目的条带，与预期一致，如图1B箭头标示。将退火后形成的双链NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 与进行酶切后的PDC316-EGFP-U6载体进行连接，产物转化DH5a感受态细胞，挑选阳性重组克隆送生工公司测序并进行Blast比对，测序结果与NCBI公布基因序列一致，结果如图2\~3所示，因此，可用于后续实验。
+
+![](images/5286cedd5137d7641f89405db2c25c81c18e1d869430d351422053c2c5822783.jpg)  
+图1双链NF $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ DNA合成产物（A）和 PDC316-EGFP-U6载体双酶切产物 $( B )$ 的电泳结果 Fig.1 Electrophoresis of the synthesized NF-kB DNA and PDC316-EGFP-U6 vector digested by restriction enzyme.A:M:DNA Marker ladder;Lane a:NF-kB DNA;B: M:Marker ladder;Lane a:Product of PDC316-EGFP-U6 vector after digested by enzyme.
+
+# 2.2病毒滴度测定
+
+将合成好的pDC316-EGFP-shNF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 穿梭质粒分别与骨架质粒混合后共转染293细胞，转染后 $2 4 \mathrm { h }$ 观察细胞出毒迹象。出毒现象为细胞变大变圆，呈葡萄状，并开始出现明显噬斑(图4A黄色箭头示)，荧光显微镜下表现如图4B红色箭头示。随后进行大量病毒扩增，收集病毒后进行病毒滴度检测，结果病毒经扩增包装后物理滴度达 $1 . 1 { \times } 1 0 ^ { 1 2 } \mathrm { v p / m l }$ ，感染性滴度达 $1 . 5 8 { \times } 1 0 ^ { 1 1 } \mathrm { I U / m l _ { \mathrm { o } } }$ 2.3免疫组化染色法观察食蟹猴子宫内膜细胞表面标记物
+
+无菌条件下取的食蟹猴子宫内膜组织，按常规培养方法进行培养 $2 4 { \sim } 4 8 \mathrm { ~ h ~ }$ 后，细胞出现明显增殖，逐渐聚集成团、成片样生长，细胞为梭形和铺路石样交织在一起，黄色箭头所示为子宫内膜细胞(图5A)，然后用免疫组化荧光法检测子宫内膜腺上皮细胞特异的细胞角蛋白(CK19)及对间质细胞特异的波形蛋白(vimentin），结
+
+Colorkey for alignment scores <40 40-50 50-80 80-200 >#200 Query 1 150 300 450 600 750 900 Sequence ID:Icl1473 Lengtte 52 Number of Matches:1 Range 11 to 52 g Score Epect Identities Gaps Strad 97.1b（52) 2e-25 52/52[100%) 0/52(0%) Plus/Plus   
+Query 485 AAAAAGGACATATGAGACCTTCAATCTCTTGAATTGAAGGTCTCATATGTCCS36一测序结果   
+Subject AAAAAGGACATATGAGACCTTCAATCTCTTGAATTGAAGGTCTCATATGTCC 52 -NCBI公布序列
+
+果表明腺上皮细胞CK19染色阳性，vimentin染色阴性（图5B)，阳性为红色箭头所示；间质细胞CK19染色阴性，vimentin染色阳性(图5C)，阳性为绿色箭头所示，说明本实验所培养细胞为子宫内膜细胞，细胞生长情况良好，可用于后续实验。
+
+# 2.4 NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B } _ { }$ -p65腺病毒感染食蟹猴子宫内膜细胞情况
+
+实验组病毒感染食蟹猴子宫内膜细胞后，继续培养$2 4 \mathrm { h }$ ，在荧光显微镜下观察食蟹猴子宫内膜细胞的感染效率，结果提示感染效率可达 $9 8 \%$ 以上(图6)，图中箭头所示为感染细胞。
+
+# 2.5携带NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ p65shRNA的腺病毒感染子宫内膜细 胞后细胞周期改变情况
+
+从流式细胞仪检测结果(图7)可以看到，相比较于对照组，实验组凋亡细胞明显增多（图7黑色箭头所示)，进入下一周期细胞数较对照组减少，对照组基本未见到有凋亡细胞产生。结果说明干扰NF-KB-P65腺病毒干扰子宫内膜细胞后，可加速食蟹猴子宫内膜细胞的凋亡，降低内膜细胞的细胞增殖能力。
+
+# 2.6Westernblot检测凋亡蛋白PARP-1和caspase3的情况
+
+按相应实验步骤进行操作，对待测样本进行走胶后，分析结果(图8)，在$\beta$ -actin作为内参的条件下，对结果进行分析提示：与对照组相比，实验组凋亡蛋白PARP-1及caspase3表达水平明显增加；而对照组中PARP-1表现为弱表达，caspase3基本不表达，对两组进行组间密度值比较，发现实验组凋亡蛋白PARP-1及caspase3的表达水平与对照组相应凋亡蛋白相比明显增高，差异均具有统计学意义
+
+1 $\scriptstyle \overbrace { P < 0 . 0 5 }$ ，表2)。 ）
+
+# 3讨论
+
+NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 作为一类转录因子,存在于多种细胞内，主要有同源或异源的5种亚单位构成：p65(RelA）RelB、$\mathsf { c } \mathrm { - R e l } , \mathsf { p } 5 0 / \mathsf { p } 1 0 5 \left( \mathsf { N F } \mathrm { - } \mathrm { \kappa B } 1 \right)$ 和p52/p100(NF- $\mathbf { \nabla } \cdot \kappa \mathbf { B } \boldsymbol { 2 }$ )，在有活性的NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 复合物中P65为最常见的亚单位，正常情况下NF- $\boldsymbol { \kappa } \mathbf { B }$ 与 $\mathbf { I } { \ltimes } \mathbf { B }$ 结合，这种结合可以阻滞NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 与细胞核DNA相互作用，从而抑制NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 目标基因的转录，但当细胞受到刺激因子刺激时，IKB将从结合物中解离出来，NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 由失活转变为激活状态,进入细胞核内调节目的基因的转录活性[4],表现上调各种肿瘤细胞生长相关因子的表达，反之，抑制NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 的活性后，细胞凋亡数目明显增加、增殖能力下降[9。目前研究发
+
+![](images/8af8dabaea62da0fa334634fb759665658db51607404c1c0b285bd608a021719.jpg)  
+NCBI BLAST bastn aite-2kgueces FermattingResults-7YVV5G114   
+图3NF $\mathbf { \sigma } _ { \cdot \kappa \mathrm { B } }$ shRNA质粒的测序峰图 Fig.3 Plasmid sequencing of NF-kB small hairpin RNA.
+
+![](images/193a4656dab8f63e96ee8133e4be34d254820b2abc326fafc1a0c34f39bac3ba.jpg)  
+图2NF-kBshRNA序列与Blast序列比对结果 Fig.2 The comparison of gene sequence between NF- $\cdot \mathrm { { \kappa } B }$ shRNA and Blast.   
+图4pDC316- EGFP-shNF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 质粒转染293细胞24h后电镜及 荧光显微镜下照片 Fig.4 Electron and fluorescence microscopy of 293 cells transfected by pDC316- EGFPshNF- $\mathbf { \sigma } _ { \kappa \mathrm { B } }$ plasmid for 24h (Original magnification: $\times 1 0 0$ ）
+
+![](images/4d48f2c399bf64f920c577bd40567f77468f9a903fa5929e6596fae513ab0a37.jpg)  
+图5食蟹猴子宫内膜细胞的镜下观察及鉴定
+
+Fig.5 Observation and identificationof Macaca fascicularis endometrium under microscope (Original magnification: $\times 1 0 0$ ).A:Normal observation under phase-contrast microscope; B: Cells stained by CK19; C: Cells stained by vimentin.
+
+![](images/710eb50740ce1da97b7220919a59116feb190c701e3b8fa8cf64b6b50427081c.jpg)  
+图6NF- $\boldsymbol { \kappa } \mathbf { B }$ -shRNA腺病毒感染子宫内膜细胞 $2 4 \mathrm { h }$ 后在相差显微镜及荧光显微镜下表达情况 Fig.6Fluorescence expression in Macaca fascicularis ectopic endometrial cels transfected by NF-kB-shRNAadenovirusfor24hunderthephase-contrast microscopeand fluorescence microscope (Original magnification: $\times 4 0 0$ ）
+
+![](images/66c85e6a8638bb56a8ec125c1d0077f8ef4676cb4c0aa0325f18700cdce7dc8c.jpg)  
+图7NF-kB-P65腺病毒对食蟹猴子宫内膜细胞细胞增殖能力的影响 Fig.7 Effects of NF-kB-shRNA adenovirus on the proliferation of ectopic endometrial cells of Macaca fascicularis.A: Experimental group (NF- $\cdot \kappa \mathrm { B }$ ); B: Control group.
+
+现,NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 同样表达于子宫内膜细胞，并且在EM患者的异位内膜里高表达，提示NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因可能介导异位子宫内膜的增殖、炎性反应及抑制凋亡有关[4]。有文献报告在裸鼠体内，使用NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 抑制剂后，ICAM-1的表达可以明显减少，细胞增殖能力下降，同时增加异位子宫内膜的凋亡，从而减缓动物模型上子宫内膜异位病灶的进展速度7，因此，NF $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因可能成为EM治疗的一个新靶点。
+
+目前对于EM抗血管生成治疗的研究，大部分主要集中在体外实验及龋齿类动物身上，但是，EM的病理生理过程及发生发展过程是一个非常复杂的过程，低等动物及体外实验并不能理想的还原其真实的体内环境，而非人灵长类动物与人类关系最密切，其生理功能及遗传物质都与人有高度的相似性，因此一直作为研究EM的最佳选择。目前用于研究的非人灵长类动物主要有狒狒、弼猴、食蟹猴等。狒狒为国家保护动物，很难获得，食蟹猴与弼猴均属弼猴属，均被广泛应用与科学研究，自然状态下可发生自发性EM，且月经周期规律，但食蟹猴相比与弼猴，其繁殖季节长，基本全年可受孕，且食蟹猴分布范围广，资源丰富，较弼猴经济，因体型较弼猴小，所以在药物研究方面可以减少药物使用量。同时，在NCBI、EBI等数据库中，可获取大量的该物种的基因组信息[12-13],使其在医学研究中的应用更为广泛，因此，在研究EM方面有一定的优势。本实验为食蟹猴EM研究的前期研究，目的是为后期NF- $\kappa \mathbf { B }$ 基因在食蟹猴EM体内实验研究的可行性提供理论基础。
+
+![](images/777369441c98fc9fa114af0c4cf9bcb40976ff445f231e891d9cbe4bc12b7295.jpg)  
+图8实验组(sh-p65)及对照组(sh-NC)凋亡蛋白 PARP-1和caspase 3的表达情况 Fig.8 Expression levels of apoptin PARP-1 and caspase 3 in cells transfected with NF-kB-p65 shRNA and empty vector.
+
+shRNA是一段具有紧密发卡环的RNA序列[14]，常被用于RNA干扰沉默靶基因的表达，而RNAi技术是新近发展起来的一项基因阻断技术，RNAi可以特异地阻止基因表达，方便快捷地研究该基因功能。siRNA可通过体外及体内两种方式合成，体外合成因价格昂贵且体内沉默效应持续时间短暂，无法满足某些实验需要[15]。本实验采用体内合成法进行,因方法具有基因抑制效果显著的优势，目前为多数研究所采纳。本研究成功构建靶向NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 基因的shRNA真核表达质粒，转染子宫内膜细胞后，与对照组相比，有效抑制了子宫内膜细胞的细胞增殖活性，并使细胞的凋亡蛋白增加，提示通过该技术成功沉默了NF-KB基因的表达。
+
+表2NF-kB-p65shRNA对子宫内膜细胞增殖能力的影响  
+Tab.2 Effect of NF-kB-p65 shRNA on the proliferation of endometrium cells (OD value, Mean±SD)   
+
+<html><body><table><tr><td>Group</td><td>β-actin</td><td>caspase 3</td><td>PARP-1</td></tr><tr><td>Experimental</td><td>8855.22±39.13</td><td>10 207.41±59.12</td><td>9665.21±45.67*</td></tr><tr><td>Control</td><td>10 120.89±21.33</td><td>291.91±21.01</td><td>677.01±58.18</td></tr></table></body></html>
+
+（20 $^ { * } P { < } 0 . 0 5$ vs control group.
+
+通过本次实验研究，首先我们按照常规细胞培养方法成功培养了食蟹猴子宫内膜细胞，并通过免疫细胞荧光法检测证实为子宫内膜细胞，因在实验过程中发现食蟹猴子宫内膜细胞在经过数次传代后，虽然间质细胞仍能很好的存活，但是腺上皮细胞会逐渐消失，故本实验只观察NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 对原代细胞的增殖活性影响，尽量减少因多次传代出现腺上皮细胞消减对干预效果的影响。其次，本实验利用NCBI数据库里人的NF- $\kappa \mathbf { B }$ 序列设计了一对shRNA,并以PDC316-EGFP-U6作为载体,构建了针对NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 基因的shRNA腺病毒载体，经测序后证实载体构建成功，进行包装后病毒滴度达到 $1 . 5 8 \times 1 0 ^ { 1 1 } \mathrm { U / m l }$ 提示本实验具有可行性，构建的病毒可用于后续实验。实验中,实验组利用携带有NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ -p65-shRNA腺病毒感染食蟹猴子宫内膜细胞，而对照组采用不含NF-kB-p65的shRNA腺病毒转染食蟹猴子宫内膜细胞，使实验变量控制为单一变量，增加实验的可信度。实验完成后，通过流式细胞仪检测细胞周期情况后，结果提示实验组细胞增殖能力较阴性对照组下降，凋亡细胞明显增多，可能提示干扰NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因的表达，可以抑制子宫内膜细胞的增殖能力，降低细胞的侵袭性。随后对两组处理后的细胞进行Westernblot检测凋亡蛋白PARP-1和caspase3,发现实验组两种凋亡蛋白的表达量较对照组明显增多，提示通过抑制NF- $\mathbf { \sigma } _ { \kappa \mathbf { B } }$ 的表达后可以加速细胞的凋亡。因此，从本实验研究结果可以得出，通过NF- $\kappa { \bf B }$ -shRNA腺病毒感染食蟹猴子宫内膜细胞后，可干扰食蟹猴子宫内膜细胞NF $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因的表达，引起食蟹猴子宫内膜细胞增殖能力的下降及加速食蟹猴子宫内膜细胞的调亡，为进一步NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ -shRNA腺病毒在大型灵长类动物食蟹猴EM的体内研究中提供了充分的理论基础，并为EM的NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ 基因靶向治疗提供了新的研究平台。
+
+# 参考文献：
+
+[1]Sen R,Baltimore D.Multiple nuclear factors interact with the immunoglobulin enhancer sequences[J].Cell,1986,46(5):705-16.   
+[2]Celik O,Hascalik S,Elter K,et al. Combating endometriosis by blocking proteasome and nuclear factor-{kappa}B pathways [J]. Hum Reprod,2008,23(11): 2458-65.   
+[3]Baldwin AJ.The NF-kappa B and I kappa B proteins: new discoveries and insightsJ].Annu Rev Immunol,1996,14:649-83.   
+[4]Gonzalez-Ramos R,Defrere S,Devoto L.Nuclear factor-kappaB:a main regulator of inflammation and cell survival in endometriosis pathophysiology[J].Fertil Steril,2012,98(3): 520-8.   
+[5]凌小倩,王进科.转录因子NF- $\mathbf { \nabla \cdot } \kappa \mathbf { B }$ 活性检测技术[J].遗传,2013,(5): 551-70.   
+[6]Kim SH, Ihm HJ,Oh YS,et al.Increased nuclear expresion of nuclear factor kappa-B p65 subunit in the eutopic endometrium and ovarianendometriomaofwomenwithadvancedstage endometriosis[J].AmJReprod Immunol, 2013,70(6): 497-508.   
+[7]Gonzalez-Ramos R,Van Langendonckt A,Defrere S,et al.Agents blocking the nuclear factor-kappaB pathway are effective inhibitors of endometriosis in an in vivo experimental model[J].Gynecol Obstet Invest, 2008,65(3): 174-86.   
+[8]Gonzalez-Ramos R,Van Langendonckt A，Defrere S,et al. Involvement of the nuclear factor-kappaB pathway inthe pathogenesisof endometriosis [J].Fertil Steril,2010,94(6): 1985-994.   
+[9]Patrick V,Marie-Paule M,Chariot VB.Phosphorylation of NF- $\boldsymbol { \kappa } \mathbf { B }$ and IkB proteins:implications in cancer and inflammation [J]. Trends Biochem Sci,2005,30(1): 43-52.   
+[10]刘木彪,何援利,钟洁.靶向NF- $\mathbf { \sigma } _ { \cdot \kappa \mathrm { B } }$ 的siRNA抑制人子宫内膜异位种 植的实验研究[J].广东医学,2009,(7):1024-6.   
+[11]Hayden MS,Ghosh S.NF-kappaB,the first quarter-century: remarkable progress and outstanding questions [J].Genes Dev, 2012,26(3):203-34.   
+[12]Ebeling M,Kung E,See A,et al. Genome-based analysis of the nonhuman primate Macaca fascicularis as a model for drug safety assessment[J].Genome Res,2011,21(10):1746-56.   
+[13]Huh JW,Kim YH,Park SJ,et al.Large-scale transcriptome sequencing and gene analyses in the crab-eating macaque (Macaca fascicularis) for biomedical research[J].BMC Genomics,2O12,13: 163.   
+[14]Paddison PJ,Caudy AA,Bernstein E,et al. Short hairpin RNAs (shRNAs) induce sequence-specific silencing in mammalian cells [J].Genes Dev,2002,16(8): 948-58.   
+[15]Yu J,Deruiter SL,Turner DL.RNA interference by expression of short-interfering RNAs and hairpin RNAs in mammalian cells[J]. ProcNatlAcad SciUSA,2002,99(9):6047-52.
+
+(编辑：黄开颜）

@@ -1,0 +1,146 @@
+# DOI:10.5846/stxb201703130423
+
+厉桂香,马克明.北京东灵山树线处土壤细菌的 PICRUSt基因预测分析.生态学报,2018,38(6);2180-2186.  
+LiGXMKdgcscteo2180-2186.
+
+# 北京东灵山树线处土壤细菌的PICRUSt基因预测分析
+
+厉桂香},²，马克明1，\*
+
+1中国科学院生态环境研究中心，城市与区域生态国家重点实验室，北京100085  
+2中国科学院大学，北京100049
+
+摘要：树线变动会对生物多样性分布以及生态系统功能的维持造成深远影响,研究树线处土壤微生物群落及其功能,对预测高海拔生态系统响应气候变化具有重要价值。采用 MiSeq高通量测序技术及PICRUSt基因预测分析方法,对北京东灵山辽东栎林及树线之上亚高山草甸的土壤细菌群落及功能进行对比研究,结果表明：土壤细菌物种多样性在树线处没有发生显著的变化,沿海拔也没有呈现出明显趋势,但细菌群落结构以及预测功能基因均发生了变化。在39个二级预测功能分类中有10个子功能的相对多度在森林和草甸中具有明显差异。其中,其他次生产物代谢的生物合成、转录、多糖生物合成和代谢、酶家族、信号分子及交互作用、环境适应、细胞生长和死亡等的功能基因在森林中明显高于草甸中;而维他命及辅因子代谢、膜运输、内分泌系统等的功能基因在草甸中偏高。
+
+关键词：土壤微生物;树线;海拔；功能基因
+
+# PICRUSt-based predicted metagenomic analysis of treeline soil bacteria on Mount Dongling， Beijing
+
+LI Guixiang1,2,MA Keming1
+
+1StateKeyLboratoryofUbanndRegioalEcolgReseachCenterforcoEniroentalSciences，ChinseAcademyofSciences，Beijin 100085，China   
+2 University of Chinese Academy of Sciences，Beijing 100049，China
+
+Abstract：Treeline shiftsare likelyto havea profound impacton the distributionof biodiversityand the maintenanceof ecosystem functionng.Understanding thecommunity structure and functioning of soil microrganisms around the treelineis crucial forpredicting theresponseofcosystems toglobal climatechange.Inthisstudy，weinvestigated thesoil bacterial communities and their function in a Quercus liaotungensis forest and the meadow above the treline at Mount Dongling, using 16S rRNA gene sequencing and PICRUSt analysis.The results showed that soil bacterial species ichnessdid not significantlychangeatthe treline，andthere was noobvious trendalong theelevationgradient.However，thebacterial commumity structureand thepredicted functional profileschangedatthe treline.Within the39predicted functional categories at KEGG pathway hierarchy level 2，11 categories showed apparent diferences between forest and meadow. Relative abundanceof genefamiliesrelatedtobiosynthesisofothersecondary metabolites,transcription，glycan biosynthesis and metabolism,enzyme families，signaling moleculesand interaction,environmentaladaptation,growth,anddeath tended tobehigher in the forest，whereastheabundanceof gene familiesrelated to metabolismofcofactorsand vitamins, membrane transport，andtheendocrinesystem were significantly higher in the meadow.In futurestudies of microbial ecology，more atention should be paid to community composition and functioning instead of species diversity.
+
+Key Words:soil microorganisms； treeline；elevation； functional gene
+
+树线是指从郁闭度较高的森林冠层向郁闭度较低的森林冠层过渡,并且高度 $\geqslant 3 \mathrm { m }$ 的树木所处的位置[1]。树线作为生态交错带的主要类型,因其特有的敏感性和动态性,可以作为气候变化监测的早期信号[2]。树线的响应特征是表征全球变化的指示器,随着全球气候变暖,树线上移是备受关注的热点问题。树线上移将对生物多样性、地下微生物、乃至整个生态系统都造成严重影响[3-4]。对树线上下土壤生物群落进行研究,将会为预测高海拔生态系统及其功能对气候变化的响应提供重要参考价值。 2
+
+土壤细菌是土壤微生物中数量最大、种类最多、功能多样的类群。作为土壤中重要的分解者,土壤细菌在整个土壤物质循环和能量流动中起着至关重要的作用。土壤细菌与地上植物有着紧密的联系,地上植物可以通过凋落物的输入以及根系分泌物来改变土壤的物理和化学性质[5-7],从而间接影响土壤细菌群落。
+
+土壤微生物的分类学多样性与功能多样性有密切联系,但并没有显著相关性[3，8]。随着高通量测序技术的发展,土壤细菌多样性受到极大关注,但我们对土壤细菌在树线处的功能基因变化还不清楚[3,9]。土壤微生物对环境的作用主要是通过微生物群落代谢功能差异来实现。因此,了解微生物功能特性的分布规律对于更好的理解生态系统功能、生物地球化学循环以及微生物对环境改变的响应具有重要作用[8]。
+
+近几年发展起来的高通量测序技术,如Ilumina平台的 MiSeq 测序,以及罗氏454 等,逐步提高了对土壤中微生物多样性的检测。通过对标记基因如16S rRNA基因进行测序,可以获得环境样品的微生物区系组成。但是,想要获得微生物的功能信息就需要对宏基因组进行研究,其数据量庞大,成本非常高。随着计算软件的创新,利用预测软件对标记基因数据进行预测,分析样本中微生物群落代谢和宏基因组,成为一种高效、经济的方法[10-12]。PICRUSt(Phylogenetic Investigation of Communities by Reconstruction of Unobserved States）是一个开发于 2012 年的预测宏基因组功能基因的生物信息学软件包[11],可以通过16S rRNA 基因序列,预测对应细菌和古菌的代谢功能谱,相关论文发表数量逐年增长[13-4]。如2016 年的一项研究[15]通过 PICRUSt预测了吸烟人群和未吸烟人群的口腔菌群,发现有83个基因功能代谢通路存在显著差异; ${ { \mathbb { W } } _ { \mathbf { u } } }$ 等利用PICRUSt研究了三七根腐病对应的微生物功能的改变[16]。
+
+本研究通过对北京东灵山辽东栎林及草甸的土壤细菌群落进行研究,提出以下科学问题:(1)树线如何影响土壤细菌群落结构及功能基因的分布？（2)哪些功能基因对树线这种环境突变响应显著?
+
+# 1材料与方法
+
+# 1.1土壤样品采集
+
+采样地点位于北京东灵山地区。东灵山坐落于北京森林生态系统定位研究站( $\langle 3 0 ^ { \circ } 5 7 ^ { \prime } 2 9 \mathrm { ~ N ~ }$ ， $1 1 5 ^ { \circ } 2 5 ^ { \prime } 3 3$ E)。该区属暖温带半湿润季风气候,寒冷期长,积温低,冻土期长,生长季短,年均温5— $\mathbf { \nabla \cdot } 1 0 ^ { \circ } \mathrm { C }$ ,年降雨 500—$6 5 0 \mathrm { m m }$ $7 0 \%$ 的降水出现在6到8月[17]。地带性土壤类型为肥沃褐色土和棕色森林土。从低海拔到高海拔的植被类型有次生灌木（Vitex negundo，Spiaea spp）、栎树混交林（Quercus liaotungensis）、桦树林（Betula dahurica，platyphylla）亚高山草甸（Forb meadows）。
+
+土壤样品采于辽东栎林向亚高山草甸的过渡带,在辽东栎林内取17 个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的样方,海拔范围1676— $1 7 7 0 \mathrm { m }$ 。在树线之上的亚高山草甸共取21 个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 样方，海拔范围1790- $2 2 8 0 \mathrm { m }$ 。去掉土壤表层凋落物后,用环形土钻取 $1 0 \mathrm { { c m } }$ 厚的土壤,在每个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的样方中共取六钻土混合为一个样品。新鲜土样充分混合，过 $2 \mathrm { m m }$ 的筛,冷冻干燥后放入 $- 8 0 \%$ 冰箱中用于细菌 DNA 的提取。
+
+# 1.2 样品处理
+
+每个样品称取冷冻干燥后的土壤 $0 . 2 5 \mathrm { g }$ 。使用MOBIOPower Soil试剂盒（MOBioLaboratories，USA)来提取土壤总DNA,依据试剂盒内的操作流程进行。将提取好的DNA保存在 $- 4 0 \%$ 冰箱中备用。
+
+采用PCR 扩增技术对细菌16S rRNA基因高变区的V4-V5区进行扩增。合成带有 barcode序列（用于区分各个样品)及接头序列的特异引物515F/907R（前引物,515F， $5 ^ { \prime }$ -GTGCCAGCMGCCGCGGTAA- $3 ^ { \prime }$ ;后引物，907R, $5 ^ { \prime }$ -GGACTACHVGGGTWTCTAAT- $3 ^ { \prime }$ ）。PCR扩增体系为( $2 5 \mu \mathrm { L }$ ： $4 \mu \mathrm { L }$ $5 \times$ FastPfuBuffer, $2 \mu \mathrm { L } \ 2 . 5 \mathrm { m m o l } / \mathrm { L }$ dNTPs, $0 . 4 \mu \mathrm { L }$ 前后引物（5mmol/L）， $0 . 4 \mu \mathrm { L }$ FastPfu聚合酶(TransGen，Beijing）以及 $1 0 \mathrm { n g }$ DNA模板。反应条件如下： $9 5 \mathrm { ^ { \circ } C }$ 预变性 $2 \mathrm { m i n }$ （， $9 5 ^ { \circ } \mathrm { C } / 3 0 \mathrm { s } , 5 5 ^ { \circ } \mathrm { C } / 3 0 \mathrm { s } , 7 2 ^ { \circ } \mathrm { C } / 4 5 \mathrm { s } ) \times 3 0$ 个循环,最后 $7 2 \%$ 延伸 $1 0 \mathrm { { m i n } }$ 。每个样品3个重复,将同一样品的PCR产物混合后用 $2 \%$ 琼脂糖凝胶电泳检测，使用AxyPrepDNA凝胶回收试剂盒（AXYGEN公司)切胶回收 PCR产物, $\mathrm { T r i s \_ H C l }$ 洗脱; $2 \%$ 琼脂糖电泳检测。参照电泳初步定量结果,将PCR产物用QuantiFluorTM-ST蓝色荧光定量系统(Promega 公司)进行检测,之后按照每个样品的测序量要求,进行相应比例的混合。之后进行 MiSeq 文库构建并测序。用 Illumina MiSeq platform 的（PE $2 \times 3 0 0$ )进行高通量测序。
+
+# 1.3 数据分析
+
+对MiSeq 测序得到的数据进行拼接,同时对序列的质量和拼接效果进行质控过滤,并根据序列末端的box序列校正序列方向。拼接后的数据用QIIMEv.1.8.0软件[18]进一步质控;序列长度小于 200bp,50nt的移动窗口中Q值小于30,含有模糊碱基,引物碱基中有大于一个的错配,以及不能够被任何的 barcode 识别的序列,所有包含这些条件的序列将会被去掉[19]。用UCHIME[20]软件基于“RDP Gold"数据库检测和去除嵌合体序列。对已去除嵌合体序列的文件依照Galaxy 在线平台的流程先进行OTU聚类分析：首先是用QIIME 软件中的 pick_closed_reference_otus.py 命令基于 $9 7 \%$ 的相似度,依据13_5Greengenes 数据库,得到out_table.biom,并对其进行序列标准化，用于后续的群落结构和功能预测。 2
+
+将 QIIME 软件得到的 biom 文件上传到Galaxy 网站进行 PICRUSt功能基因预测分析。将得到的功能基因中的信息参考KEGG Orthology的1级和2级功能基因类别划分归类,可得到预测基因组的功能组成。研究表明,PICRUSt 对于土壤中细菌的预测准确率较高[]。利用 PICRUSt 软件对已测得的16S rRNA 基因数据进行预测，分析样本功能基因组成是一种高效的方法。
+
+每个土壤样品的细菌群落丰富度是通过计算每个样品的 OTU（operational taxonomic unit)获得。细菌物种数以及预测功能基因和海拔之间的相关关系用多元或线性回归方法进行分析。拟合适合度采用调整的 $\textstyle R ^ { 2 }$ 和 $P$ 进行判定。基于 Bray-Curtis 相似性矩阵的PCoA分析用于分析土壤细菌群落组成和预测基因功能多样性的变异,并用多元的相似性分析方法 ADONIS(Adonis test，Vegan package in R)检验变异的显著程度[21]。
+
+# 2研究结果
+
+# 2.1土壤细菌多样性
+
+本研究采取的38个样品共计得到829756条序列,根据 $9 7 \%$ 的相似度共划分成11625个OTU（物种数）。每个样品的序列数在 10450到30503条之间。经过分类共计得到39个细菌门分类单元,其中优势分类门分别为变形菌门（Proteobacteria）、放线菌门（Actinobacteria）、酸杆菌门（Acidobacteria）、拟杆菌门（Bacteroidetes）、浮霉菌门（Planctomycetes）绿弯菌门（Chloroflexi），占到总序列数的 $9 0 \%$ 以上。优势分类门放线菌门和酸杆菌门在森林和草甸中表现出差异,放线菌门在森林和草甸中的相对多度分别为 $1 7 . 6 \% . 2 0 . 7 \%$ ,而酸杆菌门分别为 $1 7 . 5 \%$ 、$1 3 . 9 \%$ 。
+
+土壤细菌物种数(OTU)沿海拔没有表现出明显的趋势,在树线处也没有明显的下降(图1）。
+
+# 2.2土壤细菌群落结构变化
+
+基于Bray-Curtis 距离的细菌群落组成在PCoA分析的第一排序轴上明显分成两个区域（Adonis $F _ { 1 , 3 6 } =$ （24号 $5 . 1 1 6 , R ^ { 2 } = 0 . 1 2 , P = 0 . 0 0 1$ ;图2），主要是森林和草甸之间的差异，解释率为 $2 2 . 8 \%$ 。第二排序轴显示,在森林和草甸内部的细菌群落组成也有差异，但小于第一排序轴,解释率仅为 $10 \%$ 。
+
+![](images/4bf11b45e94e852df4a67fd55558c1806f4bb09b962eca9f154f750a0954bcac.jpg)  
+图1土壤细菌物种数沿海拔的变化(虚线代表树线处海拔) Fig.1Elevational pattern of soil bacterial richness
+
+# 2.3 PICRUSt基因预测
+
+通过对KEGG数据库进行比对，共获得6类生物代谢通路功能分析：代谢（Metabolism）、遗传信息处理（Geneticinformationprocessing）、环境信息处理（Environmentalin-formationprocessing）、细胞过程（Cellular processes）、有机系统（Organismal systems）、人类疾病（Human diseases）。其中代谢、遗传信息处理、细胞过程、人类疾病等的功能基因多度沿海拔呈现显著的下降趋势，并且在树线处明显的下降(图3）。
+
+二级功能层共包含39 种子功能,根据 Bray-Curtis 距离
+
+![](images/495cf22c90773617a45df7848e01c5aeda3ffd538fa955e13cddec311adce62c.jpg)  
+图2细菌群落结构在森林和草甸之间差异的PCoA排序 分析 Fig.2PCoA analysis of community structure between forest and meadow
+
+![](images/c09d165eda3b897f8787f69036afb4067af73f4f69ccc9a8d3df123ba92a2287.jpg)  
+图3预测功能基因多度沿海拔的变化趋势(一级功能层)  
+Fig.3Elevational pattern of predicted functional profiles（hierarchy level1)
+
+矩阵计算出预测功能基因 $\beta$ 多样性,PCoA分析结果发现在第一排序轴是明显分成两个区域（Adonis $F _ { 1 , 3 6 } =$ 5.3815, $R ^ { 2 } = 0 . 1 3$ $P { = } 0 . 0 0 1$ ;图4）,森林和草甸内的细菌功能组成差异显著。
+
+。在39个二级预测功能中有10个子功能的相对多度在森林和草甸中具有明显差异（图5）。其中,其他次生产物代谢的生物合成（Biosynthesis of other secondary metabolites）、转录（Transcription）、多糖生物合成和代谢（Glycan biosynthesis and metabolism）、酶家族（Enzyme families）、信号分子及交互作用（Signaling molecules andinteraction）、环境适应（Environmental adapation）、细胞生长和死亡（Growth and death）等的功能基因在森林中明显高于草甸中。而维他命及辅因子代谢（Metabolism of cofactors and vitamins）、膜运输（Membranetransport）、内分泌系统（Endocrine system)等的功能基因在草甸中偏高。
+
+# 3讨论
+
+土壤微生物地理学研究发现，OTU的多样性经常随地理或环境梯度呈现不明显的变化[22-23],但是群落结构[22]和功能基因[8.24]常表现出明显的差异和变化趋势。本研究显示,土壤细菌物种多样性在树线处没有显著变化，也没有沿海拔梯度呈现出明显的分布趋势，但群落结构和预测功能基因都在树线处发生了显著变化，与之吻合。
+
+PCoA分析显示，森林和草甸之间以及森林和草甸内部的土壤细菌群落组成均有差异，说明可能存在海拔的影响。从森林到草甸，植物群落结构一直随海拔梯度在变化,土壤细菌群落结构的变化可能与植物群落变化有关。虽然很多研究认为土壤微生物物种多样性与植物群落往往并没有显著相关[23,25-26],但是土壤微生物可以通过改变土壤养分来影响植物生长和初级生产力[27]。进而,植物群落通过凋落物输人与根系分泌物等过程改变土壤的理化性质。这一过程不仅会影响土壤微生物在群落中的有无,还会影响到其在群落中的多度,从而影响土壤微生物群落结构[2829。
+
+![](images/36f29771c98e440819c544a5e5bed081f4b222de2413b4d126abc9b49a492615.jpg)  
+图4土壤细菌预测功能基因在森林和草甸之间差异的PCoA排 序分析(二级功能层) Fig.4PCoA analysis of predicted functional profiles between forest and meadow (hierarchy level 2） 10
+
+PICRUSt基因预测结果显示,代谢、遗传信息处理、细胞过程、人类疾病等4类功能基因的多度沿海拔呈线性下降趋势,并且功能基因的组成也在树线上下明显不同。以往的研究利用基因芯片的技术也发现了林线交错群落功能基因多样性的变化,例如 Ding 等[3]在神农架的研究发现树线上下的灌木和针叶林群落中土壤微生物功能基因结构组成具有明显差异;Shen 等8在长白山的研究也发现林线交错群落土壤微生物功能基因多样性发生变化。这些结果均表明,海拔梯度可能通过影响植物群落的变化进而影响土壤微生物的功能基因。 1
+
+已有研究表明,植物群落对土壤微生物群落结构的影响,可能会进一步导致土壤微生物群落功能组成的差异[30]。树线上下的气候环境条件显著差异,植被群落明显不同,导致微生物生活的微生境及养分需求有差异,从而对土壤微生物具有筛选作用[9],进而影响微生物的功能组成。一方面,森林和草甸因为凋落物输入的差异而对土壤养分及其他生态过程产生不同的影响,从而导致土壤微生物的功能差异。森林土壤环境中存在着丰富的木质纤维资源,土壤微生物中存在着大量与木质纤维素代谢相关的菌系。而草甸群落植物多样性低,凋落物类型简单,根系不发达,根系分泌物种类及数量相对较少,因此可供微生物利用的资源较少。降雨淋溶、太阳光辐射等非生物因素在凋落物的分解过程中扮演重要的角色,而土壤微生物分解相对弱[31]。另一方面,从森林到草甸,随海拔上升温度下降,低温可能导致土壤微生物活动减弱。Ding 等的研究也发现温度是影响林线两侧土壤微生物结构和功能的重要因素,本研究中一些和代谢相关的功能基因分类如其他次生产物代谢的生物合成、多糖生物合成和代谢、酶家族等在草甸中明显下降,总体微生物功能基因多度在树线处有明显的下降。但是也有一些二级分类的功能基因在草甸中明显高于森林,如膜运输、内分泌系统等,这些功能基因可能有助于微生物在相对严酷的环境中有效利用土壤养分[16]。
+
+# 4结论
+
+在本项研究的海拔梯度上,土壤细菌群落结构与功能基因组成在树线上下显著差异,且功能基因多度随海拔呈下降趋势,敏感地反映了海拔梯度及树线的环境变化,揭示了土壤和植被对土壤细菌群落的影响规律。未来土壤微生物生态学研究,应该更加关注群落组成与功能而非物种多样性,加强微生物群落功能和结构的分布规律及机制研究。
+
+http://www.ecologica.cn
+
+![](images/ab5496d7e662a8d72878a9080da0fbb75f0cba72030d9b72b44c722ca569c3df.jpg)  
+图5预测功能基因在森林和草甸之间的差异(二级功能层)  
+Fig.5The variation of predicted functional profiles between forest and meadow（hierarchy level 2)
+
+# 参考文献（References）：
+
+[1] Korner C.Alpine Plant Life：Functional Plant Ecologyof High Mountain Ecosystems.Berlin Heidelberg：Springer,2003.  
+［2］付玉，韩用顺，张扬建，陶健.树线对气候变化响应的研究进展.生态学杂志，2014，33（3)：799-805.  
+[3]HarschMA,HulPE,MGloeMS,DncaRAretrelisdvancAgoalmeta-analyssofreineresposetateaingEcology Letters，2009，12（10）：1040-1049.  
+[4]GredseecoftresfshesitduciofiglteosrctictarcdResearch，2014，46(4):829-840.  
+[5]WardleDA，BardgettRD，KlironoosN，SetalaH，VanDerPuttenWH，WallDH.Ecologicallinkagesbetweenabovegroudad  
+[6] DeDeynGB,VanderPutenWH.LinkingabovegroudandbelowgrouddiversityTrendsinEolog&Evolution2,2O（）：6-6.  
+[7] Ding JJ,ZhangYG,DengY,CongJ,LuH,SunX,YangCY,YuanT,VanNostrandJD,LiDQ,ZhouJZ,YangYF.Integratedmetagenomicsand network analysisofsoil microbialcommunityoftheforest timberline.Scientific Reports，2O15,5：794.  
+[8] ShenCC,ShiY,iY,engY,VanNostrandJD,HeZ,ZouJZ,ChuHYDramaticicreasesofsoilmirobialfunctioleeieiyat the treeline ecotone of Changbai Mountain.Frontiers in Microbiology，2O16,7：1184  
+[9] Thebault A，ClementJC,IbanezS，RoyJ，GeremiaRA，PerezCA，ButlerA，EstienneY,LavorelS.Nitrogenlimiationandmicrbialdiversity at the treine.Oikos，2014，123(6):729-740.  
+[10] ABhauerKP,WemheuerB,DanielR，MeinickeP.Tax4Fun：predictingfunctionalprofilesfrommetagenomic16SrRNAdata.ifoatics,2015,31(17):2882-2884.  
+[11]Langll MGI,ZaneveldJ,CaporasJG,MDonaldD,KnightsD,ReyesJA,ClementeJC,urkepileDE,TurberRLV,KighteikoRG,HutenhowerC.PredictivefuntionalproflingoficrobialcommunitisusingSRNmarkergenesequencsNatureoteolog2013,31(9):814-821.  
+[12] 吕笑非.黄河三角洲滨海湿地微生物群落和功能的研究[D].烟台：中国科学院烟台海岸带研究所，2006.  
+[13] ZaraonaindiaIOwensSM,WeisenhomP,WestK,Hampton-MarcellJH,axS,BokulichNA,Mill DA,MartinG,TaghaviS,anderLelie D,Gilbert JA.The soil microbiome influences grapevine-assciated microbiota.mBio,2015,6(2):e02527-14.  
+[14] 徐帅，林奕岑，周梦佳，倪学勤，曾东，曾燕.基于高通量测定肉鸡回肠微生物多样性及PICRUSt 基因预测分析.动物营养学报，2016，28(8):2581-2588.  
+[15] WuJ,PetersBA,Dominiai C,ZhangYL,Pei ZH,YangLF,MaYF,Purdue MP,JacobsEJ,GapsturSM,Li HL,AlekseyenkoAV,HayesRB,AnJ.CigaretesokigandthealmcoboeingesdyofAmercaadultsTheJal16,（):5-246.  
+[16] Wu Z X,Hao ZP,SunYQ,GuoLP,HuangL Q,ZengY,Wang Y,YangL,Chen BD.Comparison onthestructure andfunctionof therhizosphere microbialcommunitybetween healthyandroot-rot Panax notoginseng.Applied Soil Ecology，2016,107:99-107.  
+[17］冯云，马克明，张育新，祁建，张洁瑜.北京东灵山辽东栎（Quercus liaotungensis）林沿海拔梯度的物种多度分布.生态学报，2007,27(11) : 4743-4750.  
+[18] CaporasoJG,KuczskiJ,tobughJitingerK,BushanD,ostellEKererPeaAG,GoodrichJK,GordoyGA, KeleyST,Knights D,KoenigJE,LeyRH,LozuponeGA,McDoaldD,MueggeBD,PirrungM,ReederJ,SevinskyJR,TubaughPJ，WaltersW，daJ，ueo,eveldKnigtRalolsisofigougutouityseegataaeMethods，2010，7(5):335-336.  
+[19]LiG X，XuGR,ShnCC,TangY，ZhangYX，Ma KM.Contrastingelevationaldversitypatesforolbacteriabetwntwoostedivided by the treline. Science China Life Sciences，2016,59(11)：1177-1186.  
+[20] EdgarRC,HasB,eenteJC,QuceC,KightRUpressiitydsdofheradtetioatis1(16):2194-2200.  
+[21] RDevelopmentCoreTeam.R：alanguageandenvironmentforstatiticalcomputing.Vienna，Austria：TheRFoundationforStatisticalComputing，2012.  
+[22] FiererN,McCainC,eirP,ZimerannappJ,ianMR,KightRicrobsdootfolowtheelevatioaldiverstfplants and animals. Ecology，2011, 92(4): 797-804.  
+[23]ProberSM,LeffJW,BatesST,orerET,FirnJ,HarpoleWS,LindEM,SeabloomEW,dlerPB,BakkerJD,ClelandEE,DCrN M,DeLorenzeE，HagenahN,HautierY,Hofockel KS,KirkmanK,KnopsJMH,LaPiere KJ,MacDougallAS,McCuleyRL,MitchellCE，ischAC,SuetMtevesCJ，WiliasRJererNantdiversipredictsbetabtotalaiversitoflcobacross grasslands worldwide. Ecology Letters， 2015，18(1):85-95.  
+[24] Yang YF,GaoY，WangSP,XuDP,Yu H,WuL W,Lin QY,HuYG,LiX Z, HeZL,DengY,ZhouJZ. The microbial genedivesityalong an elevation gradient of the Tibetan grassland. The ISME Journal,2O14,8(2）：430-440.  
+[25] MilardP，SinhBKDogassavegeatioieslcaldversittrentCyigingoosts，8（）58.  
+[26] Shen CC,LiangW,ShiY,LinXG,ZhangHY，WuX,XieG,ChainP,GroganP，ChuHY.Contrasting elevationaldiversitypattesbetween eukaryotic soil microbes and plants. Ecology，2014,95(11）：3190-3202.[27] vanderHeijdenMGA，BardgetRDvanStraaenNM.Teuseemajoritysoilmicrobesasdriversofplantdiversityandproductitinterrestrial ecosystems.Ecology Letters，2008，11(3）：296-310.  
+2[28] ThomsonBC,steaailyJieleAiRVegeatiotstheelativebdaesfoantceltaxaandsoil respiration rates in an upland grassland soil. Microbial Ecology，2010,59(2):335-343.  
+[29]UrbadplcteuislidligeledSoil Biology and Biochemistry，2015,84：53-64.  
+[30] LandesmanWJelsozpatrcklprpertidrseciidiesitflacteialouitiSBiochemistry，2014，76：201-209.  
+[31] 毋洁，余琴，梁德飞，张晶然，李谆，张世挺.光辐射对青藏高原高寒草甸凋落物分解的影响.生态学杂志，2015,34(11)：2990-2994.

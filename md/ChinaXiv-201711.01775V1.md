@@ -1,0 +1,264 @@
+1 大口黑鲈维生素A需求量
+
+2 连雪原 陈乃松\* 王孟乐 闫春为丁桂涛
+
+3 （上海海洋大学水产与生命学院，上海201306）
+
+4摘要：为了评定大口黑鲈饲料中维生素A的需求量，本研究在基础饲料中添加不同量（0、  
+5 1000、2000、3000和 $4 0 0 0 \mathrm { I U / k g }$ ）的维生素A醋酸酯，配制5种不同维生素A含量（实测维  
+6 生素A含量分别为415、1406、2755、3 501和4646IU/kg)的等氮等能饲料（粗蛋白质 $4 8 . 4 7 \%$   
+7 总能 $1 8 . 1 5 \mathrm { k J / g } \cdot$ )。用上述饲料饲喂初始体重为（ $5 2 . 7 5 { \scriptstyle \pm 0 . 1 2 }$ ） $\mathbf { g }$ 的大口黑鲈 $4 9 \mathrm { d }$ ，每个处理设3个重复，每重复30尾鱼。结果表明：随着饲料中维生素A水平从 $4 1 5 \mathrm { \ I U / k g }$ 升高到2755IU/kg，试验鱼的增重率、特定生长率、饲料效率和蛋白质效率均显著升高（ $_ { _ { P < 0 . 0 5 ) } }$ ；而随饲料维生素A水平的进一步增高，上述指标则呈平稳的趋势。随着饲料中维生素A水平从415IU/kg升高到3 $\mathrm { 3 5 0 1 ~ I U / k g }$ ，鱼的肝脏中维生素A含量、肝脏总超氧化物歧化酶活性、血清溶菌酶活性，头肾白细胞呼吸爆发活性、血清补体活性及血红蛋白含量显著升高（ $P { < } 0 . 0 5 )$ ，而肝脏丙二醛含量显著降低（ $P { < } 0 . 0 5 )$ ；随饲料维生素A水平的进一步增高，上述指标变化幅度较小。饲料中不同维生素A水平对鱼的血清总蛋白含量和红细胞压积的影响不显著（ $P { > } 0 . 0 5 )$ 。分别以增重率和肝脏维生素A含量为评价指标，采用折线模型求得，大口黑鲈对饲料中维生素A的最适需求量分别为2 600和3 550IU/kg；而以非特异性免疫为评价指标，通过方差分析得出的最适需求量与以肝脏维生素A含量为评价指标所得出的需求量相近。本研究得出，大口黑鲈对饲料中维生素A水平的最适需求量为2 $: 6 0 0 { \sim } 3 5 5 0 \mathrm { I U } / \mathrm { k g } \circ$
+
+关键词：大口黑鲈；维生素A需求量；生长性能；非特异性免疫
+
+中图分类号：S963
+
+维生素A是具有视黄醇生物活性的一类化合物的统称。维生素 A有常见的 $\mathbf { A } _ { 1 }$ 和 ${ \bf A } _ { 2 } \ 2$ 种形式，维生素 $\mathbf { A } _ { 1 }$ 为视黄醇，维生素 $\mathbf { A } _ { 2 }$ 为3-脱氢视黄醇。维生素A在动物体内具有3种活性形式：视黄醇、视黄醛和视黄酸。维生素A对于鱼类与其他脊椎动物有类似的生理功能，是机体所必需的营养物质之一，其对鱼类的生长、上皮组织的分化、视觉功能、繁殖以及免疫等方面都具有重要的作用[1-2]。维生素 A缺乏会引起鱼类生长减慢、厌食、尾鳍腐烂、眼眶和鳍基部出血以及骨骼畸形等症状[3-5]。杂交条纹鲈（Morone chrysops female $\times$ M.saxatilis)因缺乏维生素A而出现生长缓慢、厌食以及皮肤和鳍基出血等病变。虹鳟（Oncorhynchusmykiss）因缺乏维生素A而出现鳃盖变形、贫血以及鳍基和眼部出血等症状[7]。另外，黄条（Seriola lalandi）因缺乏维生素A而出现血液中红细胞数量降低的贫血症状[8]。然而，过量的维生素 A容易在肝脏等组织中沉积，导致动物生长缓慢甚至中毒。牙鲆（Paralichthysolivaceus）因摄食高剂量的维生素A饲料而出现生长缓慢、脊柱不正常的现象[；大西洋鲑（Salmon salar）则出现死亡率增加，生长下降和脊椎发育异常等中毒症状[10]。因此，对鱼类饲料中适宜的维生素A水平进行科学的评定具有重要理论与实践意义。大口黑鲈（Micropterus salmoides）是一种典型的肉食性鱼类，为我国主要的淡水养殖品种之一。迄今为止，关于大口黑鲈现有的研究主要涉及蛋白质需求量[1]、脂肪需求量[12]、能蛋比[13]、赖氨酸和蛋氨酸需求量[14-15]、碳水化合物需求量[1]、维生素C 需求量[17]、胆碱需求量[18和硒需求量[19]等方面，而对于大口黑鲈饲料中维生素A需求量的研究尚未见报道。本研究采用剂量-效应法，以生长性能、体组成和非特异性免疫作为评估指标，以确定大口黑鲈饲料中维生素A的适宜需求量，为大口黑鲈人工饲料的配制提供参考。
+
+1材料与方法
+
+1.1试验材料维生素A醋酸酯由DSM公司提供，有效含量为 $5 0 0 0 0 0 \ \mathrm { I U / g _ { \odot } }$ （204号
+
+# 1.2 试验设计
+
+以鱼粉和菜籽油分别作为蛋白质源和脂肪源， $\scriptstyle { \mathfrak { a } } .$ -淀粉为糖源兼作黏合剂，添加晶体氨基酸，以使饲料的必需氨基酸组成与大口黑鲈鱼体的必需氨基酸组成相类似[2]，配制出基础饲料，在基础饲料中添加维生素A醋酸酯(添加量分别为 $0 . 1 0 0 0 { \scriptstyle \cdot } 2 0 0 0 { \scriptstyle \cdot } 3 0 0 0$ 和 $4 0 0 0 \mathrm { I U / k g } )$ ，配制5种不同维生素A含量（实测维生素A含量分别为415、1406、2755、3501和4646IU/kg）的等氮等能饲料（粗蛋白质 $4 8 . 4 7 \%$ ；总能 $1 8 . 1 5 \mathrm { k J / g } \dot { . }$ ，分别命名为A415、A1406、A2 755、A3501和A4 646。试验饲料组成及营养水平见表1。以 $0 . 5 \%$ 的三氧化二铬 $\displaystyle { \left( \mathrm { C r } _ { 2 } \mathrm { O } _ { 3 } \right) }$
+
+作为指示剂测定相关营养成分的表观消化率。沸石粉被用作饲料的填充剂。饲料中使用 $1 \%$   
+亲水大豆磷脂兼作乳化剂。试验饲料的制作：将饲料原料粉碎后过80目筛，各原料混合均匀后，再加入油脂混合  
+均匀，最后加入适量的水经混匀后制粒。用电动绞肉机制成直径 $2 { \sim } 4 ~ \mathrm { m m }$ 的条状，经冷冻后  
+切成长约 $5 { \sim } 1 0 \ \mathrm { m m }$ 的颗粒，于 $- 2 0 \mathrm { { ^ { \circ } C } }$ 保存待用。
+
+# 1.3 试验用鱼及饲养管理
+
+试验用鱼经室内循环水养殖系统在上海农好饲料有限公司进行为期2个月的驯化。期间投喂上海农好饲料有限公司生产的商品大口黑鲈幼鱼饲料（粗蛋白质含量为 $48 \%$ ，粗脂肪含量为 $1 1 \%$ ，维生素A含量的实测值为3150IU/kg）。驯化后的试验用鱼经 $2 4 \mathrm { ~ h ~ }$ 饥饿处理，挑选体格健壮和体重相近的个体，进行称重与分组。按5种饲料处理，每处理3重复，随机分配于15个容量为800L的玻璃钢水槽中。每水槽放养初始体重为（ $5 2 . 7 5 { \scriptstyle \pm 0 . 1 2 }$ ）g的试验鱼30尾。试验期间采取表观饱食投喂，每天投喂2次（08:00和16:00）。养殖循环系统的水经海绵和珊瑚砂过滤并进行紫外线灭菌处理。试验期间采取自然光照。水温被控制于( $2 7 { \pm } 1$ ）℃，水的氨氮浓度为（ $0 . 1 5 { \scriptstyle \pm 0 . 0 5 }$ ） $\mathrm { m g / L }$ ， $\mathfrak { p H }$ 为 $7 . 2 { \pm } 0 . 2 \$ ，不间断充气，溶解氧浓度为（ $6 . 0 { \pm } 0 . 1 \ \mathrm { . }$ ）$\mathrm { m g / L }$ 。养殖试验共持续49 d。
+
+表1试验饲料组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis)   
+
+<html><body><table><tr><td colspan="5">Table1 Compositionandnutrientlevelsoiexperim diets(air-drybasis)</td><td colspan="2">%</td></tr><tr><td colspan="6">项目</td></tr><tr><td>Items</td><td>A415</td><td>A1 406</td><td>饲料 Diets A2 755</td><td>A3 501</td><td>A4 646</td></tr><tr><td>原料 Ingredients1)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>脱脂鱼粉 Defatted fish meal</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td><td>40.00</td></tr><tr><td>谷腕粉 Wheat gluten meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>脱脂大米蛋白粉 Defatted rice protein</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>powder</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td><td>9.00</td></tr><tr><td>喷雾干燥血粉 Spray-driedblood meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>α-淀粉α-starch</td><td>7.50</td><td>7.50</td><td>7.50</td><td>7.50</td><td>7.50</td></tr><tr><td>酵母粉 Yeast meal</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>牛磺酸 Taurine</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>酵母提取物 Yeast extract</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>维生素预混料 Vitamin premix2)</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td><td>2.25</td></tr><tr><td>矿物质预混料 Mineral premix3)</td><td>1.25</td><td>1.25</td><td>1.25</td><td>1.25</td><td>1.25</td></tr><tr><td>菜籽油 Rapeseed oil</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>亲水大豆磷脂 Hydrophilic soybean</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>phospholipid</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>浓缩大豆磷脂 Concentrated soybean</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td><td>4.00</td></tr><tr><td>phospholipid 蛋氨酸Methionine</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td></td><td></td><td></td><td>2.50</td><td></td><td></td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>2.50</td><td>2.50</td><td></td><td>2.50</td><td>2.50</td></tr><tr><td>三氧化二铬CrO3</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>维生素A 混合物 Vitamin A mixture4)</td><td>0.00</td><td>1.00</td><td>2.00</td><td>3.00</td><td>4.00</td></tr><tr><td>沸石粉 Zeolite powder</td><td>6.50</td><td>5.50</td><td>4.50</td><td>3.50</td><td>2.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>维生素A Vitamin A/(IU/kg)</td><td>415</td><td>1 406</td><td>2 755</td><td>3 501</td><td>4 646</td></tr><tr><td>粗蛋白质 CP</td><td>48.37</td><td>48.42</td><td>48.39</td><td>48.54</td><td>48.75</td></tr><tr><td>粗脂肪 EE</td><td>13.49</td><td>13.40</td><td>13.51</td><td>13.45</td><td>13.37</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>17.94</td><td>18.10</td><td>17.98</td><td>18.23</td><td>18.28</td></tr></table></body></html>
+
+1原料购自于上海农好饲料有限公司，其中脱脂鱼粉、谷胱粉、发酵豆粕、脱脂大米蛋白粉和喷雾干燥 血粉的粗蛋白质含量分别为 $67 . 4 4 \%$ 、 $7 6 . 5 6 \%$ 、 $5 1 . 6 2 \%$ 、 $6 5 . 6 6 \%$ 、 $9 0 . 3 3 \%$ 、 $45 . 9 9 \%$ 。Ingredients were purchased from Shanghai Nonghao Feed Co.,Ltd.,and crude protein content of defated fish meal, wheat gluten meal, fermented soybean meal, defatted rice protein powder and spray-dried blood meal was $67 . 4 4 \%$ ， $7 6 . 5 6 \%$ ， $5 1 . 6 2 \%$ ， $6 5 . 6 6 \%$ ， $9 0 . 3 3 \%$ and $45 . 9 9 \%$ ，respectively.
+
+2)维生素预混料为每千克饲料提供 Vitamin premix supplied as the following (per kg of diet): $\mathrm { V B } _ { 1 } 1 7 . 8 0 \mathrm { m g }$ $\mathrm { V B } _ { 2 } 4 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 9 . 5 2 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 2 4 \ : \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 8 0 0 0 \mathrm { I U }$ ，VE $1 6 0 . 0 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 4 . 7 2 \mathrm { m g }$ ，VC $8 0 0 ~ \mathrm { { m g } }$ 烟酸胺 niacinamide $7 9 . 2 0 \mathrm { m g }$ $D$ -泛酸钙 $D$ -calciumpantothenate $7 3 . 6 0 \mathrm { m g }$ ，叶酸folic acid $6 . 4 0 \mathrm { m g }$ ，生物素 biotin 0.64 mg，肌醇 inositol $3 2 0 ~ \mathrm { m g }$ ，氯化胆碱choline chloride $1 5 0 0 \mathrm { m g }$ ， $L$ -肉碱 $L$ -carnitine $1 0 0 ~ \mathrm { { m g } }$ 。
+
+3)矿物质预混料为每千克饲料提供 Mineral premix supplied as the following (per $\mathrm { k g }$ of diet): $\mathrm { C u S O } _ { 4 } 2 . 0 0$ （204号mg， $Z n S O _ { 4 } 3 4 . 4 0 \mathrm { m g }$ ， $\mathrm { M n S O } _ { 4 } 6 . 2 0 \mathrm { m g }$ ， $\mathrm { F e S O } _ { 4 } 2 1 . 1 0 \mathrm { m g }$ ，Ca( $\mathrm { I O } _ { 3 }$ ） $_ 2 1 . 6 3 \mathrm { \ m g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } 0 . 1 8 \ m g }$ ， $\mathrm { C o C l } _ { 2 } 0 . 2 4$ mg， $\mathrm { M g S O _ { 4 } / H _ { 2 } O }$ 52.70 mg。
+
+4)每千克维生素A混合物含有 One kg of vitamin A contained the following：维生素A醋酸酯 retinylacetate $0 . 2 0 ~ \mathrm { g }$ ，沸石粉 zeolite powder $9 9 9 . 8 0 \ \mathrm { g }$ 。
+
+5)营养水平均为实测值。Nutrient levels were measured values.
+
+# 1.4样品的采集与分析
+
+# 1.4.1 样品采集
+
+养殖试验开始时随机抽取15尾鱼于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 保存，用于初始样本的体组成分析。养殖试验开始2周后参考Lee[21]的方法收集粪便。粪便收集的流程：饲喂后 $3 0 \mathrm { m i n }$ ，虹吸法清除存在的粪便，打开粪便采集装置持续 $4 \mathrm { h }$ ，将包膜完整的粪便保存于 $- 2 0 \mathrm { { } ^ { \circ } C _ { \circ } }$ 全部的粪便收集工作结束后，将粪便冷冻干燥，筛除鱼鳞，保存备用。养殖试验结束时，试验鱼经 $2 4 \mathrm { h }$ 饥饿，统计每水槽的鱼尾数及总重；从中随机抽取12尾鱼，其中5尾鱼于 ${ } . 8 0 \mathrm { } ^ { \circ } \mathrm { C }$ 保存，用于鱼体组成的分析，其余的7尾被抽取血液，解剖。采用 $2 ~ \mathrm { m L }$ 注射器从试验鱼尾静脉采血 $1 ~ \mathrm { m L }$ ， $4 \mathrm { { ^ \circ C } }$ 下静置，4h后离心（ $8 3 6 \times g$ ， $1 0 \mathrm { m i n }$ ， $4 \mathrm { { ^ \circ C } }$ ），取血清于 $- 8 0 \mathrm { ~ \textdegree ~ }$ 保存，用于免疫等指标的分析。抽血后解剖出肝脏和内脏，称重，用作计算肝体比，于 $- 8 0 \mathrm { ~ \textdegree ~ }$ 保存样品以用于肝脏、内脏体组成以及肝脏中维生素含量的测定。另取侧线上方背部肌肉于 $- 8 0 \mathrm { ~ \textdegree ~ }$ 保存，用于肌肉组成分析。余下的试验鱼再经3d饲养，每水槽随机取6尾鱼，各取静脉血 $1 \mathrm { m L }$ ，置于含肝素钠的抗凝管中，混匀后于4℃保存，用于血液学指标的测定。采血后立即取出头肾，进行头肾白细胞呼吸爆发活性的测定。
+
+# 1.4.2 饲料、粪便及鱼体组成的分析
+
+试验饲料、全鱼、肌肉、内脏、肝脏和粪便的营养成分含量分析方法如下：粗蛋白质含量采用凯氏定氮仪（Kieltec-2300，FOSS，丹麦）测定；水分含量采用105℃恒温烘干失重法测定；粗灰分含量采用马弗炉（上海试验仪器公司）于550℃下灼烧的方法测定；粗脂肪含量采用氯仿－甲醇法[22]测定测定；饲料总能采用氧弹仪（6200，Parr，美国）测定；饲料和粪便中的 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 含量采用Divakaran等[23]的方法测定。饲料及肝脏中的维生素A含量采用高效液相色谱法[24]测定。
+
+# 1.4.3 免疫指标分析
+
+采用比浊法测定血清溶菌酶活性[25]。采用双缩脲法测定血清总蛋白含量[26]。血清补体活性测定采用经典途径的分析方法[27]。头肾白细胞呼吸爆发活性采用氯化硝基四氮唑蓝（NBT）法[28进行测定。肝脏中总超氧化物歧化酶活性和丙二醛含量采用南京建成生物工程研究所的试剂盒测定。
+
+# 1.4.4 血液学指标分析
+
+用氰化高铁分光光度法测定血红蛋白含量[29]。以 Natt and Herrick 计数液[30将血液稀释
+
+200 倍后，用血球计数板计数红细胞。红细胞比容采用Wintrobe 法[31]（2 $2 6 4 \times g$ 离心)测定。
+
+1.5 计算公式
+
+成活率(survival rate, $S \mathbb { R } , \%$ )=终末尾数/初始尾数 $\times 1 0 0$   
+摄食率[feed intake,FI,g/（尾·d） $] = \left\{ \begin{array} { r l } \end{array} \right.$ 干饲料摄入量/[(初始尾数 $+$ 终末尾数)/2]}/试验天数;  
+增重率（weight gain rate, $\mathrm { W G R } , \%$ ） $\mathbf { \Sigma } = \mathbf { \Sigma }$ （终末体重-初始体重）/初始体重 $\times 1 0 0$   
+特定生长率(specific growth rate,SGR,%/d)=(ln终末体重-ln初始体重)/饲养天数 $\times 1 0 0$ ，  
+饲料效率(feed efficiency ratio,FER)=(终末体重-初始体重)/干饲料摄入量;  
+蛋白质效率(protein efficiency ratio,PER $\scriptstyle  \vert = ($ (终末体重-初始体重)/粗蛋白质摄入量;  
+营养物质表观消化率(apparent digestibility coeficient,ADC $\%$ )=[1-(粪便中营养物质含量/饲料  
+中营养物质含量) $| \times |$ （饲料中 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 含量/粪便中 $\mathrm { C r } _ { 2 } \mathrm { O } _ { 3 }$ 含量） $\lvert \times 1 0 0$   
+蛋白质沉积率(protein deposition rate. $\mathrm { P D R } , \%$ )=(体粗蛋白质沉积量/粗蛋白质摄入量) $\times 1 0 0$ ·  
+脂肪沉积率(lipid deposition rate, $\mathrm { L D R } , \%$ )=(体粗脂肪沉积量/粗脂肪摄入量) $\times 1 0 0$   
+肝体比(hepatosmatic index $H S I , \%$ $\scriptstyle  \begin{array} { r l } \end{array} | = ($ （肝脏重/鱼体重） $\times 1 0 0$ 。
+
+# 1.6 数据统计与分析
+
+试验结果以平均值 $\pm$ 标准差表示，使用SPSS17.0进行单因素方差分析（one-wayANOVA），差异显著者用Duncan氏法进行多重比较，差异显著水平为 $P { < } 0 . 0 5$ 。折线模型的方程为：
+
+$$
+Y { = } L { - } U ( R { - } X _ { R L } ) _ { \circ }
+$$
+
+式中：Y为用于估测需求量所采用的参数； $L$ 、 $R$ 为折点对应的坐标值； $R$ 为需求量； $X _ { R L }$ 为小于R的自变量 $( \boldsymbol { X } )$ 值； $U$ 是直线 $X _ { R L }$ 的斜率；当 $X { > } \mathsf { R }$ 时，定义 $R - X _ { R L } = 0$ 。通过NRM软件获得折线回归模型以评定饲料中维生素A的适宜需求量。
+
+# 2结果
+
+2.1维生素A水平对大口黑鲈生长性能及饲料营养物质利用的影响
+
+当饲料中维生素A水平由415IU/kg上升到2 $7 5 5 \mathrm { \ I U / k g }$ 时，试验鱼的增重率显著升高（ $\scriptstyle P < 0 . 0 5 .$ ），超过 $2 7 5 5 \mathrm { I U / k g }$ 以后，试验鱼的增重率无显著变化（ $P { > } 0 . 0 5$ ）。试验鱼的特定生长率、饲料效率和蛋白质效率均表现出与增重率相同的变化趋势（表2和3）。当以增重率为评价指标时，饲料中维生素A水平与增重率的关系用折线模型表示为： $Y { = } 1 1 1 . 4 6 { \ - } 0 . 0 0 9 { \times } ( 2$ 600-X) ( $\cong \cong 1 \ : X \cong 2 \ : 6 0 0 \ : \mathrm { I U / k g } \ : \ r$ 时， $R ^ { 2 } { = } 0 . 7 6 5$ ；当 $X { > } 2 \ 6 0 0 \ \mathrm { I U / k g } |$ 时， $Y { = } 1 1 1 . 4 6 \%$ ），由此得出，大口黑鲈饲料中维生素A的需求量为 $1 2 6 0 0 \mathrm { I U / k g }$ 饲料（图1）。饲料中维生素A水平对试验鱼的成活率和摄食率的影响不显著（ $\cdot P { > } 0 . 0 5 \$ ） (表2)。维生素A水平为 $4 1 5 \mathrm { I U / k g }$ 试验鱼的蛋白质沉积率和脂肪沉积率显著低于维生素水平为 $4 0 6 { \sim } 4 ~ 6 4 6 ~ \mathrm { I U / k g }$ （ $P { < } 0 . 0 5$ ）。维生素A水平为1$4 0 6 { \sim } 4 6 4 6 \ \mathrm { I U / k g }$ 试验鱼的蛋白质沉积率和脂肪沉积率无显著性的差异（ $\cdot P { > } 0 . 0 5 \$ ），维生素A水平为2 $7 5 5 ~ \mathrm { I U / k g }$ 试验鱼的蛋白质沉积率和脂肪沉积率最高（表3）。
+
+Table2Effects of dietary vitamin A levels on growth performance of largemouth bass (Micropterus salmoides)   
+
+<html><body><table><tr><td></td><td>成活率</td><td>增重率</td><td>摄食率</td><td>特定生长率</td></tr><tr><td>组别Groups</td><td>SR/%</td><td>WGR/%</td><td>FI/[g/(尾·d）]</td><td>SGR/ (%/d)</td></tr><tr><td>A415</td><td>100.00±0.00</td><td>89.86±3.21c</td><td>1.29±0.09</td><td>1.31±0.03</td></tr><tr><td>A1 406</td><td>100.00±0.00</td><td>104.15±3.83b</td><td>1.31±0.08</td><td>1.47±0.04b</td></tr><tr><td>A2 755</td><td>100.00±0.00</td><td>112.64±2.07a</td><td>1.30±0.04</td><td>1.54±0.02a</td></tr><tr><td>A3 501</td><td>100.00±0.00</td><td>108.91±4.27ab</td><td>1.28±0.04</td><td>1.50±0.04ab</td></tr><tr><td>A4 646</td><td>100.00±0.00</td><td>108.51±4.41ab</td><td>1.32±0.05</td><td>1.49±0.04ab</td></tr></table></body></html>
+
+145 同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。下表同。   
+146 In the same column,values with no letter or the same letter superscripts mean no significant difference   
+147 （204号 $( P { > } 0 . 0 5 )$ ,while with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as below.
+
+表2饲料中维生素A水平对大口黑鲈生长性能的影响  
+表3饲料中维生素A水平对大口黑鲈饲料营养物质利用的影响  
+9 Table 3Efects of dietary vitamin A levels on nutrient utilization of largemouth bass(Micropterus salmoides)   
+  
+
+<html><body><table><tr><td rowspan="2">组别</td><td rowspan="2">饲料效率</td><td rowspan="2">蛋白质效率</td><td colspan="3">租蛋白质装观</td></tr><tr><td>消化率 CP apparent</td><td>蛋白质沉积率</td><td>脂肪沉积率</td></tr><tr><td>Groups</td><td>FER</td><td>PER</td><td>digestibility/%</td><td>PDR/%</td><td>LDR/%</td></tr><tr><td>A415</td><td>0.73±0.05</td><td>1.51±0.05c</td><td>83.12±0.20c</td><td>27.51±1.25b</td><td>41.91±3.86b</td></tr><tr><td>A1 406</td><td>0.83±0.05b</td><td>1.72±0.04b</td><td>84.43±0.13b</td><td>30.08±1.25a</td><td>50.92±2.13a</td></tr><tr><td>A2 755</td><td>0.94±0.01a</td><td>1.93±0.03a</td><td>85.45±0.30a</td><td>31.62±0.31a</td><td>57.99±3.67a</td></tr><tr><td>A3 501</td><td>0.91±0.02a</td><td>1.88±0.04a</td><td>85.17±0.13a</td><td>30.75±2.35a</td><td>55.77±3.61a</td></tr><tr><td>A4 646</td><td>0.90±0.06a</td><td>1.84±0.11a</td><td>85.12±0.05a</td><td>30.06±0.36a</td><td>53.96±1.38a</td></tr></table></body></html>
+
+![](images/f4d03d3ee72c4b95746579d7e6c6a53ee95067da019bbdb693cdfed92848187b.jpg)  
+图1饲料中维生素A水平与大口黑鲈增重率的关系
+
+Fig.1 Relationship between dietary vitamin A level and weight gain rate of largemouth bass (Micropterus
+
+salmoides)
+
+2.2 维生素A水平对大口黑鲈鱼体组成的影响
+
+由表4可知，维生素A水平为1406、2755、3501、4646IU/kg时,试验鱼全鱼的粗蛋白质含量显著高于维生素A水平为415IU/kg（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ）；维生素A水平由 $4 1 5 \mathrm { I U / k g }$ 上升到4646IU/kg时，试验鱼的肌肉和内脏的粗蛋白质含量显著升高（ $\cdot P { < } 0 . 0 5$ ）。全鱼的粗脂肪含量随着饲料中维生素A水平的升高呈现出先升高后平稳的趋势，且在维生素A水平为3501IU/kg时达到最高，显著高于维生素A水平为 $4 1 5 \mathrm { I U / k g }$ （ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）；维生素A水平由 $4 1 5 \mathrm { I U / k g }$ 上升到4646IU/kg时，试验鱼的内脏的粗脂肪含量显著降低（ $P { < } 0 . 0 5$ ）；肌肉脂肪含量未受饲料中维生素A水平的显著影响（ $P { > } 0 . 0 5$ ）。全鱼、肌肉和内脏的水分及粗灰分含量未受饲料中维生素A水平的显著影响（ $P { > } 0 . 0 5$ ）。
+
+# 表4饲料中维生素A水平对大口黑鲈鱼体组成的影响
+
+salmoides) % 组别 Groups 粗蛋白质CP 粗脂肪 EE 水分 Moisture 粗灰分 Ash 全鱼 Whole fish body
+
+<html><body><table><tr><td>A415</td><td>17.46±0.11b</td><td>5.20±0.46</td><td>72.37±0.05</td><td>4.58±0.23</td></tr><tr><td>A1 406</td><td>18.22±0.18a</td><td>5.94±0.10b</td><td>72.44±0.68</td><td>4.15±0.37</td></tr><tr><td>A2 755</td><td>18.60±0.23a</td><td>6.25±0.30ab</td><td>71.48±0.34</td><td>4.25±0.15</td></tr><tr><td>A3 501</td><td>18.31±0.24a</td><td>6.61±0.22a</td><td>71.68±0.26</td><td>4.21±0.13</td></tr><tr><td>A4 646</td><td>18.30±0.23a</td><td>6.13±0.04ab</td><td>71.29±0.11</td><td>4.34±0.03</td></tr><tr><td>肌肉Muscle</td><td></td><td></td><td></td><td></td></tr><tr><td>A415</td><td>18.99±0.22d</td><td>1.41±0.04</td><td>76.51±0.58</td><td>1.35±0.03</td></tr><tr><td>A1 406</td><td>19.32±0.26cd</td><td>1.42±0.03</td><td>77.60±0.36</td><td>1.32±0.02</td></tr><tr><td>A2 755</td><td>19.62±0.32bc</td><td>1.42±0.04</td><td>76.48±0.32</td><td>1.35±0.02</td></tr><tr><td>A3 501</td><td>19.89±0.36ab</td><td>1.41±0.03</td><td>76.91±0.52</td><td>1.37±0.03</td></tr><tr><td>A4 646</td><td>20.32±0.08a</td><td>1.40±0.03</td><td>77.36±0.36</td><td>1.35±0.01</td></tr><tr><td>内脏Viscera</td><td></td><td></td><td></td><td></td></tr><tr><td>A415</td><td>10.49±0.13e</td><td>18.14±0.23a</td><td>66.36±0.79</td><td>1.02±0.01</td></tr><tr><td>A1 406</td><td>10.89±0.15d</td><td>15.65±0.21b</td><td>66.99±0.38</td><td>1.02±0.02</td></tr><tr><td>A2 755</td><td>11.14±0.06</td><td>14.79±0.12</td><td>66.44±0.42</td><td>1.03±0.04</td></tr><tr><td>A3 501</td><td>11.47±0.10b</td><td>14.23±0.12d</td><td>67.05±0.96</td><td>1.02±0.01</td></tr><tr><td>A4 646</td><td>11.80±0.16a</td><td>13.90±0.12e</td><td>67.09±0.17</td><td>1.03±0.02</td></tr></table></body></html>
+
+2.3维生素A水平对大口黑鲈肝体比、肝脏中维生素A含量、总超氧化物歧化酶活性和丙二醛含量的影响
+
+维生素A水平为415IU/kg的肝体比显著大于其他各组（ $P { < } 0 . 0 5 )$ ，其他组间则无显著差异（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 .$ )。随着饲料中维生素A水平的增高，试验鱼肝脏粗脂肪含量先降低后升高，并在维生素A水平为3501IU/kg时降到最低，显著低于维生素A水平为415IU/kg（ $P { < } 0 . 0 5$ ）；肝脏中维生素A含量呈先升高后平稳的趋势，肝脏总超氧化物歧化酶活性呈先升高后降低的趋势，二者均在维生素A水平为3501IU/kg时达到最高；肝脏丙二醛含量呈先降低后升高的趋势，并在维生素A水平为3501IU/kg时达到最低（表5）。当以肝脏维生素A含量为评价指标时，饲料中维生素A与肝脏维生素A含量的关系用折线模型表示为： $Y { = } 1 9 3 . 0 3 { \mathrm { - } } 0 . 0 6 2 { \times } ( 3$ 550-X)（当 $X { \le } 3 5 5 0 \mathrm { I U / k g }$ 时， $R ^ { 2 } { = } 0 . 9 8 6$ ；当 $X { > } 3 5 5 0 \mathrm { I U / k g \mathbb { H } }$ 寸， $Y { = } 1 9 3 . 0 3 ~ { \mu } \mathbf { g } / \mathbf { g } ,$ ），由此得出，大口黑鲈饲料中维生素A的需求量为 $3 5 5 0 \mathrm { I U / k g }$ （图2）。
+
+表5饲料中维生素A水平对大口黑鲈肝脏粗脂肪含量、肝脏中维生素A含量、肝体比以及肝脏中总超氧化物歧化酶活性和丙二醛含量的影响
+
+Table 5Effects of dietary vitamin A levels on liver EEand vitamin Acontents,HIS,liver T-SOD activity and
+
+<html><body><table><tr><td colspan="4">肝脏粗脂肪含</td><td>歧化酶活性</td><td>肝脏丙二醛含量</td></tr><tr><td></td><td>量</td><td>肝脏中维生素A含量</td><td></td><td>Liver T-SOD</td><td>Liver MDA</td></tr><tr><td>组别</td><td>Liver EE</td><td>Liver vitamin A content/</td><td>肝体比</td><td>activity/ （U/mg</td><td>content/</td></tr><tr><td>Groups</td><td>content/%1)</td><td>（μg/g） 2）</td><td>HSI/%</td><td>prot)</td><td>(nmol/mg prot）</td></tr><tr><td>A415</td><td>3.48±0.13a</td><td>8.98±0.72d</td><td>3.14±0.14a</td><td>59.71±1.41d</td><td>5.22±0.03a</td></tr><tr><td>A1 406</td><td>3.24±0.02b</td><td>47.36±0.36c</td><td>2.72±0.35b</td><td>71.91±1.79c</td><td>3.97±0.09b</td></tr><tr><td>A2 755</td><td>2.75±0.19</td><td>142.09±2.42b</td><td>2.61±0.15b</td><td>82.61±1.90ab</td><td>2.83±0.09cd</td></tr><tr><td>A3 501</td><td>2.69±0.12c</td><td>199.12±1.88a</td><td>2.52±0.17b</td><td>84.07±0.85a</td><td>2.73±0.09d</td></tr><tr><td>A4 646</td><td>3.14±0.08b</td><td>195.68±2.72a</td><td>2.63±0.20b</td><td>80.91±1.80b</td><td>2.93±0.06c</td></tr></table></body></html>
+
+181 1初始值为 $( 3 . 0 4 \pm 0 . 1 1 ) \%$ 。 Initial value was $( 3 . 0 4 \pm 0 . 1 1 ) \%$ 182 2初始值为（ $6 3 . 4 2 { \pm } 1 . 5 4 \$ ） $\mu \mathrm { g / g }$ 。 Initial value was ( $6 3 . 4 2 { \pm } 1 . 5 4 \$ ） $\mu \mathrm { g / g }$
+
+![](images/56587485b1983030a684b8d0e265b01aa3c39eb0c0aefd7a758e19fc261b02ea.jpg)  
+图2饲料中维生素A水平与大口黑鲈肝脏维生素A含量的关系  
+Fig.2Relationship between dietary vitamin A level and liver vitamin Acontent oflargemouth bass(Micropterus salmoides)
+
+2.4维生素A水平对大口黑鲈非特异性免疫指标的影响
+
+随着饲料中维生素A水平的升高，血清溶菌酶活性、头肾白细胞呼吸爆发活性和血清补体活性呈现出先升高后平稳的趋势，均在维生素A水平为3501IU/kg时达到最高，显著高于维生素A水平为 $4 1 5 ~ \mathrm { I U / k g }$ ( $P { < } 0 . 0 5 \$ ）；但饲料中维生素A水平对血清总蛋白含量无显著影响（ ${ \it P } { > } 0 . 0 5$ ）（表6）。
+
+表6饲料中维生素A水平对大口黑鲈非特异性免疫指标的影响
+
+Table 6Effects of dietary vitamin A levels on serum non-specific immunity indexes of largemouth bass
+
+血清溶菌酶 血清总蛋白 活性 Serum 头肾白细胞呼吸爆 含量Serum lysozyme 发活性Respiratory total protein 血清补体活性   
+组别 activity/ burst activity of head content/ Serum complement   
+Groups $C U / \mu \mathrm { L }$ ） kidney leucocyte （mg/mL） activity/ ( $\mathrm { { \cdot U / m L } }$ ）   
+A415 $5 . 3 5 { \scriptstyle \pm 0 . 4 8 } ^ { \mathrm { d } }$ （20 0.84±0.08c 35.35±0.65 236.11±14.02d   
+A1 406 6.61±0.20c 1.11±0.09b 34.78±0.45 270.39±6.56   
+A2 755 7.04±0.07bc 1.18±0.15ab 34.52±0.67 317.77±4.02b   
+A3 501 8.02±0.45a 1.40±0.13a 34.58±0.71 344.10±12.51a   
+A4 646 7.66±0.44ab 1.27±0.10ab 34.51±1.05 328.58±9.03ab
+
+# 5 2.5维生素A水平对大口黑鲈血液学指标的影响
+
+红细胞数和血红蛋白含量随着饲料中维生素A水平的升高呈现出先升高后平稳的趋势，且在维生素A水平为3501IU/kg时达到最高，显著高于维生素A水平为415IU/kg（ $P { < } 0 . 0 5 \$ ；但饲料中维生素A水平对红细胞压积无显著影响（ $. P { > } 0 . 0 5$ ）（表7）。
+
+# 表7饲料中维生素A水平对大口黑鲈血液学指标的影响
+
+） Table7Effects of dietary vitamin A levels on hematological indices of largemouth bass(Micropterus salmoides) 血红蛋白含量   
+
+<html><body><table><tr><td></td><td>红细胞数</td><td>红细胞压积</td><td>Haemoglobin content/</td></tr><tr><td>组别Groups</td><td>Red blood cell count/ （1ol²个/L）</td><td>Haematocrit/%</td><td>（g/L)</td></tr><tr><td>A415</td><td>1.58±0.10c</td><td>45.10±4.31</td><td>59.42±1.83</td></tr><tr><td>A1 406</td><td>1.81±0.08b</td><td>47.61±2.89</td><td>68.25±3.37b</td></tr><tr><td>A2 755</td><td>1.98±0.07a</td><td>48.07±0.79</td><td>68.66±4.52b</td></tr><tr><td>A3 501</td><td>2.08±0.03a</td><td>50.67±2.57</td><td>76.34±2.70a</td></tr><tr><td>A4 646</td><td>2.02±0.05a</td><td>49.27±1.01</td><td>71.29±2.31ab</td></tr></table></body></html>
+
+3讨论
+
+3.1维生素A水平对大口黑鲈生长性能的影响
+
+鱼类常因饲料中维生素A的缺乏导致生长缓慢等缺乏症[3]。本研究中，在饲料的维生素A水平为415和1406IU/kg时，试验鱼的生长较其他组缓慢；但随着饲料中维生素A水平升高至2 755IU/kg，试验鱼的增重率达到最高。本研究以增重率为指标，采用折线模型得出，大口黑鲈对饲料中维生素A的适宜需求量为2 600 IU/kg。其他的研究显示，以生长率为指标，太平洋鲑（Oncorhynchus spp.）[1]、玳瑁石斑（Epinephelus tauvina）[4]和虹鳟[7]对饲料中维生素A的适宜需求量分别为2 500、3 101IU/kg和2 000\~2 500 IU/kg。由此可见，上述这些鱼类以生长为指标对饲料中维生素A的适宜需求量与本研究得出的大口黑鲈的需求量相接近。
+
+但对牙鲆[3]和史氏鲟鱼（Acipenser schrenckii）[32]的研究认为，饲料中维生素A的适宜需求量分别为9000和879.45IU/kg，远高于或低于本研究得出的大口黑鲈的需求量。鱼类可能因种类的不同对维生素A的需求量不尽相同。另外，尽管维生素A是鱼类生长必需的营养物质，但若饲料中维生素A水平过高，鱼类的生长反而出现抑制[2]。这种现象在本研究中也有所显现，但差异并不显著。对虹鳟[33、牙鲆（Paralichthys olivaceus）[34]和罗非鱼（Oreochromisniloticus）[35]等的研究中也发现因饲料中维生素A的过量而出现生长抑制。关于饲料中更高水平的维生素A是否会对大口黑鲈的生长产生更显著的负面影响尚有待进一步的研究。
+
+3.2维生素A水平对大口黑鲈饲料中营养物质的利用及鱼体组成的影响  
+随着饲料中维生素A水平的升高，大口黑鲈的饲料效率呈现先升高后平稳的趋势。对牙鲆[3]、花鲈（Lateolabrax japonicus）[5]的研究也发现了与本研究相似的情形。这说明，饲料的维生素A水平能够调节鱼类营养物质的代谢，从而影响鱼体的体组成。在饲料的维生素A水平为415 IU/kg时，试验鱼的蛋白质沉积率和全鱼粗蛋白质含量显著低于其他组。肌肉和内脏的粗蛋白质含量随着维生素A水平的升高而升高。同样，建鲤（Cyprinus carpio var.Jian）因缺乏维生素A也使得饲料的蛋白质沉积率显著降低[3]。除了鱼类的蛋白质代谢受到饲料中维生素A水平的影响之外，能量代谢同样也受到影响。随着饲料中维生素A水平的升高，全鱼的粗脂肪含量呈现出先上升后平稳的趋势，而肝脏的粗脂肪含量呈现出先下降后略有升高的趋势。这些变化的规律性与张璐等[5]对花鲈的研究情况基本一致。但是，饲料中维生素A水平对鱼类的营养代谢和体组成的影响也有不同的结论。有研究表明，饲料中维生素A水平对虹鳟[37]的体成分无显著影响。但牙鲆[3]和玳瑁石斑[4]的体粗脂肪含量随着饲料中维生素A水平的升高而显著降低。此外，杂交罗非鱼（Oreochromis niloticus $\times o$ aureus）[38]的体粗蛋白质和水分含量，虽受到饲料中维生素A水平的影响，但无规律性可循。  
+肝脏是代谢和贮存维生素A的重要器官。肝脏中的维生素A含量的变化常被用作研究鱼类对饲料中维生素的需求量的重要评价指标。在本研究中，当饲料中维生素A水平在415\~3501IU/kg时，试验鱼肝脏中维生素A含量逐渐增加，但进一步增加饲料中维生素A的水平，并未引起肝脏中维生素A含量的进一步增加。这种现象在其他鱼类中也有显现[8,38-40]。但仅仅以肝脏中维生素A含量的这一变化规律作为评定鱼类对饲料中维生素A的需求量，有被高估的可能性。
+
+# 3.3维生素A水平对大口黑鲈免疫力的影响
+
+当饲料中维生素A水平由415IU/kg升高至3501IU/kg时，试验鱼的血清溶菌酶活性、头肾白细胞的呼吸爆发活性、血清补体活性和肝脏超氧化物歧化酶活性显著提高，并在饲料的维生素A水平为3 501IU/kg时活性均达到最大。当饲料中维生素A水平在由415IU/kg升高至2755IU/kg时，红细胞数显著增高，但进一步增加饲料中维生素A的水平，并未引起红细胞数的进一步增加。同样，美国红鱼（Sciaenops ocellatus）[41]的血清溶菌酶活性和血清超氧化物歧化酶活性以及草鱼（Ctenopharyngodonidella）[42]的血清超氧化物岐化酶活性均随着饲料中维生素A水平的升高而显著提高。摄食缺乏维生素A的饲料会引起虹鳟贫血病的发生[7]。但是，饲料中维生素A水平对鱼类的免疫力的影响也有不同的结论。大西洋鲑[43]的血清溶菌酶的活性未显著受到饲料中维生素A水平的影响。虹鳟[37饲料中的维生素A水平对头肾白细胞的呼吸爆发活性和血清补体活性的影响不显著。尽管饲料中维生素A水平对不同鱼类的免疫力的影响不尽一致，但以非特异性免疫参数作为评定饲料中维生素A的需求量的指标，还是必要的。本研究发现，饲料中维生素A水平对大口黑鲈的非特异性免疫指标的影响具有一致性，说明适宜的维生素A水平对于维持其健康和抵御病害具有重要的意义。
+
+# 3.4影响饲料中维生素A需求量评定的因素
+
+需要指出的是，许多因素会影响到对鱼类饲料中维生素A适宜需求量的评定。其一，饲料中β-胡萝卜素的存在可使得对维生素A的需求量被低估。对尼罗罗非鱼[44]的研究表明，胡萝卜素可以转化为维生素 $\mathbf { A } _ { 1 }$ ，二羟基类胡萝卜素则可以转化为维生素 $\mathbf { A } _ { 2 }$ 。Hu等[38]对杂交罗非鱼的研究发现， ${ \mathfrak { \beta } } \qquad $ -胡萝卜素与维生素A的转化率约为19:1。其二，评价指标的选择会影响饲料中维生素A的适宜需求量的大小。通常用来评定维生素适宜需求量的指标包括缺乏症、生长性能、饲料效率、免疫力和肝脏中维生素A的含量等。评价指标的不同常常会导致维生素A的适宜需求量有所不同。张璐5研究表明，分别以增重率和肝脏维生素A含量为评价指标时，花鲈对饲料中维生素A的适宜需求量分别为1934.8和3 546.6IU/kg；Kitamura等[7研究显示，分别以未出现缺乏症和增重率为评价指标时，虹鳟对饲料中维生素A的适宜需求量分别为2 000和2 500IU/kg；Hu等[38]研究发现，分别以增重率和肝脏维生素A积累量为评价指标时，杂交条纹鲈对饲料中维生素A的适宜需求量分别为5850和6970IU/kg。其三，试验鱼的规格和养殖环境也会影响饲料中维生素A的适宜需求量。鱼类的生长阶段不同，对维生素
+
+A的需求量也不相同。幼鱼阶段对营养物质的需求量大，代谢强度大，从而生长速度快，相比成鱼阶段对维生素A的需求量要高[45]。仲维仁等[46]对鲈鱼（Lateclabrax japonicus）的研究表明，均重为28.4\~30.2g的一龄鲈鱼和均重为150.1\~156.6g的二龄鲈鱼对维生素A适宜需求量分别为4000\~7000 IU/kg和4000 IU/kg。在集约化高密度养殖环境下，鱼类会出现不同程度的应激状态，导致对维生素的需求量有一定程度的提高[47]；在集约化程度较低的半精养、粗养殖方式中，鱼类生长所需的维生素有一部分来自其他食物(如天然饵料生物、青饲料等)。本研究未对饲料中可能含有的 $\beta \cdot$ -胡萝卜素所产生的影响予以考察，这尚待进一步的研究。本研究以试验鱼的生长性能、饲料效率、肝脏维生素A含量和免疫力等作为综合评价指标，得出大口黑鲈对饲料中维生素A的适宜需求量为2 $: 6 0 0 \sim 3 ~ 5 5 0 ~ \mathrm { I U / k g }$ ，这一结论对目前大口黑鲈人工配合饲料的配制具有参考价值。
+
+4结论
+
+$\textcircled{1}$ 饲料的维生素A水平对大口黑鲈的生长性能、饲料效率、蛋白质效率、肝脏维生素A  
+含量和非特异性免疫力产生显著的影响。$\textcircled{2}$ 大口黑鲈对饲料中维生素A的适宜需求量为2600\~3 550 IU/kg。  
+参考文献：  
+[1] HALVER J E.The vitamins[M]//HALVER J E,ed.Fish nutrition.New York:AcademicPress,1972:29-103.  
+[2] OLSON J A.Needsand sourcesof carotenoidsand vitamin A[J].NutritionReviews,1994,52(2):S67-S73.  
+[3] HERNANDEZ L H H,TESHMA S,ISHIKAWA M,et al.Dietary vitamin A requirements ofjuvenile Japanese flounder Paralichthys olivaceus[J].Aquaculture Nutrition,2Oo5,11(1):3-9.  
+[4]MOHAMED J S,SIVARAM V,ROY T S C,et al.Dietary vitamin A requirement of juvenilegreasy grouper (Epinephelus tauvina)[J].Aquaculture,2003,219(1/2/3/4):693-701.  
+[5]张璐.鲈鱼和大黄鱼几种维生素的营养生理研究和蛋白源开发[D].博士学位论文.青岛:中国海洋大学,2006:53-55.  
+[6]HEMRE G I,DENG D F,WILSON R P,et al.Vitamin A metabolism and early biological
+
+responses in juvenile sunshine bass (Morone chrysops ×M.saxatilis) fed graded levels of vitamin A[J].Aquaculture,2004,235(1/2/3/4):645-658.
+
+[7]KITAMURA S,SUWA T,OHARA S,et al.Studies on vitamin requirements of rainbow troutIII :requirementforvitaminA anddeficiencysymptoms[J].NipponSuisan Gakkaishi,1967,33(12):1126-1131.   
+[8]SHIMENO S.Yellowtail,Seriola quinqueradiata[M]//WILSON R P,ed.Handbook of Nutrient Requirements of Finfish.Boca Raton,FL:CRC Press,1991:181-191.   
+[9]DEDI J,TAKEUCHI T,SEIKAI T,et al.Hypervitaminosis and safe levels of vitamin A for larval flounder Paralichthys olivaceus fed Artemia nauplii[J].Aquaculture,1995,133(2):135-146.   
+[10]ORNSRUD R,GRAFF I E,HOIE S,et al.Hypervitaminosis A in first-feeding fry of the Atlantic salmon (Salmo salar L.)[J].Aquaculture Nutrition,2002,8(1):7-13.   
+[11]TIDWEL J H,WEBSTER C D,COYLE S D.Effects of dietary protein level on second year growth and water quality for largemouth bass (Micropterus salmoides) raised in ponds[J].Aquaculture,1996,145(1/2/3/4):213-223.   
+[12]ANDERSON R J,KIENHOLZ E W,FLICKINGER S A.Protein requirements of smallmouth bass and largemouth bass[J].Journal of Nutrition,1981,111(6):750-764.   
+[13]BRIGHT L A,COYLE S D,TIDWELL J H.Effect of dietary lipid level and protein energy ratioongrowthandbodycompositionoflargemouthbass,Micropterus salmoides[J].Journal of the World Aquaculture Society,2005,36(1):129-134.   
+[14]COYLE S D,TIDWELL J H,WEBSTER C D.Response of largemouth bass,Micropterus salmoides to dietary supplementation of lysine,methionine,and highly unsaturated fatty acids[J].Journal of the World Aquaculture Society,20o0,31(1):89-95.   
+[15]DAIRIKI J K,DOS SANTOS DIAS C T,CYRINO JE P.Lysine requirements of largemouth bass,Micropterus salmoides:a comparison of methods of analysis of dose-response trials data[J].Journal of Applied Aquaculture,2007,19(4):1-27.   
+[16]苟仕潘,陈乃松,徐祥泰,等.饲料中可消化淀粉对大口黑鲈生长、体组成和非特异性免
+
+疫指标的影响[J].水产学报,2015,39(10):1499-1510.   
+[17]袁瑞敏.大口黑鲈饲料添加维生素C 对其生长及抗氧化能力的影响[D].硕士学位论文. 广州:中山大学,2013.   
+[18]周明.饲料中添加胆碱和卵磷脂对大口黑鲈生长,体组成和肝脏的影响[D].广州:中山大 学,2007.   
+[19] YAO Z,CHEN Y J,LIU Y J,et al.Effect of dietary selenium level on growth performance,body composition and hepatic glutathione peroxidase activitiesof largemouth bass,Micropterussalmoides[J].Aquaculture Research,2012,43(11):1660- 1668.   
+[20] CHEN N S,LIANG Q L,XIAO W W,et al.Effects of supplementing eaa to lower protein diets on groeth,body composition and immunological index of largemouth bass (Micropterus salmoides)[J].Acta Hydrobiologica Sinica,2014,38(2):262-271.   
+[21]LEE S M.Apparent digestibility coefficients of various feed ingredients for juvenile and grower rockfish (Sebastes schlegeli)[J].Aquaculture,2002,207(1/2):79-95.   
+[22]FOLCH J M S,LEES M M,STANLEY G H S.A simple method for the isolation and purification of total lipides from animal tissue[J].Journal of the Science of Food & Agriculture,1957,226(1):497-509.   
+[23]DIVAKARAN S,OBALDOS L G,FORDTER I P.Note on the methods for determination of chromicoxideinshrimpfeeds[J].JournalofAgriculturalandFood Chemistry,2002,50(3):464-467.   
+[24]RUSHING L G,COOPER W M,TOMPSON HC.Simultaneous analysis of vitamin A and E in rodent feed by high-pressure liquid chromatography[J].Journal of Agricultural and Food Chemistry,1991,39(2):296-299.   
+[25] SITJA-BOBADILLA,MINGARRO M,PUJALTEM J,et al.Immunologicaland pathological status of gilthead sea bream (Sparus aurata L.) under different long-term feding regimes[J].Aquaculture,2003,220(1/2/3/4):707-724.   
+[26] 陆永绥,杨昌国.双缩脲反应测定血清总蛋白方法的标准化[J].临床检验杂
+
+志,1990(2):98-101.
+
+[27]INGLISJ E,RADZIWONK A,MANIERO G D.The serum complement system:a simplified laboratory exercise to measure the activity of an important component of the immune system[J].Advances in Physiology Education,2008,32(4):317-321.
+
+[28] AI Q H,MAI K S,ZHANG L,et al.Effects of dietary beta-1,3 glucan on innate immune responseoflargeyellwcroaker,Pseudosciaenacrocea[J].Fish&Shelfish Immunol0gy,2007,22(4):394-402.   
+[29]BRADFORD M M.A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding[J].Analytical Biochemistry,1976,72(1/2):248-254.   
+[30]AMOLD JE.Hematology of the sandbar shark,Carcharhinus plumbeus:standardization of completebloodcounttechniquesforelasmobranchs[J].VeterinaryClinical Pathology,2005,34(2):115-123.   
+[31]SANDNES K,LIE O,WAAGBO R.Normal ranges of some blood chemistry parameters in adult farmed Atlantic salmon,Salmo salar[J].Journal of Fish Biology,1988,32(1):129-136.   
+[32] 高强.两种鲟鱼幼鱼维生素 A、C 和 E 营养需要研究[D].硕士学位论文.重庆:西南农业 大学,2005.   
+[33]HILTON J W.Hypervitaminosis A in rainbow trout (Salmo gairdneri):toxicity signs and maximum tolerable level[J].Journal of Nutrition,1983,113(9):1737-1745.   
+[34]DEDI J,TAKEUCHI T,HOSOYA K,et al.Effect of vitamin a levels in artemia nauplii on the caudal skeleton formation of japanese flounder Paralichthys olivaceus[J].Fisheries Science,1998,64(2):344-345.   
+[35] SALEH G,ERAKYW E,GROPP J M.A short note on the effects of vitamin A hypervitaminosis and hypovitaminosis on health and growth of Tilapia nilotica (Oreochromis niloticus)[J].Journal of Applied Ichthyology,2007,11(3/4):382-385.   
+[36]杨奇慧,周小秋.维生素 A 缺乏对建鲤生长性能及免疫功能的影响[J].中国水产科 学,2005,12(1):62-67.   
+[37]THOMPSON I,CHOUBERT G,HOULIHAN D F,et al.The effect of dietary vitamin A and astaxanthin on the immunocompetence of rainbow trout[J].Aquaculture,1995,133(2):91- 102.   
+[38]HU C J,CHEN S M,PAN C H,et al.Effects of dietary vitamin A or $\beta$ -carotene concentrationsongrowthofjuvenilehybridtilapia,Oreochromis niloticus ×O.aureus[J].Aquaculture,2006,253(1/2/3/4):602-607.   
+[39]HECTOR L,HENANDEZ H,TESHIMA S I,et al.Effects of dietary vitamin A on juvenile redseabream Chrysophrysmajor[J].Journal of theWorld Aquaculture Society,2005,35(4):436-444.   
+[40]MOREN M,OPSTAD I,BERNTSSEN M H G,et al.An optimum level of vitamin A supplementsforAtlantichalibut(Hippoglossushippoglossus L.) juveniles[J].Aquaculture,2004,235(1/2/3/4):587-599.   
+[41]周立斌,王安利,张伟,等.饲料维生素 A 对美国红鱼生长和免疫的影响[J].动物营养学 报,2008,20(4):482-488.   
+[42]朱文欢.两种规格草鱼对饲料中维生素 A 和钾需求量的研究[D].硕士学位论文.武汉:华 中农业大学,2014.   
+[43]THOMPSON 1,FLETCHER T C,HOULIHAN D F,et al.The effect of dietary vitamin A on the immunocompetence of Atlantic salmon (Salmo salar L.)[J].Fish Physiology and Biochemistry,1994,12(6):513-523.   
+[44]KAISUYAMA M,MATSUNO T.Carotenoid and vitamin A,and metabolism of carotenoids, $\beta$ carotene,canthaxanthin,astaxanthin,zeaxanthin,lutein and tunaxanthin in tilapia Tilapianilotica[J].ComparativeBiochemistryand PhysiologyPart B:Comparative Biochemistry,1988,90(1):131-139.   
+[45]彭士明.黑鲷(Acanthopagrus schlegeli)脂类与维生素 E的营养生理研究[D].博士学位论 文.上海:华东师范大学,2008.   
+[46]仲维仁,张淑华.鲈鱼不同生长阶段对维生素需求的研究[J].浙江海洋学院学报:自然科 学版,2001,20(S1):98-102.
+
+[47]吴剑波.幼建鲤维生素E缺乏症的研究[D].博士学位论文.成都:四川农业大学,2005.
+
+Dietary Vitamin A Requirement of Largemouth Bass (Micropterus salmoides) LIAN Xueyuan CHEN Naisong\*WANG Mengle YAN Chunwei DING Guitao (College of Fisheries and Life Sciences, Shanghai Ocean University, Shanghai 201306, China) Abstract: This trial was conducted to estimate the dietary requirement of vitamin A in largemouth bass (Micropterus salmoides). Five isonitrogenous (crude protein was $4 8 . 4 7 \%$ ）and isoenergetic (gross energy was $1 8 . 1 5 \mathrm { k J / g } \dot { }$ ） diets,containing 415,1 406,2 755,3 501 and $4 6 4 6 ~ \mathrm { I U / k g }$ vitamin A in diet, were formulated by adding vitamin A (as retinyl acetate) 0,1000,2000,3000 and 4000 $\mathrm { I U / k g }$ to a basal diet, respectively. Each diet was randomly assigned to triplicate tanks of 30 fish [initial body weight $( 5 2 . 7 5 { \scriptstyle \pm 0 . 1 2 } )$ g] for 49 d. The results showed that weight gain rate, specific growth rate, feed eficiency ratio and protein efficiency ratio occurred to a significant increasing tendency as dietary vitamin A level increased from 415 to $2 7 5 5 \mathrm { I U / k g }$ diet $( P { < } 0 . 0 5 )$ and tended to plateau in fish fed higher vitamin A levels.Liver vitamin A content, liver total superoxide dismutase activity, serum lysozyme activity, respiratory burst activity of head kidney leucocyte, serum complement activity and haemoglobin content were significantly increased with dietary vitamin A levels increasing from 415 to $3 ~ 5 0 1 ~ \mathrm { I U / k g }$ ，whilemalondialdehyde content in liver was significantly decreased $( P { < } 0 . 0 5 )$ ，and the above indexes were slightly changed in fish fed higher dietary vitamin A levels. No significant diferences in haematocrit and serum total protein content were found among groups $( P { > } 0 . 0 5 )$ . Based on broken-line regression analysis for weight gain rate and vitamin A content in liver against dietary vitamin A level, largemouth bass require 2 $6 0 0 \ \mathrm { I U / k g }$ vitamin A in diet for maximal weight gain, and $3 ~ 5 5 0 ~ \mathrm { I U / k g }$ vitamin A in diet for maximal vitamin A deposition in liver,respectively. Based on analysis of variance for best non-specific immune index, the optimum requirement for dietary vitamin A is similar to that for maximal vitamin A deposition in liver. It can be concluded from this study that the optimum dietary requirement of vitamin A for largemouth bass is 2 600 to $3 5 5 0 \mathrm { I U / k g }$
+
+Key words: largemouth bass (Micropterus salmoides); vitamin A requirement; growth

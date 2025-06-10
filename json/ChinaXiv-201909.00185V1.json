@@ -1,0 +1,587 @@
+[
+    {
+        "type": "text",
+        "text": "全天相机云图去噪算法的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高振斌1，李梦慈1，邱波1\\*，陈建军 $2 ^ { \\ast }$ ,曹子皇²，宋涛1(1．河北工业大学，天津 300401;2.中国科学院国家天文台，北京 100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：全天相机云图在天文观测领域具有重要价值，但云图所含噪声会造成不良影响。本文先后分析了星光噪声、月光噪声、日光噪声、雷电噪声、反光噪声和特殊噪声等，并总结出不同类型噪声的分布、区域大小等方面的特点，最后结合与云层的相对位置关系提出了边界阈值法、时间轴法、反比例线性变换等8种图像处理去噪算法，并形成一个完整的去噪系统。通过实验对不同的算法加以比较，得出不同噪声情况下的最佳去噪方案。实验结果表明，该系统可以有效去除常见噪声，基本保持云层和天空的信息完整性，可简单便捷实现云图去噪。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：全天相机云图；噪声分析；去噪算法；图像处理",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "云图的研究是天文学气象学等学科的研究热点。云的分布情况，云量大小和云的类型等均是研究大气分析和天气预报的重要因素，但噪声会对云图分析造成干扰。云图噪声分为引入噪声和固有噪声两类。引入噪声指云图在传输，转换和存储过程中引入的干扰信息，该噪声会影响云图的质量。固有噪声指云图本身所含噪声(如太阳、月亮等)，固有噪声会对云观测和云图分析造成干扰，使云图平均灰度值变化或将噪声部分误判为云层等，影响分析的准确性。因此，对云图进行去噪处理至关重要。目前，国内外针对云图引入噪声的研究较为广泛。除传统的高斯平滑[1]，9 点滤波算法[2]，中值滤波法[3]，自适应滤波框[4]等方法外，SoumyabrataDev[5]等人采用一些流行的机器学习去噪算法进行云图去噪，包括高斯混合模型(GMM)[]，过完备稀疏变换模型(OCTOBOS)[7]，K-SVD[8]，超完备 DCT 字典[9]。陈源[10]等人提出了一种基于 Tetrolet 变换和偏微分方程(PDE)、广义交叉验证(GCV)的云图去噪算法。这些改进算法使得去噪后的云图具有较高的峰值信噪比，并且图像边缘清晰，细节完整。总体而言，云图引入噪声去噪算法的研究较为成熟。故本文主要研究云图固有噪声的去噪算法，后文所提噪声均为云图固有噪声。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全天相机云图是通过全天空成像技术，通过全自动、全色彩天空成像系统，提供实时处理和显示24小时的天空状态。全天相机拍摄的云图是角度自下而上的、以天空为背景的云图[1]，换言之，全天相机云图是一种地基云图。这也就导致全天相机云图的固有噪声主要来自于天空中的因素。目前，常采用RGB三通道[12的方法进行云检测及太阳去除，但由于天空背景的不均匀性，RGB三通道法存在一定误差。R.Chauvin[13]等人通过生成晴空图的方法对 RGB 三通道法进行改进，较好除去太阳噪声。但该方法需结合云图每个像素的像素/天顶角（PZA）和像素/方位角（PAA)，对相机的校准要求较高，成本高且易产生误差。R.Romän[4等人提出了CPC（Camera Plus Ceilometer）算法，可检测太阳是否被云层遮挡，提高了云检测准确度，但该方法没有除去太阳噪声。J.Alonso[15]等人提出了结合辐射数据确定云图太阳位置的方法，但该方法需要结合辐射数据，不能直接处理云图。胡树贞[等人提出了亮温阈值分割法，但该方法只是削弱了太阳噪声的影响，并没有完全除去太阳噪声。魏诗雅[17等人提出了时间分割法和差分法除去月光噪声，但这两种方法仅能处理灰度值图像，无法保留云图的RGB信息。总体而言，国内外对云图固有噪声去噪算法的研究多为去除或削弱太阳和月亮噪声，而云图中还存在如雷电、冰晶等干扰项。并且，许多去噪算法需要结合辐射[15]、温度[1]等数据，较为繁琐，或对相机等设备有较高要求[14]，成本较高。本文通过图像处理技术，可实现多类型噪声去除工作，简单便捷，成本较低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的主要创新点有三：第一是在经过大量的人工阅图后将噪声进行合理分类，把云图固有噪声甄别为5种常见噪声和4种特殊噪声，并对应于不同的天空状态；第二是根据不同噪声的特点进行有针对性处理，总结出不同噪声的分布、区域大小等特点，然后结合噪声与云层相对位置等因素有针对性提出边界阈值法、时间轴法、反比例线性变换等8种去噪算法，从而基本实现各种天空状态下的云图去噪工作。第三是本文提出了一种交互式多类型噪声去除系统，可减少算法执行时间，并选取200张典型云图噪声数据进行实验分析。实验结果表明，该系统可以有效去除常见噪声，基本保持云层和天空信息完整性，简单便捷实现云图去噪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的数据来源是中国科学院国家天文台提供的LAMOST 的云图数据，共计有 2201张大小为 $2 5 9 2 ^ { * } 1 7 2 8$ 像素的彩色云图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1云图噪声分类及去噪算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将云图噪声分为星光噪声、月光噪声、日光噪声、雷电噪声、反光噪声和特殊噪声。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1星光噪声",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "星光噪声的灰度级跨度较大，像素点小，灰度值比天空高。因此可以认定星光是一种随机出现的白点，是夜空这一暗的区域中的白色像素。这一特征与椒盐噪声的特征相同。故可用中值滤波去噪算法。此外，根据全天相机连续拍摄的特性，可以采用的第二种去噪算法为时间轴法。在针对该类噪声的处理中，所有的彩色云图通过式(1-1)全部转为 256 级灰度图后再行处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { G r a y } = 0 . 2 9 9 * \\mathrm { R } + 0 . 5 8 7 * \\mathrm { G } + 0 . 1 1 4 * \\mathrm { B }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中Gray为像素点的灰度值，范围为0-255。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1中值滤波法：中值滤波法是去除单点无规律分布噪声的有效手段。该方法通过确定一个含奇数像素的滑动窗口，将窗口内的各像素灰度值排序，用其中值代替原灰度值成为窗口中心的灰度值，从而消除孤立的星光噪声点。它属于一种非线性的图像平滑技术。噪声区域的大小随着具体图片而定。通过实验发现噪声区域半径过小会导致滤除效果不好，过大则会导致云图其它细节受到影响的情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2时间轴法：由于云图数据是连续拍摄的视频帧，每帧之间间隔5分钟左右，由此我们发现30分钟内天空灰度值、星体数量、星光强度等的变化几乎可以忽略不计，故本文认为30 分钟内的云图所含天空信息不变。但由于地球自转和公转的影响以及星星的像素点较小的特性，使得30 分钟内云图中星体的位置略有偏差。全天相机的拍摄周期大约为5分钟一张云图，选用与待处理云图a时间差在30分钟内的一张云图作为背景图b，遍历所有像素点的灰度值，发现星光比背景天空的灰度值高，整体灰度值越高的图像，星光与天空的灰度值差越大。如果某一点的灰度值a(i,j)满足",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { a ( i , j ) > b ( i , j ) + I _ { \\mathrm { s t a r } } * | b _ { m } - a _ { m } | }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则令 $\\mathrm { a ( i , j ) { = } b ( i , j ) }$ ，式中 $\\mathsf { a } _ { \\mathrm { m } }$ 、 $\\mathsf { b } _ { \\mathrm { m } }$ 为原图a、背景图b灰度值平均值， $\\mathrm { I } _ { \\mathrm { s t a r } }$ 为观察全部数据集后选取的固定星光阈值，阈值偏大会导致噪声难以完全去除，阈值偏低会导致图像整体变暗。通过实验，本文发现 $\\mathrm { I } _ { \\mathrm { { s t a r } } }$ 选取0.2 去噪效果较好。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7413cb7067b9788aa525659316f644ecb1122ca86ed22fa530b211871a455be.jpg",
+        "img_caption": [
+            "图1(a)星光噪声原图(b)中值滤波结果图(c)时间轴背景图(d)时间轴结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(a)Originalimageofstarlight(b）Resultimagofmedanfirig(c)ackgroundimageoftieline(d）Resultimageofteline ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验证明，时间轴法在保留云层和天空信息完整性方面优于中值滤波。  \n中值滤波能完整去除星光噪声，更加简单便捷。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2月光噪声",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对云图数据的观察，在相邻的 2-3天内，每天临近同一时刻，月亮的所在位置几乎是相同的。根据月亮的这一特点，我们可以采用差分法去除月光噪声[17]。月光噪声的灰度值较高，因此可以采用边界阈值法；月光的亮度受云层厚度的影响，故还可采用反比例线性变换法。此外，由于云图数据的连续拍摄特点，月光噪声同样可以采用时间轴法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1差分法：差分法可用于检测运动目标。我们将待处理的云图称为原图；在数据库中筛选出不同日期但相同时刻的云图，称为背景图。为了避免混入其它噪声，形成不必要的干扰，背景图最好选择仅含月亮无云的图。将RGB的原图与背景图转化为灰度图，并进行图片相减，可以有效去除月光噪声[17]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2边界阈值法：月光灰度值极高，但直接将高灰度值置为0，不但会在图片上留下一个突兀的黑洞，还破坏了云层或天空信息。而且月光噪声通常会伴随着散射噪声出现。散射噪声是由于月光受天空中水蒸气等因素的影响，发生散射，在月光附近形成的面积较大亮度稍暗的光晕。因此仅将高灰度值部分置0难以完整除去月光及散射噪声，所以需要对月光部分进行补偿。通过研究月光边界的云层信息，发现边界点的灰度值与云图平均灰度值成正比。当像素点灰度值a(i,j)满足",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { a } ( \\mathrm { i } , \\mathrm { j } ) > \\left( \\mathsf { a } _ { \\mathrm { m } } + 2 5 5 \\right) * \\mathrm { I } _ { \\mathrm { m o o n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可判定该部分为月光，令 $\\mathrm { a ( i , j ) { = } b o u }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\mathsf { a } _ { \\mathrm { m } }$ 为云图灰度值平均值,bou为云图边界点的灰度值, $\\mathrm { I } _ { \\mathrm { m o o n } }$ 为观察全部数据集后选取的固定月光阈值。阈值 $\\mathrm { I } _ { \\mathrm { m o o n } }$ 过大将不能完全识别月光部分，过小会将部分天空或云层误判为月光。本文 $\\mathrm { I } _ { \\mathrm { m o o n } }$ 参考数值为0.68。将灰度值换成RGB三通道，重复上述过程，可得到RGB结果图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3反比例线性变换法：将RGB云图转换为灰度图后，我们发现云层较厚的部分月光较暗，云层较薄的部分月光较亮，而当月亮未被云层覆盖时，月光最亮，灰度值也最高。因此，我们可以得出结论：月光越亮的部分去噪后亮度变化越大。因为月光噪声的灰度值与云层厚度成反比，所以去噪后像素点的灰度值与原始灰度值成反比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathtt { P n } ( \\mathrm { i } , \\mathrm { j } ) = \\mathtt { C } - \\mathtt { P o } ( \\mathrm { i } , \\mathrm { j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathrm { P n } ( \\mathrm { i } , \\mathrm { j } )$ 为去噪后像素点的灰度值， $\\mathrm { P o ( i , j ) }$ 为原始像素点的灰度值，C为常数。为了保证云图在去除月光噪声后不突兀，月亮与天空的连接处平滑，要求连接处的像素点满足去噪前后灰度值相等的条件，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P n } = \\mathrm { P o } = ( \\mathrm { a } _ { \\mathrm { m } } + 2 5 5 ) * \\mathrm { ~ I } _ { \\mathrm { m o o n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中Pn为去噪后月亮与天空连接处像素点的灰度值，Po为连接处像素点原始灰度值， $\\mathsf { a } _ { \\mathrm { m } }$ 为云图灰度值平均值， $\\mathrm { I } _ { \\mathrm { m o o n } }$ 为观察后选取的固定阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式(1-5)代入(1-4)中，可得出常数C 的取值，从而可得处反比例线性变换法的公式",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P n } ( \\mathrm { i , j ) = 2 * ( a _ { m } + 2 5 5 ) * I _ { m o o n } - P o ( i , j ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "反比例线性变换法先遍历所有像素点，满足(1-3)的像素点确定为月光噪声，代入式(1-6)中,其余像素点不变。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0681781b4deccf8e101d979f63e1a8a6464ff13a276a4e36bfde6de713811573.jpg",
+        "img_caption": [
+            "图2(a)差分法原图(b)差分法背景图(c)差分法结果图(d)边界阈值原图(e)边界阈值结果图(RGB)(f)时间轴原图 $( \\mathrm { g ) }$ 时间轴结果图(RGB）(h)反比例线性变换原图 (i)反比例线性变换结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2(a)Originalimageof liferencemethod(b)Backgroundimageofdiferencemethod(c)Resultimageofdifferencemethod(d) Originalimageofboundarythreshold (e)Resultimageofboundarythreshold (RGB)(f)Originalimageof timeline(g)Resultageof timeline(RGB)(h)Originalimageofinverseproportionalineartransformation (i)Result imageofinverseproportionallinear ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "transformation ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "差分法的优点是可以基本除去月光噪声，去噪效果优于时间轴法和反比例线性变换法;缺点是会造成整体灰度值降低，破坏云层信息，且计算时需要无云的背景图，不能处理彩色图像。因此差分法适用于月亮未被云层覆盖的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "边界阈值法的优点是可以在不破坏云层的情况下完整去除月光噪声，保持天空信息和云层信息的完整性，还可以处理彩色图像；缺点是比较复杂。因此边界阈值法适用于月亮被云层覆盖的情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "时间轴法的优点是可以同时除去月光噪声和星光噪声，可以处理彩色图像；缺点是不能完整去除噪声，需要背景图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "反比例线性变换法的优点是方法最简单，无需背景图，月亮区域与天空连接平滑，不会使图像突兀，图像整体灰度值不变。反比例线性变化法去噪效果优于时间轴法，但不如差分法。该方法不能处理彩色图像。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这四种去噪算法各有利弊，在实际应用中，要根据研究所需、云图中的云层信息、云图",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据库大小等来选择合适的云图去噪算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3日光噪声",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "日光噪声的分布、位置、出现方式、云层对去噪算法的影响等特点与月光噪声非常相似。故可用月光去噪算法除去日光噪声。但日光噪声像素点更大，灰度值更高，很难完整除去日光噪声，针对这一特性提出一种新的去噪算法—一密集时间轴法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "密集时间轴法是在时间轴法的基础上改进的。由于日光像素点较大，可选择30 分钟内的5-6张云图来实现日光噪声的去除。将原图遍历像素点灰度值与其余背景图进行比较，当满足下式",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { a ( i , j ) } > \\left( \\mathrm { a _ { m } } + 2 5 5 \\right) * \\mathrm { I _ { \\mathrm { s u n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将背景图像素点灰度值赋给原图。式中 $\\mathrm { I } _ { \\mathrm { s u n } }$ 为观察全部数据集后选取的固定日光阈值，本文 $\\mathrm { I } _ { \\mathrm { { s u n } } }$ 参考数值为0.68。也可以将灰度值换成RGB 通道值进行彩图去噪。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "密集时间轴法的优点是能基本去除噪声，可以处理彩色图像。缺点是需要多张背景图，比较复杂繁琐，图像连接处不光滑。该方法适合处理太阳未被云层覆盖的情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a014fe59e157e143168aa0791c0fc9edfc81df92ee346bf3b4c0f8864c36f5.jpg",
+        "img_caption": [
+            "图3 (a)密集时间轴原图 (b)密集时间轴结果图(RGB)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4雷电噪声",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "雷电噪声通常出现在云层下方，因此，不存在被云层覆盖的情况。雷电噪声呈树权状，整体细长，根部粗，枝叶部分细。利用这一特性，可以采用形态学开运算法来消除雷电噪声。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "形态学开运算是图像处理的一种常用方法，原理是先进行形态学腐蚀再进行形态学膨胀即先消除图片中的细小高亮的目标物，再填补消除物体造成的空洞并平滑边界，同时保持图像大小不变。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b12055ca8dbd47745c45528ed76d3b7193d64049f058dc3c43a6dbac86642d6.jpg",
+        "img_caption": [
+            "Fig.3 (a) Original image of dense timeline (b) Result image of dense timeline(RGB) ",
+            "图4 (a)原图 (b)结果图(RGB) Fig.4 (a) Original image (b) Result image(RGB) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "形态学开运算可以基本除去雷电噪声，保持云层和天空信息完整性，雷电与天空的连接处比较平滑，是一种比较理想的雷电去噪算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5反光噪声",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "反光噪声是由于日光或月光照射在镜头上镜头反光造成的一种噪声。所以反光噪声通常伴随日光或月光出现。与散射噪声不同，反光噪声不出现在太阳或月亮周围,其分布不规律。反光通常带有颜色，故可用RGB通道法去噪；此外，反光部分的灰度值比背景天空高，还可用边界阈值法去噪。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5.1RGB 通道法：RGB 指的是彩色图像的红绿蓝三种不同的通道，反光区域的RGB 三通道值大小不同，而其余部分的RGB三通道值相差无几。将云图的三通道分离，求出每个通道的平均值。用最高的通道减去最低的通道即可得到反光部分。随后利用图片减法，让原图减去反光部分乘权值系数，可以除去反光噪声。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5.2边界阈值法：反光的灰度值比背景天空高，但与部分云层灰度值接近。为保持云层信息完整，需要对边界阈值法进行改进。由于反光噪声的像素点较小，在进行云图处理时可以人为标记反光噪声部分，仅用边界阈值法处理标记部分。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b1499165cd3ad86fc1a5fba2785b30865644157a2ed242fc4210b972bdc0f8b.jpg",
+        "img_caption": [
+            "图5 (a)原图(含标记） (b)RGB通道法结果图 (c)边界阈值法结果图(RGB)"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 (a)Original image(with label) (b)Result image ofRGB aisle (c)Result image of boundary threshold(R ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RGB 通道法的优点是算法简单，可以基本除去反光噪声，当权值系数较大时还可以除去部分散射噪声。缺点时只适用于整体灰度值比较低的情况，权值系数很难确定为最佳值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "边界阈值法的优点是能完整除去反光噪声，不破坏天空云层信息，适用于各种云图。缺点是非常繁琐，需要进行标记。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.6 特殊噪声",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全天相机云图中包含许多特殊噪声，本文主要介绍其中的四种，包括积雪噪声、白光噪声、雨水噪声和冰晶噪声。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于积雪、白光、雨水和覆盖整个镜头的冰晶会完全破坏云层和天空信息，故将其作为废弃云图，不进行处理。本文仅讨论冰晶噪声较小的情况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于冰晶噪声的饱和度较高，灰度值与天空部分相差无几。可以将饱和度和边界阈值法结合起来去除冰晶噪声。首先定义饱和度阈值 $\\mathbf { S } _ { \\mathrm { i c e } }$ ，再结合边界阈值法，当像素点的灰度值大于阈值 $\\mathbf { I } _ { \\mathrm { i c e } }$ 且饱和度大于饱和度阈值 $\\mathbf { S } _ { \\mathrm { i c e } }$ 时，判定其为冰晶噪声。本文 $\\mathbf { I } _ { \\mathrm { i c e } }$ 参考数值为150,$\\mathbf { S } _ { \\mathrm { i c e } }$ 参考数值为80。将冰晶噪声的像素点灰度值用噪声与天空或云层的边界点灰度值替代，可以去除噪声。但云的饱和度与冰晶噪声类似，该方法会破坏云层信息，故在进行云图处理时可以标记冰晶噪声部分，仅对标记处进行去噪处理。可以将灰度值换成RGB三通道，重复上述过程，得到RGB结果图。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饱和度结合边界阈值法可以基本除去冰晶噪声，但连接处有灰度值的跳变，连接不平滑使图像突兀。而且该方法繁琐，需要获取连接处灰度值信息和进行标记。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f15737a14625a80c3969067c0d86dfadf2a8ef435728a8406e5795978443aad0.jpg",
+        "img_caption": [
+            "图6 (a)积雪 (b)白光 (c)雨水 (d)冰晶(大）(e)冰晶(小)原图 (f)结果图(RGB) Fig.6(a) snow (b) white light (c)rain (d)ice (large)(f)Original image of ice (small) (g) Result image (RGB) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表1噪声种类及其特点",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Types of noise and their characteristics ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5236b820fafa0128c6e379901b8faee4192f328ded39f6f5803d2e403a9c5ff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>噪声种类</td><td>分布</td><td>区域大小</td><td>其它</td></tr><tr><td>星光噪声</td><td>无规律</td><td>极小</td><td>类似椒盐噪声</td></tr><tr><td>月光噪声</td><td>靠近镜头边缘，位置随时间</td><td>较大</td><td>伴随散射噪声，分为有无云</td></tr><tr><td>日光噪声</td><td>移动 靠近镜头边缘，位置随时间</td><td>比月光噪声大</td><td>层遮挡两种情况 伴随散射噪声，分为有无云</td></tr><tr><td>雷电噪声</td><td>移动 云层下方</td><td>不定</td><td>层遮挡两种情况 呈树权形，根部粗，枝叶较</td></tr><tr><td>反光噪声</td><td>距太阳、月亮有一定距离</td><td>较小</td><td>细 伴随日光、月光出现，呈彩</td></tr><tr><td></td><td></td><td></td><td>色</td></tr><tr><td>积雪噪声 白光噪声</td><td>覆盖整个镜头</td><td>全部</td><td>不能得到云层和天空信息</td></tr><tr><td>雨水噪声</td><td>覆盖整个镜头</td><td>全部</td><td>不能得到云层和天空信息</td></tr><tr><td>冰晶噪声</td><td>覆盖整个镜头</td><td>全部</td><td>不能得到云层和天空信息</td></tr><tr><td></td><td>不定，本文重点讨论冰晶噪 声较小，仅覆盖云图一小部</td><td>不定</td><td>饱和度比背景天空高</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2不同噪声去噪算法总结",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d128c29f16f3193f590541915a03afe820fa494f138c00fc68b8d9a35e861c9.jpg",
+        "table_caption": [
+            "Table 2 Summary of different noise denoising algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>噪声种类</td><td>去噪算法</td><td>说明</td></tr><tr><td>星光噪声</td><td>中值滤波法</td><td>完整去除星光噪声，简单便捷。</td></tr><tr><td rowspan=\"3\">月光噪声</td><td>时间轴法</td><td>需要背景图，更好保留天空云层信息完 整</td></tr><tr><td>差分法</td><td>需要背景图，适合月亮未被云层覆盖情</td></tr><tr><td></td><td>况</td></tr><tr><td rowspan=\"6\">日光噪声</td><td>边界阈值法</td><td>适合月亮被云层覆盖情况</td></tr><tr><td>时间轴法</td><td>需要背景图，同时除去星光月光噪声</td></tr><tr><td>反比例线性变换法</td><td>简单便捷，连接平滑</td></tr><tr><td>差分法</td><td>同月光噪声</td></tr><tr><td>边界阈值法</td><td>同月光噪声</td></tr><tr><td>时间轴法</td><td>同月光噪声</td></tr><tr><td></td><td>反比例线性变换法</td><td>同月光噪声</td></tr><tr><td></td><td>密集时间轴法</td><td>需要多张背景图，基本去除日光噪声</td></tr><tr><td>雷电噪声</td><td>形态学开运算</td><td>基本去除噪声</td></tr><tr><td>反光噪声</td><td>RGB通道法</td><td>适用于整体灰度值低的云图，简单便捷</td></tr><tr><td>冰晶噪声</td><td>边界阈值法 边界阈值法</td><td>需要标记噪声区域</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 交互式多类型噪声去除系统",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "云图去噪的算法较多，需要根据实际情况选择不同的去噪算法，才能获得最佳去噪结果。但这样需要的执行时间较长，而且部分算法需要一张甚至多张背景图和噪声标记，比较复杂繁琐。为克服以上缺点，本文将不同噪声的去噪算法进行整合，提出一种交互式多类型噪声去除系统，可以实现大量云图的去噪工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过对不同噪声特点的研究，我们发现日光和月光的灰度值较高，易于与背景天空区分开。而其余噪声的灰度值不具备明显特征，难以同云层及天空区分。因此，只能判断云图中是否含有日光、月光，很难自动判别出星光、雷电和反光噪声。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "故本文采用半自动的交互式系统设计，通过人工交互来判断是否含某类噪声然后让系统进行相应的自动去噪处理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在这个综合系统中，实际选择了中值滤波法进行星光噪声去噪，选择反比例线性变换法进行月光噪声和日光噪声去噪，选择形态学开运算进行雷电噪声去噪，选择RGB通道法进行反光噪声去噪，系统流程图如图7所示。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f943a75d8c7d6a344c43546ad37755c9536d2a7b311acb29a2fe4dcafe68a196.jpg",
+        "img_caption": [
+            "图7系统流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于部分云图不含噪声，并且通过观察，发现时间间隔较短的云图中噪声种类、位置、大小等信息相似，为更好的说明该系统的去噪效果，本文对原始数据进行了筛选。选出 200张具有典型噪声的云图，通过交互式多类型噪声去除系统的处理，采用图像质量主观评价法，请 20 位观察者对去噪图像进行评价，取平均值作为图像去噪效果的结果，如表3所示。其中指标“去噪完整性”，定义去噪后图中无明显噪声的云图为优，去噪后残余较少噪声的云图为良，其余为差。指标“云层天空信息完整性”，定义去噪后基本保持云层天空信息完整的云图为优，去噪后较少云层或天空信息被破坏的云图为良，其余为差。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/38f9d138f6dbcee49c61d19b82721961596ef6c19020cafab584bb2b40670e76.jpg",
+        "table_caption": [
+            "表3交互式多类型噪声去除系统去噪效果",
+            "Table 3 Denoising effect of interactive multi-type noise removal system "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>去噪效果/张</td><td>去噪完整性</td><td>云层天空信息完整性</td></tr><tr><td>优</td><td>115</td><td>141</td></tr><tr><td>良</td><td>74</td><td>19</td></tr><tr><td>差</td><td>11</td><td>20</td></tr><tr><td>总数</td><td>200</td><td>200</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过对实验结果的“去噪完整性”、“云层天空信息完整性”两个方面进行分析。我们发现，通过去噪系统的云图多数可以基本除去噪声；去噪效果不好的情况中，部分是因为存在特殊噪声，其余均为反光噪声难以完全去除。这说明目前的反光噪声去除方法还有待改善，在今后的研究中应将如何除去反光噪声作为一个重点。同时，该算法可以基本保持云层和天空信息的完整性。实验中有20张效果较差的云图，通过观察分析发现均为将云层误识别为反光噪声，因此如何有效区分反光噪声与云层仍需进一步探索。若要更加有效去除噪声，应该结合实际情况选择更适合的去噪算法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "该系统的缺点是不能自动判别噪声，在接下来的工作中，可以考虑利用图像分类技术，比如 CNN[18]，进行云图特征值提取，通过距离分析、聚类，实现噪声自动分类。为提高分类准确性，可用生成对抗网络(GAN)[19]生成与原始数据有相同分布的样本，增大训练集,对系统进行预处理。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文经过大量的人工研读，将全天相机云图的固有噪声进行了分类，共分为星光噪声、月光噪声、日光噪声、雷电噪声、反光噪声和特殊噪声，并分别对其进行了分析，总结出不同噪声的分布、区域大小和其它特征；然后根据这些噪声的特性并结合云图中云的位置、天空信息等情况，有针对性地提出了8种对应的去噪算法，能较好地实现各种情况下不同噪声的去除。同时，为了减少执行时间，快速实现大量云图的去噪，本文设计了一种交互式多类型噪声去除系统，并在实验中选用了200张典型云图进行了处理。该系统的缺陷是不能自动判别噪声类型，在接下来的研究中需要考虑利用图像分类技术实现噪声自动分类；而且系统除去反光噪声的部分不是十分理想，需要进一步研究能够有效区分反光和云层的方法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]戴李杰,张长江,薛利成,等.红外卫星云图和相关向量机的有眼热带气旋客观定强模型[J].遥感学报,2018,v.22(4):51-60. DaiLijie,ZhangChangjiang,XueLicheng,etal.ObjectiveSteady-DensityModelofEyed Tropical Cyclones BasedonInfrared Satelite Cloud Image and Correlation Vector Machine[J].Journal of Remote Sensing,2O18,v.22(4):51-60.   \n[2]洪毅,李玉柱,陈智源,等.FY-2卫星数字云图的细网格定量处理[J].浙江气象,2008,29(1):3-6. HongYi,Liuzu,Chen Zhiuan,etal.FinemeshquantiativeprocessingofFY-2satelitedigitalcoudimage[J].Joualof ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zhejiang Meteorology,2008,29(1):3-6. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3]张长江.红外台风云图分割的模糊技术[C]第 26届中国气象学会年会热带气旋科学研讨会分会场论文集.2009. ZhangChangjiang.Fuzzytechnologyof infraredtyphooncloud imagesegmentation[C//Proceedingsofthe26th Sesionof the Chinese Meteorological Society Annual Conference on Tropical Cyclone Science.2009.   \n[4] 刘磊,高太长,孙学金,等.地基全天空红外图像云分类研究[C]/“推进气象科技创新，提高防灾减灾和应对气候变化能 力”——江苏省气象学会第七届学术交流会论文集.2011. Liu Hei,Gao Taichang,Sun Xuejin,etal.Researchoncloudclasificationof ground-based infrared imageC/“Promoting Meteorological Scienceand Technology Innovation,Improving Disaster Preventionand MitigationandResponding toClimate Change\"—Proceedings of the7th Academic Exchange Conferenceof Jiangsu Meteorological Society.2011.   \n[5]DevS,WenB,LeeYH,etal.Ground-BasedImageAnalysis:ATutorialonMachine-LearngTechniquesandAplicatios[J]. IEEE Geoscience and Remote Sensing Magazine,2016,4(2):79-93.   \n[6]ZoranD,WeissY.FromLearningModelsofNaturalImagePatches toWholeImageRestoration[Cy/IEEEInternationalConference on Computer Vision,ICCV2011,Barcelona,Spain,November6-13,2011.IEE,2011.   \n[7]WenB,Ravishankar S,BreslerY.StructuredOvercomplete Sparsifying TransformLearning with Convergence Guaranteesand Applications[J]. Intermational Journal ofComputer Vision,2015,114(2-3):137-167.   \n[8]EladM,AharonM.Image Denoising ViaSparseandRedundantRepresentationsOverLearedDictionaries[J].IEEETransactions on Image Processing,206,15(12):3736-3745.   \n[9]杨俊,谢勤岚.基于 DCT过完备字典和 MOD 算法的图像去噪方法[J].计算机与数字工程,2012,40(5):100-103. YangJun,XieQinlan.Imagedenoising methodbasedonDCTovercomplete dictionaryandMODalgorithm[J].Computer& Digital engineering,2012,40(5):100-103.   \n[10] 陈源.基于多尺度几何分析的卫星云图融合方法及对台风中心定位的影响[D].浙江师范大学,2014. Chen Yuan.Satelie Cloud ImageFusion Method Basedon Multiscale Geometric Analysisand Its Influenceon Typhoon Center Positioning[D].Zhejiang Normal University,2014.   \n[11]彭焕文,辛玉新,和寿圣,等.丽江天文观测站全天相机介绍[J].天文研究与技术,2015,12(1):89-95. Peng Huanwen,Xin,Yuxin,He Shousheng,etal.An Introduction totheAll-SkyCameraattheYNAOLijiangAstronomical Station[J].Astronomical Research & Technology,2015,12(1):89-95.   \n[12]Long CN,SabburgJM,Calb6,J,etal.Retrieving Cloud Characteristics from Goud-BasedDaytimeColor Al-SkyIages[J]. Journal of Atmospheric and Oceanic Technology,2006,23(5): 633-652.   \n[13]ChauvinR,NouJ,ilS,tal.CloudDetectionMethodologyBasedonaSky-imagingSystem[J].EergyProcedia215,69: 1970-1980.   \n[14]Roman,R,CazorlaA,Toledano C,etal.Cloud coverdetectioncombining high dynamicrangeskyimagesandceilometer measurements[J].Atmospheric Research,2017,196:224-236.   \n[15]AlonsoJatlesFJ,VilaroelC,etal.DeterintionoftheunareainskyamraimagesusingadometricdataJ]Eergy Conversionand Management,2014,78:24-31.   \n[16]胡树贞,马舒庆,陶法,etal.基于红外实时阈值的全天空云量观测[J]．应用气象学报,2013,24(2):179-188. HuShuzhen,MaShuqing,Taofa,etal.Fullskycloudobservationbasedoninfraredreal-timethreshold[J].JournalofApplied Meteorological Science,2013,24(2):179-188.   \n[17]魏诗雅,邱波,曹子皇,等.一种全天相机云图的自动处理方法[J].天文研究与技术,2019,16(01):85-92. WeiShiya,QiuBo,CaoZuang,etal.Automaticprocesingmetodforalldaycameracloudimage[J].AstronomicalReearch& Technology,2019,16(01):85-92.   \n[18]Wang J,YangY,MaoJ,etal.CNN-RNN:A UnifiedFramework forMulti-abel ImageClasification[C]/ ComputerVision& Pattern Recognition.2016.   \n[19] Nghiem,Phan,Phan N.Generative Adversarial Networks[J].高技术通讯:英文版,2019(1):35-41. Nghiem,Phan,Phan N. Generative Adversarial Networks[J].High Technology Letters,2O19(1):35-41. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Research on denoising algorithm for camera image of all-day camera ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Gao Zhenbin1,Li Mengci1,Qiu Bo1\\*, Cao Zihuang², Song Tao1 (1.Hebei University of Technology, Tianjin,3O0401; ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.National Astronomical Observatory,Chinese Academy of Sciences，Beijing，100049) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The all-day camera cloud image has important value in the field of astronomical observation, but the noise contained in the cloud image will have an adverse effect. The objective of this paper is to perform cloud image denoising processing.This paper has analyzed starlight noise,moonlight noise,daylight noise,lightning noise,reflective noise and special noise. And summarize the characteristics of different types of noise distribution,region size and so on.Finally, eight kinds of image processing denoising algorithms such as boundary threshold method, time axis method and inverse proportional linear transformation are proposed based on the relative position relationship with the cloud layer. And combine them to form a complete denoising system. Through experiments,different algorithms are compared to obtain the best denoising scheme under different noise conditions. According to the experimental results,we can draw conclusions that the system can effectively remove common noise, basically maintain the information integrity of the cloud layer and the sky,and can easily and easily realize the cloud image denoising. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words: All-day camera cloud image; noise analysis; denoising algorithm； image processing ",
+        "page_idx": 10
+    }
+]

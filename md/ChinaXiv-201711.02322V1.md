@@ -1,0 +1,122 @@
+# Tracking in dense environments and its inefficiency measurement using pixel dE/dx
+
+# Jason D.Mansouron behalfof the ATLAS collaboration
+
+InstituteofHigh EnergyPhysics,ChineseAcademy ofSciences,Beijing,China
+
+E-mail: jmansour@cern.ch
+
+ABSTRAcT: We present a measurement of the charged particle reconstruction inefficiency inside of jet cores,using data collected by the ATLAS experiment in 2015 of $p p$ collisions produced at the LHC,at a center-of-mass energy of $1 3 \mathrm { T e V } .$ The determination of this inefficiency is important for jet energy scale and mass calibration,as well as multiple other performance studies and analyses. A data driven method is used, where the fraction of lost particle tracks is determined from energy deposition $d E / d x$ in the pixel detector. The fraction of lost tracks is found to be less than $5 \%$ ， which is an improvement since the previous study,and agrees well within systematic uncertainties with a Monte Carlo simulation.
+
+KEYWoRDs: Particle tracking detectors (Solid-state detectors),Performance of High Energy Physics Detectors
+
+# Contents
+
+1Introduction 1
+
+2Samples 2
+
+3Object Selection 2
+
+4Template Fit Method 3
+
+5Systematic Uncertainties 5
+
+6Conclusions 5
+
+# 1Introduction
+
+The performance of charged particle track reconstruction in dense environments, such as the core of high $p _ { T }$ jets,is important for many analyses and performance studies. Examples include $b$ tagging and boosted $\tau$ reconstruction, jet energy scale and mass determination, and analyses using jet substructure information. The leading source of systematic uncertainty is in many cases the uncertainty on track reconstruction efficiency. Thus,it is necessary to maintain a high tracking effciency also inside of jets,and to determine the (in-)eficiency precisely.
+
+Tracks are reconstructed from hit clusters in the inner detector. Clusters shared between multiple tracks are penalized during reconstruction, to ensure high quality tracks,as one of the tracks in this case is likely to be fake. However, in dense environments this is a disadvantage,since clusters from close-by tracks can naturally merge.To account for this,an artificial neural network is trained to identify and not penalize such merged clusters [1,2]. This greatly increases the percentage of correct associations of clusters to tracks at small track separations,and improves $b$ -tagging and $\tau$ reconstruction performance. To determine the remaining ineficiency of tracking in dense environments,a data driven method is applied,where the fraction of lost tracks is determined from the energy deposition $d E / d x$ in the pixel detector (section 4).
+
+The ATLAS [3] pixel detector is part of the inner detector system,together with the semiconductor tracker (SCT) and the transition radiation tracker (TRT). The pixel detector is built in a barrel and disc geometry, and has a pseudorapidity coveragel of $| \eta | < 2 . 5$ . It is built mostly from planar silicon pixel modules. The insertable B-Layer (IBL), which was added after a long shutdown (2013-2O15),includes planar and 3D sensors [4]. There are four barrels,including the IBL, situated at $r = 3 3 . 2$ , 50.5, 88.5 and $1 2 2 . 5 ~ \mathrm { m m }$ . The forward region is instrumented with three disk pairs at $z = \pm 4 9 5$ ,580 and $6 5 0 \ \mathrm { m m }$ . Sensor pixels are typically $5 0 ~ { \mu \mathrm { m } }$ in transverse direction and $4 0 0 ~ { \mu \mathrm { m } }$ in longitudinal direction,whereas pixels of the IBL are only $2 5 0 ~ { \mu \mathrm { m } }$ longitudinally.
+
+A measure of energy deposition $d E / d x$ is given by the pixel detector time-over-threshold (ToT). This is the time that a pulse,caused by a particle,spends over a given threshold,and is approximately proportional to the collected charge. In particle reconstruction, pixels are grouped by a clustering algorithm into clusters. The $d E / d x$ value of a cluster is determined by the total collected charge.
+
+Since the magnetic field of the detector bends particle trajectories apart as they move out of the detector, nearby clusters are more likely to merge closer to the interaction point. However, the IBL only encodes ToT information in 4 bits,whereas the next layer, the B-layer,uses 8 bits and provides a better ToT resolution. For that reason, in the following the $d E / d x$ information from clusters in the B-Layer will be used.
+
+# 2Samples
+
+For this analysis, data samples recorded by the ATLAS detector in 2015 (Run II) of proton-proton collisions produced by the LHC at $\sqrt { s } = 1 3 \mathrm { T e V }$ were used, corresponding to an integrated luminosity of $2 . 8 ~ \mathrm { f b } ^ { - 1 }$ . Events were selected passing single jet triggers, with a minimal jet $p _ { T }$ threshold of $1 0 0 \mathrm { G e V . }$ The triggers were subject to a prescaling depending on the instantaneous luminosity and the energy of the jet triggered on. This suppresses low $p _ { T }$ jets，while keeping all events including a jet with at least $p _ { T } > 1$ TeV, leading to a more uniform transverse momentum spectrum. Events were required to pass standard data quality requirements,and contain at least one reconstructed primary vertex, associated to at least three tracks.
+
+Data is compared with a Monte Carlo simulation, generated by PYTHIA 8.186 [5]. Generator parameters were set according to the A14 tune for parton showering and hadronization, and parton distribution functions (PDF） were taken from NNPDF23LO [6].For comparison, samples were also generated using $\mathrm { H } _ { \mathrm { E R W I G } + + } \ 2 . 7 . 1$ [7] with the UEEE5 tune and the CTEQ6L1 PDF set [9], as well as SHERPA 2.1 [8] using CT1O PDFs [1O]. Events are digitized using a GEANT4 based simulation of the ATLAS detector,and then reconstructed using the same reconstruction algorithms as used for data. Monte Carlo events are finally reweighted to match the number of events triggered on in data.
+
+# 3Object Selection
+
+Jets used were seeded from topological clusters [11] and reconstructed by the anti- ${ \bf \nabla } \cdot { \bf k } _ { T }$ algorithm [12] with a cone radius of $R = 0 . 4$ . They were required to have a transverse momentum of $p _ { T } ^ { \mathrm { j e t } } \geq$ $2 0 0 \ { \mathrm { G e V } }$ and lie in the region of $| \eta ^ { \mathrm { j e t } } | < 2 . 5$ . Jets have been calibrated to the hadronic jet energy scale using a calibration derived from Monte Carlo [13]. It has been shown previously that simulated jet properties agree well with data [14].
+
+Tracks are reconstructed using an iterative algorithm. They are seeded using combined measurements from the silicon detectors,and reconstructed using a combinatorial Kalman filter together with a stringent ambiguity solver [15,16]. The following cuts are applied to tracks:
+
+![](images/652cf9b8830f0db4ac3bfd009888c38d2c2fd3250d39c28355ea4783aa1435fb.jpg)  
+Figure 1.Definition of template and data distributions.This and allfurther figures taken from [17]
+
+$\begin{array} { l } { { \bullet \ { p _ { T } ^ { \mathrm { t r k } } } > 1 0 \mathrm { G e V } } } \\ { { \bullet \ | { \eta ^ { \mathrm { t r k } } } | < 1 . 2 } } \end{array}$ （20   
+： $| d _ { 0 } ^ { \mathrm { B L } } | < 1 . 5 \ \mathrm { m m }$ ， where $d _ { 0 } ^ { \mathrm { B L } }$ is the transverse impact parameter w.r.t. the beamline position ： $| z _ { 0 } ^ { \mathrm { B L } } \sin \theta | < 1 . 5 ~ \mathrm { m m }$ ， where $z _ { 0 } ^ { \mathrm { B L } }$ is the distance in $z$ direction between the track's pointof closest approach and the primary vertex, and $\theta$ is the polar angle of the track at this point · Number of SCT hits $\geq 6$   
+· Number of pixel holes $^ 2 \leq 1$
+
+# 4Template Fit Method
+
+The goal of this method is to determine the fraction of tracks lost due to merged clusters in jet cores. The energy deposition $d E / d x$ of pixel clusters follows a Landau distribution [18],assuming the material is suffciently thin and only single particles hit the clusters.The peak of the distribution is around the minimally ionizing particle (MIP) energy. In the case where two particles contribute to the same cluster, a second peak at $2 \times$ the MIP energy is visible. A third weaker peak can appear for three particles hitting the same cluster.
+
+When a cluster is assigned to only one reconstructed track (not multiply used), two situations are possible: The cluster was indeed hit by only one particle, or it was hit by one reconstructed particle,and another missed one.It is impossble to distinguish both situations on a per-cluster basis,but one can determine statistically how often each situation occurs,by comparing the two peaks in the $d E / d x$ distribution. From this,the probability that a track is lost due to merging can be computed.
+
+To determine the individual contributions of both cases,a template fit is used. The data to be fitted is the $d E / d x$ distribution of not multiply used clusters, in the core of jets (angular separation3
+
+![](images/1b539844ca0f1e1920679afd8871838c3d7a9ec0a604640991df56df43215771.jpg)  
+Figure 2. Left: Single and multiple track templates,derived from data. Right: Energy loss $d E / d x$ distribution from pixel clusters in jet cores,to be fit with the templates. From [17].   
+Figure 3. Result of the template fit for data, for values of jet $p _ { T } = 2 0 0 { - } 4 0 0$ GeV (left) and $p _ { T } = 1 0 0 0 -$ $1 2 0 0 \mathrm { G e V }$ (right). From [17].
+
+teita 90000 1 ATLAS Preliminary eina 1000 ATLAS Preliminary   
+80000 Ldt=2.8fb,s=1V 800 L dt =2.8 fb,s= 13 TeV   
+70000 200 GeV<p<400 GeV 1000 GeV<p<1200 GeV   
+60000 1 Flost = 0.011±0.001 (stat) 600 Flost=0.033±0.006 (stat)   
+50000   
+4000 · Data 2015 400 · Data 2015   
+30000 .. Single-Track Contribution 1 - Single-Track Contribution 1   
+20000 -- Multiple-Track Contribution- 200 -- Multiple-Track Contribution_ 三 1   
+10000 H 上   
+Ttettla 1.2 Tieatla 1.2 118 +++++++ 218 + 0.8 1 0.8 4 0 0.5 1 1.5 2 2.5 3 3.5 4 0 0.5 1 1.5 2 2.5 3 3.5 4 dE/dx [MeV g1 cm²] dE/dx [MeV g1 cm²]
+
+between center of jet and track $\Delta R ( \mathrm { t r k , j e t } ) < 0 . 0 5 )$ . To get a sample that is enriched in clusters hit by single tracks (single-track template),a selection outside of the jet core $( \Delta R ( \mathrm { t r k , j e t } ) > 0 . 1 )$ is applied. An enriched multiple-track template is obtained by staying in the jet core,but using multiply-used clusters instead (that is, clusters that have multiple confirmed reconstructed tracks). The selection is summarized in figure 1. Data is separated into seven $p _ { T } ^ { \mathrm { j e t } }$ bins ranging from 200- $1 6 0 0 \ { \mathrm { G e V } } .$ Since at high $p _ { T } ^ { \mathrm { j e t } }$ the available statistics is low, the templates taken at $p _ { T } ^ { \mathrm { j e t } } = 2 0 0 -$ $4 0 0 \ \mathrm { G e V }$ are used to fit all distributions in data. The single- and multiple-track templates,and a data distribution can be seen in figure 2. To minimize the influence of clusters which were hit by three tracks,the fit was performed in a reduced region of $0 . 8 { - } 3 . 2 ~ \mathrm { M e V } \ : \mathrm { g } ^ { - 1 } \mathrm { c m } ^ { 2 }$ for MC,and $0 . 6 7 { - } 3 . 0 7 ~ \mathrm { M e V } \ : \mathrm { g } ^ { - 1 } \ : \mathrm { c m } ^ { 2 }$ for data. The regions were chosen such that the fraction of all clusters they contain is the same in data as in MC.
+
+The fraction of lost tracks $F _ { \mathrm { l o s s } }$ is given directly by the fit fraction of the multiple-track template. The fit result for data can be seen in figure 3 for two different $p _ { T }$ bins. Similar plots for Monte Carlo simulation are shown in [17]. The fraction of lost tracks depending on $p _ { T } ^ { \mathrm { j e t } }$ is shown in figure 4, for data and simulation. The los fraction increases with $p _ { T } ^ { \mathrm { j e t } }$ , and shows over the whole range agreement between data and simulation, within systematic uncertainties as outlined in section 5. The discrepancy between central values of data and simulation is approximately $2 5 \%$ [17].
+
+![](images/dffb61b088fe5d7d678b8da7780399f93dc1224c374ec223745f185015b30ca7.jpg)  
+Figure 4.Fraction of lost tracks due to merged clusters,determined in data and simulation for varying values of $p _ { T } ^ { \mathrm { j e t } }$ . Shaded areas show total uncertainty including systematic uncertainties as described in section 5. From [17].
+
+# 5Systematic Uncertainties
+
+The systematic uncertainties for simulation are dominated by Monte Carlo generator diferences. This uncertainty has been evaluated by comparing the fit results from PYTHIA8, SHERPA and HER$\mathrm { W I G } + +$ samples. The relative systematic uncertainty ranges from $41 \%$ at $2 0 0 { \ - } 4 0 0 \ \mathrm { G e V }$ to $5 \%$ at $1 0 0 0 { \mathrm { - } } 1 2 0 0 { \mathrm { G e V } } .$ For details, see [17].
+
+An additional uncertainty comes from the choice of fit region. It was found that varying the upper edge of the region changes $F _ { \mathrm { l o s t } }$ ,however only significantly in data. A systematic uncertainty of the size of the maximal change in $F _ { \mathrm { l o s t } }$ has been applied in each $p _ { T } ^ { \mathrm { j e t } }$ bin, varying between $12 \%$ and $2 5 \%$ ：
+
+In data,an uncertainty results from using low $p _ { T } ^ { \mathrm { j e t } }$ templates to fit high $p _ { T } ^ { \mathrm { j e t } }$ data. A check has been carried out with a simulation of high statistics,and it was found that the fraction of clusters with three contributing tracks varies as a function of $p _ { T } ^ { \mathrm { j e t } }$ . This leads to a smallbias in the resulting value of $F _ { \mathrm { l o s t } }$ which has been taken into account as a systematic uncertainty. The size of this uncertainty is between $11 \%$ and $17 \%$ ：
+
+# 6 Conclusions
+
+The tracking ineficiency in jet cores has been determined using measurements of energy deposition in the ATLAS pixel detector, on ${ \sqrt { s } } = 1 3$ TeV LHC data taken in 2O15.It was found that the fraction of lost tracks due to cluster merging is between $1 \% - 5 \%$ for jet $p _ { T } = 2 0 0 { - } 1 6 0 0 \mathrm { G e V } .$ The data and simulation are found to agree within $2 5 \%$ in the investigated jet $p _ { T }$ range.
+
+# Acknowledgments
+
+The author would like to thank the conference organizers for an interesting and enjoyable conference,the authors of the presented results [17] for their excellent work,and the ATLAS collboration for the opportunity to present it. The work is partly supported by the National Natural Science Foundation of China (Grant No. 11575200).
+
+# References
+
+[1] ATLAS Collaboration,The Optimization of ATLAS Track Reconstruction in Dense Environments, ATL-PHYS-PUB-2015-006 (2015).   
+[2] ATLAS Collaboration,A neural network clustering algorithm for the ATLAS silicon pixel detector, JINST 9 (2014) P09009. [3] ATLAS Collaboration,The ATLAS experiment at the CERN Large Hadron Collider, JINST 3 (2008) S08003.   
+[4] ATLAS Collaboration, ATLAS Insertable B-Layer Technical Design Report, CERN-LHCC-2010-013. ATLAS-TDR-19 (2010).   
+[5] T. Sjostrand, S. Mrenna, and P. Z. Skands, A Brief Introduction to PYTHIA 8.1, Comput. Phys. Commun. 178 (2008) 852.   
+[6] NNPDF Collaboration, Parton distributions with LHC data, Nucl. Phys. B867 (2013) 244.   
+[7] M. Bahr et al., Herwig $^ { + + }$ Physics and Manual, Eur. Phys. J. C58 (2008) 639.   
+[8] T. Gleisberg et al., Event generation with SHERPA 1.1, JHEP 02 (2O09) 007.   
+[9] J.Pumplin et al., New generation of parton distributions with uncertainties from global QCD analysis, JHEP 07 (2002) 012.   
+[10] H.-L.Lai et al., New parton distributions for collider physics,Phys. Rev. D82 (2010) 074024.   
+[11] ATLAS Collaboration,Topological cellclustering in the ATLAS calorimeters and its performance in LHC Run 1 (2016),arXiv: 1603.02934 [hep-ex].   
+[12] M. Cacciari, G.P. Salam,and G. Soyez, The anti-kr jet clustering algorithm, JHEP 0804 (2008) 063.   
+[13] ATLAS Collaboration, Jet Calibration and Systematic Uncertainties for Jets Reconstructed in the ATLAS Detector at $\sqrt { s } = 1 3 ~ T e V$ ATL-PHYS-PUB-2015-015 (2015).   
+[14] ATLAS Collaboration, Properties of Jets and Inputs to Jet Reconstruction and Calibration with the ATLAS Detector Using Proton-Proton Collisions at $\sqrt { s } = 1 3 ~ T e V$ ,ATL-PHYS-PUB-2015-036 (2015).   
+[15] R.E. Kalman,A New Approach to Linear Filtering and Prediction Problems,Transactions of the ASME - Journal of Basic Engineering 82 (1960) 35.   
+[16] R. Fruhwirth, Application of Kalman filtering to track and vertex fting, Nucl.Instrum.Meth. A262 (1987) 444.   
+[17] ATLAS Collaboration,Measurement of track reconstruction inefficiencies in the core of jets via pixel dE/dx with the ATLAS experiment using $\sqrt { s } = 1 3 \ T e V _ { I }$ pp collision data, ATL-PHYS-PUB-2016-007 (2016).   
+[18] C.Patrignani et al. (Particle Data Group),The Review of Particle Physics, Chin. Phys. C, 40,100001 (2016).

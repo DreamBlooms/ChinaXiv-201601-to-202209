@@ -1,0 +1,247 @@
+1 大豆低聚糖及其功能组分对体外条件下肉仔鸡盲肠内容物粪臭素产量及菌群组成的影响
+
+2 杨桂芹杨　航 刘吉喆 刘海英　董维国 朱鑫  
+3 （沈阳农业大学畜牧兽医学院，沈阳110866)  
+4 摘要：本试验旨在研究大豆低聚糖（SBO）及其功能组分对体外条件下肉仔鸡盲肠内容物粪臭素  
+5 产量及盲肠菌群组成的影响。试验采用单因素完全随机设计，以42日龄肉仔鸡盲肠内容物为菌源，  
+6 将厌氧培养液分装于无菌培养瓶中，分成5个组，每组3个重复。对照组添加 $2 5 0 \mu \mathrm { m o l / L }$ 的 $L$ -色氨  
+7 酸，蔗糖（SUC）、水苏糖（STA）、棉子糖（RAF）和 SBO 组分别在对照组的基础上添加 $1 \%$ 的 SUC、  
+8 STA、RAF 和 SBO。另外,每组均设1个不加 $L$ -色氨酸、但其他成分都相同的空白对照。利用 ANKOM  
+9號 RFS 体外产气系统， $3 9 \mathrm { ~ ^ { \circ } C }$ 厌氧培养 $2 4 \mathrm { h }$ 。结果表明：1）SUC、STA、SBO 组 $2 4 \mathrm { h }$ 发酵液累积产气  
+10 量极显著高于对照组和RAF 组( $\scriptstyle \cdot { \cal P } { < } 0 . 0 1 .$ );SBO、SUC和STA组吲哚浓度分别比对照组降低了 $9 8 . 1 5 \%$ 、  
+l1 $9 7 . 7 2 \%$ 和 $9 4 . 1 7 \%$ （ $P { < } 0 . 0 1 \rangle$ ，粪臭素浓度分别比对照组降低了 $7 9 . 0 4 \%$ 、 $7 1 . 8 8 \%$ 和 $7 0 . 2 8 \%$ （ $P { < } 0 . 0 5 )$ ；  
+12 SUC 组乳酸浓度极显著高于其他各组（ $_ { \cdot \cdot P < 0 . 0 1 \rangle }$ ；对照组 $\mathfrak { p H }$ 极显著高于除 RAF 组之外的其他各组  
+13 （ $_ { . } { P } { < } 0 . 0 1$ )。2）采用 PCR-变性梯度胶凝电泳（DGGE）技术研究了发酵液菌群组成的差异。SBO 组  
+14 菌群均匀度显著低于对照组( $_ { . P < 0 . 0 5 ) }$ ;SUC、STA、RAF、SBO 组菌群丰富度显著高于对照组 $_ { ( P < 0 . 0 5 ) }$ ；  
+15 SBO、STA、RAF 组菌群相似性高于对照组；试验组有3条特异性条带，相似菌分别为延长布劳特  
+16 氏菌（Blautia producta）、迪氏副拟杆菌（Parabacteroides distasonis）、路氏乳杆菌（Lactobacillus  
+17 reuteri）。综上，在本试验条件下，添加 $1 \%$ 的 SUC、STA 和 SBO 显著降低了肉仔鸡体外盲肠内容物  
+18 培养液中 $L$ -色氨酸代谢生成吲哚和粪臭素的浓度，提高了菌群丰富度，并促进了特异性菌的增殖。  
+19 降低粪臭素效果优劣依次为：SBO>SUC>STA。  
+20 关键词：粪臭素；大豆低聚糖；盲肠菌群；体外发酵；肉仔鸡  
+1 中图分类号：S831.5 文献标识码：A 文章编号：  
+22 我国肉鸡业发展迅速且规模不断扩大，与此同时，鸡场排出的大量粪便所产生的臭气对环境的  
+23 污染也不断加剧。通过营养学技术从根源上减少养鸡业的臭气污染，越来越引起人们的广泛关注[1],  
+24 对促进肉鸡业持续、健康发展和探索环境友好型畜牧业具有重要科学意义。粪臭素是微生物降解 L-
+
+色氨酸（ $L$ ptophan， $L$ -Try）的代谢产物，是引起猪鸡排泄物产生恶臭的主要物质之一[2-3]。研究表明， $L$ -Try 的可利用度和肠道微生物的组成和活力是影响动物肠道粪臭素浓度的主要因素[4]。肉仔鸡盲肠粪臭素浓度显著高于回肠和直肠，其浓度差异主要与肠道菌群多样性和丰富度有关[5。大豆低聚糖（SBO）是以大豆及其加工副产品为原料生产的、含有一定量的水苏糖（STA）、棉子糖（RAF）和蔗糖（SUC）等低聚糖的产品（GB/T22491—2008）。一般 $7 5 \%$ 的 SBO中，含 $1 8 \%$ STA、 $6 \%$ RAF、24% SUC[]。Coon等[7]报道，火鸡对 RAF 和 STA的回肠消化率不足 $1 \%$ ，但排泄物消化率高达 $8 4 \% \sim$ $90 \%$ ，进一步说明了 SBO 及其功能组分主要在禽类后肠道被微生物利用。Li等[研究了不同纤维源在猪直肠菌群作用下对 L-Try 体外代谢的影响，结果表明体外培养体系中粪臭素的产生受到直肠微生物组成的影响，而后者与纤维物质的来源密切相关。盛清凯等研究表明，外源 $L$ -Try是猪粪体外发酵液中色氨酸和粪臭素的主要影响因素。本课题组前期研究表明，饲粮添加 SBO 显著降低了 42日龄肉仔鸡排泄物吲哚和粪臭素的浓度[10]，显著降低了在肉仔鸡盲肠和直肠菌群作用下 $L$ -Try 代谢生成粪臭素的浓度[1]，但何种单一聚合度（单体组分）的 SBO 在其中起主要作用还不完全清楚，其作用机制也有待于进一步阐明。
+
+# 1材料与方法
+
+# 1.1 试验材料及样品采集
+
+试验用的 SBO、SUC、RAF、STA 均为市售商品低聚糖，由河南某生物科技有限公司生产。采用蒽酮比色法[12],实测 SBO、SUC、RAF、STA 的总糖含量分别为 $7 6 . 1 0 \% . 6 4 . 5 3 \% . 6 8 . 2 1 \%$ 和 $8 8 . 0 7 \%$ 。爱拨益加（AA）肉仔鸡饲养至42 日龄时，选取30只健康鸡只（饲喂玉米-豆粕型无抗生素饲粮，公母各占1/2)，平均体重为 $2 . 7 5 \mathrm { k g }$ ；宰杀，剖开腹腔，分离盲肠，用细线结扎，剪下，装入事先准备好的自封袋中，称重（每只鸡约 $6 { \sim } 7 \mathrm { g }$ 盲肠内容物)，迅速置-80℃冰箱备用。
+
+1.2 试验设计
+
+采用单因素完全随机试验设计，分别设 SUC、STA、RAF、SBO 和对照组，每组3个重复。对照组添加 $2 5 0 \mathrm { \textmu m o l / L }$ 的 $L$ -Try，SUC、STA、RAF 和 SBO 组分别在对照组的基础上添加 $3 . 1 0 \ \mathrm { g \ S U C }$ 、2.27 g STA、 $2 . 9 3 \ \mathrm { g }$ RAF、 $2 . 6 3 \ \mathrm { g }$ SBO（以总糖含量计为 $1 \%$ )，体外培养液体积为 $2 0 0 ~ \mathrm { m L }$ 。另外，考虑到不同底物原料蛋白质含量的差异，每组均设1个不加 $L$ -Try、但其他成分都相同的空白对照，其结果用于对吲哚和粪臭素浓度进行校正。
+
+# 1.3体外培养液的配制及发酵
+
+参照 Yokoyama 等[13]的方法，配制基础培养液。调整 $\mathfrak { p H }$ 至 $5 . 7 { \pm } 0 . 3 \$ （鸡的盲肠内容物pH为5.7)；然后，在1个标准大气压、121 $ { { } ^ \circ \mathrm { C } }$ 条件下灭菌 $1 5 \mathrm { m i n } ^ { [ 1 4 ] }$ ；将盲肠内容物从 $- 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱取出，置超净工作台解冻，按照公母肉鸡盲肠内容物样品1:1混合后，称取 $3 0 \mathrm { g }$ ，悬浮于 $3 \mathrm { L }$ 无菌厌氧培养液中。充分搅拌后用4层纱布过滤以除去粗微粒物质，并将滤液分装到 ANKOMRFS无菌培养瓶中，每瓶$1 9 8 ~ \mathrm { m L }$ ,操作全程开通 $\mathrm { C O } _ { 2 }$ 以保证菌群的活性。在各组培养液中添加 $2 \mathrm { m L } 5 . 1 \mathrm { m g / m L }$ 的 $L$ -Try( $L$ -Try添加终浓度为 $2 5 0 \mu \mathrm { m o l / L }$ )，试验组再分别添加 $1 \%$ 的 SUC、STA、RAF和 SBO，空白对照组添加2mL 的无菌蒸馏水，充分震荡混匀。将培养瓶中通满 $\mathrm { C O } _ { 2 }$ ，盖上产气系统的密封盖并拧紧，放入 $3 9 \mathrm { ~ \ ^ ~ C ~ }$ 恒温培养箱中，厌氧培养 $2 4 \mathrm { h }$ 。用带盖离心管留取部分发酵液分别至 $- 2 0 \mathrm { ~ \textdegree C }$ 和 $- 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冻存备用。
+
+1.4发酵液产气量、粪臭素浓度和发酵参数测定
+
+1.4.1产气量
+
+ANKOMRFS体外产气系统能自动检测产气瓶中产生的气体，并且记录气压信息。根据公式，将气压信息换算成产生气体的体积（ $\mathrm { m L }$ )。
+
+$$
+V x _ { t } = V j \times ( P p s i _ { t } - P p s i _ { 0 } ) \times 0 . 0 6 8 _ { \mathrm { ~ c ~ } }
+$$
+
+式中： $\textstyle V _ { X _ { t } }$ 为 $t ^ { \mathbf { \alpha } } ( \mathbf { h } )$ 时刻产生气体的体积（mL)；Vj为模块瓶内液面上部空间的体积（mL)；Ppsit为t（h）时刻样本模块瓶GPM软件记录的累积压力（psi)； $P p s i _ { 0 }$ 为 $t$ （h）时刻空白模块瓶GPM 软件记录的累积压力（psi）。 $1 \ \mathrm { p s i = } 6 . 8 9 5 \ \mathrm { K P a }$
+
+1.4.2 pH
+
+厌氧培养结束后，用校正的PHS-3C 型pH计测定发酵液的pH。
+
+1.4.3吲哚和粪臭素浓度
+
+参照文献[11]的方法，用Agilen-1100 型高效液相色谱仪测定发酵液的吲哚和粪臭素浓度。
+
+1.4.4 乙酸、丙酸、丁酸和乳酸浓度
+
+参照文献[15]的方法，用 Agilent-7890B气相色谱仪测定发酵液的乙酸、丙酸、丁酸和乳酸浓度。
+
+1.5 发酵液菌群结构测定
+
+1.5.1 基因组DNA 的提取
+
+使用十六烷基三甲基溴化铵（CTAB）环境微生物DNA提取试剂盒，提取发酵液中总细菌基因组DNA，并用DNA纯化试剂盒进行纯化，置-20℃保存备用。
+
+1.5.2 细菌16SrDNA片段的PCR扩增
+
+细菌通用引物同文献[10]。PCR扩增体系（ ${ 5 0 } \mu \mathrm { L } \dot { }$ ：rTaq酶（ $5 \mathrm { U / \mu L }$ ） $0 . 4 ~ \mu \mathrm { L }$ ; $1 0 { \times } \mathrm { P C R }$ buffer 5μL；dNTP（2.5 mmol/L） $3 . 2 ~ \mu \mathrm { L }$ ；GC-338F（ $2 0 \mu \mathrm { m o l / L }$ ） $1 ~ \mu \mathrm { L }$ ；518R（ $2 0 \mu \mathrm { m o l / L }$ ） $1 ~ \mu \mathrm { L }$ ；模板DNA$5 0 ~ \mathrm { n g }$ ；补 $\mathrm { \ d d H } _ { 2 } \mathrm { O }$ 至 $5 0 ~ \mu \mathrm { L }$ 。反应条件： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 5 min;94 ℃ 1 min，55 ℃ 45 s，72 ℃ 1 min，30个循环；最终 $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 延伸 $1 0 \mathrm { m i n }$ 。
+
+1.5.3 变性梯度凝胶电泳（DGGE）分析
+
+采用Bio-RadDcode系统进行DGGE分析。采用变性梯度为 $3 5 \% \sim 5 5 \%$ 、浓度为 $7 \%$ 的聚丙烯酰胺凝胶在1×TAE、150V、60℃下电泳 $5 \mathrm { h }$ 。采用硝酸银染色并用凝胶成像系统拍照记录。采用Poly-GelDNA 提取试剂盒（OMEGA）回收目的条带，并进行克隆测序。测定序列在GenBank数据库中进行比对分析，寻找亲缘关系最近的细菌或克隆。
+
+# 1.5.4 PCR-DGGE图谱分析
+
+采用Quantityone 软件对图谱条带数目、密度进行数字化分析，其计算公式如下所示：
+
+$$
+H = - \sum _ { i = 1 } ^ { s } p i \ln p i = - \sum _ { i = 1 } ^ { s } ( N i / N ) \ln ( N i / N ) \sum _ { : }
+$$
+
+$$
+E = { \frac { H } { H \operatorname* { m a x } } } = { \frac { H } { \ln S } } _ { \textrm { c } }
+$$
+
+式中， $H , ~ S$ 和 $E$ 分别代表多样性指数[香农-威纳指数（Shannon-Wiener index）]、丰富度和均匀度。 $p i$ 为样品中单一条带的光密度值在该样品所有条带光密度总值中所占的比率； $N$ 为DGGE图谱单一泳道上条带的丰度； $N i$ 为第 $i$ 泳道条带的丰度； $s$ 是全部样品中所有条带数目总和；Hmax 为$H$ 的最大值。
+
+不同样品间菌群差异的两两比较，依据戴斯相似系数（Dice coefficient，Cs），用MEGA4.1软件进行聚类分析。Cs的计算公式为：
+
+$$
+C s = \frac { 2 j } { N x + N y } _ { \mathrm { ~ c ~ } }
+$$
+
+式中， $N x$ 为 $x$ 泳道样本的条带数， $N y$ 为 $y$ 泳道样本的条带数， $j$ 为两个泳道共有的条带数。
+
+1.6 数据统计与分析
+
+数据采用IBMSPSS Statistics 22.0软件进行单因素方差分析，Duncan 氏法进行多重比较。粪臭素浓度、发酵参数、菌群结构之间采用双变量相关分析。 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果与分析
+
+# 2.1 发酵液累积产气量
+
+由表1可知，发酵至 $^ { 3 \mathrm { ~ h ~ } }$ ，各组发酵液累积产气量差异显著（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，之后各阶段各组累积产气量差异极显著（ $_ { \cdot } P { < } 0 . 0 1 \rangle$ ；发酵至6、9h时，RAF组累积产气量极显著低于对照组（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ ；发酵至 $2 1 \mathrm { ~ h ~ }$ 之前，RAF 组累积产气量均低于对照组，但差异不显著（ $_ { . P > 0 . 0 5 ) }$ ；发酵至 $2 4 \mathrm { h }$ 时，SUC、STA、SBO 组累积产气量极显著高于对照组和RAF 组（ $\scriptstyle P < 0 . 0 1 .$ )，对照组累积产气量最低。各阶段SUC、STA、SBO组之间累积产气量差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { : } }$ )。由图1可直观看出各阶段各组累积产气量的变化情况。
+
+表1大豆低聚糖及其功能组分在肉仔鸡盲肠菌群作用下对发酵液累积产气量的影响 able 1Effects of soybean oligosaccharide and its functional components on cumulative gas production in fermentation broth by cecal microbiota of broilers mL   
+
+<html><body><table><tr><td rowspan="2">1J 组别Groups</td><td colspan="7">ductrt Otir otaororoncrs HL 发酵时间 Incubation time/h</td></tr><tr><td colspan="7"></td></tr><tr><td></td><td>3 37.79±</td><td>6 61.15±</td><td>9</td><td>12</td><td>15</td><td>18</td><td>21</td><td>24</td></tr><tr><td>蔗糖 SUC</td><td>3.10ab</td><td>4.77Aa</td><td>85.72± 6.18Aa</td><td>112.55± 11.08Aa</td><td>134.49± 12.90Aa</td><td>149.22± 13.49Aa</td><td>160.76± 11.77Aa</td><td>171.73± 9.62Aa</td></tr><tr><td rowspan="3">水苏糖 STA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>37.89±</td><td>54.96±</td><td>77.47±</td><td>104.11±</td><td>131.02±</td><td>147.44±</td><td>158.04±</td><td>168.17±</td></tr><tr><td>1.22ab</td><td>1.26ABa</td><td>2.38ABab</td><td>6.57Aa</td><td>6.88Aa</td><td>6.01Aa</td><td>5.96Aa</td><td>7.71Aa</td></tr><tr><td>棉子糖 RAF</td><td>33.10± 1.31b</td><td>40.70± 1.48Bb</td><td>46.05± 1.53Cd</td><td>50.83± 1.94Cb</td><td>57.68±</td><td>65.18±</td><td>77.47±</td><td>96.88±</td></tr><tr><td rowspan="2">大豆低聚糖 SBO</td><td></td><td></td><td></td><td></td><td>3.56Bb</td><td>5.26Bb</td><td>6.63Bb</td><td>7.66Bb</td></tr><tr><td>42.95±</td><td>56.27± 3.63Aa</td><td>73.72±</td><td>98.67±</td><td>118.45±</td><td>131.78±</td><td>142.65±</td><td>152.60±</td></tr><tr><td rowspan="2">对照Control</td><td>2.64a</td><td></td><td>1.57ABbe</td><td>6.02ABa</td><td>11.97Aa</td><td>13.11Aa</td><td>13.63Aa</td><td>13.33Aa</td></tr><tr><td>44.60± 1.55a</td><td>55.85± 1.55Aa</td><td>63.45±</td><td>68.65±</td><td>72.73±</td><td>76.25±</td><td>78.78±</td><td>82.30±</td></tr><tr><td>标准误 SEM</td><td>1.38</td><td>2.28</td><td>4.10 2.11Bc</td><td>7.06 1.97BCb</td><td>2.11Bb</td><td>2.53Bb</td><td>1.97Bb</td><td>1.55Bb</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>9.44</td><td>10.60</td><td>10.86</td><td>10.59</td></tr><tr><td>P值 P-value</td><td>0.038</td><td>0.009</td><td><0.001</td><td>0.001</td><td>0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr></table></body></html>
+
+同列数据肩标相同或无字母表示差异不显著（ $( P { > } 0 . 0 5 )$ ），不同小写字母表示差异显著（ $( P { < } 0 . 0 5 )$ ），不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。下表同。In the same column,values with the same or no letter superscripts mean no significant diference（204号 $( P { > } 0 . 0 5 )$ ,and with different small letter superscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ,while with dif-ferent capital letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ). The same as below.
+
+![](images/79e6b962bb27c95d67e44d4591f0ba9a3ed1790bef8cd0630f6a6c2f4280021c.jpg)  
+图1大豆低聚糖及其功能组分在肉仔鸡盲肠菌群作用下对发酵液累积产气量的影响  
+Fig.1Effects of soybean oligosaccharide and its functional components on cumulative gas production in fermentation broth by cecal microbiota of broilers
+
+2.2发酵液吲哚、粪臭素浓度及发酵参数
+
+由表2可知，SBO、SUC和STA组发酵液中的吲哚浓度分别比对照组降低了 $9 8 . 1 5 \%$ 、 $9 7 . 7 2 \%$ 和$9 4 . 1 7 \%$ ( $P { < } 0 . 0 1$ ），但SUC、STA和SBO组的吲哚浓度差异不显著（ $\cdot P { > } 0 . 0 5 \$ ），RAF组的吲哚浓度与对照组相比差异不显著（ $P { > } 0 . 0 5$ ）。各组发酵液中的粪臭素浓度显著低于对照组（ $\cdot P { < } 0 . 0 5$ ），其中，SBO、SUC、STA和RAF组的粪臭素浓度分别比对照组降低了 $7 9 . 0 4 \%$ 、 $7 1 . 8 8 \%$ 、 $7 0 . 2 8 \%$ 和 $6 2 . 4 2 \%$ （ $P { < } 0 . 0 5$ ），但SBO、SUC、STA和RAF组的粪臭素浓度差异不显著（ $. P { > } 0 . 0 5$ ）。各组发酵液中的乙酸浓度差异不显著（ $P { > } 0 . 0 5$ ）。SUC组发酵液中的乳酸浓度极显著高于其他各组（ $\cdot  { P } { < } 0 . 0 1$ ），RAF、SBO组的乳酸浓度与对照组相比差异不显著（ $P { > } 0 . 0 5$ ）。对照组发酵液的 $\mathfrak { p H }$ 极显著高于除RAF组之外的其他各组（ $\cdot P { < } 0 . 0 1$ ）。
+
+表2大豆低聚糖及其功能组分在肉仔鸡盲肠菌群作用下对发酵液吲哚、粪臭素浓度及发酵参数的影响
+
+Table 2Effects of soybean oligosaccharide and its functional components on indole,skatole concentrations and fermentation parameters in fermentation broth by cecal microbiota of broilers
+
+<html><body><table><tr><td></td><td>吲哚 In-</td><td>粪臭素 Skat-</td><td>乙酸 Acetic</td><td>乳酸Lactic</td><td></td></tr><tr><td>组别 Groups</td><td></td><td></td><td></td><td></td><td>pH</td></tr><tr><td></td><td>dole/(ng/mL)</td><td>ole/(ng/mL)</td><td>acid/(mmol/L)</td><td>acid/(mmol/L)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>5.65±0.49BCbc</td></tr><tr><td>蔗糖 SUC</td><td>5.21±0.29Bb</td><td>8.05±0.73b</td><td>16.88±0.47</td><td>17.51±1.00Aa</td><td></td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>水苏糖 STA</td><td>13.33±1.20Bb</td><td>8.51±0.81b</td><td>16.32±0.57</td><td>7.25±0.65Bb</td><td>5.33±0.06BCc</td></tr><tr><td>棉子糖 RAF</td><td>225.72±13.89Aa</td><td>10.76±1.96b</td><td>17.62±3.09</td><td>4.25±0.33BCc</td><td>6.53±0.10ABab</td></tr><tr><td>大豆低聚糖 SBO</td><td>4.22±0.70Bb</td><td>6.00±0.63b</td><td>14.60±0.26</td><td>3.62±0.12Cc</td><td>4.89±0.42Cc</td></tr><tr><td>对照 Control</td><td>228.48±21.95Aa</td><td>28.63±9.85a</td><td>10.27±0.73</td><td>4.30±0.73BCc</td><td>7.46±0.22Aa</td></tr><tr><td>标准误 SEM</td><td>29.09</td><td>2.79</td><td>0.88</td><td>1.50</td><td>0.27</td></tr><tr><td>P值P-values</td><td><0.001</td><td>0.031</td><td>0.089</td><td><0.001</td><td>0.001</td></tr></table></body></html>
+
+各组发酵液中丙酸和丁酸均未检出。 No propionate and butyrate were detected in fermentation broth in all groups
+
+2.3 发酵液菌群组成
+
+# 2.3.1 菌群多样性
+
+由图2可知，12、20、25、26号条带在各组中均存在。有部分条带只在某个组中存在，有部分条带只在某个组中未出现。由表3可知，各组发酵液中菌群多样性指数差异不显著 $( P { > } 0 . 0 5 )$ ； SBO组发酵液中菌群均匀度显著低于对照组（ $P { < } 0 . 0 5$ ）；SUC、STA、RAF、SBO 组发酵液中菌群丰富度均显著高于对照组（ $P { < } 0 . 0 5$ ）。
+
+![](images/d77f03b5a0bb21ea6e2f106f495b357dbd38be8b9965209c62e306cf5a1e6da7.jpg)
+
+1-1，1-2，1-3 为蔗糖组；2-1，2-2，2-3为水苏糖组；3-1，3-2，3-3为棉子糖组；4-1，4-2，4-3为大豆低聚糖组；5-1，5-2，5-3为对照组。图3同。
+
+1-1,1-2,1-3 were SUC groups; 2-1,2-2,2-3 were STA groups; 3-1,3-2,3-3 were RAF groups; 4-1, 4-2, 4-3 were SBO groups; 5-1, 5-2, 5-3 were control groups. The same as Fig.3.
+
+表3大豆低聚糖及其功能组分对体外条件下肉仔鸡盲肠菌群多样性的影响
+
+Table 3Effects of soybean oligosaccharide and its functional components on the cecal microbiota diver
+
+<html><body><table><tr><td colspan="4">sity of broilers in vitro</td></tr><tr><td>组别Groups</td><td>多样性指数 Shan- non-wiener index</td><td>均匀度 Evenness</td><td>丰富度 Richness</td></tr><tr><td>蔗糖 SUC</td><td>3.03±0.03</td><td>0.968±0.004ab</td><td>23.00±0.58a</td></tr><tr><td>水苏糖 STA</td><td>3.07±0.05</td><td>0.966±0.002ab</td><td>24.00±1.15a</td></tr><tr><td>棉子糖 RAF</td><td>3.13±0.04</td><td>0.968±0.008ab</td><td>25.33±0.67a</td></tr><tr><td>大豆低聚糖 SBO</td><td>3.00±0.03</td><td>0.957±0.003b</td><td>23.00±0.58a</td></tr><tr><td>对照 Control</td><td>2.85±0.11</td><td>0.977±0.009a</td><td>18.67±2.03b</td></tr><tr><td>标准误 SEM</td><td>0.030</td><td>0.004</td><td>0.740</td></tr><tr><td>P值 P-values</td><td>0.065</td><td>0.023</td><td>0.021</td></tr></table></body></html>
+
+# 2.3.2 菌群相似性
+
+由图3可知，图谱条带被明显分成两簇，两簇之间相似性系数为0.49。上方簇为2个对照组样品和1个RAF组样品，相似性系数为0.68，而2个对照组样品之间的相似性系数为0.76。下方簇中，与其他样品相似性系数最低的为SUC组样品1-2，仅为0.51；而对照组样品5-3与其他样品的相似性系数为0.64，明显低于其他3组；相似性高的有4簇，分别为SBO组样品4-1和样品4-3、STA组样品2-2和样品2-3、RAF组样品3-1和样品3-3、SUC组样品1-1和SBO组样品4-2，相似性系数依次为0.89、0.88、0.84、0.84，这些样品为添加了SBO、STA、RAF的组，相似性系数均高于对照组。
+
+![](images/ccdf00ffd4c8de45cc1a42bb4fa246037901f071b5fb0557aae716864990419d.jpg)  
+图315个发酵液样品的未加权配对组法聚类分析  
+表4PCR-DGGE 凝胶条带回收序列分析结果
+
+Fig.3Unweighted pair group method clustering analysis of 15 fermentation broth samples
+
+2.3.3 菌群PCR-DGGE指纹图谱优势条带序列
+
+本试验对 PCR-DGGE 指纹图谱中11条具有共性、特异性的条带进行了回收、克隆和测序。由表 4 可知，在11个测序结果中，与GenBank 数据库中细菌的相似度都在 $9 9 \% \sim 1 0 0 \%$ 。其中12、20、25、26 号条带为15个发酵液样品的共有条带,其相似菌分别为鹑鸡肠球菌(Enterococcus gallinarum）、肺炎克雷伯菌（Klebsiella pneumoniae）、菊花迪克氏菌（Dickeya chrysanthemi）、宋内氏志贺氏菌（Shigella sonnei）。4 号条带仅在RAF 组样品3-1中出现，其相似菌为延长布劳特氏菌（Blautiaproducta）。9号条带在 SUC 组样品1-1、1-2，STA 组样品2-1、2-3，RAF 组所有样品和 SBO 组样品 4-1、4-2中出现，其相似菌为迪氏副拟杆菌（Parabacteroides distasonis）。28 号条带在 SUC、STA、RAF 和 SBO组中出现，相似菌为路氏乳杆菌（Lactobacillus reuteri）。可见，条带4、9、28号条带仅在试验组中出现。
+
+Table 4Analysis results of PCR-DGGE gel bands recovery sequence
+
+<html><body><table><tr><td rowspan="2">条带号 Band num- bers</td><td rowspan="2">相似菌 Similar strain</td><td rowspan="2">登录号 Acces- sion numbers</td><td rowspan="2">相似度 Similar- ity/%</td><td rowspan="2">分类Classification</td><td rowspan="2">备注Note</td></tr><tr><td></td></tr><tr><td>4</td><td>延长布劳特氏菌 Blautia producta</td><td>NR_113270</td><td>100</td><td>厚壁菌门 Firmicutes 梭菌纲 Clostridia 布劳特氏菌属Blautia</td><td>RAF组3-1特有</td></tr><tr><td>9</td><td>迪氏副拟杆菌 Parabacteroides distasonis</td><td>NR_041342</td><td>99</td><td>拟杆菌门 Bacteroidetes 拟杆菌纲Bacteroidia</td><td>SUC 组1-1、1-2, STA 组2-1、2-3, RAF 组和 SBO 组</td></tr><tr><td colspan="4"></td><td>副拟杆菌属Parabacteroides</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td rowspan="2">12</td><td rowspan="2">鹑鸡肠球菌 Enterococcus gallinarum</td><td rowspan="2">NR_104559</td><td rowspan="2">99</td><td rowspan="2">厚壁菌门 Firmicutes</td><td rowspan="2">共有 SUC 组1-1、1-3,</td></tr><tr><td>芽孢杆菌纲 Bacilli 肠球菌属 Enterococcus</td></tr><tr><td>15</td><td>卷曲乳杆菌 Lactobacillus crispatus</td><td>NR_119274</td><td>99</td><td>厚壁菌门 Firmicutes 芽孢杆菌纲 Bacilli 乳杆菌属Lactobacillus</td><td>STA 组，RAF组, SBO 组和对照组5-3 共有</td></tr><tr><td>17</td><td>芬戈尔德别样杆 菌Alistipes fi- negoldii</td><td>NR_115300</td><td>99</td><td>拟杆菌门 Bacteroidetes 拟杆菌纲 Bacteroidia 别样杆菌属Alistipes</td><td>SBO 组4-1、4-3和 对照组5-2、5-3 共 有</td></tr><tr><td>20</td><td>肺炎克雷伯菌 Klebsiella pneu- moniae</td><td>NR_041750</td><td>99</td><td>变形菌门Proteobacteria 加玛变形菌纲 Gammaproteobacteria 克雷伯菌属Klebsiella</td><td>共有</td></tr><tr><td>22</td><td>弗格森埃希氏菌 Escherichia fer- gusonii</td><td>NR_074902</td><td>100</td><td>变形菌门Proteobacteria 加玛变形菌纲 Gammaproteobacteria 埃希氏菌属Escherichia</td><td>SUC 组，STA组, RAF 组，SBO组和 对照组5-2、5-3共 有</td></tr><tr><td>25</td><td>菊花迪克氏菌 Dickeya chrysan- themi</td><td>NR_117738</td><td>99</td><td>变形菌门 Proteobacteria 加玛变形菌纲 Gammaproteobacteria 迪克氏菌属Dickeya</td><td>共有</td></tr><tr><td>26</td><td>宋内氏志贺氏菌 Shigella sonnei</td><td>NR_104826</td><td>99</td><td>变形菌门 Proteobacteria 加玛变形菌纲 Gammaproteobacteria 志贺氏菌属 Shigella</td><td>共有</td></tr><tr><td>28</td><td>路氏乳杆菌 Lactobacillus reuteri</td><td>NR_075036</td><td>100</td><td>厚壁菌门 Firmicutes 芽孢杆菌纲Bacilli 乳杆菌属Lactobacillus 变形菌门Proteobacteria</td><td>SUC、STA、RAF和 SBO 组共有 SUC 组，STA组,</td></tr><tr><td>29</td><td>类肺炎克雷伯菌 Klebsiella qua- sipneumoniae</td><td>NR_134062</td><td>100</td><td>加玛变形菌纲 Gammaproteobacteria 克雷伯菌属Klebsiella</td><td>RAF组,SBO组4-1、 4-3 和对照组5-3共 有</td></tr></table></body></html>
+
+2.4发酵液粪臭素浓度、发酵参数与菌群多样性间的相关关系
+
+由表5可知，发酵液乙酸浓度与菌群多样性指数、丰富度均呈正相关，其中乙酸浓度与菌群多样性指数呈极显著正相关（ $\scriptstyle \mathtt { \mathtt { r } = 0 . 9 6 4 }$ ， $P { < } 0 . 0 1$ ），乙酸浓度与菌群丰富度呈显著正相关（ $\scriptstyle { r = 0 . 9 5 4 }$ $P { < } 0 . 0 5$ ）； $\mathsf { p H }$ 与菌群均匀度呈显著正相关（ $\scriptstyle { r = 0 . 9 0 9 }$ ， $\scriptstyle P < 0 . 0 5$ ）。
+
+表5发酵液粪臭素浓度、发酵参数与肉仔鸡盲肠菌群多样性间的相关关系
+
+Table 5Correlation of skatole concentration, fermentation parameters and diversity of cecal microbiota in fermentation broth of broilers
+
+<html><body><table><tr><td>项目Items</td><td>多样性指数 Shannon-wiener index</td><td>均匀度 Evenness</td><td>丰富度 Richness</td></tr><tr><td>吲哚 Indole/(ng/mL)</td><td>-0.228</td><td>0.659</td><td>-0.295</td></tr><tr><td>粪臭素 Skatole/(ng/mL)</td><td>-0.788</td><td>0.866</td><td>-0.845</td></tr><tr><td>乙酸 Acetate/(mmol/L)</td><td>0.964**</td><td>-0.521</td><td>0.954*</td></tr><tr><td>乳酸Lactate/(mmol/L)</td><td>0.143</td><td>0.041</td><td>0.102</td></tr><tr><td>pH</td><td>-0.477</td><td>0.909*</td><td>-0.564</td></tr><tr><td>累积产气量 Cumulative gas</td><td>0.367</td><td>-0.619</td><td>0.411</td></tr><tr><td>production/mL</td><td></td><td></td><td></td></tr></table></body></html>
+
+\*\*表示极显著相关（ $_ { \cdot  { P } < 0 . 0 1 }$ )，\*表示显著相关（ $. P { < } 0 . 0 5 )$ 。 \*\* means extremely significant correlation $( P { < } 0 . 0 1 )$ , \* means significant correlation $( P { < } 0 . 0 5 )$
+
+3讨论
+
+3.1大豆低聚糖及其功能组分在肉仔鸡盲肠菌群作用下对 $L$ -Try 代谢生成粪臭素的影响
+
+发酵底物和微生物种类对发酵过程中产气量、产气速率及代谢产物都有一定的影响[1]。Lan 等[17]以81日龄肉仔鸡盲肠菌群为接种物，体外发酵试验结果表明，与 SBO和RAF 相比，STA具有较大的产气量和产气速率。本试验结果表明，SUC、STA、SBO 组发酵液 $2 4 \mathrm { h }$ 累积产气量极显著高于对照组，但3组间差异不显著。说明肉仔鸡盲肠微生物能够很好地利用 SBO及其功能组分（RAF 除外)进行发酵，SUC、STA、SBO均为肉仔鸡盲肠微生物很好的碳源。易中华等[18]以42日龄肉仔鸡盲肠内容物为菌源，体外发酵 RAF、STA、果寡糖和甘露寡糖，结果表明它们的可发酵性依次降低，且RAF 发酵产气量最大、产气速率最快。本试验结果表明，RAF 产气量最小，这可能与本试验中添加了 $L$ -Try 有关，由于蛋白质源的存在影响了碳水化合物的发酵。本试验中，在发酵 $2 1 \mathrm { ~ h ~ }$ 之前，RAF组的累积产气量低于对照组，至发酵 $2 4 \mathrm { ~ h ~ }$ 累积产气量才超过对照组，说明RAF 的发酵速度较慢，造成前期微生物依赖 $L$ -Try 为发酵底物，使 $L$ -Try 降解增加，进一步使吲哚和粪臭素产生量增加，尤其 RAF 组吲哚的产量比 SUC、STA 和 SBO 组分别高出 220.51、212.39 和 $2 2 1 . 5 0 ~ \mathrm { n g / m L }$ 。
+
+Li 等[8报道，添加甜菜粕和果寡糖显著降低了猪直肠菌群作用下 $L$ -Try 培养液中粪臭素的浓度和相对产率。本试验表明，添加 SBO 及其功能组分显著降低了发酵液粪臭素浓度，其降低效果由高到低依次为 SBO、SUC、STA、RAF，添加RAF 对发酵液吲哚浓度无显著影响。说明无论是 SBO，还是其功能组分都具有较好的降低发酵液粪臭素产量的效果，但RAF 效果最差。主要是由于 RAF发酵速度慢，导致微生物首先利用 $L$ -Try，进而导致其分解产物的增加。研究表明，肠道微生物的生
+
+长代谢活动需要碳水化合物和蛋白质参与，在肉仔鸡肠道远端，细菌糖化发酵优先，只有当碳水化合物用尽时，腐败作用才会出现[19]。SBO 及其功能组分降低粪臭素浓度的效果，主要是源于其作为微生物的能源物质优先发酵，进而减少了细菌对 L-Try 的发酵，因此减少了粪臭素的产生量。非可消化碳水化合物（NDC）在结肠中通过微生物的发酵，最终产生乙酸、丙酸和丁酸[20]。因此，单胃动物肠道中乙酸、丙酸和丁酸的含量和比例可间接反映肠道微生物菌群状况[21]。Lan 等[22]以81日龄肉鸡盲肠内容物为菌源，体外发酵 SBO、大豆水溶性多糖等四种NDC以及STA和RAF，结果表明 SBO 组发酵液具有最高的丁酸产量和最低的pH、氨氮浓度（ $\mathrm { \Omega } ^ { \mathrm { - } } 1 9 9 . 3 \mathrm { m g / L }$ ）。本试验中 SBO及其功能组分对发酵液乙酸浓度无显著影响，但对照组乙酸浓度最低（10.27mmol/L）。Macfarlane等[23]报道，细菌发酵时所使用的底物会影响到短链脂肪酸（SCFA）的产量，一般以蛋白质为发酵底物所产生的 SCFA量会比以碳水化合物为基质的少。本试验中，添加 SBO极显著降低了发酵液乳酸浓度和 pH，对照组的pH最高，对照组和 RAF 组pH差异不显著。由于低pH环境有利于乳酸菌的增长，减少了腐败菌的滋生，进而达到减少粪臭素产生的效果。  
+本试验采用气相色谱法，未检测到发酵液中的丙酸和丁酸，易中华等[18以肉仔鸡盲肠内容物为菌源，体外发酵 STA 和 RAF，测得 $2 4 \mathrm { ~ h ~ }$ 发酵液乙酸、丙酸和丁酸的摩尔比例分别为 5.6:2.5:1.9 和5.6:2.3:2.1。说明肉仔鸡肠道微生物发酵碳水化合物主要产生乙酸和乳酸，而产生的丙酸和丁酸极少。3.2大豆低聚糖及其功能组分对体外条件下肉仔鸡盲肠菌群组成的影响  
+近年来，PCR-DGGE、qPCR、宏蛋白质组学等技术被广泛应用于动物肠道菌群生态学研究，已成为研究肉仔鸡肠道微生物的主要技术手段，并用于解释与恶臭化合物生成有关的新菌落[10-11]。本试验中，添加 SBO 及其功能组分后，对发酵液菌群多样性指数无显著影响，与侯瑞[1l报道的结果一致。但本试验中，添加 SBO及其功能组分后显著提高了发酵液菌群的丰富度，SBO组显著降低了发酵液菌群的均匀度。在体外培养体系中，菌群 PCR-DGGE指纹图谱的差异，以及 STA、RAF、SBO组与对照组相似性的差异，可能解释了SBO及其功能组分降低粪臭素产生的原因。另外，试验组有3条特异性条带，相似菌分别为延长布劳特氏菌、迪氏副拟杆菌、路氏乳杆菌，说明添加SBO及其功能组分能够通过促进以上细菌的增殖降低吲哚、粪臭素的产生。  
+3.3发酵液粪臭素浓度、发酵参数与盲肠菌群组成的相关关系分析
+
+已往的研究大多注重 SBO（或其部分组分）对人或动物肠道微生物菌群的影响，少量文献涉及对粪臭素产量、pH和有机酸等的影响，有关它们之间相关关系的研究仅见零星报道[24-25]。通过研究粪臭素、吲哚等浓度与肠道菌群间的相关关系，将有助于揭示 SBO 及其功能组分降低肉仔鸡粪臭素、吲哚等产生的微生物学机制，对探究降低粪臭素污染的营养调控措施具有重要科学意义。胡彩虹等[26]以猪粪为菌源体外发酵 L-Try，结果表明， $\mathsf { p H }$ 较高的环境有利于粪臭素的产生，而 pH 较低的环境有利于吲哚的产生。说明环境酸度与吲哚和粪臭素的产生量存在一定关系。王琪等[25]报道，42 日龄肉仔鸡排泄物pH与盲肠乳酸浓度呈显著负相关关系（ $r { = } { \_ } 0 . 9 2 7$ ）。本研究表明，添加 SBO 及其功能组分极显著影响肉仔鸡体外发酵液的乳酸浓度和 $\mathfrak { p H }$ ，其中 SBO 组pH最低，而对照组的pH最高。结合吲哚浓度、粪臭素浓度数据分析，与以上报道基本一致。另外产气量越高，菌群的发酵特性越好，越不利于 $L$ -Try 降解产生吲哚。张沛[5研究表明，肉仔鸡肠道菌群多样性指数、丰富度和总菌数量与粪臭素产量呈极显著正相关， $\boldsymbol { r }$ 分别为0.748、0.783 和0.700。本研究表明，发酵液的乙酸浓度与菌群多样性指数呈极显著正相关，乙酸浓度与菌群丰富度呈显著正相关，pH与菌群均匀度呈显著正相关，而吲哚和粪臭素浓度与菌群结构无显著相关性。因此，本试验中也可能是由于 SBO 及其功能组分通过增加或降低某些菌群的数量来降低粪臭素的产生，待后续试验报道。另外，此结果是否与肉仔鸡肠道内菌群的变化一致，还需动物试验进一步验证。
+
+4结论
+
+$\textcircled{1}$ 添加 $1 \%$ 的 SBO、SUC 和 STA极显著降低了肉仔鸡体外盲肠发酵液吲哚浓度，降低幅度分别为 $9 8 . 1 5 \%$ 、 $9 7 . 7 2 \%$ 和 $9 4 . 1 7 \%$ ；添加 $1 \%$ 的 SBO、SUC、STA 和RAF 显著降低了发酵液粪臭素浓度，降低幅度分别为 $7 9 . 0 4 \%$ 、 $7 1 . 8 8 \%$ 、 $7 0 . 2 8 \%$ 和 $6 2 . 4 2 \%$ 。
+
+$\textcircled{2}$ 添加 $1 \%$ 的 SBO显著降低了发酵液菌群均匀度，添加 $1 \%$ 的 SBO及其功能组分显著提高了发酵液菌群丰富度。SBO及其功能组分促进了延长布劳特氏菌、迪氏副拟杆菌、路氏乳杆菌细菌的增殖。
+
+参考文献：
+
+[1]刘国华,蔡辉益,常文环,等.肉鸡环保型日粮生产与应用技术研究进展[J].中国家禽,2015,37(4):40-42.
+
+[2]BEIER R C,ANDERSON R C,KRUEGER N A,et al.Effect of nitroethane and nitroethanol on the production of indole and 3-methylindole (skatole） from bacteria in swine feces by gas chromatography[J].Journal of Environmental Science and Health Part B,2009,44(6):613-620.
+
+[3]JENSEN R L.Feed interventions and skatole deposition[D].Copenhagen,Denmark:University of Co
+
+penhagen,2012:1-18.   
+[4]ZAMARATSKAIA G,SQUIRES E J.Biochemical,nutritional and genetic effects on boar taint in entire male pigs[J].Animal,2009,3(11):1508-1521.   
+[5]张沛.肉仔鸡粪臭素产生的基本规律及与肠道微生物组成的变化关系研究[D].硕士学位论文.沈 阳:沈阳农业大学,2016.   
+[6]胥九兵,刘海玉,李克文,等.高纯度功能性低聚糖的生产及应用[J].精细与专用化学 品,2013,21(4):10-12.   
+[7]COON C N,LESKE K L,AKAVANICHAN O,et al.Effect of oligosaccharide-free soybean meal on true metabolizable energy and fiber digestion in adult roosters[J].Poultry Science,1990,69(5):787-793. [8]LI C Y,LIU J X,WANG Y Z,et al.Influence of differing carbohydrate sources on $L$ -tryptophan metabolism by porcine fecal microbiota studied in vitro[J].Livestock Science,2009,120(1/2):43-50.   
+[9]盛清凯,成建国,赵红波,等.外源 $L$ -色氨酸、果聚糖、酪蛋白对猪粪发酵液粪臭素浓度的影响[J]. 动物营养学报,2014,26(9):2797-2804.   
+[10]YANG G Q,YIN Y,LIU H Y,et al.Effects of dietary oligosaccharide supplementation on growth performance,concentrations of the major odor-causing compounds in excreta,and the cecal microflora of broilers[J].Poultry Science,2016,95(10):2342-2351.   
+[11]侯瑞.菊糖和大豆寡糖对体外条件下肉仔鸡粪臭素产量及肠道菌群的影响[D].硕士学位论文.沈 阳:沈阳农业大学,2015.   
+[12]姚立虎,徐茜.葱酮比色法测食品总糖含量的简化研究[J].食品工业,1992(3):40-42.   
+[13]YOKOYAMA M T,CARLSON J R.Dissmilation of tryptophan and related indolic compounds by ruminal microorganisms in vitro[J].Applied Microbiology,1974,27(3):540-548.   
+[14]ALAM M J,JEONG C D,MAMUAD L L,et al.Bacterial community dynamics during swine in vitro fermentation using starch asa substrate with diffrent feed additivesforodor reduction[J].Asian-Australasian Journal of Animal Sciences,2012,25(5):690-700.   
+[15]赵兴涛,徐桂转,刘杰博,等.气相色谱法测定厌氧发酵液中挥发性脂肪酸的研究[J].河南农业大学 学报,2013,47(5):584-586,591.   
+[16] JENSEN B B,JORGENSEN H.Effect of dietary fiber on microbial activity and microbial gas production in various regions of the gastrointestinal tract of pigs[J].Applied and Environmental Microbiology,1994,60(6):1897-1904.   
+[17]LAN Y,WILLIAMS B A,VERSTEGEN M W A,et al.Soy oligosaccharides in vitro fermentation characteristics and its effect on caecal microorganisms of young broiler chickens[J].Animal Feed Science and Technology,2007,133(3/4):286-297.   
+[18]易中华,朱年华,黎观红,等.肉仔鸡盲肠微生物体外发酵 NDO 和 NSP 的比较研究[J].江西农业大 学学报,2012,34(2):345-350.   
+[19]APAJALAHTI J,VIENOLA K.Interaction between chicken intestinal microbiota and protein digestion[J].Animal Feed Science and Technology,2016,221:323-330.   
+[20]TREMAROLI V,BACKHED F.Functional interactions between the gut microbiota and host metabolism[J].Nature,2012,489(7415):242-249.   
+[21]马曦,韩萌,李德发.猪肠道微生物代谢与思考[C]//中国畜牧兽医学会动物营养学分会第十二次 动物营养学术研讨会论文集.北京:中国农业大学出版社,2016:3-14.   
+[22]LAN Y,WILLIAMS B A,TAMMINGA S,et al.In vitro fermentation kinetics of some non-digestible carbohydrates by the caecal microbial community of broilers[J].Animal Feed Science and Technology,2005,123-124:687-702.   
+[23]MACFARLANE G T,ALLISON C,GIBSON S A W,et al.Contribution of the microflora to proteolysis in the human large intestine[J].Journal of Applied Bacteriology,1998,64(1):37-46.   
+[24]HAYAKAWA K,MIZUTANI J,WADA K,et al.Effects of soybean oligosaccharides on human faecal flora[J].Microbial Ecology in Health and Disease,1990,3(6):293-303.   
+[25]王琪,管倩愣,杨桂芹,等.饲粮添加菊糖对肉仔鸡生长性能、排泄物及肠道主要臭气化合物浓度的 影响[J].动物营养学报,2016,28(12):3875-3884.   
+[26]胡彩虹,俞颂东,许梓荣.猪粪便细菌群作用下 3-甲基吲哚(粪臭素)和吲哚形成的研究[J].中国畜 牧杂志,2002,38(5):10-11.   
+Effects of Soybean Oligosaccharide and Its Functional Components on Skatole Production and Microbiota Composition of Broilers Cecal Contents in Vitro
+
+(College of Animal Husbandry and Veterinary, Shenyang Agricultural University, Shenyang 110866, China)
+
+Abstract: The aim of this study was to investigate the effects of soybean oligosaccharide (SBO) and its functional components on skatole production and microbiota composition of broilers cecal contents in vitro. This experiment used a single-factor completely randomized design,the 42 days of age broiler cecal contents was used as bacterial source,and the anaerobic culture medium was divided into sterile culture bottles, and divided into 5 groups with 3 replicates per group. The control group was added $2 5 0 \mathrm { \textmu m o l / L }$ （20 $L$ -tryptophan, sucrose (SUC), stachyose (STA),raffinose (RAF) and SBO groups were supplemented with $1 \%$ SUC, STA,RAF and SBO on the basis of control group,respectively. In addition, each group also had a blank control group which $L$ -tryptophan was absent and the other components were the same. Microbial suspensions were anaerobically incubated at $3 9 \mathrm { ~ \ ^ ~ { \circ } C }$ for $2 4 \mathrm { ~ h ~ }$ using ANKOM RFS gas production system in vitro. The results showed as follows: 1) the $2 4 \mathrm { ~ h ~ }$ cumulative gas production in fermentation broth in SUC, STA and SBO groups was significantly higher than that in control and RAF groups $( P { < } 0 . 0 1 \$ ). Compared with the control group, the indole concentration in fermentation broth in SBO,SUC,and STA groups was significantly reduced by $9 8 . 1 5 \%$ $9 7 . 7 2 \%$ and $9 4 . 1 7 \%$ ,respectively $( P { < } 0 . 0 1 )$ , and the skatole concentration was significantly reduced by $7 9 . 0 4 \%$ $7 1 . 8 8 \%$ ， $70 . 2 8 \%$ ,respectively $( P { < } 0 . 0 5 )$ . The lactate concentration in fermentation broth in SUC group was significantly higher than that in the other groups $( P { < } 0 . 0 1 )$ ,and $\mathsf { p H }$ in the control group was significantly higher than that in the other groups except for the RAF group $( P { < } 0 . 0 1 )$ ： 2) The microbiota composition in fermentation broth were analyzed by PCR-denatured gradient gel electrophoresis (DGGE), the results showed that the microbiota evenness in fermentation broth in SBO group was significantly lower than that in the control group $( P { < } 0 . 0 5 )$ , and the microbiota richness in SUC, STA, RAF and SBO groups was significantly higher than that in control group $( P { < } 0 . 0 5 )$ . The microbiota similarity in fermentation broth in SBO,STA and RAF groups was higher than that in control group. Three specific bands were present only in experimental groups, the similar strain were Blautia producta, Parabacteroides distasonis, and Lactobacillus reuteri, respectively. In conclusion, under the present experimental condition,addition $1 \%$ SUC,STA,and SBO in broiler cecal contents culture medium significantly decreases the concentrations of indole and skatole by metabolism of $L$ -tryptophan,improves the microbiota richness,and promotes the proliferation of specific bacteria.The effects of skatole reduction are as follows: SBO>SUC>STA. Key words: skatole; soybean oligosaccharide; cecal microbiota; fermentation in vitro; broilers

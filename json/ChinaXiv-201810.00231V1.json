@@ -1,0 +1,350 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM的建筑正向协同设计平台模式研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨新焦柯鲁恒 霍浩彬",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（广东省建筑设计研究院，，广东-广州510010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着计算机处理能力与软件功能开发的逐步完善，建筑工程设计中基于BIM三维设计的相关应用已日渐得以扩展，在体量方案比选、报建及初步设计、各专业内完成自身的施工图设计、三维深化设计出图等均有较为实用的方法。但全过程多专业实现 BIM 的正向协同设计依然举步维艰，原因主要有 BIM模型存储方式无法适应传统设计架构、模型成果无法有效拆分、过分依赖国外 BIM软件无法充分扩展功能等。本文总结了目前设计单位工作架构，分析了从CAD 设计延伸到BIM正向设计的需求与挑战，提出一种以关系型数据库 $^ +$ 模型图纸文件管理器为核心的“数模分离”式 BIM 正向设计平台的架构，采用该架构对设计成果、校审批注、进度控制等非几何信息进行分离式存储管理，之间通过唯一ID 值连接，使几何模型与非几何信息之间结合为有机整体，以实现一体化管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：正向设计；BIM；协同平台中图分类号：TU37；TU17",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Building Collaborative Design Platform Research based on BIM ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Xin, Jiao Ke, Lu Heng, Huo Haobin (Architectural Design and Research Institute of Guangdong Province, Guangzhou 510010, China) Abstract: With the gradual improvement of computer capability and software development, AEC's BIM design ap plications have been gradually expanded:. and eConstruction drawings,-have been completed in the comparison of volume plan, report construction and preliminary design.， -Design, 3D deepening design-and drawing, etc. have m orepractical methods.However,the full-processmulti-professional BIM forward colaborative design is stilldifcu lt, mainly because the BIM-model storage method can-not adapt to the traditional design-arehitecture method，the model results can-not be effectively split, and the excessive dependence on foreign BIM software can-not fuly expand the function. This paper summarized the current working situation,analyzed the requirements and challeng es from CAD design to BIM forward design,and proposes a \"digital-analog_separation\" BIM forward with relatio nal database $^ +$ model drawing file manager as the core. The architecture of the design platform uses the architect ure to perform separate storage management of non-geometric information such as design results， school approval notes,and progress control. The unique ID values are connected to make the geometric model and non-geometric information combined into an organic whole: in order to-Te achieve integrated management. Key Words: BIM; Collaborative design Platform; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在建设项目设计全过程中，工作成果的信息化、沟通协同的实时性、离散成果的合理归类与检索，决定了BIM正向设计应用的效率与成果质量。传统基于CAD的协同设计流程见图1-1，无论采用何种方式，其核心均为对工程文件夹内图纸文件、文本文件进行一定程度的管理，其中可并采用规定统一文件名、图层名称、图纸外参等一系列辅助方式更进一步提高文件协同过程中的规范性与便捷性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但采用该方式时，建筑设计过程中的各类信息仍旧分存在不同CAD文件内对应的图层中，各类功能的二次开发难度极大。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b06334c0b64205b4b6093fc0d53ddcb55dc68df180a0b695ad7f8c3a157d4d96.jpg",
+        "img_caption": [
+            "图1-1基于CAD的两种设计核心流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着BIM的逐步发展，以带参数构件为基本单元作为一个存储整体、模型切图及标注进行图纸表达逐步成为信息化设计的主流。在该方式下，不同的设计人员、校审、负责人由面向图纸转变为面向的，不是离散为点线字符的平面图纸，而是带设计参数的整体模型，整体流程见图1-2。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在这种设计模式下，协同设计平台需要解决的问题，由基于文件架构协同转向了基于构件协同，对数据架构和形式有了更深入的要求。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dddb8c2900694c176b66b8f54a9d5384057e2a6573d14e61347063f031ab3d97.jpg",
+        "img_caption": [
+            "图1-2基于BIM的正向设计核心流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2正向协同设计设计的挑战难点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，设计院推行三维信息化设计过程中，结构专业由于其计算需要，对于整体抗震计算过程中涉及到的抗震计算模型信息已能成熟存储及调用。此后，、对于设备专业 $\\frac { 1 } { 3 }$ 也能对设备系统进行BIM的模型设计、交底、管线综合等工作。对手、建筑专业，能较好的完成本专业的建模与后续的部分辅助分析工作。然而，在对建设项目的整体推进过程中，基本仍无法做到全流程的多专业协同设计，仍以单专业的三维设计为主，以传统的二三维互提资料进行协同，主要原因及挑战主要如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1、三维设计增加的工作量：基于三维设计后，除子二维平面信息外，设计人员还需要人为指定三维信息、空间裁剪关系、构件优先级关系、非几何信息的表达方式等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2、反复修改下的协同流程：传统CAD设计时中，主要依赖设计人员自身的经验，在反复修改过程中，通过在CAD图纸上直接进行问题的标注。，该方式的优点是沟通更为直接有效，当互相参照二维图纸时，可直接查阅对应为位置的批注，沟通直接有效。而当采用三维协同时，则需处理模型中的批注，并能在不同视图中均进行体现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计知识的可重用性、二维与三维成果如何无缝对接：在二维设计过程中，大量具有较强规律性内容，都采用通用大样进行设计说明及描述，。在二维-三维过渡阶段，这类成熟做法大样图，通过何种形式整合在基于BIM的设计模型中也是在推广BIM设计平台的 $$ 大挑战。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3、设计知识的可重用性：目前我国也发布现存大量规范、标准、通用图集、技术措施等一系列措施要求性的设计内容，需要施工技术人员现场再作处理。在采用三维设计后，通常理解为施工技术人员可以不依赖上述的这些内容，依照三维模型即可施工。这对模型的精度和准确性有了非常高的要求，然而在目前相关软件技术手段均无法保证。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4、工作拆分及工作量的有效统计方法：对于中心化存储的设计模型信息，参与者较难以传统CAD图纸拆分与外部参照的方式对工作面及工作内容进行分割，因此如何合理有效的基于BIM进行工作面、工作内容的拆分尤为重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5、技术与企业管理一体化协同：在传统行业推行信息化过程中，以信息化技术改进既有生产方式、提高生产效率、降低错误与返工率等方面均有广泛的研究。而对于建筑行业而言，广泛的参与者、多样化的数据形式、密集的资金投入等，都是其特点，也是推行信息技术的主要挑战。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6、建筑工业化的可扩展性：目前已开展上海、深圳总承包企业编制施工图设计文件的试点。因此，从工程总承包的角度出发，在实际运用BIM正向设计的过程中，需要具有类似制造业工业化的相关做法，例如能与加工系统相匹配、与物料系统相结合的概念及功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述（1)、（3)、4点可通过基于BIM建模平台二次开发进行解决，而（2）、（54）、（65）、（76）点可通过开放通用性的数据协同平台进行解决。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3正向协同平台的基本功能需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对手通用数据协同平台的架设，既需要满足数据来源广泛而准确，且需在协同迭代过程中，保证各来源数据的一致性。，具体应用过程中有以下需求：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1、基于模型的设计信息协同方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于建筑工程的复杂性，目前较为成熟的BIM建模平台均由专业软件公司开发，如Autodesk的Revit等。而对手设计单位而言，均基于现有Revit平台的进行协同设计。在此过程中，通常只需要适度定制部分功能，系统过程大体与CAD的外部参照类似，Revit中通常采用链接模型、工作集这两种方式进行设计模型的协同。这两种方式均依托文件服务器，可对模型文件进行合理拆分后，互相参照进行三维协同。而对于同 $$ 个专业内的不同设计人员，也可同时直接编辑同 $$ 个模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2、文件各阶段的文件管理器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于CAD平台的协同设计较为成熟，主要有慧智、炜衡等。该功能核心为为弥补各类建模软件对于文件权限、文件版本、文件归档等相关功能的不完善，需采用二次开发完善设计平台因此提供定制化虫的文件管理器的相关功能。在对基于Revit平台进行协同时，由于模型拆分的不确定性，目前仍未有成熟的项目模型架构管理平台，仅依赖统一命名方式进行模型、族的管理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3、项目构件级的权限管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在较大型项目中，参与专业众多，以往CAD平台可根据CAD图纸文件，对各专业的工作内容、工作阶段进行带权限的管控。而当采用基于BIM平台进行协同设计时，如何处理好不同角色在模型中可操作的区域系统尤为重要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4、一校两审、项目ISO管理、归档方式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在设计过程中，每个设计成果均需要经过校对、审核、审定后，方可正式归档及下发。在以往CAD协同平台中，通过不同的DWG文件能对设计成果进行批注处理后，生成符合出图归档要求的打图文件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5、技术与企业管理一体化协同",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "随着建筑产业化的逐步深入，设计、施工一体化也展开试点，在推行过程中，BIM正向设计平台需与企业管理平台进行一体化整合，设计信息、设计过程信息、统一技术标准、经营管理等各类信息需要能在设计过程中实时与构件加工、现场情况得以同步。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4主流BIM及协同平台对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前主流的BIM设计平台有以下5个，其侧重点及数据协同功能见表4-1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1、AutuodeskAutoCAD，基于平面图的外部参照进行协同，即俗称的“叠图”，此后通过人工校审对不同专业的设计成果进行协同校对等工作。  \n2、AutodeskRevit，可采用基于工作集的协同，在文件服务器中设置中心文件，各设计人员存储本地文件，通过工作集共同对模型进行编辑修改等操作。对于多专业协同，同样采用模型链接的方式进行校对。  \n3、Bently Microstation（ProjectWise），有较完善的协同功能，采用Web 端浏览与批注。  \n4、TrimbleTekla，该软件主要用于钢结构构件、节点的深化设计，对于构件深化加工功能较强，但协同功能较弱。  \n5、ArchiCAD，主要用于建筑单专业的全流程设计，在建模、出图、协同中功能较强，但对于结构、设备等其他专业的应用较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0155a1144c86058867d83d3758315947b98227703c95dd78850d78aaef0151b.jpg",
+        "table_caption": [
+            "表4-1各BIM平台协同功能汇总"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">功能</td><td>AutoC AD</td><td>Revit</td><td>Microstati on</td><td>Tekla</td><td>Archi CAD</td></tr><tr><td colspan=\"2\">功能 侧重</td><td>二维 图纸 设计</td><td>民用建筑</td><td>基础设施</td><td>钢结构 深化</td><td>建筑 方案</td></tr><tr><td>二</td><td>难</td><td>容易</td><td>容易，限制</td><td>难,较为开</td><td>较难</td><td>较难</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d8ab78e4660676ab941967959a769ed7945e9978eb3bb3be74dca0aba72a2c3a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>次度</td><td></td><td>较多</td><td>放</td><td></td><td></td></tr><tr><td>开数 发量</td><td>多，成 熟</td><td>多，较成熟</td><td>少，内部应 用</td><td>少</td><td>少</td></tr><tr><td colspan=\"2\">数据 中心</td><td>无</td><td>基于模型 速度慢</td><td>基于数据 库，速度快</td><td>基于模 型</td><td>基于 模型</td></tr><tr><td colspan=\"2\">协同 功能</td><td>无</td><td>有，较弱</td><td>有，需二次 开发</td><td>无</td><td>有,较 弱</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，Microstation 本身就独立提供多终端的 ProjectWise协同平台，且由于Microstation平台底层数据架构的效率优势，在基础设施行业，得到深入的开发，如华东院利用Microstation进行二次开发后进行三维协同设计已十分成熟[3]。而Revit平台凭借完善的建模、族、界面友好、操作便捷等优势，在民用建筑领域应用广泛，各类二次开发小工具完善[1][4][7]，但协同主要依赖模型拆分、工作集，缺乏成体系的协同设计平台，基于RVT模型文件进行数据存储的效率也较低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5协同平台的技术架构与功能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从技术层面而言，受制于BIM相关平台开发规模较大、构件类型与数据关系复杂，目前建模及操作软件均基于上述5套软件，并在其基础上进行二次开发实现各类扩展功能。然而，传统正向设计过程中的不少关键流程实现方式，如图纸管理、校对批注、自动出图及归档、详细的权限控制等功能，均无法直接在BIM平台进行实现。因此，如何合理高效切合现有BIM核心软件，、并通过二次开发、通过内外部数据交互，使得BIM管理与企业生产经营管理有机结合，是推行协同平台的关键。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主流数据存储方式分为文件存储与关系型数据库存储，其中，文件服务器为传统的设计协同方式，即对工作中的模型文件、图纸文件、文本文件存储于共享的文件服务器中，并根据特定的权限需求，给予不同设计人员调用、查看、编辑、出图等操作；而基于关系型数据库存储时，则是将所有参数化数据以关系型数据存储于不同分类的“表\"中，通过程序预处理后直接对表中的字段进行增删、修改、排序、统计等数据库操作，架构形式见图5-1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在该协同模式核心为“数模分离”，即在如Revit等BIM 建模平台中，进行几何模型及加工模型的建模、调整、出图等操作，并记录其构件对应的ID值。而在正向设计平台中，可对该ID值进行跟踪，并在独立的数据库中，对版本、状态等信息进行单独存储，以实现校对、审核审定、工作量统计等功能。通过ID值关联，当仅对构件的非几何属性（如批注、状态参数、强度属性）进行编辑时，仅修改MySQL数据库中相应键值，而不对具体Revit模型中的参数进行修改，能极大降低",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Revit运算强度复杂度，提高BIM模型设计效率，同时也能满足项目设计深度、设计成果一致性、批量校核等要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a23c7c9f43a283eae08c885ee0537befc609dc3555dd784fa4187a6152126b4c.jpg",
+        "img_caption": [
+            "图5-1BIM正向协同平台体系架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/82d413966393c88e8e1ac0643f1133716c8843a19702efccbce39eacdec4a39c.jpg",
+        "img_caption": [
+            "图5-2BIM平台架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "常规设计单位在对设计管理过程中的相关工作，主要分为以下四五个部分：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1、数据终端：基于BIM的正向设计过程中，包含Revit模型文件、CAD大样图、文本及计算书",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、设计端：包含设计信息协同、提资的收发、模型构件信息的协同。  \n3、经营管理端：用于确定项目定位、人员分配、进度计划、财务管理等内容。  \n4、质量管理端：用于各项目一校两审的批注处理、各项目常见问题总结、质量相关的数据统计。  \n5、图档管理端：用于图纸归档，查询，打图等操作，可跟晒图公司对接。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合上述工作架构，基于BIM架设的正向设计平台的典型结构见图5-2，该架构中，数据层分别对二三维模型文件、构件非几何数据分别存储，通过中间层完成整合后，在应用层提供统一的功能，避免工作过程中反复调用不同的软件、平台，造成数据的不一致。基于该模式，作者此前已完成装配式建筑的轻量化协同管理平台[2]，能高效完成各项定制化的数据处理查询功能，见图5-3，在广州市白云区某保障性住房的装配式设计过程中，对构件的设计阶段、版本进度进行控制，能有效保证设计成果与加工图纸的一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f58a4a21a79e4002e634243cd7b429c4f80966556789c896ccb28f13d8bb3e59.jpg",
+        "img_caption": [
+            "图5-3基于数模分离平台的工程案例"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6总结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在传统CAD协同设计的基础上分析了BIM正向设计流程的需求，如基于模型的协同、文件管理、权限构件管理、非几何信息的存储、一校两审的需求，并对现有设计单位协同设计架构、BIM设计需求、相关平台实现功能进行对比分析，提出了基于关系型数据库 $+$ 文件服务器方式进行数模分离的正向设计协同管理平台的架构。该方法能使现有的模型文件协同方式与信息化的协同方式相结合，通过唯一ID值保证了数据的一致性，避免了建模软件、协同平台、企业管理系统、通信软件之间的重复工作，。基于该模式，作者此前已完成装配式建筑的轻量化协同管理平台，能高效完成各项定制化的数据处理查询功能，后续可基于该架构，指导正向BIM协同设计平台的开发完善。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]焦柯，杨远丰，周凯旋等．基于BIM的全过程结构设计方法研究[J]．土木建筑工程信息技术，2015，7(5)：1-7.[2]杨新,焦柯.基于BIM的装配式建筑协同管理系统GDAD-PCMIS的研发及应用[J].土木建筑工程信息技术,2017,9(03):18-24.[3]陈健,李鹏祖,王国光,蒋海峰.水电工程枢纽三维协同设计系统研究与应用[J].水力发电,2014,40(08):10-12+100.[4]焦柯，杨远丰.BIM结构设计方法与应用[M].广州:中国建筑",
+        "page_idx": 3
+    }
+]

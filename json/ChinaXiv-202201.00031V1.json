@@ -1,0 +1,518 @@
+[
+    {
+        "type": "text",
+        "text": "2010\\~2020中国内地小学生心理健康问题检出率的元分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄潇潇」张亚利」俞国良2(中国人民大学教育学院;²中国人民大学心理研究所,北京100872)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要我国小学生心理健康问题的检出率莫衷一是，为整合调查结果并分析其原因，对2010\\~2020 年来检索到的相关研究进行了元分析。结果显示：(1)小学生心理健康问题的检出率由高到低依次是睡眠问题 $( 2 5 . 2 \\%$ $9 5 \\% C \\mathrm { I } = [ 0 . 1 6 0 , 0 . 3 7 3 ] )$ 、抑郁 $( 1 4 . 6 \\%$ $9 5 \\% C \\mathrm { I } = [ 0 . 1 2 0$ 0.175])、焦虑( $12 . 3 \\%$ $9 5 \\% C \\mathrm { I } = [ 0 . 0 6 3 , 0 . 2 2 7 ] )$ 、攻击行为 $( 4 . 1 \\% , 9 5 \\% \\mathrm { C I } = [ 0 . 0 1 7 , 0 . 0 9 9 ] )$ 、退缩 $( 3 . 8 \\%$ $9 5 \\% C \\mathrm { I } = [ 0 . 0 2 3 , 0 . 0 6 2 ] )$ 、违纪行为 $( 3 . 7 \\%$ ， $9 5 \\% C \\mathrm { I } = [ 0 . 0 1 8 , 0 . 0 7 3 ] )$ 、躯体化 $( 3 . 6 \\% ,$ $9 5 \\% C \\mathrm { I } = [ 0 . 0 1 7 , 0 . 0 7 3 ] )$ 。(2)测量工具、检出标准、检出时间是导致小学生心理健康问题检出率不一致的关键因素。总体而言，我国小学生除了睡眠问题、抑郁和焦虑检出率偏高外，整体心理健康状况尚可。未来应开发适合中国小学生的心理健康状况测评工具及检出标准，为心理健康问题的预防和精准干预提供支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词小学生；心理健康问题；检出率；元分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着我国社会经济的快速发展，竞争日益加剧，使得人们常常在人际交往、社会适应等方面产生心理困扰。近来研究发现，心理健康问题已逐渐从成人波及到青少年、儿童，呈现“低龄化”趋势(杜柏玲，2016；余欣欣等，2019)。据 2020 年世界卫生组织估计，个体约 $50 \\%$ 的心理问题出现在14岁前，即小学阶段。小学生正处于身心快速发展之际，是自我意识、人格成长、个性形成的关键时期，其心理健康状况严重影响着学业成就与个体幸福感。因而，若小学生心理健康问题未能得到及时筛查、预防和干预，有可能发展为终生心理疾病，难以矫正治疗。为此，作为改善与提升小学生心理健康的基本前提，摸清小学生心理健康问题检出率，从而了解小学生心理健康真实状况，以便日后针对性的检测和干预就显得尤为重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "尽管目前有关小学生心理健康问题检出率的文章并不少见，但报告的检出率因研究设计、测量工具、地区和样本量的不同而有很大差异。如赵玖(2010)调查出有异常心理问题倾向的小学生占 $2 5 . 6 3 \\%$ ，而张柳和荆玉梅(2019)则发现其心理健康问题检出率仅为 $7 . 9 \\%$ 因而我国小学生心理健康问题检出率仍然众说纷纭，未有定论。近来，元分析方法的出现和成熟为解决该问题提供了可能。它通过定量手段整合已有研究，不仅可以判别小学生心理健康问题的数量、检出比例和分布特征等，还能整体把握小学生心理健康总体动向和趋势。近年来，已有个别研究利用元分析估计了小学生个别心理健康问题的检出率，如Li等(2019)发现小学生抑郁症状检出率为 $1 7 . 5 \\%$ 。然而，既有元分析仍存在不足之处。首先，仅揭示了部分心理健康问题(如抑郁、焦虑)的检出率，并没有涵盖更为全面的心理健康问题;其次，未针对性地分析近10年来的心理健康问题。快速的社会变化是影响心理健康水平的重要因素，近10年来我国经济、文化等各领域都产生了巨大变迁，因而小学生心理健康状况也可能发生变化。最后，对调节变量的纳入和探讨不够具体。因此，立足于近10年来研究成果，采用元分析方法整合小学生心理健康问题检出率并探讨其影响因素是十分必要的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究主要目标是：(1)利用元分析总结 2010\\~2020 年有关小学生心理健康问题的检出率。根据皮亚杰的认知发展理论，小学生处于具体运算阶段，其情感、社会性发展、认知发展三者并行发展，都具有从“自我中心”向“脱自我中心”转移的特点(刘国雄，张丽锦，2010)，即将他人作为认知、情感对象。这也就表明，小学生的情感复杂性以及社会化程度都将随着步入学校生活而开始飞速提高。因而，小学生的心理健康问题尤其是情绪情感问题、社会行为问题应受到广泛关注。由于涉及到的心理健康问题繁多，无法覆盖全部指标，故本研究主要借鉴 Achenbach(1966)提出的儿童青少年心理病理性问题两分法，关注内化问题(包括焦虑、抑郁、躯体化、退缩、睡眠问题)和外化问题(包括攻击行为、违纪行为)。(2)考察调节变量对小学生心理健康问题检出率的影响。具体来说，将从出版年代、测量工具、检出时间、性别、区域、年级、独生与否、生源地等方面讨论调节变量的作用，试图全面展现小学生心理健康问题检出率状况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1文献检索与筛选 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究中所包括的心理健康问题指标较多，因而检索过程是根据不同心理健康问题独立开展的。与既有类似研究不同的是，为了更加全面的纳入文献，避免纳入偏倚的出现，本研究还尽可能地检索了未发表的文献。另外，在检索时对于关心的特定学生群体也未加限定，而是在全面检索之后，再进行筛选。中文使用的是中国知网期刊全文数据库、硕博论文数据库，英文使用的是WebofScience核心合集数据库，检索范围设定为摘要。在中文数据库检索时，焦虑需包含关键词“焦虑”和“检出率”；抑郁需包含关键词“抑郁”和“检出率”；躯体化需包括关键词“躯体化”或“躯体主诉”和“检出率”；退缩需包括关键词“退缩”和“检出率”；睡眠问题需包括关键词“睡眠问题”或“睡眠障碍”或“失眠”和“检出率”；攻击行为需包括关键词“攻击”或“欺负”和“检出率”；违纪行为需包括关键词“违纪”和“检出率”。在英文数据库检索时，焦虑需包含关键词“anxi\\*”and“prevalence”or“detection rate”and“Chin\\*”；抑郁需包含关键词“depress\\*”and“prevalence”or“detection rate”and“Chin\\*”；躯体化需包括关键词“somati\\*”and“prevalence”or“detection rate”and“Chin\\*”；退缩需包括关键词“withdrawal”and“prevalence”or“detection rate”and“Chin\\*”；睡眠问题需包括关键词“sleep”or“insomnia”and“prevalence”or“detection rate”and“Chin\\*”；攻击行为需包括关键词“aggress\\*”or“bully\\*” and“prevalence”or“detection rate” and“Chin\\*”；违纪行为需包括关键词“disciplin\\*”and“prevalence”or“detection rate”and“Chin\\*”。检索时间段为2010年1月1日至2020年12月31日。共获取文献：焦虑3126篇，抑郁 3844篇，躯体化551篇，退缩167篇，睡眠问题1255篇，攻击行为469篇，违纪行为126篇。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于搜索到的文献，利用 EndNote X9 软件导入，按照如下标准筛选：(1)文献需为实证研究且为一手资料，纯理论及综述性研究将被排除。(2)报告了检出率或能够计算检出率的必要信息，对数据不清晰或存在明显错误且无法进行修正的研究予以删除。(3)必须对测量工具有明确介绍。(4)同一批数据重复发表的仅取其一。(5)研究对象为中国小学阶段或对应年龄段(6\\~12 岁)学生。(6)研究对象非特殊人群，如学困小学生、听力障碍儿童等。文献筛选过程先由1位博士生完成，最后按心理健康指标分配给三位博士生随机抽取 $10 \\%$ 对剔除文献和保留文献进行核查，出现不一致结果需要与最初文献筛选者协商解决。最终纳入的文献包括：焦虑9篇，抑郁 34篇，躯体化12篇，退缩 10篇，睡眠问题11篇，攻击行为13 篇，违纪行为12篇。文献纳入流程如下图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f34b3127383e19195eed3cfebec54d9bea7a8116543b093bbc676df2431611b.jpg",
+        "img_caption": [
+            "图1文献纳入流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2文献编码",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对纳入的每项研究根据以下特征进行编码：文献名、第一作者、发表年份、是否发表、取样地区、被试数、被试平均年龄、测量工具、检出标准、检出时间、检出率。除了录入总检出率外，还将其它分组报告结果(包括性别、年龄、生源地等)录入到该项研究的子数据库中。文献编码先由一位博士生完成，完成后再由另一位博士生对照原文核查。若核查出与原文不一致的情况，经过讨论后将对数据进行更正。最终纳入文献的详细信息均可开放获取(https://osf.io/7uewg/)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3出版偏倚控制与检验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "出版偏倚是指具有统计学意义的研究结果比无统计学意义的结果更容易出版(Kuppenset al.,2013)。因此，仅检索已经发表的文献将无法代表整个领域的研究现状。为了尽量避免出版偏倚问题，本研究除了纳入发表文献外，还检索了未公开发表的硕博论文。此外，本研究还将采用漏斗图(Funnel plot)和 Kendall 等级相关检验检验是否存在出版偏倚。于漏斗图而言，由于样本数量增加会导致数据的随机变化减小，因此，如果研究不存在明显的发表偏倚，则图形将呈现一个倒漏斗状对称分布；于Kendall等级相关检验而言，其 Tau 值(Kendall's tau)表示效应值与其标准差的相关程度，不显著则表明出版偏倚较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4模型选择 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，在元分析中，估计总体效应值的方法主要有固定效应模型和随机效应模型，其区别是代表的权重成分不同。具体而言，固定效应模型假设，在所有原始研究中得出的测量结果由相同的真值和随机误差两部分组成，而每个效应量的不同则全部是由抽样误差造成。相反，随机效应模型则假设，研究测量的结果由真值、系统误差和抽样误差三部分组成，每个测量结果的差异除了受抽样误差影响之外，还受不同种类的系统误差影响，比如测量工具、检出标准等。从文献编码过程中可以发现，研究中所包含分组报告的结果不尽相同，因而此时选择随机效应模型将比固定效应模型更为合理。除此以外，本研究还将通过 $\\varrho$ 检验结果以及 $I ^ { 2 }$ 值两个指标进行异质性检验，以查看该模型选择的适切性。根据Higgins 等(2003)的观点，如果 $\\varrho$ 检验结果显著或 $I ^ { 2 }$ 的值高于 $7 5 \\%$ ，说明在本研究中，相较固定效应模型，选择随机效应模型更加合适。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究采用 CMA3.3 软件(Comprehensive Meta-Analysis Version 3.3)进行小学生心理健康问题检出率的元分析，包括总体检出率估计和调节变量的检验。计算合并检出率时，CMA 软件会将输入的比率数据转化为 logit 数据[logit=Log(p/(1-p))]进行分析 $\\begin{array} { r l } { \\mathrm { ( v a r ( l o g i t ) = } } & { { } } \\end{array}$ case+ non_case），并在分析完成后将logit结果再次转换为比率数据输出(Card,2012)。调节变量的分析主要采用两种形式：(1)当调节变量为连续变量时，采用元回归分析考察结果是否显著；(2)当调节变量为分类变量时，采用亚组分析检验结果是否显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1文献纳入情况 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究中，(1)焦虑共纳入研究9篇(9 个效应值，12691名被试)，均为期刊论文；(2)抑郁共纳入研究34篇(34个效应值，94926名被试)，包括硕博论文8篇，期刊论文26篇；(3)躯体化共纳入研究12篇(12个效应值，41588名被试)，包括硕博论文3篇，期刊论文9篇;(4)退缩共纳入研究10篇(10个效应值，37533名被试)，包括硕博论文4篇，期刊论文6篇;(5)睡眠问题共纳入研究11篇(11个效应值，17437 名被试)，包括硕博论文1篇，期刊论文10 篇；(6)攻击行为共纳入研究13篇(13个效应值，46042名被试)，包括硕博论文6篇，期刊论文7篇；(7)违纪行为共纳入研究12篇(26个效应值，39159 名被试)，包括硕博论文3篇，期刊论文9篇。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2异质性检验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "异质性检验结果见表1。各心理健康问题指标的 $\\varrho$ 值均显著，且 $\\ I ^ { 2 }$ 值均超过了 $7 5 \\%$ 的标准，表明随机效应模型的选取是恰当的。该结果也提示不同研究间的估计值差异可能受到了一些研究特征因素的干扰，可进行调节变量的效应分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3主效应检验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用随机效应模型，分别对纳入的小学生心理健康问题检出率进行分析，结果显示：(1)焦虑的检出率为 $12 . 3 \\%$ ； (2)抑郁的检出率为 $14 . 6 \\%$ ；(3)躯体化的检出率为 $3 . 6 \\%$ ； (4)退缩的检出率为 $3 . 8 \\%$ ； (5)睡眠问题的检出率为 $2 5 . 2 \\%$ ；(6)攻击行为的检出率为 $4 . 1 \\%$ ； (7)违纪行为的检出率为 $3 . 7 \\%$ (表1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d81e70032c90ebf1499dd611658349ed763fc4785ee89462de40c5ff2d92e949.jpg",
+        "table_caption": [
+            "表1小学生心理健康问题的检出率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">心理健康问题种类</td><td rowspan=\"2\">k</td><td rowspan=\"2\">被试数</td><td colspan=\"3\">效应值及95%的置信区间</td><td rowspan=\"2\"></td><td colspan=\"2\">异质性检验</td></tr><tr><td>检出率</td><td>下限</td><td>上限</td><td>P</td><td>p</td></tr><tr><td>焦虑</td><td>9</td><td>12691</td><td>0.123</td><td>0.063</td><td>0.227</td><td></td><td>99.149</td><td><0.001</td></tr><tr><td>抑郁</td><td>34</td><td>94926</td><td>0.146</td><td>0.120</td><td>0.175</td><td></td><td>99.154</td><td><0.001</td></tr><tr><td>躯体化</td><td>12</td><td>41588</td><td>0.036</td><td>0.017</td><td></td><td>0.073</td><td>99.412</td><td><0.001</td></tr><tr><td>退缩</td><td>10</td><td>37553</td><td>0.038</td><td>0.023</td><td>0.062</td><td></td><td>98.642</td><td><0.001</td></tr><tr><td>睡眠问题</td><td>11</td><td>17437</td><td>0.252</td><td>0.160</td><td>0.373</td><td></td><td>99.505</td><td><0.001</td></tr><tr><td>攻击行为</td><td>13</td><td>46042</td><td>0.041</td><td>0.017</td><td>0.099</td><td></td><td>99.728</td><td><0.001</td></tr><tr><td>违纪行为</td><td>12</td><td>39159</td><td>0.037</td><td>0.018</td><td></td><td>0.073</td><td>99.310</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为说明主效应检验结果的稳健性，敏感性分析发现，在排除任意一个样本后，焦虑的总体检出率在 $1 1 . 1 \\% \\sim 1 5 . 1 \\%$ 之间浮动；抑郁的总体检出率在 $1 3 . 3 \\% \\sim 1 4 . 6 \\%$ 之间浮动；躯体化的总体检出率在 $2 . 9 \\% \\sim 4 . 1 \\%$ 之间浮动；退缩的总体检出率在 $3 . 2 \\% \\sim 4 . 2 \\%$ 之间浮动；睡眠问题的总体检出率在 $2 1 . 7 \\% { \\sim } 2 9 . 1 \\%$ 之间浮动；攻击行为的总体检出率在 $3 . 6 \\% \\sim 4 . 7 \\%$ 之间浮动，违纪行为的总体检出率在 $3 . 0 \\% \\sim 4 . 2 \\%$ 之间浮动，均与各自的总体估计值相差不大，说明元分析估计结果具有较高稳定性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4调节效应检验 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "就焦虑而言，如表2所示，调节效应检验发现：(1)出版年代的调节效应不显著 $\\langle b = 0 . 0 4$ 95%CI=[-0.12,0.21])，说明近10 年来焦虑问题的检出率无显著变化；(2)测量工具和标准的调节效应不显著，虽然使用不同的工具及筛查标准其焦虑检出率有所差别，但差异并不显著。(3)检出时间的调节作用显著，3个月的检出率显著大于1周的检出率，表明检出时间可能是焦虑检出率高低的重要因素。(4)区域的调节作用不显著。东部、中部、西部的焦虑检出率无明显差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d302bfd4101ae40c3e800affd887aa00ac1582955a448e58fde52330b5ad7d4.jpg",
+        "table_caption": [
+            "表2焦虑检出率的调节效应分析"
+        ],
+        "table_footnote": [
+            "注：Conners 为 Conners 父母症状问卷(Conners，1969)；SCARED23 为儿童焦虑性情绪障碍筛查表(Birmaher et al.,1997)；SCARED22修订为陈洁琼(2012)修订的儿童焦虑性情绪障碍筛查表。工具后的数字为检出标准，下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"2\">异质性检验</td><td rowspan=\"2\"></td><td rowspan=\"2\">k检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td>QB df</td><td>类别</td><td>下限</td><td>上限</td></tr><tr><td rowspan=\"3\">测量工具+检出标准2.669</td><td></td><td></td><td>Conners</td><td>2 0.085</td><td>0.021</td><td>0.293</td></tr><tr><td>2</td><td>0.263 SCARED23</td><td></td><td>2 0.146</td><td>0.037</td><td>0.432</td></tr><tr><td></td><td></td><td>SCARED22</td><td>2 0.345</td><td>0.106</td><td>0.701</td></tr><tr><td rowspan=\"3\">检出时间</td><td></td><td>0.001</td><td>1周</td><td>2 0.038</td><td>0.015</td><td>0.093</td></tr><tr><td>11.986 1</td><td></td><td>3个月</td><td>4 0.231</td><td>0.138</td><td>0.361</td></tr><tr><td></td><td></td><td>东北</td><td>1</td><td></td><td></td></tr><tr><td rowspan=\"3\">区域</td><td></td><td></td><td>东部</td><td>2 0.077</td><td>0.012</td><td>0.255</td></tr><tr><td>0.169 2</td><td>0.919</td><td>西部</td><td>3 0.110</td><td>0.027</td><td></td></tr><tr><td></td><td>中部</td><td></td><td>3 0.120</td><td>0.029</td><td>0.360 0.383</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "就抑郁而言，如表3所示：(1)出版年代的调节效应不显著 $\\mathit { b } = 0 . 0 1$ ,95%CI=[-0.07,0.10]),说明近10年来抑郁检出率虽然有上升趋势，但变化不明显；(2)测量工具的调节效应显著。不同工具和标准测得检出率在 $5 . 7 \\% { \\sim } 1 7 . 4 \\%$ 之间，CBCL 测得的检出率最低，CESD 测得的检出率最高。(3)检出时间的调节效应显著。6个月的检出率最低，1周的检出率最高，此倒挂现象可能与采用的测量工具有关。(4)性别的调节作用不显著，仅呈现男高女低的倾向。(5)独生与否的调节作用不显著。(6)年级的调节作用不显著，但四年级至六年级的检出率随年级增加呈现递减趋势。(7)生源地和区域的调节作用不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d893e8abc4e228b497650e60568087da596fb8205c37fd210a56456281e7b25e.jpg",
+        "table_caption": [
+            "表3抑郁检出率的调节效应分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"2\">异质性检验</td><td rowspan=\"2\">类别</td><td rowspan=\"2\">k</td><td rowspan=\"2\">检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td>QB dfp</td><td></td><td></td><td>下限 上限</td></tr><tr><td rowspan=\"3\"></td><td></td><td></td><td>CBCL</td><td>5</td><td>0.057</td><td>0.034 0.094</td><td></td></tr><tr><td>测量工具16.458 4 0.002CDI</td><td></td><td></td><td>16</td><td>0.165</td><td></td><td>0.130 0.206</td></tr><tr><td></td><td></td><td>CESD</td><td>6</td><td>0.174</td><td></td><td>0.1190.249</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/811629dd7f2bcb8e4c6ea374e9ad3ecefba256960dde1c459bbb32a3eb1fb2bb.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：CBCL 量表为 Achenbach 儿童行为量表(Achenbach& Edelbrock,1979)；CDI为儿童抑郁量表(Kovacs,1992)；CESD 为流调中心抑郁量表(Radloff,1997)；DSRSC为儿童抑郁自评量表(Birleson,1981);MFQ 为情绪问卷(Wood,et al.,1995)。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"></td><td>4 0.160 2 0.171</td><td>0.099 0.250 0.086 0.309</td></tr><tr><td rowspan=\"3\">检出时间9.702</td><td rowspan=\"3\"></td><td>MFQ 1周</td><td>13 0.192</td><td></td><td>0.146 0.249</td></tr><tr><td>20.0082周</td><td>15</td><td>0.147</td><td>0.112 0.190</td></tr><tr><td>6个月</td><td>5</td><td>0.057</td><td>0.033 0.097</td></tr><tr><td rowspan=\"2\">性别</td><td>0.389 1</td><td>男生 0.533 女生</td><td>17 17</td><td>0.109 0.096</td><td>0.082 0.144</td></tr><tr><td>独生</td><td></td><td></td><td></td><td>0.096 0.127</td></tr><tr><td>独生与否</td><td>2.509 1</td><td>0.113 非独生</td><td>3 3</td><td>0.117 0.187</td><td>0.075 0.177 0.124 0.271</td></tr><tr><td rowspan=\"3\">年级</td><td>0.030</td><td>四年级 0.985</td><td>6</td><td>0.194</td><td>0.130 0.279</td></tr><tr><td>2</td><td>五年级</td><td>6</td><td>0.187</td><td>0.124 0.272</td></tr><tr><td></td><td>六年级</td><td>7</td><td>0.186</td><td>0.128 0.262</td></tr><tr><td rowspan=\"2\">生源地</td><td>0.012</td><td>1 0.913</td><td>城镇</td><td>5 0.082</td><td>0.023</td><td>0.255</td></tr><tr><td rowspan=\"2\"></td><td>农村</td><td>5</td><td>0.090</td><td>0.025</td><td>0.276</td></tr><tr><td rowspan=\"2\"></td><td>东北</td><td></td><td></td><td>1 1</td></tr><tr><td colspan=\"2\">东部 2 0.157 西部</td><td>9</td><td>0.108 10 0.181</td><td>0.069 0.167 0.121 0.263</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "就躯体化而言，如表 4 所示：(1)出版年代的调节效应不显著 $( b = - 0 . 0 4$ ， $9 5 \\% C \\mathrm { I } = [ - 0 . 2 3$ 0.15])，说明近10 年来躯体化的检出率虽有下降趋势，但变化不显著；(2)检出标准的调节作用显著。依据中国常模标准化的CBCL6量表，其躯体化检出率显著大于CBCL98量表。(3)虽然男生的躯体化检出率稍高，但性别的调节作用不显著。(4)区域的调节效应不显著，表明东部、中部、西部地区的躯体化检出率无显著差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/38b42687bbda9ec33e4074fb26987f425b47adde3761768d26d77e815a2727cc.jpg",
+        "table_caption": [
+            "表4躯体化检出率的调节效应分析"
+        ],
+        "table_footnote": [
+            "注：CBCL98代表该量表分数超过第98百分位即被认为异常；CBCL6为忻仁娥与张志雄(1992)根据全国22个省市的青少年儿童所作的Achenbach儿童行为量表标准化分类，超过6分则为异常，下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"3\">异质性检验</td><td rowspan=\"2\"></td><td rowspan=\"2\">k检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td></td><td>QBdfp</td><td>类别</td><td>下限</td><td>上限</td></tr><tr><td rowspan=\"2\">测量工具+检出标准 12.898 1 <0.001</td><td></td><td></td><td></td><td>CBCL98</td><td>6 0.015</td><td>0.009</td><td>0.026</td></tr><tr><td></td><td></td><td></td><td>CBCL6</td><td>5 0.063</td><td></td><td>0.0360.108</td></tr><tr><td rowspan=\"2\">性别</td><td>0.022</td><td>1</td><td>0.883</td><td>男生 女生</td><td>8</td><td>0.033</td><td>0.012 0.089</td></tr><tr><td></td><td></td><td></td><td>8</td><td>0.029</td><td></td><td>0.0100.080</td></tr><tr><td rowspan=\"3\">区域</td><td rowspan=\"3\">5.076</td><td rowspan=\"3\">2 0.079</td><td>东北</td><td></td><td>一</td><td></td><td></td></tr><tr><td></td><td>东部 6</td><td>0.025</td><td>0.012</td><td>0.052</td></tr><tr><td>西部</td><td>2 中部 3</td><td>0.045 0.107</td><td>0.038</td><td>0.0120.152 0.269</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "就退缩而言，如表5所示，调节效应检验发现：(1)出版年代的调节效应不显著 $( b =$ 0.008, $9 5 \\% C [ = [ - 0 . 1 3 , 0 . 1 4 ] )$ ，说明近10 年来检出率虽有上升趋势，但变化不明显；(2)检出标准的调节效应不显著。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0bc556eba2f6d381cdcb37a46f321b826be471729189c0eedaf0f3aeac4ac567.jpg",
+        "table_caption": [
+            "表5退缩检出率的调节效应分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"2\">异质性检验</td><td rowspan=\"2\">类别</td><td rowspan=\"2\">k检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td>QB</td><td>df p</td><td>下限</td><td>上限</td></tr><tr><td>测量工具+检出标准 1.3871 0.239</td><td></td><td></td><td>CBCL98 CBCL6 4</td><td>6 0.030 0.055</td><td></td><td>0.016 0.056</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "就睡眠问题而言，如表6所示：(1)出版年代的调节效应不显著 $\\langle b = - 0 . 1 3$ $9 5 \\% C \\mathrm { { C I = } } [ - 0 . 2 7 ]$ 0.01])，说明近10 年来虽然睡眠问题检出率随年份有下降趋势，但变化不显著。(2)测量工具的调节效应不显著，CSHQ的检出率虽然大于PSQI，但两者之间的差别并不明显。(3)检出时间的调节效应不显著。(4)性别的调节效应不显著，仅呈现男高女低的倾向。(5)区域的调节效应不显著。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a37d2e2f615a288e0559f57f53bde717db6ee709cd416a892d833936ba86c393.jpg",
+        "table_caption": [
+            "表6睡眠问题检出率的调节效应分析"
+        ],
+        "table_footnote": [
+            "注：PSQI为匹兹堡睡眠指数量表(Buysse et al.,1989)；CSHQ为儿童睡眠习惯问卷(Owens et al.,2000)。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"2\">异质性检验</td><td rowspan=\"2\"></td><td rowspan=\"2\">k 检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td>QB df p</td><td>类别</td><td></td><td>下限 上限</td></tr><tr><td rowspan=\"2\">测量工具 2.922 1 0.087</td><td></td><td>PSQI</td><td>3</td><td>0.208</td><td>0.087 0.418</td></tr><tr><td></td><td>CSHQ</td><td>3</td><td>0.476</td><td>0.250 0.713</td></tr><tr><td rowspan=\"2\">检出时间4.92</td><td></td><td>过去四周</td><td>3</td><td>0.476</td><td>0.278 0.682</td></tr><tr><td>20.086近一个月</td><td></td><td>5</td><td>0.211</td><td>0.121 0.342</td></tr><tr><td rowspan=\"2\">性别</td><td>0.949</td><td>无 男生</td><td>2 9</td><td>0.268 0.041</td><td>0.114 0.511</td></tr><tr><td>1 0.330</td><td>女生</td><td>9</td><td>0.032</td><td>0.017 0.096 0.013 0.077</td></tr><tr><td rowspan=\"4\">区域</td><td rowspan=\"4\">0.955 2</td><td>东北</td><td>-</td><td></td><td></td></tr><tr><td>东部</td><td>5</td><td>0.0260</td><td>0.134 0.443</td></tr><tr><td>0.620 西部</td><td>3</td><td>0.0266</td><td>0.113 0.509</td></tr><tr><td>中部</td><td>2</td><td>0.0422</td><td>0.167 0.727</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "就攻击行为而言，如表7所示：(1)出版年代的调节效应不显著( $( b = 0 . 0 6$ $9 5 \\% C \\mathrm { { C I = } } [ - 0 . 1 0 \\$ 0.23])，说明近 10 年来小学生攻击行为的检出率虽然略有上升趋势，但变化并不明显。(2)测量工具和标准的调节效应显著，BWAQ的检出率最高，CBCL6次之，检出率最低的则是CBCL98。提示测量工具和标准是影响小学生攻击行为检出率的重要调节变量。(3)检出时间的调节效应显著。未写明检出时间的检出率显著高于最近半年的检出率，说明检出时间的长短很可能影响着小学生攻击行为检出率的高低。(4)尽管男生有高于女生的趋势，但性别的调节效应仍然不显著。(5)区域的调节效应显著，中部地区小学生攻击行为的检出率明显高于东部地区。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/32206a1db08c81666f555e2800439eb4e9af552364012b546bc6f18df1d4d84f.jpg",
+        "table_caption": [
+            "表7攻击行为检出率的调节效应分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td colspan=\"2\">异质性检验</td><td rowspan=\"2\">类别</td><td rowspan=\"2\">k</td><td rowspan=\"2\">检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td>QB df</td><td>p</td><td>下限 上限</td></tr><tr><td rowspan=\"2\">测量工具+检出标准 41.611 2 <0.001</td><td></td><td></td><td>BWAQ</td><td>2</td><td>0.196</td><td>0.110 0.324</td></tr><tr><td></td><td></td><td>CBCL98</td><td>6</td><td>0.018</td><td>0.012 0.027</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/44b2b1e2875c2b2321fc958a9d716f8dfe23318ba9866ff9163710a2bf57786c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：BWAQ为Buss-Warren 攻击问卷(Buss&Warren,2000)。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td>CBCL6</td><td>4</td><td>0.048</td><td>0.030 0.076</td></tr><tr><td rowspan=\"2\">检出时间</td><td rowspan=\"2\">22.878</td><td rowspan=\"2\">1 <0.001</td><td>无</td><td>3</td><td>0.188</td><td>0.098 0.331</td></tr><tr><td>最近半年</td><td>10</td><td>0.027</td><td>0.018 0.040</td></tr><tr><td rowspan=\"2\">性别</td><td rowspan=\"2\">0.039</td><td rowspan=\"2\">1 0.865</td><td>男生</td><td>9</td><td>0.045</td><td>0.014 0.132</td></tr><tr><td>女生</td><td>9</td><td>0.039</td><td>0.012 0.117</td></tr><tr><td rowspan=\"3\">区域</td><td rowspan=\"3\">4.981</td><td rowspan=\"3\">1 0.026</td><td>东北</td><td>/</td><td></td><td></td></tr><tr><td>东部</td><td>7</td><td>0.028</td><td>0.017 0.045</td></tr><tr><td>西部</td><td>-</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>中部</td><td>3</td><td>0.079</td><td>0.036 0.163</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "就违纪行为而言，如表8所示： (1)出版年代的调节效应不显著 $( b = 0 . 0 8$ ， $9 5 \\% C \\mathrm { I } { = } [ - 0 0 9 \\$ 号0.25])，说明近 10 年来违纪行为的检出率虽有上升趋势，但并不明显；(2)检出标准的调节效应显著，经过中国常模标准化的CBCL6量表，其违纪行为的检出率显著高于CBCL98量表。(3)性别调节作用不显著，仅可见男高女低的倾向。(4)区域的调节作用不显著。东部、西部和中部的小学生违纪行为检出率无明显差异。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d06e41d77734044e04b888191940b1315298e601abc1cefbefdc794fa3bf8f8.jpg",
+        "table_caption": [
+            "表8违纪行为检出率的调节效应分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">调节变量</td><td>异质性检验</td><td rowspan=\"2\">类别</td><td rowspan=\"2\">k检出率</td><td colspan=\"2\">95% CI</td></tr><tr><td>QB dfp</td><td></td><td>下限 上限</td></tr><tr><td>测量工具+检出标准</td><td>4.434 1 0.035</td><td>CBCL98 CBCL6</td><td>8 0.022 3 0.063</td><td>0.013 0.028</td><td>0.037 0.136</td></tr><tr><td>性别</td><td>0.144 1 0.704</td><td>男生</td><td>9</td><td>0.041 0.017</td><td>0.096</td></tr><tr><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td>女生</td><td>9 0.032</td><td>0.013</td><td>0.077</td></tr><tr><td>东北</td><td></td><td>- 1</td><td>1</td></tr><tr><td rowspan=\"2\">区域</td><td>0.679 2 0.712</td><td>东部</td><td>7</td><td>0.035</td><td>0.013 0.096</td></tr><tr><td></td><td>西部</td><td>2</td><td>0.078</td><td>0.012 0.377</td></tr><tr><td rowspan=\"2\"></td><td></td><td>中部</td><td>2 0.027</td><td>0.003</td><td>0.184</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5发表偏差检验 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先，就漏斗图而言，小学生各类心理健康问题的效应值均聚集在漏斗图上端，且基本分散于效应值平均值的两端，初步显示发表偏差问题并不明显。其次，就 Kendall等级相关检验结果来看，焦虑 $( \\mathrm { T a u } = - 0 . 0 8 , p = 0 . 7 5 )$ 、抑郁 $( \\mathrm { T a u } = - 0 . 1 9 , p = 0 . 1 1 )$ 、躯体化 $\\mathrm { \\ T a u } = . 0 . 2 5$ $p = 0 . 2 4 )$ 、退缩 $( \\mathrm { T a u } = 0 . 0 9 , p = 0 . 7 2 )$ 、睡眠问题 $( \\mathrm { T a u } = 0 . 1 1 , p = 0 . 6 4 )$ 、攻击行为 $\\mathrm { T a u } = 0 . 1 4 , p$ $= 0 . 5 0 )$ 、违纪行为 $\\mathrm { T a u } = . 0 . 0 2$ ， $p = 0 . 9 5$ 的结果均不显著，说明本研究不存在明显的发表偏差。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究利用元分析方法，囊括了较为全面的心理健康问题指标，对近10 年来(2010\\~2020)小学生心理健康问题的检出率进行了定量整合，并考察了背后的影响因素，在一定程度上澄清了我国近10年来(2010\\~2020)小学生各类心理健康问题的整体检出率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1小学生心理健康问题的检出率",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，小学生焦虑检出率为 $12 . 3 \\%$ ，抑郁检出率为 $14 . 6 \\%$ ，躯体化检出率为$3 . 6 \\%$ ，退缩检出率为 $3 . 8 \\%$ ，睡眠问题检出率为 $2 5 . 2 \\%$ ，攻击行为检出率为 $4 . 1 \\%$ ，违纪行为检出率为 $3 . 7 \\%$ 。从上述结果可见，对于小学生而言，不同心理健康问题的检出率差异较大，如躯体化检出率低至 $3 . 6 \\%$ ，而睡眠问题检出率则高至 $2 5 . 2 \\%$ 。该结果表明，小学生的心理健康问题不容忽视，尤其是检出率较高的前三位一一睡眠问题、抑郁和焦虑。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "第一是睡眠问题。本研究由于纳入了未发表文献，且考察了近10年研究成果，使得检出率与Chen 等(2021)元分析中 $3 8 . 9 \\%$ 的结果不同，但两者都说明我国小学生睡眠问题已较为普遍。这不仅是因为很多睡眠疾病(如夜惊、噩梦、入睡困难等)在儿童期更为高发(张斌等，2013)，同时也与我国课业负担较重，难以保证高质量、长时间的睡眠活动有关(龙鑫等，2020)。此外，小学生电子产品过度使用、手机成瘾现象较为严重(来枭雄等，2020)，容易导致入睡困难等现象发生，需要引起社会各界对此的广泛重视。第二是抑郁。本结果与《心理健康蓝皮书》中约一成的小学生抑郁检出率结果相似(傅小兰等，2021)，但却低于 Li 等(2019)元分析中得出的中国小学生 $1 7 . 5 \\%$ 的检出率，也低于刘福荣等(2021)元分析$1 7 . 1 \\%$ 的结果，这可能是由于Li等(2019)中未包含200人以下的样本数量，而刘福荣等(2021)则未检索英文数据库。因而，本研究的估计结果更加全面精确。第三是焦虑。本结果与李梦龙等(2019)的研究存在不同。李梦龙等(2019)曾纳入15项小学生社交焦虑状况文献，发现留守小学生社交焦虑检出率为 $1 8 . 2 2 \\%$ ，非留守小学生则为 $1 3 . 7 6 \\%$ 。这种结果差异可能是源于，本结果针对的是一般焦虑，而非单纯的社交焦虑。与国外其它国家相比，Erskine 等(2017)发现高收入地区的青少年儿童，其焦虑检出率为 $1 8 . 2 7 \\%$ ，低收入和中等收入地区的检出率为 $1 . 5 3 \\%$ ，意味着经济可能会对青少年儿童焦虑的检出率产生影响。作为发展中国家，我国小学生焦虑的检出率也处于中等偏高位置，需引起警惕。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其余几类小学生心理健康问题的检出率虽不高，均在 $3 . 6 \\% { \\sim } 4 . 1 \\%$ 之间浮动。但值得注意的是，某些心理健康问题一旦出现，很有可能会造成严重后果。如小学生的攻击和违纪行为，不仅不利于其个性、社会化和良好品德的顺利形成，还会造成学校氛围的恶化，给校园安全埋下无法预估的隐患。因而在心理健康问题的筛查、诊断与干预中，也须重点关注。总之，本研究中所得近10年来我国小学生各类心理健康问题的检出率结果，有利于掌握我国小学生心理健康的真实状况，帮助实现国家对小学生心理健康水平的宏观把控，同时也为改进心理健康教育、完善相关心理健康政策提供了一定依据和参考。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2小学生心理健康问题的调节变量",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第一是出版年代。结果表明，尽管大多数心理健康指标随年份增长略有上升，但这种趋势实际上并不显著。类似地，廖友国和连榕(2019)通过横断历史研究发现，1986\\~2017近三十年国民心理健康总体呈现缓慢向好趋势。然而与之相反，针对具体学生群体，辛自强和张梅(2009)的元分析结果却表明，1992\\~2005 年间中学生心理健康水平稳中有降；高中生在1990\\~2004年间，心理健康水平也呈缓慢下降趋势(俞国良等，2016)。原因可能在于，即使相关心理健康保障和服务体系逐渐完善，资金投入和师资力量不断扩大(王燕等，2020)，但社会生活节奏加快、竞争愈发激烈、父母期望过高，使得学生群体(包括小学生)仍然面临着来自父母、社会的多种压力和挑战(黄文治，王志刚，2020)。因而，近 10 年来我国小学生心理健康检出率，并未明显表现出逐年向好态势。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第二是测量工具和标准。除了焦虑、退缩和睡眠问题不显著外，其它心理健康问题指标均显著，提示今后对于量表的选择上要慎重。值得注意的是，即使选择了同一量表，在使用上也可能因检出标准不同，导致检出率结果的显著差异。具体来看，CBCL 量表是否经过中国样本的常模标准化，对小学生的躯体化、攻击与违纪行为的检出率造成了影响。因而，在小学生心理健康问题的筛检工作中，测评量表及检出标准的正确选择、测量实践的规范化及透明化操作，对准确地评估小学生心理健康状况极其重要。以往某些心理健康问题指标，其检出率高低不一，很可能是由于测量工具和标准不一致，导致结果出现严重分歧。例如，刘福荣等(2021)的元分析发现，CES-D的检出率高达 $2 2 . 2 \\%$ ，而BID量表所得的抑郁检出率仅为 $1 . 9 \\%$ 。为了实现心理健康问题检出率的可比性，未来也应开发更科学的测量工具，以便统一检出标准，便于相互对照。此外，测量工具检出率差异较大，也可能是因为目前测量工具仍基于量表总分或症状数量的简单加和来诊断是否出现某一心理健康问题(刘宇等，2021)。然而不同测量工具往往涵盖的症状内容和数量有所差异，致使同一心理健康问题很难具有相同的症状表现，其检出率大小也会受其影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "第三是检出时间。除了睡眠问题的检出时间无显著调节作用外，其余心理健康指标的检出时间，均存在显著差异。一般来说，短时间的检出时间测得的检出率，应比长时间或未规定检出时间测得的检出率低。值得注意的是，小学生抑郁检出时间的检出率，呈现出倒挂现象，即1周 ${ > } 2$ 周 ${ > } 6$ 个月。这说明检出率结果可能受工具影响更强，而非检出时间。许多研究都显示，不同量表调查条目、调查维度不同，评价方法、检出时间也各不一样，容易对检出率造成影响(刘福荣等，2021)。另外，睡眠问题检出时间的检出率差别不大。此类结果表明，目前有关检出率元分析测量工具不统一，检出时间不明晰，难以使检出率结果在同一维度上与其它研究进行比较(Jaafari et al.,in press)。因而，未来仍然需要探寻更适宜、更统一的测量工具，以求得出更为可靠、更稳定的检出率结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第四是性别。近10年来，我国小学生心理健康问题虽然表现出了男高女低的倾向，但性别差异并不显著。以往对于性别的调节效应，不同的研究取得了不一致的结论。杜柏玲(2016)发现，小学生心理健康问题的检出率存在显著的性别差异，而另一些研究则认为性别差异不显著(卫萍等，2007；杨洪猛等，2003)。这种矛盾情况，很有可能是受到取样条件、所在地区等不同因素的影响。本研究通过元分析技术，在一定程度上平衡了随机因素，得出我国小学生心理健康问题检出率并未出现性别分岭的结论。原因在于，一方面，研究发现无论是学业表现，还是未来成就与人际关系，父母对不同性别的子女所寄予的期望都是一样的(程琳，2010)；另一方面，随着性别平等教育的逐步推进，小学生在日常学习和生活中接触到的性别角色榜样等性别线索也越来越多样化(李超群等，2021)，日益增强的认知能力如推理、判断等都使其性别刻板印象开始逐渐减弱。这些都使得男女小学生在面对心理健康问题时，可能较少受到性别因素的影响。未来也应对此类调节变量的效应进行深入的探讨和分析。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第五是区域。研究结果显示，大部分指标在区域上无显著差别，仅有攻击行为存在显著区域差异，即中部地区高于东部。近10年来，相比较为发达的东部地区，我国中部地区经济发展仍比较落后，心理健康教育投入相对不足，学生获取心理健康教育的途径较少、资源较为有限(俞国良等,2017)。如研究显示，全国心理健康教育课开设情况呈“倒U型”，中部地区开课率显著低于东部和西部(徐美贞，2005)，因此中部地区的小学生在面临心理困扰时，可能难以寻求及时而有效的帮助，导致心理健康问题检出率较高。该结论也得到了相关实证研究的支持，即经济水平较为低下的青少年儿童，更易产生敌对情绪，人际关系更为紧张，攻击行为的发生率可能将会更高(赵建华，2005)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "综上，从本研究中的调查结果可知，近10年来我国小学生心理健康总体水平较好，但部分心理健康问题如睡眠问题、抑郁、焦虑仍较为普遍，并且这些心理健康问题的检出率受到了测量工具、检出标准、检出时间等多因素影响。因此，重视小学生心理健康问题的筛检工作，加强小学生的心理健康教育十分必要。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3研究不足与展望",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第一，本研究纳入较多研究指标，因而在英文数据库中仅检索了WebofScience核心合集。虽然该平台文献较为全面权威，但受数据库影响，本研究可能会遗漏个别研究结果。未来研究应检索更多数据库，以求更完备地展现元分析数据。第二，本研究在开始前未进行预注册，未来研究者应重视此项工作，通过衡量、印证预先假设和后期检验，从而进一步加强元分析研究的规范性、科学性和严谨性。第三，本研究主要借鉴内外化问题分析框架，关注小学生群体中较为典型的几类心理健康问题，未来的元分析可纳入更多指标，以求更全面地展现小学生不同心理健康问题的检出率状况。第四，本研究集中在现象调查，尚未关注到如何提高和改善小学生心理健康。未来的元分析研究可以重点整合提升心理健康的具体干预手段。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(1)小学生面临着不同程度的心理健康问题，其中睡眠问题、抑郁和焦虑排在前三位。(2)测量工具与检出标准是造成小学生心理健康问题检出率大小不一的关键因素。(3)除了睡眠问题外，检出时间对小学生心理健康指标检出率的影响较大。(4)虽然区域对攻击行为指标有显著影响，但整体而言，区域对小学生心理健康问题检出率的影响不大。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "陈洁琼.(2012).儿童焦虑情绪症状的影响因素及干预研究(硕士学位论文).苏州大学.  \n程琳.(2010).父母期望、初中生自我期望与学习成绩的关系(硕士学位论文).河南大学.  \n杜柏玲.(2016).甘肃山区农村小学生心理健康状况及其影响因素研究——以陇南市为例.甘肃高师学报，21(11), 54-58.  \n傅小兰,张侃,陈雪峰,陈祉妍.(2021).心理健康蓝皮书:中国国民心理健康发展报告(2019-2020).北京:社会科学文献出版社  \n黄文治,王志刚.(2020).小学生学习压力与心理健康的关系研究.校园心理,18(1),36-38.  \n来枭雄,黄顺森,张彩,唐斌,张美萱,朱成伟,王耘.(2020).中小学生手机成瘾与人际关系主观幸福感和学校认同感的关联.中国学校卫生,41(4),613-616.  \n李超群，徐良苑，李燕芳.(2021).教师性别刻板印象对中小学生性别刻板印象的影响：教师性别教育行为的中介作用.中国特殊教育,4,90-96.  \n李梦龙,任玉嘉,蒋芬.(2019).中国农村留守儿童社交焦虑状况的Meta分析.中国心理卫生杂志,33(11),839-844.  \n廖友国,连榕.(2019).近三十年国民心理健康变迁的横断历史研究．西南大学学报(社会科学版),45(2),105-116.  \n刘福荣,吴梦凡,董一超,岳馨培,尚小平,隋美丽,刘新奎.(2021).小学生抑郁症状检出率的 meta分析.中国心理卫生杂志,35(6),482-488.  \n刘国雄,张丽锦.(2010).关于情绪以及情绪发展的理论述评.宁夏大学学报(人文社会科学版),32(1),212-215.  \n刘宇,胡传鹏,樊富珉,孙沛,徐杰,蔡玉清等.基于网络理论的物质成瘾新视角.心理科学进展,29(2),296-310.  \n龙鑫,纪颖,张洪伟,张夏男,谢立璟.(2020).北京市中高年级小学生睡眠时间现状及影响因素分析.中国卫生统计,37(5),704-707.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "三燕,刘思洁,陈矜之.(2020).改革开放40年中国人心态变化的年代分析——以社会信任,主观幸福感和心理健康为例.苏州大学学报(教育科学版),8(1),58-69.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "卫萍,葛明贵,陈雪梅.(2007).合肥 848名小学生心理健康状况的调查分析.合肥学院学报:社会科学版,24(06),40-43.忻仁娥,张志雄.(1992).全国 22个省市 26个单位24013 名城市在校少年儿童行为问题调查:—独生子女精神",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "卫生问题的调查,防治和 Achenbach's儿童行为量表中国标准化.上海精神医学,4(1),47-55.   \n辛自强,张梅.(2009).1992年以来中学生心理健康的变迁:一项横断历史研究.心理学报,41(1),69-78.   \n徐美贞.(2005).中小学心理健康教育现状调查分析.教育发展研究,6,78-83.   \n杨洪猛,高松,傅金芝.(2003).少数民族中、小学生心理健康状况研究.中国健康心理学杂志,1(6),416-418.   \n俞国良,李天然,王就.(2016).高中生心理健康的横断历史研究.教育研究,37(10),113-122.   \n俞国良,赵凤青,罗晓路.(2017).心理健康教育:高等院校的地区差异比较研究.黑龙江高教研究,12,89-92.   \n余欣欣,王洁莹,杨静.(2019).广西三～六年级小学生心理健康现状分析.中国健康教育,35(12),1089-1093.   \n张斌,郝彦利,任衍镇.(2013).广州市小学生的学业成绩与睡眠状况.中国心理卫生杂志,27(6),462-467.   \n张柳,荆玉梅.(2019).黄石市316名小学生心理健康状况分析及对策研究.湖北师范大学学报:哲学社会科学 版,39(4),112-116.   \n赵建华.(2005).小学生攻击性行为的心理分析及对策研究.心理科学,28(4),965-968.   \n赵玫.(2010).农村小学生心理健康状况分析.卫生职业教育,28(9),112-113.   \nAchenbach TM. (1966). The classification of children's psychiatric symptoms: A factor-analytic study. Psychol Monogr, 80,1-37.   \nAchenbach,T.M.,& Edelbrock,C.S.(1979).The childbehavior profile: I. boysaged 12-16 and girls aged 6-11 and 12-16.Journal of Consulting and Clinical Psychology,47(2),223-233.   \nBirleson,P. (1981).The validity of depressive disorder in childhood and the development of aself-rating scale: A research report. Journal of Child Psychology and Psychiatry, 22(1),73-88.   \nBirmaher,B.,Khetarpal,S.,Brent,D.,Culy,M.,Balach,L.,Kaufman,J.,& Neer,S.M. (1997).The screenfor childanxietyrelatedemotional disorders(SCARED):Scaleconstructionandpsychometric characteristics. Journal of the American Academy of Child & Adolescent Psychiatry, 36(4),545-553.   \nBuss,A. H., & Warren, W.L. (2oo). The aggression questionnaire manual. Los Angeles: Western Psychological Services.   \nBuyse,D.J.,Ii,C,Monk,T.H.,Berman,S.R.,&Kupfer,D.J. (1989).The pitsburgh sleep quality index: A new instrument for psychiatric practice and research. Psychiatry Research, 28(2),193-213.   \nCard,N.A. (20l2). Applied meta-analysis for social science research. New York: Guilford Press.   \nChen, X.,ling Ke, Z., Chen,Y.,&Lin, X.(2021).The prevalence of sleep problems among children in mainland China: A meta-analysis and systemic-analysis. Sleep Medicine,83,248-255.   \nConners, C. K.(1969).A teacher rating scale for use in drug studies with children.American Journal of Psychiatry, 126(6),884-888.   \nErskine,H.E.,Baxter,A.J.,Paton,G.,Mofitt,T.E.,Patel,V,Whiteford,H.A.,&Scot,J.G.(7).Telobal coverage of prevalence data for mental disorders in children and adolescents. Epidemiology and Psychiatric Sciences,26(4),395-402.   \nHiggins，J.P. Thompson, S.G.，Deeks,J.J.,& Altman,D.G.(2003).Measuring inconsistency in metaanalyses.British Medical Journal,327,557-560.   \nJaafari,Z.,Farhadi,A.,AminLari,F.,Mousavi,F..,Moltafet,H,Dashti,E,&arzban,M.(inpress).Prevalence of Depression in Iranian Collge Students: A Systematic Review and Meta-analysis.Iranian Journal of Psychiatry and Behavioral Sciences.   \nKovacs,M. (1992). Children's Depression Inventory (CDI).New York: Multi-health Systems, Inc.   \nKuppens,S.,Laurent,L.,Heyvaert, M.,& Onghena,P. (2013). Associations between parental psychological control andrelational aggression in children andadolescents:A multilevel andsequential metaanalysis.Developmental Psychology,49(9),1697.   \nLi,J.Y.,Li,J.,Liang,J.H.,Qian,S.,Jia,R. X., Wang,Y. Q.,& Xu,Y. (2019). Depressve symptoms among children and adolescents in China: A systematic review and meta-analysis.Medical Science Monitor, 25,74-59.   \nOwens,J.A.,Anthony,S.,&Melissa,M.G. (20oo).The children's sleep habits questionnaire(CSHQ): Psychometric properties of a survey instrument for school-aged children. Sleep,23(8),1043-1051.   \nRadloff,L.S. (1977).A self-report depression scale for research in the general population. Applied Psychol Measurements, 1(3),385-401.   \nWood,A.,Kroll,L.,Moore,A.,&Harrington,R.(1995).Propertiesof the moodand felings questionnaire in adolescent psychiatric outpatients: A research note.Journal of Child Psychology and Psychiatry,36(2),327- 334. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Prevalence of mental health problems among primary school students in China from 2010 to 2010: A meta-analysis ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "HUANG Xiaoxiao1, ZHANG Yali', YU Guoliang² ( Schoolof Education,Renmin University ofChina,Beijingloo872,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "( Institute of Psychology,Renmin Universityof China,Beijing 10o872,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The prevalence of mental health problems of primary school students in China were different.In order to integrate the survey results and analyze the causes, meta-analysis was used to synthesize the relevant studies in recent ten years from 2010 to 2020 (101 articles,289396 subjects). The results showed that: (1) The prevalence of mental health problems in primary school students from high to low were sleep problems ( $5 . 2 \\% , 9 5 \\% \\mathrm { C I } = [ 0 . 1 6 0 , 0 . 3 7 3 ] )$ ,depression（ $1 4 . 6 \\%$ $9 5 \\% C \\mathrm { I }$ $= [ 0 . 1 2 0 , 0 . 1 7 5 ] )$ ,anxiety $( 1 2 . 3 \\%$ $9 5 \\% \\mathrm { C I } = [ 0 . 0 6 3 , 0 . 2 2 7 ] )$ ,aggressive behavior $( 4 . 1 \\%$ $9 5 \\% C \\mathrm { { I } = }$ [0.017, 0.099]),withdrawal $( 3 . 8 \\%$ $\\% , 9 5 \\% \\mathrm { C I } = [ 0 . 0 2 3 , 0 . 0 6 2 ] )$ ,disciplinary behavior $( 3 . 7 \\%$ ， $9 5 \\% C \\mathrm { I }$ （204号 $= [ 0 . 0 1 8 , \\ 0 . 0 7 3 ] )$ and somatization $( 3 . 6 \\%$ ， $9 5 \\% C \\mathrm { I } = [ 0 . 0 1 7 , 0 . 0 7 3 ] )$ .(2）Measurement tools, measurement standards and detection period were the key factors causing the fluctuation of prevalence of mental health problems among primary school students in China. Generally speaking, the overall mental health status of primary school students in China is acceptable except that the prevalence of sleep problems,depresson and anxiety are high. In the future, we should develop mental health assessment tools and detection standards suitable for Chinese primary school students to provide support for the prevention and accurate intervention of mental health problems. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: pupils; mental health problems; prevalence; meta-analysis ",
+        "page_idx": 15
+    }
+]

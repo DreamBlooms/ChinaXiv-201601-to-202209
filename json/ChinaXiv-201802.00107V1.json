@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "太阳能聚光分频PV/T综合利用系统的光学分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡芃\\*，刘阳，张谦，陈则韶，王刚中国科学技术大学热科学和能源工程系，合肥230027Tel: 0561-3601656，Email: hupeng@ustc.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文提出了一种改进的太阳能聚光分频光伏光热综合利用系统。聚光系统为倾斜平板菲涅尔反射型聚光器并对太阳双轴跟踪。分频器可将太阳光谱分成两部分同时实现光伏和光热高效利用。通过光线追踪法对该系统进行了光学性能分析，并对系统的结构参数进行优化。结果表明聚光系统具有较高的面积利用率，聚光焦斑均匀性高有利于光伏发电；集热器对分频器反射能流的直接拦截率可达到 $8 6 \\%$ 。光热利用温度不受光伏电池工作温度的限制，因此有望获得更高的太阳能综合利用率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：太阳能；CPV/T综合利用系统；光谱分频器；光学分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optical Analysis for a Solar Concentrating PV/T Hybrid System with Beam Splitter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Peng\\* LIU Yang ZHANG Qian CHEN Zeshao WANG Gang (DepartmentofThermal ScienceandEnergyEngineering,UniversityofScienceandTechnologyofChina,Hefei230027,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A modified solar concentrating PV/Thermal (CPV/T) hybrid system with beam spliter was proposed. The concentrator is a linear Fresnel reflector concentrator utilizing sloped panels and driven by a dual-axis tracking system. The spectral beam splitter can separate solar spectrum into two parts and make the photovoltaic (PV) conversion and the photo-thermal conversion eficiency. The optical performances of the hybrid system were analyzed using ray tracing method,and the system structure parameters were optimized.The results show that the concentrator has a high aperture utilization ratio and a uniform concentrated radiation distribution on the PV devices. The reflected solar radiation interception ratio of the thermal receiver is up to $86 \\%$ . The operating temperature of the thermal receiver is independent of the operating temperature of solar cels,and thus,the proposed system is promising for solar utilization with a high efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Solar Energy; Concentrating PV/T System; Spectral Beam Splitter; Optical Analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太阳能是重要的可再生能源，其高效利用已成为研究的重要课题。目前太阳能利用方式主要有光伏转换和光热转换。这两种方式均受制于较低的太阳能能流密度。采用聚光方式提高太阳能的辐射能流密度，光热利用时可提高集热温度，提高有效能效率；光伏转换时则可减少光伏电池用量，降低成本。同时，聚光电池具有比平板光伏电池更高的光电转换效率[1]。因此，太阳能的聚光利用具有良好的前景。光伏电池仅能利用太阳光谱中的特定波段，如硅电池为 $4 0 0 { \\cdot } 1 2 0 0 \\mathrm { n m }$ ，砷化镓电池为 $4 0 0 { \\cdot } 9 0 0 \\mathrm { n m }$ 其余波段的光子在电池内部耗散为热量。通常聚光光伏发电的聚光倍数为数十至数百，电池热负荷很大，需要高性能的散热系统，一旦散热不良将严重影响其转换效率[2]。某些类型的聚光光伏系统如碟式系统、槽式系统，其焦斑能流分布不均，造成光伏电池局部“热斑”，影响电池光电转换效率[3,4]。胡芃等[5]采用离散反射镜构建的平板型太阳能聚光器，具有焦斑均匀，抗风阻等优点，适于低倍聚光光伏发电。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "将光伏转换和光热转换相结合的太阳能光伏/光热（PV/T）综合利用系统可提高太阳能的综合利用效率[6.7]。这种PV/T系统通常采用冷却介质（如水，空气等）流经电池背侧，带走电池热量，降低其工作温度；同时，热流体也被加以利用[6-8]。这种系统中光伏器件与冷却介质相互热耦合，光伏电池工作效率受流体温度影响，为保证光伏器件转换效率，冷却介质温度不高，热利用部分有效能效率很低。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用光谱分频技术可避免太阳能PV/T系统中光伏、光热利用的热耦合[9-12]。光谱分频技术是一种将太阳光束中不同波段的辐射能区别利用的技术：将可高效光伏转换谱段的太阳辐射分配给太阳电池，进行光伏发电；将无法进行光伏转换以及转换效率较低谱段的太阳辐射分配给太阳能热接收器，进行光热转换[9,1]。因此，太阳能的分频利用可避免无法进行高效光伏转换谱段的太阳辐射能进入光伏电池而造成过热，同时可将这些谱段的太阳辐射能独立进行光热转换，获得更高的有效能效率[9,11,13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在已有基础上[12]提出一种改进的太阳能聚光分频PV/T综合利用系统。给出了系统中聚光器个结构参数之间的几何关系，优化了系统结构设计参数，分析了系统的光学性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1太阳能聚光分频PV/T综合利用系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "太阳能聚光分频PV/T综合利用系统结构示意图如图1所示。聚光器两侧的集光平板成一定倾角安装，聚光器采用二维跟踪方式。集光平板由安装于聚光器支撑框中的反射镜阵列构成。反射镜阵列中任一反射镜的宽度及安装角度为特定值，使其反射光束恰好覆盖光伏电池接收表面。光谱分频器为该CPV/T太阳能分频利用系统的核心部件之一，水平安装于光伏器件正下方。光谱分频器将会聚太阳光束中可高效光伏转换谱段的太阳辐射能透射至太阳能电池，其余谱段的太阳辐射能则反射至热接收器。热接收器为真空玻璃管式中高温集热器，接收光谱分频器反射的辐射能并转换为热能，传递给管内换热流体。为回收泄露的太阳辐射能，在热接收器下方增设再反射镜，将偏离热接收器的光线再反射至热接收器。由于光热转换过程和光伏转换过程没有热耦合，因此可实现各自的最佳工作条件的配置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该系统中的集光平板结构对称，各部件便于采用模块化设计。集光平板由离散反射镜阵列构成，相邻反射镜之间存在间隙，可有效降低风阻。同时，集光平板与水平面成倾角 $\\theta _ { 2 }$ 安装，可减小聚光器平板中两相邻反射镜的间隙，提高其的面积利用率。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/42a389a5593a8980dab6678517bd46acf5677d6400ecf2e6b78e339acec05e32.jpg",
+        "img_caption": [
+            "图1聚光分频PV/T综合利用系统示意图",
+            "Fig.1 Sketch of the concentrating PV/T system with beam splitter "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2设计参数优化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1聚光器各部件几何关系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据图1所示的聚光分频PV/T系统示意图及各",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反射镜聚光光线恰好覆盖光伏器件的要求，可以确定光伏电池、热接收器与聚光器各反射镜尺寸的几何关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为保证各离散反射镜反射的太阳光线均能恰好",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "覆盖光伏电池接收表面，有 $A B { = } E F$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$w _ { i } \\cdot \\left( \\cos \\alpha _ { i } + \\sin \\alpha _ { i } \\tan 2 \\alpha _ { i } \\right) = L \\cdot \\left( \\cos \\theta _ { 1 } + \\sin \\theta _ { 1 } \\tan 2 \\alpha _ { i } \\right) \\cdot$ (1式中， $w _ { i }$ 和 $a _ { i }$ 分别为第 $i$ 根反射镜的宽度和倾角； $L$ 和 $\\theta _ { 1 }$ 分别为光伏器件的宽度和安装倾角。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据三角几何关系，由 $E D \\cdot \\tan 2 \\alpha _ { i } = A D$ 得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( H _ { \\mathrm { p v } } - x _ { i } \\cdot \\sin \\theta _ { 2 } + b _ { i } \\cdot \\sin \\alpha _ { i } ) \\cdot \\tan 2 \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= x _ { i } \\cdot \\cos \\theta _ { { 2 } } - b _ { i } \\cdot \\cos \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $H _ { \\mathrm { P V } }$ 为光伏器件的安装高度； $x _ { i }$ 为第 $i$ 根反射镜安装中心距聚光平板起点的距离； $b _ { i }$ 为第 $i$ 根反射镜内边沿至其安装中心的距离； $\\theta _ { 2 }$ 为聚光平板倾角。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将公式(1)带入公式(2)，得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( H _ { \\mathrm { p v } } - x _ { i } \\cdot \\sin \\theta _ { 2 } + b _ { i } \\cdot \\sin \\alpha _ { i } ) \\cdot \\tan 2 \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= x _ { i } \\cdot \\cos \\theta _ { { 2 } } - b _ { i } \\cdot \\cos \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反射镜倾斜角度 $a _ { i }$ 与 $\\theta _ { 2 }$ 大小不同时，有不同的几何关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A)当 $a _ { i } \\geq \\theta _ { 2 }$ 时，有",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } \\cdot \\cos \\theta _ { 2 } + \\left( w _ { i } - b _ { i } \\right) \\cdot \\cos \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= { x _ { i + 1 } } \\cdot \\cos \\theta _ { { 2 } } - { b _ { { i + 1 } } } \\cdot \\cos \\alpha _ { { i + 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B）当 $a _ { i } < \\theta _ { 2 }$ 时，由 $E I { \\cdot } \\mathrm { t a n } 2 \\alpha _ { i + 1 } = I P$ 得",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ H _ { \\mathrm { p v } } - x _ { i } \\cdot \\sin \\theta _ { 2 } - \\left( w _ { i } - b _ { i } \\right) \\cdot \\sin \\alpha _ { i } \\right] \\cdot \\tan 2 \\alpha _ { i + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= x _ { i } \\cdot \\cos \\theta _ { 2 } + { \\left( w _ { i } - b _ { i } \\right) } \\cdot \\cos \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于第1根反射镜，其内边缘恰好与光伏器件外缘点 $\\mathbf { G }$ 投影重合，因此有初始条件",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { 1 } \\cdot \\mathrm { c o s } \\theta _ { 2 } - b _ { 1 } \\cdot \\mathrm { c o s } \\alpha _ { 1 } = L \\cdot \\mathrm { c o s } \\theta _ { 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = 2 b _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为确定合适的系统设计参数，需对系统的几何聚光比及面积利用率进行分析。几何聚光比定义为聚光器窗口面积 $\\scriptstyle A _ { 1 }$ 与接收器接收面积 $\\mathbf { \\nabla } _ { A _ { 2 } }$ 之比。对于本系统，接收器为光伏器件，其宽度为 $L$ ，则几何聚光比为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC R = A _ { 1 } / A _ { 2 } = \\frac { 1 } { L } \\sum _ { i = 1 } ^ { n } w _ { i } \\cdot \\cos \\alpha _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面积利用率y定义为反射镜有效反射面积与聚光器接收口径面积之比：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } w _ { i } \\cdot \\cos \\alpha _ { i } } { x _ { n } \\cdot \\cos \\theta _ { 2 } + \\left( w _ { n } - b _ { n } \\right) \\cdot \\cos \\alpha _ { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2结构参数优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于给定尺寸的聚光电池和聚光倍数要求，可根据上述几何关系来设计整个系统中其他部件的尺寸及安装位置。以光伏电池宽度 $\\scriptstyle { L = 6 0 \\mathrm { m m } }$ ，热接收器直径 $D _ { \\mathrm { R } } { = } \\Phi 6 0 \\mathrm { m m }$ ，聚光比要求24倍左右为例，构建聚光分频PV/T综合利用系统，并以几何聚光比和面积利用率为目标，对系统中部件的尺寸、位置进行优化设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2 (A)和(B)分别为聚光平板倾角 $\\theta _ { 2 } { = } 1 0 ^ { \\circ }$ 和 $2 0 ^ { \\circ }$ 时，不同光伏电池组件倾角 $\\theta _ { 1 }$ 下，聚光器面积利用率和聚光比与聚光器跨度的变化关系。由图2 (A-1)和(B-1)可见：当 $\\theta _ { 1 } { = } 4 5 ^ { \\circ }$ 时，系统有最大的面积利用率；相同跨度 $x _ { i }$ 下，几何聚光比随 $\\theta _ { 1 }$ 的变化很小，也即 $\\theta _ { 1 }$ 对几何聚光比影响较小。图2(A-2)和(B-2)分别示出了 $\\theta _ { 2 } { = } 1 0 ^ { \\circ }$ 和 $2 0 ^ { \\circ }$ ，跨度 ${ x _ { i } = 1 . 3 5 { \\sim } 1 . 7 } \\mathrm { m }$ 时，不同$\\theta _ { 1 }$ 下几何聚光比大小。可见当 $\\theta _ { 1 } { = } 4 5 ^ { \\circ }$ 时，对应的几何聚光比最大。因此，光伏组件最佳安装角度为$\\theta _ { 1 } { = } 4 5 ^ { \\circ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "30 (=10°) 90   \n2 =0° B ←=10° =15° =20°   \n10 ←θ=30° ←θ=40° <－ θ= 40° 5 -0=45° Y -0=45° θ=50° O-0=50° 50 0[ 0.0 0.5 1.0 1.5 2.0 x(m) (A-1) CR & γ vs. Xis $\\theta _ { 2 } { = } 1 0 ^ { \\circ }$ 25 (=10°) 24F -01=0° ←=30° θ=10° ←=40° 21 0=15° →01= 45° θ=20° 0=50° 20 1.4 1.5 1.6 1.7 x(m) (A-2) CR vs.xi, 0=10°   \n30 (=20°) T 中 190   \n25 -01= 0° -=10° -0- = 10° 70 -θ1=15° -△- θ,= 15° -θ= 20° V-θ=20°   \n10F ←𝜃=30° = 30° 60 -θ= 40° = 40° θ=45° -θ= 45° 5F 𝜃=50° 0=50° 50 0L 0.0 0.5 1.0 1.5 2.0 x (m) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/35d84abc3a3b92b947f594ebd2cb1bf1aeb607b0657cb88056e1fb3e616b4a21.jpg",
+        "img_caption": [
+            "图2聚光器面积利用率和聚光比与聚光器跨度的变化关系：(A) $\\theta _ { 2 } { = } 1 0 ^ { \\circ }$ ； (B) $\\theta _ { 2 } { = } 2 0 ^ { \\circ }$ 0 $\\scriptstyle { L = 6 0 \\mathrm { m m } }$ $H _ { \\mathrm { P V } } { = } 1 . 5 \\mathrm { m } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Relationships of the concentration ratio and the aperture utilization ratio with the concentrator width $x _ { i }$ at different PV tilt angle 01 : (A) $\\theta _ { 2 } { = } 1 0 ^ { \\circ }$ ； (B) $\\theta _ { 2 } { = } 2 0 ^ { \\circ }$ . $\\scriptstyle { L = 6 0 \\mathrm { m m } }$ $H _ { \\mathrm { P V } } { = } 1 . 5 \\mathrm { m } \\rangle$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为光伏电池以最佳安装倾角 $\\theta _ { 1 } { = } 4 5 ^ { \\circ }$ 时，不同集光平板倾角 $\\theta _ { 2 }$ 对应的面积利用率及几何聚光比。当 $\\theta _ { 2 }$ 较小时，面积利用率随跨度增大下降较大，如当集光平板水平布置（ $\\scriptstyle \\theta _ { 2 } = 0 ^ { \\circ }$ ）时，面积利用率在${ x _ { i } > 0 . 7 \\mathrm { m } }$ 处下降剧烈。当 $\\theta _ { 2 }$ 很大时，系统的几何聚光比又很小。当 $\\theta _ { 2 }$ 在 $1 0 { \\sim } 2 0 ^ { \\circ }$ 范围时面积利用率及聚光比均较大，且彼此接近。胡芃等提出的平板型玻璃反射镜太阳能聚光器[5,12]平板倾角为 $\\scriptstyle \\theta _ { 2 } = 0 ^ { \\circ }$ ，仅适于低倍聚光应用，为提高其聚光比，可优化集光平板的安装倾角。综上，集光平板最佳安装倾角可根据系统规格（跨度）和聚光倍数要求，在 $1 0 { \\sim } 2 0 ^ { \\circ }$ 范围内选择。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41149b8748e1a85ea7a1d78c134565e5ff6b9074740e5c7fb2ff20b0c09c527a.jpg",
+        "img_caption": [
+            "图3面积利用率、聚光比与聚光器跨度的关系（ $\\theta _ { 2 }$ 不同，$\\theta _ { 1 } = 4 5 ^ { \\circ }$ ）",
+            "Fig.3Relationshipsofapertureutilization ratioand concentration ratio with width expansion of the concentrator at different concentratortilt angles $\\theta _ { 2 }$ （ $\\cdot \\theta _ { 1 } { = } 4 5 ^ { \\circ }$ ， $L { = } 6 0 \\mathrm { m m }$ $H _ { \\mathrm { P V } } { = } 1 . 5 \\mathrm { m } \\rangle$ 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本方案中选择光伏电池模块以 $4 5 ^ { \\circ }$ 倾角安装，集光平板以 $2 0 ^ { \\circ }$ 倾角安装。聚光器跨度与系统的聚光倍数要求有关，本方案单侧光伏电池聚光倍数为24倍左右，则聚光器单侧跨度选择 $1 . 6 \\mathrm { m }$ 。为便于设计和安装，光伏组件安装高度 $\\displaystyle H _ { \\mathrm { P V } } { = } 1 . 5 \\mathrm { m }$ 。此时，聚光平板中不同位置（以 $x _ { i }$ 表征）的各反射镜的镜面宽度$w _ { i }$ 及安装倾角 $a _ { i }$ 如表1所示。再根据每根反射镜的宽度，在聚光平板中的位置及安装倾角，即可设计安装聚光平板、光伏器件。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e81c5b7c63bacc047b87c3e866fd80c02ab0a3d8c29ce650c63a69caa7bf90d5.jpg",
+        "table_caption": [
+            "表1聚光平板不同位置处反射镜宽度及安装倾角（ $1 1 \\cdot = 1$ .5m, $L = 6 0 m m$ ， $\\theta _ { 1 } = 4 5 ^ { \\circ }$ ， $\\theta _ { 2 } = 2 0 ^ { \\circ }$ ）",
+            "Table 1 Installing angle and width of each reflector on the concentrating panel i $: 1 1 \\nu = 1$ .5m, $L = 6 0 m m$ ， $\\theta _ { 1 } = 4 5 ^ { \\circ }$ ，0=20° "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr><tr><td>xi/mm</td><td>68</td><td>115</td><td>164</td><td>214</td><td>265</td><td>317</td><td>371</td><td>426</td><td>483</td><td>540</td><td>599</td><td>659</td><td>721</td></tr><tr><td>wi/mm</td><td>44</td><td>45</td><td>46</td><td>47</td><td>49</td><td>50</td><td>51</td><td>53</td><td>54</td><td>55</td><td>56</td><td>58</td><td>59</td></tr><tr><td>ai/</td><td>0.8</td><td>1.7</td><td>2.6</td><td>3.5</td><td>4.5</td><td>5.5</td><td>6.6</td><td>7.7</td><td>8.8</td><td>10.0</td><td>11.2</td><td>12.4</td><td>13.6</td></tr><tr><td>No.</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td></tr><tr><td>xi/mm</td><td>783</td><td>846</td><td>910</td><td>975</td><td>1040</td><td>1106</td><td>1171</td><td>1237</td><td>1305</td><td>1374</td><td>1444</td><td>1515</td><td>1588</td></tr><tr><td>wi/mm</td><td>60</td><td>61</td><td>62</td><td>63</td><td>63</td><td>64</td><td>65</td><td>65</td><td>66</td><td>66</td><td>66</td><td>67</td><td>67</td></tr><tr><td>ai/°</td><td>14.8</td><td>16.1</td><td>17.3</td><td>18.5</td><td>19.7</td><td>20.8</td><td>22.0</td><td>23.1</td><td>24.1</td><td>25.2</td><td>26.2</td><td>27.2</td><td>28.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3光学分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1热接收器最佳安装高度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "热接收器的安装位置不同，其接收的来自光谱分频器反射的辐射能的多少也不同。为获得该系统中热接收器最佳安装位置，采用光线追踪程序对不同安装位置的热接收光线拦截率进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用美国国家可再生能源研究实验室(NREL)开发的光线跟踪程序Soltrace[14]对聚光分频PV/T综合利用系统中热接收器的光线拦截量进行仿真。Soltrace采用Spencer等[15]的光线追踪理论，可用于复杂太阳能聚光系统及其它光学系统的仿真，具有仿真速度快，精度高等优点[16]。系统中热接收器接收光线仿真图及热接收器能量拦截量与安装高度的关系分别如图4、5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c267b994fec54a4a07ad744cfcb188ffa3199a949b915c8553e9e5d90ba055b3.jpg",
+        "img_caption": [
+            "图4热接收器接收光线仿真"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c176f7d4c2ff7acc845ab2a4e9deaef4f5cee4e4839f11e31a0baa09665de2f8.jpg",
+        "img_caption": [
+            "Fig.4Ray tracing simulation for the thermal receiver "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，热接收器最佳安装高度 $\\displaystyle H _ { \\mathrm { T } } { = } 1 . 3 5 \\mathrm { m }$ 。处于最佳接收位置的热接收器能量拦截率为 $86 \\%$ 接收了光谱分频器反射的大部分辐射能。为收集泄漏的太阳辐射，可在热接收器底部增设抛物槽二次反射进行回收。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2焦斑能流分布",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "光伏电池表面能流密度不均匀会造成电池局部过热，致使电池内部欧姆压降增大，造成输出电压减小和填充因子降低[17-20]。对于本系统，根据公式(1)可知，理论上每根反射镜反射光线均匀投射到光伏电池板接收面上，且每根反射镜的反射光在光伏电池表面均匀叠加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实际系统中，可能造成能流密度分布非均匀的误差主要有太阳形状 $\\sigma _ { \\mathrm { s u n } }$ 、反射镜倾斜误差 $\\sigma _ { \\mathrm { s l o p e } }$ 、镜面平整度Ospecularity、聚光器跟踪误差 $\\sigma _ { \\mathrm { t r a c k } }$ 等。总光学误差公式[21]为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { t o t a l } } = \\left( \\sigma _ { \\mathrm { s u n } } ^ { 2 } + 4 \\sigma _ { \\mathrm { s l o p e } } ^ { 2 } + \\sigma _ { \\mathrm { s p e c u l a r i t y } } ^ { 2 } + \\sigma _ { \\mathrm { t r a c k } } ^ { 2 } \\right) ^ { 0 . 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "考虑造成光学误差的各种因素的实际大小，对该聚光分频PV/T系统中光伏器件表面能流密度进行模拟计算，可获得与实际系统相近的表面能流分布。系统中涉及的各种光学误差的大小值如表2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5e223a234eb510d9fb01a8e0461ddddb61b644cc74c257fbb98456d0acb70b5.jpg",
+        "table_caption": [
+            "表2光学仿真中系统涉及的各种光学误差 Table2Values of errors for the solar fluxdistribution simulation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>误差类型</td><td>误差值</td></tr><tr><td>太阳形状，σsun</td><td>4.65 mrad</td></tr><tr><td>镜面坡度，Oslope</td><td>0.95 mrad</td></tr><tr><td>镜面平整度，Ospecularity</td><td>0.2 mrad</td></tr><tr><td>跟踪误差，Otrack</td><td>3.49 mrad</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用Soltrace对聚光分频PV/T系统中的光伏器件接收光线仿真如图6所示，光伏器件表面能流密度分布如图7所示。仿真结果显示，在考虑上述造成能流分布非均匀的各因素后，光伏电池表面能流密度仍高达0.92，并具有良好的均匀性，适合聚光太阳电池的工作。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/42725784b4b2523474ce43e5ad7fa44eaf03ccb3023f9677d5c43899eb39fff4.jpg",
+        "img_caption": [
+            "图5热接收器能流拦截率与安装高度的关系 Fig.5 Relationship of radiation interception ratio with the thermal receiver height above the concentrating panel ",
+            "图6光伏器件接收光线仿真 Fig.6 Ray tracing simulation for the PV device "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/479dd01bc22a64d70fb958abeacf806e90fbf2fff3ec42986d8b4adae1f71568.jpg",
+        "img_caption": [
+            "图7光伏器件接收面能流密度分布 Fig.7 Solar flux distribution on the PV device "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "提出了一种改进的太阳能聚光分频PV/T综合利用系统，给出了系统各部件之间的几何关系。对系统的结构参数优化结果表明，光伏电池模块最优安装倾角为 $4 5 ^ { \\circ }$ ，线性菲涅尔发射聚光器最优安装倾角为 $2 0 ^ { \\circ }$ 并具有较高的面积利用率。分析了该系统光学性能，结果显示聚光太阳电池表面能流密度分布均匀；集热管对分频器反射能量的一次拦截率可达$86 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Green M A,Emery K,Hishikawa Y,et al.Solar Cell EfficiencyTables(Version40）[J].Progressin Photovoltaics: Research and Applications, 2012，20: 606--614.   \n[2] Royne A,Dey C J,Mills D R. Cooling of Photovoltaic Cells under Concentrated Illumination:a Critical Review [J]. Sol. Energy Mater. Sol. Cells,2005,86(4): 451-483.   \n[3] Luque A,Sala $\\mathrm { \\bf G }$ Arboiro J,et al. Some Results of the EUCLIDESPhotovoltaic Concentrator Prototype [J]. Progress in Photovoltaics: Research and Applications,1997, 5: 195--212.   \n[4] Li M,Ji X,Li G, et al.Performance Study of Solar Cell Arrays Basedona Trough Concentrating Photovoltaic/thermal System [J]. Applied Energy,2011,8: 3218--3227.   \n[5] 胡芃，张谦，王刚，等．平板型玻璃镜反射太阳能聚光 光伏系统的实验研究[J].工程热物理学报,2011,32(5): 729--732. Hu Peng, Zhang Qian, Wang Gang,et al. Experimental Investigation on Flat-Type Solar Concentrator PV System with Glass Mirror Reflectors [J]. Journal of Engineering Thermophysics,2011,32(5): 729--732.   \n[6] Zondag H. Flat-plate PV-Thermal Collectors and Systems: a Review. Renewable and Sustainable Energy Reviews, 2008,12 (4): 891-959.   \n[7] Kumar R, Rosen M A. A Critical Reviewof Photovoltaic/thermal Solar Collectors for Air Heating [J]. Applied Energy,2011,88(11): 3603-3614.   \n[8] 胡广良，季杰，周天泰．光伏热水模块[P]. CN101408342, 2007. Hu Guangliang, Ji Jie, Zhou Tiantai. Photovoltaic-Hot Water Module [P]. CN101408342,2007.   \n[9] Blocker W. High-efficiency Solar Energy Conversion Through Flux Concentration and Spectrum Spliting [C]// Proceedings of the IEEE,1978,104--105.   \n[10] Jiang S L,Hu P,Mo S P,et al. Optical Modeling for a Two-stage Parabolic Trough Concentrating Photovoltaic/thermalSystemUsingSpectralBeam Splitting Technology [J]. Solar Energy Materials and Solar Cells,2010, 94: 1686--1696.   \n[11] Imenes A G, Mills D R. Spectral Beam Splitting Technology for Increased Conversion Efficiency in Solar Concentrating Systems: a Review [J]. Solar Energy Materials and Solar Cells,2004,84:19--69.   \n[12] Hu Peng, Zhang Qian, Liu Yang, et al. Optical Analysis of aHybrid SolarConcentratingPhotovoltaic/Thermal (CPV/T） System with Beam Spliting Technique [J]. Sci China Tech Sci,2013,56:1387--1394.   \n[13] Haught A F. Physics Considerations of Solar Energy Conversion [J]. Joumal of Solar Energy Engineering,1984, 106.   \n[14] National Renewable Energy Laboratory (NREL). Soltrace Optical Modeling Software[EB/OL]. Availableat: <http://www.nrel.gov/csp/soltrace $/ >$ [accessed 1.3.2014].   \n[15] Spencer G H, Murty M V R K. General Ray-Tracing Procedure [J]. Journal of the Optical Society of America, 1962,52: 672--678.   \n[16] Maliage M,Roos T.The Flux Distribution from a $1 . 2 5 \\mathrm { m } ^ { 2 }$ （204号 target Aligned Heliostat: Comparison of Ray Tracing and Experimental Results [C]// 1st Southern African Solar Energy Conference. South Africa,2012.   \n[17] Lu Z H, Song Q,. Li S Q, et al. The Effect of Non-uniform IlluminationonthePerformanceofConventional Polycrystalline Silicon Solar Cell [C]// Proceedings of ISES Solar World Congress,2007,3: 1445--1448.   \n[18] Gopal R,Dwivedi R, Srivastava SK.Effect of Nonuniform Illumination on the Photovoltaic Decay Characteristic of Solar Cells [J]. Electron Devices,IEEE Transactions,1986, 33: 802-809.   \n[19] Andreev V,Grilikhes V, Rumyantsev V,et al.Effect of Nonuniform Light Intensity Distribution on Temperature Coefficients of Concentrator Solar Cells [C]// Photovoltaic Energy Conversion，2003．Proceedings of 3rd World Conference on, 2003,881--884.   \n[20] Luque A,Sala G,Arboiro JC.Electric and Thermal Model for Non-uniformly Illuminated Concentration Cells [J]. Solar Energy Materialsand Solar Cells，1998，51: 269--290.   \n[21] H.M.Giiven.Bannerot R B.Derivation of universal error parameters for comprehensive optical analysis of parabolic trough[C]// ASES Solar Energy Conference-Proceeding of ASME,1985. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

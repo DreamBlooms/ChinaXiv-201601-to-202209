@@ -1,0 +1,570 @@
+[
+    {
+        "type": "text",
+        "text": "Tao Hongren,LinRuilin,ShiLiqin,LiuSiqing,Zhang Xiaoxin,Gong Jiancun.Centralradiationmodelofprotonradiationbelt (in Chinese).Chin.J. Space Sci.,2015,35(3):293-305,doi:10.11728/cjss2015.03.293 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "质子辐射带辐射中心区域模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陶宏任1,2 林瑞淋1 师立勤1  \n刘四清1 张效信3 龚建村1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(中国科学院空间科学与应用研究中心北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3(中国气象局国家空间天气监测预警中心北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要利用 AP-8 和CRRESPRO质子辐射带模式数据库，比较了二者在磁赤道面上计算结果的差异并给出其差异原因．利用AP-8模式数据库数据，建立起质子辐射带函数形式的辐射中心区域模式，包括各能道全向微分通量峰值所对应的 $L$ 值 $\\left( L _ { \\mathrm { c } } \\right)$ 随能量 $E$ 的变化模式以及各能道全向微分通量峰值 $J _ { \\mathrm { m a x } }$ 随能量 $E$ 的变化模式．利用RBSP A卫星REPT 望远镜在磁赤道面上的高能质子观测数据，分别与 AP-8 模式、CRRESPRO 模式及本文所得辐射中心区域模式计算结果进行比较，发现在78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 三个能道上，RBSPA卫星观测所得各能道全向微分通量明显偏大，而 $L _ { \\mathrm { c } }$ 与AP-8或本文辐射中心模式所得结果基本一致；RBSPA卫星也观测到CRRESPROQuiet 模式所得的隐性第二质子辐射带结构.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 质子辐射带,经验模式,AP-8 模式,CRRESPRO 模式,RBSP 卫星中图分类号P353",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Central Radiation Model of Proton Radiation Belt ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TAO Hongren $_ { . } { 1 , 2 }$ （204 LIN Ruilin1 SHI Liqin1 LIU Siqing1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiaoxin $^ 3$ GONG Jiancun1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(Center for Space Science and Applied Research,Chinese Academy of Sciences,Beijing 100190) 2(University of Chinese Academy of Sciences,Beijing 100049) 3(National Center for Space Weather,China Meteorological Administration,Beijing 100081) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractAccording to the databases of AP-8 and CRRESPRO proton radiation belt models, comparison between both models on the magnetic equator is carred out and reasons for their diffrences are presented. The model of proton radiation belt for the peak radiation region is developed by using the analytic function,which includes the submodel for relationship between the $L$ value corresponding to the peak value of omni-directional proton differential fux ( $L _ { \\mathrm { c } }$ ） and the proton energy, and the submodel for relationship between the peak value of omni-directional proton diferential fux ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$J _ { \\mathrm { m a x } }$ and the proton energy. Finally, the observation of energetic proton on the magnetic equator from RBSP A satelite's REPT telescope is used to compare with the results from AP-8 model, CRRESPRO model and the central radiation model. It is found that the values of omni-directional proton differential fux for 78.9,102.6 and 208 MeV channels from RBSP A satelite are obviously larger than those from the three models,but the values of $L _ { \\mathrm { c } }$ from RBSPA satellite are very close to those from AP-8 model and the central radiation model,and RBSP satellite also observes the hidden secondary proton radiation belt presented by CRRESPRO Quiet model. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key wordsProton radiation belts, Empirical model, AP-8 model, CRRESPRO model, RBSP satellite ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地球辐射带又称VanAllen带，是指近地空间被地磁场捕获的高通量、高能带电粒子集中区域包括质子辐射带和电子辐射带[1]．质子辐射带内聚集着大量能级范围在0.1到几百MeV的高能质子，甚至存在少量达到 $\\mathrm { G e V }$ 的高能质子[2-3]．根据 AP-8 模式计算，大于 $1 0 \\mathrm { M e V }$ 的高能质子分布在 $L$ 为 $1 . 1 4 { \\sim } 3 . 7 \\$ 、磁纬度绝对值约小于 $5 0 ^ { \\circ }$ 的空间区域,在南大西洋异常区，质子辐射带中高能质子分布的最低高度可低于 $2 0 0 \\mathrm { k m } ^ { [ 2 ] }$ ．质子辐射带中的高能质子可引起航天器材料的辐射损伤和电子器件的单粒子效应，对运行于其中的中低轨道航天器在轨运行安全构成威胁，甚至还威胁到低轨道载人航天器中航天员的生命安全[4]．因此，了解质子辐射带高能质子的分布特性及其变化规律,构建质子辐射带分布模式，对于减缓或规避质子辐射带所造成的危害起到至关重要的作用.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 20 世纪60 至 70 年代，美国 NASA依据1958－1970 年大量卫星对质子辐射带的观测数据构建了从 AP-1 到 AP-8 系列静态质子辐射带经验模式[2,5-7]，其中 AP-8 模式包括太阳活动低年MIN和太阳活动高年MAX两个子模式，反映了太阳辐射对低高度质子辐射带的影响，并且其适用范围较广，能量适用范围为 $0 . 1 { \\sim } 4 0 0 \\mathrm { M e V } ,$ $L$ 值适用范围为 $1 . 1 4 \\mathrm { \\sim } 6 . 6$ ， $B / B _ { 0 }$ 适用范围不限．1994年Meffert 和 Gussenhoven 利用 $1 9 9 0 { - } 1 9 9 1$ 年CR-RES卫星观测数据建立CRRESPRO静态质子辐射带经验模式[8.该模式也包含两个子模式,即地磁平静Quiet 和地磁活跃Active子模式，反映了地磁扰动对质子辐射带的影响，其中CRRESPROActive 模式还得到了第二质子辐射带的重要结果,不过其能量适用范围仅为 $1 . 1 { \\sim } 9 0 . 4 \\mathrm { M e V }$ $L$ 值适用范围为 $1 . 0 { \\sim } 5 . 5$ $B / B _ { 0 }$ 适用范围为 $1 . 0 { \\sim } 6 8 4 . 6 \\$ .1998 年Huston和Pfitzer利用1978-1995年TIROS-N卫星和NOAA系列卫星观测数据，建立了NOAAPRO低高度质子辐射带模式，该模式只适用于 $2 5 0 { \\sim } 8 5 0 \\mathrm { k m }$ 高度范围，只能给出 $> 1 6 \\mathrm { M e V } , > 3 0 \\mathrm { M e V }$ 和 $> \\mathrm { 8 0 M e V }$ 质子全向积分通量，不过该模式首次引入了 $F _ { 1 0 . 7 }$ 指数因子，反映太阳活动周对质子辐射带的影响过程，并且能够描述 $F _ { 1 0 . 7 }$ 与低高度三个能道质子全向积分通量之间的滞后关系[9]．1999 年Heynderick 等利用 1994－1995 年 SAMPEX 卫星 PET 望远镜在 $6 0 0 \\mathrm { k m }$ 高度以下对 $1 8 . 5 { \\sim } 5 0 0 \\mathrm { M e V }$ 的15个能道高能质子单向微分通量的观测数据，建立了SAM-PEX/PETPSB97模型[10]．该模式首次将质子辐射带的能量上限拓宽到 $\\mathrm { 5 0 0 M e V }$ ，不过对于 $1 . 1 { \\sim } 2 . 0 \\$ 内不同的 $L$ 值，实际模式只能提供某一方向上很窄范围内的投掷角微分通量结果,其他方向投掷角微分通量结果只能通过引入假设获得.2002年Huston 和 Xap-sos 等利用1978-1995年TIROS-N卫星和 NOAA系列卫星观测数据以及1990－1991年CRRES卫星观测数据，构建并完善了 TPM-1（Trapped Pro-ton Model-1）质子辐射带经验模式．该模式能量适用范围为 $1 . 5 { \\sim } 8 1 . 3 \\mathrm { M e V }$ ，空间适用范围为 $3 0 0 \\mathrm { k m }$ 至地球静止同步轨道高度.该模式继承了NOAAPRO模式及CRRESPRO模式的优点．通过引入置信度参数,使得该模式能够反映未来太阳活动情况在不同置信水平下对质子辐射带的影响,其中不同时刻所用置信度值与对应太阳活动周中 $F _ { 1 0 . 7 }$ 峰值通量以及该时刻在太阳活动周中所处的时间位置有关[11-13].自2006年起美国多家机构联合利用以往多颗卫星观测数据开发新一代的AE-9/AP-9辐射带模式，并于2012 年建成 AE-9/AP-9V1.0 版本电子和质子辐射带模式，其中 AP-9 V1.0 包括平均值子模块(Mean)、百分位子模块(Percentiles)、扰动平均子模式（PerturbedMean）和蒙特卡罗子模式（MonteCarlo Scenarios)，后面3个子模式可设置不同的ID输入，获得变化结果[14]．虽然 AP-9V1.0 在能量和空间适用范围上与AP-8模式一样，并且能够得到更复杂的变化结果,但该模式主要是为了满足工程设计需要，其变化的输出结果依旧不能反映太阳活动周、地磁扰动等因素的影响．后续AE-9/AP-9版本正在研究中.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "截至目前，虽然已发展了一些质子辐射带经验模式，但对于不同能量在不同区域高能质子辐射通量的计算结果差异有些还比较大，甚至达到1个数量级[10-15]．虽然已了解到太阳活动水平[9,16-17]、地磁扰动[8]、地磁场的长期衰减和西漂[16-20]、地球大气数密度等因素对质子辐射带的影响[21]，但仍缺乏能够描述太阳活动、地磁扰动等因素影响的动态变化的整个质子辐射带经验模式．其主要原因是卫星观测数据质量（例如数据污染、数据定标等问题）及网格化数据库建模方法的局限性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到以往质子辐射带观测数据的质量问题，本文将利用AP-8模式数据库，建立函数形式的质子辐射带辐射中心区域模式，为构建函数形式的动态质子辐射带经验模式奠定基础．同时，将利用目前RB-SP卫星REPT望远镜高能质子观测结果与AP-8模式、CRRESPRO模式及质子辐射带辐射中心区域模式计算结果进行对比.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1数据介绍",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所用数据来自AP-8模式数据库、CRRE-SPRO 模式数据库及RBSP卫星上相对论电子质子望远镜（REPT）高能质子观测数据.AP-8模式数据库数据用于辐射带辐射中心区域建模,其余两个用于与AP-8模式数据库结果或辐射中心区域模式结果的比较.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1AP-8 模式数据库",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AP-8 模式包含了AP-8MIN太阳活动低年子模式和AP-8MAX太阳活动高年子模式.这两个子模式都是静态平均模式，均采用后台网格化数据库的形式建模，通过查询数据库及相应的插值方法获得质子辐射带中各能量的高能质子辐射情况.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AP-8 模式后台网格数据库采用 $( E , \\ L , \\ B / B _ { 0 } )$ 网格点，保存各网格点上相应能量的全向积分通量，AP-8模式后台网格数据库 $E$ 网格点的覆盖范围为$0 . 1 { \\sim } 4 0 0 \\mathrm { M e V } .$ 。共20个固定网格点，近似于能量对数均匀网格点. $L$ 网格点覆盖范围为 $1 . 1 4 \\mathrm { \\sim } 6 . 6$ ，采用非固定非均匀网格点，不同能量其 $L$ 网格覆盖范围不同，网格点数目也不一样，不过在 $L$ 大于1.2的区域内， $L$ 网格点的位置基本相同且间隔均约为0.1. $B /$ $B _ { 0 }$ 网格点覆盖范围为1.0至损失锥角对应的 $B / B _ { 0 }$ 值，采用的也是非固定非均匀网格点，而且不同 $L$ 值的损失锥角不同，其网格点覆盖范围及网格点设置也不同.同一根磁力线上某一能量的 $B / B _ { 0 }$ 网格点,按照以10为底的对数(全向积分通量)以0.25值衰减设置，直到其对应的损失锥角所对应的 $B / B _ { 0 }$ ．详细的 AP-8模式后台网格数据库介绍可参考文献 [2].",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里采用了AP-8模式数据库中磁赤道面上的数据，根据其全向积分通量求得全向微分通量，用于中心区域建模及结果比较.为尽可能减少插值带来的误差，磁赤道面上所采用的 $( E , \\ L , \\ B / B _ { 0 } )$ 网格点与 AP-8模式保持一致，取其中 $B / B _ { 0 } = 1$ 的数据对于某个 $( E _ { 0 } , L _ { 0 } )$ 网格点,采用",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ( E _ { 0 } , L _ { 0 } ) = \\frac { F ( E , L _ { 0 } ) - F ( E _ { 0 } , L _ { 0 } ) } { E - E _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "求得对应的全向微分通量 ${ \\cal J } ( E _ { 0 } , L _ { 0 } )$ ，其中 $F ( E _ { 0 } , L _ { 0 } )$ 为由AP-8 模式数据库所得全向积分通量， $E$ 满足 $\\ln ( E ) - \\ln ( E _ { 0 } ) = 0 . 0 1$ ，对于最后一个 $E _ { 0 }$ 网格点满足 $\\ln ( E ) - \\ln ( E _ { 0 } ) = - 0 . 0 1 , \\ : I$ $F ( E , L _ { 0 } )$ 采用对数积分通量与能量线性插值求得，即对数线性插值法，这与IRBEM软件包中onera_desp_lib. $\\mathrm { W i n 3 2 \\_ x 8 6 . d l l }$ 处理方式一致\\*．需要注意的是，如果采用双对数线性插值方法求解 $F ( E _ { 0 } , L _ { 0 } )$ ，其结果与上述对数线性插值方法所得结果存在差异．这也是数据库建模的一个弊端.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 CRRESPRO模式数据库",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CRRESPRO模式包含CRRESPROQuiet地磁平静子模式和CRRESPROActive地磁活跃子模式.这两个子模式均为静态平均模式,建模方法与AP-8模式一样，都采用后台数据库形式，所不同的是CR-",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESPRO 模式采用了固定的 $E$ (22个网格点)、 $L$ (90个网格点)和 $B / B _ { 0 }$ (34个格段，即35个网格点）网格点，数据库保存的是这些网格点上的全向微分通量值．CRRESPRO后台网格数据库 $E$ 网格点覆盖范围为 ${ 1 . 5 } { \\sim } 8 1 . 3 \\mathrm { M e V }$ ，近似能量对数均匀网格; $L$ 网格点覆盖范围为 $1 . 0 { \\sim } 5 . 4 5$ ，采用间隔为0.05的均匀网格； $B / B _ { 0 }$ 网格点覆盖范围为 $1 . 0 { \\sim } 6 8 4 . 6 \\$ ，采用非均匀网格．详细的CRRESPRO 模式后台网格数据库介绍可参考文献[8].",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 RBSP卫星REPT高能质子观测数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "辐射带风暴探测器(Radiation Belt StormProbes，RBSP）后改名为范艾伦探测器（VanAllenProbes).RBSP共包含A、B两颗孪生卫星，于2012年 8月30日发射，采用一箭双星方式送入预定轨道．这两颗卫星轨道为大椭圆轨道，A卫星轨道远地点为 $3 0 0 5 0 \\mathrm { k m }$ 、近地点 $5 0 0 \\mathrm { k m }$ ；B卫星轨道远地点为 $3 1 2 5 0 \\mathrm { k m }$ 、近地点 $6 7 5 \\mathrm { k m }$ ，两卫星轨道倾角约为 $1 0 ^ { \\circ }$ ，轨道周期约 $9 \\mathrm { { h } ^ { [ 2 2 ] } }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每颗 RBSP卫星上均搭载有5种探测仪器，其中高能粒子、组成与热等离子体仪器(Energetic Par-ticle，Composition，and Thermal Plasma，ECT)[23]和相对论质谱仪(Relativistic Proton Spectrometer,RPS)[3] 可提供高能质子观测数据．ECT 中相对论电子质子望远镜(RelativisticElectron Proton Tele-scope,REPT)[24] 提供 $2 1 . 2 5 { \\sim } 2 0 8 . 0 0 \\mathrm { M e V }$ 高能质子观测数据，RPS提供 $6 0 \\mathrm { M e V } { \\sim } 2 \\mathrm { G e V }$ 高能质子观测数据，不过后者的数据目前尚未完全发布，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里将用到 RBSPA卫星上 2012年9月1日至 2014年2月22日期间 REPT的高能质子观测数据 (RBSPB卫星观测结果类似).REPT望远镜共提供8个能道高能质子方向微分通量观测数据，分别为21.25，27.6，35.9，46.7，60.7，78.9,102.6，208MeV，其投掷角方向的观测依靠卫星自旋实现，自旋周期为 $1 0 { \\sim } 1 5 \\mathrm { s } ^ { [ 2 1 ] }$ ．目前已公布的最新数据为rbspa_rel02_ect-rept-sci-L3数据\\*，包括投掷角归组处理后的数据和未归组处理的原始数据．这里采用的是后者中的FPDU_Unbinned-Oto180原始数据．在该数据中，卫星每自旋一周，完成一个时刻的整个投掷角方向探测．在每一时刻的数据中收集了36个投掷角方向数据，由于卫星自转轴方向几乎与磁力线垂直，所以每一时刻基本可以提供近乎覆盖 $0 ^ { \\circ } \\sim 1 8 0 ^ { \\circ }$ 的投掷角观测数据，不过不同时刻其36个投掷角的方向是不一样的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，只需要磁赤道面上各能量 $E$ 各 $L$ 值高能质子全向微分通量的平均结果，因此对原始数据进行了如下处理，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)去除2012年9月1日至2014年2月22日期间发生太阳质子事件的观测数据.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)提取出 $B / B _ { 0 } \\leqslant 1 . 0 0 1$ 的数据，作为磁赤道面上的观测结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)将磁赤道面上的数据按 $L$ 值进行归组, $L$ 覆盖范围为 $1 . 0 0 { \\sim } 6 . 2 0 \\$ ，分组间隔为0.01.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）对于各个能道，将每组 $L$ 中的数据按投掷角进行分组，投掷角覆盖范围为 $1 ^ { \\circ } { \\sim } 1 7 9 ^ { \\circ }$ ，分组间隔为 $1 ^ { \\circ }$ ，然后将每个投掷角组中的数据按观测所得单向微分通量大小进行排列，各滤除上下两端 $2 5 \\%$ 的数据，以确保尽可能去除污染数据，同时保留无污染观测数据的分布特性",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)对于各个能道,将该 $L$ 组中所得各投掷角组内滤除后剩下的 $5 0 \\%$ 数据求平均值，该值即为该 $L$ 值和投掷角组中所得平均单向微分通量，将用于求解全向微分通量.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6）根据该 $L$ 组中所得的各投掷角平均单向微分通量数据,采用 $j ( \\alpha ) = j _ { \\perp } \\cdot ( \\sin \\alpha ) ^ { n } + c$ 拟合函数,利用Levenberg-Marquardt非线性拟合方法，获得拟合参数 $j _ { \\perp } , n$ 和 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 的值,其中 $j _ { \\perp }$ 为垂直微分通量， $\\alpha$ 为投掷角， $j ( \\alpha )$ 为 $\\alpha$ 投掷角方向上的微分通量, $\\boldsymbol { c }$ 可认为是数据平均污染值，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7)利用",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { J = \\displaystyle \\int _ { \\theta = 0 } ^ { 2 \\pi } \\int _ { \\alpha = 0 } ^ { \\pi } j _ { \\perp } ( \\sin \\alpha ) ^ { n } \\sin \\alpha \\mathrm { d } \\alpha \\mathrm { d } \\theta = } } \\\\ { { \\displaystyle \\quad \\quad 4 \\pi \\int _ { 0 } ^ { \\pi / 2 } j _ { \\perp } ( \\sin \\alpha ) ^ { n + 1 } \\mathrm { d } \\alpha } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "获得该 $L$ 值上的全向微分通量(8)其余各个 $L$ 组也采用类似方法处理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1给出了磁赤道面上 $E = 2 0 8 \\mathrm { M e V }$ ， $L = 1 . 3 9$ 时投掷角数据分布．图1(a）中绿色 $^ { \\ast } + \\astrosun$ 为经过以上 $( 1 ) { \\sim } ( 3 )$ 步骤后未经处理的投掷角数据分布．从图1(a)中绿色‘ $+ ^ { , , , }$ 分布可以看出，有相当一部分观测数据异常.图1(b)中绿色‘ $\\cdot _ { + } , \\ \"$ 为经过以上 $( 1 ) { \\sim } ( 4 )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d4449f80e42c685544789787184077c75d02e78eb27bc7bad0710e335f86989.jpg",
+        "img_caption": [
+            "图1磁赤道面上RBSPA卫星观测所得 $E = 2 0 8 \\mathrm { M e V }$ 2 $L = 1 . 3 9$ 组投掷角数据分布.(a)未经处理的投掷角数据分布，(b）处理后的投掷角数据分布及拟合结果",
+            "Fig.1Pitch angle distribution of the bin with $E = 2 0 8 \\mathrm { M e V }$ and $L = 1 . 3 9$ from RBSP A observation on the magnetic equator:(a) original data,(b) processed data and fitting result "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤处理后的投掷角数据分布，可以看出，基本滤除了所有异常投掷角观测数据，投掷角数据分布也相当有规律.图1(b）中黑色‘ $+ ^ { , , , }$ 为经过步骤 $( 1 ) { \\sim } ( 5 )$ 处理后所得的各投掷角平均单向微分通量．图1(b）中红线为黑色‘ $\\cdot _ { + } ,$ 点经过步骤 $( 1 ) { \\sim } ( 6 )$ 后所得的拟合曲线结果.从图中可知, $j ( \\alpha ) = f _ { \\perp } ( \\sin \\alpha ) ^ { n } + c$ 拟合的效果还是相当好的.图1(b）中两条蓝色竖线为损失锥角，该损失锥角是在假定地磁场为偶极场且高能质子只能运行到 $1 0 0 \\mathrm { k m }$ 高度条件下获得的.从图1可知，损失锥内实际观测的结果并不为0，可能是由于探测器受到污染引起的，但图中所显示的损失锥内污染还比较小，同时污染随投掷角变化也较小.通过步骤（7）既可去除部分污染，还可求得全向积分通量",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上所用的投掷角数据、 $B / B _ { 0 }$ 值、 $L$ 值均由rb-spa_rel02_ect-rept-sci-L3数据提供，通过 OP77Q外源场模式及IGRF 内源场模式计算得到[25-26].",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在REPT观测所得8个能道高能质子观测数据中，根据以上方式处理可知，前5个能道损失锥内所受污染比较严重，而且在相当一部分区域，污染随投掷角变化比较剧烈.因此本研究中只采用78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 三个能道的数据结果，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 磁赤道面上AP-8与CRRESPRO模式结果比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于AP-8模式与CRRESPRO模式的结果比较以及两模式所得结果与卫星实测数据之间的比较，已有相关文献研究[12,14]．不过其主要是集中于模式特点、南大西洋异常区积分通量或典型轨道上能谱计算结果比较.这里将集中于磁赤道面上两模式各能段微分通量观测结果的差异比较.为尽可能避免网格插值带来的误差 (不同的插值方法获得的结果是有差异的)，保持模式原先的 $E$ 和 $L$ 网格点，只有在利用AP-8模式求解全向微分通量时采用了插值处理如1.1节所述",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2(a）中显示了磁赤道面上AP-8模式所得全向微分通量 $J$ 的空间分布．在图2(a）中，黑线表示 AP-8MIN子模式各网格点上所得的全向微分通量结果,其中网格点如黑色‘ $+ ^ { , , }$ 所示，在绝大部分区域中,其 $L$ 值的网格点间隔为0.1；红线表示 AP-8MAX子模式各网格点上所得的全向微分通量结果，其网格点绝大部分与 AP-8 MIN 子模式一致，网格点差异主要出现在 $L \\leqslant 1 . 1 6$ 区间上；图中数字表示各 $L \\mathrm { - } J$ 曲线所对应的能量值.从图2(a)中可知，在绝大部分磁赤道面空间区域，AP-8 MIN 子模式和AP-8MAX子模式所得的全向微分通量结果基本相同，其差异主要出现在 $L \\leqslant 1 . 3$ 的区域范围内；各个能道辐射通量的 $L$ 空间分布范围基本上随着能量的增加而减小，每个能道辐射中心区域 $L$ 值随着能量增加而减少，辐射全向微分通量也随着能量增加而减少.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/466f0778afda25faaf39bae16bcc8592a953a351ce517b89b096245b1330da1c.jpg",
+        "img_caption": [
+            "图2磁赤道面上AP-8模式与CRRESPRO模式所得全向微分通量空间分布:(a）AP-8 MIN（黑线)和AP-8 MAX (红线)子模式所得结果，(b)CRRESPRO Quiet（黑线）和 CRRESPRO Active (红线和蓝线)子模式所得结果 Fig.2Spatial distributions of omni-directional proton diferential fux on the magnetic equator from AP-8 and CRRESPRO models: (a) AP-8 MIN (black curves) and AP-8 MAX (red curves) submodels; (b) CRRESPRO Quiet (black curves) and CRRESPRO Active (red and blue curves） submodels "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2(b）中显示了磁赤道面上CRRESPRO 模式所得全向微分通量的空间分布.在图2(b)中，黑线表示CRRESPROQuiet子模式各网格点上所得的全向微分通量结果，红线表示CRRESPROActive子模式各网格点上的全向微分通量结果，蓝线表示CRRE-SPRO Active子模式在 $E = 2 6 . 3 \\mathrm { M e V }$ 时的全向微分通量,两个子模式的网格点 $L$ 间隔均为0.05；图中各曲线对应能量 $E$ 见图注,全向微分通量最强的曲线对应能量最小，随着能量的增加，其曲线的全向微分通量基本是不断减小的 (在第二质子辐射带有些异常)．从图 2(b）可知，在磁赤道面上绝大部分的区域空间，CRRESPROQuiet子模式与CRRESPROAc-tive子模式所得的全向微分通量结果差异还是比较大的;在 $E \\geqslant 2 6 . 3 \\mathrm { M e V }$ 能道上，CRRESPROActive子模式得到的全向微分通量随 $L$ 变化的曲线出现明显的双峰结构，即出现了第二质子辐射带，第二峰所在位置大致在 $L$ 为 $2 . 2 { \\sim } 2 . 3$ 内，然而CRRESPROQuiet 子模式没有得到双峰结构，但在 $L \\geqslant 1 . 9$ 区域上，CRRESPROQuiet 子模式得到全向微分通量随着 $L$ 衰减的速度明显减缓，其结构似乎可以看成是原质子辐射带与隐性第二质子辐射带叠加造成的，只是隐性的第二质子辐射带峰值通量明显比原质子辐射带的峰值通量小，因此未能显示出显性的双峰结构；在 $E \\mathrm { ~ < ~ } 2 6 . 3 \\mathrm { M e V }$ 能道上，CRRESPRO Qui-et 子模式和 CRRESPRO Active子模式同样得到隐性的第二质子辐射带结构，有些能道上甚至已得到显性的双峰结构,例如CRRESPROQuiet 子模式所得 $E \\ : = \\ : 6 . 8 \\mathrm { M e V }$ 能道上全向微分通量两个峰值大小接近，只是相距较近，CRRESPROActive子模式在 $E = 1 0 . 7 \\mathrm { M e V }$ 能道上也有类似结果；对于CRRE-SPROQuiet子模式，在 $E < 6 . 8 \\mathrm { M e V }$ 能道上，隐性的质子辐射带出现在内侧，在 $E > 6 . 8 \\mathrm { M e V }$ 能道上，隐性的质子辐射带出现在外侧；对于CRRESPROAc-tive子模式来讲，在 $E < 1 0 . 7 \\mathrm { M e V }$ 能道上，隐性的质子辐射带出现在内侧,在 $1 0 . 7 < E < 2 6 . 3 \\mathrm { M e V }$ 能道上，隐性的质子辐射带出现在外侧；CRRESPROQuiet与CRRESPROActive子模式最大的差异出现在外侧的质子辐射带上；在 $L \\leqslant 1 . 6 5$ 区间，各能道上两子模式所得全向微分通量差异较小，对于能量较大的能道 (如 $E \\geqslant 2 6 . 3 \\mathrm { M e V } )$ ，在 $1 . 6 5 < L \\leqslant 1 . 9$ 区间，两子模式所得全向微分通量差异也是比较小的，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图2(a）与图2(b)的比较可知，从基本结构上看，AP-8模式和CRRESPRO 模式所得全向微分通量差异还是比较明显的，主要表现为，对于 $L \\geqslant 2$ 的所有能道，AP-8模式只表现出一个质子辐射带的结构特征，然而对于CRRESPROQuiet模式，当能量大于一定值时，似乎表现出两个质子辐射带的叠加结构,对于CRRESPROActive模式，当 $E \\geqslant 2 6 . 3 \\mathrm { M e V }$ 时,出现了明显的双峰结构；在 $L$ 大于峰值的区域范围内，对于各能道，AP-8模式得到的对数全向微分通量随 $L$ 值的增加先减小得较慢，而后减小得较快，即斜率越来越大，然而CRRESPRO模式得到对数全向微分通量过了峰值一小段区域后随着 $L$ 值的增加基本呈线性方式减小.如果要定量比较， $L$ 值较小时，CRRESPRO模式所得结果明显比AP-8模式所得结果大；在 $L$ 值较大时，CRRESPRO模式所得结果明显比AP-8模式所得结果小(第二质子辐射带峰值及其附近区域除外)．对于定量比较，不同能道上的比较结果有各自的差异表现，在此不一一讨论.第3节将重点比较 AP-8 模式与 CRRESPRO 模式所得各能道上全向微分通量辐射中心区域定量结果的差异.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3质子辐射带中心区域建模",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从第2 节可知，AP-8 模式与 CRRESPRO 模式所得全向微分通量结果的差异比较大．这里将利用AP-8模式数据库建立函数形式的质子辐射带中心区域模式(最强区域在 $B / B _ { 0 } = 1 . 0$ 的磁赤道面上),包括各能道全向微分通量峰值所对应的 $L$ 值 $\\left( L _ { \\mathrm { c } } \\right)$ 随能量 $E$ 的变化模式及各能道全向微分通量峰值 $J _ { \\mathrm { m a x } }$ 随能量 $E$ 的变化模式.在构建辐射中心区域模式过程中，定量比较AP-8模式与CRRESPRO模式所得质子辐射带辐射中心区域结果的差异.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 辐射中心区域 $\\mathbf { { L } } _ { \\mathrm { { c } } }$ 随 $\\scriptstyle { E }$ 的变化模式",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据图2所得结果，容易获取AP-8模式和CRRESPRO模式所得磁赤道面上各能道高能质子最强全向微分通量所对应的 $L$ 值 $\\left( \\boldsymbol { L } _ { \\mathrm { c } } \\right)$ 及其相应全向微分通量峰值 $J _ { \\mathrm { m a x } }$ ．对于CRRESPROActive模式，在高能段出现两个峰值，只采用内侧较大的峰值及其所对应的 $\\scriptstyle L _ { \\mathrm { c } }$ 值.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图3显示了AP-8模式和CRRESPRO模式所得磁赤道面上各能道高能质子最强全向微分通量所对应的 $L$ 值随能量 $E$ 的变化.从图中AP-8模式(AP-8MIN与AP-8MAX子模式所得结果一致)所得结果可知，在 $E < 1 \\mathrm { M e V }$ 和 $E > 2 0 \\mathrm { M e V }$ 区域,辐射带中心位置 $L _ { \\mathrm { c } }$ 随能量变化相对比较缓慢;在低能端区域$L _ { \\mathrm { c } }$ 随着能量减小其增加的速度越来越缓慢，有趋近于饱和的趋势;在高能端区域， $L _ { \\mathrm { c } }$ 随能量的增加而减小的速度越来越缓慢，也有趋近于饱和状态的趋势;在 $1 \\leqslant E \\leqslant 2 0 \\mathrm { M e V }$ 区域，辐射带辐射中心位置随着能量增加而减小的速度很快， $ { L _ { \\mathrm { c } } }$ 与 $\\log ( E )$ 基本上呈线性变化关系．从图中CRRESPRO模式所得结果可知,Quiet 子模式在 $E$ 为 ${ 5 . 7 { \\sim } 6 . 8 \\mathrm { M e V } }$ 时 $\\scriptstyle L _ { \\mathrm { c } }$ 出现明显突变；Active子模式在 $E$ 为 $1 0 . 7 { \\sim } 1 3 . 2 \\mathrm { M e V }$ 时 $\\scriptstyle L _ { \\mathrm { c } }$ 也出现突变情况；在突变所对应的能量之前CRRESPRO模式也显示出 $ { L _ { \\mathrm { c } } }$ 与 $\\log ( E )$ 基本呈线性变化关系，在突变对应的能量之后， $\\scriptstyle L _ { \\mathrm { c } }$ 随着能量增加而减小的速度相对比较缓慢.CRRESPRO模式所得到的这种突变现象主要是由于隐性的第二质子辐射带和原质子辐射带叠加造成的，如图2(b）所示",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于AP-8 模式能量的覆盖范围较广，而且 $ { L _ { \\mathrm { c } } }$ 与 $E$ 之间比较有规律性，这里采用AP-8模式数据库所得结果进行辐射带中心区域 $\\scriptstyle L _ { \\mathrm { c } }$ 与 $E$ 的建模.根据图3中AP-8模式所得 $ { L _ { \\mathrm { c } } }$ 和 $E$ 的关系,选用",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { c } } ( E ) = { \\frac { a _ { 0 } } { E ^ { a _ { 1 } } + a _ { 2 } } } + a _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "拟合方程，采用Levenberg-Marquardt非线性拟合方法，得到各拟合系数分别为 $a _ { 0 } ~ = ~ - 0 . 5 1 5$ ， $a _ { 1 } =$ −1.195, $a _ { 2 } ~ = ~ 0 . 2 4 5$ ， $a _ { 3 } ~ = ~ 3 . 3 6 6$ ， $L _ { \\mathrm { c } }$ 拟合的标准偏差为0.0850.拟合函数所得到的曲线如图3中黑色曲线所示，AP-8模式结果与拟合结果吻合很好,AP-8 模式结果基本均匀分布于拟合函数所得曲线的两边，而且 $L _ { \\mathrm { c } }$ 拟合的标准偏差比AP-8模式辐射中心及其附近 $L$ 网格点间隔0.1还要小．所得 $L _ { \\mathrm { c } }$ 和 $E$ 的关系模式修复了AP-8模式因网格点粗糙所带来的小幅度突变,同时模式也具备一定的 $E$ 适用范围拓展能力．通过CRRESPRO 模式结果与拟合函数曲线的比较可知，在大部分能道上CRRESPRO模式所得 $\\scriptstyle L _ { \\mathrm { c } }$ 比函数拟合模式所得结果小.",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/171dbbe806f3c7a66af2af95170ca44d108280081a26f39754c1fce5fbf82f1f.jpg",
+        "img_caption": [
+            "图3AP-8 模式和 CRRESPRO 模式所得磁赤道面上各能道高能质子最强全向微分通量对应 $L$ 值 $\\langle L _ { \\mathrm { c } }$ ）随能量 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ 的变化以及 $L _ { \\mathrm { c } } ( E )$ 函数拟合结果",
+            "Fig.3Distributions of $L _ { \\mathrm { c } }$ corresponding to the peak value of omni-directional proton differential flux for various energy channels in the $E$ $L$ coordinates on the magnetic equator from AP-8 and CRRESPRO models and the fitting result of $L _ { \\mathrm { c } } ( E )$ function "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 辐射中心区域 $J _ { \\mathbf { m a x } }$ 随 $\\scriptstyle { E }$ 的变化模式",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图4显示了AP-8模式和CRRESPRO模式所得磁赤道面上各能道高能质子最强全向微分通量 $J _ { \\mathrm { m a x } }$ 随能量 $E$ 的变化．从图中AP-8 模式（AP-8MIN和AP-8MAX子模式所得结果一致）的结果可以看出，随着能量增加，辐射带中心区域最强全向微分通量 $J _ { \\mathrm { m a x } }$ 下降速度非常快，当 $E \\ = \\ 0 . 0 1 \\mathrm { M e V }$ 时， $J _ { \\mathrm { { m a x } } } ~ = ~ 1 . 4 3 ~ \\times ~ 1 0 ^ { 9 } { \\cdot } \\mathrm { { c } \\mathrm { { m } ^ { - 2 } { \\cdot } \\mathrm { { s } ^ { - 1 } } { \\cdot } \\mathrm { { M e V } ^ { - 1 } } } } ,$ 当 $E =$ $4 0 0 \\mathrm { M e V }$ 时， $J _ { \\mathrm { { m a x } } } = 6 . 9 4 \\mathrm { { c m } ^ { - 2 } { \\cdot } s ^ { - 1 } { \\cdot } M e V ^ { - 1 } }$ ；在 $E <$ $\\mathrm { 5 0 M e V }$ 区域, $ { \\mathrm { l g } } J$ 与 $\\mathrm { l g } E$ 呈类似抛物线关系，在 $E \\geqslant$ $\\mathrm { 5 0 M e V }$ 区域，二者呈现出另一个类似抛物线关系．从图中CRRESPRO 模式所得结果可知, $\\lg ( J )$ 与 $\\log ( E )$ 呈现出近似线性关系．通过AP-8模式与CRRE-SPRO 模式所得结果比较可知，在 $E \\leqslant 1 0 \\mathrm { M e V }$ 区间内,CRRESPROQuiet 子模式所得 $J _ { \\mathrm { m a x } }$ 明显比AP-8 模式所得结果小，CRRESPRO Active 子模式所得 $J _ { \\mathrm { m a x } }$ 大部分与 AP-8 模式所得结果一致；在 $E >$ $1 0 \\mathrm { M e V }$ 区间，CRRESPROQuiet 子模式与 CRRE-SPROActive子模式所得 $J _ { \\mathrm { m a x } }$ 明显比AP-8 模式所得结果大.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "仍然采用AP-8模式数据库所得结果进行辐射带辐射中心区域 $J _ { \\mathrm { m a x } }$ 与 $E$ 的关系建模．根据图4中 AP-8 模式所得 $J _ { \\mathrm { m a x } }$ 与 $E$ 的关系,选用",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln ( J _ { \\mathrm { m a x } } ) = b _ { 0 } + b _ { 1 } \\mathrm { e } ^ { b _ { 2 } E ^ { b _ { 3 } } } + b _ { 4 } E\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "拟合方程,采用Levenberg-Marquardt非线性拟合方法，得到拟合系数分别为 $b _ { 0 } = 5 . 4 9 6$ ， $b _ { 1 } = 1 6 . 8 5 8$ $b _ { 2 } = - 0 . 2 8 4$ ， $b _ { 3 } = 0 . 5 9 2$ ， $b _ { 4 } = - 0 . 0 0 8 6 5$ ， $\\ln ( J _ { \\mathrm { m a x } } )$ 拟合的标准偏差为0.226.拟合函数结果如图4黑色曲线所示，AP-8模式结果与拟合结果吻合很好，同时模式也具备一定的 $E$ 值适用范围拓展能力.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4磁赤道面上RBSPA卫星观测结果与模式计算结果比较",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据1.3节所描述的处理方法，容易获得RBSPA 卫星上REPT 望远镜在磁赤道面的 78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 三个能道观测所得全向微分通量随着 $L$ 值的变化，其结果如图5中‘ $\\cdot _ { + } , \\cdot _ { }$ 所示.图5中同时给出了AP-8模式和CRRESPRO 模式在这三个能道上的计算结果．由于这三个能道并不在 AP-8 模式和CRRESPRO模式数据能量网格点上，因此采用对数全向微分通量与对数能量的线性插值求得，即双对数插值方法.对于 AP-8MIN 模式或 AP-8MAX模式，不同能道其 $L$ 网格点在 $L$ 值较小时是不同的，因此先采用对数全向微分通量与 $L$ 值的线性插值求得，获得上下两能道同样 $L$ 网格点数据，再采用双对数线性插值方法求得磁赤道面78.9，102.6或208MeV能道上模式计算所得全向微分通量随 $L$ 值变化结果．由于CRRESPRO 模式能量使用范围上限为 $8 1 . 3 \\mathrm { M e V }$ ，仅能获得 $7 8 . 9 \\mathrm { M e V }$ 能道结果，如图5所示.",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d585916df59c79b94ce25ecf01fc8eab83e4adf070e809eb05afa7ca9157b229.jpg",
+        "img_caption": [
+            "图4AP-8 模式和 CRRESPRO 模式所得磁赤道面上各能道高能质子最强微分通量 $J _ { \\mathrm { m a x } }$ 随能量 $\\boldsymbol { \\mathbf { \\mathit { E } } }$ 的变化及 $J _ { \\mathrm { m a x } } ( E )$ 函数拟合结果",
+            "Fig.4Distributions of the peak value of omni-directional proton differential flux $J _ { \\mathrm { m a x } }$ for various energy channels in the $E \\mathrm { - } J$ coordinates on the magnetic equator from AP-8 and CRRESPRO models and the fitting result of $J _ { \\operatorname* { m a x } } ( E )$ function "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e62b3958583eaa23747267190a5a876f7d1a068fa0c03bc7d8bf16f41cba0fe6.jpg",
+        "img_caption": [
+            "图5磁赤道面上RBSPA卫星REPT望远镜三个能道观测所得全向微分通量结果与AP-8模式和CRRESPRO 模式计算所得结果比较",
+            "Fig.5Comparison of omni-irectional proton diffrentialffux from the observation of RBSP A satellite's REPT telescope and from the calculations of AP-8 and CRRESPRO models for the three energy channels "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图5可以看出，在磁赤道面上RBSPA卫星观测所得78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 三个能道上的观测结果明显比 AP-8MIN 模式或 AP-8 MAX模式计算结果偏大约几倍到十几倍；在 $L < 1 . 2$ 区域,",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RBSPA卫星观测所得 $7 8 . 9 \\mathrm { M e V }$ 能道上的观测结果与CRRESPROQuiet子模式或CRRESPROActive子模式结果相当，而其他区域也明显比CRRESPROQuiet子模式或CRRESPROActive子模式计算所得结果大；RBSPA卫星在78.9，102.6和 208MeV三个能道上均观测到隐性的第二质子辐射带，该结果与CRRESPROQuiet 模式所得结果一致，而且所得全向微分通量随 $L$ 值衰减速度的明显减缓均出现在 $1 . 9 \\leqslant L \\leqslant 2 . 0$ 区域内.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从图3可以明显看出，RBSPA卫星观测所得78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 三个能道上最强全向微分通量对应的 $L$ 值与AP-8模式所得结果基本一致，比本文所得辐射中心区域模式所得 $\\scriptstyle L _ { \\mathrm { c } }$ 略小，差值在0.05以内,在AP-8模式此处 $L$ 网格点间隔的0.1以内．从图4可以明显看出，RBSPA卫星观测所得78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 三个能道上最强全向微分通量明显大于AP-8模式结果或本文辐射中心区域模式结果，分别为本文辐射中心区域模式计算结果的5.7倍、4.1倍和12.6倍.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在 $E \\geqslant 2 6 . 3 \\mathrm { M e V }$ 能道上，从CRRESPROQuiet子模式所得的隐性第二质子辐射带发展到CRRESPROActive子模式所得的显性第二质子辐射带．对于第二质子辐射带的形成，认为需要强太阳质子事件、大地磁暴和大行星激波三个条件，目前国际上主要有以下两种解释 [27-29]：第一,太阳质子通过磁暴急始被脉冲电场加速并注入内磁层，从而形成第二质子辐射带；第二，磁暴主相期间渗透到内磁层的太阳质子在磁暴恢复相期间被捕获，从而形成第二质子辐射带，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "关于AP-8模式与CRRESPRO模式之间的明显差异，其影响因素较多，主要可能有以下四个方面原因.(1）质子辐射带是动态的，受多种因素影响，例如地磁暴、太阳EUV辐射等，而两模式都仅考虑了一个因素，而且所考虑的影响因素不同，此外只考虑了静态的平均结果;(2)两模式建模数据不一样,其定标结果可能存在差异，而且数据覆盖的年代也不一样并相距二三十年，质子辐射带在这样长时间过程中可能出现演变；(3)不同卫星高能质子探测器受污染情况不一样，即使是同一卫星高能质子探测器，在不同能道、不同位置或不同投掷角方向受污染的情况也不相同，因此难以确保所采用的数据污染被去除干净;(4）在质子辐射带建模时，除定标和去污染外，处理方式不当也会带来建模数据误差，例如CRRES卫星在近地点运行速度太快而 $L$ 网格点距离(0.05)太大所带来的误差、 $L$ 和 $B / B _ { 0 }$ 网格化求平均带来的误差以及磁场模式不同造成的差异等，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5讨论及分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "利用AP-8模式与CRRESPRO 模式数据库,对磁赤道面上各能道高能质子全向微分通量结果进行了比较.AP-8 MIN 和 AP-8 MAX 两子模式在绝大部分磁赤道面空间所得全向微分通量结果基本相同，其差异主要出现在 $L \\leqslant 1 . 3$ 的区域内，如图5所示．其原因为AP-8模式主要考虑的是太阳活动周对低高度质子辐射带的影响．在低高度上AP-8MIN子模式所得结果之所以比AP-8MAX子模式高，依据 Miyoshi 等研究[16]，其原因有两个方面.(1)太阳活动低年时产生质子辐射带的宇宙线中子反照增强，即在太阳活动低年时，太阳风和行星际磁场较弱且比较稳定，对宇宙线调制作用较弱，使得到达地球的宇宙线较强，产生了强的宇宙线中子反照，造成低高度上AP-8MIN模式结果较大；(2）太阳活动高年时质子辐射带损失增强，即在太阳活动高年时，太阳EUV辐射增强,使得大气温度升高,大气的标高升高,大气密度上升，造成质子辐射带中有更多的高能质子被耗散到损失锥内.CRRESPROQuiet和CRRESPROActive两子模式在绝大部分磁赤道面空间所得的全向微分通量结果差异比较大，特别是",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "鉴于目前 AP-8 模式与 CRRESPRO 模式整体结果差异较大且网格化建模存在问题，采用AP-8模式数据库数据建立了函数形式的质子辐射带辐射中心模式,避免不同能量之间最强全向微分通量及其对应的 $L$ 值 $\\left( L _ { \\mathrm { c } } \\right)$ 出现明显突变等非物理现象，也避免了网格化模式在求解非网格点上的结果时不同插值方法带来的结果差异，同时函数形式的模式还可拓展能量的适用范围.对于图3所示AP-8模式所得不同能量 $\\scriptstyle L _ { \\mathrm { c } }$ 的不连续现象，似乎是由于建模时网格化过于粗糙造成的，因为AP-8模式所得 $\\scriptstyle L _ { \\mathrm { c } }$ 与本文辐射中心模式所得结果的差异基本在AP-8 模式此处网格点间隔的0.1以内.图3所示CRRESPRO 模式所得 $L _ { \\mathrm { c } }$ 大多比AP-8模式和本文辐射中心模式所得结果小，这可能与地磁场长时间衰减引起壳层下沉有关.CRRESPRO模式所得 $L _ { \\mathrm { c } }$ 随能量变化出现明显突变,这是由于CRRESPRO模式隐性质子辐射带随着能量上升从内侧变化到外侧造成的，如图2所示对于中心区域各能量最强的全向微分通量，本文辐射中心模式、AP-8模式及CRRESPRO模式所得结果差异较小．本文辐射中心模式关于能量合理的拓展范围还需要其他卫星提供低能段和高能段数据进行验证，目前本文辐射中心模式所得 $J _ { \\mathrm { m a x } }$ 在高能段，例如 $E > 1 \\mathrm { G e V }$ 区域,其结果可能衰减过快.在获取高能段实测数据之后(例如RBSPRPS观测数据完全公开后)，只需将模式拟合方程由 $b _ { 4 } E$ 改为 $b _ { 4 } E ^ { b _ { 5 } }$ 再进行拟合.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过各模式所得与RBSPA卫星REPT望远镜观测结果的比较可知，至少在78.9,102.6或 $2 0 8 \\mathrm { M e V }$ 能道上RBSPA 观测所得全向微分通量过大，需要重新定标．不过这三个能道最强全向微分通量所对应的 $L$ 值与AP-8模式或本文辐射中心模式计算结果差异很小．因为对于某一能道高能质子而言，如果受污染或定标不准所得的全向微分通量观测结果与实际结果呈线性关系，只要其缩放系数和常数因子与 $L$ 值无关，则观测所得的最强全向微分通量对应的 $L$ 值就不会因为污染或定标不准而改变",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6结语 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "依据AP-8和CRRESPRO 模式数据库，系统比较了其在磁赤道面上计算结果的差异并给出相应解释.同时利用AP-8模式数据库数据建立起质子辐射带函数形式的中心区域模式，包括各能道全向微分通量峰值对应 $L$ 值随能量 $E$ 的变化模式以及各能道全向微分通量峰值 $J _ { \\mathrm { m a x } }$ 随 $E$ 的变化模式.利用RBSPA卫星2012年9月1日至2014年2月22日期间REPT望远镜磁赤道面上78.9，102.6和 $2 0 8 \\mathrm { M e V }$ 能道观测所得全向微分通量数据，与AP-8 模式、CRRESPRO模式以及本文所得辐射中心区域模式计算结果进行了比较，得到这3个能道上RB-SPA卫星观测所得各能道微分通量明显偏大，最强微分通量对应的 $L$ 值与AP-8 模式或本文辐射中心模式所得结果基本一致.此外，RBSPA卫星也观测到CRRESPROQuiet模式所得到的隐性第二质子辐射带结构.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "致谢AP-8模式代码和模式数据库由 NASA空间科学数据中心（NSSDC）提供，CRRESPRO 模式代码和模式数据库由美国空军研究实验室（AFRL)提供，洛斯阿拉莫斯国家实验室 (LANL)ECT科学控制中心 (SOC)提供了数据下载，RBSPREPT相关团队对数据进行了预处理.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]Van Allen JA,Mcllwain CE,Ludwig G H.Radiation observations with satellite 1958[J].J.Geophys.Res.,1959, 64:271-286   \n[2] Sawyer D M,Vette JI.AP-8 Trapped Proton Environment for Solar Maximum and Solar Minimum [R]. Greenbelt,MD: NASA Goddard Space Flight Center,1976   \n[3] Mazur J,Friesen L,Lin A,et al.The Relativistic Proton Spectrometer (RPS） for the radiation belt storm probes mission[J]. Space Sci. Rev.,2013,179(1-4):221   \n[4] Kirby K，Bushman S,Butler M，et al.Radiation belt storm probe spacecraft and impact of environment on spacecraft design [Cl//Proceedings of the 2012 IEEE Aerospace Conference.Big Sky Montana:IEEE,2012   \n[5]Lucero A B,Lavine,JP,Vette JI,et al.Models of the trapped radiation environment,Vol.I[R],NASA SP-3024. Washington DC: NASA,1966   \n[6] King J H. Models of the trapped radiation environment, Vol.IV: low energy protons[R], NASA SP-3024. Washington DC:NASA,1967   \n[7] Lavine J,Vette JI.Models of the trapped radiation environment, Vol.V: Inner belt protons [R], NASA SP-3024. Washington DC: NASA,1969   \n[8] Meffert JD,Gussenhoven M S.CRESSPRO documentation [R].PL-TR-94-2218.Albuquerque,NM: Phillips Laboratory, the United States Air Force Materiel Command, 1994   \n[9] Huston S L,Pfitzer K A. Space environment effects: lowaltitude trapped radiation model [R]. Huntsville,AL: Marshall Space Flight Center,1998   \n'10] Heynderickx D,Kruglanski M,Pierrard V,et al.A low altitude trapped proton model for solar minimum conditions based on SAMPEX/PET data[J]. IEEE Trans. Nucl.Sci., 1999,46:1475-1480   \n11] Huston S L. Space Environments and Effects: Trapped Proton Model[R]. Huntington Beach,CA: The Boeing Company, 2002   \n12] Xapsos M A,Huston S L,Barth JL,et al.Probabilistic model for low-altitude trapped-proton fluxes [J]. IEEE Trans. Nucl. Sci.,2002, 49(6):2776-2781   \n13]Lauenstein J M,Barth J L.Radiation belt modeling for spacecraft design:Model comparisons for common orbits[C]//Radiation Effects Data Workshop.Seattle: IEEE,2005,doi:10.1109/REDW.2005.1532674   \n14] Ginet G,O'Brien T,Huston S,et al.AE-9,AP-9 and SPM: New models for specifying the trapped energetic particle and space plasma environment [J]. Space Sci. Rev., 2013,179(1-4):579-615   \n[15]Cheng Yonghong. The comparison of AP-8 and CRRESPRO[J].Manned Spacef.,2004(6):56-60. In Chinese (程 永宏.辐射带质子 AP-8 模式与CRRESPRO 模式比较[J].载 人航天,2004(6):56-60)   \n[16] Miyoshi Y,Morioka A,Misawa H.Long term modulation oflowaltitude proton radiation belt by the earth's atmosphere[J].Geophys.Res.Lett.,2000,27(14):2169-2172   \n[17] Shi Liqin,Lin Ruilin,Liu Siqing,et al.Impact of solar periodic activity on energetic proton in low-altitude radiation belt [J]. Chin.J. Space Sci.,2012,32(6):804-811.In Chinese (师立勤，林瑞淋，刘四清，等.太阳周期活动对低高度 内辐射带高能质子的影响[J].空间科学学报,2012,32(6):804- 811)   \n[18] Zang Zhenqun. The secular variation of geomagnetic field affects the flux computation of radiation belt proton [J]. Chin.J. Space Sci.,1997,17(1):59-63.In Chinese (臧振 群．地磁场的长期变化对辐射带质子通量计算的影响[J].空间 科学学报,1997,17(1):59-63)   \n[19] Fang Xiaohua,Pu Zuyin.Drift shell tracing method and secular variation of inner radiation belt[J].Chin.J. Space Sci.,2000,20(2):150-158．In Chinese (方晓华，濮祖荫．漂 移壳追踪方法与内辐射带的长期变化[J].空间科学学报，2000, 20(2):150-158)   \n[20] Yue Guiming,Ye Zonghai, Zhou Guocheng.Low altitude radiation particle environmental variation of satellite orbit caused by geomagnetic secular variation[J].Chin.J. Space Sci.,2001,21(3):238-245.In Chinese (乐贵明，叶宗 海,周国成.地磁长期变化引起的低高度卫星轨道辐射带粒子环 境的变化[J].空间科学学报，2001,21(3):238-245)   \n[21]Lodhi M,Diaz A B,Wilson TL.Simplified solar modulation model of inner trapped belt proton flux as a function of atmospheric density[J].Radiat.Meas.,2005, 39(4):391-399 [22] Stratton J,Harvey R,Heyler G.Mission overview for the radiation belt storm probes mission[J].Space Sci.Rev.   \n2014:29-57 [23] Spence H E,Reeves G D,Baker D N,et al. Science goals and overview of the Radiation Belt Storm Probes (RBSP）Energetic particle,Composition,and Thermal plasma (ECT) suite on NASA's Van Allen Probes Mission [J]. Space Sci. Rev.,2013,179:311-336 [24] Baker D N,Kanekal S G,Hoxie V C,et al.The Relativistic Electron-Proton Telescope (REPT） instrument on board the Radiation Belt Storm Probes (RBSP） spacecraft:characterization of Earth's radiation belt highenergy particle populations [J]. Space Sci.Reu.,2013,   \n179:337-381 [25]Olson W P,Pfitzer K A.Magnetospheric Magnetic Field Modeling[R].Huntington Beach,California:McDonnell Douglas Astronaut. Co.,1977 [26] Finlay C C,Maus S,Beggan C D,et al.International geomagnetic reference field: The eleventh generation [J]. Geophys.J. Intern.,2010,183:1216-1230,doi:10.1111/j.   \n1365-246X.2010.04804.x [27] Lazutin L.Creation of solar proton belts during magnetic storms: Comparison of two models [C]//Proceedings of the 7th International Conference Problems of Geocosmos. St. Petersburg，Petrodvorets: Saint-Petersburg State University, 2008:152-157 [28]Mullen E,Gussenhoven M,Ray K,Violet M.A doublepeaked inner radiation belt:cause and effect as seen on CRRES[J].IEEE Trans．Nuc．Sci.,1991,38(6):1713-   \n1718 [29]Gussenhoven MS,Mullen EG,Violet MD.Solar particle events as seen on CRRES[J].Adu.Space Res.,1994:619-   \n629 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

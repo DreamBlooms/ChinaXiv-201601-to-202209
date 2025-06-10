@@ -1,0 +1,569 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201609081825 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张月,张飞,王娟,任岩,Abduwasit Ghulam,Hsiang-te KUNG,陈芸.近40年艾比湖湿地自然保护区生态干扰度时空动态及景观格局变化.生态学 报,2017,37(21):7082-7097. ZhangY,ZangFngensiasegalyisofhaldialsofda andeerobiexofteiurkeWeadueRsee，grtstearsActaEoloicaca,7)97. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近40年艾比湖湿地自然保护区生态干扰度时空动态及景观格局变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张月1,2，张 飞1,2.3，\\*,王娟1,2,任岩1,²,Abduwasit Ghulam4,Hsiang-te KUNG5, 陈芸 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1新疆大学资源与环境科学学院，乌鲁木齐830046  \n2新疆大学绿洲生态教育部重点实验室，乌鲁木齐830046  \n3新疆智慧城市与环境建模普通高校重点实验室，乌鲁木齐830046  \n4美国圣路易斯大学可持续发展中心，密苏里州圣路易斯63108  \n5美国孟菲斯大学地球科学系，田纳西州孟菲斯38152  \n6 澳大利亚联邦工组织水土研究所，澳大利亚堪培拉2601",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以新疆艾比湖湿地为研究区,利用1972、1998、2007年及2013年4个时期的 Landsat 遥感影像作为数据源,并结合湿地的土地覆被状况,参考《全国土地利用分类》建立艾比湖湿地生态干扰类型分类系统。借助生态干扰度指数、景观格局指数以及GIS 空间分析方法,探讨艾比湖湿地的生态干扰度的时空动态及景观响应机制。结果表明：（1)1972—2013年,研究区的生态干扰度总体呈现较为稳定的趋势,但其空间分布发生变化。生态干扰度类型之间的转化速率有加快的趋势。（2)1972—2013年，边缘密度指数(ED)，平均形状指数(MSI）,面积加权的平均斑块分形指数（AWMPFD)及景观分离度（DIVISION)4项景观格局指数大体呈上升的趋势,2013年区域的景观指数较为稳定。（3)景观格局指数与生态干扰程度有密切的一致性。生态干扰度与景观格局指数空间分布相关性大小依次为：边缘密度指数(ED) $<$ 景观丰度密度(PRD) $<$ 香农多样性指数(SHDI) $<$ 平均形状指数（MSI）<面积加权的平均斑块分形指数(AWMPFD) $<$ 景观分离度(DIVISION）。客观系统的认识和评价艾比湖湿地的生态系统及环境,可为干旱区实现自然环境的保护,协调土地利用及环境保护之间的关系提供较为实用的参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：艾比湖湿地;生态干扰度；时空动态;景观格局",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the temporal and spatial dynamics of landscape patterns and hemeroby index of the Ebinur Lake Wetland Nature Reserve， Xinjiang， over the last 40 years ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yue'\\*2， ZHANG Fei1,2.3,\\*， WANG Juan $^ { 1 , 2 }$ ，REN Yan1.2，Abduwasit Ghulam4，Hsiang-te KUNG5,CHEN Yun6",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College of Resources and Environment Science,Xinjiang University，Urumqi 83oO46,China   \n2Key Laboratoryof Oasis Ecology，Xinjiang University，Urumqi 83oO46,China   \n3KeyLaboratory of XinjiangWisdom Cityand Environment Modeling，Urumqi 83oO46,China   \n4Center for Sustainability，Saint Louis University，St.Louis，MO 631O8,USA   \n5Department ofEarth Sciences，University ofMemphis，Memphis，38152，USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：新疆维吾尔自治区自然科学基金项目（2016D01C029)；自治区青年科技创新人才培养工程项目（2013731002）；国家自然科学基金项  \n目（41361045,41130531）；国家自然科学基金（新疆联合基金本地优秀青年人才培养专项）（U1503302)  \n收稿日期:2016-09-08；网络出版日期:2017-07-11  \n\\* 通讯作者 Corresponding author.E-mail：zhangfei3s@ 163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Wetlandsare an important part of ecological systems.Wetlandsnotonly provide the survival habitats and resourcesforplants，animals,and humanbutalsoarehighlybeneficial fortheenvironment.Inarid zonesinparticular, wetlands have receivedconsiderable scientific atention.The hemeroby index providesa measure of the magnitude to which the vegetation of anecological environment deviates from thenatural stateasaconsequence of humanactivities.Itis beneficial to manage rationallfor economicdevelopment inorder to protecttheecologicalenvironment.The present study fillsa gap inourunderstandingofthesustainabledevelopmentofthe wetland ecosystemintheEbinurLake Wetland Nature Reserve,Xinjiang Uyghur Autonomous Region，China.Ahemeroby-type clasificationsystem fortheEbinur Lake Wetland Reserve was established based on multiple datasets，including Landsat MSS/TM/ETM $+$ /OLI image data obtained in 1972, 1998,2007,and 2013.The study explored the spatiotemporal dynamicsof hemerobyand the landscape pattrnresponse through hemeroby，landscape patern，spatial patch，andGIS spatialanalyses inthe studyarea.The follwing results were obtained:（1）From1972 to2013,theecological hemerobydegreefortheEbinur Lake wetland showedarelatively stable trend；however，therewere marked changes initsspatial distribution.Thedistribution of thepartiallydisturbed typeof wetland hasobviouslychanged.This indicates thatthedegreeof naturalnessofwetlandvegetationisunstableand susceptible to human interferenceinthisarea.There wasahigh conversionrateofdifferent hemeroby index（HI）types from 1972 to 2013.Dynamicchanges in hemeroby degreeare mor likely tobeatributed tonatural，human，and policy-driven forces that result in a comprehensive effect.During the period 1972—2013，changes in natural factors （mean annual evaporation，temperature，and precipitation）and human factors（livestock，population，andGDP）led to change in the distributionof vegetationandEbinurLakearea，which influenced the degreeof naturalnessof theecological system.（2） Duringthe period 1972—2013，there were significant increases in four landscape paterm indices，edge density（ED）， mean shape index（MSI），area-weighted mean patch fractal dimension index（AWMPFD），and landscape division (DIVISION).However,in 2013,the regional landscape index wasrelatively stable.（3）High values of EDand AWMPFD wererecorded forareas withahigh HI.Thisshows thatlandscape patch fragmentationand complexityis higherinareas with a high HI，andthatthe degreeof naturalnessisunstable.Lowvalues of patch fragmentationand complexityaremainly concentrated in areas with alow HI.This indicates that landscape patern indicesand the HI havegood consistency and correlation withregard to spatial distribution.The HI was positivelycorrelated with DIVISION,AWMPFD,MSI,Shaon's diversity index，patch richness density，andED，ina decreasing orderof influence.Evaluationof theecological environment of the EbinurLake region providesa practical reference for theprotection of the natural environment and resources，and willprove beneficial for the coordinated management of the environmental for sustainable development. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Ebinur Lake Wetland Nature Reserve; hemeroby ；spatio-temporal dynamics； landscape pattern",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "湿地是生态系统的重要组成部分,它不仅为动植物以及人类提供了生存环境及物质保障,而且对环境而言可以产生巨大的效益[1-3]。湿地是地球上生产力最高的生态系统。湿地在调节大气、改善土壤特性、蓄洪调径及环境美化等方面有重要作用是其他生态系统不可代替的。因此湿地生态系统被人们形象的称作“地球之肾”[4]。尤其在生态环境较为脆弱的干旱、半干旱地区,湖泊湿地不但可以反馈生态环境的好坏,还可以维持生态及环境平衡[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观格局是指在空间上大小、形状各异的景观斑块的分布,是生态系统受到不同程度作用而产生的结果，严重的影响生态系统的过程和功能[6-7]。20 世纪70 年代,在湿地的研究中景观生态学逐渐的被引入。湿地景观格局的研究一直是生态学研究热点[8-12]。各景观类型所组成的生态系统为人类提供生存的环境和物质基础,而人类生产生活等行为及自然因素使景观不断发生改变[13]。因此客观科学的监测评价景观变化有助实现自然环境的保护。它不仅有利于减缓生态系统的退化,而且保证自然资源的可持续发展[14]。干旱、半干旱区生态系统脆弱且敏感,其景观格局的变化情况不仅受到自然条件的制约,而且也受到人类活动的影响，因此干旱、半干旱区的景观格局变化研究是十分有必要的。尹昌平等[15]以新疆白杨河流域为研究区分析研究了该土地利用变化的景观格局特征。孙倩等[1探讨了新疆渭干河-库车河三角洲绿洲土地利用/覆被时空变化以及其景观格局的变化,巩杰等[17]分析了干旱区金塔绿洲 1963—2009 年的变化对景观格局的影响,张飞等[18]对干旱区精河县绿洲土地利用/覆被及景观格局变化特征进行了分析,冯异星等[19]人探讨分析了新疆玛纳斯河流域近50 年土地利用变化对干旱区典型流域景观格局的影响。 人",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态系统及景观格局受人类生产活动的干扰较为突出,尤其是干旱区的湿地生态系统及其景观格局受到的干扰最为严重。芬兰植物学家首次提出“生态干扰度”的概念[20]。此后，“生态干扰度”的概念再次被德国生态学家 Sukop 提出[21]。李迈和等[22]将\"生态干扰度\"解释为一种评价植被天然性程度的一种方法,全面的介绍了此概念并评价植被天然性程度。生态干扰度可被理解概括为生态系统内各组分的天然性受到干扰的程度[23-25]。肖翠等[26]通过GIS 空间分析法并结合景观学定量的分析了西门岛湿地人为干扰度与景观格局之间的量化关系。朱教君等[27]在大量的查阅国内相关文献基础上结合近年来的研究实践,综合分析了次生林与生态干扰度的关系。孙永光等[28]利用遥感手段探讨了大洋河河口湿地的人为干扰度时空动态变化及景观格局指数的响应机制,以期为河口湿地地区人类生产活动强度监测提供有利的依据。通过研究景观格局演替机制和规律,能够更清楚的把握景观变化与生态干扰度之间的关系。由于湿地生态系统的能量循环以及生物物种的多样性与湿地景观格局的变化有密切的关系,因此湿地景观格局的研究对湿地管理与保护和湿地生态系统的可持续发展具有重要意义[29]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "艾比湖湿地是典型的干旱区湖泊湿地,生态系统脆弱且敏感。随着社会经济的发展,艾比湖目前面临着一系列的生态问题;艾比湖区域生态系统出现逆向演替;植被退化及衰败;土壤盐碱化,沙化,荒漠化程度加剧;生物多样性面临严重威胁;景观破碎化及脆弱性程度的加剧。因此艾比湖生态问题已成为社会各界关注的焦点。生态干扰度能反映生态系统内景观类型受到干扰的程度。本文试图用生态干扰度的概念分析研究区各景观类型受到的干扰程度。目前,国内有许多研究都讨论了干扰度与景观指数之间的关系[14,21,28]。因此本文借鉴前人的研究,从景观生态学的角度试图探讨研究区的生态干扰度,分析景观指数与干扰度的关系以及对生态过程的影响。 1",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "典型干旱区内陆艾比湖湿地不仅维持了生态平衡,为生物提供生存环境,而且有利于保护生物多样性[30]。因此科学合理的定量监测艾比湖湿地生态系统的干扰程度及景观格局对环境保护有着重要意义。本文运用遥感等技术分析生态干扰度的时空变化,并结合景观生态学原理探讨了景观的响应机制,以期为干旱区湿地的管理与保护以及湿地生态系统协调发展提供理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 研究区慨况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "艾比湖湿地位于新疆博尔塔拉蒙古自治州,其经纬度为 $4 4 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { - } 4 5 ^ { \\circ } 0 9 ^ { \\prime } \\mathrm { N } \\vphantom { \\mathrm { - } } 8 2 ^ { \\circ } 3 6 ^ { \\prime } \\mathrm { - } 8 3 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { E }$ ，总面积为$2 6 7 0 . 8 5 \\mathrm { k m } ^ { 2 }$ ,是我国西部重要的湖泊湿地。艾比湖湿地海拔为 $1 8 9 \\mathrm { m }$ ,是准格尔盆地的最低点，是水盐汇集的中心[31-32]。艾比湖流域处在阿拉山口大风通道下,使该地形成砾漠、盐湖、盐漠等多种地类,成为浮尘天气发源地。艾比湖湿地不仅对防风固沙有很好的作用,而且对准噶尔盆地生态环境变化有良好的指示作用[33]。艾比湖湿地为典型大陆性气候,干燥少雨而多风,四季鲜明。年平均气温 $5 \\%$ ,降水量夏季多而冬季少。平均降水量为 $1 0 5 . 1 7 \\mathrm { m m }$ ,蒸发量为 $1 3 1 5 \\mathrm { m m } ^ { [ 3 4 ] }$ ,其蒸发量远远大于降水量。由于艾比湖湿地特殊的环境及地理位置,形成了独特的湿地生态环境和丰富的生物多样性资源,具有典型性和较高的保护价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源及处理方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用1972年9月25日的MSS 影像（分辨率 $8 0 \\mathrm { m }$ ）、1998年9月2日的TM影像（分辨率 $3 0 \\mathrm { m }$ ）、",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/17e05c1869bf94b796e090a54d781be3b7e3bac70bc59568dc0bdc5c2482854e.jpg",
+        "img_caption": [
+            "图1 研究区地理位置",
+            "Fig.1Geographical location of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2007年9月11日TM影像（分辨率 $3 0 \\mathrm { m }$ )及2013年9月2日的0LI影像(分辨率 $3 0 \\mathrm { m }$ ），轨道号为146/29，共4期 Landsat 遥感影像作为数据源（时相均为植被生长茂盛的9月),为了确保研究的可靠性以及避免分辨率对景观指数的影响,在ENVI中采用最邻近内插法将各时期的遥感影像分辨率统一重采样为 $8 0 \\mathrm { m }$ 。其他相关统计资料、年鉴(如;新疆艾比湖湿地自然保护区植被分布图、总体规划图及年均蒸发量、年均降水量、年均气温以及牲畜量、总人口及生产总值等)作为辅助数据。以ENVI软件为平台,对研究区各期的遥感影像进行了几何校正、辐射定标等预处理,并使用ENVI5.1所提供的FLAASH模块对影像进行大气校正。依据新疆艾比湖湿地自然保护区植被分布图、总体规划图及研究区土地利用/覆盖类型现状,利用最大似然法进行监督分类，将研究区划分为艾比湖湖泊、林地、其他、草地、湿地、盐渍地等10种土地类型,结合研究区的地形图和 GoogleEarth 并通过野外采样点实地考察对土地类型覆盖情况进行验证,最终得到1972、1998、2007、2013年的研究区景观类型分类图。本研究经验证统计各土地利用与覆盖的解译精度均在 $87 \\%$ 以上,满足研究需要。为了本文研究的全面性和结果的有效性,采用J-M距离描述各地类的分类程度[35],其结果均在1.9以上,表明地类之间的分类性均较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2景观分类方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文基于前人对生态干扰度的已有研究[14,21,28],结合《全国土地利用分类》初步确定3种干扰度类型：无干扰型、半干扰型 全干扰型,在此基础上考虑研究区域植被分布进行分类,最终细分并确定了10种景观类型。在分类时,需对复杂类型及模糊地类时进行备注,通过野外校验确定分类系统。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为制定干旱区艾比湖湿地的生态干扰度指数景观类型分类系统,本文基于研究区独特的环境特征、土壤植被特征,结合《全国土地利用分类》系统并参考陈爱莲等和孙永光等的研究成果,借鉴陈爱莲等[14]对生态干扰度的确定方法,通过专家判别法及问卷调查确定各景观类型的生态干扰度的值[14]。最终对10种景观类型进行生态干扰指数赋值(如表1),HI（Hemeroby Index)的确定依据是生态系统或景观受到的综合影响干扰程度的大小。HI取介于0—1的值。从理论上说,HI为0,表示生态组分(景观类型或称土地类型)几乎未受到干扰;HI为1,表示景观类型完全受到干扰,且干扰程度很强。根据表1可知,文中未有定义上的无干扰型和全干扰型。因此作者将10种景观类型分为以下3种干扰类型;轻度干扰型、中度干扰型,重度干扰型。本文进一步确定 $\\mathrm { H I } { < } 0 . 3$ 为轻度干扰； $0 . 3 { \\leqslant } \\mathrm { H I } { \\leqslant } 0 . 6 0$ 为中度干扰; $\\mathrm { H I } { > } 0 . 6 0$ 为重度干扰。艾比湖湖体、湿地受到的干扰程度低,生态服务价值高,因此HI的值低,为轻度干扰型。林地、芦苇、草地等景观类型,受到干扰的程度及可能性较大，因此HI的值较大，为中度干扰型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新疆的水、热及地形条件决定了其生态系统较为简单、功能较低、系统平衡极易被打破且难于逆转的特点。新疆荒漠化的发生发展主要的外界因素是干旱的气候条件,并且处于干旱区的新疆有风大多发、极端干旱的生态环境特点,因此植物种类贫乏、生长低矮、分布稀疏。尤其在绿洲和沙漠边缘的过渡带区域,该区域土质疏松,植被覆盖较低,成为荒漠化极易发生发展的区域。新疆绿洲和荒漠的转换动力是水资源的分配与生态环境的协调关系。人类引入绿洲的水资源,渠系渗漏、灌溉渗漏，易导致土壤次生盐渍化。由于新疆独特的气候条件,蒸发量远远大于降水量,导致地下水位上升,土壤盐渍化,因此盐渍地极易受到外界干旱环境的影响[36],尤其是降水量及蒸发量等气候因素的直接影响。艾比湖湿地地处阿拉山口大风通道下,使荒漠区的砾漠、盐湖、盐漠等多种地类极易发生发展。综上所述可知盐渍地、荒漠景观类型在本研究区极易受到干扰，其他及道路等景观类型不仅易受到干扰而且对研究区的生态环境的影响较大,因此均划分为重度干扰型。本文参考裸地的HI值,对荒漠及盐渍地的干扰度进行赋值。所制定的基于生态干扰度的景观分类系统如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/73bcb28bf6fa245c766c2a4cce2d851d879ceb57298694257d7977e618ba73ab.jpg",
+        "table_caption": [
+            "表1生态干扰度指数景观类型分类系统",
+            "Table1Hierachy of landscape type with respect to hemeroby index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>一级类型 Level I</td><td>二级类型 Level II</td><td>含义 Definition</td><td>生态干扰度 Hemeroby Index (HI)</td></tr><tr><td rowspan=\"2\">轻度干扰 Slightly disturbed</td><td>湖泊水面</td><td>湖泊水面</td><td>0.30</td></tr><tr><td>湖床滩地</td><td>湖床滩地、苇地</td><td>0.15</td></tr><tr><td rowspan=\"3\">中度干扰 Moderately disturbed</td><td>坑塘水面</td><td>自然坑塘水面、养殖水面</td><td>0.35</td></tr><tr><td>林地</td><td>胡杨林,及自然生长的林地</td><td>0.55</td></tr><tr><td>沼泽地</td><td>芦苇沼泽,其他草木沼泽</td><td>0.50</td></tr><tr><td rowspan=\"4\">重度干扰Heavily disturbed</td><td>天然牧草地</td><td>自然生长的草地</td><td>0.50</td></tr><tr><td>盐碱地</td><td>盐碱地</td><td>0.72</td></tr><tr><td>荒漠</td><td>荒漠</td><td>0.72</td></tr><tr><td>农村道路</td><td>农村道路</td><td>0.95</td></tr><tr><td></td><td>裸地</td><td>裸地,裸岩石砾地、其他未利用地</td><td>0.72</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 景观格局指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "生态干扰度对改变景观或生态系统结构、功能以及生态系统的平衡有直接的影响;同时也会影响生态系统对外界干扰的抵抗能力[37,38]。为了探讨景观格局指数对不同类型生态干扰度的响应机制,本文选取能反映景观格局基本结构信息的景观指数,分别从以下4个方面进行选取(1)破碎度指标,表征景观格局的破碎度程度。本文选用边缘密度(ED),该指标是指景观总体单位面积的异质景观要素斑块间的边缘长度[39]。(2)形状指标,表征景观格局的几何形状,本文选用了平均形状指数（MSI)及面积加权的平均斑块分形指数(AWMPDF）。景观形状指数(MSI)是度量景观空间格局复杂性的重要指标之一,并对许多生态过程都有影响。面积加权的平均拼块分形指数(AWMPFD)是体现景观格局总体特征的重要指标,它在某种程度上反映了景观的格局复杂性。AWMPFD的理论范围在1一2之间，当 $\\mathrm { A W M P F D } = 1$ 时,代表形状最简单,通常其值的可能上限为1.5,当 $\\operatorname { A W M P F D } = 2$ 代表周长最复杂的拼块类型。（3)聚集度指标,表征景观格局的空间分布排列特征,本文选用景观分离度(DIVISION),即为相邻斑块出现不同属性的概率,概率越大,景观聚集度越低[40]；（4)多样性指标,表征景观格局的组分,本文选用景观丰度密度(PRD）,香农多样性指数(SHDI)。景观丰度密度(PRD)是反映景观组分以及空间异质性的关键指标之一,该指标是与物种丰度有很好的正相关,能很好的反映生境条件。香农多样性指数(SHDI),能反映景观异质性,特别对景观中各斑块类型非均衡分布状",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "况较为敏感，可表明景观斑块分布复杂状况。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究利用软件Fragstats 3.4,计算4个时期的各生态干扰度类型(重度干扰、中度干扰、轻度干扰)的景观指数,获得研究区4个年份不同生态干扰度的景观格局指数;通过 ArcGIS 10.0软件中 fishnet工具,将研究区划分为 $3 \\mathrm { k m } \\times 3 \\mathrm { k m }$ 格网,获得各年份的边缘密度指数(ED）、面积权重平均斑块分维指数（AWMPFD)景观格局指数空间分布。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1艾比湖湿地生态干扰度时空动态变化",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "艾比湖湿地生态干扰度在整体上呈现出较为平稳的趋势,但其空间分布变化较大,表明艾比湖湿地自然保护区生态系统的天然性所受到的干扰度较为稳定。由图2可知,艾比湖湿地自然保护区重度干扰类型的面积较大,主要原因在于艾比湖湿地地处干旱区,其自然环境较为恶劣,土壤基质多为灰棕漠土、风沙土,且土壤肥力较差,因此裸地及荒漠等重度干扰型景观类型广布。裸地及荒漠的天然性所受到的干扰度较为稳定,因此研究区的重度干扰型的面积较大。研究区的土质较差,降水量较少而蒸发量较大,致使植被大多分布艾比湖区域附近及河流的附近。艾比湖湖泊及湿地为轻度干扰型的景观类型,因此在1972—2013年间,湖泊面积有明显减小的趋势而湿地面积明显增加,由于湖泊面积减少,裸露出湖床,因此转换为湿地景观类型。中度干扰型的空间分布变化也较为明显,主要是由于芦苇及林草等景观类型的分布发生变化而导致的。在1972 年，中度干扰型的景观分布较少,而1998—2013年,中度干扰型的景观分布较多。在1972—2013年,重度干扰类型的分布变化不大,主要是由于艾比湖湿地土壤基质及气候原因导致了荒漠及裸地广布,且其分布区域较为稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2e6847995d5634a07fae981f59d57881cfb8e4943f2479bd166fb1e393f9944.jpg",
+        "img_caption": [
+            "图2艾比湖湿地生态干扰类型分布图",
+            "Fig.2The map of Hemeroby index $( \\mathbf { H I } )$ at Ebinur Lake wetland "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据艾比湖景观类型的人机互译的分类结果，按照干扰类型对4个遥感影像分类并进行面积统计（图3）。分析结果可知：艾比湖湿地总体干扰类型的空间分布变化较小。轻度干扰类型的面积略有减小的趋势，从1972年的 $1 0 2 4 7 4 . 2 7 \\mathrm { h m } ^ { 2 }$ 减少为 2013 年的87075.96$\\mathrm { { h m } } ^ { 2 }$ ,根据分析可知，导致该结果的主要原因为艾比湖湖泊面积的减少而导致的。这也可表明属于轻度干扰型的各景观类型的天然性程度受到了较强的干扰。中度干扰类型呈现出增加的趋势，其面积变化较大，其结果是由于裸露的湖床含水量较高，土壤肥力较好，适应于植被的生长，大片的芦苇等植被易于在此存活，因此植被的面积增加，致使中度干扰类型的面积增加。中度干扰型的区域面积增加在某一方面可表明各景观类型的转换现象较为明显,各景观类型的天然性程度也有一定的变化。1972—2013年，中度干扰类型的面积分别为 $1 2 9 1 3 . 8 6 \\ . 3 7 6 8 5 . 6 6 \\ . 4 5 4 0 0 . 3 2 \\ . 4 0 9 0 1 . 7 1 \\ \\mathrm { h m } ^ { 2 }$ 。同时也有政策的原因,艾比湖湿地被划为自然保护区,因此人类活动很少直接干扰湿地生态系统,使其能有更好的自然状态自我调节和修复。1972—2013 重度干扰类型的面积变化较小,略有波动,其面积分别为201715.28、184213.46、174572.21、1899006.48 hm²。重度干扰类型的主要景观类型为荒漠及裸地,这些土地类型很难转换为植被或水域及湿地等景观类型,因此它们的分布及变化几乎不变。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0620feabff863d248f1a4d7d6f328a673a67407cb18196bcddcffb616ab783b5.jpg",
+        "img_caption": [
+            "图3艾比湖湿地不同干扰类型总面积",
+            "Fig.3Area of different Hemeroby index（HI） types at Ebinur Lake wetland "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过 ArcGIS 10.0的空间叠加分析功能,将研究区1972—2013年的生态干扰度分布图进行叠加,并对1972—2013年间各干扰等级转化方向和面积进行定量分析,如表2所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4967015cae77a29656b5320e72fc72b1aca2f983042da892f94493696748cfd.jpg",
+        "table_caption": [
+            "表21972—2013年研究区各干扰类型的转换",
+            "Table 2Transition of different Hemeroby index（HI） types from 1972 to 2013 "
+        ],
+        "table_footnote": [
+            "12:轻度干扰Slightly Disturbed→中度干扰Moderately Disturbed；13：轻度干扰Slghtly Disturbed→重度干扰Heavily Disturbed；21;中度干扰 ModeratelyDisturbed轻度干扰SlightlyDisturbed；23：中度干扰ModeraelyDisturbed重度干扰HeavilyDisturbed；31;重度干扰HeavilyDisturbed →轻度干扰 Slightly Disturbed；32:重度干扰 Heavily Disturbed→中度干扰 Moderately Disturbed "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">转换类型</td><td colspan=\"2\">1972-1998</td><td colspan=\"2\">1998—2007</td><td colspan=\"2\">2007—2013</td></tr><tr><td>转换面积 Transition types Transition area/ hm²</td><td>年均转换速率 Average transition velocity/ (hm2/a)</td><td>转换面积 Transition area/ hm²</td><td>年均转换速率 Average transition velocity/ (hm²/a)</td><td>转换面积 Transition area/ hm²</td><td>年均转换速率 Average transition velocity/</td></tr><tr><td>12</td><td>76.5414</td><td>2.9439</td><td>96.5664</td><td>10.7296</td><td>79.3008</td><td>(hm²/a) 13.2168</td></tr><tr><td>13</td><td>159.2235</td><td>6.1240</td><td>112.3146</td><td>12.4794</td><td>171.4401</td><td>28.5734</td></tr><tr><td>21</td><td>34.2522</td><td>1.3174</td><td>71.4079</td><td>7.9342</td><td>70.9553</td><td>11.8259</td></tr><tr><td>23</td><td>22.3605</td><td>0.8600</td><td>30.8736</td><td>3.4304</td><td>132.3027</td><td>22.0505</td></tr><tr><td>31</td><td>254.6172</td><td>9.7930</td><td>117.8874</td><td>13.0986</td><td>103.5108</td><td>17.2518</td></tr><tr><td>32</td><td>76.5757</td><td>2.9452</td><td>62.4816</td><td>6.9424</td><td>54.4635</td><td>9.0773</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表2可知1998—2007年,2007—2013 年的转化速率均大于1972—1998年的转化速率。分析表2可知,在1972—2013年间,各干扰度的类型之间转化速率有加快的趋势,同时由低干扰类型转高干扰类型的面积也有增加的趋势。表明在1972—1998年,研究区的生态干扰度水平总体上较为稳定,各干扰类型的转换速率均较低,各干扰型的景观的天然性程度表现出较为稳定的趋势。艾比湖湖泊和湿地的面积发生变化,因此导致周边景观类型的变更。在1998—2007年,各干扰类型的转化率较大,尤其在轻度干扰和重度干扰之间的相互转换速率较大，分别为 $1 2 . 4 7 9 4 , 1 3 . 0 9 8 6 \\ \\mathrm { h m } ^ { 2 } / \\mathrm { a }$ 。导致此结果的原因主要是自然因素和人为因素，艾比湖湿地为自然保护区，人为活动虽然不能直接改变景观类型,但是艾比湖水体面积的减少却与当地的生产活动有着密切的联系,耕地面积急剧增加,需大量的水灌溉，人们大量引用,导致艾比湖水体减少。根据近年来的气候数据统计可知,气候有变暖的趋势,这对处于生态环境较为脆弱且敏感的干旱区湖泊、植被等造成一定的影响，同时也影响到艾比湖湿地自然保护区生态系统的天然性程度。在2007—2013年,研究区的干扰度的类型由低干扰类型向高干扰类型转变的总面积为 $3 8 3 . 0 4 3 6 \\ \\mathrm { h m } ^ { 2 }$ ,而由高干扰类型向低干扰类型转变的总面积为$2 2 8 . 9 2 9 6 \\ \\mathrm { h m } ^ { 2 }$ 。这表明在2007—2013年,研究区的生态干扰程度虽然在局部地区虽然有所下降，但在总体上呈上升趋势。由中度干扰向重度干扰转换的速率明显增大，为 $2 2 . 0 5 0 5 ~ \\mathrm { h m } ^ { 2 } / \\mathrm { a }$ ,中度干扰型的天然性程度有下降的趋势,主要原因是植被面积发生改变,尤其是林地、芦苇的面积急剧减少,转换为裸地或其他。 N",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/be90ee19a13a4262c7e39c6ed196fe94c66cb166a4fc4abd92344bc8733a9e3a.jpg",
+        "img_caption": [
+            "图4不同时期生态干扰度动态度",
+            "Fig.44 Dynamic changes of Hemeroby index（HI）at different period "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过 ArcGIS 10.0软件对相邻两个时期的生态干扰度进行栅格计算,得到艾比湖湿地在1972—1998 年、1998——2007年、2007—2013年3个时段的干扰度动态度,其空间分布特征较为准确地识别出生态干扰活动的方向性与发展趋势。通过分析1972—2013年生态干扰度动态度可知：1972—1998年间的生态干扰度变化范围和幅度较小,即表明轻度干扰型整体的天然性程度较为稳定。2007—2013 年间的生态干扰度变化范围和幅度较大。生态干扰度分布均在艾比湖以及裸地等地变化最大,主要集中于艾比湖水体及荒漠及裸地等区域。其主要原因在于近年来,随着西部大开发政策的实施以及城镇化进程的加快,在艾比湖区域附近常住居民生产生活的行为较为频繁。在1998—2013年间,艾比湖流域仍然以农业生产为主要发展经济方式,耕地面积急剧增加,需要大量的水进行灌溉,因此引用艾比湖支流的水,会造成艾比湖湖泊面积急剧减少。此外，也有气候等自然原因造成生态干扰度低的艾比湖水体景观类型的面积变化较大,又因为研究区处于干旱区，气温高,降水量多而蒸发量大,直接影响了艾比湖湿地各景观的分布。艾比湖湖区及部分湿地为灰色,受生态干扰度的程度较轻,从图3中可以明显看出艾比湖湖泊的缩减致使周边的湿地面积增加。在研究区东部裸地及其他景观类型的生态干扰度发生改变,这主要是由于该区域的景观类型的变化导致的。在1998—2007年,生态干扰度变化较为稳定且集中。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2生态干扰度变化的驱动因素分析 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 自然因素",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "自然因素不仅对土地利用/覆盖变化及景观格局有重要的影响,而且也是生态干扰度的主要驱动因素之一。尤其是生态系统较为敏感的干旱区湿地生态系统,气候变化对水文,生态化学过程、生物群落以及整个生态系统有重要的影响。区域气候干湿程度取决于降水和气温。它们影响着径流的形成和地域分布,因此对研究区的生态干扰度有重要的影响。本文选择了1972—2013年的年均降水量、年均温度以及年蒸发量等气候因素,分析干旱区湿地生态干扰度（图5）。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/37498d14910b3aaa0df6eee2f6812731628341a4138c72a9bfa6cb7e359f2ff9.jpg",
+        "img_caption": [
+            "图51972一2013年艾比湖湿地年均蒸发量、年均降水量及年均气温",
+            "Fig.5The change of annual evaporation，mean annual temperature and annual precipition in 1972—2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据图5可知,在近40年间,年蒸发量波动幅度较大,呈波动下降的趋势,年均降水量及年均气温均有波动增加的趋势。气候因素对研究区中部的湖泊(轻度干扰型)的面积大小有直接的影响,因此位于艾比湖湖区周边裸露的湖床及湿地不仅面积发生相应变化,而且空间结构亦发生相应变化。在干旱区,植被对气候变化有最直接的响应。在1972—1998年,年蒸发量略有降低的趋势,而年降水量及年均气温均有增加的趋势，这有利于中度干扰类型的林草地等景观类型的生长。较为温和的气候条件下,艾比湖面积减小而裸露出湖床适宜芦苇等植被的生长。因此在自然因素的影响下,相比1972年，1998—2013 年分布在艾比湖西部的芦苇及研究区东南部的入湖河流附近的植被等景观类型面积增加,分布较广。研究区的东部有少部分区域零星的分布着植被。研究区处于干旱区,土地贫瘠,生态系统脆弱且敏感,因此气候因素对研究区的景观格局有极其重要的影响,最终导致了生态干扰度的空间分布的变化。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究区的蒸发量较大,均在 $1 5 0 0 { - } 1 8 0 0 { \\mathrm { m m } }$ 之间,这是该区域土壤盐渍化的主要因素。在1998一2007年,年蒸发量下降程度较大,年降水量略有下降的趋势,年均温度仍然呈上升的趋势。这表明研究区在该时期气候条件较为温和,这不仅有利于重度干扰型的盐渍化程度减轻,而且对中度干扰型的草地、林地等植被的生长有积极的作用,中度干扰类型面积增加,重度干扰类型的面积减少。在2007—2013年,年蒸发量有上升的趋势,年降水量增大而温度降低。近6年来，研究区的气候较为湿润，对植被的生长有积极的作用，但由于艾比湖湿地土壤基质较差,环境较为干旱。因此,中度干扰类型的植被等景观面积并未有大幅度的增加。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 人为因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "湿地生态系统的形成与人类活动密切相关。人为因素主要途径之一是通过国家及当地的土地利用、计划生育及农业生产等政策对湿地生态系统造成影响。政府可以通过政策有效且强制的对湿地进行管理。随着西部大开发政策的实施及城市化进程的推进,经济迅速发展。在2000年,艾比湖湿地被设为自治区湿地保护区,2007年被设为国家级湿地保护区。在近年来,艾比湖湿地在某些程度上来说,生态系统得到改善。因此人为因素也是影响艾比湖湿地生态干扰度时空变化的主要因素之一。本文选用了牲畜量、总人口数及生产总值分析人为因素对生态干扰度的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4918c50d095abbcff97844ee87fd46ffe48901e36ea20dff9aa83fb2408de7ca.jpg",
+        "img_caption": [
+            "图61972一2013年精河县牲畜量、总人口及生产总值",
+            "Fig.6The change of Livestock population and GDP at Ebinur Lake wetland in 1972—2013 "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "艾比湖自然保护区主要位于精河县内,其生态干扰度的程度与精河县的人为活动的强度有密切的联系。牲畜量、人口及生产总值的增加,会导致需水量的增加,而精河县的用水主要来源是艾比湖的入湖河流。因此该因素也是影响艾比湖湖区面积的主要因素。根据图6可知,在1972—2013年,牲畜量、人口及生产总值均呈上升趋势。在1972—1998年牲畜量增加的幅度较小。生产总值呈上升的趋势,其增长的幅度较小。人口数量的增加也较为缓慢。因此在1972—1998年,人为活动对生态干扰的程度影响较小。研究区的植被等类型的生长主要因素是水。因此水量的多少会影响分布在研究区中部的湖区附近及研究区东南方向的入湖河流附近的林草等中度干扰类型的面积及空间分布。在2007—2013年,牲畜量有减小的趋势,经济生产总值大幅度上升，人口总数增长幅度加大,这加重了湿地生态系统的供给。不仅需要大量的生活用水,而且可能是精河县耕地面积增加的重要因素,因此需要艾比湖主要入湖河流的水灌溉,最终间接的影响轻度干扰类型水体景观的面积及分布。2008—2013年牲畜量得到控制。这有利于研究区的属于中度干扰类型的林草地等景观的分布面积。其主要在于政府加大对艾比湖湿地的保护力度,在2007年,设立为国家级湿地保护区。经济增长迅速,人口总量增加,需要大量的耕地及水资源,因此对属于轻度干扰的水体景观有重要影响。经济增长速度迅猛,人类活动频繁,会严重的影响生态系统,因此轻度干扰型的艾比湖湖泊面积急剧缩减,中度干扰型的林草地等景观类型面积减少,而耕地等面积增长迅速。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3景观格局指数对生态干扰的响应",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.1景观格局指数对生态干扰类型的响应",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "艾比湖湿地生态干扰度各类型的变化会导致景观格局指数的变化。1972—2013年重度干扰的区域边缘密度指数(ED)均较大,表明重度干扰型的景观类型斑块边缘处于复杂化,斑块形状不规则程度较大,轻度、中度干扰区域的边缘密度较小。说明生态干扰度的强度即为景观类型的天然性程度会影响景观结构的破碎化程度。在1972—2007年,重度干扰区域边缘密度呈减小的趋势,景观斑块的边缘处于简单化过程,这表明重度干扰型的生态干扰度趋于稳定,然而 2013年重度干扰区域边缘密度增加。轻度干扰类型区域的边缘密度则较为稳定,说明天然性程度较高的(轻度干扰区域)的景观结构较为稳定。在1972—1998年,中度干扰区域的边缘密度指数(ED)增加较大,景观斑块不规则程度较大,景观格局较不稳定。1998—2013年,变化较小,总体来说景观破碎化程度变化较小,景观格局较为稳定,其区域内的天然性程度较为稳定。生态干扰度的空间分布会直接影响边缘密度。 ?",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在 1972—2013年,轻度干扰区域的平均形状指数(MSI)较为稳定,说明该区域景观格局的形状与结构较为稳定。中度干扰区域的平均形状指数(MSI)有增加的趋势,其景观异质性程度增加,景观复杂性增加。重度干扰区域的平均形状指数(MSI)有波动,景观格局发生变化,说明艾比湖湿地生态系统较不稳定。平均形状指数(MSI)增加说明处于中度干扰和重度干扰的景观空间格局复杂性增强，该值变化说明了艾比湖生态系统许多生态过程都受到了不同程度的影响。面积加权的平均斑块分形指数（AWMPFD)一定程度上也反映了人类活动对景观格局的影响。一般来说,受人类活动干扰小的自然景观的分数维值高,而受人类活动影响大的人为景观的分数维值低。在1972—2013年,艾比湖湿地的面积加权的平均拼块分形指数（AWMPFD）总体水平较为稳定,且有略微增加的趋势。说明面积加权的平均斑块分形指数(AWMPFD)对生态干扰性有积极的影响（图7）。 1",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据图7可知,1972—2013年轻度干扰区域景观分离度(DIVISION)波动较小,中度干扰区域的景观分离度（DIVISION)有增加的趋势,在1998—2013 年较为稳定,说明在1998—2013年,中度干扰的景观斑块离散程度较为稳定。重度干扰区域的分离度较为稳定,在2007年,分离度指数较小。艾比湖湿地的分离度整体呈较为稳定的趋势,根据分析,这可能是因为艾比湖区域在2000 年被设定为保护区,区域有较为天然的生态过程。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "根据图7可知,1972—2013年,轻度、重度干扰区域的景观丰度密度(PRD)值呈稳定的状态。1972—2013 年中度干扰区域的景观丰度密度(PRD)有明显下降的趋势,这表明单位面积的景观组分有减小的趋势，中度干扰区域的生态干扰度的天然性程度下降。景观丰度密度能较好的反映不同程度生态干扰度区域内部的生态过程。在1972—2013年,轻度干扰及重度干扰区域的香农多样性指数(SHDI)较为稳定。在1972—2013 年,中度干扰区域的香农多样性指数(SHDI)先降后升再降,其中 2007年的中度干扰区域的香农多样性指数(SHDI)的值最大,中度干扰区域不同景观的多样性与异质性较大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "很多研究曾通过景观指数探讨了人为干扰度与景观格局之间的关系。有研究表明人为干扰度强度越大，景观格局越有规则性。本文通过从4个方面选取6个景观指数探讨生态干扰度与景观格局之间的关系。通过分析可知生态干扰强度大的区域,景观破碎度越大,复杂性越大。其原因在于艾比湖湿地为国家级自然保护区,人为干扰的因素较小,主要原因在于保护区处于较为自然的生态过程。同时也进一步说明艾比湖湿地自然保护区的生态环境在某种程度上有一定的改善。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.2景观格局指数与生态干扰度指时空动态变化关系",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "有研究表明同一区域内干扰度强度在时间和空间上对景观格局会产生不同的影响。面积加权的平均斑块分形指数(AWMPFD)的生态意义是反映景观格局总体特征的重要指标,它在一定程度上也反映了人类活动对景观格局度的影响。边缘密度指数(ED)指景观总体单位面积异质景观要素斑块间的边缘长度,说明各干扰类型的景观破碎化。根据分析景观格局指数的意义以及景观指数对各干扰类型的响应程度,本文选择边缘密度指数(ED)及面积加权的平均斑块分形指数(AWMPFD)进行空间化,分析1972—2013年景观格局指数的空间分异特征。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f82a1c6f8ee5a358db825dad92c1a08dcce44090231ce74c38d50b09a811498.jpg",
+        "img_caption": [
+            "图7不同生态干扰度景观格局指数年变化统计",
+            "Fig.7Statists of different disturbed degree of Hemeroby index（HI）at different years "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究为了保证尺度完整性及定量评价的准确性，利用网格法将研究区划分为 $( 3 ~ \\mathrm { k m } \\times 3 ~ \\mathrm { k m } )$ 的单元网格,将景观格局指数进行空间化（图8）。在空间上边缘密度指数(ED）高值出现在生态干扰度较高区域,边缘密度指数(ED)的低值主要集中出现在生态干扰度较低区域,这表明边缘密度(ED)与生态干扰度的空间分布上有一定的相关性。从1972—2013年,边缘密度指数(ED)的空间分布变化较大,其中在 1998 年、2007 年的边缘密度指数(ED)的总体水平较高。1972年及2013年边缘密度指数(ED)的分布较为复杂,说明其景观斑块破碎度增加,生态干扰度有所下降。1972—2013年,边缘密度指数(ED)的低值区主要集中在艾比湖的湖区,“较低值\"区域主要分布在湖区附近的湿地。边缘密度指数(ED)的高、“较高值”区主要集中在重度干扰的裸地等景观类型区域以及艾比湖湿地的荒漠区。这可以表明景观格局的边缘密度指数(ED)与生态干扰度在空间分布上有较好的一致性及相关性。在1972—2013年,面积加权的平均斑块分形指数（AWMPFD）空间分布总体有降低的趋势。面积加权的平均斑块分形指数(AWMPFD)的\"低值\"区主要集中在干扰度低的艾比湖湖区,且与艾比湖湖区变化较为一致。在1972年,面积加权的平均斑块分形指数(AWMPFD)的“较低值\"区域较大,1972—2007年，“较低值”区的面积随时间的变化而减少,在2013年，“较低值”区域分布面积较大,说明在 2013年人为干扰度对景观格局的影响较小。在1972—2007年,面积加权的平均斑块分形指数（AWMPFD)的高值区分布较广,而 2013年分布较小,主要分布在重度干扰的景观类型区域。根据分析可知，景观格局指数与干扰度的类型之间有密切的关系。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4生态干扰度与景观格局指数空间关联 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究选取了景观边缘密度指数（ED）、平均形状指数（MSI）、面积加权的平均斑块分形指数（AWMPFD）、景观分离度（DIVISIN）、景观丰度密度（PRD）、香农多样性指数（SHDI)等6个景观格局指数探讨生态干扰度对景观格局的影响,分析景观格局指数的相关性（表3）。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0c6461c923792a2f505d0a0f50121bdca858fd58a010acf279586f1365a1314.jpg",
+        "img_caption": [
+            "图81972—2013年艾比湖湿地景观格局指数空间分异",
+            "Fig.8Spatial distribution of landscape pattern index in 1972—2o13 at Ebinur Lake wetland "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f5bd58c8e9c77d30e693eb87eea8f68f7dfbb8756327156562a6c42c4b49c81.jpg",
+        "table_caption": [
+            "表3生态干扰度与景观格局指数相关性矩阵",
+            "Table 3Correlation matrix of Hemeroby index（HI）with landscape pattern index "
+        ],
+        "table_footnote": [
+            "\\*\\*，在0.01水平(双侧)上显著相关; $*$ ，在0.05 水平(双侧)上显著相关"
+        ],
+        "table_body": "<html><body><table><tr><td>年份 指标 Year</td><td>Indicators</td><td>生态干扰度 HI</td><td>边缘ety ED/(m/hm²)</td><td>M均形状指数ex MSI</td><td>面积加权的平均 斑块分形指数 Area-weighted mean patch fractal dimension index</td><td>景观分离度 Landscape division index DIVISION</td></tr><tr><td rowspan=\"9\">1972 1998</td><td></td><td>1</td><td>0.508</td><td>0.674 *</td><td>AWMPFD 0.678 *</td><td>0.693 *</td></tr><tr><td>生态干扰度 HI 边缘密度 ED/(m/hm²)</td><td>0.508</td><td>1</td><td>0.859 **</td><td>0.434</td><td>-0.068</td></tr><tr><td>平均形状指数 MSI</td><td>0.674 *</td><td>0.859 **</td><td>1</td><td>0.706 *</td><td>0.264</td></tr><tr><td>面积加权的平均斑块分形指数AWMPFD</td><td>0.678 *</td><td>0.434</td><td>0.706 *</td><td>1</td><td>0.777 *</td></tr><tr><td>景观分离度DIVISION</td><td>0.693 *</td><td>-0.068</td><td>0.264</td><td>0.777*</td><td>1</td></tr><tr><td>景观丰度密度 Landscape Division index/（100hm²)</td><td>0.336</td><td>0.772 *</td><td>0.735 *</td><td>0.061</td><td>-0.305</td></tr><tr><td>香农多样性指数 Shannon's Diversity Index</td><td>0.210</td><td>-0.466</td><td>-0.376</td><td>0.297</td><td>0.635</td></tr><tr><td>生态干扰度 HI</td><td>1</td><td>0.356</td><td>0.013</td><td>-0.343</td><td>0.550</td></tr><tr><td>边缘密度ED/(m/hm²）</td><td>0.356</td><td>1</td><td>0.798 **</td><td>0.298</td><td>0.276</td></tr><tr><td>平均形状指数 MSI 面积加权的平均斑块分形指数AWMPFD</td><td>0.013 -0.343</td><td>0.798** 0.298</td><td>1 0.595 *</td><td>0.595 * 1</td><td>0.222</td></tr><tr><td>景观分离度DIVISION</td><td>0.550</td><td>0.276</td><td>0.222</td><td>0.021</td><td>0.021</td></tr><tr><td>景观丰度密度PRD(/100hm²)</td><td>-0.670 *</td><td>-0.321</td><td>-0.333</td><td>-0.152</td><td>1</td></tr><tr><td></td><td>0.517</td><td>0.404</td><td>0.443</td><td>0.251</td><td>-0.882**</td></tr><tr><td>香农多样性指数 SHDI 生态干扰度 HI</td><td>1</td><td>0.143</td><td>0.258</td><td>0.440</td><td>0.899 **</td></tr><tr><td>2007 边缘密度ED/(m/hm²)</td><td>0.143</td><td></td><td>0.614 *</td><td>0.146</td><td>0.483</td></tr><tr><td>平均形状指数MSI</td><td></td><td>0.258 0.614 *</td><td>1</td><td></td><td>0.678 *</td><td>-0.409</td></tr><tr><td>面积加权的平均斑块分形指数AWMPFD</td><td></td><td></td><td>0.146</td><td>0.678 *</td><td></td><td>0.213</td></tr><tr><td>景观分离度DIVISION</td><td></td><td>0.440 0.483</td><td>-0.409</td><td>0.213</td><td>1 0.619 *</td><td>0.619 *</td></tr><tr><td>景观丰度密度PRD(/100hm²)</td><td></td><td>-0.323</td><td>-0.190</td><td>0.219</td><td>0.431</td><td>1</td></tr><tr><td>香浓多样性指数 SHDI</td><td>0.372</td><td></td><td>-0.197</td><td>0.204</td><td>0.401</td><td>0.573 0.536</td></tr><tr><td>2013 生态干扰度 HI</td><td>1</td><td></td><td>0.432</td><td>0.626 *</td><td>0.571</td><td>0.573</td></tr><tr><td>边缘密度 ED/(m/hm²)</td><td></td><td>0.432</td><td>1</td><td>0.829**</td><td>0.144</td><td>-0.162</td></tr><tr><td>平均形状指数 MSI</td><td>0.626 *</td><td></td><td>0.829 **</td><td>1</td><td>0.502</td><td></td></tr><tr><td>面积加权的平均斑块分形指数AWMPFD</td><td>0.571</td><td></td><td></td><td></td><td></td><td>0.225</td></tr><tr><td></td><td></td><td></td><td>0.144</td><td>0.502</td><td>1</td><td>0.787 **</td></tr><tr><td>景观分离度DIVISION</td><td>0.573</td><td></td><td>-0.162</td><td>0.225</td><td>0.787**</td><td>1</td></tr><tr><td>景观丰度密度PRD（/100hm²)</td><td>-0.206</td><td>-0.305</td><td></td><td>-0.090</td><td>0.314</td><td>0.451</td></tr><tr><td>香浓多样性指数 SHDI</td><td>0.655 *</td><td>0.147</td><td></td><td>0.430</td><td>0.806 **</td><td>0.926 **</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "根据本研究区景观指数的空间相关性统计分析可知,生态干扰度指数与景观指数相关性大小依次为：边缘密度指数（ED）<景观丰度密度（PRD）<香农多样性指数（SHDI) $<$ 平均形状指数(MSI)面积加权的 $<$ 平均斑块分形指数（AWMPFD）<景观分离度（DIVISION）（表3）。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1972—2013年,艾比湖湿地生态干扰度均与景观格局指数有相关性。生态干扰度与边缘密度指数(ED）平均形状指数(MSI)及景观分离度(DIVISIO)均呈正相关,其中与平均形状指数（MSI)在0.05 水平上呈显著相关,说明研究区在生态干扰度对景观破碎度及复杂性有积极的影响。生态干扰度与景观丰度密度(PRD)呈负相关,这表明生态干扰度与景观组分及景观异质性有负面影响。边缘密度(ED)与平均形状指数(MSI)的相关性较高,在0.01水平上呈显著相关。通过表3分析可知,在1972年,生态干扰度与各景观指数的相关性最高,说明艾比湖湿地的生态干扰程度较大,景观格局的异质性、复杂性较大。这与以往的研究有一致性,同时也说明了生态干扰度与景观之间的关联性。在2007年,生态干扰度与各景观指数的相关性较低。在1972—2013年,生态干扰度与景观指数的相关性有降低的趋势,说明了艾比湖湿地的生态干扰程度有减弱",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "的趋势。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1讨论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "“生态干扰度”被引入到景观监测与评价中,很多学者均用此概念描述外界对森林、湿地等生态系统天然性的干扰程度。不少研究中用“人为干扰度”[26,2.41]的概念来描述湿地等生态系统的所受到的人为活动的干扰程度。也很多学者用生态干扰度的概念评价生态系统受到的干扰程度。如陈爱莲等[14]借助遥感的手段，引入“生态干扰度”概念,系统地评价双台河口湿地的景观及生态干扰度的变化特征。李继红和胡庆磊[21]通过景观分析及GIS 空间分析法,探讨宝清县湿地生态干扰度时空动态分异特征及景观格局的响应机制。本文通过此概念分析了艾比湖湿地保护区的生态干扰度的时空分异特征及景观格局的变化,探讨空间上景观指数与生态干扰度之间的相互关系,这将有利于较为全面系统的揭示景观格局与生态干扰度的响应机制。客观系统的认识和评价艾比湖区域的生态系统及环境,可为干旱区实现自然环境的保护,土地利用及环境保护之间的关系协调提供较为实用的参考,以期为区域的可持续发展提供理论依据。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文在研究过程中存在以下不足之处。（1)本文选用的4期遥感影像并非同一日期的,每个时期的气温、降水等自然因素的不同均会影响植被的生长以及湖泊的面积,这最终会直接影响到生态干扰度的时空分异。（2)本文借鉴相关研究构建生态干扰度指数景观类型分类系统,这方面的文献并没有对构建分类系统有所规范,此类问题在诸多研究中均有出现。（3)本文在景观指数的选取上,主要是通过阅读文献及对景观指数的理解进行选择的,其主观性过强,选择的景观指数不一定全部都能很好地反映与生态干扰度之间的响应关系。（4)此外,本文在探讨生态干扰度的驱动因子时,主要参考相关文献进行选取,并未考虑到更为全面的因素解释其变化。这些有待今后进一步研究。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "生态干扰度能很好的反映区域的生态系统脆弱程度以及生态环境状况[42]。通过对艾比湖湿地生态干扰度的研究,可为地处于发展的干旱区生态环境的管理提供辅助决策支持。尤其需要对生态干扰度高的区域高度重视,全面考虑本研究区的生态环境,科学的、合理的对干旱区的湿地实施保护。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文综合考虑《全国土地利用分类》及研究区域植被分布,将遥感技术应用于艾比湖湿地。从景观生态学的角度,分析1972—2013 年艾比湖湿地生态干扰度的动态变化与景观的响应。结果表明：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（1）1972—2013年,艾比湖湿地生态干扰度总体较为稳定。轻度干扰区域的面积较为稳定,中度干扰类型的空间分布变化较大,这表明艾比湖湿地植被的天然性程度较不稳定易受到干扰。1972—2013年,干扰度的类型之间的转化速率有加快的趋势，可说明干旱区的湿地生态系统的天然性程度易受到干扰。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2）在 $1 9 7 2 { \\stackrel { } { - } } 2 0 1 3$ 年,艾比湖湿地年均温度呈上升的趋势,年均降水量波动较大,且其年均蒸发量大,造成该区域的植被分布及湖泊面积发生变化，这直接影响到艾比湖湿地生态系统的天然性程度。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3)1972—2013年,边缘密度指数（ED),平均形状指数（MSI)，面积加权的平均斑块分形指数（AWMPFD),景观分离度（DIVISION）,四项景观格局指数大体呈上升的趋势,景观丰度密度（PRD)及香农多样性指数(SHDI)大体呈下降的趋势,说明艾比湖湿地生态系统的天然性程度受到的干扰程度增加。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "（4)边缘密度指数(ED）和面积加权的平均斑块分形指数（AWMPFD)与生态干扰度在空间分布上有较好的一致性及相关性。生态干扰度与景观格局指数空间分布相关性大小依次为：边缘密度指数(ED) $<$ 景观丰度密度(PRD) $<$ 香农多样性指数(SHDI) $<$ 平均形状指数(MSI) $<$ 面积加权的平均斑块分形指数（AWMPFD）<景观分离度（DIVISION）。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "［1］王继国，金海龙，靳万贵.艾比湖湿地自然保护区土壤保持生态功能及价值评价.干旱区地理，2008,31（1）：135-141.[2］金海龙，白祥，满中龙，昝梅.新疆艾比湖湿地自然保护区土壤空间异质性研究.干旱区资源与环境，2010,24(2)：150-15'",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[3］张玉红，苏立英，于万辉，张洪云.扎龙湿地景观动态变化特征.地理学报，2015，70(1)：131-142.  \n[4] 谢正宇,李文华，谢正君，李新琪.艾比湖湿地自然保护区生态系统服务功能价值评估.干旱区地理，2011,34（3)：532-540.  \n[5] 鄢雪英，丁建丽，李鑫，张喆，马尔哈巴，曾小箕，王刚.艾比湖湿地退化对盐尘暴发生及运移路径的影响.生态学报，2015，35（17)：5856-5865.  \n[6] 张丽，赵丹丹，刘吉平，陈智文，刘家福.近30年吉林市景观格局变化及气候效应.吉林大学学报：地球科学版，2015,45(1)：265-272.  \n[7] 彭建，党威雄，刘焱序，宗敏丽，胡晓旭.景观生态风险评价研究进展与展望.地理学报，2015，70(4）：664-677.  \n[8] OlsonEGA，AustrimG,GreSNLdsapechagepaesinoutains,nduseadenviontaliversty，Mid-oa69.Landscape Ecology，2000,15(2): 155-170.  \n[9] 刘吉平，马海超，赵丹丹.三江平原孤立湿地景观空间结构.生态学报，2016，36(14)：4307-4316.  \n[10] 洪佳，卢晓宁，王玲玲.1973-2013 年黄河三角洲湿地景观演变驱动力.生态学报，2016,36(4)：924-935.  \n[11] SuiX,ChenL，ChenA，WangDS，WangWL,GeHF,JiGDAsessmentof tmporalandspatiallandscapeandavifaunachangesntheYellow River w erves in 1990-2013，China.Ecological Engineering，2015，84：520-531.  \n[12] 宫兆宁，张翼然，宫辉力，赵文吉.北京湿地景观格局演变特征与驱动机制分析.地理学报，2011,66(1)：77-88. C  \n[13] 国庆喜，王天明.丰林自然保护区景观生态评价——量化与解释.应用生态学报，2005，16(5）：825-832.  \n[14] 陈爱莲，朱博勤，陈利顶，吴艳华，孙然好．双台河口湿地景观及生态干扰度的动态变化.应用生态学报，2010,21（5)：1120-1128.  \n[15] 尹昌平,罗格平，鲁蕾，史建康.内陆干旱区土地利用变化的景观格局特征分析——以新疆白杨河流域为例.干旱区地理,2008,31（1)：67-74.  \n[16] 孙倩，塔西甫拉提·特依拜，张飞，丁建丽，买买提·沙吾提，韩桂红，桂东伟.渭干河-库车河三角洲绿洲土地利用/覆被时空变化遥感研究.生态学报，2012，32（10)：3252-3265.  \n[17] 巩杰，谢余初，高彦净，孙朋，钱大文.1963-2009年金塔绿洲变化对绿洲景观格局的影响.生态学报，2015，35（3）：603-612.  \n[18] 张飞，塔西甫拉提·特依拜，丁建丽，王伯超，王飞，买买提·沙吾提.干旱区绿洲土地利用/覆被及景观格局变化特征——以新疆精河县为例.生态学报，2009，29（3）：1251-1263.  \n[19] 冯异星，罗格平，周德成，韩其飞，鲁蕾，许文强，朱磊，尹昌应，戴丽，李艳忠.近50a土地利用变化对干旱区典型流域景观格局的影响——以新疆玛纳斯河流域为例.生态学报，2010，30（16)：4295-4305.  \n[20] Celka Z.RelicsofliatiineslarfaofedelstviceesdstodivesityRsehCoseat1,22: 1-110.  \n[21] 李继红，胡庆磊.基于生态干扰度的宝清县湿地景观动态分析.西北林学院学报,2013，28（5）：154-159，194-194.  \n[22] 李迈和，Kruchi N，杨健.生态干扰度——一种评价植被天然性程度的方法.地理科学进展,2002，21（5）：450-458.  \n[23] BatistiC，FaneliGpplingidcatoofstubcefroplatterebateemeofdsoloalao，2016,61: 799-805.  \n[24] FehrenbachH,GalB，Gegich,uschM.Hemeosanmpactcategoryindicatorfortheintegrationoflanduseitlifele（iact)assessment. The International Jourmal of Life Cycle Assssment，2015,20(11):1511-1527.  \n[25] BrentrupF,steselJaieectntfdsdoobepteaalJolofLifeCycleAsse sment，2002，7(6):339-348.  \n[26] 肖翠，解雪峰，吴涛，蒋国俊，边华菁，徐伟.浙江西门岛湿地景观格局与人为干扰度动态变化.应用生态学报，2014，25（11)：3255-3262.  \n[27] 朱教君，刘世荣.次生林概念与生态干扰度.生态学杂志，2007，26(7)：1085-1093.  \n[28] 孙永光，赵冬至，吴涛，卫宝泉，高树刚，李媛，曹芳芳.河口湿地人为干扰度时空动态及景观响应——以大洋河口为例.生态学报，2012，32(12): 3645-3655.  \n[29] 张敏，宫兆宁，赵文吉，阿多.近30年来白洋淀湿地景观格局变化及其驱动机制.生态学报，2016,36（15）：4780-4791.  \n[30] 董正武，赵晓英，高翔，郭名军.退化湿地恢复中植物群落的变化——以艾比湖精河入湖口为例.草业科学，2011，28(3)：426-430.  \n[31] 张雪妮，吕光辉，贡璐，秦璐，李尝君，孙景鑫，任曼丽.新疆艾比湖湿地自然保护区不同土壤类型无机碳分布特征.中国沙漠，2013，33(4) : 1084-1090.  \n[32] 王合玲，吕光辉，杨晓东.新疆艾比湖湿地主要植物的种间关联分析.生态学杂志，2011，30（12）：2713-2718.  \n[33] 王璐，丁建丽.基于景观尺度的艾比湖保护区LUCC 变化及其驱动力分析.水土保持研究，2015，22（1)：217-223.  \n[34］杨晓东，吕光辉，田幼华，杨军，张雪妮．新疆艾比湖湿地自然保护区植物的生态分组.生态学杂志，2009,28(12）：2489-2494.  \n[35] 张飞，塔西甫拉提·特依拜，丁建丽，田源，依力亚斯江·努尔麦麦提，哈学萍.基于不同窗口纹理特征的SVM 土壤盐渍化信息提取方法与精度分析研究.干旱区地理，2009,32（1)：57-66.  \n[36] 田长彦，宋郁东，胡明芳.新疆荒漠化现状、成因及对策.中国沙漠，1999，19（3）：214-218.  \n[37]WalzUteinCdatofobforegofdaesinGaJalatureCseatio)89.  \n[38] 张月，张飞，周梅，李晓航，任岩，王娟.干旱区内陆艾比湖区域景观生态风险评价及时空分异.应用生态学报，2016,27（1)：233-242.  \n[39] 张芸香，郭晋平.森林景观斑块密度及边缘密度动态研究——以关帝山林区为例.生态学杂志，2001,20(1)：18-21.  \n[40] 刘吉平，赵丹丹，田学智，赵亮，刘家福.1954—2010年三江平原土地利用景观格局动态变化及驱动力．生态学报，2014，34（12)：3234- 3244.  \n[41] 陈鹏，傅世锋，文超祥，吴海燕，宋志晓.1989—2010年间厦门湾滨海湿地人为干扰影响评价及景观响应.应用海洋学学报，2014，33(2): 167-174.  \n[42] 梁发超，刘黎明．景观格局的人类干扰强度定量分析与生态功能区优化初探——以福建省闽清县为例.资源科学，2011，33（6)：1138- 1144.",
+        "page_idx": 15
+    }
+]

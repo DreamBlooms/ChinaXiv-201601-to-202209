@@ -1,0 +1,215 @@
+# 基于AEZ模型的河南省冬小麦产量差时空特征分析
+
+王连喜1,2；卢媛媛1；李琪1,2；胡正华1；吴东丽³；张阳1；王田1(1.江苏省农业气象重点实验室南京210044;2.江苏省大气环境与装备技术协同创新中心南京210044;3．中国气象局气象探测中心 北京 100081)
+
+摘要：各种产量差的分析可以揭示产量的提升空间及研究区域内各种限制因子对产量提高的限制作用。为研究气候变化背景下，各气候要素对河南冬小麦产量差的影响，本文以河南省为研究区域并划分为5个类型区域，利用14个气象站点的资料运用AEZ模型计算得到1961—2013年该省的冬小麦生产潜力，再根据产量差法计算得到YG-2(光合生产潜力与光温生产潜力的差距)、YG2-3(光温生产潜力与气候生产潜力的差距)以及YG2-a(光温生产潜力与大田平均产量的差距)3个水平的产量差。研究结果表明，1961—2013年河南省冬小麦光合生产潜力下降，光温生产潜力提高，气候生产潜力基本不变。对大田平均产量的分析表明,14个站点平均产量存在较大差异，冬小麦产量总体逐渐增长。从时间变化上看，河南省冬小麦YGi-2差距总体呈现出递减趋势;YG2-3差距呈现出“V型”，谷值在1981—1990年；I、II、V区YG2-a差距呈现递减趋势；而II和IV区则呈现先增加再减少的趋势。从空间变化上来看，河南省冬小麦YGI-2差距和YG2-3差距自北向南递减，而YG2-a差距自东向西递增。各区域冬小麦增产潜力的排序为:II区>V区>IV区>II区>I区。农学因素是限制当地冬小麦产量差缩小的主要因素，通过改善农学因素，如：改良更新冬小麦品种、提升现代农业生产技术、合理使用农药化肥、合理布局优质小麦区域等可缩小该区域冬小麦产量差距。
+
+关键词：冬小麦;AEZ模型；产量差；时空特征中图分类号:S512.1; 文献标识码：A
+
+# Analysis of temporal and spatial characteristics of winter wheat yield in Henan Province based on AEZ model\*
+
+WANG Lianxi1,2, LU Yuanyuan1,LI $\mathbf { Q } \mathbf { i } ^ { 1 , 2 }$ ,HU Zhenghua1,WU Dongli³, ZHANG Yang1,WANG Tian1 (1.JiangsuKeyLaboratoryofAgricultural Meteorology,Nanjing 210044,China; 2.JiangsuCollaborative InnovationCenterof AtmosphericEnvironmentandEquipmentTechnology,Nanjing210044,China;3.MeteorologicalObservation CentreofChina Meteorological Administration, Beijing 10oo81, China)
+
+Abstract:Globalclimatechangehasbecomeoneofthe mostserious environmental problems facing humansociety.Agriculture is oneof the mostsensitiveareas torespondtoclimatechange.Theanalysisof thevarious yielddiferences canreveal the limiting effectsoftegrowthofproductionandthevarious imitingfactors inthestudyarea.Studyingtheyield gapsunderthebackgroundof climatechangehelpsus touderstand the limitingeffectofclimaticfactorsonthecropyielddiference.HenanProvinceisoeofthe most mportantcommoditygrain bases inthecountry with richclimateresources andremarkable climatechange characteristics. Analyzing the yield gapsandtheirschanging trendsof winterwheatin HenanProvinceandunderstanding thepotential impactof climate hange on winter wheat development.They haveagreat significance todrawon theadvantages andavoid disadvantages, making fullandrationaluseofclimateresourcesandasssingthe potentialimpactofclimatechangeforwinterwheat.Thecurrent researches on theimpactofclimate changeoncrop yieldgaps usuall focusedonlargerscalesandfewpeoplehavedividedthe study area ntosmallpieces.Inordertoimprovetheaccuracyof thecalculationresults,this studydivided Henan intofiveplantingareas anddividedthegrowingperiods byregions.Using thedataof14meteorologicalstations,andcalculatethe winter wheatproduction potentialfrom1961to2O13in Henan province bythe AEZ model.And then the yield diference methodis used tocalculate the $\mathrm { Y G } _ { 1 - 2 }$ (The gap between photosynthetic potential and potential for light and temperature production), $\Upsilon \mathrm { G } _ { 2 - 3 }$ (The gap between light and temperature production potential and climate productivity potential)and $\mathrm { Y G } _ { \mathrm { 2 - a } }$ (The gap between light and temperature productiopotentialandfieldaverage yield).Theresultsshowedthatthephotosynthetic potentialofwinterwheatiHenanProvince decreasedfrom1961toO13,thepotentialforlightandtemperatureproductionincreased,andthepotentialofclimateproduction remainedbasicallyunchanged.Theanalysisofeldaverageyieldshows thatthereisabigdiferenceintheaverageoutputof14 sites,and theoutputof winter wheat shows atrendof gradualincrease.Fromthetime pointofview,theYG-2 gapof winter wheat shows a decreasing trend, YG2-3 gap showing a“V-type”,the valley is in 1981—1990，I，II，V areas” $\mathrm { Y G } _ { \mathrm { 2 - a } }$ gap showed a decreasing trend, while the III and $\mathrm { I V }$ regions show a tendency to increase first and then decrease in Henan Province.From the spatial change point of view,winter wheat $\mathrm { Y G } _ { 1 - 2 }$ gap and $\Upsilon \mathrm { G } _ { 2 - 3 }$ gap declined from north to south,while the $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ gap increased from eastto west in HenanProvince.Agronomic factorsare the mainfactors restrictingthe narowingof the winter wheat yield gapin Henan Province.By improving agronomic factors，such as improving and updating winter wheat varieties，upgrading modern agriculturaltologyusingpesticidesadfertirseasonablyandatoallyangingiualityeatrions,itduce the winter wheat yield gap in this region.
+
+Keywords: Winter wheat; AEZ model; Yield difference; Spatio-temporal characteristics粮食安全是人类社会和国民经济可持续发展的根基，农业生产体系是粮食安全的重要保障。随着人口的迅速增加，人类对粮食的需求迅速增加，但耕地面积有限，人均耕地面积日渐缩小，粮食安全问题每况愈下，因此，需要通过粮食产量的不断增长来满足日益增长的粮食需求，以达到保证粮食安全的目的[]。粮食总产量增长的主要方法有两种，扩大粮食播种面积或者提高粮食单产水平。自20 世纪90年代起，作物产量差研究一直是国际作物学研究方向的一个重要分支[2]。产量差的研究可以体现产量的增长空间以及研究区域内各限制因子对产量提升的制约作用，如自然(气候、土壤等)、技术、经济等因素。近百年来，全球气候发生了剧烈的改变，给人类社会、经济、生态系统的各个方面造成了影响或潜在威胁，进而出现了一系列不可小的问题。全球气候变化成为当今人类社会所面临的最严重的环境问题之一[3-5]。其中农业是对气候变化反应最为敏感的领域之一，研究气候变化背景下的产量差有助于我们理解气候因子对作物产量差的限制作用。刘保花等通过总结近年发表的64篇经典文献，总结了世界三大粮食作物小麦、水稻和玉米的产量潜力和产量差的研究进展，并对生产潜力和产量差的4种常用方法进行了比较分析。研究表明:当前全世界小麦、水稻、玉米的农户产量分别实现了产量潜力的 $60 \%$ ， $60 \%$ ， $5 3 \%$ ，这3大作物具有较大的增产潜力。刘志娟等[7利用农业生产系统模拟模型(APSIM-Maize)和数理统计方法，分析了气候变化背景下1961——2010 东北三省春玉米种植区潜在产量与实际产量的差及各级产量差的时空分布特征，结果表明：东北三省春玉米潜在产量与农户实际产量之间的产量差呈明显的经向和纬向分布，即由南向北递减，由西向东递减。刘建刚等8通过农户调查的方法对吴桥县不同田块的产量差进行了研究。分析表明:中低产田块具有较大的产量提升空间。在冬小麦的生产投入构成中，肥料投入所占比例最大，并且不同收益的农户之间肥料投入呈现出明显的差异，而机械、农药、种子和灌溉等方面的投入差异不大。
+
+然而目前已有的气候变化对作物产量差的影响研究主要集中在较大尺度，很少有人将研究区域划分成小块。为提高计算结果的精确度，本研究将河南分成5个种植区并按区域划分生育期，还将光温生产潜力的叶面积修正按区域逐月修正。
+
+河南省地处亚热带向暖温带过渡区，气候资源丰厚，气候变化特点也较为显著，全球气候变化背景下的气候变化趋势，既具有一致性，亦具有区域特殊性9]。河南又是全国最重要的商品粮基地，因此河南粮食的产量状况对国家的粮食安全具有重大影响[10-]。分析河南省冬小麦产量差的分布特征及其和气候变化的对应关系，了解其对作物发育的潜在影响，有助于当地冬小麦生产避害就利、充分合理利用气候资源、评估气候变化的潜在影响[12-14]。
+
+# 1研究区域概况及研究方法
+
+# 1.1 研究区域概况
+
+河南地处北亚热带和暖温带气候交绥地区，气候具有明显的过渡性特征。每年10月到次年6月上旬冬小麦的生育期内，光能、热量以及水分资源比较充裕，农业资源潜力较大。但受地貌和季风的影响，气候资源的地域差异性较明显，与此同时，由于处在温带向亚热带的过渡地带，挟制冬小麦生长的气象灾害也较为严峻且频繁[15-19]。
+
+河南省冬小麦生育期内主要的气候特点：秋季温度适宜；中部和南部多数年份秋雨较多，西部和北部播种期间降水量年际间变幅较大；冬季少严寒，雨雪稀少;春季回温快，光照充足，常遇春旱；入夏气温偏高，易受干热风危害。因此造成了河南省小麦的生长发育分蘖期以及幼穗分化期长，子粒灌浆期短的特征[15]。
+
+为了体现河南省各区域的差异特征，本研究将河南分成5个区：I豫北种植区，其中站点包括：安阳、新乡、开封；I豫东种植区，其中站点包括：商丘、西华、许昌、宝丰；II浅山丘陵盆地种植区，其中站点包括：三门峡、卢氏、栾川；IV淮北平原、南阳盆地种植区，其中站点包括：南阳、驻马店、西峡；V为豫南稻茬麦区，本文只选取了信阳1个站点。
+
+![](images/deeffa5af156a8d357102f1f650679057aa70a01a28bf175f7366023c1a399c5.jpg)  
+图1河南冬小麦气候区划   
+Fig.1Climatic regionalization of winter wheat in Henan Province
+
+# 1.2 研究方法
+
+本研究采用 AEZ(Agro-ecological Zone)即农业生态地区法，计算冬小麦生产潜力，采用C 语言编程实现生产潜力模型的计算，数据整理和图表绘制用Excel 完成，产量差距分布图以及区域分布图用ArcGIS10.2绘制。
+
+# 1.2.1 AEZ模型介绍
+
+AEZ是卡萨姆(Kassam)为农业生态区项目拟定的计算作物光温水生产潜力的一种方法。具体方法是以标准作物的生物量，干物质总量为基础，然后依次进行温度订正、叶面积订正、净干物质订正和收获指数订正。这些订正过程都与具体的作物种类有关，并且分生育期进行。其中光合生产潜力的公式如下：
+
+$$
+Y _ { 1 } = f _ { 0 } y _ { 0 } + ( 1 - f _ { 0 } ) y _ { c }
+$$
+
+$$
+f _ { 0 } ^ { \mathrm { ~ ~ } } = \left( { A } _ { c } ^ { \mathrm { ~ ~ } } - 0 . 5 { R } _ { s } \right) / 0 . 8 { A } _ { c }
+$$
+
+式中： $Y _ { 1 }$ 为光合生产潜力，即某种标准作物的干物质总产量 $( \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ ： $y _ { 0 }$ 是一定地区某种标准作物在一全阴天(理想情况下一整天都是阴天)里的干物质生产率; $y _ { \mathrm { c } }$ 是一定地区某种标准作物在一全晴天(理想情况下一整天都是晴天)(无云)里的干物质生产率; $f _ { 0 }$ 为一天中阴天所占部分又叫做用云层覆盖率; $\textstyle R _ { s }$ 为太阳辐射或短波辐射通量; $A _ { \mathrm { c } }$ 为晴天最大有效射入短波辐射[II]。
+
+其中 $\textstyle R _ { s }$ 的计算公式如下:
+
+$$
+R _ { s } = ( a + b ^ { * } n / N ) R _ { a }
+$$
+
+光温生产潜力公式如下：
+
+$$
+Y _ { 2 } = c _ { L } c _ { N } c _ { H } G [ ( 0 . 8 + 0 . 0 1 1 y _ { m } ) y _ { 0 } + ( 1 - f _ { 0 } ) ( 0 . 5 + 0 . 0 2 5 y _ { m } ) y _ { c } ] \qquad \mathrm { y n > 2 0 ~ k g cdot h m ^ { - 2 } \cdot h ^ { - 1 } ~ }
+$$
+
+$$
+Y _ { 2 } = c _ { L } c _ { N } c _ { H } G [ f _ { 0 } ( 0 . 5 + 0 . 0 2 5 y _ { m } ) y _ { 0 } + ( 1 - f _ { 0 } ) 0 . 0 5 y _ { m } y _ { c } ] \qquad { \mathrm { y _ { m } } } { \mathrm { c 2 0 ~ k g } } \cdot { \mathrm { h m ^ { - 2 } } } \cdot { \mathrm { h ^ { - 1 } } }
+$$
+
+式中: $Y _ { 2 }$ 为作物的光温生产潜力 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ ： $C _ { \mathrm { { L } } }$ 为作物在时间上和叶面积上的生长校正系数，作物生长的总干物质生产是以假定有效叶面积为土地面积的5倍 $( \mathrm { L A I } { = } 5 )$ ，当叶面积低于这一值时，必须进行校正(表1)[15]表2(分区域逐月的具体较正值)是根据表1并结合冬小麦播后天数对应的叶面积指数计算所得; $C _ { \mathrm { N } }$ 为净干物质生产量的校正系数，凉气候条件下取0.6，暖气候条件下取0.5; $\mathrm { C _ { H } }$ 为作物收获指数; $G$ 为作物全生育期天数； $y _ { \mathrm { { m } } }$ 为作物的干物质生产率 $( \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { h } ^ { - 1 } )$
+
+表1不同叶面积指数下作物生长量校正值  
+
+<html><body><table><tr><td colspan="6">Table 1 Correction values(CL) of crop growth under differentleaf area indexes</td></tr><tr><td>叶面积指数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>≥5</td></tr><tr><td>FoliageArea Index 校正值 Correctionvalue</td><td>0.32</td><td>0.58</td><td>0.78</td><td>0.91</td><td>1.00</td></tr></table></body></html>
+
+表2生育期内河南省不同区域作物生长量校正值  
+  
+
+<html><body><table><tr><td colspan="12">Table2 vaiues giowtlnldiiieient</td></tr><tr><td>区域</td><td colspan="13">uurig 1OWti1 period 校正值Correctionvalue</td></tr><tr><td>Region</td><td>10月</td><td>11月</td><td>12月</td><td>1月</td><td>2月</td><td>3月</td><td></td><td>4月</td><td>5月</td><td>6月</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>October</td><td>November</td><td>December</td><td>January</td><td>February</td><td>March</td><td>April</td><td>May</td><td>June</td></tr><tr><td>1</td><td>0.096</td><td>0.398</td><td>0.600</td><td>0.660</td><td>0.780</td><td>1.000</td><td>1.000</td><td>0.810</td><td>0.372</td></tr><tr><td>ⅡI</td><td>0.096</td><td>0.398</td><td>0.590</td><td>0.640</td><td>0.760</td><td>1.000</td><td>1.000</td><td>0.850</td><td>0.372</td></tr><tr><td>IⅢI</td><td>0.064</td><td>0.320</td><td>0.541</td><td>0.620</td><td>0.705</td><td>0.910</td><td>1.000</td><td>0.910</td><td>/</td></tr><tr><td>V</td><td>0.048</td><td>0.257</td><td>0.489</td><td>0.610</td><td>0.700</td><td>0.955</td><td>1.000</td><td>0.897</td><td>/</td></tr><tr><td>V</td><td>0.032</td><td>0.224</td><td>0.476</td><td>0.60</td><td>0.720</td><td>0.980</td><td>1.000</td><td>0.900</td><td></td></tr></table></body></html>
+
+气候生产潜力公式：
+
+$$
+Y _ { 3 } = Y _ { 2 } \cdot f ( p )
+$$
+
+式中: $Y _ { 3 }$ 为冬小麦的气候生产潜力 $( \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ ：； $f ( p )$ 为水分订正函数，主要从两个方面考虑：一是降水量小于作物生育期内最大蒸腾蒸发量时，生产潜力不能达到最大潜力值的情况；二是降水量大于作物生育期内最大蒸腾蒸发量时，能够满足作物生育期对水分的需求，对生产潜力不构成限制的情况[16]。其计算公式为:
+
+$$
+f ( p ) = \left\{ \begin{array} { c c } { 1 - K _ { y } \times ( 1 - P / E T _ { m } ) , } & { P < E T _ { m } } \\ { 1 , } & { P > E T _ { m } } \end{array} \right.
+$$
+
+$$
+E T _ { m } = K _ { 1 } \cdot E T _ { 0 }
+$$
+
+式中： $P$ 为降水量; $K _ { \mathrm { y } }$ 为作物反应系数，冬小麦取1； $K _ { 1 }$ 为作物系数。 $\mathrm { E T _ { o } }$ 为参考作物蒸散量，采用FAOPenman-Monteith 公式计算。 $\mathrm { E T _ { m } }$ 为冬小麦生育期内实际蒸腾蒸发量。
+
+# 1.2.2产量差计算方法
+
+将 AEZ 模型计算结果结合实际产量，求差值得到各级产量差距。本文主要分析3个水平的产量差距：$\Upsilon \mathrm { G } _ { 1 - 2 }$ 、 $\Upsilon \mathrm { G } _ { 2 - 3 }$ 和 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 。 $\mathrm { Y G } _ { 1 - 2 }$ 可表征冬小麦生产潜力受温度变化对产量潜力发挥的影响, $\Upsilon \mathrm { G } _ { 2 - 3 }$ 表示降水变化对产量潜力发挥的影响; $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 用来反映研究区域范围内14个站点冬小麦实际产量与产量上限之间的距离，反映气候条件和生产条件对实际产量的综合限制状况[16-17]。
+
+# 1.3数据来源
+
+本研究气象数据来源于国家气象局数据中心，包括河南省14个站点的1961—2013年的日平均气温、日最高气温、日最低气温、日降水量、日照时数、相对湿度、大气外太阳辐射通量、太阳时角、纬度等。河南省1980—2013年的冬小麦产量数据来源于河南省历年统计年鉴。
+
+# 2结果与分析
+
+# 2.11981—2010 年河南省冬小麦大田平均产量
+
+从河南省14个研究站点1981—2010 年冬小麦平均单位面积产量(Ya)情况看来(图2)，各县(市)平均产量存在很大差异，从1981—2010年每10年平均产量(将每10年的平均值视作该阶段的产量状况)变化趋势得知，河南省冬小麦产量总体处于逐渐上升，其中 2001—2010 年产量增长最为明显。
+
+![](images/a8b334a254b6ab867c4919faa2d2d8cfc2d6946a1a5a52af9e0c906d424f7196.jpg)  
+图21981—2010年河南省14个站点冬小麦每10年平均产量Fig.2The average yield of winter wheat 10 years in 14 sites in Henan Province in 1961—20101:安阳;2：新乡;3:开封;4:宝丰;5:许昌;6:西华;7:商丘；8:三门峡;9:卢氏;10:栾川;1:南阳；12:西峡;13:驻马店;14:信阳。1:Anyang；2:Xing;:ofiXinyang.
+
+# 2.2河南省冬小麦的生产潜力
+
+# 2.2.1 光合生产潜力
+
+河南省1961—2013年冬小麦的光合生产潜力范围在 $4 7 ~ 7 9 9 . 5 0 { \sim } 6 4 ~ 9 8 2 . 9 5 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。14个站点中，光合生产潜力年均值的最大值出现在I区的新乡站点，最小值出现在V区的信阳站点。造成该结果的原因是：I区光温条件较好，全生育期日照时数为 $1 4 0 0 { \sim } 1 5 0 0 \mathrm { ~ h ~ }$ 。连阴雨天气少，光照充足。而V区主要包括淮河以南各县，也就是豫南稻茬麦区。该区小麦生育期主要日照特点可表征为：前期光照充足，后期由于春季多雨，所以寡照明显。
+
+光合生产潜力中有12个站点呈现逐年递减趋势，而栾川和卢氏这两个站点却呈现递增趋势，栾川的递增趋势要大于卢氏。其原因应该是：栾川和卢氏属于浅山丘陵盆地种植区，栾川和卢氏的海拔高度分别为$7 5 0 . 5 \mathrm { ~ m ~ }$ 、 $^ { 7 3 8 \mathrm { ~ m ~ } }$ ，由于这两个站点的海拔较高，太阳辐射也较强。53年内这两个站点全生育期总日照时数呈增加趋势，其他站点则呈减少趋势。
+
+![](images/b23fff69aa0d3d3e4f734b4775c5e75df4639ab913c3dbf7cc27ad71519247bc.jpg)  
+图31961—2013年河南省14个站点冬小麦光合生产潜力Fig.3Photosynthetic potential of winter wheat in 14 stations in Henan Province in1961—20131:安阳；2:新乡;3:开封;4:宝丰;5:许昌;6:西华;7:商丘；8:三门峡;9:卢氏；10:栾川；1:南阳；12:西峡;13:驻马店;14:信阳。1:Anyang；2:Xiic;:Xinyang.
+
+# 2.2.2 光温生产潜力
+
+河南省 1961—2013 年冬小麦光温生产潜力范围在 $7 ~ 1 5 6 . 5 4 { \sim } 9 ~ 9 7 1 . 6 1 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ；光温生产潜力的年均值最大值出现在I区的新乡站点，最小值出现在I区的卢氏站点。造成该结果的原因是：I区光温条件较好，冬季光照充足、温度适宜，对培育冬前壮苗以及安全越冬起到促进作用。而II区由河南省西部以及西南部$7 0 0 \mathrm { { m } }$ 以下的浅山丘陵地区组成。如果该区冬小麦适时播种，冬前温度适宜，降水充沛，有助于壮苗的培育和安全越冬；一旦播种偏晚，秋旱严重，会导致冬季死苗。生长后期日较差较大，对籽粒增重有正效应。春季干旱对小麦形成穗粒有限制作用，因此该区主要依靠小麦穗数来争取产量。
+
+全球变暖现象使14个站点光温生产潜力值均呈增长趋势，其中增长趋势最明显的是开封站点，最不明显的是安阳站点。
+
+![](images/7f6f6ea0ad828fc7418d96a00cb9df3f9f9dd431d6b99c7c4821938cbcb091e7.jpg)  
+  
+图41961—2013年河南省14个站点冬小麦光温生产潜;Fig.4Photovoltaic potential productivity of winter wheat in 14 stations in Henan Province in 1961—20131:安阳；2：新乡;3:开封;4:宝丰;5:许昌;6:西华;7:商丘；8:三门峡;9:卢氏；10:栾川；1:南阳；12:西峡;13:驻马店；14:信阳。1:Anyang：2:Xixi;cga;:Z:Xinyang.
+
+# 2.2.3气候生产潜力
+
+河南省1961—2013 年冬小麦气候生产潜力范围在 $1 0 3 4 . 2 3 { \sim } 9 4 1 6 . 8 8 \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。气候生产潜力的年均值最大值出现在V区的信阳站点，最小值出现在I区的安阳站点。造成该结果的原因是：V区小麦全生育期降水量为 $4 0 0 { \sim } 5 0 0 ~ \mathrm { m m }$ ，冬季温暖，雨量多,越冬条件好，春季多雨。而Ⅰ区由于自然降水量小，小麦拔节抽穗期春旱机率较高。全生育期内降水量 $1 5 0 { \sim } 2 0 0 ~ \mathrm { m m }$ ，严重小于实际需水量。生长后期干热风灾害严重，是省内重要干热风区。
+
+气候生产潜力中有商丘、西华和三门峡3个站点呈现增加趋势，其他11个站点呈现下降趋势。其中下降最明显的是信阳站点，增加最明显的是商丘站点。
+
+![](images/84d91bad6b171e61d610a754477741553c5f40f325178a93b4012e6d94a0ac4a.jpg)  
+图51961—2013年河南省14个站点冬小麦气候生产潜力Fig.5Potential productivity of winter wheat in 14 sites in Henan Province in 1961—20131:安阳；2:新乡；3:开封;4:宝丰;5：许昌;6:西华；7：商丘；8:三门峡;9:卢氏；10:栾川；1:南阳；12:西峡;13:驻马店；14:信阳。1:Anyang；2:Xiiag:o;c;;:gZXinyang.
+
+# 2.3 河南省冬小麦的产量差
+
+# 2.3.1光合生产潜力与光温生产潜力的差距 $( \mathbf { Y } \mathbf { G } _ { 1 - 2 } )$ （204号
+
+光合与光温生产潜力差距 $( \Upsilon { \bf G } _ { 1 - 2 } )$ 表示研究区域内有效热量条件对冬小麦光合生产潜力的限制。经过计算,14个站点的 $\Upsilon \mathrm { G } _ { 1 - 2 }$ 多年平均值最大值出现在I区的新乡站点，最小值出现在V区的信阳站点。其时间分布图(图3)可以看出，河南省冬小麦 $\mathrm { Y G } _ { 1 - 2 }$ 差距总体呈现出递减趋势；从 $\mathrm { Y G } _ { 1 - 2 }$ 差距空间分布图(图4)中可以看出，河南省冬小麦 $\mathrm { Y G } _ { 1 - 2 }$ 差距自北向南递减，说明河南热量条件对当地冬小麦光合生产潜力的限制由北向南减小。
+
+![](images/4416314397038c8e690864c3675ba9ef7e54926dd2427fdf1beba1b35ab60246.jpg)  
+图61961—2010年河南省14个站点冬小麦每10年平均光合生产潜力与光温生产潜力差距 $( \mathbf { Y } \mathbf { G } _ { 1 - 2 } )$ （20Fig.6Average YG1-2 yield diference of winter wheat every10 years in 14 stations in Henan Province in 1961—20101:安阳；2:新乡;3:开封；4:宝丰;5:许昌;6:西华；7:商丘；8:三门峡;9:卢氏；10:栾川;11:南阳；12:西峡;13:驻马店;14:信阳。1:Anyang2:iiag;:KogZXinyang.
+
+![](images/1facfa48eae5422a712f230ed84a30747e603001d639b4a7008cfd47dbbf4a42.jpg)
+
+# 2.3.2光温生产潜力与气候生产潜力的差距 $( \mathbf { Y } \mathbf { G } _ { 2 - 3 } )$ （204号
+
+光温与气候生产潜力差距 $( \Upsilon \mathrm { G } _ { 2 - 3 } )$ 的大小体现了研究区域内降雨量对冬小麦光温生产潜力的制约程度，YG2-3的值越大表示水分亏缺对产量的影响越大。经计算,14个站点的 $\Upsilon \mathrm { G } _ { 2 - 3 }$ 多年平均值最大值出现在I区的新乡站点，最小值出现在V区的信阳站点。其时间分布图(图 5)可以看出，河南省冬小麦YG2-3差距呈现出"V型”，谷值在1981—1990 年；从YG2-3差距分布图(图6)中可以看出，河南省冬小麦 $\Upsilon \mathrm { G } _ { 2 - 3 }$ 差距自北向南递减，说明河南降水条件对当地冬小麦光温生产潜力的限制由北向南减小。
+
+![](images/954a5ee419a74aebd3e15bcbb2490fd016766ba4b0e8e4bf1cb71bf56b3283d0.jpg)  
+图7河南省光合生产潜力与光温生产潜力差距 $( \mathbf { Y } \mathbf { G } _ { 1 : 2 } )$ 分布图Fig.7Average YG1-2 yield difference of winter wheat every10 years in14 stations in HenanProvince in1961-2010  
+图81961—2010年河南省14个站点冬小麦每10年平均光温生产潜力与气候生产潜力的差距 $( \mathbf { Y } \mathbf { G } _ { 2 - 3 } )$ （20Fig.8Average $\mathrm { Y G } _ { 2 - 3 }$ yield difference of winter wheat every 1O years in 14 stations in Henan Province in 1961-20101:安阳；2:新乡;3:开封;4:宝丰;5:许昌;6:西华;7:商丘；8:三门峡;9:卢氏；10:栾川；1:南阳；12:西峡;13:驻马店;14:信阳。1:Anyang；2:Xiiag:Ko;;:Xinyang.
+
+![](images/41cbd49df34d18a385f6233b70cdefab079903c437760c6208eaa2ce7afcccd6.jpg)  
+图9河南省光温生产潜力与气候生产潜力差距 $( \mathbf { Y } \mathbf { G } _ { 2 - 3 } )$ 分布图 Fig.9Average $\Upsilon \mathrm { G } _ { 2 - 3 }$ yield difference of winter wheat every 1O years in 14 stations in Henan Province in 1961-2010
+
+# 2.3.3光温生产潜力与大田平均产量的产量差距 $( \mathbf { Y } \mathbf { G } _ { 2 - \mathbf { a } } )$ （204号
+
+光温生产潜力与大田平均产量的差距 $\ ( \Upsilon { \bf G } _ { 2 - \mathrm { a } } )$ 可以体现研究区域内14个站点冬小麦产量上限与实际产量之间的差，可以表征气候以及生产条件对实际产量的综合制约程度。由于获得的大田平均产量数据有限，本文只计算了1981—2011年的 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 值。14个站点的 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 年平均值最大值出现在II区的卢氏站点，最小值出现在I区的新乡站点。其时间分布图(图7)可以看出，I、Ⅱ、V区 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 差距呈递减趋势，而III和IV区则呈现先增加再减少的趋势；从 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 差距分布图(图8)中可以看出，河南省冬小麦 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 差距I区<I区<IV区<V区<III区，自东向西递增，说明气候以及生产条件对实际产量的共同限制自东向西增加。
+
+![](images/4ca880b6b28437141e43888340f6cbd3f814d3b3e798ebbea7be97c0a3a5abb1.jpg)  
+  
+图101961—2010年河南省14个站点冬小麦每10年平均光温生产潜力与大田平均产量的产量差距 $( \mathbf { Y } \mathbf { G } _ { 2 - \mathbf { a } } )$ （Fig.10Average $\mathrm { Y G } _ { \mathrm { 2 - a } }$ yield difference of winter wheat every 1O years in 14 stations in Henan Province in 1961-20101:安阳;2:新乡;3:开封；4:宝丰;5:许昌;6:西华;7:商丘;8:三门峡;9:卢氏；10:栾川；1:南阳；12:西峡;13:驻马店;14:信阳。1:Anyang;2:Xiiag;:gcha;Z:Xinyang.
+
+![](images/b4f2141c3323cad29b9bfe10ffbe2d088803fb60e6a1449ef2f2df77a3e804e7.jpg)  
+图11河南省光温生产潜力与大田平均产量的差距 $\mathbf { \left( Y G _ { 2 - a } \right) }$ 分布图  
+Fig.11Average $\mathrm { Y G } _ { \mathrm { 2 - a } }$ yield difference of winter wheat every 1O years in14 stations in Henan Province in 1961-20
+
+# 3结论与讨论
+
+本研究在产量差变化趋势方面与其他相关研究结果具有较好的一致性，如叶冠宁[20]等关于河南省气候要素变化对冬小麦产量的影响和余卫东[21]等河南省夏玉米产量差时空分布特征。王学强[22]等虽然同样用AEZ 模型计算了河南省冬小麦生产潜力和冬小麦生产潜力开发度，但本研究与之不同的是：第一，本研究将河南省划分为5个区域，还按不同区域划分生育期，计算结果更为精确；第二，王学强等将生产潜力开发度(气候生产潜力与实际产量的比值)作为研究冬小麦生产潜力开发程度的指标，而我却使用了3个不同的指标进行研究；第三，王学强等着重在典型年份做了分析，但是本研究既对时间的变化趋势做了分析，又对空间分布做了分析。余卫东，马志红[23]等利用逐步订正模型，计算了近50年河南省夏玉米光温生产潜力和气候生产潜力，分析了光温生产潜力与气候生产潜力、光温生产潜力与实际产量两种产量差的时空变化特征。本研究与之相同的地方在于：第一，都选用了模型计算作物生产潜力以及产量差；第二，都对时空变化特征做了分析。不同的地方是：第一，本文选用的是AEZ 模型，而余卫东选择的是逐步订正模型；第二，本文对研究区域进行了划分，使计算结果更为精确，但是，余卫东则没有；第三，本研究使用了3个指标分析产量差，而余卫东只选用了光温生产潜力与气候生产潜力的差距和光温生产潜力和实际生产潜力的差距分析了产量差。本研究还存在不足：河南一些地区存在补充灌溉，但是本研究目前没有把补充灌溉这部分算进气候生产潜力中，这将会造成这些灌溉地区的 $\mathrm { Y G } _ { 2 - 3 }$ 值偏大，今后应在改进和补充上述问题方面进一步开展工作，使研究结果更精确。
+
+本文研究结果显示：1961—2013年冬小麦生育期内日照时数[24减少，导致了该省冬小麦光合生产潜力下降；而温度的升高25促进了冬小麦光温生产潜力的提高；气候生产潜力基本不变。对大田平均产量的分析表明，河南14个站点平均产量存在较大差异，河南省冬小麦产量总体逐渐增长。近30年来，大田平均产量增长明显而气候生产潜力却基本不变，该现象主要由以下因素导致：冬小麦品种的改良更新、现代农业生产技术的不断提升、农药化肥的合理使用、优质小麦区域化布局渐趋合理等。从时间变化上看，河南省冬小麦 $\Upsilon \mathrm { G } _ { 1 - 2 }$ 差距总体呈现出递减趋势; $\Upsilon \mathrm { G } _ { 2 - 3 }$ 差距呈现出"V型"，谷值在1981—1990年；I、II、V区 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 差距呈现递减趋势，而ⅢI和IV区则呈现先增加再减少的趋势。从空间变化上来看，由于全省地理环境的区域差异性，特别是以气候为主导因素的南北分异和以地质地貌为主导因素的东西分异。河南省冬小麦 $\Upsilon \mathrm { G } _ { 1 - 2 }$ 差距自北向南递减，说明河南热量条件对当地冬小麦光合生产潜力的限制由北向南减小; $\mathrm { Y G } _ { 2 - 3 }$ 差距自北向南递减，说明河南降水条件对该区域冬小麦光温生产潜力的制约由北向南减小，该现象符合河南省降水“南丰北缺"的空间分布特点；河南省冬小麦 $\Upsilon \mathrm { G } _ { 2 - \mathrm { a } }$ 差距自东向西递增，说明气候条件和生产条件对实际产量的综合限制自东向西增加，符合河南省人口、经济呈现不均衡的分布特点，重点体现在东部人口密度以及经济皆大于西部。
+
+依据上述研究结果，本研究针对河南不同区域缩小产量差提出以下建议：I区由于地处河南最北端,温度以及降水条件较差，因此补充灌溉可以缩小产量差，与此同时，I区的西南部分还需要优化种植管理制度。I区的人口密度较大，经济发展较好，农业生产技术也较为先进，因此只有优化管理制度，精益求精。III区地处浅山丘陵盆地，地力和地形对产量制约较大。而且该区人口密度低，经济较为落后，所以可以通过政府扶持，提高种植技术，加大使用化肥，加大灌溉量，优化管理制度来缩小该区产量差。IV区的温度及降水条件较好，土壤肥力较差，若要缩小产量差，需要将有机肥和无机肥相结合。V区由于温度较高，降水量较大，土壤肥力较低，更适宜种植水稻。因此因地适宜的种植规划对该区缩小产量差具有重要影响。
+
+# 参考文献
+
+[1]王志敏.迈向新的绿色革命-全球粮食高产研究动向[J].中国农业科技导报,2004,6(4):3-6. Wang ZM.Toward new green-revolution--Global Prospects of Grain High-yieldResearch[J]. Journal of Agricultural Science and Technology, 2004,6 (4): 3-6.   
+[2]刘巽浩,胡跃高,陈宇.粮食-中国农业的永恒难题与主题[J].农业现代化研究,2010,31(4):385-391. Liu X H,Hu YG Chen Y.The Problemof Cereals: Eternal Themeand Dificult ProblemofChinese Agriculture[J].Research of Agricultural Modernization,2010,31 (4): 385-391.   
+[3]王馥棠.近10年来中国气候变暖影响研究的若干进展[J].应用气象学报,2002,13(6):755-766. Wang FT.Advances in climate warming impact research in China in recent tenyears[J].Quarterly Journal of Applied Meteorlolgy,2002,13(6): 755-764   
+[4]王馥堂,赵宗慈,王石立,等.气候变化对农业生态的影响[M].北京:气象出版社,2003:6-11. Wang FT, Zhao Z C,Wang SL,et al. Effects of Climatic Change on Agricultural EcologyM].Beijing: Meteorological Press,2003   
+[5]《气候变化国家评估报告》编写委员会．《气候变化国家评估报告》[M].北京:科学出版社,2007:23-29. "Committe of "China's National Asessment Report on Climate Change". China's National Assessment Report on Climate Change[M]. Beijing Science Press,2007:1-422   
+[6]刘保花,陈新平,崔振岭,等.三大粮食作物产量潜力与产量差研究进展[J].中国农业生态学报,2015,23(25):525-524. Liu BH,CHen XP,Cui ZL,et al. Research advance in yield potential and yield gapof threemajorcereal crops[J]. Chinese Journal of Eco-Agriculture,2015,23(5): 525-534   
+[7]刘志娟,杨晓光,吕硕,等．东北三省春玉米产量差时空分布特征[J].中国农业科学,2017,50(9):1606-1616 Liu ZJ,YANG X G,Lv S,et al. Spatial-Temporal Variations of Yield Gapsof Spring Maize in NortheastChina[J].Scientia Agricultura Sinica, 2017,50(9):1606-1616   
+[8]刘建刚等.基于田块尺度的小麦产量差及生产限制因素解析[J].中国农业大学学报,2013,17(12):42-47. Liu JGetal.Analysisof yield gapand limiting factors for wheaton thefarmland[J].Journal of China Agricultural University,2013,17(12):42-47.   
+[9]梅旭荣,康绍忠,于强,等.协同提升黄淮海平原作物生产力与农田水分利用效率途径[J].中国农业科 学,2013,46(6):1149-1157. Mei X R,Kang SZYu Q,etal.Pathways toSychronously ImprovingCropProductivityandField WaterUseEficiencnthe North China Plain[J]. Scientia Agricultura Sinica,2013,46(6):1149-1157.   
+[10] 赵文亮,贺振,贺俊平,等.基于MODIS-NDVI的河南省冬小麦产量遥感估测[J].地理研究,2012,12(31):1-2. Zhao WL,He Z,he JP,et al.Remote sensing estimation for winter wheat yield in Henan basedon the MODIS-NDVI data[J].Geographical Reserch,2012,12(31):1-2.   
+[11] 周磊,李刚,贾德伟,等.基于光能利用率模型的河南省冬小麦单产估算研究[J].中国农业资源与区划,2017,6(38):1-2. ZhouL,Li GJia WD,et al. Yield EstimationofWinter Wheat inHENANProvince based on the Vegetation Photosythesis Model[J]. Chinese Journal of Agricultural Resources and Regional Planning,2017,6(38):1-2.   
+[12] 李彤霄,赵国,李有.河南省气候变化及其对冬小麦越冬期的影响[J].中国农业气象,2009,30(1):143-146. Li X T,Zhao GLi Y. Climate Changeand its Impacts on Duration of Winter Wheat Overwintering Stage in Henan Province[J]. Chinese Journal of Agrometeorology,2009,30(1):143-146.   
+[13] 成林,薛昌颖,李彤霄,等.河南省稻麦类作物对气候变化的响应[J].气象与环境科学,2010,33(3):6-10. ChenL,XueCY,Li XT,et al. Responses of Wheatand RiceCrops to Climate Change in Henan Province[J]. Meteorological and Environmental Sciences,2010,33(3):6-10.   
+[14]王存凯,陈鹏飞,陶洪斌,等.玉米产量潜力及超高产干物质积累途径优化分析方法[J].中国生态农业学 报,2014,22(12):1414-1423. Wang CK,ChenPF,Tao HB,et al.OptimizedFAO-AEZ model for estimationof maizeyield potential anddrymatter accumulation for super-high yield cultivation[J]. Chinese Journal of Eco-Agriculture,2014,22(12):1414-1423.   
+[15]杨改河.西藏土地资源生产能力及人口承载量研究[M].拉萨:西藏人民出版社,1996:78-79. Yang GH. Study on land resources production capacityand population carrying capacity in Tibet[M].Lhasa: Tibet people's Publishing House,1996:78-79.   
+[16] 郑娜,刘秀位,王锡平.利用产量差距方法进行华北冬小麦产量受气候影响规律的分析-以河北省栾城县为例[J].中国生态 农业学报,2014,22(2):223-240. Zheng N,Liu X W, Wang X P.Determining the effects of climateon winter wheat yield in Northern China via yield gap analysis-Acase studyofLuancheng County,Hebei Province[J].ChineseJourmalofEco-Agriculture,2014,22(2):223-240.   
+[17] 王静,杨晓光,吕硕,等.黑龙江省春玉米产量潜力及产量差时空分布特征[J].中国农业科学,45(10):1914-1925. Wang J,Yang X GLvS,etal.Spatial-Temporal Characteristicsof Potential Yieldsand Yield Gapsof Spring Maize in Heilonajiana Province[J]. Scientia Agricultura Sinica,45(10):1914-1925.   
+[18] 成林,刘荣花,马志红.增温对河南省冬小麦产量的影响分析[J].中国生态农业学报,2011,19(4):854-859. ChenL,Liu R H,Ma ZH. Influence of global warming on winter wheat yield in Henan Province[J]. Chinese Journal of Eco-Agriculture,2011,19(4):854-859.   
+[19]范磊,胡海燕,王来刚,等.基于农户数据的河南中东部地区气象因子对冬小麦产量的影响分析[J].中国农业气 象,2012.33(1):109-113. FanL,HuHYWangLG,etal.ImpactofMeteorologicalFactorson Winter Wheat Yield inMiddleandEastHenanProvince Based on Household Data e[J]. Chinese Journal of Agrometeorology,2012.33(1):109-113.   
+[20]叶冠宁,王淑香,姚岩龙.等．河南冬小麦如何应对气候变化的响应探讨[J].气象与现代农业发展,2012.32(2):103-170. Ye GN,Wang S X,YaoYL,etal.Responseof winter wheat toclimate change inHenan[J].Meteorologyandthe Development of Modern Agriculture,2012.32 (2):103-170.   
+[21] 余卫东,赵国强,陈怀亮.气候变化对河南省主要农作物生育期的影响[J].中国农业气象,2007,28(1):9-12. Yu WD,Zhao G Q.Chen HL.Impacts of Climate Change on Growing Stages of Main Crops in Henan Province[J]. Chinese Journal of Agrometeorology,2007,28(1):9-12.   
+[22] 王学强,贾志宽,李轶冰．基于AEZ 模型的河南小麦生产潜力研究[J].西北农林科技大学学报.2008,36(7):1671-9387. Wang X QJiaZK,LiYB.Evaluationsonthe productive potentialof wheatbasedonAEZmodel inHenanProvince[J].Journal ofNorthwestA&FUniversity.2008,36(7):1671-9387.   
+[23] 余卫东,马志红．近50年河南省夏玉米生产潜力及产量差时空变化特征[J].干旱地区农业研究,2015,33(1):2-8. Yu W D,Ma Z H. Temporal-spatial variation of yield potential and yield gaps of summer maize during the past 5O years in Henan province[J]. Agricultural Research in the Arid Areas,2015,33(1):2-8.   
+[24] 杨溯,石广玉,王标,等.1961-2009 年我国地面太阳辐射变化特征及云对其影响的研究[J].大气科学,37(5):963-970. Yang S,Shi GY,Wang B,etal.Trends in Surface Solar Radiation(SSR)andtheEfectofCloudson SSR during 1961-2009 in China[J]. Chinese Journal of Atmospheric Sciences,37 (5): 963-970.   
+[25] 赵宗慈,罗勇,王绍武,等．全球变暖中的科学问题[J].气象与环境学报,2015,31(1):01-05. Zhao ZC,Luo Y,Wang SW,et al.Scienceissesonglobal warming[J].Journal of MeteorologyandEnvironment, 2015,31(1):01-05.

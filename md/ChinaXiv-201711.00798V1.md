@@ -1,0 +1,145 @@
+低聚木糖对生长肥育猪生长性能、胴体性状和肉品质的影响潘杰」韩 丽² 张 婷²　解培峰1,² 丁 浩1,3 孔祥峰1,2\* 黄兴国1\*
+
+（1.湖南农业大学，动物科学技术学院，长沙410128；2.中国科学院亚热带农业生态研究所，亚热带农业生态过程重点实验室，长沙 410125；3.山东龙力生物科技股份有限公司，禹城251200)
+
+摘要：为了研究低聚木糖（xylo-oligosaccharide,XOS）对生长肥育猪生长性能、胴体性状和肉品质的影响，试验选取平均体重为 $3 0 ~ \mathrm { k g }$ 左右的三元杂交猪 80头，随机分为8组，每组10头，公、母各占1/2，单栏饲养。试验设对照组、抗生素组， $3 0 { \sim } 6 5 ~ \mathrm { k g }$ 阶段100、250和 ${ 5 0 0 } \mathrm { g / t }$ XOS 组，以及 $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段100、250 和 ${ 5 0 0 } \ \mathrm { g / t }$ XOS 组。分别于试验开始和结束时记录每头猪的空腹体重及采食量，计算平均日采食量（ADFI)、平均日增重（ADG）和料重比(F/G)；于试猪平均体重达 $1 0 0 ~ \mathrm { k g }$ 时屠宰采样，测定胴体性状、肉品质和肌肉化学成分。结果表明：与对照组或抗生素组相比,饲粮添加不同剂量的XOS 对生长肥育猪的 ADFI、ADG、F/G、胴体性状和肉品质均无显著影响（ $P { > } 0 . 0 5 )$ ； $3 0 { \sim } 6 5 ~ \mathrm { k g }$ 阶段添加 $2 5 0 \ \mathrm { g / t }$ XOS可显著增加脾脏指数以及背最长肌粗蛋白质含量( $. P { < } 0 . 0 5 )$ ）； $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段添加 ${ 5 0 0 } \mathrm { g / t }$ XOS可显著增加脾脏指数及背最长肌粗蛋白质含量（ $_ { , P < 0 . 0 5 ) }$ 。综上所述，饲粮添加不同剂量的XOS 虽对生长肥育猪的 ADFI、ADG、F/G、胴体性状和肉品质等指标影响不显著，但可通过增加肌肉粗蛋白质含量而改善猪肉营养价值；以 $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段添加 $5 0 0 ~ \mathrm { g / t }$ XOS 效果较佳。
+
+关键词：低聚木糖；生长肥育猪；生长性能；胴体性状；肉品质中图分类号：S816.7；S828
+
+随着人们生活水平的提高，无公害生猪养殖已成为人们关注的焦点。但在目前的养猪生产中，人们为了获得更大的经济效益常使用饲用抗生素来提高猪的生长速度和饲料转化率，但同时造成机体免疫力下降[1l，引起病原微生物耐药性增强，导致猪肉品质和风味大大降低以及猪肉产品中抗生素的残留[2]。因此，研制能够替代饲用抗生素的安全高效的绿色饲料添加剂已迫在眉睫。低聚木糖（xylo-oligosaccharide,XOS）是一种由 2\~7 个木糖以 $\beta$ -1,4-糖苷键连接而成的功能性低聚糖，具有耐酸、耐热、不易被机体消化酶消化等突出特点[3]，被认为是最具潜力的寡糖类物质之一。研究表明，XOS 可选择性刺激肠道双歧杆菌等有益菌增殖，抑制大肠杆菌等有害菌生长，增强肠道消化功能和机体免疫力，促进动物生长，改善动物产品品质等[4-5]。例如，饲粮添加 100 或 $2 0 0 \ \mathrm { g / t }$ XOS 可提高生长肥育猪的平均日增重（ADG）、降低料重比（F/G）[6]；添加 $1 5 0 { \sim } 2 0 0 ~ \mathrm { g / t }$ XOS 可显著提高生长肥育猪的 ADG 或平均日采食量（ADFI）[7-8]；添加 $3 0 0 ~ \mathrm { g / t }$ XOS 可显著提高胴体瘦肉率和骨比率，降低胴体中脂肪的含量，改善肉色[9]。由此可见，虽然关于 XOS 调控生长育肥猪生长性能方面的研究已有了不少的报道，但研究结果仍存在一定差异，并且对XOS 添加方式的研究并不多见。因此，本试验旨在研究饲粮中添加不同剂量的XOS 对不同生长阶段生长肥育猪生长性能、胴体性状和肉品质的影响，为其在优质猪肉生产中的应用提供依据。
+
+# 1材料与方法
+
+# 1.1试验动物、分组与饲养管理
+
+试验选取体重为 $3 0 \mathrm { k g }$ 左右的杜 $\times$ 长 $\times$ 大三元杂交猪 80头，公、母各占1/2，随机分为8组，每组10头，于 $0 . 6 \mathrm { m } \times 1 . 1 \mathrm { m }$ 的单栏中饲养。试验设对照组、抗生素组[添加 $0 . 0 4 \mathrm { k g / t }$ 速大肥(有效成分维吉尼霉素) $0 . 2 \mathrm { k g / t }$ 抗敌素(有效成分硫酸粘菌素)], $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段100、250和 ${ 5 0 0 } ~ \mathrm { g / t }$ XOS组，以及 $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段100、250 和500g/t XOS 组。各组试猪体重达$1 0 0 ~ \mathrm { k g }$ 左右时屠宰采样。XOS 由山东龙力生物科技有限公司提供（主要成分为木二糖、木三糖和木四糖等，XOS 含量 $3 5 \%$ )。本研究中 XOS 的添加剂量根据前人相关研究报道[7-9]及生产厂家建议确定。基础饲粮为生长肥育猪商品饲粮，其营养水平高于美国 NRC（2012）猪营养需求标准配制，无抗生素添加，其组成及营养水平见表1。动物饲养试验在中国科学院亚热带农业生态研究所永安动物实验基地开展，试验期为2015年6-9月，试验期间按商业养猪场规范进行饲养管理。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of basal diets (air-dry basis) $\%$   
+
+<html><body><table><tr><td>项目Items</td><td>30~65 kg阶段</td><td>65~100 kg阶段</td></tr><tr><td></td><td>30 to 65 kg stage</td><td>65 to 100 kg stage</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3"></td></tr><tr><td>原料Ingredients 玉米Corn</td><td>60.00</td><td>61.00</td></tr><tr><td>大麦Barley</td><td>6.00</td><td>8.00</td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>1.50</td></tr><tr><td>豆粕 Soybean meal</td><td>27.50</td><td>25.0</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>0.10</td><td>0.10</td></tr><tr><td>赖氨酸Lys</td><td>0.16</td><td>0.18</td></tr><tr><td>蛋氨酸 Met</td><td>0.02</td><td>0.03</td></tr><tr><td>苏氨酸 Thr</td><td>0.10</td><td>0.07</td></tr><tr><td>抗氧化剂Antioxidant</td><td>0.02</td><td>0.02</td></tr><tr><td>防霉剂 Antimold</td><td>0.10</td><td>0.10</td></tr><tr><td>预混料1Premix1l</td><td>4.00</td><td></td></tr><tr><td>预混料2Premix 22)</td><td></td><td>4.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.92</td><td>13.78</td></tr><tr><td>粗蛋白质 CP</td><td>17.20</td><td>16.40</td></tr><tr><td>粗脂肪 EE</td><td>4.70</td><td>4.30</td></tr><tr><td>赖氨酸Lys</td><td>1.17</td><td>1.08</td></tr><tr><td>蛋氨酸Met</td><td>0.33</td><td>0.30</td></tr><tr><td>苏氨酸Thr</td><td>0.77</td><td>0.71</td></tr><tr><td>钙Ca</td><td>0.77</td><td>0.74</td></tr><tr><td>总磷TP</td><td>0.56</td><td>0.52</td></tr></table></body></html>
+
+1’预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet:Ca $0 . 5 2 \mathrm { m g }$ ， $\mathrm { C u } 3 \ : \mathrm { m g }$ ，I（204号 $0 . 1 4 ~ \mathrm { m g }$ ，Fe $5 0 ~ \mathrm { m g }$ ， $\mathrm { M n } 2 \mathrm { m g }$ ，Se $0 . 1 5 \mathrm { m g }$ ， $Z n 5 0 \mathrm { m g }$ ，VA $1 3 0 0 \mathrm { m g }$ ， $\mathrm { V D } 1 5 0 \mathrm { m g }$ ，VE $1 1 ~ \mathrm { m g }$ ， VK 0.5 mg,生物素 biotin $0 . 0 5 \mathrm { m g }$ ，胆碱choline $0 . 3 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 3 ~ \mathrm { m g }$ ，烟酸niacin $3 0 \mathrm { m g }$ ，泛酸 pantothenic acid（204号 $7 \mathrm { m g }$ ，核黄素 lactoflavin $2 \ : \mathrm { m g }$ ，硫胺素thiamine $1 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } \mathrm { ~ l ~ m g ~ }$ ， $\mathrm { V B } _ { 1 2 }$ 5 mgo
+
+2预混料为每千克饲粮提供 The premix provided the following per kg of the diet:Ca $0 . 5 9 \mathrm { m g }$ ， $\mathrm { C u } 3 . 5 \mathrm { m g }$ 10.14 mg， Fe $5 0 ~ \mathrm { m g }$ ，Mn 2 mg，Se $0 . 1 5 \mathrm { m g }$ ， $Z { \mathrm { n } } 5 0 ~ { \mathrm { m g } }$ ，VA $\mathrm { 1 ~ 3 0 0 ~ m g }$ ，VD $1 5 0 ~ \mathrm { m g }$ ，VE $1 1 \mathrm { m g }$ ， VK 0.5 mg,生物素 biotin $0 . 0 5 \mathrm { m g }$ ，胆碱choline $0 . 3 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 3 ~ \mathrm { m g }$ ，烟酸niacin $3 0 \mathrm { m g }$ ，泛酸 pantothenic acid$7 \mathrm { m g }$ ，核黄素 lactoflavin $2 \ : \mathrm { m g }$ ，硫胺素 thiamine $1 \mathrm { m g }$ ，VB6 1 mg，VB12 5 mg。
+
+3）营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2 生长性能测定
+
+分别在试验开始和结束时记录每头猪的空腹体重，试验期间记录每头猪的日采食量，计算 ADFI、ADG 和料重比。
+
+# 1.3 胴体性状测定
+
+试验结束时，每组随机选取8头试猪，按国家标准《瘦肉型种猪性能测定技术规程》，颈动脉放血处死，去除头、蹄、尾和内脏，保留板油和肾脏，4℃预冷2h后称胴体重。用游标卡尺测量眼肌面积及第6和7肋骨结合处的背膘厚。分割后分别称量脂肪、瘦肉、骨骼和肝脏、脾脏重量，并计算屠宰率、体脂率、瘦肉率、骨骼率和肝脏、脾脏指数[10-12]。
+
+# 1.4肉品质与肌肉化学成分测定
+
+取右半胴体6\~7肋骨处背最长肌样品，沿肌纤维方向切成 $2 \mathrm { c m }$ 厚的肉片，修成长 $5 \mathrm { c m }$ ，宽 $3 \mathrm { c m }$ 的长条，称重后装入自封袋中，于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 悬吊 $2 4 \mathrm { h }$ 后取出肉样称重，并计算滴水损失;用肉色仪(Minolta Chroma Meter II)测定宰后 $2 \mathrm { h }$ 内的肉色值;用专用pH计测定宰后 $4 5 \mathrm { m i n }$ 和 $2 4 \mathrm { h }$ （4℃保存）的 $\mathfrak { p H }$ ，测定结果分别以 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 和 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 表示[12]。取冷冻干燥并粉碎的背最长肌样品，用常规法测定其中干物质、粗蛋白质和肌内脂肪的含量[13]。
+
+# 1.5 数据统计与分析
+
+试验数据采用Excel2010初步整理后，利用SAS9.2进行单因素方差分析（one-wayANOVA）和LSD法多重比较，以最小二乘平均值表示统计结果， $P { < } 0 . 0 5$ 为差异显著。
+
+# 2结果与分析
+
+# 2.1XOS对生长肥育猪生长性能的影响
+
+由表2可知，各组的始重和末重差异均不显著（ $_ { \cdot P > 0 . 0 5 } )$ ；各组的ADFI、ADG和F/G差异不显著（ $. P { > } 0 . 0 5 )$ )，但在数值上 $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段 $1 0 0 \ : \mathrm { g / t }$ XOS 组ADG 高于、F/G低于对照组， $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段 ${ 5 0 0 } \mathrm { g / t }$ XOS 组ADFI高于对照组和抗生素组。
+
+表2XOS 对生长肥育猪生长性能的影响  
+Table 2Effects of XOS on growth performance in growing-finishing pigs ( $( n { = } 1 0 )$   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control</td><td>抗生素组 Antibiotic</td><td colspan="3">30-65kg 阶段XOS 组 30 to 65 kg stage XOS</td><td colspan="3">30~100 kg 阶段XOS 组 30 to 100 kg stage XOS</td><td>标准误 SEM</td><td>P值 P-value</td></tr><tr><td></td><td>group</td><td>group</td><td>100</td><td>group/(g/t) 250</td><td>500</td><td>100</td><td>group/(g/t) 250</td><td>500</td><td></td><td></td></tr><tr><td>始重 Initial BW/kg</td><td>33.59</td><td>33.72</td><td>33.36</td><td>33.72</td><td>33.43</td><td>32.97</td><td>34.37</td><td>34.71</td><td>0.50</td><td>0.99</td></tr><tr><td>末重 Finial BW/kg</td><td>98.00</td><td>99.78</td><td>96.71</td><td>97.00</td><td>97.38</td><td>98.29</td><td>97.17</td><td>99.63</td><td>0.67</td><td>0.88</td></tr><tr><td>平均日采食量 ADFI/kg</td><td>2.05</td><td>2.10</td><td>2.08</td><td>2.10</td><td>2.11</td><td>2.12</td><td>2.11</td><td>2.16</td><td>0.01</td><td>0.43</td></tr><tr><td>平均日增重 ADG/kg</td><td>0.75</td><td>0.74</td><td>0.76</td><td>0.74</td><td>0.73</td><td>0.75</td><td>0.71</td><td>0.75</td><td>0.03</td><td>0.54</td></tr><tr><td>料重比F/G</td><td>2.76</td><td>2.82</td><td>2.74</td><td>2.82</td><td>2.84</td><td>2.83</td><td>2.93</td><td>2.88</td><td>0.12</td><td>0.57</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $. P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。下表同。
+
+Values in the same row with different letter superscripts mean significant difference ( $\scriptstyle \cdot < 0 . 0 5 )$ ,while with the
+
+same or no letter superscripts mean no significant difference( $P { > } 0 . 0 5$ ）.The same as below.
+
+# 2.2 XOS 对生长肥育猪胴体性状和器官指数的影响
+
+由表3可知，与对照组或抗生素组相比，饲粮添加XOS 对屠宰率、瘦肉率、体脂率、骨骼率、背膘厚和眼肌面积均无显著影响 $( P { > } 0 . 0 5 )$ ，但在数值上 $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段100或 $2 5 0 \ \mathrm { g / t }$ XOS 组和 $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段 ${ 5 0 0 } ~ \mathrm { g / t }$ XOS 组背膘厚低于对照组，且各XOS 组瘦肉率均低于、体脂率均高于对照组。 $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段，饲粮添加 $2 5 0 ~ \mathrm { g / t }$ XOS 可显著提高脾脏指数 $. P { < } 0 . 0 5 )$ ；$3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段，饲粮添加 ${ 5 0 0 } \mathrm { g / t }$ XOS 可显著提高脾脏指数（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）°
+
+Table 3Effects of XOS on carcass trait and organ index in growing-finishing pigs $( n { = } 8 )$ （204号   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td rowspan="2">对照组 Control group</td><td rowspan="2">抗生素组 Antibiotic group</td><td colspan="3">30-65 kg 阶段 XOS 组 30 to 65 kg stage XOS</td><td colspan="3">30~100 kg 阶段 XOS 组 30 to 100 kg stage XOS</td><td>标准 误</td><td>P值 P-value</td></tr><tr><td>100</td><td>group/(g/t) 250</td><td>500</td><td>100</td><td>group/(g/t) 250</td><td>500</td><td>SEM</td><td></td></tr><tr><td>屠宰率Slaughter yield/%</td><td>70.34</td><td>71.02</td><td>68.96</td><td>69.22</td><td>70.12</td><td>70.35</td><td>70.62</td><td>70.50</td><td>0.19</td><td>0.13</td></tr><tr><td>瘦肉率 lean meat percentage/%</td><td>68.65</td><td>67.86</td><td>66.89</td><td>66.98</td><td>64.12</td><td>67.60</td><td>65.79</td><td>67.97</td><td>0.35</td><td>0.22</td></tr><tr><td>体脂率 Total fat/%</td><td>11.40</td><td>11.57</td><td>11.82</td><td>13.16</td><td>16.01</td><td>12.16</td><td>12.83</td><td>11.88</td><td>0.34</td><td>0.28</td></tr><tr><td>骨骼率 Total bone/%</td><td>15.68</td><td>15.00</td><td>16.46</td><td>15.56</td><td>15.82</td><td>14.86</td><td>15.66</td><td>15.14</td><td>0.06</td><td>0.50</td></tr><tr><td>背膘厚Backfat thickness/mm</td><td>16.03</td><td>16.01</td><td>13.27</td><td>14.56</td><td>17.22</td><td>18.12</td><td>16.52</td><td>14.42</td><td>0.69</td><td>0.43</td></tr><tr><td>眼肌面积 Loin-eye area/cm²</td><td>31.75</td><td>32.09</td><td>30.87</td><td>27.84</td><td>27.40</td><td>35.07</td><td>31.52</td><td>28.91</td><td>0.87</td><td>0.41</td></tr><tr><td>肝脏指数 Liver index/(g/kg)</td><td>14.18</td><td>14.36</td><td>14.66</td><td>14.98</td><td>15.03</td><td>14.29</td><td>14.36</td><td>14.65</td><td>0.61</td><td>0.80</td></tr><tr><td>脾脏指数 Spleen index/(g/kg)</td><td>1.55b</td><td>1.43b</td><td>1.67ab</td><td>1.87a</td><td>1.57b</td><td>1.68ab</td><td>1.41b</td><td>1.80a</td><td>0.14</td><td>0.03</td></tr></table></body></html>
+
+2.3XOS对生长肥育猪肉品质和肌肉常规营养成分含量的影响
+
+由表4可知，各组背最长肌的 $\mathrm { p H } _ { 4 5 \mathrm { m i n } \setminus \mathrm { p H } _ { 2 4 \mathrm { h } } }$ 肉色和滴水损失差异均不显著( $. P { > } 0 . 0 5 )$ 。与对照组相比， $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段添加 $2 5 0 \ \mathrm { g / t }$ XOS 可显著增加背最长肌粗蛋白质含量( $_ { , P < 0 . 0 5 ) }$ ，$3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段添加 ${ 5 0 0 } \mathrm { g / t }$ XOS 可显著增加背最长肌粗蛋白质含量（ $\scriptstyle P < 0 . 0 5 .$ )。与对照组和抗生素组相比，各XOS 组背最长肌中肌内脂肪含量无显著变化（ $_ { . P > 0 . 0 5 ) }$ 。
+
+表4XOS 对生长肥育猪肉品质和背最长肌常规营养成分含量的影响(鲜重基础)
+
+表3XOS对生长肥育猪胴体性状和器官指数的影响  
+Table 4Effects of XOS on meat quality and proximate nutrient contents of longissmus dorsi muscle in   
+growing-finishing pigs (fresh weight basis, $\scriptstyle n = 8$ ，   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>抗生素组</td><td colspan="3">30~65kg阶段XOS 组</td><td colspan="3">30~100 kg 阶段XOS 组</td><td>标准</td><td>P值</td></tr><tr><td rowspan="3">Items</td><td rowspan="3">Control</td><td>Antibioti</td><td></td><td colspan="3">30 to 65 kg stage XOS group/(g/t)</td><td colspan="3">30 to 100 kg stage XOS</td><td rowspan="3">P-value</td></tr><tr><td rowspan="2">group</td><td>c group</td><td></td><td></td><td>group/(g/t)</td><td></td><td>SEM</td><td></td></tr><tr><td></td><td>100</td><td>500</td><td>100</td><td>250</td><td>500</td><td></td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>pH45 min</td><td>5.80</td><td>5.84</td><td>5.71</td><td>6.02</td><td>5.64</td><td>5.79</td><td>5.67</td><td>5.73</td><td>0.05</td><td>0.76</td></tr><tr><td>pH24 h</td><td>5.75</td><td>5.62</td><td>5.50</td><td>5.46</td><td>5.61</td><td>5.50</td><td>5.53</td><td>5.50</td><td>0.04</td><td>0.68</td></tr><tr><td>滴水损失 Drip loss/%</td><td>2.23</td><td>2.20</td><td>2.37</td><td>2.35</td><td>2.12</td><td>2.15</td><td>2.06</td><td>2.08</td><td>0.25</td><td>0.99</td></tr><tr><td>红度值a*value</td><td>13.31</td><td>13.16</td><td>12.86</td><td>13.32</td><td>13.48</td><td>12.78</td><td>13.40</td><td>13.69</td><td>0.12</td><td>0.83</td></tr><tr><td>黄度值b*value</td><td>5.51</td><td>5.27</td><td>5.03</td><td>5.55</td><td>5.29</td><td>5.48</td><td>5.31</td><td>5.41</td><td>0.12</td><td>0.81</td></tr><tr><td>亮度值L*value</td><td>53.46</td><td>51.41</td><td>51.56</td><td>52.28</td><td>53.20</td><td>53.26</td><td>52.74</td><td>52.36</td><td>0.63</td><td>0.97</td></tr><tr><td>干物质Dry matter/%</td><td>24.88</td><td>24.92</td><td>25.37</td><td>25.85</td><td>25.40</td><td>26.96</td><td>26.75</td><td>25.84</td><td>0.23</td><td>0.18</td></tr><tr><td>粗蛋白质 Crude protein/%</td><td>20.63c</td><td>21.14bc</td><td>21.76abc</td><td>23.10ab</td><td>20.45c</td><td>22.07abc</td><td>22.33abc</td><td>23.76a</td><td>0.29</td><td>0.04</td></tr><tr><td>肌内脂肪 Intramuscular fat/%</td><td>1.62</td><td>1.55</td><td>1.70</td><td>1.78</td><td>1.89</td><td>2.08</td><td>1.90</td><td>1.78</td><td>0.10</td><td>0.68</td></tr></table></body></html>
+
+3讨论
+
+现有研究表明，XOS可改善动物肠道微生态平衡和肠道结构，促进机体对营养物质的利用，提高采食量，增强机体免疫功能和抗氧化能力，最终促进动物生长、改善肉品质[14]。在本试验中，饲粮添加 XOS 虽对 ADG 和F/G 无显著影响，但与对照组相比， $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段饲粮添加 ${ 5 0 0 } \mathrm { g / t }$ XOS 有提高ADFI的趋势，而 $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段饲粮添加 ${ 5 0 0 } \mathrm { g / t }$ XOS 对 ADFI无显著影响，提示饲粮添加一定剂量的 XOS 可有效提高 $6 5 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段肥育猪的采食量，这与前人研究结果[6.8,15]基本一致。王继成等[14]的研究也表明，饲粮添加XOS 对低生长性能试猪的促生长效果更加明显，而对高生长性能试猪的促生长效果不佳。但也有研究表明，饲粮添加一定剂量的XOS 显著降低了仔猪的F/G，但不影响 ADFI和 $\mathrm { A D G } ^ { [ 1 6 ] }$ 。上述研究结果的差异可能与试猪的饲养条件、屠宰日龄和试验饲粮组成等因素有关。本试验是在炎热的夏季进行且单栏饲养，可能因热应激、饲养后期活动空间不足等因素而影响了试猪的生长性能，其原因尚有待进一步地深入研究。
+
+屠宰率、瘦肉率、脂肪率和背膘厚等指标均可反映猪的胴体性状[17]。本试验中，30\~65kg 阶段添加100 或 250 g/t XOS 降低了背票厚， $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段添加 500g/t XOS 降低了背票厚、增加了屠宰率，且与抗生素组相比无显著差异，提示饲粮添加一定剂量的 XOS 可在一定程度上改善生长肥育猪的胴体性状，其作用效果与抗生素相当。也有研究报道，饲粮添加XOS 可显著提高胴体瘦肉率和骨骼率、降低胴体脂肪率[9]。上述差异可能与试猪品种、饲料营养水平和屠宰日龄等因素有关。
+
+动物内脏器官的重量是衡量动物健康与否的重要指标之一，脾脏和肝脏等器官的重量与其体重存在一定的线性关系[18]。脾脏是机体内最大的免疫器官，脾脏指数升高说明机体的细胞免疫功能增强。本试验中， $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段 $2 5 0 ~ \mathrm { g / t }$ XOS 组脾脏指数显著高于 ${ 5 0 0 } \mathrm { g / t }$ XOS组，说明前者改善机体免疫功能的作用效果相对较好； $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段 ${ 5 0 0 } ~ \mathrm { g / t }$ XOS 组脾脏指数显著高于 $3 0 { \sim } 6 5 ~ \mathrm { k g }$ 阶段 ${ 5 0 0 } ~ \mathrm { g / t }$ XOS 组，提示饲粮添加一定剂量的XOS 可有效改善$6 5 { \sim } 1 0 0 \mathrm { k g }$ 阶段肥育猪的免疫功能;与对照组和抗生素组相比， $3 0 { \sim } 6 5 \mathrm { k g }$ 阶段饲粮添加 $2 5 0 \mathrm { g / t }$ XOS或 $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段添加 500 g/t XOS 显著提高了脾脏指数，提示饲粮添加XOS 对机体免疫功能的调节作用稍优于抗生素，这与前人研究结果[19基本一致。这可能与XOS 能够增强机体免疫力有关[20]。
+
+评价肉质优劣的指标主要包括肉色、pH和滴水损失等。肌肉pH及滴水损失与肉色、嫩度、持水力和肉品货架期等有直接的关系[21]。本试验中，与对照组相比， $3 0 { \sim } 6 5 \mathrm { k g } |$ 阶段添加500 g/t XOS和 $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段添加250或500g/tXOS均降低了背最长肌黄度值、亮度值和滴水损失，增加了红度值，提示饲粮添加一定量的XOS可在一定程度上改善生长肥育猪的肉品质。这与王怀蓬等[9研究结果基本一致。肌肉化学成分是影响肉质的主要因素。肌肉水分含量及其系水力直接影响肉品质，肌肉含水量越低则其中干物质和蛋白质含量就越高，其营养价值也就越高[22]。本试验中， $3 0 { \sim } 6 5 ~ \mathrm { k g }$ 阶段250g/tXOS组背最长肌中粗蛋白质含量显著高于500g/t XOS组，说明前者改善猪肉营养价值的作用效果相对较好； $3 0 { \sim } 1 0 0 \mathrm { k g } |$ 阶段500g/t XOS组背最长肌中粗蛋白质含量显著高于30\~65kg阶段500 g/t XOS组，提示饲粮添加一定剂量的XOS可有效改善 $6 5 { \sim } 1 0 0 \mathrm { k g }$ 阶段猪肉的营养价值；与对照组和抗生素组相比， $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段在饲粮中添加 $5 0 0 ~ \mathrm { g / t }$ XOS提高了背最长肌中干物质和粗蛋白质含量，提示饲粮添加一定量XOS对猪肉的营养价值的改善作用稍优于抗生素，且以 $3 0 { \sim } 1 0 0 ~ \mathrm { k g }$ 阶段添加500g/tXOS为最佳。
+
+4结论
+
+饲粮添加 XOS 虽对生长肥育猪的 ADFI、ADG、F/G、胴体性状和肉品质等指标无显著影响，但可提高免疫器官指数，还可通过增加肌肉粗蛋白质含量而提高猪肉的营养价值，且以 $3 0 { \sim } 1 0 0 \mathrm { k g }$ 阶段添加 500 g/tXOS 效果较佳。
+
+参考文献：
+
+[1]庞丽姣,吴志新,熊娟,等.低聚木糖对草鱼非特异性免疫功能的影响[J].动物营养学报,2010,22(6):1687-1693.
+
+[2]印遇龙,孔祥峰,李铁军.新世纪我国畜禽养殖业面临的主要问题及应对措施[J].饲料工业,2007,28(14):1-5.
+
+[3] COURTIN C M,SWENNEN K,VERJANS P,et al.Heat and pH stability of prebiotic arabinoxylo-oligosaccharides,xylooligosaccharides and fructooligosaccharides[J].Food Chemistry,2009,112(4):831-837.
+
+[4] 聂昌林,宋春阳.低聚木糖在猪生产中的应用[J].中国饲料,2012(16):34-35.  
+[5]PATELS,GOYALA.Functionaloligosaccharides:production,propertiesandapplications[J].World Journal of Microbiology and Biotechnology,2011,27(5):1119-1128.  
+[6] 扶国才,罗有文,周岩民.低聚木糖对生长猪生产性能和抗氧化功能的影响[J].江苏农业科学,2009(1):221-222,285.  
+[7] 张秀江,王秋菊,向凌云,等.低聚木糖对仔猪和生长肥育猪生产性能的影响研究[J].河南科学,2010,28(9):1108-1111.  
+[8] 许梓荣,胡彩虹.寡果糖对肥育猪生长性能、肠道菌群和免疫功能的影响[J].中国兽医学报,2003,23(1):69-71.  
+[9]王怀蓬,袁楷,乌日娜,等.低聚木糖(XOS)饲料添加剂对猪生产性能的影响[J].国外畜牧学:猪与禽,2008,28(3):78-79.  
+[10]柏美娟,孔祥峰,徐海军,等.瘦肉型和脂肪型肥育猪胴体性状和肉质的比较研究[J].中国畜牧兽医,2009,36(6):178-181.  
+[11] 周笑犁,孔祥峰,范觉鑫,等.味精与高脂日粮对生长猪胴体性状与组成的影响[J].食品工业科技,2014,35(5):330-333,337.  
+[12] 刘志强,谭碧娥,汤文杰,等.日粮不同蛋白质水平对三元肥育猪生产性能和胴体品质的影响[J].动物营养学报,2008,20(6):611-616.  
+[13] LIU Y Y,LI F N,KONG X F,et al.Signaling pathways related to protein synthesis and aminoacid concentration in pig skeletal muscles depend on the dietary protein level,genotype anddevelopmental stages[J].PLoS One,2015,10(9):e0138277.  
+[14]王继成,潘灵辉,李淑云,等.低聚木糖对断奶仔猪生产性能、肠道菌群及免疫水平影响的研究[J].中国畜牧兽医,2006,33(5):3-7.  
+[15] 谭兵兵,姬玉娇,丁浩,等.低聚木糖对断奶仔猪生长性能、腹泻率和血浆生化参数的影响[J].动物营养学报,2016,28(8):2556-2563.
+
+[16] 杨海英,杨在宾,杨维仁,等.益生素和低聚木糖对断奶仔猪生产性能和肠道形态学影响研究[J].中国粮油学报,2008,23(1):116-120.
+
+[17] 侯改凤,李瑞,刘明,等.德氏乳杆菌对育肥猪胴体性状及肉品质的影响[J].动物营养学报,2016,28(6):1814-1822.
+
+[18] 闵凡贵,潘金春,王希龙,等.影响五指山小型猪主要脏器重量及脏器系数的因素分析[J].中国畜牧兽医,2012,39(10):218-222.
+
+[19] 郭雪峰,边连全,付亮亮.低聚木糖和酸化剂对断奶仔猪生产性能的影响[J].中国饲 料,2006(17):20-21.
+
+[20] 李君华,刘佳亮,曹学彬,等.饲料中添加低聚木糖对仿刺参幼参生长性能、肠道消化酶活力和免疫力的影响[J].动物营养学报,2016,28(8):2534-2541.
+
+[21] 张帆,纪守坤,张乃锋,等.磷酸脲添加量对羔羊生长性能、屠宰性能和肉品质的影响[J].动物营养学报,2016,28(4):1233-1240.
+
+[22] 潘珂,孙汉,高智慧.蜂花粉多糖对肉鸡生长性能及肌肉化学成分的影响[J].饲料工业,2006,27(12):39-41.
+
+Effects of Dietary Supplementation of Xylo-Oligosaccharide on Growth Performance, Carcass Traits and Meat Quality in Growing-Finishing Pigs
+
+PAN JielHAN Li²ZHANG Ting²XIE Peifeng1,2 DING Hao1,3KONG Xiangfeng1,2\* HUANG Xingguo1\*
+
+(1. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. Key Laboratory of Agro-Ecological Processes in Subtropical Region, Institute of   
+Subtropical Agriculture, Chinese Academy of Sciences, Changsha 410125, China; 3. Shandong Longli Biotechnology Co., Ltd., Yucheng 251200, China)
+
+Abstract: The present study was conducted to investigate the effects of dietary supplementation of xylo-oligosaccharide (XOS） on growth performance， carcass traits and meat quality of growing-finishing pigs. A total of 80 Duroc $\times$ Large WhitexLandrace pigs with $3 0 ~ \mathrm { k g }$ of average body weight (BW） were randomly assigned to one of eight groups with 10 pigs per group (male:female 1:1)，and fed individually. The experimental groups included control group, antibiotic group, supplementation groups with 100, 250, or ${ 5 0 0 } \mathrm { g / t }$ XOS group during 30 to $6 5 ~ \mathrm { k g }$ BW,and supplementation groups with 10o, 250, or ${ 5 0 0 } ~ \mathrm { g / t }$ XOS group during 30 to $1 0 0 ~ \mathrm { k g }$ BW. At the beginning and the end of the experiment, the empty BW and feed intake were recorded for calculating the average daily feed intake (ADFI), average daily gain (ADG), and feed/gain ratio (F/G). The pigs were slaughtered and sampled when received $1 0 0 ~ \mathrm { k g }$ of average BW, and the carcass traits, meat quality and muscle chemical composition were measured. The results showed as follows: compared with control or antibiotics groups, dietary supplementation with different doses of XOS did not affect the ADFI， ADG,F/G, carcass traits and meat quality $( P { > } 0 . 0 5 )$ ， during the stage of 30 to $6 5 ~ \mathrm { k g }$ BW, dietary supplementation with $2 5 0 ~ \mathrm { g / t }$ XOS significantly increased the crude protein content of longissimus dorsi muscle,as well as the indexes of spleen $( P { < } 0 . 0 5 )$ ; during the stage of 30 to $1 0 0 ~ \mathrm { k g }$ BW, dietary supplementation with ${ 5 0 0 } ~ \mathrm { g / t }$ XOS the crude protein content of longissimus dorsi muscle,as well as the indexes of spleen $( P { < } 0 . 0 5 )$ Collectively, these findings suggest that dietary supplementation of different doses of XOS does not significantly alter the ADFI, ADG,F/G, carcass traits and meat quality of growing-finishing pigs, but improved the pork nutritional value via increasing the muscular contents of crude protein; the optimal supplementation way is ${ 5 0 0 } \mathrm { g / t }$ XOS at 30 to $1 0 0 \mathrm { k g }$ BW.
+
+Key words: xylo-oligosaccharide; growing-finishing pigs; growth performance; carcass traits; meat quality

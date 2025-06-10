@@ -1,0 +1,321 @@
+[
+    {
+        "type": "text",
+        "text": "注意和记忆对孤独症儿童词汇发展滞后的影响\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "侯文文' 苏怡' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中南大学外国语学院，儿童语言实验室，长沙，410083）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 孤独症语言障碍的表现之一是词汇发展滞后，可能与其注意和记忆损伤有关。当前研究结果表明，孤独症儿童在学习词汇时难以利用社会注意提供的有效信息，且其注意易受到无关刺激干扰，这可能导致其形成的物体-词汇的联结不稳定，影响其进一步将这种联结整合到心理词典并保存在记忆中。未来研究应探究联合注意影响孤独症儿童词汇学习的发展轨迹和机制，儿童的词汇知识对其词汇记忆的影响，并关注自然场景中孤独症儿童的词汇学习过程和个体差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词词汇发展，词汇学习，注意，记忆，孤独症分类号B844",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孤独症谱系障碍(Autism Spectrum Disorder,ASD)是一组发展性神经发育障碍，核心特征为社交困难和沟通障碍、重复刻板行为和兴趣狭窄(American Psychiatric Association,2013)。虽然语言障碍没有被纳入孤独症的最新诊断标准中，但是接收性语言和表达性语言的发展迟滞和异常在孤独症群体身上非常普遍(Kover& Ellis Weismer,2014; Reinhartsen et al.,2019),而且语言障碍会极大影响孤独症群体的生活和发展质量(Bruyneelet al.,2019)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "词汇习得是儿童语言发展的重要方面。许多研究发现，学龄前孤独症儿童的词汇发展滞后于正常儿童(Ellis Weismer et al.,2010;Luyster et al.,2007),甚至有 $30 \\%$ 的极低口语（minimallyverbal)孤独症人群终生未能产生语言或者只能说出很少的词汇或短语(Bal et al.,2016)。Grandgeorge 等人(2009)调查了162个孤独症儿童的早期语言发展状况，发现有 87个（ $5 3 . 7 \\%$ ）孤独症儿童在24个月以后才产出第一个词，114个（ $70 . 3 \\%$ ）孤独症儿童在33个月之后才说出第一个短语。Charman 等人(2003)用《MacArthur-Bates 语言沟通发展量表》",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（MacArthur-Bates Communicative Development Inventory (Infant Form)）测量了134 个年龄跨度从1岁6个月到7岁4个月的孤独症儿童的语言发展，结果显示孤独症儿童无论是词汇理解还是词汇表达水平都比正常儿童滞后。在词汇理解方面，孤独症儿童要到2岁以后才能理解100个以上的词语，而 $50 \\%$ 的正常儿童在1岁4个月时就能理解100 个以上的词语。在词汇产出方面，孤独症儿童在2\\~3岁才能说出30个以上词语，而 $50 \\%$ 的正常儿童在1岁4个月时就能说出30个以上的词语。Su等人(2018)用《汉语儿童沟通发展量表》测量了160个 17\\~83个月的汉语孤独症儿童的词汇发展情况，发现汉语孤独症儿童的词汇量水平比正常儿童滞后30个月左右，而且 $5 9 . 3 8 \\%$ 的汉语孤独症儿童只能说出很少的词汇。这些研究表明大多数孤独症儿童都存在词汇发展滞后的问题，而词汇发展滞后会极大影响孤独症儿童整体的语言发展水平以及其他认知能力的发展。因此，探究孤独症儿童的词汇学习及相关机制，不仅有助于我们理解语言习得的深层机制，而且对开展孤独症儿童早期语言的精准干预有重要价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前我们对孤独症儿童词汇发展滞后的发生机制所知甚少。虽然有些研究发现，孤独症儿童能够利用互斥性原则(Mathee-Scott et al.,2021)、跨情境统计学习(Hartley et al.,2020)等认知约束原则在物体和词汇之间建立联结，但是实际上孤独症儿童的词汇发展仍然滞后。这说明孤独症儿童的认知约束原则可能是完好的，而与词汇学习有关的更一般的认知系统存在缺陷(Arunachalam&Luyster,2018; Venker etal.,2018)。词汇学习是一个复杂的过程，儿童不仅需要在其看到的物体和听到的词汇标签之间建立联结（快速映射)，同时也需要巩固这种联结并将其存储在长时记忆中(Spiegel& Halberda,2011)。注意在词汇学习的快速映射阶段起着重要作用。注意能降低环境中指示物的不确定性，帮助儿童在词汇标签和指示物之间建立联结(Fitch et al.,2020;Venker et al.,2018)。儿童形成物体和词汇的联结后需要将其存储在记忆中以便日后提取。情景记忆和语义记忆共同参与新词的习得和巩固(Davis&Gaskell,2009;Takashimaetal.,2017)。显然，词汇学习离不开注意和记忆两种认知机制的参与。然而，孤独症儿童的注意模式和记忆都在一定程度上存在异常(Bhat et al.,2010; Boucher et al.,2012;Johnels et al.,2014; Jones & Klin,2013; Nystrom et al.,2019)。孤独症儿童在语言出现之前就表现出了较少注意社会性刺激的行为(Chawarska et al.,2013;Jones&Klin,2013)和联合注意缺陷(Nystrom etal.,2019)，这会导致他们错过大量词汇学习的机会。情景记忆和语义记忆缺陷也会影响孤独症儿童的词汇巩固(Boucher etal.,2012)。因此，本文将从注意和记忆两个方面梳理近些年来孤独症儿童词汇学习的文献，分析孤独症儿童的注意和记忆认知机制对其词汇学习的影响，并对未来孤独症儿童词汇学习研究进行展望。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.孤独症儿童的注意与词汇学习",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1社会注意对孤独症儿童词汇学习的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "社会交流互动是语言习得的重要背景和环境，社会环境中包含着丰富的社会信息和语言学习机会(Tenenbaumetal.,2014)。他人的面孔，特别是眼睛和嘴巴为儿童的词汇学习提供了重要线索(Gangopadhyay&Kaushanskaya,2020; Tsang et al.,2018)。然而，高风险孤独症儿童在6个月时就表现出了较少注意社会场景的行为(Chawarska etal.,2013)，他们对眼睛的注意也在 2\\~6个月之间逐渐下降(Jones&Klin,2013)。此外，高风险孤独症儿童在10个月时就出现了联合注意缺陷(Nystrom etal.,2019)。异常的社会注意会导致孤独症儿童错过大量词汇学习的机会，从而阻碍其词汇和语言发展(Haebig et al.,2021; Jimenez et al.,2021)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "儿童对面孔的选择性注意会随其词汇发展阶段发生动态变化。具体而言，儿童在词汇学习初期对讲话者嘴巴的关注对其词汇产出具有促进作用。研究表明，正常婴儿在8\\~10 个月时比起眼睛会更关注说话人的嘴巴，12个月时他们对说话人嘴巴的注意减少(Lewkowicz&Hansen-Tift,2012)，在14\\~18 个月时会再次关注说话人的嘴巴(Hillairet de Boisferon et al.,2018)。这是因为8\\~10个月时婴儿开始咿呀学语，关注他人的嘴巴可以为婴儿提供视听同步信息(audiovisualcues)，帮助其习得本族语的语音表征和发音动作(Hillairet de Boisferon et al,2018;Lewkowicz＆Hansen-Tift,2012)，12个月时，婴儿已经熟悉本族语的语音表征，所以他们会减少对讲话人嘴巴的注意。但是从14个月开始，婴儿的词汇学习速度开始加快，此时他们会再次关注说话人的嘴巴，利用视听同步线索学习词汇(Hillairet de Boisferon et al.,2018;Lewkowicz&Hansen-Tift,2012)。有研究表明，孤独症儿童对讲话人嘴巴的注意增加能够预测其表达性语言能力的发展(Campbell etal.,2014; Young et al.,2009)。Habaye 等人(2021)探究了10\\~25 个月的正常儿童和孤独症儿童在观看他人说话时的注意模式与其表达性语言能力之间的关系，结果发现，虽然正常儿童和孤独症儿童相较于讲话者的眼睛都更关注其嘴巴，但是对于正常儿童和那些口语能力较好的孤独症儿童来说，对讲话者嘴巴的注意与其表达性语言能力呈正相关，而对于那些词汇发展滞后的低口语孤独症儿童而言，对讲话者嘴巴的注意与其表达性语言能力无关。Tenenbaum 等人(2017)也发现，当说话人把要命名的目标物体放在嘴巴附近时，能显著增加那些已经能够产出词汇的孤独症儿童对目标物体和讲话者嘴巴的注意，从而帮助其学习新词汇。Habayeb 等人(2021)认为那些语言发展滞后的低口语孤独症儿童即使也更关注说话人的嘴巴，但是他们习得词汇的机制可能与正常儿童以及高口语孤独症儿童不同，正常儿童和高口语孤独症儿童通过说话人视听同步过程中产生的冗余信息习得词汇，而那些语言发展滞后的低口语孤独症儿童可能只是关注视觉和听觉刺激的物理性层面，忽视了这些刺激同步的社会适应价值。未来的研究也需要进一步关注孤独症儿童在词汇学习中的个体差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当儿童从2岁左右开始说出短语和更复杂的句子时，他们会减少对说话人嘴巴的注意，从而更关注说话人的眼睛(Habayeb etal.,2021)。说话人在说话的过程中眼睛可能会转向相对应的物体，从而引导儿童把注意转向目标物体并将其与听到的词汇联系起来。这个过程被称为联合注意，即两个个体对某个物体或事件分享注意的行为(Bruner,1974)。联合注意是儿童早期词汇学习和语言发展的重要基础(Adamson et al.,2017; Tomasello& Farrar,1986)。但是目前关于孤独症儿童能否利用联合注意学习词汇还没有一致的研究结果。有些研究发现孤独症儿童也能利用他人视线转移提供的线索学习词汇(Bean Ellawadi&McGregor,2016;Field etal.,2019;McGregoret al.,2013)，这些研究发现孤独症儿童也能追随他人的视线把注意转向目标物体，从而把词汇和目标物体对应起来。但是另外一些研究发现即使孤独症儿童的视线追随能力完好，但是如果缺乏对目标物的持续性注意，他们依然难以成功习得词汇(Akechietal.,2011;Gliga etal.,2012)。比如，Gliga 等人 (2012)发现，社交技能较差的3岁孤独症儿童虽然能够追随他人的视线，但是他们却无法把词语与物体对应起来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了视线转移以外，联合注意的过程常常伴随“指”，因而“指”也被看作是一种非言语的联合注意(Paparellaet al.,2011)。Field 等人(2019)考察了平均年龄为9 岁的孤独症儿童能否利用视线转移和“指”等社会线索学习词汇。实验任务一共有四种线索：视线转移（eyegaze）、有意的指（referentialpointing）、无意的指（incidental pointing）以及视线转移和有意的指结合。Field 等人发现，孤独症儿童能够利用这四种线索把词汇和物体映射起来。值得注意的是，孤独症儿童利用视线转移线索学习词汇的能力与其年龄呈正相关。Field 等人认为这可能是因为随着年龄增长，孤独症儿童在干预过程中联合注意能力得到改善，从而提高了词汇学习表现。此外，Field 等人还发现，无论是正常儿童还是孤独症儿童即使在“无意的指”条件下，也能把词汇和物体成功映射起来。这可能是因为在Field等人的研究中，“无意的指”是演示者手指向物体，但是其目光转向相反的位置，即使眼睛的线索和手指提供的线索冲突，但是儿童还是把“指”的动作视为有意图的线索，从而完成词汇映射。由于Field等人的研究中选取的孤独症儿童年龄较大，平均年龄为9岁，以及对“无意的指”的操纵无法验证孤独症儿童是否能够区分指示性意图和非指示性意图，Maes等人(2021）进一步在词汇学习范式中探究了3\\~5岁的孤独症儿童对“有意的指”和“无意的指”的反应，发现正常儿童只有在“有意的指”的条件下，能快速将物体和词汇映射起来，而孤独症儿童在两种条件下都较少把注意转向“指”的位置。这说明，孤独症儿童难以区分“有意的指”和“无意的指”，无法理解“有意的指”传递出的指示性意图。这些结果说明，虽然视线追随和“指”等社交线索在词汇学习中起重要作用，但不是词汇学习的决定因素，孤独症儿童对目标物体的持续性注意和加工程度是词汇学习的关键。这也反映出眼睛等社会指示性线索不是作为一般的方位线索参与儿童的词汇学习，而是传达了联合注意发起者的指示性意图。儿童必须理解了眼睛中包含的意图信息，增加对目标物体的注意才能习得新的词汇(Cetincelik etal.,2021;Yu et al.,2019)。在那些发现孤独症儿童可以利用眼睛线索进行快速映射的研究中，孤独症儿童有可能是把眼睛线索视为一种方位线索，然后通过联想学习把新的物体和词汇标签匹配起来(Bean Ellawadi & McGregor, 2016; McGregor et al., 2013)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，词汇学习是一个需要视听整合的过程，这不仅需要儿童能够回应他人的联合注意，而且需要他们在恰当的时机把注意转向听到的物体上(Venker et al.,2018)。虽然孤独症儿童具备追随他人视线的能力，但是如果孤独症儿童不能在恰当的时间追随他人的视线，他们也难以建立正确的物体-词汇联结。Liu等人(2021)探究了孤独症儿童回应他人联合注意时的时间同步性，他们发现，孤独症儿童在回应他人联合注意时的同步性低于正常儿童，且需要的时间更长。这可能会导致在词汇学习时，孤独症儿童无法在恰当的时机把注意转向新词所对应的物体，从而导致他们无法建立正确的词汇-物体联结。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述研究表明，孤独症儿童虽然能像正常儿童一样在词汇学习阶段对说话人的面孔进行选择性注意，在词汇学习的早期阶段孤独症儿童会增加对讲话人嘴巴的注意，也能追随他人的视线，但是他们难以利用视听同步提供的冗余信息以及对联合注意的目标物体进行持续性注意，也无法在恰当的时机把注意转向听到的目标物体上，这些都会妨碍孤独症儿童建立词汇和物体联结。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2领域一般性视觉注意对孤独症儿童词汇学习的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了社会注意以外，孤独症儿童的领域一般性注意也会影响其词汇学习。孤独症儿童的视觉注意受物体显著性的影响，与正常儿童相比，孤独症儿童更偏好几何图形和新颖的，颜色鲜艳的物体(Bacon et al.,2020; Wang et al.,2015)。此外，孤独症儿童的注意很难从物体上脱离，表现为注意脱离困难(Baranek et al.,2018;Kleberg et al.,2017)。这些异常的注意模式会从不同层面妨碍孤独症儿童的词汇学习和语言发展(Arunachalam&Luyster,2018;Venkeret al., 2018)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "孤独症儿童对色彩鲜艳物体的偏好会影响其词汇识别和学习。在一项词汇识别任务中，Venker 等人(2021)发现，与词汇无关的干扰图片的显著性越高，2\\~3岁的孤独症儿童对词汇目标图片的注意显著下降。这说明孤独症儿童对重要词汇信息的关注易受到显著性高的无关刺激干扰。Carter 和 Hartley(2021)的研究发现，与黑白图片相比，用彩色的图片作为词汇学习材料，孤独症儿童对新词汇的学习准确性和保持时间更长。值得注意的是，当学习材料为彩色图片时，孤独症儿童回忆新词的准确率甚至比正常儿童更高(Carter& Hartley,2021)。Carter 和 Hartley(2021)认为，孤独症儿童在彩色图片条件下的词汇学习任务中对新词的记忆更好是因为彩色图片比黑白图片更形象，孤独症儿童在物体特征的视觉加工方面比正常儿童更有优势，这种视觉加工优势使孤独症儿童建立起的词汇-物体联结更强，从而记忆越好(Carter&Hartley,2021)，但是也有可能是因为彩色图片比黑白图片的视觉显著性更强，更能吸引孤独症儿童的注意，因而孤独症儿童在彩色图片条件下的词汇记忆更好。未来需要进一步验证物体显著性和视觉加工对孤独症儿童词汇学习的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，孤独症儿童对物体颜色、新颖性等特征的关注也会影响其词汇拓展和类别学习。形状偏好是儿童扩大词汇量和类别学习的重要策略。形状偏好是指把新的词汇标签和指示物的形状而非其颜色和质地进行匹配的倾向(Landau et al.,1988)。正常儿童在两岁左右就表现出了对物体形状的偏好，但是许多研究发现孤独症儿童没有形状偏好倾向(Abdelaziz et al.,2018;Tecoulesco etal.,2021)。有研究者发现，孤独症儿童的形状偏好缺失可能与其过度关注物体的颜色和新颖性等更显著的特征有关(Tovar etal.,2020)。Tovar 等(2020)认为以往关于孤独症儿童形状偏好的研究采用的都是新颖的物体，忽视了这些新颖物体的共同特性，即新颖性对孤独症儿童任务表现的影响。Tovar 等(2020)的研究发现，8岁左右的孤独症儿童在物体分类任务中，没有表现出形状偏好，而且与正常儿童相比，孤独症儿童更可能把物体的颜色和新颖性与新的词汇联系起来。这些结果反映出孤独症儿童对于物体重要属性的注意缺陷和对物体新颖性的过度关注可能共同导致了孤独症儿童的形状偏好异常。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "孤独症儿童对物体的注意脱离困难也会对其词汇学习产生不利影响。儿童所处的语言环境充满了声音信号和视觉信息，要想成功学习语言，儿童必须在恰当的时间把注意转到对应的人、物体或事件上(Venker,2017)。这需要儿童能够在不同的物体和事件中灵活转移注意力，而注意脱离困难可能会导致儿童的视听信息失衡，对儿童的词汇学习和语言发展产生不利影响。Venker(2017)发现存在注意脱离困难的4\\~7岁孤独症儿童在加工熟悉的词汇时速度更慢，准确率更低。而词汇加工速度缓慢会影响儿童之后的语言发展水平(Marchman et al.,2016)。最近的一项研究也发现，婴儿在4个月时的注意脱离能力能够预测其在7月时的声音信号区分能力(Russo etal.,2021)。婴儿在4个月时的注意脱离能力越好，其在7个月时就能更容易区分声音信号。这些结果说明，儿童对空间中不同物体和事件的注意同时调节着其在时间上对不同声音信号的注意，儿童的词汇学习和语言加工离不开视觉信息和听觉信息在时间和空间上的协调(Russo et al.,2021)。孤独症儿童的注意脱离困难可能会加剧其词汇学习困难，甚至会影响其之后的语言理解和加工。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上所述，孤独症儿童可能把社会注意线索当作一般性的注意线索帮助其降低指示物的模糊性，从而进行快速映射。领域一般性注意异常不仅会导致孤独症儿童无法在恰当的时机将物体和新的词汇标签匹配起来，而且也会导致孤独症儿童把注意转向无关物体，从而使其建立起来的词汇-物体联结不够稳定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3．孤独症儿童的词汇巩固和记忆 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "词汇学习是一个长时程的任务。对新习得词汇的保持和记忆是词汇学习的重要环节。仅有快速映射对儿童的词汇学习是不够的，儿童必须把新词保存在记忆里，并整合到心理词典中以便日后提取。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关于孤独症儿童的词汇保持和记忆是否完好，目前的研究结果存在一定争议。这可能与不同研究中所采用的回忆间隔时长不同有关。那些发现孤独症儿童学习新词后能将其保持在记忆中的研究所采用的范式都是即时保持（immediate retention)，也就是在词汇学习5分钟后,再次测验儿童是否能把词汇标签和目标物体对应起来(Gliga etal.,2021;Hartley etal.,2019,2020; Venker,2019)。比如，Hartley等（2020）探究了平均年龄为8.7岁的认知能力不同的孤独症儿童的跨情境词汇学习能力，发现5分钟后，孤独症儿童也依然能够把新的词汇标签和目标物体对应起来。从这些词汇的即时回忆任务来看，孤独症儿童保持新词的能力似乎完好。然而，那些要求儿童在更长时间后回忆新词的研究则发现，与正常儿童相比，孤独症儿童对新词的记忆更差。比如，Norbury 等人(2010)发现，在学习新词后的即时回忆任务中，8岁左右的孤独症儿童回忆新词的能力甚至好于年龄匹配的正常儿童，但是在4个星期后再次回忆时，正常儿童在关于新词汇的语义和语音测试中都表现出了对词汇的记忆，但是孤独症儿童的表现较差。这表明，正常儿童在学习词汇后需要一定的时间把新的词汇整合到心理词典中，孤独症儿童虽然在即时回忆任务上表现良好，但是他们在长期的过程中并没有把新词汇与既有词汇整合在一起。孤独症儿童在词汇即时保持任务中的良好表现可能只是其语音加工优势的产物(Hudac et al.,2018;Kujala et al.,2007)。孤独症儿童对语音的高度敏感性可能有利于其当下对新习得词汇的语音保持，但是把新习得的词汇整合到心理词典中则需要更多认知成分的参与。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在把新的词汇整合到心理词典的过程中，情景记忆和语义记忆共同参与新词的巩固和记忆(Takashima et al.,2017)。根据词汇学习的双记忆系统模型，词汇巩固的第一阶段是快速的词汇熟悉阶段，在这一阶段中，新的词汇作为一段新的个人经历被单独表征在内侧颞叶和海马区。词汇巩固的第二阶段是缓慢的词汇巩固阶段，个体把对词汇的表征从情景记忆中剥离出来，在新皮层上形成更为系统稳定的词汇表征，然后整合到语义记忆中(Davis&Gaskell,2009;Takashima etal.,2017)。睡眠在把情景记忆中关于个体词汇学习经历的情景表征转变为新皮层上的词汇表征方面起着不可或缺的作用。有研究表明，小睡一会儿能够加强儿童对新习得词汇的记忆(Axelsson et al.,2016; He et al.,2020)。而睡眠问题可能导致孤独症儿童的词汇记忆困难(Botting& Baraka,2017)。Fletcher 等人(2020）用多导睡眠监测仪考察了8\\~12 岁的孤独症儿童在睡眠前后词汇巩固和记忆的变化。Fletcher 等人(2020)先让孤独症儿童学习9个罕见的动物名称，然后在儿童入睡前，睡醒后第二天以及一个月后通过定义、命名、快速语义决定任务检测儿童对新词汇的记忆。结果发现，在词汇学习当天和第二天，孤独症儿童在所有词汇任务上的表现与正常儿童没有显著差异，但是在一个月后，孤独症儿童对新习得动物名称的遗忘程度显著高于正常儿童。此外，Fletcher 等人还发现，孤独症儿童在非快速眼动睡眠期间的西格玛能量（sigma power)和睡眠纺锤波活动水平更低。睡眠纺锤波（sleepspindle）可以预测正常儿童对于新习得动物名称的记忆，但无法预测其对熟悉动物名称的记忆，表明睡眠对巩固新的语义知识具有特异性作用。但是对于孤独症儿童而言，睡眠纺锤波不仅巩固了其对新动物词汇的记忆，也巩固了其对熟悉动物词汇的记忆。这些差异说明，睡眠纺锤波在巩固正常儿童新习得的语义知识方面存在特异性，但是对于孤独症儿童，睡眠纺锤波对语义知识的巩固是一般性的，他们在睡眠中不仅巩固了新知识，也巩固了旧知识(Fletcher et al.,2020)。因而孤独症儿童在词汇学习的当下可能表现出对新词汇的记忆，但是新词汇由于得不到充分整合，所以一段时间过后，孤独症儿童对新词汇的遗忘速率会更快。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "此外，词汇整合的重要标志是词汇竞争效应的出现。在词汇整合过程中，儿童和成人会出现语音相近的词汇相互竞争的情况(Weighall et al.,2017)。Henderson 等人(2014)探究了",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8\\~13 岁的孤独症儿童把新词汇整合到已有词汇知识中的时间进程，发现，正常儿童在词汇学习后的当天没有出现词汇竞争效应，而是在第二天出现了词汇竞争效应，这和以往大多数研究的结果一致，即词汇竞争效应会发生在睡眠之后(Gaskell&Dumay,2003;Walker et al,2019)，也与词汇学习的双记忆系统模型一致。根据双记忆系统模型，为了避免新信息对已有信息的干扰，新信息需要以一种缓慢的方式被整合到已有的知识中(Davis&Gaskell,2009)。然而，孤独症儿童在词汇学习的当天就出现了词汇竞争效应，但是第二天词汇竞争效应却减弱了。在词汇的回忆方面，孤独症儿童和正常儿童在词汇学习的当天和第二天都表现出了对新词汇的准确回忆(Henderson etal.,2014)。这表明，孤独症儿童在对新词汇的外显记忆方面可能完好，但是在词汇整合方面存在缺陷。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总体来看，孤独症儿童的词汇巩固和记忆方面存在一定缺陷。但是目前还不清楚孤独症儿童在词汇巩固和记忆方面的困难是睡眠相关的问题，还是其在词汇巩固阶段之前存在的问题。比如，有研究发现个体在词汇巩固之前形成的物体-词汇之间的联结较弱时，睡眠便无法起到巩固和整合新词汇的作用(Walker et al.,2019)。Vlach 和 DeBrock(2019）也发现学龄前的正常儿童仅仅利用跨情境统计学习（识别词汇标签和物体出现频率的统计学规律）进行词汇物体映射，很难把形成的词汇-物体联结保存在长时记忆中。Vlach 和 DeBrock (2019)认为这可能是因为通过物体与某一词汇反复共同出现的频率建立起的词汇-物体联结不够稳定，这些新异物体的显著性不够高，没有联合注意等社会指示性线索的支持，儿童会很快遗忘新词。因此，除了睡眠问题以外，也有可能是由于孤独症儿童注意容易受到显著性较高的无关刺激的干扰，且难以利用社会注意中的指示性意图强化物体和新词汇之间的联结，因而在快速映射阶段形成的物体和新词汇之间的联结不够稳定，无法通过睡眠巩固和整合新词汇。未来的研究需要进一步验证这个假设。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4．小结和展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从目前的研究来看，孤独症儿童词汇发展滞后可能源于更一般性的注意和记忆功能损伤。孤独症儿童更容易注意那些显著性更高但是与词汇学习无关的物体，并且在睡眠中更多巩固熟悉的词汇，这些都会妨碍其词汇学习和语言发展。这些结果说明，孤独症儿童词汇发展滞后可能不只是时间上的问题，而是他们在词汇学习的过程中与正常儿童存在质的差异。注意和记忆虽然作为领域一般性的认知机制参与正常儿童的词汇学习，但同时也有特异性的一面。正常儿童通过识别社会注意中的指示性意图，强化了物体和词汇标签之间的联结(Cetincelik et al.,2021)，其在随后的睡眠过程中，睡眠纺锤波进一步巩固新习得的词汇，在新皮层上形成更系统和稳定的词汇表征，并将其整合到已有的词汇知识中(Axelsson et al,2016)。孤独症儿童可能只把社会注意线索视为一般的方位线索，帮助其降低指示物的不确定性，但是由于他们的注意很容易受到显著性较高的无关刺激物的干扰(Venker etal.,2021)，从而导致孤独症儿童形成的物体和词汇标签之间的联结不够稳定。此外，他们在睡眠中得不到睡眠纺锤波对新知识的特异性巩固，难以在新皮层上形成稳定系统的词汇表征(Fletcher etal.,2020)，因而孤独症儿童相较于正常儿童在长时间之后更容易遗忘新词汇。词汇学习是一个从词汇-物体联结到词汇巩固和记忆的连续体，但目前关于孤独症儿童词汇学习的研究大多都只侧重考察其利用各种认知策略进行快速映射的能力，鲜有研究同时探究孤独症儿童的注意和记忆对其词汇学习的影响，以及词汇学习中注意和记忆之间的关系。我们期待未来研究能把注意和记忆结合起来考察孤独症儿童的词汇学习过程和发展滞后的原因，从而深入探究孤独症儿童词汇发展滞后的机制。除此之外，未来关于孤独症儿童词汇学习的研究还需要考虑以下几个方面的问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先，未来研究需要进一步考察联合注意影响词汇发展的机制和发展轨迹。有研究者认为联合注意在动作能力和语言发展之间起着重要的中介作用(Bruyneelet al.,2019;Edmundset al.,2017)。儿童新的动作技能的产生改变着儿童和周围环境中的人和物体的互动方式，这能够促进儿童之后的交流能力和语言发展。而儿童动作的发展常常伴随着联合注意，当儿童开始能坐和抓握时，他们会拿起物体递给养育者或者展示给养育者看，养育者反过来可能会给物体命名，这就为儿童学习新词汇提供了机会(Choietal.,2018)。Bruyneel 等(2019)发现，高风险孤独症婴儿和正常婴儿在10个月时的动作技能通过他们在14个月时的联合注意能力的调节，影响其36个月时的表达性语言和接收性语言。然而，坐下、走路等儿童早期动作技能和高风险以及低风险孤独症婴儿的联合注意行为有关，和 3\\~5岁的孤独症儿童的联合注意行为无关(Franchini etal.,2018)。这说明，在儿童发展早期，联合注意可能调节了动作技能和语言发展的关系，而当儿童的动作发展趋于成熟后，联合注意则不再影响儿童的语言发展或是通过其他方式影响儿童的语言发展。因此，未来需要开展纵向追踪研究，探究联合注意影响孤独症儿童词汇发展的轨迹，找到联合注意对词汇发展影响的关键节点和影响因素，比如，联合注意对词汇发展的影响何时达到顶峰以及何时衰减，这对促进孤独症儿童的词汇发展和制定相应的干预方法至关重要。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "其次，有研究表明个体已有的词汇知识也会对新词汇的巩固和整合产生影响。个体的词汇知识越丰富，词汇竞争效应越强，词汇整合效果就越好，这种现象被称为“马太效应\"(Jameset al.,2017; Stanovich,1986)。但是目前尚未有研究直接考察孤独症儿童的词汇知识对其词汇整合的影响，因而无法得知孤独症儿童词汇知识方面的差异是否会影响其对词汇的巩固。未来需要更多的研究考察孤独症儿童的睡眠、词汇知识和词汇巩固之间的关系，阐明孤独症儿童的词汇巩固和记忆困难的机制。此外，目前关于孤独症儿童词汇巩固和记忆的研究主要聚焦于考察学龄期孤独症儿童对词汇的记忆，尚不清楚学龄前孤独症儿童如何把词汇储存在长时记忆中。未来的研究也需要进一步探究孤独症儿童早期的词汇巩固和记忆。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "再次，孤独症儿童的词汇学习存在较大的个体差异。孤独症儿童的词汇发展水平可能与个体的非言语认知能力以及当前的语言表达能力有关。认知能力不同的孤独症儿童在词汇学习过程中表现出的困难也不同。比如，Joseph 等人(2019)探究了29 个5\\~17 岁极低口语的孤独症儿童和青少年的词汇学习能力。结果发现，29个人中，有14个儿童和青少年既不能利用互斥性约束原则学习新的词汇也不能把词汇保持在记忆中。8个儿童和青少年能够利用互斥性约束原则学习词汇，但是却无法保持，还有7个儿童和青少年不仅能够学习新的词汇，而且还能够短期保持。无法利用互斥性约束规则与非言语认知能力有关，而词汇保持困难则与孤独症儿童和青少年的表达性语言能力相关。这说明孤独症人群在词汇学习存在较大的个体差异，这种差异会影响词汇学习的不同阶段。未来应选取语言/认知能力不同的孤独症儿童探究其注意模式和记忆如何影响词汇学习的不同阶段，从而为认知能力不同的个体提供针对性的干预方法。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "此外，目前大多数关于孤独症儿童词汇学习的研究是实验室情境下进行的，但是实验室情境下所揭示的学习机制能否反应儿童在真实情境中的词汇学习过程？即在实际学习词汇的过程中，儿童是否真正使用了这些机制或策略？这些问题值得进一步探究。比如，许多研究都采用快速映射的实验范式测量儿童的词汇学习能力。但是有研究者提出快速映射可能更像是一个实验任务，而非一种学习机制(Gernsbacher& Morson,2019)。此外，当前实验室情境下的研究主要是给孤独症儿童呈现一些不熟悉的物体，然后对其命名，考察儿童能否把新的词汇标签和目标物体对应起来。这些实验任务在很大程度上忽视了儿童在词汇学习中的主动性，而且只关注孤独症儿童自身利用线索学习词汇的能力，较少探究父母在其词汇学习中所起的作用。然而，儿童在真实情境中的词汇学习是一个主动的过程，儿童探索周围环境和摆弄感兴趣的物体时同时创造了大量词汇学习的机会(Yu&Smith,2012)，在这个过程中，儿童是主动的信息寻求者，而养育者则充当信息提供者的角色，儿童的行为与其养育者的行为共同促进了儿童的词汇学习(Chen et al.,2021; Suarez-Rivera et al.,2019)。未来的研究应该更多聚焦于孤独症儿童在自然情境下的词汇学习过程，关注在真实亲子互动中，孤独症儿童自身的注意和对环境的探索，以及父母对儿童的反应和支持如何共同影响孤独症儿童的词汇学习。这能帮助我们更好地了解孤独症儿童在真实的词汇学习过程中遇到的困难，也有助于我们为其寻找更为有效和针对性的干预方法。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最后，孤独症儿童词汇学习相关的注意和记忆机制是否具有词汇学习特异性，在其他范畴学习（例如：语法习得）中是否有同样的表现，也将是未来研究中值得探讨的问题，将有助于我们进一步厘清注意和记忆是否确为孤独症儿童词汇发展滞后的发生机制。与此同时，在注意和记忆机制之外，孤独症儿童能否遵循典型发展儿童的词汇发展轨迹和学习过程，依从词法规则（例如：名词偏好、形状偏好等）或是认知约束原则（例如：互斥性、整体性、跨情境统计学习等）习得词汇也是学界值得探讨的重要课题，将有利于深入认识人类词汇学习中的普遍机制，并鉴别孤独症儿童词汇学习中的异常特征。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abdelaziz,A.,Kover,S.T., Wagner,M.,& Naigles,L.R. (2018).The shape bias in children with autism spectrum disorder: Potential sources of individual differences. Journal of Speech, Language, and Hearing Research, 61(11), 2685-2702. https://doi.0rg/10.1044/2018_ jslhr-1-rsaut-18-0027   \nAdamson, L.B., Bakeman, R., Suma, K.,& Robins, D.L. (2017). An expanded view of joint attention: Skill, engagement, and language in typical development and autism. Child Development, 90(1), e1-e18. https://doi.org/10.1111/cdev.12973   \nAkechi, H., Senju,A., Kikuchi, Y., Tojo,Y., Osanai, H.,& Hasegawa,T. (2011). Do children with ASD use referential gaze to learn the name of an object? An eye-tracking study. Research in Autism Spectrum Disorders, 5(3), 1230-1242. https://doi.org/10.1016/j.rasd.2011.01.013   \nAmerican Psychiatric Association. (2O13). Diagnostic and statistical manual of mental disorders (5th ed.). https://doi.org/10.1176/appi.books.9780890425596   \nArunachalam, S.,& Luyster,R.J. (2018). Lexical development in young children with autism spectrum disorder (ASD): How ASD may affect intake from the input. Journal of Speech Language and Hearing Research, 61(11), 2659-2672. https://doi.0rg/10.1044/2018_JSLHR-L-RSAUT-18- 0024   \nAxelsson,E.L., Williams,S.E.,& Horst, J.S.(2016).The effectof sleep on children's word retention and generalization. Frontiers in Psychology,7,1192. https://doi.org/10.3389/fpsyg.2016.01192   \nBacon,E. C., Moore,A., Lee, Q., Carter Barnes, C., Courchesne,E.,& Pierce, K. (2020). Identifying prognostic markers in autism spectrum disorder using eye tracking. Autism, 24(3), 658-669. https://doi.0rg/10.1177/1362361319878578   \nBal, V.H.,Katz,T.,Bishop,S.L.,& Krasileva, K.(2016). Understanding definitions of minimallyverbal across instruments: Evidence for subgroups within minimally verbal children and adolescents with autism spectrum disorder. Journal of Child Psychology and Psychiatry，and Allied   \nBaranek,G. T.，Woynaroski， T.G.， Nowell， S.， Turner-Brown,L.， DuBay， M.， Crais,E.R.，& Watson， L. R. (2018). Cascading efects of attention disengagement and sensory seekin g on social symptoms in a community sample of infants at-risk for a future diagnosis of autism spectrum disorder. Developmental Cognitive Neuroscience, 29, 30-40. https:// doi.org/10.1016/j.dcn.2017.08.006   \nBean Ellawadi， A.，& McGregor, K. K. (2016). Children with ASD can use gaze to map new words. International Journal of Language & Communication Disorders， 51(2), 212-218. https://doi.0rg/10.1111/1460-6984.12192   \nBhat,A. N., Galloway, J. C.,& Landa,R.J. (2o1O). Social and non-social visual attention patterns and associative learning in infants at risk for autism.Journal of Child Psychology and Psychiatry, and Allied Disciplines, 51(9), 989-997. htps://doi.org/10.1111/j.1469-7610.2010.02262.x   \nBoting,N.,& Baraka,N. (2017). Sleep behaviour relates to language skills in children with and without communication disorders. International Journal of Developmental Disabilities, 64(4-5), 238- 243. https://doi.0rg/10.1080/20473869.2017.1283766   \nBoucher, J., Mayes,A.,& Bigham, S. (2012). Memory in autistic spectrum disorder. Psychological Bulletin, 138(3), 458-496. https://doi.0rg/10.1037/a0026869   \nBruner, J. S. (1974). From communication to language—a psychological perspective. Cognition, 3(3), 255-287.   \nBruyneel, E., Demurie, E. Warreyn, P.,& Roeyers, H. (2019). The mediating role of joint attention in the relationship between motor skils and receptive and expressive language in siblings at risk forautism spectrum disorder. Infant Behavior and Development， 57, 101377. https://doi.0rg/10.1016/j.infbeh.2019.101377   \nCampbell, D.J. Shic,F., Macari, S.,& Chawarska, K. (2014). Gaze response to dyadic bids at 2 years related to outcomes at 3 years in autism spectrum disorders: A subtyping analysis. Journal of Autism and Developmental Disorders, 44(2), 431-442. https://doi.org/10.1007/s10803-013- 1885-9   \nCarter, C. K.,& Hartley, C. (2O21).Are children with autism more likely to retain object names when learning from colour photographs or black-and-white cartoons? Journal of Autism and Developmental Disorders, 51(9), 3050-3062. htps://doi.0rg/10.1007/s10803-020-04771-2   \nCetincelik, M., Rowland, C.F.,& Snijders, T. M. (2021). Do the eyes have it? A systematic review on the role of eye gaze in infant language development. Frontiers in Psychology,11, 589096. https://doi.0rg/10.3389/fpsyg.2020.589096   \nCharman, T.， Drew, A.， Baird, C.，& Baird, G. (2003). Measuring early language development in preschool children with autism spectrum disorder using the MacArthur Communicati ve Development Inventory (Infant Form). Journal of Child Language,30(1)， 213-236. https://doi.0rg/10.1017/s0305000902005482   \nChawarska, K., Macari, S.,& Shic, F. (2013). Decreased spontaneous attention to social scenes in 6- month-old infants later diagnosed with autism spectrum disorders.Biological Psychiatry,74(3), 195-203. https://doi.org/10.1016/j.bopsych.2012.11.022   \nChen, C.H., Houston,D. M.,& Yu, C. (2021). Parent-child joint behaviors in novel object play create high-qualitydata forword learning. Child Development， 92(5)， 1889-1905. https://doi.org/10.1111/cdev.13620   \nChoi,B.，Leech， K.A.， Tager-flusberg,H.,& Nelson, C.A. (2018). Development of fine mot or skills is associated with expressive language outcomes in infants at high and low ri sk for autism spectrum disorder. Journal of Neurodevelopmental Disorders， 10(14),1-1 1. https://doi.0rg/10.1186/s11689-018-9231-3   \nDavis,M. H., & Gaskel, M. G. (20o9). A complementary systems account of word learning: Neural and behavioural evidence. Philosophical transactions of the Royal Society of London. Series B, Biological sciences,, 364(1536), 3773-3800. htps://doi.org/10.1098/rstb.2009.0111   \nEdmunds, S.R., Ibanez, L. V., Warren, Z., Messinger, D. S.,& Stone,W. L. (2017). Longitudinal prediction of language emergence in infants at high and low risk for autism spectrum disorder. Development and Psychopathology,29,319-329. https:/doi.org/10.1017/S0954579416000146   \nElis Weismer,S.,Lord, C.，& Esler,A. (2010).Early language paterns of toddlers on the autism spectrum compared to toddlers with developmental delay. Journal of Autism and Developmental Disorders, 40(10),1259-1273. https://doi.0rg/10.1007/s10803-010-0983-1   \nField,C., Lewis, C.，& Allen, M. L. (2019). Referent selection in children with autism spectru m condition and intellectual disabilities: Do social cues affect word-to-object or word-t 0-location mappings? Research in Developmental Disabilities， 91，103425.htps://doi.org /10.1016/j.ridd.2019.05.004   \nFitch,A.,Lieberman,A. M.,Luyster, R.J.,& Arunachalam, S.(2020).Toddlers' word learning through overhearing: Others' attention matters. Journal of Experimental Child Psychology,193,104793. https://doi.0rg/10.1016/j.jecp.2019.104793   \nFletcher,F.E.， Knowland, V.， Walker, S., Gaskell, M. G., Norbury, C.,& Henderson,L. M. (2020). Atypicalities in sleep and semantic consolidation in autism. Developmental Science, 23(3), e12906. htps://doi.org/10.1111/desc.12906   \nFranchini, M., Duku, E.,Armstrong, V., Brian, J., Bryson, S.E., Garon, N.，& Smith, I. M. (2018). Variability in verbal and nonverbal communication in infants at risk for autism spectrum disorder: Predictors and outcomes. Journal of Autism and Developmental Disorders, 48(10), 3417-3431. https://doi.0rg/10.1007/s10803-018-3607-9   \nGangopadhyay, I.,& Kaushanskaya, M. (2O20). The role of speaker eye gaze and mutual exclusivity in novel word learning by monolingual and bilingual children. Journal of Experimental Child Psychology, 197, 104878. htps://doi.0rg/10.1016/j.jecp.2020.104878   \nGaskel,M. G.,& Dumay, N.(20o3).Lexical competition and the acquisition of novel words. Cognition, 89(2),105-132. https://doi.0rg/10.1016/s0010-0277(03)00070-2   \nGernsbacher, M.A.,& Morson, E. (2019).Fast mapping is a laboratory task, not a cognitive capacity. Cognitive Neuroscience, 10(4), 223-225. htps://doi.0rg/10.1080/17588928.2019.1573810   \nGliga,T., Elsabbagh, M., Hudry, K., Charman, T.,& Johnson,M. H. (2012). Gaze following, gaze reading, and word learning in children at risk for autism. Child Development, 83(3), 926-938. https://doi.0rg/10.111/j.1467-8624.2012.01750.x   \nGliga,T., Skolnick, A.,Liersch, U., Charman,T., Johnson, M. H.,Bedford,R.,& BASIS Team. (2021). Investigating the mechanisms driving referent selection and retention in toddlers at typical and elevated likelihood for autism spectrum disorder. Journal of Child Language, 1-13. Advance online publication. https://doi.org/10.1017/S0305000921000416   \nGrandgeorge, M., Hausberger, M., Tordjman, S., Deleau, M., Lazartigues,A.,& Lemonnier, E. (2009). Environmental factors influence language development in children with autism spectrum disorders. PLoS One, 4(4), e4683. htps://doi.org/10.1371/journal.pone.0004683   \nHabayeb,S., Tsang,T.,Saulnier, C., Klaiman, C.,Jones, W., Klin,A.,& Edwards,L.A.(2021). Visual traces of language acquisition in toddlers with autism spectrum disorder during the second year oflife. Journal of Autism and Developmental Disorders, 51(7)， 2519-2530. https://doi.0rg/10.1007/s10803-020-04730-x   \nHaebig,E., Jimenez,E., Cox, C.R.,& Hils,T.T. (2021). Characterizing the early vocabulary profiles of preverbal and minimally verbal children with autism spectrum disorder. Autism, 25(4), 958- 970. https://doi.0rg/10.1177/1362361320973799   \nHartley, C., Bird,L. A.,& Monaghan, P. (2019). Investigating the relationship between fast mapping, retention,and generalisation of words in children with autism spectrum disorder and typical development. Cognition, 187,126-138. https://doi.org/10.1016/j.cognition.2019.03.001   \nHartley, C., Bird, L. A.,& Monaghan, P. (202O). Comparing cross-situational word learning, retention, and generalisation in children with autism and typical development. Cognition, 200,104265. https://doi.org/10.1016/j.cognition.2020.104265   \nHe,A. X., Huang, S., Waxman, S., & Arunachalam, S. (2020). Two-year-olds consolidate verb meanings during a nap. Cognition, 198,104205. htps://doi.org/10.1016/j.cognition.2020.104205   \nHenderson, L., Powell,A., Gaskell, M. G.,& Norbury, C. (2014). Learning and consolidation of new spoken words in autism spectrum disorder. Developmental Science, 17(6)，858 -871. https://doi.0rg/10.1111/desc.12169   \nHillairet de Boisferon, A., Tift, A. H., Minar, N. J.,& Lewkowicz, D.J. (2018). The redeployment of attention to the mouth of a talking face during the second year of life.Journal of Experimental Child Psychology,172,189-200. https://doi.0rg/10.1016/j.jecp.2018.03.009   \nHudac,C. M.， DesChamps， T. D.，Arnett, A. B., Cairney， B.E.，Ma,R.， Webb， S.J.,& Bern ier,R.A. (2O18). Early enhanced processing and delayed habituation to deviance soun ds in autism spectrum disorder. Brain and Cognition, 123，110-119. https://doi.org/10.1 016/j.bandc.2018.03.004   \nJames,E.，Gaskell, M.G.，Weighall，A.，& Henderson, L. (2017). Consolidation of vocabulary during sleep: The rich get richer? Neuroscience and Biobehavioral Reviews,77,1-13. https://doi.org/10.1016/j.neubiorev.2017.01.054   \nJimenez,E., Haebig,E.,& Hills,T.T. (2O21). Identifying areas of overlap and distinction in early lexical profiles of children with autism spectrum disorder, late talkers, and typical talkers. Journal of Autism and Developmental Disorders, 51(9), 3109-3125. https:/doi.org/10.1007/s10803-020- 04772-1   \nJohnels,J. A., Gilberg, C.,Falck-Ytter,T.,& Miniscalco,C. (2014).Face-viewing patterns in young children with autism spectrum disorders: Speaking up for the role of language comprehension. JournalofSpeech, Language, and Hearing Research， 57(6), 2246-2252. https://doi.org/10.1016/j.bandc.2018.03.004   \nJones,W.,& Klin,A. (2013).Attntion to eyes is present but in decline in 2-6-month-old infants later diagnosed with autism. Nature, 504(7480), 427-431. https://doi.org/10.1038/nature12715   \nJoseph，R.M.， Skwerer,D.P.，Eggleston,B.，Meyer,S.R.，& Tager-Flusberg，H.(2019).An experimental study of word learning in minimally verbal children and adolescents with autism spectrum disorder. Autism & Developmental Language Impairments， 4,1-13. htt ps://doi.0rg/10.1177/2396941519834717   \nKleberg,J.L.， Thorup,E.，& Falck-Ytter, T. (2017). Reduced visual disengagement but intact phasic alerting in young children with autism. Autism Research,10(3)， 539-545. https:/ /doi.org/10.1002/aur.1675   \nKover, S.T.,& Ellis Weismer, S. (2014). Lexical characteristics of expressive vocabulary in toddlers with autism spectrum disorder. Journal of Speech, Language, and Hearing Research, 57(4), 1428-1441. htps:/doi.0rg/10.1044/2014_ JSLHR-L-13-0006   \nKujala,T.,Aho,E.,Lepisto,T., Jansson-Verkasalo,E.， Nieminen-von Wendt, T.，von Wendt,L.，& Näatänen, R. (2o07). Atypical pattern of discriminating sound features in adults with Asperger syndrome as reflected by the mismatch negativity. Biological Psychology，75(1), 109-114. https://doi.0rg/10.1016/j.biopsycho.2006.12.007.   \nLandau, B., Smith,L. B.,& Jones, S. S. (1988). The importance of shape in early lexical learning. Cognitive Development, 3,299-321.   \nLewkowicz, D. J.,& Hansen-Tift, A. M. (2012). Infants deploy selective atention to the mouth of a talking face when learning speech. Proceedings of the National Academy of Sciences of the United States of America, 109(5), 1431-1436. htps://doi.org/10.1073/pnas.1114783109   \nLiu, Q., Wang, Q.,Li, X., Gong, X.,Luo, X., Yin,T.,Liu,J.,& Yi,L. (2021). Social synchronization during joint attention in children with autism spectrum disorder. Autism Research, 14(10), 2120-2130. htps://doi.org/10.1002/aur.2553   \nLuyster,R.,Lopez, K.,& Lord, C. (2007). Characterizing communicative development in children referred for autism spectrum disorders using the MacArthur-Bates Communicative DevelopmentInventory (CDI). Journalof Child Language， 34(3)， 623-654. https://doi.0rg/10.1017/s0305000907008094   \nMaes,P., Stercq,F.,& Kissne,M.(2021).Attention to intentional versus incidental pointing gestures in young autistic children: An eye-tracking study. Journal ofExperimental Child Psychology, 210, 105205. https://doi.0rg/10.1016/j.jecp.2021.105205   \nMarchman, V.A.,Adams, K.A., Loi, E. C., Fermald,A.,& Feldman, H. M. (2016). Early language processing efficiency predicts later receptive vocabulary outcomes in children born preterm. Child Neuropsychology, 22(6), 649-665. https://doi.0rg/10.1080/09297049.2015.1038987   \nMathee-Scott,J.,Larson,C., Venker, C.,Pomper,R.,Edwards,J.,Saffran,J.,& Elis Weismer, S.(2021). Use of mutual exclusivity and its relationship to language ability in toddlers with autism spectrum disorder. Journal of Autism and Developmental Disorders. Advance online publication. https://doi.0rg/10.1007/s10803-021-05321-0   \nMcGregor, K. K., Rost, G., Arenas,R., Farrs-Trimble,A.,& Stiles, D. (2013). Children with ASD can use gaze in support of word recognition and learning. Journal of Child Psychology and Psychiatry, and Allied Disciplines, 54(7), 745-753. htps://doi.org/10.111/jcpp.12073   \nNorbury,C.F.，Grifiths,H.，& Nation, K. (2O1O). Sound before meaning: Word learning in au tistic disorders.Neuropsychologia,48(14)， 4012-4019.htps://oi.0rg/10.1016/j.neuropsyc hologia.2010.10.015   \nNystrom，P.， Thorup,E.，Bolte, S.，& Falck-Ytter, T. (2019). Joint attention in infancy and the emergence of autism. Biological Psychiatry， 86(8), 631-638. https://doi.0rg/10.1016/j.bio psych.2019.05.006   \nPaparella,T., Goods, K.S.,Freman, S.,& Kasari, C. (2011).The emergence of nonverbal joint attention and requesting skills in young children with autism. Journal of Communication Disorders, 44(6), 569-583. htps://oi.org/10.1016/j.jcomdis.2011.08.002   \nReinhartsen,D.B.,Tapia,A.L., Watson,L.,Crais,E.,Bradley, C.,Fairchild,J.,Herring,A.H.,& Daniels, J. (2019). Expressive dominant versus receptive dominant language patterns in young children: Findings from the study to explore early development. Journal of Autism and Developmental Disorders, 49(6),2447-2460.https://doi.0rg/10.1007/s10803-019-03999-x   \nRusso,S., Calignano, G., Dispaldro, M., & Valenza, E. (2021). An integrated perspective on spatiotemporal atention and infant language acquisition. International Journal of Environmental Research and Public Health,18(4),1592. https://doi.org/10.3390/ijerph18041592   \nSpiegel, C.,& Halberda, J. (2011). Rapid fast-mapping abilities in 2-year-olds. Journal of Experimental Child Psychology,109(1),132-140. htps://doi.org/10.1016/j.jecp.2010.10.013   \nStanovich, K. E. (1986). Mathew effects in reading: Some consequences of individual differences in the acquisition of literacy. Reading Research Quarterly, 21(4),360-407.   \nSu, Y. E., Naigles, L. R., & Su, L. Y. (2018). Uneven expressve language development in mandarinexposed preschool children with ASD: Comparing vocabulary， grammar, and the decontextualized use of language via the PCDI-Toddler Form. Journal of Autism and Developmental Disorders, 48(10),3432-3448. htps://doi.0rg/10.1007/s10803-018-3614-x   \nSuarez-Rivera, C., Smith, L. B.,& Yu, C. (2019). Multimodal parent behaviors within joint atention support sustained attention in infants. Developmental Psychology， 55(1)， 96-109. https://doi.0rg/10.1037/dev0000628   \nTakashima,A.,Bakker, I., van Hell J. G., Janzen, G.,& McQueen, J. M. (2017). Interaction between episodic and semantic memory networks in the acquisition and consolidation of novel spoken words. Brain and Language, 167, 44-60. https://doi.org/10.1016/j.bandl.2016.05.009   \nTecoulesco,L., Fein, D.，& Naigles,L.R.(2021). What categorical induction variability reveal S about typical and atypical development. Journal of Child Language, 48(3), 515-540. https://doi.0rg/10.1017/S0305000920000392   \nTenenbaum,E. J., Amso, D.,Abar,B.,& Sheinkopf, S.J. (2014). Atention and word learning in autistic, language delayed and typically developing children. Frontiers in Psychology，5，490. https://doi.0rg/10.3389/fpsyg.2014.00490   \nTenenbaum, E.J.,Amso,D., Righi, G.,& Sheinkopf, S. J. (2017). Attempting to \"Increase Intake from the Input\": Attention and word learning in children with autism. Journal of Autism and Developmental Disorders, 47(6), 1791-1805. https://doi.0rg/10.1007/s10803-017-3098-0   \nTomasello, M.,& Farrar, M. J. (1986). Joint attention and early language. Child Development,57(6), 1454-1463.   \nTovar, A. E., Rodriguez-Granados, A., & Arias-Trejo, N. (2020). Atypical shape bias and categorization in autism: Evidence from children and computational simulations. Developmental Science, 23(2), e12885. https://doi.0rg/10.1111/desc.12885   \nTsang,T.,Atagi， N.，& Johnson， S.P. (2018). Selective attention to the mouth is associated with expressive language skills in monolingual and bilingual infants. Journal of Experimental Child Psychology,169, 93-109. https://doi.0rg/10.1016/j.jecp.2018.01.002   \nVenker, C. E. (2017). Spoken word recognition in children with autism spectrum disorder: The role of visual disengagement. Autism, 21(7), 821-829. htps:/doi.0rg/10.1177/1362361316653230   \nVenker, C.E. (019). Cross-situational and ostensive word learning in children with and without autism spectrum disorder. Cognition, 183,181-191. htps://doi.0rg/10.1016/j.cognition.2018.10.025   \nVenker, C. E., Bean，A.，& Kover, S. T. (2018). Auditory-visual misalignment: A theoretical pe rspective on vocabulary delays in children with ASD. Autism Research,11(12), 1621-1 628.https://doi.org/10.1002/aur.2038   \nVenker,C.E.，Mathee,J.， Neumann,D.，Edwards, J.,， Saffran,J.，& Elis Weismer， S. (2021). Competing perceptual salience in a visual word recognition task differentially affects c hildren with and without autism spectrum disorder. Autism Research, 14(6), 1147-1162. https://doi.org/10.1002/aur.2457   \nVlach,H.A.,& DeBrock, C.A.(2019). Statistics learned are statistics forgotten: Children's retention and retrieval ofcross-situational word learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 45(4), 700-711. https://doi.org/10.1037/xlm0000611   \nWalker,S.,Henderson,L.M.,Fletcher,F.E.,Knowland,V.C.P.,Cairney,S.A.,& Gaskell,M.G.(2019). Learning to live with interfering neighbours: The influence of time of learning and level of encodingonword learning. RoyalSocietyOpenScience.， 6(4)， 181842. https://doi.0rg/10.1098/rsos.181842   \nWang, S.,Jiang,M.,Duchesne,X.M.,Laugeson,E.A.,Kennedy,D.P.,Adolphs,R.,& Zhao,Q.(2015). Atypical visual saliency in autism spectrum disorder quantified through model-based eye tracking. Neuron, 88(3), 604-616. https://doi.org/10.1016/j.neuron.2015.09.042   \nWeighall,A.R.,Henderson,L.M.,BarrD.J., Cairney, S.A.,& Gaskell,M. G. (2017).Eye-tracking the time-course of novel word learning and lexical competition in adults and children. Brain and Language, 167,13-27. https://doi.org/10.1016/j.bandl.2016.07.010   \nYoung, G. S., Merin,N.,Rogers,S.J.,& Ozonof, S. (2009). Gaze behavior and affect at 6 months: Predicting clinical outcomes and language development in typically developing infants and infants atriskforautism.DevelopmentalScience, 12(5)， 798-814. https://doi.0rg/10.1111/j.1467-7687.2009.00833.x   \nYu, C.,& Smith,L. B. (2012). Embodied attntion and word learning by toddlers. Cognition,125(2), 244-262. https://doi.org/10.1016/j.cognition.2012.06.016   \nYu, C., Suanda, S.H.,& Smith,L. B.(2019). Infant sustained attention but not joint attention to objects at 9 months predicts Vocabulary at 12 and 15 months. Developmental Science,22(1), e12735. https://doi.org/10.1111/desc.12735 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The influence of atypical attention and memory on vocabulary delay in children with autism spectrum disorder ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "HOU Wenwenl, SU Yi (ESTHER)' ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "('Child language lab, School of Foreign Languages, Central South University, Changsha 410083, ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Vocabulary delay is prevalent in children with autism spectrum disorder(ASD), yet there is no converging evidence regarding its underlying mechanisms. Atention and memory are two general cognitive mechanisms involved in word learning. Numerous studies have shown that atypical attntion and memory are observed in children with ASD, which may have a cascading downstream effect on their word learning. Children with ASD show diminished sustained attention to targets objects in joint attention dyads and they are easily distracted by salient but irrelevant stimuli in the environment. Consequently, word-referent relationships established by children with ASD are inaccurate and weak. Moreover, the weak word-referent relationships and sleep disorders might have negative consequences on children with ASD's word consolidation and retention. Further work is required to investigate the developmental trajectory and mechanisms underlie the link between joint attention and word learning, the influence of existing lexical knowledge on word retention and explore the role of parent behaviors in children with ASD's word learning. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: vocabulary development, word learning, attention, memory, autism spectrum disorder ",
+        "page_idx": 18
+    }
+]

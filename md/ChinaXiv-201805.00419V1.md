@@ -1,0 +1,110 @@
+# 大肠杆菌丁醇耐受机制及耐受菌选育研究进展
+
+贺雪婷1.² 张敏华2.3.4 洪解放²³马媛媛 $^ { 2 , 3 \ast \ast }$ 大学化工学院生物化工系 天津 3000722天津大学石油化工技术开发中心 天津 300723天津大学绿色合成与转化教育部重点实验室 天津 3000724天津大学内燃机燃烧学国家重点实验室 天津 300072）
+
+摘要：随着全球变暖和能源危机日益加剧，生物丁醇因能用作清洁能源和重要化学品而备受关注。大肠杆菌（Escherichiacoli）由于具有优良的遗传操作性能成为丁醇生产的底盘菌，但丁醇对细胞的毒害作用已成为提高工程菌丁醇产量的瓶颈，因而增强E.coli丁醇耐受性是提高工程菌丁醇产量的必要前提。为此，需要详细了解E.coli丁醇耐受机制。丁醇可破坏细胞膜的屏障作用、扰乱物质转运和传递功能，细胞产生与热激、渗透等胁迫类似的生理应答反应，通过转录与翻译调节应答丁醇胁迫。从上述几个方面综述了E.coli丁醇耐受机制,并总结了运用基因工程理性设计获得丁醇耐受菌株的研究进展。然而目前丁醇耐受机制尚未完全揭示，限制了理性设计策略的应用，因此文中也概括了运用定向进化获得耐受丁醇菌株并解析丁醇耐受功能基因的反向代谢工程策略在此方面的研究进展。同时也关注和评述了最新的组合策略、化学修饰方法提高E.coli丁醇耐受性的研究。最后总结和展望了提高底盘菌株E.coli丁醇耐受性的关键策略。
+
+关键词：大肠杆菌，丁醇耐受，基因工程，定向进化
+
+# Research Progress on Butanol-Tolerant Strain and Tolerance Mechanism ofEscherichia coli
+
+HE Xue-ting1.2 ZHANG Min-hua2.3,4 HONG Jie-fang2,3 MA Yuan-yuan2.3
+
+DepartmentofocialEgiig,olfcalEggndchogyanjiUsityanj (2 Tianjin R&D Center for Petrochemical Technology,Tianjin University,Tianjin3ooo72, China) (3KeyLaboratoryforGreen ChemicalTechnologyofMinistryofEducation,TianjinUniversity,Tianjin3Ooo72,China) (4 State KeyLaboratory of Engines,Tianjin University,Tianjin 3ooo72, China)
+
+Abstract: Biobutanol has been atracting much attention as a clean fuel and chemical due to that the use of fossil fuels lead to aggravation of global warming and energy crisis. Escherichia coli is an ideal candidate for butanol production because it is easy to manipulate genetically. Butanol toxicity has been a botleneck for industrial-scale biobutanol production, so the improvement in butanol tolerance is essential for high titer butanol production. Butanol destroyed the barrer and transport functions of cell membrane,and cel produces physiological response,which is similar to that of heat shock, osmotic stress,etc. Cell regulates transcription and translation to resist butanol stress. In the light of the above points,the butanol tolerance mechanism of $E$ coli and recent advances in development of butanol-tolerant strains by rational design strategy are summarized in this review.Nevertheless,the mechanism has not been yet fully elucidated, which limits the use of rational design strategy. There is also concern about the application of inverse metabolic engineering in this area, which means that the butanol-tolerant strains are obtained through directed evolution and the functional genes are further revealed.In addition,the authors review the progress on application of the latest strategies for improving butanol tolerance, such as combined strategy, chemical modification, and propose the potential key points for enhancing butanol tolerance of $E$ coli.
+
+Key Words: Escherichia coli, Butanol tolerance, Genetic engineering,Directed evolution
+
+丁醇（ $\mathrm { \ C _ { 4 } H _ { 9 } O H } \dot { }$ ）具有能量密度高、挥发性和吸湿性低、腐蚀性小等优点[],易于与汽油混合、是潜在的新一代生物燃料[2]。丁醇在塑料、印刷等工业中也有广泛的应用[3]，生物法生产的丁醇还可用于食品、化妆品和制药等行业。天然产丁醇的梭菌属通过丙酮-丁醇-乙醇（Acetone-Butanol-Ethanol,ABE）途径发酵生产丁醇，目前产量为 $1 5 - 1 8 . 9 \mathrm { g } / \mathrm { L } ^ { [ 4 - 5 ] }$ 。随着代谢工程、合成生物学的发展，在酿酒酵母、乳酸菌、大肠杆菌（Escherichiacoli）等菌中也构建了丁醇代谢途径，在重组酿酒酵母和乳酸菌中丁醇最高产量达到 $1 3 0 { \pm } 2 0 \mathrm { m g / L }$ 和 $3 0 0 \mathrm { m g / L ^ { \left[ 5 \right] } } \circ$ $E .$ （204号coli遗传背景清晰、生长速率高、便于高细胞密度培养和遗传操作，是生物加工工业常用的底盘菌[6-7]。Shen 等[8]在其体内构建了丁醇合成途径，菌株优化后丁醇产量达到 $1 5 \mathrm { g / L }$ ，若发酵过程中不断去除丁醇则产物达到 $3 0 \mathrm { g / L }$ ；对代谢途径进行优化能使重组菌丁醇产量达到 $1 8 . 3 - 2 0 \mathbf { g } / \mathrm { L } ^ { [ 9 - 1 0 ] } ,$ 。这些研究表明 $E .$ coli是有潜力的丁醇生产菌株，但是丁醇对细胞的毒性限制了其高浓度丁醇的生产。
+
+丁醇对细菌的毒性导致生物丁醇产量一般不超过 $2 0 \mathrm { g / L }$ []],已成为生物法生产丁醇的瓶颈，较低的产物浓度会导致丁醇生产过程能耗较高，消耗水量增多并产生大量的废醪液。尽管在发酵过程中用原位回收（in situ recovery）不断的分离丁醇能减少丁醇对细菌的毒害而提高生产效率，但筛选丁醇耐受菌株对高效丁醇生产仍然十分重要[]。在 $1 \%$ （v/v）丁醇中 $E .$ coli的生长就完全被抑制[12]，因此提高其丁醇耐受性是提高 $E .$ coli生物丁醇生产效率的关键。目前，通过基因工程和定向进化等手段定向改造和筛选耐受丁醇的E.coli菌株。
+
+# 1基因工程策略获得丁醇耐受菌株
+
+细菌在丁醇胁迫下生理生化特性会发生改变：细胞膜功能和细胞离子转运功能受损，细胞启动热激蛋白等胁迫应答基因表达，改变胞内的转录和翻译调节。可根据这些应答反应经理性设计和遗传操作改变靶基因的表达水平或表达外源相关基因改变相应的生理特性从而提高其丁醇耐受性[13]（表1)。
+
+丁醇能降低细菌细胞膜的表面张力使流动性增加，破坏细胞膜的完整性[14],损害细胞膜作为细胞屏障的功能，导致ATP泄露和 $\mathsf { p H }$ 梯度破坏，扰乱细胞膜的物质转运和能量传递过程，抑制细胞生长，导致细胞死亡。可通过改变膜的生理特性或转运系统特性来抵御丁醇胁迫。增加外膜脂多糖含量会使细胞表面疏水性降低，阻碍有毒疏水化合物进入胞质，脂多糖成分增加的工程菌株丁醇耐受性增加[15]。过表达生物素合成关键酶基因bioA能增加脂肪酸的生物合成，工程菌丁醇耐受性提高 $3 0 \% \pm 4 \%$ ；过表达脂肪酸合成途径基因cfa、fabD也能增加脂肪酸含量从而显著提高菌株丁醇耐受性[14,16]。在E.coli 中表达铜绿假单胞菌（Pseudomonasaeruginosa）体内的能催化顺式不饱和脂肪酸形成反式不饱和脂肪酸的顺反式异构酶基因 $^ { c t i }$ ，能显著降低细胞膜流动性，从而提高细胞膜的极性和刚性，该工程菌在 $0 . 6 \% ( \mathrm { v / v } )$ 丁醇胁迫下的生长速率比对照菌株提高 $1 6 \% ^ { [ 1 7 ] }$ 。定位于细胞质膜上的转运蛋白RND外排泵（resistance-nodulation-division effluxpump）能够将胞内有毒化合物泵出胞外，E.coli天然的外排泵系统不能结合丁醇使之排出胞外，运用定向进化策略来改变外排泵AcrB的底物特异性，筛选到的菌株 AcrBv2在含 $0 . 7 \%$ （v/v）丁醇的培养基中生长时，其细胞生长速率与对照菌相比提高了 $3 7 \% ^ { [ 1 8 ] }$ ；但AcrB的过量表达会抑制细胞的生长，葡萄糖酸代谢操纵子的启动子Pgntk 能够特异性地感应细胞膜胁迫来自动调节基因表达量，构建Pgntk-acrBv2负反馈调节系统的菌株在含 $0 . 7 \%$ （v/v）丁醇的培养基中最大细胞密度由0.5提高到 $0 . 7 ^ { [ 1 9 ] }$ 。在 $E$ coli体内表达恶臭假单胞菌(Pseudomonasputida)的流泵蛋白操纵子基因srpABC能使菌株在 $0 . 5 \% - 1 \% \mathrm { ( v / v ) }$ 丁醇中生长提高 $20 \%$ $- 3 5 \%$ ，只表达跨膜蛋白SrpB的基因也能增加菌株丁醇耐受性，可能是由于跨膜蛋白 SrpB在丁醇胁迫下有助于稳定细胞膜而非外排丁醇[16]。
+
+铁离子在细胞氧化还原反应、呼吸作用和DNA前体的合成中起着重要的作用[20]。过表达铁离子转运蛋白基因feoA能够增加 $\mathrm { F e } ^ { 2 + }$ 摄入从而使菌株在 $1 \% ( \mathrm { v / v } )$ 丁醇条件下的耐受性提高 $2 1 \% ^ { [ 1 6 ] }$ ；过表达铁摄取系统中肠菌素的合成基因entC也能使菌株丁醇耐受性提高 $1 0 \% \pm 1 \% ^ { 0 \% }$ 。
+
+对E.coli在丁醇胁迫下的蛋白组和转录组进行分析，结果表明E.coli应答丁醇胁迫和应答渗透、氧化、热激、干扰呼吸等胁迫时的基因表达和生理响应类似，细胞通过启动胁迫应答基因表达产生相应的生理生化变化来提高丁醇耐受能力。热激蛋白（heat shock proteins;HSPs)，是微生物应激系统的主要成员，在蛋白质折叠、运输以及修复受损或错误折叠的蛋白质方面起着至关重要的作用,可修复胁迫下变性的蛋白以维持其天然构象。在E.coli中过表达丙酮丁醇梭菌和其自身的热激蛋白 groESL 操纵子基因均能提高菌株的丁醇耐受性[21-22]。GroESL 与热激蛋白ClpB、DnaK系统在E.coli应激反应中能够协同修复受损或错误折叠的蛋白质：ClpB 能特异性地将蛋白质解聚成多肽，GroESL和DnaK重新折叠解聚的多肽，DnaK由DnaK伴侣及辅助伴侣DnaJ和GrpE 组成。这些协同作用的热激蛋白关键基因grpE、groESL和clpB在E.coli中同时过表达能使菌株在 $1 \% ( \mathrm { v / v } )$ 丁醇条件下培养时形成的菌落数提高为野生型菌株的3.9倍[23]。丁醇胁迫时菌体内的活性氧簇（reactive oxygen species;ROS）大量增加，四氯化碳被激活成为小的、可扩散的自由基[24]，自由基增多会损伤胞内大分子，也可过氧化脂质从而直接攻击细胞膜。金属硫蛋白（metallothioneins;MTs）是一种有益的抗氧化剂酶，作为一种防御系统能清除ROS以对抗氧化应激反应，将罗非鱼金属硫蛋白（TMT)基因和具有渗透调节功能的膜蛋白OmpC 基因融合成OmpC-TMT，过表达该融合基因能使宿主菌丁醇耐受性提高到 $1 . 5 \%$ （v/v）[25]。
+
+丁醇胁迫改变胞内的转录和翻译调节，影响胞内碳代谢、能量代谢、膜修饰、转运和离子代谢等功能。运用进化策略获得丁醇耐受菌，转录组和基因功能研究表明丁醇胁迫下其转录调节因子Fur活性下降，导致转录调节蛋白BasS/BasR的表达量增加，调节脂多糖修饰基因表达增多，菌株丁醇耐受性增强[15]。本实验室的研究结果表明转录调节因子Rob缺失或突变的E.coli菌株能提高其丁醇耐受性（尚未发表)。E.coli有304个转录调节因子，目前鉴定出能调节菌株丁醇耐受的转录调节因子有限，其调控的丁醇胁迫应答机制尚未解析，限制了理性设计在提高菌株丁醇耐受性方面的应用。
+
+表1基因工程策略提高E.coli丁醇耐受性  
+Table 1 Improved butanol tolerance of $E$ .coli by genetic engineering   
+
+<html><body><table><tr><td>机制</td><td>方法</td><td>工程菌株丁醇耐受性</td><td>文献</td></tr><tr><td>改变膜的</td><td>过表达顺反异构酶基因cti</td><td>0.6%（v/v）丁醇条件下的生长速率比对照菌高16%</td><td>[17]</td></tr><tr><td>生理特性</td><td>外排泵基因acrB的定向进化</td><td>0.7%（v/v）丁醇条件下的生长速率比对照菌高25%</td><td>[18]</td></tr><tr><td>或转运系</td><td>构建Pgntk-acrBv2负反馈调节系统</td><td>0.7%（v/v）丁醇条件下的最大细胞密度是对照菌的1.4倍</td><td>[19]</td></tr><tr><td>统的特性</td><td>同时过表达脂肪酸合成基因、铁转运相</td><td>1/1.5/2%（v/v）丁醇条件下的生长比对照菌分别提高了</td><td>[16]</td></tr><tr><td></td><td>关蛋白基因feoA以及流泵基因srpABC</td><td>4/5/9倍</td><td></td></tr><tr><td>启动胁迫</td><td>过表达E.coli菌株的热激蛋白基因</td><td>0.75%(v/v)丁醇/1.25%(v/v)2-丁醇/20%(v/v)丁三醇条件下</td><td>[22]</td></tr><tr><td>类似生理</td><td>groESL</td><td>的细胞活力比对照菌株分别增加2.8/3/4倍</td><td></td></tr><tr><td>应答</td><td>过表达丙酮丁醇梭菌的groESL 基因</td><td>0.8%/1%（v/v）丁醇条件下生长比对照菌分别高27%/9%；</td><td>[21]</td></tr><tr><td rowspan="5"></td><td></td><td>相对耐受性(RT%)比对照菌分别提高了58%/56%</td><td></td></tr><tr><td>同时过表达grpE/groESL/clpB基因</td><td>1%（v/v）丁醇条件下的CFU数为野生型菌株的3.9倍</td><td>[23]</td></tr><tr><td>过表达罗非鱼的金属硫蛋白TMT清除活</td><td>丁醇耐受性提高至1.5%（v/v）</td><td>[25]</td></tr><tr><td>性氧簇</td><td></td><td></td></tr><tr><td>调节胞内 下调转录调节因子Fur</td><td>丁醇耐受性提高</td><td>[14]</td></tr></table></body></html>
+
+1): $\mathrm { R T } \% = \left[ 1 - \frac { \mathrm { T o l e r a n c e } _ { \mathrm { c l o n e } } \textcircled { \varpi } \mathrm { s t r e s s f u l c o n d i t i o n } } { \mathrm { T o l e r a n c e } _ { \mathrm { r e f e r e n c e } } \mathrm { s t r a i n } \textcircled { \varpi } \mathrm { s t r e s s f u l c o n d i t i o n } } \right] \times 1 0 0 \ : ;$ （204其中Tolerance%= A600 % challenge，t-A60%calnge0A600 nochallenge，t-A6o0no challenge，t
+
+# 2定向进化策略筛选丁醇耐受菌株
+
+丁醇胁迫时，细菌改变多基因表达水平和多种生理生化指标以抵御丁醇毒害作用。 $E .$ coli耐受丁醇的功能基因尚未完全揭示，可通过定向进化策略筛选丁醇耐受菌株（表2)。通过诱变、基因组改组、适应性进化等可在基因组水平实现随机突变，通过表型筛选获得丁醇耐受菌株。经适应性进化和质子束照射筛选得到的突变株在 $0 . 9 \%$ （v/v）丁醇胁迫下细胞密度是对照菌的2.6倍，该菌编码膜蛋白的yqjA和yabI基因及转录调节因子rob 基因的顺式调控元件突变，导致这些基因的转录水平上调从而使菌株耐受丁醇[7]。构建E.coli的基因组文库，从中筛选得到9株丁醇耐受菌，这些突变株细胞膜上的环丙烷脂肪酸含量减少、不饱和脂肪酸的含量升高，细胞膜硬度增加[26]。用实时可视的适应性进化（Visualizingevolutioninreal time）和DNA改组技术筛选丁醇耐受菌，最佳突变株在 $2 \% ( \mathrm { v / v } )$ 丁醇中存活率增加了10－100倍，对其进行基因组测序和转录组分析，结果显示菌株细胞壁和细胞膜合成、铁离子转运和代谢相关基因的表达均有显著变化[14]。本实验室用易错PCR基因组改组技术筛选得到两株能耐受 $2 \%$ （v/v）丁醇的 $E$ （2号coli 突变株[27]。适应性进化能够使微生物在外源胁迫下沿着所需方向进化，但周期较长[28]。基因组改组和诱变育种则可极大地加快进化速度，提高微生物的变异率，效率较高。
+
+通过转录工程可引入全局转录扰动来获得多尺度细胞表型突变库，定向筛选丁醇耐受菌株。RNA聚合酶由 $a , \beta , \beta ^ { \prime } , \omega , \sigma .$ 亚基组成，其中 $\sigma$ 因子能够特异性地识别基因启动子的-35区和-10区，并激活转录过程的起始。 $E .$ coli的 $\sigma$ 因子调控1000多个基因的转录，它的突变能够在全局范围内影响受控基因的转录水平。E.coli的rpoD基因编码RNA聚合酶的 $\sigma ^ { 7 0 }$ 亚基，对rpoD基因进行两轮随机诱变构建rpoD 突变文库，筛选得到的突变株B8可耐受 $2 \%$ （v/v）的丁醇[28]；rpoA基因编码的RNA聚合酶 $\alpha$ 亚基可与转录因子互作、参与启动子的识别，运用易错PCR构建rpoA突变库，在 $0 . 9 \%$ （v/v）丁醇胁迫下筛选到的菌株在含 $0 . 7 5 \%$ 和 $0 . 9 \%$ （v/v）丁醇的培养基中细胞密度约为野生型菌株的2倍[29]。Lee 等[30]构建了由锌指DNA结合蛋白和cAMP受体蛋白（CRP）融合的人工转录因子文库，在丁醇培养基中定向筛选出的耐受菌株BT能够耐受 $1 . 5 \%$ （v/v）的丁醇。构建外源转录因子 $i r r E$ 基因的随机突变文库，在 $0 . 7 5 \%$ （v/v）丁醇条件下筛选到的突变株在 $0 . 1 2 5 \% - 0 . 8 7 5 \%$ （v/v）丁醇条件下的 $\mathrm { O D } _ { 6 0 0 }$ 为野生型菌株的2－6倍，
+
+$2 . 1 \%$ （v/v）丁醇休克实验表明其存活率是野生型的100倍[31]。
+
+通过基因组工程、转录工程等策略构建具备遗传多样性的突变文库，定向筛选具有丁醇耐受表型的突变株，确定决定该表型的基因，揭示突变株菌株丁醇耐受机制；进一步理性设计丁醇耐受基因在生物体中的表达[32]，实现“表型-基因型-表型”的反向代谢工程在E.coli耐受丁醇机制研究和菌株筛选中的应用。
+
+# 3组合策略获得丁醇耐受菌株
+
+通过转录工程筛选得到的菌株BT能耐受 $1 . 5 \%$ （v/v）丁醇[30]，转录组分析结果显示突变株胞内膜蛋白和代谢相关蛋白基因上调，未检测出脂肪酸合成相关基因的表达变化。以其为出发菌运用组合策略同时过表达脂肪酸合成基因以及铁离子转运蛋白合成基因feoA、流泵蛋白基因srpABC，获得的菌株能耐受 $2 \% ( \mathrm { v / v } )$ 的丁醇[16]（表2)。运用组合策略可以富集 $E .$ coli耐受丁醇的有益性状，进一步提高菌株丁醇耐受性。
+
+# 4化学修饰策略提高菌株丁醇耐受性
+
+丁醇导致微生物膜流动性增强是限制其丁醇耐受性提高的原因之一，将一种插膜分子COE1-5C（五环聚苯撑共轭寡电解质）固定在细胞的磷脂双分子层，能够降低磷脂的扩散率，同时增加菌株比生长速率，其在 $3 . 5 \%$ （v/v）丁醇条件下的比生长率为对照菌株的3倍。丁醇胁迫时COE1-5C的 $\pi$ -共轭芳香主链能充当甘油磷脂酰基链的疏水剂、对抗膜的流体化，增强脂双层完整性，并且还能减轻细胞的去极化现象。通过化学修饰提高微生物的丁醇耐受性是遗传修饰抗逆菌株的补充[33]。
+
+表2 定向进化、组合策略或化学修饰提高丁醇耐受性 Table 2 Improved butanol tolerance of $E$ .coli by directed evolution,combinatorial strategy or chemical modification approach   
+
+<html><body><table><tr><td>策略</td><td>方法</td><td>丁醇耐受性</td><td>文献</td></tr><tr><td>基因组工程</td><td>适应性进化和质子照射</td><td>0.9%（v/v）丁醇条件下细胞的最大OD60o从1.5提高 到4</td><td>[7]</td></tr><tr><td></td><td>构建基因组DNA文库</td><td>最大生长速率比对照菌株增加超过100%；0.9%和 1.1%（v/v）丁醇条件下最大OD60o分别增加62%和</td><td>[26]</td></tr><tr><td></td><td>适应性进化</td><td>13% 获得的菌株可耐受13g/L的丁醇</td><td>[34]</td></tr><tr><td></td><td></td><td>全基因组测序和功能鉴定发现acrA,gatY,tnaA,yhbJ</td><td></td></tr><tr><td></td><td>适应性进化</td><td></td><td>[35]</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">转录工程</td><td></td><td colspan="3">同时缺失这五个基因获得的突变株在6g/L丁醇下的</td></tr><tr><td>适应性培养</td><td>生长高于对照菌株</td><td>除可耐受辛酸外，还可耐受丁醇和异丁醇，在0.6%</td><td>[36]</td></tr><tr><td></td><td>（v/v）丁醇条件下的比生长速率比对照菌高15%</td><td></td><td></td></tr><tr><td>实时可视性进化和基因组改组技术</td><td>2%（v/v）丁醇存在下存活率增加10一100 倍</td><td></td><td>[15]</td></tr><tr><td>构建RNA聚合酶g7亚基突变文库</td><td>突变株B8可耐受2%（v/v）的丁醇</td><td></td><td>[28]</td></tr><tr><td>构建RNA聚合酶的α亚基突变文库</td><td>0.75%和0.9%（v/v）丁醇条件下的耐受性约为野生型</td><td></td><td>[29]</td></tr><tr><td></td><td>菌株2倍</td><td></td><td></td></tr><tr><td rowspan="8">组合策略</td><td>构建人工转录因子（ATFs）文库</td><td>筛选到的菌株BT 能够耐受1.5%（v/v）的丁醇</td><td></td><td>[30]</td></tr><tr><td>构建cAMP-CRP复合物，用ePCR和</td><td>筛选到的菌株能耐受1.5%(v/v）的丁醇,且具有热抵</td><td></td><td>[37]</td></tr><tr><td>DNA 改组技术获得突变文库</td><td>抗力的增加</td><td></td><td></td></tr><tr><td>构建外源转录因子irrE基因的随机突</td><td>对丁醇耐受性提高了10－100倍</td><td></td><td>[31]</td></tr><tr><td>变文库</td><td></td><td></td><td></td></tr><tr><td>构建人工转录因子文库（ATFs）并过</td><td>构建ATFs筛选到的菌株BT 能耐受1.5%(v/v)丁醇；</td><td></td><td>[16],[3</td></tr><tr><td>表达脂肪酸合成基因fabDx3和铁转运</td><td>过表达上述三类基因后在1/1.5/2%（v/v）丁醇条件下</td><td></td><td>0]</td></tr><tr><td>相关蛋白基因feoA</td><td></td><td></td><td></td></tr><tr><td rowspan="2">化学修饰</td><td></td><td>的生长提高了4/5/9 倍</td><td></td><td></td></tr><tr><td>固定插膜分子COE1-5C</td><td>3.5%（v/v）丁醇条件下比生长率从0.032 提高到</td><td></td><td>[33]</td></tr></table></body></html>
+
+# 5总结与展望
+
+E.coli作为细胞工厂可在其体内构建丁醇代谢途径，优化的工程菌株丁醇产量能与天然产丁醇菌株相媲美，达到 $2 0 \mathrm { g / L }$ （约 $2 . 4 7 \% ( \mathrm { v / v } ) )$ 。但是丁醇对细菌具有毒性，使生物丁醇的产量被限制在 $2 0 \mathrm { g / L }$ ，要打破这一瓶颈，筛选耐受高浓度丁醇的突变菌是获得高产菌株的前提。通过定向进化或组合策略等手段目前已经获得了可耐受 $2 \%$ （v/v）丁醇的 $E .$ .coli菌株。由于细菌耐受丁醇是多基因响应的复杂调节机制，目前尚未完全揭示，限制了突变株丁醇耐受性的进一步提高。解析细菌在转录及翻译水平的丁醇耐受机理、构建完整的丁醇胁迫应答网络；通过组合策略整合丁醇耐受基因的叠加表达效应获得高丁醇耐受性菌株。除了运用分子遗传学方法改造菌株外，通过理化方法也可外源调节发酵过程中细胞的生理生化功能来抵御丁醇胁迫，构建能耐受较高浓度丁醇的菌株。
+
+# 参考文献
+
+[1］王庆龙，刘莉，史吉平，等．丁醇基因在大肠杆菌中表达的现状与展望．中国生物工程杂志，2014，34（06)：90－97.
+
+Wang QL, Liu L, Shi JP, et al. Current status and prospects of the expression of butanol pathway in Escherichia coli. China Biotechnology,2014, 34(06): 90 - 97.   
+[2] 刘娅，刘宏娟，张建安，等．新型生物燃料—一丁醇的研究进展．现代化工， 2008，28（06): $2 8 - 3 1 + 3 3$ ： Liu Y, Liu HJ, Zhang JA, et al. Research progress in new biofuel butanol. Modern Chemical Industry, 2008, 28(06): 28 -31+33.   
+[3] Jiang Y, Liu J， Jiang W, et al. Current status and prospects of industrial bio-production of n-butanol in China. Biotechnol adv,2015, 33(7): 1495 -1501.   
+[4] Dong H, Zhao C, Zhang T, et al. Engineering Escherichia coli cell factories for n-butanol production. Adv Biochem Eng Biotechnol, 2016,155: 141-163.   
+[5] Liu S, Qureshi N, Hughes SR. Progress and perspectives on improving butanol tolerance. World J Microbiol Biotechnol, 2017, 33(3): 51.   
+[6] 戴宗杰，董红军，朱岩，等．生物丁醇代谢工程的研究进展．生物加工过程， 2013，11(02): 58-64. Dai ZJ, Dong HJ, Zhu Y, et al. Metabolic engineering for biobutanol production: a review. Chinese Journal of Bioprocess Engineering, 2013, 11(02): 58- 64.   
+[7] Jeong H, Lee SW, Kim SH, et al. Global functional analysis of butanol-sensitive Escherichia coli and its evolved butanol-tolerant strain. J Microbiol Biotechnol, 2017, 27(6): 1171 - 1179.   
+[8] Shen CR,Lan EI, Dekishima Y, et al. Driving forces enable high-titer anaerobic 1-butanol synthesis in Escherichia coli. Appl Environ Microbiol, 2011,77(9): 2905 - 2915.   
+[9] Ohtake T，Pontrelli S,Lavina WA，et al. Metabolomics-driven approach to solving a CoA imbalance for improved 1-butanol production in Escherichia coli. Meta Eng, 2017, 41: 135 -143.   
+[10]Dong H, Zhao C, Zhang T, et al. A systematically chromosomally engineered Escherichia coli efficiently produces butanol. Meta Eng, 2017, 44: 284 - 292.   
+[11] Jang YS, Lee SY. Recent advances in biobutanol production. Industrial biotechnol, 2015,11(6): 316 - 321.   
+[12]Knoshau EP, Zhang M, Butanol tolerance in a selection of microorganisms. Appl Biochem Bioyechnol, 2009,153(1-3): 13 - 20.   
+[13]Rau MH, Calero P, Lennen RM, et al. Genome-wide Escherichia coli stress response and improved tolerance towards industrially relevant chemicals.Microb Cell Fact, 2016,15(1): 176.   
+[14]Sandoval NR, Papoutsakis ET. Engineering membrane and cell-wall programs for tolerance to toxic chemicals: Beyond solo genes. Curr opin microbial, 2016, 33: 56-66.   
+[15]Reyes LH,Almario MP, Winkler J,et al. Visualizing evolution in real time to determine the molecular mechanisms of n-butanol tolerance in Escherichia coli. Meta Eng, 2012,14(5): 579 - 590.   
+[16]Bui LM, Lee JY, Geraldi A, et al. Improved n-butanol tolerance in Escherichia coli by controlling membrane related functions. JBiotechnol, 2015, 204: 33 - 44.   
+[17]Tan Z, Yoon JM, Nielsen DR, et al. Membrane engineering via trans unsaturated fatty acids production improves Escherichia coli robustness and production of biorenewables. Meta Eng,2016,35: 105 -113.   
+[18]Fisher MA,Boyarskiy S, Yamada MR, et al. Enhancing tolerance to short-chain alcohols by engineering the Escherichia coli AcrB efflux pump to secrete the non-native substrate n-butanol. ACS Synth Biol, 2014, 3(1): 30 - 40.   
+[19]Boyarskiy S, L6pez SD,Kong N,et al. Transcriptional feedback regulation of efflux protein expression for increased tolerance to and production of n-butanol. Meta Eng,2016,33(1): 130- 137.   
+[20]冯言，刘马峰，程安春．革兰氏阴性菌亚铁离子转运系统的组成及作用机 制．微生物学报，2016，56（7)：1061－1069. Feng Y, Liu MF, Cheng AC. Component and functional mechanism of the ferrous iron acquisition system in gram-negative bacteria - A review. Acta Microbiologica Sinica,2016, 56(7): 1061-1069.   
+[21]Abdelaal AS,Ageez AM,Abd EI-Hadi AE,et al. Genetic improvement of n-butanol tolerance in Escherichia coli by heterologous overexpression of groESL operon from Clostridium acetobutylicum. 3 Biotech, 2015, 5(4): 401 - 410.   
+[22]Zingaro KA, Papoutsakis ET. GroESL overexpression imparts Escherichia coli tolerance to i-, n-,and 2-butanol, 1,2,4-butanetriol and ethanol with complex and unpredictable patterns. Meta Eng, 2013,15(1): 196 - 205.   
+[23]Zingaro KA, Papoutsakis ET. Toward a semisynthetic stress response system to engineer microbial solvent tolerance. MBio, 2012, 3(5): e00308 - 12.   
+[24]Jones DP: Radical-free biology of oxidative stress. Am J Physiol Cell Physiol, 2008, 295(4):C849 - C868.   
+[25]Chin WC, Lin KH, Chang JJ,et al. Improvement of n-butanol tolerance in Escherichia coli by membrane-targeted tilapia metallothionein. Biotechnol Biofuels,2013, 6(1): 130.   
+[26]Freedman BG, Zu TN, Wallace RS, et al. Raman spectroscopy detects phenotypic differences among Escherichia coli enriched for 1-butanol tolerance using a metagenomic DNA library. Biotechnol J, 2016,11(7): 877 - 889.   
+[27]Zhang JY, Xue TL, He XT, et al. Screening butanol tolerant Escherichia coli by using error-prone PCR whole genome shuffling//Deng ZX, The 13th international symposium on the genetics of industrial microorganism. Wuhan, China: Deng ZX, 2016:313.   
+[28]Si HM, Zhang F, Wu AN, et al. DNA microarray of global transcription factor mutant reveals membrane-related proteins involved in n-butanol tolerance in Escherichia coli. Biotechnol Biofuels, 2016, 9(1): 114.   
+[29]Klein-Marcuschamer D, Santos CN, Yu H, et al. Mutagenesis of the bacterial RNA polymerase alpha subunit for improvement of complex phenotypes. Appl Environ Microbiol, 2009, 75(9): 2705 - 2711.   
+[30]Lee JY, Yang KS, Jang SA, et al. Engineering butanol-tolerance in Escherichia coli with artificial transcription factor libraries. Biotechnol Bioeng, 2011,108(4): 742 - 749.   
+[31]Chen T, Wang J, Yang R, et al. Laboratory-evolved mutants of an exogenous global regulator, IrrE from Deinococcus radiodurans, enhance stress tolerances of Escherichia coli. Plos one, 2011, 6(1): e16228.   
+[32]周筱飞，陈婷婷，田野，等．反向代谢工程研究进展．台湾农业探索，2015, 01: 73-79. Zhou XF, Chen TT, Tian Y, et al. Advances on inverse metabolic enginering. Taiwan Agricultural Research, 2015, 01: 73 - 79.   
+[33]Hinks J, Wang Y, Matysik A,et al. Increased microbial butanol tolerance by exogenous membrane insertion molecules. ChemSusChem, 2015,8(21): 3718 - 3726.   
+[34]Zhu L, Cai Z, Zhang Y, et al. Engineering stress tolerance of Escherichia coli by stress-induced mutagenesis (SIM)-based adaptive evolution. Biotechnol J, 2014, 9(1): 120 - 127.   
+[35]Atsumi S,Wu TY, Machado IM， et al. Evolution， genomic analysis,and reconstruction of isobutanol tolerance in Escherichia coli. Mol Syst Biol, 2010, 21(6): 449.   
+[36]Royce LA， Yoon JM, Chen Y, et al. Evolution for exogenous octanoic acid tolerance improves carboxylic acid production and membrane integrity. Meta Eng, 2015,29: 180 -188.   
+[37]Zhang H, Chong H, Ching CB,et al. Engineering global transcription factor cyclic AMP receptor protein of Escherichia coli for improved 1-butanol tolerance. Appl Microbiol Biotechnol, 2012, 94(4): 1107 -1117.

@@ -1,0 +1,151 @@
+# 外源褪黑素对小麦幼苗生理及光合荧光特性的影响
+
+褚晶，田晓芹，陈世华，郭善利\*（烟台大学 生命科学学院，山东 烟台 264000）
+
+摘要：为探讨不同浓度外源褪黑素对小麦幼苗生理及光合荧光特性的影响，以良星99为供试材料，测定了不同浓度褪黑素处理下小麦幼苗生长形态、光合及荧光参数以及抗氧化酶活性等关键指标。结果表明：（1） $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 的褪黑素显著提高了小麦植株的光合能力，叶绿素Chla、Chlb和 $\operatorname { C h l } \left( { \mathsf { a } } { + } { \mathsf { b } } \right)$ 以及叶绿素荧光参数调节性能量耗散的量子产额 $Y ( N P Q )$ 、表观光合传递速率（ETR）和非光化学淬灭（NPQ）均在褪黑素浓度为 $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 时达到增加最大值；PSⅡI最大光合效率（ $. F \nu / F m )$ ）、最大光能转化潜力（ $. F \nu / F o )$ ）随褪黑素浓度升高逐渐降低；光化学淬灭（qL）随褪黑素浓度增加先下降后上升。（2）与CK（ $0 \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ ）相比低浓度褪黑素显著降低小麦根和叶中过氧化物酶(POD）及小麦叶中过氧化氢酶（CAT)的活性，高浓度褪黑素显著增加了小麦POD 的活性；小麦根中丙二醛（MDA）含量随褪黑素浓度的增加先下降后上升。研究表明适量褪黑素处理可促进小麦的生长，使小麦光合能力维持在较高水平，并通过POD和CAT调节不同褪黑素处理引起的氧化应激。该研究为进一步深入了解褪黑素在小麦中的调控作用机制奠定了基础。
+
+关键词：褪黑素，小麦，叶绿素，叶绿素荧光，光合特性，生理中图分类号：Q945 文献标识码：A 文章编号：202111059
+
+# Effects of exogenous melatonin on physiological and photosynthetic characteristics of wheat seedings
+
+CHU Jing, TIAN Xiaoqin, CHEN Shihua, GUO Shanli \* (College of Life Sciences, Yantai University,Yantai 264ooo, Shandong, China)
+
+Abstract: To explore the effects of different concentrations of melatonin on physiological and photosynthetic fluorescence characteristics of wheat seedlings. The growth morphology, photosynthetic, fluorescence parameters and antioxidant enzyme activity of wheat seedings treated with different concentrations of melatonin were determined by using Liangxing 99 as experimental material. The results were as follows:（1) $0 . 1 \ \mathrm { \ \ \mu m o l { \cdot } L ^ { - 1 } }$ melatonin significantly increased the photosynthetic capacity of wheat plants, Chlorophylla (Chl a), Chlorophyll b(Chl b) and Chlorophyll $( a + b )$ [Chl $\left( { \mathsf { a } } { + } { \mathsf { b } } \right) ]$ increased to the maximum value when melatonin concentration was $0 . 1 \ \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ . Chlorophyll fluorescence parameters include parameters of quantum yield of regulated energy dissipation $Y \left( N P Q \right)$ ， the electron transport rate $( E T R )$ and non photochemical quenching $( N P Q )$ also reaches the maximum at $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ . The PS II maximum photosynthetic efficiency $( F \nu / F m )$ and maximum photochemical conversion potential $( F \nu / F o )$ decreased with the increase of melatonin concentratio. Photochemical quenching $( q L )$ decreased first and then increased with the increase of melatonin. (2) Compared with CK $( 0 \ \mu \mathrm { m o l \cdot L ^ { - 1 } } )$ ，low melatonin concentration significantly decreased peroxidase (POD) activity in wheat and decreased catalase (CAT) activity in wheat leaves, high melatonin concentration significantly increased POD activity in wheat. Low concentration of melatonin treatment significantly reduced the catalase (CAT) activity in wheat leaves by compared with CK.The content of malondialdehyde (MDA) in wheat roots decreased firstly and then increased with the increase of melatonin concentration.In conclusion, it suggested that appropriate melatonin treatment can promote the growth of wheat and maintain the photosynthetic capacity of wheat at a high level. Enzymes including POD and CAT can also regulate oxidative stress induced by different concentrations of melatonin in wheat seedlings. This study laid a foundation for further understanding the regulatory mechanism of melatonin in wheat.
+
+Key words: Exogenous melatonin,wheat, chlorophyll, chlorophyll fluorescence, photosynthetic characteristics, physiology
+
+小麦是世界上主要粮食作物之一。环境的改变包括高温、盐和重金属等非生物胁迫对小麦的生长和产量造成了很大的影响（Trethowan&Mujeeb-Kazi,2008）。因此，提高小麦对各种环境胁迫的耐受性是世界种植小麦急需解决的问题之一（Kaya etal.,2019）。
+
+化学调控技术是通过外源施加植物生长调节物质来调节作物生长发育、增加产量及改善品质的一种有效方法（吴琼等，2020）。褪黑素作为一种植物激素在高等植物中广泛存在，并参与调控植物的生长发育过程（Murch etal.,2001；庄维兵等，2018）。Hermandez-Rui 首次提出褪黑素可能是一种植物调节剂，并与IAA共同参与植物生理反应（Hermandez-Ruiz etal.,2004;Hernandez-Ruiz&Amao,2010）。研究表明褪黑素具有多种生理活性，包括防止叶绿素降解，调节光周期，清除羟基自由基及过氧化氢，提高抗氧化酶活性及抗氧化物质的含量，降低膜质过氧化水平，保护脂膜的完整性，减少电解质的外渗等（Kola etal.,1997;Lei etal.,2004;Reiter etal.,2010；徐向东等，2010）。外源施加褪黑素提高了大豆、玉米、水稻在盐、干旱、重金属等非生物胁迫下的耐受性（Wei etal.,2014；黄益宗等，2018；杜卓等，2020），同时，外源施加褪黑素提高了小麦对镉的耐受性（Ni etal.,2018）。近年来，褪黑素对植物生长、生理指标、光合及叶绿素荧光的影响等方面的研究不断增加，Amao 和Hemandez-Ruiz（2007）等对羽扇豆的研究发现褪黑素可以改变其不定根和侧根的分布、长度和数量；Ni等（2018）研究证明低浓度褪黑素处理促进小麦生长，高浓度褪黑素处理则抑制小麦的生长；陈忠诚等（2021）在红小豆中也发现了相同的调控效应，且不同浓度褪黑素处理增加了红小豆各时期光合色素的含量；张海文（2020）对油松苗木的研究中发现，外源褪黑素增加了其抗氧化酶的活性及可溶性蛋白含量。
+
+前人研究表明，适当施加一定浓度的褪黑素可以显著提高包括小麦在内一些作物和林木的生长，但过高浓度的外源褪黑素供给反而不利于这些植株的生长。然而，外源褪黑素对小麦生理及光合表现以及生长表现的影响还未见报道。因此，本研究对不同浓度褪黑素施加条件下小麦的生长形态、抗氧化酶活性等生理指标、光合及叶绿素荧光参数等关键指标进行了测定，初步阐明了褪黑素对小麦生理及光合荧光特性的调控效应，为实际生产中通过灌溉外源褪黑素提高小麦对各种环境胁迫的耐受性提供理论指导。
+
+# 1材料与方法
+
+# 1.1供试材料
+
+选用种子饱满度好、黑胚率低，且具有较好的抗病、抗寒和抗倒伏等特性的小麦品种良星99作为实验材料（晁林海等，2014）。
+
+# 1.2 实验设计
+
+实验采用水培方式培养小麦，水培容器为96孔黑色避光水培盒（ $1 2 7 \ \mathrm { m m } \times 8 7 \ \mathrm { m m } \times 1 1 4$ mm），根据不同褪黑素浓度梯度共设置六个水培盒，每个水培盒内加入不同浓度的褪黑素处理液 $9 0 0 ~ \mathrm { m L }$ 。褪黑素采购于索莱宝生物科技有限公司。
+
+选取大小一致的小麦种子， $7 5 \%$ 酒精消毒 $1 { \sim } 2 \mathrm { m i n }$ ，自来水冲洗3\~5次。将消毒后的小麦种子放到铺有6层含有足够水分滤纸的泡沫盒， $2 3 ^ { \circ } \mathrm { C }$ 黑暗条件下萌发 $3 6 \mathrm { h }$ 。选取小麦芽长$5 \mathrm { m m }$ 左右的种子移到含有不同浓度梯度褪黑素的水培盒，标记其褪黑素浓度分别为0、0.1、$1 \setminus 1 0 \setminus 1 0 0 \setminus 2 0 0 { \mu \mathrm { m o l } } { \cdot } \mathrm { L } ^ { - 1 }$ ，以褪黑素浓度 $0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 作为对照组（CK）。将其置于室温 $2 3 ^ { \circ } \mathrm { C }$ ，光周期为 $1 6 \mathrm { h }$ 的育苗室培养，每隔2d换一次处理液。每天记录小麦叶和根的长度，生长一周后选取每个处理浓度下长势一致的样品待测。
+
+# 1.3测定项目及方法
+
+# 1.3.1小麦干、鲜重测量
+
+生长一周后，分别从含有不同处理浓度褪黑素的水培盒中随机选取六株小麦幼苗。将小麦幼苗分解为小麦叶和小麦根，吸干根部表面水分，将不同浓度处理下的小麦叶和根分别放入已经称量过重量的空瓶中，并做好标记。称量每个瓶的总重量，小麦鲜重 $\underline { { \underline { { \mathbf { \Pi } } } } } =$ 总重量-空瓶重量（g）。随后将装有小麦叶和小麦根的瓶放入 $7 0 ^ { \circ } \mathrm { C }$ 烘箱中烘干至恒重，称量总重，小麦干重 $\underline { { \underline { { \mathbf { \Pi } } } } } = \underline { { \underline { { \mathbf { \Pi } } } } }$ 总重量-空瓶重量（g），每组处理重复三次。
+
+# 1.3.2叶绿素含量测定
+
+叶绿素浸提液组成为丙酮：无水乙醇：蒸馏水 $= 4 . 5 \colon 4 . 5 \colon 1$ ，分别称取 $0 . 1 \ \mathrm { g }$ 叶片剪碎加入 $1 0 ~ \mathrm { m L }$ 浸提液，封口后置于黑暗条件下浸提至叶片变为白色，使用分光光度计法（崔勤等，2006）测定叶绿素含量，每组处理重复三次。
+
+# 1.3.3叶绿素荧光参数测定
+
+选择褪黑素不同处理浓度下的代表性小麦叶片，置于黑暗条件下暗适应 $3 0 \ \mathrm { m i n }$ ，使用叶绿素荧光仪IMAGING-PAM测定叶绿素荧光参数。暗适应之后，通过打开饱和脉冲光，测定暗荧光产额 $( F o )$ 、最大荧光产额（ ${ \mathrm { \Omega } } ^ { \prime } F m$ ）和荧光产额 $( F )$ ，并计算叶片的最大光合效率（ $\left( F \nu / F m \right)$ ： $\left( F \nu / F m \right) = \left( F m \ – F o \right) \ / F m$ ，PSII实际光合效率 $Y \ ( \ I I ) \ : \ Y \ ( \ I I ) = ( F m ^ { * } -$ （20$F$ ）/Fm。照光一段时间后，测定光下最大荧光产额（ $( F m ^ { \prime } )$ ， $F m$ 对光下最小荧光产额（ $F$ $\mathbf { \chi } _ { o ^ { \dagger } }$ ）的淬灭机制与 $F m$ 对 $F o$ 的淬灭机制相同，因此可以通过 $F m$ 的测定估算 $F o ^ { ; }$ ，如下： $F$ $\scriptstyle { o ^ { \prime } = F o / }$ ? $\left( F \nu / F m + F o / F m ^ { , } \right)$ ，计算最大光能转化潜力（ $\cdot F \nu / F o )$ ： $\begin{array} { r } { \left( F \nu / F o \right) = \left( F \nu / F m \right) } \end{array}$ /(1-$F \nu / F m )$ ），非光化学淬灭（Nonphotochemicalquenching，NPQ）： $N P Q { = } ~ ( F m { - } F m ^ { \circ } ) ~ / F m ^ { \circ } $ ，光化学淬灭系数（Photochemical quenching，q $L ) ~ : ~ q L \mathrm { = } ~ ( F m ^ { \mathrm { \tiny ~ , } } F ) ~ / ~ ( F m ^ { \mathrm { \tiny ~ , } } F o ^ { \mathrm { \tiny ~ , } } ) ~ \times F o ^ { \mathrm { \tiny ~ , } } / F$ ，调节性能量耗散的量子产额Y（l $\lor P Q ) : Y ( N P Q ) = 1 - Y ( J I ) - 1 / ( N P Q + 1 + q L ( F r Q$ n/Fo-1）），非调节性能量耗散的量子产额 $Y ~ \left( N O \right) ~ : ~ Y ~ \left( N O \right) = 1 / ~ \left( N P Q + 1 + q L ~ \left( F m / F o - 1 \right) ~ \right)$ ）和表观光合传递速率（Electron transport rate， $E T R$ ），每组处理重复三次。
+
+# 1.3.4抗氧化酶活性测定
+
+取生长一周不同处理浓度下的小麦新鲜叶片和根剪碎，称取 $0 . 2 5 \ \mathrm { g }$ 样品放入研钵中，加入 $6 \mathrm { m L }$ 磷酸缓冲液 $\cdot 0 . 0 5 \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ， $\mathrm { P H } { = } 7 . 8$ ），冰浴研磨成浆，转入离心管中冷冻离心（ $\mathrm { 4 ^ { \circ } C }$ ，$4 0 0 0 \mathrm { r p m { \cdot } m i n ^ { - 1 } }$ ） $2 0 \mathrm { m i n }$ ，取上清液 $4 ^ { \circ } \mathrm { C }$ 保存备用。超氧化物歧化酶（superoxidedismutase,SOD）活性测定采用氮蓝四唑还原法测定，过氧化物酶（peroxidase，POD）的活性采用愈创木酚法测定，过氧化氢酶（catalase，CAT）酶活采用分光光度计方法测定（陈建勋和王晓峰，2006），每组处理重复三次。
+
+# 1.3.5生理指标测定
+
+丙二醛（Malondialdehyde，MDA）含量采用硫代巴比妥酸法测定（陈建勋和王晓峰，2006），可溶性蛋白（Soluble protein，SP）含量采用考马斯亮蓝法测定（高俊凤，2006），每组处理重复三次。
+
+# 1.4数据分析
+
+利用 Microsoft Excel 2016 对原始数据进行整理，采用 Origin 8.5 和Graphpad prism 8 软件进行方差分析和显著性检验。
+
+# 2结果与分析
+
+# 2.1褪黑素对小麦叶和根生长指标的影响
+
+对不同浓度褪黑素处理下的小麦根长、叶片长度、干鲜重等指标进行测定，结果表明（图1），褪黑素对小麦的形态建成具有调节作用，随着褪黑素浓度的升高，小麦叶和根的长度及干鲜重等生长指标均呈现先上升后下降的趋势。当褪黑素浓度达到 $1 \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 时，其对小麦生长的促进效果最为明显，其中， $1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 褪黑素处理小麦四天后，处理组的根长较CK增加 $1 7 . 3 \%$ ，叶片长度较CK 增加 $2 \%$ ; $1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 褪黑素处理小麦一周后处理组的根长较CK增加 $2 1 . 6 \%$ ，根部干鲜重较CK比分别增加了 $2 1 . 3 \%$ 和 $24 \%$ ，叶片长度较CK增加 $6 . 4 \%$ 叶片干鲜重较CK相比分别增加了 $2 0 . 5 \%$ 和 $3 . 5 \%$ 。随着褪黑素处理浓度的增加，处理组小麦的生长指标逐渐降低，褪黑素浓度达到 $2 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 时，处理组小麦的各项生长指标在两个时间点均低于CK。总体而言，褪黑素处理对小麦叶和根生长的影响趋势一致，但褪黑素对小麦根长和鲜重的影响变化较叶片的变化更为显著。
+
+![](images/3daefeafd3f15e1423e9f5e9f0fb41e30bd4b2e883d43e12bc89d5fb20ab2bf5.jpg)  
+图1不同浓度褪黑素处理对小麦幼苗生长指标的影响
+
+Fig.1 Effects of different concentrations of melatonin on growth indexes of wheat seedlings不同小写字母表示不同处理间差异达0.05 显著水平。下同。
+
+Different lowercase letters indicate significant differences among different treatments( $\scriptstyle \overbrace { P < 0 . 0 5 } )$ .Similarly ereinafter.
+
+# 2.2不同浓度褪黑素对小麦叶绿素含量的影响
+
+叶片叶绿素含量与植株光合速率以及营养状况密切相关，因此，本研究对褪黑素处理下小麦叶片的叶绿素含量进行了测定。由表1可知，随着褪黑素浓度的增加，叶绿素a（Chlorophylla，Chla）、叶绿素b（Chlorophyllb，Chlb）和叶绿素（ $\cdot a + b$ ）[Chlorophyll $( \mathsf { a } + \mathsf { b } )$ ，$\operatorname { C h l } \left( \mathsf { a } + \mathsf { b } \right) ]$ 整体上呈现先上升后下降至趋于稳定的趋势，其中，当褪黑素浓度达到 $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 时，其三项指标增加最为显著，较CK分别增加 $20 . 5 \%$ 、 $1 5 . 7 \%$ 和 $1 8 . 7 \%$ ；当褪黑素浓度达到 $1 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ 时叶绿素（ $\mathbf { \bar { a } } / \mathbf { b } ^ { \mathbf { \eta } } .$ ）[Chlorophyll $( \mathbf { a } / \mathbf { b } )$ ， $\operatorname { C h l } \left( \mathrm { a / b } \right) ]$ 增加最为显著，与CK相比增加$5 3 . 3 \%$ 。而高浓度褪黑素处理时，小麦叶绿素各项指标并无明显变化。表明较低浓度的褪黑素处理小麦可使其叶片叶绿素含量维持在较高水平，并在一定程度上缓解叶绿素的降解。
+
+表1不同浓度褪黑素对小麦叶片叶绿素含量的影响  
+Table 1Effects of diferent concentrations of melatonin on chlorophyll content in wheat leaves   
+
+<html><body><table><tr><td>褪黑素处理 Melatonin concentration</td><td>叶绿素a Chl a (mg·g1)</td><td>叶绿素b Chl b</td><td>叶绿素(a+b) Chl (a+b)</td><td>叶绿素(a/b) Chl (a/b)</td></tr><tr><td>(μmol·L-1) 0</td><td>1.76±0.011c</td><td>(mg·g-1) 0.53±0.003b</td><td>（mg·g1） 2.30±0.014c</td><td>(mg·g1) 3.32±0.006bd</td></tr><tr><td>0.1</td><td>2.12±0.015a</td><td>0.61±0.004a</td><td>2.73±0.019a</td><td>3.49±0.005b</td></tr><tr><td>1</td><td>1.76±0.007c</td><td>0.50±0.004c</td><td>2.26±0.010cd</td><td>3.56±0.023b</td></tr><tr><td>10</td><td>2.00±0.010b</td><td>0.40±0.014d</td><td>2.39±0.021b</td><td>5.09±0.167a</td></tr></table></body></html>
+
+<html><body><table><tr><td>100</td><td>1.70±0.010d</td><td>0.50±0.010c</td><td>2.20±0.020e</td><td>3.42±0.048b</td></tr><tr><td>200</td><td>1.70±0.004d</td><td>0.54±0.002b</td><td>2.23±0.005de</td><td>3.17±0.015cd</td></tr></table></body></html>
+
+![](images/70ae1f8e31d8b35609685449c09a478303f143e683189746cf204fd0b32019f3.jpg)  
+2.3不同浓度褪黑素对小麦叶绿素荧光参数的影响  
+图2不同浓度褪黑素处理对小麦幼苗 $F \nu / F m$ 、 $F \nu / F o$ 、 $Y ( ~ I I )$ 及 $Y ( N O )$ 的影响Fig.2Effects of different concentrations of melatonin on $F \nu / F m$ 、 $F \nu / F o$ 、 $Y ( ~ I I )$ and $Y ( N O )$ ofwheat seedlings
+
+叶绿素荧光参数可以反映植物叶片光合作用过程中的变化，为了进一步了解外源褪黑素处理对小麦光合作用的影响，使用调制叶绿素荧光仪对不同处理下小麦叶绿素荧光参数进行测定，结果表明（图2）：随着褪黑素浓度的增加， $F \nu / F m$ 逐渐下降，各处理间无显著性差异，当褪黑素浓度达到 $2 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 时，与CK相比， $F \nu / F m$ 显著下降，表明较低浓度褪黑素处理并未引起小麦幼苗叶片光化学效率的改变，直到浓度增加到 $2 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，褪黑素抑制小麦幼苗光化学效率。 $F \nu / F o$ （图2：B）的变化趋势与 $F \nu / F m$ 一致，高浓度褪黑素处理抑制小麦幼苗最大光能转化潜力。不同浓度褪黑素并未引起 $Y ( I I )$ 和 $Y ( N O )$ 的变化，各处理间无显著性差异（图2：C，图2：D），表明不同浓度褪黑素对PSⅡ实际光合效率和非调节性能量耗散的量子产额无显著影响。另外，随着褪黑素处理浓度的增加， $Y ( N P Q )$ 、ETR和NPQ的变化趋势整体上基本一致（图3），当褪黑素浓度达到 $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 时，其三项指标达到最大值，与CK相比分别增加 $20 \%$ 、 $3 6 . 9 \%$ 和 $20 \%$ ，其他处理间则无显著性差异。表明不同浓度褪黑素处理使小麦幼苗有能力通过自身的调节机制耗散掉过剩的光能而自我保护。由图3：D可知，随着褪黑素浓度增加，qL先下降后升高，但各处理与CK相比无显著性差异，表明不同浓度褪黑素处理小麦幼苗，其光合活性均维持在与CK同一水平。
+
+![](images/909d51b9895b1c5c14c7bb155d003a3125b731f0ae56759a4cf672bead282fe0.jpg)  
+图3不同浓度褪黑素处理对小麦幼苗 $Y ( N P Q )$ 、 $E T R$ 、NPQ及 $q L$ 的影响Fig. 3 Effects of different concentrations of melatonin on $Y ( N P Q )$ 、ETR、NPQ and $q L$ of wheatseedlings
+
+# 2.4褪黑素对小麦抗氧化酶活性和生理指标的影响
+
+为了研究不同浓度褪黑素对小麦抗氧化酶活性和生理指标的影响，分别测定了POD、CAT、SOD的酶活（图4）以及MDA和SP等生理指标（图5）。随着褪黑素浓度的升高，小麦叶和根中POD活性的变化趋势基本一致，均呈现先降低后升高的趋势，与CK相比低浓度褪黑素处理显著降低了小麦POD 的活性，高浓度褪黑素处理显著增加了小麦POD 活性（图4：A）。与CK相比，小麦根CAT活性并未随褪黑素处理浓度的增加而显著变化，表明不同浓度褪黑素对小麦根部CAT的活性无显著影响，然而，除 $1 0 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ 褪黑素处理外，其余浓度的褪黑素处理均显著降低了小麦叶CAT的活性（图4：B）。除此之外，小麦根和叶中SOD活性在各组处理间均无明显变化，推测对小麦施加不同浓度褪黑素处理后产生的氧化应激主要是由POD和CAT调节而与SOD关系不大。
+
+MDA含量一定程度上反映了植株在环境变化过程中所受的膜损伤程度。本研究中，小麦根中MDA含量随褪黑素浓度的增加呈先下降而后上升的趋势，低浓度褪黑素处理 MDA含量降低，高浓度褪黑素处理MDA含量上升，但各处理组中小麦叶片MDA的含量变化则无显著差异，表明小麦根MDA含量对不同浓度褪黑素处理比较敏感。不同浓度褪黑素处理后，小麦根中SP含量无显著变化。当褪黑素浓度为 $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 时，小麦叶中 SP 含量显著降低，其他浓度处理则无显著变化，表明不同浓度褪黑素处理对小麦可溶性蛋白影响不大。
+
+![](images/9eed805b7525ce0e1bddcd4d351acc35f57e91181c4a76c5ed7f496f452e2a88.jpg)  
+图4不同浓度褪黑素处理对小麦抗氧化酶活性的影响  
+Fig.4 Effects of different concentrations o f melatonin on the activity of antioxidant enzymes in wheat seedings   
+图5不同浓度褪黑素处理对小麦生理指标的影响  
+Fig.5Effects of different concentrations of melatonin on physiological indexes of wheat seedings
+
+# 3讨论与结论
+
+到目前为止，关于褪黑素对植物影响的研究主要集中在植物的地上部分，但也有研究表明褪黑素对根系的生长也有显著的影响。Hemandez-Ruiz等（2005）发现褪黑素对单子叶植物根生长的抑制作用与IAA相似；Chen等（2009）研究表明外源施加褪黑素可以促进荠菜根系的生长；Sarropoulou等（2012）报道了褪黑素可以促进樱桃砧木根系的再生；习林杰等（2019）研究发现外源施加褪黑素抑制生菜根系的生长，但并未发现可以促进生菜根系生长的条件。根的生长发育与各种激素之间的调控作用密不可分，通过上述前人的研究发现，褪黑素作为一种植物激素与植物根系的生长发育息息相关，既可以呈现正向调控也可以呈现负向调控。本研究发现，褪黑素对小麦的生长调控呈现低浓度促进，高浓度抑制的现象。虽然小麦根和叶在不同浓度褪黑素处理下生长总体趋势一致，但褪黑素对小麦根的影响远大于对叶的影响，这可能是因为根系是小麦吸收水分和养分最主要的器官，水培的方式使褪黑素对根系的影响大于叶。因此，使用褪黑素对小麦进行处理时，喷施时的浓度可以适当提高，而灌根或者水培时则应该使用较低浓度的褪黑素。
+
+叶绿素荧光技术是一种快速便捷且对植物无损伤用来检测植物光合效应的理想技术（杨馥霞等，2021）。Wang等（2016）发现， $5 0 \sim 1 5 0 ~ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ 褪黑素缓解了盐胁迫下黄瓜叶片叶绿素含量的降解，并降低了PSⅡ电子传递下降速率，显著提升了黄瓜的光合能力进而促进了黄瓜生长发育。Yang 等（2018）发现， $1 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 褪黑素可提高 PSI 和 PSI光化学的电子传递速率和量子产率，显著提升番茄光合能力。尽管褪黑素对植物光合能力的影响在黄瓜、番茄等多种物种中均已被验证，但褪黑素对小麦光合能力是否有影响还未见报道。因此为了探究不同浓度褪黑素对小麦叶光合生理的影响，本研究利用叶绿素荧光仪IMAGING-PAM 测定了 $F \nu / F m$ 、qL、 $Y ( I I )$ 等荧光参数以及叶绿素含量。结果表明不同浓度褪黑素处理下qL、 $Y ( ~ I I )$ 并未有显著变化，只有 $F \nu / F m$ 在褪黑素浓度达到 $2 0 0 \mu \mathrm { m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 时与CK相比下降 $4 . 4 \%$ ，变化不大，这与黄瓜中的研究（徐向东等，2010）结果一致。 $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 外源褪黑素处理提高了小麦叶片的NPQ 及 $E T R$ ，说明褪黑素处理能提高光能利用效率和电子传递能力，增强了小麦植株叶片潜在光合能力。叶绿素是植物光合作用中必不可少的色素，植物叶片受到伤害时，叶绿素是植物进行光合作用的色素分子。研究表明在盐、干旱、高温等非生物胁迫下，植物中叶绿素极易降解，并且使叶绿素的合成受到影响，从而导致植物的叶绿素含量明显下降进而影响光合作用（徐向东等，2010；叶君等，2015；吴雪霞等，2017;李阳等 2021）。已有研究表明，外源褪黑素处理可以提高植物的叶绿素含量（史中飞等，2019）。本研究表明， $0 . 1 \ \mu \mathrm { m o l } \cdot \mathrm { L } ^ { - 1 }$ 褪黑素处理显著提高了小麦叶片中Chla和Chlb的含量，较CK分别提高了 $2 0 . 5 \%$ 和 $1 5 . 7 \%$ ，这与前人的研究结果基本一致。但随着处理浓度的升高，小麦叶片中Chla、Chlb 和 $\mathrm { C h l \left( a + b \right) }$ 的含量均呈下降趋势， $1 0 0 \ \mathrm { \textmu m o l { \cdot } L ^ { - 1 } }$ 褪黑素处理后小麦叶片Chl a、Chl b 和 $\operatorname { C h l } \left( { \mathsf { a } } { + } { \mathsf { b } } \right)$ 含量均低于CK，这可能是由于低浓度褪黑素处理可以使叶片维持较高的光合色素水平，且一定程度上缓解光合色素的降解；而高浓度的褪黑素可能对植株产生胁迫，进而影响其叶绿素的含量。
+
+抗氧化酶是植物响应环境压力的主要抗氧化剂，已有研究表明干旱胁迫下小麦幼苗POD、CAT和 SOD等抗氧化酶活性均有不同程度的升高（叶君等，2015）。本研究发现，不同浓度褪黑素处理下小麦根中CAT、SOD以及SP含量等指标均与CK无显著性差异。MDA含量是反映机体抗氧化潜在能力的重要参数，可以反映机体脂质过氧化速率和强度，也能间接反应组织过氧化损伤的程度。本研究发现，小麦根中MDA含量随褪黑素处理浓度的升高呈先降低后升高的趋势，说明低浓度的褪黑素降低了小麦根中的氧化损伤，而高浓度的褪黑素处理对小麦根部造成胁迫，进而导致了MDA含量的升高。褪黑素处理下小麦叶片MDA含量无显著差异，说明褪黑素对小麦MDA含量的影响主要集中在根部。POD是活性较高的适应性酶，能够反映植物生长发育的特性、体内代谢状况以及对外界环境的适应性，同时也是植物体内抗氧化酶系统的重要组成部分，它能催化有毒物质的分解，其活性高低能反映植物受害的程度。本研究表明，随着褪黑素浓度的升高，小麦叶和根POD活性变化均呈先降低后升高的趋势，反映了高浓度褪黑素对小麦根系造成了一定的损害，而MDA在高浓度褪黑素处理下虽然其含量较CK有所升高但并不显著，这可能是因为POD活性的升高缓解了MDA对小麦根系造成的损害。在小麦叶中各种抗氧化酶及生理指标在不同褪黑素处理下影响均不大，这可能是褪黑素对小麦叶片的生长未造成较大影响的原因。
+
+综上所述，该文就不同浓度褪黑素对小麦叶和根的生长指标、叶绿素及叶绿素荧光参数、抗氧化酶活性、生理指标的影响进行了研究，结果表明褪黑素处理对小麦生长调控起到低浓度促进，高浓度抑制的作用，这为实际生产中通过灌溉外源褪黑素以提高小麦对各种环境胁迫的耐受性提供理论基础。
+
+# 参考文献：
+
+ARNAO MB,HERNANDEZ-RUIZ J, 2007. Melatonin promotes adventitious and lateral root regeneration in etiolated hypocotyls of Lupinus albus L.[J]. JPineal Res,42 (2): 147-152.   
+CHAO LH, WU C, HUANG XF,2014. Characteristics and high-yield cultivation techniques of a new wheat variety Liangxing 99[J].Mod Agri Sci Tech,57(9):1．[晁林海，武超，黄雪峰, 2014．小麦新品种良星99 特征特性及高产栽培技术[J]．现代农业科技，57(9)：1.]   
+CHEN JX, WANG XF, 2006. Experimental Guidance in Plant Physiology[M]. Guangdong: South China University of Technology Press.［陈建勋，王晓峰，2006．植物生理学实验指导[M]. 广东：华南理工大学出版社.]   
+CHEN Q, QI W, REITER RJ, et al., 2009. Exogenously applied melatonin stimulates root growth and raises endogenous indoleacetic acid in roots of etiolated seedlings of Brassica juncea[J]. Aust JPlant Physiol, 166(3): 324-328.   
+CHEN ZC, JIN XJ, LI H, et al. 2021. Effects of exogenous melatonin on growth, photosynthetic fluorescence characteristics and yield components of Adzuki bean[J]. Crops, 37(6): 88-94.[陈 忠诚，金喜军，李贺，等，2021．外源褪黑素对红小豆生长、光合荧光特性及产量构成因 素的影响[J].作物杂志，37(6)：88-94.]   
+CUI Q,LI XL, ZHAI SZ,2006. Spectrophotometric method for determination of chlorophyll content in wheat leaves[J].JAnhui Agri Sci,34(10):2063.[崔勤，李新丽，翟淑芝，2006．小 麦叶片叶绿素含量测定的分光光度计法[J]．安徽农业科学，34(10)：2063.]   
+DU Z,HOU W, WANG L, et al., 2020. Effects of exogenous melatonin on maize seedlings under drought stress[J].Chin Agri Sci Bull,36(27):14-19.[杜卓，侯雯，王丽，等．外源褪黑素对 干旱胁迫下玉米幼苗的影响[J]．中国农学通报，36(27)：14-19.]   
+GAO JF, 2006. Experimental Guidance in Plant Physiology[M]. Beijing: Higher Education Press. [高俊凤，2006．植物生理学实验指导[M]．北京：高等教育出版社.]   
+HERNANDEZ-RUIZ J，CANO A， ARNAO MB， 2004. Melatonin: a growth-stimulating compound present in lupin tissues[J]. Planta, 220(1): 140-144.   
+HERNANDEZ-RUIZ J, CANO A,ARNAO MB, 2005. Melatonin acts as a growth-stimulating compound in some monocot species[J]. J Pineal Res, 39(2): 137-142   
+HERNANDEZ-RUIZ J, ARNAO MB,2010. Melatonin stimulates the expansion of etiolated lupin cotyledons[J]. Plant Growth Regul, 55(1): 29-34.   
+HUANG YZ, JIANG H, WANG N, et al., 2018. Effects of exogenous melatonin on the growth of rice seedlings under As stress[J].Chin JEcol,37(6): 1738-1743.[黄益宗，蒋航，王农，等， 外源褪黑素对砷胁迫下水稻幼苗生长的影响[J]．生态学杂志，2018，37(6)：1738-1743.]   
+KAYA C, OKANT M, UGURLAR F, et al.， 2019. Melatonin-mediated nitric oxide improves tolerance to cadmium toxicity by reducing oxidative stress in wheat plants[J]. Chemosphere, 225(6): 627-638.   
+KOLA J, MACHA KOVA I, EDER J, et al., 1997. Melatonin: Occurrence and daily rhythm in Chenopodium rubrum[J]. Phytochemistry, 44(8): 1407-1413.   
+LEI X Y, ZHU RY, ZHANG GY, et al., 2004. Attenuation of cold-induced apoptosis by exogenous melatonin in carrot suspension cels: the possible involvement of polyamines[J]. J Pineal Res, 36(2): 126-131.   
+LI Y，CHEN J，LIU SD，et al.， 2021.Effects of exogenous melatonin on growth and photosynthetic characteristics of cotton seedlings under salt stress[J]. Xinjiang Agric Sci, 58(8): 1418-1426.［李阳，陈静，刘绍东，等，2021．外源褪黑素对盐胁迫下棉花幼苗生长及光 合特性的影响[J].新疆农业科学，58(8)：1418-1426.]   
+LI H, JIANG XY, CHEN ZC,et al., 2020. Effects of exogenous melatonin on photosynthetic fluorescence and antioxidant system of soybean V1 seedlings under low temperature[J]. Chin J OilCrop Sci,42(4):640-648.[李贺，姜欣悦，陈忠诚，等，2020．外源褪黑素对低温胁迫 下大豆 V1期幼苗光合荧光及抗氧化系统的影响．中国油料作物学报，42(4)：640-648.]   
+MURCH SJ, CAMPBELL SSB, SAXENA PK, 2001. The role of serotonin and melatonin in plant morphogenesis: regulation of auxin-induced root organogenesis in in vitro-cultured explants of St. John's wort (Hypericum perforatum L.)[J]. In Vitro Cell Dev Biol-Plant, 37 (6): 786-793.   
+NI J, WANG Q, FAHEEM S, et al., 2018. Exogenous melatonin confers cadmium tolerance by counterbalancing the hydrogen peroxide homeostasis in wheat seedlings[J]. Molecules, 23(4): 799-817.   
+REITER RJ, TAN DX, BURKHARDT S, et al., 2010. Melatonin in plants[J]. Nutr Rev, 59(9): 286-290.   
+SARROPOULOU V, DIMASSI-THERIOU K, THERIOS I, et al., 2012. Melatonin enhances root regeneration, photosynthetic pigments, biomass, total carbohydrates and proline content in the cherry rootstock PHL-C (Prunus avium×Prunus cerasus)[J]. Plant Physiol and Biochem, 61(10): 162-168.   
+SHI ZF,LIANG HJ, ZHANG XH, et al., 2019. Effects of exogenous melatonin on cold resistance of rape seedlings under low temperature stress[J]. Agri Res Arid Areas,37(4): 163-170.[史中 飞，梁娟红，张小花，等，2019.外源褪黑素对低温胁迫下油菜幼苗抗寒性的影响[J].干 旱地区农业研究，37(4)：163-170.]   
+TRETHOWAN RM，MUJEEBKAZI A， 2008.Novel germplasm resources for improving environmental stress tolerance of hexaploid wheat[J]. Crop Sci, 48(4): 1255-1265.   
+WANG LY, LIU JL,WANG WX, et al.， 2016. Exogenous melatonin improves growth and photosynthetic capacity of cucumber under salinity-induced stress[J]. Photosynthetica, 54(1): 19-27.   
+WEI W, LI QT, CHU YN, et al.，2014. Melatonin enhances plant growth and abiotic stress tolerance in soybean plants[J]. JExp Bot Arg, 66(3): 695-707.   
+WU Q，DING KX，YU ML，et al.， 2020. Effcts of new plant growth regulator B2 on photosynthetic fluorescence characteristics and yield of maize[J]. Crops, 36(5): 174-181.[吴 琼，丁凯鑫，余明龙，等，2020．新型植物生长调节剂 B2 对玉米光合荧光特性及产量的 影响[J]．作物杂志，36(5)：174-181.]   
+WU XX, ZHU ZW, ZHANG AD, et al., 2017. Effects of exogenous melatonin on the growth, photosynthesis and antioxidant systems of eggplant seedlings under low temperature stress[J]. Acta Bot Bor-Occident Sin,37(12): 2427-2434.[吴雪霞，朱宗文，张爱冬，等，2017．外源 褪黑素对低温胁迫下茄子幼苗生长及其光合作用和抗氧化系统的影响[J]．西北植物学 报，37(12)：2427-2434.]   
+XI LJ,WANG CY, YAN LL,et al., 2019. Effect of exogenous melatoninon root growth and endogenous melatonin content of lettuce[J].N Hortic,43(6):7-11.[习林杰，王晨雨，严露露, 等，2019．外源褪黑素对生菜根系生长及内源褪黑素含量的影响[J]．北方园艺，43(6)： 7-11.]   
+XU XD, SUN Y, SUN B, et al., 2010. Effect of exogenous melatonin on photosynthesis and chlorophyll fluorescence parameters in leaves of cucumber seedlings under high temperature stress[J].Chin JAppl Ecol,21(5):1295-1300.[徐向东，孙艳，孙波，等，2010．高温胁迫 下外源褪黑素对黄瓜幼苗活性氧代谢的影响[J]．应用生态学报，21(5)：1295-1300．]   
+YE J，DENG XP, WANG SW, et al.， 2015. Effects of melatoninon growth, photosynthetic characteristics And antioxidant systemin seedling of wheatunder drought stress[J]. J Tritic Crops,35(9):1275-1283．[叶君，邓西平，王仕稳，等，2015．干旱胁迫下褪黑素对小麦 幼苗生长、光合和抗氧化特性的影响[J]．麦类作物学报，35(9)：1275-1283.]   
+YANG FX, TANG L,HE H, 2021. Studies on low temperature adaptability of two strawberries cultivars by chlorophyll fluorescence technology[J]. Chin Fruit,63(3):13-19.[杨馥霞，汤玲, 贺欢，等，2021．利用叶绿素荧光技术分析2个草莓品种的低温适应性[J].中国果树， 63(3) :13-19.]   
+YANG XL, XU H, LI D, et al. 2018. Effect of melatonin priming on photosynthetic capacity of tomato leaves under low-temperature stress[J]. Photosynthetica, 56(3): 884-892.   
+ZHANG HW, 2020. Impacts of exogenous melatonin on physiological characteristics of Chinese pine seedlings[J].Liaoning For Sci Technol,42(5):3.[张海文，2020．外源褪黑素对油松苗 木生理特性的影响[J]．辽宁林业科技，42(5)：3.]   
+ZHUANG WB,LIU TY， SHU XC,et al.， 2018. Relationship between melatonin and plant hormones during plant growth and development[J]. JAnhui Agrci Sci, 46(31): 12-16.[庄维兵, 刘天宇，束小春，等，2018．褪黑素在植物生长发育过程中与植物激素的关系［J]．安徽 农业科学，46(31)：12-16.]

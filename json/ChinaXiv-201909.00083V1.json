@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "沙区光伏电场的风沙流输移特征 1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈曦，高永，翟波，刘湘杰，程波（内蒙古农业大学沙漠治理学院,内蒙古呼和浩特010018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以乌海市晟辉能源技术公司沙区太阳能光伏电场为研究对象，对光伏矩阵内光伏板的前沿、后沿及光伏阵列行道处风沙输移情况进行观测,研究沙区光伏电站的风沙流输移规律。研究表明： $\\textcircled{1}$ 各观测点输沙量均随着高度的增加呈降低趋势,光伏板前沿、后沿、行道处各观测点输沙量随高度增加的最佳拟合方程均为多项式函数，且$R ^ { 2 }$ 均大于0.95,拟合结果可信。 $\\textcircled{2}$ 光伏板前沿、后沿处风沙流结构特征值大于1,风沙流呈非饱和状态,地表表现为风蚀。电场矩阵行道处风沙流结构特征值均小于1,风沙流为饱和状态,地表表现为堆积。由于光伏板对风沙流的导向作用,导致光伏板下方形成气流加速区,光伏板下方出现掏蚀现象,因此光伏板下方为场区内部风沙防治的重点区域。 $\\textcircled{3}$ 光伏矩阵内部各观测点的输沙量均低于旷野处，且随着深入电站内部输沙量逐渐降低。沙区光伏电站控制沙害的关键位置为电站迎风边缘处。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：光伏阵列；空间位置；输沙量；风沙流结构特征值；内蒙古",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "光伏发电产业在改善国家能源结构、治理生态环境、扶贫开发等方面均起到了重要作用[1-3]。截至2016年底，仅内蒙古光伏装机就达 $5 . 5 0 \\times 1 0 ^ { 6 }$ $\\operatorname { k W } \\cdot \\operatorname { h }$ ,按每兆瓦实际占地 $0 . 0 2 7 ~ \\mathrm { k m } ^ { 2 }$ 估算,光伏发电站占地可达 $1 4 7 ~ \\mathrm { k m } ^ { 2 }$ 。内蒙古光伏电站用地基本以农用地（占 $62 \\%$ )和牧草地（占 $3 8 \\%$ )为主，而现有土地利用规划难以满足光伏产业用地需求[4]我国沙地面积广袤，为光伏产业的发展提供了广大空间。然而，沙漠地区环境严酷，生态脆弱，风沙危害严重,还有其他环境问题[5-6;同时,沙区光伏电场对近地表的风沙输移也会产生影响[7-9]。在野外调查中发现，光伏电站地表蚀积状况及程度空间差异较大。本文通过实地观测，分析了光伏电站地表蚀积空间分异的原因，可为沙区光伏电站可持续发展提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况及研究方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区位于内蒙古乌海市（106. $3 6 ^ { \\circ } \\mathrm { ~ E ~ }$ ，$3 9 . 1 5 ^ { \\circ } \\mathrm { N } _ { \\cdot } ^ { \\cdot }$ ）,地处乌兰布和沙漠东南缘。乌海市是内蒙古西部的重要城市之一，属温带大陆性气候，四季分明，冬季寒冷且干燥，降雪较少，夏季气温高，光照强，日照时间长，太阳能资源丰富，年平均日照数在$3 \\ 1 3 8 \\ \\mathrm { h }$ 以上，年平均接受太阳辐射能 $6 . 5 2 \\times 1 0 ^ { 5 }$ J：$\\mathrm { c m } ^ { - 2 }$ 。但该区北邻沙漠,风沙活动频繁,全年平均风速 $3 \\sim 3 . 7 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,历年大风天数达 $2 0 \\sim 4 0 ~ \\mathrm { d } ^ { [ 1 0 ] }$ ，尤以春季风大，3—5月盛行西北风。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 野外测试电场概况 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以晟辉能源技术公司太阳能光伏电场（30000$\\mathbf { k } \\mathbb { W }$ )为观测场地，该电场于2016年2月投产使用。试验光伏电场如图1所示，光伏板规格为 $5 \\mathrm { ~ m ~ } \\times$ $3 \\mathrm { ~ m ~ }$ ,与地面夹角大小根据季节进行调整(春、秋季节为 $3 7 ^ { \\circ }$ ,冬季为 $1 5 ^ { \\circ }$ ,夏季为 $7 5 ^ { \\circ }$ )。电站周边及内部均为裸沙地，地表平坦，植被覆盖度 $< 1 \\%$ 。试验区地表沙物质主要以细沙 $( 3 8 . 9 3 \\%$ )和中沙为主$( 4 7 . 4 6 \\%$ ），粗砂( $( 1 1 . 9 9 \\%$ )和极细沙( $( 1 . 4 9 \\%$ )含量较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2018年4月进行了实地观测，此时光伏电板与地面呈 $3 7 ^ { \\circ }$ 倾角。相对于主风向，本研究定义光伏板上风侧是前沿，下风侧是后沿。光伏板前沿距地面 $2 5 0 ~ \\mathrm { c m }$ ,后沿距离地面 $7 0 ~ \\mathrm { c m }$ 。试验期间以西北、偏北风为主（图2）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "观测样线如图3所示，光伏板矩阵由北部边缘至南（顺当地主导风向），逐个将光伏板标记为 $\\mathbf { A } _ { 1 }$ ）",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd0cfb2c32bb3983ec2095c674b7d208093f5615be480e9effdb03a9bafd2ca3.jpg",
+        "img_caption": [
+            "图1试验区观测现场(左侧为上风向)"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/98eab54ef588cd64adca47c283b384ed3cae21208b178537b04aad9031b19f1c.jpg",
+        "img_caption": [
+            "Fig.1Observation site in the test area ",
+            "图2 观测期间风向玫瑰图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/71207c6026c4b0b918fe77ce0166ee1cf165ad0e03096f5498d2dce0e94827fc.jpg",
+        "img_caption": [
+            "Fig.2Wind rose during the study period ",
+            "图3电场风场观测点",
+            "Fig.3Diagram of the observation points "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { A } _ { 2 } \\ 、 \\mathrm { A } _ { 3 } \\ 、 \\mathrm { A } _ { 4 } \\ 、 .$ $\\mathbf { A } _ { 5 }$ （光伏板间距为 $1 0 \\mathrm { ~ m ~ }$ ,光伏板垂直投影面积为 $2 . 4 \\mathrm { ~ m } \\times 5 \\mathrm { ~ m } ^ { \\cdot }$ ），分别在光伏板的前沿、后沿及行道处布设风速和集沙观测仪器。风速仪的风杯分别距地表高度为 $1 0 \\ \\mathrm { c m } \\ . 5 0 \\ \\mathrm { c m } \\ . 1 0 0 \\ \\mathrm { c m } \\ . 2 0 0 \\ \\mathrm { c m }$ 和$2 5 0 ~ \\mathrm { c m }$ ,每隔2s记录1次数据;集沙仪高 $5 0 \\ \\mathrm { c m }$ ,有25个进沙口，每个进沙口高 $2 ~ \\mathrm { c m }$ 宽 $2 \\ \\mathrm { c m }$ ，安装集沙仪开口对准迎风方向。同时，在电场上风向旷野处设置对照观测点（图中五角星处）。各点和设备同步进行观测,连续观测时长 $1 0 ~ \\mathrm { m i n }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用Sigmaplot12、Excel 2007、CAD 2007、Photo-shop8进行数据处理并绘图，用SPSS17.0进行数据显著性分析。风沙流结构特征值 $( \\lambda )$ 的计算公式[11]为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = Q _ { 2 \\sim 1 0 } / Q _ { 0 \\sim 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q _ { 2 \\sim 1 0 }$ 和 $Q _ { 0 \\sim 1 }$ 分别为风沙流中 $2 \\sim 1 0 ~ \\mathrm { c m }$ 和 $0 \\sim$ $1 \\ \\mathrm { c m }$ 的输沙量（单位： $\\mathrm {  ~ g ~ } \\cdot \\mathrm {  ~ \\ m i n ~ } ^ { - 1 } \\cdot \\mathrm {  ~ c m ~ } ^ { - 2 } .$ )，其中 $0 \\sim 1$ $\\mathrm { c m }$ 数值通过野外观测数据拟合关系函数求得。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1单个光伏电板输沙量情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对各观测点前沿、后沿、行道的输沙量进行对比发现（图4），随着高度增加输沙量呈降低趋势，以$0 \\sim 2 \\ \\mathrm { c m }$ 高度层最大。同一光伏板不同位置输沙量垂直变化规律相似，但不同位置输沙量有所差异，$0 \\sim 2 \\ \\mathrm { c m }$ 输沙量表现为：后沿 $>$ 前沿 $>$ 行道，总输沙量大小也相似。对3个位置 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 }$ 总输沙量均值进行显著性检验（表1），发现输沙量在3个位置间差异均达到极显著水平( $\\mathbf { \\alpha } _ { , \\alpha } = 0 . 0 5 \\mathbf { \\beta } ,$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由前人研究可知[12-13],当 $\\lambda$ 大于1时,下层沙量少，风沙流处于不饱和状态，气流仍有能力挟带更多的沙量，表现为风沙流对地面的吹蚀。当 $\\lambda$ 小于1时，下层沙量大，风沙流处于饱和状态，表现为风沙流对地面产生堆积。对 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 } \\ 5$ 个观测点的不同位置风沙流结构特征值进行统计分析可知（表1），电板前沿、后沿处风沙流结构特征值 $\\lambda$ 均大于1,风沙流呈非饱和状态，地表表现为风蚀;电场矩阵行道处风沙流结构特征值入为0.78，风沙流呈饱和状态，地表表现为堆积。方差分析结果显示，电板不同位置风沙流结构特征值差异均达到极显著水平（ $\\propto = 0 . 0 5$ ）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff71bc8241714dc99f3f09157a81ec919dd4bfcd2d3ae1748f0edd7fb159e6e6.jpg",
+        "img_caption": [
+            "图4光伏板不同位置输沙量对比 Fig.4Compared results of sand transport rates from $0 - 5 0 ~ \\mathrm { c m }$ heights at different positions of photovoltaic plate "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1光伏板不同位置风沙流结构分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cde93ba3c4fe4690f311338024cfc354cef10ccbbb5d4c3d59dbd4f2e584f23b.jpg",
+        "table_caption": [
+            "Tab.1The sand flow structures at different positions of photovoltaic plate "
+        ],
+        "table_footnote": [
+            "注：同列小写字母不同表示差异显著( $\\alpha = 0 . 0 5$ )。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">总输沙量 位置 cm-2) /(g·min-1.</td><td>不同高度气流场输沙量 /(g·min-1 ·cm-²)</td><td rowspan=\"2\">特征值入</td></tr><tr><td>0~1cm 2~10 cm</td></tr><tr><td>前沿</td><td>0.527 ±0.04a</td><td>0.177 0.289</td><td>1.65 ±0.08a</td></tr><tr><td>后沿</td><td>0.155 ±0.02b</td><td>0.063 0.068</td><td>1.07 ±0.06b</td></tr><tr><td>行道</td><td>0.065 ±0.02c</td><td>0.028 0.026</td><td>0.92 ±0.02c</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2光伏矩阵输沙量状况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1光伏板后沿输沙量变化状况由图5可知,对照观测点输沙量随着高度的增加呈先增大后减小趋势，最大值出现在 $2 \\sim 4 ~ \\mathrm { c m }$ 高度层，输沙量为$0 . 9 3 2 \\mathrm { ~ g ~ } \\cdot \\mathrm { \\ m i n } ^ { - 1 } \\cdot \\mathrm { \\Omega } \\cdot \\mathrm { c m } ^ { - 2 }$ 。与对照点不同,电板后沿处5个观测点输沙量均随着高度增加而呈降低趋势,输沙量最大值均出现在 $0 \\sim 2 \\ \\mathrm { c m }$ 高度层，由$\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 } 0 \\sim 2 \\ \\mathrm { c m }$ 高度层输沙量逐渐降低。各点输沙量主要集中在近地表 $1 8 ~ \\mathrm { c m }$ 高度范围内。光伏板后沿各观测点输沙量随高度变化均以多项式函数拟合程度最佳(表2），相关系数 $R ^ { 2 }$ 均大于0.95。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对光伏板后沿各观测点总输沙量及其风沙流结构进行分析发现（表3），总输沙量最大值出现在观测点 $\\mathbf { A } _ { 1 }$ ,为 $0 . 8 1 7 \\mathrm { ~ g ~ } \\cdot \\operatorname* { m i n } ^ { - 1 } \\cdot \\mathrm { c m } ^ { - 2 }$ 。随着由光伏板边缘向内部的深入，总输沙量逐渐递减，电板后沿处$\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 } \\ 5$ 个观测点输沙量较对照点分别降低了$7 9 . 4 7 \\%$ 、84. $5 0 \\%$ 、85. $04 \\%$ 、91. $42 \\%$ 和 $9 3 . 3 0 \\%$ 。对各观测点的风沙流结构特征值进行分析，各点 $\\lambda$ 均大于1,且差异均达到极显著水平( $\\mathrm { . } \\qquad \\propto = 0 . 0 5 \\mathrm { ) }$ 。即",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b69107c452f556afdd4aad7e534a751ea8bc198023e87f828b62cbe109f6d7a8.jpg",
+        "img_caption": [
+            "图5光伏板后沿 $0 \\sim 5 0 ~ \\mathrm { c m }$ 输沙量( $Q _ { 0 \\sim 5 0 } )$ 随集沙高度变化",
+            "Fig.5Sand transport rates from $0 - 5 0 ~ \\mathrm { c m }$ heights at back eaves of photovoltaic plate "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2光伏板后沿 $\\mathbf { 0 } \\sim \\mathbf { 5 0 } ~ \\mathrm { c m }$ 输沙量 $( \\varrho _ { \\mathfrak { o } _ { \\mathfrak { o } - 5 0 } } )$ 随高度变化拟合方程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab81cc20960934c1cd0ffe7cd1d6d368ddb0a4530f1db0812fd1160c3b8562d4.jpg",
+        "table_caption": [
+            "Tab.2Fitted equations between sand transport rates from $\\mathbf { 0 - 5 0 ~ c m }$ heights and corresponding heights at back eaves of photovoltaic plate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>关系式 相关系数</td></tr><tr><td>A1 y = 0.002 8x²- 0.040 4x + 0.1434</td><td>R² = 0.990 8</td></tr><tr><td>A y = 0.003 3x²-0.048 1x + 0.1743</td><td>R²=0.9931</td></tr><tr><td>A3 y= 0.007 9x²-0.107 9x + 0.3544</td><td>R² = 0.952 8</td></tr><tr><td>A4 y = 0.007 5x²- 0.1061x + 0.364 2</td><td>R² = 0.964 7</td></tr><tr><td>A5 y = 0.006 9x²-0.104 4x + 0.3950</td><td>R² = 0.991 2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3a7e548d4f934cd9ad3746e71cd8a65d9745aedd22a9f2c1f8fc895643b8648d.jpg",
+        "table_caption": [
+            "表3光伏板后沿风沙流结构分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">位置 cm-2)</td><td rowspan=\"2\">总输沙量 /(g·min-1.</td><td colspan=\"2\">不同高度气流场输沙量 /(g·min-1·cm-²)</td><td rowspan=\"2\">特征值 入</td></tr><tr><td>0~1cm</td><td>2~10 cm</td></tr><tr><td>A</td><td>0.817 ±0.07a</td><td>0.254</td><td>0.471</td><td>1.85 ±0.03a</td></tr><tr><td>A2</td><td>0.617±0.06b</td><td>0.222</td><td>0.344</td><td>1.55 ±0.05b</td></tr><tr><td>A3</td><td>0.595 ±0.08c</td><td>0.210</td><td>0.288</td><td>1.37±0.03c</td></tr><tr><td>A4</td><td>0.341 ±0.06d</td><td>0.110</td><td>0.192</td><td>1.76 ±0.01d</td></tr><tr><td>A5</td><td>0.267±0.01e</td><td>0.089</td><td>0.152</td><td>1.71 ±0.07e</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5cef9024daec7b78a2729f777f08b0b966fa731dc04976bfbe1ceab9fa1639b4.jpg",
+        "table_caption": [
+            "Tab.3The sand flow structures at different heights of back eaves of photovoltaic plate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>关系式 相关系数</td></tr><tr><td>A1</td><td>y = 0.002 4x²- 0.025 9x + 0.068 4 R²=0.972 4</td></tr><tr><td>A</td><td>y = 0.0031x²- 0.033 6x + 0.088 4 R²= 0.971 2</td></tr><tr><td>A3</td><td>y = 0.0033x²-0.036 6x + 0.0983 R²= 0.977 6</td></tr><tr><td>A4</td><td>y = 0.004 6x²-0.0513x + 0.1378 R² = 0.964 1</td></tr><tr><td>A5</td><td>y = 0.0075x²-0.083 0x + 0.2218 R² = 0.979 0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a3ed17ab96e5fff2eb0f8724d5ba61717996b4f4805c07c55a04229d37bc37f.jpg",
+        "img_caption": [
+            "图6光伏板前沿 $0 \\sim 5 0 ~ \\mathrm { c m }$ 输沙量 $( Q _ { 0 \\sim 5 0 } )$ 随集沙高度变化",
+            "Fig.6Sand transport rates from $0 - 5 0 ~ \\mathrm { c m }$ heights at front eaves of photovoltaic plates "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "光伏电板后沿处对气流运动产生了干扰，使得上层气流挟沙能力增强，使风沙流呈非饱和状态，光伏板后沿下方均表现为风蚀状态。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2光伏板前沿输沙量变化状况光伏板前沿输沙量均随着高度增加呈降低趋势（图6），且主要集中在 $0 \\sim 1 0 ~ \\mathrm { c m }$ 高度范围内,5个观测点输沙量最大值均在 $0 \\sim 2 \\ \\mathrm { c m }$ 高度层,由 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 } \\ : 0 \\sim 2 \\ : \\mathrm { c m }$ 高度层输沙量逐渐降低。由表4可知，光伏板前沿处各",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4光伏板前沿 $\\mathbf { 0 } \\sim \\mathbf { 5 0 } ~ \\mathrm { c m }$ 输沙量 $( \\varrho _ { \\mathfrak { o } _ { \\tilde { \\mathbf { \\Gamma } } ^ { - 5 0 } } } )$ （204随高度变化拟合方程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "观测点输沙量随高度变化拟合方程均为多项式拟合程度最佳，拟合系数 $R ^ { 2 }$ 均大于0.96。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "光伏板前沿处总输沙量最大值出现在观测点$\\mathbf { A } _ { 1 }$ (表5)，为 $0 . 2 8 2 \\mathrm { ~ g ~ } \\cdot \\operatorname* { m i n } ^ { - 1 } \\cdot \\mathrm { c m } ^ { - 2 }$ 。总输沙量深入光伏电站内部呈规律性变化，总输沙量由 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 }$ 点逐渐减小，电板前沿处 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 } \\ 5$ 个观测点较对照点分别降低了 $9 2 . 9 1 \\% . 9 5 . 6 3 \\% . 9 6 . 7 5 \\% . 9 7 . 2 9 \\%$ 和 $9 7 . 9 1 \\%$ 。风沙流结构特征值 $\\lambda$ 均大于1,各测点的风沙流均处于非饱和状态，具有较强风蚀挟沙能力，光伏板前沿下方为风蚀搬运状态。方差分析结果显示，电板前沿处5个观测点总输沙量差异均达到极显著水平，风沙流结构特征值 $\\mathbf { A } _ { 1 }$ 与 $\\mathbf { A } _ { 2 }$ 点差异不显著，上述2点与 $\\mathbf { A } _ { 4 }$ 差异显著，与 ${ \\bf A } _ { 3 } \\setminus { \\bf A } _ { 5 }$ 差异极显著( $\\mathbf { \\alpha } _ { \\alpha } = 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3场区行道输沙量变化状况试验场区内行道处各点输沙量均随着集沙高度的增加呈降低趋势（图7），且主要集中在 $0 \\sim 1 0 \\ \\mathrm { c m }$ 高度范围内，输沙量最大值均在 $0 \\sim 2 \\ \\mathrm { c m }$ 高度层，且由 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 }$ 输沙量逐渐降低。矩阵行道内各观测点输沙量随高度变化拟合方程均为多项式拟合程度最佳(表6），拟合系数 $R ^ { 2 }$ 均大于0.97。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电场行道处由 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 }$ 点输沙量逐渐降低，最",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/74d59c4b6feb02e3ed5f68e82ba84695423b03021f4a541f85c7fbb336fa68a7.jpg",
+        "table_caption": [
+            "Tab.4Fitted equations between sand transport rates from $\\mathbf { 0 - 5 0 \\ c m }$ heights and corresponding heights at front eaves of photovoltaic plate ",
+            "表5光伏板前沿输沙量对比",
+            "Tab.5 Compared results of sand transport rates at front eaves of photovoltaic plate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">位置</td><td rowspan=\"2\">总输沙量 cm-²） /(g·min-1.</td><td colspan=\"2\">不同高度气流场输沙量 /(g·min-1·cm-²)</td><td rowspan=\"2\">特征值 入</td></tr><tr><td>0~1cm</td><td>2~10 cm</td></tr><tr><td>A1</td><td>0.282 ±0.01a</td><td>0.114</td><td>0.123</td><td>1.08±0.02a</td></tr><tr><td>A2</td><td>0.174 ±0.05b</td><td>0.071</td><td>0.073</td><td>1.02 ±0.01a</td></tr><tr><td>A3</td><td>0.129 ±0.02c</td><td>0.051</td><td>0.059</td><td>1.17 ±0.03c</td></tr><tr><td>A4</td><td>0.108 ±0.04d</td><td>0.044</td><td>0.047</td><td>1.05 ±0.03ab</td></tr><tr><td>As</td><td>0.083 ±0.01e</td><td>0.035</td><td>0.036</td><td>1.03 ±0.02b</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5418416b94ace7e9d3a50979cd3b37ed4ea3051829eb86d94041f5bef853f89b.jpg",
+        "img_caption": [
+            "图7电场行道 $0 \\sim 5 0 ~ \\mathrm { c m }$ 输沙量( $( Q _ { 0 \\sim 5 0 }$ 随集沙高度变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表6电场行道 $\\mathbf { 0 } \\sim 5 \\mathbf { 0 } ~ \\mathrm { c m }$ 输沙量 $( Q _ { 0 \\sim 5 0 }$ 随高度变化拟合方程",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c05ced1ee981e67edf2da361c73ef8a752a50fd3048692651e283a9749d3e2a.jpg",
+        "table_caption": [
+            "Tab.6Fitted equations between sand transport rates from $\\mathbf { 0 - 5 0 ~ c m }$ heights and corresponding heights along the photovoltaicarrayroadwaysinelectricfield "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>位置</td><td>关系式 相关系数</td></tr><tr><td>A1</td><td>y = 0.002 6x²- 0.020 7x + 0.040 5 R² = 0.987 0</td></tr><tr><td>A2</td><td>y = 0.002 3x²-0.019 3x + 0.040 5 R² = 0.979 7</td></tr><tr><td>A3</td><td>y = 0.005 2x²-0.040 4x + 0.080 2 R²=0.998 6</td></tr><tr><td>A4</td><td>y = 0.004 7x²- 0.038 2x + 0.0801 R² = 0.999 3</td></tr><tr><td>A5</td><td>y = 0.006 0x²-0.048 0x + 0.099 5 R² = 0.997 2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "小值出现在 ${ \\bf A } _ { 5 }$ 观测点,为 $0 . 0 3 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { \\ m i n } ^ { - 1 } \\cdot \\mathrm { \\Omega c m } ^ { - 2 }$ （表7）。 $\\mathrm { A } _ { 1 } - \\mathrm { A } _ { 5 } \\ 5$ 个观测点输沙量较对照点分别降低了97. $54 \\%$ 、98. $02 \\%$ 、98. $17 \\%$ 、99. $01 \\%$ 和$9 9 . 1 5 \\%$ 。各观测点的风沙流结构特征值 $\\lambda$ 均小于1,说明光伏板对于上层输沙量产生一定的阻滞作用，使风沙流趋于过饱和状态而产生堆积。方差分析结果显示，电板行道处5个观测点总输沙量间差异均达到极显著水平，风沙流结构特征值除 $\\mathbf { A } _ { 2 }$ 与$\\mathrm { A } _ { 4 }$ 不显著外,其他各点均达到极显著水平（ $\\alpha =$ 0.05)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b529e4f4524ee6cfc46ed620e12a87ddaeba718d4bff8a3f71419d439af91ffb.jpg",
+        "table_caption": [
+            "表7电场行道风沙流结构分布",
+            "Tab.7The sand flow structure along the photovoltaic arrayroadwaysinelectric field "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">位置</td><td rowspan=\"2\">总输沙量 cm-2） /(g·min-1.</td><td colspan=\"2\">不同高度气流场输沙量 /(g·min-1·cm-²)</td><td rowspan=\"2\">特征值 入</td></tr><tr><td>0~1cm</td><td>2~10 cm</td></tr><tr><td>A1</td><td>0.098 ±0.01a</td><td>0.041</td><td>0.040</td><td>0.98 ±0.02a</td></tr><tr><td>A2</td><td>0.079±0.04b</td><td>0.033</td><td>0.032</td><td>0.97±0.01b</td></tr><tr><td>A3</td><td>0.073 ±0.02c</td><td>0.031</td><td>0.028</td><td>0.90 ±0.01c</td></tr><tr><td>A4</td><td>0.039±0.01d</td><td>0.017</td><td>0.016</td><td>0.95 ±0.03b</td></tr><tr><td>A</td><td>0.034 ±0.06e</td><td>0.015</td><td>0.012</td><td>0.78 ±0.01d</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对光伏电场内部不同空间位置的风速分布情况进行分析可知，在理想条件下，风速随高度变化呈单调递增趋势变化[14]。从图8可以看出,光伏矩阵内部行道处的各观测点风速廓线同对照点变化规律相似，均呈“J”形变化趋势，各观测点风速随着高度的增加呈指数增加。与行道处不同，光伏板后沿和前沿处，风速廓线受到光伏面板的影响，与对照观测点(CK)趋势差异明显，风速随着高度的增加呈“S”形变化，即在 $0 \\sim 1 0 0 \\ \\mathrm { c m } \\ . 2 0 0 \\sim 2 5 0 \\ \\mathrm { c m }$ 高度范围内呈增加趋势,而在 $1 0 0 \\sim 2 0 0 ~ \\mathrm { c m }$ 范围内呈减小趋势，但光伏板前沿和后沿的风速变化幅度有所不同。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bf819632863e893edbee787404b199be4329c7874d1b12e1c11faca60e9b2ac.jpg",
+        "img_caption": [
+            "Fig.7Sand transport rates from $0 - 5 0 ~ \\mathrm { c m }$ heights along the photovoltaic array roadways in electric field ",
+            "图8电场矩阵内不同空间位置风速廓线 Fig.8The wind speed profiles at different positions of photovoltaic arrays in electric field "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "光伏板布设与地面形成一定夹角，对于过境风沙流具有导向作用。电板前沿处气流发生分流现象，一部分气流沿电板向上运动，与上方气流汇合，形成风速加速区；一部分气流由于受电板的阻挡，在电板后沿及电板下方出现气流涡流，在电板后沿下方距离地面形成狭管效应，气流加速。因此光伏板前沿与后沿处形成强风区，光伏板后方形成弱风区，导致光伏板下方形成掏蚀。风速的改变是导致光伏板不同观测位置输沙率发生变化的主要原因，在光伏板下方的强风区，由于风速增大，导致气流挟沙能力增强，对地表形成吹蚀，输沙率增大。光伏电板的形式与公路、铁路等区域防治沙害、雪害的导风板类似,程建军等[15]、王凯[16]研究认为,下导风工程在下口后方出现一定宽度范围的风速增大，这与本文的研究结果相一致。光伏板行道处的弱风区风速较小，气流挟沙能力减弱，形成堆积区，输沙率减小，这与赵鹏宇[17]、袁方[18]等的研究结果相同。对沙区光伏电站来说，光伏板下方是控制沙害的重点区域，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从光伏阵列整体来看，虽然由于光伏板的设置，存在局部风速加速导致的风蚀，也有局地削弱风速和拦截风沙流，但总体来讲，过境风进入光伏阵列后，各观测点与对照旷野点风速相比不断被削弱，即光伏矩阵的布设可降低近地表风速，并导致光伏矩阵内输沙率逐渐减小。本研究结果与郭彩賚等[19]研究一致。因此，电站迎风边缘处是沙区光伏电站控制沙害的关键位置。通过课题组前期的试验结果来看，在光伏阵列迎风边缘设置麦草沙障可使输沙率减小 $6 6 . 6 7 \\%$ ，可以有效减少光伏阵列内的风沙输移,为沙区光伏电站的重要防沙措施[7] 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）电板前沿、电板后沿及电场矩阵行道处输沙量均随着高度增加而呈降低趋势，各观测位置输沙量随高度变化最佳拟合曲线均为多项式曲线。（2）电板前沿、后沿处风沙流受到倾斜电板影响，形成气流加速区，使得上层气流挟沙能力增强，风沙流呈现不饱和状态，地表出现风蚀；电场行道处上层输沙量受到光伏板阻挡，风沙流呈过饱和状态，地表出现堆积。因此，电场内部的风沙防治工作重点为电板下方区域。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）电场迎风边缘区域与电场内部风沙流格局不同，随着深入矩阵内部，地表输沙量逐渐降低，较对照观测点最高降幅达 $9 9 . 1 5 \\%$ ，表明光伏矩阵对电场场区风沙输移有控制作用。从电场整体来看，控制住对光伏电站迎风边缘处风沙流动，对治理光伏电站的风蚀沙埋工作至关重要。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］工信部电子信息司.构建智能光伏产业生态体系[N].中国电 子报,2018-05-04(O01).[Ministry of Industry and Information Technology of the People's Republic of China.Constructing the Intelligent Photovoltaic Industry Ecosystem[N].China Electronics News,2018 -05 -04(001).] [2]张东.光伏产业发展趋势及现状分析[J].轻工科技,2018,34 (3）:41-42,45.[Zhang Dong.Analysis of the development trend and status of photovoltaic industry[J].Light Industry Science and Technology,2018,34(3）:41-42,45.] [3]郭雨薇,李友杰.光伏扶贫的战略意义及推广措施[J].湖北农 业科学,2016,55（16）:4 327-4 329.[Guo Yuwei,Li Youjie. Strategic significance and popularization measures of poverty alleviation by photovoltaic energy[J].Hubei Agricultural Sciences,2016,   \n55(16) :4 327 -4 329.] [4］彭金桂.关于我国光伏发电的土地使用现状和应对策略的几 点思考〔J]．低碳世界,2017（22）:49－50.［Peng Jingui. Thoughts on the current situation of land use and countermeasures of photovoltaic power generation in China[J].Low Carbon World,   \n2017(22):49 -50.] [5］吴汪洋,张登山,田丽慧,等.高寒沙地植物的沙堆形态特征及 其成因分析[J].干旱区研究,2018,35（3）：713－721.[Wu Wangyang,Zhang Dengshan,Tian Lihui,etal.Morphologic features and forming causes of plant sandpiles in alpine sand land[J].Arid Zone Research,2018,35(3）:713-721.] [6]杨丽萍,代海燕,陈素华,等.气候变化对科尔沁沙地木本植物 物候期的影响[J].干旱区研究,2017,34(3）;518-523.[Yang Liping,Dai Haiyan,Chen Suhua,et al. Effects of climate change on phenophase of woody plants in the Horqin Sandy Land[J].Arid Zone Research,2017,34(3):518-523.] [7］陈曦,高永,娜仁格日勒,等.风场及光伏电场配置对阵列风沙 结构影响的模拟分析[J].北京林业大学学报,2017,39(8）：68 -76.[Chen Xi,Gao Yong,Na Rengerile,et al.The simulation analysis of effect of allocation with wind field and photovoltaic DC field on aeolian-sand structure[J]. Journal of Beijing Forestry University,2017,39(8) :68-76.] [8]袁方,张振师，卜崇峰,等.毛乌素沙地光伏电站项目区风速流 场及风蚀防治措施[J].中国沙漠,2016,36(2）：287－294. [Yuan Fang,Zhang Zhenshi,Bu Chongfeng,et al.Wind speed flow field and wind erosion control measures photovoltaic power plant project area in Mu Us Sandy land[J]. Journal of Desert Research,   \n2016,36(2):287 -294.] [9]周志强,黎明.沙漠前沿不同植被恢复模式对风的影响[J].东 北林业大学学报,2011,39（3）:56-60.[Zhou Zhiqiang,Li Ming.Effect of different vegetation restoration modes on wind at the ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "edge of desert[J]. Journal of Northeast Forestry University,2011, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "39(3):56-60.]   \n[10]高永，党晓宏，虞毅,等.乌兰布和沙漠东南缘白沙蒿(Artemisia sphaerocphala)灌丛沙堆形态特征与固沙能力[J].中国沙漠， 2015,35（1）:1-7.[Gao Yong,Dang Xiaohong,Yu Yi,et al. Nabkha morphological characteristics and sand fixing capacity of Artemisia sphaerocphala in the southeastern edge of the Ulan Buh Desert[J]. Journal of Desert Research,2015,35(1）:1-7.]   \n[11]吴正.风沙地貌学[M].北京：科学出版社，1987：38-39.［Wu Zheng.Aeolian Geomorphology〔M].Beijing：Science Press, 1987:38 -39.]   \n[12]Goovaerts P.Geostatistical modelling of uncertainty in soil science [J].Geoderma,2001,103（1）:3-26.   \n[13]张正傯，董治宝，赵爱国,等.输沙量与输沙势的关系[J].中国 沙漠,2011,31（4）:824-827.[Zhang Zhengcai,Dong Zhibao, Zhao Aiguo,et al.Relationship between sand transport and sand drift potential[J]. JournalofDesert Research,2011,31（4):824- 827.]   \n[14]董治宝，慕青松,王洪涛.风沙流中风速廓线的数值模拟与实 验验证[J].气象学报,2008,66（2）:158-166.[Dong Zhibao, Mu Qingsong,Wang Hongtao.Numerical and experimental simulation of the wind velocity profile with a blowing sand cloud[J].Acta Meteorologica Sinica,2008,66(2）:158-166.]   \n[15]程建军,智凌岩，薛春晓,等.铁路沿线下导风板对风沙流场的 控制规律[J].中国铁道科学,2017,38（6）：16-23.[Cheng Jianjun,Zhi Lingyan,Xue Chunxiao,et al.Control law of lower air deflector for sand flow field along railway[J].China Railway Science,2017,38(6) :16-23.]   \n[16]王凯.具有导风板的自然通风逆流湿式冷却塔进风阻力研究 及性能优化[D].济南：山东大学,2009.［WangKai.Research on Flow Resistance of Inlet Air and Performance Optimization of Natural Draft Counter Flow Wet Cooling Tower with Air Deflectors [D].Jinan:Shangdong University,2009.]   \n[17]赵鹏宇.光伏光伏板对地表土壤颗粒及小气候的影响[D].呼 和浩特：内蒙古农业大学,2016.［Zhao Pengyu.Research on the Local Micro Environment Impact of Photovoltaic Power Station on the Northeast Ulan Buh Desert[D].Hohhot:Inner Mongolia Agricultural University,2016.]   \n〔18］袁方.西北风沙区光伏电站施工迹地工程措施的风蚀防治效 益及其机理研究［D].杨凌：西北农林科技大学,2016.［Yuan Fang.Study of the Effectiveness and Mechanism of Wind Erosion Control of Engineering Measures of Photovoltaic Constructing Land in Northwest Sandstorm Area[D].Yangling:Northwest A&FUniversity,2016.]   \n[19]郭彩贊,韩致文,李爱敏,等.库布齐沙漠110 MW光伏基地次 生风沙危害的动力学机制[J].中国沙漠，2018，38（2）：225- 232.[Guo Caiyun,Han Zhiwen,Li Aimin,et al.Dynamic mechanism research on the secondary blown sand disaster in the 11O MW photovoltaic array of the Hobq Desert[J].Journal of Desert Research,2018,38(2):225-232.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Transport of Wind-Drift Sand in Photovoltaic Electric Field in Sand Area ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CHEN Xi， GAO Yong，ZHAI Bo，LIU Xiang-jie， CHENG Bo (CollegeofDesertification Control,Inner Mongolia Agricultural University,HohhotOool8,Inner Mongolia,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:A photovoltaic power station in sand area was taken as the research object to study the transport of wind-drift sandatthe frontand back eaves of photovoltaic plates and the photovoltaicarray roadways soas to figure outthe migrationof wind-driftsandatdiferent spatial positions of the photovoltaic electric fieldinsand area.The results showed that : $\\textcircled{1}$ The sand transport rate at the array was decreased with the increase of height.The optimal fitting equations ofsand transportrateat the observation points along theeaves and back eaves of the electric plate and the array roadways were allthe polynomial functions with the increase of height.The values of $R ^ { 2 }$ were all higher than O.95,and the fitted results were reliable; $\\textcircled{2}$ The eigenvalues of wind-drift sand flow structure at the front and back eaves of the electric plate were higher than1,andthe wind-drift sand flow was unsaturated.The eigenvaluesof wind-drift sand flow structureatthearray roadways were lower than1,and the wind-drift sandflow was saturated.The electric plate playeda guiding role for wind-drift sand transport.Asan airflow acceleration zone formed at the bottom of the electric plate,a wind erosion occurred atthe botom of electric plate.Therefore,the botomof electric plate should be the key area of wind erosion prevention; $\\textcircled{3}$ The sand transport rate at all the observation points in the arays was lowerthanthat inopen field.Therefore,the windward marginal zone ofthe photovoltaic power station should be the key of preventing wind erosion. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:photovoltaic aray；spatial position；transport rate；characteristic value of wind-sand flow structure; Inner Mongolia ",
+        "page_idx": 6
+    }
+]

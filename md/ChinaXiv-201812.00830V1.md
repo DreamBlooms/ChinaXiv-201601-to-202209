@@ -1,0 +1,130 @@
+# 二氢杨梅素-镍配合物的合成及其细胞毒性初探i
+
+张慧」郭清泉1\*舒绪刚2,3　谢宇」谭威」刘　迪」张亚楠1(1.广东工业大学轻工化工学院，广州 510006；2.广州天科生物科技有限公司，广州 510627；3.
+
+仲恺农业工程学院，广州 510225)
+
+摘要：本试验在合成二氢杨梅素-镍配合物（DMY-Ni)的基础上探讨其作为饲料添加剂的饲用安全性。以二氢杨梅素（DMY）和乙酸镍为原料，采用加热回流法合成DMY-Ni，通过紫外光谱、红外光谱对其进行表征。采用噻唑蓝(MTT)法，研究不同浓度（10、20、40、80 和 $1 6 0 ~ \mathrm { \mu g / m L }$ ）、不同作用时间（12、24、36和48h）下，DMY与DMY-Ni对小鼠正常肝实质细胞AML12增殖的影响。结果显示：DMY与镍离子配合后可生成DMY-Ni。10、20 和 $4 0 ~ \mu \mathrm { g / m L }$ DMY或DMY-Ni分别作用AML12细胞 $4 8 \mathrm { { h } }$ 后，AML12细胞的存活率与空白对照组差异不显著 $( P { > } 0 . 0 5 ) { ; } 8 0 ~ \mu \mathrm { g / m L }$ 及以上浓度的DMY-Ni作用AML12细胞 $4 8 \mathrm { { h } }$ 后，AML12 细胞的存活率显著低于空白对照组（ $\cdot P { < } 0 . 0 1$ 或 $P { < } 0 . 0 0 1$ ）， $1 6 0 ~ \mathrm { \mu g / m L }$ 的DMY作用AML12细胞 $4 8 \mathrm { h }$ 后，AML12细胞的存活率显著低于空白对照组（ ${ \scriptstyle \cdot } P { < } 0 . 0 1$ ）。随DMY或DMY-Ni浓度的增加和作用时间的延长，AML12细胞的存活率逐渐降低。DMY与DMY-Ni对AML12细胞的半数抑制浓度（ $\mathrm { I C } _ { 5 0 }$ ）分别为285.1、 $2 2 2 . 8 4 ~ \mu \mathrm { g / m L }$ 。由此得出，DMY与DMY-Ni对 AML12 细胞都具有相对低毒性，且DMY-Ni对AML12 细胞的毒性较DMY 稍有增加。
+
+关键词：饲料添加剂；二氢杨梅素-镍配合物；合成；细胞毒性中图分类号：TS202.3；S816.7 文献标识码：A 文章编号：
+
+随着人类社会的进步，养殖业规模化和集约化迅速发展，为追求高产，防止畜禽疾病发生，提高饲料报酬，饲料添加剂应运而生。它的使用可提高动物的生产性能，增强机体抵抗力，进而提高养殖者的经济效益[1-2]。但饲料添加剂的安全毒理学评价环节尤为重要，它直接关系到人类的健康。二氢杨梅（dihydromyricetin，DMY）是黄酮醇类化合物[3-4]，它的化学名称是3，5，7，3’，4'，5'-六羟基2,3 双氢黄酮，其结构如图1。它具有较高的超离域度，整个分子形成一个大π键共轭体系，具有强烈的配合作用。因具有抗菌、抗肿瘤、护肝、抗氧化等多方面的生理活性，近年来DMY已作为新型饲料添加剂得到广泛的应用。镍（Ni）是机体所必需的微量元素，主要作用是激活机体的各种酶，它具有独特的协调和催化电子转移特性，缺乏镍可出现生长缓慢、生殖力减弱，但镍的过量可导致心肌、脑、肺脏、肝脏和肾脏退行性变。研究发现DMY金属配合物的生物活性明显强于单一有效成分，并且可以同时补充畜禽生长必需的微量元素[5-7]，故二氢杨梅素-镍配合物（DMY-Ni）的研究成为热点，但目前有关DMY-Ni的研究大都停留在其工艺制备、抗氧化性、抑菌性等生物活性方面[8-9]，缺少有力的稳定性及安全性方面的数据。20 世纪80年代末，Nguyen 等[10]首次建立细胞毒性检测的方法，它是在一种离体状态下模拟生物体生长环境，检测药物抑制细胞生长和其他毒性作用的方法，其中噻唑蓝（MTT）法最为常用，此方法简单直观，可分析不同组分及浓度对细胞的毒性。本试验拟以DMY 和乙酸镍为原料合成 DMY-Ni，并以小鼠肝实质细胞为研究对象，研究DMY及DMY-Ni对体外细胞增殖的影响，旨在为安全合理将DMY-Ni用做饲料添加剂提供指导。
+
+![](images/463ec96e88617f250c7bf864d5f448c2d418fa0767636186ef43d655055b0d89.jpg)  
+图1二氢杨梅素分子结构式  
+Fig.1Molecular structure of DMY
+
+371材料与方法
+
+38 1.1 材料与试剂
+
+DMY：西安四季生物科技有限公司，纯度 $9 8 \%$ ；无水乙醇、乙酸镍、无水醋酸钠：国药集团化学试剂有限公司，均为分析纯；蒸馏水：广州屈臣氏蒸馏水公司；小鼠肝实质细胞AML12：上海中乔新舟生物科技有限公司；DMEM（高糖）培养液、胎牛血清：美国Gibco 公司；双抗（青霉素-链霉素）：美国Fisher Scientific 公司；胰蛋白酶：美国 BioBasieUnit 公司；MTT：美国 Sigma 公司；二甲基亚砜：上海生工生物工程有限公司。
+
+1.2仪器
+
+DZF-6050真空干燥箱：上海一恒科学仪器有限公司；UV-2450型紫外可见分光光度计：日本岛津公司；NICOLET-380 型傅里叶变换红外光谱仪：德国 Bruker 公司；CO-150型 INNOVA $\mathrm { C O } _ { 2 }$ 培养箱：美国 NBS 公司；SpectraMax Paradigm 酶标仪：澳大利亚 Molecular Devices 公司；高速离心机：上海安亭科学仪器厂。
+
+# 1.3 DMY-Ni的合成
+
+准确称取 $0 . 6 4 0 ~ \mathrm { g }$ （2mmol）的DMY装于 $2 5 0 ~ \mathrm { m L }$ 带有磁力搅拌子的三口圆底烧瓶中，加 $1 0 0 ~ \mathrm { { m L } }$ 的无水乙醇，待加热、搅拌完全溶解后，向该溶液中加入一定量的无水醋酸钠调节pH约为7.5，继续搅拌 $0 . 5 \mathrm { h }$ 后，加入相同物质的量的乙酸镍 $0 . 4 9 8 { \mathrm { ~ g ~ } }$ （2 mmol），在 $7 0 ^ { \circ } \mathrm { C }$ 的水浴下搅拌冷凝回流 $6 \mathrm { h }$ ，反应结束后放置冷却至室温，减压抽滤，用蒸馏水和无水乙醇交替反复洗涤沉淀3次，然后于 $4 0 ^ { \circ } \mathrm { C }$ 下真空干燥 $^ { 1 0 \mathrm { h } }$ ，得黄褐色固体粉末。
+
+# 1.4 DMY-Ni的表征
+
+紫外光谱表征：将DMY 和所得配合物先分别用少量二甲基亚砜溶解，然后再用大量水稀释至试验所需浓度，以水为参比样，在 $2 0 0 { \sim } 6 0 0 \mathrm { n m }$ 范围内扫描紫外-可见吸收光谱。
+
+红外光谱表征：采用溴化钾（KBr）压片法分别对DMY 和所得配合物进行红外光谱扫描。
+
+．1.5细胞毒性取对数生长期的小鼠肝实质细胞AML12，用DMEM（高糖）培养液调整至 $5 { \times } 1 0 ^ { 4 }$ 个 $/ \mathrm { m L }$ ，并以100μL/孔接种到96孔板中，边缘加磷酸盐缓冲液（PBS），置于 $3 7 ^ { \circ } \mathrm { C }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养。待细胞贴
+
+壁后，弃去上清，用完全培养基将 DMY与DMY-Ni分别按试验设定的浓度梯度配制好，每孔加入含DMY或DMY-Ni的培养液 $1 0 0 ~ \mu \mathrm { L }$ ，并分别孵育12、24、36和 $4 8 \mathrm { { h } }$ 。试验设定的DMY或DMY-Ni终浓度分别为10、20、40、80 和 $1 6 0 ~ \mu \mathrm { g / m L }$ ，每个浓度设置6个复孔，同时设置空白对照组与调零组。待作用相应时间后，弃去上清，每孔加入 $1 0 0 \mu \mathrm { L } 0 . 5 \mathrm { m g / m L }$ 的 MTT溶液，继续培养4h后弃去上清，每孔加入二甲基亚砜 $1 5 0 ~ \mu \mathrm { L }$ ，放置 $1 0 \mathrm { m i n }$ ，用酶标仪测 $4 9 0 \mathrm { n m }$ 处的吸光度（OD）值，重复3次，按下列公式计算细胞增殖率：  
+细胞增殖率 $( \% ) =$ （试验组平均OD值/空白对照组平均OD值） $\times 1 0 0$ 。  
+1.6数据统计分析  
+试验数据采用GraphPadPrism7.0软件中的单因素方差分析（one-way ANOVA)程序进行统计分析，$P { < } 0 . 0 5$ 表示差异有统计学意义。  
+2结果与分析  
+2.1DMY-Ni 的表征  
+2.1.1紫外光谱扫描
+
+由图2可以看到，DMY在 $2 9 2 { \mathrm { n m } }$ 处有强吸收峰，与镍离子配合后，吸收峰的位置移到了30576nm处，与DMY 相比发生了明显的红移，说明 DMY 的结构发生了改变，有新的产物生成。
+
+78
+
+![](images/95cfa44bdba313ae359a997ec7406544e564fa5115c62fee6b6f2c9f033a1fc2.jpg)  
+图2DMY 和DMY-Ni的紫外-可见吸收光谱图  
+Fig.2UV-vis absorption spectra of DMY and DMY-Ni
+
+# 2.1.2 红外光谱扫描
+
+由图3可知， $3 4 0 7 . 7 8 \mathrm { c m } ^ { - 1 }$ 是苯环上的羟基伸缩振动，说明生成的配合物仍存在羟基；DMY 在1$6 4 2 . 3 7 \mathrm { c m } ^ { - 1 }$ 处有强吸收峰，这是4位羰基产生的，在生成配合物时，由于4位羰基与5位羟基偶合作用，导致4位基碳氧双键变弱，吸收峰位置移至 $1 5 9 8 . 4 3 \mathrm { c m } ^ { - 1 }$ 处，向低波数移动了 $4 3 . 9 4 ~ \mathrm { c m ^ { - 1 } }$ ，说明羰基参与了反应。在 $1 ~ 4 0 0 { \sim } 1 ~ 5 0 0 ~ \mathrm { c m ^ { - 1 } }$ 处苯环骨架的吸收峰位置变化不大，说明DMY 和生成的配合物均存在苯环结构；在 $1 ~ 0 5 0 { \sim } 1 ~ 1 5 0 ~ \mathrm { c m ^ { - 1 } }$ 处醚键吸收峰位置基本不变，说明在生成配合物时C环醚键未发生开环；但在低频指纹区中，生成的配合物与DMY相比，在 $6 5 1 . 8 7 \mathrm { c m } ^ { - 1 }$ 处出现了新的吸收峰，表明DMY与镍离子发生了作用，形成了以Ni-O键结合的配合物DMY-Ni。
+
+aDMY  
+120 bDMY-Ni  
+80604020 33559 a 1155554 8855 53558550 1 1115453 11141  
+2040 333234000 3000 2000 1000波数avenumber/（cm1）
+
+2.2 DMY与DMY-Ni对AML12细胞增殖的影响
+
+由图4-A可以看到，在分别经过12、 $2 4 \mathrm { h }$ 的作用后，随着DMY浓度的增加，AML12细胞的存活率基本不变；在分别经过36、48h的作用后，AML12细胞的存活率随着DMY浓度的增大而减小，抑制作用并不明显。在同一浓度下，随着DMY作用时间的增加，AML12细胞的存活率也有所下降。由图4-B 可以看到，在分别经过12、24h的作用后，随着DMY-Ni浓度的增加，AML12 细胞的存活率基本保持不变，这和DMY作用于AML12 细胞的情况一致。而当DMY-Ni分别作用于AML12细胞 36、$4 8 \mathrm { { h } }$ 时，在低浓度时，AML12细胞的存活率基本不变，在高浓度时，AML12细胞的存活率随DMY-Ni浓度的增加而下降，且下降幅度较相同情况下的DMY 明显。在同一浓度不同的作用时间下，AML12细胞的存活率也是呈现时间依赖性。
+
+![](images/a1d553af57c1381bb4f682fc06d3352464689f651386f201a383e4d1d80006e4.jpg)  
+图4DMY 和DMY-Ni对 AML12 细胞增殖的影响  
+Fig.4Effects of DMY and DMY-Ni on proliferation of AML12 cells
+
+图5为DMY和DMY-Ni在作用 $4 8 \mathrm { { h } }$ 后对AML12细胞增殖的影响，可以看出当DMY 浓度在160$\mu \mathrm { g / m L }$ 时，其对 AML12细胞增殖表现出明显的抑制作用，该组AML12 细胞的存活率与空白对照组相比显著降低 $( P { < } 0 . 0 1 )$ ；DMY浓度低于 $1 6 0 ~ \mathrm { \mu g / m L }$ 时，AML12细胞的存活率基本不变，与空白对照组的差异不显著 $( P { > } 0 . 0 5 )$ 。DMY-Ni浓度为 $8 0 { \sim } 1 6 0 ~ \mu \mathrm { g / m L }$ 时，其对AML12 细胞表现出了一定的毒性作用，这2组AML12细胞的存活率与空白对照组相比差异显著( $_ { \scriptstyle P < 0 . 0 1 }$ 或 $P { < } 0 . 0 0 1 \$ )；DMY-Ni低于 $8 0 ~ \mu \mathrm { g / m L }$ 时，AML12细胞的存活率基本不变，与空白对照组的差异不显著 $( P { > } 0 . 0 5 )$ 。通过GraphPad Prism 7.0 软件计算半数抑制浓度（ $\mathrm { I C } _ { 5 0 }$ ），得出DMY对AML12 细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $2 8 5 . 1 ~ \mu \mathrm { g / m L }$ ，DMY-Ni 对 AML12细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $2 2 2 . 8 4 ~ \mu \mathrm { g / m L }$ ，稍低于DMY 的 $\mathrm { I C } _ { 5 0 }$ ，说明配合物DMY-Ni对AML12细胞的毒性较DMY有所增大。
+
+![](images/ffff1140df1996f5a2c8c296523400055821e611afcf26bf79b51a18ab4346c4.jpg)  
+添加剂浓度 Additive concentration $\mathrm { { ( \mu g / m L ) } }$ 0   
+图5DMY 和DMY-Ni作用 $4 8 \mathrm { { h } }$ 后对AML12细胞增殖影响
+
+与空白对照组相比，差异性显著表示为：\*， $P { < } 0 . 0 5$ ；\*\*， $P { < } 0 . 0 1$ ； \*\*\*， $P { < } 0 . 0 0 1$ 。Compared with the blank control group,the differences are significantly expressed as: \*, $P { < } 0 . 0 5$ ；\*\*，$P { < } 0 . 0 1$ ； \*\*\*， $P { < } 0 . 0 0 1$ ：
+
+Fig.5Effects of DMY and DMY-Ni on proliferation of AML12 cells after treatment for $4 8 \mathrm { { h } }$
+
+3讨论
+
+DMY 与镍离子配合后，其紫外-可见吸收光谱发生了明显的红移现象，红外吸收光谱在指纹区有新的特征吸收峰出现，是Ni-O键，从而证明了DMY-Ni配合物的生成。剂量是毒理学研究中最重要的概念。DMY-Ni作为饲料添加剂使用，研究其量效关系非常重要。有研究显示化学物质体外细胞毒性与其引起的动物死亡率及人体死亡的血药浓度之间都存在良好的相关性。化学物质产生的损伤和死亡，最终可表现为细胞水平上的改变，由此研究体外细胞毒性可以预测体内急性毒性。周防震等[11]从细胞水平证明了DMY的低毒性，作用 $4 8 \mathrm { ~ h ~ }$ 时，DMY 对L-02 细胞的 $\mathrm { I C } _ { 5 0 }$ 为324.8$\mu \mathrm { g / m L }$ ；舒洋[12]通过 MTT 法检测了DMY 对 2种正常人永生化肝细胞增殖的影响，结果显示 DMY 对正常人肝细胞没有明显的抑制作用；苏东林等[13]以受试样品最大使用浓度、受试动物最大灌胃容量为试验用量，即Wistar大鼠口服灌胃DMY $5 . 0 \mathrm { g / k g }$ BW，结果没有动物死亡，解剖也未发现有组织器官出现体积、颜色、质地的改变，从而证明了DMY 的低毒性。但对于DMY 的使用，目前并没有明确规定其安全剂量。
+
+DMY 与镍离子结合后其抗氧化、抑菌性等生物活性方面均有加强，对于其安全性方面，本试验采  
+用 MTT法，研究得出DMY对AML12 细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $2 8 5 . 1 \mu \mathrm { g / m L }$ 。由于同一种药物，作用于不同的细  
+胞株，其耐受性也会有差异[14-15]。故本试验结果仍可看作与上述文献报道相一致，即 DMY 具有低毒性。  
+本试验中得出DMY-Ni对 AML12 细胞的 $\mathrm { I C } _ { 5 0 }$ 为 $2 2 2 . 8 4 \mu \mathrm { g / m L }$ ，虽然 DMY-Ni的 $\mathrm { I C } _ { 5 0 }$ 较 DMY 减小，但  
+相差并不大，从这些结果对比来看，DMY 和DMY-Ni对正常细胞确实具有低毒性。由于DMY-Ni 的 $\mathrm { I C } _ { 5 0 }$ 比 DMY 减小了，证明其毒性有所增加。有研究表明，DMY 金属配合物与其  
+配体 DMY 相比，金属离子与配体 DMY产生了协同作用，其抗肿瘤活性提高[16]，这也可能是 DMY-Ni  
+对正常小鼠肝实质细胞AML12毒性相较于其配体DMY 增加的原因。  
+4结论$\textcircled{1}$ 以DMY和乙酸镍为原料，本试验成功合成了配合物DMY-Ni$\textcircled{2}$ DMY 与DMY-Ni对AML12 细胞的抑制作用与药物浓度呈现一定的剂量依赖性，且随作用时间  
+的延长，毒性逐渐增大。$\textcircled{3}$ DMY 对 AML12 细胞具有低毒性，DMY-Ni对 AML12 细胞的毒性较DMY 有所增加，但也是  
+低毒性。  
+参考文献：  
+[1]张帆.饲料添加剂的开发与安全性检测[J].农业与技术,2015,35(16):182.  
+[2]龙海荣,杨洋,刘绍州,等.黄酮类化合物的安全性研究进展[J].食品研究与开发,2008,29(10):154-157.  
+[3]ZHENG Q K,XU L L,ZHU L H,et al.Preliminary investigations of antioxidation of dihydromyricetin inpolymers[J].Bulletin of Materials Science,2010,33(3):273-275.  
+[4]XU Y,WANG F,WANG L,et al.Sensitive voltammetric sensor of dihydromyricetin based onNafion/SWNT-modified glassy carbon electrode[J].Journal of Solid StateElectrochemistry,2012,16(4):1473-1480.
+
+[5]袁娟,郭清泉,曾金华,等.二氢杨梅素-锌配合物的合成及其与DNA 相互作用研究[J].分析测试学报,2012,31(8):982-986.
+
+[6]郭清泉,林淑英,李大光,等.铁-二氢杨梅素螯合物的制备及抗氧化活性研究[J].食品工业科技,2006,27(1):166-168.
+
+[7]袁娟.二氢杨梅素的提取、金属离子配合物的制备及其生理活性的研究[D].硕士学位论文.广州:广东工业大学,2013.
+
+[8]刘艳红,李驰荣,乔丹丹,等.二氢杨梅素结构及剂型修饰的研究进展[J].日用化学工业,2015,45(9):518-522.
+
+[9]李海霞.二氢杨梅素-镍配合物的制备及其羟自由基的清除作用[J].中国酿造,2013,32(5):70-73.
+
+[10] NGUYEN A T,MALONNEH,DUEZ P,etal.Cytotoxic constituentsfrom Plumbago zeylanica[J].Fitoterapia,2004,75(5):500-504.
+
+[11]周防震,郑小江,张晓元.藤茶活性成分二氢杨梅素对人胚肾细胞和肝细胞增殖的影响[J].中成 药,2015,37(12):2756-2758.
+
+[12]舒洋.二氢杨梅素对肝癌细胞增殖、凋亡的作用及机制研究[D].硕士学位论文.广州:广东医学院,2015.
+
+[13]苏东林,黄继红,姚茂君.二氢杨梅素的急性毒理学评价及对酒精性肝损伤的防治效果[J].湖南农业科学,2009(11):90-93.
+
+[14]刘丹丹,方宁烨,肖德强,等.茶多酚对体外培养人胚肝细胞生存率的影响[J].广西医学,2013,35(3):260-263.
+
+[15]张国营,孙玉萍.茶多酚对人胚肺细胞和猴肾细胞毒性的实验研究[J].安徽农业大学学报,1994(4):454-457.
+
+[16] 周美锋,何其庄,费菲.纳米稀土谷氨酸咪唑三元配合物的合成、表征及抗菌活性研究[J].中国稀土学报,2007,25(5):549-555.
+
+Synthesis of Dihydromyricetin-Nickel Complex and Preliminary Study on Its Cell Toxicity2   
+ZHANG Hui'GUO Qingquan1\*SHU Xugang2,3XIE ${ \mathrm { Y u } ^ { 1 } }$ TAN WeilLIU Di'ZHANG Yanan1 (1. School of Chemical Engineering and Light Industry, Guangdong University of Technology,Guangzhou   
+510006, China; 2. Guangzhou Tianke Biological Technology Co.,Ltd., Guangzhou 510627, China; 3.College of Zhongkai Agricultural Engineering, Guangzhou 510225, China)
+
+Abstract: This experiment was conducted to synthesis the dihydromyricetin-nickel complex（DMY-Ni） and clarify the feeding safety of DMY-Ni as feed additive.DMY-Ni was prepared by the heating reflux method with dihydromyricetin（DMY）and nickel acetate as the materials.The complex was characterized by ultraviolet （UV） spectra and infrared （IR） spectra.DMY and DMY-Ni were used to study the effects of different concentrations (10,20,40,80 and $1 6 0 ~ \mu \mathrm { g / m L }$ ） and different action time(12,24,36 and $4 8 \mathrm { ~ h ~ }$ ）on the proliferation of normal liver parenchymal cells AML12 for mice by MTT method.The results showed as follws: the complex which was synthesized by DMY and nickel ion was confirmed as DMY-Ni.The survival rate of AML12 cells which were treated by 10, 20 and $4 0 ~ \mu \mathrm { g / m L }$ DMY or DMY-Ni for 48 hours was not significantly different compared with the blank control group $( P { > } 0 . 0 5 )$ . After treatment for $4 8 \mathrm { ~ h ~ }$ , the survival rate of AML12 cells of DMY-Ni group of $8 0 ~ \mu \mathrm { g / m L }$ and above was significantly lower than that of the blank control group ( $_ { \it P 1 0 1 }$ or $P { < } 0 . 0 0 1$ ), and the survival rate of AML12 cells of DMY group of $1 6 0 ~ \mu \mathrm { g / m L }$ was significantly lower than that of the blank control group $( P { < } 0 . 0 1 )$ ). And the survival rate of AML12 cells was gradually decreased with the increase of the concentration of DMY or DMY-Ni and the extension of the action time.Half the inhibitory concentrations $\left( \mathrm { I C } _ { 5 0 } \right)$ of DMY and DMY-Ni on AML12 cells were 285.1 and 222.84 （204号 $\mu \mathrm { g / m L }$ , respectively. In conclusion, DMY and DMY-Ni have relatively low toxicity to AML12 cells,and the toxicity to AML12 cells of DMY-Ni is slightly increased compared with DMY. Key words: feed additives; dihydromyricetin-nickel complex; synthesis; cell toxicity

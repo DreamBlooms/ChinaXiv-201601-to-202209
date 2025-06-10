@@ -1,0 +1,628 @@
+[
+    {
+        "type": "text",
+        "text": "气候与下垫面变化对叶尔羌河源流径流的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任才1²，龙爱华¹²，於嘉闻¹²，尹振良³，张继1.2(1.石河子大学水利建筑工程学院,新疆 石河子832000；2.中国水利水电科学研究院流域水循环模拟与调控国家重点实验室,北京100038；3.中国科学院西北生态环境与资源研究所内陆河流域生态水文重点实验室，甘肃 兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以叶尔羌河流域上游河源区为研究区，构建嵌入了冰川模块的SWAT分布式水文模型，对卡群水文站1968—2017年逐月径流进行模拟，评价该模型在研究区内的适用性，基于模拟结果分析研究区冰川径流年际变化与年内分布情况，并定量核算气候和下垫面变化对径流变化的贡献率。结果表明：该模型在研究区径流模拟中具有良好的适用性，校准期(1968—1992年)与验证期（1993—2017年）的决定系数 $\\left( R ^ { 2 } \\right)$ 分别为0.77和0.86，纳什系数(NSE)分别为0.76和0.85，均方根误差与实测值标准差的比值(RSR)分别为0.49和0.38，偏差百分比(PBIAS)分别为 $- 7 . 4 \\%$ 和 $0 . 6 \\%$ 。经模拟，研究区近50a冰川径流量总体呈增加趋势，且其占总径流量的比重约为 $5 1 . 1 \\%$ ;年内冰川产流主要发生在6一9月，占全年冰川径流量的 $9 0 . 0 \\%$ 以上。气候和下垫面变化分别使月径流量增加$6 . 6 2 \\ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ 和 $0 . 4 1 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，其中气候变化的贡献率为 $9 4 . 2 \\%$ ，即气候变化对研究区径流的影响占主导地位。研究成果可为理解研究区的历史径流变化成因及预测未来径流的演变趋势提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：气候变化；下垫面变化；SWAT模型；冰川径流模拟；叶尔羌河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "气候和下垫面变化是影响流域水文循环过程改变的主要因素，其中径流演变对不同时空尺度下气候和下垫面变化的响应研究是水资源规划及其管理的基础[1]。目前在该研究领域主要采用的研究方法以对比分析法[2]、统计分析法[3]和水文模型法[4]为主。其中，基于物理过程模拟的分布式水文模型能够充分反映流域的空间异质性，较为准确地刻画流域水文过程，并揭示水文循环过程的内在作用机理。该方法已广泛应用于气候和下垫面变化及两者协同变化对径流影响的研究中[5-7]。SWAT模型(Soil andwaterassessment tool)作为一种基于GIS的半分布式流域水文模型，已应用在我国多个流域的径流模拟研究中，特别是在实测数据较为缺乏的西北内陆河流域,该模型也是径流过程模拟的重要研",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "究工具之一[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来随着SWAT模型的发展日趋成熟，针对该模型的应用也在不断完善，例如，Rahman等在瑞士罗纳河上游山区应用SWAT模型研究了径流对区域气候模式输出的响应;郭军庭等[10]在潮河流域应用SWAT模型进行月尺度径流模拟，量化区分了下垫面和气候变化对径流变化的影响;赵杰等[]在乌鲁木齐河上游汇水区应用SWAT模型进行日径流模拟，发现模拟结果与观测流量过程线拟合程度较好；刘全謁等[2]和祁敏等[13]在洮河和阿克苏河流域分别结合GIS和加入融雪模块的SWAT模型对多年月径流进行了模拟，发现结合GIS和融雪模块后的模型模拟精确度更高。但目前国内外学者多是从降雨或融雪的角度对径流进行的模拟研究，对于冰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "川水文过程模拟的相关研究涉及较少，例如在塔里木河流域源流区,张一驰等[14]和黄粤[15-16]等分别应用MIKESHE模型对开都河流域径流进行了模拟研究；王鹏等在阿克苏河流域应用含融雪结构的新安江模型对出山口径流进行模拟,模拟结果精度有待提高；罗敏等[18应用MIKESHE模型对未来气候情景下的和田河流域日径流过程进行了模拟，率定及验证期的模拟结果均在可接受范围内。此外，在干旱内陆河流域，许多以冰雪融水为主要补给源的河川径流模拟结果也不够理想，这些研究成果无法为流域管理者合理制定水资源管理措施提供决策支撑[19]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以叶尔羌河流域上游河源区为研究区，利用冰川编目数据修正研究区内的冰川空间分布情况，构建能够模拟冰川水文过程的SWAT模型对月径流过程进行模拟，分析气候和下垫面变化对径流演变的贡献率，以期为叶尔羌河流域上游河源区的生态保护、水资源管理及其相关政策措施的制定提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区、数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶尔羌河流域上游河源区地处喀喇昆仑山北坡(地理坐标 $7 4 ^ { \\circ } 2 7 ^ { \\prime } { \\sim } 7 8 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E } , 3 5 ^ { \\circ } 2 6 ^ { \\prime } { \\sim } 3 8 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { N } )$ ，流域面积为 $4 6 4 0 4 . 8 7 ~ \\mathrm { k m } ^ { 2 }$ ，占全流域总面积的 $4 6 . 9 \\%$ ，研究区地势南高北低，以高山积雪带、亚高山、高山草甸带和低山丘陵带等地带为主[20]；海拔在1447\\~$8 5 3 7 \\mathrm { ~ m ~ }$ 之间，具有明显的大陆气候特征(图1)。研究区境内共发育有第四纪冰川3059条，冰川总面积$5 3 1 5 ~ \\mathrm { k m } ^ { 2 }$ ，总储量达 $6 8 4 . 5 ~ \\mathrm { k m } ^ { 3 }$ ，年冰川融水量达$3 8 . 2 4 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 [ 2 1 ] }$ 。研究区多年平均气温为 $- 1 0 . 2 \\mathrm { ~ \\textdegree C }$ ，当地降水主要受地形影响，高山带年降水量约 $5 0 0 \\sim$ $7 0 0 ~ \\mathrm { { m m } }$ ,中高山带年降水量约 $3 0 0 ~ \\mathrm { m m }$ ,中低山带年降水量约 $1 5 0 ~ \\mathrm { m m }$ 。研究区水系属典型冰川融雪补给型河流，其中干流长约 $5 8 5 ~ \\mathrm { k m }$ ,年径流量 $6 6 \\times 1 0 ^ { 8 }$ $\\mathbf { m } ^ { 3 }$ ,其中冰雪融水径流占比 $7 7 . 4 \\% ^ { [ 2 2 ] }$ 。据研究区下游出山口处水文站一一卡群站(地理坐标 $7 6 ^ { \\circ } 5 4 ^ { \\prime } \\mathrm { E }$ ，$3 7 ^ { \\circ } 5 9 ^ { \\prime } \\mathrm { N }$ ；海拔 $1 4 5 0 \\mathrm { ~ m ~ }$ )的实测资料分析显示，该地区径流量年内分布极不均匀，其中6一8月径流量约占年径流量的 $7 3 . 8 \\%$ 。径流出山后，经叶尔羌河流域中下游并最终与和田河一起汇人塔里木河干流。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/30eff348f0c63273611d0c028783bada0b04ed99cfda790e06ed06d9a5a9507a.jpg",
+        "img_caption": [
+            "图1叶尔羌河流域上游河源区概况 Fig.1 Overview of the headwaters of the upper Yarkant RiverBasin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2基础数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1DEM数据及冰川编目数据数字高程模型(DEM)数据来源于国际科学数据服务平台，分辨率为 $9 0 ~ \\mathrm { m }$ ，主要用于提取地形信息、计算水流方向和集水面积、提取河网、划分子流域",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区第一次冰川编目数据来源于1962—1977年航测地形图，第二次冰川编目数据来源于2004—2011年LandsatTM/ETM $^ +$ 和ASTER遥感影像。2次冰川编目数据分别用于确定校准期和验证期内的冰川空间分布情况",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2下垫面数据研究区下垫面数据包括我国境内和境外2个部分。国内部分以地理空间数据云(http://www.gscloud.cn/)1990、2015年Landsat数据作为基础数据源，分辨率为 $3 0 \\mathrm { m }$ 。境外部分数据以欧盟联合研究中心的全球土地覆盖数据集(GLC2000)作为数据源(https:/forobs.jrc.ec.europa.eu/products/glc200O/products.php）。本文利用第一次和第二次的冰川矢量数据分别替换1990年和2015年下垫面类型中的冰川类型数据(CNJX)。依据SWAT模型标准建立下垫面类型索引表并进行重分类(表1)，最终得到模型所需的下垫面类型图(图2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3土壤数据研究区国内部分的土壤数据以中国科学院南京土壤所发布的1:1000000的土壤数据库为数据源，境外部分数据以联合国粮农组织(FAO)和维也纳国际应用系统研究所(IIASA)构建的世界土壤数据集（Harmonized world soil database,HWSD)为数据源(http://westdc.westgis.ac.cn）。本文利用第一、二次冰川矢量数据替换了原数据中的冰",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1下垫面重分类名称及面积占比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/886e17048131e86675caf9be7599b521a54a1e595835c50d95f56a6d8daff690.jpg",
+        "table_caption": [
+            "Tab.1 Names and area proportions of underlying surface reclassification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>名称</td><td>重分类名称</td><td>面积占比/%</td></tr><tr><td>12</td><td>旱地</td><td>AGRR</td><td>0.1</td></tr><tr><td>21</td><td>有林地</td><td>XJZY</td><td>0.2</td></tr><tr><td>22</td><td>灌木林</td><td>XJGC</td><td>0.2</td></tr><tr><td>31</td><td>高覆盖草地</td><td>XJCD</td><td>9.8</td></tr><tr><td>32</td><td>中覆盖草地</td><td>XJCY</td><td>17.5</td></tr><tr><td>33</td><td>低覆盖草地</td><td>XJHM</td><td>9.3</td></tr><tr><td>41</td><td>河渠</td><td>XJHQ</td><td>0.1</td></tr><tr><td>43</td><td>水库坑塘</td><td>WASK</td><td>0.1</td></tr><tr><td>44</td><td>永久性冰川雪地</td><td>CNJX</td><td>12.6</td></tr><tr><td>52</td><td>城镇用地</td><td>URLD</td><td>0.0</td></tr><tr><td>62</td><td>戈壁</td><td>XJGB</td><td>1.6</td></tr><tr><td>66</td><td>裸岩石质地</td><td>XJLY</td><td>48.7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "川雪被类型(ICE)。各项土壤属性参数通过SPAW软件及检索中国土壤数据库(http://vdb3.soil.csdbcn)得到，依据SWAT模型标准对原数据进行重分类(表2)，最终得到模型所需的土壤类型图(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4气象水文数据由于研究区内仅有一个国家气象站(塔什库尔干站)，仅用该站点的实测数据无法反映整个区域的气象环境。因此，本文的气温和降水数据采用中国地面降水和气温日值 $0 . 5 ^ { \\circ }$ 格点数据集(V2.0)资料,来源为中国气象数据共享网(http://data.cma.cn）。该数据集是由我国境内751个观测站的观测数据插值形成23，通过交叉验证和误差分析检查，可以较好地反映研究区的气温和降水空间分布特征。本文用于模型率定与验证的径流数据来源于卡群水文站1968—2017年实测月径流资料。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/153709ee1310014bb23621ad4feee73e1e3ee4c949808e4593e28375494db4e4.jpg",
+        "img_caption": [
+            "图2叶尔羌河流域上游河源区下垫面分布"
+        ],
+        "img_footnote": [
+            "Fig.2Distribution of underlying surface types in the headwaters of the upper Yarkant River Basin "
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/abb1779be3e24b0a1e7a3406728229daee2285b1579a397f176e2303bada3b15.jpg",
+        "table_caption": [
+            "表2土壤重分类名称及面积占比",
+            "Tab.2Namesand areaproportionsof soil reclassification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>亚类名称</td><td>土类名称</td><td>土壤亚类代码</td><td>重分类名称</td><td>面积占比/%</td></tr><tr><td>寒冻土</td><td>寒冻土</td><td>23120171</td><td>HDTXJ</td><td>41.2</td></tr><tr><td>棕钙土</td><td>棕钙土</td><td>23113101</td><td>ZGTXJ</td><td>9.2</td></tr><tr><td>淡棕钙土</td><td>棕钙土</td><td>23113102</td><td>DGTXJ</td><td>5.4</td></tr><tr><td>棕漠土</td><td>棕漠土</td><td>23114121</td><td>ZMTXJ</td><td>3.3</td></tr><tr><td>含盐石质土</td><td>石质土</td><td>23115185</td><td>HYSZTXJ</td><td>1.4</td></tr><tr><td>草毡土</td><td>草毡土</td><td>23120102</td><td>CZTXJ</td><td>0.9</td></tr><tr><td>寒钙土</td><td>寒钙土</td><td>23120122</td><td>HGTXJ</td><td>2.0</td></tr><tr><td>冷钙土</td><td>冷钙土</td><td>23120132</td><td>LGTXJ</td><td>18.7</td></tr><tr><td>寒漠土</td><td>寒漠土</td><td>23120151</td><td>HMTXJ</td><td>5.3</td></tr><tr><td>冰川雪被</td><td>冰川雪被</td><td>23127101</td><td>ICE</td><td>12. 6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/186ada7054ebdccd8eac5822a772da45d094ffa3a7c568263b942e88cfd7b702.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图3叶尔羌河流域上游河源区土壤类型分布",
+            "Fig.3Distribution of soil types in the headwaters of the upper Yarkant River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1降水、气温和径流变化趋势分析采用一元线性回归法[24对研究区气候特征及年径流历史变化趋势进行分析，并采用非参数Mann-Kendall法对其变化趋势进行显著性检验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 冰川模块算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = \\left\\{ \\begin{array} { l l } { ( { F _ { \\mathrm { { M } } } + R _ { \\mathrm { { i c e } } } I _ { \\mathrm { { p o t } } } } ) \\times ( T - { T _ { \\mathrm { { m l t } , \\mathrm { { i c e } } } } } ) \\ , \\ T > T _ { \\mathrm { { m l t , \\mathrm { i c e } } } } } \\\\ { 0 \\ } & { \\ T \\leqslant T _ { \\mathrm { { m l t , \\mathrm { i c e } } } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $M$ 为冰川每日消融量 $( \\mathbf { m } ^ { 3 } ) ; F _ { \\mathrm { M } }$ 为冰温融化因 子； $R _ { \\mathrm { i c e } }$ 为冰辐射融化因子； $I _ { \\mathrm { p o t } }$ 为潜在太阳直接辐射； $F _ { \\mathrm { M } } { + } R _ { \\mathrm { i c e } } I _ { \\mathrm { p o t } }$ 为考虑辐射因素影响的冰川消融因子； $T$ 为 日均温 $( \\det )$ ； $T _ { \\mathrm { m l t , i c e } }$ 为发生冰川消融的阈值温度 $( \\mathcal { C } )$ 0 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\boldsymbol { V } } = { \\boldsymbol { c } } { \\boldsymbol { S } } ^ { \\gamma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $V$ 为冰川体积 $( \\mathbf { m } ^ { 3 } ) ; c$ 为常数; $s$ 为冰川表面积$( \\mathbf { m } ^ { 2 } ) { ; \\gamma }$ 为无量纲标度系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = W _ { \\mathrm { s } } \\times \\beta _ { \\mathrm { 0 } } \\biggl \\{ 1 + \\sin \\biggl [ \\frac { 2 \\pi } { 3 6 5 } ( t - 8 1 ) \\biggr ] \\biggr \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $F$ 为冰川物质累积量; ${ \\cal { W } } _ { \\mathrm { { s } } }$ 为积雪水当量; $\\beta _ { 0 }$ 为基础累积系数； $\\mathbf { \\Phi } _ { t }$ 为某天的序号。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 水文过程模拟本文基于SWAT模型对叶尔羌河流域上游河源区的径流进行模拟，进而量化分析气候和下垫面变化对当地径流的影响。SWAT模型是由美国农业部农业研究中心(USDA-ARS)开发的1个基于物理过程的半分布式水文模型，目前已被广泛应用于流域水文模拟、流域管理及非点源污染控制等方面[25-27]。SWAT模型建模过程大致包含3个部分：首先基于DEM数据对研究流域进行流域离散化，然后基于模型中输入的土地利用、土壤数据及坡度等进行水文响应单元(HRUs)划分，最后根据输入的气象数据模拟流域的水文过程，并根据模拟结果对模型参数进行调整和验证，研究流程如下图4所示。本文将Ying等28开发的冰川径流的冰川模块嵌人SWAT模型，对研究区冰川融水径流进行模拟。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区以 $2 0 0 \\ \\mathrm { k m } ^ { 2 }$ 为集水阈值，将流域划分为112个子流域，2379个水文响应单元(HRUs），模拟近50a(1968—2017年)逐月径流，其中1968—1992年为模型校准期，1993—2017年为模型验证期。采用SUFI-2不确定性分析算法(Sequential uncertaintyfitting-version2)对模型参数进行敏感性分析，采用自动率定和手动校准相结合的方式对参数进行率定。模拟结果的评价标准选用决定系数 $\\left( R ^ { 2 } \\right)$ 、纳什系数（Nash-Sutcliffeefficiency,NSE）、均方根误差与实测值标准差的比值(RMSE-observationsstandarddeviationratio,RSR)和偏差百分比（Percentbias,PBIAS)4项指标，定义公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\frac { \\displaystyle \\left[ \\left( \\sum _ { i = 1 } ^ { n } \\big ( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { \\mathrm { a v g } } ^ { \\mathrm { o b s } } \\big ) \\big ( Q _ { i } ^ { \\mathrm { s i m } } - Q _ { \\mathrm { a v g } } ^ { \\mathrm { s i m } } \\big ) \\right) \\right] } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\big ( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { \\mathrm { a v g } } ^ { \\mathrm { o b s } } \\big ) ^ { 2 } \\sum _ { i = 1 } ^ { n } \\big ( Q _ { i } ^ { \\mathrm { s i m } } - Q _ { \\mathrm { a v g } } ^ { \\mathrm { s i m } } \\big ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N S E } = 1 - \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\Bigl ( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { i } ^ { \\mathrm { s i m } } \\Bigr ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } \\Bigl ( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { \\mathrm { a v g } } ^ { \\mathrm { o b s } } \\Bigr ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R S R } = \\frac { \\mathrm { R M S E } } { \\mathrm { S T D E V } _ { \\mathrm { o b s } } } = \\frac { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { i } ^ { \\mathrm { s i m } } \\right) ^ { 2 } } } { \\displaystyle \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { \\mathrm { a v g } } ^ { \\mathrm { o b s } } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff0c94f1a85d284c6e9b3f3b45b4777feb7e861a5e497d01c373337b3ff9a082.jpg",
+        "img_caption": [
+            "图4研究流程图",
+            "Fig.4 Research process "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B I A S } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( Q _ { i } ^ { \\mathrm { o b s } } - Q _ { i } ^ { \\mathrm { s i m } } \\right) } { \\displaystyle \\sum _ { i = 1 } ^ { n } Q _ { i } ^ { \\mathrm { o b s } } } \\times 1 0 0 \\\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q _ { i } ^ { \\mathrm { s i m } }$ 为时间步长 $i$ 内模型模拟的河道径流量$( \\mathbf { m } ^ { 3 } )$ ; $Q _ { i } ^ { \\mathrm { { o b s } } }$ 为时间步长 $i$ 内水文站实际观测的河道径流量 $\\left( \\mathbf { m } ^ { 3 } \\right) ^ { \\circ }$ ； $Q _ { \\mathrm { a v g } } ^ { \\mathrm { s i m } }$ 和 $Q _ { \\mathrm { a v g } } ^ { \\mathrm { o b s } }$ 分别为模拟时间段内模拟和观测的平均径流量 $( \\mathbf { m } ^ { 3 } )$ ； $\\mathrm { \\Delta S T D E V _ { \\mathrm { \\ o b s } } }$ 为实测值标准差，反映实测值相对于平均值的离散程度，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NSE系数用来评价模型模拟的精度，取值范围为 $- \\infty \\sim 1$ ,越接近1,说明模型模拟效果越好，一般认为 $\\mathrm { N S E } { > } 0 . 7 5$ ,模拟结果为“优”。RSR指标越接近于0表示模拟效果越好，一般认为 $\\mathrm { R S R } { < } 0 . 5$ ，模拟结果为“优”。PBIAS表示模拟的平均值高于或低于实测值，越接近0表明模拟效果越好，一般认为PBIAS $< \\pm 1 0 \\%$ ,模拟结果为“优”。 $R ^ { 2 }$ 取值范围为 $0 \\sim$ 1,表明模拟值与实测值之间的线性相关程度和相关的方向,越接近1,表明模拟值与实测值相关性越好[29]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.4气候和下垫面变化及二者协同作用对径流的影响将研究期内的气候和下垫面数据相互交叉，并设计出 $\\mathrm { S } _ { 0 } , \\mathrm { S } _ { 1 } , \\mathrm { S } _ { 2 } , \\mathrm { S } _ { 3 }$ 共4种子情景(表3)，分析对比不同情景下的径流模拟结果，以量化气候和下垫面变化对径流的影响程度，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta Q _ { \\mathrm { { C + L } } } { = } \\Delta Q _ { \\mathrm { { C } } } { + } \\Delta Q _ { \\mathrm { { L } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\mathrm { c } } { = } \\frac { \\Delta Q _ { \\mathrm { c } } } { \\Delta Q _ { \\mathrm { c + L } } } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\mathrm { L } } { = } \\frac { \\Delta Q _ { \\mathrm { L } } } { \\Delta Q _ { \\mathrm { C + L } } } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\Delta Q _ { \\mathrm { c + L } }$ 为径流在气候和下垫面变化共同作用下的变化总量 $( \\mathbf { m } ^ { 3 } \\cdot \\mathbf { s } ^ { - 1 } )$ ; $\\Delta Q _ { \\mathrm { c } }$ 为径流在气候变化作用下的变化量 $\\left( \\mathbf { m } ^ { 3 } \\cdot \\mathbf { s } ^ { - 1 } \\right)$ ; $\\Delta Q _ { \\mathrm { { L } } }$ 为径流在下垫面变化作用下的变化量 $\\left( \\mathbf { m } ^ { 3 } { \\cdot } \\mathbf { s } ^ { - 1 } \\right)$ ; $\\beta _ { \\mathrm { c } }$ 和 $\\beta _ { \\mathrm { L } }$ 为气候变化和下垫面变化对径流影响的贡献率 $( \\% )$ O",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1降水量、气温和径流变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据塔什库尔干气象台站及卡群水文站相关实测数据，对研究区1968—2017年降水量、气温和径流序列历史变化趋势分析和显著性检验结果（图5、图6和图7)表明，近 $5 0 \\mathrm { a }$ 研究区年均降水量增加了 $3 9 . 8 ~ \\mathrm { m m }$ ,年增长率为 $1 . 0 \\%$ ；年均气温上升了$2 . 4 4 ~ \\mathrm { { ^ { \\circ } C } }$ ,年增长率为 $1 . 2 \\%$ ;年径流量增加了 $1 7 . 2 0 \\times$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,年均增长率 $0 . 5 \\%$ ;由Mann-Kendall趋势检验法知，在 $\\scriptstyle \\alpha = 0 . 0 5$ 的显著性水平下，降水量、气温和径流检验均通过信度 $9 9 \\%$ 显著性检验，可见三者的增加趋势均显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fa96fb6917b48539919a134788d6d427c63b5365a16b2f774a3811074a376aa.jpg",
+        "table_caption": [
+            "表3气候和下垫面变化对径流影响的情景设置",
+            "Tab.3Scenario settings of the influences of climate and underlying surface change on runoff "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>情景</td><td>气候数据年份</td><td>下垫面数据年份</td><td>模拟径流结果</td></tr><tr><td>S。 (基础情景)</td><td>1966—1992</td><td>1990</td><td>Q</td></tr><tr><td>S(气候变化情景)</td><td>1993—2017</td><td>1990</td><td>Q1</td></tr><tr><td>S(下垫面变化情景)</td><td>1966—1992</td><td>2015</td><td>Q</td></tr><tr><td>S (协同作用情景)</td><td>1993—2017</td><td>2015</td><td>Q3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f57a194b3e802b8f96110a70cfc4feea812bea8329b6263a280ebf8254102b9d.jpg",
+        "img_caption": [
+            "图5塔什库尔干站年降水量变化趋势 Fig.5Change trend of annual precipitation in Taxkorgan Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2模型参数选取与模拟结果分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 模型参数选取与率定运用SUFI-2算法对相关模型参数进行敏感性分析，从中选取对于径流模拟精度影响较大的13个参数进行自动率定，结合研究区的冰川水文过程并参考Zhang等[3的研究成果，采用手动校准法再次校准参数，直到模拟结果均符合各项评价指标。率定的具体参数及最优值见表4。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2模拟结果评价与分析本文选取1966—1967年为模型模拟的预热期，未输出模拟结果。以1968—1992年为模型校准期，1993—2017年为模型验证期，对研究区的月径流进行模拟。模型在校准期和验证期的月值模拟结果如图8和图9,参数化评价指标结果如表5所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/350d606011b6dee72df9b0ba6fcd9f83ab831543dd4be8fff250acde85e39549.jpg",
+        "img_caption": [
+            "图6塔什库尔干站日最高、最低气温变化趋势 Fig.6Variation trend of dailymaximumand minimum temperature in Taxkorgan Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdddfa71f9ac0df46f6a8264d339daa72983f46dd1c36c6b13ef5ca351870fed.jpg",
+        "img_caption": [
+            "图7卡群站年径流变化趋势",
+            "Fig.7Change trend of annual runoff variation inKaqun Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8和图9表明，模型在加入冰川模块后，校准期和验证期径流模拟曲线和实测曲线能较好地拟合在一起，表明嵌入冰川模块后的SWAT模型模拟效果良好，能够较为准确地刻画研究区的多年月径流过程。研究区个别年份（1971、1973、1977、1988年和1994年)的冰湖溃决洪水[31导致出山口汛期的径流模拟结果误差相对较大，其它年份的流量峰值与基流的模拟结果均较为准确，表明模型的结构较为可靠，模型相应参数选取合理，可依据模型的输出结果作进一步分析研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e32997900acc538ab5480ab30ff3b29f20305fa23b39e7d6aa15e4176fb524b.jpg",
+        "table_caption": [
+            "表4率定参数及其最优值",
+            "Tab.4 Calibration parameters and their optimal values "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数模块</td><td>参数名称</td><td>参数意义</td><td>参数范围</td><td>参数最优值</td></tr><tr><td rowspan=\"5\">径流</td><td>ESCO</td><td>土壤蒸发补偿系数</td><td>[0.01, 1.0]</td><td>0.6</td></tr><tr><td>ALPHA_BF</td><td>基流系数</td><td>[0.1, 1.0]</td><td>0.036</td></tr><tr><td>CH_K2</td><td>主河道河床有效水力传导度</td><td>[0, 50]</td><td>6.5</td></tr><tr><td>GWQMIN</td><td>“基流\"水位阈值</td><td>[1, 200]</td><td>100</td></tr><tr><td>GW_DELAY</td><td>地下水延迟时间</td><td>[0, 180]</td><td>60</td></tr><tr><td rowspan=\"3\">冰川</td><td>FM</td><td>融冰系数</td><td>[2.6, 13]</td><td>5.5</td></tr><tr><td>Rice</td><td>冰辐射系数</td><td>[0, 0.1]</td><td>14.4×10-6</td></tr><tr><td>β</td><td>基础蓄积系数</td><td>[0.001, 0.006]</td><td>0.003</td></tr><tr><td rowspan=\"5\">积雪</td><td>SMFMX</td><td>6月21日融雪度日因子</td><td>[0, 10]</td><td>6.5</td></tr><tr><td>SMFMN</td><td>12月21日融雪度日因子</td><td>[0, 10]</td><td>1.0</td></tr><tr><td>SFTMP</td><td>降雪阈值温度</td><td>[-5,+5]</td><td>1.0</td></tr><tr><td>SMTMP</td><td>融雪阈值温度</td><td>[-5,+5]</td><td>0.5</td></tr><tr><td>TIMP</td><td>积雪温度滞后系数</td><td>[0.1, 2.0]</td><td>1.0</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f018c40990a131217410d9b7de97679cf3b17bfeed5a380e09482daf7712c5e6.jpg",
+        "img_caption": [
+            "图8卡群站月平均流量模拟结果(校准期)"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef14d30fa90051a7b7533e707097f1801ace68a8b34f69797ee81a3107ade00a.jpg",
+        "img_caption": [
+            "Fig.8Simulation results of monthly average flow in Kaqun Station (calibration period) ",
+            "图9卡群站月平均流量模拟结果(验证期)",
+            "Fig.9Simulation results of monthly average flow in Kaqun Station (verification period) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5为模型校准期、验证期和全时段内的月径流统计评估结果，其中校准期月径流模拟值为$2 1 8 . 1 0 \\ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ,比实测值高 $1 4 . 9 6 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ,模拟结果相对偏大;验证期月径流模拟值为 $2 2 4 . 7 2 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ，比实测值低 $1 . 3 4 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ,表明模型在验证期的模拟结果与实际情况更相符；而全时段月径流模拟值为$2 2 1 . 4 1 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,比实测值略高 $6 . 8 1 \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，但全时段的模拟结果能基本反映实际径流的变化趋势。从各项评价指标来看，校准期和验证期的评价结果均为“优”，其中校准期分别为： $R ^ { 2 } { = } 0 . 7 7 \\cdot N \\mathrm { S E } { = } 0 . 7 6 \\cdot \\mathrm { R S R } { = }$ 0.49、PBIAS $\\mathrm { \\dot { s } } = - 7 . 3 7 \\%$ ，表明模拟值与实测值的拟合程度较好；验证期分别为： $R ^ { 2 } { = } 0 . 8 6 , \\mathrm { N S E } { = } 0 . 8 5 , \\mathrm { R S R } { = }$ $0 . 3 8 \\mathrm { \\ : , P B I A S = } 0 . 5 9 \\%$ ,表明验证期模拟结果更优于校准期。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3冰川水文过程分析依据分布式水文模拟模型输出结果对其冰川水文过程进行年际变化趋势分析(图10)，结果表明：近50a研究区模拟年径流量总体呈缓慢上升趋势，其中最大和最小年径流量分别为2012年的 $9 9 . 5 5 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ 和1996年的 $4 8 . 5 9 \\times$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,多年平均年径流量 $6 8 . 2 6 \\times 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ 。而冰川径流与年径流模拟过程的变化趋势基本一致，呈上升趋势。年最大和最小冰川径流量分别为 $4 4 . 9 9 \\times 1 0 ^ { 8 }$ $\\mathrm { m } ^ { 3 } ( 2 0 0 1$ 年)和 $2 5 . 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ （1972年），多年平均冰川径流量为 $3 4 . 8 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ，占多年平均总径流量的$5 1 . 1 \\%$ 。近50a冰川径流量总体呈增长的趋势，年均增长率约为 $0 . 2 \\%$ ,其占总径流量的比重在 $34 . 0 \\% \\sim$ （204号$7 0 . 4 \\%$ 之间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究区实测径流、模拟径流和冰川径流年内分布模拟(图11)结果表明：研究区月冰川径流模拟结果占月径流模拟总量的比重约为 $1 1 . 9 \\% { \\sim } 7 4 . 0 \\%$ ，其中2月占比最小,8月占比最大。在2月到8月间，随着气温的上升，冰川径流量呈逐月增加的趋势；从8月至翌年2月，冰川径流量呈逐月减少的趋势。在12月到翌年4月间，研究区的冰川径流量为 $1 . 5 9 \\times$ $1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ,仅占年冰川径流量的 $2 . 8 \\%$ 。研究区的冰川产流主要发生在夏季的6一9月，占全年冰川径流的",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dee4790e11c74caac66f9b432b83442d43955e6c154864da2491e63bfa3dcfcd.jpg",
+        "table_caption": [
+            "表5卡群站月平均径流模拟结果评价",
+            "Tab.5 Evaluation of monthly runoff simulation results in Kaqun Station "
+        ],
+        "table_footnote": [
+            "注： $R ^ { 2 }$ 为决定性系数，NSE为纳什系数，RSR为均方根误差与实测值标准差的比值，PBIAS为偏差百分比。"
+        ],
+        "table_body": "<html><body><table><tr><td>时段</td><td>实测径流均值/m·s-1</td><td>模拟径流均值/m·s-1</td><td>R²</td><td>NSE</td><td>RSR</td><td>PBIAS/%</td></tr><tr><td>校准期(1968-01—1992-12)</td><td>203.14</td><td>218.10</td><td>0.77</td><td>0.76</td><td>0.49</td><td>-7.37</td></tr><tr><td>验证期(1993-01—2017-12)</td><td>226.06</td><td>224.72</td><td>0.86</td><td>0.85</td><td>0.38</td><td>0.59</td></tr><tr><td>全时段(1968-01—2017-12)</td><td>214.60</td><td>221.41</td><td>0.82</td><td>0.81</td><td>0.44</td><td>-3.17</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "120「-模拟年径流－模拟冰川径流－冰川径流贡献率 135  \n0/ 90  \n105  \n1 9  \n30 75  \n60  \n45  \n-30 30  \n9 鸟多名 2012201  \n年份",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "起的径流增加量为 $0 . 4 1 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ，下垫面变化对径流影响的贡献率 $( \\beta _ { \\mathrm { { L } } } )$ 为 $5 . 8 \\%$ 。在气候与下垫面变化的协同变化条件下( $\\mathrm { \\langle S _ { 0 } { \\longrightarrow } S _ { 3 } \\rangle }$ )，研究区月径流量增加$7 . 0 3 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ 。1968一2017年,气候变化、下垫面变化及二者协同变化均引起研究区月径流量的增加，径流对气候及下垫面变化协同作用的响应具有叠加效应，其中气候变化对研究区径流演变的影响占据主导地位。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "35 一实测径流 80一模径流 60 %/三--冰川径流贡献率  \n2015 40  \n1 20  \n5  \n0 1 1 ！ 1 11 2 3 4 5 6 7 8 9 10 11 12月份",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1968一2017年，叶尔羌河流域上游河源区呈暖湿化的气候特征，加剧了冰川消融的速度，直接导致了当地径流量的增加。本文对叶尔羌河流域上游河源区气象水文变化特征进行了分析，基于SWAT模型对1968一2017年的月径流进行模拟，区分并量化了气候与下垫面变化对径流变化的影响，主要结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）研究区近50a的降水量、气温及径流量增加趋势显著，年均增长率分别为 $1 . 0 \\% , 1 . 2 \\%$ 和$0 . 5 \\%$ 。研究区内冰川覆盖率达 $1 2 . 6 \\%$ ，除降雨和积雪外，在模型的模拟过程中应充分考虑冰川水文过程，故本文在SWAT模型中嵌入了基于增强温度指数法的冰川模块。增强温度指数法在数据缺乏的流域尺度计算上具有较强的鲁棒性，且该算法整体性能好，相比度日因子法，该法能更好地解释由局部地形引起地空间异质性[32]。嵌入冰川模块的SWAT月径流模型在校准期、验证期与全时段的模拟结果评价均为“优”，表明模型在该流域具有较好的适用性，但依然与实际径流变化过程存在一定差距，导致这一差距的原因包括以下几个方面：个别年份存在冰湖溃决洪水现象[33]；模型数据在输入过程中存在不确定性以及数据获取具有一定局限性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$9 1 . 1 \\%$ ,其中仅8月的比重高达 $4 1 . 2 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3气候和下垫面变化对径流演变的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由气候及下垫面变化对径流影响的定量分析结果可知(表6)：基础情景 $\\mathrm { ( S _ { 0 } ) }$ 模拟月径流 $Q _ { 0 }$ 为$2 1 7 . 6 7 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ,气候变化情景 $\\mathrm { ( S _ { 1 } ) }$ 模拟月径流 $Q _ { 1 }$ 为$2 2 4 . 3 1 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，下垫面变化情景 $( \\mathbf { S } _ { 2 } )$ 模拟月径流 $Q _ { 2 }$ 为$2 1 8 . 1 0 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ,协同变化情景 $( \\mathsf { S } _ { 3 } )$ 模拟月径流 $Q _ { 3 }$ 为$2 2 4 . 7 2 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ 。气候变化条件下 $( \\mathrm { S } _ { 0 } { \\longrightarrow } \\mathrm { S } _ { 1 } )$ )，研究区月径流量增加了 $6 . 6 2 ~ \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ ,气候变化对径流影响的贡献率 $( \\beta _ { \\mathrm { { C } } } )$ 为 $9 4 . 2 \\%$ 。下垫面变化条件( $\\mathrm { \\ S } _ { 0 } { \\longrightarrow } \\mathrm { S } _ { 2 }$ 引",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）经模型模拟得到的年际间的年径流量及冰川径流量结果均呈增加趋势，其中多年冰川径流量占径流总量的 $5 1 . 1 \\%$ ,该结果与其他学者对其他类似气候条件下的冰川融雪补给型河流的研究结果相似[34]。这说明暖湿化的气候特征对冰川这类固态水资源系统的影响十分剧烈，且随着暖湿化特征的不断显现，未来冰川径流在总径流中的占比将会逐渐增大。从年内模拟结果看，月冰川径流量占月径流量的比重在 $1 1 . 9 \\% { \\sim } 7 4 . 0 \\%$ 之间，其中2月最小，8月最大;研究区的冰川产流主要发生在6一9月，占全年冰川径流量的 $9 0 . 0 \\%$ 以上。值得注意的是，50a间研究区径流量的峰值期提前了近1个月左右(从8月提前到7月），表明当地的冰川消融速度正在不断加快[35]",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/534d14ca5ea79dcb45155fbc8efd87ff454cff41cb4190c7f17e59bb1dc1a576.jpg",
+        "table_caption": [
+            "表6气候及下垫面变化对径流影响定量分析结果",
+            "Tab.6Quantitative analysis results of the influence of climate and underlying surface change on runoff "
+        ],
+        "table_footnote": [
+            "注： $\\smash { Q _ { 0 } , Q _ { 1 } , Q _ { 2 } , Q _ { 3 } }$ 分别表示基础情景、气候变化情景、下垫面变化情景、协同变化情景下的模拟月径流； $\\Delta Q _ { \\mathrm { c } } \\backsim \\Delta Q _ { \\mathrm { L } } \\backsim \\Delta Q _ { \\mathrm { c + L } }$ 分别表示径流在气候、下垫面、气候和下垫面共同作用下的变化量;βc和β表示气候变化和下垫面变化对径流影响的贡献率。"
+        ],
+        "table_body": "<html><body><table><tr><td>水文站</td><td>Qo/m3·s-1</td><td>Qi/m³·s-1</td><td>Q2/m³·s-1</td><td>Q3/m·s-1</td><td>△Qc/m·s-1</td><td>△Qi/m·s-1</td><td>△Qc+/m³·s-1</td><td>βc/%</td><td>β%</td></tr><tr><td>卡群</td><td>217.67</td><td>224.31</td><td>218.10</td><td>224.72</td><td>6.62</td><td>0.41</td><td>7.03</td><td>94.2</td><td>5.8</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3）气候变化和下垫面变化分别导致研究区月径流增加 $6 . 6 2 \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ 和 $0 . 4 1 \\ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,二者对径流变化的贡献率分别为 $9 4 . 1 7 \\%$ 和 $5 . 8 3 \\%$ ,从气候和下垫面变化对当地径流影响的分析结果来看，在气温升高和降水量增加等气候条件变化的影响下，研究区模拟月径流量有较大增加；在下垫面变化的情景下，模拟月径流的增加量相对较少，可见气候变化对研究区径流变化的影响占主导地位。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，本研究还存在一定的不足：(1)本研究区的气象数据集获取具有一定难度，今后考虑收集基于遥感资料同化的再分析数据集并应用于后续模拟研究。（2）未考虑到水利工程[3等因素对研究区径流的影响[3,在日后的模拟过程中应对这些人为因素的影响程度进行更深入的研究[38-40]。(3）未结合未来变化情景下不同的气候模式，预测研究区径流的演变过程，在日后的研究中应进一步对气候变化条件下径流的变化规律进行分析，为流域未来的水资源管理提供决策支撑。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]杨满根,陈星.气候变化对淮河流域中上游汛期极端流量影响 的 SWAT模拟[J].生态学报,2017,37(23):8107-8116.[Yang Mangen, Chen Xing.Effects of climate change on extreme streamflow in flood season in the upper and middle basin of the Huaihe River by SWAT simulation[J].Acta Ecologica Sinica,2017,37 (23): 8107-8116.]   \n[2] Brown A E,Zhang L,Mcmahon T A,et al.A review of paired catchment studies for determining changes in water yield resulting from alterations in vegetation[J]. Journal of Hydrology,2O05,310 (1-4): 28-61.   \n[3]龙爱华,邓铭江,谢蕾,等.气候变化下新疆及咸海流域河川径 流演变及适应性对策分析[J].干旱区地理,2012,35(3):377- 387.[Long Aihua,Deng Mingjiang,Xie Lei,et al. Exploring analysis on the adaptive countermeasures to water resources evolvement under the climate change in Xinjiang and Aral Sea Basin[J]. Arid Land Geography,2012,35(3): 377-387.]   \n[4]祖拜代·木依布拉,师庆东,普拉提·莫合塔尔,等.基于SWAT 模型的乌鲁木齐河上游土地利用和气候变化对径流的影响 [J].生态学报,2018,38(14): 5149-5157.[Muyibul Zubaida, Shi Qingdong,Muhtar Polat,et al. Land use and climate change effects on runoff in the upper Urumqi River watershed: A SWAT model based analysis[J].Acta Ecologica Sinica,2018,38(14): 5149-5157.]   \n[5]李帅,魏虹,刘媛,等.气候与土地利用变化下宁夏清水河流域 径流模拟[J].生态学报,2017,37(4):1252-1260.[Li Shuai,Wei Hong,Liu Yuan,etal.Runoff prediction for Ningxia Qingshui River Basin under scenariosof climate and landusechanges[J]. Acta Ecologica Sinica,2017,37(4): 1252-1260.]   \n[6]秦文静,王云琦,王彬,等.土地利用和气候变化对王家桥小流 域径流的影响[J].水文,2019,39(2): 49-54.[Qin Wenjing, Wang Yunqi,Wang Bin, et al. Impacts of land use and climate change on runoffin Wangjiaqiao Watershed[J]. Journal of China Hydrology,2019,39(2): 49-54.]   \n[7]袁宇志,张正栋,蒙金华.基于SWAT模型的流溪河流域土地利 用与气候变化对径流的影响[J].应用生态学报,2015,26(4): 989-998.[Yuan Yuzhi, Zhang Zhengdong, Meng Jinhua, et al.Impact of changes in land use and climate on the runoff in Liuxihe Watershed based on SWAT model[J]. Chinese Journal of Applied Ecology,2015,26(4): 989-998.]   \n[8]尹振良,肖洪浪,邹松兵,等.祁连山黑河干流山区水文模拟研 究进展[J].冰川冻土,2013,35(2):438-446.[Yin Zhenliang, Xiao Honglang,Zou Songbing, et al.Progress of research on hydrological simulation in the mainstream of the Heihe River, Qilian Mountains[J]. Journal of Glaciology and Geocryology,2013,35(2): 438-446.]   \n[9]Rahman K,Etienne C, Gago-Silva A,et al. Streamflow response to regional climate model output in the mountainous watershed: A Case study from the Swiss Alps[J].Environmental Earth Sciences, 2014, 72(11): 4357-4369.   \n[10] 郭军庭,张志强,王盛萍,等.应用SWAT模型研究潮河流域土 地利用和气候变化对径流的影响[J].生态学报,2014,34(6): 1559-1567.[Guo Junting, Zhang Zhiqiang,Wang Shengping,et al. Appling SWAT model to explore the impact of changes in land use and climate on the streamflow in a watershed of northern China [J]. Acta Ecologica Sinica,2014,34(6): 1559-1567.]   \n[11] 赵杰,徐长春,高沈瞳,等.基于SWAT模型的乌鲁木齐河流域 径流模拟[J].干旱区地理,2015,38(4): 666-674.[Zhao Jie,Xu Changchun,Gao Shentong,et al.Hydrological modeling in the Urumqi River Basin basedon SWAT[J]. Arid Land Geography, 2015,38(4): 666-674.]   \n[12] 刘全謁,齐明亮,马啸宙,等.基于遥感和GIS 的洮河流域面源 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "污染流域尺度模拟及防治对策研究[J].干旱区地理,2020,43 (3): 706-714.[Liu Quanyang,Qi Mingliang,Ma Xiaozhou, et al. SWAT simulation and countermeasures of non-point source pollution based on remote sensing and GIS in Taohe River Basin[J].Arid Land Geography,2020,43(3): 706-714.]   \n[13] 祁敏,张超.基于SWAT模型的阿克苏河流域径流模拟[J].水土 保持研究,2017,24(3): 283-287.[Qi Min, Zhang Chao.Runof simulation in Aksu River Basin based on SWAT modelJ].Research of Soil and Water Conservation,2017,24(3): 283-287.]   \n[14]张一驰,李宝林,包安明,等.开都河流域融雪径流模拟研究[J] 中国科学:地球科学,2006,36(增刊2):24-32.[Zhang Yichi,Li Baolin,Bao Anming,et al. Simulation study on snowmelt runoff in Kaidu RiverBasin[J].SientaSinca (erre),06,6(pl.2): 24-32.]   \n[15] 黄粤,陈曦,包安明,等.干旱区资料稀缺流域日径流过程模拟 [J].水科学进展,2009,20(3):332-336.[Huang Yue,Chen Xi, Bao Anming,et al. Daily flow modeling in arid ungauged basin[J]. Advances in Water Science,2009,20(3): 332-336.]   \n[16] 黄粤,陈曦,包安明,等.开都河流域山区径流模拟及降雨输入 的不确定性分析[J].冰川冻土,2010,32(3):567-572.[Huang Yue,Chen Xi,Bao Anming,et al. Distributed hydrological modeling in Kaidu Basin: MIKE-SHE model calibration and uncertainty estimation[J].Journal of Glaciology and Geocryology,2010,32(3): 567-572.]   \n[17] 王鹏,姜卉芳,穆振侠.阿克苏河源流径流模拟初探[J].水资源 与水工程学报,2012,23(3): 51-54,57.[Wang Peng,Jiang Huifang,Mu Zhenxia. Simulation of runoff process in headstream of Aksu River[J]. Journal of Water Resourcesand Water Engineering, 2012,23(3): 51-54, 57.]   \n[18] 罗敏,刘铁,黄粤,等.未来气候情景下和田河流域日径流过程 模拟[J].水资源与水工程学报,2016,27(2):11-17.[Luo Min, Liu Tie,Huang Yue,et al. Simulation of daily runoff process in Hotan River Basin under scenario of future climate[J]. Journal of Water Resources and Water Engineering,2016,27(2): 11-17.]   \n[19] 陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考[J].干 旱区地理,2012,35(1):1-9.Chen Yaning,Yang Qing,Luo Yi,et al. Ponder on the issues of water resources in the arid region of northwest China[J].AridLand Geography,2012,35(1):1-9.]   \n[20] 刘蛟,刘晓辉,刘铁,等.驱动数据对流域水文模拟中不同结果 要素的影响[J].自然资源学报,2019,34(11): 2481-2490.[Liu Jiao,Liu Xiaohui,Liu Tie,etal.The impacts of input data on different simulated results in hydrological modelling[J].Journal of Natural Resources,2019,34(11): 2481-2490.]   \n[21] 陈昱凝,胡林金,颜伟,等.叶尔羌河上游不同流域夏季气候和 径流变化研究[J].冰川冻土,2014,36(3): 678-684.[Chen Yuning,Hu Linjin, Yan Wei, etal. Study of the changes in summer climate and runoff in two upper streamsof the Yarkant River[J]. Journal of Glaciology and Geocryology,2014,36(3): 678-684.]   \n[22] 陈亚宁,徐长春,郝兴明,等.新疆塔里木河流域近50a气候变 化及其对径流的影响[J].冰川冻土,2008,30(6):921-929. [Chen Yaning,Xu Changchun,Hao Xingming,et al.Fifty-year climate change and its ffect on annual runoff in the Tarim River Basin, China[J]. Journal of Glaciology and Geocryology,2Oo8,30(6): 921-929.]   \n[23] Zhao YF, Zhu J. Assessing quality of grid daily precipitation datasets in China in recent 5O years[J].Plateau Meteorology,2015,34 (1): 50-58.   \n[24] 刘启宁,辛卓航,韩建旭,等.变化环境下东北半干旱地区径流 演变规律分析——以洮儿河流域为例[J].水力发电学报, 2020,39(5): 51-63.[Liu Qining, Xin Zhuohang, Han Jianxu,et al. Analysis on the evolution mechanisms of streamflow in semi-arid region in northeast China under the changing environment: A case study in Taoer River Basin[J]. Journal of Hydroelectric Engineering,2020,39(5): 51-63.]   \n[25]吴用,李畅游,张成福,等.基于ArcGIS 和SWAT的山区、平原 区复合地貌流域划分方法研究[J].干旱区地理,2016,39(2): 413-419.[Wu Yong,Li Changyou, Zhang Chengfu, etal.A watershed delineation method for mountains,plains complex landform area based on ArcGIS and SWAT[J]. Arid Land Geography,2016, 39(2): 413-419.]   \n[26]龙爱华,邹松兵,许宝荣,等.SWAT 2009理论基础[M].郑州:黄 河水利出版社,2012:1-378.[Long Aihua,Zou Songbing,Xu Baorong,etal. Soil and water assessment tool theoretical documen tation version 2O09[M]. Zhengzhou: Yellw River Water Conservancy Press,2012:1-378.]   \n[27]Neupane P,Bailey R T,Tavaloil-Kivi S.Assessing controls on selenium fate and transport in watersheds using the SWAT model[J]. Science of the Total Environment,2020,738:140318,doi: 10. 1016/j.scitotenv.2020.140318.   \n[28] Ying Z L,Feng Q,Liu S Y,et al.The spatial and temporal contributionof glacier runoff to watershed discharge in the Yarkant River Basin,northwest China[J]. Water,2017,9(3): 159.   \n[29]Moriasi D N,Arnold JG, Liew M,et al. Model evaluation guidelines for systematic quantification of accuracy in watershed simulations[J]. Transactions of the Asabe,2007,50(3): 855-900.   \n[30] Zhang Y,Liu S Y, Ding Y J. Observed degree-day factors and their spatial variation on glaciers in western China[J].Annals of Glaciology,2006,43(1): 301-306.   \n[31]Dubey S,Goyal M K.Glacial lake outburst flood hazard,downstream impact,and risk over the Indian Himalayas[J]. Water Resources Research,2020,56(4):e2019wr026533，doi: 10.1029/ 2019wr026533.   \n[32]Luo Y,Arnold J,Liu S Y,et al. Inclusion of glacier processes for distributed hydrological modeling at basin scale with application to a watershed in Tianshan Mountains,northwest China[J]. Journal of Hydrology,2013,477: 72-85.   \n[33] 王鹏赫,赵成义,王丹丹,等.气候变化对叶尔羌河流域极端水 文事件的影响[J].生态科学,2018,37(6):1-8.[Wang Penghe, Zhao Chengyi, Wang Dandan, et al. Influence of climate change on hydrological extremes of Yarkant River Basin[J]. Ecological Science,2018,37(6): 1-8.]   \n[34] Gao X, Ye B S, Zhang SQ,etal. Glacier runoffvariation and its influence on river runoff during 1961—2OO6 in the Tarim River Basin,China[J].Science ChinaEarth Science,201O,53:88O-891.   \n[35]魏天锋,刘志辉,姚俊强,等.呼图壁河径流过程对气候变化的 响应[J].干旱区资源与环境,2015,29(4):102-107.[Wei Tianfeng,Liu Zhihui,Yao Junqiang,et al.Response of Hutubi River runoff process on climate change[J]. Journal of Arid Land Resources and Environment,2015,29(4): 102-107.]   \n[36]赵悦.水利工程项目质量管理研究[D].长春:吉林大学,2017. [Zhao Yue.Research on quality management of water conservancy projects[D]. Changchun: Jilin University,2017.]   \n[37] 薛宝林,张瀚文,闫宇会,等.黄垒河流域气候与土地利用变化 对径流的影响[J].北京师范大学学报(自然科学版),2020,56 (3):445-453.[Xue Baolin, Zhang Hanwen,Yan Yuhui,et al. Impact of climate and land use change on runoff in Huanglei River Basin[J]. Journal of Beijing Normal University (Natural Science Edition),2020,56(3): 445-453.]   \n[38]Guo JT, Zhang ZQ,Wang SP,et al.Appling SWAT model to explore the impact of changes in land use and climate on the streamflow in a watershed of northern China[J].Acta Ecologica Sinica, 2014,34(6): 1559-1567.   \n[39]Ying ZL,Xiao HL, Zou S B,et al. Simulation of hydrological processes of mountainous watersheds in inland river basins: Taking the Heihe Mainstream River as an example[J].Journal of Arid Land,2014,6(1): 16-26.   \n[40] 刘志斌,黄粤,刘铁,等.开都河源区径流变化的气候响应[J].干 旱区研究,2020,37(2):418-427.[Liu Zhibin,Huang Yue,Liu Tie,et al. Climate response of runoff variation in the source area of the Kaidu River[J]. Arid Zone Research,2020,37(2): 418-427.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Effects of climate and underlying surface changes on runoff of Yarkant River Source ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REN Cai²， LONG Aihua'²， YU Jiawen1²， YIN Zhenliang^， ZHANG Ji $^ { 1 , 2 }$ (1.CollgeofWaterandArcitecturalEngineing,ieiUnversity,iezi2,Xijiang,Cina;.StateKeybto of SimulationandRegulationof WaterCycle inRiverBasin,ChinaInstituteof WaterResourcesand HydropowerResearch,eijing 100038,China;3.KeyLaboratoryofEcohydrologyofInlandRiverBasin,NorthwestInstituteofEco-EnvironmentandResources, Chinese Academy of Sciences,Lanzhou 73oooo,Gansu, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Climate and underlying surface changes are the main factors affcting the changes in the hydrological cycle of a river basin. Research on the response ofthe runof evolution to climate and underlying surface changes at different temporal and spatial scales is the basis of water resource planning and management.This study took the upper reaches of the Yarkand River Basin in Xinjiang,China as the study area,constructed a SWAT distributed hydrological model embedded with glacier modules,and simulated the monthly runoffrom 1968 to 2017 at the Kaqun Hydrological Station to evaluate the model’s applicability in the study area.The simulation results were used to analyze the interannual variability and the intra-year distributionof the glacier runoff in the study area and quantitatively calculate the contribution rate of climate and underlying surface changes to runoff changes.The results show that the model has good applicability during the runoffsimulation in the study area. The $R ^ { 2 }$ during the calibration period from 1968 to 1992 and the verification period from 1993 to 2017 was 0.77 and 0.86,respectively; the NSE was 0.76 and 0.85,respectively;the RSR was 0.49 and 0.38,respectively; and the PBIAS was $- 7 . 4 \\%$ and $0 . 6 \\%$ ,respectively. The simulation showed that the glacier runoff in the study area generally increased in the past 5O years,with the proportion of the total runof being approximately $51 . 1 \\%$ . The glacier runoff mainly occurred from June to September of the year, accounting for $9 0 . 0 \\%$ of the annual glacier runoff. The changes in climate and land use increased the monthly runoff by $6 . 6 2 \\mathrm { m } ^ { 3 } \\cdot \\mathrm { s } ^ { - 1 }$ and $0 . 4 1 ~ \\mathrm { m } ^ { 3 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ,respectively. The contribution rate of climate change is $9 4 . 2 \\%$ ,depicting that the impact of climate change on the runoff in the studyarea is dominant.The research resultscan provide a scientific basis for understanding the causes of the historical runoff changes in the study area and predicting the future runoff evolution trends. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Words: climate change;underlying surface change;SWAT model； glacier runoff simulation； Yarkant Riv-er Basin",
+        "page_idx": 10
+    }
+]

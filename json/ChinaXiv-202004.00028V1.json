@@ -1,0 +1,708 @@
+[
+    {
+        "type": "text",
+        "text": "天气和空气污染对诚信行为的影响：一项校园丢钱包的现场实验",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵玉杰1 高扬² 周欣悦11（浙江大学管理学院 杭州 310058）2（清华大学工程物理系 北京 100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[目的]本文通过两个研究探讨天气状况和空气污染对诚信行为的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[方法］研究1通过重新分析Cohn等人（2019）在全球范围内对诚信行为的研究数据，发现了天气状况和空气污染对诚信行为的影响；研究2通过准实验的研究方法，在三所高校进行了丢钱包的实验并记录当天天气和空气污染状况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结果］两项研究共同表明：（1）在非晴朗的天气下，人们会做出更多的不诚信行为；  \n（2）空气污染越严重，人们越有可能出现不诚信的行为。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[局限]准实验研究确实让我们更好的在真实环境下观察到了天气状况、空气污染对于诚信行为的影响，但也正因为如此，人们诚信行为背后的机制尚未被很好地揭示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[结论]天气状况和空气污染也是影响诚信行为的重要因素。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：诚信行为 空气污染 天气状况 现场实验分类号：TP393",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Influence of Weather and Air Pollution on Honest ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Behavior: A Field Experiment about Lost Wallets on Campus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Yujiel Gao Yang² Zhou Xinyuel 1(School of Management， Zhejiang University， Hangzhou 310058， China) 2 (Department of Engineering Physics,Tsinghua University， Beijing 100084，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Objective] The purpose of the current research was to explore how weather and air pollution influence honest behavior. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Methods] In Study 1， we used second-hand experimental data published online. In Study 2， we used a quasi experiment to test the influence of weather and air pollution on honest behavior. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Results] The results of Study 1 indicated that participants were more likely to contact the owner to return the wallet during sunny weather than during cloudy weather. Study 2 further replicated this result and suggested that participants were more likely to take the campus card or money under cloudy weather and air pollution conditions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Limitations]Quasi experimental research does allow us to better observe the impact of weather conditions and air pollution on honest behavior in real environment， but because of this， the mechanism behind people's integrity behavior has not been well revealed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Conclusions] In conclusion, sunny weather promotes honest behavior, but air pollution reduces honest behavior. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: honesty;air pollution; weather; field experiment ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1问题提出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "诚信行为是人们经济、社会正常运行的基石。2016年底《关于加强个人诚信体系建设的指导意见》的发布，将备受瞩目的个人信用体系建设推向了新的高度党的十八大以来，国家也加快了诚信体系的建设。然而现实生活中仍然存在众多不诚信的行为制约着我国经济社会的发展。根据人民网的相关报道：我国每年因诚信缺失造成的经济损失超过6000亿元，我国年签订合同40多亿份，但履约率仅 $50 \\%$ 左右。不仅如此，诚信缺失也严重影响了世界经济的发展，全球腐败和其他非法资金流动的成本每年约为1.3万亿美元（Kar&Cartwright-Smith,2009）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "正因如此，众多研究都对影响诚信行为的因素展开了研究。在国内，陆慧菁（2012）从个人层面出发探究了自欺对于欺骗他人的影响。另外，很多平时不起眼的因素也会影响人们的诚信行为，例如人们在各种文件中签名的位置：上位签名往往可以带来更多诚信行为（李贺等，2014）。国际上，诚信行为的研究一直以来都是包括心理学在内众多学科研究的重点，2019年在《科学》（Science）上发表关于全球诚信行为的实验研究，探讨了金钱诱惑与诚信行为的关系（Cohn,Maréchal,&Zünd,2019），研究结论获得了广泛的关注。虽然关于诚信影响因素的研究不断深入，但是目前来看，诚信领域的研究很少关注那些时刻影响人们生活的因素，因此本研究尝试探索时刻影响人们生活的天气状况和空气污染对诚信行为的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在研究方法上，长期以来关于诚信行为的研究都强调真实的行为而非诚信意愿（Gerlach,Teodorescu,&Hertwig,2019）。研究者往往通过巧妙的实验设计，例如：发送-接收者游戏（sender-receiver game）、掷骰子任务（die-roll tasks）、抛硬币任务（coin-flip tasks）和矩阵任务（matrix tasks），在实验室研究中探究影响人们诚信行为的因素。但是Gerlach等人（2019）通过对565个实验的元分析发现，在实验室情境下的诚信行为和真实环境中的诚信行为存在明显的差异，不诚信的行为在实验室实验中更为普遍（Peer,Brandimarte,Samat,&Acquisti,2017）。因此，通过现场实验检验真实环境下人们的诚信行为显得尤其重要。遗憾的是，虽然国际上较早的开始使用现场实验研究诚信行为（Cunningham,1979），国内在相关领域的研究却相对不足。综上，考虑到诚信研究对环境因素的关注以及现场实验研究的不足，本研究希望探讨天气的晴朗状况、空气质量是否会影响人们的诚信行为，进而对这一领域进行重要的理论和实证补充。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1诚信行为的影响因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到诚信对于社会经济发展的重要作用，包括心理学在内的众多研究都在探讨影响人们诚信行为的因素。一方面，诚信行为会受到个体层面的影响。例如，职业和身份很可能会影响一个人的诚信行为（Fosgaard,Bucciol,Hansen,&Piovesan,2013）。即使是学生的身份，学习的专业很可能对他们的诚信行为有不同的影响，经济学、商科专业更有可能让学生变得不诚信（Lewis etal.,2012;Lundquist,Ellingsen,Gribbe,&Johannesson,2009）。另一方面，经济学的相关研究认为，一个人是否会做出不诚信的行为取决于利益的大小、被其他人发现的可能性以及可能存在的惩罚（Becker,1968）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了上述因素之外，人们日常生活的环境也是影响诚信行为的重要因素。例如环境的整洁程度就是影响人们道德行为的重要因素。当人们处在干净的环境下人们对自己的道德要求也会提升。Helzer和Pizarro（2011）发现，当提醒人们洗手的时候（干净的观念），人们对于不道德的行为表现出更加强烈的批判态度，同样的，当人们想到自己干净的形象的时候人们也会有着更加严格的道德标准（Zhong,Strejcek,& Sivanathan,2010）。相对应的，脏乱的环境下人们会更容易出现撒谎、偷窃等不诚信甚至是违法的行为（Keizer,Lindenberg,& Steg,2008）。除了整洁程度之外，明亮程度与诚信行为之间也存在密切的联系。在较暗的情况下，犯罪率会显著的升高，正因如此，19世纪照明灯的出现让很多地区的犯罪率显著的降低（Bouman,1987）。之所以会出现这样的情况是因为人们错误的认为黑暗的环境可以遮掩自己的不道德行为，这就是所谓的匿名幻觉(illusory anonymity）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "既然环境会影响人们的诚信行为，那么时刻伴随人们的环境因素一一天气和空气究竟会对人们的诚信行为产生怎样的影响？",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2天气状况对道德行为的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "天气对我们日常生活的影响是方方面面的，大到国民经济生产尤其是农业生产活动，小到我们日常学习工作的安排，无一不受到天气的影响。同时天气状况也是影响人们心理和行为的重要因素（Watson,2000）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在天气状况对人类行为影响的相关研究中，光照对行为的影响得到了较多的关注。这主要是因为相比于其它天气因素，阳光对人们情绪的影响往往是立竿见影的。情绪的改善往往在第一次强光干预之后就会表现出来（Kripke,1998），Lambert等人(2002)发现光照可以促进大脑血清素的产生，即使是人工阳光（由一盏非常明亮的灯产生）也可以起到类似的作用。因此，这种方式也成为缓解抑郁症症状的重要手段（Kripke,1998）。Winslow和Herrington（1936）发现，一天当中的日照量和人们心情的愉悦程度的相关系数可以高达0.78。因此在光照比较适宜的情况下，人们在户外的时长和人们的积极情绪呈现正相关关系（Kelleretal.,2005）。季节性情感障碍（SAD）也是光照影响情绪的典型案例。所谓季节性情感障碍，是指在特定季节尤其是冬季表现出的以抑郁为特征的心理障碍，它不仅会让人出现嗜睡的症状，也会让人们的记忆能力、学习能力甚至是视觉能力下降（Michalon,Eskes,&Mate-Kole,1997），而造成这种心理障碍的主要原因就是较短的冬季光照时间，这也是该类情感障碍常见于中、高纬度地区的原因。实际上，光照引起的情绪问题往往还会产生更加严重的后果，相关研究发现雨雪天气（光照弱）往往会引起更多的自杀案件（Digon＆Bock,1966）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在情绪的作用下，光照会促使人们做出更多的亲社会行为。Cunningham（1979）在13天的时间内随机选择芝加哥地区的餐馆并让6名餐厅的服务人员记录截至到下午1点当天收到的前10笔小费的数额，并与当天的光照数据进行对比，结果发现人们在阳光比较好的情况下更愿意给服务人员小费。其他实验研究也表明，当人们预计未来几天阳光明媚的时候，人们就会做出更多的亲社会行为（Rind& Strohmetz,2001）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，是否是晴天很有可能对人们的诚信行为产生影响，因此我们提出：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设1：是否是晴天对诚信行为产生影响，晴天条件下人们的不诚信行为出现更少，非晴天的条件下的不诚信行为则出现更多。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3空气污染对道德行为的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人们对于空气污染的日益重视最主要的原因在于它对人类生命健康造成了威胁。实际上，空气污染对于人类社会发展的消极影响绝不仅限于生理上。一方面，空气污染会影响人们的情绪，甚至对人们的幸福感也存在负面影响（Zheng,Wang,Sun,Zhang,&Kahn,2019）。研究发现，人们在社交媒体发布的信息当中包含的幸福情绪随着PM2.5指数的升高而显著下降。空气污染不仅会影响积极情绪的表达，还会让人们产生更多的消极情绪，这其中最明显的就是焦虑情绪（Lu,Lee,Gino,&Galinsky,2018），这主要是因为长期以来空气污染一直和死亡的概念紧密相关，因此空气污染引发的焦虑与死亡焦虑相类似（Greenberg et al., 2003）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "而与空气污染密切相关的焦虑情绪本身对于诚信行为也存在较强的影响，人在焦虑的情况下更有可能通过撒谎等非诚信的方式为自己谋取利益（Kouchaki,&Desai,2015）。这是因为不诚信是人们应对焦虑的一种手段，研究表明当人们进行了不道德的行为之后，人们的焦虑水平会显著降低（Lee-Won,Herzog,& Park,2015）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，我们认为空气污染会影响人们的诚信行为，因此提出下面的假设。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假设2：空气污染水平会影响人们的诚信行为，空气污染水平较低时不诚信行为出现更少，空气污染水平较高时人们的不诚信行为会显著增多。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2研究1",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究1运用二手数据研究天气状况以及空气污染对诚信行为的影响。我们的数据来源是Cohn等人于2019年发表在Science上的研究。为了验证金钱和人们诚信行为的关系Cohn等人进行了一项关于全球诚信行为的研究，研究人员在全球40多个国家进行了“丢钱包”的现场实验。在实验过程中，研究人员会将装有失主联系方式（邮箱地址）的透明钱包交给不同机构的工作人员，并表明自己捡到钱包但是没有时间归还，因此希望工作人员能够联系失主进行归还，最终将实验中的工作人员是否会主动通过邮件联系失主作为诚信行为的测量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然这项研究最终发现了金钱与诚信行为的关系，然而天气因素和空气污染状况作为独立于金钱数量的因素没有得到研究者的重视。本文利用这项研究的实验数据对天气状况以及空气污染对诚信行为的影响进行检验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源与介绍",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本次研究运用了中国和美国的全部实验数据，共1400个，并对实验当天的天气状况以及空气污染状况进行了补充记录。之所以选择美国和中国两个国家的数据，一方面是因为两个国家的天气状况和空气污染数据相对容易收集，另一方面，在空气污染上，中国和美国都运用空气质量指数（AirQualityIndex）作为空气质量的标准，且空气质量等级划分相同（0-50，优；51-100，良好；101-150，轻度污染；151-200，中度污染；201-300，重度污染； ${ > } 3 0 0$ ，严重污染）。而其它国家往往采用不同的标准，例如，欧盟运用一般空气质量指数（CommonAirQualityIndex）作为空气质量的标准，而一般空气质量指数虽然也分为5个等级，但是标准却与中美采用的完全不同（0-25，非常低； $2 5 -$ 50，低；50-75，中度；75-100，高；>100，非常高）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在中国的 400 份数据当中，包含了北京、成都、广州、杭州、上海、深圳、天津、西安在内的8个国内城市，实验时间主要集中在2015年7月7日到2015年7月24日。而美国的1000份数据中包含了华盛顿、纽约在内的25个城市，实验时间集中在2015年8月17日到2015年10月17日，因此，该部分数据具有广泛的代表性。关于诚信行为的总体情况，中国和美国的1400个现场实验数据中，归还钱包数量为585，占比 $4 1 . 8 \\%$ ，未进行归还的数量为815，占比 $5 8 . 2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，值得注意的是，实验过程中Cohn等人记录了丢下钱包之后100天的邮件作为参与者是否诚信的标准，那么参与者究竟是在哪一天做出的是否归还的决策呢？研究1用到的数据中并没有记录参与者做出诚信行为决策的准确时间，而参与者究竟是在什么时间以及什么样的天气、空气状况下进行决策的对于本次研究至关重要。实际上，根据对参与者主动通过邮件联系失主的时间分析，总体上看，在全世界的40个国家当中，归还时间的中位数是26分钟，且每个国家归还时间不存在显著差异（Cohnetal.，2019）。对于本次研究中选取的中国和美国的实验数据而言，有超过 $8 5 \\%$ 的参与者是在丢失钱包的第一天就主动邮件联系失主的，而超过 $9 0 \\%$ 的参与者是在捡到钱包之后的两天之内邮件联系失主的。因此，我们有理由推测，绝大部分参与者进行决策的时间是在捡到钱包的当天，决策时间一般不会超过三天的时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2天气对不诚信行为的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于天气状况对于诚信行为的影响，我们在编码过程中将晴天编码为1，非晴天编码为0。在本次研究中，天气晴朗条件下共有217份数据，这其中，钱包收回104份，占比 $4 7 . 9 \\%$ ，而非晴朗的条件下共有数据1183份，其中收回钱包481个，占比 $4 0 . 7 \\%$ 。天气是否晴朗与钱包是否能够收回存在统计上的显著相关（x2（1， $\\mathrm { N = 1 } 4 0 0 ) { \\scriptstyle = 3 . 9 8 }$ ， $\\mathrm { p { = } 0 . 0 4 6 }$ ， $( { \\mathrm { P h i } } ) { = } 0 . 0 5 )$ ），在天气晴朗的条件下，参与者主动归还钱包的比例显著的高于天气非晴朗条件下的参与者。也就是说，晴朗的天气下，人们更容易做出诚信的行为。如图1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ee1d80037f62fd9f82a4b95f90ca7c156a26e6a6d0c8f87aa317b1279448d55.jpg",
+        "img_caption": [
+            "图1天气是否晴朗对钱包是否能够收回的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3空气污染对诚信行为的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在空气污染上面，本次研究首先将空气质量为优和良好的数据编码为： $0 =$ 没有污染，将空气质量比良好差的情况编码为： $1 =$ 空气污染，之所以将空气质量优和良好归为一类主要是根据《环境空气质量指数（AQI）技术规定（试行）》，当空气污染指数小于100时（优 $\\scriptstyle \\langle = 5 0$ ；良 $\\scriptstyle \\left. = 1 0 0 \\right.$ ），人们可正常活动，且正常情况下一般的居民区和商业区空气污染指数都在100以内。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然在是否有空气污染的编码上并没有得到空气污染对诚信行为存在显著影响的结论（×2（1， $\\mathrm { N } { = } 1 4 0 0 ) { = } 0 . 0 2$ ，NS）。但是AQI作为天气质量的更加准确的衡量，通过回归分析发现，空气污染对诚信行为存在边际显著的负面影响（204号 $( \\mathrm { b } \\mathrm { = } \\mathrm { ~ \\ - ~ } - 0 . 0 0 3 \\$ ， $\\mathrm { { w a l d } = 3 . 0 7 }$ ， ${ \\mathrm { ~ p ~ } = } 0 . 0 8$ ， $9 5 \\%$ Exp(B）[0.99，0.10]），在空气污染的情况下，人们有更大的可能性会做出不诚信的行为。不仅如此，PM10 对于人们是否主动归还钱包存在显著的影响 $( \\mathrm { b } { = } \\mathrm { ~  ~ { ~ - ~ } ~ } 0 . 0 2$ ， $\\mathrm { { w a l d } } ~ = ~ 7 5 . 7 5$ ，p$\\left. 0 . \\ 0 0 1 \\right.$ ， $9 5 \\%$ Exp(B）［0.98，0.99]），空气中PM10浓度越高，人们越有可能做出不归还钱包的不诚信行为。我们认为，这主要是因为PM10作为较大的可吸入颗粒，对于空气能见度的影响更大，在PM10浓度较高时，环境的能见度显著降低，最终导致了人们不诚信行为的显著增多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4结果的稳健性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "考虑到两个国家数据的采集时间并不相同，不同城市之间的温度存在较大差异。为了排除温度的影响，本次研究补充了实验当天的平均温度数据作为重要的控制变量，检验在控制温度的情况下，天气的晴朗状况以及空气污染对诚信行为的影响是否还存在。不仅如此，实际上温度对于诚信行为也可能存在影响。根据前人的研究，温度对人们情绪的影响呈倒“U”形，温度适宜的情况下人们会有更多的积极情绪，进而表现出更多积极的行为，而过高或者过低的温度往往会产生明显的负面作用(Anderson，1989)，例如：炎热的天气下暴力行为会明显增多。综上，在研究1的稳健性分析中我们重点检验了气温的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "另外，虽然我们有理由推断绝大多数参与者是在实验当天进行诚信行为决策的，但是仍然存在参与者在后面几天决策的可能性，考虑到超过 $9 0 \\%$ 的主动归还的人在三天内发送了邮件，为了进一步检验结果的稳健性，我们补充了实验后面两天的天气、空气污染状况并进行了逻辑回归分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关于温度，最终的结果表明，一方面即使在控制了温度的情况下，天气是否晴朗以及空气污染仍然会影响人们的诚信行为，即：天气晴朗的情况下人们更多的做出诚信行为（ $\\mathrm { \\Delta b = ~ 0 . 4 9 }$ ， $\\mathbb { W } \\mathrm { a l d } \\ = \\ 9 . 5 1$ ， $\\mathrm { ~ p ~ } { = } 0 . 0 0 2$ ， $9 5 \\%$ Exp(B）[1.20,2.23」），而空气污染越严重，人们越有可能做出不归还钱包的不诚信行为（ $\\mathrm { \\Delta b = }$ -0.02, $\\mathrm { w a l d } \\ = \\ 5 7 . 2 6$ ，p<0.001， $9 5 \\%$ Exp(B）[0.98，0.99]）。另一方面，结果表明当天的平均气温对于诚信行为存在负面的影响，也就意味着平均温度越高人们反而越多的表现出不主动归还钱包的不诚信行为 $( \\mathrm { b } \\mathrm { = } \\mathrm { ~ \\ } - 0 . 0 7$ ，Wald $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 16.78，p <0.001， $9 5 \\%$ Exp(B）[0.90，0.96]）。结合研究1中国、美国两国的数据收集时间，中国数据收集时间在7月，而美国的数据收集在8-10月，数据收集时间是两国平均温度较高的月份，在平均温度较高的情况下，温度可能会对诚信行为存在显著的负面影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了温度的影响，结果表明后面两天的天气状况（b第二天 $\\mathit { \\Theta } = \\ 0 . \\ 4 5$ ，Wald$= 1 1 . 5 3$ ，p $\\left. \\langle 0 . 0 0 1 \\right.$ ， $9 5 \\%$ Exp(B）[1.21，2.03]；b第三天 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } = \\ 0 . 8 7$ ，Wald$= 3 7 . 6 5$ ，p $\\left. \\langle 0 . 0 0 1 \\right.$ ， $9 5 \\%$ Exp(B）［1.81，3.16]）、空气污染对于诚信行为的影响也符合假设（b 第二天 $\\begin{array} { r l } { \\mathrm { ~  ~ \\lambda ~ } } & { { } = \\mathrm { ~  ~ \\sigma ~ } - 0 . 0 1 } \\end{array}$ ， $\\mathrm { w a l d } \\ = \\ 4 5 . \\ 4 7$ ，p $\\langle 0 . 0 0 1$ ， $9 5 \\%$ Exp (B)[0.98，0.99]；b第三天 $\\ c =$ -0.014, $\\mathrm { w a l d } \\ = \\ 4 1 . 5 6$ ，p <0.001， $9 5 \\%$ Exp (B)[0.98，0.99]）。因此，无论是丢失钱包当天还是通过后面两天的天气状况、空气污染状况对诚信行为进行预测，在天气晴朗、空气污染水平较低的情况下人们都更有可能出现主动邮件联系失主进行归还的诚信行为，相反，非晴朗和空气污染严重的情况下人们则更容易出现不诚信的行为。见表1。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/102176fd8116e7e251773aca1305181fa569f36acbf2399842e7d36b779f69e5.jpg",
+        "table_caption": [
+            "表1天气晴朗状况、空气污染对诚信行为的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">变量</td><td colspan=\"3\">实验当天</td><td colspan=\"3\">实验后第一天</td><td colspan=\"3\">实验后第二天</td></tr><tr><td>b</td><td>Wald</td><td>p</td><td>b</td><td>Wald</td><td>p</td><td>b</td><td>Wald</td><td>p</td></tr><tr><td>截距</td><td>1.90(0. 43）</td><td>19.17</td><td><0.001</td><td>2.37(0. 41)</td><td>34.32</td><td><0.001</td><td>1.89（0. 14)</td><td>37.65</td><td><0.001</td></tr><tr><td>天气是否 晴朗</td><td>0.49（0. 16）</td><td>9.51</td><td>0.002</td><td>0.45(0. 13）</td><td>11.53</td><td>0.001</td><td>0.87(0. 14)</td><td>37.65</td><td><0.001</td></tr><tr><td>空气污染</td><td></td><td>57.26</td><td><0.001</td><td>0.014（0</td><td>45.47</td><td><0.001</td><td>0.01（0.</td><td>41.56</td><td><0.001</td></tr><tr><td></td><td>0.02（0. 002)</td><td></td><td></td><td>.002)</td><td></td><td></td><td>002）</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>当天平均</td><td></td><td>16.78</td><td><0.001</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>31.98</td><td><0.001</td><td></td><td>24.22</td><td><0.001</td></tr><tr><td>气温</td><td>0.07(0.</td><td></td><td></td><td>0.10（0.</td><td></td><td></td><td>0.08（0.</td><td></td><td></td></tr><tr><td></td><td>02）</td><td></td><td></td><td>02）</td><td></td><td></td><td>02）</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从结果上看，后面两天的天气晴朗状况似乎比第一天的晴朗状况影响更大。这可能是因为：一方面在短时间内，以“天”为单位的天气变量存在一定的连续性，例如，通过逻辑回归可以发现，第一天和第二天的天气晴朗状况存在显著的正向相关关系（ $\\mathrm { \\langle b = ~ 3 . 3 4 }$ ， $\\mathrm { { w a l d } = 2 8 3 . 6 6 }$ ，p $\\phantom { 0 } { \\langle 0 . 0 0 1 }$ ， $9 5 \\%$ Exp(B)[19.13，41.61」）。这样的相关性可能是导致后面两天的天气晴朗状况与诚信行为也是显著相关的原因。另外，虽然第三天天气影响“看起来”显著性比较高，但是是不是意味着第三天的天气的影响比第一天天气的影响要显著的大呢？我们用第一天的天气和第三天的天气作为重复测量的自变量，发现交互效应并不显著 ( $\\scriptstyle \\cdot \\mathrm { p = } 0 . 3 5 6$ ）。这意味着第一天的天气影响和第三天的天气影响没有显著的差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5小结与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究1运用了最新研究发布的诚信行为的实验数据，选取具有代表性的中国和美国共1400个数据，并对实验日期的天气状况以及空气污染状况进行补充，以此来验证环境因素对人们诚信行为的影响。一方面，天气是否晴朗显著影响人们的诚信行为，两个国家的参与者在非晴朗的天气状况下更加容易做出不归还钱包的不诚信行为。另一方面，两个国家在不同日期的空气污染状况也会影响人们的诚信行为，参与者在空气污染的环境下更容易出现不归还钱包的非诚信行为。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "但是研究1也存在明显不足：虽然本研究使用的是中国、美国全部的实验数据，但是两国的数据采集时间存在差异，即使在控制了温度之后也无法彻底解决这一问题，加之两个国家气候条件存在一定差异，也对研究1结果的稳健性提出了挑战。除此之外，虽然我们通过相关的数据结果推断了大部分参与者的决策时间，但是在研究1中我们仍然无法确定参与者进行诚信决策的准确时间，这也对于天气和空气污染影响的结果稳健性产生了影响。针对研究1存在的不足我们进行了研究2。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3研究2",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究1通过二手数据验证了假设，研究二的主要目的是通过准实验的方法进一步验证研究1的结论并解决研究1中存在的问题。具体而言，研究2在中国的两个城市进行，克服了不同国家气象因素、空气污染可能存在较大差异的问题除此之外，研究2充分考虑了参与者决策时间的问题，通过研究设计保证了参与者是在丢钱包当天进行诚信行为决策的。考虑到天气和空气污染难以操纵，准实验研究成为研究这些问题的重要方式（Campbell，Stanley，&Gage,1969）。因此本研究借鉴了前人关于诚信行为的现场实验（Frank，Gilovich&Regan，1993），进行了关于天气和空气质量对诚信行为的准实验研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "需要说明的是，考虑到记录的方便性以及为了排除人流量等干扰因素，本次的研究在三所国内大学进行，为了让情景更加真实，本研究运用了现在在大学校园内比较普遍的校园卡，并在校园卡的透明卡套中装有现金和失主的联系信息，进而观察学生捡到卡和钱之后的诚信行为。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1对象",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本次实验分别在清华大学、北京大学、浙江大学进行，共收集数据407份。考虑到在前人的研究当中，课程内容有可能影响到学生的诚信行为（Frank,Gilovich&Regan,1993），为了排除课程对学生诚信行为的影响，本次实验分别在三所大学选择思政类课程、经济类课程、历史类课程三种类型的课程，最终思政类课程收取数据138份，经济学类课程收取数据129份，历史类课程140份。由于本次实验发生在真实课堂情景下，因此并未记录参与实验学生的个人信息。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2实验设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）实验材料",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本次实验采用的材料主要为三所学校的校园卡。为了避免个人信息对人们诚信行为产生影响，三所学校的校园卡都采用同一人的个人信息进行制作，包括校园卡上的照片。整张卡包装在透明卡套当中，卡的正面贴有联系电话，卡的背面放置20元现金以提升学生不诚信行为的动机（Becker,1968）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）实验程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本次实验的主要程序包括：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在实验开始之前，研究人员对实验当天的天气情况进行记录，包括是否晴天、温度、空气质量指数（AQI）、 $\\mathrm { P M _ { 2 . 5 } } . \\mathrm { P M _ { 1 0 } }$ 、有无污染（编码：空气质量优、良 $\\ c =$ 无污染；空气质量轻度及以下 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 有污染），以及其它的气象因素例如温度、最大风力等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在学生上课之前由研究人员将对应学校的校园卡随机放在教室一个位置的课桌里面，为了尽可能保证卡被学生看到，在放置卡的过程中将卡放置于课桌的外侧（靠近学生的一侧）。研究人员对校园卡编号、座位的具体位置进行记录。为了情景更加真实可信，每间教室每次只放置一张校园卡。在放卡结束后，研究人员还会在放置卡的位置附近就坐直到正式上课离开，这样做的目的是确认放置卡的位置或者至少座位旁边有人，否则这个数据作废，不做记录。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在课程结束之后，研究人员前往相应位置取校园卡和钱，并对回收情况进行记录。记录标准统一为：取回（整体取回）、丢失（钱、卡任意一个丢失或者全部丢失）。为了确认卡的丢失情况，如果卡和钱不在放置位置上，研究人员会在教室内部其它位置寻找并到教学楼保卫处、保洁人员处、失物招领处询问，最终无法找回的则确认为丢失。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3结果与分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1） 诚信行为总体分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在总体407份数据当中，丢失数量为21份，丢失占比 $5 . 2 \\%$ 。说明三所学校的学生不诚信行为占比较低，总体诚信行为较高。值得注意的是，在两个研究中中国人的诚信水平存在明显的差异（不诚信行为： $8 5 . 8 \\%$ vs. $5 . 2 \\%$ ）",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "一方面，环境和实验参与者的不同可能是造成差异的原因。例如：（1）周围其他人的影响。与生活中的其它情景不同，课堂上身边往往会有其他人的存在他人很可能起到了监督的作用，限制了不诚信行为的产生（Doleac＆ Sanders,2015）。另外，课堂环境往往是存在摄像头的，学生很容易出于对自我形象的管理而减少非诚信行为（Grant&Mayer，2009）；（2）我们选用的金钱数量比较少（二十块人民币），无法形成有效的诱惑；（3）三所学校都是我国顶尖的大学，学生的道德水平可能相对较高，因此出现非诚信行为的可能性相对较低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "另外一方面，研究方法上的不同也可能是造成两个研究诚信水平差异的原因。首先，两个研究在“诚信行为”的测量上并不完全相同。在Cohn的研究当中，他们将参与者是否会主动邮件联系失主作为衡量诚信行为的标准，研究人员并未回到实验地点检查自己是否还能够拿回“丢失”的钱包；而在研究2中，我们将金钱或者卡的直接丢失作为衡量诚信行为的标准，只有在实验人员确认放卡地点无法找回校园卡或者金钱的时候才认定参与者做出了“不诚信行为”。实际上，本文认为虽然Cohn的方法可以在一定程度上检验诚信行为，但是用研究2的方法用来定义诚信行为更为合适。因为即使参与者没有通过邮件联系研究人员归还钱包，实际上研究人员也不能肯定参与者将钱包占为己有，而主动归还的钱包当中，由于研究人员并没有真的将钱包取回，研究人员同样无法确认是否存在金钱数额减少的不诚信行为，而这样的问题在研究2的实验范式中都可以得到解决。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不仅如此，“邮箱”的使用可能也是造成研究1非诚信行为增多的重要原因，这一点在中国的数据当中表现的尤其明显。在Cohn 等人的研究中，中国归还钱包的行为是最少的，仅为 $1 4 . 2 \\%$ 。但是这样低的概率多大程度上是由于邮箱的使用不普及导致的？在研究2中研究人员预留了电话号码，即使在完全没有主动要求参与者拨打电话的情况下，仍然有超过 $2 4 \\%$ 的被试会主动打电话归还丢失的校园卡。因此，在Cohn的研究中，邮箱的使用可能也是导致不诚信行为增多的原因之一。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实际上，无论是研究2的结果还是Cohn等人的研究结果都没有办法代表中国人实际的诚信水平，“丢钱包”的研究范式已经在众多经典的研究中得到应用，但是通过相关文献的梳理我们发现，针对同一国家的诚信行为在不同的研究中往往呈现出不同的结果，例如：Stoop (2012)在荷兰进行的“丢钱包”实验，最终发现荷兰人平均的归还率为 $5 0 \\%$ ，这一结果在Cohn等人的研究中上升为 $7 5 \\%$ 左右。这样的差异表明，诚信行为会受到实验参与人群、情景等各种因素的影响，本身也具有一定的不稳定性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）天气对不诚信行为的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在本次实验中，共有163个数据在天气晴朗的条件下，其中未收回4个，占比 $2 . 5 \\%$ ，非晴朗条件下共244个数据，未收回17份，占比 $7 \\%$ 。天气是否晴朗与卡是否能够收回存在统计上的显著相关 $( \\chi ^ { 2 } ( 1 , N { = } 4 0 7 ) { = } 4 . 0 7$ ， $\\scriptstyle { p = 0 . 0 4 4 }$ ， $\\phi$ $( { \\mathrm { P h i } } ) { = } 0 . 1 0 \\dot { . }$ ），在天气非晴朗的条件下，参与者拿走别人丢失校园卡或者钱的比例显著的高于天气晴朗条件下的参与者。也就是说，非晴朗的天气下，人们更容易做出不诚信的行为。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，假设1得到了验证：天气晴朗会影响参与者的诚信行为，在非晴朗的天气影响下，参与者的不诚信行为显著增加。见图2。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/622819673aee7f242f902229f6a3fc0d87e0ce223186f8b8638b47b72a87a68b.jpg",
+        "img_caption": [
+            "图2天气是否晴朗对卡包能够收回的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）空气污染对诚信行为的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本次实验的407份数据当中，没有污染天气下的实验数据为354份，占比$8 7 \\%$ ，在污染天气下的数据为53份，占比 $1 3 \\%$ 。这其中，空气污染条件下丢失数量为6份，占比 $1 1 . 3 \\%$ ，空气无污染条件下丢失数量为15个，占比 $4 . 2 \\%$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "空气污染与卡、钱是否能够收回存在统计上的显著相关（ $\\mathrm { ~ x ~ } ^ { 2 }$ (1,$\\scriptstyle \\Lambda = 4 0 7 ) = 4 . 7 3$ ， $\\scriptstyle p = 0 . 0 3$ ， $\\phi$ (Phi)=0.11），在空气污染的条件下，参与者拿走别人丢失校园卡或者钱的比例显著的高于空气没有污染条件下的参与者。也就是说非晴朗的天气下，人们更容易做出不诚信的行为。假设2得到了验证：空气污染会影响人们的诚信行为，在空气污染的影响下，人们的不诚信行为显著增加。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "考虑到三所高校的所在地主要污染物的不同，在实验过程中我们重点记录了实验当天的空气质量指数（AQI），并将其作为自变量对参与者的诚信行为进行回归分析，最终的结果表明，AQI指数对人们诚信行为存在边际显著的负面影响（ $b = \\phantom { - } - 0 . 0 1$ ， $W a l d = 3 . 0 4$ ， $p ~ = ~ 0 . 0 8 1$ ， $9 5 \\%$ Exp(B)[0.98，1.00]）,也就意味着空气质量越差，参与者越有可能做出不诚信的行为。见图3.",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1953e9e3888329edee6b36117e93a7dfdeea97ea5d3bdf0ab734b2ff3f32dfc.jpg",
+        "img_caption": [
+            "图3空气污染对卡包能够收回的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(4） 结果的稳健性检验 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了进一步检验天气状况以及空气污染对于人们诚信行为影响的稳健性，本研究进行了稳健性分析。除了晴朗状况、空气污染以及诚信行为外，本次研究还记录了实验进行的学校、课程的类型、教室大小（以教室座位排数座位指标）、放卡的相对位置（前、中、后）以及数据采集的时间段（上午、下午、晚上）。另外研究1表明温度对于人们的诚信行为存在显著的负面影响，为了进一步确定温度以及其它气象因素对于诚信行为的影响，在稳健性分析中我们控制了当天的体感温度、最大风力、云量、湿度。稳健性检验主要采用了逻辑回归的方式对这些可能影响诚信行为的因素进行控制，进一步检验天气的晴朗状况、空气污染对于人们诚信行为的影响，同时对于参与者的诚信行为给出更加全面的解释。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "逻辑回归的结果表明，即使在控制了其它变量之后，天气晴朗状况和诚信行为存在正向影响。在天气晴朗的条件下，人们更可能会做出诚信行为( $b =$ 1.63， $W a l d = 5 . 4 9$ ， $p \\ = 0 . 0 1 9$ ， $9 5 \\%$ Exp(B）[1.31，20.08]）。相反，空气污染情况则对人们的诚信行为存在负面的影响，当空气污染严重的时候，人们更有可能表现出拿走校园卡或者金钱的不诚信行为（ $\\mathit { \\check { b } } = \\mathit { \\Theta } - 1 . 9 1$ ， $W a l d = 5 . 8 7$ ， $p$ （20$= 0 . 0 1 5$ ， $9 5 \\%$ Exp(B）[0.03，0.70]）。见表2。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e7c71649851d4b0459aa7dacb20c97baf98bb3943bbd013185157f9d60ca89d.jpg",
+        "table_caption": [
+            "表2．天气晴朗状况、空气污染对诚信行为影响的稳健性分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>b</td><td>SE</td><td>Wald</td><td>p</td><td>95% Exp(B)</td></tr><tr><td>截距</td><td>-0.62</td><td>1.73</td><td>0.13</td><td>0.72</td><td></td></tr><tr><td>天气是否晴朗</td><td>1.63</td><td>0.70</td><td>5.49</td><td>0.019</td><td>[1.31, 20.08]</td></tr><tr><td>空气是否存在污染</td><td>-1.91</td><td>0.79</td><td>5.87</td><td>0.015</td><td>[0.03,0.70]</td></tr><tr><td>云量</td><td>0.002</td><td>0.01</td><td>0.04</td><td>0.851</td><td>[0.98,1.03]</td></tr><tr><td>湿度</td><td>-0.02</td><td>0.03</td><td>0.42</td><td>0.519</td><td>[0.93, 1.04]</td></tr><tr><td>最大风力</td><td>0.004</td><td>0.22</td><td>0.00</td><td>0.987</td><td>[0.65,1.56]</td></tr><tr><td>体感温度</td><td>-0.01</td><td>0.03</td><td>0.19</td><td>0.667</td><td>[0.93,1.05]</td></tr><tr><td>课程类型</td><td>0.78</td><td>0.39</td><td>4.10</td><td>0.043</td><td>[1.03, 4.65]</td></tr><tr><td>相对位置</td><td>-1.01</td><td>0.41</td><td>6.20</td><td>0.013</td><td>[0.16, 0.81]</td></tr><tr><td>教室大小</td><td>0.30</td><td>0.13</td><td>5.74</td><td>0.017</td><td>[1.06, 1.72]</td></tr><tr><td>学校</td><td>-0.04</td><td>0.60</td><td>0.00</td><td>0.95</td><td>[0.30, 3.12]</td></tr><tr><td>时间段（上午、下午、 晚上）</td><td>0.22</td><td>0.35</td><td>0.38</td><td>0.54</td><td>[0.62, 2.47]</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "虽然上述结果已经控制了数据采集的时间段，考虑到不同的时间段光照情况、空气污染存在明显的差异，本文还采用了其它方式排除了不同时间段对结果的影响：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，我们在逻辑回归中验证了时间段与空气污染以及时间段与天气晴朗状况对于诚信行为是否存在交互影响，最终的结果表明，上课时间段与空气污染和晴朗状况并不存在显著的交互作用（ $p$ 晴朗 $\\times$ 时间段 $= 0 . 6 9 5$ ; $b { = } 0 . 8 7$ ， $p$ 空气污染 $\\times$ 时间段 $_ { \\cdot = 0 . 2 2 9 }$ ）。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，在进一步的数据分析中，我们只保留白天采集的数据（上午、下午；$N = ~ 2 7 6 )$ ：，以此检验天气状况和空气污染对诚信行为的影响。最终的结果与前面的数据分析结果基本一致（ $\\mathit { b } _ { \\mathbb { H } ^ { \\tt E } \\mathbb { H } } = \\mathrm { ~ 1 . ~ } 9 6$ ， ${ \\it W a l d } = 4 . 5 2$ ， $p \\ = 0 . 0 3 3$ ， $9 5 \\%$ Exp(B)[1.17，43.52]； $b$ 空气污染=－1.75， $W a l d = 3 . 2 3$ ， $p \\ { = } 0 . 0 7 2$ ， $9 5 \\%$ Exp(B）[0.03，1.17]），即：天气晴朗的情况下人们更多的做出了诚信行为，但是空气污染越严重，人们会表现出更多的不诚信行为。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（5）其它变量对诚信行为的影响",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在研究1中，回归分析的结果表明，温度对于人们的诚信行为存在负面的影响。但是在研究2中，我们并未发现温度对于学生的诚信行为存在显著的影响关于两个研究在温度影响上的不一致，我们认为：一方面，研究1中之所以温度对于诚信行为存在负面影响很可能是因为夏季以及初秋温度较高，进而影响到人们的心情以及诚信行为，而在研究2中数据收集的时间集中在秋冬季节，因此夏季高温的负面影响在研究2中并不存在；另一方面，关于温度对人们行为的影响，前人的研究也尚未得到统一的结论（Fay&Maner,2012;Griffit&Veitch,1971），因此本次两个研究中针对温度的不一致结果并非特例。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "另外，研究2的结果表明，校园卡放置的位置会影响学生的诚信行为，放在后排的校园卡更容易让学生做出不诚信的行为（ $b = - 1 . 0 1$ ， ${ H a l d = 6 . 2 0 }$ $p =$ 0.013, $9 5 \\%$ Exp(B)[0.16,0.81]；编码：前排 $\\scriptstyle = 0$ ；中间位置 $^ { = 1 }$ ；后排 $\\scriptstyle = 2$ ）；同时，校园卡放置教室的大小也会影响学生的诚信行为，具体来说，校园卡放置的教室越大，学生表现出诚信行为的可能性更大（ $b = 0 . 3 0$ ，Wald = 5.74, $p = 0 . 0 1 3$ $9 5 \\%$ Exp(B)[1.06,1.72]）。两个变量之所以会对诚信行为存在显著的影响可能是因为不同的位置和教室的大小产生的监督作用不同，具体而言：首先，关于前后位置对诚信行为的影响：坐在前排的学生一方面距离老师更近，另一方面，前排的学生往往也会更多的受到来自身后同学的监督；相比之下，坐在后排的学生感受到的来自老师和周围其它同学的监督更弱。其次，关于教室大小对于诚信行为的影响：在实验收集过程中我们发现，在较大的教室内上课的公共选修课程往往学生比较多，教室的学生密度更大，这也就意味着，在较大的教室内，学生感受到的来自身边学生的监督也更加明显。因此，在较大的教室内，学生的诚信行为反而较多。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（6）小结与讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "通过准实验的研究方法，在本次研究中我们验证了假设1发现了天气是否晴朗对于人们的诚信行为存在显著的影响，三所学校的学生在非晴朗的天气状况下更加容易出现将卡或者钱拿走的情况，做出不诚信的行为。另外，假设2也得到了验证，空气是否污染对于人们的诚信行为存在显著的影响，参与者在空气污染的环境下更容易出现捡到卡和现金不归还的不诚信的行为。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4研究结论与讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1总的结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究通过二手数据以及准实验的研究方法揭示了天气状况、空气污染对于诚信行为的影响。研究结果与预期假设相符：天气晴朗状况对人们的诚信行为存在影响，在天气晴朗的情况下，参与者更少地做出将卡、钱拿走不归还的行为。其次，空气污染会影响个人的诚信行为，在存在空气污染的情况下，参与者更多的做出不归还卡或者钱的不诚信行为。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2理论贡献 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究的理论贡献主要体现在以下几个方面：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "首先，本研究弥补了国内相关领域研究的不足。近年来，随着气候变化、空气污染等问题日益严重，越来越多的学者开始运用大数据分析、文本挖掘的手段研究天气状况、环境污染对于行为的影响，相关研究也越来越多的发表在心理学顶级期刊上（Zheng，etal.，2019）。但是相关的研究更多的关注点在于亲社会行为而非诚信行为，在诚信建设日趋重要的背景下，本研究第一次探究了天气状况以及空气污染对于诚信行为的影响。更重要的是，相比于国际上对天气状况、空气污染对人类行为影响的重视，国内在相关领域的研究存在明显不足。因此，本研究对心理学关于天气、空气污染等环境问题对人们行为影响的研究进行了重要的理论和实证补充，这对于我们更加系统、深入地理解天气、空气污染的问题具有重大意义，这一点对于环境问题日益受到重视的我国显得尤其重要。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "其次，本次研究在研究方法上面实现了创新。由于天气、空气污染很难实现人为的操控，因此在实验室研究当中基本无法实现。之前的研究也在不断的进行方法上的探索和创新，Lu等（2018）为了研究空气污染对于人们道德行为的影响并对空气污染进行操纵，只是让参与者看到包含空气污染元素的照片进而观察人们的行为。显然，给人们看空气污染的照片与真的让人们置身于空气污染当中是存在巨大的差异的，Lu等也认为通过给参与者看图片的方式来唤起人们的感知污染与实际的空气污染存在明显的差距，并将这一点认为是将来研究发展的重要方向之一。在这样的情况下，准实验研究无疑是最接近真实情景的。因此在研究方法上，本文弥补了前人对于天气、空气污染研究方法的不足，在真实情景当中发现了环境对于人们诚信行为的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3 实践启示",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究对于政策的制定也具有重要的实践意义和价值。虽然国际社会对于气候变化、极端天气以及空气污染日益关注，我国也在不断努力解决相关问题，但是国内外的研究主要针对气候变化、空气污染对于人们生理健康的影响，对心理健康的关注则相对较少。本文从心理学研究的角度为中国乃至世界共同抗击空气污染、防止气候恶化提供了更加有利的证据。因为空气污染、气候变化不仅仅对人们的生理健康产生威胁，也是心理健康、社会稳定的重要因素。对于政策制定和政府管理部门而言，是否可以在不同的天气状况、不同的空气污染状况下采取不同的方式进行社会治安的维护？当然，本文最大的的实践意义应该体现在鼓励更多的人做出保护环境，减少空气污染，减缓气候变化的行为，因为这样不仅仅能够让人们的身体更加健康，对于整个社会的和谐也至关重要。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4研究局限和未来研究方向",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本次研究也存在一些不足。一方面，准实验研究确实让我们更好的在真实环境下观察到了天气状况、空气污染对于诚信行为的影响，但也正因为如此，人们诚信行为背后的机制尚未被很好地揭示。本文倾向于认为天气的晴朗状况、空气污染状况之所以会引起诚信行为的改变主要是情绪的作用（Kelleretal.,2005；Lu etal.，2018）。另外，心理学和社会学上面的很多其它机制都可能是这个问题的其它解释。长期以来由于空气污染给人留下的印象往往和“脏乱差”紧密的联系在一起，而破窗理论认为环境的混乱本身就可以造成更多的不道德行为甚至是社会秩序的混乱（Keizer，etal.，2008），现实生活中我们也确实可以发现，在比较脏的环境下人们会做出更多的不道德行为，例如乱扔垃圾或者偷窃行为（Keizeretal.，2008）。不仅仅是环境的脏乱差，光照不足、空气污染还会造成环境的可见度降低，众所周知，人们在黑夜的犯罪活动本身就会比白天多很多（Doleac& Sanders，2015），光照不足、空气污染造成的能见度下降也会提升环境的隐秘性，在这样的环境下人们更加容易降低自我约束，从而产生不道德的行为（Zhongetal.，2010）。除此之外，认知能力很可能也是人们做出不诚信行为的重要原因，研究表明当人们长期暴露在空气污染的环境当中，语言和数学测试的认知能力会受到负面影响（Zhang，Chen，&Zhang，2018）。综上，人们在真实情境下受到天气和空气污染的影响做出不诚信的行为究竟是因为什么样的机制还需要今后的研究进行更加科学严谨的实验设计进行探索。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "除此之外，本次研究中还存在其它有待进一步检验的问题。例如，本次研究中针对温度对于诚信行为的影响两个研究尚未得到统一的结论，虽然这与前人的研究结果相一致，但是温度作为典型的气象因素，它究竟是否会影响人们的诚信行为需要更多的研究进一步的探讨。除此之外，研究2中重点关注了我国三所重点大学学生的诚信行为，结果表明除了天气状况和空气污染，还存在很多其它变量可能会影响学生的诚信行为，这些因素背后的影响机制都需要今后更多的研究展开讨论。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "另一方面，本次研究虽然发现了天气的晴朗状况和空气污染对于诚信行为的负面影响，但是整体上看两个研究的效应量并不大。针对这一点，我们首先对比了本次研究和之前研究的效应量，结果表明之前关于天气状况以及空气污染的研究中也存在效应量较小的情况（Luetal.，2018），也正是因为这个原因，相关的研究往往采用较大的样本量来检验天气和空气污染对行为的影响。其次，我们也分析了本次研究效应量较小的原因：1.对于行为的影响因素很多，天气只是其中的一个因素。我们的准实验研究在保证情景尽可能自然、真实的条件下也包含了很多混淆因素在里面，复杂的环境因素很可能导致了效应量的下降。2.两个研究的场景都在室内也可能是造成效应量较低的原因。研究1和研究2的实验场景一个在各种机构的前台，一个在教室内，室内的场景可能削弱了天气以及空气污染对于人们诚信行为的影响（Kelleretal.，2005）。当然，我们认为较小的效应量并不足以影响本次研究的意义。虽然本次研究发现的天气状况以及空气污染对诚信行为的影响效应量较小，但是考虑到诚信行为作为影响社会经济发展、社会和谐的重要因素，从长远来看，较小的效应量也会产生非常大的影响（Funder＆Ozer，2019）。无论如何，天气状况以及空气污染对人们诚信行为的稳健性仍然需要进一步的检验和探索。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "最后，Cohn等人关于诚信问题的研究发表在《科学》（Science）之后也引起了广泛的关注，这其中与我国密切相关的是中国在所有实验涉及国家中的诚信水平最低。虽然比较不同国家的诚信水平并非Cohn等人研究的本意，但是这背后的原因仍然引起了我国学者们的关注。本次研究中，对比研究2准实验研究的结果和Cohn等人研究的结果，我们发现二者之间存在非常大的差异。虽然我们在研究2中进行了分析，但是仍然存在很多值得研究和思考的问题。究竟哪些因素造成了不同研究中中国人诚信水平的巨大差异？我们的诚信水平究竟怎么样？以及究竟哪些因素影响了我国的诚信行为？这些问题都有待于进一步的研究。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1] Anderson, C. A. (1989)． Temperature and aggression: ubiquitous effects of heat on occurrence of human violence. Psychological Bulletin，106(1)，74-96.   \n[2] Becker，G. S. (1968)．Crime and punishment:an economic approach. Journal of Political Economy，76(2)，169-217.   \n[3] Bouman,M. J. (1987)．Luxury and control: the urbanity of street lighting in nineteenthcentury cities.Journal of Urban History，14(1)，7-37.   \n[4] Campbell，D. T.，Stanley，J. C.，& Gage，N. L.(1969)．Experimental and quasi  \nexperimental designs for research. 1963. Chicago: Rand Mc Nally. [5] Cohn，A.，Maréchal，M. A.，Tannenbaum，D.，& Zund,C.L.(2019)．Civic honesty around the globe.Science，365(6448)，70 -73.   \n[6] Cunningham，M. R. (1979).Weather，mood，and helping behavior:Quasi experiments with the sunshine samaritan. Journal of Personality and Social Psychology，37(11)，1947-1956. [7] Digon，E.，& Bock，H. B. (1966)． Suicides and climatology. Archives of Environmental Health:An International Journal，12(3)，279- 286.   \n[8] Doleac，J. L.，& Sanders，N. J. (2015). Under the cover of darkness:how ambient light influences criminal activity. Review of Economics and Statistics，97(5)，1093- 1103. [9] Fay，A. J.，& Maner，J. K.. (2014)．When does heat promote hostility? person by situation interactions shape the psychological effects of haptic sensations. Journal of Experimental Social Psychology，50，210- 216.   \n[10] Fosgaard，T. R.，Hansen， L. G.，& Piovesan，M. (2013)． Separating will from grace: an experiment on conformity and awareness in cheating. Journal of Economic Behavior and Organization，93，279- 284.   \n[11] Frank，R.H.，Gilovich，T.，& Regan，D. T.(1993)．Does studying economics inhibit cooperation?. Journal of Economic Perspectives，7(2)，159-171.   \n[12] Gerlach，P.，Teodorescu，K.，& Hertwig，R. (2019)． The truth about lies:a metaanalysis on dishonest behavior. Psychological Bulletin，145(1)，1- 44.   \n[13] Grant，A. M.，& Mayer， D. M. (2009)． Good soldiers and good actors:prosocial and impression management motives as interactive predictors of affiliative citizenship   \nbehaviors.Journal of Applied Psychology，94(4)，900 -912.   \n[14] Greenberg，J.，Martens，A.，Jonas，E.，Eisenstadt，D.，Pyszczynski，T.，& Solomon，S. (2003).Psychological defense in anticipation of anxiety: eliminating the potential for anxiety eliminates the effect of mortality salience on worldview defense. Psychological Science，14(5)，516-519.   \n[15] Griffit，W.，& Veitch，R. (1971)． Hot and crowded: influence of population density and temperature on interpersonal affective behavior. Journal of Personality and Social   \nPsychology，17(1)，92-98.   \n[16] Helzer，E.G.，& Pizarro，D. A. (2011)． Dirty liberals! reminders of physical   \ncleanliness influence moral and political attitudes. Psychological Science，22(4)，517- 522. [17] Kar，D.，& Cartwright-Smith，D. (2009)．Ilicit financial flows from developing countries: 2002-2006. Available at SSRN 1341946.   \n[18] Keizer，K.，Lindenberg，S.，& Steg，L. (2008)． The spreading of   \ndisorder．Science，322(5908)，1681-1685.   \n[19] Kouchaki，M.，& Desai， S. D. (2015)． Anxious，threatened，and also unethical: how anxiety makes individuals feel threatened and commit unethical acts. Journal of Applied Psychology，100，360- 375.   \n[20] Keller，M. C.，Fredrickson，B.L.，Ybarra，0.，Coté，S.，Johnson，K.，Mikels，J.，..．& Wager，T. (2005)．A warm heart and a clear head: the contingent effects of weather on mood and cognition. Psychological Science，16(9)，724- 731.   \n[21] Kripke，D.F. (1998).Light treatment for nonseasonal depression: speed，efficacy，and combined treatment. Journal of Affective Disorders， 49(2)，109 -117. [22] Lambert，G.W.，Reid,C.，Kaye，D.M.，Jennings，G.L.，& Esler，M.D.(2002)．Effect of sunlight and season on serotonin turnover in the brain. The Lancet，360(9348)，1840 - 1842.   \n[23] Lee-Won，R. J.，Herzog，L.，& Park，S.G.(2015)．Hooked on facebook: the role of social anxiety and need for social assurance in problematic use of   \nfacebook. Cyberpsychology，Behavior，and Social Networking，18(10)，567-574.   \n[24] Lewis，A.，Bardis，A.，Flint，C.，Mason，C.，Smith，N.，Tickle,C.，& Zinser，J. (2012). Drawing the line somewhere:an experimental study of moral compromise. Journal of Economic Psychology，33，718-725.   \n[25]李贺,莫雷,罗秋铃,莫然,俞梦霞,黎沛昕,衷禾． (2014)．签名对个体诚实度和道德感的影响．心理 学报，46(9)，1347-1354.   \n[26]陆慧菁． (2012)．自我欺骗：通过欺骗自己更好地欺骗他人．心理学报，44(9)，1265－1278. [27] Lu，J.G.，Lee，J. J.，Gino,F.，& Galinsky，A.D. (2018)．Polluted morality:air pollution predicts criminal activity and unethical behavior. Psychological Science，29(3), 340 -355.   \nLundquist，T.，Ellingsen， T.，Gribbe，E.，& Johannesson， M.(2009)． The aversion to lying. Journal of Economic Behavior & Organization，70,81-92.   \n[28] Michalon，M.，Eskes，G. A.，& Mate-Kole，C. C. (1997).Effects of light therapy on neuropsychological function and mood in seasonal affective disorder. Journal of Psychiatry & Neuroscience : JPN，22(1)，19-28.   \n[29] Peer，E.，Brandimarte，L.，Samat，S.，& Acquisti，A.(2017)．Beyond the Turk:   \nalternative platforms for crowdsourcing behavioral research. Journal of Experimental Social Psychology，70，153 -163.   \n[30] Rind,B.，& Strohmetz,D. (2001)．Effect of beliefs about future weather conditions on restaurant tipping. Journal of Applied Social Psychology，31(10)， 2160-2164.   \n[31] Stoop，J. (2012)．From the lab to the field:envelopes，dictators and manners. Munich Personal RePEc Archive， MPRA Paper No. 37048.   \n[32] Watson, D. (200o)． Basic problems in positive mood regulation. Psychological   \nInquiry，11(3)，205-209.   \n[33] Winslow, C.E.，Herrington，L.P.，& Gagge，A. P. (1936).A new method of partitional calorimetry. American Journal of Physiology-Legacy Content，116(3)，641 - 655.   \n[34] Zhang，X.，Chen，X.，& Zhang，X. (2018)．The impact of exposure to air pollution on cognitive performance.Proceedings of the National Academy of Sciences of the United States of America，115(37)，9193-9197.   \n[35] Zheng，S.，Wang，J.，Sun，C.，Zhang，X.，& Kahn，M.E.(2019)．Air pollution lowers Chinese urbanites’ expressed happiness on social media. Nature Human Behaviour， 3(3)， 237 - 243.   \n[36] Zhong，C.B.，Bohns，V.K.，& Gino，F.(2010)．Good lamps are the best police:darkness increases dishonestv and self-interested behavior. Psvchological science， 21(3)，311-314. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明1：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "赵玉杰：进行实验、分析数据、论文起草；  \n高扬：进行实验;",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "周欣悦：研究设计、分析数据、论文最终版本修订；",
+        "page_idx": 16
+    }
+]

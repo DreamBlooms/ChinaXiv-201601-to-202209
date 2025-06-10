@@ -1,0 +1,254 @@
+# 基于多层融合和细节恢复的图像增强方法
+
+龙鑫1,²，何国田1,2†
+
+(1．重庆邮电大学 计算机科学与技术学院，重庆 400065；2.中国科学院重庆绿色智能技术研究院，重庆 400065）
+
+摘要：针对部分图像在光照不均匀、过亮或过暗下出现的对比度低、细节不可见等问题，提出了一种基于多层融合和细节恢复的图像增强方法。首先在HSV图像空间中V通道等价复制为三层：Retinex增强层、亮度增强层、细节突出层。在Retinex 增强层中，利用加权引导滤波和形态学结合来消除光晕现象，并通过改进Retinex增强图像亮度和细节；在亮度增强层中，通过自适应归一化进一步增强亮度；在细节突出层中，人工蜂群优算法优化改进局部线性增强模型来突出图像细节。最后根据Gamma校正特性和邻域像素关系，提出细节恢复方案避免融合后造成的部分细节模糊。实验数据表明，该算法能更有效地突出图像细节和提高对比度，并与现有算法在客观量化方面进行对比，综合性能更为优越，尤其在清晰度指标上远高于其他算法。
+
+关键词：图像增强；分层；细节恢复 中图分类号：TP751.1 doi:10.19734/j.issn.1001-3695.2018.06.0572
+
+Image enhancement method based on multi-layer fusion and detail recovery
+
+Long Xin1,He Guotian1, 2† (1.College of Computer Science & Technology,Chongqing Universityof Posts & Telecommunications,Chongqing 400065, China;2.Chongqing Institute of Green& Intellgent Techonoligy，Chinese Academyof Sciences,Chongqing 400065, China)
+
+Abstract:This paper proposed an image enhancement method basedon multi-layer fusion and detail recovery,to solve the image deterioration such as low contrast and blurred details inundesirableillumination environments.Firstly,this paper copied the Vchannelequivalently into three layers in HSVcolor spacce:Retinex enhancement layer,brightness enhancement layer,detail enhancement layer.In Retinex enhancement layer,this paper combined with weighted guided image filteringand morphology to eliminate halo phenomenon.Improved Retinex enhanced brightnessand detailsof images.In detail enhancement layer,this paper used artificial beecolony algorithmtooptimize improved model of local linear to obtain more details.Finallythis paper performed gammacorrectionand pixelarangement toavoid partial fuzzy details caused fusion.Theexperimentalresults show that theproposed methodcan more efictively highlight image details andimprove thecontrast.Thecomprehensive performance is superior whilecomparing with therelated methods in terms of objective quantification,especially in Tenengrad index, which is much higher than other algorithms.
+
+Key words: image enhancement; multi-layer; detail recovery
+
+# 0 引言
+
+在拍照过程中，由于拍摄光照不均匀、弱光照或者强光照等非正常拍照因素造成图像质量严重下降，导致图像出现低对比度、整体偏暗、视觉效果差等问题，很难从质量下降的图像中获取到足够的有用信息。为了克服这些缺陷，学者们尝试通过调整动态范围、增强图像边缘、突出图像细节特征以及提高对比度等手段来改善图像质量[1]。目前主流图像增强方法包括基于直方图增强、基于融合增强以及基于Retinex图像增强等[2]。
+
+基于直方图增强的经典算法有直方图均衡化、限制对比度自适应直方图均衡化。该类算法处理低对比度图像时容易出现过度增强和噪声扩大，这是因为这类方法假定图像直方图分布均匀，没有考虑图像直方图的整体形状，机械地将其动态拉伸[2]。为了解决上述问题，大量基于直方图改进的算法被提出，如加权阈值直方图均衡化[3]、剪切直方图均衡化[4]、非参数修改直方图均衡化[5]。文献[4]通过检测图像动态范围提升暗区，突出亮区细节。文献[5]通过修改直方图灰度空间变化实现与图像类型无关的图像增强。但这类方法都是通过限定模式拉伸直方图，没有实现极暗区域的增强。
+
+图像融合增强主要分为基于空域融合和基于转换域融合两类。基于空域的方法通过梯度信息增强图像[6。基于转换域的方法是先将图像转换至另一域，然后融合有用信息实现增强。尽管融合方法能够有效地提高对比度和清晰度，但仍然会出现过度增强。文献[6]通过引入卷积稀疏表示框架，将原图分为细节层和基础层来实现增强。文献[7]通过构建梯度相似核函数代替双边滤波核函数，提出梯度双边滤波融合。尽管改进的方法能改善图像质量，但只能处理单张图像，而且时间复杂度较高，易出现图像不自然的现象。
+
+Retinex是一种人眼感知亮度和色度的视觉模型[1]。经典算法有单尺度、多尺度、带颜色恢复的多尺度。单尺度主要针对灰度图像，多尺度是不同尺度的单尺度的线性组合，容易在图像的边缘细节处产生伪光晕。而带颜色恢复的多尺度在多尺度的基础上增加了颜色恢复系数，只能够在一定范围内调整图像对比度和亮度，超出范围容易导致颜色失真[8]。针对这些问题，文献[9]在单尺度的基础上，通过快速均值估计图像亮度，在HSV空间引入增强因子，有效避免了颜色失真和噪声扩大。文献[10]在多尺度的基础上，引入引导滤波估计图像亮度，同时通过改进的图像评估方法和量子化粒子群算法优化增强图像。
+
+为了进一步突出图像细节、提高对比度，本文基于多层融合和细节恢复提出了一种图像增强方法。首先在HSV空间将V通道等价复制为三层。与文献[2]采用串行分层模式相比，本文分层模式不受上层增强结果影响，各层之间相互独立处理图像，互相弥补缺点并突出自身优势。最后通过拉普拉斯特征融合各层的优势。加权引导滤波[11和形态学操作结合作为单尺度估计方法，同时在单尺度中加入局部细节调节模型和整体亮度调节因子并兼顾图像熵值，增强了细节和亮度，记为Retinex增强层；为进一步提升亮度，利用反三角函数性质，自适应归一化突出图像亮度，记为亮度增强层；通过人工蜂群算法兼顾PSNR值优化改进的局部线性模型来突出图像细节，记为细节突出层。最后为避免融合造成的部分细节模糊，根据Gamma校正特性和邻域像素关系提出细节恢复方案。通过与CLAHE、文献[9]、文献[12]、文献[13]算法在弱光照、强光照以及不均匀光照条件下的对比，验证了本算法的性能。
+
+# 1多层融合和细节恢复增强方法
+
+# 1.1算法介绍
+
+本文算法基本框架结构如图1所示。首先将输入图像转换至HSV空间，将 $V$ 通道等价复制为3层，各层之间独立处理，通过拉普拉斯特征融合三层生成 $\boldsymbol { V } ^ { * }$ ；在Retinex增强层中，避免了传统Retinex增强中的光晕问题以及由于梯度反转在图像细节边缘处产生的光影现象，增强了图像细节和亮度；在亮度增强层中，自适应归一化进一步提升了亮度；而在细节突出层中，通过简化文献[16]模型并结合人工蜂群算法突出了图像的细节；最后在细节恢复中，依据像素与相邻四方向像素的方差、均值以及Gamma校正的特点来恢复融合所丢失的部分细节。Retinex增强层、亮度增强层、细节突出层以及细节恢复将在以下部分详细介绍。
+
+![](images/086144b939d5ab1d2ce41cb64e722bf1f809630f8928f578474b4b6ac2c39227.jpg)  
+图1本文算法基本框架结构  
+Fig.1Basic frame structure of this algorithm
+
+# 1.2 Retinex 增强层
+
+引导滤波具有平滑和边缘保留性，能够将引导图像结构滤波输出至滤波结果[14]，而加权引导滤波在引导滤波的基础上加入自适应加权系数，消除了引导滤波在边缘处可能产生的伪光晕[I]。因此本算法中采用加权引导滤波估计图像亮度。在加权引导滤波中，如果直接利用亮度图像作为滤波的引导图像，容易将大量图像冗余信息传至增强图像，导致伪光晕现象。本算法采用在YCbCr空间平滑 $Y$ 通道作为引导图像，因为能够更加真实地反映图像场景和避免引导图像的冗余信息传至滤波结果[10]。平滑 $Y$ 通道通过三次形态学闭操作加权实现，相比文献[10]采用高斯平滑，形态学闭操作可避免高斯在边缘轮廓处造成的过度平滑。式(1)为其表达式。
+
+$$
+Y _ { f } = \sum _ { i = 1 } ^ { 3 } P _ { i } \bullet L ^ { * } w _ { i }
+$$
+
+其中： $P _ { i }$ 表示第 $i$ 次结构体元素；\*为像素乘积操作；·为形态学闭操作； $Y _ { f }$ 表示平滑 $Y$ 通道图像； $w _ { i }$ 表示第 $i$ 次形态学的加权值；将 $Y _ { f }$ 作为引导图像，亮度表示为
+
+$$
+L ( \mathbf { x } , y ) = \frac { 1 } { \mid w ^ { ( x , y ) } \mid } \sum _ { ( u , \nu ) \in w ^ { ( x , y ) } } \{ a ^ { ( u , \nu ) } Y _ { f } ( x , y ) + b ^ { ( u , \nu ) } \}
+$$
+
+其中： $L ( x , y )$ 为亮度估计输出； $Y _ { f } ( x , y )$ 表示引导图像； $w ^ { ( x , y ) }$ 表示以 $\mathbf { \Phi } ( x , y )$ 的局部邻域； $\big | w ^ { ( x , y ) } \big |$ 为局部邻域内像素个数。根据式(3)和式(4)计算系数 $a ^ { ( u , \nu ) }$ 、 $b ^ { ( u , \nu ) }$ .
+
+$$
+a ^ { ( u , v ) } = \frac { \displaystyle \frac { 1 } { | \ w ^ { ( u , v ) } \ | } \sum _ { ( k , j ) \in { \boldsymbol w } ^ { ( u , v ) } } I ( k , j ) Y _ { f } ( k , j ) - \mu ^ { ( u , v ) } \mu _ { f } ^ { ( u , v ) } } { ( \sigma _ { f } ^ { ( u , v ) } ) ^ { 2 } + \displaystyle \frac { \varepsilon } { \displaystyle \frac { 1 } { N } \sum _ { p = 1 } ^ { N } \frac { \sigma _ { Y _ { f } } ^ { 2 } + x } { \sigma _ { I } ^ { 2 } + x } } }
+$$
+
+$$
+b ^ { ( u , \nu ) } = \mu ^ { ( u , \nu ) } - a ^ { ( u , \nu ) } \mu _ { f } ^ { ( u , \nu ) }
+$$
+
+其中： $\mu ^ { ( u , \nu ) }$ 表示输入图像在邻域 $\left| w ^ { ( u , \nu ) } \right|$ 的均值； $\mu _ { f } ^ { ( u , \nu ) }$ 和 $( \sigma ^ { ( u , v ) } { } _ { f } ) ^ { 2 }$ 分别表示引导图像在邻域 $w ^ { ( u , \nu ) } |$ 内的均值和方差； $\boldsymbol { \varepsilon }$ 表示正则化参数； $\sigma _ { I } ^ { 2 }$ 表示输入图像 $3 ^ { * } 3$ 邻域内的方差， $\sigma _ { Y _ { f } } ^ { 2 }$ 表示引导图像 $3 ^ { * } 3$ 邻域内的方差； $x$ 为常数。
+
+亮度估计后，需要计算图像的反射量。在单尺度的基础上，本文通过引入整体亮度调节因子和局部细节调节模型改进单尺度Retinex，以此提高整体亮度、突出局部细节，具体实现如式(5)和(6)所示。
+
+$$
+R ( x , y ) = \alpha \log ( I ( x , y ) ) - \beta \log ( L ( x , y ) )
+$$
+
+$$
+\beta = 1 - \sin ^ { 2 } ( \frac { L ( x , y ) } { I ( x , y ) } \pi )
+$$
+
+其中： $R ( x , y )$ 为反射量输出； $I ( x , y )$ 为原始图像； $L ( x , y )$ 为亮度估计图像； $\scriptstyle a$ 为整体亮度调节因子， $\beta$ 为局部细节调节因子。但对于对数域 $R ( x , y )$ 不可能满足所有的像素都处在规定值域范围之内，所以在计算完反射量后，需要对其进行拉伸至适合视觉要求的范围内。传统的线性拉伸容易导致局部细节丢失[10]。为了更好地调整输出信息，采用非局部线性拉伸，具体实现如式(7)和(8)所示。
+
+$$
+\begin{array} { r } { R _ { o u t } \left\{ \begin{array} { l l } { 0 , \qquad \quad R ( x , y ) < R ^ { l o w } } \\ { R ( x , y ) - R ^ { l o w } } \\ { \qquad R ^ { h i g h } - R ^ { l o w } , R ^ { l o w } < R ( x , y ) < R ^ { h i g h } } \\ { 2 5 5 , \qquad \quad R ^ { h i g h } < R ( x , y ) } \end{array} \right. } \end{array}
+$$
+
+$$
+R ^ { l o w } = m e a n - d ^ { * } \alpha , R ^ { h i g h } = m e a n + d ^ { * } \alpha
+$$
+
+其中：mean为 $R ( x , y )$ 的均值； $\scriptstyle a$ 为 $R ( x , y )$ 的方差； $d$ 为截断因子，控制拉升范围。
+
+对于不同的图像，截断因子 $d$ 和整体调节因子 $\alpha$ 取值不同。为了达到自适应的效果，需要优化 $d$ 和 $\scriptstyle a$ 。本文采用人工蜂群算法优化 $d$ 和 $\scriptstyle a$ ，因为其操作相对简单、控制参数较少且求解质量高[15]。而图像信息熵表示图像含有多少信息量，值越大信息量越丰富，细节越多，图像质量越好[1。将熵作为适应度函数优化增强图像，其定义为
+
+$$
+F _ { _ { f i t } } = - \sum _ { i = 0 } ^ { l - 1 } P ( i ) \ln ( P ( i ) )
+$$
+
+其中： $\mathbf { \xi } _ { l }$ 表示图像的灰度级级数，取为256； $P ( i )$ 表示像素 $i$ 所占的灰度值比例； $\alpha$ 的取值为(1.5\~2.5)；截断因子 $d$ 取值为(2.0\~3.0)；蜂群大小为20；迭代次数为30。
+
+# 1.3亮度增强层
+
+实验发现：在Retinex增强层中，增强图像亮度略有不足。为了进一步提高图像的亮度，受Gamma校正和Sigmoid
+
+函数启发，提出一种新的归一化函数，如式(10)所示。
+
+$$
+R _ { e n } = 2 5 5 * { \frac { 2 } { \pi } } \arctan ( \lambda N o r m ( x , y ) )
+$$
+
+其中：λ为调节因子，控制亮度层次； $N o r m ( x , y )$ 为归一化后的 $I ( x , y )$ 。不同图像λ的取值不同，所以 $\lambda$ 应为自适应，定义如式(11)所示。
+
+$$
+\lambda { = } 5 { + } \frac { 1 { - } I _ { m e a n } } { I _ { m e a n } }
+$$
+
+其中： $I _ { m e a n }$ 表示 $I ( x , y )$ 的均值。图像越偏暗 $I _ { m e a n }$ 越小；而 $\lambda$ 越大，说明越偏暗的图像亮度会大幅提高。
+
+图2为亮度比较。从图2可以看出，亮度增强层和Retinex增强层相比，亮度增强层亮度明显大幅度高于Retinex 增强层，这验证了归一化函数的合理性。
+
+![](images/6a003a505c49df8d3dcb5945b7ccbf1abb78c80cc58722339cf06b1a7ecb34bc.jpg)  
+图2亮度比较
+
+![](images/a6fa77d3e475df74877600be906d66bcf9ee09eee41f561e9ae3b8a5cb65c32a.jpg)  
+Fig.2Brightness comparison   
+图3模型比较
+
+![](images/c9e0863efa158a490ea904f16410c4d23a050ab816612e574d810b0d65a7b7de.jpg)  
+Fig.3Model comparison   
+图4恢复前后比较  
+Fig.4Comparison before and after recovery
+
+# 1.4细节突出层
+
+在Retinex增强层中，实现了图像细节的增强。但为了突出增强后的细节，充分挖掘隐藏的细节，利用全局和局部信息，本文改进了一种局部线性增强模型[16]。改进模型如式（12）所示。
+
+$$
+E _ { l o c a l } ( x , y ) = \frac { D } { \sigma ( x , y ) + a } [ I ( x , y ) - b \times m ( x , y ) ] + m ( x , y )
+$$
+
+其中： $E _ { l o c a l } ( x , y )$ 为增强结果输出； $m ( x , y )$ 为 $n ^ { * } n$ 局部邻域内的均值； $D$ 为输入图像 $I ( x , y )$ 的全局均值； $M ^ { * } N$ 为输入图像大小； $\sigma ( x , y )$ 为 $n ^ { * } n$ 局部邻域内的标准偏差。具体实现如式(13)所示。
+
+$$
+\sigma ( x , y ) = { \sqrt { { \frac { 1 } { n ^ { * } n } } { \sum _ { x = 0 } ^ { n - 1 } \sum _ { y = 0 } ^ { n - 1 } [ I ( x , y ) - m ( x , y ) ] } ^ { 2 } } }
+$$
+
+在模型中， $m ( x , y )$ 和 $\sigma ( x , y )$ 决定着图像局部细节信息，其中 $\mathbf { \Delta } _ { a }$ 值是避免 $\sigma ( x , y )$ 为 $0 , \ b$ 值控制着像素偏离局部均值的程度， $D$ 从全局增强图像； $\boldsymbol { a }$ 的取值为(0\~0.5)， $b$ 的取值为(0\~1)。因为不同的图像 $a , b$ 的取值是不同的。为了使增强效果达到自身最优，同时满足自适应的要求，实验选取人工蜂群算法优化 $\mathbf { \Delta } _ { a }$ 、 $b$ 参数。
+
+PSNR在图像质量评估中应用广泛，PSNR值越高表明图像越不失真[16]。在优化中，PSNR作为局部模型优化适应度函数，定义如下：
+
+$$
+F _ { f i t } = 1 0 \log _ { 1 0 } ( \frac { ( L - 1 ) ^ { 2 } } { \displaystyle \frac { 1 } { M N } { \sum _ { x = 0 } ^ { M - 1 } } { \sum _ { y = 0 } ^ { N - 1 } } { ( I ( x , y ) - E ( x , y ) ) } ^ { 2 } } )
+$$
+
+其中： $L$ 表示图像的灰度级级数为256； $E ( x , y )$ 为增强图像。
+
+从式(12)可以看出，本文选择了两个参数约束模型，文献[16]采用四个参数进行约束，虽然约束条件较多，但实际效果并不佳。图3为模型比较。从图3可以看出，文献[16]虽然增强了图像细节，但是局部细节不够明显，尤其是草丛和船帆部分细节不够突出，导致整体比较模糊。而本文改进的模型中，草丛和船帆很清晰，女士上衣条纹清晰可见，而且在同等条件下，本文模型的处理速度更快。
+
+# 1.5细节恢复
+
+为了得到更好地增强结果，结合各层特点，将Retinex基础层、亮度增强层、细节突出层进行拉普拉斯金字塔融合[17]。实验发现，采用拉普拉斯融合会造成图像部分细节比较模糊，因此本文设计了一种细节恢复方案。因为图像在不同邻域内细节程度不一样，所以根据各个区域自身性质进行区域细节恢复，可以避免细节丢失。本文利用像素与邻域像素均值和方差的关系，并结合Gamma 校正的特点提出细节恢复方案。
+
+细节恢复方案：
+
+a)首先将输入图像转换为灰度图像，并作归一化。
+
+b)计算相邻四域的均值 $M ( x , y )$ ，并计算该点偏离均值$M ( x , y )$ 的程度 $a _ { ( } ^ { 2 } x , y )$ ，定义如式(15)和(16)所示。
+
+$$
+M ( x , y ) { = } { \frac { 1 } { 4 } } \sum _ { { m \in ( x , x - 1 , x + 1 ) } \atop { n \in ( y , y - 1 , y + 1 ) } } I ( m , n )
+$$
+
+$$
+\alpha _ { ( x , y ) } ^ { 2 } = \frac { 1 } { 5 } \sum _ { \stackrel { m \in ( x , x - 1 , x + 1 ) } { n \in ( y , y - 1 , y + 1 ) } } ( I ( m , n ) - M ( x , y ) ) ^ { 2 }
+$$
+
+c)计算Gamma校正值 $I _ { g a }$ ，定义如式(17)所示。
+
+$$
+I _ { g a } = I ( x , y ) ^ { ( \frac { M ( x , y ) } { I ( x , y ) } + \alpha _ { ( x , y ) } ^ { 2 } ) }
+$$
+
+d)计算最后增强结果 $I _ { f i n a }$ ，如式(18)所示。
+
+$$
+I _ { _ { f i n a } } = \frac { I _ { _ { g a } } ( x , y ) } { I _ { _ { g r a y } } ( x , y ) } I _ { _ { e n } } ^ { h } ( x , y ) \ h = ( R , G , B )
+$$
+
+其中： $I _ { \mathrm { g r a y } } ( x , y )$ 输为灰度图像； $I _ { e n } ^ { h } ( x , y )$ 是拉普拉斯伸融合后转换 $R$ 、 $G$ 、 $B$ 通道值。
+
+图4是恢复前和恢复后的对比。从恢复前图4（a）可以看出整幅图像因为细节不够明显导致比较模糊，尤其是草丛部分和海岸；恢复后图4（b）可以看出整个草丛清晰可见，船帆也不模糊，消除了因拉普拉斯造成的部分细节模糊，证明了方案的合理性。
+
+# 2 实验分析与讨论
+
+为了验证本算法的性能，测试算法的环境为VS2013+
+
+OPENCV2.4.9，所有实验结果均为 $^ { C + + }$ 实现。测试图片来自[18]。本文选取三类代表性图像：弱光照条件下拍摄的image18、强光照条件下拍摄的image2，以及在不均光照条件下拍摄的image15。下面给出了本算法的增强结果，并与CLAHE、文献[9]、文献[12]、文献[13]进行比较。
+
+图5是弱光照条件下的image18实验结果对比。从图5可以看出，CLAHE算法虽然改善了图像的亮度，但同时也出现了色彩溢出，尤其是湖面泛黑，无法突出草丛细节特征，导致草丛比较模糊，而船帆部分亮度过高，整体视觉偏黑。文献[9]图像纹理较为清楚，对比度较弱，海水和海岸泛白，噪声现象较为严重，图像整体亮度不高。文献[12]从全局的角度增强，整体提高了图像的对比度，但由于没有考虑局部信息，导致增强结果不自然，呈现朦胧感，草丛部分比较模糊。文献[13]亮度增强过高，尤其船帆和海水部分出现了过度增强，因为该算法采用了全局归一化导致局部图像细节丢失较多，导致草丛部分模糊。本文提出的算法适当地提高图像的对比度，整体亮度也适中，增强结果更为自然，细节更为明显，能清楚地看清草丛中的细节，整体没有出现噪声扩大。
+
+图6是强光照条件下image2实验结果对比。由图6可以看出，在强光照条件下，CLAHE 算法过度增强，轮胎亮度过高，男孩脸部泛白。文献[9]对比度增强较弱，因为不能突出细节导致图像十分模糊，同时伴有噪声扩大现象。文献[12]和文献[13]都出现过度增强，整个轮胎泛白且男孩胸口亮度过高，尤其是文献[13]轮胎一周十分严重,衣服上的小熊受亮度影响辨识不清。而本文算法整体效果较好，清晰度较高，图像较为自然，轮胎增强适中，没有出现过亮，纹理较为清楚，且衣服上小熊清晰可见，男孩脸部轮廓没有光晕现象。
+
+图7是不均匀光照条件下的image15实验结果对比。从图7可以看出，在不均匀光照条件下，CLAHE 算法增强效果不佳，不能突出图像细节，比如女孩裙子下端泛黑，发顶和木栏比较模糊；文献[9]改善了对比度，但色调下降较为严重，木栏的色调几乎辨识不清，并伴有噪声扩大的现象。文献[12]亮度过高，尤其是女孩衣裙整体受亮度原因泛黄，木栏和橱窗细节也比较模糊。
+
+文献[13]木栏的细节处理较好，但由于过度增强，橱窗细节模糊。本文算法适当地提高了图像的亮度，同时突出了图像的细节，尤其是木栏和橱窗细节比较清晰，衣裙没有过度增强。
+
+![](images/5ce7d17a262c63b52441e3c0d676de750c830f9789592b36b7dcb33dc89abded.jpg)  
+Fig.5imagel8 contrast
+
+![](images/efcb82b6923725dcd7054a61fddcdac0f31821dce7835f015b2070f1623a880b.jpg)  
+第37卷第2期  
+图7imagel5对比
+
+龙鑫，等：基于多层融合和细节恢复的图像增强方法  
+Fig.7imagel5 contrast
+
+从上面的讨论分析讨论可知，在弱光照、强光照以及不均匀光照条件下，本文算法都要优异于其余四种算法，能适当地提高图像的亮度，突出图像的细节。
+
+接下来从客观指标分析实验效果，选用PSNR、Tenengrad标准、细节对比度[16]作为评价指标。图像的PSNR值越高，客观表明图像不混乱，不失真；Tenengrad是一种清晰度评价指标，通常认为图像Tenengrad 值越大，图像质量越好[19];细节对比度采用计算图像的熵、边缘强度和和图像边缘数目。其值越大说明图像的细节越丰富、质量越好，通过式(19)计算：
+
+$$
+F ( I _ { e } ) = \log ( \log ( E ( I _ { e } ) ) ) \times \frac { e d g e l s ( I _ { e } ) } { M ^ { * } N } \times e ^ { H ( I _ { e } ) }
+$$
+
+其中： $I _ { e }$ 为增强图像； $e d g e l s ( I _ { e } )$ 为可见边缘数目； $H ( I _ { e } )$ 为增强图像的熵值； $M ^ { * } N$ 为增强图像大小； $E ( I _ { e } )$ 为可见边缘像素值之和；本文采用Sobel检测边缘。
+
+表1为指标测试结果。从表1可以看出，无论是在弱光照、强光照、不均匀光照下，本文提出的算法在三个指标上都要高于其余的四种算法，综合性能上更为优越，尤其是在Tenengrad指标上远远高于其余四种算法，如上所述都客观地证明了本文算法能很好地提高图像的亮度和对比度，并突出了图像细节。
+
+# 3 结束语
+
+针对弱光照、强光照以及不均匀光照条件下图像对比度低、细节不明显问题，本文提出了一种改进多层融合和细节恢复图像增强方法，有效地解决了在增强过程中的彩色溢出、丢失细节、出现光晕和视觉效果不明显等问题，提高了图像对比度并突出了细节。首先将图像等分复制为三层。在Retinex增强层中，考虑到传统Retinex增强中的光晕问题，结合引导滤波和形态学作为单尺度亮度估计方法，并引入亮度因子和局部细节调节模型和增强了图像亮度和细节；在亮度增强层中，提出了一种新的图像归一化方法，进一步突出图像亮度；在细节突出层中，简化一种局部对比度增强模型并结合人工蜂群算法，进一步突出图像的细节。最后为了避免融合后细节的丢失，提出一种细节恢复方案。实验结果表明，本文算法能够有效地提高对比度和突出图像细节，为后续的图像处理奠定了基础。
+
+表1指标测试结果  
+Table1 Indicator test results   
+
+<html><body><table><tr><td>Three images</td><td>Evaluating indicator</td><td>Original image</td><td>CLAHE</td><td></td><td>The result of [9] The result of [12] The result of[13]</td><td></td><td>Proposed method</td></tr><tr><td rowspan="3">lg-image3</td><td>Contrast</td><td>36.7466</td><td>53.474</td><td>39.9618</td><td>50.1752</td><td>52.5404</td><td>54.4371</td></tr><tr><td>PSNR</td><td></td><td>17.189</td><td>12.7089</td><td>12.3584</td><td>10.0395</td><td>17.7837</td></tr><tr><td>Tenengrad</td><td>3953.21</td><td>8640.62</td><td>425.167</td><td>7032.77</td><td>5835.54</td><td>9582.85</td></tr><tr><td rowspan="3">lg-image1</td><td>Contrast</td><td>31.1156</td><td>54.5604</td><td>39.2505</td><td>46.282</td><td>52.3782</td><td>55.1928</td></tr><tr><td>PSNR</td><td></td><td>13.4648</td><td>11.1857</td><td>10.6296</td><td>10.3542</td><td>13.8249</td></tr><tr><td>Tenengrad</td><td>3699.26</td><td>10023.9</td><td>346.284</td><td>8553.14</td><td>8091.29</td><td>12839.3</td></tr><tr><td rowspan="3">lg-image6</td><td>Contrast</td><td>25.1804</td><td>48.5456</td><td>45.2857</td><td>36.4641</td><td>54.4121</td><td>56.686</td></tr><tr><td>PSNR</td><td></td><td>17.1108</td><td>10.4281</td><td>11.5234</td><td>11.0758</td><td>17.2319</td></tr><tr><td>Tenengrad</td><td>1771.92</td><td>4118.01</td><td>10666.8</td><td>4011.8</td><td>3978.85</td><td>6063.51</td></tr></table></body></html>
+
+# 参考文献：
+
+[1]吴一全，史骏鹏．基于多尺度Retinex的非下采样Contourlet 域图像 增强[J]．光学学报，2015,35(3):79-88.(Wu Yiquan,Shi Junpeng. Image enhancement in non-subsampled Contourlet transform domain based on multi-scale Retinex [J]. Journal of Acta Optical Sinica,2015, 35 (3): 79-88.   
+[2]Fu Xueyang,Zeng Delu,Huang Yue,et al.A fusion-based enhancing method for weakly illuminated images [J]. Signal Processing,2016,129 (c): 82-96.   
+[3]Wang Qing,Ward R K.Fast image/video contrast enhancement based on weighted thresholded histogram equalization [J].IEEE Trans on Consumer Electronics,2007,53 (2): 757-764.   
+[4]Li Yuecheng,Zhang Hong.Modified clipped histogram equalization for contrast enhancement [C]/Proc of the 13th International Conference on Parallel and Distributed Computing,Applications and Technologies. Pisscataway,NJ:IEEE Press,2012:653-658.   
+[5] Poddar S,Tewary S,Sharma D,et al.Non-parametric modified histogram equalisation for contrast enhancement [J].Iet Image Processing,2013,7(7): 641-652.   
+[6]Liu Yu,Chen Xun,Ward R,et al.Image fusion with convolutional sparse representation [J]. IEEE Signal Processing Letters,2016,23 (12): 1882-1886.   
+[7]Cui Bo.Infrared and visible images fusion based on gradient bilateral filtering [C]//Proc of the 3rd International Conference on Systems & Informatics.Pisscataway,NJ:IEEE Press,2016:891-895.   
+[8]Liu Huijie,Sun Xiankun,Han Hua,et al.Low-light video image enhancement based on multiscale Retinex-like algorithm [C]//Proc of Chinese Control and Decision Conference.Pisscataway,NJ:IEEE Press, 2016:3712-3715.   
+[9]Xiao Jinsheng，Hong Peng，Zhang Yongqin，et al.Fast image enhancement based on color space fusion [J].Color Research & Application,2016,41 (1): 22-31.   
+[10]Wang Yifan,Wang Hongyu,Yin Chuanli,et al.Biologically inspired image enhancement based on Retinex [J].Neurocomputing,2O16,177 (177): 373-384.   
+[11] Li Zhengguo,Zheng Jinghong,Zhu Zijian,et al.Weighted guided image filtering [J].IEEE Trans on Image Processing A Publication of the IEEE Signal Processing Society,2015,24(1): 120-129.   
+[12] Lee S,Kwon H,Han H,et al.A space-variant luminance map based color image enhancement [J].IEEE Trans on Consumer Electronics, 2010,56 (4):2636-2643.   
+[13] Zhou Zhigang,Nong Sang,Hu Xinrong.Global brightness and local contrast adaptive enhancement for low illumination color image [J]. Optik-International Journal for Light and Electron Optics,2014,125 (6): 1795-1799.   
+[14] He Kaiming,Sun Jian,Tang Xiaoou. Guided image filtering [J]. IEEE Trans on Pattern Analysis & Machine Intelligence,2O13，35 (6): 1397-1409.   
+[15] Karaboga D,Gorkemli B.A quick artificial bee colony (qABC) algorithm and its performance on optimization problems [J]. Applied Soft Computing,2014,23 (5): 227-238.   
+[16] Maurya L,Mahapatra PK,Kumar A.A social spider optimized image fusion approach for contrast enhancement and brightness preservation [J].Applied Soft Computing,2016,52 (c): 575-592.   
+[17] Ancuti C O,Ancuti C,Vleeschouwer CD,et al. Single-scale fusion: an effective approach to merging images [J].IEEE Trans on Image Processing,2016,26(1): 65-78.   
+[18] https://dragon.larc.nasa.gov/retinex/pao/news/[EB/OL].   
+[19]Raju G,Nair MS.A fast and efficient color image enhancement method based on fuzzy-logic and histogram [J].AEUE-International Journal of Electronics and Communications,2014,68 (3): 237-243.

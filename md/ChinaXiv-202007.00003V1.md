@@ -1,0 +1,168 @@
+# 未意识到错误影响错误后调整的电生理证据\*
+
+王丽君 索涛 赵国祥
+
+（河南大学教育科学学院，河南省心理与行为重点实验室，认知、脑与健康研究所，开封475004)
+
+摘要现有研究一致认为意识到错误可引起错误后调整，但是未意识到错误能否促使个体进行错误后调整尚存争议。本实验采用基于go/no-go范式的错误意识任务考察上述问题，并根据被试对自己按键反应正误主观报告将 $\mathrm { n o ^ { - } g o }$ 错误反应分为意识到错误和未意识到错误。行为结果发现，意识到错误和未意识到错误后正确率均显著高于正确击中试次（正确 go 试次）后正确率；但是，意识到错误后试次反应时显著快于正确击中后反应时，未意识到错误后反应时显著慢于正确击中后反应时。该结果表明两类错误均优化了错误后行为表现，但是意识到错误后被试调整速度加快，未意识到错误后被试调整速度减慢。进而，时频分析发现意识到错误相较于未意识到错误诱发显著更强的alpha 波能量。并且，前者在错误意识主观报告前已诱发alpha 波,后者在错误意识主观报告反应后诱发alpha 波。该结果表明意识到错误一直处于持续的注意监控中，而未意识到错误是任务引起的暂时注意控制。因此，本实验说明错误意识影响错误后调整，意识到错误可能采用类似主动性控制的策略调节错误后行为，而未意识到错误可能采用类似反应性控制的策略调节错误后行为。关键词 错误意识；错误后调整；alpha 波；主动性控制；反应性控制
+
+# 1前言
+
+在日常生活中，个人不可避免会犯各种错误，有效监控和调节错误行为对优化随后执行表现和适应多变的环境具有重要的生存和社会适应意义。在错误发生后，个体为了避免错误再次发生而调用适当的认知资源在神经和行为上进行一系列调整的现象被称为错误后调整效应（post-error adjustment effect） (Ulsperger, Danielmeier, & Jocham,2014; Wang, Gu, Zhao,& Chen,2020)。错误后调整效应在行为上通常表现为错误后减慢（post-error slowing）和错误后正确率提高（post-error improvement in accuracy）。即，相比较正确后反应，错误后试次反应时显著延长和正确率显著提高的现象(Rabbitt,1966；王丽君，徐雷，伍姗姗，谭金凤，陈安涛,2013)。
+
+个体并不能每次都成功觉察到所犯的错误，一些研究发现只有在意识到错误条件下才可观察到错误后减慢现象(Endrass,Reuter,& Kathmann,2007；Hoonakker,Doignoncamus,&Bonnefond,2016; Navarro-Cebrian,Knight,& Kayser,2013)。在认知神经的研究中发现，意识到错误后诱发的错误正波（error positivity,Pe）显著强于未意识到错误(Nieuwenhuis,Ridderinkhof,Blom, Band,& Kok,2001; O'Connell et al.,2007; Shalgi,Barkan,& Deouell, 2009),并且 Pe 波幅与错误后减慢存在相关(Coleman,Watson,& Strayer,2018; Hajcak,McDonald,&Simons,2003)。这些研究结果认为只有意识到错误才能引起错误后调整，未意识到错误不进行错误后调整。意识到错误和未意识到错误对行为调整的不同影响，研究者认为可能与两类错误的产生原因有关。意识到错误主要是由抑制反应失败导致（包含部分持续注意缺失)，错误发生后个体通过调用更多的认知资源进行了积极的行为调整。而未意识到错误完全是由持续注意缺失导致，错误发生后个体较少进行有效的行为调整(Hoonakker etal.,2016; Murphy,Robertson, Allen, Hester, & O'Connell, 2012)。
+
+但是，近年提出的证据累积理论（evidence accumulation account）认为错误监测包括错误证据累积和做出决策两个阶段，只有错误证据累积到一定程度，个体才能在决策阶段进行有意识的错误报告(Steinhauser& Yeung,2010,2012)。Wessel 等通过记录个体反应错误时的心率和瞳距发现意识到错误相比未意识到错误引起明显的心率下降和瞳距直径增大现象(Wessel,Danielmeier,& Ullsperger,2011)。已有研究观察到相似的结果，发现错误相关的瞳距直径受中额皮层错误评估的影响，更有意义的错误（如意识到错误）可引起更强的自发唤醒导致瞳距直径增大，进而影响错误后行为调整(DerWel& Van Steenbergen,2018;Maier, Ernst,& Steinhauser,2019)。另外，Godefroid 等通过操纵反应手的可视性（视知觉反馈）发现，只有在反应手可视时早期错误监控指标错误相关负波（error-related negativity,ERN）被错误意识所调节(Godefroid,Pourtois,&Wiersema,2015)。这些结果说明错误信息不仅来自于执行监控系统，而且感知觉和运动系统也可提供错误已发生的信息，进一步证实错误意识的证据累积理论。根据错误意识的证据累积理论，研究者认为未意识到错误可能以内隐的方式进行错误探测并完成错误后调整，只是累积的错误证据尚未达到清晰报告的水平(Wessel,2012)。
+
+根据上述研究发现，现有研究一致认为意识到错误可引起错误后调整，但是未意识到错误能否促使个体进行错误后调整尚存争议。产生这种不一致结论的可能原因在于现有研究考察错误意识的加工通路不同。支持未意识到错误不能进行错误后调整的研究强调自上而下的控制在错误意识加工中的作用，认为未意识到错误不能提供错误已发生的信息，因此未意识到错误不能促使大脑调用更多认知资源进行错误后调整。但是支持证据累积理论的研究强调自下而上的控制在错误意识加工中的作用，认为未意识到错误可根据感知觉和运动系统提供的错误信息以内隐的方式进行错误后调整。前人研究已发现主动性控制（proactive control)参与冲突或错误发生后的试次间调整(Chang,Ide,Li, Chen,&Li,2017;Leunissen, Coxon,&Swinnen,2016)。特别是在Regev 和 Meiran（2014）的研究中指出错误后调整包含主动性控制和反应性控制（reactive control）两种策略控制加工(Regev&Meiran,2014)。主动性控制是目标导向性的自上而下控制，在认知需求事件发生前注意控制一直持续存在，通过对目标相关信息的持续注意来预防消极事件的发生（如错误、冲突等)；而反应性控制是刺激驱动的自下而上控制，在认知需求事件发生时暂时进行注意控制，通过在反应时重新激活目标相关信息来避免消极事件的发生(Braver,2012)。由此，我们推测意识到错误和未意识到错误可能采用了不同的控制策略调节错误后行为。但是，目前为止，尚未有研究探究意识到错误和未意识到错误调节错误后行为的加工策略差异。
+
+对错误意识的神经机制的研究较多采用事件相关电位（event-related potential，ERP）技术进行考察(Di Gregorio,Steinhauser,& Maier,2016; Hoonakker et al.,2016)。ERP 技术是通过对相关事件激发的脑神经活动进行锁时锁相的平均分析所得，但是该技术把该事件诱发的持续存在的脑神经活动（非锁相部分）作为背景噪音过滤掉了(Makeig,Debener,Onton,&Delorme,2004)，这就导致大量脑电信号的损失。有一些研究者认为非锁相的神经活动也能反映认知控制加工(Cavanagh&Frank,2014;Wang et al.,2015)。并且，前人研究已证实时频震荡可反映主动性和被动性控制策略(Chang et al.,2017; Cooper et al.,2015; Hwang,Ghuman,Manoach,Jones,&Luna,2016)。因此，为了更清楚全面地描述错误意识的脑神经活动时程，本研究拟采用锁时非锁相的波谱时频分析（time-frequency analysis）考察意识到错误和未意识到错误是否采用不同的控制策略进行错误后调整。值得注意的是，枕顶区alpha 波（8\~14Hz）神经震荡可反映试次间的行为调节（冲突适应和错误后调整）(Chang et al.,2017;Sadaghiani& Kleinschmidt,2016)。如，Hwang 等人研究发现 alpha 波能量的变化可以正向预测行为执行正确率（Hwang etal.，2016)。因此，本研究将以错误意识主观报告激活的枕顶区 alpha 波能量变化作为考察指标，以期解释错误意识在错误后调整中的作用。alpha 波的能量与大脑活动状态呈负相关，alpha 波神经震荡越强，大脑的激活状态越弱；反之，alpha波神经震荡越弱，大脑的激活状态越强(Pfurtscheller&Lopes da Silva,1999;Tang,Hu,& Chen,2013)。
+
+为揭示意识到错误和未意识到错误对错误后调整影响的神经机制，本研究将采用基于go/no-go 范式的错误意识任务(Hester,Foxe,Molholm,Shpaner,& Garavan,2005)，并结合时频分析方法探索意识到错误和未意识到错误对错误后调整影响的差异性。在前人研究中发现，若只在错误反应后进行按键标记，被试可能存在过度错误标记或不进行错误标记的情况(Wessel,2012)。当被试倾向于把正确反应标记为错误反应，这样将增加错误虚报率；当被试倾向于不进行错误标记(实际觉察到了错误)，这样将干扰未意识到错误类型的分析。因此，本实验要求被试在按键反应完成后无论反应正误均进行按键标记(Wesseletal.,2011)。另外，鉴于前人研究结果发现枕顶区alpha 波神经震荡可反映错误后行为调节(Chang etal.,2017;Sadaghiani&Kleinschmidt,2016)，我们预测意识到错误和未意识到错误导致的错误后行为调节模式不同，并且两类错误诱发的alpha 波存在差异。
+
+# 2方法
+
+# 2.1被试
+
+实验前我们使用G.Power3.1软件对样本量进行先验分析，在保证中等效应量时估计出所需要的样本量为29人。因此，为保证有效被试数据不少于29人，我们有偿招募36名大学生参加本实验，其中女生被试22名，男生被试14名，年龄介于19\~26岁，平均年龄 21.5岁 （ $S D = 1 . 7 2 )$ 。所有被试均报告身心健康，右利手，视力正常或矫正至正常，颜色辨别能力正常。其中5名被试的数据（EEG 数据伪迹过大或行为数据错误意识报告率过低）被删除。最终31名（18女）被试的数据被用于行为和EEG分析。在实验前，所有被试均签署知情同意书。本实验获得西南大学心理学部学术伦理委员会批准。
+
+# 2.2实验程序和实验任务
+
+实验程序采用E-Prime 2.0软件编制，在19英寸的Dell电脑上运行，电脑背景颜色为黑色，并记录被试的反应时和正确率。被试需在隔音的独立实验室完成错误意识任务，并保持眼睛与电脑屏幕距离约为60厘米。刺激包含六个带颜色的汉字（红255，0，0；蓝0，0,255；绿0，255，0；黄 255，255，0；白255，255，255和紫255，0，255)。当汉字颜色和字义一致时，被试需又快又准地进行按键反应，该类试次被称为go试次。为了产生足够用于分析的错误试次，以下两种情况不需被试进行按键反应：一，汉字字义和颜色不一致时，被试不需按键；二，当前试次呈现的汉字与先前试次完全一致时，被试不需按键，该类试次被称为no-go 试次。刺激反应的按键规则在被试间进行平衡。一半被试要求用左手食指按A键进行go试次反应，右手食指按K键进行反应正确报告，右手中指按L键进行反应错误报告；另一半被试则要求用右手食指按L键进行go试次反应，左手中指按A键进行反应正确报告，左手食指按S键进行反应错误报告。
+
+实验流程如图1所示。对于每个试次，首先在屏幕中央呈现 $2 0 0 \mathrm { { m s } }$ 的白色 $" \mathrm { ~  ~ \cdot ~ } \boldsymbol { \cdot } \mathrm { ~  ~ \cdot ~ }$ 注视点，然后呈现一个300ms 的空屏。刺激随后在屏幕中央呈现 $8 0 0 \mathrm { { m s } }$ 。被试需在 $8 0 0 \mathrm { m s }$ 内完成按键反应，按键后刺激消失；若没有进行按键反应，刺激则在呈现 $8 0 0 \mathrm { m s }$ 后消失。刺激消失后会呈现一个1000ms 的空屏，随后会呈现 $1 0 0 0 \mathrm { { m s } }$ 白色的“#”提示被试进行错误意识主观报告，被试需在 $1 0 0 0 \mathrm { { m s } }$ 内进行按键反应，按键后消失。最后呈现一个 $6 0 0 \mathrm { { m s } }$ 的空屏作为试次间隔。
+
+在实验前，每个被试需先完成包含30个试次的练习实验来熟悉反应规则。规则了解清楚后，被试需完成包含6组试次的正式试验。每组试次包含 210个试次，其中go 试次 180个，no-go 试次30个。被试在完成每组试次后可休息1分钟，准备好后进行下一组实验。为了有效实现实验目的，每组试次采用伪随机顺序排列。
+
+![](images/00be31fdb0229ce854f4d61ad33540b98c364e093aae39077ba94a2e0ce8a265.jpg)  
+图1实验流程图
+
+# 2.3EEG数据采集
+
+EEG 数据采用64导 $\mathbf { A g / A g C L }$ 电极帽（Brain ProductsGmbH，Germany）采集，电极位置采用国际10/20扩展系统。在线滤波带通设为 $0 . 0 1 { \sim } 1 0 0 0 \mathrm { H z }$ ，采样率为 ${ 5 0 0 } \mathrm { H z }$ ，参考电极位于FCz点。眼电参考分别设在右眼下方（垂直眼电参考）和右眼外侧（水平眼电参考)，以监测眼动伪迹。电极和头皮的接触电阻保持低于 $1 0 \mathrm { k } \Omega$ 。
+
+# 2.4时频分析
+
+（1）EEG 数据预处理。在进行时频分析之前需先在BrainVision Analyzer2.0（处理 EEG信号的工具）上对 EEG数据进行重建新参考、去除眼电、分割感兴趣区和基线校正预处理分析。对连续记录的EEG信号采用离线分析，离线滤波带通设为 $0 . 1 { \sim } 3 0 \mathrm { H z }$ 。离线分析首先恢复了FCz电极点信号，然后采用双侧耳朵后乳突电极平均信号建立重参考。在分析过程中利用 Brain Vision Analyzer 2.0 自带分析软件中ICA方法进行眼电矫正。经ICA分析，每位被试获得64个ICA成分以及相应的IC 拓扑图和波形图。根据IC 拓扑图和波形图的特征进行眼电确认和删除，并在去伪迹时将波幅大于 $\pm 1 0 0 \mu \mathrm { V }$ 的试次剔除。EEG数据采用反应锁定分析，将感兴趣事件时间窗口设为错误意识主观报告前 $1 0 0 0 \mathrm { m s }$ 和错误意识主观报告后600ms ( $\mathrm { - 1 0 0 0 \sim 6 0 0 m s } ^ { \cdot }$ )，其中把错误意识主观报告前-1000 至 ${ \cdot } 5 0 0 \mathrm { m s }$ 时间间隔作为基线。接着，将获得的数据导入EEGLAB 进行进一步去伪迹处理。
+
+（2）时频域数据转换。利用 Letswave 软件（htp://amouraux.webnode.com）中的持续小波变换（continuous Morlet wavelet transform）将预处理后的 EEG 数据转化为时频域数据(Mouraux＆Iannetti,2008)。在小波变换中，中心频率（ω）和限制（σ）参数分别设为5和0.15，并以 $0 . 5 8 \mathrm { H z }$ 的步率呈现 $1 { \sim } 3 0 \mathrm { H z }$ 的时频表征。经小波变换后可得到单试次以时间和频率为函数的能量估计，随后将单试次的时频表征进行平均就得到了每个被试每个条件下的平均时频表征。接下来利用得到的平均时频表征计算每个频带上的事件相关频谱震荡（event-related spectral perturbation，ERSP)，从而获得 EEG 节律的神经震荡。ERSP 采用公式 $\mathrm { E R _ { t , f } \% }$ $\mathbf { \Lambda } = [ \mathbf { A } _ { \mathrm { t , f } } . \mathbf { R } _ { \mathrm { f } } ] / \mathbf { R } _ { \mathrm { f } }$ 进行计算，其中 $\mathbf { A } _ { \mathrm { t , f } }$ 指在特定时间t和特定频带f下的信号能量， ${ \bf R } _ { \mathrm { f } }$ 指特定频带f 基线的平均能量(Pfurtscheller&Lopes da Silva,1999)。为了避免小波变换时边缘伪迹对基线的影响(Cohen&Cavanagh,2011)，我们在计算 ERSP 时采用错误意识报告前-950 至 ${ \cdot } 5 5 0 \mathrm { m s }$ 作为基线。
+
+（3）定义空间感兴趣区和时频感兴趣区。根据前人研究，我们将枕顶区（Pz、P3、P4、POz、PO3 和 PO4）作为空间感兴趣区(Sadaghiani& Kleinschmidt,2016),然后根据在该感兴趣区内意识到错误和未意识到错误诱发的频谱图及两者的差异频谱图（见图3）确定时频感兴趣区。在确定时频感兴趣区时采用错误发现率（false discovery rate,FDR）进行多重比较矫正，阈值设为 $p < 0 . 0 5$ 。另外，为了控制假阳性结果，时频感兴趣区的选取遵循以下两个原则：1）在 $p { < } 0 . 0 5$ 的显著水平上，感兴趣区内的时频像素点显著区别于基线；2）感兴趣区内的时频像素点不少于 75个时间点（即不短于 $1 5 0 \mathrm { m s }$ )。基于上述两个原则，我们将频带$8 { \sim } 1 4 \mathrm { H z } ,$ 时间窗-500 至 ${ 5 0 0 } \mathrm { m s }$ 定义为时频感兴趣区。
+
+# 3结果
+
+本实验重点关注三种反应类型：正确击中、意识到错误和未意识到错误。其中意识到错误指被试将no-go 错误反应报告为错误反应，未意识到错误指被试将no-go 错误反应报告为正确反应（该试次实际是错误反应)。错误go 试次（不能反映抑制加工失败，为了避免错误类型的混淆）和正确no-go 试次（正确 no-go试次不需按键反应，没有反应时记录）未纳入行为和时频分析。
+
+# 3.1行为结果
+
+no-go 试次的正确抑制率为 $51 \%$ ，其中 $81 \%$ 的no-go 错误试次被正确察觉。意识到错误和未意识到错误的平均试次量分别为85（ $S D = 2 9$ ）和24（ $S D = 1 2$ )。错误后调整效应的考察采用单因素方差分析方法进行统计分析，采用Greenhouse-Geisser方法进行球形检验矫正。错误后反应时的方差分析结果显示试次类型主效应差异显著， $F ( 2 , 6 0 ) { = } 5 1 . 3 8$ ， $p { < } 0 . 0 0 1$ ， $\eta ^ { 2 }$ $= 0 . 6 3$ （见图2a)。事后配对比较结果显示意识到错误后试次反应时（ $4 3 3 \pm 1 3 ~ \mathrm { m s }$ ）显著快于未意识到错误后试次（ $4 8 4 \pm 1 2 \mathrm { m s }$ ； $p { < } 0 . 0 0 1$ ，Cohen's $d \mathrm { = } 1 . 5 6$ ）和正确后试次（ $4 7 2 \pm 1 2$ ms; $p { < } 0 . 0 0 1$ ，Cohen's $d = 1 . 5 5 \$ )。但是，未意识到错误后试次反应时显著慢于正确后试次，$p = 0 . 0 2 9$ ，Cohen's $d = 0 . 4 1$ 。错误后正确率的方差分析结果显示试次类型主效应差异显著，$F ( 2 , 6 0 ) = 6 7 . 2 5 \$ ， $p < 0 . 0 0 1$ ， $\eta ^ { 2 } = 0 . 6 9$ （见图2b)。事后配对比较结果显示意识到错误后试次正确率（ $9 8 \pm 0 . 4 \%$ ）显著高于未意识到错误后试次（ $9 2 \pm 1 \%$ ; $p { < } 0 . 0 0 1$ ，Cohen's $d \mathrm { = } 1 . 0 6$ ）和正确后试次（ $8 5 \pm 0 . 8 \%$ ； $p < 0 . 0 0 1$ ，Cohen's $d = 2 . 5 4 )$ 。并且，未意识到错误后试次正确率也显著高于正确后试次， $p < 0 . 0 0 1$ ，Cohen's $d = 0 . 8 7$ 。
+
+错误意识主观报告采用配对样本 $t$ 检验进行分析，结果显示意识到错误的报告时间（280$\pm 6 6 \mathrm { { m s } }$ ）显著快于未意识到错误的报告时间（ $3 0 3 \pm 5 9 \mathrm { m s }$ ， $t ( 3 0 ) = 2 . 0 8$ ， $\scriptstyle p = 0 . 0 4 6$ ，Cohen's$d = 0 . 3 8 { \mathrm { ~ c ~ } }$ （
+
+![](images/f836770da37e0efc42946496b4d9e7ef848b5ea3193e6b2c44809c4b524d2cfa.jpg)
+
+图2 错误后调整效应在反应时和正确率上的表现。图a分别呈现意识到错误、未意识到错误以及正确击中后正确试次在反应时上的结果。图b分别呈现意识到错误、未意识到错误以及正确击中后试次正确率结果。注：\*\*指 $p < 0 . 0 1$ ， $*$ 指 $p < 0 . 0 5$ 。
+
+# 3.2时频分析结果
+
+在时频分析中，伪迹去除后意识到错误和未意识到错误的有效试次分别为 $7 6 ( S D = 2 6$ ）和22 ( $S D = 1 0 \mathrm { \AA }$ )。对枕顶区的时频感兴趣区alpha $\mathrm { 8 } { \sim } 1 4 \mathrm { H z }$ ，-500至 $5 0 0 ~ \mathrm { m s } ,$ ）（见图3a, $p <$ 0.05,FDR矫正)波能量进行配对样本 $t$ 检验，结果显示意识到错误诱发的alpha 波能量(16.25$\pm 4 . 0 7 \%$ ）显著强于未意识到错误（ $3 . 9 8 \pm 1 . 6 8 \%$ ， $t ( 3 0 ) = 3 . 6 7$ $p = 0 . 0 0 1$ ，Cohen's $d = 0 . 6 5$ （见图3c）。
+
+意识到错误和未意识到错误诱发的alpha波出现响应的时间不同，为了检验该时间上的差异，我们首先对意识到错误和未意识到错误在每个时间点进行配对样本 $t$ 检验，以考察两类错误诱发的alpha 波出现显著差异的起始时间点，结果显示在第 232个时间点（错误意识主观报告前 536ms）两类错误诱发的 alpha 波开始出现显著差异（见图4)。其次，我们分别对意识到错误和未意识到错误在每个时间点进行独立样本t检验，以考察两类错误诱发的且显著区别于基线的alpha 波起始点。结果显示意识到错误在第 207个时间点（错误意识主观报告前 586ms）开始出现显著的alpha波，而未意识到错误在第 532个时间点（错误意识主观报告后64ms）开始出现显著的alpha 波。
+
+![](images/de3b2ed764fc01eafed443d0ce9795149c548c9bfe9efd101568a9366c59862b.jpg)
+
+图3意识到错误和未意识到错误时频分析结果。图a分别呈现意识到和未意识到错误在枕顶部（Pz、P3、P4、POz、PO3 和 PO4）的频谱图、两者的差异频谱图以及相应的差异 $p$ （204号值图 $p < 0 . 0 5$ (FDR 矫正)。白色矩形框中为选定的时频感兴趣区alpha 波频带（ $8 { \sim } 1 4 \mathrm { H z } ,$ -$5 0 0 \sim 5 0 0 ~ \mathrm { m s } .$ )。图b分别呈现在时频感兴趣区内的意识到错误和未意识到错误的头部地形图及两者的差异地形图。图c呈现意识到错误和未意识到错误在时频感兴趣区内的统计结果。注：\*\*指 $p < 0 . 0 1$ 。
+
+![](images/f1547b7db2a1780a3bab6a72e1b0efa034507c215cccf687a7958354623a2801.jpg)  
+图4意识到错误和未意识到错误激活的alpha能量变化时间进程
+
+# 4.讨论
+
+本实验的研究目的在于考察意识到错误和未意识到错误对错误后调整的影响及其神经机制。行为结果发现，意识到错误和未意识到错误后试次正确率均显著高于正确击中后试次正确率。但是，相比较正确击中后试次反应时，意识到错误后反应时显著变快，而未意识到错误后反应时显著变慢。时频分析结果发现，意识到错误诱发的alpha 波能量显著强于未意识到错误。并且，两类错误诱发的 alpha 波在错误意识主观报告前 536ms 开始出现显著差异。意识到错误在错误意识主观报告前 586ms 诱发alpha 波,而未意识到错误在错误意识主观报告后64ms才诱发alpha波。
+
+错误后调整的主要目的就在于实现错误后行为的优化，避免错误再次发生。在本实验中，意识到错误和未意识到错误后试次正确率均显著高于正确击中后试次正确率，说明两类错误均可促使个体进行错误后调整，实现了错误后行为执行的优化。因此，该结果与错误证据累积理论观点一致，认为未意识到错误可能采用内隐的方式探测错误。虽然未意识到错误累积的错误证据尚未达到清晰报告水平，但是依然可以促使个体进行错误后调整(Godefroid et al.,2015; Wessel, 2012)。
+
+在反应时上，意识到错误后试次反应时显著快于正确击中后反应时，而未意识到错误后试次反应时则显著慢于正确击中后反应时。该结果与采用 go/no-go任务范式的研究发现相一致(Hester etal.,2005)，但是受实验任务设置不同的影响，与采用反眼跳任务和Flanker 任务的实验结果相反(Endrass et al.,2007; Navarro-Cebrian et al.,2013)。导致这一相反结果出现的可能原因在于，go/no-go 任务中的go 试次是高频率的优势反应或者更自动化的反应，因此在意识到错误发生后积极的反应调整和反应准备使得错误后调整速度加快而非减慢。而且，虽然错误意识的研究采用的实验任务不同导致观察到的错误后行为表现方式不同，但是研究一致认为意识到错误调用认知控制进行了积极有效的行为调整(Di Gregorio et al.,2016;Murphy,Robertson,Harty,& O'Connel,2015; Navarro-Cebrian et al.,2013)，这一观点上不存在矛盾。
+
+值得注意的是，前人研究已发现认知控制的需求量影响错误后调整(Cheyne,Carriere,Solman,& Smilek,2011;Regev&Meiran,2014)，因此，意识到错误和未意识到错误引起的错误后调整模式的不同可能与认知控制需求量有关。意识到错误发生后被试倾向于花费较少的认知控制资源进行错误确认。而且，no-go试次不需进行按键反应，被试意识到错误发生后将不需进行错误矫正反应。在这种情况下，有较多剩余的认知控制资源可进行错误后行为调整，促使被试较快完成错误调整。但是，未意识到错误试次主要是由持续注意的缺失导致，因此错误发生后被试需要花费较多的认知控制资源进行错误确认(Shalgi,Oconnell,Deouell,& Robertson,2007)。在这种情况下，剩余的认知控制资源可能不足以完成错误后行为调整。被试为了优化未来行为执行则需调用更多的认知资源，具体表现为牺牲随后试次的反应时来提高反应正确率。另外，意识到错误主观报告的完成时间显著快于未意识到错误，该结果也表明错误被清晰意识到时，被试消耗较少的认知控制资源来完成错误确认。王丽君等人的研究结果支持上述观点，该研究采用 go/no-go 任务范式并结合静息态功能磁共振技术，研究发现脑岛的自发神经活动强度与错误后调整反应速度呈正相关(王丽君，胡学平，索涛，赵国祥，陈安涛，2019)。脑岛自发神经活动强度越大，错误后调整越慢，说明个体错误后调整速度越慢则消耗占用的认知控制资源越多。
+
+在神经水平上，意识到错误诱发的alpha波能量显著强于未意识到错误。已有研究证实alpha 波的神经震荡与注意警觉、注意控制以及行为适应等认知功能有关(Braboszcz &Delorme,2011; Carp & Compton,2009; Sadaghiani & Kleinschmidt, 2016)。如， Braboszcz 和Delorme (2011)采用点数呼吸任务（breath-counting task）发现被试注意力集中于呼吸比思维漫游状态诱发了更强的 alpha 波，结果表明被试处于注意力集中状态时注意警觉显著提高。并且，先前考察警觉水平对错误后调整影响的研究中已发现高警觉状态的被试错误后调整更快，导致错误后减慢现象消失，而低警觉状态的被试仍表现出了错误后减慢现象（王丽君，刘长平，胡学平，陈安涛，2016)。因此，意识到错误诱发了更强的alpha 波可能说明意识到错误提升了被试的注意警觉状态，促使被试加强注意控制，从而使错误后调整速度加速；反之，未意识到错误诱发较弱的alpha 波说明未意识到错误时被试的注意警觉状态较低，错误后调整速度减慢。
+
+另外，意识到错误和未意识到错误诱发的alpha波在错误意识主观报告前 536ms开始出现显著差异。并且，意识到错误在错误意识主观报告前 586ms 已诱发alpha 波,而未意识到错误在错误意识主观报告后 64ms 才诱发alpha 波。该结果可能说明意识到错误一直处于较强的 alpha 波激活状态，而未意识到错误直到错误意识主观报告反应时才诱发alpha 波。认知控制的双加工模型认为主动性控制是在认知需求事件发生前，注意监控一直持续存在，而反应性控制则是在认知需求事件的驱动下暂时进行的注意控制(Braver,2012)。因此，两类错误可能在注意控制上存在时间差异，意识到错误一直处于持续注意监控状态中，而未意识到错误是在错误意识主观报告任务的驱动下进行的暂时注意监控。并且，已有研究发现高警觉状态个体更倾向于采用主动性控制策略，而低警觉状态个体倾向于采用反应性控制策略(Astonjones & Cohen,2005;Liu,Yang,Chen,Huang,&Chen,2013)。据此，我们认为，意识到错误和未意识到错误可能采用不同策略调节错误后行为，个体意识到错误时采用类似主动性控制的策略调节错误后行为，而未意识到错误采用类似反应性控制的策略调节错误后行为。
+
+最后，本实验仍有以下一些不足之处需注意。一，证据累积理论强调自下而上错误信息证据的输入，这类证据来自于感知觉系统或本体觉系统等。因此，未来的研究需将脑电信息和感知觉信息（如皮肤电信号、心电信号或视反馈信号等）同步记录采集来验证当前的研究结果。二，本实验采用go/no-go任务考察错误意识对错误后调整效应影响的电生理证据，该任务中no-go 试次包含两种类型，汉字字义和颜色不一致时和当前试次呈现的汉字与先前试次完全一致时。前者需进行冲突信息加工，而后者需进行工作记忆加工，两种不同的信息加工导致的错误可能影响错误后调整。为了确保每类错误有足够可用于统计分析的有效试次，我们把两种no-go 错误进行混合分析，因此未来的研究需采用难度相对更大的任务验证当前的结果。三，本实验没有操纵实验背景和实验任务来实现主动性控制和反应性控制，因此未来的研究可采用AX-CPT 等实验任务来考察错误意识在错误后调整中的作用，为意识到错误和未意识到错误的策略加工提供直接的实验证据。
+
+# 5.结论
+
+本实验采用go/no-go范式发展的错误意识任务证实，相比较正确击中反应，意识到错误和未意识到错误后正确率均显著提高，但是意识到错误和未意识到错误后行为调整速度不同，该结果说明两类错误均优化了错误后行为表现，但是调节错误的方式存在差异。时频分析结果发现意识到错误诱发的alpha 波显著强于未意识到错误,并且意识到错误诱发的 alpha波在错误意识主观报告前 586ms 就已处于注意监控状态中，而未意识到错误在主观报告后64ms 诱发出alpha波，使未意识到错误反应处于暂时的注意监控中。因此，当前研究认为未意识到错误也可促使被试进行错误后调整，但是主要采用类似反应性控制的策略调整错误后行为。
+
+致谢感谢中国科学院心理研究所胡理教授和东南大学生物医学工程专业贾会宾博士在数据分析上的指导和帮助！
+
+# 参考文献
+
+Astonjones,G.,& Cohen,J.D.(2oo5).An integrative theoryof locus coeruleus-norepinephrine function: adaptive gain and optimal performance. Annual Review of Neuroscience, 28(1),403-450.   
+Braboszcz,C.,& Delorme,A. (2011).Lost in thoughts: neural markers of low alertness during mind wandering. Neuroimage, 54(4),3040-3047.   
+Braver,T.S.(2Ol2).The variable nature ofcognitive control: adual mechanisms framework.Trends in Cognitive Sciences,16(2),106-113.   
+Carp,J.,& Compton,R.J.(2oo9).Alpha powerisinfluencedby performance errors.Psychophysiology,46(2),36- 343.   
+Cavanagh,J.F.,&Frank,M.J. (2O14).Frontal theta as a mechanism for cognitive control.Trends in Cognitive Sciences,18(8),414-421.   
+Chang,A.,Ide,J.S.,Li,H.-H,Chen,C.-C.,&Li,C.-S.R.(20l7).Proactivecontrol: neuraloscillatorycorlates of conflict anticipation and response slowing. Eneuro, 4(3).   
+Cheyne,J.A., Carriere,J.S.,Solman, G.J.,& Smilek,D. (2011).Challengeand error: critical events and attentionrelated errors. Cognition,121(3),437-446.   
+Cohen,M.X.,&Cavanagh,J.F.(20l1).Single-TrialRegressonElucidates theRoleofPrefrontalThetaOscilations in Response Conflict.Frontiers inPsychology,2(30).   
+Coleman, J.R., Watson,J. M.,& Strayer,D.L.(2O18). Working memorycapacity and task goals modulate errorrelated ERPs.Psychophysiology, 55(3), e12805.   
+Cooper,P.S.,Wong,A.S.,Fulham,W.R.,Thienel,R.,Mansfield,E.,Michie,P.T.,&Karayanidis,F.(2015).heta frontoparietal connectivity associated with proactive and reactive cognitive control processes. Neuroimage, 108,354-363.   
+Der Wel,P.V.,& Van Steenbergen,H.(2O18).Pupil dilationas an index ofeffort incognitivecontrol tasks: Areview. Psychonomic Bulletin & Review,25(6),2005-2015.   
+Di Gregorio,F.,Steinhauser,M.,& Maier,M.E.(2O16).Error-related brain activityand errorawarenessinanerror classification paradigm. Neuroimage, 139,202-210.   
+Endrass,T.,Reuter,B.,&Kathmann,N. (2oo7).ERPcorelates ofconscious errorrecognition: aware and unaware errors in an antisaccade task.European Journal ofNeuroscience,26,1714-1720.   
+Godefroid,E.,Pourtois, G.,& Wiersema,J.R.(2O15).Jointeffects ofsnsory feedback and interoceptive awareness on conscious error detection: evidence from event related brain potentials.Biological Psychology,14,49- 60.   
+Hajcak,G., McDonald,N.,&Simons,R.F. (2003).T errisautonomic: error-related brain potentials,ANactivity, and post-error compensatory behavior. Psychophysiology, 40(6), 895-903.   
+Hester,R.,Foxe,J.J.,Molholm,S.,Shpaner,M.,& Garavan,H.(2Oo5). Neural mechanisms involved inerror processing: a comparison of errors made with and without awareness. Neuroimage, 27(3), 602-608.   
+Hoonakker, M.,Doignoncamus,N.,& Bonnefond,A. (2016).Performance monitoring mechanisms activated before and after a response: a comparison of aware and unaware errors. Biological Psychology, 120,53-60.   
+Hwang,K., Ghuman,A.S.,Manoach,D.S.,Jones,S.R.,& Luna,B. (2016).Frontal preparatory neural oscilations associated with cognitive control: a developmental study comparing young adults and adolescents. Neuroimage, 136,139-148.   
+Leunissen,1., Coxon,J. P.,& Swinnen, S.P. (2016).A proactive task set influences how response inhibition is implemented in the basal ganglia. Human Brain Mapping,37(12),4706-4717.   
+Liu,P.,Yang,W., Chen,J.,Huang,X.,& Chen,A.(20l3). Alertness modulates conflict adaptation and feature integration in an opposite way. PloS One, 8(11).   
+Maier,M.E.,Ermst,B.,& Steinhauser, M.(2019). Error-related pupil dilation is sensitive to the evaluation of different error types. Biological Psychology,141,25-34.   
+Makeig,S.,Debener,S., Onton,J.,&Delorme,A. (2O04).Mining event-related brain dynamics.Trends inCognitive Sciences, 8(5),204-210.   
+Mouraux,A.,& Ianneti, G. (2o08). Acros-trial averaging of event-related EEG responses and beyond. Magnetic Resonance Imaging, 26(7),1041-1054.   
+Murphy,P.R,Robertson,I. H.,Alln,D.,Hester,R.,&OConnell,.G. (12).Anelectrophysiologicalignalthat precisely tracks the emergence of error awareness. Frontiers in Human Neuroscience, 6.   
+Murphy, P.R. Robertson,I. H., Harty,S.& O'Connel, R.G. (2O15).Neural evidence accumulationpersistsafter choice to inform metacognitive judgments. eLife, e11946.   
+Navarro-Cebrian,A., Knight, R. T.，& Kayser,A. S. (2013). Error-monitoring and post-error compensations: dissociation between perceptual failures and motor errors with and without awareness. The Journal of Neuroscience, 33(30),12375-12383.   
+Nieuwenhuis,S.,Ridderinkhof,K.R.,Blom,J.,Band, G.P.,& Kok,A. (2oo1).Error-related brain potentialsare differentially related to awareness of response errors: Evidence from an antisaccade task. Psychophysiology, 38(5),752-760.   
+O'Connell,R.G.,Dockree,P.M.,Bellgrove,M.A.,Kely,S.P.,Hester,R.,Garavan,H.,..Foxe,J.J. (207).The role of cingulate cortex in the detection of errors with and without awarenes: a high-density electrical mapping study. European Journal of Neuroscience, 25(8),2571-2579.   
+Pfurtscheller,G.,& Lopes da Silva,F.(199).Event-related EEG/MEG synchronizationand desynchronization: basic principles. Clinical Neurophysiology, 110(11),1842-1857.   
+Rabit, P. M.A. (1966). Errors and error correction in choice-response tasks.Journal ofExperimental Psychology, 71(2),264-272.   
+Regev,S.,& Meiran,N.(2O14).Post-error slowing is influenced by cognitive control demand.Acta Psychologica, 152,10-18.   
+Sadaghiani,S.，& Kleinschmidt,A. (2016). Brain Networks and $\mathfrak { a }$ -Oscillations: Structural and Functional Foundations of Cognitive Control. Trends in Cognitive Sciences,20(11),805-817.   
+Shalgi, S., Barkan,I.,& Deouell,L.Y. (2009). On the positive side of error processing: error-awareness positivity revisited. European Journal of Neuroscience,29(7),1522-1532.   
+Shalgi,S. Oconnell,R. G.，Deouell,L. Y.,& Robertson,I. H. (2007). Absent minded but accurate: delaying responses increases accuracy but decreases error awareness. Experimental Brain Research,182(1),119- 124.   
+Steinhauser, M.,& Yeung, N.(20l0).Decision processes in human performance monitoring. The Journal of Neuroscience, 30(46),15643-15653.   
+Steinhauser, M.,& Yeung,N.(2012).Error awareness as evidence accumulation: effcts of speed-accuracy tradeoff on error signaling.Frontiers in Human Neuroscience,6.   
+Tang,D.,Hu,L.,& Chen,A.(2Ol3).The neural oscillations of conflict adaptation in the human frontal region. Biological Psychology, 93(3),364-372.   
+Ulsperger, M.,Danielmeier, C.,& Jocham, G.(2014).Neurophysiologyof performance monitoring and adaptive behavior. Physiological Reviews, 94(1),35-79.   
+Wang,L.,Gu,Y.,Zhao, G.,& Chen,A. (202O).Error-related negativity and error awarenessin a Go/No-go task. Scientific Reports,10(1),4026.   
+Wang,L.,Hu,X.,Suo,T.,Zhao,G.,&Chen,A.,(O19).Spontaneous neuronalactivityin insula predictsPost-eror Adjustments (in Chinese). Chinese Science Bulletin.2019,64(21),2207-2215.   
+[王丽君，胡学平，索涛，赵国祥，陈安涛.(2019)．脑岛自发神经活动强度可预测个体错误后反应调整速度. 科学通报.2019，64(21),2207-2215.]   
+Wang,L.,Liu,C.,Hu,X.,& Chen,A.(2016)The alertesslevel influences post-erroradjustments (in Chinese). Chinses Science Bulletin, 61(34),3708-3717   
+[王丽君，刘长平，胡学平，陈安涛.(2016).警觉水平影响错误后行为适应．科学通报,61(34),3708-3717.]   
+Wang,L.,Tang,D.,Zhao,Y.,Hitchman,G.,Wu,S.,Tan,J.,& Chen,A.(2015).Disentangling the impactsof outcome valence and outcome frequency on the post-error slowing. Scientific Reports, $^ { 5 ( 1 ) , 8 7 0 8 }$   
+Wang,L.,Xu,L.,Wu,S.,Tang,J.,& Chen,A. (2013). Critical Review on the Theories of Post-error Slowing (in Chinese).Advances in Psychological Science,21(3),418-428.   
+[王丽君，徐雷，伍姗姗，谭金凤，陈安涛.(2013).错误后减慢理论模型述评．心理科学进展,21(3),418-428.]   
+Wessel,J.R.(20l2).Errorawarenessand theerror-related negativity:evaluating the first decadeof evidence. Frontiers in Human Neuroscience,6.   
+Wessel,J.R.,Danielmeier,C.,& Ulsperger, M. (2011).Error awareness revisited: accumulation of multimodal evidence from central and autonomic nervous systems.Journal ofCognitive Neuroscience, 23(10),3021- 3036.
+
+The influence of unaware errors on post-error adjustment: evidence from
+
+electrophysiological analysis
+
+WANG Lijun; SUO Tao; ZHAO Guoxing (Institute of cognition, brain and health, School ofEducation,HeNan University,Kaifeng, 475004,
+
+China)
+
+# Abstract
+
+Following errors, participants usually recruit more cognitive resources to change error-related behaviors; this phenomenon is termed post-error adjustment. Generally, behavioral adjustments in post-error trials behave as slower subsequent responses and improved accuracy. It is worth noting that we cannot successfully perceive every error we commit in daily life. Several studies found that post-error slowing occurred only after aware errors, suggesting that only aware errors contribute to the phenomenon of post-error adjustment. Moreover, these studies emphasized the role of top-down control in the processing of error awareness.However, a few studies came to the opposite conclusion, finding that post-error adjustment could be modulated by unaware errors in an implicit manner. These studies emphasized the role of botom-up control in the processing of error awareness. Notably, previous studies have demonstrated that post-error adjustment involves both proactive and reactive cognitive control. Proactive control refers to a goal-driven manner that is actively maintained with a sustained attntion before the occurrence of cognitively demanding events. Reactive control refers to a bottom-up manner, in which the attentional control is mobilized when the goal-related event is reactivated.Thus, whether different control strategies are adopted by aware and unaware errors remains unclear.
+
+To investigate the above issue, 36 participants were recruited to execute an error awareness task based on the go/no-go task. However, data from five participants were removed due to poor EEG records or poor behavioral performance. In the go/no-go error awareness task, participants were instructed to withhold their responses in certain circumstances. The first was when a word was presented on two consecutive trials,and the second was when the font color of the word and its meaning were inconsistent. Additionally, the usage of an error signal button might lead to a response bias toward signaling or not signaling an error. If participants tended to signal errors, they might signal their correct responses as errors, increasing the false alarm rates. If participants did not tend to signal errors,aware errors might be classed as unaware errors. In this case, the measurement of unaware errors might be contaminated by potential conscious error trials. Thus, participants were instructed to respond to indicate their perceived response accuracy in both error and correct cases during the rating screen in the current experiment.
+
+Since previous studies have found that neural oscillations reveal the processing of proactive and reactive control, the time-frequency analysis is conducted in this experiment. It has been suggested that alpha band $[ 8 - 1 4 ~ \mathrm { H z } ]$ ）reflects the trial-by-trial behavioral adjustment, thus alpha power is chosen as the neural indicator. As a result, the post-error reaction time indicated two dissociated behavior patterns, with speeding up following aware errors and slowing down following unaware errors. However, accuracy in trials following aware and unaware errors were both significantly higher than for trials following correct go. At the neural level, alpha (-500 to $5 0 0 \mathrm { m s }$ ） power was stronger for aware errors than for unaware errors.Moreover, the alpha had been activated before the subjective report of error awareness for aware errors, but the alpha was activated after the subjective report of error awareness for unaware errors.
+
+Current behavioral results showed that aware and unaware errors both successfully optimized post-error performance,but the two error types adopted different methods to adjust post-error behaviors. The time-frequency analysis revealed that aware errors led to sustained attention control after responses,but unaware errors led to temporary attention control induced by the subjective report of error awareness. Therefore, these findings might suggest that the adjustments following aware erors were based on a strategy such as proactive control, whereas the adjustments following unaware errors were based on a strategy such as reactive control. Key words error awareness; post-error adjustment; alpha; proactive control; reactive control

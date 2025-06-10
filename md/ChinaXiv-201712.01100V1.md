@@ -1,0 +1,122 @@
+# 基础研究
+
+# 白藜芦醇对离体人肺内小动脉血管张力的影响
+
+王召军1³，邓春玉²，邝素娟²，农丽丹³，张光燕³,马 ³，崔建修3  
+1南方医科大学,广东广州 510515;广东省医学科学院//广东省人民医院²医学研究中心,麻醉科,广东广州  
+510080
+
+摘要：目的 研究白藜芦醇(Resveratrol,RES)对离体人肺内小动脉血管张力的影响及其机制。方法 显微镜下分离直径为1\~$1 . 5 \mathrm { m m }$ 的人肺内小动脉，制备成 $1 . 8 { \sim } 2 . 0 \ \mathrm { m m }$ 的血管条，使用微血管张力测定技术,分别给予血管收缩剂血栓素A2受体激动剂(U46619）、内皮素-1(ET-1) $\mathrm { 6 0 ~ m m o l / L }$ 高钾溶液使血管产生持续性收缩,张力平稳后,采用累计加药法加入白藜芦醇,观察不同浓度白藜芦醇对预收缩的人肺内小动脉张力的影响;同时观察去内皮，以及加人L-NAME、吲哚美辛预孵育血管后，白藜芦醇能否使预收缩的血管舒张。白藜芦醇舒张实验同时用等体积的药物容积二甲亚砜(DMSO)作为对照。结果RES能呈浓度依赖性舒张U46619( $1 0 0 \mathrm { n m o l / L }$ )、ET-1( $3 0 \mathrm { n m o l / L }$ ） $\mathrm { . 6 0 ~ m m o l / L }$ 高钾预收缩内皮完整的人肺内小动脉，pD2分别为 $3 . 8 2 { \pm } 0 . 2 0 , 3 . 8 4 { \pm }$ $0 . 5 7 , 3 . 6 8 { \pm } 0 . 2 7$ ，其最大舒张率(Emax)分别为 $( 9 9 . 5 8 { \pm } 0 . 8 3 ) \%$ $100 \%$ ， $( 9 9 . 6 5 { \pm } 0 . 9 8 ) \%$ ;用L-NAME预孵育 $3 0 ~ \mathrm { m i n }$ 内皮完整的人肺内小动脉血管环,在浓度 $1 0 0 \mathrm { \textmu m o l / L }$ 时，同未加L-NAME孵育的血管环比较，两者之间具有统计学差异 $( P { < } 0 . 0 5 )$ ；而用吲哚美辛预孵育 $3 0 \mathrm { m i n }$ 内皮完整的人肺内小动脉环不影响白藜芦醇的舒张作用，去除血管环的内皮亦同样不影响白藜芦醇的舒张作用。结论 白藜芦醇具有浓度依赖性的舒张离体人肺内小动脉的作用，且无明显的内皮依赖性，其作用机制可能与促进NO的释放有关。
+
+关键词：白藜芦醇；人肺内小动脉；血管舒张;内皮
+
+# Effect of resveratrol on constrictions of human intrapulmonary arteries ex vivo
+
+WANG Zhaojunl3,DENG Chunyu, KUANG Sujuan²,NONG Lidan3,ZHANG Guangyan3,MAJue,CUIJianiu³ Southernedicalesityagosehteoficaleetetido Academy of Medical Sciences,Guangdong General Hospital, Guangzhou 51o080,China
+
+Abstract:ObjectiveTodeterminetheeffectofresveratrolonconstrictionsof solatedhuman intrapulmonaryarteriesand its mechanisms. Methods Intrapulmonary arteries ( $\mathrm { 1 - 1 } . 5 \mathrm { m m }$ in diameter) were dissected and cut into rings ( $1 . 8 \mathrm { - } 2 . 0 \ \mathrm { m m }$ in length) under microscope,and were then mounted in a Multi Myograph system. The rings were stimulated with $1 0 0 \ \mathrm { n m o l / L }$ U46619, $3 0 \mathrm { n m o l / L }$ endothelin-1, or $6 0 \ \mathrm { m m o l / L }$ KCl to produce sustained contraction of the intrapulmonary arteries, after which resveratrol was applied cumulatively.Endothelium denudation,L-NAMEandindomethecin wereusedtoinvestigatetheeffectof resveratrolonconstrictiosofthe isolatedarteries,suingDMSOasthecontrol.Results Resveratrolinducedconcentration-dependentrelaxations inendothelium-intactrings thatcontracted inresponsetostimulations withU46619,ET-1adKCl, with pD2 of $3 . 8 2 { \scriptstyle \pm 0 . 2 0 } _ { { \scriptstyle \cdot } }$ $3 . 8 4 \pm 0 . 5 7 ,$ and $3 . 6 8 { \scriptstyle \pm 0 . 2 7 } ,$ Emax of $( 9 9 . 5 8 { \pm } 0 . 8 3 ) \%$ $1 0 0 \%$ and $( 9 9 . 6 5 { \pm } 0 . 9 8 ) \% ,$ respectively. Treatment of the arterial rings withtheeNOSinhibitorL-NAME,butnotwithindomethecinorendotheliumdenudation,obviouslyafectedherelaxant efects of resveratrol.Conclusion Resveratrolcanconcentration-dependently producerelaxant effecton human intrapulmonary arteries independent of the endothelium possbly by promoting synthesis and release of NO.
+
+Key words: resveratrol; human intrapulmonary arteries; relaxation; endothelium
+
+白藜芦醇(resveratrol,RES)，属于非黄酮类多酚化合物，为红葡萄酒中含量丰富的一种多酚。研究发现白藜芦醇能抗氧化、抗炎、抗肿瘤、抗增殖以及心血管保护作用[1-3]。最近研究表明,白藜芦醇同时具有血管舒张作用，但其具体的血管舒张机制目前还不是十分清楚，且目前仅在猪的视网膜动脉以及大鼠肺内小动脉、肾动脉、胸主动脉等观察到白藜芦醇具有舒张作用，在人的肺内小动脉的作用在国内外均未见报道[47]。本研究利用人的肺内小动脉作为研究对象，观察白藜芦醇对离体人肺内小动脉血管张力的影响及作用机制。
+
+# 1 材料与方法
+
+1.1 标本
+
+本研究标本来源于2014年5月8日\~2014年7月28日在广东省肺癌研究所因肺癌行肺叶切除术的病人，年龄20\~73岁，男22例，女13例。ASA分级I\~Ⅱ级，肺功能正常，排除高血压、糖尿病、肺动脉高压患者。术前均已告知患者标本的采集过程与标本用途，并签署相关标本采集知情同意书。本研究已通过广东省医学伦理委员会伦理批准(粤医科伦理2010079H号)。选取距离肿瘤组织 $5 \mathrm { c m }$ 以上的正常肺组织作为实验标本。
+
+# 1.2实验药物与仪器
+
+1.2.1实验药物 白藜芦醇(resveratrol)，血栓素A2 类似物（9,11-dideoxy-11, 9-epoxymethanoprostaglandin,U46619），内皮素（endothelin，ET-1），吲哚美辛(Indomethacine），左旋硝基精氨酸甲酯（Nm-nitro-L-arginine methyl ester hydrochloride,L-NAME),和二甲基亚砜（dimethyl sulfoxide,DMSO)均购于Sigma公司，其余试剂为国产分析纯。K-H液(mmol/L)：119$\mathrm { N a C l , 1 M g C l _ { 2 } \cdot 6 H _ { 2 } O , 2 . 5 C a C l _ { 2 } , 4 . 7 K C l , 1 . 2 K H _ { 2 } P O _ { 4 } }$ $2 5 \mathrm { N a H C O _ { 3 } }$ ,11.1Glucose)。60 mmol/L $\mathsf { K } +$ (mmol/L):$6 0 ~ \mathrm { K C l }$ ，1 $\mathrm { . } \ \mathrm { M g C l _ { 2 } \cdot 6 H _ { 2 } O }$ ， $2 5 \ \mathrm { N a H C O _ { 3 } }$ $6 3 . 7 \ \mathrm { N a C l }$ ，1.2$\mathrm { K H _ { 2 } P O _ { 4 } } , 2 . 5 \mathrm { C a C l _ { 2 } } , 1 1 . 1 \mathrm { G l u c o s e }$ 。
+
+1.2.2实验仪器PowerLab $8 / 3 0$ 生物信号采集处理系统(AD公司，澳大利亚); $6 1 0 \mathbf { M }$ 型多通道血管张力测定仪（DMT公司，丹麦）；StemiDV4型体式显微镜）ZEISS公司,德国)；DK-8D型电热恒温水槽(上海医用恒温设备厂）。
+
+# 1.3方法
+
+1.3.1血管环的制备[8选取距离癌组织 $5 \mathrm { c m }$ 以上的正常肺组织，将肺组织放入装有预冷 ${ \bf \Phi } ( 4 { \bf \Phi } ^ { \circ } \mathrm { C }$ )且混合气（ $9 5 \% \mathrm { O } _ { 2 } { + } 5 \% \ \mathrm { C O } _ { 2 }$ )饱和过的K-H液中，固定于硅胶板上，体视显微镜下仔细分离肺内小动脉(直径 $1 { \sim } 1 . 5 \ \mathrm { m m }$ ，制备成长度为 $1 . 5 { \sim } 2 ~ \mathrm { m m }$ 的动脉环，用两根直径为$4 0 ~ { \mu \mathrm { m } }$ 的钢丝穿过管腔，固定于张力测定仪浴槽内的两个钳夹上。平衡 $6 0 \mathrm { m i n }$ ,期间每隔 $1 5 \mathrm { m i n }$ 更换K-H液1次，调节基础张力至 $1 . 8 { \sim } 2 . 0 \ \mathrm { m m o l / L }$ 。浴槽内持续通入$9 5 \%$ $0 _ { 2 } \%$ （20 $\mathrm { C O } _ { 2 }$ 混合气，温度恒定在 $3 7 \ \mathrm { { ^ circ C } }$ ，以模拟人体内环境。
+
+1.3.2血管反应性检测平衡 $6 0 ~ \mathrm { { m i n } }$ 后，将浴槽内的K-H液更换成 $6 0 \mathrm { m m o l / L }$ 高钾溶液，高钾溶液能够使肺内小动脉收缩，待张力稳定至一平台期，以K-H液充分洗净(4次，每次间隔 $5 \mathrm { m i n }$ )至张力恢复基线水平，重复上述实验两次。前后两次高钾刺激后血管收缩幅度相差不超过 $10 \%$ 进行下一步实验。
+
+1.3.3内皮完整性检测高钾检测血管反应性后平衡血管环 $3 0 \mathrm { m i n }$ ，加入 ${ 5 { \mathrm { - } } { \mathrm { H T } } 2 { \mu { \mathrm { m o l } } } / { \mathrm { L } } }$ 收缩血管,待张力稳定后加入Ach $1 \ \mu \mathrm { m o l / L }$ 舒张血管,血管舒张大于 $6 0 \%$ 视为内皮完整，舒张小于 $10 \%$ 视为内皮不完整。K-H液充分洗净，张力恢复至基线水平 $3 0 \mathrm { m i n }$ 后进行下一步实验。1.3.4白藜芦醇对静息状态下血管张力的影响内皮完整的血管环以累积加药法加入白藜芦醇，使浴槽内浓度达到 $1 0 , 3 0 , 1 0 0 , 3 0 0 , 1 0 0 0 \ \mathrm { \textmu m o l / L } ,$ 对照组在相应时间点加入DMSO作为对照，记录血管张力变化
+
+1.3.5白藜芦醇对不同血管收缩剂预收缩血管环张力的影响分别加入100 nmol/LU46619、30 nmol/LET-1、$6 0 \mathrm { m m o l / L K C l }$ 预收缩内皮完整的血管环，待张力稳定后，采用累积加药法，使浴槽内白藜芦醇浓度达到10、$3 0 \phantom { - } 1 0 0 \phantom { - } 3 0 0 \phantom { - } 1 0 0 0 \phantom { - } \mu \mathrm { m o l / L }$ ，观察并记录血管张力变化，根据加入白藜芦醇的时间，加入同体积的DMSO作为对照。
+
+1.3.6白藜芦醇对不用拮抗剂及去内皮血管环张力的影响内皮完整的血管环,分别用 $1 0 0 \mathrm { \ : \mu m o l / L }$ L-NAME、$1 0 \mathrm { \ : \mu m o l / L }$ 吲哚美辛孵育 $3 0 \mathrm { m i n }$ ,或者用牙线在血管腔内壁来回摩擦40\~50次机械去除内皮，再以 $1 0 0 \ \mathrm { n m o l / L }$ U46619收缩血管，待张力稳定后，累计加入白藜芦醇，使浴槽内白藜芦醇浓度达到10、30、100、300、$1 0 0 0 \mathrm { \textmu m o l / L }$ ,观察并记录血管张力变化。
+
+# 1.4统计学处理
+
+以加入收缩剂预收缩最大收缩幅度为 $100 \%$ ，加人白藜芦醇后血管舒张与最大收缩幅度的比值的百分比反应血管张力的变化， $\mathrm { E C } _ { 5 0 }$ 表示产生 $5 0 \%$ 最大舒张效应时的药物浓度，pD2为产生最大效应的 $50 \%$ 时激动剂摩尔浓度的负对数， $\mathrm { p D 2 } { = } { \mathrm { - l g } } ( \mathrm { E C } _ { 5 0 } )$ ,最大舒张作用的变化值为 $\mathrm { E } _ { \mathrm { m a x } }$ 。数据用均数 $\cdot \pm$ 标准差表示，统计学采用SPSS13.0，采用Prism5.0软件对数据进行曲线拟合，绘制舒张曲线。两组间比较采用独立样本 $t$ 检验， $P { < } 0 . 0 5$ 认为具有统计学差异。
+
+# 2结果
+
+2.1白藜芦醇对静息状态下血管张力的影响
+
+累积浓度白藜芦醇( $1 0 , 3 0 , 1 0 0 , 3 0 0 , 1 0 0 0 \ \mathrm { \textmu m o l / L ) }$ 对静息状态下内皮完整人肺内小动脉血管环张力无影响。
+
+# 2.2白藜芦醇对不同血管收缩剂预收缩血管环张力的影响
+
+累积浓度的白藜芦醇( $1 0 . 3 0 { \cdot } 1 0 0 . 3 0 0 { \cdot } 1 0 0 0 { \ } \mathrm { { \textmu m o l / L } ) }$ 对U46619、ET-1、60mmol/LKC1预收缩内皮完整的血管环有舒张作用，并呈浓度依赖性，其pD2分别为 $3 . 8 2 \pm$ $0 . 2 0 , 3 . 8 4 \pm 0 . 5 7 , 3 . 6 8 \pm 0 . 2 7 , \mathrm { E } _ { \mathrm { m a x } }$ 分别为 $( 9 9 . 5 8 { \pm } 0 . 8 3 ) \%$ ，$100 \%$ ， $( 9 9 . 6 5 { \pm } 0 . 9 8 ) \%$ ，溶剂对照组无明显的舒张作用(图1\~3)。
+
+# 2.3 白藜芦醇对用 $1 0 0 \mathrm { \ : \mu m o l / L }$ L-NAME孵育血管环张力的影响
+
+累积浓度的白藜芦醇 $( 1 0 , 3 0 , 1 0 0 , 3 0 0 , 1 0 0 0 \ : \mu \mathrm { m o l / L ) }$ 对用 $1 0 0 \ \mathrm { \textmu m o l / L }$ L-NAME孵育 $3 0 ~ \mathrm { m i n }$ 的血管环有舒张作用，并呈浓度依赖性， $ { \mathbf { p } }  { \mathbf { D } } 2$ 为 $3 . 6 4 \pm 0 . 1 0 , \mathrm { E _ { \mathrm { m a x } } }$ 为（ $9 8 . 9 7 { \pm } 2 . 3 0 ) \%$ ,且在 $1 0 0 \mathrm { \ : \mu m o l / L }$ 时，同未加L-NAME孵育的血管环比较，两者之间具有统计学差异，L-NAME可能导致白藜芦醇舒张作用右移，说明白藜芦醇的舒张作用可能与促进内皮的NO释放有关。
+
+![](images/099e84b37efeb8e386686cce7a5aea26b87788414d300bb20c342c8ebc4510cf.jpg)  
+图1白藜芦醇对 $1 0 0 \mathrm { n m o l / L }$ U46619预收缩的人肺内 小动脉的舒张作用 Fig.1 Resveratrol-induced relaxing effect on human intrapulmonary arteries contracted by U46619 with DMSO as the control. Data are expressed as $M e a n { \pm } S E$ $^ { * } P { < } 0 . 0 5$ us control $( n { = } 8 )$ ：
+
+![](images/820ddcada27373bfa2c342eb3551f85e7bf285c9e49ec19067b03da1fa2beda0.jpg)
+
+![](images/1746f4a20972cccd0b57cef05f9f50a2570ce5b917aff7d2904feac8db0a5049.jpg)  
+图2白藜芦醇对 $3 0 \ \mathrm { n m o l / L }$ ET-1预收缩的人肺内小动 脉的舒张作用 Fig.2 Resveratrol-induced relaxing dffect in the human intrapulmonary arteries contracted by ET-1 with DMSO asvehicle control.Datearemeans $\pm S E M$ $^ { * } P { < } 0 . 0 5$ between vehicle and resbveratrol groups $( n { = } 6 )$ ：
+
+# 2.4白藜芦醇对用 $1 0 \mathrm { \ : \mu m o l / L }$ 吲哚美辛孵育血管环张力的影响
+
+累积浓度的白藜芦醇 $( 1 0 , 3 0 , 1 0 0 , 3 0 0 , 1 0 0 0 ~ \mathrm { \textmu m o l / L ) }$ 对用 $1 0 \ \mathrm { \textmu m o l { } / L }$ 吲哚美辛孵育 $3 0 ~ \mathrm { m i n }$ 的血管环有舒张作用,并呈浓度依赖性,pD2为 $3 . 9 1 { \scriptstyle \pm 0 . 3 1 , \mathrm { E } _ { \mathrm { m a x } } }$ 为 $100 \%$ ，且在 $1 0 0 \mathrm { \ : \mu m o l / L }$ 时，两者之间具有统计学差异，吲哚美辛导致白藜芦醇舒张作用左移，说明白藜芦醇的舒张作用可能与环氧合酶有关。
+
+# 2.5白藜芦醇对机械去内皮血管环的影响
+
+累积浓度的白藜芦醇 $( 1 0 , 3 0 , 1 0 0 , 3 0 0 , 1 0 0 0 \ : \mu \mathrm { m o l / L } )$ 对机械去内皮的血管环有舒张作用，并呈浓度依赖性，pD2为 $4 . 0 4 { \pm } 0 . 0 5 , \mathrm { E _ { \mathrm { m a x } } }$ 为 $100 \%$ ,说明白藜芦醇舒张作用不依赖于内皮。
+
+![](images/2c5f7afcb8c4f6c424e3a414c1b61dfbe8c73f5c10b1bbcb80ed6086734c775b.jpg)  
+图4在内皮完整人肺内小动脉中， $1 0 0 \ \mathrm { \textmu m o l / L }$ L-NAME对白藜芦醇浓度依赖性舒张作用的影响
+
+Fig.4 Effectsof100 $\mu \mathrm { m o l / L }$ L-NAME on resveratrol-induced relaxation in human intrapulmonary arteries with endothelium.Data are expressed as $M e a n \pm$ SE. $^ { * } P { < } 0 . 0 5$ Us control $( n { = } 5 )$ ：
+
+![](images/c809d7d1b5cee8d68ff7f13000b8e9020da0656ffec41fe964c445bdaddbd45e.jpg)  
+图5在内皮完整人肺内小动脉中， $1 0 \mathrm { \ : \mu m o l / L }$ 吲哚美辛对白藜芦醇浓度依赖性舒张作用的影响Fig.5 Effects of $1 0 \ \mathrm { \mu m o l / L }$ indomethacin on resveratrol-induced relaxation in human intrapulmonary arterieswith endothelium.Data are expressed as Mean $\pm S E$ ： $P >$ 0.05 vs control $( n { = } 6 )$ ：
+
+![](images/09665d7d7f6075613dadddb45874fc851f2a191ad0cca15bbd8485945e996758.jpg)  
+图3白藜芦醇对 $6 0 \mathrm { m m o l / L }$ KCI预收缩的人肺内小动 脉的舒张作用 Fig.3Resveratrol-induced relaxing effect on human intrapulmonary arteries contracted by $6 0 \ \mathrm { m M } \ \mathrm { K C l }$ with DMSO as the control.Data are expressed as Mean $: \pm S E$ ： $^ { * } P { < } 0 . 0 5$ us control $( n { = } 8 )$ ：   
+图6白藜芦醇浓度依赖性舒张在内皮完整与去内皮认肺内小动脉中的比较
+
+Fig.6 Effects of endothelium removal on resveratrol-induced relaxation in human intrapulmonary arteries.Data are expressed as Mean±SE. $P { > } 0 . 0 5$ us control $( n { = } 8 )$ ：
+
+# 3讨论
+
+目前用于血管张力实验的血管主要有阻力血管和弹力血管9,阻力血管舒缩状态能够影响血压变化,本研究选取的直径为 $1 { \sim } 1 . 5 \ \mathrm { m m }$ 的肺内小动脉属于阻力血管。
+
+白藜芦醇对静息状态下内皮完整的人肺内小动脉无舒张作用，但对U46619、ET-1、60mmol/LKC1预收缩内皮完整的血管环有舒张作用，并呈浓度依赖性，说明白藜芦醇对血管的舒张作用可能与VGCC受体、ETA受体以及钙通道有关,但是其具体机制还有待于进一步研究。
+
+白藜芦醇能够舒张独立的大鼠主动脉环，内皮依赖性的舒张由NO的释放引起，并且可能通过ERK通路以及鸟苷酸环化酶的激活使NOS的活性增强引起,非依赖内皮的舒张由平滑肌细胞中BK通道的激活引起[0]。Hsieh等["发现白藜芦醇能提高在培养的牛肺动脉内皮细胞中一氧化氮合成酶(eNOS)的表达水平，eNOS是一氧化氮(NO)合成的限速酶，NO是血管舒张的信号转导分子。Tai等4在离体猪的视网膜动脉中发现，白藜芦醇能够通过内皮依赖和非内皮依赖的舒张血管，内皮依赖舒张血管主要通过ERK通路增加NOS活性,提高NO浓度使血管舒张;非内皮依赖性舒张血管通过血管平滑肌中的Bkca通道使血管舒张，得出白藜芦醇具有肾性血管性疾病的潜能。Novakovic等5用大鼠离体主动脉血管环发现，白藜芦醇通过 $\mathrm { K ^ { + } } .$ 通道舒张预收缩的主动脉,进一步证明了白藜芦醇舒张离体血管的可能机制。Leblais等[12通过离体的大鼠肺内小动脉证实,白藜芦醇能够舒张离体的肺内小动脉，且不依赖内皮功能。Suenaga等[13]发现白藜芦醇能够通过雌激素受体诱导TGF-β的表达。Rakici等4发现吲哚美辛能够增强白藜芦醇在人内乳动脉中的舒血管作用。但是,本研究发现抑制前列腺环素生成的抑制剂吲哚美辛预孵育的内皮完整肺内小动脉，白藜芦醇的舒张作用没有明显变化，表明其舒张作用与前列腺环素没有明显关系，且在机械去内皮的血管环,与没有机械去内皮的血管环比较,白藜芦醇的舒张作用同样没有明显变化，说明白藜芦醇的舒血管作用没有明显的内皮依赖性。而用NOS抑制剂L-NAME预孵育内皮完整的人肺内小动脉血管环，在$1 0 0 \mathrm { \ : \mu m o l / L }$ 时,同未加L-NAME孵育的血管环比较,两者之间具有统计学差异，L-NAME可能导致白藜芦醇舒张作用右移,说明白藜芦醇的舒张作用可能与促进内皮的NO释放有关。造成这种不一致的原因可能是不同种属或者器官的血管,其受体分布的种类和数量存在较大差异，以至于血管对白藜芦醇的反应不一，这种差异还有待于进一步研究。但本实验选取人肺内小动脉，更接近于临床。
+
+总之，本实验发现白藜芦醇对人的肺内小动脉具有明显的舒张作用，能够降低血管阻力，可用于高血压的治疗，其舒张作用无明显内皮依赖性，可能与促进NO的释放有关。
+
+# 参考文献：
+
+[1]Chicoine LG,Stewart J, Lucchesi PA. Is resveratrol the magic bullet for pulmonary hypertension?[J].Hypertension，2009,54: 473-4.   
+[2]Resveratrol EO.A natural polyphenolic compound,on reactive Oxygenspeciesand prostaglandin production [J].Biochem Pharmacol,2000(59): 865-70.   
+[3] Kode A,Rajendrasozhan S, Caito S,et al. Resveratrol induces glutathione synthesis by activation of Nrf2 and protects against cigarette smoke-mediated oxidative stress in human lung epithelial cells [J].Am J Physiol Lung Cell Mol Physiol,2008,294(3): L478-88.   
+[4]Nagaoka T,Hein TW, Yoshida A,et al. Resveratrol,a component of red wine,elicits dilation of isolated porcine retinal arterioles:Role of nitric oxide and Potassium channels [J]. Invest Ophthalmol Vis Sci,2007,48(9): 4232-9.   
+[5]Novakovic A,Bukarica LG, Kanjuh V,et al. Potassium chanelsmediated vasorelaxation of rat aorta induced by resveratrol[J]. Basic Clin Pharmacol Toxicol,2006,99(5): 360-4.   
+[6] Apitz C,Zimmermann R, Kreuder J, et al. Assessment of pulmonary endothelial function during invasive testing in childrenand adolescents with idiopathic pulmonary arterial hypertension[J].J Am Coll Cardiol,2012,60(2): 157-64.   
+[7] Gupta SC, Kannappan R,Reuter S,et al. Chemosensitization of tumors by resveratrol[J].Ann NY Acad Sci,2011,1215: 150-60.   
+[8］农丽丹,邓春玉,邝素娟,等.右美托咪定抑制五羟色胺诱导的人离体 肺内小动脉收缩[J].南方医科大学学报,2014,3(3):303-7.   
+[9]邝素娟,邓春玉,张光燕,等.大蒜素对大鼠离体肾内动脉血管张力的 影响[J].岭南心血管病杂志,2011,11(S1):218.   
+[10] Harikumar KB,Aggarwal BB.Resveratrol -A multitargeted agent for age-associated chronic diseases [J].Cell Cycle,2Oo8,7（8): 1020-35.   
+[11]Hsieh TC,Juan G,Darzynkiewicz Z,et al. Resvesatrol increases nitric oxide synthase,induces accumulation of p53 and p21(WAF1/ CIP1）and suppresses cultured bovine pulmonary artery endothelial cell proliferation by perturbing progression through S and G(2)[J]. Cancer Res,1999,59(11): 2596-601.   
+[12]Leblais V,Krisa S,Valls J,et al. Relaxation induced by red wine polyphenolic compounds in rat pulmonary arteries: lack of inhibition by NO-synthase inhibitor［J].Fundam Clin Pharmacol, 2008,22(1): 25-35.   
+[13]Suenaga F, Hatsushika K,Takano S,etal. A possble Link between resveratrol and TGF-beta:Resveratrol induction of TGF-beta expression and signaling[J].FEBS Lett,2008,582(5): 586-90.   
+[14]Rakici O,Kiziltepe U, Coskun B,et al.Effects of resveratrol on vascular tone and endothelial function of human saphenous vein and internal mammary artery[J].Int J Cardiol,2005,105（2): 209-15.
+
+(编辑：吴锦雅）

@@ -1,0 +1,710 @@
+[
+    {
+        "type": "text",
+        "text": "植物多酚对黄羽肉鸡抗氧化性能、肠道形态及肉品质的影响吴姝1²蒋步云 $^ { 1 }$ 宋泽和’侯德兴13 施寿荣2\\*贺喜1\\*（1.湖南农业大学动物科学技术学院，饲料安全与高效利用教育部工程研究中心，湖南畜禽安全生产协同创新中心，长沙 410128；2.中国农业科学院家禽研究所，扬州 225125；3.日本鹿儿岛大学农学部，鹿儿岛890-0065，日本）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究植物多酚对黄羽肉鸡抗氧化性能、肠道形态及肉品质的影响。选取1日龄雄性黄羽肉鸡 288只，随机分为4组，每组6个重复，每个重复12只。各组分别饲喂基础饲粮（对照组）、基础饲粮 $+ 1 0 0 \\ \\mathrm { g / t }$ 抗敌素（抗生素组）、基础饲粮 $+ 5 0 0 \\mathrm { m g / k g }$ 植物多酚（BP500组）和基础饲粮 $+ 1 ~ 0 0 0 ~ \\mathrm { { m g / k g } }$ 植物多酚（BP1000 组）。试验期 $5 6 \\mathrm { d }$ 。结果表明：1）21日龄时，BP500 组和BP1000 组肉鸡血清中过氧化氢酶（CAT）活性显著高于抗生素组( $\\cdot P { < } 0 . 0 5 \\$ ）；56日龄时，BP1000组肉鸡血清中CAT活性显著高于其他3组（ $( P { < } 0 . 0 5 )$ ）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2）21日龄时，BP500 组和 BP1000 组肉鸡回肠绒毛高度/隐窝深度（V/C）显著低于抗生素组( $\\scriptstyle P < 0 . 0 5$ ）；56日龄时，BP500 组肉鸡回肠V/C 显著高于对照组和抗生素组（ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3）56日龄时，BP1000 组胸肌肉色红度（a\\*）值显著高于其他3组（ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ ），BP500组和BP1000 组胸肌失水率显著低于其他2组（ $. P { < } 0 . 0 5$ ），BP500 组和BP1000 组胸肌 $2 4 \\mathrm { h }$ 滴水损失显著低于其他2组（ $. P { < } 0 . 0 5$ ），BP1000组胸肌 $4 8 \\mathrm { h }$ 滴水损失显著低于对照组和抗生素组（ $P { < } 0 . 0 5$ ）。由此可见，饲粮添加500 和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 的植物多酚均能改善黄羽肉鸡肠道形态，提高机体的抗氧化能力，并改善鸡肉品质。植物多酚的推荐添加量为 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物多酚；黄羽肉鸡；抗氧化性能；肠道形态；肉品质文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抗生素自从被广泛应用于动物生产以来，在防治畜禽疾病和促进生长等方面发挥了重要作用，极大地提高了养殖经济效益。但随着畜牧业的快速发展，长期低剂量预防用药或过量使用、滥用抗生素等现象普遍存在，造成畜禽体内残留和蓄积毒素、致病菌产生耐药性、动物免疫力下降等问题日益突出，严重威胁人类健康。近年来超级耐药菌的出现给人类敲响了警钟，因此开发绿色、环保、无毒副残留的抗生素的替代品已刻不容缓。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物多酚是一类天然植物提取物，广泛存在于植物体内，具有多元酚结构，是一类天然抗氧化剂，可以清除体内有害自由基的大量产生，激活体内抗氧化防卫系统[1-2]。前人研究报道，在饲粮中添加植物多酚，不仅能改善畜禽的健康和产品的质量，而且不易出现有害残留和毒副作用[3-5]。因此，来源广、成本低的植物多酚，可作为纯天然、无污染、无残留、无耐药性的抗生素替代物，有较广泛的市场前景和应用潜力，是未来饲料行业发展的必然趋势，对畜牧业稳定、持续、健康发展具有重要意义。在家禽上，植物多酚作为饲料添加剂也能促进家禽的生长性能、免疫机能和抗氧化性能，改善肉品质和肠道形态[6-9]。但目前只有少数植物多酚成分在畜禽中的应用效果得到了证实，仍需开展更多的应用。因此本实验室自制了一种聚合植物多酚，通过在饲粮中添加不同水平的该聚合植物多酚，探讨其对黄羽肉鸡抗氧化性能、肠道形态及肉品质的影响，为植物多酚在家禽饲粮中的应用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物多酚为本实验室自制，主要成分为单多酚（黄酮类）和复合多酚（原花青素类），实测总酚含量为 $1 1 . 5 9 \\mathrm { m g / g }$ ，对二苯代苦味酰基（DPPH）自由基清除能力为1.97倍Trolox当量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取健康1日龄雄性黄羽肉鸡（快大型黄羽肉鸡，广东温氏集团培育）288只，随机分为4组，每组6个重复，每个重复12只，各重复之间体重接近（ $\\cdot P { > } 0 . 0 5$ ）。对照组饲喂基础饲粮，参照 NRC（1994）和《黄鸡饲养标准》（NY/T33-2004）中黄羽肉鸡营养需要配制，基础饲粮组成及营养水平见表1；抗生素组饲喂基础饲粮 $+ 1 0 0 \\ \\mathrm { g / t }$ 抗敌素，试验组分别饲喂基础饲粮 $+ 5 0 0 \\mathrm { m g / k g }$ 植物多酚(BP500 组)和基础饲粮 $+ 1 ~ 0 0 0 ~ \\mathrm { { m g / k g } }$ 植物多酚（BP1000组）。试验期 $5 6 \\mathrm { d }$ ，分为 $_ { 1 \\sim 2 1 }$ 日龄和 $2 2 { \\sim } 5 6$ 日龄2个阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a3cddf66e48280f6edee620505196214dca569f76ef282bba0a01dca61fdf95.jpg",
+        "table_caption": [
+            "Table 1 Composition and nutrient levels of basal diets (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>1～21日龄 1to 21 days of age 22～56日龄 22 to 56 days o</td><td></td></tr><tr><td>原料 Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>59.00</td><td>61.00</td></tr><tr><td>次粉Wheat middling</td><td>3.90</td><td>4.00</td></tr><tr><td>豆粕 Soybean meal</td><td>25.50</td><td>22.00</td></tr><tr><td>鱼粉 Fish meal</td><td>2.00</td><td></td></tr><tr><td>棉籽蛋白粉 Cottonseed gluten meal</td><td>4.00</td><td>7.80</td></tr><tr><td>豆油 Soybean oil</td><td>1.80</td><td>1.40</td></tr><tr><td>预混料 Premix1)</td><td>3.80</td><td>3.80</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.42</td><td>12.29</td></tr><tr><td>粗蛋白质 CP</td><td>20.12</td><td>19.49</td></tr><tr><td>钙Ca</td><td>0.97</td><td>0.90</td></tr><tr><td>总磷TP</td><td>0.67</td><td>0.65</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/846c63171ac5ea926e1bc3761e749f0d63398e2f70c23d3b6bbb129beb6f0a1d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>赖氨酸Lys</td><td>1.15</td><td>1.05</td></tr><tr><td></td><td></td><td></td></tr><tr><td>蛋氨酸Met</td><td>0.45</td><td>0.40</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1预混料为每千克饲粮提供 The premix provided the folowing per kg of diets:VA5 40 000 IU,VB 2 000mg， $\\mathrm { V B } _ { 2 } 1 5 0 0 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 3 0 \\mathrm { m g }$ ，VD1100 000IU，VE $1 8 0 0 0 { \\mathrm { m g } }$ ， $\\mathrm { V K _ { 3 } } 5 0 0 0 \\mathrm { m g }$ ，生物素biotin $2 0 0 ~ \\mathrm { { m g } }$ ，叶酸 folic acid $5 0 0 ~ \\mathrm { m g }$ ，泛酸 pantothenic acid $2 5 0 0 0 \\mathrm { m g }$ ，烟酸 nicotinic acid $3 5 0 0 0 ~ \\mathrm { m g }$ $\\mathrm { C u 4 0 ~ m g }$ ,Fe $9 6 ~ \\mathrm { m g }$ ，Mn $1 0 5 . 4 \\mathrm { m g }$ ， $Z n 9 8 { \\mathrm { ~ m g } }$ ， $\\mathrm { ~ I 0 . 9 m g }$ ，Se $0 . 0 4 ~ \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2’代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验鸡采用上、中、下3层笼养，锅炉控温（第1天 $3 3 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，第1周 $3 0 { \\sim } 3 2 \\ \\mathrm { ^ { \\circ } C }$ ，第2周 $2 7 { \\sim } 2 9 ^ { \\circ } \\mathrm { C }$ ，第3周 $2 4 { \\sim } 2 6 ^ { \\circ } \\mathrm { C }$ ，以后 $2 0 { \\sim } 2 1 \\ \\mathrm { ^ circ C }$ ），人工光照，自然通风，自由饮水与采食并计量不限量，按正常免疫程序进行免疫接种。每天观察记录鸡群行为及健康状况，同时记录每天鸡舍中的温度和湿度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 检测指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 血清抗氧化指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于21和56日龄每个重复随机选取1只鸡，翅静脉采血，室温静置 $2 \\mathrm { h }$ ， $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，分离得血清， $- 2 0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 冰箱保存待测。测定血清中过氧化氢酶（CAT）、超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px）活性及总抗氧化能力（T-AOC）和丙二醛（MDA）含量，所用试剂盒均购于南京建成生物工程研究所。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 抗体水平",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "新城疫（NDV）疫苗一免于14日龄采用饮水方式进行，二免于28日龄同样采用饮水方式完成。于一免后第14天和二免后第5、9、13天翅静脉采血，血液经低温离心后分离血清， $- 2 0 \\ \\mathrm { ^ { \\circ } C }$ 保存，采用酶联免疫吸附测定（ELISA）法测定抗NDV抗体水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 肠道形态指标 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于21和56日龄屠宰后，取 $1 \\mathrm { { c m } }$ 左右空肠末端肠段和回肠中部肠段，放入 $10 \\%$ 福尔马林中固定。取固定 $2 4 \\mathrm { h }$ 后的肠段样品，经过冲水、梯度酒精脱水、二甲苯透明、石蜡包埋等处理后，以 $6 \\mu \\mathrm { m }$ 的厚度切片，常规苏木精-伊红（HE）染色，最后中性树脂封片。生物显微镜下观察肠道形态变化，选取3处完整且走向平直的绒毛，测定绒毛高度(villus height)和隐窝深度（cryptdepth），并计算绒毛高度/隐窝深度（V/C）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 肉品质指标 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4.1 失水率",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于 56 日龄屠宰后，取右侧胸肌，采用加压法测定失水率。沿肌纤维垂直方向切一块1$\\mathtt { c m } { \\times } 1 \\mathtt { c m } { \\times } 1 \\mathtt { c } 1$ m 的方形肉粒，称重（ $W _ { 1 }$ ）；将肉粒置于2层医用纱布之间，上下各垫18层滤纸（中速定性分析滤纸），夹于铁板中，放在改装的钢化允许膨胀压缩仪的平台上，加压至 $3 5 \\mathrm { k g }$ 保持 $5 \\mathrm { m i n }$ ，撤除压力后取肉样称重（ $W _ { 2 }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "失水率 $( \\% ) = [ ( W _ { 1 } - W _ { 2 } ) / W _ { 1 } ] \\times 1 0 0 \\mathrm { { _ { c } } }$ （204号",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4.2 滴水损失 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于56日龄屠宰后，取右侧胸肌，修剪为 $2 \\thinspace \\mathrm { c m } { \\times } 2 \\thinspace \\mathrm { c m } { \\times } 1 \\thinspace \\mathrm { c n }$ n的肉块，称重（ $W _ { 1 }$ ），然后用细铁丝钩住肉样一端，使肌纤维垂直向下，铁丝另一端从塑料杯底部穿过，使肉样悬于塑料杯内，用保鲜袋装好塑料杯，扎好袋口，置于 $4 \\mathrm { { ^ \\circ C } }$ 冰箱。 $2 4 \\mathrm { h }$ 后取出肉样，用洁净滤纸轻轻拭去肉样表层水分后称重（ $W _ { 2 }$ ）。把称量后的肉样重新挂回放入冰箱，再过 $2 4 \\mathrm { h }$ 后取出肉样，用滤纸拭去肉样表层汁液后称重（ $W _ { 3 }$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 4 \\mathrm { h }$ 滴水损失 $( \\% ) = [ ( W _ { 1 } - W _ { 2 } ) / W _ { 1 } ] \\times 1 0 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$4 8 \\mathrm { { h } }$ 滴水损失 $( \\% ) = [ ( W _ { 1 } - W _ { 3 } ) / W _ { 1 } ] \\times 1 0 0$ 0 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.4.3 肉色",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于56日龄屠宰后，取左侧胸肌， $3 0 { \\sim } 4 5 \\mathrm { m i n }$ 后采用CR-400型色差仪（日本KonicaMinolta公司）测定靠近骨侧肌肉表面的亮度（ $\\boldsymbol { \\mathrm { ~ L ~ } } ^ { * }$ ）、红度（a\\*）和黄度（b\\*）值，测定3次，取平",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "均值作为最终结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.4.4 pH ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "于56日龄屠宰后，取左侧胸肌， $4 5 \\mathrm { m i n }$ 后将Testo-205 便携式pH计（德国 Testo 公司）的电极完全包埋到肉样中，使其与肌肉中的组织液充分接触，待pH计读数稳定后记录pH值。然后将肌肉放至 $4 \\mathrm { { ^ \\circ C } }$ 冰箱中保存， $2 4 \\mathrm { h }$ 后再测定1次。每个肉样测定3次，取平均值作为最终结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.5.5 肌肉MDA含量",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "于 56日龄屠宰后，取右侧胸肌 $\\boldsymbol { 1 0 } \\mathrm { g }$ 左右，用锡箔纸包好，液氮速冻后转至 ${ } - 2 0 \\ { } ^ { \\circ } { \\mathrm { C } }$ 冰箱保存，待测肌肉MDA含量，所用试剂盒购于南京建成生物工程研究所。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据用平均值 $\\pm$ 标准差表示，采用SPSS19.0软件对所有数据进行单因素方差分析，对差异显著者进行Duncan 氏法多重比较。 $P { < } 0 . 0 5$ 为差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1植物多酚对黄羽肉鸡血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植物多酚对21和56日龄黄羽肉鸡血清抗氧化指标的影响见表2。21日龄时，BP500组和BP1000组肉鸡血清中CAT活性显著高于抗生素组（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ ）；56日龄时，BP1000组肉鸡血清中CAT活性显著高于其他3组（ $_ { . } { \\cal P } { < } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/cea936dc0971ffd96f6130869ca77317409e165c07f2579ce5efb39b89e9a5b3.jpg",
+        "table_caption": [
+            "表2植物多酚对黄羽肉鸡血清抗氧化指标的影响",
+            "Table 2Effects of botanical polyphenol on serum antioxidant indices of yellow broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>超氧化物歧化</td><td>谷胱甘肽过氧化</td><td>总抗氧化能力</td><td>丙二醛</td></tr><tr><td>项目</td><td>过氧化氢酶</td><td>酶</td><td>物酶</td><td>T-AOC/</td><td>MDA/</td></tr><tr><td>Items</td><td>CAT/(U/mL)</td><td>SOD/(U/mL)</td><td>GSH-Px/(U/mL)</td><td>(U/mL)</td><td>（nmol/mL）</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/52884c05290e6ce473ffcf8225f2f28ceceeba37fb87b834ee1f26c50cae715e.jpg",
+        "table_caption": [
+            "21日龄 21 days of age"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>对照组 Control group</td><td>137.37±31.25ab</td><td>184.53±35.43</td><td>5 227.86±232.18</td><td>26.36±5.58</td><td>9.50±3.39</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著（ $_ { . } { \\cal P } { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。In the same column,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while withthe same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2植物多酚对黄羽肉鸡血清抗体水平的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物多酚对肉鸡抗体水平的影响见表3。一免后第14天（28日龄）时，对照组肉鸡血清抗NDV 抗体水平显著高于抗生素组和BP1000 组（ $\\cdot P { < } 0 . 0 5$ ），BP500 组抗NDV抗体水平略高于抗生素组和BP1000组（ $\\cdot P { > } 0 . 0 5$ ）。二免后第9天（37日龄）时，BP500组抗NDV抗体水平显著高于其他各组（ $\\scriptstyle \\cdot < 0 . 0 5 .$ ）；二免后第5天（33日龄）和第13天（51日龄）时，各组抗NDV抗体水平均差异不显著（ $P { > } 0 . 0 5 \\$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c313d77c1284efbb95facd2cc2dc4e7c29c50f86b18ba5a49d65ce6a743f1a33.jpg",
+        "table_caption": [
+            "表3植物多酚对黄羽肉鸡血清抗体水平的影响",
+            "Table 3Effects of botanical polyphenol on serum antibody levels of yellow broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>抗生素组 Antibiotic group</td><td>94.45±22.56b</td><td>145.74±39.20</td><td>4 747.92±618.78</td><td>28.09±4.14</td><td>7.66±1.09</td></tr><tr><td>BP500 组 BP500 group</td><td>149.65±15.22a</td><td>168.97±16.46</td><td>6 182.85±447.49</td><td>25.20±2.85</td><td>9.73±1.47</td></tr><tr><td>BP1000 组 BP1000 group</td><td>155.96±82.10a</td><td>161.04±29.08</td><td>5 391.37±477.13</td><td>23.93±2.82</td><td>8.82±2.77</td></tr><tr><td>P值 P-value</td><td>0.047</td><td>0.268</td><td>0.120</td><td>0.483</td><td>0.447</td></tr><tr><td>56日龄 56 days of age</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>对照组 Control group</td><td>28.16±9.14b</td><td>140.73±31.16</td><td>6 338.86±1637.07</td><td>21.87±6.02</td><td>5.65±1.44</td></tr><tr><td>抗生素组 Antibiotic group</td><td>23.43±6.55b</td><td>112.18±31.56</td><td>7 884.08±1495.13</td><td>20.49±2.72</td><td>4.41±1.76</td></tr><tr><td>BP500 组 BP500 group</td><td>27.19±1.34b</td><td>151.76±37.90</td><td>6 981.82±609.97</td><td>17.76±8.23</td><td>3.83±1.28</td></tr><tr><td>BP1000 组 BP1000 group</td><td>43.08±7.49a</td><td>125.30±30.85</td><td>6 953.17±786.42</td><td>25.26±4.30</td><td>5.18±1.10</td></tr><tr><td>P值P-value</td><td>0.029</td><td>0.208</td><td>0.238</td><td>0.231</td><td>0.152</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "一免First",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/58c444a59500db1766fd0a66a9cbc8d4de9a4e29081e67a690609d0cf761a38c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">28日龄 28 days of age 33日龄33 days of age 37日龄 37days of age 51日龄 51 days of age</td></tr><tr><td>对照组 Control group</td><td>0.104±0.007a</td><td>0.085±0.013</td><td>0.086±0.007b 0.136±0.013</td></tr><tr><td>抗生素组 Antibiotic group</td><td>0.078±0.003b</td><td>0.086±0.021</td><td>0.097±0.008b 0.127±0.021</td></tr><tr><td>BP500 组 BP500 group</td><td>0.096±0.029ab</td><td>0.089±0.010</td><td>0.111±0.008a 0.130±0.015</td></tr><tr><td>BP1000 组 BP1000 group</td><td>0.084±0.005b</td><td>0.095±0.010</td><td>0.090±0.006b 0.116±0.018</td></tr><tr><td>P值P-value</td><td>0.026</td><td>0.752</td><td>0.001 0.361</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3植物多酚对黄羽肉鸡肠道形态的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "植物多酚对21和56日龄肉鸡肠道形态的影响见图1、图2和表4。由图1和图2可知，各组空肠和回肠绒毛大致呈指状和柱状；对照组和抗生素组2段肠道的绒毛发育不良，大多排列不规则，粗短且有较多脱落的现象；而BP500 组和BP1000组的2段肠道绒毛较长，排列整齐紧密，绒毛间界限清晰；总体来看，BP500组肠绒毛发育较好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "a # 川 JD ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图 $\\mathrm { a } \\sim$ 图d分别为21日龄时对照组、抗生素组、BP500 组和BP1000 组空肠；图 $\\mathrm { e } \\sim$ 图f分别为21日龄时对照组、抗生素组、BP500 组和BP1000 组回肠。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.a to Fig.d were the jejunum of control group,antibiotic group,BP5Oo group and BP1000 group on 21 days of age,respectively; Fig.e to Fig.f were the ileum of control group,antibiotic group, BP500 group and BP1000 group on 21 days of age, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 Effects of botanical polyphenol on intestine morphology of yellow broilers on 21 days of ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a887435ef32e1c6cbdade4fe0803ab489799a99571e854a963e40e88d1190107.jpg",
+        "img_caption": [
+            "图1植物多酚对21日龄黄羽肉鸡肠道形态的影响",
+            "图2植物多酚对56日龄黄羽肉鸡肠道形态的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图 $\\mathrm { a } \\sim$ 图d分别为56日龄时对照组、抗生素组、BP500 组和BP1000 组空肠；图 $\\mathrm { e } \\sim$ 图f分别为56日龄时对照组、抗生素组、BP500 组和BP1000 组回肠。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.a to Fig.d were the jejunum of control group, antibiotic group,BP50o group and BP1000 group on 56 days of age,respectively; Fig.e to Fig.f were the ileum of control group,antibiotic group, BP500 group and BP1o00 group on 56 days of age, respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Effects of botanical polyphenol on intestine morphology of yellow broilers on 56 days of ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "age （ $\\mathrm { : } 1 0 0 \\times \\mathrm { ) }$ （204",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表4 可知，21日龄时，对照组的空肠隐窝深度最深，显著大于抗生素组（ $\\cdot P { < } 0 . 0 5 \\$ ），抗生素组最浅，BP500组、BP1000组与其他各组无显著差异（ $P { > } 0 . 0 5 \\$ ）；抗生素组的回肠绒毛高度最短，显著低于对照组（ $( P { < } 0 . 0 5 )$ ，对照组的回肠绒毛高度最高，BP500组与BP1000组无显著差异（ $\\cdot P { > } 0 . 0 5 \\$ ）；抗生素组和BP500 组的回肠隐窝深度显著小于对照组和BP1000组（ $P { < } 0 . 0 5 \\$ ）；抗生素组的回肠V/C显著高于其他3组（ $\\cdot - 0 . 0 5$ ）。56日龄时，BP500组的回肠绒毛高度最短，显著低于抗生素组和BP1000 组（ $\\cdot - 0 . 0 5$ ），抗生素组的回肠绒毛高度最高，对照组与BP1000 组无显著显著（ $\\cdot P { > } 0 . 0 5 \\$ ）；BP500 组的回肠隐窝深度显著低于其他3组（ $\\scriptstyle P < 0 . 0 5 )$ ）；BP500 组的回肠V/C 显著高于对照组和抗生素组（ $\\cdot < 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4植物多酚对黄羽肉鸡肠道形态的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/e847d277f8af234a7ecc3e890b4c9834c25db34aa73276c066cd00a508c46cf2.jpg",
+        "table_caption": [
+            "Table 4Effects of botanical polyphenol on intestinal morphology of yellow broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">21日龄 21 days of age</td><td colspan=\"2\">56日龄 56 days of age</td></tr><tr><td>项目Items</td><td>空肠 Jejunum</td><td>回肠Ileum</td><td>空肠 Jejunum</td><td>回肠Ileum</td></tr><tr><td>绒毛高度 Villous height/um</td><td></td><td></td><td></td><td></td></tr><tr><td>对照组 Control group</td><td>540.63±35.31</td><td>431.13±34.68a</td><td>441.00±20.69</td><td>512.99±46.74bc</td></tr><tr><td>抗生素组 Antibiotic group</td><td>402.10±78.46</td><td>300.533±40.49c</td><td>594.57±96.60</td><td>612.97±77.32a</td></tr><tr><td>BP500 组 BP500 group</td><td>531.03±38.85</td><td>326.97±40.25bc</td><td>671.27±107.36</td><td>433.77±30.55c</td></tr><tr><td>BP1000 组 BP1000 group</td><td>518.33±78.82</td><td>378.23±36.26ab</td><td>596.10±105.10</td><td>532.83±28.14ab</td></tr><tr><td>P值P-value</td><td>0.078</td><td>0.013</td><td>0.071</td><td>0.015</td></tr><tr><td>隐窝深度 Crypt depth/um</td><td></td><td></td><td></td><td></td></tr><tr><td>对照组 Control group</td><td>457.00±38.64a</td><td>321.17±23.08a</td><td>362.90±85.81</td><td>424.59±109.91a</td></tr><tr><td>抗生素组 Antibiotic group</td><td>280.77±93.35b</td><td>184.59±23.05b</td><td>362.50±103.51</td><td>458.63±46.82a</td></tr><tr><td>BP500 组 BP500 group</td><td>392.27±16.48ab</td><td>226.77±20.26b</td><td>433.50±105.72</td><td>219.30±19.60b</td></tr><tr><td>BP1000 组 BP1000 group</td><td>353.73±58.72ab</td><td>286.80±39.74a</td><td>375.30±89.38</td><td>350.07±56.75a</td></tr><tr><td>P值 P-value</td><td>0.049</td><td>0.001</td><td>0.778</td><td>0.010</td></tr><tr><td>绒毛高度/隐窝深度 V/C</td><td></td><td></td><td></td><td></td></tr><tr><td>对照组 Control group</td><td>1.18±0.03</td><td>1.34±0.02b</td><td>1.26±0.26</td><td>1.25±0.23b</td></tr><tr><td>抗生素组 Antibiotic group</td><td>1.52±0.37</td><td>1.63±0.02a</td><td>1.78±0.80</td><td>1.33±0.04b</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4d70d00c90db999664bc0cf01667a1600d6a460f95b5e7902d59713ad4f87ee.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>BP500 组 BP500 group</td><td>1.35±0.04</td><td>1.44±0.13b</td><td>1.58±0.24</td><td>1.99±0.31a</td></tr><tr><td>BP1000 组 BP1000 group</td><td>1.47±0.09</td><td>1.32±0.07b</td><td>1.63±0.38</td><td>1.55±0.31ab</td></tr><tr><td>P值P-value</td><td>0.238</td><td>0.007</td><td>0.609</td><td>0.027</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.4植物多酚对黄羽肉鸡肉品质的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "植物多酚对56日龄黄羽肉鸡肉品质的影响见表5。BP1000 组的胸肌肉色a\\*值显著高于其他各组（ $P { < } 0 . 0 5$ ）。BP500 组和BP1000 组的胸肌失水率显著低于对照组和抗生素组（ $P { < } 0 . 0 5$ ）。BP500组和BP1000组的胸肌 $2 4 \\mathrm { ~ h ~ }$ 滴水损失显著低于对照组和抗生素组（ $\\cdot P { < } 0 . 0 5 \\$ ），BP1000 组的胸肌 $4 8 \\mathrm { h }$ 滴水损失显著低于对照组和抗生素组（ $_ { . } { \\cal P } { < } 0 . 0 5$ ）。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/5da2e469d94d222f8e84696c030d4cc69348e8d32a64e764541323a89887696b.jpg",
+        "table_caption": [
+            "Table 5Effects of botanical polyphenol on meat quality of yellow broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>滴水损失 Drip 肉色 Meat color</td><td colspan=\"6\"></td><td>失水率</td><td></td></tr><tr><td></td><td colspan=\"6\">pH</td><td></td><td>丙二醛</td></tr><tr><td>项目</td><td></td><td></td><td></td><td></td><td>loss/%</td><td></td><td>Water</td><td>MDA/</td></tr><tr><td>Items</td><td></td><td>亮度</td><td>红度</td><td>黄度</td><td></td><td></td><td>loss</td><td>(nmol/</td></tr><tr><td></td><td>45 min 24 h</td><td></td><td></td><td></td><td>24 h</td><td>48 h</td><td></td><td></td></tr><tr><td></td><td></td><td>L</td><td>a</td><td>b</td><td></td><td></td><td>rate/%</td><td>mg prot)</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/f3780d30fe3ec16ece407c8b67780e73f2857b5a247c509d0452372ab990e3bd.jpg",
+        "table_caption": [
+            "表5植物多酚对黄羽肉鸡肉品质的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Control</td><td>6.31±0.</td><td>5.68±0.</td><td>53.23±4.</td><td>3.45±0.</td><td>14.13±0.</td><td>7.50±2.</td><td>9.03±1.1</td><td>28.77±6.</td><td>0.31±0.0</td></tr><tr><td>grou</td><td>49</td><td>08</td><td>83</td><td>93b</td><td>97</td><td>15a</td><td>3a</td><td>90a</td><td>8</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffcfae8686bcaf697ad8c6cc8a685b9acd6aac5671473e712f60848c81885c93.jpg",
+        "table_caption": [
+            "对照组"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>6.21±0.</td><td>5.66±0.</td><td>52.54±4.</td><td>4.22±1.</td><td>13.24±2.</td><td>6.95±0.</td><td>9.22±0.8</td><td>32.29±5.</td><td>0.28±0.0</td></tr><tr><td>ibio 51</td><td>06</td><td>56</td><td>05b</td><td>29</td><td>93a</td><td>8a</td><td>09a</td><td>6</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "抗生素",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "tic ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b9ee30fcba4ce424d2ef4033d638b5336759f763b2d492dcf9c04279324a587.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组</td><td>6.41±0.</td><td>5.74±0.</td><td>55.36±1.</td><td>3.40±0.</td><td>13.82±2.</td><td>4.65±0.</td><td>7.71±0.6</td><td>13.55±2.</td><td>0.20±0.0</td></tr><tr><td>BP500</td><td>22</td><td>19</td><td>93</td><td>23b</td><td>80</td><td>39b</td><td>8ab</td><td>45b</td><td>6</td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BP1000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>组</td><td>6.58±0.</td><td>5.62±0.</td><td>52.16±0.</td><td>6.95±0.</td><td>16.53±1.</td><td>4.17±1.</td><td>7.27±1.3</td><td>7.50±1.0</td><td>0.22±0.0</td></tr><tr><td>BP1000</td><td>25</td><td>15</td><td>73</td><td>88a</td><td>23</td><td>06b</td><td>9b</td><td>6b</td><td>7</td></tr><tr><td>group</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P值</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.425</td><td>0.510</td><td>0.408</td><td><0.001</td><td>0.081</td><td>0.001</td><td>0.026</td><td><0.001</td><td>0.069</td></tr><tr><td>P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1植物多酚对黄羽肉鸡血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，饲粮中添加500 和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 植物多酚增强了肉鸡机体的抗氧化性能。舒刚[10]研究表明，竹叶黄酮显著提高了肉鸡血清 SOD、CAT的活性及T-AOC，并降低了血清 MDA含量；李红等[1研究表明，饲粮中添加 $0 . 3 \\%$ 的板栗总苞多酚能够显著提高肉鸡抗氧化能力。本试验结果与这些关于植物多酚（茶多酚）抗氧化作用的报道基本一致。植物多酚具有抗氧化作用主要是由于其结构中包含多个易被氧化的酚羟基，可直接与自由基和氧化物结合从而清除自由基、抑制脂质过氧化，或促进体内抗氧化系统，间接清除自由基[12-13]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2植物多酚对黄羽肉鸡抗体水平的影响 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "抗体水平在一定程度上反映了机体的体液免疫能力。本研究结果显示，一免后第14 天时，BP1000 组抗NDV 抗体水平显著高于对照组；二免后第9天时，BP500 组抗NDV 抗体水平显著高于其他各组，表明植物多酚对黄羽肉鸡的体液免疫反应有一定影响。该试验结果中植物多酚对机体体液免疫的促进作用与李振等[14]、马美湖[15]和丘光恒等[16]的报道相似。大多数人认为植物多酚调节机体免疫功能的具体机制是通过植物多酚本身的抗氧化特性来保护机体的生物膜不受自由基的破坏，从而保持了膜的流动性，使机体处于一个动态的氧化还原平衡的状态中。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3植物多酚对黄羽肉鸡肠道形态的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "小肠绒毛是直接执行吸收功能的部位，绒毛高度与细胞数量显著相关。肠绒毛高度的增加能够使小肠吸收营养物质的面积增大，所以肠绒毛的长短直接关系着动物的生长发育。只有成熟的绒毛上皮细胞才具有养分吸收功能，因此绒毛短时，成熟细胞少，养分吸收能力低[17-19]。小肠隐窝是绒毛根部上皮陷入固有层形成的管状腺体。隐窝深度主要是反映上皮细胞的生成率，上皮细胞不断从隐窝基部向绒毛端部移动，形成具有吸收能力的新绒毛细胞，以补充正常的细胞脱落。如果此过程减慢，则基部的细胞生成率降低，使隐窝变深[20-21]。V/C则综合反映小肠绒毛吸收功能。V/C下降，表示消化吸收功能下降，常伴随腹泻的发生；V/C 上升，消化吸收功能增强，腹泻率下降[22-23]。在本试验中，BP1000 组21日龄肉鸡回肠绒毛高度显著高于抗生素组;饲粮中添加 500 和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 植物多酚可提高56日龄肉鸡回肠V/C。这表明植物多酚可一定程度改善黄羽肉鸡肠道形态，与孙丹凤[9]、李登辉[24]和原泽鸿[25]的研究结果一致。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.4植物多酚对黄羽肉鸡肉品质的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "肌肉肉色a\\*值的大小说明肌肉中肌红蛋白含量的高低和存在的状态；肌肉系水力是肌肉组织保持水分的能力，是作为评定禽肉肉质的重要指标，目前多采用失水率、滴水损失、烹调损失或熟肉率来评定家禽肌肉系水力；脂类过氧化是肉品质降低的主要原因之一，MDA是肌肉中脂类过氧化最重要的产物之一。蒋守群[7]在岭南黄羽肉鸡饲粮中添加 $4 0 \\mathrm { m g / k g }$ 大豆异黄酮可使宰后 $2 4 \\mathrm { h }$ 时肉鸡胸肌的肉色a\\*值略有增高，提高了胸肌系水力，并降低了胸肌中 MDA含量。宋扬等[26报道，饲粮中添加泡桐花黄酮提取物可改善爱拔益加肉鸡肌肉的系水力。在本试验中，BP1000 组肉色a\\*值显著高于其他3组，表明植物多酚可一定程度上抑制肌红蛋白过氧化成高铁蛋白，使鸡肉保持肉色的稳定性；BP500 组和 BP1000 组黄羽肉鸡肌肉失水率和滴水损失均显著降低，表明植物多酚可提高肌肉对水分的束缚能力；饲粮中添加植物多酚有降低鸡胸肌中MDA含量的趋势，说明植物多酚可在一定程度上抑制脂类过氧化，保持鸡肉的新鲜程度。总之，本试验结果与国内一些关于植物多酚改善鸡肉品质的报道基本一致。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲粮中添加 500 和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 植物多酚均显著提高了黄羽肉鸡血清抗氧化酶CAT的活性，从而增强了黄羽肉鸡的抗氧化性能；其中添加 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 的效果更优。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 饲粮中添加500 和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 植物多酚均在一定程度上提高了黄羽肉鸡抗NDV 抗体水平。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 饲粮中添加500 和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 的植物多酚均能改善肉鸡肠道形态，且添加1000$\\mathrm { m g / k g }$ 的效果更优。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 饲粮中添加500和 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 植物多酚均能够改善黄羽肉鸡肉品质，且添加1000$\\mathrm { m g / k g }$ 的效果更优。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 综合考虑，饲粮中植物多酚的添加量以 $\\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 为宜。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]冯丽,宋曙辉,赵霖,等.植物多酚种类及其生理功能的研究进展[J].江西农业学报,2007,19(10):105-107.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[2] 蒋步云,伍树松,侯德兴,等.植物多酚作为动物饲料添加剂的研究进展[J].中国畜牧杂志,2014,50(7):89-93.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[3]林荣海,陈佳铭,黄顺捷,等.前花青素饲料添加剂促进断奶仔猪生长增重的试验研究[C]/ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "福建省农业工程学会 2009 年学术年会论文集.福州:福建省农业工程学会,2009:48-51.  \n[4]熊何健,周常义,郑新阳,等.葡萄籽多酚对高脂膳食小鼠降血脂和抗氧化功能的影响[J].江西农业学报,2008,20(1):105-107.  \n[5]赵献云,张辉,何丽芬.绿茶提取物对高脂血症大鼠的降脂和抗氧化作用[J].武警医学院学报,2006,15(6):574-575.  \n[6]梁卫花.松针提取物(前花青素)对肉仔鸡增重和免疫作用的试验研究[D].硕士学位论文.福州:福建农林大学,2009.  \n[7]蒋守群.大豆异黄酮对岭南黄羽肉鸡生产性能、肉品质的影响和抗氧化作用机制研究[D].博士学位论文.杭州:浙江大学,2007.  \n[8]李卫春,焦卫民,刘福柱,等.日粮添加茶多酚对肉鸡生产性能及肌肉抗氧化性能的影响[J].西北农林科技大学学报（自然科学版）,2008,36(11):16-20,28.  \n[9]孙丹凤.三种抗氧化剂的不同水平组合对肉鸭肠道组织结构和功能的影响[D].硕士学位论文.武汉:武汉工业学院,2010.  \n[10]舒刚.竹叶黄酮对肉鸡的生物效应及作用机理研究[D].博士学位论文.雅安:四川农业大学,2015.  \n[11]李红,董硕,熊颖,等.板栗总苞多酚对 AA 肉鸡生长、抗氧化性能影响[J].中国农业科学,2015,48(4):788-795.  \n[12]KUSZNIEREWICZ B,PIEKARSKA A,MRUGALSKA B,et al.Phenolic composition andantioxidant properties ofPolishblue-berriedhoneysucklegenotypesbyHPLC-DAD-MS,HPLC postcolumn derivatization with ABTS or FC.and TLC with DPPHvisualization[J].Journal of Agricultural and Food Chemistry,2012,60(7):1755-1763.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[13] ZDARILOVA A,SVOBODOVA A R,CHYTILOVA K,et al.Polyphenolic fraction of Lonicera caerulea L. fruits reduces oxidative stress and inflammatory markers induced by lipopolysaccharide in gingival fibroblasts[J].Food and Chemical Toxicol0gy,2010,48(6):1555-1556. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[14]李振,陈现伟.茶多酚的免疫调节作用及应用[J].中国兽药杂志,2004,38(4):33-35.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[15]马美湖.茶多酚复合剂对实验动物抗性效果与机理研究[D].硕士学位论文.长沙:湖南农业大学,2005.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16]丘光恒,李桦,杨梅梅,等.绿茶多酚对热应激肉鸡部分免疫功能的影响[J].养禽与禽病防治,2016(1):41-43.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[17] CASPARY W F.Physiology and pathophysiology of intestinal absorption[J].The American Journal of Clinical Nutrition,1992,55(1 Suppl ):299S-308S. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[18]王春荣,刘学飞,程永刚.肠功能恢复汤对感染性多器官功能障碍综合征大鼠肠黏膜损伤的保护作用[J].郑州大学学报（医学版）,2008,43(6):1107-1111.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[19]VAREL V H,ROBINSON I M,POND W G.Effect of dietary copper sulfate,Aureo SP250,0r clinoptilolite on ureolytic bacteria found in the pig large intestine[J].Applied and Environmental Microbiology,1987,53(9):2009-2012. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[20]王子旭,余锐萍,陈越,等.日粮锌硒水平对肉鸡小肠黏膜结构的影响[J].中国兽医科技,2003,33(7):18-21.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[21]姚浪群,萨仁娜,佟建明,等.安普霉素对仔猪肠道微生物及肠壁组织结构的影响[J].畜牧兽医学报,2003,34(3):250-257.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[22]韩正康.家畜营养生理学[M].北京:中国农业出版社,1991:16-17.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "23] 刘秋东,张中文,刘凤华,等.复方白头翁胶囊对腹泻犬小肠绒毛长度和隐窝深度的影响[J].北京农学院学报,2011,26(3):38-40.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[24]李登辉.茶多酚对感染球虫肉鸡肠道微生态影响及其作用机理研究[D].硕士学位论文.合肥：安徽农业大学,2015",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[25]原泽鸿.茶多酚对饲喂含钒饲粮蛋鸡生产性能、蛋品质和肠道健康的影响及机理的研究[D].硕士学位论文.雅安:四川农业大学,2016.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[26]宋扬,毛薇,王亚锴,等.泡桐花活性物质对肉鸡生长性能、屠宰性能及肉品质的影响[J]饲料工业,2013,34(15):14-17.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Effects of Botanical Polyphenol on Antioxidant Capacity, Intestinal Morphology and Meat Quality of Yellow Broilers1 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "WU Shu1.2 JIANG Buyun1SONG ZehelHOU Dexing1,3SHI Shourong2\\* HE Xi1\\*   \n(1. College of Animal Science and Technology, Hunan Agricultural University; Feed Safety and Efficient Use Ministry of Education Engineering Research Center; Hunan Livestock Safety Production Cooperative Innovation Center, Changsha 410128, China; 2.Poultry Institute, Chinese Academy of Agricultural Sciences, Yangzhou 225125, China; 3.Department of   \nBiochemical Science and Ttechnology, Faculty ofAgricultural, Kagoshima University, Kagoshima 890-0065,Japan) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of botanical polyphenol on antioxidant capacity, intestinal morphology and meat quality of yellow broilers.A total of 288 one-day-old male yellow broilers were selected and randomly allocated to 4 groups with 6 replicates per group and 12 chickens per replicate. Broilers in the four groups were fed a basal diet (control group), the basal diet+antibiotics (antibiotic group), the basal die $\\mathrm { t } { + } 5 0 0 ~ \\mathrm { m g / k g }$ botanical polyphenol (BP5Oo group) and the basal diet+] $\\mathrm { . 0 0 0 m g / k g }$ botanical polyphenol (BP1oo0 group), respectively. The experiment lasted for 56 days.The results showed as follows: 1) on 21 days of age, the serum catalase (CAT) activity of BP500 group and BP10o0 group was significantly higher than that of antibiotic group $( P { < } 0 . 0 5 )$ ； on 56 days of age, the serum CAT activity of BP1000 group was significantly higher than that of other three groups $( P { < } 0 . 0 5 )$ .2) On 21 days of age, the villous height/crypt depth $\\mathrm { ( V / C ) }$ in ileum of BP500 group and BP10o0 group was significantly higher than that of antibiotic group $( P { < } 0 . 0 5 )$ ; on 56 days of age, the $\\mathrm { v / C }$ in ileum of BP500 group was significantly higher than that of control and antibiotic groups ( $_ { ( P < 0 . 0 5 ) }$ . 3) On 56 days of age, the meat color of redness $( \\mathfrak { a } ^ { * } )$ value in breast muscle of BP1ooO group was significantly higher than that of other three groups $( P { < } 0 . 0 5 )$ ; the water loss rate of breast muscle of BP5OO group and BP1000 group was significant lower than that of other two groups $_ { ( P < 0 . 0 5 ) }$ ; the $2 4 \\mathrm { ~ h ~ }$ drip loss of breast muscle of BP50O group and BPlOoO group was significant lower than that of the control group $( P { < } 0 . 0 5 )$ ，the $4 8 \\mathrm { ~ h ~ }$ drip loss of breast muscle of BP1ooO group was significant lower than that of control group and antibiotic groups $( P { < } 0 . 0 5 )$ . It is concluded that botanical polyphenol can improve intestinal morphology， antioxidant capacity and meat quality of yellow broilers. The ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "recommended addition of botanical polyphenol is $\\boldsymbol { 1 } 0 0 0 \\mathrm { m g / k g }$   \nKey words: botanical polyphenol; yellow broilers; antioxidant capacity; intestinal morphology; meat quality ",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,214 @@
+# 基于高密度电阻率成像法的陇中半干旱区土壤含水量监测研究
+
+岳宁¹董　军」李玲}阐飞¹王　刚²黄少文² 魏国孝1\*\*
+
+(1．兰州大学资源环境学院/西部环境教育部重点试验室兰州730000;
+
+# 2．山东农业大学水利土木工程学院泰安271000)
+
+摘要土壤含水量是影响半干旱区农作物生长的重要因素。为了准确测定土壤含水量的变化动态以指导农业高效用水，近年来，利用地球物理测量方法研究高分辨率的水流入渗，已经越来越受到欢迎和重视。本文以陇中半干旱区玉米田为例，通过在土壤表面布置电极，利用高密度电阻率成像法(ERT)对降雨前后土壤二维剖面进行电阻率数据测量，实现对土壤二维剖面电阻率值和含水量监测，解释不同条件下土壤含水量变化的原因，建立陇中半干旱区农田土壤电阻率和含水量之间的相关关系。结果表明：降水入渗使得二维剖面土壤电阻率整体呈明显降低趋势，反演得到的电阻率图像局部电阻值"高-低-高"的变化过程，与一次降水过程前后"干-湿-干"的循环过程一致。土壤含水量实测值与估计值之间有较为显著的线性关系 $( R ^ { 2 } { = } 0 . 6 5 1 \ 8$ 0 $n { = } 9 6$ 。在 $0 { \sim } 2 . 0 \mathrm { ~ m ~ }$ 深度范围内，总体估计偏差较小，为 $0 . 7 4 \%$ ；土壤含水率的估计精度较高，为 $2 . 6 4 \%$ 。 $0 { \sim } 0 . 5 \mathrm { ~ m ~ }$ 土层 $\left( \mathrm { H } _ { 1 } \right)$ 含水量监测探头分布密集，数据采集较为准确，故 $\mathrm { \Delta H _ { l } }$ 层估计精度略高于 $0 . 5 { \sim } 2 . 0 ~ \mathrm { m }$ 层 $\left( \mathrm { H } _ { 2 } \right)$ 。相比之前利用实测工具进行野外测量，ERT 测量方法精度较高。本文提供了一个高分辨率的土壤结构二维分布与水分运移过程的图像，同时为实现精确和高效的农业用水管理提供一种新途径。
+
+关键词　电阻率成像　土壤含水量　降水入渗　非饱和土壤　时域反射　陇中半干旱区中图分类号：S125 文献标识码：A 文章编号:1671-3990(2016)10-1417-11
+
+# A soil water content monitoring in Longzhong semi-arid region by high-density electrical resistivity tomography
+
+YUE Ning', DONG Jun', LI Ling', KAN Fei1,WANG Gang², HUANG Shaowen², WEI Guoxiao1 (1.KeyLaboratoryof WesternChinaEnvironmentalSystems,MinistryofEducation/CollgeofEarthandEnvironmentalSciences, Lanzhou University,Lanzhou73ooo,China;2.Colegeof Water Conservancy&CivilEngineering,ShandongAgricultural University,Tai'an 271000,China)
+
+AbstractSoil water content (SWC)isakey factor influencing cropgrowth insemi-arid regions.Monitoringthevariations in SWC is citical foragriculture.Inrecent years,geophysical survey hasbeenused in the studyofhigh-resolutiondetection of water infiltrationand itis hugely popular becauseof ts zero-damage tosoil micro-structureand easy measurement.With a maize field inLongzhong semi-aridregion asthecase study,weused high-densityelectricalresistivitytomography(ERT)to measure(beforeand afterthe precipitation）two-dimensional electrical resistivityofthecolumn of soil below an electrode placedonthe soil surface.Then SWCand electrical resistivity were monitored intwo-dimensional soil profile inorderto explain thevariations in SWCunderdiferentconditionsandtodetermine thecorrelationbetweenelectricalresistivityof each Soil horizonand its water content in Longzhong semi-aridregion.Soil temperature was also discussd in theERTdata interpretation.Theresultsrevealedthe potentialofERTtoimprovesoilandagronomic studies.Vertical distributionsof two-dimensionalelectricalresistivityimage inverted from measureddata werediferent.Onthewhole,naturalrainfall infiltrationreducedthetrend intwo-dimensional electricalresistivity.Thetrendoflocalelectricalresistivityoftheiverted ERTimages wasoneof“high-low-high”,quiteconsistent with the“dry-wet-dry”cycle of the precipitation processTwodimensional sections of SWC calculated using ERT showed a reliable linear correlation $( R ^ { 2 } = 0 . 6 5 1 \mathrm { ~ 8 ~ }$ ， $n = 9 6$ ）between the estimated and measured SWCin the root-zone horizon, with a slope approximately equalto 1. Within the depth range of $0 { - } 2 . 0 ~ \mathrm { m }$ ， the precision of the calculated specific SWC quantified by the root mean square error (RMSE）was $2 . 6 4 \%$ ，witha bias corresponding to an overestimation of $0 . 7 4 \%$ . The densely distributed SWC detectors installed in the $\mathrm { H } _ { 1 }$ horizon $( 0 { - } 0 . 5 \ \mathrm { m } )$ （204号 enhanced precise data collection,resulting in better measurement accuracy than in the $\mathrm { H } _ { 2 }$ horizon $( 0 . 5 \mathrm { - } 2 . 0 \ \mathrm { m } )$ .Thestudyalso discused the factors responsible for the deviation between measured SWC and estimated SWC.The development and adoptionofprecision farmingandrational rrigationrequireddetail knowledgeofsoilandcrop.The methodused inthis study wasuseful intheresearchanddescriptionof high-resolutionsoilspatial variabilityandhydriccharacteristics.Additional field calibration was required for appying themethod practical onroutine field application.Theuseof general petro-physical relationshipbetweensoilelectricalresistivityandits moisture,ifappropriate,couldbringthe methodastepclosertopractical field application for the purpose of improving irrigation management.
+
+KeywordsElectrical resistivitytomography；Soil watercontent;Rainfallinfiltration；Unsaturatedsoil;Timedomain reflectmetry; Longzhong semi-arid region
+
+在干旱半干旱区土壤含水量是影响农作物生长的重要因素，控制和监测土壤水分变化规律，对农业生态环境有着重要的意义[1-4]。过去几十年中，很多研究人员已经尝试多种方法来监测土壤含水量变化规律。中子水分仪是一种测量深层土壤含水量与水分动态变化的有效方法，但其放射源受众多约束条件限制[5]；时域反射仪和电容探针是近年来兴起的一种实时测量浅层土壤含水量的方法[6-8]，这些方法仅仅能提供距离传感器探头较近区域的土壤含水量信息，大尺度范围应用效果较差，费用高；相反卫星和遥感探测技术能大范围监测土壤水的空间分布，但是探测深度受限于几厘米，空间分布率较低，并且受植被、微地貌等因素的影响[9]。
+
+相对而言，电磁、探测雷达、电阻率等地球物理方法测量土壤含水量不影响土壤结构，测量结果能覆盖地球表层的空间变异性，测量范围能达数十米甚至上百米。其中，电阻率成像技术已经被广泛运用到水文地质探测中[10-14]，近年来，这种方法也用来研究土壤表层降水入渗与土壤含水量[8,15-16]、潜在补给[17]、植物根系时空分布规律[18-19]和地下水动态[20]。Michot 等[21]研究表明高密度电阻率成像法(ERT)能界定土层，以便于监控灌溉期玉米(Zeamays)土壤水运移;Wenninger等[22]和Koch等[23]通过结合水文经典测量和示踪技术，研究发现ERT可以识别坡面水流路径；Schwartz等[24用二维电阻率图像、一维TDR土壤含水量测量结合土壤物理化学特性建立了非均质黏性土壤的二维含水量模型。这些都为建立干旱半干旱区土壤含水量与电阻率相关关系模型奠定了基础。然而目前国内应用ERT对干旱半干旱地区土壤含水量监测研究成果很少。本文以陇中半干旱区玉米耕作地为例，通过在土壤表面布置电极，分别在降雨前和降雨后进行二维ERT数据的测量，实现对土壤二维剖面含水量和电阻率值监测，分析不同条件下土壤含水量变化的原因，建立陇中半干旱区农田土壤电阻率和含水量之间的相关关系，并用实测的ERT数据估计土壤含水量，为实现精确和高效的农业管理提供一种新途径。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+试验田位于兰州大学半干旱区农业生态系统试验站 $( 3 5 . 4 2 ^ { \circ } \mathrm { N } , 1 0 5 . 2 4 ^ { \circ } \mathrm { E } )$ ，海拔高度 $1 9 5 1 ~ \mathrm { m } _ { \circ }$ 研究区气候属于典型的温暖带半干旱季风气候，年平均降水量 $3 5 0 ~ \mathrm { m m }$ ，主要集中在7、8、9月，年平均蒸发量 $1 ~ 8 0 0 ~ \mathrm { m m }$ ，无霜期约 $1 3 6 { \sim } 1 8 6 \mathrm { ~ d ~ }$ ，昼夜温差大，光照充足。试验田为常规种植农田，面积为 $2 0 ~ \mathrm { m } { \times } 3 0 ~ \mathrm { m }$ 试验期间种植玉米，玉米行距和株距分别为 $0 . 5 ~ \mathrm { ~ m ~ }$ 和 $0 . 4 ~ \mathrm { m } _ { \circ }$
+
+# 1.2 试验场地
+
+为了能够有效地采集试验田二维剖面ERT成像数据，按照试验田纵长方向，以 $0 . 5 \mathrm { ~ m ~ }$ 为间距(如图1所示)，布置了一列52个电极，电极埋深为 $0 . 5 ~ \mathrm { \ m } _ { \circ }$ 每个电极依次与多芯电缆自动转换开关一一相接。
+
+# 1.3 试验准备阶段
+
+不同深度土壤含水量和温度数据用StevensWaterMonitoringSystems采集。其中士壤含水量的监测主要用 HydraProbe Ⅱ(以下简称 HPⅡ)探头，基于时域反射原理，为了便于监测土壤含水量变化和建立含水量与电阻率之间的关系，在试验场地内，挖 4个基坑 M、N、P、Q，如图1所示。其中基坑${ \bf M } , { \bf N } , { \bf P }$ 用来实时监测土壤水分和温度变化，在 $2 \mathrm { m }$ 的深度内，将基坑 $\mathbf { M } , \mathbf { N }$ 和P的8个垂向深度 $( 0 . 1 ~ \mathrm { m } ,$ （号$0 . 2 \mathrm { ~ m ~ }$ 、 $0 . 3 \mathrm { ~ m ~ }$ 、 $0 . 5 \mathrm { ~ m ~ }$ 、 $0 . 8 \mathrm { ~ m ~ }$ 、 $1 . 0 \mathrm { m }$ 、 $1 . 5 \mathrm { m }$ 、 $2 . 0 \mathrm { m } \mathrm { \Omega }$ 分别安装相同的 HPⅡ探头，然后再将基坑一层一层填埋，为了防止土壤结构破坏对ERT数据产生影响，对3个基坑提前6个月进行HPⅡ的安装。基坑Q 是在 ERT 数据测量时段前 1d 进行挖掘,Michot等[21]证实对土壤进行分层考虑可以更为准确地建立土壤含水量与电阻率值之间的关系，根据土壤颗粒物理和化学性质，把土壤分为两层 $0 { \sim } 0 . 5 \mathrm { m }$ $\left( \mathrm { H } _ { 1 } \right)$ 和 $0 . 5 { \sim } 2 . 0 \ \mathrm { m } \ ( \mathrm { H } _ { 2 } )$ 分别进行土壤电阻率的测定。校准坑Q电阻率测量采用Wenner的排列方式，电极间距为 $0 . 2 { \mathrm { ~ m ~ } }$ ，埋深为 $0 . 5 \mathrm { ~ m ~ }$ ，水平排列在土层剖面 $0 . 2 5 \mathrm { ~ m ~ }$ 和 $1 . 2 5 \mathrm { ~ m ~ }$ 的深度处(如图2所示)；另外校准坑Q的土壤含水量和温度分别用HPⅡ探头和铂金丝温度探针测定，对HPⅡ探头的矫正采用Heimovaara[25]提出的方法。表1为 $\mathrm { H } _ { 1 }$ 和 $\mathrm { H } _ { 2 }$ 层的土壤理化性质。
+
+![](images/a9a486acfba3fdea15a8eb75b4e16a2b3a756f2613efa1df20ea76635615d10d.jpg)  
+图1试验场地电极和土壤含水量监测空间布置图(a 和b为实际电极排列,c为校准坑Q剖面,d为电极、含水量探头分布)  
+Fig.1Spatialdistributionmapsofelectrodesandsoil watercontentmonitoringinthefieldsiteforimagingdataofhigh-density electricalresistivitytomography(ERT)(a,bshowrealelectrodesarrngement;cissoilsctionofcalibrationpitQ;dows the distribution of electrodes and HydraProbe I)
+
+# 1.4 ERT数据采集过程
+
+本次试验采集仪器使用西安澳立华勘探技术开发有限公司生产的FlashRES-UNIVERSAL多通道、超高密度直流电法勘探系统，ERT数据的采集也采用Wenner排列方式。如图3所示，由数据采集发射机产生一个恒定的输入电流，通过指定的电流电极对 $\left( \mathbf { C } _ { 1 } \mathbf { C } _ { 2 } \right)$ 输入到测量介质内部，形成一个人工电流场。同时在计算机的控制下，接收机根据事先给定的测量组合指定的测量电位电极对 $( \mathsf { P } _ { 1 } \mathsf { P } _ { 2 } )$ ，测量相应的电位差以及电流的大小，并保存测量结果，如此循环直到测量完所有事先给定的电极测量组合为止。
+
+测量的电位或电位差从一定程度上反映了测量介质电导率的变化信息。利用测量的电位或电位差，通过成像算法可重建出场内介质的电导率的空间分布特征，进而进行物性特征的分析与解释，实现了可视化成像测量。Wenner采集方式对于垂向电阻率变化非常敏感，有利于得到更准确的反演结果。介质视电阻率 $\rho$ 值计算采用如下公式：
+
+$$
+\rho = 2 \pi a ( \Delta V / I )
+$$
+
+式中: $I$ 为电极 $\mathbf { C } _ { 1 }$ 和 $\mathbf { C } _ { 2 }$ 之间的输入电流, $\Delta V$ 为 ${ \mathrm { \Delta P } } _ { 1 \setminus }$ ${ \bf P } _ { 2 }$ 两个电极之间的电位差， $a$ 为电极间距。
+
+试验的测量时段是2015年8月20—26日，共进行8次ERT数据的采集，如图4所示。其中8月
+
+![](images/2a9148f209264f646c9c5b2d998c70bcd13f58aac4b96560b6c70bd29edbeef6.jpg)  
+图2校准坑Q不同层次土壤地球物理特性建立示意图 ：Experimental setup for geophysical characterization of soil horizons in the calibration pit Q   
+图3高密度电阻率成像法(ERT)数据采集方法(Wenner排列)和电阻率空间分布图 Fig.3Schematicmapofhigh-densityelectricalresistivitytomography(ERT)data measurement(using Wennerelectrodearry)and the spatial distribution map of electrical resistivity
+
+表1试验场地不同层次土壤颗粒物理和化学性质  
+Table 1Physical and chemical properties of soil particle in different horizons of field site   
+
+<html><body><table><tr><td>H层</td><td>Depm)</td><td>(0</td><td>(0.00000</td><td></td><td>CaCO3</td><td>Buesty</td><td>pH</td></tr><tr><td>H</td><td>0~0.5</td><td>27.5</td><td>47.9</td><td>9.8</td><td>4.0</td><td>1.35 (g·cm-3)</td><td>8.1</td></tr><tr><td>H</td><td>0.5~2.0</td><td>38.3</td><td>31.6</td><td>15.1</td><td>25.8</td><td>1.52</td><td>8.3</td></tr></table></body></html>
+
+$1 ) d$ 为土壤颗粒粒径，单位为 $\mathrm { \ m m } _ { \circ } \ : \ : 1$ ） $d$ is diameter of soil particle,whose unit is mm.
+
+C3aP3aP²3aC 计算机   
+n=3 Computer C P, C 数据采集单元   
+n=2 2a 1 2a 2a 32个电极 Data acquisition 32 electrodes 20个电极 C，P.P, iaiaia ² C 20 electrodes   
+n=1: n=1+ +：+ + + + + + + + + + + + K n=2+ +： + + + + + + +++ 数据空间 位置标识点 n=3+ ++ + + +++ Signature point of $\mathbf { C } _ { 1 } \mathbf { C } _ { 2 }$ 电流电极 $\mathbf { P } _ { 1 } \mathbf { P } _ { 2 }$ 电压电极 data space position Current electrode Voltage electrode
+
+22日17:00 试验田下了一场中雨，持续了大约 $3 . 5 \mathrm { h } _ { \circ }$ 前3次ERT数据采集是在降雨前，其余5次均在降雨结束之后。下雨期间未进行ERT数据采集，所以雨水对ERT数据准确性影响很小。
+
+# 1.5 ERT数据反演
+
+由公式(1)实测的视电阻率数据本身不能给出真实的土壤电阻值，所以进行ERT数据反演显得尤为重要。电阻率的反演计算属于位场反演[26]，即通过一定的反演方法寻找出一个能够给出与测量值具有相同响应特征的参数化模型，即能用有限参数表征的模型，该模型是测量介质在数学上理想化的一个再现[27]。在进行数据反演之前,ERT采集的数据需要
+
+ERT数据测量编号20- Rn Measuring numberPrr) rlieietrnn 自然降水 ofERTdataRain R415再盘 R10- R6R5-108-20 08-21 08-22 08-23 08-24 08-25 08-26测量日期(月-日)和时间Date (month-day) and time of measurement
+
+检查，并消除受噪声影响较大的数据。电流输入小于0.01A或者是相对误差大于 $5 \%$ 的数据在反演过程中应删除[28-30]。Panissod 等[31]表明二维电阻率反演相比较三维反演在反映剖面土壤含水量时更为恰当。所以，为了获得真实土壤剖面电阻率分布，本文采用RES2DINV软件反演计算ERT数据[32]，该软件基于圆滑约束条件下的最小二乘方法，建立二维的土壤电阻率剖面模型，圆滑约束最小二乘法基于以下方程：
+
+$$
+\big ( J ^ { \prime } J + u F \big ) d = J ^ { \prime } g
+$$
+
+式中: $F { = } f _ { x } f _ { x } { ^ { \prime } } { + } f _ { x } f _ { z } { ^ { \prime } } { , } f _ { x }$ 为水平平滑滤波系数矩阵, $f _ { z }$ 为垂直平滑滤波系数矩阵， $J$ 为偏导数矩阵， $J ^ { \prime }$ 为 $J$ 的转置矩阵， $u$ 为阻尼系数， $d$ 为模型参数修改矢量， $g$ 为残差矢量。
+
+RES2DINV软件第1次迭代过程中，用电阻率偏导数计算的解析值建立的均匀土壤电阻模型当作初始模型。随后的迭代过程，运用拟牛顿法估计偏导数，减少了电脑计算时间。反演模型由矩形网格构成，通过对区域ERT数据测量，RES2DINV软件能给出一个反演计算的二维电阻率剖面，迭代优化的方法能减少实测电阻率值和模型反演计算得到的电阻率值之间的误差值 $( \mathrm { R M S } , \% )$ 。
+
+# 1.6土壤含水量电阻率特性的确定
+
+土壤电阻率大小往往受土壤结构、孔隙水电阻、土壤含水量、土壤温度等一系列因素影响[33]。测量期间，雨水和地下水的电导率展现出很微小的变化（204 $[ ( 0 . 0 3 3 { \pm } 0 . 0 0 7 ) \ \mathrm { S } { \cdot } \mathrm { m } ^ { - }$ 和 $( 0 . 0 2 9 { \pm } 0 . 0 0 5 ) \ \mathrm { S { \cdot } m ^ { - 1 } } ]$ ，表明孔隙水的电导率相对于土壤含水量的变化较为恒定。因此本文和其他 ERT 研究一样[34-35]，可以在土壤电阻率测量中忽略孔隙水电阻率的影响。
+
+电阻率在不同温度和土壤含水量条件下的实测值不同。为了消除温度的影响，确定土壤电阻率和含水量之间的单一关系，所有的测量结果都要在$2 5 \mathrm { ~ \textdegree C }$ 标准温度下矫正。本文假定试验过程中水平剖面温度分布均匀，在 $0 { \sim } 1 . 0 \mathrm { ~ m ~ }$ 深度上满足线性分布，温度矫正采用 $2 5 \mathrm { ~ \textdegree C }$ 条件下的Keller andFrischknecht公式[36]:
+
+$$
+\rho _ { \mathrm { r e f } } = \rho _ { \mathrm { s o i l } } \Big [ 1 + \alpha \big ( T _ { \mathrm { s o i l } } - T _ { \mathrm { r e f } } \big ) \Big ]
+$$
+
+式中： $\rho _ { \mathrm { r e f } } \left( \Omega \mathrm { m } \right)$ 是在 $2 5 \mathrm { ~ \textdegree ~ }$ 标准温度 $T _ { \mathrm { r e f } } ( ^ { \circ } \mathrm { C } )$ 条件下的电阻矫正值; $\rho _ { \mathrm { s o i l } } ( \Omega \mathrm { m } )$ 是在土壤温度 $T _ { \mathrm { s o i l } } ( ^ { \circ } \mathrm { C } )$ 条件下反演的电阻率值; $\scriptstyle a$ 是修正系数，一般等于 $0 . 0 2 5 _ { \circ }$
+
+研究通过线性回归方法采用校准坑Q实测的电阻值和土壤含水量数据来建立不同土壤分层 $\mathrm { ( H } _ { 1 }$ 和$\begin{array} { r } { \mathbf { H } _ { 2 } \mathbf { \dot { \Psi } } } \end{array}$ )条件下两者之间的相关关系，如图5所示。Michot等[21]研究证实多项式函数或者幂函数必须运用于完全饱和状态和干土状态之间的大范围的土壤水分变化，然而对于自然条件下体积含水量在永久性萎蔫点与田间持水量之间的情况下，约 $10 \%$ 到$2 5 \%$ ，一元线性函数适用性很好。
+
+# 2利用ERT数据计算土壤含水量
+
+本文通过二维ERT数据建立矩形网格来反演计算得到二维土壤含水量剖面，如图5所示，矩形网格由385个小的矩形单元组成。中心点的坐标定义为 $( X , Z )$ ， $X$ 代表电极排列方向的水平距离， $Z$ 代表矩形模型块中心点的垂向深度。网格剖分为12层，各层深度分别为 $0 . 2 5 \mathrm { ~ m ~ }$ 、 $0 . 5 0 \mathrm { ~ m ~ }$ 、 $0 . 7 7 5 \mathrm { ~ m ~ }$ 、 $1 . 0 8 \mathrm { ~ m ~ }$ 1$1 . 4 1 \mathrm { ~ m ~ }$ 、 $1 . 7 8 \mathrm { ~ m ~ }$ 、 $2 . 1 8 \mathrm { ~ m ~ }$ 、 $2 . 6 2 \mathrm { ~ m ~ }$ 、 $3 . 1 1 \mathrm { ~ m ~ }$ 、 $3 . 6 4 \mathrm { ~ m ~ }$ 和 $4 . 2 3 ~ \mathrm { m } _ { \circ }$
+
+对于每个矩形模型单元，中心土壤温度用线性差分计算，中心点土壤含水量通过中心点的土壤电阻率值计算得到，三者之间矫正关系符合垂直方向真实的土壤温度梯度。二维土壤含水量剖面通过模型单元中心点的含水量值三角形剖分得到。为了验证土壤含水量预测的准确性，用SWMS采集4次(R2、R4、R6、R8)M、N、P基坑不同位置处的土壤含水量值。
+
+# 3 结果和分析
+
+# 3.1土壤含水量和温度分析
+
+图6给出了一次降水过程4次测量时间(R2为降水前，R4、R6和R8为降水后)实测土壤体积含水量和校准坑Q温度变化情况。从图中可以出，由于降水的影响，在 $0 { \sim } 1 . 0 \mathrm { m }$ 深度范围内，土壤含水量都有明显增加，位置不同，含水量变化情况也不同。N、P剖面处土壤透水性较好, $0 { \sim } 1 . 0 \mathrm { m }$ 深度内土壤含水量明显增加，相比较M剖面处含水量变化不大，可能与该处土壤压实情况有关。降水之前，土壤含水量最大值主要集中在P坑深度为 $0 . 2 \mathrm { m }$ 处，最小值集中在 $\mathrm { ~ \bf ~ P ~ }$ 坑深度为 $1 . 0 \mathrm { ~ m ~ }$ 处，实测土壤含水量最大值为$2 7 . 6 \%$ ，最小值为 $12 . 4 \text{‰}$ 降水之后， $0 { \sim } 0 . 5 \mathrm { m }$ 深度处土壤含水量增长幅度最大，土壤含水量最大值主要集中在P坑深度为 $0 . 2 \mathrm { m }$ 处，最小值集中在P坑深度为 $0 . 8 \mathrm { m }$ 处，实测土壤含水量最大值为 $30 . 2 \%$ ，最小值为 $12 . 1 \text{‰}$
+
+![](images/e247441c4b6e2f2c1bcd7170951b945d544c0756f3daf8959a93b196b2a57e26.jpg)  
+图5不同分层条件下土壤剖面含水量和电阻率之间的矫正关系 $( t { = } 2 5 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ } )$ 以及利用电阻率计算二维体积含水量剖面过 程示意图 Fig.5Calibration $( t { = } 2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ) between soil volumetric water content and electrical resistivity of different horizons and the schematic diagram of calculating 2D volumetric water content of soil by using electrical resistivity
+
+![](images/cb96ca46a0fde660d30ab1dcce833db3cb0ac64727eae97a69cd61c73a798202.jpg)  
+164次高密度电阻率成像法(ERT)采集时间[R2(降雨前)和R4、R6、R8(降水后)的剖面M、N和P实测土壤体积含水量和Q剖面实测土壤温度变化  
+Fig.6Variations of measured volumetric watercontents ofM,N,Pprofiles andtemperature ofQprofile duringfourvarious high-density electrical resistivity tomography (ERT) surveys [R2 (before rain)and R4,R6,R8 (after rain)]
+
+土壤温度变化和土壤含水量变化之间并没有直接的相关关系。降水之前，土壤温度随着埋深的增加大体上呈下降的趋势，降水之后，在 $0 { \sim } 0 . 5 \ \mathrm { m }$ 深度内由于昼夜变化和降水等因素的影响，土壤表层温度下降明显，而在 $0 . 5 { \sim } 1 . 0 \mathrm { ~ m ~ }$ 深度处，温度有略微的回升，满足前文线性分布的假定， $1 . 0 \mathrm { m }$ 深度以下温度基本趋于稳定。因此在ERT数据获取的过程中，日周期和水分入渗是影响土壤温度变化的重要因素[19]。
+
+# 3.2 基于二维土壤剖面电阻率图像分析
+
+在 ERT处理过程中，本文对4次ERT(R2、R4、R6、R8)测量数据进行反演计算，得到4次测量的土壤剖面二维电阻率图像(图7)，4次测量数据生成的图像分别用G1、G2、G3、G4表示。图G1是试验开始测量时土壤电阻率反演结果，在降水入渗之前，表明初始的土壤结构和电阻率值分布特征；图G2、G3、G4是降水之后测量土壤电阻率值的反演结果，表明随着降水入渗过程的进行，土壤电阻率值的变化情况。从图中可以看出：
+
+1)不同时刻测量数据获得的土壤电阻率图像在二维平面中的分布是不同的，相对于图G1而言，降水入渗使得二维剖面土壤电阻值整体上呈现出明显降低的趋势，尤其是在土壤垂向深度为 $0 . 2 { \sim } 1 . 0 \ \mathrm { m }$ 和$3 . 0 { \sim } 4 . 5 \ \mathrm { m }$ 范围内的电阻率值相对较低。
+
+2)对于垂向深度为 $0 { \sim } 0 . 2 \ \mathrm { m }$ 的区域，土壤电阻率值相对较高，一方面由于试验场地常年种植玉米，土壤表层覆盖有地膜，对表层土壤有保护作用；另一方面由于玉米根系的固结作用和土壤压实的影响，Ankeny等[37证实了压实作用所造成的土壤大孔隙的破坏会降低土壤的渗透系数，致使降水不能均匀入渗到整个试验的平面内。但在一些倾斜的坡面处或者是坑洼处，降水汇集较多，下渗明显，即选择性入渗现象。例如图G2中，在 $X { = } 4 . 0 { \sim } 5 . 0 \ \mathrm { ~ m ~ }$ ，深度为 $0 { \sim } 0 . 2 \ \mathrm { m }$ ，存在着电阻率较低的异常值。
+
+3)在 $0 . 2 { \sim } 1 . 0 ~ \mathrm { m }$ 的垂向深度内，G2、G3存在着很多不符合降水入渗局部异常区域，例如图G2和G3在 $X { = } 9 . 0 { \sim } 1 0 . 0 \mathrm { ~ m ~ }$ 处。本应该电阻率值降低的地方，却反而增大。这种异常通常是由于玉米根部对局部土壤水分的吸收、土壤质地变异性和入渗的非均匀性(优先流的存在)等因素造成的[38]，导致局部的土壤含水量反而降低，土壤电阻率值增大。即在土壤湿润阶段，同一位置不同时间点的土壤电阻率值变化规律也不相同，存在着阻值异常增大的情况。
+
+4)G1 图中在 $X { = } 7 . 0 { \sim } 1 1 . 0 \ \mathrm { ~ m ~ }$ 和 $X { = } 1 3 . 0 { \sim } 1 9 . 0 \ \mathrm { ~ m }$ 深度为 $1 . 5 { \sim } 3 . 0 \ \mathrm { m }$ 的范围内，存在两块明显的高阻值区域，由于降水下渗作用的影响，G2、G3图中该区域电阻率值明显降低，G4图中电阻率值反而增高，这种电阻率值“高-低-高"的变化过程，与一次降水过程前后“干-湿-干"的循环过程颇为一致，体现出ERT图像能定性地反映出含水量变化趋势。
+
+# 3.3ERT估计土壤含水量与实测土壤含水量比较
+
+根据二维剖面土壤电阻值、土壤含水量、土壤温度三者之间的矫正关系，对4次测量(R2、R4、R6、R8)的ERT数据进行处理，计算二维剖面的土壤含水量数据，反演得到4个二维剖面土壤含水量图像，对应为W1、W2、W3、W4(图8)。从图中可以看出,二维剖面土壤含水量的空间结构与电阻率剖面的空间结构是相似的，垂向入渗水流路径的变化符合电阻率的变化，并且可以明显地看出降水入渗“干-湿-干"循环过程。
+
+为了证明建立的ERT估计土壤含水量的准确性本文利用(M、N、P）3个基坑实测的土壤含水量数据和ERT估计的土壤含水量数据建立了两者之间的相关关系(如图9，表2)。可以看出，实测的土壤含水量值与估计的土壤含水量值之间有一个较为显著的线性关系 $( R ^ { 2 } { = } 0 . 6 5 1 \ \mathrm { ~ \Omega ~ }$ 3， $\scriptstyle n = 9 6$ )，实测值与估计值的斜率近似等于1，用均方根误差(RMSE, $0 \%$ 代表估计精度，用平均误差 $( \mathrm { M E } , \% )$ 代表估计偏差。通过表2看出，在 $0 { \sim } 2 . 0 \mathrm { m }$ 深度总体上估计偏差较小，为 $0 . 7 4 \%$ 土壤含水率的估计精度较高，为 $2 . 6 7 \%$ 。在 $0 { \sim } 0 . 5 \mathrm { ~ m ~ }$ 深度范围内，HPⅡ探头分布较为密集，数据采集较为准确，故 $\mathrm { H } _ { 1 }$ 层的估计精度略高于 $\mathrm { H } _ { 2 }$ 层。本文提供了一个高分辨率的土壤结构二维分布与水分运移过程的图像，利用土壤电阻率和含水量之间建立的岩石物理关系，可以定性的反映土壤二维剖面土壤含水量的变化过程，但是介于电极间距布置较大，很难精确的估计出单个位置处土壤含水量变化。
+
+本文通过野外试验发现，影响实测的土壤含水量和ERT估计的土壤含水量之间偏差的因素有很多，主要体现在：1)相比较小尺度的土壤水分变化过程，本试验安装的HPⅡ探头之间的间距要大得多，不能很好地反映土壤含水量的变化过程。2)实测的土壤电阻率数据和本文反演过程得到的电阻率数据不同，电极的布置、反演精度、电极间距等一系列不确定
+
+![](images/7d431484538f59b2c5a7363116390ea812410a6ba87caa4435fd212967ef7ef6.jpg)  
+图7二维土壤剖面电阻率随时间变化过程[4次高密度电阻率成像法(ERT)采集,G1(降水前)和G2、G3、G4(降水后)] Fig.7Two-dimension mapsofelectricalresistivitytemporal variationsofsoilprofilesduringfourVarious high-densityelectrical resistivity tomography (ERT) surveys [G1 (before rain), G2, G3,and G4 (after rain)]
+
+![](images/cfde313f5be3607c53e7a796607a37e8044837d4393cd4ca79acdb8032bc3506.jpg)  
+图8二维土壤剖面体积含水量随时间变化过程[4次高密度电阻率成像法(ERT)采集，W1(降水前)和W2、W3、W4(降水后)] Fig.8Two-dimension mapsofsoil volumetric watercontent temporal variationsofsoil profiles duringfour various high-density electrical resistivity tomography (ERT) surveys [W1 (before rain), W2, W3,and W4 (after rain)]
+
+http://www.ecoagri.ac.cn
+
+![](images/0606ea49d481566a56c9a0336b3b2cd397e6fd0fe02c160c86dfc1266cb11273.jpg)  
+图9不同层次高密度电阻率成像法(ERT)估计的土壤含 水量与实测土壤含水量相关关系分析 Fig.9Correlation analysis between estimated soil moisture by high-density electrical resistivity tomography(ERT)and measured soil moisture of different horizons
+
+的因素都会导致两者之间的偏差。3)尽管小电极可以减少电极和土壤之间的接触电阻，但是对于浅层探查深度和高分辨率的试验要求来说，把电极考虑成点源来处理，还是非常困难的。4)土壤电阻率变化一般会受到降水入渗滞后现象的影响。5)土壤的传导电流主要是由电极发出的，影响土壤电阻率值的大小除了土壤湿度和温度之外，还会与土壤中各种离子的分布浓度有关。降水的不均匀入渗会导致局部地区土壤溶液的TDS发生变化，造成了不可忽视的土壤电阻率的变化[39]。以上这些方面的问题，还需要以后继续研究。
+
+# 4结论
+
+近年来，用地球物理测量的方法研究高分辨率的地下水流的流动过程，由于其本身不损害土壤微结构，而且测量方法不繁琐，已经变得越来越受到欢迎和重视。本文以陇中半干旱区玉米耕作地为例，通过在土壤表面布置电极，用二维ERT数据和土壤含水量数据，建立了陇中半干旱区土壤电阻率和含水量之间的相关关系，通过对一场降水前后土壤含水量的变化，实现对二维剖面土壤含水量的动态监测。试验结果表明，土壤含水量的变化可以通过土壤电阻率变化体现出来，二维的土壤含水量剖面通过二维ERT数据和两者之间建立的相关关系反演计算得到，土壤温度的变化在计算中同样被考虑到。
+
+土壤含水量在一次降水前后有较为明显的“干-湿-干"循环变化过程。降水之前，气候较为干燥，土壤电阻率整体偏高，降水入渗使得二维剖面土壤电阻率整体上呈现出明显降低的趋势。由于土壤压实作用的影响，表层土壤电阻率变化不明显，但是在某些土质相对松散的局部区域，也存在着含水量的大量富集，入渗过程中，受土壤质地变异性、入渗的非均匀性(优势流)、玉米根部对土壤水分的吸收等因素影响，也会导致局部区域含水量反而更低。
+
+表2高密度电阻率成像法(ERT)估计土壤含水量与实测土壤含水量统计分析结果 Table2Statisticalanalysisresultsbetween estimatedsoil moisturebyhigh-densityelectricalresistivitytomography(ERT)and measured soil moisture   
+
+<html><body><table><tr><td>埋深 Depth (m)</td><td>n</td><td>R</td><td>R²</td><td>ME (%)</td><td>RMSE (%)</td></tr><tr><td>Hi: 0.1;0.2;0.3;0.5</td><td>48</td><td>0.857 3</td><td>0.735 0</td><td>1.28</td><td>2.58</td></tr><tr><td>H: 0.8;1.0;1.5;2.0</td><td>48</td><td>0.8269</td><td>0.6838</td><td>-2.02</td><td>2.70</td></tr><tr><td>0.1~ 2.0</td><td>96</td><td>0.807 3</td><td>0.6518</td><td>-0.74</td><td>2.64</td></tr></table></body></html>
+
+实测的土壤含水量值与估计的土壤含水量值之间有一个较为显著的线性关系 $\scriptstyle ( R ^ { 2 } = 0 . 6 5 1 8$ ， $n { = } 9 6$ ）,实测值与估计值的斜率近似等于1。在 $ { 0 { \sim } } 2 . 0  { \mathrm { ~ m ~ } }$ 深度范围内，总体上估计偏差较小，为 $0 . 7 4 \%$ ；土壤含水率的估计精度较高，为 $2 . 6 4 \%$ ，在 $0 { \sim } 0 . 5 \mathrm { m }$ 深度范围内，HPⅡ探头分布较为密集，数据采集较为准确，故 $\mathrm { H } _ { 1 }$ 层的估计精度略高于 $\mathrm { H } _ { 2 }$ 层。但是本文电极间距布置较大，很难精确地估计出单个位置处土壤含
+
+水量变化过程。
+
+当今精准农业和合理灌溉需要更为成熟的作物和土壤知识体系，相比较之前利用实测工具进行野外测量，地球物理方法精度较高。本文提供了一个高分辨率的土壤结构二维分布与水分运移过程的图像，利用土壤电阻率和水分之间建立的岩石物理关系，可以减少农业灌溉中复杂的测量程序，提高灌溉水平和效率。
+
+# 参考文献References
+
+[1]李琴，陈曦，Veroustraete F,等．干旱半干旱区土壤含水量 反演与验证[J]．水科学进展,2010,21(2):201-207 Li Q,Chen X,Veroustraete F,et al. Validation of soil moisture retrieval in arid and semi-arid areas[J].Advances in Water Science,2010,21(2): 201-207   
+[2] 吴见，刘民士，李伟涛．干旱半干旱区土壤含水量定量反 演技术研究[J]．干旱区资源与环境,2014,28(1):26-31 Wu J,Liu M S,Li W T.Research on soil moisture content inversion technologies in arid and semiarid area[J].Journal of Arid Land Resources and Environment,2014,28(1):26-31   
+[3]张仁陟，黄高宝，蔡立群，等．几种保护性耕作措施在黄土 高原旱作农田的实践[J]．中国生态农业学报，2013，21(1): 61-69 Zhang R Z, Huang G B,CaiL Q,et al. Dry farmland practice involving multi-conservation tillage measures in the Loess Plateau[J]. Chinese Journal of Eco-Agriculture,2013, 21(1): 61-69   
+[4]董军，岳宁，党慧慧，等．应用修订的 Shuttleworth-Wallace 模型对半干旱区覆膜玉米蒸散的研究[J].中国生态农业学 报,2016,24(5): 674-683 Dong J，Yue N，Dang H H，et al. Estimation of evapotranspiration in maize fields with ground mulching with plastic film in semi-arid areas using revised ShutteworthWallace model[J]. Chinese Journal of Eco-Agriculture,2016, 24(5): 674-683   
+[5] Chanasyk D S,Naeth M A.Field measurement of soil moisture using neutron probes[J]. Canadian Journal of Soil Science,1996,76(3): 317-323   
+[6] Herkelrath W N,Hamburg S P,Murphy F. Automatic, real-time monitoring of soil moisture in a remote field area with time domain reflectometry[J]. Water Resources Research, 1991,27(5): 857-864   
+[7] Calamita G, Brocca L,Perrone A,et al. Electrical resistivity and TDR methods for soil moisture estimation in central Italy test-sites[J]. Journal of Hydrology,2012,454-455:101-112   
+[8] Beff L,Günther T,Vandoorne B,et al. Three-dimensional monitoring of soil water content in a maize field using electrical resistivity tomography[J].Hydrology and Earth System Sciences,2013,17(2): 595-609   
+[9] Wagner W,Bloschl G,Pampaloni P,et al．Operational readiness of microwave remote sensing of soil moisture for hydrologic applications[J].Hydrology Research,2007,38(1): 1-20 methods[M]//Rubin Y， Hubbard S S. Hydrogeophysics. Netherlands: Springer, 2005:129-156   
+[11]苏永军，王绪本，罗建群．高密度电阻率法在三星堆壕沟 考古勘探中应用研究[J]．地球物理学进展，2007，22(1): 268-272 Su YJ,Wang X B,Luo J Q. The ahaeological application of high-density resistivity method to ditch exploration on Sanxingdui Site[J]. Progress in Geophysics，2007,22(1): 268-272   
+[12] 刘汉乐，周启友，吴华桥．轻非水相液体污染过程的高密 度电阻率成像法室内监测[J]．地球物理学报，2008，51(4): 1246-1254 Liu HL, Zhou Q Y,Wu HQ.Laboratorial monitoring of the LNAPL contamination process using electrical resistivity tomography[J]. Chinese Journal of Geophysics,2008,51(4): 1246-1254   
+[13]伍开江，周启友．岩柱中水体入渗过程的高密度电阻率成 像法研究[J]．水文地质工程地质,2005,32(2):76-81 Wu K J, Zhou Q Y. Study about water infiltration process in rockblockusinghighdensityelectricalresistivity tomography[J]. Hydrogeology and Engineering Geology, 2005,32(2): 76-81   
+[14]王刚，周启友，吴世艳，等．基于高密度电阻率成像法的基 岩裂隙网络原位识别试验研究[J]．地质论评，2012，58(1): 165-174 Wang G, Zhou Q Y,Wu S Y, et al.An in-situ experimental study of fractures network identification within bedrock by high-density electrical resistivity tomography[J]. Geological Review,2012,58(1): 165-174   
+[15] Zhou Q Y, Shimada J, Sato A. Three-dimensional spatial and temporal monitoring of soil water content using electrical resistivity tomography[J]. Water Resources Research,2001, 37(2): 273-285   
+[16] Singha K,Day-Lewis F D,Johnson T,et al. Advances in interpretation of subsurface processes with time-lapse electrical imaging[J]. Hydrological Processs,2015,29(6): 1549-1576   
+[17] Schwartz B F, Schreiber M E. Quantifying potential recharge in mantled sinkholes using ERT[J]. Groundwater,2009,47(3): 370-381   
+[18] Werban U,Al Hagrey S A,Rabbel W. Monitoring of root-zone water content in the laboratory by 2D geoelectrical tomography[J]. Journal of Plant Nutrition and Soil Science, 2008,171(6): 927-935   
+[19] Fan JL，Scheuermann A,Guyot A,et al.Quantifying spatiotemporal dynamics of root-zone soil water in a mixed forest on subtropical coastal sand dune using surface ERT and spatial TDR[J]. Journal of Hydrology,2015,523: 475-488   
+[20] Yamakawa Y, Kosugi K, Katsura S,et al. Spatial and temporal monitoring of water content in weathered granitic bedrock using electrical resistivity imaging[J]. Vadose Zone Journal, 2012,11(1),doi:10.2136/vzj2011.0029   
+[21] Michot D，Benderitter Y,Dorigny A,et al. Spatial and temporal monitoring of soil water content with an irrigated corncropcoverusingsurfaceelectricalresistivity tomography[J].Water Resources Research,2003,39(5),doi: 10.1029/2002WR001581   
+[22]Wenninger J, Uhlenbrook S,Lorentz S,et al. Identification of runoff generation processes using combined hydrometric, tracer and geophysical methods in a headwater catchment in South Africa[J]. Hydrological Sciences Journal,20o8,53(1): 65-80   
+[23]Koch K,Wenninger J,Uhlenbrook S,et al. Joint interpretation of hydrological and geophysical data:Electrical resistivity tomography results from a process hydrological research site in the Black Forest Mountains,Germany[J].Hydrological Processes,2009,23(10):1501-1513   
+[24] Schwartz B F,Schreiber M E，Yan T T.Quantifying field-scale soil moisture using electrical resistivity imaging[J]. Journal of Hydrology,2008,362(3/4): 234-246   
+[25]Heimovaara T J. Design of triple-wire time domain reflectometry probes in practice and theory[J]. Soil Science Society of America Journal,1993,57(6):1410-1417   
+[26] 冯锐，李智明，李志武，等．电阻率层析成像技术[J]．中国 地震,2004,20(1):13-30 Feng R, Li $z \textrm { M }$ ,Li ZW,et al. Resistivity tomography[J]. Earthquake Research in China,2004,20(1):13-30   
+[27]王家映．地球物理反演理论[M]．北京：高等教育出版社, 1998 Wang JY. Inverse Theory in Geophysics[M]. Beijing: Higher Education Press,1998   
+[28] Johnson T C,Slater L D,Ntarlagiannis D,et al.Monitoring groundwater-surface water interaction using time-series and time-frequencyanalysisoftransient three-dimensional electrical resistivity changes[J]. Water Resources Research, 2012,48(7),doi: 10.1029/2012WR011893   
+[29]Wallin EL,Johnson TC,Greenwood WJ,et al.Imaging high stage river-water intrusion into a contaminated aquifer along a major river corridor using 2-D time-lapse surface electrical resistivity tomography[J]. Water Resources Research,2013, 49(3): 1693-1708   
+[30]Brillante L,Bois B,Mathieu O,et al.Monitoring soil volume wetness in heterogeneous soils by electrical resistivity.A field-based pedotransfer function[J]. Journal of Hydrology, 2014,516:56-66   
+[31]Panissod C，Michot D，Benderitter Y,et al．On the effectiveness of 2D electrical inversion results:An agricultural case study[J]. Geophysical Prospecting,2001,49(5): 570-576   
+[32]Loke M H,Barker R D.Rapid least-squares inversion of apparent resistivity pseudosectionsby a quasi-Newton method[J].Geophysical Prospecting,1996,44(1):131-152   
+[33] Samouelian A，Cousin I,Tabbagh A，et al．Electrical resistivity survey in soil science:A review[J]. Soil and Tillage Research,2005,83(2):173-193   
+[34] Brunet P,Clément R，Bouvier C.Monitoring soil water content and deficit using Electrical Resistivity Tomography (ERT）- A case study in the Cevennes area,France[J]. Journal of Hydrology,2010,380(1/2):146-153   
+[35]Jayawickreme D H,Van Dam R L，Hyndman D W. Hydrological consequences of land-cover change:Quantifying the influence of plants on soil moisture with time-lapse electrical resistivity[J].Geophysics,2010,75(4):WA43-WA50   
+[36]Keller G V,Frischknecht F C.Electrical Methodsin Geophysical Prospecting[M].Oxford:Pergamon Press Inc, 1966   
+[37]Ankeny M D,Kaspar T C,Horton R.Characterization of tillageandtrafficeffectsonunconfinedinfiltration measurements[J].Soil Science Society of America Journal, 1990,54(3): 837-840   
+[38] Michot D,Dorigny A,Benderiter Y.Mise en évidence par résistivité électrique des écoulements préférentiels et de l'asséchement par le mai"s d'un CALCISOL de Beauce irrigué[J]. Comptes Rendus de l'Académie des SciencesSeries IIA-Earth and Planetary Science,2001,332(1): 29-36   
+[39] Schnebelen N,Ledoux E,Bruand A,et al．Stratification hydrogéochimique et écoulements verticaux dans l'aquifére des calcaires de Beauce (France):Un systéme anthropisé ä forte variabilité spatiale et temporelle[J].Comptes Rendus de l'Académie des Sciences-Series IIA-Earth and Planetary Science,1999,329(6):421-428

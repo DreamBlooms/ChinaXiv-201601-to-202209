@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "Arbuscularmycorrhizal fungi ameliorate the chemical propertiesand enzymeactivities of rhizosphere soil in reclaimed mining subsidence in northwestern China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QIU Lang1,2，BI Yinli1,2\\*, JIANG Bin1,2， WANG Zhigang1,2， ZHANG Yanxu12， YrysZhanZHAKYPBEK³",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State KeyLaboratoryofCoal Resources and Safe Mining,China Universityof Mining and Technology (Beijing),Beijing   \n100083,China;   \n2Colege ofGeoscienceand SurveyingEnginering,China UniversityofMiningandTechnology(Beijing),Beijing0083,   \nChina;   \n3 Satbayev University,Almaty 050013,Kazakhstan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In semi-arid region of northwestern China, underground mining subsidence often results in decreased vegetation coverage， impoverishment of soil fertility and water stress. In addition， the physical-chemical and biological properties of soil also change，resulting in more susceptible to degradation.In particular,subsidence causes disturbance of the symbioses of plant and microbe that can play a beneficial role in the establishment of vegetation communities in degraded ecosystems. The objective of this study was to evaluate the effects of revegetation with exotic arbuscular mycorrhizal fungi (AMF) inoculum on the chemical and biological properties of soil over time in mining subsidence areas. Soils were sampled at a depth up to $3 0 \\ \\mathrm { c m }$ in the adjacent rhizosphere of Amorpba fruticose Linn. from five reclaimed vegetation communities in northwestern China.In August 2O15,a field trial was set up with five historical revegetation experiments established in2008 (7-year),2011 (4-year),2012 (3-year),2013 (2-year) and 2014 (1-year),respectively. Each reclamation experiment included two treatments,i.e.,revegetation with exotic AMF inoculum (AMF) and non-AMF inoculum (the control). Root mycorrhizal colonization, glomalin-related soil protein (GRSP),soil organic carbon (SOC),soil nutrients,and enzyme activities were also assessed.The results showed that mycorrhizal colonization of inoculated plants increased by $3 3 . 3 \\% { - } 1 6 3 . 0 \\%$ compared to that of non-inoculated plants $( P { < } 0 . 0 5 )$ . Revegetation with exotic AMF inoculum also significantly improved total GRSR (T-GRSP) and easily extracted GRSP (EE-GRSP) concentrations compared to control, besides the T-GRSP in 1-year experiment and the EE-GRSP in 2-year experiment. A significant increase in SOC content was only observed in 7-year AMF reclaimed soils compared to non-AMF reclaimed soils. Soil total N (TN), Olsen phosphorus $\\mathrm { ( P ) }$ and available potassium $( \\mathrm { K } )$ were significantly higher in inoculated soil after 1-7 years of reclamation (except for individual cases), and increased with reclamation time (besides soil Olsen P).The exotic AMF inoculum markedly increased the average soil invertase,catalase,urease and alkaline phosphatase by $23 . 8 \\%$ 。 $2 1 . 3 \\%$ ， $1 8 . 8 \\%$ and $8 . 6 \\%$ ， respectively $( P { < } 0 . 0 1 )$ ,compared with the control. Root mycorrhizal colonization was positively correlated with soil parameters (SOC, TN and soil available K) and soil enzyme activities (soil invertase, catalase, urease and alkaline phosphatase) in both AMF and non-AMF reclaimed soils $( P { < } 0 . 0 5 )$ ,excluding available ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K in non-AMF reclaimed soils. T-GRSP $( P { < } 0 . 0 1 )$ and EE-GRSP $( P { < } 0 . 0 5 )$ were significantly correlated with the majority of edaphic factors, except for soil Olsen P. The positive corelation between root mycorrhizal colonization and available K was observed in AMF reclaimed soils, indicating that the AMF reclaimed soil with a high root mycorrhizal colonization could potentially accumulate available K in soils. Our findings concluded that revegetation with exotic AMF inoculum influenced soil nutrient availability and enzyme activities in the semi-arid ecosystem, suggesting that inoculating AMF can be an effective method to improve soil fertility and support restoration of vegetation communities under poor conditions like soil nutrient deficiency and drought. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:revegetation; mycorhizal colonization;glomalin-related soil proteins;arbuscular mycorrhizal fungi; coal mining;Amorpba fruticose ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Citation: QIU Lang,BI Yinli,JIANGBin,WANG Zhigang,ZHANG Yanxu,Yryszhan ZHAKYPBEK.2019.Arbuscular mycorhizal fungi amelioratethechemical propertiesandenzyme_activityof rhizospheresoil inreclaimed mining subsidence in northwestern China.JournalofAridLand,11(1):135-147.htps:/doi.org/10.107/s40333-018-0019-9 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although coal mining has contributed greatly to China's economy, it causes land subsidence that results in eco-environmental problems, such as disruption of hydrologic regimes,loss of topsoil, and degradation of landscape (Bell et al., 2000; Sidle et al.，2000; Yang et al.， 2016). These serious impacts have threatened plants survival and the sustainability of natural vegetation communities, accompanying by the loss of physical-chemical and biological properties of soil (soil nutrient availability, organic matter content, and/or microbial community) (Shrestha and Lal, 2011; Li et al., 2014). In general, the physical-chemical and biological properties of soil determine soil quality and fertility,and soil degradation inhibits the potential for vegetation reestablishment. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Shendong coalfield,located at the border of Shanxi， Shaanxi and Inner Mongolia,is currently the largest coal reserves in China (Lei et al.,2O1O). Subsidence in this coalfield has become a longstanding environmental issue since high-intensity exploitation began in the mid-1980s,and has led to a very fragile and degraded ecosystem, which is susceptible to both anthropogenic activities and climatic conditions in semi-arid region (Zhang et al.,2012). Moreover, there are problems of surface soil loose,groundwater level recession and soil nutrient loss,which exacerbate the soil degradation (Cheng et al.,2007; Lei et al.,2010). In particular, this process also inhibits the formation of mycorrhizal roots and its hyphal network in soils,resulting in a reduction of mycorrhizal propagules,which further attenuates the symbiotic relationship between plants and arbuscular mycorrhizal fungi (AMF). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AMF are the most widespread mutualistic symbionts formed between plants roots and the surrounding soils. The fungal mycelium constructs a huge mycelium network through extending from the mycorrhizal roots (Rillig and Steinberg, 2O02). The network system can enhance water and the mineral nutrition absorption (particularly phosphorus) under stressed conditions (nutrient deficiency， drought or degraded soils)(Cumming and Ning,2Oo3； Taheri and Bever, 2010; Lazcano et al., 2O14). The mycelium also provides a bonding mechanism to the formation and stabilization of soil aggregates,thus contributing to soil quality (Zhang et al.， 2Ol4). There is considerable evidence showing that AMF have the potential to increase the tolerance of host plants against biotic and abiotic stresses. Arbuscular mycorrhizal (AM) symbiosis can alleviate the drought stress symptoms of host plants via altering the rates of water uptake and transport from AM (arbuscular mycorrhizal) hyphae to their host plants' roots (Marulanda et al.,2003), thereby regulating root hydraulic properties (e.g. root hydraulic conductivity) (Barzana et al., 2014)，accumulating more solutes involved in osmotic adjustment (Aroca et al., 2007; Bheemareddy and Lakshman, 2O11),and enhancing the gas exchange of plant (Habibzadeh et al., 2013). AM symbiosis can plays a crucial role in plant development by improving nutrient uptake through N fixation (Sanaa et al.,2016), phosphorus acquisition (Liu et al., 2014),and contributing to the formation of water-stable soil aggregates (Rilig， 2Oo4)，especially when facing nutrient-poor soils. In addition,AM symbiosis can increase carbon fixation of plants and the carbon inputs to soil through mycorrhizal fungi thereby enhancing ecosystem carbon storage (Orwin et al., 2011). Moreover, the activity and diversity of AMF can affect plant community composition, structure and dynamics to some extent (Barea et al., 2011). Therefore,AMF are considered critical for the stability of vegetation community in arid or semi-arid ecosystems (Zhang et al., 2Ol2), including prairie,coal mine spoiled soils or subsided soils (White et al., 2008;Li et al., 2015; Zhao et al.， 2015). Loss of mycorrhizal propagules in degraded soil can block the revegetation process in semi-arid environment, while the addition of exotic AMF agents may help plants establishment in these situations (Requena et al., 20o1; Veresoglou et al., 2012; Bi et al.， 2014). Thereby，revegetation with AMF agents may be beneficial for restoring vegetation communities and ameliorating soil properties in degraded ecosystem. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Once revegetation has been successfully established, it is necessary to investigate whether the changes of rhizosphere soil properties are associated with the inoculation of exotic AMF agents. The chemical properties and enzyme activities of soil are often considered as sensitive indicators for soil quality, which reflect the status of soil nutrient cycling (Caravaca et al., 2OO3; Pereira et al.,2008). However, there are few reports studying the changes of soil chemical and biological parameters during revegetation associated with both AMF inoculation and reclamation time in the mining subsidence areas. Hence,our study aims to evaluate the inoculation effects of exotic AMF agents on chemical properties and enzyme activities of rhizosphere soil in subsided land in northwestern China,in order to identify the significance of long-term effect of AMF inoculation on chemical and biological properties of the degraded soil. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study site and field experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was carried out on reclaimed coal mining subsidence located in Shendong coal mining sites， Daliuda town， Shenmu County， Shaanxi Province of China $( 3 9 ^ { \\circ } 1 4 ^ { \\prime }  – 3 9 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { N }$ $1 1 0 ^ { \\circ } 1 0 ^ { \\prime } { - } 1 1 0 ^ { \\circ } 1 6 ^ { \\prime } \\mathrm { E } )$ . The climate in the study area belongs to arid and semi-arid continental monsoon climate, with an approximate altitude of $1 2 0 0 \\mathrm { ~ m ~ a . s . l }$ ，The annual mean temperature is $8 . 9 ^ { \\circ } \\mathrm { C }$ and annual mean sunshine time is $2 8 7 6 . 0 \\mathrm { ~ h ~ }$ . According to local meteorological data, the mean annual precipitation is about $4 2 2 . 7 \\ \\mathrm { m m }$ ，which mainly occurs from June to September, whereas the mean annual evaporation is $2 2 1 1 . 2 \\ \\mathrm { m m }$ . Soil type is classified as aeolian sandy, and the soil characteristics are as follows: soil organic carbon (SOC) $3 . 6 5 ~ \\mathrm { g / k g }$ , total nitrogen (TN) $0 . 3 9 ~ \\mathrm { g / k g }$ ， Olsen phosphorus (P) $2 . 8 1 ~ \\mathrm { m g / k g }$ ， available potassium (K) $4 5 . 8 0 ~ \\mathrm { m g / k g }$ ， maximum water-holding capacity $2 0 . 1 0 \\%$ and $\\mathfrak { p H }$ value 8.51. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land reclamation and ecological reconstruction were studied for ten years in this region, such as artificial revegetation,land reclamation and improvement of soil fertility (Bi et al.,2Oo3; Yu et al.,2013; Li et al.,2015; Wang et al., 2016). Ten pre-existent trails in the years of 2008 (7-year), 2011 (4-year),2012 (3-year), 2013 (2-year) and 2014 (1-year) at Daliuta Mine were revegetated with Amorpha fruticose Linn. A. fruticose is one of the drought-tolerant legumes and widely cultivated for sand-fixation on the semi-arid sand land in Northwest China (Qi et al.,2O15). It has been shown to be highly dependent on arbuscular mycorrhizal microsymbionts.Two plots were set up in each reclamation year: AMF inoculation treatment (AMF） and control (CK). The inoculated plot received $5 0 \\ \\mathrm { g }$ of inoculum per seedling at the roots area, while the control plot was added with equivalent sterilized AMF inoculum. The introduced AMF inoculum, Funneliformis mosseae BGCXJO1, was provided by Beijing Academy of Agriculture and Forestry Sciences, and cultivated with maize for three months in sterile sand, which consisted of spores (262 spores per $\\mathtt { 1 0 ~ g }$ soil),external mycelium,and infected root fragments ( $90 \\%$ root mycorrhizal colonization). Each plot had an area of $6 0 ~ \\mathrm { m } { \\times } 1 0 0 ~ \\mathrm { m }$ and was mainly covered by pure A. fruticose, except for a few native shrubs and grasses, such as Artemisia ordosica, Hedysarum scoparium, Stipa grandis, and Salix psammophila, etc. (Chen et al.,2002).A. fruticose seedlings with a height of $3 0 { \\mathrm { - } } 4 0 ~ { \\mathrm { c m } }$ were obtained from local garden nursery base. Seedlings were annually transplanted at a density of $2 \\ \\mathrm { m } { \\times } 2 \\ \\mathrm { m }$ into the plots in May. Several times of irrigation were applied as required at initial growth stage, and no further management was provided. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Sampling ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil samples were collected from ten plots in August, 2015. Six individual subplots $( 2 0 \\mathrm { m } { \\times } 1 0 \\mathrm { m } )$ in each plot were selected for replicates.Rhizosphere soils and fine roots from ten A. fruticose plants at each subplot with an S-shaped patern were collected as sub-samples and then they were mixed to form a pooled sample. We used a wide shovel to collect soils surrounding the roots in $\\textstyle 0 - 4 0 \\mathrm { c m }$ soil profile.A total of sixty soil samples with each ca. $5 0 0 ~ \\mathrm { g }$ were placed in sterilized plastic bags and then taken back to laboratory in ice cooled refrigerator. The plant residues or other visible impurities were removed from the soil samples, which were then divided into two parts and sieved with a 2-mm mesh. One part was air-dried and used for the measurement of soil chemical properties and mycorrhizal characteristics,and the other part was stored at $4 ^ { \\circ } \\mathrm { C }$ for assessment of soil enzyme activities,i.e., soil invertase,catalase,urease,and alkaline phosphatase. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Mycorrhizal characteristic analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fine roots were cut into $1 . 5 – \\mathrm { c m }$ -long segments and then cleared in $10 \\%$ KOH, stained with $0 . 0 5 \\%$ w/v trypan blue for $2 4 \\mathrm { ~ h ~ }$ ，and distained in acid glycerol (Phillips and Hayman，197O). Root mycorrhizal colonization was measured by the glass slide method, in which two groups of 15 randomly selected root segments in each plot $( n { = } 1 8 0 )$ ）were examined microscopically according to Giovannetti and Mosse (1980). The percentage of root mycorrhizal colonization was calculated by dividing the number of colonized roots by the total number of examined root samples. We measured glomalin-related soil protein (GRSP), including total GRSP(T-GRSP) and easily extracted GRSP (EE-GRSP)， based on the method of Wright and Upadhyaya (1996).Briefly， EE-GRSP was extracted with citric alkaline $( 2 0 \\mathrm { \\ m M } , \\mathrm { p H \\ 7 } . 0 )$ by autoclaving the samples for $3 0 ~ \\mathrm { m i n }$ $( 1 2 1 ^ { \\circ } \\mathrm { C } )$ ， followed by centrifuging at $_ { 1 0 , 0 0 0 ~ g }$ for $5 \\ \\mathrm { m i n }$ and collecting the supernatant. For T-GRSP, the same soil sample was extracted with $5 0 ~ \\mathrm { m M }$ citric alkaline at $\\mathrm { p H } 8 . 0$ and centrifuged at $_ { 1 0 , 0 0 0 g }$ for $5 ~ \\mathrm { { m i n } }$ ， followed by four cycles of extraction and centrifugation until the supernatant was almost transparent. We described GRSP concentration as the protein content per gram of dried soil based on Bradford assay.Bovine serum albumin (BSA) was used as a standard. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Analyses of soil chemical properties and enzyme activities ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SOC was analyzed by dichromate-sulphuric acid oxidation with heating. TN was measured using the semi-micro Kjeldahl method. Olsen $\\mathrm { ~ \\bf ~ P ~ }$ was determined by the sodium bicarbonate-extractable $\\mathrm { \\bf P }$ colorimetric method. Soil available K was extracted with $1 \\mathrm { m o l / L }$ ammonium acetate $\\left( \\mathrm { p H } 7 . 0 \\right)$ and determined using ICP-OES (Optima5300 DV, Perkin Elmer, Norwalk, CT, USA) (Bao, 1998). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The activity of soil invertase，catalase, urease, and alkaline phosphatase was determined according to Guan (1996). Soil invertase activity was measured by the method of 3, 5-dinitrosalicylic alkaline colorimetry. Soil catalase activity was determined by $\\mathrm { K M n O } _ { 4 }$ titration method. Soil urease activity was measured using phenol sodium hypochlorite colorimetry. Soil alkaline phosphatase activity was detected by the method of $\\mathfrak { p }$ -nitrophenyl sodium dihydrogen phosphate colorimetry. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All data were statistically analyzed using SAS software (8.O). Two-way ANOVA was conducted to evaluate the effects of AMF inoculation and reclamation time by the Least Significant Difference (LSD) test at $5 \\%$ significant level. Excel 2O1O was used to process the data and generate figures. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1Mycorrhizal characteristics ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mycorrhizal colonization of $A$ . fruticose roots in all plots was found to be infected due to the presence of indigenous AMF or introduced AMF agents,but the mycorrhizal plants showed significantly higher root mycorrhizal colonization than the control plants by $3 3 . 3 \\%$ to $1 6 3 . 0 \\%$ $( P { < } 0 . 0 5$ ； Fig.la). Root mycorrhizal colonization in the inoculated group significantly increased with reclamation time, ranging from $3 2 . 2 \\%$ to $6 3 . 3 \\%$ , whereas the colonization in controls ranged from $12 . 2 \\%$ to $4 4 . 4 \\%$ . T-GRSP and EE-GRSP concentrations were significantly higher in inoculated soils than in the control soils,besides the T-GRSP in 1-year reclamation experiment and the EE-GRSP in 2-year reclamation experiment $( P { < } 0 . 0 5$ ； Figs. 1b and c). Among all inoculated treatments, there was a positive correlation between T-GRSP concentration and reclamation time, except for the 4-year reclamation. In contrast, EE-GRSP concentration reached peak in 3-year reclamation,but was not obviously diferent from that in 7-year reclamation. Similarly, the same trends of T-GRSP and EE-GRSP were observed in non-inoculated groups. The two-way ANOVA analysis showed that root mycorrhizal colonization, T-GRSP and EE-GRSP were significantly influenced by AMF inoculation and reclamation time ( $( P { < } 0 . 0 0 1$ ； Table 1). In addition， T-GRSP and EE-GRSP concentrations were also significantly influenced by the interaction of AMF inoculation and reclamation time $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7181da0d7731a1c36a71a93a5250e74ee8f67e42db453d00e9c5ed6ea0bc2978.jpg",
+        "img_caption": [
+            "Fig.1 Mycorrhizal characteristics of rhizosphere soil of $A$ .fruticose under five reclamation times and two treatments.(a）root mycorrhizal colonization；(b）total glomalin-related soil protein(T-GRSP);(c） easily extractable glomalin-related soil protein (EE-GRSP).CK,control; AMF,arbuscular mycorrizal fungi. Bars indicate standard errors $\\scriptstyle ( n = 6 )$ . Different lowercase letters (among five CK treatments) or capital letters (among five AMF inoculation treatments) indicate significant differences $_ { ( P < 0 . 0 5 ) }$ as determined by LSD test. \\* indicates significant differences between AMF inoculation and control at the same reclamation time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Soil chemical properties ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared to non-inoculated plants, SOC content was higher in the inoculated soils in the same reclamation year. However, no significant differences were observed between inoculated soils and controls,besides the 7-year reclamation experiment ( $( P { < } 0 . 0 5$ ； Fig. 2a). A significant increase in SOC content was only observed in older AMF reclaimed soils at 7-year compared to non-AMF reclaimed soils,of which the increase of SOC content was more significant than those of newly AMF reclaimed soils. Contrary to SOC,TN content in soils was significantly higher in inoculated soils than in control soils， except for 4-year reclamation. Among all treatments, the highest contents of SOC and TN were found both in inoculated soils in 7-year reclamation with the maximum values of 8.45 and $0 . 5 0 ~ \\mathrm { g / k g }$ ,respectively (Figs. 2a and b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soil Olsen $\\mathrm { ~ \\bf ~ P ~ }$ and available K contents were also notably affected by the addition of AMF inoculation after 2 to 7 years of reclamation (Figs.2c and d).Soil Olsen Punder AMF inoculation ranged from 1.41 to $2 . 8 9 \\mathrm { m g / k g }$ , and was significantly higher than that of control soils besides the 1-year reclamation.Interestingly, the highest Olsen $\\mathrm { ~ \\bf ~ P ~ }$ appeared in inoculated soil at 2-year reclamation time,and did not increase further with longer reclamation time. Soil available K was significantly higher in inoculated soil for 7-year reclamation than any new reclamation time in either AMF inoculated or non-AMF inoculated soils $( P { < } 0 . 0 5$ ; Fig. 2d). In addition, the averaged ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SOC, TN, soil Olsen $\\mathrm { \\bf P }$ and available K in inoculated soils were significantly increased by $4 6 . 2 \\%$ $4 1 . 2 \\%$ ， $4 3 . 3 \\%$ ，and $3 1 . 6 \\%$ compared to CK,respectively.Moreover, these soil factors showed a positive correlation with reclamation time since their maximum values were found in 7-year reclaimed soil,regardless of whether the plants were AMF inoculated or not, except for soil Olsen P. In addition,AMF inoculation,reclamation time and their interaction had significant effects on the contents of SOC, TN, Olsen P, and available K (Table 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/48f2fe8b1d3a3352c53911dea16f3f9040af4520ae1bd81fa9fdad0d42152d0d.jpg",
+        "img_caption": [
+            "Fig.2Chemical properties of rhizosphere soil ofA.fruticose under five reclamation times and two treatments. (a) soil organic carbon;(b) total nitrogen; (c) Olsen P;(d) available K.CK,control; AMF,arbuscular mycorrizal fungi.Bars indicate standard errors $\\scriptstyle ( n = 6 )$ .Different lowercase letters (among five CK treatments） or capital letters (among five AMF inoculation treatments) indicate significant differences $_ { ( P < 0 . 0 5 ) }$ as determined by LSD test.\\*idicates significant diferences between AMF inoculationand the control at the same reclamation time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb66531a617a52d54ed7e1efc925534e5c2701c0390d56e851e5f06def110b4f.jpg",
+        "table_caption": [
+            "Table 1 $F$ -values of two-way ANOVA analysis on the impacts of AMF inoculation and reclamation time on mycorrhizal characteristics,soil chemical properties and enzyme activities under the canopy of A.fruticose in Shendong coalfield, China "
+        ],
+        "table_footnote": [
+            "Note:\\*,\\*\\*,and \\*\\*\\* indicate significances at $P { < } 0 . 0 5$ $P { < } 0 . 0 1$ ,and $P { < } 0 . 0 0 1$ levels,respectively. NS represents no significance.T-GRSP andEE-GRSPrepresenttotalandeasilyextractedglomalin-relatedsoilproteins,respectivelySOC,soilorganiccarbon;T,total nitrogen; Olsen P,available phosphorus;K,potassium. "
+        ],
+        "table_body": "<html><body><table><tr><td>Dependent variable</td><td>Reclamation ti(me T)</td><td>AMF inoculation (I)</td><td>TxI</td></tr><tr><td>Mycorrhizal colonization</td><td>126.46***</td><td>266.83***</td><td>1.25NS</td></tr><tr><td>T-GRSP</td><td>203.33***</td><td>114.43***</td><td>6.73*</td></tr><tr><td>EE-GRSP</td><td>45.63***</td><td>101.10***</td><td>3.72*</td></tr><tr><td>SOC</td><td>73.11***</td><td>25.58***</td><td>3.68*</td></tr><tr><td>TN</td><td>274.73***</td><td>64.30***</td><td>2.96*</td></tr><tr><td>Olsen P</td><td>618.24***</td><td>817.94***</td><td>129.80***</td></tr><tr><td>Available K</td><td>448.92***</td><td>244.68***</td><td>26.47***</td></tr><tr><td>Invertase</td><td>1252.31***</td><td>154.90***</td><td>65.17***</td></tr><tr><td>Catalase</td><td>324.87***</td><td>63.01***</td><td>14.17***</td></tr><tr><td>Urease</td><td>2435.88***</td><td>50.95***</td><td>13.78***</td></tr><tr><td>Alkaline phosphatase</td><td>201.51***</td><td>19.04**</td><td>1.70NS</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Soil enzyme activities ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The addition of AMF inoculation increased soil invertase activities compared to controls, except for l-year reclamation (Fig. 3a). However, no significant diference was observed for 7-year reclamation between inoculated and non-inoculated soils. Catalase activities were significantly higher in inoculated soils for 1-,4-,and 7-year of reclamation than those controls ( $( P { < } 0 . 0 5$ ; Fig. 3b). Similarly, the inoculated soils reclaimed for 2-,4-,and 7-year had significantly higher urease activities than controls $( P { < } 0 . 0 5$ ； Fig. 3c)，whereas inoculated soils with 3-year reclamation showed insignificantly lower catalase and urease activities compared to controls (Figs.3b and c). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The inoculated soils with 7-year reclamation showed the highest alkaline phosphatase activities among all treatments，but not significantly compared to controls. There were significant differences in soil alkaline phosphatase activities between inoculation treatments and controls with 2- and 3-year reclamations (Fig. 3d). The averaged soil invertase,catalase,urease,and alkaline phosphatase activities across five reclamation years were $23 . 8 \\%$ ， $2 1 . 3 \\%$ ， $1 8 . 8 \\%$ ，and $8 . 6 \\%$ in inoculated soils, respectively, which are significantly higher than controls. Overall, soil enzyme activities increased with reclamation time in both AMF reclaimed and non-AMF reclaimed soils, and reached the maximum values in inoculated soils at 7-year reclamation. AMF inoculation, reclamation time and their interaction had significant effects on soil invertase, catalase,urease,and alkaline phosphatase activities of A.fruticose (Table 1), except for the effect of their interaction on alkaline phosphatase. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d67494b1e8b10f9cd37bb666d53ddb3f97ee6227227a861fad87f1e88bb32e84.jpg",
+        "img_caption": [
+            "Fig.3Enzyme activities ofrhizosphere soil ofA.fruticose under five reclamation times and two treatments.(a) invertase; (b)catalase; (d) urease; (d)alkaline phosphatase.CK,control; AMF,arbuscular mycorrhizal fungi.Bars indicate standard errors $\\scriptstyle ( n = 6 )$ . Different lowercase letters (among five CK treatments) or capital letters (among five AMF inoculation treatments) indicate significant differences $_ { ( P < 0 . 0 5 ) }$ as determined by LSD test.\\* indicates significant differences between AMF inoculation and control at the same reclamation time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4Relationships among soil properties in AMF and non-AMF reclaimed mine soils ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Correlation coefficient analysis showed that root mycorrhizal colonization had a positive correlation with most of the soil properties in both AMF and non-AMF reclaimed soils, besides soil Olsen $\\mathrm { ~ \\bf ~ P ~ }$ (Table 2). Similarly, both T-GRSP and EE-GRSP were positively correlated with SOC,TN,available K, invertase, catalase,urease,and alkaline phosphatase activities. In addition, a close correlation was observed between T-GRSP and EE-GRSP in either AMF or non-AMF reclaimed soils. However, root mycorrhizal colonization was positively correlated with available K in AMF reclaimed soils( $\\scriptstyle { \\mathcal { R } } ^ { 2 } = 0 . 6 4 1$ ， $\\scriptstyle P < 0 . 0 1 { \\\\mathrm { ~ . ~ } }$ ）but not in non-AMF reclaimed soils $\\scriptstyle { \\langle R ^ { 2 } = 0 . 5 0 0 }$ $P { > } 0 . 0 5$ ). SOC，TN,available K,and soil enzyme activities displayed a significantly positive association with the other soil properties except for soil Olsen P. Interestingly, soil Olsen P was either not correlated or only weakly correlated with the other soil parameters in both AMF and non-AMF reclaimed soils. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7d2c88e882987d6bf8dc1aec90aeae687440d14a93f99a7e3331c92d5d8e60d.jpg",
+        "table_caption": [
+            "rrrrr ree rrr lerrnirlrrerlrrr nre lrerlrrtglseee ",
+            "eereeieeeeergreneeeeerree "
+        ],
+        "table_footnote": [
+            "Treieiirleilrrreeieslisili eee "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Mycorrhizal colonization</td><td>T-GRSP</td><td>EE-GRSP</td><td>SOC</td><td>TN</td><td>Olsen P</td><td>Kavi</td><td>Invertase</td><td>Catalase</td><td>Urease</td></tr><tr><td>AMF reclaimed soils</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-GRSP</td><td>0.797**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>EE-GRSP</td><td>0.733**</td><td>0.827**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOC</td><td>0.725**</td><td>0.928**</td><td>0.682**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TN</td><td>0.804**</td><td>0.971**</td><td>0.792**</td><td>0.944**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Olsen P</td><td>-0.240</td><td>0.149</td><td>0.277</td><td>0.105</td><td>0.076</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Available K</td><td>0.641**</td><td>0.923**</td><td>0.672**</td><td>0.946**</td><td>0.924**</td><td>0.212</td><td></td><td></td><td></td><td></td></tr><tr><td>Invertase</td><td>0.827**</td><td>0.931**</td><td>0.690**</td><td>0.957**</td><td>0.940**</td><td>0.030</td><td>0.935**</td><td></td><td></td><td></td></tr><tr><td>Catalase</td><td>0.798**</td><td>0.782**</td><td>0.530*</td><td>0.825**</td><td>0.839**</td><td>-0.433</td><td>0.764**</td><td>0.840**</td><td></td><td></td></tr><tr><td>Urease</td><td>0.707**</td><td>0.867**</td><td>0.545*</td><td>0.927**</td><td>0.905**</td><td>-0.147</td><td>0.929**</td><td>0.934**</td><td>0.924**</td><td></td></tr><tr><td>Alkaline phosphatase</td><td>0.710**</td><td>0.948**</td><td>0.705**</td><td>0.968**</td><td>0.970**</td><td>0.062</td><td>0.965**</td><td>0.934**</td><td>0.860**</td><td>0.952**</td></tr><tr><td>Non-AMF reclaimed soils</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-GRSP</td><td>0.809**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>EE-GRSP</td><td>0.597*</td><td>0.770**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SOC</td><td>0.753**</td><td>0.894**</td><td>0.786**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TN</td><td>0.739**</td><td>0.969**</td><td>0.737**</td><td>0.915**</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Olsen P</td><td>-0.303</td><td>0.137</td><td>0.494</td><td>0.212</td><td>0.207</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Available K</td><td>0.500</td><td>0.844**</td><td>0.546*</td><td>0.786**</td><td>0.919**</td><td>0.282</td><td></td><td></td><td></td><td></td></tr><tr><td>Invertase</td><td>0.760**</td><td>0.973**</td><td>0.703**</td><td>0.875**</td><td>0.979**</td><td>0.177</td><td>0.921**</td><td></td><td></td><td></td></tr><tr><td>Catalase</td><td>0.883**</td><td>0.951**</td><td>0.684**</td><td>0.914**</td><td>0.951**</td><td>-0.029</td><td>0.824**</td><td>0.949**</td><td></td><td></td></tr><tr><td>Urease</td><td>0.649**</td><td>0.920**</td><td>0.638*</td><td>0.881**</td><td>0.971**</td><td>0.204</td><td>0.969**</td><td>0.961**</td><td>0.918**</td><td></td></tr><tr><td>Alkaline phosphatase</td><td>0.655**</td><td>0.908**</td><td>0.647**</td><td>0.862**</td><td>0.969**</td><td>0.192</td><td>0.946**</td><td>0.949**</td><td>0.913**</td><td>0.975**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results of 7-year trial supported the hypothesis that revegetation associated with AMF inoculation could improve the chemical and biological properties of soil during restoration. Mycorrhizal colonization rate reflects the ability of AMF to colonize host plant roots and is affected by various factors, such as AMF species,soil environment and human activities (Bai et al.,2009; Liu et al., 2014; Bonanomi et al.,2017). In this research,root mycorrhizal colonization of A.fruticose was significantly higher in AMF-inoculated treatments than in non-AMF inoculated treatments in each year, suggesting the exotic AMF ecotypes can wel adapt to local sandy soil. Taheri and Bever (2011） found that AMF species or ecotypes originating from the mined area showed greater colonization ability in mine soil than in native clay soil, suggesting that specific adapted fungi can beter promote plants under original environmental conditions. The nonindigenous AMF inoculum from laboratory collection was functionally compatible to the sandy soil in the study site,which makes it highly competitive for plant roots colonization. Furthermore, high mycorrhizal colonization during the revegetation period can contribute to more nutrient and water uptake from distant soil through AM hyphae and support the growth of $A$ ： fruticose in the lean and droughty environments (He et al., 2010). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "GRSP, quantified as glomalin-related soil protein, is mainly produced by the hyphae and spores of AM fungi, and accumulates in soils with up to 7-42 years of turnover time (Rilig,2004). This compound plays an important role in translocating carbon from plant roots to the soil. Previous studies have found a positive correlation between GRSP and SOC in soils from agricultural ecosystem (Zhang et al., 2014), pastures (Franzluebbers et al., 20o0), or rangeland (Bird et al., 2002). Our study also demonstrated that SOC was highly correlated with T-GRSP and EE-GRSP across all treatments in degraded soils ( $R ^ { 2 } { = } 0 . 9 6 2$ ， $P { < } 0 . 0 1$ ; $R ^ { 2 } { = } 0 . 7 6 4$ ， $P { < } 0 . 0 5$ ，respectively), indicating that GRSP was also important for C cycling and sequestration, especially in semi-arid ecosystems.In addition, T-GRSP and EE-GRSP contents in this study ranged from 0.10 to 1.15 $\\mathrm { m g / g }$ ，which was consistent with the study from Bai et al.(2O09） on the rhizosphere soil of Astragalus adsurgens Pall. in Mu Us Sandy Land near our target area, suggesting that the soils in this subsided area are disturbed and heavily degraded. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that revegetation can increase the productivity of degraded or disturbed soil through developing the extensive root systems via soil stabilization, or stimulation of soil microbial activity, thus providing the nutrients and SOC accumulation to the soil (Conesa et al.,2007; Sheoran et al.,2010; Levy and Cumming,2014). Moreover, the effect of revegetation with exotic AMF addition on improving chemical and biological properties of soil was more evident in this semi-arid region. Our results showed that there was a marked increase in SOC and available nutrient contents in AMF reclaimed soils.This finding was in accordance with other studies which have quantitatively addressed the AMF-mediated effects on degraded soil properties (Marschner and Baumann, 2003; Rilig and Mummey, 2006; Singh et al., 2008; Li et al.,2015). The increase of SOC content in 7-year AMF reclaimed soils was mainly due to the decomposed litter from fallen leaves and branches (Qi etal.,2O15),but it had also been related to the extent of exotic AMF colonization to the root, because the majority of glomalin secreted by hyphae and spores was also a component of organic matter (Haddad and Sarkar, 2003). Meanwhile， vegetation inoculated with AMF tends to reduce its decomposition rate through increasing the nutrient limitation of saprotrophs, thereby promoting C accumulation in soil (Read et al.,2O04). The increase of TN in the rhizosphere of shrub legume can be ascribed to an improvement in nodulation and nitrogen fixation capacity caused by AMF inoculation (Requena et al., 2001; Sanaa et al., 2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition, the symbiotic plants can produce more enzymes from the excess carbon by directly photosynthesizing carbohydrate (Orwin et al.,2011). The soil enzyme activities directly affected the available nutrient content in the rhizosphere soil (He et al.,2O10), which in turn provided soil microbes with more energy and nutrients to increase enzyme activities (Vazquez et al., 2000). This result indicates that AMF may indirectly influence the level of soil nutrients. Generally, invertase is involved in the metabolism of soil organic mater and catalyzes the production of glucose and fructose from sucrose. Catalase decomposes hydrogen peroxides into water and oxygen so as to inhibit the toxicity on plant organisms.Urease catalyzes $\\mathrm { N H _ { 4 } ^ { + } { - } N }$ released from urea and soil organic nitrogen,and alkaline phosphatase hydrolyzes both organic phosphorous esters and anhydrides of phosphoric acid into inorganic phosphorous.The positive correlations were also found between soil carbon, nitrogen, potassium,and soil invertase, catalase, urease, and alkaline phosphatase activities in the current study. However, soil Olsen P was not related to other soil parameters in this study,which is inconsistent with the previous studies that have shown AMF have a higher afinity for phosphate ions and facilitate of phosphorous uptake of host plants (Smith et al., 2000; Liu et al.,2014). This is possibly that the level of phosphorus content was notably low at reclaimed site and A. fruticose was in a rapid growth period with greater nutrients demand after 7 years of reclamation. But this needs further testing. Moreover,a positive correlation between root mycorrhizal colonization and available potassium was observed in AMF reclaimed soils $( P { < } 0 . 0 1 )$ ,but not in non-AMF reclaimed soils, indicating that inoculated plants with high root mycorrhizal colonization have the potential to accumulate available potassium in the rhizosphere soil. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, there were also significant improvements in soil chemical properties and enzyme activities of $A$ . fruticose rhizosphere soil in all inoculation treatments over time, except for soil Olsen P. In general, improvement in physical-chemical and biological properties of soil in degraded land can relate to revegetation period (Xu et al., 2009; Zhao et al., 2013), vegetation species (Marcin and Maria, 2010) or soil type (Qi et al.,2015). In this study,an evident increase in AMF colonization during vegetation establishment was observed, which could have critical effects on plant development and improvements of nutrients and enzymatic activities of AMF-inoculated soil. Mycorrhizal colonization can diferentially induce additional qualitatively or quantitatively changes in root exudates in rhizosphere soil, thus exerting an indirect effect on rhizosphere microbial populations (Vazquez et al., 20oo). It is also possble that an increase in soil glomalin may have important consequences for individual plant species in the improvement of soil aggregation, thus contributing to the maintenance of good water infiltration rates and adequate aeration for plant development, which in turn improves soil quality (Requena et al., 2001).This is consistent with the study of Requena et al. (200l) who found that exotic AMF could contribute to plant survival and soil TN and organic matter content from a 5-year trial in desertified ecosystem of Mediterranean region. Additionally, there was an interesting finding that 7-year reclaimed soil had the highest alkaline phosphatase activity, while the corresponding Olsen P was low, which may be supported by the hypothesis that when $\\mathrm { \\bf P }$ availability in soil is low and becomes a limiting factor, it will cause an overall increase in the activity of phosphatase secreted by roots (Azcón and Barea, 1998). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this study, we showed that revegetation associated with exotic AMF inoculum could improve soil nutrient availability and enzyme activities in mining subsidence region under nutrient deficiency and water shortage conditions. The AMF inoculated plant showed higher root mycorrhizal colonization, T-GRSP and EE-GRSP concentrations as well as an increase in SOC, TN, Olsen P, available K and enzyme activities compared to control. A significant increase in SOC content was found in 7-year AMF reclaimed soils compared to non-AMF reclaimed soils. A positive correlation between root mycorrhizal colonization and available K was observed in AMF reclaimed soils,indicating that AMF reclaimed soil with high root mycorrhizal colonization had the potential to accumulate soil available K. Among the vegetation inoculated with exotic AMF, the older reclaimed soil displayed significantly higher levels of soil nutrients (except for Olsen P) and enzyme activities compared to the newly reclaimed soil. These results which tracked the changes of soil chemical properties and enzyme activities with time led to a better understanding of the long-term effects of exotic AMF on mitigating soil erosion in restored ecosystem. Given the effort and expense of producing AMF, our results suggest that introducing AMF inoculation may be a recommended strategy to improve soil quality and support restoration of vegetation communities under soil nutrient deficiency and drought conditions in mining subsidence regions. Furthermore, selecting adapted strains of indigenous AMF that are compatible with A. fruticose or other indigenous plants may be able to acclimatize plants to the semi-arid and infertile environment in subsided soils. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The study was funded by the National Natural Science Foundation of China (51574253),the National High Technology Research and Development Program of China (2013AA102904),and the Open Research Project of the State Key Laboratory of Coal Resources and Safe Mining, China University of Mining and Technology (Beijing) (SKLCRSM16KFA01). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Aroca R,PorcelR,Ruiz-Lozano JM.2Oo7.Howdoesarbuscular mycorrhizal symbiosis regulate root hydraulic propertieand plasma membrane aquaporins inPhaseolus vulgaris under drought,cold or salinity streses?New Phytologist,173(4): 808-816.   \nAzconR,BareaJ.1998.MycorhizaldependencyofarepresentativeplantspeciesinMediteraneanshrublands (Lavandula spicaL.)asakeyfactortoitsuseforrevegetationstrategies indesertification-threatenedreas.AppliedSoilEcology,7(): 83-92.   \nBaiCM,HeXL,TangHL,etal.2O9.Spatialdistributionofarbuscular mycorrhizalfungi,glomalinandsoilenzymesuder the canopyofAstragalus dsurgens Pall in the MuUssandland, China.Soil Biology &Biochemistry,41(5): 941-947.   \nBao SD.1998.Soil Agricultural and Chemical Analysis.Beijing: China Agriculture Press,56-83.(in Chinese)   \nBarea JM,PalenzuelaJ,CorejoP,etal.2l2.Ecologicalandfunctionalrolesof mycorrhizas insemi-aridecosystemsof Southeast Spain.Journal of Arid Environments,75(12):1292-1301.   \nBarzana G,ArocaR,Bienert GP,etal.2O14.Newinsightsintotheregulationofaquaporinsbythearbuscular mycorhzal symbiosis in maize plants under drought stressand possble implications forplant performance.Molecular Plant-microbe Interactions,27(4): 349-363.   \nBellFG,Stacey TR,GenskeDD.2ooo.Mining subsidenceand its effectontheenvironmentsome diferingexamples. Environmental Geology, 40(1-2):135-152.   \nBheemareddyV S,Lakshman HC.2011.Effect of AM fungus Glomus fasciculatum on metabolite accumulation in four varieties of Triticum aestivum L.under short-term water stress.Vegetos,24(1):41-49.   \nBiYL,LiXL,ChristieP,etal.2Oo3.Growthandnutrientuptakeofarbuscular mycorhizal maize indifferent depthsofsoil overlying coal fly ash. Chemosphere,50(6): 863-869.   \nBiYL,Wang J,FengYB,etal.2O14.Efectofarbuscular mycorhizaonrootself-repairingactionofAmorphafruticoseL. in coal mining subsidence land inarid areas.Journal ofChina Coal Society,39(8):1758-1764.(in Chinese)   \nBirdSB,HerickJE,WanderMM,etal.2O2.Spatial heterogeneityofaggregatestabilityandsoilcarboninsemi-arid rangeland.Environmental Pollution,116(3): 445-455.   \nBonanomi G,ChiricoGB,Palladino M,et al.2017.Combined appicationof photo-selective mulching filmsandbeneficial microbesaffcts crop yieldand irrigation waterproductivity in intensive farming systems.Agricultural Water Management, 184: 104-113.   \nCaravacaF,Alguacil MM,Figueroa D,et al.20o3.Re-establishmentof Retama sphaerocarpaasa targetspecies for reclamationof soil physical and biological properties in asemi-rid Mediterrneanarea.Forest Ecologyand Management, 182:49-58.   \nChenYF,YuFH,DongM.O2.Scale-dependentspatialheterogeneityofvegetationinMuUssandyland,asemi-aridareaof China. Plant Ecology,162(1):135-142.   \nCheng,X,An S,Chen J,et al.2007.Spatial relationships among species,above-ground biomass,N,and $\\mathrm { ~ \\bf ~ P ~ }$ in degraded grasslands in Ordos Plateau, northwestern China.Journal of Arid Environments,68: 652-667.   \nConesa HM,Garcia G,FazA,etal.2Oo7.Dynamicsofmetal tolerantplantcommunities'developmentinmine tailings from theCartagena-La UnionMiningDistrict (SESpain)and their interest forfurtherrevegetationpurposes.Chemosphere,68(6):   \nCumming JR,Ning JC.2003.Arbuscular mycorhizal fungi enhancealuminium resistance of broomsedge (Andropogon virginicus L.). Journal of Experimental Botany, 54(386): 1447-1459.   \nFranzluebbersAJ,Wright SF,StuedemaJA.2oooSoilaggegationand glomalinunderpastures in the SouthernPiedmont USA. Soil Science Society of America Journal, 64(3): 1018-1026.   \nGiovanetiM,Mosse B.1980.An evaluationof technique for measuring vesicular-rbuscular mycorhizae infectioninroots. New Phytologist, 84(3): 489-500.   \nGuan SY.1996.Soil Enzymes and Research Methods.Beijing: China Agriculture Press,274-321.(in Chinese)   \nHabibzadehY,irzadA,ZardashtiMR,etal.2O13.Effectsofarbuscularmycorhialfungionseedand proteinyieldunder water-deficit stress in mung bean.Agronomy Journal,105(1):79-84.   \nHaddad MJ,Sarkar D.2Oo3.Glomalin,anewlydiscovered componentof soil organic matter:Part IRelationship with soil properties.Environmental Geosciences,10(3): 99-106.   \nHe XL,LiYP,ZhaoLL.2010.Dynamicsof arbuscular mycorhizal fungi andglomalin in the rhizosphereof Artemisia ordosica Krasch.in Mu Us sandland,China.Soil Biology & Biochemistry,42(8): 1313-1319.   \nLazcano C,Barrios-MasiasFH,JacksonLE.2014.Arbuscular mycorhizaleffectsonplant waterrelationsandsoil greehouse gas emissions under changing moisture regimes.Soil Biology & Biochemistry,74:184-192.   \nLei SG,Bian ZF,DanielsJL,etal.20l0.Spatio-temporalvariationofvegetationinanaridandvulnerablecoal miningregion. Mining Science and Technology,20(3): 485-490.   \nLevyMA,CummingJR.2014.Developmentof soils and communities of plants and arbuscular mycorrhizal fungi on West Virginia surface mines. Environmental Management,54(5): 1153-1162.   \nLi SP,BiYL,Kong WP,etal.015.Efectsofrbuscularmycorhzalfungionecologicalrestorationicoal minngareas. Russian Journal of Ecology, 46(5): 431-437.   \nLiYY,ChenLQ,Wen HY,etal..454 pyrosequencinganalysisofbacterial diversityrvealedbyacomparative studyofsoils from mining subsidence and reclamation areas.Journal of Microbiology and Biotechnology,24(3): 313-323.   \nLiu HL,TanY,NellM,etal.2014.Arbuscular mycorhizal fungalcolonzationof Glycyrhizaglabraroots enhancesplant biomas,phosphorus uptake and concentration ofroot secondary metabolites.Journal of AridLand,6(2):186-194.   \nMarcinC,Maria N.2010.Theefectof diferent tree speciesonthechemicaland microbial propertiesofreclaimed mine oils. Biology and Fertility of Soils,46(6): 555-566.   \nMarscher P,Bauma K.2O03.Changes inbacterialcommunitystructure induced bymycorhizalcolonisationin split-root maize. Plant and Soil,251(2): 279-289.   \nMarulandaA,AzconR,Ruiz-Lozano JM.2Oo3.Contributionofsix arbuscular mycorhizal fungal isolates to wateruptake by Lactuca sativa plants under drought stress.Physiologia Plantarum,119(4): 526-533.   \nOrwin KH,Kirschbaum M U,StJohn MG,etal.2011.Organic nutrient uptake by mycorrhizal fungi enhances ecosystem carbon storage: a model-based assessment. Ecology Letters,14(5): 493-502.   \nPereira R,Marques SM,Antunes SC,et al.2O08.Comparisonof portuguesesoils from different geographical regions using physicochemical,biological and biochemical parameters.Journal of Soils and Sediments,8(2):106-115.   \nPhilips JM, Hayman D S.1970.Improved procedures for clearing rootsand staining parasiticandvesicular-arbuscular mycorrhizal fungi forrapid assessmentof infection.Transactions oftheBritish Mycological Society,55(1):158-161.   \nQiYB,YangFQ,Shukla MK,etal.20l5.Desertsoil propertiesafter thirtyyearsofvegetationrestoration in Northern Shaanxi Province of China.Arid Land Research and Management, 29(4): 454-472.   \nReadDJ,LeakeJR,Perez-MorenoJ.o4.Mycorizalfungiasdriversofecosystemprocesss inheathandandborealforest biomes.Canadian Journal of Botany, 82(8): 1243-1263.   \nRequena N,Perez-SolisE,Azcon-Aguilar C,et al.2Ool.Managementof indigenous plant-microbesymbiosesaidsrestoration of desertified ecosystems. Applied and Environmental Microbiology, 67(2): 495-498.   \nRillg MC.2004.Arbuscular mycorhizae,glomalin,andsoilaggregation.CanadianJournalofSoil Science,84(4):355-363.   \nRillig M C, Mummey D L.2006.Mycorrhizas and soil structure.New Phytologist,171(1): 41-53.   \nRilig MC,Steinberg PD.20o2.Glomalinproduction byan arbuscular mycorrhizal fungus:a mechanismof habitat modification? Soil Biology & Biochemistry,34(9):1371-1374.   \nSana W,Tasnime M,MohamedH,etal.2016.EnhancedtransferofbiologicallyfixedNfromfababeanto intercropped wheat through mycorrhizal symbiosis.Applied Soil Ecology,107: 91-98.   \nSheora V,SheoranAS,PooniaP.20lo.Soilreclamationof abandoned mine landbyrevegetation:areview.International Journal of Soil, Sediment and Water,3(2): 1-20.   \nShresthaRK,Lal R.2011Changes inphysicalandchemical propertiesofsoil aftersurface mining andreclamation. Geoderma, 161(3-4): 168-176.   \nSidleRC,KamilI,Sharma A,etal.2Ooo.Streamresponse to subsidence fromundergroundcoal mining incentralUtah. Environmental Geology, 39(3-4): 279-291.   \nSingh BK,NunanN,RidgwayKP,etal.2Oo8.Relationshipbtweenassemblagesofmycohizalfungiandbacteriaonrass roots.Environmental Microbiology,10(2): 534-541.   \nSmithFA,Jakobsen I,Smith SE.20.Spatial diferences inacquisitionof soil phosphatebetween twoarbuscular mycorrhizal fungi in symbiosis with Medicago truncatula.New Phytologist,147(2):357-366.   \nTaheri WI,BeverJD.2010.Adaptationof plantsandarbuscular mycorrhizal fungi tocoal tailings inIndiana.Applied Soil Ecology,45(3): 138-143.   \nTaheri WI,BeverJD.2011.AdaptationofLiqudambarstyraciflua tocoaltailings is mediatedbyarbuscularmycorzalfungi. Applied Soil Ecology, 48(2): 251-255.   \nVazquezMM,CesarS,AzconR,etal.2Ooo.Interactiosbetweenarbuscularmycorhizalfungiandothermicrobialinoculants (Azospirillum，Pseudomonas,Trichoderma）and their efects on microbial populationand enzyme activities in the rhizosphere of maize plants.Applied Soil Ecology,15(3): 261-272.   \nVeresoglou SD,Chen BD,Rilig MC.2012.Arbuscular mycorrhizaand soil nitrogen cycling.Soil Biology&Biochemistry 46: 53-62.   \nWang ZG,BiYLJiang B,etal.2O16.Arbuscularmycorhizalfungi enhancesoilcarbonsequestrationinthecoalfields, northwest China.Scientific Reports,6:34336.   \nWhiteJA,Talaksen J,CharvatI.2Oo8.Theeectsofarbuscular mycorrhizal fungal inoculationataroadside prairie restoration site.Mycologia,2008:100(1): 6-11.   \nWrightSF,UpadhyayaA.1996.Extractionofanabundantandusual protein fromsoilandcomparison with hyphalproteinof arbuscular mycorrhizal fungi. Soil Science,161(9): 575-586.   \nXu QF,Jiang PK,Wang HL.2O09.Improvementof biochemicalandbiologicalpropertiesoferodedredsoilbyartificial revegetation.Journal of Soils and Sediments,10(2): 255-262.   \nYang DJ,Bian ZF,Lei SG2016.Impactonsoil physical qualities bythe subsidenceofcoal mining: acasestudyin Western China.Environmental Earth Sciences,75:652.   \nYuM,BiYL,Zhang CQ.2013.Lasting improvement effectsofarbuscular mycorhizalfungi and Bradyrhizobium japonicum onrhizosphere soil environment in mining subsidence.Transactions of the Chinese Societyof Agricultural Engineering, 29(8): 242-248.(in Chinese)   \nZhangFW,SongYX,ZhaoHM,etal.2012.Changesofprecipitationinfiltrationrecharge inthecircumstancesofcoalmining subsidence in the Shen-Dong Coal Field,China.Acta Geologica Sinica (English Edition),86(4): 993-1003.   \nZhangT,TianCY,SunY,etal.2O12.Dynamicsofarbuscular mycorrhizal fungi asociated withdesert ephemeralplantsin Gurbantunggut Desert. Journal of Arid Land, 4(1): 43-51.   \nZhang X K, Wu X,Zhang SX,etal.2014.Organic amendment effcts oaggregate-associatedorganic C,microbialbiomass C and glomalin in agricultural soils.Catena,123:188-194.   \nZhao RX,Guo W,BiN,etal.2O15.Arbusularmycorizalfungiafectthegrowth,nutrientuptakeand waterstausofaize (Zea mays L.) grown in two types of coal mine spoils under drought stress.Applied Soil Ecology,88: 41-49.   \nZhao ZQ,Shahrour I,Bai ZK,etal.2O13.Soils development inopencastcoal mine spoilsreclaimed for1-13 years in the West-Northern Loess Plateau of China.European Journal of Soil Biology,55:40-46. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

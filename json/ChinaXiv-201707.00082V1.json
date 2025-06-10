@@ -1,0 +1,392 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201603110431 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李鹏,李永春,史加亮,郑宪清,武国干,蒋玮,赵凯,明凤,潘爱虎,吕卫光,唐雪明.水稻秸秆还田时间对土壤真菌群落结构的影响.生态学报， 2017,37(13):4309-4317.   \nLi P,LiYC,ShiJL,ZhengXQ,WuGG,JiagW,ZhaK,ingF,anAH,LWG,TangXMRicestraretudierentdeoositioda altered soil fungal community structure.Acta Ecologica Sinica,2017,37(13）:4309-4317. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水稻秸秆还田时间对土壤真菌群落结构的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李鹏},²，李永春³，史加亮4，郑宪清，武国干}，蒋玮¹，赵 凯1，明 凤潘爱虎'，吕卫光，唐雪明1，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1上海市农业科学院生物技术研究所，上海201106  \n2复旦大学生命科学学院，上海200438  \n3浙江农林大学环境与资源学院，临安311300  \n4德州市农业科学研究院，德州253000  \n5上海市农业科学院生态环境保护研究所，上海201403",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为揭示水稻秸秆还田对土壤真菌群落结构的长期影响,采用荧光定量 PCR 和PCR-DGGE 技术分析了秸秆还田90,180,270 d和360d的土壤真菌基因丰度和群落结构组成演变趋势,并利用冗余分析(RDA)研究土壤真菌群落结构变化与环境因子的关系。结果表明;随着秸秆还田时间的增加,土壤真菌群体数量和多样性指数 $( H , R$ 和 $E$ )显著增加,在 $3 6 0 \\mathrm { ~ d ~ }$ 时达到最高。对 DGGE 图谱的特征条带进行胶回收、测序,系统进化分析表明,土壤真菌主要种群包括：接合菌（Zygomycete sp.）、盐腐霉菌（Pythium salinum）、肉盘菌（Uncultured Sarcosomataceae）、牛粪盘菌（Ascobolus stercorarius）、大链壶菌（Lagenidium giganteum）、青霉菌（Penicillum sp.）、曲霉属真菌（Aspergillus sp.）和疏绵状丝孢菌（Thermomyces lanuginosus）灰绿曲霉菌（Aspergilus glaucus）、禾谷多粘菌（Polymyxa graminis）和枝顶孢霉菌（Acremonium sp.）,其中青霉菌（Penicillum sp.）、曲霉属真菌(Aspergilus sp.）和枝顶孢霉菌(Acremonium sp.)具有纤维素降解能力,而枝顶孢霉菌（Acremonium sp.）在90d时成为新的优势菌群。RDA 分析表明,90d和180d秸秆还田与对照土壤的真菌群落结构较为类似,270d和 $3 6 0 \\mathrm { ~ d ~ }$ 的秸秆还田与对照土壤的真菌群落结构发生了明显变化。土壤有机碳、pH和速效磷是引起土壤真菌群落结构及多样性变异的主要因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：桔秆还田;多样性;土壤真菌;群落结构;基因丰度",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rice straw return of different decomposition days altered soil fungal community structure ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Peng1²,LI Yongchun³,SHI Jialiang4， ZHENG Xianqing，WU Guogan’,JIANG Wei1,ZHAO Kail，MING Feng², PAN Aihu',LU Weiguang5, TANG Xueming1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Biotechnology Institute of Shanghai Academyof Agricultural Sciences，Shanghai 2O11O6,China   \n2 School of Life Science of Fudan University，Shanghai 2O0438,China   \n3 School of Environmental and Resources of Zhejiang Agricultureand Forestry University，Lin'an 3113oo,China   \n4 Dezhou Academy of Agricultural Sciences，Dezhou 253000,China   \n5InstituteofEco-EnvironmentandPlant ProtectionofShanghai AcademyofAgricultural Sciences，Shanghai 201403，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Thedecompositionof plant residue islargelymediated by microrganisms，suchas soilfungi andbacteria,which areverysensitivetochanges intheirsoil environments.Numerous studiesatthe microbialcommunitylevel haveemphasizec the influenceof residuereturnon functional capacityandthecharacterizationof phenotypic traits.Furthermore，previous studies have also shown that fungidominate theearly stagesof decomposition insemi-natural unfertilizedsoils.The longtermimpactof strawreturnonsoil ecosystems,especiallyfungal geneabundanceandcommunitycomposition,isunclear.In the present study，basedontheanalysisof soil properties，we investigatedtheeffectof ricestraw returnonthe population size and community structure of soil fungi under diffrent straw return days，using real-timePCR and PCR-DGGE. Subsequently，the corelation between fungal communityandsoil environmental factorswasanalyzed using redundancy analysis（RDA).Treatments in the present study were based on different return days（90,180,270,and 36Od），and a soil with no straw returnand similar topographywasusedasthe control.Each treatment had thre replicates.The copy numbers of soil fungal ITS ranged from $2 . 6 1 \\times 1 0 ^ { 7 }$ to $6 . 4 6 \\times 1 0 ^ { 7 }$ per $\\mathbf { g }$ of dry soil and was greatly influenced by straw return days.The 360-d treatment yielded the highest copy numbers，whereas the 90-dtreatment yieldedthelowestcopy numbers. The diversity indices $( H , R$ ，and $E$ ）increased significantly with increasing straw decomposition time and reached maximum valuesunder the360-d treatment.The DGGE paternssugested that strawreturn altered the fungal community，and significant differenceswere observedamong thetreatmentswithdiferentreturn days.Eleven DGGE bandswerereamplified，sequenced，and aligned using BLAST；and phylogeneticanalysisrevealed that the soil fungal communityof the strawreturn included Zygomycete sp.，Pythiumsalinum，uncultured Sarcosomataceae，Ascobolus stercorarius，Lagenidium giganteum， Penicilium sp.，Aspergills sp.， Thermomyces lanuginosus，Aspergillus glaucus，Polymyxa graminis，and Acremonium sp.，among which Penicillium sp.，Aspergills sp.，and Acremonium sp.areable to degrade celulose.RDA analysis suggestedthe90-dand180-dtreatmentsweresimilarandclearlydistinctfromthe270-dand360-dtreatments along both the firstand second ordinationaxes，which indicateda pronounced diferenceinthecommunitycompositionof soilfungi atthelatestrawretumstageandaslightdiferencein theearlystage，respectively.Theeigenvaluesofthefirst two axes of the fungal RDA results were O.309 and O.144 and accounted for $8 0 . 7 \\%$ of the total eigenvalue，which suggested qualifiedordinationresults.The first two axes ofthe species-environment relationship from the RDA results explained $7 4 . 8 \\%$ of the total variance.Among the sixsoil parameters measured,theinfluenceofavailable K,alkaline-hydrolyzedN,total N were not significant ( $P { < } 0 . 0 5$ ），but soil organic carbon，pH，and available $\\mathrm { \\Delta P }$ were the main factors that influenced the variationoffungalcommunitystructureand diversity.Theresultssuggested thatlong-term strawreturn hada significant impact on soil fungal composition and that soil organic carbon, $\\mathrm { \\ p H }$ ， and available $\\mathrm { \\Delta P }$ are important factors in the dynamics of soil fungal communities. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: straw return ;diversity ;soil fungi; community structure ; gene abundance ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物是土壤生物区系中重要的功能组分和土壤生物群落的重要类群,对土壤的形成发育、物质循环和肥力演变等具有重大影响[1],是维持土壤资源持续性和生态系统功能的关键因素[2]。土壤微生物参与土壤有机质的分解及腐殖质的形成等过程[3],是土壤养分循环的主要驱动者,因而土壤微生物的生物量、活性和群落结构是土壤质量的重要方面[4]。土壤微生物对土壤有机质的变化十分敏感,能对土壤生态机制变化和环境胁迫做出反应，土壤微生物群落结构的组成和变化情况,是评价土壤健康程度或者土壤质量的早期重要指标[5]。在农田生态系统中还田秸秆是土壤有机质的重要来源之一[6],作物秸秆富含碳、氮、磷、钾等营养元素,是宝贵的自然资源。据估算世界每年产生约34亿t作物秸秆,因各种因素废弃或者焚烧的秸秆量占总秸秆量的 $6 0 \\%$ 以上[7],造成了养分资源的巨大浪费,并严重污染了环境。我国秸秆总产量居世界首位,其总产量已达6亿t,如何合理利用秸秆资源,保护环境,是关系到农业可持续发展的一个关键问题[8]。秸秆还田可以改善土壤结构[9],提高土壤有机碳含量[10]和土壤微生物活性[11],进而提高作物产量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作物秸秆主要是由木质素、纤维素、半纤维素等聚结的致密的碳水化合物组成[12],微生物作为产生纤维素酶类、木质素酶类的主要来源,在秸秆物质的降解过程中发挥了巨大的作用,添加秸秆为土壤微生物提供了丰富的碳源和氮源,促进了微生物的生长繁殖,提高了土壤微生物活性,特别是增加了真菌和细菌比例[13],引起土壤微生物群落结构的变化[14-15]。目前相关研究表明,秸秆还田会导致土壤细菌结构以及多样性发生显著变化[16-18]。土壤真菌由于具有较高的胞外酶活性且其酶种类比较全面,使其有很强的纤维素降解能力,在秸秆还田的过程中发挥重要作用,Bardgett等[19]研究表明,在秸秆降解的途径中,真菌的分解作用占据优势。Marschner等[20]采用磷酸脂肪酸(PLFA)和尼龙网袋法对小麦秸秆降解早期(30d内)的土壤进行分析,结果表明在秸秆降解1—2周时,土壤真菌的群落结构发生了显著得变化。由于秸秆在土壤中的自然降解是个长期过程,但目前自然条件下秸秆还田对土壤真菌群体数量和群落结构的长期影响尚鲜见报道。为此,本研究通过设置水稻秸秆还田不同时间（90,180,270,360d）,采用聚合酶链反应（polymerase chain reaction,PCR）-变性梯度凝胶电泳（denaturing gradient gel electrophoresis，DGGE）及荧光定量PCR 方法研究真菌群体数量和种群结构的演变趋势,并利用冗余分析（Redundancy Analysis-RDA）研究土壤真菌的群落结构变化与土壤性质的关联,为揭示土壤真菌对秸秆还田引起的微生境变化的适应与演变趋势,维持土壤生态系统功能的稳定提供理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计与样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤样品采自上海市崇明区长江农场秸秆还田长期定位试验田( $\\langle 3 1 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { ~ N } , 1 2 1 ^ { \\circ } 3 1 ^ { \\prime } \\mathrm { ~ E } \\rangle$ 。试验于 2013年10 月进行秸秆还田试验,稻秸还田量为 $6 0 0 0 ~ \\mathrm { k g / h m } ^ { 2 }$ （依据当地水稻产量 $6 0 0 0 ~ \\mathrm { k g / h m } ^ { 2 }$ ,并考虑根茎残茬折算）,稻秸秆经切碎后耕埋,耕深 $1 0 \\ \\mathrm { c m }$ ,并设置秸秆不还田对照。选定小区面积 $3 3 ~ \\mathrm { m } ^ { 2 }$ ,重复3次。分别在秸秆还田后90、180、270 d和 $3 6 0 \\mathrm { ~ d ~ }$ 采集秸秆还田和未秸秆还田土壤样品。采用五点取样法采集0— $1 0 \\ \\mathrm { c m }$ 土壤,混匀分装，一部分样品用液氮速冻后在 $- 2 0 \\%$ 保存,供分子生物学研究;另一部分用于土壤基本理化性质分析。土壤理化性质参照文献[21]进行分析,结果见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/01c3eaad734a80a5eb960edec53bcfad526f9e0391a4a830f808981da5153010.jpg",
+        "table_caption": [
+            "表1秸秆还田不同时间土壤理化性质",
+            "Table 1Soil properties at different days of rice straw decomposition "
+        ],
+        "table_footnote": [
+            "T代表处理(秸秆还田土壤）Treat（Straw decomposition soil);C代表对照（秸秆未还田土壤）Control（No straw decomposition soil)；同列不同小写字母表示差异显著( $\\scriptstyle P < 0 . 0 5 .$ "
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>pH (1:2.5HO)</td><td>有机碳 Organic C</td><td>总氮 Total N</td><td>碱解氮 Alk-hydr N</td><td>速效磷 Available P/</td><td>速效钾 Available K/</td></tr><tr><td></td><td></td><td>/（g/kg) 15.48± 1.27c</td><td>/（g/kg) 1.45±0.04a</td><td>/（mg/kg) 168.53±11.46b</td><td>（mg/kg)</td><td>(mg/kg)</td></tr><tr><td>C90</td><td>7.31±0.05b 7.28±0.07b</td><td>16.82±0.64c</td><td>1.47±0.05a</td><td>149.77±5.65c</td><td>11.29±1.08b 10.37 ±0.60b</td><td>121.97±8.84a 98.78±5.34b</td></tr><tr><td>T90 C180</td><td>7.26±0.12b</td><td>15.82±1.22c</td><td>1.45±0.03a</td><td>187.89±9.60a</td><td>13.69 ±0.62a</td><td>100.76±8.28b</td></tr><tr><td>T180</td><td>7.41±0.05b</td><td>17.27±1.21c</td><td>1.40±0.07a</td><td>161.28±13.21bc</td><td>14.76 ±0.49a</td><td>108.26±4.83a</td></tr><tr><td>C270</td><td>7.41±0.03b</td><td>15.82±0.51c</td><td>1.43±0.08a</td><td>184.67±11.56ab</td><td>13.74 ±0.53a</td><td>121.58±7.29a</td></tr><tr><td>T270</td><td>7.59±0.18ab</td><td>20.40±1.95b</td><td>1.38±0.06a</td><td>177.97±5.80ab</td><td>13.89 ±0.97a</td><td>101.70±7.72b</td></tr><tr><td>C360</td><td>7.45±0.06b</td><td>16.40±0.88c</td><td>1.39±0.07a</td><td>170.34±8.56b</td><td>13.89 ±0.76a</td><td>100.57±6.55b</td></tr><tr><td>T360</td><td>7.60±0.19a</td><td>25.80±2.78a</td><td>1.35±0.05a</td><td>160.66±10.53bc</td><td>14.23 ±0.89a</td><td>111.79±7.41ab</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤总 DNA 的提取及纯化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 the ISOIL for Beads Beating kit(NipponGeneCo.,Ltd.,Toyama，Japan）试剂盒提取土壤总 DNA,称取$0 . 5 \\mathrm { ~ g ~ }$ 于 $- 2 0 \\ \\mathrm { { ^ { \\circ } C } }$ 保存的土壤样品按试剂盒说明书进行土壤DNA提取，用 $3 0 ~  { \\mu \\mathrm { L } }$ 灭菌水溶解DNA，用 $1 . 0 \\%$ 琼脂糖凝胶电泳检测所提取的 DNA 片段大小,并用 NanoDrop ND-1000 核酸蛋白测定仪（NanoDrop Technologies，Inc.)测定DNA的浓度和质量,DNA样品于 $- 2 0 \\%$ 保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3土壤真菌群落结构的PCR-DGGE 分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用Veriti梯度PCR仪（Thermo Fisher Scientific Inc)进行真菌18S rRNA基因的PCR扩增,每个样品3次重复。以提取的总 DNA 为模板,引物为 NS7-GC 和 $\\mathrm { N S } 8 ^ { [ 2 2 ] }$ 。PCR 体系如下：无菌双蒸水 $3 1 . 7 ~ \\mu \\mathrm { L }$ ， $1 0 \\times$ Buffer ( $\\mathrm { \\Psi } _ { - } \\mathrm { M g C l } _ { 2 }$ ） ${ 5 . 0 ~ \\mu \\mathrm { L } }$ ， $\\mathrm { { d N T P s } }$ （各 $2 . 5 \\ \\mathrm { m m o l / L } ) 5 . 0 \\mu \\mathrm { L } , 2 5 \\ \\mathrm { m m o l / L } \\ \\mathrm { M g C l } _ { 2 } \\ 3 . 0 \\ \\mu \\mathrm { L }$ ，引物 $1 ( 1 0 ~ \\mu \\mathrm { m o l / L }$ )和引物2（ $1 0 ~ \\mu \\mathrm { m o l / L }$ 各 $0 . 5 ~ \\mu \\mathrm { L }$ ,牛血清血蛋白 $\\mathrm { ' B S A - 1 0 ~ m g / m L ) } 1 . 0 ~ \\mu L , 3 \\%$ 去离子甲酰胺 $1 . 0 ~ \\mu \\mathrm { L }$ ,Taq酶( $5 0 / \\mu \\mathrm { L }$ -宝生物工程(大连)有限公司) $0 . 3 ~ \\mu \\mathrm { L }$ ,DNA模板( $( 2 0 \\mathrm { n g } / \\mu \\mathrm { L } ) 2 . 0 \\mu \\mathrm { L } _ { \\mu }$ 。PCR反应条件：反应条件： $9 4 ^ { \\circ } \\mathrm { C }$ 预变性 $3 ~ \\mathrm { m i n }$ ;（204号 $9 5 \\mathrm { ^ { \\circ } C }$ 变性 $4 5 \\ \\mathrm { s } , 5 0 ^ { \\circ } \\mathrm { C }$ 退火 $4 5 \\ \\mathrm { s } , 7 2 \\mathrm { ^ c }$ 延伸 45 s(35个循环);最后 $7 2 \\%$ 延伸 $1 0 ~ \\mathrm { m i n }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用 DCodeTM Universal Mutation Detection System（Bio-Rad Laboratory,Inc.）,在变性剂梯度为 $3 0 \\%$ 一 $6 0 \\%$ 的聚丙烯酰胺凝胶上进行变性梯度凝胶电泳（DGGE）。使用 $4 0 \\%$ 丙烯酰胺/双丙烯酰胺凝胶 $( 3 7 . 5 { : } 1 )$ ，电泳缓冲液为 $1 { \\times } \\mathrm { T A E }$ 。电压 $8 0 \\mathrm { V } , 6 0 \\mathrm { ^ { \\circ } C }$ ,电泳 $^ { 1 3 \\mathrm { ~ h ~ } }$ ,采用 $1 { : } 1 0 0 0 0 ( \\mathrm { v } / \\mathrm { v } )$ SYBR Green 染色 $3 0 ~ \\mathrm { m i n }$ ,染色结果用GelDocTM EQ（Bio-Rad Laboratory,Inc.）凝胶成像系统进行图像分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 DGGE 图谱中的主要条带进行切胶,DNA 回收,然后再分别以不带GC 夹的引物 NS7/NS8对回收条带DNA进行PCR扩增,将扩增产物利用 $\\mathrm { p M D ~ 1 8 { - } T }$ 载体进行克隆测序（生工生物工程（上海)股份有限公司）。登陆 NCBI通过 Blast软件将11条测序序列与GenBank 中的已知序列比对来确定测定序列的微生物种类。利用 Sequin软件向Genbank 提交11条测序序列,并获得登录号（KU510560-KU510570）。利用 MEGA 5.0软件基于DGGE 条带序列,进行 Bootstrap 验证系统发育分析,邻接法(Neighbor-joining,N-J)构建系统发育树。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4土壤真菌群体数量的荧光定量PCR分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用ABI StepOne Plus扩增仪（Thermo Fisher Scientific Inc)对真菌ITS rRNA基因进行荧光定量PCR扩增,引物为 NSI1和 $5 8 \\mathrm { A } 2 \\mathrm { R } ^ { [ 2 3 ] }$ ,每个样品3次重复。荧光定量PCR反应体系 $1 0 ~ \\mu \\mathrm { L }$ ,引物 NSI1和58A2R（ $1 0 ~ \\mu \\mathrm { m o l / L }$ 各 $0 . 2 5 ~ \\mu \\mathrm { L }$ ,2×SYBRPremixExTaqTM（宝生物工程（大连)有限公司） $5 ~ \\mu \\mathrm { L }$ ,模板 $4 ~ \\mu \\mathrm { L }$ ,用无菌$\\mathrm { d d H } _ { 2 } 0$ 补足至 $1 0 ~ \\mu \\mathrm { L }$ 。采用三步法进行荧光定量PCR:95C预变性 $3 \\ \\operatorname* { m i n } ; 9 4 \\ \\mathrm { ^ c } \\mathrm { , } 3 0 \\ \\mathrm { s } ; 5 3 \\ \\mathrm { ^ c } \\mathrm { , } 3 0 \\ \\mathrm { s } ; 7 2 \\ \\mathrm { ^ c } \\mathrm { , } 4 5 \\ \\mathrm { s } ;$ 40个循环。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以混合土样总DNA为模板进行真菌ITSrRNA基因 PCR 扩增。将 $1 0 0 ~ \\mu \\mathrm { L }$ PCR产物用 $1 . 5 \\%$ 琼脂糖凝胶电泳,切下含有ITS rRNA基因的条带,用AxyPrep DNA 凝胶回收试剂盒(爱思进生物技术(杭州)有限公司)纯化。使用 $\\mathrm { p M D ~ 1 8 { - } T }$ 载体(宝生物工程(大连)有限公司)连接PCR产物,连接产物转化到大肠杆菌 $\\mathrm { D H } 5 \\alpha$ 感受态细胞,在氨苄青霉素平板上进行蓝白斑筛选阳性克隆。取部分阳性转化菌液送生工生物工程(上海)股份有限公司进行测序,作为氨氧化古菌荧光定量PCR 分析的标准 DNA。利用Axygen AP-MN-P-50（爱思进生物技术(杭州)有限公司)试剂盒提取重组质粒 DNA,质粒 DNA 浓度使用 Nanodrop ND-100 测定。根据已知重组质粒全序列长度和阿伏伽德罗常数计算对应的ITS rRNA 基因拷贝数,以10倍梯度对重组质粒进行梯度稀释(拷贝数为 $1 0 ^ { 1 0 } { - } 1 0 ^ { 6 } )$ ,进行定量PCR扩增,每个梯度3次重复,制作标准曲线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理与统计分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS 18.0统计软件 IBMGroup，Inc.进行数据处理,使用新复极差法(SSR)多重比较检验差异显著性。采用Quantity One 4.4 软件（Bio-Rad Laboratory,Inc.)进行 DGGE 图谱分析,并采用未加权算术平均对群法（unweighted pair-group method using arithmetic averages,UPGMA）法对 DGGE 图谱进行聚类分析。运用 DiceCoefficient 法根据电泳图谱对样品进行相似性分析。使用香农-威纳指数（Shannon-Wiener index H）、丰度指数（R)和均匀度指数(E)对真菌群落多样性进行分析[24],其计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\sum { \\left( n _ { i } / N \\right) \\log ( n _ { i } / N ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = H / \\ln R\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $n _ { i }$ 为每条电泳条带光密度峰值； $N$ 是同一泳道中所有条带光密度峰值总和。电泳条带光密度的峰值通过分析软件Quantity one 进行读取。 $R$ 为每一泳道总的条带数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用CANOCO 4.5.1软件（Microcomputer Power,Ithaca,USA)对 DGGE 揭示的细菌群落结构与环境参数进行冗余分析（RedundancyAnalysis-5]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1秸秆还田不同时间土壤真菌的群体数量变化",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1可以看出，秸秆还田和秸秆未还田对照土壤的真菌ITSrRNA基因拷贝数在 $2 . 6 1 { \\times } 1 0 ^ { 7 } - 6 . 4 6 { \\times } 1 0 ^ { 7 }$ 拷贝/克干土。随着秸秆还田时间的增加,土壤真菌群体数量呈现上升趋势，360d的秸秆还田土壤真菌群体数量最高，90d的秸秆还田土壤真菌群体数量最低; $9 0 \\mathrm { ~ d ~ }$ 和270d的秸秆还田与各自对照相比，土壤真菌群体数量没有显著差异； $1 8 0 \\mathrm { ~ d ~ }$ 和360d秸秆还田与各自对照相比，土壤真菌群体数量显著增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2秸秆还田不同时间土壤真菌群落结构和多样性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用真菌特异性引物NS7-GC/NS8对18SrRNA基因进行PCR扩增，纯化后进行DGGE分析(图2)。图2中可以看出，随着秸秆还田时间的延长，PCR-DGGE图谱出现了较明显的差异，表明土壤真菌群落结构发生明显变化。常见菌群如条带 $_ \\mathrm { c , e , f , g , h , k }$ 在90,180,270、360d的秆还田和秸秆未还田的土壤对照中均存在，但条带的亮度发生明显的变化，说明常见菌群数量发生了变化；随着秸秆还田时间的增加,原有的优势菌群如条带a和b减弱或消失,新的优势菌群如条带 $\\mathrm { d } , \\mathrm { i } , \\mathrm { j }$ 出现或增强。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f321fa6293b851043ff2e902b9db953eb1e5b97aac01ac3e42ac1667a1273458.jpg",
+        "img_caption": [
+            "图1秸秆还田不同时间土壤真菌的ITSrRNA 基因拷贝数变化Fig.1Copy numbers of ITS rRNA genes in the soil DNA extractsas determined by quantitative PCR under different days of ricestraw decomposition（mean±SE）不同小写字母表示不同时间处理间差异显著( $P { < } 0 . 0 5 \\$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e505ea0a5b55a254ab5e9fe3d5073acc641bac6420f343e8dab48c1bc054583.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2PCR-DGGE analysis of soil fungal community structures in diffrent days of rice straw decomposition [:处理(秸秆还田土壤）Treat（Strawdecompostionsoil);C:对照(秸秆未还田土壤）Control（Nostrawdecompositionsoil)；I、II;3次重 复；图中小写字母代表测序DGGE条带 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对秸秆还田不同时间土壤真菌的DGGE 图谱条带进行多样性指数分析表明(表2),秸秆还田对真菌群落结构具有明显影响,随着秸秆还田时间的增加,多样性指数( $H , R$ 和 $E$ )均有升高趋势,在360d时,秸秆还田土壤真菌多样性指数达到最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "选取了11条DGGE 图谱主要条带进行序列切胶回收测序（图2）,分析秸秆还田后土壤真菌的群落演变过程。在Genebank中进行Blast序列比对,利用MEGA5.0构建系统发育树（图3）。结果表明,常见种群如条带c,e,f,g,h,k 分别与接合菌（Zygomycete sp.）、盐腐霉菌（Pythium salinum）、肉盘菌（UnculturedSarcosomataceae）、牛粪盘菌(Ascobolus stercorarius）、大链壶菌(Lagenidium giganteum）、青霉菌(Penicillum sp.)聚在一起;原有的优势种群如条带a和b与曲霉属真菌（Aspergilus sp.）和疏绵状丝孢菌（Thermomyceslanuginosus)聚在一起;新的优势种群如条带d、i、j与灰绿曲霉菌（Aspergillus glaucus）、禾谷多粘菌（Polymyxagraminis）枝顶孢霉菌（Acremonium sp.)聚在一起。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f9c94192fcb67ffe4287f13ba8f1addf53e45e71a74c6dda7ae3fc0671a864c.jpg",
+        "table_caption": [
+            "表2秸秆还田不同时间土壤真菌PCR-DGGE图谱多样性指数"
+        ],
+        "table_footnote": [
+            "T代表处理(秸秆还田土壤);C代表对照(秸秆未还田土壤);同列不同小写字母表示差异显著( $P { < } 0 . 0 5 \\$ 0"
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>香农-威纳指数(H) Shannon-Wiener index</td><td>丰富度(R) Richness</td><td>均匀度(E) Evenness</td></tr><tr><td>C90</td><td>2.31±0.18b</td><td>25.32±0.39ab</td><td>0.94±0.12a</td></tr><tr><td>T90</td><td>2.28±0.14b</td><td>26.91±0.53a</td><td>0.95±0.10a</td></tr><tr><td>C180</td><td>1.99±0.09b</td><td>21.84±0.65b</td><td>0.82±0.03b</td></tr><tr><td>T180</td><td>2.71±0.10ab</td><td>25.44±0.76ab</td><td>0.93±0.02a</td></tr><tr><td>C270</td><td>2.14±0.15b</td><td>20.65±0.56b</td><td>0.91±0.03a</td></tr><tr><td>T270</td><td>2.60±0.12a</td><td>26.29±0.87a</td><td>1.00±0.08a</td></tr><tr><td>C360</td><td>2.45±0.09b</td><td>25.66±0.54ab</td><td>0.98±0.03a</td></tr><tr><td>T360</td><td>2.80±0.10a</td><td>28.82±0.32a</td><td>1.01±0.02a</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3秸秆还田造成土壤真菌群落结构和多样性的主因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以秸秆还田不同时间土壤真菌 DGGE 图谱和土壤理化性质为两个变量组,进行 RDA 分析（图4,表3）。结果表明,水稻秸秆还田后,土壤真菌群落结构发生明显改变,而随着秸秆还田时间的延长,不同阶段土壤真菌群落差异明显。90d和180d秸秆还田和对照土壤样地较为接近,说明其真菌群落结构相似度较高,秸秆还田早期还未对真菌群落结构造成明显影响;270d和 $3 6 0 \\mathrm { ~ d ~ }$ 的秸秆还田和对照土壤样地差异较大,说明其真菌群落的优势菌种发生变化,群落结构相似度较低,随着秸秆还田时间的增加,秸秆还田已经引起真菌群落结构显著变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知,RDA 排序3个排序轴的特征值分别为0.309、0.144和0.067,真菌群落组成与环境因子3个排序轴的相关系数分别为 $0 . 8 6 7 , 0 . 8 8 5$ 和0.875。前两轴的特征值占总特征值 $8 0 . 7 \\%$ ,说明排序效果很好。前两轴的物种与环境相关系数较高，共解释了物种-环境关系总方差的 $7 4 . 8 \\%$ 。图4表明,土壤有机碳、 $\\mathrm { \\Delta \\cdot \\ p H }$ 值和速效磷对真菌群落结构的影响达到显著水平( $P < 0 . 0 5 )$ ）,是引起土壤真菌群落结构及多样性变异的主要因素，而速效钾和总氮的影响最小。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/522df4e0a96b1871aa0e663e6be0b9ccbd77631a52bc546e109be4db53333a34.jpg",
+        "table_caption": [
+            "表3RDA排序结果",
+            "Table 3RDA ordination summary "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>排序轴1Axes 1</td><td>排序轴2Axes 2</td><td>排序轴3Axes3</td><td>排序轴4Axes4</td></tr><tr><td>特征值 Eigenvalue</td><td>0.309</td><td>0.144</td><td>0.067</td><td>0.041</td></tr><tr><td>物种-环境相关性 Species-environment correlations</td><td>0.867</td><td>0.885</td><td>0.875</td><td>0.909</td></tr><tr><td>累计百分比方差 Cumulative percentage variance 数据物种of species data</td><td>30.9</td><td>45.2</td><td></td><td>56.1</td></tr><tr><td>物种-环境关系 of species-environment relation</td><td>51.0</td><td>74.8</td><td>52.0 85.9</td><td>92.7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5e65cdeb23cad1b30f86dcad9ff55decbde224544ab2ca0d347155c837428a1.jpg",
+        "img_caption": [
+            "图3秸秆还田不同时间土壤真菌DGGE条带序列的系统发育树 Fig.3Phylogenetic tree based on soil fungal DGGE profiles in different days of rice straw decomposition "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究采用RDA分析了秸秆还田和对照土壤的6个环境因子对土壤真菌群落结构的影响,发现土壤土壤有机碳、 $\\mathrm { \\Phi _ { \\cdot } p H }$ 值和速效磷与真菌群落变化的相关性大于其他环境因子,这与近来研究发现的土壤的 $\\mathrm { \\ p H }$ 值和有机碳是影响土壤微生物群落结构的重要因素相一致[26-27]。Sun 等[18]研究认为,土壤 $\\mathrm { \\ p H }$ 值是影响微生物群落结构最重要的因素之一。Lu等[28]研究发现,革兰氏阴性细菌的丰富度受到 $\\mathrm { \\ p H }$ 值的显著影响。在本研究中,对照土壤pH值呈先降低再升高的趋势,而秸秆还田土壤pH值呈现逐渐升高的趋势,在 $3 6 0 \\mathrm { ~ d ~ }$ 时 $\\mathrm { \\ p H }$ 值均达到最大,表明秸秆还田可以缓解土壤酸化,这也与兰丽丽等[29]实验结果一致。Liu等[30]研究表明,作物秸秆直接还田可以增加土壤有机碳含量,从而提高土壤肥力。本研究结果表明,相对于秸秆未还田对照,随着秸秆还田时间的增加,秸秆还田土壤有机碳的含量显著增加,在还田 $3 6 0 \\mathrm { ~ d ~ }$ 时达到最高值 $2 . 5 8 \\%$ ,而总氮和碱解氮出现下降的趋势,史央等[31]研究结果表明,稻草秆物料经过一年的腐解,仍有 $4 2 . 2 6 \\%$ 未被降解。因次本研究结果原因可能是秸秆还田后经过 $3 6 0 \\mathrm { ~ d ~ }$ 的腐解,水稻秸秆未完全被腐解,土壤微生物继续可以分解秸秆，促进秸秆碳释放,使土壤有机碳含量持续增加,约为还田 $9 0 \\mathrm { ~ d ~ }$ 的近一倍。同时秸秆的C/N 的比值影响秸秆腐解的速度,水稻秸秆C/N 约为 $1 0 0 : 1$ ,显著大于微生物自身的C/N(25:1到30:1之间）,微生物除了合成自身生长所需要的C/N,为了利用多余的碳,会继续从土壤中吸收氮,从而造成土壤总氮和碱解氮的损失。张四海等[32]采用磷脂脂肪酸(PLFA)法测定土壤微生物生物量,结果表明,添加秸秆配合施入磷素对微生物总生物量、真菌数量和真菌/细菌比值具有显著的促进作用。本研究中土壤速效养分如速效磷的累积与真菌群落结构的变化具有较强的相关性,可能是由于大量速效养分的明显变化对土壤真菌产生了胁迫作用,影响了优势种群的分布,具体的机理目前还没有明确,有待于进一步研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由真菌ITS rRNA基因拷贝数的荧光定量PCR 结果可知,水稻秸秆还田使得土壤真菌群体数量发生显著变化，180d和360d的秸秆还田与各自对照相比，土壤真菌群体数量发生显著增加;而随着时间增加，秸秆未还田对照土壤的真菌群体数量表现为升高的趋势，原因推测是水稻秸秆未还田试验地的上茬作物是小麦，小麦收获后少量秸秆可能残留在试验地中，从而为秸秆未还田试验地的土壤真菌提供了有机碳源，促进了真菌的生长。90d秸秆还田和对照相比，土壤真菌群体数量未发生显著增加,表明秸秆还田早期未对其真菌群落结构造成明显影响；而270d秸秆还田和对照相比，土壤真菌群体数量也未发生显著变化，原因可能是第二年7月底采样时，上海崇明降雨较多，土壤含水量和土壤温度较高,Brockett等[33]和Buyer等[34]研究表明土壤含水量和土壤温度可以显著影响微生物群落结构，由此我们推测此时期的土壤含水量和土壤温度对真菌群体数量的影响超过了秸秆还田。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究中秸秆还田不同时间的土壤真菌DGGE图谱的聚类分析和RDA分析均表明，90d的秸秆还田和对照的土壤样品聚为一类，同时其真菌群体数量和多样性指数( $H , R$ 和 $E$ )与对照均未表现明显差异，说明秸秆还田前期未对其真菌群落结构造成明显影响，与90d定量PCR分析得出的秸秆还田和对照的真菌群体数量结果相一致。随着秸秆还田时间的增加，真菌群体数量和多样性指数( $H , R$ 和 $E$ )均表现升高的趋势,并在360d时达到最高。刘骁蒨[35]进行DGGE 条带测序发现,秸秆还田和施肥的优势土壤真菌包含可以降解纤维素的半知菌纲的枝顶孢属（Acremonium sp.）。本研究对DGGE 的11条特征条带进行序列切胶回收测序,结果表明,土壤真菌主要种群包括了工业中用以可以生产纤维素酶的真菌:青霉菌(Penicilium sp.）、曲霉属真菌(Aspergillus sp.）和枝顶孢霉属（Acremonium sp.）[36],其中青霉菌(Penicillum sp.)在秸秆还田过程中均为优势菌群,而枝顶孢霉属（Acremonium sp.)在90d时作为新的优势菌群出现,推测其在降解纤维素的过程中,种群数量迅速增加。因而本研究结果为从这种特定的土壤微生境中分离生产纤维素酶活力较高的真菌提供了依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/28d3e988197b53af2b7efa04a23ec0693c277e5b982b53fef139cd9cd6385fe5.jpg",
+        "img_caption": [
+            "图4秸秆还田不同时间土壤真菌DGGE条带与土壤性质的冗余分析Fig.4RDA of soil fungal DGGE profiles and soil chemistryproperties in different days of rice straw decompositionT：代表处理(秸秆还田土壤)Treat（Straw decomposition soil）；C：代表对照(秸秆未还田土壤）Control（No straw decomposition soil).Avail-K;速效钾AvailableK;Avail-P:速效磷 AvailableP;Organ C：有机碳Organic carbon；Alk-N:碱解氮Alkalize-Hydrolyzed N;Total-N:总氮 Total nitrogen;pH:pH值"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述,水稻秸秆还田可以增加土壤真菌群体数量和多样性指数,还田270d和360d的真菌群落结构发生了显著变化,土壤有机碳、pH 和速效磷是引起土壤真菌群落结构及多样性变异的主要因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1TorsvikV，OvreasL，ThingstadF.Prokaryoticdiversitymagnitude，ynamics，ndcontrolingfactorsScience，O，96（7）：1064-1066.  \n[2]SparlingGcbalass，tiviurilinscatoofalh//astE,ubeBuptsBiological Indicators of Soil Health．Wallingford,UK：CAB International,1997：97-119.  \n[3]GilSVMerilesJ，onfotoC,asantaRadV，HagnA，loterMMarchGJResposeflmicrobialcomuniesetmanagementpracticesinsufacesoilsofasobeanagroecosysteminArgentina.EuropeanJoualofSoilBology，2O11,47（）：5-60.  \n4ZdsleFertility of Soils，1999,29(2）：111-129.(4): 3/4-3/9.  \n[6] Rifaldi,Lv-ivieisotoolofoedcbfaaureAueo&Environment，1998,69(2）：113-119.  \n[7] 陈洪章.秸秆资源生态高值化理论与应用.北京：化学工业出版社，2006.  \n[8] 韩鲁佳，闫巧娟，刘向阳，胡金有.中国农作物秸秆资源及其利用现状.农业工程学报，2002，18（3）：87-91.  \n[9] 劳秀荣，孙伟红，王真，郝艳如，张昌爱.秸秆还田与化肥配合施用对土壤肥力的影响.土壤学报，2003,40(4)：618-623.  \n[10] 王虎，王旭东，田宵鸿.秸秆还田对土壤有机碳不同活性组分储量及分配的影响.应用生态学报，2014，25(12)：3491-3498.  \n[11] MaryB,RecousS,rwisDobinIteractiosetwnecopositioofplantrsusdrognclinginsillantad99，181(1) : 71-82.  \n[12］徐广，刁治民，曾智科，王坚，肖前青.微生物降解秸杆的研究进展与前景展望.科技资讯，2007，（22）：137-137.  \n[13] FreySD，Six，EotEReciprocaltransrofcarbonndntrgenbyecomposerfungiatheolitterfc.SoilondBiochemistry，2003，35（7）：1001-1004.  \n[14]HollEA，lnDitcetslcasioo（)425-433.  \n[15]BaumaK,arscereikRJaldocJ.esiduecmistryndmobialcouitystructureringdecoposiofcalt,wheat and vetch residues.Soil Biology and Biochemistry，2009,41（9）：1966-1975.  \n[16]RuiJg,eotelgtepoicldlMicrobiology，2009，75（14）：4879-4886.  \n[17]FuQL,LiuC,DingNF,LinYC,GuoB,LuoJF,WangHLSilmroblcmuitiesandeeactitiesineedoastalsoilchronosequence under rice-barleycropping. Jourmal of Silsand Sediments，2012，12(7):1134-1144.  \n[18]SuB，WangX，WngFngYZaXX.seshelativtsfgaatiolymliassociated with straw decomposition.Applied and Environmental Microbiology，2013,79(11)：3327-3335.  \n[19]BardgetRDakladJC，WitarBefsofgcuuralaagemetoeilotaofeuplandgassaAgiclre,Ecosystems & Environment，1993，45：25-45.  \n20]MarshUaaKaluitoposiiogsidlyiarlyagsoosioftuelBiology and Biochemistry，2011,43(2）：445-451.  \n[21] 鲁如坤.土壤农业化学分析方法.北京：中国农业科技出版社，2000.  \n[22] OkuboAugiaS.omparsofeularfgerpitingetsfalysisofslbalnituctureologcalac2009,24(6)：1399-1405.  \n[23]Mitchell JI,Zuccaro A. Sequences，the environment and fungi. Mycologist，2006,20(2）： 62-74.  \n[24］张金屯.数量生态学.北京：科学出版社,2004.  \n[25] BraakCJF,SmilauerP.ANoCOeferenemanualandanodawforwindowsuser'sudesoftareforcanoncalmunitydinatio（sio4.5）.Ithaca：Microcomputer Power，2002.  \n[26]RouskJesthEagltsgdcohstfldiboliApplied and Environmental Microbiology，209,75(6):1589-1596.  \n[27]GifftBselllyitelecteloggafrislontalo2011,13(6): 1642-1654  \n[28]LuP,LinYH,YangZQ,XuYP,TanF,JiaXD,WangM,XuDR,WangXZ.Eectsof aplicationofcostrawonslicobialcommunity structure during the maize growing season. Journal of Basic Microbiology，2015,55(1)：22-32.  \n[29］兰丽丽.添加不同作物秸秆对土壤酸度变化的影响[D].长春：吉林农业大学，2015.  \n[30] Liu E K,YanCR,MeiXR,HeWQ,BingSH,DingLP,LiuQ,LiuS,FanTL.Long-termefetofchemicalferilizer,straw,ndmaureon soil chemical and biological properties in northwest China. Geoderma,2010,158(3/4）:173-180.  \n[31］史央.红壤中秸秆降解的微生物演替及应用研究.南京：南京师范大学，2003.  \n[32］张四海，黄健，骆争荣，董曙光，王意锟，朱强根，张龙，金爱武.添加秸秆和磷素对土壤微生物群落的影响.应用生态学报，2014，25(3) : 797-802.  \n33]BrockerClsecliucuediseven biogeoclimatic zones in western Canada. Soil Biology and Biochemistry,2012,44(1）：9-20.  \n[34]BuyerJsaleJobrtssaIA,ulJ.ctoetigcolitucuinaooppgolBiology and Biochemistry，2010,42(5）：831-841.  \n[35］刘晓蒨.秸秆还田方式与施肥对水稻土壤微生物学特性的影响[D].雅安：四川农业大学，2013.  \n［36］谢天文，刘晓风，袁月祥，闫志英，贺蓉娜，廖银章.真菌产纤维素酶的诱导物及其调控机理研究进展.应用与环境生物学报，2010,16(3): 440-444.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

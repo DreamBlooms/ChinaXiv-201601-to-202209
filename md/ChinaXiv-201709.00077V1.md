@@ -1,0 +1,136 @@
+# MINOS Anomaly as A Signal of Lorentz Violation
+
+Chun Liu $^ { 1 }$ ， Jin-tao Tian $^ 2$ , Zhen-hua Zhaol $^ { 1 }$ Institute of Theoretical Physics, Chinese Academy of Sciences, and State Key Laboratory of Theoretical Physics, P.O.Box 2735, Beijing 100190, China $^ 2$ National Astronomical Observatories, Chinese Academy of Sciences, Beijing 100012, China
+
+September6,2017
+
+# Abstract
+
+Recently, the MINOS collaboration reported an anomaly that the mass-squared difference and mixing angle of $\ : \nu _ { \mu }  \nu _ { \tau } \ :$ are both different from that of $\nu _ { \mu }  \nu _ { \tau }$ .In this letter,based on the framework of neutrino oscillations,terms that break the Lorentz symmetry are used as perturbation to explain this anomaly and satisfactory results are got.Remarkably, some surprising conclusions,one of which is that in the high energy limit (hundreds of GeV） neutrino oscillation pattern will be independent of energy,arealso arrived.
+
+# 1Introduction
+
+Observations on solar neutrinos [1] and atmospheric neutrinos [2] have provided compelling evidences for neutrino oscillations. Reactor [3] and accelerator [4] neutrino experiments have further confirmed the oscillation paradigm. Nowadays, the fact that neutrinos do oscillate between different flavors has been established. The original idea of neutrino oscillation was proposed by Pontecorvo [5] assuming neutrino-antineutrino oscillation in a pattern similar to that between $K ^ { 0 }$ and $K ^ { 0 }$ ． This idea was extended to be among different flavors of neutrinos by Maki, Nakgawa and Sakada [6]. One of the key point (MSW effect） in the neutrino oscillation paradigm is due to Wolfenstein [7]. Mikheyev and Smirnov [8] who pointed out an effect induced by matter when a neutrino passes through it and interacts with the particles forming the matter. Now it is well known that massive neutrinos naturally result in neutrino oscillations among different flavors. It is also noteworthy that other mechanisms, like Lorentz symmetry violation [9,10],can also accommodate neutrino oscillations. There have been many papers discussing neutrino oscillations using Lorentz violation in the literature [11].
+
+Neutrino oscillation data fix the neutrino mass-squared differences and their mixings. According to a global neutrino oscillation data analysis within the three-flavor framework [12], the best-fit values of oscillating parameters are given as following, $\Delta m _ { 1 2 } ^ { 2 } = ( 7 . 5 9 _ { - 0 . 1 8 } ^ { + 0 . 2 0 } ) \times 1 0 ^ { - 5 } e V ^ { 2 }$ e，0 $\Delta m _ { 1 3 } ^ { 2 } = ( 2 . 4 5 _ { - 0 . 0 9 } ^ { + 0 . 0 9 } ) \times 1 0 ^ { - 3 } e V ^ { 2 }$ and $\sin ^ { 2 } ( \theta _ { 1 2 } ) = 0 . 3 1 2 _ { - 0 . 0 1 5 } ^ { + 0 . 0 1 7 }$ ：， $\sin ^ { 2 } ( \theta _ { 2 3 } ) = 0 . 5 1 _ { - 0 . 0 6 } ^ { + 0 . 0 6 }$ 1， $\sin ^ { 2 } ( \theta _ { 1 3 } ) = 0 . 0 1 0 _ { - 0 . 0 0 6 } ^ { + 0 . 0 0 9 }$ Within the accuracy of present experiments, the three flavor oscillations can be reduced to two flavor oscillations in two sectors i.e. the‘solar’ sector and the‘atmospheric’sector. In the two flavor analysis, the oscillation probability can be written as,
+
+$$
+P = \sin ^ { 2 } ( 2 \theta ) \sin ^ { 2 } ( \frac { \Delta m ^ { 2 } L } { 4 E } ) .
+$$
+
+However，recently the MINOS collaboration reported an anomaly in $\bar { \nu } _ { \mu }$ （202 disappearance experiment: the oscillation parameters are determined to be $\Delta m ^ { 2 } = ( 3 . 3 6 _ { - 0 . 4 0 } ^ { + 0 . 4 5 } ) \times 1 0 ^ { - 3 } ~ e V ^ { 2 }$ and $\sin ^ { 2 } ( 2 \theta ) = 0 . 8 6 _ { - 0 . 1 1 } ^ { + 0 . 1 1 }$ [13].This result is still consistent with that of disappearance experiment within the $3 \sigma$ level, $\nu _ { \mu }$ but if we take the central value seriously it may imply CPT violation,in comparison withteoscilltionparameter $\Delta m ^ { 2 } = ( 2 . 3 5 _ { - 0 . 0 8 } ^ { + 0 . 1 1 } ) \times 1 0 ^ { - 3 } ~ e V ^ { 2 }$ and $\sin ^ { 2 } ( 2 \theta ) = 1 . 0 0$ ( $\sin ^ { 2 } ( 2 \theta ) > 0 . 9 1$ at 90% CL）[14] determined in $\nu _ { \mu }$ disappearance experiment. There have been some attempts to solve this anomaly either using CPT violation [15,16] or in terms of non-standard neutrino interaction [17,18,19, 20],for a review about these attempts see [21] and references therein. In the end of section 3,we will do a detailed comparison between these attempts with ours after having presented our model.
+
+# 2 Formalism and Model
+
+We consider the MINOS anomaly as a signal of Lorentz and CPT violation. In Refs. [10, 22],the authors point out that observable neutrino oscillations may be a combined result of neutrino masses and Lorentz violation,and results of some neutrino oscillation experiments even can be explained by Lorentz violation without using mass terms. In this letter,we still work in the conventional massive neutrino paradigm which solves the solar neutrino and atmospheric neutrino problems. To explain the MINOS anomaly,a Lorentz and CPT violating term is included as perturbation. We adopt a framework called Standard Model Extension (SME) [9, 22]. It is the general effective theory constructed from SM and allows any coordinate-independent Lorentz violation,which might arise from the Planck scale physics. In the minimal SME lagrangian,all possible renormalizable terms constructed from SM fields which break the Lorentz symmetry are added to the usual SM lagrangian.
+
+In SME, the effective Hamiltonian in the neutrino sector takes the following form,
+
+$$
+( H ) _ { a b } = ( m ^ { 2 } ) _ { a b } / ( 2 E ) + ( a ) _ { a b } + ( c E ) _ { a b } ,
+$$
+
+where $( m ^ { 2 } ) _ { a b } / ( 2 E )$ is the conventional mass squared term, the other two terms are Lorentz violating, the term $a$ is CPT odd and the term $c$ is CPT even.The effective Hamiltonian for anti-neutrinos can be gained by reversing the sign of （204号 $a$ . Moreover, $a$ does not change with energy while $c E$ is proportional to energy, so that these two terms can complicate the dependence of neutrino oscillations on energies. In the following,we will explain the MINOS anomaly by including the term $a$ in the Hamiltonian.Thus,we would like to discuss the property of the term $a$ in detail before presenting our model.
+
+The term $a$ has something in common with the matter potential induced by the MSW effect: both of them are independent of energy and CPT-odd [22, 23]. However, the term $a$ has differences with the MSW effect in the following two aspects: on the one hand, the MSW effect can appear only when a neutrino passes through matter and is dependent on the density and ingredient of matter [7,8,23],while the term $a$ is always constant as a vacuum property [22]； on the other hand, the matter potential only appears diagonally in the flavor basis while the term $a$ may have non-vanishing off-diagonal elements.In addition, the MSW effect does not play any role in the oscillations between $\nu _ { \mu }$ and $\nu _ { \tau }$ when considered in the two flavor analysis,because the matter potential induced by normal matter is proportional to the identity matrix in the $( \nu _ { \mu } , \nu _ { \tau } )$ basis. In contrast, we can assume that $a _ { \mu \mu }$ differs with $\boldsymbol { a } _ { \tau \tau }$ ：
+
+In the following,we assume that the terms $c E$ and $a _ { e x }$ in Eq.(2）are absent or negligible for some reasons. Considering the energy range and the baseline distance in the MINOS experiment, the oscilltion between $\nu _ { e }$ and $\nu _ { \mu }$ （204号 is negligible, so the two flavor analysis is still a good approximation. Hence, the effective Hamiltonian in the $( \nu _ { \mu } , \nu _ { \tau } )$ basis can be written as,
+
+$$
+H = \left( \begin{array} { c c } { { 0 } } & { { \frac { m _ { 1 } ^ { 2 } } { 2 E } - a _ { 1 } } } \\ { { \frac { m _ { 1 } ^ { 2 } } { 2 E } - a _ { 1 } } } & { { \frac { m _ { 2 } ^ { 2 } } { 2 E } - a _ { 2 } } } \end{array} \right) .
+$$
+
+The term on the top left corner has been chosen to be zero because the mixing only has to do with the difference of the two terms on the diagonal. Besides, the minus signs before $a _ { 1 }$ and $a _ { 2 }$ are assigned to insure that the values of $a _ { 1 }$ and $a _ { 2 }$ are positive in order to explain the MINOS anomaly as we shall see.
+
+For oscillations between $\nu _ { \mu }$ and $\nu _ { \tau }$ , the effective Hamiltonian will be got by reversing the signs before $a _ { 1 }$ and $a _ { 2 }$ ，
+
+$$
+H = \left( \begin{array} { c c } { { 0 } } & { { \frac { m _ { 1 } ^ { 2 } } { 2 E } + a _ { 1 } } } \\ { { \frac { m _ { 1 } ^ { 2 } } { 2 E } + a _ { 1 } } } & { { \frac { m _ { 2 } ^ { 2 } } { 2 E } + a _ { 2 } } } \end{array} \right) .
+$$
+
+For convenience,we parameterize Eq.(3) and Eq.(4)as follows,
+
+$$
+H = \left( \begin{array} { c c } { { 0 } } & { { a } } \\ { { a } } & { { b } } \end{array} \right) ,
+$$
+
+where $a$ represents $\frac { m _ { 1 } ^ { 2 } } { 2 E } - a _ { 1 }$ and +a1 in the neutrino sector and anti-neutrino
+
+sector respectively,brepresents -a and 1+a2 in the neutrino sector and anti-neutrino sector respectively. In this case,the oscillation probability can be written as,
+
+$$
+P = { \frac { 4 a ^ { 2 } } { 4 a ^ { 2 } + b ^ { 2 } } } \sin ^ { 2 } ( { \frac { { \sqrt { 4 a ^ { 2 } + b ^ { 2 } } } } { 2 } } L ) ,
+$$
+
+where $\frac { 4 a ^ { 2 } } { 4 a ^ { 2 } + b ^ { 2 } }$ and $\frac { \sqrt { 4 a ^ { 2 } + b ^ { 2 } } } { 2 }$ play the role of $\sin ^ { 2 } ( 2 \theta )$ and $\scriptstyle { \frac { \Delta m ^ { 2 } } { 4 E } }$ in Eq. (1) respectively.
+
+We observe that if $\frac { m _ { 2 } ^ { 2 } } { 2 E }$ and $a _ { 2 }$ cancel at $E \sim$ several GeV, the term on the diagonal will be close to zero in Eq. (3) and the oscillations between $\nu _ { \mu }$ （20 and $\nu _ { \tau }$ will be nearly maximal in this energy range.In contrast, $a _ { 2 }$ has the more.Thus,wecanunderstand why opposite sign in Eq. (4),so the mixing between $\sin ^ { 2 } ( 2 \theta ) = 0 . 8 6 _ { - 0 . 1 1 } ^ { + 0 . 1 1 }$ $\nu _ { \mu }$ and $\nu _ { \tau }$ for anti-neutrinos is is not maximal any smaller than that for neutrinos. Furthermore,both values of $a$ and $b$ in the anti-neutrino sector are larger than that in the neutrino sector,resulting in that the energy eigenvalue difference in the anti-neutrino sector is larger than that in the neutrino sector. Therefore, the differences between results observed in the neutrino sector and anti-neutrino sector can be well understood.
+
+# 3 Results and Discussions
+
+In the MINOS experiment, neutrinos whose energy spectrum mainly ranges from 1 to about 10 GeV have a flight of 735 km before being detected. The flux of neutrinos peaks at 3 GeV and has a mean energy of 4 GeV.
+
+We have performed a chi-squared analysis of the data [13] and the best-fit values of the parameters are determined to be as follows,
+
+$$
+\begin{array} { r l r } { a _ { 1 } } & { = } & { 3 . 8 \times 1 0 ^ { - 1 4 } e V , } \\ { a _ { 2 } } & { = } & { 2 . 2 \times 1 0 ^ { - 1 3 } e V , } \\ { m _ { 1 } ^ { 2 } } & { = } & { 1 . 4 \times 1 0 ^ { - 3 } e V ^ { 2 } , } \\ { m _ { 2 } ^ { 2 } } & { = } & { 7 . 9 \times 1 0 ^ { - 4 } e V ^ { 2 } . } \end{array}
+$$
+
+Using these values, we compare the expectation of events with the data in $\bar { \nu } _ { \mu }$ （202 and $\nu _ { \mu }$ disappearance experiments in Fig.1 and Fig.2,respectively.
+
+![](images/04ca65da2ea5f10774255f9e75323dcd936994df48429f7e5db489ab33375bc9.jpg)  
+Fig.1: Comparison of the measured Far Detector $\nu _ { \mu }$ energy spectrum to the expectation in two cases: in the absence of oscillation; using the oscillation parameters given in Eqs. (7-10).
+
+![](images/3ca6c97931a78256d99ca9ba5afaaee5a96eefc7f7e81f8aec6eafbf52002136.jpg)  
+Fig.2: Comparison of the measured Far Detector $\nu _ { \mu }$ energy spectrum to the expectation in two cases: in the absence of oscillation; using the oscillation parameters given in Eqs. (7-10).
+
+In the energy range of the MINOS experiment, it is difficult to distinguish the model in the present letter with the models where the mass matrices in the neutrino sector and anti-neutrino sector are different. However,as energy rises, the mass term contribution wil decrease while $a _ { 1 }$ and $a _ { 2 }$ do not change, therefore, the two scenarios will show different properties in the high energy limit.When the energy of neutrinos reaches several hundred GeV, the mixing induced completely by mass terms will become very small as shown in Eq. (1)
+
+given a fixed distance $L$ ，while the mixing induced by mass terms plus the Lorentz violation effect will become independent of energy as shown in Fig. 3 and Fig.4 below.
+
+![](images/196c9a73df51be480ab1eed67e3e4299fd82887bd1c19c2c3ff174ae35d27928.jpg)  
+Fig.3: $\Delta E$ due to Eq. (3) (dashed line) and Eq. (4) (solid line) as a function of energy.
+
+![](images/c357cb73c33f3d6e8b4e8a60d2fa4582a2bb0990eb725b00194b06bffac5292b.jpg)  
+Fig.4: $\sin ^ { 2 } ( 2 \theta )$ due to Eq. (3) (dashed line) and Eq. (4) (solid line) as a function of energy.
+
+Fig. 3 shows $\Delta E$ as a function of energy in the neutrino sector and antineutrino sector; Fig. 4 shows $\sin ^ { 2 } ( 2 \theta )$ as a function of energy in the neutrino sector and anti-neutrino sector. As shown in these two figures,in the high energy limit wherem $\frac { m ^ { 2 } } { 2 E } \ll a _ { 1 }$ and $a _ { 2 }$ , there is almost no difference between $\nu _ { \mu }  \nu _ { \tau }$ and $\nu _ { \mu }  \nu _ { \tau }$ and these two oscillation patterns will be independent of energy. There is a distinct character in the neutrino sector: when the energy of neutrinos is around 20 GeV, $\sin ^ { 2 } ( 2 \theta )$ has a vanishing point, so the oscillations between $\nu _ { \mu }$ （204 and $\nu _ { \tau }$ are highly suppressed in this small energy range.
+
+It should be mentioned that in the energy range of solar neutrinos (a few MeV), $\begin{array} { r } { \frac { m ^ { 2 } } { 2 E } \gg a _ { 1 } } \end{array}$ and $a _ { 2 }$ ,s0 $a _ { 1 }$ and $a _ { 2 }$ will not affect the explanation of the solar neutrino problem.However, this model will be constrained by the atmospheric neutrino oscillation data. In Super-K experiment,events generated by neutrinos and anti-neutrinos can not be distinguished, so the results can not supply strong constraints. In future, the long baseline experiments for the oscillations $\nu _ { \mu } $ $\nu _ { \tau }$ and $\nu _ { \mu }  \nu _ { \tau }$ at high energy (several tens of GeV）with high precision can confirm or exclude this model.
+
+Finally, we would like to do a comparison between other attempts solving the MINOS anomaly with ours. In [15,16], the authors use CPT violation to solve the MINOS anomaly and consider that neutrinos and anti-neutrinos do have unequal mass differences at least in the atmospheric neutrino sector. However, in our model,mass differences in the neutrino sector and that in the antineutrino sector are equal. Because the mass term and the term $a$ have different dependence on energy, the models in [15,16] which only contain the mass term will show different properties on energy from our model which includes the term $a$ . Consequently,experiments in different energy ranges can distinguish these two kinds of models. In the low energy range where the mass term is much larger than the term $a$ in our model, there is no CPT violation observable in neutrino oscillation experiments,while there is always CPT violation irrespective of the energy of neutrinos in the models of [15,16]. Only when the energy of neutrinos reaches the order of GeV can the CPT-violating effect emerge in our model.
+
+When it comes to [17,18,19,20]，we have given the comparison between the term $a$ and the potential induced by neutrino interaction in section 2. They share some similarities,but the essential difference between them is that the CPT-violating term $a$ is property of vacuum,while the matter potential is dependent on the concrete circumstance the neutrinos experience during their flight.Experiments can distinguish these two mechanisms too.
+
+# 4Summary
+
+In conclusion,the MINOS anomaly if it really exists can be successfully explained by using a CPT-violating term in the formalism of SME as perturbation to the conventional mass-induced oscillation paradigm. Meanwhile, some odd conclusions are arrived: in the energy range around 2O GeV, oscillations between $\nu _ { \mu }$ and $\nu _ { \tau }$ will be highly suppressed due to the very small mixing; in the high energy limit where the mass term is small enough compared to the terms from SME, $\nu _ { \mu }  \nu _ { \tau }$ and $\bar { \nu } _ { \mu }  \bar { \nu } _ { \tau }$ will have the same oscillating pattern which is independent of energy. Considering the data are statistically limited,the quantitative results are inconclusive. However, if the MINOS anomaly persists, it maybe become the first evidence of Lorentz violation which has a significant meaning.
+
+# 5 Acknowledgements
+
+One of the authors (Zhao) thanks Xue Chang,Mingkai Du and Jiashu Lu for helpful discussions and other helps in the process of this work.We express our appreciation to Lei Wu for his helps in data analysis. This work was supported in part by the National Natural Science Foundation of China under Nos. 9O503002, 10821504 and 11075193 and by the National Basic Research Program of China under Grant No.2010CB833000.
+
+# References
+
+[1] R. Davis Jr., D.S.Harmer,K.C. Ho man, Phys.Rev. Lett.20(1968) 1205. B.T.Cleveland et al. Astrophys. J. 496 (1998） 505; SNO Collabration, Phys. Rev. C 72 (2005).   
+[2] Super-Kamiokande Collaboration,Phys.Rev.Lett.81,1562 (1998).   
+[3] A.Strumia et al. (LSND Collabration) Phys.Rev.D 64 (2001) 112007; T.Araki et al.(KamLAND Collabration),Phys. Rev. Lett. 94 (2005) 081801.   
+[4] E.Aliu et al. (K2K Collabration), Phys. Rev.Lett. 94 (2005) 081802; D.G.Michael et al. (Minos Collabration), Phys.Rev.Lett. 97 (2006)191801.   
+[5] B.Pontecorvo, Zh. Eksp. Teor. Fiz. 33 (1957).   
+[6] Z. Maki, M. Nakagawa and Sakata,Prog. Theor. Phys. 28 (1962) 870.   
+[7] L.Wolfenstein, Phys.Rev. D 17 (1978) 2369.   
+[8] S. P. Mikheyev and A. Yu. Smirnov, Sov. J. Nucl. Phys. 42(1985) 413.   
+[9] D.Colladay and V. A. Kostelecky, Phys. Rev. D 55,6760 (1997); 58,116002 (1998).   
+[10] S. Coleman and S. L. Glashow, Phys. Rev. D 59,116008 (1999).   
+[11] V.A. Kostelecky and M. Mewes,Phys. Rev. D 70, 031902 (R) (2004). V. Barger,D.Marfatia,and K.Whisnant,Phys.Lett.B 653,267 (2007).N. Cipriano Ribeiro et al.,Phys. Rev.D 77,073007 (2008).A.E.Bernardini and O. Bertolami, Phys. Rev. D 77, 085032 (2008). J. S. Diaz,A. Kostelecky, M. Mewes, Phys .Rev.D 80: 076007, (2009). B. Altschul, J. Phys. Conf. Ser. 173 012003 (2009).S.Hollenberg,O.Micu,and H. Pas,Phys.Rev.D 80, 053010 (2009). S. Ando, M. Kamionkowski, and I. Mocioiu, Phys. Rev. D 80, 123522 (2009). M. Bustamante,A. M. Gago,and C. Pena-Garay, J. Phys. Conf.Ser.171, 012048 (2009).P. Arias and J.Gamboa, Int. J. Mod.Phys. A 25,277 (201O). S. Yang and B.-Q.Ma, Int. J. Mod. Phys.A 24,5861 (2009).D.M.Mattingly et al., JCAP 1002, 007 (2010).A.Bhattacharya et al., JCAP 1009, 009 (2010). C. M. Ho,arXiv:1012.1053. J. S. Diaz, V. A. Kostelecky,Phys.Lett.B700（2011） 25-28   
+[12] F. J. Escrihuela, O.G. Miranda,M. Trtola,J.W.F. Valle arXiv:1103.1366 [hep-ph].   
+[13]P.Adamson et al.(Minos Collabration） arXiv:1104.0344v3 [hep-ex].   
+[14] P.Adamson et al.(Minos Collabration) Phys.Rev.Lett.106:181801,2011.   
+[15] G.Barenboim and J. D. Lykken,Phys. Rev.D 80,113008 (2009)   
+[16] S. Mukohyama and S.C.Park,Phys. Lett. B 696,505 (2011)
+
+[17] N.Engelhardt,A.E.Nelson and J.R.Walsh,Phys.Rev.D 81,113001 (2010)
+
+[18] Joachim Kopp, Pedro A. N. Machado, Stephen J. Parke, Phys. Rev. D 82,   
+113002, (2010) [19] W.A. Mann, D. Cherdack,W. Musial,and T. Kafka, Phys. Rev.D 82,   
+113010 (2010) [20] J. Heeck,W. Rodejohann, arXiv:1007.2655 [hep-ph] [21] Osamu Yasuda, arXiv:1012.3478v1 [hep-ph] [22] Alan Kostelecky and Matthew Mewes,Phys.Rev.D 69, O16005 (2004). [23] J. Linder,arxiv:0504264v4[hep-ph].

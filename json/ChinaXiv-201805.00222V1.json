@@ -1,0 +1,545 @@
+[
+    {
+        "type": "text",
+        "text": "穿戴式跌倒检测中特征向量的提取和降维研究\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李雷，张帆，施化吉，周从华(江苏大学 计算机科学与通信工程学院，江苏 镇江 212013)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：穿戴式跌倒检测中老年人特征属性过多会造成维数灾难，影响后续跌倒检测精度。针对此问题，首先采用时域分析法提取初始特征向量集，然后用提出的改进核主成分分析算法（IKPCA）对特征向量进行降维，从而获得优质的特征向量集，使得后续的分类具有更好的效果。IKPCA算法首先利用I-RELIEF 算法对初始特征向量集进行特征选择,然后计算跌倒特征向量的信息度量和相似度度量，最后根据跌倒特征向量的相似度度量剔除无效的跌倒特征向量。IKPCA 算法不但保持核主成分分析算法（KPCA）较好的降维能力，而且扩充了较好的分类能力。利用真实的数据集进行实验，对比分析表明，相比其他算法，IKPCA算法能够得到更优质的特征向量数据集。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：跌倒检测；特征向量；核主成分分析；降维 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.07.0674 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on feature vector extraction and dimension reduction of wearable fall detection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Lei, ZHANG Fan, SHI Hua-Ji, ZHOU Conghua (SchoolofComputer Science&Telecommunication Engineering Jiangsu University,Zhenjiang Jiangsu 212013,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inwearablefalldetectionoftheelderlytoomuchcharacteristicswillcausethecurseofdimensionality,andaffect theacuracyofsubsequentfalldetection.Tosolve this problem,thispaperuses timedomainanalysis method toextract feature vector.Then the proposedimproved kerel prcipalcomponentanalysis (IKPCA)algorithmisused toreducethe featurevectors, so as to obtain high-quality feature vectors,which makes the subsequent clasification more effective.IKPCAalgorithmfirstly uses theI-RELIEFalgorithm to selectthe initialfeaturevectors,thencalculatethe informationmeasureand similarity measure ofthe falling featurevectors.Finallyaccording tothsiilaritymeasurementofthefallingfeaturevectors,theinvalidfaling feature vectors are eliminated.The IKPCAalgorithm notonly keeps better dimensionalityreductionabilityof the Kernel PrincipleComponent Analysis (KPCA)algorithm,butalsoexpandsbeterclassificationability.Itexperimentsonrealdataets. The comparative analysis shows that,compared with other algorithms,the IKPCA algorithmcan obtain higher-quality feature vector data set. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: fall detection; feature vector; kernel principle component analysis; dimension reduction ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "穿戴式跌倒检测研究中，运动信号特征向量的提取和降维与跌倒过程中的人体行为以及跌倒检测分类算法密切相关，其有效与否将直接影响跌倒检测的准确率。因此，跌倒检测中运动信号特征向量的提取和降维至关重要。特征提取和降维的主要作用是从跌倒检测运动信号中选取出具有代表性的人体动作的特征向量，位于数据预处理和跌倒检测分类算法之间，是信号采集和跌倒检测的中间桥梁，也是跌倒检测的关键问题之一，其有效性将对跌倒检测的精度造成极大影响，因此如何获取更加有效的特征向量一直是研究人员关注的热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有的运动信号特征向量的提取方法主要分为时域分析法、频域分析法和时频分析法三种。时域分析法[I-3]就是从采集的信号中直接提取特征向量；频域分析法[4-5]首先需要对信号做快速傅里叶变换，然后再提取特征向量；时频分析法[6则是基于小波变换来提取特征向量。其中频域分析法和时频分析法提取的特征向量较为全面，但提取速度慢，很大程度上影响了跌倒检测的实时性，时域分析法提取的特征向量虽不如频域分析法和时频分析法提取得全面，但提取速度快，在嵌入式设备中得到广泛应用。在特征提取过程中，获取的特征向量数量越多，对跌倒行为和日常行为的刻画就越详细。但同时特征向量的维数就会越大，甚至造成“维数灾难”。为此需要对初始特征向量进行降维处理，从而得到更有效、更利于跌倒检测的特征向量。降维就是将原始输入空间中的数据样本映射到特征空间中以降低数据集维度的过程。降维的主要方法有主成分分析方法（principlecomponentanalysis,PCA）[7-8]、核主成分分析方法（kernel principle component analysis,KPCA）[9]和其他一些非线性成分分析方法等。同时专家学者们也提出了一些行之有效的降维算法，如Yang等人[1o]提出了PCA&MSNR 降维算法，并通过步态特征数据集对比实验验证了PCA&MSNR的降维效果要好于PCA和MSNR；Yang等人[1I]在动作识别过程中分别使用FSS和LDA算法进行降维，并验证了LDA降维效果好于FSS；Khan 等人[12]提出了核判决分析KDA算法，根据与LDA算法的对比实验分析，验证了KDA 算法的可行性；Cheng 和Choudhury 等人[13,14]则选用了AdaBoost算法进行降维，降维的效果更为明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述的降维算法虽然尽可能保留了原始信息，但没有充分考虑到特征的类别信息及其最大化，因此无法确定降维后就可以获得有效的跌倒特征向量集。为此，本文首先利用时域分析法提取初始特征向量集，然后用提出的改进的KPCA降维算法（IKPCA）对特征向量作进一步降维，得到合理有效的特征向量集。最后在引入数据集和支持向量机分类算法的基础上，通过与其他方法的对比实验分析验证了本文方法能够得到更为优质的特征向量数据集。IKPCA 算法首先利用I-RELIEF[15]算法对用时域分析法提取的初始跌倒特征向量集 $D$ 进行特征选择，得到跌倒特征向量集 $D ^ { \\prime }$ ，然后计算出跌倒特征向量的信息度量和相似度度量，最后根据跌倒特征向量的相似度度量剔除无效的跌倒特征向量得到最终的跌倒特征向量集 $D$ \"。IKPCA算法不但保持了KPCA算法的降维能力，而且对于后续的分类具有更好的效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 特征向量的提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在穿戴式跌倒检测中，由于利用穿戴式设备获取的都是信号源，无法形成有效的数据集直接用于训练分类方法，因此提取合理的跌倒特征向量集是必需的。时域分析法是运动信号的主要提取方法之一，从信号的时域数据中直接提取目标特征向量，提取速度快，在嵌入式设备中得到广泛应用。在跌倒检测中，由于普遍采用的是三轴加速度传感器和三轴陀螺仪传感器，因此每个采样点可以得出八种变量，表示为$X = \\left( a _ { _ x } , a _ { _ y } , a _ { _ z } , S O A , \\omega _ { _ x } , \\omega _ { _ y } , \\omega _ { _ z } , S V \\right)$ ，其中 $a _ { _ x } , a _ { _ y } , a _ { _ z }$ 分别是三轴的加速度分量， $S O A = \\sqrt { a _ { x } ^ { 2 } + a _ { y } ^ { 2 } + a _ { z } ^ { 2 } }$ 为合成加速度。 $\\omega _ { { } _ { x } } , \\omega _ { { } _ { y } } , \\omega _ { { } _ { z } }$ 分别为三个方向上的角速度， $S V { = } \\sqrt { \\omega _ { _ x } ^ { 2 } + \\omega _ { _ y } ^ { 2 } + \\omega _ { z } ^ { 2 } }$ 为合成角速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常见的时域特征统计量有均值（ $\\mathbf { \\mu } _ { \\cdot } \\mathbf { \\sigma } _ { a \\nu g } \\mathbf { \\sigma } )$ 、标准差（ $_ { S d } )$ 、偏度 $( \\mathbf { \\sigma } _ { S k } \\mathbf { \\sigma } )$ 、峰度（ $\\boldsymbol { K } \\boldsymbol { u }$ ）、加速度幅度面积（SMA）、能耗（ $E$ ）等，如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/12d121b6580c28c7837aaf0b7c4298a6afbb03bea9446403c5f545219ea7c02d.jpg",
+        "table_caption": [
+            "表1特征统计量"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>特征值</td><td>符号表示</td><td>特征值</td><td>符号表示</td></tr><tr><td>均值</td><td>avg</td><td>相关系数</td><td>r</td></tr><tr><td>标准差</td><td>Sd</td><td>最大值</td><td>Max</td></tr><tr><td>偏度</td><td>Sk</td><td>最小值</td><td>Min</td></tr><tr><td>峰度</td><td>Ku</td><td>均值趋势</td><td>avgT</td></tr><tr><td>加速度幅度面积</td><td>SMA</td><td>标准差趋势</td><td>SdT</td></tr><tr><td>能耗</td><td>E</td><td>最大插值</td><td>△</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文共选用了十二种特征统计量。经过对采样向量 $X$ 中的8 种变量进行计算共得到特征75种，构成初始跌倒特征向量集$D$ ，具体如表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e02e6479a39ff85a884e1411e3d78ce79299ffcbb5f81d067cb2e493bab6a437.jpg",
+        "table_caption": [
+            "表2初始跌倒特征向量集 $D$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>ax-avg</td><td>ay-avg</td><td>a-avg</td><td>SOA-avg</td></tr><tr><td>ax-Sd</td><td>a-Sd</td><td>a-Sd</td><td>SOA-Sd</td></tr><tr><td>ax-Sk</td><td>a-Sk</td><td>a-Sk</td><td>SOA-Sk</td></tr><tr><td>ax-Ku</td><td>a-Ku</td><td>a-Ku</td><td>SOA-Ku</td></tr><tr><td>ax-Max</td><td>a -Max</td><td>a-Max</td><td>SOA-Max</td></tr><tr><td>ax-Min</td><td>ay-Min</td><td>a2-Min</td><td>SOA-Min</td></tr><tr><td>ax-avgT</td><td>a-avgT</td><td>az-avgT</td><td>SOA-avgT</td></tr><tr><td>ax-SdT</td><td>a-SdT</td><td>a-SdT</td><td>SOA-SdT</td></tr><tr><td>a-△</td><td>a-△</td><td>a-△</td><td>SOA-△</td></tr><tr><td>Wx -avg</td><td>Wz-avg</td><td>Wy-avg</td><td>SV -avg</td></tr><tr><td>wx-Sd</td><td>w-Sd</td><td>W-Sd</td><td>SV -Sd</td></tr><tr><td>Wx-Sk</td><td>W-Sk</td><td>W-Sk</td><td>SV -Sk</td></tr><tr><td>w-Ku</td><td>w-Ku</td><td>W-Ku</td><td>SV-Ku</td></tr><tr><td>wx-Max</td><td>w-Max</td><td>wy -Max</td><td>SV-Max</td></tr><tr><td>wx -Min</td><td>wz-Min</td><td>W -Min</td><td>SV -Min</td></tr><tr><td>Wx-avgT</td><td>W-avgT</td><td>Wy-avgT</td><td>SV-avgT</td></tr><tr><td>W-SdT</td><td>w-SdT</td><td>W-SdT</td><td>SV -SdT</td></tr><tr><td>W-△</td><td>W-△</td><td>W-△</td><td>SV-△</td></tr><tr><td>SMA</td><td>E</td><td>r</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但经过时域分析法构成的特征向量种类过多，很大程度上会造成维数灾难，从而不利于跌倒检测分类算法的训练，所以还需作进一步的降维处理。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 特征向量的降维 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1KPCA算法基本原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KPCA降维算法，是引入核函数的主成分分析法（PCA），它是利用核函数将输入空间映射到特征空间，在特征空间中实现PCA算法。KPCA算法最具特色之处就是利用了非线性函",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数，把变换后得到的特征空间内积运算转换成输入空间的核函数计算，继而大大简化了计算量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $B$ 是初始特征向量集， $\\Phi$ 表示原始输入空间到特征空间的映射，其中，特征空间中数据满足中心化的要求是$\\sum _ { \\mu = 1 } ^ { m } \\Phi ( x _ { _ { \\mu } } ) = 0$ 。协方差矩阵C如式（1）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\frac { 1 } { m } \\sum _ { \\mu = 1 } ^ { m } \\Phi ( x _ { \\mu } ) \\Phi ( x _ { \\mu } ) ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常情况 $\\Phi ( x _ { _ { \\mu } } ) \\Phi ( x _ { _ { \\mu } } ) ^ { T }$ 难以直接通过计算获取，但可利用核函数来求解协方差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设 $K$ 为 $m \\times m$ 维的核矩阵，如式（2）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = \\left[ k _ { _ { \\mu \\nu } } \\right] _ { m \\times m } = K ( x _ { i } , x )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $k _ { _ { \\mu \\nu } } = ( \\Phi ( x _ { _ { \\mu } } ) \\gamma \\Phi ( x _ { \\nu } ) ) \\ , \\mu , \\nu = 1 , 2 , 3 , \\Lambda \\ , M \\ ^ { , } \\ \\vec { \\mathcal { F } }$ 用核函数进行求解的协方差矩阵为 $\\bar { C } = \\frac { 1 } { m } K$ 。若式（2）不成立，则需要对核矩阵进行修正，即中心化调整，如式（3）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { - } n = K \\gamma I K \\gamma K I + I K I \\ (\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过式（4）就可计算出 $\\boldsymbol { K } _ { - } { \\boldsymbol { n } }$ 的特征值和特征向量，从而进一步获取最大的 $N$ 个特征值 $\\lambda _ { i }$ 和对应的特征向量 $\\nu _ { _ i }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ K _ { - } n \\ w { m } = \\lambda \\nu\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此时也可以获得矩阵的主成分，如式（5）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = K _ { - } n \\sqrt { \\smash [ b ] { \\nu } _ { i } } \\prod _ { i = 1 , 2 , 3 , \\Lambda _ { i } , n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上述分析，归纳出KPCA算法的具体描述见算法1",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1KPCA算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：初始特征向量集 $B { = } \\{ x _ { 1 } , x _ { 2 } , \\Lambda \\ , x _ { m } \\}$ ，映射 $\\Phi$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：结果特征向量集B'={s,S,,s} ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)利用式（2）计算得出核矩阵 $\\boldsymbol { K }$ ：b)利用式（3）将核矩阵中心化 $\\boldsymbol { K } _ { - } \\boldsymbol { n }$ ：c)利用式（4）计算得出核矩阵的特征值 $\\lambda _ { i }$ 和特征向量 $\\nu _ { _ i }$ ；d)利用式（5）得出核矩阵的主成分，即结果特征向量$\\mathbf { B } { ' } = \\left\\{ s _ { _ { 1 } } , s _ { _ { 2 } } , \\Lambda \\ , s _ { _ n } \\right\\}$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进的KPCA 降维算法 (IKPCA)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "跌倒检测实际上是一个标准的分类问题，传统的KPCA算法虽然尽可能保持了原始信息，具有较好的降维效果，但对于分类问题，仅仅考虑了保留特征空间的信息含量，并未完全考虑数据的类别信息，因此无法保证降维后，可以获得有效的特征向量。为此下文提出一种改进的KPCA降维算法（IKPCA)，以实现分类信息最大化，即同类集中、异类离散，不但保存了KPCA算法的降维能力，而且对后续的分类具有更好的效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "前文提取的75种特征向量由于时域分析法的局限性，会存在大量无效的特征向量，从而导致降维的效率和结果准确度大幅降低，为了尽可能避免无效向量对降维的影响，因此在降维之前需要对特征向量进行特征选择，以剔除无效向量。文中IKPCA算法采用I-RELIEF算法进行特征选择，特征选择之后的跌倒特征向量集为 $D ^ { \\prime }$ ，具体如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa7fdddd2e529ce680ac94d6617d90b02ee8b5e5be76901c417cf061b4cef614.jpg",
+        "table_caption": [
+            "表3跌倒特征向量集 $D$ （20"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SV-△</td><td>a-△</td><td>ax-Sd</td><td>W-Sd</td></tr><tr><td>SV -Sd</td><td>SV -SdT</td><td>a -avgT</td><td>Wy-SdT</td></tr><tr><td>SOA-△</td><td>SOA-SdT</td><td>SV-avgT</td><td>a_-SdT</td></tr><tr><td>a-△</td><td>wx-Sd</td><td>Wx-△</td><td>SOA-avgT</td></tr><tr><td>a-Sd</td><td>a-△</td><td>SOA-Sd</td><td>Wx-avgT</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在跌倒特征向量集 $D$ 的基础上再进行降维处理，可以很好的解决特征向量的冗余，获取合理的、更具代表性的特征向量集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设每一个跌倒特征向量的类内聚集程度如式（6）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { { } _ { k } } ^ { 2 } = \\sum _ { i = 1 } ^ { C } S _ { { } _ { k _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $s _ { k _ { i } }$ 为第 $k$ 个跌倒特征向量的方差， $\\mathbf { \\Psi } _ { c }$ 为类别数。同样每一个跌倒特征向量的类间离散程度如式（7）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { k } ^ { 2 } = \\sum _ { i } ^ { c } \\sum _ { j = i + 1 } ^ { c } { \\left\\| m _ { k _ { j } } - m _ { k _ { i } } \\right\\| } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $m _ { _ { k _ { i } } } = \\sum _ { j = 1 } ^ { l _ { i } } x _ { _ { k _ { i } } }$ ， $\\mathbf { \\xi } _ { l _ { i } }$ 是第 $i$ 类样本的个数， $\\boldsymbol { x } _ { k _ { i j } }$ 是第 $i$ 类的第 $j$ 个样本的第 $k$ 个跌倒特征向量值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（6）（7）得出类别的信息度量，如式（8）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ _ { _ k } = \\frac { \\sigma _ { _ k } ^ { 2 } } { D _ { _ k } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（8）可以得知， $J _ { _ { k } }$ 越大表示类别的信息量就越小，也就表示越难以实现分类，即该跌倒特征向量用于分类的特性也就越模糊。由 $n$ 个最小的 $J _ { _ { k } }$ 所代表的跌倒特征向量构成的集合，就是样本降维处理后表示分类信息量最大的跌倒特征向量集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据上述推导，固然可以求出包括了最大类别信息量的跌倒特征向量集，然而并不能说明类别信息量大就能提升分类的精度。为此本文通过计算反映跌倒特征向量和类别向量之间关系的相似度度量来选择特征向量的集合，剔除对分类作用不显著的特征向量。相似度度量 $\\xi { \\left( \\nu _ { _ i } , \\nu _ { _ j } \\right) }$ 如式（9）所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi { \\left( \\nu _ { _ { i } } , \\nu _ { _ { j } } \\right) } = \\frac { \\operatorname { c o v } ( \\nu _ { _ { i } } , \\nu _ { _ { j } } ) } { \\sqrt { \\operatorname { c o v } ( \\nu _ { _ { i } } , \\nu _ { _ { i } } ) \\gamma \\operatorname { c o v } ( \\nu _ { _ { j } } , \\nu _ { _ { j } } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu _ { _ i }$ 为跌倒特征向量 $\\displaystyle ( \\ i = 1 , \\Lambda \\ , n \\ )$ $\\boldsymbol { \\nu } _ { { } _ { j } }$ 是类别向量。若相似度度量不等于零，表示跌倒特征向量和类别向量是相关的；如果相似度度量趋于零，就表示是不相关的。通过相似度度量可剔除相关性极小的特征向量，有利于降低分类算法训练的复杂度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进的KPCA降维算法(IKPCA)具体算法描述见算法2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2IKPCA算法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：初始跌倒特征向量集 $D = \\left( x _ { 1 } , x _ { 2 } , \\Lambda \\ x _ { m } \\right)$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：最终跌倒特征向量集 $D \"$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)利用I-RELIEF 算法对初始跌倒特征向量集 $D$ 进行特征选择，得到跌倒特征向量集为 $D ^ { \\prime }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)初始化一个 $m \\times m$ 维矩阵， $\\mathbf { \\Sigma } _ { m }$ 为跌倒特征向量集 $D ^ { \\prime }$ 中跌倒特征向量的个数；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)先选定高斯径向核函数中的参数，再利用式（2)，求取核矩阵 $K$ ；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)根据式（3）对核矩阵 $K$ 中心化计算得出 $\\boldsymbol { K } _ { - } { \\boldsymbol { n } }$ ，同时进一步求出K_n的特征向量V=(v,△,v）;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)计算 $\\boldsymbol { V }$ 中每个跌倒特征向量 $\\nu _ { _ k }$ 的信息度量 $J _ { _ { k } }$ ，并根据 $J _ { _ { k } }$ 的大小对跌倒特征向量v 排序得到V'=(vi,,v);",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)提取跌倒特征向量 $V$ 的前 $n$ 个向量 $\\nu _ { \\scriptscriptstyle 1 } , \\Lambda \\ , \\nu _ { \\scriptscriptstyle n }$ ；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)通过式(9)先后计算v,,v和v,的相似度度量ξ(v,v);",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h)根据g)的计算结果，找出和类别向量 $\\nu _ { _ j }$ 相似度度量趋向零的跌倒特征向量，并将这些跌倒特征向量剔除;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "i)将剩下的跌倒特征向量根据相似度度量的大小顺序进行再次排序得到最终跌倒特征向量 $D \"$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在IKPCA的求解过程中，需要特征值分解一个 $m \\times m$ 的核矩阵，因此其计算复杂度是 $O ( m ^ { 3 } )$ 。利用算法2获取的最终跌倒特征向量集为 $D \"$ ，具体如表4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6e06f9a4477aaa5603f81b69fea571f1e65a8f9ca14fa473cf2360ef666b042.jpg",
+        "table_caption": [
+            "表4最终跌倒特征向量集 $D$ ="
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SV-△</td><td>SV-avgT</td></tr><tr><td>SV-SdT</td><td>SOA-Sd</td></tr><tr><td>a-△</td><td>a-SdT</td></tr><tr><td>a -avgT</td><td>SOA-avgT</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验方案",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证IKPCA 算法的有效性和正确性，本节利用支持向量机（supportvectormachines,SVM）作为分类算法，以初始特征向量集和降维后的特征向量集在分类算法上的分类性能作为方案优劣的评判标准（初始特征向量集选自UCI数据集）。具体方案如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方案1初始特征向量集 $+ \\mathrm { S V M }$ 。方案2 初始特征向量集 $+ \\mathrm { K P C A + S V M }$ 。方案3初始特征向量集 $+ \\mathrm { I K P C A + S V M } .$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2算法评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表5列出的性能指标可得出以下三种算法的评价指标：a)算法准确度 $A c$ ，即所有样本的正确率，如式（10)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA c = \\frac { T P + T N } { T P + F N + T N + F P } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)算法灵敏度 $s e$ ，即所有阳性样本的检出率，如式（11)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS e { = } \\frac { T P } { T P + F N } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)算法特异度 $S p$ ，即所有阴性样本的检出率，如式（12)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS p = \\frac { T N } { T N + F P } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1534508026a51a3aae40bb2f780deab064076324299108134d2c2ac5b8041909.jpg",
+        "table_caption": [
+            "表5跌倒检测分类算法性能指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能指标</td><td>说明</td></tr><tr><td>真阳性一TP</td><td>阳性样本被判为阳性</td></tr><tr><td>假阳性一FP</td><td>阴性样本被判为阳性</td></tr><tr><td>真阴性—TN</td><td>阴性样本被判为阴性</td></tr><tr><td>假阴性一FN</td><td>阳性样本被判为阴性</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据式 $( 1 0 ) \\sim ( 1 2 )$ 可以得出实验结果数据，如表6所示。结合表6和图1，通过对比分析可以发现，方案1在初始特征向量集上直接利用SVM作为分类算法，得到的分类性能是最低的；方案2和3分别先用KPCA算法和IKPCA算法进行降维，然后再用SVM进行分类，实验结果表明，在进行降维处理时，IKPCA算法的降维效果明显要优于KPCA算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/250bda45a6d0f9fe5396230401c02eac697c49a77764b60c20a2b367d16be3cf.jpg",
+        "table_caption": [
+            "表6三种方案实验结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方 案</td><td>组合</td><td>分类准 确度</td><td>分类灵 敏度</td><td>分类特 异度</td><td>计算时 间(s)</td></tr><tr><td>1</td><td>初始特征向量集 +SVM</td><td>0.7558</td><td>0.7121</td><td>0.8056</td><td>300.23</td></tr><tr><td>2</td><td>初始特征向量集 +KPCA+SVM</td><td>0.7750</td><td>0.7305</td><td>0.8210</td><td>150.17</td></tr><tr><td>3</td><td>初始特征向量集+ IKPCA+SVM</td><td>0.8261</td><td>0.7652</td><td>0.8535</td><td>169.36</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bfb2cd1b617408d6679617239165fb8a51b375ce1646979aebd6cb1cf49924f.jpg",
+        "img_caption": [
+            "图1三种方案实验性能对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据实验结果分析，可以验证本文中特征提取和降维方法对提高跌倒检测率有较好的效果，其重点就在于提取出了合适有效的特征向量。与KPCA方法相比，提高了跌倒检测率，但是因为计算量比KPCA大，计算耗时延长了 $12 . 7 8 \\%$ 。从工程应用的角度看耗时延长可以接受。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "提高跌倒过程中特征向量的合理性和有效性是跌倒检测的关键问题之一，文首先利用时域分析法提取初始特征向量集，然后利用IKPCA 算法进一步对特征向量进行降维处理，剔除了无效的跌倒特征向量，最后得到合理有效的特征向量集。IKPCA算法不但保持了KPCA算法的降维能力，而且对于后续的分类具有更好的效果。最后在引入数据集和支持向量机分类算法的基础上，通过与其他方法的对比实验分析验证了本文方法能够得到更为优质的特征向量数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Okeyo G,Chen L,Wang H,et al.Dynamic sensor data segmentation for real-time knowledge-driven activity recognition [J].Pervasive & Mobile Computing,2014,10(2): 155-172.   \n[2]Storm FA,Heller B W,Mazza C.Step detection and activity recognition accuracy of seven physical activity monitors [J].PLoS One,2015,10 (3): e0118723.   \n[3]Kai K,Lukowicz P. Sensor placement variations in wearable activity recognition [J].IEEE Pervasive Computing,2014,13(4):32-41.   \n[4]Xie F, Song A,Ciesielski V.Genetic programming based activity recognition ona smartphone sensory data benchmark [C]//Evolutionary Computation. 2014:2917-2924.   \n[5]Fahad L G,Tahir SF,Rajarajan M.Activity recognition in smart homes using clustering based classification [C]//Proc of International Conference on Pattern Recognition.2014:1348-1353.   \n[6]Iso T,YamazakiK.Gait analyzer based ona cell phone with a single threeaxisaccelerometer [C]// Proc of Conference on Human-Computer Interaction with Mobile Devices and Services.2006:141-144.   \n[7]Xie S.Principal component analysis based feature extraction methods applied to biomedical and communication network data [D]. Philosophy: University ofGuelph,2010.   \n[8]钱叶魁，陈鸣，叶立新，等．基于多尺度主成分分析的全网络异常检测 方法[J].软件学报,2012,23(2):361-377.   \n[9]Xu Y, Zhang D, Song F, et al.A method for speeding up feature extraction based on KPCA[J].Neurocomputing,2007,70 (4): 1056-1061.   \n[10] Yang MJ, Zheng HR,Wang HY,et al. Combining feature ranking with PCA:an application to gait analysis [C]// Proc of International Conference on Machine Learning and Cybernetics.2010: 494-499.   \n[11] Yang JY, Chen YP,Lee G Y,et al. Activity recognition using one triaxial accelerometer: a neuro-fuzzy classifier with feature reduction [Cl//Proc of International Conference Entertainment Computing.20o7:395-400.   \n[12] Khan A M,Lee Y K,Lee S Y,et al. Human activity recognition via an accelerometer-enabled-smartphone using kernel discriminant analysis [C// Proc of International Conference on Future Information Technology.2010: 1-6.   \n[13] Cheng WC, Jhan D M. Triaxial accelerometer-based fall detection method using a self-constructing cascade-AdaBoost-SVM classifier. [J].IEEE Journal of Biomedical & Health Informatics,2013,17(2): 411-419.   \n[14] Choudhury T, Consolvo S,Harrison B,et al. The mobile sensing platform: an embedded activity recognition system [J]. IEEE Pervasive Computing, 2008, 7 (2): 32-41.   \n[15] Sun Y. Iterative RELIEF for feature weighting:algorithms,theories,and applications.[J]. IEEE Trans on Pattern Analysis & Machine Intelligence, 2007,29 (6):1035-1051. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

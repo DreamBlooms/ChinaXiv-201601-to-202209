@@ -1,0 +1,583 @@
+[
+    {
+        "type": "text",
+        "text": "“一带一路”沿线分区用水结构与产业结构的分析比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郝林钢'，左其亭},²，韩春辉'，李佳璐'(1．郑州大学水利与环境学院,河南郑州450001；2．郑州大学水科学研究中心,河南郑州 450001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：“一带一路\"沿线用水结构与产业结构的分析,对支撑沿线区域发展意义重大。基于“一带一路”主体水资源区分区及用水研究,采用赫芬达尔－赫希曼指数(HHI指数)分析了“一带一路\"产业用水量和GDP 的地理集中度,采取用水结构指数和产业结构指数分析了分区用水结构及产业结构的差异,应用洛伦茨曲线和基尼系数对“一带一路\"全区用水量与GDP的匹配度进行研究,计算了“一带一路”分区基于数列的用水量与GDP匹配度。结果表明： $\\textcircled{1}$ “一带一路\"第一产业用水量和GDP 产值的集中度在三大产业中均为最高,主要集中在东亚、西亚、南亚和东南亚； $\\textcircled{2}$ 不同分区分产业用水量和GDP产值占各分区总量的比值,在空间分布差异上从大到小依次为第一、第三、第二产业； $\\textcircled{3}$ “一带一路\"全区第三产业用水结构与GDP产值匹配度最差,南亚是第一产业和第三产业匹配度最差的分区。分析成果有助于系统了解“一带一路”区域用水和产业结构的基本情况,为深入分析分区水资源与经济社会关系提供指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：“一带一路\"沿线；水资源分区；用水结构；产业结构；分析比较",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“一带一路”倡议以实现沿线国家优势互补、共同发展为目标[1],需要对这一新的经济合作区域开展大量的人文科学和自然科学研究，以准确掌握沿线的人文特色和自然特征，为相关领域合作框架制定提供指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自“一带一路”提出以来，相关学术研究急剧增加,在国内尤为显著[2-9],但目前研究大多局限于某一特定领域，如在经济社会方面，公丕萍等[2]研究了“一带一路”贸易中的商品格局;在自然地理方面,赵其国等[3]提出了保障\"一带一路”土壤安全的战略框架,徐新良等[4]分析了“丝绸之路经济带”沿线国家的气温和降水变化特征；在自然资源方面，赵亚博等[5]分析了“一带一路”油气资源空间分布特征,左其亭等[6-9]对“一带一路\"沿线的水资源状况开展了大量研究工作。目前，仅部分研究者对沿线自然资源与经济社会的关系进行了分析，如Duan等[10]分析了沿线国家能源投资风险。水资源作为基础性资源，与经济社会发展关系紧密，目前对二者空间匹配度的研究多采用洛伦茨曲线和基尼系数[1]。左其亭等[12]于2014 年提出基于数列的匹配度对其进行分析，但有关水资源与经济社会的匹配研究，多集中在区域水资源量与面积、GDP、人口等的匹配上，对用水结构和产业结构差异及匹配进行研究的较为少见[13]，由分产业用水与GDP的关系，可以分析产业用水量对GDP增长的贡献程度及其空间分布特征。“一带一路\"相关研究[4,7-9,14-15]表明，沿线气候差异大，东南亚为沿线降水最为丰沛的地区，东亚西北部、南亚部分地区、中亚、西亚、北非和东非地区降水较少，欧洲降水在沿线地区中基本处于中等水平，气候和降水差异导致沿线地区水资源禀赋不同。此外，沿线经济社会发展水平各异，因此，迫切需要对其水资源利用与经济社会发展关系进行定量化分析，以保障分区用水安全。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前还很少有关于“一带一路”水资源利用与经济社会发展空间匹配的系统研究，为此，本文在分析“一带一路”用水结构和产业结构空间分布特征的基础上，研究了二者的匹配格局。这样有助于定量化识别“一带一路\"沿线地区分产业用水现状及其与经济发展的关联，为摸清“一带一路”分区水资源利用与经济社会关系提供一种新的分析思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1“一带一路”主体水资源区及分区 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，基于团队前期研究成果，“一带一路”主体水资源区是在主体路线的基础上，考虑沿线水资源情况和行政单元完整性划定得来的，横跨亚、欧、非3大洲。考虑自然地理和水资源特征，将其分为东亚区、西亚区、南亚区、中亚区、东南亚区、东欧区、中欧区、西欧区、南欧区、北非区和东非区等11个水资源一级分区[7-8]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“一带一路\"各分区水资源量、人口和GDP情况如表1所示。由表1可知，各分区水资源与经济社会空间分布差异较大，且分布极不匹配。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbba2eac00495a7b3626bca79d3fcce29d6d3c5e76b9cbf74b48e91b0c21964a.jpg",
+        "img_caption": [
+            "图1“一带一路\"主体水资源区及一级分区图[7] ",
+            "Fig.1The main water resources areas along the“Belt and Road”and their primary regionalization[7] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究方法及数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 用水和产业结构空间分布特征分析方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）赫芬达尔－赫希曼指数(HHI)：赫芬达尔-赫希曼指数(HHI)用于反映产业集聚效应，可以表征不同产业在地理分布上的集中程度[16-17] O本文在采用HHI指数分析“一带一路”产业结构分布特征的基础上，将该指数引入用水结构分析领域，用其表征“一带一路”不同产业用水量的地理集中度。HHI的计算方法如公式(1)所示[16-17) 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { H H I } } = \\sum _ { i = 1 } ^ { n } S _ { i , j } ^ { 2 } , S _ { i , j } = { \\frac { X _ { i , j } } { T } } \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $S _ { i , j }$ 为第 $\\mathbf { \\chi } _ { i }$ 分区第 $j$ 产业用水量（GDP产值）占“一带一路”区域第 $j$ 产业用水量(GDP产值)的比重； $X _ { i , j }$ 为第 $\\mathbf { \\chi } _ { i }$ 分区第 $j$ 产业用水量（GDP产值）； $n =$ 11; $T$ 是“一带一路”区域第 $j$ 产业的总用水量（GDP总量）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考美国司法部以HHI值为依据进行的市场结构划分(18-19],本文制定了反映用水结构和产业结构地理集中度的HHI评价标准（表2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）用水和产业结构指数：产业结构指数由钟业喜等[17]借鉴 Sakamoto H提出的劳动力指数和GDP 指数[20]创建,用于分析中国产业结构。本文借鉴该思路，提出了用水结构指数，以判断“一带一",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1“一带一路”主体水资源区一级分区情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7e23ab02def92d38d8e7c2b4fa5071eb335acc1dca23015f12da4f5c91ed397.jpg",
+        "table_caption": [
+            "Tab.1Basic situation of the primary regionalization of the main water resources areas along the“Belt and Road\" "
+        ],
+        "table_footnote": [
+            "注：数据为2014年主体水资源区内的数据，并非全区域数据。"
+        ],
+        "table_body": "<html><body><table><tr><td>级分区</td><td>涉及国家</td><td>水资源量 /10m</td><td>占比 /%</td><td>人口 /108</td><td>占比 /%</td><td>GDP /10美元</td><td>占比 /%</td></tr><tr><td>东亚区中国</td><td></td><td>9 341</td><td>9.29</td><td>4.22</td><td>17.33</td><td>24 084</td><td>14.22</td></tr><tr><td></td><td>西亚区伊朗、土耳其、沙特阿拉伯、也门、阿曼</td><td>2094</td><td>2.08</td><td>1.21</td><td>4.97</td><td>14 207</td><td>8.39</td></tr><tr><td></td><td>南亚区孟加拉国、巴基斯坦、印度、斯里兰卡</td><td>25 642</td><td>25.49</td><td>10.18</td><td>41.81</td><td>16 090</td><td>9.50</td></tr><tr><td></td><td>中亚区哈萨克斯坦、乌兹别克斯坦、土库曼斯坦、吉尔吉斯斯坦、塔吉克斯坦</td><td>1 645</td><td>1.64</td><td>0.44</td><td>1.81</td><td>2 915</td><td>1.72</td></tr><tr><td></td><td>东南亚区 新加坡、马来西亚、印度尼西亚、缅甸、泰国、老挝、柬埔寨、越南、文莱、 东帝汶</td><td>47 158</td><td>46.88</td><td>4.87</td><td>20.00</td><td>19 135</td><td>11.30</td></tr><tr><td></td><td>东欧区俄罗斯、白俄罗斯</td><td>4000</td><td>3.98</td><td>0.2</td><td>0.82</td><td>9 411</td><td>5.56</td></tr><tr><td>中欧区</td><td>波兰、捷克、斯洛伐克、匈牙利、德国</td><td>3201</td><td>3.18</td><td>1.18</td><td>4.85</td><td>37 228</td><td>21.99</td></tr><tr><td>西欧区</td><td>荷兰、比利时、法国</td><td>1 768</td><td>1.76</td><td>0.53</td><td>2.18</td><td>26 795</td><td>15.82</td></tr><tr><td>南欧区</td><td>罗马尼亚、保加利亚、希腊、阿尔巴尼亚、意大利、黑山、波黑、克罗地 亚、斯洛文尼亚</td><td>5197</td><td>5.17</td><td>0.73</td><td>3.00</td><td>16 075</td><td>9.49</td></tr><tr><td>北非区</td><td>吉布提、索马里、厄立特里亚、肯尼亚</td><td>245</td><td>0.24</td><td>0.44</td><td>1.81</td><td>3020</td><td>1.78</td></tr><tr><td>东非区</td><td>苏丹、埃及</td><td>312</td><td>0.31</td><td>0.35</td><td>1.44</td><td>362</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "路”用水结构差异。用水及产业结构指数的计算方法如公式(2）所示[17] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S I } _ { i } = \\frac { \\mathrm { P N S } _ { i } + 2 \\mathrm { S N S } _ { i } + 3 \\mathrm { T N S } _ { i } - 1 0 0 } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：PNS、SNS、TNS分别为第一、二、三产业的用水量（GDP产值)占“一带一路”区域用水量（GDP产值)的比重。SI在[0,100]之间取值，取值越高，表明某分区第三产业用水量（GDP产值）占总用水量（GDP总量）的比重较大，反之，第一产业的比重较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 匹配分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）洛伦茨曲线和基尼系数：洛伦茨曲线最初用于分析国民收入的分配问题，后有研究者将其引入水资源与经济社会匹配、用水结构等领域的分析[11,13]。洛伦茨曲线与 $4 5 ^ { \\circ }$ 绝对均匀线的距离可以反映两个变量的匹配程度，其横纵坐标分别为两种变量 $\\boldsymbol { a }$ 和 $b$ 的累积比例（图2），基尼系数 $G$ 由阿尔伯特·赫希曼基于洛伦茨曲线提出，可以将匹配程度定量化表达，其计算公式为 $G = S _ { a } / ( S _ { a } + S _ { b } )$ ，式中 $S _ { a }$ 为 $L$ 与 $y = x$ 所围成的面积, $S _ { b }$ 为 $L$ 与 $x$ 轴和$y = 1 0 0 \\%$ 所围成的面积。参考国际惯例，制定基于基尼系数的匹配度评价标准（表3），0.4为警戒线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）基于数列的匹配度计算方法:左其亭等[12]于2014年提出的基于数列的匹配度计算方法，可以对研究区内两种变量在不同单元之间的匹配度差异进行定量化分析[12]。本文采用基于变量权重的空间匹配度计算方法，分析“一带一路”各分区产业用",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccb20fa5dfaf7a0a70cbbeb87a490938bd32324495f90b2c26748855f5f9081d.jpg",
+        "img_caption": [
+            "图2洛伦兹曲线示意图",
+            "Fig.2Schematic diagram of Lorenz curve "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/63a1df5286aabb4bc1cde6f012063aa7976ec49675d84cf1d301bea33a15c9bd.jpg",
+        "table_caption": [
+            "Tab.2Evaluation criteria ofHHI index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">评价标准</td></tr><tr><td>HHI</td><td>(0,0.1）[0.1,0.14)[0.14,0.18)[0.18,0.3)[0.3,1]</td></tr><tr><td>评价结果</td><td>不集中 轻微集中 相对集中 比较集中高度集中</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3基尼系数 $G$ 的评价标准",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7272fad0d852795778f8bc96ece39fc3c5828fef01de4890f68a01ef1fa379f.jpg",
+        "table_caption": [
+            "表2HHI指数评价标准",
+            "Tab.3Evaluation criteriaofGini coefficient $G$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">评价标准</td></tr><tr><td>基尼系数G</td><td>[0,0.2] (0.2,0.3)(0.3,0.4)</td><td>(0.4,0.5）(0.5，1)</td></tr><tr><td>匹配评价结果</td><td>高度匹配 相对匹配 较匹配</td><td>不匹配 极不匹配</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水量与GDP的匹配度，计算方法如公式（3）所示。具体步骤如下： $\\textcircled{1}$ 计算各分区 $x$ 和 $y$ 两种变量占研究区总量的比重 $\\boldsymbol { r }$ 和s; $\\textcircled{2}$ 筛选出 $\\boldsymbol { r }$ 和 $s$ 中的最大值$\\operatorname* { m a x } ( r _ { i } , s _ { i } )$ 和最小值 $\\operatorname* { m i n } ( r _ { i } , s _ { i } )$ · $\\textcircled{3}$ 按照公式(3)分别计算各分区 $x$ 和 $y$ 之间的匹配度。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } = 1 - { \\frac { \\mid r _ { i } - s _ { i } \\mid } { \\operatorname* { m a x } ( r _ { i } , s _ { i } ) - \\operatorname* { m i n } ( r _ { i } , s _ { i } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表4基于数列的匹配度 $\\textbf { \\em a }$ 计算方法的评价标准",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/876fd513b54a68abbb386fecca4b5bb60453390c53f7e1b2d7510d34eadef419.jpg",
+        "table_caption": [
+            "Tab.4Evaluation criteria of matching degree calculation method based on the data sequence "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">评价标准</td></tr><tr><td>匹配度a</td><td></td><td>[0,0.5）[0.5,0.6）[0.6,0.7）[0.7,0.8）[0.8,1]</td><td></td></tr><tr><td>匹配评价结果</td><td>极不匹配</td><td>不匹配 较匹配</td><td>相对匹配 高度匹配</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { i } \\setminus s _ { i }$ 分别为第 $i$ 个分区变量 $x$ 和 $y$ 占“一带一路”区域的比重,ri= $, r _ { i } = \\frac { x _ { i } } { k } , s _ { i } = \\frac { y _ { i } } { k } , x _ { i } \\ : , y _ { i }$ i=1 Mxi,s $\\sum _ { i \\mathop { = } 1 } \\gamma _ { i }$ （20 分别为第 $i$ 个分区变量 $x$ 和 $y$ 的值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考基尼系数划分方法，制定相应的基于数列的匹配度评价标准（表4），0.6为警戒线。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 数据来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "产业GDP数据来自世界银行数据库（https：//data.worldbank.org.cn/indicator）,产业用水量数据来自联合国粮农组织数据库（http://www.fao.org/nr/water/aquastat/data/query/index.html? lang $= { \\mathrm { e n } }$ ）和世界银行数据库。由于数据缺少，考虑到生活用水主要包括居民用水和公共用水，而第三产业与居民生活、公共事业息息相关，本文以生活用水量代替第三产业用水量；本文仅以2014年为例进行分析，考虑到经济社会发展具有一定的稳定性，部分国家的缺失数据采用邻近年份代替。由于第二、第三产业与人类生产生活存在紧密的关系，主体水资源区内的第二、第三产业用水量和GDP采用主体水资源区与相应国家的城乡工矿用地比值进行折算;第一产业与耕地面积存在紧密的关系，主体水资源区内第一产业用水量和GDP采用耕地面积占比进行折算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3“一带一路”用水结构与产业结构空间分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 用水结构空间分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“一带一路\"全区用水结构的 HHI指数和分区用水结构指数计算结果见表5和表6。由表5可得，“一带一路”总用水量和第一产业用水量处于比较集中的水平，因为东亚、东南亚和南亚总用水量、第一产业用水量之和占“一带一路”区域相应用水量的比例均超过 $70 \\%$ ;第二产业用水量处于轻微集中的水平，欧洲、东亚和东南亚占全区域比重较高;第三产业用水量处于相对集中的水平，主要集中在东亚、东南亚和南亚,这3个分区是“一带一路”生活用水大户。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表6可得，“一带一路”区域第一产业用水量最大，东亚、西亚、南亚、中亚、东南亚、北非和东非用水结构指数均在20以下，第一产业用水量占总用水量的比例均在 $70 \\%$ 以上；东欧、中欧和西欧用水结构指数在50左右，第二产业用水量占总用水量的比例均在 $5 0 \\%$ 以上;南欧三大产业用水区别较小，第一产业用水量最大，用水结构指数在50以下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2产业结构空间分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“一带一路\"全区产业结构的 HHI指数和分区产业结构指数计算结果见表5和表6。由表5可得，第一产业GDP、第三产业GDP、GDP总量均处于相对集中的水平，但集中区域有所区别,GDP总量排名前3的地区分别为中欧、西欧和东亚，第一产业GDP 排名前3的地区分别为南亚、东亚和东南亚，第三产业GDP排名前3的地区分别为中欧、西欧和南欧;第二产业GDP处于轻微集中的水平，分布较为均匀。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表6可得，“一带一路\"第三产业产值占GDP总量的份额最高;东非产业结构指数最低，其第一产业GDP贡献率大于第二、第三产业;西欧、南欧、中欧和东欧是产业结构指数排名在前4位的分区，第三产业占GDP总量的比值均在 $6 0 \\%$ 以上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3用水结构与产业结构空间分布差异分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“一带一路”各分区分产业用水量和GDP占“一带一路\"全区的比例如图3a所示;图3b箱线图是依据不同分区某一产业用水量（GDP产值）占“一带一路”全区域总量的比值构成的数据序列所绘制，如第一产业用水箱线图的原始数据为11个分区第一产业用水量占“一带一路”全区第一产业用水量的比值，该箱线图可反映“一带一路”产业用水量和GDP在空间上的波动程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a347b18ae1ff87440b0ab9cff40c93fa258eac406dc6af5e39a5963bef7567c6.jpg",
+        "table_caption": [
+            "表52014年“一带一路”用水和产业结构的HHI指数",
+            "Tab.5HHI index of water consumption and industrial structure along the“Belt and Road”in 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">类别</td><td colspan=\"4\">用水</td><td colspan=\"4\">产业</td></tr><tr><td>用水 总量</td><td>第一产业 用水量</td><td>第二产业 用水量</td><td>第三产业 用水量</td><td>GDP 总量</td><td>第一产业 GDP</td><td>第二产业 GDP</td><td>第三产业 GDP</td></tr><tr><td>HHI</td><td>0.238</td><td>0.294</td><td>0.134</td><td>0.179</td><td>0.153</td><td>0.175</td><td>0.138</td><td>0.150</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/aec316beaff630b7be94bbb7ff4c61b942c3c65f513cc7f1e73e99d982c1bb0f.jpg",
+        "table_caption": [
+            "表62014年\"一带一路”用水和产业结构指数",
+            "Tab.6Water consumption and industrial structural index along the“Belt and Road”in 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>结构指数</td><td>东亚</td><td>西亚</td><td>南亚</td><td>中亚</td><td>东南亚</td><td>东欧</td><td>中欧</td><td>西欧</td><td>南欧</td><td>北非</td><td>东非</td><td>全区</td></tr><tr><td>用水结构指数</td><td>20</td><td>12</td><td>8</td><td>8</td><td>12</td><td>51</td><td>56</td><td>55</td><td>37</td><td>13</td><td>5</td><td>15</td></tr><tr><td>产业结构指数</td><td>66</td><td>74</td><td>68</td><td>72</td><td>70</td><td>79</td><td>83</td><td>89</td><td>86</td><td>71</td><td>44</td><td>78</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合表5和图3可得： $\\textcircled{1}$ “一带一路”第一产业用水量和GDP分别处于比较集中和相对集中的水平，空间分布在总体趋势上具有一致性,如第一产业用水量占比前3名分别为南亚、东南亚、东亚，第一产业GDP占比前3名分别为南亚、东亚和东南亚，从图3b可得，在正常值范围内，第一产业GDP的波动程度大于用水，用水存在一个异常值（南亚）。 $\\textcircled{2}$ 第二产业用水量和GDP在空间分布上也具有一致性，且从HHI指数和图3可知，第二产业用水和GDP空间分布更为均匀，用水和GDP的箱体形状也基本相同。 $\\textcircled{3}$ 第三产业用水量和GDP虽然都处于相对集中水平，但空间分布差异较大，存在用水量占比大、GDP占比小和用水量占比小、GDP占比大两种形式的分区，如南亚第三产业用水量占比高达$3 3 . 5 \\%$ ，而GDP占比仅为 $8 . 1 \\%$ ；西欧第三产业用水量占比仅为 $3 . 8 \\%$ ,而GDP占比高达 $2 2 . 4 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“一带一路\"分区产业用水量和GDP占分区总量的比例如图4a所示，不同分区的第一个堆积柱状图为用水量占比，第二个为GDP占比；图4b是依据不同分区某一产业用水量（GDP产值）占总量的比值组成的数据序列所绘制，如第一产业用水箱线图的原始数据为11个分区第一产业用水量占分区总用水量的比值，该箱线图可反映用水结构和产业结构在不同分区之间的差异程度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合表6和图4可得： $\\textcircled{1}$ “一带一路”不同分区第一产业用水数据的波动程度远大于GDP的波动程度,分区第一产业用水和GDP差异较大，如西亚第一产业用水量占总用水量的 $8 5 . 4 \\%$ ，在所有分区中处于中等偏上水平，GDP却仅占总量的 $6 . 2 \\%$ ，处于较低水平。 $\\textcircled{2}$ 第二产业用水和GDP的波动程度略小于第一产业，但依然存在用水量和GDP不匹配的分区，如西欧第二产业用水量占总用水量的$8 0 . 5 \\%$ ,GDP占比仅为 $2 0 . \\ 3 \\%$ 。 $\\textcircled{3}$ 第三产业的GDP 和用水箱体均较短，说明不同分区第三产业用水和GDP占比的差异相对较小,且不同于第一产业和第二产业的用水量波动程度大于GDP,第三产业的GDP波动程度大于用水量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出： $\\textcircled{1}$ “一带一路”各分区第一产业用水量占比均大于GDP,第一产业用水的箱体明显高于GDP，说明农业作为用水大户，即使在发达国家和以色列等节水技术较高的国家，其用水投入与GDP产出依然不对等，沿线国家应该进一步改善农业灌溉方式，提高水资源利用效率。 $\\textcircled{2}$ 在东亚、西亚、南亚、中亚、东南亚、北非和东非等发展落后的地区,第二产业用水量占比小于GDP,在东欧、中欧、西欧和南欧等较为发达的地区，第二产业的用水量占比却大于GDP，主要是因为发展中国家第一产业用水占比大,相对拉低了第二产业用水量占比，发",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b697fb8de581e8dcd8f69a673ce7ef20a719784e60f2462204614e1090081da.jpg",
+        "img_caption": [
+            "图3“一带一路\"分区用水量(GDP)占比(a)及其箱线图(b)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Proportionsof waterconsumptionandGDPindiferentregions along the“Beltand Road”（a）and theirbox plots（l达地区第三产业GDP产值高，拉低了第二产业GDP占比。 $\\textcircled{3}$ 第三产业的用水量占比均小于GDP,GDP的箱体明显高于用水，说明第三产业可以通过最小的水资源消耗换来最大限度的GDP增长，沿线国家应大力发展第三产业。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7753e609cdc613af5a027497fabb87b49202e3f66559fd5753eae2d7a6f0e2e5.jpg",
+        "img_caption": [
+            "图4“一带一路\"分区分产业用水量(GDP)占比(a)及其箱线图(b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4“一带一路”用水结构与产业结构匹配分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1全区用水结构与产业结构匹配度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，洛伦茨曲线与 $4 5 ^ { \\circ }$ 绝对均匀线距离越近，其匹配度越高，“一带一路”区域第二产业用水与GDP的洛伦茨曲线和绝对均匀线距离最近，总用水量与GDP总量的洛伦茨曲线和绝对均匀线距离最远，经计算，第一产业用水量与GDP基尼系数为0.383，接近警戒线0.4;第二产业用水量与GDP基尼系数为0.229，处于相对匹配水平;第三产业用水量与GDP基尼系数为0.552，处于极不匹配水平；用水总量与GDP总量基尼系数为0.607，处于极不匹配水平。因此，为提高“一带一路”区域用水与GDP匹配度，需要重点关注第三产业和第一产业,其主要原因在于第三产业、第一产业用水与GDP 的空间分布差异较大,在“一带一路\"建设背景下，沿线水资源利用效率低的国家，应该积极寻求高效农业和节水生产技术等方面的合作，减少水资源浪费。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8d349c23a96f7426be430e227c262256fc8f8906da4b6a36de014016efcd1cb.jpg",
+        "img_caption": [
+            "Fig.4Proportions of water consumptionand GDP of different sectors to the total in different regions along the“Belt and Road”（a）and their box plots（b) ",
+            "图52014年\"一带一路\"分产业用水量与GDP 洛伦茨曲线Fig.5Lorenz curve of water consumption and GDP of differentsectorsalong the“Belt and Road”in 2014"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2分区用水结构与产业结构匹配度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从分区用水结构与产业结构的匹配度计算结果（表7）可以看出： $\\textcircled{1}$ 分产业来看，对于第一产业，东亚处于相对匹配水平，南亚处于不匹配水平,其他分区为高度匹配;对于第二产业，西亚处于比较匹配水平，东欧和西欧处于相对匹配水平，其他分区为高度匹配;对于第三产业，东南亚处于相对匹配水平，南亚、中欧和西欧处于极不匹配水平，其他分区为高度匹配。 $\\textcircled{2}$ 从分区来看，南亚用水总量和GDP总量处于极不匹配水平，其水资源利用效率低下，造成水资源的极大浪费，水资源投入和GDP产出不成正比，中欧处于不匹配水平，西欧处于较匹配水平，其他分区为高度匹配。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由“一带一路”全区与分区匹配度的对比分析可以得出： $\\textcircled{1}$ 在各分区中，只有南亚第一产业用水量与GDP处于不匹配水平，因此全区第一产业用水量与GDP的不匹配主要由南亚所引起；“一带一路”用水结构和产业结构之间的不匹配主要是由南亚、中欧和西欧引起。 $\\textcircled{2}$ “一带一路”用水量与GDP 的不匹配主要由第一产业和第三产业所致，因为沿线发展中地区农业灌溉方式粗放，单位面积产值低，造成了水资源的大量浪费，而沿线发达地区第三产业",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表72014年“一带一路\"分区产业用水量与GDP空间匹配度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a08ab947269a51e06ea628a32144f4e5c87829c7d912b4136eabf68ba903a7be.jpg",
+        "table_caption": [
+            "Tab.7Spatial matching degree of water consumption and GDP of diferent sectors in all the regions along the “Belt and Road”in 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">匹配对象</td><td colspan=\"12\">分区</td></tr><tr><td>东亚</td><td>西亚</td><td>南亚</td><td>中亚</td><td>东南亚</td><td>东欧</td><td>中欧</td><td>西欧</td><td>南欧</td><td>北非</td><td>东非</td></tr><tr><td>第一产业用水量-GDP</td><td>0.732</td><td>0.989</td><td>0.549</td><td>0.906</td><td>0.993</td><td>0.932</td><td>0.903</td><td>0.924</td><td>0.948</td><td>0.950</td><td>0.986</td></tr><tr><td>第二产业用水量-GDP</td><td>0.849</td><td>0.642</td><td>0.969</td><td>0.872</td><td>0.818</td><td>0.798</td><td>0.971</td><td>0.730</td><td>0.808</td><td>0.961</td><td>0.998</td></tr><tr><td>第三产业用水量-GDP</td><td>0.863</td><td>0.981</td><td>0.239</td><td>0.973</td><td>0.797</td><td>0.961</td><td>0.459</td><td>0.444</td><td>0.839</td><td>0.854</td><td>0.998</td></tr><tr><td>总用水量-GDP总量</td><td>0.921</td><td>0.962</td><td>0.230</td><td>0.897</td><td>0.874</td><td>0.908</td><td>0.536</td><td>0.613</td><td>0.830</td><td>0.924</td><td>0.996</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "高度发展，用水量少，GDP产值高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过分析“一带一路”用水和产业结构空间分布特征及差异，并采用基尼系数和基于数列的匹配度对二者的空间匹配程度进行了定量化分析，主要得到如下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）“一带一路\"沿线用水集中度大于GDP集中度，在三大产业中，第一产业用水量和GDP的地理集中度最高；11个分区及全区的产业结构指数均大于用水结构指数，全区第一产业用水量较大，第三产业GDP产值较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）不同分区第一产业用水和GDP产值占各自分区总量比值之间的空间分布差异最大，第二产业空间分布最为均匀。受作物种类、气候类型、灌溉方式等因素的影响，第一产业用水量和GDP产出不对等的现象在不同分区之间差异较大，“一带一路”分区用水结构和产业结构差异主要由第一产业引起。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）“一带一路”全区分产业用水量与GDP产值匹配程度从大到小依次为：第二产业、第一产业、第三产业;南亚第一产业、第三产业用水量与GDP匹配度均是11个分区中最差的，全区的不匹配与南亚存在紧密的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]国家发展改革委,外交部,商务部.推动共建丝绸之路经济带和 21世纪海上丝绸之路的愿景与行动[EB/OL].（2015-03-30) [2017-09 -06].http://www.sdpc.gov.cn/gzdt/201503/t.[National Development and Reform Commission,Ministry of Foreign Affairs of the Peoples Republic of China,Ministry of Commerce of the People's Republic of China.Vision and Actions on Jointly Building Silk Road Economic Belt and 2lst-Century Maritime Silk Road [EB/OL].(2015-03-30)[2017-09-06].http://www.sdpc gov.cn/gzdt/201503/t20150328_669091.html.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]公丕萍,宋周莺,刘卫东.中国与“一带一路\"沿线国家贸易的 商品格局[J].地理科学进展,2015,34（5）：571-580.[Gong Peiping，Song Zhouying,Liu Weidong.Commodity structure of trade between China and countries in the Belt and Road initiative area[J].Progress in Geography,2015,34(5）:571-580.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3]赵其国,沈仁芳,滕应.中国土壤安全\"一带一路”发展战略的 思考[J].生态环境学报,2016,25(3）:365-371.[Zhao Qiguo, Shen Renfang,Teng Ying.The Belt and Road development strategy of soil security in China[J].Ecology and Environmental Sciences, 2016,25(3) :365 -371.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]徐新良，王靓,蔡红艳.“丝绸之路经济带”沿线主要国家气候变化特征[J].资源科学,2016,38(9)：1742-1753.[Xu Xin-liang,Wang Liang,Cai Hongyan.Spatio-temporal characteristics ofclimate change in the Silk Road Economic Belt[J].Resources Sci-ence,2016,38(9):1742-1753.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5]赵亚博,刘晓凤,葛岳静.“一带一路\"沿线国家油气资源分布 格局及其与中国合作中的相互依赖关系[J].地理研究,2017 (12）:2 305-2 320.[Zhao Yabo,Liu Xiaofeng,Ge Yuejing.Analysis of the oil and gas resources distribution pattern along the Belt and Road and the interdependence relationship with China [J].Geographical Research,2017（12）:2 305-2 320.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]左其亭,韩春辉,马军霞,等.“一带一路\"中国大陆区水资源特征及支撑能力研究[J].水利学报，2017，48（6）：631-639.[Zuo Qiting,Han Chunhui,Ma Junxia,etal.Water resources char-acteristics and supporting capacity for“the Belt and Road”in Chi-namainland[J].Journal ofHydraulic Engineering,2O17,48（6）：631 -639.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7]左其亭,郝林钢,马军霞,等.“一带一路\"分区水问题及借鉴中 国治水经验的思考〔J].灌溉排水学报，2018，37（1）：1-7. [Zuo Qiting,Hao Lingang,Ma Junxia,et al.“Belt and Road”water problem in regionalization and reflections on drawing lessons from China's water management experience[J]. Journal of Irrigation andDrainage,2018,37（1）:1-7.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]左其亭,韩春辉,郝林钢,等.“一带一路\"主体路线及主体水资源区研究[J].资源科学，2018，40(5）：1006-1015.［ZuoQit-ing,Han Chunhui,Hao Lingang,etal. The main route and the mainwaterresources areas of the“Belt and Road”[J].Resources sci-ence,2018,40(5):1006-1015.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]左其亭,郝林钢,刘建华,等.“一带一路\"分区水资源特征及水安全保障体系框架[J].水资源保护，2018，34（4)：16-21，28.[Zuo Qiting,Hao Lingang,Liu Jianhua,et al.Characteristic of wa-terresources in“Belt and Road”district and its framework of wa-tersecurity system[J].WaterResourcesProtection,2O18,34（4）：16 -21,28.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10]Duan Fei,Ji Qiang,Liu Bingyue,et al. Energy investment risk assessment for nations along China's Belt & Road Initiative[J]. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Journal of CleanerProduction,2018,170:535-547. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11]张吉辉，李健,唐燕.中国水资源与经济发展要素的时空匹配分析[J].资源科学,2012,34（8）：1546-1555.[ZhangJihui，Li Jian,Tang Yan.Analysis of the spatio-temporal matching of wa-ter resource and economic development factors in China[J].Re-sources Science,2012,34(8):1 546-1 555.]  \n[12]左其亭，赵衡，马军霞，等.水资源利用与经济社会发展匹配度计算方法及应用[J].水利水电科技进展，2014,34(6)：1-6.[Zuo Qiting,Zhao Heng,Ma Junxia,et al.A calculation methodand its application on the matching degree of the water resources u-tilization and socio-economic development[J].Advances in Sci-ence and Technology of Water Resources,2014,34(6):1-6.]  \n[13］刘欢，左其亭.基于洛伦茨曲线和基尼系数的郑州市用水结构分析[J].资源科学,2014,36（10）:2 012-2 019.[Liu Huan,Zuo Qiting.Analysis of water consumption structure in Zhengzhoubased on Lorenz curves and Gini coefficients[J].Resources Sci-ence,2014,36(10):2 012-2019.]  \n[14]李志斐.水资源安全与\"一带一路\"战略实施[J].中国地质大学学报（社会科学版）,2017，17（3）：45-53.［LiZhifei.WaterSecurity and the Implementation of“One Belt-One Road” Strategy[J].Journal of China University of Geosciences（Social SciencesEdition）,2017,17(3):45-53.]  \n[15]李明亮，李原园，侯杰，等.“一带一路\"国家水资源特点分析及",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "合作展望[J].水利规划与设计，2017（1）：34-38.［LiMingli-",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ang,Li Yuanyuan,Hou Jie,et al.the characteristics and cooperation prospect of the water resources along the“Belt and Road” [J].Water Resources Planning and Design,2017(1）:34-38.]   \n[16]吴建民，丁疆辉,李颖.行业结构、地区结构与我国第三产业的 发展[J].地域研究与开发,2012,31(5）:6-10.[WuJianmin， Ding Jianghui,Li Ying.The industry structure,regional structure and the development of the third industry in China[J].Areal Research and Development,2012,31（5）:6-10.]   \n[17]钟业喜，陈琳，黄洁.中国500 强的行业结构及其区域差异 [J].地理科学,2017,37(2）:190-199.[Zhong Yexi,Chen Lin, Huang Jie.Chinese industrial structure and its regional disparity based on the data of Chinese top 5OO enterprises[J].Scientia Geographica Sinica,2017,37(2):190-199.]   \n[18］高金山,张聪聪.基于HHI指数的风电整机行业集中度分析 [J].风能产业,2017（7）:28-30.[Gao Jinshan,Zhang Congcong.Concentration analysis of wind turbine industry based on HHI index[J].Wind Energy Industry,2017(7):28-30.]   \n[19]晓晔.美国企业横向合并指南(续)—1992年4月2日发布 [J].外国法译评,1996(3）:100-112.［Xiao Ye.US corporate horizontal merger guidelines（continued）:Published april 2,1992 [J].Global Law Review,1996(3）:100-112.]   \n[20]Sakamoto H.Provincial economic growth and industrial structure in China:An index approach[J].Regional Science Policy & Practice,2011,3(4) :323-338. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Water Consumption and Industrial Structure in Different Regions along the“Belt and Road” ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HAO Lin-gang¹， ZUO Qi-ting1²，HAN Chun-hui1， LI Jia-lu' (1.School of Water Conservancy& Environment,Zhengzhou University,Zhengzhou 45oool,Henan,China; 2.Center for Hydroscience Research,Zhengzhou University,Zhengzhou 45oo01,Henan,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The research about water consumption and industrial structure along the“Belt and Road”is of great significance fortheregional development.In this paper,the geographicalconcentration ratios of water consumption and GDPof diferent industries in the regions along the“Belt and Road”were analyzed using the Herfindahl-Hirschman Index based on studying the regionalization of main water resources areas and the water consumption along the“Belt and Road”,and the values of water consumption structure index and the industrial structure index were calculated.The Lorenz curve and the Gini coeffcient were used to study the matching degree of water consumption and GDP in the regions along the“Belt and Road”and to calculate the matching degreebased on the data sequence of water consumption and GDP in different regions.The results are as follows : $\\textcircled{1}$ The geographical concentration ratios of water consumption and GDP in the primary industryin theregions along the“Beltand Road”were the highest among the three major industries,which was caused by the high water consumption and GDP in the developing regions,such as East Asia,West Asia,South Asia and Southeast Asia; $\\textcircled{2}$ The proportions of water consumption and GDP in diferent regions were in an order of primary industry $>$ tertiary industry $>$ secondary industry ; $\\textcircled{3}$ Along the“Belt and Road”,the matching degree of water consumption and GDPof tertiary industry was the lowest,especially in South Asia.The research results are of significance to systematically understand the basic situation of water consumption and industrial structure in theregions along the“Belt and Road”and to provide a guidance for further analyzing the relationship between water resources and economic and social development. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:the“Belt and Road”；water resources regionalization；water consumption；industrial structure；analysis and compare ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,272 @@
+# 基于矩阵补全的自适应去雨雪算法
+
+田文英a，黄成泉b，冉龙才‘
+
+(贵州民族大学 a.数据科学与信息工程学;b.工程技术人才实践训练中心，贵阳 550025)
+
+摘要：传统的去除雨雪的方法通常没有考虑参数的自适应问题。为了提高视频去雨去雪的效果，在 Kim方法的矩阵补全模型中添加了一个自适应参数并提出了基于矩阵补全的自适应去雨雪算法。首先，简要地描述Kim方法的主要工作；其次，把自适应参数添加到经典的Kim模型的第二项；最后，使用各种雨雪视频验证了该参数的有效性及优异性，并使用网格搜索法找到去雨效果最好的参数。实验结果表明，添加的自适应参数能够有效地去除视频中的雨和雪。
+
+关键词：视频去雨去雪；雨线去除；自适应参数；稀疏表示；矩阵补全 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.10.0854
+
+Adaptive deraining and desnowing algorithm based on matrix completion
+
+Tian Wenyinga, Huang Chengquanbt, Ran Longcaia (a.SchoolofData Science&InformationEnginering,b.Engineering Training Center,Guizhou MinzuUniversityGuiyang 550025, China)
+
+Abstract:The traditional methods ofderaining and desnowing usualyhave notconsidered theparameter adaptive problem. In order to improve the efectof video deraininganddesnowing,this paperaddedan adaptive parameter tothe matrix completion model of Kim method and proposed an adaptive deraining and desnowing algorithm based on matrix completion. First,this paper introducedthe main work of Kim method.Second,the proposed algorithm addedthe adaptive parameter to the second termofthe clasic Kimmodel.Finaly,thispaperused various rainandsnow videosto verify thevalidityand superiorityoftheparameter,andapliedthe grid-search method to find the parameter withthe bestrain removal ffect. Experimental results show that the added adaptive parameter can effectively remove rain and snow from the videos.
+
+Keywords:video deraining and desnowing;rain streak removal;the adaptiveparameter；sparse representation;matrix completion
+
+# 0 引言
+
+视频图像去雨去雪是数字图像处理和计算机视觉中研究的重要问题，广泛应用于视频监控、智能交通和军事侦察等领域。在不良天气中获取视频图像信息时，成像系统会受到雾、霾、雨、雪等不良天气的影响，这将会导致图像对比度降低，图像模糊以及图像重要信息丢失等。从而也降低了视频图像后续分析和处理的准确性和可靠性[1,2]。近年来，随着计算机硬件性能的提高，大数据的普及以及视频图像应用的推广，越来越多的研究工作者开始关注视频图像去雨去雪的应用与研究。在视频图像去雨技术研究进展一文中[3]描述了大量的雨线去除方法与研究进展，可见视频图像去雨已经成为研究工作者广泛关注的一个焦点问题。Kim 等人[4提出了一种基于时空相关性和低秩矩阵补全的视频去雨去雪算法（为了便于描述，该算法简称为Kim方法)。Kim方法能够有效地检测并去除雨线和雪线。Tian 等人[5]应用雪花去除场景的全局和局部属性来去除视频中的雪花,该方法使用雪花的相关特征将雪花和其他运动对象分开，然后提出了一种基于低秩分解的雪花去除方法。Wei等人[6介绍了一种简单而精炼的模型用于去除视频中的雨线，该方法将雨线编码为随机知识，并使用基于块的高斯混合(P-MoG)来制定它。P-MoG模型在各种视频的雨线去除任务中都具有良好的性能。但是，当测试视频具有快速移动的运动对象时，该方法则无法去除所有的雨线，甚至会出现模糊的结果。Li等人7提取了雨线的两个内在特征，即为稀疏地散布在视频和多尺度结构的不同位置的重复局部模式，并将这两个内在特征表述为多尺度卷积稀疏代码（MS-CSC)。MS-CSC模型通常将雨层分解为具有物理意义的不同级别的雨线。MS-CSC方法对于静态场景简单有效，但如果测试视频具有复杂的运动对象或具有明显的晃动，则会导致图像模糊，并且降低图像的对比度。然而，由于背景的复杂性，雨雪的形态特征、运动速度、雨线或雪线的密集程度以及风向等因素的干扰，视频图像去雨去雪在实际应用中仍面临着许多问题。此外，雨雪天气的动态复杂性和拍摄场景的差异性也为雨雪的去除带来了巨大的技术挑战。因此，在视频图像去雨去雪的应用研究中仍有许多亟待解决的问题。
+
+针对上述问题，本文提出了一种基于矩阵补全的自适应去雨雪算法。该方法在Kim方法的基础上进行改进，由于Kim方法没有考虑参数的自适应问题，所以本文主要针对该问题进行研究。在本文中使用“雨"表示雨和雪，因为去雨的方法同样适用于去雪，反之亦然。
+
+# 1 预备知识
+
+本文在经典的Kim模型中添加了一个自适应参数，并根据Kim方法提取雨图和优化雨图的原理来获取初始雨图和精确雨图。首先基于光流估计算法[8获取初始雨图或初始雪图，并应用稀疏表示技术9将初始雨图分解为基向量。然后，使用SVM分类器[10将基向量分为雨线和异常值两大类。最后通过去除异常值来优化初始雨图，并将输入帧根据相应阈值标记为一个二进制矩阵。
+
+# 1.1 初始雨图提取
+
+Kim方法应用光流估计算法来获取初始雨图，这是由于光流估计算法可以在两个连续帧之间找到密集的运动场[]。然后， $\operatorname { K i m }$ 方法通过估计光流场将前一帧扭曲到当前帧，这样可以补偿连续帧中不匹配的信息。光流估计通常可以表述为一个最小化问题，其中能量函数由下式给出：
+
+$$
+E ( U ) = E _ { d } \left( U \right) + \lambda E _ { s } \left( U \right)
+$$
+
+$$
+= \int \psi \Big ( \big ( I _ { 2 } ( \pmb { x } + \pmb { u } ( \pmb { x } ) ) - I _ { 1 } ( \pmb { x } ) \big ) ^ { 2 } \Big ) + \lambda \int \psi \Big ( \big \| \nabla \pmb { u } \big ( \pmb { x } \big ) \big \| ^ { 2 } \Big ) d \pmb { x } ,
+$$
+
+其中： $\pmb { U }$ 是光流域； $\lambda$ 是正则化参数，此处 $\lambda = 1$ ； $\psi$ 是罚函数，且 $\psi ( { \pmb x } ) = \sqrt { { \pmb x } ^ { 2 } + { \pmb \varepsilon } ^ { 2 } }$ ， $\scriptstyle { \varepsilon = 0 . 0 0 1 }$ ； ${ \pmb u } ( { \pmb x } )$ 是像素 $x$ 的光流向量； $E _ { d }$ 是数据项，用来衡量图片帧 $I _ { \mathrm { 1 } }$ 和目标帧 $I _ { 2 }$ 相应像素点的相似度； $E _ { s }$ 是平滑项，将相邻像素约束为相似； $\nabla \pmb { u } ( \pmb { x } )$ 表示 $\pmb { u } ( \pmb { x } )$ 的梯度。
+
+给定图片帧： $I _ { k - 1 }$ ， $I _ { k }$ ， $I _ { k + 1 }$ ，通过式（2）和（3）可以相应地定义扭曲前帧 $\tilde { I } _ { k } ^ { p r e \nu } ( { \pmb x } )$ 和扭曲后帧 $\tilde { I } _ { k } ^ { n e x t } ( { \pmb x } )$ ：
+
+$$
+\widetilde { I } _ { k } ^ { p r e \nu } ( { \pmb x } ) = I _ { k - 1 } \big ( { \pmb x } + { \pmb u } _ { k } ^ { p r e \nu } ( { \pmb x } ) \big ) ,
+$$
+
+$$
+\widetilde { I } _ { k } ^ { n e x t } \left( { \pmb x } \right) = I _ { k + 1 } \left( { \pmb x } + { \pmb u } _ { k } ^ { n e x t } \left( { \pmb x } \right) \right) ,
+$$
+
+其中： ${ \pmb u } _ { k } ^ { p r e \nu } ( { \pmb x } )$ 是像素 $x$ 从 $I _ { k - 1 }$ 到 $I _ { k }$ 的光流向量； ${ \pmb u } _ { k } ^ { n e x t } ( { \pmb x } )$ 是像素 $x$ 从 $I _ { k }$ 到 $I _ { k + 1 }$ 的光流向量。
+
+Kim方法尝试选出与当前帧的原始像素值 $I _ { k } ( { \pmb x } )$ 更为相似的像素值，并将该选择描述为一个标签，通过式（4）向每一个像素分配一个二进制标签 $\boldsymbol { l } ( \boldsymbol { x } )$ ：
+
+$$
+\tilde { I } _ { k } ( \pmb { x } ) = \left\{ \begin{array} { l l } { \tilde { I } _ { k } ^ { p r e \nu } ( \pmb { x } ) , ~ i f l ( \pmb { x } ) = 0 , } \\ { \tilde { I } _ { k } ^ { n e x t } ( \pmb { x } ) , ~ i f l ( \pmb { x } ) = 1 . } \end{array} \right.
+$$
+
+最后，Kim方法通过（5）获得初始雨图 $R$ 作为当前帧 $I _ { k }$ 和最佳扭曲帧 $\tilde { I } _ { k }$ 间的差异图像：
+
+$$
+R ( { \pmb x } ) = \operatorname* { m a x } \big \{ I _ { k } ( { \pmb x } ) - \tilde { I } _ { k } ( { \pmb x } ) , 0 \big \} .
+$$
+
+# 1.2雨图优化
+
+为了获得更精准的雨图， $\mathrm { \ K i m }$ 方法通过去除异常值来优化初始雨图。在阈值之前优化初始雨图可以有效地抑制异常值并可靠地检测有效雨线。Kim方法对优化后的初始雨图 $R$ 进行阈值得到一个二进制雨掩模。此外，不同的阈值可以得到不同的二进制雨掩模。
+
+Kim方法利用雨线的方向特征和形态特征进一步优化初始雨图。形态成分分析（MCA）[12,13]基于稀疏表示将给定信号分解为基向量，然后仅使用选择的基向量来重建信号。同时，稀疏表示技术可以有效地消除雨线中重叠的异常值。给定具有 $n$ 个像素的初始雨图 $R$ ，并且在每个像素周围考虑一个大小为 $m$ 的块，构造一个 $m \times n$ 的矩阵 $\scriptstyle R$ ，每一列代表一个块。选定的基向量可以通过字典进行稀疏表示，即构造一个过完备字典 $\pmb { { \cal D } } \in \mathbb { R } ^ { m \times p } ( p > m )$ ，过完备字典 $\textbf {  { D } }$ 由维度为 $m$ 的 $p$ 个基向量组成。然后尝试对字典进行迭代更新，并进行稀疏表示求解[14]：
+
+$$
+\| { \pmb R } - { \pmb D } { \pmb A } \| ,
+$$
+
+其中： $A$ 是 $p \times n$ 的系数矩阵。假设 $A$ 是稀疏的， $\mathrm { K i m }$ 方法通过求解优化问题（7）得到最优系数矩阵 $A ^ { * }$ ：
+
+$$
+A ^ { * } = \underset { A \in \mathbb { R } ^ { p \times n } } { \arg \operatorname* { m i n } } \bigg \{ \frac { 1 } { 2 } \| R - { D A } \| _ { 2 } ^ { 2 } + \rho \| A \| _ { 1 } \bigg \} ,
+$$
+
+其中： $\rho { = } 0 . 1 5$ 。
+
+正交匹配追踪[15]用于寻找稀疏系数，其重复选择基向量以产生具有残余信号的最大内积。在将字典 $\textbf {  { D } }$ 中的基向量划分为雨线和异常值后，Kim方法仅使用雨线来重建无雨图。Kim方法应用核回归方法[6分析基于奇异值分解（SVD）的块结构，并找到每个块中强度分布的最佳匹配核。 $\mathrm { \ K i m }$ 方法使用像素 $x$ 的梯度值来计算协方差矩阵 $\boldsymbol { C } _ { i }$ ：
+
+$$
+C _ { i } = \frac { 1 } { | W _ { i } | } \sum _ { x \in W _ { i } } \biggl [ \begin{array} { l l } { { g _ { h } ^ { 2 } ( { \pmb x } ) } } & { { g _ { h } ( { \pmb x } ) g _ { \nu } ( { \pmb x } ) } } \\ { { g _ { h } ( { \pmb x } ) g _ { \nu } ( { \pmb x } ) } } & { { g _ { \nu } ^ { 2 } ( { \pmb x } ) } } \end{array} \biggr ] ,
+$$
+
+其中： $W _ { i }$ 是对应于字典 $\textbf {  { D } }$ 中第 $i$ 个基向量的块； $\left| W _ { i } \right|$ 表示 $W _ { i }$ 的大小； $g _ { h } ( { \pmb x } )$ 和 $g _ { \nu } ( { \pmb x } )$ 是像素 $x$ 沿水平方向和垂直方向的梯度值。
+
+Kim方法将SVD应用于协方差矩阵 $\boldsymbol { C } _ { i }$ 来分析 $W _ { i }$ 内核的结构和方向。
+
+$$
+\begin{array} { r } { \boldsymbol { C } _ { i } = \biggl [ \begin{array} { l l } { \cos \theta _ { i } } & { - \sin \theta _ { i } } \\ { \sin \theta _ { i } } & { \cos \theta _ { i } } \end{array} \biggr ] \left[ \begin{array} { l l } { \mu _ { i } } & { 0 } \\ { 0 } & { \nu _ { i } } \end{array} \right] \left[ \begin{array} { l l } { \cos \theta _ { i } } & { - \sin \theta _ { i } } \\ { \sin \theta _ { i } } & { \cos \theta _ { i } } \end{array} \right] ^ { T } , } \end{array}
+$$
+
+其中： $\theta _ { i }$ 是转动角； $\mu _ { i }$ 和 $\nu _ { i }$ 分别表示核尺度沿主轴和次轴的两个特征值。
+
+Kim方法应用SVM分类器进行分类，为了训练SVM，Kim方法使用3072个由有效基向量构成的正样本和3072个由异常值向量构成的负样本。然后， $\mathrm { \ K i m }$ 方法对初始雨图 $R$ 进行优化得到一个更精确的雨图 $\hat { R }$ 。在SVM分类之后，Kim方法用零向量替换原始字典 $\textbf {  { D } }$ 中的所有异常值向量以获得新字典 $\hat { D }$ 。因此，通过将新字典 $\hat { D }$ 与最优系数矩阵 $\mathbf { A } ^ { * }$ 相乘来构成新的矩阵 $\hat { R }$ 。
+
+$$
+\hat { R } = \hat { D } A ^ { * } .
+$$
+
+最后，Kim方法通过（11）从优化的雨图 $\hat { R }$ 中生成一个二进制雨掩模 $M$ 。
+
+$$
+M ( \pmb { x } ) = \left\{ \begin{array} { l l } { 1 } & { i f \hat { R } ( \pmb { x } ) > \xi , \xi = 3 , } \\ { 0 } & { o t h e r w i s e . } \end{array} \right.
+$$
+
+# 1.3雨线去除
+
+Kim方法把视频去雨视为一个低秩矩阵补全问题。首先，将当前帧 $I _ { k }$ 分解为互不相交的块。然后，对于每一个块 $\textbf { \textit { b } }$ ，Kim方法从当前帧 $I _ { k }$ 的四个连续相邻帧： $I _ { k - 2 }$ ， $I _ { k - 1 }$ ， $I _ { k + 1 }$ ， $I _ { k + 2 }$ 中的每一帧中都搜索出与块 $\textbf { \textit { b } }$ 相似的 $\mathbf { \xi } _ { l }$ 个块。最后，通过连接当前帧中的给定块 $\textbf { \textit { b } }$ 和其相邻帧中最相似的 $4 l$ 个块 $\pmb { b } _ { i }$ 来构造一个不完全矩阵 $\textbf {  { B } }$ 。
+
+$$
+\pmb { { \cal B } } = [ \pmb { { \cal b } } , \pmb { { b } } _ { 1 } , \pmb { { b } } _ { 2 } , . . . , \pmb { { b } } _ { 4 l } ] .
+$$
+
+其中： $\textbf { \textit { b } }$ 是 $I _ { k }$ 分解后的任意一个块，矩阵 $\textbf {  { B } }$ 中每列表示一个块。
+
+Kim方法为矩阵 $\textbf {  { B } }$ 定义了一个二进制雨掩模矩阵 $M$ ，由下式给出：
+
+$$
+\pmb { M } = [ \pmb { m } , \pmb { m } _ { 1 } , \pmb { m } _ { 2 } , . . . , \pmb { m } _ { 4 l } ] ,
+$$
+
+其中：矩阵 $\textbf { \em M }$ 中的向量由（11）中相应的二进制雨掩模值组成，并相应地表示为列向量。
+
+Kim 方法应用低秩矩阵补全技术[17,18,19]从不完全矩阵 $B$ 中找到一个补全矩阵 $\scriptstyle { \boldsymbol { X } }$ ，这个期望的补全矩阵 $\scriptstyle { \boldsymbol { X } }$ 应该最小化受到以下约束的核范数 $\| X \| _ { * }$ ：
+
+$$
+( I - M ) \circ X = ( I - M ) \circ B ,
+$$
+
+其中： $^ { \prime }$ 是元素都为1的矩阵；。表示两个矩阵的逐元素（element-wise）乘法。
+
+Kim方法提出了另一个约束条件，即无雨像素值应该比
+
+有雨的像素值小，然后给出了以下约束矩阵补全问题：minimize $\left\| X \right\| _ { * } .$
+
+subject to
+
+$$
+( I - M ) \circ X = ( I - M ) \circ B ,
+$$
+
+$$
+M \circ X \leq M \circ B
+$$
+
+Kim方法应用期望最大化（EM）算法求解上述约束优化问题。在第 $t$ 次迭代的期望步骤（E 步）中构建了一个补全矩阵：
+
+$$
+{ \pmb X } ^ { ( t ) } = ( { \pmb I } - { \pmb M } ) \circ { \pmb B } + { \pmb M } \circ ( { \pmb Y } ^ { ( t ) } \wedge { \pmb B } ) .
+$$
+
+其中：第一项是不含雨线部分，即提取输入矩阵 $\textbf {  { B } }$ 中的元素放在无雨像素处；第二项是含雨线部分，即将当前估计 $\pmb { Y } ^ { ( t ) }$ 的元素放在有雨像素处。
+
+在最大化步骤（M步）中将 $\pmb { Y } ^ { ( t ) }$ 更新为 $X ^ { ( t ) }$ 的一个低秩近似，并对 $X ^ { ( t ) }$ 进行奇异值分解，得到
+
+$$
+\pmb { X } ^ { ( t ) } = \pmb { V } \pmb { A } \pmb { W } ^ { T } ,
+$$
+
+其中： $\boldsymbol { \nu }$ 表示旋转矩阵； $^ { A }$ 表示由奇异值组成的对角矩阵。
+
+Kim方法将当前估计 $\pmb { Y } ^ { ( t + 1 ) }$ 更新为 $X ^ { ( t ) }$ 的一个低秩近似
+
+$$
+\pmb { Y } ^ { ( t + 1 ) } = \pmb { V } \pmb { H } _ { k } ( \pmb { A } ) \pmb { W } ^ { T } ,
+$$
+
+其中： $H _ { k }$ 是一个算子，如果 $H _ { k }$ 小于阈值 $k = 2 0 0 0$ ，则 $H _ { k }$ 把 $\mathbf { \Omega } _ { A }$ 中的每一个奇异值截断为0。
+
+Kim方法反复地迭代E步和 $\mathbf { M }$ 步，直到满足以下停止标准：
+
+$$
+\left\| \mathbf { { \cal Y } } ^ { ( t ) } - \mathbf { { \cal Y } } ^ { ( t + 1 ) } \right\| _ { M } < \varepsilon ~ o r ~ t = t _ { \operatorname* { m a x } } ,
+$$
+
+其中： $\Vert \cdot \Vert _ { \ b { M } }$ 表示像素值之间的平均绝对差；此处， $\varepsilon = 0 . 0 5$ ，$t _ { \mathrm { m a x } } = 1 5 0$ 。
+
+Kim方使用得到的最佳补全矩阵 $\hat { X }$ 中的相应元素来替换输入块 $\textbf { \textit { b } }$ 中的雨像素，从而去除视频中的雨线。由于Kim方法中没有考虑到参数自适应的问题，因此为了提高视频中雨雪的去除性能，本文在Kim模型（18）的第二项中添加了一个自适应参数 $T$ 得到一个改进的矩阵补全模型 $X ^ { ( t ) }$ ，由下式给出：
+
+$$
+{ \pmb X } ^ { ( t ) } = ( { \pmb I } - { \pmb M } ) \circ { \pmb B } + { \pmb T } \cdot ( { \pmb M } \circ ( { \pmb Y } ^ { ( \mathrm { t } ) } \wedge { \pmb B } ) ) .
+$$
+
+从实验结果可以看出，添加到 $\operatorname { K i m }$ 模型第二项的自适应参数 $T$ 对视频去雨有着重大的影响。
+
+# 2 实验及结果分析
+
+本文实验主要分为三部分，第一部分实验使用两组合成数据集来验证所添加的自适应参数的有效性，并确定出最佳参数搜索范围。第一部分实验的搜索范围为：0.5--1.5（本文经过大量实验，最终将搜索范围缩小为0.5--1.5)，步长为0.1，使用网格搜索法进行搜索。第二部分实验使用两组合成雨视频进一步验证自适应参数的优异性，并且这两组视频序列具有不同大小的雨线。通过第一部分实验确定的最佳搜索范围为：0.980--1.020，步长为0.005，使用网格搜索法找到去雨效果最好的参数。第三部分实验在自然雨视频序列和电视剧中截取的雪视频序列上验证该自适应参数的有效性及雨线去除性能。
+
+在这些数据集中，使用的自然雨视频序列是由移动相机拍摄的。实验中采用的电视剧视频序列是通过视频编辑软件从电视剧中截取的。至于本文实验中使用的合成视频序列是从以下网站中下载的：http://www.changedetection.net/.合成数据集包括“Boats,”“Highway,”“Niagara,”“Port,”，其中"Niagara"来自Kim方法中的数据集。实验中使用‘AdobeAfterEffect $\textsuperscript { \textregistered } ^ { * }$ 来合成不同类型的雨线。对于自然视频序列和截取的电视剧视频序列，本文根据视频序列中的人物信息给视频命名，而合成视频序列则使用原数据集名称。实验完成后，使用六项图像质量评价（IQA）指标来评价添加了自适应参数后的去雨效果。这六项图像质量评价指标分别是PSNR[2I],SSIM[22]，MS-SSIM[22]，VIF[24]，FSIM[25]，UQ[26]。
+
+图1显示了具有快速移动车辆的Highway"和具有复杂的运动对象的"Boats"视频序列的雨线去除结果。由图1可知，自适应参数 $T$ 取不同值时，得到的去雨结果不同。当 ${ \cal T } = 0 . 5$ 时，几乎没有搜索到雨线，并且图片被网格所覆盖，导致去除结果并不理想。当 ${ \cal T } = 1 . 0$ 时，图片虽然有些模糊，但基本上去除了所有雨线。然而当 $T = 1 . 5$ 时，虽然准确的检测出了所有雨线，但并没有去除图片中的雨线。这里只展示 $T$ 分别取0.5,1.0,1.5时的去雨结果图，为了更好的展示本文提出算法的有效性，本文将具体的实验结果通过折线图的形式展现出来，并给出了所取参数值在六项评价指标上的结果。
+
+![](images/bb395cb8c7918a73f4453b761be8aa87c56e5dd16b58d148f415744ff9ccc795.jpg)
+
+图1Highway"和"Boats"视频序列的去雨结果 Fig.1Deraining results for“Highway”and “Boats”video sequences
+
+由图2可知，添加了自适应参数后得到的去雨图片更加接近干净（Groundtruth）图片。虽然Kim方法去除了大部分的雨线，但是仍残留有大量的雨线在图片中。这是由于在输入帧中具有大量的重叠雨线，而重叠的雨线相对于其他雨线更加厚重，像素值比较大，所以比较难以去除，而添加了自适应参数后去雨的效果明显提高了，在图中只残留有少量的雨线。实验结果表明本文添加的自适应参数 $T$ 明显提高了视频去雨的效果。
+
+图3和4分别展示了不同自适应参数在"Highway"和“Boats”上的去雨结果，并给出了所取参数得到的相应指标值。由于PSNR值与其他五项评价指标值的差异较大，为了更好的展现出本文算法的有效性和优异性，本文将PSNR指标和其他五项指标分开展示。此外，将参数 $T$ 在搜索范围内按照步长取值的六项评价指标值与输入帧（图中横坐标为“Input"的点）的六项评价指标值进行对比。由图3和4的对比结果可知，添加的自适应参数 $T$ 取不同值时，得到的各项评价指标值也不同，特别是PSNR值的变化最为明显。因此，数据集"Highway"和"Boats"的实验结果验证了本文所添加的自适应参数 $T$ 的有效性，并给出了参数 $T$ 的最佳搜索范围为：0.980\~1.020。
+
+图5和6分别展示了参数T在最佳搜索范围内的去雨结果。首先，给出了参数 $T$ 在该范围内按照步长取值的六项评价指标值，并展示了最佳搜索范围内的参数与输入帧、Kim方法（图中横坐标为"Kim"的点）的对比结果。由图5和6实验结果知，各评价指标值在此范围内波动较小，基本上趋于平稳。通过数据集"Niagara"和"Port"的去雨结果可知，自适应参数 $T$ 在不同数据集上取得最佳去除效果的参数取值不同，进一步验证了 $T$ 的自适应性。这里特别说明当自适应参数 $T = 1 . 0 0 0$ 时的结果为何与Kim方法的不同，这是因为本文在实验时每取一个参数值时都重新提取雨图并进行优化，所以这里的Kim方法和 $T = 1 . 0 0 0$ 时的结果不同。如果使用同一幅雨图，则两者结果相同。这反映出了该参数的自适应性和实时应用的广泛性。
+
+为了进一步验证自适应参数 $T$ 的优异性，使用一组截取的真实雪视频和一组移动相机拍摄的自然雨视频进行实验。由于现在的雨雪添加技术不断地提高，所以电视剧中的雪和真实的雪几乎没有区别。从图7的输入帧可以看出，视频中的雪很大，雪线密集且多有重叠。由去雪结果可见，添加了自适应参数后几乎去除了所有的雪线，同时如实地保留了图片信息。但是在雪线密集重叠的地方残留着一些比较浅的雪痕，不过这并不影响图片的清晰度和后续分析应用。图7中有一个雨中漫步的男孩，从二进制雨掩模可以看出雨线十分密集。添加自适应参数后去除了输入帧中所有雨线，并且去雨后的图片十分清晰。实验结果表明，添加的自适应参数能
+
+![](images/97e4b9e496d245639c7f287a349db5fa70d056e6e227e3a5c256ab91585fba52.jpg)
+
+够有效地去除视频中的雨雪。
+
+![](images/036ac8747d6a5556e9ea38acaa8b6229f235b68a454347b28de34713342adbe8.jpg)  
+图2Kim方法与本文方法在"Niagara"和"Port"视频序列上的去雨结果对比
+
+![](images/9bdb37d20145130fffc005542c67fdcfa413865ba6fa8bb154ec830070400db5.jpg)  
+Fig.2Rain removal results comparison of the Kim method and the proposed method on“Niagara"and “Port”video sequences   
+上的实验结果以及与输入帧的对比结果
+
+Fig.3Experimental results of data set "Highway"when adaptive parametel
+
+Ttakes different values,and comparison resultswith the input frame
+
+![](images/7e444ee951c0d120eac71c32566fe09d291748fa2ade0b52e36cee2bada9ff92.jpg)  
+图4自适应参数 $T$ 取不同值时在数据集"Boats"上的实验结果以及与输入帧的对比结果
+
+Fig.4Experimental results of data set“Boats”when adaptive parameter $T$ takes different values,and the comparison results with input frame
+
+![](images/9e8541131a587586fb1cd760574d3990e1146672bd86aca564e00cba56563fb0.jpg)
+
+![](images/0056d9e4568c46c6066d4485e350ec7d9e7cb5776b8db0b627b5159a6de1ba54.jpg)  
+Fig.6Comparison results of the best adaptive parameters with input frame and Kim method on data set "Port'   
+17“Ruo Xi”和“Boy”视频序列的去除结果（原“RuoXi”视频序列来自电视剧《步步惊心》该电视剧由上海唐人电影制作有限公司和湖南卫视联合出品，视频中出现的人物由刘诗诗饰演）  
+Fig.7Removalresultsof"RuoXi"andBoy"videosequences(Original"RuoXi"videosequencecomefroteTVseries“StepbyStep,hichwas producedbyShagiangnFroductioopoodHuanSteliteactesapgineideispladyishi
+
+# 3 结束语
+
+本文在经典的Kim方法上进行改进，将自适应参数 $T$ 添加到Kim模型的第二项中，并提出了基于矩阵补全的自适应去雨雪算法。在本文中，首先，通过实验验证了所加参数的有效性，即自适应参数取不同值时具有不同的去雨结果，并确定最佳的参数搜索范围;其次，应用网格搜索法找出获得最好去雨效果的参数并与Kim方法进行比较，从去雨后的结果可以明显知道添加自适应参数能够有效的提高视频去雨效果；最后，使用各种雨雪视频来验证该自适应参数的有效性及优异性。大量实验结果表明，添加的自适应参数是有效的，并且很大程度上提高了视频去雨去雪的性能。在去除雨雪的同时完整地保留了图片中的信息，并且能够广泛应用于各种视频图像的雨雪去除问题。
+
+# 参考文献：
+
+[1]Narasimhan S G,Nayar S K.Removing weather effects from monochrome images [C]//Proc of IEEE Computer Society Conference on Computer Vision and Pattern Recognition.Washington DC:IEEE Computer Society,2001.
+
+[2] Narasimhan S G, Nayar S K.Vision and the atmosphere [J]. International Journal of Computer Vision,2002,48(3): 233-254.   
+[3]周浦城，周远，韩裕生．视频图像去雨技术研究进展[J]．图学学报， 2017,38(5):629-646.(Zhou Pucheng，Zhou Yuan，Han Yusheng. Review of rain removal techniques in videos and image [J]. Journal of Graphics,2017,38(5):629-646.)   
+[4] Kim JH, Sim JY, Kim C S.Video deraining and desnowing using temporal correlation and low-rank matrix completion [J].IEEE Trans on Image Processing,2015,24(9): 2658-2670.   
+[5]Tian Jiandong,Han Zhi,Ren Weihong,et al. Snowflake removal for videos via global and local low-rank decomposition [J].IEEE Trans on Multimedia,2018,20 (10): 2659-2669.   
+[6]Wei Wei,Yi Lixuan,Xie Qi,et al. Should we encode rain streaks in video as deterministic or stochastic [C]// Proc of the IEEE International Conference on Computer Vision.Washington DC:IEEE Computer Society,2017: 2516-2525.   
+[7]Li Minghan, Xie Qi, Zhao Qian,et al. Video Rain Streak Removal By Multiscale Convolutional Sparse Coding [Cl//Proc of IEEE Conference on Computer Vision and Pattern Recognition.Washington DC:IEEE Computer Society,2018: 6644-6653.   
+[8]Liu Ce.Beyond pixels: exploring new representations and applications for motion analysis [D]. Cambridge,MA:Department of Electrical Engineering and Computer Science,MIT,2009.   
+[9]Elad M.Sparse and redundant representations:From theory to applicationsin signal and imageprocessing [M]. New York: Springer-Verlag,2010.   
+[10] Chang C C,Lin CJ.LIBSVM:a library for support vector machines [J].ACM Trans on Intelligent Systems and Technology,2011,2(3): 27.   
+[11] Bruhn A,Weickert J,Schnörr C.Lucas/Kanade meets Horn/Schunck: combining local and global optic flow methods [J]. International Journal of Computer Vision,2005,61(3):211-231.   
+[12] Starck JL,Elad M,Donoho D L.Image decomposition via the combination of sparse representations and a variational approach [J]. IEEE Trans on Image Processing,2005,14 (10): 1570-1582.   
+[13] Fadili M J,Starck JL,Bobin J,et al.Image decomposition and separation using sparse representations: an overview [J]. Proceedings of the IEEE,2010,98 (6): 983-994.   
+[14]林家印，战荫伟．基于近端梯度的快速字典学习方法的研究[J].计 算机应用研究,2016,33(5):1566-1569.(Lin Jiayin,Zhan Yinwei. Fast dictionary learning method research based on proximal gradient [J]. Application Research of Computers,2016,33(5): 1566-1569.)   
+[15] Wang Jian,Kwon S,Shim B.Generalized orthogonal matching pursuit [J].IEEE Trans on Signal Processing,2012,60 (12): 6202-6216.   
+[16] Takeda H,Farsiu S,Milanfar P. Kernel regression for image processing and reconstruction [J]. IEEE Trans on Image Processing,2Oo6,16(2): 349-366.   
+[17] Okatani T,Yoshida T,Deguchi K.Efficient algorithm for low-rank matrix factorization with missing components and performance comparison of latest algorithms [C]//Proc of IEEE International Conference on Computer Vision.Washington DC:IEEE Computer Society,2011: 842-849.   
+[18] Cai Jianfeng F, Candes EJ, Shen Zuowei. A singular value thresholding algorithm for matrix completion [J]. SIAM Journal on Optimization, 2010,20(4): 1956-1982.   
+[19]史加荣，郑秀云，魏宗田，等．低秩矩阵恢复算法综述[J].计算机 应用研究,2013,30(6):1601-1605.(Shi Jiarong,Zheng Xiuyun,Wei Zongtian,et al. Survey on algorithms of low-rank matrix recovery [J]. Application Research of Computers,2013,30(6): 1601-1605.)   
+[20] Adobe Systems Inc.After Effects CS6,San Jose,CA,USA,2012.   
+[21] SheikhHR,Sabir MF,Bovik AC.A statistical evaluation of recent full reference image quality assessment algorithms [J]. IEEE Trans on Image Processing,2006,15(11): 3440-3451.   
+[22] Wang Zhou,Bovik A C, Sheikh HR,et al. Image quality assessment: from error visibility to structural similarity [J].IEEE Trans on Image Processing,2004,13(4): 600-612.   
+[23] Wang Zhou, Simonceli EP, Bovik A C. Multi-scale structural similarity forimage quality assessment [C]//Proc ofthe 37th Asilomar Conference on Signals,Systems & Computers.Piscataway,NJ:IEEE Press,2003:1398-1402.   
+[24] Sheikh HR,Bovik AC.Image information and visual quality[J]. IEEE Trans on Image Processing,2006,15(2): 430-444.   
+[25] Zhang Lin, Zhang Lei,Mou Xuanqin,et al.FSIM: a feature similarity index for image quality assessment [J]. IEEE Trans on Image Processing,2011,20(8): 2378-2386.   
+[26] Wang Zhou,Bovik A C.A universal image quality index [J].IEEE Signal Processing Letters,2002, 9(3): 81-84.

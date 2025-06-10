@@ -1,0 +1,328 @@
+[
+    {
+        "type": "text",
+        "text": "结核分枝杆菌H37Rv刺激巨噬细胞后差异表达IncRNA分析及鉴定\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谭杨1，刘胜1，罗凤玲1，章晓联1\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.武汉大学基础医学院免疫学系，病毒学国家重点实验室，湖北省过敏及免疫相关疾病重点实验室和医学研究院，湖北武汉430071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本研究旨在分析毒性结核分枝杆菌（Mycobacterium tuberculosis,M.tb）H37Rv刺激RAW264.7巨噬细胞的表达谱芯片以及筛选和鉴定M.tbH37Rv感染巨噬细胞RAW264.7后差异表达的 IncRNAs,。首先，分析热灭活的H37Rv 刺激RAW264.7细胞24h后 lncRNA 表达谱芯片，并对差异表达的IncRNA和mRNA 进行生物信息分析，然后采用实时定量聚合酶链反应对16条在芯片中差异表达的IncRNA进行细胞水平验证；进一步在H37Rv感染小鼠的脾脏和肺脏中检测差异表达的 IncRNA。结果显示表达谱芯片中4730 条 lncRNAs 的表达水平上调,9558条 lncRNAs的表达水平下调。生物信息分析筛选的16条 lncRNA，其染色体定位于附近蛋白编码基因的基因间区或者与外显子区域有重叠，mRNAs功能注释显示差异表达的mRNAs主要集中于转录调节、磷酸化、凋亡等生化过程以及丝裂原活化蛋白激酶(MAPK)等抗结核的信号通路中。在H37Rv作用下的细胞水平和动物感染模型的组织中RT-qPCR 验证出与芯片结果相同的4条IncRNAs，其中上调的有3条，下调的有1条。本研究中异常表达的IncRNA可能为巨噬细胞在结核分枝杆菌感染中的功能紊乱提供线索，为后续的研究奠定了基础，进一步的研究将集中于发掘 IncRNA在宿主调控中发挥的功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词结核分枝杆菌（M.tb)；巨噬细胞；长链非编码 RNA；mRNA；芯片分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of differential lncRNA expression profile in the macrophages after Mycobacterium tuberculosisstimulation\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TAN Yang1, LIU Sheng², LUO Feng-ling1, ZHANG Xiao-lian1\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1 Department of immunology ,State Key Laboratory of Virology ,Hubei Province Key Laboratory of Allergy and Immunology and Institute of Medical Research, Wuhan University) School of Medicine，Wuhan 430071,China.) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*【基金项目】“十二五”国家重大传染病专项”（No:2012ZX10003002-015）；“十三五”  \n国家重大传染病专项（No：2017ZX10201301-006)  \n\\*\\*通讯作者，E-mail: zhangxiaolian@whu.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe present study aim to screen for differentially lncRNAs expression profile and predict their functional roles in the macrophage after Mycobacterium tuberculosis (M.tb) stimulation. Firstly,microarray and bioinformatics analysis of lncRNA and mRNA expression profiles in RAW264.7 macrophage after stimulation with M.tb for $2 4 { \\mathrm { ~ h . } }$ .Then,16 differentially expressed lncRNAs from microarray analysis were further verified by RT-qPCR using H37Rv infected macrophages and mouse model. The results shown that the expression levels of 4730 lncRNAs was up-regulated, and the expression levels of 9558 lncRNAs was down-regulated. 16 differentially expressed lncRNAs from microarray screening were associated with protein coding genes in adjacent locations. The mRNA function annotation analysis revealed that the mRNAs of differential expression were mainly concentrated in the biochemical process of transcriptional regulation, phosphorylation, apoptosis and MAPK signaling pathway which participating in the biochemical process of anti-tuberculosis. The expression trend of 4 lncRNAs in the iH37Rv stimulated RAW264.7 and mouse infection model was vertified as the same in both microarray and RT-qPCR analysis. Three of these 4 lncRNAs was up-regulated and one of them was down-regulated.The abnormal expression of lncRNAs in this study may provide clues to the dysfunction of macrophages with M.tb infection，and further research will focus on the investigation of the function and regulation mechanism of lncRNA in $M . t b$ infected macrophage. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words Mycobacterium tuberculosis (M.tb) Macrophage Long non-coding RNA (lncRNA） mRNAMicroarray analysis ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结核分枝杆菌（Mycobacteriumtuberculosis，M.tb)导致的肺结核是全球范围内最重要的传染病之一。据世界卫生组织报道，2015 全球范围内新增肺结核病例一千零四十万，并且有一百四十万人死于该疾病。在2000 至 2015 年肺结核的治疗在全球范围内避免了四千九百万人死亡，但在诊断和治疗上仍旧存在很多问题[1]。许多研究表明细胞内的一系列活动会干扰结核病的进程，潜在的原因是一些宿主特定的基因表达异常，尽管已经了解了肺结核病的一些重要发生发展过程，但有许多结核病的分子机制并不清楚[2]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "活动性肺结核的发病机理非常复杂,涉及到了固有性免疫和适应性免疫。巨噬细胞在宿主免疫系统发挥十分关键的作用，主要通过吞噬减少病原体以及抗原提呈给T细胞发挥初始的保护作用[3]。但更多的研究证据表明，巨噬细胞可能在宿主的长期抵抗结核分枝杆菌中起到重要作用，因为结核分枝杆菌可通过一系列的细菌免疫破坏机制逃避巨噬细胞的抗菌作用，从而使得细菌利用细胞内的各种资源在胞内继续存活[3-6]。巨噬细胞吞噬了减毒的 M.tb倾向于细胞凋亡，更有利于其发挥对病原体的清除以及抗原提呈的作用[7.而在毒性结核分枝杆菌感染中，将导致巨噬细胞发生炎症性坏死并向周围组织传播病原体[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "长链非编码 RNA（Long non-coding RNA，lncRNA)是长度大于200 个核苷酸的非编码RNA[9,其位于细胞质或者细胞核内，结构与mRNA相似，含有polyA尾和启动子区，但缺乏蛋白质编码的能力[10]。研究表明，IncRNA参与了许多重要的生物学过程以及细胞活动[I],在人类疾病的发生发展中扮演着重要的角色[12]，例如一些肿瘤、病毒感染以及神经系统紊乱在内的严重威胁人类健康的重要疾病[13-15]。近来长链非编码 RNA 在结核分枝杆菌感染中也有一些初步研究，比如在活动性肺结核病人中B细胞、 $\\mathrm { C D 4 ^ { + } T }$ 细胞、 $\\mathrm { C D 8 ^ { + } T }$ 细胞的lncRNA的表达谱分析[16-18]；lncRNA 的遗传多样性在结核病人中的敏感性有潜在的诊断作用[19]；以及 lncRNA在M.tb 感染的效应细胞发挥调控功能和机制的研究[20.21]。但仍旧存在分子机制不明确以及众多问题等待探究的阶段，因此在本研究中，采取热灭活的结核分枝杆菌iH37Rv（ $6 2 ^ { \\circ } \\mathrm { C }$ 水浴15min)刺激巨噬细胞进行表达谱芯片分析，包括分析差异表达lncRNAs 和mRNAs;然后在H37Rv 感染小鼠的肺脏和脾脏中去筛选或验证差异表达的lncRNAs。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究旨在筛选和鉴定M.tb诱导巨噬细胞RAW264.7异常表达的IncRNA，并在感染H37Rv的小鼠组织中验证这些差异表达的 IncRNAs；同时基于IncRNA和mRNA的表达谱芯片分析包括功能注释、染色体定位分析等，预测lncRNA潜在的作用靶标，为后续功能研究提供帮助，进一步为IncRNA在巨噬细胞感染结核分枝杆菌中的功能紊乱机理的研究提供线索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "毒性结核分枝杆菌标准株H37Rv 来源于ATCC并由上海第二军医大学生物安全等级三级实验室 ABSL-II保存并提供；结核分枝杆菌培养基 Middlebrook 7H9、Middlebrook 7H11及增菌液 Middlebrook OADC（BD公司，美国)；RAW264.7细胞（小鼠巨噬细胞系，由本实验室保存)；DMEM细胞培养基（Gibco，美国）；胎牛血清（Gibco,美国)；TrizolReagent(Invitrogen 公司，美国)；ReverTraAce 逆转录试剂盒（Toyobo 公司，日本)；AgilentIncRNA 芯片等(安捷伦公司，美国)；QIAGENRNeasy $\\textsuperscript { \\textregistered }$ Mini Kit（QIAGEN,德国)；SYBRGreen Real-time PCR Master Mix(Toyobo 公司，日本)；引物由擎科生物技术有限公司合成（武汉，中国)；C57BL/6J小鼠（6-8周， $1 8 { - } 2 0 \\mathrm { g }$ ）购自湖北省疾控中心并饲养于 SPF环境。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1RAW264.7细胞的培养以及iH37Rv刺激巨噬细胞RAW264.7 细胞接种于含 $10 \\%$ 胎牛血清（ $5 6 ^ { \\circ } \\mathrm { C }$ 水浴 $3 0 \\mathrm { { m i n } }$ ）和抗生素（ $1 0 0 / \\mathrm { m L }$ 青霉素和 $0 . 1 \\mathrm { m g / m L }$ 链霉素）的DMEM培养基中，在 $3 7 \\% 5 \\% 5 \\% $ 的饱和湿度恒温培养箱内培养。取生长状态良好的细胞进行后续实验，调整细胞至 $4 . 5 { \\times } 1 0 ^ { 5 }$ 个／瓶的密度接种到T75 的细胞培养瓶，共培养2瓶， $3 7 ^ { \\circ } \\mathrm { C }$ 过夜待细胞状态稳定；其中一瓶按照感染复数为10:1（细菌与细胞的比例)加入热灭活的结核分枝杆菌，另一瓶加入等体积的PBS，继续培养24h后收集细胞，进行后续芯片实验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2总RNA的抽提和质量控制方法 2.1收集的细胞按照 Trizol Reagent 说明书进行总RNA的提取。然后用QIAGENRNeasy $\\textsuperscript { \\textregistered }$ Mini Kit进行RNA的纯化，使用新型超微量紫外可见光分光光度计（NanoDropOne，美国）测定RNA的量。之后利用变性的琼脂糖凝胶电泳检测确保RNA 的完整性和防止基因组DNA污染，最后只有达到标准的RNA 样本才被用做进一步的芯片分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3微阵列芯片和数据分析为了探究 lncRNA 在结核分枝杆菌致病机理中产生的生物学意义，对 IncRNA在巨噬细胞的表达谱微阵列芯片进行分析。微阵列芯片按照标准化程序进行，使用QIAGEN RNeasy $\\textsuperscript { \\textregistered }$ Kit 纯化总RNA，利用随机引物进行cDNA第一链和第二链一步法合成，体外转录进行荧光标记cRNA（complementary RNA,cRNA）合成，QIAGENRNeasy $\\textsuperscript { \\textregistered }$ MiniKit用于cRNA的纯化,纯化后cRNA用分光光度计进行浓度测定,随后cRNA样品在片段化混合液中 $6 0 ^ { \\circ } \\mathrm { C }$ 温浴 $3 0 \\mathrm { m i n }$ 进行片段化，冰浴1min后上芯片， $6 5 ^ { \\circ } \\mathrm { C } 1 7$ 小时滚动杂交，杂交后的芯片经过洗涤、固定以及Agilent DNAMicroarray Scanner 进行扫描,利用Agilent Feature Extraction software(version10.7.1.1)从扫描图片上提取得到数据。将原始数据导入Genespring 软件(version 12.5,Agilent)，利用quantile 的方法进行标准化后得到包含原始信号值，标准化信号值，检出情况以及详细的注释信息的结果。在实验组与对照组中差异表达的 IncRNAs 和 mRNAs 的筛选之前先进行探针过滤，用于比较的每组样本中至少有一组 $100 \\%$ 标记为\"P\"的探针用于后续分析，之后根据差异倍数（Foldchange）值，标准为Foldchange值 $> = 2 . 0$ 确定差异表达。另外,用分层聚类来表现 IncRNA和mRNA的表达模式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4差异表达的InRNAs定位分析和mRNAs功能注释综合筛选获得芯片数据中差异表达的16 条 lnRNAs,然后使用 UCSC Genome Browser（htp://genome.ucsc.edu/）、NONCODE(http://www.noncode.org/)以及 fRNAdb summary 挖掘 lncRNA 与 mRNA 染色体定位的关系,以期寻找互作的可能 性。Gene Ontology（GO）和 Kyoto Encyclopedia of Genes andGenomes(KEGG）被用来分析异常表达的mRNAs 在信号通路 和 GO条目中的功能。GO包括三大板块，分别是生化过程（Biological Process）、细胞组成（Celllar Component）和分子功能（MolecularFunction)。统计每个GO条目所包括的差异基因个数，并用统计检验的方法计算每个GO 条目和每条信号通路中差异基因富集的显著性，计算的结果会返回一个富集显著性的P值， $\\mathrm { P { \\leq } } 0 . 0 5$ 表示差异基因在该GO 条目或该信号通路中出现显著富集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5RT-qPCR实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5.1细胞水平验证RAW264.7细胞以 $1 \\times 1 0 ^ { 5 }$ 个/孔的密度接种到12孔的细胞培养板， $3 7 ^ { \\circ } \\mathrm { C }$ 培养过夜，以每孔MOI等于10：1（细菌与细胞的比例）加入iH37Rv至实验组，对照组加入相应体积的PBS。在 $3 7 ^ { \\circ } \\mathrm { C }$ 、 $5 \\%$ CO2 的恒温培养箱内继续培养24h后收细胞，提取总 RNA，$6 5 ^ { \\circ } \\mathrm { C }$ 变性后测定RNA 的浓度，并用 ReverTraAce 逆转录试剂盒获得cDNA,用于RT-qPCR 的模板。在芯片结果中，根据探针过滤即每组样本至少一组 $1 0 0 \\%$ 标记为“P”，表达差异倍数以及现有ncRNA数据库能获取相应lncRNAs 序列等综合筛选标准。筛选出M.tb 刺激后差异表达明显的16 条lncRNAs,进一步设计引物采用 RT-qPCR 验证这些差异表达的lncRNAs。PCR反应程序为 $9 5 ^ { \\circ } \\mathrm { C }$ 预变性5min， $9 5 ^ { \\circ } \\mathrm { C }$ 变性15s， $6 0 ^ { \\circ } \\mathrm { C }$ 退火15s, $7 2 \\mathrm { { ^ \\circ C } }$ 延伸 30s,变性、退火、延伸三个步骤进行 40个循环，最后 $7 2 ^ { \\circ } \\mathrm { C }$ 继续延伸5min, $1 6 ^ { \\circ } \\mathrm { C }$ 保存。每个反应体系被检测三次，Glyceraldehyde $3 -$ phosphate dehydrogenase（GAPDH）被用作内参基因来计算相关lncRNAs的相对表达情况，各引物序列如表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5.2H37Rv感染的小鼠肺脏和脾脏中lncRNA表达验证6只C57BL/6J小鼠（ $^ { 6 \\sim 8 }$ 周，$1 8 ^ { - } 2 0 \\mathrm { g }$ ）随机分配到两组，一组进行尾静脉注射处于对数生长期的结核分枝杆菌 $\\mathrm { H } 3 7 \\mathrm { R v }$ ，保证每只的注射菌量为 $2 { \\times } 1 0 ^ { 6 } \\mathrm { C F U }$ ，另一组注射相应体积的PBS为对照组，继续饲养1周后，处死小鼠并取小鼠的肺脏和脾脏制成细胞悬液，加入TrizolReagent $\\mathrm { - } 8 0 ^ { \\circ } \\mathrm { C }$ 冻存，待使用时提取总RNA并逆转为cDNA,后续作为模板进行RT-qPCR 验证，PCR的反应条件如方法2.5.1所示且每个反应重复三次。小鼠的感染攻毒实验和处死等全部在上海第二军医大学ABSL-II实验室内进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6统计学分析采用 SPSS17.0 软件进行数据分析，Studentt检验分析数据，以 $\\ast \\mathrm { P } { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1iH37Rv刺激巨噬细胞RAW264.7后IncRNA表达谱 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "许多证据表明异常表达IncRNAs与一系列人类的疾病相关，也包括感染性疾病。本研究根据热灭活的结核分枝杆菌刺激巨噬细胞RAW264.7后IncRNA表达谱芯片结果显示：与对照组的细胞相比，iH37Rv刺激细胞24h后共有4730条lncRNAs的表达水平上调,9558条lncRNAs 的表达水平下调。分层聚类的结果如图1所示，分别为差异表达最显著的 200 条IncRNAs 的表达谱，其中还包括 iH37Rv刺激与未刺激组相比较，lncRNAs 的差异倍数的对数值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8a3db0f387940fa41b28534f6c991b937132b4d1c565897dd80b563d3fe4098.jpg",
+        "img_caption": [
+            "图1iH37Rv刺激巨噬细胞 RAW264.7细胞24h后，200条lncRNAs差异表达谱;C1，C2为iH37Rv未刺激组,T1为iH37Rv 刺激组。",
+            "Fig.1Differential expression profile of 200 IncRNAs in RAW264.7 cells after iH37Rv stimulation for $2 4 \\mathrm { { h } }$ ；C1，C2 represent for iH37Rv stimulation group,T1 represents for iH37Rv stimulation group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2差异表达的IncRNAs以及mRNAs的功能注释",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表达谱芯片中筛选获得结核分枝杆菌H37Rv刺激巨噬细胞后差异表达的16 条lncRNAs，分析 lncRNAs在染色体的定位以及它与基因组中mRNA的位置关系对于预测lncRNA 是否调节邻近基因有一定的价值。本研究列出了16条差异表达 lncRNAs 的染色体位置，其定位于附近蛋白编码基因的基因间区或与基因的外显子区域存在重叠部分，而且其中部分基因在结核分枝杆菌H37Rv刺激巨噬细胞后mRNA 的芯片结果中也存在差异表达，有可能成为 lncRNA发挥作用的潜在靶标，为后续 IncRNAs 在结核感染巨噬细胞的功能研究中提供帮助（见表 2)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2筛选的16条差异表达IncRNAs的染色体定位以及与附近蛋白编码基因的关系 Table 2Differential expression of 16 lncRNAs,and their positional relationship with adjacent protein-coding genes ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2b08a4bea4c360141a342fa9365ebaad33cba0126f4fa7d632b2d3b752a66c7.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1 Acc.No.(Accession number):代表检索号2)FC（fold change)：代表iH37Rv 感染巨噬细胞与未感染巨噬细胞中mRNA表达相比倍数变化n.a.（not acquired)：代表无法获取"
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>检索号</td><td>染色体</td><td>倍数</td><td>位置关系</td><td>附近编码基 因</td><td>染色体</td><td>倍数</td></tr><tr><td>Number</td><td>Acc. No.1)</td><td>Chr strand</td><td>FC.2)</td><td>Relationship</td><td>Nearby coding gene</td><td>Chr strand</td><td>FC.2)</td></tr><tr><td>1</td><td>FR394054</td><td>15(+)</td><td>+72.9</td><td>Exon-sense overlapping</td><td>Mtdh</td><td>15((+)</td><td>+8.6</td></tr><tr><td>2</td><td>FR327109</td><td>19 (-)</td><td>+40.2</td><td>Exon-sense overlapping</td><td>LF201763</td><td>19(-)</td><td>n.a.</td></tr><tr><td>3</td><td>FR155939</td><td>2(+)</td><td>+28.1</td><td>Exon-sense overlapping</td><td>AK037119</td><td>2(+)</td><td>n.a.</td></tr><tr><td>4</td><td>FR009074</td><td>12(-)</td><td>+46.2</td><td>Intergenic</td><td>Rps6ka5</td><td>12(-)</td><td>-3.3</td></tr><tr><td>5</td><td>FR321982</td><td>2(+)</td><td>+31.0</td><td>Exon-sense overlapping</td><td>KF703539</td><td>2(+)</td><td>n.a.</td></tr><tr><td>6</td><td>FR245513</td><td>10(-)</td><td>+26.2</td><td>Exon-sense overlapping</td><td>Cpsf6</td><td>10(-)</td><td>n.a.</td></tr><tr><td>7</td><td>FR009059</td><td>X(+)</td><td>+23.6</td><td>Exon-sense overlapping</td><td>Zrsr2</td><td>X(-)</td><td>+10.2</td></tr><tr><td>8</td><td>n291603</td><td>7(+)</td><td>+96.4</td><td>unknow</td><td></td><td></td><td>n.a.</td></tr><tr><td>9</td><td>chr4:3437474-3438228</td><td>4(-)</td><td>+58.1</td><td>unknow</td><td></td><td></td><td>n.a.</td></tr><tr><td>10</td><td>chr19:5834117-5835940</td><td>19(-)</td><td>+40.7</td><td>unknow</td><td></td><td></td><td>n.a.</td></tr><tr><td>11</td><td>chrl9:5795690-5797464</td><td>19(+)</td><td>+34.7</td><td>Exon-sense overlapping</td><td>AY722410</td><td>19(-)</td><td>+2.0</td></tr><tr><td>12</td><td>chr19:5798135-5800557</td><td>19(-)</td><td>+31.3</td><td>Intergenic</td><td>Gm20417</td><td>19(+)</td><td>n.a.</td></tr><tr><td>13</td><td>chr8:19692532-19694101</td><td>8(-)</td><td>+30.1</td><td>Intergenic</td><td>Gm6483</td><td>8（+)</td><td>n.a.</td></tr><tr><td>14</td><td>chrl:134883350-134883624</td><td>1(-)</td><td>+29.6</td><td>Intergenic</td><td>Ppplr12b</td><td>1(-)</td><td>+5.1</td></tr><tr><td>15</td><td>n270524</td><td>2(-)</td><td>-56.2</td><td>unknow</td><td></td><td></td><td>n.a.</td></tr><tr><td>16</td><td>chrl6:4592919-4594230</td><td>16 (-)</td><td>-25.7</td><td>Exon-sense overlapping</td><td>Ak021285</td><td>16(-)</td><td>-46.6</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们还对芯片中差异表达的mRNAs功能进行注释分析，为IncRNAs的潜在作用靶标的发掘以及可能发挥的效应功能的研究提供参考价值。本研究中采取富集分析GO 和KEGG，与对照组相比，由iH37Rv刺激的巨噬细胞的mRNAs参与的生化过程以及信号通路存在显著差异。GO分析的结果显示：差异表达的mRNAs主要与转录调节、蛋白磷酸化、细胞凋亡、蛋白的转运等生化过程相关（图2.a)；细胞组成方面与细胞膜、胞质、细胞溶质、胞核有重要联系（图 2.b)；在蛋白结合、金属离子结合、核酸结合等分子功能上发挥重要的作用（图2.c)。在GO的三大板块中，其中差异表达的mRNAs 主要富集在转录调节、细胞膜以及蛋白结合三个部分，分别在各自的板块中占据 $24 . 1 \\%$ 、 $4 1 . 4 \\%$ 、 $3 2 . 2 \\%$ 。KEGG分析的结果显示，差异表达的mRNAs主要与以下信号通路相关且富集百分比为：新成代谢通路 $34 . 2 \\%$ 、10.7癌症相关通路10.7、MAPK信号通路 $8 . 9 \\%$ 、内吞作用 $6 . 8 \\%$ 等（图2.d)。MAPK信号通路被报道参与了固有免疫细胞如巨噬细胞感染细菌后的活化，很大程度上，能调节促炎因子和趋化因子的表达，例如 TNF- $\\mathfrak { a }$ ,IL-6,and MCP-1。总之，MAPKs 的活化能确保适当以及充足的免疫应答调节[22,23]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GO Biological Process GO Cellular Component ]responsetoDNAdamage stimulus4% nucleolus $3 \\%$ negativeregulationof transcription,DNA-dependent $4 . 3 \\%$ cytoplasmicvesicle $3 \\%$ positiveregulationoftranscription,DNA-dependent $5 \\%$ nucleoplasm $3 . 6 \\%$ positiveregulationoftranscriptionfromRNApolymerasellpromoter $6 . 2 \\%$ ]cytoskeleton $6 . 4 \\%$ （204号 cellcycle $6 . 5 \\%$ golgi apparatus $7 . 2 \\%$ （2号 proteintransport $7 . 4 \\%$ endoplasmicreticulum $7 . 2 \\%$ apoptosis7.7% intracellular $1 0 . 5 \\%$ proteinphosphorylation $7 . 8 \\%$ （20号 mitochondrion $1 1 . 3 \\%$ phosphorylation $9 . 5 \\%$ （2号 cytosol 11.5% transport $2 0 . 9 \\%$ nucleus $3 6 . 8 \\%$ （2号 transcription,DNA-dependent $2 2 . 8 \\%$ （2号 cytoplasm $3 8 . 2 \\%$ regulationoftranscription,DNA-dependent $2 4 . 1 \\%$ （204号 membrane41.4%   \n0 1 D 3 品 甲 。 D 品 田 Transcritionaldomaincoverage(%) Transcriptional domain coverage(%) (a) (b) GOMolecular Function KEGG RNAbinding $5 . 9 \\%$ （204号 Lysosome $4 . 5 \\%$ sequence-specificDNAbindingtranscriptionfactoractivity $7 . 5 \\%$ ]Jak-STATsignalingpathway $4 . 8 \\%$ ]kinaseactivity $7 . 6 \\%$ （20号 Insulin signaling pathway $4 . 8 \\%$ nucleicacid binding $8 . 8 \\%$ ]Ubiquitinmediatedproteolysis $5 \\%$ binding $9 . 7 \\%$ Wnt signalingpathway $5 . 3 \\%$ transferaseactivity $1 4 . 3 \\%$ （20 Proteinprocessing inendoplasmicreticulum $5 . 5 \\%$ ATPbinding $1 4 . 6 \\%$ Focaladhesion $6 . 5 \\%$ zincionbinding $1 5 . 4 \\%$ Regulation of actin cytoskeleton $6 . 8 \\%$ （2号 JDNAbinding $1 6 . 8 \\%$ Endocytosis $7 . 3 \\%$ （204号 nucleotidebinding $1 9 . 8 \\%$ MAPK signalingpathway $8 . 9 \\%$ （20 metal ionbinding $2 8 . 6 \\%$ （2 pathwaysincancer $1 0 . 7 \\%$ proteinbinding $3 2 . 2 \\%$ Metabolicpathways $3 4 . 2 \\%$   \n0 0 D p B 8 0 □ 中 B 中 Transcriptionaldomaincoverage(%) Transcriptional domain coverage $( \\% )$ (c) (d) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3RT-qPCR验证差异表达的IncRNAs ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从芯片中挑选出差异表达较明显的16条lncRNAs,数字1至16为lncRNAs编号见表1,",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ad4f4ab89000a5481ac98728bdd0c9c943451bc0ed73420ac4bc8ba20f4f5eb.jpg",
+        "table_caption": [
+            "表1 RT-qPCR验证16条差异表达InRNAs的引物",
+            "Table 1 Primers of 16 differentially expressed IncRNAs for RT-qPCR "
+        ],
+        "table_footnote": [
+            "1)ACC.No.(Accession number):代表检索号"
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>检索号</td><td>上游引物</td><td>下游引物</td></tr><tr><td>Number</td><td>ACC.No.1)</td><td>Sense-primer(5'-3\")</td><td>Anti-sense-primer(5'-3\")</td></tr><tr><td>1</td><td>FR394054</td><td>TGTTTATCTGTTTGGGTTTG</td><td>CCTGGCATCAAATAACCT</td></tr><tr><td>2</td><td>FR327109</td><td>CACTAAAGCATAAAATGAAAGG</td><td>ACATGCAGGCAAAACAGC</td></tr><tr><td>3</td><td>FR155939</td><td>GATGGGAACGCCGAGTAAA</td><td>CCTGGAAGGACATTGGGT</td></tr><tr><td>4</td><td>FR009074</td><td>TATCAGGTGGTAGCAGGAA</td><td>TGTGAAGTTGGGATGGTG</td></tr><tr><td>5</td><td>FR321982</td><td>GGAGGCAGCAGAACACCA</td><td>AACAGGGACAGCCAGAGT</td></tr><tr><td>6</td><td>FR245513</td><td>TCCTAGTAAAAATCCCCTAA</td><td>TTTGCTTGGATAAAGGCAT</td></tr><tr><td>7</td><td>FR009059</td><td>AAGCAAAGACAGGTGGAT</td><td>GGAGAAAGTTCAAGAGGC</td></tr><tr><td>8</td><td>n291603</td><td>GACTGCTGCGTGTCACCTAA</td><td>CCCTGCTGTCAAAGACCTCC</td></tr><tr><td>9</td><td>chr4:3437474-3438228</td><td>GGACTTTCCAATGTGACTAT</td><td>ATATGTAGGGGTATTGAACC</td></tr><tr><td>10</td><td>chr19:5834117-5835940</td><td>ACACTATCCTTTGAATCTCG</td><td>GTCAGGTTAGGTTAAGCCAC</td></tr><tr><td>11</td><td>chr19:5795690-5797464</td><td>CTCTGGCCCCTTGAATAGAT</td><td>GCTGTGCTGCCTTAGGTAAA</td></tr><tr><td>12</td><td>chr19:5798135-5800557</td><td>TTTCGTTTGCCTCAGACAGG</td><td>AGCACATAATGATCCCTTTC</td></tr><tr><td>13</td><td>chr8:19692532-19694101</td><td>GTTCAATTCCCAGCAACCAC</td><td>CATAGCCCAGCACTTCTTCC</td></tr><tr><td>14</td><td>chrl:134883350-134883624</td><td>TGAACACTAAGGAATTTGAG</td><td>CTCCATCTTCAAGGCAGTCA</td></tr><tr><td>15</td><td>n270524</td><td>AGAACCCAAGTCAACCAG</td><td>TCCCTACAGCAGTATCCC</td></tr><tr><td>16</td><td>chr16:4592919-4594230</td><td>CGCCAGAGCCACATCAAGAC</td><td>TCAAACCGAAGCACCCATCA</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "芯片结果中 lncRNAs1至14表达上调，15 和16表达下调。设计相应的引物分别在细胞水平和 H37Rv 感染的小鼠肺脏和脾脏中进行 RT-qPCR 验证。细胞水平差异表达具有统计学意义的（ $\\scriptstyle \\mathrm { P < } 0 . 0 5$ ）lncRNAs上调的有3条，下调的有3条，与芯片结果相比较相符的是编号为1,8,9，15，16 的lncRNA（图3）。H37Rv 感染的小鼠肺脏组织中表达具有统计学意义的 $\\scriptstyle \\mathbf { P < } 0 . 0 5 { \\mathrm { . } }$ )lncRNAs上调的有12条，下调的有1条，与芯片结果相符的有13条lncRNA(图4a)。脾脏组织中差异表达的lncRNAs上调的有10条，下调的有1条，与芯片结果相符的有11条 lncRNA(图4b)。综合芯片结果以及细胞水平和动物感染组织水平中 lncRNAs 验证的结果，表达水平全部相同的有4条，其中编号为1、8、9的3条lncRNA表达上调，编号为15的1条 lncRNA 表达下调，检索号分别FR394054、n291603、chr4:3437474-3438228和 n270524。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6eb4adc60181e0a19a8eae4207222ce68ed00a939209b39a749008a2d41fc1c3.jpg",
+        "img_caption": [
+            "RAW264.7cell ",
+            "图3RT-qPCR验证iH37Rv刺激RAW264.7细胞24h后16条IncRNAs的表达水平,1-16 为IncRNA的编号如表1。（ $\\bf ^ { * } P { < } 0 . 0 5$ ，与对照组相比） Fig.3 Differential expression levels of 16 IncRNAs in RAW264.7 cells after iH37Rv stimulation for $\\mathbf { 2 4 } \\textbf { h }$ by RT-qPCR.Numbers 1 to 16 represent for lncRNAs as shown in Table1.( $\\bf { \\ddot { \\varepsilon } } \\Psi \\mathrm { < } 0 . 0 5$ ， vs. untreated control group) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8d87a9a0fdca85e04a0d0f9692ff47af36de9638f192e67445a0e9a43bea77b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/33bd1505adf04181159c7cced79e3fb84dc0700a046574438efa282cc4ead1e7.jpg",
+        "img_caption": [
+            "图4(a)、(b)为 RT-qPCR检测H37Rv 感染小鼠7天后肺脏和脾脏组织中16条 IncRNAs的表达水平。（ $\\scriptstyle \\mathbf { * } \\mathbf { P < 0 . 0 5 } ,$ 与对照组相比）",
+            "Fig.4Differential expression levels of 16 IncRNAs in mouse lung (a) and spleen (b)tissues after H37Rv infection for 7 daysby RT-qPCR. ( $\\bf ^ { * } P { < } 0 . 0 5$ ， vs. untreated control group). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "结核分枝杆菌是导致结核病的病原体,结核病作为发病率和致死性很高的重要传染病，目前防治最有效的措施是早期诊断和及时的临床治疗[24]。然而，在被公认的结核病的诊断和治疗方面，仍旧存在很多不足[25]。其中有结核分枝杆菌生长缓慢，细菌分离培养作为金标准需要的时间长而无法满足临床需求；结核病的病程治疗时间长，存在很高的耐药率；肺结核通过呼吸道传染，而目前唯一有效的卡介苗疫苗预防婴儿和儿童结核，效果可达 $80 \\%$ 但用来预防成人肺结核效果则较差，有些人接种后并不能绝对保证从此无缘结核菌感染，甚至还是有可能患上疾病[26]。因此，迫切需要快速适用的结核病诊断以及更加有效的治疗方案，而这些方面的基础均依赖于结核分枝杆菌与宿主的相互关系的确切研究。近来随着芯片和高通量测序技术的快速发展，IncRNA和mRNA的表达谱广泛用于揭示人类疾病发生发展的分子机制，例如肿瘤、细菌或者病毒感染等。然而IncRNA作为极具热点的研究对象，在结核分枝杆菌感染中的研究还很少[27]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "越来越多的证据表明，IncRNAs在免疫应答的调节中发挥重要的作用，而且异常表达的",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IncRNAs 与传染性疾病有密切的联系。巨噬细胞在胞内菌结核分枝杆菌感染的调控中发挥举足轻重的作用，但许多分子机制仍旧不清楚。本研究希望从IncRNA角度出发，探究更多的结核病致病机理的分子机制。而目前，lncRNA在结核病致病机理的研究中仅处于初始阶段。据Wang,Y.等[21]研究报道lncRNA-CD244 通过表观遗传调控 $\\mathrm { C D 8 ^ { + } T }$ 细胞对 $\\gamma -$ 干扰素( Interferon- $\\cdot \\gamma$ ， $\\mathrm { I F N } { - } \\gamma$ ）和肿瘤坏死因子 $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ （tumor necrosis factor-α,TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { \\alpha } \\mathbf { a }$ ）的分泌，并且影响 $\\mathrm { C D 8 ^ { + } T }$ 细胞参与的抗结核的细胞免疫应答。抑癌基因LncRNA-MEG3在BCG 感染的巨噬细胞中表达下调，导致细胞自噬的产生并且能促进细胞内致病菌的清除[20]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究通过对iH37Rv刺激巨噬细胞RAW264.7细胞24h后lncRNA的表达谱芯片分析，有4730条lncRNAs的表达水平上调,9558条lncRNAs的表达水平下调。根据芯片结果筛选出16条差异表达的IncRNAs，分析染色体位置，发现一些IncRNAs 定位于附近的蛋白编码基因的基因间区或者与基因的外显子区域存在部分重叠，而且其中部分基因在mRNA的芯片结果中也有差异表达，可能为IncRNA发挥调节作用的潜在靶标，将在后续实验中深入研究。由于差异表达的 IncRNAs与mRNA可能存在互作关系，进一步对差异表达的mRNAs功能注释，为IncRNAs 的潜在作用的靶标发掘以及发挥的效应功能的研究提供参考。GO 分析显示差异表达的mRNAs主要集中参与转录调节、磷酸化的生化过程以及蛋白相互作用的分子功能中,KEGG分析显示差异表达的mRNAs主要富集在代谢途径、内吞作用以及MAPK信号通路。有趣的是，研究表明 MAPK信号通路在固有免疫细胞如巨噬细胞感染细菌后发生级联反应而活化，MPAK的活化还参与调控M.tb 感染，促进宿主的过氧化物还原酶1的表达而保护细胞免受活性氧以及过氧化物的伤害[23.28]。RT-qPCR 在细胞水平和动物感染模型的组织中验证出与芯片结果相同的4条IncRNAs，可能成为潜在有意义的诊断标志分子或者治疗新靶标，后续研究将集中在这4条 IncRNA，探究具体的功能或者在临床样本中验证以确定其作为潜在诊断和治疗靶标的可能性。另外，本研究中，由于动物水平验证采用的是活 H37Rv 感染，而用于芯片分析和细胞水平验证采用的是灭活的H37Rv刺激的，因而存在不同表达的 IncRNA，如FR155939、chr19:5834117-5835940、chr16:4592919-4594230等，可能是细菌耐热的糖脂成分导致，这些还有待今后进一步验证。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "总的来说，本研究筛选出巨噬细胞感染后差异表达的IncRNAs，为巨噬细胞在结核分枝杆菌感染中的功能紊乱提供线索，从IncRNAs 的角度出发试图探究更多的宿主与结核分枝杆菌相互作用的分子机制。然而，该研究仍处于探索阶段，得出的结论大多数基于lncRNAs和 mRNAs变化水平以及一些生物信息学分析，还需要大量的实验加以证实，进一步的研究将集中于IncRNA在结核病中涉及的具体作用与机制，也许可以为结核病的致病机理提供新",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "的理论或者成为结核病潜在的治疗靶标。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]World Health Organization Global tuberculosis report 2016(http://www.who.int )Assessed 23 Nov 2016.   \n[2]Andersson J, Samarina A, Fink J, et al. Impaired expression of perforin and granulysin in $\\mathrm { C D 8 ( + ) }$ T cells at the site of infection in human chronic pulmonary tuberculosis [J]. Infect Immun, 2007, 75(11): 5210-5222.   \n[3]Hmama Z, Pera-Diaz S, Joseph S, et al. Immunoevasion and immunosuppression of the macrophage by Mycobacterium tuberculosis [J]. Immunol Rev, 2015, 264(1): 220-232.   \n[4] Rajaram M V,Ni B, Dodd C E, et al. Macrophage immunoregulatory pathways in   \ntuberculosis [J]. Semin Immunol, 2014, 26(6): 471-485.   \n[5]Guirado E, Schlesinger L S, Kaplan G. Macrophages in tuberculosis: friend or foe [J]. Semin Immunopathol, 2013, 35(5): 563-583.   \n[6] Cooper A M. Cell-mediated immune responses in tuberculosis [J]. Annu Rev Immunol, 2009, 27:393-422.   \n[7]Schaible U E, Winau F, Sieling PA, et al. Apoptosis facilitates antigen presentation to T lymphocytes through MHC-I and CD1 in tuberculosis [J]. Nat Med, 2003, 9(8): 1039-1046. [8] Gan H X,Lee JH, Ren F C, et al. Mycobacterium tuberculosis blocks crosslinking of annexin-1 and apoptotic envelope formation on infected macrophages to maintain virulence [J]. Nat Immunol, 2008, 9(10): 1189-1197.   \n[9] Nagano T,Fraser P. No-Nonsense functions for long Noncoding RNAs [J]. Cell, 2011,145(2): 178-181.   \n[10] Tian D,Sun S,Lee JT. The long non coding RNA,Jpx,is a molecular switch for X   \nchromosome in activation[J].Cell,2010,143(3):390-403.   \n[11] Hung T, Wang YL,Lin M F, et al. Extensive and coordinated transcription of noncoding RNAs within cell-cycle promoters [J]. Nat Genet, 2011, 43(7): 621-629.   \n[12] Szymanski M, Barciszewska M Z, Erdmann V A,et al.A new frontier for molecular   \nmedicine: noncoding RNAs [J]. Biochim Biophys Acta, 2005,1756(1): 65-75.   \n[13] Li C H, Chen Y. Targeting long non-coding RNAs in cancers: progress and prospects [J].Int J Biochem Cell Biol, 2013, 45(8): 1895-1910.   \n[14] Ouyang J, Zhu XM, Chen Y H, et al. NRAV, a long Noncoding RNA, Modulates Antiviral Responses through Suppression of Interferon-Stimulated Gene Transcription [J]. Cell Host Microbe,2014,16(5): 616-626.   \n[15] Liu Z, Li X, Sun N,et al. Microarray profiling and co-expression network analysis of circulating lncRNAs and mRNAs associated with major depressive disorder [J]. PLoS One, 2014, 9(3): 93388.   \n[16] Fu Y, Xu X, Xue J, et al.Deregulated lncRNAs in B Cells from Patients with Active   \nTuberculosis[J]. PLoS One.2017,12(1):0170712.   \n[17] Yi Z, Li J,Gao K, et al . Identifcation of differentially expressed long non-coding RNAs in $\\mathrm { C D 4 + }$ T cells response to latent tuberculosis infection[J].J Infect. 2014 ,69(6):558-568.   \n[18] Fu Y R, Gao K S, Tao E X, et al. Aberrantly expressed long non-coding RNAs in $\\mathrm { C D 8 ( + ) }$ T cells response to active tuberculosis [J]. J Cell Biochem, 2017,118(12): 4275-4284.   \n[19] Zhao Z Z, Zhang M, Ying J, et al. Significance of genetic polymorphisms in long non-coding RNA AC079767.4 in tuberculosis susceptibility and clinical phenotype in Western Chinese Han population [J]. Sci Rep,2017, 7(1): 965.   \n[20] Pawar K, Hanisch C, Palma Vera S E, et al. Down regulated lncRNA MEG3 eliminates mycobacteria in macrophages via autophagy [J]. Sci Rep,2016, 6:19416.   \n[21] Wang Y, Zhong H, Xie X, et al. Long noncoding RNA derived from CD244 signaling epigenetically controls $\\mathrm { C D 8 + }$ T-cell immune responses in tuberculosis infection [J].Proc Natl Acad Sci U S A, 2015, 112(29): 3883-3892.   \n[22] Martinez A N, Mehra S, Kaushal D. Role of interleukin 6 in innate immunity to   \nMycobacterium tuberculosis infection [J].JInfect Dis,2013,207(8): 1253-1261.   \n[23] Cho S S L, Han J, James S J, et al. Dual-Specificity Phosphatase 12 Targets p38 MAP Kinase to Regulate Macrophage Response to Intracellular Bacterial Infection [J]. Front Immunol, 2017, 8:1259.   \n[24] Palomino JC.Nonconventional and new methods in the diagnosis of tuberculosis: feasibility and applicability in the field [J]. Eur Respir J,2005,26(2): 339-350.   \n[25] Elhassan M M, Elmekki M A, Osman A L, et al. Challenges in diagnosing tuberculosis in children: a comparative study from Sudan [J]. Int J Infect Dis, 2016, 43:25-29.   \n[26] Mangtani P, Abubakar I, Ariti C, et al. Protection by BCG vaccine against tuberculosis: a systematic review of randomized controlled trials [J]. Clin Infect Dis, 2014, 58(4): 470-480. [27] Yang X, Yang J,Wang J,et al. Microarray analysis of long noncoding RNA and mRNA expression profiles in human macrophages infected with Mycobacterium tuberculosis [J]. Sci Rep, 2016, 6:38963.   \n[28] Yabaji S M, Mishra A K, Chaterjee A ,et al.Peroxiredoxin-1 of macrophage is critical for mycobacterial infection and is controled by early secretory antigenic target protein through the activation of p38 MAPK[J]. Biochem Biophys Res Commun,2017,494(3-4):433-439. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

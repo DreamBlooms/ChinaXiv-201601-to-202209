@@ -1,0 +1,296 @@
+# 双层规划在灾后应急物资调度中的应用综述
+
+王付宇，李琰
+
+(安徽工业大学 管理科学与工程学院，安徽 马鞍山 243032)
+
+摘要：突发灾害事件应急救援的关键是合理的进行应急物资调度。为了减少财产损失和人员伤亡、提高灾民满意度，基于双层规划理论，从应急救援角度出发，对突发灾害事件下的应急物资调度问题进行综述。围绕应急物资调度，从灾后应急现状、应急物资选址-分配、不同约束下的应急物资调度及双层规划和群智能优化算法在应急物资调度中的应用等方面进行梳理和讨论。结果表明，关于灾后应急物资调度的研究，目前主要关注单级应急网络结构，且模型的目标函数和约束条件与实际情况存在着出入，结合应急物资调度实际特征提出改进建议，考虑两级应急网络结构，进而构建双层规划模型，实现上下级目标的联合优化。
+
+关键词：突发灾害事件；双层规划；应急物资调度；应急救援 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.06.0366
+
+# Review on application of bi-level programming in post-disaster emergency supplies scheduling
+
+Wang Fuyu, Li Yan+ (School of Management Science& Engineering Anhui University of Technology,Maanshan Anhui 243032,China)
+
+Abstract: The reasonable emergency supplies scheduling plays a criticalrole in emergency rescue.Inorder to reduce property lossandhumancasualties,improvethesatisfactionofthevictims,this papersummarizedthesuppliesscheduling problemunder sudden disasters based on bi-level theoryand from the perspective of emergency rescue.Focusedon the emergency suplies schedulig,itcarredoutereviewanddiscussonfromtheperspectivesofpost-dsasteremergencystatus,emergencyaterial location-allocation,emergencysuppliesshedulingunderdifferentconstraints,and theapplicationofi-level programmingand swarm intelligence optimization algorithms in emergency supplies scheduling.Theresults shows thattheresearch on the postdisaster emergency supplies scheduling currntly focuses on thesingle-level emergency network structure,andtheobjective functionandconstraintconditionofthe modelarediferentfrom theactualsituation.Combining theactualcharacteristicsofthe emergency suplies scheduling,this paper proposes some improvement suggestions. It considers the two-level emergency network structure,and then builds abi-level programming model toachieve joint optimizationof the lower and upper level goals.
+
+Key words: sudden disaster; bi-level programming; emergency supplies scheduling; emergency rescue
+
+# 0 引言
+
+现如今，科学技术高度发达，但自然灾害、军事冲突和恐怖袭击等突发事件仍然频繁发生。这些灾害事件的突然发生，带来了巨大的财产损失、人员伤亡和自然环境破坏，严重影响着人们的生活。而中国又是世界上发生自然灾害最严重的国家之一，我国地域广阔、地理环境复杂且灾害种类繁多、强度大、发生频率高、持续时间长，因此国家需要付出更多的精力和财力去应对这些影响我国经济发展和社会稳定的因素。例如，2008年初，重大雪灾在我国南方爆发，这次雪灾造成全国21个省受到不同程度的灾害，全国各地农作物全面受灾，受灾面积达到1.77亿亩，倒塌房屋35.4万间，由受灾导致的直接经济损失达到1111亿元；同年5月12日汶川大地震是新中国成立以来破坏性最大、波及面积最广的特大地震，共有69227人在这场浩劫中遇难，17923人失踪，374176人受伤，直接经济损失高达8 451亿元[1]。突发灾害事件的频繁发生向人们发出了警告，就灾害本身所具有的难以预测性和不确定性特征及其发生频率和高社会危害性来看，对应急救援工作的研究迫在眉睫。
+
+灾后应急物资调度是应急救援的主要工作之一。当灾害事件发生时，需要在有限的时间、空间和资源的约束条件下，选择合适的运输方式和路线使救援物资及时、高效地到达灾害发生现场，快速满足受灾地区的应急物资需求，防止突发灾害事件造成的损失进一步扩大。并且受到突发灾害事件应急救援特点的影响，应急物资调度过程中存在一个两级网络结构，层级参与主体不同，需要运用双层规划对问题进行分析。因此，与双层规划相结合，构建合理的灾后应急物资调度模型尤为重要。所以本文在公开文献的基础之上，以应急物资调度问题为主线，对国内外应急物资调度问题的相关研究作较为全面的综述，同时兼顾双层规划和群智能优化算法在应急物资调度中的应用，并在最后结合未来发展趋势，对应急物资调度问题提出了展望。
+
+# 1 研究现状
+
+# 1.1灾后应急研究现状
+
+突发灾害事件发生后往往会造成巨大的人员和财产损失，因此灾害发生后如何开展应急救援工作是降低灾害造成损失的关键。Yasui[2]对Mano 和Mikura两个社区的震后重建工作进行了研究，并且分析了地震中社区脆弱性和抗震性之间的关系。周露等人[3]针对从成都市运往灾区的救灾食品，利用累计分析、回归分析等方法进行了分析，得出了汶川地震中的物资供给具有阶段性、相关性、需求层次性三大特点。左静等人[4将改进熵权聚类SVD方法应用到具有高维、大量数据特点的铁路突发事件应急救援过程中。
+
+灾害的发生是不可避免的，而应急物流是灾后开展应急救援工作的核心，因此国内外学者对灾后应急物流进行了广泛的研究。很多学者从宏观或整体角度对应急物流进行了相关分析，部分学者从宏观的角度对应急物流进行了分析。Ardekani等人[5]基于1985 年墨西哥地震事件，讨论了交通系统在震后应急救援工作中的作用，认为震后应急救援工作的关键问题是应急物资的运输及管理问题。Thomas[认为震后应急物流存在着各种限制条件，如运力限制、交通路网破坏、应急物资供应不足等，并针对各种限制条件，对物资分配和车辆调度优化问题进行了剖析。丁玛研究了地震灾害事件中应急物流系统的组织问题，并结合地震灾害特点，构建了一个由物资收集中心、应急物资转运中心和应急物资领取点组成的两级组织结构。王旭坪等人[8]以系统工程为视角分析了应急物流的特点、类型，以及它们对应急物流系统设计的影响，并提出了应急物流系统的结构和快速反应机制。
+
+# 1.2应急物资选址一分配研究现状
+
+合理的应急设施布局和应急物资分配是灾后应急调度系统优化的关键，并且两者是相互联系、相互制约的，有必要对它们的集成优化问题进行研究。因此，对灾后应急选址、灾后应急物资分配、灾后应急选址分配三个方面的研究现状进行描述。
+
+# 1）灾后应急选址研究现状
+
+应急设施的选址问题具有重大的经济、社会、军事意义，国内外很多学者做了深入的研究。Rawls等人[9针对灾害发生时存在的物资需求的不确定性以及事件发生后交通网络可用性的不确定性，建立了一个应急救援设施选址的两阶段随机混合整数规划模型。Aksen等人[10]针对应急避难地点选择的随机性，建立了避难地点选址模型。Li等人[1]针对飓风灾害事件下的避难点选择和灾民的疏散路径问题，采用情景应对建立了一个双层规划模型。李周清等人[12]针对大规模救援物资调运中的中转运输网点定位问题，以时间和费用最小建立一个非线性多目标混合整数规划模型。于冬梅等人[13]考虑在需求区域不重合的情况下，构建基于时间满意度的应急物资储备库选址优化模型。俞武扬等人[14]利用时间风险来刻画候选应急服务设施与需求点之间行程时间的不确定性，并结合需求点对应急服务到达时间的容忍度，以总风险最小建立应急设施选址模型。赵容等人[15]在考虑各路段通行能力不同的基础上，结合动态规划的方法来研究突发灾害事件的避难点选址问题。
+
+# 2）灾后应急物资分配研究现状
+
+突发灾害事件发生后，受灾点对应急救援物资的需求大幅度增加，然而灾后应急物资的储备有限，在短时间内形成了物资供不应求的现象。因此，如何将有限的应急物资进行科学合理的分配是灾后应急物资保障系统中的关键。Ozdamar等人[16]认为紧急情况下应尽快的向受灾地区派遣物资，在应急物资调度的动态性和多阶段性特点的基础上，建立了以应急情况下物资运输时间延迟最短为目标的应急物资调度模型。Sheu[17]认为在救援的关键时刻，应通过提高应急物流协同分配效率来快速响应应急物资需求，并在划分受灾地区和协同救援的基础上提出了一种混合模糊聚簇优化方法。Najafi等人[18]考虑到地震发生后应急物资供应不足的情况，为了管理应急物资和受伤人员的分配及调度，建立了一个多目标、多模式、多种物资和多周期的随机模型。葛洪磊等人[19]针对多灾点、多物资的应急物资分配问题，对灾害程度及受灾点和物资属性等因素进行了综合分析，以灾民损失最小为目标建立应急物资分配模型。王旭坪等人[20]为了保证大规模地震灾害中首批应急物资分配的效果，在考虑灾民非理性攀比心理的基础上，建立了相对应的应急物资优化分配模型。杨继君等人[21考虑到突发灾害事件的发生会导致多个受灾点的情形，针对应急物资调度过程中的物资分配公平性问题，借助博弈理论对问题进行分析，构造了一个应急物资调度博弈模型，并设计了改进的蚁群算法对模型进行求解。陈刚等人[22]针对大规模灾害发生初期的首批应急物资的供不应求现象,建立了一个以总加权嫉妒值和总物流成本最小为目标的应急物资分配模型。
+
+# 3）灾后应急选址-分配研究现状
+
+在灾后应急选址-分配方面，Li等人[23]认为应急救援物资的分配涉及到应急物资配送中心的定位和运输方式的选择，从应急物流系统综合优化的角度出发，以总运输时间最短和系统损失最小为目标，建立应急物资选址一分配模型。俞武扬[24]在研究被困人员生存概率函数的基础上，引进了应急物资的时间满意度函数，并结合传统的点对点运输模式和中转运输模式，以时间满意度为目标建立了应急物资中转运输模型。Rath等人[25]认为在灾后应急物资配送过程中必须建立应急物资中转站，也就是将应急物资配送系统划分为两级，并针对两级配送系统的特点，建立了一个多目标优化模型，同时提出了一种自适应亚启发式算法对模型进行求解。阮俊虎等人[26]针对应急响应中直升机和车辆联合运送应急物资的过程中出现的中转点变化的情形，建立了一个中转点变化的应急医疗物资联合运送模型。
+
+# 1.3灾后应急物资调度研究现状
+
+目前，针对应急物资调度这个问题，国内外学者进行了大量的研究，不断地总结应急救援的特点，并结合现实中的突发灾害事件，从不同角度研究和完善应急救物资调度模型。Hindi等人[27针对两阶段的多物资调度问题，建立了一个以系统总成本最小为目标的混合整数规划模型。Widener 等人[28]针对灾后应急物资调度问题，建立了一个以总成本最低、响应时间最短以及灾民满意度最大为目标的应急物资调度模型。Lin 等人[29]针对应急物资调度的多供应点和多需求点问题，从需求点的角度出发，提出了一个综合考虑应急程度、到达时间和满足需求程度的综合评价函数；并在此基础上，考虑到不同的供需状况以及应急物资和运输的多样性，建立了一个以综合评价函数值最小为目标的调度模型。Hu 等人[30建立了一个耗时最少以及成本消耗最低的模型来应对应急物资调度问题，并提出了用遗传算法对模型进行求解，且在问题研究过程中，他们认为交叉点是应急物资运输网络的重要组成部分，其中交叉点包括交通网络中不同路径交叉点和不同交通网络交叉点。Chi等人[1]针对应急物资调度多目标优化问题中目标具有关联性这一特征，将时间和物资满意度两个调度目标结合为一个及时性功能目标并在此基础上构建了一个包含单个影响点、多个供应中心和单资源的应急资源调度非线性时间评估模型。
+
+应急物资调度是一个复杂的大问题，国内学者对它的研究主要有应急物资配送、应急路径选择、应急车辆调度等。通过查看文献可以得出，对应急物资调度的研究延续了一个从静态调度到动态调度、从单一算法到混合算法、从单目标到多目标以及从单层理论到双层理论的过程。刘春林等人[32]研究了多出救点的应急物资调度中的连续性消耗问题，在满足应急时间限制条件下建立了出救点数目最少的数学模型。郭子雪等人[3]为了实现应急物资快速响应的目标，提出了模糊机会约束规划和应急物资调度的结合应用，构建了基于三角模糊信息的应急物资调度模型。赵明等人[34]研究了应急救援过程中第一阶段的一次性消耗物资和连续性消耗物资,并针对这两类物资分别建立了多目标应急物资调度模型，以时间最小化和损失最小化为目标，使模型更符合实际应急救援特点，提高了应急响应的效率。唐伟勤等人[35]从灾民满意度的角度出发，对大规模突发事件发生初期信息不确定情况下的应急物资调度问题进行了探讨，并用上下限测度白化函数对灾民满意度进行界定，建立了多目标灰色决策模型，最后通过实例证明了该模型的实用性和可行性。陈业华等人[36探讨了串联式需求系统应急物资调度的两层配送网络，以系统修复的时间最短和成本最小为目标，分别对纵向配送和纵横结合的配送建立了调度模型，并用遗传算法对模型进行优化求解。
+
+# 1.4不同约束下的应急物资调度研究现状
+
+目前，关于应急物资调度研究的侧重点存在着差异，进而导致约束条件的不同。通过对相关文献的梳理，大致将约束分为运输能力约束、多式联运约束、时间窗约束以及动态性约束，并对这四个方面约束的研究现状进行归纳与分析。
+
+# 1）运输能力约束
+
+突发灾害事件发生后，基础交通设施会受到不同程度的破坏，导致其交通能力下降。因此，如何合理地安排交通运输工具和规划其运输路线，成为应急物资调度的重中之重。然而国内外对运输能力约束下的应急物资调度的研究相对较少。Ma等人[37为了解决带有时间窗和链路容量限制的车辆路径问题，提出了一种带有自适应惩罚机制的禁忌搜索算法。王旭坪等人[38]针对运力受限情况下的应急物资调度问题，构建以灾民损失和车辆调度费用最小为目标的混合整数规划模型。王军等人[39]结合海上突发灾难事件的特点，综合考虑海洋环境，并在时间、运力、资源等约束条件下，构造了一个海上应急物资调度模型。郑斌等人[40]针对震后应急物流优化问题，同时考虑了时间窗限制、运力限制等约束条件，建立了一个双层规划模型。
+
+# 2）多式联运约束
+
+突发灾害事件发生后，交通路网往往会有不同程度的损坏，进而对应急救援物资的运输产生了影响。因此，为了加快应急物资供给速度、提高救援效率，可以采用多种运输方式（公路、铁路、水路和航运等）联合运送物资。Barbarosoglu 等人[41]针对应急响应过程中的应急物资供需不平衡问题，在考虑多种类应急物资、多种运输方式联合运输的基础之上，构建一个两阶段随机规划优化模型。林勇等人[42]针对多供应点、多需求点的应急物资调度问题，建立了多种运输工具条件下的决策模型。陈钢铁等人[43]对应急车辆和直升机的联合运输进行了研究，通过将路网阻断、修复及需求不确定结合起来建立应急物资调度模型。李孟良等人[44]综合考虑公路、铁路和航空运输的特点，结合鲁棒优化理论，建立应急物资多式联运决策模型。宋晓宇等人[45]以多层级非线性连续消耗应急物资调度为背景，建立了一个多层级、多次数配给、多运输方式、可转运的应急物资调度模型。
+
+# 3）时间窗约束
+
+在突发灾害事件发生初期以及紧急救援期，受灾点对应急物资的需求尤为迫切。因此，为了减少人员伤亡和经济损失，应尽快将应急物资运送到受灾点。Lin等人[46针对灾后多种类应急救援物资、多运输车辆、多阶段、软时间窗以及分批配送的情况，构建一个多目标整数规划模型。王绍仁等人[47认为震后受灾点对应急物资的需求具有很强的时效性，需要考虑时间窗约束，并与应急物流系统的动态性、需求不确定性等特点相结合，构建了一个带时间窗的模糊动态LRP优化模型。郭开俊等人[48]设计了一种新的混沌粒子群算法来解决带时间限制的多出救点应急物资调度问题；并且为了提高算法的精确度和收敛性，把高斯函数的分布曲线特性和混沌的遍历性特征融合进入了算法。夏红云等人[49]针对突发灾害事件发生时的短时间内资源短缺的问题，为了最大程度满足灾区资源需求、减少延迟成本，结合时间窗和网络流理论，建立了一个以需求点收益最大化和延迟成本最小化为目标的双层规划模型，并用两阶段启发式算法对模型进行求解。
+
+# 4）动态性约束
+
+突发灾害事件发生后，灾区的通信设备会产生损坏，造成应急管理人员不能及时把控应急物资需求和路况信息，且应急物资需求和路况信息随着时间的推移而不断的产生变化，从而管理人员收集到的数据也在动态的更新。因此，灾后应急物资调度是一个动态的决策过程。Fiedrich等人[50l针对震后初期应急响应中的资源优化问题，以最少死亡人数为目标，构建了一个动态优化模型，并用禁忌搜索算法和模拟退火算法对进行求解。Dan等人[51认为应急物资调度是一种典型的动态车辆路径问题，并设计了改进的蚁群优化算法来解决。田军等人[52]针对应急物资调度过程中受灾点需求信息的不确定性和运输路网的动态复杂性，借助三角模糊数建立了一个多目标应急物资动态调度模型。王海军等人[53]认为大规模突发事件下的应急物资调度问题的网络结构是一个由供应点、集配中心和需求点组成的三级供应网络结构，并在此基础上，对物资供应量和需求量均为模糊数时的应急物资动态调度问题进行了研究。
+
+# 1.5双层规划在应急物资调度中的应用研究
+
+随着人类社会的不断进步和发展，现实问题的规模越来越大，信息越来越复杂，层次越来越明显，结构越来越多样化，人们对于层次性的研究也就愈加重视。多层级理论正是人们为了研究系统层次性问题产生的，并且每一个多层级决策问题都可以由若干个双层级组成。因此，双层理论是最基础、最常见的一种层级理论，且人们对于双层理论的研究已有了很大的发展。
+
+目前，国内外对于双层理论已然有了丰富的研究成果。国外方面，一些学者将双层规划应用在城市供电和道路照明上。例如，Carli等人[54]针对城市道路照明能源管理的战略决策问题，提出了运用双层规划模型保证各个系统之间能量分配的最大公平性。Liu等人[55综合考虑了主动配电网络的网络传输能力和分散储能系统，建立了以成本和安全性为目标的多目标双层规划模型。还有一些学者将双层理论应用在交通、企业服务、农业等其他方面。例如，Du等人[56对于危险品多车辆运输路径问题，建立了一个模糊双层规划模型，上级为在仓库容量和客户需求的限制下将客户分配到仓库，而下级则确定每组仓库与客户之间的最佳路径，并设计改进的启发式算法对模型进行求解。Yang等人[57]针对交通拥挤和排队情况，通过控制交通信号，使驾驶员根据给定的信号模式作出反应，并建立了与之对应的双层规划模型对问题进行优化。Abdelaziz等人[58]针对企业在面临紧急缺货情况时，公司决策者可以灵活的满足客户的需求，而建立的一个与之对应的共享库存双层规划模型，并通过与常规库存模型对比，证明了该模型的有效性。
+
+国内方面，许项东等人[59]为了降低网络拥挤程度，从系统整体的角度出发，针对单行道布局优化问题，结合双层规划理论，建立了单行道布局优化的数学规划模型，并设计相应的启发式算法对模型进行求解。吕一兵等人[60]针对水资源的优化配置问题，从用水者在水市场上的行为特征这一角度出发，建立了一个以社会总效益以及用水者个人效益最大化为目标的双层规划模型，并给出了相应的求解方法，最后通过算例验证了模型及求解方法的可行性和有效性。蒋敏[61]针对两级供应链中制造商与零售商之间的多产品定价与订购的多损失双层风险决策问题，建立了一个与之对应的双层规划模型来解决。庞明宝等人[62]针对公交车站的选址问题，对政府、公交公司、出行者进行博弈分析，建立了一个上层以政府和公交公司追求社会效益最大化为目标，下层以出行者出行成本最小化为目标的双层规划模型，并采用遗传算法对模型进行优化求解，最后通过实例证明了该方法的有效性。郑跃等人[63]为了消除委托代理问题中的信息不对称性，结合双层规划理论建立模型，并提出一种模糊交互式协调算法对模型进行求解，最终通过算例证明了模型及算法的可操作性和高效性。
+
+但是将双层规划应用于灾后应急物资调度相关方面的研究还相对较少。王苏生等人[64为了确保在全局应急响应开始时间最早的情况下救灾费用最少，建立了一个双层规划模型。该模型兼顾了救灾的及时性与高效性，为应急救援提供了的思路。郑斌等人[65]结合震后初期应急救援特征，针对震后初期应急物资配送中的选址一联运问题，建立了一个双层规划模型，模型的上层以物资运送时间最小化为目标，下层以物资分配公平性最大化为目标，并设计一种新的混合遗传算法对模型进行求解。宋晓宇等人[6从非线性连续供给与消耗的客观事实出发，通过判断分配中心的库存量与其临界库存量的关系，建立了以总成本最小和系统响应时间最早为目标的双层应急物资调度模型。刘波等人[67]针对灾害情境下受灾点对救援物资需求不确定情况下的应急物资车辆调度问题，综合考虑了不同路况信息对应急救援车辆路径选择的影响，结合鲁棒优化理论和双层理论建立了一个上层以救援时间最小化为目标，下层以救援成本最小化为目标的应急物资调度模型。
+
+# 1.6群智能优化算法在应急物资调度问题中的应用研究
+
+智能优化算法包括模拟退火算法、粒子群算法、人工鱼群算法、遗传算法、蚁群算法以及禁忌搜索算法等。而灾害情景下的应急物资调度是一个NP-hard问题，针对灾后应急物资调度问题的算法求解，一直受到国内外学者的高度关注。
+
+国外方面，Azi等人[68]为了解决带有时间窗约束的多路径车辆路径问题，提出一个精确算法。该算法存在两个阶段：第一阶段是生成所有的可行路线；第二阶段是对路线进行选择和排序。Yi等人[69]为了解决应急物资运输的问题，将物资调度问题分解为两个阶段，即车辆路径问题和多物资调度问题，并提出用元启发式蚁群算法对问题进行求解。Zhang等人[70建立了一个模拟现实问题的应急物资调度模型，并针对模型设计了一种自适应变异的遗传算法，最后对典型遗传算法和改进遗传算法的实验结果进行比较，证明了改进遗传算法的优越性。Wex等人[71针对灾后应急救援资源的分配和调度问题，为了提高响应速率设计了一种改进的启发式算法，并通过实例验证了算法的有效性。Chang等人[72]为了能够在灾害发生时立即有效的向灾民提供救济，针对应急物流调度问题，设计了一种基于贪婪搜索的多目标遗传算法，并以台湾地震作为算例对算法进行验证，结果证明在有车辆限制和无车辆限制条件下该算法都具有优越性。Wang等人[73]针对多供应主体的应急物资供应问题，建立一个多目标双层规划模型，并采用NSGAⅡI算法对模型进行求解。
+
+国内学者在灾后应急物资调度模型的求解方面，主要致力于算法的改进与创新。潘郁等人[74]针对应急物资调度中的连续性消耗问题，设计了粒子群算法对所建立的多目标调度模型进行求解，并通过算例证明了算法的有效性。吕永波等人[75]设计了动态遗传算法来求解应急救援过程中的救灾物资发放问题，在改进的遗传算法中设置了摆动适应度函数以及以动态的方式确定了交叉、变异概率，并用标准遗传算法和动态遗传算法对同一实例进行求解，对求解结果进行比较，证明了动态遗传算法的高效性。李进等人[76]考虑到随着灾害事态的发展可能发生次生灾害的情形，建立了多受灾点多资源的应急物资调度模型,并结合网络优化和线性规划优化思想，设计了改进的启发式算法，通过算例对算法进行验证，结果表明该算法具有高效、实用的特点。陈森等人[77]针对灾害情境下的路网抢修和车辆物资配送问题，运用遗传算法和动态规划对其进行求解，最后通过算例证明模型和算法的可行性。孙华丽等人[78]考虑到灾区对应急物资需求的随机性，利用鲁棒优化方法对不确定应急物资需求进行处理，构建了多目标应急物资调度模型，以总时间和总成本最小为目标，使得模型更加符合应急物资调度的实际特征，并针对模型设计了改进的遗传算法。胡飞虎等人[79]考虑到实际应急物资调度问题的层次性，建立了以系统完成时间最短为目标的多物资、多车型的分层调度模型，并用改进的遗传算法对模型进行求解，在算法中采用一二级染色体成对生成的处理方法，提高了算法的运行效率。宋晓宇等人[80]分析了粒子群算法和非梯度侧步爬山算法各自的优缺点，设计了混合多目标粒子群算法对应急物资调度问题进行求解。
+
+# 2 研究现状总结
+
+通过对上述国内外的文献进行分析，关于应急物资调度可以做以下总结：
+
+a)应急物资调度网络结构方面。一类是单级应急网络结构，即将应急救援物资从供应点直接配送到受灾点；另一类是两级应急网络结构，即需要建立应急物资中转中心，其作用是完成应急救援物资从供应点到受灾点的短暂存储、再分配以及转运工作，进而形成一个“供应点一中转点一受灾点”的两级应急网络结构。
+
+b)约束条件方面。模型大多考虑单种救援物资，并且假设物资供给能够满足受灾点的需求；多采用单一运输方式对应急救援物资进行巡回配送，且很少顾及运力限制等其他情况；多假设单一物资需求点、单一物资供应点；多假定受灾点对应急物资的需求信息是明确的。而突发灾害事件发生后的应急救援具有一些明显的特征，如受灾点对应急物资的需求品种众多、需求量大且需求量是动态变化的；有多个物资需求点、多个物资供应点，并且可能存在受灾点对应急物资的需求不能得到满足的现象；往往需要借助应急物资中转中心来完成物资的转运；需要采用多种运输方式对应急物资进行联合运输，每种运输方式在每条道路上的单次运力限制是不相同的；灾民对应急物资的到达时间是有要求的，存在时间窗限制。因此，这些模型假定条件与灾后应急物资调度的实际情形相违背。
+
+c）目标函数方面。以往的研究大多是对应急物资调度的时间、成本等进行单独的优化，而在现实应急决策过程中需要对系统多个目标进行整体优化，并且灾后应急救援具有弱经济性，因此要合理安排各个目标权重；对应急物资调度过程中的灾民满意度的研究较少；在实际救援过程中，一些救援阶段存在多主体参与决策，决策主体不同导致决策内容不同，因此需要采用双层规划对应急物资调度进行分析。
+
+d)智能优化算法方面。针对灾害情景下应急物资调度的求解方面，由于问题过于复杂、约束条件过多且都是复杂的组合优化问题，所以在对其进行求解时，一般不容易得到全局最优解。学者们为了求解约束条件多和非线性多目标问题的近似最优解，多数采用智能优化算法对此类问题进行求解。由于每种算法都有着各自的优缺点，学者们已不再按照智能优化算法的原始规则对问题进行求解，而是基于原始算法的改进算法求解。在算法的改进方面，一部分学者以单种算法为基础，通过控制参数来提高算法的有效性；另一部分学者在各种算法之间取长补短，通过融合两种或者两种以上的算法来提高算法的性能。通过对原始算法和改进算法运行结果的比较分析可知，改进算法在计算效率和精确性方面有着显著的提高。
+
+# 3 研究展望
+
+通过对国内外现状的总结进行分析，针对应急物资调度问题的研究，存在以下几个方面的改进及展望：
+
+a）应急物资调度的研究。
+
+在应急响应中，引起不确定性的干扰因素有很多，并且因子之间相互影响，这些因素使得人们对应急物资的需求量、供给量以及调度的影响没有很清晰的认识；突发事件发生后，灾民的心理会出现很大的变化，但是现有的研究对这方面关注较少，因此在进行应急物资调度研究时，将其和灾民心理满意度结合起来是值得研究的一个问题。
+
+b）双层规划在应急物资调度中的应用。
+
+突发灾害事件的管理比较复杂且具有明显的阶层，而双层规划作为多层管理最基本的形式，更加适合应用于应急物资调度。根据灾后实际救援情况，合理建立若干应急物资中转中心，将应急物资调度分为上下两个层级：上级是将应急救援物资从供应点配送到中转中心；下级是将中转中心的应急救援物资配送到受灾点。上下级的决策者不同、决策内容不同，以及决策目标也不相同，因此要采用双层规划对问题进行分析研究，并且需要结合实际突发灾害应急救援特征，建立合适的假定条件和约束条件。
+
+另外，从双层规划的应用文献中可以发现，双层规划在应急物资调度中的应用不够深入，将双层规划与调度过程中的博弈行为相结合的研究则更为稀少。但是在灾后应急物资调度过程中决策者之间、物资之间、车辆之间、受灾点之间以及灾民之间处处都存在着博弈。因此，把双层规划理论与灾后应急物资调度过程中的博弈行为相结合的研究更加值得人们去探索。
+
+c）智能优化算法的研究。
+
+随着智能优化算法的发展，特别是群智能优化算法的兴起，针对灾后应急物资调度问题的求解方法越来越多样化。然而在应急响应中，人们必须实时处理各种突发信息，对处理时间的要求较高，因此，如何设计一种快速高效并且实用的算法也就成为了研究人员的重点研究内容。
+
+d）完善应急管理体系。
+
+在长期与突发灾害事件做斗争的过程中，我国建立了符合中国国情并且具有中国特色的应急救援机制。我国为应对突发灾害事件了做了很多工作，比如设立中央级救灾物资储备库，并对其进行不断的改善，部分地方也在逐步建立救灾物资储备库。但是与发达国家相比较，我国的应急管理工作还不够完善，比如应急管理综合协调机制尚不健全；应急管理综合性法律、法规和相关配套政策不够完善；社会公众减灾意识仍需提高等。因此，国家以及各地政府还需在现有体系的基础上，结合国家及各个地区的特点，对现有的应急管理体系进行完善。
+
+综上，将双层规划引入到应急物资调度中，将是未来双层理论问题研究的重点和热点。本文结合上述应物资调度的特点进行研究，内容如图1所示。
+
+![](images/0c9cb0c7de2652dd5754709ddfe6b2748a6582c29158e4e318a9e726980edb6d.jpg)  
+图1应急物资调度研究框架
+
+# 4 结束语
+
+本文对相关文献的进行了较为系统的回顾和梳理：总结了灾后应急、应急物资选址一分配、应急物资调度以及不同约束下的应急物资调度研究现状；梳理了双层规划和群智能优化算法在应急物资调度中的应用研究；分析现有应急物资调度存在的问题，针对存在的问题提出了相应的改进建议和应急物资调度研究框架。
+
+本文的研究内容为双层规划在灾后应急物资调度中的应用综述，它将双层规划理论与灾后应急物资调度相结合，内容新颖、视角独特，且更加符合实际，有利于构建灾后应急物资调度的新方法，完善应急救援的理论体系。后期的研究可以在本文研究的基础之上，将双层规划、博弈论、群智能优化算法与应急物资调度结合起来，构建基于双层规划的灾后应急物资调度博弈模型，并利用仿真对应急物资调度过程进行层级分析、主从分析和博弈分析。这是一个综合性课题，目前的研究尚不完善。突发灾害发生时，事态比较复杂，随着其发生频率的上升，针对灾后应急物资调度问题，如何建立一个具有实际应用价值的模型、完善模型的约束条件以及设计一个高效的智能优化算法对模型进行求解，是未来的一个重点研究方向。
+
+# 参考文献：
+
+[1]刘南，葛洪磊．应急资源配置决策的理论、方法及应用[M].北京：科 学出版社,2014: 3-8.(Liu Nan,Ge Honglei.Theory,method and application of emergency resource allocation decision [M]. Beijing: The Science Publishing Company,2014: 3-8.)   
+[2]Yasui E. Community vulnerability and capacity in post-disaster recovery: the cases of Mano and Mikura neighborhoods in the wake of the 1995 Kobe earthquake [D]. Vancouver: University of British Columbia,2007.   
+[3] 周露，陈曦，陈宏，等．应急状态下救灾物资供给特点研究——以汶川 地震食品供给为例[J].管理评论,2008,20(12):25-29.(Zhou Lu,Chen Xi, Chen Hong,et al. Study on the features of supply about relief material under the emergency circumstance: a case study of the food supply in Wenchuan earthquake[J].Management Review,20o8,20(12): 25-29.)   
+[4]左静，帅斌，何凯妮，等．基于改进熵权聚类SVD的铁路应急救援辅助 决策方法 [J].铁道学报,2017,39(8):18-26.(Zuo Jing,Shuai Bin,He Kaini, et al. Assistant decision-making method railway emergency rescue based on modified entropy weight clustering SVD model[J]. Journal of the China Railway Society,2017,39(8):18-26.)   
+[5]Ardekani SA,Hobeika AG.Logistics problems in the aftermath of the 1985 Mexico City earthquake[J]. Transportation Quarterly,1988,42(1): 107-124.   
+[6]Thomas A.Humanitarian logistics:enabling disaster response [M].Fritz Institute, 2008.   
+[7]丁巧.基于网格的地震灾害事件中应急物流系统的组织问题研究[D]. 北京：北京交通大学,2009.(Ding Yu.Research on the organization of emergency logistics system in earthquake disaster based on grid [D].Beijing:
+
+Beijing Jiaotong University,2009.)
+
+[8]王旭坪，傅克俊，胡祥培．应急物流系统及其快速反应机制研究[J]. 中国软科学,2005 (6):127-131.(Wang Xuping,Fu Kejun,Hu Xiangpei. Research on emergency logistics system and its emergent response mechanism [J].China Soft Science,2005(6): 127-131.)
+
+[9]Rawls C G,Turnquist MA.Pre-positioning of emergency supplies for disaster response[J].Transportation Research Part B:Methodological,2010, 44 (4): 521\~534.
+
+[10]Aksen D,ArasN.Abilevel fixed charge location model for facilities under imminent attack[J].Computers& Operations Research,2012,39(7):1364- 1381.
+
+[11]LiACY,NozickL,Xu Ningxiong,et al. Shelter location and transportation planning under hurricane conditions [J].Transportation Research Part E, 2012,48 (4): 715-729.
+
+[12]李周清，马祖军．基于改进GA的救援物资中转网点定位[J].计算机 工程,2011,37 (5): 4-6.(Li Zhouqing,Ma Zujun. Transshipment nodes location of relief materials based on improved GA [J]. Computer Engineering,2011,37(5): 4-6.)
+
+[13]于冬梅，高雷阜，赵世杰．给定需求区域应急物资储备库选址模型及其 解法[J]．中国安全科学学报,2015,25(11):170-176.(Yu Dongmei,Gao Leifu,Zhao Shijie.Alocationmodel with demand regionsand algorithm for emergency supplies repository [J].China Safety Science Journal, 2015,25 (11): 170-176.)
+
+[14]俞武扬，吕静．基于行程时间风险的应急设施选址模型[J]．自然灾害 学报,2016,25(4): 1-8.(Yu Wuyang,Lyu Jing.Emergency facility location model based on risk of travel time [J]. Journal ofNatural Disasters,2016, 25 (4): 1-8.)
+
+[15]赵容，刘克艳，任佩瑜.路段通行能力不同的避难点选址模型及算法 [J]．中国管理科学,2017,25(9):133-140.(Zhao Rong,Liu Keyan,Ren Peiyu.Min-max multiple sink location problem in dynamic path networks with different traffic capacity constraint [J].Chinese Journal ofManagement Science,2017,25 (9):133-140.)
+
+[16] Ozdamar L,Ekinci E,Kucukyazici B.Emergency logistics planning in natural disasters [J].Annals of Operations Research,2004,129(1):217-245.
+
+[17]Sheu JB.An emergency logistics distribution approach for quick response to urgent relief demand in disasters[J].Transportation Research PartE,2007, 43 (6): 687-709.
+
+[18] Najafi M,Eshghi K,Dullaert W.A multi-objective robust optimization model for logistics planning in the earthquake response phase [J]. Transportation Research Part E Logistics & Transportation Review,2013, 49 (1): 217-249.
+
+[19]葛洪磊，刘南，张国川，等．基于受灾人员损失的多受灾点、多商品应 急物资分配模型[J]．系统管理学报,2010,19(05):541-545.(GeHonglei Liu Nan,Zhang Guochuang,et al.A model for distribution of multiple emergency commodities to multiple affected are as based on loss of victims ofcalamity[J]. Journal of Systems & Management,2010,19(05): 541-545.)
+
+[20]王旭坪，张娜娜，詹红鑫．考虑灾民非理性攀比心理的应急物资分配研 究[J]．管理学报,2016,13(7):1075-1080.(Wang Xuping,Zhang Nana, Zhan Hongxin.Emergency material allocation model considering the nonrational psychological comparison of the victims [J].Chinese Journal of Management,2016,13(7):1075-1080.)
+
+[21]杨继君，余廉．面向多灾点需求的应急资源调度博弈模型及优化[J]. 中国管理科学,2016,24(8):154-163.(Yang Jijun,She Lian.Game model and optimization based on resource requirements of multiple crisis locations [J]. Chinese Journal of Management Science,2016,24(08): 154-163.)   
+[22]陈刚，付江月．兼顾公平与效率的多目标应急物资分配问题研究[J]. 管理学报,2018,15(3): 459-466.(Chen Gang,Fu Jiangyue.Multi-objective emergency resources allocation with fairness and eficiency considerations [J]. Chinese Journal of Management,2018,15 (3): 459-466.)   
+[23] Li Shuanglin,Ma Zujun,Zheng Bin,et al. Multiobjective locationtransportation problem in post-earthquake delivery of relief materials $[ \mathrm { C } ] / \hbar$ Proc of IEEE International Conference on Industrial Engineering and Engineering Management. [s. n.] : IEEE Press,2011: 1468-1472.   
+[24]俞武扬．基于时间满意度的应急物资中转运输模型[J]．系统管理学报, 2013,22 (6):882-887. (Yu Wuyang.Transshipment model for emergency materials based on time satisfaction criterion [J].Journal of Systems & Management,2013,22(6): 882-887.)   
+[25] Rath S,Gutjahr W J.A math-heuristic for the warehouse location-routing problem in disaster relief[J].Computers& Operations Research,2014,42 (2): 25-39.   
+[26]阮俊虎，王旭坪．中转点变化的应急医疗物资联合运送干扰管理研究 [J].运筹与管理,2016,25(4):114-124.(Ruan Junhu,Wang Xuping. Disruption management of emergency medical supplies intermodal transportation with updated transit centers [J]. Operations Research and Management Science,2016,25 (4): 114-124.）   
+[27] Hindi K S,Basta T,Piehkosz K.Efficient solution of a multi-commodity, two-stage distribution problem with constraints on assignment of customers to distribution centers [J]. International Transactions in Operational Research,1998,5 (6): 519-527.   
+[28] Widener M J, Horner M W.A Hierarchical approach to modeling hurricane disaster relief goods distribution [J]. Journal of Transport Geography,2011, 19 (4): 821-828.   
+[29] Lin Yong,Jiang Dali, Zhang Li,etal. Emergency supplies scheduling model andalgorithm for multi-supply point and multi-demand point [J]. Application Research of Computers,2016,33 (5): 1293-1297.   
+[30] Hu Feihu, WangYulong,MaBeilong,etal.Emergencysuppliesresearchon crossing points of transport network based on genetic algorithm [C]// Proc of IEEE International Conference on Intelligent Transportation,Big Data and Smart City.[s.n.]: IEEE Press,2016: 370-375.   
+[31] Chi Hong,Li Jialian，Shao Xueyan，et al. Timeliness evaluation of emergency resource scheduling[J].European Journal of Operational Research,2016,258 (3): 1022-1032.
+
+[32]刘春林，何建敏，施建军．一类应急物资调度的优化模型研究[J]．中 国管理科学,2001,V(3):30-37.(Liu Chunlin,He Jianmin,Shi Jianjun. The study on optimal model for a kind of emergencymaterial dispatch problem [J].Chinese Journal of Management Science,20o1,V(3): 30-37.)
+
+[33]郭子雪，郭亮，张培，等．应急物资调度时间最小化模糊优化模型[J]. 中国安全科学学报,2015,25(10):172-176.(Guo Zixue,Guo Liang,Zhang Pei,et al. Time minimization model for emergency material dispatching based on triangle fuzzy information [J]. China Safety Science Journal, 2015,
+
+25 (10): 172-176.)
+
+[34]赵明，常春光．改进人工蜂群算法及其在应急调度优化问题中的应用 [J]．计算机应用研究，2016,33(12):3596-3601.(Zhao Ming,Chang Chunguang.Improved artificial bee colony algorithm and its application on optimization of emergency scheduling [J].Application Research of Computers,2016,33 (12): 3596-3601.)
+
+[35]唐伟勤，邹丽，郭其云，等．应急初期物资调度的灰色多目标规划模型 [J].中国安全科学学报,2016,26(4):155-160.(TangWeiqin,Zou Li, Guo Qiyun，et al. Grey multi-objective programming model for emergency material dispatching in initial stage of emergency[J].China Safety Science Journal,2016,26(4): 155-160.)
+
+[36]陈业华，马晓玉．突发事件情景下串联式需求系统应急物资协同调度 研究[J].运筹与管理，2017,26(4):89-95.(Chen Yehua,Ma Xiaoyu. Research on the cooperative scheduling of emergency material in series demand system under the situation of emergency [J]. Operations Research and Management Science,2017,26 (4): 89-95.)
+
+[37] Ma Hong,Cheang B,LimA,et al.An investigation into the vehicle routing problem with time windows and link capacity constraints [J].Omega,2012, 40 (3): 336-347.
+
+[38]王旭坪，马超，阮俊虎．运力受限的应急物资动态调度模型及算法[J]. 系统工程理论与实践,2013,33(6):1492-1500.(Wang Xuping,Ma Chao, Ruan Junhu. Model and algorithm of relief materials dynamic scheduling without sufficient vehicle quantity [J].Systems Engineering-Theory& Practice,2013,33(6):1492-1500.)
+
+[39]王军，王美蓉.海上突发灾难事件应急物资调度优化方法研究[J]．中 国安全科学学报,2013,23(1):166-170.(Wang Jun,Wang Meirong.Study on optimizingof emergency resources scheduling for maritime perils [J]. China Safety Science Journal, 2013,23(1):166-170)
+
+[40]郑斌，马祖军，周愉峰．震后应急物流动态选址一联运问题的双层规划 模型[J].系统管理学报,2017,26(2):326-337.(Zheng Bin,Ma Zujun, Zhou Yufeng.Bi-level model for dynamic location-transportation problem forpost-earthquake relief distribution [J].Journal of Systems& Management,2017,26 (2): 326-337.)
+
+[41]Barbarosoglu G,Arda Y.A two-stage stochastic programming framework for transportation planning in disaster response [J].Journal of the Operational Research Society,2004,55(1): 43-53.
+
+[42]林勇，姜大立，张立，等．多供应点和多需求点应急物资调运模型及算法[J].计算机应用研究,2016,33(5):1293-1297.(Lin Yong,Jiang Dali,
+
+Zhang Li,et al.Emergency supplies scheduling model and algorithm for multi-supply point and multi-demand point [J].Application Research of Computers,2016,33 (5):1293-1297.)
+
+[43]陈钢铁，黎青松，甘俊伟．震后应急救援物资多式联运调度优化[J]. 西华大学学报：自然科学版，2016,35(1):53-57.(Chen Gangtie,Li Qingsong,Gan Junwei.Emergency relief supplies multimodal scheduling optimization study after the earthquake[J].Journal of Xihua University: Natural Science Edition,2016,35(1): 53-57.)
+
+[44]李孟良，王喜富，孙全欣，等．基于鲁棒优化的应急物资多式联运调配 策略研究[J].铁道学报,2017,39(7):1-9.(LiMengliang,Wang Xifu,Sun Quanxin，et al.Research on allocation strategiesof multimodal transportation for emergency resources based on robust optimization [J]. Journal of the China Railway Society,2017,39(7):1-9.)
+
+[45]宋晓宇，张玉龙，常春光．可多次配给的多层级应急调度模型与算法 [J]．信息与控制，2017,46(5):543-550.(Song Xiaoyu,Zhang Yulong, Chang Chunguang.Multiple rationing multi-level emergency material dispatching model and its algorithm [J]. Information and Control,2017, 46 (5): 543-550.)
+
+[46] Lin Y H,Batta R,Rogerson PA,etal.A logistics model for emergency supply of critical items in the aftermath of a disaster[J].Socio-Economic Planning Sciences,2011,45 (4):132-145.
+
+[47]王绍仁，马祖军．震后应急物流系统中带时间窗的模糊动态LRP[J]. 运筹与管理，2011,20(5):63-72.(Wang Shaoren,Ma Zujun.Fuzzy dynamic LRP with time windows in post-earthquake emergency logistics systems [J]. Operations Research and Management Science,2011,20 (5): 63-72.)
+
+[48]邬开俊，王铁君．带时限的多出救点应急物资调度模型及算法[J].计 算机工程与应用,2012,48(30):19-23.(WuKaijun,Wang Tiejun.Model and optimization algorithm of multi-depot emergency materials dispatching with time limits [J].Computer Engineering and Applications,2012,48 (30): 19-23. )
+
+[49]夏红云，江亿平，赵林度．基于双层规划的应急救援车辆调度模型[J]. 东南大学学报：自然科学版,2014,44(2):425-429.(XiaHongyun,Jiang Yiping, Zhao Lindu. Emergency rescue vehicle scheduling model based on bi-level programming [J]. Journal of Southeast University: Natural Science Edition,2014,44(2): 425-429.)
+
+[50]Fiedrich F,Gehbauer F,Rickers U.Optimized resource allocation for emergency response after earthquake disasters [J]. Safety Science,2000,35 (1): 41-57.
+
+[51]Dan Bingbing,Zhu Wanhong,Li Huabing,et al.Dynamic optimization model and algorithm design for emergency materials dispatch [J]. Mathematical Problems in Engineering,2013,2013 (2):1-6.
+
+[52]田军，马文正，汪应洛，等．应急物资配送动态调度的粒子群算法[J]. 系统工程理论与实践,2011,31(5):898-906.(Tian Jun,Ma Wenzheng, Wang Yingluo,et al. Emergency supplies distribution and vehicle routs programming based on particle swarm optimization [J]. Systems
+
+Engineering-Theory& Practice,2011,31(5):898-906.)
+
+[53]王海军，王婧，马士华，等.模糊供求条件下应急物资动态调度决策研 究[J].中国管理科学,2014,22(1):55-64.(Wang Haijun,Wang Jing,Ma Shihua,et al.Decision-making for emergency materials dynamic dispatching based on fuzzy demand and supply [J]. Chinese Journal of Management Science,2014,22(1): 55-64.)
+
+[54] Carli R,Dotoli M.Bi-level programming for the energy retrofit planning of street lighting systems [C]// Proc of IEEE International Conference on Networking, Sensing and Control.[s.n.] :IEEE Press,2017: 543-548.
+
+[55] Liu Jia,Cheng Haozhong,Tian Yuan,et al. Multi-objective bi-levelplanning of active distribution networks considering network transfer capability and dispersed energy storage systems [J]. Journal of Renewable & Sustainable Energy,2018,10(1):015501.
+
+[56]Du Jiaoman,Li Xiang,YuL,et al.Multi-depot vehicle routing problem for hazardous materials transportation: a fuzzy bilevel programming [J]. Information Sciences,2017,399 (C): 201-218.
+
+[57] Yang Hai, Yagar S.Traffic assignment and signal control in saturated road networks [J].Transportation Research PartAPolicy & Practice,1995,29 (2): 125-139.
+
+[58]Abdelaziz FB,Mejri S.Multiobjective bi-level programming for shared inventory with emergency and backorders [J].Annals of Operations Research,2018,267(1): 47-63.
+
+[59]许项东，程琳．城市道路单行系统布局优化的双层规划模型和混合算 法[J].系统工程理论与实践,2009,29(10):180-187.(Xu Xiangdong, Cheng Lin.Bi-level programming model and hybrid solution algorithm for the configuration of one-way streets [J].Systems Engineering-Theory & Practice,2009,29 (10): 180-187.)
+
+[60]吕一兵，万仲平，胡铁松，等．水资源优化配置的双层规划模型[J]. 系统工程理论与实践,2009,29(6):115-120.(Lyu Yibing,Wan Zhongping, Hu Tiesong,et al.Bi-level model of water resources optimal allocation [J]. SystemsEngineering-Theory& Practice,2009,29(6):115-120.)
+
+[61]蒋敏．一种多损失条件风险值的双层规划模型及应用[J]．系统工程理 论与实践,2013,33(4): 926-933.(Jiang Min.A bi-level programming of multi-loss conditional value-at-risk model and its applications [J]. Systems Engineering-Theory& Practice,2013,33(4): 926-933.)
+
+[62]庞明宝，张思林，李春霞．城市公交站设置双层规划[J].公路交通科 技,2013,30 (3):118-124.(Pang Mingbao,Zhang Silin,Li Chunxia.Bilevel programming of urban bus stop locating [J].Journal of Highway and Transportation Research and Development,2013,30 (3):118-124.)
+
+[63]郑跃，万仲平，袁柳洋．基于二层规划的委托代理协调问题[J]．系统工程理论与实践,2014,34(1):77-83.(Zheng Yue,Wan Zhongping,YuanLiuyang.Coordination problem of the principal-agent based on bi-levelprogramming[J].Systems Engineering-Theory& Practice,2014,34(1):77-83.）
+
+[64]王苏生，王岩，孙健，等.连续性条件下的多受灾点应急资源配置算法[J]．系统管理学报,2011,20(2):143-150.(Wang Susheng,Wang Yan, Sun
+
+Jian,et al.Emergency resources allocation among multiple disaster places under the continuity constrain [J]. Journal of Systems & Management, 2011, 20 (2):143-150.)
+
+[65]郑斌，马祖军，李双林．基于双层规划的震后初期应急物流系统优化 [J]．系 统工程学报,2014,24(1):114-125.(Zheng Bin,Ma Zujun,Li Shuanglin. Integrated optimization of emergency logistics systems for postearthquake initial stage based on bi-level programming [J].Journal of Systems Engineering,2014,24(1): 114-125.)
+
+[66]宋晓宇，张卿，常春光．求解双层应急物资调度的改进蜂群算法[J]. 信息与控制,2015,44(6):729-738.(Song Xiaoyu,Zhang Qing,Chang Chunguang.Improved bee colony algorithm for solving double layer emergency resource scheduling[J]. Information and Control, 2O15,44 (6): 729-738. )
+
+[67]刘波，李砚．应急物资车辆调度的鲁棒双层优化模型[J]．系统工程， 2016,34(5): 77-81.(Liu Bo,Li Yan.Robust bi-level optimization model for vehicle routing of emergency commodities [J]. Systems Engineering,2016, 34 (5): 77-81.)
+
+[68]Azi N,Gendreau M,Potvin JY.An exact algorithm for a single-vehicle routing problem with time windows and multiple routes [J].European Journal of Operational Research,2007,178 (3): 755-766.
+
+[69] Yi W,Kumar A.Ant colony optimization for disaster relief operations [J]. Transportation Research Part E,2007,43 (6):660-672.
+
+[70] Zhang Liming,Lin Yuhua,Yang Guofeng,et al.Emergency resources scheduling based on adaptively mutate genetic algorithm [J]. Computers in HumanBehavior,2011,27(5):1493-14982009.
+
+[71]Wex F,Schryen G,Feuerriegel S,et al.Emergency response in natural disaster management: allocation and scheduling of rescue units [J]. European Journal of Operational Research,2014,235(3): 697-708.
+
+[72] Chang Fusheng，Wu J S,Lee C N,et al.Greedy-search-based multiobjective genetic algorithm for emergency logistics scheduling [J].Expert Systems with Applications,2014,41 (6):2947-2956.
+
+[73] Wang Yin,Hu Dawei,Automobile S O,et al. Study on emergency material supply model based on multiple supply subjects under uncertain factors [J]. Journal of Safety Science & Technology,2017.
+
+[74]潘郁，余佳，达庆利．基于粒子群算法的连续性消耗应急资源调度[J]. 系统工程学报，2007,22(5):556-560.(Pan Yu,Yu Jia,Da Qingli. Emergency resources scheduling on continuous consumption system based on particle swarm optimization [J].Journal of Systems Engineering,2007,
+
+22 (5):556-560.)
+
+[75]吕永波，贾楠，任锦鸾，等．救灾物资发放问题的动态遗传算法求解 [J].管理科学学报,2008,11(3):29-34.(Lyu Yongbo,Jia Nan,Ren Jinluan, et al.Dynamic genetic algorithm for problems of distributing goods to disaster areas [J]. Journal of Management Sciences in China,2oo8,11 (3): 29-34. )
+
+[76]李进，张江华，朱道立．灾害链中多资源应急调度模型与算法[J]．系统工程理论与实践,2011,31(3):488-495.(Li Jin,Zhang Jianghua,Zhu
+
+Daoli.Multi-resource emergency scheduling model and algorithm in disaster chain [J].Systems Engineering-Theory & Practice,2O11,31 (03): 488-495.)
+
+[77]陈森，姜江，陈英武，等．未定路网结构情况下应急物资车辆配送问题 模型与应用[J]．系统工程理论与实践,2011,31(5):907-913.(Chen Sen, Jiang Jiang,Chen Yingwu,et al.Emergency logistics distribution problem model under uncertain roadway network structure and its application [J]. Systems Engineering-Theory& Practice,2011,31(5): 907-913.)
+
+[78]孙华丽，王循庆，薛耀锋．随机需求应急物流多阶段定位-路径鲁棒优 化研究[J].运筹与管理,2013,22(6):45-51.(Sun Huali,Wang Xunqing, Xue Yaofeng.Robust optimization for multi-stage location-routing problem with stochastic demand under emergency logistics [J]. Operations Research and Management Science,2013,22(6): 45-51.)
+
+[79]胡飞虎，田朝晖，赵沐华，等．基于遗传算法的应急物资分层联动调度 研究[J].计算机应用研究，2016,33(2):439-443.(HuFeihu,Tian Chaohui, Zhao Muhua,et al.Research on hierarchical linkage scheduling emergency supplies based on genetic algorithm[J].Application Research of Computers,2016,33 (2): 439-443.)
+
+[80]宋晓宇，王建国，常春光.非线性连续消耗应急物资调度问题研究[J]. 系统工程学报,2017,32(2):163-176.(Song Xiaoyu,Wang Jianguo,Chang Chunguang. Nonlinear continuous consumption emergency material dispatching problem [J]. Journal of Systems Engineering,2017,32(2):163- 176.)

@@ -1,0 +1,162 @@
+# 基于Edgeworth级数和多重线性化的概率潮流算法
+
+梁捷
+
+![](images/f899996e5ffca862786df927efb36f3e0d74ef3d32def8b7210b018f92230ea5.jpg)
+
+梁捷男1987年生，工程师，主要从事电力系统及其自动化方面的工作。
+
+（广西电网有限责任公司电力科学研究院南宁530023）
+
+摘要：对含随机变量的大规模概率潮流问题，若使用Gram-Charlier级数展开式逼近随机变量的概率分布，计算量较大。建立考虑风电出力随机性和负荷波动性的概率潮流模型，并采用Edgeworth通过的Hermite正交矩阵的递推性降低级数高阶展开的计算复杂度，针对级数变换法高次项被舍去影响逼近精度的问题，采用多重线性化的方法通过对系统总有功功率的均匀划分，减小因潮流方程线性化时输入的随机变量的变化范围较大而引起的截断误差。IEEE 39节点系统的算例仿真结果验证了本方法的有效性。
+
+关键词：概率潮流多重线性化 递推性Edgeworth级数 中图分类号：TM711
+
+# A Probabilistic Power Flow Algorithm Based on Edgeworth Series and Multiple Linearization
+
+Liang Jie (Electric Power Research Institute of Guangxi Power Grid Co.,Ltd. Nanning530023 China )
+
+Abstract: On the problem of large-scale probabilistic power flow problems with random variables,if the Gram-Charlier series expansion was used to approximate the cumulative distribution of random variables,the amount of calculation was large.In order to reduce the computational complexity of higher order expansion by using the recurrence of Hermite orthogonal matrix of edgeworth,a probabilistic power flow model considering the randomness of wind power output and load fluctuation is established.According to the method of high-order series transform is eliminated the influence of calculation accuracy, the method of multiple linear systems by uniform division of the total active power is used to reduce the truncation error caused by the large variation range of the input random variables due to linearization of the power flow equation. Simulation results of IEEE 39 system verify the effectiveness of the proposed method.
+
+Keywords: Probabilistic power flow,multiple linearization, recursive,Edgeworth series
+
+# 1 引言
+
+概率潮流分析可以帮助调度运维人员评估系统随机因素变化对潮流安全稳定运行的影响，以确定安全调度策略。在概率潮流分析中，除了传统火电机组的出力和网络阻抗等可预测因素外，还需考虑风电等新能源的不稳定出力和负荷波动等随机扰动因素对系统安全性的影响[1]。
+
+文献[2]根据节点电压和支路潮流的期望值及灵敏度矩阵，计算了负荷、风电机组出力等的半不变量，由Gram-Charlier级数展开求得概率分布函数，但Gram-Charlier展开需要通过各模拟抽样序列计算展开式的各阶距，在高阶展开时计算量较大。文献[3]采用蒙特卡洛仿真(MonteCarloSimulation，MCS）通过简单随机采样得到输入变量的样本，再对每个采样点进行确定性潮流计算，最后统计获得各状态量的分布情况，该方法原理简单，在保证样本规模足够大的情况下能够获得很高的精度，缺点是仿真次数多，在用于求解大规模系统的概率潮流时耗时较长。
+
+本文首先建立考虑风电出力不稳定性和负荷波动的交流概率潮流模型，并使用多重线性化的方法通过对系统总有功功率的均匀划分，将潮流方程线性化，然后通过Edreworth级数展开计算出潮流方程中随机状态变量的概率分布。最后通过IEEE39节点系统的算例仿真分析了风电出力的不确定性和负荷波动对基于级数展开的概率潮流逼近精度的影响，并比较了不同级数展开的逼近精度和计算速度。
+
+# 2基于Edgeworth变换和多重线性化的 概率潮流
+
+# 2.1交流潮流模型及其半不变量
+
+交流潮流模型为
+
+$$
+\left\{ \begin{array} { l } { { V _ { i } \sum _ { j \in i } Y _ { i j } V _ { j } \cos \delta _ { i j } + P _ { _ { \mathrm { L } } i } - P _ { _ { \mathrm { G } } i } - P _ { _ { \mathrm { W } } i } = 0 \quad i \in \mathbf { S } _ { _ { \mathrm { P V } } } \cap \mathbf { S } _ { _ { \mathrm { Q V } } } } } \\ { { \quad V _ { i } \sum _ { j \in i } Y _ { i j } V _ { j } \sin \delta _ { i j } + Q _ { _ { \mathrm { L } } i } - Q _ { _ { \mathrm { G } } i } - Q _ { _ { \mathrm { W } } i } = 0 \quad i \in \mathbf { S } _ { _ { \mathrm { P V } } } } } \end{array} \right.
+$$
+
+式中， $\mathbf { S } _ { \mathrm { P V } }$ 和 $\mathbf { S } _ { \mathrm { P Q } }$ 分别为系统PV和PQ节点集合；$P _ { \mathrm { G } i }$ 和 $\boldsymbol { Q } _ { \mathrm { G } i }$ 为节点 $i$ 火电机组发出的有功、无功功率； $P _ { \mathrm { W } i }$ 和 $Q _ { \mathrm { w } i }$ 为节点 $i$ 处风电机组输出的有功、无功功率； $P _ { \mathrm { L } i }$ 和 $\mathcal { Q } _ { \mathrm { L } i }$ 为节点 $i$ 负荷的有功、无功功率；$V _ { i }$ 和 $\delta _ { i }$ 为节点 $i$ 电压幅值和相角； $Y _ { i j }$ 为节点导纳矩阵元素； $\alpha _ { i j }$ 为 $Y _ { i j }$ 相应的相角， $\delta _ { i j } = \delta _ { i } - \delta _ { j } - \alpha _ { i j }$ 。本文概率潮流考虑负荷的波动性与风电机组出力的不确定性，则 $P _ { \mathrm { w } i }$ ， $Q _ { \mathrm { w } i }$ ， $P _ { \mathrm { L } i }$ ， $\mathcal { Q } _ { \mathrm { L } i }$ 为随机变量。
+
+将式（1）的潮流方程线性化，假设各节点注入功率的随机变化是独立的，则系统状态变量实际上是各注入功率随机变量的线性和，且权重系数为灵敏度系数[4。基于此，将式（1）在基准运行点处采用泰勒展开并忽略二阶以上的高次项，可得其单点展开模型为
+
+$$
+\begin{array} { c } { { \left\{ \begin{array} { l l } { { \displaystyle X = X _ { _ 0 } + S _ { _ 0 } ( W - W _ { 0 } ) } } \\ { { \displaystyle Z = Z _ { _ 0 } + T _ { _ 0 } ( W - W _ { _ 0 } ) } } \end{array} \right. } } \end{array}
+$$
+
+式中， $X _ { 0 }$ 、 $Z _ { 0 }$ 、 $\textstyle W _ { 0 }$ 分别为基准运行点处的节点电压、支路功率和节点注入功率； $W$ 为节点注入功率的随机变量； $\pmb { S } _ { 0 }$ 与 $\pmb { T } _ { 0 }$ 分别为节点电压和支路功率对注入功率变化的灵敏度矩阵[5]，且 $\pmb { S } _ { 0 } = \pmb { J } _ { 0 } ^ { - 1 } , \pmb { T } _ { 0 } = \pmb { G } _ { 0 } \pmb { J } _ { 0 } ^ { - 1 }$ ，其中J为雅可比矩阵，G=(∂Z/∂Xo)x=xo
+
+运用半不变量的特性可以得到状态变量 $\Delta X$ 和$\Delta Z$ 支路潮流的各阶半不变量，即[
+
+$$
+\begin{array} { r } { \left\{ \Delta \boldsymbol { X } ^ { ( k ) } = \boldsymbol { S } _ { 0 } ^ { ( k ) } \times \Delta \boldsymbol { W } ^ { ( k ) } \right. } \\ { \left. \Delta \boldsymbol { Z } ^ { ( k ) } = \boldsymbol { T } _ { 0 } ^ { ( k ) } \times \Delta \boldsymbol { W } ^ { ( k ) } \right. } \end{array}
+$$
+
+式中， ${ S _ { 0 } } ^ { ( k ) }$ 和 ${ \pmb T } _ { 0 } ^ { ( k ) }$ 分别为矩阵 $\pmb { S } _ { 0 }$ 和 $\mathbf { \delta } \mathbf { T } _ { 0 }$ 中元素的 $k$ 次幂构成的矩阵； $\Delta W ^ { ( k ) }$ 为节点注入功率变化量的 $k$ 次幂，从而可以根据各节点发电机出力、风机出力和负荷分布的情况下求出发电机与负荷的半不变量[7]。
+
+# 2.2概率潮流方程的Edgeworth级数展开
+
+传统的Gram-Charlier级数展开用于逼近待求状态变量和支路潮流的累积分布函数（CumulativeDistributionFunction，CDF）时，在每次迭代时需要逐项计算各阶Hermite正交矩阵，计算量较大。对此，采用Edgeworth展开法，可以通过标准正态分布函数逼近服从任意分布的随机变量的概率分布函数，且渐进展开的方式计算较简便[8。首先定义随机变量 $x$ 的标准形式为 $y$ ，则
+
+$$
+y = \frac { x - \mu } { \sigma }
+$$
+
+式中， $\mu$ 为 $x$ 的均值， $\sigma$ 为标准差，设 $F ( x )$ 和 $f ( x )$ 分别为 $y$ 的CDF和概率密度函数（ProbabilityDensityFunction，PDF），且 $f \left( x \right) = F ^ { \prime } ( x )$ ，则 $f ( x )$ 的Edgeworth展开表示为
+
+$$
+\begin{array} { c } { { f ( t ) = \displaystyle { \varphi ( y ) \Biggl [ 1 + \frac { k _ { _ 3 } } { 3 ! } H _ { _ 3 } ( y ) + \frac { k _ { _ 4 } } { 4 ! } H _ { _ 4 } ( y ) + \frac { 1 0 k _ { _ 3 } ^ { 2 } } { 6 ! } H _ { _ 6 } ( y ) + } } } \\ { { \displaystyle { \frac { k _ { _ 5 } } { 5 ! } H _ { _ 5 } ( y ) + \frac { 3 5 k _ { _ 3 } k _ { _ 4 } } { 7 ! } H _ { _ 7 } ( y ) + \cdots \Biggr ] } } } \end{array}
+$$
+
+式中， $\varphi ( y )$ 为标准正态分布的PDF， $\pmb { H } _ { i } ( y )$ 为 $i$ 阶Hermite正交矩阵， $k _ { i }$ 为 $y$ 的 $i$ 阶半不变量，且
+
+$$
+k _ { \scriptscriptstyle i } = E \left\{ \left[ y - E ( y ) \right] ^ { \scriptscriptstyle i } \right\}
+$$
+
+式中， $E ( \cdot )$ 表示期望值， $\pmb { H } _ { i } ( y )$ 有如下递推关系
+
+$$
+\begin{array} { l } { \left\{ H _ { _ { j + 1 } } ( y ) = y H _ { _ { y } } ( y ) - j H _ { _ { j - 1 } } ( y ) \right. } \\ { \left. H _ { _ { 0 } } ( y ) = 1 , H _ { _ { 1 } } ( y ) = y \right. } \end{array}
+$$
+
+由于Edgeworth的Hermite 矩阵在Hilber空间上具有正交性，由式（7）， $k _ { i }$ 的后项可由前项的递推关系确定[9，求出前项后，后项可根据前项的多项式技术快速获得，从而减少计算量。
+
+# 2.3潮流方程的多重线性化
+
+但当输入的随机变量的变化范围较大时，由于级数展开后的高次项被舍去，采用式（2）的单点线性化模型会引起较大的截断误差，为了在提高级数变换法计算速度的同时不至于损失太多精度，下面引入一种多重线性化的方法。设 $P _ { \mathrm { t o t } }$ 为系统总的有功功率，有
+
+$$
+P _ { \mathrm { { t o t } } } = \sum _ { i = 1 } ^ { N _ { \mathrm { { N } } } } { P _ { i } } - \sum _ { j = 1 } ^ { N _ { \mathrm { { G } } } } { P _ { \mathrm { { G } } j } }
+$$
+
+式中， $N _ { \mathrm { N } }$ 为PQ节点个数； $P _ { i }$ 为节点 $i$ 负荷有功功率； $N _ { \mathrm { G } }$ 为PV节点个数； $P _ { \mathrm { G } j }$ 为发电机节点 $j$ 的有功输出。
+
+由于负荷功率和新能源出力均为随机变量，可知 $P _ { \mathrm { t o t } }$ 也是随机变量。多重线性化的方法首先将 $P _ { \mathrm { t o t } }$ 等间距地划分为 $R _ { \mathrm { T } }$ 个区域。在区域 $R _ { \mathrm { 1 } } \sim R _ { \mathrm { T } }$ 内选取相应的基准运行点，并将潮流方程在各点处分别线性化，即
+
+$$
+\left\{ \begin{array} { l l } { X _ { _ { R 1 } } = X _ { _ { R 1 0 } } + { \pmb S } _ { _ { R 1 } } ( W _ { _ { R 1 } } - \bar { W } _ { _ { R 1 } } ) } \\ { X _ { _ { R 2 } } = X _ { _ { R 2 0 } } + { \pmb S } _ { _ { R 2 } } ( W _ { _ { R 2 } } - \bar { W } _ { _ { R 2 } } ) } \\ { \qquad \quad \vdots } \\ { X _ { _ { R T } } = X _ { _ { R T 0 } } + { \pmb S } _ { _ { R T } } ( W _ { _ { R T } } - \bar { W } _ { _ { R T } } ) } \end{array} \right.
+$$
+
+式中， ${ \cal { S } } _ { R i }$ 为第 $R _ { i }$ 个区域对应的灵敏度矩阵； $X _ { R i 0 }$ 为第 $R _ { i }$ 个区域的状态向量； $\hat { W } _ { R i }$ 为第 $R _ { i }$ 个区域的基准功率向量。
+
+综上，本文基于多重线性化和Edgeworth级数展开的概率潮流算法流程如图1所示。
+
+# 3 算例分析
+
+为验证本文所提方法的可行性，以IEEE39节点系统为算例，该系统含39个节点，46条支路，假设风机出力服从Weibull分布，负荷服从正态分布，各随机变量之间相互独立，模型见文献[10]，且以原系统负荷预测数据为分布期望值。
+
+![](images/d4fd70413b188da5f35dc027e04e859a56060607f75e57c0299495cea526181e.jpg)  
+图1算法流程  
+Fig.1Flow chart of the proposed method
+
+为验证本文方法的准确性，分别将本文方法和Gram-Charlier级数概率潮流计算结果与基于MCS的结果进行比较，MCS法抽样次数 $N _ { \mathrm { d } }$ 取 $\mathrm { ~ 1 ~ } 0 0 0$ 次，采用方差和根均值（AverageRootMean Square,ARMS）[1]作为逼近精度评价指标，即
+
+$$
+A R M S = \frac { \sqrt { \sum _ { i = 1 } ^ { N } ( \mathrm { C C E } _ { i } - \mathrm { C M C } _ { i } ) ^ { 2 } } } { N }
+$$
+
+式中， $\mathrm { C C E } _ { i }$ 和 $\mathrm { C M C } _ { i }$ 分别为半不变量法和MCS 法得到的输出随机变量累积分布曲线上第 $i$ 个点的值，$N$ 为节点数。
+
+分别对两个场景进行分析：场景1只考虑负荷波动，场景2考虑负荷波动和风电机组出力的波动。
+
+图2显示了场景1的节点电压幅值精度指标的均值和最大值随负荷波动标准差的变化情况。可见，当系统只考虑负荷波动时，两种级数展开的半不变量法逼近精度均较低，这是由于本文假设负荷波动服从正态分布，所述两种级数都是将输入随机变量的分布函数表示为由正态随机变量各阶导数组成的级数[12]，故两者逼近精度均较高；当负荷波动性加大后，半不变量法逼近精度减小。这是由于负荷波动标准差较大时，加大了注入功率远离负荷功率期望值的概率，使得潮流线性化处理引起的误差随之增大。
+
+![](images/2d2b544d7aba0ab9b3500ec4a8d708db8e701af863d734ecf7abae2b9bacb09a.jpg)  
+图2场景1节点电压幅值的ARMS均值和最大值 Fig.2Average and maximal ARMS of bus voltage amplitude in case 1
+
+场景2在场景1的基础上，将VestasV112—$2 . 5 \mathrm { M W }$ 型风电机组接入节点11，切入、切出和额定风速分别为4、25和 $1 6 \mathrm { m / s }$ ，采用恒功率因数控制策略。风速的双参数Weibull分布参数分别取 $k =$ 3.97和 $c = 1 0 . 7$ 。
+
+场景2两种方法在不同风电机组容量下的电压幅值逼近精度指标如图3所示。由图3可见： $\textcircled{1}$ 当风电机组接入容量增加时，两种方法的ARMS指标值均增大，即半不变量法逼近精度呈降低趋势； $\textcircled{2}$ 由于风电机组容量对应为随机变量取值的最大值的范围，故ARMS最大值随风电机组容量增大的趋势较明显，而均值为随机变量每个采样点根据采样次数平均化的结果，由于采样次数基数较大，故均值变化的趋势较平缓； $\textcircled{3}$ 本文基于多重线性化的Edgeworth级数展开法的拟合精度比Gram-Charlier级数稍好，但区别不大，当风电机组装机容量增大时，区别逐渐增大。这是由于本文采用多重线性化方法，将系统总的有功功率等间距地划分为若干个区域，在各区域选取基准运行点将潮流方程线性化，可减少采用单点线性化模型使得基准点和实际运行点之间偏差导致的截断误差。
+
+![](images/5a31cbd2f320213eb74d2664f02ea6d0eaeaed058b6dff8d310454c78c954d2e.jpg)  
+图3场景2节点电压幅值的ARMS值和最大值 Fig.3Average and maximal ARMS of bus voltage amplitude in case 2
+
+为比较本文方法、Gram-Charlier展开法与MCS方法的求解耗时，在场景2的风机接入容量为25MW时，计算线路13-14上的有功潮流概率分布，结果见下表，MCS法不作自我比较。可见，本文方法的逼近精度稍低于Gram-Charlier展开法，这是由于本文的Edgeworth展开法仅通过Hermite矩阵信息近似拟合高阶项，存在拟合误差。当采样次数为1000时，本方法计算速度比MCS法快约 $22 \%$ ，这是由于MCS法要生成相应分布类型的随机样本反复进行模拟场景的确定性潮流计算，故计算量较大；本方法计算速度比Gram-Charlier展开法稍快，这是由于Gram-Charlier展开法每阶展开式均要重新计算各阶距，而Edgeworth多项式在Hilber空间上具有正交性，它的高阶Hermite矩阵可由低阶项的递推关系确定，求出低阶距后，高阶距可根据低阶距信息快速递归获得，故计算速度较快。
+
+表不同方法的求解耗时对比  
+Tab.Comparison of calculation time of different methods   
+
+<html><body><table><tr><td></td><td>本文方法</td><td>Gram-Charlier 级数</td><td>MCS</td></tr><tr><td>ARMS(%)</td><td>1.34</td><td>1.3</td><td>/</td></tr><tr><td>计算耗时/s</td><td>14.04</td><td>17.87</td><td>64.54</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提出一种基于Edgeworth级数展开的概率潮流算法，利用Edgeworth多项式各阶Hermite矩阵的递推性降低高阶展开的计算复杂度。此外，引入一种多重线性化的方法将潮流方程线性化，有利于减少级数展开法求解概率潮流模型时舍去高阶项造成的舍入误差。IEEE39节点的数值仿真中以MCS法计算结果为参考，以ARMS为评价指标，对比分析了负荷波动和风机输出这两种输入随机变量对Edgeworth以及Gram-Charlier级数展开下半不变量法概率潮流计算结果的准确性的影响。结果表明，风电接入量增加后半不变量法的拟合准确度均减少，但本文方法的精度受非正态分布随机变量规模的影响相比Gram-Charlier级数展开法较小。比较了本文方法与Cornish-Fisher展开和MCS法计算速度上的差别，结果表明在ARMS指标相差不大时，本文方法比Gram-Charlier展开法稍快，比MCS 法快约 $22 \%$ ，体现了本文方法在计算速度上的优势。如何在保证概率潮流分布的逼近精度的同时提高计算速度仍值得进一步研究。
+
+#
+
+参考文献   
+[1]文旭，颜伟，郭琳，等．计及风电和负荷不确定 性的日调度计划节能效益概率评估方法[J]．电网 技术，2014，38(4)：959-966. Wen Xu,Yan Wei, Guo Lin,et al.A probabilistic assessment method for energy saving benefit of daily scheduling plan considering wind power and load uncertainty[J]. Power Grid Technology,2014,38(4): 959-966.   
+[2] 刘建坤，周前，等．基于半不变量和GramCharlier 级数展开法的随机潮流算法[J]．电力工程 技术，2017，36(1)：34-38. Liu Jiankun, Zhou Qian,et al. Random flow algorithm based on semi invariants and GramCharlier series expansion method[J]. Power Engineering Technology, 2017,36(1): 34-38.   
+[3] 杨欢，邹斌．含相关性随机变量的概率最优潮流 问题的蒙特卡罗模拟方法[J]．电力系统保护与控 制，2012(19)：110-115. Yang Huan,Zou Bin.Monte Carlo simulation method for probabilistic optimal power flow problem with correlation random variables[J].Power System Protection and Control,2012(19): 110-115.   
+[4] 刘怡芳，张步涵，李俊芳，等．考虑电网静态安 全风险的随机潮流计算[J]．中国电机工程学报, 2011，31(1): 59-64. Liu Yifang,Zhang Buhan,Li Junfang,et al. Random flow calculation considering static security risk of power grid[J]. Journal of China Electrical Engineering,2011,31(1): 59-64.   
+[5] 靳冰洁．基于信息熵的电力系统潮流均衡度分析 及应用[D]．武汉：华中科技大学，2015.   
+[6] 姚玉平．概率潮流在地区电网中的应用[D]．吉林： 东北电力大学，2007.   
+[7] 张文婷，范立新．基于直流概率潮流的风电穿透 功率极限计算[J]．电力工程技术，2014，33(4)：1-4. Zhang Wenting,Fan Lixin. Calculation of wind power penetration limit based on direct current probability flow[J]. Power Engineering Technology,2014,33 (4): 1-4.   
+[8] 杜春燕，周溪召．基于Edgeworth 级数的行程时 间可靠性的计算与实证[J]．公路交通科技，2015, 32(7): 127-133. Du Chunyan,Ma Hongwei, Zhou Xizhao. Calculation and empirical analysis of travel time reliability based on Edgeworth series[J]. Journal of Highway and Transportation Research and Development,2015, 31(7): 127-133.   
+[9] Magnus Perninge. Stochastic optimal power flow by multi-variate Edgeworth expansions[J]. Electric Power Systems Research,2014,109(2): 90-100.   
+[10] 大规模风力发电机组间歇性动态随机过程研究[D]. 北京：华北电力大学，2016.   
+[11] 隋冰彦，侯恺，贾宏杰，等．基于最大熵原理的 含风电和电动汽车电力系统概率潮流[J]．电网技 术，2016，40(12):3696-3705. Sui Yanyan,Hou Kai, Jia Hongjie,et al. The probabilistic power flow of wind power and electric vehicle power system based on the maximum entropy principle[J].Power Grid Technology, 2016,40(12): 3696-3705.   
+[12]郭效军，蔡德福．不同级数展开的半不变量法概 率潮流计算比较分析[J]．电力自动化设备，2013, 33(12): 85-90. Guo Xiaojun, Cai Defu. Comparison and analysis of the probabilistic power flow calculation of the semi invariants method of different series expansion[J]. Power Automation Equipment, 2013,33(12): 85-90.

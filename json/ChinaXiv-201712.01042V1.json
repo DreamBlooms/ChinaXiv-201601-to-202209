@@ -1,0 +1,289 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谷胱甘肽过氧化物酶2干涉慢病毒系统构建及对人肝癌细胞凋亡的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹江平'，唐刘君²,张建宏²，詹轶群²，杨晓明²，葛常辉²  \n1天津大学制药工程系,天津300072；军事医学科学院放射与辐射医学研究所,北京100850",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 构建人谷胱甘肽过氧化物酶2(Glutathione peroxidase 2,GPX2)慢病毒干涉载体,获得稳定下调GPX2的高滴度慢病毒,检测敲低GPX2对细胞凋亡的影响。方法 通过筛选具有显著干涉效果的siRNA序列,构建pSicoR-GPX2慢病毒干涉载体,包装病毒并感染人肝癌HepG2细胞，分别用Westem-blot和RT-PCR方法检测GPX2表达情况，应用流式细胞术分析敲低GPX2对人肝癌细胞凋亡的影响。结果成功构建pSicoR-GPX2干涉慢病毒载体并获得高滴度慢病毒颗粒，GPX2蛋白表达水平和RNA表达水平均有显著下调，且人肝癌细胞感染GPX2干涉慢病毒后对凋亡更加敏感，其原因可能是促凋亡蛋白Bax的活化和抗凋亡蛋白Bcl-2活性的抑制。结论成功构建人GPX2基因干涉慢病毒，为肝癌靶标治疗提供新的线索，为后续GPX2功能研究奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：谷胱甘肽过氧化物酶2;慢病毒;RNA干涉；凋亡",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Construction a lentiviral vector for RNA interference of glutathione peroxidase 2 gene and its effect on HepG2 cell apoptosis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAO Jiangping',TANG Liujun,ZHANG Jianhong²,ZHAN Yiqun²,YANG Xiaoming², GE Changhui²   \nDepartmentofceticalijinsityiateofationicie   \nMilitaryMedical Sciences,Beijing1oo850,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To construct a RNA interference lentiviral vector for human glutathione peroxidase 2 (GPX2) gene and observethe efect of GPX2 knockdown oncellapoptosis.Methods The sequence of the smallinterfering RNA (siRNA)for GPX2 interference was inserted into the pSicoR vector.HepG2cels were infected by the packaged si-GPX2 lentivirus and the expresion of GPX2 in the infectedcels was detected by both RT-PCRand Western bloting.Changes of cellapoptosis following the infection were analyzed by flow cytometry. Results The lentiviral particles pSicoR-GPX2 were sucessfully packaged.The expressionof GPX2 in the infected cells wasobviouslydown-regulated atbothRNAand protein levels. GPX2 knockdown caused increasedapoptosisrate，increased Bax expressionand lowered Bcl-2 expresion in HepG2clls. Conclusion We have sucessfully constructed the lentiviral vector for RNA interference of human GPX2 gene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: glutathione peroxidase 2; lentivirus; RNA interference; apoptosis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "活性氧(ROS)是生命体中氧化还原反应的产物或者副产物，是细胞中不可或缺的信号分子，参与信号转导、基因表达、细胞增殖、分化和凋亡等多种生物学过程[-3];但是过多的ROS会导致机体氧化应激反应，进而引发机体衰老、神经性病变、动脉粥样硬化、糖尿病甚至癌症等[47]。因此,正常的机体必须保持ROS的代谢平衡。研究表明，抗氧化分子是维持ROS代谢平衡的关键分子。抗氧化分子通过催化还原反应或者自身被氧化使过氧化物被还原，ROS被清除减少从而清除过多的",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ROS。谷胱甘肽过氧化物酶(Glutathione peroxidase,GPX)就是人体中主要的酶类抗氧化分子[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GPX2属于谷胱甘肽过氧化物酶(GPX)的一种，选择性地高表达于胃肠道、肝脏及乳房组织，是对消化系统摄入的脂氢过氧化物进行催化还原和消除ROS的主要酶[8。有关报道表明GPX2敲低后对 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 引起的凋亡更加敏感,能够抑制肿瘤细胞增殖增长[9-]。在大鼠肝癌和人类肝脏肿瘤以及表皮鳞状细胞癌、肺腺癌、结直肠癌、乳腺癌等细胞中GPX2的表达上调[12-16]。最新研究表明GPX2在大鼠肝癌细胞中的表达不仅与细胞增殖有关，而且与其侵袭、转移能力有关[12]。近年来关于GPX2分子机制和功能的报道为研究人类相关疾病机制及治疗提供了广阔的思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究通过筛选具有显著干涉效果的siRNA序列,构建pSicoR-GPX2慢病毒干涉载体。经293T细胞包装得到高感染效率的病毒颗粒，将该病毒感染HepG2细胞后可使其内源GPX2表达水平明显降低。GPX2干涉慢病毒相较实验室原有的GPX2siRNA片段具有感染效率高，干涉效果稳定的优势，该慢病毒干涉系统的成功构建为深人研究GPX2的作用机制奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1细胞与菌株人胚肾细胞(HEK293T)人肝癌细胞(HepG2)为本实验室保存;慢病毒系统(慢病毒干涉质粒pSicoR和病毒包装质粒pMD2G、psPAX2)为本实验室保存;大肠杆菌DH5a感受态细胞购自上海天根公司。1.1.2试剂DNA回收纯化试剂盒、质粒提取试剂盒均购自威格拉斯生物技术有限公司； $\\mathrm { T } _ { 4 }$ PNK酶, $\\mathrm { T } _ { 4 }$ DNA连接酶，限制性内切酶HpaI，XhoI和XbaI购自NEB;GPX2抗体购于Abcam;Bax抗体购于Epitomics;Bcl-2抗体购于Abcam;羊抗鼠和羊抗兔二抗均购于SantaCruz;Opti-MEM培养基购自Gibco;转染试剂Lipofectamine 2OoO购自Invitrogen;反转录试剂盒购自Promega;凋亡试剂盒购自凯基生物公司；TRIZOL、RNaseA均购自Sigma;其余试剂均为国产分析纯。1.1.3特异性干涉序列和PCR引物序列通过筛选具有显著干涉效果的siRNA序列，GPX2干涉序列如下：正义：5'-TGCCTCCTTAAAGTTGCCATTTCAAGAGAATGGCAACTTTAAGGAGGCTTTTTTC-3'；反 义：5'-TCGAGAAAAAAGCCTCCTTAAAGTTGCCATTCTCTTGAAATGGCAACTTTAAGGAGGCA-3'实时定量PCRGPX2引物序列如下：  \nsense:5'-GGTAGATTTCAATACGTTCGGG-3',anti-sense:5'-TGACAGTTCTCCTGATGTCCAAA-3'以上序列均由上海生工生物工程公司合成。  \n1.2 方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1干涉载体构建与鉴定利用限制性内切酶HpaI和XhoI对慢病毒干涉载体pSicoR进行双酶切，经DNA电泳纯化回收。将合成的序列经退火、磷酸化后与回收的目的条带用 $\\mathrm { T } _ { 4 }$ DNA连接酶进行连接。过夜连接后，转入大肠杆菌DH5a感受态细胞，挑取单克隆菌落进行菌落PCR鉴定，挑选阳性克隆提取质粒，用Xho1和Xba1进行双酶切鉴定，双酶切鉴定正确的克隆送华大基因测序分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2慢病毒包装及滴度测定转染 $2 4 \\mathrm { h }$ 前选取状态好的293T细胞接种到直径 $1 0 \\ \\mathrm { c m }$ 的培养皿中，用含 $10 \\%$ FBS的DMEM培养基培养。当细胞融合度达 $6 0 \\% \\sim$ $70 \\%$ 时，将培养基换为无血清的Opti-MEM,1h后进行转染。转染时，将 $5 0 0 ~ \\mu \\mathrm { L }$ 无血清Opti-MEM培养基和$6 0 ~ \\mu \\mathrm { L }$ Lipofectamine2000转染试剂轻轻混匀，室温下温育 $5 \\mathrm { m i n }$ 。同时将等体积的Opti-MEM和慢病毒质粒（ $1 5 ~ { \\mu \\mathrm { g } }$ pSicoR质粒， ${ , 5 } \\mu \\mathrm { g } \\ p \\mathrm { M D 2 G } , 1 0 \\mu \\mathrm { g }$ psPAX2)轻轻混匀。 $5 \\mathrm { m i n }$ 后将两管液体混匀，室温下温育 $2 0 \\mathrm { m i n }$ 以形成DNA-Lipofectamine2000转染复合物。然后将复合物加入293T细胞中并混匀，于 $3 7 \\ : \\%$ （204号 $\\mathrm { C O } _ { 2 }$ 细胞孵箱培养。转染后6h更换含 $10 \\%$ FBS的培养基 $2 0 { \\sim } 2 5 ~ \\mathrm { m L }$ O转染后 $2 4 \\mathrm { h }$ 补充 $2 { \\sim } 3 ~ \\mathrm { m L }$ 新鲜培养基。转染后 $4 8 \\mathrm { ~ h ~ }$ ，用$5 0 ~ \\mathrm { m L }$ 离心管收集细胞上清液，经高速离心除去细胞碎片；用 $0 . 4 5 ~ { \\mu \\mathrm { m } }$ 滤器过滤病毒到 $5 0 ~ \\mathrm { m L }$ 超滤管中，$4 5 0 0 \\mathrm { r / m i n } , 4 \\mathrm { ~ \\% }$ 离心 $4 0 { \\sim } 6 0 \\mathrm { m i n }$ ,最后得到浓缩病毒，冻存于 $- 8 0 \\ \\mathrm { { ^ circ C } }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "感染前 $2 4 \\mathrm { h }$ 选取对数生长期的293T细胞，以每孔$2 . 0 { \\times } 1 0 ^ { 5 }$ 个细胞的密度接种于24孔板。接种24h后将培养基换为终浓度为 $8 ~ \\mathrm { { m g / L } }$ Polybrene 的新鲜培养基,并加入 $2 ~ \\mu \\mathrm { L }$ 的病毒浓缩液感染细胞，pSicoR病毒作为对照。感染3d后收集细胞，流式细胞仪检测阳性细胞百分率。病毒滴度计算方法：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "病毒滴度(pfu/mL)=GFP阳性细胞率×接种细胞数病毒体积",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3Westernblot检测将GPX2干涉慢病毒浓缩液按$2 . 4 . 8 ~ \\mu \\mathrm { L }$ 感染接种于24孔板的HepG2细胞,感染3d后收集细胞，RIPA冰上反应 $3 0 \\mathrm { \\ m i n } , 1 2 \\mathrm { \\ 0 0 0 \\ r / m i n } , 4 \\mathrm { \\ } \\mathrm { ^ { \\circ } C }$ 离心 $1 5 \\ \\mathrm { m i n }$ ，收集总蛋白。对提取的总蛋白进行SDS-PAGE电泳，转移至PVDF膜上，TBST配制的 $5 \\%$ 脱脂奶粉室温封闭 $1 \\ \\mathrm { h } , \\mathrm { G P } X 2$ 抗体 $( 1 : 1 0 0 0$ 稀释)和GAPDH抗体 $( 1 : 5 0 0 0$ 稀释） $4 \\mathrm { { ^ circ C } }$ 孵育过夜，次日用TBST洗3次，8min/次，二抗(1:5000稀释)室温孵育 $6 0 \\mathrm { m i n }$ ,TBST洗3次， $1 0 \\mathrm { m i n }$ 次。ECL显色系统显影检测目的蛋白。1.2.4RT-PCR检测 将GPX2干涉慢病毒浓缩液 $3 0 ~ \\mu \\mathrm { L }$ 感染接种于6孔板的HepG2细胞,感染3d后收集细胞，根据Sigma公司说明书提取RNA，实时定量PCR检测mRNA水平表达，其反应条件： $9 4 \\mathrm { ~ \\textdegree C ~ } 3 \\mathrm { ~ m i n } , 1$ 循环;$9 4 ^ { \\circ } \\mathrm { ~ C ~ } 1 0 \\mathrm { ~ s , } 6 5 ^ { \\circ } \\mathrm { ~ C ~ } 4 0 \\mathrm { ~ s , } 4 0$ 循环； $9 5 \\mathrm { ~ \\textcircled { C } ~ 1 ~ \\operatorname* { m i n } , 1 }$ 循环;$5 5 \\mathrm { ~ \\textdegree C ~ } 1 \\mathrm { ~ m i n } , 1$ 循环； $5 5 \\mathrm { ~ ‰ ~ }$ 循环。所得结果采用$2 ^ { - \\triangle \\triangle \\mathbf { C } \\mathfrak { r } }$ 计算其相对定量值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.5流式细胞术和Westernblot检测将处于对数生长期的HepG2细胞接种于12孔板，密度为每孔 $5 . 0 { \\times } 1 0 ^ { 5 }$ 细胞。次日将空载体病毒和GPX2干涉病毒浓缩液添加到终浓度为 $8 ~ \\mathrm { { m g / L } }$ 的Polybrene新鲜培养基中感染细胞，每组设置一个复孔。感染2d后收集细胞，一组用PBS洗涤细胞2次， ${ 5 0 0 \\mu \\mathrm { L } }$ 的Binding Buffer悬浮细胞,加入 ${ 5 \\mu \\mathrm { L } }$ AnnexinV-APC混匀,再加入 ${ 5 \\mu \\mathrm { L } }$ PropidiumIodide混匀，室温避光反应 $1 5 ~ \\mathrm { m i n }$ ，流式细胞仪检测细胞凋亡，CoulterElite流式分析软件计算并分析细胞调亡率。另一组复孔细胞直接提取总蛋白，检测凋亡相关基因Bax和Bcl-2的蛋白表达情况，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6统计学分析实验所得数据均采用均数 $\\stackrel { \\cdot } { \\pm }$ 标准差表示，采用完全随机设计的单向方差分析，用Student's$t$ -检验分析多个样本均数间的两两比较，当 $P { < } 0 . 0 5$ 时为显著性差异，具有统计学意义，所有计量数据均用SPSS16.0统计软件完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1GPX2干涉载体的构建和鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "插入GPX2干涉序列的pSicoR载体经HpaI和Xh1双酶切鉴定，结果见图1A，琼脂糖凝胶电泳显示酶切后的阳性质粒比空质粒片段长约 $6 0 ~ \\mathrm { b p }$ 。提取阳性克隆的质粒，经测序分析GPX2干涉序列插入成功，如图1B。将构建成功的干涉载体命名为pSicoR-GPX2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b6e6389b6c0542321fc49bf38f8f028ce41f0b3bb97c7501cab29bb1210410f.jpg",
+        "img_caption": [
+            "图1慢病毒干涉载体鉴定",
+            "Fig.1 Identification of recombinant lentivirus vectors.A: Restriction enzymeanalysis of the plasmid pSicoR-GPX2 by agarose gel electrophoresis; B: Sepquencing result of the interference vectors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2慢病毒包装、纯化、浓缩及滴度测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将构建成功的pSicoR-GPX2干涉质粒与包装质粒按以上所述共转染293T细胞，以pSicoR空载体为对照， $2 4 \\mathrm { h }$ 后观察荧光发现 $90 \\%$ 以上细胞显示绿色荧光，表明共转染成功。 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后收集病毒浓缩液，并对293T细胞进行感染，感染 $4 8 \\mathrm { ~ h ~ }$ 后荧光显微镜观察，发现几乎所有细胞都表达绿色荧光(图2A、B)。流式细胞术测定病毒滴度结果见图2C，pSicoR空载体病毒的GFP+比例为 $6 7 . 1 3 \\%$ ,经计算滴度为 $6 . 7 \\times 1 0 ^ { 7 }$ pfu/mL,pSicoR-GPX2慢病毒的 ${ \\mathrm { G F P ^ { + } } }$ 比例达 $8 0 . 5 6 \\%$ ，滴度为 $8 . 1 \\times 1 0 ^ { 7 }$ pfu/mLo",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3干涉慢病毒pSicoR-GPX2的表达鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将高滴度pSicoR-GPX2慢病毒感染HepG2细胞,$7 2 \\mathrm { ~ h ~ }$ 后收集细胞，提取总蛋白进行Westernblotting检测，提取总RNA进行实时定量PCR检测。慢病毒感染后细胞GFP阳性率结果见图3，对照病毒的GFP阳性细胞率为 $6 8 . 3 8 \\%$ ,pSicoR-GPX2的GFP 阳性细胞率达$7 5 . 6 9 \\%$ 。Westernblotting检测结果(图4A)可见感染后内源GPX2的蛋白表达水平有显著下降，且随病毒加入量的增加依次降低。RT-PCR检测结果(图4B),以空白对照的HepG2细胞为参照，GPX2在感染pSicoR和pSicoR-GPX2慢病毒的HepG2细胞中的表达量分别为$( 9 6 . 5 { \\pm } 2 . 1 ) \\%$ 和 $( 1 8 . 2 { \\pm } 0 . 9 ) \\%$ ,3组细胞之间GPX2的表达水平有统计学差异 $( P { < } 0 . 0 1 )$ ，可见感染后内源GPX2的mRNA水平表达显著下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4敲低GPX2的表达对HepG2细胞凋亡的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ { 4 8 \\mathrm { ~ h ~ } }$ 后，收集感染pSicoR空载体病毒和pSicoR-GPX2慢病毒的HepG2细胞，按照凯基凋亡试剂盒说明书处理细胞，利用流式细胞术检测细胞凋亡，发现敲低GPX2后细胞对凋亡更加敏感(图5)，尤其在早调，空白对照组、感染pSicoR病毒组与感染pSicoR-GPX2慢病毒组的细胞凋亡率分别为 $( 6 . 4 3 \\pm$ $0 . 5 ) \\%$ 、 $( 7 . 3 1 { \\pm } 0 . 4 ) \\%$ 和 $( 1 9 . 5 { \\pm } 0 . 8 ) \\%$ ，差异具有统计学意义 $( P { < } 0 . 0 5 )$ 。利用WesternBlot检测细胞感染慢病毒pSicoR-GPX2后，与凋亡相关的基因如Bax、Bcl-2蛋白活化水平，发现Bax蛋白表达水平上调，而Bcl-2蛋白表达水平下调，结果如图5C。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GPX1和GPX2双敲除小鼠表现出对于细菌相关的炎症和肿瘤的易感性，显示GPX在回结肠的病理和炎症中发挥重要作用。在该基因敲除的小鼠中发现，回结肠隐窝基质细胞中的GPX2表达缺失后，GPX1表达明显增强,但基质细胞的凋亡还是明显增多[17-18]。与此一致的是，GPX2被发现高表达于乳腺癌、结肠癌等多种肿瘤组织[15-16],然而,GPX2在这些肿瘤细胞中高表达的机制还不清楚。有研究发现，过表达GPX2能够减少氧化应激引起的MCF7细胞的凋亡，而GPX2经过小RNA干涉处理后，MCF7细胞显著提高了对氧化应激诱导的凋亡的敏感性，而GPX2的这种保护作用是具有p53 依赖性的[]。Suzuki等2]发现大鼠肝癌细胞敲低GPX2后表现出对于凋亡的易感性。本研究发现GPX2高表达于HepG2细胞，敲低GPX2后细胞表现对凋亡更加敏感，同时发现促凋亡蛋白Bax表达增加，抗凋亡蛋白Bcl-2表达减少，因此推测GPX2可能是通过调控Bcl-2蛋白家族的活化，综合影响细胞的凋亡情况。当细胞中GPX2敲低后，引起促凋亡蛋白Bax的活化和抗调亡蛋白Bc1-2活性的抑制，最终促进细胞调亡。本文发现GPX2敲低后促进人肝癌细胞的凋亡，提示GPX2的表达水平可以作为肝癌治疗效果和预后的标志物。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/48a0de121ecef5ba742390793a3c73c2eabb0f9e17a61a7c36b534da0d07925b.jpg",
+        "img_caption": [
+            "图2慢病毒感染293T细胞荧光显微镜的照片及滴度测定 Fig.2 Fluorescent microscopy of 293T cells after infection with lentivirus and the detection of lentivirus.A: Optical microscopy (Original magnification: $\\times 1 0 ^ { \\cdot }$ ;B:GFP expression (Original magnification: $\\times 1 0 ^ { \\cdot }$ ); C:FACS for detecting the virus titer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7128c00e31e5c5471dcc8e40a997d689b3cfcbc4b88c8908008ae6855b663eea.jpg",
+        "img_caption": [
+            "图3慢病毒感染HepG2细胞荧光显微镜的照片及滴度测定 Fig.3Fluorescent microscopy of HepG2 cells after infection with lentivirus and the detection of lentivirus.A: Optical microscopy (Original magnification: $\\times 4 0 \\dot s$ ;B:GFP expression (Original magnification: $\\times 4 0 \\dot { }$ ） $c$ FACS for detecting the virus titer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4e74931dd8de7e769f7ebc8cc3559e7db381549ccb9145da9870b47b2616317.jpg",
+        "img_caption": [
+            "图4Western blot和Real-time PCR检测HepG2细胞GPX2的干涉效果 Fig.4 Effect of GPX2 interference on GPX2 expression in HepG2 cells.A: Western blot analysis of GPX2 and GAPDH protein expression; B:Real-time PCR for GPX2 mRNA expression. $^ { * } P { < } 0 . 0 5$ us ontrol and pSicoR. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a36b55a974fabfb994684c485a305acc7e28e8eb04d30604033f4752d6464c04.jpg",
+        "img_caption": [
+            "Fig.5Effect of GPX2 interference lentivirus on HepG2 cell apoptosis.A:Apoptosis shown by AnnexinV-APC and PI staining;B:Apoptosis rate in different stages;C:Western blot analysis of Bax and Bcl-2 protein expression. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RNA干涉(RNAinterference,RNAi)是指在进化过程中高度保守的、由双链RNA诱发的、同源mRNA高效特异性降解的现象，可以特异性剔除或关闭特定基因的表达。目前RNAi手段主要有直接转染siRNA片段、质粒介导的RNAi以及慢病毒体系介导的RNAi等。而慢病毒体系具有感染分裂和非分裂细胞，有效整合到宿主基因组持久表达目的序列，对宿主细胞伤害小等优势[19]。近年来该技术已被广泛用于探索基因功能及恶性肿瘤的基因治疗领域。本实验室建立的第三代慢病毒系统相对于前两代更加稳定和安全，且具有显著的干涉效果，因此由第三代慢病毒系统pSicoR介导的GPX2RNAi载体是一些癌症方面研究的理想实验工具。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究成功构建了GPX2慢病毒干涉载体,包装出的慢病毒颗粒滴度达 $8 . 1 { \\times } 1 0 ^ { 7 } \\mathrm { p f u / m L }$ 。病毒感染人肝癌细胞系HepG2细胞后,Western blotting 和RT-PCR检测显示GPX2蛋白水平和mRNA水平都有显著下降，并且敲低GPX2后能显著促进肝癌细胞的凋亡，引起这种凋亡的原因可能是促凋亡蛋白Bax的活化和抗凋亡蛋白Bcl-2活性的抑制。本实验为肝癌靶标治疗提供了新的线索，为进一步研究GPX2功能和作用机制奠定了基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Finkel T.Oxygen radicals and signaling[J].Curr Opin Cell Biol, 1998,10(2):248-53.   \n[2] Castro L,Freeman BA.Reactive Oxygen species in human health and disease[J].Nutrition,2001,17(2): 161-5.   \n[3]Seifried HE,Anderson DE,Fisher EI,et al.A review of the interaction among dietary antioxidants and reactive Oxygen species [J].JNutr Biochem,2007,18(9): 567-79.   \n[4]Haigis MC,Yankner BA.The aging stress response[J].Mol Cell, 2010,40(2):333-44.   \n[5]Andrsen JK. Oxidative stess in neurodegeneration cause or consequence[J].Nat Med,2004,10(7): S18-25.   \n[6]Paravicini,Tamara M,Touyz,et al.Redox signaling in hypertension [J].Cardiovasc Res,2006,71(2): 247-58.   \n[7]Trachootham D,Alexandre J,Huang P. Targeting Cancer cels by ROS-mediated mechanisms:a radical therapeutic approach[J].Nat Rev Drug Discov,2009,8(7): 579-91.   \n[8]Brigelius-Flohé R,Maiorino M. Glutathione peroxidases[J]. Biochim Biophys Acta,2013,1830(5): 3289-303.   \n[9]Yan WS,Chen XB.GPX2,a direct target of p63,inhibits oxidative stress-induced apoptosis in a p53-dependent manner[J].J Biol Chem,2006,281(12): 7856-62.   \n[10] Brigelius-Flohe R,Kipp A.Glutathione peroxidases in different stages of carcinogenesis[J].Biochim Biophys Acta,2Oo9,1790 (11): 1555-68.   \n[11]Banning A,Kipp A, Schmitmeier S,et al. Glutathione peroxidase 2 inhibits cyclooxygenase-2-Mediated migration and invasion of HT-29 adenocarcinoma cells but supports their growth as tumors in nude mice[J].Cancer Res,2008,68(23): 9746-53.   \n[12] Suzuki S, Pitchakarn P, Ogawa K,et al. Expression of glutathione peroxidase 2 is associated with not only early hepatocarcinogenesis but also late stage metastasis[J]. Toxicology,2013,311(3):115-23.   \n[13]Serewko MM,Popa C,Dahler AL，et al.Alterations in gene expressionandactivityduringsquamouscell carcinoma development[J].CancerRes,2002,62(13): 3759-65.   \n[14] Woenckhaus M, Klein-Hitpass L,Grepmeier U,et al. Smoking and cancer-related gene expression in bronchial epithelium and non-small-cell lung cancers[J]. JPathol, 2006,210(2): 192-204.   \n[15] Murawaki Y, Tsuchiya H, Kanbe TA,et al. Aberrant expression of selenoproteins in the progression of colorectal cancer[J].Cancer Lett,2008,259(2):218-30.   \n[16]Naiki-Ito A,Asamoto M,Hokaiwado N,et al.Gpx2 is an overexpressed gene in rat breast cancers induced by three different chemical carcinogens[J].Cancer Res,2007,67(23): 11353-8.   \n[17] Chu FF,Esworthy S,Chu PG,et al. Bacteria-induced intestinal cancer in mice with disrupted GPX1 and GPX2 genes[J].Cancer Res,2003,35(1): S165-6.   \n[18] Lee DH, Esworthy RS,Chu C,et al.Mutation accumulation in the intestine and colon of mice deficient in two intracellular glutathione peroxidases[J]. Cancer Res,2006,66(20): 9845-51.   \n[19]Dreyer JL.Lentiviral vector-mediated gene transfer and RNA silencing technology in neuronal dysfunctions[J].Mol Biotechnol, 2010,614(2): 3-35. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 5
+    }
+]

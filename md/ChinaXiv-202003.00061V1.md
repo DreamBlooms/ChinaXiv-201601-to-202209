@@ -1,0 +1,190 @@
+# 大花铁线莲开花物候与传粉昆虫的研究
+
+温馨」，张永胜²，尚禹含³，李海微'，冀李琼¹，韩金秀¹，王非1\*（1．东北林业大学园林学院，哈尔滨150000；2．日照市园林绿化集团，山东 日照276826；3．中国京冶工程技术有限公司，北京100088）
+
+摘要：大花铁线莲是我国东北地区兼具优良观赏性状及药用价值的野生植物资源。为了研究野生大花铁线莲在引种地的开花进程和传粉规律，探讨引种环境对其开花特性的影响，于2017年和2018年间对大花铁线莲在个体、群体水平的开花物候和传粉特性进行了连续两年的观测和统计。结果表明：（1）大花铁线莲的群体花期在5月中旬至6月中下旬，两年个体开花进程基本相似，均呈单峰曲线；群体始花期和末花期时间较短，而盛花期时间较长，约为20d左右，单株花期为5\~7d，种群花期长达 $3 0 \mathrm { d }$ 以上。群体开花比例呈现先升后降的变化趋势，累计开花比例在开花后一周左右达到 $100 \%$ 。两年的开花同步指数（Si）分别为0.76 和0.74，说明大花铁线莲两年间的开花特性差异较小。（2）大花铁线莲访花昆虫主要有6目13科18种，它们在访花频率、访花行为以及在单花停留时间上都有一定的差异。传粉昆虫主要是8种，分属于3目4科。中华蜜蜂、食蚜蝇和短尾管食蚜蝇访花频率高，在单花上停留时间较长，可以初步认定它们在对大花铁线莲的花粉传播中有重要作用。通过对大花铁线莲开花特性和访花昆虫的观查以及盗蜜昆虫行为的研究，为大花铁线莲的迁地保护和引种栽培提供科学依据。
+
+关键词：大花铁线莲，开花物候，传粉昆虫中图分类号： $S 6 8 2 . 1 + 9$ 文献标识码：A开放科学（资源服务）标识码（OSID）：
+
+DOI:10.11931/guihaia.gxzw201910042
+
+# Flowering phenology and pollinators of Clematis patens
+
+WEN Xin1 , ZHANG Yongsheng²,SHANG Yuhan³,LI Haiwei', JI Liqiong1,HAN Jinxiu',WANG Fei1\* (1. College of Landscape Architecture,Northeast Forestry University,Harbin150040,China；2.Rizhao landscaping group,Rizhao 276826,Shandong, China; 3.China Jingye Engineering Corporation,Beijing 100088,
+
+China)
+
+Abstract: Clematis patens is a wild plant resource with excellent ornamental and medicinal value. In order to understand the flowering process and pollination rules of Clematis patens,and explore effect of introduction environment on flowering process of Clematis patens,the flowering phenology and pollination characteristics of Clematis patens were observed and studied for two consecutive years by the method of location observation. The results were as follows: (1） The flowering period of the population of Clematis patens was from mid - May to mid - June. The initial flowering period and the final flowering period were shorter,while the flowering period was longer, about 2O days, the flowering period of a single plant was 5-7 days,and the flowering period of the population was more than 3O days. The flowering proportion showed a trend of increasing first and then decreasing. The cumulative flowering ratio reached $100 \%$ one week after flowering. The two-year flowering synchronization index (Si) was O.76 and O.74,respectively, indicating that the difference in flowering characteristics of Clematis patens in two years was small. (2) There were 6 species,13 families and 18 species of flower-visual insects for Clematis patens.They have certain differences in the frequency of visits,the behavior of visiting flowers, and the retention time on a single flower. There were mainly 8 kinds of pollinating insects, which belong to 3 orders and 4 families. Apis cerana, Volucella nigricans and Episyrphus had high frequency of visits and long stays on single flowers. It could be preliminarily determined that they played an important role in the pollen transmission of Clematis patens. Through the observation of the flowering characteristics of Clematis patens and the visiting insects as wellas the study of the behaviors of the stealing insects,it provides the reference for the introduction,cultivation and off-the-spot conservation of Clematis patens.
+
+Key words: Clematis patens,flowering phenology, pollination insect
+
+植物的开花物候是植物生长过程中一个重要的特征，开花物候主要研究植物开花的内部遗传因素以及外界因素对植物开花过程的影响。传粉生物学是与植物传粉规律以及相应生物学特征等相关的一门学科。通常植物可以通过风传粉、自花传粉、雨水传粉、虫媒传粉等，其中虫媒传粉占 $80 \%$ 左右（杨大荣，2018）。植物的传粉机制与开花物候等是共同影响植物遗传后代多样性的生物学因素（刘巧等，2017；孙颖等，2018）。我国铁线莲属植物的种质资源丰富，但很多野生资源未能在园艺中得到充分利用，以铁线莲属植物为研究对象，研究开花过程中的相关参数，可以挖掘野生植物资源的利用价值，同时为铁线莲属植物的培育提供理论依据。
+
+大花铁线莲(Clematis patens）学名又称转子莲，在世界各地广泛分布。（张鸽香和武珊珊，2010）。大花铁线莲是铁线莲属优异的垂直绿化材料，观赏性极强，其花色丰富、有紫色、黄色、白色等。花型奇特，花萼呈花瓣状，单生枝顶；果为瘦果，宿存花柱（张永胜，2019）；其耐寒、耐旱，喜半荫环境，适应性极强，多用于栅栏、廊架以及亭子等绿化点缀，是观赏价值和绿化效果见优的园林植物（申娟，2013）。目前，有关大花铁线莲开花生物学和传粉生态学方面的研究未见报道，而铁线莲属其他植物的研究也主要在种质资源调查及其系统分类、细胞及分子生物学、抗寒抗旱及耐盐碱等生理学、引种及繁殖等育种学以及繁育系统等方面（张鸽香和武珊珊，2010；王凯，2017）。课题组在哈尔滨地区引种了大花铁线莲，为了进一步揭示大花铁线莲在引种地的开花特征，探讨其开花过程对引种环境的响应，本研究以大花铁线莲为材料，掌握其开花物候、传粉机制及二者之间的联系，为其栽培育种、迁地保护提供理论指导，有利于铁线莲属植物在园林景观中得到充分利用。
+
+# 1材料与方法
+
+# 1.1试验材料及试验地概况
+
+试验材料是从吉林省烟筒山（ $1 2 6 ^ { \circ } 0 1 ^ { \prime }$ E， $4 3 ^ { \circ } 1 8 ^ { \prime } \mathrm { ~ N ~ }$ ）引进的野生大花铁线莲，目前在东北林业大学苗圃基地培育三年之久。苗圃地（ $1 2 6 ^ { \circ } 6 3 ^ { \prime } \mathrm { E }$ ， $4 5 ^ { \circ } 7 2 ^ { \prime } \mathrm { N }$ ）属于中温带大陆性季
+
+风气候。四季分明，冬季长夏季短，冬季1月平均气温约- $1 9 ^ { \circ } \mathrm { C }$ ；夏季7月的平均气温约 $2 3 ^ { \circ } \mathrm { C }$ 全年平均降水量达 $5 6 9 . 1 \mathrm { m m }$ （陈静茹，2016）。
+
+# 1.2试验方法
+
+# 1.2.1开花物候观测
+
+2017-2018年上半年的大花铁线莲开花期间（5月一6月），从样地400 株大花铁线莲中随机选取100株长势良好地植株进行标记，每天上午10:00进行观测，对其开花过程进行观察记录。记录项目如下：（1）花朵开始和最后的开放时间；（2）当日开花植株数以及每个植株开花数量；（3）以唇瓣萎缩变色为花朵凋谢标准，记录当日花朵凋谢数量。以通用的统计方法进行花期记测（Dafnia，1992），区分出大花铁线莲的始花期（ $5 \%$ 以下植株开花）、盛花初期（ $2 5 \%$ 以上植株开花）、盛花期（ $5 0 \%$ 以上植株开花）和末花期（ $10 \%$ 以下植株开花），最后计算其种群花期并比较大花铁线莲在两个年份的开花物候差异。
+
+个体的开花同步指数（Si）的计算公式（McIntosh，2002）如下：
+
+$$
+\mathrm { { s i } } = { \frac { 1 } { n - 1 } } { \left| { \frac { 1 } { f _ { \imath } } } { \left| { \sum _ { j = i } ^ { n } e _ { i \mathrm { ~ \neq ~ } j } } \right. } \right. }
+$$
+
+式中： $n$ 为标记的个体总数。 $f i$ 为个体 $i$ 的开花总时长（d）。 $e i$ 为个体j和个体 $i$ 的开花重叠总时长（d）。Si的变异范围为 $0 { \sim } 1$ ，Si的范围为 $0 { \sim } 1$ ，若Si为 $\cdot _ { 0 } , \cdot ,$ ，则群体内个体开花持续时间无重叠，若Si为"1"，则表示完全重叠。
+
+# 1.2.2访花昆虫及传粉行为
+
+在大花铁线莲盛花期期间，观察并记录大花铁线莲所有访花昆虫的种类、频率及其访花行为。随机选30株大花铁线莲新开的花进行挂牌观察，观测时间从7:00到17:00，每个小时以 $2 0 \mathrm { m i n }$ 为一个时间段进行观测，连续观测7d。在此期间，记录访花昆虫的种类、数量、停留时间及访问频率（次·h"·花"，即昆虫访花次数/单位时间），对访花行为进行拍摄和描述，并捕捉带回实验室进行种类鉴定。
+
+# 1.3数据处理
+
+将数据处理部分修改为“用单因素方差分析方法（One-wayANOVA）比较开花物候特征以及传粉昆虫特征参数差异性比较，所有数据均采用 SPSS22.0 和 Excel2007进行数据统计并绘制图表。
+
+# 2结果与分析
+
+# 2.1开花物候
+
+通过对大花铁线莲连续两年开花物候观测数据可以得知，大花铁线莲的花期从5月中旬到6月中下旬。2017年5月16日，第一朵花开，标志了始花期的开始。3d后进入盛花期，大花铁线莲持续开花21d。6月上旬才进入末花期，大花铁线莲的群体花期持续了30天左右。2017年开始开花时间比2018年晚了3d，盛花期持续时间长1d，群体花期持续时间比2018年仅少3d。由此可见两年的开花物候期相差不大。
+
+由图1所示，两年间，大花铁线莲在整个花期时间内，开花进程基本相似，开花比例均呈现在过了始花期后2-3日内达到盛花期，然后分别持续20、21d后降低的趋势，具体表现为群体花期开花的第1周，植株便以较快且稳定的速度依次开花，1周后迅速达到开花高峰。两年的开花高峰几乎都分布在5月下旬,最高比例日期是2017年5月28日，达到 $9 5 \%$ 。在 2018年，大花铁线莲开花开花比例最高为 $94 \%$ 。两年的群体开花峰值持续12\~13d，且均在6月初到中旬，比例下降并逐渐趋近于 $0 \%$ 。大花铁线莲的开花同步性指数较高，两年分别为0.76和0.74，种群内个体开花时间重叠程度较高。
+
+表1大花铁线莲种群的开花物候指标  
+Table 1 Flowering phonological at individual levels and population level of Clematis patens   
+
+<html><body><table><tr><td>观测项目Observation Items</td><td></td><td>2017</td><td>2018</td></tr><tr><td>群体数（株）</td><td></td><td>n=100</td><td>n=100</td></tr><tr><td>开始开花日期</td><td></td><td>16/5</td><td>13/5</td></tr><tr><td>The first flowers date</td><td></td><td></td><td></td></tr><tr><td></td><td>日期 （日/月） Date(date/month)</td><td>17/5</td><td>14/5</td></tr><tr><td>始花期</td><td>当日开放株数（株)</td><td>6</td><td>6</td></tr><tr><td>Early flowering period</td><td>Open number 当日花数 (朵)</td><td></td><td></td></tr><tr><td></td><td>Flower number</td><td>10</td><td>10</td></tr><tr><td></td><td>日期 （日/月）</td><td></td><td></td></tr><tr><td></td><td>Date(date/month)</td><td>18/5</td><td>16/5</td></tr><tr><td>盛花初期</td><td>当日开放株数（株）</td><td></td><td></td></tr><tr><td>Beginning of full bloom period</td><td>Open number</td><td>25</td><td>27</td></tr><tr><td></td><td>当日花数 (朵)</td><td></td><td></td></tr><tr><td></td><td>Flower number</td><td>75</td><td>48</td></tr><tr><td></td><td>日期（日/月）</td><td></td><td></td></tr><tr><td></td><td>Date(date/month)</td><td>20/5</td><td>18/5</td></tr><tr><td>盛花期</td><td></td><td></td><td></td></tr><tr><td>Full bloom period</td><td>当日开放株数（株）</td><td>59</td><td>60</td></tr><tr><td></td><td>Open number</td><td></td><td></td></tr><tr><td></td><td>当日花数 (朵)</td><td>143</td><td></td></tr><tr><td></td><td>Flower number</td><td></td><td>152</td></tr><tr><td></td><td>日期（日/月）</td><td></td><td></td></tr><tr><td></td><td>Date(date/month)</td><td>8/6</td><td>6/6</td></tr><tr><td>末花期</td><td>当日开放株数（株)</td><td></td><td></td></tr><tr><td>The end of bloom period</td><td>Open number</td><td>19</td><td>21</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>当日花数 (朵) Flower number</td><td>50</td><td>52</td></tr><tr><td>群体花期持续时间（天)</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>28</td><td>31</td></tr><tr><td colspan="2">Flowering days /d</td><td></td><td></td></tr></table></body></html>
+
+![](images/30b71dfb1e86098d37e7723f2b0ad129d3ec064f31b32b5139d68ee4d462b900.jpg)
+
+观察大花铁线莲的累计开花动态分析可知（如图2所示），在大花铁线莲始花期开始后1周左右，累计开花比例达到了 $100 \%$ ，2a内的观测结果近乎一致。
+
+![](images/ca5727c8f4986d3db4fef019d46c529834058a89e3c82ffb73a3896934f2c235.jpg)  
+图1大花铁线莲种群开花物候动态特征  
+Fig.1 Flowering phenology curves of Clematis patens   
+图2大花铁线莲种群累计开花比例动态特征Fig.2FloweringprocessofClematispatens
+
+# 2.2访花昆虫及频率
+
+两年访花昆虫的观测结果显示（表2，图3），大花铁线莲的访花昆虫共有6目13 科18 种，其中双翅目的昆虫种类最多，分属于3科7种，鞘翅目和膜翅目次之，分别有2科3种和3科3种；访花昆虫中有8种传粉昆虫，分属于3目4科，其中双翅目食蚜蝇科昆虫有5种，占传粉昆虫的 $6 2 . 5 \%$ ；主要传粉昆虫有6种，分别为双翅目食蚜蝇科的凹带食蚜蝇（Syrphus nitens）、短尾管食蚜蝇（Episyrphus balteatus）、细扁食蚜蝇（Episyrphus balteatus）和食蚜蝇（Volucella nigricans）、鳞翅目粉蝶科的菜粉蝶（Pieris rapae）、膜翅目蜜蜂科的中华蜜蜂（Apis cerana）、其他访花者少见或偶见。
+
+表2大花铁线莲访花者名录  
+Table 2 Visiting insects of Clematis patens   
+
+<html><body><table><tr><td colspan="2">所属目Order</td><td colspan="2">所属科 Family</td><td colspan="2">访花昆虫种类 Species of flower-visiting insect</td></tr><tr><td>蜘蛛目</td><td>Araneae</td><td>蟹蛛科</td><td>Thomisidae</td><td>三突花蛛</td><td>Misumenopos tricuspidata</td></tr><tr><td>半翅目</td><td>Hemiptera</td><td>蝽科</td><td>Pentatomidea</td><td>斑须蝽</td><td>Dolycoris baccarum</td></tr><tr><td rowspan="2"></td><td></td><td>盲蝽科</td><td>Miridae</td><td>盲蝽</td><td>Apolygus lucorum</td></tr><tr><td>Lepidoptera</td><td>尺蛾科</td><td>Geometridae</td><td>尺蛾</td><td>Geometridae moth</td></tr><tr><td rowspan="2">鳞翅目 鞘翅目</td><td></td><td>粉蝶科</td><td>Pieridae</td><td>菜粉蝶*</td><td>Pieris rapae</td></tr><tr><td>Coleoptera</td><td>呷甲科</td><td>Elateroidea</td><td>沟金针虫</td><td>Pleonomus canaliculatus</td></tr><tr><td rowspan="3"></td><td></td><td>瓢虫科</td><td>Coccinellidae</td><td>龟纹瓢虫</td><td>Propylaea japonica</td></tr><tr><td></td><td></td><td></td><td>十星瓢虫</td><td>Gonioctena</td></tr><tr><td></td><td></td><td></td><td></td><td>tredecimmaculatus</td></tr><tr><td rowspan="3">膜翅目</td><td>Hymenoptera</td><td>胡蜂科</td><td>Vespidae</td><td>胡蜂*</td><td>Paper wasp</td></tr><tr><td></td><td>蜜蜂科</td><td>Apidae</td><td>中华蜜蜂*</td><td>Apiscerana</td></tr><tr><td></td><td>蚁科</td><td>Formicidae</td><td>拟黑多刺蚁</td><td>Apis cerana</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7">双翅目</td><td rowspan="7">Diptera</td><td>丽蝇科</td><td>Calliphoridae</td><td>中华绿蝇</td><td>Luciliasinensisaubertin</td></tr><tr><td>麻蝇科</td><td>Sarcophagidae</td><td>麻蝇</td><td>Sarcophaga kelly</td></tr><tr><td>食蚜蝇科</td><td>Syrphidae</td><td>凹带食蚜蝇*</td><td>Syrphus nitens</td></tr><tr><td></td><td></td><td>短尾管食蚜</td><td>Episyrphus balteatus</td></tr><tr><td></td><td></td><td>蝇*</td><td></td></tr><tr><td></td><td></td><td>黑带食蚜蝇*</td><td>Episyrphusbalteatus</td></tr><tr><td></td><td></td><td>细扁食蚜蝇*</td><td>Episyrphusbalteatus</td></tr><tr><td></td><td></td><td></td><td>食蚜蝇*</td><td>Volucella nigricans</td></tr></table></body></html>
+
+注：\*表示传粉昆虫。 Note: \*means pollinating insects.
+
+![](images/e200db0be97afbd4ea5b19b58e6bd89bed410a292cc5f4580e0aa0c4d347d382.jpg)
+
+A.三突花蛛；B.斑须蝽；C.盲蝽；D.尺蛾；E.菜粉蝶；F.沟金针虫；G．龟纹瓢虫；H.十星瓢虫； I.胡蜂；J.中华蜜蜂；K.拟黑多刺蚁；L.中华绿蝇；M.麻蝇；N.凹带食蚜蝇；O.短尾管食蚜蝇；P．黑
+
+带食蚜蝇；Q.食蚜蝇；R.细扁食蚜蝇。
+
+A.Misumenopos tricuspidata; B.Dolycoris baccarum; C.Apolygus lucorum; D.Geometridae; E. Pieris rapae;F.Pleonomus canaliculatus；G.Propylaea japonica； H. Gonioctena tredecimmaculatus； I.Paper wasp；J.Apiscerana；K.Apis cerana; L.Luciliasinensis Aubertin； M.Sarcophaga kelly； N. Syrphus nitens； O. Episyrphusbalteatus；P.Episyrphus balteatus；Q.Volucella nigricans；R. Episyrphus balteatus.
+
+Fig.3 Main visiting insects of Clematis patens
+
+在访花的过程中，大花铁线莲的不同访花昆虫在单朵花上的停留时间差异显著（图4)。短尾管食蚜蝇和食蚜蝇的单花停留时间均超过了 $8 0 \mathrm { ~ s ~ }$ ，菜粉蝶单花停留时间最短，还不足10 s。主要访花昆虫在访花频率上的表现也有差异（图5），频率最高的是中华蜜蜂，平均达到了6.5 次·h·花，其次是菜粉蝶，访花频率约为5.2 次 $\bullet \mathrm { h } ^ { - 1 }$ ·花，有时同一朵花上可见多只相同或不同的访花昆虫进行访花活动。而凹带食蚜蝇的访花频率最低，约为 $\mathsf { 1 . 4 h } ^ { - 1 }$ ·花。从访花频率上来看，食蚜蝇科、粉蝶科和蜜蜂科三个科的昆虫是大花铁线莲的主要传粉者。
+
+![](images/5a1770b0c895b85346fd5586b45297c2d76f101365e9d5f5a5fd3980088c3bb0.jpg)  
+图3大花铁线莲的访花者
+
+I.菜粉蝶；II.中华蜜蜂；I.凹带食蚜蝇；IV．短尾管食蚜蝇；V.细扁食蚜蝇；VI．食蚜蝇。下同。   
+I. Pieris rapae；II.Apis cerana； II. Syrphus nitens；IV.Episyrphus balteatus；V.Episyrphus balteatus；VI.   
+Volucella nigricans.The same below.
+
+Fig.4 Retention time of main visitors to a single flower in Clematis patens
+
+![](images/b45b84e8940107a5f1d57f9ecc3678c40ad0ab384f279d093f5a0c0a6ec23e56.jpg)  
+图4大花铁线莲主要的访花昆虫单花停留时间
+
+Fig.5 The visiting frequency of main visitors to Clematis patens
+
+由图6\~图8结果可见，不同花期访花昆虫的访花频率有所差异，其中盛花期的访花频率最高，末花期次之，初花期的访花频率最低。在同一时期不同传粉昆虫日访花频率表现也不同。以中华蜜蜂、短尾管食蚜蝇和食蚜蝇为代表的大花铁线莲访花昆虫主要在白天进行访花活动，9:00-15:00 期间访花频率高，早晚访花频率较低。以盛花期为例，中华蜜蜂在一天内均有两次以上的访花高峰，上午和下午的访花高峰分别为10:00-11:00 和13:00-14:00，且上午的访花频率明显高于下午；而短尾管食蚜蝇上午访花高峰时间段为11:00-12:00，下午在12:00-13:00访花频率最高；食蚜蝇在7:00-8:00就有访花迹象，10:00-11:00和12:00-13:00为两个高峰。初花期和末花期的访花规律与盛花期相近，下午的访花时间较上午长。
+
+![](images/c8f1d279a7d22d209e19c68d5fc5903ebcde86bad19564aa51bc36ff2f7ad4d8.jpg)  
+图5大花铁线莲主要访花昆虫的访花频率  
+图6初花期大花铁线莲主要访花昆虫日访花变化规律
+
+1.7:00-8:00；2.8:00-9:00；3.9:00-10:00；4.10:00-11:00；5.11:00-12:00;6.12:00-13:00；7.13:00-14:00;   
+8.14:00-15:00；9.15:00-16:00；10.16:00-17:00；II.中华蜜蜂；IV.短尾管食蚜蝇；VI.食蚜蝇。下同。   
+1.7:00-8:00；2.8:00-9:00；3.9:00-10:00；4.10:00-11:00；5.11:00-12:00；6.12:00-13:00；7.13:00-14:00;   
+8.14:00-15:00;9.15:00-16:00;10.16:00-17:00;II Apis cerana;IV. Episyrphus balteatus;VI. Volucela nigricans.   
+The same below.
+
+Fig.6 Visiting frequency of main visitors to Clematis patens in one day during the initial flowering period
+
+![](images/9bc057c09b67860b2df2d51ba4a140b2945b6cb0f9aa6ada3182d0bc2d3900ee.jpg)  
+图7盛花期大花铁线莲主要访花昆虫日访花变化规律
+
+Fig.7 Visiting frequency of main visitors to Clematis patens in one day during the flowering period
+
+![](images/d380770ece9effe48000f0214bfd2104f7e729850736ca3b342ee69be8f5ee7b.jpg)  
+图8末花期大花铁线莲主要访花昆虫日访花变化规律  
+Fig.8 Visiting frequency of main visitors to Clematis patens in one day during the final flowering period
+
+# 2.3访花行为
+
+通过连续两年对大花铁线莲主要访花昆虫的访花活动观察可知：中华蜜蜂体积较小，其腹部及以上的绒毛可以有效地促进花粉的采集，在采集花蜜时，头部和胸部会沾上花粉。中华蜜蜂在单朵花上平均停留5.7 s，平均访花频率6.5次·h·花"，是所有访花昆虫里拜访频率最高的，为大花铁线莲的主要传粉昆虫之一。
+
+短尾管食蚜蝇常常与中华蜜蜂拜访时间重叠，有时甚至可能同访一朵花。其体积类似中华蜜蜂般大小，体被短毛。短尾管食蚜蝇喜欢采集大花铁线莲的花粉和柱头上的分泌物，总在阳光下进行觅食，10:00-13:00 点的访花活动最为频繁，在单朵花的停留时间为4.4 s,访花频率约为1.2次 $\bullet \mathrm { h } ^ { - 1 }$ ·花，其较高的访花频率有效地传播了花粉。
+
+食蚜蝇和短尾管食蚜蝇为同科植物，形似蜂，体积较小，后足纤细，常常停留在大花铁线莲的雄蕊处，在单花上的停留时间长于其他传粉昆虫，约为 $7 . 8 \mathrm { ~ s ~ }$ 。食蚜蝇喜欢在阳光强烈时进行访花活动，这与短尾管食蚜蝇的特征相似，其访花频率较高，为1.5次·h·花，因其访花频率高、单花停留时间长同时具备传播花粉的身体构造，所以认定食蚜蝇为主要的访花昆虫之一。
+
+半翅目和鞘翅目的昆虫访花时，有些进行短暂的休憩，有些停留在花荫下或驻足于叶片花瓣上。而蜘蛛目的昆虫在大花铁线莲植株中结网进行捕食活动，偶尔在植株中进行休憩。这些昆虫并不触碰大花铁线莲的花药、柱头等繁殖器官，并非其有效传粉昆虫。
+
+# 3结论与讨论
+
+# 3.1大花铁线莲开花物候特点及影响因素
+
+开花物候是植物生活史特征之一，也是生态学研究的一个重要方向（Willson，1983;马文宝等，2008）。植物的开花物候可以用开花时间和单朵开花数量等一系列参数来反映，这些特点能显著影响植物的生殖成功（Mclntosh，2002）。对大花铁线莲的开花物候连续 2年的观察表明，大花铁线莲的花期集中在5月至6月，花期持续时间为30d左右，较长的花期使植物在该时间段进行传粉受精，同时保证植株在面对环境变化时有充足的时间进行缓冲和适应，降低恶劣环境对植物授粉的影响，以保证生殖成功，焦培培和李志军（2007）、别鹏飞等（2018）、周正立等（2005）的类似研究也支持了这一观点。植物的开花同步性被看作是控制果实形成和调节异交水平的一个辅助因子，运用开花同步指数反映植物个体持续时间重叠的程度。大花铁线莲两年内的开花同步指数较高，个体开花持续时间重叠的越多，相对吸引的传粉昆虫越多，可推测其传粉者的访花及传粉指标均有可能得到相应的增加和提高，从而保证最终的传粉几率和生殖成功几率加大（Herrerias-Diego et al.,2006；孙颖等，2018）。
+
+影响植物开花物候的因素有许多，除植物本身的遗传特性外，植物的生活环境也是重要影响因素之一，植物在不同的生境条件下会产生相应适应机制，以确保植株的正常生长和发育，维持种群的稳定性（Barren&Harder，1996；孙颖等，2019）。大花铁线莲在2017年的总群体花期持续时间比2018年仅少3天，差异较小。这可能是因为两年间的环境条件差异造成的，通过分析哈尔滨 2017-2018年的历史天气可得知，2017年5月中旬的温度低于2018年，所以始花期可能较晚。此外，在大花铁线莲开花期间，2018年比2017年的晴朗天气较多，多云和降雨天气较少，所以花期持续时间较长，同时这也说明环境对大花铁线莲的花朵开放确实有一定的影响，具体温度和光照如何影响开花进程还有待进一步探索。虽然2年间的种群开花进程有差异，但差异较小，这可能是大花铁线莲在进化过程中为适应引种环境而在基因调控上对自身的一种保护机制，以保证种群在引种或迁地保护后的在繁殖策略上仍能保持相对稳定。
+
+# 3.2大花铁线莲访花昆虫
+
+大花铁线莲的花量大，始花期后的1周内便达到盛花期，在群体水平开花同步性强，属于“大量集中式开放"模式，这种模式能吸引更多的昆虫，提高了昆虫对花的传粉频率，从而保证了生殖的成功。此外，花期持续的时间长有利于提高传粉昆虫的传粉效率，从而提高坐果数，这在肖宜安等（2004）和郭春燕（2009）等学者的相关研究中也得以证实。
+
+大花铁线莲的主要传粉昆虫日访花规律呈现的趋势为中午访花频率高，早晚访花频率低，早上一般是9点之前访花昆虫少，访花频率低，这可能是早上有露珠的缘故，昆虫一般会等花上的水珠干了以后才飞到花朵上。而下午的访花频率明显低于上午，这和大花铁线莲花朵开展时间相关，10:00-12:00期间花朵开展旺盛，因此更容易吸引昆虫。
+
+访花昆虫在9:00-14:00间活动频繁，这可能与温度升高、光照增强都有直接的关系。光线太弱或阴雨天气使得昆虫的访花活动受限。由此可见，天气及环境条件的确影响昆虫的访花行为。此外，在人工选择传粉昆虫对大花铁线莲进行辅助授粉时也应该考虑其主要传粉昆虫在自然界中的访花规律。
+
+对于开花超过 $1 2 \mathrm { ~ h ~ }$ 的植物有可能白天和夜间都受着传粉者的访问。由于只对大花铁线莲白天的访问者进行调查跟踪，夜间的传粉情况并不知情，因此夜间蛾类对其访问情况以及对其传粉繁殖的贡献值都有待后期的追踪和探究。
+
+对大花铁线莲有传粉行为的昆虫主要为食蚜蝇科和蜂蝶类昆虫，短尾管食蚜蝇、中华蜜蜂和食蚜蝇在采集花粉或进行觅食行为的过程中，因为被有体毛或者其他易着花粉的身体构造，访花活动范围较大，对大花铁线莲的异花授粉起着散播作用。有些昆虫不携带花粉且活动范围较小，可能对大花铁线莲的自花授粉也有一定的意义，具体如何帮助自花授粉以及贡献值的大小还有待后期试验研究。帮助自花授粉和异花传粉的昆虫的共同作用使得大花铁线莲的自然结实得到较大保障，对其物种繁衍和种群更新都发挥着举足轻重的作用。
+
+# 参考文献：
+
+BARREN SCH, HARDER LD,1996.Ecology and evolution of plant mating[J]. Trend Ecol Evol,11(2): 73-79.  
+BIE PF，TANG T，HU JY，et al.，2018.Flowering phenology and breeding system of anendangered and rare species Urophysa rockii (Ran unculaceae)[J]. Acta Ecol Sin, 38(11):3899-3908.[别鹏飞，唐婷，胡进耀，等,2018.珍稀濒危植物距瓣尾囊草（Urophysa rochki)的开花物候和繁育系统特性[J]．生态学报，38（11）：3899-3908．]  
+CHEN JR,2O16. The response of 50 plants in northeast China to climate change[D]. Harbin:Northeast Forestry University:8-15.[陈静茹，2016．东北 50 种植物开花期对气候变化的响应[D]．哈尔滨：东北林业大学：8-15．]  
+DAFNIA,1992. Pollination ecology[M]. New York: Oxford University Press: 59-89.  
+GUO CY, 2009. Research on reproductive biology in Caryoteris mongholica[D]. Inner Mongolia:Inner Mongolia Agricultural University:62-73.[郭春燕，2009．蒙古获生殖生物学研究[D]．内蒙古：内蒙古农业大学：62-73．]  
+JIAO PP,LI ZJ, 2OO7. Flowering phenology of an endangered plant Ammopiptanthus nanus[J].Acta Bot Boreal-Occident Sin,27(08):1683-1689.[焦培培，李志军，2007．濒危植物矮沙冬青开花物候研究[J]．西北植物学报，27（08）：1683-1689．]  
+HERRERIAS-DIEGO Y，QUESADA M，STONER KE，et al.，2006.Effectsof forestfragmentation on phenological patterns and reproductive success of the tropical dry foresttree Ceiba aesculifolia[J]. Conservation Biology,20(4):1111-1120.  
+LIU Q, YI CR, ZHENG SL, et al.,2017. Pollination biology of vulnerable Rhododendron viali inYunnan province[J].JWest China For Sci,46(03):96-102.[刘巧，易陈燃，郑硕理，等,2017．云南易危植物红马银花的传粉生物学研究[J]．西部林业科学，46（03）：96-102.]  
+MA WB, SHI X, ZHANG DY, et al., 2O08. Flowering phenology and reproductive characteristicsof Eremosparton songoricum [J].Acta Phytoecol Sin,32 (04): 760-767.[马文宝，施翔，张道远，等，2008．准噶尔无叶豆的开花物候与生殖特征[J]．植物生态学报，32（04）：760-767.1  
+MCLNTOSH ME, 2002. Flowering phonology and reproductive output in two sister species ofFerocactus (Cataceae)[J].Plant Ecol, 159(1): 1-13.  
+SHEN J, 2O13. Study on lianas diversity and landscape application in Qinling region[D]. Xian:Northwest A&FUniversity:19-22.[申娟，2013．秦岭地区藤本植物多样性及园林应用研究[D]．西安：西北农林科技大学：19-22．]  
+SUN Y,CUI LM, LIMY, et al.， 2O18. Flowering phenology and pollination charateristics ofBarnardia japonica[J].Guihaia，38(5): 608-616.[孙颖，崔兰明，李梦雨，等，2018．绵枣儿的开花物候与传粉特性[J]．广西植物，38（5）608-616．]  
+SUN Y,LIU S,LI MY,et al.，2O19. Flowering phenology and pollination characteristics ofHemerocallis lilioasphodelus[J].Guihaia.[孙颖，刘松，李梦雨，等，2019．北黄花菜的开花物候及传粉特性研究[J]．广西植物．]  
+WANG K, 2O17. Effects of low light and salt stress on physiological characteristics of twoclematis species[D].Harbin:Northeast Forestry University: 1-7.[王凯，2O17．弱光和盐碱逆境对两种铁线莲生理特性的影响[D]．哈尔滨：东北林业大学：1-7．]  
+WILLSON MF,1983.Plant reproductive ecology[M]. New York: John Wliey&Sons:80-85.  
+XIAO YA，HE P,LI XH，2O04. Comprehensive characteristics and breeding system ofendangered Disanthus cercidifolius var. longipes H. T. Chang (Hamamelidaceae)[J]. ActaBot Sin，28(3):333-340.[肖宜安，何平，李晓红，2004．濒危植物长柄双花木的花部综合特征与繁育系统[J]．植物生态学报28（3）：333-340．]  
+YANG DR,2018. Research progress of pollinating insects [J]. Yunnan Agric Sci Technol,(S1):3-7.[杨大荣，2018．传粉昆虫的研究进展[J]．云南农业科技，（S1）：3-7．]  
+ZHANG GX, WU SS,2O10. Research status of clematis in China and its landscape application[J].Anhui Agric Sci,38(22):12076-12078.[张鸽香，武珊珊，2010．我国铁线莲属植物的研究现状及其园林应用方式[J]．安徽农业科学，38（22）：12076-12078．]  
+ZHANG YS,2O19. Study on flowering biology of clematis macrophylla[D]. Harbin:NortheastForestry University:3-9.[张永胜，2019．大花铁线莲开花生物学研究[D]．哈尔滨：东北林业大学：3-9．]  
+ZHOU ZL，LI ZJ,GONG WJ，et al.， 2005. Study on flowering biological characteristicsof Populus euphraticaand Populus euphratica [J]. JWuhan Bot Res, 23 (2):163-168.[周正立，李志军，龚卫江，等，2005．胡杨、灰叶胡杨开花生物学特性研究[J]．武汉植物学研究，23（2）：163-168．]

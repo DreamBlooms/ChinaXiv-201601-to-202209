@@ -1,0 +1,140 @@
+# 甘蔗叶乙酸乙酯部位化学成分研究
+
+谢安然1,2.3，韦玮1,2，郝二伟1,2，谢金玲1,2，邓家刚1,2，侯小涛1,2,3\*（1.广西中医药大学广西中药药效研究重点实验室，南宁530200；2.广西农作物废弃物功能成分研究协同创新中心，南宁530200；3.广西中医药大学药学院，南宁530200）
+
+摘要：甘蔗是糖类加工产业主要的经济作物，甘蔗叶作为广西特色瑶药，在广西民间及瑶族地区具有悠久的药用历史。本课题组前期发现甘蔗叶乙酸乙酯部位具有抗肿瘤活性，为了进一步明确其乙酸乙酯部位的化学成分，为日后甘蔗叶乙酸乙酯部分的进一步开发提供依据，该文采用硅胶柱色谱 SephadexLH-20 柱色谱、制备型高效液相色谱等多种分离纯化方法对甘蔗叶乙酸乙酯部位进行研究。结果表明：从甘蔗叶乙酸乙酯萃取部位分离并鉴定了20个化合物，分别为原儿茶醛（1）、3,4-二羟基-苯甲酸甲酯（2）、3,4-二羟基苯甲酸（3）、3-羟基-4-甲氧基苯甲酸（4）、对羟基苯甲酸（5）、对羟基苯甲醛（6）、对羟基肉桂酸（7）、丁香酸（8）3,5-二甲氧基对苯二酚（9）、1-hydroxybenzoyl-4-O-a-L-rhamnopyranoside（10）、对羟基苯甲酸 $- \beta - D .$ 吡喃葡萄糖酯苷（11）、槲皮素（12）、小麦黄素（13）、异柽柳素（14）、异鼠李素（15）、5,3',4'-三羟基-7-甲氧基二氢黄酮（16）、7-O-甲基圣草酚（17）、((E)4-(1S,3R,4R)-1-hydroxy-4,5,5-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)but-1-en-3-o-ne（18）、blumenolA（19）和胸腺嘧啶脱氧核苷（20）。其中化合物1-4、6、9-11、13-16、18和20为首次从甘蔗叶中分离得到。
+
+关键词：甘蔗叶，乙酸乙酯部位，化学成分，结构鉴定
+
+# Chemical Constituents from the Ethyl Acetate Extract in
+
+# Leaves of the Saccharum officinarum
+
+XIE Anran1,2.3,WEI Wei1.2,HAO Erwei1.2, XIE Jinjing1,2,DENG Jiagang1,2,HOU Xiaotao1.2.3\*   
+(1. Guangxi Key Laboratory of Efficacy Study on Chinese Materia Medica, Nanning 530200, China; 2. Guangxi Collaborative Innovation Center of Study on Functional Ingredients of Agricultural Residues, Nanning 530200, China; 3. Faculty of Pharmacy, Guangxi University of Chinese Medicine,Nanning 530200, China)
+
+收稿日期：2021-07-07
+
+基金项目：国家自然科学基金（82060762）；2020年农作物废弃物功能成分研究协同创新中心项目（CICAR 2020）；中国科学院科技服务网络计划（STS计划）（项目编号：KFJ-STS-QYZD-200）；“广西中医药大学2019年自治区级硕士研究生科研”创新项目（YCSW2019170）；广西中医药大学教育发展基金（DXS19042）[Supported by the National Natural Science Foundation of China（82060762）；Colborative Innovation Center for Research on Functional Ingredients of Agricultural Residues（CICAR 2020）;Science and Technology Service Network Initiative（KFJ-STS-QYZD-200）； Inovation Project of GuangxiGraduate Education(YCSW 2019170)；Education Development Fund of Guangxi University of Chinese Medicine(DXS 19042)]。
+
+作者简介：谢安然（1994-），硕士研究生，研究方向为中药活性成分及质量控制研究，（E-mail）594879739@qq.com。\*通信作者：侯小涛，博士，教授，研究方向为中药活性成分与质量控制研究，（E-mail）xthou@126.com。
+
+Abstract: Saccharum offcinarum is the main cash crops in sugar processing industry, and its leaves are characteristic Yao medicine in Guangxi Zhuang Autonomous Region with a long history. Our recent study showed that its EtOAc extract was the active part responsible for its in vitro antitumor activity.In order to clarify the chemical compositions of this part and provides some basis for it's further development ,the modern separation and purification techniques, such as silica gel column chromatography, Sephadex LH-20 column chromatography, and semi-preparative highperformance liquid chromatography were used to identify the structures of the isolates by their physical-chemical properties and modern spectral analysis. As a result, twenty compounds were isolated and identified as 3,4-dihydroxybenzaldehyde (1),methyl 3, 4-dihydroxybenzoate(2),3, 4-dihydroxy-benzoic acid (3), 3-hydroxy-4-methoxybenzoic acid $( 4 ) , p$ -hydroxybenzoic acid (5), 4-hydroxybenzylaldehyde(6)， $p$ -hydroxy-cinnamicacid(7)， syringicacid (8)，3, 5dihydroxyhydroquinone (9),1-hydroxybenzoyl-4-O $\mathbf { \nabla } \cdot a$ -L-rhamnopyranoside(10), （204号 $p$ ， hydroxybenzoyl- $\cdot \beta$ -D-glucopyranoside(11)，quercetin(12)，tricin(13)，tamarixetin (14),isorhamnetin (15)，5，3'， $4 ^ { \prime }$ -trihydroxy-7-methoxyflavanone (16)， sternbin (17)， $( ( E ) 4 -$ （2 (1S,3R,4R)-1-hydroxy-4,5,5-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)but-1-en-3-o-ne(18), blumenol A (19) and thymidine (20), respectively. Compounds 1-4,6,9-11,13-16,18 and 20 were isolated and identified from this plant for the first time.
+
+Key words: leaves of Saccharum offcinarum， ethyl acetate extract, chemical investigation, structure elucidation
+
+甘蔗（Saccharumofficinarum）为禾本科黍亚科草本植物，主产于热带、亚热带地区，全世界有一百多个国家出产甘蔗，其中产量最高的是巴西、印度和中国。在我国，甘蔗主要分布于江西、湖南、福建、广东、广西、四川、云南等地区，是糖类加工产业的主要经济作物。同时，甘蔗产业是广西主要农业支柱产业，甘蔗种植面积连续多年稳居全国第一，蔗糖总产量占全国总产量的 $60 \%$ 以上。甘蔗叶为甘蔗的叶，是甘蔗收获和加工过程中的主要废弃物和副产物，一般的处理方法为就地焚烧或直接丢弃在田埂、河道中，造成了严重的资源浪费和环境污染。随着甘蔗种植规模的不断扩大，如何对甘蔗叶进行有效的资源回收再利用是近年来亟需解决的问题。
+
+甘蔗叶在广西民间及瑶族地区具有悠久的药用历史。在瑶医药记载中，甘蔗叶主要用于治疗盗汗、消渴症以及汗证。但甘蔗叶现多用于饲料加工或粉碎还田，药用价值有待进一步开发。近年来研究发现甘蔗叶中主要含有有糖、多糖、苷类、黄酮类和酚类等成分（Jian et al.,2014；何耀涛等，2016；潘王芸等，2019；张金玲等，2019）。药理活性研究表明甘蔗叶具有抑菌、降血糖、抗炎等作用（侯小涛等，2011；Borsen，etal.，2011；江恒，2012；侯小涛等，2013；韦玮等，2018）。
+
+为了深入研究甘蔗叶的化学成分，本研究运用传统分离技术对甘蔗叶化学成分进行分离，采用现代谱学方法及比对文献数据进行结构鉴定，从甘蔗叶 $70 \%$ 乙醇提取物的乙酸乙酯萃取部位分离得到20个化合物（图1），包括酚酸、黄酮、倍半萜、生物碱类化合物。其中化合物1-4、6、9-11、13-16、18 和20为首次从甘蔗叶分离鉴定。
+
+# 1仪器与材料
+
+# 1.1药材
+
+甘蔗叶于2019年12月采自广西南宁市武鸣甘蔗种植区。经广西中医药大学韦松基教授鉴定为禾本科植物甘蔗的叶。标本（20191225-1）存放于广西中医药大学广西中药药效重点实验室。
+
+# 1.2仪器与试剂
+
+1252型半制备高效液相色谱仪（美国Waters公司）；Q-TofMicroTM型质谱仪（美国Waters 公司）；Inova-600 型超导核磁共振波谱仪（美国Varian 公司）；2695型高效液相色谱仪（美国Waters公司）；SB25-12D超声波清洗机（宁波新芝生物科技股份有限公司）；UPK-I-1OT优普系列超纯水器（四川优普超纯科技有限公司）；SHZ-II型循环水真空泵（上海亚荣生化仪器厂）；柱层析硅胶（ $1 0 0 { \sim } 2 0 0$ 目、 $2 0 0 { \sim } 3 0 0$ 目，青岛海洋化工厂）；柱色谱用硅胶（ $2 0 0 \sim 3 0 0$ 目）及薄层色谱用GF254硅胶预制板（青岛海洋化工厂）；SephadexLH-20葡聚糖凝胶（瑞典 Amer-sham Pharmacia公司）；00G-4252-P0-AX制备色谱柱（ $2 5 0 \mathrm { m m } { \times } 2 1 . 2 \mathrm { m m }$ ， ${ 5 \mu \mathrm { m } }$ ，美国Phenomenex公司）；XseiectHSST3分析型色谱柱（4.6$\mathrm { m m } { \times } 2 5 0 \mathrm { m m }$ ， $5 \mu \mathrm { m }$ ，沃特世科技（上海）有限公司）；分析纯溶剂（成都市科龙化工试剂厂）；色谱级溶剂（德国Merck公司）；质谱级溶剂（美国Thermo公司）。
+
+# 1.3提取与分离
+
+干燥甘蔗叶药材（ $1 0 ~ \mathrm { k g }$ ）粗粉，用10倍量的 $70 \%$ 乙醇回流提取3次，合并提取液，减压浓缩得浸膏（ $\mathrm { ~ \ i ~ } 1 3 5 \mathrm { ~ g ~ }$ ），蒸馏水充分分散，再依次用3倍体积的石油醚、乙酸乙酯、正丁醇进行萃取。减压回收溶剂，分别得到石油醚部位浸膏，乙酸乙酯部位浸膏，正丁醇部位浸膏和水层部位浸膏。
+
+将乙酸乙酯部位浸膏（ $1 2 5 . 8 \ \mathrm { g }$ ）过硅胶柱色谱分离，石油醚-乙酸乙酯(50:1\~0:1)和乙酸乙酯-甲醇（ $5 0 { : } 1 { \sim } 0 { : } 1$ ）梯度洗脱，得到7个流分！ $\mathrm { ^ { \prime } F r . ~ } 1 { \sim } \mathrm { F r . ~ } 7 .$ ）。其中Fr.2经硅胶柱色谱，以石油醚-乙酸乙酯（ $2 0 { : } 1 { \sim } 0 { : } 1$ ）梯度洗脱，得到5个亚组分（Fr.2-1\~Fr.2-5）。Fr.2-2经SephadexLH-20 柱色谱分离，用氯仿-甲醇（1:1）反复洗脱，得到化合物1（ $4 . 1 \ \mathrm { m g }$ ），2（ $6 . 1 \mathrm { m g }$ ），4( $1 1 . 6 \mathrm { m g }$ ）和9（ $1 5 . 0 \mathrm { m g }$ ），Fr.2-4经pre-HPLC以 $20 \%$ 甲醇分离纯化，得到化合物18（ $9 . 2 \mathrm { m g }$ ）。Fr.2-5 经pre-HPLC以 $30 \%$ 甲醇分离纯化，得到化合物5（ $6 . 0 ~ \mathrm { m g }$ ）和7 ( $\mathrm { 1 1 . 0 ~ m g }$ ）。Fr.2-6 经 pre-HPLC以 $10 \%$ 甲醇分离纯化，得到化合物12（ $2 . 2 \mathrm { m g }$ ）、13（ $5 . 3 ~ \mathrm { m g }$ ）和14（ $4 . 3 ~ \mathrm { m g }$ ）。Fr.2-9经 SephadexLH-20 柱色谱（二氯甲烷-甲醇，1:1）反复纯化得到化合物16（ $4 . 3 ~ \mathrm { m g }$ ）。Fr.3经 SephadexLH-20 柱色谱分离，用氯仿-甲醇（1:1)反复洗脱，得到12个亚组分（Fr.3-1\~Fr.3-12）。其中Fr.3-11经 pre-HPLC以 $3 5 \%$ 乙腈分离纯化，得到化合物15（ $\cdot 3 . 0 \mathrm { m g }$ ）。Fr.4经MCI柱色谱以甲醇-水（50:1\~0:1）梯度洗脱，得到5个亚组分（ $\mathrm { F r . ~ } 4 \mathrm { - } 1 \mathrm { - } \mathrm { F r . ~ } 4 \mathrm { - } 5 \$ ）。Fr.4-1经pre-HPLC以 $20 \%$ 甲醇分离纯化，制备得到化合物3（ $4 . 8 ~ \mathrm { m g }$ ）和8（ $6 . 7 \mathrm { m g }$ ）。Fr.4-2 经 pre-HPLC 以 $10 \%$ 甲醇分离纯化，得到化合物19（3.7mg）和20（ $7 . 4 ~ \mathrm { m g }$ ）。Fr.4-5经SephadexLH-20 柱色谱用氯仿-甲醇（1:1）反复洗脱，得到化合物17（ $5 . 0 \mathrm { m g }$ ）。Fr.6经硅胶柱色谱以石油醚-乙酸乙酯（ $5 0 \colon 1 { \sim } 0 \colon 1 \ \cdot$ ）梯度洗脱，得到10个不同极性的亚组分（ $\mathrm { ^ { ' } F r . } 6 - 1 { \sim } \mathrm { F r . } 6 { - } 1 0 )$ 。Fr.6-2 经SephadexLH-20 柱色谱用氯仿-甲醇（1:1）反复洗脱，得到化合物6（ $5 . 1 \ \mathrm { m g }$ ），Fr.6-5经pre-HPLC以 $80 \%$ 甲醇分离纯化,得到化合物10（ $1 3 . 6 \mathrm { m g }$ ）和11（ $8 . 1 \ \mathrm { m g } \cdot$ ）。
+
+![](images/cc581c3a1d7720517a94f0bca15a77160c92e9e2b93a4d209790e8bc2a9d50e9.jpg)  
+图1化合物1-20的结构  
+Fig.1 Chemical structures of compounds 1-20
+
+# 2结构鉴定
+
+化合物1黄色针状结晶（甲醇）。HR-ESI-MSm/z:137.0244[M-H]-. $\mathrm { ^ { 1 } H }$ -NMR ${ \bf \zeta } ^ { \mathrm { 6 0 0 } } \mathrm { M H z }$ DMSO- $\cdot d _ { \delta _ { . } }$ )8: 9.68(1H, s, H-7), 7.26(1H, dd, $J { = } 8 . 1$ ， $1 . 8 ~ \mathrm { H z }$ ,H-6),7.22(1H, d, $J { = } 1 . 8 ~ \mathrm { H z }$ ，H-2),6.89(1H, d, $J { = } 8 . 1 ~ \mathrm { H z }$ ,H-5); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ,DMSO $\cdot d _ { \delta }$ ) 8: 191.0(C-7), 152.6(C-4), 146.0(C-3),128.6(C-1),124.6(C-6),115.5(C-5),114.2(C-2)。以上数据与文献（王文祥等，2013）报道一致，故鉴定化合物1为原儿茶醛（3,4-dihydroxybenzaldehyde）。
+
+化合物2黄色粉末（甲醇）。 $^ 1 \mathrm { H }$ -NMR( ${ \bf \zeta } 6 0 0 ~ \mathrm { M H z }$ ，DMSO- $d _ { 6 }$ ）8:7.43(2H, s,H-2, 6),6.83(1H, d, $J { = } 8 . 4 \operatorname { H z }$ ,H-5),3.73(3H, s,7-OCH3); $^ { 1 3 } \mathrm { C } .$ -NMR( $1 5 0 \mathrm { M H z }$ ,DMSO- $\cdot d _ { 6 }$ ) 8: 167.5(C-7),151.0(C-4),147.2(C-3),125.9(C-1),123.4(C-6),115.0(C-5), 112.7(C-2), 55.5(OCH3)。以上数据与文献（赵明等，2020）报道一致，故鉴定化合物2为3,4-二羟基-苯甲酸甲酯（methyl3,4-dihydroxybenzoate）。
+
+化合物3白色粉末（甲醇）。 $^ 1 \mathrm { H }$ -NMR( ${ \bf \zeta } _ { 6 0 0 } \mathrm { M H z }$ ,DMSO- $\cdot d _ { 6 }$ ) S: 7.31(1H, d, $J { = } 2 . 0 \operatorname { H z } .$ H-2), 7.26(1H, dd, $J { = } 8 . 2$ ,2.0 Hz,H-6),6.76(1H, d, $J { = } 8 . 2 \operatorname { H z }$ ,H-5); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 \mathrm { M H z }$ ,DMSO- $. d _ { 6 }$ ）8: 115.2(C-6),116.6(C-5),121.9(C-1),144.9(C-3),150.0(C-4),167.5(COOH)。以上数据与献（夏明文等，2010）报道一致，故鉴定化合物3为3,4-二羟基苯甲酸（3,4-dihydroxy-
+
+benzoic acid）。
+
+化合物4白色粉末（甲醇）。HR-ESI-MSm/z:167.0345[M-H], $^ 1 \mathrm { H }$ -NMR( ${ \bf \zeta } { 6 0 0 } ~ \mathrm { M H z }$ DMSO- $d _ { 6 }$ ）8: 7.40(1H, dd, $J { = } 8 . 4$ ， $2 . 0 ~ \mathrm { H z }$ ，H-6),7.35(1H,s,H-2), 6.97(1H,d, $J { = } 8 . 4 ~ \mathrm { H z }$ ，H-5),3.81(3H, s, 4-OCH3); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ,DMSO $. d _ { 6 }$ ) 8: 167.5(7-COOH), 151.4(C-4), 146.8(C-3),129.7(C-6),121.5(C-1),116.1(C-2),111.3(C-5),55.6(4-OCH3)。以上数据与文献（邹欢等，2017）报道一致，故鉴定化合物4为3-羟基-4-甲氧基苯甲酸（3-hydroxy-4-methoxybenzoicacid）。
+
+化合物5无色针状晶体（甲醇）。HR-ESI-MSm/z:137.0242[M-H]-. $\mathrm { ^ { 1 } H }$ -NMR $( 6 0 0 \mathrm { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D } \$ ）8: 7.88(2H, d, $J { = } 8 . 8 ~ \mathrm { H z }$ ,H-2,6), 6.81(2H, d, $J { = } 8 . 8 ~ \mathrm { H z }$ ,H-3,5); $^ { 1 3 } \mathrm { C }$ -NMR( ${ 1 5 0 } \mathrm { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ )8: 170.2(COOH),160.7(C-4),133.0(C-2,6),122.9(C-1),116.0(C-3,5)。以上数据与献（向丽敏等，2020）报道一致，故鉴定化合物5为对羟基苯甲酸（ $p$ -hydroxybenzoicacid）。
+
+化合物6白色粉末（甲醇）。HR-ESI-MSm/z:121.0295[M-H]-. $^ 1 \mathrm { H }$ -NMR $( 6 0 0 ~ \mathrm { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D } \$ )8: 9.76(1H, s, CHO),7.77(2H, d, $J { = } 8 . 4 ~ \mathrm { H z }$ ,H-2,6), 6.91(2H, d, $J { = } 8 . 4 ~ \mathrm { H z }$ H-3,5); $^ { 1 3 } { \mathrm { C } } .$ 业NMR( $1 5 0 \mathrm { M H z }$ 0 $\mathrm { C D } _ { 3 } \mathrm { O D } )$ 8: 192.8(CHO), 165.2(C-4),133.4(C-2,6),130.3(C-1), 116.9(C-3, 5)。以上数据与文献（龚韦凡等，2017）报道一致，故鉴定化合物6为对羟基苯甲醛（4-hydroxybenzyl aldehyde）。
+
+化合物7无色针状晶体（甲醇）。HR-ESI-MSm/z:137.0244[M-H]-. $^ 1 \mathrm { H }$ -NMR(600MHz,$\mathrm { C D } _ { 3 } \mathrm { O D } )$ , 8: 7.59(1H, d, $J { = } 1 5 . 9 ~ \mathrm { H z }$ ,H-7),7.43(2H, d, $J { = } 8 . 4 \ : \mathrm { H z }$ H-2,6),6.79(2H, d, $J { = } 8 . 3 ~ \mathrm { H z }$ ，H-3, 5), 6.27(1H, d, $J { = } 1 5 . 9 ~ \mathrm { H z }$ ，H-8); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ， $\mathrm { C D } _ { 3 } \mathrm { O D } \$ ), 8: 171.0(C-9), 161.2(C-4),146.6(C-7),131.2(C-2,6),127.2(C-1),116.8(C-3,5),115.6(C-8)。以上数据与文献（肖春荣,2019）报道一致，故鉴定化合物7为对羟基肉桂酸（ $p$ -Hydroxy-cinnamicacid）。
+
+化合物8白色针状晶体（甲醇）。 $^ 1 \mathrm { H }$ -NMR( ${ 6 0 0 } \mathrm { M H z }$ ,DMSO- $\cdot d _ { \boldsymbol { \delta } _ { \mathcal { I } } }$ )), 8: 9.19(1H, s, OH)7.19(2H, s,H-2、6),3.79(6H, s, ${ \mathrm { O C H } } 3 { \times } 2 { \cdot }$ ） $^ { 1 3 } \mathrm { C }$ -NMR(150MHz,DMSO- $d _ { \boldsymbol { \delta } }$ ） 8: 167.5(-COOH),147.4(C-4), 140.01(C-3, C-5),120.8(C-1), 106.8(C-2, C-6), 56.0(2-OCH3,6-OCH3)。以上数据与文献（陈丽等，2020）道一致，故鉴定化合物8为丁香酸（syringic acid）。
+
+化合物9白色粉末（甲醇）。 $^ 1 \mathrm { H }$ -NMR (600MHz,DMSO-d6)8: 7.20(2H, s,H-2,6),3.8(6H,s, $\mathrm { O C H } _ { 3 }$ ） $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) 8: 167.4(C-1), 147.4(C-3, 5), 140.1(C-4), 106.8(C-2,6), $5 6 . 0 ( \mathrm { O C H } _ { 3 } )$ 。以上数据与文献（韦玮等，2018）报道一致，故鉴定化合物9为3,5-二甲氧基对苯二酚（3,5 dihydroxy hydroquinone）。
+
+化合物10白色粉末（甲醇）。HR-ESI-MS $\mathrm { m } / \mathrm { z }$ 283.0814[M-H]-. $^ 1 \mathrm { H }$ -NMR( ${ \bf \zeta } 6 0 0 ~ \mathrm { M H z }$ DMSO- $\cdot d _ { \delta _ { . } }$ ) 8: 7.89(2H, d, $J { = } 8 . 8 ~ \mathrm { H z }$ ,H-2,6), 7.11(2H, d, $J { = } 8 . 8 ~ \mathrm { H z }$ ,H-3,5), 5.48(1H, d, $J { = } 1 . 8 ~ \mathrm { H z }$ 0H-1),3.84 (1H,m,H-2),3.64(1H, dd, $J { = } 9 . 3$ ， $3 . 2 \mathrm { H z }$ ,H-3),3.39(1H,m,H-5),3.29(1H,t, $\scriptstyle J = 9 . 3$ Hz, H-4), 1.09 (3H, d, $J { = } 6 . 2 ~ \mathrm { H z }$ ,H-6),; $^ { 1 3 } \mathrm { C }$ -NMR(150MHz,DMSO- $\cdot d _ { \delta _ { . } }$ ) 8: 167.0(C-7), 159.6(C-1), 131.3(C-3,5),124.2(C-4), 116.0(C-2, 6), 98.2(C-1), 71.7(C-2), 70.4(C-4), 70.1(C-3)), 69.8(C-5),17.9(C-6)。以上数据与文献（李艳茸等，2014）报道一致，故鉴定化合物10为1-hydroxybenzoyl-4-O- $\mathbf { \nabla } \cdot a$ -L-rhamnopyranoside。
+
+化合物11无色针状晶体（甲醇）。HR-ESI-MSm/z 299.0767[M-H]-. $\mathrm { ^ { 1 } H }$ -NMR ${ ( 6 0 0 ~ \mathrm { M H z } }$ DMSO- $d _ { \boldsymbol { \delta } }$ ) 8: 7.88(2H, d, $J { = } 8 . 8 \mathrm { H z }$ ,H-2,6),7.09(2H, d, $J { = } 8 . 8 \operatorname { H z }$ ,H-3, 5), 4.98(1H, d, $J { = } 7 . 4 ~ \mathrm { H z }$ H-1); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 \mathrm { M H z }$ ,DMSO- $d _ { \boldsymbol { \delta } }$ ) 8: 60.6(C-6'), 69.6(C-4'), 73.2(C-2'), 76.5(C-5'), 77.1(C-3'),99.8(C-1),115.8(C-3,5),124.2(C-1),131.2(C-2,6),160.8(C-4),167.0(C-7)。以上数据与献（杨晨悦和王晓玲，2018）报道一致，故鉴定化合物11为对羟基苯甲酸 $\cdot \beta$ -D-吡喃葡萄糖酯苷( $p$ -hydroxy benzoyl $\cdot \beta$ D-glucopyranoside）。
+
+化合物12黄色粉末（甲醇）。 $^ 1 \mathrm { H }$ -NMR ( ${ \bf \zeta } _ { 6 0 0 } \bf { M H z }$ $\mathrm { C D } _ { 3 } \mathrm { O D }$ )8: 7.86(1H, d, $J { = } 2 . 1 \ \mathrm { H z }$ ,H-2'),
+
+7.52(1H, dd, $\scriptstyle J = 8 . 0$ ， $2 . 0 \ : \mathrm { H z }$ H-6),6.89(1H,d, $J { = } 8 . 0 \ \mathrm { H z }$ ,H-5),6.49 (1H, d, $J { = } 2 . 0 ~ \mathrm { H }$ z,H-8),6.20(1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ，H-6); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ， $\mathrm { C D } _ { 3 } \mathrm { O D }$ ） 8: 176.8(C-4), 165.8(C-7), 160.8(C-5),157.8(C-9), 147.2(C-2), 146.4(C-4),145.7(C-3),136.8(C-3), 122.6(C-1), 121.3(C-6), 115.7(C-2),117.2(C-5")。以上数据与文献（满兴战等，2019）报道一致，故鉴定化合物12为槲皮素（quercetin）。
+
+化合物13 黄针晶体（丙酮）。HR-ESI-MSm/z 329.0647[M-H]-. $^ 1 \mathrm { H }$ -NMR( ${ \mathrm { \bf { 6 0 0 } M H z } }$ DMSO- $d _ { 6 }$ ) 8: 7.32 (2H, s,H-2', 6'), 6.97(1H, s,H-3), 6.54(1H,s,H-8), 6.19(1H, s,H-6),3.88(6H,s,3', $5 ^ { \prime } { \mathrm { - O C H } } _ { 3 } ^ { \prime }$ ） $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 \mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) 8: 181.8(C-4),164.6(C-7),163.6(C-2), 161.4(C9), 157.4(C-5), 148.2(C-3', 5'), 139.9(C-4),120.4(C-1), 104.4(C-2', 6), 103.4(C-3), 99.0(C-6),94.3(C-8), $5 6 . 4 ( 3 ^ { \prime } , 5 ^ { \prime } { \mathrm { - O C H } } _ { 3 } )$ 。以上数据与文献（邹忠杰和龚梦鹃，2010）报道一致，故鉴定化合物13为小麦黄素（tricin）。
+
+化合物14黄针晶体（丙酮）。 $^ 1 \mathrm { H }$ -NMR ${ \bf \zeta } _ { 6 0 0 } \mathrm { M H z }$ ， $\mathrm { C D } _ { 3 } \mathrm { O D }$ )8: 7.76(1H, d, $J { = } 8 . 5 ~ \mathrm { H z }$ ,H-6),7.74(1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ，H-2')，7.06(1H,d, $J { = } 8 . 5 ~ \mathrm { H z }$ ，H-5'),6.40(1H,d, $J { = } 2 . 0 ~ \mathrm { H z }$ ，H-8),6.19(1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ,H-6), 3.93(3H, s, $4 ^ { \prime } { \mathrm { - O C H } } _ { 3 } ^ { \prime }$ ） $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ， $\mathrm { C D } _ { 3 } \mathrm { O D }$ ) 8: 177.5(C-4),165.7(C-7),162.6 (C-5), 158.3(C-9), 150.7(C-4), 147.4(C-3), 137.7(C-3), 121.5(C-1), 115.7(C-5',6),112.2(C-2'),104.6(C-10),99.3(C-6),94.4(C-8),56.4(C-OCH3)。以上数据与文献（邓安珺等，2008）报道一致，故鉴定化合物14为异怪柳素（tamarixetin）。
+
+化合物15 黄色粉末（甲醇）。HR-ESI-MSm/z 315.0493[M-H]-. $^ 1 \mathrm { H }$ -NMR $( 6 0 0 ~ \mathrm { M H z }$ DMSO- $\cdot d _ { \delta _ { . } }$ ) 8: 7.66(1H, d, $J { = } 2 . 2 ~ \mathrm { H z }$ ,H-2'), 7.64(dd, $J { = } 8 . 7$ ， $2 . 2 ~ \mathrm { H z }$ ,H-6'), 7.07(1H, d, $J { = } 8 . 6 ~ \mathrm { H z }$ 0H-5'), 6.41 (1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ,H-8),6.18(1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ,H-6),3.83(3H, s, $3 ^ { \prime } { \mathrm { - O C H } } _ { 3 } ^ { \prime }$ ） $^ { 1 3 } \mathrm { C }$ -NMR（ $1 5 0 \mathrm { M H z }$ ,DMSO- $d _ { \boldsymbol { \delta } }$ 8: 55.6( $3 ^ { \prime }$ -OCH3), 93.4(C-8), 98.2(C-6), 103.0(C-10), 111.8(C-2'), 114.6(C-5'),119.7(C-1),123.4(C-6)，136.2(C-3)， 146.2(C-2)， 146.3(C-3)， 149.3 (C-4)， 156.2(C-9),160.7(C-5),164.0(C-7),175.9(C-4)。以上数据与文献（周北斗等，2018）报道一致，故鉴定化合物15为异鼠李素（isorhamnetin）。
+
+化合物16白色粉末（甲醇）。HR-ESI-MSm/z 301.0697[M-H]-.'H-NMR（ ${ ( 6 0 0 ~ \mathrm { M H z } }$ DMSO- $\cdot d _ { \boldsymbol { \delta } _ { - } }$ ) 8: 6.74 - 6.87(3H,m,H-2',5',6), 6.74(d, $J { = } 2 . 1 ~ \mathrm { H z }$ 2H),6.07(2H,m,H-6,8), 5.41(1H,dd, $J { = } 1 2 . 6$ ， $3 . 0 \mathrm { H z }$ ,H-2),3.78(3H, s,7-OCH3),3.23(2H,m,H-3); $^ { 1 3 } \mathrm { C }$ -NMR(150 MHz,DMSO-d6) 8: 197.0 (C-4),167.4(C-7), 163.2(C-5),162.8(C-9), 145.8 (C-4), 145.2(C-3)),129.3(C-1),118.0 (C-6), 115.3(C-5)), 114.4(C-2), 102.6(C-10), 94.6(C-6), 93.8(C-8), 78.7(C-2), 55.9(7-$\mathrm { O C H } _ { 3 } ,$ ),42.1(C-3)。以上数据与文献（赵东保等，2005）报道一致，故鉴定化合物16为5,3',4'-三羟基-7-甲氧基二氢黄酮（5,3',4'-trihydroxy-7-methoxyflavanone）。
+
+化合物17黄色粉末（甲醇）。HR-ESI-MSm/z 299.0540[M-H]-. $^ { 1 } \mathrm { H }$ -NMR $( 6 0 0 ~ \mathrm { M H z }$ DMSO- $d _ { 6 }$ )8: 7.46(1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ，H-2),7.44(1H, dd, $J { = } 8 . 0$ $2 . 0 ~ \mathrm { H z }$ ,H-6),6.88(1H, d, $J { = } 8 . 3$ Hz, H-5'), 6.72(2H, s,H-3,8), 6.37(1H, d, $J { = } 2 . 0 ~ \mathrm { H z }$ ,H-6),3.87(3H, s, 7'-OCH3); $^ { 1 3 } \mathrm { C }$ -NMR（150MHz，DMSO $\cdot d _ { \delta _ { . } }$ ）8: 181.8(C-4), 165.1(C-2), 164.3(C-7), 161.2(C-5), 157.2(C-9), 150.3(C-4'),145.9(C-3),121.1(C-1),119.2(C-6),116.0(C-5'),113.4(C-2'), 104.7(C-10), 102.9(C-3), 98.0(C-6),92.6(C-8),56.1(7'-OCH3)。以上数据与文献（张幸国和田景奎，2006）报道一致，故鉴定化合物17为7-O-甲基圣草酚（sternbin）。
+
+化合物18浅棕色油性物质（甲醇）。HR-ESI-MSm/z 223.1325[M-H]- $\mathrm { ^ { 1 } H }$ -NMR(600MHz,DMSO- $d _ { 6 }$ ) 8: 6.97(1H, d, $J { = } 1 5 . 8 ~ \mathrm { H z }$ ,H-1'), 6.27(1H, d, $J { = } 1 5 . 8 ~ \mathrm { H z }$ ,H-2'), 5.86(1H, s,H-2),2.63(1H, d, $J { = } 1 7 . 0 \ \mathrm { H z }$ ,H-6),2.26(3H, s,H-4'), 2.16(1H, d, $J { = } 1 7 . 0 \mathrm { H z }$ ,H-6),1.80(3H, d, $J { = } 1 . 4 \operatorname { H z }$ H-7), 0.96(3H, d, $J { = } 2 5 . 1 \ \mathrm { H z }$ ,H-8), 0.92(3H, s,H-9); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ,DMSO- $d _ { 6 }$ ) 8: 198.2(C-3),197.0(C-1), 161.7(C-3),147.2(C-1),130.5(C-2), 126.6(C-2), 78.1(C-4), 41.2(C-5)。27.2(C-4),24.2(C-9),49.3(C-6),23.2(C-8),18.6(C-7).以上数据与文献(YiTao et al.,2012）报道一致，故鉴定化合物18为( $( E )$ -4-(1S,3R,4R)-1-hydroxy-4,5,5-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)but-1-en-3-o-ne。
+
+化合物19无色油性物质（甲醇）。HR-ESI-MSm/z 269.1182[M+HCOO]-. $^ 1 \mathrm { H }$ -NMR中 ${ \bf \zeta } 6 0 0 { \bf M H z }$ DMSO- $d _ { 6 }$ ) 8: 5.77(1H, s,H-4), 5.67(1H,m,H-7), 5.65(1H,m,H-8),4.98(1H,m,H-9),2.35(1H, d, $J { = } 1 6 . 7 ~ \mathrm { H z }$ ,Ha-2),2.07-2.01(1H, m,Hb-2), 1.79(3H, d, $J { = } 1 . 4 ~ \mathrm { H z }$ ,H-13),1.10(3H, d,$J { = } 6 . 4 ~ \mathrm { H z }$ ，H-10),0.92(3H,s,H-12),0.90(3H,s,H-11); $^ { 1 3 } \mathrm { C }$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ，DMSO- $. d _ { 6 }$ ）8:19.0(C-13), 23.1(C-11), 24.0(C-12), 24.1(C-10), 41.0(C-1)， 49.4(C-2), 66.1(C-9), 125.5(C-4),127.9(C-8),135.9(C-7),197.4(C-3)。以上数据与文献（曾金祥等，2017）报道一致，故鉴定化合物19为blumenolA。
+
+化合物20无色油性物质（甲醇）。 $\mathrm { ^ { 1 } H }$ -NMR( ${ \bf \zeta } 6 0 0 ~ \mathrm { M H z }$ ， $\mathrm { C D } _ { 3 } \mathrm { O D }$ )8: 7.81(1H, s,H-6),6.27(1H, t, $J { = } 6 . 8 \operatorname { H z }$ ,H-1'), 4.39(1H, m, H-4'), 3.89(1H, m, H-3), 3.79(1H, m, Ha-5'),3.72(1H, m,Hb-5'),2.26-2.15(2H, m,H-2'),1.87(3H, s, CH3); $^ { 1 3 } \mathrm { C } .$ -NMR( $1 5 0 ~ \mathrm { M H z }$ ，CD3OD) 8: 12.4(CH3),41.2(C-2'), 62.8(C-5), 72.2(C-3), 86.2(C-2'), 88.8(C-1), 111.5(C-5), 138.2(C-6), 152.4(C-2),166.4(C-4)。以上数据与文献（杨顺丽等，2003）报道一致，故鉴定化合物20为胸腺嘧啶脱氧核苷（thymidine）。
+
+# 3讨论
+
+本研究从甘蔗叶中共分离得到20个化合物，其中包括11个酚酸类化合物、6个黄酮类化合物、2个倍半萜化合物、1个生物碱类化合物。化合物1-4、6、9-11、13-16、18和20 为首次从甘蔗叶中分离得到。
+
+前期研究显示甘蔗叶具有抗炎作用（侯小涛等，2013）。其中化合物1原儿茶醛具有抑制炎症作用（ZHOUZetal.,2005）。化合物6对羟基苯甲醛可促进神经的修复，其作用机制与促进内皮细胞释放神经营养因子VEGF-A和BDNF有关（杨媛等，2019）。化合物12槲皮素具有抗炎作用，能够抑制NF- $\cdot \kappa \mathrm { B }$ 的活化，继而抑制细胞因子和其他促炎因子的释放（Guazelli C.etal.,2018）。化合物15异鼠李素具有抗炎等作用（LeeMS&KimY,2018），可通过减轻氧化应激,缓解对游离脂肪酸对L-02细胞诱导的脂质沉积。核因子NF-E2相关因子2通路在此过程中发挥了重要作用（周健等，2021）。甘蔗叶提取物具有体外抗肿瘤作用，乙酸乙酯提取物是其中最主要的活性部位（邓家刚等，2010）。倍半萜类化合物具有抗肿瘤活性（付佳等，2019）。本研究分离到的成分中亦包含倍半萜类成分，但它们是否为甘蔗叶的抗肿瘤活性成分，尚需后续进一步研究加以验证。本研究通过对甘蔗叶乙酸乙酯部位的化学成分研究，丰富了甘蔗叶化学成分的结构类型，其结果亦可为今后甘蔗叶资源回收再利用及药用价值的开发提供科学依据。
+
+# 参考文献
+
+BORSEN W, PINDER D, SHECHING W, et al. 2011, Effects of the aqueous extract of sugarcaneleaves on antimutation and nitric oxide generation[J]. Food chem,124 (2) :495-500.  
+CHEN L，KANG M,DENG XK,et al.， 2020. Study on the chemical constituents fromCurculigo orchioides[J].JSichuan Univ Med Sci, 57(3): 591-595.[陈丽，康敏，邓小宽，等,2020．仙茅化学成分的研究[J]．四川大学学报(自然科学版)，57(3)：591-595.]  
+DENG AJ, QING HL. 2008. Studies on chemical constituents of fruits of Bridelia tomentosa.[J].Chin JChin Mater Med,33(2):158-60.[邓安珺，秦海林，2008．土蜜树果实化学成分的研究［J]．中国中药杂志，33(2)：158-60.]  
+DENG JG,GUO HW, HOU XT, et al.， 2010. Experimental study on the antitumor effects ofextracts from leaves of Saccharum offieinatum in vitro[J]. Liaoning J Trad Chin Med, 37(1): 32-34.［邓家刚，郭宏伟，侯小涛，等，2010．甘蔗叶提取物的体外抗肿瘤活性研究［J］．辽宁中医杂志，37(1)：32-34.]  
+FU J,LI FH,LI CK, et al.，2019. Reviews on natural monocyclic sesquiterpenoids and theirbioactivities[J].Chin JChin Mater Med,44(17):3672-3683.[付佳，李锋华，李常康，等，2019．天然来源单环倍半萜类化合物的结构及其药理活性研究进展［J］．中国中药杂志，44(17): 3672-3683.]  
+GONG WF, ZOU DJ, GAO RX, et al.， 2017. Chemical constituents from roots of Smilax riparia[J].Chin Med Mater,40(7):1595-1599.[龚韦凡，邹大江，高瑞锡，等，2017．牛尾菜根茎的化学成分研究［J]．中药材，40(7)：1595-1599.]  
+GUAZELLI C, STAURENGOFERRARI L, ZARPELON AC, et al.， 2018. Quercetin attenuateszymosan-induced arthritis in mice[J]. Biomedicine and Pharmacotherapy, 102:175-184.  
+HE YT, DENG JG, ZHAO CC, et al.， 2016. Research Progress of chemical components andpharmacological activities in leaves of Saccharum ofieinatum [J]. Asia-Pac Trad Med,12(8): 49-51.［何耀涛，邓家刚，赵超超，等，2016．甘蔗叶化学成分及药理作用研究进展［J］．亚太传统医药，12(8)：49-51.]  
+HOU XT, DENG JG,LI AY, et al.， 2011. Study on hypoglycemia activity of the diferentextracts in leaves of Saccharum offeinatum [J]. West Chin JPharm Sci, 26(5): 451-453.[侯小涛，邓家刚，李爱媛，等，2011．甘蔗叶不同提取物对3种糖尿病模型的降血糖作用［J］．华西药学杂志，26(5)：451-453.]  
+HOU XT, DENG JG, MA JF, et al.， 2010. Effect of extracts from leaves of Saccharumoffeinatum on antibacterial in vitro[J].West Chin JPharm Sci,25(2): 161-163.[侯小涛，邓家刚,马建凤，等，2010．甘蔗叶提取物的体外抑菌作用研究[J]．华西药学杂志，25(2)：161-163.]  
+HOU XT, MA LN,DENG JG, et al.， 2013. Extracting total flavonoids from leaves ofSaccharum offcinarum and anti-inflammatory evaluation [J]. Chin Trad Patent Med, 35(9):2047-2050.［侯小涛，马丽娜，邓家刚，等，2013．甘蔗叶总黄酮提取工艺及抗炎活性的研究［J]．中成药，35(9)：2047-2050.]  
+JIAN S, XUE-MH, MOU-MING Z, et al.， 2014, Antioxidant and Nitrite-Scavenging Capacitiesof Phenolic Compounds from Sugarcane (Saccharum officinarum L.） Tops[J]. Molecules,19(9):13147-13160.  
+JIANG H, SHU JP, FANG XF, et al.， 2012. Study on extraction and isolation of polysaccharidefrom leaves of Saccharum officinarum and its antitumor effect in vitro[J]. Clin Ration Drug Use,5(15):28-29.[江恒，苏纪平，方锋学，等，2012．甘蔗叶多糖的提取分离及体外抗肿瘤作用研究[J]．临床合理用药杂志，5(15)：28-29.]  
+LEE MS,KIM Y. 2018. Effects of isorhamnetin on adipocyte mito chondrial biogenesis andAMPK activation[J]. Molecules, 23(8):pii:E1853.  
+LI YR,LI C, WANG ZM, et al.， 2014. Chemical constituents from whole plants of Aconitumtanguticum (II)[J]. Chin JChin Mater Med,39(7): 1163-1167.[李艳茸，李春，王智民，等,2014．藏药甘青乌头化学成分研究(II)[J]．中国中药杂志，39(7)：1163-1167.]  
+MAN XZ, ZHOU F,TAN Y, et al.， 2019. Chemical constituents from Euscaphis japonica [J].Chin Trad Herb Drugs,50(24):5924-5929.[满兴战，周峰，谭洋，等，2019．福建野鸦椿化学成分的研究［J]．中草药，50(24)：5924-5929.]  
+PAN WY, DENG JG, HOU XT,et al.， 2019. Chemical constituents of agricultural residuesproducing from 4 kinds of gramineous crops and their pharmacological effects. [J]. Chin J ExpTrad Med Form,25(10):214-225.[潘王芸，邓家刚，侯小涛，等，2019．四种禾本科农作物的废弃物化学成分及药理作用［J]．中国实验方剂学杂志，25(10)：214-225.]  
+Qi F，Sun JH,Yan JQ，et al.， 2018.Anti-inflammatory effects of isorhamnetin on LPS-stimulated human gingival fibroblasts by activating Nrf2 signaling pathway[J]. Microb Pathog,2018, 120:37-41.  
+WANG WX. 2013. Chemical constituents in anti-Hepatic fibrosis fraction of Salviamiltiorrhiza.[J].Natur Prod Res Dev,25(6):789-791.[王文祥，2013．丹参抗肝纤维化有效部位化学成分研究［J]．天然产物研究与开发，25(6)：789-791.]  
+WEI W, DENG JG, HAO EW, et al.， 2018. Chemical constituents from ethyl acetate extract ofleaves of Saccharum officinarum[J]. Chin JExp Trad Med Form, 24(21): 51-55.[韦玮， 邓家刚,郝二伟，等，2018．甘蔗叶乙酸乙酯萃取部位化学成分分离鉴定［J］．中国实验方剂学杂志，24(21): 51-55.]  
+XIA MW, TAN QQ, YANG L,et al.， 2010. Studies on chemcial constituents in Patriniascabiosaefolia [J].Chin Trad Herb Drugs,41(10):1612-1615.[夏明文，谭菁菁，杨琳，等，2010．黄花败酱化学成分研究[J]．中草药，41(10)：1612-1615.]  
+XIANG LM,LI J, LIU JX,Li N, et al.， 2020. Study on the chemical constituents from the ethylacetate fraction of Syzygium jambos[J]. J Guangdong Pharm Univ,36(3): 334-337.[向丽敏，李洁，刘嘉鑫，等，2020．蒲桃壳乙酸乙酯部位化学成分研究［J］．广东药科大学学报，36(3): 334-337.]  
+XIAO CR. 2019. Studies on chemical constituents of Turpinia montana and Vitexrotundifolia[D].Nanchang; JJiangxi Univ Tradit Chin Med :146.[肖春荣，2019．中药山香圆和蔓荆子化学成分研究［D］．南昌:江西中医药大学：146]  
+YANG CY, WANG XL. 2018. Phenolic constituents from the barks of Broussonetia papyrifera[J].Chin Med Ma,41(1):111-114.[杨晨悦，王晓玲，2018．构树皮中的酚性化合物研究[J]．中药材，41(1)：111-114.]  
+YANG SL,LIU XK, 2003. Nucleosides from Smilacina atropurpurea[J]. Chin JNat Med, 1(4): 4-6.[杨顺丽，刘锡葵.2003．竹叶菜中的核苷类化学成分[J]．中国天然药物,1(4)：4-6.]YANG Y,DAI R, ZHANG BL,et al.，2019. Repair effect of P-Hydroxybenzaldehyde on cerebralischemia reperfusion injury model rats[J].Chin Pharm,28(12):11-14.[杨媛，代蓉，张冰琳，等，2019．对羟基苯甲醛对模型大鼠脑缺血再灌注损伤修复作用研究[J]．中国药业，28(12):1-14.]  
+YI TAO, Wei J, CHENG YY, et al.， 2012. Two new compounds from Senecio cannabifolius[J] .Nat Prod Lett, 14:826-830.]ZENG JX, XU BB,BI Y, et al.， 2017. Chemical constitutes from Plantaginis semen (II） [J].Chin JExp Trad Med Form,23(4):81-84.[曾金祥，许兵兵，毕莹，等，2017．车前子化学成分研究(II）[J]．中国实验方剂学杂志，23(4)：81-84.]  
+ZHANG JL,DENG JG,LIU BM, et al.， 2019. Isolation， identification and determination offlavonoids in the leaves of Saccharum offcinarum [J]. Food Res Dev, 40(22): 164-170.[张金玲,邓家刚，刘布鸣，等，2019．甘蔗叶中黄酮类化合物的分离鉴定及含量测定［J］．食品研究与开发，40(22):164-170.]  
+ZHANG XG, TIAN JK. 2006. Studies on chemical constituents of Ranunculus ternatus(III) [J].Chin Pharm J,41(19):1460-1461.[张幸国，田景奎，2006．猫爪草化学成分的研究(III)[J]．中国药学杂志，41(19)：1460-1461.]  
+ZHAO DB, YANG YX, ZHANG W, et al.， 2005. Studies on flavonoids from herb of Artemisiaordosica[J].Chin JChin Mater Med,30(18):1430-2.[赵东保，杨玉霞，张卫，等，2005．黑沙蒿黄酮类化学成分研究[J]．中国中药杂志，30(18)：1430-2.]  
+ZHAO M, XU YH, WILAN TY, et al.， 2020. Chemical constituents of ethyl acetate extracts ofEmpetrum nigrum var. japonicum.[J]. Chin Trad Herb Drugs,51(13): 3399-3405.[赵明，徐阳宏,乌兰托娅，等，2020．东北岩高兰醋酸乙酯萃取物化学成分研究[J］．中草药，51(13)：3399-3405.]  
+ZHOU BD, ZHANG XL, NIU HY, et al.， 2018. Chemical constituents from stems and leaves ofPsychotria serpens[J].ChinJChin Mat Med,43(24): 4878-4883.[周北斗，张项林，牛海渊，等,2018．蔓九节枝叶中化学成分研究[J]．中国中药杂志，43(24)：4878-4883.]  
+ZHOU J, DU F, KANG BW, et al.， 2021. Isorhamnetin alleviates free fatty acids-induced lipidaccumulation via reducing oxidative stress in hepatocytes [J]. Cent S Pharm，19(3):376-381.[周健，杜凤，康秉文，等，2021.异鼠李素通过减轻氧化应激改善游离脂肪酸诱导肝细胞脂质沉积［J]．中南药学，19(3)：376-381.]  
+ZHOU Z, LIU Y,MIAO A D, et al.， 2005, Protocatechuic aldehyde suppresses TNF- $\mathfrak { a }$ -inducedICAM-1 andVCAM-lexpression in human umbilical vein endothelial cels[J]. Eur J Pharmacol,513:1.  
+ZHOU ZJ, GONG MG,2010. Studies on the chemical constituents from Euphorbia latifolia [J]. JGuangdong Pharm Univ,26(2):138-140.[邹忠杰，龚梦鹃，2010．宽叶大戟化学成分的研究[J]．广东药学院学报，26(2)：138-140.]  
+ZOU H， ZHNAG B, YAO CF，et al.， 2017. Chemical constituents from the seeds ofHydnocarpus anthelmintica[J]. Chin Med Mat,40(3): 592-595.[邹欢，张宝，姚成芬，等,2017．大风子的化学成分研究[J]．中药材，40(3)：592-595.]

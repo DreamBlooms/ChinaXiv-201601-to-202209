@@ -1,0 +1,704 @@
+[
+    {
+        "type": "text",
+        "text": "1 Modification on theory of sink strength: an Object 2 Kinetic Monte Carlo study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3Jie Hou $\\mathbf { \\Delta } _ { a , b } ^ { a , b }$ , Xiang-Shan Kong $a$ , Xiang-Yan Li $\\boldsymbol { a }$ , Xuebang Wu $^ { a , * }$ , C. S. Liu $^ { a , * }$ ，   \n4 Jun-Ling Chen $c$ , G.-N. Luo $c$   \n5 α Key Laboratory of Materials Physics, Institute of Solid State Physics， Chinese Academy   \n6 ofSciences,Hefei 230031，P.R. China   \n7 （2 $b$ University of Science and Technology of China, Hefei 230026, P. R. China   \n8 CInstitute of Plasma Physics, Chinese Academy of Sciences, Hefei 230031, P.R. China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "9Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "10 Sink strength is a fundamental quantity in modeling the microstructure   \n11 evolution of irradiated materials by the mean-field approaches. The analyti  \n12 cal expressions for different sinks have been extensively studied. The Object   \n13 Kinetic Monte Carlo (OKMC) simulations were subsequently performed to   \n14 corroborate the expressions and to guide the development of analytical the  \n15 ories. Although a general agreement was found between the theory and   \n16 simulation, there are still some discrepancies in the case of the small spher  \n17 ical sinks and the dislocation lines. In this work, OKMC simulations were   \n18 performed to study the sink strength of spherical sinks and dislocation lines.   \n19 Our results revealed the origins of discrepancies between the theory and simu  \n20 lation for small sinks, high volume fraction sinks and periodically distributed   \n21 dislocation lines. The theoretical corrections were also proposed according  \n22 ly. These corrections can extend the capabilities of mean-field approaches to   \n23 properly reproduce the defect evolution of irradiated materials, and provide   \n24 a better insight into the experimental phenomena, such as the defect cluster   \n25 nucleation, the irradiation-induced swelling and the blistering. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "26 1．Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "27 The degradation of material properties under irradiation is a main con  \n28 cern in reactor design. Under the high-energy particle irradiation, numerous   \n29 mobile defects such as interstitials and vacancies are created. The clustering   \n30 and aggregation of these defect are generally relevant to the the formation   \n31 of blisters and voids, which leads to the degradation of materials. These mo  \n32 bile defects can interact with each other and with other sinks such as grain   \n33 boundaries and dislocation lines. The ability of these sinks to capture the   \n34migrating defects can be quantitatively described by the sink strength that   \n35was applied in mean-field approaches for simulations of defect evolution.   \n36 The sink strength is proportional to the inverse square of average free   \n37migration distance of defects. It is connected to the size, shape and density of   \n38 sinks,as wellas the dimensionality of defect migration,i.e., three-dimensional   \n39 (3D),one-dimensional (1D), or mixed 3D/1D. Based on the diffusion theory,   \n401 many theoretical work has been carried out to obtain the analytical sink   \n41 strength for different sinks. Brailsford and Bullough et al. have investigated   \n42the expressions for the spherical sinks [1] and grain boundaries [2] under the   \n43 3D limit. Similar expression for dislocations was derived by Wiedersich [3],   \n44 corrected by Nichols [4],and shows a good agreement with the phase-field   \n45results [5]. Theoretical sink strengths for these sinks under the 1D limit   \n46were systematically investigated by Barashev et al. [6]. Recently, the Object   \n47 Kinetic Monte Carlo (OKMC) method [7-9] which is expected to provide the   \n48sink strengths spontaneously, has been used to corroborate these expressions   \n49 and to guide the development of the theories. The OKMC simulations by   \n5o Malerba and Jansson et al. [10,11] showed good agreements with analytical   \n51 theory in both the 3D and 1D limits,as well as in the transition regime of   \n523D to 1D diffusion. The transition region is described by a single-variable   \n53 function (master-curve)，which was proposed by Trinkaus and Heinisch et al.   \n54 and also confirmed by the OKMC simulations [12-15].   \n55 Despite of the general agreements found between theoretical works and   \n56simulations, unexplained discrepancies under certain situations have also   \n57 been found in previous studies. More specifically, the OKMC simulation   \n58 results always show an underestimate of the analytical sink strength for s  \n59mall sinks [10,13,16],and a huge overestimate for high volume fraction sinks   \n60 [10,11, 13]. An irregular discrepancy for periodically distributed dislocation   \n61 lines was also pointed out[11]. Heinisch et al. [13] attributed the underesti  \n62 mation to different nature between the diffusion mechanisms in OKMC and   \n63 theoretical model. They thereby provided a fitted correction term，which   \n64works well for the sink radii above $2 . 5 a _ { 0 }$ ( $a _ { 0 }$ is the lattice constant). How  \n65ever, they did not consider the effectiveness of the correction for the smaller   \n66sink( $< ~ 2 . 5 a _ { 0 }$ ， such as vacancy clusters containing about 1Oo vacancies).   \n67More importantly， the corrected expression cannot describe point defects   \n68 like mono-vacancy because it predicts a zero sink strength. Since OKMC   \n69is a priori expected to provide the same sink strength to that provided by   \n70 the diffusion theory, additional corrections should be required for OKMC or   \n71mean-field simulations of defect cluster nucleation.   \n72 In this work, we calculated sink strengths of different sinks through both   \n73 the theoretical and OKMC approaches, for the defects characterized by a   \n74varying motion dimensionality from the fully 3D limit to the pure 1D lim  \n75 it. Particular cares were taken for the small sinks, the high volume fraction   \n76sinks and the dislocation lines in the 1D migration limit. The theoretical   \n77corrections thereof were also provided to eliminate the discrepancies men  \n78tioned above. It was found that much better agreements between theory and   \n79simulation can be achieved after the corrections. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "。2.Computation method ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "81 An OKMC program is designed to calculate sink strengths of spherical   \n82sinks and dislocation lines. The entire procedure is similar to that used in   \n83refs. [10,11]. Briefly, defects and sinks are treated as objects with specific   \n84positions in a simulation box and with associated reaction volumes. Proba  \n85bility of a thermally activated event, such as defect migration, is given in the   \n86form of Arrhenius frequency, $\\Gamma _ { i } = v _ { i } e x p ( - E _ { a , i } / k _ { B } T )$ .Here $\\upsilon _ { i }$ is the attempt   \n87frequency for event $i$ ， $E _ { a , i }$ is the corresponding activation energy, $k _ { B }$ is the   \n88 Boltzmann constant, and $T$ is the absolute temperature. An event is random  \n89ly chosen according to its probability. The binary search algorithm is applied   \n90here to accelerate the choosing procedure. After the event is executed, the   \n91 object configuration will be updated,and the simulated time will be increased   \n92acodingtoti], $\\Delta \\tau = 1 / ( \\Sigma _ { i = 1 } ^ { N _ { i n t } } \\Gamma _ { i } ^ { i n t } { + \\Sigma _ { j = 1 } ^ { N _ { e x t } } \\Gamma _ { j } ^ { e x t } } )$ ，   \n93where $N _ { i n t }$ and $N _ { e x t }$ are the number of internal and external events, respec  \n94 tively. Here, two internal events are considered, including defect migration   \n95and rotation of migration direction. No external events are considered in this   \n96work, i.e., $N _ { e x t } = 0$ . Note that, when two objects overlap geometrically, reac  \n97tions between these two defects will take place. For instance, absorptions of   \n98 a point defect take place when its distance to a sink is smaller than the sum   \n9 of their capture radii. This kind of event will bring no time increment to the   \n100system. During the simulation，events are chosen and executed repeatedly   \n101until certain time or steps are achieved. In this work, in order to achieve   \n102 a statistical convergence, simulations will not be stopped until 1Oooo point   \n103 defects are absorbed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Similar to previous works[10, 13,14], a model handles only idealised situations is implemented. In this model,a point defect with zero radius is introduced at a random position and allowed to migrate. After its absorp",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "107 tion,a new point defect will be introduced instantaneously so that only one   \n108 point defect at a time is presented in the system. It should be pointed out   \n109 that defects created inside spherical sinks or dislocation lines are not taken   \n110 into account. In this way, the sink strength, $k ^ { 2 }$ , can be given by: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk ^ { 2 } = { \\frac { 2 n } { d ^ { 2 } < m > } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "111 where $n$ is the dimensionality of point defect migration, which is taken as 3   \n112 even for 1D migrating in order to consistently trace the transition between   \n113 1D and 3D migration. $d$ is the migration distance of a point defect,which   \n114 equals $\\sqrt { 3 } a _ { 0 } / 2$ in bcc tungsten with lattice constant $a _ { 0 } = 0 . 3 1 6 5$ nm. $< m >$   \n115 is the average number of jumps before it is absorbed by sinks. Similar to   \n116 ref. [10], the dimensionality of defect motion is changed by assigning a ro  \n117 tation energy $E _ { r }$ to defects,whereby the probability of changing migration   \n118 direction is expressed as $\\exp ( - E _ { r } / k _ { B } T )$ . One can set $E _ { r } = 0$ to acquire pure   \n119 3D migration or set $E _ { r }$ to a relatively high value to get pure 1D migration   \n120 ( $<$ 111> directions in tungsten). In this work, at the chosen simulation tem  \n121 perature of 723 K, $E _ { r } = 1 . 5 \\ \\mathrm { e V }$ is enough to provide a fully 1D path,while   \n122 the intermediate values are considered to give a mixed 1D/3D migration.   \n123 A non-cubic periodic box with a fixed size ratio $l _ { x } : l _ { y } : l _ { z } = \\frac { 1 } { \\sqrt [ 4 ] { 2 } } : \\sqrt [ 4 ] { 2 }$ ：   \n124 1 is employed in order to correctively describe the 1D migrating of point   \n125 defects [1o]. The irrational ratio of box sides was used to ensure that any   \n126 super-box of this box would be non-cubic. Spherical sinks are randomly   \n127 introduced in this non-cubic box with $l _ { z } = 3 5 0 \\ \\mathrm { n m }$ . The radius of spherical   \n128 sinks, $R _ { s }$ ，varied from O.27 to 10.25 nm. And their number density, $N _ { s }$ ，   \n129 varied from $1 0 ^ { - 5 }$ to $1 . 5 \\times 1 0 ^ { - 4 } ~ \\mathrm { { n m ^ { - 3 } } }$ for the 3D and 1D migration. For the   \n130 mixed 1D/3D migration, a fixed $R _ { s } = 4 . 2 5$ nm was used and $N _ { s }$ varied from   \n131 （20 $3 \\times 1 0 ^ { - 5 }$ to $1 . 5 \\times 1 0 ^ { - 4 } \\ \\mathrm { n m ^ { - 3 } }$ ． As shown in Fig. 1, the dislocation line is   \n132 introduced as a cylindrical sink whose two opposite faces touch the faces of   \n33 the simulation box. Only one dislocation line is introduced along $l _ { z }$ direction   \n34 of the simulation box. However, under the periodic boundary condition, this   \n35model is practically equivalent to a regular array of infinitely long dislocation   \n36 lines. Different surface densities can be obtained by changing the box size.   \n37Here, $l _ { z }$ varied from 15 to 45 nm while keep the size ratio fixed, corresponding   \n38 to surface densities from $5 \\times 1 0 ^ { - 4 }$ to $4 . 5 \\times 1 0 ^ { - 3 } ~ \\mathrm { { n m ^ { - 2 } } }$ . The dislocation radius   \n39used here, $R _ { d }$ ，varied from 0.25 to $1 0 ~ \\mathrm { { n m } }$ . Some large $R _ { d }$ are not used for   \n40 small boxes due to the box size limit,and some small ones are not used for   \n41 large boxes owing to the computational time limit. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1. Spherical sinks ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1. Results without any correction ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The analytical sink strength of spherical sinks under 3D migration limit is given by [1]: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 3 , s } ^ { 2 } = 4 \\pi R _ { s } N _ { s } ( 1 + k _ { 3 , s } R _ { s } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This equation is usually solved by the iterative method. The $n ^ { t h }$ order of   \n148 iterative result is calculated by $k _ { 3 , s , n } ^ { 2 } = 4 \\pi R _ { s } N _ { s } ( 1 + k _ { 3 , s , n - 1 } R _ { s } )$ , with the first   \n149 order given as $k _ { 3 , s , 1 } ^ { 2 } = 4 \\pi R _ { s } N _ { s }$ As proposed byprevious worki   \nnecessary to use high orders of iterative approximation for a good agreement   \n151 between the theoretical expression and the OKMC simulation. For Eq. (2),   \n152 the larger the $R _ { s }$ is,the poorer the convergence will be. Even so,as shown in   \n153 Fig. 2, for the largest $R _ { s } = 1 0 . 2 5$ nm used in this work, a good convergence   \n154 is already achieved at the third order approximation. In this work, the fifth   \n155 order approximation is adopted for all calculations using Eq. (2)，and for   \n156 similar equation Eq. (4). In the case of 1D migrating defects, expression of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "157 the sink strength is given by [6]: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 1 , s } ^ { 2 } = 6 ( \\pi R _ { s } ^ { 2 } N _ { s } ) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "158 In our OKMC simulations, spherical sinks were introduced randomly but   \n159 without overlap with each other. Under the 3D migration limit, the radius   \n160 of spherical sink, $R _ { s }$ ，varied from 0.27 to 10.25 nm (0.27, 0.75, 1.25, 2.25,   \n161 4.25,6.25,8.25,and 10.25 nm)，and their number density, $N _ { s }$ ， varied from   \n162 （20 $3 \\times 1 0 ^ { - 5 }$ to $1 5 \\times 1 0 ^ { - 5 } \\mathrm { n m ^ { - 3 } }$ (1.0, 3.0, 6.0, 9.0, 1.2, and $1 5 . 0 \\times 1 0 ^ { - 5 } \\mathrm { n m ^ { - 3 } }$ ). The   \n163 two highest densities were not considered when $R _ { s } = 1 0 . 2 5 ~ \\mathrm { n m }$ 1， because of   \n164 the limitation of non-overlap. For the 1D migration limit, it is impossible to   \n165 produce all the data points explored in the 3D case owing to computational   \n166 time reasons. The same densities to the 3D case are all taken into account   \n167 for $R _ { s } > 4 . 2 5 ~ \\mathrm { n m }$ .While only one number density ( $N _ { s } = 1 0 ^ { - 3 } ~ \\mathrm { { n m ^ { - 3 } } }$ is   \n168 considered when $R _ { s } < 4 . 2 5$ nm (0.75, 1.25, 1.75, 2.25, 2.75, 3.25 and 3.75   \n169 nm).   \n70 Fig. 3 presents results of sink strength under the 3D and 1D migration   \n71 limits. Similar to previous studies [10,13],a general agreement is found   \n72 between analytical theory and simulation. Whereas two significant discrep  \n73ancies can also be identified for small sinks under the 3D limit and for the   \n74 high volume fraction sinks. These discrepancies can be clearly displayed by   \n75relative errors, defined as the percentage ratio of simulated-analytical sink   \n76strength difference to analytical sink strength, i.e., $( k _ { s i m } ^ { 2 } - k _ { a n a } ^ { 2 } ) / k _ { a n a } ^ { 2 } \\times 1 0 0 \\%$ ：   \n77 As shown in Fig. 4(a), the simulated sink strength is about $3 3 \\%$ lower than   \n78 the analytical one for the smallest sink under the 3D migration limit. Mean  \n79 while,errors for the same sink radius are close. This indicates that the sink   \n80 radius is the key variable of such errors. However, for the 1D limit that   \n81 shown in Fig. 4(b)，similar errors for small sinks are not observed. With   \n82 the growing of sink radius,in the volume fraction range of $1 0 ^ { - 4 } \\sim 1 0 ^ { - 1 }$ ， the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "relative error reduces to nearly zero in both cases, suggesting a good agreement between theoretical works and simulations. When the volume fraction is above $1 0 ^ { - 1 }$ , the relative error grows very rapidly with the increase of sink volume fraction. This implies a large discrepancy between theory and simulation data. In order to eliminate the discrepancies, further investigations and additional corrections are required. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.2. Correction for small sinks ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The discrepancy for small sinks under the 3D migration limit is often attributed to different nature of diffusion mechanisms between the theory and the OKMC simulation [13, 16]. As shown in Fig. 5(a). For the theoretical model, the diffusion is a continuous process, where point defects are absorbed exactly at the sink surface. For the OKMC simulation, the diffusion is a discrete process composed of a series of individual hops, where the absorption takes place when a defect jumps into the sink. Since the jump distance $d$ is not zero, point defects in OKMC simulation can penetrate into the sink. The penetration area is not an ideal spherical surface but a spherical shell (gray area in Fig. $5 ( \\mathrm { a } )$ ). Therefore, $R _ { s }$ in the Eq. (2） should be revised by adding a correction term $\\Delta R$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 3 , s } ^ { 2 } = 4 \\pi ( R _ { s } + \\Delta R ) N _ { s } [ 1 + k _ { 3 , s } ( R _ { s } + \\Delta R ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "201 Here, $R _ { s } + \\Delta R$ , is denoted by $R _ { e f f }$ , namely the effective radius of the sink.   \n202 For the 3D limit, the thickness of the penetration area in the OKMC   \n203 model is the jump distance $d$ . Since the sink strength of spherical sinks varies   \n204 linearly with the radius for small sinks,the correction term $\\Delta R$ should be   \n205 weighted average of the penetration depth $p$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta R = - \\overline { { p } } = \\overline { { r - R _ { s } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "206 where $r = R _ { s } - p$ is the distance to sink center. For a certain $r$ , its possible   \n207 start point (red dot) of the last jump falls on a spherical cap surface with   \n208radius $d$ centered at destination point (black dot). Form $r$ to $r + \\mathrm { d } r$ , the pos  \n209 sible start point is given by shifting the spherical cap surface by ${ \\mathrm { d } } r$ (shadow   \n210area in Fig. 5(a)). The volume of this area is given by the differential of   \n211spherical cap volume[18]: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } V = \\pi { \\frac { d ^ { 4 } + ( r ^ { 2 } - R _ { s } ^ { 2 } ) ^ { 2 } - 2 d ^ { 2 } ( r ^ { 2 } + R _ { s } ^ { 2 } ) } { 4 r ^ { 2 } } } \\mathrm { d } r .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "212 The correction term is given by: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta R = \\overline { { r - R _ { s } } } = \\frac { \\int _ { R _ { s } - d } ^ { R _ { s } } ( r - R _ { s } ) 4 \\pi r ^ { 2 } \\frac { \\mathrm { d } V } { \\mathrm { d } r } \\mathrm { d } r } { \\int _ { R _ { s } - d } ^ { R _ { s } } 4 \\pi r ^ { 2 } \\frac { \\mathrm { d } V } { \\mathrm { d } r } \\mathrm { d } r } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "213 where $4 \\pi r ^ { 2 } { \\frac { \\mathrm { d } V } { \\mathrm { d } r } } \\mathrm { d } r$ represents the set of start points that can jump to a spherical   \n214shell between $r$ and $r + \\mathrm { d } r$ ， namely, the weight of $r$ . Substituting Eq. (6)   \n215 into Eq. (7),we have: ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta R = - \\frac { 5 d ^ { 2 } + 1 6 d R _ { s } - 3 0 R _ { s } ^ { 2 } } { 1 6 d ^ { 2 } + 3 0 d R _ { s } - 8 0 R _ { s } ^ { 2 } } d .\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "By substituting this correction term into Eq. (4),we calculated percentage errors after the effective radius correction. The modified sink strength and its corresponding relative error are calculated and summarized in Fig. 6. It clearly shows that that discrepancies for small sinks are perfectly removed after the effective radius correction. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We also noticed that there is no discrepancy for small sinks under 1D limit. This can be understood as follows. As shown in Fig. 5(b),under 1D migration limit, the sink strength is connected to the biggest cross-section of the sink perpendicular to the migration direction. Under the continuous diffusion mechanism, point defects are absorbed exactly at the sink surface. Therefore, the radius of the biggest cross-section is equal to the sink radius ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$R _ { s }$ . While in the OKMC simulation，as stated before, point defects can penetrate into the sink. The penetration area here is the gray area between the two spherical surfaces separated by $d$ in the migration direction. $R _ { e f f }$ （20 is thereby given by the radius of the biggest cross-section of the penetration area. Since defects penetrate along the migration direction， $R _ { e f f }$ is also equal to $R _ { s }$ . In this way, the discrete diffusion mechanism will not change the effective radius $R _ { e f f }$ ，and the correction term $\\Delta R = 0$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1.3. Correction for high volume fraction sinks ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The discrepancy at the high sink volume fraction region is likely a result of different sink configurations. In the OKMC simulation， sinks are randomly distributed in the simulation box and do not overlap with each other(non-overlap configuration). While in the theoretical model with the mean-feld approximation, sinks are considered to be randomly and uniformly distributed in the system without taking care to avoid the overlapping between sinks (overlap configuration). In order to verify this speculation, we also constructed an overlap configuration in the OKMC simulation. The sink strengths under this configuration are calculated and their corresponding relative error is presented in Fig. 7. Compared with Fig. 4, the relative error becomes nearly zero throughout the considered range, which supports our hypothesis about the sink configurations. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The distinct behaviors between two configurations are likely to originate from the sink volume fractions. For the non-overlapping configuration,its volume fraction $f _ { v }$ is given by: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { v } = 4 \\pi R _ { s } ^ { 3 } N _ { s } / 3 .\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "250 Due to the overlap between sinks, this formula does not apply to the overlap   \n251 configuration. In the overlap configuration, a larger sink density $N _ { s , l a p } > N _ { s }$ （204号   \n252 is required to occupy the same $f _ { v }$ to the non-overlap configuration. In this   \n253 case,we define a dummy volume fraction that given by simply summing all   \n254sinks without caring about the overlap: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { v } = 4 \\pi R _ { s } ^ { 3 } N _ { s , l a p } / 3 .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "255 The relationship between $f _ { v }$ and $F _ { v }$ is given by differential equations: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "256 ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { v } ( F _ { v } + \\mathrm { d } F _ { v } ) = f _ { v } ( F _ { v } ) + [ 1 - f _ { v } ( F _ { v } ) ] \\mathrm { d } F _ { v } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { v } \\left( f _ { v } = 0 \\right) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "257 where $1 - f _ { v } ( F _ { v } )$ represents the volume fraction of unoccupied regions. So  \n258 lution of these two equations is: ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { v } = \\ln { \\frac { 1 } { 1 - f _ { v } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "259 With this relationship,we find that the error function fits best with the   \n260 relative error at the high volume fraction of Fig. 4(b) and Fig. 6(b) is given   \n261 by: ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne = { \\frac { F _ { v } ^ { 4 } - f _ { v } ^ { 4 } } { f _ { v } ^ { 4 } } } = { \\frac { ( \\ln { \\frac { 1 } { 1 - f _ { v } } } ) ^ { 4 } - f _ { v } ^ { 4 } } { f _ { v } ^ { 4 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "262 In the low volume fraction region, the probability of overlap is very low,   \n263 and $F _ { v } ^ { \\prime }$ is practically equal to $f _ { v }$ . Therefore, the relative error arising from the   \n264sink distribution is invisible. However,as the volume fraction increases, the   \n265 overlap probability grows very rapidly. Therefore, the relative error becomes   \n266 significantly large at the high volume fraction region. It should be pointed   \n267 out that the overlap configuration is unrealistic in real materials, because $F _ { v }$   \n268 can exceed $1 0 0 \\%$ . In order to handle the defect interaction under the high   \n269 sink volume fractions,according to Eq. (14), the theoretical sink strengths   \n270 need to be corrected by multiplying a coeffcient $\\Big ( \\frac { \\ln { \\frac { 1 } { 1 - f _ { v } } } } { f _ { v } } \\Big ) ^ { 4 }$ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition, in the previous work of sink strength theory[1], Brailsford et al. pointed out an intrinsic part of their method is that the sample volume must be large compared with the inter-sink spacing in random arrays. This implies that the theoretical work is premised on the assumption of low sink volume fraction. Therefore, the additional correction for the high volume fraction sink should be reasonable. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1.4. Transition from 3D to 1D regime ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The sink strength of spherical sinks for the mixed 1D/3D migration, $k _ { 1 - 3 , s } ^ { 2 }$ ，canb tween the 1D and 3D limiting cases, i.e., ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\frac { 1 } { 2 } ( 1 + \\sqrt { 1 + 4 / x ^ { 2 } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "281 where $y$ and $x$ are two dimensionless variables. In the OKMC simulation, $y$ （20   \n282and $x$ are defined as: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "283 ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = k _ { 1 - 3 , s } ^ { 2 } / k _ { 1 , s } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx = \\frac { l _ { c h } ^ { 2 } k _ { 1 , s } ^ { 2 } } { 1 2 } + \\frac { k _ { 1 , s } ^ { 4 } } { k _ { 3 , s } ^ { 4 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "where $l _ { c h } = d \\sqrt { \\exp ( E _ { r } / k _ { B } T ) }$ is the average migration length between two direction changes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 8(a), the simulated sink strengths of different densities of sinks under the mixed 1D/3D limit are plotted as a function of rotation the energy $E _ { r }$ All simulations are conducted under the non-overlap configuration.Because we do not know the effective radius correction $\\Delta R$ under this situation, the radius of sinks is chosen to be 4.25 nm,which is large enough to avoid the error introduced by effective radius change and also small enough to avoid the error from the overlap configuration. Sink density $N _ { s }$ varies from $3 \\times 1 0 ^ { - 5 }$ （204号 to $1 . 5 \\times 1 0 ^ { - 4 } ~ \\mathrm { { n m ^ { - 3 } } }$ . As we can see, the sink strength smoothly transits from ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "94 3D to 1D migrating with the increasing $E _ { r }$ . And a rotation energy of 1.5   \n95eV is high enough to ensure a pure 1D migration. The master-curve defined   \n6 by Eq. (15) is illustrated in Fig. 8(b). Here we find that the analytical   \n7master-curve is in a perfect agreement with our simulated data. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2. Dislocation lines ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "According to the previous study [11], the theoretical sink strength of the 3D and 1D migration defects being absorbed by dislocation lines are [3, 4, 6]: ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 3 . d } ^ { 2 } = \\frac { 2 \\pi \\rho _ { d } ( 1 - \\pi \\rho _ { d } R _ { d } ^ { 2 } ) } { 0 . 2 5 \\pi \\rho _ { d } R _ { d } ^ { 2 } ( 4 - \\pi \\rho _ { d } R _ { d } ^ { 2 } ) - 0 . 7 5 - \\ln { ( R _ { d } \\sqrt { \\pi \\rho _ { d } } ) } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "301 and ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 1 . d } ^ { 2 } = 6 \\times \\left( \\pi R _ { d } \\rho _ { d } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "respectively. Here, $R _ { d }$ represents capture radius of the dislocation line, $\\rho _ { d } =$ （204号 $l _ { z } ^ { - 2 }$ is its surface density. Its volume fraction is given by $f _ { v } = \\pi R _ { d } ^ { 2 } \\rho _ { d }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.2.1. 3D limit ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Fig. 9(a) shows the sink strengths of dislocation lines under 3D migration 06 limit. Similar to the situation of spherical sinks,a good agreement between D7 simulation and theory is found but two discrepancies appear for dislocations 08 with small $R _ { d }$ and with high volume fraction. The former discrepancy arises 09 from the difference between diffusion mechanisms,which are continuous in L0 the theory while discrete in the OKMC. This discrepancy can be well reconl ciled by introducing the effective radius correction to Eq. (18). The corrected l2equation is given by: ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { 3 , d } ^ { 2 } = \\frac { 2 \\pi \\rho _ { d } [ 1 - \\pi \\rho _ { d } ( R _ { d } + \\Delta R ) ^ { 2 } ] } { \\frac { 1 } { 4 } \\pi \\rho _ { d } ( R _ { d } + \\Delta R ) ^ { 2 } [ 4 - \\pi \\rho _ { d } ( R _ { d } + \\Delta R ) ^ { 2 } ] - \\frac { 3 } { 4 } - \\ln { [ ( R _ { d } + \\Delta R ) \\sqrt { \\pi \\rho _ { d } } ] } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "313 Similar to Eq. (2), Eq. (18) is approximately a linear function of $R _ { d }$ when   \n314 $R _ { d }$ is small. Therefore,the correction term $\\Delta R$ should be similar to that ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "for spherical sinks. A detailed derivation of $\\Delta R$ is a little bit tedious. For simplicity, we shall use the $\\Delta R$ from Eq. (8)(simply replace $R _ { s }$ with $R _ { d }$ ） As shown in Fig. 9(b)，after the effective radius modification, the relative error in the low volume fraction region becomes nearly zero. On the other hand, the discrepancy at the high volume fraction cannot be explained as we discussed for the spherical sinks. This might be because that the analytical expression is based on an assumption that $\\rho _ { d }$ is a small value, i.e., the low sink volume fraction. And the periodic boundary condition，which might cause an interplay between vicinal dislocations, is obviously not included in the theoretical model. Since such discrepancy is not obvious until the volume fraction is higher than O.1, this is acceptable because the typical value in real materials is usually much smaller than 0.1. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2.2. 1D limit and the influence of the periodic configuration ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1O (a) and (b） show the sink strength and the relative error for dislocation lines under the 1D limit, grouped by dislocation surface densities. No effective radius correction is required here owing to the similar reason shown in the Fig. 5(b). The agreement between simulation and theory is less satisfactory than the 3D limit. Similar to the case of spherical sinks, a rapid growth of the relative error is also observed in the high volume fraction region, which can be described by Eq. (14). This indicates that the theoretical expression is also based on the overlap configuration. This significant error at the high volume fraction region can be eliminated by multiplying a coefficient $\\Big ( \\frac { \\ln { \\frac { 1 } { 1 - f v } } } { f _ { v } } \\Big ) ^ { 4 }$ to the right side of Eq. (19). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Figure. 1O(c) shows the relative error after the correction. All data are positive and show a zigzag behavior as a function of the sink volume fraction. These positive errors may origin from a truncation of the tail of very long distance migration before absorption. Namely, in a completely ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "342 random distribution of dislocations, free migration distance of point defects   \n343before its absorption should follow an exponential distribution [6]: ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( L ) = \\pi R _ { d } \\rho _ { d } \\exp ( - \\pi R _ { d } \\rho _ { d } L ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the free migration distance and $P ( L )$ is its probability density. Any positive $L$ can be achieved with a positive probability density in such configuration. However, in a periodic dislocation configuration， such very long distance migrations are cut out. Fig. 11 shows a sketch of this cuttail effect. In a periodically extended simulation box, 1D migration defects cannot travel to a distance longer than $L _ { c u t 1 }$ . Meanwhile, we also find that the cutoff distance $L _ { c u t }$ does not vary continuously with $R _ { d }$ . A slight reduction of the dislocation radius from $R _ { d 1 }$ to $R _ { d 2 }$ might cause a mutation of the cutoff distance ( $L _ { c u t 1 }$ to $L _ { c u t 2 }$ ). Such cut-tail effect will reduce the average migration distance,which consequently causes an overestimate of the theoretical sink strength. Therefore, the mutation of the cutoff distance is responsible for the zigzag behavior of relative errors. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "356 Figure $1 2 ( \\mathrm { a } )$ shows the cutoff distance in OKMC, $\\ L _ { c u t }$ ，as a function of   \n357 the sink volume fraction. The average migration distance, $\\overline { { L } } = ( \\pi R _ { d } \\rho _ { d } ) ^ { - 1 }$ [6],   \n358 calculated from Eq. (21) is also plotted for comparisons. With an increase of   \n359 the volume fraction, the cutoff distance decreases step by step like a staircase.   \n360 The ratio of $\\ b { L _ { c u t } }$ to $\\overline { { L } }$ is shown in Fig. 12(b). Four high peaks and four low   \n361 peaks can be clearly distinguished here. Each of them represents a mutation   \n362 of the cutoff distance. The high peaks in Fig. 12(b) correspond to four   \n363 main peaks of relative error in Fig. 1O(c) (labeled with green vertical lines),   \n364 while the low peaks correspond to four shoulder peaks of relative error in   \n365 Fig. 1O(c) (blue vertical lines). Although we are aware of the origin of these   \n366 error peaks,it is still very diffcult to build a complete random configuration   \n367 to eliminate them. More studies are required in the future to achieve a ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "consistency between theory and OKMC simulation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Note that, our results are different from the previous work by Jansson et al. [11], where the relative error tends to be negative in the low volume fractions,but positive in the high volume fraction region. This difference is likely contributed to the different simulation box we used. In our work, the ratio of box sides perpendicular to the dislocation is an irrational number, $l _ { x } : l _ { y } = \\sqrt { 2 }$ . While in the previous simulation, the ratios are rational numbers. It has been pointed out [1O] that in order to prevent endless migrations of 1D point defects,a non-cubic (non-square in this situation） box is instrumental to simulate correctly the 1D migrating defects. However,a box with a rational ratio, for instance $l _ { x } : l _ { y } = 4 0 0 a _ { 0 } : 3 5 0 a _ { 0 }$ ， is equally a square super-box with $L _ { x } : L _ { y } = 7 l _ { x } : 8 l _ { y } = 2 8 0 0 a _ { 0 } : 2 8 0 0 a _ { 0 }$ . The square super-box cannot completely prevent the endless migrations from happening in low sink volume fraction region. Once an endless migration is started, the point defect cannot be absorbed until the simulation is halted manually. This should be restrictively forbidden because it would increase the free migration distance unpredictively, and lead to a negative relative error in the low volume fraction region. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.2.3. Transition from 3D to 1D regime ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The transition between 3D migrating and 1D migrating is illustrated in Fig. 13(a). The capture radii were carefully chosen to ensure the volume fraction $f _ { v } = 0 . 0 0 5$ and $f _ { v } = 0 . 0 3$ . Because the simulation results fit very well with the theory for both 3D and 1D migrating at these volume fractions. The transition is more abrupt compared to the simulation of spherical sinks. The 1D regime is already reached at $E _ { r } = 1 . 0$ eV.Meanwhile, in the mastercurve representation (Fig. 13(b)), the simulation always gives a lower value than the analytical one in the 3D migrating region. This was also found in the previous study [11]. However, unlike their results, we find that the simulation data of the same volume fraction collapse onto the same curve, which indicates that the volume fraction should be the key variable of this discrepancy. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusion ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We performed a series of OKMC simulations to study the sink strengths of spherical sinks and dislocation lines with different radii and volume fractions. The simulation results were compared with the theoretical expressions derived from diffusion theory to evaluate the validity of these expressions, and further, to modify these expressions. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "For the small sinks, the discrepancy between the diffusion theory and simulation is caused by the different migration distances used in these two methods. This can be resolved by adding a correction term to the effective radius of sinks. For the high volume fraction sinks, the discrepancy is attributed to different sink configurations in two methods. It can be eliminated by introducing a compensation term of sink volume fraction to the theoretical expressions. For dislocation lines under the 1D migration limit,a zigzag like discrepancy is found. It is caused by the periodic distribution of dislocation lines adopted in OKMC. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Based on these results, the origins of the above discrepancies have been revealed and successfully resolved. This can extend the capability of mean-field approaches to properly reproduce the defect evolution of irradiated materials,and provide a better insight into experimental phenomena, such as the defect cluster, the irradiation-induced swelling and the blistering. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "19 Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Magnetic Confinement Fusion Program (Grant No.: 2015GB112001), the National Natural Science Foundation of China (Nos.: 11505229,11575229,11375231)， the Youth Innovation Promotion Association of CAS (2015384)，and by the Center for Computation Science, Hefei Institutes of Physical Sciences. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "425 [1] A.D. Brailsford, R. Bullough, Philos. Trans. R. Soc.London. 302 (1981)   \n426 87 - 137.   \n427 [2] R. Bullough, M. R. Hayns, M. H. Wood, J. Nucl. Mater. 90 (1980) 44 -   \n428 59.   \n429 [3] H. Wiedersich,Radiat. Eff.12(1972) 111 - 125.   \n430 [4] F. A. Nichols, J. Nucl. Mater. 75 (1978) 32 - 41.   \n431 [5] H.Rouchette, L. Thuinet,A. Legris,A.Ambard, C. Domain,Comput.   \n432 Mater. Sci. 88 (2014) 50 - 60.   \n433 [6] A.V. Brarshev, S. I. Golubov, H. Trinkaus,Philos. Mag. A 81 (2001)   \n434 2515 - 2532.   \n435 [7] M. J. Caturla,N. Soneda, E. Alonso, B. D. Wirth,T. Diaz de la Rubia,   \n436 J. M. Perlado, J. Nucl. Mater. 276 (2000) 13 - 21.   \n437 [8] N. Soneda, S. Ishino,A. Takahasi, K. Dohi, J. Nucl. Mater. 323 (2003)   \n438 169 - 180.   \n439 [9] C. Domain, C.S. Becquart,L. Malerba, J. Nucl. Mater. 335 (2004) 121   \n440 - 145.   \n441[10] L. Malerba, C. S. Becquart, C. Domain, J. Nucl. Mater.360 (2007) 159   \n442 - 169.   \n443[11] V. Jansson, L. Malerba, A. De Backer, C. S. Becquart, C. Domain, J.   \n444 Nucl. Mater. 442(2013) 218 - 226.   \n445[12] H. Trinkaus,H.L. Heinisch,A. V. Barashev, S. I.Golubov, B.N. Singh,   \n446 Phys. Rev. B 66 (2002) 060105.   \n447[13] H. L. Heinisch, B. N. Singh,S. I. Golubov, J. Nucl. Mater. 283 - 287   \n448 (2000) 737 - 740.   \n449[14] H. L. Heinisch,B.N. Singh，Philos.Mag.83(31-34) （2003） 3661 -   \n450 3676.   \n451[15] H. L. Heinisch, H. Trinkaus,B. N. Singh, J. Nucl. Mater. 367 - 370   \n452 (2007) 332 - 337.   \n453[16] R. E. Stoller, S. I. Golubov, C. Domain, C. S. Becquart, J. Nucl. Mater.   \n454 382 (2008) 77 - 90.   \n455[17] W. Young, E. Elcock,Proc. Phys. Soc.89(1966) 735.   \n456[18] R. Panvani, G.Ranchino, Comput. Chem. 6 (1982） 133 - 135.   \n457 Figure caption:   \n458 Figure 1 Schematic of the non-cubic box and the dislocation line model in   \n459 OKMC. The periodic boundary condition is applied in all three dimensions.   \n460 Figure 2(color online) The first to the fifth iterative order approximation   \n461 of Eq. (2). Here, the largest sink radius of our simulations, $R _ { s } = 1 0 . 2 5 ~ \\mathrm { n m }$ 1’   \n462is used for convergence test. The sink volume fraction is given by $f _ { v } \\ =$   \n463 $4 \\pi R _ { s } ^ { 3 } N _ { s } / 3$ ，where $N _ { s }$ is the number density of spherical sinks. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Figure 3(color online) Sink strength of spherical sinks with different radii versus sink volume fraction, lines are results of Eq. (2） and Eq. (3)，dots are the corresponding simulated results. (a) and (b) represents 3D migration and 1D migration limit, respectively. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure 4(color online) The relative error between theoretical and simulated sink strength that presented in Fig. 3. (a） and (b) represents 3D migration and 1D migration limit, respectively. The solid line represents the error estimated by Eq. (14). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure 5(color online) Schematics of a point defect being absorbed by a spherical sink under two different diffusion mechanisms. The gray area represents the penetration area in OKMC simulation. (a) 3D migration limit. The effective radius, $R _ { e f f }$ , is the weighted average of the penetration depth $p$ Shadow area represents possible start points those can jump into the segment from $r$ to $r + \\mathrm { d } r$ ; (b）1D migration limit. $R _ { e f f }$ is the radius of the biggest cross-section perpendicular to the migration direction of the penetration area, which equals sink radius $R _ { s }$ in this case. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure 6(color online) Results of 3D migration defects absorbed by spherical sinks with different radii, theoretical values are calculated by Eq. (4) with （204号 $\\Delta R$ from Eq. (8). (a) sink strength from simulation (dots) and the theoretical expression (lines). (b) the relative error between simulation and the theoretical expression, solid line represents the error estimated by Eq. (14). Figure 7(color online) The relative error between theoretical (by Eq. (4) with $\\Delta R$ from Eq. (8)，and by Eq. (3)） and simulated sink strength of spherical sinks,under a configuration that sinks are allowed to overlap without any reaction takes place. (a) and (b） represents 3D migration and 1D migration limits, respectively. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Figure 8(color online) The transition from 3D to 1D migration limit for 4.25 nm spherical sinks，grouped by sink densities.(a) simulated sink strength as a function of rotation energy, with temperature $T \\ = \\ 7 2 3$ K. (b) the master-curve representation, the solid line represents the theoretical relationship of x and y in Eq. (15), dots are the simulation results elaborated according to Eqs. (16) and (17). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 9(color online) Results of 3D migration defects absorbed by dis location lines, grouped by box sizes with a fixed ratio. (a) sink strength from simulation (empty dots） and theoretical expression (dotted and solid lines are the results from Eqs. (18) and (2O),respectively). (b) the relative error between simulation and theoretical expression (empty and solid dots are the results using Eqs. (18) and (20), respectively). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 1O(color online) Results of 1D migration defects absorbed by dislocation lines,grouped by box sizes with a fixed ratio. (a) sink strength from simulation (empty dots) and theoretical expression (solid lines). (b) the relative error between simulation and theoretical expression， the solid line represents the error estimated by Eq. (14). (c) data obtained by removing the error described by Eq. (14) from (b). Vertical lines are the corresponding position of mutation peaks in Fig. 12(b). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 11(color online) Schematics of 1D migration in a periodically extended simulation box in OKMC, picture is taken perpendicular to the direction of dislocation lines. Two kinds of round circles represent dislocation lines with different radii. The furthest migration distance, namely the cutoff distance, is labeled by $L _ { c u t 1 }$ and $L _ { c u t 2 }$ . Dislocations with radius $R _ { d 1 }$ (left) corresponding to a cutoff distance of $L _ { c u t 1 }$ ， while a slightly reduction of the dislocation radius from $R _ { d 1 }$ to $R _ { d 2 }$ (right） will cause a mutation of the cutoff distance from Lcut1 to Lcut2 . ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 12(color online) (a) the mutation of the cutoff distance (in the unit of box size $l _ { z }$ ）， $\\ L _ { c u t }$ , of 1D migration as the function of volume fraction, compared with the average migration distance, $\\overline { { L } }$ , obtained from Eq. (21). (b) the ratio of $L _ { c u t }$ to $\\overline { { L } }$ ， each peak represents a mutation of the cutoff distance. Four high peaks corresponding to the four main peaks of relative error in Fig. 1O(c), while the four lower peaks corresponding to four shoulder peaks of relative error in Fig. 10(c). ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure 13(color online) The transition from 3D to 1D migrating sink strength of point defects absorbed by dislocation lines, grouped by box sizes, where the volume fraction of sinks is fixed at $f _ { v } ~ = ~ 0 . 0 0 5$ and $f _ { v } ~ = ~ 0 . 0 3$ (denoted by empty and solid dots, respectively). (a) simulated sink strength as a function of rotation energy, with temperature $T = 7 2 3$ K. (b) the mastercurve representation, solid line represents the theoretical relationship of x and y in Eq. (15)，dots are the simulation results elaborated according to Eqs. (16) and (17). ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/095c89e33e7da3bb1bde6a98fe949bd17419f58414a63d48f0c3b7102895c56f.jpg",
+        "img_caption": [
+            "Figure 1: Schematic of the non-cubic box and the dislocation line model in OKMC.The periodic boundary condition is applied in all three dimensions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/071fdcfd9f863472c09d1fbe00cc8e231eba87c4a878588b8900276ac367a2bc.jpg",
+        "img_caption": [
+            "Figure 2: (color online) The first to the fifth iterative order approximation for sink strength from Eq. (2). Here, the largest sink radius of our simulations, $R _ { s } = 1 0 . 2 5 ~ \\mathrm { n m }$ , is used for convergence test. The sink volume fraction is given by $f _ { v } = 4 \\pi R _ { s } ^ { 3 } N _ { s } / 3$ ，where $N _ { s }$ is the number density of spherical sinks. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4e084969026a3a0e5829f112369baab5f2d493d96974c273ebae2adb36407d9.jpg",
+        "img_caption": [
+            "Figure 3: (color online) Sink strength of spherical sinks with different radii versus sink volume fraction,lines are results of Eq. (2) and Eq. (3), dots are the corresponding simulated results.(a) and (b) represents 3D migration and 1D migration limit,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/d19d71bcb6e731f7dac04af8dd812da4f3d5208e1b4d874917e7ccd00fcbb372.jpg",
+        "img_caption": [
+            "Figure 4: (color online) The relative error between theoretical and simulated sink strength that presented in Fig. 3. (a) and (b) represents 3D migration and 1D migration limit, respectively. The solid line represents the error estimated by Eq. (14). "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dc2c6680097f630596cab12c135be70a1fef5f089029a8c4405ef853ec48376.jpg",
+        "img_caption": [
+            "Figure 5: (color online) Schematics of a point defect being absorbed by a spherical sink under two different diffusion mechanisms. The gray area represents the penetration area in OKMC simulation. (a) 3D migration limit. The effective radius, $R _ { e f f }$ , is the weighted average of the penetration depth $p$ .Shadow area represents possible start points those can jump into the segment from $r$ to $r + \\mathrm { d } r$ ;(b)1D migration limit. $R _ { e f f }$ is the radius of the biggest cross-section perpendicular to the migration direction of the penetration area, which equals sink radius $R _ { s }$ in this case. "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba2e809cceb3f8995f500c242345e8620f927a695a73f538bcf6e505afcdee82.jpg",
+        "img_caption": [
+            "Figure 6: (color online) Results of 3D migration defects absorbed by spherical sinks with different radii, theoretical values are calculated by Eq. (4) with $\\Delta R$ from Eq. (8). (a) sink strength from simulation (dots) and the theoretical expression (lines). (b） the relative error between simulation and the theoretical expression，solid line represents the error estimated by Eq. (14). "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/f74ab85e9628461cc4c8e286b90f8c863ec5f66a3965f2fa86ac6bf0e565d8f9.jpg",
+        "img_caption": [
+            "Figure 7: (color online） The relative error between theoretical (by Eq.(4） with $\\Delta R$ （204 from Eq. (8),and by Eq. (3)) and simulated sink strength of spherical sinks,under a configuration that sinks are allowed to overlap without any reaction takes place. (a) and (b) represents 3D migration and 1D migration limits,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/c57b5f75ec27f469adaabc3849497a411431ee1ee4ea5ba39a1654e0aaeeb8a8.jpg",
+        "img_caption": [
+            "Figure 8: (color online) The transition from 3D to 1D migration limit for 4.25 nm spherical sinks,grouped by sink densities. (a) simulated sink strength as a function of rotation energy,with temperature $T = 7 2 3 \\mathrm { ~ K ~ }$ .(b）the master-curve representation, the solid line represents the theoretical relationship of x and y in Eq. (15),dots are the simulation results elaborated according to Eqs. (16) and (17). "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f8a5fadc153869ec581f6207b9b6593fce7d481de9773b4a2f09eb1ca40480a.jpg",
+        "img_caption": [
+            "Figure 9: (color online） Results of 3D migration defects absorbed by dislocation lines, grouped by box sizes with a fixed ratio. (a) sink strength from simulation (empty dots) and theoretical expression (dotted and solid lines are the results from Eqs. (18) and (20), respectively). (b) the relative error between simulation and theoretical expression (empty and solid dots are the results using Eqs. (18) and (20),respectively). "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/db59bef686227364c66225544e1420f0f51e76dd38bf01e7c57977992a7a44d1.jpg",
+        "img_caption": [
+            "Figure 10: (color online) Results of 1D migration defects absorbed by dislocation lines, grouped by box sizes with a fixed ratio. (a) sink strength from simulation (empty dots) and theoretical expression (solid lines). (b) the relative error between simulation and theoretical expression, the solid line represents the error estimated by Eq. (14). (c) data obtained by removing the error described by Eq. (14) from (b). Vertical lines are the corresponding position of mutation peaks in Fig. 12(b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/5765100553506c362a9bbf51cc89e8b44364349ccb1787ce02756137519115f6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Figure 11: (color online) Schematics of 1D migration in a periodically extended simulation box in OKMC,picture is taken perpendicular to the direction of dislocation lines. Two kinds of round circles represent dislocation lines with different radii. The furthest migration distance, namely the cutoff distance, is labeled by $L _ { c u t 1 }$ and $L _ { c u t 2 }$ . Dislocations with radius $R _ { d 1 }$ (left）corresponding to a cutoff distance of $L _ { c u t 1 }$ ,while a slightly reduction of the dislocation radius from $R _ { d 1 }$ to $R _ { d 2 }$ (right） will cause a mutation of the cutoff distance from $\\boldsymbol { L } _ { c u t 1 }$ to $L _ { c u t 2 }$ ",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4a79e607eca046daf39615f591ce230b0aad1d849f431fd3c74d55d0537f016.jpg",
+        "img_caption": [
+            "Figure l2: (color online)(a) the mutation of the cutoff distance (in the unit of box size （20 $l _ { z }$ ) $L _ { c u t }$ , of 1D migration as the function of volume fraction, compared with the average migration distance, $L$ ,obtained from Eq. (21)． (b) the ratio of $L _ { c u t }$ to $L$ ，each peak represents a mutation of the cutoff distance. Four high peaks corresponding to the four main peaks of relative error in Fig. $1 0 ( \\mathrm { c } )$ ，while the four lower peaks corresponding to four shoulder peaks of relative error in Fig. 10(c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6a65ddef0a839cd807af731baedacb366a35004dfaff91d52f123b48a4247c0.jpg",
+        "img_caption": [
+            "Figure 13: (color online) The transition from 3D to 1D migrating sink strength of point defects absorbed by dislocation lines,grouped by box sizes,where the volume fraction of sinks is fixed at $f _ { v } = 0 . 0 0 5$ and $f _ { v } = 0 . 0 3$ (denoted by empty and solid dots, respectively). (a) simulated sink strength as a function of rotation energy,with temperature $T = 7 2 3 \\textrm { K }$ ： (b) the master-curve representation, solid line represents the theoretical relationship of $\\mathbf { X }$ （204号 and y in Eq. (15), dots are the simulation results elaborated according to Eqs. (16) and (17). "
+        ],
+        "img_footnote": [],
+        "page_idx": 34
+    }
+]

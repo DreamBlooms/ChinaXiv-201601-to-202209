@@ -1,0 +1,744 @@
+[
+    {
+        "type": "text",
+        "text": "干旱区绿洲城市生态环境时空变化特征分析以克拉玛依市为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周玄德¹，郭华东²，杨胜天³，孜比布拉·司马义³，邓祖涛'，梁滨(1.湖北经济学院旅游与酒店管理学院,湖北 武汉430205；2.中国科学院对地观测与数字地球科学中心数字地球重点实验室,北京100094；3.新疆大学资源与环境科学学院,新疆 乌鲁木齐830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：干旱区绿洲城市生态环境极为脆弱，准确了解生态环境时空变动情况具有重要意义。选择典型的干旱绿洲城市克拉玛依市为研究对象,分别选取2001、2006、2011年和2016年4个时期的遥感影像，通过计算遥感生态指数表征生态环境质量状况，从变化趋势、空间分布、等级划分、变动特征及重心转移等方面进行分析。结果表明：(1)研究区遥感生态指数呈现波动性变化，整体水平不高，均维持在0.35上下波动，其中主要以低、较低等级的生态指数为主。(2)研究区生态指数等级变化主要表现为一个等级的变化，越级变化的较少，不同等级遥感生态指数区域面积在不同时间段的变化量、动态度差异显著。(3)低生态指数到高遥感生态指数的生态位表现为明显的上升趋势，生态位数值均较小，最大值仅0.3677,不同等级生态指数生态位的提升还有很大空间。(4）不同等级遥感生态指数的重心都出现了不同程度的偏移，其中高生态指数区域的空间移动性大，平均距离为 $4 2 . 6 0 \\mathrm { k m }$ ，低生态指数区域在空间上相对稳定。该研究探寻了人类活动过程中生态环境的时空变动规律，对干旱区绿洲城市的可持续发展具有一定的现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：绿洲；生态环境；遥感生态指数；时空变化；克拉玛依市文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "伴随城镇化建设速度持续加快，在促进经济社会发展的同时，生态环境受到的破坏也在持续增加[1]。近年来，由于城镇化引发显著的环境负效应，大量地理学者开始研究城镇化与生态环境的耦合[2-3],两者协调发展问题成为很多学者关注的热点[4]。如乔标等[5]依托系统学理论构建了城市化与生态环境协调发展的耦合模型，对两者的关系予以分析；陈晓红等研究发现城镇化与生态环境的耦合是人类活动干扰的结果；王少剑等在城市化与生态环境耦合模型的基础上对京津冀地区进行实证分析。以上研究均是在城镇化背景下探讨如何协调城镇化与生态环境的关系，实现两者的均衡持续健康发展，其中如何定量客观的评价城镇化与生态环境尤显重要。关于生态环境的评价研究比较多，在指标类型的选择上大致可以分为3类：一类是依托于统计数据综合指标的构建，如孙东琪等[8通过层次分析法构建了生态环境质量评价体系研究中国31个省市区的生态环境变化态势；另一类是统计数据、影像数据等多源数据的融合，如刘远书等[9]通过多源数据，包括统计数据、影像数据、监测数据等，构建了生态环境评价模型分析南水北调中线水源区生态环境变化特征;张春桂等[10]在GIS等软件的支持下，通过影像数据、气象数据、地形数据构建了生态环境质量监测模型；第三类是遥感数据源的模型构建，如徐涵秋11提出了遥感生态指数模型用以评价生态环境,并得到了广泛的应用[12-13]。数据源的获取难易程度、模型的可操作性均是生态环境评价模型选择的关键。当前，随着遥感技术的快速发展，依托遥感数据源为基础对生态环境的研究提供了极大的支撑，可以实现实时、快速、高效的对生态环境进行监测，因此依托遥感数据分析生态环境的时空变化越来越受到学者的重视[14]。在研究方法上，生态环境多以定量评价为主，主要通过层次分析法[8.15]、专家打分法[16]、主成分分析法[17-19]、熵值法[20]等确定评价指标权重，其中定量分析的客观性越来越受到学者们的认可。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆作为典型的干旱地区，生态环境脆弱，在城市化过程中引起周围环境变化的同时，生态环境也会反作用于城市化水平[21],城镇化与生态环境交互胁迫作用明显[22],因此及时准确的了解城镇化背景下生态环境时空变动情况意义显著，已有大量研究通过实证分析探寻干旱区城市化与生态环境之间的关系[23-25],然而基于遥感指数分析生态环境的研究较少。基于此，本文选取比较有代表性的干旱区绿洲城市克拉玛依市为研究对象，通过构建遥感生态指数模型，定量分析生态环境的时空变化特征，揭示绿洲生态环境时空变动规律，以期为西北干旱区绿洲城市生态环境评价提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "克拉玛依市位于准噶尔盆地西部,地貌相对单一，多为广阔平坦的戈壁滩,由4个区组成，其中城市中心位于克拉玛依区，是克拉玛依市的政治、经济中心。克拉玛依市是典型的资源型城市，以石油石化产业为主，其专业化的石油城市，在西部地区扮演着增长极的作用。石油开采给克拉玛依带来财富的同时，也给极其脆弱的生态环境带来了极大威胁。因此，选取克拉玛依市中心区域的克拉玛依区为研究对象，进一步深入了解人类活动下生态环境的时空变化特征，为后期改善生态环境，打造宜居城市提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用中国科学院计算机网络信息中心地理空间数据云平台(http://www.gscloud.cn)的美国陆地卫星LandsatTM/ETM $^ +$ VOLI影像数据，分辨率30m，主要包含2001、2006、2011年和2016年4期影像，成像时间较接近，数据云量覆盖较少，数据质量较好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该研究主要依托影像数据为基础，通过遥感生态指数模型，计算研究区生态指数，并对生态指数进行等级划分，基于空间分布、转化等视角深化研究。借助动态度、生态位模型，进一步细化不同等级生态指数的变化程度及发展态势。通过计算不同生态指数的重心位置及其偏移距离、偏移方向，揭示生态指数的空间变动规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1遥感生态指数模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "评价生态环境的模型采用徐涵秋提出的遥感生态指数(RSEI)。该方法通过遥感手段获取植被指数、湿度分量、地表温度、建筑-裸土指数，依次表征生态系统的绿度、湿度、热度、干度，利用主成分分析选取有效主成分用以反映生态环境。具体的计算公式如下[26-29]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } { = } ( \\rho _ { \\mathrm { N I R } } ^ { \\mathrm { \\Delta } } { - } \\rho _ { \\mathrm { R } } ^ { \\mathrm { \\Delta } } ) / ( \\rho _ { \\mathrm { N I R } } ^ { \\mathrm { \\Delta } } { + } \\rho _ { \\mathrm { R } } ^ { \\mathrm { \\Delta } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W E T } = C _ { 1 } \\rho _ { \\mathrm { B } } + C _ { 2 } \\rho _ { \\mathrm { G } } + C _ { 3 } \\rho _ { \\mathrm { R } } + C _ { 4 } \\rho _ { \\mathrm { N I R } } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathfrak { s } } \\rho _ { \\mathrm { s w I R } _ { 1 } } + C _ { \\mathfrak { s } } \\rho _ { \\mathrm { s w I R } _ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D B S I } = ( \\mathrm { I B I } + \\mathrm { S I } ) / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I B I } = \\frac { \\displaystyle \\frac { 2 \\rho _ { \\mathrm { { S W I R } _ { 1 } } } } { \\rho _ { \\mathrm { { S W I R } _ { 1 } } } + \\rho _ { \\mathrm { { N I R } } } } - \\rho _ { \\mathrm { { N I R } } } \\big ( \\rho _ { \\mathrm { { N I R } } } + \\rho _ { \\mathrm { { R } } } \\big ) - \\frac { \\rho _ { \\mathrm { { G } } } } { \\rho _ { \\mathrm { { G } } } + \\rho _ { \\mathrm { { S W I R } _ { 1 } } } } } { \\displaystyle \\frac { 2 \\rho _ { \\mathrm { { S W I R } _ { 1 } } } } { \\rho _ { \\mathrm { { S W I R } _ { 1 } } } + \\rho _ { \\mathrm { { N I R } } } } + \\rho _ { \\mathrm { { N I R } } } \\big ( \\rho _ { \\mathrm { { N I R } } } + \\rho _ { \\mathrm { { R } } } \\big ) + \\frac { \\rho _ { \\mathrm { { G } } } } { \\rho _ { \\mathrm { { G } } } + \\rho _ { \\mathrm { { S W I R } _ { 1 } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S I } = \\frac { \\left( \\rho _ { \\mathrm { { s w i R } _ { \\mathrm { 1 } } } } + \\rho _ { \\mathrm { { R } } } \\right) - \\left( \\rho _ { \\mathrm { { N I R } } } + \\rho _ { \\mathrm { { B } } } \\right) } { \\left( \\rho _ { \\mathrm { { s w i R } _ { \\mathrm { 1 } } } } + \\rho _ { \\mathrm { { R } } } \\right) + \\left( \\rho _ { \\mathrm { { N I R } } } + \\rho _ { \\mathrm { { B } } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { 1 \\setminus } C _ { 2 \\setminus } C _ { 3 \\setminus } C _ { 4 \\setminus } C _ { 5 \\setminus } C _ { 6 }$ 依次为计算湿度的系数。在TM影像中, $C _ { 1 } { = } 0 . 0 3 1 5$ ） $C _ { 2 } { = } 0 . 2 0 2 1$ 、 $C _ { 3 } { = } 0 . 3 1 0 2$ ） $C _ { 4 } \\mathrm { = }$ $0 . 1 5 9 4 \\cdot C _ { 5 } { = } { - } 0 . 6 8 0 6 \\cdot C _ { 6 } { = } { - } 0 . 6 1 0 9$ ；在 $\\mathrm { E T M } +$ 影像中， $C _ { 1 } { = }$ 0.2626 $\\scriptstyle , C _ { 2 } = 0 . 2 1 4 1 \\ , C _ { 3 } = 0 . 0 9 2 6 \\ , C _ { 4 } = 0 . 0 6 5 6 \\ , C _ { 5 } = - 0 . 7 6 2 9$ $C _ { 6 } { = } { - } 0 . 5 3 8 8$ ;在OLI影像中, $C _ { 1 } { = } 0 . 1 5 1 1 \\ 、 C _ { 2 } { = } 0 . 1 9 7 3 \\ 、 C _ { 3 } =$ 0.3283、 $\\scriptstyle C _ { 4 } = 0 . 3 4 0 7$ 、 $C _ { 5 } { = } { - } 0 . 7 1 1 7$ 、 $C _ { 6 } { = } { - } 0 . 4 5 5 9$ 。NDVI、WET、NDBSI、IBI、SI分别代表植被指数、湿度分量、建筑-裸土指数、建筑指数、裸土指数通过波段运算计算得到,其中 $\\rho _ { \\mathrm { B } \\setminus } \\rho _ { \\mathrm { G } \\setminus } \\rho _ { \\mathrm { R } \\setminus } \\rho _ { \\mathrm { N I R } \\setminus } \\rho _ { \\mathrm { S W I R } _ { \\mathrm { 1 } } \\setminus } \\rho _ { \\mathrm { S W I R } _ { \\mathrm { 2 } } }$ 分别表示Blue、Green $\\mathrm { R e d \\setminus N I R \\setminus S W I R } _ { 1 } \\setminus S W I \\mathrm { R } _ { 2 }$ 波段的反射率。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { L S T } = T { \\big / } { \\big [ } 1 + ( \\lambda T / \\rho ) \\ln \\varepsilon { \\big ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = K _ { 2 } \\bigg / \\ln \\left( \\frac { K _ { 1 } } { L _ { 6 / 1 0 } } + 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { 6 / 1 0 } = \\mathrm { g a i n } \\times \\mathrm { D N } + \\mathrm { b i a s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：在TM影像中 $K _ { 1 } { = } 6 0 7 . 7 6 \\ \\mathrm { W \\cdot ( m ^ { 2 } \\cdot s r \\cdot \\mu m ) ^ { - 1 } } , K _ { 2 } { = }$ $1 2 6 0 . 5 6 \\mathrm { ~ K ~ }$ ， $\\lambda { = } 1 1 . 4 3 5 0 ~ { \\mu } \\mathrm { m }$ ；在 $\\mathrm { E T M } +$ 影像中， $K _ { 1 } =$ 606.09W $\\cdot \\left( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { \\sigma } _ { \\mathrm { { s r } } } \\cdot \\mu \\mathbf { m } \\right) ^ { - 1 }$ ， $K _ { 2 } { = } 1 2 8 7 . 7 1 \\mathrm { ~ K ~ }$ ， $\\lambda { = } 1 1 . 3 3 5 0$ $\\mu \\mathrm { m }$ ;在TIRS 影像中, $K _ { 1 } { = } 7 7 4 . 8 9$ W $\\cdot ( \\mathbf { m } ^ { 2 } \\cdot \\mathbf { s } \\mathbf { r } \\cdot \\mu \\mathbf { m } ) ^ { - 1 }$ $K _ { 2 } =$ $1 3 2 1 . 0 8 \\ \\mathrm { K } , \\lambda { = } 1 0 . 9 0 0 0 \\ \\mu \\mathrm { m }$ ： $\\rho { = } 1 . 4 3 8 \\times 1 0 ^ { - 2 } \\mathrm { m K }$ 。LST为地表温度; $T$ 为传感器温度值; $\\lambda$ 为热红外波段的中心波长； $\\rho$ 为波尔兹曼常数; $\\boldsymbol { \\varepsilon }$ 为地表比辐射率，取值参见文献[3； $K _ { 1 } \\setminus K _ { 2 }$ 为定标系数； $L _ { 6 / 1 0 }$ 分别为TM/TIRS的热红外波段的辐射值，对应B6、B10波段；DN为像元灰度值;gain、bias依次为波段增益值、偏置值。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R S E I } { = } f \\mathrm { ( N D V I , W E T , L S T , N D B S I ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R S E I } _ { 0 } = 1 - \\left\\{ \\mathrm { P C 1 } \\big [ f ( \\mathrm { N D V I } , \\mathrm { W E T } , \\mathrm { L S T } , \\mathrm { N D B S I } ) \\big ] \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "-$\\mathrm { R S E I } = \\left( \\mathrm { R S E I } _ { \\mathrm { 0 } } - \\mathrm { R S E I } _ { \\mathrm { 0 - m i n } } \\right) / \\left( \\mathrm { R S E I } _ { \\mathrm { 0 - m a x } } - \\mathrm { R S E I } _ { \\mathrm { 0 - m i n } } \\right)$ (11)式中：RSEI为遥感生态指数，由绿度、湿度、热度、干度构成的函数； $\\mathrm { R S E I _ { 0 } }$ 为遥感生态指数初始值，即对PC1进行正规化处理后的值；PC1代表主成分分析后得到的第一主成分，即对植被指数、湿度分量、地表温度、建筑-裸土指数主成分变换后得到;RSEI为RSEI归一化后的值，其中 $\\mathrm { R S E I _ { \\mathrm { 0 - m i n } } } \\setminus \\mathrm { R S E I _ { \\mathrm { 0 - m a x } } }$ 分别代表RSEI的最小值、最大值。同时考虑遥感生态指数RSEI为0\\~1之间的连续取值，为了进一步从等级上深人分析生态环境的变化情况，对遥感生态指数RSEI以间隔0.2等间距划分为5个等级，分别表示不同等级的遥感生态指数区域，即低生态指数区(0.0\\~0.2）、较低生态指数区（0.2\\~0.4）、中等生态指数区（0.4\\~0.6）较高生态指数区(0.6\\~0.8）、高生态指数区(0.8\\~1.0)，依次表示为： $\\mathrm { ~ A ~ } , \\mathrm { ~ B ~ } , \\mathrm { ~ C ~ } , \\mathrm { ~ D ~ } , \\mathrm { ~ E ~ }$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于NDVI、WET、LST、NDBSI的量纲不一样，在主成分之前需要进行归一化处理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1显示，主成分分析中第一主成分的贡献率都在 $8 5 \\%$ 以上，能够反映4个指数的综合信息，可以用于表征生态环境状况，计算结果如图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2生态指数变化动态度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态指数变化动态度指研究区内一定时间范围内某种生态指数等级的数量变化[31]。该动态度是在土地利用动态度的基础上转化而来，用以定量分析研究期间各类遥感生态指数的变化幅度或快慢，是一个相对值，代表某一特定时间内某一类遥感生态指数的相对变化速度，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK \\mathrm { = } \\frac { U _ { b } - U _ { a } } { U _ { a } } \\times \\frac { 1 } { T } \\mathrm { = } \\frac { \\Delta U } { U _ { a } } \\times \\frac { 1 } { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $K$ 为动态度； $U _ { a } \\setminus U _ { b }$ 分别表示前后2个时期的值； $\\Delta U$ 为增加量; $T$ 为前后时期的间隔时间，取值为5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3生态位分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "生态位是用来描述某一生物物种与其所处群落中的其他物种的联系和与其所处环境的相互作用[32-33]。即在生态位模型的基础上,将研究区不同等级的遥感生态指数视为群落中的所有物种，探讨不同等级遥感生态指数在生态系统中获取资源的深度和广度，生态位的取值范围在0\\~1之间，值越大，该类区域在生态系统中的地位越高，获取资源的能力越强[34-36],反之越低，计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } = \\left( S _ { i } + A _ { i } \\times P _ { i } \\right) \\Biggl / \\sum _ { j = 1 } ^ { n } \\Bigl ( S _ { j } + A _ { j } \\times P _ { j } \\Bigr )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { i }$ 为第 $i$ 类生态指数的生态位； $S _ { i } { \\mathrm { \\Omega } }$ $A _ { i } , \\ P _ { i }$ 与$S _ { j }$ $\\mathit { \\Pi } _ { j } ^ { ' } , \\ A _ { j } ^ { ' } , \\ P _ { j }$ 分别表示第 $i , j$ 类生态指数的态、转化系数、势。“态\"表示不同等级遥感生态指数值，“势”表示不同等级遥感生态指数的变化量，转换系数为$0 . 2 , i \\cdot j { = } 1 , 2 , \\cdots , 5 \\circ$ （204",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4重心分析法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区域中某一要素的重心是指区域某一位置能够实现该要素力矩的平衡点[37]。在研究遥感生态",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1各主成分特征值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ec78a902c22f8fae5bd8769b95839d53c25d8c8ae22f8f0f27c6fb58f84b508.jpg",
+        "table_caption": [
+            "Tab.1 Eigenvalues of principal components "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">主成分</td><td colspan=\"2\">2001年</td><td colspan=\"2\">2006年</td><td colspan=\"2\">2011年</td><td colspan=\"2\">2016年</td></tr><tr><td>特征值</td><td>贡献率/%</td><td>特征值</td><td>贡献率/%</td><td>特征值</td><td>贡献率/%</td><td>特征值</td><td>贡献率/%</td></tr><tr><td>PC1</td><td>0.0992</td><td>85.6377</td><td>0.1047</td><td>85.7392</td><td>0.0505</td><td>85.5012</td><td>0.0894</td><td>89.4827</td></tr><tr><td>PC2</td><td>0.0112</td><td>9.6721</td><td>0.0139</td><td>11.3759</td><td>0.0048</td><td>8.1922</td><td>0.0069</td><td>6.8943</td></tr><tr><td>PC3</td><td>0.0040</td><td>3.4805</td><td>0.0026</td><td>2.1644</td><td>0.0027</td><td>4.5911</td><td>0.0034</td><td>3.4283</td></tr><tr><td>PC4</td><td>0.0014</td><td>1.2097</td><td>0.0009</td><td>0.7206</td><td>0.0010</td><td>1.7155</td><td>0.0002</td><td>0.1947</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/28aa3f502c48d4ab04ff7dcbe0789b75bd64ea883631a5104146ae172042d14b.jpg",
+        "img_caption": [
+            "图1克拉玛依区遥感影像(RGB：543)和遥感生态指数空间分布",
+            "Fig.1Remote sensing image (RGB: 543)and spatial distribution of remote sensing ecologicalindex of Karamay distr "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "指数重心的过程中，基于遥感生态指数等级划分的基础，借助ArcGIS软件实现各类遥感生态指数区域重心分析[38],计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\boldsymbol { X } , \\boldsymbol { Y } \\right) = \\left( \\frac { \\sum W _ { i } X _ { i } } { \\sum W _ { i } } , \\frac { \\sum W _ { i } Y _ { i } } { \\sum W _ { i } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $( X , Y )$ 为重心坐标; $\\boldsymbol { W } _ { i }$ 为区域 $i$ 的权重; $X _ { i }$ 为区域 $i$ 点的经度; $Y _ { i }$ 为区域 $i$ 点的纬度，即 $( X , Y )$ 是区域 $i$ 点的经纬度坐标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1遥感生态指数的基本统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据前面研究方法，得到了研究区遥感生态指数的相关统计值(表2)。研究发现，研究区遥感生态指数呈现波动性变化。2001年遥感生态指数为0.3523,2006年遥感生态指数为0.3446,相比上一时期略微下降，2011、2016年遥感生态指数依次为0.3592、0.3184，总体水平不高，主要是由于克拉玛依区绝大部分区域被戈壁覆盖，其中遥感生态指数高的区域主要集中在东南部的小拐乡、西南部的五五新镇、东部沿边的玛纳斯河及后期开发的大农业基地。4个时期，遥感生态指数的标准差均维持在0.2上下波动，说明了研究区遥感生态指数空间差异性相对不大。在构成遥感生态指数的4个指标中，NDVI、WET和NDBSI指标值都在正常范围,均值相对较小，标准差也较小，整体空间差异不大；LST相",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7d2639583034127af0dbe20b0096514d9e54cab35fc5da5e89d23702d61877c.jpg",
+        "table_caption": [
+            "表2生态指数及相关指标基本统计值",
+            "Tab.2 Basic statistic values of remote sensing ecological indices and relative indices "
+        ],
+        "table_footnote": [
+            "注：NDVI、WET、LST、NDBSI依次为植被指数、湿度分量、地表温度、建筑-裸土指数,依次表征生态系统的绿度、湿度、热度、干度;RSEI为遥感生态指数。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">指标</td><td colspan=\"4\">2001年</td><td colspan=\"4\">2006年</td></tr><tr><td>最小值</td><td>最大值</td><td>均值</td><td>标准差</td><td>最小值</td><td>最大值</td><td>均值</td><td>标准差</td></tr><tr><td>NDVI</td><td>-1.0000</td><td>0.7604</td><td>0.1280</td><td>0.1318</td><td>-1.0000</td><td>0.7795</td><td>0.1449</td><td>0.1582</td></tr><tr><td>WET</td><td>-0.5470</td><td>0.0665</td><td>-0.2016</td><td>0.0614</td><td>-0.5733</td><td>0.0714</td><td>-0.1785</td><td>0.0596</td></tr><tr><td>LST</td><td>29.3201</td><td>57.8943</td><td>47.2234</td><td>3.3495</td><td>12.0327</td><td>38.5387</td><td>32.3419</td><td>3.0871</td></tr><tr><td>NDBSI</td><td>-0.6327</td><td>1.0000</td><td>0.1971</td><td>0.0890</td><td>-0.5184</td><td>1.0000</td><td>0.1927</td><td>0.1156</td></tr><tr><td>RSEI</td><td>0.0000</td><td>1.0000</td><td>0.3523</td><td>0.1234</td><td>0.0000</td><td>1.0000</td><td>0.3446</td><td>0.1256</td></tr><tr><td rowspan=\"2\">指标</td><td colspan=\"4\">2011年</td><td colspan=\"4\">2016年</td></tr><tr><td>最小值</td><td>最大值</td><td>均值</td><td>标准差</td><td>最小值</td><td>最大值</td><td>均值</td><td>标准差</td></tr><tr><td>NDVI</td><td>-0.5216</td><td>1.0000</td><td>0.1945</td><td>0.1968</td><td>-0.7725</td><td>0.8619</td><td>0.2935</td><td>0.2601</td></tr><tr><td>WET</td><td>-0.7883</td><td>0.1483</td><td>-0.1664</td><td>0.0692</td><td>-1.3451</td><td>0.2144</td><td>-0.0472</td><td>0.0764</td></tr><tr><td>LST</td><td>19.9292</td><td>47.4173</td><td>36.2315</td><td>4.5555</td><td>15.7962</td><td>46.5827</td><td>35.8338</td><td>6.3602</td></tr><tr><td>NDBSI</td><td>-0.7142</td><td>1.0000</td><td>0.1600</td><td>0.1417</td><td>-0.6426</td><td>0.5799</td><td>0.0730</td><td>0.2099</td></tr><tr><td>RSEI</td><td>0.0000</td><td>1.0000</td><td>0.3592</td><td>0.2026</td><td>0.0000</td><td>1.0000</td><td>0.3184</td><td>0.2579</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对较高，标准差较大，由于单位的不统一，与其他3个指标在数值上差异较大,进一步说明了模型运算时统一量纲的必要性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2遥感生态指数空间等级分布",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过图2、表3研究发现,2001、2006、2011年较低遥感生态指数区域面积较多，依次为2637.34$\\mathrm { k m ^ { 2 } } \\setminus 1 8 3 1 . 2 8 \\ \\mathrm { k m ^ { 2 } } \\setminus 2 0 3 5 . 4 2 \\ \\mathrm { k m ^ { 2 } }$ ，分别占整个区域的$6 8 . 4 6 \\%$ ） $4 7 . 5 4 \\%$ ） $5 2 . 8 4 \\%$ ；2016年低遥感生态指数区域面积最多，达到 $2 1 0 7 . 6 0 \\ \\mathrm { k m } ^ { 2 }$ 。占总面积的$5 4 . 7 1 \\%$ 。2001年以来，处于较高、高等级的遥感生态指数区域面积增长较显著，总体表现为增长的趋势。2001年较高、高生态指数区域总面积为160.78$ { \\mathrm { k m } } ^ { 2 }$ ，占总面积的 $4 . 1 7 \\%$ ;2006年该类生态指数总面积为 $7 2 . 2 2 \\ \\mathrm { k m } ^ { 2 }$ ，占总面积的 $1 . 8 7 \\%$ ，相比2001年下降了 $5 5 . 0 8 \\%$ ;2011、2016年较高、高生态指数总面积为 $6 7 5 . 0 4 \\ \\mathrm { k m } ^ { 2 } \\cdot 7 6 9 . 6 5 \\ \\mathrm { k m } ^ { 2 }$ ，依次占总面积的 $1 7 . 5 2 \\%$ 、注：A、B、C、D、E依次为低、较低、中等、较高、高生态指数区。下同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9477557ff0c9df7972305c1eb6f45396bcef06363a167776ef8e8058eb0534c7.jpg",
+        "img_caption": [
+            "图2遥感生态指数等级空间分布",
+            "Fig.2Spatial distribution of different remote sensing ecological index grades "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/389134a7161ba2a85d606c10946d725d0998de3a2a02ca970eb044c6db379f62.jpg",
+        "table_caption": [
+            "表3不同遥感生态指数等级面积百分比",
+            "Tab.3 Area percent of different remote sensing ecological index grades "
+        ],
+        "table_footnote": [
+            "注：A、B、C、D、E依次为低、较低、中等、较高、高生态指数区。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RSEI等级</td><td colspan=\"2\">2001年</td><td colspan=\"2\">2006年</td><td colspan=\"2\">2011年</td><td colspan=\"2\">2016年</td></tr><tr><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td></tr><tr><td>A</td><td>223.70</td><td>5.81</td><td>1547.53</td><td>40.17</td><td>656.16</td><td>17.03</td><td>2107.60</td><td>54.71</td></tr><tr><td>B</td><td>2637.34</td><td>68.46</td><td>1831.28</td><td>47.54</td><td>2035.42</td><td>52.84</td><td>592.43</td><td>15.38</td></tr><tr><td>C</td><td>830.42</td><td>21.56</td><td>401.18</td><td>10.41</td><td>485.61</td><td>12.61</td><td>382.55</td><td>9.93</td></tr><tr><td>D</td><td>127.42</td><td>3.31</td><td>70.19</td><td>1.82</td><td>519.34</td><td>13.48</td><td>416.90</td><td>10.82</td></tr><tr><td>E</td><td>33.36</td><td>0.87</td><td>2.03</td><td>0.05</td><td>155.70</td><td>4.04</td><td>352.75</td><td>9.16</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 9 . 9 8 \\%$ ，相比2001年增长了3.20、3.79倍。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2001年以来，由于研究区大面积区域属于戈壁，几乎无植被覆盖，遥感生态指数整体较低，大面积的处于中等水平以下，其中主要以低、较低等级遥感生态指数为主。随着克拉玛依市产业转型升级，尽管较高、高遥感生态指数面积相对较低，但增长的趋势比较明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3遥感生态指数的等级变化监测 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在遥感生态指数等级划分的基础上，对2001、2006、2011、2016年4个年份的遥感生态指数进行波段运算，用后一时相与前一时相遥感生态指数等级分布图进行做差，分别得到2001—2006年、2006—2011年、2011—2016年、2001—2016年4个时间段遥感生态指数的等级变化图(图3），图例的数值表示等级变化的程度，其中大于0表示升级、小于0表示降级，等于0表示等级没有变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过图3、表4发现，2001年以来4个时间段遥感生态指数等级变化主要集中在-1\\~1之间，其中2001一2006年，主要以降级为主，空间上分布相对均匀，面积为 $2 0 3 9 . 1 2 \\mathrm { k m } ^ { 2 }$ ，占总面积的 $5 2 . 9 4 \\%$ ,遥感生态指数提升的区域主要集中在大农业基地;2006一2011年，主要以升级为主，空间分布上相对均匀，升级区域面积 $1 8 5 8 . 7 5 \\ \\mathrm { k m } ^ { 2 }$ ，占总面积的$4 8 . 2 4 \\%$ ，一半左右的区域生态状况保持不变；2011一2016年，研究区生态指数下降、不变、改善的区域面积分别为 $1 8 8 9 . 9 7 ~ \\mathrm { k m } ^ { 2 } \\setminus 1 3 1 2 . 6 7 ~ \\mathrm { k m } ^ { 2 } \\setminus 6 4 9 . 5 9$ $ { \\mathrm { k m } } ^ { 2 }$ ，依次占总面积的 $4 9 . 0 6 \\% , 3 4 . 0 8 \\% , 1 6 . 8 6 \\%$ ，该阶段遥感生态指数下降明显，下降区域主要位于研究",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc1002adb3a1f6b4de210b5d4fae1570c2134df10943dcf1739d4f5fec4ff898.jpg",
+        "img_caption": [
+            "图3遥感生态指数等级变化",
+            "Fig.3Grade change of remote sensing ecological index "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2502dcc491f84dc54f2348b78ad22896654b94351ffc5fc3a8f81d074d859a4b.jpg",
+        "table_caption": [
+            "Tab.4 Grade change of remote sensing ecological index "
+        ],
+        "table_footnote": [
+            "注：-表示遥感生态指数没有此等级变化。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">等级</td><td colspan=\"2\">2001—2006年</td><td colspan=\"2\">2006—2011年</td><td colspan=\"2\">2011—2016年</td><td colspan=\"2\">2001—2016年</td></tr><tr><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td><td>面积/km²</td><td>占比/%</td></tr><tr><td>-4</td><td>0.32</td><td>0.01</td><td>一</td><td>一</td><td>0.54</td><td>0.01</td><td>0.49</td><td>0.01</td></tr><tr><td>-3</td><td>6.01</td><td>0.16</td><td>0.35</td><td>0.01</td><td>13.11</td><td>0.34</td><td>3.59</td><td>0.09</td></tr><tr><td>-2</td><td>85.68</td><td>2.22</td><td>5.29</td><td>0.14</td><td>82.31</td><td>2.14</td><td>212.22</td><td>5.51</td></tr><tr><td>-1</td><td>1947.11</td><td>50.55</td><td>57.60</td><td>1.50</td><td>1794.00</td><td>46.57</td><td>1920.38</td><td>49.85</td></tr><tr><td>0</td><td>1662.55</td><td>43.16</td><td>1930.25</td><td>50.11</td><td>1312.67</td><td>34.08</td><td>797.16</td><td>20.69</td></tr><tr><td>1</td><td>126.27</td><td>3.28</td><td>1403.79</td><td>36.44</td><td>494.87</td><td>12.85</td><td>399.94</td><td>10.38</td></tr><tr><td>2</td><td>22.81</td><td>0.59</td><td>376.10</td><td>9.76</td><td>126.26</td><td>3.28</td><td>396.98</td><td>10.31</td></tr><tr><td>3</td><td>1.46</td><td>0.04</td><td>72.90</td><td>1.89</td><td>28.09</td><td>0.73</td><td>121.34</td><td>3.15</td></tr><tr><td>4</td><td>0.01</td><td>0.00</td><td>5.96</td><td>0.15</td><td>0.37</td><td>0.01</td><td>0.12</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "区北部，南部区域生态环境改善明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2001年以来，研究区生态情况得到改善的区域主要集中分布在克拉玛依市主城区、大农业基地及小拐乡、五五新镇及129团、130团等区域，该类区域属于人类活动的场所，是通过对荒漠改造后的绿洲。人类不断的优化、美化生活条件，生态环境状况得到提升。不过人类活动场所周围区域的生态遭到了破坏，相比2001年的原始状态，生态质量下降明显，特别是五五新镇到克拉玛依市区的G217国道路段周边的生态恶化严重。克拉玛依区遥感生态指数的演变一方面体现了人类在改善生存条件上的能力，同时也给脆弱的生态带来了严峻考验。因此，人们应该在充分考虑实际情况的前提下，发挥人类主观能动性的同时，寻求自然、经济、社会的协调可续发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4不同等级遥感生态指数变动度分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在遥感生态指数等级划分的基础上，通过公式计算得到了3个时间段遥感生态指数区域面积的变化量及动态度(表5)。2001—2006年，低遥感生态指数区域的增加量高达 $1 3 2 3 . 8 3 ~ \\mathrm { k m } ^ { 2 }$ ，动态度为",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 1 8 . 3 6 \\%$ ，说明该时间段，低遥感生态指数区域越来越多；其他等级的生态指数的动态度均为负，说明该类区域面积均表现为不同程度的减少，其中高生态指数动态度绝对值较大，说明其减少的程度较大。2006一2011年，低生态指数的区域动态度为$- 1 1 . 5 2 \\%$ ，小于0,说明该类区域在逐年减少，转化为更高的等级；较低及以上的生态指数区域动态度均为正值，反映了该类生态指数在这5a间，均不同程度的增加，特别是生态指数较高的区域增长较快，动态度高达 $1 5 1 0 . 7 6 \\%$ 。2011—2016年，低、高遥感生态指数区动态度均大于0，依次为 $4 4 . 2 4 \\%$ 、$2 5 . 3 1 \\%$ ,2类区域均表现为扩张的趋势，其中低遥感生态指数区扩张更显著；其他等级的遥感生态指数均不同程度的减少。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在对每类遥感生态指数的比较上发现，低、较低、中等生态指数区的变动表现为上升、下降、上升的\"N\"型特征，其中低生态指数上升的速度降低，较低、中等生态指数区动态度的绝对值较小，说明近20a来该类区域面积总体变动不大；较高生态指数区表现为下降、上升、下降的倒\"N\"型动态变化特征；高生态指数区表现为下降、上升、上升的\"P\"型动态变化特征，说明该类区域的面积增加显著，也和前面的分析相一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cc06eb9837fa8ebf228fae9c7857464191f33da6d1ddd7b16ed377e340b3115.jpg",
+        "table_caption": [
+            "表4遥感生态指数等级变化统计",
+            "表5不同等级遥感生态指数变化量及动态度",
+            "Tab.5Variations and dynamic attitudes of different remote sensing ecological index grades "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RSEI等级</td><td colspan=\"2\">2001—2006年</td><td colspan=\"2\">2006- -2011年</td><td colspan=\"2\">2011—2016年</td></tr><tr><td>增加量/km²</td><td>动态度/%</td><td>增加量/km²</td><td>动态度/%</td><td>增加量/km</td><td>动态度/%</td></tr><tr><td>A</td><td>1323.83</td><td>118.36</td><td>-891.37</td><td>-11.52</td><td>1451.44</td><td>44.24</td></tr><tr><td>B</td><td>-806.06</td><td>-6.11</td><td>204.14</td><td>2.23</td><td>-1442.99</td><td>-14.18</td></tr><tr><td>C</td><td>-429.23</td><td>-10.34</td><td>84.43</td><td>4.21</td><td>-103.06</td><td>-4.24</td></tr><tr><td>D</td><td>-57.22</td><td>-8.98</td><td>449.15</td><td>127.97</td><td>-102.44</td><td>-3.95</td></tr><tr><td>E</td><td>-31.32</td><td>-18.78</td><td>153.66</td><td>1510.76</td><td>197.06</td><td>25.31</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从3个时间段上不同等级遥感生态指数区的均值变化量、动态度分析发现，在量的变化上，低生态指数区域变化明显，其中低、较低的生态指数区均值变化量依次为 $1 2 2 2 . 2 2 \\mathrm { k m } ^ { 2 } , 8 1 7 . 7 3 \\mathrm { k m } ^ { 2 }$ ；在速率的变化上，高遥感生态指数区域优势明显，其中高、较高的生态指数区均值动态度分别为 $5 1 8 . 2 8 \\%$ 、$4 6 . 9 7 \\%$ 。研究区内部主要是以低遥感生态指数区域为主，高遥感生态指数区域相对较少，因此微弱的变动都会带来较高的动态度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5不同等级遥感生态指数生态位分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了更加深入的分析不同等级生态指数在生态系统中的位置，选用生态位理论模型进行研究，分析不同等级遥感生态指数的生态位，即通过遥感生态指数生态位和势有机结合反映遥感生态指数生态位宽度，计算结果见表6。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究结果显示，在3个时间点上，研究区从低生态指数到高生态指数的生态位依次在0.05、0.10、0.20、0.28、0.35上下波动，反映了不同等级生态指数小系统的相对稳定性。低生态指数到高生态指数生态位的变化均表现为明显的上升趋势，即生态指数等级与生态位表现为正相关，生态指数等级越高生态位越高，说明了生态环境越好的地方，获取资源的能力越强。主要是因为人们对生态环境的要求越来越高，在不断的维护、美化生态环境，从而保持生态环境的优良状态。但是，不同等级遥感生态指数生态位的数值均较小，最大值仅0.3677，因此，在生态系统中，不同等级生态指数生态位的提升还有很大空间。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6不同等级遥感生态指数重心转移变化分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了探讨不同等级遥感生态指数的空间位置变动情况，采用重心模型，分别计算各类生态指数的重心位置及空间变动情况，结果如下。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过计算得到不同遥感生态指数的重心经纬度坐标、偏移距离、方位角及偏移分布图(表7、表8和图4)。对每类遥感生态指数重心距离变动大小比较发现，2001年以来，高生态指数的重心偏移最大，平均距离为 $4 2 . 6 0 \\mathrm { k m }$ ，较高生态指数的重心偏移次之，平均距离为 $1 5 . 3 9 \\mathrm { k m }$ ，低、中等、较低生态指数重心平均偏移距离分别为 $1 2 . 8 4 \\ \\mathrm { k m } \\ . 8 . 2 1 \\ \\mathrm { k m } \\ . 6 . 8 2$ $\\mathrm { k m }$ 。其中，2001一2006年，较低生态指数重心偏移距离最小，为 $3 . 3 6 \\mathrm { k m }$ ，高生态指数的重心偏移距离最大，达到 $4 7 . 7 0 ~ \\mathrm { k m }$ ，较高生态指数的偏移距离次之，为 $1 3 . 0 7 \\ \\mathrm { k m } ; 2 0 0 6 { - - 2 0 1 1 }$ 年，高生态指数重心偏移距离最大，偏移距离为 $4 4 . 6 2 \\mathrm { k m }$ ,其次是较高生态指数，偏移距离为 $3 2 . 3 6 \\mathrm { k m }$ ，低生态指数重心偏移距",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/636008110f735860d9fb82b071a3cb82b36782fbaec9cfb972e6d839645612c6.jpg",
+        "table_caption": [
+            "Tab.6 Mean value and niche of different remote sensing ecological index grades "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RSEI等级</td><td rowspan=\"2\">2001年 RSEI均值</td><td colspan=\"2\">2001- -2006年</td><td rowspan=\"2\">2006年 RSEI均值</td><td colspan=\"2\">2006 -2011年</td><td rowspan=\"2\">2011年 RSEI均值</td><td colspan=\"2\">2011- -2016年</td><td rowspan=\"2\">2016年 RSEI均值</td></tr><tr><td>势</td><td>生态位</td><td>势</td><td>生态位</td><td>势</td><td>生态位</td></tr><tr><td>A</td><td>0.1778</td><td>-0.0399</td><td>0.0546</td><td>0.1379</td><td>0.0103</td><td>0.0606</td><td>0.1482</td><td>-0.0167</td><td>0.0521</td><td>0.1315</td></tr><tr><td>B</td><td>0.3045</td><td>-0.0349</td><td>0.1104</td><td>0.2696</td><td>0.0016</td><td>0.1094</td><td>0.2712</td><td>0.0062</td><td>0.1132</td><td>0.2774</td></tr><tr><td>C</td><td>0.4789</td><td>-0.0121</td><td>0.1952</td><td>0.4668</td><td>0.0362</td><td>0.2056</td><td>0.5030</td><td>-0.0021</td><td>0.2033</td><td>0.5009</td></tr><tr><td>D</td><td>0.6914</td><td>-0.0367</td><td>0.2721</td><td>0.6547</td><td>0.0317</td><td>0.2791</td><td>0.6864</td><td>0.0255</td><td>0.2913</td><td>0.7119</td></tr><tr><td>E</td><td>0.8519</td><td>0.0190</td><td>0.3677</td><td>0.8709</td><td>-0.0116</td><td>0.3453</td><td>0.8594</td><td>-0.0186</td><td>0.3401</td><td>0.8408</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c272f1584c8cfd8ecb04db3333ebec5af2cdc9abcbccc2b3b67146c6b0d265ad.jpg",
+        "table_caption": [
+            "表6不同等级遥感生态指数均值及生态位",
+            "表7不同遥感生态指数重心经纬度坐标",
+            "Tab.7Latitude and longitude coordinates of gravity center of different remote sensing ecological index grades "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RSEI 等级</td><td colspan=\"2\">2001年</td><td colspan=\"2\">2006年</td><td colspan=\"2\">2011年</td><td colspan=\"2\">2016年</td></tr><tr><td>经度/E</td><td>纬度/N</td><td>经度/E</td><td>纬度/N</td><td>经度/E</td><td>纬度/N</td><td>经度/E</td><td>纬度/N</td></tr><tr><td>A</td><td>85°00'13.51880\"45°06'38.45573\"</td><td></td><td>84°57'37.04680\" 45°09'44.24302\"</td><td></td><td>84°57'05.06798\" 45°03'44.26575\"</td><td></td><td>84°54'30.91428\" 45°14'59.11490\"</td><td></td></tr><tr><td>B</td><td>84°54'50.28787\" 45°13'28.15689\"</td><td></td><td>84°52'15.42253\" 45°13'33.02934\"</td><td></td><td>84°53'27.15518\" 45°16'44.03351\"</td><td></td><td></td><td>84°54'02.83357\" 45°10'47.48842\"</td></tr><tr><td>C</td><td>84°51'25.98427\" 45°06'06.34960\"</td><td></td><td>84°54'52.09637\" 45°08'19.29840\"</td><td></td><td></td><td>84°53'53.87569\" 45°05'18.73948\"</td><td></td><td>84°57'39.73842\" 45°11'42.68208\"</td></tr><tr><td>D</td><td>85°03'51.65940\" 45°16'40.94337\"</td><td></td><td>84°58'57.01781\" 45°22'49.77506\"</td><td></td><td>84°55'47.51930\" 4505'30.36632\"</td><td></td><td></td><td>8455'18.64866\" 45°05'43.32496\"</td></tr><tr><td>E</td><td>8505'19.97127\" 45°18'41.47623\"</td><td></td><td></td><td>84°44'34.73225\"44°57'30.56622\"</td><td>85°02'13.76825\" 45°18'08.03169\"</td><td></td><td>84°54'02.74515\" 44°59'54.89837\"</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0db6a623bb680d07c781e336e0db74cce30b15d69338d437cae9c05fe58d5014.jpg",
+        "table_caption": [
+            "表8不同等级遥感生态指数重心偏移距离与方位角",
+            "Tab.8 Gravity offset distance and azimuth angle of different remote sensing ecological index grades "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">RSEI 等级</td><td colspan=\"2\">2001—2006年</td><td colspan=\"2\">2006—2011年</td><td colspan=\"2\">2011—2016年</td></tr><tr><td>偏移距离/km</td><td>方位角/()</td><td>偏移距离/km</td><td>方位角/()</td><td>偏移距离/km</td><td>方位角()</td></tr><tr><td>A</td><td>6.55</td><td>328.65</td><td>11.18</td><td>183.62</td><td>20.79</td><td>350.84</td></tr><tr><td>B</td><td>3.36</td><td>270.95</td><td>6.05</td><td>14.91</td><td>11.04</td><td>175.96</td></tr><tr><td>C</td><td>6.08</td><td>47.74</td><td>5.72</td><td>192.84</td><td>12.83</td><td>22.54</td></tr><tr><td>D</td><td>13.07</td><td>330.72</td><td>32.36</td><td>187.33</td><td>0.74</td><td>302.14</td></tr><tr><td>E</td><td>47.70</td><td>214.80</td><td>44.62</td><td>31.06</td><td>35.47</td><td>197.55</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f651e53f7d822f4814c69aaa394cc9abbf1fe598efa43f7eb64205331d7e3ce9.jpg",
+        "img_caption": [
+            "图4不同等级遥感生态指数重心转移",
+            "Fig.4 Center shift of different remote sensing ecological index grades "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "离为 $1 1 . 1 8 \\mathrm { k m }$ ，其他的依次为较低、中等生态指数，该类重心的偏移距离都在 $1 0 . 0 0 ~ \\mathrm { k m }$ 以内；2011—2016年，高生态指数重心偏移距离最大，偏移距离为 $3 5 . 4 7 \\mathrm { k m }$ ,说明该时间内，高生态指数在空间位置上的移动比较大，较高生态指数的偏移距离最小，仅 $0 . 7 4 \\mathrm { k m }$ ，低生态指数的偏移距离为 $2 0 . 7 9 \\ \\mathrm { k m }$ ，较低、中等遥感生态指数的重心偏移距离依次为",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$1 1 . 0 4 \\mathrm { k m } \\ 、 1 2 . 8 3 \\mathrm { k m }$ 。总体说明研究区不同等级遥感生态指数在空间位置上变动性特征，高生态指数区域的空间移动性较强，低生态指数区域在空间上相对稳定。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过对不同等级遥感生态指数重心的移动方向分析发现，低生态指数整体向西北方向移动，说明研究区西北区域低生态指数分布增长明显；较低生态指数整体上向正南移动，说明较低生态指数在空间上南移的方向性明显；中等生态指数主要位于研究区的居中位置，2001年来，该区域的重心整体向东北方向移动，说明中等生态指数区域整体向东北方向移动的趋势；较高生态指数重心的移动距离较大，由2001年的玛纳斯河附近移动到大农业区域附近，2011、2016年该区域的重心位于小拐乡的西南部；高生态指数重心偏移距离最大，移动方向上表现为交替性特征，即该区域的重心先后在研究区的东部玛纳斯河附近区域、东南部五五新镇2个位置实现了移动、折返、移动的交替性规律，反映了研究区高生态指数空间分布的变动特征。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过对移动距离、移动方向的综合分析发现，高生态指数的重心主要是围绕小拐乡、五五新镇2个区域变动，该区域分布着大量的农田，区域面积较大，对该类区域重心的分布影响较大，说明该类区域对整个研究区生态环境优化的重要性。在克拉玛依市主城区也零星分布着生态指数较高的区域，主要为公园植被、居民区绿化、水体等，但是在大生态系统中的比重相对较少。由此体现城市郊区的生态指数高于市中心的特性，主要是高生态指数集聚的效果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文以干旱区绿洲城市克拉玛依市为例，采用遥感生态指数模型定量分析了2001、2006、2011、2016年研究区生态指数现状及空间分布特征。结果表明：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）2001年以来，克拉玛依区遥感生态指数呈现波动性变化，整体水平不高，均维持在0.35上下波动，其中主要以低、较低等级的生态指数为主。(2）克拉玛依区生态指数等级变化集中一个等级的升降，越级变化的较少。然而不同等级遥感生态指数域面积在不同时间段的变化量、动态度差异显著。(3）研究区从低到高遥感生态指数生态位的变化表现为明显的上升趋势，体现生态指数等级越高生态位越高，即生态环境质量越好的地方，获取资源的能力越强。然而不同等级遥感生态指数生态位的数值均较小，最大值仅0.3677，不同等级生态指数生态位的提升还有很大空间。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（4）不同等级遥感生态指数的重心都出现了不同程度的偏移，其中高生态指数区域的空间移动性较强，低生态指数区域在空间上相对稳定。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文以遥感生态指数反映生态环境质量，其时空变化特征的研究，对于促进城镇管理与规划具有借鉴意义。通过研究内容的分析发现，城市中的农田、公园植被、居民区绿化、水体等元素在维持较好的生态环境方面作用显著，体现着人类保护环境的能力。然而G217国道路段周边的生态恶化严重，反映了人类活动给脆弱的生态带来的破坏。以上2方面的综合分析不难发现城镇化的加速与实施环境保护之间并不冲突，关键在于如何处理好城市发展与环境保护之间的关系，对城市社会经济和生态环境保持良性发展的可持续性影响重大。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]周亮,车磊,孙东琪.中国城镇化与经济增长的耦合协调发展及 影响因素[J].经济地理,2019,39(6):97-107.[Zhou Liang,Che Lei, Sun Dongqi. The coupling coordination development between urbanization and economic growth and its influencing factors in China[J]. Economic Geography,2019,39(6): 97-107.]   \n[2]崔学刚,方创琳,李君,等.城镇化与生态环境耦合动态模拟模 型研究进展[J].地理科学进展,2019,38(1):111-125.[Cui Xuegang,Fang Chuangling,Li Jun,et al.Progress in dynamic simulation modeling of urbanization and ecological environment coupling [J]. Progress in Geography,2019,38(1): 111-125.]   \n[3]张洪,李中元,李彦.基于生态安全的山地城镇土地可持续利用 模式研究—以云南大理市为例[J].地理研究,2019,38(11): 2681-2694.[Zhang Hong,Li Zhongyuan,Li Yan. Study on sustainable land use model in mountain towns based on ecological security:Taking Dali City of Yunnan Province as an example[J]. Geographical Research,2019,38(11): 2681-2694.]   \n[4]蒋慧峰.城镇化与生态环境耦合协调发展研究[J].经济研究导 刊,2019(4):157-161.[Jiang Huifeng.Study on coupling and coordinated development between urbanization and eco-environment[J]. Economic Research Guide,2019(4): 157-161.]   \n[5]乔标,方创琳.城市化与生态环境协调发展的动态耦合模型及 其在干旱区的应用[J].生态学报,2005,25(11):211-217.[Qiao Biao,Fang Chuangling. The dynamic coupling model of the harmonious development between urbanization and eco-environment and its application in arid area[J].Acta Ecologica Sinica,2005,25 (11): 211-217.]   \n[6]陈晓红,万鲁河.城市化与生态环境耦合的脆弱性与协调性作 用机制研究[J].地理科学,2013,33(12):1450-1457.[Chen Xiaohong,Wan Luhe.The interactive mechanisms for the coordination and vulnerability between regional urban and eco-environment[J]. Scientia Geographica Sinica,2013,33(12): 1450-1457.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7]王少剑,方创琳,王洋.京津冀地区城市化与生态环境交互耦合 关系定量测度[J].生态学报,2015,35(7):2244-2254.[Wang Shaojian,Fang Chuangling,Wang Yang.Quantitative investigation of the interactive coupling relationship between urbanization and eco-environment[J].Acta Ecologica Sinica,2015,35(7): 2244- 2254.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8] 孙东琪,张京祥,朱传耿,等.中国生态环境质量变化态势及 其空间分异分析[J].地理学报,2012,67(12):1599-1610.[Sun Dongqi, Zhang Jingxiang, Zhu Chuangeng,et al.An assessment of China's ecological environment quality change and its spatial variation[J].Acta Geographica Sinica,2012,67(12): 1599-1610.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9]刘远书,高文文,侯坤,等.南水北调中线水源区生态环境变化 分析研究[J].长江流域资源与环境,2015,24(3):440-446.[Liu Yuanshu,Gao Wenwen,Hou Kun,et al.Analysis of ecological environment change on watershed of the middle route of south-north water diversion project[J]. Resources and Environment in the Yangtze Basin,2015,24(3): 440-446.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10]张春桂,李计英.基于3S技术的区域生态环境质量监测研究 [J].自然资源学报,2010,25(12):2060-2071.[Zhang Chungui, LiJiying.Study of regional eco-environmental quality monitoring based on 3S techniques[J]. Journal of Natural Resources,2010, 25 (12): 2060-2071.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11]徐涵秋.城市遥感生态指数的创建及其应用[J].生态学报, 2013,33(24): 7853-7862.[Xu Hanqiu.A remote sensing urban ecological index and itsapplication[J].Acta Ecologica Sinica, 2013,33(24): 7853-7862.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12]吴志杰,王猛猛,陈绍杰,等.基于遥感生态指数的永定矿区生 态变化监测与评价[J].生态科学,2016,35(5):200-207.[Wu Zhijie,Wang Mengmeng,Chen Shaojie,etal.Monitoringand evaluation of ecological environment’s spatio-temporal variation in mine based on RSEI in Yongding mine[J].Ecological Science,2016,35 (5): 200-207.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13]宋慧敏,薛亮.基于遥感生态指数模型的渭南市生态环境质量 动态监测与分析[J].应用生态学报，2016,27(12):3913-3919. [Song Huimin,Xue Liang.Dynamic monitoring and analysis of ecological environment in Weinan City,northwest China based on RSEI model[J]. Chinese Journal of Applied Ecology,2016,27(12): 3913-3919.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14]闫正龙,高凡,何兵.3S技术在我国生态环境动态演变研究中 的应用进展[J].地理信息世界,2019,26(2):43-48.[Yan Zhenglong,Gao Fan,He Bing.Review on the application of 3S technologies in the dynamic evolution of ecological environment at China [JJ. Geomatics World,2019,26(2): 43-48.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[15]单薇,金晓斌,孟宪素,等.基于多源遥感数据的土地整治生态 环境质量动态监测[J].农业工程学报，2019,35(1):234-242. [Shan Wei, Jin Xiaobin,Meng Xiansu,et al.Dynamical monitoring of ecological environment quality of land consolidation based on multi-source remote sensing data[J].Transactions of the Chinese Societyof Agricultural Engineering,2019,35(1): 234-242.] ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16] 顾成林,周健.大连市生态环境质量研究[J].黑龙江环境通报, 2012,36(3): 37-40.[Gu Chenglin, Zhou Jian. Research on ecological environment quality of Dalian City[J].Heilongjiang Environmental Journal,2012,36(3): 37-40.]   \n[17] 周玄德,窦文章,李国栋.西山煤田生态变化的遥感监测与评价 [J].中国矿业,2019,28(1): 108-114,121.[Zhou Xuande,Dou Wenzhang,Li Guodong. Remote sensing monitoring and evaluation of the ecological changes in Xishan coalfield[J]. China Mining Magazine,2019,28(1): 108-114,121.]   \n[18] 张浩,杜培军,罗洁琼,等.基于遥感生态指数的南京市生态变 化分析[J].地理空间信息,2017,15(2):58-62.[Zhang Hao,Du Peijun,Luo Jieqiong,et al. Ecological change analysis of Nanjing City based on remote sensing ecological index[J]. Geospatial Information,2017,15(2): 58-62.]   \n[19] 刘智才,徐涵秋,李乐,等.基于遥感生态指数的杭州市城市生 态变化[J].应用基础与工程科学学报,2015,23(4):728-739. [Liu Zhicai,Xu Hanqiu,Li Le,et al.Ecological change in the Hangzhou area using the remote sensing based ecological index[J]. Journal of Basic Science and Engineering,2015,23(4): 728-739.]   \n[20] 周玄德,孜比布拉·司马义,严姗,等.克拉玛依市经济增长与生 态环境关系的计量分析[J].水土保持通报,2013,33(2):236- 240.[Zhou Xuande,Simayi Zibibula,Yan Shan, et al. Econometric analysison relationship of economic growth and eco-environ ment in Karamay City[J]. Bulltin of Soil and Water Conservation, 2013,33(2): 236-240.]   \n[21] 方创琳,杨玉梅.城市化与生态环境交互耦合系统的基本定律 [J].干旱区地理,2006,29(1): 1-8.[Fang Chuanglin,Yang Yumei.Basic laws of the interactive coupling system of urbanization and ecological environment[J].Arid Land Geography,2O06,29(1): 1-8.]   \n[22] 雷军,李建刚,段祖亮,等.喀什城市圈城镇化与生态环境交互 胁迫效应研究综述[J].干旱区地理,2018,41(6):1358-1366. [Lei Jun,Li Jiangang,Duan Zuliang,et al. Research review on reciprocal coercing effect between urbanization and eco-environment in Kashgar metropolitan, Xinjiang,China[J].Arid Land Geography,2018,41(6): 1358-1366.]   \n[23] 张亚如,张军民.城镇化与经济发展的时空相互作用机制研究 以新疆为例[J].干旱区地理,2020,43(3):839-848.[Zhang Yaru, Zhang Junmin. Spatio-temporal interaction mechanism of urbanization and economic development: A case of Xinjiang[J]. Arid Land Geography,2020,43(3): 839-848.]   \n[24] 谭华,智海,李艳春,等.城市化及湖泊湿地修复对银川市气候 影响初探[J].干旱区地理,2019,42(3): 509-516.[Tan Hua, Zhi Hai, Li Yanchun,et al.Influence of urbanization and lake wetland restoration on theclimate evolution in Yinchuan City[J].Arid Land Geography,2019,42(3): 509-516.]   \n[25] 周亮,朱彦儒,孙东琪.河西走廊城乡居民点空间分异特征及绿 洲孕育度分析[J].干旱区地理,2020,43(1):227-236.[Zhou Liang,Zhu Yanru,Sun Dongqi.Spatial differentiation characteristics and oasis breed degree of urban and rural residents in Hexi Corridor[J].Arid Land Geography,2020,43(1): 227-236.]   \n[26] 徐涵秋.区域生态环境变化的遥感评价指数[J].中国环境科学, 2013,33(5): 889-897.[Xu Hanqiu.A remote sensing index for assessment of regional ecological changes[J]. China Environmental Science,2013,33(5): 889-897.]   \n[27] 王俊祺,潘文斌.生态环境变化遥感评价指数的应用研究- 以敖江流域为例[J].环境科学与管理,2014,39(12):186-190. [Wang Junqi,Pan Wenbin. Application of remote ecological changes sensing index in assesing of Aojiang watershed[J]. Environmental Science and Management, 2014,39(12): 186-190.]   \n[28] 牛安逸,马姣娇,陈志云.基于遥感技术及综合指数法的广州市 自然生态环境评价[J].中国城市林业,2015,13(6):11-15,63. [Niu Anyi,Ma Jiaojiao,Chen Zhiyun.Natural ecological environment evaluation in Guangzhou based on remote sensing technology and comprehensive index method[J]. Journal of Chinese Urban Forestry,2015,13(6): 11-15,63.]   \n[29] 周玄德,郭华东,孜比布拉·司马义,等.干旱区绿洲城市遥感生 态指数变化监测[J].资源科学,2019,41(5):1002-1012.[Zhou Xuande,Guo Huadong, Simayi Zibibula,et al. Change of remote sensing ecological index of an oasis city in the arid area[J].Resources Science,2019,41(5): 1002-1012.]   \n[30]Nichol J. Remote sensing of urban heat islands by day and night [J].Photogrammetric Engineering and Remote Sensing, 2005,71 (6): 613-621.   \n[31] 孙倩,塔西甫拉提·特依拜,张飞,等.渭干河-库车河三角洲绿 洲土地利用/覆被时空变化遥感研究[J].生态学报,2012,32 (10): 3252-3265.[Sun Qian,Tiyip Tashpolat,Zhang Fei,et al. Dynamics of land use/cover changes in the Weigan and Kuqa Rivers delta oasis based on remote sensing[J]. Acta Ecologica Sinica, 2012,32(10): 3252-3265.]   \n[32] 彭莹,严力蛟.基于生态位理论的浙江省旅游城市竞争发展策 略[J].生态学报,2015,35(7):2195-2205.[Peng Ying,Yan Liji",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ao.Competition relationship among tourist cities in Zhejiang Province based on the niche theories[J].Acta Ecologica Sinica,2015, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "35(7): 2195-2205.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33] 于海洋,张飞,王娟,等.土地经济生态位在县域景观格局分析 中的应用—以新疆精河县为例[J].应用生态学报,2015,26 (12): 3849-3857.[Yu Haiyang, Zhang Fei,Wang Juan,et al.Application of land economic ecological niche in landscape pattern analysis at county level: A case study of Jinghe County in Xinjiang,China[J]. Chinese Journal of Applied Ecology,2015,26(12): 3849-3857.]   \n[34] 乔慧捷,胡军华,黄继红.生态位模型的理论基础、发展方向与 挑战[J].中国科学:生命科学,2013,43(11):915-927.[Qiao Huijie,Hu Junhua,Huang Jihong.Theoretical basis,future directions, and challenges for ecological niche models[J]. Scientia Sinica Vitae,2013,43(11): 915-927.]   \n[35] 程乾,方琳.生态位视角下长三角文化旅游创意产业竞争力评 价模型构建及实证[J].经济地理,2015,35(7):183-189.[Cheng Qian,Fang Lin. Competitiveness evaluation model and empirical research of cultural tourism creative industry in Yangtze River Delta based on ecological niche[J]. Economic Geography,2015,35 (7): 183-189.]   \n[36] 孟德友,陆玉麒.基于生态位理论的城市生态位研究—以河 南各省辖市为例[J].地域研究与开发,2008,27(2):56-59.[Meng Deyou,Lu Yulin.A quantitative study on the city niche based on the niche theory:A case of cities under the jurisdiction of Henan Province[J]. Areal Research and Development, 2008,27(2): 56-59.]   \n[37] 吴凯,顾晋饴,何宏谋,等.基于重心模型的丘陵山地区耕地利 用转换时空特征研究[J].农业工程学报,2019,35(7):247-254. [Wu Kai,Gu Jinyi,He Hongmou,et al. Spatiotemporal characteristics of cultivated land use transition in hilly and mountainous regions based on barycenter model[J]. Transactions of the Chinese Society of Agricultural Engineering,2019,35(7): 247-254.]   \n[38]王德怀,李旭东.贵州乌江流域人口与经济发展协调性研究[J]. 地理科学,2019,39(3):477-486.[Wang Dehuai,Li Xudong. Coordination of population and economic development in the Wujiang River Basin of Guizhou Province[J]. Scientia Geographica Sinica,2019,39(3): 477-486.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Temporal and spatial variation characteristics of oasis urban ecological environment in arid region: A case study of Karamay City ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Xuande'， GUO Huadong²， YANG Shengtian³， Zibibula SIMAYI, DENG Zutao'， LIANG Bin' (1.Schoolof Tourismand Hospitality Management,Hubei Universityof Economics,Wuhan 43O2O5,Hebei,China; 2.KeyLaboratoryofDigitalEarth,CenterforEarthObservationandDigitalEarth,hineseAcademyofSiences,eijng00094, China;3.College of Resourseand Environmental Sienceof Xinjiang University,Urumqi 83o046,Xinjiang,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The ecological environment of oasis cities in arid regions isextremely fragile.Accurately understanding the spatiotemporal changes in the ecological environment of such cities due to urbanization is of great significance.Karamay, Xinjiang,China, which is anoasis city inanaridregion,was selectedas theresearch object in this study.It is located in the most vast and flat gobi desert; this area has becomea gathering point of the petroleum and petrochemical industry, which has greatly stressed the fragile ecological environment.LandsatTM/ $\\mathrm { E T M + / O L I }$ remote sensing images from four time periods (2001,2006,2011,and 2016) were collected, and a remote sensing ecological index was used to reflect the ecological environment.The variation degree,ecological niche,and gravity center methods were adopted to model the variation，spatial distribution，classification, variation characteristics,and gravity center transfer of the ecological environment.The following conclusions were obtained.(1） The remote sensing ecological index was not high in the study area and fluctuated approximately O.35.The ecological index values were generally low. (2) Changes in the ecological index grade mainly manifested as rises and fals with few sudden increases.The areas of different types of remote sensing ecological index domains varied significantly among diferent time periods.(3）The changes in the ecological niche from low to high showed an obvious upward trend.This indicates that a higher ecological index level represents a higher ecological niche; in other words,beter ecological environment quality improves the ability to obtain resources.However, the niche values of diferent types of remote sensing ecological indices were al small with a maximum value of 0.3677. Thus, there remains much space for improving the niche of different types of ecological indices.(4) The center of gravity of diffrent types of remote sensing ecological indices shifted to different degrees.The regions with a high ecological index had strong spatial mobility with an average distance of $4 2 . 6 0 \\mathrm { k m }$ ,whereas regions with a low ecological index were relatively stable spatially. This study explored the temporal and spatial variations in the ecological environment due to human activities and found that urban farmland,park vegetation,residential greening, water,and other elements play a significant role in maintaining a good ecological environment. These results demonstrate humans’ability to protect the environment. However, there was serious ecological deterioration around the G217 National Highway，which reflects the ecological damage caused by human activities.The above conclusions show that the aceleration of urbanization and implementation of environmental protection need not be in conflict.Understanding the relationship between urban development and environmental protection is significant for the sustainable development of oasis cities in arid regions. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: oasis； ecological environment; remote sensing ecological index；spatio-temporal variation； Kara-may City",
+        "page_idx": 12
+    }
+]

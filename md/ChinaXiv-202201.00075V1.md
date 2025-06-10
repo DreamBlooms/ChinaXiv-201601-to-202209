@@ -1,0 +1,161 @@
+# 新疆天山山区夏季降水日变化特征及其与海拔高度关系
+
+郭玉琳1²，赵勇²，周雅蔓23，黄秋霞4，余贞谊2.5，顾张杰¹(1.新疆阿勒泰地区气象局,新疆 阿勒泰836500；2.成都信息工程大学大气科学学院,四川 成都 610225;3.新疆维吾尔自治区气象台,新疆 乌鲁木齐830002；4.新疆昌吉回族自治州气象局,新疆 昌吉831100;5.江西省庐山市气象局，江西 九江 332900)
+
+摘要：天山山区是新疆干旱区降水最为充沛的区域，已有针对该区域降水的研究大多使用日降水及以上尺度资料，降水日变化特征分析相对较少。基于天山山区11个国家气象站2012—2018年夏季(6—8月)逐小时降水资料,分析降水特征量(包括降水量、降水频次和降水强度)的日变化特征,揭示降水与海拔高度的关系。结果表明：总降水量和总降水频次的峰值出现在20:00—22:00，谷值出现在12:00—13:00。夜间降水多于白天，主要由长时降水贡献。总降水强度呈现出白天整体增强、夜间偏弱的特征。降水与海拔高度密切联系，小雨等级降水在高海拔山区频发，在海拔$2 0 0 0 \mathrm { m }$ 左右存在一个最大降水带。
+
+关键词：降水量；降水频次；降水强度；日变化；海拔
+
+# 文章编号：
+
+降水日变化作为地球上天气和气候变化中最显著的信号之一,具有明显的区域差异[1-2]。对特定区域降水日变化特征的分析与研究，更能准确地反映出一个区域天气气候发展和演变的规律，也因此成为气象学者研究的热点问题之一。早在20世纪40年代，我国就开始了相关研究，吕炯[3最早发现了“巴山夜雨"的日变化现象。21世纪以来，宇如聪等[4]指出我国复杂的地形和海陆分布对开展降水日变化特征的相关研究更为有利。陈炯等5认为，我国不同区域的中尺度对流系统和短时强降水的日变化具有不同的传播特性和活跃时段，这很难与较大尺度的天气系统环流、地势和海陆等地理分布脱离关系。吕翔等借助TRMM资料研究中南半岛地区夏季降水的日变化，发现陆地上降水日变化的振幅和位相受地形、山脉和太阳辐射的共同影响。李德帅指出华南东部的降水日变化主要受到海陆环流的作用，华南西部的降水日变化主要受山谷环流的影响。Chen等提出大尺度环流和青藏高原地形的共同作用，导致了长江流域夜间降水的峰值。白爱娟等揭示了区域降水日变化与地形之间的密切关系，发现傍晚前后青藏高原中部的对流系统有所增强，之后又向东传播，到达四川盆地的时间恰好为后半夜，这就是著名的盆地"夜雨”
+
+新疆地处我国西北部，是极为典型的干旱、半干旱区域,不同地域的降水日变化有其独特的气候特征。陈春艳等"揭示出暖湿背景下，南、北疆范围内5一9月的降水量并不是一致的东部少、西部多，很可能与新疆复杂地形下的局地气候特征有关联。杨霞等"对比乌鲁木齐市冬季降雪和夏季降雨的区域差异，结果显示城区多发冬季强降雪，山区则更易出现夏季强降雨。杨霞等还对比发现了冬、夏两季伊犁河谷累积降水频次的高发区域存在显著差异，夏季主要出现在山区，冬季则主要出现在平原。郑博华等3发现喀什地区全年降水主要以后半年和上午开始的降水过程为主，并且多为短时段降水。赵战成等4发现塔克拉玛干沙漠东
+
+# 干吴区地理
+
+部边缘各测站降雨量级以小雨频次为主导频次，最小频次则为暴雨频次。
+
+以往大多研究发现地形是导致降水日变化的一个重要因子，目前针对新疆降水日变化的研究多集中在盆地或谷地，山区降水的日变化特征讨论甚少。天山山区是新疆降水最为充沛的区域，已有针对该区域降水的研究大多利用日降水及以上相对较长时间尺度资料[15-17]。相对而言，小时尺度资料具有较高的时间分辨率，也更能准确的反应出降水事件的时间变化特点和发生发展的规律[18]。因此,本文基于2012—2018年夏季(6—8月)逐小时降水数据，分析天山山区夏季降水的日变化特征，并揭示其与海拔高度的关系。
+
+# 1研究区、数据与方法
+
+# 1.1 研究区概况
+
+研究区位于中国境内的新疆天山山区，位置介于 $8 1 ^ { \circ } 0 8 ^ { \prime } { \sim } 9 4 ^ { \circ } 4 2 ^ { \prime } \mathrm { E }$ ， $4 2 ^ { \circ } 4 6 ^ { \prime } { \sim } 4 3 ^ { \circ } 5 3 ^ { \prime } \mathrm { N }$ 之间，海拔$1 1 0 5 . 3 { \sim } 3 5 3 9 . 0 \mathrm { m }$ 。天山横亘于亚洲腹地，呈纬向分布，天山山系是亚洲中部最大的山系。习惯上将中国境内的天山称之为东天山，中亚地区的天山称之为西天山。东天山横亘于新疆全境，是南北疆气候的分水岭，东西长约 $1 7 0 0 \mathrm { k m }$ ，占天山山系总长度的2/3,南北宽为 $2 5 0 { \sim } 3 5 0 \ \mathrm { k m }$ ,山脊平均高度在 $4 0 0 0 \mathrm { ~ m ~ }$ 左右[19]。天山山区降水受地形和西风环流的影响,具有"西多东少,北多南少"的特点[17,20-21]
+
+# 1.2数据来源
+
+本文采用国家气象信息中心提供的天山山区
+
+11个国家气象站点(图1)2012—2018年夏季(6—8月)逐小时降水资料进行分析，研究时段内巴里坤、天池、乌鲁木齐牧试站、小渠子、巴仑台、巴音布鲁克、尼勒克、特克斯、伊吾和昭苏10个国家气象站无缺测数据，仅天山大西沟站异常和缺测数据不足$0 . 0 0 1 \%$ 。数据完整性较好，在使用数据前，进行了严格的质量控制,剔除了异常和缺测数据。11个国家气象站信息见表1,其中，尼勒克、特克斯、巴里坤、伊吾和巴仑台5个站位于 $1 8 0 0 \mathrm { m }$ 以下的低海拔地区，昭苏、小渠子、乌鲁木齐牧试站、天池、巴音布鲁克和天山大西沟6个站位于 $1 8 0 0 \mathrm { ~ m ~ }$ 以上的高海拔地区，最低海拔为 $1 1 0 5 . 3 \mathrm { ~ m ~ }$ 处的尼勒克，最高海拔为 $3 5 3 9 . 0 \mathrm { ~ m ~ }$ 处的天山大西沟。
+
+# 1.3 研究方法
+
+在降水过程中，若小时降水量 $\geqslant 0 . 1 \ \mathrm { m m }$ ，则将该时次记作有降水发生22，基于此，统计分析降水量、降水频次和降水强度(降水量与降水频次的比值)的日变化特征。假设一次降水发生之后连续 $2 \mathrm { h }$ 再无降水发生，以此认定一次降水过程的结束，把一次降水事件从开始时刻到结束时刻的小时数定义为一次降水的持续时间[23]。按照降水持续时间的长短将持续性降水事件分为短时降水 $( 1 { \sim } 3 \mathrm { h } )$ 、中时降水 $( 4 { \sim } 6 \mathrm { h } )$ 和长时降水 $( > 6 \mathrm { ~ h ~ } ) ^ { [ 2 4 ] }$ 。单位时间的降雨量又被称为降雨强度，根据1h降雨量 $( R )$ 的大小将降雨强度划分成不同等级：微雨 $( 0 . 1 \ \mathrm { m m } { \leqslant } R { \leqslant } 1 . 0 \$ $\mathbf { m } \mathbf { m }$ ）、小雨 $( 1 . 1 ~ \mathrm { m m } \leqslant R \leqslant 3 . 0 ~ \mathrm { m m } )$ 和中雨及以上( $R \geqslant$ $3 . 1 ~ \mathrm { m m }$ )的标准进行统计[25-27]。另外，参考崔彩霞等[28]将新疆区域按照每日09:00—20:00(北京时间，下同)作为白天，21:00—08:00视为夜间的标准，对降水的日变化特征进行昼夜差异分析。
+
+![](images/8bd029709d0ed97b2b08d80f11a36aeb89322a459f2037af20fdc54a54efcd43.jpg)  
+图1天山山区11个气象站点分布  
+Fig.1Distribution of the 1l meteorological stations in Tianshan Mountains
+
+表1天山山区11个气象站点信息  
+Tab.1 Information of the 1l meteorological stations in Tianshan Mountains   
+
+<html><body><table><tr><td>站点名称</td><td>站点号</td><td>站点类别</td><td>经度/E</td><td>纬度/N</td><td>海拔/m</td></tr><tr><td>尼勒克</td><td>51433</td><td>国家基本气象站</td><td>82°31'</td><td>43°48'</td><td>1105.3</td></tr><tr><td>特克斯</td><td>51438</td><td>国家气象观测站</td><td>81°46'</td><td>43°11'</td><td>1210.4</td></tr><tr><td>巴里坤</td><td>52101</td><td>国家基本气象站</td><td>93°03'</td><td>43°36'</td><td>1679.4</td></tr><tr><td>伊吾</td><td>52118</td><td>国家基本气象站</td><td>94°42'</td><td>43°16'</td><td>1728.6</td></tr><tr><td>巴仑台</td><td>51467</td><td>国家基本气象站</td><td>86°20'</td><td>42°46'</td><td>1732.4</td></tr><tr><td>昭苏</td><td>51437</td><td>国家基准气候站</td><td>81°08'</td><td>4309'</td><td>1851.0</td></tr><tr><td>小渠子</td><td>51465</td><td>国家气象观测站</td><td>87°06'</td><td>43°29'</td><td>1871.8</td></tr><tr><td>乌鲁木齐牧试站</td><td>51469</td><td>国家基本气象站</td><td>87°11'</td><td>43°27'</td><td>1930.0</td></tr><tr><td>天池</td><td>51470</td><td>国家基准气候站</td><td>88°07'</td><td>43°53'</td><td>1942.5</td></tr><tr><td>巴音布鲁克</td><td>51542</td><td>国家基本气象站</td><td>84°09'</td><td>43°02'</td><td>2458.0</td></tr><tr><td>天山大西沟</td><td>51468</td><td>国家气象观测站</td><td>86°50'</td><td>43°06'</td><td>3539.0</td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1降水的日变化特征
+
+2.1.1 总降水的日变化基本特征根据天山山区年均夏季逐时累积总降水特征量的日变化曲线（图2)，对比降水频次和降水强度的日变化曲线，发现降水频次和降水量的日变化曲线较为接近，说明相比降水强度，降水频次对降水量日变化规律的贡献要更大，这与我国西南部的降水日变化特征较为一致[29]。天山山区年均夏季逐时累积总降水量和总降水频次都呈现夜间大于白天的分布特征，峰值都出现在20:00—22:00,谷值都出现在12:00—13:00。天山山区年均夏季逐时累积总降水强度白天整体呈现逐渐增强的变化趋势，夜间与之相反，高值时段大致分布在16:00—次日03:00，最高值出现在16:00—17:00,低值时段大约发生在04:00—15:00,最低值分别出现在07:00和09:00。
+
+2.1.2不同持续时间降水事件的日变化特征降水的日变化规律和降水的持续性关系密切[30]。图3为3种不同持续时间降水事件年均夏季逐时累积降水特征量的日变化曲线，降水持续时间对降水各特征量的影响显而易见，与天山山区年均夏季逐时累积总降水特征量的日变化(图2)相比，不同持续时间降水事件的年均夏季逐时累积降水量和降水频次(图3)并非全部表现为夜间大于白天的分布特征。天山山区年均夏季逐时累积总降水量(图2a)夜间大于白天的分布特征是由持续 $4 { \sim } 6 \mathrm { h }$ 的中时降水量和持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水量共同作用的结果，持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水频次主导了天山山区夏季逐时累积总降水频次(图2b)夜间大于白天的分布。持续 $4 { \sim } 6 \mathrm { h }$ 的中时降水量峰值和谷值主导了总降水量的峰值和谷值，3种不同持续时间降水频次的峰值和谷值共同影响了总降水频次的峰值和谷值。如图3c所示，持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水强度日变化
+
+(a)总降水量 (b)总降水频次 (c)总降水强度  
+140 120 1.4  
+100 1 1.2  
+80 1.1  
+60 7060 1.0  
+40 50 0.9300 00:70 00:40 00:90 00:80 10 14:40 00:91 300北京时间 北京时间 北京时间
+
+Fig.2Diurnal variations of annual average summer hourly cumulative total precipitation characteristics
+
+(a)降水量 (b)降水频次 (c)降水强度万6 o-1\~3h →4\~6h ->6h ->6h 304826 -o-1\~3h →4\~6h ->6h月中 151015 50 0 1 0300北京时间 北京时间 北京时间
+
+起伏最为显著，高值区大致出现在03:00—13:00，最高值分别出现在11:00和13:00，低值区大致出现在14:00—次日02:00,最低值出现在18:00—19:00。持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水强度与天山山区年均夏季逐时累积总降水强度(图2c)的昼夜分布趋势恰好相反，即持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水强度夜间整体逐渐增强，白天与之相反；持续 $_ { 1 \sim 3 \mathrm { ~ h ~ } }$ 和持续 $4 { \sim } 6 \mathrm { ~ h ~ }$ 的年均夏季逐时累积降水强度日变化波动性较不明显。2.1.3不同等级降水事件的日变化特征降水等级对降水日变化分布特征的影响不容忽视[31]。根据降水强度的不同，本文对天山山区夏季降水分等级进行分析与讨论。由3种不同等级降水事件年均夏季逐时累积降水量和降水频次的日变化曲线(图4)可以看出，微雨、小雨和中雨及以上等级的降水量和降水频次日变化规律性较为一致，对比大山山区年均夏季逐时累积总降水量(图2a)和总降水频次(图2b)的日变化分布来看，3种不同等级降水事件共同影响了天山山区年均夏季逐时累积总降水量和总降水频次夜间大于白天、峰值出现在20:00—22:00、谷值发生在12:00—13:00的日变化基本特征。
+
+# 2.2降水与海拔高度的关系
+
+新疆降水多与地形密切相关，赵勇等32发现新疆北部夏季强降水各特征量随着地形高度的增加，表现出增多或增强的特点，北疆冬季降水受地形影响的规律性并不明显[33]。那么天山山区夏季降水各特征量与海拔高度的关系又将如何呢？以下将对天山山区夏季降水随海拔高度的变化做出进一步分析。
+
+2.2.1逐时累积降水最大值与海拔高度的关系由图5可知，年均夏季逐时累积降水量最大值和降水频次最大值随着海拔高度的递增整体呈相似的振荡特点，峰值都出现在高海拔地区，谷值都出现在低海拔地区，高海拔地区的降水量最大值和降水频次最大值都高于低海拔地区，即与低海拔地区相比，高海拔地区更易产生降水量最大值和降水频次
+
+![](images/06e9d47d5fa89cff5605bb2e538a4ca03308e46dbfc1db141a1f0d9398a5adae.jpg)  
+图3不同持续时间降水事件年均夏季逐时累积降水特征量的日变化  
+Fig.3Diurnal variations of annual average summer hourly cumulative precipitation characteristics of precipitation events of different durations   
+图4不同等级降水事件年均夏季逐时累积降水特征量的日变化  
+Fig.4Diurnal variations of annual average summer hourly cumulative precipitation characteristics of different precipitation category events
+
+(a)降水量最大值 (b)降水频次最大值 (c)降水强度最大值28 25 2.7240628 2 1.81.542 1.2 11g4海拔高度/m 海拔高度/m 海拔高度/m
+
+最大值。年均夏季逐时累积降水强度最大值在低海拔地区随海拔高度增加，呈一直递减的趋势，高海拔地区出现振荡变化，峰值和谷值都出现在高海拔地区。降水量最大值和降水强度最大值随着海拔高度的递增都并非一直增加，二者峰值都出现在海拔 $1 9 4 2 . 5 \mathrm { ~ m ~ }$ 处，在海拔 $3 5 3 9 . 0 \mathrm { ~ m ~ }$ 反而少于1942.5$\mathrm { ~ m ~ }$ 处，这与以往研究结果3相一致， $2 0 0 0 \mathrm { m }$ 以上随着海拔高度的增加，降水量最大值又开始减少，到海拔 $3 6 0 0 \mathrm { m }$ 左右又有所增加，这很可能与天山地形动力作用有一定的关系[34]
+
+2.2.2不同持续时间降水事件与海拔高度的关系在3种不同持续时间的降水事件中(图6)，年均夏季逐时累积降水量和降水强度都以持续时间 ${ > } 6 \mathrm { \ : h }$ 的长时降水为主，降水频次以持续 $1 { \sim } 3 \mathrm { ~ h ~ }$ 的短时降水为主。持续时间 ${ > } 6 \mathrm { \ h }$ 的长时降水量沿着海拔高度的递增也并非一直增加(图6a)，变化趋势与年均夏季逐时累积降水量最大值(图5a)相似；3种不同持续时间的降水量峰值都出现在高海拔地区，谷值都出现在低海拔地区。持续 $_ { 1 \sim 3 \mathrm { ~ h ~ } }$ 的降水频次沿海拔高度呈现双峰型分布（图6b），峰值分别出现在海拔$1 8 5 1 . 0 \mathrm { ~ m ~ }$ 和 $3 5 3 9 . 0 \mathrm { ~ m ~ }$ 处，低值区分别出现在海拔$1 6 7 9 . 4 \substack { \sim } 1 7 3 2 . 4 \mathrm { ~ m ~ }$ 和 $1 9 4 2 . 5 \mathrm { ~ m ~ }$ 处;持续 $4 { \sim } 6 \mathrm { ~ h ~ }$ 和持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的降水频次峰值都出现在高海拔地区，谷值都出现在低海拔地区 $1 7 2 8 . 6 \mathrm { m }$ 处。3种不同持续时间的降水强度变化趋势并不完全相同(图6c），以持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水强度波动性最为显著，持
+
+(a)降水量 (b)降水频次 (c)降水强度2 --1\~3h →4\~6h -->6h 0 -p-1\~3h →4\~6h ->6h 501 -p-1\~3 h →4\~6h -△>6h40 100 W海拔高度/m 海拔高度/m 海拔高度/m
+
+# 干吴区地理
+
+续时间 ${ > } 6 \mathrm { \ : h }$ 的降水强度和年均夏季逐时累积降水强度最大值(图5c)的峰值都出现在高海拔地区$1 9 4 2 . 5 \mathrm { ~ m ~ }$ 处。由此还可以看出，3种不同持续时间的降水量和降水频次峰值都出现在高海拔地区；高海拔地区持续 $_ { 1 \sim 3 \mathrm { ~ h ~ } }$ 的降水量和持续 $4 { \sim } 6 \mathrm { ~ h ~ }$ 的降水频次都多于低海拔地区，即相比低海拔地区，高海拔地区多发短时降水量和中时降水频次;持续时间${ > } 6 \mathrm { \ : h }$ 的长时降水量和降水强度峰值都出现在高海拔地区 $1 9 4 2 . 5 \mathrm { m }$ 处。
+
+2.2.3不同等级降水事件与海拔高度的关系在3种不同等级降水事件中(图7)，微雨等级的年均夏季逐时累积降水量偏少，年均夏季逐时累积降水频次以微雨等级居多。3种不同等级降水事件的降水量和降水频次随着海拔高度的递增并非一直增加，最大值都出现在高海拔地区，最小值都出现在低海拔地区 $1 7 2 8 . 6 \mathrm { m }$ 处。其中，微雨及小雨等级降水量和降水频次的峰值出现在高海拔地区 $3 5 3 9 . 0 \mathrm { ~ m ~ }$ 处。低海拔地区的小雨等级降水量和降水频次要少于高海拔地区。对比发现，降水量最大值（图5a）、持续时间 ${ > } 6 \mathrm { \ : h }$ 的长时降水量(图6a)和中雨及以上等级降水量(图7a)峰值出现在高海拔地区$1 9 4 2 . 5 \mathrm { ~ m ~ }$ 处的天池站，谷值都出现在低海拔地区$1 7 2 8 . 6 \mathrm { m }$ 处的伊吾站。
+
+# 3讨论
+
+以往不少专家就地形如何对降水日变化的物理机制产生影响做出过深入研究，Barros等[35]认为喜马拉雅山南坡的夜间辐合由山体强迫产生的重力波与局地大气的热力学状态共同产生。Yuan等[36]认为青藏高原东侧四川盆地和平原的夜间降水峰值受海拔较高的青藏高原与海拔较低的平原盆地构成的大尺度“山谷风"环流影响产生。He等[37认为山地平原涡管是造成我国华北山地-平原地区不同区域日变化特征不同的主要原因。天山山区地处欧亚大陆腹地，远离海洋，地形地貌复杂，降水日变化有其自身的气候特点。相比以往针对天山山区的研究大多利用日降水及以上相对较长时间尺度资料，本研究基于天山山区11个国家气象站点的逐小时降水数据，对降水的日变化特征进行了较为细致的分析，对降水与海拔高度之间的规律取得了初步的认识，但地形对降水的影响机制还不清楚。另外，本研究只考虑了海拔高度与降水之间的联系，然而地形对降水的影响是极为复杂的，坡向、坡面、山间盆地和植被等地形因子对降水的作用也是不可忽视的。今后，需要通过数值模拟进一步探讨天山山区夏季降水日变化产生的物理机制，增加不同地形因子对降水影响的研究。
+
+# 4结论
+
+本文采用新疆天山山区11个国家气象站2012—2018年夏季(6—8月)逐小时降水资料，基于总降水的基本特征、不同持续时间降水事件和不同
+
+(a)降水量 (b)降水频次210 225一微雨一小雨一 中雨及以上 微雨小雨- 中雨及以上1801805 9045301 011100 6195 84 42212224 015850 1111 00000 2145555 81524 732355555 51 40111500 161911 78794 4225224 1185 1111 000000 46515 8154 632355555海拔高度/m 海拔高度/m
+
+等级降水事件的特征，分析了近7a夏季天山山区降水特征量的峰值和谷值、白天(09:00—20:00)和夜间(21:00—08:00)的日变化，并揭示了海拔高度对降水的影响。主要结论如下：
+
+（1）总降水量和总降水频次都出现夜间大于白天、峰值在20:00—次日22:00、谷值在12:00—13:00的日变化基本特征。3种不同持续时间的降水频次峰值和谷值共同影响了总降水频次的峰值和谷值，3种不同等级的降水量和降水频次共同主导了总降水量和总降水频次的日变化基本特征。总降水强度白天整体增强、夜间与之相反，高值时段大致分布在16:00一次日03:00、低值时段大约发生在04:00—15:00的日变化基本特征，持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的降水强度日变化起伏最为显著，但与总降水强度的日变化基本特征并不一致。
+
+(2）降水与海拔密切相关，降水量最大值和降水强度最大值、持续时间 ${ > } 6 \mathrm { ~ h ~ }$ 的长时降水量和降水强度、中雨及以上等级的降水量都在海拔 $2 0 0 0 \mathrm { m }$ 左右存在一个最大降水带；另外，与低海拔地区相比，降水量最大值和降水频次最大值、持续 $_ { 1 \sim 3 \mathrm { ~ h ~ } }$ 的短时降水量和持续 $4 { \sim } 6 \mathrm { ~ h ~ }$ 的中时降水频次、小雨等级降水量和降水频次都更易发生在高海拔地区。
+
+# 参考文献(References)
+
+[1]戴泽军,宇如聪,陈昊明.湖南夏季降水日变化特征[J].高原气 象,2009,28(6): 1463-1469.[Dai Zejun,Yu Rucong,Chen Haoming. Characteristics of summer precipitation diurnal variations in Hunan[J].Plateau Meteorology,2009,28(6): 1463-1469.]   
+[2] YuRC,Zhou TJ,Xiong A Y,et al. Diurnal variations of summer precipitation over contiguous China[J]. Geophysical Research Letters,2007,34(1): 223-234.   
+[3] 呂炯.巴山夜雨[J].气象学报,1942(增刊1):36-53.[Lu Jiong. The nighttime precipitation in the red basin of Szechuan,China[J]. Acta Meteorologica Sinica,1942(Suppl.1): 36-53.]   
+[4] 宇如聪,李建,陈昊明,等.中国大陆降水日变化研究进展[J].气 象学报,2014,72(5): 948-968.[Yu Rucong,Li Jian,Chen Haoming,et al.Progress in studies of the precipitation diurnal variation over contiguous China[J].Acta Meteorologica Sinica,2O14,7(5): 948-968.]   
+[5] 陈炯,郑永光,张小玲,等.中国暖季短时强降水分布和日变化 特征及其与中尺度对流系统日变化关系分析[J].气象学报， 2013,71(3):367-382.[Chen Jiong,Zheng Yongguang,Zhang Xiaoling,et al.Analysis of the climatological distribution and diurnal variations of the short-duration heavy rain and its relation with diurnal variations of the MCSs over China during the warm season [J].Acta Meteorologica Sinica,2013,71(3): 367-382.]   
+[6]吕翔,徐海明.中南半岛地区夏季降水日变化特征[J].南京气象 学院学报,2007,30(5): 632-642.[Lu Xiang,Xu Haiming. Diurnal variations of rainfall in summer over the Indo-China Peninsula [J]. Journal of Nanjing Institute of Meteorology,20O7,30(5): 632- 642.]   
+[7]李德帅.基于逐小时资料的华南地区汛期降水时空变化特征及 其成因研究[D].兰州:兰州大学,2016.[Li Deshuai.Research on the spatiotemporal characteristics of hourly precipitation over south China during the warm season and its possible causes[D]. Lanzhou: Lanzhou University,2016.]   
+[8] Chen H M, Yu RC,LiJ,et al.Why nocturnal long-duration rainfall presents an eastward-delayed diurnal phase of rainfall down the YangtzeRiver Valley[J]. Journal of Climate,2010,23(4):905- 917.   
+[9]白爱娟,刘晓东,刘长海.青藏高原与四川盆地夏季降水日变化 的对比分析[J].高原气象,2011,30(4):852-859.[Bai Aijuan, Liu Xiaodong,Liu Changhai. Contrast of diurnal variations of summer precipitation between the Tibetan Plateau and Sichuan Basin [J].Plateau Meteorology,2011,30(4): 852-859.]   
+[10] 陈春艳,赵克明,阿不力米提江·阿布力克木,等.暖湿背景下新 疆逐时降水变化特征研究[J].干旱区地理,2015,38(4):692- 702.[Chen Chunyan, Zhao Keming,Ablikim Ablimitijan,et al. Temporal and spatial distributions of hourly rain intensity under the warm background in Xinjiang[J].Arid Land Geography,2015, 38(4): 692-702.]   
+[11] 杨霞,于晓晶,赵雅蕾,等.2011—2015年乌鲁木齐冬季降雪的 日变化特征[J].干旱气象,2018,36(4): 603-609.[Yang Xia,Yu Xiaojing,Zhao Yalei, et al.Diurnal variation of winter snowfall in Urumqi of Xinjiang from 2011 to 2015[J]. Journal of Arid Meteorology,2018,36(4): 603-609.]   
+[12]杨霞,安大维,周鸿奎,等.2012—2017年伊犁河谷冬季降水日 变化特征[J].冰川冻土,2020,42(2):609-619.[Yang Xia,An Dawei, Zhou Hongkui, et al.Daily variation of winter precipitation in Ili RiverValleyof Xinjiang from 2012 to 2017[J].Journal of Glaciology and Geocryology,2020,42(2): 609-619.]   
+[13] 郑博华,陈胜,王勇.喀什地区降水(雨雪)的日变化特征[J].干旱 区地理,2020,43(1):108-116.[Zheng Bohua,Chen Sheng,Wang Yong.Interdiurnal variation characteristicsof precipitation (rain and snow) in Kashi Prefecture[J].Arid Land Geography,2020, 43 (1): 108-116.]   
+[14]赵战成,丁国峰,艾尔肯.塔克拉玛干沙漠东部边缘降雨日变化 [J].干旱区地理,2016,39(6):1181-1185.[Zhao Zhancheng, Ding Guofeng,Arken. Eastern edge of the Taklimakan Desert rainfalldiurnalvartion[J].AridandGeography,6,9( 1185.]   
+[15] 田亚林,李雪梅,李珍,等.1980—2017年天山山区不同降水形 态的时空变化[J].干旱区地理,2020,43(2):308-318.[Tian Yalin,Li Xuemei,Li Zhen,et al. Spatial and temporal variations of
+
+# 干吴区地理
+
+different precipitation types in the Tianshan Mountains from 1980 to 2017[J]. Arid Land Geography,2020,43(2): 308-318.]   
+[16] 毛炜峰,江远安,李江风.新疆北部的降水量线性变化趋势特征 分析[J].干旱区地理,2006,29(6):797-802.[Mao Weiyi,Jiang Yuanan,Li Jiangfeng.Analysis on the linear tendency of precipitation in north Xinjiang[J].Arid Land Geography,2006,29(6): 797- 802.]   
+[17] 韩雪云,杨青,姚俊强.新疆天山山区近51年来降水变化特征 [J].水土保持研究,2013,20(2):139-144.[Han Xueyun, Yang Qing,Yao Junqiang.Spatiotemporal distribution characteristics of precipitation in Tianshan Mountain of Xinjiang during the last 51 years[J].Research of Soil and Water Conservation,2013,20(2): 139-144.]   
+[18]吴伟杰,郑伟鹏,郑秀云,等.1980—2017年厦门地区小时尺度 极端降水特征分析[J].气候与环境研究,2019,24(3):359-368. [Wu Weijie, Zheng Weipeng, Zheng Xiuyun, et al. Characteristics of extreme hourly precipitation in Xiamen during 198O—2017[J]. Climatic and Environmental Research,2019,24(3): 359-368.]   
+[19] 胡汝骥.中国天山自然地理[M].北京:中国环境科学出版社, 2004: 2-4.[Hu Ruji. Physical geographyof the Tianshan Mountains in China[M]. Beijing:China Environmental Science Press, 2004: 2-4.]   
+[20] 赵传成,丁永建,叶柏生,等.天山山区降水量的空间分布及其 估算方法[J].水科学进展,2011,22(3):315-322.[Zhao Chuancheng,Ding Yongjian, Ye Baisheng,et al.Spatial distribution of precipitation in Tianshan Mountains and its estimation[J].Advance in Water Science,2011,22(3): 315-322.]   
+[21] 张正勇,刘琳,唐湘玲.近50年我国天山山区降水变化区域差 异及突变特征[J].干旱区资源与环境,2013,27(7):85-90. [Zhang Zhengyong,Liu Lin,Tang Xiangling. The regional difference and catastrophe of precipitation change in Tianshan Mountains in recent 5O years[J]. Journal of Arid Land Resources and Environment,2013,27(7): 85-90.]   
+[22] 李明财,段丽瑶,杨艳娟,等.天津市夏季降水日变化特征[J].气 象与环境学报,2009,25(6):11-14.[Li Mingcai,Duan Liyao, Yang Yanjuan,et al. Diurnal variation of summer rainfall in Tianjin, China[J]. Journal of Meteorology and Environment,2009,25 (6): 11-14.]   
+[23] 杨森,周晓珊,高杰.辽宁省夏季降水的日变化特征[J].气象, 2011,37(8): 943-949.[Yang Sen, Zhou Xiaoshan, Gao Jie.Diurnal variations of summer precipitation in Liaoning Province[J]. Meteorological Monthly,2011,37(8): 943-949.]   
+[24] 计晓龙,吴昊旻,黄安宁,等.青藏高原夏季降水日变化特征分 析[J].高原气象,2017,36(5): 1188-1200.[Ji Xiaolong,Wu Haomin, Huang Anning,et al. Characteristics of the precipitation diurnal variation over Qinghai-Tibetan Plateau in summer[J].Plateau Meteorology,2017,36(5): 1188-1200.]   
+[25] 刘蓉娜,张国庆,肖宏斌,等.湟水河谷夏季云和降水的日变化 特征[J].干旱区研究,2010,27(1):135-141.[Liu Rongna, Zhang Guoqing,Xiao Hongbin, et al.Analysis on the characteristics of daily variation of cloud and precipitation over the Huangshui River Valley in summer[J].Arid Zone Research,2010,27(1):135- 141.]   
+[26]肖开提·多莱特.新疆降水量级标准的划分[J].新疆气象,2005, 28(3): 7-8.[Duolaite Xiaokaiti.Formulation of precipitation intensitystandardof Xinjiang[J]. Xinjiang Meteorological,20o5,8(3): 7-8.]   
+[27] 黄秋霞,赵勇,何清,等.伊宁市主汛期降水日变化特征[J].干旱 区研究,2015,32(4): 742-747.[Huang Qiuxia, Zhao Yong,He Qing,et al.Dailyvariations characteristics of rainfallin flood season in Yining City[J]. Arid Zone Research,2015,32(4): 742-747.]   
+[28] 崔彩霞,李杨,杨青.新疆夜雨和昼雨的空间分布和长期变化 [J].中国沙漠,2008,28(5): 903-907.[Cui Caixia,Li Yang,Yang Qing. Spatial distribution and long-term variation of nocturnal and daytime rainfallin Xinjiang[J]. Journal of Desert Research,2008, 28(5): 903-907.]   
+[29]王夫常,宇如聪,陈昊明,等.我国西南部降水日变化特征分析 [J].暴雨灾害,2011,30(2):117-121.[Wang Fuchang,Yu Rucong,Chen Haoming,et al.The characteristics of rainfall diurnal variation over the southwestern China[J]. Torrential Rain and Disasters,2011,30(2): 117-121.]   
+[30] 孙娴,魏娜,王式功,等.西安夏季降水的日变化特征研究[J].冰 川冻土,2013,35(5):1176-1182.[Sun Xian,Wei Na,Wang Shigong,et al. Studyof the daily variation of summer precipitation in Xi'an[J]. Journal of Glaciology and Geocryology,2013,35(5): 1176-1182.]   
+[31] Zhuo H, Zhao P,Zhou T J. Diurnal cycle of summer rainfall in Shandong of eastern China[J]. International Journal of Climatology,2014,34(3): 742-750.   
+[32] 赵勇,黄丹青,古丽格娜,等.新疆北部夏季强降水分析[J].干旱 区研究,2010,27(5): 773-779.[Zhao Yong,Huang Danqing,Guli Gena,et al. Analysis onsummer heavy rainfall in the northern Xinjiang[J].Arid Zone Research,2010,27(5): 773-779.]   
+[33] 赵勇,崔彩霞,李霞.北疆冬季降水的气候特征分析[J].冰川冻 土,2011,33(2):292-299.[Zhao Yong, Cui Caixia,Li Xia. Climatic characteristics of winter precipitation in northern Xinjiang region[J. Jounal ofGlaciologyandGeocryolgy,2011,33(2):292-299.]   
+[34] 于晓晶,赵勇.地形对天山夏季降水影响的模拟[J].中国沙漠, 2016,36(4): 1133-1143.[Yu Xiaojing, Zhao Yong. Simulation of orographic effects on summer rain in the Tianshan Mountains[J]. Journal of Desert Research,2016,36(4):1133-1143.]   
+[35]Barros A P,Lang T J. Monitoring the monsoon in the Himalayas: Observations in central Nepal, June 2OO1[J]. Monthly Weather Review,2003,131(7): 1408-1427.   
+[36] Yuan WH, Yu RC, Zhang MH,et al. Regimes of diurnal variation of summer rainfall over subtropical East Asia[J].Journal of Climate,2012,25(9): 3307-3320.   
+[37] He H Z, Zhang F Q. Diurnal variations of warm-season precipitation over northern China[J]. Monthly Weather Review,2010,138 (4): 1017-1025.
+
+# Diurnal variation of summer precipitation and its relationship with altitude in Tianshan Mountains of Xinjiang
+
+GUO Yulin1²， ZHAO Yong²， ZHOU Yaman²³， HUANG Qiuxia4,YU Zhenyi²，GU Zhangjie'
+
+(1.AltayPrefecture MeteorologicalBureau,Altay8365O0,Xinjiang,China;2.SchooloftmosphericSciences,Chengdu UniversityofInformation Technology,Chengdu61O225,Sichuan,China;3.Xinjiang MeteorologicalObservatoryUrumqi 830002,Xinjiang,China;4.Changji Meteorological Bureau,Changji831Oo,Xinjiang,China；5.Lushan Meteorological Bureau,Jiujiang 3329Oo,Jiangxi, China)
+
+Abstract: The Tianshan Mountains receive more precipitation than the rest of the Xinjiang arid zone.Previous studiesinvestigated the precipitation variation in Tianshan Mountains of Xinjiang, China,by using daily and monthly precipitation data,but they did not focus on the diurnal variation of summer precipitation.Summer (June to August) hourly precipitation data covering 1l meteorological stations in Tianshan Mountains during 2012— 2018 revealed the characteristics of diurnal variation， including the amount,occurrence,and intensity of precipitation.The relationship between terrain height and precipitation is investigated.The main conclusions are as follows: The peak values of total precipitation and total precipitation frequency occur from 20:0o to 22:00 Beijing time,and the valley values occur from 12:00 to 13:00.Precipitation mainly occurs at night (21:00—08:00), and the total precipitation is mainly contributed by long-term precipitation.The intensityof total precipitation shows an increasing trend during the day(09:0o—2O:0O)and an opposite variation at night.The precipitation is related to terrain height and light rain frequently occurs at high altitudes.The maximum rainy belt is found at an altitude of about $2 0 0 0 \mathrm { m }$ ：
+
+Key words: precipitation； precipitation frequency； precipitation intensity； diurnal variation； altitude

@@ -1,0 +1,157 @@
+# DOI:10.5846/stxb201701230191
+
+刘炳亮,苏金豹,马建章.旅游开发对景观边缘植物溢出效应的影响.生态学报,2018,38（10);3653-3660.LuBLu
+
+# 旅游开发对景观边缘植物溢出效应的影响
+
+刘炳亮1，苏金豹²，\*，马建章
+
+1鲁东大学商学院，烟台264025  
+2 东北林业大学经济管理学院,哈尔滨150040  
+3 东北林业大学野生动物资源学院，哈尔滨150040
+
+摘要：人类活动导致的景观改变能形成大量的生境缀块和边缘结构,对植物扩散产生重要影响。以植物个体运动生态学——种子扩散模式作为分类依据,对兴凯湖自然保护区游憩带与非游憩带、交通廊道与非交通廊道中动物扩散物种、风扩散物种、无助力扩散物种(包括重力扩散、弹射扩散等短距离扩散的物种)以及全部物种的边缘溢出效应分别进行对比分析。结果显示,游憩带动物扩散物种和全部物种的边缘溢出效应均明显弱于非游憩带;而风扩散物种在游憩带和非游憩带均有大量溢出;无助力扩散物种在这两个实验区的溢出效应均不明显。交通廊道中动物扩散物种的溢出效应显著弱于非交通廊道,但风扩散物种却明显强于非交通廊道;无助力扩散物种在两种廊道类型中同样只有少量溢出,且距离相对较短;总体溢出效应并未发现显著差异。这些结果表明,旅游开发对植物运动生态学产生了影响,最终导致了溢出效应的改变。
+
+关键词：植物运动生态学;旅游干扰；溢出效应;生物多样性保护
+
+# Effects of tourism development on plant spillover effects at the edge of a landscape
+
+LIU Bingliang' ,SU Jinbao²,\*,MA Jianzhang³
+
+1Business College,Ludong University,Yantai 264025,China   
+2Economy and Management college,Northeast Forestry University,Harbin15oo4O,China   
+3WildlifeandResources Management College,Northeast Forestry University,Harbin15oo4O,China
+
+Abstract：Anthropogenic landscape alteration can create fragmented habitatsand alteredge structures，considerably affcting the natural dispersal of plant species.Inthis study，weconductedacomparative analysison edge-spilloverefects of animal-dispersed，wind-dispersed，unasisted-dispersal (includingspecies dispersedbygravityand ejection），ndtotal species betweenbothrecreational/non-recreational zones，and traffic/non-traffccoridorsinthe Khanka naturereserve basedonthe plant individual motion ecology—seed dispersal modes.Theresultsshowed that edge-spillver efectsof both animal-dispersedandtotal specieswere significantly weaker inrecreational zones than innon-recreational zones，while wind-dispersed speciessignificantlyspilledover in both zones.Weonly documented afewunassisted-dispersal species spiling overineitherzone.Thespillover-efectsof animal-ispersed species were weaker in traffccorridors thanin nontrfficcorridors；incontrast，thespillverefectsof wind-dispersed speciesintraffccorridors weresignificantlystronger thaninnon-traffccorrdors.Similartotherecreationalandnon-recreationalzones，afewunassisted-dispersal species spiledoverintoboth experimentalcorridorsandtheirspillverdistances wererelativelyshorterthan thatof theanimaldispersed and wind-dispersed species.There wasno significant diference in thetotal species spillver efects etween he twotypes ofcorridors.Theresults indicated that tourism development hadaconsiderable effctonthe motionecologyof
+
+plants，leading to changes in spillover effects.
+
+Key Words:plant motion ecology；tourism disturbance；spillover-effcts；biodiversity conservation
+
+溢出效应是海洋自然保护区中某些成年鱼类个体因逐渐增加的种群密度和空间资源压力而趋于向保护区边界外部扩散、并由此导致周边区域种群数量增加的一种现象[1]。在海洋自然保护区中,该效应对保护区周边的渔业管理具有重要意义[2-4];在陆地生态系统中,溢出效应则主要被应用于森林周边农业景观中的昆虫传粉生态服务[5-7],但在生物多样性保护领域的应用尚不多见[8]。 CO
+
+作为一种运动机制,溢出效应体现了物种个体向景观外部扩散的能力,是其运动生态学与外部环境因子综合作用的结果[9]。对于植物物种而言,溢出效应不仅与其生活史特征——种子形态结构有关[10],同时也与扩散媒介的数量、景观连通度等环境因子有关[9]。尤其在破碎化景观中,植物种群通常以隔离形式存在[],因此外部环境因子对其溢出效应的影响更为明显。对此,Damschen等[9]在 Nathan 等[12]提出的有机体运动生态学框架的基础上进一步提出了植物个体的运动生态学模型。该模型描述了植物个体运动生态学与外部环境因子之间的关系,强调了外部环境因子如景观边缘结构、鸟[13-14]、风[13]等扩散媒介对植物个体运动生态学的影响。
+
+为了检验该模型,Brudvig 和 Damschen 等[8]以植物的个体运动生态学——种子扩散模式为分类依据,对美国东南部萨凡纳河（Savannah River)流域森林景观中的动物扩散物种、风扩散物种和无助力扩散物种3个类群的溢出效应分别进行了对比实验，以此反映外部环境因子(景观边缘结构)对不同植物运动生态学的影响。结果发现,不同的景观边缘结构和连通效应对动物扩散物种、风扩散物种以及重力扩散物种的溢出效应均产生了明显不同的影响。其中,动物扩散物种和风扩散物种在具有高连通度的景观边缘均产生了明显的溢出效应,但重力扩散物种无明显响应;而在低连通度的景观边缘,3种溢出效应均不明显。该结果证明了外部环境因子对植物运动生态学的影响[15]。
+
+基于以上研究的思考：(1)如果外部环境因子对植物的运动生态学具有重要影响并最终导致不同的边缘溢出效应,那么在旅游景观中,旅游开发导致的景观边缘结构的改变以及游憩活动将对不同扩散模式的植物溢出效应产生何种影响？这种影响是积极的还是消极的？（2)旅游开发形成的交通廊道因其增加了景观在空间上的连通性是否会使其具有生态廊道功能而促进物种向边缘溢出？对此,本研究以 Damschen 和 Brudvig等提出的植物个体运动生态学框架为理论基础,同样以植物的个体运动生态学——种子扩散模式为分类依据,对旅游景观中不同扩散模式的植物边缘溢出效应进行对比分析,以此验证旅游开发活动对植物溢出效应可能产生的影响。
+
+# 1实验方法
+
+# 1.1研究区概况
+
+本研究选择中俄边境的兴凯湖自然保护区 $( 4 5 ^ { \circ } 0 1 ^ { \prime } - 4 5 ^ { \circ } 3 4 ^ { \prime } \mathrm { N } , 1 3 1 ^ { \circ } 5 8 ^ { \prime } - 1 3 3 ^ { \circ } 0 7 ^ { \prime } \mathrm { E } )$ 进行野外实验。兴凯湖自然保护区是亚太地区候鸟迁徙的重要通道,具有较高的鸟类多样性。据最新统计,兴凯湖有鸟类 237种,包括丹顶鹤（Grus japonensis）、东方白鹳（Ciconia boyciana）等国家一级保护鸟类9种,国家二级保护鸟类41种。除了鸟类之外,兴凯湖也具有较高的野生动植物物种多样性,其中脊椎动物 363种,包括国家二级保护动物5种;兽类40种,包括赤狐（Vulpes vulpes）、雪兔(Lepus timidus）、马鹿(Ceruus elaphus)等;高等植物 691种,其中国家级珍稀濒危植物10种,包括兴凯湖松（Pinus takahasi Nakai）、胡桃楸（Juglans mandshurica Maxim.）、水曲柳（Fraxinus mandschurica Rupr.）、黄檗(Phellodendron amurense Rupr.）、紫椴(Tilia amurensis Rupr.）、野大豆（Glycine soja Sieb.Et Zucc.）等。
+
+兴凯湖自然保护区内气候温差较大,年平均气温 $3 ^ { \circ } \mathrm { C }$ ,其中1月份最低达 $- 3 9 ^ { \circ } \mathrm { C }$ ;7月份最高可达 $3 6 ^ { \circ } \mathrm { C }$ ；年均降水量 $6 5 4 ~ \mathrm { m m }$ ;年平均风速 $4 . 0 ~ \mathrm { m / s }$ ,年均大风天数 $3 8 \mathrm { ~ d ~ }$ ;无霜期147d,湖水封冻期 $1 6 0 \mathrm { ~ d ~ }$ 。
+
+兴凯湖自然保护区包括了森林、湿地、湖泊等多种景观类型,部分景观由于人类长期的生产、生活活动已经发生了明显改变。尤其是近些年旅游开发进一步导致了部分景观的破碎化,形成了大量的生境斑块、边缘结构以及人工廊道。同时,旅游业的迅速发展也使旅游者数量大幅增加,这为溢出效应干扰实验提供了有利的条件。 2
+
+# 1.2 调查方法
+
+野外实验分为两部分，一部分是游憩带与非游憩带的边缘溢出效应对比分析,另一部分是交通廊道与非交通廊道的边缘溢出效应对比分析。前者是为了验证旅游开发导致的景观改变和游人干扰是否对植物溢出效应产生了显著影响;后者是为了验证交通廊道是否具有生态廊道功能而有利于物种向景观边缘溢出。
+
+地点选择兴凯湖自然保护区的蜂蜜山景区进行。调查时间为2015年8—9月。该区域景观植被主要包括兴凯湖松（Pinus takahasii Nakai）蒙古栎（Quercus mongolica）、黄檗（Phelldendron amurense Rupr.）、色木槭（Acer mono）、榛（Corylus heterophylla）、胡桃楸（Juglans mandshurica）、乌苏里苔草（Carex ussuriensis）、胡枝子（Lespedeza bicolor）、大叶章（Deyeuxia purpurea）、小叶章（Deyeuxia langsdorfi）、柳叶绣线菊（Spiraeasalicifolia）、玉竹（Polygonatum odoratum）、黄连（Coptis chinensis）、车前（Plantago asiatica）、野艾蒿（Artemisialavandulaefolia）狗尾草（Setaria viridis）等。 2
+
+游憩带与非游憩带的调查方法是在同一景观中选择有旅游干扰的游憩带和无旅游干扰的非游憩带两个实验地点,分别采用样方调查法对所有维管植物进行调查统计。为了保证调查样本的独立性,避免可能因环境差异带来的影响,两个实验地点的距离大约为 $3 ~ \mathrm { k m }$ ,具有相似的植物组成和微气候条件。两个实验地点的林缘朝向一致,坡度均 $\leqslant 2 0 ^ { \circ }$ 。其中游憩带存在大量游人活动和人工景观,旅游活动频繁;而非游憩带未经旅游开发,无游憩活动干扰存在。
+
+样方设置参照 Lopez-Barrera等[16]和Brudvig 等[8]的方法,在两个实验地点分别建立10条（间距50—150$\mathbf { m }$ 不等)垂直于景观斑块边缘(视乔木形成的边界作为景观边缘)的样带,每条样带总长 $8 0 \mathrm { ~ m ~ }$ ，宽 $1 0 \mathrm { ~ m ~ }$ 。由于景观外部的灌木和草本植被覆盖大约 $3 0 \mathrm { \ m }$ 的宽度,因此样带在景观外部的长度设置为 $3 0 \mathrm { ~ m ~ }$ ,内部为 $5 0 \mathrm { ~ m ~ }$ 。将每条样带划分为8个 $1 0 \ \mathrm { m } { \times } 1 0 \ \mathrm { m }$ 的连续样方，然后对样方内所有当年生的维管植物实生苗进行调查统计。
+
+廊道溢出效应的测度方法与游憩带相似，即选择交通廊道(有大量机动车)和非交通廊道(无机动车的狭长开放空间)进行对比分析，两者宽度相近，约 $3 0 \mathrm { ~ m ~ }$ 。交通廊道中由于存在大量的机动车，其产生的交通噪音对鸟等扩散媒介的干扰幅度可能较大，因此将调查距离延伸至景观内部 $1 0 0 \mathrm { ~ m ~ }$ 。外部样方连续设置（0—30m）,内部样方为间隔设置,距离林缘分别为 $1 0 , 2 0 , 4 0 , 6 0 , 1 0 0 \mathrm { ~ m } ,$ 。然后对样方内所有当年生的维管植物实生苗进行调查统计。
+
+# 1.3 物种识别与分类
+
+首先对野外调查发现的所有维管植物物种进行识别和分类。物种识别主要参照《中国植物志》、中国植物物种信息数据库(http://www.plants.csdb.cn/eflora/Default.aspx）、《黑龙江省植物志》以及保护区专家和现有资料等进行综合判别。然后再将所有记录到的物种以扩散模式作为分类依据划分为动物扩散、风扩散以及无助力扩散(这里主要指重力、弹射等只能帮助其在短距离内扩散的物种)物种3个类群。之所以采用该划分模式,是因为自然界中绝大多数维管植物都是通过这3种方式实现扩散的,而动物和风等扩散媒介受外部环境因子的影响较为明显,因此这种划分方法可以有效反映环境因子对物种运动生态学的影响。由于某些物种可能同时存在多种扩散模式[17],因此在本研究范式中只采用对其扩散距离产生显著影响的扩散方式作为分类依据。
+
+扩散模式的判别主要通过已有文献或观测果实、种子的形态结构来进行判别。动物扩散的种实通常为浆果、坚果,具有适合动物扩散的特征,如某些具有鲜艳的颜色、假种皮或脊,某些具有粗硬的鬃毛或棘刺等;风扩散的种子通常细小且数量较多,或具有适合风力扩散的细软冠毛及翅状结构,能随着风、空气远距离传播;
+
+无助力扩散物种通常不具有助其长距离扩散的明显结构,体积通常较大，只能通过弹射或重力进行扩散。对无法识别的物种可以参照同科、同属植物果实和种子特征进行综合判定。
+
+# 1.4 数据处理
+
+本研究采用物种丰富度(物种数量)指标对溢出效应进行测度。测度方法采用统计学中的独立样本 $\mathbf { \chi } _ { t }$ 检验（Two sample $t$ -test)来分别比较游憩带与非游憩带、交通廊道与非交通廊道的物种溢出效应的差异性。显著性水平设置为 $\alpha = 0 . 0 5$ ;相关图形通过Origin8.5软件来完成。
+
+# 2结果分析
+
+调查期间共记录89个物种,分属38个科。其中,动物扩散34种,风扩散39种,无助力扩散16种。非游憩带中所有物种在游憩带中均有记录,两者的总体多样性并不存在显著差异( $P > 0 . 0 5$ )。但某些数量较少的物种在游憩带的部分样方中未见记录。 CNy
+
+对比结果显示,游憩带与非游憩带中动物扩散物种、风扩散物种、无助力扩散物种均表现了明显不同的边缘溢出效应(图1)。非游憩带动物扩散物种表现了明显的边缘溢出效应,且随着与边缘距离的增加溢出效应逐渐衰减。其中,在外部 $0 \mathrm { - } { - 1 0 ^ { \ } } \mathrm { m }$ 的林缘,物种丰富度均值达到7.1,比景观内部高出 $1 7 . 5 \%$ （ $t = - 1 5 . 6 2 8 8 5$ ，（204号 $d f = 4 , P < 0 . 0 0 1 )$ ;在-10—- $2 0 \mathrm { ~ m ~ }$ 和 $- 2 0 \mathrm { ~ -- } 3 0 \mathrm { ~ m ~ }$ ,物种溢出明显减少,平均只有6.2 和5.4个物种,比0—$- 1 0 \mathrm { ~ m ~ }$ 分别减少 $1 2 . 7 \%$ 和 $2 3 . 9 \%$ 。与非游憩带相比,游憩带中动物扩散物种尽管也表现了一定的溢出效应,但明显较弱,其在外部空间中的物种丰富度均值分别只有 $3 . 5 ( 0 -- 1 0 \mathrm { ~ m } ) 、 2 . 2 ( - 1 0 - - 2 0 \mathrm { ~ m } )$ 和1.8(-20—$- 3 0 \mathrm { ~ m } )$ ,均显著低于非游憩带 $( - 2 0 \mathrm { - } 3 0 ~ \mathrm { m } ; t = - 5 . 5 4 0 2 8 , \mathrm { } d f = 1 8 , P \preccurlyeq 0 . 0 0 1 ; - 1 0 \mathrm { - } - 2 0 ~ \mathrm { m } ; t = - 7 . 8 7 8 3 9 , \mathrm { } d f = 6 . 0 0 2 5 ; - 2 0 . 0 0 2 ; - 2 0 . 0 0 2 5 . )$ $1 8 , P < 0 . 0 0 1 ; 0 -- 1 0 \mathrm { m } ; t = - 5 . 5 8 4 5 5 , d f = 1 8 , P < 0 . 0 0 1 ) _ { \circ }$ 游憩带景观内部靠近边缘的0— $1 0 \mathrm { ~ m ~ }$ 距离上,物种溢出趋势也明显较弱,其物种丰富度平均只有5.3,显著低于景观内部( $P < 0 . 0 4 { \ : } ,$ ;与非游憩带0- $1 0 \mathrm { ~ m ~ }$ 相比,同样明显较低(t = -1.40933,df=18,P = 0.17578)。
+
+![](images/ecf4b414670e67c45b6cf745caf1789f24163668f8f050424ea858b0e877b0ab.jpg)  
+图1游憩带与非游憩带的边缘溢出效应  
+Fig.1Spillover effects at the edges of the recreation zones and the non-recreation zones
+
+http://www.ecologica.cn
+
+与动物扩散物种不同,风扩散物种在游憩带和非游憩带中均产生了明显的溢出效应(图1),但游憩带中风扩散物种的溢出效应强于非游憩带 $\stackrel { \prime } { \scriptscriptstyle t } = - 1 . 5 1 1 8 6 , d f \mathrm { = } 2 , P = 0 . 2 6 9 7 )$ 。非游憩带中风扩散物种的丰富度在开放空间中的均值为8.4,比景观内部平均高出 $1 3 . 5 \% ( P < 0 . 0 5 )$ ,且随着与边缘距离的增加呈现了明显的衰减效应。但在游憩带外部空间,虽然风扩散物种溢出效应较强,但并没有表现出明显的空间衰减。在开放空间中,风扩散物种的丰富度均值为8.8,比非游憩带高出 $4 . 8 \% ( P > 0 . 0 5 )$ ,比其内部平均高出 $1 7 . 6 \%$ (P0.04）。此外,风扩散物种在两个实验景观内部边缘均表现了明显的溢出趋势,尤其在0— $1 0 \mathrm { ~ m ~ }$ 的林缘,其丰富度均显著高于内部 $2 0 \mathrm { - } 5 0 \mathrm { ~ m ~ }$ 的水平( $\left( P < 0 . 0 1 \right)$ 。 2
+
+无助力扩散物种(包括重力扩散、弹射扩散等无法长距离扩散的物种)在两个实验景观中均只有少量溢出（图1）。非游憩带无助力扩散物种在 $0 \mathrm { - } 3 0 \mathrm { ~ m ~ }$ 的外部空间平均溢出1.9 种,比景观内部(均值4.0)平均低$5 1 \% ( P < 0 . 0 0 1 )$ 。除了在0— $1 0 \mathrm { ~ m ~ }$ 的边缘有少量溢出（均值3.1),在-10—- $3 0 \mathrm { ~ m ~ }$ 的范围内无助力扩散物种几乎未见记录;而游憩带外部空间,无助力扩散物种丰富度平均只有1.0。即使在外部 $0 {  } \mathrm { - } 1 0 \mathrm { ~ m }$ 的距离范围内同样较少,在大多数样方中未见记录。在内部0— $1 0 \mathrm { ~ m ~ }$ 距离上，无助力扩散物种的丰富度同样较低,与其内部 $1 0 { - } 5 0 \ \mathrm { m }$ 相比,差异性显著( $t = 2 2 . 0 4 5 4 1 , d f = 3 , P < 0 . 0 0 1 )$ 。
+
+动物扩散、风扩散以及无助力扩散3个类群共同决定了两个实验区的总体溢出效应（图1)。结果显示，总体溢出效应在两个实验带明显不同。由于动物扩散物种的消极响应,游憩带总体溢出效应在 $1 0 \mathrm { ~ - } 3 0 \mathrm { ~ m ~ }$ 的距离上均显著弱于非游憩带( $\mathit { ' } t = - 3 . 0 7 5 6 2 , d f \mathrm { = } 4 , P < 0 . 0 4 )$ 。但在 $1 0 { - } 2 0 ~ \mathrm { m }$ 的景观内部,游憩带的物种丰富度水平略高于非游憩带( $P < 0 . 0 6 )$ 。在非游憩带，总体溢出效应相对较强,在边缘 $0 \mathrm { - } { - 1 0 ^ { \mathrm { ~ m ~ } } }$ 的距离上物种丰富度均值达到19.0,显著高于景观内部平均水平 $\left( t = - 1 1 . 2 8 7 2 6 , d f = 4 , P \right) < 0 . 0 0 1 )$ ;而在景观内部0 $1 0 \mathrm { ~ m ~ }$ ，物种丰富度显著高于游憩带( $\ P < 0 . 0 4 )$ 0
+
+对廊道边缘溢出效应的对比结果显示（图2)，交通廊道中的动物扩散物种和风扩散物种同样表现了与非交通廊道显著不同的边缘溢出效应（动物扩散物种： $t = 4 . 7 2 7 4 6 , d f = \ 2 , P < 0 . 0 5$ ;风扩散物种： $t ~ = ~ - 6 . 5 4 6 5 4$ ，$d f = 2 , P < 0 . 0 3 )$ 。这种差异性主要体现在景观外部 $- 1 0 \mathrm { ~ -- } 3 0 \mathrm { ~ m ~ }$ 的距离范围。在该距离范围内,交通廊道中的动物扩散物种溢出效应明显较弱，形成了明显的空间梯度( $P < 0 . 0 0 1 _ { \cdot }$ )。但在0—- $1 0 \mathrm { ~ m ~ }$ 的缘带，交通廊道与非交通廊道均存在明显溢出,且未检测到有显著差异( $\lceil P > 0 . 0 5 \rangle$ 。
+
+![](images/b5b2c220cac029fccbe6e03b4a772f026bbadeb67b728d97dc598b749a3b0d61.jpg)  
+图2交通廊道与非交通廊道的边缘溢出效应  
+Fig.2Spillover effects at the edges of the traffic corridors and the non-traffic corridors
+
+尽管风扩散物种在两种不同的廊道中均有大量溢出（图2）,但交通廊道风扩散物种的溢出更为明显，尤其在距离林缘 $- 2 0 \mathrm { - } 3 0 \ \mathrm { m }$ (即靠近道路较近一侧)的距离上丰富度均值达到10.4,显著高于非交通廊道(P<0.03）。在0— $1 0 \mathrm { ~ m ~ }$ 的景观内部,交通廊道与非交通廊道中风扩散物种丰富度同样较高。非交通廊道的开放空间中,风扩散物种的溢出数量随着与景观边缘距离的增加逐渐减少。
+
+交通廊道与非交通廊道中无助力扩散物种的溢出效应同样较弱(图2）,且无显著差异( $\stackrel { \prime } { \cdot } = - 0 . 2 1 1 6 , d f =$ $2 , P = 0 . 8 5 2 0 2 )$ 。交通廊道的整个外部空间 $0 \mathrm { - } 3 0 ~ \mathrm { m }$ 无助力扩散物种丰富度平均只有1.2,在距离林缘较远的区域,无助力扩散物种未见记录。而在景观边缘内部 $( 0 - 1 0 \mathrm { ~ m ~ } )$ ,交通廊道无助力扩散物种相对较少，但与非交通廊道相比无显著差异( $\ P > 0 . 0 5 ,$ 。 \~
+
+尽管两种类型廊道中的动物扩散和风扩散物种的溢出效应存在显著差异,但对总体溢出效应的检验发现,两者之间并无明显差异 $\langle t = 1 . 0 4 8 7 6 , d f = 2 , P = 0 . 4 0 4 3 4 \rangle$ 。如图2显示,景观边缘两侧（0—- $1 0 \mathrm { ~ m ~ }$ 和0一$1 0 \mathrm { ~ m ~ }$ )总体丰富度均较高，外部 $0 { \mathrm { - } } { \mathrm { - } } 1 0 { \mathrm { m } }$ 的距离上溢出效应明显。在景观外部，随着与边缘距离的增加，两个实验廊道中总体溢出效应均逐渐减弱;而在景观内部,物种丰富度无显著差异 $\langle P ^ { \mathrm { \tiny { C } } } > 0 . 0 5 \rangle$ 0
+
+# 3讨论
+
+结果发现,游憩带与交通廊道均产生了与非游憩带和非交通廊道明显不同的边缘溢出效应,旅游开发可能是导致这些结果的主要原因。
+
+在本实验景观中,游憩带与交通廊道中动物扩散物种的溢出效应均明显弱于非游憩带和非交通廊道,这可能来自3种影响机制：首先,旅游开发与游人活动导致的景观改变可能降低了某些物种的生态连通度,阻碍了动物扩散媒介对其种子的传播[18]。而且在游憩带开放空间中修建的大量人工游憩设施等可能也增加了景观的隔离,干扰了某些小型动物如啮齿类对某些大型种子的扩散;其次,定向传播假说[19]认为,动物扩散媒介有助于种子向适宜生境传播[20]{增加幼苗的更新成功率[21]。然而在游憩带,旅游开发导致了林缘外部生境的严重退化,如土壤硬化、水土流失、细菌繁殖等。这种退化可能影响了动物扩散物种向该区域的传播,减少了幼苗的更新成活率;第三,旅游开发对景观边缘结构的改变也可能对物种扩散产生影响[2223]。在本研究区中,尽管早期的人类活动已经导致了一定程度的景观改变,但近些年来旅游开发对景观结构的改变更为显著。尤其旅游开发过程中产生了大量具有高对比的硬质边缘结构，可能增加了林缘内外环境与功能的对比和突变[23-25],影响了景观内部物种向外部渗透和扩散[2425]。
+
+此外,当地旅游业的迅速发展使得旅游活动干扰越来越频繁。野外观察发现,某些对植物种子具有扩散作用的鸟在取食种实的过程中,明显受到了游人的各种干扰（如观赏、打闹、跑动、喧哗以及户外运动等）,严重影响了其取食时间和取食数量。这可能最终导致种子在该区域传播机会的减少[26]。而在交通廊道中,大量交通工具的进入也可能对动物的取食行为产生影响。例如,Francis 等研究发现,机械噪音会对某些鸟类的行为产生明显影响,减少它们对植物种子的传播[27]。
+
+与动物扩散物种不同,风扩散物种在游憩带和非游憩带均有较强溢出,而在游憩带更为明显。产生这一结果的原因可能是因为旅游开发改变了林缘结构,导致了风速和风向的明显改变,从而更有利于细小种子向开放生境扩散[28];同时,旅游开发产生的开放生境也为外来种子提供了更多的定植空间,尤其增加了风扩散物种入侵的机会[29]。此外,由于风扩散物种的种子通常非常细小,相对于其它大型种子而言更容易附着在游人和车体上,因此游人和交通工具的进人也可能是导致该类群物种增多的原因之一。
+
+交通廊道中风扩散物种产生了比非交通廊道更为显著的边缘效应，这证明了景观连通度对风扩散物种运动的促进作用[8]。然而交通廊道中风扩散物种在距离林缘 $\cdot - 3 0 \mathrm { ~ m ~ }$ 的外部空间(即道路边缘)同样产生了明显的溢出，这可能是由于汽车数量以及道路边缘风速的增加促进了细小种子在该范围内的运动和定植。
+
+本研究范式中的无助力扩散物种是指具有重力扩散和弹射扩散模式而无法实现长距离扩散的物种。该类群的种子通常较大,不具有动物扩散和风扩散的明显结构特征,通常只能在几米的范围内扩散[9],因此这可能是导致该类群物种在所有实验区仅有少量溢出的根本原因。该结果也与 Brudvig 等[8]的研究发现相一致。然而一个显著结果是,在游憩带景观内部0— $1 0 \mathrm { ~ m ~ }$ 的范围内,无助力扩散物种丰富度明显低于非游憩带。导致这一结果的原因可能是由于该类物种个体数量稀少,在有干扰因子存在的条件下,更容易因漩涡效应而发生本地灭绝[30]。同时,无助力扩散物种大多为动物传粉,而旅游开发导致的景观破碎化对动物传粉媒介同样能产生隔离效应,减少它们对花粉的传播,从而影响本地某些小种群的繁殖更新[31];另外,景观破碎化导致的外来花粉量的减少还可能增加本地种群自交衰败的可能性[32],最终影响种群的更新[33]。除了隔离效应之外,游人活动也可能通过干扰昆虫的传粉行为影响本地种群的传粉效率,导致繁殖失败。但该推断尚无实验证据,有待进一步观察和研究。
+
+在本实验中,总体溢出效应是动物扩散物种、风扩散物种以及无助力扩散物种溢出的综合结果。虽然廊道的对比结果没有发现总体溢出效应存在显著不同,但动物扩散和风扩散两个群体的显著差异表明,在总体溢出效应没有受到明显影响的情况下,旅游开发同样可能对某些物种产生影响。这种影响来自于对某些物种运动生态学的不同干扰效应,因此无法通过总体多样性来反映,而需要从运动生态学加以识别,因此具有一定的潜在性。 y
+
+# 4结论
+
+本研究以种子的扩散模式作为分类依据,研究了旅游景观中不同扩散方式的植物溢出效应,反映了旅游开发对植物运动生态学产生的潜在影响。该研究表明,在旅游开发实践中要尽可能保持景观的完整性和自然性,减少边缘结构,防止旅游活动对物种扩散等生态过程产生的影响。对于已经破碎化的景观,要通过各种技术和管理手段增加斑块之间的连通性以及边缘的渗透性，尽可能减少对溢出效应的制约和消极影响。尤其对于自然保护区的旅游开发活动更要加强管理,防止破碎化效应以及过度的游憩干扰对物种扩散这种生态过程的影响,这对生物多样性保护具有重要意义。
+
+由于本研究未对种子雨和种子库进行监测，因此在一定程度上限制了对旅游景观中溢出效应与种子扩散过程之间关系的深人讨论。在未来的研究中将进一步关注旅游开发对种子雨及种子库的影响,为旅游干扰和植物扩散影响提供更直接的实验证据。
+
+# 参考文献（References）:
+
+[1]RowleRJaseuiesdveareeesseaagetqatioetoardFreshteoss9,4(3):233-254.  
+[2]McClaaaplofxpablesfraantfilalApla,10(6) : 1792-1805.Palumbi S R.Fisheries science：why mothers matter.Nature，2004，430(7000）：621-622.NowlisJS,Roberts CM.Fisheriesbenefitsandoptimal designof marinereserves.FisheryBuletin，1999,97(3）：604-616.RicketsTH,ailGrlceocefroalfrestfucroeigsfof Sciences of the United States of America，2004，101(34）：12579-12582.  
+[6] RicketsTH.opicalforstfragmentsanceolatoriitinearbyoeopsoseationlgO,8（）：61.  
+[7] GellFR，RobertsCM.Benefitsbeyndboundariesthefishryfetofarinereserves.ENSinEcologandEvolutio，O，18（9)：448-455.  
+[8] BrudvigA,EeuydeveJcaotiotspvesietohabitats.Proceedingsof theNationalAcademyof Sciencesof theUnited Statesof America,2009,106(23）：9328-9332.
+
+http://www.ecologica.cn
+
+[9]DamschnEIrdvigLA,HaddadNeveyD,ockJL,TewksburyJJThemovemeneologaddamicsofplantcoitiesinfragmentedlandscapes.Proceedingsof heNationalAcademyofSciencesoftheUnitedStatesofAmerica,2008，105（49）：1978-19083.  
+[10]Stearns SC.Life-history tactics:a review of the ideas.Quarterly Review of Biology，1976,51(1): 3-47.  
+[11]FranzenM,oGothlatoedahalitftlocaletictosolozatiorocefeloeyBiological Science，2010,277（1678）：79-85.  
+[12]Nathan,etWevillE,lyoakKdoR,altDose.etologradigforifngogansloresearch.Proceedingsof the NationalAcademyof Sciencesof the United Statesof America，2008,105(49）：19052-19059.  
+[13]LeveyDJ，lkerB,TewksuryJJargentSaddNMEfetsofdscapecodorsonseeddispersalbyirds.iec09(5731) : 146-148.  
+[14]JordaebtJseKveeitJiodedspsalsdosbiodiversity of a key ecological interaction.Biology Letters，2011,7(3）：321-323.  
+[15]HaleM,urWW,ish,FR,WolffK.pctofdsaagentegeeitrucureepopulations.Science，2001,293（5538）： 2246-2248.  
+[16]LpeBeaFnsRleEstoCfetsfreeblslilmontane forest.Landscape Ecology，2007,22(2）：189-203.  
+[17]Van der Pijl L. Principles of Dispersal in Higher Plants.3rd ed.New York:Springer,1982:499-499.  
+18]RostdJoseeofstgeatfhofdscealdalafLinnean Society，1991,42(1-2):149-163.  
+[19]Howe HF,Smallood J. Ecology of seed dispersal. Annual Reviewof Ecologyand Systematics，1982,13:201-228.  
+[20] WennyDG.Advantagesofseddispersal;areevaluationofdirecteddispersal.EvolutionaryEcologResearch,Ool,3（)：51-74.  
+[21]WyGeveDJieceddispsalyedsiroialdforstrocfaladoffUnited States of America，1998,95(11）:6204-6207.  
+22]Cadeaocketgercuefsestrteoseao)997.  
+[23]iesLeisoalpotatgeodelslidof Ecology，Evolution，and Systematics，2004，35:491-522.  
+[24]CadenassicketeathersKCesCGeoeyfolcadrie,）58.  
+[25] Lopez-BareraFewtonsoRdgeectsinroicaloaeforestosicexpintaltsfosdispsaloal.Ecological Research,2005，20(1）：31-40.  
+[26］刘炳亮，苏金豹，马建章.旅游区游憩活动对鸟类扩散种子的影响.生态学报，2017,37（14）：4786-4794.  
+[27] Francis C D，Kleist NJ,Ortega CP Cruz A. Noise pollution alters ecological services:enhanced pollination and disrupted seed dispersal.Proceedings of the Royal Society B：Biological Sciences，2012,279(1793）: 2727-2735.  
+[28]DamschenEI,BakerDVBohrerG，NathanR,OrrckJL,TurnerJR,BrudvigLA,HaddadNM,LeveyDJ,TewksburyJJ.HowfragmentatiosdasddspsalinbatsrocoftialdeoffUdStates of America,2014,111(9) : 3484-3489.  
+[29]OrrocJnielsoBsJeveyJSpatialolgofpredatoreyinteraos:oidandpathsafueeepredation. Ecology，2003，84（10): 2589-2599.  
+[30]MaeLLimSBeyodeightfosofrityhichspecisarethreatendandhichillbextAialCoservatio（）：221- 229.  
+[31 Wilcock C，NeilndR.Polinationfalureinplants：whyithappensandwhenitmaersTrendsinlantScience,O,7（6)：270-277.Groom MJ.Alle effects limit population viabilityof an annual plant.The American Naturalist,，1998,151(6):487-496.LuckGW，DailyGCTropicalcoutrysdebirdaemblages：richess，composition，andforagingdiferbylandscapecontextEcolgicalApplications，2003，13(1）:235-247.

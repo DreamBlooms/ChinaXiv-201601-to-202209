@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "刷式密封泄漏流动及传热特性的研究第一部分：泄漏特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张元桥王妍²晏鑫李军1(1．西安交通大学叶轮机械研究所，西安710049;2．西安西热节能技术有限公司，西安710054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本文采用非线性 Darcian 多孔介质模型，对三种不同后夹板结构刷式密封的泄漏流动特性进行了数值研究，分析了压比、转速以及后夹板结构形式对刷式密封泄漏量、流场以及压力分布的影响规律。研究结果表明：刷式密封的泄漏量随压比的增大呈线性增大，随转速升高则略微减小。刷式密封的压力下降主要发生在刷丝束内部区域，而在上下游流体域内气流压力则基本分布均匀。后夹板的非通环形槽结构对刷式密封泄漏量及压力分布的影响很小，而通槽结构则会引起泄漏量的大幅增长，同时使压力分布产生变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词刷式密封；多孔介质模型；泄漏流动；数值模拟中图分类号：TK474.7 文献标识码：A 文章编号:0253-231X(2017)03-0482-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Investigations on the Leakage and Heat transfer Characteristics of Brush Sea Part 1: Leakagq Characteristics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Yuan-Qiaol WANG Yan² YAN Xin1 LI Jun1 (1.Institute of Turbomachmery,Xi'an Jiaotong University，Xi'an 710049,China 2. Xi'an TPRI Energx ohservation Technology Co.,Ltd.， Xi'an 710054, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe leakage characteristics of three types of brush seals with different backing plate structure were numerically investigated using non-linear Darcian porous medium model. Effect of pressure ratios, rotational speeds and the structural forms of backing plate on the leakage rate, fow field and the pressure distribution of brush seal are investigated using presented numerical method. The obtained results show that the leakage rate increases linearly as pressure ratio increases and decreases with respect to the rotational speed. The pressure drop mostly occurs in the bristle pack and pressure is kept almost constant at the upstream and downstream regions of the bristle pack. The non-connect annular groove has a little efect on the leakage rate and pressure distribution of brush seal, but connect annular groove would lead to leakage rate increasing significantly and change the pressure distribution of brush seal. _x ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsbrush seal; porous medium model ; leakage flow; numerical simulation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代叶轮机械对于机组功率、效率以及寿命的要求越来越高，而动静部位处间隙控制的改进则是改善叶轮机械整体性能最为经济有效的方式[1。刷式密封作为一种柔性接触式密封装置，不仅能显著地降低动静间隙处的泄漏损失 (其泄漏量仅为传统迷宫密封的 $1 0 \\% \\sim 2 0 \\% ^ { [ 2 ] }$ )，同时柔性的刷丝束对于转子的偏心运行也具有极强的适应性。刷式密封优越的密封性能使其被越来越多地应用于航空发动机、工业燃气轮机、汽轮机和压气机中。因此，对于刷式密封封严性能及机理的研究显得尤为必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bayley和Long[3]在1993年首先采用线性Dar-cian多孔介质模型 (仅考虑刷丝束对流体的黏性阻力）对刷式密封的泄漏量进行了数值预测。Chew等[4,5]采用同时考虑了刷丝束对流体惯性阻力和黏性阻力的非线性Darcian多孔介质模型研究了刷式密封的泄漏流动特性。Dogu 和 Aksit[6,7]采用改进的非线性Darcian多孔介质模型，对不同前后夹板结构形式刷式密封的泄漏流动特性进行了研究。李军等[8利用非线性Darcian多孔介质模型，数值预测了不同刷丝束厚度的刷式密封在不同压比下的泄漏量。邱波等[9采用实验测量和数值模拟的方法，对一两级刷式密封的泄漏特性进行了详细的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "刷式密封虽看似结构简单，但其内部的泄漏流动形态却十分复杂。对于刷式密封泄漏流动特性的研究是提高刷式密封封严性能的关键。本文采用非线性Darcian多孔介质模型，对三种不同后夹板结构刷式密封的泄漏流动特性进行了数值研究，分析了压比、转速以及后夹板结构形式对刷式密封泄漏量和压力分布的影响规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数值方法和计算模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1多孔介质模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在刷丝束内部，刷丝的直径非常小且排列紧密，如果基于其内部真实的几何结构对流场进行求解是十分困难的。目前，在刷式密封泄漏特性的数值研究中，应用最为广泛且有效的方法是多孔介质模型与非多孔介质不同，在刷丝束多孔介质区域中，流体的流动不仅受到RANS方程中内部阻力和黏性阻力的影响，同时还要受到固体刷丝的阻力用。本文采用非线性Darcian 模型模拟刷丝束内部的泄漏流动，实际就是将附加的黏性损失项和惯性损失项引入到动量方程中，如式(1)和(2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial ( \\rho u _ { i } u _ { j } ) } { \\partial x _ { j } } = - \\frac { \\partial \\underset { \\partial x _ { i } } { \\iint } } { \\partial x _ { i } } + \\frac { \\partial \\tau _ { i j } } { \\partial x _ { j } } + F _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i } = - A _ { i } \\mu u _ { i } - { \\frac { 1 } { 2 } } B _ { i } \\rho \\left| u \\right| u _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $A _ { i j }$ 为黏性阻力系数矩阵； $B _ { i j }$ 为惯性阻力系数矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因类似流体在圆柱形颗粒填充床内的渗流，采用Ergun[10]方程对刷丝束多孔介质区域的阻为系数进行推导。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\Delta p } { L } = \\frac { \\alpha \\cdot \\mu ( 1 - \\varepsilon ) ^ { 2 } } { D _ { \\mathrm { p } } ^ { 2 } \\varepsilon ^ { 3 } } V + \\frac { \\beta \\cdot \\rho ( 1 - \\varepsilon ) } { D _ { \\mathrm { p } } ^ { 2 } \\varepsilon ^ { 3 } } V ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\alpha$ 和 $\\beta$ 为Eugrn方程的经验常数； $\\varepsilon$ 为填充床的孔隙率； $D _ { \\mathrm { p } }$ 为填充床内固体颗粒的平均直径，可由固体颗粒的比表面积 $\\alpha _ { \\mathrm { v } }$ 计算得出。对于圆柱体形的刷丝,",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { \\mathrm { v } } = { \\frac { S _ { \\mathrm { T o t a l } } } { V _ { \\mathrm { T o t a l } } } } = { \\frac { \\pi d \\cdot l } { ( \\pi d ^ { 2 } / 4 ) \\cdot l } } = { \\frac { 4 } { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { p } } = { \\frac { 6 } { a _ { \\mathrm { v } } } } = 1 . 5 d\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $d$ 为刷丝直径； $l$ 为刷丝长度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义与转轴平行的方向为 $z$ 方向，转子横截面内与刷丝平行的方向为 $m$ 方向，与刷丝垂直的方向为 $\\mathbf { \\Omega } _ { n }$ 方向，则三个方向上的黏性以及惯性阻力系数可分别表示为 $\\alpha _ { \\mathrm { z } }$ $\\setminus \\alpha _ { \\mathrm { m } } , \\alpha _ { \\mathrm { r } }$ $\\alpha _ { \\mathrm { n } }$ 和 $b _ { \\mathrm { z } }$ $\\cdot \\ b _ { \\mathrm { { m } } } \\cdot \\ b _ { \\mathrm { { n } } }$ 。结合公式(2)、(3)和(5）可以推导得出各阻力系数的计算公式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { \\mathrm { z } } = a _ { \\mathrm { n } } = { \\frac { 6 6 . 6 7 ( 1 - \\varepsilon ) ^ { 2 } } { d ^ { 2 } \\varepsilon ^ { 3 } } } , a _ { \\mathrm { m } } = 0 . 4 \\varepsilon a _ { \\mathrm { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { \\mathrm { z } } = b _ { \\mathrm { n } } = { \\frac { 2 . 3 3 ( 1 - \\varepsilon ) } { d \\varepsilon ^ { 3 } } } , b _ { \\mathrm { m } } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以看出，刷丝束的阻力系数主要由刷丝直径和孔隙率所决定。其中，孔隙率是指多孔介质区域中空隙体积与总体积之比。对密封几何结构的分析可知，刷丝束在靠近转子附近的排列比远端更为紧密。因此，刷丝束的孔隙率沿径向呈逐渐增大的趋势。文戴推导得出了刷丝束孔隙率沿转子径向变化的表达式如式 (8)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon _ { \\mathrm { r } } = 1 - { \\frac { d ^ { 2 } N \\pi D } { 8 r w \\sin \\varPhi } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 为刷丝密度； $D$ 为密封直径； $\\boldsymbol { r }$ 为径向高度； $w$ 为刷丝束厚度； $\\varPhi$ 为刷丝倾斜角。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在式(8)中，刷丝束厚度 $w$ 为一不确定量。尽管刷式密封在设计时存在初始厚度，但在实际运行过程中，气流压差会使得刷丝束厚度发生变化。因此，在采用上述介绍的多孔介质模型对刷式密封内部的泄漏流动进行数值模拟前，需先用实验数据对刷丝束多孔介质区域的孔隙率及阻力系数进行校正。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2计算模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对三种不同后夹板结构刷式密封的泄漏流动特性进行了数值研究，各刷式密封的结构及其尺寸(单位mm)如图1所示。其中，结构1刷式密封采用典型后夹板结构形式；而结构2刷式密封则在后夹板上设计了一个环形减压槽，但开槽区域并未与下游腔室相连通；结构3在结构2的基础上，将后夹板上的环形减压槽设计为与下游相连通的形式。刷式密封的具体几何参数如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b20fadda91c5874ea4f827890ab5b6ae766c5db88e787f1c3eedefe482e478dd.jpg",
+        "table_caption": [
+            "表1刷式密封几何参数",
+            "Table 1 Geometrical parameters of brush seal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>数值</td></tr><tr><td>转子直径D/mm</td><td>400.0</td></tr><tr><td>前夹板内径Di/mm</td><td>406.0</td></tr><tr><td>后夹板内径D2/mm</td><td>401.6</td></tr><tr><td>刷式密封外径D3/mm</td><td>430.0</td></tr><tr><td>围栏高度H/mm</td><td>0.8</td></tr><tr><td>刷丝倾斜角Φ/()</td><td>45</td></tr><tr><td>刷丝直径d/mm</td><td>0.08</td></tr><tr><td>刷丝束厚度w/mm</td><td>1.0</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d593ffa780dc852bc1191fb54081bd0004c020d1a1c03e238c504127aefdf74b.jpg",
+        "img_caption": [
+            "Fig.1Schematic of brush seal configuration: (a) configuration 1; (b) configuration 2; (c)configuration 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "刷式密封呈轴对称性，同时其内部流动在转子圆周方向也呈现周期性，因此在数值计算中选取周向 $1 ^ { \\circ }$ 的弧段作为研究对象。采用ANSYSICEMCFD软件生成计算区域的多块结构化网格。图2中以结构2为例给出了刷式密封泄漏特性计算中所采用的网格，网格的节点总数大约为30万。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/27100508a270d3c58e8be39997b0d0a4765a36d93ebd9c250bee93b96cb3b6ed.jpg",
+        "img_caption": [
+            "图2刷式密封泄漏特性计算网格",
+            "Fig.2 Leakage characteristics of brush seal computational grid "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数值方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用商用CFD 软件ANSYSCFX对各结构刷式密封的泄漏流动特性进行数值研究。用 $k - \\omega$ SST两方程紊流模型模拟刷丝束以外的流体区域；而在刷丝束内部由于雷诺数相对较小，故采用层流模型。在数值计算中，工质选用可压缩理想空气。进口边界条件按照所模拟工况的压比给定总压及总温，出□给定静压。上壁面设置为无滑移壁面；同时定义转子表面为转动壁面，并按所模拟工况给定转速。表2中给出了各边界条件的具体取值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2边界条件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d7c40624efbd7b9ef67709564791488a70c58a4532537df245eac459de99fb5.jpg",
+        "table_caption": [
+            "Table 2 Boundary conditions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>数值</td></tr><tr><td>进口总温Tin/C</td><td>20.0</td></tr><tr><td>出口静压Pout/kPa</td><td>97.0</td></tr><tr><td>压比Rp</td><td>1.2-1.5-2-2.5-3-3.5-4</td></tr><tr><td>转速n/(kr/min)</td><td>1-3-6-9-12</td></tr><tr><td>工质</td><td>可压缩理想空气</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数值方法有效性验证",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多孔介质模型中刷丝束的阻力系数是由经验公式推导得出的。因此在数值计算时需要先用实验数据对其进行校准，以确保数值计算模型的有效性。图3给出了采用本文数值方法预测所得的结构1刷式密封的泄漏量与实验测量值的对比。可以看出在整个压力范围内，刷式密封泄漏量在各压比下的数值预测值与实验值基本一致，表明本文所采用的多孔介质模型计算刷式密封泄漏流动特性以及阻力系数计算是合理的。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a5645774fc787113e1f129370ed73b4b20d67186d0434748625f8836e52acbb.jpg",
+        "img_caption": [
+            "图1刷式密封结构示意图",
+            "图3刷式密封泄漏量的计算值与实验值对比 Fig.3 Comparison of numerical result and experimental leakage of brush seal "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 泄漏量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4(a)、(b)分别给出了采用本文数值方法计算所得的三种不同结构刷式密封的泄漏量随压比和转速的变化曲线。从图中可以看出，三种不同后夹板结构刷式密封的泄漏量均随压比的增大呈线性显著增大。而随着转速的升高，三种结构刷式密封的泄漏量都有所降低，特别是高转速时，下降比较明显。这是因为随着转速的升高，刷式密封中泄漏气流的周向速度增加，旋涡流动强度增大，黏性耗散作用增强，从而使降刷式密封的泄漏量降低。从图4中还可以看出，在整个计算工况范围内，结构1刷式密封(典型后夹板结构)和结构2刷式密封 (后夹板带非通槽)的泄漏量差别不大，但结构3刷式密封(后夹板带通槽)的泄漏量则明显大于前两种结构。这说明后夹板上的通槽结构会引起泄漏量的大幅增长，影响刷式密封的封严性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2静压及流线分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5(a)、(b)分别给出了压比为3.0和4.0，转速为 $\\mathrm { 6 0 0 0 ~ r / m i n }$ 时，结构1刷式密封的静压云图及流场。从图中可以看出，不同压比下刷式密封的流场及静压分布相似。气流压力在刷丝束上游区域和下游区域内基本分布均匀。压力的下降主要集中在刷丝束的内部区域，尤其是后夹板的内缘转角处。压力梯度在刷丝束围栏高度以下区域较大，这是因为泄漏通过刷丝束的气流主要在此进行膨胀和加速，使得压力值迅速下降至刷丝束下游值。来自上游的气流冲击到刷丝束上后渗透进入刷丝束内部。之后在后夹板的阻挡作用下，改变流动方向沿径向向下流动，并从围栏高度以下区域泄漏进入下游。从两幅图的对比中可以看出，压比的变化对刷式密封的压力分布规律及流动形态影响很小。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/be6caae4714889c03a8ec2e5ed2c2a8e9c2e020cb053bf5cdcd6ec765a5c2b8f.jpg",
+        "img_caption": [
+            "图4不同结构刷式密封的泄漏量随压比和转速变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/707053fada2813c8b9f23ee565b73ccc2b2734f7cb4a7c849384ec082d8aaf57.jpg",
+        "img_caption": [
+            "Fig.4 Leakage of diferent structure brush seals versus pressure ratio and rotational speed ",
+            "图5 结构1刷式密封不同压比下的静压及流线分布 $( n = 6 0 0 0 ~ \\mathrm { r / m i n } )$ 5 Pressure contours and streamline distributions of brush seal (configuration 1) versus pressure ratio $\\dot { \\bf \\Omega } \\mathrm { \\Omega } n = 6 0 0 0 \\mathrm { \\Omega } \\mathrm { r } / \\mathrm { m i n } \\mathrm { \\Omega } ,$ （2号"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9faab84218aab0a7e5effd4530ef3171b884b91fe6900d3fe422c1bc741dd288.jpg",
+        "img_caption": [
+            "图6不同结构刷式密封的静压及流场分布 $\\mathbb { Q } \\mathbb { R } _ { \\mathrm { p } } ^ { \\ Z } = 2 . 5$ ， $n = 6 0 0 0 ~ \\mathrm { r / m i n }$ ） Fig.6 Pressure contours and streamline distributions of different structure brush seals ( $\\mathrm { \\Delta } R _ { \\mathrm { p } } = 2 . 5$ ， $n = 6 0 0 0 ~ \\mathrm { r / m i n }$ ：(a) configuration 1(typical backing plate structure); (b)configuration 2(non-connect groove baking plate structure); (c) configuration 3 (connect groove baking plate structure) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6分别给出了在压比为2.5，转速为6000$\\mathrm { { r / m i n } }$ 时三种不同后夹板结构刷式密封的静压及流线分布。从图中可以看出，结构1 (典型后夹板结构)和结构2(后夹板带非通槽)刷式密封的压力及流线分布基本相同，压力的下降主要集中在刷丝束的内部区域。而与前两种结构相比，结构3(后夹板带通槽)刷式密封的压力分布则有较大不同。压力的下降不仅发生在刷丝束的内部，在开槽区域及之后的流体域内也存在着明显的压力梯度。另外，由于开槽部分与下游相连通，结构3刷式密封刷丝束内部及开槽区域的压力值较前两种结构有所降低。综上可以看出，后夹板上的非通环形槽结构对刷式密封的压力及流线分布影响很小，但通槽结构则会使刷式密封内的压力及流线分布产生较大变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3刷丝束表面压力分布",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定义无量纲压力系数 $P ^ { * }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ^ { * } = ( P - P _ { \\mathrm { d } } ) / ( P _ { \\mathrm { u p } } - P _ { \\mathrm { d } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { \\mathrm { d } }$ 为刷丝束下游压力值， $P _ { \\mathrm { u p } }$ 为刷丝束上游 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "压力值。同时定义无量纲轴向位置 $z ^ { * }$ ，",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz ^ { * } = z / w\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $z$ 为距刷丝束上游面的轴向距离， $w$ 为刷丝束厚度。刷丝束上游面、下游面、上端面和下端面的位置如7所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/92ab496d3625dc7b40774faad13da5ed981a55ad7f55f0df3ea63b7beab1c555.jpg",
+        "img_caption": [
+            "图7刷丝束各表面示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "前两种结构有所不同，压力的下降不仅发生在刷丝束区域，在开槽区域及开槽区域后的流体域内都存在着明显的压力梯度。其中，刷丝束内部以及开槽区域之后的流体域内压力梯度较大，而开槽区域内的压力梯度则较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/be10c0122245d5ed5e0f8dc99aeff7445cfdc438a97ecc55e1a5729442ad0b8f.jpg",
+        "img_caption": [
+            "图8 结构1刷式密封刷丝束上端面和下端面沿轴向压力分布 Fig.8 Axial pressure distribution along bristle pack upper and lower surface of configuration one brush seal "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图8给出了结构1刷式密封在不同压比下，刷丝束上端面和下端面沿转子轴向的压力分布。可以看出，刷丝束上端面压力沿轴向基本保持不变，下端面压力则沿轴向从上游值逐步下降至下游值。刷丝束上下端面之间存在一径向压差，泄漏气流在此压差作用下沿径向向转子表面流动，并带动刷丝向转子面移动，从而产生吹闭效应 (Blown-down Effect)。从刷丝束的上游面到下游面，刷丝束上下端面之间，的径向压差逐渐增大，泄漏气流的径向流动也逐渐增强，并在刷丝束下游面处形成一强烈的沿径向向转子表面的流动。这一点从之前流线分布的分析中也可以看出。另外，随着压比的增大，刷丝束上下端面的径向压差逐渐增大。因此，当压比增大时刷式密封的吹闭效应增强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图9给出了在压比为2.5，转速为 $6 0 0 0 ~ \\mathrm { r / m i n }$ 时，三种不同结构刷式密封刷丝束下端面沿转子轴向的压力分布。从图中可以看出，结构1(典型后夹板结构)和结构2(后夹板带非通槽)刷式密封刷丝束下端面沿转子轴向的压力分布基本一致，压力的下降主要发生在刷丝束区域内。刷丝束上游面以上及下游面以下区域的压力则基本恒定。这与之前静压云图分布的分析结果相一致。结构3(后夹板带通槽)刷式密封刷丝束下端面沿转子轴向的压力分布则较",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a293b57ac5f46b195b9852c54a8ca8c6be76f9b543f87cbf53f4abc9401570df.jpg",
+        "img_caption": [
+            "Fig.7 Schematic of bristle pack surfaces at differeht places ",
+            "图9不同结构刷式密封刷丝束下端面的轴向压力分布 Fig.9 Axial pressure distribution along bristle pack lower surface of different configuration brush seals "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图10给出了不同压比下，结构1刷式密封刷丝束上游面和下游面沿径向的压力分布。其中，无量纲径向位置 $y ^ { \\ast }$ 的定义为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ^ { * } = y / l _ { \\mathrm { b } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $y$ 为距转子面的径向距离， $l _ { \\mathrm { b } }$ 为刷丝的自由长度。从图中可以看出，在不同压比下，刷丝束上、下游面沿径向的压力分布相似。刷丝束上游面的压力与上游压力值近似，下游面压力则从自由高度处到围栏高度处逐步自上游值下降至下游值，且在接近围栏高度时压力梯度显著增大。在围栏高度区域内，刷丝束下游面压力与下游压力差别不大。从图中还可以看出，随着压比的增大，刷丝束上游面和下游面之间的轴向压差逐渐增大，刷丝轴向变形加剧。因此在设计刷式密封时，应当保证刷丝束具有足够的强度，以避免在大压比下运行时产生过大轴向变形。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f0f60c5371e1728ec11c65f7565c461c0d64a6be87389924858e409deeeeeaa.jpg",
+        "img_caption": [
+            "图10 结构1刷式密封刷丝束上游面和下游面沿径向的压力分布",
+            "Fig.10 Radial pressure distribution along bristle pack upstream and downstream surface of brush seal (configuration 1) ",
+            "Fig.11 Radial non-dimensional pressure coefficient $P ^ { * }$ along bristle pack upper and lower surface of different configuration brush seals "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图11为压比2.5，转速 $\\mathrm { 6 0 0 0 ~ r / m i n }$ 时，兰种结构刷式密封刷丝束上游面和下游面沿径向的无量纲压力系数 $P ^ { * }$ 的分布曲线，从图中可以看出，结构1(典型后夹板结构)和结构2(后夹板带非通槽)刷式密封刷丝束上、下游面的压力分布基本一致。而结构3(后夹板带通槽）刷式密封的压力分布则较前两种结构有较大不同。上游面压力在接近自由高度处发生下降，且自由高度以上区域刷丝束上、下游面的压力值要明显低于前两种结构。下游面的压力上升不仅发生在自由高度至围栏高度处，且在围栏高度以内区域也存在压力上升。另外，围栏高度区域内结构3刷式密封下游面的压力值要明显高于刷丝束下游流体域压力值，因此在刷丝束下游面以后区域仍会存在一定的轴向压力梯度，这与之前图9 中",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "压力曲线的分析相一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5026dcbf933acd93702b49b2fd963bbcecfd350ec127f618dc760535dcba018b.jpg",
+        "img_caption": [
+            "图11不同结构刷式密封刷丝束上下游面沿径向无量纲压力系数 $P ^ { * }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文采用非线性Darcian多孔介质模型，对三种不同后夹板结构的刷式密封在不同工况下的泄漏流动特性进行了详细的数值研究，对比分析了不同结构刷式密封在不同压比、转速下的泄漏量、流场和压力分布。得出以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "）刷式密封的泄漏量随压比的增大呈线性显著增大。而随转速的升高则略有降低。后夹板的非通环形槽结构对刷式密封的泄漏量影响很小，但通槽结构则会引起泄漏量的大幅增长，影响刷式密封的封严性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2)结构1(典型后夹板结构）和结构2(后夹板带非通槽)刷式密封的静压以及流场分布基本相同。气流的压力在刷丝束上游区域和下游区域内分布均匀，压力的下降主要集中在刷丝束内部区域，尤其是后夹板的内缘转角处。结构3(后夹板带通槽)刷式密封的流场及压力分布则与前两种结构有较大不同。压力的下降不单集中在刷丝束内部，在开槽部分及之后的流体区域内也存在较大的压力梯度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3）刷丝束上下端面之间存在径向压差，泄漏气流在此压差作用下沿径向向转子表面流动，并带动刷丝向转子面移动，从而产生吹闭效应。当压比增大时刷式密封的吹闭效应增强。当压比增大时，刷",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "丝束上游面和下游面之间的轴向压差也逐渐增大。",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Chupp R E,Hendricks R C,Lattime SB,et al.Sealing in Turbomachinery [J].ASME Journal of Propulsion and Power,2006,22(2):313-349   \n[2]何立东，袁新,尹新.刷式密封研究的进展[J].中国电机工 程学报,2001,21(12)；28-32 HE Lidong,YUAN Xin,YIN Xin.The Advance in the Investigation of Brush Seal [J].Proceedings of the CSEE, 2001,21(12):28-32   \n[3]Bayley F J,Long C A.A Combined Experimental and Theoretical-study of Flow and Pressure Distributions in a Brush Seal [J].ASME Journal of Engineering for Gas Turbines and Power,1993,115(2): 404-410   \n[4]Chew JW,Lapworth BL,Millener PJ.Mathematical Modeling of Brush Seals [J]. Int JHeat Fluid Flow,1995, 16(6): 493-500   \n[5] Chew JW,Hogg SI.Porosity Modeling of Brush Seals [J].ASME Journal of Tribology,1997,119(4):769-775   \n[6] Dogu Y,Aksit M F.Effects of Geometry on Brush Seal Pressure and Flow Fields-part I:Front Plate Configurations [J].ASME Journal of Turbomachinery, 2006,128(1): 367-378   \n[7]Dogu Y,Aksit M F.Effects of Geometry on Brush Seal Pressure and Flow Fields - part II: Backing Plate and Configurations [J].ASME Journal of Turbomachinery, 2006,128(1):379-389   \n[8]李军,晏鑫，丰镇平．刷式密封泄漏流动特性影响因素的研 究[J].热能动力工程,2007,22(3):250-254 LIJun,YAN Xin,FENG Zhenping.A Study of the InfluenceFactorsofBrush SealLeakage FlowCharacteristics [J]. Journal of Engineering for Thermal Energy and Power, 2007,22(3):250-254   \n[9]邱波，李军，冯增国，等.两级刷式密封泄漏特性的实验与数 值研究[J].西安交通大学学报，2013,47(7)：7-2 QIU Bo,LI Jun,FENG Zengguo,et al.Experimental and Numerical Investigations of the Leakage Characteristics of Two-Stage Brush Seal [J]. Journal of Xi'an Jiaotong University,2013,47(7):7-2   \n10] Ergun S.Fluid Flow Through Packed Columns [J].Chem Eng Prog,1952,48(2): 89-94   \n11]邱波刷式密封的泄漏流动与传热及接触力特性的研究[D]. 西安：西安交通大学，2015 QIU Bo. Investigation of Leakage Flow,Heat Transfer and Contact Force Characteristics in Brush Seals [D].Xi'an: Xi'an Jiaotong University, 2015 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/207a2617645a86f9af08fa71658d87697a2562d1125f962887496ed48ae2a760.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    }
+]

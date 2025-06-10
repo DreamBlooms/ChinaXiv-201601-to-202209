@@ -1,0 +1,264 @@
+# DOI: 10.5846/stxb201611112296
+
+秦斐斐,慈敦伟.花生幼苗对重复干旱胁迫的生理响应.生态学报,2017,37(24)：8486-8498.  
+QinFFChtoo8486-8498.
+
+# 花生幼苗对重复干旱胁迫的生理响应
+
+秦斐斐\*，慈敦伟山东省花生研究所，青岛266100
+
+摘要：防雨棚内设盆栽试验，设置对照（Control, $7 5 \%$ 田间持水量)、干旱胁迫， $( \mathrm { D } , 3 5 \%$ ）、重复干旱胁迫( $\mathrm { p } _ { \mathrm { p } } , 3 5 \% )$ 3个处理,探讨花生幼苗对预干旱胁迫的适应和记忆响应,分析预干旱对缓解重复干旱胁迫危害的生理作用。结果表明,与干旱胁迫处理相比,重复干旱胁迫提高了叶片的相对含水量,减少脯氨酸的积累,降低 MDA 和 $\mathbf { 0 } \cdot { } _ { 2 } ^ { - }$ 含量;抗氧化酶 ${ \mathrm { s o p } } _ { \leqslant \mathrm { C A T } }$ 活性降低,其中POD 活性降低最为明显,并在复水后恢复到与对照相同水平或低于对照。与正常水分的对照相比，干旱胁迫显著降低叶片光合速率 $( P _ { \mathrm { { N } } } )$ 、最大光合势能( $( P _ { \mathrm { c } } )$ 、最大光量子产量( ${ \bf \nabla } \cdot { \cal Y } _ { 0 } )$ ,但重复干旱处理在重复干旱胁迫时期和复水后 $P _ { \mathrm { ~ N ~ } } \sqrt { P _ { \mathrm { ~ C ~ } } }$ 和 $Y _ { \mathrm { { Q } } }$ 均高于干旱处理。预干旱胁迫导致光合和气孔导度滞后面积、滞后率( $H _ { \mathrm { P } }$ 和 $H _ { \mathrm { g } }$ )增加,经过预干旱胁迫后,重复干旱显著降低光合和气孔导度滞后面积和滞后率。预干旱胁迫提高植株在重复干旱胁迫下叶片含水量,减轻重复干旱对植株造成的生理伤害,在光合作用上提高对重复干旱的抵御能力,并在复水后快速恢复到正常水分条件下植株生长水平,减少干旱对植株的不利影响。因此,预干旱胁迫促使花生幼苗具备适应或可记忆初始胁迫的能力,重复干旱胁迫时表现更为迅速和强烈的生理防御和快速的生理恢复机制。
+
+关键词：重复干旱胁迫；光合滞后；花生;抗氧化酶;气孔导度滞后;胁迫记忆
+
+# Previous drought alters physiological responses to subsequent drought stress in peanut seedlings
+
+QINFeifei\*，CIDunwei ShandongPeanut Research Institute，Qingdao 266iOo,China
+
+Abstract:Apot experiment was performed inarain shelter.The aimof this studywas toexplorethepossible physiological responses orroles of pre-drought priming to/indamage alleviation of subsequent severe drought stress in peanutseedlings. Three treatments were designed as follows : control ( $7 5 \%$ of field water capacity），drought stress without pre-drought treatment（D, $3 5 \%$ ），and subsequent drought stress with pre-drought treatment $( \mathrm { ~ D ~ , ~ } 3 5 \% )$ ．Compared with the D treatment，pre-drought priming increased the leaf relative water content and reduced prolineaccumulation in the $\mathrm { D } _ { \mathrm { p } }$ （20 treatment when seedlings experienced subsequent drought stress.In addition，MDA and $\mathbf { 0 } \cdot { } _ { 2 } ^ { - }$ contents and activities of antioxidant enzymes including superoxide dismutease（SOD），catalase（CAT），and peroxidase（POD）decreased in response to the $\mathrm { D } _ { \mathrm { { D } } }$ treatment and recovered to the level of the control，or lower，following rewatering.Drought decreased photosynthetic rate $\left( P _ { \mathrm { { N } } } \right)$ ，photosynthetic capacity $( P _ { \mathrm { c } } )$ ，and maximum quantum yield of PSII $( Y _ { \mathrm { { Q } } } )$ . However, $P _ { \mathrm { { N } } } , P _ { \mathrm { { C } } }$ ， （20 $\mathrm { a n d } \ : Y _ { \mathrm { q } }$ in the $\mathrm { \Delta D _ { p } }$ treatment were higher than those in the D treatment when sedlings experienced a second drought stress. The hysteresis area and hysteresis rate of leaf photosynthesis ( $\cdot H _ { \mathrm { p } }$ ）and stomatal conductance $( H _ { \mathrm { g } } )$ decreased significantly in response to the $\mathrm { \Delta D _ { \mathrm { { D } } } }$ treatment folowing repetitive drought and rewatering.In conclusion，pre-drought priming increased leaf relative watercontent duringthesubsequent drought stress,，reduced physiological damage causedbysubsequent drought stress，andenhancedresistance todrought stress.Theseedlings that experienceddroughtpriming hadthecapacitytorecover quicklytothe growth level observed under normal soil water conditions.Therefore，peanutseedlingscanadapt or ‘recognize’the initial stressr from aprevious exposure to drought stress，and displayed a more rapidand stronger physiological defense to the second drought stress using a fast physiological recovery mechanism.
+
+KeyWords:recurent drought stress；photosynthetic hysteresis；peanut；antioxidant enzymes；hysteresisof stomatal conductance；stress memory
+
+植物不能像动物一样可以很快地逃避恶劣环境如强光、高温、寒冷、干旱、盐碱、病害等,环境胁迫严重影响植物的生长发育,造成作物的严重减产。自然界各种环境变化对植物的影响是多变、逐渐积累、重复或交替发生的,植物在其生命周期中往往会遭受多次不同程度的环境胁迫。通常情况下,单一的环境胁迫会给植物造成严重的伤害,如细胞脱水、膜系统破坏、酶活性受影响、细胞代谢紊乱,植株生长受到抑制,进而影响产量。植物在长期的进化中具备了自身调节机制如胁迫感应、信号传导、基因调节、生理改变,以适应或记忆过去的胁迫遭遇,并快速地对环境变化做出反应来抵抗未来的环境胁迫。因此,研究植物适应重复多变的环境变化的机制对作物生产具有重要的指导意义。最近几年国内外研究提出“胁迫记忆"机制解释植物对多变、积累、重复或交替发生的环境胁迫的自身调节和适应[-6]。植物神经生物学认为,植物具有“胁迫记忆智能”,能够分辨积极和消极的"经历"并“记忆”这种经历,对再次面临的环境变化或胁迫增强抗性[7],这种对胁迫“记忆”的过程,称为 priming、hardening、conditioning、accimation 等[6,8]。例如,烟草植物经茉莉酮酸甲酯预处理后表现"免疫记忆”,积累尼古丁以应对再次茉莉酮酸甲酯处理[9]。非致死高温的梯度预处理增加致死高温下拟南芥的存活率[10],胁迫浓度的ABA重复预处理促使光诱导的气孔开放[11],强光预处理增强氧化胁迫和强光胁迫的耐性[12-13],高渗刺激或氧化预胁迫改变渗透胁迫下 $\mathrm { C a } ^ { 2 + }$ 信号并伴随长期的体细胞记忆和表观基因组的改变[14-15]。脱水预处理增加拟南芥[2,3]、玉米[16]叶片保水能力,SA/BABA预处理增强玉米、黄瓜、水稻幼苗的耐寒性[17],播种前种子盐水浸泡处理的小麦、西红柿植株表现明显的耐盐性[18-19]。小麦开花前单次或两次干旱预刺激减轻后期干旱胁迫带来的危害从而增加小麦的灌浆[20]。大量研究表明,植物可以识别并记忆初始胁迫,再次暴露于生物或非生物胁迫时表现更为迅速和强烈的生理防御以增加其生存的机会。对于生长在干旱和半干旱地区的作物,干旱频发严重影响着作物经济产量和品质。花生是重要的油料和经济作物,属于抗旱耐瘠的作物,然而每年约有 $20 \%$ 的减产由于干旱造成,在栽培的不同年份也容易多次在苗期、开花期等遭遇干旱胁迫。大部分关于花生干旱或缺水的研究主要集中在单一的干旱条件下,而实际生产中干旱或缺水环境是重复发生的,前一次的干旱胁迫可能是对后一次干旱或其他胁迫的驯化。花生苗期干旱锻炼可以提高产量已经得到实践的证实[21],然而其具体机制并不清楚。本研究集中在花生苗期对其进行预干旱-重复干旱胁迫,研究预干旱胁迫对花生幼苗在后一次干旱胁迫下生理响应的变化和对初始干旱的适应机制,揭示其干旱胁迫“记忆"的生理机制,期望为指导花生的实际生产提供一定的理论依据。
+
+# 1试验材料与设计
+
+供试花生品种为“花育 $2 0 ^ { \prime \prime }$ 。于 2015—2016年在山东省花生研究所防雨棚内进行盆栽试验,采用直径 23cm、高 $1 8 ~ \mathrm { c m }$ 的花盆,每盆装土 $3 ~ \mathrm { k g }$ ,土壤为砂壤土。选取生物量一致的花生种子（平均 $0 . 6 8 \ \mathrm { g } { \mathord { \left/ { \vphantom { 0 } } \right. \kern - delimiterspace } }$ 粒)播种,4穴/盆,出苗后间苗保留3株长势相近的幼苗。播种时间分别为6月12日(2015年)和6月13日(2016年)。
+
+本试验共设3个处理:1)对照(Control),正常浇水;2)无预干旱胁迫的幼苗进行干旱胁迫(D);3)预干旱胁迫的幼苗进行重复干旱胁迫 $\mathrm { ~ \langle ~ D _ { \mathrm { { D } } } ~ }$ )。试验为单因素随机分组设计,每组3个处理,每个处理9盆,重复3组,共81盆。设置土壤含水量控制在田间持水量的 $7 5 \%$ 为对照,花生出苗后1周开始预干旱胁迫，控制土壤含水量为田间持水量的 $3 5 \%$ ,预干旱胁迫时间为5d,胁迫结束后复水。对预干旱胁迫复水6d后的幼苗进行5d
+
+http://www.ecologica.cn
+
+重复干旱胁迫，控制土壤含水量为田间持水量的 $3 5 \%$ ,同时对未经预干旱胁迫的幼苗进行5d干旱胁迫，胁迫结束后复水恢复正常生长。根据干旱处理时间,试验划分为3个时期,stageI预干旱胁迫时期,stage II重复干旱胁迫时期,stage II重复干旱后复水时期。试验处理见表1。采用称重法控制各处理不同时期土壤含水量。
+
+表1试验处理  
+Table1 Experiment treatments   
+
+<html><body><table><tr><td rowspan="2">处理 Treatment</td><td colspan="4">土壤含水量(田间持水量)/% Soil relative water content（Field water capacity)</td></tr><tr><td>Stage I 预干旱5d Pre-drought treatment</td><td>复水6d Re-watering 6 days</td><td>Stage II 重复干旱5d Recurrent drought</td><td>Stage III 复水</td></tr><tr><td></td><td>5 days</td><td></td><td>treatment 5 days</td><td>Re-watering</td></tr><tr><td>对照Control</td><td>75</td><td>75</td><td>75 35</td><td>7 75</td></tr><tr><td>干旱D</td><td>75</td><td>75</td><td></td><td>75</td></tr><tr><td>重复干旱DD</td><td>35</td><td>75</td><td>35</td><td></td></tr></table></body></html>
+
+# 2测定项目与方法
+
+# 2.1 叶片相对含水量测定
+
+分别在 StageI和 Stage I胁迫处理第5天取混合叶片测定叶片相对含水量,每个处理样本重复数 $( n )$ 为5,叶片相对含水量(LRWC)计算公式如下:LRWC $( \% ) =$ (鲜重-干重) $\times 1 0 0 \text{‰}$ （吸水饱和后鲜重-干重）。
+
+2.2光合曲线和光合滞后的测定
+
+分别在 StageI和StageII胁迫第5天,StageIII复水后1天测定光合。参考 $\mathrm { X u }$ 等[22]的方法，采用CIRAS-3便携式光合作用测定系统(PP System，U.S.A.)对主茎倒1叶分别在 $0 , 2 0 0 , 5 0 0 , 8 0 0 , 1 2 0 0 , 1 6 0 0 , 2 0 0 0 \ | \mathrm { \mu m o l }$ $\mathrm { m } ^ { - 2 } \mathrm { ~ s ~ } ^ { - 1 }$ 光强下测定光合速率。对3次测定光合速率数据平均值做光强-光合速率曲线,曲线公式为 $P _ { \mathrm { { N } } } = P _ { \mathrm { { C } } } ( 1 -$ $\mathrm { e } ^ { - K I } ) { - } R _ { \mathrm { { D } } }$ ,其中 $P _ { \mathrm { ~ N ~ } }$ 净光合速率， $P _ { \mathrm C }$ 最大光合势能， $\bigstar _ { \mathrm { p } }$ 暗呼吸速率， $K$ 半时间常数, $I$ 光照强度， $Y _ { \mathrm { Q } }$ 最大光量子产量 $Y _ { \mathrm { Q } } = K P _ { \mathrm { c } } $ ）。
+
+光合滞后方法参考秦等[23]方法，测定光强从 $0 , 2 0 0 , 5 0 0 , 8 0 0 , 1 2 0 0 , 1 6 0 0$ 增加到 $2 0 0 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 下光合速率,获得光强-光合速率曲线 $f ( d _ { H } )$ ，然后测定光强从 $2 0 0 0 , 1 6 0 0 , 8 0 0 , 5 0 0 , 2 0 0$ 降低到 $0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 下光合速率,获得光强-光合速率曲线 $ { \mathcal { J } } ( I _ { L } )$ ,计算两条光合曲线所夹面积的定积分，即为光合滞后 $( H _ { \mathrm { P } } )$ 。计算公式为 $H _ { \mathrm { P } } = 1 - \int _ { a } ^ { b } f ( I _ { L } ) \wedge \int _ { a } ^ { b } f ( I _ { H } )$ ，其中， $I _ { \mathrm { L } }$ 和 $I _ { \mathrm { H } }$ 为光照强度,a和b分别为0到 $2 0 0 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 和 2000到 $0 ~ \mu \mathrm { m o l }$ $\mathrm { m } ^ { - 2 } \mathrm { ~ s ~ } ^ { - 1 }$ 的光照强度。
+
+2.3气孔导度和气孔导度滞后的测定
+
+测定光合速率的同时测定气孔导度,气孔导度-光强曲线公式 $g _ { \mathrm { s } } { = } g _ { \mathrm { c } } { \big ( } 1 { - } \mathrm { e } ^ { - \alpha I } { \big ) } { - } g _ { 0 }$ ,其中 $g _ { \mathrm { s } }$ 气孔导度， $ { \boldsymbol { g } } _ { \mathrm { c } }$ 最大气孔导度 $, g _ { \mathrm { { o } } } \ 0 \ \mu \mathrm { { m o l } \ \mathrm { { m } } ^ { - 2 } \ \mathrm { { s } } ^ { - 1 } }$ 光强时气孔导度， $\alpha$ 气孔开度相关常数， $I$ 光照强度。气孔导度滞后计算方法同Hp。
+
+# 2.4脯氨酸测定
+
+参照Bates 等[24]和Marin 等[25]的酸性芘酸酮测定,稍作修改。 $0 . 3 \mathrm { g }$ 混合叶片经 $5 \mathrm { \ m L } 3 \%$ 磺基水杨酸$1 0 0 ^ { \circ } \mathrm { C }$ 水浴 $1 0 ~ \mathrm { m i n }$ 作为脯氨酸提取液，脯氨酸提取液：冰醋酸： $2 . 5 \%$ 酸性芘酸酮(1:1:1)混合液 $1 0 0 \mathrm { ^ { \circ } C }$ 水浴30min后冰浴终止反应，加入 $4 ~ \mathrm { m L }$ 甲苯提取, $5 2 0 ~ \mathrm { n m }$ 测定吸光值。
+
+2.5超氧阴离子 $( 0 \cdot _ { 2 } ^ { - } )$ 和MDA测定超氧阴离子参考采用Bissenbaev等[26]羟胺氧化法。MDA采用硫代巴比妥酸法[27]。
+
+2.6抗氧化酶活性测定
+
+抗氧化酶活性液提取参考 Bradford 方法[28],SOD 参考 Beyer 和Fridovich[29]和 Chakrabarty 等[30]NBT 法,
+
+$1 3 5 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 光强下照光 $5 ~ \mathrm { m i n }$ 。CAT 测定参考Beers 和 Sizer[31]方法,POD参考Khalil等[32]愈创木酚氧化法。
+
+$\left| 0 \cdot { } _ { 2 } ^ { - } \right.$ 、MDA 和抗氧化酶测定样品为混合叶片,每个处理采取3株花生幼苗,摘取心叶下完全展开的叶片，分别混合后取样,样品测定量为 $0 . 4 \ \mathrm { g }$ ,取样时间分别在 StageI和 StageII胁迫第5天,StageIII复水后第1天。吸光值均采用Ultrospec $2 1 0 0 ~ \mathrm { p r o }$ 紫外/可见分光光度计（Amersham Biosciences）测定。
+
+# 2.7 数据处理
+
+用Origin7.5软件进行数据整理和作图,用SAS 8.0数据分析软件进行统计分析,采用LSD法进行差异显著性检验。
+
+# 3结果
+
+3.1重复干旱提高叶片相对含水量
+
+预干旱胁迫影响幼苗的生长发育,表现明显的干旱特征,地上部矮小,叶片萎焉,叶片相对含水量降低到$6 7 . 3 0 \%$ (图1)。对花生幼苗进行重复干旱胁迫,发现干旱胁迫(D)处理幼苗叶片萎焉的程度比重复干旱胁迫（ $\mathrm { ~ \dot { ~ } D _ { \mathrm { { D } } } ~ }$ )处理高，但 $\mathrm { \Delta D _ { D } }$ 处理植株比D处理更矮小， $\mathrm { \Delta D _ { D } }$ 处理叶片相对含水量( $6 4 . 8 2 \% \cdot$ 显著高于D处理( $5 3 . 3 4 \%$ ）（图1)。因此,预干旱胁迫显著提高了重复干旱胁迫下花生幼苗叶片的相对含水量。
+
+![](images/7539d6f73172eb87506e1e7364e03f644ea990a62d337b93e9dd3f970830ec78.jpg)  
+图1叶片相对含水量  
+Fig.1Leaf relative water content
+
+左,预干旱胁迫5天;右,重复干旱5天;小写字母表示处理间差异显著( $\scriptstyle P < 0 . 0 5 )$ ；大写字母表示处理间差异极显著( $P { < } 0 . 0 1$ ）
+
+# 3.2重复干旱减少脯氨酸的积累
+
+花生幼苗在 StageI时期经预干旱胁迫后，叶片迅速大量积累脯氨酸 $( 4 7 1 . 7 1 ~ \mu \mathrm { g / g }$ 鲜重)以防御干旱胁迫（图2)。Stage ⅡI重复干旱胁迫时期,D 处理花生幼苗叶片中脯氨酸含量超过 $3 5 0 0 ~ \mu \mathrm { g / g }$ 鲜重,约为对照的 45倍。D,处理叶片中积累的脯氨酸含量( $1 3 1 2 . 6 8 ~ { \mu \mathrm { g / g } }$ 鲜重)仅为D 处理的1/3,呈极显著差异。Stage II复水后各处理幼苗叶片中脯氨酸含量急剧减少,但 $\mathrm { \Delta D _ { D } }$ 处理叶片中脯氨酸含量降低到 $1 5 0 . 4 2 ~ \mu \mathrm { g / g }$ 鲜重,仍低于D处理( $4 2 2 . 7 5 ~ \mu \mathrm { g / g }$ 鲜重）,对照在3个时期脯氨酸水平无明显差异。
+
+# 3.3 重复干旱降低MDA 和 $0 \cdot { } _ { 2 } ^ { - }$ 含量
+
+干旱胁迫可以引起植物体内活性氧自由基积累,进而导致细胞膜脂过氧化，产生过量MDA,造成细胞膜系统受到破坏。本试验,Stage I预干旱胁迫增加花生幼苗叶片 MDA 的积累,比对照高 $4 0 . 5 6 \%$ （图3）。StageⅡ 重复干旱胁迫时期,D处理叶片中积累的MDA含量是对照的 $1 0 7 . 9 4 \%$ ，而 $\mathrm { \Delta D _ { D } }$ 处理叶片中积累的 MDA水平仅是D处理的 $3 8 . 1 9 \%$ ,甚至比对照叶片中MDA含量低 $2 5 . 9 1 \%$ ,但未达到极显著差异。Stage III复水后,D和
+
+$\mathrm { \Delta D _ { p } }$ 两处理MDA降低到与对照无显著差异。
+
+预干旱胁迫的叶片中 $\left. 0 \cdot \frac { - } { 2 } \right.$ 自由基含量与对照无显著差异（图3）。StageⅡI重复干旱时期，D处理导致花生幼苗叶片大量积累 $\left. 0 \cdot \frac { - } { 2 } \right.$ ,含量是对照的2.12倍， $\mathrm { \Delta D _ { p } }$ 处理 $\mathrm { O } \cdot { } _ { 2 } ^ { - }$ 含量显著低于D处理。StageIII复水后由于干旱胁迫的解除,叶片中 $\left. 0 \cdot \frac { - } { 2 } \right.$ 含量急剧下降,但仍表现为 $\mathrm { \Delta D _ { D } }$ 低于D，甚至低于对照。
+
+# 2.4重复干旱降低抗氧化酶活性
+
+预干旱胁迫促使花生幼苗启动抗氧化酶保护系统，本试验测定了SOD、CAT和POD活性，结果如图4所示,预干旱胁迫（StageI)显著增强叶片中 SOD 和CAT活性,POD活性有所增加但与对照无显著差异。StageⅡI重复干旱胁迫时期,D处理SOD和POD 活性极显著的高于对照，分别是对照的2.45倍和3.62倍， $\mathrm { \Delta D _ { D } }$ 处理叶片中SOD 和POD 活性显著低于D处理，尤其POD活性降低地更为显著，仅为D处理的 $5 6 . 4 3 \%$ 。 $\mathrm { \Delta D _ { p } }$ 处理叶片中CAT活性虽低于对照和D处理,但无显著差异。StageIII复水后，D和 $\mathrm { \Delta D _ { D } }$ 两处理叶片中SOD活性与对照无显著差异，但CAT和POD均低于对照，
+
+![](images/7ff6bc778a8b477057fbcf69e3315989d123ea03ec9c70087d0c96d0bd295748.jpg)  
+图2花生幼苗叶片脯氨酸含量
+
+Fig.2 Proline content in leaves of peanut seedlings大写字母表示处理间差异极显著( $P { < } 0 . 0 1$ ）
+
+时期I 时期I 时期Ⅲ 时期I 时期Ⅱ 时期ⅢI预干旱 重复干旱 复水 预干旱 重复干旱 复水0.20A 80 A0.180.16 70 AB(/rol)/nantr tn 0.14 （重/ou）/n0 60善VAN 0.12 B 喜 50 BCDT BC0.10 工 B 40 CD T CD0.08 B B BT B工 B T T30 D0.06 工 D200.040.02 100 01g "J1 a 旱 D旱加干 士重
+
+图3花生幼苗叶片MDA和O· $\mathbf { \Sigma } _ { 2 } ^ { - }$ 含量  
+Fig.3MDA and $\mathbf { O } \cdot \mathbf { \sigma } _ { 2 } ^ { - }$ contents in leaves of peanut seedlings大写字母表示处理间差异极显著( $P { < } 0 . 0 1$ ）
+
+# 3.5重复干旱增强叶片光合能力和气孔导度
+
+# 3.5.1 光合曲线
+
+光合速率-光强曲线(图5)可以看出，预十旱胁迫抑制了花生幼苗叶片的光合作用，表现在降低每个光强下的光合速率 $( P _ { \mathrm { { N } } } )$ 。在 Stage II重复干旱胁迫时期,花生幼苗由于受到干旱胁迫的影响光合速率接近于0,经
+
+![](images/217938b082e7bc84bf1e01b60ccded31b99f4de0984b46069d9656169364bccb.jpg)  
+图4花生幼苗叶片抗氧化酶活性  
+Fig.4 Antioxidant enzyme activities in leaves of peanut seedlings
+
+大写字母表示处理间差异极显著( $P { < } 0 . 0 1$ ）
+
+过预干旱胁迫的 $\mathrm { \Delta D _ { p } }$ 处理叶片光合速率稍高于D处理。Stage III复水后,两处理均低于对照,但 $\mathrm { \Delta D _ { D } }$ 处理在光强超过 $5 0 0 ~ { \mu \mathrm { m o l } } ~ { \mathrm { m } } ^ { - 2 } ~ { \mathrm { s } } ^ { - 1 }$ 时光合速率显著的高于D处理。
+
+从光合曲线各参数的结果(表2)看出,StageI预干旱胁迫显著降低了叶片最大光合势能 $( P _ { \mathrm C } )$ 、最大光量子产量 $( Y _ { \mathrm { { Q } } } )$ ,增强暗呼吸速率 $( R _ { \mathrm { p } } )$ 。 Satge $\mathrm { I I }$ 时期,D处理的 $P _ { \mathrm { c } } ( 4 . 8 \ \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 } .$ )仅为对照的 $1 2 . 9 \%$ $Y _ { \mathrm { Q } }$ $( 0 . 0 3 6 4 6 ~ \mathrm { \ m o l / m o l } )$ 仅为对照的 $3 9 . 5 \%$ ;半时间常数 $K ( 7 . 5 8 \times 1 0 ^ { - 3 }$ )代表光合速率达到最大光合势能 $6 3 \%$ 时所用的时间极显著大于对照。与 $\mathrm { ~ D ~ }$ 处理相比, $\mathrm { \Delta D _ { p } }$ 处理显著提高 $P _ { \mathrm { c } }$ 和 $Y _ { \mathrm { { Q } } }$ ,降低 $K$ 值。Stage III复水后,未经过预干旱胁迫的D 处理, $P _ { \mathrm { c } } ( 2 5 . 1 ~ { \mu } { \mathrm { m o l } } ~ { \mathrm { m } } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ )显著低于对照( $( 3 2 . 8 ~ \mu \mathrm { m o l } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ ，而 $\mathrm { \Delta D _ { p } }$ 处理 $P _ { \mathrm { c } } ( 3 2 . 7 ~ \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 }$ （20$\mathbf { s } ^ { - 1 }$ )与对照( $3 2 . 8 ~ \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 } ,$ 无显著差异,D和 $\mathrm { \Delta D _ { D } }$ 处理 $Y _ { \mathrm { { Q } } }$ 均显著高于对照,D 处理的 $K$ 值大于对照,而 $\mathrm { \Delta D _ { D } }$ 处理的 $K$ 值与对照无显著差异。
+
+# 3.5.2 光合滞后
+
+花生幼苗在 StageI预干旱胁迫下测定光合速率,模拟光合曲线,结果发现同一处理下,光强从0—2000$\mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ 增加时得到的光合曲线,与光强再从 $2 0 0 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 逐渐减少到 $0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 时得到的光合曲线不吻合,两条曲线所夹的面积不同(图6)。与光强从低到高逐渐增加时每个光强下的 $P _ { \mathrm { ~ N ~ } }$ 相比,光强再次从高到低减少时， $P _ { \mathrm { ~ N ~ } }$ 偏高或偏低,即同样光强下光合曲线并不吻合,这种现象称为光合滞后[23]。
+
+![](images/07dcda6daa19b8b79ed63ae480fc28c5daea7c08fe415292070d463836a81dae.jpg)  
+图5花生幼苗叶片光合曲线  
+Fig.5Photosynthetic response curves in leaves of peanut seedlings
+
+表2光合曲线参数  
+Table2Parameters from the analysis of photosynthetic light response curves   
+
+<html><body><table><tr><td>时期 Stages</td><td>处理 Treatment</td><td>最大光势能</td><td>暗呼 (Pc)/(μmol m-² s-1）(RD)/(μmol m-² s-1)</td><td>最大光量子产量(q) yield（YQ)</td><td>半H时间常数（K)（×10-3) (×10-³)/(m² s μmol-1)</td></tr><tr><td>I预干旱</td><td>对照</td><td>30.8A</td><td>1.3B</td><td>/(mol/mol) 0.04041a</td><td>1.31a</td></tr><tr><td>Pre-drought</td><td>预干旱</td><td>23.8B</td><td>2.1A</td><td>0.03046b</td><td>1.28b</td></tr><tr><td>Ⅱ重复干旱</td><td>对照</td><td>37.1a</td><td>4.0B</td><td>0.09238A</td><td>2.49C</td></tr><tr><td>Recurrent drought</td><td>干早</td><td>4.8c</td><td>2.5C</td><td>0.03646B</td><td>7.58A</td></tr><tr><td></td><td>重复干旱</td><td>7.3b</td><td>6.1A</td><td>0.04605B</td><td>6.30B</td></tr><tr><td>Ⅲ复水</td><td>●对照</td><td>32.8A</td><td>5.3B</td><td>0.08462B</td><td>2.58B</td></tr><tr><td>Re-watering</td><td>干</td><td>25.1B</td><td>7.7AB</td><td>0.09438A</td><td>3.76A</td></tr><tr><td></td><td>重复干旱</td><td>32.7A</td><td>9.9A</td><td>0.09254AB</td><td>2.83B</td></tr></table></body></html>
+
+各参数由 $P _ { \mathrm { { N } } } { = } P _ { \mathrm { { C } } } ( 1 { - } \mathrm { { e } } ^ { - K I } ) { - } R _ { \mathrm { { D } } }$ 计算得到；小写字母表示处理间差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ );大写字母表示处理间差异极显著( $P { < } 0 . 0 1 \$ ）
+
+本试验中,StageI预干旱胁迫时期,对照和预干旱胁迫处理当光强从 $2 0 0 0 { \mathrm { - } } 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 减少时,同一光强下的 $P _ { \mathrm { ~ N ~ } }$ 高于从（ $) - 2 0 0 0 \ \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 增加时的 $P _ { \mathrm { ~ N ~ } }$ 。两条曲线所夹的面积,即光合滞后面积（定积分值），预干旱胁迫处理极显著大于对照,滞后中值和光合滞后率 $( H _ { \mathrm { p } } \ 1 0 . 4 0 )$ 均极显著高于对照 $( H _ { \mathrm { p } } \ 7 . 3 7 )$ （表3）。Stage ⅡI重复干旱胁迫时期,D 处理当光强从 $2 0 0 0 { - } 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 降低时得到的光合曲线,同一光强下 $P _ { \mathrm { ~ N ~ } }$ 低于光强从 $0 { \mathrm { - } } 2 0 0 0 { \mu } { \mathrm { m o l ~ m } } ^ { - 2 } { \mathrm { ~ s } } ^ { - 1 }$ 增加时的 $P _ { \mathrm { ~ N ~ } }$ ,光合滞后面积(定积分值4067.72)与对照(4333.13)无显著差异。而 $\mathrm { \Delta D _ { D } }$ 处理,由于干旱胁迫导致光合速率极低,但两条光合曲线重叠性很好,光合滞后面积（2805.36）、滞后中值(1.40)和光合滞后率 $H _ { \mathrm { P } } ( 0 . 4 5 )$ 均极显著的低于对照和D处理。Stage III复水时期， $\mathrm { \Delta D _ { D } }$ 处理光合滞后面积、滞后中值和滞后率均极显著低于对照，D处理复水后 $H _ { \mathrm { { p } } }$ 为1.25，为3个处理中最低。
+
+http://www.ecologica.cn
+
+![](images/783664774a377ec669a0a729aee84e96390b1b55cfc8669d2f8b6672eb10926d.jpg)  
+图6花生幼苗叶片光合滞后  
+Fig.6Photosynthetic hysteresis in leaves of peanut seedlings
+
+实心标记为各处理光强从 $0 { - } 2 0 0 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ ;$ s-1增加时测得的数据，同一处理空心标记为光强从2000一 $\mathbf { \cdot } 0 \ \mu \mathrm { m o l }$ （204号 $\mathrm { m } ^ { - 2 }$ s-1降低时测得的数
+
+表3光合滞后相关参数  
+Table 3Parameters from photosynthetic hysteresis   
+
+<html><body><table><tr><td>时期 Stages</td><td>处理 Treatment</td><td>定积分值 Definite Integrals</td><td>积分中值 Integral mean</td><td>滞后中值 Hysteresis mean</td><td>光合滞后率Hp/% Photosynthetic hysteresis</td></tr><tr><td>I预干旱</td><td>对照</td><td>3166.69B</td><td>21.49A</td><td>1.58B</td><td>7.37B</td></tr><tr><td>Pre-drought</td><td>预干旱</td><td>3755.56A</td><td>18.06B</td><td>1.88A</td><td>10.40A</td></tr><tr><td>I重复干旱</td><td>对照</td><td>4333.13A</td><td>31.86A</td><td>2.17A</td><td>6.80A</td></tr><tr><td>Recurrent drought</td><td>干旱</td><td>4067.72A</td><td>3.98B</td><td>2.03AB</td><td>0.51B</td></tr><tr><td></td><td>重复干旱</td><td>2805.36B</td><td>4.49B</td><td>1.40B</td><td>0.45B</td></tr><tr><td>Ⅲ复水</td><td>对照</td><td>7593.18A</td><td>30.25A</td><td>3.80A</td><td>12.55A</td></tr><tr><td>Re-watering</td><td>干旱</td><td>548.90C</td><td>22.00B</td><td>0.27C</td><td>1.25C</td></tr><tr><td></td><td>重复干早</td><td>3962.05B</td><td>28.91A</td><td>1.98B</td><td>6.85B</td></tr></table></body></html>
+
+大写字母表示处理间差异极显著( $\scriptstyle P < 0 . 0 1$ ）
+
+# 3.5.3气孔导度
+
+干旱和水分亏缺导致花生幼苗叶片失水,影响气孔开闭。在3个处理时期测定光合的同时测定气孔导度,分析气孔导度-光强曲线,结果如图7所示。StageI预干旱胁迫时期,正常水分下的对照和预干旱胁迫的花生幼苗叶片气孔导度( $\cdot \mathrm { \Pi } _ { g _ { \mathrm { s } } }$ )随着光照强度增加与光合曲线相似,符合自然常数e的负指数曲线,由于干旱胁迫,预干旱胁迫的叶片在每个光强下的 $g _ { \mathrm { s } }$ 均显著的低于对照。预干旱胁迫处理最大气孔导度 $g _ { \mathrm { c } } ( 0 . 2 0 3 )$ 、0光强下气孔导度 $g _ { \mathrm { o } } ( 0 . 0 9 3 )$ 分别极显著低于对照 $\varrho _ { \mathrm { c } } ( 0 . 4 9 5 )$ $. g _ { \mathrm { o } } ( 0 . 2 1 4 )$ （表4）。StageII重复干旱胁迫时期,D和 $\mathrm { \Delta D _ { D } }$ 两处理气孔导度-光强曲线不符合 $ { \mathbf { \rho } } _ { \mathrm { ~ e ~ } }$ 的负指数曲线，随着光强的增加分别从0光强时0.126 和 $0 . 1 9 4 \mathrm { \ m o l }$ $\mathrm { m } ^ { - 2 } \mathrm { ~ s ~ } ^ { - 1 }$ 逐渐降低,与对照呈明显的相反趋势,其中 $\mathrm { \Delta D _ { D } }$ 处理在各光强下 $g _ { \mathrm { s } }$ 均高于D处理。Stage III复水时期,D和 $\mathrm { \Delta D _ { D } }$ 处理各光强下的 $g _ { \mathrm { s } }$ 仍低于对照， $\boldsymbol { g } _ { \mathrm { c } }$ 和 $g _ { \mathrm { o } }$ 与气孔导度曲线结果一致,均呈现对照 $>$ 重复干旱 $>$ 干旱。
+
+![](images/bb5cb124ce7b7df9ce9d23ce2db938d7b81a51ae3c981855e2ece444dd59aefe.jpg)  
+图7花生幼苗气孔导度  
+Fig.7Stomatal conductance in leaves of peanut seedlings
+
+表4气孔导度相关参数  
+Table 4 Parameters from stomatal conductance   
+
+<html><body><table><tr><td>时期</td><td>处ement</td><td>最大气孔导度(gc)</td><td>0光强下气孔导度（go）</td><td>(m(x02)</td></tr><tr><td></td><td></td><td>(mol m-² s-1) 0.495A</td><td>(mol m−² s-1) 0.214A</td><td>1.56a</td></tr><tr><td>I预干旱 Pre-drought</td><td>对照 预干旱</td><td>0.203B</td><td>0.093B</td><td>1.34b</td></tr><tr><td>Ⅱ 重复干旱</td><td>对照</td><td>0.818A</td><td>0.356</td><td>0.52</td></tr><tr><td>Recurrent drought</td><td>干旱</td><td>0.126C</td><td>1</td><td>1</td></tr><tr><td></td><td>重复干旱</td><td>0.194B</td><td>1</td><td>1</td></tr><tr><td>Ⅲ复水</td><td>对照</td><td>0.668A</td><td>0.292A</td><td>1.27B</td></tr><tr><td rowspan="2">Re-watering</td><td>干早</td><td>0.329C</td><td>0.174C</td><td>0.39C</td></tr><tr><td>●重复干旱</td><td>0.480B</td><td>0.211B</td><td>1.56A</td></tr></table></body></html>
+
+小写字母表示处理间差异显著( $\scriptstyle P < 0 . 0 5$ );大写字母表示处理间差异极显著( $P { < } 0 . 0 1 \$ ）
+
+# 3.5.4 气孔导度滞后
+
+叶片气孔导度滞后曲线与光合滞后曲线相似,Stage ⅡI重复干旱时期,D处理在光强 $2 0 0 0 { \overline { { - 0 } } } ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 降低时同一光强下气孔导度低于 $0 { - } 2 0 0 0 ~ { \mu \mathrm { m o l } } ~ \mathrm { m } ^ { - 2 } ~ \mathrm { s } ^ { - 1 }$ 增加时的气孔导度值（图8）。
+
+表5结果为各时期不同处理气孔导度滞后相关参数。预干旱胁迫处理气孔导度滞后面积(定积分值)、滞后中值、气孔导度滞后率 $( H _ { \mathrm { s } } )$ 均高于对照。StageII重复干旱时期和 StageIII复水后,D 和 $\mathrm { \Delta D _ { D } }$ 处理滞后面积和滞后中值极显著低于对照， $H _ { \mathrm { s } }$ 值则为干旱 $\cdot >$ 对照 $>$ 重复干旱。
+
+# 4讨论
+
+叶片失水是植株遇到干旱最直观的反应,干旱条件下,生物量优先分配给根系,植物可以通过增强根系生长,利于吸收土壤水分以更好地适应干旱环境[33]。本试验,初始预干旱胁迫促使重复干旱时花生叶片保持较
+
+http://www.ecologica.cn
+
+高的含水量，这一结果可能与重复十旱根系并未受到显著影响有关，根系在预十旱复水后仍可以保持较高的吸水能力。也有研究得出相反的结果,叶片相对含水量不受上一次干旱胁迫的影响,无法通过根系生物量或吸水机制得到充分的解释[34]。
+
+![](images/3f9ad53648464e4f91a42c27f0e22b7513e5439e7743dcf57a62e11780f1613a.jpg)  
+图8花生幼苗叶片气孔导度滞后  
+Fig.8Hysteresis of stomatal conductance in leaves of peanut seedlings
+
+心标记为各处理光强从 $0 { - } 2 0 0 0 \ \mu \mathrm { m o l \ m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 增加时测得的数据，同一处理空心标记为光强从 2000- $- 0 ~ \mu \mathrm { m o l } \mathrm { ~ m } ^ { - 2 } \mathrm { ~ s ~ }$ -1降低时测得的娄
+
+# 表5气孔导度滞后相关参数
+
+Table 5 Parameters from hysteresis of stomatal conductance   
+
+<html><body><table><tr><td>时期 Stages</td><td>处理 定积分值 Treatment Definite Integrals</td><td>积分中值 Integral mean</td><td>滞后中值 Hysteresis mean</td><td>气孔导度滞后率(Hs) Hysteresis of stomatal conductance（Hs）/%</td></tr><tr><td>I预干旱</td><td>对照 97.97 B</td><td>0.46A</td><td>0.049B</td><td>10.71B</td></tr><tr><td>Pre-drought</td><td>预干旱 139.41 A</td><td>0.23 B</td><td>0.070A</td><td>29.77A</td></tr><tr><td>Ⅱ重复干旱 对照</td><td>246.44A</td><td>0.73A</td><td>0.123A</td><td>16.79ab</td></tr><tr><td>Recurrent drought ●干旱</td><td>32.91C</td><td>0.08C</td><td>0.016C</td><td>20.84a</td></tr><tr><td>重复干旱</td><td>59.05B</td><td>0.20B</td><td>0.030B</td><td>14.55b</td></tr><tr><td>Ⅲ复水 对照</td><td>115.47a</td><td>0.59A</td><td>0.058A</td><td>9.80B</td></tr><tr><td>Re-watering 干旱</td><td>76.72c</td><td>0.31C</td><td>0.038B</td><td>12.24A</td></tr><tr><td>重复干旱</td><td>82.93b</td><td>0.44B</td><td>0.041B</td><td>9.45B</td></tr></table></body></html>
+
+小写字母表示处理间差异显著( $\scriptstyle P < 0 . 0 5 .$ );大写字母表示处理间差异极显著( $P { < } 0 . 0 1 \$ ）
+
+脯氨酸大量积累是植物遇到胁迫后的一种快速应激反应,作为渗透调节物质在胁迫条件下增加细胞渗透浓度,降低渗透势,使细胞在低渗透下吸收胞外水分维持渗透平衡,同时作为信号物质,可激活抗氧化酶系统、诱导抗性基因表达等逆境适应相关的多种响应[35]。初始胁迫诱导植物积累脯氨酸作为渗透调节物质,再次遇到逆境胁迫时,仍可维持在较高水平调节生理代谢,使植物获得对后生胁迫的抗性[36]。本研究,预干旱胁迫大量积累脯氨酸，重复干旱时脯氨酸含量却远远低于单次干旱的积累含量，且复水后可迅速恢复到对照水平（图2）。相应的MDA、 $0 \cdot { } _ { 2 } ^ { - }$ 含量以及抗氧化酶活性也得到相同的结果(图3一图4）,说明预干旱胁迫促使花生幼苗植株对干旱胁迫具备了一定的适应性或印记能力,再次遇到干旱胁迫时抗氧化酶系统能更快更有效的激活,调节自身生理防御功能,清除活性氧自由基,减轻细胞过氧化对植株造成的伤害,有利于花生幼苗在随后的干旱胁迫下保持较高的抗性,植株所受胁迫程度减少。
+
+光合作用在多次胁迫中的响应也存在不同的结果。无论初始胁迫是中度还是重度胁迫,重复干旱均可显著增加光合参数,如蒸腾速率、气孔导度、胞间二氧化碳浓度、净光合速率、表观量子效率、最大净光合速率[37]。也有试验表明重复干旱降低净光合速率、最大量子效率和最大荧光值[34]。本试验结果表明,预干旱胁迫显著提高花生植株在重复干旱下净光合速率、最大光合势能和最大光量子产量。预干旱胁迫处理造成气孔和光合滞后显著增加,干旱对植株光合系统光化学和参与光化学反应的酶造成了胁迫,而重复干旱比单次干旱明显减少气孔导度和光合速率滞后。光强从弱光到强光时需要一定时间达到稳定,即出现光强滞后期。植物叶片的光合滞后现象原因之一由于光对酶的诱导活化和光合中间产物及 $\mathrm { C O } _ { 2 }$ 受体增生的反馈抑制,另一原因由于气孔开度延长滞后时间影响气体传导[3-39]。光合滞后反映了叶片光合系统光化学反应、参与光合作用的酶等活性,间接表明植物对环境变化的适应能力[22]。一般情况下,当植株生长环境好}植株健壮的条件下,当光强从低到高增加时的光合曲线会与高光强到低光强减弱时的光合曲线基本吻合。植物光合滞后通常发生在衰老或胁迫环境下,气孔比正常条件下更难完全张开,滞后越严重表明植株受到的胁迫影响越大。因此,本试验中叶片气孔和光合滞后率的降低说明预干旱胁迫在光化学反应、光合酶活性和气孔开度上提高了植株对重复干旱胁迫的适应或抵抗能力,表现增强的光保护作用。
+
+植物可对初始胁迫产生印记从而影响对二次胁迫的响应[1]。经历过前期干旱,虽然影响株高、叶面积、生物量等生物学特征,但植株在光合作用上提高对二次干旱的抵抗能力[36]。不过,植株对再次胁迫的抵御和恢复程度可能与前一次的胁迫程度和持续时间有关[34,40]。多数研究认为,重复胁迫后植株的生理参数可以快速的恢复,甚至恢复到胁迫之前的水平[34,41]。也有研究表明重度的胁迫不能弥补胁迫对植株生长的不利影响[37,42]。更为激烈或频繁的胁迫并没有提高植物自身抵御的能力,反而导致生产力的损失[34,37,43]。本试验,脯氨酸、MDA、 $\left| 0 \cdot { } _ { 2 } ^ { - } \right.$ 含量、抗氧化酶活性、光合和气孔导度在复水后的快速恢复,表明花生植株在重复干旱后具有较强的生理恢复能力,预干旱胁迫可缓解重复干旱对植株生理伤害的影响。
+
+目前,关于植物对多种逆境的适应和自身抵御虽然受到广泛关注,并大量应用于生产实践,但其适应机制尚不清楚。Boussiba 等[44]提出“交叉适应"（cross adaptation）机制,植物在经历初发逆境后,能提高对次生或后生逆境的抵抗能力。近几年的研究提出“胁迫记忆"机制,植物对重复胁迫在生理、生化水平上的自身抵御和印记,可能与耐受基因的转录有关[1]。植物在前期受过锻炼或经历过胁迫后可能通过转录因子的积累,在后期感知胁迫后增加防御基因的表达[4546]。重复干旱胁迫发现除干旱响应基因外,还存在记忆基因、非记忆基因和后响应基因3类干旱诱导基因在重复干旱胁迫中发挥作用,其中记忆基因在后期胁迫反应中转录水平更明显[2-4]。另一种机制解释为胁迫可使 DNA 甲基化,引起表观遗传印记的发生,这种印记是可遗传的[1,5-6,8]。未来的研究将在分子和生物化学水平上进一步解释重复胁迫的适应和记忆响应机制。
+
+# 5结论
+
+花生苗期预干旱胁迫提高植株重复干旱胁迫下叶片含水量,减轻重复干旱对植株造成的生理伤害,在光合作用上提高对重复干旱的抵御能力,并在复水后快速恢复到正常水分条件下植株生长水平。花生植株可印记预干旱胁迫的生理响应,再次暴露于干旱胁迫时表现更为迅速和强烈的生理防御和快速的生理恢复机制。在生产实践中,可利用这种胁迫记忆机制进行抗旱锻炼。
+
+# 参考文献（References）:
+
+[1]BruceTJA,MatsCapierJA,PickettJA.tresful“memories”ofplantsEvidenceadposiblemechassPlan00   
+173(6) : 603-608. [2]DigYovoaZultpleosuresroht‘tra’rasiptioalsossinbdopssureat,   
+3: 740.
+
+http://www.ecologica.cn
+
+Ding 1, Araoiaopststhaliana.BMC Plant Biology,2013，13(1）：229.  
+[4]DingY,VilouetL,uetovenovraoaZhioresosfZemaysparsoibdossthaliana.BMC Plant Biology，2014,14（1)：141.  
+[5]KioshitaSekiM.pigeneticmeoryforstreesponeanddaptationinlats.PlantCellPhysiolog，01，55(）)：986.  
+[6］沈晓艳，宋晓峰，王增兰，蒋春云，张慧.植物逆境驯化作用的生理与分子机制研究进展.植物生理学报，2014,50（1）：12-18.  
+[7]Rensinchckeroaatieachterialastoure96(12): 1373-1384.  
+[8]CrispPA,GangulyD,EichtenSR,BorevitzJO,Pogson BJ. Reconsidering plant memory: Intersectionsbetwenstress memoryand epigenetics. Science Advances，2016,2（2）：e1501340.  
+[9]BaldwihelEual“mo”eucedlatofotieiildbaco997）：46.  
+[10]LarkndaleJierlingE.Coregeoeespoesoledinliatiotoihteerature.Planthiolog08464761.  
+11]GohCaHGarktrryitsgtielatoofatalspodofdhtiabscisic acid-entrained Arabidopsis plants.The Plant Journal,2003,36(2)：240-255.  
+[12]Rossel JB，Wilson PB,Hussain D,Woo N S,Gordon MJ，MewettOP，Howell K A，Whelan J， Kazan K, Pogson B J. Systemic andintracellular responses to photooxidative stress in Arabidopsis.Plant Cell,2007,19(12）：4091-4110.  
+[13]GordondhtVBcdlalspaedHrscedadealiisiFrontiers in Plant Science,2013,3：303.  
+[14]KnightHdtSightstofreeotiagaibdopssantJal（)681-687.  
+[15]SaniE，ellG，Va.Herootcprngofbdopsintablishlodaaccompanied by specific changes of the epigenome.Genome Biology，2013,14(6）:R59.  
+16]Villdaeisls(2): 596-607.  
+[17]Kang，HliilieraaceavesefeiallyldPhysiologia Plantarum,2002,115(4)：571-576.  
+[8]IbalMshafdpreditgolatehela，dotosecpacitidultantsfapldaesalt stress.Journal of Plant Nutrition,2007,30(3):381-396.  
+[19]CayuelaE,ereAfocaF，CroMolaMCPngofsdsitClucessigicalchngesinatptsoderaltstress.Physiologia Plantarum，1996,96(2)：231-236.  
+[20]Wang X,Vignjevic M,Jiang D,Jacobs en S，Wollenweber B.Improved tolerance to drought stress after anthesis due to priming before anthesis inwheat （Triticum aestivum L.） var. Vinjett Journal of Experimental Botany,2014,65(22）: 6441-6456.  
+[21］严美玲，李向东，林英杰，王丽丽，周录英.苗期干旱胁迫对不同抗旱花生品种生理特性、产量和品质的影响.作物学报，2007，33（1)：113-119.  
+22]XuHteofiaeiof nutrient solution and low water content in substrate.Photosynthetica，1994,30(2）：279-286.  
+23]QiFauialdesofuitieeituctefreduced by exposing hypocotyls.Journal of Food Agriculture and Environment,2012，10(2）: 659-663.  
+[24]BatesL,WadrenR,TeareID.Rapiddeteatiooffreprolineforwaterstresstuds.Pantandoil97,9(）-7.25] MarinVJA，Andru，CarsoA，beloaMDeteiatioofprolocerationatstressarke，iteuatesfeiseDot cultures of fruit tree rootstocks under salt stressRevue des Régions Arides，2010,24:722-727.  
+[26]BssenKaNbGRoleofctiygesptntssieatigprgldeath of wheat aleurone layer.Journal of Cell and Molecular Biology，2Oo7,6(1)：41-48.  
+[27]DeySK,eyJrotasitidieciilidodaiatiedand lead stress.Brazilian Journal of Plant Physiology，,2007,19（1）：53-60.  
+28]radfrdapiddsiiatatofgatiofoteilhiplefotedinAnalytical Biochemistry，1976,72(1/2)：248-254.  
+[29] BeyerWFJr，ridovichI.Assayingforsuperoxidedismutaseactivity：SomelargeconsequencesofminorchangesinconditionAalyticalBiochemistry，1987,161(2）：559-566.  
+[30]ChakrabartVaaSidtiestrediidciissisfeimerocalis（d）oJournal of Horticulture and Forestry，2009,1(6)：113-119.  
+31]BeersRFJzerWspectrootometricetodforeasuringthebeadowofhrgenperoxideyatalase.heJoualofilgicalChemistry，1952，195(1)：133-140.  
+[32]KalilN,ellFraaS,OliveraLAA，OiveiaOFusclureofPohomopeumbellt（L.）uecondition leads to high content of peroxidase enzyme.Ecletica Quimica，2Oo6,31(3）：61-65.  
+[33]JacksonRB，Sperry，DawonEotwateruptakeadrasportusingysiologicalprocesesinglobalpredictiosredsilantScience，2000，5(11):482-488.  
+[34]WalterJ,gLeinR,srUeieuhnC,WilrE,Jeh.asebedrountstwadsdrograsses.Environmental and Experimental Botany,2011,71(1）：34-40.  
+35]AshafFoladlofedoliprogplaotrsisaEvioealExpaota2007,59(2):206-216.  
+[36] 张利娟.匍匐翦股颖对干旱-低温交叉胁迫的适应机制[D].北京：北京林业大学，2014.  
+[37] 赵文赛，孙永林，刘西平.干旱-复水-再干旱处理对玉米光合能力和生长的影响.植物生态学报，2016,40(6)：594-603.  
+[38] 高煜珠，王忠，顾蕴洁，王志琴.关于光呼吸与光合作用关系的研究——-IV.光合滞后期.植物生理学报，1985，11（1)：73-83.  
+[39] 王健林，齐华，房全孝，于贵瑞.水稻、大豆、玉米光合速率的日变化及其对光强响应的滞后效应.华北农学报，2007,22（2)：119-124.  
+[40] MiyashitaKaaaraoyssfosisstidatalucaeifollowing drought stress.Environmental and Experimental Botany，2005,53(2）：205-214.  
+[41] GalleA，HaldieleUotostticfoaedaterelatosiougpubetok（Quecpbees）ringdohtstress and recovery.New Phytologist，2007,174(4）：799-810.  
+[42]XuZZ,ZuGotosetieoveyofprealassneseiferentpesofolroghtlantructoSie,2007，10(3)：277-285.  
+[43] MurchieEH,into,HortonAgicuedegsforotosysisseacheytologist,（3）：52.  
+[44] BousibaS,iinAcodAE.eolefbsiccdsdaofaccantslant97,6()9.  
+[45] ConrathU,BeckersGJM,FlorsV,Garcia-AgustinP,JakabG,MauchF,NewmanMA,PieterseCMJ,PoinsotB,PozoMJ,PuginA,SchafrathU,ToJWedeeD,rli,ucaniBrin：geingeadyforatle.Mleularant-icobeIteractios19(10):1062-1071.  
+[46] Yamaguchi-ShozakiK，ioakiK.TansitalegulatoryetwoksincellarsponsesndoleracetehdratiodcoldAnnual Review of Plant Biology，2006,57：781-803.

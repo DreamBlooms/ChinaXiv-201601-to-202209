@@ -1,0 +1,186 @@
+# 饲粮中谷氨酰胺添加水平对断奶至3月龄獭兔毛皮品质和肠道屏障的影响
+
+刘洪丽 付朝辉 刘　磊\* 李福昌（山东农业大学动物科技学院，泰安271018）
+
+摘要：本试验旨在研究饲粮中谷氨酰胺添加水平对断奶至3月龄獭兔毛皮品质和肠道屏障的影响。选用体重相近的断奶獭兔180只，随机分为5组，每组36个重复，每个重复1只兔。各组分别饲喂谷氨酰胺添加水平为0（对照）、 $0 . 3 \%$ 、 $0 . 6 \%$ 、 $0 . 9 \%$ 和 $1 . 2 \%$ 的试验饲粮。预试期7d，正试期 56d。结果表明：饲粮中谷氨酰胺添加水平对生长獭兔毛皮面积、毛皮重量、被毛长度和被毛厚度无显著影响（ $. P { > } 0 . 0 5$ ）。饲粮中谷氨酰胺添加水平对生长獭兔十二指肠绒毛高度/隐窝深度值有显著影响（ $\cdot P { < } 0 . 0 5$ ）。与对照组相比，饲粮中添加 $0 . 9 \%$ 谷氨酰胺显著升高了空肠中闭合小环蛋白mRNA 的表达量（ $\cdot P { < } 0 . 0 5 .$ ），显著降低了空肠中丙酮酸激酶mRNA 的表达量（ $. P { < } 0 . 0 5 \$ ）；此外，饲粮中添加 $0 . 9 \%$ 谷氨酰胺显著增加了十二指肠黏膜中分泌性免疫球蛋白A 含量（ $. P { < } 0 . 0 5$ ）。综上所述，饲粮中谷氨酰胺添加水平没有影响到生长獭兔的毛皮品质，但改善了肠道机械屏障和免疫屏障功能。在本试验条件下，断奶至3月龄獭兔饲粮中谷氨酰胺适宜的添加水平为 $0 . 9 \%$ 。
+
+关键词：谷氨酰胺；生长獭兔；肠道屏障；毛皮品质
+
+中图分类号：S829.1
+
+近年来，谷氨酰胺（GIn）的营养以及肠道屏障等方面的特殊功能逐渐成为当前研究的热点。Gln 提供肠道黏膜细胞的代谢需要，提供嘧啶、嘌呤核苷酸和氨基糖合成的前体物。许多研究发现，GIn在健康状态下是一种非必需氨基酸，但在化疗、饥饿、辐射疗法等导致小肠的黏膜受损或者Gln 耗竭的情况下Gln又是必需的，因此，Gln 被称为是一种条件性必需氨基酸。Windmuellero研究表明，Gln 是肠道上皮细胞代谢的主要能源供体，也是肠上皮间淋巴组织增殖的必要营养物。秦环龙等°研究表明，Gln 也是巨噬细胞和淋巴细胞的主要功能物质之一，补充Gln可促进分泌性免疫球蛋白A（sIgA）的分泌，降低肠细菌移位率，进而保护肠屏障功能°。Hauf等°研究表明，在仔猪感染大肠杆菌的模式下，饲粮中添加Gln能够缓解病情，降低病发腹泻率。家兔的肠道壁薄，易受外界刺激，发生各类肠道疾病，特别是在断奶阶段，面临着断奶、更换饲料和环境变化的多重应激，肠道负担加重，易发生损伤。GIn是否也对家兔的肠道屏障功能有一定的改善作用目前尚未知晓。
+
+獭兔是一种皮肉兼用兔，付朝晖等°研究了饲粮中不同水平的Gln 对生长獭兔生长发育的影响，发现饲粮中添加 $0 \sim 1 . 2 \%$ 的Gln对生长獭兔的体增重和采食量均没有显著影响。但饲粮中添加Gln 可促进猪°和肉鸡0的生长发育，这些结果说明物种间对Gln 的需要量差异较大。獭兔的毛皮品质决定了它的经济价值，毛皮品质受到季节、年龄及营养水平的影响目前已经确定了饲粮中蛋白质水平以及一些氨基酸（蛋氨酸、赖氨酸、半胱氨酸和色氨酸）含量对獭兔毛皮品质的影响。是否饲粮中添加GIn 也能改善獭兔毛皮品质有待于进一步的确定。营养水平是影响獭兔毛皮品质的重要因素，肠道是营养物质吸收的主要部位，因此，肠道健康状况势必要影响到獭兔的毛皮品质，GIn 也可能通过调节肠道健康来影响到獭兔的毛皮发育。因此，本试验在獭兔饲粮中添加不同水平的Gln，通过测定其毛皮品质、肠道屏障指标，旨在确定獭兔饲粮中Gln的适宜添加水平，为獭兔饲粮中Gln 的应用提供理论依据。
+
+# 1．材料与方法
+
+# 1.1 试验动物与饲养管理
+
+试验选取体重[( $\langle 1 ~ 0 5 0 { \pm } 3 0 \$ ）g]相近的30日龄断奶獭兔180只（公母各占1/2），随机分为5组，每组36个重复，每个重复1只兔。各组分别饲喂Gln 添加水平为0（对照）、$0 . 3 \%$ 、 $0 . 6 \%$ 、 $0 . 9 \%$ 和 $1 . 2 \%$ 的5 种试验饲粮。GIn为来自北京嘉康源公司提供的 $L$ Gln，产品纯度为 $9 9 \%$ 。基础饲粮参照DeBlas 等°家兔饲养标准配制，基础饲粮组成及营养水平见表1。试验兔采用常规饲养管理和免疫程序，自然采光、通风，自由饮水， $3 { \sim } 5$ d 消毒兔舍1次。预试期7d，正试期 $5 6 \mathrm { d }$ 。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) $\%$   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td></td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>16.0</td><td></td><td>消化能 DE/(MJ/kg)</td><td>10.08</td></tr><tr><td>豆粕 Soybean meal</td><td>17.0</td><td></td><td>粗蛋白质 CP</td><td>15.89</td></tr><tr><td>麦麸 Wheat bran</td><td>18.0</td><td></td><td>粗纤维CF</td><td>12.62</td></tr><tr><td>花生秧 Peanut vine</td><td>46.0</td><td></td><td>粗脂肪 EE</td><td>2.18</td></tr><tr><td>碳酸氢钙 CaHPO4</td><td>1.5</td><td></td><td>钙Ca</td><td>0.63</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td></td><td>总磷TP</td><td>0.40</td></tr></table></body></html>
+
+<html><body><table><tr><td>预混料 Premix1)</td><td>1.0</td><td></td><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.70</td></tr><tr><td>合计Total</td><td>100.0</td><td></td><td></td><td></td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the following per $\mathrm { k g }$ of the diet:VA 13 500 IU，VE 15mg，VK $1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 3 } \ 1 3 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 5 } 2 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 0 . 3 ~ \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 2 4 \mathrm { m g }$ ， $\mathrm { C u } 1 0 \mathrm { m g }$ Fe $6 0 ~ \mathrm { m g }$ $\mathrm { Z n 7 0 ~ m g }$ $\mathrm { M n } \ 1 6 \ \mathrm { m g }$ ,Se $0 . 1 \mathrm { m g }$ ，生物素biotin $0 . 0 9 \mathrm { m g }$ ，叶酸 folic acid $0 . 3 ~ \mathrm { m g }$ ，,地克珠利 diclazuril5 mg。
+
+2营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.2样品采集和处理
+
+试验结束后每组随机抽取8只试验兔，立即心脏采血， $3 7 ~ ^ { \circ } \mathrm { C }$ 水浴 $4 0 ~ \mathrm { m i n }$ 后， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ ，分离血清，并置于 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冷冻保存。采用颈椎错位法致死后屠宰，分离十二指肠、空肠、回肠样品各2份，一份用冷却的磷酸盐缓冲液（PBS， $\mathrm { p H } 7 . 4 \AA \AA \AA$ ）清洗，放于 $10 \%$ 新配制的冷却后的甲醛溶液中保存，用于组织学检测；另一份用PBS洗净肠道内容物后，用无菌的玻片小心刮取黏膜分装到多个EP管内，在液氮中速冻后，置于-80℃保存以待分析。
+
+# 1.3总RNA提取与实时荧光定量PCR检测
+
+Trizol 法提取肠道组织中总RNA。将提取的RNA进行反转录为cDNA，所用的试剂盒均由 Takara（大连宝生物有限公司）提供。使用大连生物工程提供的试剂盒（DRR041A），采用SYBRGreenI染料法，在美国ABI7500 荧光定量RCR仪上进行实时荧光定量PCR。引物序列见表2。数据用 $2 ^ { - \Delta \Delta \mathrm { C T } }$ 法分析。目的基因的 mRNA用 3-磷酸甘油醛脱氢酶(GAPDH)mRNA标准化。
+
+# 表2引物序列
+
+Table 2 Primer sequences   
+
+<html><body><table><tr><td>引物名称 Primer names</td><td>引物序列 Primer sequences (5'-3')</td></tr><tr><td rowspan="2">3-磷酸甘油醛脱氢酶 GAPDH</td><td>F:TGCCACCCACTCCTCTA</td></tr><tr><td>R:CCGGTGGTTTGAGGGCTCTTACT</td></tr><tr><td rowspan="2">闭合小环蛋白 Z01</td><td>F:TCAGAGCAAGACCACTACGAGAC</td></tr><tr><td>R：TCTGATGTGATGGGCGGATA</td></tr><tr><td rowspan="2">丙酮酸激酶 PK</td><td>F:AACTTCTCCCACGGAACTCAC</td></tr><tr><td>R：TTCGGATCTCGGGTCCCTTA</td></tr><tr><td rowspan="2">雷帕霉素靶蛋白 mTOR</td><td>F:GGACTTCACCGACTATGCCTC</td></tr><tr><td>R:CAGGACCTTATTCACCATTTGGA</td></tr></table></body></html>
+
+# 1.4sIgA含量检测
+
+用含有sIgA特异性抗体的经过验证的酶联免疫检测试剂盒(武汉优尔生科技股份有限公司)检测 sIgA含量。sIgA各测定值间变异系数为 $2 . 7 \%$ 。
+
+# 1.5 组织学检测
+
+组织样品经过冲水、梯度酒精脱水、二甲苯透明、石蜡包埋等处理后，以 $5 \mu \mathrm { m }$ 的厚度切片，常规苏木精一伊红（HE）染色。使用显微镜成像系统观察小肠黏膜绒毛，每张切片选取5个视野，每个视野5条绒毛。用Image-Plus 软件测量绒毛高度(VH)和隐窝深度(CD)，并计算绒毛高度/隐窝深度（V/C）值。绒毛高度指从肠腺绒毛连接处到绒毛顶端的距离，隐窝深度指从肠腺绒毛连接处到肠腺基部的距离。
+
+1.6 毛皮品质的测定
+
+毛皮重量（g）：獭兔宰杀后，取完整皮毛，大体过程为在其颈部、前肢弯关节处和后肢弯关节处用将皮环割，自阴部上侧沿两后肢内侧把皮割开，然后自下向上剥开翻转，以退套的方式将皮剥下。将剥取的獭兔皮放在精确度比较灵敏的天平上称重，即毛皮重量。
+
+毛皮面积（ $\mathrm { c m } ^ { 2 }$ ）：将剥取的獭兔皮沿中分线直线剪开，平铺于托盘内，使其呈自然伸张状态，测量长度时计量方法为量取颈部至尾根处，宽度测量方法是量取腰部中间位置，一般取比较宽的部位。测量得到的长度和宽度相乘即为兔皮面积。
+
+被毛长度（cm）：将直尺插于被毛内，被毛长度测量从被毛根部至被毛尖部的距离，每只都应分别测量肩部、股部及背部的被毛长度，并且都要固定同一位置，然后取3处被毛长度的平均值。
+
+被毛厚度（cm）：用游标卡尺测量每只试验兔肩部、股部及背部的皮张厚度，注意固定同一位置，然后取其平均值。
+
+# 1.7 数据统计分析
+
+试验数据统计采用SAS8.0统计软件中ANOVA程序进行单因素方差分析，如果组间效应差异显著，采用Duncan氏法进行多重比较，数据用平均值与均方根误差的形式表示， $P { < } 0 . 0 5$ 为差异显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 为有显著趋势。
+
+# 2结果
+
+2.1饲粮中Gln添加水平对生长獭兔毛皮品质的影响
+
+由表3可知，饲粮中GIn添加水平对生长獭兔毛皮面积、毛皮重量、被毛长度和被毛厚度无显著影响 （ $_ { \cdot \cdot P > 0 . 0 5 }$ ）。
+
+表3饲粮中Gln 添加水平对生长獭兔毛皮品质的影响同行数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with thesame or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ . The same as below.
+
+Table 3Effects of dietary Gln supplemental level on fur quality of growing Rex rabbits $( n { = } 8 )$ （204号   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">Gln 添加水平 Gln supplemental level/%</td><td rowspan="2">均方根误差</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>0.3</td><td>0.6</td><td>0.9</td><td>1.2</td></tr><tr><td>毛皮面积Furarea/cm²</td><td>703.09</td><td>704.55</td><td>718.26</td><td>702.89</td><td>707.21</td><td>46.27</td><td>0.925 1</td></tr><tr><td>毛皮重量 Fur weight/g</td><td>148.88</td><td>150.25</td><td>147.20</td><td>150.19</td><td>149.63</td><td>18.29</td><td>0.160 8</td></tr><tr><td>被毛长度 Hairlength/cm</td><td>1.62</td><td>1.64</td><td>1.61</td><td>1.67</td><td>1.65</td><td>1.18</td><td>0.356 7</td></tr><tr><td>被毛厚度 Hair</td><td>0.38</td><td>0.36</td><td>0.36</td><td>0.37</td><td>0.37</td><td>0.01</td><td>0.311 2</td></tr><tr><td>thickness/cm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.2饲粮中Gln 添加水平对生长獭兔肠道机械屏障的影响
+
+由表4可知，饲粮中Gln 添加水平对生长獭兔十二指肠绒毛高度/隐窝深度值有显著影响（ $P { < } 0 . 0 5$ ），而对十二指肠的绒毛高度、隐窝深度均无显著影响（ $P { > } 0 . 0 5$ ）；饲粮中Gln 添加水平对生长獭兔空肠和回肠的各项指标（绒毛高度、隐窝深度、绒毛高度/隐窝深度值）均无显著影响（ $\cdot P { > } 0 . 0 5 \$ ）。
+
+表4饲粮中Gln 添加水平对生长獭兔肠道组织结构的影响  
+Table 4Effects of dietary Gln supplemental level on intestinal tissue structure of growing Rex rabbits $\scriptstyle ( n = 8 )$   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2"></td><td colspan="5">Gln 添加水平 Gln supplemental level/%</td><td rowspan="2">均方根误</td><td rowspan="2">P值 P-value</td></tr><tr><td>0</td><td>0.3</td><td>0.6</td><td>0.9 1.2</td><td>差</td></tr><tr><td></td><td>十二指肠</td><td>614.43</td><td>628.77</td><td>630.71</td><td>648.00</td><td>634.13</td><td>R-MSE 23.11</td><td>0.1073</td></tr><tr><td>绒毛高度</td><td>Duodenum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Villous height/um</td><td>空肠Jejunum</td><td>508.00</td><td>555.73</td><td>552.50</td><td>539.14</td><td>536.43</td><td>53.08</td><td>0.437 7</td></tr><tr><td></td><td>回肠Ileum 十二指肠</td><td>433.60</td><td>451.17</td><td>439.00</td><td>423.43</td><td>448</td><td>21.74</td><td>0.063 7</td></tr><tr><td>隐窝深度</td><td>Duodenum</td><td>122.29</td><td>113.62</td><td>117.72</td><td>125.00</td><td>117.50</td><td>11.20</td><td>0.217 4</td></tr><tr><td>Crypt depth/um</td><td>空肠 Jejunum</td><td>102.00</td><td>105.27</td><td>112.67</td><td>102.71</td><td>109.11</td><td>12.56</td><td>0.517 0</td></tr><tr><td></td><td>回肠 Ileum</td><td>118.33</td><td>111.67</td><td>109.38</td><td>122.00</td><td>115.25</td><td>19.20</td><td>0.661 5</td></tr><tr><td>绒毛高度/隐窝深</td><td>十二指肠</td><td>5.04b</td><td>5.56a</td><td>5.38ab</td><td>5.22ab</td><td>5.42a</td><td>0.32</td><td>0.019 0</td></tr></table></body></html>
+
+<html><body><table><tr><td>度</td><td colspan="8">Duodenum</td></tr><tr><td>Villous height/crypt</td><td>空肠 Jejunum</td><td>4.99</td><td>5.31</td><td>4.93</td><td>5.23</td><td>4.97</td><td>0.37</td><td>0.149 2</td></tr><tr><td>depth</td><td>回肠Ileum</td><td>3.76</td><td>4.09</td><td>4.04</td><td>3.96</td><td>3.58</td><td>0.53</td><td>0.242 2</td></tr></table></body></html>
+
+由图1可知，饲粮中Gln 添加水平对生长獭兔肠道闭合小环蛋白（ZO1）和丙酮酸激酶（PK）mRNA的表达量有显著影响（ $\scriptstyle \cdot < 0 . 0 5$ ）。与对照组相比，饲粮中添加 $0 . 9 \%$ Gln显著增加了肠道中ZO1mRNA的表达量，却显著降低了肠道中 $P K \mathbf { m R N A }$ 的表达量（ $\cdot P { < } 0 . 0 5$ ）。此外，饲粮中Gln 添加水平对生长獭兔肠道中雷帕霉素靶蛋白（mTOR）mRNA的表达量并没有显著影响 （ $P { > } 0 . 0 5$ ）。
+
+![](images/de77ca92bc04ca89cd75f4dc83f1ca45cc844c6c5712fcf70138d7cbec2a0005.jpg)
+
+数据柱标相同小写字母表示差异不显著 $( P { > } 0 . 0 5 ) ,$ ，不同小写字母表示差异显著 $\scriptstyle ( P < 0 . 0 5 )$ 。
+
+Value columns with the same small letters mean no significant difference ( $\mathrm { ( } P { > } 0 . 0 5 \mathrm { ) }$ ,while with different small letters mean significant difference $\scriptstyle ( P < 0 . 0 5 )$ ）
+
+图1饲粮中GIn添加水平对生长獭兔肠道黏膜屏障相关蛋白和因子mRNA的表达量的影响
+
+Fig.1Effects of dietary Gln supplemental level on the mRNA expression of relative protein and factor of intestinal mucosal barrier of growing Rex rabbits $( n { = } 8 )$
+
+2.3饲粮中GIn 添加水平对生长獭兔肠道黏膜sIgA含量的影响
+
+饲粮中Gln 添加水平对生长獭兔回肠的sIgA含量没有显著影响 $( P { > } 0 . 0 5 )$ ），但对十二指肠 sIgA含量有显著影响（ $\scriptstyle \cdot < 0 . 0 5$ ）。当饲粮中GIn 添加水平为 $0 . 9 \%$ 时，十二指肠sIgA含量达到最大值，显著高于其他4组（ $\scriptstyle \cdot < 0 . 0 5$ ）。饲粮中Gln添加水平对生长獭兔空肠的 sIgA含量有升高趋势的影响（ $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ ），当饲粮中Gln 添加水平为 $0 . 9 \%$ 时达到最大值。
+
+# 表5饲粮中GIn 添加水平对生长獭兔肠道黏膜 sIgA含量的影响
+
+Table 5Effects of dietary Gln supplemental level on intestinal mucosal sIgA content of growing   
+
+<html><body><table><tr><td colspan="2">Rex rabbits (n=8)</td></tr><tr><td>分泌型免疫球蛋白A</td><td>Gln 添加水平 Gln supplemental level/% 均方根误差</td></tr></table></body></html>
+
+<html><body><table><tr><td>sIgA</td><td>0</td><td>0.3</td><td>0.6</td><td>0.9</td><td>1.2</td><td>R-MSE</td><td>P-value</td></tr><tr><td>十二指肠</td><td>36.60b</td><td>36.82b</td><td>37.07b</td><td>39.87a</td><td>37.98b.</td><td>1.31</td><td>0.001 3</td></tr><tr><td>Duodenum</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>空肠 Jejunum</td><td>67.38</td><td>66.85</td><td>67.64</td><td>68.71</td><td>68.31</td><td>1.17</td><td>0.098 4</td></tr><tr><td>回肠 Ileum</td><td>78.56</td><td>78.54</td><td>78.31</td><td>78.79</td><td>78.69</td><td>0.77</td><td>0.853 1</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1饲粮中Gln添加水平对生长獭兔毛皮品质的影响
+
+獭兔皮的面积大小可以直接决定使用价值，兔皮的绒毛品质、板质优劣及面积大小是评价獭兔皮质量优劣的主要指标。先前的研究发现，毛囊细胞可以直接利用Gln和葡糖糖氧化供能，因此，Gln 能促进毛囊发育，在生活中也有直接服用GIn来治疗脱发的病例。但在目前的研究中，饲粮中添加Gln并没有显著改善獭兔的毛皮品质，我们推测是Gln 添加水平较低的原因，在断奶后獭兔应激反应剧烈，此时机体对Gln 的需求量增加，而我们目前的添加水平只能满足肠道细胞的发育和恢复，对毛囊细胞的影响作用甚微。
+
+3.2饲粮中Gln添加水平对生长獭兔肠道机械屏障的影响
+
+肠道机械屏障作为肠道黏膜屏障功能的重要组成部分，是肠道防御系统中最重要的一道屏障。肠道机械屏障由肠道黏膜上皮细胞、细胞间紧密连接黏膜下固有层与菌膜三者构成0。研究表明，GIn 对肠道黏膜发育有一定影响，一定水平的Gln 可诱导大鼠、仔猪肠黏膜生长，肠道小肠绒毛高度增高，隐窝深度增深°。在本试验中，饲粮中添加 $0 . 3 \% { \sim } 1 . 2 \%$ Gln显著增加了断奶至3月龄獭兔十二指肠绒毛高度/隐窝深度值，说明补充Gln 可促进肠黏膜细胞的增殖、分化，促进家兔肠上皮细胞修复，防止绒毛萎缩，减轻肠黏膜损伤，进而维持小肠黏膜的正常形态°。
+
+此外，能量供应是保证肠道细胞功能发挥的基础，PK是调节葡萄糖代谢的重要调节酶，饲粮中添加 $0 . 9 \%$ Gln 使空肠PKmRNA的表达量降低，反映了GIn 对肠道的能量代谢有一定的影响。其可能的原因是肠道细胞等快速分裂的细胞也可利用GIn 供能，饲粮中提供了充足的Gln，葡萄糖代谢路径虽受到一定的抑制，但肠道细胞也可利用Gln作为能量，从而保证了肠道正常的生理功能°。
+
+mTOR是另一个能量感受器，调控细胞内氨基酸和能量代谢。Nicklin 等 $^ { 0 }$ 报道，细胞中Gln 的摄取与其他必需氨基酸的相互作用是激活mTOR系统的限制性步骤，饲粮中Gln 水平升高为必需氨基酸的摄取提供开关。但在本试验中，饲粮中Gln 添加水平并没有显著影响到家兔肠道中mTOR mRNA 的表达量。这一发现与猪上的研究不一致，肖英平等错误:未找到引用源。
+
+研究发现，饲粮中添加Gln可显著提高断奶仔猪空肠mTORmRNA的表达量。这些结果揭示，GIn对肠道中mTOR的影响具有物种差异性。
+
+肠黏膜对大分子物质的通透性是评价小肠黏膜屏障功能的一项重要指标。GIn 缺乏可引起大鼠肠道上皮细胞间紧密连接结构的破坏。崔巍等°在对人的结肠癌细胞Caco-2 试验中进一步表明，Gln 缺乏能够增加肠道上皮细胞屏障通透性，而补充Gln 能够阻断这些改变。ZO1 是肠黏膜紧密连接支持结构的基础，主要作用为连接跨膜蛋白与细胞骨架及传递信号分子，调节细胞物质的转运，维持上皮的极性等o。饲粮中添加Gln 能增加生长獭兔肠道中ZO1 的基因表达，这一结果与断奶仔猪上的研究结果°相一致。因此，Gln 通过上调肠道上皮细胞紧密连接蛋白ZO1的表达而降低肠道上皮的通透性被认为是其发挥肠道屏障功能的一个可能机制。
+
+# 3.3饲粮中Gln添加水平对生长獭兔肠道免疫屏障的影响
+
+肠道作为动物体中最大的免疫器官，承担着耐受饲粮抗原和免疫防御的双重任务。肠道免疫应答系统中的主要效应因子是由浆母细胞分泌的 sIgA，sIgA可强有力地与抗原结合，阻止病毒、细菌等有害抗原在肠道上皮上的黏附，并继而促发肠道的体液和细胞免疫，最终有效免疫排斥或清除有害抗原。与仔猪上研究结果°相似，饲粮中添加 $0 . 9 \%$ Gln 显著提高了十二指肠和空肠黏膜中 sIgA含量，但对生长獭兔回肠黏膜 sIgA含量影响不显著，说明家兔的小肠前端（十二指肠和空肠）对GIn 的感应较为敏感。此外，Gln 可作为肠黏膜固有层中免疫细胞的能量来源和代谢前体，维持了淋巴细胞正常的增殖和分化，以及辅助T 细胞和抑制T细胞的比例，因为有研究表明，在B细胞分化为可分泌 sIgA的浆细胞的过程中是受到辅助T细胞和抑制T细胞以及它们所产生的细胞因子影响的o。
+
+4结论
+
+饲粮中GIn添加水平没有影响到生长獭兔的毛皮品质，改善了肠道中机械屏障和免疫屏障功能，在本试验条件下，断奶至3月龄獭兔饲粮中GIn适宜的添加水平为 $0 . 9 \%$ 。参考文献:
+
+[1]WINDMUELLER H G.Glutamine utilization by the small intestine[M]//MEISTER A.Advances in enzymology and related areas of molecular biology.New York:John Wiley & Sons,Inc.,2006,53:201-237.
+
+[2]秦环龙,张彩华,崔恒贵,等.谷氨酰胺对内毒素血症大鼠小肠营养作用的实验研究[J].肠外与肠内营养,1997,4(1):8-11.
+
+[3] DE BEAUX A C,O'RIORDAIN M G,ROSS J A,et al.Glutamine-supplemented total parenteral nutritionreduces bloodmononuclearcell interleukin-8 release in severe acute pancreatitis[J].Nutrition,1998,14(3):261-265.
+
+[4] HAUF K,KAYUMOV A,GLOGE F,et al.The molecular basis of TnrA control by glutamine synthetase in Bacillus subtilis[J].Journal of Biological Chemistry,2016,291(7):3483-3495.
+
+[5]付朝晖,李福昌,李冰,等.饲粮谷氨酰胺添加水平对生长獭兔生长性能、氮代谢和空肠黏膜酶活性的影响[J].动物营养学报,2014,26(2):397-403.
+
+[6] 肖英平,洪奇华,刘秀婷,等.谷氨酰胺对断奶仔猪生长性能、营养物质表观消化率、空肠碱性磷酸酶活性及与肠道健康相关因子基因表达的影响[J].动物营养学报,2012,24(8):1438-1446.
+
+[7] 黄晓亮,黄冠庆,黄银姬.谷氨酰胺、甘氨酰谷氨酰胺对肉鸡日增重和免疫器官发育的影响[J].中国畜牧兽医,2007,34(6):9-11.
+
+[8] DE BLAS C,MATEOS G G.Feed formulation[M]//DE BLAS C,WISEMAN J J.The nutrition of the rabbit.New York:CABI Publishing,1998:241-253.
+
+[9] BOWTELL J L,GELLY K,JACKMAN M L,et al.Effect of oral glutamine on whole body carbohydratestorage during recovery fromexhaustiveexercise[J].Journal ofApplied Physiology,1999,86(6):1770-1777.
+
+[10]何桂珍.肠道屏障功能与细菌移位[J].协和医学杂志,2012,3(3):260-264.
+
+[11] 杨加玲,顾明.过度训练对大鼠小肠黏膜机械屏障的影响及谷氨酰胺的干预作用[J].中国运动医学杂志,2011,30(4):345-349.
+
+[12] 周荣艳.谷氨酰胺及丙氨酰谷氨酰胺对早期断奶仔猪肠上皮细胞增殖和肠道免疫的影响[D].硕士学位论文.华中农业大学,2004.
+
+[13] XU R J,MELLOR D J,TUNGTHANATHANICH P,et al.Growth and morphological changes in the small and the large intestine in piglets during the first three days after birth[J].Journal of Developmental Physiology,1992,18(4):161-172.
+
+[14] NICKLIN P,BERGMAN P,ZHANG B L.Bidirectional transport of amino acids regulates mTOR and autophagy[J].Cell,2009,136(3):521-534.
+
+[15]崔巍,闻颖,董亚珞,等.谷氨酰胺对体外培养肠上皮细胞屏障通透性的影响[J].世界华人消化杂志,2008,16(33):3729-3733.
+
+[16] BERKES J,VISWANATHAN V K,SAVKOVIC S D,et al.Intestinal epithelial responses to enteric pathogens:effects on the tight junction barrier,ion transport,and
+
+inflammation[J].Gut,2003,52(3):439-451.
+
+[17] 刘涛.谷氨酰胺对早期断奶仔猪肠道营养与免疫功能影响机理的研究[D].博士学位论文.  
+华中农业大学,2002.
+
+[18] FRIEDMAN S,SILLCOCKS D,RAO A,et al.A subset of Ly-1 inducer T cell clones activates B cell proliferation but directly inhibits subsequent IgG secretion[J].The Journal of Experimental Medicine,1985,161(4):785-804.
+
+Effects of Dietary Glutamine Supplemental Level on Fur Quality and Intestinal Barrier of Rex Rabbits during Weaner to 3-Month-Old
+
+LIU HongliFUChaohui LIU Lei\*LI Fuchang (College of Animal Science and Technology, Shandong Agricultural University, Tai'an 271018, China)
+
+Abstract: The experiment was conducted to study the effects of dietary glutamine supplemental level on fur quality and intestinal barrier of Rex rabbits during weaner to 3-month-old. One hundred and eighty weaned Rex rabbits with similar body weight were randomly assigned to 5 groups with 36 replicates in each group and 1 rabbit in each replicate.Rabbits in 5 groups were fed diets supplemented with O（control）, $0 . 3 \%$ ， $0 . 6 \%$ ， $0 . 9 \%$ and $1 . 2 \%$ glutamine, respectively. The pre-test period lasted for 7 days,and the experimental period lasted for 53 days. The results showed that dietary glutamine supplemental level did not significantly affect the fur area, fur weight,hair length and hair thickness of growing Rex rabbits $( P { > } 0 . 0 5 )$ . Dietary glutamine supplemental level significantly affected the vilus height to crypt depth in duodenum of growing Rex rabbits $( P { < } 0 . 0 5 )$ . Compared with the control group，dietary supplemental with $0 . 9 \%$ （204号 glutamine significantly increased the mRNA expression of zonula occludens in jejunum $( P { < } 0 . 0 5 )$ ， but significantly reduced the mRNA expression of pyruvate kinase in jejunum $( P { < } 0 . 0 5 )$ ；in addition， dietary supplemented with $0 . 9 \%$ glutamine significantly increased the content of secretory immunoglobulin A in duodenal mucosa $( P { < } 0 . 0 5 )$ . In conclusion，although dietary glutamine supplemental level does not affect the fur quality of growing Rex rabbits, improve the intestinal mechanical barrier and immune barrier function. Under this experimental condition,the appropriate glutamine supplemental level in the diet is $0 . 9 \%$ for Rex rabbits during weaner to 3-month-old.
+
+Key words: glutamine; growing Rex rabbits; intestinal barrier; fur quality

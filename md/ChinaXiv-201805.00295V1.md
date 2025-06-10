@@ -1,0 +1,283 @@
+# 基于随机子空间的多标签类属特征提取算法
+
+张晶，李裕，李培培1(合肥工业大学 计算机与信息学院，合肥 230009)
+
+摘要：目前多标签学习已广泛应用到很多场景中，在此类学习问题中，一个样本往往可以同时拥有多个类别标签。由于类别标签可能带有的特有属性（即类属属性）将更有助于标签分类，所以已经出现了一些基于类属属性的多标签学习算法。针对类属属性构造会导致属性空间存在冗余的问题，本文提出了一种多标签类属特征提取算法LIFT_RSM。该方法基于类属属性空间通过综合利用随机子空间模型及成对约束降维思想提取有效的特征信息，以达到提升分类性能的目的。在多个数据集上的实验结果表明：与若干经典的多标签算法相比，提出的LIFT_RSM算法能得到更好的分类效果。
+
+关键词：多标签学习；成对约束；特征提取；随机子空间 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2017.08.0714
+
+# Multi-label label-specific feature extraction algorithm based on random subspace
+
+Zhang Jing, Li $\mathrm { Y u ^ { \dag } }$ ,Li Peipei (School ofComputer&Information,Hefei UniversityofTechnology,Hefei 23ooo9,China)
+
+Abstract:Multi-labellearning has been widelyusedin manyapplicationscenarios right now.In this kindoflearing problem, eachinstanceissimultaneously assigned with more thanone classlabel.Since diferentclass labels might have theirownunique characteristics (i.e.,label-specific feature)which would be moreuseful forlabel clasification,sosome multi-label learing approaches basedonlabel-specific features hadalreadyben proposed.Therefore,aiming at theproblemthatredundant feature space caused bylabel-specific feature construction,amulti-labellabel-specific feature extractionalgorithm named LIFT_RSM is proposed,whichcan improve the performance ofclassification bycomprehensivelyusingrandom subspace method and the thoughtof pair-wiseconstraint dimensionalityreductionto extract effective feature information inlabel-specific feature space. Theexperimentalresults onseveral datasets showthat theproposedalgorithmcanachievebeterclasificationresultscompared with several classical multi-label algorithms.
+
+Key Words: multi-label learning; pair-wise constraints; feature extraction; random subspace
+
+# 0 引言
+
+随着信息技术的发展，多标签学习[1-3]已逐渐成为数据挖掘领域的研究热点之一，得到了广泛的关注和研究。不同于传统单标签数据，在多标签数据中每个样本可同时隶属于多个标签，使得此类数据往往不再具有唯一语义。由于多标签数据的多义性特点，使得多标签学习在实际生活中可以广泛运用到许多应用场景中，并在如文本分类、音乐情感分类、语义场景分类、生物信息学及其他领域内取得了较好效果。
+
+多标签学习问题可形式化地描述如下：给定 $X = R ^ { d }$ 代表 $d$ 维样本空间， ${ \cal L } = \{ l _ { 1 } , l _ { 2 } , \cdots , l _ { q } | l \in \{ 0 , 1 \} \}$ 表示包含 $q$ 个标签的标签集合，其主要任务就是通过从训练集$T = \{ ( x _ { i } , Y _ { i } ) | i = 1 , \cdots , p , x _ { i } \in X , Y _ { i } \subseteq L \}$ 中学习得到分类函数$f : X \to Y$ ，将任意未知样本 $x \in R ^ { d }$ 映射到相应的标签集合$L _ { \mathrm { } _ { x } } { \subset L }$ 。由于标签集合 $L$ 中标签间的关系并不假定为互斥的，所以使得单标签学习框架不再适用于此类数据。
+
+正因如此，经过近些年来许多学者的不断研究，一系列多标签算法被先后提出。总结目前已有的算法，其主要构造思路大致可分为以下三种：问题转换、算法适应和集成方法。问题转换方法[4-6]通过改造数据将多标签问题转换为若干个单标签问题，再利用成熟的单标签方法处理转换后的问题。此类方法虽然简单易行且不受特定算法的限制，但由于忽略了标签间的关联信息，会在一定程度上影响学习效果。算法适应方法[7-9]则直接扩展改进传统的单标签学习算法，增强其适用性和泛化能力，使之能适应多标签数据的处理。集成方法[10-]通常将问题转换方法和算法适应方法结合起来处理多标签学习问题，以便取得更优的学习效果。
+
+在处理多标签数据时，上述方法采用了一个相同的策略：即使用同一特征集合预测所有的类别标签。尽管此策略在多标签研究领域内取得了不错的效果，但其并非最优选择。由于每个标签可能具有独有的特征属性(即类属属性)，同时它们也是与标签最相关的属性，对相应标签具有更强的判别能力。基于此观点，Zhang 等提出了基于类属属性的LIFT(multi-labellearningwithLabel specificFeaTures)算法[l2]。与已有策略不同，LIFT算法借助类属属性确定未知样本的标签集合，然而其在类属属性的构造过程中，未充分考虑样本间的相关性，会导致类属属性维度增加，使得类属属性空间中存在冗余信息。
+
+针对上述问题，本文综合利用随机子空间及成对约束降维的思想，提出了一种基于随机子空间的多标签类属特征提取算法，记为LIFT-RSM。对于各个类属属性空间，该方法首先利用随机子空间思想将原始特征空间划分为多个部分；其次，在各个部分中利用近邻关系和成对约束获取相应权值矩阵；然后融合各权值矩阵并依此设计目标函数；最终通过矩阵的广义特征值分解学习得到变换矩阵，并以此构建对应的低维特征空间。实验结果表明，该算法取得了较好的分类效果，验证了算法的有效性。
+
+# 1 相关工作
+
+# 1.1成对约束
+
+在许多应用领域中，除样本的类别标记外，一些其他形式的背景知识也可以用作监督信息，其中就包括成对约束(pairwiseconstraints)信息。成对约束是指某两个样本间的一种关系。相比于类别标记，成对约束适用范围更为广泛更为一般化，其不关注样本的具体类别，仅关心两个样本是否属于同一类别，因而更易获取。而且根据类别标记信息可以相对容易地获取等价的成对约束信息，反之则不然，因此成对约束比类别标记更具普遍意义。
+
+成对约束通常可分为正约束(must-link，ML)和负约束(cannot-link, $C L$ )两种[13]，其中正约束是指两个样本隶属于同一类别；相反地，负约束则要求两个样本属于不同类别。具体而言，对于给定的样本集合 $X = [ x _ { 1 } , x _ { 2 } , \cdots , x _ { n } ]$ ，可将其中所有正约束的集合构成正约束集，形式化地表示为$M = \{ ( \boldsymbol { x } _ { i } , \boldsymbol { x } _ { j } ) | \boldsymbol { x } _ { i } , \boldsymbol { x } _ { j }$ 属于同一类}；相应的，负约束集为所有负约束的集合，记为 $C = \{ ( x _ { p } , x _ { q } ) | x _ { p } , x _ { q }$ 属于不同的类}。
+
+# 1.2随机子空间
+
+随机子空间是由 $\mathrm { H o } ^ { [ 1 4 - 1 5 ] }$ 提出的一种有效的基于特征划分的集成学习方法，最初用于克服决策树分类器中的过学习问题。其基本思想是从原始特征空间中随机选取不同的特征子集并依此构建特征子空间，然后利用各特征子空间构造相应的子分类器，最后将通过不同子分类器学习得到的分类结果按照一定的组合规则进行融合集成，得到最终的学习决策。在特征随机选取过程中，不但能够更充分地利用原始特征信息、减少数据冗余，同时还能有效避免小样本问题。但由于特征选取的随机性，无法保证所选特征都包含有效判别信息，导致基分类器的准确性难以保证。
+
+# 2 基于随机子空间的多标签类属特征提取算法
+
+# 2.1类属属性空间构建
+
+LIFT算法构建类属属性空间时需要考察各个标签下属性空间的内在性质。具体而言，对于任意标签 $l _ { k } \in L$ ，可将训练集划分为正类样本集合 $P _ { \boldsymbol { k } }$ 和负类样本集合 $N _ { \boldsymbol { k } }$ 两部分，分别表示为
+
+$$
+P _ { k } = \left\{ x _ { i } | { \big ( } x _ { i } , Y _ { i } { \big ) } \in T , l _ { k } \in Y _ { i } \right\}
+$$
+
+$$
+N _ { k } = \left\{ x _ { i } | { \big ( } x _ { i } , Y _ { i } { \big ) } \in T , l _ { k } \notin Y _ { i } \right\}
+$$
+
+由此可知， $P _ { \boldsymbol { k } }$ 是由具有 $l _ { k }$ 标签的样本组成的集合；相反地，$N _ { \boldsymbol { k } }$ 则由未被 $l _ { k }$ 标记的样本构成。
+
+在文献[12]中，利用 $k$ -means算法分别对上述两个集合进行聚类分析。在此，可将集合 $P _ { \boldsymbol { k } }$ 划分为 $m _ { k } ^ { + }$ 个簇，其聚类中心记为 $\{ p _ { 1 } ^ { k } , p _ { 2 } ^ { k } , \cdots , p _ { m _ { k } ^ { + } } ^ { k } \}$ 。相应地，集合 $N _ { \boldsymbol { k } }$ 将被划分成 $m _ { k } ^ { - }$ 个簇，对应的聚类中心为 $\{ n _ { 1 } ^ { k } , n _ { 2 } ^ { k } , \cdots , n _ { m _ { k } ^ { - } } ^ { k } \}$ 。文献[12]给予 $P _ { \boldsymbol { k } }$ 和 $N _ { \boldsymbol { k } }$ 的聚类信息相同的权重，因而将聚类中心的数目设为相等，即m =mk=mk。具体来说，集合P和N的聚类数目将由以下公式确定：
+
+$$
+m _ { k } = \left\lceil \gamma \bullet m i n \big ( \vert P _ { k } \vert , \vert N _ { k } \vert \big ) \right\rceil
+$$
+
+其中： $| \bullet |$ 表示集合的基数， $\gamma \in \left[ 0 , 1 \right]$ 是控制聚类数目的参数。
+
+由聚类的性质可知，上述两组聚类中心能够分别刻画对应集合的内在结构。因此，在此基础上，类属属性可按照如下公式进行定义：
+
+$$
+\varphi _ { k } \left( x _ { i } \right) = \left[ d \left( x _ { i } , p _ { 1 } ^ { k } \right) , \cdots , d \left( x _ { i } , p _ { m _ { k } } ^ { k } \right) , d \left( x _ { i } , n _ { 1 } ^ { k } \right) , \cdots , d \left( x _ { i } , n _ { m _ { k } } ^ { k } \right) \right]
+$$
+
+其中： $d ( \cdot , \cdot )$ 返回两样本间的距离，在文献[12]中采用欧氏距离。
+
+# 2.2基于随机子空间的特征提取
+
+# 2.2.1随机子空间划分及融合
+
+利用上文构建的类属属性空间，在原始 $D$ 维空间中随机选取 $P$ 个特征 $\left( P < D \right)$ 构建 $T$ 个不同的 $P$ 维子空间集合，记为$F = \left\{ F _ { 1 } , F _ { 2 } , \cdots , F _ { T } \right\}$ 。其中，任一子空间 $F _ { t }$ 均为由 $P$ 维样本$f _ { i } ^ { t } \in R ^ { P }$ 构成的空间，即 $F _ { t } = \{ f _ { 1 } ^ { t } , f _ { 2 } ^ { t } , \cdots , f _ { n } ^ { t } \}$ 。为了清晰地描述子空间中样本的近邻关系，在此，利用距离均值来自适应的确定样本的近邻数。具体而言，就是在任意子空间 $F _ { t }$ 中，样本间的近邻关系依据样本 $f _ { i } ^ { t }$ 与所有样本的距离均值 $\boldsymbol { M } _ { i } ^ { t }$ 进行界定，即$M _ { i } ^ { t } = ( \sum _ { j = 1 } ^ { N } d _ { i j } ^ { t } ) / { N }$ 。当样本 $f _ { i } ^ { t }$ 与 $f _ { j } ^ { t }$ 之间的距离 $d _ { i j } ^ { t }$ 小于 $\boldsymbol { M } _ { i } ^ { t }$ 时，将 $f _ { i } ^ { t }$ 视为 $f _ { j } ^ { t }$ 的近邻，否则二者间不存在近邻关系，如此不同样本的近邻数 $k _ { i } ^ { t }$ 一般是不相等的。
+
+针对任意子空间 $F _ { t }$ ，构建相应的自适应近邻图 $G _ { t } ^ { N }$ 、非邻近图 $G _ { t } ^ { F }$ 及类间邻近图 $G _ { _ t } ^ { B }$ 。具体来说，就是以图中的节点表示具体样本，利用图中的边来反映样本间的邻近关系。根据上述图关系分别定义各个样本与相应近邻样本的权重矩阵$S _ { t } ^ { N } = [ S _ { i j } ^ { t , N } ]$ 、与相应非近邻样本的权重矩阵 $\boldsymbol { S _ { t } ^ { F } } = [ S _ { i j } ^ { t , F } ]$ 、与相应类间邻近样本的权重矩阵 $\boldsymbol { S _ { t } ^ { B } } = [ S _ { i j } ^ { t , B } ]$ ，上述矩阵的权重分别定义如下：
+
+$$
+S _ { i j } ^ { t , N } = \left\{ \begin{array} { l l } { 1 , ~ i f ~ d _ { i j } ^ { t } < M _ { j } ^ { t } ~ o r ~ d _ { i j } ^ { t } < M _ { i } ^ { t } } \\ { 0 , ~ e l s e } \end{array} \right.
+$$
+
+$$
+S _ { i j } ^ { t , F } = \left\{ \begin{array} { l } { 1 , \ i f \ d _ { i j } ^ { t } \geq M _ { j } ^ { t } \ a n d \ d _ { i j } ^ { t } \geq M _ { i } ^ { t } } \\ { 0 , \ e l s e } \end{array} \right.
+$$
+
+$$
+S _ { i j } ^ { t , B } = \left\{ { 1 , { i f } \left( { f _ { i } ^ { t } , f _ { j } ^ { t } } \right) \in C { \ a n d \ d _ { i j } ^ { t } } < F _ { i } ^ { t } } \right.
+$$
+
+其中： $d _ { i j } ^ { t }$ 为样本间的欧氏距离， $\boldsymbol { M } _ { i } ^ { t }$ 为样本 $f _ { i } ^ { t }$ 与所有样本距离的均值， $F _ { i } ^ { t }$ 表示样本 $f _ { i } ^ { t }$ 与其同类相距最远样本间的距离值。
+
+为了能够更有效地利用子空间信息反映数据的真实分布情况，降低特征随机选取造成的不确定性。在此，分别融合已构建的 $T$ 个自适应近邻图、 $T$ 个非邻近图及 $T$ 个类间邻近图，得到相应的混合近邻图 $G ^ { N }$ 、混合非邻近图 $\boldsymbol { G } ^ { F }$ 及混合类间邻近图$\boldsymbol { G } ^ { B }$ ，并依据上述混合图关系构建对应的权值矩阵 $S ^ { r s n } \setminus S ^ { r s f }$ 和$S ^ { r s b }$ 。以上混合图的权值矩阵均可借助各个子空间中相应权重矩阵进行线性重建得到。具体而言，可将它们之间的关系分别定义如下：
+
+$$
+S _ { i j } ^ { r s n } = \frac { 1 } { T } \sum _ { t = 1 } ^ { T } S _ { i j } ^ { t , N } , S _ { i j } ^ { r s f } = \frac { 1 } { T } \sum _ { t = 1 } ^ { T } S _ { i j } ^ { t , F } , S _ { i j } ^ { r s b } = \frac { 1 } { T } \sum _ { t = 1 } ^ { T } S _ { i j } ^ { t , B }
+$$
+
+其中： $S _ { i j } ^ { r s n } \setminus S _ { i j } ^ { r s f } \setminus S _ { i j } ^ { r s b }$ 分别表示权值矩阵 $S ^ { r s n } \setminus S ^ { r s f }$ 及 $S ^ { r s b }$ 中的权值。从上式可看出，混合图中的权值可由 $T$ 个子空间中对应权重取均值获得。
+
+# 2.2.2设计目标函数
+
+对于正约束关系 $M L$ ，为了能够有效保持类内整体的紧致性，本文将选取样本对应的全部同类样本用于构建权值矩阵$\boldsymbol { S } ^ { m } = [ S _ { i j } ^ { m } ]$ 。因此，可以根据正约束集合 $M$ 构造类内散布矩阵$Q _ { m }$ 用于描述类内紧凑程度，定义如下：
+
+$$
+\begin{array} { l } { { Q _ { m } = \mathop { \sum } _ { { \left( x _ { i } , x _ { j } \right) \in M \ni r \left( x _ { j } , x _ { i } \right) \in M ^ { T } } } \left( w ^ { T } x _ { i } - w ^ { T } x _ { j } \right) ^ { 2 } } } \\ { { \ \quad = 2 w ^ { T } X \left( D ^ { m } - S ^ { m } \right) X ^ { T } w } } \\ { { \ \quad = 2 w ^ { T } X L ^ { m } X ^ { T } w } } \end{array}
+$$
+
+$$
+{ { S } _ { i j } ^ { m } } = \left\{ \begin{array} { l } { 1 , \ i f \ \left( { { x } _ { i } } , { { x } _ { j } } \right) \in M \ o r \ \left( { { x } _ { j } } , { { x } _ { i } } \right) \in M } \\ { 0 , \ e l s e } \end{array} \right.
+$$
+
+其中： $S ^ { m }$ 为对称矩阵， $D ^ { m }$ 为对角矩阵，其对角线上的元素是矩阵 $S ^ { m }$ 中相应的列(或行)和，即 $D _ { i i } ^ { m } = \sum _ { j } S _ { i j } ^ { m }$ 。 $L ^ { \prime } = D ^ { \prime \prime } - S ^ { \prime \prime }$ 为拉普拉斯矩阵，是一个对称的半正定矩阵。
+
+对于负约束关系 $C L$ ，为了能够充分反映样本间的差异性，在这里，本文利用混合类间邻近图 $\boldsymbol { G } ^ { B }$ 对原始负约束集合 $C$ 进行调整，构造新的负约束集合。并以相应的权值矩阵 $S ^ { r s b }$ 为基础，构建可以刻画类间离散程度的类间混合散布矩阵 $\scriptstyle Q _ { r s b }$ ，定义如下：
+
+$$
+\begin{array} { r l } & { Q _ { r s b } = w ^ { T } X \biggl [ \left( D ^ { c o l } + D ^ { r o w } \right) - \left( S ^ { r s b } + \left( S ^ { r s b } \right) ^ { T } \right) \biggr ] X ^ { T } w } \\ & { \quad \quad = w ^ { T } X \left( \hat { D } ^ { r s b } - \overline { { S } } ^ { r s b } \right) X ^ { T } w } \\ & { \quad \quad = w ^ { T } X L ^ { r s b } X ^ { T } w } \end{array}
+$$
+
+其中： $S ^ { r s b }$ 为非对称矩阵， $D ^ { c o l }$ 和 $D ^ { r o w }$ 均为对角矩阵，即
+
+$$
+D _ { i i } ^ { c o l } = \sum _ { j } S _ { i j } ^ { r s b } , D _ { j j } ^ { r o w } = \sum _ { i } S _ { i j } ^ { r s b } , L ^ { r s b } = \overline { { { D } } } ^ { r s b } - \overline { { { S } } } ^ { r s b } \circ
+$$
+
+到目前为止仅考虑了与成对约束有关的信息，尚未涉及样本集所包含的潜在信息。在此，为了能够充分利用样本间的邻近信息，可以基于流形假设[16将样本间的近邻关系作为局部结构信息导入降维过程中。一方面，希望在原始空间中相互靠近的样本其投影在低维空间中也是互相靠近的。因此，根据混合近邻图 $G ^ { N }$ 的权值矩阵 $S ^ { r s n }$ ，可以构建混合邻近散布矩阵 $Q _ { r s n }$ 用于描述近邻点之间的紧密程度，具体定义如下：
+
+$$
+\begin{array} { r l } & { \mathcal { Q } _ { r s n } = \sum _ { i j } \Bigl ( w ^ { T } x _ { i } - w ^ { T } x _ { j } \Bigr ) ^ { 2 } S _ { i j } ^ { r s n } } \\ & { \qquad = 2 w ^ { T } X \left( D ^ { r s n } - S ^ { r s n } \right) X ^ { T } w } \\ & { \qquad = 2 w ^ { T } X L ^ { r s n } X ^ { T } w } \end{array}
+$$
+
+其中： $D ^ { r s n }$ 为对角矩阵， $D _ { i i } ^ { r s n } = \sum _ { j } S _ { i j } ^ { r s n }$ ， $L ^ { r s n } = D ^ { r s n } - S ^ { r s n }$ 。
+
+另一方面，对于非近邻样本，期望其在低维空间中的投影点能够尽可能的散开。基于此，利用混合非邻近图 $\boldsymbol { G } ^ { F }$ 的权值矩阵 $S ^ { r s f }$ 定义了下式用于度量非近邻样本间的散开程度：
+
+$$
+\begin{array} { r l } & { Q _ { r s f } = \sum _ { i j } \Bigl ( w ^ { T } x _ { i } - w ^ { T } x _ { j } \Bigr ) ^ { 2 } S _ { i j } ^ { r s f } } \\ & { \qquad = 2 w ^ { T } X \left( D ^ { r s f } - S ^ { r s f } \right) X ^ { T } w } \\ & { \qquad = 2 w ^ { T } X L ^ { r s f } X ^ { T } w } \end{array}
+$$
+
+其中： $Q _ { r s f }$ 表示混合非邻近散布矩阵， $D ^ { r s f }$ 代表对角矩阵,（204号 $\begin{array} { r } { D _ { i i } ^ { r s f } = \sum _ { j } S _ { i j } ^ { r s f } ~ , ~ L ^ { r s f } = D ^ { r s f } - S ^ { r s f } \circ } \end{array}$ （204号
+
+基于上述准备，在设计目标转换向量 $\boldsymbol { w } ^ { * }$ 时，应该以成对约束信息为指导，同时充分利用样本间的近邻关系。因此，最终目标转换向量可以通过定义如下函数得到：
+
+$$
+\boldsymbol { w } ^ { * } = a r g m a x \frac { Q _ { r s b } + \alpha Q _ { r s f } } { Q _ { m } + \beta Q _ { r s n } } = a r g m a x \frac { \boldsymbol { w } ^ { T } \boldsymbol { X } \left( \boldsymbol { L } ^ { r s b } + \alpha \boldsymbol { L } ^ { r s f } \right) \boldsymbol { X } ^ { T } \boldsymbol { w } } { \boldsymbol { w } ^ { T } \boldsymbol { X } \left( \boldsymbol { L } ^ { m } + \beta \boldsymbol { L } ^ { r s n } \right) \boldsymbol { X } ^ { T } \boldsymbol { w } }
+$$
+
+其中： $\alpha$ 和 $\beta$ 为常系数，分别用于调节 $Q _ { r s f }$ 和 $Q _ { r s n }$ 的贡献度。如果 $\boldsymbol { X } ( L ^ { m } + \beta L ^ { r s n } ) \boldsymbol { X } ^ { T }$ 为非奇异的，那么可以使用拉格朗日方法变换上式，将上式的求解问题转换为如下等式求解最大广义特征值对应特征向量的问题：
+
+$$
+X \left( L ^ { r s b } + \alpha L ^ { r s f } \right) X ^ { T } w = \lambda X \left( L ^ { m } + \beta L ^ { r s n } \right) X ^ { T } w
+$$
+
+根据阈值参数 $\mathrm { t h r } \big ( 0 \leq t h r \leq 1 \big )$ ,通过 $\sum _ { i = 1 } ^ { d } \lambda _ { i } \geq t h r \times \sum _ { i = 1 } ^ { D } \lambda _ { i }$ 确定最终维度d，并选取前d个最大非零特征值的对应特征向量构成变换矩阵 $\mathrm { ~ w ~ }$ 。
+
+# 2.3算法描述
+
+本节将随机子空间思想引入类属空间，充分利用成对约束信息及样本的近邻关系，提出了一种基于随机子空间的多标签类属特征提取算法。以下完整地展示了从类属属性构建、子空间划分融合、特征提取、分类模型训练至未知样本预测的全部流程，其详细操作过程可以总结如下：
+
+输入：训练集 $\mid X ,$ 聚类个数控制参数 $\gamma ,$ 随机子空间个数T特征子空间维度 $P$ 贡献度控制参数 $\alpha$ 和 $\beta ,$ 阈值参数 $t h r _ { ; }$ 未标记样本 $x$ ·
+
+$Y ^ { \prime }$
+
+捌山：测协佥采口！$\textcircled{1}$ 对于每一种类标签 $l _ { k }$ ，重复步骤2\~15;$\textcircled{2}$ 根据式(1)-(2)，利用训练集 $X$ 构建样本集 $P _ { \boldsymbol { k } }$ 和 $N _ { \boldsymbol { k } }$ ；$\textcircled{3}$ 在 $P _ { \boldsymbol { k } }$ 和 $N _ { k }$ 上，用 $k$ -means 算法进行聚类分析，聚类个  
+数 $m _ { k }$ 根据式(3)获得;$\textcircled{4}$ 根据式(4)构建原始类属属性空间 $L _ { \nu } = t r _ { k } \cup t s _ { k }$ ，其中  
+${ t r _ { k } } = \Bigl \{ \varphi _ { k } \bigl ( x _ { i } \bigr ) , \forall x _ { i } \in X \Bigr \} , t s _ { k } = \bigl \{ \varphi _ { k } \bigl ( x ^ { \prime } \bigr ) \bigr \}  \ ;$ $\textcircled{5}$ 对 $L _ { ☉ }$ 进行中心化，得到类属属性空间 $C _ { k } = T r _ { k } \cup T s _ { k }$ ；$\textcircled{6}$ 在 $T r _ { k }$ 中随机选取 $P$ 维特征构成子空间 $F _ { t }$ ；$\textcircled{7}$ 在 $F _ { t }$ 上构造近邻图 $G _ { t } ^ { N }$ 、非邻近图 $G _ { t } ^ { F }$ 和类间邻近图  
+$G _ { t } ^ { B }$ ，并根据式(5)\~(7)计算对应权重矩阵;$\textcircled{8}$ 返回步骤6，如此循环 $T$ 次；$\textcircled{9}$ 利用各个子空间中的图关系构建混合图，根据式(8)计  
+算各混合图权值矩阵；（204号 $\textcircled{10}$ 根据式(9)-(13),分别构建散布矩阵 $Q _ { m }$ 、 $\scriptstyle Q _ { r s b }$ 、 $\scriptstyle Q _ { r s n }$ 和  
+$Q _ { r s f }$ ；$\textcircled{1}$ 确定权值 $\alpha$ 和 $\beta _ { : }$ ，构造目标转换函数如式(14)所示;$\textcircled{12}$ 根据thr 确定维度 $d$ ，求解式(15)得到变换矩阵 $W _ { k }$ ，通  
+过 $M y _ { k } = W _ { k } ^ { \ T } T r _ { k }$ 得到降维后的类属属性空间，即映射  
+$\rho _ { k } \big ( a _ { i } \big ) , \forall a _ { i } \in T r _ { k }$ ：$\textcircled{13}$ 以映射 ${ { \rho } _ { k } } \left( { { a } _ { i } } \right)$ 为基础构建相应二分类训练集 $T _ { k } ^ { * }$ ；$\textcircled{14}$ 基于 $\boldsymbol { T } _ { k } ^ { * }$ 使用二分类学习算法得到相应的分类模型  
+$f _ { k } : M y _ { k } \to R$ ;（204号 $\textcircled{15}$ 预测的标签集合 $\mathbf { Y } ^ { \prime } = \left\{ l _ { k } \middle | f _ { k } \left( \rho _ { k } \left( t \right) \right) > 0 , 1 \leq k \leq q , t \in T s _ { k } \right\} \ \mathrm { ~ , ~ }$ LIFT-RSM 算法首先为每个类标签构建类属属性空间并中
+
+心化 (步骤2\~5)；然后利用随机子空间思想划分原始类属空间，融合各子空间的近邻关系后，借助成对约束信息对原始类属空间进行降维(步骤6\~12)；接着在降维后的类属属性空间中训练二分类模型(步骤13\~14)；最后对未知样本进行预测(步骤15)。
+
+# 3 实验分析
+
+# 3.1 数据集
+
+本文采用 Scene、Emotions、Slashdot、Flags 和Image 等5种不同的公开多标签数据集，对提出的基于随机子空间的多标签类属特征提取算法进行实验验证，上述数据集的具体统计信息如表1所示。由于所选的数据集涵盖了音乐、图像、文本等不同应用领域，而且标签性质各不相同，因而具有较强的概括性。
+
+表1数据集信息  
+
+<html><body><table><tr><td>数据集</td><td>|S|</td><td>dim(s)</td><td>L(S)</td><td>LCard(S)</td><td>LDen(S)</td><td>URL</td></tr><tr><td>Image</td><td>2000</td><td>294</td><td>5</td><td>1.236</td><td>0.247</td><td>URL2</td></tr><tr><td>Scene</td><td>2407</td><td>294</td><td>6</td><td>1.074</td><td>0.179</td><td>URL1</td></tr><tr><td>Emotions</td><td>593</td><td>72</td><td>6</td><td>1.869</td><td>0.311</td><td>URL1</td></tr><tr><td>Flags</td><td>194</td><td>19</td><td>7</td><td>3.392</td><td>0.485</td><td>URL1</td></tr><tr><td>Slashdot</td><td>3782</td><td>1079</td><td>22</td><td>1.180</td><td>0.054</td><td>URL3</td></tr></table></body></html>
+
+注：URL1:http://mulan.sourceforge.net/datasets-mlc.html
+
+URL2:http://cse.seu.edu.cn/PersonalPage/zhangml/index.htm
+
+URL3:http://computer.njnu.edu.cn/Lab/LABIC/LABIC_softw are.html
+
+在表1中： $| S |$ 表示样本个数; $d i m ( S )$ 表示属性个数; $L ( S )$ 表示标签个数； $L C a r d ( S )$ 表示标签基数，为样本具有的平均相关标签个数； $L D e n ( S )$ 表示标签密度，为由标签个数归一化的标签基数。
+
+# 3.2实验设置
+
+3.2.1评估指标
+
+在多标签学习中，由于每个样本可以同时隶属于多个标签，所以通常检验多标签算法的有效性与检验单标签算法相比更加复杂。在传统单标签算法中广泛应用的评价指标如准确率、查全率、精度等已不再适用于多标签问题，为此需要引入专门的多标签评价指标来验证算法的有效性。目前，多标签评价指标主要从样本和标签两个角度度量算法的性能，可大致分为两类[1]：即基于样本的指标[17]和基于标签的指标[18]。在本文实验中,选取以下5项评价指标来综合评估提出算法的性能，其中包括1个基于样本的指标：汉明损失(HammingLoss, $H L ^ { \cdot }$ 及4个基于标签排序的指标：1-错误率(One-Error $O E { \mathrm { _ { \it { i } } } }$ 、排序损失(RankingLoss,RL)、覆盖率(Coverage $. C V )$ 、平均精度(AveragePrecision, $A P$ ）
+
+上述五种指标分别从不同角度评价算法性能的优劣，并直接反映在指标数值的大小上。其中，平均精度在值越大的时候算法性能越好，当其值为1时，性能达到最优；余下4个评价指标，取值越小表示算法性能越好，所以当值为0时，性能最好，反之为1时最差。有关上述评价指标的详细介绍具体可参照文献[1]，在此不再赘述。
+
+# 3.2.2对比算法
+
+本文选取5种经典的多标签学习方法用作对比算法，分别与本文提出的LIFT-RSM算法进行对比及分析。这5种算法包括：基于 $k$ 近邻的ML-kNN 算法[7]、LIFT 算法[12]、多标签维度约减算法MDDM[19]、 $\mathrm { M L N B } ^ { [ 2 0 ] }$ 和 MLS[21]。实验中，对于LIFT和LIFT-RSM算法，将参数 $\gamma$ 以0.1为步长在[0,1]区间内进行调节，并最终设定 $\gamma = 0 . 2$ ；对算法MLNB、MLSI，设置保持原数据 $98 \%$ 的信息量；对于MDDM及ML-kNN算法，根据相应文献的建议选取默认的参数配置。
+
+如无特别说明，在LIFT_RSM算法中控制贡献度的参数 $\alpha$ 和 $\beta$ 均设置为0.05，随机子空间个数 $T$ 设置为10，特征子空间维度 $P$ 设置为20，若原始空间的维度 $d$ 小于20时，则将 $P$ 设置为 $\big \lfloor 0 . 3 ^ { * } d \big \rfloor$ ，在降维过程中保留原类属属性 $9 5 \%$ 的信息量。除MLNB算法外，使用线性核LIBSVM作为其余所有算法的基分类器。本文所有实验在内存为4GB及 $2 . 5 0 \mathrm { G H z }$ 处理器的主机上完成，操作系统为64位Windows7，并选取MATLAB$2 0 1 4 \mathrm { a }$ 作为开发平台。
+
+# 3.3结果分析
+
+对于Image、Scene、Flags 数据集，本文从数据集中随机抽取 $80 \%$ 的样本作为训练集，余下 $20 \%$ 的样本组成测试集，抽样过程重复50次并记录50次实验的均值。余下数据集使用原始训练集和测试集，重复实验50次并记录50次实验的均值。
+
+表2-6分别记录了各个算法在5种数据集上的实验结果，实验结果采用均值形式表示。其中，对于各项评价指标，符号（（↑）表示该项评价指标值越小（越大）算法性能越优。此外，各项评价指标的最优值以下划线方式标出。
+
+表2数据集Scene分类性能比较  
+
+<html><body><table><tr><td>算法</td><td>HL↓</td><td>OE↓</td><td>CV↓</td><td>RL↓</td><td>AP↑</td></tr><tr><td>MLSI</td><td>0.1085</td><td>0.2684</td><td>0.5645</td><td>0.0955</td><td>0.8376</td></tr><tr><td>ML-kNN</td><td>0.8798</td><td>0.2279</td><td>0.4780</td><td>0.0782</td><td>0.8641</td></tr><tr><td>MDDM</td><td>0.1065</td><td>0.2605</td><td>0.5194</td><td>0.0877</td><td>0.8454</td></tr><tr><td>MLNB</td><td>0.8846</td><td>0.2797</td><td>0.5729</td><td>0.0962</td><td>0.8331</td></tr><tr><td>LIFT</td><td>0.0770</td><td>0.1903</td><td>0.3839</td><td>0.0615</td><td>0.8878</td></tr><tr><td>LIFT_RSM</td><td>0.0762</td><td>0.1818</td><td>0.3882</td><td>0.0606</td><td>0.8918</td></tr></table></body></html>
+
+表3数据集Flags分类性能比较  
+
+<html><body><table><tr><td>算法</td><td>HL↓</td><td>OE↓</td><td>CV↓</td><td>RL↓</td><td>AP↑</td></tr><tr><td>MLSI</td><td>0.3422</td><td>0.2606</td><td>3.9308</td><td>0.2410</td><td>0.7909</td></tr><tr><td>ML-kNN</td><td>0.6872</td><td>0.2376</td><td>3.9846</td><td>0.2426</td><td>0.7934</td></tr><tr><td>MDDM</td><td>0.3379</td><td>0.2531</td><td>3.8749</td><td>0.2318</td><td>0.7960</td></tr><tr><td>MLNB</td><td>0.6215</td><td>0.2813</td><td>4.3803</td><td>0.3300</td><td>0.7400</td></tr><tr><td>LIFT</td><td>0.3382</td><td>0.2390</td><td>3.8144</td><td>0.2330</td><td>0.8001</td></tr><tr><td>LIFT_RSM</td><td>0.3168</td><td>0.2274</td><td>3.9046</td><td>0.2300</td><td>0.8012</td></tr></table></body></html>
+
+表4数据集Emotions分类性能比较  
+
+<html><body><table><tr><td>算法</td><td>HL↓</td><td>OE↓</td><td>CV↓</td><td>RL↓</td><td>AP↑</td></tr><tr><td>MLSI</td><td>0.2946</td><td>0.4307</td><td>2.6733</td><td>0.3236</td><td>0.6723</td></tr><tr><td>ML-kNN</td><td>0.8762</td><td>0.4059</td><td>2.4901</td><td>0.2829</td><td>0.6938</td></tr><tr><td>MDDM</td><td>0.2698</td><td>0.3762</td><td>2.2475</td><td>0.2367</td><td>0.7307</td></tr><tr><td>MLNB</td><td>0.8985</td><td>0.4257</td><td>2.3762</td><td>0.2706</td><td>0.7051</td></tr><tr><td>LIFT</td><td>0.2700</td><td>0.3483</td><td>2.4110</td><td>0.2506</td><td>0.7302</td></tr><tr><td>LIFT_RSM</td><td>0.2607</td><td>0.3478</td><td>2.3144</td><td>0.2387</td><td>0.7352</td></tr></table></body></html>
+
+表5数据集Image分类性能比较  
+
+<html><body><table><tr><td>算法</td><td>HL↓</td><td>OE↓</td><td>CV↓</td><td>RL↓</td><td>AP↑</td></tr><tr><td>MLSI</td><td>0.1904</td><td>0.3453</td><td>1.0186</td><td>0.1867</td><td>0.7770</td></tr><tr><td>ML-kNN</td><td>0.8820</td><td>0.3224</td><td>0.9781</td><td>0.1774</td><td>0.7893</td></tr><tr><td>MDDM</td><td>0.2003</td><td>0.3732</td><td>1.0633</td><td>0.1964</td><td>0.7591</td></tr><tr><td>MLNB</td><td>0.8572</td><td>0.4143</td><td>1.2605</td><td>0.2462</td><td>0.7223</td></tr><tr><td>LIFT</td><td>0.1535</td><td>0.2654</td><td>0.8305</td><td>0.1398</td><td>0.8286</td></tr><tr><td>LIFT_RSM</td><td>0.1512</td><td>0.2566</td><td>0.8347</td><td>0.1406</td><td>0.8313</td></tr></table></body></html>
+
+表6数据集Slashdot分类性能比较  
+
+<html><body><table><tr><td>算法</td><td>HL↓</td><td>OE↓</td><td>CV↓</td><td>RL↓</td><td>AP↑</td></tr><tr><td>MLSI</td><td>0.0549</td><td>0.4865</td><td>3.2267</td><td>0.1271</td><td>0.6253</td></tr><tr><td>ML-kNN</td><td>0.0528</td><td>0.6642</td><td>4.2624</td><td>0.1785</td><td>0.4775</td></tr><tr><td>MDDM</td><td>0.0470</td><td>0.6484</td><td>4.2201</td><td>0.1793</td><td>0.4952</td></tr><tr><td>MLNB</td><td>0.9722</td><td>0.5577</td><td>5.5558</td><td>0.1470</td><td>0.2379</td></tr><tr><td>LIFT</td><td>0.0400</td><td>0.4163</td><td>2.4545</td><td>0.0968</td><td>0.6813</td></tr><tr><td>LIFT_RSM</td><td>0.0397</td><td>0.4096</td><td>2.4202</td><td>0.0948</td><td>0.6871</td></tr></table></body></html>
+
+观察表2\~6中的结果可以看出，本文提出的基于随机子空间的多标签类属特征提取算法LIFTRSM取得了较好的分类效果。对于Emotions和Image 数据集，除了覆盖率和排序损失，LIFT_RSM算法在余下的3个评价指标上均优于其他对比算法。对于Scene和Flags数据集，除覆盖率外，LIFT_RSM算法的余下4项指标均优于对比算法。对于Slashdot数据集，LIFT_RSM算法在HL、OE、CV、RL和AP等5项指标上的结果分别为0.0397、0.4096、2.4202、0.0948及0.6871，相比于原始LIFT算法均有不同程度的提升，与其他算法相比效果提升更为显著。值得注意的是，部分数据集中提出算法在部分指标上表现略差。经过分析，发现其主要原因是相关数据集的标签密度较大，同时拥有多个标签的实例较多，使得各个实际类别中边缘样本及噪声样本增多，致使特征提取性能受到影响，导致分类效果不理想。
+
+以Flags、Scene、Emotions及Image数据集为例，分别统计上述数据集用LIFT和LIFT_RSM算法学习后得到的类属属性维度，具体对比情况如图1\~4所示。
+
+![](images/cdb588f9d6e12a232f2dee81b550a3ecc94f7d558d5d59de4eab977864eb9ed8.jpg)  
+图1数据集Image类属属性维度比较
+
+![](images/ef97f9eb3eaafaa5497699acbcae506d70662913b15ba737f4ee56314e522271.jpg)  
+图2数据集Emotions类属属性维度比较
+
+![](images/94d771986313aa384d0f8f2d42589f2b3a2c1d92657fbd2c690c114bbe15d37f.jpg)  
+图3数据集 Scene 类属属性维度比较
+
+![](images/ad68000a57f1a367c537e5097ae16ebc877a875f77d29362addb2d42ec96e8b0.jpg)  
+图4数据集Flags类属属性维度比较
+
+从图1\~4中可以发现，针对不同的数据集，在其对应的所有类别标签上，LIFT_RSM算法得到的最终类属属性维度均不同程度低于LIFT算法的类属属性维度。其中，以Scene 数据集为例，在其包含的6个标签上，LIFT算法学习得到的原始类属属性维度分别为138、118、128、139、171、138，而使用LIFT_RSM算法进行学习后对应属性维度分别下降至110、83、96、107、144、110，由此可见由LIFT_RSM算法学习得到的类属属性维度的确能够有一定程度的降低。虽然LIFT_RSM算法在部分评价指标上略低于对比算法，但总体而言，LIFT_RSM算法仍然能够获得较好的学习分类性能。
+
+LIFT_RSM算法通过融合各个随机子空间中样本的近邻关系，可以更精确的表示样本间的相关性，因而可以有效解决多标签数据分类问题。综上所述，本文提出的LIFT_RSM算法在综合性能上总体优于其他对比算法，提高了分类器的性能，并取得了较好的效果。
+
+# 4 结束语
+
+不同与以往多标签学习算法，LIFT算法着重考察属性空间操作对多标签学习性能的影响。本文以LIFT 算法为基础，利用随机子空间模型划分原始类属空间，在融合各个子空间中近邻关系后，借助成对约束信息指导降维的思想，提出了一种基于随机子空间的多标签类属特征提取算法。一系列实验结果表明，提出算法整体上优于其他经典算法，符合预期目标，验证了该算法的有效性。在今后的研究中，可以将标签间的相关性融入到类属属性特征提取中，以进一步提升多标签算法的学习性能。此外，目前该算法的参数个数相对较多，寻找有效的自适应方法减少所需参数数目也是未来的研究工作之一。
+
+# 参考文献：
+
+[1]Zhang ML,Zhou Z H.A Review on multi-label learning algorithms [J]. IEEE Trans on Knowledge & Data Engineering,2014,26(8):1819-1837.   
+[2]Tsoumakas G,Katakis I. Multi-label classification:an overview [J]. International Journal ofData Warehousing& Mining,20o9,3(3):1-13.   
+[3]Zhou ZH, Zhang ML.Multi-label learning [M]// Encyclopedia of Machine Learning and Data Mining,Berlin: Springer,2017,875-881.   
+[4]Zhang ML, Zhang K.Multi-label learning by exploiting label dependency [C]//Proc of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.New York:ACMPress,2010: 999-1008.   
+[5]Füirnkranz J,Hüllermeier E,Mencia EL,et al.Multilabel classification via calibrated label ranking [J].Machine Learning,2014,73 (2):133-153.   
+[6]Boutell MR,Luo J, Shen X,et al.Learning multi-label scene classification. [J].Pattern Recognition,2004,37 (9): 1757-1771.   
+[7]Zhang ML, Zhou ZH. ML-KNN: A lazy learning approach to multi-label learning [J].Pattern Recognition,2007,40(7): 2038-2048.   
+[8] Zhang M L,Zhou Z H. Multilabel neural networks with applications to functional genomics and text categorization [J].IEEE Trans on Knowledge and Data Engineering,2006,18(10):1338-1351.   
+[9]Schapire R E,Singer Y.BoosTexter:A Boosting-based System for Text Categorization [J].Machine Learning,200o,39 (2-3):135-168.   
+[10] Tsoumakas G,Vlahavas I.Random $\mathbf { k }$ -labelsets:an ensemble method for multilabel classification [C]//Proc of the 18th European Conference on Machine Learning.Berlin: Springer, 20o7: 406-417   
+[11]Read J,Pfahringer B,Holmes G,et al. Classifier chains for multi-label classification [J].Machine Learning,2011,85 (3): 254-269.   
+[12] ZhangML,Wu L.Lift: Multi-label learning with label-specific features.[J]. IEEE Trans on Pattern Analysis & Machine Intelligence,2015,37(1):107- 20.   
+[13]Klein D,Kamvar S D,Manning C D.From instance-level constraints to space-level constraints:making the most of prior knowledge in data clustering [C]// Proc of the 19th International Conference on Machine Learning. San Francisco:Morgan Kaufmann Publishers Inc.2oo2:307-314.   
+[14]Ho TK.Random decision forests [C]//Proc of International Conference on Document Analysis and Recognition.2002:278.   
+[15] Ho TK.The random subspace method for constructing decision forests [J]. IEEE Trans on Pattern Analysis & Machine Intelligence,1998,20 (8): 832- 844.   
+[16]刘建伟，刘媛，罗雄麟．半监督学习方法[J].计算机学报,2015,38(8): 1592-1617.   
+[17] Godbole S,Sarawagi S.Discriminative methods for multi-labeled classification [C]//Lecture Notes in Computer Science.2004,: 22-30.   
+[18] Yang Y.An evaluation of statistical approaches to text categorization [J]. Information Retrieval Journal,1999,1(1): 69-90.   
+[19] Zhang Y, Zhou Z H. Multilabel dimensionality reduction via dependence maximization[J].ACM Trans on Knowledge Discovery from Data,2010,4 (3):1503-1505.   
+[20] Zhang ML,PenaJM,Robles V.Feature selection for multi-label naive Bayes classification[J].Information Sciences,2009,179(19):3218-3229.   
+[21] Yu K,Yu S,Tresp V.Multi-label informed latent semantic indexing [C]/ Procof International ACM SIGIR Conference on Research and Development in Information Retrieval.New York:ACMPress,20o5:258- 265.

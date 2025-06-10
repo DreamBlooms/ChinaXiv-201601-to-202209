@@ -1,0 +1,646 @@
+# Approximation-Degree-Based Interpolation: A New Interpolation
+
+# Method
+
+Shiyou Lian
+
+Xi'an Shiyou University, Xi'an, China
+
+sylian @ xsyu.edu.cn
+
+# Abstract
+
+This paper introduces the measure of approximate-degree and the concept of approximate-degree function between numerical values， thus developing a new interpolationmethod :approximation-degree-based interpolation， i.e.， AD interpolation. One-dimensional AD interpolation is done directly by using correlative interpolation formulas; $n ( n { > } 1 )$ -dimensional AD interpolation is firstly separated into $n$ parallel one-dimensional AD interpolation computations to do respectively,and then got results are synthesized by Sum-Times-Difference formula into a value as the result value of the $n$ -dimensional interpolation. If the parallel processing is used,the efficiency of $n$ -dimensional AD interpolation is almost the same as that of the one-dimensional AD interpolation. Thus it starts a feasible and convenient approach and provides an effective method for high-dimensional interpolations.Furthermore, if AD interpolation is introduced into machine learning,a new instance-based learning method is expected to be realized.
+
+Keywords Approximation-Degree; High-Dimensional Interpolation; First Separating thenSynthesizing；Parallel Processing；Sum-Times-DifferenceFormula; Instance-Based Learning
+
+# 1 Introduction
+
+With the rapid development of artificial intelligence and machine learning， some of the traditional numerical computation methods such as interpolation,data fiting and regression analysis have aroused people's interest and become active fields again.Although there has been suficient research on interpolation, the results of high-dimensional interpolation are still relatively few,and some of the existing high-dimensional interpolation methods[2] have a large load of computation and are not suitable for local interpolation. High-dimensional interpolation has important applications in artificial inteligence and machine learning. For example, instance-based learning[3,4] often involves high-dimensional interpolation. Therefore, the high-dimensional interpolation,especially that suitable for local interpolation,is still an
+
+important subject worthy of serious study
+
+Inspired by the approximate evaluation method of flexible linguistic functions[5,6l in reference [1],this paper intends to introduce the measure of approximate-degree between numerical values to study the approximate evaluation of numerical functions,and then explores the approach and method of interpolation based on approximate-degree,especially, the method of high-dimensional interpolation based on approximate-degree.
+
+# 2 Approximation Axiom, Approximation-Degree, and Approximation-Degree Transmission
+
+Approximation Axiom Let $\mathbf { R }$ be real number field, $\mathbf { R } ^ { n }$ be $n$ -dimensional real vector space, ${ \cal U } = [ a _ { 1 } , b _ { 1 } ] \times [ a _ { 2 } , b _ { 2 } ] \times . . . \times [ a _ { n } , b _ { n } ] \subset { \bf R } ^ { n } ( n \geq 1 ) , V = [ c , d ] \subset { \bf R } ,$ and $\scriptstyle y = f ( { \pmb x } )$ （ $( { \mathfrak { x } } { = } ( x _ { 1 } , x _ { 2 } { , } . . . , x _ { \mathrm { n } } ) )$ （20 be a continuous and non-chaotic function relation from $\pmb { U }$ to $V .$ If $y _ { 0 } { = } f ( x _ { 0 } ) \ ( x _ { 0 } { \in } U )$ is known, then when $\pmb { x } { \in } U$ is approximate to $\scriptstyle x _ { 0 } , y = f ( x ) \in V$ is also approximate to $y _ { 0 }$
+
+Definition 2-1 Let $\mathbf { R }$ be real number field, $\scriptstyle x _ { 0 } \in [ a , \ b ] \subset { \mathbf { R } }$ ，and $[ \alpha _ { 0 } , \beta _ { 0 } ] { \subset } [ a , b ]$ be a neighborhood of $x _ { 0 }$ ,which is called the approximation domain of $x _ { 0 }$ .For $\forall x \in [ a , b ]$ ,say $x$ is approximate to $x _ { 0 }$ if and only if $x \in [ \alpha _ { 0 } , \beta _ { 0 } ]$
+
+Definition 2-2 Let $\mathbf { R } ^ { n }$ be $n$ -dimensional real vector space, $\pmb { U }$ be an $n$ -dimensional subspace of $\mathbf { R } ^ { n } , { \mathbf { x } } _ { 0 } { = } ( x _ { 1 } , \ x _ { 2 } , . . . , \ x _ { n _ { 0 } } ) { \in } U ,$ and $c { \scriptstyle \subset } U$ be a "circular" region with center $\scriptstyle { \mathbf { } } _ { 0 }$ ， which is called an approximation domain of $\scriptstyle \mathbf { { x } } _ { 0 }$ For $\forall \mathbf { x } { = } ( x _ { 1 } , \ x _ { 2 } { , . . . , \ x _ { \mathrm { n } } } ) { \in } U .$ say $\boldsymbol { x }$ is approximate to $\scriptstyle \mathbf { x } _ { 0 }$ if and only if $\pmb { x } \in C$
+
+Definition 2-3 Let $\mathbf { R } ^ { n }$ be $n$ -dimensional real vector space, $U = [ a _ { 1 } , b _ { 1 } ] \times [ a _ { 2 } , b _ { 2 } ] \times . . . \times [ a _ { n } ,$ （204号 $b _ { n } ] { \subset } \mathbf { R } ^ { n }$ ，and $\pmb { x } _ { 0 } \mathbf { = } ( x _ { 1 _ { 0 } } , \ x _ { 2 _ { 0 } } , . . . , \ x _ { n _ { 0 } } ) \mathbf { \in } U$ For $\forall \mathbf { x } { = } ( x _ { 1 } , \ x _ { 2 } , . . . , \ x _ { \mathrm { n } } ) { \in } U$ say $x$ isstrictly approximate to $\scriptstyle { \mathbf { { \boldsymbol { x } } } } _ { 0 }$ if and only if the components $x _ { 1 } , x _ { 2 } , . . . , x _ { n }$ of $x$ are approximate to the components $x _ { 1 _ { 0 } }$ ， $x _ { 2 _ { 0 } } , . . . , x _ { n _ { 0 } }$ of $\pmb { x } _ { 0 }$ ，respectively， i.e., $x _ { i } \in [ \alpha _ { i } , \ \beta _ { i } ] \subset [ a _ { i } , \ b _ { i } ]$ $( [ \alpha _ { i } , \ \beta _ { i } ]$ is approximation domain of $x _ { i _ { 0 } }$ ， $i { = } 1 , 2 , \ldots , n )$ ，and the "square" region $[ \alpha _ { 1 } , \beta _ { 1 } ] { \times } [ \alpha _ { 2 } , \beta _ { 2 } ] \ \times$ （204号 $\dots \times \left[ \alpha _ { n } , \beta _ { n } \right] \subset U$ is called strict approximation domain of $\scriptstyle \mathbf { x } _ { 0 }$
+
+In contrast to the strict approximation and strict approximation domain in Definition 2-3,we call the approximation and approximation domain defined in Definition 2-2 to be ordinary approximation and ordinary approximation domain. It can be seen that the ordinary approximation is the approximation at the level of points (vectors), while the strict approximation is the approximation at the level of the coordinates of points (components of
+
+vectors). The relation between the ordinary approximationdomainandthestrict approximation domain of the same point $\scriptstyle { \pmb x } _ { 0 }$ is shown in Figure 2-1. The illustration also shows visually the relationship between the ordinaryapproximationandthestrict approximation.
+
+Weknowthattheapproximate evaluation of a function is to obtain the approximate value of $f ( { \pmb x } ^ { \prime } )$ in the condition of a pair $( x _ { 0 } , y _ { 0 } )$ of corresponding values of function $y { = } f ( { \pmb x } ) \ \left( { \pmb x } { = } ( x _ { 1 } , \ x _ { 2 } , . . . , \ x _ { n } ) \right)$ and $\mathbf { \boldsymbol { x } } ^ { \prime }$ approximate to $\scriptstyle { \mathbf { { \boldsymbol { x } } } } _ { 0 }$ being known.By the
+
+![](images/f67236772343b3ebc1075b25bd3968c2825ccf029270a41f140f5e6af970a96c.jpg)  
+Figure 2-1 Illustration of the relation between ordinary approximationdomain andstrict approximationdomain
+
+Where the circular region is the ordinary approximation domain of point $\scriptstyle \mathbf { { \pmb { x } } } _ { 0 }$ ，and the square region is its strict approximation domain.
+
+axiom of approximation above,when $\mathbf { \boldsymbol { x } } ^ { \prime }$ is approximate to $\scriptstyle x _ { 0 } , f ( x ^ { \prime } ) = y$ is approximate to $f ( { \pmb x } _ { 0 } ) { = } y _ { 0 }$ . But approximation is a flexible concept (i.e., flexible linguistic value[ll). In order to characterize precisely these two approximation relations and the relation between them, we introduce the measure of approximation-degree.
+
+Definition 2-4 Let $\mathbf { R }$ be real number field, $\boldsymbol { x } _ { 0 } \in [ a , \ b ] \subset \mathbf { R }$ ，and $[ \alpha _ { 0 } , \beta _ { 0 } ] { \subset } [ a , b ]$ be the approximation domain of $x _ { 0 }$ . Set
+
+$$
+A _ { x _ { 0 } } ( x ) = \left\{ \begin{array} { l l } { 1 - \frac { x _ { 0 } - x } { x _ { 0 } - \alpha _ { 0 } } = \frac { x - \alpha _ { 0 } } { x _ { 0 } - \alpha _ { 0 } } , } & { x \in [ \alpha _ { 0 } , x _ { 0 } ] } \\ { \qquad } \\ { 1 - \frac { x - x _ { 0 } } { \beta _ { 0 } - x _ { 0 } } = \frac { x - \beta _ { 0 } } { x _ { 0 } - \beta _ { 0 } } , } & { x \in [ x _ { 0 } , \beta _ { 0 } ] } \end{array} \right.
+$$
+
+to be called the approximation-degree of $x$ to $x _ { 0 }$ .Where $x _ { 0 } - \alpha _ { 0 } = r l$ is called left approximation radius of $x _ { 0 }$ $\beta _ { 0 } - x _ { 0 } = r r$ is called right approximation radius of $x _ { 0 }$ . We call the function relation defined by the Formula (2-1) to be the approximation-degree function of $x _ { 0 }$
+
+It can be seen that the range of approximation-degree function $A _ { x _ { 0 } } ( x )$ is [0,1] and it is also reversible.In fact, it's easy to obtain that
+
+$$
+A _ { x _ { 0 } } ( x ) ^ { - 1 } = \left\{ \begin{array} { l l } { d _ { x } ( x _ { 0 } - \alpha _ { 0 } ) + \alpha _ { 0 } } \\ { \qquad \quad } \\ { d _ { x } ( x _ { 0 } - \beta _ { 0 } ) + \beta _ { 0 } } \end{array} \right.
+$$
+
+where $d _ { x } \in [ 0 , 1 ]$ is the approximation-degree of $x$ to $x _ { 0 }$
+
+Definition 2-5 Let $\mathbf { R } ^ { n }$ be $n$ -dimensional real vector space, $\pmb { U }$ be an $n$ -dimensional subspace of $\mathbf { R } ^ { n } , { \mathbf { x } _ { 0 } } { = } ( x _ { 1 } , \ x _ { 2 _ { 0 } } , { \ldots } , \ x _ { n _ { 0 } } ) { \in } U$ and $\scriptstyle { C \subset U }$ be an approximation domain of $\scriptstyle \mathbf { { x } } _ { 0 }$ . Set
+
+$$
+A _ { x _ { 0 } } ( \pmb { x } ) = 1 \frac { \Vert x _ { 0 } - \pmb { x } \Vert } { r } = 1 - \frac { \sqrt { \sum _ { 1 } ^ { n } \left( \mathrm { x } _ { \mathrm { i } _ { 0 } } - x _ { \mathrm { i } } \right) ^ { 2 } } } { r } , \pmb { x } = ( x _ { 1 } , x _ { 2 } , . . . , x _ { n } ) \in C
+$$
+
+to be called the approximation-degree of $x$ to $\scriptstyle \mathbf { x } _ { 0 }$ . Where $r$ is the radius of $c$ ，and which is called the approximation radius of $\scriptstyle \mathbf { { x } } _ { 0 }$
+
+We further consider the dependence relation between approximation-degree $A _ { y _ { 0 } } ( y )$ and $A _ { x _ { 0 } } ( { \pmb x } )$ under the constraint of function relation $\scriptstyle y = f ( { \pmb x } )$ . By Approximation Axiom, the closer $x$ is to $\scriptstyle { \mathbf { } } _ { \mathbf { } } ( { \mathbf { } } _ { 0 }$ ，the closer $y$ isto $y _ { 0 }$ ，thus the closer $A _ { y _ { 0 } } ( y )$ is to $A _ { x _ { 0 } } ( { \pmb x } )$ . Then when the corresponding approximation domains are small, we can simply agree that the two are equal, that is, set
+
+$$
+A _ { y _ { 0 } } ( y ) { = } A _ { x _ { 0 } } ( { \pmb x } )
+$$
+
+This equation is equivalent to transmiting the approximation-degree of the independent variable $x$ 0 $\scriptstyle { \mathbf { { \boldsymbol { x } } } } _ { 0 }$ to the corresponding function value $y$ as the approximation-degree of $y$ 0 $y _ { 0 }$
+
+# 3 Approximate Evaluation of Functions Based on Approximation-Degree
+
+3.1 Approximate Evaluation of Univariate Functions Based on Approximation-Degree
+
+Let $\mathbf { R }$ be real number field, $U { = } [ a , b ] { \subset } \mathbf { R } , V { = } [ c , d ] { \subset } \mathbf { R } , y { = } f ( x )$ be a continuous and non-chaotic function relation from $U$ to $V$ . In the condition that a pair $( x _ { 0 } , y _ { 0 } )$ of corresponding values of function $\scriptstyle y = f ( x )$ and $x$ ' approximate to $x _ { 0 }$ being known, find the approximate value of $f ( x ^ { \prime } )$
+
+Let the approximation domain of $x _ { 0 }$ be $[ a _ { 1 } , b _ { 1 } ] { \subset } [ a , b ]$ . According to the definition of the approximation-degree function above, the approximation-degree function of $x _ { 0 }$ is
+
+$$
+A _ { x _ { 0 } } ( x ) = \left\{ \begin{array} { l l } { \frac { x - a _ { 1 } } { x _ { 0 } - a _ { 1 } } , } & { x \in [ a _ { 1 } , x _ { 0 } ] } \\ { \quad } \\ { \quad } \\ { \frac { x - b _ { 1 } } { x _ { 0 } - b _ { 1 } } , } & { x \in [ x _ { 0 } , b _ { 1 } ] } \end{array} \right.
+$$
+
+And let the approximation domain of $y _ { 0 }$ is $[ c _ { 1 } , d _ { 1 } ] { \subset } [ c , d ]$ , the approximation-degree function of $y _ { 0 }$ is
+
+$$
+A _ { y _ { 0 } } ( y ) = \left\{ \begin{array} { l l } { \frac { y - c _ { 1 } } { y _ { 0 } - c _ { 1 } } , } & { y \in [ c _ { 1 } , y _ { 0 } ] } \\ { \ } \\ { \ } \\ { \frac { y - d _ { 1 } } { y _ { 0 } - d _ { 1 } } , } & { y \in [ y _ { 0 } , d _ { 1 } ] } \end{array} \right.
+$$
+
+The inverse function of $A _ { y _ { 0 } } ( y )$ that is not difficult to get is
+
+$$
+A _ { y _ { 0 } } ( y ) ^ { - 1 } = \left\{ \begin{array} { l l } { d _ { y } ( y _ { 0 } - c _ { 1 } ) + c _ { 1 } , } & { d _ { y } \in [ 0 , 1 ] } \\ { \quad } \\ { d _ { y } ( y _ { 0 } - d _ { 1 } ) + d _ { 1 } , } & { d _ { y } \in [ 0 , 1 ] } \end{array} \right.
+$$
+
+where $d _ { y }$ is the approximation-degree of $y$ to $y _ { 0 }$ （204号
+
+The graphs of the approximation-degree functions $A _ { x _ { 0 } } ( x )$ and $A _ { y _ { 0 } } ( y )$ are shown in Figure 3-1 and Figure 3-2, respectively.
+
+![](images/38cac1a74eaac72b1cbb5950d253b7788ec57bd9981f20012e8af17b5e8f52e8.jpg)  
+Figure 3-1 Graph ofapproximation-degree function $A _ { x _ { 0 } } ( x )$ （204号
+
+![](images/f914e66c21dbf5f596ba3b83f15bfbea9d0586229625049b2cae036121f0e5da.jpg)  
+Figure 3-2 Graphof approximation-degree function $A _ { y _ { 0 } } ( y )$
+
+Now we find the approximation-degree $A _ { x _ { 0 } } ( x ^ { ' } )$ , and then set $A _ { y _ { 0 } } ( y ^ { \prime } ) { = } A _ { x _ { 0 } } ( x ^ { \prime } )$ (that is, transmitting the approximation-degree of $x ^ { \prime }$ to $x _ { 0 }$ to $y ^ { \prime } )$ ； Further, we derive the required approximate value of $y ^ { \prime }$ from approximation-degree $A _ { y _ { 0 } } ( y ^ { \prime } )$ and inverse function $A _ { y _ { 0 } } ( y ) ^ { - 1 }$ of approximation-degree function of $A _ { y _ { 0 } } ( y )$ ：
+
+It can be seen that the inverse function $A _ { y _ { 0 } } ( y ) ^ { - 1 }$ of $A _ { y _ { 0 } } ( y )$ is a piecewise function, which has two parallel expressions. Thus, substituting approximation-degree $A _ { y _ { 0 } } ( y ^ { \prime } ) { = } d$ into $A _ { y _ { 0 } } ( y ) ^ { - 1 }$ ，we can get two $y$ -values $( y _ { 1 }$ and $y _ { 2 , \cdot }$ ). That is to say, from one $x '$ we obtain two $y$ -values (as shown in Figure 3-3). Then,which $y$ -value should be chosen as the desired approximate value of function '?
+
+![](images/5cafe159076351cc49362ed15db707e03ea93394a7019abcdbaba4f08f4099da.jpg)  
+Figure 3-3One $x$ ' is related to two $y$ -values
+
+Obviously, the desired $y$ -value is related to the orientation of $x '$ relative to $x _ { 0 }$ and the trend (i.e.，being increasing，decreasing，or a constant） of $f ( x )$ near $x _ { 0 }$ ．Thus，when the derivative $f ^ { \prime } ( x _ { 0 } )$ is not known,we can consider whether there is a point $x ^ { * }$ on the $x '$ side near the point $x _ { 0 }$ ，whose corresponding value of function, $f ( x ^ { * } ) { = } y ^ { * }$ ,is known.If there is such a point $x ^ { * }$ ,we can estimate the trend of $f ( x )$ between the $x _ { 0 }$ and $x ^ { * }$ by utilizing the size relation between the corresponding $y ^ { * }$ and $y _ { 0 }$ ，and then determine the choice of $y$ -value.In fact,when $x ^ { \ast } < x ^ { \prime } < x _ { 0 }$ if $y ^ { \ast } { < } y _ { 0 }$ ，which then shows that the general trend of function $f ( x )$ is increasing on the sub interval $( x ^ { * } , x _ { 0 } )$ ， thus the $y _ { 1 }$ ,i.e., that $y .$ -value less than $y _ { 0 }$ ，should be chosen;while if $y ^ { \ast } { > } y _ { 0 }$ ，which then shows that the general trend of function $f ( x )$ is decreasing on the subinterval $( x ^ { * } , x _ { 0 } )$ ，thus the $y _ { 2 }$ ,i.e., that $y$ -value larger than $y _ { 0 }$ ，should be chosen. Similarly, when $x _ { 0 } < x ^ { \prime } < x ^ { * }$ ,if $y _ { 0 } { < } y ^ { * }$ , which then shows that the general trend of function $f ( x )$ is increasing on the subinterval $( x _ { 0 } , x ^ { * } )$ ，thus the $y _ { 2 }$ should be chosen;while if $y _ { 0 } > y ^ { * }$ ，which then shows that the general trend of function $f ( x )$ is decreasing on the subinterval $( x _ { 0 } , x ^ { * } )$ ，thus the $y _ { 1 }$ （204号 should be chosen.But, if $y ^ { * } { = } y _ { 0 }$ ，which then shows that the function $f ( x )$ is likely a constant on the subintervals $( x ^ { * } , x _ { 0 } )$ or $( x _ { 0 } , x ^ { * } )$ , thus $y { = } y _ { 0 }$ can be taken no matter ${ x ^ { \ast } } { < } { x ^ { \prime } } { < } x _ { 0 }$ or $x _ { 0 } < x ^ { \prime } < x ^ { * }$ ：
+
+3.2 Approximate Evaluation of Multivariate Functions Based on Approximation-Degree
+
+Let's take the function of two variables as an example to discuss this problem.
+
+Let $z { = } f ( x , y )$ be a function (relation） from $[ a _ { 1 } , b _ { 1 } ] { \times } [ a _ { 2 } , b _ { 2 } ]$ to $[ c , d ]$ . Suppose a pair of corresponding values, $( ( x _ { 0 } , \ y _ { 0 } ) , \ z _ { 0 } )$ ，of function $z { = } f ( x , \ y )$ are known，and point $( x ^ { \prime } , y ^ { \prime } )$ is approximate to point $( x _ { 0 } , y _ { 0 } )$ . In the case that expression of function $f ( x , y )$ is unknown or not used, find the approximate value of $f ( x ^ { \prime } , y ^ { \prime } )$ ：
+
+This problem is similar to the problem of function of one variable above,so we extend the above treatment to function of two variables,that is, we can find the approximate value of the function at point $( x ^ { \prime } , y ^ { \prime } )$ from the approximation-degree of point $( x ^ { \prime } , y ^ { \prime } )$ to point $( x _ { 0 } , y _ { 0 } )$ Concretely，firstlygettheapproximation-degree $A _ { ( x _ { 0 } , y _ { 0 } ) } ( x ^ { \prime } , y ^ { \prime } )$ ，thenset ${ A _ { z } } _ { 0 } ( z ^ { \prime } ) { = } A _ { ( x _ { 0 } , y _ { 0 } ) } ( x ^ { \prime } , \mathrm { y ^ { \prime } } )$ ； and then, substitute it into inverse function $A _ { z _ { 0 } } ( z ) ^ { - 1 }$ of $A _ { z _ { 0 } } ( z )$ . Here, there will also be two $z$ -values.Thus,we can consider whether there is an adjacent point $( x ^ { * }$ $y ^ { * } )$ of point $( x _ { 0 } , y _ { 0 } )$ in the direction determined by points $( x _ { 0 } , y _ { 0 } )$ and $( x ^ { \prime } , y ^ { \prime } )$ ，whose function value is known. If there exists such a point $( x ^ { * } , y ^ { * } )$ (as shown in Figure 3-4), then we can determine the choice of $z$ -value by taking $f ( x ^ { * } , y ^ { * } )$ as a reference.
+
+However, although the technique is feasible in theory, it has precondition, it requires that the points $( x ^ { * } , y ^ { * } )$ ， $( x _ { 0 } , y _ { 0 } )$ and $( x ^ { \prime } , y ^ { \prime } )$ must be exactly on a straight line.So, the method has some limitations for multivariate functions.Then,is there a better way?
+
+By the definition of strict approximation (seeDefinition2-3)， point $( x ^ { \prime } , \ y ^ { \prime } )$ is approximate to point $( x _ { 0 } , y _ { 0 } )$ is equivalent to $x ^ { \prime }$ is approximate to $x _ { 0 }$ and $y ^ { \prime }$ is approximate to $y _ { 0 }$ Thus,we can find the approximate values $z _ { x }$ and $z _ { y }$ of function $f ( x , y _ { 0 } )$ and $f ( x _ { 0 } , y )$ at $x ^ { \prime }$ and $y ^ { \prime }$ respectively. Thus,we further imagine that if there is respectively an adjacent point of point $( x _ { 0 } , y _ { 0 } )$ in the $x$ -direction and $y$ -direction of the point $( x _ { 0 } , y _ { 0 } )$ ，which is respectively $( x ^ { * } , y _ { 0 } )$ and $( x _ { 0 } , \ y ^ { * } )$ ，as shown in Figure 3-5,and the corresponding function values $f ( x ^ { * } , \ y _ { 0 } )$ and $f ( x _ { 0 } , \ y ^ { * } )$ are known，then the approximate value $z _ { x }$ of $f ( x ^ { \prime } , y _ { 0 } )$ can be got by utilizing $f ( x ^ { * } ,$ （204号 $y _ { 0 } )$ ，and the approximate value $z _ { y }$ of $f ( x _ { 0 } , y ^ { \prime } )$ can be got by utilizing $f ( x _ { 0 } , y ^ { * } )$ ， just like that of the previous univariate function.Thus,we firstly find separately the approximation-degree $A _ { x _ { 0 } } ( x )$ and $A _ { y _ { 0 } } ( y )$ ， then set $A _ { z _ { 0 } } ( z ^ { \prime } ) = A _ { x _ { 0 } } ( x ^ { \prime } )$ ，and $A _ { z _ { 0 } } ( \mathbf { z } ^ { \prime } ) =$ $A _ { y _ { 0 } } ( y )$ ； and then，substitute them separately into inverse function $A _ { z _ { 0 } } ( z ) ^ { - 1 }$ of $A _ { z _ { 0 } } ( z )$ and get two pairs of candidate $z$ -values，then taking $f ( x ^ { * } , \ y _ { 0 } )$ and $f ( x _ { 0 } , \ y ^ { * } )$ as reference, choose $z _ { x }$ and $z _ { y }$ from respective candidate values, respectively (as shown in Figure 3-5).
+
+![](images/868669b7f88d757eba0bd96348615a69ce1ae3204069e2be26586e6413d07206.jpg)  
+Figure 3-4 Utilizing the value of the function at point $( x ^ { * } , y ^ { * } )$ to determine the approximate value of $f ( x ^ { \prime } , y ^ { \prime } )$ （20
+
+![](images/a1ec0a1e594b3d42a6d037905d68882c2eb40d8d5b22c341ebdea0fc512a1921.jpg)  
+Figure 3-5 Utilizing the values of the function at points $( x ^ { * } , \ y _ { 0 } )$ and $( x _ { 0 } , \ y ^ { * } )$ to determine the approximate values of $f ( x ^ { \prime } , y _ { 0 } )$ and $f ( x _ { 0 } , y ^ { \prime } )$ ,respectively
+
+Having got the approximate values $z _ { x }$ and $z _ { y }$ , how can we further obtain the approximate value $z$ we need? Can $z _ { x }$ and $z _ { y }$ be synthesized into one $z ?$ For example, take the average value or weighted sum of $z _ { x }$ and $z _ { y }$ as $z$ .But numerical experiments show that although the average value or weighted sum can be taken as the synthesis value, but the effect is generally not very ideal. However, fortunately, on the basis of the average value,by analyzing further, we have found a better way to synthesize $z _ { x }$ and $z _ { y }$
+
+Let $z _ { 1 } { = } ( z _ { x } { + } z _ { y } ) / 2$ be the average of $z _ { x }$ and $z _ { y }$ . It can be seen from Figure 3-6 that $z _ { 1 }$ can actually be viewed as an approximate value of $f ( x , y )$ at midpoint (denoted by $( x _ { 1 }$ $y _ { 1 } ) _ { \mathstrut }$ ）between $( x ^ { \prime } , y _ { 0 } )$ and $( x _ { 0 } , \ y ^ { \prime } )$ We can see from the figure that $z _ { 1 } { < } z _ { 0 }$ ，i.e.，the varying trend of function values from $z _ { 0 }$ to $z _ { 1 }$ is decreasing. Set $z _ { 0 } - z _ { 1 } { = } c _ { 1 }$ （ $\stackrel { \cdot } { c } _ { 1 }$ is the
+
+![](images/c7cfe33eb059158745934819a453e3de42a2f2157a23a4923fd65385a5ad2569.jpg)  
+Figure 3-6 Illustration 1 of synthesizing $z _ { \mathrm { x } }$ and $z _ { \mathrm { y } }$ into $z$
+
+length of segment $B C$ in Figure 3-7(a)), then $z _ { 1 } { = } z _ { 0 } { - } \mathbf { c } _ { 1 }$ . Then, according to the varying trend of function values from $z _ { 0 }$ to $z _ { 1 }$ (i.e., the slope of segment $A B$ in Figure 3-7(a)), also, taking into account that point $( x _ { 1 } , y _ { 1 } )$ is just the midpoint of segment joining points $( x ^ { \prime } , y ^ { \prime } )$ and $( x _ { 0 } , y _ { 0 } )$ ， that is, $\| ( x ^ { \prime } , y ^ { \prime } ) - ( x _ { 0 } , y _ { 0 } ) \| { = } 2 { \bullet } \| ( x _ { 1 } , y _ { 1 } ) - ( x _ { 0 } , y _ { 0 } ) \|$ ， so we infer that the approximate value of function at point $( x ^ { \prime } , y ^ { \prime } )$ can be $z _ { 0 } { - } 2 c _ { 1 }$ (as shown in Figure 3-7(a)). Thus, it follows that
+
+$$
+z = z _ { 0 } - 2 c _ { 1 } = z _ { 0 } - 2 ( z _ { 0 } - z _ { 1 } ) = z _ { 0 } - 2 [ z _ { 0 } - ( z _ { x } + z _ { y } ) / 2 ] = z _ { x } + z _ { y } - z _ { 0 }
+$$
+
+Of course, $z _ { 1 }$ may also be greater than $z _ { 0 }$ or equal to $z _ { 0 }$ .If $z _ { 1 } > z _ { 0 }$ ,then the varying trend of function values from $z _ { 0 }$ to $z _ { 1 }$ is increasing (as shown in Figure 3-7(b)). Set $z _ { 0 } - z _ { 1 } = c _ { 2 }$ 0 $\stackrel { \cdot } { c } _ { 2 }$ is the length of segment $B C$ in Figure 3-7(b)), then $z _ { 1 } { = } z _ { 0 } { - } c _ { 2 }$ . Then, according to the varying trend of function values from $z _ { 0 }$ to $z _ { 1 }$ (i.e., the slope of segment $A B$ in Figure 3-7(b)),we infer that the value of function at point $( x ^ { \prime } , y ^ { \prime } )$ can be $z _ { 0 } { - } 2 c _ { 2 }$ . Thus,
+
+$$
+z = z _ { 0 } + 2 c _ { 2 } = z _ { 0 } + 2 ( z _ { 1 } - z _ { 0 } ) = z _ { 0 } + 2 [ \ ( z _ { x } + z _ { y } ) / 2 - z _ { 0 } ] = z _ { x } + z _ { y } - z _ { 0 }
+$$
+
+![](images/269feeab01dfa44fb31a892573b7c5a3d283d6798e1c07a069cdea0b7ec7b06c.jpg)  
+Figure 3-7 Ilustration 2 of synthesizing $z _ { \mathrm { x } }$ and $z _ { \mathrm { y } }$ into z
+
+The third case: $z _ { 1 } { = } z _ { 0 }$ . This indicates that the values of function remain unchanged from $z _ { 0 }$ （204 to $z _ { 1 }$ . Thus, we can take $z { = } z _ { 0 }$ . And by $z _ { 0 } { = } z _ { 1 } { = } ( z _ { x } { + } z _ { y } ) / 2$ , it follows that $2 z _ { 0 } { = } z _ { x } { + } z _ { y }$ . Thus,
+
+$$
+z { = } 2 z _ { 0 } { - } z _ { 0 } { = } z _ { x } { + } z _ { y } { - } z _ { 0 }
+$$
+
+In summary, we see that, no matter what relationship may be between the average of $z _ { x }$ and $z _ { y }$ and the $z _ { 0 }$ ，or no matter how the value of the function varies from $z _ { 0 }$ to $z _ { 1 }$ ，the approximate value of the function at point $( x ^ { \prime } , y ^ { \prime } )$ can always be taken as
+
+$$
+z { = } z _ { x } { + } z _ { y } - z _ { 0 }
+$$
+
+Synthesizing the above analysis,we obtain a method for finding the approximate value of the function at the point $( x ^ { \prime } , y ^ { \prime } )$ in the condition of that there are adjacent points $( x ^ { * } , y _ { 0 } )$ （20 and $( x _ { 0 } , y ^ { * } )$ of point $( x _ { 0 } , y _ { 0 } )$ . That is, find firstly the approximate values of $f ( x ^ { \prime } , y _ { 0 } )$ and $f ( x _ { 0 } , y ^ { \prime } )$ $z _ { x }$ and $z _ { y }$ ,respectively, by $f ( x _ { 0 } , y _ { 0 } ) { = } z _ { 0 }$ and approximation-degrees $A _ { x _ { 0 } } ( x ^ { ' } )$ and $A _ { y _ { 0 } } ( y )$ and by utilizing $f ( x ^ { * } , y _ { 0 } )$ and $f ( x _ { 0 } , y ^ { * } )$ ，and then synthesize $z _ { x }$ and $z _ { y }$ into a value $z$ by Formula (3-4)as the approximate value of $f ( x ^ { \prime } , y ^ { \prime } )$ ：
+
+Now we see that here we separate actually the approximate evaluation of a function of two variables into the approximate evaluation of two functions of one variable,then, synthesize two obtained approximate values into a value as an approximate value of the original function of two variables.
+
+It is not difficult to see that the idea and method of“first separating then synthesizing” in the approximate evaluation of the functions of two variables above can also be extended to the approximate evaluation of the functions of three variables.That is to say,in the condition of a pair $( ( x _ { 0 } , y _ { 0 } , z _ { 0 } ) , u _ { 0 } )$ of corresponding values offunction of three variables, $u = f ( x , y , z )$ being known and point $( x ^ { \prime } , y ^ { \prime } , z ^ { \prime } )$ being approximate to point $( x _ { 0 } , \ y _ { 0 } , \ z _ { 0 } )$ ，if there is respectively an adjacent point of the point $( x _ { 0 } , \ y _ { 0 } , \ z _ { 0 } )$ on the sides of corresponding coordinates $x ' , y '$ and $z$ 'of point $( x ^ { \prime } , y ^ { \prime } , z ^ { \prime } )$ in the $x$ -direction, $y .$ -direction and $z$ -direction of the point $( x _ { 0 } , y _ { 0 } , z _ { 0 } )$ ，which respectively is $( x ^ { * } , y _ { 0 } , z _ { 0 } )$ ， $( x _ { 0 } , y ^ { * } , z _ { 0 } )$ and $( x _ { 0 } , y _ { 0 } , z ^ { * } )$ (as shown in Figure 3-8),and the corresponding values of function, $f ( x ^ { * } , y _ { 0 } , z _ { 0 } ) , f ( x _ { 0 } , y ^ { * } , z _ { 0 } )$ and $f ( x _ { 0 } , y _ { 0 } , z ^ { * } )$ are known, then we can find firstly the approximate values of $f ( x ^ { , } , y _ { 0 } , z _ { 0 } ) , f ( x _ { 0 } , y ^ { , } , z _ { 0 } )$ and $f ( x _ { 0 } ,$ $y _ { 0 } , \ z ^ { \prime } )$ ， $u _ { x }$ ， $u _ { y }$ and $u _ { z }$ ，respectively， by $f ( x _ { 0 } , \ y _ { 0 } , z _ { 0 } ) { = } u _ { 0 }$ and approximation-degrees $A _ { x _ { 0 } } ( x )$ $A _ { y _ { 0 } } ( y )$ and $A _ { z _ { 0 } } ( z )$ and by utilizing $f ( x ^ { * } , y _ { 0 } , z _ { 0 } )$ ， $f ( x _ { 0 } , \ y ^ { * } , z _ { 0 } )$ and $f ( x _ { 0 } , \ y _ { 0 } , \ z ^ { * } )$ ，and then synthesize the $u _ { x } , u _ { y }$ and $u _ { z }$ into a value $u$ as the approximate value of $f ( x ^ { \prime } , y ^ { \prime } , z ^ { \prime } )$ ：
+
+![](images/f01dacf440e1504fed278272e5299eecbd1c73a894985fcca4dfe998a0bc8b20.jpg)  
+Figure 3-8 Utilizing the values of the function at points $( x ^ { * } , y _ { 0 } , z _ { 0 } ) , ( x _ { 0 } , y ^ { * } , z _ { 0 } )$ and $( x _ { 0 } , y _ { 0 } , z ^ { * } )$ to determine the approximate values of $f ( x ^ { \prime } , y _ { 0 } , z _ { 0 } ) , f ( x _ { 0 } , y ^ { \prime } , z _ { 0 } )$ and $f ( x _ { 0 } , y _ { 0 } , z ^ { \prime } )$ , respectively
+
+From the synthesizing formula of approximate values of the function of two variables, $z = z _ { x } + z _ { y } - z _ { 0 } = z _ { x } + z _ { y } - 1 \bullet z _ { 0 } .$ ，we infer that the synthesizing formula of approximate values of the function of three variables should be
+
+$$
+u { = } u _ { x } { + } u _ { y } { + } u _ { z } { - } 2 u _ { 0 }
+$$
+
+In fact，when $( x ^ { , } , \ y ^ { , } , \ z ^ { , } ) = \ ( x _ { 0 } , \ y _ { 0 } , \ z _ { 0 } ) , \ u _ { x } = u _ { y } = u _ { z } = u _ { 0 } ,$ ，while on the other hand, $u _ { 0 } =$ $u _ { 0 } + u _ { 0 } + u _ { 0 } - 2 u _ { 0 }$ .This indicates that for the especial point $( x _ { 0 } , y _ { 0 } , z _ { 0 } )$ , the Formula (3-5) is correct. This indirectly verifies the rationality of the synthesizing formula (the three-dimensional AD interpolation example in Section 5.2 further confirms that the Formula (3-5) is reasonable).
+
+Based on the above analysis， generally，in the condition of apair $( \pmb { x } _ { 0 } , \ y _ { 0 } )$ （20 （204 $( \pmb { x } _ { 0 } { = } ( x _ { 1 _ { 0 } } , x _ { 2 _ { 0 } } , . . . , x _ { n _ { 0 } } ) )$ of corresponding values of function of $n$ variables, $y { = } f ( \mathbf { x } ) \ ( x { = } ( x _ { 1 } , x _ { 2 } , \ldots ,$ $x _ { n } )$ ）being known and point $\pmb { x } ^ { \prime } { = } ( x _ { 1 } ^ { \prime } , x _ { 2 } ^ { \prime } , \dots , x _ { n } ^ { \prime } )$ being approximate to point $\scriptstyle { \mathbf { { \boldsymbol { x } } } } _ { 0 }$ ,if there is an adjacent point of the point $\scriptstyle { \mathbf { { \mathfrak { x } } } } _ { 0 }$ on the side of corresponding coordinate of point $\mathbf { \boldsymbol { x } } ^ { \prime }$ in the each coordinate direction of point $\scriptstyle { \mathbf { } } _ { \mathbf { } } ( { \mathbf { } } _ { 0 }$ ，that is there exist points $( x _ { 1 } ^ { \ast } , ~ x _ { 2 _ { 0 } } , . . . , x _ { n _ { 0 } } )$ ， $( x _ { 1 _ { 0 } } \mathrm { . }$ $x _ { 2 } ^ { * } , . . . , x _ { n _ { 0 } } ) , . . . ,$ and $( x _ { 1 _ { 0 } } , x _ { 2 _ { 0 } } , . . . , x _ { n } { ^ { * } } )$ ，and the corresponding values of function are known, then we can find firstly the approximate values off(x1'， x2o....,Xno), f(x10, x2’',..,Xno），., and $f ( x _ { 1 _ { 0 } } , x _ { 2 _ { 0 } } , . . . , x _ { n } ^ { \mathrm { ~ \tiny ~ , ~ } } )$ ， $y _ { x _ { 1 } } , y _ { x _ { 2 } } , \ldots , y _ { x _ { n } }$ ， respectively， by $f ( { \pmb x } _ { 0 } ) { = } y _ { 0 }$ and approximation-degrees $A _ { x _ { 0 } } ( x _ { 1 } { ' } ) , \ A _ { x _ { 0 } } ( x _ { 2 } { ' } ) \ , \dots , \ A _ { x _ { 0 } } ( x _ { n } { ' } )$ and by utilizing the values of function at these adjacent points, $f ( { x _ { 1 } } ^ { * } , { x _ { 2 } } _ { 0 } , . . . , { x _ { n } } _ { 0 } )$ $f ( x _ { 1 _ { 0 } } , x _ { 2 } { * } , . . . , x _ { n _ { 0 } } ) , . . . , f ( x _ { 1 _ { 0 } } , x _ { 2 _ { 0 } } , . . . , x _ { n } { * } )$ ，and then synthesize the $y _ { x _ { 1 } } , y _ { x _ { 2 } } , \ldots , y _ { x _ { n } }$ into a value $y$ as the approximate value of $f ( { \pmb x } ^ { \prime } )$ ，and the formula of synthesizing these approximate values is
+
+$$
+y { = } \sum _ { i = 1 } ^ { n } y _ { _ { X _ { i } } } - ( n { - } 1 ) y _ { _ { 0 } }
+$$
+
+In this way, we obtain an effective approach and method to find approximate values of multivariate functions.
+
+For convenience of narration，we may as well refer to the formula (3-6） as the Sum-Times-Difference formula.
+
+# 4Interpolation Based on Approximation-Degree
+
+Let $\scriptstyle y = f ( x )$ be a function (relation) from $[ a , b ]$ to $[ c , d ]$ ,and $\{ ( x _ { i } , y _ { i } ) \} _ { i = 1 } ^ { n }$ be a set of pairs of corresponding values of function $\scriptstyle y = f ( x )$ . Require to construct an interpolating function $g ( x )$ in the case that the expression of function $f ( x )$ is unknown or not used, such that $g ( x _ { \mathrm { i } } ) { = } f ( x _ { \mathrm { i } } )$ $( i { = } 1$ ， ${ 2 , \ldots , n } )$ ,and for other $\boldsymbol { x } { \in } [ a , b ] , g ( x ) { \approx } f ( x )$ . This is the usual interpolation problem.
+
+The readers may have noticed that the method finding functional approximate value based on approximation-degree above can also be used for interpolation. Below we discuss specifically this problem.
+
+Let $\scriptstyle a = x _ { 1 } < x _ { 2 } <$ ，…， $\scriptstyle < x _ { n } = b$ , then $\{ x _ { i } \} _ { i = 1 } ^ { n }$ is a set of interpolation base points (or nodes). We definite the approximation domain of $x _ { 1 }$ is $[ x _ { 1 } , x _ { 2 } ]$ , the approximation domains of $x _ { i }$ are $[ x _ { i - 1 } , x _ { i + 1 } ] \ ( i { = } 2 , 3 , \ldots , n { - } 1 )$ ， and the approximation domain of $x _ { n }$ is $[ x _ { n - 1 } , x _ { n } ]$ , and definite the approximation-degree function of base point $x _ { 1 }$ is
+
+$$
+\scriptstyle A _ { x _ { 1 } } ( x ) = { \frac { x - x _ { 2 } } { x _ { 1 } - x _ { 2 } } } , \quad x \in [ x _ { 1 } , \ x _ { 2 } ]
+$$
+
+The approximation-degree functions of $x _ { i }$ is
+
+$$
+A _ { x _ { i } } ( x ) = \left\{ \begin{array} { l l } { \frac { x - x _ { i - 1 } } { x _ { i } - x _ { i - 1 } } , } & { x \in [ x _ { i - 1 } , x _ { i } ] } \\ { \quad } \\ { \quad } \\ { \frac { x - x _ { i + 1 } } { x _ { i } - x _ { i + 1 } } , } & { x \in [ x _ { i } , \ x _ { i + 1 } ] } \end{array} \right.
+$$
+
+And the approximation-degree function of $x _ { n }$ is
+
+$$
+\scriptstyle A _ { x _ { n } } ( x ) = { \frac { x - x _ { n - 1 } } { x _ { n } - x _ { n - 1 } } } , \quad x \in [ x _ { n - 1 } , x _ { n } ]
+$$
+
+The graphs of these functions are shown in Figure 4-1.
+
+![](images/5208a4cbce7e1d638e91799fcc283179408780daf4999ae184e0062547bacb9b.jpg)  
+Figure 4-1 Graphs of the approximation-degree functions of numbers $x _ { 1 }$ $, x _ { 1 } , . . . , x _ { n }$
+
+# Notes:
+
+· Here, the approximation domain of a number $x _ { i }$ is determined not only by $x _ { i }$ as before, but by two neighbors of $x _ { i } , x _ { i - 1 }$ and $x _ { i + 1 }$ .Therefore, two approximation radii $r l { = } x _ { i } - x _ { i - 1 }$ and $r r =$ $x _ { i + 1 } - x _ { i }$ of the number $x _ { i }$ defined by Equation (4-2) are not necessarily equal.For the sake of distinction，we call the approximation domain determined by a number alone to be the absolute approximation domain of the number, and the approximation domain determined by its two neighbors to be the relative approximation domain of the number.In the absence of a special statement， the subsequent approximation domains refer to the relative approximation domains.
+
+· When $\scriptstyle x \in [ x _ { i - 1 } , { \frac { x _ { i - 1 } + x _ { i } } { 2 } } )$ ， $A _ { x _ { i } } ( x ) { < } 0 . 5$ and $A _ { x _ { i - 1 } } ( x ) { > } 0 . 5$ , this shows that $x$ is closer to $x _ { i - 1 }$ ； similarly， when $x { \in } ( \frac { x _ { i } { + } x _ { i + 1 } } { 2 } , x _ { i + 1 } ] , \ A _ { x _ { i } } ( x ) { < } 0 . 5$ and $A _ { x _ { i + 1 } } ( x ) { > } 0 . 5$ , this shows that $x$ s closer to0 $x _ { i + 1 }$ ; and only when $\textstyle x \in [ { \frac { x _ { i } + x _ { i - 1 } } { 2 } } , { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ]$ ， $A _ { x _ { i } } ( x ) { \geq } 0 . 5$ If we make an appointment: a point $x$ is practically approximate to the base point $x _ { i }$ ,if and only if its approximation-degree $A _ { x _ { i } } ( x ) { \geq } 0 . 5$ , then interval $\textstyle [ { \frac { x _ { i } + x _ { i - 1 } } { 2 } } , { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ]$ is hpracticaldominof apoximatiodeee function $A _ { x _ { i } } ( x )$ , and that is also, the practical approximation domain of $x _ { i }$ (while interval $[ x _ { i - 1 } , x _ { i + 1 } ]$ is the conceptual domain of $A _ { x _ { i } } ( x )$ and conceptual approximation domain of $x _ { i } ,$ . And then, in the sense of practical approximation, we have the following conclusion.
+
+Proposition 4-1 A point $x$ ispractically approximate to the base point $x _ { i }$ (i.e. $A _ { x _ { i } } ( x ) { \geq } 0 . 5 )$ , if and only if $x$ lies in the practical aproximation domain $( [ \frac { \mathrm { x _ { i } } + \mathrm { x _ { i - 1 } } } { 2 } , \frac { \mathrm { x _ { i } } + \mathrm { x _ { i + 1 } } } { 2 } ] )$ of the $x _ { i }$
+
+We then define the approximation-degree functions of $y _ { i } ( i { = } 1 , 2 , \ldots , n )$ in the same principle and way.
+
+First, we point out that $y _ { 1 } , y _ { 2 } \ , \ldots \ , y _ { \mathrm { n } }$ corresponding to $x _ { 1 } , x _ { 2 } \ , \ldots \ , \ x _ { \mathrm { n } }$ in order do not necessarily satisfy $y _ { 1 } < y _ { 2 } < \mathrm { ~ , ~ . . . ~ , ~ } { < y _ { \mathrm { n } } }$ 、In fact,the size relationship between $y _ { \mathrm { i } }$ and $y _ { \mathrm { i - 1 } }$ in the sample data may be $y _ { \mathrm { i } } { < } y _ { \mathrm { i - 1 } , } y _ { \mathrm { i } } { = } y _ { \mathrm { i - 1 } }$ or $y _ { \mathrm { i } } > y _ { \mathrm { i - 1 } }$ ； the size relationship between $y _ { \mathrm { i } }$ and $y _ { \mathrm { i + 1 } }$ in the sample data may be $y _ { \mathrm { i } } { < } y _ { \mathrm { i + 1 , } } y _ { \mathrm { i } } { = } y _ { \mathrm { i + 1 } }$ 0r $y _ { \mathrm { i } } > y _ { \mathrm { i + 1 } }$ . We also noticed that when $x$ lies between $x _ { i - 1 }$ （20 and $x _ { i }$ , the corresponding $y$ lies certainly between $y _ { i - 1 }$ and $y _ { i }$ ; and when $x$ lies between $x _ { i }$ （204号 and $x _ { i + 1 }$ ，the corresponding $y$ lies certainly between $y _ { \mathrm { i } }$ and $y _ { \mathrm { i + l } }$ . Thus，we only need to consider separately four (semi) approximation-degree functions of number $y _ { i }$ in the four cases of $y _ { \mathrm { i - 1 } } < y _ { \mathrm { i } } , y _ { \mathrm { i } } < y _ { \mathrm { i - 1 } , } y _ { \mathrm { i } } < y _ { \mathrm { i + 1 } }$ ,and $y _ { \mathrm { i + l } } < y _ { \mathrm { i } }$
+
+(1） Suppose $y _ { \mathrm { i - 1 } } < y _ { \mathrm { i } }$ . We define the first sub expression of the approximation-degree function of $y _ { i }$ in this case to be
+
+$$
+\begin{array} { r } { A _ { y _ { i } } ( y ) = \frac { y - y _ { i - 1 } } { y _ { i } - y _ { i - 1 } } = \frac { 1 } { y _ { i } - y _ { i - 1 } } y - \frac { y _ { i - 1 } } { y _ { i } - y _ { i - 1 } } , \quad y \in [ y _ { i - 1 } , \ y _ { i } ] } \end{array}
+$$
+
+Its graph is shown in Figure 4-2(a).
+
+(2) Suppose $y _ { \mathrm { i } } { < } y _ { \mathrm { i - } 1 }$ . We define the second sub expression of the approximation-degree function of $y _ { i }$ in this case to be
+
+$$
+\begin{array} { r } { A _ { y _ { i } } ( y ) = \frac { y _ { i - 1 } - y } { y _ { i - 1 } - y _ { i } } = \frac { 1 } { y _ { i } - y _ { i - 1 } } y - \frac { y _ { i - 1 } } { y _ { i } - y _ { i - 1 } } , \quad y \in [ y _ { i } , \ y _ { i - 1 } ] } \end{array}
+$$
+
+Its graph is shown in Figure 4-2(b).
+
+(3) Suppose $y _ { \mathrm { i } } { < } y _ { \mathrm { i + 1 } }$ . We define the second sub expression of the approximation-degree function of $y _ { i }$ in this case to be
+
+$$
+\begin{array} { r } { A _ { y _ { i } } ( y ) = \frac { y _ { i + 1 } - y } { y _ { i + 1 } - y _ { i } } = \frac { 1 } { y _ { i } - y _ { i + 1 } } y - \frac { y _ { i + 1 } } { y _ { i } - y _ { i + 1 } } , \quad y \in [ y _ { i } , \ y _ { i + 1 } ] } \end{array}
+$$
+
+Its graph is shown in Figure 4-2(c).
+
+(4） Suppose $y _ { \mathrm { i + 1 } } < y _ { \mathrm { i } }$ . We define the first sub expression of the approximation-degree function of $y _ { i }$ in this case to be
+
+$$
+\begin{array} { r } { A _ { y _ { i } } ( y ) = \frac { y - y _ { i + 1 } } { y _ { i } - y _ { i + 1 } } = \frac { 1 } { y _ { i } - y _ { i + 1 } } y - \frac { y _ { i + 1 } } { y _ { i } - y _ { i + 1 } } , \quad y \in [ y _ { i + 1 } , \ y _ { i } ] } \end{array}
+$$
+
+Its graph is shown in Figure 4-2(d).
+
+![](images/2b0e4128ccc3d2d586bbeb9a4b8ed7ec5313dd221261a2ed5d5d6c06fb949e25.jpg)  
+Figure 4-2Approximation-degree functions of number $y _ { i }$ under different conditions
+
+Obviously, in the four expressions above, $( 4 - 4 ) = ( 4 - 5 )$ and $( 4 - 6 ) = ( 4 - 7 )$ . That is to say, no matter $y _ { \mathrm { i - 1 } } < y _ { \mathrm { i } }$ or $y _ { \mathrm { i } } { < } y _ { \mathrm { i - 1 } }$ ，when $y$ liesbetween $y _ { \mathrm { i - 1 } }$ and $y _ { \mathrm { i } } ,$ theexpressionof approximation-degree function of $y _ { i }$ is always
+
+$$
+\begin{array} { r } { A _ { y _ { i } } ( y ) = \frac { y - y _ { i - 1 } } { y _ { i } - y _ { i - 1 } } = \frac { 1 } { y _ { i } - y _ { i - 1 } } y - \frac { \mathrm { y } _ { i - 1 } } { y _ { i } - y _ { i - 1 } } } \end{array}
+$$
+
+and no matter $y _ { \mathrm { i + l } } < y _ { \mathrm { i } }$ or $y _ { \mathrm { i } } { < } y _ { \mathrm { i + 1 } }$ ，when $y$ lies between $y _ { \mathrm { i } }$ and $y _ { \mathrm { i + l } }$ ，the expression of approximation-degree function of $y _ { i }$ is always
+
+$$
+\begin{array} { r } { A _ { y _ { i } } ( y ) = \frac { y - y _ { i + 1 } } { y _ { i } - y _ { i + 1 } } = \frac { 1 } { y _ { i } - y _ { i + 1 } } y - \frac { \mathrm { y } _ { i + 1 } } { y _ { i } - y _ { i + 1 } } } \end{array}
+$$
+
+Thus, the above 4 functional expressions can be reduced as two expressions.
+
+Further, it can be seen that the coefficients of the first degree terms, $\frac { 1 } { y _ { i } - y _ { i - 1 } }$ and $\frac { 1 } { y _ { i } - y _ { i + 1 } }$ （204号 （20 P   
+in these two expressions are just the slopes of the corresponding straight lines. So they being   
+positive or negative decide the corresponding function to be increasing or decreasing. Thus,   
+function $\scriptstyle y = f ( x )$ being incrementedordecrementedonthesubinterval $[ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ]$ and
+
+xi+xi+1] are respectively determined by the signs of diferences yi-yi-1and yi-Vi+1· This means that the numerical calculation takes the place of the logical judgment for the trend of function $f ( x )$ on the subintervals $[ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ]$ and $[ x _ { i } , { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ]$
+
+And then，we get the inverse expressions of these two functional expressions, respectively
+
+and
+
+$$
+\begin{array} { l } { { A _ { y _ { i } } ( y ) ^ { - 1 } { = } d _ { y } ( y _ { i } { = } y _ { i - 1 } ) { + } y _ { i - 1 } } } \\ { { \ } } \\ { { A _ { y _ { i } } ( y ) ^ { - 1 } { = } d _ { y } ( y _ { i } { = } y _ { i + 1 } ) { + } y _ { i + 1 } } } \end{array}
+$$
+
+Here $d _ { y } { = } A _ { y _ { i } } ( y ) { \in } [ 0 , 1 ]$ is the approximation-degree of $y$ to $y _ { i }$
+
+Now,we transmit theapproximatio-degreeof $x$ $\textstyle \cdot ( x \in [ { \frac { x _ { i } + x _ { i - 1 } } { 2 } } , { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ] )$ t0 $x _ { i }$ to the corresponding $y$ ,that is, set
+
+$$
+d _ { y } = d _ { x } = A _ { x _ { i } } ( x )
+$$
+
+Alsoonsideringtatoteteal $[ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ]$ ，the iterpolated function $\scriptstyle y = f ( x )$ may being increasing, decreasing, or a constant; while when $\scriptstyle y = f ( x )$ is increasing, certainly $y _ { i - 1 } { < } y _ { i } .$ so the corresponding $y \in [ \frac { y _ { i } + y _ { i - 1 } } { 2 } , \ y _ { i } ]$ ； when $\scriptstyle y = f ( x )$ is decreasing，certainly $y _ { i } { < } y _ { i - 1 }$ , so the corresponding $y \in [ y _ { i } , { \frac { y _ { i } + y _ { i - 1 } } { 2 } } ]$ ； and when $\scriptstyle y = f ( x )$ is a constant, ${ y _ { i } } \mathrm { { = } } { y _ { i - 1 } }$ ， so the corresponding $\scriptstyle y = y _ { i } \in [ { \frac { y _ { i } + y _ { i - 1 } } { 2 } } ,$ （20 $y _ { i } ]$ as well as $y \in [ y _ { i } , { \frac { y _ { i } + y _ { i - 1 } } { 2 } } ]$ . Thus, when $x \in [ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ]$ , th corresponding $y _ { i }$ and $y _ { i - 1 }$ are adjacent, and here $\scriptstyle A _ { x _ { i } } ( x ) = { \frac { \mathrm { x - x _ { i - 1 } } } { \mathrm { x _ { i } - x _ { i - 1 } } } }$ ，thus,theexpresifoig inverse function $A _ { y _ { i } } ( y ) ^ { - 1 }$ in Equation (4-8) becomes
+
+$$
+\begin{array} { r l } & { A _ { y _ { i } } ( y ) ^ { - 1 } = \frac { x - x _ { i - 1 } } { x _ { i } - x _ { i - 1 } } ( y _ { i } - y _ { i - 1 } ) + y _ { i - 1 } } \\ & { \qquad = \frac { y _ { i } - y _ { i - 1 } } { x _ { i } - x _ { i - 1 } } x + \frac { x _ { i } y _ { i - 1 } - x _ { i - 1 } y _ { i } } { x _ { i } - x _ { i - 1 } } } \end{array}
+$$
+
+namely
+
+$$
+\begin{array} { r } { y = \frac { y _ { i } - y _ { i - 1 } } { x _ { i } - x _ { i - 1 } } x + \frac { x _ { i } y _ { i - 1 } - x _ { i - 1 } y _ { i } } { x _ { i } - x _ { i - 1 } } , x \in [ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ] } \end{array}
+$$
+
+Similarly，on the subinterval $\scriptstyle { [ x _ { i } , { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ] }$ ，the function $\scriptstyle y = f ( x )$ may being increasing, decreasing，or a constant; while when $\scriptstyle y = f ( x )$ is increasing，certainly $y _ { i } < y _ { i + 1 }$ ，so the corresponding $y \in [ y _ { i } , \frac { y _ { i } + y _ { i + 1 } } { 2 } ]$ ； when $\scriptstyle y = f ( x )$ is decreasing，certainly $\mathsf { y } _ { \mathrm { i } + 1 } < \mathsf { y } _ { \mathrm { i } }$ ，sothe corresponding $y \in [ \frac { y _ { i } + y _ { i + 1 } } { 2 } , y _ { i } ]$ ； and when $\scriptstyle y = f ( x )$ is a constant, ${ y } _ { i } \mathrm { = } { y } _ { i + 1 }$ ， so the corresponding $y { = } y _ { i } \in [ \frac { y _ { i } { + } y _ { i + 1 } } { 2 } , y _ { i } ]$ as well as $y \in [ y _ { i } , { \frac { y _ { i } + y _ { i + 1 } } { 2 } } ]$ . Thus, when $x \in [ x _ { i } , \ { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ]$ xi+xi+1], the corresponding yi and $y _ { i + 1 }$ are adjacent, and here $A _ { x _ { i } } ( x ) = { \frac { x _ { i + 1 } - x } { x _ { i + 1 } - x _ { i } } }$ ，thus，theexpressionoftecorresponding inverse function $A _ { y _ { i } } ( y ) ^ { - 1 }$ in Equation (4-9) becomes
+
+$$
+\begin{array} { r l } { A _ { y _ { i } } ( y ) ^ { - 1 } = \frac { x _ { i + 1 } - x } { x _ { i + 1 } - x _ { i } } ( y _ { i } - y _ { i + 1 } ) + y _ { i + 1 } } & { } \\ { = \frac { y _ { i } - y _ { i + 1 } } { x _ { i } - x _ { i + 1 } } x + \frac { x _ { i } y _ { i + 1 } - x _ { i + 1 } y _ { i } } { x _ { i } - x _ { i + 1 } } } & { } \end{array}
+$$
+
+namely
+
+$$
+\begin{array} { r } { y = \frac { y _ { i } - y _ { i + 1 } } { x _ { i } - x _ { i + 1 } } x + \frac { \mathrm { x _ { i } y _ { i + 1 } - x _ { i + 1 } y _ { i } } } { \mathrm { x _ { i } - x _ { i + 1 } } } , \quad x \in [ x _ { i } , \ \frac { x _ { i } + x _ { i + 1 } } { 2 } ] } \end{array}
+$$
+
+Thus,withepssn $y \in [ \frac { y _ { i } + y _ { i - 1 } } { 2 } , \ y _ { i } ]$ or $[ y _ { i } , { \frac { y _ { i } + y _ { i - 1 } } { 2 } } ]$ from $x \in [ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ]$ ，andobtaindiretlytecoespoing $y \in [ y _ { i } , { \frac { y _ { i } + y _ { i + 1 } } { 2 } } ]$ or $\textstyle [ { \frac { y _ { i } + y _ { i + 1 } } { 2 } } , y _ { i } ]$ from $x \in [ x _ { i } , \ { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ]$ ,but do notnee togetapoximatio-degreeand to evaluate inverse function.
+
+Actually, Equations (4-1O) and (4-11) are two interpolating formulas. Thus,using these two interpolation formulas,we can solve the interpolation problem mentioned above.In fact, for the evaluated point $x \in [ a , b ]$ ，we only need to seek firstly the approximation domain the point $x$ lies(This is equivalent to seeking nearest base point $x _ { i }$ $( i \in \{ 1 , 2 , . . . , n \} ) _ { \cdot } ^ { \cdot }$ )，then to construct and use the corresponding interpolating formula according to the position of $x$ （204号 relative to $x _ { i }$ to do interpolation.
+
+In this way, we actually derive an interpolation method by the approximate evaluation of functionbasedonapproximation-degree. Wecallthismethodto be the approximation-degree-based interpolation, or AD interpolation for short.
+
+Specifically， the practice of AD interpolation is: take base points (or, nodes） $a =$ $x _ { 1 } , x _ { 2 } , \ldots , x _ { n } { = } b$ as points of view, according to base points and their approximation domains to partition interval $[ a , \ b ] = [ x _ { 1 } , \ x _ { n } ]$ into $2 n { - } 2$ subintervals as shown in Figure 4-3, $[ x _ { 1 } , \frac { x _ { 1 } + x _ { 2 } } { 2 } ]$ $[ \frac { x _ { 1 } + x _ { 2 } } { 2 } , x _ { 2 } ] , [ x _ { 2 } , \frac { x _ { 2 } + x _ { 3 } } { 2 } ] , . . . , [ \frac { x _ { n - 1 } + x _ { n } } { 2 } , \ x _ { n } ]$ ，asteeedt $x { \in } [ \frac { x _ { i } { + } x _ { i - 1 } } { 2 } , \ x _ { i } ]$ do interpolating with Formula (4-10),forevaluatedoint $x \in [ x _ { i } , \ { \frac { x _ { i } + x _ { i + 1 } } { 2 } } ]$ do interpolating with Formula (4-11). Since each specific interpolating formula implies the trend of interpolated function $\scriptstyle y = f ( x )$ on the corresponding subintervals, therefore, there is no much error between the obtained approximate value and the expected value,and there would not occur the case that two $y$ -values are got from an $x$ ，
+
+![](images/7e0d3ab9d9bc247ecef9ab451156fca93ab1d5f55f1066aba45139f0b829b1c6.jpg)  
+Figure 4-3Ilustration of interpolation intervals partitioned by base points and their approximation domains in one-dimensional interpolation
+
+Where the solid lines indicate the boundaries between approximation domains of base points $x _ { i } ,$ and a dotted line further divides an approximation domain into two parts
+
+Example 4.1 Use AD interpolation to do interpolating to functions $y = \sin { x }$ and $\scriptstyle y = \cos \ x $ respectively.
+
+We take sampled-data points of $\scriptstyle y = \sin x$ $( x _ { i } , y _ { i } )$ , as follows:
+
+$x _ { i }$ ： $0 \times \pi$ $0 . 1 \times \pi$ $0 . 2 { \times } \pi$ $0 . 3 { \times } \pi .$ …， $1 . 9 { \times } \pi$ $2 { \times } \pi$ $y _ { i }$ ，， （204号 $\sin ( x _ { i } )$ ：
+
+and take evaluated points $x \colon 0 \times \pi$ $0 . 0 2 \times \pi$ $0 . 0 4 \times \pi$ $0 . 0 6 \times \pi .$ …， $1 . 9 8 \times \pi$ $2 { \times } \pi$
+
+By using our AD interpolation to do interpolating (programmed with MATLAB)，the corresponding $y$ -values obtained are as follows:
+
+<html><body><table><tr><td>0</td><td>0.0624</td><td>0.1249</td><td>0.1873</td><td>0.2497</td><td>0.3118</td><td>0.3681</td><td>0.4245</td><td>0.4808</td></tr><tr><td>0.5371</td><td>0.5923</td><td>0.6369</td><td>0.6816</td><td>0.7263</td><td>0.7710</td><td>0.8133</td><td>0.8420</td><td>0.8707</td></tr><tr><td>0.8994</td><td>0.9281</td><td>0.9530</td><td>0.9629</td><td>0.9728</td><td>0.9827</td><td>0.9926</td><td>0.9975</td><td>0.9876</td></tr><tr><td>0.9778</td><td>0.9679</td><td>0.9580</td><td>0.9424</td><td>0.9138</td><td>0.8851</td><td>0.8564</td><td>0.8277</td><td>0.7934</td></tr><tr><td>0.7487</td><td>0.7040</td><td>0.6593</td><td>0.6146</td><td>0.5653</td><td>0.5089</td><td>0.4526</td><td>0.3963</td><td>0.3400</td></tr><tr><td>0.2809</td><td>0.2185</td><td>0.1561</td><td>0.0936</td><td>0.0312</td><td>-0.0312</td><td>-0.0936</td><td>-0.1561</td><td>-0.2185</td></tr><tr><td>-0.2809</td><td>-0.3400</td><td>-0.3963</td><td>-0.4526</td><td>-0.5089</td><td></td><td>-0.5653</td><td>-0.6146</td><td>-0.6593</td></tr><tr><td>-0.7040</td><td>-0.7487</td><td>-0.7934</td><td>-0.8277</td><td>-0.8564</td><td>-0.8851</td><td>-0.9138</td><td>-0.9424</td><td>-0.9580</td></tr><tr><td>-0.9679</td><td>-0.9778</td><td>-0.9876</td><td>-0.9975</td><td>-0.9926</td><td></td><td>-0.9827</td><td>-0.9728</td><td>-0.9629</td></tr><tr><td>-0.9530</td><td>-0.9281</td><td>-0.8994</td><td>-0.8707</td><td>-0.8420</td><td>-0.8133</td><td>-0.7710</td><td>-0.7263</td><td>-0.6816</td></tr><tr><td>-0.6369</td><td>-0.5923</td><td>-0.5371</td><td>-0.4808</td><td>-0.4245</td><td>-0.3681</td><td>-0.3118</td><td>-0.2497</td><td>-0.1873</td></tr><tr><td>-0.1249</td><td>-0.0624</td><td>0.0000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+The interpolation effect is shown in Figure 4-4(a).
+
+To function $\scriptstyle y = \cos$ $x$ ， we do interpolating with the same method and data， the interpolation effect is shown in Figure 4-4(b).
+
+![](images/31e08381eff8be522ac977e98cebc67496c978e248cb20fddde65743e5321fda.jpg)  
+Figure 4-4 The effect drawings of AD interpolation to functions $\scriptstyle y = \sin x$ and $\scriptstyle y = \cos x$
+
+Where the blue circles, $^ { 6 6 } \mathrm { O } ^ { 3 9 }$ , in the graph indicate the sample data points,and the red crosses, $" + "$ , indicate the points obtained by AD interpolation.
+
+# Accuracyanalysis:
+
+sin $x { \mathrm { : } }$ maximum error O.O121,minimum error O,average error O.0052   
+cos $x$ :maximum error O.O122,minimum error O,average error 0.0052
+
+Actually,it can be seen from the interpolation formulas that one-dimensional AD interpolation is a local linear interpolation. That is to say that this one-dimensional AD interpolation has the effect of “reaching the same goal from different routes” with usual local linear interpolation.
+
+# 5Multidimensional and High-Dimensional Interpolations Based on Approximation-Degree
+
+# 5.1 Two-Dimensional AD Interpolation
+
+Suppose some data points of function of two variables, $z { = } f ( x , \ y ) , \ ( ( x _ { i } , \ y _ { j } ) , \ z _ { i j } ) \ ( i { = } 1 , 2 , . . . , n .$ （20 $j { = } 1 , 2 , . . . , m )$ ，are known，and the base points $( x _ { i } , ~ y _ { j } )$ are regularly distributed, that is,they satisfy $a _ { x } { = } x _ { 1 } { < } x _ { 2 } { < }$ ，…， $< x _ { \mathrm { n } } = b _ { x }$ and $a _ { y } = y _ { 1 } { < } y _ { 2 } { < }$ ，…， $< y _ { \mathrm { { m } } } = b _ { y }$ ，and can also form an $m { \times } n$ （204号 matrix:
+
+$$
+\begin{array} { c } { { ( x _ { 1 } , y _ { 1 } ) , ( x _ { 2 } , y _ { 1 } ) , \ldots , ( x _ { n } , y _ { 1 } ) } } \\ { { ( x _ { 1 } , y _ { 2 } ) , ( x _ { 2 } , y _ { 2 } ) , \ldots , ( x _ { n } , y _ { 2 } ) } } \\ { { \ldots \qquad \ldots \qquad \ldots } } \\ { { ( x _ { 1 } , y _ { m } ) , ( x _ { 2 } , y _ { m } ) , \ldots , ( x _ { n } , y _ { m } ) } } \end{array}
+$$
+
+Correspondingly, they form a Cartesian grid on the $x { - } y$ plane (as shown in Figure 5-1). We consider corresponding interpolation problem.
+
+![](images/f7c2dbe931bf67d5d20d715f63d45759c6774957b1fcfc2e10f5b4fd751fcbf3.jpg)  
+Figure 5-1Ilustration of interpolation regions partitioned by base points and their approximation domains in two-dimensional AD interpolation
+
+Where the regions enclosed by solid lines are the approximation domains of base points $( x _ { i } , y _ { j } )$ ,and the dotted lines further divide an approximation domain into two or four parts
+
+For this kind of two-dimensional interpolation (actually, this kind of interpolation is also usual two-dimensional interpolation),we use firstly the idea and technique similar to AD interpolation in Section 4 above, that is, take base points $( x _ { 1 } , y _ { 1 } ) , \dots , ( x _ { n } , y _ { m } )$ as points of view, according to base points and their approximation domains to partition region $U { = } [ a _ { x } , b _ { x } ] { \times } [ a _ { y } ,$ $b _ { y } ] { = } [ x _ { 1 } , \ x _ { n } ] { \times } [ y _ { 1 } , \ y _ { m } ]$ into $( 2 n { - } 2 ) { \times } ( 2 m { - } 2 )$ sub-regions as shown in Figure 5-1 as interpolation regions; then, for evaluated point $( x , y ) { \in } U$ ，seek the sub-region it lies(This is equivalent to seek the corresponding nearest base point $( x _ { i } , y _ { j } )$ $( i \in \{ 1 , 2 , . . . , n \}$ $j { \in } \{ 1 , 2 , . . . , m \} ,$ and determine the position of $( x , y )$ relative to $( x _ { i } , y _ { j } ) _ { . } ^ { \cdot }$ ), and then to do interpolation.
+
+However, for the interpolation on these two-dimensional sub-regions,we have not derived the corresponding interpolating formulas. Since these base points are regularly distributed,that is,each base point has the adjacent base point(s) in the direction of its coordinates，so we use the technique of “first separating then synthesizing” described in Section 3.2 above to get the interpolated value at point $( x , y )$ . Specifically, first separate interpolating computation of evaluated point $( x , y )$ with corresponding nearest base point $( x _ { i } ,$ $y _ { j } )$ into interpolating computation of $x$ with $x _ { i }$ and interpolating computation of $y$ with $y _ { j } ,$ and geting respectively the corresponding approximate values $z _ { x }$ and $z _ { y }$ ； then synthesize $z _ { x }$ and $z _ { \mathrm { y } }$ into a value $z$ as the interpolated value at point $( x , y )$ ：
+
+Obviously, the two interpolating computations obtained from the separation are already one-dimensional interpolating computations, so previous two interpolating formulas can be used.But，here the corresponding interpolating formulas are with respect to $x$ and $y _ { ; }$ respectively,and which have the total of four formulas separated as two pairs:
+
+$$
+\begin{array} { r }  \left\{ \begin{array} { l l } { z \frac { z _ { i j } ^ { z _ { i } - z _ { i - 1 , j } } } { x _ { i } - x _ { i - 1 } } x + \frac { x _ { i } z _ { i - 1 , j } - x _ { i - 1 } z _ { i j } } { x _ { i } - x _ { i - 1 } } , } & { x { \in [ \frac { x _ { i } + x _ { i - 1 } } { 2 } , ~ x _ { i } ] } } \\ { \vdots } \\ { z \frac { z _ { i j } - z _ { i + 1 , j } } { x _ { i } - x _ { i + 1 } } x + \frac { x _ { i } z _ { i + 1 , j } - x _ { i + 1 } z _ { i j } } { x _ { i } - x _ { i + 1 } } , } & { x { \in [ x _ { i } , \frac { x _ { i } + x _ { i + 1 } } { 2 } ] } } \\ { \vdots } \\ { z \frac { z _ { i j } ^ { z _ { i } - z _ { i , j - 1 } } y + \frac { y _ { j } z _ { i , j - 1 } - y _ { j - 1 } z _ { i j } } { y _ { j } - y _ { j - 1 } } , } & { y { \in [ \frac { y _ { j } + y _ { j - 1 } } { 2 } , ~ y _ { j } ] } } \\ { z \frac { z _ { i j } - z _ { i , j + 1 } } { y _ { j } - y _ { j + 1 } } y + \frac { y _ { j } z _ { i , j + 1 } - y _ { j + 1 } z _ { i j } } { y _ { j } - y _ { j + 1 } } , } & { y { \in [ y _ { j } , \frac { y _ { j } + y _ { j + 1 } } { 2 } ] } } \end{array} \right. } \end{array}
+$$
+
+where ${ z _ { i j } = f ( x _ { i } , y _ { j } ) }$
+
+Of course, for an evaluated point $( x , y ) { \in } U$ ,we need only choose a formula with respect to $x$ and a formula with respect to $y$ . As to which two formulas will be used,it should be determined according to the subintervals that $x$ and $y$ lie respectively. For example,if $x { \in } [ \frac { \mathrm { x _ { i } } { + } \mathrm { x _ { i - 1 } } } { 2 } , ~ x _ { i } ]$ and $y \in [ y _ { j } , \ { \frac { y _ { \mathrm { j } } + y _ { \mathrm { j } + 1 } } { 2 } } ]$ ，theFormulas（5-1）and(5-4）shouldberespectively used.
+
+After getting corresponding $z _ { x }$ and $z _ { y }$ by two formulas used, it is must to synthesize them into a value $z$ .From Formula (3-7) in Section 3.2, here the formula that synthesizes $z _ { x }$ and $z _ { y }$ should be
+
+$$
+z { = } z _ { x } { + } z _ { y } - z _ { i j }
+$$
+
+In this way, we have extended the AD interpolation to two-dimensional interpolation.
+
+From the Formula (5-5） it can be seen that this kind of two-dimensional AD interpolation of “first separating then synthesizing” is different from the usual bilinear interpolation,but its effect is comparable to that of the latter.
+
+Example 5.1 Use AD interpolation to do interpolating to function $z { = } { - } x ^ { 2 } { - } \mathbf { y } ^ { 2 }$
+
+We take sampled-data points of $z { = } { - } x ^ { 2 } { - } \mathbf { y } ^ { 2 }$ $( ( x _ { i } , y _ { j } ) , z _ { i j } )$ , as follows:
+
+Zij-x²-y² and take evaluated points $( x , y )$ as follows:
+
+x: -20,-20,20,-19.5,-17.8,-18,-15.3,-12,-10.2,-10,-10,0,0,10,10,5.6,4.7,-3.4,-1.8, -2.3,-3.6,1.2,-5.4, -15.6, -20,-20,-20,-18.3,18.4,17.5,16.2,14.5,11.1,-5.4,-12.1,-8.5, -13.9, $- 7 . 5 , - 7 . 8 , - 9 . 8 , - 1 2 . 4 , - 1 3 . 5 , - 1 4 . 6 , - 1 7 . 5 , - 1 7 . 8 .$
+
+y: -20,20,-20,-19.5,-17.8,-5,-15.5,2.5,-10.2,10,-20,0,-20,-20,-10,-15.3,-3.8, −13.4,-2.8,-1.9,-5.6,-10.2,-6.5,5.6,0,-10,10,10.4,-18.1,-16.3,-14.4,-12.3,-6.3,-15.8,-8.2, -15.6, 0.9, 1.6, 3.2,4.6, 6.6,2.8,-0.9, 18.6, 13.2.
+
+Doing interpolation by using AD interpolation (programming with MATLAB)， the corresponding $z$ -values obtained are as follows:
+
+-800.0000 -800.0000 -800.0000 -762.0000 -634.4000 -350.0000 -476.0000   
+-151.0000 -208.8000 -200.0000 -500.0000 0 -400.0000 -500.0000   
+-200.0000 -267.0000 -37.8000 -192.8000 -12.4000 -9.6000 -45.6000   
+-106.8000 -73.0000 -276.0000 -400.0000 -500.0000 -500.0000 -444.2000   
+-667.0000 -573.2000 -470.8000 -362.8000 -164.4000 -280.0000 -214.2000   
+-317.0000 -195.2000 -60.2000 -72.4000 -118.4000 -198.8000 -191.8000   
+-215.8000 -653.8000 -492.4000
+
+The interpolation effect is shown in Figure 5-2.
+
+![](images/68abcde177faefec586cbe1c2ff1023d678b7a2cfc940cd9729a971abd50f128.jpg)  
+Figure 5-2 The effect drawing of scattered AD interpolation to function $z { = } { - } x ^ { 2 } { - } \mathbf { y } ^ { 2 }$
+
+Where the grid curve is the graph of function $z { = } { - } x ^ { 2 } { - } \mathbf { y } ^ { 2 }$ ，and the red circles indicate the points obtained by AD interpolation.
+
+# Accuracy analysis:
+
+maximum error 1.83oO,minimum error O,average error 0.9222
+
+Example5.2 UseADinterpolationtodo interpolatingtofunction $z { = } { \frac { 1 } { 4 } } x ^ { 2 } - { \textstyle { \frac { 1 } { 4 } } } y ^ { 2 }$
+
+We take sampled-data points, $( ( x _ { i } , y _ { j } ) , z _ { i j } )$ , as follows: $\begin{array} { r l } { { x _ { i } } ; } & { { } { - 5 , - 4 , - 3 , - 2 , - 1 , 0 , 1 , 2 , 3 , 4 , 5 . } } \\ { { y _ { j } } ; } & { { } { - 5 , - 4 , - 3 , - 2 , - 1 , 0 , 1 , 2 , 3 , 4 , 5 . } } \\ { { z _ { i j } } ; } & { { } { \frac { 1 } { 4 } } { x _ { i } } ^ { 2 } - { \frac { 1 } { 4 } } { y _ { i } } ^ { 2 } . } \end{array}$ （204号
+
+and take evaluated points $( x , y )$ as follows:
+
+x=-5,-4.9,-4.8,-4.7,-4.6,-4.5, ... ,4.5,4.6,4.7,4.8,4.9,5. $y { = } x$
+
+Doing interpolation by using AD interpolation (programming with MATLAB， the corresponding $z$ -values obtained are omitted),the interpolation effect is shown in Figure 5-3.
+
+![](images/b8bf1b221828ba4972f90f9d807ee8cb9e491571c2487631c92dcb735506ee16.jpg)  
+Figure 5-3 The effect drawing of AD interpolation to function $z { = } { \textstyle { \frac { 1 } { 4 } } } x ^ { 2 } - { \textstyle { \frac { 1 } { 4 } } } y ^ { 2 }$
+
+Where the (a） is the functional graph before interpolating，and the (b）is the functional graph after interpolating
+
+# Accuracy analysis:
+
+maximum error O.O625,minimum error O,average error O.0216
+
+Example 5.3 Figure 5-4 below shows also an effect drawing of AD interpolation, the sampled-data (are omitted) are taken from the classic peaks function in MATLAB.
+
+![](images/d1bd7f6731b1cfebf7183c422682ca86fb52f92d9b4afc7d3c40247d2cfc9da2.jpg)  
+Figure 5-4An illustration of the effect of AD interpolation
+
+Where (a) is the functional graph formed by sample data,and (b) is the functional graph obtained by AD interpolation.
+
+# Accuracyanalysis:
+
+maximum error O.3177,minimum error O,average error 0.0224
+
+# 5.2Three-Dimensional AD Interpolation
+
+Suppose some data points of function of three variables, $\boldsymbol { u } \mathrm { = } f ( x , \ y , \ z ) , \ ( ( x _ { i } , \ y _ { j } , \ z _ { k } ) , \ u _ { i j k } ) , \$ （204号 $( i { = } \{ 1 , 2 , . . . , n \}$ ， $j { = } \{ 1 , 2 , . . . . , m \}$ ， $k { = } \{ 1 , 2 , { \ldots } , l \} )$ are known,and the base points $( x _ { i } , ~ y _ { j } , ~ z _ { k } )$ are regularly distributed, that is, they satisfy $a _ { x } { = } x _ { 1 } { < } x _ { 2 } { < }$ ，…， $< x _ { \mathrm { n } } = b _ { x }$ ， $a _ { y } = y _ { 1 } { < } y _ { 2 } { < }$ ，…， ${ < y _ { \mathrm { m } } = } b _ { y }$ and $a _ { z } = z _ { 1 } < z _ { 2 } <$ ，…, $< \boldsymbol { z } _ { l } = \boldsymbol { b } _ { z }$ , and can also form a $m { \times } n { \times } l$ “three-dimensional matrix” (as shown in Figure 5-5),correspondingly, they form a Cartesian grid in the $x { - y { - } z }$ space (as shown in Figure 5-6). We consider the corresponding interpolation problem.
+
+$$
+\begin{array} { r l } & { \qquad | { \begin{array} { l } { A ^ { - 1 - ( - n - 2 ) - ( - n - 2 ) - ( - n - 3 - n - 2 ) } } \\ { \vdots } \\ { ( x _ { 1 } y _ { 1 } ) _ { \perp } y _ { 2 } \rvert , } \end{array} } | } \\ & { \qquad | { \begin{array} { l } { A ^ { - 1 } ( x _ { 1 } y _ { 1 } ) _ { \perp } y _ { 2 } \rvert , } \\ { \vdots } \\ { ( x _ { 1 } y _ { 2 } y _ { 2 } ) _ { \perp } \xi _ { 1 } \rvert , } \end{array} } ( x _ { 2 } y _ { 1 } ) _ { \perp } ( y _ { 2 } ) _ { \perp } \ldots , \ ( x _ { n } y _ { 1 } ) _ { \perp } y _ { 2 } ^ { \prime } } \\ { \vdots } \\ { ( x _ { 1 } y _ { 1 } ) _ { \perp } ( x _ { 1 } y _ { 2 } ) _ { \perp } \xi _ { 1 } \rvert , } \end{array}  \\ & { \qquad | { \begin{array} { l } { A ^ { - 1 } ( x _ { 2 } - \ldots - \ldots - \ldots - \ldots - x _ { n - 2 } - x _ { 2 } ) } \\ { \vdots } \\ { ( x _ { 1 } y _ { 1 } ) _ { \perp } \xi _ { 2 } \rvert , } \end{array} } | } \\ { \vdots } \\ { ( x _ { 2 } - \ldots - \ldots - x _ { n - 2 } - \ldots \ldots - x _ { n - 2 } - \ldots \ldots - x _ { n - 3 } ) } \\ { \vdots } \\ { ( x _ { 1 } y _ { 3 } ) _ { \perp } ( x _ { 2 } y _ { 1 } ) _ { \perp } \ldots } \\ { ( x _ { 1 } y _ { 3 } ) _ { \perp } ( x _ { 2 } y _ { 1 } ) _ { \perp } \ldots } \\ { \vdots } \\ { ( x _ { 1 } y _ { 2 } ) _ { \perp } ( x _ { 3 } y _ { 2 } ) _ { \perp } \ldots } \\ { \vdots } \\ { ( x _ { 1 } y _ { n } z _ { 1 } ) _ { \perp } \ldots } \end{array}  \\ &  \qquad |  \begin{array} { l } { A ^ { - 1 } ( x _ { 1 } y _ { 2 } ) _ { \perp } ( x _ { 2 } y _ { 1 } ) _ { \perp } ( x _ { 2 } y _ { 2 } ) _ { \perp } ( x _ { 3 } y _ { 2 } ) _ { \perp } \ldots } \\ { \vdots } \\ { ( x _ { 1 } y _ { n } z _ { 1 } ) _ { \perp } ( x _ { 2 } y _ { 3 } ) _ { \perp } ( x _ { n } y _ { 3 } ) _ { \perp } \ldots } \\ { \vdots } \\  ( x _ { 1 } y _ { n } z _ { 2 } ) _ 
+$$
+
+Figure5-5A“three-dimensional matrix" formed by known base points, $( x _ { i } , y _ { j } , z _ { k } )$
+
+For the three-dimensional interpolation，we use still the technique similar to the two-dimensional interpolation above. Specifically speaking, it is that take base points $( x _ { 1 } , y _ { 1 } ,$ $z _ { 1 } \big )$ ，…， $( x _ { n } , y _ { m } , z _ { l } )$ as points of view, according to these base points and their approximation domains to partition region $U { = } [ a _ { x } , \ b _ { x } ] { \times } [ a _ { y } , \ b _ { y } ] { \times } [ a _ { z } , \ b _ { z } ]$ into $( 2 n - 2 ) \times ~ ( 2 m - 2 ) \times ~ ( 2 l - 2 )$ sub regions as shown in Figure 5-6 as interpolation regions； then separate the interpolating computation of evaluated point $( x , y , z )$ with corresponding nearest base point $( x _ { i } , ~ y _ { j } , ~ z _ { k } )$ （204 $( i \in \{ 1 , 2 , . . . , n \} , j \in \{ 1 , 2 , . . . , m \} , k \in \{ 1 , 2 , . . . , n \} ,$ into the interpolating computation of $x$ with $x _ { i } ,$ the interpolating computation of $y$ with $y _ { j } ,$ and the interpolating computation of $z$ with $z _ { k }$ ,and get the corresponding approximate values $u _ { x } , u _ { y }$ and $u _ { z }$ ,respectively; finally, synthesize $u _ { x } , u _ { y }$ ,and $u _ { z }$ into a value $u$ as the interpolated value at point $( x , y , z )$ ：
+
+![](images/49f5dc2f0159b5b93d781206ec4ac12e45ffbe52115cc284de3e5f0252fd9114.jpg)  
+Figure 5-6 An illustration of interpolation regions partitioned by base points and their approximation domains in three-dimensional AD interpolation
+
+Where the regions enclosed by solid lines are the approximation domains of base points $( x _ { i } , y _ { j } , z _ { k } )$ and the dotted lines further divide an approximation domain into two, four,or eight parts
+
+There were 4 formulas separated as 2 pairs in the above two-dimensional interpolation, for here three-dimensional interpolation we have 6 formulas separated as 3 pairs:
+
+$$
+\{ \begin{array} { l l } { { u _ { \frac { \partial u _ { j } } { \partial x _ { i } } - \bar { u } _ { i - 1 , j } } ^ { \mu _ { i } ; \mu - \lambda _ { i } ; \mu } } } & { { + { \frac { \partial ^ { 2 } u _ { 1 1 } - \lambda _ { i } ; \mu - \lambda _ { i } ; u _ { j } } { x _ { i } - \lambda _ { i - 1 } } } , \quad x \in [ x _ { \frac { j + 1 } { 2 } } ^ { \nu _ { i + 1 } ; \nu _ { i - 1 } } , ~ x _ { i } ] } } \\ { \vdots } \\ { { u _ { \frac { \partial u _ { j } - \bar { u } _ { i + 1 , j } } { x _ { i } - x _ { i + 1 } } ; k } ^ { \mu _ { i } ; \mu - \bar { u } _ { i + 1 , j } ; \mu } } } & { { + { \frac { \nu _ { i } ; \mu + \lambda _ { i } ; \mu - \bar { u } _ { j + 1 } ; u _ { j } } { x _ { i } - x _ { i + 1 } } } , \quad x \in [ x _ { i } , \frac { x _ { i } + x _ { j + 1 } } { 2 } ] } } \\ { { } } \\ \\  { \{ \begin{array} { l l } { { u _ { \frac { \partial u _ { j } - \bar { u } _ { j } ; \mu - \lambda _ { j } ; \mu } { y _ { j } - y _ { i - 1 } } } y _ { j } + \frac { \nu _ { j } ; \mu - \bar { u } _ { j } ; \mu - \bar { u } _ { j } ; \mu } } { y _ { j } - y _ { i - 1 } } } , } & { { + { \frac { \nu _ { j } ; \mu - \bar { u } _ { j } ; \mu - \bar { u } _ { j } ; \mu } { 2 } } , } } \\ { { u _ { \frac { \partial u _ { j } - \bar { u } _ { j } ; \mu + \lambda _ { j } } { y _ { j } - y _ { i + 1 } } } ^ { \mu _ { i } ; \mu - \bar { u } _ { j } ; \mu + \lambda _ { j } ; \mu + \bar { u } _ { i } ; \mu } } } &  { + { \frac { \nu _ { j } ; \mu - \bar { u } _ { j + 1 } } { 2 } } } \\ { { } } \\   \{ \begin{array} { l l }  { u _ { \frac { \partial u _ { j } - \bar { u } _ { j } ; \mu - 1 } { x _ { i } - x _ { j } } } z + { \frac { x _ { j } ; u _ { j } ; \mu - 1 ; u _ { i } ; \mu } { z _ { k } - x _ { k - 1 } } } & { { z \in [ x _ { i } ^ { \mu _ { k } - \frac { \nu _ { k } + \lambda _ { j } ; \mu - 1 } { 2 } ] } } , \quad z _ { k } \} } } \\ { { } } \\   u _  \frac \end{array} \end{array} \end{array}
+$$
+
+where $u _ { i j k } { = } f ( x _ { i } , y _ { j } , z _ { k } )$
+
+Similar to two-dimensional AD interpolation, here for an evaluated point $( x , y , z ) \in U$ ,we need only choose a formula with respect to $x$ ,a formula with respect to $y$ , and a formula with respect to $z$ .As to which 3 formulas will be used,it should be determined by the subintervals that $x , \ y$ and $z$ lierespectively.For example,if $\begin{array} { r } { x \in [ \frac { x _ { i } + x _ { i - 1 } } { 2 } , \ x _ { i } ] , \ y \in [ y _ { j } , \ \frac { y _ { j } + y _ { j + 1 } } { 2 } } \end{array}$ ，and $z { \in } [ \frac { z _ { k } { + } z _ { k - 1 } } { 2 } , ~ z _ { k } ]$ thenForulas（5-6)(-9)d（-ldspiedy Formula (3-12) in Section 3.2, here the formula that synthesizes $u _ { x } , u _ { y }$ ,and $u _ { z }$ is
+
+$$
+u { = } u _ { x } { + } u _ { y } { + } u _ { z } { - } 2 u _ { \mathrm { i j k } }
+$$
+
+Example 5.4 Use AD interpolation to do interpolating to function of three variables, $u =$ $- x ^ { 2 } - y ^ { 2 } - z ^ { 2 }$
+
+We take sampled-data points, $( ( x _ { i } , y _ { j } , z _ { k } ) , u _ { \mathrm { i j k } } )$ , as follows:
+
+$\begin{array} { r l } { x _ { i } ; } & { { } - 3 , - 2 . 5 , - 2 . 0 , \ldots , - 0 . 5 , 0 , 0 . 5 , \ldots , 2 . 0 , 2 . 5 , 3 . } \end{array}$ yj $- 4 , - 3 . 5 , - 3 . 0 , . . . , - 0 . 5 , 0 , 0 . 5 , . . . , 3 . 0 , 3 . 5 , 4 .$ （204号 $z _ { k } : - 4 , - 3 . 5 , - 3 . 0 , . . . , - 0 . 5 , 0 , 0 . 5 , . . . , 3 . 0 , 3 . 5 , 4 .$ $u _ { \mathrm { i j k } } \colon \quad u = - x _ { i } ^ { 2 } - y _ { j } ^ { 2 } - z _ { k } ^ { 2 }$
+
+and take evaluated points, $( x , y , z )$ as follows:
+
+$$
+\begin{array} { r l } { x ; } & { { } - 3 , - 2 . 7 5 , - 2 . 5 0 , \ldots , - 0 . 7 5 , 0 , 0 . 2 5 , \ldots , 2 . 5 0 , 2 . 7 5 , 3 . } \end{array}
+$$
+
+$$
+- 4 , - 3 . 8 0 , - 3 . 6 0 , \ldots , - 0 . 8 0 , 0 , 0 . 2 0 , \ldots , 3 . 6 0 , 3 . 8 0 ,
+$$
+
+$$
+\begin{array} { r l } { z : } & { { } - 4 , - 3 . 7 5 , - 3 . 5 0 , \ldots , - 0 . 7 5 , 0 , 0 . 2 5 , \ldots , 3 . 5 0 , 3 . 7 5 , 4 . } \end{array}
+$$
+
+Doing AD interpolation (the corresponding $u$ -values obtained are omitted),the interpolation effect (slice chart) is shown in Figure 5-7.
+
+![](images/d0f80f6e6e3b2929685c1653987956b156cb46238ebaf06443fd0e888fe9e201.jpg)  
+Figure 5-7 The effect drawing(slice chart） of AD interpolation to function of threevariables, $u { = } - x ^ { 2 } { - } y ^ { 2 } { - } z ^ { 2 }$ （204号
+
+Where the graph on the left is the graph before interpolating,and the graph on the right is the graph after interpolating
+
+# Accuracy analysis
+
+maximum error O.185O,minimum error O,average error 0.0993
+
+# 5.3 $N$ -Dimensional AD Interpolation
+
+Generalizing the above two-dimensional and three-dimensional AD interpolations,we obtain a general $n$ -dimensional AD interpolation method.
+
+Suppose some data points of function of $n$ variables, $y = \ f ( x _ { 1 } , \ x _ { 2 } , \ldots , \ x _ { \mathrm { n } } ) .$ （2 $( ( x _ { 1 _ { \mathrm { i } } } , x _ { 2 _ { \mathrm { j } } } , \ldots , x _ { n _ { k } } ) , y _ { i j \ldots k } ) ( i \mathrm { = } 1 , 2 , \ldots , r ; j \mathrm { = } 1 , 2 , \ldots , s ; k \mathrm { = } 1 , 2 , \ldots , t ) :$ are known, and the base points $( x _ { 1 _ { i } } , x _ { 2 _ { j } } , \ldots , x _ { n _ { k } } )$ are regularly distributed， then the procedure of $n$ -dimensional AD interpolation is:
+
+（1）Partition the $n$ -dimensional interpolation space $U { = } [ a _ { 1 } , b _ { 1 } ] { \times } [ a _ { 2 } , b _ { 2 } ] { \times } . . . { \times } [ a _ { n } ,$ （20 $b _ { n } ] = [ x _ { 1 _ { 1 } } , x _ { 1 _ { r } } ] { \times } [ x _ { 2 _ { 1 } } , x _ { 2 _ { s } } ] { \times } . . . { \times } [ x _ { n _ { 1 } } , x _ { n _ { t } } ]$ according to the approximation domains of all base points $\begin{array} { r } { \pmb { x } _ { i , j , \dots , k } = ( x _ { 1 _ { i } } , x _ { 2 _ { j } } , \dots , x _ { n _ { k } } ) ( i = 1 , 2 , \dots , r ; j = 1 , 2 , \dots , s ; k = 1 , 2 , \dots , t ) ; } \end{array}$ （20
+
+(2) For evaluated point $\pmb { x } { = } ( x _ { 1 } , x _ { 2 } , \dots , x _ { n } ) { \in } \pmb { U } _ { 1 }$ ，look for the approximation domain it lies   
+(Which is equivalent to seek its nearest base point $\pmb { x } _ { i , j , \dots , k }$ $( i \in \{ 1 , 2 , . . . , r \}$ ， $j { \in } \{ 1 , 2 , . . . , s \}$ ，   
+$k \in \{ 1 , 2 , . . . , t \} ) \mathrm { . }$ ） (3） Separate the $n$ -dimensional interpolating computation of point $\boldsymbol { x }$ with base point   
+（20 $\pmb { x } _ { i , j , \dots , k }$ into $n$ one-dimensional interpolating computations of $x _ { 1 }$ with $x _ { 1 _ { i } } , x _ { 2 }$ with $x _ { 2 _ { j } } , \dotsc$ , and   
+$x _ { n }$ with $x _ { n _ { k } }$ ，and do interpolating computations with the corresponding one-dimensional   
+interpolation formulas,respectively; (4） Synthesize the $n$ got approximate values $y _ { x _ { 1 } } , y _ { x _ { 2 } } , \ldots , y _ { x _ { n } }$ into one value $y$ as the
+
+interpolated value at point $x$
+
+$N _ { \mathbf { \ell } }$ -dimensional AD interpolation has $n$ pairs of interpolating formulas as follows:
+
+$$
+\{ \begin{array} { l l } { \displaystyle { \sum _ { y = \frac { 2 \sqrt { y _ { 4 } - y _ { 4 } - 1 } + y _ { 4 } } { x _ { 1 } + x _ { 1 } } , } ^ { y _ { 4 } - 2 y _ { 4 } - 1 } x _ { 1 } + \frac { x _ { 1 } y _ { 1 } + y _ { 4 } - x _ { 3 } - x _ { 4 } y _ { 1 } - x _ { 4 } } { x _ { 1 } - x _ { 1 } } , x _ { 1 } \geq | \underline { { x _ { 1 } } } _ { 1 } | ^ { - \frac { \kappa _ { 1 } } { 2 } + \underline { { x _ { 1 } } } _ { 1 } , \dots } , x _ { 1 } | ^ { 1 } } }  \\ { \displaystyle { \sum _ { y = \frac { y _ { 4 } - y _ { 2 } - y _ { 4 } + 1 } { x _ { 1 } + x _ { 1 } } , x _ { 1 } = 1 } ^ { y _ { 4 } - 2 y _ { 4 } - 1 } \frac { x _ { 1 } y _ { 1 } - x _ { 1 } x _ { 1 } y _ { 1 } , x _ { 2 } } { x _ { 1 } - x _ { 1 } } , x _ { 1 } \in [ x _ { 1 } , \frac { x _ { 1 } + x _ { 1 } } { 2 } ] } }  \\ { \displaystyle { \sum _ { y = \frac { y _ { 4 } - y _ { 4 } - y _ { 4 } - x _ { 1 } } { x _ { 2 } + x _ { 2 } } , x _ { 2 } = 1 } ^ { y _ { 4 } - 1 } \frac { x _ { 2 } y _ { 1 } - ( x _ { 1 } - x _ { 2 } - x _ { 2 } ) ( y _ { 2 } , x _ { 3 } ) } { x _ { 2 } - x _ { 2 } - x _ { 3 } } , x _ { 2 } \in [ x _ { 2 } , \frac { x _ { 2 } + x _ { 2 } } { 2 } , x _ { 2 } ] } }  \\  \displaystyle { \sum _ { y = \frac { 2 \sqrt { y _ { 4 } - y _ { 4 } - y _ { 4 } + 1 } } { x _ { 2 } + x _ { 2 } + x _ { 4 } } , x _ { 2 } \in \frac { x _ { 2 } y _ { 1 } + ( x _ { 1 } - x _ { 2 } - x _ { 4 } ) y _ { 1 } , x _ { 2 } } { x _ { 2 } - x _ { 2 } - x _ { 2 } } , x _ { 2 } \in [ x _ { 2 } , \frac { x _ { 2 } + x _ { 2 } } { 2 } , x _ { 2 } ] } } \\  \displaystyle  \sum _  y = \frac { y _ { 4 } - x _ { 2 } + x _ { 4 } } { x _ { 3 } - x _ { 4 } + x _ { 1 } } , x _ { 1 } = \frac { x _ { 4 } y _ { 1 } - x _ { 3 } - x _ { 4 } y _ { 1 } - x _ { 2 } y _ { 4 } }  x _ { 1 } - x _ { 2 } + \end{array}
+$$
+
+where $y _ { i j \ldots k } { = } f ( x _ { 1 _ { i } } , \ x _ { 2 _ { j } } , \ldots , \ x _ { n _ { k } } ) .$ （204号
+
+And the synthesizing formula of the final interpolated value is
+
+$$
+y { = } \sum _ { i = 1 } ^ { n } y _ { { x } _ { i } } - ( n { - } 1 ) y _ { i j \ldots k }
+$$
+
+Here $y _ { x _ { i } }$ are the approximate values that got by one-dimensional AD interpolation computations of $x _ { i }$ $( i { = } 1 , 2 , . . . , n )$ ：
+
+The Formula (5-19) is the Sum-Times-Difference formulas in AD interpolation.
+
+It can be seen that in theory the dimensionality $n$ of $n$ -dimensional AD interpolation has no an upper limit. In this way, using the technique of “first separating then synthesizing”and the Sum-Times-Difference formula，we can also realize the high-dimensional or even super-high-dimensional AD interpolations with more than 3 dimensions. In fact, a program for AD interpolation with more than 1O dimensions has been completed by the author,and the dimension can be easily increased (due to the space limit, the relevant content will be introduced in another article).
+
+Actually, if we substitute the interpolation formulas into the Sum-Times-Difference formula, it is not dificult to see that the Sum-Times-Difference formula is actually a linear combination of all coordinate components of point $( x _ { 1 } , x _ { 2 } , \ldots , x _ { n } )$ . For example, we substitute two-desialel $\begin{array} { r } { z = \frac { z _ { i j } - z _ { i - 1 , j } } { x _ { i } - x _ { i - 1 } } x + \frac { x _ { i } z _ { i - 1 , j } - x _ { i - 1 } z _ { i j } } { x _ { i } - x _ { i - 1 } } } \end{array}$ and $\scriptstyle z = { \frac { z _ { i j } - z _ { i , j - 1 } } { y _ { j } - y _ { j - 1 } } } y +$ yzj--y-osgla,itflo that
+
+$$
+\begin{array} { r } { z = \frac { z _ { i j } - z _ { i - 1 , j } } { x _ { i } - x _ { i - 1 } } x + \frac { z _ { i j } - z _ { i , j - 1 } } { y _ { j } - y _ { j - 1 } } y + ( \frac { x _ { i } z _ { i - 1 , j } - x _ { i - 1 } z _ { i j } } { x _ { i } - x _ { i - 1 } } + \frac { y _ { j } z _ { i , j - 1 } - y _ { j - 1 } z _ { i j } } { y _ { j } - y _ { j - 1 } } z _ { i j } ) } \end{array}
+$$
+
+Therefore, Sum-Times-Difference formula can also be said to be the interpolation formula of multidimensional AD interpolation.
+
+Although AD interpolation is also a local linear interpolation, it is derived on the basis of approximate evaluation of functions based on the approximation-degree,so the base points involved in interpolation are related to the position of the evaluated point $\pmb { x } \in \pmb { U }$ relative to its nearest base point $\pmb { x } _ { i , j , \dots , k }$ 、It can be seen that $n$ -dimensional AD interpolation involves a total of $1 { + } n$ base points,and when dimensionality is added by 1,the number of the base point involved will be added by only 1 (see Figures 3-7,3-8 and 5-1, 5-5).Because the point $x$ is only approximate to the base point $\pmb { x } _ { i , j , \dots , k }$ ，so the $n$ approximate values, $y _ { x _ { 1 } }$ ， $y _ { x _ { 2 } } , \ldots , y _ { x _ { n } }$ ， obtained from one-dimensional interpolating computations got from separating are most affected by base point $\pmb { x } _ { i , j , \dots , k } .$ ， and final interpolated value $y$ is also most affected by $\pmb { x } _ { i , j , \dots , k }$ In other words, AD interpolation is dominated by the nearest base point $\pmb { x } _ { i , j , \dots , k }$ of evaluated point $x$ ：
+
+# 6 Accuracy and Efficiency about AD Interpolation
+
+# 6.1 The Accuracy
+
+Itcanbeseenfromtheone-dimensional interpolationformulasandthe Sum-Times-Difference formula of multi-dimensional interpolation that AD interpolation is essentially a piecewise (block） linear interpolation. Therefore， the accuracy of AD interpolation should be on the level of linear interpolation.In fact, the data experiments show that: the accuracy of 1,2,3-D AD interpolations are about the same as the traditional linear interpolation, especially for the quadratic functions (such as previous examples 1,2, 3), the accuracy of the two is exactly the same.In addition, we find that to the interpolated function $y = f ( x _ { 1 } , \ x _ { 2 } , \ \ldots \ , \ x _ { \mathrm { n } } )$ which is monotonous on each interpolation subinterval, in theory, the maximum error of AD interpolation is
+
+$$
+E = \big | f \big ( \frac { x _ { 1 _ { i } } + x _ { 1 _ { i + 1 } } } { 2 } , \frac { x _ { 2 _ { i } } + x _ { 2 _ { i + 1 } } } { 2 } , \dots , \frac { x _ { n _ { i } } + x _ { n _ { i + 1 } } } { 2 } \big ) \ - \ \hat { f } \big ( \frac { x _ { 1 _ { i } } + x _ { 1 _ { i + 1 } } } { 2 } , \frac { x _ { 2 _ { i } } + x _ { 2 _ { i + 1 } } } { 2 } , \dots , \frac { x _ { n _ { i } } + x _ { n _ { i + 1 } } } { 2 } \big ) \ \big |
+$$
+
+Here, $f ( { \pmb x } )$ and $\hat { f } ( { \pmb x } )$ are respectively the interpolated value and desired value at point $\pmb { x } \mathrm { = } ( x _ { 1 } , x _ { 2 } , \dots , x _ { n } )$
+
+Actually,from the principle of AD interpolation, it is not difficult to see that the accuracy of AD interpolation is related to two factors: one is the size of the approximation domain of correlative base point and the other is the approximation-degree of the evaluated point $\boldsymbol { x }$ to the corresponding nearest base point. Obviously， the narrower the approximation domain (including the relative approximation domain and the absolute approximation domain) is, the higher the interpolation accuracy is; And when an approximation domain has be determined, the higher the approximation-degree of the point $\boldsymbol { x }$ to the corresponding base point is,the higher the accuracy of the corresponding interpolated value is.
+
+Thus,for the regularly distributed base points,as long as there are enough data points, that is,enough samples,the required any accuracy can be achieved by using AD interpolation.
+
+# 6.2 The Efficiency
+
+Viewed from the principle,the difference between AD interpolation and traditional linear interpolation is mainly in multidimensional interpolations.In fact, in multidimensional AD interpolation，by using a technique of "first separating and then synthesizing"，an $n$ -dimensional AD interpolation computation is separated into $n$ one-dimensional AD interpolation computations to be done respectively; then the got results are synthesized into a value by Sum-Times-Difference formula as the result value of the $n$ -dimensional interpolation. In this way, one-time $n$ -dimensional AD interpolation computation becomes into $n$ -times one-dimensional AD interpolation computations and one-time synthesizing computation. From the Sum-Times-Difference formula,all of multidimensional AD interpolations have only two layers of computation: one-dimensional AD interpolation computations and synthesizing computation (as shown in Figure 6-1 (a)),and when dimensionality is added by 1,only one-time one-dimensional AD interpolation computation and one-time addition operation are added in the corresponding AD interpolation (as shown in Figure 6-1 (b)). That is to say, the two-layer computing structure of AD interpolation is always unchanged, but the number of terms of computation in lower layer will increase with the increase of data dimension. In this way, the times of the formula (including interpolation formulas and Sum-Times-Difference formula) computation in $n ( n { > } 1 )$ -dimensional AD interpolation is $^ { n + 1 }$ Starting from the two dimensions,the times of formula computation in the AD interpolation are in order: 3, 4,5,...,i.e.,a sequence of equal difference numbers with a difference of 1, and the general term is: $n { + } 1$ .We denote the times of the formula computation in $n ( n { > } 1 )$ -dimensional AD interpolation as $N _ { n }$ ,and the recurrence formula is: $N _ { n + 1 } { = } N _ { n } { + } 1$ . From this we see that the computation load of multidimensional AD interpolation is much smaller than that of traditional multidimensional linear interpolation.
+
+![](images/726d3447cdaa540dc824dea7db1ede5a186b58de4f105ed359b35332dbe8595c.jpg)  
+Figure 6-1The hierarchical structure offormula computation in multidimensional AD interpolation
+
+Where $\mathrm { I } _ { { x } _ { i } }$ denote the one-dimensional AD interpolating computations of variable $x _ { i }$ $\mathfrak { c } _ { i } ( i { = } 1 . 2 . . . . . . n . n { + } 1 ^ { \setminus }$
+
+In addition, since $n$ one-dimensional AD interpolation computations got from separation are independent of each other, so the parallel computation can be used.Thus,the efficiency of $n$ -dimensional AD interpolation is almost equal to that of one-dimensional AD interpolation
+
+From the above mentioned, we can see that the high efficiency of AD interpolation is obvious,and the higher the dimension is, the higher the efficiency is.
+
+# 7 Summary and Prospect
+
+Inspired by the approximate evaluation method of flexible linguistic functions in reference [1], in this paper we introduce the measure of approximate-degree and the concept of approximate-degree function between numerical values,and according to "approximation axiom" and by computing approximation-degree， transferring approximation-degree, evaluating inverse function,and choosing approximate value,we realize the approximate evaluation of a numerical function; Especially, for multivariate functions,in the sense of "strict approximation",we use the technique of “first separating then synthesizing” and find and present a formula of "Sum-Times-Difference",and achieve corresponding approximate evaluation more skillfully. On this basis,we further derive a set of interpolation formulas for regularly distributed base points, thus an interpolation method based on approximation-degree, approximation-degree-based interpolation,i.e.,AD interpolation, has be developed; and then, we extend one-dimensional AD interpolation to high-dimensional interpolation.As a test of AD interpolation method，we apply AD interpolation to the actual functions and obtain satisfactory results: the one-dimensional AD interpolation has the effect of "reaching the same goal from different routes”with usual piecewise linear interpolation, the two-dimensional and three-dimensional AD interpolations are comparable to the usual bilinear and trilinear interpolations; and then, the high-dimensional AD interpolations with more than 3 dimensions also have passed the data test.
+
+Actually,AD interpolation is also a kind of linear interpolation in essence, its accuracy is about the same as that of traditional (piecewise) linear interpolation,but its principle is different from that of the later. One-dimensional AD interpolation is done directly by using corresponding interpolation formulas； $n ( n { > } 1 )$ -dimensional AD interpolation isfirstly separated into $n$ one-dimensional AD interpolation computations which can be processed in parallel to do respectively,and then the results got are synthesized by Sum-Times-Difference formula into a value as the result value of the $n$ -dimensional interpolation.AD interpolation is dominated by a nearest base point and assisted by adjacent base point(s) of the nearest base point, $n$ -dimensional AD interpolation computation involves $1 { + } n$ base points,which means that when dimensionality is added by 1,only one correlative base point will be added. The $n$ -dimensional AD interpolation has two layers of computation: first, parallel one-dimensional AD interpolation computations,then, synthesizing computation, and when dimensionality is added by 1, only one term of one-dimensional AD interpolation computation and one-time addition operation are added. In this way, compared with the traditional linear interpolation, the computation load of the AD interpolation is much smaller, if the parallel processing is also used,the efficiency of $n$ -dimensional AD interpolation is almost the same as that of the one-dimensional AD interpolation.In addition,the dimensionality of the multi-dimensional AD interpolation is theoretically unlimited (limited only by the associated computational resources).
+
+In a word, AD interpolation has the advantages of novel idea, unique method, simple computation,adjustable accuracy, high eficiency,and unlimited dimension. This opens up a new way for data fitting and function approximation,and especially, it starts a feasible and convenient approach and providesan effective method for high-dimensional and super-high-dimensional interpolations.
+
+This paper expounds the basic principle of AD interpolation. On the basis,we can further carry out the following work:
+
+· Applying AD interpolation to practical high-dimensional and super-high dimensional interpolation problems ·AD interpolation with irregular distributed base points ·AD interpolation for vector-valued functions · AD interpolation with derivative (partial derivative and directional derivative) · Using AD interpolation to realize a function approximator
+
+It can be seen that the approximator using AD interpolation is always interpretable, and won't occur “the dilemma between precision and interpretability"[7] encountered by the function approximator based on fuzzy technology.
+
+· Introducing AD interpolation into machine learning to realize a new instance-based learning method——AD interpolation learning
+
+Actually, for these further topics,the author has done some research and obtained some preliminary results.Due to space constraints,we will discuss them separately.
+
+# References
+
+[1] Shiyou Lian, 2O16.Principles of Imprecise-Information Processng: A New Theoretical and Technological System, Springer Nature.   
+[2] David Kincaid and Ward Cheney, 2OO2. Numerical Analysis: Mathematics of Scientific Computing (Third Edition), Thomson Learning.   
+[3] Tom M.Mitchell,1997.Machine Learning,MecGraw-Hill Companies, Inc.   
+[4] Ethem Alpaydin, 2O14. Introduction to Machine Learning (Third Edition), Massachusets Institute of Technology,MITPress   
+[5] Shiyou Lian，2O16. Correspondence between Flexible Sets,and Flexible Linguistic Functions,in: Shiyou Lian,Principles of Imprecise-Information Processing: A New Theoretical and Technological System, Springer Nature, pp. 2O5-228.   
+[6] Shiyou Lian,2O16.Approximate Evaluation of Flexible Linguistic Functions, in: Shiyou Lian，Principlesof Imprecise-Information Processing:A New Theoretical and Technological System, Springer Nature, pp. 393-417.   
+[7] Jyh-Shing Roger Jang, Chuen-Tsai Sun,Eiji Mizutani, 1997. Neuro-Fuzzy and Soft Computing (Prentice Hall, Upper Saddle River, NJ), pp. 342\~245, 382\~385.

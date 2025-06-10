@@ -1,0 +1,520 @@
+[
+    {
+        "type": "text",
+        "text": "数学启发算法求解单源设施区位及其变种问题",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孔云峰1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 河南大学黄河中下游数字地理技术教育部重点实验室，河南 开封，475000；2 河南大学地理与环境学院，河南开封，475000",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：考虑设施服务区空间连续和设施数量限制，对经典的单源设施区位问题(SSCFLP)进行扩展，形成变种问题：设施服务区空间连续 SSCFLP(CFLSAP)、设施数量限制的 SSCFLP(SSCKFLP)和设施服务区空间连续及数量限制的 SSCFLP(CKFLSAP)。针对 SSCFLP及其变种问题，提出了一个数学启发算法。该算法从一个初始解开始，迭代地对当前解进行超大邻域搜索改进，直到若干次尝试不能该改进当前解为止。超大邻域定义步骤如下：随机选择一个客户，从当前解中选择客户附近 $\\varrho$ 个最邻近设施及其客户，再挑选这些客户的最邻近候选设施。使用所选择候选设施子集和客户子集，构建子问题数学模型，求解模型，并使用模型解更新当前解。构造2组案例数据测试本文算法，结果表明：数学启发算法能够有效地求解 SSCFLP及其变种问题，求解结果极其接近问题最优解或目标值下界,相对差异为 $0 . 0 1 \\%$ (SSCFLP)、 $0 . 2 2 \\%$ (CFLSAP)、 $0 . 0 0 \\%$ (SSCKFLP)和 $0 . 0 8 \\%$ (CKFLSAP)。另外，SSCFLP或 SSCKFLP增加设施服务区空间连续约束后，目标值增加幅度不大，但最优设施区位可能发生变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：单源设施区位问题；空间连续；数学启发算法；超大规模邻域搜索。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "设施区位问题(FLP)是一大类寻找最优设施位置的问题。该问题广泛应用于学校、医疗、公安、养老、应急、物流等公共或商业设施选址决策。根据应用场景的不同，FLP类型众多：连续空间区位或离散区位、有无设施容量限制、需求是否允许拆分指派、是否考虑设施成本、是否指定设施数量等，规划目标划分为效率目标、公平目标等。根据设施服务与需求是否存在不确定性，又可将FLP划分为确定性FLP 和随机性FLP。其中，单源CFLP 问题(SSCFLP)是需求不允许拆分指派的、有容量约束的、顾及设施成本的离散区位问题，求解难度较高，也是近年关注度最高的区位问题之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "令集合I为潜在设施区位，集合 $J _ { , }$ 为客户区位，设施 $i ( i \\in I )$ 有最大服务容量 $\\cdot _ { s _ { i } }$ 和固定建设成本为fi，客户j $( j \\in J )$ 有服务需求 $d _ { i }$ ，被设施服务的费用为 $c _ { i j }$ 。定义布尔型决策变量yi为是否在区位健设施，布尔型决策变量 $\\cdot { x } _ { i j }$ 为是否指派设施i服务客户 $j$ ，SSCFLP数学模型如下：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbb { M } \\mathrm { i n i m i z e } \\sum _ { i \\in I } f _ { i } + \\sum _ { i \\in I } \\sum _ { j \\in J } c _ { i j } x _ { i j } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sum _ { j \\in J } d _ { j } x _ { i j } \\leq s _ { i } y _ { i } , \\forall i \\in I } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } = \\{ 0 , 1 \\} , \\forall i \\in I\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i j } = \\{ 0 , 1 \\} , \\forall i \\in I , j \\in J\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型中，目标函数(1)最小化设施固定成本和获取服务成本。约束(2)确保每个客户由唯一的设施提供服务；约束(3)要求指派给每个设施的客户需求量不超过其最大服务容量。约束(4)和(5)定义两类布尔型决策变量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "求解 SSCFLP 问题的方法划分为两大类：精确算法和启发式算法(Basu etal.2015;Ulukan & Demircioglu 2015)。精确算法包括：分枝定界(Neebe& Rao 1983; Holmberg etal.1999)、列生成(Diaz & Fernandez 2002)、Cut-and-Solve (Yang et al. 2012; Gadegaard etal.2018)等。启发式算法包括：拉格朗日松弛启发(LH)(Barcelo & Casanova 1984;Klincewicz & Luss 1986; Beasley 1993; Sridharan 1993; Agar & Salhi 1998; Hindi & Pienkosz1999;Cortinhal & Captivo 2003)、禁忌搜索(Filho & Galvaol998;Delmaire et al.1999;Cortinhal& Captivo 2003)、超大规模邻域搜索(VLNS)(Ahuja et al.2004; Tran et al.2017)、分散搜索(Contreras & Diaz 2008)、核搜索(Kernel Search)(Guastaroba& Speranza 2014)、“廊道\"方法(Corridor Method)(Caserta& VoB 2020)、松弛自适应记忆规划(RAMP)(Oliveiraet al.2020)等。因 SSCFLP问题具有极高的计算复杂度，精确算法难以高效求解规模较大的案例；LH算法速度快，但求解质量不能保证；超大规模邻域搜索、核搜索和\"廊道\"方法等元启发式算法在求解质量方面具有竞争力，但计算时间仍然偏长。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在 SSCFLP 应用实践中，也存在需求特定需求，如拟建设施数量约束(Aardal et al.2015;Wang 2017)、要求每个设施服务区空间连续等。例如，某一区域进行义务教育学校布局规划，需要考虑学校建设成本、学校数量要求，在确定学校区位的同时划定其学区。某一城市进行基层卫生服务中心布局规划，遵照国家行业规范，每个中心覆盖一定的空间范围，满足15分钟出行要求，且考虑中心的服务能力。为求解这些问题，有必要扩展 SSCFLP模型，增加这两个约束条件。在分区问题研究中，空间连续约束有三个建模方法：生成树模型、次序模型和流模型(Shirabe 2009;Duque et al.2011)。树模型中约束条件数量庞大，仅适用于小规模案例(结点数量小于50)；次序模型和流模型的约束条件相对较少。针对p-regions 问题，三个模型在3小时内最多能够求解49个空间单元的案例。为SSCFLP扩展空间连续约束，精确方法的求解能力仍是未知数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于以上讨论，本文扩展SSCFLP模型，考虑设施服务区的空间连续性以及设施数量要求，设计一个数学启发算法求解 SSCFLP及其扩展问题，并测试算法的求解性能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 问题定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一个特定的地理区域，包含 $n$ 个空间单元。每一个空间单元 $j$ 具有属性 $d _ { j }$ ，表示空间单元 $j$ 的服务需求数量； $n$ 个单元中有 $m \\left( m { \\underline { { \\leq } } } \\mathbf { n } \\right)$ 个单元适合建设设施，作为候选设施区位，设施 $i$ 服务容量为 $s _ { i }$ ，固定建设成本为 $f _ { i }$ 。单元 $i$ 被设施 $j$ 服务的费用为变量 $c _ { i j }$ （空间单元 $i$ 与 $j$ 之间的单位交通成本与需求量 $d _ { j }$ 的乘积)。令集合 $I$ 表示 $\\mathbf { \\nabla } _ { m }$ 个候选设施单元，集合 $J$ 为 $n$ 个需求单元 $( I \\subseteq J )$ ，则 SSCFLP模型(1)-(5)也适用于该区域内设施选址。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "要求设施服务区空间连续，需要在SSCFLP模型中增加空间连续约束。将地理空间表达为一个网络图，即将空间单元作为结点，相邻空间单元相连接作为网络边，形成一个无向网络图。基于网络图，可采用\"网络流\"概念表达分区空间连续性(Duque etal.2011)。在一个设施服务区内，每个单元产生一个单位的流量，通过网络边流动，最终汇入到区内设施单元。设施单元不产生流量，但汇入最高达 $n { - } K$ 单位的流量( $\\mathbf { \\bar { \\rho } } _ { K } \\mathbf { \\rho } _ { }$ 为设施数量)。产流和汇流单元所构成的区域是一个空间连续的区域。令集合 $N _ { j }$ 表示单元 $j$ 的相邻单元，整型变量 $f _ { i j k }$ 表示设施 $i$ 服务区内单元 $j$ 到单元 $k$ 的流量，则可构建空间连续约束条件：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i j k } \\le n * x _ { i j } , \\forall i \\in I , j \\in J , k \\in N _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i j k } \\le n * x _ { i k } , \\forall i \\in I , j \\in J , k \\in N _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sum _ { k \\in N _ { j } } f _ { i j k } - \\sum _ { k \\in N _ { j } } f _ { i k j } \\ge x _ { i j } , \\forall i \\in I , j \\in J \\backslash i } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { i j k } \\ge 0 , \\forall i \\in I , j \\in J , k \\in N _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "条件(6)和(7)确保属于同一个服务区的两个相邻单元间才可能产生流。对于设施 $i$ 不服务单元 $j ( x _ { i j } = 0 )$ ，则单元 $j$ 在 $i$ 服务区中不会产生流 $f _ { i j k } { = } 0$ ，也不会有汇流 $f _ { i k j } { = } 0$ ；当设施 $i$ 服务单元 $j$ 在 $( x _ { i j } = 1 )$ 时，可能会有进出单元 $j$ 的流。若单元 $j$ 不是汇集单元(设施单元)，约束(8)保证该单元至少产生一个单位的流。约束(6)-(8)将使每一个设施服务区中的产流汇集到设施单元。一个设施服务区内，每个空间单元必需产生流且流向邻域单元，最终汇集到设施单元，这使得一个设施服务区内任意两个单元都是连通的，从而保证了服务区空间连续。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "需要指定设施数量时，增加条件(10)，指定设施数量为 $K$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textstyle \\sum _ { i \\in I } y _ { i } = K\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上约束，有三个SSCFLP扩展模型： $\\textcircled{1}$ 设施服务区空间连续约束的SSCFLP，记为CFLSAP，模型包括式(1)-(9)； $\\textcircled{2}$ 设施数量约束的SSCFLP，记为SSCKFLP，模型包括式(1)-(5)和(10)； $\\textcircled{3}$ 设施服务区空间连续约束和设施数量约束的SSCFLP，记为CKFLSAP，模型包括式(1)-(10)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数学启发算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "局部搜索算法使用邻域搜索用于渐进改进当前解，广泛应用于离散优化问题求解。区位问题中，设施的变动必然会引起需求指派变化，使得邻域搜索较为复杂。因此，区位问题算法设计的一个核心问题是：如何有效地移动设施并更新指派，寻找到可行的、更节约的邻域解。因设施容量约束，涉及较多设施的超大规模邻域搜索才有较高可能性改进当前解。然而，SSCFLP的超大规模邻域结构定义复杂，邻域搜索的计算复杂度也很高，存在指数级数量的客户移动移动和设施移动(Ahuja etal.2004; Tran et al.2017)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文拟采用数学模型求解超大邻域。算法原理如下： $\\textcircled{1}$ 使用LH方法(Holmberg et al.1999)、线性松弛或启发式算法获得问题初始解； $\\textcircled{2}$ 从当前解中随机选择一个超大邻域，获得邻域内需求点、当前设施和候选设施集合； $\\textcircled{3}$ 构造邻域内子问题模型并求解，更新当前解； $\\textcircled{4}$ 重复执行步骤 $\\textcircled{2}$ 和 $\\textcircled{3}$ ，直到若干次尝试不能更新当前解。步骤 $\\textcircled{2}$ 构造一个大邻域，步骤 $\\textcircled{3}$ 用于发现邻域内的最优解。基于这一思路，数学启发算法示意如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参数:连续未更新最好解循环数(mloops)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. $s { = }$ GenerateInitialSolution();   \n2.notImpi ${ \\boldsymbol { \\mathsf { \\Pi } } } { \\boldsymbol { \\mathsf { \\Pi } } } { \\boldsymbol { \\mathsf { \\Pi } } } { \\boldsymbol { \\mathsf { \\Pi } } }$ ：   \n3.While notImpr $\\prec$ mloops:   \n4. Select a large neighborhood $I ^ { * }$ and $J ^ { * }$ from solution s;   \n5. （204号 $s ^ { * } { = }$ SolveSubProblem $( I ^ { * } , J ^ { * } )$   \n6. $s { \\mathrm { ' } } =$ UpdateSolution $( s , s ^ { * } )$ ，   \n7. s\"'=VNDSearch(s')   \n8. Iff(s'\")<f(s): $s { = } s$ \"',notImpr $\\scriptstyle \\cdot = 0$ ：   \n9. else:notImpr $+ { = } 1$ ：，   \n10. Output(s). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上算法中，步骤(1)获得初始解。因很多案例难以获得可行的初始解，本文按以下顺序考虑解的可行性：指派约束、设施数量约束、空间连续约束和设施容量约束。考虑到设施容量约束难以满足，本文算法允许设施容量超限，但在目标函数中对超限量进行惩罚。增加整型决策变量 $\\cdot H _ { i } = \\{ 0 , 1 , 2 \\dots \\} , \\forall i \\in I$ ，表示超出设施 $i$ 服务能力的量，容量约束和目标函数可改为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sum _ { j \\in J } d _ { i } x _ { i j } \\le s _ { i } y _ { i } + H _ { i } , \\forall i \\in I } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { M i n i m i z e ; \\sum _ { i \\in I } f _ { i } + \\sum _ { i \\in I } \\sum _ { j \\in J } c _ { i j } x _ { i j } + \\alpha \\sum _ { i \\in I } H _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过以上模型修改，允许设施容量超限，容易产生初始解。设置设施容量超限惩罚系数$\\alpha$ 足够大，后续算法逐步减小 $H _ { i }$ 值，直到变量值为零，从而使容量约束条件(3)得到满足。这一设施容量软约束也使MIP优化器快速获得可行解，有利于模型精确求解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "初始解生成方法可选择：拉格朗日松弛启发、线性松弛启发、ADD或DROP启发方法。拉格朗日松弛启发算法(Holmberg etal.1999)可直接求解 SSCFLP 案例，通过调整设施数量可用于求解 SSCKFLP。线性松弛启发是将修改布尔变量 $\\cdot { x } _ { i j }$ 为[0,1]连续变量，使用优化器对模型求解，对求解结果进行修复。ADD启发或DROP启发是经典的构造算法，以贪心方式获得可行解。考虑服务区连续时，上述算法结果需要进行连续性修复。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法步骤(4)从当前解中随机选择一个超大邻域，包括设施子集 $I ^ { * }$ 和需求子集 $J ^ { * }$ 。选择邻域是算法设计的一个关键点，步骤如下： $\\textcircled{1}$ 随机选择一个需求点，以该点为中心，从当前解设施集合中自近而远地选择 $\\varrho$ 个设施； $\\textcircled{2}$ 指派给 $\\varrho$ 个设施的需求点构成需求点子集 $J ^ { * }$ . $\\textcircled{3}$ 子集 $J ^ { * }$ 中每个需求点最近的设施以及已选择的 $\\varrho$ 个设施构成子集 $I ^ { * }$ 。以上步骤所选择邻域的大小受 $\\varrho$ 值影响， $\\varrho$ 值取值范围为 $[ Q _ { m i n } , \\ Q _ { m a x } ]$ ，其中， $Q _ { m i n } =$ $\\operatorname* { m i n } ( L / 2 , 7 )$ ， $Q _ { m a x } = \\operatorname* { m i n } ( L , 1 0 )$ ， $L$ 为当前解中的设施数量。当 $L { \\leq } 1 0$ 时， $\\boldsymbol { \\mathcal { Q } }$ 处于区间 $[ L / 2$ $\\boldsymbol { L } \\boldsymbol { ] }$ ；当 $1 1 { \\le } L { \\le } 1 3$ 时， $\\boldsymbol { \\mathcal { Q } }$ 处于区间 $[ L / 2 , 1 0 ]$ ；当 $L { \\ge } 1 4$ 时， $\\boldsymbol { \\mathcal { Q } }$ 处于区间[7,10]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "邻域规模影响算法性能：若邻域太小，当前设施区位往往难以更新；若邻域过大，模型计算效率低。当集合 $I ^ { * }$ 的规模偏大时，可能会使模型计算效率低下。为此，需要精简一部分候选设施，再进行子问题建模和求解。精简方法：从 $I ^ { * }$ 选择 $\\boldsymbol { \\mathcal { Q } }$ 个当前解中已使用设施，再从其余设施中随机选择 $\\varrho$ 个设施，更新集合 $I ^ { * }$ ，使其包括 $2 Q$ 个设施。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤(5)使用设施子集 $I ^ { * }$ 和需求子集 $J ^ { * }$ 构造子问题模型，并使用MIP优化器求解。针对SSCFLP、CFLSAP、SSCKFLP 和CKFLSAP四个问题，前两者构造 SSCFLP模型，后两者构造SSCKFLP模型，保证条件(1O)得到满足。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤(6)使用局部解 $s ^ { * }$ 更新当前解，获得新解 $s$ ’。对于CFLSAP 和CKFLSAP问题,新解 $s$ 可能不满足空间连续要求，此时需要进行对新解进行修复。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤(6)修复过程通常会使目标值较差，步骤(7)使用可变邻域下降(VND)算法改进当前解。VND 算法中采用1单元移动和2单元移动算子(Kong etal.2017)，获得局部最优解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤(8)尝试更新当前解。若新解 $s ^ { \\cdot }$ 优于当前解 $s$ ，更新当前解；否则，维持当前解 不变。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "迭代执行步骤(4)-(9)，当连续若干次循环未能更新当前解，算法终止。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3算法测试 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1案例设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文基于两个典型区域构造测试案例。区域 ZY为城区，约13.4平方千米，包含326个空间单元，有15所小学、3783名学生；区域 ZY为县域，约1000平方千米，包含1276个空间单元，有20个乡镇街道办，人口819812人。区域 ZY将学生人数作为需求量，在现有学校基础上手工增加部分点位作为潜在设施区位，设施容量参照现有学校均值。区域GY将人口数量作为需求量，在现有乡镇街道办所在地基础上手工增加部分区位作为潜在设施区位，设施容量参考现有乡镇街道办人口数量均值。图1为案例区域服务需求和候选服务设施的空间分布示意图，浅灰色圆圈表示需求量，星形符号表示潜在设施。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c3f1603c661e03027a6ecf3e608877fb0a4bc40895397b1c8860c874b263114.jpg",
+        "img_caption": [
+            "图1案例区域 ZY(左)和GY(右) Figure 1 The study areas ZY (lest) and GY (right) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，基于两个地理区域数据构造两个测试案例。每个区域中，将空间单元中心点位置作为需求点位置和候选设施位置；假设设施 $i$ 服务客户 $j$ 的费用 $c _ { i j } = 1 . 0 * d _ { i j } * d _ { j }$ 其中 $d _ { i j }$ 为设施 $i$ 和客户 $j$ 间的欧氏距离，单位为公里， $d _ { j }$ 为客户 $j$ 的需求量。设施建设成本 $f _ { i } = ( \\mu + \\varepsilon _ { i } ) s _ { i }$ ， $s _ { i }$ 为设施服务容量， $\\varepsilon _ { i }$ 为一定范围内的随机数。对于区域 ZY，取$\\scriptstyle \\mu = 0 . 8$ 、 $\\varepsilon _ { i }$ 为区间[-0.1,0.1]内的一个随机数；对于区域 ZY，取 $\\mu { = } 1 . 8$ 、 $\\varepsilon _ { i }$ 为区间[-0.2,0.2]内的一个随机数。参数 $\\mu$ 的取值经过多次尝试，使SSCFLP总成本中设施成本比例不能太高，也不能太低，处于 $30 \\% { \\sim } 7 0 \\%$ 之间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次，基于ZY 和GY 案例数据构造测试案例集。针对每个案例，扩大设施服务能力为1.2倍和1.4倍，增加设施成本为1.1、1.2、1.3和1.4倍。设施容量与设施成本组合，每个区域上共有15个案例。案例基本信息见表1。表中，供需比等于所有候选设施的总容量与总需求量之比。已有研究表明：供需比是案例求解难度的影响因素之一。表中，设施成本容量比等于候选设施的总成本与总容量之比。案例数据可从https://github.com/yfkong/unified 下载。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9733015e6fa23f2c41843e8ce3718f3b9037df616a969438293da085b1ef7f11.jpg",
+        "table_caption": [
+            "表1测试案例集Table 1 The benchmark instances"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>案例</td><td>1</td><td></td><td>供需 比</td><td>设施成本 容量比</td><td>案例</td><td>川</td><td></td><td>供需 比</td><td>设施成本 容量比</td></tr><tr><td>zya1</td><td>36</td><td>326</td><td>2.37</td><td>0.80</td><td>gya1</td><td>33</td><td>1276</td><td>1.61</td><td>1.83</td></tr><tr><td>zya2</td><td>36</td><td>326</td><td>2.37</td><td>0.88</td><td>gya2</td><td>33</td><td>1276</td><td>1.61</td><td>2.02</td></tr><tr><td>zya3</td><td>36</td><td>326</td><td>2.37</td><td>0.96</td><td>gya3</td><td>33</td><td>1276</td><td>1.61</td><td>2.20</td></tr><tr><td>zya4</td><td>36</td><td>326</td><td>2.37</td><td>1.04</td><td>gya4</td><td>33</td><td>1276</td><td>1.61</td><td>2.38</td></tr><tr><td>zya5</td><td>36</td><td>326</td><td>2.37</td><td>1.12</td><td>gya5</td><td>33</td><td>1276</td><td>1.61</td><td>2.56</td></tr><tr><td>zyb1</td><td>36</td><td>326</td><td>2.84</td><td>0.67</td><td>gyb1</td><td>33</td><td>1276</td><td>1.93</td><td>1.53</td></tr><tr><td>zyb2</td><td>36</td><td>326</td><td>2.84</td><td>0.74</td><td>gyb2</td><td>33</td><td>1276</td><td>1.93</td><td>1.68</td></tr><tr><td>zyb3</td><td>36</td><td>326</td><td>2.84</td><td>0.80</td><td>gyb3</td><td>33</td><td>1276</td><td>1.93</td><td>1.82</td></tr><tr><td>zyb4</td><td>36</td><td>326</td><td>2.84</td><td>0.87</td><td>gyb4</td><td>33</td><td>1276</td><td>1.93</td><td>1.98</td></tr><tr><td>zyb5</td><td>36</td><td>326</td><td>2.84</td><td>0.94</td><td>gyb5</td><td>33</td><td>1276</td><td>1.93</td><td>2.14</td></tr><tr><td>zyc1</td><td>36</td><td>326</td><td>3.32</td><td>0.57</td><td>gyc1</td><td>33</td><td>1276</td><td>2.26</td><td>1.31</td></tr><tr><td>zyc2</td><td>36</td><td>326</td><td>3.32</td><td>0.63</td><td>gyc2</td><td>33</td><td>1276</td><td>2.26</td><td>1.44</td></tr><tr><td>zyc3</td><td>36</td><td>326</td><td>3.32</td><td>0.69</td><td>gyc3</td><td>33</td><td>1276</td><td>2.26</td><td>1.57</td></tr><tr><td>zyc4</td><td>36</td><td>326</td><td>3.32</td><td>0.75</td><td>gyc4</td><td>33</td><td>1276</td><td>2.26</td><td>1.70</td></tr><tr><td>zyc5</td><td>36</td><td>326</td><td>3.32</td><td>0.80</td><td>gyc5</td><td>33</td><td>1276</td><td>2.26</td><td>1.83</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 案例测试 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文数学启发算法使用Python程序设计语言编程实现。算法步骤如下：读数据，使用LH方法获得初始解，迭代执行邻域选择、子问题求解和更新当前解，直到满足终止条件。子问题求解环节，使用 PuLP(https://github.com/coin-or/pulp)线性规划建模工具完成SSCFLP或 SSCKFLP子问题模型建构，再调用IBMCPLEX12.6优化器完成模型求解。为提升计算速度，算法在PyPy7 (https://www.pypy.org)环境中运行。实验计算环境为：HP桌面计算机，配置 IntelCore I7-6700 CPU3.40-GHz和8GB内存，Windows 10操作系统。本文算法可从网页https://github.com/yfkong/unified下载，按要求安装软件即可运行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用案例数据完成4个问题的测试。所有案例进行测试SSCFLP、CFLSAP问题求解；针对 zyal 和 gyal案例，测试 SSCKFLP、CKFLSAP 问题求解，案例 zyal设置设施数量 $K = 1 3 - 2 2$ ，案例gyal设置设施数量 $K = 1 8 - 3 0$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用两种方法进行问题求解：精确方法和本文数学启发方法。前者根据本文模型构造案例模型，使用CPLEX12.6优化器求解。记录CPLEX计算结果中的案例目标值下界、目标值上界及计算时间。数学启发算法设置参数mloops为100。一般来说，该参数数值越大，所需计算时间也越长。记录计算结果的目标值、目标值与下界差距和计算时间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3计算结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "计算结果分别见表2、表3、表4和表5。表中，LB为案例目标值下界，UB为案例目标值上界，Gap 为LB和UB的相对差异。若两者相等表明 $( { \\mathrm { G a p } } { = } 0 )$ ，表明CPLEX找到了案例最优解。表中最右三栏分别为数学启发算法获得的案例目标值、目标值与下界相对差异Gap，以及计算时间。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/307bcbe3b8198330391e6d9969522d787fc1fac42aa113879a0dcc6628597a66.jpg",
+        "table_caption": [
+            "表2SSCFLP计算结果",
+            "Table2Detailed SSCFLP solutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">案例</td><td colspan=\"4\">CPLEX</td><td colspan=\"3\">数学启发算法</td></tr><tr><td>LB</td><td>UB</td><td>Gap/%</td><td>时间/s</td><td>目标值</td><td>Gap/%</td><td>时间/s</td></tr><tr><td>zyal</td><td>4428.23</td><td>4428.23</td><td>0.00</td><td>877.53</td><td>4428.23</td><td>0.00</td><td>62.23</td></tr><tr><td>zya2</td><td>4722.23</td><td>4722.23</td><td>0.00</td><td>780.86</td><td>4722.23</td><td>0.00</td><td>72.15</td></tr><tr><td>zya3</td><td>5025.23</td><td>5025.23</td><td>0.00</td><td>988.81</td><td>5025.57</td><td>0.01</td><td>58.55</td></tr><tr><td>zya4</td><td>5327.60</td><td>5327.60</td><td>0.00</td><td>2042.05</td><td>5329.28</td><td>0.03</td><td>54.16</td></tr><tr><td>zya5</td><td>5626.94</td><td>5626.94</td><td>0.00</td><td>1458.30</td><td>5628.48</td><td>0.03</td><td>88.73</td></tr><tr><td>zyb1</td><td>3999.99</td><td>3999.99</td><td>0.00</td><td>6024.45</td><td>4006.75</td><td>0.17</td><td>130.50</td></tr><tr><td>zyb2</td><td>4239.99</td><td>4239.99</td><td>0.00</td><td>3368.16</td><td>4239.99</td><td>0.00</td><td>162.80</td></tr><tr><td>zyb3</td><td>4488.99</td><td>4488.99</td><td>0.00</td><td>7106.34</td><td>4488.99</td><td>0.00</td><td>136.51</td></tr><tr><td>zyb4</td><td>4736.99</td><td>4736.99</td><td>0.00</td><td>2676.81</td><td>4736.99</td><td>0.00</td><td>86.87</td></tr><tr><td>zyb5</td><td>4982.99</td><td>4982.99</td><td>0.00</td><td>2662.05</td><td>4982.99</td><td>0.00</td><td>78.30</td></tr><tr><td>zyc1</td><td>3732.85</td><td>3732.85</td><td>0.00</td><td>227.04</td><td>3732.85</td><td>0.00</td><td>105.13</td></tr><tr><td>zyc2</td><td>3940.85</td><td>3940.85</td><td>0.00</td><td>237.91</td><td>3940.85</td><td>0.00</td><td>89.73</td></tr><tr><td>zyc3</td><td>4158.85</td><td>4158.85</td><td>0.00</td><td>457.83</td><td>4158.85</td><td>0.00</td><td>94.61</td></tr><tr><td>zyc4</td><td>4374.85</td><td>4374.85</td><td>0.00</td><td>293.48</td><td>4374.85</td><td>0.00</td><td>96.94</td></tr><tr><td>zyc5</td><td>4589.85</td><td>4589.85</td><td>0.00</td><td>758.59</td><td>4590.17</td><td>0.01</td><td>118.67</td></tr><tr><td>gya1</td><td>3498793.22</td><td>3499012.55</td><td>0.01</td><td>7200.00</td><td>3499012.55</td><td>0.01</td><td>183.54</td></tr><tr><td>gya2</td><td>3657078.11</td><td>3657323.63</td><td>0.01</td><td>7200.00</td><td>3657364.63</td><td>0.01</td><td>270.68</td></tr><tr><td>gya3</td><td>3812527.81</td><td>3812605.72</td><td>0.00</td><td>7200.00</td><td>3812613.41</td><td>0.00</td><td>207.99</td></tr><tr><td>gya4</td><td>3966893.30</td><td>3966921.73</td><td>0.00</td><td>7200.00</td><td>3966941.43</td><td>0.00</td><td>221.26</td></tr><tr><td>gya5</td><td>4119130.39</td><td>4119543.12</td><td>0.01</td><td>7200.00</td><td>4119523.42</td><td>0.01</td><td>204.48</td></tr><tr><td>gyb1</td><td>3433138.33</td><td>3433223.99</td><td>0.00</td><td>7200.00</td><td>3433223.99</td><td>0.00</td><td>122.99</td></tr><tr><td>gyb2</td><td>3573531.57</td><td>3573616.42</td><td>0.00</td><td>7200.00</td><td>3573616.42</td><td>0.00</td><td>151.29</td></tr><tr><td>gyb3</td><td>3712631.49</td><td>3712713.37</td><td>0.00</td><td>7200.00</td><td>3717341.49</td><td>0.13</td><td>184.42</td></tr><tr><td>gyb4</td><td>3847355.36</td><td>3847386.80</td><td>0.00</td><td>7200.00</td><td>3847386.80</td><td>0.00</td><td>194.18</td></tr><tr><td>gyb5</td><td>3977990.12</td><td>3977990.12</td><td>0.00</td><td>2681.64</td><td>3978214.70</td><td>0.01</td><td>190.17</td></tr><tr><td>gyc1</td><td>3351292.23</td><td>3351292.23</td><td>0.00</td><td>587.87</td><td>3351292.23</td><td>0.00</td><td>203.33</td></tr><tr><td>gyc2</td><td>3475209.95</td><td>3475209.95</td><td>0.00</td><td>863.11</td><td>3475209.95</td><td>0.00</td><td>144.90</td></tr><tr><td>gyc3</td><td>3599127.67</td><td>3599127.67</td><td>0.00</td><td>1157.06</td><td>3599127.67</td><td>0.00</td><td>157.37</td></tr><tr><td>gyc4</td><td>3723045.39</td><td>3723045.39</td><td>0.00</td><td>137.38</td><td>3724065.87</td><td>0.03</td><td>281.80</td></tr><tr><td>gyc5</td><td>3840616.19</td><td>3840616.19</td><td>0.00</td><td>5198.12</td><td>3840702.03</td><td>0.00</td><td>313.58</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2中SSCFLP计算结果表明：CPLEX 能够求解本文案例，获得最优解或高质量近似解(CPLEXMIPGap $< 0 . 0 1 \\%$ ，但计算时间差异较大，最快2分钟，最慢2小时未发现最优解。数学启发算法计算速度很高，各案例需要1\\~6分钟，计算结果质量很高，12个案例获得最优解，其余案例除 zyb1 和 gyb3 外，目标值Gap 小于 $0 . 0 1 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3CFLSAP 计算结果表明：CPLEX求解本文案例，均获得满意的结果，平均Gap值为 $0 . 2 0 \\%$ ，5个案例在2小时时间内获得最优解；与表2相比，增加空间连续约束后，CPLEX 计算时间显著增加。数学启发算法需要1-5 分钟时间求解各案例，平均Gap 值为 $0 . 2 2 \\%$ ，发现2个案例最优解，12个案例求解质量高于CPLEX结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d99bd9430b0b5ab776f6e801e3a1b71a66a3b9425392172630004a75ed4ff320.jpg",
+        "table_caption": [
+            "表3CFLSAP计算结果",
+            "Table3 Detailed CFLSAP solutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">案例</td><td colspan=\"4\">CPLEX</td><td colspan=\"3\">MH</td></tr><tr><td>LB</td><td>UB</td><td>Gap/%</td><td>时间/s</td><td>目标值</td><td>Gap/%</td><td>时间/s</td></tr><tr><td>zya1</td><td>4435.21</td><td>4446.32</td><td>0.25</td><td>7200.00</td><td>4443.21</td><td>0.18</td><td>102.00</td></tr><tr><td>zya2</td><td>4727.23</td><td>4740.69</td><td>0.28</td><td>7200.00</td><td>4740.18</td><td>0.27</td><td>211.85</td></tr><tr><td>zya3</td><td>5031.18</td><td>5045.69</td><td>0.29</td><td>7200.00</td><td>5052.03</td><td>0.41</td><td>149.08</td></tr><tr><td>zya4</td><td>5335.83</td><td>5344.66</td><td>0.17</td><td>7200.00</td><td>5365.55</td><td>0.56</td><td>62.45</td></tr><tr><td>zya5</td><td>5634.87</td><td>5652.69</td><td>0.32</td><td>7200.00</td><td>5646.41</td><td>0.20</td><td>79.93</td></tr><tr><td>zyb1</td><td>4014.58</td><td>4014.58</td><td>0.00</td><td>3034.54</td><td>4015.33</td><td>0.02</td><td>92.11</td></tr><tr><td>zyb2</td><td>4258.35</td><td>4263.26</td><td>0.12</td><td>7200.00</td><td>4263.08</td><td>0.11</td><td>233.67</td></tr><tr><td>zyb3</td><td>4502.29</td><td>4519.58</td><td>0.38</td><td>7200.00</td><td>4528.97</td><td>0.59</td><td>111.21</td></tr><tr><td>zyb4</td><td>4751.57</td><td>4778.24</td><td>0.56</td><td>7200.00</td><td>4779.08</td><td>0.58</td><td>139.89</td></tr><tr><td>zyb5</td><td>4994.83</td><td>5032.58</td><td>0.75</td><td>7200.00</td><td>5030.37</td><td>0.71</td><td>173.50</td></tr><tr><td>zyc1</td><td>3736.16</td><td>3736.16</td><td>0.00</td><td>5988.96</td><td>3736.44</td><td>0.01</td><td>76.10</td></tr><tr><td>zyc2</td><td>3941.78</td><td>3944.28</td><td>0.06</td><td>7200.00</td><td>3945.2</td><td>0.09</td><td>74.92</td></tr><tr><td>zyc3</td><td>4161.52</td><td>4162.16</td><td>0.02</td><td>7200.00</td><td>4162.44</td><td>0.02</td><td>63.36</td></tr><tr><td>zyc4</td><td>4372.17</td><td>4378.16</td><td>0.14</td><td>7200.00</td><td>4378.44</td><td>0.14</td><td>98.72</td></tr><tr><td>zyc5</td><td>4593.16</td><td>4593.16</td><td>0.00</td><td>6698.44</td><td>4594.31</td><td>0.02</td><td>65.02</td></tr><tr><td>gya1</td><td>3494350</td><td>3499875</td><td>0.16</td><td>7200.00</td><td>3499833</td><td>0.16</td><td>137.27</td></tr><tr><td>gya2</td><td>3656614</td><td>3658269</td><td>0.05</td><td>7200.00</td><td>3658247</td><td>0.04</td><td>286.00</td></tr><tr><td>gya3</td><td>3811904</td><td>3814304</td><td>0.06</td><td>7200.00</td><td>3815345</td><td>0.09</td><td>102.43</td></tr><tr><td>gya4</td><td>3950935</td><td>3968368</td><td>0.44</td><td>7200.00</td><td>3968574</td><td>0.45</td><td>141.11</td></tr><tr><td>gya5</td><td>4111963</td><td>4121919</td><td>0.24</td><td>7200.00</td><td>4120543</td><td>0.21</td><td>104.26</td></tr><tr><td>gyb1</td><td>3433408</td><td>3433408</td><td>0.00</td><td>5147.80</td><td>3433408</td><td>0.00</td><td>113.19</td></tr><tr><td>gyb2</td><td>3573800</td><td>3573800</td><td>0.00</td><td>6247.53</td><td>3573800</td><td>0.00</td><td>135.53</td></tr><tr><td>gyb3</td><td>3712195</td><td>3713060</td><td>0.02</td><td>7200.00</td><td>3712897</td><td>0.02</td><td>156.98</td></tr><tr><td>gyb4</td><td>3844879</td><td>3852609</td><td>0.21</td><td>7200.00</td><td>3865510</td><td>0.54</td><td>130.93</td></tr><tr><td>gyb5</td><td>3975431</td><td>3991801</td><td>0.41</td><td>7200.00</td><td>3978666</td><td>0.08</td><td>223.14</td></tr><tr><td>gyc1</td><td>3353103</td><td>3355378</td><td>0.07</td><td>7200.00</td><td>3357712</td><td>0.14</td><td>110.18</td></tr><tr><td>gyc2</td><td>3475415</td><td>3482023</td><td>0.19</td><td>7200.00</td><td>3482121</td><td>0.19</td><td>117.73</td></tr><tr><td>gyc3</td><td>3599353</td><td>3612109</td><td>0.35</td><td>7200.00</td><td>3605828</td><td>0.18</td><td>129.13</td></tr><tr><td>gyc4</td><td>3723704</td><td>3730328</td><td>0.17</td><td>7200.00</td><td>3731717</td><td>0.22</td><td>239.15</td></tr><tr><td>gyc5</td><td>3839448</td><td>3852543</td><td>0.34</td><td>7200.00</td><td>3850299</td><td>0.28</td><td>253.08</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4中 SSCKFLP 计算结果表明：增加设施数量约束后，CPLEX 计算时间大幅降低，20个案例能够获得最优解，其余3个案例获得高质量解 $( \\mathrm { G a p { < } 0 . 0 2 \\% } )$ ，18个案例仅需要2分钟计算时间。数学启发算法求解质量高，发现11个案例的最优解，1个案例目标值优于CPLEX 结果，Gap 均值为 $0 . 0 0 \\%$ ，最大 $0 . 0 4 \\%$ 。数学启发算法计算时间处于1\\~6分钟。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/66b0c9a421204e2a17e880b5949c36972a6191d4f1470306fe35695ba8deb0ac.jpg",
+        "table_caption": [
+            "表4SSCKFLP计算结果Table 4Detailed SSCKFLP solutions"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"4\">CPLEX</td><td colspan=\"4\">数学启发算法</td></tr><tr><td>案例</td><td>K</td><td>LB</td><td>UB</td><td>Gap/%</td><td>时间/s</td><td>目标值</td><td></td><td>Gap/%</td><td>时间/s</td></tr><tr><td>zya1</td><td>13</td><td>4846.88</td><td>4846.88</td><td>0.00</td><td>140.14</td><td>4848.83</td><td>0.04</td><td></td><td>101.15</td></tr><tr><td>zya1</td><td>14</td><td>4740.14</td><td>4740.14</td><td>0.00</td><td>84.52</td><td>4740.42</td><td></td><td>0.01</td><td>107.92</td></tr><tr><td>zya1</td><td>15</td><td>4644.42</td><td>4644.42</td><td>0.00</td><td>26.14</td><td></td><td>4644.47</td><td>0.00</td><td>88.33</td></tr><tr><td>zya1</td><td>16</td><td>4549.83</td><td>4549.83</td><td>0.00</td><td>613.82</td><td></td><td>4549.83</td><td>0.00</td><td>193.39</td></tr><tr><td>zya1</td><td>17</td><td>4479.05</td><td>4479.05</td><td>0.00</td><td>7.91</td><td></td><td>4479.05</td><td>0.00</td><td>75.13</td></tr><tr><td>zya1</td><td>18</td><td>4459.38</td><td>4459.38</td><td>0.00</td><td>56.88</td><td></td><td>4459.38</td><td>0.00</td><td>56.50</td></tr><tr><td>zya1</td><td>19</td><td>4428.23</td><td>4428.23</td><td>0.00</td><td>585.82</td><td></td><td>4428.57</td><td>0.01</td><td>62.06</td></tr><tr><td>zya1</td><td>20</td><td>4441.19</td><td>4441.19</td><td>0.00</td><td>19.77</td><td></td><td>4441.19</td><td>0.00</td><td>74.95</td></tr><tr><td>zya1</td><td>21</td><td>4490.37</td><td>4490.37</td><td>0.00</td><td>4.83</td><td></td><td>4490.37</td><td>0.00</td><td>34.00</td></tr><tr><td>zya1</td><td>22</td><td>4617.61</td><td>4617.61</td><td>0.00</td><td>73.34</td><td></td><td>4617.88</td><td>0.01</td><td>44.80</td></tr><tr><td>gya1</td><td>18</td><td>3516721.82</td><td>3517274.15</td><td>0.02</td><td>7200.00</td><td>3517195.85</td><td></td><td>0.01</td><td>329.68</td></tr><tr><td>gyal</td><td>19</td><td>3501647.12</td><td>3501975.32</td><td>0.01</td><td>7200.00</td><td>3501975.32</td><td></td><td>0.01</td><td>203.00</td></tr><tr><td>gya1</td><td>20</td><td>3498731.49</td><td>3499012.55</td><td>0.01</td><td>7200.00</td><td>3499012.55</td><td></td><td>0.01</td><td>140.92</td></tr><tr><td>gya1</td><td>21</td><td>3499745.27</td><td>3499745.27</td><td>0.00</td><td>122.78</td><td>3499745.27</td><td></td><td>0.00</td><td>126.22</td></tr><tr><td>gya1</td><td>22</td><td>3509618.91</td><td>3509618.91</td><td>0.00</td><td>63.27</td><td>3509618.91</td><td></td><td>0.00</td><td>87.52</td></tr><tr><td>gya1</td><td>23</td><td>3531467.24</td><td>3531467.24</td><td>0.00</td><td>50.42</td><td>3531467.24</td><td></td><td>0.00</td><td>76.24</td></tr><tr><td>gya1</td><td>24</td><td>3554134.39</td><td>3554134.39</td><td>0.00</td><td>40.91</td><td>3554134.39</td><td></td><td>0.00</td><td>88.87</td></tr><tr><td>gya1</td><td>25</td><td>3584373.45</td><td>3584373.45</td><td>0.00</td><td>15.19</td><td>3584373.45</td><td></td><td>0.00</td><td>56.50</td></tr><tr><td>gya1</td><td>26</td><td>3621833.78</td><td>3621833.78</td><td>0.00</td><td>14.58</td><td>3621840.41</td><td></td><td>0.00</td><td>44.42</td></tr><tr><td>gya1</td><td>27</td><td>3663089.92</td><td>3663089.92</td><td>0.00</td><td>22.06</td><td>3663089.92</td><td></td><td>0.00</td><td>46.83</td></tr><tr><td>gya1</td><td>28</td><td>3715849.01</td><td>3715849.01</td><td>0.00</td><td>18.59</td><td>3715872.84</td><td></td><td>0.00</td><td>47.81</td></tr><tr><td>gya1</td><td>29</td><td>3772555.65</td><td>3772555.65</td><td>0.00</td><td>19.95</td><td></td><td>3772579.48</td><td>0.00</td><td>51.00</td></tr><tr><td>gya1</td><td>30</td><td>3830365.47</td><td>3830365.47</td><td>0.00</td><td>14.66</td><td></td><td>3830366.59</td><td>0.00</td><td>51.07</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5CKFLSAP案例计算结果表明：增加空间连续约束后，CPLEX仍能够高质量求解本文案例，但计算时间大幅增加，16个案例获得最优解，仅2个案例的Gap 值大于$0 . 1 0 \\%$ 。数学启发算法能够快速获得高质量解，共发现6个案例的最优解，4个案例优于CPLEX计算结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5CKFLSAP计算结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a41f944e8da824fc1a0aa896ede99a11f5964a860417e6c72039470a375843c7.jpg",
+        "table_caption": [
+            "Table 5 Detailed CKFLSAP solutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">案 例</td><td rowspan=\"2\">K</td><td colspan=\"4\">CPLEX</td><td colspan=\"3\">数学启发算法</td></tr><tr><td>LB</td><td>UB</td><td>Gap/%</td><td>时间/s</td><td>目标值</td><td>Gap/%</td><td>时间/s</td></tr><tr><td>zya1</td><td>13</td><td>4855.13</td><td>4855.13</td><td>0.00</td><td>4816.65</td><td>4870.93</td><td>0.33</td><td>67.62</td></tr><tr><td>zya1</td><td>14</td><td>4745.68</td><td>4745.68</td><td>0.00</td><td>3474.80</td><td>4760.25</td><td>0.31</td><td>138.40</td></tr><tr><td>zya1</td><td>15</td><td>4650.36</td><td>4650.36</td><td>0.00</td><td>2200.54</td><td>4652.13</td><td>0.04</td><td>84.74</td></tr><tr><td>zyal</td><td>16</td><td>4562.21</td><td>4562.59</td><td>0.01</td><td>7200.00</td><td>4570.24</td><td>0.18</td><td>80.41</td></tr><tr><td>zya1</td><td>17</td><td>4486.15</td><td>4486.15</td><td>0.00</td><td>2200.07</td><td>4486.15</td><td>0.00</td><td>65.02</td></tr><tr><td>zya1</td><td>18</td><td>4469.29</td><td>4469.29</td><td>0.00</td><td>5032.55</td><td>4475.10</td><td>0.13</td><td>67.40</td></tr><tr><td>zya1</td><td>19</td><td>4438.07</td><td>4441.13</td><td>0.07</td><td>7200.00</td><td>4449.64</td><td>0.26</td><td>51.51</td></tr><tr><td>zya1</td><td>20</td><td>4446.32</td><td>4446.32</td><td>0.00</td><td>2078.38</td><td>4447.13</td><td>0.02</td><td>59.24</td></tr><tr><td>zya1</td><td>21</td><td>4500.53</td><td>4500.53</td><td>0.00</td><td>394.76</td><td>4506.77</td><td>0.14</td><td>24.85</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b604871a3fd0c73df956ccd83f7b08577a9f9266bd71f1722e759d8c783fd533.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>zya1</td><td>22</td><td>4619.83</td><td>4620.24</td><td>0.01</td><td>7200.00</td><td>4632.94</td><td>0.28</td><td>28.21</td></tr><tr><td>gya1</td><td>18</td><td>3513204.32</td><td>3522650.84</td><td>0.27</td><td>7200.00</td><td>3518302.79</td><td>0.15</td><td>53.45</td></tr><tr><td>gya1</td><td>19</td><td>3501266.20</td><td>3509894.00</td><td>0.25</td><td>7200.00</td><td>3502926.68</td><td>0.05</td><td>115.24</td></tr><tr><td>gya1</td><td>20</td><td>3498654.87</td><td>3500110.57</td><td>0.04</td><td>7200.00</td><td>3499826.97</td><td>0.03</td><td>131.71</td></tr><tr><td>gya1</td><td>21</td><td>3500566.31</td><td>3500566.31</td><td>0.00</td><td>4194.36</td><td>3500566.31</td><td>0.00</td><td>95.69</td></tr><tr><td>gya1</td><td>22</td><td>3510439.96</td><td>3510439.96</td><td>0.00</td><td>4944.07</td><td>3510439.96</td><td>0.00</td><td>67.28</td></tr><tr><td>gya1</td><td>23</td><td>3532049.19</td><td>3532374.32</td><td>0.01</td><td>7200.00</td><td>3532288.28</td><td>0.01</td><td>82.74</td></tr><tr><td>gya1</td><td>24</td><td>3554955.43</td><td>3554955.43</td><td>0.00</td><td>1935.15</td><td>3554955.43</td><td>0.00</td><td>64.27</td></tr><tr><td>gya1</td><td>25</td><td>3585194.49</td><td>3585194.49</td><td>0.00</td><td>803.02</td><td>3585251.36</td><td>0.00</td><td>55.72</td></tr><tr><td>gya1</td><td>26</td><td>3622654.82</td><td>3622654.82</td><td>0.00</td><td>1113.47</td><td>3622654.82</td><td>0.00</td><td>54.34</td></tr><tr><td>gya1</td><td>27</td><td>3663910.96</td><td>3663910.96</td><td>0.00</td><td>343.29</td><td>3663910.96</td><td>0.00</td><td>54.92</td></tr><tr><td>gya1</td><td>28</td><td>3716663.42</td><td>3716663.42</td><td>0.00</td><td>591.89</td><td>3716714.23</td><td>0.00</td><td>43.74</td></tr><tr><td>gya1</td><td>29</td><td>3773370.06</td><td>3773370.06</td><td>0.00</td><td>405.58</td><td>3773371.19</td><td>0.00</td><td>50.81</td></tr><tr><td>gya1</td><td>30</td><td>3831365.77</td><td>3831365.77</td><td>0.00</td><td>120.78</td><td>3831393.55</td><td>0.00</td><td>45.43</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4比较分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "比较 SSCFLP和CFLSAP计算结果，具有以下特征：(1)SSCFLP增加设施服务区空间连续约束，目标值略有增加，ZY案例增加 $0 . 0 9 \\% { \\sim } 1 . 0 0 \\%$ ，平均 $0 . 3 9 \\%$ ；GY案例增加$0 . 0 1 \\% { \\sim } 0 . 3 6 \\%$ ，平均 $0 . 1 3 \\%$ 。(2)SSCFLP增加空间连续约束后，CPLEX求解时间显著增加，求解质量也有下降，目标值与下界差异MIPGap从 $0 . 0 0 \\%$ 增加到 $0 . 2 0 \\%$ 。(3)SSCFLP增加空间连续约束，对数学启发算法计算时间无明显影响。(4)SSCFLP增加空间连续约束对设施区位和服务区有显著影响。本文测试案例中，部分案例无论是否考虑服务区空间连续，选择设施区位完全相同，但另一部分案例，SSCFLP和CFLSAP区位选择有显著差异。例如，案例zya4，图2为SSCFLP和CFLSAP计算结果示意图。两者目标值差异 $0 . 3 9 \\%$ ，设施数量均为19，但3个设施区位有差异；前者4个设施的服务区不连续，后者保证所有服务区空间连续。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f618e9ecee401eafe4706ac7d02165c30445ede0736e27e052883937fdcdc796.jpg",
+        "img_caption": [
+            "图2案例 zya4 计算结果(左为 SSCFLP，右为CFLSAP)"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 SSCFLP (left) and CFLSAP (right) solutions on the instance zya4 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "设施数量约束对于案例目标值影响显著。首先，无论SSCFLP或CFLSAP问题，增加设施数量约束后，精确算法的求解时间显著下降。可能的原因是：增加设施数量约束后，可行的候选设施组合数量大幅降低，大幅缩小了可行解空间。CPLEX计算结果表明，增加设施数量约束后，SSCKFLP比SSCFLP更容易获得最优解，CKFLSAP比",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CFLSAP 容易获得最优解。其次，SSCFLP或CFLSAP存在最优设施数量，增加设施数量约束，设施数量偏离原问题最优设施数量越多，目标增加值越多。图3为SSCKFLP目标值随设施数量变化曲线，上图为案例zya1，下图为案例gyal，两个案例SSCFLP最好解中，设施数量分别是19和20。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c10075411f844d55d174f2dfa7c4f31ed5f3d03cd962acc4e3cd4d95f2657f6b.jpg",
+        "img_caption": [
+            "图3SSCKFLP目标值(纵轴)随设施数量(横轴)变化曲线",
+            "Figure 3 SSCKFLP objectives on instances zyal (upper) and gyal (lower) versus the number of facilities "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在需求分布确定、候选设施位置确定的情况下，设施容量和固定成本对区位选择有一定的影响。本文案例中，按同一比例调整设施容量，设施区位选择通常会发生变化。而同一比例调整设施成本，部分案例的区位选择仍保持不变。比较发现，以下各组案例的设施区位选择完全相同：zyal、zya2 和 zya3，zybl、zyb2、zyb3、zyb 4 和 zyb 5,zycl、zyc2、zyc3、zyc4 和 zyc5，gya2 和 gya3,gya4 和 gya5，gyb2 和 gyb3，gyc1、gyc2和gyc3。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本文对经典的SSCFLP进行了扩充，即增加设施服务区空间连续约束和设施数量约束，衍生出SSCKFLP、CFLSAP和CKFLSAP这3个变种问题。利用设施区位，借鉴网络流模型(Duque etal.2011)，作者构建了顾及空间连续的CFLSAP 和CKFLSAP 模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "使用流模型构建p-regions 区划问题模型，模型精确求解仅适用于规模很小的案例；而本文CFLSAP和CKFLSAP模型相对容易求解，原因在于SSCFLP选择的设施区位可以直接用于建立流模型。实验表明：CPLEX优化器能够求解1276个单元和33个设施的案例，获得最优解或高质量解 $( \\mathrm { M I P G a p } { < } 0 . 4 4 \\% )$ 。SSCFLP应用实践中，可能要求设施服务区连续，也可能需要指定设施数量，本文SSCFLP扩展模型符合这些应用需求。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文设计了数学启发算法求解 SSCFLP、SSCKFLP、CFLSAP和CKFLSAP。数学启发算法本质上是超大规模邻域搜索，即从初始解作开始，使用数学模型迭代地改进当前解中的超大国模邻域，直到当前解难以更新。案例测试表明，数学启发算法求解SSCFLP、SSCKFLP、CFLSAP和CKFLSAP，目标值与其下界的差异分别为 $0 . 0 1 \\%$ ，$0 . 0 0 \\%$ 、 $0 . 2 2 \\%$ 和 $0 . 0 8 \\%$ ，求解质量与CPLEX计算结果无明显差异，但计算效率大幅提升。案例测试验证了本文数学启发算法的有效性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文案例研究也发现：SSCFLP或 SSCKFLP增加设施服务区空间连续约束后，目标值增加幅度不大，但最优设施区位可能发生变化。SSCFLP或CFLSAP增加设施数量约束对于目标值影响显著，设施数量偏离原问题最优设施数量越多，目标增加值越多。在需求分布确定、候选设施位置确定的情况下，设施容量和固定成本对区位选择有一定的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1] Aardal K,van den Berg P L, Gijswijt D,et al. Approximation algorithms for hard capacitated k-facility location problems. European Journal of Operational Research, 2015, 242(2):358-368.   \n[2] Agar M, Salhi S. Lagrangean heuristics applied to a variety of large capacitated plant location problems. Journal of the Operational Research Society, 1998, 49:1072-1084.   \n[3] Ahuja R K, Orlin JB, Sharma D. Multi-exchange neighborhood search algorithms for the capacitated minimum spanning tree problem. Mathematical Programming, 2001, 91:71- 97.   \n[4] Avella P,Boccia M. A cutting plane algorithm for the capacitated facility location problem. Computational Optimization and Applications,20o9, 43(1): 39-65.   \n[5]Barceló J, Casanovas J. A heuristic Lagrangean algorithm for the capacitated plant location problem. European Journal of Operational Research, 1984,15(2):212-226   \n[6] Barceló J, Fernandez E, Jornsten K. Computational results from a new Lagrangean relaxation algorithm for the capacitated plant location problem. European Journal of Operational Research, 1991, 53(1):38-45.   \n[7]Basu S, Sharma M & Ghosh P S.Metaheuristic applications on discrete facility location problems: a survey. OPSEARCH, 2015,52, 530-561.   \n[8]Beasley JE.Lagrangian heuristics for location problems. European Journal of Operational Research, 1993,65:383-399.   \n[9]Beasley J E. OR-Library: Distributing test problems by electronic mail. Journal of the Operational Research Society, 1990.41:1069-1072.   \n[10] Boccia M, Sforza A, Sterle C, Vasilyev I. A cut and branch approach for the capacitated p-median problem based on Fenchel cutting planes. Journal of Mathematical Modelling and Algorithms, 2008, 7(1):43-58.   \n[11] Caserta M & VoB S.A general corridor method-based approach for capacitated facility location. International Journal of Production Research,2020, 58:13: 3855-3880.   \n[12] Chen C.H., C.J. Ting. Combining lagrangian heuristic and ant colony system to solve the single source capacitated facility location problem. Transportation Research Part E: Logistics and Transportation Review, 2008, 44 (6): 1099-1122.   \n[13] Contreras I A, Diaz J A. Scatter search for the single source capacitated facility location problem. Annals of Operations Research, 2008,157 (1):73-89.   \n[14] Cornuejols G, Sridharan R,Thizy J. A comparison of heuristics and relaxations for the capacitated plant location problem. European Journal of Operational Research,1991, 50(3):280-297.   \n[15] Cortinhal M J, Captivo M E. Upper and lower bounds for the single source capacitated location problem. European Journal of Operational Research,2003,151(2): 333-351.   \n[16] Duque J C, Church R L, Middleton R S, et al. The p-Regions problem. Geographical Analysis,2011, 43(1): 104-126.   \n[17] Delmaire H, Diaz J A, Fernandez E, Ortega M. Reactive GRASP and tabu search based heuristics for the single source capacitated plant location problem. Infor-Information Systems and Operational Research,1999, 37(3): 194-225.   \n[18] Diaz J, Fernandez E. A branch-and-price algorithm for the single source capacitated plant location problem. Journal of the Operational Research Society, 2002, 53:728-740.   \n[19] Filho V JMF, Galvao R D.A tabu search heuristic for the concentrator location problem. Location Science, 1998, 6: 189-209.   \n[20] Gadegaard S L,Klose A, Nielsen L R. An improved cut-and-solve algorithm for the singlesource capacitated facility location problem. EURO Journal on Computational Optimization, 2018, 6: 1-27.   \n[21] Guastaroba G, Speranza M G.A heuristic for BILP problems: The Single Source Capacitated Facility Location Problem, European Journal of Operational Research, 2014, 238 (2): 438-450.   \n[22] Hindi H, Pienkosz K. Efficient solution of large scale, single-source, capacitated plant location problems. Journal of the Operational Research Society, 1999, 50:268-274   \n[23] Holmberg K, Ronnqvist M, Yuan D. An exact algorithm for the capacitated facility location problems with single sourcing. European Journal of Operational Research, 1999, 113 (3): 544-559.   \n[24] Holt J, Ronnqvist M, Tragantalerngsak S. A repeated matching heuristic for the singlesource capacitated facility location problem. European Journal of Operational Research, 1999, 116:51-68.   \n[25] Klincewicz J., Luss H. A Lagrangean relaxation heuristic for capacitated facility location with single-source constraints. Journal of the Operational Research Society,1986,37:495- 500.   \n[26] Klose A, Gortz S.A branch-and-price algorithm for the capacitated facility location problem. European Journal of Operational Research, 2007,179(3):1109-1125.   \n[27] Kong Y F, Zhu Y F, Wang Y J. A hybrid metaheuristic algorithm for the school districting problem.Acta Geographica Sinica,2017,72(02):256-268.[孔云峰，朱艳芳，王玉璟．学 校分区问题混合元启发算法研究[J]．地理学报,2017,72(2):256-268.]   \n[28] Neebe A W, Rao M R. An algorithm for the fixed-charge assigning users to sources problem The Journal of the Operational Research Society,1983,34:1107-1113.   \n[29] Oliveira O, Matos T, Gamboa D.A RAMP Algorithm for Large-Scale Single Source Capacitated Facility Location Problems. In: Matsatsinis N,Marinakis Y,Pardalos P. (eds) Learning and Intelligent Optimization. LION 2019. Lecture Notes in Computer Science, 2020, vol 11968, Springer, Cham.   \n[30] Ronnqvist M, Tragantalerngsak S, Holt J. A repeated matching heuristic for the singlesource capacitated facility location problem. European Journal of Operational Research, 1999, 116(1):51-68.   \n[31] Shirabe T. Districting modeling with exact contiguity constraints. Environment and Planning B: Planning and Design, 2009,36(6): 1053-1066.   \n[32] Sridharan R. A Lagrangian heuristic for the capacitated plant location problem with single source constraints. European Journal of Operational Research, 1993, 66(3):305-312.   \n[33] Tran T H, Scaparra M P, O'Hanley JR. A hypergraph multi-exchange heuristic for the single-source capacitated facility location problem, European Journal of Operational Research, 2017,263(1): 173-187.   \n[34] Ulukan Z, Demircioglu E. A Survey of Discrete Facility Location Problems. International Journal of Industrial and Manufacturing Engineering,2015, 9(7): 2487-2492.   \n[35] Wang, Y., Xu, D., Du, D. et al. An approximation algorithm for k-facility location problem with linear penalties using local search scheme. J Comb Optim 36, 264-279 (2018). https://doi.0rg/10.1007/s10878-016-0080-2   \n[36] WANG W. A Local Search Algorithm for Hard Uniform Capacitated k-facility Location Problem. Nanjing Normal University, 2017.   \n[37] Yang Z, Chu F, Chen H. A cut-and-solve based algorithm for the single-source capacitated facility location problem. European Journal of Operational Research, 2012, 221 (3): 521- 532. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A matheuristic algorithm for the single-source capacitated facility location problem and its variants ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This article proposes a matheuristic algorithm for the single-source facility location problem (SSCFLP) and its variants: SSCFLP with $K$ facilities (SSCKFLP)， SSCFLP with connective service areas (CFLSAP), and SSCFLP with $K$ facilities and connective service areas (CKFLSAP). The algorithm starts from an initial solution, and then iteratively improves the solution by searching large-scale neighborhood of current solution. The neighborhood is defined by determining a subset of candidate facilities and a subset of customers: (1) randomly select a customer; (2) select $\\boldsymbol { \\mathcal { Q } }$ nearest facilities and their customers from the current solution; (3) select nearest candidate facilities of all the customers; and (4) randomly drop some candidate facilities if too many facilities are selected in previous step.The size of neighborhood is critical to the performance of the algorithm: it is hard to solve an extra-large neighborhood and it is difficult to find a better solution in a small neighborhood. The value of $\\boldsymbol { \\mathcal { Q } }$ is suggested according to the number of facilities in current solution. The current solution might be improved by finishing the following steps: (1) formulate a sub-problem model using the selecting facilities and customers; (2） solve the model and update the current solution using sub-problem solution; and (3) for CFLSAP or CKFLSAP,repair the non-connective service areas,and improve solution with local search operators. Two set of instances were generated to test the algorithm. Experimentation shows that the instances of SSCFLP and its variant problems can be solved by the proposed matheuristic algorithm efectively and efficiently. The solutions found by the proposed algorithm approximate optimal solutions or the lower bounds with average gaps of $0 . 0 1 \\%$ for SSCFLP, $0 . 2 2 \\%$ for CFLSAP, $0 . 0 0 \\%$ for SSCKFLP, and $0 . 0 8 \\%$ for CKFLSAP. Solution results show that the solution objective would be slightly increased by adding the contiguity constraints on SSCFLP or SSCKFLP. The optimal facility locations of SSCFLP/SSCKFLP might be different from those of CFLSAP/CKFLSAP. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Keywords: single-source capacitated facility location problem; connective service area; matheuristic algorithm; Large-scale neighborhood. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Funding: This work is supported by the National Natural Science Foundation of China (41871307). ",
+        "page_idx": 14
+    }
+]

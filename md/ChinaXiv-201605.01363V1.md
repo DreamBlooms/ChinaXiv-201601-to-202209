@@ -1,0 +1,300 @@
+# Cell
+
+# Selective Elimination of Mitochondrial Mutations in the Germline by Genome Editing
+
+Graphical Abstract
+
+![](images/27f2b2b065e0ba3f81657f6b005ef8c78047b53b1eb90631ceacc3a3fb154cca.jpg)
+
+# Authors
+
+Pradeep Reddy, Alejandro Ocampo.,., Carlos T.Moraes, Juan Carlos lzpisua Belmonte
+
+Correspondence belmonte@salk.edu
+
+# InBrief
+
+Using mitochondria-targeted nucleases, mtDNA mutations are specifically eliminated inthe germlineto prevent their transgenerational transmission.This strategyrepresents a potential therapeutic avenue for preventing the transmission of human mitochondrial diseases.
+
+# Highlights
+
+Mitochondria-targeted nucleases selectively reduce mtDNA   
+haplotypes in germline   
+Germline heteroplasmy shift prevents transmission of   
+mtDNA haplotypes to offspring   
+Human mutated mtDNA can be reduced in oocytes by   
+mitochondria-targeted nucleases   
+Accession Numbers   
+GSE67371   
+SRP056327
+
+# Selective Elimination of Mitochondrial Mutations in the Germline by Genome Editing
+
+PradeepReddy,1,14Alejandro Ocampo,1,14 KeiichiroSuzuki,1 Jinping Luo,1 SandraR.Bacman,2 SionLWilliams,2   
+Atsushi Sugawara,1 Daiji Okamura,1 Yuji Tsunekawa,Jun Wu,1 David Lam,1 Xiong Xiong,4 Nuria Montserrat,5   
+ConcepcionRodriguez Esteban,1 Guang-HuiLiu,6,7,8Ignacio Sancho-Martinez,1 Dolors Manau, SalvaCivico,9   
+Francesc Cardelach,10Maria delMarOCallaghan,11 Jaime Campistol,11uimin Zhao,4 JosepM.Campistol,12   
+Carlos T. Moraes,2,13 and Juan Carlos Izpisua Belmonte1,\*   
+1Gene Expression Laboratory,Salk Institute for Biological Studies,La Jolla,CA 92037, USA   
+2Department of Neurology, University of Miami Miler School of Medicine, Miami,FL 33136,USA   
+3Laboratory for CellAsymmetry,RlKEN Center for Developmental Biology,Kobe,Hyogo 650-0047,Japan   
+4DepartmentofChemicalandBiomolecularEngineering,Universityof llnoisatUrbana-Champaign,Urbana,IL61801,USA   
+5PluripotentStemCellsandOrganRegeneration,InstituteforBoengineeringofCatalonia(BEC),Barcelona08028,Spain   
+NationalLaboratoryofBiomacromolecules,InstituteofBiophysics,ChineseAcademyofSciences,Beijing1001,Cina   
+7Center for Molecular and Translational Medicine (CMTM), Beijing 100101, China   
+8Beijing Institute for Brain Disorders,Beijing10oo69,China   
+9InstitutClinicfGcolgstetricdoatgy(G),spitalCinicUversityfrceloaarcelo   
+10MitochondrialResearchLaboratoryIDBAPS/CIBERonRareDiseases,UniversityofBarcelonaandInternalMedicineDepartment,   
+Hospital Clinic,University of Barcelona, Barcelona O8036,Spain   
+11Neuropediatric Department/CIBERER,Hospital Universitari SantJoande Déu,EspluguesdeLlobregat O8950,Spain   
+12Renal Division,HospitalCinic,UniversityofBarcelonaIBAS,Barcelona836pin   
+13Department of Cell Biology, University of Miami Miler School of Medicine,Miami,FL33136,USA   
+$^ { 1 4 } \mathsf { C o }$ -first author   
+\*Correspondence: belmonte@salk.edu   
+http://dx.doi.0rg/10.1016/j.cell.2015.03.051
+
+# SUMMARY
+
+Mitochondrial diseases include a group of maternally inherited genetic disorders caused by mutations in mtDNA. In most of these patients,mutated mtDNA coexists with wild-type mtDNA, a situation known as mtDNA heteroplasmy. Here,we report on a strategy toward preventing germline transmission of mitochondrial diseases by inducing mtDNA heteroplasmy shift through the selective elimination of mutated mtDNA. As a proof of concept, we took advantage of NZB/BALB heteroplasmic mice，which contain two mtDNA haplotypes, BALB and NZB,and selectively prevented their germline transmission using either mitochondria-targeted restriction endonucleases or TALENs. In addition, we successfully reduced human mutated mtDNA levels responsible for Leber's hereditary optic neuropathy (LHOND),and neurogenic muscle weakness,ataxia, and retinitis pigmentosa(NARP), inmammalian oocytes using mitochondria-targeted TALEN (mito-TALENs). Our approaches represent a potential therapeutic avenue for preventing the transgenerational transmission of human mitochondrial diseases caused by mutations in mtDNA.
+
+# INTRODUCTION
+
+Mitochondria are double-membrane cellular organellesof bacterial origin that play fundamental roles in multiple cellular processes including energy production，calcium homeostasis, cellular signaling,and apoptosis (Dyall et al.,20o4).Mitochondria contain their own mtDNA encoding 13 polypeptides of the mitochondrial respiratorychainaswell as tRNAsand rRNAsnecessary for their synthesis (Anderson etal.,1981).mtDNA is present inmultiple copies per cell,ranging from approximately 1,000 copies in somatic cells to several 100,0o0 copies in oocytes, with an average 1-10 copies per organelle (Shoubridge and Wai,2007). In contrast to nuclear DNA,mtDNA is exclusively transmitted through maternal inheritance.Diseases resulting from mitochondrial dysfunction caused by mtDNA mutations affect1 in 5,0o0 children (Haas et al., 2007),and it is estimated that 1 in 2oo women could be a mitochondrial disease carrier. Due to the fundamental role of mitochondria in energy production,mitochondrial diseases correlate with degeneration of tissues and organs with high-energy demands.This leads to myopathies,cardiomyopathies,and encephalopathies,among other phenotypes (Taylor and Turnbull,2oo5).Currently, there is no cure for mitochondrial diseases.Genetic counseling and pre-implantation genetic diagnosis (PGD) represent the only therapeutic options for preventing transmission of mitochondrial diseases caused by mtDNA mutations.However, due to the non-Mendelian segregation of mtDNA,PGD can only partially reduce the risk of transmitting the disease (Brown et al., 20o6). Moreover,analysis of multiple blastomeres may compromise embryo viability. Recently，mitochondrial replacement techniques by spindle, pronuclear,or polar body genome transfer into healthy enucleated donor oocytes or embryos have been reported (Craven et al.，2010; Paull et al.， 2013; Tachibana et al.， 2013; Wang et al.,2014). Application of these techniques implies combining genetic material from three different individuals,which has raised ethical,safety，and medical concerns (Hayden，2013; Vogel，2014).Therefore，alternative and complementary approaches that alleviate or eliminate these concerns should be investigatedwhen devising feasibleclinical paths toward preventing the transmission of mitochondrial diseases caused by mtDNA mutations.
+
+Due to the thousands of copies of mtDNA contained within a cell, the levels of mutated mtDNA can vary. The term homoplasmy refers to the presence of a single mtDNA haplotype in the cell,whereas heteroplasmy refers to the coexistence of more than one mtDNA haplotype.When the percentage of mutated mtDNA molecules exceeds a threshold that compromises mitochondrial function,a disease state may ensue (Taylor and Turnbull, 2005;Wallace and Chalkia, 2013). Threshold levels for biochemical and clinical defects are generally in the range of $6 0 \% - 9 5 \%$ mutated mtDNA depending on the severity of the mutation (Russell and Turnbull, 2014). Changes in the relative levels of heteroplasmic mtDNA can be referred to as mtDNA heteroplasmy shifts.Despite the fact that mitochondria possess all the necessary machinery for homologous recombination and non-homologous end joining, they do not seem to represent the major pathway formtDNA repair in mammalian mitochondria (Alexeyev et al.，2013). Previous studies have demonstrated that the relative levels of mutated and wildtype mtDNA can be altered in patient somatic cells containing the $m . 8 9 9 3 \mathsf { T } { > } \mathsf { G }$ mtDNA mutation responsible for the NARP and MILS syndromes,where elimination of mutated mtDNA led to the restoration of normal mitochondrial function (Alexeyev et al.，2008).Similarly，using the heteroplasmic NZB/BALB mouse model that carries two different mtDNA haplotypes (NZBand BALB), BALB mtDNA,which containsa unique ApaLl site,has been specifically reduced in vivo usinga mitochondria-targeted ApaLl (Bacman et al.，2012； 2010). Recently, transcription activator-like effector nucleases (TALENs)and zinc finger nucleases (ZFNs) targeted to mitochondria have being utilized for the specific elimination of mitochondrial genomes carrying mutations responsible for mitochondrial diseases (Bacman et al.， 2013; Gammage et al., 2014; Minczuk et al.，2006；2008).These novel approaches allow for the targeting of a wider spectrum of mutations against which restriction endonucleases could not be used.However， these approaches do not provide mechanisms for preventing the transmission of mutated mtDNA nor do they allow fora complete systemic clearance of mtDNA mutations in subsequent generations.
+
+Here，we report on the specific reduction of mitochondrial genomes in the germline for preventing transmission of mitochondrial diseases.As a proof of concept, and by using the heteroplasmic NZB/BALB mouse model,we specifically reduced BALB or NZB mitochondrial genomes in the germline using mitochondria-targeted restriction endonucleases and TALENs and prevented their transmission to the next generation.Moreover,we successfully reduced mutated mitochondrial genomes responsible for human mitochondrial diseases in mouse oocytes usingmitochondria-targetednucleases.Theapproaches presented here may be applied and developed to prevent thetransgenerational transmission of human mitochondrial diseases.
+
+# RESULTS
+
+# SpecificReductionofMitochondrial Genomesin Oocytesand Embryos Using Restriction Endonucleases
+
+With the goal of establishing an alternative therapeutic approach forpreventing the germline transmission of mitochondrial diseases caused bymtDNA mutations,we tested the specific elimination of BALB mtDNA in NZB/BALB oocytes and one-cel embryos.For this purpose,we generateda mammalian codon optimized ApaLl targetedto mitochondriabythe ATP5B mitochondria targeting sequence and the ATP5B ${ \boldsymbol { 5 } } ^ { \prime }$ and $3 ^ { \prime }$ UTRs to promote co-translational import frommitochondrial associated ribosomes (Marc etal.,2002).An enhanced GFP (EGFP) reporter was also included in the construct to monitor expression (Figure1A).First,we tested the mitochondrial localization of the ApaLl protein generated from the construct by immunostaining in NZB/BALB tail tip fibroblasts (TTFs)and observed robust co-localization of mitochondria-targeted ApaLl (mito-ApaLl) with the mitochondrial dye Mitotracker (Figure S1A). In contrast, we failed to observe mitochondrial localization of non-mitochondria-targeted ApaLI (Figure S1A). Analysis of mtDNA by“lastcycle hot” PCR and restriction fragment length polymorphism (RFLP) demonstrated inductionof heteroplasmyshiftbyspecific reduction of BALB mtDNA in cells transfected with mito-ApaLl compared to control cells transfected with mito-GFP after 72 hr (Figure S1B). In addition,we found normal mtDNA copy number in mito-ApaLl transfected cells，which resulted from thereplication of the remaining NZB mtDNA that compensated for the reduction of BALB mtDNA (Figure S1C).
+
+We next decided to test whethera similar approach could be used in oocytes to specifically eliminate BALB mtDNA(Figure 1A). First,we confirmed the mitochondrial localization of mito-ApaLl in NZB/BALB metaphase Il (MIl) oocytes injected with mRNA encoding mito-ApaLl by immunostaining (Figure 1B).As expected, mito-ApaLl co-localized with Mitotracker in Mll oocytes (Figure 1B). RFLP analysis $4 8 ~ \mathsf { h r }$ after mito-ApaLI mRNA injection demonstrated the specific reduction of BALB mtDNA and a consequential increase in the relative NZB mtDNA levels (Figure1C).Inagreementwith the lack of mtDNA replication in mature oocytesand pre-implantation embryos (Wai etal.,201O),analysis of mtDNA copy number by qPCR revealed a decrease in mtDNA copy number following mito-ApaLI injection proportional to the initial levels of BALB mtDNA (Figure 1D).To verify the reduction of BALB mtDNA,we performed RFLP and qPCR analyses by amplification of an independent region of the mtDNA containing a unique Hindll site,exclusively present in BALB mtDNA.These analyses confirmed the specific reduction of BALB mtDNA upon injection of mito-ApaLlin NZB/BALB MIl oocytes(Figure S1Dand S1E).Injection of mito-ApaLI in BALB or NZB single haplotype oocytes resulted in complete depletion of mtDNA in BALB oocytes and did not affect mtDNA levels in NZB oocytes reinforcing the specificity of mito-ApaLl (Figure S1F).Collectively， these results suggest the potential of this approach for the specific reduction of mtDNA in the germline.
+
+In addition to oocytes,we tested whether mtDNA heteroplasmy shift could be applied to one-cell embryos without affecting their normal development until the blastocyst stage (Figure 2A).For this purpose，NZB/BALB one-cell embryos
+
+![](images/5b2b264e282fef3f9be65a6c8a202f6cbb92601b6442498da21fb2857c131a63.jpg)  
+Figure1.HeteroplasmyShiftinNZB/BALB MIl Oocytes Using mito-ApaLl
+
+(A)Injection of mito-ApaLI mRNA in oocytes for induction of heteroplasmy shift.   
+(B) Mitochondrial co-localization of mito-GFPand mito-ApaLl with Mitotracker in injected oocytes by immunofluorescence.Scale bars, $1 0 \mu \mathrm { m }$   
+(C)RFLP analysis and quantification of mtDNA heteroplasmy in control and mito-ApaLI injected Mll oocytes after $4 8 \mathsf { h r }$ (Control ${ \mathsf { n } } = 1 6$ mito-ApaLl ${ \mathsf { n } } = 1 2 ^ { \cdot }$ ).Representative gel.   
+(D) Quantification of mtDNA copy number by qPCR in control and mito-ApaLl-injected oocytes Mll after $4 8 \mathsf { h r }$ (Control ${ \mathfrak { n } } = 1 2$ ；mito-ApaLl ${ \mathsf { n } } = 1 2 ^ { \cdot }$ ！ Error bars represent $\pm$ SEM. $^ { \star \star \star \star } | 0 < 0 . 0 0 0 1$ . See also Figure S1.
+
+chondrial diseases to the next generation. NZB/BALB one-cell embryos injected with mito-ApaLl mRNA were cultured in vitro until the blastocyst stage and transferred to pseudopregnant mice (Figure 3A). After a standard gestation period, pseudopregnant mice gave birth to live pups through natural delivery (Figure 3B). Most importantly,RFLPanalysis of total DNA from F1 mito-ApaLl animals revealed a significant reduction of BALB mtDNA (Figure 3C). Further analysis demonstrated reduction of BALB mtDNA in the brain，muscle，heart，and liver. These data indicate the systemic clearance of a specific mtDNA in the offspring ofheteroplasmic mothers (Figure 3D). Similarly，analysis at the Hindlll region confirmed the specific reductionof BALB mtDNA in F1 mito-ApaLI animals were injected with mito-ApaLl mRNA.Time-lapse fluorescent microscopy images revealed the expression of mito-ApaLl indicatedby EGFPexpression,and more importantly,normal development of mito-ApaLl-injected embryos through the different developmental stages analyzed (Figure 2B). Similarly to the results observed in oocytes,RFLP analysis of mito-ApaLl blastocysts demonstrated specific reduction of BALB mtDNA and an increase in the relative levels of NZB mtDNA (Figure 2C).Moreover,due to the lack of mtDNA replication until the blastocyst stage (Wai et al.，201O),analysis of mtDNA copy number by qPCR showed a decrease in mtDNA levels proportional to the BALB mtDNA levels (Figure 2D). RFLP and qPCR analyses at the Hindlll region confirmed the specific reduction of BALB mtDNA upon injection of mito-ApaLI in NZB/BALB embryos (Figures S2A and S2B).
+
+# PreventingtheTransmissionofMitochondrial Genomes Using Mitochondria-Targeted Restriction Endonucleases
+
+Next, we investigated whether induction of mtDNA heteroplasmy shift could be utilized for preventing the transmission of mito(Figures S3A and S3B). Furthermore, analysis of mtDNA copy number showed normal mtDNA levels resulting from NZB mtDNA replication upon embryo implantation (Figure 3E). Comprehensive characterization of mito-ApaLl animals，both males and females,showed normal development,weight gain (Figure 4A), complete blood count (Table S1) as well as normal blood levels of glucose and lactate,all potential indicators of mitochondrial dysfunction (Haas etal., 2007) (Figure 4B). Moreover, typical behavioral studies indicative of CNS defects (Ross et al.,2013),including open field,rotor-rod,grip strength,and sensory neuron screening，showed normal performance of mito-ApaLI animals (Figures 4C-4E).
+
+To assess potential off-target effects on the nuclear genome, we performed comparative hybridization genomic (CHG) array and exome sequencing.CGH array indicated normal genomic integrity of mito-ApaLl animals (Figure S3C).Confirming this result,exome sequencing demonstrated variant rates in ApaLl containing exomic regions comparable to non-ApaLl exomic regions,excluding the possibility of off-target effects of mito-ApaLl (0.0014 versus O.oo47variants per hundred base pairs,respectively).Furthermore,mito-ApaLl animals were fertile,and RFLP
+
+![](images/e223bcf88647dcac7a79cc8f8380b0150cffafddc9c5db53cc6400c103790fd8.jpg)  
+Figure 2.Heteroplasmy Shift in NZB/BALB Embryos Usingmito-ApaLl
+
+(A) Injection of mito-ApaLI mRNA in one-cell embryos for induction of heteroplasmy shift.   
+(B)In vitro development of mito-ApaLl-injected embryos to blastocyst stage.Time-lapse images of EGFP reporter expression at different developmental stages.   
+(C)RFLP analysis and quantification of mtDNA heteroplasmy in control and mito-ApaLl-injected embryos (Control ${ \mathfrak { n } } = 1 0$ ：mito-ApaLl ${ \textsf { n } } = 8 )$ Representative gel.   
+(D) Quantification of mtDNA copy number by qPCR incontrol and mito-ApaLl-injected embryos (Control ${ \mathsf { n } } = 1 8$ mito-ApaLl ${ \mathsf n } = 1 2$ ）   
+Error bars represent $\pm$ SEM. $^ { \star \star \star } | \mathsf { p } < 0 . 0 0 1$ ： $\star \star \star _ { \mathsf { p } } <$ 0.0001. See also Figure S2.
+
+2008).In order to evaluate the use of mito-TALENs to prevent the transmission ofmitochondrial diseases,we tested the specific elimination of NZB mtDNA in NZB/BALB oocytes.For this purpose, we first generateda collection ofTALENs against NZB mtDNA and screened for a TALEN with the highest specificity against NZB mtDNA (Figures S5A-S5C). Under our design，the left monomer of the TALEN will bind to the common sequence of NZB and BALB mtDNA while the right monomer will preferentiallyrecognize and bind to NZB mtDNA,dictating the specific cleavage of NZB mtDNA upon dimerization of the Fokl nuclease (Figure S5A). NZB TALEN monomers were targeted to mitochondria by the human ATP5B and SOD2 mitochondria targeting sequence and the ATP5B and SOD2 ${ \boldsymbol { 5 } } ^ { \prime }$ analysesshowedbarelydetectable levels of BALBmtDNA in the F2 generation (Figures 4F and S4). These results confirm the feasibilityof mtDNA heteroplasmyshiftto prevent the transgenerational transmission of mitochondrial diseases.
+
+# Preventingthe TransmissionofMitochondrial Genomes Using Mito-TALENs
+
+Despite the broad range of over 200 mtDNA mutations associated with mitochondrial diseases,only the human mutation $\mathsf { m } 8 9 9 3 \mathsf { T } { \mathsf { > G } }$ responsible for two mitochondrial diseases:neurogenic muscle weakness，ataxia，and retinitis pigmentosa (NARP) and maternally inherited Leigh syndrome (MILS) generates a unique restriction site that can be targeted using the naturally occurring restriction endonuclease Xmal.For these reasons,alternative approaches to induce heteroplasmy shift based on the use of mitochondria-targeted transcription activator-like effector nucleases (TALENs) and zinc finger nucleases (ZFNs), which could be designed against virtuallyany mutation，have been recently developed by us and other groups (Bacman et al.，2013; Gammage et al.， 2014; Minczuk et al.， 2006;
+
+and $3 ^ { \prime }$ UTRs to promote co-translational import from mitochondrialassociated ribosomes (Marc et al.,2oo2). In addition，an EGFP or mCherry reporter was also included in the constructs encoding each TALEN monomer (Figure 5A).Once again,we tested the mitochondrial localization of the NZB TALEN by immunostaining in NZB/BALB tail tip fibroblasts (TTFs) and observedrobust co-localizationofmitochondria-targeted NZBTALEN monomers (hereafter NZB mito-TALEN) with the Mitotracker (Figure S5D). Analysis of mtDNA by RFLP demonstrated induction of heteroplasmy shift in NZB/BALB cells by a specific reduction ofNZB mtDNAafter72hr in cells transfected with NZB mito-TALENs compared to control cells transfected with mito-GFP (Figure S5E). In addition, similar to mito-ApaLl, we found normal mtDNA copy number in NZB mito-TALEN transfected cells resulting from the replication of the remaining BALB mtDNA that compensated for the reduction of NZB mtDNA (Figure S5F).
+
+We next decided to test whether mito-TALENs could be used in oocytes to specifically eliminate NZB mtDNA (Figure 5A). Fluorescent microscopy images revealed the expression of both
+
+![](images/8e8b2ccac149deebb2f23d7ebfb894d395e25d10fda48a923ea931b2817e433d.jpg)  
+Figure 3. Generation ofLive Animalsafter Induction of Heteroplasmy Shift in NZB/ BALB Embryos Using mito-ApaLl
+
+(A) Outline for the generation of live animalsafter injection of mito-ApaLl mRNA in one-cell embryos. (B)Representative photograph of F1 mito-ApaLl mice.   
+(C)RFLP analysis and quantification of mtDNA heteroplasmy in tail tip biopsies of embryo donors and generated F1mito-ApaLl pups. (Donor ${ \mathsf n } = 1 0$ · mito-ApaLl ${ \mathfrak { n } } = { \mathfrak { g } } _ { \mathrm { . } }$ 1   
+(D)RFLP analysis and quantification of mtDNA heteroplasmy in tail, brain,muscle,heart,and liver of F1mito-ApaLl mice.   
+(E) Quantification of mtDNA copy number by qPCR in F1 mito-ApaLl pups (Donor ${ \mathsf n } = 1 0$ F1mitoApaLl ${ \mathfrak { n } } = { \mathfrak { g } } _ { \mathrm { , } }$ 1   
+Errorbars represent $\pm$ SEM. $^ { \star \star \star \star } | _ { \mathsf { p } } < 0 . 0 0 0 1$ . See also Figure S3.
+
+(LHOND) and NARP (Jun et al., 1994; Taylor and Turnbull, 20o5). Due to the limited numberofavailable patientsand the difficulty in obtaining oocytes from these patients,we generated artificial mammalian oocytes carrying mutated genomes by cellular fusion of patient cells and mouse oocytes using Sendai virus (Figure 6A). Although thismodelhaslimitations compared to patient oocytes,it helped us to test the potential of our methodology for the specific elimination of pathogenic human mtDNAs in mammalian oocytes.
+
+For this purpose，we first tested the fusion of 143B osteosarcoma cybrid cells
+
+NZB mito-TALEN monomers as indicated by EGFP and mCherry expression in oocytes (Figure 5B).RFLP analysis 48 hrafter NZB mito-TALEN mRNA injection demonstrated the specific decrease of NZB mtDNA and a consequential increase in the relative BALB mtDNA levels (Figure 5C).RFLP analysis at the Hindlll region confirmed the specific reduction of NZB mtDNA upon injection of NZB mito-TALEN in NZB/BALB MIl oocytes (Figure S5G). Analysis of mtDNA copy number by qPCR revealed a decrease in mtDNA copy number following NZB mito-TALEN injection in oocytes inagreementwith the lack of mtDNA replication in oocytes (Figure 5D).These results demonstrate the potential of custom designed mito-TALENs for the specific elimination of mitochondrial genomes in the germline aimed at preventing the transmission of mitochondrial diseases.
+
+# Specific ReductionofHuman MutatedMitochondrial GenomesResponsible forMitochondrialDiseasesin Mammalian Oocytes
+
+In order to evaluate the potential of our approach to prevent the transmission of human mitochondrial diseases we decided to testthe use of mitochondria-targeted nucleasesagainstmutated mitochondrial genomes responsible for two mitochondrial diseases:Leber's hereditary optic neuropathy and dystonia harboring the LHOND m.14459G>A mutation to mouse Mll oocytes (Figure 6B).After $3 h r$ ，complete fusion was observed and no individual cellswere detected under the zona pellucida of oocytes (Figure 6B). LHOND-fused oocytes were incubated for 48 hr and collected for analysis.PCR analysis using primers specific against the human mtDNA region containing the LHOND $m . 1 4 4 5 9 G > A$ mutation allowed for the detection of LHOND mtDNA in fused oocytes (Figure S6A). Next, we tested whether the LHOND mito-TALEN that we have recently reported could be used for the specific elimination of LHOND mtDNA in oocytes (Bacman et al., 2013). For this purpose,Mll oocytes harboring LHOND mtDNA were injected with mRNA encoding the LHOND mito-TALEN 3 hr after cell fusion.Fluorescent microscopy images revealed the expression of both LHOND mito-TALEN monomers as indicated by EGFP and mCherry expression (Figure S6B).RFLP analysis 48 hr after mRNA injection demonstrated the specific reduction of LHOND mtDNA in fused oocytes (Figure 6C).Analysis of mtDNA copy number by qPCR confirmed a significant reduction of human mutated LHOND mtDNA upon injection of LHOND mito-TALENs in fused oocytes (Figure 6D). Finally,to demonstrate the potential of this approach against othermitochondrial diseases we decided to use a similar strategy to test the elimination of human mitochondrial genomes
+
+![](images/5a8614b4475e784ff86015621535fe4bdce54843dfce3d4c5a92139322e01186.jpg)  
+Figure4.CharacterizationofF1mito-ApaLlMice
+
+(A) Body weight of mito-ApaLl males (Control ${ \mathsf { n } } = 5$ and mito-ApaLl ${ \mathsf n } = 3 _ { \cdot } ^ { \prime }$ and mito-ApaLl females (Control ${ \mathsf { n } } = 5$ and mito-ApaLl ${ \mathsf n } = 6 )$ at different time points.ns, non-significant.   
+(B) Biochemical analysis of glucose and lactate in blood of control $( \mathsf { n } = 1 0 )$ and mito-ApaLl $( \mathsf { n } = \mathsf { 9 } )$ mice.ns,non-significant.   
+(C)Opeii (D)Rotarodtestevaluatinglocomotorcoordinationbasedonthelatencyatwhichafalloccursonagraduallacceleratingspiningod.   
+(E) Grip strength test measuring average and maximum grip force in the forelimbs.   
+(F) RFLP analysis and quantification of mtDNA heteroplasmy intailtip biopsies ofF2 mito-ApaLlpups.(F2 mito-ApaLl ${ \mathsf n } = 1 2$ ）   
+Errorbarsrepresent $\pm$ SEM. See also Figure S4 and Table S1. (A) Injection of NZB mito-TALEN mRNA in oocytes for induction of heteroplasmy shift.   
+(B)Expression of fluorescent reporters of NZB TALEN monomer in Mll oocytes.   
+(C)RFLP analysis and quantification of mtDNA heteroplasmy in control and NZB TALEN-injected oocytes after $4 8 ~ \mathsf { h r }$ (Control ${ \mathfrak { n } } = { \mathfrak { g } }$ ：NZBTALEN ${ \mathsf n } = 7 )$ .Representative gel.   
+(D) Quantification of mtDNA copy number by qPCR incontrol and NZB TALEN-injected oocytesafter $4 8 \mathsf { h r }$ (Control $n = 1 6$ ：NZBTALEN ${ \mathsf n } = 8 )$ ·   
+Errorbars represent $\pm$ SEM. $^ { \star \star } \mathsf { p } < 0 . 0 1$ ： $\star \star \star _ { \mathsf { p } } <$ $0 . 0 0 1$ . See also Figure S5.
+
+![](images/170f4c35da404e34ad7f05804534723627135fca2f777cd91941fe8186786b87.jpg)  
+Figure 5. Heteroplasmy Shift in NZB/BALB MIl Oocytes Using NZB Mito-TALEN
+
+NARP mitochondrial genomes in oocytes. As before，patient cells harboring the NARP $m . 9 1 7 6 7 > 0$ mutation were fused to Mll oocytes using Sendai virus and injected with NARP mito-TALEN3 hrafter fusion．Fluorescent reporters for both NARP mito-TALEN monomerswere observed in oocytes as indicated by EGFP and mCherry expression (Figure S6l)． RFLP analysis 48 hr after mRNA injection demonstrated the specific reduction of NARP mtDNA in fused oocytes (Figure 6E).Analysis of mtDNA copy number by qPCR confirmed a significant reduction of human mutated NARP mtDNA upon injection of NARP mitoTALENs in fused oocytes (Figure 6F). We speculate that the low levels of wild-type mtDNA carriedby the NARP patient cells, togetherwith the lack of mtDNA replicationin oocytes,might be the reason why wefail to detecta significant increase in wild-type human mtDNA upon NARP carrying the mutation NARP $m . 9 1 7 6 \mathsf { T } \mathsf { > C }$ .For this purpose,we first generated a collection of TALENs against NARP mtDNA and screened fora TALEN with the highest specificity against the mutation NARP $m . 9 1 7 6 7 > 0$ (Figures S6C-S6E). NARP mito-TALEN monomers were targeted to mitochondria by the ATP5B and SOD2 mitochondria targeting sequence and the ATP5B and SOD2 ${ \boldsymbol { 5 } } ^ { \prime }$ and $3 ^ { \prime }$ UTRs (Figure 6A). Immunostaining in NARP patient cells revealed a robust co-localization of mitochondria-targeted NARP mito-TALEN monomers with the mitochondrial dye Mitotracker (Figure S6F).Subsequently,we tested the induction of heteroplasmy shift by NARP mito-TALEN using immortalized NARP patient cells.Analysis of mtDNA by RFLP demonstrated induction of heteroplasmy shift in NARP cells witha reduction in NARP mtDNA after72 hr in cells transfected with the NARP mito-TALEN compared to cells transfected with mito-GFP (Figure S6G). In addition,we found normal mtDNA copy numbers in NARP mito-TALEN transfected cells resulting from the replication of the remaining mtDNA (Figure S6H). Next,similar to LHOND,we tested the specific elimination of mito-TALEN injection. Collectively, these results confirm the potential of custom-designed mito-TALENs for the specific elimination of clinically relevant mutated mitochondrial genomes responsible for human mitochondrial diseases in the germline.
+
+# DISCUSSION
+
+Insummary，we report here on novel strategies for preventing germline transmission of mitochondrial diseases through the induction of mtDNA heteroplasmy shift in oocytes and embryos. As a proof of concept,we used a heteroplasmic mouse model carrying two different mtDNA haplotypes: NZB and BALB.First, we demonstrated that injectionof mRNAencodingmitochondria-targeted ApaLl restriction enzyme into oocytes,as well as into onecell embryos,led to the generation of live animals with significantly reduced levels of the BALB mtDNA haplotype.These animals displayed normal behavior,development,gross genomic integrity and fertility.Moreover,their progeny (F2 generation) maintained significantly reduced levels of BALB mtDNA.These results demonstrate the potential of germline heteroplasmyshiftto prevent the transgenerational transmission of mitochondrial genomes.Inaddition,injection of mRNAencoding mitochondria-targeted NZB mito-TALEN into oocytes led to a significant reduction of NZB mtDNA levels.Finally, fusion of human patient cells carrying mtDNA mutations to mouse oocytes followed by injection of mito-TALENsagainst these mutations demonstratedaspecific reduction in the levels of mutated mtDNA.
+
+![](images/bc905378869d09586ab08580b4b0724ed13367cf53a8896d199de958c0223fd4.jpg)  
+Figure 6.Specific Elimination of Human LHOND m.14459G>A and NARPm.9176T>C Mutations in Mammalian Oocytes Using Mito-TALENs
+
+(A) Fusion of human cells harboring LHOND $\mathsf { m } . 1 4 4 5 9 \mathsf { G } { \mathsf { } } { \mathsf { } } { \mathsf { A } }$ and NARP m.9176T>C mutations with mouse Mll oocytes followed by the injection of mito-TALENs for induction of heteroplasmy shift.
+
+The use of restriction nucleases for the induction of heteroplasmy shift has been previously demonstrated in the NZB/ BALB mouse as well as in patient somatic cells by us and other groups (Alexeyev et al., 2008; Bacman et al., 2010; 2012). However,the application of restriction enzymes to target clinically relevantmutations is limited to only $\mathsf { m } 8 9 9 3 \mathsf { T } { \mathsf { > G } }$ ,which is responsible for some cases of NARP and MILS,a mutation that generates a unique restriction site that can be targeted using the restriction endonuclease Xmal (Alexeyev et al., 2oo8).Theuse of other approaches using different types of nucleases including TALENs might allow for the custom-designed targeting of a wider range of human mitochondrial mutations responsible for mito
+
+(B)Representative images of Mll oocytes before and after cell fusion.   
+(C) RFLP analysis and quantification of LHOND heteroplasmy in individual Mll oocytes with and without LHOND TALEN injection after $4 8 \mathsf { h r }$ (Fusion ${ \mathsf n } = 3$ ；Fusion $^ +$ TALEN ${ \mathsf n } = 3 )$ ：   
+(D) Quantification of human mtDNA copy number by qPCR in individual Mll oocytes with and without LHOND TALEN injection after $4 8 \mathsf { h r }$ (Fusion ${ \mathsf n } = 4$ Fusion $^ +$ TALEN ${ \mathsf { n } } = 4 _ { . } ^ { \cdot }$ 1   
+(E)RFLP analysis and quantification of NARP heteroplasmy in individual Mll oocytes with and without NARPTALEN injection after $4 8 \ \mathsf { h r }$ (Fusion ${ \mathsf n } = 7$ ；Fusion $^ +$ TALEN ${ \mathsf n } = 3 _ { \cdot } ^ { \prime }$ 1   
+(F) Quantification of human mtDNA copy number byqPCRin individual Mlloocyteswithandwithout NARP TALEN injection after $4 8 \ \mathsf { h r }$ (Fusion ${ \mathsf { n } } = 1 7$ Fusion $^ +$ TALEN ${ \mathfrak { n } } = { \mathfrak { g } } _ { \ }$ 1   
+Errorbars represent $\pm$ SEM. ${ \bf \star } _ { \mathsf { p } < 0 . 0 5 }$ $^ { \star \star \star } \mathsf { p } < 0 . 0 0 1$ See also Figure S6.
+
+chondrial diseases.Along this line,several reports have recently demonstrated the use of mitochondria-targeted TALENs and zinc finger nucleases (ZFNs) for the specific elimination of mutated mitochondrial genomes in somatic cells (Bacman et al., 2013; Gammage et al., 2014; Minczuk et al., 2006; 2008). When compared to mitochondria-targeted restriction endonucleases, the use of mito-TALENs for preventing transmission of mitochondrial diseases in the germline may be less robust.However,we speculate that their therapeutic use will achieve specific reduction of mutated mitochondrial genomes below the threshold levels $( 6 0 \% - 9 5 \% )$ required for biochemical and clinical defects to manifest (Russell and Turnbull,2014). In addition, we anticipate that the future development and application of more specific and efficient gene editing technologies will allow for a greater reduction of mutated mtDNA levels in the germline.
+
+Transmission of mitochondrial diseases by female carriers directly correlates with the levels of mutated mtDNA present in oocytes.In many cases,asymptomatic female carrierswith intermediate levels of mutant load may produce oocytes with different ranges of mutated mtDNA (Chinnery et al.， 20o0; Cree et al., 2009). Due to the lack of mtDNA replication in oocytes and preimplantation embryos,targeting of mutated mtDNAin oocytes with high mutant loads using the approach presented here may lead to a dramatic reduction in mtDNA copy number.In mice,embryos with mtDNA levels below a specific threshold develop normally during the pre-implantation stages but subsequently fail to implant in the uterus orundergo development arrest (Wai et al., 2010).Consequently,oocytes containing high levels of mutated mtDNA that are subjected to heteroplasmy shift may result in embryos with low mtDNA copy number that may fail to implant in the uterine wall.In this case,though heteroplasmy shift may notresult in a viable embryo,it would attain the goal of hampering the development and implantation of embryos with high mutant loads,thereby preventing the transmission of mitochondrial diseases to the next generation.In this scenario,PGD could be used asa complementary approach to select embryos with mtDNA copy numbers sufficient for implantation.
+
+Due to the non-Mendelian segregation of mtDNA,current therapeutic approaches，including genetic counseling and PGD，can only partially reduce,but not eliminate,the risk of transmission of mitochondrial diseases (Brown et al.,2006). The recent development of mitochondrial replacement techniquesbased on spindle，pronuclear，or polarbody transfer into healthy enucleated donor oocytes or embryos,soon to be allowed in the UK and currently under review by US regulatoryagencies,represent a valid and powerful alternative to current approaches (Craven et al., 2010; Paull et al., 2013; Tachibana et al.，2013；Wang et al.，2014). Mitochondrial replacement techniques involveaseries of complextechnical manipulations of nuclear genome between patient and donor oocytes that will result in the generation of embryos carrying genetic material from three different origins. For these reasons,mitochondrial replacement techniques have raised biological, medical, and ethical concerns (Hayden,2013;Reinhardt et al.,2013).Despite their great potential,more studies arestill required to show that these techniques are safe in human oocytes.The approach presented here relies ona single injection of mRNA into patient oocytes，which is technically simpler and less traumatic to the oocyte compared to mitochondrial replacement techniques (Craven etal.，2010；Paull et al., 2013; Tachibana et al., 2013; Wang et al., 2014). Importantly,it does not require healthy donor oocytes,thus avoiding ethical issues related to the presence of donor mtDNA.
+
+Induction of mtDNA heteroplasmy shift using restriction endonucleases or TALENs has the potential to eliminate mutated mitochondrial genomes in the germline,and consequently,prevent the transgenerational transmission of mitochondrial diseases.In addition，since mtDNA mutations in the germline have been recently linked to aging (Ross et al.,2013), this strategy could also be applied to prevent the transmission of mtDNA variants with potential roles in aggravating aspects of human agingand age-associated diseases.
+
+mito-ApaLland the fluorescentmarker.Subsequently,the fragmentdescribed was subcloned into the pcDNA3 plasmid containing a T7 promoter for in vitro transcription.For the generation of the mito-GFP construct, EGFP was subcloned into the previously described pVAX construct lacking the independent fluorescent marker and the recoded picornaviral 2A-like sequence (T2A') but containinga T7 promoter.For the generation of ApaLl construct,ApaLl RE was subcloned into the previously described pVAX plasmid lacking the N terminus mitochondria localization signal derived from ATP5B and the ${ \boldsymbol { 5 } } ^ { \prime }$ and $3 ^ { \prime }$ UTRs from ATP5B with a T7 promoter. Cloning was done using the In-Fusion HD cloning kit (Clontech Laboratories).
+
+# Construction of Mito-TALENs
+
+TALEN target sites for NZB and NARP m.9176T>C were identified using the TAL effector-Nucleotide Targeter (TALE-NT) software (Christian et al., 2010). To increase TALEN specificity,TALEN with targeting sequences of various lengths ranging from 7.5 to 13.5 base pairs were designed.TALENs were constructed into the TALEN cloning vector of theTALEToolbox kit from Addgene (cat#1000000019) (Sanjana et al.，2012)，and the TALENs recognizing the target sites were constructed using the Golden Gate Assembly method. Mito-TALEN，were constructed by addition of mitochondria localization signals derived from ATP5B or SOD2 mitochondria localization signal,inclusion of a unique immuno-tag in the N terminus of the mature protein (hemagglutinin [HA] or Flag),inclusion of the ${ \boldsymbol { 5 } } ^ { \prime }$ and $3 ^ { \prime }$ UTRs from ATP5B or SOD2, inclusion of an independent fluorescent marker to select for expression (EGFP in one monomer and mCherry in the other) and inclusion of a recoded picornaviral 2A-like sequence (T2A')between the mito-TALEN and the fluorescent marker.
+
+# Animals
+
+All animal procedures were performed according to NiH guidelines and approved by the Committee on Animal Care at Salk Institute.NZB/BALB heteroplasmic founder females were originally generated (Jenuth et al.,1996). NZB/BALB colony was maintained by breeding the females with BALB/cByJ males.Tail tip genotyping was routinely performed in order to exclude females carrying low levels of one of the two mtDNA haplotypes.BALB/c,BALB/cByJ and NZB mice were obtained from Jackson laboratory.
+
+# Cells, Transfection, and Sorting
+
+Simian virus 40 (SV40) immortalized NZB/BALB fibroblasts containing NZB and BALB mtDNA were derived from tailtip of NZB/BALB mice.Human patient cells harboring the NARP $m . 9 1 7 6 7 > 0$ mutation were obtained by skin biopsy after signed informed consent of the donor and with the approval of the Institutional Review Board of the Hospital Clinic,Spain.Cells were immortalized using SV40 and cultured at $3 7 ^ { \circ } \mathsf { C }$ in DMEM (Invitrogen) containing GlutaMAX, non-essential amino acids and $10 \%$ fetal bovine serum (FBS).143B osteosarcoma cybrid cells harboring the LHOND m.14459G>A mutation were obtained and cultured as previously described (Bacman et al.,2013). Cells were transfected with Lipofectamine 2ooo (lnvitrogen) according to the manufacturer's instructions.After $7 2 \mathsf { h r }$ ,cells were sorted using a BD Influx (Becton, Dickinson and Company) by gating on single-cellfluorescence using a 488-nm laserwith a 505LP,530/40 filter set for EGFP anda 561-nm laserwitha 600LP,610/20 filter set for mCherry.Total DNA was extracted from sorted cells using the DNeasy Blood and Tissue Kit (QlAGEN) following the protocol suggested by the manufacturer.
+
+# Single Strand Annealing Reporter Assay
+
+Please refer to Extended Experimental Procedures.
+
+# EXPERIMENTALPROCEDURES
+
+# Plasmids
+
+Asynthetic gene coding for the ApaLl restriction endonuclease with a C-terminal HA (Hemagglutinin antigen) tag was purchased from Integrated DNA Technologies (Coralville) with codon usage optimized for mammalian translation. For the generation of the mito-ApaLl construct,ApaLl was subcloned into the pVAX plasmid containing the mitochondria localization signal derived from ATP5B,a unique Flag immunotag in the N terminus, ${ \boldsymbol { 5 } } ^ { \prime }$ and $3 ^ { \prime }$ UTR from ATP5B to localize the mRNA to ribosomes associated with mitochondria,an independent fluorescent marker to select for expression (enhance GFP [EGFP])and a recoded picornaviral 2A-like sequence (T2A） between the
+
+# ProductionofmRNA
+
+In vitro transcription of mRNA was performed using mMESSAGE mMACHINE T7 ULTRA kit (Life Technologies) according to the manufacturer's instructions using linearized and gel purified (QIAGEN) plasmid template.The mRNA was purified using MEGAclear kit (Life Technologies) and quantified using NanoDrop 8000 (Thermo Scientific).
+
+# Oocyte CollectionandmRNA Injection
+
+Female mice were superovulated with pregnant mares serum gonadotropin (PMSG)and human chorionic gonadotropin (hCG)．Mll oocytes were collected $1 4 ~ \mathsf { h r }$ after hCG injection in M2 medium (Millipore) and freed of cumulus cells using hyaluronidase.For collection of 1-cell embryos,superovulated female mice were mated to BALB/c males and fertilized embryos were collected 18-20 hr after hCG injection from oviduct.mRNA $( 5 0 -$ $2 5 0 \mathrm { \ n g / \mu l } ,$ ）was injected into the cytoplasm of Mll oocytes and fertilized embryos in M2 medium using Eppendorf micromanipulator.The injected MII oocyteswere in vitro cultured in KSOM (Millipore) for $4 8 ~ \mathsf { h r }$ before analysis.The injected embryos were cultured in KSOM at $3 7 ^ { \circ } \mathsf { C }$ under $5 \%$ （204号 ${ \mathsf { C O } } _ { 2 }$ inair until blastocyst stage.Subsequently，blastocysts were collected for analysis or transferred to BALB/c pseudopregnant females.Live pupswere obtained by natural delivery.
+
+# Cell Fusion
+
+Cell fusion was achieved by using inactivated Sendai virus (GenomeOne, Cosmo Bio).Sendai virus stock solutions were prepared according to the manufacturer instructions and further diluted 1:20 in cell fusion buffer. The 143B osteosarcoma cybrid cells harboring LHON $m . 1 4 4 5 9 mathsf { G } { \mathsf { > A } }$ mutation and patient cells harboring NARP m9176T>C mutation were used for fusionwith mature Mll oocytes.Cells were cultured for $4 8 \mathsf { h r }$ in DMEM no glucose medium supplemented with galactose before using for cell fusion to increase mtDNA content. On the day of fusion, cells were trypsinized and resuspended in M2 medium.For each Mll oocyte,five cells briefly placed in Sendai virus were injected under the zona pellucida.After 3 hr successfully fused oocytes were selected for mito-TALEN mRNA injection.Lastly,surviving oocytes were cultured in KSOM for $4 8 \mathsf { h r }$ beforeanalysis.
+
+# Immunofluorescence
+
+Cells were seeded on coverslips before transfection.Forty-eight hours after transfection cells were incubated in the presence of $3 5 0 { \mathsf { n M } }$ Mitotracker (Invitrogen) for $3 0 \mathrm { m i n }$ Subsequently,cells were fixed and permeabilized with $4 \%$ PFA and $0 . 1 \%$ Triton X-10o,respectively.After fixation,cells were blocked for1 hr at room temperature with $1 \%$ BSA/PBS.Next, cells were incubated with an antiFlag M2 primary antibody (Sigma) or anti-HA antibody (Millipore) overnight at $4 ^ { \circ } \mathsf { C }$ .The next day,cells were washed three times with PBS and incubated for 1 hrat room temperature with Alexa Fluor 488-conjugated donkey antibodies to goatIgG(Molecular Probes)or Alexa Fluor 647-conjugated donkey antibodies to mouse IgG and 10 min with Hoechst 33342 $0 . 5 \mu \ g \mathsf { m } \mathsf { l } ^ { - 1 }$ in PBS) (Invitrogen). Finally,cells were washed three times with PBS and mounted using Fluoromount-G (Southernbiotech). Confocal image acquisition was performed using a Zeiss LSM 780 laser-scanning microscope (Carl Zeiss Jena).
+
+# "Last-Cycle Hot" PCR and RFLP
+
+Total DNA from cells,tail biopsies,and oocytes/embryos were used to determine mtDNA heteroplasmy by“Last-cycle hot"PCR using the mtDNA ${ \boldsymbol { 5 } } ^ { \prime }$ Fluorescein amidite (FAM) labeled primers as listed in Table S2.NZB/ BALB PCR products were digested with ApaLl or Hindll,which digests BALB mtDNA at positions 5461 (ApaLl targeting site) and 9136 respectively. NARP PCR products were digested with Bsrl which digest mutated NARP mtDNA at position 9176.The levels of LHON m.14459G>A were determined as previously reported (Bacman et al.，2013).Digested PCR products were subjected to electrophoresis in an $12 \%$ polyacrylamide gel.The fluorescein signal was quantified using a Typhoon 86oo system (Molecular Dynamics) and gels were quantified using ImageQuant 5.2 (Molecular Dynamics).
+
+# QuantificationofmtDNA CopyNumber
+
+Absolute mtDNA copy numbers were quantified by real-time PCR using iQSyber Green on Bio-Rad iCycler (Bio-Rad). Individual oocytes and embryos were transferred into lysis buffer $( 2 0 0 \ m \mathsf { M } \ \mathsf { K O H } )$ and incubated for 10 min at $6 5 ^ { \circ } \mathsf { C }$ .The reaction was neutralized by addition of $2 0 0 \ \mathsf { m M } \ \mathsf { H C l }$ Absolute mtDNA copy number per $1 \mu \mu \mu$ of lysate was calculated using a standard curve derived from the Q-PCR amplification of a fragment of mtDNA genome.First,a standard curve was generated by a 10-fold serial dilution of a PCR product obtained using Standard curve primers for the different regions of mtDNA analyzed.Subsequently,to quantify the absolute levels of mtDNA,quantitative real-time PCR was performed using qPCR primers listed in Table S2.
+
+# Bloodand Plasma Parameters
+
+Blood collection was performedby sub-mandibular bleeding.Whole EDTAblood sampleswere analyzed in duplicates for Complete Blood Count (CBC)on a Hemavet 950FS Multi Species Hematology System (Drew Scientific).Plasma glucose concentration was determined using the Glucose(GO) Assay Kit(Sigma) according to the manufacturer's instructions.Plasma lactate concentration was determined using the Lactate Assay Kit (Sigma) according to the manufacturer's instructions.Please referto Extended Experimental Procedures.
+
+# BehavioralAnalysis
+
+Behavioral testing was carried outat the Salk Institute for Biological Studies Behavioral Testing Core.Basic sensorimotor function was assessed in the Open Field Test，Rotarod,Grip Strength,and Neurological Screen.Please refer to Extended Experimental Procedures.
+
+# ArrayComparativeGenomic Hybridization
+
+aCGHwas performed following Agilent Oligonucleotide Array-Based CGH for Genomic DNAAnalysis (AgilentTechnologies,Santa Clara,CA).Please refer to Extended Experimental Procedures.
+
+# Exome Capture and High-Throughput Sequencing
+
+Exome capture was using the SeqCap EZ Mouse Exome Design probe pool (54 Mb,NimbleGen) according to the manufacturer's protocol.Please refer to Extended Experimental Procedures.
+
+# StatisticalEvaluation
+
+Statistical analyses were performed by using standard unpaired Student's t test with Welch's correction using Prism 6 software (GraphPad).All data are presented as mean $\pm$ SEM and represent a minimum of two independent experiments.Statistical significance is displayed as ${ ^ { \star } \mathsf { p } } < 0 . 0 5$ P $^ { \star \star } \mathsf { p } < 0 . 0 1$ $^ { \star \star \star } \mathsf { p } < 0 . 0 0 1$ ，and $^ { \star \star \star \star } \mathsf { p } < 0 . 0 0 0 1$ ：
+
+# ACCESSIONNUMBERS
+
+The GEO database accession number for the aCGH data sets reported in this paper is GSE67371.The GEO accession number for the exome sequencing data sets reported in this paper is SRP056327.
+
+# SUPPLEMENTALINFORMATION
+
+Supplemental Information includes Extended Experimental Procedures,six figures,and two tables and can be found with this article online at http://dx. doi.org/10.1016/j.cell.2015.03.051.
+
+# AUTHORSCONTRIBUTIONS
+
+P.R.,A.O.,C.T.M.,and J.C.I.B. designed all experiments.P.R, A.O., I.S-M., and J.C.I.B. prepared the figures and wrote the manuscript.P.R.,A.O.,K.S., S.R.B.,Y.T.,J.W.,D.L.,X.X.,N.M.,and C.R.E., performed and analyzed all in vitro experiments.P.R.,A.O., J.L.,A.S.,and D.O.performed and analyzed all in vivo experiments. S.R.B., S.L.W.,G.H.L.,D.M., S.C.,M.d.M.O'C.,H.Z., and C.T.M.provided reagents.F.C.,J.C.,and J.M.C.contributed to the design of the project.
+
+# ACKNOWLEDGMENTS
+
+We thank M.Schwarz for administrative support.We thank S. Heinz and M.M. Ku from H.A.and Mary K.Chapman Charitable Foundations Genomic Sequencing Core at the Salk Institute for help with sequencing analysis.We thank M.Chang from the Integrative Genomics and Bioinformatics Core at the Salk Institute for sequencing data analysis.We thank C.B.Farrokhi from the Behavioral Testing Core at the Salk Institute for help with behavioral studies.We thank Eric Shoubridge from McGill University,Montreal, Canada for sharing with us the NZB/BALB/c heteroplasmic mice.We thank Julio Montoya Villarroya from the University of Zaragoza, Zaragoza, Spain,and Ma Angeles Ruiz Gómez from the Hospital de Son Espases,Palma de Mallorca,
+
+Spain. Financial support: M.M. Ku and S. Heinz are supported by the Leona M. and Harry B. Helmsley Charitable Trust.A.O.was partially supported by an NIH Ruth L. Kirschstein National Research Service Award Individual Postdoctoral Fellowship.G.-H.L.was supported by National Basic Research Program of China (973 Program，2015CB964800；2014CB964600)，the Strategic Priority Research Program ofthe Chinese Academy of Sciences (XDA01020312)，National Natural Science Foundation of China (NSFC: 81271266;31222039;31201111;81371342). C.T.M.was supp0rted by NIH grants 5R01EY010804,1R01AG036871, the JDM Fund, the Muscular Dystrophy Association and the United Mitochondrial Disease Foundation. S.L.W.is supported by Florida Department of Health Grant 3KNo9.Work in the laboratory of J.C.l.B.was supported by the G.Harold and Leila Y.Mathers Charitable Foundation and the Leona M.and Harry B. Helmsley Charitable Trust (2012-PG-MED002).
+
+Received:February2,2015   
+Revised:March 5,2015   
+Accepted:March 25,2015   
+Published:April 23,2015
+
+# REFERENCES
+
+Alexeyev,M.F.,Venediktova,N.,Pastukh,V., Shokolenko,I., Bonilla,G.,and Wilson,G.L. (2oo8). Selective elimination of mutant mitochondrial genomes as therapeutic strategy for the treatment of NARP and MILS syndromes. Gene Ther.15,516-523.   
+Alexeyev,M., Shokolenko,I.,Wilson,G.,and LeDoux, S.(2013).The maintenance of mitochondrial DNA integrity-critical analysis and update.Cold Spring Harb.Perspect. Biol.5,a012641-a012641.   
+Anderson,S.,Bankier,A.T.,Barrell,B.G.,de Bruijn,M.H., Coulson,A.R.,Drouin, J., Eperon,I.C., Nierlich,D.P.,Roe,B.A., Sanger,F.,et al.(1981).Sequence and organization of the human mitochondrial genome.Nature 290,457-465. Bacman，S.R.，Williams，S.L.，Garcia，S.，andMoraes，C.T.(2010). Organ-specific shifts in mtDNA heteroplasmy following systemic delivery of a mitochondria-targeted restriction endonuclease.Gene Ther.17,713-720. Bacman, S.R.,Williams, S.L., Duan, D.,and Moraes, C.T.(2012).Manipulation of mtDNA heteroplasmy in all striated muscles of newborn mice by AAV9- mediated delivery of a mitochondria-targeted restriction endonuclease. Gene Ther.19,1101-1106.   
+Bacman,S.R.,Wiliams,S.L.,Pinto,M.,Peralta,S.,and Moraes,C.T.(2013). Specific elimination of mutant mitochondrial genomes in patient-derived cells by mitoTALENs.Nat.Med.19,1111-1113.   
+Brown,D.T.,Herbert,M., Lamb,V.K.,Chinnery,P.F.,Taylor,R.W.,Lightowlers,R.N.,Craven,L.,Cree,L.,Gardner, J.L.,and Turnbull, D.M. (2006). Transmission of mitochondrial DNA disorders: possibilities for the future. Lancet 368,87-89.   
+Chinnery,P.F.,Thorburn, D.R., Samuels,D.C.,White, S.L., Dahl, H.M.,Turnbull,D.M.,Lightowlers,R.N.,and Howell, N. (2ooO).The inheritance of mitochondrial DNA heteroplasmy: random drift,selection or both? Trends Genet. 16,500-505.   
+Christian,M.,Cermak,T., Doyle,E.L., Schmidt, C.,Zhang,F.,Hummel,A., Bogdanove，A.J.，and Voytas,D.F. (201O).Targeting DNA double-strand breaks with TAL effector nucleases.Genetics 186,757-761.   
+Craven,L.,Tuppen,H.A.,Greggains,G.D.,Harbottle,S.J.,Murphy,J.L., Cree, L.M.,Murdoch,A.P.,Chinnery,P.F.,Taylor, R.W.,Lightowlers,R.N.,et al. (2010).Pronuclear transfer in human embryos to prevent transmission of mitochondrial DNA disease.Nature 465,82-85.   
+Cree,L.M., Samuels, D.C.,and Chinnery,P.F.(20o9).The inheritance of pathogenic mitochondrial DNA mutations.Biochim.Biophys.Acta 1792,1097- 1102.   
+Dyall, S.D.,Brown,M.T.,and Johnson,P.J.(20o4).Ancient invasions:from endosymbionts to organelles. Science 304,253-257.   
+Gammage，P.A.，Rorbach,J.，Vincent,A.I.，Rebar,E.J.，and Minczuk，M. (2014).Mitochondrially targeted ZFNs for selective degradation of pathogenic mitochondrial genomes bearing large-scale deletions or point mutations. EMBO Mol. Med.6,458-466.   
+Haas,R.H.,Parikh,S., Falk,M.J.,Saneto,R.P.,Wolf, N.I.,Darin,N.,and Cohen,B.H.(2oo7).Mitochondrial disease: a practical approach for primary care physicians.Pediatrics 120,1326-1333.   
+Hayden,E.C. (2013).Regulators weigh benefits of‘three-parent' fertilization. Nature 502,284-285.   
+Jenuth,J.P.,Peterson,A.C.,Fu,K.,and Shoubridge,E.A.(1996).Random genetic drift in the female germline explains the rapid segregation of mammalian mitochondrial DNA. Nat. Genet.14,146-151.   
+Jun，A.S.，Brown，M.D.，and Wallace,D.C.(1994).A mitochondrial DNA mutation at nucleotide pair 14459 of the NADH dehydrogenase subunit 6 geneassociated with maternally inherited Leber hereditary optic neuropathy and dystonia. Proc. Natl. Acad.Sci. USA 91,6206-6210.   
+Marc,P.,Margeot,A.,Devaux,F.,Blugeon,C.,Corral-Debrinski,M.,and Jacq, C. (2002). Genome-wide analysis of mRNAs targeted to yeast mitochondria. EMBO Rep.3,159-164.   
+Minczuk,M.，Papworth,M.A.，Kolasinska,P.，Murphy，M.P.,and Klug,A. (2006).Sequence-specific modification of mitochondrial DNA using a chimeric zinc finger methylase.Proc.Natl.Acad. Sci. USA 103,19689-19694.   
+Minczuk,M.,Papworth,M.A., Miller,J.C., Murphy,M.P.,and Klug,A. (2008). Development of a single-chain,quasi-dimeric zinc-finger nuclease for the selective degradation of mutated human mitochondrial DNA. Nucleic Acids Res. 36,3926-3938.   
+Paull,D., Emmanuele,V.,Weiss,K.A.,Treff,N., Stewart,L., Hua, H.,Zimmer, M.,Kahler,D.J.，Goland,R.S., Noggle,S.A.，et al. (2013). Nuclear genome transfer in human oocytes eliminates mitochondrial DNA variants.Nature 493,632-637.   
+Reinhardt, K., Dowling,D.K.,and Morrow,E.H.(2013).Medicine.Mitochondrial replacement,evolution,and the clinic.Science 341,1345-1346.   
+Rogers,D.C.,Fisher,E.M.,Brown,S.D.,Peters,J., Hunter, A.J.,and Martin, J.E.(1997). Behavioral and functional analysis of mouse phenotype: SHIRPA, a proposed_protocol for comprehensive phenotype assessment. Mamm. Genome 8,711-713.   
+Ross,J.M.,Stewart,J.B.,Hagstrom,E.,Brené,S.,Mourier,A.,Coppotelli, G., Freyer,C.,Lagouge,M., Hoffer,B.J., Olson,L.,and Larsson,N.G. (2013). Germline mitochondrial DNA mutations aggravate ageing and can impair brain development. Nature 501,412-415.   
+Russell, O.，and Turnbull, D.(2014).Mitochondrial DNA disease-molecular insights and potential routes to a cure. Exp.Cell Res.325,38-43.   
+Sanjana,N.E.,Cong,L., Zhou,Y.,Cunniff,M.M.,Feng,G.,and Zhang,F. (2012).Atranscription activator-like efector toolbox for genome engineering. Nat. Protoc.7,171-192.   
+Shoubridge,E.A.,and Wai,T. (20o7). Mitochondrial DNA and the mammalian oocyte. Curr.Top.Dev. Biol.77,87-111.   
+Tachibana,M.,Amato,P.,Sparman,M.,Woodward,J.,Sanchis,D.M.,Ma,H., Gutierrez，N.M.，Tippner-Hedges，R.，Kang，E.，Lee，H.-S.，et al. (2013). Towards germline gene therapy of inherited mitochondrial diseases.Nature 493,627-631.   
+Taylor，R.W.，and Turnbull, D.M. (2005).Mitochondrial DNA mutations in human disease. Nat. Rev. Genet. 6,389-402.   
+Vogel,G. (2014).Assisted reproduction.FDA considers trials of ‘three-parent embryos'. Science 343,827-828.   
+Wai,T.,Ao,A.,Zhang,X.,Cyr,D.,Dufort,D.,and Shoubridge,E.A. (2010).The role of mitochondrial DNA copy number in mammalian fertity. Biol. Reprod. 83,52-62.   
+Wallace,D.C.,and Chalkia,D.(2013). Mitochondrial DNA genetics and the heteroplasmy conundrum in evolution and disease.Cold Spring Harb.Perspect. Biol. 5,a021220.   
+Wang,T., Sha,H.,Ji, D., Zhang,H.L., Chen, D., Cao,Y.,and Zhu,J. (2014). Polar body genome transfer for preventing the transmission of inherited mitochondrial diseases. Cell 157,1591-1604.

@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "刺蒺藜提取物对断奶仔猪生长性能和血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李泽磊 李美荃\\* 刘水灵 车丽涛 蒋晓旭 郭荣富\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（云南农业大学动物科学技术学院，云南省动物营养与饲料重点实验室，昆明 650201)摘要：本试验旨在探究刺蒺藜提取物（Tribulus terrestris extract，TTE）对断奶仔猪生长性能、养分表观消化率、血清抗氧化指标及五羟色胺（5-HT）含量的影响。选用（37±2）日龄的\"杜 $\\times$ 长 $\\times$ 大\"断奶仔猪128头，随机分成4个组，每组4个重复，每个重复8头猪。分别饲喂在基础饲粮中添加0、125、250 和 $5 0 0 ~ \\mathrm { m g / k g }$ TTE 的试验饲粮，试验期 $2 8 \\textup { d }$ 。分别于51 和65 日龄时称取空腹体重，收集血液和粪便，测定血清抗氧化指标和5-HT 含量以及养分表观消化率。结果表明：1）随饲粮 TTE 添加水平的增加，断奶仔猪的平均日增重（ADG)和平均日采食量（ADFI）增加，料重比（F/G）降低；与对照组相比， $5 0 0 \\mathrm { m g / k g }$ 组 37\\~51、51\\~65 和37\\~65日龄时的 ADG 分别显著提高 $1 8 . 6 5 \\%$ 、 $1 7 . 6 2 \\%$ 和 $1 8 . 1 0 \\%$ ( $_ { \\it P \\mathrm { < } 0 . 0 5 }$ )。2）饲粮添加TTE 能提高断奶仔猪的干物质（DM）、粗蛋白质（CP）和粗灰分（Ash）表观消化率；与对照组相比， $2 5 0 \\mathrm { m g / k g }$ 组 49\\~51日龄时的CP 表观消化率显著提高 $5 . 3 8 \\%$ （ $. P { < } 0 . 0 5 \\ '$ )，49\\~51 和 $6 3 { \\sim } 6 5$ 日龄时的Ash 表观消化率分别显著提高 $2 2 . 9 6 \\%$ 和 $5 2 . 4 6 \\%$ （ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )。3）饲粮添加 TTE 能提高断奶仔猪血清谷胱甘肽过氧化酶（GSH- $\\mathbf { \\nabla \\cdot P x }$ ）和过氧化氢酶（CAT）活性，降低血清丙二醛（MDA）含量。与对照组相比，51日龄时，250 和 $5 0 0 \\mathrm { m g / k g }$ 组的血清CAT活性分别显著提高 $9 9 . 4 2 \\%$ 和 $1 1 4 . 5 3 \\%$ （ $\\scriptstyle \\cdot < 0 . 0 5 .$ ， $5 0 0 \\mathrm { m g / k g }$ 组的血清 MDA 含量极显著降低$4 6 . 9 8 \\%$ （ $_ { P < 0 . 0 1 }$ )；65日龄时，250和 $5 0 0 \\mathrm { m g / k g }$ 组的血清MDA含量分别极显著降低 $5 3 . 5 7 \\%$ 和 $57 . 7 4 \\%$ （ $_ { \\scriptstyle P < 0 . 0 1 }$ )。4）饲粮添加 TTE 能提高断奶仔猪的血清 5-HT 含量；与对照组相比，$2 5 0 ~ \\mathrm { m g / k g }$ 组65 日龄时的血清 5-HT含量极显著提高 $3 3 . 8 1 \\% ( P { < } 0 . 0 1 )$ 。综上，饲粮添加 500mg/kg TTE 可显著提高断奶仔猪的 ADG，降低 $\\mathrm { F / G }$ ；添加 $2 5 0 ~ \\mathrm { m g / k g }$ TTE 可提高断奶仔猪的CP 和 Ash 表观消化率，提高血清5-HT含量，改善抗氧化能力，从而减少应激的发生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：刺蒺藜提取物；断奶仔猪；生长性能；抗氧化能力；五羟色胺",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S828 文献标识码：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在过去几十年里，促生长抗生素在促进畜禽生长和预防疾病方面起到了重要作用。自2006 年欧盟开始禁用促生长抗生素以来，为了提高断奶仔猪的生长性能，天然植物提取物成为学者们关注的热点。刺蒺藜（Tribulus terrestris，TT)，别名白蒺藜，是一种具有活血化瘀、散风明目、下气行血、疏肝降脂等功效的天然植物，经水或醇提取后可获得皂苷、生物碱、多糖、氨基酸等活性成分，其中皂苷所占比例约为 $90 \\% [ 1 ]$ 。刺蒺藜提取物（Tribulus terrestrisextract，TTE）具有广泛的抗氧化作用[1-3]，能够清除自由基、抗菌等[4-5]。目前，对 TTE 的研究主要集中于病理条件下的抗氧化、缓解糖代谢障碍等。刘社琴研究发现，TTE 能缓解运动训练大鼠的血液胰岛素含量下降，促进生长激素的分泌。有关九开菠萝鱼和罗非鱼的试验证明，一定水平的 TTE 能够提高鱼类的生长性能[7-8]。李明娟等[9]和 Sharawy 等[10]研究认为，TTE 能够显著抑制动物的糖异生作用，同时显著降低血清甘油三脂含量。研究也表明，125 mg/kg TTE 能够显著提高抑郁大鼠的血清五羟色胺（5-HT）含量[1]。迄今，有关TTE的应用多见于对水产经济动物生产性能影响的研究，而对断奶仔猪生长性能和抗氧化能力的研究鲜见报道。本试验旨在探究饲粮添加不同水平的TTE 对断奶仔猪生长性能、养分表观消化率、血清抗氧化指标及5-HT含量的影响，为TTE 在断奶仔猪饲粮中的科学应用提供试验依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计与试验饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TTE 的主要成分为蒺藜皂苷，含量为 $90 \\%$ ，其余成分为多糖、氨基酸、生物碱等，原草收获季节为秋季。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验于广东菲赛迪生态农业公司养殖基地进行，选用（37±2）日龄的\"杜 $\\boldsymbol { \\mathbf { \\rho } } _ { \\times }$ 长 $\\times$ 大\"断奶仔猪128头，依据体重随机分成4个组，每组4个重复（栏)，每个重复8头猪。对照组饲喂不添加TTE 的基础饲粮，参照 NRC（2012）仔猪营养需要配置，为粉状配合饲料，基础饲粮组成及营养水平见表1。试验组分别饲喂在基础饲粮中添加125、250 和 $5 0 0 ~ \\mathrm { m g / k g }$ TTE的试验饲粮。试验期28d。断奶仔猪自由采食、充足饮水。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Composition and nutrient levels of the basal diet (air-dry basis) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "玉米Corm 59.61  \n豆粕 Soybean meal 21.31  \n发酵豆粕 Fermented soybean meal 5.00  \n葡萄糖 Glucose 3.00  \n乳清粉 Whey powder 2.50  \n鱼粉 Fish meal 2.00  \n豆油 Soybean oil 1.60  \n磷酸氢钙 CaHPO4 1.07  \n石粉 Limestone 0.90  \nL-赖氨酸盐酸盐 $L$ -Lys·HCl 0.50  \nDL-蛋氨酸 $D L$ -Met 0.30  \nL-苏氨酸 $L$ -Thr 0.17  \n酸化剂 Acidifier 0.40  \n食盐NaCl 0.40  \n氧化锌 Zinc oxide 0.24  \n预混料 Premixl 1.00  \n合计Total 100.00  \n营养水平 Nutrient levels2  \n消化能 DE/(MJ/kg) 14.38  \n粗蛋白质 CP 17.30  \n赖氨酸 Lys 1.36  \n蛋氨酸 $^ { + }$ 半胱氨酸 Met+Cys 0.89  \n苏氨酸 Thr 0.86  \n色氨酸Trp 0.20  \n钙Ca 0.78  \n总磷TP 0.59",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1’预混料为每千克饲粮提供 The premix provided the follwing per kg of the diet：VA 12 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "800 IU，VD32 400 IU，VE $4 8 ~ \\mathrm { m g / k g }$ ， $\\mathrm { V B } _ { 2 } 6 . 4 \\ : \\mathrm { m g / k g }$ ， $\\mathrm { V B } _ { 6 } 2 . 4 ~ \\mathrm { m g / k g }$ ， $\\mathrm { V K } _ { 3 } 2 \\mathrm { m g / k g }$ ，泛酸pantothenic acid $3 2 \\mathrm { m g / k g }$ ，生物素 biotin $0 . 6 4 ~ \\mathrm { m g / k g }$ ，Fe $1 2 0 ~ \\mathrm { m g / k g }$ ， $Z n ~ 1 2 2 . 8 3 ~ \\mathrm { m g / k g }$ ，Cu$1 9 2 . 0 4 ~ \\mathrm { m g / k g }$ ， Mn 38.80 mg/kg， I 0.4 mg/kg， Se 0.3 mg/kg。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 生长性能测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验开始前，记录仔猪初始空腹体重（BW)。试验开始后，记录每栏每日耗料量。于51和65 日龄（试验第14和28天）早晨再次记录仔猪空腹体重。计算仔猪平均日采食量（ADFI）、平均日增重（ADG）和料重比（F/G）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3养分表观消化率测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于 49\\~51日龄（试验第12\\~14天）和 $6 3 { \\sim } 6 5$ 日龄（试验第26\\~28天）分别收集各组仔猪粪便，每日粪样按每100 克加 $1 0 \\mathrm { m L } 1 0 \\%$ 硫酸溶液，充分混合后65℃烘干至恒重后粉碎，测定干物质（DM）、粗蛋白质（CP）、粗灰分（Ash）、粗脂肪（EE）和内源指示剂盐酸不溶灰分的含量，用于计算养分表观消化率。盐酸不溶灰分含量的测定参照GB/T23742—2009/ISO 5985:2002；DM、CP、Ash 和 EE 含量的测定参照张丽英《饲料分析及饲料质量检测技术》[12]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4血清抗氧化指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每次称重前，每栏随机取2头仔猪前腔静脉采血，静置1h后 $3 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 小心移取上清液，-20℃保存。依据试剂盒操作指南测定血清谷胱甘肽过氧化酶（GSH-Px）、过氧化氢酶（CAT）活性和丙二醛（MDA）含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 血清5-HT含量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取部分血清在冰上融化，摇匀。依据猪酶联免疫吸附测定（ELISA）试剂盒操作指南测定血清 5-HT 含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用 Excel 2016进行初步统计，用 SPSS 17.0 进行单因素方差分析(one-wayANOVA)，Duncan 氏法进行多重比较检验。结果均以“平均值 $\\pm$ 标准差”表示， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著， $P { > } 0 . 0 5$ 为差异不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1TTE对断奶仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，与对照组相比，饲粮添加TTE有提高断奶仔猪ADG和ADFI的趋势( $_ { , P > 0 . 0 5 ) }$ 。$3 7 { \\sim } 5 1$ 日龄时，与对照组相比， $5 0 0 \\mathrm { m g / k g }$ 组的 ADG 显著提高 $1 8 . 6 5 \\%$ （ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ；ADFI随TTE 添加水平的增加而提高，但各组间无显著差异（ $P { > } 0 . 0 5 \\$ )；F/G 随TTE 添加水平的增加有降低趋势( ${ \\cdot } P { > } 0 . 0 5$ )。51\\~65日龄时，250和 $5 0 0 \\mathrm { m g / k g }$ 组的ADG分别显著高于对照组 $9 . 2 2 \\%$ 和 $1 7 . 6 2 \\%$ ( $\\scriptstyle \\cdot - 0 . 0 5 .$ )；各TTE添加组的ADFI均高于对照组（ $\\cdot P { > } 0 . 0 5 \\$ )；F/G随TTE 添加水平的增加有降低趋势（ $P { > } 0 . 0 5 \\$ 。 $3 7 { \\sim } 6 5$ 日龄时，与对照组相比，各TTE添加组的ADG分别提高了 $2 . 2 2 \\%$ ( $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ ）、 $8 . 9 2 \\%$ ( $P { > } 0 . 0 5$ ）和 $1 8 . 1 0 \\%$ ( $_ { . P < 0 . 0 5 ) }$ ；ADFI有提高趋势，但各组间无显著差异（ $. P { > } 0 . 0 5 )$ ；各TTE添加组的 $\\mathrm { F / G }$ 也有下降趋势（ $\\scriptstyle \\cdot > 0 . 0 5 .$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2TTE 对断奶仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f8b7c881f6f234a642d24a10621c6ed4cc41066029fb7ccf2649ea1b0c4bb25.jpg",
+        "table_caption": [
+            "Table 2Effect of Tribulus terrestris extract on growth performance of weaned piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"3\">TTE 添加水平 Tribulus terrestris extract supplemental level/(mg/kg)</td></tr><tr><td>Items</td><td>0</td><td>125</td><td>250</td><td>500</td></tr><tr><td>初始体重 IBW/kg</td><td>10.29±0.72</td><td>10.31±0.69</td><td>10.27±0.77</td><td>10.27±0.79</td></tr><tr><td>37~51日龄 37to 51 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>终末体重 FBW/kg</td><td>14.99±0.83</td><td>15.15±0.96</td><td>15.37±0.98</td><td>15.85±0.75</td></tr><tr><td>平均日增重 ADG/g</td><td>335.71±13.45b</td><td>345.48±20.58b</td><td>364.52±16.32ab</td><td>398.33±26.55a</td></tr><tr><td>平均日采食量ADFI/g</td><td>688.86±49.88</td><td>699.68±51.02</td><td>703.51±49.96</td><td>714.62±49.31</td></tr><tr><td>料重比F/G</td><td>2.06±0.12</td><td>2.02±0.04</td><td>1.93±0.13</td><td>1.79±0.02</td></tr><tr><td colspan=\"5\">51~65日龄 51 to 65 days of age</td></tr><tr><td>终末体重 FBW/kg</td><td>20.34±1.13</td><td>20.59±0.88</td><td>21.22±1.19</td><td>22.15±1.29</td></tr><tr><td>平均日增重 ADG/g</td><td>382.38±21.90c</td><td>388.57±18.15bc</td><td>417.62±18.81ab</td><td>449.76±9.67a</td></tr><tr><td>平均日采食量ADFI/g</td><td>835.79±33.46</td><td>888.64±28.27</td><td>870.99±13.51</td><td>888.03±29.58</td></tr><tr><td>料重比F/G</td><td>2.18±0.13</td><td>2.30±0.15</td><td>2.09±0.07</td><td>1.97±0.07</td></tr><tr><td colspan=\"5\">37~65日龄 37 to 65 days of age</td></tr><tr><td>平均日增重 ADG/g</td><td>359.05±16.41b</td><td>367.02±12.20b</td><td>391.07±15.06ab</td><td>424.05±18.02a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a88d1e2e68fea42719d2cc756fb055d87c99484015e2958cb1dadfca070ff2dd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>平均日采食量ADFI/g</td><td>760.68±54.05</td><td>788.15±38.34</td><td>784.76±29.76</td><td>799.64±37.96</td></tr><tr><td>料重比F/G</td><td>2.12±0.17</td><td>2.15±0.10</td><td>2.01±0.03</td><td>1.88±0.03</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference ( $( P { < } 0 . 0 1 \\$ ).The sameas below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2TTE对断奶仔猪养分表观消化率的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知， $4 9 { \\sim } 5 1$ 日龄时，与对照组相比，各TTE 添加组断奶仔猪的DM表观消化率均有提高趋势，但差异不显著（ $_ { ( P > 0 . 0 5 ) }$ ； $2 5 0 ~ \\mathrm { m g / k g }$ 组的CP 和 Ash 表观消化率分别显著提高 $5 . 3 8 \\%$ 和 $2 2 . 9 6 \\%$ （ $. P { < } 0 . 0 5 \\ '$ ；250和 $5 0 0 \\mathrm { m g / k g }$ 组的 EE表观消化率则显著降低（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ 。$6 3 { \\sim } 6 5$ 日龄时，与对照组相比，各TTE 添加组的CP表观消化率有提高趋势（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ ；250$\\mathrm { m g / k g }$ 组的Ash表观消化率显著提高 $5 2 . 4 6 \\%$ （ $_ { . P < 0 . 0 5 ) }$ ；各组的EE表观消化率无显著差异（ $\\cdot P { > } 0 . 0 5 )$ ，但随TTE 添加水平的增加而降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3TTE 对断奶仔猪养分表观消化率的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8ef02750e7a11f63da37c37b5beb42af85f3c8a661d55b0e9a5b63fb181d9ff.jpg",
+        "table_caption": [
+            "Table 3Effect of Tribulus terrestris extract on nutrients apparent digestibility of weaned "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"4\">piglets %</td></tr><tr><td>项目</td><td colspan=\"4\">TTE 添加水平 Tribulus terrestris extract supplemental level/(mg/kg)</td></tr><tr><td>Items</td><td>0</td><td>125</td><td>250</td><td>500</td></tr><tr><td>49~51日龄 49 to 51 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>85.77±1.25</td><td>86.60±1.80</td><td>88.39±1.41</td><td>85.42±1.88</td></tr><tr><td>粗蛋白质 CP</td><td>77.5±1.64b</td><td>79.8±1.74ab</td><td>81.67±0.71a</td><td>80.13±0.02a</td></tr><tr><td>粗灰分 Ash</td><td>40.6±1.63c</td><td>46.51±1.31ab</td><td>49.92±0.68a</td><td>44.01±1.34bc</td></tr><tr><td>粗脂肪 EE</td><td>80.69±0.98a</td><td>79.53±1.09a</td><td>73.84±1.08b</td><td>70.15±1.94b</td></tr><tr><td colspan=\"5\">63~65日龄 63 to 65 days of age</td></tr><tr><td>干物质 DM</td><td>89.60±1.23</td><td>93.60±1.56</td><td>92.66±2.12</td><td>93.75±0.14</td></tr><tr><td>粗蛋白质CP</td><td>74.40±3.95</td><td>83.48±3.62</td><td>82.92±3.71</td><td>80.98±4.36</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/17683d8ab3f689535ad9ead62e0171cb4b1a1c4f059e2d1e8c2d2d8ebfd9dd6a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粗灰分 Ash</td><td>33.30±2.17b</td><td>53.14±1.83a</td><td>50.77±3.37a</td><td>37.76±0.34ab</td></tr><tr><td>粗脂肪 EE</td><td>77.98±3.87ab</td><td>86.00±2.28a</td><td>79.76±3.25ab</td><td>73.14±0.39b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3TTE对断奶仔猪血清抗氧化指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可见，TTE 有提高断奶仔猪血清GSH-Px 和CAT活性，降低血清 MDA含量的趋势( $\\cdot P { > } 0 . 0 5$ )。51日龄时，与对照组相比，各TTE 添加组的血清GSH- $\\mathbf { \\cdot P x }$ 活性提高 $( P { > } 0 . 0 5 )$ ，$2 5 0 \\mathrm { m g / k g }$ 组的血清GSH- $\\mathbf { \\cdot P X }$ 活性最高；250 和 $5 0 0 \\mathrm { m g / k g }$ 组的血清CAT 活性分别显著提高$9 9 . 4 2 \\%$ 和 $1 1 4 . 5 3 \\%$ （ $P { < } 0 . 0 5 \\rangle$ ；血清 MDA 含量随 TTE 添加水平的增加而降低， $5 0 0 ~ \\mathrm { m g / k g }$ 组的血清MDA 含量极显著降低 $4 6 . 9 8 \\%$ （ $_ { . } { \\cal P } { < } 0 . 0 1$ )。65日龄时， $2 5 0 ~ \\mathrm { m g / k g }$ 组的血清 GSH-Px活性最高，与对照组相比提高 $10 . 6 2 \\%$ ( $P { > } 0 . 0 5 \\ '$ ；各TTE 添加组的血清CAT活性分别比对照组提高 $5 7 . 5 6 \\%$ 、 $6 0 . 0 0 \\%$ 和 $7 4 . 6 3 \\%$ ( $P { > } 0 . 0 5 \\$ )；250和 $5 0 0 \\mathrm { m g / k g }$ 组的血清 MDA 含量比对照组分别极显著降低 $5 3 . 5 7 \\%$ 和 $5 7 . 7 4 \\%$ ( $P { < } 0 . 0 1$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表4TTE 对断奶仔猪血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/92fe0243b1c323bb9afa30ff0e8f227587d5b3785b6567c3cb715ab077e7460f.jpg",
+        "table_caption": [
+            "Table 4Effect of Tribulus terrestris extract on serum antioxidant indexes of weaned piglets "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">项目 TTE 添加水平 Tribulus terrestris extract supplemental level/(mg/kg)</td></tr><tr><td>Items</td><td>0</td><td>125</td><td>250</td><td>500</td></tr><tr><td>51日龄 51 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化酶GSH-Px/(U/mL)</td><td>195.06±32.21</td><td>207.01±32.42</td><td>237.32±35.21</td><td>210.00±39.31</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>1.72±0.19b</td><td>2.54±0.12ab</td><td>3.43±0.28a</td><td>3.69±0.21a</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>1.49±0.38Aa</td><td>1.44±0.15ABab</td><td>1.27±0.28ABbc</td><td>0.79±0.25Bc</td></tr><tr><td>65日龄 65 days of age</td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化酶GSH-Px/(U/mL)</td><td>221.10±19.68</td><td>218.54±22.37</td><td>244.57±28.70</td><td>235.61±16.28</td></tr><tr><td>过氧化氢酶CAT/(U/mL)</td><td>2.05±0.18</td><td>3.23±0.22</td><td>3.28±0.23</td><td>3.58±0.25</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>1.68±0.11Aa</td><td>1.53 ±0.16Aa</td><td>0.78±0.22Bb</td><td>0.71±0.35Bb</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4TTE对断奶仔猪血清5-HT含量的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5可见，与对照组相比，51日龄时，各TTE 添加组断奶仔猪的血清5-HT含量分别提高 $5 . 4 2 \\%$ 、 $4 . 4 0 \\%$ 和 $4 . 4 0 \\%$ ( $. P { > } 0 . 0 5 )$ ；65日龄时， $2 5 0 ~ \\mathrm { m g / k g }$ 组的血清5-HT含量极显著提高 $3 3 . 8 1 \\%$ ( $_ { | P < 0 . 0 1 \\rangle }$ ，其余各组虽有提高趋势但差异不显著（ $\\scriptstyle \\cdot > 0 . 0 5 .$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5TTE对断奶仔猪血清5-HT含量的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef10236af14694f162d235f14f34021d5871ec49557846488ff9ef210032a495.jpg",
+        "table_caption": [
+            "Table 5 Effect of Tribulus terrestris extract on serum 5-HT content of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">weaned piglets</td></tr><tr><td>日龄 Days of age</td><td colspan=\"3\">TTE 添加水平 Tribulus terrestris extract supplemental level/(mg/kg)</td></tr><tr><td></td><td>0</td><td>125</td><td>250 500</td></tr><tr><td>51</td><td>590.74±22.27</td><td>622.36±33.35</td><td>616.08±29.61 616.28±19.59</td></tr><tr><td>65</td><td>393.83±12.99Bb</td><td>446.45±37.07ABb</td><td>527.03±40.53Aa 432.06±29.60ABb</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1TTE改善断奶仔猪的生长性能",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "仔猪断奶应激可导致采食量下降，影响生长性能。从本试验结果可知，TTE 能够提高断奶仔猪的生长性能。经过28d的饲养试验发现，添加 $5 0 0 ~ \\mathrm { m g / k g }$ TTE 能显著提高断奶仔猪的 ADG。这与Yeganeh 等[8]在九间菠萝鱼饲料中添加 $\\mathrm { ~ 1 ~ g / k g ~ }$ TTE 的结果相似，均能显著提高幼龄动物的增重，降低 F/G。Gultepe 等[7]试验发现， $4 0 0 ~ \\mathrm { { m g / k g } }$ TTE 能够显著提高罗非鱼的ADG，显著降低F/G。胰岛素和类胰岛素生长因子-I（IGF-I）是断奶仔猪生长发育的重要激素，TTE 具有提高胰岛素水平作用[13]，可调节机体对胰岛素的敏感性[14]，能够显著提高血液 IGF-I含量及肌肉中IGF-I受体表达量[15-16]。所以 TTE 提高仔猪生长性能的原因可能是其增加了饲粮营养物质的吸收，促进机体物质的合成与利用等。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "肠道形态学结构或肠道微生物菌群平衡对断奶仔猪的生长性能也有一定影响。Sahin 等[17]研究报道，TT 显著影响肉鸡消化道各部分重量，显著降低小肠比例和增加大肠比例。TTE的活性成分还具有抗菌活性，对大肠杆菌和金黄色葡萄球菌有显著敏感性[4-5]，但对益生菌如长双歧杆菌和青春双歧杆菌则有促生长作用[18]。所以TTE的促生长作用可能还来自于对肠道发育程度和肠道微生态健康情况的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2TTE 提高断奶仔猪的消化功能",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "集约化养殖模式对动物的营养要求比较高，而动物依赖于对养分的消化吸收和利用。在自由采食条件下，提高营养物质的吸收率是提高动物生长性能、降低成本的途径之一。本试验发现，与对照组相比，TTE 能够提高断奶仔猪对CP的表观消化率，有提高对DM、Ash表观消化率的趋势。研究表明，多种植物提取物均有提高断奶仔猪对CP消化率的作用。而",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TTE 对断奶仔猪养分表观消化率的相关研究鲜见报道，所以其改善机制还有待进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "脂肪是动物的主要能量来源之一，饲粮中添加脂肪主要是解决饲粮能量不足和提供功能性脂肪酸等问题。在病理状态下TTE具有显著降脂、降胆固醇作用。本试验中断奶仔猪的EE 表观消化率随 TTE 添加水平的增加而降低。饲粮 EE 包括甘油三脂和类脂（如磷脂、胆固醇等)，而TTE对EE 表观消化率的影响可能来自于以下2个方面：1）甘油三脂的消化主要依赖于胰脂肪酶的水解作用，Ercan 等[19]通过体外研究发现，TTE 对人胰脂肪酶有显著抑制作用，进而抑制甘油三酯的吸收；2）胆固醇在消化过程中同时存在吸收和排出现象，机体内多余的胆固醇会以胆汁酸和胆汁酸盐的形式排入食糜中，研究表明，薯皂苷元（TTE的有效成分之一）可以减轻雌激素引起的小鼠急性胆汁淤积，促进胆汁酸的形成和胆汁的分泌，即促进胆固醇的排出[20]。由此推测，TTE 影响 EE 表观消化率的机制可能是通过影响肠道内脂肪水解为脂肪酸和甘油的效率，同时促进肝脏中胆汁酸的排出，从而降低饲粮中的EE 表观消化率。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3TTE提高断奶仔猪的抗氧化能力",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TTE 的活性成分能通过提高机体的抗氧化能力来保护重要器官[21-22]。GSH-Px 和 CAT是机体的重要抗氧化酶，其主要作用是清除机体内的过氧化物。本试验表明，饲粮添加 250和 $5 0 0 ~ \\mathrm { m g / k g }$ TTE 能显著提高 51日龄断奶仔猪的血清CAT 活性;51和65 日龄血清GSH-Px和 CAT 活性随 TTE 添加水平的增加而提高，这与 TTE 缓解病理模型症状的结果一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MDA是自由基攻击细胞膜上多不饱和脂肪酸引发脂质过氧化的产物，其含量直接反映了脂质过氧化的程度，间接反映细胞损伤的程度，同时也是影响线粒体呼吸链复合物及线粒体内关键酶活性的主要因素。本试验结果表明，TTE 降低了血清 MDA 含量，这与 Sharma等[23]和刘社琴[6]报道的结果相近。本试验中，与对照组比较，250 和 $5 0 0 \\mathrm { m g / k g }$ 组65日龄断奶仔猪的血清 MDA含量极显著降低，结果提示TTE 能有效减少膜脂质的过氧化作用，保护了细胞膜。其作用可能来自于 TTE 显著降低机体活性氧（ROS）的产生[2]。Ghareeb 等[]和Vangalapati等[3]研究证明，TTE具有清除自由基的作用。本研究结果提示，MDA含量的降低可能是TTE 减少机体自由基过氧化物的产生，降低过氧化物酶（GSH-Px、CAT）的消耗，减少细胞损伤，维持细胞膜完整性和正常生理活动。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4TTE对断奶仔猪血清5-HT含量的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5-HT 是机体重要的神经递质和调节物质，与多种生理现象相关，同时也是调节采食和肠道功能的一个重要因子[24]。Koopmans 等[25]研究表明，当下丘脑的 5-HT 含量提高后，发现仔猪挑衅行为、采食行为减少，趴、卧状态增加，仔猪活动及应激减少，更有利于营养物质的沉积与利用。血液中 $9 5 \\%$ 的5-HT都来自于肠道，主要是肠道黏膜层的嗜铬细胞，其含有生产5-HT所需的色氨酸转化酶[26]；而色氨酸是 5-HT的重要前体，同时也是猪的一种促食因子，与采食量和日增重有极强的正相关关系[27]。本研究表明，饲粮添加TTE 使断奶仔猪的血清5-HT含量普遍提高，与对照组相比，65日龄时， $2 5 0 ~ \\mathrm { m g / k g }$ 组的血清 5-HT含量极显著提高 $3 3 . 8 1 \\%$ ，51\\~65日龄时 ADG 显著提高 $9 . 2 2 \\%$ ，ADFI提高 $4 . 2 1 \\%$ 。这提示TTE提高仔猪采食量后，色氨酸摄入量可能增加，进而增加 5-HT 的转化，同时 5-HT 分泌增加又能减少仔猪的活动强度，减少营养物质的消耗，从而促进了仔猪生长增重。张伟等[报道，TTE 还可通过抗炎作用抑制大鼠脑中色氨酸代谢酶——吲哚胺 2,3-双加氧酶（IDO)的表达。该酶可被炎性因子激活而分解色氨酸生成有毒性的犬尿氨酸，减少 5-HT 的生成。本试验结果提示TTE 可能通过抑制IDO 的表达来提高5-HT 的含量，具体的调节机制仍需要进一步研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲粮添加 $5 0 0 \\mathrm { m g / k g }$ TTE 能有效提高断奶仔猪的生长性能，添加 $2 5 0 ~ \\mathrm { m g / k g }$ TTE可提高断奶仔猪的CP 和Ash 表观消化率;  \n$\\textcircled{2}$ 饲粮添加 $2 5 0 { \\sim } 5 0 0 \\ \\mathrm { m g / k g \\ T T F }$ 能够提高断奶仔猪的血清GSH-Px 和CAT 活性，降低血清 MDA含量，提高断奶仔猪的抗氧化能力。  \n参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] GHAREEB D A,ELAHWANY A,EL-MALLAWANY S M,et al.In vitro screening for anti-acetylcholiesterase,anti-oxidant,anti-glucosidase,anti-inflammatoryandanti-bacterial effectofthreetraditional medicinalplants[J].Biotechnology &Biotechnological Equipment,2014,28(6):1155-1164. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] JIANG Y H,YANG C H,LI W,et al.Aqueous extracts of Tribulus terrestris protects against oxidized low-density lipoprotein-induced endothelial dysfunction[J].Chinese Journal of ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Integrative Medicine,2016,22(3):193-200. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3] VANGALAPATI B,MANJREKAR P A,HEGDE A.Total phenolic content and free radical scavenging activity of Pterocarpus marsupium heartwood & Tribulus terrestris dry fruits:an in vitro comparative study[J].Journal of Pharmacy Research,2014,8(5):610-613. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[4] MAHALEL U.Antibacterial sensitivity for some chemically diverse steroidal glycosides in vitro[J].Journal of Agriculture and Social Sciences,2012,8(1):24-28. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[5]王文,陶蕾,赵强,等.唐古特白刺中黄酮类化合物正交提取工艺与体外抗菌活性研究[J].中兽医医药杂志,2011,13(6):5-7.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[6]刘社琴.蒺藜提取物对运动训练大鼠血液生化指标、激素水平及自由基代谢影响的实验研究[D].硕士学位论文.西安:陕西师范大学,2004.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7] GULTEPE N,ACAR U,KESBIC O S,et al.Effects of dietary Tribulus terrestris extract supplementation on growth,feed utilization,hematological,immunological and biochemical variablesofniletilapia oreochromisniloticus[J].TheIsraeli Journal of Aquaculture,2014,66:1024-1036. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8] YEGANEH S,SOTOUDEH A,MOVAFFAGH A N.Effects of Tribulus terrestris extract on growth andreproductiveperformanceofmaleconvictcichlid (Cichlasoma nigrofasciatum)[J].Turkish Journal of Fisheries and Aquatic Sciences,2017,17(5):1003-1007. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9]李明娟,瞿伟菁,褚书地,等.蒺藜水煎剂对小鼠糖代谢中糖异生的作用[J].中药材,2001,24(8):586-588.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10] SHARAWY S M,SALEH N H,ATTALAH S A,et al.Effect of plant extract of Tribulus terrestris and probiotics on the reproductive performance,total cholesterol and testosterone hormone levels of rams[J].MENA Science Journal,2015,1(1):14-19. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11]张伟,俞仲毅,梅泰中,等.蒺藜皂苷抗抑郁作用及机制研究[J].中国药理学通",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "报,2017,33(3):343-348. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12]张丽英.饲料分析及饲料质量检测技术[M].2版.北京:中国农业大学出版社,2003.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13] GANDHI S,SRINIVASAN B P,AKARTE A S.Potential nephrotoxic effects produced by steroidal saponins from hydro alcoholic extract of Tribulus terrestris in STZ-induced diabetic rats[J].Toxicology Methods,2013,23(7):548-557. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14] SAMANI N B,JOKAR A,SOVEID M,et al.Efficacy of the hydroalcoholic extract of Tribulus terrestris on the serum glucose and lipid profile of women with diabetes melitus:a double-blind randomized placebo-controlled clinical trial[J].Journal of Evidence-Based Complementary & Alternative Medicine,2016,21(4):NP91-NP97. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[15] WU Y,YANG H F,WANG X H.The function of androgen/androgen receptor and insulin growth factor-1/insulin growth factor-1 receptor on the effects of Tribulus terrestris extracts in rats undergoing high intensity exercise[J].Molecular Medicine Reports,2017,16(3):2931-2938 . ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[16] YIN L,WANG Q,WANG X H,et al.Effects of Tribulus terrestris saponins on exercise performance in overtraining rats and the underlying mechanisms[J].Canadian Journal of Physiology and Pharmacology,2016,94(11):1193-1201. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[17] SAHIN A,DURU M.Effects of Tribulus terrestris (puncture vine) supplementation on performance and digestive system of broiler chicks[J].Tarim Bilimleri Dergisi,2010,16(4):271-277. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[18]曹吉利,魏莉娟,谭源,等.蒺藜提取液对长双歧杆菌及青春双歧杆菌生长的影响[J].中国酿造,2011,30(8):115-117.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[19] ERCAN P,EL S N.Inhibitory effects of Chickpea and Tribulus terrestrison lipase,α-amylase and $\\mathfrak { a }$ -glucosidase[J].Food Chemistry,2016,205:163-169. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[20] ACCATINO L,PIZARRO M,SOLIS N,et al.Effects of diosgenin,A plant-derived steroid,on bilesecretionandhepatocellular cholestasis induced by estrogens in the rat[J].Hepatology,1998,28(1):129-140. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[21]MEHER S K,MUKHERJEE P K,CHAUDHURY S K B,et al.Experimental studies on the renal protective effect of Gokshura (Tribulus terrestris Linn) and Varuna ( Crataeva nurvala Buch-Ham)[J].Research Journal of Pharmacology and Pharmacodynamics,2016,8(2):75-82. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[22] RAHMATHULLA S B M,SAILAJA K V,KODIDALA L D.Tribulus terrestris （I ) protects heart and liver from beta adrenergic-stimulated cardiotoxicity:biochemical and histological study in Wistar rats[J].International Journal of Drug Development & Research,2015,5(1):264-270. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[23] SHARMA P,HUQ A U,SINGH R.Cypermethrin induced reproductive toxicity in male Wistar rats:protectiverole of Tribulusterrestris[J].Journal ofEnvironmental Biology,2013,34(5):857-862. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[24]李华伟,祝倩,吴灵英,等.色氨酸的生理功能及其在畜禽饲粮中的应用[J].动物营养学报,2016,28(3):659-664.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[25] KOOPMANS S J,RUIS M,DEKKER R,et al.Surplus dietary tryptophan reduces plasma cortisol and noradrenaline concentrations and enhances recovery after social stress in pigs[J].Physiology & Behavior,2005,85(4):469-478. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[26]丁健华,傅传刚,赵荣华.五羟色胺在胃肠道功能性疾病中的研究现状[J].世界华人消化杂志,2005,13(20):2405-2408.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[27]唐燕军,张石蕊,袁钟宇.色氨酸的营养生理作用及其在猪低蛋白日粮中的应用[J].猪业科学,2008,25(9):54-57.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Effects of Tribulus terrestris Extract on Growth Performance and Serum Antioxidant Indexes of ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Weaned Piglets ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LI Zelei LI Meiquan\\*LIU ShuilingCHE Litao JIANG Xiaoxu GUO Rongfu\\*\\* (Yunnan Province Key Laboratory of Animal Nutrition and Feed, Collge of Animal Science and Technology, Yunnan Agricultural University, Kunming 650201, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the efects of Tribulus terrestris extract (TTE） on growth performance, nutrients apparent digestibility, serum antioxidant indexes and serotonin (5-HT) content of weaned piglets. One hundred and twenty-eight $( 3 7 \\pm 2 )$ days of age “DruocxLandracexYorkshire” weaned piglets were randomly divided into 4 groups with 4 replicates per group and 8 piglets per replicate. Piglets were fed the basal diets supplemented with 0, 125,250 and $5 0 0 ~ \\mathrm { m g / k g }$ TTE,respectively. The trial lasted for 28 days. At 51 and 65 days of age,the fasting weight were measured,and blood and faeces were colected to determine the serum antioxidant indexes, 5-HT content and nutrients apparent digestibility. The results showed as follows: 1) average daily gain (ADG) and average daily feed intake (ADFI) of weaned piglets were increased and the ratio of feed to gain (F/G) was decreased with dietary TTE level increased. Compared with control group, ADG in $5 0 0 ~ \\mathrm { m g / k g }$ group was significantly increased by $1 8 . 6 5 \\%$ $1 7 . 6 2 \\%$ and $1 8 . 1 0 \\%$ at 37 to 51, 51 to 65 and 37 to 65 days of age ,respectively $( P { < } 0 . 0 5 )$ . 2) Dietary TTE increased the apparent digestibility of dry matter (DM),crude protein (CP) and ash of weaned piglets. Compared with control group, the apparent digestibility of CP in $2 5 0 ~ \\mathrm { m g / k g }$ group was significantly increased by $5 . 3 8 \\%$ at 49 to 51 days of age $( P { < } 0 . 0 5 )$ ， and the apparent digestibility of ash in $2 5 0 ~ \\mathrm { m g / k g }$ group was significantly increase by $2 2 . 9 6 \\%$ and $5 2 . 4 6 \\%$ at 49 to 51 and 63 to 65 days of age,respectively $( P { < } 0 . 0 5 )$ . 3） Dietary TTE increased the activities of glutathione peroxidase (GSH- $\\mathbf { \\nabla } \\cdot \\mathrm { P x }$ ） and catalase(CAT) in serum of weaned piglets and decreased the content of malondialdehyde (MDA) in serum. Compared with control group, the activity of CAT in serum in 250 and $5 0 0 ~ \\mathrm { m g / k g }$ groups was significantly increased by $9 9 . 4 2 \\%$ and $1 1 4 . 5 3 \\%$ at 51 days of age, respectively $( P { < } 0 . 0 5 )$ , and the content of MDA in serum in $5 0 0 ~ \\mathrm { m g / k g }$ group was significantly decreased by $4 6 . 9 8 \\%$ $( P { < } 0 . 0 1 )$ ). The content of MDA in serum in 250 and 500 $\\mathrm { m g / k g }$ groups was significantly lower than that in control group by $5 3 . 5 7 \\%$ and $5 7 . 7 4 \\%$ at 65 days of age,respectively $( P { < } 0 . 0 1 )$ ). 4) Dietary TTE increased the content of 5-HT in serum of weaned piglets. Compared with control group, the content of 5-HT in serum in $2 5 0 ~ \\mathrm { m g / k g }$ group was significantly increased by $3 3 . 8 1 \\%$ at 65 days of age $( P { < } 0 . 0 1 )$ ). The results suggest that adding 500 $\\mathrm { m g / k g }$ TTE in the diet can significantly improve ADG and decrease $\\mathrm { F / G }$ of weaned piglets; and adding $2 5 0 ~ \\mathrm { m g / k g }$ TTE in the diet can increase apparent digestibility of CP and Ash and the content of 5-HT in serum, improve antioxidant capability and reduce stress of weaned piglets. Key words: Tribulus terrestris extract; weaned piglets; growth performance; antioxidant capability; 5-HT ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

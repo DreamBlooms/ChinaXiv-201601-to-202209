@@ -1,0 +1,77 @@
+# 头颈部手术后非计划二次插管患者的危险因素分析及预后
+
+Risk factors and prognosis of unplanned reintubation after head and neck surgery 陈思」张越伦²车璐」申乐’黄宇光
+
+中国医学科学院北京协和医学院北京协和医院麻醉科2中国医学科学院 北京协和医学院北京协和医院科研处中心实验室通信作者：申乐，pumchshenle@aliyun.com【摘要】目的：旨在分析头颈部手术后非计划二次插管患者的危险因素及预后。方法：本研究为病例对照研究，2014至2018年间，北京协和医院所有全身麻醉下头颈部术后接受非计划二次插管患者与对照进行1:4进行配对。危险因素及预后使用单因素及多因素分析进行评估。结果：5年间，共有36例全麻术后患者由于气道原因在手术室内行非计划二次插管，其中12例为头颈部手术 $( 3 3 . 3 \% )$ 。Logistic多因素回归分析显示，全身麻醉史（ $\mathrm { O R } { = } 1 1 . 9 3$ ， $9 5 \% \mathrm { C I } { = } 1 . 3 6 { - } 1 0 4 . 6 3$ ，$\scriptstyle \mathrm { P = 0 } . 0 2 5 .$ ），内生肌酐清除率（CreatineClearance rate,Ccr） $< 7 0 \mathrm { m l / m i n }$ （ $\mathrm { \mathrm { O R } } { = } 1 0 . 1 2$ $9 5 \% \mathrm { { C I } = 1 . 0 3 \mathrm { { - } 9 9 . 1 7 } }$ ， $\scriptstyle \mathrm { P = 0 . 0 4 7 }$ ），Cormack-Lehane III级（ $\mathrm { \mathrm { O R } } { = } 1 3 2 . 3 4$ ，$9 5 \% C \mathrm { I } { = } 2 . 8 9 { - } 6 0 6 5 . 8 1$ ， $\scriptstyle { \mathrm { P = } } 0 . 0 1 2$ ），液体负荷 ${ \geq } 2 0 \mathrm { m l / k g }$ （ $\mathrm { O R } { = } 1 3 . 9 5$ ，95%CI=1.66-117.42， $_ { \mathrm { P = 0 . 0 1 5 } }$ ）为造成头颈手术后非计划二次插管患者的高危因素，此类患者术后住院天数（ $_ { \mathrm { P = } 0 . 0 1 3 }$ ）及ICU停留天数（ $\scriptstyle \cdot \mathrm { \mathrm { e } } < 0 . 0 0 1$ ）显著延长。结论：针对5年间北京协和医院头颈部全麻手术患者，全身麻醉史、Ccr<7Oml/min，Cormack-LehaneIII级和液体负荷 ${ \dot { \geq } } 2 0 \mathrm { m l / k g }$ 为其非计划二次插管患者的独立危险因素，其术后住院天数及在重症监护室停留天数显著延长。
+
+【关键词】头颈部手术；二次插管；拔管；气道；全身麻醉 【中图分类号】R614.2
+
+【Abstract】 Objective: This study aimed to identify the risk factors and evaluate the prognosis of head and neck surgery patients’ unplanned reintubation after general anesthesia.Methods: This was a case-control study. All the reintubation cases after head and neck surgery in Peking Union Medical College Hospital between 2014 and 2018 were compared with controls cases and matched at a ratio of 1:4. The risk factors and prognosis were further assessed using the univariate and multivariate analysis. Results: During the five years, there were 36 unplanned reintubation cases caused by acute airway compromise. Among them,12 underwent head and neck surgery (prevalence $3 3 . 3 \%$ ).Logistic multivariate analysis revealed that general anesthesia history $\scriptstyle ( \mathrm { O R } = 1 1 . 9 3$ ， $9 5 \% \mathrm { C I } { = } 1 . 3 6 { - } 1 0 4 . 6 3$ ， $\scriptstyle \mathrm { P = 0 } . 0 2 5$ ), creatine clearance rate $< 7 0 \mathrm { m l / m i n }$ $\scriptstyle ( \mathrm { O R } = 1 0 . 1 2$ ， $9 5 \% \mathrm { { C I } = 1 . 0 3 \mathrm { { - } 9 9 . 1 7 } }$ ， $\scriptstyle \mathrm { P = 0 . 0 4 7 }$ ), Cormack-Lehane grading IⅢI $\mathrm { \mathrm { ~ \ C R } } { = } 1 3 2 . 3 4$ ， $9 5 \% C \mathrm { I } { = } 2 . 8 9  – 6 0 6 5 . 8 1$ ， $\scriptstyle \mathrm { P = } 0 . 0 1 2$ ）or fluid load ${ \tt 2 0 m l / k g }$ 0 $\mathrm { O R } { = } 1 3 . 9 5$ ， $9 5 \% C \mathrm { I } { = } 1 . 6 6 { - } 1 1 7 . 4 2$ ， $_ { \mathrm { P = 0 . 0 1 5 } }$ ） were independent risk factors for head and neck surgery patients’ unplanned reintubation.Postoperative hospital stay $\scriptstyle ( \mathrm { P = 0 } . 0 1 3 )$ and ICU stay $\mathrm { { \bf { P } } } { < } 0 . 0 0 1 )$ were prolonged significantly.Conclusions: General anesthesia
+
+history, creatine clearance rate<7Oml/min, Cormack-Lehane grading III, fluid 1 $\mathrm { \ l o a d { \geq } 2 0 m l / k g }$ were risk factors for head and neck surgery patients’ unplanned reintubation. The postoperative hospital stay and ICU stay were significantly increased.
+
+【Key words 】 head and neck surgery; reintubation; extubation; airway; generalanesthesia
+
+非计划二次插管指拔管失败后的再次插管，为全身麻醉气管插管的严重并发症之一，通常与术后肺炎、气管切开、住院时间延长、住院花费增加以及死亡率增加相关'。造成非计划二次插管的原因多种多样，按照发生原因分类可分为气道原因及非气道原因。非气道原因包括血流动力学失衡、临时改变手术方式等。按照手术类型可分为胸科手术、普通外科手术、血管外科手术等，既往有研究报道血管外科²等不同手术类型患者术后发生二次插管事件的危险因素，但尚未见针对头颈部手术患者的相关研究。本研究选取北京协和医院头颈部手术患者，旨在评估其全身麻醉手术后非计划二次插管患者的危险因素及预后，为国内同道提供参考。
+
+# 1资料与方法
+
+# 1.1 资料收集
+
+本研究为回顾性病例对照研究，于2019年4月25日通过北京协和医院科研项目伦理审查（编号 s-k745）。手术室内接受二次插管患者的基本信息、二次插管事件描述、发生原因等信息来自北京协和医院麻醉科不良事件上报系统，手术类型、液体负荷等术中信息由手术室麻醉信息系统获取，患者既往病史、实验室检查、术后信息由医院信息系统（Hospital Information System,HIS）获取。二次插管组（病例组，R组）患者入选标准为：2014年1月1日至2018年12月31日，全身麻醉下接受头颈部手术，在手术室内接受插管及拔管，由于气道原因导致手术室内非计划二次插管。带气管导管入手术室及出手术室、非气道原因导致二次插管的患者均被排除。气道原因导致的二次插管定义为按计划拔管后，由于低氧、呼吸肌无力、气道梗阻、肌松残余或膈神经损伤等因素导致非计划再次行气管插管。由于头颈部手术涉及多个手术科室，正常拔管组（对照组，C组）挑选方法为：2014年1月1日至2018年12月31日之间，在手术室内接受全身麻醉、插管及拔管的患者中随机选取500名患者列表，并自上而下读取接受头颈部手术者入选。R组与C 组按1:4比例配对。
+
+# 1.2危险因素
+
+研究根据既往报道及临床经验纳入以下潜在危险因素进行分析：性别、年龄、身体质量指数（Body Mass Index,BMI）、美国麻醉医师协会（American Society ofAnesthesiology,ASA）分级、吸烟史、心脏疾病史、脑卒中史、哮喘/慢性阻塞性肺疾病（Chronic Obstructive Pulmonary Disease,COPD）史、全身麻醉史、Cormack-Lehane 分级、麻醉医师年资、液体负荷，以及术前实验室检查如白细胞（White blood cell,WBC）计数、血红蛋白（Hemoglobin,Hb）浓度、内生肌酐清除率（CreatineClearance rate,Ccr）。预后相关变量为术后住院天数及重症监护室（Intensive CareUnit,ICU）停留天数。  
+在本研究中，心脏疾病史被定义为术前存在的心肌梗死史、冠状动脉粥样硬化型心脏病、结构型心脏病或心率失常病史。液体负荷定义为总出液量（出血、出尿)减总入液量之差（ml）除以体重（kg）。
+
+# 1.3 统计分析
+
+符合态分布的连续变量采用均数 $\pm$ 标准差表示，组间比较采用两独立样本t检验。不符合正态分布的连续变量采用中位数和四分间距表示，组间比较采用Mann-WhitneyU检验。分类变量采用例数及百分数表示，组间比较使用Chi方检验。多因素Logistic 回归分析基于临床经验及模型拟合选择变量，认为 $\scriptstyle \mathbf { P < } 0 . 0 5$ 具有统计学意义。本研究使用R软件2.13.0版本进行随机抽取，其余统计学分析使用SPSS19.0统计软件进行处理。
+
+# 2结果
+
+2014至2018年，北京协和医院共有123068例患者在手术室内接受气管插管、拔管及全身麻醉，其中36例全麻术后患者拔管后因气道原因在手术室内行非计划二次插管，总体发生率约为 $0 . 0 3 \%$ 。在此36例二次插管患者中，共有12例接受头颈部手术，占比约 $3 3 . 3 \%$ 。单因素分析结果显示，与C组相比，年龄 ${ > } 6 5$ 岁，ASA分级 ${ \geq } 2$ 级，既往脑卒中病史，全身麻醉史，Cormack-LehaneIII级，液体负荷 ${ > } 4 0 \mathrm { m l / K g }$ ，实验室检查Hb低于正常值， $\mathrm { C c r } { < } 7 0 \mathrm { m l / m i n }$ 的R组患者术后发生非计划二次插管的风险更高，差异有统计学意义。预后方面，R组术后住院时间及ICU停留时间较C组显著延长（表1）。多因素回归分析显示，全身麻醉史， $\mathrm { C c r } { < } 7 0 \mathrm { m l / m i n }$ ， Cormack-Lehane分级为IⅢ级，液体负荷 ${ \geq } 2 0 \mathrm { m l / k g }$ 为头颈部手术后非计划二次插管的危险因素（表2）。
+
+# 3.讨论
+
+头颈部手术术野距离气道较近，甚至“共享气道”，风险较高。相较其他类型手术，即使是非常微小的头颈部手术，气道问题也通常高发，需要麻醉医师进行预判及提高警惕³。在本研究的单因素分析结果中，R 组年龄>65 岁、ASA分级$\geq 2$ 与C 组相比具有显著意义，这与既往一些类似研究结论相符，例如有研究显示，在ICU 患者中年龄 $\geq 6 5$ 岁为失败拔管的危险因素4。另有研究报道，ASA3级为术后呼吸衰竭的独立危险因素。并发症方面，一些文献曾报道脑血管意外或中枢神经系统疾病增加患者术后二次插管风险,这与我们的分析结果相吻合。实验室检查方面，既往研究显示在大型普通外科及血管外科手术患者中，贫血为术后二次插管的危险因素7，而本研究针对头颈部手术的单因素分析结果显示，Hb 指标低于正常值的患者术后二次插管的风险更高。
+
+多因素分析结果中，液体负荷≥20ml/kg、Ccr<70ml/min 被证实为头颈部术后非计划二次插管的独立危险因素。有证据表明，术中过量输注液体可导致术后肺水肿及肺炎，这可能与呼吸道并发症相关。然而，在其他一些类似研究中并未得出相似结论910，这可能与不同研究中对于液体负荷的定义不同有关。一些研究证实肾功能不全为术后二次插管的危险因素之一29I1,这与我们的研究结论相符，但也有研究未得出相似结论1213。
+
+本研究中，我们首次分析了在全身麻醉下行头颈部手术患者中，全身麻醉史及Cormack-Lehane 分级对二次插管造成的影响。在临床工作中,Cormack-Lehane分级通常被用于预测气管插管难度，分级越高表示声门显露越困难，气管插管越困难，有限的声门暴露也增加了拔管的难度，尤其对于接受头颈部手术的患者。虽然无有力证据支持，我们猜测对于接受头颈部手术的患者，全身麻醉史与病情严重程度相关，且与气道及头颈部操作史相关，这两点均可能增加拔管风险。预后方面，头颈部全身麻醉术后非计划二次插管的患者术后住院天数及ICU停留天数显著延长，这与一系列针对不同群体的类似研究结果相类似1415。在本研究中，5年间非计划二次插管总体发生率偏低，这可能与以下4个因素相关。第一，本研究仅纳入气道原因导致的二次插管，其他如血流动力学原因、手术原因导致的二次插管均被排除在外；第二，在北京协和医院麻醉科，拔管操作由一名一线医师及一名二线医师按照指南流程1同时完成,拔管风险降低；第三，大部分重症病人术后带管返回ICU，此类病人被排除；第四，尽管二次插管为北京协和医院麻醉科不良事件必报项目，仍有可能存在丢失病例。样本量偏小为本研究的最主要局限，这可能增加分析结果的假阴性率。除此之外，本研究还存在一定局限性。例如，作为单中心回顾性研究，可能存在一些无法矫正的混杂因素。另外，由于信息系统的不完善，一些临床重要变量无法纳入，如体温、血气、呼吸道感染史等。本研究的优势在于，仅纳入了气道原因导致的二次插管病例，并按手术类型进行了分类细化。此外，本研究首次分析了全身麻醉史以及Cormack-Lehane分级与全麻术后非计划二次插管的关系。
+
+综上所述，针对2014到2018年间北京协和医院头颈部手术患者，全身麻醉史、 $\mathrm { C c r } { < } 7 0 \mathrm { m l / m i n }$ ，Cormack-LehaneIII级，液体负荷 ${ \geq } 2 0 \mathrm { m l / k g }$ 为头颈部全麻术后非计划二次插管患者的独立危险因素，此类患者术后住院天数及ICU停留天数显著延长。提高警惕、减少或规避上述危险因素、制定相关策略对于改善手术预后是十分必要的。
+
+# 参考文献
+
+1.Ramachandran S K, Nafiu O O, Ghaferi A, et al. Independent predictors and prognosis of unanticipated early postoperative tracheal intubation after nonemergent, noncardiacsurgery[J]. Anesthesiology: The Journal of the American Society of Anesthesiologists, 2011, 115(1): 44-53.   
+2.Brovman E Y, Steen TL, Urman R D.Associated risk factors and complications in vascular surgery patients requiring unplanned postoperative reintubation[J]. Journal of cardiothoracic and vascular anesthesia, 2O17, 31(2): 554-561.   
+3. Charters P, Ahmad I, Patel A, et al. Anaesthesia for head and neck surgery: United Kingdom National Multidisciplinary guidelines[J]. The Journal of Laryngology & Otology, 2016, 130(S2): S23-S27.   
+4. Cheng A C, Cheng K C, Chen C M, et al. The outcome and predictors of failed extubation in intensive care patients-the elderly is an important predictor[J]. International Journal of Gerontology, 2011, 5(4): 206-211.   
+5. Attaallah A F, Vallejo M C, Elzamzamy O M, et al. Perioperative risk factors for postoperative respiratory failure[J]. Journal of perioperative practice, 2O19, 29(3): 49-53.   
+6. Brovman E Y, Steen TL, Urman R D. Associated risk factors and complications in vascular surgery patients requiring unplanned postoperative reintubation[J]. Journal of cardiothoracic and vascular anesthesia, 2O17, 31(2): 554-561.   
+7.Acheampong D, Guerrier S,Lavarias V, et al. Unplanned postoperative reintubation following general and vascular surgical procedures: Outcomes and risk factors[J]. Annals of medicine and surgery, 2018,33: 40-43.   
+8.Hahn R G. Adverse effects of crystalloid and colloid fluids[J]. Anaesthesiology intensive therapy, 2017, 49(4): 303-308.   
+9.Michett C P, Griffen M M, Teicher E J, et al. FRIEND or FOE: A prospective evaluation of risk factors for reintubation in surgical and trauma patients[J]. The American Journal of Surgery, 2018, 216(6): 1056-1062.   
+10．王戡，尹毅青．全身麻醉后再次气管插管的危险因素及预后分析[J]．中国医学科学院学报,   
+2017, 39(1): 145-149.   
+11．Rujirojindakul P,Geater A F, McNeil E B,et al. Risk factors for reintubation in the post-anaesthetic care unit: a case-control study[J]. British journal of anaesthesia, 2012,   
+109(4): 636-642.   
+12. Lin H T, Ting P C, Chang W Y, et al. Predictive risk index and prognosis of postoperative reintubation after planned extubation during general anesthesia: a single-center retrospective case-controlled study in Taiwan from 2005 to 2009[J].Acta Anaesthesiologica Taiwanica,2013, 51(1):3-9.   
+13．Ting P C, Chou A H, Yang M W, et al. Postoperative reintubation after planned extubation: a review of 137,866 general anesthetics from 2005 to 2007 in a Medical Center of Taiwan[J]. Acta Anaesthesiologica Taiwanica,2010, 48(4): 167-171.   
+14. Suraseranivong R, Krairit O, Theerawit P, et al. Association between age-related factors and extubation failure in elderly patients[J].PloS one,2O18,13(11): e0207628.   
+15.Brovman E Y, Steen TL, Urman R D.Associated risk factors and complications in vascular surgery patients requiring unplanned postoperative reintubation[J]. Journal of cardiothoracic and vascular anesthesia, 2O17, 31(2): 554-561.   
+16. Cavallone L F, Vannucci A. Extubation of the difficult airway and extubation failure[J]. Anesthesia & Analgesia,2013,116(2): 368-383.
+
+表1头颈部手术后非计划二次插管患者的单因素分析及预后  
+
+<html><body><table><tr><td>因素</td><td>R组(n=12)</td><td>C组 (n=48)</td><td>OR值/平均差 (95%CI)</td><td>P值</td></tr><tr><td>性别[n(%)] 男</td><td>5(41.7)</td><td>21(43.8)</td><td>0.92(0.26-3.31)</td><td>0.896</td></tr><tr><td>女</td><td>7(58.3)</td><td>27(56.2)</td><td></td><td>0.020</td></tr><tr><td>年龄(yr) [n (%)]</td><td></td><td></td><td></td><td></td></tr><tr><td>>65</td><td>3(25.0)</td><td>2(4.2)</td><td>7.69(1.12-52.63)</td><td></td></tr><tr><td><=65 BMI (kg/m²)</td><td>9(75.0)</td><td>46(95.8)</td><td></td><td>0.113</td></tr><tr><td>ASA 分级[n (%)]</td><td>26.4±1.9</td><td>23.9±0.6</td><td>2.54(-0.62-5.70)</td><td>0.037</td></tr><tr><td>1级</td><td>2(16.7)</td><td>24(50.0)</td><td></td><td></td></tr><tr><td>2级及以上</td><td>10(83.3)</td><td>24(50.0)</td><td>5.00(0.99-2.50)</td><td></td></tr><tr><td>吸烟史[n(%)]</td><td></td><td></td><td></td><td>0.133</td></tr><tr><td>是</td><td>4(33.3)</td><td>7(14.6)</td><td></td><td></td></tr><tr><td>否</td><td></td><td></td><td>2.93(0.69-12.35)</td><td></td></tr><tr><td></td><td>8(66.7)</td><td>41(85.4)</td><td></td><td></td></tr><tr><td>心脏疾病史[n(%)]</td><td></td><td></td><td></td><td>0.554</td></tr><tr><td>是</td><td>1(8.3)</td><td>2(4.2)</td><td>2.09(0.17-25.00)</td><td></td></tr><tr><td>否</td><td>11(91.7)</td><td>46(95.8)</td><td></td><td></td></tr><tr><td>脑卒中史[n(%)]</td><td></td><td></td><td></td><td><0.001</td></tr><tr><td>是</td><td>4(33.3)</td><td>1(2.1)</td><td>23.26(2.32-250.00)</td><td></td></tr><tr><td>否</td><td>8(66.7)</td><td>47(97.9)</td><td></td><td></td></tr><tr><td>哮喘/COPD 史 [n(%)]</td><td></td><td></td><td></td><td>0.472</td></tr><tr><td>是</td><td>0(0.0)</td><td>2(4.2)</td><td>1.04(0.98-1.11)</td><td></td></tr><tr><td>否</td><td>12(100.0)</td><td>46(95.8)</td><td></td><td></td></tr><tr><td>全身麻醉史[n (%)]</td><td></td><td></td><td></td><td>0.001</td></tr><tr><td>有</td><td>9(75.0)</td><td>12(25.0)</td><td>9.00(2.09-38.46)</td><td></td></tr><tr><td>无</td><td>3(25.0)</td><td>36(75.0)</td><td></td><td></td></tr><tr><td>Cormack-Lehane 分级[n (%)]</td><td></td><td></td><td></td><td>0.023</td></tr><tr><td>I级</td><td>5(33.3)</td><td>35(72.9)</td><td></td><td></td></tr><tr><td>Ⅱ级</td><td>3(25.0)</td><td>12(25.0)</td><td>1.75(0.36-8.47)</td><td>0.486</td></tr><tr><td>Ⅲ级</td><td>4(41.7)</td><td>1(2.1)</td><td>27.78(2.58-333.33)</td><td>0.006</td></tr><tr><td>IV级</td><td>0(0)</td><td>0(0)</td><td></td><td></td></tr><tr><td>麻醉医师年资[n (%)]</td><td></td><td></td><td></td><td>0.082</td></tr><tr><td>>10 years</td><td>5(41.7)</td><td>33(68.8)</td><td>0.32(0.09-1.19)</td><td></td></tr><tr><td><=10 years</td><td>7(58.3)</td><td>15(31.3)</td><td></td><td></td></tr><tr><td>液体负荷(ml/kg) [n (%)]</td><td></td><td></td><td></td><td>0.006</td></tr><tr><td><20</td><td>3(25.0)</td><td>38(79.2)</td><td></td><td></td></tr><tr><td>20~40</td><td>1(8.3)</td><td>1(2.1)</td><td>12.66(0.62-250.00)</td><td>0.098</td></tr><tr><td>>40</td><td>8(66.7)</td><td>9(18.8)</td><td>11.24(2.48-50.00)</td><td>0.002</td></tr><tr><td>WBC(x10°/L) [n (%)]</td><td></td><td></td><td></td><td>0.278</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>正常 不正常</td><td>9(75.0) 3(25.0)</td><td>42(87.5) 6(12.5)</td><td>2.33(0.49-11.12)</td><td></td></tr><tr><td>Hb(g/L) [n (%)] 正常 低于正常值</td><td>11(91.7) 1(8.3)</td><td>48(100.0) 0(0.0)</td><td>1.09(0.92-1.29)</td><td>0.044</td></tr><tr><td>CCr(ml/min) [n (%)] <70 >=70</td><td>5(41.7) 7(58.3)</td><td>3(6.3) 45(93.8)</td><td>10.75(2.08-55.56)</td><td>0.001</td></tr><tr><td>术后住院天数（IQR）</td><td>7(3.0,17.0)</td><td>2(2.0,5.0)</td><td></td><td>0.013</td></tr><tr><td>ICU天数（IQR）</td><td>1(0.0,2.8)</td><td>0(0.0,0.0)</td><td></td><td>0.000</td></tr></table></body></html>
+
+表2头颈部术后非计划二次插管患者的多因素回归分析  
+
+<html><body><table><tr><td>因素</td><td>OR值</td><td>95%CI</td><td>P值</td></tr><tr><td>全身麻醉史</td><td>11.93 10.12</td><td>1.36-104.63 1.03-99.17</td><td>0.025</td></tr><tr><td>Ccr<70ml/min</td><td>132.34</td><td>2.89-6065.81</td><td>0.047 0.012</td></tr><tr><td>Cormack-Lehane II级</td><td>13.95</td><td>1.66-117.42</td><td>0.015</td></tr><tr><td>液体负荷≥20ml/kg</td><td></td><td></td><td></td></tr></table></body></html>

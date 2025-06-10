@@ -1,0 +1,605 @@
+[
+    {
+        "type": "text",
+        "text": "多尺度自适应阈值局部三值模式编码算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张雨¹，王强'²，李柏林¹，高攀1(1．西南交通大学 机械工程学院，成都 610031;2．成都工业学院 机械工程学院，成都 611730)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对局部二值模式(local binary pattem，LBP)描述信息单一以及对噪声敏感的问题，提出一种多尺度自适应阈值局部三值模式(multi-scale adaptive local ternary pattemn，MSALTP)编码算法。MSALTP首先将原始图像放大；其次将图像平均划分成几个区域，并计算像素的均值；然后计算每个区域中心像素与均值的偏差；最后提取ALTP 特征，将结果统计特征直方图实现图像分类。实验表明提出的算法识别率比目前较好的抗噪声算法在不同的噪声下识别率有较大提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：局部三值模式；自适应阈值；多尺度 中图分类号：TP391.41 doi:10.19734/j.issn.1001-3695.2018.05.0569 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Coding algorithm of multi-scaled adaptive threshold local ternary pattern ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang $\\mathrm { Y u ^ { 1 } }$ , Wang Qiang1, ²,Li Bailin1, Gao Pan1 (1.Schoolof MechanicalEngineering,Southwest Jiaotong University,Chendu 61031,China;2.Schoolof Mechanical Engineering,Chengdu Institute of Technology,Chendu 611730, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe single descriptionandthe noise sensitive problemsofthe local binary patern(LBP),a multi-scale adaptive threshold local ternary pattern(MSALTP)algorithm is proposed.The algorithm first enlarges theoriginal images . Secondly,dividestheimages intoseveral regions equallandcalculates the meanvalueofthepixels.Thencalculates the deviationbetweenthecenterand the meanpixel valueofeach region.Finalyextract the ALTPfeaturesand theresulting statistical features histograms areused toclasifythe images.Experiments show thatthe proposed algorithmrecognition rates are higher than the current anti-noise algorithms under different noise. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:local ternary pattern;adaptive threshold;multi-scale ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "纹理是图像的重要特征之一，不同视觉图像含有不同的纹理构成。纹理分析、分类作为图像处理、计算机视觉和模式识别等领域的基本问题，其研究有着重要的理论价值和现实意义[1]。常用的纹理特征提取方法有灰度共生矩阵方法[2]、马尔可夫随机场方法[3]、小波变换方法[4]、分形理论[5]等，但这些方法存在计算复杂度较大、对存在光照不均匀变化、背景干扰及噪声影响图像的分类效果欠佳等问题。LBP纹理特征描述符已成功用于纹理分类[6。相比较其他算法，LBP 算子可以简单、有效地提取图像的纹理特征，较好地实现图像分析。LBP方法起源于纹理分析领域，最早由芬兰Oulu大学提出[7。因其原理简单、计算复杂度低而被广泛应用于图像分割、目标跟踪、人脸识别、医学图像分析等领域[8]。原始LBP算法对图像旋转、尺度、非均匀光照变化的鲁棒性较差，为提高LBP算法的抗噪声干扰的能力与鲁棒性，学者们提出了很多改进算法，如旋转不变均匀模式 $( L B P ^ { r i u 2 } .$ ）[9]、抗噪局部二值模式（noise-resistant local binary pattern,NRLBP）[10,11]。其中 Tan 提出的 LTP[12]算法引入 $\\pm t$ 量化阈值对图像进行编码，有效提升了算法对光照变化和噪声影响的鲁棒性。但由于原始LTP阈值为自定义固定阈值，需要做大量的实验来选择，所以该阈值不能适用于所有样本。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不同尺度的图像所描述的特征不同，运用多尺度7分析可以使图像的特征表达更具体，具有更好的鲁棒性。本文中将原始图像的尺寸利用线性插值法分别放大0.5倍、2倍，并提取三幅图像的纹理特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于多尺度的自适应阈值局部三值模式编码算法，在原始LTP算法的基础上将固定阈值优化为根据各个图像的纹理特征产生的自适应阈值，使该编码算法能够适应于各类图像；把对单个图像提取LTP特征增加为对该图像的多个尺度图像提取LTP特征，使图像的特征表达更加具体。图像局部特征在增加鲁棒性之外且具有了自适应性，更好地描述图像特征，以提高识别精度和抗噪声能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 局部二值模式及其改进",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 局部二值模式",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LBP通过比较图像上任意一个像素点与其周围邻域像素点的灰度值大小关系来编码图像局部纹理结构信息。如果该像素点的灰度值不大于其周围像素点的灰度值，则将该邻域像素点所在位置的值标记为1，否则置为0。按照统一的编码方向对不同的邻域点赋予不同的权重，将二进制序列转换成一个无符号十进制数，并用该值作为像素点的LBP特征值。原始的LBP 算子定义在 $3 ^ { * } 3$ 的窗口中，以窗口中心像素为阈值，其计算过程如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图1中，以中心像素点右侧的邻域像素点为起点逆时针方向旋转一周得到一串二进制序列，并由此得到对应的十进制数作为该像素的局部二值模式。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce3416248ef019ebfc7387e14b87e0feb8b6ad5973630aa1eb07ff24f0522d68.jpg",
+        "img_caption": [
+            "图1LBP算子计算过程示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Schematic diagram of LBP operator calculation process ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2旋转不变均匀模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1所示的方形邻域系统不能满足不同的尺寸和频率的要求。为了更加准确地反映纹理的特征，用圆形邻域结构代替方形的邻域结构。图2所示为不同邻域个数和邻域半径大小的圆形局部二值模式图[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7a00f21c60ea78ff97f45b0ef6889a59d63f8777ee9b73ad49781ef62c1da96.jpg",
+        "img_caption": [
+            "图2圆形邻域结构的LBP算子[10]"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LBP特征的计算公式[如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P _ { _ { p , r } } = \\sum _ { i = 0 } ^ { p - 1 } s ( g _ { i } - g _ { c } ) \\times 2 ^ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( x ) = \\left\\{ { 1 , x \\geq 0 } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { r }$ 表示邻域半径； $p$ 表示半径为 $\\boldsymbol { r }$ 的圆形邻域上均匀分布的像素点的个数； $\\boldsymbol { g } _ { c }$ 表示局部邻域中心像素点的灰度值；$g _ { i } ( i = 0 , 1 ^ { \\ldots } p - 1 )$ 表示邻域像素点的灰度值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ojala等人[5提出具有旋转不变性的LBP算子，即通过不断变换圆形邻域的起始编码序列得到一系列LBP的编码值，并将其中的最小值作为该邻域的LBP值。其数学描述如式(3)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P _ { p , r } ^ { r i } = \\operatorname* { m i n } \\{ R O R ( L B P _ { p , r } i ) \\vert i = 0 , 1 \\cdots p - 1 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $R O R ( x , i )$ 表示将 $x$ 对应的二进制数循环右移i位。引入旋转不变模式LBP算法对有旋转变化纹理图像的识别性能得到了大幅度提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ojala等人[为了进一步提高LBP特征的性能并降低特征维度，在旋转不变模式的基础上，按照二值编码序列中0/1（或1/0）变换次数将旋转不变模式分为旋转不变均匀模式（RotationinvariantuniformPattern,riu2）和旋转不变的非均匀模式。LBP 特征的旋转不变均匀模式（ $L B P ^ { r u 2 }$ ）如式(4)(5)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL B P _ { p , r } ^ { r i u 2 } = \\left\\{ \\sum _ { i = 0 } ^ { p - 1 } s ( g _ { i } - g _ { c } ) , U ( L B P _ { p , r } ) \\leq 2 \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( L B P _ { p , r } ) = \\left| s ( g _ { p - 1 } - g _ { c } ) - s ( g _ { 0 } - g _ { c } ) \\right| +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { p - 1 } \\bigl | s ( g _ { i } - g _ { c } ) - s ( g _ { i - 1 } - g _ { c } ) \\bigr |\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $U$ 表示二值序列中 $_ { 0 / 1 }$ （或1/0）的变换次数。本文中邻域点数 $p$ 为8，半径 $\\boldsymbol { r }$ 大小为2， $L B P ^ { r u 2 }$ 特征维度为10维。$L B P ^ { r u 2 }$ 使二进制模式的种类大大减少，有效降低了特征维度，而且不会丢失任何有效信息，因此使用更加广泛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 局部三值模式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LTP 是对LBP 的扩展[13]，它定义一个长度为 $2 t$ 的区间",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[-t,t]。若邻域像素点灰度值与中心像素点灰度值的差值在该区间的右边，则输入值编码为1；若差值在该区间左边，则输入值编码为-1；否则为0。其计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL T P _ { _ { P , r } } = \\sum _ { \\mathrm { i } = 0 } ^ { P - 1 } 3 ^ { ^ { \\prime } } \\times s ( g _ { i } , g _ { c } , t )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { s } ( g _ { i } , g _ { c } , t ) = \\left\\{ \\begin{array} { l l } { 1 , g _ { i } - g _ { c } \\geq t ; } \\\\ { 0 , | g _ { i } - g _ { c } | < t ; } \\\\ { - 1 , g _ { i } - g _ { c } \\leq - t . } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $r$ 表示邻域半径； $p$ 表示半径为 $\\boldsymbol { r }$ 的圆形邻域上均匀分布的像素点个数； $g _ { c }$ 表示局部邻域的中心像素点灰度值；$g _ { i } ( i = 0 , 1 ^ { \\ldots } p - 1 )$ 表示邻域像素点灰度值； $t$ 为局部三值模式的阈值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了简化实验计算，将LTP编码计算过程分解为正值计算部分和负值计算部分 $. [ 1 2 ]$ 。将原二进制编码中除1以外的值标记为0后得到的编码，定义为上模式。将原编码中去除-1以外的值标记为0并且用1取代原来的-1，得到的编码定义为下模式。LTP的上、下模式编码如图3所示，这里阈值 $t$ 的取值为5。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc34640243c6999a68963b43fddc4d06ad853d2f88332d9dd73678623dd59e79.jpg",
+        "img_caption": [
+            "Fig.2LBP operator of circular neighborhood structure[10] ",
+            "图3LTP 算子编码",
+            "Fig.3Coding of LTP operator "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 多尺度自适应阈值局部三值模式编码算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 多尺度分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多尺度图像技术也叫做多分辨率技术，是指对图像采用多尺度的表达，并且在不同尺度下分别进行处理。不同尺度下的图像所表现出的特征也不尽相同。这样做的理由是很多情况下在一种尺度中不容易看清的或者获取的特性在另外的某种尺度下就很容易发现或者是获取，所以多尺度技术在提取图像特征时更加常用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在提取图像的特征时，如果采取固定尺度的特征检测，就会得到偏向该尺寸的检测结果，而漏检很多其他尺度的特征。为了在不同尺度上图像中相同的特征被检测出，需要在图像的多个尺度上进行检测和匹配。不同的尺度会显示图片不同的特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在提取ALTP特征之前将原始图像 $I$ 使用双线性插值法分别放大0.5倍和2倍得到图像 $I _ { 1 / 2 }$ 、 $I _ { 2 }$ 。如果噪声多，缩放完成后得到的噪声会相对应地增多；如果噪声少，所对应的噪声也会减少。将数据缩放后进行一次重采集，对重新计算得到的数据进行辅助计算，以保证得到的最后结果的准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对每幅图像进行三个尺度的特征提取，增强其特征的描述能力。双线性插值法计算量大但缩放后的图像质量高，不会出现像素值不连续的情况。分别计算三幅图像的梯度幅值矩阵，将三幅图像的梯度幅值来加权其直方图统计权值。不同尺度下的图片分别提取ALTP特征，将得到的结果结合起来统计直方图用于分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此MSALTP方法能够提取图片的更多特征分类时具有更好的鲁棒性和准确率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 选取自适应阈值 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于传统的LTP算子的阈值 $t$ 为定值，不适用于所有的图像，每次实验时首先需要做大量的实验选取阈值，增加了实验难度，传统的LTP算子缺少自适应性；本文提出的基于LTP的自适应阈值方法，其阈值 $t$ 根据图像自身情况自适应选取，对光照变化和噪声有更好的鲁棒性，增强了局部纹理特征的分类性能。该方法为首先将图像分为若干个区域，获得每个区域的像素均值 $\\boldsymbol { \\mu } _ { b }$ 。计算每个区域中心像素与区域均值的偏差 $\\sigma _ { b }$ ，局部偏差反映的是各像素点与中心像素点数据集的离散程度，而且降低了图像受噪声干扰的影响[15]。因此令阈值 $\\boldsymbol { t } = \\boldsymbol { \\sigma } _ { b }$ ，其具体计算如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先设置图像 $I$ 的宽为 $W$ ，高为 $H$ 。将图像按照长度为$\\boldsymbol { W } _ { b }$ 的方块的大小平均划分为同样的大小、不重叠的区域，计算局部方差，生成局部方差直方图。每个区域的均值、偏差计算公式如式(8)\\~(10)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { b } \\left( x , y \\right) = 1 / N \\sum _ { i = - W _ { b / 2 } } ^ { W _ { b / 2 } } \\sum _ { j = - W _ { b / 2 } } ^ { W _ { b / 2 } } I \\left( x + i , y + j \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { b } \\left( x , y \\right) = \\sqrt { 1 / ( N - 1 ) \\sum _ { i = - W _ { b / 2 } } ^ { W _ { b / 2 } } \\sum _ { j = - W _ { b / 2 } } ^ { W _ { b / 2 } } \\left[ I \\left( x + i , y + j \\right) - \\mu _ { b } \\left( x , y \\right) \\right] ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN = W _ { b } * W _ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { W } _ { b }$ 为划分的区域的长； $N$ 为区域的大小； $I ( x , y )$ 为图像上 $\\left( x , y \\right)$ 点的像素值； $\\mu _ { b } \\left( x , y \\right)$ 为 $\\left( x , y \\right)$ 点所在区域的像素均值； $\\sigma _ { b } \\left( x , y \\right)$ 为 $\\left( x , y \\right)$ 点所在区域的像素偏差。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { s } ( g _ { i } , g _ { c } , t ) = \\left\\{ \\begin{array} { l l } { 1 , ~ g _ { i } - g _ { c } \\geq \\sigma _ { b } ; } \\\\ { 0 , | g _ { i } - g _ { c } | < \\sigma _ { b } ; } \\\\ { - 1 , g _ { i } - g _ { c } \\leq - \\sigma _ { b } . } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(11)中，若邻域像素点灰度值与区域像素均值的差值不小于 $\\sigma _ { b }$ ，则输入值编码为1；若差值不大于 $\\sigma _ { b }$ ，则输入编码值为-1；若差值在 $- \\sigma _ { b }$ 与 $\\sigma _ { b }$ 之间，则输入编码值为0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用ALTP特征提取的图像的上模式图和下模式图如图4所示。LBP算子提取的图像的特征如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/620f590fb524f19d558d066eac85b86b6d6546e399af7dda67d02cd48bf7cb4a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/20c84f651aa48db310c2b617847e6da47d0296f252205a8ee9906c00d5d1bb4a.jpg",
+        "img_caption": [
+            "Fig.4ALTP feature extraction of images "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过图4、5可以看出LTP算法能够详细地描述图像的亮点与暗点、边缘等信息。如图4、5所示，LTP算法比LBP提取的纹理更加清晰，有更好的识别能力，因此MSALTP提取的特征性能更好。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图像每个区域噪声强度的不同，ALTP根据每个区域噪声的强度选择不同阈值，实现自适应阈值局部三值模式编码。该算法不仅能够有效地解决噪声敏感的问题，还解决了原始LTP算法使用前要经过大量实验确定阈值的问题。ALTP方法以自适应阈值 $\\sigma$ 替代统一固定阈值t，根据每幅图像各个区域的噪声大小产生不同的阈值，比LBP算子有更好的抗噪声能力。在提取图片特征时不用通过大量实验验证，比LTP",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算子使用更加方便。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）将原始图像 $I$ 使用双线性插值法分别放大0.5倍和2倍得到图像 $I _ { 1 / 2 }$ 、 $I _ { \\ O _ { 2 } }$ 。b）对每幅图像平均划分成几个区域，根据式(8)\\~(10)计算图像每个区域像素的均值 $\\boldsymbol { \\mu } _ { b }$ ,然后提取每个区域中心像素与区域均值的偏差 $\\sigma _ { b }$ 0c）将提取的方差 $\\sigma _ { b }$ 作为局部三值模式的自适应阈值，如式(11)计算每幅图像的编码值。对图像提取ALTP特征，并将结果统计特征直方图。d）遍历数据库中的图像，将得到的特征直方图送入支持向量机进行模板训练与纹理分类识别。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1实验参数设置及数据选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验中采用KTH-TIPS、Outex、UIUC标准数据库以及铁路设施的自动检测项目所需要实际拍摄得到的铁路扣件库。铁路扣件库的实验用来检测MSALTP算子在实际操作中的可靠性。实验中使用的各个纹理库的数目、类别等如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/58e60cd4d46088c940c7bc9b783943bdd98eacd1370b33b9d883813ba07960d6.jpg",
+        "table_caption": [
+            "表1实验中使用的各纹理库特征",
+            "Table1 Characteristics of each texture library used in experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>图像库</td><td>图像数目</td><td>纹理类别数</td><td>训练样本数目</td></tr><tr><td>KTH_TIPS</td><td>810</td><td>10</td><td>40</td></tr><tr><td>Outex(TC12)</td><td>4800</td><td>24</td><td>20</td></tr><tr><td>UIUC</td><td>1000</td><td>24</td><td>20</td></tr><tr><td>铁路扣件</td><td>800</td><td>4</td><td>4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别使用LBP、固定阈值 $t = 5$ 的LTP、改进的自适应阀值的LTP以及区间值选取为2的NRLBP模式来处理图片并进行比较。为使实验数据准确四种模式均使用旋转不变均匀模式，且半径选取为2，邻域个数为8。在KTH-TIPS、Outex、UIUC标准数据库图像上分别添加数值为 $p = 0 . 2$ 、 $p = 0 . 4$ 、$p = 0 . 6$ 的椒盐噪声和 $\\sigma = 0 . 0 5$ 、 $\\sigma = 0 . 1 0$ 、 $\\sigma = 0 . 1 5$ 的高斯噪声。各个图像库的部分图片原图与添加不同数值椒盐噪声后的图片如图5\\~8所示。铁路扣件库为实际拍摄得到的数据库，因此不需要添加任何噪声，只需根据图像的实际情况来进行分类识别比较识别率。为避免随机偏差，在每个纹理库上均进行10次的实验，计算平均值作为实验结果。实验基于Matlab2014、Vlfeat0.9.21开源函数库，采用 $\\chi ^ { 2 }$ 核支持向量机[16评估各算法的分类性能。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/05f2375dcc3d872ca6093d04ccad7ff36f66f8e8bc860f080c4de1ec30492198.jpg",
+        "img_caption": [
+            "图4ALTP特征提取图像",
+            "图5KTH-TIPS 添加不同椒盐噪声的图片"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b84af7436b732c49cb851dff911bd79292110bd5cbe24796725e83681ba73666.jpg",
+        "img_caption": [
+            "Fig.5Picture of LBP feature ",
+            "Fig.5Pictures of KTH-TIPS adding different salt and pepper noise ",
+            "图6Outex 添加不同椒盐噪声的图片",
+            "Fig.6Pictures of Outex adding different salt and pepper noise "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cff208ce12d93d313233ec2b216eacefd496c580e12d0ac938756776985af94.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/53c803ebcc80c5334d73e1d190fd4f8fa2581fab022a42eb1d102b998d53fad5.jpg",
+        "img_caption": [
+            "Fig.7Pictures of UIUC adding different salt and pepper noise ",
+            "图8扣件数据库中的部分图片",
+            "Fig.8Part of images in fastener databases "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2实验结果分析与讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KTH-TIPS数据库纹理中包含了复杂的光照、旋转变化，其中每类图像的光照条件、拍摄的角度、尺度不同，主要用于测试不同算法对复杂环境变化的鲁棒性。表2为分别使用LBP、LTP、NRLBP、MSALTP算法对KTH-TIPS数据库分别不添加任何噪声以及添加数值为 $\\sigma = 0 . 0 5$ 、 $\\sigma = 0 . 1 0$ 、 $\\sigma = 0 . 1 5$ 的高斯噪声和数值为 $p = 0 . 2$ 、 $p = 0 . 4$ 、 $p = 0 . 6$ 的椒盐噪声的识别率。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a800d4ca125fe7dc52deb0a5836983d3945a60b2cf40be7c52e3ab32a6db3fb1.jpg",
+        "table_caption": [
+            "表2在KTH_TIPS数据库中添加不同噪声的识别率 $1 \\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">database/%</td></tr><tr><td>噪声强度</td><td>LBP</td><td>LTP</td><td>NRLBP</td><td>MSALTP</td></tr><tr><td>0</td><td>89.94</td><td>92.03</td><td>91.93</td><td>96.00</td></tr><tr><td>σ=0.05</td><td>75.41</td><td>90.64</td><td>78.10</td><td>91.96</td></tr><tr><td>σ=0.10</td><td>74.59</td><td>73.47</td><td>72.54</td><td>79.33</td></tr><tr><td>0=0.15</td><td>67.90</td><td>69.66</td><td>69.13</td><td>72.75</td></tr><tr><td>p=0.2</td><td>82.84</td><td>88.80</td><td>86.10</td><td>91.82</td></tr><tr><td>p=0.4</td><td>60.21</td><td>76.71</td><td>80.61</td><td>86.36</td></tr><tr><td>p=0.6</td><td>47.95</td><td>61.13</td><td>76.98</td><td>84.37</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可以看出，MSALTP算法比原始的LTP算法的识别率在添加不同噪声的情况下有明显的增加，说明本文方法对光照有更好的鲁棒性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图11为对KTH-TIPS 数据库中的图像添加 $p = 0 . 2$ 的椒盐噪声，提取LTP、NRLBP、ALTP特征，并改变LTP、NRLBP算子的阈值 $t$ 的大小，与ALTP结果做比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9344fe37e124b5994c90e01f895e82ea720c36453a8e1d2dd1e61f609f393eb.jpg",
+        "img_caption": [
+            "图7UIUC 添加不同椒盐噪声的图片",
+            "图11添加 $p = 0 . 2$ 的椒盐噪声的KTH-TIPS数据库下提取不同阈值时不同算子的识别率 $7 \\%$ ",
+            "Fig.11Recognition rates of different operators when extracting diferent thresholds under KTH-TIPS database of salt and pepper noise "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d1d768bd88c943b15a8cde321bb249c58352348662f6d6acf1982c04068d319.jpg",
+        "table_caption": [
+            "Table 2Identification rates of adding different noises in KTH_TIPS "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">database /%</td></tr><tr><td>噪声强度</td><td>LBP</td><td>LTP</td><td>NRLBP</td><td>MSALTP</td></tr><tr><td>0</td><td>90.17</td><td>94.67</td><td>94.36</td><td>96.88</td></tr><tr><td>σ=0.05</td><td>85.72</td><td>93.60</td><td>85.34</td><td>94.65</td></tr><tr><td>σ=0.10</td><td>80.64</td><td>92.05</td><td>85.46</td><td>94.06</td></tr><tr><td>σ=0.15</td><td>76.33</td><td>85.72</td><td>84.38</td><td>92.22</td></tr><tr><td>p=0.2</td><td>87.20</td><td>91.82</td><td>89.01</td><td>94.38</td></tr><tr><td>p = 0.4</td><td>68.02</td><td>86.54</td><td>80.66</td><td>89.65</td></tr><tr><td>p=0.6</td><td>65.46</td><td>72.64</td><td>70.74</td><td>85.33</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图11可以看出LTP、NRLBP算子的阈值t选择不同，图像的识别率也不相同。因此在做大量实验之前无法确定对识别率最好的阈值t，而且如果图片发生变化，又要重新对阈值t进行选择。ALTP算子通过图像的纹理特征自动确定阈值 $t$ 的大小，使用方便，而且通过图11可以看出其识别率也高于不同阈值下的LTP、NRLBP算子的识别率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TC12和UIUC数据库纹理都有明显的旋转变化，主要用于测试不同算法对旋转变化的鲁棒性；TC12数据库中有三种光照条件。表3、4为分别使用LBP、LTP、NRLBP、MSALTP算法对TC12和UIUC数据库分别不添加任何噪声以及添加数值为 $\\sigma = 0 . 0 5$ 、 $\\sigma = 0 . 1 0$ 、 $\\sigma = 0 . 1 5$ 的高斯噪声和数值为$p = 0 . 2$ 、 $p = 0 . 4$ 、 $p = 0 . 6$ 的椒盐噪声的识别率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3在Outex(TC12)数据库中添加不同噪声的识别率 $7 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/99b00fa5317d712d066ca0926973b193cd1b4e483a5391a539e6931ce5030e71.jpg",
+        "table_caption": [
+            "Table 3Identification rates of adding different noises in Outex(TC12) "
+        ],
+        "table_footnote": [
+            "表4在UIUC数据库中添加不同噪声的识别率 $1 \\%$ "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">database/%</td></tr><tr><td>噪声强度</td><td>LBP</td><td>LTP</td><td>NRLBP</td><td>MSALTP</td></tr><tr><td>0</td><td>71.67</td><td>93.45</td><td>94.25</td><td>94.56</td></tr><tr><td>0 = 0.05</td><td>66.11</td><td>84.31</td><td>83.45</td><td>91.81</td></tr><tr><td>σ=0.10</td><td>55.60</td><td>82.25</td><td>71.93</td><td>91.06</td></tr><tr><td>σ=0.15</td><td>59.78</td><td>61.34</td><td>60.69</td><td>84.61</td></tr><tr><td>p= 0.2</td><td>61.99</td><td>71.04</td><td>65.55</td><td>73.70</td></tr><tr><td>p=0.4</td><td>50.54</td><td>68.29</td><td>70.90</td><td>71.44</td></tr><tr><td>p=0.6</td><td>43.63</td><td>49.26</td><td>47.28</td><td>53.61</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3、4可以看出，MSALTP算法比原始的LTP算法的识别率在添加不同噪声的情况下有明显的增加，说明改进后的MSALTP算法对旋转变化的图像有更好的鲁棒性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "铁路扣件数据库为实际项目铁路扣件自动安全巡检需要，根据实际图像进行识别。表5为分别使用LBP、LTP、NRLBP、MSALTP算法对铁路扣件数据库分别不添加任何噪声的识别率。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e408fcd70d689d61b3da4abc5a4b68c9072c4561ea8e64024848f39780cad53.jpg",
+        "table_caption": [
+            "Table 4Identification rates of adding different noises in UIUC ",
+            "表5在铁路扣件数据库中识别率/%",
+            "Table 5Identification rates in railway fastener database/% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据库</td><td>LBP</td><td>LTP</td><td>NRLBP</td><td>MSALTP</td></tr><tr><td>铁路扣件</td><td>76.00</td><td>82.02</td><td>86.50</td><td>90.24</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表5可以看出本文提出的算法在实际项目操作中依然具有更高的识别率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2\\~5及图11的实验数据来看，本文改进的LTP算法在KTH-TIPS、OuTex、UIUC纹理库上识别率均高于其余LBP算法，说明改进后的ALTP算法具有较强的特征鉴别能力；而在具纹理光照多样性和旋转变化的OuTex、UIUC和KTH-TIPS数据库上，改进后的MSALTP算法识别率明显高于其余算法，说明ALTP算法对光照、旋转变化的鲁棒性较强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由以上各个实验结果分析，ALTP算子与现有算法相比在不同的数据库中不同的噪声干扰情况下具有更好的识别能力，因此该编码算法有效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LBP算法特征存在描述信息单一以及对噪声敏感的问题。原始LTP算法能够加强中心像素与邻域之间的联系。通过增强中心点和邻域点的联系，进一步减少噪声对纹理特征的影响，提高算法的鲁棒性。但是原始LTP阈值t的选取需要通过大量的实验来确定，不同的纹理库需要不同的阈值，加大了实验的难度。本文在LTP方法的基础上，提出了一种基于多尺度自适应阈值的局部三值模式编码算法。该方法能够根据图像自身的纹理确定阈值，在继承原始LTP算法的优点的同时提高该算法的适应性，实验表明此方法有效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]刘丽，谢毓湘，魏迎梅，等．局部二进制模式方法综述[J]．中国图 像图形学报，2014，19(12):1696-1720.(Liu Li,Xie Yuxiang，Wei Yingmei,et al.Survey of local binary pattern method [J]. Journal of Image and Graphics,2014,19(12):1696-1720.)   \n[2]Vargas JF,Ferrer M A,Travieso C M,et al.Off-Line signature verification based on grey level information using texture features [J]. Pattern Recognition,2011,44 (2): 375-385.   \n[3]Huang A，Abugharbieh R,Tam R.A novel rotationally invariant region-based hidden Markovmodel for efficient 3-Dimage segmentation [J].IEEE Trans on Image Processing，2010,19(10): 2737-2748.   \n[4]Choy SK,Tong C S.Statistical wavelet subband characterization based on generalized gamma density and its application in texture retrieval [J]. IEEE Trans on Image Processing,2010,19 (2):281-289.   \n[5]Galloway M.Texture analysis using gray level run lengths [J]. Computer Graphics and Image Processing,1975,4(2):172-179.   \n[6]Ojala T,Pietikainen M,Howard D.A comparative study ot texture measures with classification based on feature distributions [J].Pattern Recognition,1996,29(1):51-59.   \n[7] 黄辰，费继友，刘晓东．基于高斯局部二值模式的纹理特征分类方 法[J].电子技术应用,2018,44(1):121-124.(Huang Chen,Fei Jiyou, Liu Xiaodong.Texture feature classification method based on Gaussian local binary pattern [J].Application of Electronic Technique,2018,44 (1): 121-124.)   \n[8]Ojala T,Pietikainen M.Multiresolution gray-scale and rotation invariant texture classification with local binary patterns [J].IEEE Transactions on Pattrn Analysis and Machine Intelligence,2oo2,24(7): 971-987.   \n[9]宋克臣，颜云辉，陈文辉，等．局部二值模式方法研究与展望[J]. 自动化学报,2013,39(6):730-744.(Song Kechen,Yan Yunhui,Chen Wenhui,et al. Research and perspective on local binary pattern [J]. Acta Automatica Sinica,2013,39 (6):730-744.)   \n[10]冀中，聂林红．基于抗噪声局部二值模式的纹理图像分类[J].计算 机研究与发展，2016,53(5):1128-1135.(Ji Zhong，Nie Linhong. Texture image classification based on anti-noise local binary pattern [J]. Journal of Computer Research and Development，2016，53 (5): 1128-1135.)   \n[11] Ren Jianfen,Jiang Xudong,Yuan Junsong.Noise resistant local binary pattern with an embedded error-correction mechanism [J].IEEE Trans on Image Processng.2013,22 (10): 4049-4060.   \n[12] Tan Xiaoyang,Bill T.Enhanced local texture feature sets for face recognition under dificult lighting conditions [J]. IEEE Trans on Image Processing,2010,19 (6): 1635-1650.   \n[13]郑秋梅，谢换丽，王风华，等．一种基于局部三值模式的深度学习人 脸识别算法[J].计算机与现代化,2018 (2):112-117.(Zheng Qiumei, Xie Huanli,Wang Fenghua,et al.A Deep learning face recognition algorithm based on local three-valued mode [J].Computer and Modernization,2018 (2):112-117.)   \n[14]赵灵芝，李伟生．一种基于LTP特征的图像匹配方法[J]．计算机应 用研究，2009,26(10):3983-3985.(Zhao Lingzhi,Li Weisheng.An image matching method based on LTP feature [J].Application Research of Computers,2009,26 (10): 3983-3985.)   \n[15]陈会娟，戴声奎．改进的基于分块法的图像噪声估计[J].计算机应 用,2014,34(7): 2014-2017.(Chen Huijuan,Dai Shengkui.Improved image noise estimation based on block method [J].Journal of Computer Applications,2014,34(7): 2014-2017.)   \n[16] Akata Z,PerronninF,Harchaoui Z,et al.Good practice in large-scale learning for image classification [J]. IEEE Trans on Pattern Analysis and Machine Intelligence,2014,36 (3): 507-520. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

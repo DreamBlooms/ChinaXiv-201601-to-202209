@@ -1,0 +1,560 @@
+[
+    {
+        "type": "text",
+        "text": "基于核函数与马氏距离的FCM图像分割算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王燕，元祥惠，段亚西(兰州理工大学 计算机与通信学院，兰州 730050)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对模糊聚类算法邻域信息与空间信息利用率低易受噪声影响的问题，提出一种结合核函数与马氏距离的FCM算法，即FCMKM算法。首先，将图像像素点由低维空间通过核函数非线性映射到高维空间；然后，利用马氏距离替换原有的欧式距离作为高维空间距离量度；最后，利用改进后的算法对图像进行分割。为验证FCMKM算法的性能，选取 Bezdek 划分系数、Xie_Beni系数、重构错误率、运行时间、迭代次数五个评测指标作为对比实验的评价标准。实验结果表明，与传统FCM算法、基于核函数的FCM算法、基于马氏距离的FCM算法相比,FCMKM算法能有效的提高模糊聚类算法的抗噪性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：核函数；马氏距离；图像分割；模糊聚类；邻域信息；空间信息中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2018.05.0571",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Image segmentation of FCM algorithm based on kernel function and Markov distance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Yan, Qi Xianhui,Duan Yaxi (College of Computer& Communication,LanZhou University of Technology,Lanzhou 73oo50,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorderto solve theproblem thatthelowutilizationrateoftheneighborhood informationand spatial information ledto vulnerabilityto noiseoffuzzyclustering algorithm,This paper proposed afuzzy C-meansalgorithm combinig kernel functionand Mahalanobis distance(FCMKM).Firstly,itnon-linearlymappedthe image pixels from low-dimensionalspace tohigh-dimensionalspace through the kernel function.Then,itreplacedtheoriginalEuclidean distancewith Mahalanobisdistanceasa high-dimensional spatial distancemeasurement.Finally,itused theimproved algorithm to segment the image.The paperselected five evaluation indexes Bezdek partition coeficient，Xie_Beni coeficient,reconstruction errorrate,running timeand iteration numberas evaluation criteriaofcomparative experiments to verifythe performanceoftheFCMKM algorithm.Experimental results show thatcompared with traditionalFCMalgorithm, kernel function based FCMalgorithm and markov distance basedFCM algorithm,FCMKM algorithmcan effectively improve the anti-noise performance of fuzzy clustering algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:kernel function;Mahalanobis distance；image segmentation；fuzzyclustering;neighborhood information; spatial information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像分割在图像分析的预处理阶段[1具有十分重要的作用，是图像后期分析的基础。图像分割是根据图像的各方面属性将图像分为多个互不重叠且具有相同属性的区域，各区域叠加为整个图像，区域内部属性相似性高，区域之间差异性明显[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "模糊聚类算法是模糊理论与聚类算法结合产生的新算法，通过对数据集进行模糊划分，得到合适的聚类结果。Dunn等提出模糊C均值算法（FCM)，并且Bezdek等人[3]首次将模糊聚类算法应用到图像分割领域。近年来，许多学者在基于模糊聚类的图像分割方面作出了大量的成果。为提高模糊聚类算法的抗噪性，文献[4]通过引入邻域隶属函数，加强了邻域对像素隶属度确定的影响，但应用于自然图像和医学图像分割时却出现了丢失空间信息的问题。文献[5]通过引入软集概念，得到改进的软集模糊聚类分割算法，但由于CT图像特点，使得实验结果图像边界噪声明显、抗噪性能较差。为解决噪声对边界分割的影响，文献[6提出了一种多目标进化模糊聚类算法，由于模糊聚类算法具有过度依赖隶属度函数的特性，不能很好地解决边界噪声问题，使得到的分割结果存在误差。文献[7]通过将像素相关性引入到模糊因子中，提高了模糊聚类算法抗噪性，但是处理效率较低、算法时间复杂度较高。文献[8]引入马尔可夫随机场函数，能有效地提高对模拟噪声的抗噪能力，但是对处理含有自然噪声的图像时提高不明显。文献[9]通过引入邻域相对熵来计算隶属度，该算法提高了模糊聚类算法的抗噪性，但是增加了运算时间，使算法的整体性能下降。文献[10]采用基于广义高斯分布的模糊聚类算法对模糊聚类结果进行边界修整，但是分割结果中的边界与实际边界存在误差，分割过程丢失边界信息，仍无法解决噪声问题。Hussain等人[1提出一种基于核函数局部信息的FCM（KWFLICM）算法，该算法利用核函数能有效地提高模糊聚类算法的抗噪性，但是在处理自然图像时存在分割不完整现象。Zhao 等人[2]提出一种结合马氏距离的FCM（FCM-M）算法，该算法能有效地提高离散数据的聚类效果，提高了算法的抗噪性，但是在应用于图像分割时，不能有效地分割目标区域。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了解决模糊聚类算法噪声问题，本文提出一种结合核函数与马氏距离的模糊聚类算法（fuzzyC-meansalgorithmcombining the kernel function with the Mahalanobis distance,FCMKM)，即利用核函数与马氏距离结合改进FCM算法进行图像分割。首先，利用核函数与马氏距离对目标函数进行改进；然后，利用改进后的算法对图像进行分割。通过对比实验证明，本文提出的算法对于人工合成图像和Berkeley图像库图像都能有效解决模糊聚类算法抗噪性问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 FCMKM算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1核函数与马氏距离",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "核函数[13]就是将原有空间的像素通过新的特征向量模式映射到高维特征空间，将低维度的非线性信息转换为高维度线性问题进行处理。对所有的 $x$ ， $z \\in \\mathbf { X }$ ，函数K $( x , \\ z )$ ${ \\it \\Psi } = \\varphi ( { \\boldsymbol { x } } ) \\cdot \\varphi ( z )$ ，则称 $\\ K ( x , z )$ 为核函数， $\\varphi ( x )$ 为映射函数， $\\varphi ( { \\boldsymbol { x } } ) \\cdot \\varphi ( { \\boldsymbol { z } } )$ 为 $x , z$ 映射到高维特征空间上的内积。由于映射函数十分复杂难以计算，在实际中通常都是使用核函数来求解内积，计算复杂度并没有增加，映射函数仅仅作为一种逻辑映射，表征着输入空间到高维特征空间的映射关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "常用的核函数包括线性核函数、多项式核函数、高斯核函数、Sigmoid核函数、字符串核函数。本文采用高斯核函数作为实验核函数，如式（1）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( x , z ) = \\exp \\left( - \\frac { \\left\\| x - z \\right\\| ^ { 2 } } { 2 \\sigma ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\sigma$ 表示数据的标准差，其对数据中存在的噪声具有较好的抗干扰能力，但却具有很强的局部性。为改善核函数局部特性，引入具有全局性的马氏距离，提高算法的全局性，避免陷入局部最优解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "马氏距离[14]（Mahalanobisdistance）是由印度统计学家马哈拉诺比斯（P.C.Mahalanobis）提出的，表示数据的协方差距离。它是一种能有效地计算两个未知样本集相似度的方法。与欧氏距离不同的是，它通过引入协方差矩阵，能有效地描述两个样本点之间的全局性关系，包含更多的邻域信息与空间信息。马氏距离计算公式如式（2）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( x , y ) = \\sqrt { ( x - y ) ^ { T } { \\sum } ^ { - 1 } ( x - y ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Sigma$ 表示协方差矩阵，为 $x , \\ y$ 之间的协方差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2聚类数自与初始聚类中心选取",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "聚类数目和初始聚类中心的选取对提高模糊聚类算法的性能至关重要。为了得到性能更好的模糊聚类算法，本文对聚类数目和初始聚类中心的选取方式进行改进。将图像灰度值进行映射，得到灰度值变化折线图。因为灰度值变化明显的地方通常对应目标或背景所在的区域，所以通过计算灰度变化折线图的局部极值能有效地找到最佳聚类中心。将局部极值作为聚类中心，局部极值的个数作为聚类数。具体的计算步骤为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)计算目标图像的灰度直方图，并得到灰度变化折线图；b)计算灰度变化折线图局部极值，并做记录；c将局部极值作为聚类中心，局部极值的个数作为聚类数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3评价指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为防止主观评价因素的影响，现引入Bezdek划分系数[15]、Xie_Beni 系数[16]、重构错误率[17]、运行时间和迭代次数五个指标作为评测分割效果的指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)Bezdek划分系数是一个判定分类模糊性程度的标准。分类越分明时，值越大；分类越模糊时，值越小。Bezdek划分系数计算公式如式（3）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = \\frac { 1 } { c } \\sum _ { j = 1 } ^ { n } \\left( \\sum _ { j = 1 } ^ { n } u _ { i j } ^ { 2 } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 为聚类数目； $n$ 为样本数； $u _ { i j }$ 为隶属度矩阵 $U$ 的元素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）Xie-Beni系数计算公式如式（4）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { x b } = \\frac { I _ { x b } } { L _ { x b } } = \\frac { \\displaystyle \\frac { 1 } { n } \\sum _ { i = 1 } ^ { c } \\sum _ { j = 1 } ^ { n } u _ { i j } ^ { m } \\left\\| x _ { j } - \\nu _ { i } \\right\\| ^ { 2 } } { \\displaystyle \\operatorname* { m i n } _ { j \\neq k } \\left\\| \\nu _ { j } - \\nu _ { k } \\right\\| ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $I _ { x b }$ 表示Xie-Beni系数的紧致性，用于评价类内的内聚度； $L _ { x b }$ 表示分离性，用于评价不同类间的耦合度。因为好的聚类划分应使类间的耦合度尽可能低，而类内的内聚度尽可能高。Xie-Beni系数越小，聚类的内聚度越高，耦合度越低，分类效果越明显。 $u _ { i j }$ 为隶属度矩阵 $U$ 的元素； $\\mathbf { \\sigma } _ { \\nu _ { i } }$ 、vj、 $\\nu _ { k }$ 为聚类中心矩阵 $V$ 的元素； $x _ { j }$ 为实验对象的元素； $m$ 为模糊系数；$n$ 为样本数； $\\mathbf { \\Psi } _ { c }$ 为聚类数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)重构错误率用来刻画分割后的重构图像与原图像之间的差别，预期所得到的图像与原图像尽可能地相似。因此一个好的图像分割算法重构错误率应尽可能地接近0。重构错误率计算公式如式（5）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\left\\| \\frac { \\displaystyle \\sum _ { k = 1 } ^ { c } u _ { k i } ^ { m } x _ { i } } { \\displaystyle \\sum _ { k = 1 } ^ { c } u _ { k i } ^ { m } } - x _ { i } \\right\\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $u _ { k i }$ 为隶属度矩阵 $U$ 的元素； $\\mathbf { \\Psi } _ { c }$ 为聚类数目； $x _ { i }$ 为实验对象的元素； $n$ 为样本数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d)运行时间是指算法从输入图像到图像分割完成后输出图像所需要的全部时间。通过计算运行时间，能有效地评价算法的时间复杂度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)迭代次数是指算法在更新隶属度和聚类中心时的运行次数，每更新一次迭代次数加1。通过计算迭代次数，可以有效地评价算法的收敛性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 FCMKM算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对模糊聚类目标函数公式（式（6)）进行改进，将核函数与马氏距离融入式（6）中，通过提高模糊聚类算法邻域信息与空间信息利用率，以提高算法的抗噪性。提出FCMKM算法的目标函数公式，如式（7）（8）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { o l d } = \\sum _ { i = 1 } ^ { c } \\sum _ { k = 2 } ^ { n } { u _ { i k } } ^ { m } \\left\\| x _ { k } - \\nu _ { i } \\right\\| _ { A } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = { \\sum _ { i = 1 } ^ { c } \\sum _ { k = 2 } ^ { n } { u _ { i k } } ^ { m } M K ( x _ { k } , \\nu _ { i } ) } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM K ( x _ { k } , \\nu _ { i } ) = \\sqrt { K ( x _ { k } , \\nu _ { i } ) ^ { T } \\sum ^ { - 1 } K ( x _ { k } , \\nu _ { i } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：MK $( \\boldsymbol { x } _ { k } , \\ \\boldsymbol { \\nu } _ { i } )$ 表示第 $k$ 个元素到第 $i$ 个聚类中心在高维空间的马氏距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据拉格朗日乘数法，求得隶属度迭代公式如式（9）所示，聚类中心迭代公式如式（10）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i j } = \\frac { 1 } { \\displaystyle \\sum _ { k = 1 } ^ { c } \\left( \\frac { M K _ { i j } } { M K _ { k j } } \\right) ^ { \\frac { 2 } { m - 1 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { i } = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } ( u _ { i j } ) ^ { m } x _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { n } ( u _ { i j } ) ^ { m } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FCMKM算法具体流程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a）对待分割图像进行初始化处理，通过本文改进算法，求得聚类数目 $\\mathbf { \\Psi } _ { c }$ 和初始聚类中心 $V ( 0 )$ ，设定迭代终止阈值 $\\mathbf { \\sigma } _ { \\varepsilon }$ 及迭代计数器 $\\scriptstyle b = 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)根据式(9)计算或更新隶属度矩阵 $U ( b )$ ，据公式（10)更新聚类中心矩阵 $V ( b { + } I )$ 。如果 $\\| \\mathbf { G } ( \\mathsf { b } ) \\mathbf { - } \\mathbf { G } ( \\mathsf { b } + 1 ) \\| < \\varepsilon$ ，则迭代终止；如果未达到终止阈值但是达到最大迭代次数，则迭代终止；若未满足迭代终止条件，则迭代计数器 $\\mathbf { b }$ 加1，并重复本步骤。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c）迭代终止后，根据式（7）计算使目标函数最小的隶属度矩阵 $U$ 和聚类中心矩阵 $V$ ，即为最佳隶属度矩阵 $U$ 和最佳聚类中心矩阵 $V$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d）对于任意像素点 $x _ { i }$ ，计算其对应的最佳隶属度矩阵$U _ { i }$ （即最佳隶属度矩阵 $U$ 中的第 $i$ 行元素）中元素的最大值$u _ { i j }$ ，将 $u _ { i j }$ 对应的最佳聚类中心vj的灰度值作为像素点 $x _ { i }$ 的灰度值。重复此过程，直至所有像素点灰度值都更新完毕，算法终止，输出分割后的图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FCMKM算法流程如图1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验结果及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文提出算法的有效性，实验采用两类图像作为实验对象，分别是人工合成图像和Berkeley图像分割数据库图像。同时对传统FCM、基于核函数的FCM（KWFLICM）、基于马氏距离的FCM（FCM-M）进行分割性能比较。实验环境为 $\\mathrm { I n t e l } ^ { \\mathrm { ( R ) } } { \\bf C o r e } ^ { \\mathrm { ( T M ) } } \\mathrm { i } 5$ 处理器,CPU主频为 $2 . 6 \\mathrm { G H z }$ ,8 GB内存，Windows10系统的PC机，采用MATLAB（R2016b）编译语言实现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为选取模糊加权指数 $\\mathbf { m }$ 的最佳值，现对m进行不同赋值（ $_ \\mathrm { m } { = } 1 . 5$ ，1.6，...，2.1)。针对不同的 $\\mathbf { m }$ 值，利用FCMKM算法对图2（a）进行分割实验，实验结果如图2（b）～（h)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a70141d5cf4b90378951085b2b8bbfc8e9031ed17ea410ab5ebf46a8163b46c2.jpg",
+        "img_caption": [
+            "图1FCMKM算法流程Fig.1FCMKMalgorithm flow",
+            "图3人工合成图像",
+            "Fig.3Synthetic image "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4506f2874d4e10224457c84060f3f30b09bdafee1e8c75419b2823a75f2ce76.jpg",
+        "img_caption": [
+            "图2模糊系数实验结果",
+            "Fig.2Experimental results of ambiguity coefficient "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对 $\\mathbf { m }$ 不同取值，对实验结果进行Bezdek划分系数、Xie_Beni系数、重构错误率三个客观评价指标分析，结果如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1参数设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ed732d45c6e0d5d0c9ad963259489a07a1084b8a39384c67e54073cea4020cb.jpg",
+        "table_caption": [
+            "表1模糊系数实验结果",
+            "Table1 Experimental results of ambiguity coefficient "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Bezdek划分系数</td><td>Xie_Beni系数</td><td>重构错误率</td></tr><tr><td>m=1.5</td><td>0.9988</td><td>0.8059</td><td>0</td></tr><tr><td>m=1.6</td><td>0.9988</td><td>1.0496</td><td>0</td></tr><tr><td>m=1.7</td><td>0.9989</td><td>0.5875</td><td>0</td></tr><tr><td>m=1.8</td><td>0.9994</td><td>0.7805</td><td>0</td></tr><tr><td>m=1.9</td><td>0.9996</td><td>0.8084</td><td>0</td></tr><tr><td>m=2.0</td><td>0.9989</td><td>1.0573</td><td>0</td></tr><tr><td>m=2.1</td><td>0.9991</td><td>1.0561</td><td>0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据图2实验效果可以看出，当 $\\mathrm { \\ m } { = } 1 . 7$ 和 $\\mathrm { m } { = } 1 . 8$ 时，算法分割效果较差，因此舍弃 $\\mathrm { m } { = } 1 . 7$ 和 $\\mathrm { m } { = } 1 . 8$ 。根据表1数据，选取Bezdek划分系数较大、Xie_Beni系数较小的值，综合两者的因素，选取Bezdek划分系数最大、Xie_Beni系数相对较小的 $\\mathrm { m } { = } 1 . 9$ 作为实验用模糊加权指数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设置迭代终止阈值 $\\varepsilon = 1 0 ^ { - 4 }$ ，为防止迭代多次后仍达不到迭代终止阈值的情况发生，设置最大迭代次数为100次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2人工合成图像",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用图3中四幅人工合成灰度不均匀图像作为实验图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8(a)8字图 (b)模拟噪声图像 (c)球形图案 (d)组合图形",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别采用传统FCM算法、KWFLICM算法、FCM-M算法和FCMKM算法四种算法对图像进行分割实验，图像分割结果如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过实验结果发现，传统FCM算法、KWFLICM算法、FCM-M算法都无法将目标和背景有效地进行分离。本文提出的方法能有效地将目标与背景分离，且能将有效地减少噪声的干扰。为防止主观评定因素的干扰，利用Bezdek划分系数、Xie_Beni系数、重构错误率三个指标对分割结果进行客观分析，分析结果如表\\~4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对表2\\~4数据的对比发现，本文提出的FCMKM算法Bezdek划分系数平均提高了 $2 4 . 2 \\%$ ,Xie_Beni系数平均减少了 $5 3 . 9 \\%$ ，重构错误率平均减少了 $9 7 . 2 9 \\%$ 。本文算法的分割效果提高明显，能有效地利用邻域信息与空间信息，提高算法的抗噪能力，对噪声图像分割效果明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 抗噪性能实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为检验本文提出算法的抗噪性，对图3（a）进行噪声模拟实验。对图3（a）分别添加高斯噪声、椒盐噪声和白噪声，将添加噪声后的图像进行分割，检验算法的抗噪性能，实验结果如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d89e6daabe9bf76990473efecdba78f3177bce955d54a6bc65997958afcb88d.jpg",
+        "img_caption": [
+            "图4人工合成图像分割效果对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/34bd64162300ef1adcef95c84e815cdd8b9c7a78e596f0d3fa2dd634af75738f.jpg",
+        "table_caption": [
+            "Table 2Experimental results of Bezdek partition coefficient "
+        ],
+        "table_footnote": [
+            "表3Xie_Beni系数实验结果"
+        ],
+        "table_body": "<html><body><table><tr><td>算法</td><td>8字图像</td><td>模拟噪声图</td><td>球形图</td><td>组合图形</td></tr><tr><td>传统FCM</td><td>0.8819</td><td>0.8926</td><td>0.8926</td><td>0.9247</td></tr><tr><td>KWFLICM</td><td>0.9908</td><td>0.9987</td><td>0.9987</td><td>0.9997</td></tr><tr><td>FCM-M</td><td>0.6583</td><td>0.9682</td><td>0.3438</td><td>0.9977</td></tr><tr><td>FCMKM</td><td>1</td><td>0.9941</td><td>1</td><td>0.9996</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ed60f10f483b56e80f0fff23bbea3d108f85e28a30b439e03b18ff6776f09e2.jpg",
+        "table_caption": [
+            "表2Bezdek划分系数实验结果",
+            "Table 3Experimental results of XIe_Beni coefficient ",
+            "Table 4Experimental results of reconfiguration error rate "
+        ],
+        "table_footnote": [
+            "表4重构错误率实验结果"
+        ],
+        "table_body": "<html><body><table><tr><td>算法</td><td>8字图像</td><td>模拟噪声图</td><td>球形图</td><td>组合图形</td></tr><tr><td>传统FCM</td><td>1.2669</td><td>0.8993</td><td>0.8993</td><td>1.6522</td></tr><tr><td>KWFLICM</td><td>0.7108</td><td>4.017</td><td>4.017</td><td>0.5604</td></tr><tr><td>FCM-M</td><td>2.1564</td><td>0.4756</td><td>0.4958</td><td>0.0322</td></tr><tr><td>FCMKM</td><td>0.271</td><td>0.4284</td><td>0.1928</td><td>0.0799</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法 8字图像 模拟噪声图 球形图 组合图形  \n传统FCM 3.66E-28 1.49E-28 1.49E-28 1.91E-28  \nKWFLICM 1.02E-29 2.84E-29 2.84E-29 1.53E-30FCM-M 1.10E-28 6.33E-29 6.81E-28 1.80E-28  \nFCMKM 0 5.64E-30 0 08 8888(a) (b) (c) (d) (e)5 888 8®(f) (g） (h) (i) (i888 8(k) (1) (m) (n) （0）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图5（a）（f）（k）分别为添加高斯噪声、椒盐噪声和白噪声后的图像；（b）（g）（1）为普通算法对三种噪声图像分割结果；（c）（h）（m）为KWFLICM算法对三种噪声图像分割结果；（d）（i）（n）为FCM-M算法对三种噪声图像分割结果；（e）（j）（o）为FCMKM算法对三种噪声图像分割结果。通过对比实验结果发现，FCMKM算法能有效地提高抗噪性，能将添加高斯噪声、椒盐噪声和白噪声后的目标完整分割，且背景无明显噪声，与无噪声图像分割结果相同。实验表明，FCMKM算法能有效地提高抗噪性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Berkeley数据库图像分割实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Berkeley图像库是常用的图像分割数据库，利用该库中的图像能有效检验图像分割算法的性能。为验证算法分割效果，选取编号#159091、#3063、#15088三幅图像作为实验图像，分别如图6（a）～（c）所示。采用四种算法分别对三幅图像进行分割，实验结果如图6（d）～（o）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfd06e5503552de73149745ba27438b33ce7da0cea8e984368a46a9141035caa.jpg",
+        "img_caption": [
+            "Fig.4comparison of segmentation effect of artificial synthetic image ",
+            "图5模拟噪声实验结果",
+            "Fig.5Experimental results of simulated noise ",
+            "图6Berkeley图像实验结果",
+            "Fig.6Experimental results of Berkeley image "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过图6的实验结果对比可以看出，传统FCM算法能将目标分离出来，但是仍保留大部分背景，使得目标与背景无法有效地分离；KWFLICM和FCM-M算法能将目标与背景进一步地分离，但是也对目标造成一定程度的模糊，使得目标完整性得不到保留；与其他三种FCM 算法相比，本文提出的FCMKM算法能有效地将目标与背景分离，只保留目标图像，使得分割结果为后续的图像处理提供方便。为验证算法的有效性，利用Bezdek划分系数、Xie_Beni系数、重构错误率三个指标对图像分割结果进行客观分析，结果如表5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过表5数据的对比发现，FCMKM算法Bezdek划分系数平均提高了 $4 8 . 3 \\%$ ，Xie_Beni系数平均减少了 $5 3 . 5 \\%$ ，重构错误率接近0。通过数据分析可以看出，本文提出的FCMKM算法能有效地进行聚类划分，能提高聚类内部的内聚度，降低类间的耦合度，降低重构错误率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5FCMKM算法性能实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为验证本文算法的分割效率，对图3（a）（b）、图6（a)（b）进行运行时间与迭代次数对比实验，结果如表6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出，本文提出的算法相较于其他算法在迭代次数与运行时间上大幅度减小，运行时间平均减少 $7 7 . 3 \\%$ ，迭代次数平均减少 $6 8 . 3 \\%$ ，算法的性能提高明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9fb8842fa773fd1c620b8fc27e9808e97c34e712c5bd40e1459497bcb1af1cd.jpg",
+        "table_caption": [
+            "表5Berkeley图像分割评价实验结果"
+        ],
+        "table_footnote": [
+            "表6算法性能实验结果实验结果"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">熊图像</td><td colspan=\"3\">飞机图像</td><td colspan=\"3\">游船图像</td></tr><tr><td>Bezdek 划分系数Xie_Beni系数重构错误率Bezdek划分系数Xie_Beni系数重构错误率Bezdek划分系数Xie_Beni系数重构错误率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>传统FCM</td><td>0.5719</td><td>0.6022</td><td>2.18E-28</td><td>0.5743</td><td>0.5359</td><td>3.20E-28</td><td>0.5288</td><td>0.0258</td><td>4.55E-28</td></tr><tr><td>KWFLICM</td><td>0.9932</td><td>1.0598</td><td>3.26E-29</td><td>0.9985</td><td>0.4912</td><td>3.99E-30</td><td>0.9786</td><td>0.4457</td><td>3.69E-29</td></tr><tr><td>FCM-M</td><td>0.8493</td><td>1.8855</td><td>1.75E-28</td><td>0.4073</td><td>8.2309</td><td>1.84E-28</td><td>0.7508</td><td>0.8487</td><td>2.44E-28</td></tr><tr><td>FCMKM</td><td>1</td><td>0.2816</td><td>0</td><td>1</td><td>0.3074</td><td>0</td><td>0.9944</td><td>0.0489</td><td>0</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/38acfd012d996e40c87fede9b794f0e73fb66a8c9ceb65dec715a7bebaca437b.jpg",
+        "table_caption": [
+            "Table 5Experimental results of Berkeley image segmentation and evaluation ",
+            "Table 6Experimental results of algorithm performance "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>图3(a)8字图</td><td></td><td>图3(b)模拟噪声图像</td><td></td><td>图6(a)#159091</td><td></td><td>图6(b)#3063</td></tr><tr><td></td><td>迭代次数运行时间</td><td></td><td>迭代次数</td><td>运行时间</td><td>迭代次数运行时间迭代次数</td><td></td><td>运行时间</td></tr><tr><td>传统FCM</td><td>65</td><td>6.971s</td><td>100</td><td>15.622s</td><td>19 15.047s</td><td>38</td><td>50.875s</td></tr><tr><td>KWFLICM</td><td>4</td><td>1.135s</td><td>5</td><td>1.338s</td><td>4</td><td>136s 100</td><td>200.072s</td></tr><tr><td>FCM-M</td><td>99</td><td>15.555s</td><td>100</td><td>15.045s</td><td>11 9.548s</td><td>53</td><td>77.079s</td></tr><tr><td>FCMKM</td><td>3</td><td>1.119s</td><td>5</td><td>0.723s</td><td>8</td><td>5.783s 4</td><td>5.438s</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种结合核函数与马氏距离的模糊聚类算法，即FCMKM算法。通过对图像进行核函数映射，将图像像素点由低维空间非线性映射到高维空间，使像素点变得线性可分。将传统的欧氏距离替换为马氏距离，提高算法对邻域信息与空间信息的利用率。通过对比实验发现，本文提出的算法能有效地将背景与目标分离，提高了模糊聚类算法的抗噪性和分割效率。但是本文算法也存在缺陷，算法采用单一的高斯核函数，在分割过程中噪声目标部分细节信息丢失。采用自适应的核函数以提高算法的分割性能，是下一步的研究重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]徐秋晔，李玉，林文杰．基于信息聚类的遥感图像分割[J].中国矿 业大学学报,2017,46(1):209-214.(Xu Qiuye,Li Yu,Lin Wenjie. Remote sensing image segmentation based on information clustering [J]. Journal of China University of Mining & Technology,2017,46(1): 209-214.)   \n[2]DaisyVR， Nirmala S. Stability-integrated Fuzzy C-means segmentation for spatial incorporated automation of number of clusters [J]. Sadhana,2018,43 (3): 1-16.   \n[3]Bezdek JC,Hathaway RJ, Sabin M J.Convergence theory for fuzzy C-means:Counterexamples and repairs [J].IEEE Trans on Systems Man & Cybernetics,1987,17 (5):873-877.   \n[4]Hafiane A,Zavidovique B,Chaudhuri S.A modified FCM with optimal Peano scans for image segmentation [C]//Proc of IEEE International Conference on Image Processing.Genova, Italy:IEEE Press,2005.   \n[5]Namburu A,Samay S K,Edara S R.Soft fuzzy rough set-based MR brain image segmentation [J].Applied Soft Computing，2017,54: 456-466.   \n[6]Zhang Mengxuan,Jiao Licheng,Ma Wenping,et al.Multi-objective evolutionary fuzzy clustering for image segmentation with MOEA/D [J]. Applied Soft Computing,2016,48 (C): 621-637.   \n[7] Zhang Xiaofeng，Sun Yujuan，Wang Gang，et al.Improved fuzzy clustering algorithm with non-local information for image segmentation [J]. Multimedia Tools & Applications,2016,76 (6): 1-27.   \n[8]吴成茂，上官若愚．嵌入隐马尔可夫随机场的中智模糊聚类算法 [J]．西安电子科技大学学报,2017,44(6):113-118.(Wu Chengmao, Shangguan Ruoyu. Neutrosophic fuzzyclustering segmentation algorithm based on HMRF[J]. Journal of Xidian University,2017,44 (6): 113-118.)   \n[9]Gharieb RR, Gendy $\\mathbf { G }$ Abdelfattah A. C-means clustering fuzzified by two membership relative entropy functions approach incorporating local data information for noisy image segmentation [J]. Signal Image & Video Processing,2017,11(3): 541-548.   \n[10] Choy SK,Lam S Y,Yu KW,et al.Fuzzy model-based clustering and its application in image segmentation [J].Pattern Recognition,2017, 68(8): 141-157.   \n[11] Hussain K M,Lee D H.Generalised kernel weighted fuzzy C-means clustering algorithm with local information [J].Fuzzy Sets and Systems, 2018,340:91-108   \n[12] Zhao Xuemei,Li Yu,Zhao Quanhua.Mahalanobis distance based on fuzzy clustering algorithm for image segmentation [J]. Digital Signal Processing,2015,43: 8-16.   \n[13] Pham T X,Siarry P,Oulhadj H. Integrating fuzzy entropy clustering with an improved PSO for MRI brain image segmentation [J]. Applied Soft Computing,2018,65: 230-242   \n[14] Gonzalez-Carrato R R D LH, Kalogirou S A,Christodoulides P.Wind farm monitoring using Mahalanobis distance and fuzzy clustering [J]. Renewable Energy,2018,123: 526-540.   \n[15]范九伦，吴成茂．划分系数和总变差相结合的聚类有效性函数[J]. 电子学报，2001，29(11):1561-1563.(Fan Jiulun，Wu Chengmao. Clustering validity function based on partition coefficient combined with total variation [J]．Acta Electronica Sinica,2001，29 (11): 1561-1563.)   \n[16]普运伟，金炜东，朱明，等．核空间中的 Xie-Beni指标及其性能[J]. 控制与决策，2007,22(7):829-832.(Pu Yunwei,Jin Weidong，Zhu Ming,et al.Kernelized Xie-Beni index and its performance [J].Control and Decision,2007,22(7): 829-832.)   \n[17]张小峰．基于模糊聚类算法的医学图像分割技术研究[D].济南：山 东大学，2014.(Zhang Xiaofeng.Research of medical image segmentation based on fuzzy clustering lgorithms [D]. Jinan:Shandong University,2014.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

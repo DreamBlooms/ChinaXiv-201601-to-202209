@@ -1,0 +1,268 @@
+# 状态焦虑对时距知觉的影响：认知评价和注意偏向有调节的中介作用
+
+刘静远² 李虹1,2
+
+(1．清华大学心理学系，北京100084；2．清华大学深圳研究生院，深圳518055)
+
+摘要探讨状态焦虑对时距知觉的影响以及注意偏向与认知评价在其中的中介和调节作用。招募大学生60人，随机分为高、低状态焦虑组，用情绪诱导程序诱导高、低状态焦虑；用点探测范式测量注意偏向；用时间再现任务测量时距知觉；用视觉模拟心境量表测量认知评价。结果发现：（1）状态焦虑会导致对 2000 ms 时距的高估；（2）注意偏向在状态焦虑对 2000 ms 时距知觉的影响中具有部分中介作用；（3）状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用：只有当认知评价得分较高时，即个体认为焦虑对心理健康有害程度较高时，状态焦虑通过注意偏向影响 $2 0 0 0 ~ \mathrm { { m s } }$ 时距知觉。研究结果揭示了焦虑个体时距知觉的内部过程，丰富了焦虑通过注意偏向影响时距知觉的解释视角，为通过认知评价和注意偏向的调整改善焦虑个体时距偏差现象提供了重要参考。
+
+关键词 状态焦虑；时距知觉；注意偏向；认知评价
+
+How state anxiety influences time perception: Moderated mediating effect of cognitive appraisal and attentional bias
+
+LIU Jingyuan'²，LI Hong 1,2 (1. Department of Psychology， Tsinghua University， Beijing 100084; 2. Graduate School at Shenzhen， Tsinghua University， Shenzhen 518055)
+
+# Abstract
+
+Anxiety is associated with high levels of arousal. Both theoretical and empirical work have determined that when an individual experiences anxiety， he/she shows attentional bias toward negative stimuli. High arousal and negative attentional bias,as the two key characteristics of anxiety，are associated with a series of subjective feelings and experiences of individuals with state anxiety, among which time perception is significant. However， how this process operates remains an open question. In this article, we investigate how state anxious individuals perceive time, especially the roles of attention bias and cognitive appraisal in this process.
+
+Sixty college students participated in the study and were randomly assigned to a high state anxiety group ( $\scriptstyle \cdot - 3 0$ ，completed a procedure of anxious state induction) and a low state anxiety group ( $\cdot n { = } 3 0$ ， completed a procedure of calm state induction). Then,a 2 (high state anxiety group vs. low state anxiety group) $\times 2$ (negative stimuli vs. neutral stimuli) $\times ~ 3$ （2000 ms vs. 4000 ms vs. $8 0 0 0 ~ \mathrm { m s } ,$ ）mixed-design experiment was conducted with the attentional bias as the mediator， the cognitive appraisal as the moderator and the time perception as the dependent variable. State anxiety was manipulated by an induction process， time perception was measured by the time reproduction task, attentional bias was measured by the dot-probe task and cognitive appraisal was assessed by the visual analogue mood scales.
+
+The results showed that (1） State anxiety had an effect on time perception, namely, individuals with high state anxiety overestimated the $2 ^ { - }$ second interval of the negative stimuli. (2) Attentional bias played a partial mediating role in the relationship between state anxiety and time perception of 2000 ms. (3) Cognitive appraisal moderated the mediation effect of attentional bias on the influence of state anxiety on time perception of 2000 ms. Specifically， when the score of cognitive appraisal was high， attentional bias played a mediating role in the influence of state anxiety on time perception，while when the score of cognitive appraisal was low, attentional bias did not play a mediating role in the influence of state anxiety on time perception.
+
+Therefore, the effect of state anxiety on college students’ time perception was a moderated mediating effect. The moderated mediating model significantly revealed the effect mechanism of state anxiety on college students’ time perception, which can contribute to a better understanding of how individuals in an anxious state perceive time. Furthermore, it suggests that the adjustment of cognitive appraisal or attentional bias is an important way to alleviate the time distortion of anxious individuals.
+
+Key words: state anxiety; time perception; attentional bias; cognitive appraisal
+
+# 1引言
+
+人们在焦虑状态下是否会感觉时间过得更快或者更慢？如果是，那么焦虑如何影响时距知觉？所谓时距知觉是指个体对单个事件的持续时间或者两个事件之间间隔时间的知觉（黄顺航，刘培朵，李庆庆，陈有国，黄希庭，2018；黄希庭，李伯约，张志杰，2003）。对这个问题的深入探讨将有助于了解焦虑个体时距知觉的内部过程，并可能从一个新的视角进一步解释焦虑一一如果他们感觉到的时间更快或者更慢，则焦虑或许是对他们自己内部时间的“正常”反应？
+
+关于时距知觉的研究大体可以分为两类：（1）回溯式：被试在实验任务后被要求计时；（2）预期式：被试在实验任务前被告知需要进行计时。回溯式和预期式时距知觉包含不同的认知过程（Grondin，2010）。回溯式计时主要依赖记忆过程（Block& Zakay，1997；Zakay& Block，1997，2004）；而预期式计时主要与刺激唤醒度以及注意资源分配有关（Zakay，1993；Zakay，Nitzan，&Glicksohn，1983）。迄今为止有关焦虑影响时距知觉的研究并不多，这些研究大多采用预期式，研究对象几乎都是针对特质焦虑或焦虑病人，但研究发现很不一致。只有一项针对状态焦虑的研究还未发现显著结果（Lueck，2007）。我们认为，针对状态焦虑进行研究具有特殊意义：一方面可以剥离特质焦虑（或焦虑病人）和对于负性刺激的注意偏向之间已经形成的反馈循环（Eysenck，1992,1997）；另一方面也可以揭示日常生活中更为广泛存在的状态焦虑下的时距知觉特点。
+
+前人的主要研究发现大体可以梳理为两条线索：（1）焦虑会引起预期式时距低估。例如，Whyman和Moos采用言语估计任务发现高、低焦虑个体都表现出对于15000 ms、30000 ms、90000 ms 时距的低估（Whyman&Mo0s，1967）。Mioni及其同事采用时间产生任务以及时间再现任务发现特质焦虑个体比正常个体对于 500 ms、1000 ms、1500 ms 时距更加低估（Mioni，Stablum，Prunetti，&Grondin，2016）。（2）焦虑会引起预期式时距高估。例如，Bar-Haim 及其同事采用时间再现任务研究对于2000ms、4000ms、8000ms 的恐惧与平静刺激的时距知觉。结果发现相较于中性刺激，特质焦虑个体会对2000ms的恐惧刺激表现出时距高估(Bar-Haim，Kerem，Lamy，& Zakay，2010）。Yoo 和 Lee (2015)采用言语估计任务更进一步探讨了社交焦虑个体对于不同效价与唤醒度的刺激（正性高唤醒，正性低唤醒，负性高唤醒，负性低唤醒）的时距知觉（2000 ms或 4000ms 或6000ms 随机出现），发现相比其他刺激，高社交焦虑个体对负性高唤醒刺激更加高估，而低社交焦虑个体对正性低唤醒刺激更加高估。后来的研究者分别针对时距低估和高估现象从不同角度进行了解释。一些研究者认为：长时距容易被低估（例如:Eisler，1976;Eisler，Eisler，&Hellstróm，2008），这可能是Whyman 和Moos 研究中高低焦虑个体都表现出对于15000 ms、30000 ms、90000 ms 时距低估的原因（Whyman& Moos，1967）；另一些研究者针对焦虑个体高估时距进行了解释并提出：焦虑个体的时距知觉偏差与注意功能的变化有关（例如：Mioni etal.，2016），Bar-Haim等人（2010）和Yoo 等人（2015）则认为与刺激唤醒度有关。
+
+注意闸门理论（Attentional Gate Model，AGM）从一个更为全面的视角对预期式时距知觉偏差进行了解释，这个理论囊括了唤醒度和注意两个方面(Zakay&Block，1997）。在AGM中（如图1所示），首先起搏器以通常恒定的速率发射时间脉冲，但这一过程受到刺激唤醒度影响，即高唤醒度的刺激能够增加起搏器信号的频率。随后脉冲流动到注意闸门，在这一过程中分配给计时的注意资源越多，闸门允许通过开关到达累加器的脉冲就越多。因此，高度唤醒的刺激和大量用于计时的注意资源都将增加预期时距的持续时间，导致对于时距的高估（Zakay，2005；Zakay & Block，1997）。
+
+![](images/3136f2e5c56721eccb9da37cf111dcfb9b43f4a4adfcb8a5f9696877f812b800.jpg)  
+图1注意闸门模型 (Zakay& Block，1997)
+
+目前关于焦虑与时距知觉的研究中涉及刺激唤醒度的发现均较为一致地符合 AGM,即焦虑个体会高估高唤醒情绪刺激的持续时间 (Bar-Haim etal.，2010;Yoo&Lee，2015）。然而，注意在焦虑对时距知觉影响中的作用是否与AGM 一致尚不明确。更进一步，注意究竟通过怎样的方式影响焦虑个体的时距知觉？因此，本研究将在控制刺激唤醒度的基础上对注意在焦虑与时距知觉关系中的作用进行深入探讨。
+
+根据AGM模型，分配给计时的注意资源越多，闸门允许通过开关到达累加器的脉冲就越多，对于时距就越高估（Zakay，2005；Zakay& Block，1997）。同时，大量研究发现，焦虑会引起对于负性刺激的注意偏向(Bar-Haim，Lamy,Pergamin， Bakermans-Kranenburg， & van IJzendoorn， 2007； Karademas,Christopoulou， Dimostheni， & Pavlu， 2008； Koster， Leyman， Raedt，&Crombez，2006；Van Bockstaele etal.，2014），即，优先注意负性刺激或对负性刺激分配更多注意资源的倾向（见：吕创，牛青云，张学民，2014）。那么，焦虑状态下对于所计时的负性刺激的注意偏向增多，也就意味着分配给所计时的负性刺激的注意资源增多，根据 AGM，焦虑状态下对于负性刺激的预期时距就会高估。据此，提出研究假设1：状态焦虑通过对于负性刺激的注意偏向影响对于负性刺激的时距知觉，即注意偏向在状态焦虑对时距知觉的影响中具有中介作用。
+
+另外，焦虑是否引起注意偏向与认知评价有无关系？换言之，如果一个焦虑个体不认为其焦虑状态会产生什么负面后果，例如，不会影响其身心健康（见Folkman，Lazarus，Dunkel-Schetter，Delongis，& Gruen，1986，关于认知评价的概念），那么，焦虑还会引起对于负性刺激的注意偏向吗？或者这种对于负性刺激的注意偏向是否会有所减弱？大量研究证明，认知评价会影响个体的注意资源分配（Hajcak，Moser，& Simons，2006；van Reekum et al.，2007；王艳梅，毛锐杰，2016）。例如，Kim等人（Kim，Kim，&Kim，2016）的研究发现，进行减少对于负性情绪的认知评价后，被试对于愤怒图片的注意偏向减少，而进行增加对于负性情绪的认知评价后，被试对于愤怒图片的注意偏向增加。Jamieson 等人（Jamieson，Nock，& Mendes，2012）发现，改变对于应激任务的认知评价能够提高心血管的功能，并且降低对于负性刺激的注意偏向。综上，焦虑并不必然引起对于负性刺激的注意偏向，而会受到认知评价的影响。鉴于认知评价对注意偏向具有影响，认知评价可能是焦虑影响注意偏向的一个潜在的调节变量，进而成为焦虑影响时距知觉中注意偏向的中介作用的一个边界条件。因此提出研究假设2：状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用（如图2所示）。
+
+![](images/a9b2f6397141dd67ceff7e46d3e09c55fb837b2ea3b37bb3926864efeb41683c.jpg)  
+图2状态焦虑对时距知觉的影响：认知评价和注意偏向有调节的中介模型
+
+# 2方法
+
+研究采用情绪诱导程序诱导状态焦虑；用点探测范式测量注意偏向；用时间再现任务测量时距知觉；用视觉模拟心境量表测量认知评价；并最终采用bootstrap对认知评价与注意偏向如何影响状态焦虑与时距知觉之间的关系进行有调节的中介作用分析。
+
+# 2.1被试
+
+使用 $\operatorname { G } *$ Power3.1计算研究所需样本量(Faul，Erdfelder，Lang，&Buchner，2007）。根据Cohen提出的标准（Cohen，1992），以重复测量方差分析为统计方式，设参数为：被试间重复测量方差分析，效应量 $\scriptstyle f = 0 . \ 1 4$ ， $\mathrm { ~ a ~ } { = } 0 . 0 5$ 4$1 - \beta = 0 . 8$ ，组数 $: = 2$ ，测量次数 $: = 6$ ，重复测量数据之间的相关性 $= 0 . 5$ ，计算得到总样本量为56人。考虑到 $1 0 \%$ 的样本流失率，采用随机取样从北京市某高校以校内张贴海报的形式招募大学生60人为研究对象。参与者通过海报上的问卷星二维码进行网上报名，60名参与者中男27人，女33人；平均年龄（ $\phantom { 0 } { 2 1 . 7 8 \pm 2 . 7 3 } \phantom { 0 }$ 岁。采用随机分组将60名参与者配到高状态焦虑组‘ $\scriptstyle ( n = 3 0 )$ 和低状态焦虑组$\scriptstyle ( { n = 3 0 } )$ ，实验前取得其书面知情同意。研究已获得所在高校伦理委员会的审查批准（伦理审查编号为20160907）。
+
+考虑到前人研究的不足，本研究只考察状态焦虑对时距知觉的影响。从理论上讲，上述随机取样与随机分组在很大程度上可以保证被试的同质性，并规避高、低状态焦虑组可能的特质焦虑水平的差异，因此无需对特质焦虑进行专门的测量与筛查。根据前人研究，高特质焦虑也会表现出高状态焦虑（Spielberger,1971)，即，如果高、低状态焦虑组的特质焦虑水平存在显著差异，那么两组在状态焦虑基线水平上应该存在显著差异；而如果高、低状态焦虑组的状态焦虑基线水平没有显著差异，则可以认为两组在特质焦虑水平上没有显著差异。因此，实验中将对高、低状态焦虑组的状态焦虑基线水平进行测量与分析，以确保高、低状态焦虑组对时距知觉的影响不会因两组特质焦虑的差异而受到干扰。
+
+# 2.2工具
+
+# （1）情绪状态的诱导
+
+情绪状态诱导采用 Montorio等人(Montorio，Nuevo，Cabrera，Marquez，&Izal，2015）制定的标准化程序。被试被要求以每条 $1 2 \mathrm { ~ s ~ }$ 的速度阅读25条能诱发焦虑（高状态焦虑组，如：“我实在是太紧张了，以致于我无法回忆往事”或“实在是太可怕了，我真是紧张得不行”）或平静（低状态焦虑组，如：“我喜欢捧着一本书读一读，享受着那份宁静与安逸”或“我觉得悠闲自得而且心满意足”）的Velten句子（请见附录），共持续5分钟；而后进行2分钟的情绪孵育，让被试通过回忆或想象沉浸在焦虑 (高状态焦虑组）或平静 (低状态焦虑组)状态之中；在整个7分钟的过程里，播放能够诱发焦虑（高状态焦虑组，LigetiProject-Requiem）或平静（低状态焦虑组，Schoenberg’s Erwartung）的音乐。
+
+# （2）状态焦虑的测量
+
+采用视觉模拟心境量表（Visual Analogue Mood Scales，VAMS）测量状态焦虑水平（Mccormack，Horne，& Sheather，1988），让被试从0到100之间选择一个数字主观评价“此时此刻的焦虑程度”。
+
+# （3）刺激材料
+
+为了控制刺激的唤醒度，使用国际情感图片系统（InternationalAffective Picture Systems， IAPS；Lang，Bradley & Cuthbert， 2005） 中的负性低唤醒图片与中性低唤醒图片作为点探测任务与时间再现任务的刺激材料(请见附录）。除了参考IAPS自身的评分数据之外，为保证所选图片在中国大学生被试中满足研究要求，招募额外非正式研究参与者49人（男24人，女25人，$M _ { \mathrm { ☉ H \div 2 0 . 4 4 } }$ ， $S D / / B / / 2 9 ,$ ）对每张图片的效价、唤醒度与熟悉度进行9点评分（1非常消极…9 非常积极；1非常低唤醒…9 非常高唤醒；1非常不熟悉……9非常熟悉）。其中，使用16个负性-中性低唤醒图片对作为点探测范式的刺激材料，如9102-6000，2710-2579等。采用配对样本 $t$ 检验分析发现，负性与中性低唤醒图片的效价差异显著，唤醒度、熟悉度差异不显著（请见表1）。点探测范式中所有的图片对随机出现。此外，使用不同于点探测范式所用图片的16 张负性与中性低唤醒图片作为时间再现任务的刺激材料，包括8张负性低唤醒图片，如 2205或2722等；8张中性低唤醒图片，如1616或2220等。上述49名被试进行图片评分后，采用独立样本 $t$ 检验分析得到，效价差异显著，唤醒度、熟悉度差异不显著（请见表2）。时间再现任务中所有的图片随机出现。
+
+表1点探测范式中所用图片的效价、唤醒度与熟悉度评分  
+
+<html><body><table><tr><td>评分项目</td><td>负性低唤醒图片</td><td>中性低唤醒图片</td><td>t</td><td>p</td><td>d</td></tr><tr><td>IAPS 效价 M（SD)</td><td>2.99 (0.57)</td><td>5.15 (0.75)</td><td>-8.93</td><td><0.001</td><td>2.23</td></tr><tr><td>中国被试效价 M（SD)</td><td>2.78 (0.49)</td><td>5.03 (0.79)</td><td>-10.73</td><td><0.001</td><td>2.68</td></tr><tr><td>IAPS 唤醒度 M(SD)</td><td>4.80 (0.51)</td><td>4.72 (0.49)</td><td>0.40</td><td>0.698</td><td>0.10</td></tr><tr><td>中国被试唤醒度 M(SD)</td><td>5.31 (0.74)</td><td>5.15 (0.61)</td><td>1.31</td><td>0.210</td><td>0.33</td></tr><tr><td>中国被试熟悉度M（SD)</td><td>3.93 (0.78)</td><td>4.06 (1.13)</td><td>-0.38</td><td>0.708</td><td>0.10</td></tr></table></body></html>
+
+表2时间再现任务中所用图片的效价、唤醒度与熟悉度评分  
+
+<html><body><table><tr><td>评分项目</td><td>负性低唤醒图片</td><td>中性低唤醒图片</td><td>t</td><td>p</td><td>d</td></tr><tr><td>IAPS效价 M （SD)</td><td>2.77 (0.66)</td><td>5.15(0.06)</td><td>-10.16</td><td><0.001</td><td>5.08</td></tr><tr><td>中国被试效价 M（SD)</td><td>2.94(0.58)</td><td>4.91(0.99)</td><td>-4.86</td><td><0.001</td><td>2.43</td></tr><tr><td>IAPS 唤醒度 M(SD)</td><td>4.12 (0.32)</td><td>3.90(0.50)</td><td>1.08</td><td>0.298</td><td>0.54</td></tr><tr><td>中国被试唤醒度 M (SD)</td><td>5.28(0.37)</td><td>5.07(0.94)</td><td>0.59</td><td>0.564</td><td>0.30</td></tr><tr><td>中国被试熟悉度M（SD)</td><td>4.17(1.03)</td><td>4.39(1.18)</td><td>-0.39</td><td>0.704</td><td>0.19</td></tr></table></body></html>
+
+# （4）注意偏向的测量
+
+采用点探测范式对被试的注意偏向情况进行测量。实验流程为：先在屏幕中央出现一个固定点“+”，持续时间为 $5 0 0 ~ \mathrm { { m s } }$ ，要求被试注视固定点；而后固定点“+”消失，同时在屏幕的左右方出现一对负性与中性图片，二者的位置随机呈现，呈现时间为 $5 0 0 ~ \mathrm { { \ m s } }$ ；经过50ms的空白时间后，图片消失，在出现过两张图片的任一位置上呈现一个“\*”，要求被试看到 $^ { 6 6 } * ^ { 9 9 }$ 后迅速按键反应，若“\*'出现在左边图片的位置，则被试用左手食指按键盘的“F”键；若 $^ { 6 6 } * ^ { 7 9 }$ 出现右边图片的位置，则用右手食指按“J”键，要求反应既迅速又准确。被试按键反应后或者被试在2000ms时仍未反应，呈现1000ms空屏继续下一试次。实验中包括8个练习试次（非实验中性图片）和64个正式试次（ $1 6 \times 4$ ，每类图片在左、右各出现一次，探测点在负性、中性刺激位置各出现一次）。其中探测点位置出现在负性图片同侧称为探测点同侧，探测点出现在负性图片异侧称为探测点异侧（如图3所示）；注意偏向得分为探测点位置异侧与同侧反应时比值。采用异侧与同侧反应时比较以及注意偏向得分来反应注意偏向情况。如果异侧反应时比同侧反应时大或注意偏向得分大于1则说明相较于中性刺激对于负性刺激具有注意偏向。
+
+![](images/be6db1138f70931188c2d7e0861c844b33d3ba185f74c07ff85f1319e5d3c09c.jpg)  
+探测点位置：同侧
+
+![](images/2a53f707ae40e157220c65a58588fc0bd680c2453d557c0ba9aee6020154bde6.jpg)  
+图3点探测范式流程图
+
+（5）时距知觉的测量
+
+采用时间再现任务对被试的时距知觉进行测量（Bar-Haimetal.，2010）。实验流程为：先在屏幕中央出现一个固定点“+”，持续时间为 $8 0 0 ~ \mathrm { { m s } }$ ，要求被试注视固定点；而后固定点“+”消失，同时在屏幕的中央出现一张图片（负性图片或中性图片随机出现），呈现时间为2000 ms、4000 ms或8000ms。而后屏幕中央出现“计时开始”字样提示被试通过按压空格键开始计时；接下来出现空白屏幕；当被试认为空白屏幕与刚刚的图片呈现时间相同时，立即再次按下空格键，屏幕中央随即出现“计时结束”字样。实验过程中，要求被试不借助计时工具，凭借自己的感觉去估计时间。实验中包括5个练习试次 (非实验中性图片)和48个正式试次（3种时长 $\times 1 6$ 张负性或中性图片）。采用时距知觉指数（timeperceptionindex，TPI）来分析时距知觉情况（Mioniet al.，2016）。具体而言，TPI为负性刺激的 Ratio\*与中性刺激的Ratio 的比值，反映的是对于负性刺激与中性刺激的相对时距知觉情况。因此，如果TPI等于1，则说明对于负性刺激与中性刺激的时距知觉一致；如果TPI大于1，则说明对于负性刺激比中性刺激更加高估；如果TPI小于1，则说明对于负性刺激比中性刺激更加低估。
+
+# （6）认知评价的测量
+
+Folkman 和 Lazarus 等采用 5 点计分对认知评价进行测量(Folkman,Lazarus, Dunkel-Schetter，et al.，1986;Folkman， Lazarus,Gruen， et al.,1986），为提高区分度（Lozano，Garciacueto，& Muniz，2008），研究中采用VAMS 测量认知评价，即让被试从0到100之间选择一个数字主观自评：“认为焦虑对心理健康的有害程度”。认知评价是特质性概念，不受状态焦虑诱导的影响；而认知评价的测量本身涉及“焦虑”、“有害”等信息，为防止其对高、低状态焦虑的诱导造成可能的干扰、控制其对实验结果的未知影响，因此在整个实验流程的最后对认知评价加以测量。
+
+# 2.3 实验程序
+
+采用E-prime2.0软件编写程序，被试进入实验室后，按如下顺序进行实验：（1）状态焦虑的前测；（2）情绪状态的诱导；（3）状态焦虑的后测；（4）注意偏向的测量；（5）时距知觉的测量；（6）认知评价的测量；（7）状态焦虑的最后测量。实验结束后播放搞笑视频（选自《小黄人-番外篇》）平复被试的情绪状态。
+
+# 3结果
+
+# 3.1情绪状态的诱导效果
+
+高状态焦虑组和低状态焦虑组的情绪状态诱导情况见表3。该结果显示高、低状态焦虑组的状态焦虑前测水平没有显著差异，说明两组的特质焦虑水平没有显著差异。进而说明，当前的随机取样与随机分组及状态焦虑基线水平测量较好地控制了特质焦虑差异可能的干扰。而经过情绪状态诱导后，高状态焦虑组的状态焦虑后测水平比低状态焦虑组显著更高，这反映了情绪状态的诱导效果良好。
+
+对状态焦虑VAMS得分采用2组别（高状态焦虑组，低状态焦虑组）与2状态焦虑测量（前测，后测）重复测量方差分析发现，组别与状态焦虑测量的交互作用显著 $( F ( 1 , 5 8 ) = 6 9 . 6 3$ ， $p { \ll } 0 . 0 0 1$ ， $\mathfrak { n } ^ { 2 } { = } 0 . 5 5 )$ ，组别的主效应显著$( F ( 1 , 5 8 ) = 1 3 . 0 6 \$ ， $\scriptstyle p = 0 . 0 0 1$ 、 $\boldsymbol { \mathrm { ~ \ n ~ } } ^ { 2 } { = } 0 . 1 8 )$ ，状态焦虑测量的主效应边缘显著$( F ( 1 , 5 8 ) = 3 . 6 8 \$ ， $\scriptstyle p = 0 . 0 6 0$ ， $\scriptstyle { \boldsymbol { \Pi } } ^ { 2 } = 0 . 0 6 )$ 。分别对两组进行配对样本 $t$ 检验后发现，经过情绪状态诱导后，高状态焦虑组的状态焦虑水平显著升高（ $t ( 2 9 ) = 6 . 2 2$ ,$p \llap { / } . 0 0 1$ ， $d \mathrm { = } 1 . 1 4 )$ ；而低状态焦虑组的状态焦虑水平显著降低（ $t ( 2 9 ) { = } { - } 5 . 6 8$ 0$p \mathcal { O } . 0 0 1$ ， $d { = } 1 . 0 4 )$ 。上述结果说明情绪状态诱导成功。此外，经过注意偏向、时距知觉以及认知评价的测量后，高状态焦虑组比低状态焦虑组的状态焦虑水平显著更高（M $\mathtt { \Pi } _ { \mathtt { \Pi } _ { j \mathtt { m } } ^ { \mathtt { j } } } = 5 8 . 6 7$ ， $S D$ （20 $_ { \it \Delta } = 2 4 . 8 8$ ，M $_ { \it 1 4 } = 3 5 . 6 7$ ， $S D$ （ $_ { \it 4 4 } = 2 8 . 0 5$ ， $t ( 5 8 ) = 3 . 3 6$ $p { = } 0 . 0 0 1$ ， $d \mathbf { \bar { \tau } } 0 . 8 7 \mathbf { \check { \tau } }$ ），说明情绪状态的诱导效果可以持续到整个实验流程的结束。
+
+表3高状态焦虑和低状态焦虑的诱导情况
+
+<html><body><table><tr><td>状态焦虑测量</td><td>高状态焦虑组</td><td>低状态焦虑组</td><td>t</td><td>p</td><td>d</td></tr><tr><td>前测M (SD)</td><td>40.83 (30.42)</td><td>38.23 (29.33)</td><td>0.34</td><td>0.737</td><td>0.09</td></tr><tr><td>后测M (SD)</td><td>66.97 (25.87)</td><td>21.87 (23.41)</td><td>7.08</td><td><0.001</td><td>1.83</td></tr></table></body></html>
+
+# 3.2认知评价
+
+采用独立样本 $t$ 检验进行认知评价的基线分析发现，高状态焦虑组与低状态焦虑组的认知评价差异不显著（M高状态焦虑 $= 8 3 . 0 0$ ， $S D$ 高状态焦虑 $= 2 0$ .66,M低状态焦虑=76.97,$S D$ 低状态焦虑 $_ { \cdot = 2 1 }$ .44， $t ( 5 7 ) = 1 . 1 0$ ， $p { = } 0 . 2 7 6$ ， $d \mathopen { } \mathclose \bgroup \left. . \mathrm { 2 9 } \aftergroup \egroup \right.$ ），说明认知评价作为特质性概念不受状态焦虑诱导的影响。
+
+# 3.3注意偏向
+
+（1）状态焦虑对注意偏向的影响
+
+剔除点探测范式按键错误的试次以及反应时小于 $2 0 0 ~ \mathrm { { \ m s } }$ 、大于1200ms 的试次（Mogg，Wilson，Hayward，Cunning，& Bradley，2012），最终 $9 9 . 0 4 \%$ 的试次进入统计分析。各种条件下反应时的平均值以及标准差见表4。该结果说明状态焦虑对注意偏向有影响，高状态焦虑组比低状态焦虑组的注意偏向得分显著更高，即表现出更明显地对于负性低唤醒刺激的注意偏向。对反应时采用2组别（高状态焦虑组，低状态焦虑组）与2探测点位置（异侧，同侧）重复测量方差分析发现，组别与探测点位置的交互作用显著 $( F ( 1 , 5 8 ) = 5 . 6 7$ ， $p { = } 0 . 0 2 1$ ，$\Pi \stackrel { 2 } { = } 0 . 0 9 )$ ），组别的主效应不显著 $( F ( 1 , 5 8 ) = 0 . 2 3$ ， $p { = } 0 . 6 3 0$ ， $\scriptstyle { \mathfrak { n } } ^ { 2 } = 0 . 0 0 4 )$ ，探测点位置的主效应不显著 $( F ( 1 , 5 8 ) = 1 . 1 8$ ， $p { = } 0 . 2 8 2$ 、 $\mathrm { { \Omega } n ^ { 2 } { = } 0 . 0 2 \mathrm { { , } } }$ ）。采用配对样本 $t$ 检验结果发现，高状态焦虑组探测点异侧的反应时比同侧显著更长${ \mathit { \Omega } } ^ { \prime } t ( 2 9 ) { = } 2 . 6 6$ ， $p { = } 0 . 0 1 2$ ， $d \mathrm { = } 0 . 4 8 )$ ；低状态焦虑组探测点异侧与同侧的反应时差异不显著（ $t ( 2 9 ) \mathrm { = } \mathrm { - } 0 . 8 5$ ， $\scriptstyle { p = 0 } . { \mathrm { 4 0 0 } }$ ， $d \mathrm { = } 0 . 1 6 )$ ）。上述结果说明：高状态焦虑组表现出明显的对于负性低唤醒刺激的注意偏向，低状态焦虑组则没有。
+
+表4高状态焦虑组和低状态焦虑组的注意偏向情况  
+
+<html><body><table><tr><td>注意偏向情况</td><td>高状态焦虑组</td><td>低状态焦虑组</td><td>t</td><td>p</td><td>d</td></tr><tr><td>探测点异侧反应时M（SD)</td><td>423.29 (65.13)</td><td>410.66 (56.16)</td><td>0.80</td><td>0.424</td><td>0.21</td></tr><tr><td>探测点同侧反应时M（SD)</td><td>416.39 (69.89)</td><td>413.24 (62.48)</td><td>0.18</td><td>0.855</td><td>0.05</td></tr><tr><td>注意偏向得分 M(SD)</td><td>1.020 (0.035)</td><td>0.996 (0.037)</td><td>2.46</td><td>0.017</td><td>0.64</td></tr></table></body></html>
+
+（2）状态焦虑对注意偏向的影响：认知评价的调节作用
+
+采用 SPSS 20.0的 PROCESS 插件，参照 Hayes提出的 Bootstrap 方法进行调节效应检验（Hayes，2013）。选择模型1，样本量5000，在 $9 5 \%$ 置信区间下，以组别为自变量X (赋值为高状态焦虑组 $_ { . = 0 }$ ，低状态焦虑组 $\scriptstyle = 1$ ），注意偏向(注意偏向得分）为因变量Y，认知评价（VAMS 得分）为调节变量 $\mathtt { M }$ 。Bootstrap 分析结果表明，在状态焦虑对注意偏向的影响中认知评价具有显著的调节作用（20 $\scriptstyle ( p = 0 . 0 4 6 7 )$ 。在认知评价得分较高！ $\cdot M + 1 S D / / 1 0 0 . 0 0 )$ 时，高状态焦虑组比低状态焦虑组具有更加明显的对于负性低唤醒刺激的注意偏向 $( E f f e c t ^ { = - 0 } . 0 3 9 7 ,$ $S E { = } 0 . 0 1 2 9$ ， $t { = } { - } 3 . 0 8 0 6$ ， $p { = } 0 . \ 0 0 3 2$ ， $9 5 \%$ $C I { = } [ { - } 0 . 0 6 5 4$ ， $- 0 . 0 1 3 9 ]$ ）；而当认知评价得分较低时（ $ M - 1 S D { = } 5 8 . 9 5 \$ ），高状态焦虑组与低状态焦虑组的注意偏向无明显差异 $( E f f e c t ^ { - } - 0 . 0 0 2 4$ ， $S E { = } 0 . 0 1 3 2$ ， $\scriptstyle t = - 0 . 1 8 4 9$ ， $\scriptstyle { p = 0 . 8 5 4 0 }$ ， $9 5 \%$ （204$C I { = } [ { - } 0 . 0 2 9 0$ ，0.0241]）。
+
+# 3.4 时距知觉
+
+# （1）状态焦虑对时距知觉的影响
+
+图4显示了高状态焦虑组和低状态焦虑组的时距知觉情况。对TPI采用2组别（高状态焦虑组，低状态焦虑组）与3时长（ $( 2 0 0 0 ~ \mathrm { { m s } }$ ， $4 0 0 0 ~ \mathrm { { m s } }$ ， $8 0 0 0 ~ \mathrm { m s } )$ 重复测量方差分析发现，组别与时长的交互作用显著 $\left( F ( 2 , 1 1 6 ) = 4 . 4 4 \right.$ ， $p { = } 0 . 0 1 4$ $\mathrm { ~ n ~ } ^ { 2 } { = } 0 . 0 7 \rangle$ ），组别的主效应不显著 $( F ( 1 , 5 8 ) = 0 . 4 5$ ， $\scriptstyle { p = 0 } . 5 0 6$ ， $\mathrm { ~ \ n ~ } ^ { 2 } { = } 0 . 0 1 \mathrm { ~ } \mathrm { , ~ }$ ），时长的主效应不显著 $( F ( 2 , 1 1 6 ) = 0 . 7 7$ ， $\scriptstyle { p = 0 } . { 4 6 6 }$ ， $\mathrm { ~ \ n ~ } ^ { 2 } { = } 0 . 0 1 \mathrm { ~ }$ ）。简单效应分析发现，当呈现时距为 2000 ms 时，高状态焦虑组比低状态焦虑组的TPI 大$( F ( 1 , 5 8 ) = 7 . 1 4$ ， $p { = } 0 . 0 1 0$ ， $\mathrm { ~ n ~ } ^ { 2 } { = } 0 . \mathrm { ~ } 1 1 \mathrm { ~ } \cdot$ ）；而呈现时距为 4000 ms 或 8000 ms 时，两组差异均不显著 $( p s \rangle 0 . 0 5 )$ 。对各组的TPI采用与1比较的单样本 $t$ 检验发现，只有高状态焦虑组对于2000 ms 的TPI显著比1大（ $t ( 2 9 ) { = } 2 . 5 9$ ， $p { = } 0 . 0 1 5$ $d { = } 0 . 4 7 )$ ），其他5种情况的TPI均与1没有显著差异 $( p s \rangle 0 . 0 5 )$ 。上述结果说明状态焦虑对 2000 ms 时距知觉具有影响，高状态焦虑组比低状态焦虑组对于2000 ms 时距相对更加高估，高状态焦虑个体对负性低唤醒刺激比对中性低唤醒刺激的2000ms时距更加高估；而对于 $4 0 0 0 ~ \mathrm { { m s } }$ 以及 $8 0 0 0 ~ \mathrm { { m s } }$ 而言，状态焦虑对时距知觉不具有影响。
+
+![](images/1c7d7929f37deec937bd9300dbbdae17036b6f369b2b13cd72c5c2e8e027188a.jpg)  
+图4状态焦虑对时距知觉的影响
+
+注：图中误差线均按标准误标注。
+
+（2）状态焦虑对时距知觉的影响：注意偏向的中介作用
+
+由于状态焦虑只对 2000 ms 的时距知觉具有影响，因此后续只针对2000 ms的时距知觉进行中介与调节作用的分析。采用 SPSS 20.0的PROCESS插件，参照Hayes 提出的Bootstrap方法进行中介效应检验（Hayes，2013）。选择模型 4,样本量5000，在 $9 5 \%$ 置信区间下，以组别为自变量X（赋值为高状态焦虑组 $\scriptstyle . = 0$ 低状态焦虑组 $\scriptstyle { \frac { } { . } } = 1$ ），时距知觉（2000ms时的TPI）为因变量Y，注意偏向（注意偏向得分）为中介变量M。Bootstrap分析结果表明，中介检验的间接效应没有包含0！ $\cdot E f f e c t { = } 0 . 0 2 2 0$ ， $S E { = } 0 . 0 1 3 0$ ， $9 5 \%$ $C I { = } [ 0 . 0 0 2 4$ ，0.0566]）。此外，控制了中介变量注意偏向之后，自变量状态焦虑对因变量2000ms 时距知觉的直接效应显著，区间不包含0 $( E f f e c t { = } - 0 . \ 1 0 1 7$ ， $S E { = } 0 . 0 3 0 2$ ， $9 5 \%$ $C I { = } [ { - } 0 . 1 6 2 1$ -0.0413]）。因此根据 Zhao 等人（Zhao，Lynch， $\&$ Chen，2010）的理论，这一结果反映了注意偏向在状态焦虑对 $2 0 0 0 ~ \mathrm { { m s } }$ 时距知觉的影响中具有部分中介作用，证实了研究假设1。
+
+（3）状态焦虑对时距知觉的影响：注意偏向和认知评价有调节的中介作用
+
+根据上述结果，认知评价在状态焦虑对注意偏向的影响中具有显著的调节作用，同时注意偏向在状态焦虑对 2000 ms 时距知觉的影响中具有部分中介作用，因此采用 SPSS 20.0的PROCESS 插件，参照 Hayes 提出的 Bootstrap 方法进行有调节的中介效应检验（Hayes，2013）。选择模型7，样本量 5000，在 $9 5 \%$ 置信区间下，以组别为自变量X（赋值为高状态焦虑组 $\scriptstyle = 0$ ，低状态焦虑组 $_ { \cdot } = 1$ ），时距知觉（2000ms 时的TPI）为因变量Y,注意偏向（注意偏向得分）为中介变量M，认知评价（VAMS得分）为调节变量W。
+
+Bootstrap分析结果表明，中介检验的间接效应没有包含0 $( L L C I { = } 0 . 0 0 0 0 ;$ ULCI=0.0023），表明注意偏向的中介效应显著，且中介效应大小为0.0009。此外，控制了中介变量注意偏向之后，自变量状态焦虑对因变量 $2 0 0 0 ~ \mathrm { { m s } }$ 时距知觉的直接效应显著，区间（ $\cdot \angle L C I { = } { - } 0 . \ 1 6 4 1$ ， $\it { U L C I ^ { = - 0 } . 0 4 1 6 ) }$ 不包含0。根据 Zhao等人（Zhao，Lynch，& Chen，2010）的理论，注意偏向在状态焦虑对 2000 ms时距知觉的影响中具有部分中介作用。
+
+与此同时，状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用，证实了研究假设2（如表5、表6所示）。当认知评价得分较高时，注意偏向在状态焦虑对时距知觉的影响中具有中介作用。也就是说，对于认为焦虑对心理健康有害程度较高的个体而言，具有高状态焦虑比低状态焦虑时更加表现出对于负性低唤醒刺激的注意偏向，进而表现出对于2000ms负性低唤醒刺激的时距的高估；而当认知评价得分较低时，注意偏向在状态焦虑对时距知觉的影响中不具有中介作用。也就是说，对于认为焦虑对心理健康有害程度较低的个体而言，其状态焦虑高、低对不会通过注意偏向影响2000 ms 时距知觉。
+
+表5组别对时距知觉的影响中认知评价的调节作用分析  
+
+<html><body><table><tr><td>指标</td><td>coeff</td><td>SE</td><td>t</td><td>p</td><td>95% CI</td></tr><tr><td>常数</td><td>0.9729</td><td>0.0272</td><td>35.8088</td><td><0.001</td><td>[0.9184，1.0273]</td></tr><tr><td>组别</td><td>0.0510</td><td>0.0368</td><td>1. 3838</td><td>0.1720</td><td>[-0.0228，0.1248]</td></tr><tr><td>认知评价</td><td>0.0006</td><td>0.0003</td><td>1. 7503</td><td>0.0856</td><td>[-0.0001，0.0012]</td></tr><tr><td>交互作用</td><td>-0.0009</td><td>0.0004</td><td>-2. 0352</td><td>0.0467</td><td>[-0.0018，0.0000]</td></tr></table></body></html>
+
+表6认知评价对状态焦虑通过注意偏向影响时距知觉的调节效应  
+
+<html><body><table><tr><td>中介变量</td><td colspan="2">认知评价</td><td>Effect</td><td>SE</td><td>95% CI</td></tr><tr><td>注意偏向</td><td>M -1SD</td><td>58.95</td><td>0.0023</td><td>0.0100</td><td>[-0.0143，0.0289]</td></tr><tr><td>注意偏向</td><td>M</td><td>80.03</td><td>0.0206</td><td>0.0127</td><td>[0.0015，0.0561]</td></tr><tr><td>注意偏向</td><td>M +1SD</td><td>100.00</td><td>0. 0379</td><td>0.0219</td><td>[0.0013, 0.0917]</td></tr></table></body></html>
+
+# 4讨论
+
+考虑到现有文献中的研究对象几乎都是针对特质焦虑或焦虑病人，而针对状态焦虑鲜有研究，但状态焦虑的研究意义独特：既可以剥离特质焦虑（或焦虑病人）和对于负性刺激的注意偏向之间已经形成的反馈循环（Eysenck，1992,1997），又可以揭示日常生活中更为广泛存在的状态焦虑下的时距知觉特点，因此本研究的主要目的是：探讨状态焦虑对时距知觉的影响以及注意偏向与认知评价在其中的中介和调节作用。研究首先从大学生群体中随机取样作为实验被试，随后将其随机分为高、低状态焦虑组进行焦虑（平静）情绪的诱导，并依次采用点探测范式、时间再现任务与视觉模拟心境量表对注意偏向、时距知觉与认知评价进行测量。
+
+从理论上讲，实验设计中的随机取样与随机分组在很大程度上保证了被试的同质性，并规避了高、低状态焦虑组可能的特质焦虑差异。与此同时，在进行焦虑（平静）情绪诱导前，我们对被试的状态焦虑的基线水平、即被试未被情绪诱导前自身的状态焦虑水平进行了测量。结果发现，高、低状态焦虑组的状态焦虑基线水平没有显著差异。这一结果进一步证实了高、低状态焦虑组的特质焦虑水平并不存在显著差异。因此，研究中的随机取样与随机分组及状态焦虑基线水平测量等一系列手段较好地控制了特质焦虑对实验结果可能的干扰。
+
+在此基础上，结果发现：（1）状态焦虑会导致对 2000 ms 时距的高估，而对于 4000 ms 和 8000 ms 时距没有影响；（2）注意偏向在状态焦虑对 2000 ms时距知觉的影响中具有部分中介作用；（3）状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用。接下来对这三点主要发现进行讨论。
+
+# 4.1状态焦虑对时距知觉的影响
+
+研究发现状态焦虑对时距知觉具有影响，高状态焦虑个体对负性低唤醒刺激比对中性低唤醒刺激更加高估，而这种现象只在时距为2000ms 时存在。这一发现与前人以特质焦虑和焦虑障碍病人为研究对象的实验结果一致 （Bar-Haim etal.，2010;Fox,Russo，Bowles，& Dutton，2001;Georgiou et al.，2005），也符合AGM中关于情绪刺激比中性刺激更易导致时距高估的理论假设(Droit-Volet， Brunot，& Niedenthal， 2004；Effron， Niedenthal，Gil，&Droit-Volet，2006；Gil，Niedenthal，& Droit-Volet，2007）。同时研究发现时距为 $4 0 0 0 \mathrm { m s } . 8 0 0 0 \mathrm { m s }$ 时，状态焦虑并不影响时距知觉。Fraisse (1981，1984)认为当时间平均在 $2 ^ { \sim } 3 ~ \mathrm { s }$ 时，受到个体知觉系统的调控；而超过这一时间阈限则受到符号系统控制，对变化的理解就需要借助于存放在个人记忆中的经验。结合上述研究的结果， $2 0 0 0 ~ \mathrm { { \ m s } }$ 处于知觉系统调控范围，而4000 ms和8000 ms作为较长的时距则受到符号系统控制，这或许是状态焦虑对不同时长时距（2000 ms与 4000 ms/8000 ms）具有不同影响的原因。
+
+此外，本研究是对Bar-Haim等人（2010）的研究发现的更加深入与全面的探讨。他们发现焦虑个体对于呈现时间为2000 ms 的威胁性刺激 (高唤醒负性)比中性刺激（低唤醒中性）更加高估。然而，他们并没有对唤醒度与注意的混淆作用进行严格区分。根据AGM，刺激唤醒度和注意资源都会对预期式时距知觉产生影响（Zakay，2005；Zakay＆ Block，1997）。一方面，威胁性刺激的高唤醒可能是导致时距高估的原因。另一方面，焦虑个体会表现出对于威胁性刺激的注意偏向（Bar-Haim et al.，2007；Van Bockstaele et al.，2014），这也会导致时距高估。因此，在焦虑与时距知觉的研究尤其是Bar-Haim 等人（2010）的研究中，唤醒度与注意的作用存在混淆，即无法明确判断焦虑通过唤醒度还是注意偏向引起了时距高估。本研究通过对刺激唤醒度进行严格控制使得这一难题得以解决，并最终发现是注意偏向而非唤醒度中介了状态焦虑对于时距知觉的影响。
+
+# 4.2注意偏向的中介作用
+
+研究发现注意偏向在状态焦虑与时距知觉之间的关系中具有部分中介作用，验证了假设1，同时这一结果为AGM提供了实证支持。AGM主要是从刺激唤醒度和注意资源两个方面对预期式时距知觉进行解释（Zakay，2005；Zakay& Block，1997），关于刺激唤醒度的研究较多且直接支持AGM，而关于注意资源的研究面临一个巨大的难题：如何控制注意资源。以往研究者通常采用两种方式控制用于计时的注意资源：（1）外部方法：通过指导语要求被试主动控制用于计时的注意数量；（2）内部方法：采用双任务范式并通过操纵非计时任务的难度来控制用于计时的注意资源。事实上，这两种方式都不够准确，因为始终无法明确区分是计时任务与非计时任务中的注意分配在起作用，还是同一刺激的不同维度中的注意分配在起作用（Burle&Casini，2001；Chaston& Kingstone，2004；Maeers,2010；Tamm，Uusberg，Allik，& Kreegipuu，2014）。本研究通过单一任务直接测量了对于负性低唤醒刺激的注意偏向而解决了这一难题。正如所推测的一样，实验结果发现在状态焦虑影响对于负性低唤醒刺激的时距知觉中，对于负性低唤醒刺激的注意偏向具有部分中介作用。具体来看，高状态焦虑个体会表现出对于负性低唤醒刺激的注意偏向，进而表现出对该类刺激的时距高估。更为重要得是，本研究采用一致的低唤醒刺激，从而明确区分了唤醒度和注意偏向在对时距知觉影响中的混淆作用，这使得上述研究结果更为明确可靠。这一结果充分验证了AGM 中注意功能的假设，即用于计时的注意资源越多，对于时距会越高估（Zakay,2005；Zakay & Block， 1997）。
+
+# 4.3认知评价的调节作用
+
+研究发现在状态焦虑对注意偏向的影响中认知评价具有调节作用；并进一步发现状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用，支持了图2的模型，验证了假设2。具体而言，当认知评价得分较高时，即对于认为焦虑对心理健康有害程度较高的个体而言，具有高状态焦虑比低状态焦虑时更加表现出对于负性低唤醒刺激的注意偏向，进而表现出对于2000 ms 负性低唤醒刺激的时距的高估。而当认知评价得分较低时，即对于认为焦虑对心理健康有害程度较低的个体而言，其状态焦虑高、低对注意偏向没有影响，进而导致状态焦虑不会通过注意偏向影响2000ms时距知觉。这说明当被环境中的刺激诱发了焦虑状态时，如果个体倾向于将焦虑评价为对心理健康有害，那么他们会更加关注对自身具有威胁性的负性信息，并主观体验到这种威胁持续了较长时间，从而激发个体进入“应激状态”以应对这种威胁；而如果个体倾向于将焦虑评价为对心理健康无害，那么他们没有感受到对于自身的威胁，进而不会过度关注负性信息并且不会主观体验到这种威胁持续了较长时间。
+
+已有研究发现认知评价可以改变个体交感神经的激活程度（Smith，1989;Tomaka，Blascovich，Kelsey，&Leitten，1993），进而影响个体的主观时距知觉体验（Gable & Poole，2012；Tse，Intriligator，Rivest，& Cavanagh,2004；Uusberg，Naar，Tamm，Kreegipuu，& Gross，2018）。但是缺少关于认知评价如何在焦虑影响时距知觉中发挥作用的探讨，本研究为这一领域提供了新的实验证据。
+
+综合来看，上述研究结果报告了状态焦虑个体时距知觉的内部过程，探明了认知评价与注意偏向在焦虑个体感知环境中的负性刺激时所发挥的作用。这些发现不但为现实生活中个体焦虑时的时距知觉特点提供了解释，也为进一步理解焦虑提供了一个新视角：或许因为人们处在焦虑状态时感觉到的时间不同于以往，所以他们会更焦虑；以至于形成恶性循环最终发展为焦虑障碍(Eysenck,1997）。更为重要的是，可以为治疗焦虑个体的时间偏差提供可能的方法：（1)调整认知评价，即减少关于焦虑对心理健康有害的认知评价；或训练认知重评(cognitive reappraisal），即建立焦虑对心理健康适度有益的认知评价；（2)进行注意偏向矫正 (attentional bias modification，Van Bockstaele et al.,2014），即减少对于负性刺激的注意偏向或增加对于中性（正性）刺激的注意偏向。
+
+# 4.4研究贡献与展望
+
+研究的主要贡献是：第一，通过单一任务直接测量了状态焦虑对时距知觉影响中注意偏向的作用，进而解决了用于计时的注意资源难以控制的难题，验证了注意闸门模型中有关用于计时的注意资源越多对于时距越高估的假设。第二，发现认知评价是焦虑影响时距知觉中注意偏向的中介作用的一个边界条件。这一发现深刻揭示了焦虑个体时距知觉的内部过程，丰富了焦虑通过注意偏向影响时距知觉的解释视角，为通过认知评价和注意偏向的调整改善焦虑个体时距偏差现象提供了重要参考。
+
+未来研究可以从如下几个方面开展：第一，研究中只测量了一种认知评价，即：对焦虑是否有害于心理健康的认知评价。虽然这个测量完全符合Folkman等人对于认知评价概念的界定，但是Folkman等人后来对认知评价进行了更为细致的划分，包括一级认知评价和二级认知评价(Folkman，Lazarus,Dunkel-Schetter，et al.，1986;Folkman，Lazarus，Gruen，et al.，1986）。因此，未来的工作可以继续探究其他认知评价在状态焦虑通过注意偏向影响时距知觉的中介过程中的作用，进而从不同的认知评价视角检验本研究所发现的结果第二，为了剥离特质焦虑（或焦虑病人）和对于负性刺激的注意偏向已经形成的反馈循环（Eysenck，1992，1997），本研究从健康大学生群体中随机招募了实验样本进行实验室状态焦虑诱导。虽然本研究结果揭示了日常生活中更为广泛存在的状态焦虑下的时距知觉特点及注意偏向与认知评价在其中发挥的作用，未来的研究可以进一步以特质焦虑和焦虑病人为样本，从不同焦虑样本的视角检验上述所发现的有调节的中介模型。同时，本研究采用的随机取样与随机分组及状态焦虑基线水平测量较好地保证了所发现的实验结果与结论不受特质焦虑的干扰，未来在对状态焦虑的时距知觉进行更深入的研究时可以进一步将特质焦虑作为协变量加以严格控制，从而彻底排除其对实验结果与结论的可能干扰；甚至可以对特质焦虑与状态焦虑同时进行测量与操纵，进而探讨这两种焦虑对于时距知觉的交互影响。第三，本研究参照前人研究常用时距，对2000 ms、 $4 0 0 0 ~ \mathrm { { m s } }$ 、8000ms 进行了研究，并发现只有在 2000 ms 时状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用，而对于 4000 ms、8000 ms 而言则不存在这种效应。未来研究可以对更加丰富的时距进行探讨，如更短的 $1 0 0 0 \mathrm { m s } . 5 0 0 \mathrm { m s } .$ 或稍长的3000 ms等；也可以以2000ms 为中心对时距进行更加细分的研究，如1500ms、1800 ms、2200 ms、2500 ms 等，从而更系统地揭示本研究结果在不同时距长度下的适用范围。
+
+# 5结论
+
+(1）高状态焦虑个体对于负性比中性低唤醒刺激的2000 ms 时距更加高估。(2）注意偏向在状态焦虑影响2000ms时距知觉的过程中具有部分中介作用。(3）状态焦虑通过注意偏向影响时距知觉的中介过程受到认知评价的调节作用：只有个体认为焦虑对心理健康有害程度较高时，状态焦虑影响2000 ms时距知觉中注意偏向的中介作用成立。
+
+# 参考文献
+
+Bar-Haim，Y.，Kerem，A.，Lamy，D.，& Zakay，D.(2010)．When time slows down: The influence of threat on time perception in anxiety. Cognition& Emotion，24(2)，255-263.   
+Bar-Haim,Y.，Lamy，D.，Pergamin,L.，Bakermans-Kranenburg，M.J.，&van IJzendoorn，M. H.(2007). Threat-related attentional bias in anxious and nonanxious individuals: A meta-analytic study.Psychological Bulletin，133(1)，1-24.   
+Block，R. A.，& Zakay， D. (1997)． Prospective and retrospective duration judgments: A meta-analytic review. Psychonomic Bulletin & Review， 4(2)，184-197.   
+Burle,B.，& Casini,L. (200l). Dissociation between activation and attention effects in time estimation:Implications for internal clock models. Journal of Experimental Psychology Human Perception & Performance, $2 7 ( 1 )$ ，195-205.   
+Chaston,A.，& Kingstone,A. (2004).Time estimation: The effect of cortically mediated attention. Brain& Cognition, ${ \it 5 5 } ( 2 )$ ，286-289.   
+Cohen,J. (1992).Statistical power analysis. Current Directions in Psychological Science,1(3), 98 -101.   
+Dienstbier，R. A. (1989). Arousal and physiological toughness: Implications for mental and physical health. Psychological Review, $g \mathcal { \epsilon } ( 1 )$ ，84-100.   
+Droit-Volet，S.，Brunot，S.，& Niedenthal，P.M. (2004)．Perception of the duration of emotional events.Cognition & Emotion, $\phantom { + } I 8 ( 6 )$ ，849 -858.   
+Effron，D.A.，Niedenthal,P.M.，Gil，S.，& Droit-Volet,S.(2006).Embodied temporal perception of emotion． Emotion, $6 ( 1 )$ ，1-9.   
+Eisler，H. (1976). Experiments on subjective duration 1968-1975: A collection of power function exponents. Psychological Bulletin，83(6)，1154-1171.   
+Eisler,H.，Eisler，A. D.，& Hellstrom,A. (2008).Psychophysical issues in the study of time perception. In S. Grondin (Ed.)，Psychology of Time. Bingley， UK.:Emerald Group Publishing.   
+Eysenck， M. W. (1992). Anxiety: The cognitive perspective. Hove, UK: Psychology Press.   
+Eysenck， M. W. (1997).Anxiety and cognition: A unified theory. Hove，UK:Psychology Press.   
+Faul，F.，Erdfelder，E.，Lang，A.-G.，& Buchner，A.(2007)． $\operatorname { G } *$ Power 3:A flexible statistical power analysis program for the social， behavioral，and biomedical sciences. Behavior Research Methods，39(2)，175-191.   
+Folkman,S.，Lazarus，R. S.，Dunkel-Schetter，C.，Delongis，A.，& Gruen，R.J.(1986).Dynamics of a stressful encounter: Cognitive appraisal，coping，and encounter outcomes. Journal of Personality & Social Psychology， ${ \it 5 0 ( 5 ) }$ ，992-1003.   
+Folkman, S.,Lazarus,R. S.，Gruen,R. J.，& Delongis,A.(1986)．Appraisal,coping, health status, and psychological symptoms. Journal of Personality& Social Psychology， 50(3)，571- 579.   
+Fox,E.，Russo，R.，Bowles，R.，& Dutton，K. (2001).Do threatening stimuli draw or hold visual attention in subclinical anxiety? Journal of Experimental Psychology General，130(4), 681-700.   
+Fraisse，P. (1981). Cognition of Time in Human Activity. In G. d’ Ydewalle & W. Lens (Eds). Cognition in Motivation and Learning. Hillsdale, New York: Erlbaum.   
+Fraisse,P. (1984). Perception and estimation of time. Annual Review of Psychology， 35(1)，1-36.   
+Gable,P.A.，& Poole,B. D. (2012). Time flies when you're having approach-motivated fun: Effects of motivational intensity on time perception. Psychological Science, 23(8)，879 - 886.   
+Georgiou,G.A.，Bleakley，C.，Hayward,J.，Russo，R.，Dutton，K.，Eltiti，S.，& Fox,E.(2005). Focusing on fear: Attentional disengagement from emotional faces. Visual Cognition, $\boldsymbol { \mathit { 1 2 } } ( 1 )$ ， 145 - 158.   
+Gil，S.，Niedenthal，P. M.，& Droit-Volet，S. (2007)．Anger and time perception in children. Emotion,7(1)，219 - 225.   
+Grondin, S. (2010)．Timing and time perception:A review of recent behavioral and neuroscience findings and theoretical directions. Attention Perception & Psychophysics， $7 2 ( 3 )$ ， 561-582.   
+Hajcak，G.，Moser，J. S.，& Simons，R.F. (2006)． Attending to affect: Appraisal strategies modulate the electrocortical response to arousing pictures. Emotion, $\boldsymbol { 6 } ( 3 )$ ，517 -522.   
+Hayes,A. F. (2013).Introduction to mediation， moderation, and conditional process analysis: A regression-based approach. Journal of Educational Measurement， 51(3)，335- 337.   
+Hoehn-Saric，R.，& Mcleod，D. R. (200o).Anxiety and arousal: physiological changes and their perception.Journal of Affective Disorders，61(3)，217-224.   
+Huang，S.，Liu，P.D.，Li，Q.Q.，Chen，Y.G.，& Huang，X.T.(2018)．The Influence of Facial Expressions of Pain on Subsecond and Suprasecond Time Perception. Psychological Science, (2)，278-284.   
+[黄顺航，刘培朵，李庆庆，陈有国，黄希庭．(2018)．疼痛表情对秒下及秒上时距知觉的影响．心理科 学，(2)，278 -284.]   
+Huang,X.T.,Li,B.Y.，& Zhang，Z. J. (2003).The Research of the Range-synthetic Model of Temporal Cognition. Journal of Southwest University(Social Sciences Edition)，29(2)，5-9.   
+[黄希庭，李伯约，张志杰．(2003)．时间认知分段综合模型的探讨．西南大学学报(社会科学版), ${ \it 2 9 ( 2 ) }$ ， 5-9.]   
+Jamieson，J.P.，Nock，M. K.，& Mendes，W. B. (2012). Mind over matter: reappraising arousal improves cardiovascular and cognitive responses to stress. Journal of Experimental Psychology General，141(3)，417 - 422.   
+Karademas，E. C.，Christopoulou， S.，Dimostheni，A.，& Pavlu，F. (2008)． Health anxiety and cognitive interference: Evidence from the application of a modified Stroop task in two studies. Personality and Individual Differences，44(5)，1l38 -1150.   
+Kim, S.A.，Kim, H.，& Kim, S. H. (2016). Reappraisal modulates attentional bias to angry faces. Frontiers in Psychology，7，1841.   
+Koster，E. H. W.，Leyman，L.，Raedt，R. D.，& Crombez，G. (2006)．Cueing of visual attention by emotional facial expressions: The influence of individual differences in anxiety and depression. Personality & Individual Differences，41(2)，329 - 339.   
+Lang,P. J.，Bradley，M. M.，& Cuthbert，B. N. (2005)． International affective picture system (IAPS):Affective ratings of pictures and instruction manual. Gainesville FL: University   
+Lozano，L. M.，Garciacueto,E.，& Muniz, J. (2008). Effect of the number of response categories on the reliability and validity of rating scales. Methodology， 4(2)，73-79.   
+Lueck，M. D. (2007)． Anxiety Levels: Do they influence the perception of time? Journal of Undergraduate Research， 10,1-5.   
+Lv,C. Niu, Q. Y.，& Zhang, X. M. (2014)． Attentional bias to negative stimulus in anxiety individuals. Chinese Mental Health Journal, $\ 2 8 ( 3 )$ ，208-214.   
+[吕创，牛青云，张学民．(2014)．焦虑个体对负性刺激的注意偏向特点．中国心理卫生杂志，28(3)， 208-214.]   
+Maeers， S. (2010). Task switching and subjective duration. Quarterly Journal of Experimental Psychol0gy，63(3)，531-543.   
+Mccormack,H. M.，Horne,D. J. D.，& Sheather,S. (1988). Clinical-applications of visual analog scales: A critical-review. Psychological Medicine, 18(4)，1007 -1019.   
+Mioni，,G.，Stablum,F.，Prunetti，E.，& Grondin， S. (2016)．Time perception in anxious and depressed patients:A comparison between time reproduction and time production tasks. Journal of Affective Disorders，196,154-163.   
+Mogg，K.，Wilson，K. A.，Hayward，C.，Cunning，D.，& Bradley，B.P. (2012)．Attentional biases for threat in at-risk daughters and mothers with lifetime panic disorder. Journal of Abnormal Psychology，121(4)，852 -862.   
+Montorio,I.，Nuevo,R.，Cabrera,I.，Márquez，M.，& Izal，M. (2015). Differential effectiveness of two anxiety induction proceduresin youth and older adult populations. Anales De Psicologia，31(1)，28 -36.   
+Smith,C. A. (1989). Dimensions of appraisal and physiological response in emotion. Journal of Personality& Social Psychology，56(3)，339-353.   
+Spielberger， C. D. (1971). Notes and comments trait-state anxiety and motor behavior. Journal of Motor Behavior，3(3)，265-279.   
+Tamm,M.，Uusberg,A.,Allik,J.，& Kreegipuu,K. (2014). Emotional modulation of attention affects time perception: Evidence from event-related potentials. Acta Psychologica, 149(6), 148 - 156.   
+Tomaka，J.，Blascovich，J.，Kelsey，R. M.，& Leitten，C. L.(1993)． Subjective，physiological, and behavioral effects of threat and challenge appraisal. Journal of Personality & Social Psychology， 65(2)，248- 260.   
+Tse,P.U.，Intriligator，J.，Rivest，J.，& Cavanagh，P. (2004)．Attention and the subjective expansion of time. Percept Psychophys，66(7)，1171-1189.   
+Uusberg，A.，Naar，R.，Tamm， M.，Kreegipuu，K.，& Gross，J.J. (2018).Bending time:The role of affective appraisal in time perception. Emotion, 18(8)，1177-1188.   
+Van Bockstaele，B.，Verschuere，B.，Tibboel，H.，De Houwer，J.，Crombez，G.，& Koster，E.H.W. (2014).A review of current evidence for the causal impact of attentional bias on fear and anxiety. Psychological Bulletin， 140(3)，682 - 721.   
+van Reekum，C. M.，Johnstone,T.，Urry，H.L.，Thurow，M.E.，Schaefer，H. S.，Alexander，A.L., & Davidson, R. J. (2007). Gaze fixations predict brain activation during the voluntary regulation of picture-induced negative affect. Neuroimage, 36(3)，1041-1055.   
+Wang,Y. M.，& Mao,R. J. (2016). The influence of cognitive reappraisal on attentional deployment. Psychological Exploration，36(5)，409-412.   
+[王艳梅，毛锐杰．（2016)．认知重评策略对注意分配的影响．心理学探新，36(5)，409-412.]   
+Whyman,A.D.，& Moos,R.H. (1967)． Time perception and anxiety. Perceptual& Motor Skills,24(2), 567 -570.   
+Yoo,J.Y.，& Lee,J. H. (2015). The effects of valence and arousal on time perception in individuals with social anxiety.Frontiers in Psychology，6,1208.   
+Zakay，D. (1993).Relative and absolute duration judgments under prospective and retrospective paradigms.Perception& Psychophysics，54(5)，656-664.   
+Zakay，D. (2005). Attention et jugement temporel． Psychologie Francaise， 50(1)，65-79.   
+Zakay，D.，& Block,R.A. (1997).Temporal Cognition. Current Directions in Psychological Science, 6(1)，12-16.   
+Zakay，D.，& Block，R. A. (2004). Prospective and retrospective duration judgments: An executive-control perspective. Acta Neurobiologiae Experimentalis,64(3)，319 -328.   
+Zakay,D.，Nitzan,D.，& Glicksohn,J.(1983).The influence of task difficultyand external tempo on sub jective time estimation.Perception& Psychophysics，34(5)，451-456.   
+Zhao，X.，Lynch，J.G.，& Chen，Q. (2010)．Reconsidering Baron and Kenny: Myths and truths about mediation analysis. Journal of Consumer Research,37(2)，197-206.
+
+# 作者贡献声明：
+
+刘静远：提出研究思路，设计研究方案；进行实验；采集、清洗和分析数据；论文起草。  
+李虹：提出研究思路，设计研究方案；论文最终版本修订。

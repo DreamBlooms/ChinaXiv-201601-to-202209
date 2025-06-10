@@ -1,0 +1,209 @@
+# Transient Response About the Cathode in the Gyrotron Discharge
+
+Weiye Xu, Handong Xu, Fukun Liu, Xiaojie Wang, Yong Yang, Jian Zhang
+
+Abstract—The gyrotron is the most important device in the ECRH system. The cathode power supply is one of the most important ancillary devices for gyrotron. Some interesting transient phenomena about the cathode voltage and the cathode current was found in the gyrotron operation.In order to explain these phenomena,an equivalent model of the magnetron injection gun was proposed.The equivalent circuit is composed of parallel resistors and capacitors,and it can explain the test results very well.
+
+Index Terms—Transient response,Gyrotron,Cathode,Gun, Equivalent model.
+
+# I．INTRODUCTION
+
+140GHz/4MW electron cyclotron resonance heating being built in ASIPP.Up to now,the first two gyrotrons has been established[1],and the third gyrotron is being set up and commissioning in ASIPP.The robust control and protection system,data acquisition system[2],and power measurement system[3] are built for gyrotrons.In the commissioning process of the first two gyrotrons,many researches related to the gyrotron are done.
+
+Currently， manyresearchesaboutgyrotronssuchas beam-wave interaction theory[4,5],design of the gyrotron[6], transienteffectsoftheoutputwave[7]， transient millimeter-wave signal analysis[8],and etc. have been done in the world.But there is little research on the transient analysis of the cathode voltage，cathode current,anode voltage,anode current,and so on.We have found some interesting phenomena in the gyrotron operation. An equivalent model of the magnetron injection gun is proposed to explain the test results in this paper.
+
+The details of the transient analysis of the voltages and currents are discussed in the following sections.In section 2, the architecture and schematic of the gyrotron and its ancillary systems and the timing sequence of the gyrotron are given.In section3,the negative high voltage power supply for gyrotrons are introduced.Then，in section 4,the measurement and analysis of the transient response of the cathode current and cathode voltage are given.Finally,we give the conclusions in section 5.
+
+# II.THE ANCILLARY SYSTEMS AND THE TIMING SEQUENCE OF THEGYROTRON
+
+The gyrotron can not work without its ancillary systems such as the superconducting magnet and its power supply，the collector power supply, the cathode power supply,the anode power supply,the ion pump power supply,the filament power supply,and etc.The ancillary systems and their connections to gyrotron are presented in Fig.1. The current limiting resistors are used to limit the maximum current flowing through the cathode and the anode( $5 0 ~ \mathrm { k } \Omega$ for the anode and $2 0 ~ \Omega$ for the cathode).The DC shunts，which are actually resistors with small resistance value,are used to measure anode current and beamcurrent ( $5 0 0 ~ \mathrm { m } \Omega$ for the anode current and $1 ~ \mathrm { m } \Omega$ for the cathode current). Because the filament is floating on the cathode highvoltage,anisolation transformerisused between the filament and its power supply to protect the filament power source.
+
+![](images/f3b9300668944883deb30cccf2f549d61ce7f5e827eb4ed81b4b9bca10466cc6.jpg)  
+Fig.1．The gyrotron and its ancillary systems.The‘PS’in this figure is a shorthand for‘power supply';the‘HV'isa shorthand for‘high voltage'.
+
+The gyrotrons must be operated at a right timing sequence, otherwise the gyrotrons may be damaged. The right timing sequence is shown in Fig.2.The PLC_Ready signal is an interlock signal from PLC(Programmable Logic Controller). The TriggerIn_-6O signal is sent from EAST center controller, if the rising edge is detected by the timing controller, the timing controller will change the NegHVPre_-6O signal to the high level.And the NegHVPre_-6O signal is sent to the cathode power supply,if the NegHVPre_-6O signal is in the highlevel, the switchgear of the cathode power supply will be closed.And if the switchgear of the cathode power supply is closed, the cathode power supply will send a NegHv_Ready signal to the timing controller. Sixty seconds after the rising edge of the TriggerIn_-6O signal is detected, a rising edge of the TriggerIn_O signal will be sent to the timing controller. Then the timing controller will turn the NegHv_OnOff signal to be high level immediately (in several nanosecond). Then the IGBTs of the cathode power supply will be closed according to the set time.If the output voltage of the cathode power supply is bigger than $3 0 \mathrm { k V }$ ，the NegHV_OutputState signal will be the highlevel.Fifty milliseconds after the NegHv_OnOff signal changed to be high level, the timing controller will turn the PosHV_OnOff signal to be high level to turn on the anode power supply. One millisecond after the anode power supply is turnedon， thetimingcontrollerwilldetectthe Wave_OutputState signal (RF signal) to realize part of the RF protection[3]. If the Wave_OutputState signal goes low, the shutdown procedure will be started,i.e., the NegHv_OnOff signal and the PosHV_OnOff signal will be set to be low level successively (an interval of $2 \mathrm { \ m s } \mathrm { \dot { \Omega } }$ ）to shutdown the power supplies to protect the gyrotron.In the process of the gyrotron discharge,if the Ip_D signal (plasma current signal sent from EAST center controller) goes low, the shutdown procedure will be started to protect the EAST tokamak from being damaged by the millimeter wave outputted from the gyrotrons.For safety, anyone of these signal such as PLC_Ready,NegHv_Ready, NegHV_OutputState,Wave_OutputState,and Ip_D goes low, the shutdown procedure will be started.
+
+PLC_Ready The signal indicates whether the system is ready or not,which is sent from the PLC. Input TriggerIn_-60 which issent from EAST centercontroller. Trigger signal to start preparing discharging, Input NegHVPre_-60 ricsattp Output NegHv_Ready Hisi Input TriggerIn_0 richrsienat totceitroller. Input NegHv_OnOff Thgnaforpintpht Output sent to the negative HV power supply. NegHV_OutputState Hsialindsttive Input PosHV_OnOff Thealtvpotitat Output sent to the positive HV power supply. Wave_OutputState The signal incidates whether the gyrotrons can Input generate the HE11 mode millimeter wave or not. Ip_D ThesigalindswhtrthetdishteftheEAtoakis Input
+
+# III.NEGATIVE HIGHVOLTAGE POWER SUPPLY FOR GYROTRONS
+
+We have developed two cathode high voltage power supplies for four gyrotrons. The cathode high voltage power supplies are using PSM (Pulse Step Modulation）technology[9]，which overcomes the shortcomings of the traditional high voltage power supply,such as large single volume,low efficiency,net side low harmonics pollution,lower power factor,larger output ripple,slower dynamic response,and so on. The power supply topology is shown in Fig. 3. In order to protect the gyrotrons, it is necessary to insure that the stored energy of the power supply system is small enough. The energy is mainly stored in the output filter and stray capacitances for PDM modules.The stored energy is very small $( < 1 0 \mathrm { J } )$ in our power supply system. In order to verify the protection effect,we have taken a short circuit test. A fuse (whose fusing energy is $1 0 \mathrm { ~ J ~ } ,$ ）which is connected in series in the loop is still good when the load is shorted,which can prove that the stored output energy of the power supply is less than 1O J.Therefore,we can use this power supply for gyrotron without crowbar.
+
+If the high voltage source receives a turn-off signal or protection signal from the gyrotron control system,the IGBTs will be shut down within several microseconds,thus the connection between the power supply and the gyrotron will be cut off.A test was made to verify the shutdown time of the cathode power source was in several microseconds.A dummy load whose resistance value is $3 0 4 ~ \Omega$ was connected to the power source. Then a turn-off signal was send to the power supply. The waveforms of the voltage and the current of the cathode power supply when the IGBTs shut off is shown in Fig. 4.As we can see,the shutdown time of the cathode power source is about $5 \mu \mathrm { s }$ .It is short enough to protect the gyrotrons.
+
+![](images/b6ed9dfe4e66683d1841eb746f985fdf2ac7aa5e9e4a39fac32e0b9d6d15df43.jpg)  
+Fig.3.The schematic of the cathode power supply whose nominal parameter is -60kV/80A/10oOs for gyrotrons.The power supply is composed of 87 PSM modules and1PDM(Pulse Density Modulation) module.
+
+![](images/6a99e3de6a27c4ab9e72cfdfdba976c8c89a93c03704c405d74b049c4b51806b.jpg)  
+Fig.2.The operation sequence of the gyrotron.The signals which are marked as‘Input’ indicate that the signals are input to the timing controller.The signals which are marked as‘Output’ indicate that the signals are output from the timing controller.   
+Fig.4.The waveforms of the voltage and the current when the IGBTs shut off with a dummy load whose resistance value is $3 0 4 \Omega$ #
+
+# IV.MEASUREMENT AND ANALYSIS OF THE TRANSIENT RESPONSEOFTHECATHODECURRENTANDCATHODE VOLTAGE
+
+The measurement block diagram of the cathode voltage and the cathode current is shown in Fig. 5.A high voltage probe which is in parallel with the cathode high voltage power supply is used to measure the cathode voltage.A rapid response current probe is used to measure the cathode current. The high voltage probe and the current probe are both connected to the same oscilloscope which is mainly used to measure the transient response.In addition,a shunt whose resistance is 1 $\mathrm { m } \Omega$ is used to measure the cathode current.It is used to realize the slow overcurrent protection and to measure the steady-state cathode current.
+
+![](images/cd1ca71579fa46b2d1f64d46eb81d3d23d78fc098f05f3935cb9e2eb5b1a370b.jpg)  
+Fig.5.The measurement block diagram of the cathode voltage and the cathode current.
+
+Fig.6 and Fig.7 show the cathode voltage and the cathode current displayed on the oscilloscope when the gyrotron is shutting down.As we can see,the response time of the cathode voltage when the gyrotron shuts down normally is different with the response time of the cathode voltage when the overcurrent protection happens.In the case of normal shutdown. the cathode voltage drops to about $10 \%$ of the original value for about $2 5 ~ { \mu \mathrm { s } }$ . In the case of overcurrent, the cathode voltage drops to about $10 \%$ of the original value for about $9 0 ~ \mu \mathrm { s }$ Actually,in both two cases,the cathode power supply shuts down with the same operation within $6 { \mu \mathrm { s } }$ .So,we can infer that some gyrotron parameters changes when overcurrent happens. The change of the gyrotron parameter causes the change of the drop time of the cathode voltage. So we proposed an equivalent model of the gyrotron gun to analyze it.
+
+![](images/7419985ce455005c63454be8a4e536eb7beb3126661406ebbad95469bbd273ff.jpg)  
+Fig.6.The cathode voltage and the cathode current when the gyrotron is shutting down normally.
+
+![](images/1cbe61bbf33209119afaebdd450b8bd00e6573fcb92e611fc6a164601e94e636.jpg)  
+Fig.7.The cathode voltage and the cathode current when the gyrotron is shutting down with overcurrent.
+
+The equivalent circuit of the gyrotron gun and the auxiliary power supplies can be represented by Fig.8.Where $\scriptstyle \mathrm { \mathrm { R } } _ { \mathrm { r b } }$ is the cathode current limiting resistor with the resistance of $2 0 \Omega$ $\mathrm { \sf R } _ { \mathrm { r a } }$ is the anode current limiting resistor with the resistance of $5 0 \mathrm { k } \Omega$ ：， $\mathrm { R } _ { \mathrm { s b } }$ is the shunt for measuring beam current with the resistance of $1 ~ \mathrm { m } \Omega$ ：， $\mathrm { \sf R } _ { \mathrm { { s a } } }$ is the shunt for measuring the anode current with the resistance of $5 0 0 ~ \mathrm { m } \Omega$ ：， $\mathrm { R _ { b } }$ is the equivalent resistor of the electron gun between the cathode and the ground (body); $\mathrm { C _ { b } }$ is the equivalent capacitor between the cathode and the ground (body); $\mathbb { R } _ { \mathrm { a } }$ is the equivalent resistor between the anode and the cathode; $\mathrm { { C _ { a } } }$ is the equivalent capacitor between the anode and the cathode.
+
+The resistance of $\mathbf { R } _ { \mathbf { b } }$ is related to the voltage across $\mathrm { C _ { b } }$ and the voltage across $\mathbf { C } _ { \mathrm { a } }$ (the sum of the absolute value of the cathode voltage and the absolute value of the anode voltage) and the power of the filament power supply. For the normal shutdown process of the cathode voltage, the anode voltage has been reduced to O, so the value of $\mathbf { R } _ { \mathrm { b } }$ is just related to the voltage across $\mathrm { C _ { b } }$ (the cathode voltage) and the power of the filament power supply. TABLE I shows the examples.
+
+TABLEI THE RESISTANCE OFRb ALONGWITH THE CATHODE VOLTAGE AND THE ANODEVOLTAGE,AND THEFILAMENTPOWER.   
+
+<html><body><table><tr><td>Cathode voltage [kV]</td><td>Anode vokv</td><td>Filament power [W]</td><td>Cathode Current [A]</td><td>Rb [kΩ]</td></tr><tr><td>-45</td><td>0</td><td>1135.32</td><td>32.2</td><td>1.3975</td></tr><tr><td>-44</td><td>0</td><td>1126.09</td><td>30.6</td><td>1.4379</td></tr><tr><td>-44</td><td>0</td><td>1113.26</td><td>30.1</td><td>1.4618</td></tr><tr><td>-43</td><td>0</td><td>1111.77</td><td>29.2</td><td>1.4726</td></tr><tr><td>-42</td><td>0</td><td>1099.59</td><td>26.5</td><td>1.5849</td></tr><tr><td>-42</td><td>0</td><td>1097.65</td><td>25.9</td><td>1.6216</td></tr><tr><td>-40</td><td>0</td><td>1097.65</td><td>25.6</td><td>1.5625</td></tr><tr><td>-35</td><td>0</td><td>1097.65</td><td>24.5</td><td>1.4286</td></tr><tr><td>-20</td><td>0</td><td>1097.65</td><td>20.0</td><td>1.0000</td></tr><tr><td>-10</td><td>0</td><td>1097.65</td><td>12.0</td><td>0.8333</td></tr><tr><td>-42</td><td>5</td><td>1099.59</td><td>27.3</td><td>1.5385</td></tr><tr><td>-42</td><td>16</td><td>1099.59</td><td>29.0</td><td>1.4483</td></tr><tr><td>-42</td><td>19</td><td>1099.59</td><td>29.4</td><td>1.4286</td></tr></table></body></html>
+
+![](images/05ae2f90bb8b11e2f9a7e112bc3cbf0ef06187543eb5c5df05ee26dc85b9bcec.jpg)  
+Fig.8．The equivalent model of the gyrotron gun and the auxiliary power supplies.The equivalent model of the gun is in the red dashed box.
+
+We analyzed the relationship between the value of $\mathrm { R _ { b } }$ and the cathode voltage $u _ { b }$ in the situation where the anode voltage is zero and the filament power is 1O97.65 W. The relationship between the value of $R _ { b }$ and the absolute value of the cathode voltage $u _ { b }$ are shown in Fig.9.The exponential fitting function is,
+
+$$
+R _ { b } = - 3 5 9 . 6 + 1 0 0 5 . 5 \cdot \exp ( 1 . 6 \times 1 0 ^ { - 5 } u _ { b } )
+$$
+
+Where theunit of $u _ { b }$ is Volt,and the unit of $R _ { b }$ is Ohm.
+
+![](images/8a28b480661eaa3a90de245a7d9caa2ec52884919ccef494bcc144ca58cad53e.jpg)  
+Fig. 9. The value of $\mathbf { R } _ { \mathrm { b } }$ along with the cathode voltage.
+
+When the cathode power supply shuts down,a capacitor discharge circuit is formed by $\mathrm { C _ { b } }$ and $\mathbf { R } _ { \mathbf { b } }$ .That isa zero-input response.Assume the initial voltage across the capacitor $\mathrm { C _ { b } }$ is $\mathrm { { U _ { b } } }$ (a positive value in the unit of Volt),the Laplace transform equivalent circuit is shown in Fig. 1O.The voltage across the capacitor $\mathrm { C _ { b } }$ is,
+
+$$
+\begin{array} { r } { u ( s ) = \frac { \mathbf { U } _ { b } } { s } - \frac { \frac { \mathbf { U } _ { b \cdot \frac { 1 } { s } } } { \frac { 1 } { s } + R _ { b } } } { \frac { 1 } { s C _ { b } } + R _ { b } } = \frac { \mathbf { U } _ { b } } { s } - \frac { \mathbf { U } _ { b } } { s ( 1 + s C _ { b } R _ { b } ) } = \frac { \mathbf { U } _ { b } } { \frac { 1 } { C _ { b } R _ { b } } + s } } \end{array}
+$$
+
+Using inverse Laplace transform, we can get,
+
+$$
+\begin{array} { r } { \boldsymbol { u } ( t ) = \mathbf { U _ { b } } \cdot \exp ( - \frac { 1 } { C _ { b R _ { b } } } t ) } \end{array}
+$$
+
+Where $u ( t ) = u _ { b }$ . By solving equation (1） and equation (3), assume $u ( t ) = u _ { b } = u _ { t }$ ,we can get,
+
+$$
+\begin{array} { r } { u _ { t } = \mathrm { U _ { b } } \cdot \exp ( - \frac { 1 } { C _ { b } ( - 3 5 9 . 6 + 1 0 0 5 . 5 \cdot \exp ( 1 . 6 \times 1 0 ^ { - 5 } u _ { t } ) ) } t ) } \end{array}
+$$
+
+Take natural logarithm at both ends of the above equation, and simplify the equation,
+
+$$
+\begin{array} { r } { 3 5 9 . 6 ( \ln u _ { t } - \ln \mathrm { U _ { b } } ) + 1 0 0 5 . 5 ( \ln \mathrm { U _ { b } } - \ln u _ { t } ) \exp ( 1 . 6 \times \smallskip } \\ { 1 0 ^ { - 5 } u _ { t } ) = \frac { t } { c _ { b } } \qquad \quad ( \mathrm { ~ a ~ n ~ d ~ \hat { ~ } = ~ 1 ~ . ~ } } \end{array}
+$$
+
+Let $\mathrm { U _ { b } } = 4 1 0 0 0 \ : \mathrm { V }$ $\mathrm { u _ { t } } = 4 1 0 0 \mathrm { V }$ ,we can get the time used for the cathode voltage decreasing to about $10 \%$ of the original value.
+
+$$
+t \approx 1 6 4 4 . 2 C _ { b }
+$$
+
+As shown inFig.6,in the case of normal shutdown, the cathode voltage drops to about $10 \%$ of the original value for about $2 5 \mu \mathrm { s }$ So, the equivalent capacitance is,
+
+$$
+\begin{array} { r } { C _ { b } \approx \frac { t } { 1 6 4 4 . 2 } \approx 1 5 . 2 ~ \mathrm { n F } } \end{array}
+$$
+
+For the current flowing through $\mathbf { R } _ { \mathbf { b } }$ ,we assume the direction of the current shown in Fig.1O is positive, then,
+
+$$
+\begin{array} { r } { i ( t ) = -  { \mathrm { C _ { b } } } \frac { \mathrm { d } u _ { t } } { \mathrm { d t } } = \frac {  { \mathrm { U } } _ { \mathrm { b } } } { R _ { b } } \cdot \exp ( - \frac { 1 } {  { \mathrm { C } } _ { \mathrm { b } } R _ { b } } t ) } \end{array}
+$$
+
+Since $R _ { b }$ varies with the voltage $\mathbf { u _ { t } } ,$ ,the equation(3) is brought into the above equation to obtain the relationship between the current $i ( t )$ and the voltage ${ { u } _ { t } }$
+
+$$
+\begin{array} { r } { i ( t ) = \frac { u _ { t } } { R _ { b } } = \frac { u _ { t } } { - 3 5 9 . 6 + 1 0 0 5 . 5 \cdot \exp \left( 1 . 6 \times 1 0 ^ { - 5 } u _ { t } \right) } } \end{array}
+$$
+
+The value of $i ( t )$ is always positive,indicate that the real direction of the current is same as the direction shown in Fig.10, i.e.,the real direction of the current is same as the direction at time O..The relationship between $i ( t )$ and $u _ { t }$ is shown in Fig. 11. When $u _ { t } { = } 4 1 0 0 0 \mathrm { ~ V ~ }$ ， $i ( t ) { \approx } 2 6 \ \mathrm { A } { = } \mathrm { i } ( 0 { - } )$ ; when $\scriptstyle u _ { t } = 3 0 0 0 0$ ， $i ( t ) { \approx } 2 4$ A;when $u _ { t } { = } 2 0 0 0 0 \mathrm { v }$ ， $i ( t ) { \approx } 2 0 \mathrm { A }$ ；when $\scriptstyle u _ { t } = 0 \mathrm { ~ V ~ }$ ， $i ( t ) { \approx } 0$ A.The value of $i ( t )$ decreases with the decrease of $u _ { t }$ ,and the drop time is almost the same.It should be noted that the current $i ( t )$ is the current flowing through the resistor $\mathbf { R } _ { \mathbf { b } }$ ,it is not the same one measuredbya currentprobe showninFig.5,and itishardly to be measured.
+
+![](images/a5733bffd0a5c834ca2e663414628e3af48f184081f74e20ae645cc0bd2f9e36.jpg)  
+Fig.10. The Laplace transform equivalent circuit when the cathode power supply shuts down.
+
+![](images/28dab37a931bf0f63b316694d4ddaf15014cb288ad0573dfea7bbf5bda70654a.jpg)  
+Fig.11. The current flowing through Rb as a function of the voltage ut
+
+When an arc happens in the gyrotron gun, the cathode current will increase suddenly.It is dangerous for gyrotron. So, if an overcurrent happens, the protection system will shut down the anode power supply and the cathode power supply at the same time.As we can see in Fig.7,about $5 \mu \mathrm { s }$ after overcurrent happens,the voltage began to turn off.So,after overcurrent happens,the energy transmitted to the gyrotron is,
+
+$$
+\begin{array} { r } { \mathsf { W } \approx \int p d t \approx \int _ { 0 } ^ { 5 \mu } u i d t \approx 4 1 \mathrm { k V } \times 3 5 \mathrm { A } \times 5 \mu \mathrm { s } \approx 7 . 2 \mathsf { J } } \end{array}
+$$
+
+For the situation where overcurrent happens,the anode voltage starts to decrease at the same time as the cathode voltage.That is,the anode voltage is not zero when the cathode power supply shuts down.But we can see from Table 1,the value of $\mathbf { R } _ { \mathbf { b } }$ islessaffected by the anode voltage.For the sake of simplicity，we ignore the anode voltage in the overcurrent situation.As we can see in Fig.7, the cathode voltage drops to about $10 \%$ of the original value for about $9 0 ~ \mu \mathrm { s }$ which is much longer than the time in the normal situation. The equivalent capacitance is,
+
+$$
+\begin{array} { r } { C _ { b } \approx \frac { t } { 1 6 4 4 . 2 } \approx 5 4 . 7 ~ \mathrm { n F } } \end{array}
+$$
+
+The equivalent capacitance $C _ { b }$ increases may be due to the discharge between the cathode and ground, thus the drop time of the cathode voltage increases.
+
+In order to further verify the above assumptions,we try to adda crowbar short-circuit switch at both ends of the cathode voltage source.When the cathode voltage source is turned off, the crowbar short-circuit switch is automatically closed and the equivalent circuit is shown in Fig.12.When the crowbar switch is closed, the capacitor $\mathrm { C _ { b } }$ will be discharged through the $\mathbb { R } _ { \mathrm { r b } }$ The voltage across the capacitor $\mathrm { C _ { b } }$ is,
+
+$$
+\begin{array} { r } { \boldsymbol { u } ( t ) = \mathbf { U _ { b } } \cdot \exp ( - \frac { 1 } { C _ { b } R _ { r b } } t ) } \end{array}
+$$
+
+Then, the cathode voltage drops to about $10 \%$ of the original value for about,
+
+$$
+2 . 3 R _ { r b } C _ { b } \approx 0 . 7 ~ \mu s
+$$
+
+The actual cathode voltage waveform is shown in Fig. 13, and it can be seen that the voltage falling edge is indeed about $0 . 7 ~ \mu \mathrm { s }$ However, because the voltage source turns off too fast, the oscillation of the voltage will be generated[1O]. The oscillation is generated due to the signal transmission and reflection between the left end of the $\mathrm { C _ { b } }$ and the ground.
+
+While the current flowing through $\mathrm { R } _ { \mathrm { r b } }$ is,
+
+$$
+\begin{array} { r } { i ( t ) = - C _ { \mathrm { b } } \frac { \mathrm { d } u _ { t } } { \mathrm { d t } } = \frac { \mathrm { U _ { b } } } { R _ { r b } } \cdot \exp ( - \frac { 1 } { C _ { b } R _ { r b } } t ) } \end{array}
+$$
+
+When $\mathrm { U _ { b } { = } 4 1 \ k V }$ ,the current is about $2 . 0 5 \mathrm { k A }$ at time zero,and the current direction flowing through $\scriptstyle \mathrm { \mathsf { R } } _ { \mathrm { r b } }$ is opposite to the initial direction. Then it decreases to about $2 0 5 \mathrm { ~ A ~ }$ after $0 . 7 ~ \mu \mathrm { s }$ decreases to about $2 0 . 5 \mathrm { ~ A ~ }$ after $1 . 4 ~ \mu \mathrm { s }$ .It can be seen from the beam current signal in Fig.13 that the current signal does rush to a large value，but since the oscilloscope's preset signal amplitude range is small, we do not see how much the specific maximum value is.It can be seen from Fig.13 that the current signal drops to near OA for about $1 ~ \mu \mathrm { s }$ ,which is in line with the theoretical expectation.However, due to the current edge is too fast,the current signal is transmitted back and forth on the signal line, the current oscillation occurs.
+
+![](images/5b582f56e1ed00361849c2f3e4e9b2a617d4336f3e8c4fc474e2cff716093e04.jpg)  
+Fig.12. The equivalent model of the gyrotron gun and its power supplies with the crowbar switch.
+
+![](images/e6007ee8bb10e425d346a480194a23b3713038c519c04580ac849f663cec882a.jpg)  
+Fig.13.The cathode voltage and the cathode current when the gyrotron is shutting down when overcurrent happens with crowbar switch.
+
+The transient response of the anode current and anode voltage when the power supply shuts down is similar to that of the cathode. The equivalent resistor $\mathbb { R } _ { \mathrm { a } }$ shown in Fig.8 is related to the voltage across $\mathrm { { C _ { a } } }$ (the sum of the absolute value of the cathode voltage and the absolute value of the anode voltage). The resistance of $\mathbb { R } _ { \mathrm { a } }$ decreases as the anode voltage increases. $R _ { a }$ isprobably several megohms； $C _ { a }$ isprobably several picofarads,and $C _ { a }$ may increase in the overcurrent condition. So the time of the anode voltage drops to about $10 \%$ of the original value may be longer than that in the normal case.If only the cathode voltage is applied to the gyrotron,and the anode is not connected to the anode power supply or ground, the potential on the anode will be equal to the potential on the cathode.If the anode potential is not equal to the cathode potential,there may be an equivalent resistor between the anode and the ground.More detailed analysis and test will be made in the future.
+
+# V．CONCLUSION
+
+The gyrotron is the key part of the ECRH system. The gyrotron is a sophisticated vacuum device,and many ancillary systems are needed to assist it in working.The cathode power supply and the anode power supply are the most important ancillary devices.The gyrotrons must be operated at a right timing sequence,otherwise the gyrotrons may be damaged. During the experiments of the gyrotrons,we found that the waveforms of the cathode voltage and the cathode current vary with different conditions.The cathode voltage drops to about $10 \%$ of the original value by about $9 0 ~ \mu \mathrm { s }$ which is much longer than the $2 5 ~ { \mu \mathrm { s } }$ in the normal case.An equivalent circuit of the gun of the gyrotron is proposed to analyze the transient phenomena about the cathode voltage and the cathode current. The equivalent circuit is composed of parallel resistors and capacitors,and it can explain the test results well. We also simply predicted the response of the anode voltage and current according to the equivalent circuit model.More detailed test will be made in the future.
+
+# ACKNOWLEDGMENTS
+
+We greatly appreciate the experts from GA，CPI，and GYCOM for the cooperation in the development of the ECRH project on EAST.
+
+# REFERENCES
+
+[1] H.Xu,X.Wang,F.Liu,J.Zhang,Y.Huang,J. Shan,D.Wu,H.Hu,B. Li,M.Li,Y.Yang,J.Feng,W.Xu,Y.Tang,W.Wei,L.Xu,Y.Liu,H. Zhao,J.Lohr,Y.A. Gorelov,J.P.Anderson,W.Ma,Z.Wu,J.Wang,L. Zhang，F.Guo,H.Sun,X.Yan，and T.East,“Development and Preliminary Commissioning Results of aLong Pulse 14O GHz ECRH System on EAST Tokamak (Invited),”Plasma Science and Technology, vol. 18,no.4,pp.442-448,2016.   
+[2] W.Xu,H.Xu,F.Liu,F.Hou,and Z.Wu,“Data acquisition system for electron cyclotron resonance heating on EAST tokamak,”Fusion Engineering and Design, vol.113,pp.119-125,12//,2016.   
+[3] W.Xu,H.Xu,F.Liu,Y. Tang,Z.Wu,X.Wang,J.Wang,andJ.Feng, “Millimeter Wave Power Monitoring in EAST ECRH System,”IEEE Access,vol.4,no.1,pp.5809-5817,2016.   
+[4] S.G.Liu,“The kinetic theory of electron cyclotron resonance maser," Scientia Sinica,vol.22,no.8,pp.901-911,1979.   
+[5] E.Borie,and B.Jodicke,“Comments on the linear theory of the gyrotron,”IEEE Transactions on Plasma Science,vol.16,no.2,pp. 116-121,1988.   
+[6] M.V.Kartikeyan,E.Borie,O.Drumm, S.Illy,B.Piosczyk,and M. Thumm,“Design of a 42-GHz 2Oo-kW gyrotron operatingat the second harmonic,"MicrowaveTheory&TechniquesIEEETransactionson,vol. 52,no.2,pp.686-692,2004.   
+[7] A.T.Lin,"Transient Effects In High Current Gyrotrons."pp.8-17.   
+[8] A.Schlaich,G.Gantenbein,J.Jelonnek,and M.Thumm,“Transient Millimeter-Wave Signal Analysis With Unambiguous RF Spectrum Reconstruction,’ IEEE Transactions on Microwave Theoryand Techniques,vol.61,no.12,pp.4660-4666,2013.   
+[9] Z.Yang,J.Zhang,Y.Huang,X.Hao,Q.Zhao,and F.Guo,“The AnalysisandDesignofHighVoltageDCPower SupplyofECRHfor EAST,”Nuclear Science and Technology, vol.O1,no.1,pp.9-17,2013.   
+[10] H.W.Johnson，and M.Graham，High-Speed Digital Design:A HandbookofBlackMagic,Englewood Cliffs,NJ:Prentice-Hall,1993.
+
+![](images/69534f7e5a37477de5895c557d731364dcc594f039a673e8b2b649f2b1ce3324.jpg)
+
+Weiye Xu was born in Qufu, Shandong Province,China,in 199O.He received the B.S.degree in electronic science and technologyfromShandongNormal University，Jinan，Shandong，China,in 2011.He received the Ph.D.degree in nuclear energy science and engineering from University of Chinese Academy of Sciences,Beijing,China,in 2O17.Now he is doing research in the Institute of Plasma Physics,Chinese AcademyofSciences,Hefei,Anhui, China.
+
+His research interests include the high power microwave heatingtechnologyforplasma， electronictechnology, electromagnetic field theory,and microwave technology.
+
+Handong Xu was born in Yuexi county, Anhui province,China.He received the M.S.degree in microwave engineering from the Institute of Plasma Physics, Chinese Academy of Sciences,Hefei, in 2004 and the Ph.D.degree in advanced energy 中 engineeringfromKyushu University,Fukuoka, Japan,in 2008.
+
+![](images/c77bc75ba1f523f52f49f434fec3ef6d2424f5644d7d92e01711d18c6747341b.jpg)
+
+Since 20O9，he has been a senior engineer in the Institute of plasma physics,Chinese Academy of Sciences.His research interests focused on the development of high power microwave heating & current drive system and corresponding experiment study on EAST Tokamak devices. He participated in the research of 4MW 2.45GHz and 6MW 4.6GHzLower Hybrid Current Drive(LHCD) on EAST from 2009 to 2011.He mainly studies 140GHz 4MW Electron Cyclotron Resonance Heating (ECRH) system and ECRH experimentsonEAST from 2012.

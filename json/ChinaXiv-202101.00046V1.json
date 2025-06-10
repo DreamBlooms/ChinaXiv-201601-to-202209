@@ -1,0 +1,319 @@
+[
+    {
+        "type": "text",
+        "text": "Germination strategies of annual and short-lived perennial species in the Arabian Desert ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Arvind BHATT1,DavidJGALLACHER²\\*,Paulo RMSOUZA-FILHO? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lushan Botanical Garden, Chinese Academy of Sciences, Jiujiang 3329oo,China; ²School of Life and Environmental Sciences,The University of Sydney,Narrabri NSW 2390,Australia; Multidisciplinary Center of Barra,Federal University of Western Bahia,Barra 471OO-Ooo,Brazil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Germination timing is highly regulated in short-lived plant species since it strongly influences recruitment success of vegetation.In deserts,the spatiotemporal distribution of plant-available water is highly episodic and unpredictable, making winter months more favorable for seed germination when other abiotic conditions co-occur. We hypothesized that changes in photoperiod and thermoperiod would impact germination more in seeds that had undergone in situ storage. We assessed 21 annual and short-lived perennial species in the Arabian Desert to find(1)if seeds were dormant at maturity, (2) if in situ seed storage increased germination percentage compared with no storage, (3) if photoperiod and thermoperiod germination requirements were influenced by in situ storage,and (4) if a phylogenetic association in seed germination could be observed.Seeds of each species collcted in early 2017 were divided into two batches. One was tested for germination within one week (fresh seeds). The other was stored in situ at the maternal location (stored seeds) until October 2017 and tested for seed germination in the first week of November. Seed germination was conducted in incubators at two thermoperiods $( 1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ ： $1 2 ~ \\mathrm { h } / 1 2 ~ \\mathrm { h } ;$ ，and two photoperiods (12 and $^ { \\mathrm { ~ 0 ~ h ~ } }$ light per day). Results indicated that seed germination percentages of 13 species were significantly enhanced by in situ storage. A thermoperiod response was exhibited by stored, but not fresh seeds.Light exposure increased germination of fresh seeds but had only a minimal effect on stored seeds. Germination traits exhibited no phylogenetic corelation. This result indicated that selection pressure for germination strategy was stronger than that for taxonomic traits of these desert species. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: desert species; dormancy; germination; light; temperature; phylogeny ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seed dormancy at time of maturation is common in plant species generally. Dormancy enables the delay of germination until conditions are more suitable for recruitment success (Clauss and Venable,2OoO;Liu et al.,2O13). Arabian Desert has harsh environments characterized by high summer temperatures (May to October) and extremely low and unpredictable precipitation ( $\\cdot 2 0 0$ $\\mathrm { { m m / a } }$ ）occurring mostly in winter (November to April; Boer,1997; Harel et al.,2011; Almazroui et al.,2O12).Spatiotemporal distribution of precipitation in deserts is highly episodic and unpredictable (Terradas， 1991). Plant growth in deserts occurs in winter when moisture is available, producing seeds before the onset of summer (Petrie,2Oo7). Seeds remain dormant until the following winter when temperature drops,and the chance of multiple precipitation events is greater in winter (Bhatt and Pérez-Garcia, 2016). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Seed dormancy occurs in more than $80 \\%$ of desert species worldwide (Baskin and Baskin, 2014),but varies in both mechanism and degree,hereafter referred to as germination strategy. Evolutionary pressure on germination strategy acts to maximize recruitment success for current environmental conditions (Finch-Savage and Leubner-Metzger, 2O06; Carta et al., 2O14). Climate is the primary environmental factor to influence germination strategy (Fenner and Thompson, 2005). Climate includes seasonal and daily changes in temperature and precipitation, affecting both the quantity and reliability of plant-available water within a season. Water is the main limiter of seedling survival in the Arabian Desert since annual precipitation is low and highly variable (El-Keblawy, 2O17). The important strategy of most plant species in the Arabian Desert is to germinate after precipitation in early- to mid-winter for maintaining the establishment of community. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Germination timing is highly responsive to environmental conditions (Donohue,2OO2). Proper timing reduces seedling mortality and correlates with seedling growth potential (Evans and Cabin, 1995).Many species can adjust_seasonal timing of germination by recognizing other environmental cues (Gutterman,1972; Donohue et al.,2010; Barua et al.,2012). For example, dispersed seeds in desert are often exposed to a microenvironment of extreme diurnal temperature variation at the soil surface, which might trigger dormancy alleviation pathways (Baskin and Baskin,1988; Jordan and Haferkamp,1989). Germination studies conducted ex situ can easily miss these microenvironmental conditions, resulting in an inaccurate understanding of dormancy allviation (Mira et al.，2O11). In situ germination studies are more diicult, but sometimes necessary to understand the regulation of seed germination in natural settings. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Temperature and light play significant roles in the germination strategy of many desert species (El-Keblawy etal.,2011; Menon et al.,2014; Bhatt and Pérez-Garcia,2016; Bhattet al.,2016a,b, c; Bhatt and Santo,2O17). The relationship between light exposure and germination in a species can be positive, negative or neutral,and indicates a preference against,for, or ambivalence toward seed burial (Baskin and Baskin， 2O14)． Seeds can be covered by leaf litter, transported underground by granivores, or buried by shifting sand. A preference for germinating in darkness indicates the species is adapted to one of these events (Fenner and Thompson, 2005). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Germination strategy could exhibit phylogenetic trends,in which closely related species exhibit similar germination behavior regardless of climate (Burns and Strauss, 2O11). Alternatively, a distinctive climate could homogenize germination strategies (Wang et al.，2Oo9). These countering selection pressures could leave weak but significant phylogenetic traces among related species (Seglias et al.，2O18). The responses of seed germination to thermoperiod, photoperiod and storage are strongly heritable，and therefore become good indicators of genotypic preservation among climates (Liu et al.,2O18; Seglias et al., 2O18; Tudela-Isanta et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Duration of physiological dormancy can be influenced by seed storage conditions. Climatic regulation to reduce dormancy during storage is termed after-ripening (Holdsworth et al., 2008), and is important for efficient artificial propagation of many arid zone species (Commander et al., 2009;Baskin and Baskin, 2014; Erickson,2015;Bhatt and Pérez-Garcia,2016; Zhang et al, 2016). Seeds stored ex situ at room temperature can maintain dormancy from several months to a year (Schutz et al., 2O02; Baker et al., 2005). We hypothesized that seeds stored in situ would exhibit dormancy release,and that a change in photoperiod and thermoperiod would have greater impact on germination, compared with unstored seeds.We examined for each species: (1) if seeds were dormant at maturity; (2) if in situ seed storage alleviates dormancy; (3) if photoperiod and thermoperiod germination requirements were influenced by in situ storage; and (4) if germination strategy could be linked to phylogeny. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Seed collection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We selected 21 species (14 annual and 7 perennial) in the Arabian Desert on the basis of being relatively common,and for having ecological or economic importance (Table 1).Most are preferred fodder species for sheep,goats and camels (Omar et al., 2O07; Norton et al., 2009). Seeds from selected species were collected between March and June 2Ol7 from coast, inland and peri-urban Kuwait at the time of their natural dispersal (Table 1).Seeds were collected from at least 25 plants along a $1 5 0 { \\mathrm { - } } 1 8 0 { \\mathrm { - } } \\mathrm { m }$ transect through a population, leaving a minimum of $2 \\mathrm { ~ m ~ }$ between plants. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a1ea3e07c56d8f332604decb8d9941f1e470e653596ade5e6fb1303b847b3ba.jpg",
+        "table_caption": [
+            ".able1Species collected,and date and location of seeds collection "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Family/species</td><td>Life form</td><td>Mohth</td><td>Location</td><td>Latitude</td><td>Longitude</td></tr><tr><td>Amaranthaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Suaeda vermiculata Forssk.Ex J.F.Gmel.</td><td>Perennial</td><td>April</td><td>Coast</td><td>28°54'19\"N</td><td>48°13'22\"E</td></tr><tr><td>Asteraceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Calendula arvensis L.</td><td>Annual</td><td>April</td><td>Peri-urban</td><td>29°09'47\"N</td><td>47°41'28\"E</td></tr><tr><td>Boraginaceae</td><td></td><td></td><td>Peri-urban</td><td>29°09'31\"N</td><td>47°38'09\"E</td></tr><tr><td>Moltkiopsis ciliata (Forsk.) I.M.Johnst. Brassicaceae</td><td>Perennial</td><td>May</td><td></td><td></td><td></td></tr><tr><td>Horwoodia dicksoniae Turrill</td><td>Annual</td><td>May</td><td>Peri-urban</td><td>29°09'29\"N</td><td>47°38'11\"E</td></tr><tr><td>Savignya parviflora (Delile) Webb</td><td>Annual</td><td>March</td><td>Peri-urban</td><td>29°09'46\"N</td><td>47°41'28\"E</td></tr><tr><td>Brassica tournefortii Gouan</td><td>Annual</td><td>April</td><td>Peri-urban</td><td>29°09'41\"N</td><td>47°41'35\"E</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Caryophyllaceae</td><td>Annual</td><td>May</td><td>Peri-urban</td><td>29°09'44\"N</td><td></td></tr><tr><td>Gypsophila capillaris (Forsk.) C. Chr.</td><td>Annual</td><td>March</td><td>Peri-urban</td><td>29°09'47\"N</td><td>47°41'26\"E</td></tr><tr><td>Silene arabica Boiss.</td><td></td><td>May</td><td>Peri-urban</td><td></td><td>47°41'28\"E</td></tr><tr><td>Silene villosa Forsk. Cistaceae</td><td>Annual</td><td></td><td></td><td>29°09'35\"N</td><td>47°41'32\"E</td></tr><tr><td>Helianthemum lippii(L.) Dum. Courset</td><td>Perennial</td><td>April</td><td>Peri-urban</td><td>29°09'51\"N</td><td>47°41'43\"E</td></tr><tr><td>Liliaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Asphodelus tenuifolius Cav. Malvaceae</td><td>Annual</td><td>March</td><td>Peri-urban</td><td>29°09'45\"N</td><td>47°41'34\"E</td></tr><tr><td>Malva parviflora L.</td><td>Annual</td><td>May</td><td>Peri-urban</td><td>29°09'34\"N</td><td>47°41'34\"E</td></tr><tr><td>Poaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Eragrostis curvula (Schrad.) Nees</td><td>Perennial</td><td>May</td><td>Inland</td><td>29°09'26\"N</td><td>47°09'26\"E</td></tr><tr><td>Panicum acuminatum Sw.</td><td>Perennial</td><td>May</td><td>Peri-urban</td><td>29°09'46\"N</td><td>47°36'28\"E</td></tr><tr><td>Polypogon monspeliensis (L.) Desf.</td><td>Annual</td><td>May</td><td>Peri-urban</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>29°09'46\"N</td><td>47°36'37\"E</td></tr><tr><td>Digitaria sanguinalis (L.) Scop.</td><td>Annual</td><td>May</td><td>Peri-urban</td><td>29°09'51\"N</td><td>47°41'32\"E</td></tr><tr><td>Eragrostis barrelieri Daveau</td><td>Annual</td><td>May</td><td>Coast</td><td>28°56'23\"N</td><td>48°11'35\"E</td></tr><tr><td>Polygonaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Rumex vesicarius L.</td><td>Annual</td><td>May</td><td>Peri-urban</td><td>29°09'50\"N</td><td>47°41'32\"E</td></tr><tr><td>Resedaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Reseda arabica Boiss.</td><td>Annual</td><td>March</td><td>Peri-urban</td><td>29°09'46\"N</td><td>47°41'28\"E</td></tr><tr><td>Rutaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>aplophyllum tuberculatum (Forsk.)Ad. Juss.</td><td>Perennial</td><td>May</td><td>Coast</td><td>28°52'31\"N</td><td>48°17'30\"E</td></tr><tr><td>Zygophyllaceae</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Peganum harmala L.</td><td>Perennial</td><td>June</td><td>Peri-urban</td><td>29°09'50\"N</td><td>47°41'05\"E</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Freshly collected seeds were cleaned and divided into two batches. One was tested for seed germination within one week (fresh seeds). The other was stored outside (in situ) in a nylon bag (mesh size $0 . 2 ~ \\mathrm { m m }$ )and placed on the soil surface until October 2O17 (stored seeds).Whenever rain was forecast, seeds of the natural storage were removed and returned back shortly after improvement of the weather.In the first week of November (at the time of onset of rain in Kuwait), the stored seeds were retrieved for each species and tested for germination again. The climate in Kuwait is characterized by a long,dry and hot summer with daytime temperatures occasionally exceeding $5 0 ^ { \\circ } \\mathrm { C }$ ，and cooler winters with extreme lows below $4 ^ { \\circ } \\mathrm { C }$ Precipitation is scarce,with less than $1 1 4 ~ \\mathrm { m m }$ annually and mostly occurring during winter between October and March (Omar et al., 2007). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Seed germination ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Seed germination was conducted in incubators at two temperatures ( $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ $1 2 \\ : \\mathrm { h } / 1 2 \\ : \\mathrm { h } ;$ ）and two light regimes (12 and $0 \\mathrm { { h } }$ light per day） that termed light and dark treatments. Light was provided by a 5O-W white fluorescent lamp with the light period coinciding with the high temperature. Germination was conducted in $9 \\mathrm { - c m }$ tight-fitting Petri dishes containing one disk of Whatman No.1 filter paper, wetted with $1 0 ~ \\mathrm { m L }$ of distilled water using 4 replicates of 25 seds each. In dark treatment, Petri dishes were wrapped in aluminum foil. Seed germination was defined as emergence of the radicle $( { \\geq } 2 ~ \\mathrm { m m } )$ and was assessed daily for light-exposed seeds. Seeds incubated in continuous darkness were counted after $2 6 \\mathrm { ~ d ~ }$ when experiments were terminated.At termination, viability of non-germinated seeds was tested to identify damage from treatments. This analysis was performed by seed dissection and visual determination of the embryo status using a binocular microscope,in which white and turgid indicated alive and brownish indicated dead. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All analyses were performed with R software.We analyzed final germination using a generalized linear mixed model,and the germination rate using a time-to-event analysis (also known as survival analysis). These analyses were selected for their power to account for random effects (Onofri et al.,2O1O; Sileshi,2012).The model was binomial error distributed with logit link function (lme4 package)(Bates et al.,2O14) with species as a random effect. The model selection used the Akaike Information Criterion (AIC),over dispersal and normality of the residuals (Zuur et al.,2O09).We tested the fixed effects of storage (in situ stored seeds vs. unstored seeds), thermal environment ( $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C } )$ ）and light（12 and O h per day）on seed germination and their interaction.The interaction of thermal and light was then excluded from the model as it was not significant. For the random component of the full model, species were nested to the replicate Petri dishes as components of random intercept and the storage effect slopes.The model coefficients $( \\beta )$ were analyzed by multiple pairwise $Z$ -test comparison via least-square means (multcomp package (Hothorn et al.,2008) and lsmeans package (Lenth, 2016). The model was run with all species included,and then for each species separately. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We built the germination behavior matrix using the following species' germination: Gfresh $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ ，Gfresh $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ ,Gstored $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ ,Gstored $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ ,Gfresh dark, Gfresh light, Gstored dark and Gstored light，coefficients from the random intercept (species）and random slopes of the full model (storage). A dissimilarity matrix using Euclidian distance (vegan package; Oksanen et al., 2019) was used to make a hierarchical clustering analysis to group species into seed germination behavior and a principal component analysis (PCA) to summarize them into scores. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Time-to-event analysis was used for germination rate modeling (survival package; Therneau and Grambsch，200O；Onofri et al.，201O) for the species $P .$ acuminatum, $P .$ hamala and S. vermiculata that did not exhibit dormancy. Germination times (d) of individual seeds were used to calculate the probability that one seed may germinate after a specific time $t$ once the assay began. Parametric accelerated failure/time modelling was run with log-logistic distribution, the best AIC score and the most appropriate in relation to the non-parametric Kaplan-Meyer estimator. This analysis was done to detect variation in seed germination behavior of low dormancy species.The model included effects of storage,thermal response,species and the interaction of treatments as fixed factors, with al variables being significance tested (Onofri et al.,2O1O; Délye et al., 2013). When ready, the final model was $Z .$ -tested for factor effects on the germination curve coefficients via multiple comparison with Bonferroni $P$ -value adjustment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Phylogenetic analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For detection of a phylogenetic trace on seed germination behavior scored from the PCA $( 9 4 . 7 7 \\% )$ ， we built a phylogenetic tree with the zanne2O14 stored tree (Webb and Donoghue, 2005； Zanne et al.，2O14). We evaluated species' behavior via Abouheif's $C _ { \\mathrm { m e a n } }$ to detect phylogenetic autocorrelation in the germination behavior traits (adephylo package;Jombart and Dray，2008）and Pangel's $\\lambda$ to detect the phylogenetic signal based on the Brownian motion evolution model (phytools package; Ravell, 2O12).Both methods were evaluated via Monte-Carlo simulation tests within 10oO repetitions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Most species exhibited dormancy alleviation in response to in situ storage (Tables 2 and 3), though the extent of the effect varied. Exceptions were A. tenuifolius and $R$ ，arabica that exhibited deep dormancy,and M. parviflora that exhibited no dormancy. Dormancy was strongly alleviated $( > 1 0 \\%$ increase in seed germination) in 12 species and weakly alleviated $( < 1 0 \\% )$ in5 species(Table3).S.parviflora, $P .$ harmala and S.vermiculata exhibited alow alleviation due to the high germination of fresh seed，but the effect of storage was observed on specific thermoperiod and photoperiod. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4008a70c84fe5b026a8f0aa8da85aa9b2e27b95ef423ed472d03418bd39611f1.jpg",
+        "table_caption": [
+            "Table 2Coefficients of generalized linear mixed model of in situ storage,thermoperiod,photoperiod and their interactions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Factor</td><td>Treatment</td><td>Estimate</td><td>Standard error</td><td>P</td></tr><tr><td>Intercept</td><td>Fresh,dark,15C/20℃</td><td>-6.213</td><td>1.129</td><td><0.001</td></tr><tr><td>Storage</td><td>Stored</td><td>5.305</td><td>0.887</td><td><0.001</td></tr><tr><td>Thermoperiod</td><td>20°C/30C,12 h/12 h</td><td>-0.064</td><td>0.136</td><td>0.638</td></tr><tr><td>Photoperiod</td><td>12 h light per day</td><td>0.660</td><td>0.137</td><td><0.001</td></tr><tr><td>Interaction</td><td>Storedx20C/30C</td><td>-0.759</td><td>0.172</td><td><0.001</td></tr><tr><td>Interaction</td><td>StoredxLight</td><td>-0.430</td><td>0.172</td><td>0.013</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In situ stored seeds exhibited a response to thermoperiod requirement ( $_ { \\it B = 0 . 8 2 }$ （20 $( \\pm 0 . 1 0 )$ ， $z { = } 7 . 8 1$ $P { < } 0 . 0 0 1 \\rangle$ )，but fresh seeds did not $( \\beta { = } 0 . 0 6$ $( \\pm 0 . 1 4 )$ ， $z { = } 0 . 4 7$ ， $\\scriptstyle P = 0 . 6 4 )$ ．In addition，both thermoperiod conditions presented a significant increase of seed germination after in situ storage, but there was also a tendency toward a higher germination at $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ than at $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ 0 $\\scriptstyle { \\beta = }$ $- 5 . 0 9$ （ $( \\pm 0 . 8 8 )$ ， $z = - 5 . 7 7$ ， $P { < } 0 . 0 0 1$ ：， $\\beta = - 4 . 3 3$ $( \\pm 0 . 8 8 )$ ， $z { = } \\ { - } 4 . 8 9$ ， $P { < } 0 . 0 0 1$ ， respectively). As an example,stored $C .$ avensis, $H .$ dicksoniae, $M .$ ciliata, $P .$ harmala,S.arabica and S.villosa seeds presented higher germination percentages under colder than hotter temperatures (Table 3). However, for $D$ .sanguinalis and $H .$ tuberculatum,the hotter temperature induced a higher germination percentage. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Effect of photoperiod on germination was highly significant (Table 2).Exposure to $1 2 \\ \\mathrm { h } / 1 2 \\ \\mathrm { h }$ photoperiod increased germination of fresh seeds ( ${ \\it B } = - 0 . 6 6$ （204号 $( \\pm 0 . 1 4 )$ ， $z { = } - 4 . 8 1$ ， $P { < } 0 . 0 0 1$ ),buthad a minimal effect on stored seeds $( \\beta = - 0 . 2 3$ （204号 $( \\pm 0 . 1 0 )$ ， $z { = } { - } 2 . 1 8$ $P { = } 0 . 0 3 0 \\$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Five groups of species were identified through hierarchical clustering,divided primarily on germination percentage before and after in situ storage (Fig.1). Although Group I did not exhibit dormancy, the time of seed germination was reduced by in situ storage by an average of $6 \\textup { h }$ (Fig. 2; $\\beta { = } 0 . 2 8$ （20 $( \\pm 0 . 1 4 )$ ， $z { = } 2 . 0 5$ $P { = } 0 . 0 4 \\$ ). Time of seed germination of this group was reduced by $3 4 \\mathrm { ~ h ~ }$ under the $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ temperature,compared with the $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ temperature ${ \\it \\Delta } \\beta { = } 0 . 5 3$ （204 $( \\pm 0 . 1 4 )$ ， $\\scriptstyle z = 3 . 6 4$ $P { < } 0 . 0 0 1 \\dot { }$ ). The phylogenetic signal was observed for PCA1 scores (seed behavior summary; Fig. 3). The species germination presented a non-significant effect from both tests Abouheif's $C _ { \\mathrm { m e a n s } }$ 1 $K { = } 0 . 0 8$ $P { = } 0 . 2 7 0 \\$ ）and Pangel's $\\lambda$ $\\scriptstyle ( \\lambda = 6 . 6 1 ^ { - 5 }$ ， $P { = } 1 . 0 0 0 \\$ ,meaning that individual germination responses were not phylogenetically linked. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/36d1453fee01d31711d67a01f7659374a2c823b04dc769bae34485030a5ff3fe.jpg",
+        "table_caption": [
+            "Table 3Seed germination percentage for each species,ordered by clustered groups "
+        ],
+        "table_footnote": [
+            "Group I "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Group and species</td><td colspan=\"4\">Fresh seeds (%)</td><td colspan=\"4\">In situ stored seeds(%)</td></tr><tr><td colspan=\"2\">15°C/20°℃</td><td colspan=\"2\">20C/30C</td><td colspan=\"2\">15C/20C</td><td colspan=\"2\">20C/30C</td></tr><tr><td></td><td>12 h light</td><td>0 h light</td><td>12 h light</td><td>0 h light</td><td>12 h light</td><td>0 h light</td><td>12 h light</td><td>0 h light</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b36f1d665915d8241abaa758f6e8511403b7019269e3f682a83b55b5db840f28.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note:Diferetlowercaseleterswithinthesamecolumnindicatesignificances ingerminationpercentagesamongdiferentspeciesat $P { < } 0 . 0 5$ level.Mean±SE. "
+        ],
+        "table_body": "<html><body><table><tr><td>P.acuminatum</td><td>89±3ab</td><td>76±4b</td><td>93±2a</td><td>83±3ab</td><td>95±2a</td><td>95±2a</td><td>94±2a</td><td>95±2a</td></tr><tr><td>P.harmala</td><td>90±2a</td><td>85±3a</td><td>61±4b</td><td>50±5b</td><td>90±2a</td><td>83±3a</td><td>62±4b</td><td>45±4b</td></tr><tr><td>S.vermiculata</td><td>71±4b</td><td>49±4c</td><td>82±3a</td><td>64±4b</td><td>67±4b</td><td>64±4b</td><td>78±3b</td><td>76±3b</td></tr><tr><td>Group II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>G. capillaris</td><td>4±1b</td><td>0b</td><td>4±1b</td><td>0b</td><td>42±4a</td><td>37±4a</td><td>42±4a</td><td>38±4a</td></tr><tr><td>H. dicksoniae</td><td>15±3b</td><td>12±2b</td><td>28±4ab</td><td>24±3ab</td><td>62±4a</td><td>57±4a</td><td>17±3b</td><td>15±3b</td></tr><tr><td>H. lippi</td><td>21±3c</td><td>6±1d</td><td>28±4c</td><td>9±2d</td><td>88±2a</td><td>64±4b</td><td>84±3a</td><td>56±4b</td></tr><tr><td>H.tuberculatum</td><td>7±2</td><td>5±2℃</td><td>4±2℃</td><td>3±1</td><td>18±3b</td><td>14±3b</td><td>45±4a</td><td>38±4a</td></tr><tr><td>M. ciliata</td><td>5±2b</td><td>6±2b</td><td>10±2b</td><td>12±3b</td><td>29±4a</td><td>31±4a</td><td>13±3b</td><td>14±3b</td></tr><tr><td>M. parviflora</td><td>4±2a</td><td>5±2a</td><td>3±1a</td><td>4±2a</td><td>12±3a</td><td>12±3a</td><td>9±2a</td><td>8±2a</td></tr><tr><td>R.vesicarius</td><td>29±4b</td><td>10±2d</td><td>12±2d</td><td>3±1e</td><td>57±4a</td><td>26±3℃</td><td>31±4b</td><td>10±2d</td></tr><tr><td>Group III</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R. arabica</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>Group IV</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>A. tenuifolius</td><td>0</td><td>0</td><td>0a</td><td>0a</td><td>0</td><td>0</td><td>7±2a</td><td>3±2a</td></tr><tr><td>D.sanguinalis</td><td>0b</td><td>0b</td><td>0b</td><td>0b</td><td>1±1b</td><td>1±1b</td><td>15±3a</td><td>9±3a</td></tr><tr><td>E.barrelieri</td><td>0a</td><td>0a</td><td>0a</td><td>0</td><td>1±1a</td><td>3±2a</td><td>1±1a</td><td>1±1a</td></tr><tr><td>S. parviflora</td><td>0a</td><td>0a</td><td>0a</td><td>0a</td><td>9±3a</td><td>8±3a</td><td>0a</td><td>0a</td></tr><tr><td>Group V</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C.arvensis</td><td>0</td><td>0C</td><td>0c</td><td>0</td><td>53±0a</td><td>40±5a</td><td>9±2b</td><td>6±2b</td></tr><tr><td>B.tournefortii</td><td>0b</td><td>0b</td><td>0b</td><td>0b</td><td>5±0b</td><td>31±4a</td><td>4±1b</td><td>28±4a</td></tr><tr><td>E. curvula</td><td>0</td><td>0</td><td>0</td><td>0</td><td>18±0b</td><td>51±5a</td><td>1±1c</td><td>7±2b</td></tr><tr><td>P. monspeliensi:</td><td>0b</td><td>0b</td><td>0b</td><td>0b</td><td>88±0a</td><td>78±4a</td><td>82±3a</td><td>69±4a</td></tr><tr><td>S. arabica</td><td>0</td><td>0c</td><td>0</td><td>0</td><td>75±0a</td><td>72±4a</td><td>26±4b</td><td>22±4b</td></tr><tr><td>S. villosa</td><td>1±1c</td><td>0C</td><td>1±1c</td><td>0</td><td>75±0a</td><td>67±4a</td><td>23±4b</td><td>17±3b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4Discussion and conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Seed germination in 13 of the 21 studied species was significantly increased by in situ storage. Stored seeds exhibited a thermoperiod response in germination. Conversely,fresh seeds exhibited a greater germination percentage under light, while stored seeds were only minimally affected. No phylogenetic correlation could be identified by the study, indicating that selection pressure for germination strategy is stronger than for taxonomic traits. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Understanding the mechanism for regulating dormancy provides insight into the ecological adaptation and regeneration of plants in natural environments. Most species in the Arabian Desert disperse their seeds just before the onset of summer(Capon and van Asdall,1967; Guterman, 2012),and thus being exposed to heat and moisture stresses. In the present study,only 4 of the 21 species exhibited germinability and dispersal in March 2O17.For 11 species,fresh seeds remained dormant and 5 species exhibited less than $10 \\%$ seed germination.An innate physiological dormancy has been previously reported for $D _ { \\cdot }$ ，sanguinalis, $E$ .curvula and S. villosa (Voigt and Tischler,1997; Gallart et al.,2008;El-Keblawy and Gairola,2017),but previous reports for $A$ tenuifolius,C. arvensis, $D$ .tenuifolia and $M .$ ：parviflora indicated no seed dormancy (Ruiz de ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Group Dormancy before Distance /afterin situ storage 0 10 Panicumacumianatum I None/None Peganum harmalaq Suaedavermiculata Horwoodia dicksoniae Moltkiopsis ciliata Rumexvesicarius Haplophyllumtuberculatum i High/Low Malva parviflora Gypsophilacapillaris Helianthemumlippii Ⅲ Entire/Entire Reseda arabica Eragrostis barrelieri Digitaria sanguinalis IV Entire/High Asphodelustenuifolius Savignyaparviflord Polypogonmonspeliensis Silene villosa Silene arabica V Entire/Low Calendula arvensis Brassica tournefortii Eragrostiscurvula ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5d3d457baba4764568096cb438966a110cb53655fbe7221df05b7a6ba9dee29.jpg",
+        "img_caption": [
+            "Fig.1 Clasification of species using clustering of seed germination under diferent seed storage (fresh and in situ stored seeds） and germination conditions of light (12 and $_ { \\textrm { 0 h } }$ per day）and temperature( $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C } )$ ",
+            "Fig.2Number of days to $5 0 \\%$ germination of fresh and in situ stored seeds under $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ temperatures "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/62022851b72edd08dc9d86dc792b1e5f536a3300962ce8aaafdb578e65fd26e7.jpg",
+        "img_caption": [
+            "Fig.3Principal component analysis (PCA) of germination parameters of the species under diferent seed storage (fresh and in situ stored seeds) and germination conditions of light (12 and $^ { 0 \\mathrm { ~ h ~ } }$ per day） and temperature （ $( 1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ and $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ ). Group results of plant species can be found in Figure 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Clavijo,2005; Khan et al.,2006; Michael et al.,2006; Sakcali and Serin,2009). These differing observations may be related to environmental conditions at the maternal location. Seed germination of $E .$ barrelieri and $P .$ monspeliensis presented no dormancy,and the behavior could be atributed to after-ripening (Atia et al.,2011; El-Keblawy,2O17).Germination of fresh seeds was present but low $( 1 0 \\% - 2 0 \\% )$ for three species,indicating a cautious germination strategy (Gutterman,2002; Bhatt et al.， 2016a). However, germination of 3 species was high $( > 5 0 \\% )$ ， indicating a readiness to germinate throughout the year if water is available. This opportunistic germination strategy has been reported for some other desert species (Gutterman,2OO2; Bhatt et al., 2016d,e; El-Keblawy,2O17; Bhat and Santo,2O18).All the 3 species are perennial and thus produce multiple batches of seeds within a life cycle, hence there is less risk to the population of a failed germination season. Germination behavior of species is normally correlated with the climatic conditions of the species origin (Baskin and Baskin,2O14). However, plant life cycle has played an important role in determining germination behavior of arid desert species (Schütz and Milberg, 1997),as found in the present case. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Germination percentages for 13 species significantly enhanced by in situ storage for groups I1, IV and V. These desert species exhibit physiological dormancy and thus require a stimulus to trigger germination, along with $80 \\%$ of all desert species. Almost all species in groups IV and V were annuals，but group II contained a mix of annuals and perennials. The storage in dry conditions at room temperature has been effective in alleviating physiological dormancy (Baskin and Baskin, 2OO4; Holdsworth et al., 2O08). Most species in the current study have seeds with physiological dormancy at their maturity. Field conditions can enhance the after-ripening process and thus facilitate a higher germination when environmental conditions become favorable. Previous studies also concluded that field temperatures alleviated dormancy (Murdoch and Ellis, 2000;Adondakis and Venable,2O04; Commander et al.,2Oo9). In the present study, $R$ arabica (group II) was alone in having no germinated seed after in situ storage,despite $92 \\%$ seed viability at the end of the trial. This indicates that seeds might have deep physiological dormancy (Baskin and Baskin，2OO4） that requires a longer period of after-ripening or different environmental conditions to alleviate. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For group I, the final germination was unaffected by storage, but time to germination was reduced, suggesting that seeds might be more ready to germinate under marginally favourable conditions. Seeds became responsive to the thermal conditions after dormancy alleviation. This result is at least partially atributable to the low germination of fresh seeds. On the basis of temperature response for germination of the in situ stored seeds,we can categorize the study species into 3 groups in which: (a) germination is promoted by the cooler temperature of $1 5 ^ { \\circ } \\mathrm { C } / 2 0 ^ { \\circ } \\mathrm { C }$ ( $C$ 、arvensis, E. curvula， H. dicksoniae,M. ciliata, P. harmala,R. vesicarius，S. arabica, S. parviflora and S.villsa); (b) germination is promoted by the higher temperature of $2 0 ^ { \\circ } \\mathrm { C } / 3 0 ^ { \\circ } \\mathrm { C }$ 0 $D$ 、sanguinalis and H. tuberculatum); and (c) germination is temperature-independent （ $P .$ acuminatum, S. vermiculata, $G$ capillaris,H. lippi, M. parviflora, E.barrelieri,B. tournefortii and $P .$ monspeliensis). Temperature requirements indicate a natural germination season of group (a) from late January to early March,and group (b) in late November or late March to April, and group (c) at any time. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Light responses of seeds during germination increase likelihood of germination in favorable conditions (Baskin and Baskin,2O14). Light was required for germination of fresh but not stored seeds. Two group I species: H. lippi and R. vesicarius, exhibited a higher germination percentage when exposed to light, indicating a requirement for non-burial (Pons,2Ooo). Similar results were obtained for other species in the Arabian Desert (El-Keblawy et al.,2Ol3;Bhatt et al.,2016b). Two group IV species: B. tournefortii and $E .$ . curvula, exhibited a higher germination percentage under darkness,which may be a strategy to avoid the desert environment. Sixteen species （A. tenuifolius, C. arvensis, $D$ ，sanguinalis, $E$ ，barrelieri，G. capillaris，H. dicksoniae， $H .$ （2号 tuberculatum，M. parviflora，M. ciliata, $P _ { \\cdot }$ acuminatum, $P$ harmala, $P$ ，monspeliensis,S. parviflora, S. arabica, S. vermiculata and S. villosa) were light stimuli independent. In sandy desert habitats,seed burial under sand is common after high winds.Neutral photoelasticity may be a response to this variable habitat (Lai et al., 2Ol6), though seeds buried too deep may have difficulty to emerge after germination (Bhatt and Santo,2O18). Small seeds usually require light for germination since the seed contains fewer resources for pre-emergent seedling growth (Milberg et al.,20oo; Pons,20oo), but in the present study only a few species reflected this pattern. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Seed storage resulted in reduced germination time for $P _ { \\cdot }$ acuminatum, $P .$ harmala and S. vermiculata. Germination timing is usually correlated with dormancy alleviation (McIvor and Howden, 2OoO; Silva and Fernandes,2O14). Low germination timing may represent a desert adaptive strategy, where germination occurs rapidly after a rainfall event (Ruhl et al., 2016). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Germination traits exhibited no correlation to phylogenetic signal， indicating that environmental selection is more important.As an example,seed behavior of $E .$ barrelieri was distinct from $E$ 、curvula,despite being from the same genus.Wang et al. (2oo9) observed that germination patterns were similar among the plants from the same environment conditions rather than their phylogenetic relations. Also, some specific plant traits may be linked to the seed germination behavior in response to the environmental pressure as reported by Liu et al. (2018). We expect that under harsh environmental pressures of the desert, evolutionary pressure causes plant species to present specific germination behavior despite phylogenetic relationship. Further analysis is needed to verify if environmental features could explain the germination behavior patterns found in this work. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study has enabled a beter understanding of dormancy release and germination for the desert species under field conditions. Seed storage in situ for most studied species can increase the germination percentage and reduce time to germination. This confirms that most tested species have dormancy when seeds are fresh,which can be released under environmental cues that rain events occurs.We did not find any relationship of the germination behavior to the phylogenetic relation among the studied species. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Kuwait Institute for Scientific Research (KISR),Kuwait. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Adondakis S,VenableDL.2O04.Dormancyand germinationinaguildofSonoran Desertannuals.Ecology,85(9):2582590.   \nAlmazroui M,IslamNM,Athar H,etal.2O12.Recentclimatechange in theArabianPeninsula:annualrainfallandtemperature analysis of Saudi Arabia for 1978-2009.International Journal of Climatology,32(6): 953-966.   \nAtiaA,Smaoui，A，Barhoumi Z,etal.2Ol1.Diferential response tosalinityand waterdeficit stress in Polypogon monspeliensis (L.) Desf. provenances during germination.Plant Biology,13(3): 541-545.   \nBaker K S,Steadman KJ,PlummerJA,etal.2Oo5 Thechanging windowofconditions that promotes germinationof twofire ephemerals,Actinotus leucocephalus (Apiaceae）and Tersonia cyathiflora(Gyrostemonaceae).Annals of Botany,96(7): 1225-1236.   \nBaruaD,ButlerC,isdaleTE,etal.2Ol.Naturalvarationingerminationrsponsesof Arabidopsis toseasonalcuesandtheir associated physiological mechanisms.Annals of Botany,109(1): 209-226.   \nBaskin C C,Baskin JM.2014.Seeds: Ecology, Biogeography,and Evolution of Dormancyand Germination ( $2 ^ { \\mathrm { n d } }$ ed.). San Diego: Academic Press,666.   \nBaskinJM,Baskin CC.1988.Roleof temperature inregulating thetimingof germination in Portulacaoleracea.Canadian Journal of Botany,66: 563-567.   \nBaskin JM,Baskin C C.2004.A classification system for seed dormancy. Seed Science Research,14(1):1-16.   \nBates D,Mullen KM,Nash JC,etal.2014.Minqa: Derivative-Free OptimizationAlgorithms by Quadratic Approximation.R package version 1.2.4.[2020-02-10]. htp://CRAN. R-project.org/package $\\mathbf { \\lambda } = \\mathbf { \\vec { \\mathbf { \\tau } } }$ minqa.   \nBhattA,Caron MM,Verheyen K,etal.20l6a. Germination andseedling performanceof five native legumesof the Arabian Desert.Flora,220:125-133.   \nBhattA,Pérez-GarciaF,PhondaniPC.2O16b.Foliagecolour influenceonseed germinationof BienertiacyclopterainArabian Desert. Nordic Journal of Botany, 34(4): 428-434.   \nBhatt A,PhondaniPC,PhartyalSS,etal.2Ol6c.Influenceof aerialseed banksongerminationresponse inthreedesertplant species. Journal of Plant Ecology,10(6): 994-1000.   \nBhatt A,Perez-GarciaF,Mercedes CarnM,etal.2O16d.GerminationesponseofSlsolaschweinfurthii(Chenopodiaceae)to salinity and winged perianth removal. Seed Science and Technology, 44(2): 428-434.   \nBhattA,Gairola S,El-KeblawyA.2O16e.Seed colourafects dormancyand germinationrequirements intwospeciesof Lotus (Fabaceae).Revista de Biologia Tropical,64: 483-492.   \nBhattA,Perez-Garcia F.2016.Seed dormancyof Ochradenus baccatus (Resedaceae),a shrubby species from Arabiandesert regions.Revista de Biologia Tropical,64: 965-974.   \nBhatt A,SantoA.2O17.Effectsofphotoperiod,thermoperiod,andsaltstressonGymnocarpos decandrusseds:potential implications in restoration ecology activities.Botany, 95(11):1093-1098.   \nBhattA,Santo A.2018.Different ecological strategies during the seed germination phase of nine grasses inhabiting the hyper-arid Arabian Desert.Plant Species Biology,33(4):305-311.   \nBoerB.997.Anintroduction totheclimateof theUnitedArabEmirates.Journal of Arid Environments,35(1): 3-16.   \nBurns JH,Strauss SY.2O1.Morecloselyrelatedspeciesare more ecologicallysimilarinanexperimental test.Procdngsof the National Academy of Sciences of the United States of America,108(13): 5302-5307.   \nCapon B,van AsdallW.1967.Heat pre-treatmentas a means of increasinggerminationof desert anual seeds.Ecology,48(2): 305-306.   \nCarta A,ProbertRJ,Moreti M,etal.2014.Seed dormancyand germinationinthree Crocusser.verni species(Iridaceae): implications for evolution of dormancy within the genus.Plant Biology,16(6): 1065-1074.   \nClaussMJ,Venable DL.2Ooo.Seed germination in desert anuals:an empirical testof adaptive bet hedging.The American Naturalist, 155(2): 168-186.   \nCommanderLE,MerittDJ,RokichDP,etal.2O09.Theroleof after-ripening in promoting germinationof aridzoneseeds:a study on six Australian species.Botanical Journal of the Linnean Society,161(4): 411-421.   \nde Clavijo ER.2O05.Thereproductive strategiesof the heterocarpic annual Calendulaarvensis (Asteraceae).ActaOecologica, 28(2): 119-126.   \nDelyeCM,Jasieniuk V,Le CoreV.2Ol3.Deciphering theevolutionof herbicideresistance in weeds.Trends inGenetics, 83(4): 1006-1016.   \nDonohue K,Rubiode Casas R,Burghardt L,et al.2010.Germination,postgermination adaptation,and species ecological ranges.Annual Review of Ecology,Evolution,and Systematics,41: 293-319.   \nEl-KeblawyA,AlNeyadiSS,RaoMV,etal.2Ol.Interactiveeffctsofsalinity,lghtandtemperatureonseedgerintioof sand dunes glycophyte Cyprus conglomeratus growing in the United Arab Emirates deserts.Seed Science and Technology, 39(2):364 - 376.   \nEl-KeblawyA,BhattA,Gairola S.2Ol3.Perianthcolourafects germinationbehaviourinwind-polinated Salsolarubescensin Arabian deserts.Botany, 92(1): 69-75.   \nEl-KeblawyA.2O17.Lightandtemperaturerequirements duringgerminationof potentialperenial grasses forrehabilitationof degraded sandy Arabian deserts.Land Degradation & Development, 28(5):1687-1695.   \nEl-Keblawy A,Gairola S.2017.Dormancy regulatingchemicals aleviate inate seed dormancyand promote germinationof desert annuals. Journal of Plant Growth Regulation, 36: 3o0-311.   \nErickson TE.2Ol5.Seed dormancyand germination traits of89arid zone species targeted for mine-site restoration in the Pilbara region of Western Australia.Ph.Dissertation. Perth: University of Western Australia.   \nEvans A S,CabinRJ.1995.Can dormancy affect the evolutionof post-germination traits?Thecaseof Lesquerela fendleri. Ecology,76(2): 344-356.   \nFenner M,Thompson K.2Oo5.The Ecology of Seeds.Cambridge: Cambridge University Press,250.   \nFinch-SavageWE,Leubner-Metzger G2006.Seeddormancyand thecontrolof germination.New Phytologist,171(3): 501-523.   \nGalart M,VerduAMC,Mas MT.2O08.Dormancybreaking in Digitaria sanguinalis seeds:the roleof thecaryopsis covering structures. Seed Science and Technology, 36(2): 259-270.   \nGuterman Y.1972.Delayed Seed dispersalandrapid germinationassurvival mechanismsof thedesert plant Blepharis persica (Burm.). Knntze. Oecologia,10: 145-149.   \nGutterman Y.2OO2. Survival Strategies of Annual Desert Plants. Heidelberg: Springer,348.   \nGutterman Y.2O12.Seed Germination in Desert Plants.New York: Springer Science & Business Media,253.   \nHarel D,Holzapfel C,Sternberg M.2Ol1.Seed massand dormancyof annual plant populations and communities decreases with aridity and rainfall predictability. Basic and Applied Ecology,12(8): 674-684.   \nHoldsworth MJ,BentsinkL,oppe WJJ.28.Molecular networksregulating Arabidopsisseed maturation,afterripeing, dormancy and germination. New Phytologist,179(1): 33-54.   \nHothorn T,BretzF,WestfallP.2Oo8.Simultaneous inference ingeneralparametric models.Journalof Mathematical Methods in Biosciences,50(3): 346-363.   \nJombartT,Dray S.2008.Adephylo:Exploratory analyses for thephylogenetic comparativemethod.Bioinformatics，26: 1907-1909.   \nJordan GL, Haferkamp MR.1989.Temperature responses and calculated heat units for germination of several range grasses and shrubs. Rangeland Ecology & Management, 42(1): 41-45.   \nKhan MI,HassnGKhanI,etal.2O6.Germinationof Asphodelustenuifolius biotypesas influencedbytemperature, dormancy breaking chemicals and their concentrations.Pakistan Journal of Weed Science Research,12:313-318.   \nLaiLM,ChenLJ,JiangLH,etal.2O16.Seed germinationofsevendesertplantsandimplications forvegetationrestoration. AoB Plants,8:plw031.   \nLenth R V.2O16.Least-squares means: the R package lsmeans. Journal of Statistical Software,69: 1-33.   \nLiu K,Cao S,DuG,etal.2O18.Linking seed germinationandplantheight:acase studyofawetlandcommunityontheeastern Tibet Plateau.Plant Biology,3O: 886-893.   \nLiu SZ,LiuYJ,JiYF,etal.20l3.Seed germinationof Corispermum pateliformeindifferent storage lengthatroom temperature:adominant annual plantspecies in the deserts of northern China.Pakistan Journalof Botany,45:737-742.   \nMcIvorJG,Howden SM.2o.Dormancyand germinationcharacteristicsof herbaceous species in theseasonalldrytropics of northern Australia.Austral Ecology,25: 213-222.   \nMenon K,JayakumarAP,ShahidM,etal.2O14.eeddormancyandeectofsalinityogerminationofCitruluscolocythis. International Journal of Environmental Science and Development,5: 566.   \nMichaelPJ,Steadman KJ,PlummerJA.2O06.Climaticregulationof seed dormancyand emergence of diverse Malva parviflora populations from a Mediterranean-type environment. Seed Science Research,16(4): 273-281.   \nMilbergP,AnderssonL,Thompson K.2Ooo.Large-seeded spicesare lessdependentonlightforgerminationthansmal-seeded ones.Seed Science Research,10(1): 99-104.   \nMiraS,Gonzalez-Benito ME,IbarsAM,etal.2O11Dormancyreleaseandseedageing intheendangered species Silene diclinis.Biodiversity and Conservation,20: 345-358.   \nMurdochAJ,Elis RH.2O.Dormancy,viabilityand longevity.In:Fenner M.Seeds:theEcologyof RegenerationinPlant Communities $2 ^ { \\mathrm { n d } }$ ed.).Wallingford: CABI Publishing,183-214.   \nNortonJ,AbdulMajidS,AllnD,etal.2O9.AnIlustratedChecklistof theFloraof Qatar.Gosport:BrowdownPublication, 67   \nOksanenAJ,BlanchetFG,KindtR,etal.2019.Vegan:CommunityEcologyPackage.Rpackage version2.5-4.[2019--09]. https://cran.rproject.org/package $\\ c =$ vegan.   \nOmar SA S,Al-Mutawa Y,Zaman S.20o7.Vegetationof Kuwait. Kuwait: Kuwait Institutefor Scientific Research,47-89.   \nOnofri A,CarbonellEA,PiephoHP,etal.2l.Currentstatistical isses inweedresearch.WeedResearch,50(1):5-24.   \nPetrieJM.2O7.Arabian desertprimer:ormamental potentialof hyper-arid adapted plants from Saudi Arabia.DesertPlants, 19-32.   \nPons TL.2Ooo.Seed responses to light.In:Fenner M.Seeds-the Ecologyof Regeneration inPlant Communities.New York: CABI Publishing,237-260.   \nRevellLJ.2012.Phytools:An Rpackage forphylogeneticcomparative biology(and otherthings).Methods in Ecologyand Evolution,3(2): 217-223.   \nRuhl AT,EcksteinRL,OteA,etal.2016.Distinct germinationresponseof endangeredandcommonarable weedtoeduced water potential.Plant Biology,18(S1): 83-90.   \nRuiz de ClavijoE.2Oo5.Thereproductive strategies of the heterocarpicannual Calendula arvensis(Asteraceae).Acta Oecologica,28(2): 119-126.   \nSakcali Ms,SerinM.2Oo9.Seed germinationbehaviourof Diplotaxis tenuifolia.EurAsianJournalofBioSciences,3:107-112.   \nSchitz W,Milberg P.1997.Seed germination in Launaea arborescens: acontinuously flowering semi-desert shrub.Journalof Arid Environments,36(6): 113-122.   \nSchitz W,Milberg P,Lamont BB.2Oo2.Seed dormancy,after-ripeningand lightrequirementsoffourannual Asteraceae in southwestern Australia. Annals of Botany, 90: 707-714.   \nSegliasAE,Willams E,Bilge A,etal.2O18.Phylogenyand source climate impact seed dormancyand germinationof restoration-relevant forb species.PLoS ONE,13: e0191931,htps://doi.org/10.1371/journal.pone.0191931.   \nSileshi G W.2O12.Acitiqueofcurrent trends in the statisticalanalysisof seed germinationand viabilitydata.Seed Science Research,22(3): 145-159.   \nSilvaLM,Fernandes GW.2014.Effectof seed storageongermination,seedling growth andsurvival of Mimosafoliolosa (Fabaceae): implications for seed banks and restoration ecology.Tropical Ecology,55(3):385-392.   \nTerradas J.1991.Mediterranean woodyplant growth-forms,biomass and production intheeasternpartofthe IberianPeninsula. In: Ros JD,Prat N.Hom-age to Ramon Margalef or Why Is There Such Pleasure in Studying Nature(Oecologia aquaticd; 10),Barcelona: University of Barcelona,337-349.   \nTherneauTM,GrambschPM.20oo.Modeling Survival Data: Extending the Cox Model.New York,Springer.[2019-11-02]. https://doi.org/10.1007/978-1-4757-3294-8.   \nTudela-IsantaM,LadouceurE,Wijayasinghe M,etal.2O18.Theseedgerminationnichelimitsthedistributionofsomeplant species in calcareous or siliceous alpine bedrocks.Alpine Botany,128: 83-95.   \nVoigtPW,Tischler CR.1997.Efect ofseed treatment on germinationand emergenceof 3warm-season grases.Rangeland Ecology & Management, 50(2): 170-174.   \nWangJH,Baskin CC,CuiXL,etal.2O9.Eectsofplogeny,lifeistoryandhabitatcorelatesonsed germatioof69 arid and semi-arid zone species from Northwest China.Evolutionary Ecology,23:827-846.   \nWebb CO,Donoghue MJ.2005.Phylomatic:Treeassembly forapplied phylogenetics.Molecular Ecology Notes，5(1): 181-183.   \nZane AE,Tank DC,CornwellW K,et al.2O14.Three keys to theradiationof angiosperms into freezing environments. Nature,506: 89-92.   \nZhang LW,Liu HL,Zhang D Y,et al.2015.Seed dormancy release and germination characteristicsof Corispermum lehmannianum Bunge,an endemic species in the Gurbantunggut Desert of China.Phyton,84(1):58-63.   \nZuur A,ElenaNI, WalkerN,etal.2Oo9.MixedEfects ModelsandExtensionsiEology withR.NewYork: SpringerScience & Business Media, 579. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

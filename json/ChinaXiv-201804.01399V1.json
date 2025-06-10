@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "基于多判据的散乱点云特征点提取算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王庆华1，黄茹楠1，闫晓庚」，程拓²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．燕山大学 电气工程学院，河北 秦皇岛 06600;2.中国重型机械研究院股份公司 电气智能事业部，西安 710023)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了有效获取散乱点云中的尖锐特征点和边界特征点，提出一种利用多判据融合的特征点提取算法。首先利用一种改进的k-d tree构建点云拓扑，搜索样点的K局部邻域；然后利用法向夹角判定准则、核密度判定准则、场力和判定准则分别求取各个样点局部邻域的三个特征参数，最后通过加权计算特征参数得到每个样点的特征值与全局判定阈值，特征值比阈值大的点即为特征点。实验证明，该算法能有效的获取散乱点云中边沿特征点与尖锐特征点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：散乱点云；特征提取；均值漂移；法相夹角；场力和 中图分类号：TP391.41 doi: 10.3969/j.issn.1001-3695.2017.12.0832 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Feature point extraction of scattered point cloud based on multiple criterions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Qinghual,Huang Runanl, Yan Xiaogeng1, Cheng Tuo² (1.CollegeofElectricalEngineering,YanShanUniversity,QinhuangdaoHebei66o,China;2.ElectricalIntellgence Business Department.China National Heavy Machinery Research Institute Co,Ltd,Xi'an71023,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper proposed analgorithm of extracting feature pointsbased on multiple criterions,which aimed to extract boundaryfeaturepointsandsharpfeaturepointseficiently.Firstly,thealgorithmbuilt thepointcloud topological structure based onamodifiedk-d treeapproachtosearch fortheK-nearest neighborhoodofthesample point;then,according toeach Knearest neighborhood points,itcalculatedthreefeatureparameters basedonvectoranglecriteria,kemeldensitycriteriaand fieldpowercriteria;finallyacordingtothethreeparameters,itobtainedfeaturediscriminantparametersandtheglobalfixed threshold.Apoint isrecognizedasthe featurepoint when itsvalueofdiscriminantparameter wasbiggerthanthe threshold.The experimental results showed that the proposedalgorithm can extract boundary points and sharp featurepoints efectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: scattered point cloud; feature point extraction; mean-shift; vector angle; sum of the field power ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着计算机技术、三维扫描技术等高新技术的进步，三维点云数据在逆向工程、文物维护、医学图像处理、机器视觉、工业检测等领域已实现普遍运用[1]。而点云数据中特征点的有效提取是进行点云精简、拼接、重建等点云数据运用的重要前提之一。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对散乱点云进行特征点获取的研究，国内外学者已有了较多成果。Han 等人[2]在点云精简中利用法向量计算确保了模型边界点不被精简。Bazazian等人[3]利用法向计算二面角并作为聚类依据实现尖锐边界特征点的提取。Lee等[4通过聚类划分点云模型表面近似平面并求其相交线，进而从中识别出特征曲线并进行了重建，效果较好，该算法下一步研究方向为聚类中心个数以及曲面近似误差对点云特征提取的影响。张雨禾等人[5]首先利用特征点与非特征点的反 $K$ 近邻具有不同尺度这一特性将点云进行划分，然后改进密度空间聚类方法并创建新的特征提取法则达到准确获取特征点的效果。该算法在反 $K$ 近邻的高效计算方面有待加强。刘迎[等在点云精简中利用局部平均距离、法向估计和曲率定义样点的特征值，利用点云空间平均深度和点云尺寸计算特征阈值，从而实现点云特征点的提取。孙殿柱等[7利用核密度估计，由计算模式点到样点的间隔与带宽的比值判断特征点，该算法速度较快，但当点云分布不均时容易误判特征点。傅思勇等[8将点云数据利用点到局部最小二乘平面的距离据分为特征区与非特征区，再利用高斯加权曲率和单位距离上法向夹角和在特征区提取尖锐特征点。张靖等[9]利用马尔科夫随机场模型性质符合特征点判定的原理，通过曲率实现标号初始化，再利用马尔科夫随机场原理求解不稳定点的最优标号集，最终实现特征点的提取。聂建辉[10]等提出了一种符号曲面变换度的概念，利用考虑曲面凹凸性质的区域增长法更准确的区分了位置相近的特征区域，再利用双边滤波算法迭代细化了边界点。该算法提取效果较好，加强抗噪能力是其下一步研究重点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往算法大都是对某一类特征点进行提取，比如封闭模型的尖锐棱线、非封闭模型的外边界和孔洞，但是对较复杂的点云模型处理时，往往较难完整的提取出多种类型的特征点。针对这一问题，本文提出一种加权的多判据的点云特征点提取算法，并与传统算法相对比，实验成果表现本文算法能较准确的获取点云模型的边界点、尖锐特征点、弱曲率特征点。图1所示为通过结构光三维扫描仪一次性获取的某模具点云，其包含外边界点与尖锐棱线特征点。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d704f8f3d6e5c50fc718a7cb60b1770aa16b901f36a18e0ff2618e955634c903.jpg",
+        "img_caption": [
+            "图1边界点与尖锐棱线点"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 算法概述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将散乱点云数据集表示为 $P$ ，点云数据样点表示为： $P ( x _ { i } , y _ { i } ,$ （204号zi)，ie[1,n]。本文算法的基本原理为：首先通过样点的 $K$ 邻域进行相关特征量值的计算，包括利用法相夹角判定准则计算单位距离上的样点法向与邻域点法向夹角和的平均值、利用均值漂移判定法则计算样点模式点与样点距离值并进一步计算该距离值与核密度函数带宽的比值、利用场力和判定准则拟合样点与其 $K$ 邻域的微切平面,并在该平面上计算样点场力和与场力同方向时最大场力和的比值，最后针对点云集的特征给每种判定法则赋予相应控制系数来加权计算样点的各个特征量值，最终求得每个样点的相应特征值，通过特征值与设定阈值的比较，获得点云较精确的各种特征点。算法中所用到的三大特征值计算准则，每一种准则针对某类特征点都具有一定的判定优势，其中法向夹角判定准则利用尖锐棱线特征点处法向夹角较大的原理实现对尖锐特征点的判定、均值漂移判定准则利用模式点总是偏向点云稠密区域的原理对边界点和尖锐点都有一定的判定效果、场力和判定准则利用场力和同向加强、反向削弱的原理实现对边界特征点的较好判定，本文算法通过加权计算弥补了单一判定法则的弱点，使得特征点的判定更加精确和全面。算法的主要步骤为：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)构建局部动态k-d树。首先基于点云密度分割点云空间，根据需要在每个栅格及周围栅格内创建局部k-d树，对每个点搜索其 $K$ 邻域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)利用判定准则求取特征量值。针对每一个样点局部邻域逐个计算：单位间隔上的样点法向与邻域点法向夹角和的平均值 $\\theta _ { i }$ 、样点模式点与样点间隔 $D _ { i }$ 、微切平面上样点邻域场力和",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$F _ { i }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c）加权获得数据点的特征量值与阈值，并识别特征点。按照如下公式加权获得参数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\mu _ { 1 } \\frac { \\theta _ { i } } { \\theta } + \\mu _ { 2 } \\frac { D _ { i } } { h _ { i } } + \\mu _ { 3 } \\frac { F _ { i } } { F }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $w _ { i }$ 表示该数据点的特征数值， $\\theta , h _ { i } , F$ 分别为各项判据中的相关变量， $\\mu _ { I } , \\mu _ { 2 } , \\mu _ { 3 }$ 分别为各项判据的控制系数。定义判定阈值：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = \\frac { \\eta } { N } \\sum _ { i = 1 } ^ { N } \\left( \\frac { \\theta _ { i } } { \\theta } + \\frac { D _ { i } } { h _ { i } } + \\frac { F _ { i } } { F } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 ${ \\bf \\nabla } : N _ { \\mathbf { \\nabla } }$ 为原始点云数据量； $\\eta$ 为特征点数控制系数。当 $w _ { i } \\geq W$ 时，判定该点为特征点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 算法具体实施步骤 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1局部 k-d 树动态构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "散乱点云的拓扑关系不确定，要求取点云样点 $K$ 邻域最简单的办法是计算出与该点欧氏距离最近的 $K$ 个点,点云数量越大，搜索时间越长．现在主流的散乱点云的 $K$ 邻域搜索方法主要有：k-d树法、八叉树法、空间栅格法、R树等。k-d树是二叉树的空间推广，不仅可以方便快捷的确立每一个样点的邻近点的搜索路径，而且不受点云密度的影响，应用面较广，但是在点的数据量比较大时，建树与删减的代价比较大，且查询每个点的 $K$ 邻域时需要遍历整个k-d树，降低了搜寻效率。本文采用一种改进的k-d树法[I]，基于空间栅格分割点云并创建局部$\\mathbf { k } { \\cdot } \\mathbf { d }$ 树，改良 $K$ 邻域搜寻效率。取点云数据集中 $x , \\ y , \\ z$ 坐标中最大最小值分别为 $x _ { m a x }$ ，ymax,Zmax,Xmin,ymin, $z _ { m i n }$ 为了避免数据点划分时落到包围盒边界处，给定一定扩张量 $\\delta _ { \\circ }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义空间分布密度为 $\\rho$ 、立方体栅格边长 $L$ 取点云分布密度的 $K$ 倍， $x , \\ y , \\ z$ 各方向划分栅格数分别为 $M _ { X } , M _ { y } , M _ { z }$ 。则计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } d _ { i } } { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { x } = \\left\\lceil \\frac { \\left( x _ { \\mathrm { m a x } } + \\delta \\right) - \\left( x _ { \\mathrm { m i n } } - \\delta \\right) } { L } \\right\\rceil\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { y } = \\left\\lceil \\frac { \\left( y _ { \\mathrm { m a x } } + \\delta \\right) - \\left( y _ { \\mathrm { m i n } } - \\delta \\right) } { L } \\right\\rceil\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { z } = \\left\\lceil \\frac { \\left( z _ { \\operatorname* { m a x } } + \\delta \\right) - \\left( z _ { \\operatorname* { m i n } } - \\delta \\right) } { L } \\right\\rceil\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 为随机在点云集中取出的数据点的个数， $d _ { i }$ 为与数据点$p _ { i }$ 最近点的间隔，一般取 $n$ 为 $2 0 { \\sim } 3 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体实施步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)通过点云数据密度得到立方体栅格边长 $L$ ，将点云包围盒分割为空间栅格。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)按照数据点坐标值将各点压入各自空间栅格，每一个点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所属空间栅格定义为 $( \\mathbf { x } , \\mathbf { y } , \\mathbf { z } )$ ，某一个栅格其相近栅格定义为$\\left( x \\pm i , y \\pm j , z \\pm k \\right)$ ，当中i，j，ke[-1,1]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)搜寻任一点的 $K$ 邻域，只要在该点所在栅格及其邻域栅格内建立k-d树，即可快速获取该点 $K$ 邻域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 特征点判定准则 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）法向夹角判定准则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样点与邻域点间法向夹角是点云的一个不变特征,它可以反映样本局部邻域的曲面变化情况[12]，夹角越大，表示该点为特征值点的几率越大。本文采用PCA 法(主成分分析法）估计点的法向量[13]，经构造 $K$ 邻域点的协方差矩阵，获得该矩阵的特征值和特征向量来获取样点法向量信息。设点云任意数据点为 $m , m$ 的 $K$ 邻域点集为 $S ( m ) { = } \\{ m _ { I } , m _ { 2 } { \\ldots } { \\ldots } m _ { k } \\}$ ,邻域重心则为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO = \\frac { 1 } { k } \\sum _ { j = 1 } ^ { k } m _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则由 $S ( m )$ 创建的协方差矩阵表达为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { j = 1 } ^ { k } \\left( m _ { j } - O \\right) \\left( m _ { j } - O \\right) ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "协方差矩阵 $E$ 是一个半正定的对称矩阵，蕴涵了局部样本邻域曲面的几何信息。使用雅克比方法计算该矩阵的三个特征值o、、 $\\lambda _ { 2 } ( \\lambda _ { 0 } { < } \\lambda _ { 1 } { < } \\lambda _ { 2 } )$ 以及各自对应的特征向量 ${ \\pmb n } _ { I } { \\bf \\nabla } \\cdot { \\bf \\nabla } { \\pmb n } _ { 2 } \\setminus { \\pmb n } _ { 3 } .$ 那么易知最小特征值 $\\lambda _ { \\theta }$ 对应的特征向量 ${ \\bf \\delta } _ { n _ { I } }$ 就是 $m$ 点在其局部曲面中的近似法向量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义邻域点 $m _ { j }$ 的对应法向量为 ${ \\mathbf { } } n _ { j } , \\theta _ { i }$ 为样点 $\\mathbf { \\nabla } _ { m }$ 的法向量 $\\scriptstyle n _ { \\theta }$ 与其邻域点的法向量 ${ { n } _ { j } }$ 夹角和的平均值, $\\scriptstyle j = 1 , 2 \\cdots k ,$ 可以表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } = \\frac { 1 } { k } \\sum _ { j = 1 } ^ { k } \\cos ^ { - 1 } \\frac { n _ { 0 } n _ { j } } { \\left| n _ { 0 } \\right| \\left| n _ { j } \\right| }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是当点云数据密度不均匀时，可能会出现部分非点云特征点与较远间隔点夹角过大而造成特征点误判[14]。对此问题，文献[14]通过降低远距离点对特征识别的权重来提高特征点识别的准确度和稳定性，具体做法是利用两点间欧式距离来充当权重调节系数，以两点间单位间隔的法向夹角代替原来的夹角值，新的法向夹角和的平均值计算公式如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { i } = \\frac { 1 } { k } \\sum _ { j = 1 } ^ { k } \\left( \\frac { 1 } { \\left\\| m - m _ { j } \\right\\| } \\cos ^ { - 1 } \\frac { n _ { 0 } n _ { j } } { \\left| n _ { 0 } \\right| \\left| n _ { j } \\right| } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\theta _ { i }$ 大于阈值 $\\theta$ 时，表示该点为特征点， $\\theta _ { i }$ 越大说明该点处越尖利，该点为特征点的可能性越大。该准则主要用于尖锐特征点的判定，阈值 $\\theta$ 计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { N } \\theta _ { i } } { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）均值漂移判定法则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "核密度估计函数可以很好地反映局部样本邻域内样点的分布特征，其形式可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\boldsymbol f } ( \\boldsymbol x ) = \\frac { 1 } { k h ^ { d } } \\sum _ { i = 1 } ^ { k } K ( \\frac { \\boldsymbol x - \\boldsymbol x _ { i } } { h } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $d$ 定义为 $d$ 维空间, $x _ { i }$ 为样本点的 $k$ 邻域点，各点均采取列向量方式, $K ( x )$ 为核函数．由于高斯核密度估计可以得到较高精度，所以采用高斯核，其形式表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( x ) = { \\frac { 1 } { \\sqrt { 2 \\pi } } } e ^ { - { \\frac { x ^ { 2 } } { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "核密度函数梯度的估计等于密度函数估计的梯度[7]，故可以表达为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\hat { \\nabla } f ( x ) = \\hat { \\nabla _ { f } } \\big ( x \\big ) = } } \\\\ { { \\displaystyle \\frac { 2 C } { k h ^ { d + 2 } } \\Bigg [ \\sum _ { i = 1 } ^ { k } g ( \\frac { x - x _ { i } { } ^ { 2 } } { h } ) \\Bigg ] \\Bigg [ \\frac { \\sum _ { i = 1 } ^ { k } x _ { i } g ( \\frac { x - x _ { i } { } ^ { 2 } } { h } ) } { \\sum _ { i = 1 } ^ { k } g ( \\frac { x - x _ { i } { } ^ { 2 } } { h } ) } - x \\Bigg ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $C$ 为归一化常量,定义 $g ( x ) = - k ^ { ' } ( x )$ ， $k ( x )$ 为核函数的轮廓函数，满足 $k \\left( \\left\\| x \\right\\| ^ { 2 } \\right) = K \\left( x \\right)$ ，式中后一项被称之为均值漂移向量，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM \\left( x \\right) = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { k } x _ { i } g ( \\frac { x - { x _ { i } } ^ { 2 } } { h } ) } { \\displaystyle \\sum _ { i = 1 } ^ { k } g ( \\frac { x - { x _ { i } } ^ { 2 } } { h } ) } - x\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义 $G { \\big ( } x { \\big ) } = C g { \\big ( } \\left\\| x \\right\\| ^ { 2 } { \\big ) }$ 为核函数，推算后可得到在点 $x$ 处，由核函数 $G ( x )$ 得到的均值漂移向量与由核函数 $K ( x )$ 得到的密度梯度估计仅有一个常比例系数的差距。而梯度定义为密度变动最大的方向，因此均值漂移向量代表了密度增大最大的方向，故由均值漂移向量获得的模式点 $M ( S ( \\boldsymbol { p } ) )$ 总是偏向样本局部点集稠密的方向[15].",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过求取样本点与其对应的模式点的距离 $D _ { i }$ 可以判定该样本点是否为特征点．但是当点云样本的分布不均匀时，只依靠两点距离无法满足判定精度。而样本点与模式点间隔的远近程度是相对于核函数估计的带宽大小相对而言的，故将距离 $D _ { i }$ 与带宽 $h _ { i }$ (即样本点与样本邻域内距其最远点的距离)的比值作为判定准则,通过设定合理的阈值来判定特征点7]，该准则对边界点和尖锐特征点都有一定的提取效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）场力和判定准则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先利用任意数据点 $p$ 与其 $K$ 邻域点构造最小二乘平面[16]，并将该点与邻域点在该平面上做投影。记 $p _ { i } ^ { \\prime } \\big ( x _ { i } ^ { \\prime } , \\mathbf { y } _ { i , } ^ { \\prime } z _ { i } ^ { \\prime } \\big )$ 为该数据点在切平面的投影点坐标，其邻域点相应的投影点表示为q(x,yj,)，（j=1,2…,m,j≠i），定义以p'为起点，终点为$q _ { j } ^ { \\prime }$ 的向量为 $p _ { i } ^ { \\prime } q _ { j } ^ { \\prime } = \\left( x _ { j } ^ { \\prime } - x _ { i } ^ { \\prime } , \\mathbf { y } _ { j } ^ { \\prime } - y _ { i } ^ { \\prime } , \\mathbf { z } _ { j } ^ { \\prime } - z _ { i } ^ { \\prime } \\right)$ ，并求取其单位向量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i } ^ { \\prime } q _ { j } ^ { \\prime \\prime } = \\left( x _ { j } ^ { \\prime \\prime } , \\mathbf { y } _ { j } ^ { \\prime \\prime } , \\mathbf { z } _ { j } ^ { \\prime \\prime } \\right) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此时， $q _ { j } ^ { \\prime \\prime }$ 是以点 $p _ { i } ^ { \\prime }$ 为圆心的单位圆上的点。对每个点 $q _ { j } ^ { \\prime \\prime }$ （204定义一种对点 $p _ { i } ^ { \\prime }$ 的场拉力 $\\boldsymbol { F } _ { i j }$ ，其值为1，方向与 $p _ { i } ^ { \\prime } q _ { j } ^ { \\prime \\prime }$ 相同。当点 $p _ { i } ^ { \\prime }$ 周围分布均匀，其场力和会被相互抵消而减弱，当 $p _ { i } ^ { \\prime }$ 周围点分布在一侧时，其场力和 $F _ { i }$ 得到加强。场力和计算如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i } = \\sqrt { \\left( \\sum _ { j = 1 , j \\neq i } ^ { m } x _ { j } ^ { \\prime } \\right) ^ { 2 } + \\left( \\sum _ { j = 1 , j \\neq i } ^ { m } y _ { j } ^ { \\prime \\prime } \\right) ^ { 2 } + \\left( \\sum _ { j = 1 , j \\neq i } ^ { m } z _ { j } ^ { \\prime \\prime } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当场力为同一方向时，场力和为 $m$ 即该点邻域中数据点的个数。为了防止点云分布不均时，单独判定场力和容易出现误判，采用场力和 $F _ { i }$ 与 $\\mathbf { \\nabla } _ { m }$ 的比值判定特征点。该判定准则对尖锐特征点不敏感，主要用于对平坦区域及低曲率曲面上边界点的判定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3特征点的判定提取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上各判定准则都有各自的优点。基于单位距离法向夹角的准则削弱了了远距离点对特征点判断的影响，使其更适合对尖锐特征点的判断提取；基于均值漂移的准则通过漂移距离与带宽的比较，能同时较好识别边界点和尖锐特征点；基于场力和的准则避免了传统的求取法向间最大夹角的复杂计算，能较好的提取边界特征点。利用加权算法将三种准则同时应用于特征点的判定，可以获得更好的特征点提取效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过任意数据点所求取的单位距离上的样点法向与邻域点法向夹角和的平均值 $\\theta _ { i }$ 、样点模式点与样点距离 $D _ { i }$ 、微切平面上样点邻域场力和 $F _ { i }$ 这三个参数计算数据点的判别参数及判别阈值。样点特征值计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i } = \\mu _ { 1 } \\frac { \\theta _ { i } } { \\theta } + \\mu _ { 2 } \\frac { D _ { i } } { h _ { i } } + \\mu _ { 3 } \\frac { F _ { i } } { F }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\theta$ 为全局 $\\theta _ { i }$ 的平均值： $h _ { i }$ 为每个数据点的带宽大小； $F$ 为每个数据点邻域同方向时的场力和， $\\mu _ { l , \\mu _ { 2 , } \\mu _ { 3 } }$ 分别为各项判据的控制系数。设定本算法的特征阈值 $W$ 为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = \\frac { \\eta } { N } \\sum _ { i = 1 } ^ { N } \\left( \\frac { \\theta _ { i } } { \\theta } + \\frac { D _ { i } } { h _ { i } } + \\frac { F _ { i } } { F } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 为原始点云数据量； $\\eta$ 为特征点数控制系数。当 $w _ { i } \\geq W$ 时，判定该点为特征点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验表明，在一般情况下 $\\mu _ { I } , \\mu _ { 2 } , \\mu _ { 3 }$ 取相同的权值就能获得较好的实验效果，当点云某一特征特别突出时，只需提高能判定该特征的准则相对应的权重即可获得较好的特征点提取效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法的可行性与可靠性，在硬件配置为IntelCorei5、3.30GHzCPU、4GB内存的计算机上进行实验验证。分别采用文献[7]算法、文献[16]算法、本文算法对塑料模具、fandisk和venus点云模型进行了实验与对比分析。图6\\~8中的图 $a$ 分别为三个原始点云模型，点云数目分别为25890、53720和307214个，三种算法运行结果分别为图6\\~8中的图b、图 $\\mathbf { \\Psi } _ { c }$ 和图 $d$ 所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图6a所示的是由光学三维扫描仪一次性得到的某模具部分点云．文献[7]算法提取出了外边界点与棱线尖锐点，但是在棱线尖锐点处提取不完整，且存在非特征点。文献[16]能较好的提取了外边界点，但无法提取出棱线尖锐点；本文算法同时实现了对尖锐点和外边界点的提取，效果较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f1066cb3031041442401d6bf77e8daca53dfc775b7f2f48c439367ed579f10f.jpg",
+        "img_caption": [
+            "图6某模具点云边界特征处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图7a所示为fandisk模型，该模型具有多种强弱不同特征，包含尖锐棱线、弱曲率点等，特征提取较难。文献[7]算法能较好提取特征点，但是提取粗糙，在特征点处存在较多非特征点的误判。文献[16]对尖锐棱线点与弱曲率点不敏感，提取的特征边界出现多处缺失；本文算法完整获取了fandisk模型的特征点，且提取精确。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c2e448ac6099474ab1ec9f38fd6ed6d59300e26eaa11198527ebca574d8b94.jpg",
+        "img_caption": [
+            "图7fandisk 模型特征处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图8(a)所示为经过裁剪后的venus模型，该模型具有边界特征、尖锐特征以及弱曲率特征，点云密度分布不均匀。文献[7]算法在提取特征点的同时存在一些非特征点的误判，对弱曲率的特征点也存在检测缺失。文献[16]对外边界轮廓提取清晰，对脸部及头发提取效果不佳。本文算法对各种类型特征点提取完整，面部、头发特征提取都较为清晰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5c83ec38edfcb10a6dc7d24b7c5609619c37d883d5eed5eaeef2bd50e9cc2e0.jpg",
+        "img_caption": [
+            "图8venus 模型特征处理"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1\\~3分别为针对某一模型三种算法的运行时间统计。由于本文算法使用多判据，在更精确提取更多特征点的同时，运行时间相对较多，提高算法速度是以后的算法改进方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1792b11c4528ccb01ad0e4444715bdb9587b1a26aefd1f3b7360d754f0a48af.jpg",
+        "table_caption": [
+            "表1某模具点云边界处理运行时间比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模具实验</td><td>算法</td><td>特征点</td><td>运行时间ms</td></tr><tr><td rowspan=\"3\">模具点云数量25890</td><td>文献7</td><td>3584</td><td>64</td></tr><tr><td>文献16</td><td>2580</td><td>565</td></tr><tr><td>本文算法</td><td>8627</td><td>712</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c1985265cfb3c388547f9ce97e0b0faeb8a882254f7efa42c227c4a917c3b1d2.jpg",
+        "table_caption": [
+            "表2fandisk点云边界处理运行时间比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>fandisk模型实验</td><td>算法</td><td>特征点</td><td>运行时间ms</td></tr><tr><td rowspan=\"4\">fandisk点云数量53720</td><td>文献7</td><td>3673</td><td>135</td></tr><tr><td>文献16</td><td>2390</td><td>862</td></tr><tr><td>本文算法</td><td>5885</td><td>1023</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6002c08405ea64384bae3ac443cc36f320ffa52a85c70db96a61a959c9226e4f.jpg",
+        "table_caption": [
+            "表3venus 点云边界处理运行时间比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>venus 模型实验</td><td>算法</td><td>特征点</td><td>运行时间ms</td></tr><tr><td rowspan=\"4\">venus 点云数量307214</td><td>文献7</td><td>30839</td><td>809</td></tr><tr><td>文献16</td><td>12591</td><td>4070</td></tr><tr><td>本文算法</td><td>68592</td><td>5122</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文针对散乱点云特征点提取的问题,提出了一种多判据融合的特征点提取算法。该算法利用了三种特征点判据综合判",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "定提取了多种类型的特征点。实验结果表明，该算法能有效的获取复杂点云模型中的边界特征点与尖锐特征点，同时对分布均匀和非均匀点云均具有较好的稳定提取效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文算法也有需要改进的地方，该算法提取的特征点较细致，但是数据点较多，且因为采用多判据形式，算法运算效率受到限制，改善算法效率是下一步的研究方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]李延瑞，孙殿柱，张英杰，等．曲面边界样点逆向均值漂移识别[J]. 计算机集成制造系统,2015,21(7):1719-1724   \n[2]Han H, Han X,Sun F,et al. Point cloud simplification with preserved edge based on normal vector [J]. Optik: Interna-tional Journal for Light and Electron Optics,2015,126 (19): 2157-2162.   \n[3]Bazazian D,Casas JR,Ruiz-Hidalgo J. Fast and robust edge extraction in unorganized point clouds [C]//Proc of International Conference on Digital Image Computing: Techniques and Applications.2016: 1-8.   \n[4]Kai WL,Bo P.Feature curve extraction from point clouds via developable strip intersection [J]. Journal ofComputational Design & Engineering,2016, 3 (2): 102-111.   \n[5] 张雨禾，耿国华，魏潇然，等．采用密度空间聚类的散乱点云特征提取 方法[J]．西安电子科技大学学报：自然科学版,2017,44(2).   \n[6] 刘迎，王朝阳，高楠，等．特征提取的点云自适应精简[J].光学精密 工程,2017,25(1):245-254.   \n[7] 孙殿柱，刘华东，史阳，等．基于核密度估计的散乱点云边界特征提取 [J]．农业机械学报,2013,44(12):275-279.   \n[8]傅思勇，吴禄慎，陈华伟．空间栅格动态划分的点云精简[J].光学学 报,2017,37 (11): 1115007   \n[9] 张靖，周明全，张雨禾，等．基于马尔科夫随机场的散乱点云全局特征 提取[J]．自动化学报,2016,42(7):1090-1099.   \n[10]聂建辉，刘烨，高浩，等．基于符号曲面变化度与特征分区的点云特征 线提取算法[J].计算机辅助设计与图形学学报,2015(12):2332-2339.   \n[11]马骊溟，徐毅，李泽湘．基于动态网格划分的散乱点k邻近快速搜索算 法[J].计算机工程,2008,34(8):10-11.   \n[12]陈龙，蔡勇，张建生，等．基于多判别参数混合方法的散乱点云特征提 取[J]计算机应用研究,2017(9):2867-2870.   \n[13] Hoppe H. Surface reconstruction from unorganized points [J].Acm Siggraph Computer Graphics.1999,26 (2): 71-78   \n[14]王丽辉，袁保宗．三维散乱点云模型的特征点检测[J].信号处理,2011. 27 (6): 932-938   \n[15] Cheng Y. Mean Shift,Mode Seeking,and Clustering [J]. IEEE Trans on Pattern Analysis & Machine Intelligence,1995,17(8):790-799.   \n[16]刘增艺，江开勇，林俊义．散乱点云特征边缘交互提取[J].计算机工 ",
+        "page_idx": 4
+    }
+]

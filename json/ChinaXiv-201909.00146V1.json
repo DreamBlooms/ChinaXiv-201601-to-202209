@@ -1,0 +1,568 @@
+[
+    {
+        "type": "text",
+        "text": "基于POI数据的西宁市零售业空间格局探究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高子轶，张海峰（青海师范大学地理科学学院,青海西宁810008）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：零售业是城市商业结构中最有活力的组成部分,合理有序的零售空间结构对促进经济的发展、提高资源的配置、满足居民的生活需求至关重要。POI作为新的空间数据源，能够客观地、准确地对商业空间结构进行识别和探究。西宁市位于青藏高原东北部，是连接青藏高原与中国大陆的重要门户。西宁市集中大量的人口，且存在有潜力的消费市场。基于POI大数据,运用核密度、局域Getis-Ord $G ^ { * }$ 指数、Ripley's $K$ 函数和区位熵的分析方法，以西宁市为研究案例探究零售网点的空间分布特征。零售业详细地分为以下8种类型,分别是食品、饮料及烟草制品,纺织、服装及日用品，文化、体育用品及器材，家用电器及电子产品，五金、家具室内装饰材料，医药及医疗器材,汽车、摩托车燃料及零配件，综合零售。结果表明：西宁市零售业集聚区空间分布特征显著，呈现“多集聚、多核心”商业空间形态。密度等级由中心区沿交通干线逐渐向外围递减;高密度集聚区分别分布在水井巷附近街区、商业巷附近街区、祁连路—北禅路交汇的附近街区(北山市场)和以万达广场为核心的海湖新区。行业属性不同使得零售点集聚和分布变化表现出较大的差异性，与人们日常生活密切相关的业态零售点呈现社区化、微型化和便利化的特征，且区位选择性较大,如：食品饮料及烟草制品、医药及医疗器材和综合零售行业，而家用电器及电子产品、文化体育用品和纺织服装等行业区位选择尺度小，集中在特定的区域;基于道路数据构建的街区单元冷热点区域分布特征显著，它受城市建设用地扩张，人口密度，交通可达性和城市规划等因素的影响,海湖新区将成为最有发展潜力的商业区;在街道尺度,各业态零售业专业化功能区块显著，发展成熟的街道表现出多优势行业集聚特征，西宁市多业态集聚区域较少，只有人民街街道。这项研究一方面有助于填补基于POI数据青藏高原河谷型城市商业空间结构研究的空白；另一方面，为政府战略制定，零售商选址和城市规划提供一些参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键 词：零售业空间结构；POI大数据；集聚特征；西宁市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城市是一个复杂多要素组成的综合体。商业是城市经济社会实力的具体体现，是城市化水平的缩影。零售业作为城市商业结构中最有活力的组成部分，承担着服务居民生活和生产建设的任务。合理有序的零售空间结构对促进经济发展、提高资源配置、满足居民生活需求至关重要[1]。零售业空间布局指零售业各类业态、业种及其相应商业设施在一定区域内的空间分布[2]。西方学者对于零售业的研究较为成熟，主要集中于零售业空间结构和空间区位的选择[3-5]、商品流的定位（国际化、本土化)[6]、商业集聚效应的影响[、零售业空间重组与消费者行为选择及零售业选址驱动及竞争机制[8-9]的研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内关于零售业的研究开始于改革开放之后，在政策机制作用和城市化进程的推动下，零售业成为国民经济发展的主要动力，推动零售业和商业相关理论的发展[10]。零售业结构特征及经营所有制结构的变化、多层次与多元化的业态特征及影响零售网点布局的多重驱动机制成为研究的热点[11]在中心地理论、商圈理论、集聚理论以及消费者行为理论的支撑下[2],许多学者在零售商业结构[2-13]规模及等级[14-15]、空间分布特征[16-17]、集聚效应[18-19]、消费者属性及购物行为[20-22]等方面展开实证研究。目前关于零售业的研究已从宏观逐渐深入到微观，许学强、朱枫、肖琛、王士君等学者探究不同业态零售业的空间分布特征、区位选择及形成机制[16-17,23-24]。多业态、多类型的商业业态空间分布及区位选择成为研究的热点[10]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，大数据分析技术的突破、发展与应用为城市商业地理空间探究提供了一种新路径[23-25] O兴趣点数据(PointofInterest,POI)是一类精度高、成本低、实时性强、数据量大且覆盖面广的地理空间大数据，它真实反映了人类社会的经济活动，满足城市空间布局精细化的需求。与传统经济普查数据和问卷调查数据[26]相比,POI数据对城市商业空间的研究节省了大量的时间成本，结果更科学、准确。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，以POI大数据为依托的商业空间格局探究主要集中于中东部大城市，西部地区较少，特别是青藏高原属于空白区。本文以青藏高原第一大城市——西宁市为例,基于POI数据对西宁市零售业空间分布格局识别与探究。西宁市作为青藏高原区域性首位城市，它是青藏高原的东大门及物资集散中心，也是青藏高原与内地联系的重要门户。同时它作为青海省省会城市，是全省政治、经济、文化、科技、交通中心及主要工业基地，具有较为完善的基础设施及较好的社会生活服务设施。掌握西宁市零售网点空间布局、行业结构，可以为政府决策、零售商区位选址及城市规划提供一定的参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "西宁市位于青藏高原东北部，辖城东、城中、城西、城北4区以及大通、湟中、湟源3县，总面积$7 ~ 6 7 9 ~ \\mathrm { k m } ^ { 2 }$ ,其中市区面积 $4 8 1 ~ \\mathrm { k m } ^ { 2 }$ 。西宁市是青藏高原人口分布最集中、最为适宜居住的城市。2017年末常住人口达到235.5万，市区人口130.84万，$0 . 0 7 1 \\%$ 的国土面积承载了整个青海省 $2 1 \\%$ 的人□。2000—2017年随着人口规模、城镇居民可支配收入快速增长，城市零售业发展迅速，西宁市社会消费品零售总额年均增长速度达到 $1 3 . 8 8 \\%$ 以上。研究西宁市零售业的空间结构及分布特征，对优化商业空间、提升商业区域竞争力和辐射范围提供一定的参考依据。本文研究区域为西宁市市区（城东、城中、城西、城北)（图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6866b87dfb9c4c3d375815fc21f3bece53dcad26a29ab590bd5587544eed0914.jpg",
+        "img_caption": [
+            "图1西宁市零售业网点空间分布",
+            "Fig.1Spatial distribution of retail industry sites in Xining "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用Geosharp1.0软件获取2017年7月高德地图中零售网点数据，依据国民经济行业分类标准及参考相关论文[10],将零售业分为以下8种类型：综合零售，食品、饮料及烟草制品，纺织、服装及日用品，文化、体育用品及器材，医药及医疗器材，汽车、摩托车燃料及零配件，家用电器及电子产品，五金、家具室内装饰材料。经过筛选、剔除，共获取有效POI数量为26626个。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1核密度估计法通过对点数据分布模拟，形成一个连续的密度场，最终以格网数据的形式反映，该方法广泛用于地理要素的空间分布研究[27]。本文利用核密度函数 $f ( x )$ 探究城市零售点分布的集聚特征，分别选取 $1 \\ 5 0 0 \\ \\mathrm { m } \\lrcorner 1 \\ 0 0 0 \\ \\mathrm { m } \\lrcorner 5 0 0 \\ \\mathrm { m }$ 作为带宽模拟，经比较， $5 0 0 \\mathrm { ~ m ~ }$ 带宽更能清晰地探究区域集聚与分散的变化。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) \\ = \\ \\sum _ { i = 1 } ^ { n } \\ { \\frac { 1 } { R ^ { 2 } } } W \\left( { \\frac { d _ { i x } } { R } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\cdot f ( x )$ 为空间位置 $x$ 处密度的估计值; $W$ 为空间权重函数； $R$ 为带宽; $d _ { i x }$ 为POI点 $\\mathbf { \\chi } _ { i }$ 与 $x$ 的距离； $n$ 为与位置 $x$ 的距离小于或等于 $R$ 的要数点的数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2局域Getis-Ord $G ^ { * }$ 指数法 Getis-Ord $G ^ { * }$ 指数是一种基于距离权矩阵的局域空间自相关指标，用来探究空间单元的高值（热点）和低值（冷点）。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { i } ^ { * } \\ = \\ { \\frac { \\displaystyle \\sum _ { j = 1 } ^ { n } W _ { i j } ( d ) X _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { n } X _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为零售点总数； $X _ { j }$ 是第 $j$ 个空间单元的属性值； $\\boldsymbol { W } _ { i j }$ 代表空间权重矩阵。若第 $j$ 个空间单元与第 $i$ 个空间单元间的距离在给定临界距离 $d$ 范围内，则认为二者在空间上相邻，空间权重矩阵中的元素为1,否则为0。也可对局域Getis-Ord $G ^ { * }$ 指数进行标准化 $( Z )$ 处理：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ ( G _ { i } ^ { * } ) = \\frac { G _ { i } ^ { * } - E ( G _ { i } ^ { * } ) } { \\sqrt { V a r ( G _ { i } ^ { * } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E ( G _ { i } ^ { * } )$ 为数学期望值； $V a r ( G _ { i } ^ { * } )$ 为变异系数。$Z$ 值越大( $\\ : Z > 0 \\ : \\dot { }$ ),表明空间单元的值越大，属高值集聚（热点区），反之，属低值集聚（冷点区）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Ripley's $K$ 函数分析法 Ripley's $K$ 函数常用来研究点数据在不同尺度下的集聚空间分布及集聚程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( d ) \\ = \\frac { A } { n ^ { 2 } } \\sum _ { i \\neq j } \\ \\sum \\ W _ { i j } ( d )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $A$ 为研究区域面积; $d$ 为距离阈值; $W _ { i j } ( d )$ 为在距离 $d$ 范围内零售业网点 $\\mathbf { \\chi } _ { i }$ 到网点 $j$ 的距离。 $n$ 为不同行业零售网点数量。 $K ( d )$ 可以转化为平方根的形式，可清晰地表示 $L ( d )$ 与 $\\textit { d }$ 之间的线性关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( d ) = \\sqrt { \\frac { K ( d ) } { \\pi } } - d\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运用MonteCarlo随机模拟函数来获取 $L ( d )$ 函数置信区间的上下限。若 $L ( d ) > 0$ ,零售点呈空间集聚分布；若 $L ( d ) < 0$ ,则其为扩散分布; $L ( d ) = 0$ .则为空间随机分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4区位熵区位熵用来分析某一要素在特定区域的空间分布状况，用来评估区域主导产业的专业化程度。值越大，说明该类产业(要素)在本区域的专业化程度越高。表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { { \\scriptscriptstyle M - A } } = \\frac { L _ { { \\scriptscriptstyle M - A } } } { L _ { { \\scriptscriptstyle M } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { M - A }$ 为区域 $M$ 中零售业 $A$ 行业的区位熵； $L _ { { \\scriptscriptstyle M } - A }$ 为区域 $M$ 中某零售业 $A$ 的POI数量与西宁市整个零售业 $A$ 的POI数量的比值; $L _ { y }$ 为区域 $M$ 中整个零售业POI数量与整个西宁市零售业POI数量的比值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1零售业网点集聚特征分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "零售业是城市商业活动的重心，其选择具有灵活性和竞争性。零售企业根据市场变化和消费者需求对网点进行集聚与扩散区位选择，因此，集聚与扩散是城市空间结构的两种不同形态[19]。运用核密度估计法分析西宁市零售业空间分布特征（图2），总体上，零售点已形成“多集聚、多核心”的城市空间形态，分布密度呈现由中心区沿交通干线逐渐向外围递减趋势;高密度集聚区分别分布在水井巷附近街区、商业巷附近街区、祁连路-北禅路交汇的附近街区(北山市场)和以万达广场为核心的海湖新区;次密度集聚区分布在高密度集聚中心的周围，且与高密度集聚区相连成片逐级扩展。分析各行业零售点核密度,人民街道附近、商业巷附近及北山市场附近形成多行业集聚高值区,例如纺织、服装及日用品、家用电器及电子产品、综合零售以及食品、饮料及烟草制品。五金家具及室内装饰材料集中分布在朝阳街道（青海省北山家具灯具装饰材料批发市场、朝阳金属建材贸易有限公司、青海西宁朝阳建材综合市场等),该行业一般以品牌经营与仓储经营的大规模商品城为主;汽车高集聚区位于城东区，这里具有交通枢纽的区位优势;此外，食品、饮料及烟草制品高值区在大堡子政府附近街区也有出现,这与其附近布局的大型农贸市场有关。各行业零售点因属性差异，集聚和分布变化呈现各自不同的特点，与人民生活密切相关的业态零售点日趋社区化、微型化和便利化，例如：食品、饮料及烟草制品、医药及医疗器材和综合零售行业，而其他行业集中在特定的区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2零售业冷热点区域探究 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "零售点分布高度集聚区为城市商业空间结构中重要的节点,同是也是商业活动的热点区[19]。受独特高原河谷地貌的影响，西宁市零售业网点多沿交通线布局，呈狭长“十字型”。为探讨零售业的空间分布格局，本文通过西宁市道路数据构建街区面水誉城水水茶水水水低 较低 中 较高 高",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "要素，采用局部Getis-Ord $G ^ { * }$ 指数进一步识别零售业空间分布的冷热点区域（图3）。结果显示：西宁市道路格网单元零售点空间分布存在显著的热点集聚区和冷点集聚区。 $Z$ 得分大于1.96且满足在$9 5 \\%$ 置信度（概率似然值 $\\textstyle P < 0 . 0 5 ,$ 的热点区主要集中在历史悠久、人口密度大的市区内部，人民街街道、仓门街街道、饮马街街道、礼让街街道、清真巷街道、东关大街街道、林家崖街道、朝阳街道、兴海路街道、西关大街街道、古城台街道、虎台街道和小乔大街街道的部分区域形成显著的热点聚集区。 $Z > 5$ 的区域分布在老城区附近街区，这些街区的零售网点密度最大，且同样被它周围密度很高的街区包围。以万达广场为核心的海湖新区为零售网点的一大核心区，但此区域中的某些街区并未形成高热点区，主要是由于这些区域的附近街区零售网点密度较低所致。海湖新区属于政府规划的新城区，交通便利、公共设施较完善，吸引了大量的人口、公司及企业集聚，发展潜能大，在低密度街区可以根据市场需求考虑布局更多的零售网点。冷点区主要分布在市区边缘，受坡度，人流和交通成本的影响，商业零售点布局较少。整体来讲,西宁市热点区和冷点区的分布特征显著,这与城市建设用地的扩张，人口密度、交通通达性以及城市规划等因素有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b98ed37a74e9df220893d5aeb0e779cf9cf3bf9af814e88072550353a64de08.jpg",
+        "img_caption": [
+            "图3零售业冷热点区域分布",
+            "Fig.3Cold spots and hot spots distribution of retail industry "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3“多核心”空间分异特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过图2可以看出，西宁市零售业网点已形成“多核心”空间分布格局，为验证这一结论,结合2000—2010 年，2010—2020 年西宁市商业网点规划、当地实际发展情况和核密度空间分布图，选取1个市级主商业中心、5个副商业中心和2个社区商业中心为研究对象，根据规划方案，选择 $3 ~ \\mathrm { k m }$ 作为辐射半径，分析各零售中心点的服务能力及发展水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水井巷商业主中心，假设与商业副中心选取同样的辐射半径 $3 ~ \\mathrm { k m }$ ,其包含零售点数量为13192个，超过西宁市总零售点的一半。基于此区域商业规划中的地位，本文选取 $6 ~ \\mathrm { k m }$ 辐射半径作为研究，结果显示：水井巷商业主中心包含整个西宁市零售点数量的 $7 9 . 1 \\%$ ，除汽车、摩托车燃料及零配件行业外，其他各行业零售点数量 $67 \\%$ 以上都集中在此区域，纺织、服装及日用品和文化、体育用品行业达到 $87 \\%$ 以上，其服务范围面向整个青海省及整个青藏高原。该区域人口密度高，交通便利，商业基础设施完善，形成大规模的集聚效应，对商家吸引力极高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "商业巷副中心，与水井巷商业主中心在 $3 ~ \\mathrm { k m }$ 辐射半径范围内集聚的零售点数量几乎持平，集中全市纺织、服装及日用品零售点的 $6 8 . 8 3 \\%$ ，文化、体育用品及器材零售点的 $6 7 . 7 4 \\%$ ,这与规划中将商业巷打造成为“西宁市商业名片”的功能定位一致。这里集中大量的百货店和大型专卖店，食品、饮料及烟草制品零售点在此区域聚集的比例较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "东川商业副中心医药及医疗器材零售点数量最多。许多诊所及医药保健品在此集聚，青藏高原特有的医药保健品一冬虫夏草和枸杞等，并形成了大规模的医药保健品交易市场。此商业副中心也是汽车、摩托车燃料及零配件网点高密度聚集区，这与该区域便捷的交通、较低的地租以及城市规划等因素密不可分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "海湖新区商业副中心发展较晚，食品、饮料及烟草制品、综合零售及纺织、服装及日用品零售点较多。该区域主要以现代服务业为核心产业，消费群体主要面向青年及中年。近些年来随着基础设施和交通网络的日益完善，吸引了各类产业机构入驻，逐渐形成业态较丰富、特色较鲜明的产业集群。据统计，2017年初入住海湖新区的居民已超过10万，是2014年初的3倍，巨大的人口增长可以激发无限的消费潜力。通过冷热点探究可以看出此区域某些街区零售网点密度较低，零售业存在着巨大的发展潜力，它将成为西宁市最具活力的城市新区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "城南新城和城南综合零售点分布较少，这与该区域的人口、交通成本有关。城南新城主要以综合零售、文化、体育用品及器材和食品、饮料及烟草制品行业为主;城南综合商业网点中，医药及医疗器材零售点所占比重较大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "小乔路社区商业中心集中了西宁市 $30 \\%$ 以上的零售网点，家用电器及电子产品、五金、家居及室内装饰材料及纺织、服装及日用品零售点较多。这里人口密度大，人流量多，食品、饮料及烟草制品零售点在此区域所占的比重较高，属于西宁市早期形成的商业网点之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "西钢工业园社区商业中心面向的消费群体主要为西钢工业园，以日常生活日用品为主。食品、饮料及烟草制品和综合零售网点分布较多。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4多尺度空间集聚特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于Ripley's $K$ 函数分析各业态零售点的集聚特征(图4），结果显示：在 $9 9 \\%$ 的置信度下，各零售行业 $L ( d )$ 值均大于置信区间的上限，表明各行业零售网点的空间分布集聚特征较显著；在 $1 0 ~ \\mathrm { k m }$ 的观测距离内，各行业零售点 $L ( d )$ 值均表现出先增后减的特征。从峰值对应的距离来看，食品、饮料及烟草制品、医药及医疗器材和综合零售行业距离较大，分别为 $6 . 4 2 \\ \\mathrm { k m } \\ 、 5 . 3 7 \\ \\mathrm { k m }$ 和 $6 . 1 1 ~ \\mathrm { k m }$ ,这些属于与人们基础生活密切相关的服务行业，覆盖面宽，区位选择的尺度较大，在市中心及边缘区域均有分布，较为零散。五金、家居及室内装饰材料和汽车、摩托车燃料及零配件的峰值分别出现在 $5 . 2 7 ~ \\mathrm { k m }$ 和 $4 . 9 \\ \\mathrm { k m }$ 处，这两类行业的核心区分布在城市外围，主要沿交通路线布局，该峰值分布平原地区有所差异[10]；家用电器及电子产品、文化、体育用品及器材及纺织、服装及日用品的峰值分别出现在 $4 . 7 ~ \\mathrm { k m } \\ 、 4 . 3 2 ~ \\mathrm { k m }$ 和 $4 . 3 ~ \\mathrm { k m }$ 处,这些行业区位选择性小，在城市中特定区域内集聚分布。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d773bd2a512c456c086434428bc6a082ff89037408b1a187034e5f8b1abb288d.jpg",
+        "img_caption": [
+            "图4零售业Ripley's $K$ 函数分析结果",
+            "Fig.4Ripley's $K$ function analysis results of retail industry "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5专业功能区域特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究选取更微观的街道单元进行区位熵测度（图5），可以看出，各行业零售点专业化差异在街道尺度表现较明显，呈以下特征：不同优势专业行业在同一街道集聚，例如人民街街道的纺织、服装及日用品和文化、体育及器材行业，乐家湾镇的汽车、摩托车燃料及零配件和综合零售行业；同一优势行业在在不同的街道形成专业集聚，如食品、饮料及烟草制品行业在兴海路街道和大堡子镇集聚，五金、家具及室内装饰材料行业在林家崖街道和朝阳街道集聚，纺织、服装及日用品行业在古城台街道、饮马街街道、礼让街街道、人民街街道和仓门街街道集聚等。发展成熟的街道表现出多优势行业集聚特征[10],在西宁市典型的区域为人民街街道。但正在发展中的",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2b031f587ac7033b4fbe03f53e27e79605de00174c2a7a7d2d545fc2c4d7bee.jpg",
+        "img_caption": [
+            "图5西宁市各街道单元零售业网点数量等级与区位熵分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Quantitative grade and location entropy distribution ofretail industry sites at street scale in Xining City街道也会表现出多行业优势集聚，比如马坊街街道和乐家湾镇的综合零售行业和汽车、摩托车燃料及零配件行业，原因是区域内零售网点总数量较少，某种行业零售点数量相对比重较大，易形成相对专业优势区。汽车、摩托车燃料及零配件、纺织、服装及日用品、五金、家具及室内装饰材料及食品、饮料及烟草制品行业在区域集聚的同时，也形成较强的区域优势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "合理的商业空间结构可以促进城市商业繁荣和提升城市活力，对政府商业规划和零售商的开发选址有一定的指导作用。传统商业视角侧重对零售店铺结构特征(销售方式、商业结构和服务功能等)的研究，因零售行业属性不同引起的空间布局差异存在明显的不足。本文基于POI数据精确地提供了零售点的空间信息和行业属性信息，系统科学地对西宁市零售点的空间格局特征进行分析。得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）西宁市零售业空间集聚特征显著，呈现“多集聚、多核心”形态：分布在“水井巷”附近街区、“商业巷”附近街区，祁连路-北禅路附近街区和万达广场附近街区（海湖新区）；各业态零售点因属性差异，集聚和分布变化呈现各自不同的特点，与人民生活密切相关的业态零售点日趋社区化、微型化和便利化。基于道路格网的商业点冷热点差异明显且集聚特征显著，热点区在市中心集聚，冷点区分布在海湖新区部分区域和市区的边缘。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）基于多核心的城市空间结构研究，以水井巷为中心的传统综合商业核心区仍是集聚程度最高、最活跃的商业核心区；商业巷是发展最好的次级核心区，属于多种行业共同的集聚区；海湖新区副商业中心为最有潜力的发展商区；城南新区和城南综合的商业网点规模较小，发展相对不成熟，这与该区域的人口分布及交通成本有很大的关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）食品、饮料及烟草制品、医药及医疗器材和综合零售选择尺度较大;家用电器及电子产品、文化及体育用品及器材和纺织、服装及日用品峰值出现的距离较短，其空间选择范围小，分布于城市内部的特定区域。五金、家具及室内装饰材料及汽车、摩托车燃料及零配件的峰值居中，这与平原地区的城市",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "分布格局有所差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（4）发展较成熟的人民街街道呈现多优势专业的集聚特征，西宁市多优势集聚区域较少，只有人民街街道。汽车摩托车燃料及零配件、纺织服装及日用品、五金家具及室内装饰材料、食品饮料及烟草制品行业在区域集聚的同时，也形成较强的区域优势。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）兴趣点(POI)数据可以获取商业点位置的空间信息和行业类别的属性信息，但无法获取商业网点“点”与“点”之间体量上的差异，无法获取商业业态的社会属性(购买力、交通、人口、租金、市场竞争力等），这些信息还需要借助问卷调查手段来获取。将大数据与传统问卷调查信息相结合，综合分析西宁市商业网点的空间分异特征，将是今后需研究的问题。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（2）本文基于核密度估计法探测零售网点热点的空间分布变化，如何借助密度场模型从横向与纵向视角提取零售点热点的大小层级等级特征及空间分布特征，将是下一步研究的重点。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 何永达，赵志田.我国零售业空间分布特征及动力机制的实证 分析[J].经济地理,2012,32（10）:77-82.[HEYongda,ZHAO Zhitian.Empirical study on spatial distribution and dynamic mechanism of retail industry in China[J].Economic Geography,2012, 32(10):77 -82.]   \n[2]薛冰,肖骁,李京忠,等.基于POI大数据的城市零售业空间热 点分析—以辽宁省沈阳市为例[J].经济地理,2018,38（5）： 36-43.[XUE Bing,XIAO Xiao,LI Jingzhong,et al． POI-based analysis on retail's spatial hot blocks at a city level:A case study of Shenyang,China[J].Economic Geography,2018,38（5）:36- 43.]   \n[3] MALAFFETY S L,GHOSH A. Multipurpose shopping and location of retailing firms[J].Geographical Analysis,1986,18（3）:215- 226.   \n[4] GHOSH A,GRAIG C S.A location allocation model for facility planning in a competitive environment[J].Geographical Analysis, 1984,16(1) :39 -51.   \n[5] SALVANESCHI L.Location,location,location[M].Oregon:The Oasis Press,1996:32-43,107-130.   \n[6] COE N M,LEE Y S.The strategic localization of transnational retailers:The case of Samsung-Tesco in South Korea[J].Economic Geography,2006,82(1) :61 -88.   \n[7] DRENNAN MP,KELLY HF.Measuring urban agglomeration economies with ofice rents[J].Journal of Economic Geography, 2011,11(3):481 -507. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]JACKSON P,AGUILA RP,CLARKEI et al.Retail restructuring and consumer choice:2.Understanding consumer choice at the household level[J].Environment and Planning A,20o6,38（1）： 47 -67. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9]FRANK R.The ABC's of site selection:How to pick winners and avoid losers[M].Bloomington:Xlibris,2010. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10］浩飞龙，王士君，冯章献，等.基于POI数据的长春市商业空间格局及行业分布[J].地理研究，2018，37(2）：366-378.[HAOFeilong,WANG Shijun,FENGZhangxian,etal.Spatialpatternand its industrial distribution of commercial space in Changchunbased on POI data[J].Geographical Research,2018,37（2）：366 -378.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11］于伟，王恩儒,宋金平.1984年以来北京零售业空间发展趋势与特征［J].地理学报,2012,67（8）：1098-1108.［YUWei,WANG Enru,SONG Jinping.Changing retail spatial patterns inmetropolitan Beijing since 1984[J].Acta Geographica Sinica,2012,67(8):1098-1108.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12］杨吾扬.北京市零售商业与服务业中心和网点的过去、现在和未来［J].地理学报，1994,49（1）:9-17.[YANGWuyang.Theretailing and services center and network of Beijing:Then,now andlong before[J].Acta Geographica Sinica,1994,49（1）:9-17.][13］刘胤汉，刘彦随.西安零售商业网点结构与布局探讨[J].经济地理，1995，15（2）:64-69.［LIUYinhan，LIUYansui.Structureand layout of retail networks in Xi'an[J].Economic Geography,1995,15(2) :64-69.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14］吴郁文，谢彬，骆慈广，等.广州市城区零售商业企业区位布局的探讨[J].地理科学，1988，8（3）：208-217.［WUYuwen，XIEBin,LUO Ciguang,et al.An approach to retail commerce locationof Guangzhou urban area[J].Scientia Geographica Sinica,1988,8(3):208-217.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15］安成谋.兰州商业中心的区位格局及优势度分析[J].地理研 究,1990,9（1）:28-34.［ANChengmou.Analysis ofLanzhou commercial center's location pattern and advantage degree[J].Geographical Research,1990,9（1） :28-34.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16」许学强，周素红，林耿.广州市大型零售商店布局分析[J」.城 市规划,2002,26（7）:23-28.[XU Xueqiang,ZHOU Suhong, LIN Geng.The location analysis of Guangzhou's large retail empo ria[J].CityPlanningReview,2002,26(7） :23-28.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］朱枫，宋小冬.基于GIS的大型百货零售商业设施布局分析：以上海浦东新区为例[J」.武汉大学学报：（工学版），2003，36(3）:46-52.[ZHUFeng,SONG Xiaodong.Application of GIS inspatial location analysis of large retail stores:A case study in Pud-ong New Area of Shanghai[J].Engineering Journal ofWuhanUni-versity,2003,36(3):46-52.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18］张珣,钟耳顺,张小虎,等.2004—2008 年北京城区商业网点空间分布与集聚特征[J].地理科学进展，2013，32（8)：1207-1215.[ZHANG Xun,ZHONG Ersong,HANG Xiaohu,et al. Spa-tial distribution and clustering of commercial networkin Beijingduring 2004—2008[J].Progressin Geography,2013,32（8）：1207 -1215.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］陈蔚珊，柳林，梁育填.基于POI数据的广州零售商业中心热点识别与业态集聚特征分析［J].地理研究，2016，35（4）：703-716.[CHENWeishan,LIULin,LIANGYutian.Retail cen-terrecognition and spatial aggregating feature analysis of retail for-mats in Guangzhou based on POI data[J].Geographical Research,2016,35(4) :703-716.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20］周素红,林耿，闫小培.广州市消费者行为与商业业态空间及居住空间分析[J].地理学报，2008，63（4）：395-404.［ZHOUSuhong,LIN Geng,YAN Xiaopei. The relationship among consum-er's travel behavior,urban commercial and residential spatial struc-ture in Guangzhou,China[J].Acta Geographica Sinica,2008,63(4):395-404.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21］柴彦威，翁桂兰，沈洁.基于居民购物消费行为的上海城市商业空间结构研究［J」.地理研究，2008，27（4）：897-906.[CHAI Yanwei,WENG Guilan,SHEN Jie.A study on commercialstructure of Shanghai based on residents’shopping behavior[J].Geographical Research,2008,27（4） :897-906.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[22］李永浮，潘浩之，田莉，等.哈夫模型的修正及其在城市商业网 点规划中应用——以江苏省常州市为例[J].干旱区地理， 2014,37(4）:802-811.[LI Yongfu,PAN Haozhi,TIAN Li,et al.Modification of Huff model and its application in urban commercial network planning:A case of Changzhou City,Jiangsu Province[J].AridLand Geography,2014,37(4）:802-811.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23］肖琛，陈雯，袁丰，等.大城市内部连锁超市空间分布格局及其 区位选择：以南京市苏果超市为例[J].地理研究，2013，32 (3）:465-475.[XIAO Chen,CHENWen,YUANFeng,et al. Spatial pattern andlocation decision of chain supermarkets within large cities:A case study of Suguo supermarkets in Nanjing[J]. Geographical Research,2013,32（3）:465-475.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[24］王士君，浩飞龙,姜丽丽.长春市大型商业网点的区位特征及 其影响因素[J].地理学报，2015，70（6）：893-905.［WANG Shijun,HAO Feilong,JIANGLili.Locationsand their determinants oflarge-scale commercial sites in Changchun,China[J].Acta Geographica Sinica,2015,70(6） :893-905.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[25］吴康敏，张虹鸥，王洋，等.广州市多类型商业中心识别与空间 模式[J].地理科学进展,2016,35（8）：963-974.［WUKangmin,ZHANGHongou,WANG Yang,etal. Identify of themultiple types of commercial center in Guangzhou and its spatial pattern [J].Progress in Geography,2016,35（8）:963-974.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26］陈玉慧，王永兴.城市传统商业中心区发展的思考——以厦门市为例[J].干旱区地理,2009,32（1)：152-158.［CHENYu-hui,WANG Yongxing.Approach to the development of urban com-mercial area:A case study of Xiamen[J].Arid Land Geography,2009，32(1):152-158.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[27］赵艳楠，杨德刚，张新焕，等.乌鲁木齐住宿业空间分布及热点区模式研究[J].干旱区地理，2016，39（5）：1143－1152.[ZHAO Yannan,YANGDegang,ZHANG Xinhuan,etal.Spatialdistribution characteristics and hot zone patterns of lodging industryinUrumqi［J].AridLand Geography,2016,39（5）：1143-1152.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatial structure of the retail industry in Xining City based on POI data ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GAO Zi-yi， ZHANG Hai-feng (CollegeofGeography Science,QinghaiNormal University,Xining 81oOO8,Qinghai,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Retail industry is the most dynamic component of urban commercial spatial structure,and a rational and orderlyspatial structureof retail industry is esential topromoteeconomicdevelopment,improve resource alcation,and meet the needs of residents.Asa new spatial data source,POI（Point of Interest）can objectively and accurately identifyand explore retail industryspatial structure.Xining Cityis located in the northeast of the QinghaiTibet Plateau and is an important eastern gateway that links the Qinghai-Tibet Plateau with mainland China,where has the most concentrated population and the most potential consumer market.This study aims to quantitatively identifythespatial pattern characteristicsof retail industryusing the methodsof kerneldensity estimation,local Getis-Ord $G ^ { * }$ index,location entropy analysis and Ripley's $K$ function based on the POI data in the Xining City. The retailing industry isdivided into eightcategories:food beverage and tobaccos;textiles,garmentsand dailyconsumer articles;culture and sports appliances and equipment; household electric appliances and electronic products;hardware,furnitureand decoration materials;medicinesand medical appliances;motor vehicles fuel and parts;synthetic retail trade.The results show that the spatial aglomeration characteristics of theretail industry in Xining Cityare significantand have formed a“multi-aggregation,multi-core”commercial pattrn.The density grading is gradually decreased from thecentralarea along the traffic trunk to theperiphery.The high-densityagglomerationareas are distributed around the block of Shuijing Xiang,Shangye Xiang,Qilian-Beichan Road（Beishan Market）and Wanda Plaza（Haihu New Zone).The aglomeration and distribution of multi-typeretail sites have theirown characteristics dueto theirdiferent industry atributes.The retail industry closely related to people'sdailyconsumption is characterizedby community,miniaturizationand facilitation,and have a widerange of site selection,such as food beverage and tobaccos,medicines and synthetic retail trade.However,household electric appliances and electronic products, culture and sports appliances and equipment,textiles,garments and daily consumer articles have a smallr location selection space,and they are concentrated in specificareas.The distribution characteristics of the hot spots and cold spots basedontheroad data in Xining Cityare significant,which is affectedby the factors suchas the expansion of urban construction land,population density,traffc accessibility and urban planning.Haihu New District will become the most promising development area.Various types of retail industry have significantly formed diferent regional specialization functional blocks atthe stret scale.Generall,more advantage industries are gathered in the mature districts,there are fewer multi-industrygathering areas in Xining City,only Renmin Sub-district.This research,on theone hand,contributes to fillng the gap inthe studyof commercial spatial structureofvalley-basin cities on the Qinghai-TibetPlateaubasedonPOIdata,ontheother hand,benefits for providing somereferences for government strategy-making,retailers’ location selection and urban planning. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:spatial structure of retail industry；POI data；agglomeration characteristics； Xining City ",
+        "page_idx": 9
+    }
+]

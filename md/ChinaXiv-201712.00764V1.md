@@ -1,0 +1,108 @@
+# 临床研究
+
+# SLC22A1低表达与肝癌患者的不良预后相关303例报告
+
+王恕同，沈顺利，华鹏,陈 斌，匡铭，李绍强,何强，彭宝岗中山大学附属第一医院肝脏外科，广东广州510080
+
+摘要：目的评估SLC22A1在肝癌患者中的表达及其对预后的影响。方法使用303例肝癌(HCC)和匹配的癌旁肝组织（ANLTs）标本构建组织芯片并进行免疫组化染色(IHC),两名病理医生对SLC22A1的表达进行评分。评分范围为1到12分，总分 ${ \cdot > } 6$ 为高表达组，总分 $\leqslant 6$ 为低表达组。分析SLC22A1表达量与患者的临床病理特征的关系。结果所有ANLTs的IHC评分均为12分，肝癌中仅29例 $( 9 . 6 \%$ )为12分。根据患者HCC的IHC评分将其分为两组： $5 9 \% ( 1 8 0 / 3 0 3 )$ )为低表达组（评分 ${ \leqslant } 6$ ； $41 \%$ (123/303)为高表达组(评分 ${ \cdot > } 6$ )。低表达组的无瘤生存率(DFS)和总体生存期率(OS)均显著低于高表达组。低表达组的1、3、5年DFS分别为 $4 3 \% , 3 1 \%$ 和 $2 7 \%$ ，高表达组为 $5 8 \%$ $47 \%$ 和 $4 3 \%$ 。低表达组的1、3、5年OS分别为 $6 6 \% , 3 8 \%$ 和 $32 \%$ ，高表达组为 $8 0 \% , 5 7 \%$ 和 $5 0 \%$ 。SLC22A1的低表达与肿瘤直径，BCLC分期，肿瘤分化和AFP水平相关 $( P { < } 0 . 0 5 )$ 。SLC22A1低表达是影响总体生存的独立预后因子(HR,1.454; $9 5 \%$ CI,1.050\~2.013)。结论 SLC22A1低表达是肝细胞癌的恶性特征和潜在不良预后的标志。
+
+关键词：SLC22A1;肝细胞癌；免疫组织化学；预后
+
+# Low expression of SLC22A1 is associated with a poor prognosis of hepatocellular carcinoma: analysis of 303 patients
+
+WANG Shutong,SHEN Shunli,HUA Yunpeng,CHENBin,KUANG Ming,LIShaoqiang,HE Qiang,ENG Baogang DepartmentofHepatic Surgery,irstAfliatedHospital,SunYat-senniversity,Guangzhou8,hina
+
+Abstract: Objective To evaluate the asociation between SLC22A1 expression and theoutcomes of hepatocellar carcinoma (HCC) patients. Methods A tissue microarray of $3 0 3 ~ \mathrm { H C C }$ and matched adjacent noncancerous liver tissues (ANLTs) were constructed.The expressionof SLC22A1was tested by immunohistochemistry (IHC)andscored bytwo pathologists according to a12-score sale (ascore>6wasdefinedashighexpressionandascore6aslowexpresion).ThecorrelationofSLCA1 expresion with the clinicopathological features andthe patients'outcome was analyzed.Results All theANLTs hadaIHC score of 12, as compared to only 29 $( 9 . 6 \% )$ ）of the HCC tissues. The patients were divided into 2 groups based on the IHC scores: $5 9 \%$ (180/303) in low expression group and $4 1 \%$ (123/303) in high expression group. The disease-free survival (DFS) rates and overall survival (OS)rates were significantly lower inlow SLC22A1 expresion group than in the high expression group. The $\scriptstyle 1 - , 3 - ,$ and 5-year DFS rates were $4 3 \%$ ， $3 1 \%$ and $2 7 \%$ in the low expresson group, and were $5 8 \%$ $4 7 \%$ and $4 3 \%$ in the high expression group, respectively. The $\mathsf { 1 - } , \mathsf { 3 - } ,$ and 5-year OS rates were $6 6 \%$ $3 8 \%$ and $3 2 \%$ in low expression group, and were $8 0 \%$ ， $5 7 \%$ and $5 0 \%$ in the high expression group, respectively. A low expression of SLC22A1 was positively correlated with the tumor diameter, BCLC stage, tumor differentiation, and AFP levels $_ { ( P < 0 . 0 5 ) }$ ，and was an independent predictor of poor overall survival ( $\mathrm { H R } { = } 1 . 4 5 4$ $9 5 \%$ CI, 1.050-2.013). Conclusion Down-regulation of SLC22A1 is a malignant feature and a potential prognostic marker of HCC.
+
+Key words: SLC22A1; hepatocellular carcinoma; immunohistochemistry; prognosis
+
+肝细胞癌(HCC)是全球第5大常见的癌症，是全球因癌症导致死亡的第2位原因[1]。 $5 0 \%$ 的原发性肝癌是由慢性HBV感染引起。在亚洲和非洲等HBV流行地区，高达 $90 \%$ 的感染者有HBV整合到宿主DNA的慢性过程。HBV的高水平复制意味着HBV感染者发生肝癌的风险进一步增加[2。这种整合过程可能导致宿主肝细胞的基因和蛋白表达发生改变，甚至产生肿瘤细胞。目前肝癌细胞与周围正常肝细胞之间的基因表达差异还不是很明确，为了深入了解肝癌与癌旁肝组织之间的分子差异，我们进行了基因芯片筛查，初步筛查出23对差异表达的基因。随后通过实时荧光定量聚合酶链反应(PCR)和Westernblot验证，我们发现SLC22A1在肝癌中显著低表达。
+
+SLC22A1,又称为有机阳离子转运体1(OCT1)。人类中编码SLC22A1的基因位于6q26,包含11个外显子和10个内含子。SLC22A1蛋白由544个氨基酸组成，其在肝细胞膜上大量表达，可转运各种内源性和外源性化合物，包括各种药物，毒物及内源性代谢产物等[3]。最近几年来SLC22A1与肿瘤关系的研究越来越多，Heise等4比较了53对欧洲肝癌患者的肿瘤组织和癌旁组织，发现SLC22A1的表达量与预后相关，SLC22A1低表达的患者预后较差，但在他们的研究中仅有9例 $( 1 7 . 0 \%$ )患者为乙肝病毒感染导致的肝癌。Schaeffeler等5在22例肝癌患者中证实SLC22A1蛋白的表达量与增殖标记物Ki-67的表达呈显著负相关。这提示SLC22A1的差异表达与肝癌的恶性程度可能相关，SLC22A1有可能成为一个重要的判断预后的标志物。我国肝癌的发病原因主要是乙型肝炎病毒感染，目前SLC22A1的表达量与我国肝癌患者预后是否相关尚未见报道。因此，本课题拟通过大样本的统计分析，明确SLC22A1的表达量与我国肝癌患者临床病理特征和预后的关系。
+
+# 1资料与方法
+
+# 1.1 组织标本来源及临床资料
+
+该研究遵循赫尔辛基宣言的原则，并经中山大学附属第一医院伦理委员批准。选取2003\~2006年在中山大学附属第一医院肝胆外科接受肝切除手术的患者。入选标准如下：(1)病理结果确诊为肝细胞癌的患者;(2)患者术前未进行经肝动脉化疗栓塞(TACE)或射频消融(RFA)；(3)可从病理科取得福尔马林石蜡包埋固定的组织;(4)随访时间为3个月以上。排除标准：患者既往曾患有其它恶性肿瘤。共纳入303例肝癌患者，制作肝癌及癌旁组织的组织芯片，进行免疫组化染色检测。中位年龄50岁（16\~89岁），平均随访时间为28个月（3\~86月），患者的临床病理资料如肿瘤分期，AFP水平，生存时间，组织学分级等信息是从我科前瞻性的数据库中检索获得，肝细胞癌的组织学分级按照Edmond-son分级标准，分期按照UICC的第6版TNM标准及巴塞罗那临床肝癌(BCLC)分期系统(表1)。总生存期定义为患者自手术之日起至随访截止日或者死亡之日间的总体时间，无瘤生存时间定义为患者自手术之日起至随访截止日(未复发)或者临床确诊肝癌复发之日的总体时间(单位：月)。
+
+# 1.2组织芯片构建和免疫组化染色
+
+根据HE染色玻片，选取相应的组织蜡块，癌旁组织定义为距肿瘤边缘 $2 \mathrm { c m }$ 以上的肝细胞组织(经病理证实切缘阴性)。选取一块无组织空白蜡块，先在空白蜡块上用组织芯片仪打出直径 $2 \mathrm { m m }$ ，深 $0 . 6 \mathrm { c m }$ 的孔，选取组织蜡块有代表性的位置并在供体蜡块上准确标记所需要的靶点，利用组织芯片仪钻取直径为 $2 ~ \mathrm { m m }$ 的靶点组织，并转移至受体蜡块相应的孔位上，制成所需组织芯片蜡块,对该蜡块进行连续切片，厚度为 $4 ~ \mathrm { m m }$ ，捞片，烤片，制成组织芯片数张；二甲苯脱腊，梯度酒精水化，高压抗原修复法修复抗原， $3 \%$ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 阻断内源性过氧化物酶,SLC22A1抗体(Abcam,ab118539)稀释浓度为(1:100),PBS代替一抗作为阴性对照;所有切片均由$4 \mathrm { { ^ circ C } }$ 冰箱中孵育过夜，DAB显色。
+
+表1入组HCC患者的临床特征 Tab.1 Clinical characteristics of patients with HCC   
+
+<html><body><table><tr><td></td><td>(n=303)</td></tr><tr><td>Gender (males female)</td><td>247/56</td></tr><tr><td>Age (year,median,range)</td><td>50 (16-89)</td></tr><tr><td>HBsAg (positive/negative)</td><td>274/29</td></tr><tr><td>Cirrhosis</td><td>242 (79.9%)</td></tr><tr><td>Child-Pugh class</td><td></td></tr><tr><td>A</td><td>269 (88.8%)</td></tr><tr><td>B</td><td>34 (11.2%)</td></tr><tr><td>C</td><td>0 (0%)</td></tr><tr><td>BCLC class</td><td></td></tr><tr><td>0</td><td>0 (0%)</td></tr><tr><td>A</td><td>25 (8.3%)</td></tr><tr><td>B</td><td>219 (72.3%)</td></tr><tr><td>C</td><td>59 (19.5%)</td></tr><tr><td>D</td><td>0 (0%)</td></tr><tr><td>Tumor size (cm) 0~3</td><td>25 (8.3%)</td></tr><tr><td>3.1~5</td><td>79 (26.1%)</td></tr><tr><td>0~3</td><td></td></tr><tr><td></td><td>>5 199 (65.7%)</td></tr><tr><td>Tumor envelope Intact</td><td>191 (63.0%)</td></tr><tr><td>Incomplete</td><td>112 (37.0%)</td></tr></table></body></html>
+
+BCLC (Barcelona Clinic Liver Cancer Staging).
+
+# 1.3量化评估免疫组化染色结果
+
+计算阳性细胞染色强度及所占比例。由两位病理科医生独立阅片评判计分，结果计分标准：(1)根据阳性细胞染色强度评分：无着色得0分，淡黄色得1分，棕黄色得2分，棕褐色得3分；(2)按照阳性细胞所占芯片内总细胞数的百分比计分： $< 1 0 \%$ 得0分， $10 \% { \sim } 2 5 \%$ 得1分， $2 6 \% { \sim } 5 0 \%$ 得2分， $5 1 \% \sim 7 5 \%$ 得3分， $> 7 5 \%$ 得4分；(3总分值 $\dot { \bf \Phi } = { \bf \Phi }$ 阳性细胞染色强度得分 $\times$ 阳性细胞所占比例，总分值范围为0\~12分，总分值 $> 6$ 分为SLC22A1高表达， ${ \leqslant } 6$ 分为低表达;采用Kaplan-Meier法来区分高低表达组之间的生存差异。此外,通过Cox回归分析进行多因素分析。
+
+# 2结果
+
+2.1SLC22A1在肝癌和癌旁组织中的表达差异
+
+我们对303例HCC和匹配的癌旁肝组织进行免疫组化染色评分，发现SLC22A1在正常和肝硬化肝组织中均高度表达。癌旁肝组织的最终得分均为最高分12,SLC22A1的表达在正常和肝硬化组织之间没有显著差别。与癌旁肝组织相比，SLC22A1在绝大多数肝癌中显著低表达(图1,2)，只有29例肿瘤组织 $( 9 . 6 \%$ 的评分为12。基于HCC的SLC22A1免疫组化评分，我们把303例患者分成2组：低表达组(组化评分 ${ \leqslant } 6$ )和高表达组(组化评分 ${ \cdot > } 6$ ）。SLC22A1在 $5 9 . 4 \% ( 1 8 0 / 3 0 3 )$ 的肝癌组织中显著低表达，在 $4 0 . 6 \% \left( 1 2 3 / 3 0 3 \right)$ 的肝癌组织中相对高表达。
+
+图1SLC22A1在肝癌和肿瘤周围肝组织的免疫组化染色 Fig.1 Immunohistochemical staining of SLC22A1 in HCC and tumor-surrounding liver tissues(IHC, Original magnification: $\times 5 0 _ { , } ^ { \cdot }$ .A:High expression of SLC22A1in normal liver;B:High expression of SLC22A1 in cirrhosis liver;C:Relative high expression of SLC22A1 in HCC; $D$ ：Low expression of SLC22A1 in HCC.   
+![](images/231fd64608d5cd54d3732a74aa629b55f83460571d865f41536f24ba7eca8107.jpg)  
+Bars, $0 . 5 \mathrm { m m }$
+
+![](images/6b5330a214ca7829cddf2c4af2932d9d54475a48cda99bbdbf055411e2bf2908.jpg)  
+图2SLC22A1在肝癌和肿瘤周围肝组织的免疫组化染色 Fig.2 Immunohistochemical staining of SLC22A1 in HCC and tumor-surrounding liver tissues(IHC, Original magnification: $\times$ 400).A: High expression of SLC22A1 in normal liver; B: High expression of SLC22A1 in cirrhosis liver;C:Relative high expression of SLC22A1 in HCC;D: Low expression of SLC22A1 in HCC.
+
+# 2.2SLC22A1的表达量与患者临床病理特征的关系
+
+我们分析了肝细胞癌中SLC22A1的表达量与患者临床病理特征之间的关系。发现SLC22A1的表达量与肝癌患者的巴塞罗那分期 $\scriptstyle ( P = 0 . 0 0 3 )$ ，肿瘤直径( $P =$ 0.004),Edmondson-Steiner病理分期( $\scriptstyle ( P = 0 . 0 4 3 )$ 和AFP水平 $\scriptstyle ( P = 0 . 0 0 7 )$ 相关。SLC22A1低表达的患者具有更高的巴塞罗那分期，更大的肿瘤直径,更差的Edmondson-Steiner分期及更高的AFP水平。SLC22A1的表达水平与患者年龄，性别，肝硬化，肿瘤包膜的完整性，肿瘤个数则无明显相关性（ $\mathrm { P { > } 0 . 0 5 }$ ，表2)。
+
+表2SLC22A1表达与肝癌患者临床病理变量之间的相关性 Tab.2 Correlation between SLC22A1 expression and clinicopathologic variables of HCC patients $( n { = } 3 0 3 )$   
+
+<html><body><table><tr><td rowspan="2">Variable</td><td colspan="3">Overall Survival (OS)</td><td rowspan="2">P</td></tr><tr><td>Median months</td><td>HR</td><td>95% CI</td></tr><tr><td>SLC22A1 (High vs low expression)</td><td>33 versus 12</td><td>1.454</td><td>1.050-2.013</td><td>0.024</td></tr><tr><td>Tumor size (≤5 cm vs >5 cm)</td><td>60 versus 19</td><td>2.180</td><td>1.500-3.160</td><td>0.001</td></tr><tr><td>Bleeding (≤1000 mL vs >1000 mL)</td><td>40 versus 11</td><td>1.610</td><td>1.140-2.290</td><td>0.007</td></tr><tr><td>AFP (≤200 μl/L vs >200 μl/L)</td><td>43 versus 21</td><td>1.591</td><td>1.163-2.177</td><td>0.004</td></tr><tr><td>Tumor number (Single vs Multiple)</td><td>48 versus 15</td><td>1.707</td><td>1.216-2.397</td><td>0.002</td></tr><tr><td>Envelope (Intact vs Incomplete)</td><td>47 versus 15</td><td>2.162</td><td>1.599-2.922</td><td><0.001</td></tr></table></body></html>
+
+2.3肝细胞癌中SLC22A1表达水平可预测患者的生存期
+
+Kaplan-Meier生存分析表明,SLC22A1低表达组的无瘤生存率(DFS)和总生存期率(OS)低于SLC22A1高表达组(图3)。低表达组的1,3,5年DFS分别为$4 3 . 3 \%$ $3 0 . 5 \%$ 和 $2 7 . 0 \%$ ;高表达组的1,3,5年DFS分别为 $5 8 . 0 \%$ 新 $4 7 . 3 \%$ 和 $4 2 . 5 \%$ ;低表达组的DFS显著低于高表达组的DFS( $\scriptstyle P = 0 . 0 0 7 .$ )。低表达组的1,3,5年OS分别为 $6 6 . 3 \% , 3 8 . 5 \%$ 和 $3 2 . 0 \%$ ；高表达组的1，3,5年OS分别为 $8 0 . 2 \% , 5 7 . 4 \%$ 和 $5 0 . 0 \%$ ;低表达组的总体生存率也显著低于高表达组 $\scriptstyle ( P = 0 . 0 0 3$ )。SLC22A1的表达水平与患者的生存密切相关。为了找到与术后总体生存相关的危险因素，我们对临床病理数据进行了多因素分析和Cox回归模型进行评估。多因素分析显示影响预后的因素有SLC22A1表达水平，肿瘤大小，术中出血量，AFP水平，肿瘤数目，包膜状态(表3)。
+
+![](images/42817de4383e08274fb322418429ca3ff2138dc8c5b381dc52843dff4f1991ea.jpg)  
+图3SLC22A1高表达组和低表达组的无瘤生存曲线(A)和总体生存曲线 $\left( B \right)$ (logrank检验) Fig.3Disease-free survival curves (A) and overall survival curves (B)of patients with high expressior of SLC22A1 and those with low expression of SLC22A1 (log rank test).
+
+# 3讨论
+
+Nishimura等人研究了ATP结合转运体家族和可溶性溶质转运体家族在人体中的表达，他们发现在肝脏中 SLC22A1的表达远高于其他转运体。他们比较了SLC22A1在全身不同组织中的表达，发现SLC22A1在肝脏中表达量最高，在其他组织器官中表达量很低。Martinez描述了上皮细胞来源的原发性肝脏恶性肿瘤（包括肝细胞癌，胆管细胞癌和肝母细胞瘤），发现SLC22A1的显著低表达是其共同特点。在本研究中，我们利用组织芯片技术对不同的肝癌患者进行统一的免疫组化染色和评分，产生一致的可对比的染色结果。我们的研究结果表明，所有癌旁组织不论有无肝硬化，其免疫组化评分均为12分，而绝大部分肝细胞癌的免疫组化评分小于12分。因此，我们认为高表达转运体SLC22A1是肝细胞特征性的功能之一，然而这个功能在绝大多数肝癌细胞中却减弱或消失了。
+
+蛋白的失调表达是人类肿瘤的一个共同特点。我们证实SLC22A1的低表达是肝癌的特征之一。有研究表明，SLC22A1的表达可以通过转录因子介导调控。SLC22A1的转录激活可以通过肝细胞核因子4a(HNF4a)结合到邻近基因的DNA反应元件介导[8]。肝细胞核因子1(HNF1)则可能是SLC22A1在人体肝脏中的比HNF4a更强的调节因素。Brien等[9人发现在人类肝脏组织中高HNF1表达与高SLC22A1的表达显著相关。SLC22A1也可通过表观遗传沉默进行调节。最近的一项研究指出，SLC22A1的DNA甲基化与人肝细胞癌中SLC22A1的下调表达相关[5]。SLC22A1在肝癌中下调表达的分子机制还需要进一步的研究。
+
+我们的研究结果显示，SLC22A1蛋白的显著低表达与较大的肿瘤直径 $( P { = } 0 . 0 0 4 )$ ，较差的分化（ $P =$ 0.043)，较高的AFP水平 $( P { = } 0 . 0 0 7 )$ )及更高的肿瘤分期密切相关。在303例肿瘤标本，多变量分析显示，
+
+表 $3 \mathrm { \ C o x }$ 比例风险模型多因素总体生存率分析 Tab.3 Multivariate overall survival analysis by Cox proportional hazards model   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="3">SLC22A1 expression</td><td rowspan="2"></td></tr><tr><td>Cases</td><td>High (n=123)</td><td>Low (n=180)</td></tr><tr><td>Age(year)</td><td></td><td></td><td></td><td></td></tr><tr><td>≤50</td><td>152</td><td>56 (36.8%)</td><td>96 (63.2%)</td><td></td></tr><tr><td>>50</td><td>151</td><td>67 (44.4%)</td><td>84 (55.6%)</td><td>0.182</td></tr><tr><td>Sex</td><td></td><td></td><td></td><td></td></tr><tr><td>Male</td><td>247</td><td>98 (39.7%)</td><td>149 (60.3%)</td><td></td></tr><tr><td>Female</td><td>56</td><td>25 (44.6%)</td><td>31 (55.4%)</td><td>0.494</td></tr><tr><td>Cirrhosis</td><td></td><td></td><td></td><td></td></tr><tr><td>Yes</td><td>242</td><td>97 (40.1%)</td><td>145 (59.9%)</td><td></td></tr><tr><td>No</td><td>61</td><td>26 (42.6%)</td><td>35 (57.4%)</td><td>0.718</td></tr><tr><td>Tumor envelop</td><td></td><td></td><td></td><td></td></tr><tr><td>Intact</td><td>191</td><td>75 (39.3%)</td><td>116 (60.7%)</td><td></td></tr><tr><td>incomplete</td><td>112</td><td>48 (42.9%)</td><td>64 (57.1%)</td><td>0.539</td></tr><tr><td>Tumor number</td><td></td><td></td><td></td><td></td></tr><tr><td>Single</td><td>201</td><td>77 (38.3%)</td><td>124 (61.7%)</td><td></td></tr><tr><td>multiple</td><td>102</td><td>46 (45.1%)</td><td>56 (54.9%)</td><td>0.255</td></tr><tr><td>BCLC staging</td><td></td><td></td><td></td><td></td></tr><tr><td>A</td><td>25</td><td>19 (76.0%)</td><td>6 (24.0%)</td><td></td></tr><tr><td>B</td><td>219</td><td>84 (38.4%)</td><td>135 (61.6%)</td><td></td></tr><tr><td>C</td><td>59</td><td>20 (33.9%)</td><td>39 (66.1%)</td><td>0.003</td></tr><tr><td>T-Classification</td><td></td><td></td><td></td><td></td></tr><tr><td>T1</td><td>79</td><td>44 (55.7%)</td><td>35 (44.3%)</td><td></td></tr><tr><td>T2</td><td>23</td><td>11 (47.8%)</td><td>12 (52.2%)</td><td></td></tr><tr><td>T3</td><td>172</td><td>64 (37.2%)</td><td>108 (62.8%)</td><td></td></tr><tr><td>T4</td><td>29</td><td>4 (13.8%)</td><td>25 (86.2%)</td><td>0.002</td></tr><tr><td>Tumor Diameter (cm)</td><td></td><td></td><td></td><td></td></tr><tr><td><5</td><td>104</td><td>54 (51.9%)</td><td>50 (48.1%)</td><td></td></tr><tr><td>≥5</td><td>199</td><td>69 (34.7%)</td><td>130 (65.3%)</td><td>0.004</td></tr><tr><td>Edmondson Grading</td><td></td><td></td><td></td><td></td></tr><tr><td>G1+G2</td><td>212</td><td>94 (44.3%)</td><td>118 (55.7%)</td><td></td></tr><tr><td>G3+G4</td><td>91</td><td>29 (31.9%)</td><td>62 (68.1%)</td><td>0.043</td></tr><tr><td>AFP (μg/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>>200</td><td>159</td><td>53 (33.3%)</td><td>106 (66.7%)</td><td></td></tr><tr><td><200</td><td>144</td><td>70 (48.6%)</td><td>74 (51.4%)</td><td>0.007</td></tr></table></body></html>
+
+SLC22A1低表达是不良预后的独立预测因子。低表达SLC22A1的HCC患者预后较差。这一结果与先前德国人报道的HCC患者中SLC22A1预后的意义相一致[4]。然而在他们的报道中，仅有 $1 7 . 0 \% ( 9 / 5 3$ 例)患者是乙肝肝癌患者。我们的研究中 $9 0 . 4 \%$ 患者都是乙肝肝癌患者，因此我们证实在乙型肝炎相关的HCC患者中，SLC22A1也具有重要的预后意义。
+
+SLC22A1在人类肝脏中大量表达，在药物的吸收和代谢过程中发挥重要作用。由于许多药物本身都是有机阳离子，所以SLC22A1具有显著的临床药理意义[0]。很多抗癌药是由SLC22A1进行转运，SLC22A1低表达会影响这些药物的输送，这可能也是肝癌的化疗抵抗的原因之一。索拉非尼是一种新的有效的化学治疗药物，其已被批准用于HCC患者的治疗，也是唯一一个能够改善HCC患者总体生存的药物[1]。索拉非尼是几个酪氨酸蛋白激酶的抑制剂，如VEGFR，PDGFR和Raf激酶,参与阻断肿瘤进展和血管生成中的关键分子信号通路。最近有研究证明,SLC22A1在蛙卵母细胞中的表达可诱导增强其对索拉非尼的摄取。此外，转染SLC22A1的肝癌细胞，对索拉菲尼具有更高的敏感性[12]。Herraez等[13]人报道SLC22A1的低表达会影响索拉菲尼进入肝癌细胞内的浓度。肝癌切除术后常出现肝内复发转移，许多复发的患者会接受索拉非尼治疗或肝动脉化疗栓塞(TACE)。我们的结果表明，SLC22A1高表达组的总体生存率更高，我们推测这可能与高表达SLC22A1的肝癌对化疗药物和索拉菲尼更加敏感有关。在慢性粒细胞白血病的治疗过程中，SLC22A1的表达水平已被认为是一个有用的可预测伊马替尼治疗效果的生物标志物[14]。SLC22A1的表达水平在药物转运中发挥重要作用，所以在肝癌中对SLC22A1的表达水平进行检测很有必要，SLC22A1的表达与索拉菲尼治疗效果的关系也是我们未来的一个研究方向。将来随着研究的深入进行，SLC22A1的表达水平可作为个体化用药的重要参考。
+
+免疫组化已被广泛地用于鉴别诊断良恶性肿瘤，我们的研究结果表明，SLC22A1高表达于非肿瘤肝组织或肝硬化的肝组织,并且SLC22A1在绝大部分HCC中低表达。因此，SLC22A1有一定的鉴别诊断价值，可辅助鉴别诊断肝脏良恶性结节，特别是对那些分化良好的肿瘤或活检标本。
+
+综上所述，SLC22A1高表达于正常或肝硬化的肝组织,SLC22A1低表达是HCC的一个共同特征，这也是肝癌细胞丧失正常肝功能的一个显著特征。SLC22A1低表达组的患者比SLC22A1高表达组患者的肿瘤分化更差，肿瘤直径更大，恶性程度更高，AFP表达水平也较高，且术后易复发，预后较差。这些结果提示我们SLC22A1的丢失可能在肝细胞癌的发生发展过程中扮演一定的角色，SLC22A1的表达量可以作为肝癌患者分组和肝癌治疗策略选择的决定因素之一。
+
+# 参考文献：
+
+[1]Jemal A,Bray F,Center MM,et al. Global cancer statistics[J].CA Cancer JClin,2011,61(2): 69-90.   
+[2]Chen CJ, Yang HI, Iloej UH, et al. Hepatitis B virus DNA levels and outcomes in chronic hepatitis B[J].Hepatology，2009,49(5,S): S72-84.   
+[3]Grindemann D, Schömig E.Gene structures of the human nonneuronal monoamine transporters EMT and OCT2[J].Hum Genet, 2000,106(6): 627-35.   
+[4] Heise M, Lautem A,Knapstein J,et al. Downregulation of organic cation transporters OCT1(SLC22A1）and OCT3(SLC22A3） in human hepatocellular carcinoma and their prognostic significance [J].BMC Cancer, 2012,12(6): 109.   
+[5]Schaeffeler E,Hellerbrand C,Nies AT, et al. DNA methylation is associated with downregulation of the organic cation transporter OCT1(SLC22A1) in human hepatocellular carcinoma[J]. Genome Med,2011,3(12): 82.   
+[6] Nishimura M, Naito S. Tissue-specific mRNA expression profiles of human ATP-binding cassette and solute carrier transporter superfamilies[J].Drug Metab Pharmacokinet, 2005,20(6): 452-77.   
+[7]Martinez-Becerra P, Vaquero J,Romero MR,et al. No correlation between the expression of FXR and genes involved in multidrug resistance phenotype of primary liver tumors[J]. Mol Pharm, 2012, 9(6): 1693-704.   
+[8]Saborowski M, Kulak-Ublick GA,Eloranta J Human OCT1 gene is transactivated by HNF4A[J].Pharmacol Exp Ther, 2006,317(2): 778-85.   
+[9]O'brien VP,Bokelmann K,Ramirez J,et al. Hepatocyte nuclear factor1 regulates the expression of the organic cation transporter 1 via binding to an evolutionary conserved region in intron 1 of the OCT1 gene[J].JPharmacol Exp Ther,2013,347(1): 181-92.   
+[10]Giacomini KM,Huang SM,Tweedie DJ,et al. Membrane transporters in drug development[J]. Nat Rev Drug Discov, 2010,9 (3): 215-36.   
+[11]Bruix J,Raoul JL,Sherman M,et al. Efficacy and safety of sorafenib in patientswith advanced hepatocellular carcinoma: subanalyses of a phase II trial[J]. JHepatol,2012,57(4): 821-9.   
+[12]Wilhelm SM, Carter C, Tang L,et al.BAY 43-9006 exhibits broad spectrum oral antitumor activity and targets the RAF/MEK/ERK pathwayand receptortyrosine kinasesinvolved intumor progression and angiogenesis [J]. Cancer Res，2004，64(19): 7099-109.   
+[13]Herraez E,Lozano E,Macias RI, et al. Expression of SLC22A1 variants May affect the response of hepatocellular carcinoma and cholangiocarcinoma to sorafenib [J].Hepatology，2013，58(3): 1065-73.   
+[14]Nardinelli L，Sanabani SS,Didone A,et al.Pretherapeutic expression of the hOCT1 gene predicts a complete molecular response to imatinib mesylate in chronic-phase chronic myeloid leukemia[J].Acta Haematol,2012,127(4): 228-34.
+
+(编辑：孙昌朋)

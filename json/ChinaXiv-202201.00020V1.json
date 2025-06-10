@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "Estimation of rock Fe content based on hyperspectral indices ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Jinlin1,2.3,4, WANG Wei1,2.34\\*, CHENG Yinyi1,2.3.4, ZHANG Zhixin1,2.3.4, WANG Shanshan23.4,ZHOU Kefa123.4,LIPingheng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyLaboratoryofDesertandOasisEcology,XinjiangInstituteofEcologyandGeography,ChineseAcademyof Sciences,Urumqi30oii,ina; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "² Xinjiang Key Laboratory of Mineral Resources and Digital Geology, Urumqi 830011,China;   \n3 Xinjiang Research Centre for Mineral Resources, Chinese Academy of Sciences, Urumqi 830011, China;   \n4 University of Chinese Academy of Sciences,Beijing 100049, China;   \n5 Zhejiang A& F University, Hangzhou 311300,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Information on the Fe content of bare rocks is needed for implementing geochemical processes and identifying mines.However,the influence of Fe content on the spectra of bare rocks has not been thoroughly analyzed in previous studies.The Saur Mountain region within the Hoboksar of the Russell Hill depression was selected as the study area. Specifically we analyzed six hyperspectral indices related to rock Fe content based on laboratory measurements (Dataset I) and field measurements (Dataset I). In situ field measurements were acquired to verify the laboratory measurements.Fe content of the rock samples collcted from different fresh and weathered rock surfaces were divided into six levels to reveal the spatial distributions of Fe content of these samples.In addition, we clearly displayed wavelengths with obvious characteristics by analyzing the spectra of these samples. The results of this work indicated that Fe content estimation models based on the fresh rock surface measurements in the laboratory can be applied to in situ field or satelite-based measurements of Fe content of the weathered rock surfaces.It is not the best way to use only the single wavelengths reflectance at allabsorption wavelengths or the depth of these absorption features to estimate Fe content. Based on sample data analysis,the comparison with other indices revealed that the performance of the modified normalized difference index is the best indicator for estimating rock Fe content,with $R ^ { 2 }$ values of O.45 and O.4O corresponding to datasets I and II, respectively.Hence,the modified normalized difference index (the wavelengths of 220,2290,and 2370 nm) identified in this study could contribute considerably to improve the identification accuracy of rock Fe content in the bare rock areas.The method proposed in this study can obviously provide an efficient solution for large-scale rock Fe content measurements in the field. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:barerocks;Fecontent; reflectance;spectral indices; modifiednormalizeddiference index;Saur Mountain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Iron (Fe) minerals in rocks play a pivotal role in geochemical investigations; for this reason, it is necessary to monitor Fe content of rocks in extensive areas (Baugh et al., 1998; Velasco et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2005；Li et al.，2009；Liu et al.， 2010； Simandl and Paradis,2018). Conventionally， local measurements are an important means for determining Fe content of rocks,and extrapolating the measured value from each sampling point is helpful for deriving maps of rock Fe content (Liu et al.,2016). Application of remote sensing technology to obtain the feature information of rocks has the advantages of wide coverage and fast speed (Hao et al.,2O19; Zeraatpisheh et al., 2019). Furthermore，some scholars have emphasized that the optical domain can be used for such researches (Galvao et al.,2008; Middleton et al., 2011; Nair and Mathew, 2012; Metelka et al., 2015;Qian et al.， 2019). Accordingly, the retrieval of hyperspectral images provides a new approach for extracting surface information (Clark and Roush，1984；van der Meer, 2018). However, classic remote sensing instruments (such as the ASTER and Landsat platforms) cannot effectively retrieve surface characteristics of rocks because it is difcult to analyze their diagnostic spectral characteristics within the wavelengths of $1 0 0 { - } 2 0 0 ~ \\mathrm { n m }$ bands(Clark and Roush, 1984;Wu et al.,1997; Liu and Vekerdy, 2003). In contrast, hyperspectral indices,e.g.,leaf area index (LAI),chlorophyll concentration, and other plant pigments (Rathod et al.，2016),plant water content (Pour et al.,2019), soil moisture (Sarathjith et al.,2016),and soil salinity (Jia et al., 2021)，exhibit very good performance at acquiring information on vegetation and soil characteristics.Nevertheless,although some scholars have employed hyperspectral technology to quantitatively determine the contents of rock elements,few have leveraged this potential well (Sracek et al., 2004; Gasmi et al., 2018). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rock reflectance has been shown to be afected by Fe content in the wavelengths of 2000-2500 nm.Although some studies have indicated that the general trend of rock spectral reflectance changes with variation in rock Fe content, some other results suggested that rock Fe content can be precisely estimated by hyperspectral data (Clenet et al., 2011). However, this theory is not yet fully understood with regard to the estimation of bare rock element contents,and this method has a strong innovation in remote sensing application. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Due to the differences of Fe content in different rock types,spectral absorption should be fully considered in the estimation of rock Fe content (Clark et al., 2003;Wang et al., 2019). Rocks are composed of many different materials containing various kinds of minerals. Hence, the reflectivity of rocks depends on the inherent scattering and absorption characteristics of the components and arrangement of rocks; consequently, the influence of rock Fe content on the reflectance spectrum cannot be accurately described (Chabrillat et al.,2O02). This study is one of the first to evaluate Fe content of rocks using hyperspectral data. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The main purposes of this study were: (1) to explore both the variations in rock Fe content in the field and the changes in the spectral reflectance at six wavelength levels; (2） to identify hyperspectral indices of rock Fe content that are insensitive to other rock components; and (3) to develop a method for estimating Fe content in the field using an optimized Fe content hyperspectral index. To achieve these goals, we conducted field surveys as experiments,obtained spectral data by collecting bare rock samples and analyzing Fe content in the laboratory, and measured and analyzed the spectra characteristics of the samples. The results are of great practical significance for the determination of rock Fe content. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study area is located in the Saur Mountain region within the Hoboksar of the Russell Hill depression $( 4 6 ^ { \\circ } 2 5 ^ { \\prime } – 4 6 ^ { \\circ } 5 2 ^ { \\prime } \\mathrm { N }$ ， $8 5 ^ { \\circ } 0 0 ^ { \\prime } - 8 6 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { E } )$ ). This area has a continental climate,with wide temperature range and sparse vegetation coverage. There are a large number of exposed rocks at the selected sampling points.The study area contains evidence of coal, copper, siderite, magnetite, limonite, titanium magnetite, chromite, pyrite, fluorite,clays,and other minerals in a total of 40 useful deposits,and five diffusion halos are discovered comprising numerous beneficial minerals (elements), including zircon,hafnium zircon, chromium, nickel, and cobalt. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Reflectance measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Both weathered surfaces and fresh surfaces were used for reflectance measurements. Reflectance spectra were measured in situ for each sample using an Analytical Spectral Device (ASD) FieldSpec FR spectrometer (American Analytical Spectral Instruments Company, Tucson, USA), covering wavelengths from 350 to $2 5 0 0 \\mathrm { n m }$ at an interval of $1 \\mathrm { n m }$ . The key sampling area was determined in combination with remote sensing images and geological data. A total of 313 rock (81 samples) and mineral (232 samples) samples were collected. The rock reflectance spectra were measured in situ within the period from 10:00 to 14:00 (LST) during 3 August-21 September in 2019 under cloud-free conditions with a $2 5 ^ { \\circ }$ fiber optic.In each measurement, the radiance and reflectance were converted using the \"reflectance spectrum\" function on the panel. These in situ field reflectance data were denoted as Dataset II. All spectral measurements were conducted in a completely dark room to avoid contamination by other light sources.This laboratory reflectance data were denoted as Dataset I. We further divided the laboratory and field sample data according to the degree of weathering. Specifically， Reflectance-Laboratory-Old refers to the weathered surface in the laboratory, Reflectance-Laboratory-New refers to the fresh surface in the laboratory,Reflectance-Field-Old refers to the weathered surface in the field,and Reflectance-Field-New refers to the field fresh surface. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After acquiring the field spectral measurements,the rock samples were transported to the laboratory; then, the surface reflectance of each rock sample was again measured using the ASD FieldSpec FR spectrometer. A tungsten quartz halogen filament lamp was used to illuminate the rock samples from $5 0 \\mathrm { c m }$ away,and the beam was oriented $3 0 ^ { \\circ }$ from the vertical. The reflected light was collected perpendicular to the sample with a $5 ^ { \\circ }$ field of view at a distance of $1 0 \\ \\mathrm { c m }$ . We carried out measurement experiments in a completely dark laboratory to avoid the efects of other light sources.Based on the results of 81 rock samples， we classified Fe content into six levels: $0 . 0 0 \\% { - 1 . 0 0 \\% }$ (Level 1), $1 . 0 0 \\% { - 2 . 0 0 \\% }$ (Level 2), $2 . 0 0 \\% - 3 . 0 0 \\%$ (Level 3), $3 . 0 0 \\% { - 4 . 0 0 \\% }$ (Level 4), $4 . 0 0 \\% - 5 . 0 0 \\%$ (Level 5), and ${ > } 5 . 0 0 \\%$ (Level 6). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Continuum removal analysis ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To analyze the effects of Fe content on rock reflectance,we clearly displayed the absorption characteristics in the rock reflection spectrum by optimizing the continuous measurement spectrum (Clark and Roush,1984). This method was the first to recommend employing a continuum removal analysis to distinguish individual absorption features of interest. The continuum is a convex \"hull\" fitted to the straight-line segments at the top of the spectrum. These spectral segments are connected to the local spectral maximum and represent the \"background\" absorption. The other absorption features are then superimposed on the background.The continuum can be removed by dividing the reflectance value of each point in the absorption feature using the reflectance level along the convex hull at the corresponding wavelength. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4 Calculation and determination of the best spectral index ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This research employed six spectral indices to quantify Fe content, as described in Table 1. First, according to datasets from the field experiment, we performed correlation analysis to screen the combined wavelengths to determine the best wavelength for each index,and then applied Dataset II to verify the results of the previous step to determine the optimal index category and the most suitable wavelength. The screening step was $5 \\ \\mathrm { n m }$ ，and the indices were calculated for each combination. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Correspondingly, linear and multiple regresson analysis methods can be used to determine the relationship between rock Fe content and reflectivity,and thus predict rock Fe content. In this study, the model used to estimate Fe content was verified from the aspects of stability and prediction capacity. Stability was tested with the adjusted coefficient of determination $( R ^ { 2 } )$ while prediction capacity was judged with the root-mean-square error (RMSE). $R ^ { 2 }$ and RMSE indicate the effect of the model. The higher the $R ^ { 2 }$ value is,the higher the stability of the model; the smaller the RMSE value is,the higher the accuracy of the model. In addition, the relative RMSE (average of the RMSE of Fe content; $\\%$ ） was used to evaluate the accuracy of the regression model. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d18ab9212e7ae260eee8d79a27433055164e24169802bba723f918fb9c94af7.jpg",
+        "table_caption": [
+            "Table1 Descriptions of the generic types of indices "
+        ],
+        "table_footnote": [
+            "Note: $\\rho$ refers to the reflectance value in the experiment; λ1,λ2,and λ3 represent wavelengths. "
+        ],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Definition</td><td>Formula</td><td>Reference</td></tr><tr><td>R</td><td>Reflectance</td><td>P^1</td><td></td></tr><tr><td>D</td><td>Reflectance difference index</td><td>px1-p22</td><td>Le Maire et al. (2004)</td></tr><tr><td>SR</td><td>Simple ratio</td><td>px2/px1</td><td>Le Maire et al. (2008)</td></tr><tr><td>ND</td><td>Normalized difference index</td><td>(px1-pχ2)/(p1+px2)</td><td>Wang et al. (2011)</td></tr><tr><td>mSR</td><td>Modified simple ratio</td><td>(px1-Pχ2)/(pχ1+pχ2-2p3)</td><td>Sims and Gamon (2002)</td></tr><tr><td>mND</td><td>Modified normalized difference index</td><td>(px1-p3)/(pχ2-Pλ3)</td><td>Sims and Gamon (2002)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 1 - \\sum _ { j = 1 } ^ { n } \\bigl ( y _ { j } ^ { \\prime } - \\overline { { y } } \\bigr ) ^ { 2 } - \\sum _ { j = 1 } ^ { n } \\bigl ( y _ { j } - \\overline { { y } } \\bigr ) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M S E } = \\sqrt { \\sum _ { j = 1 } ^ { n } \\left( y _ { j } ^ { \\prime } - y _ { j } \\right) ^ { 2 } / n } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $y _ { j } ^ { \\prime }$ is the estimated value; $\\overline { { y } }$ is the mean value of $y ; y _ { j }$ is the independent reference measurement; and $n$ is the number of samples. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Variation in Fe content of rock samples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fe content of 81 rock samples varied greatly, ranging from $0 . 2 4 \\%$ to $8 . 3 7 \\%$ ，with an average of $2 . 2 6 \\%$ and a standard deviation of $1 . 6 2 \\%$ . As mentioned earlier, we divided Fe content into six levels: $0 . 0 0 \\% { - 1 . 0 0 \\% }$ (Level 1), $1 . 0 0 \\% { - 2 . 0 0 \\% }$ (Level 2), $2 . 0 0 \\% - 3 . 0 0 \\%$ (Level 3), $3 . 0 0 \\% { - 4 . 0 0 \\% }$ (Level 4), $4 . 0 0 \\% - 5 . 0 0 \\%$ (Level 5),and ${ > } 5 . 0 0 \\%$ (Level 6).As can be seen from Figure la,Fe content of 81 rock samples can be categorized into three plots. Rock Fe content exhibited broad spatial variability,especially in Plot 1. As shown in Figure la, the samples in Plot 1 were concentrated,but Fe content of these samples varied from Level 1 to Level 6.In addition, for Plot 2 and Plot 3,Fe content of the samples was also relatively concentrated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Level 2 had the largest number of samples,followed by levels 1 and 3,while levels 4-6 contained the fewest samples (Fig. Ib). As shown in Figure 1b, all of the rock samples in Plot 3 belonged to the levels 1-3, except for one sample belonging to Level 5,while a total of 15 samples in Plot 1 and Plot 2 belonged to the levels 4-6. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2Spectral properties of rock samples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For all four reflectance groups (the reflectance of fresh and weathered rock surfaces was measured in the laboratory and in the field),the measured average spectra of all81 rock samples displayed similar characteristics,with obvious shoulder peaks at $8 0 0 \\ \\mathrm { n m }$ wavelength and obvious absorption characteristics at wavelengths of 1400,1900,2250,and $2 3 5 0 ~ \\mathrm { n m }$ (Fig. 2). The depth and width characteristics of the absorption wavelengths at 19oo and $2 3 5 0 \\ \\mathrm { n m }$ were more obvious than those of the other two wavelengths（14oo and $2 2 5 0 ~ \\mathrm { n m }$ ). The absorption characteristics at wavelengths of 20o0 and $2 0 5 0 \\ \\mathrm { n m }$ measured in the field were clearly weaker than those measured in the laboratory. Moreover, the reflectance values measured in the field were larger than those obtained in the laboratory for both fresh and weathered rock surfaces. By comparing the spectra between the fresh and weathered rock surfaces,it was found that they exhibited almost identical reflectance data at wavelengths of $3 5 0 \\mathrm { - } 1 0 0 0 ~ \\mathrm { \\ n m }$ ，and the fresh rock surfaces had larger reflectance values than the weathered rock surfaces at wavelengths of $1 0 0 0 { - } 2 5 0 0 \\ \\mathrm { n m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/818f205c18de4e84a5c5f884f1d26a586f3b3c2bcaf30308fb39e1c5a32449ab.jpg",
+        "img_caption": [
+            "Fig.1Fe content of 81 rock samples.(a),spatial variationofFe content of 81 rock samples for the three plots; (b),number of samples in each level.Plot1,Plot 2,and Plot 3represent the spatial aggregation distribution of 81 rock samples. Level 1, $0 . 0 0 \\% { - 1 . 0 0 \\% }$ ; Level 2, $1 . 0 0 \\% { - 2 . 0 0 \\% }$ ; Level 3, $2 . 0 0 \\% - 3 . 0 0 \\%$ ； Level 4, $3 . 0 0 \\% { - 4 . 0 0 \\% }$ ， Level 5, $4 . 0 0 \\% - 5 . 0 0 \\%$ ; Level $6 , > 5 . 0 0 \\%$ · "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When the rock Fe content was divided into six levels, the spectra also varied among these levels,especially the absorption features at wavelengths of approximately 2250 and $2 3 5 0 \\ \\mathrm { n m }$ (Fig. 1). The depths of the absorption features at these two wavelengths increased when Fe content increased, especially in the Level 6.After utilizing the continuum removal method, the characteristics became more obvious. The amplitude of the absorption feature at the wavelength of approximately $2 2 5 0 ~ \\mathrm { n m }$ was small, while that of the absorption feature at the wavelength of approximately $2 3 5 0 ~ \\mathrm { { \\ n m } }$ was much larger. The relative depth difference of the absorption characteristics between Level 1 and Level 2 was small near $2 3 5 0 ~ \\mathrm { n m }$ ，while the depths of the absorption characteristics in the levels 3-5 were more obvious.Further,Level 6 had the greatest depth of the absorption characteristics (approximately twice as deep as the other depths) at this absorption wavelength. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3Spectral properties of rock samples ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the validation of Dataset II based on Dataset I through the reflection wavelength with the highest $R ^ { 2 }$ and the lowest RMSE. Values of $R ^ { 2 }$ and RMSE for the two datasets were verified,and the model for predicting Fe content was calibrated using Dataset I(Table 2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fef91734144d10f419ed754584b8fe372431605ea496d1ab5ce96d2ae502ba3.jpg",
+        "img_caption": [
+            "Fig.2Reflectance properties of rock samples. (a), mean reflectance of the four groups,including ReflectanceLaboratory-Old，Reflectance-Laboratory-New,Reflectance-Field-Old,and Reflectance-Field-New;(b)，mean reflectance of the six Fecontent levels; (c),continuum removal reflectance of the six Fe content levels within the wavelengths of $2 1 0 0 { - } 2 5 0 0 \\ \\mathrm { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the fresh rock surfaces,the reflectance index at $2 2 1 0 ~ \\mathrm { n m }$ exhibited the lowest $R ^ { 2 }$ (0.05) and the highest RMSE (1.64) based on both datasets (Table 2） by comparing the six indices. For Dataset I, the performance of the reflectance difference index was moderate (the best wavelengths of $2 2 2 0 { - } 2 2 4 0 \\ \\mathrm { n m }$ ， $R ^ { 2 } { = } 0 . 2 9$ ，and $\\mathrm { R M S E } { = } 1 . 4 7$ ),but for Dataset II, its performance was slightly lower $( R ^ { 2 } { = } 0 . 2 5$ and $\\mathrm { R M S E } { = } 1 . 5 5$ ). Through experimental calculations and analysis， the performance of the best normalized difference index at 2250 and $2 3 5 0 \\mathrm { n m }$ was relatively excellent 号 $( R ^ { 2 } { = } 0 . 4 1$ and $R ^ { 2 } { = } 0 . 3 8$ for datasets I and II, respectively). The performance of the best simple ratio index was similar to that of the best normalized difference index, with the same wavelengths and only slightly lower accuracy $R ^ { 2 } { = } 0 . 4 0$ and $R ^ { 2 } { = } 0 . 3 7$ for datasets I and II, respectively). Modified normalized difference index (the wavelengths of 2220,2290,and $2 3 7 0 \\ \\mathrm { n m } )$ ）performed best among the six indices,with $R ^ { 2 }$ values of 0.45 and 0.39 and RMSE values of 1.24 and 1.34 for datasets I and I, respectively. The best modified simple ratio index yielded a similar result to the best modified normalized difference index,with three wavelengths at 2210,2250,and $2 3 6 0 ~ \\mathrm { n m }$ although the accuracy was slightly lower ( $R ^ { 2 } { = } 0 . 4 2$ and RMSE $! = 1 . 2 6$ for Dataset Iand $R ^ { 2 } { = } 0 . 3 8$ and $\\mathrm { R M S E } { = } 1 . 3 7$ for Dataset II). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Measurements of the weathered rock surfaces were consistent with those of the fresh rock surfaces for all six indices (Table 2).The best indicator for the weathered rock surfaces was modified normalized difference index,with $R ^ { 2 }$ value of 0.40 and RMSE value of 1.26 for dataset I; however, for Dataset II, its performance was slightly reduced, with $R ^ { 2 }$ value of 0.38 and RMSE value of 1.37.This index had the same wavelengths for the weathered rock surfaces as that for the fresh rock surface measurements,and the accuracy was similar, albeit just slightly lower than the wavelengths of the fresh rock surface counterpart. However, it is worth noting that the regression coefficient was unstable and its range varied between the fresh and weathered rock surfaces. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the experiment of estimating rock Fe content, the determined index was used in the exponential regression equation.We used the estimated Fe content and the measured data to construct the scatter plots,as shown in Figure 3.It can be seen that most of the data points were distributed along the 1:1 line, which suggested that this index had good performance for both field and laboratory measurements. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/90b4061aa19a20b1381fb7cc22458226b59a96f5d6b717e276cefad6745721e3.jpg",
+        "table_caption": [
+            "Table 2Results of the general types of indices calibrated with the Dataset Iand validated to the Dataset I for the estimation of rock Fe content "
+        ],
+        "table_footnote": [
+            "Note:“-”,no data;\\*，significance level at $P { < } 0 . 0 5$ .Dataset I, laboratory measurements; Dataset II,in situ field measurements. $R ^ { 2 }$ coefficient ofdetermination;RMSE,root-mean-squared eror,Relative RMSE,relative root mean-squared error. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Ropk</td><td rowspan=\"2\">Index</td><td colspan=\"3\">Wavelength (nm)</td><td colspan=\"3\">Fe=ea+bxindex</td><td colspan=\"3\">Dataset I</td><td colspan=\"3\">Dataset II</td></tr><tr><td>λ1</td><td>22</td><td>23</td><td>a</td><td>b</td><td>R²</td><td>RMSE</td><td>RMSE (%)</td><td>R²</td><td>RMSE</td><td>RMSE (%)</td></tr><tr><td rowspan=\"8\">Weather rock surface</td><td>R</td><td>2210</td><td></td><td></td><td>0.43</td><td>0.01</td><td>0.03</td><td>1.64</td><td>72.57</td><td>0.05</td><td>1.63</td><td>72.13</td></tr><tr><td>D</td><td>2220</td><td>2240</td><td></td><td>0.48</td><td>0.24</td><td>0.30*</td><td>1.42</td><td>62.84</td><td>0.25*</td><td>1.54</td><td>68.15</td></tr><tr><td>SR</td><td>2220</td><td>2250</td><td></td><td>3.64</td><td>4.06</td><td>0.35*</td><td>1.30</td><td>57.53</td><td>0.32*</td><td>1.43</td><td>63.28</td></tr><tr><td>ND</td><td>2220</td><td>2250</td><td></td><td>0.35</td><td>6.86</td><td>0.36*</td><td>1.31</td><td>57.97</td><td>0.33*</td><td>1.43</td><td>63.28</td></tr><tr><td>mSR</td><td>2210</td><td>2250</td><td>2360</td><td>0.47</td><td>2.20</td><td>0.38*</td><td>1.27</td><td>56.20</td><td>0.34*</td><td>1.39</td><td>61.51</td></tr><tr><td>mND</td><td>2220</td><td>2290</td><td>2370</td><td>0.21</td><td>0.79</td><td>0.40*</td><td>1.26</td><td>55.76</td><td>0.38*</td><td>1.37</td><td>60.62</td></tr><tr><td>R</td><td>2210</td><td></td><td></td><td>0.51</td><td>0.01</td><td>0.05</td><td>1.64</td><td>72.57</td><td>0.06</td><td>1.63</td><td>72.13</td></tr><tr><td>D</td><td>2220</td><td>2240</td><td></td><td>0.68</td><td>0.27</td><td>0.29*</td><td>1.47</td><td>65.05</td><td>0.25*</td><td>1.55</td><td>68.59</td></tr><tr><td rowspan=\"4\">Fresh rock surface</td><td>SR</td><td>2220</td><td>2250</td><td></td><td>4.55</td><td>5.07</td><td>0.40*</td><td>1.30</td><td>57.53</td><td>0.37*</td><td>1.36</td><td>60.18</td></tr><tr><td>ND</td><td>2220</td><td>2250</td><td>，</td><td>0.64</td><td>7.24</td><td>0.41*</td><td>1.30</td><td>57.53</td><td>0.38*</td><td>1.32</td><td>58.41</td></tr><tr><td>mSR</td><td>2210</td><td>2250</td><td>2360</td><td>0.54</td><td>2.16</td><td>0.42*</td><td>1.26</td><td>55.76</td><td>0.38*</td><td>1.37</td><td>60.62</td></tr><tr><td>mND</td><td>2220</td><td>2290</td><td>2370</td><td>0.34</td><td>0.62</td><td>0.45*</td><td>1.24</td><td>54.87</td><td>0.39*</td><td>1.34</td><td>59.30</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Spectral properties of rock samples ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although there are many high-quality optical remote sensing instruments in orbit, few scientific investigations were conducted using different wavebands (including visible light, far-near infrared,and/or hyperspectral instruments) to accurately estimate the mineral (element) contents in rocks, including Fe content. This is because electromagnetic waves cannot completely penetrate clouds and vegetation canopy and are further affected by atmospheric factors. The factors influencing the measurements of rock reflectivity include not only Fe content but also contents of other elements in rocks,the physical structure of rocks,and the observation conditions and methods.Due to these reasons, the observations of Fe content in mixed rock samples are biased.In this research,the conditions of the natural arid environment of western China, including the measurable bare rocks, sparse vegetation,and relatively cloudless skies,are all conducive to calculate Fe content of rocks in the study area. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0a4fea8606499fb124f088423800b03a1034b779a76ebaf5cc4fb61c54c4328.jpg",
+        "img_caption": [
+            "Fig.3Comparison between the measured and estimated Fe contents based on the modified normalized difference index.(a),fresh rock surfaceswith laboratory reflectance；(b),fresh rock surfaces with field reflectance; (c), weathered rock surfaces with laboratory reflectance; (d),weathered rock surfaces with field reflectance. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results of rock measurements by previous researchers in different environments have shown that Fe ions have major absorption features at wavelengths of 2260 and $2 3 5 0 ~ \\mathrm { n m }$ (van der Meer et al.,2O14). It has also been found that the depth of these absorption features increases with increasing rock Fe content (van der Meer et al., 2O14)，which is consistent with the results reported in this study. Specifically, as shown in Figure 2, when Fe content level increased, the depth of the absorption features at wavelengths of 2260 and $2 3 5 0 ~ \\mathrm { n m }$ increased monotonically. However, when using only the single-band reflectance at these absorption wavelengths or the depth of these absorption features to estimate Fe content, the result was not ideal. This may be because the effect of Fe content on rock reflectance is weak，nonlinear,and complicated. Furthermore, this effect is influenced by interference due to other elements,such as magnesium (Rowan et al., 2Oo4). Therefore, rock Fe content must be identified from hyperspectral indices that are insensitive to other factors. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Hyperspectral indices to estimate rockFe content ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Due to differences in applications, some multispectral indices are designed to be insensitive to changes in some spectra. For example, the reflectance difference index is not sensitive to the cumulative change in reflectance, while the simple ratio and normalized difference index are not sensitive to the proportional effect. Additionally， the modified simple ratio and modified normalized difference index are insensitive to both additive and proportional effects (Le Maire et al.，2008). Referring to Dataset I, the result indicates that the performance of the modified normalized difference index and modified simple ratio is beter than that of the simple ratio, normalized difference,and reflectance diference index,and the index efficiency considering both the additive effect and the proportional effect will be beter than the index efficiency considering only one effect. The same is true for the Dataset II. The results obviously demonstrate that more complex indices,such as the modified simple ratio and modified normalized difference index,are better than the other simple indices, which may be because the indices using three wavelengths containing more information and thus are more sensitive to other rock properties than those using two wavelengths. Therefore, these higher-complexity indices are more appropriate for devising more efficient indices. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hyper spectral indices are widely used in retrieving vegetation and soil properties (Zeng et al., 2021).However, few studies have used this approach to estimate the bare rock Fe content. This study aims to develop an optimal hyper spectral index for estimating rock Fe content that is feasible for both laboratory and in situ field measurements. The best indicator that was identified in this research work is the modified normalized difference index,which demonstrates the best performance with both laboratory-based measurements and field-based measurements. Furthermore,as shown in Table 2 and Figure 3,modified normalized difference index (2220, 2290,and $2 3 7 0 ~ \\mathrm { n m }$ performed consistently among the different datasets and rock surfaces (fresh and weathered rock surfaces),although there was a small decrease in $R ^ { 2 }$ for the Dataset II from the weathered rock surfaces. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3Reflectance of the weathered and fresh rock surfaces measured in the laboratory and field ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A large calibration dataset is very important to obtain general indices.Because of cost constraints, a restricted research area can have a substantial impact on the experimental design and field measurements; as a result, it is impossible to provide a more accurate comprehensive field dataset,and only the index method suitable for the current research area can be used.By contrast, fitting experimental datasets to actual field-measured spectra can provide an alternative solution to find a suitable index. However, to use laboratory datasets instead of field measurements,the laboratory-measured rock reflectance spectra must completely match the field-measured spectra. Under general conditions,based on the measured spectra,the matching results between the laboratory and field spectra are not very satisfactory. The experimental results of this research prove the feasibility of the proposed method, which accurately describes the correlation of the rock reflectance spectra measured in the laboratory and in the field. Consequently， some characteristic wavelengths can be identified with the proposed method (for example，the 2000-210o nm wavelengths，and the field-measured reflectance is always larger than the laboratory-measured reflectance at all optical wavelengths. Therefore, all regression models based on the laboratory datasets may need to be recalibrated before being applied in the field. Thus, extending actual spectral data obtained in the field by using spectral data from the laboratory is an excellent solution. However,due to the shortcomings of this approach, it is difficult to find suitable accurate indicators,so the comprehensive utilization of laboratory and field data can verify and calibrate the final results. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In recent years, the methods employed to accurately and quantitatively determine rock Fe content are unable to combine laboratory measurements with in situ field measurements (Moumane et al., 2O21). In this research, two datasets comprising laboratory measurements and field measurements were comprehensively utilized,and the correlations between bare rock Fe content and spectral indices were accurately and extensively described and tested. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Many laboratory measurements use the fresh rock surfaces of rock samples, but in situ field measurements and satelite-borne sensors have access only to the weathered rock surfaces when obtaining reflectance information. In this study，we measured the reflectance of experimental samples from both weathered and fresh rock surfaces to detect the difference between the two types of surfaces. The results indicate that the patterns of the reflectance curves of the two types of surfaces were almost the same not only for the laboratory datasets but also for the field datasets; the only difference was that the reflectance of the weathered rock surfaces was slightly higher than that of the fresh rock surfaces. The best Fe content estimation indices for these two surfaces were also the same (Table 2),and the accuracy was just slightly lower for the weathered rock surfaces than for the fresh rock surfaces (the best $R ^ { 2 }$ values of O.45 and O.40 for the fresh and weathered rock surfaces,respectively).This small error is to be expected and acceptable,as the weathered rock surfaces always have adventitious materials,which will affect the estimation accuracy of Fe content. The outcomes of this work indicate that Fe content estimation models based on the fresh rock surface measurements in the laboratory can be applied to the field or satellite measurements of the weathered rock surfaces. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study assessed the use of hyper spectral indices for estimating the bare rock Fe content. The longwave-infrared domain ( $( 1 1 0 0 - 2 5 2 6 ~ \\mathrm { n m } )$ is suitable for predicting rock Fe content, especially in two or more characteristic wavelengths,which is somewhat obvious.The best indicator for estimating rock Fe content in the field is the modified normalized difference index (2220,2290, and $2 3 7 0 ~ \\mathrm { n m }$ , a commonly used spectral parameter that can accurately and quickly measure Fe content in bare rocks.The method proposed in this study can obviously provide an efficient solution for large-scale rock Fe content measurements in the field. In order to improve the accuracy of measuring rock Fe content, it is necessary to accurately describe the correlation between Fe content and reflectivity in rocks and to ascertain how different characteristics of rocks and elemental contents in rocks affect their Fe content. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the Xinjiang Science and Technology Major Project (2021A03001-3),the National Key R&D Program of China (2018YFC0604001-3),the B&R Team of Chinese Academy of Sciences (2017-XBZGBR-002),and the National Natural Science Foundation of China (U1803117, U1803241). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Baugh WM,KruseFA,Atkinson JrWW.1998.Quantitative geochemical mappingofammoniumminerals inthesouthern CedarMountains,Nevada,using the Airborne Visible/Infrared Imaging Spectrometer(AVIRIS).Remote Sensingof Environment,65(3): 292-308.   \nChabrilat S,GoetzAFH,KrosleyL,etal.22.Useofhyperspectralimagesitheidentificationandmappingofexpasive clay soils and the role of spatial resolution. Remote Sensing of Environment,82(2-3): 431-445.   \nClark RN,Roush TL.1984.Reflectance spectroscopy:Quantitative analysis techniques forremote sensing aplications. Journal of Geophysical Research,89(B7): 6329-6340.   \nClark RN,Gregg A,Swayze K,etal.2003.Imaging spectroscopy:Earth and planetaryremote sensing with the USGS Tetracorder and expert systems.Journal of Geophysical Resources,108(E12): 5131-5144.   \nClenet H,PinetP,DaydouY,etal.20l1.Anewsystematicapproachusingthe ModifiedGaussian Model:Insightforthe characterizationofchemical compositionof olivines,pyroxenes andolivine-pyroxene mixtures.Icarus,213(1):404-422.   \nGalvaoLS,FormaggioAR,CoutoEG,etal.2008.Relationships betweenthemineralogicalandchemicalcompositionof tropical soilsand topography from hyperspectral remote sensingdata.ISPRS Journal of Photogrammetryand Remote Sensing,63(2): 259-271.   \nGasmiA,Gomez C,LagacherieP,et al.2018.Surface soil clay content mappingat large scales using multispectral (VNIR-SWIR)ASTER data.International Journal of Remote Sensing,40(4):1506-1533.   \nHao L,Zhang Z,Yang X.2019.Mine tailing extraction indexes and modelusing remote-sensing images in southeast Hubei Province.Environmental Earth Sciences,78:493,doi:10.1007/s12665-019-8439-1.   \nJia XY,OConnorD,ShiZ,etal.2O21.VIRSbaseddetectionincombinationwith machine leaingformappingsoilpoltion. Environmental Pollution,268:115845,doi: 10.1016/j.envpol.2020.115845.   \nLe MaireG,Francois C,Dufrene E.2004.Towards universal broad leaf chlorophyll indices using PROSPECT simulated   \ndatabase and hyperspectral reflectance measurements.Remote Sensing of Environment,89(1): 1-28.   \nLe Maire G,Francois C,Soudani K,etal.2008.Calibrationand validationof hyperspectralindices fortheestimationof broadleaved forest leaf chlorophyllcontent,leaf mass per area,leaf area index and leafcanopy biomassRemote Sensingof Environment,112(10): 3846-3864.   \nLi H,Lin QZ,LiuQJ,etal.2o9.Feasibilityresearchonestimatinggeochemistryelementabnormitybasedonreflectance spectrum of gold deposit in Hatu-Baogutu. Remote Sensing Applications,8: 43-49.   \nLiu B,Jin H,Sun Z,etal.2016.Geochemical weatheringofaeoliansandanditspalaeoclimatic implications inthe MuUs Desert, northern China,since the Late Holocene.Journal of Arid Land,8(5): 647-659.   \nLiu M,Lin QZ,WangQJ,etal.2O10.Studyon the geochemical anomalyof copper elementbasedonreflectancespectra. Spectroscopy and Spectral Analysis,5: 1320-1323.   \nLiu Y,VekerdyZ.Oo.Posibilitiesofassessingheavymetalcontaminationofsoil intheSajoRiverFloodPlais (Hungary) usingreflectance spectroscopy.MSc Thesis.Enschede,Netherlands: International InstituteforGeo-information cienceand Earth Observation.   \nMetelkaV,Baratoux L,JessellMW,etal.2O15.Visibleand infraredpropertiesofunalteredtoweatheredrocks from Precambrian granite-greenstone terrains ofthe West African Craton.Journal of African Earth Sciences,112:570-585.   \nMiddletonM,NarhiP,Kuosmanen V,etal.2011Quantificationof glacial till chemicalcompositionbyreflectance spectroscopy.Applied Geochemistry,26(12): 2215-2225.   \nMoumane A,ElGhazaliFE,AlKarkouri J,etal.2O1.Monitoring spatiotemporal variationof groundwaterlevelandalinity underlandusechangeusing integrated field measurements,GIS,geostatistical,andremote-sensingapproach:casestudyof the Feijaaquifer,MiddleDraa watershed,Moroccan Sahara.Environmental Monitoring andAssessment,193:769,doi: 10.1007/s10661-021-09581-2.   \nNair A,Mathew G2012.Lithological discriminationof the Phenaimata felsic-mafic complex,Gujarat，India,using the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER).International Journal of Remote Sensing, 33(1): 198-219.   \nPourAB,Park TS,Park Y,etal.2O19.Landsat-8,advanced spaceborne thermal emissionandreflectionradiometer,and worldViw-3multispectralsateliteimageryforprospectingcopper-gold mineralizationintheNortheasternInglefieldMobile Belt (IMB),Northwest Greenland.Remote Sensing,11(20): 2430,doi: 10.3390/rs11202430.   \nQian T,TsunekawaA,PengF,etal.2019.Derivationofsaltcontentinsalinizedsoilfomhyperspectralreflectancedata:Acase study at Minqin Oasis,Northwest China.Journal of Arid Land,11(1):11-122.   \nRathodPH,MulerI,vander MeerFD,etal.2O16.Analysisof visibleand nearinfrared spectral reflectanceforasessing   \nmetals in soil.Environmental Monitoring and Assessment,188(10): 558,doi:10.1007/s10661-016-5568-9.   \nRowanLC,Simpson CJ,Mars JC.2O04.Hyperspectral analysisof theultramaficcomplexandadjacentlithologiesatMordor, NT,Australia. Remote Sensing of Environment, 91(3-4): 419-431.   \nSarathjith MC,Das BS,Wani SP,etal.2016.Variableindicators foroptimum wavelength selection indifusereflectance spectroscopy of soils. Geoderma, 267:1-9.   \nSimandl GJ,aradis S.2O18.Carbonatites:relatedoredeposits,resources,footprint,andexploration methods.AppliedEarth Science,127(4):123-152.   \nSims DA,Gamon JA.2002.Relationships between leaf pigment content and spectral reflectance acrossa wide range of species,leaf structures and developmental stages.Remote Sensing of Environment, 81(2-3): 337-354.   \nSracek O,Bhattcharya P,JacksG2004.Behaviorofarsenicand geochemical modelingof arsenic enrichment inaqueous environments.Applied Geochemistry,19(2): 169-180.   \nvanderMerFD,vander WerffHMA,vanRuitenbeekFJA.2014.PotentialofESA's Sentinel-2forgeologicalapplications. Remote Sensing of Environment, 148:124-133.   \nvan der MeerFD.2018.Near-infrared laboratoryspectroscopyof mineral chemistry: Areview.International Journalof Applied Earth Observation and Geoinformation,65: 71-78.   \nVelasco F,AlvaroA,Suarez S,etal.2Oo5.MappngFe-bearing hydrated sulphate minerals withshort wave infrared (SWIR)   \nspectralanalysisatSanMiguelmineenvironment,IberianPyriteBelt (SWSpain).JouralofGeochemicalExploration,8(2): ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "45-72. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wang Q,LiP,PuZ,etal.2Ol1.Calibrationandvalidatioofsaltresistanthyprspectralidicesforestimatingsoilmoisturein   \narid land.Journal of Hydrology, 408(3-4):276-285.   \nWangY,JiaJ,LuH,etal.19.FluvialsdimentsinthelagxaPlateauasadustsoure:ironmineralogicalandgeocheical evidence.Journal of Arid Land,11(2): 217-227.   \nWu YZ,ChenJ,JiJF,etal.997.Amechanismstudyofrelectance spectroscopyforinvestigating heavymetalsinils.Sil Science Society of America Journal, 71(3): 918-926.   \nZengY,HaoD,BadgleyG,etal.O1.Estimatingnear-ifraredreflectanceofvegetationfromhyperspectraldata.Remote   \nSensing of Environment,267:112723,doi:10.1016/j.rse.2021.112723.   \nZeratpisheh M,Ayoubi S,SuliemanM,etal.2O19.Determining the spatial distributionof soil propertiesusing the environmentalcovariatesand multivariate statisticalanalysis:acase study insemi-aridregionsofIran.JournalofAridLand, 11(4): 551-566. ",
+        "page_idx": 11
+    }
+]

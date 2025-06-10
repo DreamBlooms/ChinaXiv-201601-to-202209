@@ -1,0 +1,380 @@
+# 焦虑对重量感知判断的影响
+
+陈旭燕1,2 李鹏」闫志英¹(云南师范大学教育学部，昆明 650500)(云南轻纺职业学院，昆明 650300)
+
+摘要行动经济理论认为个体对物理环境的感知与其具备的资源有关，而焦虑与资源不足有关。基于此，本研究通过3个实验来探讨3种不同性质的焦虑对重量感知判断的影响。实验1通过身体姿势诱发焦虑，结果发现同放松的身体姿势相比，焦虑的身体姿势能诱发出焦虑且此姿势下个体会认为背包的重量更重。实验2通过具有压力性的外部任务诱发焦虑，结果显示同奇偶判断任务相比，心算任务能诱发出明显的焦虑且此任务下个体将背包的重量判断为更重。实验3探讨特质焦虑的影响，结果发现高特质焦虑个体同低特质焦虑者相比会认为背包的重量更重。本研究表明焦虑会影响个体对物体物理属性的感知。
+
+关键词 焦虑，重量，感知，判断
+
+# 1引言
+
+焦虑是个体对即将到来的或正在进行的伴随有一定压力、威胁的任务所产生的紧张、不安、忧虑、烦恼等不愉快的复杂情绪状态。焦虑对认知活动具有消极影响，它不仅会削弱个体的注意控制能力(Derakshan & Eysenck,2009;Eysenck & Derakshan,2011)，还会导致个体(此处主要指高焦虑个体)对威胁性刺激存在注意偏向(Berggren,2020；李松蔚，樊富珉,2015;Mogg＆Bradley,2018;Yair et al.,2007)。并且，焦虑还会影响个体对外界信息的解释。焦虑的个体对威胁性和模糊的中性情境会做出更多的消极解读，认为自己比他人面临更高的风险且负性事件一旦发生会给自己造成更大的损失(Blanchete & Richards，2010；Sherman &Ehrenreich-May,2018)。由上述研究可知，焦虑与威胁、风险等消极字眼具有紧密的联系，焦虑的个体似乎认为外部环境更具挑战性和威胁性。因此，我们有理由认为焦虑会影响个体对周围环境，包括物理环境的感知。那么，焦虑果真是否会改变个体对周围物理环境的感知?
+
+本研究拟通过焦虑对物体重量感知判断的影响来探讨这一问题。
+
+行动经济理论认为对物理世界的视觉感知不仅是光学信息作用于眼部运动的结果，而且与个体具备的资源有关(Hansen& Steinmetz,2019; Proffitt,2006; Schnall et al.,2008)。该理论强调资源的可利用性，视觉感知在一定程度上反映了个体在特定时间和空间采取特定行动的能力(Kirsch etal.,2017)。以往的研究表明，身体资源会影响个体对外界环境的感知及行为。当个体的身体资源充足时，对外界事物的感知判断也会相对乐观，如喝高含糖量饮料的人会认为山坡的坡度较缓(Schnalletal.,2010)。相反，当身体资源不足时，个体会倾向于认为目标更加难以企及，需付出更多的努力(Proffit et al.,2003; Proffitt,2006;Wit et al.,2004)。例如，当一个人年龄增长、疲劳、肥胖或背负沉重的背包时，其视觉判断会发生改变，使得斜坡看上去更陡，距离变得更远(Proffitt,2006; Sugovic et al.，2016)；在行为层面，女性、老年人、体重超重或携带较重物品的人会更多地选择乘坐自动扶梯而不是爬楼梯(Eves,2014)。
+
+心理资源也会影响个体对周围物理世界的感知判断且不仅局限于视觉领域。身边有好朋友或想象一个朋友在场时，个体会认为山坡的坡度较缓(Schnall etal.，2008)，物体的重量较轻(Doerrfeld etal.,2012)。当所做选择得到认可时，站于高处的个体会认为自己距离地面更近(Huynh et al.，2014)。同样，当个体拥有较大权力感时，对物体重量的判断会更轻(Lee &Schnall，2014)。相反，有心理负担的人，如怀有内疚感(Day& Bobocel，2013)或藏有秘密(Slepian etal.,2012)的人会认为目标物体或物体间的距离更远。
+
+情绪会影响调节动作的可能性(Krpan& Schnall,2018;Tamir,2020)，亦会影响感知判断。站在高处的个体，由于感受到恐惧，便会夸大自己至地面的距离(Harber et al.，2011;Stefanucci & Proffitt,2009)，高估山坡坡度(Stefanucci et al.,2008)。因此, Stefanucci等人(2011)在对情绪与感知判断关系的研究进行综述的基础上，提出情绪(如恐惧、厌恶和悲伤)会使视觉乃至听觉发生变化，即情绪会影响对视听觉的感知判断。但总体而言，情绪与感知判断关系的研究并不算多。
+
+具体至焦虑对感知判断影响的探讨，相关研究较少且主要集中在运动领域。例如，在攀爬运动中，由身体处于较高位置诱发的焦虑会使个体低估自己在攀岩墙上预计和实际可达到的最大高度 (Pijpers et al.，2006)。另有研究者探讨了焦虑对感知影响中的行动效应(Canal-Bruland etal.,2010)。在实验中，被试的焦虑程度通过使其处于攀岩墙位置的高低来操纵，之后要求他们向一个圆形的目标投掷飞镖并从海报上的九个圆圈中选择特定目标判断其大小。结果发现，当参与者在低焦虑水平下(即处于攀岩墙较低位置)，投掷飞镖成绩更好的被试倾向于将目标估计得相对较大一些，验证了以往关于成绩和感知关系研究中的行动
+
+效应，而在高焦虑水平下则并未发现该效应。
+
+综上，可以发现现有关于焦虑对感知判断影响的研究较少且主要存在以下问题：其一，现有研究多集中于运动领域，主要关注由于身体处于高空、威胁到机体安全而产生的焦虑，忽视了生活中更为常见的焦虑形式，如由一定压力性的任务诱发的焦虑、特质焦虑等；其二，现有研究忽视了相对稳定的人格因素的影响；其三，现有研究多以视觉指标为基础，较少探讨焦虑对其他非视觉性感知判断的影响。
+
+基于上述问题，本研究拟做出以下改进：其一，探讨日常生活中两种发生机制有所不同的状态焦虑对感知判断的影响；其二，纳入人格因素——特质焦虑至感知判断领域并探讨其影响；其三，将感知判断的指标从视觉拓展至基于身体感受的重量判断。在此基础上，具体通过身体姿势诱发的焦虑(实验1)、外部任务诱发的焦虑(实验2)和人格层面稳定的特质焦虑(实验3)共3种性质有所不同的焦虑形式来系统探讨它对重量感知判断的影响。这项研究在理论层面首先有助于验证并拓展行动经济理论，将其从视觉拓展至重量领域。其次,Stefanucci等人(2011)强调感知表征植根于身体的能力和体验之中，故应探讨与身体状态息息相关的情绪(研究者干脆将情绪归为身体状态)对感知判断的影响，而焦虑是生活中一种重要且最为常见的情绪之一，理应受到关注。因而，本研究深化并丰富了“情绪与感知判断关系"领域的研究内容。在实践层面，本研究揭示了焦虑个体身体上的重量感知特点，从而为焦虑的干预提供了新的身体视角；其次，这类(情绪与感知判断关系)研究将情绪和环境感知两种完全不同的研究领域进行了结合，可以应用于从情感失调患者的临床治疗到人机界面的设计(Stefanucci etal.,2011)，具有重要的现实意义。
+
+# 2实验1：身体姿势诱发的焦虑对重量感知判断的影响
+
+实验1旨在探讨身体姿势诱发的焦虑对重量感知判断的影响。身体姿势会影响情绪状态，例如：头部向上倾斜会引起自豪感(Stepper& Strack,1993)，弯腰姿势会引起更多的抑郁情绪(Riskind&Gotay,1982)。在此，同样采用此类方式诱发焦虑，并提出如下研究假设：焦虑的身体姿势能够诱发出焦虑情绪；相比放松的身体姿势，个体在焦虑的身体姿势下会认为背包的重量更重。
+
+# 2.1 预实验
+
+为探索有效的实验操作，检验实验设计的科学性和可行性，在正式实验前进行了预实验。采用2(组别：焦虑身体姿势组/放松身体姿势组) $\times 2$ (测试次序：前测/后测)的混合实验设计，其中身体姿势为被试间变量，测试次序为被试内变量，因变量为对背包重量的判断。
+
+为了控制特质焦虑这一额外变量，保证实验的内部效度，本研究采用 Spielberger 等人(1983)的《特质焦虑量表》来剔除特质焦虑程度偏高的被试，以尽量排除状态焦虑对重量感知判断产生影响时，特质焦虑可能起到的调节效应。具体而言，依据司继伟等人(2014)的方法，参照中国大学生的特质焦虑常模(李文利，钱铭怡，1995)对被试进行筛选，排除特质焦虑得分高于均值一个标准差者。排除后，最终共招募了53名在校大学生参与实验，将其分为两组：一组完成放松的身体姿势任务(共28人，17女)，即保持静坐，挺起胸膛、抬起下巴，双脚与肩同宽，让双臂处于放松状态，双手自然放于腿上；一组完成焦虑的身体姿势任务(共25 人,14女)，即快速地来回走动，同时头部低垂、双眉紧锁、嘴唇紧抿，搓手、抠手指并不时抓耳挠腮。每种身体姿势均持续三分钟。除身体姿势的操纵与正式实验有所不同之外，其余部分均同正式实验。
+
+对于背包重量感知判断的均值而言，预实验中组别的主效应不显著, $F ( 1 , 5 1 ) = 2 . 5 2 \$ ， $p =$ 0.119，测试次序的主效应显著, $F ( 1 , 5 1 ) = 3 2 . 7 8 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 9 , 9 0 \% \mathrm { C I } = [ 0 . 2 2 , 0 . 5 2 ]$ 。组别 $\times$ 测试次序的交互作用显著， $F ( 1 , 5 1 ) = 1 5 . 5 6 , p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 3 , 9 0 \% \mathrm { C I } = [ 0 . 0 8 , 0 . 3 8 ] \mathrm { } \mathrm { . }$ 焦虑身体姿势组的重量感知判断前后测差异明显, $F ( 1 , 5 1 ) = 4 4 . 2 5 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 7 , 9 0 \% \mathrm { C I = }$ [0.29,0.58]，后测的重量感知判断显著高于前测，而在放松身体姿势组中，前、后测无显著差异， $F ( 1 , 5 1 ) = 1 . 6 8 , p = 0 . 2 0 0 { \mathrm { _ { c } } }$ ，此外，两组被试对重量的感知判断在前测上无显著差异， $F ( 1 , 5 1 )$ $= 0 . 0 6$ $p = 0 . 8 0 5$ ，后测时差异显著, $F ( 1 , 5 1 ) = 6 . 1 5$ $p = 0 . 0 1 7$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 1$ ， $9 0 \%$ $\mathrm { C I } =$ [0.01, 0.25],焦虑身体姿势组对重量的感知判断高于放松身体姿势组。
+
+# 2.2 正式实验
+
+# 2.2.1实验方法
+
+# 2.2.1.1 被试
+
+正式实验采用 $\mathbf { G } ^ { * }$ Power3.1(Fauletal.,2007)估算最小样本容量。参考上述预实验的结果，预期实验能获得中等偏低的效应量，依据Cohen(1988)的划分标准，预设重复测量方差分析中效应量 $\eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 0 6$ ， $\mathrm { a = } 0 . 0 5$ ， $1 - \beta { = } 0 . 8$ ，重复测量水平间的相关为低相关，取0.4作为相关系数，在 $2 { \times } 2$ 的两因素混合实验设计中需要 $N { = } 4 0$ 的样本总容量才能观察到显著的效应。
+
+由于需要排除高特质焦虑的被试，故招募了65名在校大学生作为被试。排除特质焦虑得分 $\geq 5 2 . 5 1$ 的1名被试，最终64名 (37女)被试参与了本次实验，其年龄在17\~23岁之间(M$= 1 9 . 6 6 , S D { = } 1 . 2 0 )$ 。被试被随机分为两组：焦虑身体姿势组(共32人,19女)和放松身体姿势组(共 32人,18女)。焦虑身体姿势组的特质焦虑 $( M = 4 2 . 1 9 , S D { = } 5 . 3 1 ,$ 与放松身体姿势组的特质焦虑 $( M = 4 2 . 0 3 , S D { = } 2 . 2 9 )$ 无显著差异， $t ( 6 2 ) = - 0 . 1 5 , p = 0 . 8 7 9$ 0
+
+# 2.2.1.2 实验任务和材料
+
+(1）身体姿势的操纵。参照Huang 等人(2011)和颜彦(2018)的研究，同时为避免预实验中不同的身体资源消耗可能对重量感知判断产生的影响，正式实验中身体姿势的操纵调整为：焦虑的身体姿势条件下，要求被试快速地来回走动，同时头部低垂、双眉紧锁、嘴唇紧抿，搓手、抠手指并不时抓耳挠腮；放松的身体姿势条件下，要求被试快速地来回走动，同时挺起胸膛、抬起下巴，双手手指交叉，活动手腕，不时做扩胸运动。实验中每种身体姿势动作均持续三分钟。
+
+(2）重量估计任务。参照Lee与 Schnall(2014)的研究，准备6个大小、颜色完全相同的双肩背包，包中放入若干本尺寸相同的书。需要说明的是，在预实验中将重量设定为 $1 . 5 \mathrm { k g }$ 3kg与 $4 . 5 \mathrm { k g }$ ，前后测的重量保持一致。结果发现，在前后测时间间隔较短的情况下，多数被试会猜测到两次测量的背包重量是一样的。因此，本研究参考了Karwowski(1991）的重量设置方法，将前测中3个背包的重量设定为2kg(背包1)、5.5kg(背包2)、6.5kg(背包3)，后测的3个背包重量设定为1kg(背包4)、 $5 . 5 \mathrm { k g }$ (背包5)、7.5kg(背包6)。前后测中保留一对重量相同的背包 $( 5 . 5 \mathrm { k g } )$ ，同时保证前后测的重量均值相同(约 $4 . 6 7 \mathrm { k g } )$ 。此外，另有一个 $0 . 5 \mathrm { k g }$ 的双肩背包作为参考重量，大小、颜色与上面的6个背包完全相同。
+
+(3）焦虑自评表。为避免被试意识到焦虑与重量感知判断之间的关系，故采用了焦虑的直接和间接测量相结合的测量方法。具体而言，参照 Schnall等人(2008)的情绪报告表，同时结合"自下而上"的个体经验，设计此自评表。具体步骤如下:
+
+首先，随机抽取10 名(7女)大学生，要求他们写出代表焦虑的 2\~4字词共3个，最终得到表示焦虑的词 22个。其次，另外随机抽取38 名(28 女)大学生，要求他们在上述词中选出最能代表焦虑的3个词。经频次统计后得到最能代表焦虑的3个词为：坐立不安(16次)、烦躁(13 次)、焦急(11次)。3个词的均值作为焦虑的间接测量指标，将"焦虑”一词作为直接测量指标，采用1(完全感受不到)\~7(极其强烈)7点计分，分数越高表明焦虑程度越高。该自评表主要用于状态焦虑的评定，在本研究实验1\~2中的克隆巴赫α系数介于0.82\~0.93 之间。
+
+(4）特质焦虑量表(T-AI)。由 Spielberger 等人(1983)编制，主要测量个体的焦虑倾向性。该量表共20题，采用4点计分的方式,“1"代表"几乎没有”,“4"代表"几乎总是”，将 20题的分数相加得到特质焦虑的总分，分数越高，代表个体焦虑的倾向性越强。该量表具有良好的信效度(李文利，钱铭怡,1995；郑晓华 等,1993)，是测量特质焦虑的常用工具。
+
+# 2.2.1.3 实验程序
+
+首先，为避免被试猜到实验目的，告诉他们此次实验是关于身体姿势舒适度的测试，包含做出不同的身体姿势和判断背包重量两个任务。告知结束后让被试填写焦虑自评表。其次，让被试双肩背负 $0 . 5 \mathrm { k g }$ 的背包作为参考重量，并按照随机顺序双肩背负并判断前测3个背包的重量。最后，被试根据要求完成相应的身体姿势任务，随即在给予参考重量的基础上按照随机次序双肩背负并判断后测3个背包的重量，并立即再次填写焦虑自评表。实验结束后经询问发现被试并未察觉到该实验的真正目的。
+
+# 2.2.2 结果
+
+# 2.2.2.1焦虑的操纵效果
+
+焦虑、放松的身体姿势诱发焦虑的描述性统计结果见表1。为检验焦虑的诱发效果，采用2(组别：焦虑身体姿势组/放松身体姿势组) $| \times 2 |$ (测试次序：前测/后测)的混合设计方差分析，分别以焦虑的直、间接测量指标评分作为因变量进行统计分析。此外，本研究还参考王珺等(2019)所介绍的方法，基于方差分析的计算结果进一步获得了效应量 $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 }$ 的 $9 0 \%$ 置信区间。
+
+表1焦虑、放松的身体姿势诱发焦虑的平均值和标准差 $( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">情绪</td><td colspan="2">焦虑身体姿势组(n=32)</td><td colspan="2">放松身体姿势组(n=32)</td></tr><tr><td>前测</td><td>后测</td><td>前测</td><td>后测</td></tr><tr><td>焦虑的直接测量指标</td><td>2.75±1.37</td><td>3.59±1.41</td><td>2.28±0.96</td><td>1.62±0.79</td></tr><tr><td>焦虑的间接测量指标</td><td>2.39±1.06</td><td>3.32±1.38</td><td>1.94±0.77</td><td>1.64±0.96</td></tr></table></body></html>
+
+对焦虑的直接测量指标的方差分析结果显示，组别的主效应显著, $F ( 1 , 6 2 ) = 2 5 . 1 9 ,$ p<0.001, $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 9$ $9 0 \%$ $\% ~ { \bf C } \mathrm { I } = [ 0 . 1 4 , 0 . 4 2 ]$ ，测试次序的主效应不显著， $F ( 1 , 6 2 ) = 0 . 3 4$ $p = 0 . 5 6 0$ 组别 $\times$ 测试次序的交互作用显著， $F ( 1 , 6 2 ) = 2 2 . 0 0 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 6 , 9 0 \% \mathrm { C I } = [ 0 . 1 2 , 0 . 4 0 ] \mathrm { _ { \circ } }$ （204简单效应分析显示，放松身体姿势组的前后测差异显著, $F ( 1 , 6 2 ) = 8 . 4 2$ $p = 0 . 0 0 5$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 2$ $9 0 \% \ \mathrm { C I } { = \ [ 0 . 0 2 , 0 . 2 5 ] }$ ，后测焦虑的评分显著低于前测；焦虑身体姿势组的前后测差异显著，$F ( 1 , 6 2 ) = 1 3 . 9 2 , p < 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 8 , 9 0 \% \mathrm { C I } = [ 0 . 0 6 , 0 . 3 2 ] ,$ ，后测焦虑的评分显著高于前测。此外，两组被试前测中焦虑的评分无显著差异, $F ( 1 , 6 2 ) = 2 . 5 2 \$ ， $p = 0 . 1 1 7$ ；后测中的差异显著, $F ( 1 , 6 2 ) = 4 7 . 3 4 \$ $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 3$ ， $0 \% \mathrm { C I } { = [ 0 . 2 8 , 0 . 5 5 ] }$ ，焦虑身体姿势组的焦虑评分显著高于放松身体姿势组。以上结果表明对于焦虑的直接测量而言，两组被试在实验处理前焦虑水平相当，完成放松姿势任务能有效降低焦虑水平，而完成焦虑姿势任务则能有效提升焦虑水平。从对效应量的区间估计结果来看，这两种实验效应都不容忽视。
+
+对焦虑的间接测量指标的方差分析结果显示，组别的主效应显著, $F ( 1 , 6 2 ) = 2 1 . 0 9 , _ { I }$ $p <$ 0.001, $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 5$ $9 0 \%$ CI= [0.11,0.39]，测试次序的主效应显著, $F ( 1 , 6 2 ) = 5 . 8 9$ $p = 0 . 0 1 8$ $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 }$ $= 0 . 0 9$ ， $90 \%$ $\mathrm { C I } =$ [0.01,0.21]，组别 $\times$ 测试次序的交互作用显著， $F ( 1 , 6 2 ) = 2 2 . 4 3 , p < 0 . 0 0 1 ,$ $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 }$ $= 0 . 2 7$ ， $90 \%$ CI=[0.12,0.40]。简单效应分析显示，放松身体姿势组的前后测差异不显著,$F ( 1 , 6 2 ) = 2 . 6 6$ $p = 0 . 1 0 8$ ；焦虑身体姿势组的前后测差异显著， $F ( 1 , 6 2 ) = 2 5 . 6 6 , p < 0 . 0 0 1 , \$ $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 }$ $= 0 . 2 9 , 9 0 \% \mathrm { C I } = [ 0 . 1 4 , 0 . 4 2 ]$ ，后测焦虑的评分显著高于前测。此外，两组被试的焦虑评分在前测中无显著差异， $F ( 1 , 6 2 ) = 3 . 7 4$ $p = 0 . 0 5 8$ ；后测中的差异显著， $F ( 1 , 6 2 ) = 3 2 . 1 1 , p < 0 . 0 0 1$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 4 , 9 0 \% \mathrm { C I } = [ 0 . 1 8 , 0 . 4 7 ]$ ，焦虑身体姿势组的焦虑评分显著高于放松身体姿势组。以上结果表明对于焦虑的间接测量而言，两组被试在实验处理前的焦虑水平相当，完成放松姿势任务并不能有效降低焦虑水平，但完成焦虑姿势任务则能有效提升焦虑水平，且后测的组间效应可以主要用焦虑的身体姿势导致了“间接焦虑"的提升来解释。
+
+综合对焦虑的直、间接测量指标分别进行的方差分析和效应量区间估计的结果可见，焦虑的身体姿势能够成功诱发出焦虑，且对焦虑的间接测量的诱发效应更大 $( \eta _ { \mathrm { p \ \ f i j \acute { \varepsilon } } } ^ { 2 } = 0 . 1 8$ 和 $\eta _ { \mathrm { p } } ^ { 2 } { \mathbb { 1 } } _ { \neq } { \ast } = 0 . 2 9 )$ 。
+
+# 2.2.2.2焦虑对重量感知判断的影响
+
+对2(组别：焦虑身体姿势组/放松身体姿势组) $) { \times } 2$ (测试次序：前测/后测)四种情况下的重量感知判断均值进行两因素混合设计方差分析。结果表明，组别的主效应不显著， $F ( 1 , 6 2 ) =$ 1.84, $p = 0 . 1 8 0$ ，测试次序的主效应显著， $F ( 1 , 6 2 ) = 2 1 . 2 7$ $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 6$ $9 0 \%$ CI= [0.11,0.39]。组别 $\times$ 测试次序的交互作用显著， $F ( 1 , 6 2 ) = 1 0 . 8 9$ ， $p = 0 . 0 0 2$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 1 5$ ， $9 0 \% \mathrm { C I } = [ 0 . 0 4$ 0.28]。简单效应分析显示，焦虑身体姿势组的重量感知判断前后测差异显著, $F ( 1 , 6 2 ) = 3 1 . 3 0$ $p < 0 . 0 0 1$ $1 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 4 , 9 0 \% \mathrm { C I } = [ 0 . 1 8 , 0 . 4 6 ]$ ，后测中对重量的感知判断显著高于前测；而对于放松身体姿势组而言，前、后测无显著差异， $F ( 1 , 6 2 ) = 0 . 8 6$ $p = 0 . 3 5 7$ 。此外，两组被试对重量的感知判断在前测中无显著差异, $F ( 1 , 6 2 ) = 0 . 0 6$ ， $p = 0 . 8 0 1$ ；后测中差异显著，, $F ( 1 , 6 2 ) = 4 . 7 1$ $p = 0 . 0 3 4 , \eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 7 , 9 0 \% \mathrm { C I } = [ 0 . 0 0 3 , 0 . 1 9 ]$ ，焦虑身体姿势组对重量的感知判断明显高于放松身体姿势组(见图1)。以上结果表明，两组被试在实验处理前对外界物体的重量感知判断结果相当，完成放松的身体姿势任务对物体的重量感知判断没有影响，但完成焦虑的身体姿势任务能有效改变个体对物体的重量感知判断。
+
+![](images/1dddefd7c665f8be20f1c3982e8d6fc6cdb9b7122e62e8bb685bcc147dd3deb7.jpg)  
+图1焦虑、放松身体姿势组重量感知判断的前后测比较（图中的误差线代表标准差）
+
+为进一步探究身体姿势诱发的焦虑对重量感知判断准确性的影响程度，将被试对背包重量的估计均值减去其实际重量均值，获得每个被试的重量感知判断偏离量。对两组被试重量感知判断偏离量的描述统计如图2所示，在前测中，放松身体姿势组 $( M = - 0 . 4 1$ ， $S D = 2 . 2 1$ ）和焦虑身体姿势组 $\langle M = - 0 . 2 7$ ， $S D = 2 . 1 6 )$ 的偏离量均为负值，表明被试均低估了背包的真实重量。然而，在身体姿势操纵之后，放松身体姿势组 $( M = - 0 . 1 6 , S D = 2 . 3 4 )$ 对重量感知判断的偏离量较小，而焦虑身体姿势组 $( M = 1 . 2 4$ ， $S D { = } 2 . 7 8 )$ 对重量感知判断的偏离量转换为正值，即他们会高估背包的重量。
+
+![](images/7d9b3302e7448b9b05870c95a364e8a73b7d5df4e71f867e9755d7033b9c5f8d.jpg)  
+图2焦虑、放松身体姿势组重量感知判断的准确性（图中的误差线代表标准差）
+
+# 3实验2：外部任务诱发的焦虑对重量感知判断的影响
+
+实验1为由身体姿势诱发的焦虑能够影响重量感知判断提供了证据。为检验状态性焦虑对重量感知判断的影响是否具有普遍性或跨任务一致性，本研究设计了实验2。实验2采用了使用更为广泛的心算任务范式来诱发焦虑 (侯然，2009；贾丽萍，2014；朱金卫 等，2014),
+
+探讨焦虑对重量感知判断的影响，并提出如下研究假设：相比完成奇偶判断任务的个体，完成心算任务者会更多地体验到焦虑，将背包的重量判断为更重。
+
+# 3.1 方法
+
+# 3.1.1 被试
+
+实验2中，样本量的估算方法、依据及所需样本总容量 $( N { = } 4 0 )$ 均同实验1。实际招募了68 名在校大学生，剔除特质焦虑得分过高的3名被试(方法同实验1)，最终65名(43女)被试参与本次实验，年龄在17\~26 岁之间 $( M = 1 9 . 9 5 , S D = 1 . 9 8 ) .$ 。将被试随机分为两组：心算任务组(共 33人,21女)和奇偶判断任务组(共 32人,22 女)。心算任务组的特质焦虑 $( M = 4 1 . 1 2 , S D$ $= 6 . 3 8 \rangle$ 与奇偶判断任务组的特质焦虑 $( M = 3 9 . 9 7$ ， $S D = 5 . 4 5$ 无显著差异， $t ( 6 3 ) = - 0 . 7 8$ $p =$ 0.437。
+
+# 3.1.2 实验任务和材料
+
+(1）焦虑的操纵。焦虑组采用心算任务范式来诱发焦虑，而控制组则采用奇偶判断任务。所有实验任务均采用 E-Prime1.1编写实验程序。其中，心算任务共有 50个试次，包括准备和正式实验两个阶段。准备阶段有5个试次用于练习，正式实验阶段有45个试次。在正式实验中，完成40个试次后让被试对背包重量进行判断，并评估自己此时的情绪，接着继续完成后续的5个试次，直至实验结束。
+
+对于每个试次，首先在计算机白色屏幕中央呈现注视点 $\cdot _ { + } , \cdot _ { }$ ( $\mathrm { 1 0 0 0 m s ) }$ ；随后呈现一个4位数(5000ms)，要求被试在限定时间内基于此数字做"减17"的运算并用键盘输入结果；最后出现的是反馈界面(正确/错误/未回答) $\mathrm { 1 0 0 0 m s } )$ ，之后便进入下一个试次。具体流程见图3。
+
+![](images/509af2603046687d77e1da7acc3149803625e2d1ba74108d0cebecddd2e7282e.jpg)  
+图3心算任务中一个试次的流程图
+
+奇偶判断任务与心算任务的流程一致，不同之处在于此任务要求被试对屏幕中央出现的四位数进行奇偶判断：奇数按"1"键，偶数按2"键，判断不限时间。
+
+(2)重量估计任务、焦虑自评表和特质焦虑量表(T-AI):均同实验1。
+
+# 3.1.3 实验设计
+
+采用2(组别：心算任务组/奇偶判断任务组) $\times 2 ($ (测试次序：前测/后测)的混合实验设计，其中组别为被试间变量，测试次序为被试内变量，因变量为对背包重量的判断。
+
+# 3.1.4 实验程序
+
+首先，实验开始前告知被试此次实验是测试个体计算能力的研究，整个心算任务在5分钟内完成者可获得额外奖励一份，而奇偶判断任务不计时。告知结束后让被试填写特质焦虑量表和焦虑自评表。其次，让被试双肩背负 $0 . 5 \mathrm { k g }$ 的背包作为参考重量，然后按照随机顺序双肩背负并判断前测3个背包的重量。再次，安排被试进行心算或奇偶判断任务，在任务进行过程中让被试在参考重量的基础上按照随机顺序双肩背负并判断后测3个背包的重量，并立即再次填写焦虑自评表。之后继续完成任务，直至实验结束。实验结束后经询问发现被试并未察觉到该实验的真实目的。
+
+# 3.2 结果
+
+# 3.2.1焦虑的操纵效果
+
+心算、奇偶判断任务诱发焦虑的描述性统计结果如表2所示。为验证焦虑的操纵效果，分别以焦虑的直、间接测量指标评分为因变量，采用2(组别：心算任务组/奇偶判断任务组 $) { \times } 2 { \cdot }$ (测试次序：前测/后测)的混合设计方差分析进行统计分析。
+
+表2心算、奇偶判断任务诱发焦虑的平均值和标准差 $( M \pm S D )$   
+
+<html><body><table><tr><td rowspan="2">情绪</td><td colspan="2">心算任务组(n=33)</td><td colspan="2">奇偶判断任务组(n=32)</td></tr><tr><td>前测</td><td>后测</td><td>前测</td><td>后测</td></tr><tr><td>焦虑的直接测量指标</td><td>2.70±1.53</td><td>4.27±1.07</td><td>2.22±1.36</td><td>2.19±1.12</td></tr><tr><td>焦虑的间接测量指标</td><td>2.29±1.11</td><td>3.59±1.07</td><td>1.96±0.84</td><td>2.01±0.84</td></tr></table></body></html>
+
+对焦虑的直接测量指标的方差分析结果显示，组别的主效应显著, $F ( 1 , 6 3 ) = 1 9 . 6 3 , p \ \cdot$ V0.001, $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 4$ $90 \%$ CI= [0.10,0.37]，测试次序的主效应显著, $F ( 1 , 6 3 ) = 3 3 . 4 3$ $p < 0 . 0 0 1$ $\boldsymbol \eta _ { \mathsf { p } } ^ { 2 }$ $= 0 . 3 5$ $90 \%$ CI= [0.19,0.47]，组别 $\times$ 测试次序的交互作用显著， $F ( 1 , 6 3 ) = 3 6 . 1 9$ $p < 0 . 0 0 1$ $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 }$ $= 0 . 3 7$ ， $90 \%$ CI= [0.21，0.49]。简单效应分析显示，奇偶判断任务组的前后测差异不显著，$F ( 1 , 6 3 ) = 0 . 0 3$ $p = 0 . 8 7 0$ ；心算任务组的前后测差异显著， $F ( 1 , 6 3 ) = 7 0 . 6 9$ ， $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } =$ 0.53, $90 \%$ $\mathrm { \mathrm { ~ \ i ~ } C I = [ 0 . 3 8 , 0 . 6 3 ] }$ ，后测焦虑的评分显著高于前测。此外，两组被试在前测中焦虑的评分无显著差异, $F ( 1 , 6 3 ) = 1 . 7 7$ $\mathnormal { p } = 0 . 1 8 8$ ；在后测中差异显著， $F ( 1 , 6 3 ) = 5 9 . 0 1 \$ ， $p < 0 . 0 0 1$ ，$\eta _ { \mathrm { p } } ^ { 2 } = 0 . 4 8$ $= 0 . 4 8 , 9 0 \% \mathrm { C I } = [ 0 . 3 3 , 0 . 5 9 ]$ ，心算任务组的焦虑评分显著高于奇偶判断任务组。以上结果表明对于焦虑的直接测量而言，两组被试在实验处理前的焦虑水平相当，进行奇偶判断任务对焦虑水平并未产生影响，但进行心算任务则能有效提升焦虑水平，且后测的组间效应可以主要用心算任务导致了“直接焦虑"的提升来解释。
+
+对焦虑的间接测量指标的方差分析结果显示，组别的主效应显著, $F ( 1 , 6 3 ) = 1 9 . 9 1 , p \ < \$ 0.001, $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 2 4 , 9 0 \% \mathrm { C I } = [ 0 . 1 0 , 0 . 3 7 ] ,$ ，测试次序的主效应显著， $F ( 1 , 6 3 ) = 3 5 . 6 3 , p < 0 . 0 0 1 , \mathfrak { n } _ { \mathrm { p } } ^ { 2 }$ $= 0 . 3 6 , 9 0 \% \mathrm { C I } = [ 0 . 2 0 , 0 . 4 8 ]$ ，组别 $\times$ 测试次序的交互作用显著， $F ( 1 , 6 3 ) = 3 0 . 3 2 , p < 0 . 0 0 1 ,$ $\boldsymbol \eta _ { \mathrm { p } } ^ { 2 }$ $= 0 . 3 3$ ， $90 \%$ $\mathrm { C I } = \ [ 0 . 1 7 , \ 0 . 4 5 ]$ 。简单效应分析显示，奇偶判断任务组的前后测差异不显著,$F ( 1 , 6 3 ) = 0 . 1 1$ ， $p = 0 . 7 4 7$ ，心算任务组的前后测差异显著， $F ( 1 , 6 3 ) = 6 6 . 8 7$ $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } =$ 0 $. 5 2 , 9 0 \% \mathrm { C I } = [ 0 . 3 7 , 0 . 6 2 ]$ ，后测焦虑的评分显著高于前测。此外，两组被试在前测中焦虑的评分无显著差异, $F ( 1 , 6 3 ) = 1 . 8 7$ $p = 0 . 1 7 6$ ；后测中的差异显著， $F ( 1 , 6 3 ) = 4 3 . 3 8 , p < 0 . 0 0 1 , \mathfrak { n } _ { \mathrm { H } } ^ { 2 }$ $= 0 . 4 1$ ， $90 \%$ $\mathrm { \Delta } _ { \mathcal { O } } ^ { \mathcal { I } } \ : \mathrm { C I } = \left[ 0 . 2 5 , 0 . 5 3 \right]$ ，心算任务组的焦虑评分高于奇偶判断任务组。以上结果表明对于焦虑的间接测量而言，两组被试在实验处理前的焦虑水平相当，进行奇偶判断任务对焦虑水平没有影响，但进行心算任务则能有效提升焦虑水平，且后测的组间效应可以主要用心算任务导致了“间接焦虑"的提升来解释。
+
+综合对焦虑的直、间接测量指标分别进行的方差分析和效应量区间估计的结果可见，心算任务能够成功诱发出焦虑，且对焦虑的直、间接测量的诱发效应基本相当 $( \eta _ { \mathrm { p } } ^ { 2 } \ddagger \ddagger ) _ { c } = 0 . 5 3$ 和 $\eta _ { \mathrm { p } } ^ { 2 } { \mathbb { 1 } } _ { \ast } { \mathbb { 1 } } _ { \ast } = 0 . 5 2 )$ 。
+
+# 3.2.3焦虑对重量感知判断的影响
+
+对 2(组别：心算任务组/奇偶判断任务组 $) { \times } 2 |$ (测试次序：前测/后测）四种情况下的重量感知判断均值进行两因素混合设计方差分析。结果表明，组别的主效应不显著, $F ( 1 , 6 3 ) { = } 2 . 4 9$ $\scriptstyle p = 0 . 1 1 9$ ，测试次序的主效应显著， $F ( 1 , 6 3 ) { = } 2 1 . 1 7 , p { < } 0 . 0 0 1 , \eta _ { \mathrm { p } } ^ { 2 } { = } 0 . 2 5 , 9 0 \% \operatorname { C I } { = } [ 0 . 1 1 , 0 . 3 8 ]$ 。组别 $\times$ 测试次序的交互作用显著, $F ( 1 , 6 3 ) { = } 7 . 3 6 , p { = } 0 . 0 0 9 , \mathsf { \boldsymbol { \eta } } _ { \mathsf { p } } ^ { 2 } = 0 . 1 1 , 9 0 \% \mathsf { C I } { = } [ 0 . 0 2 , 0 . 2 3 ]$ 。简单效应分析显示，心算任务组的重量感知判断前后差异明显, $F ( 1 , 6 3 ) = 2 7 . 1 6$ $p < 0 . 0 0 1$ ， $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 3 0$ $9 0 \% \mathrm { C I } { = } [ 0 . 1 5 , 0 . 4 3 ]$ ，后测的重量感知判断显著高于前测；而在奇偶判断任务组中，前、后测无显著差异, $F ( 1 , 6 3 ) = 1 . 7 6 , p = 0 . 1 9 0 .$ 。此外，两组被试对重量的感知判断在前测中无显著差异， $F ( 1 , 6 3 ) = 0 . 3 4$ $p = 0 . 5 6 1$ ；后测时差异显著, $F ( 1 , 6 3 ) = 4 . 6 0$ $p = 0 . 0 3 6$ $\eta _ { \mathrm { p } } ^ { 2 } = 0 . 0 7$ ， $9 0 \%$ CI=[0.002,0.18]，心算任务组对重量的感知判断高于奇偶判断任务组(如图4)。以上结果表明，两组被试在实验处理前的重量感知判断结果相当，做奇偶判断任务对重量感知判断没有影响作用，但做心算任务则能有效改变被试的重量感知判断。
+
+![](images/b28437b40b35a913b01b0746e029bd8c521aee2863661b2e39221f3089491dff.jpg)  
+图4心算任务组、奇偶判断任务组重量感知判断的前后测比较（图中的误差线代表标准差）
+
+为进一步探讨认知任务诱发的焦虑对重量感知判断准确性的影响程度，对两组被试重量感知判断偏离量的描述统计如图5所示(计算方法同实验1)：在前测中，奇偶判断任务组号 $( M = 0 . 3 8$ $S D = 1 . 6 6 )$ 和心算任务组 $( M = 0 . 6 3$ ， $S D = 1 . 8 3 { \cdot }$ 的偏离量均为正值，表明被试均高估了背包的实际重量。然而在完成了认知操作任务后，相较奇偶判断任务组 $( M = 0 . 7 4$ ， $\ S D =$ 2.22)，心算任务组被试 $( M = 2 . 0 3$ ， $S D = 2 . 6 0 )$ 的重量感知判断偏离量增大，即他们会更加高估背包的重量。无论是前后测，奇偶判断任务组的重量感知判断偏离量均相对较小。
+
+![](images/8e46cb79f73608111b7423abeb6bbaaeb0fe8baec078d5f0f5b384533689add5.jpg)  
+图5心算任务组、奇偶判断任务组重量感知判断的准确性（图中的误差线代表标准差）
+
+# 4实验3：特质焦虑对重量感知判断的影响
+
+焦虑不仅可以作为情绪状态而存在，亦可形成一种相对稳定的人格特质，即特质焦虑。实验1和实验2已经为焦虑的情绪状态能够导致个体高估外界物体的重量提供了跨任务的实验证据支持，实验3拟进一步探讨特质焦虑与重量感知判断间是否也同样存在关联。由于特质焦虑属于机体变量，因此本实验采用准实验设计。研究假设如下：相比低特质焦虑的个体，
+
+高特质焦虑者对背包重量的判断会更重。
+
+# 4.1 预实验
+
+为检验实验设计的可行性，在正式实验前进行了预实验。采用单因素两水平被试间设计，自变量为个体特质焦虑水平的高低，因变量为对背包重量的判断。
+
+实验招募了272名在校大学生接受特质焦虑量表(T-AI)的测试，并按照T-AI总分进行排序，邀请总分最高的 $1 5 \%$ (高特质焦虑组)和最低的 $1 5 \%$ (低特质焦虑组)来参加重量感知判断实验，最后招募到了 58 名(40 女)大学生。预实验中高特质焦虑组(共 28人，20 女)对背包重量的感知判断重于低特质焦虑组(共30人,20女)，组间差异效应量Cohen's $d \mathrm { = } 0 . 5 3$ ， $9 5 \%$ CI=$[ - 0 . 0 0 4 , 1 . 0 5 ] , t ( 5 6 ) = - 1 . 9 9 , p = 0 . 0 5 4$ ，后验 $1 - \beta = 0 . 5 2$ 。
+
+# 4.2 正式实验
+
+# 4.2.1 方法
+
+# 4.2.1.1 被试
+
+运用G\*Power 3.1软件 (Fauletal.,2007)，根据预实验得到的数据统计结果，设置效应量Cohen's $= 0 . 5 , \mathrm { { a } } = 0 . 0 5 , 1 - \beta = 0 . 8$ ，估算得双侧检验显著所需最小样本容量为128。
+
+采用方便抽样法招募552名在校大学生参加特质焦虑量表(T-AI)的测试，按T-AI总分的高低排序，前 $1 5 \%$ 为高特质焦虑组，后 $1 5 \%$ 为低特质焦虑组，邀请这两个T-AI极端组的成员来参加实验。最终参加实验的被试为128人(97女)，年龄在16\~22 岁之间 $( M = 1 9 . 3 4$ ， $S D = { }$ 0.86),其中高特质焦虑组64人(49 女)，低特质焦虑组64人(48女)。两个组的特质焦虑水平存在显著差异 $( t ( 1 2 6 ) = - 3 6 . 6 8 , p < 0 . 0 0 1 )$ ，高特质焦虑组的T-AI总分 $( M = 5 8 . 1 3 , S D = 4 . 8 5 )$ 显著高于低特质焦虑组 $( M = 3 2 . 5 5 , S D = 2 . 7 6 )$ 。
+
+# 4.2.1.2 实验任务和材料
+
+(1）重量估计。同实验1中后测的3个背包及参考背包。  
+(2）特质焦虑量表(T-AI)。同实验1。
+
+# 4.2.1.3 实验程序
+
+告知被试本实验是关于重量判断准确性的研究，让被试双肩背负 $0 . 5 \mathrm { k g }$ 的背包作为参考重量，随后按照随机顺序双肩背负并估计背包4\~6的重量。实验结束后经询问发现被试并未察觉到该实验的真实目的。
+
+# 4.2.2 结果
+
+高、低特质焦虑组被试的重量感知判断存在显著的组间差异, $t ( 1 2 6 ) = - 3 . 2 5$ ， $p = 0 . 0 0 2$ Cohen's $d = 0 . 5 8$ $9 5 \%$ CI=[0.69,2.84]。高特质焦虑组对背包重量的感知判断 $( M = 6 . 3 9$ ， $S D =$
+
+3.88)显著高于低特质焦虑组( $\mathbf { \mathcal { M } } = 4 . 6 3$ $S D = 1 . 9 3 { \mathrm { \Omega } }$ (见图6)。
+
+![](images/372768e28bcb74f670acb4f1c7efe0aa2358858eba202867cf93c61827b95a70.jpg)  
+图6高、低特质焦虑组重量感知判断的比较（图中的误差线代表标准差）
+
+对两组被试重量感知判断偏离量的描述统计如图7所示(计算方法同上)。可见，高特质焦虑被试 $( M = 1 . 7 2 , S D = 3 . 8 8 )$ 的平均偏离量为正值，即高估了背包的真实重量，而低特质焦虑被试 $( M = - \ 0 . 0 4 , S D = 1 . 9 3 )$ 的平均偏离量为负值，即低估了背包的真实重量。换言之，低特质焦虑个体的重量感知判断偏离量更接近0，即他们对重量的判断更为准确，而高特质焦虑个体会夸大背包的重量。
+
+![](images/ba0ff54bdbbb842f5e9af89f7334be0c5750510cb5b82cc4d38b06df50652d07.jpg)  
+图7高、低特质焦虑组重量感知判断均值的准确性（图中的误差线代表标准差）
+
+最后，以组别为自变量(或准自变量)，对比验1、实验2和实验3中重量感知判断值的后测组间差异效应量Cohen's $d$ ，可发现在三类任务条件下所获得的效应量分别是 $d$ 实验 $_ { 1 } = 0 . 5 4$ ，$d$ 实验 $_ { 2 } { = } 0 . 5 3$ 、 $d$ 实验 $_ { 3 = 0 . 5 8 }$ ，具有一致性。进一步运用JASP0.14.1对三个 $d$ 值进行元分析，结果显示：三个实验的效应量的异质性较小， $Q { = } 0 . 0 2$ ， $\scriptstyle p = 0 . 9 9$ ， $\scriptstyle I ^ { 2 } = 0$ ，其合并效应值为0.56,
+
+$Z { = } 4 . 3 7$ $p < 0 . 0 0 1$ ， $9 5 \%$ （20 $\mathrm { C I } =$ [0.31,0.81]。这为焦虑情绪或焦虑的人格特征都能影响重量感知判断提供了跨任务情境的实验证据支持。
+
+# 5讨论
+
+# 5.1三个实验中焦虑的性质对比
+
+本研究通过三个实验探讨了三种性质有所不同的焦虑形式对重量感知判断的影响。具体而言，实验1检验了由身体姿势诱发的焦虑对重量感知判断的影响，实验2则聚焦日常生活中更为常见的由某种认知操作任务或外部刺激诱发的焦虑，实验3进一步探讨了相对稳定的特质焦虑与重量感知判断之间存在的关联。
+
+就焦虑的性质而言，实验1中的焦虑虽由身体姿势所诱发，但不同于上文中身体处于高处诱发的焦虑，此时的焦虑感受主要是个体对完成相应动作引起的身体变化的感觉；实验 2中的焦虑则由压力性的外部任务所诱发，伴随个体的认知解释而生，此时的焦虑感受主要是认知评价的结果。因此，两种焦虑有着不同的发生机制，也就有着不同的理论基础：前者属于情绪具身观，而后者属侧重离身的情绪认知理论(刘亚 等，2011)。但是，当我们将视线集中于情绪的持续阶段时，二者均可作为一种状态而存在。实验3中的特质焦虑反映的则是焦虑易感性上的个体差异，是一种稳定的人格特质，在时间上具有持久性。
+
+实验1\~2基于焦虑的直接和间接测量两个层面出发，会聚验证了焦虑的身体姿势和心算任务的确诱发出了焦虑情绪，表明对实验自变量的操纵是有效的，也确保了本研究为真正意义上的关于焦虑的本体研究。实验3通过极端组法获得的高、低特质焦虑组之间的焦虑分数具有显著差异，同样也表明对自变量的操纵是有效的。值得注意且颇为有趣的是，不同于实验2中心算任务对焦虑的直、间接测量的诱发效应具有一致性，实验1中身体姿势对焦虑的诱发效应在两种测量方式上存在一定的差异，表现出对焦虑的间接测量的诱发效应更大，这可能与具身情绪的特点有关。实验1中身体姿势诱发的焦虑是一种具身情绪，该情绪以躯体的行为反应为前提，是对外部刺激所引起的身体变化的觉知(刘亚 等，2011；Wood et al.,2016)，其信息加工是自动化发生的，符合内隐情绪的定义(鲍婧，傅纳,2018)。因此，采用身体姿势诱发焦虑时，个体可能并没有较多意识的参与，他们能够觉知身体的变化，但无法清楚地意识到自己所产生的感受是焦虑。
+
+# 5.2焦虑影响对重量的感知判断及理论贡献
+
+具体至焦虑对重量感知判断的影响，研究结果发现无论是作为状态存在的焦虑还是作为稳定的人格特质而存在的焦虑均会导致个体夸大外界物体的重量，对重量感知判断的准确性降低。进一步比较三个实验中的背包重量感知判断值的后测组间差异效应量Cohen's d值，元分析的结果表明：三个实验的效应量的异质性较小， $Q { = } 0 . 0 2$ $\scriptstyle p = 0 . 9 9$ $\scriptstyle I ^ { 2 } = 0$ ，其合并效应值为0.56, $Z { = } 4 . 3 7$ $p < 0 . 0 0 1$ $9 5 \%$ CI= [0.31,0.81]。可见不同性质的焦虑对重量感知判断的影响具有跨情境的稳定性。上述结果表明焦虑会影响个体对物体物理属性的感知判断，具体表现为夸大外界物体的重量，认为物体更重。这一结果意味着焦虑的个体会认为周围的环境更具威胁性或挑战性：由上文相关研究的发现可知当个体的资源不足时，山丘会变得更陡、目标物体或物体间的距离会变得更远、物体重量会变得更重，而更陡、更远、更重在一定程度上正是环境更具威胁性或挑战性的具体体现。
+
+本研究发现焦虑影响对重量的感知判断，这一发现与行动经济理论的核心观点相吻合。那么，焦虑的属性是什么?它究竟属于身体还是心理资源？Stefanucci 等人(2011)认为情绪是影响感知判断的一种身体状态,Proffitt(2006)也持类似的观点。基于此观点，情绪似应归属于身体资源。本研究认为情绪虽与身体紧密相连，却不囿于身体属性，生活中我们更多体验到的是情绪的心理属性。因而，将焦虑简单归为身体资源似有不妥，并且也不宜将焦虑作为一种心理资源。焦虑来自对资源不足的恐惧(柯特曼 等,2017)。虽然此处的资源主要是指金钱，但依然能够表明焦虑与资源有关。另有研究发现大学生的乐观、自尊等心理社会资源与社交焦虑呈显著负相关，且前者能够负向预测后者(李小新 等，2019)。因此，焦虑在一定意义上可视为个体应对资源不足的表现，或者说焦虑与资源不足有关，从而影响了对物理环境的感知判断。
+
+目前不少研究也发现，个体的生理资源(Bhalla & Proffitt,1999;Schnall et al.,2010)和心理资源(Gorman et al.,2017; Harber et al.,2011; Lee & Schnall,2014; Riener et al.,2011; Schnallet al.,2008;Zhou et al.,2009)，都可以影响对外界环境的感知判断。有意思的是,Pijpers 等人(2006)的研究发现在攀爬运动中由于身体处于高空诱发的焦虑会使个体低估自己在攀岩墙上预计和实际可达到的最大高度，这里焦虑的表现是"低估"而非“夸大”。但是，值得注意的是在Pijpers 等人的研究中个体低估的是自己的表现，而非外界环境。这一结果意味着焦虑不仅可以影响对物理世界的感知判断，还可影响行为者对自身任务表现的判断，并且前者可能影响后者，进而对行动产生影响。
+
+进一步聚焦至重量感知判断的相关研究:Lee 和 Schnall(2014)通过权力姿势的操纵和回忆权力性事件来诱发高、低不同水平的权力感，进而探讨社会权力对重量感知判断的影响，发现低社会权力感的个体会夸大物体的重量；此外，有人针对"无债一身轻"的现象进行了探讨，结果发现负债者认为自己的体重更重(Liu etal.,2018)。社会权力感和债务本身并没有实际的重量，但低社会权力感的人和负债的人却感受到了沉重，如同背负着实际的重量一般。在此基础上，我们首次系统探讨了焦虑对重量感知判断的影响，揭示了焦虑的重量属性，也再次拓展了行动经济理论—一将其从视觉感知拓展至重量感知。上述研究发现意味着不仅身体和心理资源会影响感知判断，现实资源(例如欠钱、物资匮乏等)乃至身心及现实资源不足所致的身心状态(也有可能与资源无直接关系，如悲伤)都可能会影响个体对物理环境的感知，并且这种影响并不一定局限于视觉和重量领域。
+
+# 5.3本研究的局限和感知研究的争议
+
+本研究中，实验2用以诱发焦虑的心算任务范式主要参照了贾丽萍等人(2017)的研究。该研究采用心算任务成功诱发了焦虑情绪，并探讨了正、负性情绪对高、低状态焦虑个体认知抑制的影响。此外，心算任务还可以诱发应激。虽然应激反应与焦虑并不等同，但应激状态下有可能产生以焦虑为主的情绪反应，表现为在有时间压力的情况下个体的状态焦虑水平显著上升(齐铭铭，2017；李长燃，2018)。综上，相关研究表明心算任务范式可以作为诱发焦虑或焦虑为主的情绪反应的有效手段。
+
+但值得注意的是：即便如上述，心算任务也可用于认知负荷的研究(熊荣龙，2021；尹华站 等,2017)。Cooper (1990)将认知负荷定义为在特定的作业时间内施加于个体的工作记忆的心理活动总量。这类研究中心算任务是认知负荷的载体，心算负荷便是认知负荷。认知负荷的理论基础之一为资源有限理论。该理论认为完成每一任务都需占用一定的心理资源，而人的心理资源总量是有限的。因此，本研究的局限之处在于实验2中焦虑对重量感知判断的影响有可能掺杂了由于认知负荷(心算、奇偶判断任务)不同而占用的心理资源的差异所带来的影响。换言之，如何将"操纵手段"与"操纵效果"(操纵带来的变化)区分开来，是本研究及上述与心算任务相关的两类研究接下来需进一步思考并予以澄清的问题。
+
+在感知研究中，富有争议之处便是感知判断究竟是基于潜在的知觉表征还是基于对知觉表征的认知解释，支持具身感知的研究结果也因涉及需求特征而受到批评。具体而言，围绕着行动经济理论及其相关的研究证据，一些研究者(e.g.,Durgin et al.，2009; Durgin et al.,2012; Firestone,2013; Firestone & Scholl,2014; Shaffer et al.,2013; Woods et al.,2009)提出了质疑，他们认为那些能够支撑行动经济理论的研究发现是由于与知觉因素无关的实验要求特征所导致的，并提出将知觉与判断分离开来。支持需求特征的相关解释依赖于这样的操作和假设：一旦个体得到适当或明显的指示，他们的"真实"感知过程便可从迎合实验需求的判断过程中分离出来。但是，这样的假设是不恰当的，因为人们无法反思自己判断背后的原因，且判断发生在意识之外，具有适应功能(Schnall,2017)，人为的、故意的提示反而使感知判断失去了自然性、真实性(Clore&Proffitt,2016)。
+
+对于本研究而言，三个实验均未告诉被试真正的目的，实验结束后经询问证实他们并未察觉到焦虑与重量判断之间的关联，因此要求特征也就难以发挥作用。至于感知与判断的分离问题，Schnall(2017)通过对感知判断的相关研究进行回顾，发现两者的分离是不可行的,并指出尽管上述研究者对行动经济理论及其证据进行了批评和质疑，但并未能提出任何替代性的理论来解释相关现象。因此，行动经济理论仍是目前此领域可用的有效理论。
+
+综上所述，本研究发现焦虑会影响个体对外界物体重量的感知判断，导致对物体重量感知的准确性降低，认为物体更重。换言之，焦虑似乎存在着类似重量的属性，它本身虽没有重量，但却如同实际的负担一样，让人感到沉重。这一发现提示我们在现实生活中应关注焦虑(包括状态焦虑和特质焦虑)个体的身体感受；其次，对焦虑的干预在采用心理辅导和治疗手段的同时，可着重加强身体层面的放松或减负训练，或许能达到事半功倍的效果。
+
+# 6结论
+
+本研究基于行动经济理论，考察了焦虑对重量感知判断的影响，获得如下结论：(1)焦虑的身体姿势能够诱发出焦虑情绪，焦虑会增加对物体重量的感知；(2）具有压力性的心算任务能够诱发出焦虑情绪，个体在焦虑状态下对物体重量的感知明显增加，认为物体更重；(3)特质焦虑影响重量感知，高特质焦虑者对物体重量的感知更为沉重。本研究表明焦虑会影响个体对物体物理属性的感知。
+
+参考文献   
+Bao,J.,&Fu,N.(2O18).Embodying emotionregulation:The effect offacial expression on implicit affect.Studies of Psychology and Behavior, 16(2),180-187.   
+[鲍婧，傅纳.(2018).具身的情绪调节：面部表情对内隐情绪的影响．心理与行为研究,16(2),180-187.]   
+Berggren,N. (2O2O).Rapid atentional biases to threat-associated visual features: The roles of anxietyand visual working memory access. Emotion. Advance online publication. https://doi.org/10.1037/emo0000761   
+Bhalla,M.,& Profitt,D.R.(1999). Visual-motor recalibration in geographical slant perception.Journal of Experimental Psychology: Human Perception and Performance, 25(4),1076-1096.   
+Blanchete,I.,& Richards,A. (2010).The influence of affct on higher level cognition: A review of research on interpretation, judgement, decision making and reasoning. Cognition & Emotion, 24(4),561-595.   
+Canal-Bruland,R.,Pijpers,J.R.，& Oudejans,R.R.D.(2O10).The influence of anxiety onaction-specific perception. Anxiety, Stress & Coping,23(3),353-361.   
+Clore,G L.,& Proffit, D.R. (2016). The myth of pure perception. Behavioral & Brain Sciences,39,1-77.   
+Cohen,J. (1988). Statistical power analysis for the behavioral sciences.Hilsdale,NJ: Lawrence Erlbaum Associates.   
+Cooper,G. (199o). Cognitive load theory as anaid for instructional design. Australasian Journal of Educational Technology, 6(2),108-113.   
+Cortman,C.,Shinitzky,H.,&OConnor,L. A. (2017).Takecontrolof yournxiety (Li,C.H.,Trans.).Beijing: Beijing United Publishing Co., Ltd.   
+[克里斯多夫.柯特曼，哈洛.辛尼斯基，劳里.安.奥康娜 (2017).如何才能不焦虑(李春花 译).北京：北京联 合出版公司.]   
+Day，M.V.,& Bobocel,D.R.(2O13). The weight of a guilty conscience: Subjective body weight asan embodiment of guilt. PLOS ONE, 8(7), Article e69546. https://doi.0rg/10.1371/journal.pone.0069546.   
+Derakshan,N.,& Eysenck，M.W. (20o9). Anxiety，processing efficiency，and cognitive performance: New developments from attentional control theory. European Psychologist, 14(2),168-176.   
+Doerrfeld,A.,Sebanz,N.,& Shiffar,M.(2O12).Expecting to lift abox together makes the load look lighter. Psychological Research, 76(4), 467-475.   
+Durgin,F. H.,Baird,J.A., Greenburg,M.,Russel,R.,Shaughnessy,K.,& Waymouth,S. (2O09). Whois being deceived? The experimental demands of wearing a backpack. Psychonomic Bulletin & Review,16(5),
+
+964-969.
+
+Durgin,F.H.,Klein,B.,Spiegel,A.,Strawser,C.J.,& Williams,M. (2Ol2).Thesocial psychologyofperception experiments: Hills，backpacks， glucose and the problem of generalizability. Journal of Experimental Psychology: Human Perception and Performance,38(6),1582-1595.   
+Eves,F.F. (2014).Is there any profittin stair climbing?A headcount of studies testing for demographic differences in choice of stairs. Psychonomic Bulltin & Review, 21(1),71-77.   
+Eysenck，M.W.，& Derakshan，N. (2011). New perspectives in atentional control theory. Personality and Individual Differences,50(7), 955-960.   
+Faul,F.,Erdfelder,E.,Lang，A.G.,& Buchner,A.(2O07).G\*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods,39(2),175-191.   
+Firestone, C. (20l3). How “paternalistic” is spatial perception? Why wearing a heavy backpack doesn't—and couldn't—make hils look steeper. Perspectives on Psychological Science, 8(4), 455-473.   
+Firestone,C.,& Schol, B.J.(2014).“Top-down”efcts where none should be found:The El Greco fallcy in perception research. Psychological Science, 25(1),38-46.   
+Gorman,J.L.,Harber, K.D., Shifrar,M.,& Quigley, K. S.(2017).Ostracism,resources,and the perceptionof human motion. European Journal of Social Psychology, 47(1), 53-71.   
+Hansen,J.,& Steinmetz,J.(2019). Motivated level of construal: How temperature affects the construal level of state-relevant stimuli. Motivation and Emotion, 43(3), 434-446.   
+Harber,K.D., Yeung,D.,& Iacovelli, A. (20l1).Psychosocial resources,threat,and the perceptionofdistanceand height: Support for the resources and perception model. Emotion,1l(5),1080-1090.   
+Hou,R. (2009). The influence of emotion on cognition. Psychological Research,2(1),28-33.   
+[侯然.(2009)．情绪对认知活动的影响.心理研究,2(1),28-33.]   
+Huang,L.,Galinsky,A.D.,Gruenfeld,D.H.,& Guillry,L.E. (20l1).Powerful postures versus powerful roles: Which is the proximate correlate of thought and behavior? Psychological Science, 22(1),95-102.   
+Huynh,S.,Stefanucci,J.K.，& Aspinwall,L. G (2014). Selfafirmation counters the effects of self-regulatory resource depletion on height perception. Journal of Experimental Social Psychology, 52, 96-100.   
+Jia,L.P. (2014).The effect of emotion inhibition of individuals with different types of anxiety (Unpublished doctorial dissertation). Tianjin Normal University.   
+[贾丽萍.(2014).情绪对不同焦虑水平个体抑制功能的影响 (博士学位论文).天津师范大学.]   
+Karwowski, W. (1991). Psychophysical acceptability and perception of load heaviness by females. Ergonomics,
+
+34(4),487-496.
+
+Kirsch，W.，Herbort,O.，Ulrich，B.，& Kunde，W.(2017).On the origin of body-related influenceson visual perception. Journal of Experimental Psychology: Human Perception and Performance, 43(6), 1222-1237.
+
+Krpan,D.,& Schnall，S.(2018).Close or far? Afect explains conflicting findingson motivated distance perception to rewards. Acta Psychologica, 190,188-198.   
+Lee,E.H., & Schnall, S.(2014). The influence of social power on weight perception.Journal of Experimental Psychology: General,143(4),1719-1725.   
+Li, C. R.(2018). The efect of embodied regulation on stress anxiety (Unpublished master's thesis). Southwest University, Chongqing.   
+[李长燃.(2018).应激焦虑的具身调节作用 (硕士学位论文)．西南大学，重庆.]   
+Li,S.W.，& Fan,F.M.(2015). Cognitive bias modification for anxiety disorders: Application and conflict. Advances in Psychological Science,23(9),1588-1598.   
+[李松蔚，樊富珉.(2015)．焦虑障碍的认知偏向矫正：应用与争议.心理科学进展,23(9),1588-1598.]   
+Li,W.L.，& Qian,M. Y. (1995). Revision of the State-Trait Anxiety Inventory with sample of Chinses college students.Acta Scientiarum Naturalium Universitatis Pekinensis,31(1),108-114.   
+[李文利，钱铭怡.(1995).状态特质焦虑量表中国大学生常模修订.北京大学学报(自然科学版)，31(1), 108-114.]   
+Li, X. X.,Ren,Z. H.,Hu, X. Y.,& Guo, Y. Y. (2019). Why are undergraduates from lower-class families more likely to experience social anxiety?—The multiple mediating effcts of psychosocial resources and rejection sensitivity. Journal of Psychological Science, 42(6),1354-1360.   
+[李小新，任志洪，胡小勇，郭永玉．(2019)．低家庭社会阶层大学生为何更容易社交焦虑？ 一心理社会资 源和拒绝敏感性的多重中介作用.心理科学,42(6),1354-1360.]   
+Liu,H. Z., Li,S.，& Rao,L.L. (2018). Out of debt,out of burden: The physical burdens of debt. Journal of Experimental Social Psychology, 76,155-160.   
+Liu, Y.,Wang, Z. H.,& Kong,F. (2O11). The view of embodied emotion: A new perspective on emotion study. Advances in Psychological Science,19(1),50-59.   
+[刘亚，王振宏，孔风.(2011).情绪具身观：情绪研究的新视角．心理科学进展,19(1),50-59.]   
+Mogg,K.,& Bradley,B.P. (2O18).Anxietyand threat-related atention: Cognitive-motivational framework and treatment. Trends in Cognitive Sciences,22(3),225-240.   
+Pijpers,J.R.,Oudejans,R.R.D.，Bakker,F.C.,& Beek,P.J.(2O06).The role of anxiety in perceivingand realizing affordances. Ecological Psychology,18(3),131-161.   
+Proffitt,D.R. (2o06). Embodied perception and the economy of action. Perspectives on Psychological Science, 1(2), 110-122.   
+Proffitt,D.R.,Stefanucci,J.K.,Banton,T.，& Epstein,W. (2003).The role of effort in perceiving distance. Psychological Science,14(2),106-112.   
+Qi,M. M. (2017). Effect of acute psychological stresson attention procesing (Unpublished doctorial dissertation). Southwest University, Chongqing.   
+[齐铭铭.(2017)．急性心理性应激对注意加工过程的影响(博士学位论文)．西南大学，重庆.]   
+Riener,C.R.，Stefanucci,J.K.，Profitt,D.R.，& Clore,G. (2011).An effect of mood on the perception of geographical slant. Cognition& Emotion,25(1),174-182.   
+Riskind,J.H.,& Gotay,C.C.(982).Physical posture: Could ithaveregulatory or feedback effcts onmotivation and emotion? Motivation and Emotion, 6(3),273-298.   
+Schnall,S. (2O17). Social and contextual constraints on embodied perception. Perspectives on Psychological Science, 12(2),325-340.   
+Schnall,S.，Harber,，K.D.， Stefanucci, J.K.，& Profitt,D.R.(2O08). Social support and the perception of geographical slant. Journal of Experimental Social Psychology, 44(5),1246-1255.   
+Schnall,S., Zadra,J.R.,& Profit,D.R.(2O10).Direct evidence for the economyof action: Glucose and the perception of geographical slant. Perception, 39(4), 464-482.   
+Shafer,D.M., McManama,E.,Swank,C.,& Durgin,F.H. (2013). Sugar and space? Not thecase: Efects of low blood glucose on slant estimation are mediated by beliefs. i-Perception, 4(3),147-155.   
+Sherman,J.A.,& Ehrenreich-May, J. (2018). Ethnicity'srole in the relationship betweenanxietyand negative interpretation bias among clinically anxious youth: A pilot study. Child Psychiatry & Human Development, 49,396-408.   
+Si, J. W., Xu, Y.L.,Feng,H. M., Xu,X. H.,& Zhou,C. (2014). Differences of arithmetic strategyuse in adults with different math anxieties: An ERP study. Acta Psychologica Sinica, 46(12),1835-1849.   
+[司继伟，徐艳丽，封洪敏，许晓华，周超.(2014).不同数学焦虑成人的算术策略运用差异：ERP 研究.心理 学报,46(12),1835-1849.]   
+Slepian,M.L.,Masicampo,E.J.,Toosi,N.R.,&Ambady,N. (2012).The physical burdens of secrecy. Journal of Experimental Psychology: General,141(4),619-624.   
+Spielberger,C.D.,Gorsuch,R.L.,Lushene,P.R.,Vagg,P.R.,&Jacobs,GA.(1983).ManualfortheState-Trait Anxiety Inventory (form Y1-Y2). Palo Alto, CA: Consulting Psychologists Press.   
+Stefanucci,J.K.,Gagnon,K.T.,& Lessard,D.A.(2O11).Follow your heart: Emotion adaptively influences perception. Soc Personal Psychol Compass, 5(6),296-308.   
+Stefanucci,J.K.,&Proffit,D.R. (2O09).Therolesof altitudeand fear in theperceptionof height.Journalof Experimental Psychology: Human Perception and Performance,35(2), 424-438.   
+Stefanucci,J.K.,Profitt,D.R., Clore,G,&Parekh,N. (2O08).Skating down asteeper slope: Fearinfluences the perception of geographical slant. Perception, 37(2),321-323.   
+Stepper,S.,& Strack,F. (1993).Proprioceptive determinants of emotional and nonemotional felings.Journal of Personality and Social Psychology, 64(2),211-220.   
+Sugovic,M.,Turk,P.,& Witt,J. K. (2016). Perceived distance andobesity: It's what you weigh,not what you think. Acta Psychologica,165,1-8.   
+Tamir,M.(202O).Efortful emotion regulation as a unique form of cybernetic control,Perspectives on Psychological Science. Advance online publication. htps://doi.org/10.1177/1745691620922199   
+Wang, J.,Song,Q.Y.,Xu,Y.P.,Jia,B.B.,&Hu,C.P. (2O19). Calculating confidence intervals ofConhen's dand Eta-squared: A practical primer. Psychology: Techniques and Applications, 7(5),284-296.   
+[王珺，宋琼雅，许岳培，贾彬彬，胡传鹏.(2019).效应量置信区间的原理及其实现．心理技术与应用，7(5), 284-296.]   
+Witt, J. K.,Profitt,D.R.,&Epstein,W. (2O4).Perceiving distance: Aroleof effortand intent.Perception,33(5), 577-590.   
+Wood,A.，Rychlowska, M.,Korb,S.,& Niedenthal,P. (2016).Fashioning the face: Sensorimotor simulation contributes to facial expression recognition. Trends in Cognitive Sciences, 20(3), 227-240.   
+Woods,A.J.,Philbeck,J.W.,& Danoff,J.V. (2009).The various perceptions of distance: Analternative viewof how effort affects distance judgments. Journal of Experimental Psychology: Human Perception and Performance, 35(4), 1104-117.   
+Xiong,R.L. (2021). Physiological pattern recognition of cognitive (Unpublished master's thesis). Southwest University, Chongqing.   
+[熊荣龙.(2021).认知负荷的生理模式识别 (硕士学位论文)．西南大学，重庆.]   
+Yair, B.H.,Dominique,L.,Lee,P.,Bakermans-Kranenburg,M.J.,&vanIjzendoorn,M.H. (2oo). Threat-related atentional bias inanxiousand nonanxious individuals:Ameta-analytic study.Psychological Bulletin,133(1),
+
+1-24.
+
+Yan,Y. (2018). Influence of body languages on collge students’ public speaking anxiety. Journal of Liaoning Teachers College(Natural Science Edition),20(2),83-84+100.   
+[颜彦.(2018)．肢体语言对大学生公众演讲焦虑的影响．辽宁师专学报(自然科学版),20 (2),83-84+100.]   
+Yin,H. Z.,Li,D., Chen,Y. Y.,& Huang,X.T.(2017). The study of the characteristic of duration cognition segmentation in sub-second intervals.Journal of Psychological Science,40(2),321-328.   
+[尹华站，李丹，陈盈羽，黄希庭.(2017).1s 范围视听时距认知的分段性研究．心理科学,40(2),321-328.]   
+Zheng,X.H.，Shu,L., Zhang,A.L., Huang, G. L., Zhao,J.F.，Sun,M.，... Xu,D.(1993). The test about State-Trait Anxiety Inventory in Changchun. Chinese Mental Health Journal,7(2), 60-62.   
+[郑晓华，舒良，张艾琳，黄桂兰，赵吉凤，孙明，..徐丹.(1993).状态—特质焦虑问题在长春的测试报 告．中国心理卫生杂志,7(2),60-62.]   
+Zhou,X., Vohs,K.D.,& Baumeister,R.F. (2O09). The symbolic power of money: Reminders of money alter social distress and physical pain.Psychological Science,2O(6),7O0-706.   
+Zhu, J. W., Zhang, Y. Q.,Huang,H.X.,& Zhang,F. (2O14). Induced anxiety havecausal effects on interpretative bias across self/other-related situations. Chinese Journal of Clinical Psychology,22(4),589-593.   
+[朱金卫，张艳琴，黄会欣，张锋.(2014).焦虑诱发对歧义性信息解释偏向的影响一 —基于跨自我/他人相关 情境的探讨.中国临床心理学杂志,22(4),589-593.]
+
+# The Influence of Anxiety on Weight Perception
+
+CHEN Xuyan $^ { 1 , 2 }$ ,LI Peng ', YAN Zhiying
+
+(Faculty of Education, Yunnan Normal University, Kunming 65o5Oo,China) ( Yunnan Lightand Textile Industry VocationalCollege,Kunming 65o300,China)
+
+# Abstract
+
+The economy of action argues that individuals’ perceptions of the physical environment are related to the resources they possess. Anxiety is an emotion characterized by an unpleasant state of inner turmoil, often associated with threat or risk,that can be viewed as a manifestation of inadequate coping resources. Therefore，anxiety may affect individuals’ perceptions of the physical environment around them. Previous studies have shown that exercise influence perceptual judgments mostly based on vision-based perceptual indicators，and rarely involved stress anxiety and trait anxiety that are more common in the field of life. However, this study employed weight-based perception indicators rather than vision-based indicators to investigate the effects of two kinds of state anxiety in daily life with different mechanisms and the more stable trait anxiety on the perception of object weight, and proposed the following research hypothesis: individuals perceived objects as heavier in state or trait anxiety.
+
+In the present work,we conducted three studies to systematically investigate the effects of three types of anxiety with different attributes on the perception of weight: body posture-induced anxiety (Experiment 1), external task-induced anxiety (Experiment 2),and trait anxiety, which is stable at the personality level (Experiment 3).Participants in both Experiment 1 and Experiment 2 were asked to report their anxiety before and after the experimental task was manipulated and to judge the weight of the backpack they carried. In Experiment 1, 64 participants were randomly assigned to the anxious body posture group $\scriptstyle ( 1 = 3 2$ ）and the relaxed body posture group $\scriptstyle ( 1 = 3 2$ by being asked to do diferent body postures. In Experiment 2， 65 participants were randomly assigned to either the mental arithmetic task group $\scriptstyle ( 1 = 3 3$ ）or the odd-even task group( $\scriptstyle ( 1 = 3 2$ ).In Experiment 3,based on the scores of the Trait Anxiety Inventory(T-AI) Scale,high and low scorers were selected to constitute a high-level trait anxiety group ( $_ { \mathrm { n = 6 4 } }$ ）and a low-level trait anxiety group $\scriptstyle ( \ n = 6 4 )$ , and were asked to perceive the post-test weight of the three backpacks.
+
+The results of three experiments showed that the influence of anxiety on weight perception.
+
+In Experiment 1, we found that the anxious body posture induced anxiety,and participants in the anxious body posture group perceived the weight of the object as heavier than those in the relaxed body posture group.The results of Experiment 2 revealed that the stressful mental arithmetic task induced anxiety,and participants in the mental arithmetic task group perceived the weight of the object as heavier than those in the odd-even judgment task group. The results of Experiment 3 indicated that participants in the high-level trait anxiety group perceived the weight of the object as heavier than those in the low-level trait anxiety group.
+
+The results of the three experiments suggest that either the state anxiety induced by physical changes or cognitive evaluations,or the more stable trait anxiety at the personality level, affects individuals’ perceptions of physical properties of objects, leading them to perceive objects as heavier. This study extends the indicator of perception from the visual to the weight domain at the theoretical level, validates and extends the economy of action theory again; the revealed features of weight perception of anxious individuals provide a new physical perspective for anxiety intervention,and such findings can be applied to the design of human-computer interfaces in the future, which is of great practical significance.
+
+Key wordsanxiety, weight, perception, judgement
+
+# 附件
+
+# 焦虑自评表
+
+下面每个词在多大程度上描述了你此时的心情(打√？数字越大，情绪状态越符合。
+
+<html><body><table><tr><td>词语</td><td>完全感受不到 1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>极其强烈 7</td></tr><tr><td>焦虑</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>烦躁</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>焦急</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>坐立不安</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 特质焦虑量表
+
+您的性别: A、男 B、女
+
+您的年龄: 岁
+
+您的民族: A、汉族 B、少数民族 (族)
+
+您的年级:
+
+A、大一 B、大二 C、大三 D、大四 E、研一 F、研二 G、研三
+
+指导语：下面是一些描述自己情况的句子，请仔细阅读，并在每个句子后选择最符合平时的感觉的程度词，在对应的地方打"V”，没有对或错的答案，请注意保证每个问题都作了回答。谢谢合作！
+
+<html><body><table><tr><td>题项</td><td>几乎 没有 1</td><td>有些 2</td><td>经常 3</td><td>几乎 总是 4</td></tr><tr><td>1、我感到愉快</td><td></td><td></td><td></td><td></td></tr><tr><td>2、我感到神经过敏和不安</td><td></td><td></td><td></td><td></td></tr><tr><td>3、我感到自我满足</td><td></td><td></td><td></td><td></td></tr><tr><td>4、我希望能像别人那样高兴</td><td></td><td></td><td></td><td></td></tr><tr><td>5、我感到我像衰竭一样</td><td></td><td></td><td></td><td></td></tr><tr><td>6、我感到很宁静</td><td></td><td></td><td></td><td></td></tr><tr><td>7、我是平静的、冷静的和泰然自若的</td><td></td><td></td><td></td><td></td></tr><tr><td>8、我感到困难一一堆集起来，因此无法克服</td><td></td><td></td><td></td><td></td></tr><tr><td>9、我过分忧虑一些事，实际这些事无关紧要</td><td></td><td></td><td></td><td></td></tr><tr><td>10、我是高兴的</td><td></td><td></td><td></td><td></td></tr><tr><td>11、我的思想处于混乱状态</td><td></td><td></td><td></td><td></td></tr><tr><td>12、我缺乏自信心</td><td></td><td></td><td></td><td></td></tr><tr><td>13、我感到安全</td><td></td><td></td><td></td><td></td></tr><tr><td>14、我容易做出决断</td><td></td><td></td><td></td><td></td></tr><tr><td>15、我感到不合适</td><td></td><td></td><td></td><td></td></tr><tr><td>16、我是满足的</td><td></td><td></td><td></td><td></td></tr><tr><td>17、一些不重要的思想总是缠绕着我，并打扰我</td><td></td><td></td><td></td><td></td></tr><tr><td>18、我产生的沮丧是如此强烈，以致我不能从思想上排除它们</td><td></td><td></td><td></td><td></td></tr><tr><td>19、我是一个镇定的人</td><td></td><td></td><td></td><td></td></tr><tr><td>20、当我考虑我目前的事情和利益时就陷入紧张状态</td><td></td><td></td><td></td><td></td></tr></table></body></html>

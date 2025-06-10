@@ -1,0 +1,316 @@
+# VANET中基于捎带确认机制的自适应数据传播策略
+
+赵金龙」，张娓娓1，陈绥阳²
+
+(1．西安思源学院 电子信息工程学院，西安 710038;2．西安交通大学 理学院，西安 710049)
+
+摘要：车载自组网（VANET）通过自组织分散环境传播交通数据，交通数据的特点使得VANET数据传播方法更适合依赖广播。然而，当在高密度场景下广播数据时，可扩展问题和数据传播冗余问题变得尤为突出，可能导致广播风暴的发生。针对数据传播冗余和广播开销等问题，以最远转发策略和捎带确认机制为基础，提出一种捎带确认的自适应最远转发策略（AckAMFR)，根据存储转发的概念进行信息的传输和存储，降低了数据冗余，具有较强的可靠性和较小的广播开销。仿真结果表明，该转发策略具有低广播开销和高数据传输率的特性。
+
+关键词：车载自组网；捎带确认；自适应；数据冗余；存储转发 中图分类号：TP393 doi: 10.3969/j.issn.1001-3695.2017.12.0826
+
+# Adaptive data propagation strategy in vANET based on piggybacked acknowledgement
+
+Zhao Jinlong1, Zhang Weiwei1, chen Suiyang2 (1.Colege ofElectronics & Information Engineing,Xi'an Siyuan UniversityXi'an708,China;2.ColegeofScience, Xi'an Jiaotong University,Xi'an 710049,China)
+
+Abstract:VehicularAdhoc network (VANET）disseminates trafficdataby providing self-organizing decentralized environments，the public interestof traffic data makes it appropriate for VANETdata dissemination methods to rely on broadcasting.However,whendataisbroadcastunder high densityscenarios,the isuesofscalabilityanddatadistribution redundancy which can lead to broadcast storm become even more pronounced.Aiming at the issues of data transmission redundancyand broadcast overhead,basedon the farthest forwarding strategyand piggybackedacknowledgment mechanism, this paper proposes an adaptive most forward within radius based on piggybacked acknowledgement (AckAMFR)，which transmits and stores informationaccording totheconceptof store-and-forward.AckAMFRcanreduce thedataredundancyand italsohastrongreliabiltyandsmallbroadastcosts.Simulationresultsshowthattheforwardingstrategyhastecharacteristics of low broadcast overhead and high data rate.
+
+Key Words: VANET; piggybacked acknowledgement;adaptation; data redundancy; store and forward
+
+# 0 引言
+
+车载自组网（vehicleAdhoc network，VANET）[1]的目的在于通过自组织网络环境而不是固定基站或集中管理来提高道路安全性和旅行便利性。在VANET中，车辆能相互协作交换道路状况和旅行情况。随着越来越多的车辆装备通信工具，将来VANET能广泛应用于车辆监控领域。正是因为部署了这类车载网络，智能交通系统（intelligent transport system，ITS）才能够得到迅速发展[2]。
+
+交通数据的特点使VANET数据传输依赖于广播。然而，高密度网络的广播会产生高度冗余数据，这大大浪费了有限的无线带宽。此外，因为大量车辆可能同时重播几乎相似的数据，有可能会使数据包阻塞，导致广播暴风问题的发生。在现存VANET中，预测和管理快速变换的网络拓扑结构比较困难[3],这就导致网络的可扩展性降低。
+
+处理可扩展性问题的一种通用解决方案是降低冗余数据的百分比。该方法仅选择一些车辆传输数据，而不是让每一个车辆重播数据。现存广播解决方案中一种主要挑战是降低数据冗余度的同时保持数据高传输率[4]。现存解决方案在高密度场景下要么不具有很好的可扩展性，需要根据信标收集相邻车辆数据来估计交通，使得车辆可以管理它们对应的广播信息。固定周期的信标可能对网络性能产生影响，例如浪费带宽、数据包延迟和增加网络阻塞。单独信标可以产生一种高负载网络，因此不能简单视为背景交通。当车辆每 $1 0 0 \mathrm { { m s } }$ 发送200比特位信标时(每个车辆每2s发送10个200bit数据包)，则在300米范围内，信道负载达到满荷载的 $8 0 \% ^ { [ 5 ] }$ ，且发送5个与上面相同数据包时信道负载为满负荷的 $40 \%$ 。
+
+# 1 背景知识
+
+广播是车载网络中所有通信类型的基础。在VANET中，交通数据的特点使得数据传播依赖广播[。泛洪是最简单的广播类型，车辆广播一条消息给它的所有一跳邻居车辆。在多跳传播中，所有接收邻居车辆将重新广播相同消息给它们的一跳邻居车辆等等。当许多车辆同时广播相同信息和发生大量阻塞时，就有可能导致高密度网络中的广播风暴问题。因此，简单泛洪方法并不能适应高密度网络，因为过度广播相同数据，浪费了有限信道带宽。图1论证了泛洪的广播风暴问题。在图中，节点A启动广播，节点B和C接收数据。如果B和C之前没有广播数据，则它们重新广播数据。因此，接收到数据后，如果不存在阻塞，则D将重新广播数据。泛洪代价非常昂贵且会导致以下问题：
+
+a)冗余重播,当一个节点确定重播数据给它的邻居节点时，会发生冗余重播。在图1中，因为节点A在节点B和C的传播范围内，因此它将接收到来自B 和C 的两个冗余数据，其中B和C的接收情况与A类似，它们将接收到来自D的数据，该数据与自身数据相同。
+
+b)数据包阻塞,这将导致数据包丢失或信息损坏。在图1这种情况下，如果节点B和C在几乎同一时间广播，则节点D可能发生数据包阻塞现象。
+
+![](images/7d1182438cd556accaded3161bec137668cf9f7183c09e5f948e16a4d7df2bd8.jpg)  
+图1广播风暴问题
+
+# 2 相关研究
+
+针对VANET的广播风暴问题，科研人员想出了多种解决方案。通常用于广播风暴缓解的方法是通过仅选取一组车辆重播数据来减少冗余数据包数量从而降低数据传输开销。依据数据冗余开销，VANET中用于数据传输的协议是一种轻量级解决方案。在这些协议中，存在两种最著名的协议：概率方案和基于延迟的方案。
+
+在概率方案中，每个接收车辆拥有不同重播概率。因为仅有参与车辆参与数据转发，因此降低了冗余开销和阻塞数量。
+
+概率方法的主要挑战是确定一种最优概率分配方法，该方法能降低数据冗余度且保持高数据传输率。简单概率广播协议给参与车辆分配一种概率常量，更加复杂协议允许动态分配概率。加权p-persistenc[7是常用概率广播例子，该方法使用距离发送端的距离作为决定转发概率的参数，其中最远车辆分配最大概率。加权p-persistence 没有考虑交通密度，因此该方法存在较高冗余数据，特别是在高密度场景。
+
+另一方面，在基于延迟的广播中，不同等待延迟分配给接收车辆，使得拥有较短延迟的车辆能先于其他车辆重播。检索已经接收数据的副本表明其他车辆广播该数据。因此，当一个车辆接收到复制的消息后，该车辆会抑制（取消）广播该相同信息，从而避免冗余重播。时隙1-persistence[7是一种基于延迟的广播方法，该方法中车辆根据其距离发送端的距离分配不同时隙，使得重播之前最远车辆分配最短延迟。时隙定义为传播预定义消息或丢弃它之前预定义广播等待的时间周期。与加权p-persistence 相似，时隙1-persistence 没有考虑交通密度，因此，在高密度场景下可扩展性问题比较突出，会带来高百分比的冗余数据。
+
+科研人员同样提出将概率和基于延迟的方法联合起来用于缓解VANET中广播问题，这些方法将拥有已经分配概率的广播给拥有最短延迟广播的最高权限车辆。一个典型例子是时隙p-persistence[8]，它根据预定义概率和等待延迟广播消息。与加权p-persistence 相似，时隙p-persistence不支持根据交通条件动态分配概率。该方法依赖转发概率p的选择。
+
+文献[8]提出了一种分布式优化时间的延迟方法，它提供时隙密度控制。该方法没有实际表明交通密度，而是表明了时隙密度，时隙密度一种预定义值，该值设置每个时隙中车辆的最大数量。其目的在于总是选择最远车辆同时控制传输冗余。尽管该方法存在优势，但是该方法通过信标收集邻居车辆数据，因此存在额外通信开销。尽管在VANET中，信标可能有额外的作用，但是信标大小的增加可能浪费有限可用带宽。该方法假设信标最大为324比特位，这将很容易达到高密度。
+
+文献[9]提出了车组网络中另外一种新颖的数据传输方法，该方法主要目的是提供广播风暴缓解解决方案，且不存在信标开销。在车组网络区域内定义了一种最有效点使得位于最有效点范围内的车辆最有可能传输数据。它将一个圆形区域分为四个象限，对每个象限，定义一个子区域为最有效点。当没有车辆位于该有效点内时，每个象限的最远车辆将延迟传播数据。尽管车组网络具有高数据传播率，但是所有传输的通信开销仍然很高。
+
+文献[10]提出了一种用于城市数据传播的HyDiAck协议，该协议考虑了密度和稀疏网络。尽管HyDiAck协议存在高数据传播率，但是HyDiAck 的数据冗余度仍然很高，因为时隙1-persistence 开销比较低。此外，HyDiAck 依赖于局部一跳邻居车辆信息来传输数据。
+
+文献[11]提出直接考虑交通条件来避免广播风暴问题，它提出一种自适应转发消息和合作安全驱动方法。然而，该方法要么通过交换相邻车辆间数据确定交通条件，要么通过与路边基站交通数据中心通信确定交通条件，并不具有很强的通用性。
+
+除了交通条件，最近一些研究考虑其他描述数据的参数来提高可扩展性。文献[12]提出一种数据自主传播方法，该方法允许每个车辆动态自适应的发送和接收与它的发送消息优先级和网络密度有关的广播。尽管该数据自主传播方法降低了泛洪数据的延迟和无线电干扰，但是没有明显降低冗余数据百分比。此外，仿真实验结果显示当同时传播的数据数量增加时，方法的可扩展性仅在一个短时间内有效。文献[13]提出一种考虑VANET数据传输中数据特点的方法，这些数据特点包括数据重要性、位置和收集时间等。该方法利用一种自适应广播算法调整转发节点的优化数量，它的主要目的是降低通信开销和延迟。
+
+现存VANET数据传输方法要么在高密度环境下不具有很好的可扩展性，要么陷入额外通信开销。虽然许多现存方法能维持较高数据传输率，但是传输开销较高。降低数据冗余度和额外通信开销的方法可能对网络性能产生一些影响，例如浪费带宽、数据包传输延迟和增加的网络阻塞。通信信道可能发生阻塞，特别是在高密度环境下，因为信标可能每秒发送好多次。单独的信标能生成较高网络负载，因此不能简单看做为背景交通。
+
+本文主要研究提供可扩展多跳VANET数据传播方法，该方法不存在信标的额外通信开销。本文提出一种捐带确认的自适应最远转发策略（adaptive most forward within radius based onpiggybackedacknowledgement，AckAMFR）。AckAMFR以最远转发策略和捎带确认机制为基础，根据存储转发的概念进行信息的传输和存储，降低了数据冗余，具有较强的可靠性和较小的广播开销。
+
+# 3 自适应广播
+
+# 3.1假设和需求
+
+本文假设多车道为线性拓扑结构。线性拓扑结构包括高速和直行道路。对道路交通移动性模型，本文根据简单宏观模型完成数学分析，该模型描述交通流的参数行为如何随着另外一个参数变化。本文假设Greenshields模型[l4]为交通流量的理论模型，该模型根据速度密度关系描述了交通状况，因为道路交通总是位于一种特定状态，可以通过交通率、交通密度和平均速度描述该状态。本文利用简单模型进行简单数学验证，通过SUMO生成的实际交通场景评估算法性能。
+
+对车辆通信，本文假设图2所示的一种VANET环境，其中每个车辆装备有车载单元（OnBoardUnit，OBU)。OBU是一种由处理器、内存、可视化通信用户接口和基于IEEE802.11p的网络设备组成的单元模块[15]。OBU 逻辑上由 NIC(物理和MAC层)、网络层和应用单元组成。车辆之间通过它的OBU与在其通信无线电范围内的车辆通信。本文方法考虑车辆到车辆(V2V)通信模型，没有考虑路边单元（RoadsideUnit，RSU）。同时，车辆网络中车辆位置信息也都由全球定位系统(GPS)提供。
+
+![](images/317bf9929c4f4faef12c59283634f9c5f1581ec9593a193a77cc75bc6478e3a6.jpg)  
+图2本文假设的VANET环境
+
+数据根据车辆环境中无线接入IEEEWAVE标准以WAVE短消息(WSMs)的形式进行传播，该标准可以确定这些消息能携带上下文数据，例如车辆位置、速度和加速度。特别地，本文数据消息具有如下结构：<消息ID、时隙、源ID、发送端ID、源坐标、发送端坐标、发送端速度、跳数>。
+
+本文考虑的消息总大小是100比特位，其中通过求和每个消息需要的比特位计算总消息大小。值得注意，802.11p标准允许最大为2312比特位的消息。接下来，描述本文消息框架中每个项目内容：
+
+a）消息ID,定义通过原始车辆附加到消息上的序列号码。b）时隙,一旦通过原始车辆创建消息，则将其附加到消息  
+上，且在数据传输过程中，时隙保持不变。接收车辆通过时隙  
+计算局部数据传输延迟。c）源ID,创建消息的原始车辆的ID。本文将该车辆看做为  
+消息源或数据发起者。车辆ID是一种通过MAC层描述的特定  
+号码。通过源车辆设置源ID，且在数据传输过程，消息经过转  
+发车辆后该ID值不变。d）发送端ID,直接与接收车辆进行通信的转发车辆的ID。  
+无论何时转发消息都会更新该字段。与源ID相似，发送端ID  
+为转发车辆的MAC层地址。e)源车辆坐标,该值为源车辆的地理位置坐标。转发过程中  
+该字段不变。f）发送端的坐标,为了使接收车辆能确定它们距离发送端  
+的距离，通过消息转发车辆更新该值，以至于每个车辆广播之  
+前可以确定等待时间。g）发送端速度,为了设置相应时隙数量，接收车辆使用该  
+值估计交通状况。h）传播的跳数,消息从发送端传播到接收端所需的跳数。
+
+# 3.2数据传播模型
+
+每当正行驶在高速路上的车辆在任意点检测到一些安全警告，就通过多跳和车载通信发出警告信息，目的是通知传播区域内所有车辆。假设传播区域 $n ^ { * }$ 内车辆数量为常数。每次车辆收到新的警告消息时，它以概率 $\alpha$ 决定是否进一步转发该消息。
+
+因为节点转发警告消息的概率服从参数为 $\alpha < 1$ 的伯努利分布，且节点间的距离服从参数为 $\gamma$ 的指数分布，因此两个连续中继节点之间的距离符合参数为 $\alpha \gamma$ 的指数函数。设 $P _ { r } ( n )$ 表示连续中继节点数量等于 $n$ 的概率：
+
+$$
+P _ { r } \left( n \right) = \left\{ \begin{array} { l l } { \left( 1 - e ^ { - \alpha R } \right) ^ { n } e ^ { - \alpha R } } & { n < n ^ { * } } \\ { } & { } \\ { \left( 1 - e ^ { - \alpha R } \right) ^ { n ^ { * } } } & { n = n ^ { * } } \\ { 0 } & { n > n ^ { * } } \end{array} \right.
+$$
+
+其中 ${ n ^ { * } } = \alpha A$ ，中继节点 $\mathbf { r }$ 的平均数量计算如下：
+
+$$
+r = \left( 1 - e ^ { - \alpha \gamma R } \right) ^ { n ^ { * } } \left( 1 - e ^ { - \alpha g R } \right) + e ^ { - \alpha \gamma R } - 1
+$$
+
+给定 $P _ { r } ( n )$ ，通过考虑消息传递算法覆盖的节点平均数量估计已通知节点的数量分布 $S ( n )$ 。当存在 $n$ 个连接中继节点时，警告消息覆盖的平均距离为：
+
+$$
+a \big ( n \big ) = \frac { P _ { r } \big ( n \big ) } { \alpha }
+$$
+
+其中: $1 / \alpha \gamma$ 为两个连续中继节点之间的平均距离。可以通过下式获取已通知节点的数量：
+
+$$
+S ( n ) = d { \bigl ( } n { \bigr ) } = { \frac { P _ { r } { \bigl ( } n { \bigr ) } } { \alpha } }
+$$
+
+且平均值为
+
+$$
+S = \frac { \left( 1 - e ^ { \alpha \gamma R } \right) ^ { n ^ { * } } \left( 1 - e ^ { \alpha \gamma R } \right) } { \alpha }
+$$
+
+第二个考虑的参数是平均延迟 $L$ ，通过总平均传输时间计算 $L$ ， $L$ 计算如下：
+
+$$
+L = T _ { t x } + { \frac { A } { c } }
+$$
+
+其中 $T _ { \scriptscriptstyle t x }$ 为警告消息传输时间， $A$ 为覆盖距离， $\mathbf { \Psi } _ { c }$ 为消息传播速度。最后，本文计算每个已通知节点接收消息 $M$ 的平均数量：
+
+$$
+M = \bigl [ 2 \alpha \gamma R - \bigl ( \alpha \gamma R - 1 \bigr ) \bigl ( 1 - P _ { s } \bigr ) \bigr ] P _ { I }
+$$
+
+其中 $P _ { _ { I } }$ 为通知节点的概率，计算如下：
+
+$$
+P _ { _ { I } } = { \frac { S } { A } }
+$$
+
+# 3.3 检测交通状况
+
+本文主要目的中的一个是估计交通状况，而不考虑交通密度作为直接参数，因为它需要每辆车容忍邻居管理开销。本文使用车辆检测的局部速度间接描述交通密度。
+
+道路上的车辆密度和速度的关系可描述如下：在低密度时，人们通常以最大允许速度开车，然而在高密度时，人们通常强制降低车速。Greenshileds提出了这种负相关关系，表示为：
+
+$$
+Q = V \times D
+$$
+
+其中 $\boldsymbol { \mathrm { \ell } }$ 为车流量， $\boldsymbol { V }$ 是平均速度， $D$ 为交通密度。
+
+为了使用数学反映道路的交通条件，定义速率：
+
+$$
+V _ { r } = { \frac { V } { V _ { f } } }
+$$
+
+其中 $V _ { r }$ 为速率， $\boldsymbol { V }$ 为道路上当前速度， $\boldsymbol { V } _ { f }$ 为自由车速，该车速为最大允许速度。
+
+Greenshields证明速度与密度之间存在线性关系：
+
+$$
+V = V _ { f } - \frac { V _ { f } } { d _ { j } } d
+$$
+
+等式两边除以 $V _ { f }$ ，本文证明速率与密度互补：
+
+$$
+{ \frac { V } { V _ { f } } } = 1 - { \frac { d } { d _ { j } } }
+$$
+
+其中 $d$ 为当前交通密度， $d _ { j }$ 为阻塞密度，阻塞密度为最大道路可承载能力。由等式（12）可以得到图3所示交通状况与速率之间的关系：
+
+a）当速率 $V _ { r }$ 接近于0时，道路处于交通阻塞条件，交通密度接近于d,。b)当 $V _ { r }$ 接近于1时，道路处于自由速度且交通密度较低。因此，本文使用速率代替密度来数字化反映交通状况。
+
+![](images/2e33491fdc8009d75150f5d89600786724bb17613ec7729c59489abdb2a2da68.jpg)  
+图3交通情况与速率之间的关系
+
+# 3.4基于捎带确认的自适应最远转发策略 (AckAMFR)
+
+本小节在最远转发（(most forward within radius,MFR）[16]策略的基础，提出一种基于消息传播方向的自适应最远转发策略（adaptive mostforwardwithin radius，AMFR）。在AMFR中，为了选择出合适的转发节点，要根据已知信息对相邻车辆节点进行定位估计，以此来提高消息转发的可靠性，降低冗余开销。
+
+MFR选择消息传播方向上的最远邻居节点作为转发节点，这种做法理论上可以将冗余信息降到最小，同时使跳数和传播时延最优化。但当VANET中车辆节点运动速度较快时，MFR策略的效果并不如意。在选择转发节点时，MFR策略需要获得消息传播范围内的所有相邻车辆节点的坐标信息，而这些信息通常存在于周期性的Hello消息中，由于Hello消息并不是实时的，当邻居节点移动较快时，其位置会改变，从而导致本节点判断出的邻居节点的位置有延迟，这时就可能选择错误的转发节点，无法完成消息转发，这种情况叫做转发节点失效。所以，当Hello消息的周期越长，则选择错误的转发节点的概率越大。
+
+而在AMFR中，将车辆节点的位置信息以及速度信息包含在Hello消息里，这样，AMFR通过分析邻居节点在前一时间点的位置信息以及速度信息来确定邻居节点的当前位置坐标，然后估算当前车辆节点间的距离。整个过程描述如下：本节点记录下其收到的来自邻居节点Hello消息的时刻，用 $t _ { n }$ 表示，令 $( x _ { n } , y _ { n } )$ 为 Hello消息里包含的该邻居节点的坐标， $\mathbf { \Lambda } _ { \nu }$ 为该该邻居节点的速度。本节点在 $\mathbf { \Phi } _ { t }$ 时刻选择转发节点，其中 $\mathbf { \Phi } _ { t }$ 满足以下条件：
+
+$$
+t _ { n } < t < t _ { n } + T
+$$
+
+其中， $T$ 为 Hello 周期。在 $\mathbf { \Phi } _ { t }$ 时刻，本节点的坐标记为 $( x _ { 0 } , y _ { 0 } )$ ，利用本节点和该邻居节点的坐标可得它们的位置向量，如式(14)所示。
+
+$$
+d _ { 0 } = ( x _ { n } - x _ { 0 } , y _ { n } - y _ { 0 } )
+$$
+
+此时，由式（15）计算出两者之间的距离：
+
+$$
+d = \left| d _ { \mathrm { 0 } } + \nu \times ( t - t _ { n } ) \right|
+$$
+
+假设车辆在某一较短的时间段内匀速行驶，则邻居节点在$t _ { n }$ 到 $\mathbf { \Phi } _ { t }$ 这一时间段内的速度可以等同于其在 $t _ { n }$ 时的速度 $\mathbf { \sigma } _ { \nu }$ 。假设集合 $N$ 内包含了所有的邻居节点，集合 $R N$ 内包含了所有的可靠邻居节点，则
+
+$$
+R N = \left\{ n / n \in N { \mathrm { E } } d ( n ) < R \right\}
+$$
+
+其中： $d ( n )$ 表示计算出的本节点与所有邻居节点间的距离， $R$ （20表示节点通信半径，则 $R N$ 表示的集合实际上就是与本节点的计算距离小于通信半径 $R$ 的所有邻居节点的集合。将这些计算距离进行排序，则转发节点就可以选定为在各个方向上计算距离最大的邻居节点。
+
+以上对于转发节点的选择作出了改进，这种改进可以提高消息传输的可靠性，但是VANET并不能保证持续连通性，此时如果要求广播消息传播到更多的节点势必会增加节点开销。因此，把AMFR和捎带确认机制相结合，提出一种基于捎带确认的自适应最远转发策略（adaptivemost forwardwithinradiusbased on piggybacked acknowledgement，AckAMFR）。捎带确认机制是把Ack信息储存在Hello 消息中，而不是传输单独的Ack数据包。AckAMFR可以应用于间歇连通性的网络和全连通网络中，减少节点开销。
+
+在AckAMFR中，当节点接收到网络中的数据包信息时，会将此数据包存储在缓冲器里，每个数据包都会被分配一个存储时间，AckAMFR会在该存储时间到来之际从缓冲器中移除对应的数据包。由于AckAMFR把Ack信息储存在Hello消息中，在Hello消息中会分配一个字段用于确认消息，该字段命名为确认消息域。当网络中有Hello消息在传播时，储存在缓冲器里的数据包的ID 就会被记录在Hello消息中的确认消息域内。
+
+当本节点接收到邻居节点的Hello消息时，在本节点的缓冲器里储存了若干个数据包，若某个数据包的ID 并不在确认消息域内，就说明此邻居节点暂时没接收到该数据包，在这种情况下，本节点会针对该数据包设立一个定时器，它的存储时间用 $\mathbf { \Phi } _ { t }$ 表示， $\mathbf { \Phi } _ { t }$ 的取值为式（17）所示。如果定时器结束后，本节点依然没有接收到邻居节点发送的任何数据包，那么本节点将广播该数据包。
+
+$$
+t = \mathbf { W } \mathbf { T } \times d \mathbf { \Omega } / R
+$$
+
+其中：WT表示等待时间，它是一个常量，其值可以取作节点间的一跳转发时延。 $d$ 表示本节点和邻居节点间的距离， $R$ 表示节点通信半径。随着 $d$ 的值不断增加， $\mathbf { \chi } _ { t }$ 的值也在逐渐增大，所以，当一个节点越靠近发送Hello消息的邻居节点时，该节点便会率先传输数据包，同抑制其余节点的信息传输广播冗余。
+
+# 4 仿真分析
+
+# 4.1仿真场景
+
+本文在OMNET $^ { + + }$ 环境中评估算法的性能，使用SUMO 流量仿真器产生流量，使用Veins 框架[7]建模VANET。为了保证算法可扩展性，本文在不同交通场景下，分别对加权 p-persistence、时隙1-persistence、AckAMFR三种算法进行仿真分析对比。表1列出了用于仿真的场景及所有参数。
+
+表1仿真参数设置  
+
+<html><body><table><tr><td rowspan="2">物理层</td><td>频率带</td><td>5.9 GHz</td></tr><tr><td>带宽</td><td>10 MHz</td></tr><tr><td rowspan="5">MAC层</td><td>传输范围</td><td>~360m</td></tr><tr><td>MAC 比特率 MAC 延迟 τ</td><td>6 Mbps</td></tr><tr><td>数据频率</td><td>20 ms</td></tr><tr><td>高速路长度</td><td>5 Hz</td></tr><tr><td></td><td>5 km</td></tr><tr><td rowspan="6">场景</td><td>车道最大车速</td><td>80 km/Hr</td></tr><tr><td>消息大小</td><td>100 Byte</td></tr><tr><td>消息数量</td><td>50</td></tr><tr><td>最小时隙宽度w</td><td>10 m</td></tr><tr><td>仿真时间</td><td>900 s</td></tr><tr><td>运行数量</td><td>5</td></tr><tr><td></td><td>置信度</td><td>95%</td></tr><tr><td></td><td>密度</td><td>{10,30,50,70}车辆/km</td></tr></table></body></html>
+
+本文仿真场景是 $5 ~ \mathrm { k m }$ 长且具有3车道的高速路。当车辆发生阻塞时，为了保证时间，需要监控车辆，以便在阻塞时间段内保证原数据消息的可扩展性。为了设置物理层和MAC层，利用MiXiM框架里的IEEE802.11p来实现。本文在MAC层中使用 $5 . 9 \mathrm { G H z }$ 的频率带宽和 $1 0 \mathrm { M H z }$ 带宽以及 6Mbps 比特率。设置传输功率使得传输范围接近 $3 6 0 \mathrm { m }$ 。数据频率为 ${ 5 } \mathrm { H z }$ 且所有消息大小为100比特位。本文使用四个密度值描述不同交通场景，其中密度单位为每千米多少车辆。密度为10表示畅通交通场景。密度为30和50表示两种密度交通场景，同时密度值为70 表示阻塞交通场景。仿真过程中，本文以恒定值产生数据，其中数据量为50个消息。结果图中每个点表示拥有 $9 5 \%$ 置信区间的5个仿真应用的均值。
+
+# 4.2性能评估标准
+
+正如本文先前所述，本文的目的是通过最小化数据冗余和传输延迟同时保持高数据传输率提高数据传播的可扩展性，使
+
+用以下参数作为仿真实验评估标准。
+
+a）数据传输率（datadeliveryratio，DDR），表示车载网络中接收车辆成功接收数据消息的百分比。通过成功接收消息数量 $M _ { r c \nu }$ 除以期望接收消息数量 $M _ { \mathrm { e x p } }$ 来实现。
+
+$$
+D D R = \frac { M _ { r c \nu } } { M _ { \mathrm { e x p } } }
+$$
+
+假设存在N个车辆，根据发送消息Msem的总数量计算Mexp：
+
+$$
+M _ { \mathrm { e x p } } = N \times M _ { s e n t }
+$$
+
+理想情况下，数据传输方法数据传输率将接近 $100 \%$ 。
+
+b）每个消息的广播开销（broadcastoverhead，BO）,测量任意车辆提供的每个消息的平均广播开销。本文通过网络中的副本消息 $M _ { \mathit { d u p } }$ 除以接收不同消息的数量 $M _ { r c \nu }$ 计算BO:
+
+$$
+B O = { \frac { M _ { d u p } } { M _ { r c \nu } } }
+$$
+
+c）传播延迟,网络中每辆车平均延迟时间。  
+d）传播跳数的平均数量，反映传播距离。
+
+# 4.3 仿真结果
+
+本文在不同交通场景下，分别对加权p-persistence[7]、时隙1-persistence[7]、和AckAMFR三种算法进行仿真分析对比。图4为车辆密度和数据传输率之间的关系。从图中可以看出时隙1-percistence 算法和AckAMFR 算法在整个密度上的传输率基本相同且基本为理论最大值，加权p-persistence 算法的传输率相对而言比较低，这是因为这两种算法几乎能够保证每跳中继数据，而加权p-persistence 算法则不能保证。
+
+![](images/be60d41ae4b2b6c39547be36d232ee67282155815e4b13e973e5a900d0c13497.jpg)  
+图4车辆密度和数据传输率之间的关系
+
+图5为车辆密度和广播开销之间的关系。从图5可知，AckAMFR 算法的广播开销最小，与时隙1-persistence 算法相比，AckAMFR算法降低了超过一半的广播开销。这是因为AckAMFR 算法根据存储转发的概念进行信息的传输和存储，能够很大程度减小开销。
+
+图6为车辆密度和平均传播延迟之间的关系。由图可知，和加权 p-persistence 算法、时隙 1-persistence 算法相比，AckAMFR 算法的平均传播延迟最小，最多比加权p-persistence算法的端到端传输延迟降低了 ${ 5 0 0 } \mathrm { { m s } }$ ，具有更加优越的性能。在加权p-persistence 算法和时隙1-persistence 算法中，由于没有考虑交通密度状况，容易出现较高的数据冗余，导致传播延迟较大；而AckAMFR算法利用车辆检测的局部速度间接描述交通密度状况，在整个仿真过程中都具有较低的传播延迟。
+
+![](images/67b714ef453ed7b9ad9f82c74f4beed589554a317131dd0dd0e4205fffae3198.jpg)  
+图5车辆密度和广播开销之间的关系
+
+![](images/7271e27cffb23a10fd565783383e22b5f3a354379102cb298aef361f3997b89e.jpg)  
+图6车辆密度和平均传播延迟之间的关系
+
+图7为车辆密度和传播的平均跳数之间的关系。根据遍历跳的数量，图7显示仿真环境中，加权p-persistence 算法需要大约7-8 跳将消息从一端传播到另一端，时隙1-persistence 算法传播消息平均需要6-7跳，而AckAMFR算法需要大约5跳将消息从一端传播到另一端。AckAMFR算法根据最远转发策略寻找合适的车辆转发节点进行数据的传输，减小了传播跳数，具有优越的性能。
+
+![](images/07662a5c8a3315c04421aaf6feae599c3ae9e7bd3f15e856a07dac58eb4f98e3.jpg)  
+图7车辆密度和传播的平均跳数之间的关系
+
+以上仿真证明，AckAMFR算法在数据传输率方面和时隙1-persistence 具有相同性能，但它在广播开销、平均传播延迟和传播的平均跳数方面的性能均优于加权p-persistence 算法和时
+
+隙1-persistence 算法。
+
+# 5 结束语
+
+本文的目的是给VANET通信提供可扩展数据传播解决方案。本文以最远转发策略和捎带确认机制为基础，提出一种捎带确认的自适应最远转发策略，该策略以最远转发策略和捐带确认机制为基础，根据存储转发的概念进行信息的传输和存储，降低了数据冗余，减少了广播开销和传播延迟，提高了数据传输率。将来，本文将考虑高密度场景下的双向交通，除了比较复杂的城市场景外，也考虑其他交通场景模型。
+
+# 参考文献：
+
+[1]唐伦，王晨梦，陈前斌．车载自组织网络中基于时分复用的异步多信道 MAC 协议[J].计算机学报,2015,38(3):673-684.   
+[2]杜红珍.适于车载网的安全高效的有序多重签名机制[J].计算机应用 研究,2016,33(10):3105-3108.   
+[3]Fracchia R,Meo M.Analysis and design of warning delivery service in intervehicular networks [J]. IEEE Trans on Mobile Computing,2008,7（7): 832-845.   
+[4]陈振，翟琰，胡松华，等．基于网络划分的VANET 路由构建及数据传 输方法[J].电子测量与仪器学报，2014,28(8):836-842.   
+[5]Yousefi S,Fathy M.Metrics for performance evaluation of safety applications in vehicular ad hoc networks[J].Transport,2oo8,23 (4):291- 298.   
+[6]陈振，韩江洪．车载自组网中基于分布式TDMA 的协作数据重发方法 [J]．东南大学学报：自然科学版,2017,47(4):642-648.   
+[7]Wisitpongphan N,Tonguz OK,Parikh JS,et al.Broadcast storm mitigation techniquesinvehicularadhocnetworks[J].IEEEWireless Communications,2007,14(6): 84-94.   
+[8]Schwartz R S,Das K, Scholten H,et al.Exploiting beacons for scalable broadcast data dissemination in VANET[C]//Proc of ACM International Workshop on Vehicular Inter-Networking,Systems,and Applications.2012: 53-62.   
+[9]Villas LA,Boukerche A,Maia G,et al. DRIVE: an efficient and robust data dissemination protocol for highway and urban vehicular ad hoc networks [J]. Computer Networks,2014,75:381-394.   
+[10] Maia G,Villas L A,Boukerche A,et al.Data dissemination in urban vehicular Ad hoc networks with diverse traffic conditions [C]// Computers and Communications.2014: 1-6.   
+[11] Chang B J,Liang Y H, Huang Y D.Adaptive message forwarding for avoiding broadcast storm and guaranteeing delay in active safe driving VANET[J]. Wireless Networks,2015,21 (3): 739-756.   
+[12] Abdou W,DartiesB，Mbarek N.Priority levels based multi-hop broadcasting method for vehicular ad hoc networks [J].Annales des Telecommunications,2015,70 (7-8): 359-368.   
+[13] Haddadou N, Rachedi A, Ghamri-Doudane Y. Modeling and performance evaluation of advanced diffusion with classified data in vehicular sensor networks [J]. Wireless Communications & Mobile Computing,2011,11 (12): 1689-1701.   
+[14] Chiu Y C, Zhou L, Song H. Development and calibration of the anisotropic mesoscopic simulation model for uninterrupted flow facilities [J]. Transportation Research Part B,2010,44(1): 152-174.   
+[15]石新新，王杉，杨博．基于全网冲突的自适应退避算法的研究[J].计 算机应用研究,2017,34(5):1492-1495.   
+[16]李雪松，叶雪梅，蔡艳宁，等．车载自组网中最远转发机制的可靠性改 进[J]．计算机工程与科学,2016,38(9):1784-1789.   
+[17] Sommer C,German R,Dressler F.Bidirectionally coupled network and road traffic simulation for improved IVC analysis [J]. IEEE Trans on Mobile Computing,2010,10 (1): 3-15.

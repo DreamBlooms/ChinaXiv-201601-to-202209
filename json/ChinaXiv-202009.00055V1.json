@@ -1,0 +1,302 @@
+[
+    {
+        "type": "text",
+        "text": "自豪感的神经基础：比较的视角",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沈蕾 江黛苔 陈宁 刘伟（上海师范大学教育学院，上海200234）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要自豪感是对自身成就进行评估时产生的积极情绪体验。神经基础研究表明,心理理论、自我参照、情绪、奖赏和记忆等相关脑区的协同作用构成了自豪感的神经基础，而神经和生理的比较研究则揭示了自豪感和其他基本情绪以及道德情绪等在神经基础上的异同。以上结果为理解自豪感的复杂神经机制提供了依据。未来研究应对不同种类自豪感以及自豪感与认知过程相互作用的神经机制进行深入探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 自豪感；自我意识情绪；道德情绪；基本情绪；神经基础 分类号 B842 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自豪感(pride)是以自身内化的标准对归因于自己的成就进行评估时产生的积极情绪体验。从心理成分看，自豪感是一种正性的自我意识情绪(Lewis,1997,2016; Stanculescu,2012;Tangney,1999; Tracy&Robins,2004a)，也是一种社会情绪和道德情绪(Armony&Vuilleumier,2013;Tangney et al.,2007)。在心理过程方面，Williams 和 DeSteno (2008)指出，只要个体感受到自己或他人的肯定（内部的或外部的)，自豪感就会被唤醒。同时，自豪感还会伴随着特定的行为表现(Lewis,1995)以及独特的、可识别的非言语表达方式(Tracy&Robins,2004b)。而关于心理功能的研究表明，自豪感能维持积极自我概念，促进适应性行为的产生(Tracy&Robins, 2007a)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据自豪感的来源，可将其分为源于个人成就的自豪感，以及源自家庭、团体、社会、国家等集体或文化的自豪感(Liu etal.,2014; Tracy&Robins,2007a)，但目前大多数研究的对象都是个人层面的自豪感(Ding,2018;van Osch etal.,2018)。另外，自豪感还可分为真实的(authentic)和自大的(hubristic)两种类型，以往研究者们所探究的主要是真实的自豪感，这种自豪感以成就为导向，归因于自身的努力(Tangney& Tracy,2012)，能够影响自我调节过程(Salerno etal.,2015)，促使个体发展自身能力，使行为更加符合个人和社会标准，更具适应价值(Tracy et al.,2009;Williams&DeSteno,2008)。研究表明真实的自豪感诱发能够促进个体坚持完成任务，激励对长期目标的追求(Shimoni et al.,2019;Williams & DeSteno,2008)，即使处于低水平时，也能促使个体学习改变策略，提高努力程度(Gilchrist etal.,2018;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Weidman etal.,2016)；大量实证研究结果也发现，真实的自豪感作为一种功能性的积极社会情感(Williams & DeSteno,2009)有利于亲社会(Etxebarria et al.,2015;Wubben et al.,2012)、亲环境行为(Bissing-Olson et al.,2016; Onwezen et al.,2013; Schneider et al.,2017)的产生。而自大的自豪感更多与自负、傲慢相联系，认为能力是使自己获得成功的主要因素，无条件对自己整体持积极看法，与自恋、拒绝敏感性和特质焦虑呈正相关，很大程度会导致攻击、侵犯等不良行为甚至反社会行为的出现(Tracy&Robins,2004a,2007b,2014; Tracy et al.,2010)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，自豪感引起了较多研究者的关注(Miceli etal.,2017)，并形成了相对固定的研究范式和研究焦点。从诱发方式看，研究者主要使用了文字(Takahashietal.,2008)、图片(Simon-Thomas etal.,2012)、视频片段(Hu et al.,2017,2019)等作为唤醒自豪情绪的材料，或是采用量表(Kong et al.,2018;Takeuchi et al.,2016)确定不同类型自豪感的水平，近年来也有研究者从动态视角切入，通过实验中的人际互动反馈引发自豪感(Ding,2018)，更具时效性和生态效度。从研究内容上看，已有的大量研究聚焦于自豪感的个体发展(Orth,Robins,& Soto,2010;Webb et al.,2016)、跨文化研究(Furukawa et al.,2012; Shi et al.,2015; Sznycer et al.,2017)，以及与基本情绪（如愉快）(Karsh&Eyal,2015)和内疚感(Lunardo& Saintives,2018)等道德情绪结合，探究其在不同社会领域的功能作用。而与行为实验研究相比，神经科学的研究能从另一角度更深入地揭示自豪感的产生与作用机制—一目前，这类研究一方面集中于厘清不同类型自豪感的神经基础，另一方面也比较了自豪感与基本情绪、其他道德情绪以及自我意识情绪等发生的神经机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2自豪感的神经基础 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据现有文献，Takahashi等(2008)首次使用fMRI对自豪感进行了研究，发现通过阅读并代入想象以诱发自豪情绪时，与社会认知或心理理论密切相关的右后颞上沟(right posteriorsuperior temporal sulcus,pSTS)和左侧颞极(left temporal pole,TP)两个脑区更为活跃。心理理论是理解自己或他人心理状态的能力，是社会认知的重要构成部分，在人际互动过程中至关重要(Fett et al.,2015)。Takahashi等人认为，由于自豪感是基于自身或他人积极评价而产生的自我意识情绪，这就需要对相关社会信息进行加工，所以引起了这些参与早期社会认知区域的活跃，并且pSTS这一较晚成熟的脑区的激活为自豪感出现在基本情绪之后提供了神经方面的证据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随后的一系列研究表明，自豪感的产生会激活更广泛的大脑网络。首先是涉及心理理论的核心脑区(Fettet al.,2015; Schurz et al.,2014)。Gilead 等(2016)通过呈现情境问题引导被试回忆或想象包含自豪感等情绪在内的事件，结果发现自豪感唤醒状态下后颞上沟(pSTS)、颞顶联合区(temporoparietal junction,TPJ)、下额回(inferior frontal gyrus,IFG)等区域的激活。Li等(2013)也观测到自豪感激活了TPJ,对职业自豪感的神经基础探究同样显示出 pSTS 和 TPJ的活跃(Hong etal.,2019)。另外，Kong 等(2018)还发现自豪感诱发了双侧颞上回(bilateral",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "superiortemporal gyrus,STG)区域的变化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其次，与自我参照相关的脑区在自豪感的产生过程中起着关键的作用。例如，Stolz 等(2020)设计了引发不同内部控制信念（归因）水平的测试任务考察自豪感的神经机制，结果发现，任务积极反馈下较高内部控制水平产生的自豪感体验激活了腹内侧前额叶皮层(ventromedial prefrontal cortex，vmPFC)、背内侧前额叶皮层(dorsomedial prefrontal cortex,dmPFC)、前扣带回皮层(anterior cingulate cortex,ACC)等区域，研究者指出个体对积极行为结果的自我归因是源于对自身努力或能力的认识，这种自我表征、自我评估在自豪感产生中发挥重要作用，并促使上述脑区的激活增强。其他许多研究也观察到 vmPFC(Gilead et al,2016; Zahn et al.,2009)、dmPFC (Roth et al.,2014)、ACC (Gilead et al.,2016; Li et al.,2013)的活跃。不仅如此，自豪感也激活了后内侧皮层(posterior medial cortex,PMC)这一与自我参照加工有关的重要脑区(Simon-Thomas et al.,2012)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，研究发现自豪感唤醒激活了参与情感信息加工的杏仁核(amygdala) (Roth et al,2014)、脑岛(insula)、背外侧前额叶皮层(dorsolateral prefrontal cortex,DLPFC)(Hong et al.,2019;Roth et al.,2014)、腹外侧前额叶皮层(ventrolateral prefrontal cortex, VLPFC)(Hong et al.,2019)等脑区；以及与奖赏加工有关的眶额叶皮层(orbitofrontal cortex,OFC)(Gilead etal.,2016;Kong et al.,2018)、腹侧纹状体(ventral striatum) (Roth et al.,2014; Stolz et al.,2020)等区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了以上脑区，自豪感的神经基础还包括与记忆相关的海马(hippocampus)(Ding,2018)、海马旁回(parahippocampal gyrus)(Simon-Thomas et al., 2012; Zahn et al.,2009)、后扣带回皮层(posterior cingulate cortex,PCC)(Kong et al.,2018; Roth et al.,2014)、楔前叶(precuneus) (Rothet al.,2014; Stolz et al.,2020)等相关区域。这主要是因为情绪的产生有赖于对过去情境事件的情感体验，同时情景记忆的提取也有助于更好地认识自己和他人的情绪及心理状态(Murray et al., 2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总之，自豪感主要与心理理论、自我参照、情绪加工、奖赏刺激加工、记忆等认知和情感过程紧密相关。自豪感的产生以自我意识为前提，并且需要形成稳定的自我表征，个体从自己或他人角度对自身特征、行为的积极自我反思和自我评估影响着自豪感的形成和发展(Muris&Meesters,2014)，但脑区的确认只能对自豪感相关联的心理成分进行粗略的界定，对自豪感产生和作用机制的进一步厘清，需要在自豪感神经基础的一系列比较中找到依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3自豪感神经基础的比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1不同类型自豪感神经基础的比较 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如前所述，研究者把自豪感分为真实的和自大的两类，近期有研究使用量表区分真实自豪和自大自豪倾向，采用 fMRI以任务进行时静息状态下的低频振幅率(fALFF)为测量指标，对这两种类型的自豪感的神经基础进行了比较，发现真实的自豪和参与社会认知、人际交往功能的双侧颞上回(STG)的 fALFF 呈正相关，而自大的自豪与奖赏刺激加工有关的左眶额叶皮层(OFC)的 fALFF 呈正相关，与涉及记忆、自我参照的后扣带回皮层(PCC)的 fALFF 呈负相关，这一结果似乎表明两类自豪感的神经基础是相对独立的。研究者认为，真实的自豪和声望等社会信息处理存在一定联系，而对奖赏刺激加工、自我参照过程的不恰当认知和评估则激发了自大自豪的产生(Kong etal.,2018)。然而，Gilead 等(2016)通过操纵回忆或想象诱发真实自豪感的研究同样发现激活了OFC。上述两个研究的矛盾结果，是源于两类自豪感区分的有效性，还是自豪感神经基础的复杂性，还有待进一步考察。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "也有研究者分别对群体、社会和国家相关的自豪感的神经基础进行了比较。Hong 等(2019)对需要身着制服的从业者（护士、警察等）进行人物（自己、他人/制服、便服）-形容词（正性、负性）匹配任务测试，fMRI结果显示，对自己身穿制服的照片和形容词匹配时，同样出现了与心理理论相关的后脑脑区的激活，如后上颞沟(pSTS)和颞顶联合区(TPJ)。此外，尾状核(caudate nucleus)和壳核(putamen)在内的纹状体、脑岛等区域的激活，揭示了奖赏加工和共情与职业自豪感的关系，而涉及自我情绪调节功能的右腹外侧前额叶皮层(VLPFC)、左背外侧前额叶皮层(DLPFC)的活动增强则暗含了与自身职业关联的社会责任感成分，以上结果反映出职业自豪感的产生可能来自于个体对自我的积极评价及其所属职业群体的认同。另一项社会自豪感研究通过团队成功或失败的责任归因反馈，诱发出高中低三种水平的自豪感和内疚感，发现高水平自豪感激活了与个人获得行为的强化学习有关的背侧纹状体(dorsalstriatum)和背侧前扣带皮层(dorsal anterior cingulate cortex,dACC)；在高/低自豪感水平下，还观察到注意和反应抉择相关的额叶视区(frontal eye field,FEF)的激活，而与心理理论和道德判断有紧密联系的右侧颞顶联合区(right temporoparietal junction,RTPJ)在这两种自豪感水平下也较为活跃，表明RTPJ的激活和基于对自身或群体内成员在任务成功中表现的归因引发的自豪感有关(Lietal.,2013)。此外，Takeuchi等(2016)通过采用国家认同感量表评估个体的爱国(patriotism)和民族主义(nationalism)，并认为爱国和民族主义都以正面评价为基础，但爱国不涉及和其他国家的比较，是一种纯粹的自豪感。基于体素形态学分析(voxel-basedmorphometry,VBM)发现，爱国水平和喙外侧前额叶皮层(rostrolateral prefrontal cortex,RLPFC)的区域灰质密度(regional gray matter density,rGMD)呈负相关，揭示了爱国可能是由与主观幸福感相关的认知神经机制所调节的，且rGMD 的降低也与共情等亲社会特质存在联系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上述研究可知，不同类型的自豪感所激活的脑区存在着一定的重叠，主要是与心理理论、自我参照、情绪加工、奖赏刺激等相关联的区域，揭示了自豪感的基础脑区；而不同类型自豪感激活脑区的差异则是特异心理成分的体现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2自豪感与基本情绪神经基础的比较 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于包含了自我评价、自我反思等多种认知过程，自我意识情绪的发生机制和识别较基本情绪更为复杂(Caillaud etal.,2020; Sznycer,2019)。一些研究者比较了作为自我意识情绪的自豪感与一些基本情绪的神经机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "愉快与自豪感同属正性情绪，但自豪感与坚持长期目标有关，而愉快往往是获得即时满足时的体验(Eyal&Fishbach,2010)。一项使用内隐联想范式并结合ERP 的研究发现，在进行面孔情绪识别时，自豪感识别的晚期正慢波(the slow positive wave,SPW)波幅显著大于愉快情绪，表明自豪情绪面孔加工需要更多认知资源参与(daSilvaetal.,2016)，间接表明了自豪感比愉快等基本情绪更复杂。从 fMRI的结果来看，Takahashi等(2008)给被试呈现蕴含自豪感和愉快情绪的短句，通过想象来唤醒这两种情绪，发现愉快条件下产生了包含伏隔核在内的腹侧纹状体、前扣带回皮层(ACC)、脑岛以及海马区域的激活，且腹侧纹状体的活跃程度与愉快度评级呈显著正相关，但在自豪感唤醒状态下未能观察到这些区域的变化，推测诱发的自豪感本质上不同于愉快，从中所获得的愉悦感不足以激活腹侧纹状体。但此后越来越多的证据表明，自豪感是与腹侧纹状体有关的(Roth et al.,2014; Stolz etal.,2020)，自豪感产生的神经机制是对价值刺激评估带来的积极情绪体验引起了腹侧纹状体的活跃。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Gilead 等(2016)以想象和回忆的方式唤醒并比较了自豪感、内疚感两种自我意识情绪和愉快、愤怒两种基本情绪的神经基础，发现基本情绪唤醒时，大脑神经网络系统发育较早的部分区域活动较为强烈，其中包含了枕叶皮层(occipital cortex)、躯体感觉皮层(somatosensorycortex)、海马旁回等涉及视觉空间感知、触觉加工的脑区；而自我意识情绪唤醒时，观测到与自我控制、自我参照加工关联的内侧前额叶皮层(mPFC)延伸至背侧前扣带回皮层(dACC)的额叶区域被激活，并且尤其在自豪感诱发时，腹侧前额叶皮层(vmPFC)延伸至眶额叶皮层(OFC)参与自我参照和奖赏加工的脑区更为活跃。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在新近的一项fMRI研究中，研究者让被试识别并推断他人的自豪感等几类不同情绪，并比较所激活的心理理论相关的脑区，结果发现，相比中性情绪，自我意识情绪（包括自豪感和尴尬）和基本情绪（包括愉快、愤怒和惊讶）都激活了心理理论的多个重要脑区，表明对他人任何情绪的推断都可以引发心理理论加工的大脑系统的变化，但情绪的复杂性会导致激活方式的不同—一与基本情绪相比，对自我意识情绪的推理使得右侧颞顶联合区(RTPJ)的活动更为强烈，说明包括自豪感在内的自我意识情绪需要较高的推断水平(Caillaud et al,2020)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上证据表明，自豪感在基本情绪之后出现，其神经基础比基本情绪更为复杂，主要表现在自豪感激活的相关区域负责更高级的认知功能一一不仅涉及感知觉加工的参与，更需要心理理论、自我参照、自我反思等不同认知功能的协同发展。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3自豪感与道德情绪神经基础的比较 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以往研究较多对自豪感和感恩这两种正性道德情绪的神经基础进行比较，EEG的研究表明，包括自豪感、感恩在内的积极情绪的产生与额叶和大脑中央区域的 $\\alpha$ 波振荡的增强有关，一定程度上反映了这类情绪需要较多的认知加工过程，且 $\\alpha$ 波振荡与镜像神经元(mirrorneuron system,MNS)的活动存在联系，这就促进了对他人情绪的感知和理解(Hu etal.,2017)。功能性近红外光谱技术(fNIRS)的研究发现，这类情绪与内侧前额叶(mPFC)区域的血液中氧合血红蛋白(oxy-hemoglobin,HbO)呈正相关，即涉及更多的自我相关信息加工过程(Hu et al.,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2019)。许多研究者也发现，感恩情绪会激活包括内侧前额叶皮层(mPFC)、前扣带回膝部(perigenual anterior cingulate cortex,pgACC)等在内的参与心理理论加工、共情和道德认知有关的脑区(Fox et al.,2015; Kini et al.,2016; Yu et al.,2018)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对自豪感和感恩进行的 fMRI研究得到了较多有意义的结果。Zahn 等(2009)通过道德行为判断任务引发被试几种道德情绪（自豪感、感恩、内疚、愤慨)，结果发现，被试在体验自豪感和感恩时中脑边缘(mesolimbic)奖赏系统和基底前脑(basalforebrain)均被激活，与抽象社会概念表征有关的上颞叶(superior anterior temporal lobe,aTL)也显示出活动的增强，表明行为评估时所产生的道德情绪的主观体验某种程度上是基于个体对抽象社会概念内容的认识，且道德情绪彼此之间的差异可能来源于额-中边缘不同模式的大脑功能活动。而后，Zahn等(2014)使用相同的实验范式更深入地对自豪感、感恩等道德情绪的神经机制进行了比较，基于体素形态学分析发现，体验到自豪情绪的个体与涉及视觉想象、自我相关信息加工的楔前叶的灰质体积(grey matter volumes)减少有关；而感恩情绪下则发现与社会认知有关的右后下颞(right posterior inferior temporal)灰质体积的增加，这意味着个体能够更好地理解他人的意图。对以上结果，推测可能是由于这些与视觉空间表征有关的后皮层大脑区域灰质体积的差异影响了不同道德情绪的主观体验，同时也表明感恩相较自豪感更依赖于后皮层脑系统的发展。另外，有研究比较了真人社交互动诱发的感恩和自豪感，发现自豪感更多涉及奖赏机制有关的脑区，如双侧核壳、尾状核，以及海马在内的大脑记忆系统，而感恩则涉及心理理论系统，包括双侧颞顶联合区(TPJ)、背内侧前额叶皮层(dmPFC)、下额回(IFG)、颞极(TP)、双侧颞上回(STG)等区域，以及与奖赏加工有关的右腹侧纹状体、左侧核壳等区域(Ding2018)。这在一定程度上是自豪指向自我、感恩指向他人的神经机制的表达。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与感恩不同，内疚感、羞耻感、尴尬是和自豪感一样的指向自己的道德情绪和自我意识情绪。多项研究表明，这三种道德情绪与自豪感所激活的脑区有部分的重叠。例如，内疚感和羞耻感会激活参与心理理论、自我参照以及情绪加工的重要脑区(Wagner et al.,2011; Zhuet al.,2019)；对自豪感和羞耻感事件的回忆都激活了典型的情绪加工回路和自我参照相关的大脑区域(Roth etal.,2014)；尴尬的神经机制探究同样观测到涉及心理理论的脑区较为活跃(Muller-Pinzler et al.,2015; Takahashi et al.,2004)。关于内疚感神经基础的一项元分析研究也表明，内疚感与心理理论、自我表征、社会认知等神经网络有关(Gifuni et al.,2017)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然而，自豪感与其他道德情绪在皮层激活区域比较上也存在不一致的结果。这突出表现在与自我反思和心理理论相关的内侧前额叶皮层(mPFC)的激活上——Takahashi 等(2008)自豪感神经机制的初次fMRI探究以先前发现内疚感、尴尬会激活mPFC的研究结果(Takahashiet al.,2004)为依据，推测自豪感同样会激活 mPFC，结果却未观测到这一脑区的活跃，提示自豪感与内疚感、尴尬等情绪相比，涉及自我反思较少。而后许多研究者围绕mPFC进行探讨，当前多数内疚感等道德情绪的神经机制研究显示出 mPFC 脑区的激活(Gilead etal.,2016;McLatchie etal.,2016;Muller-Pinzler et al.,2017)。相比之下，较多研究表明唤醒自豪感未能激活 mPFC (Ding,2018; Hong et al.,2019; Li et al.,2013; Simon-Thomas et al.,2012)，但根据前文可知，另有部分研究却观测到mPFC 在自豪感条件下活动的增强(Roth et al.,2014; Zahnet al.,2009)。最近的研究又发现，不同的自我意识情绪是激活了mPFC 的不同区域，自豪感这一正性的自我意识情绪与vmPFC 有关，而内疚感则更多引发了dmPFC 的活跃，研究者认为先前研究未能探测到 mPFC 的原因可能在于自豪感的唤醒程度(Gilead etal.,2016)，而Stolz 等(2020)却观测到这两个区域在自豪感下都被激活。因此，自豪感与mPFC 激活的关系尚无定论，仍有待深入探究。另外，尽管自豪感和羞耻感的脑机制研究均发现了情绪加工脑区的变化，然而自豪感中的积极情感体验使得与此相关的神经网络的激活水平更高(Roth etal.,2014)，并且自豪感相较于内疚感，自我参照、奖赏加工的脑区更为活跃(Gilead etal.,2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除以上采用神经影像学技术进行神经基础比较研究之外，也有研究以生理反应为指标对自豪感和内疚感进行比较，发现相比自豪感唤醒者，内疚感唤醒者心率增加明显且心脏交感神经兴奋时间延长，这一分离性结果表明这两种不同的道德情绪有着各自独特的动机功能(Fourie et al., 2011)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，自豪感与同情的神经基础比较发现，同情激活了与痛苦体验和共情有关的中脑导水管周围灰质(midbrain periaqueductal gray,PAG)，而自豪感则激活了与自我参照相关的后内侧皮层(PMC)，但与共情有关的前脑岛(anterior insula)和下额回(IFG)的激活程度较低，这可能是由于个体对自我的更多关注引发了较高水平的自豪感体验(Simon-Thomas etal.,2012)。还有研究者发现使用多体素模式分析的fMRI视觉解码作为神经信号反馈，能够区分亲和情感(affiliative emotion)和自豪感的大脑活动模式———相比于自豪感，亲和情感的大脑激活特征在神经反馈训练后显著增加，人们能够利用解码的信号来增强亲和情感的分布式神经活动，即可以自主控制与亲和情感有关的神经网络(Molletal.,2014)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最后，自豪感与自尊都涉及自我评价过程，两者有着密切的关系(Stanculescu,2012; Tracyet al.,2009;Tracy&Robins,2007b)，但目前为止，尚未有研究将自尊和自豪感的神经机制置于同一研究背景下的比较。尽管如此，已有研究也揭示出这两种情绪激活的脑区具有较多的重叠，如高自尊个体的海马灰质体积更大(Lu etal.,2018)，自尊也与自我信息加工相关的内侧前额叶皮层(mPFC)、前/后扣带回皮层(ACC/PCC)有关(Yang etal.,2016)，还涉及颞顶联合区(TPJ)(Agroskin,Klackl,& Jonas,2014)、眶额叶皮层(OFC)、腹侧纹状体(Kawamichi et al,2018)等与自豪感重叠的区域。这些都源于自尊也包含了自我参照、心理理论、情绪、奖赏及记忆等心理过程(王轶楠,2018；杨紫嫣等,2017)。可见，自尊和自豪感在发生和形成机制上存在共通之处。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "总结以上可知，自豪感和不同道德情绪激活的脑区重叠程度更大。自豪感和感恩都激活了与心理理论有关的脑区。这两种情感下也发现和奖赏价值加工脑区的激活，可见对价值刺激的评估能够唤醒积极的道德情绪，但感恩更可能涉及学习过程，而不是简单地对价值刺激的情感反应(Ding,2018)。另外，自豪感与内疚感、自尊等的神经基础比较发现都激活了与心理理论、自我参照等关联的大脑区域，表明其产生是基于对自身、他人意图和行为的认识和归因。当然，诸多研究之间不一致的结果也表明自豪感和其他道德情绪的神经基础仍需进一步探究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上可知，自豪感神经机制的研究已经取得了丰富成果：一方面，自豪感神经基础的研究揭示了自豪感与心理理论、自我参照、情绪加工、奖赏刺激加工、记忆等认知活动有关，表明自豪感是一种与多心理成分有关的复杂自我意识情绪；另一方面，自豪感与其他基本情绪、道德情绪等神经基础的比较发现，两者的发生与作用过程有着或多或少的重合，表明它们之间也存在着互为基础、部分重叠或相互影响的复杂关系。总之，自豪感神经机制的研究为理解这一复杂心理过程的实质提供了坚实依据。未来研究可着眼于以下两个方面：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "一是特异化的自豪感神经机制的研究，即不同类别和不同强度（唤醒度）自豪感的神经基础。在类别层面，目前只有一项研究考察了真实自豪和自大自豪的神经基础(Kong et al,2018)，其提示的机制需更多的研究去印证。另外，除个人自豪感外，团体、社会、国家等层面自豪感的神经基础证据目前较为缺乏；在程度层面，有研究者猜测，不同强度的自豪感在神经生理指标表达上可能不同(Gilead etal.,2016)，但仍需要进一步研究证实。二是自豪感的神经机制研究需要更加深入。以往研究中，确定自豪感激活相关脑区的静态研究多，探讨加工过程的 ERP研究少；自豪感与其他基本情绪、道德情绪神经机制的比较研究多，而自豪感影响感知、评价、决策等认知过程的神经机制的研究少，今后研究应更多将 ERP 技术引入到自豪感研究中，并深入探讨自豪感与认知活动关系的神经基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Agroskin, D., Klackl, J.,& Jonas, E. (2014). The self-liking brain: A VBM study on the structural substrate of self-esteem. Plos One, 9(1), e86430.   \nArmony， J.，& Vuilleumier， P. (Eds). (2013). The Cambridge handbook of human affective neuroscience. Cambridge: Cambridge University Press.   \nBissing-Olson, M. J., Fielding, K. S.,& Iyer, A. (2016). Experiences of pride, not guilt, predict proenvironmental behavior when pro-environmental descriptive norms are more positive.Journal ofEnvironmental Psychology, 45,145-153.   \nCaillaud, M., Bejanin, A., Laisney, M., Gagnepain, P., Gaubert, M., Viard, A.,... Desgranges,B. (2020). Influence of emotional complexity on the neural substrates of affective theory of mind. Human Brain Mapping, 41(1),139-149.   \ndaSilva,E.B., Crager, K.,& Puce,A. (2O16). On dissociating the neural time course of the processing of positive emotions.Neuropsychologia, 83, 123-137.   \nDing, K. (2018). Neural and computational models of gratitude and pride (Unpublished doctorial dissertation).Ludwig-Maximilians-Universität Minchen.   \nEtxebarria,I., Ortiz, M. J.,Apodaca, P., Pascual, A., & Conejero, S. (2015). Pride as moral motive: Moral pride and prosocial behaviour. Infancia y Aprendizaje: Journal for the Study of Education and Development, 38(4), 746-774.   \nEyal,T.,& Fishbach, A. (2010). Do global and local systems feel different? Psychological Inquiry, 21(3), 213-215.   \nFett,A.K. J.， Shergill， S. S.，& Krabbendam,L. (2015). Social neuroscience in psychiatry: Unravelling the neural mechanisms of social dysfunction. Psychological Medicine, 45(6), 1145-1165.   \nFourie,M. M., Rauch, H. G.L., Morgan, B.E., Elis, G.F. R., Jordaan,E. R.,& Thomas, K. G.F. (2011). Guilt and pride are heartfelt, but not equally so. Psychophysiology, 48(7), 888-899.   \nFox, G.R., Kaplan, J.,Damasio,H.,& Damasio,A. (2015). Neural correlates of gratitude. Frontiers in Psychology, 6,1491.   \nFurukawa, E., Tangney, J., & Higashibara, F. (2Ol2). Cross-cultural continuities and discontinuities in shame, guilt, and pride: A study of children residing in Japan, Korea and the USA. Self and Identity, 11(1), 90-113.   \nGilchrist, J. D., Sabiston, C. M., Conroy, D. E.,& Atkinson, M. (2018). Authentic pride regulates runners' training progress. Psychology of Sport and Exercise, 38,10-16.   \nGilead, M., Katzir,M., Eyal, T.，& Liberman, N. (2O16). Neural correlates of processing \"selfconscious\" vs. \"basic\" emotions. Neuropsychologia, 81,207-218.   \nGifuni,A. J., Kendal, A., & Jollant,F. (2O17). Neural mapping of guilt: A quantitative meta-analysis of functional imaging studies. Brain Imaging and Behavior, 11(4),1164-1178.   \nHong,Y.-J.,Park, S., Kyeong, S.,& Kim, J.-J. (2O19). Neural basis of professional pride in the reaction to uniform wear. Frontiers in Human Neuroscience,13.   \nHu, X., Yu, J. W., Song, M. D., Yu, C., Wang,F., Sun,P.,... Zhang, D. (2017). EEG correlates of ten positive emotions. Frontiers in Human Neuroscience,11,12.   \nHu, X., Zhuang, C., Wang, F., Liu, Y.-J., Im, C.-H., & Zhang, D. (2019). fNIRS evidence for recognizably different positive emotions. Frontiers in Human Neuroscience, 13.   \nKarsh,N.,& Eyal, T. (2015). How the consideration of positive emotions influences persuasion: The differential effect of pride versus joy. Journal of Behavioral Decision Making, 28(1), 27- 35.   \nKawamichi, H., Sugawara, S. K., Hamano, Y. H., Kitada, R., Nakagawa, E., Kochiyama, T., & Sadato, N. (2O18). Neural correlates underlying change in state self-esteem. Scientific Reports, 8(1), 1798.   \nKini,P.，Wong, J., McInnis, S., Gabana, N.,& Brown, J. W. (2016). The effects of gratitude expression on neural activity. Neurolmage, 128,1-10.   \nKong,F., He, Q., Liu, X., Chen, X., Wang, X., & Zhao, J. (2018). Amplitude of low-frequency fluctuations during resting state differentially predicts authentic and hubristic pride. Journal of Personality, 86(2),213-219.   \nLewis, M.(1995). Self-conscious emotions. American Scientist, 83, 68-78.   \nLewis,M.(1997). The self in self-conscious emotions. In J. G. Snodgrass & R.L. Thompson (Eds.), Self across psychology: Self-recognition, self-awareness, and the self-concept (pp. 119-142). New York: New York Academy of Sciences.   \nLewis,M. (2016). Self-conscious emotions: Embarrassment, pride,shame, guilt, and hubris. In L. Feldman, M. Lewis,& M. Haviland-Jones (Eds.), Handbook of emotions (pp. 792-814). New York, NY: The Guilford Press.   \nLi,P.,Shen,Y., Sui, X., Chen, C.,Feng,T.,Li, H.,& Holroyd, C. (2013). The neural basis of responsibility attribution in decision-making. Plos One, 8(11),e80389.   \nLiu, C.,Lai, W., Yu, G.,& Chen, C. (2014).The individual and collective facets of pride in Chinese college students. Basic and Applied Social Psychology, 36(2),176-189.   \nLu, H.,Li, X., Wang, Y., Song, Y.,& Liu, J. (2018). The hippocampus underlies the association between self-esteem and physical health. Scientific Reports, 8(1), 17141.   \nLunardo, R.,& Saintives, C. (2O18). Coping with the ambivalent emotions of guilt and pride in the service context. Journal of Services Marketing, 32(3), 360-370.   \nMcLatchie,N., Giner-Sorolla,R., & Derbyshire, S. W. G. (2016).“Imagined guilt” vs “recollected guilt\": Implications for fMRI. Social Cognitive and Affctive Neuroscience, 11(5), 703-711.   \nMiceli,M., Castelfranchi, C.,& Pocobelo,R.(2017). The ambiguity ofpride.Theory & Psychology, 27(4), 550-572.   \nMoll,J., Weingartner, J. H., Bado,P., Basilio,R., Sato,J.R., Melo,B.R.,... Zahn, R. (2014). Voluntary enhancement of neural signatures of affiliative emotion using fMRI neurofeedback. Plos One, 9(5), e97343.   \nMuller-Pinzler,L.,azzola,V.,Keysers,C.,Sommer,J.,Jnsen,A.,Frasse,S.,..Krach,.(015). Neural pathways of embarrassment and their modulation by social anxiety. NeuroImage, 119, 252-261.   \nMullr-Pinzler, L. Krach, S., Krämer, U. M.,& Paulus, F. M. (2017). The social neuroscience of interpersonal emotions. In M. Wohr & S. Krach (Eds.), Social behavior from rodents to humans: neural foundations and clinical implications (pp. 241-256). Cham: Springer International Publishing.   \nMuris,P.,& Meesters,C.(2014). Small or big in the eyes of the other: On the developmental psychopathology of self-conscious emotions as shame, guilt, and pride. Clinical Child and Family Psychology Review, 17(1),19-40.   \nMurray, B. D., Holland, A. C.,& Kensinger, E. A. (2013). Episodic memory and emotion. In M. D. Robinson, E. Watkins, & E. Harmon-Jones (Eds.), Handbook of cognition and emotion (pp. 156-175). New York, NY, US: Guilford Press.   \nOnwezen, M. C., Antonides, G., & Bartels, J. (2013). The norm activation model: An exploration of the functions of anticipated pride and guilt in pro-environmental behaviour. Journal of Economic Psychology, 39,141-153.   \nOrth, U.,Robins,R. W., & Soto, C. J. (2010). Tracking the trajectory of shame, guilt, and pride across the life span. Journal of Personality and Social Psychology, 99(6),1061-1071.   \nRoth,L., Kaffenberger, T., Herwig, U.,& Bruhl, A. B. (2O14). Brain activation associated with pride and shame. Neuropsychobiology, 69(2), 95-106.   \nSalerno,A., Laran, J.,& Janiszewski, C. (2O15). Pride and regulatory behavior: The influence of appraisal information and self-regulatory goals. Journal of Consumer Research, 42(3), 499- 514.   \nSchneider, C.R., Zaval,L., Weber, E. U.,& Markowitz, E. M. (2017). The influence of anticipated pride and guilt on pro-environmental decision making. Plos One, 12(11), e0188781.   \nSchurz,M.,Radua,J.,Aichhorn,M.,Richlan,F.,& Perner, J. (2014).Fractionating theory of mind: A meta-analysis of functional brain imaging studies. Neuroscience & Biobehavioral Reviews, 42,9-34.   \nShi,Y.,Chung,J. M.,Cheng,J.T.,Tracy,J.L.,Robins,R.W.,Chen,X.,& Zheng,Y.(2015).Crosscultural evidence for the two-facet structure of pride. Journal of Research in Personality, 55, 61-74.   \nShimoni,E., Berger,A., & Eyal,T.(2019). Priming pride promotes delay of gratification. Motivation and Emotion, 43(5),786-802.   \nSimon-Thomas, E. R., Godzik, J., Castle,E. Antonenko, O., Ponz, A., Kogan, A., & Keltner, D. J. (2012). An fMRI study of caring vs self-focus during induced compassion and pride. Social Cognitive and Affctive Neuroscience, 7(6), 635-648.   \nStanculescu, E. (2012). The self-conscious emotion of pride as mediator between selfesteem and positive affect. Procedia - Social and Behavioral Sciences, 33, 263-267.   \nStolz,D. S., Mullr-Pinzler, L., Krach, S.,& Paulus,F. M. (2020). Internal control beliefs shape positive affect and associated neural dynamics during outcome valuation. Nature Communications, 1l(1), 1230.   \nSznycer, D. (2019). Forms and functions of the self-conscious emotions. Trends in Cognitive Sciences, 23(2), 143-157.   \nSznycer, D.,Al-Shawaf,L., Bereby-Meyer, Y., Curry, O. S., De Smet, D.,Ermer,E.,... Tooby, J. (2017). Cross-cultural regularities in the cognitive architecture of pride. Proceedings of the National Academy of Sciences of the United States of America, 114(8),1874-1879.   \nTakahashi, H., Matsuura, M., Koeda, M., Yahata, N., Suhara, T., Kato, M.,& Okubo, Y. (2008). Brain activations during judgments of positive self-conscious emotion and positive basic emotion: Pride and joy. Cerebral Cortex, 18(4), 898-903.   \nTakahashi, H., Yahata,N.,Koeda, M., Matsuda,T.,Asai, K.,& Okubo, Y. (2004). Brain activation associated with evaluative processes of guilt and embarrassment: an fMRI study. Neurolmage, 23(3), 967-974.   \nTakeuchi, H., Taki, Y., Sekiguchi, A., Nouchi, R., Kotozaki, Y., Nakagawa, S.,.. . Kawashima, R. (2016). Differences in gray matter structure correlated to nationalism and patriotism. Scientific Reports, 6(1),29912.   \nTangney, J. P.(1999). The self-conscious emotions: Shame, guilt, embarrassment and pride. In T. Dalgleish & M. J. Power (Eds.), Handbook of cognition and emotion (pp.541-568). New York: Wiley.   \nTangney, J.P.,Stuewig, J.,& Mashek,D.J. (2007). What's moral about the self-conscious emotions? In J. L. Tracy, R. W. Robins,& J. P. Tangney (Eds.), The self-conscious emotions: Theory and research (pp. 21-37). New York, NY: Guilford Press.   \nTangney, J.P.,& Tracy, J.L.(2012). Self-conscious emotions. In M. R.Leary & J. P. Tangney (Eds.), Handbook of self and identity (pp. 446-478). New York: Guilford Press.   \nTracy, J. L., Cheng, J. T., Robins, R. W.,& Trzesniewski, K. H. (2009). Authentic and hubristic pride: The affective core of self-esteem and narcissism. Self and Identity, 8(2-3),196-213.   \nTracy, J. L.,& Robins,R.W. (2004a). Puting the self into self-conscious emotions: A theoretical model. Psychological Inquiry, 15(2), 103-125.   \nTracy, J. L., & Robins,R. W. (2oo4b). Show your pride: Evidence for a discrete emotion expression. Psychological Science, 15(3), 194-197.   \nTracy, J. L., & Robins, R. W. (2007a). Emerging insights into the nature and function of pride. Current Directions in Psychological Science,16(3), 147-150.   \nTracy, J.L., & Robins, R. W. (2007b). The psychological structure of pride: A tale of two facets. Journal of Personality and Social Psychology, 92(3), 506-525.   \nTracy, J.L., & Robins, R.W. (2014) Conceptual and empirical strengths of the authentic/hubristic model of pride. Emotion, 14(1), 33-37.   \nTracy, J.L., Shariff,A.F.,& Cheng, J.T.(2010). A naturalist's view ofpride. Emotion Review, 2(2), 163-177.   \nvan Osch, Y., Zeelenberg,M.,& Breugelmans, S. M. (2018). The self and others in the experience of pride. Cognition & Emotion, 32(2), 404-413.   \nWagner, U., N'Diave, K., Ethofer, T.,& Vuilleumier, P. (2011). Guilt-specific processing in the prefrontal cortex. Cerebral Cortex, 21(11), 2461-2470.   \nWang,Y. (2O18). Neural mechanisms of self-esteem stability in the perspective of neuroendocrine system-brain-behavior. Advances in Psychological Science, 26(10), 1724-1733.   \n[王轶楠.(2018)．自尊稳定性的认知神经机制．心理科学进展,26(10),1724-1733.]   \nWebb,L.， Stegall， S.，Mirabile， S.， Zeman， J.， Shields,A.，& Perry-Parrish，C.(2016). The management and expression of pride: Age and gender effects across adolescence. Journal of Adolescence, 100(52), 1-11.   \nWeidman, A. C., Tracy, J. L., & Eliot, A. J. (2016). The benefits of following your pride: Authentic pride promotes achievement. Journal of Personality, 84(5), 607-622.   \nWilliams, L.A., & DeSteno, D. (2008). Pride and perseverance: The motivational role of pride. Journal of Personality and Social Psychology, 94(6), 1007-1017.   \nWilliams，L.A.，& DeSteno，D. (2009). Pride: Adaptive social emotion or seventh sin? Psychological Science, 20(3), 284-288.   \nWubben, M.J.J.,De Cremer, D.,& van Dijk,E. (2012). Is pride a prosocial emotion? Interpersonal effects of authentic and hubristic pride. Cognition and Emotion, 26(6),1084-1097.   \nYang, J., Xu, X., Chen, Y., Shi, Z.,& Han, S. (2O16). Trait self-esteem and neural activities related to self-evaluation and social feedback. Scientific Reports, 6(1),20274.   \nYang,Z., Luo, Y., Gu, R., Liu, Y., & Cai, H. (2017). Self-esteem and brain: A social neuroscience approach. Advances in Psychological Science, 25(5),788-798.   \n[杨紫嫣，罗宇，古若雷，刘云芝，蔡华俭.(2017)．自尊的认知神经机制．心理科学进展,25(5), 788-798.]   \nYu, H., Gao,X.， Zhou, Y.,& Zhou, X. (2018). Decomposing gratitude: Representation and integration of cognitive antecedents of gratitude in the brain. Journal of Neuroscience, 38(21), 4886-4898.   \nZahn,R., Garrido, G.,Moll,J.,& Grafman, J. (2014). Individual differences in posterior cortical volume correlate with proneness to pride and gratitude. Social Cognitive and Affective Neuroscience, 9(11), 1676-1683.   \nZahn,R.,Moll,J.,Paiva, M., Garrido, G., Krueger,F., Huey,E.D.,& Grafman,J. (2009). The neural basis of human social values: Evidence from functional MRI. Cerebral Cortex, 19(2), 276-283.   \nZhu, R., Feng, C., Zhang, S., Mai, X.,& Liu, C. (2019). Differentiating guilt and shame in an interpersonal context with univariate activation and multivariate pattern analyses. Neurolmage, 186, 476-486. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The neural basis of pride: A comparative perspective ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SHENLei; JIANGDaitai; CHENNing;LIUWei (CollegeofEducation,Shanghai Normal University,Shanghai 2oo234,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Pride is a positive emotional experience arising from evaluating one's own achievements ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The neural basis researches have shown that the synergistic actions between regions of the brain that relate to the theory of mind, self-referencing, emotion,reward, and memory constitute the neural basis of pride.A comparison of neurological and physiological studies revealed similarities and differences in the neural basis of pride,basic emotions,and moral emotions. These findings provide the basis for understanding the complex neural mechanisms of pride.Future research should explore the neural mechanisms of different types of pride and the interaction between pride and cognitive processes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: pride; self-conscious emotion; moral emotion; basic emotion; neural basis ",
+        "page_idx": 12
+    }
+]

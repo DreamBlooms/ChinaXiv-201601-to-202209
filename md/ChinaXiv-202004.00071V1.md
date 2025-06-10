@@ -1,0 +1,205 @@
+# 开都河源区径流变化的气候响应
+
+刘志斌,2,3，黄粤¹,²，刘铁ʰ²，包安明¹²，冯先伟，邢伟1,2，段永超1,2.3，郭晨宇1,2,3
+
+1．中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2．新疆维吾尔自治区遥感与地理信息系统应用重点实验室,新疆 乌鲁木齐830011;3．中国科学院大学,北京100049；4．中国科学院上海分院,上海200031)
+
+摘要：气候变化下的山区径流时空变异特征是干旱区水文水资源研究的热点之一。本研究选择天山南坡开都河流域源区为典型研究区,基于1958—2017年大山口水文站和巴音布鲁克水文站径流数据，及巴音布鲁克气象观测数据,采用TFPW-MK趋势检验、小波分析与小波相干等方法分析径流序列的趋势、突变和周期特征及其对气候变化的响应。结果表明;近60a来,开都河源区径流、降水、气温呈显著增加趋势,并且径流量、降水量与最高气温的增率在加快,而平均气温与最低气温的增率减缓;径流量、降水与平均气温的突变年份集中在20 世纪90 年代，并且均存在28a的周期;夏季径流量增加主要受夏季升温的影响,而早春径流量增加主要与冬季降水增加、早春升温有关;在年尺度上,降水是影响开都河径流变化的主要因素,气温主要以积温形式影响着径流的变化;在月尺度上，积温与降水均与径流呈显著正相关关系，且源区上游径流较下游径流对气温变化更为敏感。
+
+关键词：开都河；气候变化；径流量；降水；气温；TFPW-MK;小波相干
+
+气候变化影响陆地水循环，导致地表径流发生显著的时空变化，进而影响流域生态环境与社会经济发展[1]。我国西北干旱区地处中纬度亚欧大陆腹地,是全球气候变化下的敏感地区[2]。内陆河流域产流主要集中于山区，径流水资源的气象成因复杂，形成和分布具有明显的垂直地带性规律和季节性特点[3-4]。气候变化背景下的内陆河源区径流水资源演变规律与机理研究，已成为当前气候变化和水文水资源领域的重大科学问题[5]
+
+以往学者针对大河源区径流变化特征与时空分异规律开展了大量研究工作，如陈亚宁[重建了过去300a西北干旱区气候变化序列，分析了气候变化对水循环关键过程和水系统的影响，得到西北干旱区以冷干、暖湿气候交替出现的结论；极端气候水文事件频度增强、频率加大，水文波动性增强、水资源不确定增大。陈亚宁等[7]利用参数统计与非参数统计方法探究1955—2000年全球气候变化与塔里木河流域水资源变化间的相互关系，结果表明塔里木河流域气温与降水呈现上升趋势，且在20世纪
+
+90年代出现飞跃式的突变，同期径流量也出现明显的增加趋势。王钧等[8利用小波神经网络预测并分析了黑河流域的气候变化，发现黑河上、中游气候向暖湿型转化，下游气候向暖干型转化，上游径流受气候的影响呈增强的趋势，而中游径流主要受人类活动的影响呈减弱趋势。蓝永超等[9分析了近50a来疏勒河流域山区气候变化对出山径流量的影响，发现冬季气温升幅大，夏季气温升幅小，除夏季外其他季节降水有增多的趋势，而径流量与山区气温、降水量的变化均呈显著的正相关关系。吴益等[10]根据和田河流域多年实测径流资料与气象资料，探究表明和田河流域气温与降水量有明显的上升趋势，但径流量存在微弱下降趋势，这与冰川退缩和人类活动影响有关。内陆河山区水资源应对气候变化表现出极大的脆弱性与不稳定性，且因所处地理环境的不同呈现出时空异质性。
+
+开都河位于天山南坡，是塔里木河流域的主要源流之一，其地表水资源量占流域水资源总量的$8 5 . 5 \%$ [11],开都河水量变化影响着下游焉耆盆地、博斯腾湖与孔雀河绿洲的生态水文环境，对流域内的社会经济发展有着决定性作用。探究开都河流域水文、气候变化特征及其响应关系对加深区域水循环过程的认识、流域水资源管理具有重要意义。已有研究表明，20世纪60年代以来，开都河流域降水量在1960—2000 年呈波动性增长,2000 年以后呈缓慢平稳增长趋势，多年平均增长率约 $0 . 1 1 6 \ \mathrm { m m }$ ：（10a）-1[1,12];气温呈持续升高趋势,年均气温增率达 $0 . 2 1 \mathrm { ~ \textdegree ~ { ~ } ~ } \cdot \mathrm { ~ ( ~ 1 0 a ~ ) ~ } ^ { - 1 }$ ;出山口径流量总体呈上升趋势[13-14],但年际间波动明显[15-16]。开都河流域气候总体呈现出与西北内陆大气候一致的变化规律，特别是在中下游地区,向暖湿趋势发展[5,12]。然而,由于所用数据序列长度及统计分析方法各不相同，所得结果存在一定差异性，特别是在突变点识别、丰枯周期划分与多年变率计算中不确定性较大[1,15,17-18];且大部分研究选取 2012 年之前的出山口径流量作为研究对象，对巴音布鲁克以上高山产流区径流量变化关注不足[14,19]。目前,仍缺少对开都河源区上、下游径流时空变化及其气候响应差异的深入分析。因此，本文综合利用距平分析法、TF-PW-MK检验、MK突变分析、小波分析与小波相干等方法，基于开都河流域水文、气象站点1958—2017 年全序列观测数据,从不同时间尺度上探究源区径流的趋势、突变和周期变化特征,探讨径流量年际年内变化对气候变化的响应规律。在水文气象数据选择上注重时效性，并着重讨论开都河源区上、下游径流变化及其气候响应特征的时空差异性，研究结果可深化与完善对区域水循环过程的认识，对流域水资源管理具有重要意义。
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+开都河起源于天山中段依连哈比尔尕山，流经天山南部，自河流山区出口的大山口水文站进入焉耆盆地,最后注入博斯腾湖，是博斯腾湖主要补给源。开都河源区是指开都河出山口以上的区域，流域总面积为 $2 . 2 0 \times 1 0 ^ { 4 } ~ \mathrm { k m } ^ { 2 }$ ,地势呈现西北高东南低,河道全长 $5 6 0 ~ \mathrm { k m }$ ，源区夏季炎热，冬季寒冷，昼夜温差大，其蒸发能力强，全年积雪天数多达$1 3 9 . 3 0 \mathrm { ~ d } ^ { [ 1 2 , 2 0 ] }$ ，该区域受人类活动影响不大,主要由气候变化来主导[21],而源区径流主要依靠山区冰雪消融、降水等方式来进行补给，属于混合型补给型河流。流域内气象和水文观测始于20世纪50年代中期，在5个测站进行了水文观测。其中，只有2个站点积累了连续的流量数据，其中巴音布鲁克水文站位于开都河上游,集水区面积 $6 . 6 5 \times 1 0 ^ { 3 } ~ \mathrm { k m } ^ { 2 }$ ，主要代表上游高山区;大山口水文站位于开都河流域出山口，是开都河流域径流控制站点。在本研究中，巴音布鲁克水文站以上的巴音布鲁克子流域，定义为开都河源区流域上游;巴音布鲁克站至大山口水文站之间的区域，定义为开都河源区流域中下游(图1）。
+
+![](images/41aa46b1a92c5ab1fc87a9b63154d66360e2bb3f59d0fc2bf8b7afd0cccda8fb.jpg)  
+图1 研究区示意图  
+Fig.1The research area of Kaidu River Basin
+
+# 1.2 数据来源
+
+本文采用的数据包括：1958—2017年巴音布鲁克气象站观测数据，其中包括年尺度与月尺度的累积降水量，最高、最低气温和平均气温，数据来源于中国气象数据网（http：//data.cma.cn）;1958—2017年大山口水文站径流观测数据、1958—2011年巴音布鲁克水文站径流观测数据，由塔里木河流域管理局提供。缺失年/月份的巴音布鲁克水文站径流数据可利用下游大山口站径流数据进行插补延长[22-23],根据前人研究,当相同系列长度达到30 a以上方具有代表性[24-26]。利用大山口站与巴音布鲁克站同期 $5 4 \mathrm { ~ a ~ }$ 的数据，建立年以及各月份上的回归方程，各 $R ^ { 2 }$ 系数均高于0.70，插补结果良好。
+
+# 1.3 研究方法
+
+在水文与气候变化趋势分析中，主要采用距平分析[1]、Mann-kendall 非参数统计[27]、TFPW-MK 检验[28],对年尺度与月尺度的径流、累积降水量、气温的趋势变化、增长速率、突变时间等进行分析。以往研究多采用传统的水文序列非一致性检验方法，如
+
+Spearman秩次相关法、滑动 $\mathbf { \chi } _ { t } ^ { }$ 检验、Pettitt检验法等，但水文、气象序列的自相关性常常影响趋势与突变检验的准确性[29]。TFPW-MK是一种前置移除型的MK 检验方法，能对序列进行趋势分析，前置程序包括去趋势与预置白2个过程，可以有效降低序列中自相关对检验结果的影响，分析结果为 $Z$ 统计量、变化率 $T P$ （无量纲)与序列倾斜度 $\beta$ 。当 $Z$ 大于0时,表明趋势上升，当 $Z$ 小于0时，表明趋势下降;当 $T P$ 大于0时，序列增加或减少的变化速率在增加，小于O则说明变化速率在减缓。Mann-kendall非参数统计检验能有效提取序列数据的突变点，该方法对样本分布要求不高，也极少受到异常值的干扰，计算简单，易于操作。
+
+水文气候周期、相关分析中，主要采用Morlet小波分析与小波相干方法[30]。小波函数是指具有震荡性质，能够在短时间内迅速衰减的一类函数，通过伸缩平移变换，将信号进行高频与低频的细分，而Morlet小波因波形与水文过程相似，常用于水文气候周期检验中。小波相干谱用来度量时域、频域空间中2个时间序列局部相关的密切程度，即使对应交叉小波功率谱中低能量值区，两者在小波相干谱中的相关性也有可能很显著，本文利用MonteCarlo方法对小波相干进行显著性分析。
+
+# 2 结果分析
+
+# 2.1开都河径流变化特征分析
+
+从图2可见，大山口和巴音布鲁克站年均径流距平序列呈波动变化，2站径流变化趋势一致，整体呈增加趋势。1995年前径流量负距平较多，1995 年之后径流量以正距平为主。其中大山口站年均径流距平变化率为 $3 . 3 3 ~ \mathrm { m } ^ { 3 } \cdot \mathrm { s } ^ { - 1 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ ,巴音布鲁克站年均径流距平变化为 $0 . 2 4 ~ \mathrm { m } ^ { 3 } \cdot \mathrm { s } ^ { - 1 } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ C L
+
+与传统的MK检验相比,TFPW-MK方法能够有效检验并去除数据的自相关性。表1为不同尺度下开都河径流数据的TFPW-MK检验结果,其中所有数据序列一阶自相关系数均通过了 $\scriptstyle a = 0 . 0 1$ 的显著性检验，说明原始径流数据存在不同程度的自相关性。利用去自相关TFPW-MK趋势分析消除数据的自相关性后得到 $Z$ 统计量，发现所有数据序列的 $Z$ 值均大于0,表明开都河径流量均呈显著增加趋势;从 $\beta$ 的分布来看，所有径流数据的斜率均为正，这与$Z$ 统计量表现的结果一致；从 $T P$ 变化率分布上看，
+
+![](images/231e812bffc429564a6eaa1732343bee3bda173665a0bab2d2584e51949c9f14.jpg)  
+图2大山口站和巴音布鲁克站年均径流距平分析 Fig.2The annual averge runoff anomaly analysis of Dashan and Bayanbulak hydrological station
+
+# 表1开都河径流量TFPW-MK检验
+
+Tab.1The TFPW-MK test of yearly and monthly averge Kaidu River'srunoff   
+
+<html><body><table><tr><td>年均径流量</td><td>Z</td><td>β</td><td>TP</td></tr><tr><td>大山口站</td><td>2.289 7 **</td><td>0.339 2</td><td>18.093 8</td></tr><tr><td>巴音布鲁克站</td><td>5.4211 ***</td><td>0.306 9</td><td>29.430 7</td></tr></table></body></html>
+
+注：Z表示MK统计量； $\beta$ 表示序列倾斜度； $T P$ 表示变化率; $^ { * * }$ 表示$9 5 \%$ 置信水平， $\ast \ast \ast \ast$ 表示 $9 9 \%$ 置信水平。
+
+开都河年均径流量的增加速率将会加快（表1）。
+
+图3为年均径流量MK突变检验，大山口站年均径流数据UF值在1958—1990年大都小于0，说明年均径流量在此期间呈减少趋势，而在1991年之后UF值又大于0,说明1991年之后大山口年均径流量呈明显增加趋势，并在2006年之后，这种增加趋势变得显著。大山口年均径流量突变年份为1991年，而未消除自相关性的大山口年均径流量突变年份为1995年。巴音布鲁克站与大山口站呈现相似的规律，1998年之前巴音布鲁克测站的年均径流量呈减少趋势，而在1998年之后，巴音布鲁克站的年均径流量呈增加趋势。根据UF与UB曲线的交点，确定巴音布鲁克站年均径流量突变点为1998年，而未消除自相关性的巴音布鲁克站年均径流量的突变年份为1994年，并有多个突变点。利用TF-PW-MK方法来消除自相关并进行MK突变检验会使得突变点前置2～4a,但不进行自相关处理的MK突变检验会由于数据本身自相关的问题而出现短时间多个突变点的现象，突变检验有效性降低。
+
+# 2.2开都河源区气候变化特征
+
+1958—2017年开都河源区巴音布鲁克气象站年累积降水量与年均气温距平出现了波动变化，结果表明，年累积降水量距平变化百分率为8.404$\mathrm { { m m } \cdot ( 1 0 a ) ^ { - 1 } }$ ,年均气温距平变化百分率为0.173$\mathrm { { m m } \cdot ( 1 0 \mathrm { { a } ) ^ { - 1 } } }$ （图4）。
+
+对巴音布鲁克站气象要素进行TFPW-MK趋势分析，所有数据序列的一阶自相关系数均通过 $a =$
+
+![](images/34d9c820f33d3f859605a237511132d07f5045e2490654f21ac19a93615e92d6.jpg)  
+图3大山口站和巴音布鲁克站年均径流量MK突变检验 Fig.3The annual averge runoff's MK mutation test of Dashan andBayanbulak hydrological station
+
+![](images/b872015550489c2988a14421e410c9103e1f57ef36b2e7320c752b712bef9014.jpg)  
+图4年累积降水量和年均气温距平分析Fig.4The anomaly analysis of yearly cumulative rainfalland average temperature
+
+0.01的显著性检验（表2）。开都河源区降水、气温在年尺度呈增加趋势。从 $\beta$ 的分布来看，年累积降水量具有较高的斜率，增加幅度较大，其他气象要素的斜率均为正，与 $Z$ 检验结果一致。年累积降水量与年均最高气温 $T P$ 均为正，说明年累积降水量与年均最高气温增率加快,而年平均气温、年最低气温的 $T P$ 为负，说明这2个气象要素增率将减缓
+
+图5为开都河源区年累积降水量与年均气温的MK 突变检验结果，其中年累积降水量在2000年之前 $U F$ 曲线都小于0,表明年降水量在此期间呈减少趋势，而2000年之后为增加趋势，突变年份为2005年；而年均气温在2000年之前UF值也大都为负，说明年均气温也在2000年之前呈现减少趋势，2000 年之后则呈增加趋势，年均气温突变年份为1997年。
+
+# 2.3开都河径流变化对气候的响应
+
+过去60a来，开都河流域的年累积降水量与年均气温都经历了由低到高的趋势变化，且序列突变年份与开都河径流序列基本一致。降水量的增加和
+
+# 表2气象要素TFPW-MK检验
+
+Tab.2The TFPW-MK test of yearly and monthly meteorological elements   
+
+<html><body><table><tr><td>气象要素</td><td>Z</td><td>β</td><td>TP</td></tr><tr><td>年累积降水量</td><td>2.2714 **</td><td>0.869 5</td><td>19.188 8</td></tr><tr><td>年平均最高气温</td><td>1.463 *</td><td>0. 177 4</td><td>25.741 1</td></tr><tr><td>年平均最低气温</td><td>2.056 7 **</td><td>0.018</td><td>-9.500 1</td></tr><tr><td>年平均气温</td><td>2.022 4 **</td><td>0.015 7</td><td>- 22.489 3</td></tr></table></body></html>
+
+注： $\ast$ 表示 $90 \%$ 置信水平， $^ { * * }$ 表示 $9 5 \%$ 置信水平， $* * *$ 表示 $9 9 \%$ 置信水平。
+
+![](images/23f6bfc2cb9da9bcce76ec3e18d4d70c3776ba28fdf9a431a612f466c4a11eeb.jpg)  
+图5年累积降水量和年均气温MK突变检验Fig.5The MK mutation test of yearly cumulative rainfalland average temperature
+
+平均气温的升高，导致降雨径流、融雪/冰径流增加，是开都河径流持续增加的主要诱因。然而，由于上下游径流不同补给源的贡献不同，巴音布鲁克站与大山口站径流对气象要素变化的响应存在差异
+
+将开都河流域的月均径流量、月累积降水量、月均气温数据进行TFPW-MK检验，得到各月份的趋势检验结果(图6)。结果表明，大山口站径流数据除5月之外，其余月的 $Z$ 值均大于0，并且除5、6月之外的其余月的 $Z$ 值均通过 $90 \%$ 的显著性水平，说明除5、6月之外的大山口水文站的月均径流量是呈现显著增加趋势。从 $T P$ 变化来看，大山口站径流增长速度较快的月份是1—4月，7一12月、较慢的月份为5一6月；巴音布鲁克站除1、5、6月外其余月份月均径流量呈显著增加趋势，巴音布鲁克站7—12月的月均径流量增长速度较快，与此同时，巴音布鲁克站5月的月均径流量增长比较慢，这与大山口站径流变化较一致;开都河流域的月累积降水的$Z$ 值除5月外，其余月份的 $Z$ 值均大于0,并且11—1月的 $Z$ 值通过 $90 \%$ 的显著性水平检验，说明开都河冬季降水(11月至次年1月)有明显增加，这符合大山口站与巴音布鲁克站冬季的径流增长趋势；且月均气温的 $Z$ 值在春季呈上升趋势，说明冬季降水增加与早春升温是导致开都河流域冬季、初春径流增加的主要诱因。4—5月降水量的 $Z$ 值比较低,其变化率TP值也都小于0,表明开都河流域4—5月的降水量是趋于减少的，而4一6月开都河的径流量变化不大。考虑到月均气温在5一6月是显著递增的，而降水量在4一6月无明显改变,并且向燕芸等[31]也认为近年天山开都河流域积雪覆盖率在春夏季节呈减少趋势，所以导致开都河径流在4一6月无明显变化;而从月均气温的TFPW-MK分析来看，除了1月、12月的月平均气温的 $Z$ 值小于0外,其余月份的月平均气温 $Z$ 值均大于0,尤其7—9月的月均气温 $Z$ 值大于 $Z _ { 0 . 0 1 } = 2 . 3 2$ ,表明开都河流域在夏季增温显著，同时夏季降水量增加，从而导致夏季径流量的增加。
+
+选用大山口站年均径流、巴音布鲁克站年均径流量、巴音布鲁克站年累积降水量与年均气温作Morlet小波实部系数。如图7所示，大山口与巴音布鲁克的年均径流存在 $^ { 1 4 } \mathrm { ~ a ~ } , 2 2$ a与 $2 8 \mathrm { ~ a ~ }$ 这3类尺度的周期性变化；年均气温存在 $^ \textrm { \scriptsize 7 a , 1 4 a }$ 与 $2 8 \mathrm { ~ a ~ }$ 的周期性变化；而年累积降水则存在 $1 2 \mathrm { ~ a ~ } . 2 2 \mathrm { ~ a ~ }$ 与28a这三类尺度上的周期变化。为更有效地探究各序列之间的主要周期，对各时间序列进行小波方差分析，见（图8）。从图中可知，大山口站年均径流量、巴音布鲁克站年均径流量、年均气温、年累积降水量最大主震荡周期均为 $2 8 \mathrm { ~ a ~ }$ ，结合小波实部图来看，在该尺度下，径流、气温、降水存在4个偏多期与3个偏少期。
+
+从图9可知，大山口站年均径流量与年累积降水量之间存在1958—2017年的8～16a的显著正相位关系，并且1989—1997年存在一个显著的2a正相位之间的关系（图9a）；月累积降水则在1980—2010 年各月份中,存在显著且持续的 $8 \sim 1 6$ a $, 6 4 \sim$ 128a的正相位关系,同时存在间断性存在 $4 \sim 8 \mathrm { ~ a ~ }$ 、16\~32a的正相位关系(图9b);年均径流量与年积气温在1960—1985年的 $4 \sim 8$ a尺度上出现一个负相位的关系，并且在1992—2010 年之间存在一个
+
+![](images/d05bb8925d9e80ca7da644812a863f2e8fa7a27d13e6419ceedbba8960607855.jpg)  
+图6月均径流量、月累积降水量与月均气温TFPW-MK检验  
+Fig.6The TFPW-MK test of monthly average runoff,temperature and cumulative rainfall
+
+![](images/6837a9bdcc691c4ee3a1e23e0ac998e690cdae10029719938971c904cec5fe48.jpg)  
+图7年均径流量、年均气温和年累积降水量小波系数实部图
+
+![](images/c3d2f22459821d7f3765be937e07069e86d9cc155dede9f96c5656f5d533e030.jpg)  
+Fig.7The wavelet analysis’real part of yearly average runoff,temperature and cumulative rainfall   
+图8年均径流量、年均气温和年累积降水量小波方差  
+Fig.8The wavelet variance of yearly average runo,temperature and cumulative rainfall
+
+$1 0 \sim 1 2$ a正相位关系（图9c);反观月积气温则在1980一2010年的各月份中，存在显著且持续的 $8 \sim$ 16a的正相位关系，并且间断性存在4\~8a的正相位关系（图9d);年最高气温在1970—1977年的8a的尺度上，领先大山口年均径流量 $\scriptstyle { \pi / 2 }$ 个相位，并在2000—2005年的2a的尺度上出现负相位的关
+
+大山口站(a)年累积降水量-年均径流 (b)月累积降水量-月均径流 (c)年积气温-年均径流L 4 WWWNN4 国 8 4  
+e/ 16 趣 建  
+尺 8 32 864 海16 128 161960 1970 1980 1990 2000 2010 196019701980199020002010 1960 19701980 1990 2000 2010(d)月积气温-月均径流 (e)年最高气温-年均径流 (f)年均气温-年均径流4 00000 MU 丰 老86年 4 e 4 王圭生  
+e/ 16 1  
+尺 3264 一 3 8 8 988美美美 H128 8 美 16 16 0.7196019701980199020002010 196019701980199020002010 196019701980199020002010年份 年份 年份 0.6 兰巴音布鲁克站 0.5 关(g)年累积降水量-年均径流 (h)月累积降水量-月均径流 (i)年积气温-年均径流 0.4 相LAU 美 用 0.38 0.2  
+e/ 4 16 4 5三 0.1  
+尺 8 32 营： 8 064 交16 128 16196019701980199020002010 1960 1970 1980 1990 20002010 196019701980199020002010(j)月积气温-月均径流 (k)年最高气温-年均径流 ()年均气温-年均径流LA WANUIEY 器 福 书816 4 维 4 m 心  
+e/ 尺 32 8 1 864 林16128 风风机依限队 车车车车手车1619601970 1980 1990 2000 2010 1960 1970 1980 19902000 2010 19601970 1980 1990 2000 2010年份 年份 年份
+
+系，整体而言相关程度不高(图9e);年均气温与年最高气温相似，与年均径流量存在间断性的非正相位式的相关(图9f)。巴音布鲁克站基本与大山口站相似，降水量不管是年尺度还是月尺度都与径流量呈显著的8\~16a的正相关关系，而气温主要是以积温的形式在月尺度上与径流形成8～16a的正相关关系;但巴音布鲁克站的年均气温、年均积温、年最高气温与径流量的相关性要高于大山口站径流，都呈现显著的16a相关关系，其原因是巴音布鲁克水文站位于开都河源区上游,其径流量更易受冰雪消融的影响，与气温的相关愈显著。
+
+从年尺度上来看，开都河流域降水量对开都河径流的影响强于年均气温、年最高气温与积温。一些研究表明，不管在年际尺度还是在年代际尺度，降水量与径流的相关性都要强于气温、潜在蒸发，说明降水量是影响开都河径流变化的决定性因素。然而，在月尺度上，积温与降水量都与径流量有连续且显著的正相关关系，气温对径流量的影响存在一个尺度效应，所以不能仅在单一尺度评价其影响。并且，年积温与年均径流量较年均气温、年最高气温与年均径流量相关性更高，说明气温是以积温的形式影响着径流变化。
+
+# 3结论与讨论
+
+本文利用开都河流域的水文、气象数据进行趋势、突变、周期以及相关分析，得到如下结论：
+
+（1）开都河源区径流量整体呈增加趋势，且增率加快。径流量突变年份集中在1995年左右，径流量呈现由少一多的转变，其主周期为 $2 8 \mathrm { ~ a ~ } , 1 4 \mathrm { ~ a ~ }$ ，开都河源区下游径流量增长趋势较上游更为明显。由于开都河是冰雪消融雪与降水的混合型补给河流，气象要素在各月间具有差异性的增长趋势，致使各月径流量的增长趋势同样有差异性：5一6月开都河径流量无明显增加，而夏季与早春时节径流量增加显著。
+
+（2）近年来开都河源区气候要素如降水、平均气温、最高气温、最低气温整体呈增加趋势，其中降水量与最高气温增速加快，而平均气温、最低气温增速减缓。降水量与平均气温的突变年份集中在2000 年左右，呈现由低一高的转变,两者小波主周期为 $2 8 \mathrm { ~ a ~ } , 1 4 \mathrm { ~ a ~ }$ 。源区降水量在冬季与早春时节有明显增加趋势,而气温在夏季升高趋势显著,在冬季与早春并不显著。
+
+(3）在年尺度上，降水量是影响开都河径流变化的主要因素，年累积降水量与年均径流量存在显著的8\~16a正相关关系。气温主要以积温形式影响着径流量的改变，年积温与年均径流量在1992一2010 年之间存在 $1 0 \sim 1 2$ a 正相关关系,而年均气温、年最高气温变化对径流的影响较弱。在月尺度上，积温与降水都与径流存在8～16a连续且显著的正相关关系。源区上游径流较下游径流更容易受气温影响，这是因为上游径流的补给易受冰川融雪的影响，因此，对气温更为敏感。开都河流域在夏季的径流的显著增加主要与夏季的降水、气温上升有关，而冬季早春径流量的增加则主要由于冬季降水量增加的影响。气温上升会进一步加剧上游山区小型冰川的消融，冰川融水对径流的贡献增加，但从长期发展来看，气候变化对径流影响的不确定性增加。
+
+内陆河山区气候变化对水文系统的作用机制复杂，利用有限的稀疏站点观测数据来刻画流域水文、气象变化特征具有较大的局限性。综合运用多种数理统计方法，从多角度挖掘现有数据信息，其研究结果可为科学认识和把握气候变化对干旱区水循环的影响机理，水资源管理和制定气候变化适应性对策与策略提供支撑。
+
+参考文献（References）: [1］陶辉,王国亚,邵春,等.开都河源区气候变化及径流响应[J]. 冰川冻土,2007,29(3）:413-417.[Tao Hui,Wang Guoya,Shao Chun,et al.Climate change and its effects on runoff at the headwater of Kaidu River[J]. Journal of Glaciologyand Geocryology,   
+2007,29(3):413-417.] [2]陈亚宁,杨青,罗毅,等.西北干旱区水资源问题研究思考[J]. 干旱区地理,2012,35(1）:1-9.[Chen Yaning,Yang Qing,Luo Yi,et al.Ponder on the issues of water resources in the arid region of Northwest China[J].Arid Land Geography,2012,35（1）:1 -   
+9.] [3］姜逢清,胡汝骥.近50 年来新疆气候变化与洪、旱灾害扩大化 [J].中国沙漠,2004,6（1）:37－42.[Jiang Fengqin,Hu Ruji. Climate change and flood &drought disasters in Xinjiangduring recent 50 years[J]. Journal of Desert Research,2004,6(1） :37 -   
+42.] [4］冯德光,陈民.新疆天山冰川区融雪洪水规律探讨[J].水文,   
+2006,21(4）:88-90.[Feng Deguang,Chen Min.Discussion on the law of snowmelt flood in Tianshan glacier area,Xinjiang[J]. Journal of China Hydrology,2006,21(4）:88 -90.] [5］黄粤,陈曦,刘铁,等.基于GEV 分布的天山开都河洪水频率 特征分析[J].气候变化研究进展,2016,12（1):37－44. [Huang Yue,Chen Xi,Liu Tie,et al.Flood frequency analysis for Kaidu watershed in Tianshan mountains[J]. Climate Change Research,2016,12(1) :37 -44.] [6］陈亚宁.气候变化对西北干旱区水循环影响机理与水资源安 全研究[J].中国基础科学,2015,17（2）:15-21.[Chen Yaning. Impact of climate change on water cycle and water resources security in Arid Areas of Northwest China[J].China Basic Science,2015,17(2) :15-21.] [7］陈亚宁,徐宗学.全球气候变化对新疆塔里木河流域水资源的 可能性影响[J].中国科学：地球科学,2004,34（11)：1047-   
+1053.[Chen Yaning,Xu Zongxue.The possbilityof globalclimate change on the water resources of the Tarim river basin in Xinjiang [J].Science China（Earth Sciences）,2004,34（11）:1047-   
+1053.] [8］王钧,蒙吉军.黑河流域近60a来径流量变化及影响因素[J]. 地理科学,2008,28（1）:83-88.[Wang Jun,Meng Jijun. Characteristics and tendencies of annual runoff variations in the Heihe river basin during the past 6O years[J].Scientia Geographica Sinica,2008,28(1) :83 -88.] [9]蓝永超,胡兴林,肖生春,等.近50 年疏勒河流域山区的气候 变化及其对出山径流的影响[J].高原气象,2012,31(6)：1636 - 1644.[Lan Yongchao,Hu Xinglin,Xiao Shengchun,et al. Study on climate change in mountainous region of Shulehe river basin in
+
+past 5O years and its effect to mountainous runoff[J].Plateau Meteorology,2012,31(6):1636-1644.]
+
+[10］吴益，程维明，任立良，等.新疆和田河流域河川径流时序特征 分析[J].自然资源学报,2006,21（3）：375-381.［WuYi， Cheng Weiming,Ren Liliang,et al.Analysis on the characteristics of annual runoff in Hotan catchment[J].Journal of Natural Resources,2006,21(3) :375-381.]
+
+[11］邱慧琼，刘俊.近60a新疆开都河径流变化特征分析[J].人民 黄河,2016,38（5）:22-26.［Qiu Huiqiong,Liu Jun.Study on variation characteristics ofrunoff in Kaidu river over 6O years[J]. Yellow River,2016,38(5):22-26.]
+
+[12］李建涛，海米提·依米提，魏彬，等.开都河流域中下游气候变 化特征及其对径流的影响[J].干旱区研究，2015，32（2）：313 - 320.[Li Jiantao,Haimiti Yimiti,Wei Bin,et al. Climate change inthemiddle andthelowerreachesofKaiduriver and its impact on the runoff[J].Arid Zone Research,2015,32(2):313-320.] [13］蓝永超,钟英君,吴素芬，等.天山南、北坡河流出山径流对气 候变化的敏感性分析一—以开都河与乌鲁木齐河出山径流为 例［J].山地学报,2009,27（6）:712-718.[Lan Yongchao, Zhong Yingjun,Wu Sufen,et al.Sensitivity of mountain runoff of rivers originated from the south slope and the north slope of the Tianshan mountain to climate change-taking mountain runoff of Urumqi river and Kaidu riverfor example[J].Journal of Mountain Science,2009,27(6) :712-718.]
+
+[14］王维霞，王秀君，姜逢清，等.近30a来开都河上游径流量变化 的气候响应[J].干旱区研究,2013,30（4）：743-748.[Wang Weixia,Wang Xiujun,Jiang Fengqin,et al.Response of runoff volume to climate change in the Kaidu river basin in recent 3O years [J」.AridZoneResearch,2013,30(4):743-748.]
+
+[15］张一驰，李宝林,程维明,等.开都河流域径流对气候变化的响应研究[J].资源科学，2004,26（6）：69-76.［ZhangYichi,LiBaolin,Cheng Weiming,et al.Hydrological response of runoff toclimate variation in Kaidu catchment[J].Resources Science,2004,26(6):69 -76.]
+
+[16］赵直，徐晗.新疆开都河流域近50a径流量年际年内变化及其对气候变化的响应分析[J].干旱区资源与环境，2014，28(10):151-156.［Zhao Zhi,Xu Han.The response of runoff vari-ance in the Kaidu river basin to the climate changes[J].Journal ofArid Land Resources and Environment,2014,28（10）:151 -156.]
+
+[17］钟瑞森，郝丽娜.基于小波变换的开都河径流量多时间尺度分析［J].人民黄河,2011,33（8）：34-36.［ZhongRuisen,HaoLina.Multiple time scales analysis on annual runoff of Kaidu riverbasedonwavelettransform[J].YellowRiver,2011,33（8）:34-36.]
+
+[18］张玉娜，徐长春,李卫红，等.开都河流域气候变化特征及其对径流的影响[J].中国水土保持科学，2014，12（1）：81-89.[Zhang Yuna,Xu Changchun,Li Weihong,et al.Climate changecharacteristics and impacts on surface runoff in the Kaidu river ba-sin[J].Science of Soil and Water Conservation,2014,12(1）:81
+
+-89.]
+
+[19］柏玲，刘祖涵，陈忠升，等.开都河源流区径流的非线性变化特征及其气候波动的响应[J].资源科学，2017，39（8）：1511-1521.［Bai Ling,Liu Zuhan,Chen Zhongsheng,et al.Runoff non-linear variation and responses to climate fluctuation in the headwa-terregion of theKaidu river[J].Resources Science,2O17,39（8）：1511 -1521.]
+
+[20］王充.基于地球数据产品降尺度的天山南坡典型流域气候一径流变化的综合模拟［D].上海：上海华东师范大学，2018.[Wang Chong.A Comprehensive Simulation of Climate：RunoffChange in Typical Watershed of Tianshan South Slope Based onEarth Data Product Scaling[D].Shanghai:East China Normal Uni-versity,2018.]
+
+[21]Chen Z S,Chen YN,LiBF.Quantifying the effects of climate vari-ability and human activities on runoff for Kaidu river basin in arid region of Northwest China[J].Theoretical and Applied Climatology,2013,111(3-4) :537-545.
+
+[22］刘成，胡春宏，史红玲.中国大陆太平洋流域河流下泄水沙通 量的变化[J].泥沙研究,2011，（1）：70-75.［LiuCheng,Hu Chunhong,Shi Hongling.Changes of runoff and sediment fluxes of rivers in mainland of China discharged into Pacific Ocean ［J]. Journal of SedimentResearch,2011,（1）:70-75.]
+
+[23］唐颖丰.洮河干流径流变化特征分析[D].兰州：兰州大学， 2010.［Tang Yinfeng.Analysis of Runoff Variation Characteristics at Taohe River Main Stream[D].Lanzhou:Lanzhou University, 2010.]
+
+[24］阿苍德.乌尔达克赛河流域水文资料“三性”分析及插补方法 研究［J].地下水,2019,41(2）:127-130.［ACangde.Studyon “three properties”analysis and interpolation method of hydrological data in Urdaksai river basin[J].Ground Water,2019,41(2）: 127 -130.]
+
+[25］裴光倩.水文站缺测资料插补展延实例分析[J].水电与新能 源,2019,33(5）:20-22,26.[Pei Guangqian.Case studies on interpolation and extrapolation of incomplete hydrological data［J]. Hydropower and New Energy,2019,33(5):20-22,26.]
+
+[26］马婉丽，高力群，汪晓东.基于插补延长的俄日河径流分析 [J].水电与新能源,2019,33（6）：23-26.［MaWanli,Gao Liqun,Wang Xiaodong.Runoff analysis of E-ri river based on interpolation and extension technology[J].Hydropower and New Energy,2019,33(6):23-26.]
+
+[27］Yue S,Wang C Y.The Mann-Kendall test modified by effective sample size to detect trend in serially correlated hydrological series [J].Water Resources Management,2004,18(3）:201-218.
+
+[28］吴晶，陈元芳，顾圣华，等.基于TFPW-MK-Pettitt和EEMD的 非一致性水文频率计算方法[J].水电能源科学,2016,34（1)： 23-26.[Wu Jing,Chen Yuanfang,Gu Shenghua,et al.Inconsistent hydrological frequency analysis based on TFPW-MK-Pettitt and EEMD[J].Water Resources and Power,2016,34（1）:23 - 26.]
+
+[29］王跃峰，陈莹，陈兴伟.基于TFPW-MK法的闽江流域径流趋势 研究［J].中国水土保持科学,2013,11（5）：96-102.［Wang Yuefeng,Chen Ying,Chen Xingwei,et al.Runoff trend detection in the Minjiang river basin with TFPW-MK method[J].Science of Soil and Water Conservation,2013,11(5):96-102.]
+
+[30］余丹丹，张韧，洪梅，等.基于交叉小波与小波相干的西太平洋 副高与东亚夏季风系统的关联性分析[J」.大气科学学报， 2007,30(6）:755-769.[Yu Dandan,ZhangRen,Hong Mei,et al.Correlation analysis between the west Pacific subtropical high and the East Asian summer monsoon system based on cross wavelet and wavelet coherence[J]. Journal of Nanjing Institute of Meteorology,2007,30(6) :755-769.]
+
+[31］向燕芸，陈亚宁，张齐飞，等.天山开都河流域积雪、径流变化及影响因子分析［J].资源科学，2018，40（9）：1855-1865.[Xiang Yanyun,Chen Yaning,Zhang Qifei,et al. Trends of snowcoverand streamflow variation in Kaidu River and their influentialfactors[J].Resources Science,2018,40(9） :1855-1865.]
+
+# Climate response of runoff variation in the source area of the Kaidu River
+
+LIU Zhi-bin $^ { 1 , 2 , 3 }$ ，HUANG Yue¹²，LIU Tie1²，BAO An-ming',²，FENG Xian-wei, XING Wei1,²， DUAN Yong-chao1,2,.3， ，GUO Chen-yu1,2.3 (1.State KeyLaboratoryof Desertand Oasis Ecology,Xinjiang Instituteof Ecologyand GeographyChinese Academyof Sciences,Urumqi 830011,Xinjiang,China;   
+2.Key Laboratory of GIS &RS Application Xinjiang Uygur Autonomous Region,Urumqi 830l1,Xinjiang,China;   
+3. University of Chinese Academy of Science,Beijing 100049,China;   
+4.Chinese Academy of Sciences Shanghai Branch,Shanghai 20oo31,China)
+
+Abstract：Temporal and spatial variability of runof in inland rivers and mountainous areas under climate change isa major focus in the studyof hydrologyand water resources inarid areas.The source areaof the Kaidu River basin on the south slope of Tianshan mountain was selected as the study area.Based on 1958-2O17 Dashankou hydrological stationdata,Bayanbulak hydrological stationdata,and Bayanbulak meteorological observationdata,the trends,catastrophe,wavelet analysis and coherence,and response to climate changes of Kaidu River long-sequence runoff were studied using the TFPW-MK trend test,wavelet analysis,and other methods.Theresults show that for nearly 6O years,the runof,rainfall,and temperatureelements of the Kaidu River showed asignificant trend,theabrupt years was concentrated in the 199Os,and the increasing rate of runof,rainfall,and maximum temperature was accelerated,whereas the increasing rate of the average and minimum temperature was slowed.The annual average runoff,annual cumulative rainfall,and annual average temperature had a period of 28 year.The increasing summer runoff was mainly afected by the summer high temperature,whereas the increasing winter and early spring runoffs were mainly related to increasing rainfall during the winters and increased temperatures during early springs,respectively.Onthe annual scale,precipitation is the main factor impacting runoff change；temperature mainly affected runoff change in the form of accumulated temperature.On the monthlyscale,both temperature and rainfallhad significant and positive corelations with runoff Upstream runoff was more sensitive to temperature change as compared with the downstream runoff.
+
+Key Words：Kaidu River；climate change；runoff；precipitation；temperature；TFPW-MK；wavelet coherence

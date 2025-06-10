@@ -1,0 +1,132 @@
+临床研究
+
+# 股骨近端锁定加压钢板治疗老年股骨转子间骨折围手术期出血的危险因素
+
+张 立'，苏 伟²,赵劲民²
+
+1桂林市人民医院骨一科,广西 桂林 541002；广西医科大学一附院创伤骨科手外科,广西 南宁 530021摘要：目的对采用股骨近端锁定加压钢板(PFLCP)内固定方法治疗的老年股骨转子间骨折的围手术期出血进行分析,并对可能影响其结果的相关因素进行统计学分析。方法回顾性分析我院2010年2月\~2014年12月间采用股骨近端锁定加压钢板内固定治疗的178例股骨粗隆间骨折患者的临床资料，对患者术前术后血常规以及术中及术后失血输血情况等指标进行分析，对围手术期的失血情况做出评估，同时对患者年龄身高体重合并症手术时间等相关因素对结果的影响进行统计学分析。结果 应用股骨近端锁定加压钢板治疗的患者围手术期失血 $6 3 7 . 6 7 { \scriptstyle \pm 2 5 1 . 5 7 } \ \mathrm { m L }$ ,手术时间为 $1 3 0 . 9 3 { \scriptstyle \pm 3 1 . 0 2 } ~ \mathrm { m i n }$ ，隐性失血 $2 4 0 . 5 1 \pm$ $1 9 5 . 9 2 \mathrm { m L }$ ,围手术期出血量与年龄和手术时间具有相关性,与体质量、身高、性别和是否合并高血压病无相关性。结论 股骨近端锁定加压钢板治疗老年股骨粗隆间骨折存在较多的围手术期失血量，患者年龄和手术时间是其危险因素。
+
+关键词：股骨近端锁定加压钢板；股骨转子间骨折；失血
+
+# Risk factors of perioperative blood loss in elderly patients receiving proximal femur locking compression plate fixation for intertrochanteric fractures
+
+ZHANGLi’,Wei²,ZHAOJinin   
+Departmentodicileialilaptofedic   
+Surgery,FirstAfiatedHospitalofGuangxiedicalUniersityNaning5301,China
+
+Abstract: ObjectiveToanalyze theriskfactors of perioperative bloodlossin elderlypatients with intertrochantericfractures treated with proximal femur locking compresion plate (PFLCP)fixation.Methods Aretrospective analysis was carried out in ancohortof178elderlypatientsundergoing PFLCP fixation for intertrochanteric fractures between February 2010and December 2014.The preoperativeand postoperative blood biochemistry, intraoperativeand postoperativeof blood lossand blodtransfusion wereanalyzed,and the impactofthefactors includingage，height，body weight,complications,and operation time was evaluated on perioperative blood loss.Results The average volume of perioperative blood loss was $6 3 7 . 6 7 \pm$ $2 5 1 . 5 7 ~ \mathrm { m L } ,$ mean operating time was $1 3 0 . 9 3 { \scriptstyle \pm 3 1 . 0 2 } \mathrm { ~ m i n } ,$ and recessive blood loss was $2 4 0 . 5 1 { \scriptstyle \pm 1 9 5 . 9 2 } \ \mathrm { m L }$ in these patients. The volumeof perioperative blood loss was assciated with the patients’age andtheoperatingtime butnot with body weight, height, gender,or hypertension.Conclusion Large volume of blood lossmay occur in elderly patients undergoing PFLCP fixation for intertrochanteric fractures in close relation with the patient's age and the duration of operation.
+
+Key words: proximal femur locking compression plate; intertrochanteric fractures; blood loss; elderly patients
+
+股骨转子间骨折(intertrochantericfemoralfracture,IFF)又名股骨粗隆间骨折，是老年人常见的骨折。在美国每年约有20000例以上的股骨转子间骨折的病人，死亡率高达 $1 5 \% { \sim } 2 0 \%$ ，大多数发生在70岁以上的老年人[2]。中国IFF患者约330万， $9 0 \%$ 发生于65岁以上的老年人，其中3/4为女性，超过 $20 \%$ IFF患者1年后死亡。同时IFF患者的生活质量显著下降，致残率高，死亡率增加[2。手术治疗已经成为首选的治疗方法[3]。
+
+但老年人基础疾病较多，体质差，耐受手术及麻醉的能力较弱，术后恢复慢，并发症多，所以围手术期的处理对治疗质量至关重要。在既往的报告中，学者们对Gamma钉，动力髋螺钉(DHS)，防旋股骨近端髓内钉(PFNA)治疗股骨转子间骨折的围手术期出血进行过研究[4-5],证明了术中术后存在大量隐性失血，但是对于PFLCP治疗老年股骨转子间骨折的围手术期出血鲜有报道。本次研究用Gross方程计算PFLCP治疗老年股骨转子间骨折的围手术期出血的多少，并和学者们用其他方法治疗的结果进行对比，比较手术出血量和隐性失血量，为临床治疗此类疾病方法的选择提供参考，并对影响出血量的相关因素进行分析。
+
+# 1资料与方法
+
+# 1.1 一般资料
+
+回顾性分析2010年2月\~2013年12月间广西医科大学一附院收治并采用山东威高医疗器械公司生产的解剖型股骨近端锁定加压钢板手术治疗的稳定型IFF的病例资料。设定纳入标准：(1)X光片或CT明确诊断为Evans-Jensen分型I，II，Ⅲ型的IFF;(2)患者年龄 ${ \ \geq } 6 5$ 岁；(3)术前检查无凝血功能障碍及相关疾病，无其他引起出血的疾病合并存在;(4)手术治疗采用PFLCP进行内固定；(5)内固定手术前后3d有血常规检查记录结果；(6)病历记录中有身高体重数据记录。设定排除标准：(1)不稳定型的股骨转子间骨折；(2)术前检查有明确的凝血功能异常。查阅病例资料中符合纳入标准的病例有178例，其中男99例，女79例，左侧93例，右侧85例，合并高血压52例，患者年龄 $7 4 . 1 7 { \scriptstyle \pm 7 . 7 6 }$ 岁。
+
+# 1.2 术前准备
+
+患者入院后进行患者皮牵引，防旋鞋固定，进行常规检查及各主要脏器功能的评估。肺部功能进行血气分析，有条件的病人进行肺功能测定。心脏功能检查进行心脏彩超和心电图检查，必要时进行冠脉造影。下肢血管彩超排除下肢深静脉血栓。肺功能不佳但无手术禁忌时，间断吸氧改善携氧功能。高血压患者术前口服降压药治疗，控制在接近正常值范围，糖尿病病人应用胰岛素控制餐后血糖在 $1 0 \ \mathrm { m m o l / L }$ 左右。所有患者均在准备妥当后尽早手术治疗(3\~7d)。
+
+# 1.3手术方法
+
+手术采用硬膜外麻醉或者全身麻醉，麻醉成功后摆仰卧位，先进行骨折手法整复或骨科牵引床牵引复位，外展外旋患肢，牵引患肢后再内旋内收。透视下骨折功能复位，克氏针临时固定骨折。自股骨外侧大转子顶点下 $2 \mathrm { c m }$ 处沿股骨轴线做 $5 { \sim } 8 ~ \mathrm { c m }$ 的切口，切开阔筋膜张肌，切开部分股外侧肌附丽处，切开部分股外侧肌，（如果骨折复位不佳沿骨膜下向前方剥离暴露骨折线进行复位)，应用合适长度的股骨近端锁定加压钢板置于股骨近端外侧,经钢板置入定位导针，透视下估计锁定螺钉位置，满意后用克氏针临时固定钢板近端和远端。PFLCP近端固定3\~4枚锁定螺钉，远端固定2\~3枚锁定螺钉。术后放置引流管，逐层缝合。手术中出血较多者进行输血治疗。
+
+# 1.4术后处理
+
+3d内复查血常规，引流较多贫血严重时 $\mathrm { \cdot H G B } { < } 9 0$ g/I时)输血治疗。手术后24h应用低分子肝素钠抗凝治疗预防深静脉血栓。手术后 $4 8 \mathrm { { h } }$ 内拔除引流管，复查术后X光片，拔除引流管后进行被动关节功能锻炼。有高血压糖尿病者按术前方案进行治疗。术后6周开始部分负重功能锻炼，术后12周X光片证实骨折愈合后完全负
+
+重行走。
+
+# 1.5 数据整理与计算
+
+Gross方程是使用围手术期平均Hct计算循环血量的线性方程，它是1983年由Gross首次提出。本次研究是根据Gross方程，使用术前术后Hct变化值计算红细胞容量和围手术期失血量。如果患者 $\mathrm { H G B } { < } 9 0 \ \mathrm { g } / 1$ 时，进行了输血治疗，1个单位的浓缩红细胞相当于 $2 0 0 ~ \mathrm { m L }$ 的标准红细胞容量，实际围手术期失血量等于通过Hct变化值计算的理论失血量加上输血量。
+
+Gross方程的计算公式：(1)术前血容量(PBV)可以通过Nadler等方法计算： $\mathrm { P B V } { = } \mathrm { k } 1 { \times } \mathrm { h } ^ { 3 } { + } \mathrm { k } 2 { \times } \mathrm { w } { + } \mathrm { k } 3$ (h-身高，W-体质量）。 $\mathbf { k }$ 为常数，男性 $\mathrm { k } 1 { = } 0 . 3 6 6 9$ $\mathbf { k } 2 =$ 0.03219, $_ { \mathrm { k } 3 = 0 . 6 0 4 1 }$ ;女性 $\mathrm { k 1 } = 0 . 3 5 6 1 , \mathrm { k 2 } = 0 . 0 3 3 0 8 , \mathrm { k 3 } =$ 0.1833；(2)总血红细胞丢失量 $\varXi$ 术前血容量 $( \mathrm { P B V } ) \times$ （术前Hct-术后Hct);(3)根据手术前后Hct变化值计算的失血总量 $^ +$ 输血量 $\varXi$ 围手术期实际失血量。计算的围手术期出血量减掉术中记录出血量和术后引流量为围手术期隐性出血量。显性出血量为术中记录出血量加术后引流量。
+
+再通过查阅病历及计算获得各项临床因素的数据，包括身高、体质量、年龄、性别、手术时间、术前术后HGB数值、术前术后HCT数值、是否合并高血压、术中术后的输血量。
+
+# 1.6统计学处理
+
+查阅的数据应用SPSS16.0统计软件包进行分析。数据以均数±标准差表示，采用描述性分析，对丢失血量进行线性相关分析，再对各临床因素进行多元线性回归分析。
+
+# 2结果
+
+用PFLCP治疗老年IFF的这组病例,患者年龄 $7 4 . 1 7 \pm$ 7.76岁，体质量 $5 8 . 4 3 { \pm } 1 1 . 3 8 \mathrm { k g }$ ，身高 $1 6 3 . 7 0 { \scriptstyle \pm 7 . 3 5 \mathrm { c m } }$ ，手术时间为 $1 3 0 . 9 3 \pm 3 1 . 0 2 \ \mathrm { m i n } .$ ，术中记录出血量为 $2 8 6 . 6 7 \pm$ $1 1 8 . 1 3 \mathrm { m L }$ ,术后引流量为 $1 1 0 . 5 0 { \pm } 6 4 . 8 7 ~ \mathrm { m L }$ ，隐性出血量为 $2 4 0 . 5 1 \pm 1 9 5 . 9 2 \mathrm { { m L } }$ ，显性出血量为 $3 9 7 . 1 7 \pm$ $1 6 1 . 8 9 \mathrm { m L }$ ，围手术期失血总量为 $6 3 7 . 6 7 { \scriptstyle \pm 2 5 1 . 5 7 } { \mathrm { ~ m L } }$ 0
+
+# 2.1线性相关分析结果
+
+围手术期出血量与年龄因素的相关性分析显示 $P$ 值为0.006(表1)，与手术时间因素的相关性分析 $P$ 值为0.036，两项 $P { < } 0 . 0 5$ ,可判定呈线性相关。围手术期出血量与身高，性别，体质量，是否合并高血压病因素的相关性分析显示 $P { > } 0 . 0 5$ (表1)，可判定不具有线性相关。
+
+# 2.2多元线性回归分析结果
+
+将上述结果纳入多元线性回归分析(表2)，可见年龄因素的 $P$ 值等于0.004,手术时间因素的 $P$ 值等于$_ { 0 . 0 2 5 , P }$ 值均 $< 0 . 0 5$ ，可判定围手术期出血量与年龄因素和手术时间因素相关。围手术期出血量与身高，性别，体质量，是否合并高血压病因素的多元线性回归分析显示 $P { > } 0 . 0 5$ ,可判定与上述因素不具有相关性。这与线性相关分析结果相符合。
+
+表1线性相关分析 Tab.1 Linear correlation analysis of the factors associated with perioperative blood loss in the patients   
+
+<html><body><table><tr><td></td><td></td><td>Volume of blood loss</td><td>Hypertension</td><td>Gender</td><td>Height</td><td>Weight</td><td>Age</td><td>Operation time</td></tr><tr><td rowspan="4">Volume of blood loss</td><td>Pearson Correlation</td><td>1</td><td>0.115</td><td>-0.019</td><td>-0.151</td><td>-0.079</td><td>0.487</td><td>0.384</td></tr><tr><td>Sig0. (2-tailed)</td><td></td><td>0.546</td><td>0.922</td><td>0.425</td><td>0.677</td><td>0.006*</td><td>0.036*</td></tr><tr><td>n</td><td>178</td><td>178</td><td>178</td><td>178</td><td>178</td><td>178</td><td>178</td></tr><tr><td>Correlation</td><td>0.115</td><td>1</td><td>-0.293</td><td>0.192</td><td>0.129</td><td>0.209</td><td>0.228</td></tr><tr><td rowspan="3">Hypertension</td><td>Sig0. (2-tailed)</td><td></td><td></td><td></td><td>0.310</td><td></td><td></td><td>0.226</td></tr><tr><td>n</td><td>0.546 178</td><td>178</td><td>0.116 178</td><td>178</td><td>0.496 178</td><td>0.267 178</td><td>178</td></tr><tr><td>Cpraraion</td><td>-0.019</td><td>-0.293</td><td>1</td><td>-0.577</td><td>-0.532</td><td>-0.072</td><td>-0.096</td></tr><tr><td rowspan="3">Gender</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sig0. (2-tailed) n</td><td>0.922 178</td><td>0.116 60</td><td>60</td><td>0.001 60</td><td>0.002 60</td><td>0.707 60</td><td>0.613 60</td></tr><tr><td>Pearson</td><td>-0.151</td><td>0.192</td><td>-0.577</td><td>1</td><td>0.782</td><td>0.052</td><td>0.050</td></tr><tr><td rowspan="3">Height</td><td>Correlation Sig0. (2-tailed)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.794</td></tr><tr><td>n</td><td>0.425 178</td><td>0.310 178</td><td>0.001 178</td><td>178</td><td>0.000 178</td><td>0.784 178</td><td>178</td></tr><tr><td>Correation</td><td>-0.079</td><td>0.129</td><td></td><td>0.782</td><td>1</td><td>-0.036</td><td>0.178</td></tr><tr><td rowspan="3">Weight</td><td></td><td></td><td></td><td>-0.532</td><td></td><td></td><td></td><td></td></tr><tr><td>Sig0. (2-tailed) n</td><td>0.677 178</td><td>0.496 178</td><td>0.002 178</td><td>0.000 178</td><td>178</td><td>0.850 178</td><td>0.347 178</td></tr><tr><td>Pearson</td><td>0.487</td><td>0.209</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3">Age</td><td>Correlation Sig0. (2-tailed)</td><td></td><td></td><td>-0.072</td><td>0.052</td><td>-0.036</td><td>1</td><td>-0.003</td></tr><tr><td>n</td><td>0.006* 178</td><td>0.267 178</td><td>0.707 178</td><td>0.784 178</td><td>0.850 178</td><td>178</td><td>0.988 178</td></tr><tr><td>Creraion</td><td>0.384</td><td>0.228</td><td></td><td></td><td></td><td>-0.003</td><td>1</td></tr><tr><td rowspan="3">Operation time</td><td></td><td></td><td></td><td>-0.096</td><td>0.050</td><td>0.178</td><td></td><td></td></tr><tr><td>Sig0. (2-tailed)</td><td>0.036*</td><td>0.226</td><td>0.613</td><td>0.794</td><td>0.347</td><td>0.988</td><td></td></tr><tr><td>n</td><td>178</td><td>178</td><td>178</td><td>178</td><td>178</td><td>178</td><td>178</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$
+
+# 2.3结果的解读
+
+患者的年龄和手术时间是股骨近端锁定加压钢板治疗股骨转子间骨折围手术期出血的危险因素，
+
+# 3讨论
+
+# 3.1PFLCP治疗IFF的围手术期出血未得到重视
+
+有学者利用LISS系统角度稳定的优点，倒置固定治疗IFF,取得了良好的疗效。学者们在LISS的固定原理启发下，结合股骨近端的解剖特点，设计制造PFLCP，并成为治疗IFF的新方法。因为其角度固定的优点，PFLCP内固定治疗老年稳定型IFF是一种很好的方法。PFLCP和其他内固定方法(DHS,PFNA,GAMMA钉，Intertan等)治疗IFF的疗效比较成为近期研究的热点，但其围手术期的出血并未得到重视。Smith等[8]对股骨转子间骨折患者术前研究中发现，初次受伤后3dIFF患者的失血量达到 $4 0 0 ~ \mathrm { m L }$ ,加上术中术后的失血，围手术期出血可以达到 $8 0 0 ~ \mathrm { m L }$ 左右。L老年患者如果失血多会出现贫血，血液携氧功能下降，组织器官缺血缺氧，会引起多种并发症。所以了解这种治疗方法围手术期出血的多少，与哪些因素相关，对于临床治疗指导意义重大。
+
+# 3.2围手术期出血的观察
+
+围手术期出血包括显性出血和隐性出血。显性失血我们常常在手术记录出血量和术后引流量两个指标中进行观察。在本次研究中可以看到,计算的围手术期出血量明显高于术中记录出血量和术后引流量，这很大一部分原因是因为有隐性失血的存在。隐性失血是IFF围手术期出血的主要组成部分，它不容易在术中记录出血量和术后引流量等指标中观察到，常常得不到临床医生的重视。隐性失血的机制尚不完全明确，Bao等"研究认为手术及创伤后内环境改变产生大量氧自由基，与细胞膜中的多价不饱和脂肪酸发生脂质过氧化反应，使细胞膜渗透性增加，造成细胞肿胀破，引发溶血。溶血是导致术后隐性失血的主要原因。这些隐性失血并不参与体循环，而是大量进入组织间隙[,原因与手术中骨髓脂肪及骨碎屑进入血液循环引起毛细血管床异常开放有关。McManus等的研究证实隐性失血进入了组织间隙。他们用放射性同位素Tc-99mRNCs标记红细胞，发现术后大量标记后的红细胞进入组织间隙。隐性失血很难准确计算，Gross方程的出现解决了这一问题。
+
+表2多元线性回归分析 Tab.2Multivariate linear regression analysis of the risk factors of perioperative blood loss in the patients   
+
+<html><body><table><tr><td rowspan="2">Model</td><td colspan="2">Unstandardized Coefficients</td><td>Standardized Coefficients</td><td rowspan="2">t</td><td rowspan="2">Sig0.</td></tr><tr><td>B</td><td>StdO. Error</td><td>Beta</td></tr><tr><td>(Constant)</td><td>6070.995</td><td>14070.433</td><td></td><td>0.432</td><td>0.670</td></tr><tr><td>Hypertension</td><td>-420.753</td><td>1140.367</td><td>-0.064</td><td>-0.374</td><td>0.712</td></tr><tr><td>Gender</td><td>-540.049</td><td>1080.079</td><td>-0.100</td><td>-0.500</td><td>0.622</td></tr><tr><td>Height</td><td>-90.263</td><td>90.247</td><td>-0.271</td><td>-10.002</td><td>0.327</td></tr><tr><td>Weight</td><td>0.773</td><td>50.853</td><td>0.035</td><td>0.132</td><td>0.896</td></tr><tr><td>Age</td><td>160.544</td><td>50.245</td><td>0.510</td><td>30.154</td><td>0.004*</td></tr><tr><td>Operation time</td><td>30.227</td><td>10.345</td><td>0.398</td><td>20.398</td><td>0.025*</td></tr></table></body></html>
+
+Note: \* for the $P$ value of $< 0 . 0 5$ ,there is a statistically significant difference.
+
+# 3.3运用GroSs方程的计算围手术期出血
+
+Gross方程在临床中其准确性已得到了充分的验证,并在骨科其它择期手术创伤的评估中(尤其髋、膝关节置换)已广泛使用[13]。Gross方程的原理是：失血会导致人体循环血量下降，但组织液可同时转移进人血管内，补充代偿丧失的有效循环血量并不能增加红细胞总量。而补液治疗同样也只是一种外源性的血液稀释过程，以保证有效循环总量的稳定，并不能增加血细胞量。所以细胞总量的减少量决定了Hct的降低程度，手术前后Hct的变化值同时也反映了手术创伤的大小。那么利用Hct值术前术后的变化来衡量失血量就会准确反映失血量的多少。
+
+# 3.4各种因素对围手术期出血的影响
+
+PFLCP治疗IFF存在较多的围手术期出血，找出哪些因素可能会增加围手术期的出血对于临床医生来说非常重要。医生可以通过规避危险因素来较少围手术期出血，达到更佳的临床疗效。本次研究发现患者的年龄和手术时间是影响PFLCP治疗IFF的危险因素。分析年龄对丢失血量影响的原因可能为：由于手术前检查评估的原因，手术时间多选择在受伤3d后，患者初次受伤后出血的凝血过程中消耗了大量的凝血因子和纤维蛋白原。患者年龄越大，其造血能力越差，凝血功能恢复时间越长，那么手术时越是高龄的患者，凝血功能越差，出血越多。手术时间对丢失血量的影响则较显见：手术时间越长，手术创面暴露时间越长，创面渗血的时间就越长，手术出血量越大。
+
+传统认为患者围手术期运用低分子肝素抗凝治疗会增加围手术期的出血量，高天君[4等的研究证明，术后应用低分子肝素抗凝治疗股骨转子间骨折，对患者隐性失血影响较小。所以笔者并未将此因素作为研究对象纳入本次研究。很多人认为高血压会增加围手术期出血量，血压高那么周围血管压力高，术中出血多，术后引流也会多。但在本次研究中并未发现高血压是围手术期出血量的危险因素。这与何久盛15等的研究结果一致。但是究其原因仍然没有科学的解释，分析可能的原因为：高血压病人多合并动脉硬化及血液高凝状态，出血容易凝固。
+
+# 3.5减少PFLCP治疗老年IFF的围手术期出血
+
+从本次研究中可以看出用股骨近端锁定加压钢板治疗老年人转子间骨折存在较多的隐性失血，不易在术后引流量及术中记录血量中得到观察。医生应该在围手术期注意复查患者的血常规，注意术中术后的输血治疗，保证老年病人围手术期良好的循环血量，利于病人的康复。另外本次研究发现年龄和手术时间是围手术期出血的危险因素，那么在临床工作中应该尽量规避危险因素，减少围手术期出血。第一，高龄的病人更应该注意复查术前术后的血常规，及时发现和纠正贫血，围手术期注意输血治疗,维持患者平稳。第二,手术医生应该提高技术及操作熟练程度，在手术中应该尽量减少手术造操作的时间。第三，高龄的患者尽量选择手术技术熟练，对治疗此类骨折有一定经验的，高年资的医生完成,减少相关并发症的发生[]
+
+# 3.6本次研究的局限性
+
+本次研究存在一些不足之处可能对结果的准确性造成影响。首先，由于股骨近端锁定加压钢板是2005年后才渐渐进入股骨转子间骨折的治疗体系，我院2008年后逐渐开展这种方法治疗股骨转子间骨折，早期由于器械和操作的不熟悉手术时间较后期的病例长，术中出血也较多；早期治疗病例数少，后期较多，样本分布不均一，可能对结果造成影响。其次，在纳入研究的病历资料中，患者骨折后不能站立测量身高体重，数据依靠病人口述提供近期的测量值，可能和受伤时的身高体重有误差。第三，由于显性出血量的计算方法无法十分精确，可能会对隐性失血量的计算结果产生影响。第四，这组病例中，手术由不同的医生完成，手术医生的手术习惯和手术熟练程度不一致可能对出血量和手术时间造成影响。
+
+# 参考文献：
+
+[1」王丹,谢叻,裴国献,等.股骨转子间骨折三维虚拟手术研究[J].南 方医科大学学报，2010,30(5):1165-8.   
+[2] 楼慧玲,彭 程,陈巧聪.三种骨代谢标志物的测定在老年骨质疏松症 患者髋部脆性骨折中的临床价值[J].南方医科大学学报，2012,32 (9): 1346-9.   
+[3]Kammerlander C,Gosch M,Kammerlander-Knauer U,et al. Long-term functional outcome in geriatric hip fracture patients[J]. Arch Orthop Trauma Surg,2011,131(10):1435-44.   
+[4」祝晓忠,张世民,王欣,等.老年股骨转子间骨折PFNA内固定的隐 性失血[J].中国矫形外科杂志,2010,18(17):1423-6.   
+[5]贾晓龙,顾始伟,李永正,等.DHS治疗EvansI\~IV型股骨粗隆间骨 折围手术期隐性失血的临床回顾性研究[J].中国骨与关节损伤杂志, 2012,27(6): 529-30.   
+[6]李 平,郭小波,刘宾宾.老年髋部骨折围手术期93例隐性失血临床分 析[J].山西医药杂志:下半月刊,2010,39(2):137-8.   
+[7］邬宇辉,贾粤青,连 东,等.36例青壮年股骨粗隆间粉碎性骨折的治 疗[J].中国矫形外科杂志,2013,21(6):630-2.   
+[8]Smith GH,Tsang J,Molyneux SG,et al. The hidden blood loss after hip fracture[J].Injury,2011,42(2):133-5.   
+[9]Pattison E,Protheroe K,Pringle RM,et al． Reductionin haemoglobin after knee joint surgery[J].Ann Rheum Dis,1973,32 (6): 582-4.   
+[10]Bao N, Zhou L,Cong Y,et al.Free fatty acids are responsible for the hidden blood loss in total hip and knee arthroplasty[J].Med Hypotheses,2013,81(1): 104-7.   
+[11]Erskine JG,Fraser C, Simpson R,et al. Blood loss with knee joint replacement[J].JR Coll Surg Edinb,1981,26(5): 295-7.   
+[12]Mcmanus KT, Velchik MG,Alavi A,et al. Non-invasive assessment of postoperative bleeding in TKA patients with Tc-99mRNCs[J].J Nuclear Med,1987,28: 565-7.   
+[13] Sehat KR,Evans R,Newman JH.How much blood is really lost in total knee arthroplasty?- Correct blood loss management should take hidden loss into account[J].Knee,20oo,7(3): 151-5.   
+[14]高天君,杨达宇.围手术期不同抗凝药物对高龄股骨粗隆间骨折隐性 失血和深静脉血栓的影响分析[J].创伤外科杂志,2012,14(3): 244-6.   
+[15]何久盛,杨成刚,张国鑫,等.老年髋部骨折围手术期失血量的临床观 察[J].中华损伤与修复杂志:电子版,2014,9(4):403-7.   
+[16]鲍磊,马华松,周雪峰,等.高龄股骨粗隆间骨折的围手术期处理[J]. 中国骨与关节损伤杂志,2014,29(12):1206-8.
+
+（编辑：吴锦雅）

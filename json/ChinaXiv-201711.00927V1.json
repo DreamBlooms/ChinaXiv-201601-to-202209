@@ -1,0 +1,394 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲粮中添加番茄红素对绵羊生长发育、屠宰性能和血清抗氧化指标的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 曲扬华　罗海玲\\*刘　策　郭娉婷　马　勇　徐晨晨（中国农业大学动物科技学院，动物营养国家重点实验室，北京100193）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在研究饲粮中添加番茄红素对绵羊生长发育、屠宰性能和血清抗氧化指标  \n5 的影响。选取体重为（ $2 2 . 0 { \\pm } 0 . 5 \\$ ）kg的3月龄湖羊公羔30只，随机分为3组，每组10只，  \n6號 单栏饲养。对照组每天饲喂基础饲粮，试验组每天分别在基础饲粮中添加 200 和 $4 0 0 \\ \\mathrm { m g }$ 番  \n7 茄红素。试验期共 $1 1 0 \\mathrm { d }$ ，其中预试期 $1 0 \\mathrm { d }$ ，正试期 $1 0 0 \\mathrm { d }$ 。结果显示：1）饲粮添加200 和  \n8 $4 0 0 ~ \\mathrm { m g / d }$ 番茄红素有提高绵羊平均日增重的趋势（ $0 . 0 5 { \\leqslant } P { < } 0 . 1 0 \\$ ），并可显著降低料重比  \n9 （ $P { < } 0 . 0 5 .$ ）；2）饲粮添加200和 $4 0 0 \\mathrm { m g / d }$ 番茄红素可显著提高绵羊胸宽（ $. P { < } 0 . 0 5$ ），添加  \n10 $2 0 0 ~ \\mathrm { m g / d }$ 番茄红素有提高体长、体高和胸围的趋势（ $0 . 0 5 { \\leqslant } P { < } 0 . 1 0 )$ ；3）饲粮添加200 和  \n11 $4 0 0 \\mathrm { m g / d }$ 番茄红素有提高宰前活重、背肌重、肾脏重和GR值的趋势（ $0 . 0 5 { \\leqslant } P { < } 0 . 1 0 \\$ ），添  \n12 加 $4 0 0 \\mathrm { \\ m g / d }$ 番茄红素可显著提高皮重（ $P { < } 0 . 0 5$ ），其他屠宰性能指标各组间无显著差异  \n13 （ $. P { > } 0 . 0 5$ ）；4）饲粮添加200和 $4 0 0 \\mathrm { m g / d }$ 番茄红素有提高血清超氧化物歧化酶活性的趋势  \n14 1 $0 . 0 5 { \\leqslant } P { < } 0 . 1 0 { \\rangle }$ ），添加 $2 0 0 \\mathrm { m g / d }$ 番茄红素可显著提高血清过氧化氢酶和谷胱甘肽过氧化物  \n15 酶活性（ $( P { < } 0 . 0 5 )$ ）。结果表明，饲粮添加番茄红素对绵羊生长发育、屠宰性能和血清抗氧化  \n16 能力有一定的提高作用，本试验条件下以 $2 0 0 \\mathrm { m g / d }$ 添加量的效果较优。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：番茄红素；绵羊；生长发育；屠宰性能；血清抗氧化指标",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "番茄红素（lycopene,LP），又称 $\\psi \\cdot$ -胡萝卜素，是植物体内含有的一种天然色素，属于类胡萝卜素的一种，分子式为 $\\mathrm { C _ { 4 0 } H _ { 5 6 } }$ ，相对分子质量为536.85，结构中包含11个共轭双键和2个非共轭双键[。番茄红素广泛存在于水果和蔬菜中，因最早在番茄中分离制得而命名[2]，在不同品种番茄中含量略有差异，较高的可达 $8 9 \\mathrm { m g / k g ^ { [ 3 ] } }$ 。番茄红素主要的生物学功能是其强大的抗氧化性能，研究表明，番茄红素能够直接清除细胞代谢产生的活性氧（reactiveoxygen species,ROS），其清除单线态氧的能力是 ${ \\mathfrak { \\beta } }$ -胡萝卜素的2倍，是维生素E的10倍[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[5-6]；提高免疫能力，改善机体健康状况，预防癌症等各类疾病的发生[7-9]。目前，食品添加剂委员会（JECFA）、联合国粮农组织（FAO）和世界卫生组织（WAO）已将其认定为A类营养素，在国际上被作为功能性食品、药品、化妆品的重要成分进行研究和使用[10]。我国是世界上第一大番茄生产国，年均产量可达5000多万t，占全球产量的 $30 \\%$ 左右[]，因此番茄红素的来源比较广泛。目前，有关番茄红素使用效果的研究主要集中在人和大鼠上[12-14],而在动物营养方面的应用报道并不多，在绵羊饲粮中添加效果的研究更为少见。本团队率先将番茄红素添加到绵羊饲粮中进行研究，前期结果表明，在夏季热应激条件下饲粮中添加番茄红素对绵羊的生产性能和肉品质均有一定的提高和改善作用[15]，这可能是由于番茄红素的抗氧化性能有效地缓解了热应激的影响。然而，在适宜的环境条件下番茄红素是否具有促进绵羊生长发育的效果，目前还未有报道。因此，本试验拟进一步研究正常环境中饲粮添加不同水平番茄红素对绵羊生长发育、屠宰性能和血清抗氧化指标的影响，为番茄红素在畜牧业方面的应用提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验地点与试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验于2014年12月至2015年3月在山东省临清市润林牧业羊场进行。整个试验期间羊舍内温度变化范围为 $. 4 { \\sim } 1 5 ^ { \\mathrm { ~ \\circ ~ } } \\mathrm { C }$ ，属于绵羊较为适宜的环境温度[16]。试验所用饲料原料均为羊场提供。番茄红素采购于陕西森弗生物技术有限公司，外观为红色粉末状，质检合格。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择遗传背景一致、平均体重为（ $2 2 . 0 { \\pm } 0 . 5 \\$ ）kg 的3月龄断奶湖羊公羔共30只，采用完全随机设计分为3组，每组10只，单栏饲养。对照组（I组）每天饲喂基础饲粮，试验组（ⅡI、I组）每天分别在基础饲粮中添加 200 和 $4 0 0 \\mathrm { m g }$ 番茄红素。试验期共 110d，其中预试期 $1 0 \\mathrm { d }$ ，正试期 $1 0 0 { \\mathrm { d } }$ 。基础饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c53342f39acee1d8e2eee36868eba4112a820f505c74975374ec4d9d69583472.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of the basal diet (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2</td><td>含量Content</td></tr><tr><td>玉米青贮 Corn silage</td><td>22.00</td><td>代谢能 ME/(MJ/kg)</td><td>10.14</td></tr><tr><td>花生秧 Peanut vine</td><td>28.00</td><td>粗蛋白质 CP</td><td>15.05</td></tr><tr><td>玉米Corn</td><td>29.00</td><td>粗脂肪 EE</td><td>2.38</td></tr><tr><td>豆粕 Soybean meal</td><td>14.50</td><td>中性洗涤纤维 NDF</td><td>27.22</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小麦麸 Wheat bran 3.00 酸性洗涤纤维 ADF 18.00  \n小苏打 NaHCO3 0.50 钙Ca 0.75  \n食盐 NaCl 0.50 总磷TP 0.36  \n预混料 Premixl) 2.50  \n合计 Total 100.00",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（20 $^ { 1 ^ { \\flat } }$ 预料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of the diet: VA 5 500 IU，VD 1 750 IU,  \nFe $4 0 \\ \\mathrm { m g }$ ， Cu 7.5 mg, $ { \\mathrm { M n } } 3 0  { \\mathrm { m g } }$ ， $\\mathrm { Z n 4 5 \\mathrm { m g } }$ ， $\\mathrm { ~ I 6 . 5 m g }$ ，Se $0 . 1 4 \\mathrm { m g }$ ， Co 0.25 mg。（204号 $^ 2 { } ^ { \\circ }$ 代谢能为计算值，其余均为实测值。ME was a calculated value,while the others were measured values.  \n1.3饲养管理试验期间保持圈舍通风换气良好，每天清扫，定期消毒。所有试验羊自由饮水，基础饲  \n粮每天08:00、16:00 分2次等量进行饲喂，饲喂方式先粗后精，上午饲喂前于 $4 ~ ^ { \\circ } \\mathrm { C } _ { 1 } ^ { \\prime }$ 冰箱中  \n取出番茄红素，根据不同添加水平称重后加入精料中充分混匀，保证动物精料采食完全，粗  \n料剩料量不超过 $10 \\%$ 。  \n1.4检测指标  \n1.4.1生长发育指标进入正试期后，所有羊只每天准确记录给料量和剩料量，计算试验期平均日干物质采食  \n量（ADDMI）；试验期结束时全部动物于晨饲前空腹称重，记录试验末体重，计算试验期  \n平均日增重（ADG）和料重比（F/G）。相关指标计算公式如下：ADDMI=试验期干物质采食量总和/试验天数;ADG=（试验末体重-试验初体重）/试验天数;F/G $\\mathbf { \\tau } = \\mathbf { \\tau }$ ADDMI/ADG。试验期结束后用测杖和皮尺对所有羊只进行体尺测定，测定指标包括体高、体长、胸围  \n和胸宽，测定方法参照中华人民共和国农业行业标准《绵、山羊生产性能测定技术规范》[17]（NY/T1236—2006）进行，测定完成后计算体长指数、胸围指数和体躯指数。具体测定方  \n法及计算公式如下：体高：受测羊只在坚实平坦地面端正站立时肩胛最高点到地面的垂直距离，用测杖测量。体长：受测羊只在坚实平坦地面端正站立时由胸突到坐骨结节后端的直线距离，用测杖  \n测量。胸围：受测羊只在坚实平坦地面端正站立时由肩肿后端绕胸1周的长度，用皮尺测量。胸宽：受测羊只在坚实平坦地面端正站立时肩肿最宽处左右两侧的直线距离，用测杖测  \n量。体长指数 $( \\% ) \\mathop { = } 1 0 0 \\times$ 体长/体高;胸围指数（%） $= 1 0 0 \\times$ 胸围/体高；体躯指数 $( \\% ) \\mathop { = } 1 0 0 \\times$ 胸围/体长。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 屠宰性能指标 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验期结束后全部动物按清真方式屠宰，宰前所有羊只禁食 $1 2 \\mathrm { h }$ ，禁水 $2 \\mathrm { h }$ 。称量宰前活重后将羊只宰杀，充分放血，剥离皮毛，去头、蹄、内脏，测定屠宰性能指标，包括胴体重、屠宰率、净肉重、骨重、净肉率、胴体净肉率、肉骨比、眼肌面积、GR 值和各部位脂肪重量等。相关指标测定方法及计算公式如下：胴体重：羊只屠宰放血后去头、蹄、皮和内脏，保留肾脏和肾脂称重;屠宰率 $( \\% ) \\ = 1 0 0 \\times$ （胴体重 $^ +$ 内脏脂肪重）/宰前活重;净肉重 $\\varXi$ 胴体重-骨重;净肉率 $( \\% ) \\ = 1 0 0 \\times$ 净肉重/宰前活重;胴体净肉率 $( \\% ) \\ = 1 0 0 \\times$ 净肉重/胴体重；肉骨比 $\\scriptstyle . =$ 净肉重/骨重；眼肌面积：将胴体从第12根肋骨后段横切断，用硫酸纸描绘出眼肌横断面轮廓，用求积仪计算轮廓面积;GR 值：将胴体从第12根肋骨后段横切断，使用游标卡尺测量第12和13 根肋骨之间距离背脊中线 $1 1 \\mathrm { { c m } }$ 处组织的厚度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 血清抗氧化指标",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有试验羊宰前颈静脉采血 $1 0 ~ \\mathrm { m L }$ ，立即在离心机中以 $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { { m i n } }$ 获得上层血清，置于 $- 2 0 \\ ^ { \\circ } \\mathrm { C }$ 冻存。采用试剂盒方法测定血清抗氧化指标，包括总抗氧化能力（T-AOC）、超氧化物歧化酶（SOD）、过氧化氢酶（CAT）、谷胱甘肽过氧化物酶（GSH-Px）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "和丙二醛（MDA）。试剂盒购自南京建成生物工程研究所。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用Excel2007进行初步整理，使用 SPSS19.0软件对数据进行单因素方差分析(one-way ANOVA)，采用Duncan 氏法进行多重比较检验，数据用平均值±标准误表示，以$P { < } 0 . 0 5$ 为差异显著性判断标准，以 $0 . 0 5 { \\leqslant } P { < } 0 . 1 0$ 为有差异显著趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1番茄红素对绵羊生长发育的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 生长性能",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，与对照组相比，饲粮中添加 200 和 $4 0 0 ~ \\mathrm { m g / d }$ 番茄红素有提高试验末体重（ ${ \\cal P } { = } 0 . 0 6 5$ ）和试验期内ADG（ $_ { \\cdot \\cdot P = 0 . 0 6 1 }$ ）的趋势；各组绵羊在试验期ADDMI无显著差异（ $. P { > } 0 . 0 5 \\$ ）；ⅡI、IⅢ组试验期内F/G 显著低于I组（ $. P { < } 0 . 0 5$ ），且Ⅱ组还低于IⅢ组，但差异不显著( $. P { > } 0 . 0 5$ ）。综合比较，饲粮中添加番茄红素对绵羊生长性能有一定的提升作用，其中以 $2 0 0 \\mathrm { m g / d }$ 添加量的效果较优。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2番茄红素对绵羊生长性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0595169be40610de80da1c12041684adcdd502a94f0e1a17594b159e077c99d9.jpg",
+        "table_caption": [
+            "Table 2Effects of LP on growth performance of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>IⅢ组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>P-value</td></tr><tr><td>初体重 Initial body weight/kg</td><td>22.52±0.46</td><td>22.51±0.40</td><td>22.52±0.41</td><td>1.000</td></tr><tr><td>末体重 Final body weight/kg</td><td>40.94±1.00</td><td>43.42±0.58</td><td>43.36±0.81</td><td>0.065</td></tr><tr><td>平均日增重 ADG/g</td><td>167.45±9.75</td><td>190.09±5.13</td><td>189.50±6.27</td><td>0.061</td></tr><tr><td>平均日干物质采食量 ADDMI/kg</td><td>1.17±0.01</td><td>1.17±0.02</td><td>1.19±0.01</td><td>0.593</td></tr><tr><td>料重比F/G</td><td>7.15±0.32a</td><td>6.19±0.10b</td><td>6.34±0.20b</td><td>0.011</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5$ ），不同小写字母表示差异显著（ $\\scriptstyle P < 0 . 0 5$ ）。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with no letter or the same letter superscripts mean no significant difference $\\mathrm { \\langle } P { > } 0 . 0 5 \\mathrm { \\rangle }$ , while with different small letter superscripts mean significant difference ( $P$ ${ < } 0 . 0 5$ ). The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 体尺发育 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，与对照组相比，饲粮中添加 200 和 $4 0 0 ~ \\mathrm { m g / d }$ 番茄红素均显著提高了绵羊的胸宽 $( P { < } 0 . 0 5 )$ ；饲粮中添加 $2 0 0 \\mathrm { m g / d }$ 番茄红素有提高绵羊体长( $_ { \\cdot } P { = } 0 . 0 5 7$ ）、体高（ $scriptstyle \\cdot = 0 . 0 7 2$ ）和胸围（ $\\scriptstyle P = 0 . 0 6 9$ ）的趋势；体长指数、体躯指数和胸围指数各组间差异不显著（ $. P { > } 0 . 0 5 \\$ ）。综合比较，饲粮中添加番茄红素对绵羊体尺发育指标有一定的提高作用，其中以 $2 0 0 \\ \\mathrm { m g / d }$ 添加量的效果较优。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3番茄红素对绵羊体尺发育的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f139161d329559f3764c2dc4f4871fb9784b2e54d4c387187e8d9952fd6edf6e.jpg",
+        "table_caption": [
+            "Table 3Effects of LP on body size development of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group II</td><td>P-value</td></tr><tr><td>体长 Body length/cm</td><td>65.3±0.8</td><td>68.9±1.1</td><td>66.0±1.2</td><td>0.057</td></tr><tr><td>体高 Height at withers/cm</td><td>70.5±1.0</td><td>73.8±1.1</td><td>70.0±1.4</td><td>0.072</td></tr><tr><td>胸宽 Chest width/cm</td><td>34.1±0.8a</td><td>36.4±0.6b</td><td>36.5±0.6b</td><td>0.025</td></tr><tr><td>胸围 Chest circumfrence/cm</td><td>87.7±1.7</td><td>93.7±2.1</td><td>91.7±1.5</td><td>0.069</td></tr><tr><td>体长指数 Body length index/%</td><td>92.79±1.60</td><td>93.44±1.34</td><td>94.54±2.19</td><td>0.775</td></tr><tr><td>胸围指数 Chest circumference index/%</td><td>124.56±2.54</td><td>126.95±1.96</td><td>131.43±3.17</td><td>0.185</td></tr><tr><td>体躯指数 Body trunk index/%</td><td>134.45±3.01</td><td>136.00±2.20</td><td>139.55±4.01</td><td>0.513</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2番茄红素对绵羊屠宰性能的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4 可知，与对照组相比，饲粮添加 200 和 $4 0 0 \\ \\mathrm { m g / d }$ 番茄红素有提高宰前活重（ ${ \\cal P } { = } 0 . 0 6 2$ ）、背最长肌重（ $\\scriptstyle P = 0 . 0 7 2 { \\mathrm { ~ , ~ } }$ ）、GR值（ $\\scriptstyle P = 0 . 0 6 2$ ）和肾脏重（ $\\scriptstyle P = 0 . 0 5 4 .$ ）的趋势；II、IⅢ组绵羊的胴体重和净肉重在数值上也高于对照组，但差异未达到显著水平（ $( P { > } 0 . 0 5 )$ ；IⅢ组绵羊的皮重显著高于I组（ $P { < } 0 . 0 5$ ）；除皮重外，对于屠宰率、净肉率、眼肌面积和脂肪沉积等屠宰性能指标，各组间均无显著差异（ $. P { > } 0 . 0 5$ ）。综合来看，饲粮中添加番茄红素对绵羊的屠宰性能略有影响，但并不明显。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4番茄红素对绵羊屠宰性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a12e03c48ede8eefb56140bc819519086e7471f5b5b0b9a511e2ed18a744671.jpg",
+        "table_caption": [
+            "Table 4Effects of LP on slaughter performance of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>P-value</td></tr><tr><td>宰前活重 Pre-slaughter live weight/kg</td><td>39.59±0.96</td><td>42.07±0.64</td><td>42.04±0.80</td><td>0.062</td></tr><tr><td>头重 Head weight/kg</td><td>2.18±0.05</td><td>2.26±0.04</td><td>2.23±0.05</td><td>0.516</td></tr><tr><td>皮重 Leather weight/kg</td><td>3.52±0.11a</td><td>3.76±0.08ab</td><td>3.88±0.07b</td><td>0.022</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/15c116456e5d9090c0409855bcc2ae8d57378376d7a52a366743b7b30dd80b05.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>胴体重 Carcass weight/kg</td><td>20.69±0.66</td><td>21.97±0.36</td><td>21.86±0.49</td><td>0.172</td></tr><tr><td>净肉重 Meat weight/kg</td><td>14.14±0.44</td><td>15.11±0.28</td><td>14.84±0.45</td><td>0.227</td></tr><tr><td>骨重 Bone weight/kg</td><td>4.55±0.13</td><td>4.93±0.17</td><td>4.80±0.17</td><td>0.232</td></tr><tr><td>背最长肌重 Longissimus dorsi muscle</td><td>480.1±20.0</td><td>534.6±30.2</td><td>565.4±24.8</td><td>0.072</td></tr><tr><td>weight/g</td><td></td><td></td><td></td><td></td></tr><tr><td>肾脏重Kidney weight/g</td><td>89.21±1.97</td><td>92.32±2.61</td><td>97.66±2.47</td><td>0.054</td></tr><tr><td>肾脂重 Renal fat weight/g</td><td>276.8±19.6</td><td>303.2±32.9</td><td>304.9±23.1</td><td>0.692</td></tr><tr><td>大网膜脂肪重 Abdominal fat weight/g</td><td>686.5±62.2</td><td>691.5±55.7</td><td>707.8±58.7</td><td>0.966</td></tr><tr><td>尾脂重 Tail fat weight/kg</td><td>1.01±0.04</td><td>1.05±0.06</td><td>1.16±0.04</td><td>0.121</td></tr><tr><td>屠宰率 Dressing percentage/%</td><td>52.21±0.74</td><td>52.24±0.43</td><td>51.98±0.41</td><td>0.938</td></tr><tr><td>净肉率 Meat percentage/%</td><td>35.75±0.82</td><td>35.91±0.39</td><td>35.31±0.88</td><td>0.834</td></tr><tr><td>胴体净肉率 Carcass meat percentage/%</td><td>68.47±1.17</td><td>68.75±0.65</td><td>67.93±1.63</td><td>0.890</td></tr><tr><td>肉骨比 Meat-bone ratio</td><td>3.12±0.08</td><td>3.10±0.13</td><td>3.11±0.09</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.991</td></tr><tr><td>眼肌面积 Loin muscle area/cm²</td><td>17.36±0.75</td><td>17.14±0.61</td><td>18.61±1.05</td><td>0.412</td></tr><tr><td>GR 值 GR value/mm</td><td>14.77±0.56</td><td>16.46±0.66</td><td>17.52±1.06</td><td>0.062</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3番茄红素对绵羊血清抗氧化指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与对照组相比，饲粮添加 200 和 $4 0 0 \\mathrm { m g / d }$ 番茄红素有提高绵羊血清 SOD活性的趋势（ $\\scriptstyle P = 0 . 0 8 1$ ）；ⅡI组绵羊血清CAT 和GSH-Px 活性显著高于对照组（ $\\cdot P { < } 0 . 0 5 \\rangle$ ）；各组血清T-AOC 和 MDA 含量无显著差异（ $P { > } 0 . 0 5$ ）。综合比较，饲粮中添加番茄红素对绵羊血清抗氧化能力有一定提高作用，其中以 $2 0 0 \\mathrm { m g / d }$ 添加量的效果较优。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5番茄红素对绵羊血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fc413e2dda81cb3eace5c4f8e5ec2967460b46fdd6260bee3033b8dcde1d873.jpg",
+        "table_caption": [
+            "Table 5Effects of LP on antioxidant indices in serum of sheep "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>I组</td><td>Ⅱ组</td><td>Ⅲ组</td><td>P值</td></tr><tr><td>Items</td><td>Group I</td><td>Group II</td><td>Group III</td><td>P-value</td></tr><tr><td>总抗氧化能力T-AOC/(U/mL)</td><td>1.64±0.24</td><td>2.42±0.36</td><td>1.68±0.39</td><td>0.206</td></tr><tr><td>超氧化物歧化酶 SOD/(U/mL)</td><td>47.12±1.31</td><td>49.62±1.44</td><td>52.00±1.64</td><td>0.081</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>1.41±0.36a</td><td>3.75±0.67b</td><td>2.07±0.41a</td><td>0.008</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>130.13±18.57a</td><td>212.37±24.96ab</td><td>161.84±22.04b</td><td>0.043</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1番茄红素对绵羊生长发育的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "近年来，许多天然的植物提取物由于其资源丰富、安全性能高等优势，被作为饲料添加剂广泛开发和应用到畜禽饲料中。番茄红素作为一种功能性营养素，受到越来越多的关注，部分学者开始研究其在动物生产过程中的添加效果。Sahin 等[18研究表明，热应激状态下，在饲粮中添加 $5 0 { \\sim } 2 0 0 \\mathrm { m g / k g }$ 番茄红素能够显著提高鹑的采食量和增重，并且降低F/G。随后，该学者在虹鳟上同样观察到，番茄红素的添加提高了试验动物的生长性能，其中以$4 0 0 \\mathrm { m g / k g }$ 添加量的效果最优[19]。目前，在肉羊生产中使用番茄红素的研究报道较少，武安泉等[20]曾在绵羊饲粮中添加高、中、低水平的番茄渣（约含 $1 . 3 \\%$ 番茄红素）代替苜蓿干草，结果发现动物的采食量显著提高。本团队前期在炎热夏季对巴美肉羊饲粮中分别添加 50、100 和 $2 0 0 \\mathrm { m g / k g }$ 番茄红素，同样发现肉羊采食量显著高于对照组，ADG与对照组相比虽未达到显著性差异，但也有近 $10 \\%$ 的增长幅度[15]。综合前人研究结果可知，番茄红素的添加对于动物的采食量有一定的提高作用。然而，本试验结果并没有观测到添加番茄红素后绵羊的采食量的发生变化，推测可能原因是试验环境不同导致，在多数已有研究中，试验动物处于不同的应激环境下，采食欲望受到影响，而番茄红素的抗氧化性能缓解了应激带来的负面影响，对采食行为有一定的恢复效果；而本试验在适宜的温度环境下开展，动物自身采食欲望较高，因此未出现显著差异。本次研究结果发现饲粮中添加番茄红素有提高绵羊ADG 的趋势，并且显著降低了F/G，这与前人研究结果[21相似，这可能是由于番茄红素对于细胞间隙连接通讯有一定的调控作用，从而维持了内环境的稳态[22l，促进了动物的生长。总体来看，番茄红素的添加对绵羊的生长性能有一定的提高作用，本试验中以 $2 0 0 ~ \\mathrm { m g / d }$ 添加量的效果较优。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "体尺是反映动物机体整体及各部分是否发育完全的重要指标，在绵羊生产中一般较为关注的指标包括体长、体高、胸围、胸宽等。有研究表明，6月龄双胞胎湖羊公羔体长可达71.7cm，体高可达 $6 2 . 0 \\ \\mathrm { c m }$ ，胸围可达 $6 8 . 2 ~ \\mathrm { c m } ^ { [ 2 3 ] }$ 。参照相关行业标准[17]，本试验对体尺指标进行了测定，发现数值均在正常范围，说明绵羊机体摄入营养水平较高，体况良好。本研究首次探究了番茄红素对绵羊体尺指标的影响，结果发现，饲粮中添加番茄红素能够显著提高绵羊的胸宽，并有提高胸围的趋势；同时，饲粮中添加 $2 0 0 ~ \\mathrm { m g / d }$ 番茄红素有提高绵羊体长和体高的趋势，说明番茄红素的添加促进了绵羊的发育。已有研究表明，绵羊体重与体长、体高、胸围等体尺指标存在显著正相关[24-25]。因此，本试验结果也印证了番茄红素对绵羊增重",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "的效果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "体尺指数是基于体尺测定基础上各指标间的数量关系，用于表示不同体躯部位的相对发育程度，从而反映动物的体态特征及可能的生产性能[26]。本试验中，各组绵羊体长指数、胸围指数和体躯指数无显著差异，表明体尺比例适当，发育良好。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2番茄红素对绵羊屠宰性能的影响 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "屠宰性能是肉用畜禽重要的评价指标。目前，有关番茄红素对畜禽屠宰性能的影响鲜有报道。Sahin 等[18]研究表明，饲粮中添加番茄红素能够提高鹌鹑的胴体重和产肉量。在本团队前期针对巴美肉羊的研究中，发现在热应激环境中番茄红素的添加可以提高GR值，但对其他屠宰性能指标无显著影响[15]。本试验在适宜温度环境中进行，结果发现饲粮添加番茄红素有提高绵羊宰前活重的趋势，并且同样发现GR值有升高的趋势；与对照组相比，饲粮添加200 和 $4 0 0 \\mathrm { m g / d }$ 番茄红素后绵羊的背最长肌重分别提高 $1 1 . 3 5 \\%$ 和 $1 7 . 7 7 \\%$ ；与对照组相比，饲粮添加 $2 0 0 \\ \\mathrm { m g / d }$ 番茄红素后绵羊胴体重和净肉重的变化虽未达到显著水平，但也分别提高了 $6 . 2 \\%$ 和 $6 . 9 \\%$ ，说明番茄红素对绵羊的产肉性能有一定的提高作用；此外，番茄红素的添加提高了皮重和肾脏重，说明其对动物的生长及内脏器官的发育有促进作用，可能原因是番茄红素的添加提高了动物的抵抗力和对环境的适应性，其具体机制有待进一步研究。总体来看，番茄红素的添加对绵羊的屠宰性能略有影响，但并不明显。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3番茄红素对绵羊血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "抗氧化酶系统是机体内重要的活性氧防御体系之一，能够抑制氧自由基的产生，平衡机体代谢，预防各种疾病。SOD、CAT 和GSH-Px均是该系统中重要的酶类，其活性高低能够反映出机体抗氧化能力的强弱。其中，SOD 可以与CAT协同作用，形成抗氧化链条，首先催化超氧阴离子自由基生成过氧化氢，再将过氧化氢分解生成水；而GSH-Px不仅可以清除脂质过氧化物，还能减轻细胞膜多不饱和脂肪酸的氧化，从而保护膜结构与功能的完整性。番茄红素由于其分子结构上含有11个共轭双键，因此本身具有极强的活性氧淬灭能力，同时其对机体抗氧化酶系统也有一定的调节作用。前人研究表明，番茄红素的添加能够显著提高高密度养殖条件下虹鳟肝脏抗氧化酶活性[9]。另有研究同样发现，饲粮添加番茄红素油显著增加了鲫鱼血清中 SOD 和CAT 活性[211。本试验结果表明，饲粮添加番茄红素后绵羊血清 SOD 活性较对照组有提高的趋势， $2 0 0 \\mathrm { m g / d }$ 添加组血清CAT 和GSH-Px 活性显著高于对照组，这与本团队前期在巴美肉羊上的研究结果[27]相近。二者所得结果不同在于本次试验各抗氧化酶的活性在数值上均偏低，可能原因是前期研究在高温坏境下进行，热应激使动物产生更多的活性氧自由基，也使得各抗氧化酶活性普遍升高；而本试验环境条件较为适宜，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 因此各抗氧化酶的活性在数值上相对较低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "T-AOC 是判断机体内抗氧化能力的综合指标，代表了机体抗氧化酶系统和非酶抗氧化系统的总体水平。MDA是脂质过氧化的最终产物之一，其含量能直接反映机体内自由基水平及脂质过氧化程度。在本试验中番茄红素的添加对二者均未产生显著影响，可能是由于在适宜环境下机体产生活性氧自由基较少，代谢处于正常状态，脂质过氧化程度相对较低，因而差异不大。但综合比较，本试验中以 $2 0 0 \\mathrm { m g / d }$ 添加量的效果较优。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，绵羊饲粮中添加番茄红素：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 有提高ADG 的趋势，并能显著降低F/G;  \n$\\textcircled{2}$ 对体尺指数无影响，但能显著提高胸宽，并有影响体高、体长和胸围的趋势。  \n$\\textcircled{3}$ 有提高背最长肌重和GR值的趋势，但整体看来对屠宰性能的影响不大。  \n$\\textcircled{4}$ 能够提高血清抗氧化能力，尤其对CAT和GSH- $\\mathbf { \\cdot P x }$ 活性的影响显著。  \n综合本试验各指标，以 $2 0 0 \\mathrm { m g / d }$ 添加量效果较优。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "221 参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]CLINTON SK.Lycopene:chemistry,biology,and implicationsfor human healthand disease[J].Nutrition Reviews,1998,56(2):35-51.   \n[2] 王昆,马玲云,吴先富,等.番茄红素的研究概况[J].中国药事,2015,29(3):266-272.   \n[3] 曲瑞芳,梁燕,巩振辉,等.番茄不同品种间番茄红素含量变化规律的研究[J].西北农业学 报,2006,15(3):121-123.   \n[4] PALOZZA P,CATALANO A,SIMONE R,et al.Lycopene asa guardian of redox signalling[J].Acta Biochimica Polonica,2012,59(1):21-25.   \n[5] KRUTOVSKIKH V,ASAMOTO M,TAKASUKA N,et al.Differential dose-dependent effects of $\\alpha - , \\beta$ carotenes and lycopene on gap-junctional intercelllar communication in rat liver in vivo[J].Japanese Journal of Cancer research,1997,88(12):1121-1124.   \n[6] AUST O,ALE-AGHA N,ZHANG L,et al.Lycopene oxidation product enhances gap junctional communication[J].Food and Chemical Toxicology,2003,41(10):1399-1407.   \n[7] MARTINO P A,MANGIAGALLI M G,MARELLI S P,et al.Effect of lycopene on semen bacteriological status and native immunity in roosters[C]//EPC 2Oo6-12th European Poultry Conference.Verona:EPC,2006.   \n[8] RAO A V,RAY M R,RAO L G.Lycopene[J].Advances in Food and Nutrition ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Research,2006,51:99-164. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9] PETERS U,LEITZMANN M F,CHATTERJEE N,et al.Serum lycopene,other carotenoids,and prostate cancer risk:a nested case-control study in the prostate,lung,colorectal,and ovarian cancer screening trial[J].Cancer Epidemiology Biomarkers & Prevention,2007,16(5):962-968.   \n[10] 曲莉,李青.番茄红素在保健食品中的作用及检测方法的研究进展[J].中国卫生工程 学,2009,8(3):182-183.   \n[11] FAOSTAT[EB/OL].[2016-08-14].htp:/faostat3.faoorg/.   \n[12] SADEK K,ABOUZED T,NASR S.Lycopene modulates cholinergic dysfunction,Bcl-2/Bax balance,and antioxidant enzymes gene transcripts in monosodium glutamate (E621） induced neurotoxicityinaratmodel[J].CanadianJournalofPhysiologyand Pharmacology,2016,94(4):394-401.   \n[13] NOSKOVA K,DOVRTELOVA G,ZENDULKA O,et al.The influence of carotenoid lycopene on the metabolic activity of CYP2A,CYP3A,CYP2B and CYP2C11 in rat[J].Records of Natural Products,2015,99(6):466.   \n[14] FORNELLI F,LEONE A,VERDESCA I,et al.The influence of lycopene on the proliferation of human breast cel line (MCF-7)[J].Toxicology in Vitro,2007,21(2):217-223.   \n[15] JIANG H Q,WANG Z Z,MA Y,et al.Efect of dietary lycopene supplementation on growth performance,meat qualityfatty acid profile and meat lipid oxidation in lambs in summer conditions[J].Smal Ruminant Research,2015,131:99-106.   \n[16] 王金文,崔绪奎,王德芹,等.不同类型羊舍冬季保温及对羔羊育肥效果的影响[C]//第九届 羊业发展大会论文集.怀仁:中国畜牧业协会,2012.   \n[17]中华人民共和国农业部.NY/T1236—2006 绵、山羊生产性能测定技术规范[S].北京：标 准出版社，2007.   \n[18] SAHIN K,ONDERCI M,SAHIN N,et al.Effects of lycopene supplementation on antioxidant status,oxidativestressperformance and carcasscharacteristicsin heat-stressed Japanese quail[J].Journal of Thermal Biology,2006,31(4):307-312.   \n[19] SAHIN K,YAZLAK H,ORHAN C,et al.The effect of lycopene on antioxidant status in rainbow trout(Oncorhynchusmykiss) reared under high stocking density[J].Aquaculture,2014,418-419:132-138.   \n[20] 武安泉,王文奇,刘艳丰,等.番茄渣对绵羊生长性能和瘤胃发酵参数的影响[J].动物营养学 报,2014,26(8):2289-2295.   \n[21]孟妤,杨鸢劫,单志萍,等.番茄红素油对鲫鱼生长性能和抗氧化性的影响[J].江苏农业学 报,2011,27(1):124-128.   \n[22] 秦宇,郭新彪,邓芙蓉.细胞间隙连接通讯调节机制研究进展[J].环境与健康杂 志,2012,29(9):849-852.   \n[23] 殷光田,刘丽.湖羊不同出生类型中羔羊部分体尺性状的研究[J].中国畜牧兽 医,2009,36(8):181-185.   \n[24]田亚磊,高腾云,陈碾管,等.豫西脂尾羊体尺与体重的相关性分析[J].江西农业学 报,2009,21(5):111-113.   \n[25] 乔格拉森,其满,早尔克.巴音布鲁克后备母羊体尺与体重相关性分析[J].畜牧与兽 医,2014,46(8):44-46.   \n[26] 程郁昕,唐义国,郭蜜,等.蚂蚁山奶牛场奶牛常用体尺指数的计算及分析[J].中国草食动 物,2005,25(6):28-30.   \n[27] JIANG H Q,WANG Z Z,MA Y,et al.Effects of dietary lycopene supplementation on plasma lipid profile,lipid peroxidation and antioxidant defense system in feedlot Bamei lamb[J].Asian Australasian Journal of Animal Sciences,2015,28(7):958-965.   \nEffects of Lycopene Supplementation on Growth Development, Slaughter Performance and Serum Antioxidant Indices of Sheep   \nQU Yanghua LUO Hailing\\* LIU Ce GUO Pingting MA Yong XU Chenchen (State Key Laboratory of Animal Nutrition, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China)   \nAbstract: This experiment was conducted to study the effects of lycopene supplementation on growth development, slaughter performance and serum antioxidant indices of sheep. Thirty male 3-month-old lambs of Hu sheep with the similar initial body weight of $( 2 2 . 0 { \\pm } 0 . 5 \\$ ）kgwere randomly divided into three groups with ten lambs in each group,and they were housed individually in pens.Lambs in control group were fed a basal diet, while lambs in other two trial groups were fed the basal diet added with 200 and $4 0 0 \\mathrm { \\ m g / d }$ lycopene， respectively. The experiment lasted for 110 days with 1O days for adaptation and 1OO days for sampling. The results showed as follows: 1) diet supplemented with 200 and $4 0 0 ~ \\mathrm { { m g / d } }$ lycopene could tend to increase ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "average daily gain $( 0 . 0 5 { \\leqslant } P { < } 0 . 1 0 )$ ，and significantly decrease feed/gain of sheep （ $( P { < } 0 . 0 5 )$ . 2) Diet supplemented with 200 and $4 0 0 ~ \\mathrm { { m g / d } }$ lycopene can significantly increased chest width （204号 $( P { < } 0 . 0 5 )$ ,and supplemented with 200 and $4 0 0 ~ \\mathrm { { m g / d } }$ lycopene could tend to increase body length, height at withers and chest circumfrence ( $0 . 0 5 { \\leqslant } P { < } 0 . 1 0 )$ . 3) Diet supplemented with 200 and 400 mg/d lycopene had tendency to increase pre-slaughter live weight, Longissimus dorsi muscle weight, kidney weight and GR value ( $0 . 0 5 { \\leqslant } P { < } 0 . 1 0 ,$ , and supplemented with $4 0 0 ~ \\mathrm { { m g / d } }$ lycopene significantly increased leather weight $( P { < } 0 . 0 5 )$ ,but there were no significant differences in other slaughter performance indicators among three groups $( P { > } 0 . 0 5 )$ .4）Diet supplemented with 200 and $4 0 0 \\mathrm { m g / d }$ lycopene tended to increase superoxide dismutase activity in serum $( 0 . 0 5 { \\leqslant } P { < } 0 . 1 0 )$ ， and supplemented with $2 0 0 \\mathrm { m g / d }$ lycopene significantly increased the activities of serum catalase and glutathione peroxidase $( P { < } 0 . 0 5 )$ . It is concluded that dietary supplemented with lycopene can improve growth development, slaughter performance and serum antioxidant indices of sheep to some extent, and the optimal dose is $2 0 0 \\mathrm { m g / d }$ under in this experimental condition. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: lycopene; sheep; growth development: slaughter performance; serum antioxidant indices ",
+        "page_idx": 12
+    }
+]

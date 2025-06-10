@@ -1,0 +1,110 @@
+基础研究
+
+# 沉默MSH3表达增强舌癌细胞对顺铂的敏感性
+
+范晓升，曹放云，李匡正南华大学第二附属医院口腔科,湖南 衡阳 421001
+
+摘要：目的 设计靶向DNA错配修复基因MSH3的siRNA干扰片段，观察MSH3有效沉默对舌癌细胞顺铂耐药性的影响。方法针对MSH3基因CDS区序列,设计3条siRNA片段,体外化学合成小干扰RNA(siRNA)片段,通过脂质体介导转染人舌癌细胞CAL27。Real-time PCR及Westem检测干扰后MSH3的表达。MTS,凋亡双染法及细胞免疫荧光检测顺铂处理后细胞存活、凋亡及DNA双链断裂的情况。结果3条siRNA片段转染细胞后，与对照组相比，3号siRNA片段转染后能显著降低MSH3mRNA及蛋白质表达水平，该片段被选为后续实验。MSH3表达下调后，顺铂的半数抑制浓度( $\mathrm { I C } _ { 5 0 }$ 值)分别由21.32降至 $1 3 . 9 5 ~ \mathrm { \mu m o l / L } ( P { < } 0 . 0 5 )$ ，凋亡指数分别由 $4 . 2 3 { \pm } 1 . 2 7$ 升至 $1 1 . 3 2 { \pm } 1 . 8 2 ( P { < } 0 . 0 5 )$ ，舌癌细胞中 $\gamma$ -H2AX焦簇(Foci)的数量显著增加。结论 MSH3表达下调可以明显增加舌癌细胞对顺铂的敏感性,减少DNA双链断裂修复是其主要机制之一。
+
+关键词：舌癌;MSH3；顺铂
+
+# Silencing MSH3 expression enhances cisplatin sensitivity of human tongue cancer cells
+
+FAN Xiaosheng, CAO Fangyun, LI Kuangzheng DepartmentofStomatology,SecondAfiliatedHospitalofUniersityofSouthChina,Hengyang41oCina
+
+Abstract: Objective To explore the efect of MSH3 knock-down on sensitivity of tongue cancer cells to cisplatin. Methods Three smallinterfering RNA (siRNA)fragments targeting MSH3 CDS region were synthesized and transfected into CAL27 cells via Lipofectamine.Real-time PCRand Western bloting were used to assess the eficiencyof MSH3 silencing. MTS, apoptosis staining andcellimmunofluorescence assy were used to examine thecisplatin sensitivityapoptosis and DNA repair of transfected CAL27 cels. Results One of the 3siRNAs was found to significantly reduce the expresson of MSH3 protein in CAL27 cells $( P { < } 0 . 0 5 )$ . MTS assay showed that MSH3 silencing resulted in an significant reduction of $\mathrm { I C } _ { 5 0 }$ of cisplatin from 21.32 to $1 3 . 9 5 ~ \mu \mathrm { m o l / L }$ $_ { ( P < 0 . 0 5 ) }$ and increased the apoptotic index of the exposed cells from $4 . 2 3 { \scriptstyle \pm 1 . 2 7 }$ to $1 1 . 3 2 { \scriptstyle \pm 1 . 8 2 }$ 0 $P <$ 0.05). Immunofluorescence assay demonstrated that silencing MSH3 markedly reduced the number of $\gamma { \mathrm { - } } \mathrm { H } 2 \mathrm { A } X$ foci. Conclusion Silencing MSH3 can significantly increase cisplatinsensitivityof tongue cancercels, the mechanismof which involves mainly attenuation of repair of DNA double-strand damage in the cells.
+
+Key words: tongue cancer; MSH3; cisplatin
+
+口腔鳞癌是最常见的恶性肿瘤之一，其发病率和死亡率居第10位[]。舌癌作为最常见的一种口腔鳞癌,预后往往较差。易导致患者出现语言、咀嚼及吞咽功能障碍,极大地降低了患者的生存质量[2。作为舌癌标准化治疗的一部分，化疗单独或联合其他局部治疗方法在抑制肿瘤远处转移，保留器官功能等方面发挥着重要的作用。在过去的几十年中，含铂类化合物的化疗方案，是口腔鳞癌患者首选的治疗方案之一。铂类药物作为细胞周期非特异性药物，具有抗癌谱广，高效的特点。但是，肿瘤对铂类药物固有的原发性耐药和治疗过程中产生的继发性耐药，极大地降低了肿瘤的化疗疗效。因此，进一步阐明铂类抗癌药的耐药机制，识别新的铂类药物耐药的靶标，是提高包括口腔鳞癌在内的恶性肿瘤临床治疗效果亟待解决的重要课题
+
+顺铂化疗耐受的机制涉及到多方面[4，如药物的代谢，药物诱导的调亡、DNA损伤修复等。迄今为止，顺铂耐药的精确机制仍不完全清楚。DNA错配修复(MMR)系统是由一系列能特异性识别、双向切除并修复错配碱基的酶分子组成,包括MLH1,MSH2,MSH6,MSH3及PMS2等成员[5]。MMR对保持遗传物质的完整性和稳定性,避免遗传突变的产生具有重要作用[]。另一方面，MMR系统参与了DNA加合物的切除修复，这种加合物多由各种细胞毒性药物如顺铂，烷化剂与DNA形成链内或链间交链结构。如MSH3与MSH2组成的异源二聚体MutSβ能识别由顺铂诱导的DNA-DNA链间交链结构(ICLs）。这些结果提示MutSβ可能参与介导了铂类等药物的化疗耐受。为了证实这一推测，我们通过siRNA技术抑制MutSβ二聚体中关键因子MSH3的表达，并检测MSH3表达下调对舌癌细胞顺铂敏感性的影响。我们的结果提示MSH3表达下调可以明显增加对顺铂的敏感性，DNA双链断裂修复减少是其主要机制之一。
+
+# 1材料和方法
+
+# 1.1 材料与试剂
+
+人舌癌细胞CAL27,SCC25购自ATCC细胞中心。人舌癌细胞Tca8113由本实验室保存。
+
+HycloneRPMI1640 培养基、DMEM培养基购自Thermo Fisherscientific(Cambridge,CB58BZ,Unitedkingdom)。胎牛血清、胰蛋白酶均为美国Gibcol(St,Louis,MO,USA)。顺铂(cDDP)和细胞冻存的DMSO购于美国Sigma-Aldrich。MTS试剂购自美国Promega。
+
+# 1.2 方法
+
+1.2.1实时定量PCR收集细胞，按Trizol试剂说明书的方法提取细胞总RNA。采用特异性下游引物法将其反转录成cDNA。反转录成cDNA后，以GAPDH为内参，Real-timePCR检测表达，反应条件为 $9 5 ~ \mathrm { ^ { \circ } C }$ 预变性$3 0 \mathrm { ~ s ~ } 9 5 \mathrm { ~ } \mathrm { ~ \textdegree C }$ 变性 $5 \mathrm { ~ s ~ } 6 0 \mathrm { ~ } \mathrm { { ^ { c } C } } .$ 退火及延34s,进行40个循环，每个样品设置3个复孔，在ABI7500实时定量PCR系统上进行，实验重复3次。MSH3引物：上游引物5'-GCCTTGTCCGAGCAAACAGAGG- ${ \mathbf { } } \cdot 3 ^ { \prime }$ 下游引物5'-AACTGCCTGGAAAGCATGGCTG-3'。GAPDH(内参)引物：上游引物 $5 ^ { \prime }$ -CCACATCGCTCAGACACCAT-3'，下 游引物 5'-TGACAAGCTTCCCGTTCTCA-3'。RNA提取试剂TRizol购自美国Invitrogen;逆转录试剂盒和SYBRGreenqPCRMasterMix购自美国Fermentas life science,引物由中国上海IvitrogenBiotechnologyCo.,Ltd合成。
+
+1.2.2MSh3的瞬时干扰siRNA目的片段的选取及合成：根据GenBank数据库提供的人MSh3全长基因设计RNAi的靶区，Blast查询验证，排除与其他基因同源。设计3条MSh3-siRNA序列:siRNA1:5'-AACCGAACUUACCAAGCAU-3'，siRNA2: 5'-ACCCUAAGAACAUGGCCUA-3'，siRNA3: $5 ^ { \prime }$ -CCGAATGCATTTGCAAGAAAT-3',siRNA阴性对照：5'-AAATAAGAATGGCCCCAT-3以上核酸分子由广州复能基因公司设计合成。
+
+1.2.3细胞转染转染前1d,接种适当数量的细胞至6孔培养板中，使转染时细胞密度能够达到 $30 \% { \sim } 5 0 \%$ 。稀释siRNA:用 $2 5 0 \mu \mathrm { L }$ 不含血清培养基稀释 ${ 5 \mu \mathrm { L } }$ 的 $2 0 \mu \mathrm { m o L }$ 的siRNA储存液，轻轻混匀，室温孵育 $5 ~ \mathrm { m i n }$ 。稀释lipo2000:用 $2 5 0 ~ \mu \mathrm { L }$ 不含血清培养基稀释 ${ 5 \mu \mathrm { L } }$ lipo2000,轻轻混匀并室温孵育 $5 \mathrm { m i n }$ 。将稀释后的siRNA和稀释后的lipo2000轻轻混匀，室温孵育 $2 0 ~ \mathrm { m i n }$ 。将 ${ 5 0 0 \mu \mathrm { L } }$ 的siRNA-lipo2000混合液加入含有6孔板中，同时加入$1 . 5 ~ \mathrm { m L }$ 的无血清培养基，轻轻混匀。培养4\~6h后，将孔中含的siRNA-lipo2000混合液的培养基移去，更换新鲜的完全培养基。将培养板置于 $3 7 ~ \mathrm { ^ { \circ } C }$ 的 $\mathrm { C O } _ { 2 }$ 培养箱中培养 $2 4 { \sim } 9 6 \mathrm { h }$ (培养时间与实验目的相关)后，用于后续实验。
+
+1.2.4Westernblotting检测细胞株蛋白表达提取细胞总蛋白，使用超微量核酸蛋白测定仪NanoDrop2000测定蛋白浓度。根据样品蛋白的体积，加入相应体积的$5 \times$ loadingbuffer,drybath上 $1 0 0 \ \mathrm { ^ c } \cdot 1 0 \ \mathrm { m i n }$ ,使蛋白变性,冰上骤冷，取出待用或 $- 2 0 \mathrm { { ^ { \circ } C } }$ 保存。按 $5 0 ~ { \mu \mathrm { g } }$ 蛋白的量上样,进行 $10 \%$ SDS-PAGE凝胶电泳，用蛋白转印仪半干转法将蛋白从SDS-PAGE凝胶上电转移至PVDF膜上，将PVDF膜用含 $5 \%$ 脱脂牛奶的PBST溶液室温封闭印迹膜 $2 \mathrm { h }$ 或 $4 \mathrm { { ^ \circ C } }$ 过夜。以 $1 \%$ 的脱脂牛奶按适当的比例稀释一抗，使印迹膜与一抗于 $4 \mathrm { { ^ circ C } }$ 孵育过夜，(抗人MSH3鼠单抗购自Santa,稀释比例:1:250,抗人 $\beta$ -actin兔单抗购自Sigma-Aldrich,稀释比例： $1 : 3 0 0 0 \rangle$ 。洗膜后将印迹膜与辣根过氧化物酶标记的二抗室温孵育 $^ { \textrm { 1 h } }$ 再次洗膜后在暗室内用ECL发光底物显影成像。
+
+1.2.5细胞药物敏感性实验(MTS实验）取对数生长期细胞，PBS洗涤2次、胰蛋白酶消化后，进行细胞计数，制成 $2 0 0 0 0 / \mathrm { m L }$ 浓度的细胞悬液。每孔加入 $1 8 0 ~ \mu \mathrm { L }$ 的细胞悬液接种于96孔培养板中（即3600/孔）， $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 培养箱中培养,待细胞贴壁后，每孔加入 $2 0 \mu \mathrm { L }$ 不同浓度的cDDP,使cDDP的终浓度分别为0、5、10、20、40、$8 0 ~ \mathrm { \textmu m o l / L }$ ,每个浓度设5个平行孔，置于 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 培养箱中孵育 $7 2 \mathrm { { h } }$ ，各孔加入 $2 0 \mu \mathrm { L M T S }$ 试剂，混匀后于培养箱中继续孵育 $2 \mathrm { h }$ ,于酶标仪上检测各孔 $4 9 0 \ \mathrm { n m }$ 处的吸光度值 $\left( { { A _ { 4 9 0 } } } \right)$ 。由吸光值计算出药物各浓度处理组的细胞存活率及抑制率，依据药物浓度与其抑制率的直线回归方程，确定耐药细胞系及亲本细胞系对药物的$\mathrm { I C } _ { 5 0 }$ 值。实验至少重复3次，计算细胞对药物敏感程度的改变。细胞存活率 $\overbar { \mathbf { \Omega } } =$ （实验孔 $A _ { 4 9 0 }$ 均值/对照孔 $A _ { 4 9 0 }$ 均值 $1 \times 1 0 0 \%$ 。
+
+1.2.6AnnexinV-PI双染检测细胞凋亡将生长良好的细胞以 $2 \times 1 0 ^ { 5 } / \mathrm { m L }$ 接种于6孔培养板中，置于 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 培养箱中孵育过夜，以 $6 \mu \mathrm { m o l / L }$ 终浓度的cDDP的培养基处理细胞,培养12h后，弃去培养基，用PBS洗涤2次，收集细胞 $( 1 { \sim } 5 ) { \times } 1 0 ^ { 6 } , 5 0 0 { \sim } 1 0 0 0 \ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 弃去培养液,3mLPBS洗1次，离心去PBS,加入冰预冷的 $70 \%$ 的乙醇固定， $4 \mathrm { ~ ‰ ~ }$ ，离心弃去固定液，将细胞重悬于 $1 0 0 ~ \mu \mathrm { L }$ binding buffer,加入 $2 ~ \mu \mathrm { L }$ Annexin-V-FITC( $2 0 ~ \mu \mathrm { g / m L }$ ),轻轻混匀,避光冰上放置 $1 5 \mathrm { m i n }$ 。转至流式检测管,加入 $4 0 0 ~  { \mu \mathrm { L } }$ PBS,每个样品临上机前加入 $1 \ \mu \mathrm { L } \ \mathrm { P I } ( 5 0 \ \mu \mathrm { g / m L } ) , 2 \ \mathrm { m i n }$ 后迅速检测。同时以不加
+
+AnnexinV-FITC及PI的一管作为阴性对照。
+
+1.2.7细胞免疫荧光检测将生长良好的细胞以 $2 { \times } 1 0 ^ { 5 } /$ 孔的浓度种植于细胞爬片上，置于 $3 7 ~ \mathrm { { ^ { \circ } C } } \setminus { 5 \% } \mathrm { { C O _ { 2 } } }$ 培养箱中过夜，细胞贴壁后以以 $6 \mu \mathrm { m o l / L }$ 终浓度的cDDP的培养基处理细胞 $1 2 \mathrm { ~ h ~ }$ 后，终止培养，用预冷PBS洗涤2次， $- 2 0 \ \mathrm { { ^ circ C } }$ 甲醇固定 $2 0 ~ \mathrm { m i n }$ 后,PBS洗 $3 \ \mathrm { m i n } { \times } 3 , 0 . 1 \%$ Triton透膜 $1 5 ~ \mathrm { m i n }$ ,PBS洗 $3 \mathrm { m i n } { \times } 3 , 5 \%$ BSA37度封闭$3 0 \mathrm { m i n }$ ,一抗(磷酸化H2AX,Trevigen inc,US)室温孵育 $6 0 \ \operatorname* { m i n } \left( 1 : 3 0 0 \right.$ 稀释比例），PBS洗 $3 \ \operatorname* { m i n } \times 3$ ，二抗(Alexa Fluor 594 donkey anti mouse IgG $_ \mathrm { H + L }$ ,InvitrogrnInc,US)室温孵育 $3 0 \operatorname* { m i n } ( 1 { : } 8 0 0$ 稀释比例),PBS洗 $3 \operatorname* { m i n } \times$ 5,然后晾干封片置荧光显微镜下观察。
+
+1.2.8统计学分析应用统计学软件SPSS17.0进行统计分析，实验重复3次以上，计量资料以均数 $\cdot \pm$ 标准差表示。两两比较采用Student'sT检验。
+
+# 2结果
+
+# 2.1MSH3在舌癌细胞株中的表达
+
+采用Q-PCR及Western技术检测3株舌癌细胞Tca8113,CAL27及SCC25中MSH3表达情况。结果如图1所示，3株细胞中，MSH3在CAL27细胞中表达水平最高，显著高于Tca8113和SCC25细胞株。通过查阅ATCC网站CAL27细胞的遗传背景及特征发现该细胞株先天性对顺铂耐受，遂决定将该细胞株作为下一步研究的对象。
+
+![](images/89876cb2471d43446a943dbaad732d3e21f4dd92705235df5e49810996d70f1a.jpg)  
+图1MSH3在舌癌细胞株中的表达 Fig.1 Expression of MSH3 in 3 tongue cancer cell lines using RT-PCR (A) and Western blotting $( B )$ . Data represent averages from 3 independent experiments. $^ { * } P { < } 0 . 0 5$
+
+# 2.2MSH3-siRNA下调人舌癌CAL27细胞中MSH3 mRNA和蛋白的表达
+
+Western-blotting结果显示，与对照组相比，转染MSH3siRNA载体后的细胞，MSH3蛋白表达明显降低（图2A)。这一结果综合提示舌癌CAL27细胞在瞬时转染了MSH3siRNA后，MSH3表达被有效沉默，尤其是3#siRNA，干扰效率超过到了 $70 \%$ 。遂选定3#siRNA作为后期进一步观察MSH3沉默对细胞顺铂耐药性的影响。
+
+# 2.3干扰MSH3表达对舌癌细胞顺铂敏感性的影响
+
+将各组细胞暴露于不同浓度的顺铂下 $^ { 4 8 \mathrm { ~ h ~ } }$ 后行MTS试验，绘制细胞存活率-药物剂量曲线，计算各组细胞对顺铂的 $\mathrm { I C } _ { 5 0 }$ 值。结果如图2B显示，干扰MSH3表达能显著提高CAL27细胞对顺铂的敏感性。 $\mathrm { I C } _ { 5 0 }$ 值分别由21.32降至 $1 3 . 9 5 \ \mathrm { \mu m o l / L } \left( P { < } 0 . 0 5 \right)$ 。另外，用 $6 \mu \mathrm { m o l } / \mathrm { L }$ 的cDDP诱导细胞 $1 2 \mathrm { h }$ 后通过AnnexinV-PI双染，然后流式细胞仪检测凋亡细胞数目。如图2C所示，干扰MSH3表达后，调亡指数分别由 $4 . 2 3 { \pm } 1 . 2 7$ 升至 $1 1 . 3 2 \pm$ $1 . 8 2 ( P { < } 0 . 0 5 ) \$ ○
+
+H2AX是组蛋白H2A的一种变体，其磷酸化在
+
+DNA损伤应答中起着重要作用。同时，还是由辐射和具遗传毒性药物所引起DNA损伤的感受器，损伤形成之后发生的早期事件之一即是组蛋白H2AX变体形成$\gamma { \mathrm { - } } \mathrm { H } 2 \mathrm { A X }$ 。目前， $\gamma { \mathrm { - } } \mathrm { H } 2 \mathrm { A X }$ 识别抗体已成为探测DNA损伤尤其是双链断裂存在的金标准[8]。本研究用γ-H2AX抗体检测顺铂处理后的细胞DNA损伤情况。结果如图3.2.4所示，干扰MSH3表达后，能显著增加舌癌细胞中$\gamma { \mathrm { - } } \mathrm { H } 2 \mathrm { A X }$ 焦簇(Foci)的数量，这一结果提示干扰MSH3能明显下调舌癌细胞DNA损伤修复能力。
+
+# 3讨论
+
+MSH3和MSH2形成的异源二聚体MutSβ,一方面参与识别DNA链的核苷酸错配修复，在维持基因组完整性和稳定性方面具有重要作用[,另一方面，MutSβ参与了识别修复DNA-DNA链间交链结构(ICLs),这一结构形成往往是化疗药物如顺铂作用肿瘤细胞的重要机制。因此，有大量研究对MutSβ介导铂类药物的作用进行了探索，如Xu等报道MutSβ突变与非小细胞肺癌铂类耐受相关，Takahashi等[发现MutSβ与结肠癌细胞的铂类耐受有关。但也有不一致的报道,如Helleman[]发现MMR的失活与卵巢癌的顺铂耐受无相关性。迄今为止，尚未见MutSβ在舌癌中介导顺铂耐药的报道。作为Mutβ二聚体的关键组分，MSH3在识别和修复ICLs起着关键作用。因此，我们对MSH3与舌癌的顺铂的化疗耐受是否相关产生了兴趣。
+
+![](images/2a969c9ae9297b23527dda36511100d898aa12a6cf2f080112b11a2f048cf295.jpg)  
+图2干扰MSH3表达对舌癌细胞顺铂敏感性的影响 Fig.2EfctofMSH3silencing mediatedbysiRNAoncisplatinsensitivityintonguecancercels.A:ResultsofWesterbloing;B: MTS assay and apoptosis staining. Data represent averages from 3 independent experiments. $^ { * } P { < } 0 . 0 5$
+
+![](images/a12468435389e961959d25fb50fa0dc88a003f97ed1061f978ea6bd15385efa0.jpg)  
+图3免疫荧光检测舌癌细胞顺铂处理后DNA损伤修复情况 Fig.3Immunofluorescence assay for analyzing DNA damage in thecels exposed to cisplatin (Original magnification: $\times 2 0 0 \dot s$ ).A:Representative immunofluorescent images of the cels; B: Statistical chart of the foci count. $^ { * } P { < } 0 . 0 5$
+
+在本研究中，我们检测了3株舌癌细胞中MSH3的表达，结果发现，CAL27细胞中MSH3的表达水平最高。查阅CAL27的遗传背景发现，该细胞株来源于一个先天性对顺铂耐药的舌癌患者，这一结果提示MSH3可能参与了舌癌细胞CAL27的顺铂耐受。为了证实这一推测，我们通过siRNA技术干扰CAL27细胞中MSH3的表达，结果发现MSH3表达下调后顺铂敏感性显著提高，顺铂的半数抑制浓度( $\mathrm { I C } _ { 5 0 }$ 值）分别由21.32降至 $1 3 . 9 5 ~ \mathrm { \mu m o l / L }$ ，调亡指数分别由 $4 . 2 3 \pm 1 . 2 7$ 升至$1 1 . 3 2 { \pm } 1 . 8 2 ( P { < } 0 . 0 5 )$ 。这一结果证实了MSH3参与了舌癌的顺铂耐受，其主要机制可能与MSH3诱导肿瘤细胞凋亡抵抗有关。
+
+cDDP作为临床应用的一线化疗药物，其主要作用靶点是DNA，活化的DDP与DNA反应产生链内交联或链间交联结构(ICLs)[12]。一旦cDDP进入细胞核内与DNA形成ICLs后，细胞正常的DNA合成及转录就会受到抑制，使得细胞周期阻滞于 $\mathbf { G } _ { 2 }$ 期，同时启动机体内的核苷酸剪切修复[13-14]和错配修复系统[15-16],来清除DDP-DNAICLs以保护细胞。在切除修复DNAICLs过程中，往往涉及到DNA双链断裂。一般认为，DNA双链断裂越多，DNA损伤越严重。因此，DNA双链断裂的量化成为判断DNA损伤的重要指标。目前，$\gamma$ -H2AX识别抗体已成为探测DNA损伤尤其是双链断裂存在的金标准[8。H2AX是组蛋白H2A的一种变体，其磷酸化 $\scriptstyle \cdot y - H 2 A X ,$ 在DNA损伤应答中起着重要作用。同时,还是DNA损伤的感受器。本研究中，下调MSH3表达能显著增加y-H2AX焦簇(Foci)的数量，提示MSH3影响舌癌细胞顺铂敏感性主要是通过改变DNA的双链断裂修复，进而影响肿瘤细胞的凋亡/存活命运而实现的。
+
+另外，作为Mutβ二聚体的重要组分，MSH2对顺铂化疗敏感性的研究在本文中并没有涉及，这是因为有报道发现MSH2对化疗敏感性的影响并不明显，提示MSH2分子在Mutβ活性中，可能并不起关键作用。
+
+我们的研究提示MSH3表达沉默导致肿瘤细胞对顺铂敏感性增加，但是其精确的机制仍然有待阐明。尽管如此，我们的研究为识别和鉴定新的舌癌化疗靶点提供了重要的数据。
+
+# 奓考义默：
+
+[1]Chen W,Zheng RS,Peter DB,et al.Cancer statistics in China 2015 [J].CA Cancer JClin,2016,66(2): 115-32.   
+[2]Scully C, Bagan JV.Recent advances in Oral Oncology 2007: imaging,treatment and treatment outcomes[J]. Oral Oncol,2008,44 (3): 211-5.   
+[3] Tourneau C, Siu LL. Molecular-targeted therapies in the treatment of squamous cell carcinomas of the head and neck[J].Curr Opin Oncol,2008,20(3): 256-63.   
+[4]Siddik ZH. Cisplatin: mode of cytotoxic action and molecular basis of resistane[J].Oncogene,2003,22(47): 7265-79.   
+[5]Boland CR,Goel A.Microsatellite instability in colorectal cancer [J].Gastroenterology,2010,138: 2073-87.   
+[6]Fishel R.Mismatch repair,molecularswitches，andsignal transduction[J].Genes Dev,1998,12(14): 2096-101.   
+[7] Zhao JH,Aklank J, Ravi R,et al. Mismatch repair and nucleotide excision repair proteins cooperate in the recognition of DNA interstrand crosslinks[J]. Nucleic Acids Res,2009,37(4): 420-9.   
+[8]Sedelnikova OA,Rogakou EP,Panyutin IG,et al.Quantitative detection of (125)IdU-induced DNA double-strand breakswith gamma-H2AX antibody[J].Radiat Res,2002,158(4): 486-92.   
+[9]Xu XL, Yao YL, Xu WZ,et al. Correlation of MSH3 polymorphisms with response and survival in advanced non-small cell lung cancer patients treated with first-line platinum-based chemotherapy [J]. Genet Mol Res,2015,14(2): 3525-33.   
+[10] Takahashi M,Koi M,Balaguer F,et al.MSH3 mediates sensitization of colorectal cancer cells to cisplatin,oxaliplatin,and a poly(ADP-ribose）polymerase inhibitor[J].J Biol Chem,2011, 286(14): 12157-65.   
+[11]Helleman J,van Staveren IL,Dinjens WN,et al. Mismatch repair and treatment resistance in ovarian cancer[J].BMC Cancer,1994, 31(6): 51-2.   
+[12]Basu A,Krishnamurthy S.Celular responses to cisplatin-induced DNA damage[J]. JNucleic Acids,2010,8. pii: 201367.   
+[13]Li CL,Golebiowski FM,Onishi Y,et al. Tripartite DNA lesion recognition and verification by XPC,TFIIH,and XPA in nucleotide excision repair[J].Mol Cell,2015,59(6):1025-34.   
+[14] Choi JY,Park JM,Yi JM,etal. Enhanced nucleotide excision repair capacity in lung cancer cells bypreconditioning with DNAdamaging agents[J].Oncotarget,2015, 6(26): 22575-86.   
+[15]Negureanu L,Salsbury FR.Non-specificity and synergy at the binding site of the carboplatin-induced DNA adduct via molecular dynamics simulations of the MutSa-DNA recognition complex[J]. J Biomol Struct Dyn, 2014,32(6): 969-92.   
+[16] Kothandapani A, Sawant A,Dangeti VS,et al. Epistatic role of base excision repair and mismatch repairpathways in mediating cisplatin cytotoxicity[J].Nucleic Acids Res,2013,41(15): 7332-43.   
+[17] Kucherlapati MH,Lee K,Nguyen AA,et al.An Msh2 conditional knockout mouse for studying intestinal cancer and testing anticancer agents[J]. Gastroenterology,2010,138(3): 993-1002.
+
+（编辑：孙昌朋）

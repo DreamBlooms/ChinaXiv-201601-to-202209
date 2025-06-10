@@ -1,0 +1,514 @@
+[
+    {
+        "type": "text",
+        "text": "Sox2 functions as a sequence-specific DNA sensor in neutrophils to initiate innate immunity against microbial infection ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pengyan $\\mathrm { X i a } ^ { 1 , 2 }$ , Shuo Wangl,2, Buqing $\\mathbf { Y e ^ { 1 } }$ ,Ying ${ { \\bf { D } } { \\bf { u } } ^ { 1 } }$ , Guanling Huangl, Pingping Zhul & Zusen Fan1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neutrophils expressTol-likereceptors (TRs)fortherecognitionofconservedbacterialelements toinitiateantimicrobial responses.However,whether other cytosolic DNA sensors are expressed by neutrophils remains elusive.Here we found constitutiveexpressonof thetranscriptionfactorSox2inthecytoplasmof mouseandhuman neutrophils.Neutrophil-specific Sox2deficiency exacerbatedbacterial infection.Sox2 directlyrecognized microbial DNA throughits high-mobility-group (HMG)domain.UponchallengewithbacterialDNA,Sox2dimerizationwas needed toactivateacomplexof the kinase TAK1 and its binding partner TAB2,which led to activation of the transcription factors NF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ and AP-1 in neutrophils.Deficiency inTAK1orTAB2 impaired Sox2-mediatedantibacterialimmunityOverall,we revealapreviouslyunrecognizedrole for Sox2asacytosolic sequence-specific DNA sensorinneutrophils,which might providepotential therapeutic strategies for the treatment of infectious diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Neutrophils,a major component of the innate immune response, represent the largest population among circulating white blood cells in humans.Congenital defects in neutrophils lead to fatal infections1,2.Neutrophils reach the site of inflammation causedbybacterial infectionata very early stage,actingas the first defense line against invading pathogens3,4.Upon recruitment to the site of inflammation, neutrophils use three main means to kill bacteria: the engulfment of microbes through receptor-mediated phagocytosis,the release of granular antimicrobial factors via degranulation,and the generation of neutrophil extracellular traps1,5.In addition to directly killing invasive pathogens,neutrophils also potentiate the host immune response by producing cytokines3,6. The sensing of microbes by patternrecognition receptors (PRRs) expressed by neutrophils results in the production of proinflammatory cytokines and chemokines,which are necessary for the recruitment of other cells of the immune system to the inflammatory area for the elimination of bacteria.Neutrophils can express Toll-like receptors(TLRs) for the recognition of conserved bacterial elements7,collectively called ‘pathogen-associated molecularpatterns.These membersof the TLRfamily reside on the lumen of endosomal membranes in neutrophils to monitor various forms of nucleic acids of foreign microbes.However,whether other cytosolic sensors of nucleic acids in neutrophils can discriminate bacterial genomic DNA from hostDNA remains elusive. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nucleic acid sensors can recognize the DNA or RNA of invading microbes to trigger host antimicrobial responses such as the generation of type Iinterferons and proinflammatory cytokines8-10.Several cytosolic DNA sensors that monitor cytosolic microbial DNA have beenidentified so far.TLR9 in plasmacytoid dendritic cells cansense exogenous CpG DNA to activate signaling via the transcription factors NF- $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ and IRF7 (ref.11). The cytosolic receptor AIM2 associateswith AT-rich double-stranded DNA(dsDNA) to activate NF- $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ and caspase-1 upon inflammasome formation12.The cytosolic receptor DAI(also known as DLM1 or ZBP1) can recognize exogenous AT-rich DNA in some cell lines13,14.The DNA sensor IFI16,originally identified in THP-1 human monocyte cells,recognizes intracellular B-form DNA to initiate the production of type I interferons15. The helicase DDX41 has been reported to bind cytosolic DNA for the induction of type I interferons in dendritic cells16.However, the DNA-sensing role of IFI16 and DDX41 has not been confirmed by genetic loss-of-function studies so far. The enzyme cyclic GMPAMP synthase(cGAS) has been reported to bind cytoplasmic DNA as a DNA sensorl7-19,which initiates the production of type I interferons and other inflammatory cytokines.This DNA binding activatescGAS to synthesize the specific cGAMP isomer $2 ^ { \\prime } 3 ^ { \\prime }$ -cGAMP, which causes activation of the adaptor STING and then leads to innate immune responses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sox2 is a transcription factor known for its essential role in maintaining the self-renewal of embryonic stem (ES) cells and the formation of ectodermal and endodermal tissues during fetal development20,21． Sox2 contains a high-mobility-group (HMG) domain,a group B homolog(GBH) domain,a serine-rich domain (SRD)and two transcription-activating domains20,22. Sox2 belongs to the Sox family of transcription factors and is essential for cellfate determination23,24. Sox2 is expressed in the inner cell mass of the blastocyst,and Sox2 deficiency impairs the formation of the pluripotent epiblast, which leads to death in utero25.Together with the transcription factors c-Myc,KLF4 and Oct-4, Sox2 can reprogram differentiated somatic cells into induced pluripotent stem cells26,27. Sox2 binds in the promoter of the gene encoding the metabolic checkpoint kinase mTOR to inhibit its transcription at the early stage of reprogramming mouse embryonic fibroblasts into induced pluripotent stem cells28.Here we found that Sox2 was constitutively expressed in the cytoplasm of neutrophils and, through its HMG domain,as a DNA sensor,recognized bacterial DNA.Dimerization of Sox2 was required for activation ofa complexof thekinase TAK1 and its binding partner TAB2 that was essential for the induction of proinflammatory cytokines in neutrophils. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS Sox2 expression in neutrophil cytoplasm ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "While investigating the expression pattern of Sox2 in hematopoietic stem cells (HSCs) in mouse bone marrow (BM) through immuno histochemical staining,we observed $\\operatorname { S o x } 2 ^ { + }$ cells whose morphology resembled that of neutrophils.Flow cytometry of mouse peripheral blood cells showed that most $\\mathrm { C D 1 1 6 ^ { + } L y 6 G ^ { + } }$ neutrophils also stained with antibody to Sox2 (anti-Sox2) (Fig.la).The CD $1 1 \\mathrm { b } ^ { + } \\mathrm { L y } 6 \\mathrm { G } ^ { + } \\mathrm { S o x } 2 ^ { + }$ neutrophils also expressed myeloperoxidase (MPO),an enzyme present in the granules of neutrophils,which serves as a neutrophil markerl (Fig.la).Additionally,we detected the expression of $S o x 2 ~ \\mathrm { { m R N A } }$ and Sox2 protein in isolated peripheral neutrophils,through RT-PCR and immunoblot analysis,respectively (Fig.la).However, Sox2 was not expressed in other hematopoietic cells we tested,such as T cells, B cells,natural killer cells,dendritic cells and macrophages (Fig.1b), or other granulocytes,such as basophils and eosinophils (Fig.lc). Sox2 was expressed in mouse embryonic stem (ES) cells,which served as a positive control (Fig.1b).These data indicated that among mature hematopoietic cells,only neutrophils expressed Sox2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To further determine the subcellular localization of Sox2,we resolved cytosolic and nuclear neutrophil extracts via subcellular fractionation.In neutrophils,Sox2 was localized to the cytoplasm (Fig.1d).We confirmed that observation by immunostaining of neutrophils with anti-Sox2 and anti-MPO (Fig.1d).We tested several different antibodies to Sox2 in the immunoblot analysis and fluorescence staining assays and obtained similar results (data not shown).By in situ immunostaining of mouse BM,we observed that most ${ \\mathrm { M P O ^ { + } } }$ cellsalso stained with anti-Sox2 (Fig.le).We verified the costaining of MPO and Sox2 in BM neutrophils by immunohistochemical staining (Fig.1f).We made similar observations with mouse spleen (Supplementary Fig.la,b). Staining of mouse and human ES cells with the same antibodies to Sox2 used in the assays above detected Sox2 expression in the nuclei of ES cells (Supplementary Fig.lc), which confirmed their specificity for the protein.We also detected Sox2 in the cytoplasm of human peripheral neutrophils (Fig.1g) Together these observations suggested constitutive expression of Sox2 in the cytoplasm of mouse and human neutrophils. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Neutrophil-specific Sox2 deficiencyaggravates bacterial infection ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To explore the physiological role of Sox2 in neutrophils,we crossed mice with loxP-flanked $S o x 2$ alleles $( S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } )$ with mice expressing Cre recombinase from the myeloid-specific gene Lyz2 (Lyz2-Cre) to generate the mice with conditional deletion of Sox2 in neutrophils $( S o x 2 ^ { \\mathrm { { f l } / f l } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice) (Supplementary Fig.2a). Sox2 was completely deleted from $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils,whereas MPO and $\\beta$ -actin were unchanged and served as loading controls (Fig.2a). Because the Lyz2-Cre system also deletes genes in macrophages,we confirmed that Sox2 was not expressed in $S o x 2 ^ { \\mathrm { { f l } / f l } } L y z 2$ -Cre-macrophages in vivo (SupplementaryFig.2b).The numberof neutrophils in the BMand peripheral blood of $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice was similar to that in their $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ littermates,which served as controls (Fig.2b,c).Additionally, the morphology of neutrophils from $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice was similar to that of neutrophils from their $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ littermates (Fig. 2d). These data suggested that neutrophil-specific Sox2 deficiency did not affect the development of neutrophils. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether Sox2 has a role in neutrophils during the clearance of bacteria in vivo,we infected $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice and their $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2$ Cre- littermates with $2 \\times 1 0 ^ { 6 }$ Listeria monocytogenes, which is detected by DNA sensors in other types of myeloid cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/74729ae978ce8869dfdd28105d901ce737729973d4306319af7baa05460724d9.jpg",
+        "img_caption": [
+            "Figure 1 Sox2 is expressed in neutrophils. (a)Expression of MPO and Sox2 (top right) in $\\mathsf { C D 1 1 b ^ { + } L y 6 G ^ { + } }$ neutrophils (gating at left) from wild-type (C57BL/6) mice,analyzed by flow cytometry (top);and RT-PCR analysis of Sox2 mRNA,assessed with two different primer sets (bottom left),and immunoblot analysis of Sox2 and $\\beta$ -actin (loading control)(bottom right),in wild-type mouse ES cells (mES)and various bone marrow subsets (above lanes). Numbers in quadrants (top) indicate percent cells in each throughout.Left lane (M)and margin (bottom left),molecular size markers, in base pairs (bp). (b) RT-PCR analysis of Sox2 mRNA in wild-type hematopoietic cells (mouse ES cells,Tcells,B cells,natural killer cells (NK),macrophages $( { \\mathsf { M } } \\Phi )$ ，dendritic cells (DC) andneutrophils (Neutr));results are presented relative to those of mouse ES cells,set as 1. (c)Immunoblot analysis (top)of Sox2,MPO, ",
+            "eosinophil peroxidase (EPX) and $\\beta \\cdot$ -actin in wild-type granulocytes(basophils(Baso),neutrophils(Neutr)and eosinophils(Eos);below,microscopy oftheell.(dmubotalsisfstoeHdoplasmic(ndclear(etractsfietroptd immunofluorescence staining of Sox2 and MPO in $\\mathsf { C D 1 1 b ^ { + } L y 6 G ^ { + } }$ neutrophils (right).Nucl, nucleus.(e) Microscopy of Sox2 and MPO in wild-type mouse BM.(f) Immunohistochemical staining of $\\mathsf { S o x } 2$ and MPO inwild-type louse BM.(g) Immunofluorescence staining of human Sox2 (hSox2)and MPO in human neutrophils;area outlined at left is enlarged $2 . 5 \\times$ at right. Scale bars, $5 ~ { \\mu \\mathrm { m } }$ (c,d,g) or $2 0 0 ~ { \\mu \\mathrm { m } }$ (e,f).Data are representative of at least three independent experiments (mean and s.d.in b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a b 11 28 BM C Blood d 40 4.5   \nSox2 +/+ -/- Sox24+ 32 工 I Sox2+/+ B   \nSox2 48 13 24 一 2.7   \nMPO 104 7 27 Nnee 16- 1.8   \nβ-actin 103 8 0.9 Sox2-- Sox2- 10² C BM 99 101 0 0 32 +1+ 100 34 2 2 2 办 100 10110²10 104 S0 S0 SoX SO CD11b £   \ne Sox2+/+ f ●Sox2+/+ a( ●Sox2+/+ h   \n(%) jnns 108060 40 Sox2- 4 “一 4- (r/hr) griim 20- 禁 \\*\\* 20 2 2 . 10- 1 0- 0 0 0 工 H 01 2 3 4 5 6 7 Mock + 1 + 1 + LM 二 + 二 + 1 + Time (d) TNF IL-6 IL-1β   \n！ ■Neutr   \n(ralr trri 250 □MΦ 8 \\* 1 08 042 k\\* 7 \\* (rllr teli li 150 门 \\*\\* 2482g \\* 200 \\* 工 工 120 工 150 90 100 60 H 50 30 工 工 0 0 DNA: C LM Y Y LM Y M M M ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "More $L$ 、monocytogenes-infected $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice died than their $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ littermate counterparts (Fig. 2e). Consistent with that, the bacterial load in the spleen and liver was 10,ooo-fold higher in $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice than in their $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ littermates (Fig.2f,g).Moreover, the concentration of proinflammatory cytokines such as tumor-necrosis factor(TNF),interleukin (IL-6) and $\\mathrm { I L } \\mathrm { - } 1 \\beta$ was two times lower in the serum of $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice than in that of their $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ littermates (Fig.2h). Various DNA sensors have been reported to initiate the generation of type I interferons in most cells of the innate immune systeml7.However, transfection of bacterial genomic DNA triggered the expression of onlyproinflammatory cytokines,not that of type Iinterferons,in neutrophils (Fig.2i). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because cGAS induces the production of type I interferons and other inflammatory cytokines via $\\mathrm { S T I N G ^ { 1 7 - 1 9 } }$ ,an adaptor for the cytoplasmic sensing of DNA,we investigated the requirement for cGAS and/or STING in the cytosolic recognition of DNA in neutrophils. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Neutrophils had low expression of STING and undetectable expression of cGAS (Fig.3a).In contrast，macrophages had high expression of STING and cGAS (Fig.3a).We found that after bacterial challenge, $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ macrophages and $S o x 2 ^ { \\mathrm { { f l } / f l } } L y z 2$ 1 ${ \\mathrm { C r e ^ { - } } }$ macrophages expressed similar levels of mRNA encoding type I interferons and cytokines such as TNF,IL-6 and IL- $\\cdot 1 \\beta$ (Fig. 3b), which suggested that Sox2-deficient macrophages responded normally to cytosolic DNA challenge.To further exclude the possibility of involvement of the cGAS-STING axis in DNA recognition in neutrophils,we used the genome-editing approach based on clustered regularly interspaced short palindromic repeats and the endonuclease Cas9 to achieve complete deletion of STING in neutrophils (Fig. 3c and Supplementary Fig.2c,d). Following transfection of $L$ ，monocytogenes genomic DNA,STING-deficient neutrophils and wild-type neutrophils expressed similar levels of mRNA encoding TNF, IL-6 and IL $\\cdot 1 \\beta$ (Fig.3d).Finally,after transfection of $L$ 、monocytogenes genomic DNA, IRF3 was not activated ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a b ■Sox2+/+ □Sox2-/-   \nSTING 1 T 1 川   \nTBK1   \nCGAS   \nTAB2 0 0 1 0   \nTAK1 DNA:o 1   \nβ-actin   \nC Ner 1 m 1 e Mockx2+ox2-S2+   \nTmem173+1+ + + 40 1 工 LMDNA + + IRF3 STING M + 一 M + M + Mongamer 二二 一 二 一 i LM DNA 1 + LM DNA 一 + LM DNA 1 + Neutr MΦ   \na ■Sox2+/+ □Sox2 b ■Sox2++□Sox2-/- 68  42 □ \\* \\* 302408 2 1 500- \\*\\* □ 1,200 \\* 250 \\* □ T 128 (u/6d) 9-71 960- T T (//bd)- 200 96 300- 720- 150 64 200 480- 100 32 100 240 50 L T 0 0 0 0 DNA: M 3 Mock LM LM Mock M LM N   \nC d 5 ■IgG e Sox2 FITC-100-mer Nucl Merge 100-mer (match) LM genome + Gpu 1 □ Anti-Sox2 100-mer (UM) 100-mer (UM) Lysate + + DNA 1 Sox2 ppt Input Sox2 0 工 100-mer 100-mer 100-mer (match) (match) (UM)   \nf DNA Sox2 Merge g DNA hSox2 Merge h ！ FL ■IgG □Anti-Flag △HMG △GBH Mock Mock △TAD1 LM LM O 54v \\* \\*[工 \\* [工 an neeeedit 120 200 △TAD2 國 0 40- 公 H S △TAD2 0 10 1001,000 Protein (nM)   \nicteeintrlua 605 24 1 25 0 5 5 \\* an neeeeecct 200   \n(a,b) RT-PCR analysis of mRNA 80 西 10   \nencoding proinflammatory 60   \ncytokines (a) and ELISA of those 40   \ncyto cytokines (b) in transfected for $S O X 2 ^ { \\mathsf { f l / f l } } L y Z 2 – \\mathsf { C r e ^ { + } }$ $6 \\mathfrak { h }$ $S O \\times 2 ^ { \\mathsf { f } 1 / \\mathsf { f } 1 } L y Z 2 – \\mathsf { C r e ^ { - } }$ (a)or neutrophils $1 6 \\mathrm { ~ h ~ }$ (b) （204号 100-mer: 0 UM Match H 20 0 工工工 UM Match I UM Match 工 F 400 1 10 100 1,000 .:⊥ AI A Biotin-100-mer ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "in $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ neutrophils,while it was activated in $S o x 2 ^ { \\mathrm { { f l / f l } } }$ $L y z 2 – \\mathrm { C r e ^ { - } }$ macrophages(Fig.3e).Thus,the Sox2-mediated activation of neutrophils was independent of STING or cGAS. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notably,we observed that neutrophils from $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { + } } : }$ mice and their $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ littermates expressed similar levels of mRNA encoding TNF, IL-6 and IL- $1 \\beta$ following stimulation of TLR2 with the synthetic lipopeptide $\\mathrm { P a m } _ { 3 } \\mathrm { C S K } _ { 4 }$ ,stimulation of TLR8 with single-strandedRNAor stimulation ofTLR4 with lipopolysaccharide (Supplementary Fig.2e-g). This suggested that Sox2-deficient neutrophils responded normally to TLR ligands.Collectively, these data suggested a critical role for Sox2 in neutrophil-mediated bacterial clearance that was independent of STING or cGAS. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sox2 recognizes intracellularbacterial DNAinneutrophils ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sox2 contains a DNA-binding motif and binds to well-defined DNA sequences29.To test the hypothesis that cytosolic Sox2 in neutrophils ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 Sox2 Nucl 80 1 二 华 1 -Trp Input ---TAB2 0 - - Sox2 TAK1   \nf g ■EV口Sox2(FL) Sox2(△SRD) h 8 = EV □TAB2(FL)   \n+++ TA 888 \\*工 C 8 \\* H + + + -619V+ 通i Sox2   \nInput TAB2 上 16 20 0 上 F ppt ]TAB2 H H Mock LM DNA Mock LM DNA Mock LM DNA Input ------- Sox2 0 Mock LM DNA ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "unmatched.ogedfdiotiloate)o lysatesitopiatifubotlssdeiaittiadst Sox2 or $\\mathsf { S o x } 2$ truncation mutants ucleotide matched DNA; below (Input), $10 \\%$ of samplesanaly toki nesin $S O X 2 ^ { \\mathsf { f l / f l } } L y Z 2 – \\mathsf { C r e ^ { + } }$ neutrophils transfected with length Sox2 or Sox2(△SRD). (h)Immunoblot TAB2 truncation mutants (above lar $\\mathsf { S o x } 2$ i) RT-PCR analysis of mRNA encodin $\\bar { T } a b \\bar { Z } ^ { - / - }$ vector orwith vector fortheexpr transfected with empty vector, set as 1. $^ { \\star } P < 0 . 0 1$ - $^ { \\star \\star } P < 0 . 0 0 1$ xperiments (meanands.d.ing,i). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "might sense bacterial DNA,we isolated neutrophils from $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2$ $\\mathrm { C r e ^ { - } }$ and $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice and transfected the cells with bacterial genomic DNA in vitro.Following transfection with genomic DNA from L.monocytogenes or Bartonella henselae, $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils produced four- to tenfold less TNF,IL-6 and IL- $1 \\beta$ (quantified as mRNA and protein) than did $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ neutrophils (Fig.4a,b).These results suggested that Sox2 was required for neutrophil activation following challenge with bacterial genomic DNA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Next we looked for Sox2-binding sequences in the L.monocytogenes genome with the alignment search tool BLAST.A large array of regions matched the canonical Sox2-binding sequence (Supplementary Fig.3a).We selected $3 0 ~ L$ 、monocytogenes DNA sequences that matched the Sox2-binding sequence (called‘matched' here) and one random sequence (called ‘unmatched' here) for further verification (Supplementary Fig.3b).Over $90 \\%$ of the matched sequences were able to bind to Sox2 (Supplementary Fig.3c).To investigate whether bacterial DNA can bind to Sox2 directly,we chose loo-nucleotide dsDNA regions of the L. monocytogenes genome containing the matched or unmatched sequences (Supplementary Fig.3d). In vitro,the matched dsDNA of the L. monocytogenes genome precipitated Sox2 from neutrophil lysates,whereas the unmatched dsDNA of the L. monocytogenes genome did not (Fig. 4c).Whole L.monocytogenes genomic DNA was similarly able to precipitate Sox2 from neutrophil lysates (Fig.4c).Following transfection of the 100-nucleotide matched and unmatched dsDNA into neutrophils, the matched dsDNAassociated with Sox2 in neutrophils and induced the production of TNF,IL-6 and IL- $1 \\beta$ ,while the unmatched dsDNA did not associate with Sox2 (Fig.4d and Supplementary Fig.3e). Notably, Sox2 localized together with bacterial DNA in mouse neutrophils following transfection of matched dsDNA or infection with L.monocytogenes (Fig.4e,f).Similarly,we observed colocalization of Sox2 and bacterial DNA in human neutrophils upon infection with L.monocytogenes (Fig.4g). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We also searched other bacterial genomes,such as those of Bartonella,Staphylococcusand Salmonella species,using thecanonical Sox2-binding sequence.We found that many DNA fragments that matched the Sox2-binding sequence existed in these bacterial genomes and bound to Sox2 (Supplementary Fig.3f-h). In contrast, unmatched DNA fragments used as negative controls were unable to bind Sox2 (Supplementary Fig.3f-h).When transfected into neutrophils,these matched DNA sequences induced the expression of proinflammatory cytokines (Supplementary Fig.3i-k),which suggested that Sox2 recognizes bacterial DNA in a sequence-specific manner.We also tested the effect of neutrophil-specific deletion of Sox2 on infection with vaccinia virus.Viral loads were similar in $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ and $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ mice following infection with this virus (SupplementaryFig.4a,b).We detected similar levels of type Iinterferon expression in vaccinia virus-infected $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 \\cdot$ ${ \\mathrm { C r e ^ { + } } }$ and $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ macrophages, while $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ and $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ neutrophils expressed very little interferon ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure6The Sox2dimeris required for activation of the TAB2-TAK1 complex. (a)Immunoblot analysis (IB)of Sox2 in neutrophils left unchallenged(-)or challenged with L.monocytogenes genomic DNA $( + )$ 5 assessed for proteins separated by native PAGE (top) or SDS-PAGE (bottom). (b)Immunoblot analysis of Sox2 in neutrophils left unchallenged(Mock) or challenged with 100-nucleotide matched or unmatched L.monocytogenes DNA.(c) GST-based precipitation assay of GSTalone or GST-tagged full-length Sox2 or Sox2 truncation mutants (above lanes) incubated with histidine-tagged Sox2);below, $10 \\%$ of the input analyzed without precipitation (loading control).(d) Gel filtration of recombinant full-length Sox2 or Sox2(△GBH).(e) Immunoblot analysis of Sox2 in $S O X 2 ^ { \\mathsf { f l / f l } } L y Z 2 – \\mathsf { C r e ^ { - } }$ and $S O X 2 ^ { \\mathsf { f l / f l } } L y Z 2 – \\mathsf { C r e ^ { + } }$ （204号 neutrophils transfected with empty vector or with vector for the expression of full-length Sox2 or Sox2(△GBH).(f,g) In vitro dimerization assay of GFP-TAK1 and mCherry-TAK1 extracted from HEK293T cells and incubated in the presence $( + )$ orabsence (-)of full-length Sox2 (f,g) or Sox2(△GBH) (g)and/or L.monocytogenes genomic DNA,assessed by confocal microscopy (f) and quantification of those results (g).Scale bars (f), $1 0 \\mu \\mathrm { m }$ (h)In vitro kinase assay of the IKK complex and $\\mathsf { I } \\kappa \\mathsf { B } \\alpha$ incubated for $1 \\mathfrak { h }$ with various combinations(above lanes) of L.monocytogenes genomic DNA,full-length Sox2,Sox2(△GBH), Sox2(△SRD),full-length TAB2,TAB2(△546-619), full-length TAK1 and/or TAK1 lacking kinase activity (TAK1(K63W)),assessing phosphorylated (p-)and total lkBα (top);below (input),analysis of Sox2,TAB2 and TAK1. (i,j) Immunoblot analysis of phosphorylated and/or total IKK, IkBα,p38,Jnk and full-length Sox2 or ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a B Moreomer b Anti-Sox Miomomer GST F4 -1sT8x2 X 10011 151719 Some Hmmer   \nSox2 Anti-Sox2 Input- His-Sox2 Volume (ml)   \ne f g-LM DNA-S0x2(FL) GFP-TAK1 mCherry-TAK1 Merge □-LM DNA+Sox2(FL) EV + +LMDNA-Sox2(FL）   \nFlag-Sox2(FL) + +Sox2(FL) ■+LM DNA+SoX2(△GBH)   \nFlag-Sox(AG A b bs Dimermer-L DNA 0450560 ”   \nIB: anti-Flag b8 Monomer +LM DNA Dimer +Sox2(FL)   \nh LM DNA 1 H   \nSox2(FL) Sox2 ■Vector   \nSOX(ASFD) + LMDNA(h) 01234 01234 01234 Sox2(AGBH)   \nTAB2(△534-619) p-IKK = 二 \\*\\*   \nTAK10T + + IKKβ 万858 1 1 IkBα p-p38   \np-lkBα Kinase p38   \nIkBα assay p-Jnk ===s   \nSox2[ Jnk ssssssssssss   \nTAB2C Input S(x2(FL) \\* (le tri i 75   \nTAK1 一 β-actin 60 工 45   \nk 100-mer (mMtch) siCtrl siSOX2 150- siSox2 > \\* 3015   \n100-mer (UM) wrssde tru 120- 0 P-IK 二 （(ele) 90- □ \\* \\*\\* IxBα 601 (rrgiele 50 口 p-p38 30- 40 p38 30 p-Jnk Mock + MANAA 20 Jnk 二 100-mer (match) + + + 10 hSox2 100-mer (UM) + 一 一 + X q 0 β-actin - Tnf 116 I1b Mock LM DNA ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "following such infection (Supplementary Fig.4c,d).Following infection with vaccinia virus, $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { - } } }$ and $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils did not express Tnf,Il6 or $I l I b$ (Supplementary Fig.4e)and did not phosphorylate the kinases Jnk, p38 and IKK (Supplementary Fig.4f),which suggested a predominant role for macrophages,but not neutrophils,in the response to infection with vaccinia virus. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To map the Sox2 region that interacts with bacterial DNA,we transfected wild-type neutrophils to express Flag-tagged Sox2 mutants lacking various domains (Supplementary Fig.4g) together with matched1o0-nucleotide dsDNA.Deletionof theHMG domain completely abolished the binding of Sox2 to the matched dsDNA, whereas Sox2 with any other mutant domain had a binding affinity similar to that of full-length Sox2(Fig.4h).We obtained similar results by an amplified luminescent-proximity homogeneous assay to assess the interaction between two molecules (Fig.4i).Transfection of $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils to express Sox2 lacking the HMG domain failed to induce the expression of Tnf, Il6 or Il1b following challenge with bacterial DNA,whereas transfection of these cells to express full-length Sox2 significantly induced the expression of Tnf,Il6 and Il1b (Fig.4j),which suggested that Sox2 sensed intracellular bacterial DNA in neutrophils through its HMG domain Overall, these results indicated that Sox2 sensed bacterial DNA in neutrophils in a sequence-specific manner. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sox2 associates with TAB2 upon bacterial infection ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To define the molecular mechanism by which Sox2 senses DNA in neutrophils,we screened a mouse BM cDNA library using Sox2 as a bait,through a yeast-two hybrid approach.This identified TAB2 as an interacting protein (Fig. 5a).Of 35 positive clones, 23 were identified as TAB2 (Supplementary Fig.5a). The direct interaction between Sox2 and TAB2 was very weak in in vitro precipitationassays (Fig.5b).However,the additionofL.monocytogenes DNA substantially enhanced the association of Sox2 with TAB2 (Fig.5b).The other candidate proteins identified in the yeast-two hybrid screen showed no interactionwith Sox2 in neutrophils transfected to express these proteins (data not shown).We confirmed those observations by immunostaining (Fig.5c).Notably,when transfected withL.monocytogenes DNA,Sox2 associated with TAB2 and TAK1 in ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\*LH \\* ” \\* 3K7 c(Eu 70564228 \\*工 工 S \\*\\*三三0.25 工 工 0.25 I Tqa 0.25 1 0.25 工 0.25 工 pB8 140- shCtrl enSox2 ho 0- 0 shC CtTrat6 0- hcmTab1 01 rie02 h 0- P p38 1shd Sox2+/+ Sox2- e WT Myd88-/-Map3k7-- fLM DNA (h) 0123401234 LMDNA(h)012340123401234 ■WT口Myd88-/-Map3k7-/- 0营 4032416 \\*\\*= 1 5 24 工8P 0工 6 T工 16 F 工工工 GiapSox2 ----- TAK1 i！ M x DN NA MoCK D V Mo oCK DNAβ-actin ----- β-actin LM LM LM",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "neutrophils ina co-immunoprecipitation assay(Fig.5d).Inaddition, following the incubation of the 1oo-nucleotide matched or unmatched dsDNA from L. monocytogenes with lysates of wild-type neutrophils, the matched bacterial dsDNA co-precipitated a complex of Sox2, TAB2 and TAK1,while the unmatched bacterial dsDNA failed to precipitate this complex(Fig.5e).These data suggested that Sox2 associated with the TAB2-TAK1 complex upon stimulation of neutrophils with bacterial DNA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next mapped the domain of Sox2 used for interaction with TAB2.We incubated recombinant Sox2 mutants and TAB2 together for in vitro precipitation assays and found that the SRD domain of Sox2 was necessary for the interaction with TAB2(Fig.5f).Transfection of $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils to express the Sox2 mutant lacking the SRD domain (Sox2(△SRD)) did not induce the expression of mRNA encoding proinflammatory cytokines after transfection of L.monocytogenes DNA,whereas transfection of these cells to express full-length Sox2 did (Fig.5g).We incubated recombinant TAB2 and its truncation mutants (Supplementary Fig.6a) together with recombinant Sox2,followed by in vitro precipitation assays.We observed that TAB2 lacking residues 534-619(TAB2(△534-619)) did not bind Sox2 (Fig.5h) and did not restore the expression of mRNA encoding proinflammatory cytokines when overexpressed in $T a b 2 ^ { - / - }$ neutrophils transfected with L.monocytogenes genomic DNA (Fig.5i), in contrast to overexpression of full-length TAB2,which did ‘rescue' these effects (Fig.5h,i).However,TAB2(△534-619)interacted with TAK1 (Supplementary Fig.6b),which suggested that this particular domain of TAB2 (residues 534-619)was required only for interaction with Sox2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sox2 is known to control the expression of various sets of genes in the cells in which it functions as a transcription factor. The expression of these target genes was not lost in Sox2-deficient neutrophils (Supplementary Fig.6c),which suggested that Sox2 did notfunction as a transcription factor in the neutrophils.Notably, trans fection of L. monocytogenes genomic DNA did not cause translocation of Sox2 into the nucleus in neutrophils (Supplementary Fig.6d). These results suggested that the association of Sox2 with the TAB2-TAK1 complex had a role in the cytokine response to bacterial infection that was independent of its transcriptional activity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Activation of the TAB2-TAK1 complex requires Sox2 dimerization Non-reducing electrophoresis indicated that Sox2 existed as a monomer and a dimer in neutrophils(Fig.6a)and that transfection of L.monocytogenes genomic DNA augmented formation of the Sox2 dimer (Fig.6a).In addition,the 1o0-nucleotide matched DNA triggered more dimerization of Sox2 than that in untransfected neutrophils,while the unmatched DNA did not (Fig.6b).Analysis of various truncation mutants of Sox2 revealed that the GBHdomain was necessary for the dimerization of Sox2 in an in vitro precipitation assay(Fig.6c),and,in contrast to full-length Sox2,a Sox2 mutant lacking the GBH domain $( \\mathrm { S o x } 2 ( \\Delta \\mathrm { G B H } ) )$ did not form dimers,as assessed by gel-filtration chromatography(Fig.6d).When transfected into $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils, $\\mathrm { S o x } 2 ( \\Delta \\mathrm { G B H } )$ did not form dimers, whereas full-length Sox2did(Fig.6e).These results indicated that the GBHdomain was required for Sox2 dimerization. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To determine whether Sox2dimerization induces TAK1 activation upon stimulation with DNA,we transfected HEK293T human embryonic kidney cells to express TAK1 tagged with green fluorescent protein (GFP)or the red fluorescent protein mCherry and incubated supernatants of lysates of these cells with full-length Sox2 in the presence of L.monocytogenes genomic DNA (Supplementary Fig. 6e). By confocal microscopy, we found that full-length Sox2 induced the association ofGFP-tagged TAK1 with mCherry-tagged TAK1 in the presence of bacterial DNA (Fig.6f).However, even in the presence of genomic DNA, Sox2(△GBH) did not induce the co-localization ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b C d e f (r/br rrir 0000 △534-619 中 \\*\\*\\* \\*\\* (%) (eniuns 100806040 -- △534-619 业 △534-619 常貴 电 △534-619 (r/hr) lrliiih 80644832 △534-619 工 中 β-actin C 200 H 201 常 160 H LM DNA Mock + -+ + -+ + 1+ 0123456 Mock LM + -+ + -+ + + 一 TNF IL-6 IL-1β Time (d) TNF IL-6 IL-1β g h TAK1WT i ●TAK1WT j ●TAK1WT k ■TAK1WT Figure 8 TAB2 and TAK1 are required .--- TAK1-nKO ■TAK1-nKO ■TAK1-nKO □TAK1-nKO for Sox2-mediated antibacterial immunity.(a) Immunoblot analysis TAK1 WTnKO 888 中 8 8 \\*\\*\\* of TAB2 in mouse HSCs:control wild-type cells transfected with empty 4 \\*\\* vector (EV),TAB2-deficient cells (KO) \\* and cells lackingamino acids 534-619 of 0 TAB2 (△534-619). (b) ELISA of proinflammatory 01 234567 Mock + + cytokines in neutrophils as in a $1 6 \\mathrm { ~ h ~ }$ after mock transfection Time (d) LM TN IL-6ILor transfection of L.monocytogenes genomic DNA. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "of GFP-tagged TAK1 and mCherry-tagged TAK1 (Fig. 6g),which suggested that Sox2 dimerization was required for the formation of TAK1 dimers upon bacterial infection. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The NF- $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ inhibitor $\\mathrm { I } \\kappa \\mathrm { B } \\alpha$ is a downstream target of TAK1.IkBα was phosphorylated only in the presence of full-length Sox2,TAB2 and TAKl as well as $L$ .monocytogenes DNA,while $\\mathrm { S o x } 2 ( \\Delta \\mathrm { G B H } )$ ， Sox2(△SRD),TAB2(△534-619) or mutant TAK1 lacking kinase activity failed to phosphorylate IkBα even in the presence of bacterial DNA(Fig.6h),which indicated that dimerization of Sox2 and formation of the TAB2-TAK1 complex were required for the phosphorylation of $\\mathbf { I } \\kappa \\mathbf { B } \\mathbf { \\alpha }$ . In contrast to $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils transfected to express Sox2, $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils transfected to express $\\operatorname { S o x } 2 ( \\Delta \\mathrm { G B H } )$ did not activate the NF- $\\boldsymbol { \\kappa } \\mathrm { B }$ and AP-1 signaling pathways following transfection with L. monocytogenes genomic DNA(Fig.6i) and did not induce the expression of mRNA encodingproinflammatory cytokines (Fig.6j),which indicated that Sox2 dimerization was needed to activate the TAB2-TAK1 complex for neutrophil activation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We next silenced Sox2 in human peripheral neutrophils through the use of small interfering RNA (siRNA).Transfection of the 100-nucleotide matched DNA,but not of unmatched DNA,induced the activation ofNF- $\\boldsymbol { \\kappa } \\mathrm { B }$ andAP-1 pathways in human neutrophilstreated with nontargeting control siRNA with a scrambled sequence but not in human neutrophils in which Sox2 expression had been knocked down by Sox2-specific siRNA (Fig.6k).Consequently, human neutrophils treated with control siRNA expressed mRNA encoding proinflammatory cytokines after transfection of matched DNA but not after transfection of unmatched DNA,while silencing of SOX2 suppressed cytokine expression in these cells (Fig.6l), which indicated that Sox2-mediated activation of neutrophils was also linked to the clearance of microbes in humans.Together these results indicated that Sox2 triggered activation of the TAB2-TAK1 complex in neutrophils upon stimulation with bacterial DNA. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Sox2 acts upstream of the TAB2-TAK1 axis in neutrophils ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To further determine the physiological role of Sox2 in neutrophils we silenced genes encoding major molecules upstream of the NF- $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ and AP-1 pathways through the use of short hairpin RNA (shRNA) (Fig.7a).Two shRNAs directed against each individual gene displayed similar knockdown efficiency (data not shown).Knockdown of TAB2 or TAK1 in neutrophils impaired activation of the NF- $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ and AP-1 signaling pathways after transfection of L.monocytogenes genomic DNA,as determined by immunoblot analysis,while knockdown of the adaptors MyD88 or TRAF6 or TAB1 had no effect(Fig.7b). Moreover,knockdown of TAB2 or TAK1 abolished the expression of mRNA encoding proinflammatory cytokines following transfection of neutrophils with L.monocytogenes DNA,while knockdown of MyD88,TRAF6 or TAB1 had no effect on this expression (Fig.7c). Consistent with that,activation of the NF $\\kappa \\mathrm { B }$ and AP-1 pathways following transfection of $L$ .monocytogenes genomic DNA was lost in $S o x 2 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ neutrophils,in contrast to their activation in $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2$ -Creneutrophils transfected similarly(Fig.7d).Activation ofNF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ and AP-1 following transfection of $\\dot { \\boldsymbol { L } }$ .monocytogenes genomic DNA was normal in $M y d 8 8 ^ { - / - }$ neutrophils but was lost in TAK1- deficient $( M a p 3 k 7 ^ { - / - } )$ neutrophils (Fig.7e). Consequently, $M y d 8 8 ^ { - / - }$ neutrophils had normal expression of mRNA encoding proinflammatory cytokines comparable to that of wild-type neutrophils,while cytokine production in $M a p 3 k 7 ^ { - / - }$ neutrophils was impaired (Fig.7f). These data suggested that Sox2 initiated the activation of signaling viaNF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ and AP-1 upstream of TAB2 and TAK1 upon bacterial challenge in neutrophils. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "TAB2or TAK1 deficiency impairs Sox2-mediated immunity We next investigated the physiological role of the TAB2-TAK1 complex in Sox2-mediated bacterial infection.Using the genomeediting approach noted above (Fig.3c and Supplementary Fig.2c,d), we generated mouse HSCs lacking TAB2 due to deletion of exon 3 of Tab2 or lackingamino acids 534-619 of TAB2 due to deletion of exons 4 and 5of Tab2(Fig.8a and Supplementary Fig.7a-d) and adoptively transferred them into lethally irradiated wild-type mice to generate TAB2-deficient BMchimeras and TAB2(△534-619) BM chimeras,respectively. In contrast to neutrophils from wild-type mice,neutrophils from the TAB2-deficient and TAB2(△534-619) chimeras did not produce TNF, IL-6 or IL- $1 \\beta$ following transfection of L. monocytogenes genomic DNA (Fig. 8b). TAB2-deficient and TAB2(△534-619) chimeras underwent more death following infection with L.monocytogenes than did their wild-type counterparts (Fig.8c), and this corresponded to a higher bacterial load in the spleen and liverof the TAB2-deficientand TAB2(△534-619) chimeras thanin that of the wild-type mice (Fig.8d,e).The production of proinflam matorycytokines byperipheral neutrophils from TAB2-deficientand TAB2(△534-619) chimeras ex vivo was significantly lower than that of their wild-type counterparts (Fig.8f). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We also generated mice with neutrophil-specific deletion of TAK1 by crossing $M a p 3 k 7 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } }$ mice with Lyz2-Cre mice (Fig.8g).More of the resultant $M a p 3 k 7 ^ { \\mathrm { { f l } / \\mathrm { { f l } } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ mice than their $M a p 3 k 7 ^ { \\mathrm { f l / f l } } L y z 2$ 1 $\\mathrm { C r e ^ { - } }$ littermates died after challenge with L.monocytogenes (Fig. 8h); the $M a p 3 k 7 ^ { \\mathrm { f l / f l } } L y z 2 – \\mathrm { C r e ^ { + } }$ mice also had a higher bacterial load in the spleen and liver(Fig.8i,j) and less secretion of proinflamma tory cytokines from peripheral neutrophils (Fig.8k).Together these data indicated that TAB2 and TAK1 were required for Sox2-mediated antibacterial clearance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The recognition of cytosolic DNA is important for the detection of pathogens and the induction of host antimicrobial responses. Here we have demonstrated a previously unrecognized function for Sox2 as a cytosolic DNA sensor with a critical role in priming innate immune responses to bacterial infection in neutrophils.Sox2 localized to the cytoplasm of neutrophils and recognized microbial DNA through its HMG domain.Neutrophil-specific Sox2 deficiency exacerbated bacterial infection.Upon challenge with bacterial DNA, Sox2 dimerization was needed to activate the TAB2-TAK1 complex leading to activation of NF-kB and AP-1 signaling cascades in neutrophils. TAB2 or TAK1 deficiency impairs Sox2-mediated antibacterial immunity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We selected a model of infection with L.monocytogenes to investigate the recognition of DNA by Sox2 in neutrophils because L.monocytogenes can be ingested by phagocytosis and cleared by neutrophils30.Other bacteria,such as Bartonella,Staphylococcus and Salmonella,have Sox2-binding sequences in their genomes that can also be recognized by Sox2 to activate neutrophils for the clearance of microbes.However,whether neutrophils are linked to the clearance of infection with these bacteria remains controversial.Neutrophils have been reported to be dispensable for the clearance of L. monocytogenes31. In that study, the neutrophil-depleting antibody 1A8 was injected at the time of or after infection with L.monocytogenes31.Thus,it remains possible that neutrophils were still required very early during infection.When we depleted mice of neutrophils by injecting antibody 1A8 for1 week before infection withL.monocytogenes,we observed that depletion of neutrophils rendered mice more susceptible to infection with L.monocytogenes (data not shown),which suggested a role for neutrophils in the clearance ofL.monocytogenes.This discrepancy mighthave been caused by differences in the experimental strategies used and needs to be investigated further. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition to its canonical localization to the nucleus,Sox2 is also found in the cytoplasm of zygotes before implantation25,28.Given that ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sox2 has two nuclear-localization signals,Sox2 may shuttle between these subcellular compartments of ES cells through the use of these two signals.Overexpression of mutant Sox2 lacking these two signals causes the differentiation of ES cells into the trophectoderm lineage32, which suggests that shuttling of Sox2 between the nucleus and cytoplasm is critical for maintaining stem cell pluripotency. However, no studies so far have reported the expression pattern and physiological roles of Sox2 in differentiated cells.Here we found expression of Sox2 in the cytoplasm of neutrophils.These data suggested that binding of bacterial DNA to Sox2 may trigger a conformational change in Sox2 that results in dimer formation.On the basis of structural analysis of the caspase-inhibitory BIR1 domain of the apoptosis inhibitor XIAP and the BIR1-TAB1 complex, the BIR1 dimer interacts with TAB1, which then recruits TAK1 into proximity for TAKl activation33. Disruption of BIR1 dimerization abrogates the activation of TAK1, which results in inactivation of the XIAP-mediated NF $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ pathway. Therefore,the butterfly-shaped dimer model formed by the BIR1- TAB1-TAK1 complex might be suitable for the activation of TAK1 induced by Sox2 dimerization in neutrophils. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Various cytosolic DNA sensors have been identified so farl8.These DNA-binding proteins recognize bacterial or viral DNA to prime the production of inflammatory cytokines and type I interferons10. DNA sensors such as IFI16 and DDX41 activate STING for NF- $\\kappa \\mathrm { B }$ activation and interferon transcription15,16.DAI interacts with IRF3 and TBK1 after challenge with DNA and initiates innate immune responses to pathogenic infectionl3.AIM2 together with ASC forms inflammasomes after recognizing dsDNA12.Notably, IFI16 has also been reported to bind to ASC to promote inflammasome activation under certain circumstances34. Most of the known DNA sensors use the STING-TBK1 pathway or inflammasome signaling to trigger innate immune responses.Additionally, Sox2 is uniquely expressed in the cytoplasm of neutrophils and recognizes bacterial DNA in a sequence-specific manner.For a host,sequence-specific recognition for foreign pathogens might necessitate the distinct recognition of self and non-self to adequately eradicate invading threats while avoiding damage to the host cells.Thus,Sox2 functions as a DNA sensor that is specific for the cell type and DNA sequence,which suggests a pivotal role for Sox2 in the distinct recognition of pathogens. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TAK1 and its activator TABl participate in the regulation of Wnt and TGF- $\\cdot \\beta$ pathways35,36.It has been reported that TAK1 interacts with TAB2 and has an essential role in the NF- $\\mathbf { \\kappa } _ { \\kappa \\mathrm { B } }$ pathway downstream of IL-1 receptor and TLR pathways37.Upon stimulation with IL-1 or lipopolysaccharide,adaptors such as MyD88,TRAF6, TAB2 and TAK1 are recruited to the Toll-IL-1 receptor homology cytoplasmic domain of these receptors38.TAB2 binds Lys63-linked ubiquitin chains through its ubiquitin-binding NZF domain to initiate oligomerization or dimerization of TAKl,which leads to the activation of NF $\\mathbf { \\nabla \\kappa } \\kappa \\mathbf { B }$ and AP-1 signaling pathways.MyD88 acts asa central adaptor shared by almost TLRs.The interaction of TLRsand MyD88 recruits members of the IRAK family of kinases, which results in activation of TRAF6.TRAF6 in turn activates TAK1 in a ubiquitin-dependent fashion35.In this study,we found that MyD88-mediated TAK1 activation was not involved in the initiation of the Sox2-mediated NF- $\\boldsymbol { \\kappa } \\mathrm { B }$ and AP-1 signaling. In contrast,bacterial DNA triggered Sox2 dimerization via its GBH domain to activate the TAB2-TAK1 complex,which resulted in the initiation of signaling via NF- $\\boldsymbol { \\kappa } \\mathrm { B }$ and AP-1 for neutrophil activation.Thus,our findings have revealeda previouslyunknown activation pathway in neutrophils and may provide potential therapeutic strategies to augment the innate immunity of neutrophils for the treatment of infectious diseases. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Methods and any associated references are available in the online version of the paper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Note:Any Supplementary Information and SourceData filesare available in the onlineversionof thepaper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thank J.Hao,J. Jia and Y.Teng for technical support. Supported by the National Natural Science Foundation of China (91419308,81330047 and 31300645),the 973 Program of the MOST of China (2010CB911902 and 2015CB533705)and the Strategic Priority Research Programs of the Chinese Academy of Sciences (XDA01010407). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "P.X.designed and performed experiments,analyzed data and wrote the paper; S.W. performed experiments and analyzed data; B.Y.and Y.D.analyzed data; G.H.and P.Z. performed experiments; and Z.F.initiated the study,and organized, designed and wrote the paper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "COMPETINGFINANCIALINTERESTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interests ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permissions information is available online at http://www.nature.com/ reprints/index.html. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1．Amulic,B.，Cazalet,C.，Hayes,G.L.，Metzler,K.D.& Zychlinsky，A.Neutrophil function:from mechanisms to disease.Annu.Rev.Immunol.30，459-489 (2012).   \n2．Mantovani，A.，Cassatella，M.A.，Costantini,C.& Jaillon，S.Neutrophils in the activation and regulation of innate and adaptive immunity. Nat. Rev. Immunol.11, 519-531 (2011).   \n3．Ajibade,A.A.et al.TAK1 negatively regulates NF-kB and p38 MAP kinase activation in $\\mathsf { G r - 1 ^ { + } C D 1 1 b ^ { + } }$ neutrophils.Immunity 36,43-54 (2012).   \n4．Jaeger，B.N.et al.Neutrophil depletion impairs natural killer cell maturation, function，and homeostasis.J.Exp.Med.209,565-580 (2012).   \n5．Nauseef,W.M.& Borregaard,N.Neutrophils at work.Nat.Immunol.15,602-611 (2014).   \n6．Scapini, P.et al.The neutrophil as a cellular source of chemokines.Immunol. Rev. 177,195-203 (2000).   \n7．Janeway, C.A.Jr.& Medzhitov,R.Innate immune recognition.Annu.Rev.Immunol. 20,197-216 (2002).   \n8．Akira,S.,Uematsu,S.& Takeuchi,O.Pathogen recognition and innate immunity. Cell124,783-801 (2006).   \n9．Keating，S.E.，Baran，M.& Bowie,A.G.Cytosolic DNA sensors regulating type l interferon induction. Trends Immunol.32,574-581 (2011).   \n10.Wu,J.& Chen,Z.J.Innate immune sensing and signaling of cytosolic nucleic acids. Annu.Rev. Immunol.32,461-488 (2014).   \n11.Bauer，M.et al. Bacterial CpG-DNA triggers activation and maturation of human CD11c-, ${ \\tt C D 1 2 3 ^ { + } }$ dendritic cells.J. Immunol.166,5000-5007 (2001).   \n12.Hornung，V.et al.AlM2 recognizes cytosolic dsDNA and forms a caspase-1- activating inflammasome with ASC.Nature 458,514-518 (2009).   \n13.Takaoka,A.etal.DAl (DLM-1/ZBPl) isa cytosolic DNA sensor and an activator ofinnate immune response.Nature 448,501-505 (2007).   \n14.Ishii，K.J.et al.TANK-binding kinase-1 delineates innate and adaptive immune responses to DNA vaccines.Nature 451,725-729 (2008).   \n15.Unterholzner,L.et al. IFl16 is an innate immune sensor for intracellular DNA. Nat.Immunol.11, 997-1004 (2010).   \n16.Zhang,Z.et al.The helicase DDX41 senses intracellular DNA mediated by the adaptor STING in dendritic cells.Nat. Immunol.12,959-965 (2011).   \n17.LiX.D.et al. Pivotal roles of cGAS-cGAMP signaling inantiviral defense and immune adjuvant effects. Science 341,1390-1394 (2013).   \n18.Sun，L.,Wu,J.，Du,F.，Chen，X.& Chen，Z.J.Cyclic GMP-AMP synthase is a cytosolic DNA sensor that activates the type 丨 interferon pathway.Science 339,   \n786-791 (2013).   \n19.Wu,J.et al.Cyclic GMP-AMP is an endogenous second messenger in innate immune signaling by cytosolic DNA.Science 339,826-830 (2013).   \n20.Sarkar，A.& Hochedlinger，K.The sox family oftranscription factors: versatile regulators of stem and progenitor cell fate.Cell Stem Cell12，15-30 (2013).   \n21.Arnold,K. et al. ${ \\mathsf { S o x } } { 2 } ^ { + }$ adult stem and progenitor cells are important for tissue regeneration and survival of mice.Cell Stem Cel/9,317-329 (2011).   \n22.Tsuruzoe,S.et al.Inhibition of DNA binding of Sox2 by the SUMO conjugation. Biochem.Biophys.Res.Commun.351,920-926 (2006).   \n23.Lefebvre,V., Dumitriu,B.,Penzo-Mendez,A.,Han,Y.& Pallavi,B.Control of cell fate and differentiation by Sry-related high-mobility-group box(Sox) transcription factors.Int.J.Biochem.Cell Biol.39,2195-2214 (2007).   \n24.Schepers,G..Teasdale,R..&Koopman,P.Twentypairsofsox:extent,mlogy and nomenclature of the mouse and human sox transcription factor gene families. Dev. Cel3,167-170 (2002).   \n25.Avilion,A.A.et al. Multipotent cell lineages in early mouse development depend on SOX2 function.Genes Dev.17,126-140 (2003).   \n26.Yamanaka,S.Induced pluripotent stem cells: past，present,and future.Cel Stem Cell 10,678-684 (2012).   \n27.Ishii，K.J.et al.A Toll-like receptor-independent antiviral response induced by double-stranded B-form DNA.Nat. Immunol.7,4O-48 (2006).   \n28.Wang,S.et al.Transient activation of autophagy via Sox2-mediated suppression of mTOR is an important early step in reprogramming to pluripotency.Celi Stem Cell   \n13,617-625 (2013).   \n29.Chen,X.et al.Integration of external signaling pathways with the core transcriptional network in embryonic stem cells.Ce//133,1106-1117 (2008).   \n30.Liu,M.et al.Formylpeptide receptors are critical for rapid neutrophil mobilization in host defense against Listeria monocytogenes.Sci. Rep.2，786 (2012).   \n31. Shi, C. et al. $\\mathsf { L y 6 G ^ { + } }$ neutrophils are dispensable for defense against systemic Listeria monocytogenes infection. J. Immunol.187,5293-5298 (2011).   \n32.Li，J.et al.A dominant-negative form of mouse SOX2 induces trophectoderm differentiation and progressive polyploidy in mouse embryonic stem cells.J.Biol. Chem.282，19481-19492 (2007).   \n33.Lu，M.et al.XIAP induces NF- $\\cdot \\kappa \\mathsf { B }$ activation via the BIR1/TABl interaction and BIR1 dimerization. Mol. Cel/ 26,689-702 (2007).   \n34.Kerur,N.et al.IFll6 acts as a nuclear pathogen sensor to induce the inflammasome in response to Kaposi sarcoma-associated herpesvirus infection.Cell Host Microbe   \n9,363-375 (2011).   \n35.Chen,Z.J.Ubiquitination in signaling to and activation of IKK.Immunol. Rev.246,   \n95-106 (2012).   \n36.Kanei-lshii,C.et al.Wnt-1 signal induces phosphorylation and degradation of c-Myb protein via TAK1,HIPK2,and NLK.Genes Dev.18,816-829 (2004).   \n37.Chen,Z.J. Ubiquitin signalling in the NF-kB pathway. Nat. Cell Biol.7,758-765 (2005).   \n38.Kawai，T.& Akira，S.Toll-like receptors and their crosstalk with other innate receptors in infection and immunity. Immunity 34,637-650 (2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ONLINEMETHODS",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cell culture and transfection.Mouse neutrophils were sorted from BM or peripheral blood and were cultured in Iscove's modified Dulbecco’s medium (IMDM) containing $4 \\mathrm { m M }$ L-glutamine, $1 . 5 \\ : \\mathrm { g } / 1$ sodium bicarbonate and $1 0 \\%$ heat-inactivated FBS.Mouse promyleocyte cells were cultured in IMDM containing $4 ~ \\mathrm { m M }$ L-glutamine, $1 . 5 ~ \\mathrm { g } / 1$ sodium bicarbonate, $1 0 ~ \\mathrm { { n g / m l } }$ mouse granulocyte-macrophage colony-stimulating factor and $2 0 \\%$ heat-inactivated horse serum.For neutrophil differentiation,mouse promyleocyte cells were incubated for $3 \\mathrm { ~ d ~ }$ with $1 0 ~ \\mu \\mathrm { M }$ all-trans retinoic acid (ATRA) with replacement of the IMDM described above.Mouse ES cells were cultured in DMEM containing $1 5 \\%$ FBS, $2 \\mathrm { m M }$ L-glutamine, $0 . 1 \\mathrm { m M }$ 2-mercaptoethanol, $1 \\mathrm { m M }$ nucleotide, $0 . 1 ~ \\mathrm { m M }$ non-essential amino acid and 1,ooo units per ml mouse leukemia inhibitory factor.Human ES celline H1 cells were grown in DMEM (F12）medium supplemented with $2 0 \\%$ FBS, $2 ~ \\mathrm { m M }$ L-glutamine, $0 . 1 ~ \\mathrm { m M }$ non-essential amino acid, $0 . 1 ~ \\mathrm { m M }$ 2-mercaptoethanol and $4 ~ \\mathrm { n g / m l }$ human fibroblast growth factor2. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For neutrophil transfection,neutrophils $( 1 \\times 1 0 ^ { 7 } .$ ）were resuspended in $1 0 0 ~ \\mu \\mathrm { l }$ Nucleofector Solution buffer(Lonza) containing $5 ~ { \\mu \\mathrm { g } }$ DNA or other substrates,followed by transfection with Nucleofector Program Y-001 on an Amaxa nucleofector II device (Lonza).Cells were recovered by incubation for $^ { 6 \\mathrm { ~ h ~ } }$ in IMDM containing $4 ~ \\mathrm { m M }$ L-glutamine, $1 . 5 ~ \\mathrm { g } / 1$ sodium bicarbonate and $1 0 \\%$ heat-inactivated FBS,followed by sorting for viable cells by flow cytometry. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Neutrophil fractionation.Neutrophils sorted from mouse BM were resuspended for $5 ~ \\mathrm { m i n }$ in cytoplasm-extraction buffer containing $1 0 ~ \\mathrm { m M }$ HEPES, $6 0 ~ \\mathrm { m M }$ KCl, $1 ~ \\mathrm { m M }$ EDTA, $1 ~ \\mathrm { m M }$ DTT, $1 ~ \\mathrm { m M }$ PMSF and $0 . 0 7 5 \\%$ (vol/vol) NP-40, $\\mathrm { p H } ~ 7 . 6$ ，and supernatants were collected as cytoplasmic fractions by centrifugation.Pellets were resuspended for $1 0 ~ \\mathrm { m i n }$ on ice in nuclear extract buffer containing $2 0 ~ \\mathrm { m M }$ Tris-HCl,400 mMNaCl, $1 . 5 ~ \\mathrm { m M }$ $\\mathrm { \\ M g C l } _ { 2 }$ $0 . 2 ~ \\mathrm { m M }$ EDTA, $1 ~ \\mathrm { m M }$ PMSF and $2 5 \\%$ (vol/vol） glycerol, $\\mathrm { \\ p H \\ 8 . 0 }$ Supernatants were collected by centrifugation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mice. $S o x 2 ^ { \\mathrm { { f l / f l } } }$ mice were from Jackson Laboratory. $M a p 3 k 7 ^ { \\mathrm { f l / f l } }$ $M y d 8 8 ^ { \\mathrm { f l / f l } }$ and Lyz2-Cre mice were from Nanjing Biomedical Research Institute. $S o x 2 ^ { f l / f l }$ $M a p 3 k 7 ^ { \\mathrm { f l / f l } }$ ,and $M y d 8 8 ^ { \\mathrm { f l / f l } }$ mice were bred with Lyz2-Cre mice to generate $S o x 2 ^ { \\mathrm { { f l / f l } } } L y z 2 – \\mathrm { { C r e ^ { + } } }$ ,Map3k7fl/flLyz2-Cre+and Myd88fl/fl Lyz2-Cre+mice.All the mice were on the C57BL/6 background and were maintained under specific pathogen-free conditions with approval by the institutional committee ofInstitute of Biophysics,Chinese Academy of Sciences. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Antibodies.Antibody information is provided in Supplementary Figure 5b. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry.Mice were killed and cells were obtained from the femur or peripheral blood.Cells were sifted through $5 0 \\mathrm { - } \\mu \\mathrm { m }$ cell strainers after removal of red blood cells,followed by staining with fluorescence-conjugated antibodies (Supplementary Fig.5b) and sorting on a BD Influx cell sorter. Data were analyzed with FlowJo 7.6.1 software. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence assay.Immunostaining was performed as described39. Neutrophils were made to adhere to coverslips treated wioth $0 . 0 1 \\%$ poly-L-lysine and were fixed for $1 0 \\mathrm { m i n }$ with $4 \\%$ PFA,followed by permeabilization for $2 0 \\mathrm { m i n }$ at room temperature with $0 . 5 \\%$ Triton X-100.After incubation for $3 0 \\mathrm { m i n }$ with $1 0 \\%$ donkey serum for blockade of nonspecific binding, primary antibodies were added for incubation for $^ { 2 \\mathrm { ~ h ~ } }$ at room temperature. Samples were further stained with secondary antibodies(Alexa Fluor 488- donkey anti-mouse IgG(A-21202),Alexa Fluor 488-donkey anti-rabbit IgG (A-21206),Alexa Fluor 594-donkey anti-mouse IgG (A-21203),Alexa Fluor 594-donkey anti-rabbit IgG (A-21207) and Alexa Fluor 405-donkey antimouse IgG(A-31553);all from Molecular Probes),followed by visualization by confocal microscopy (Olympus FV1000). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunohistochemistry and Giemsa staining.Mouse femurs and spleens were frozen and cut into sections,followed by blockade of nonspecific binding with $1 0 \\%$ donkey serum,then immunostaining with fluorescenceconjugated antibodies (Supplementary Fig.5b).Nuclei were counterstained with DAPI(4,6-diamidino-2-phenylindole).Otherwise,sections were stained with primary antibodies (SupplementaryFig.5b),followed by staining with enzyme-conjugated secondary antibodies (peroxidase-conjugated rabbit anti-goat IgG (ZB-2306) and peroxidase-conjugated goat anti-rabbit IgG (ZB-230l);both from ZSGB-Bio)and visualization with a Diaminobenzidine (DAB) Histochemistry Kit (Life Technologies) or Vector Blue Substrate Kit (Vector Laboratories).Standard Giemsa staining was performed according to the manufacturer's instructions (Sigma-Aldrich). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "DNA-precipitation assay. DNA-precipitation assays were performed as described28.DNA was synthesized with $\\mathrm { N H } _ { 2 }$ -modification at the $5 ^ { \\prime }$ end and the two complementary sequences were annealed,followed by coupling to CNBr-activated Sepharose 4B resin (GE Healthcare).For DNA precipitation, recombinant protein or cell lysates were incubated with DNA-linked resin in the presence of Protease Inhibitor Cocktail Set III(Calbiochem),followed by washing with buffer containing $1 5 0 ~ \\mathrm { m M }$ KCl and immunoblot analysis of precipitates. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Chromatin immunoprecipitation.Chromatin immunoprecipitation assays were performed as described40.Neutrophils transfected with L.monocytogenes loo-nucleotide DNA were crosslinked for $1 0 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ by $1 \\%$ formaldehyde,followed by preclearance with salmon sperm DNAprotein A agarose and then incubation for $6 \\mathrm { h }$ with anti-Sox2 (Supplementary Fig.5b).Sox2 was then immunoprecipitated by salmon sperm DNA-protein A agarose.Immunoprecipitates were sequentially washed with low-salt wash buffer,high-saltwash buffer,LiCl wash bufferand TE buffer,followed by elution with elution buffer $( 1 \\% \\ \\mathrm { S D S } , \\ 0 . 1 \\ \\mathrm { M \\ N a H C O _ { 3 } } )$ .The Sox2-DNA complex was reversed by heating for $^ { 4 \\mathrm { h } }$ at $6 5 ~ ^ { \\circ } \\mathrm { C }$ DNA was further purified by phenol-chloroform extraction and was precipitated with ethanol,followed byreal-time PCR analysis. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "RNA-mediated interference.RNA-mediated interferencewasachieved according to the instructions of the pSUPER system (Oligoengine).pSUPER vectors enclosing target sequences (Supplementary Fig.5c) were constructed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "RT-PCR analysis and primers.Total RNA was extracted from cells with Trizol reagent,and cDNA was reverse-transcribed with Superscript II (Invitrogen). RT-PCR was performed with a StarScript II Two-step RT-PCRKit(Genestar) and the appropriate primers (Supplementary Fig.5d). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Recombinant protein preparation and gel filtration. Sequence encoding Sox2,TAB2 or TAK1 was cloned into pGEX-6P-1 for expression ofGST-tagged protein or into pET-28a for His-tagged protein purification as described41. Plasmids were transformed into BL21(DE3) Escherichia coli competent cells and cultured (until they reached an absorbance of 0.6 at $6 0 0 \\mathrm { n m }$ ),followedby induction for $2 0 { - } 3 6 \\mathrm { h }$ at $1 6 ^ { \\circ } \\mathrm { C }$ with $0 . 2 \\mathrm { m M }$ isopropyl- $\\cdot \\beta$ -D-thiogalactopyranoside.Cells were homogenized and further purified by Ni-NTA resin columns or GST-sepharose columns (GE Healthcare).GST-tagged proteins were cleaved by PreScission Protease(GE Healthcare) when needed.Recombinant Sox2 was loaded onto a Superdex 2oo 10/3oo column and was eluted with elution buffer ( $\\mathrm { \\Delta } 5 0 \\mathrm { \\ m M }$ Tris and $1 5 0 ~ \\mathrm { m M }$ NaCl, $\\mathrm { p H 7 . 4 }$ ).Markers containing thyroglobulin（ $( 6 6 9 \\mathrm { ~ k D } )$ ),ferritin $( 4 4 0 ~ \\mathrm { k D } )$ ,BSA (67kD), $\\beta$ -latoglobulin $( 3 5 ~ \\mathrm { k D } )$ ,RNaseA $( 1 3 . 7 \\mathrm { k D } ) _ { , } ^ { \\prime }$ ,aprotinin $( 6 . 5 \\mathrm { k D } ) $ andvitamin B12（ ${ } ^ { \\cdot } 1 . 3 \\ \\mathrm { k D } )$ were used for calibration of the column,and blue dextran 2ooo (about 2,000 kilodaltons) was used for determination of the void volume. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ELISA-based cytokine analysis.Supernatants from cultured cells or serum were collected at the appropriate times.Cytokines were analyzed by ELISA kits according to the manufacturer's instructions (R&D Systems). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "AlphaScreen.Purified Sox2 variants and biotinylated DNA were analyzed with an AlphaScreen by incubation at various concentrations according to the manufacturer's instructions (PerkinElmer). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Yeast-two hybrid screening.Yeast two-hybrid screening was performed as described42.Sequence encoding Sox2 (amino acids 114-319) was cloned into pGBKT7 vector (BD-Sox2).The truncated form of Sox2 (amino acids 114-319) lacked its two nuclear-localization signals.Thus,the Sox2 protein used for this screen was located only in the cytoplasm.Yeast AH1o9 cells were transfected with BD-Sox2 and plasmids containing a mouse BMcDNA library (Clontech/Takara)and then plated on synthetic defined medium.Selected clones were isolated and sequenced.The X-α-gal assay was carried out according to the manufacturer's instructions (Clontech/Takara). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In vitro kinase activity assay. TAK1 activity was assessed as described43. Recombinant Sox2,TAB2 and TAK1 variants were purified from E.coli.The IKK complex was purified from lysates of HEK293T cells. $^ { 3 5 } \\mathrm { S }$ -labeled IkBα was translated in vitro.The necessary components were mixed in reaction buffer 中 $5 0 ~ \\mathrm { m M }$ Tris-HCl, $5 \\mathrm { m M }$ $\\mathrm { M g C l } _ { 2 }$ 0 $2 \\mathrm { m M }$ ATP,pH7.5),followed by incubation for $^ { \\textrm { 1 h } }$ at $3 7 ^ { \\circ } \\mathrm { C } ,$ then proteins were separated by SDS-PAGE and visualized byradiography. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Deletionof Tab2 and Tmeml73by technologybased on clustered regularly interspaced short palindromic repeats (CRISPR) and Cas9.Genomic engineering of Tab2 was achieved with the CRISPR-Cas9 systemas described44 with the following single-guide (sg) RNA sequences: sgRNA upstream of Tab2 exon 3, $5 ^ { \\prime }$ -TTGTTAGTTGTGTATTTCTG-3'; sgRNA downstreamof Tab2 exon 3, $5 ^ { \\prime }$ G GGGTGGATAGTCTCCATGC- $3 ^ { \\prime }$ ; sgRNA upstream of Tab2 exon 4, $5 ^ { \\prime }$ -TCT GCTGCAGAGTTCGCTGC-3';and sgRNA downstream of Tab2 exon 5,5'-TG TCTCGGAGTATTTAGCTT $3 ^ { \\prime }$ .Wild-type mouse HSCs isolated from BM were infected with lentivirus to introduce the GFP-containing CRISPRCas9 vectors.After culture for 3 d in vitro,GFPhi cels were sorted by flow cytometry.Cells were analyzed by PCR.PCR products were subcloned and genotyped by DNA sequencing.Genotyped cells were transplanted into recipient mice for further experiments.For deletion of Tmeml73,exon 3 of Tmem173was flankedbysgRNA( $5 ^ { \\prime }$ -ACACCTCAAGGAGACGCCCT ${ \\cdot } 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -TGCTGGGTATCAAGTCATCG-3'). Since the CRISPR-Cas9 genotyping data provided only a ‘snapshot' of the genotype of the apparently polyclonal cell population,the possibility that not all alleles had been targeted by this approach could not be excluded. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.Student's t-test was used for statistical analysis with Microsoft Excel. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "39.Xia,P.et al. RNF2 is recruited by WASH to ubiquitinate AMBRA1 leading to downregulation of autophagy. Cel/ Res.24,943-958 (2014).   \n40.Xia,P.et al.WASH is required for the differentiation commitment of hematopoietic stemcells in a c-Myc-dependent manner.J.Exp.Med.211，2119-2134 (2014).   \n41.Wang,L.et al.Identification of SERPINBl as a physiological inhibitor of human granzyme H.J. Immunol.190,1319-1330 (2013).   \n42.Xia,P.et a/.WASH inhibits autophagy through suppression of Beclin 1 ubiquitination. EMBO J.32,2685-2696 (2013).   \n43.Wang,C.et al.TAK1 is a ubiquitin-dependent kinase of MKK and IKK.Nature   \n412,346-351 (2001).   \n44.Ran,F.A.et al.Genome engineering using the CRISPR-Cas9 system.Nat. Protoc.   \n8,2281-2308 (2013). ",
+        "page_idx": 11
+    }
+]

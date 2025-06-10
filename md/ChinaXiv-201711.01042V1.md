@@ -1,0 +1,171 @@
+1 饲料中添加低聚木糖对仿刺参幼参生长性能、肠道消化酶活力和免疫力的影响！
+
+2 李君华」　刘佳亮」　曹学彬1\* 李　静」刘石林²张　涛²（1.山东东方海洋科技股份有限公司，国家海藻与海参工程技术研究中心，烟台 264003;
+
+4 2.中国科学院海洋研究所，青岛266071)
+
+5摘要：在水温 $1 4 . 8 { \sim } 1 8 . 6 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 、盐度（ $2 9 { \pm } 1$ ）PSU下，用 $1 2 0 \mathrm { L }$ 的蓝色塑钢水箱研究了饲料中添  
+5 加低聚木糖（xylo-oligosaccharides，XOS）对仿刺参（Apostichopus japonicus Selenka）幼参生  
+7 长性能、肠道消化酶活力和免疫力的影响。配制XOS添加量分别为0（对照）、 $0 . 0 1 5 \%$ 、 $0 . 0 3 0 \%$ 、  
+8 $0 . 0 4 5 \%$ 、 $0 . 0 6 0 \%$ 和 $0 . 0 7 5 \%$ 的6组试验饲料，投喂平均体重为（ $6 . 8 0 { \scriptstyle \pm 1 . 0 5 }$ ）g的仿刺参幼参 $7 5 \mathrm { d } .$ （20  
+3 每组饲料随机投喂3个水箱，每个水箱放养45头幼参。结果显示：饲料中添加XOS显著提高了仿  
+③ 刺参幼参的特定生长率（SGR）（ $\scriptstyle \cdot { P < 0 . 0 5 }$ )。饲料中XOS添加水平（X）与仿刺参幼参SGR（Y)  
+1 之间的回归方程为： $Y { = } { - } 1 5 1 . 6 8 X ^ { 2 } { + } 1 3 . 3 0 2 X { + } 0 . 8 6 0 7 ( R ^ { 2 } { = } 0 . 9 2 7 5 )$ ，得出XOS添加量为 $0 . 0 4 4 \%$ 时SGR  
+2 最高。饲料中添加XOS对仿刺参幼参的成活率（SR）和出皮率（GBWR）无显著影响（ $( P { > } 0 . 0 5 )$ 。  
+3 饲料中添加XOS提高了仿刺参幼参的干物质表观消化率（ADDM)，但仅 $0 . 0 3 0 \%$ 组显著高于对照  
+4 组（ $P { < } 0 . 0 5$ )。饲料中添加 $0 . 0 3 0 \% { \sim } 0 . 0 6 0 \%$ 的XOS显著提高了仿刺参肠道蛋白酶、淀粉酶活力和  
+5 体腔液中超氧化物歧化酶（SOD）活力（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ ，以 $0 . 0 4 5 \%$ 组肠道蛋白酶和淀粉酶活力最高，  
+5 以 $0 . 0 6 0 \%$ 组体腔液中SOD活力最大。饲喂30d时，饲料中添加 $0 . 0 3 0 \% { \sim } 0 . 0 7 5 \%$ 的XOS显著提高了  
+7 仿刺参体腔液中碱性磷酸酶（AKP）活力（ $P { < } 0 . 0 5$ )，而饲喂60d时，除 $0 . 0 4 5 \%$ 组外，其他各组  
+8 体腔液中AKP活力无显著差异（ $P { > } 0 . 0 5 \$ )。由此得出，饲料中添加 $0 . 0 3 0 \% { \sim } 0 . 0 6 0 \%$ 的XOS可提高  
+3 仿刺参幼参肠道消化酶活力，增强其免疫力，从而促进仿刺参幼参生长；仿刺参饲料中XOS的  
+3 最适添加量为 $0 . 0 4 4 \%$ ，建议XOS投喂时间在2个月左右。
+
+关键词：低聚木糖；仿刺参；生长性能；表观消化率；消化酶；免疫力中图分类号：S963 文献标识码：A 文章编号：
+
+仿刺参（Apostichopus japonicus Selenka）具有很高的营养保健价值，是我国重要的海珍品。
+
+随着养殖规模的扩大，仿刺参病害也日益显著，给仿刺参养殖业带来较大的损失，虽然使用抗生素可解决这一问题，但长期或盲目使用势必引发细菌耐药性、动物免疫功能下降、药物残留、环境污染等问题。近年来，人们逐渐转向研究饲料免疫增强剂，其中多糖类是替代抗生素的理想饲料添加剂之一，成为动物营养研究的热点之一[1-8]。
+
+低聚木糖(xylo-oligosaccharides,XOS)具有稳定性好、安全无毒、耐酸耐热、用量小及来源丰富等特点，其不能被动物机体直接消化吸收利用，但可被肠道有益微生物利用。XOS可促进肠道双歧杆菌等有益菌增殖，抑制病原菌繁殖，提高饲料营养元素利用度，是"性能最稳定、增殖双歧杆菌效价比最高"的益菌因子，已广泛用于畜牧业和虾类、鱼类和刺参等水产养殖业中[5-8]。本研究旨在通过在仿刺参饲料中添加不同水平的XOS来研究其对仿刺参幼参生长性能、消化酶活力和免疫力的影响，获得仿刺参幼参饲料中XOS的最适添加量，为仿刺参健康养殖和病害防治工作提供理论指导。
+
+1材料与方法
+
+# 1.1 试验饲料
+
+试验饲料包括基础饲料和海泥（投喂时两者比例为1:1)。基础饲料为山东东方海洋科技股份有限公司生产的配合饲料，其主要成分为海藻粉、贝壳粉、脱胶海带粉、发酵豆粕、次粉和酵母等，粗蛋白质含量为 $1 9 . 8 4 \%$ ，粗脂肪含量为 $4 . 2 8 \%$ 。XOS由江苏康维生物有限公司生产，有效成分含量为 $3 5 \%$ 。试验各组基础饲料中XOS的添加量分别为0（对照）、 $0 . 0 1 5 \%$ 、 $0 . 0 3 0 \%$ 、$0 . 0 4 5 \%$ 、 $0 . 0 6 0 \%$ 和 $0 . 0 7 5 \%$ 。配合饲料的所有原料均经过超微粉碎，逐级扩大搅拌，直至混合均匀，饲料为粉末状混合物，备用。基础饲料组成及营养水平见表1。
+
+# 表1基础饲料组成及营养水平 (干物质基础)
+
+Table 1 Composition and nutrient levels of the basal diet (DM basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>海藻粉 Macroalgae meal</td><td>30.00</td></tr><tr><td>脱胶海带粉 Degummed kelp meal</td><td>20.00</td></tr><tr><td>贝壳粉 Oyster shell whiting</td><td>20.00</td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>8.00</td></tr><tr><td>次粉Wheat middlings</td><td>8.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>虾粉 Shrimp meal</td><td>7.00</td></tr><tr><td>酵母 Yeast</td><td>5.00</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>1.00</td></tr><tr><td>矿物质预混料 Mineralpremix2)</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td></tr><tr><td>粗蛋白质CP</td><td>19.84</td></tr><tr><td>粗脂肪 EE</td><td>4.28</td></tr><tr><td>粗灰分 Ash</td><td>48.32</td></tr></table></body></html>
+
+1)维生素预混料为每千克饲料提供Vitamin premix provided the following per $\mathbf { k g }$ of the diet:核  
+黄素 riboflavin $3 8 0 ~ \mathrm { m g }$ ，盐酸吡哆醇 pyridoxine hydrochloride $8 8 ~ \mathrm { m g }$ ，肌醇 inositol $4 0 0 0 \mathrm { m g }$ ，  
+盐酸硫胺素 pyridoxine thiamin $1 1 5 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 5 0 \mathrm { m g }$ ，烟酸 nicotinic acid  
+$\mathrm { 1 0 3 0 m g }$ ，叶酸 folic acid $1 5 ~ \mathrm { m g }$ ，生物素 biotin $1 . 2 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 1 . 0 3 ~ \mathrm { m g }$ ，VA $3 8 . 0 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 }$ 13.2  
+mg， $\mathrm { V K } _ { 3 } 5 0 \mathrm { m g }$ ，尼克酸niacin acid $6 0 0 \mathrm { m g }$ ，醋酸视黄醇 retinol acetate $3 5 ~ \mathrm { m g }$ 。2)矿物质预混料为每千克饲料提供Mineral premix provided the following per $\mathrm { k g }$ of the diet: KI  
+0.8 mg, $\mathrm { C o C l } _ { 2 }$ 6H20(1%) $3 5 ~ \mathrm { m g }$ ， $\mathrm { C u S O _ { 4 } }$ $5 \mathrm { H } _ { 2 } \mathrm { O }$ $1 0 0 \mathrm { m g }$ ， $\mathrm { F e S O _ { 4 } }$ $7 \mathrm { H } _ { 2 } \mathrm { O }$ $4 5 0 \mathrm { m g }$ ， $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O 6 0 \ m g }$ ，  
+ZnSO4·H2O 250 mg， MgSO4: 7H2O 4 000 mg， $\mathrm { N a _ { 2 } S e O _ { 3 } } ( 1 \% ) 5 \mathrm { m g } .$ 3)实测值Measured values。
+
+# 1.2试验动物与饲养管理
+
+试验用仿刺参幼参选自山东东方海洋科技股份有限公司良种场仿刺参生产车间，平均体重在 $\stackrel { \prime } { ( 6 . 8 0 { \pm } 1 . 0 5 }$ ）g，养殖在120L的蓝色塑钢水箱中，每个水箱45头，每组随机分配3个水箱（重复）。试验开始前仿刺参用不添加XOS的试验饲料暂养1周，饥饿2d后开始试验。养殖用水盐度为（ $2 9 { \pm } 1$ ）PSU，水温在 $1 4 . 8 { \sim } 1 8 . 6 ~ \mathrm { ^ { \circ } C }$ ， $2 4 \mathrm { h }$ 充氧，每天换水 $5 0 \%$ 左右。换水时收集粪便，清理残饵。抽水后，先加入新鲜海水后投喂，配合饲料和海泥投喂前过100目筛绢，配合饲料与海泥比为1:1，投喂量为仿刺参体重的 $5 \%$ ，根据仿刺参摄食情况作适当的调整，试验期为75d。
+
+# 1.3样品采集与分析方法
+
+# 1.3.1 样品采集及处理
+
+试验第30、60天分别称重、取样1次，每个重复随机抽取5头仿刺参。取仿刺参肠道前停食72h，使其排空肠道内的食物残渣，用滤纸轻轻吸干体表水分，逐头称重，置冰盘上，用 $1 ~ \mathrm { m L }$ 注射器从仿刺参肛门处插入体腔内，小心抽取体腔液置于离心管中，立即于 $4 \mathrm { { ^ \circ C } }$ 、 $4 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液分装于 $0 . 5 ~ \mathrm { m L }$ 的离心管中， $- 2 0 \ { ^ { \circ } \mathrm { C } }$ 保存，用于测定各项免疫指标。待仿刺参体腔液抽取完毕，于冰盘内注射 $0 . 3 5 \mathrm { m o l / L }$ 氯化钾溶液，诱导排脏，获得肠道，剔除与肠道末端相连的呼吸树，用预冷重蒸水配置的 $\mathrm { p H } 7 . 0$ 磷酸盐缓冲液冲洗后，用滤纸轻轻吸干水分，称量肠道重量， $- 8 0 ~ \mathrm { { ^ \circ C } }$ 保存，用于测定肠道消化酶活力。肠道粗酶液的制备：仿刺参肠道在冰浴中用玻璃研磨器匀浆 $1 0 { \sim } 1 5 \ \mathrm { m i n }$ ，按1g样品加 $1 0 ~ \mathrm { m L }$ 缓冲液的比例分次加入 $\mathrm { p H } 7 . 0$ 的磷酸盐缓冲液。然后将匀浆液在高速冷冻离心机中以 $. 4 ~ \mathrm { ^ { \circ } C }$ 、5000$\mathrm { { r } / \mathrm { { m i n } } }$ 冷冻离心 $3 0 \mathrm { m i n }$ ，其上清液即为粗酶液， $4 \mathrm { { ^ \circ C } }$ 保存，24h内分析完毕。
+
+1.3.2测定指标仿刺参生长指标计算公式如下：成活率（ $\mathbf { \Delta S R } , \mathcal { ( } _ { o } ) = 1 0 0 \times$ 终末仿刺参头数/初始仿刺参头数;特定生长率 $( \mathrm { S G R } , \% / \mathrm { d } ) { = } 1 0 0 \times$ （ln终末体重g-ln初始体重）/饲养天数;出皮率（GBWR $\%$ ） $= 1 0 0 \times$ 鲜仿刺参体壁重量/鲜仿刺参体重。仿刺参干物质表观消化率(ADDM)的计算方法如下：$\mathrm { A D D M ( ^ { 0 } / _ { 0 } ) } { = } 1 0 0 { - } 1 0 0 \times$ 饲料中酸不溶性灰分含量/粪便中酸不溶性灰分含量[9]。肠道蛋白酶活力测定依福林-酚试剂法，肠道淀粉酶活力测定参照淀粉-碘显色法测定，具  
+体操作详见文献[0]。采用南京建成生物工程研究所生产的蛋白质定量测定试剂盒（考马斯亮蓝  
+法）测定粗酶液蛋白质浓度。体腔液中超氧化物歧化酶（SOD）、碱性磷酸酶（AKP）的活力均  
+用南京建成生物工程研究所生产的相关试剂盒测定，操作步骤按试剂盒说明书进行。  
+1.4数据分析试验结果用平均值 $\pm$ 标准误差表示，数据用SPSS 17.0软件进行单因素方差分析（one-way  
+ANOVA)并进行Duncan氏法多重比较，当 $P { < } 0 . 0 5$ 时表示差异显著。  
+2结果与分析  
+2.1饲料中添加XOS对仿刺参幼参生长性能及干物质表观消化率的影响由表2可以看出，饲料中添加XOS对仿刺参幼参的SR无显著影响（ $( P { > } 0 . 0 5 )$ )，但可显著提高
+
+SGR（ $P { < } 0 . 0 5$ )。当添加量为 $0 . 0 4 5 \%$ 时，仿刺参幼参的SGR最高，可达 $1 . 1 7 \% .$ /d，之后随着XOS添加量的增大，SGR逐渐降低，但降低幅度较小，且SGR仍高于对照组。由图1可见，饲料中XOS添加量（X）与仿刺参幼参SGR（Y）之间的回归方程为： $Y { = } { - } 1 5 1 . 6 8 X ^ { 2 } { + } 1 3 . 3 0 2 X { + } 0 . 8 6 0 7$ 0 $R ^ { 2 } { = } 0 . 9 2 7$ 5)，当XOS添加量为 $0 . 0 4 4 \%$ 时，仿刺参的SGR最高。饲料中添加XOS对仿刺参幼参的GBWR有所影响，但各组间差异不显著( $. P { > } 0 . 0 5 ^ { \cdot }$ )，低添加量组（ $0 . 0 1 5 \%$ 和 $0 . 0 3 0 \%$ 组）仿刺参幼参的GBWR较对照组有所降低，当添加量达 $0 . 0 4 5 \%$ 后则开始高于对照组。饲料中添加XOS提高了仿刺参幼参的ADDM，其中仅 $0 . 0 3 0 \%$ 组（ $2 8 . 3 9 \%$ ）显著高于对照组（ $_ { . } P { < } 0 . 0 5 { : }$ ，其他添加组与对照组差异不显著 （ $. P { > } 0 . 0 5 )$ ，且各添加组之间差异不显著（ $. P { > } 0 . 0 5 )$ ）
+
+表2饲料中添加XOS对仿刺参幼参生长性能及干物质表观消化率的影响
+
+Table 2Effects of dietary XOS on growth performance and ADDM of juvenile sea cucumber (Apostichopus japonicus Selenka) $\scriptstyle ( n = 3 )$ ）   
+
+<html><body><table><tr><td>添加量</td><td>初始体重</td><td>成活率</td><td>特定生长率</td><td>出皮率</td><td>干物质表观消化率</td></tr><tr><td>Supplemental level/%</td><td>Initial body weight/g</td><td>SR/%</td><td>SGR/ (%/d)</td><td>GBWR/%</td><td>ADDM/%</td></tr><tr><td>0</td><td>6.83±1.61</td><td>96.67±3.34</td><td>0.89±0.06a</td><td>62.93±2.52</td><td>25.91±0.95a</td></tr><tr><td>0.015</td><td>6.82±1.44</td><td>98.85±1.99</td><td>0.97±0.03b</td><td>62.57±2.50</td><td>26.99±1.24ab</td></tr><tr><td>0.030</td><td>6.90±1.74</td><td>97.75±1.96</td><td>1.15±0.04c</td><td>61.56±2.86</td><td>28.39±0.013b</td></tr><tr><td>0.045</td><td>6.86±1.72</td><td>98.89±1.92</td><td>1.17±0.03c</td><td>64.45±4.34</td><td>27.34±1.49 ab</td></tr><tr><td>0.060</td><td>6.77±1.69</td><td>98.89±1.92</td><td>1.11±0.01b</td><td>64.17±3.65</td><td>26.73±0.93ab</td></tr><tr><td>0.075</td><td>6.80±1.54</td><td>97.77±3.85</td><td>1.00±0.03b</td><td>64.30±4.99</td><td>26.57±1.03ab</td></tr></table></body></html>
+
+101 同列数据肩标无字母或相同字母表示差异不显著（ $. P { > } 0 . 0 5 ^ { \cdot }$ )，不同字母表示差异显著（ $. P { < } 0 . 0 5$ )。下表同。102 In the same column, values with no or the same letter superscripts mean no significant difference $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ,while103 with different letter superscripts mean significant difference $\scriptstyle \cdot < 0 . 0 5$ ).The sameas below.
+
+![](images/2439dc158cfce1eb3206e72102474661176d01595457e89ae3e3be1b5cc01672.jpg)  
+图1饲料中XOS添加量与仿刺参幼参特定生长率的关系  
+Fig.1The relationship between dietary XOS supplemental level and SGR of juvenile sea cucumber(Apostichopus japonicus Selenka)
+
+2.2饲料中添加XOS对仿刺参幼参肠道消化酶活力的影响
+
+由表3可以看出，各组仿刺参幼参肠道蛋白酶活力均随饲养时间延长而升高，而肠道淀粉酶活力仅 $0 . 0 1 5 \%$ 、 $0 . 0 3 0 \%$ 、 $0 . 0 4 5 \%$ 组随饲养时间延长而升高，其他组则有所降低。试验第30天时，饲料中添加 $0 . 0 1 5 \%$ 的XOS对肠道蛋白酶活力的影响较小（ $P { > } 0 . 0 5 )$ ，添加 $0 . 0 3 0 \% { \sim } 0 . 0 6 0 \%$ 的XOS可显著提高肠道蛋白酶活力（ $. P { < } 0 . 0 5 )$ ；饲料中添加 $0 . 0 1 5 \% { \sim } 0 . 0 4 5 \%$ 的XOS后肠道淀粉酶活力反而显著降低( $( P { < } 0 . 0 5 )$ ，且无规律性，仅添加 $0 . 0 7 5 \%$ 的XOS可显著提高肠道淀粉酶活力（ $. P { < } 0 . 0 5 )$ 。试验第60天时，各添加组肠道蛋白酶和淀粉酶活力较对照组均有较大幅度的提高，其中添加$0 . 0 1 5 \% { \sim } 0 . 0 6 0 \%$ 的XOS后肠道蛋白酶和淀粉酶活力均得到显著升高（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ )，XOS添加量为$0 . 0 4 5 \%$ 时，肠道蛋白酶和淀粉酶活力均最高，分别为66.83和 $1 6 8 . 7 8 \mathrm { U / m g }$ prot，较对照组分别高$1 8 . 6 \%$ 和 $3 2 . 6 \%$ ( $P { < } 0 . 0 5 )$ ）°
+
+# 表3饲料中添加XOS对仿刺参幼参肠道蛋白酶和淀粉酶活力的影响
+
+Table 3Effects of dietary XOS on intestinal protease and amylase activities of juvenile sea cucumber (Apostichopus japonicus Selenka)( $\scriptstyle { \cdot - 3 }$ ）U/mg prot   
+
+<html><body><table><tr><td>添加水平</td><td colspan="2">蛋白酶 Protease</td><td colspan="2">淀粉酶 Amylase</td></tr><tr><td>Supplemental level/%</td><td>第30天 Day 30</td><td>第60天Day 60</td><td>第30天Day30</td><td>第60天Day 60</td></tr><tr><td>0</td><td>34.22±2.56a</td><td>56.34±2.79a</td><td>167.41±4.56d</td><td>127.32±3.08a</td></tr><tr><td>0.015</td><td>30.52±2.89a</td><td>64.18±1.29b</td><td>116.15±1.89b</td><td>145.44±8.41b</td></tr></table></body></html>
+
+<html><body><table><tr><td>0.030</td><td>40.70±1.15b</td><td>65.56±2.65b</td><td>103.68±2.15a</td><td>167.73±8.56c</td></tr><tr><td>0.045</td><td>48.84±2.75c</td><td>66.83±2.74b</td><td>143.58±3.95c</td><td>168.78±4.07c</td></tr><tr><td>0.060</td><td>42.83±3.08b</td><td>64.85±1.66b</td><td>169.42±6.27d</td><td>144.19±2.78b</td></tr><tr><td>0.075</td><td>39.09±0.86b</td><td>58.90±3.36a</td><td>183.05±5.46e</td><td>130.38±2.06a</td></tr></table></body></html>
+
+2.3饲料中添加XOS对仿刺参幼参体腔液中SOD和AKP活力的影响
+
+由表4可以看出，随着试验的进行，除 $0 . 0 7 5 \%$ 组外的各添加组仿刺参幼参体腔液中SOD和AKP活力不断上升，XOS添加量越高，SOD活力提高幅度越大，AKP活力提高幅度无明显规律。在试验第30天时，饲料中添加 $0 . 0 6 0 \% { \sim } 0 . 0 7 5 \%$ 的XOS显著提高了体腔液中SOD活力（ $_ { ( P < 0 . 0 5 ) }$ ，添加 $0 . 0 3 0 \% { \sim } 0 . 0 7 5 \%$ 的XOS显著提高了体腔液中AKP的活力（ $_ { _ { P < 0 . 0 5 } }$ )，XOS添加量为 $0 . 0 7 5 \%$ 时体腔液中SOD和AKP活力最高，较对照组分别提高了 $2 2 . 6 4 \%$ 和 $1 8 6 . 0 8 \%$ ( $\scriptstyle \cdot { \cal P } \ll 0 . 0 5 .$ )。试验第60天时，XOS添加量与体腔液中SOD和AKP活力无相关性，饲料中添加 $0 . 0 3 0 \% { \sim } 0 . 0 7 5 \%$ 的XOS显著提高了体腔液中SOD活力（ $. P { < } 0 . 0 5$ )，其中，以 $0 . 0 6 0 \%$ 组SOD活力最高（ $7 2 . 4 5 \mathrm { \ U / m L }$ ；饲料中添加XOS对体腔液中可提高体腔液中AKP活力，但仅 $0 . 0 4 5 \%$ 组体腔液中AKP活力与对照组有显著差异( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 )$ 。
+
+# 表4饲料中添加XOS对仿刺参幼参体腔液中SOD和AKP活力的影响
+
+Table 4Effects of dietary XOS on SOD and AKP activities in body fluid of juvenile sea cucumber (Apostichopus japonicus Selenka）（n=3） U/mL   
+
+<html><body><table><tr><td rowspan="2">添加水平</td><td colspan="2">超氧化物歧化酶 SOD</td><td colspan="2">碱性磷酸酶 AKP</td></tr><tr><td>第30天Day 30</td><td>第60天Day 60</td><td>第30天Day 30</td><td>第60天Day 60</td></tr><tr><td>0</td><td>55.73±2.40a</td><td>52.31±3.65a</td><td>0.273±0.011a</td><td>0.692±0.027a</td></tr><tr><td>0.015</td><td>58.57±2.12ab</td><td>59.98±1.70b</td><td>0.269±0.009a</td><td>0.815±0.082a</td></tr><tr><td>0.030</td><td>63.01±3.81bc</td><td>66.17±3.14bcd</td><td>0.596±0.079bc</td><td>0.827±0.140a</td></tr><tr><td>0.045</td><td>61.05±4.23ab</td><td>69.31±4.18cd</td><td>0.527±0.075bc</td><td>1.038±0.136b</td></tr><tr><td>0.060</td><td>63.08±2.79bc</td><td>72.45±2.46d</td><td>0.635±0.027c</td><td>0.853±0.084a</td></tr><tr><td>0.075</td><td>68.35±3.15c</td><td>64.58±4.41bc</td><td>0.781±0.031d</td><td>0.720±0.109a</td></tr></table></body></html>
+
+134 3讨论
+
+135 3.1饲料中添加XOS对仿刺参幼参生长性能的影响
+
+XOS为新型的水产动物饲料添加剂，可以高选择性增殖双歧杆菌等体内的益生菌，促进动物生长，提高动物免疫力。陈晓瑛等[7报道，饲料中添加 $2 0 0 ~ \mathrm { m g / k g }$ 的XOS能显著提高凡纳滨对虾（Litopenaeus vannamei）的增重率和SGR。强俊等[1l]报道，饲料中添加 $0 . 0 3 \%$ 的XOS可显著提高奥尼罗非鱼(OreochromisniloticusxO.aureus)幼鱼的生长性能，最适添加量为 $0 . 0 3 \%$ 。本研究中,饲料中添加 $0 . 0 3 0 \% { \sim } 0 . 0 7 5 \%$ 的XOS可显著提高仿刺参幼参的生长，最适添加量为 $0 . 0 4 4 \%$ ，比上述报道中最适添加量稍高，可能是因为仿刺参行动缓慢、主动摄食能力较差及饲料为粉状饲料，造成XOS部分损失。梁超[8研究发现，饲料中添加 $0 . 0 6 \% { \sim } 0 . 1 2 \%$ 的XOS可显著提高仿刺参的生长率，但未获得最适添加量。这与本研究结果有很大出入，梁超8试验用仿刺参体重（约 $2 . 1 4 \ \mathrm { g } \ \rangle$ 、养殖环境（室内海水循环系统 $4 0 \mathrm { ~ L ~ }$ ）及基础饲料配方均与本试验不同，且未说明XOS来源，以上因素可能是两者间存在差异的原因。
+
+消化率是评价饲料效果的重要指标。Yingst[121报道，沉积物食性动物肠道内纤维素酶活性极低，从而导致仿刺参对于大叶藻粉饲料的ADDM较低。Sun等[13]与Seo等[14]均研究表明，仿刺参对配合饲料的ADDM为 $3 6 . 0 \% { \sim } 6 3 . 9 \%$ ，其配合饲料中主要由藻粉、豆粕、面粉等易被消化吸收的原料组成。夏苏东[15]研究表明，以 $30 \%$ 的不同藻粉和 $1 7 0 \%$ 的海泥投喂仿刺参，当海泥以及高纤维素含量的藻粉比例高时，仿刺参对不同藻粉饲料的ADDM不高，但仅在 $9 . 6 3 \% { \sim } 1 5 . 8 4 \%$ 之间。而本研究中仿刺参幼参对配合饲料的ADDM为 $2 5 . 9 0 \% { \sim } 2 8 . 4 0 \%$ ，介于两者之间，可能是由于本研究中海泥占饲料的 $5 0 \%$ ，而配合饲料中亦含有豆粕、次粉等易消化的原料。
+
+综上所述，仿刺参幼参SGR最大时的XOS添加量为 $0 . 0 4 4 \%$ ，而ADDM最高时的XOS添加量$0 . 0 3 0 \%$ ，这可能是由于添加 $0 . 0 3 0 \%$ 的XOS提高了仿刺参幼参的生长而尚未影响体壁的物质积累有关，这也是GBWR出现先低后高变化趋势的原因。
+
+# 3.2饲料中添加XOS对仿刺参幼参肠道消化酶活力的影响
+
+普遍认为寡糖（含XOS）不能为动物体所消化吸收，但能作为营养物质被动物体肠道益生菌（如双歧杆菌、乳酸杆菌等）消化代谢，而益生菌可以刺激动物肠道上皮细胞增殖，从而提高消化酶的活力[16]。陈晓瑛等[6]研究发现，饲料中添加1 $4 0 0 \mathrm { m g / k g }$ 的XOS可显著提高凡纳滨对虾肝胰腺消化酶活力。强俊等[1研究表明，随着XOS添加量的增加，罗非鱼肝胰脏和肠道蛋白酶活力均呈先上升后下降的趋势。饲料中添加XOS对仿刺参幼参肠道消化酶活力的影响尚未见相关报道。本试验比较了XOS添加量和投喂时间对仿刺参幼参肠道蛋白酶和淀粉酶活力的影响，研究发现，投喂XOS后30d时，仿刺参幼参肠道淀粉酶活力随着XOS添加量的增加先降低后升高，而仿刺参幼参肠道蛋白酶和淀粉酶活力在投喂60d后均呈现先升高后降低的趋势，投喂时间越长，这种变化趋势越显著，这与强俊等[的研究成果类似。这可能是由于肠道内有益菌在分解XOS时能产生挥发性脂肪酸，降低肠道pH，刺激肠道蠕动[17]，过量的XOS引起微生物代谢产物增多，仿刺参肠道蠕动增强，饲料及代谢产物在肠道内停留时间变短，消化酶过多地被排出体外或被抑制，从而降低了仿刺参肠道消化酶活力。在适宜的添加量范围内，XOS在较短时间内即可对仿刺参幼参肠道蛋白酶活力产生影响，而对肠道淀粉酶发挥作用的时间相对较长，其作用机理还需要更深入研究。
+
+# 3.3饲料中添加XOS对仿刺参幼参免疫力的影响
+
+仿刺参的防御机制主要是通过细胞免疫和体液免疫来进行，还可以产生一些抗氧化酶类来提高自身免疫力及维持免疫平衡。SOD是机体内抗氧化系统中关键酶，是衡量生物体健康状况的主要指标；当外物入侵时，体腔细胞会产生各种水解酶类对异物进行消化和降解处理，AKP是一种磷酸单脂水解酶，是重要的解毒系统，与营养物质的消化吸收有关。XOS作为功能性低聚糖具有辅剂及免疫调解的功能，能与毒素或病毒等细胞的表面结合作为这些外源抗原的佐剂，减缓抗原的吸收，增加抗原的效价[18]；还可促进有益菌如双歧杆菌等的大量增殖，双歧杆菌可以提高机体的抗体水平，激活巨嗜细胞的吞噬活性，从而提高机体的免疫功能[19]。有研究表明，XOS能够提高斑点叉尾(Ictalurus punctatus)血液中红细胞数量和血红蛋白浓度，降低血清中总胆固醇和尿素氮含量，有效提高血液输氧能力，增强机体免疫力[20]。陈晓瑛等[7研究发现，饲料中添加XOS后，凡纳滨对虾幼虾血清免疫因子活力均随着饲养时间的延长呈现先升高后降低的趋势，且随着XOS添加量的增加，血清抗氧化指标的含量/活性先升高后降低。本试验中仿刺参幼参体腔液中SOD和AKP活力的变化趋势与之相似，添加 $0 . 0 3 0 \% { \sim } 0 . 0 7 5 \%$ 的XOS在较短时间（30d）内可显著提高仿刺参幼参体腔液中SOD和AKP活力，随着试验的继续进行到 $6 0 { \mathrm { d } }$ ，SOD和AKP活力随之升高。SOD和AKP作为仿刺参体腔液中的非特异性免疫相关酶，适量的XOS起到了辅剂和免疫调解作用，引起双歧杆菌等有益菌的增殖，促进营养物质代谢吸收，仿刺参对蛋白质等营养物质消化能力增强，提高了相关免疫因子的合成，从而提高仿刺参体腔液中SOD和AKP等免疫相关酶的活力。过量的XOS引起某些细菌的过量增殖或无法被双歧杆菌等有益菌利用，甚至可能会抑制双歧杆菌等有益菌的活力，引起营养物质代谢不良等一系列问题[1,21],从而使仿刺参的免疫力降低。关于XOS添加量对仿刺参幼参免疫指标的影响机理和其应用时间等需要更多的试验来进行论证，长期投喂是否引起仿刺参的免疫疲劳尚有待于进一步深入研究。
+
+4结论
+
+$\textcircled{1}$ 饲料中添加XOS可提高仿刺参幼参肠道消化酶活力，增强其免疫力，从而促进仿刺参幼参生长。  
+$\textcircled{2}$ 仿刺参饲料中XOS的适宜添加量范围为 $0 . 0 3 0 \% { \sim } 0 . 0 6 0 \%$ ，最适添加量为 $0 . 0 4 4 \%$ ，建议AUS孜喂时向仕「月左石。参考文献：  
+[1] 王际英,宋志东,李培玉,等.饲料添加半乳甘露寡糖对刺参幼参生长、体壁营养组成及免疫力的影响[J].中国水产科学,2014,21(2):310-319.  
+[2]SUN Y X,JIN L J,WANG T T,et al.Polysaccharides from Astragalus membranaceus promotephagocytosis and superoxide anion $( \mathbf { O } _ { 2 } { ^ { - } } )$ production by coelomocytes from sea cucumber  
+Apostichopus japonicus in vitro[J].Comparative Biochemistry and Physiology Part C:Toxicology &Pharmacology,2008,147(3):293-298.  
+[3]ZHAO W,LIANG M,ZHANG P.Effect of yeast polysaccharide on the immune function ofjuvenile sea cucumber,Apostichopus japonicus Selenka under pH stress[J].Aquaculture  
+International,2010,18(5):777-786.  
+[4]韩丽蓉,徐玮,汪东风,等.壳寡糖对刺参生长、免疫反应和抗病力的影响[J].中国海洋大学学报,2014,44(3):34-39.  
+[5]聂昌林,宋春阳.低聚木糖在猪生产中的应用[J].中国饲料,2012(16):34-35.  
+[6] 陈晓瑛,曹俊明,王国霞,等.芽孢杆菌和低聚木糖对凡纳滨对虾生长和消化酶活力的影响[J].饲料工业,2011,32(20):18-22.  
+[7]陈晓瑛,曹俊明,黄燕华,等.饲料中添加低聚木糖对凡纳滨对虾幼虾生长性能、非特异性免疫力、抗氧化功能及抗对虾白斑综合征病毒能力的影响[J].动物营养学报,2014,26(8):2397-2407.[8]梁超.饲料中添加二甲酸钾、低聚木糖和菊粉对刺参的生长、免疫和抗灿烂弧菌感染能力的影响[D].硕士学位论文.青岛:中国海洋大学,2011.
+
+[9]ATKINSON J L,HILTON J W,SLINGER S J.Evaluation of acid-insoluble ash as an indicator of feed digestibility in rainbow trout (Salmo gairdneri)[J].Canadian Journal of Fisheries and Aquatic Sciences,1984,41(9):1384-1386.
+
+[10] 王吉桥,唐黎,许重,等.仿刺参消化道的组织学及其4种消化酶活力的周年变化[J].水产科 学,2007,26(9):481-484.   
+[11] 强俊,王辉,李瑞伟,等.低聚木糖对奥尼罗非鱼幼鱼生长、体成分和消化酶活力的影响[J].淡 水渔业,2009,39(6):63-68.   
+[12]YINGSTJ Y.The utilization of organic mattr in shallow marine sediments by an epibenthic deposit-feeding holothurian[J].Journal of Experimental Marine Biology and   
+Ecology,1976,23(1):55-69.   
+[13]SUN HL,LIANG M Q,YAN J P,et al.Nutrient requirements and growth of the sea   
+cucumber,Apostichopus japonicus[C]/LOVATELLI A,CONAND C,PURCELL S,et al.Advances in sea cucumber aquaculture and management.Rome:FAO,2OO4:327-331.   
+[14]SEO J Y,LEE S M.Optimum dietary protein and lipid levels for growth of juvenile sea cucumber Apostichopus japonicus[J].Aquaculture Nutrition,2011,17(2):e56-e61.   
+[15]夏苏东.刺参幼参摄食行为与蛋白质营养需要研究[D].博士学位论文.青岛:中国科学 院,2012:29-37.   
+[16]BALCAZAR JL,DE BLAS I,RUIZ-ZARZUELA I,et al.The role of probiotics in   
+aquaculture[J].Veterinary Microbiology,2006,114(3/4):173-186.   
+[17]KIHARA M,SAKATA T.Production of short-chain fatty acids and gas from various   
+oligosaccharides by gut microbes of carp (Cyprinus carpio L.) in micro-scale batch   
+culture[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative   
+Physiology,2002,132(2):333-340.   
+[18]MUSSATTO S 1,MANCILHA I M.Non-digestible oligosaccharides:a review[J].Carbohydrate Polymers,2007,68(3):587-597.   
+[19]朱汉静,勇强.绿色饲料添加剂——低聚木糖[J].饲料研究,2007(1):70-73.   
+[20]齐志涛,张启焕,仇明,等.低聚木糖对斑点叉尾生长及血液指标的影响[J].水产科
+
+学,2011,30(12):785-788.
+
+[21]CHESSON P.Multispecies competition in variable environments[J].Theoretical Population Biology,1994,45(3):227-276.
+
+Effects of Dietary Xylo-Oligosaccharides on Growth Performance, Intestinal Digestive Enzyme Activities and Immunity of Juvenile Sea Cucumber (Apostichopus japonicus Selenka) LI JunhualLIU Jialiang1CAO Xuebin1\* LI Jing1LIU Shilin²ZHANG Tao²   
+(1. National Alage and Sea Cucumber Project Technology Research Centre Shandong Oriental Ocean   
+Sci-Tech Co., Ltd., Yantai 264003, China; 2. Institute of Oceanology, Chinese Academy of Sciences, Qingdao 266071, China)
+
+Abstract: A feeding trial was conducted to investigate the effects of dietary xylo-oligosaccharides （XOS）on growth performance, intestinal digestive enzyme activities and immunity of sea cucumber (Apostichopus japonicus Selenka). Juvenile sea cucumbers with an initial body weight of （20 $( 6 . 8 0 { \pm } 1 . 0 5 ) \$ g were fed 6 different experimental diets containing XOS at a dose of O (control), $0 . 0 1 5 \%$ ， （204号 $0 . 0 3 0 \%$ $0 . 0 4 5 \%$ ， $0 . 0 6 0 \%$ and $0 . 0 7 5 \%$ , respectively, and placed into $1 2 0 \mathrm { L }$ blue plastic tanks at water temperature of 14.8 to $1 8 . 6 ^ { \circ } \mathrm { C }$ and a salinity of ( $2 9 { \pm } 1$ ）PSU for 75 days. There were 3 replicates per group with 45 sea cucumbers. The results showed that XOS supplementation significantly enhanced the specific growth rate (SGR） of sea cucumbers $( P { < } 0 . 0 5 )$ ．The relationship between XOS supplemental level $( X )$ and SGR $( Y )$ was expressed as $Y { = } { - } 1 5 1 . 6 8 X ^ { 2 } { + } 1 3 . 3 0 2 X { + } 0 . 8 6 0 \ 7$ $R ^ { 2 } { = } 0 . 9 2 7 ~ 5$ )， therefore there was the maximal SGR in the sea cucumbers fed the diet containing $0 . 0 4 4 \%$ of XOs. There were no significant differences in survival rate (SR） and gutted body weight rate (GBWR) among all groups $( P { > } 0 . 0 5 )$ .XOS supplementation led to enhance apparent digestibility of dry matter for sea cucumbers,but the significant difference only found in $0 . 0 3 0 \%$ group and control group （ $P { < } 0 . 0 5$ ）.Diet supplemented with $0 . 0 3 0 \%$ to $0 . 0 6 0 \%$ XOS significantly increased the activities of protease and amylase in intestine and superoxide dismutase (SOD) in body fluid of sea cucumbers （20号 $( P { < } 0 . 0 5 )$ . The maximal activities of protease and amylase in intestine were found in the group with the diet containing $0 . 0 4 5 \%$ XOS and the maximal activity of SOD in body fluid was found in the group with the diet containing $0 . 0 6 0 \%$ XOS.After feeding 3O days, diet supplemented with $0 . 0 3 0 \%$ to （204号 $0 . 0 7 5 \%$ XOS significantly increased the activity of alkaline phosphatase (AKP) in body fluid of sea cucumbers $( P { < } 0 . 0 5 )$ ，however， the activity of AKP in body fluid was not affected by XOS supplemental level $( P { > } 0 . 0 5 )$ except for $0 . 0 4 5 \%$ when feeding 6O days. The results indicate that （20 $0 . 0 3 0 \%$ to $0 . 0 6 0 \%$ XOS supplemented into the diets can enhance the intestinal digestive enzyme activities and immunity, and promote the growth of juvenile sea cucumbers. Based on these results, the optimal dietary XOS supplemental level is $0 . 0 4 4 \%$ , and the time of continuous use XOS is about 2 months.
+
+Key words: xylo-oligosaccharides； sea cucumber (Apostichopus japonicus Selenka)； growth performance; apparent digestibility; digestive enzyme; immunity

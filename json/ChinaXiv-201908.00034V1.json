@@ -1,0 +1,438 @@
+[
+    {
+        "type": "text",
+        "text": "认知还是元认知：口语产生中舌尖效应的心理机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "欧阳明昆 蔡笑张清芳（中国人民大学心理学系，北京100872)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要舌尖效应(Tip-of-the-tongue,TOT)在口语产生领域存在认知和元认知两种研究视角。认知视角主要针对口语产生的词汇通达过程，认为信息激活或提取不充分是TOT发生的主要原因。元认知视角则主要关注口语产生的元认知过程，认为个体对目标词提取状态的监测引发了TOT。TOT 的元认知过程不仅可以监测目标词的提取状态及词汇通达过程中相关信息的提取，而且可以控制词汇通达过程，使目标词在TOT发生后成功地提取出来。两种研究视角在TOT发生的认知机制、影响因素以及生理基础方面均存在分离。未来研究应该探讨TOT监测和控制口语产生的作用机制和生理基础，关注汉语背景下TOT发生规律及其对口语产生年老化的积极影响。关键词TOT；认知视角；元认知视角；启发式元认知模型；分离机制",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生活中个体常会遇到话在嘴边，却无法立即表达出来的情形，这被称之为舌尖效应(Tip-of-the-Tongue，TOT）（Brown & McNeill，1966；Burke，MacKay,Worthley,& Wade,1999; James,Schmank, Castro,& Buchanan, 2018)。TOT发生时,个体虽然可以提取出目标词的语义或语法信息(如词性、单复数等)及部分语音信息(如首字母、音节数等)，但无法提取目标词完整的语音信息(Fieder,Nickels,&Biedermann, 2014; Huijbers et al., 2O16; Vigliocco, Vinson, Martin, & Garrett, 1999)。TOT发生一段时间后，目标词包含的所有信息几乎都能被成功提取，从而使TOT得到解决(Schwartz，2002)。从TOT发生到最终解决包括了口语产生的认知和元认知过程，因而形成了认知和元认知两种研究视角。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前研究主要从认知视角探讨TOT的发生机制和各类语言学属性如何影响了语言产生过程。实验室情境通常采用一般性知识问题(Generalknowledgequestions)来诱发 TOT，被试需要说出对应的目标词(Kuipers，2013；Masselink,2012;Souchay&Smith,2013)。研究发现在被试说出目标词前呈现与其相关的语音启动词能够降低随后 TOT的发生率，但语义启动词不能(Abrams＆Rodriguez,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2005;Farrell & Abrams,2011;Pureza, Soares,& Comesana,2O13)。此外，TOT 发生后呈现语音相关词会促进TOT的解决，而语义相关词对 TOT的解决没有影响(Oberle& James,2013;Pureza et al.,2013;White,Abrams,& Frame,2013)，这说明TOT 的发生和解决均与口语产生过程中语音信息提取有关，而与语义信息提取无关。词汇通达过程包含词条选择和音韵编码，涉及语义和语音信息的提取(Levelt,Roelofs,&Meyer,1999)。因此，认知视角认为TOT的发生是由词汇通达过程中语音信息提取失败导致的(Brown,2012)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "认知视角忽视了从TOT发生到解决的整个过程中个体所产生的元认知体验及其与目标词信息提取和 TOT解决过程之间的内在联系。个体在 TOT发生时会产生不同的元认知体验，包括唤醒强度(Intensity)、情绪色彩(Emotion)，及目标词即将被提取的逼近感(Imminence)等(Calabi,2016; Schwartz,2002)。虽然元认知体验在TOT发生和解决中均发挥作用，但具体机制亟待探究。初步证据表明元认知体验能够有效预测 TOT 发生后目标词的成功提取(Schwartz，Travis,Castro,& Smith,2000)，表现为有情绪体验的 TOT在目标词成功提取率上显著高于无情绪体验的 TOT(Schwartz et al.，200O)，高唤醒度的 TOT 显著高于低唤醒度的TOT(Kuipers,2013；Schwartz etal.,2000)，伴随有逼近感体验的 TOT尤为明显，目标词成功提取率是无逼近感 TOT的5倍(Schwartz etal.,200O)。目前，从元认知视角出发的TOT研究主要关注自然情境下所伴随的情境线索对TOT发生和解决的影响，以及这种元认知体验如何调节(即监测和控制)口语产生的认知过程(Schwartz & Metcalfe,2011)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为一种特殊的口语产生现象，TOT的研究是对正常口语产生研究的重要补充，具有重要的理论意义，并对改善口语产生障碍人群的症状具有指导作用。本文将从认知和元认知角度分别讨论TOT的发生机制、影响因素及生理基础，为多角度理解口语产生过程提供理论和证据支持(彭华茂，毛晓飞，2018；赵瑞瑛，娄昊，欧阳明昆，张清芳,2019)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2认知和元认知视角下TOT发生机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1认知视角下TOT发生机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TOT 的认知视角认为词汇通达过程中目标词相关信息激活或提取不充分导致TOT的发生。研究者争论的焦点是哪些信息提取不充分及其原因，并提出了",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相关的理论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最早提出的不完全激活理论(Incomplete Activation Theory,IAT）（Brown &McNeill,1966)认为口语产生时目标词的记忆提取痕迹激活不充分影响相关信息的提取，从而导致 TOT的发生。IAT没有明确指出记忆痕迹(或信息)不完全激活的具体类型和加工阶段。尽管如此，该理论获得大量证据支持。研究者发现TOT发生时只有部分信息得到激活，特别是与目标词相关的语义信息(Fieder et al,2014;Vigliocco etal.,1999)。TOT条件下目标词成功提取率显著高于不能提取条件(Schwartz& Smith,1997; Schwartz et al.,2000)。此外，TOT 的发生率和随后目标词的正确提取率存在显著正相关(Schwartz，2002)，这表明 TOT发生时目标词的部分信息被激活，其激活强度介于能够提取和不能提取之间，因而TOT发生后目标词更容易被成功地再认或回忆出来。然而，有研究者指出IAT并不能解释TOT 的老化现象(即老年人产生 TOT 的次数显著多于年轻人)。老年人的(情景)记忆会随年龄增长出现明显的衰退，但是无论在行为表现还是脑区激活上，TOT的老化和记忆的老化模式是独立分离的，表明TOT的产生与目标词的记忆痕迹激活强度无关(Huijbers et al.,2016; Salthouse & Mandell,2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "传递缺陷假说(Transmission Deficit Hypothesis,TDH)(Burke et al.,1991)是当前认知视角中普遍被接受的理论，该理论主要解释了TOT中语义信息和语音信息提取的不对称现象。如图1所示，概念系统被激活后，语义层面上的各个语义节点都会产生激活，形成“一对多”的联结方式；当激活从语义节点进一步传递到语音节点时，则会形成“一对一”的联结方式。“一对一”的联结方式比“一对多”更容易出现提取失败现象，导致在TOT现象发生时人们可以提取全部或部分语义信息，而不能充分提取语音信息。支持TDH的证据主要来自启动范式的发现。在启动范式中，研究者通常在产生目标词前或发生TOT后呈现语音或语义相关启动词，并比较哪类信息会影响TOT的发生和解决。研究发现语音相关词的呈现显著地降低了TOT 的发生率(Abrams& Rodriguez,2005；Farrell&Abrams,2011;Kavanaugh,2015;Pureza et al.,2013)，并且显著地提高了TOT的解决率(Oberle & James,2013; Pureza et al,2013;White et al,2013)，但是语义启动词不能降低 TOT发生率或促进 TOT的解决(Farrell,2012; Gordon&Kurczek,2014;White etal.,2013)。在启动范式中，人们会接受来自两类信息：一类是从图画开始的自上而下的信息，另一类则是从启动词开始的自下而上的信息，这两类信息之间的交互作用共同构成了人们的语言产生系统。TOT发生前后，语音启动词均能通过自下而上的信息反馈增强语义与语音节点的联结强度，继而增强语义节点向语音节点的激活传递，促进了目标词语音信息提取。相比而言，TOT发生时目标词语义信息已经提取(Gollan&Brown,2006)，因此语义启动词对 TOT的发生或解决没有显著影响，结果支持了TDH的观点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbcb066537a466c4a9c63dc8e23159dd1e76bc98031c8c3c819c8827976e98f9.jpg",
+        "img_caption": [
+            "图1TOT的传递缺陷假说"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阻塞假说(Blocking Hypothesis，BH）(Jones，1989)则从词汇通达过程中非目标词激活的角度解释TOT发生。在词条选择阶段，与目标词存在语义关联的非目标词也会激活(Dell，1986)，其中某些非目标词因激活阈限低产生了较强激活，抑制了目标词的词条激活和选择，继而影响了音韵编码阶段目标词语音信息的提取，导致了TOT的产生。研究发现，约 $5 0 \\%$ 的 TOT发生时个体都会产生非目标词(Burke etal.,1991;Heine,Ober,& Shenaut,1999)。TOT发生后呈现与目标词语义范畴相同(如同一职业) (Abrams,Trunk,& Merrill,2007;White et al,2013)或词性相同(如为名词或动词)(Abrams& Rodriguez,2005)的启动词均会抑制 TOT 的解决。个体产生TOT后，延迟一段时间进行目标词提取的成功率是即时提取的2 倍(Kuipers,2013；Masselink，2012)，这可能是由于非目标词的激活在延时后会衰退，而目标词的激活会增强。BH虽然能够解释上述发现，但是很难解释没有非目标词产生的 TOT(Abrams&Davis,2017)，也有研究指出非目标词只是 TOT产生后带来的结果而非诱因(Burke etal.,1991)。此外，BH很难解释 TOT老化现象，虽然老年人TOT发生率显著高于年轻人，但是非目标词出现概率约为 $4 8 \\%$ 新远低于青年人的 $67 \\%$ (Burke et al., 1991)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，在TOT的认知视角下，虽然IAT未明确指出激活不充分发生的具体阶段，TDH和BH均强调发生在词汇通达阶段，其中 TDH认为是语音而非语义信息的提取不充分导致了TOT，因而 TOT与音韵编码阶段的认知加工有关；而BH认为TOT与词条选择阶段有关，该阶段语义相关词词条的激活会影响目标词条的选择。然而，认知视角的理论很难解释TOT发生时个体常会出现的元认知体验，以及某些不涉及词汇通达过程的虚假 TOT 现象(Brown，2012；Gollan,Ferreira, Cera,& Flett, 2014; Jersakova, Souchay， & Allen, 2O15; Schwartz et al,2000)。虚假TOT发生后，实际上记忆系统中并没有可提取的目标词与之对应，这意味着在元认知视角下某些TOT很有可能与目标词的信息通达过程无关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2元认知视角下TOT发生机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从元认知视角来看，TOT属于口语产生的一类元认知现象。当前研究者主要关注口语产生的元认知系统如何产生TOT,TOT发生对目标词提取意味着什么，以及TOT如何影响目标词的词汇通达等问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.1启发式元认知模型",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "□语产生时，元认知系统会实时调控口语产生的认知过程(如概念准备、词条选择和单词形式编码等)，目的是使目标词顺利地从记忆系统中提取出来(Leveltet al，1999)。元认知的调控功能包含元认知监测和控制两部分(汪玲，郭德俊,2000)。元认知系统整合个体在目标词提取时所感知到的各种线索，对当前目标词的可提取状态进行监测，所监测的线索或信息包括：第一，采用一般性知识问题范式诱发TOT时，刺激材料所包含的语义线索、暗示性线索(Metcalfe,Schwartz,& Joaquim，1993)和情绪性线索(Schwartz,2010)；第二，口语产生过程中个体已经提取的目标词的部分信息(如语义、语法和部分语音信息)(Schwartz& Smith,1997)；第三，口语产生时个体所处的社会情境中的社会性线索，包括社会环境特征(Brown，2012；James，Schmank，&Castro，2013)、时间压力和要求特征等(Kostic,Booth,& Cleary, 2015; Schwartz,2002) (如图 2)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "元认知监测系统根据以上线索进行启发式推理，从而判断目标词的可提取状态，产生三类结果：第一，目标词处于长时记忆系统，并且可以立即提取；第二，目标词不处于长时记忆系统，不能进行提取；第三，目标词虽然处于长时记忆系统，但是暂时不能提取，这类判断会触发 TOT(Schwartz&Metcalfe,2011)(图 2)。换言之，TOT发生意味着个体意识到目标词仍处于记忆系统，并且可以成功地提取。为了最终成功提取目标词，监测系统会把监测结果反馈到控制系统，控制系统通过选择恰当的提取策略、增强提取动机等方式加强对词汇通达过程的控制。TOT 是监测系统对目标词可提取状态进行启发式推理的结果，推理过程具有自动化和无意识的特点，个体只能意识到监测结果(孙彦，李纾，殷晓莉,2017)。因此，元认知视角的 TOT 理论又被称为推理通达模型(Inferential Access Model)(Shmonina, K laiman, Fedoro va, & Chetverikov, 2014)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2edf6114accff04416fbe88912c8566dd0ac868a79442b97ba0da3f4bdaad64.jpg",
+        "img_caption": [
+            "图2TOT启发式元认知模型(引自Schwartz&Metcalfe,2011) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2TOT对口语产生的调节机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TOT的监测功能。作为一种元认知现象，TOT实时监测口语产生的认知过程(如图3)，其监测机制体现在如下方面：首先，监测TOT发生后目标词的成功提取。自然情境下TOT发生后目标词随后成功提取的概率高达 $9 5 \\%$ ，而实验室情境下TOT可以显著预测目标词的正确再认，预测率在 $40 \\%$ 左右(Schwartz, 2002)。其次，监测目标词相关信息的提取，包括目标词的首字母、音节数量和音节的节律等语音信息(Brown&McNeill,1966; Schwartz,2002)，以及词性和单复数等语义信息(Vigliocco etal.,1999)。最后，监测目标词的知觉特征和词频高低(Cleary&Claxton, 2015)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "尽管如此，TOT的元认知监测功能并不完美。实验室情境下TOT发生率与随后目标词的正确再认只有中等强度的正相关(Schwartz,2001; Schwartz et al.,2000)。自然情境下TOT发生后目标词也并非都能成功提取(Schwartz,2002)。此外，虚假TOT指目标词不存在于记忆系统，但元认知系统依然根据线索推理作出目标词存在只是暂时不能提取的错误判断，表明元认知监测功能存在不足(Schwartz,2001; Schwartzetal,2000)。这可能是由于启发式推理过程容易受线索的熟悉性、可通达性、典型性及刻板印象等非理性因素的影响，从而导致推理偏差甚至错误(陈芳艳，李锋盈，李伟健,2016)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TOT的控制功能。除了监测目标词的提取状态，TOT能够控制目标词的提取过程(Schwartz&Metcalfe,2014)(如图3)。当监测功能判断目标词依然有可能提取成功时，该结果会反馈到元认知的控制水平，控制水平的信息反馈至认知水平，从而实施对具体提取过程的控制以成功提取目标词(Schwartz,2002)。TOT元认知体验的控制功能体现在：有意识地增加目标词搜索时间(Kuipers,2013;Masselink,2012)和解决动机(Schwartz,2008)，使目标词的提取编码更加独特和精细(Warriner&Humphreys,2008)，以及选择适当的提取策略(Burke etal.,1991)。第一，在提取时间上，Schwartz(2001)发现 TOT发生后目标词再认反应时更长，但认知视角理论认为目标词已得到部分激活，再认反应时应该比未发生TOT时更短。第二，在提取动机上，当前项目(N)发生TOT后，会降低随后第一个项目$( \\mathsf { N } { + } 1 )$ 及第二个项目 $( \\Nu + 2 )$ 的 TOT发生率。其原因可能是项目N发生TOT后，较多元认知资源被分配至项目N，用于监测和控制第 $_ { \\mathrm { N + 1 } }$ 和第 $_ { \\mathrm { N } + 2 }$ 的资源相应减少，从而影响随后项目提取时 TOT的发生(Schwartz,2011)。第三，在编码的独特性和精细化上，TOT发生后个体会进行特定的内隐学习，这使个体提取目标词时容易再次发生TOT(Warriner&Humphreys,2008)。第四，在提取策略上，当个体可以根据不同情境选择恰当策略时，TOT解决率显著高于只能被动选择主试指定的策略(Schwartz,2002)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，TOT的监测和控制功能与伴随TOT产生的元认知体验密切关联。根据汪玲和郭德俊(2000)对元认知本质的论述，我们推测元认知系统对目标词成功提取的调节(即监测和控制)受TOT元认知体验的激发和驱动，元认知体验有助于个体充分意识到目标词提取过程中存在的问题及应对策略。与此同时，口语产生过程的实时信息会伴随元认知体验反馈到元认知监测系统，以利于元认知控制活动进行及时调整。换言之，TOT的元认知体验在口语产生的元认知和词汇通达过程之间架起了沟通的桥梁，促进信息在元认知和认知水平上交流和互动，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从而最终实现目标词的提取。 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/89d765c4fc872916dd916b8b6956f037f91926f827e3e7de22cd0256772595f8.jpg",
+        "img_caption": [
+            "图3认知和元认知视角下TOT发生机制的联系"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3认知和元认知视角下TOT发生机制比较 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "认知和元认知视角分别从口语产生的认知过程和元认知过程对TOT的发生机制进行解释。前者认为词汇通达过程中信息激活或提取不充分，亦或受到非目标词激活的干扰，影响了目标词的提取，因此产生了TOT；后者则认为TOT是元认知系统对目标词可提取状态监测的结果，表明目标词仍处于记忆系统但是暂时不能提取。这两种视角相互补充，丰富了对TOT发生机制的认识：第一，TOT作为口语产生中特殊的单词提取失败现象，包括了认知过程和元认知过程(Facal,Junco s-Rabadan, Rodriguez, & Pereiro, 2O12; Huijbers et al., 2O16; Schwartz &Metcalfe,2011; Schwartz&Brown,2014)(如图3)。TOT的元认知过程能促进目标词的提取，表明个体能够较准确地监测记忆系统中目标词的可提取状态。TOT发生后，元认知控制系统会增强对目标词提取过程的控制，尽可能地使目标词从暂时不能提取的状态转化为成功提取。第二，TOT的影响因素极为复杂，其中认知视角主要关注语言学属性和被试特征影响TOT发生所涉及的认知过程(见3.1)，而元认知视角主要关注词汇提取线索及个体所处的社会情境影响口语产生的元认知过程(见3.2)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3认知和元认知视角下TOT影响因素",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1认知视角下影响TOT的因素",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究者以口语产生中目标词的信息提取为切入点，发现在行为层面上影响目标词提取的因素也能够影响TOT的发生。这些因素表现在两方面：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第一，目标词汇特征，包括词频、获得年龄、音节频率和语音家族密度等。低频词 TOT 发生率显著高于高频词(Navarrete,Pastore，Valentini，& Peres sotti2015)，这是由于低频词语义和语音节点的联结强度较弱，因而更容易产生传输缺陷。获得年龄较晚、音节频率较低、语音家族密度较小的目标词会产生更多的TOT(Farrell & Abrams, 2O11; Navarrete et al, 2O15; Sadat, Martin, Costa, & Alario,2014)。目标词的其它属性，如词长(Pureza,Soares,&Comesana,2016)、音节数(Pureza et al.,2013)及抽象性(Gianico-Relyea &Altarriba,2012)等也会影响 TOT的发生。值得注意的是，专有名词(如人名)比普通名词(如动物名)更易诱发TOT及产生 TOT 老化现象(Abrams & Davis,2017; Kljajevic & Erramuzpe,2018)。与普通名词相比，专有名词语义和语音的联结较弱，专有名词的语义系统包含较少的语义特征，而且特征与概念的联结相对随意，这增加了专有名词的语义提取及随后词条提取的难度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二，被试特征，包括年龄、双语水平，以及认知功能障碍类型等。实验室和自然情境的TOT研究均发现老年人TOT发生率明显高于年轻人或其他年龄群体(Salthouse＆Mandell,2013；赵瑞等,2019)。研究者从认知视角分别提出 BH和 TDH的理论观点对TOT老化现象进行解释。前者认为老年人抑制能力下降，因此不能有效排除自动激活的无关信息对目标词提取的干扰(彭华茂，毛晓飞,2018)。后者认为老化导致目标词语义和语音联结减弱(Abrams etal.,2007;Burkeetal,1991)。TOT发生后呈现语音相关启动词，老年人TOT解决率显著低于年轻人(Abrams etal,2007;Heine etal,1999)，说明语音启动并不能弥补老年人因联结缺陷导致的语音提取困难。尽管TOT老化机制仍有争议，但当前研究倾向于认为联结老化是主要原因。被试的双语经验(Gollan et al.,2014;Pureza et al.,2013,2016)以及双语熟练水平(Borodkin,Maliniak&Faust,2017)均影响 TOT发生，这可能是由于非熟练双语者比单语者或熟练双语者目标词语义和语音节点的联结强度弱。认知功能障碍的脑损伤研究表明，阅读障碍(Suarez-Coalla,Alonso,&",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gonzälez-Nosti, 2014)、失语症(Funnel,Metcalfe,& Tsapkini,2014)和阿尔茨海默症个体(Juncos-Rabadan, Onésimo,Facal, Lojo-Seoane,& Pereiro,2O13)TOT 发生率比同龄正常被试高。这些个体在口语产生时常表现出语音提取缺陷，导致他们更容易产生TOT。总之，上述研究说明目标词语音信息提取会影响 TOT的发生，支持了认知视角下TDH的理论观点。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2元认知视角下影响TOT的因素",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "元认知视角下的TOT发生与个体口语产生时感知到的提取线索有关，具体包括线索的熟悉性(Cleary, Staley,& Klein, 2014; Metcalfe et al.,1993; Schwartz &Smith，1997)、情绪性(D'Angelo & Humphreys,2012；Schwartz,2010)和数量(Schwartz& Smith,1997)。Metcalfe等(1993)发现 T0T的发生与目标词本身的记忆强度无关，而与线索的熟悉度有关。情绪会同时影响认知和元认知过程，但研究发现情绪对词汇产生中认知与元认知过程的影响存在分离：情绪会导致更多的TOT发生，但不会影响目标词的最终提取(Schwartz,2010)。关于线索数量，使用目标词定义范式的研究发现，表述更繁琐、包含信息量更多的定义比表述简短的定义诱发更多TOT，但是对目标词最终提取也没有影响(Koriat&Lieblich,1977)。根据元认知观点，上述属性可能是通过影响目标词可提取性推理过程的加工流畅性(Cleary&Claxton,2015)或加工信念(Bjork,Dunlosky,& Kornell,2013)等方式影响 TOT的发生。线索数量影响启发式推理，口语产生时个体感知的线索越多，越倾向于产生目标词存在于记忆系统且有可能提取的信念(陈芳艳等，2016)。此外，被试变量也会影响元认知视角 TOT的发生。Souchay 和 Smith(2013)发现额叶损伤的帕金森综合症患者与对照组在TOT发生率上无显著差异，但是患者在TOT 发生时提取目标词相关信息较少且随后正确再认率更低，说明元认知功能受损影响了TOT监测和控制功能。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，社会(自然)情境因素可能通过元认知监测机制(如核查机制)影响口语产生(Ganushchak& Schiler,2006)，这对理解自然情境下TOT发生机制具有重要理论意义。研究者设置高(面试情境)、低(非面试情境)社会压力情境，发现高压力情境会产生更多 TOT(Brown,2012；James etal，2013；James et al.,2018)。社会情境中的时间压力和要求特征(如期望)也会影响 TOT发生，处于考试情境或对词汇提取难度预期较低的个体会产生更多 TOT(Schwartz,2002)。个体为弥补目标词的提取不足可能会采取补偿策略(Schwartz，2002)，通过产生更多TOT以获得他人认可。因此，TOT的发生有利于增强个体的社会动机，促进社会互动。目前社会情境下TOT研究还较少，社会情境因素对TOT的影响机制可能比想象中复杂，未来有待进行更深入探究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4认知和元认知视角下TOT的神经机制",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以往研究从口语产生的时间进程和空间激活两方面阐释TOT的生理基础，发现两种视角下TOT的生理基础在时间和空间上存在双分离。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1认知和元认知视角下TOT的时间进程",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究使用ERP(Event-relatedPotential)技术考察两种视角下TOT的时间进程，发现在口语产生的中、晚期认知和元认知TOT存在分离。研究者通过比较 TOT和正确反应分离的时间进程发现：在 $3 1 0 { \\sim } 5 1 0 \\ \\mathrm { m s }$ 时间窗，正确反应诱发更加显著的正波，该成分反映目标词语音信息的成功提取(Diaz,Lindin,Galdo-Alvarez,Facal, & Juncos-Rabadan, 20O7;Lindin & Diaz, 201O)；在 $5 8 0 { \\sim } 8 2 0 ~ \\mathrm { m s }$ 时间窗，TOT诱发更加显著的负波，该成分反映TOT发生后元认知系统对词汇提取的控制(Diaz et al., 2007; Lindin & Diaz, 201O; Lindin, Diaz, Capilla, Ortiz, & Maestu, 2010)。此外，Bujan等(2012)发现正确反应的单侧化准备电位始潜伏期 $( 3 6 0 ~ \\mathrm { m s } )$ 早于TOT反应 $( 4 6 0 ~ \\mathrm { m s } )$ ，说明正确反应中目标词语音通达时间要早于TOT条件。进一步研究发现在 $7 5 0 { \\sim } 1 1 0 0 \\ \\mathrm { m s }$ 时间窗，TOT诱发更加显著的负波，该成分与TOT发生后目标词的语音搜索及冲突的监测有关(Bujan etal.,2012)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2认知视角下TOT的神经基础 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "认知视角认为TOT的神经基础本质上等同于口语产生时目标词语义和语音信息提取的神经基础。TOT发生时负责语义加工的额叶脑区会出现更大激活，具体包括右侧额下回、额中回、额背侧和双侧额前回(Maril，Simons，Weaver,&Schacter,2005;Maril,Wagner,& Schacter,2001)，以及左前额中回和额下回(Marilet al，2001)。其中，左前额中回和额下回的激活与语义提取时的努力程度有关(Rodd,Vitello,Woollams，&Adank，2015)。右侧额下回的激活与目标词提取时相关视空信息线索(Maril et al.,2001;Maril etal.,2005)或韵律信息有关(Geva et al.,2012)。上述结果说明，虽然个体在TOT发生时可以提取目标词的语义信息，但是需要消耗更多的额叶资源及使用更加精细的提取策略。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "与语义加工脑区不同，TOT发生时语音提取相关脑区表现出更弱的激活。脑岛主要功能是支持目标词语音信息提取，研究发现TOT老化现象与老年人脑岛激活下降或脑岛灰质密度萎缩有关(Shafto,Stamatakis,Tam,&Tyler,2010;Burke&Graham,2012)。双侧上纵束可能参与词汇语音提取脑网络的连接，其密度的下降常会导致老年人产生更多TOT(Stamatakis,Shafto,Williams,Tam,& Tyler, 2011)。根据口语产生激活脑区的元分析，语音提取还涉及左侧颞上回后部、颞中回及右侧辅助运动区等(Indefrey&Levelt,2004)，TOT发生时这些脑区的激活强度会下降。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上，认知视角下额叶脑区的激活反映目标词语义信息的激活与提取，激活程度的增强反映TOT发生时个体通达语义需要更精细的认知加工。此外，目标词语音信息提取时脑岛、上纵束及颞叶等脑区发挥重要作用，其激活程度的下降反映TOT发生时语音信息提取不足。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3元认知视角下TOT的神经基础 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "TOT的元认知过程涉及目标词提取状态的监测及随后目标词提取过程的控制，因此会激活与监测和控制活动相联系的前扣带回(AnteriorCingulate Cortices,ACC)、前额叶(PrefrontalCortex，PFC)、右侧背外侧前额皮质(DorsolateralPrefrontalCortex,DLPFC)和右侧前额下回(Inferior Prefrontal Cortex,IPFC)等脑区,及这些脑区组成的神经回路(Hayashi,Ko，Strafella,& Dagher,2O13；Maril et al.,2001；Zhu et al，2014)。TOT 发生时 ACC 主要负责监测目标词的提取状态(Huijbers et al.，2016)，右侧 DLPFC(Shimamura,2008)和 PFC 前部(Allan, Wolf,Rosenthal,&Rugg,2001)实时监测口语产生过程中目标词的相关信息。非目标词对目标词的提取产生干扰，右侧DLPFC的激活反映元认知系统对认知冲突的控制(Maril etal,2001;Maril etal.,2005)，而左侧DLPFC 能够监测 TOT发生后目标词的成功提取(Kikyo,Ohki,& Sekihara,2001)。TOT从发生到解决的整个过程还涉及PFC-ACC神经网络，该网络调节注意资源在目标词提取过程中的分配和转移(MacDonald, Cohen, Stenger, & Carter, 2000)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "综上，元认知视角下TOT所激活的前扣带回和前额叶等脑区反映了元认知系统对目标词提取状态的监控和提取过程的控制。认知和元认知视角下TOT激活脑区的不同表明TOT的发生及解决包括了认知过程和元认知过程及两个过程之",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "间的相互影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5总结与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "根据研究现状，我们认为未来TOT研究应该深入探讨以下方面：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第一，关注元认知视角下TOT的发生和调节机制，了解其对口语产生的积极作用。以Schwartz为代表的研究者创新性地提出，TOT属于口语产生的元认知现象，为我们认识口语产生过程提供了崭新视角。尽管启发式元认知模型尝试解释 TOT现象(Schwartz＆Metcalfe，2011)，但仍有很多问题亟待解决。例如，TOT 的元认知机制如何发生？影响其发生的因素有哪些？社会情境因素如何影响 TOT？作为一种元认知过程，TOT可以调节(监测和控制)具体的口语产生过程，这一调节过程是如何发生的？TOT发生时产生的主观元认知体验又是如何参与调节过程？未来仍需要更多的研究深入探讨口语产生元认知过程的本质(Schwartz&Cleary,2016)，以便更全面地理解口语产生过程。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第二，加强汉语TOT研究，为构建汉语词汇产生理论提供实证支持。目前TOT 研究主要基于印欧语系，如荷兰语、西班牙语和英语等，但印欧语系在多方面与汉语存在差异(O'Seaghdha,Chen,& Chen,2010；Zhu,Damian,& Zhang,2015)，这可能意味着现有研究成果不能简单推广至汉语。目前，研究者忽视了汉语口语产生中 TOT发生的基本特点和规律。Zhang等人的英汉对比研究发现英语口语产生中词条选择和音韵编码之间存在交互作用，词条选择阶段的语义激活以交互作用(Interactive)的方式传输至音韵编码阶段，且音韵编码阶段的语音激活可以反馈至词汇词条选择阶段；然而，汉语口语产生中词条选择和音韵编码是两个独立的阶段，前一阶段的激活是以系列分离(Seria)的方式传输至后一阶段，且后一阶段的激活几乎不能反馈至前一阶段(Zhang,Zhu,& Damian,2018;Zhu etal，2015)。不同语言中信息间作用模式的不同可能导致 TOT发生后提取信息特点的不同，在交互作用的口语产生系统中产生TOT后人们可能能够提取语义和语音信息，但在系列分离的口语产生系统中人们可能仅能提取语义信息。未来研究有待于揭示汉语口语产生过程中TOT发生的基本规律，以及不同模式的口语产生系统对 TOT的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "第三，注重TOT年老化研究，为预防口语产生老化及实施必要干预措施提供实践指导。随着我国人口老龄化速度不断加快，言语产生老化成为学界关注的热点(Wright,2016；何文广,2017；黄立鹤,2015；杨群，张清芳，2015)。TOT老化是典型的口语产生老化现象，口语产生的老化理论认为老年人口语产生时目标词语义和语音节点之间联结的减弱，导致老年人出现更多的语音信息提取失败。由于汉语口语产生中语义和语音提取阶段之间不存在交互作用，这是否意味汉语比印欧语言更容易产生TOT老化现象？此外，元认知观点认为TOT属于口语产生的元认知判断，在口语产生暂时提取失败后其可以调节随后目标词的信息提取过程，使目标词最终获得提取。老年人TOT发生后是如何调节目标词提取？老年人以及年轻人的一般认知能力(包括控制能力、监测能力和情绪管理能力等)和言语能力(包括语言理解和语言产生能力等)与 TOT之间的关系如何？研究可以通过测量并比较这些方面对TOT发生时认知和元认知过程的影响，考察人类口语产生中认知和元认知加工过程的关系及其发展变化。值得注意的是，工作记忆训练可以改善言语认知老化(Payne，2014)，TOT 训练可以提高儿童的言语能力(Oh-Lee,Szymkowicz, Smith,& Otani,2012)，类似的训练是否可以延缓口语产生老化，有待进一步研究。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "第四，考察TOT的认知和元认知过程的神经机制以及两类过程的相互影响。虽然研究表明两种 TOT的神经机制存在分离(Burke ＆ Graham，2012；Lindin&Diaz,2010;Mariletal,2001)，但缺乏较“纯”的实验任务分离认知和元认知 TOT对应的认知活动，神经机制研究仍处于起步阶段。以往研究采取相同的实验任务分口语产生的认知和元认知过程，但很难排除两者之间的相互影响。虚假 TOT不涉及目标词提取，因此属于“较纯”的元认知现象(Schwartz etal.,200O)。未来研究可以比较诱发的虚假 TOT与语义和语音提取神经激活的差异，从而实现元认知和认知的实验性分离。TOT常伴随不同的元认知体验，不同元认知成分对随后目标词成功提取的预测存在差异，这意味着元认知TOT可能存在不同的认知神经机制。更进一步，TOT发生时认知和元认知过程之间会产生相互影响，两类过程各自的脑网络之间是如何联结并互相影响的？这些都是需要深入探索的问题。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "陈芳艳，李锋盈，李伟健.(2016)．知觉线索对元记忆监控的影响．心理科学进展,24(4),494-500.   \n何文广.(2017)．语言认知老化机制及其神经基础．心理科学进展,25(9),1479-1491.   \n黄立鹤.(2015).近十年老年人语言衰老现象研究：回顾与前瞻．北京第二外国语学院学报,10, 17-24.   \n彭华茂，毛晓飞.(2018)．抑制对老年人舌尖现象的影响．心理学报,50(10),1142-1150.   \n孙彦，李纾，殷晓莉.(2007)．决策与推理的双系统——启发式系统和分析系统．心理科学进展, 15(5), 721-726.   \n汪玲，郭德俊.(2000).元认知的本质与要素．心理学报,32(4),458-463.   \n杨群，张清芳．(2015)．口语产生中的认知年老化及其神经机制．心理科学进展，23(12), 2072-2084.   \n赵瑞瑛，娄昊，欧阳明昆，张清芳．(2019)．自然情境下舌尖效应的认知年老化——日记研究．心 理学报,51(5),598-611.   \nAbrams, L.,& Davis,D. K. (2O17). Co mpetitors or teammates: Ho w proper names influence each other. Current Directions in Psychological Science,26(1),87-93.   \nAbrams，L.， & Rodriguez， E. (2005). Syntactic class influencesphonological priming of tip-of-the-tongue resolution. Psychonomic Bulletin & Review,12(6), 1018-1023.   \nAbrams,L., Trunk, D. L.,& Merill, L. A. (20o7). Why a superman cannot help a tsunami: Activation of grammatical class influences resolution of young and older adults’ tip -of-the-tongue states. Psychology and Aging, 22, 835-845.   \nAllan,K.，Wolf, H. A.， Rosenthal, C. R.，& Rugg,M. D.(20O1). The effect of retrieval cues on post-retrieval monitoring in episodic memory: An electrophysiological study. Cognitive Brain Research,12(2),289-299.   \nBjork,R.A., Dunlosky, J.，& Kornel, N. (2O13). Self-regulated learm ing: Beliefs,techniques,and illusions. Annual Review of Psychology,64,417-444.   \nBorodkin, K.， Maliniak, O.,& Faust, M.(2Ol7). Exploring the nature of phonological weakness in low-p roficiency second language learners. Learning and Individual Diferences,57,133-140.   \nBro wn,A. S. (2012). The tip ofthe tongue state.Hove, United Kingdom: Psychology Press.   \nBro wn, R., & McNeill, D. (1966). The “tip of the tongue” phenomenon. Journal of Verbal Learning and Behavior, 5(4), 325-337.   \nBujan,A., Galdo-Alvarez, S., Lindin, M.,& Diaz, F. (2012). An event-related potentials study of face naming: Evidence of phonological retrieval deficit in the tip-of-the-tongue state. Psychophysiology, 49(7), 980-990.   \nBurke,D.M., MacKay, D. G., Worthley,J. S.,& Wade,E.(1991). On the tip of the tongue: What ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "causes word finding failures in young and older adults? Joumal of Memory and Language,30(5), ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "542-579.   \nBurke,D. M.,& Graham, E. R. (2O12). The neural basis for aging effects on language.In M. Faust (Ed.)，The handbook of the neuropsychology of language (pp.778-800). Oxford: Blackwell Publishing.   \nCleary,A. M., Staley, S.R.,& Klein, K. R. (2014). The effect of tip-of-the-tongue states on other cognitive judgments. In B. L. Schwartz & A. S. Brown (Eds.)， Tip-of-the-tongue states and related phenomena (pp. 75-94). New York: Cambridge University Press.   \nCalabi, C. (2016).“Ancona?” Aha! that's her name! Tip-of-the-tongue experiences. Analysis,76(4), 409-418.   \nCleary,A. M.,& Claxton,A. B.(20l5). The tip-of-the-tongue heuristic: How tip-of-the-tongue states confer perceptibility on inaccessible words. Journal of Experimental Psychology: Learning, Memory, and Cognition,41(5),1533-1539.   \nD'Angelo,M. C.，& Humphreys,K.R. (2012). Emotional cues do not increase the likelihood of tip-of-the-tongue states. Memory & Cognition, 40(8), 1331-1338.   \nDell, G. S.(1986). A spreading-activation theory of retrieval in sentence production. Psychological Review, 93(3),283-321.   \nDiaz.F., Lindin,M., Galdo-Alvarez, S., Facal, D.，& Juncos-Rabadán, O. (2O07). An event-related potentials study offace identification and naming: The tip-of-the tongue state.Psychophysiology, 44(1), 50-68.   \nFacal, D., Juncos-Rabadan, O., Rodriguez, M. S., & Pereiro, A. X. (2012). Tip-of-the-tongue in aging: Influence of vocabulary， working memory and processing speed. Aging Clinical and Experimental Research,24(6), 647-656.   \nFarell, M. T. (2O12). What's in a name? Predictors of proper name retrieval deficits in older age (Unpublished doctorial dissertation). University of Florida.   \nFarrell, M. T.，& Abrams,L. (2Ol1). Tip-of-the-tongue states reveal age diferences in the syllable frequency efect. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37(1), 277-285.   \nFieder, N., Nickels,L.,& Biedermann, B. (2014). Representation and processing of mass and count nouns:A review. Frontiers in Psychology,5, 1-18.   \nFunnel,M.,Metcalfe,J.,& Tsapkini, K. (2O14). In the mind but not on the tongue: Feeling of knowing in an anomic patient. In L. M. Reder (Ed.), Implicit memory and metacognition (pp. 183-206). Hillsdale, NJ: Erlbau m.   \nGanushchak,L. Y.,& Schiller, N. O.(2006). Efects of time pressure on verbal self-monitoring. Brain Research,1125,104-115.   \nGeva,S.,Jones,P.S., Crinion,J.T.,Price,C.J.,Baron, J. C.,& Warburton, E.A.(2012).The effectof aging on the neural correlates of phonological word retrieval. Journal ofCognitive Neuroscience, 24(11), 2135-2146.   \nGianico-Relyea, J.L.,&Altarrba,J. (2Ol2). Wordconcreteness as a moderatorofthe tip-of-the-tongue effect. The Psychological Record,62(4), 763-776.   \nGollan,T.H.,& Brown,A. S.(2006).From tip-of-the-tongue (TOT) data to theoretical implications in two steps: When more TOTs means better retrieval. Journal of Experimental Psychology: General, 135(3), 462-483.   \nGollan，T.H.，Fereira，V. S.，Cera，C.，& Flett，S.(2O14)．Translation-priming effectson tip-of-the-tongue states . Language, Cognition and Neuroscience,29(3), 274-288.   \nGordon, J. K.,& Kurc zek, J. C. (2014). The ageing neighbourhood: Phonological density in naming. Language, Cognition and Neuroscience, 29(3), 326-344.   \nHayashi, T., Ko,J. H., Strafell,A.P.,& Dagher, A. (2O13). Dorsolateral prefrontal and orbitofrontal cortex intemctions during self-control of cigarette craving. Proceedings ofthe National Academy ofSciences ofthe United States ofAmerica, 110(11), 4422-4427.   \nHeine,M. K., Ober, B.A.,& Shenaut, G. K.(1999). Naturally occurring and experimentally induced tip-of-the-tongue experiences in three adult age groups. Psychology and Aging,14(3), 445-457.   \nHuijbers,W., Papp, K. V., LaPoint, M., Wigman, S. E., Dagley, A., Hedden,T.,..& Sperling, R. A. (2016). Age-related increases in tip-of-the-tongue are distinct from decreases in remembering names: A functional MRI study. Cerebral Cortex, 27, 4339-4349.   \nIndefrey,P.,& Levelt,W. J. M. (2O04). The spatial and temporal signatures of word production components. Cognition, 92(1),101-144.   \nJames,L. E., Schmank, C. J.,& Castro,N. (2013). Word retrieval is harmed by stressful conditions . Poster presented at the $1 2 1 ^ { \\mathrm { s t } }$ annual convention of the American Psychological Association, Honolulu, HI.   \nJames,L. E. Schmank, C.J., Castro,N.,& Buchanan,T. W. (2018). Tip of the tongue states increase under evaluative observation. Journal of Psycholinguistic Research,47(1), 169-178.   \nJersakova,R., Souchay, C., & Allen, R. J. (2O15). Negative affect does not impact semantic retrieval failure monitoring. Canadian Journal of Experimental Psychology/Revue canadienne de psychologie expérimentale, 69(4), 314-326.   \nJones,G. V. (1989). Back to woodworth: Role of interlopers in the tip of the tongue phenomenon. Memory & Cognition,17(1), 69-76.   \nJuncos-Rabadan, Onesimo,Facal, D.,Lo jo-Seoane, C.,& Pereiro,A. X. (2013). Tip-of-the-tongue for proper names in non-amnestic mild cognitive impairment. Journal of Neurolinguistics, 26(3), 409-420.   \nKavanaugh， S. P. (2O15). Efects of phonologically related words on tip-of-the-tongue (TOT) (Unpublished bachelor's thesis). University of Montana,Mis soula.   \nKikyo,H., Ohki, K.,& Sekihara, K. (2001). Te mporal characterization of memory retrieval processes : An fMRI study of the ‘tip ofthe tongue' phenomenon. European Journal ofNeuroscience,14(5), 887-892.   \nKljajevic, V., & Erramu zpe,A. (2O18). Proper name retrieval and structural integrity of cerebral cortex in midlife: A cross-sectional study. Brain and Cognition,120, 26-33.   \nKostic,B., Booth,S. E.,& Cleary, A. M. (2015). The role of analogy in reports of presque vu: Does reporting the presque vu state signal the near retrieval of a source analogy? Journal ofCognitive Psychology,27(6), 739-754.   \nKoriat,A., & Lieblich,I. (1977). A study of memory pointers. Acta Psychologica,41(2),151-164.   \nKuipers, S. C.(2O13).Effect ofincubation on the resolution oftip-of-the-tongue states and the relation with attention and concentration (Unpublished bachelor's thesis). University of Twente, Enschede.   \nLevelt,W. J. Roelofs,A.,& Meyer, A. S.(1999). A theory of lexical access in speech production. Behavioral and Brain Sciences,22(1), 1-38.   \nLindin,M.，& Diaz, F. (2010). Event-related potentials in face naming and tip-of-the-tongue state: Further results. International Journal of Psychophysiology,77(1), 53-58.   \nLindin,M.，Diaz, F，Capilla,A., Ortiz,T.，& Maestu,F.(201O). On the characterization of the spatiotemporal profiles of brain activity associated with face naming and the tip-of-the-tongue state: A magnetoencephalographic (MEG) study. Neuropsychologia, 48(6), 1757-1766.   \nMacDonald, A.W., Cohen,J. D., Stenger, V. A.，& Carter, C. S.(2000). Dissociating the role of the dorsolateral prefrontal and anterior cingulated cortex in cognitive control. Science， 288, 1835-1838.   \nMaril,A.， Simons,J. S.，Weaver, J. J.，& Schacter,D.L. (2Oo5). Graded recall success:An event-related fMRI comparison of tip of the tongue and feling of knowing. Neuroimage, 24(4), 1130-1138.   \nMaril, A., Wagner A. D.,& Schacter, D.L. (2O01). On the tip of the tongue: An event-related fMRI study of semantic retrieval failure and cognitive conflict. Neuron,31(4), 653-660.   \nMasselik, J. (2012). The effect of incubation on the resolution of tip-of-the-tongue states and the relation between resolution, incidence and cognitive ability (Unpublished bachelor's thesis). University of Twente, Enschede.   \nMetcalfe,J., Schwartz, B.L.,& Joaquim,S. G.(1993). The cue familiarity heuristic in metacognition. Journal ofExperimental Psychology: Learning, Memory, and Cognition, 19(4), 851-861.   \nNavarrete,E.,Pastore,M.,Valentini, R.,& Peressotti,F.(2O15).First learned words are not forgotten: Age-of-acquisition effects in the tip-of-the-tongue experience. Memory & Cognition，43(7), 1085-1103.   \nOberle,S.，& James,L. E. (2013). Semantically- and phonologically-related primes improve name retrieval in young and older adults. Language and Cognitive Processes, 28(9),1378-1393   \nOh-Lee,J. D., Szy mkowicz, S. M., Smith, S. L.,& Otani, H. (2012). Metacognitive performance,the tip-of-tongue experience, is not disrupted in parkinsonian patients. Parkinson's Disease, 1-12.   \nO'Seaghdha,P. G.，Chen，J. Y.，& Chen，T. M.(2010). Pro ximate units in word production: Phonological encoding begins with syllbles in Mandarin Chinese but with segments in English. Cognition, 115(2),282-302.   \nPayne,B. R. (2O14). The effcts of verbal working memory training on language comprehension in older adulthood (Unpublished doctorial dissertation). Urbana, Ilinois: University of Illinois at Urbana-Champaign.   \nPureza，R.， Soares，A.P.，& Comesana，M.(2O13). Syllabic pseudohomophone priming in tip-of-the-tongue states resolution: The role of syllbic position and number of syllables. The Quarterly Journal of Experimental Psychology, 66(5), 910-926.   \nPureza,R., Soares, A.P. & Comesana,M.(2016). Cognate status,syllable position and word length on bilingual tip-of-the-tongue states induction and resolution. Bilingualism: Language and Cognition,19(3), 533-549.   \nRodd,J. M.， Vitello, S., Woollams,A. M.，& Adank, P. (2015). Localising semantic and syntactic processing in spoken and written language comprehension: An activation likelihood estimation meta-analysis. Brain and Language,141(1), 89-102.   \nSadat,J.,Martin,C.D., Costa,A.,& Alario,F. X. (2O14). Reconciling phonological neighborhood effects in speech production through single trial analysis. Cognitive Psychology, 68,33-58.   \nSalthouse,T. A.,& Mandell, A. R. (2O13). Do age-related increases in tip-of-the-tongue experiences signify episodic memory impairments? Psychological Science,24(12), 2489-2497.   \nSchwartz, B. L. (2001). The relation of tip-of-the-tongue states and retrieval time. Memory & Cognition,29(1), 117-126.   \nSchwartz, B. L. (2o02). Tip-of-the-tongue states: Phenomenology， mechanism, and lexical retrieval. Mah wah, NJ: Erlbaum.   \nSchwartz, B. L. (20o08). Working memory load diferentially affects tip-of-the-tongue states and feeling-of-knowing judgment. Memory & Cognition, 36(1), 9-19.   \nSchwartz, B.L. (2010). The effects of emotion on tip-of-the-tongue states. Psychonomic Bulletin & Review, 17(1), 82-87.   \nSchwartz, B.L.(2O11).The effect of being in a tip-of-the-tongue state on subsequent items. Memory & Cognition, 39(2), 245-250.   \nSchwartz, B. L.， & Bro wn, A. S. (Eds.). (2014). Tip-of-the-tongue states and related phenomena. Cambridge, United Kingdom: Cambridge University Press.   \nSchwartz, B.L.,& Cleary,A. M. (2O16).Tip-of-the-tongue states,déja vu and other metacognitive oddities .In J. Dunlosky & S. Tauber (Eds.), Oxford Handbook of Metamemory (pp. 95-108). New York: Oxford University Press.   \nSchwartz,B.L.，& Metcalfe,J. (2011). Tip-of-the-tongue (TOT） states: Retrieval, behavior, and e xperience. Memory & Cognition,39(5), 737-749.   \nSchwartz, B. L.，& Metcalfe， J. (2014). Tip-of-the-tongue (TOT） states: Mechanisms and metacognitive control. Tip-of-the-tongue States and Related Phenomena, 15-31.   \nSchwartz, B. L.，& Smith， S. M. (1997). The retrieval of related information influences tip-of-the-tongue states. Journal ofMemory and Language, 36(1), 68-86.   \nSchwartz, B. L., Travis, D. M., Castro, A.M.,& Smith, S. M. (200O). The phenomenology of real and illusory tip-of-the-tongue states. Memory & Cognition,28(1),18-27.   \nShafto,M. A. Stamatakis, E. A., Tam, P.P.,& Tyler, L. K. (2010). Word retrieval failures in old age: The relationship between structure and function. Journal of Cognitive Neuroscience, 22(7), 1530-1540.   \nShimamura, A. P. (2O08). A neurocognitive approach to metacognitive monitoring and control. Handbook of Metamemory and Memory, 373-390.   \nShmon ina, O.D., Klaiman, V. O., Fedorova,A. I.,& Chetverikov,A. A. (2014). Memory access in the tip-of-the-tongue State. The Russian Journal ofCognitive Science,1(3), 29-30.   \nSouchay, C.,& Smith,S. J. (2013). Subjective states associated with retrieval failures in Parkinson's disease. Consciousness and Cognition,22(3), 795-805.   \nStamatakis,E. A., Shafto, M. A., Willams,G., Tam,P.,& Tyler, L. K. (2011). White matter changes and word finding failures with increasing age. PloS One, 6(1),e14496.   \nSuarez-Coala,P.，Alonso,A. C.，& Gonzalez-Nosti, M. (2O14). Phonological recovery in Spanish developmentaldysle xics through the tip-of-the-tongue paradigm. Psicothema,25(4), 476-481.   \nVigliocco, G., Vinson,D.P.,Martin, R. C.,& Garrett,M.F. (1999). Is “count”and“mass”information available when the noun is not? An investigation of tip of the tongue states and anomia. Journal of Memory and Language, 40(4), 534-558.   \nWariner, A.B.，& Humphreys, K. R.(20o8). Learning to fail: Reoccurring tip-of-the-tongue states. The Quarterly Journal ofExperimental Psychology, 61(4), 535-542.   \nWhite,K. K., Abrams, L. & Frame, E. A. (2013). Semantic category moderates phonological priming of proper name retrieval during tip-of-the-tongue states. Language and Cognitive Processes, 28(4), 561-576.   \nWright, H. H. (2O16). Cognition, language and aging. Amsterdam and Philadelphia: John Benjamins Publishing Co mpany.   \nZhang,Q., Zhu,X.，& Damian,M.F. (2O18). Phonological activation of category coordinates in spoken word production: Evidence for cascaded processing in English but not in Mandarin. Applied Psycholinguistics,1-26.   \nZhu,L., Jenkins,A.C., Set,E., Scabini,D., Knight,R.T.,Chiu,P.H.,..& Hsu,M. (2014). Damage to dorsolateral prefrontal cortex affects tradeoffs between honesty and self-interest. Nature Neuroscience, 17(10), 1319-1321.   \nZhu, X., Damian,M.F.,& Zhang, Q. (2015). Seriality of semantic and phonological processes during overt speech in Mandarin as revealed by event-related brain potentials. Brain and Language, 144, 16-25. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Cognition or metacognition: The psychological mechanism of tip of ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "the tongue in spoken production ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "OUYA NG Mingkun; CAI Xiao; ZHANG Qingfang (Department ofPsychology, Renmin University ofChina,Beijing lOo872,China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Two research perspectives exist concerning tip-of-the-tongue (TOT) in the field of spoken production, either cognition or metacognition. The perspective of cognition focuses mainly on the process of lexical access，assuming that TOT is the failure to activate or retrieve the information sufficiently. However, the perspective of metacognition focuses mainly on the metacognitive process in spoken production, assuming that it is speakers’ monitoring of the retrievable state of the target words that leads to the occurrence of TOT. The metacognitive process involved in TOT can not only monitor the retrievable state of the target words and the retrieval of relevant information during lexical access, but also exert control over the process of lexical access to make sure that the target words could be successfully retrieved after TOT occurrence. The evidence so far has suggested that cognitive and metacognitive perspectives are dissociative in respects of cognitive mechanis m, influencing factors and neural basis. Further studies should investigate the mechanism and neural networks underlying how TOT monitors and controls the cognitive system in retrieving the target words，and address the properties of TOT occurring in Mandarin spoken production and the positive efect of TOT on aging of s poken production. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words: TOT; perspective of cognition； perspective of metacognition; heuristic-metacognitive ",
+        "page_idx": 21
+    }
+]

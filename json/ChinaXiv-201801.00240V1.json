@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201611242412 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王姝,周道玮.植物表型可塑性研究进展.生态学报,2017,37(24)：8161-8169.  \nWangS,Zoeseaotclastitsofttsadelttctaoc2017,37(24) :8161-8169.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物表型可塑性研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王姝'，周道玮2，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1贵州大学林学院，贵阳550025  \n2中国科学院东北地理与农业生态研究所，长春130102",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：表型可塑性已成为生态进化发育生物学的核心概念,很大程度上由于植物可塑性研究的主要贡献,但人们仍远未完全了解表型可塑性的原因和结果。从整体角度理出表型可塑性研究发展的基本脉络,介绍研究内容、途径和简史,聚焦于几个主要方面的研究进展及发展方向。现代可塑性研究的兴盛始于关于可塑性的进化学重要性的一篇综述,从现象的描述、对其遗传基础和可塑性本身进化的讨论,发展到探索其背后的发育机制、植物生长与适应策略、生态学影响等。未来可塑性研究应在重新理解和评价表型可塑性及其适应性的基础上,更关注自然条件下环境因子和可塑响应的复杂性。表型可塑性的生态-进化学意义仍将是未来研究的重点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：环境的复杂性;构件特征;可塑性的进化;适应性可塑;成本与限制;发育的可塑",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on phenotypic plasticity in plants: an overview of history， current status， and development trends ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Shu' ,ZHOU Daowei²,\\*   \n1 College of Forestry，Guizhou University，Guiyang 55o025,China   \n2 Northeast Institute of Geography and Agroecology， Chinese Academy of Sciences，Changchun 130102，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Phenotypic plasticityhas become a coreconcept inecological evolutionary developmental biology（“eco-evodevo\").Thisis due，toalarge extent，tothe majorcontribution of plant plasticitystudies.However，thecausesand consequences of phenotypic plasticityremain porlyunderstood.Herein，wesummarize thedevelopment of researchon phenotypic plasticity from an integrated perspective，including research contentsand approachand brief history，with a focusonresearch progressand future directions.Modern plasticityresearch islaidonthefoundationsof studies that delineated theevolutionary significanceof plasticityin plants.Wedescribe the phenomenon of plant plasticityanddiscuss its genetic basisand evolutionbefore exploring theunderlyingdevelopmental mechanisms，associated growth andadaptation strategies，and ecological consequences.Future plasticity studies should be based on understanding and evaluating phenotypic plasticityanditsadaptabilityfrom anewperspective,and closer atention shouldbepaid to thecomplex network of environmental factors and plasticresponses that operateunder natural conditions.We conclude that understanding the eco-evolutionary implications of phenotypic plasticity should remain the emphasis of future research. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words：environmental complicacy；modular trait；evolutionof plasticity；adaptive plasticity；costsand limits; developmental plasticity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基因型变异和表型变异,都被认为是进化学变化的来源。表型可塑性,是表型变异的重要来源之一。尽管最初被认为是对基因型准确表达的干扰,随着几篇开创性综述的发表[1-4],表型可塑性的重要性开始广受关注。植物可以典型地反映环境条件对表型的影响,以植物为对象的研究成为对可塑性知识的主要贡献。从现象描述,到对可塑性的进化及其进化-生态学意义的探讨,植物表型可塑性研究不仅涉及研究对象的不同层面和水平、包含各种非生物与生物环境因子,还与物种的生长与适应策略等理论相联系,使可塑性的概念渗入越来越多的研究领域,成为新兴的生态-进化-发育生物学的核心内容[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "尽管如此,人们仍远未完全理解表型可塑性的原因和结果[6]。这从很大程度上缘于可塑性研究在最基本问题（如可塑性的量化、适应性等[7-9])上缺少一致性,需要一篇宏观视角的综述性文章对可塑性的研究内容、进展,以及研究中存在的主要问题进行系统的论述,以促进未来研究向更有利的方向发展。然而,目前很多文章集中于与可塑性相关的某个或某些研究领域的进展,缺少从整体角度介绍可塑性研究情况的综述。基于以上考虑,本文避免了大量具体研究实例的陈列,试图理出一条可塑性研究发展的脉络,介绍研究内容、途径和简史的同时,阐述可塑性的机制、适应性、进化及进化-生态学意义等主要方面的研究进展及发展趋势,希望有利于对表型可塑性及相关问题的深入理解和探索,推动植物可塑性研究在国内的发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1表型可塑性研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究内容",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表型可塑性,指一个基因型在不同环境下产生不同表型的现象或能力[,10],也被定义为一个基因型在环境作用下能表达的表型范围[11],或有机体在响应环境过程中改变表型的能力[5]。表型可塑性可按不同方式分类,比如基于目标特征的特性(如形态学,生理学,行为等),发育系统所解读的环境信号的特性（如食物,种群密度,稳定和光周期等),在生态学背景中有机体的表现(躲避捕食者/防御,扩散和资源获取)等;还可依据表型是可逆[12]还是不可逆[13],对环境信号有敏感性的时期在发育早期[14]还是晚期[15],是由个体大小或生长速率不同造成的表观可塑还是异速关系变化的真正的可塑[16]。当然,任何分类方式都不可能穷举涉及可塑性的生物过程多样性的所有现象,不同分类下的可塑性也并非严格地相互独立[17]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可塑性的表达方式有很多,最基本的一种是计算不同环境下特征平均值差异,很多目前常用的公式衍生于此。此外,还可直接用方差分析(ANOVA/ANCOVA)得出的环境因子导致的特征变异程度评价可塑性[18]。Valladares 等总结了量化可塑性常用的17种方法,并提出了相对距离可塑性指标和环境标准化可塑性指标，认为其既与其他指标有较强的相关度,又在比较不同物种时有较高的敏感性[19]（表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究途径",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可塑性的研究对象是有机体个体,因此离不开具体特征,包括整体和构件水平的性状或特征。环境诱导的表型变化(表型可塑)常常是在构件(指植物个体重复的、经常有半自主性的结构和功能的子单元)水平上发生的,植物整体的可塑性是环境诱导的所有构件的局部响应加上构件之间沟通和行为整合带来的相互作用效应的总和[33]。在同样的环境变异的影响下,不同构件特征的局部响应可能有很大差异。因此可塑性研究是以特征为具体目标,从形态、生理特征和生物量特征的描述到大量功能特征、结构特征、生活史特征等的评价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早期可塑性研究主要在室内或野外条件下,研究植物对单一环境因子或者两个以上环境因子交互作用的响应[34-36]。诱导可塑响应的非生物环境因素包括光照、温度、土壤营养和水分等;生物环境因素包括密度或竞争、动物采食、根瘤菌及微生物等。自然条件下,物种生境各种环境因子的变化对物种的影响是复杂的;环境因子本身有高度的时间、空间异质性;某一环境因子信号对有机体的影响还依赖于其可预测性,可靠性及有机体的响应时间等,这些也是限制可塑性发展的因素[37-38]。研究环境背景复杂性的重要意义早已被反复强调,这一点也是可塑性研究要解决的主要问题之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/76a557c84a60cadcc77deead451eb3101533fd4298dffba03d81e146f7b8f184.jpg",
+        "table_caption": [
+            "表1表型可塑性的量化指标",
+            "Table 1 Quantitative Estimators of phenotypic plasticity "
+        ],
+        "table_footnote": [
+            "\\* 除有星号标记的以外，所有指标都基于一个环境内不同个体特征平均值"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"3\"></td><td rowspan=\"2\">参考文献 References</td></tr><tr><td>可塑性指标 Index of plasticity</td><td>计算方法 Calculation</td><td>复合性 Complexity</td></tr><tr><td>总变异系数 Coefficient of variation-total（CV,)</td><td>标准差/平均值(对于每个基因型的全部数</td><td>简单</td><td>丰富</td></tr><tr><td>响应范围的斜率 Slope of norm of reaction</td><td>因变量与环境的回归斜率</td><td>中等</td><td>[20]</td></tr><tr><td>可塑响应的斜率 Scope of plastic response （D)</td><td>高水平与低水平资源下的平均值的差值</td><td>简单</td><td></td></tr><tr><td>响应系数 Response Coefficient（RC)</td><td>高水平资源平均值与低水平资源平均值的 比率</td><td>简单</td><td>[22]</td></tr><tr><td>环境平均值异oe</td><td>平均值的标准差/平均值的均值</td><td>简单</td><td>[23-24]</td></tr><tr><td>环境中值的变异系数 Coefficient of variation over the environments，based on medians （CVmd）</td><td>中值的标准差/中值的均值</td><td>简单</td><td>[19]</td></tr><tr><td>总可塑性 Grand plasticity（Pi)</td><td>平均值的标准差/以生物量为共变量而调整 后的平均值的均值</td><td>简单</td><td>[25]</td></tr><tr><td>基于最小平方均值的可塑性指标 Phenotypic Plasticity Index， based on least square means （PP)</td><td>100×（一个环境中的最小平方均值-另一个 环境中的最小平方均值)/前一个环境中的 最小平方均值</td><td>中等</td><td>[26]</td></tr><tr><td>基于最大和最小均值的可塑性指标 Phenotypic Plasticity Index, based on maximum and minimum means（PI)</td><td>(最大平均值-最小平均值)/最大平均值</td><td>简单</td><td>[27-29]</td></tr><tr><td>基于最大和最小中值的可塑性指标 Phenotypic Plasticity Index, based on maximum and minimum medians（PImd)</td><td>(最大中值-最小中值)/最大中值</td><td>简单</td><td>[19]</td></tr><tr><td>基于最小平方均值的最大和最小值的可塑性指标 Phenotypic Plasticity Index,based on maximum and minimum</td><td>(最小平方平均值的最大值-最小值)/最</td><td>中等</td><td>[19]</td></tr><tr><td>least square means （PILsM）</td><td>大值</td><td></td><td></td></tr><tr><td>相对特征范围Relative Trait Range（RTR)</td><td>()境度一端的平均值-相反一端的平均</td><td>简单</td><td>[30]</td></tr><tr><td>表型可塑性指标Phenotypic Plasticity Index（PIR）</td><td>(最大平均值-最小平均值)最大生长速率 下的平均值</td><td>中等</td><td>[31]</td></tr><tr><td>表型惰性 Phenotypic Inertia（PIN)</td><td>(∑(存活;*表现))/(n* SD)计算n个环 境的每个(i)环境</td><td>复杂</td><td>[32]</td></tr><tr><td>相对距离可塑性指标Relative Distances Plasticity Index（RDPI)</td><td>不同环境的同一基因型的个体间表型距离 的绝对值,除以两个表型值的和（*)</td><td>中等</td><td>[19]</td></tr><tr><td>简化的相对距离塑性指标Simpifed Relativ Disances</td><td>不同环境的值一以因个的型之的表型</td><td>简单</td><td>[19]</td></tr><tr><td>环境标准化可塑性指标 Environmentally Standardized Plasticity</td><td>(最大平均值-最小平均值)/最大值和最小</td><td>简单</td><td>[19]</td></tr><tr><td>Index(ESPI)</td><td>值所在的环境值之间的绝对距离（*)</td><td></td><td></td></tr><tr><td>个体距离环境准化性EnirEPIn) 全有显品</td><td>不同环境，除以一基境值之的个体间表距离</td><td>复杂</td><td>[19]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3研究简史",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表型可塑性研究始于Woltereck 对水蚤头部高度响应于营养水平变化的观测[39]。但作为一个严肃的科学领域,表型可塑性研究的兴起较慢,至少部分由于19世纪30、40年代强调基因型与表型之间关系的种群遗传学理论的发展[40-1]。随着进化综合理论的提出,一些论述表型可塑性的重要文章发表于进化生物学领域，但现代表型可塑性研究的开拓还归功于1965年 Bradshaw 的综述[1]。20 世纪80 年代,进化的量化遗传学和最优化理论的发展导致表型可塑性研究的爆发，大多基于进化学观点。这个时期以解决研究领域中各种问题的积极争论为特点,很多争论涉及可塑性本身是否是自然选择的目标（以及类似“可塑性基因”是否有意义的问题)[41]。目前争论仍在持续,但新想法、新技术的提出和旧想法的修改,为表型可塑性研究领域增添了新的",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "争论。进化-发育生物学的兴起,使人们对表型变异产生的过程(相对于关注变异的大致结果)更感兴趣。同时,表型可塑性背后的发育、分子机制也是一个活跃领域[42-43]。可塑性的成本与限制,表型整合与可塑性之间的关系等成为人们感兴趣的问题。早期研究主要强调可塑性的进化,关于可塑性在进化过程（种群特化、分化及物种形成等）、生态学问题(物种入侵性、多样性和分布等)中重要作用的研究已经从理论假设阶段发展到实证阶段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2研究进展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1表型可塑性的遗传机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表型可塑性被认为受遗传控制,包括基因和表观遗传调控机制[44]。基因水平的调控模式主要有结构基因和调控基因两种[45.46]。其中,结构基因是构成性表达的,表达水平直接受环境影响,不同等位基因对环境的敏感性也有很大变化。这种观点认为,对特征值的直接选择作用导致特征可塑性强烈的相关响应,可塑性是很多结构基因的环境敏感性相结合的结果,没有特定的“可塑性基因”[46]。相对照,调控基因模式的支持者认为结构基因的表达是由调节基因介导的,例如编码控制多种结构基因表达水平的转录因子的基因。调节基因起作用的机制是,来自外部环境的知觉信息被有机体转换成内部可感受的信号,刺激神经内分泌系统召集不同的转录因子,激活不同基因[47」,产生不同的基因产物及最终表型,从而形成有机体对不同环境信息的响应。如果调节基因的活性在环境控制下,它们就可作为可塑性基因,对结构基因的表达进行环境依赖性的控制,可塑响应的形式就可独立于平均值而进化[23,45,48]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可塑性受表观遗传学机制调控的证据是代际间可传递的可塑性[49],说明表型可塑性有可遗传性[50]。表观遗传学过程,如 DNA 甲基化,可以通过DNA 修饰控制基因表达。Bossdorf 等把表观遗传学研究领域的实例包含到表型可塑性的生态学研究中[51]。例如,去甲基化试剂处理对拟南芥不同基因型开花时间、开花时大小和植物生物量对营养水平的敏感性有显著影响[52]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2表型可塑性的发育过程机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除了遗传学上的控制,可塑性还是有机体发育过程自我调节的结果。其本质是,有机体在整个生命周期中,通过发育过程与环境之间不断的交互作用,发育程序的改变产生的生理、形态等方面的调整和变化[5]。无论从短期还是长期看,可塑响应都是一个动态过程,包括环境条件的持续影响、有机体内对环境信号的感知和整合,以及一系列内在的传导途径的作用[53]。这方面研究已经形成一个新的交叉学科领域——生态-进化-发育生物学,旨在理解有机体的基因组与环境之间的交互作用如何形成发育中的个体,以及这种对环境有响应性的发育过程如何影响生态学过程和进化[54]。植物生态-发育学研究的目标首先是精确地判断植物如何感受并响应于真实世界中的环境变化[54-56]。研究指向复合的、环境信号和基因调控网络之间交互作用的本质,并强调将现实环境变异包含到发育过程研究的重要性。这个领域中,植物激素,作为通过复杂的分子交互作用产生重要生态学响应的协调因子,引起了研究者们新的兴趣[53,57-58]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3表型可塑性的适应性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于对不同方法的评价、遗传机制及可塑性受自然选择影响的方式的观点不同,人们对适应性表型可塑性的理解受到阻碍[8]。可塑性的适应性依赖于具体环境、物种和特征[59]。假设一种可塑响应在一种环境下是适应性的,其在另一种环境下可能是非适应性的[60]；一些特征的响应是适应性的,有利于适合度的提高，另一些则是对生理过程或资源限制的消极响应[16.38]。即便是单独一个特征,其对同一个环境因子也可能同时有多种正向和负向响应趋势[38]。自然条件下,表型可塑性不仅来自多种积极和消极环境因素的综合影响,还是有机体通过自身的调控机制缓冲、平衡、抵抗或促进环境影响的整合性结果[38]。实际上,是不同情况下可测的积极响应相对于消极响应的程度决定了特征可塑性的适应性。因此,可塑性的适应性意义有高度可变性[38,61],常用的对可塑性的适应性的评价方法（图1)与可塑性成本评价方法的混淆使问题更加复杂化。控制实验条件下的研究背景由于不包括所有潜在的环境选择力,可塑性的总体适应性意义经常是不确定的[59]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "最好评价自然种群中的可塑性及其结果[62],并探索哪些条件下可塑性有最大的适应性价值,以及这种适应性是相对于特定环境或阶段还是适用于有机体整个生命周期[59]。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b82fe56bfe1130f60006cbea6822d38f41297edf5c66ee3f5fa32682aa69f0be.jpg",
+        "img_caption": [
+            "图1通过(平均)适合度与表型特征值或可塑性程度(绝对值或某个指标)的回归分析检测适应性可塑[1]",
+            "Fig.1Testingadaptiveplastitybyregresiveanalysison（average）fitnessagainstmeanvaluesofaphenotypictrait，degreeof its plasticity（absolute or an index) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4表型可塑性的成本和限制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与可塑性的适应性相关但不同的另一个问题是,可塑性的成本和限制。无论可塑性是适应性的,还是非适应性的（不适应性的和中性的）,都可能涉及产生和维持的成本和限制[37-38]。评估可塑性成本的方法是将环境中的适合度与特征值及可塑性进行相关分析(多重回归模型)[1137.63-4]（图1)：一个环境下的特征值和环境之间的特征值差异都作为预测变量;控制特征平均值时,通过适合度与环境之间特征值差异的偏回归系数估计可塑性成本[65]。当系数是负值时,表示有成本产生;系数是正值时,有收益产生。然而,经验研究发现,可塑性的成本和限制是高度可变的,经常较弱,难以被检测到[64,6]。因为可塑性,包括适应性可塑,其产生往往同时带来收益与成本[37],相关研究结果是收益与成本的总和;只有当成本大于收益时,可塑性成本才能被检测到。而分离可塑性的限制、成本和收益是困难的,可能由于各种因素的交互作用及其背景依赖性[7]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 表型可塑性的进化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表型可塑性有遗传基础,可以不依赖于平均值而进化的观点已得到普遍认可[10.68]。Baldwin认为自然选择可以作用于可塑性的变化方向,使可塑性程度增强或不变[69-70],Simpson 将其定义为\"Baldwin 效应”[71]然而,Waddington认为环境诱导的适应性可塑程度会被反复出现的环境选择降低,变成可继承的表型（即渠道化）,被称为“遗传同化”[72-73]。哪一种机制在自然界中更普遍还不清楚。Bradshaw 提出了支持可塑性的条件,即适应性可塑发生的情况,包括破坏性选择,方向性选择和稳定性选择,以及不支持可塑性的条件[1]。尽管有大量关于可塑性进化的理论假设,仍缺少实验数据的支持。大多数研究只关注两个环境，缺乏环境范围的数据,例如自然种群普遍经历的环境和选择压力的变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6表型可塑性的进化-生态学意义",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可塑性被认为可能是潜在的、推动宏观进化的重要机制[7,74]。“可塑性先行”假设认为,起初,当外界环境发生变化时,有机体可以通过某些特征的可塑响应使表型在新的环境下发生改变,以免由于难以适应环境变化而死亡。随后,通过表型与环境之间不断的交互作用,发育系统的可塑性产生对这种表型改变的适应（包括表型适应和遗传适应)或遗传同化[7576]。因为普遍缺乏来自自然种群的综合性检验,这个假设目前还存在争议。另一方面,正兴起的生态-发育生物学领域中,可塑性在促进多样化与物种形成中的重要性已被普遍接受[54]。但表型可塑可能阻碍还是促进作用于多样化的选择仍是很多进化生物学家们长期争论的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于其生态学意义,表型可塑性被认为对一些入侵性植物的建植与散布有重要贡献[1,77-0],支持[81-82]与不支持[83-85]的研究证据都有。Hendry 认为可塑性有时候有助于在新环境下的定植和对生境环境变化的响应,但在这些背景中可塑响应不总是必要或足够的[59]。这从一定程度上反映了数据的欠缺：关于面对环境变化时可塑性对种群动态贡献的研究很少。还需要关于可塑性与物种当前(当代或多代)生境适应、物种交互作用等问题之间关系的广泛研究[85]。另外,对于这类问题以及全球变化背景下的可塑响应[11]的探讨,可塑性的变化可能比可塑性程度更重要[85]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3研究展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然可塑性被认为是有机体适应环境的主要机制之一[86],且已有大量相关研究,人们距完全理解表型可塑性的原因和结果仍很远[6]。这主要有几个方面原因：首先,人们对可塑性量化和自然选择对反应规范的影响等方面的问题还缺少共识[7],在可塑性的适应性和进化意义的问题上还没有清晰、一致的结论[89]。一方面,尽管很多定义中暗示表型可塑性是有机体通过生理、形态等方面的调整应对环境变化的能力,其量化表达方式仍基于特征的表型差异。然而,表型变与不变背后,都既可能是一种自我调节能力的不足或失败,也可能是相对更成功的积极响应。表型的可塑性和稳定性都可反映这种能力的高低,两个过程的概念和量化方式都需重新考虑。另一方面,可塑性必然包含环境影响和个体响应两个方面,表型差异不显著可能因为个体响应的方向与环境影响的方向相反,相互抵消[38]。从表型变异中区分环境影响和有机体响应两个组分,是有效衡量有机体响应环境能力的前提。这种区分也同时有利于可塑性的适应性及成本的评价。此外,无论可塑响应的产生,还是其成本和限制,不仅依赖于具体构件和特征,还受制于特征之间的相关性,即表型整合作用。衡量一个物种的可塑性及其适应性,要从整体角度综合性评价多种特征的局部响应及整合作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其次,可塑性的环境背景和有机体响应的复杂性。自然环境包括多种因素的共同影响和同时、异时的交互作用,室内控制实验中往往只观测对单一环境因子的可塑响应,且与植物生境的真实情况有很大差距[34,53]。同时,有机体响应于环境的过程包括多方面多水平的特征调控和变化及其交互作用,且有特征、物种依赖性[1.33]。要准确判断可塑性的形式,研究其生态学和进化学意义,必须更好地把握表型表达的环境背景的复杂性。例如,通过更真实的环境背景下的野外实验和/或复杂的多因子实验[53.87-89],研究与特征响应相联系的具体环境情况,包括环境变异的类型、空间尺度、时间安排、有效信号和可靠性、响应的速度和成本及可逆转性等[88]。另外,物种对当下环境的可塑响应离不开其生境背景及早期环境经历的影响,例如引发或训练、胁迫记忆[6.85]。可塑性研究不仅要关注诱导可塑性当时的环境背景,还应联系物种经历过的环境事件及生境特点[85]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前,表型可塑性研究对象同时向更微观与更宏观水平发展。微观方向上,结合与基因型、表观基因型有关的知识很重要,很多细节有待阐述[6];细胞可塑性研究也开始出现[90]。还需更多研究提供在分子和细胞水平上与可塑响应产生相关的信号感受、传导途径和机制上的解释,以及对个体内和代际之间各种表型特征如何准确表达的理解[87]。宏观上,可塑性研究正朝向与更大尺度上的生态-进化学过程和现象相联系的方向发展。全球气候变化与植物可塑性的关系受到越来越多关注[1,91]。另外,很多可塑性研究局限于个别物种,忽略了物种之间复杂的交互作用网络。需要将可塑性概念整合到多营养级关系,如食物网或生态群落中[6]。鉴于种群内潜在的大量物种交互作用和有可塑性表现的个体特征,这可能很有挑战性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢东北师范大学生命科学学院草地科学研究所王岭教授在本文写作中给予的帮助和建议。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Bradshaw A D.Evolutionary significance of phenotypic plasticity.Advances in Genetics，1965,13：15-155.   \n[2]SchlichtingCD.Teevolutionofphenotypicplastityinplants.AnnualReviewofEcologandSystematics，986,17(1）6-693.   \n[3]West-EberardMJ.PenotypicplasticityandtheorigisofdiversityAualReviewofEcologndystematics989,O：24-78.   \n[4]ScheinerSM.Geneticsandevolutionof phenotypic plasticity.Anual Reviewof Ecologyand Systematics，1993,24（1）：35-68.   \n[5]Pfegolcaleooeveloptal/adclooutioaryOxfdcc, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]ElersJferFrtiesinotyicplastctseahuestibotcas，ducdesposdolcalact. Evolutionary Ecology，2010,24(3）：523-526.   \n[7]Pgliucci M.Phenotypic Plasticity：Beyond Nature and Nurture.Baltimore,MD：Johns Hopkins University Press,2001.   \n[8]ViaS，GomulkiewiczR，DeJongG，ScheinerSM，SchichtingCD,VanTienderenPH.Adaptivephenotypicplastityconsessand controversy.Trends in Ecology and Evolution，1995，10(5）：212-217.   \n[9]DeWitTJ,ScheinerSM.PhenotypicPlasticity：FunctionalandConceptualAproaches.OxfordOxfordUniversityPres，004.   \n[10]Pigliucci M.Evolutionofphenotypicplasticity：wherearewegoing now?TrendsinEcology&Evolution，2Oo5,20(9）:481-486.   \n[11]Nicotra AB,Atkin O K,Bonser S $\\mathrm { P }$ ,Davidson A M,Finnegan EJ,Mathesius U,PootP,Purugganan MD,Richards C L,Valladares Kleunen M.Plant phenotypic plasticity in a changing climate.Trends in Plant Science，201o,15(12）:684-692.   \n[12]SnobeTazo.Sexhangeinothdirtiosbylteratioofialdoaceiniinae（Pisces：Gobe）hlogd Sociobiology，1993，94(4）：339-345.   \n[13]Greene E. Diet-induced developmental polymorphism in a caterpillar.Science，1989,243(4891）：643-646.   \n[14]Crews D.Sex determination:where environment and genetics met.Evolution and Development,20o3,5(1）:50-55.   \n[15] Applebaum SW,HeifetzY.Density-dependentphysiologicalphaseininsectsAnual ReviewofEntomology，1999,44（1）:317-341.   \n[16] WeinerJ.Alocation，plasticityandaloetryinplatsPerspectivesinlantEologyEvolutioandSystematics，O，6(4)：15.   \n[17]FsoG,elitclscityieveloetdoutctsdceptscalasasofley Biological Sciences，2010,365(1540）：547-556.   \n18]RichteruJopasiliate variable environment.Oecologia,2012,169（1）：269-279.   \n[19]ValldaeF，an-GD，avala .Quantiatietatiooftcsiityridgngheeoutiat and its ecological applications.Journal of Ecology，2006,94(6)：1103-1116.   \n[20]Schlichting C D,Pigliucci M. Phenotypic Evolution；A Reaction Nor rspective.Sunderland: Sinauer Associates Inc.，1998.   \n[21] Stearns S C.The Evolution of Life Histories.Oxford：Oxford Universi 1992.   \n[22]Poorter H，NagelO.The roleof biomass allcation in the growth respons ：of plants todifferent levels of light, $\\mathrm { C O } _ { 2 }$ ，nutrients and water：a quantitative review.Australian Journal of Plant Physiology，2000,27(6）：595-607.   \n23]SchliCDLeviotpstiivoingplathacteocalJalfaty984.   \n24]SchichgevicpstisfoeJouala984）   \n[25]NavasL，GaerElsticityfoleatandftraitsiRbpereginainesposetolight，utrientadwateravlabiltcta Oecologica，2002，23(6):375-383.   \n26]Cepcdthi 1995，83(3): 459-468.   \n27]Grataodit Trees,2003,17(6)：515-521.   \n[28]Balaguer L，Martinez rri E,ValldaresF,Perez-Corona ME,BaquedanoFJ,CastiloFJ,ManriqueE.Populationdivergenceintheplasticit of the response of Quercus cocifera to the light environment.Functional Ecology，2001,15(1）：124-135.   \n[29]ValldresF，WrightSJasoE,KitajiaK，PearcyRWasticpenotypicrespoe lightof1ogenericshubfoaa rainforest. Ecology，2000，81（7）:1925-1936.   \n[30]RicharAD,P,G,cGroddE,CmeR.Wi-oaplatcityfstok，su, in relation to stand age.Annals of Botany,2001,88(6): 1007-1015. 31 RobinsonD.henotypicplasticityinotsndrootsstems：constrants，ompensationsndcompromisesAspectsofAppliedg98, (22): 49-55.   \n[32] MilbergP,LamontBB，Perez-FedezMA.urvivalandgowthofatieandexoticompositesinresposetoutrientgradientlant Ecology，1999，145(1)：125-132.   \n[33]DeKoH,berHuerJFVaoedaelJlaeptfpotcplastityitsewolst, 73-82.   \n[34]SultanSE.Phenotypicplasticityforplantdevelopent,functioandifehstoryTrendsinlantScienc,O,5(）：7-542.   \n[35]KurashigaalAoticlsityttpeidboiopd（Copce）al of Botany，2005,92(1): 21-26.   \n[36]QueroJVillr,aramaRteactiosofdoutddesioffouuercsspe：icald structural leaf responses.New Phytologist,2006,170(4）：819-834.   \n[37]DeWitTJ,SihA，WilsonDS.Costsandlimitsof phenotypicplasticity.TrendsinEology&Evolution1998，13（2)：7-81.   \n[38]VanKleunM,erM.Costrantsohevutiofaptivepoticpastitinlantsewolgst,O6(）：496.   \n[39]JudayCiteexpteleUntesucngtverdegpllseantairtersy. Woltereck，Vehr.der Deutschen Zool.Geselsch.1909,19:110-172.Science，1910,32(819）: 344-345.   \n[40]PigluciM.Phenotypicplasticity:Beyondnatureandnutrure//FoxCW,RoffDA，airbaiDJ，edsEvolutioaryEcology：Cocept sand Case Studies.New York:Oxford University Press，2001.   \n[41]SarkarS.FromtheReakionsnomtotheevolutionofadaptiveplasticity：Ahstorical sketch，909-199//DeWittTJ，Schiener Phenotypic Plasticity:Functional and Conceptual Approaches.New York:Oxford University Press，2O04：10-30.   \n[42]SchicgCDmithoticlatcityigoeacsitoutioaryosoluoyo(）： 189-211.   \n[43]Cosins，raserJ，ughs，Gace.ostgeicappoacstderstadingthassfviontallucedot plasticity. Journal of Experimental Biology，2006,209（12）：2328-2336.   \n[44]KelySAotcstiolelasdtiiopresie (2): 1417-1439.   \n[45]SchlichtinCD,iglci M.Controlofphenotpicplastictviagulatorygenes.TheAmericanNturalist，993，42（2）：370   \n[46] ViaS.Adaptieoticplasticitygetorpructofeletiabentmeicanaturalist，99，4)6.   \n[47] Nijhout HF. Development and evolution of adaptive polyphenisms.Evolution and Development，2003,5(1）:9-18.   \n[48] SchlichtingCD,PigliucciMGeeregulatio，antiativegeneticsdthvolutionofreactionnosEvolutioaryEcolo99，9（）: 154-168.   \n[49]Jablonka E,Raz G. Transgenerational epigenetic inheritance：prevalence, ndimplications for the study of heredity and evolution. The Quarterly Review of Biology，2009,84(2）：131-176.   \n[50]RichardsCLofiiMtledsriablegeetictioplaiotycoutio,(）: 232-237.   \n[51]BossdorfO,Richards CL,Pigliucci M. Epigenetics forcologists.Ecology Letters，2008，11(2）:106-115.   \n[52]BossdofricadigiExpeetalaltratiofetatiotseotcplastifaly relevant traits in Arabidopsis thaliana.Evolutionary Ecology，2010,24(3):541-553.   \n[53]SultanSEanteveloetalrsosesthevontdevoisihtsuentOpioinlantolg（)：96101.   \n[54]Sultan SE. Development in context: the timely nergence of eco-devo.Trends in Ecology& Evolution，2007,22（11）：575-582.   \n[55]GilbertSologicaldevelopetalldeveloptalgttlolevelopetalg.   \n[56]Dusheck J. Evolutionary developmental biology: It's the ecology，stupid！ Nature，2002,418(6898）: 578-579.   \n[57Gilaltlel (4): 307-314.   \n[58]Mopper S, Wang Y Y, sensteinK.Iris hexagona hormonal responses to salinity stress，leafminer herbivory，and phenology.Ecology， 2004, 85(1) : 38-47.   \n[59]HendryAP.Keyquestisoeolefpheoticplastityinevoutioarydais.JoualofHredity16,）41.   \n[60] DeWittTJ，RobinsonBW，WilsonDS.Functioaldiversityamongpredatorsofafreshwatersnailimposesanadaptietradeoforshell morphology. Evolutionary Ecology Research，,2000,2(2）: 129-148. 61] AuldJR,RelyeaRdaptiveaticityinprdatuceddefesiomonfreshatersailledslectiododofdatiode to prey phenotype.Evolutionary Ecology，201,25（1）：189-202. 62 NusseyDH，WilsonAJromrJE.eevolutioaryologofindiiualpenotypicplasticityinwildopulatiosJoalofEva Biology，2007,20(3）：831-844.   \n[63]VanTereEvoutofgeeralissdslistisatialytegesitsEvouti99（6)：1.   \n[64]ScheiSgeofotcpastittofstiDuleEout9,）8.   \n[65]Lande R,Arnold SJ.The measurement of selection oncorrelated charactersEvolution，1983,37(6）：1210-1226.   \n66]SultanSE，SpcerHGetapoulatorucefvosplstityerladaptatio.Thecanaturalst）.   \n[67]AuldJR，AgawalAA，RelyaRARe-evaluatingheostsndliitsfdaptivepeotyicplastityProceedingsof teRalSociety Biological Sciences，2010,277(1681）：503-511.   \n[68]Scheiner S M.Plasticity asa selectable trait：reply to Via.The American Naturalist，1993,142(2)：371-373.   \n[69]Baldwin JM.A new factor in evolution.The American of Naturalist，1896,30(354）：441-451.   \n[70］Baldwin JM.Development and Evolution.London：MacMillan Co,1902.   \n[71] Simpson G G.The Baldwin effect.Evolution，1953,7(2）：110-117.   \n[72]Waddington C H. The Strategy of the Genes. London:George Allen & Unwin Ltd.，1957.   \n[73] Waddington C H.Genetic assmilation.Advances in Genetics，1961，10：257-293.   \n[74] West-Eberhard MJ.Developmental Plasticity and Evolution.Oxford：Oxford University Press,2003.   \n[75]PguciosdeJalpal (12):2362-2367.   \n[76]CrispoE.TeBldwinefetandgneticaiilaton：revisingtomecanismsofevolutioarychangemdiatedbphenotyicplasteity Evolution，2007,61(11):2469-2479.   \n[77]Risiellraet by phenotypic plasticity or local adaptation?Annals of Botany，2010,106(5）：813-822.   \n[78]Sakai A K,AllndorfFW,HoltJS,LodgeDM,MlfskyJ，WithKA,BaughmanS,CabinRJ,CohenJE,EltrndNC,McCauleyDE, O'NeilP,ParkerIMompsonJ,WellrSG.eopulatioologf vasivespeciesAalRevieofEcologdSsteats 32(1):305-332.   \n[79]NovakSJ，MackRSoltis.Geetitoinrousteoum（ace）：populatoiereitoiisrthAecaage. American Journal of Botany，1991，78(8)：1150-1161.   \n[80] Baker HG.The evolution of weeds.Annual Review of Ecology and Systematics，1974,5：1-24.   \n[81] FunkJL.DiferencesinplasticitybetweeninvasivendnativeplntsfroalowresoureenviroentJoualofEcology2，96（6)： 1162- 1173.   \n[82]Davidsoesotsiesesoticastitis adaptive？A meta-analysis.Ecology Letters，2011，14(4）：419-431.   \n[83] Hulme PE.Phenotypic plasticity and plant invasions；is it all Jack?Functional Ecology，2O08,22(1)：3-7.   \n[84]PalacipKanoliEasiepantsdodisplaeatenoticpastiaeratio-asieoteatsa analysis.Oikos，2011，120(9)：1393-1401.   \n[85]WangSlRZDWenerJExperfdatioooughtlesthspsesoflantstbsetwatediios Journal of Ecology，2017,105(1）：176-187.   \n[86] ValladaresF，GianoliE,GmezJM.EcologicalimitstoplanphenotypicplasticityNewPhytologist，O7,76(4）：749-76.   \n[87] SultaSEProsigectiosinapeoicplastityespectisinantEolovolutiodSseatis,(）.   \n[88] Bradshaw AD. Unraveling phenotypic plasticity-Whyshould we bother? New Phytologist，2006,170(4)：644-648.   \n[89] BradshawADarickKvolutidreeotypicdpotycpotslgicalJoualofthLanSet989/ 2):137-155.   \n[90]Pera MF.Tam PPL.Extrinsic regulation of pluripotent stem cells.Nature,2010,465(7299）：713-720.   \n[91]MatesanzS,GaiEValdaresFobalhangeandthevolutionofpheoticplstiityinplantsAalsfteNYokcadf Sciences,2010,1206(1): 35-55. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

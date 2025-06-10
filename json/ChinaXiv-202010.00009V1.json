@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "汉字位置加工和词边界效应的认知机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾俊娟 石金富 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(华北理工大学心理与精神卫生学院，唐山063210)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要在中文阅读中,为了进行词汇识别，需要对汉字在词中的相对顺序进行加工，即汉字位置加工。汉字位置加工是词汇识别和阅读理解的重要环节。如果汉字位置未得到加工，可转置词将很难被区分。可转置词由相同汉字构成，但每个汉字所处位置不同。以往研究发现，词内汉字位置加工是比较灵活的；而且词边界信息会影响汉字位置的加工，即汉字位置加工存在词边界效应。该效应产生的原因及影响因素有哪些？本项目采用眼动追踪技术，在自然阅读中系统探讨如下三个问题：(1)词的首/尾汉字如何调节汉字位置加工过程；(2)嵌套词和歧义词边界如何影响汉字位置加工；(3)语境合理性和预测性如何影响汉字位置加工的词边界效应。本项目将为首个中文汉字位置加工模型的建立提供数据支持和科学基础，推进现有的中文词汇识别和词切分模型的进一步完善，并为词汇的高效率教授与学习提供科学指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 汉语；词切分；词边界；汉字位置；眼动",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B842",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在中文阅读过程中，为了进行词汇识别，需要对字在词中的顺序进行加工，即汉字位置加工(滑慧敏 等,2017)。在汉语中，有一些双字词是可转置词。两个字的位置调换形成两个不同的词，如“笔画”和“画笔”。如果汉字位置没有得到加工，可转置词的两个成员很难被区分(彭聘龄 等,1999)。因此，词汇识别不仅包括对组成词汇的汉字身份的加工，也包括对词汇中汉字位置的加工，二者缺一不可。此外，相关研究发现，部分阅读障碍儿童会混淆短语中的汉字位置(孟祥芝，舒华,1999)。田晓梅等人(2006)通过个案研究发现，在对汉字位置颠倒的非词(如，律规)做词汇判断的任务中，发展性阅读障碍儿童表现出判断困难，其成绩要远低于控制组儿童。由此可见，部分阅读障碍儿童在词的汉字位置加工方面存在问题，可能导致他们的词汇识别能力无法达到正常水平。这些发展性研究也表明汉字位置加工对词汇识别甚至阅读理解具有重要作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大部分拼音文字的书写系统都是利用空间线索标记词的边界。例如，英文中词和词之间的空格将一连串的字母分隔成词。研究发现，空格不仅能促进英文读者的词汇识别，还能有效引导其眼动(Juhasz et al.,2005;Rayner et al.,1998)。与拼音文字不同，在中文书面或印刷文本中，除了以标点符号标注语义单元和停顿外，没有空格等词边界标记(Lietal.,2013;Liet al.,2009;Zhou etal.,2017)。在拼音文字中（如英文)，字母位置编码受到词与词间的空格制约。汉字位置不受词边界限制，可以突破词汇边界进行编码。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "词是语言中最小的能够独立运用的有音有义的单位(黄伯荣，廖序东，2007)。读者在汉语文本阅读过程中将词从句子或语篇中切分出来的过程简称为“词切分\"(李兴珊 等,2011)。词的切分，即词边界的确定，是文本阅读中词汇识别的重要环节。根据 Li等(2009)提出的中文词切分和识别模型，词的识别与切分是一个统一的过程。在汉语阅读中，除了汉字本身得到加工，汉字位置加工也是词汇加工必不可少的一环。此外，在阅读文本时，汉字位置的加工不仅包括词内汉字位置加工，也包括在词切分过程中词间汉字位置信息的加工。那么，在词切分过程中，词与词的边界信息如何作用于汉字位置加工？对词边界与汉字位置加工关系进行深入考察，将有利于我们认识汉字水平的自下而上加工对词切分和文本阅读理解的影响，以及在词的动态切分过程中词汇和语境等信息是如何自上而下地影响汉字位置加工。因此，理解汉字位置加工和词边界效应的关系是揭示中文阅读认知机制的一个关键环节。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 国内外研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1词素边界对字母位置加工的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在拼音文字中，字母位置加工逐渐成为语言认知领域的焦点。在使用掩蔽启动词汇决定任务的研究中，首先给被试呈现短暂的启动刺激，然后呈现靶子词。三种启动条件为：(1)相同条件，启动刺激与靶子相同，如 speak-speak；(2)转置条件，启动刺激为单词中两个字母转置形成的非词，如 spaek-speak；(3)替换条件，启动刺激为转置字母换成其它字母形成的非词，如 spuok-speak。被试的任务是尽快判断靶子是否是真词。结果发现，被试在相同条件的反应时最短，替换条件的反应时显著长于转置条件(Forster et al.，1987；Johnson &Dunne,2012; Masserang & Pollatsek,2012; Perea & Lupker, 2003;Winskel et al.,2012)。此外,一些采用掩蔽启动范式的研究只操纵了上述两种非词条件，也发现替换条件的反应时显著长于转置条件(Acha & Perea,2008; Dunabeitia et al.,2007; Dunabeitia et al.,2014; Perea & Acha,2009;Perea et al.,2008;Perea & Carreiras,2008; Schoonbaert & Grainger,2004;Witzel et al.,2011; Ziegler et al.,2014)。转置字母非词比替换字母非词更容易促进原词的激活，这就是字母转置效应(transposed-letter effects)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，句子阅读中也存在字母转置效应(Blythe et al.,2014; Johnson,2007; Johnson et al,2007; Johnson & Dunne,2O12; Masserang & Pollatsek, 2012; Pagan et al., 2016; Tifin-Richards& Schroeder,2015;Winskel&Perea,2013)。研究者大多采用边界范式：在靶子词的左侧设置一条不可见的边界，读者从前到后阅读句子，当阅读者眼睛的注视位置跨过该边界后，预视刺激变成靶子词(Rayner,1975)。与掩蔽启动词汇决定任务类似，副中央凹预视条件也包括相同条件、转置条件和替换条件。结果发现，在相同条件，被试在靶子词上的注视时间最短，替换条件的注视时间要显著长于转置条件。因此，在句子阅读中，字母转置非词比替换非词更容易促进词汇识别，存在字母转置效应。反应时(注视时间)在转置条件长于相同条件，表明字母位置得到加工，字母位置在词汇加工中具有重要作用。字母转置效应的产生表明字母位置编码是比较灵活的。如果字母位置编码很严格，反应时(注视时间)在转置非词和替换非词条件应没有差异。在这两种条件，都有两个字母不正确，而其它字母相同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在拼音文字中，一些研究者探讨了复合词词素边界对字母位置加工的影响。在掩蔽启动词汇决定任务中，启动条件包括转置条件和替换条件，位置条件包括词素内和跨词素边界。对于英语后缀词，无论在词素内还是跨词素边界条件，反应时在替换条件显著长于转置条件，即词素内与跨词素边界条件都产生了字母转置效应(Beyersmann et al.，2012；Beyersmann etal.,2013;Rueckl & Rimzhim,2011)。Masserang 和 Pollatsek(2012)在两个眼动追踪实验和一个掩蔽启动实验中也发现，对于英语前缀词，在词素内和跨词素边界条件，反应时(注视时间)在替换条件显著长于转置条件。这表明词素边界不影响字母转置效应，即字母位置加工不受词素边界的影响。Masserang 和Pollatsek认为，由于前缀和后缀都是高频率的双字母组或三字母组。在词汇识别早期，熟练的阅读者可以很容易地纠正词缀字母位置编码的错误。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但是，另一些研究得到了与上述研究不一致的结果。Christianson 等(2005)用掩蔽启动命名任务探讨了词素边界对字母位置加工的影响(复合词由自由词素组成，如 cowboy)。结果发现，命名时间在词素内转置条件和相同条件差异不显著，在词素内转置条件显著短于替换条件。命名时间在跨词素边界转置条件显著长于相同条件，在跨词素边界转置条件和替换条件差异不显著。由此发现，跨词素边界转置干扰了字母位置加工进而抑制了词汇识别。Dunabeitia等(2007)以西班牙语前缀词、后缀词和单语素单词为实验材料，启动条件包括转置条件和替换条件两种。研究者操纵了缀词词边界处两个字母以及单语素单词词内两个字母。结果发现，对于单语素单词，反应时在替换条件显著长于转置条件，即产生了较强的字母转置效应；对于前缀词和后缀词，反应时在替换条件和转置条件差异不显著，这表明跨词素边界转置导致字母转置效应消失。后续几项以英语复合词为材料的研究与上述结果一致(Luke& Christianson,2013;Taft&Nillsen,2013)。这些研究证实了跨词素边界字母转置比词素内字母转置对词汇识别的干扰更强，字母位置加工受词素边界的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一些研究者提出，英语和西班牙语具有不同的词素加工系统，字母位置编码模式可能不同(Frost,2009;Frost et al.,2005)。西班牙语比英语具有较为丰富的词素多样性，词素解析起着非常重要的作用(Frost，2009)。因此，西班牙语复合词中词素边界字母位置编码的精确性对词汇识别十分重要。这也就是跨词素边界字母转置后，字母转置效应消失的原因。为了进一步弄清这个问题，Sanchez-Gutierrez 和 Rastle(2013)在两个掩蔽启动词汇决定任务中分别选取母语西班牙语和母语英语的被试，两个实验中的靶子词是西班牙语一英语同源词。结果发现，字母转置效应在词干内转置和跨词素边界转置没有差异，即字母转置效应不受转置字母在单词中的位置的调节。因此，他们认为，正字法信息编码在西班牙语和英语中没有差",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "异，字母位置加工不受词素边界的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，虽然词素边界可能影响字母位置加工，但这种影响很可能与复合词的词素类型有关，这需要进一步考察。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2词边界对汉字位置加工的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中文汉字位置加工的认知机制研究仍处在初级探索阶段。研究者分别使用掩蔽启动范式和眼动追踪技术考察了汉字位置加工过程。靶子词为不可转置双字词，三种条件为：相同条件，如，扑簌一扑簌；转置条件，如，簌扑一扑簌；替换条件，如，藐幼一扑簌。转置条件首字和替换条件首字在字频和笔画数差异不显著；转置条件次字和替换条件次字在字频和笔画数差异不显著。为了控制汉字结构的一致性，转置条件和替换条件对应的首字和次字结构相同，如上下结构、左右结构等。此外，转置条件和替换条件对应的首字和次字语音不同，语义没有相关性。结果显示，靶子词的反应时和注视时间在相同条件最短，转置条件显著短于替换条件。该研究初步证实了汉字位置得到加工，汉语阅读中存在汉字转置效应(Gu et al,2015)。但是，该结论仅限于双字词词内汉字位置加工。鉴于汉语文本词与词之间没有边界标记，Gu 和 Li(2015)考察了在句子阅读中词边界对汉字位置加工的影响。实验材料为四字成语(一个词条件)和两个双字词(两个词条件)，操纵靶子词的第2 和第3个字形成三种预视条件：相同条件，如，捷足先登，资金雄厚；转置条件，如，捷先足登，资雄金厚；替换条件，如，捷安兵登，资湾界厚。结果发现，在一个词条件，靶子注视时间在转置条件显著短于替换条件，在相同条件和转置条件没有显著差异；在两个词条件，靶子注视时间在转置条件和替换条件没有显著差异，在相同条件显著短于转置条件。这表明，词内汉字转置不影响汉字位置加工；跨词边界汉字转置干扰汉字位置加工进而抑制词汇识别。该研究证实了汉字位置加工过程中存在词边界效应，即词边界信息影响汉字位置加工。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，汉字位置信息在阅读中得到加工，且词边界信息影响汉字位置加工。然而，汉字位置加工的词边界效应机制还需要进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3汉字位置加工中有待解决的问题",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1字在词中的不同位置对汉字位置加工的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "已有研究发现，词边界两个汉字转置对词汇识别具有干扰作用；而四字词中间两个字转置对词汇加工没有影响(Gu&Li,2015；顾俊娟 等,2020)。由此推测，词内的汉字位置编码相对灵活，而词边界处的汉字位置编码较为严格。可见，词中不同位置的汉字在词汇加工中的重要性有一定差异。词内的汉字位置对词汇通达可能没那么重要，而词边界处的词首字或尾字可能对词汇通达非常重要。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在拼音文字中，一系列研究发现，与单词内部字母相比，单词首尾字母对词汇识别更重要(Johnson et al.,2007; Johnson & Eisler,2012; Lee & Taft,2009; Perea & Lupker, 2003; Rayneret al.,2006; Schoonbaert & Grainger,2004; White et al.,2008).Johnson 和 Eisler(2012)深入研究了文本阅读中单词首尾字母重要性的认知机制。结果发现，在正常词间空格条件，尾字母转置对阅读的干扰显著大于内部字母转置。当每个字母前后插入一个空格，或用一个“#”填充词间空格时，内部字母转置与尾字母转置对阅读的干扰没有显著差异。在上述三种空格条件，首字母转置对阅读的干扰都显著大于内部字母转置。这些结果表明，词首字母的内在重要性可能与人脑加工及通达词汇信息等一系列高级认知功能相关；词尾字母的重要性很可能与低水平的知觉因素有关，相对于内部字母，词尾字母受到前后字母的侧抑制作用较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与拼音文字不同，中文词与词之间没有空格。汉语阅读的知觉广度为注视点左侧1个汉字，右侧 $2 { \\sim } 3$ 个汉字。读者对注视点右侧2个汉字可进行较为精细的加工，而获得信息的范围不超过注视点右侧3个汉字(Inhoff&Liu,1998)。鉴于中文阅读知觉广度远小于拼音文字，中文多字词的首字与尾字在词汇通达过程中是否具有同等重要性？这需要进一步考察。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2不同类型的词边界信息对汉字位置加工的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已有研究发现，两个连续的双字词词边界处汉字转置影响汉字位置加工进而干扰词汇识别(Gu&Li,2015；顾俊娟 等,2020)。Ma等人(2017)探讨了中文阅读中的词切分与词汇识别过程。两种条件为：跨字词条件，如，“材料质量”，包含一个跨字词“材质”；控制条件，如，“材料数量”，只包含两个双字词。结果发现，对于靶子的前两个字，注视时间在跨字词条件和控制条件没有差异；对于靶子的后两个字,跨字词条件的注视时间显著长于控制条件。该实验证明，汉字加工并非严格的从左到右的系列加工，且不受词边界的限制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在中文文本中，除了连续的两个词的词边界，还包括嵌套词边界和歧义词边界。如，嵌套词“介绍信”和“贵金属”分别包含双字词“介绍”和“金属”。如果同时操纵两类嵌套词的后两个字，词边界之间汉字转置(介信绍)和嵌套双字词汉字转置(贵属金)会导致两类词的加工出现差异吗？这需要进一步考察。此外，重叠歧义词的边界信息并不清晰。如，“外交谈判”包含“外交”、“交谈”和“谈判”三个词，词的边界是比较模糊的。根据左侧优势假说和单向句法分析假说，词汇识别是严格按照从左到右的顺序进行的，左侧的词具有绝对加工优势。对于歧义词 ABCD，双字词AB 和CD 先后得到激活，BC将不会被激活(Ma et al,2014;Inhoff&Wu,2005)。如果歧义词边界中间两个字转置，是否出现词边界效应？这需要通过实验验证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3文本的语境信息对汉字位置加工的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按照Li等(2009)构建的词汇识别和词切分模型，汉语词汇识别由视觉感知、汉字水平以及词切分和识别水平三个等级构成。汉语阅读的词切分和晚期的语境整合不可分割。首先，读者根据刺激呈现的个别属性进行首次词切分。然后，根据自上而下的语境信息对首次词切分进行校对。如果首次词切分符合语境，将会被保留；如果首次词切分不符合语境，读者将会再次进行词切分，直到符合语境为止(Ma etal.,2014)。可见，语境在汉语阅读的词切分和识别中起着重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rayner 等(2005)利用眼动技术考察了中文阅读中语境预测性对词汇加工的影响。结果发现，中文阅读中存在较强的语境预测性效应。和预测性低的靶子词相比，预测性高的靶子词注视时间更短，跳读率更高。因此，语境预测性可以调节中文阅读的词汇加工过程。Yang(2013)利用可转置双字词探讨了中文阅读中语境合理性的影响。靶子词分为两种，一种转置词的两个成员含义相同，如“适合”与“合适\"；另一种转置词两个成员的含义不同，如“画笔”与“笔画”。预视条件包括三种：相同条件，转置词条件，控制词条件。结果发现，当转置词两个成员的含义不同时，注视时间在相同条件比转置词条件更短；而当转置词的两个成员含义相同时，注视时间在相同条件与转置词条件没有差异。Yang 认为，当转置预视词与靶子词含义不同，不符合句子语境的合理性，从而干扰了靶子词的加工。该研究表明，汉字位置加工与句子阅读中语境信息的合理性有关。综上，语境信息影响文本阅读中的词汇加工过程。文本的语境信息是否会调节汉字位置加工的词边界效应？这需要进一步考察。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 问题提出",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，尽管已有研究初步发现了汉字位置加工的词边界效应，对于中文阅读中汉字位置加工和词边界效应的认知机制仍需要进行全面深入的探究。尚待考察的科学问题如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一，汉字位置加工的词边界效应主要表现为，词边界处相邻汉字转置影响词汇识别。这表明，词首字和尾字比词内汉字位置更重要。词首和词尾汉字的编码机制及首字和尾字对词汇加工的影响机制需要进一步探究。词首字与尾字同等重要还是首字比尾字更重要？二者如何调节汉字位置加工过程？这一科学问题的系统探讨有助于从字的水平揭示中文阅读中汉字位置加工的词边界效应的认知机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第二，除了连续两个词的词边界信息，在中文文本中，还存在其他类型的词边界，如嵌套词和重叠歧义词的边界。在词的切分和识别过程中，不同种类的词边界信息对汉字位置加工的作用机制需要系统探讨。嵌套词和歧义词边界如何影响汉字位置加工过程？对该科学问题的研究有助于我们全面系统地把握各种词边界信息对汉字位置加工的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第三，已有研究证明，语境信息在中文阅读的词汇加工过程中具有重要的调节作用。在前人的研究中，靶子的语义背景均为低语境预测性，而且也没有操纵靶子在句子背景中的合理性(Gu etal.,2015;Gu&Li,2015)。在语境水平，合理性和预测性如何影响汉字位置加工的词边界效应？该科学问题的研究从宏观的文本阅读理解的角度探讨词切分过程中语境信息对汉字位置加工的影响，进而演示出汉字位置加工和词切分是一个动态的依赖于背景信息的认知过程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4研究构想",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1 研究方案",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本项目将采用眼动追踪技术，系统探讨中文阅读过程中汉字位置加工和词边界效应的认知机制。研究思路为，首先从字的水平探讨三字词和四字词识别中词首字和尾字如何调节汉字位置加工过程，然后从词的水平考察嵌套词和歧义词边界如何影响汉字位置加工过程，最后从语境水平探究语境合理性和预测性如何影响汉字位置加工的词边界效应。针对本研究提出的三大问题，提出以下研究构想：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1.1 词的首字和尾字对汉字位置加工的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以往研究发现中文阅读中汉字位置信息得到加工，且汉字位置加工存在词边界效应(Guet al.,2015;Gu&Li,2015；顾俊娟 等,2020)。但是，还没有研究系统考察作为词边界信息的靶子词首字、尾字以及词内汉字在词汇识别中的作用。研究一考察在自然阅读场景中词首字和尾字如何调节汉字位置加工过程，共有两个实验。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验1考察三字词(如，座右铭)首字和尾字对汉字位置加工过程的影响。靶子的呈现条件分为四种：(a)相同条件；(b)前转置条件，靶子词的前两个字转置形成非词；(c)后转置条件，靶子词的后两个字转置形成非词；(d)首尾转置条件，靶子词的首字和尾字转置形成非词。重点比较首字和尾字在汉字位置加工中的作用是否存在差异。我们预测，如果实验结果支持左侧优势假说(Maetal.,2014)，那么词的首字位置比尾字更重要。当词的首字参与转置，对词汇识别和阅读的干扰最强。预期注视时间在前转置条件和首尾转置条件都显著长于后转置条件。如果实验结果支持 Li 等(2009)的词切分模型的主张：知觉广度范围内的字平行加工，那么首字和尾字对词汇识别的重要性相同。预期注视时间在前转置条件、后转置条件和首尾转置条件差异不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验2进一步考察四字词(如，望而生畏)首字和尾字对汉字位置加工过程的影响。靶子的呈现条件共四种：(a)相同条件；(b)前转置条件，靶子词的前两个字转置形成非词；(c)中间转置条件，靶子词的中间两个字转置形成非词；(d)后转置条件，靶子词的后两个字转置形成非词。同样，如果实验结果支持左侧优势假说(Ma et al.,2014)，那么词的首字位置比尾字更重要，词首字转置对词汇识别和阅读的干扰最强。预期注视时间在前转置条件显著长于后转置条件和中间转置条件。如果实验结果支持 Li 等(2009)的词切分模型的主张：知觉广度范围内的字平行加工，那么首字和尾字对词汇识别的重要性相同。预期注视时间在前转置条件、后转置条件和中间转置条件差异不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1.2嵌套词和歧义词边界对汉字位置加工的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究二通过两个实验考察句子阅读中嵌套词和歧义词边界如何影响汉字位置加工。研究目的在于从不同类型的词水平探究汉字位置加工的词边界效应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验3利用眼动追踪技术考察嵌套词边界对汉字位置加工的影响。我们将使用前嵌套三字词(AB-C)和后嵌套三字词(A-BC)，同时操纵两类嵌套词的后两个字，构成嵌套词词间转置/替换和词内转置/替换。重点考察词边界之间汉字转置与嵌套双字词内部汉字转置是否导致这两类词的加工存在差异。每种靶子词有三种预视条件：(a)相同条件；(b)转置条件，靶子词的后两个字转置形成非词；(c)替换条件，靶子词的后两个字替换形成非词。该实验采用边界范式。根据 Taft(2004)提出的词汇等级加工模型，中文多字词的激活要通过该多字词内嵌的词的激活来完成，即整词和所含的词并非平行加工。该模型假设，嵌套三字词整词的激活需要内嵌双字词和另一个字联合激活来完成。内嵌双字词的激活是整词激活的关键一环(Zhou et al.,2017)。因此，在三字嵌套词的加工过程中，需要对内嵌双字词和另一个汉字的边界信息进行加工。我们预测，如果实验结果支持词汇等级加工模型，那么嵌套词边界影响汉字位置加工，存在词边界效应，词类型与预视条件交互作用显著。对于A-BC类型，注视时间在转置条件显著短于替换条件；对于AB-C类型，注视时间在转置条件和替换条件没有差异。如果嵌套三字词是整词加工，那么嵌套词边界不影响汉字位置加工，词类型与预视条件交互作用不显著，两种类型的靶子词应该都存在汉字转置效应。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验4利用眼动追踪技术并结合边界范式考察歧义词边界对汉字位置加工的作用。靶子包括三种类型：歧义词AB-CD、非歧义词AB-CD 和ABCD 型四字词。其中，歧义词AB-CD包含歧义词边界，如“外交谈判”。非歧义词AB-CD只包含两个双字词，如“外交策略”。ABCD 为四字词，不包含双字词和三字词，如“危言耸听”。此外，对歧义词中包含的三个双字词进行词频和笔画数的匹配，对歧义词和非歧义词相对应的双字词进行词频和笔画数的匹配。根据词频与词长负相关这一结论(邓耀臣,冯志伟,2013)，本实验不能有效匹配 ABCD型四字词与另外两种词的词频。Gu 和 Li(2015)使用非歧义词 AB-CD 和 ABCD 型四字词两种靶子考察了汉字位置加工的词边界效应。在数据统计中，将词频作为控制因素纳入线性混合模型中。结果发现，词频不影响实验结果。实验4将采用同样的统计方法来排查三类靶子词频的影响。每种靶子有三种预视条件：(a)相同条件；(b)转置条件，靶子词的中间两个字转置形成非词；(c)替换条件，靶子词的中间两个字替换形成非词。根据左侧优势假说和单向句法分析假说，词汇识别是严格按照从左到右的顺序进行的，左侧的词具有绝对加工优势。而且，当一个字和它左侧的字组成词后，该字将不能再分配给其它词。对于歧义词AB-CD，双字词AB 激活后，双字词CD 得到激活，而BC将不会被激活(Ma et al.,2014; Inhoff & Wu,2005)。因此，如果操纵歧义词边界中间两个字转置及替换，应该会出现词边界效应。根据独立加工假设和多重激活假设，知觉广度内的词都会被激活。因此，一个字可以和左侧的字组成词被激活，也可以和右侧的字组成词被激活。而且，AB、BC 和CD三个词的加工是平行的和独立的(Ma et al.,2014; Inhoff &Wu,2005)。Inhoff 和 Wu(2005)使用歧义词(如，专科学生)和两种非歧义词(如，专科毕业和外地学生)研究发现，歧义词的注视时间显著长于其它两种非歧义词。他们认为，歧义词中的三个双字词可能都得到加工，支持多重激活假设。如果操纵歧义词边界中间两个字转置及替换，可能导致词边界效应减弱或消失。因此，我们预测，如果歧义词边界影响汉字位置加工，词类型与预视条件交互作用显著。对于歧义词AB-CD 和非歧义词 AB-CD 靶子，注视时间在转置条件和替换条件没有差异；对于 ABCD四字靶子，注视时间在转置条件显著短于替换条件。如果歧义词边界不影响汉字位置加工，那么词类型与预视条件交互作用显著。对于歧义词AB-CD 和ABCD 四字靶子，注视时间在转置条件显著短于替换条件；对于非歧义词 AB-CD靶子，注视时间在转置条件和替换条件没有差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 语境合理性和预测性对汉字位置加工的词边界效应的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "研究三通过两个实验考察语境合理性和预测性对汉字位置加工的词边界效应的影响。研究目的在于探究中文阅读的词切分过程中，高层次的语境信息如何调节汉字位置加工过程。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "实验5利用眼动技术并结合边界范式考察语境合理性对汉字位置加工的词边界效应的影响。我们将操纵两种四字词：一种中间两个汉字转置后为两个双字词且语义不变，如“眉清目秀”，符合句子背景；另一种中间两个汉字转置后为两个双字词但语义改变，如“安贫乐道”，不符合句子背景。该实验主要验证语境的合理性是否调节转置四字词汉字位置加工的词边界效应。每种靶子词有三种预视条件：(a)相同条件；(b)转置条件，靶子词的中间两个字转置形成两个双字词；(c)替换条件，靶子词的中间两个字替换形成非词。Yang(2013)使用可转置双字词考察了中文阅读中语境合理性对词汇加工的影响。靶子词为两种：转置后语义不变，如“适合”与“合适”；转置后语义改变，如“画笔”与“笔画”。结果发现，当靶子词和预视词语义相同，两个词都符合语境时，注视时间在相同条件与转置条件没有差异;而当预视词和靶子词语义不同，靶子词符合语境而预视词不符合语境时，注视时间在转置条件显著长于相同条件。Yang 进一步研究发现，当预视词与靶子词语义不同但二者都符合语境时，注视时间在相同条件与转置条件没有差异。该结果表明，句子语境的合理性影响可转置词的识别。我们预测，在可转置四字词中，如果语境合理性影响汉字位置加工的词边界效应，那么词类型与预视条件交互作用显著。对于转置后符合语境的四字词，注视时间在相同条件和转置条件没有差异，而在替换条件显著长于转置条件；对于转置后不符合语境的四字词，注视时间在转置条件显著长于相同条件，而转置条件和替换条件没有差异。如果语境合理性不影响汉字位置加工的词边界效应，那么词类型与预视条件交互作用不显著。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "实验6考察语境预测性对汉字位置加工的词边界效应的影响。靶子词为两个连续的双字词，按照预测性分为两种：高预测性和低预测性。该实验通过比较两种预测性条件下的靶子中间两个字转置后转置效应的差异，从而验证预测性对汉字位置加工的词边界效应是否具有调节作用。每种靶子有三种预视条件：(a)相同条件；(b)转置条件，靶子词的中间两个字转置形成非词；(c)替换条件，靶子词的中间两个字替换形成非词。根据 Li 和 Pollatsek(2020)提出的词汇加工和眼动控制的整合模型，语境预测性影响靶子中的字的加工。高预测性靶子更易被跳读，因为高预测性靶子及所包含的字为平行加工。并且，在副中央凹视野，高预测性靶子中的字比低预测性靶子中的字加工更多。由此推测，高预测性背景可能弱化汉字位置加工的词边界效应。高预测性靶子存在较强的汉字转置效应，而低预测性靶子汉字转置效应较小甚至消失。实验预期为，如果语境预测性影响汉字位置加工的词边界效应，那么语境预测性与预视条件交互作用显著。对于高预测性条件，注视时间在相同条件和转置条件没有差异，而在转置条件显著短于替换条件；对于低预测性条件，注视时间在相同条件显著短于转置条件，而转置条件和替换条件没有差异。如果语境预测性不影响汉字位置加工的词边界效应，那么语境预测性与预视条件交互作用不显著。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5理论建构",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "字符位置信息加工是词汇识别的重要环节。在拼音文字中，关于字母位置编码的研究更为系统和深入。研究者通过对字母位置编码的认知机制进行大量实证研究，提出了一系列视觉词汇识别模型，如空间编码模型、重叠模型等。上述模型均采用灵活的机制对字母身份和位置进行编码，因而可以解释字母转置效应。但部分模型还不能解释词的首尾字母位置效应等研究发现。目前，中文关于汉字位置加工的研究仍处于初级探索阶段。本项目将从字、词和语境三个维度系统考察中文阅读中汉字位置加工的词边界效应，即词切分过程中汉字位置加工的具体认知机制。这对中文汉字位置加工模型的建立具有重要启示。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Taft 和 Zhu(1997)提出的中文词汇加工多重激活模型假设，词汇加工系统包括正字法、语音和语义三个亚系统。并且，该系统包括特征、部首、字和多字词四个水平。当一个词通过视觉呈现时，基于最低水平的特征(如，笔画)从正字法亚系统进入词汇加工系统。然后，特征的激活传至与已激活特征相关联的部首水平，再传至相关联的汉字水平，最后传至相关联的多字词水平。而且，激活可以由字水平和词水平传至密切相关的语音和语义亚系统单元从而激活字和词的语音和语义。可见，该词汇加工系统主要通过字水平表征来激活整词表征。但是，在字的水平，该模型并未定义汉字位置的激活机制。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Li 等(2009）提出的词切分与词汇识别模型假设，中文词汇识别是一个交互激活的过程，包括多重加工水平，如，特征水平，字水平，词水平。输入信息从低水平前馈到较高的水平，信息也从较高的水平反馈到较低的水平，影响低水平的加工。在字水平，知觉广度内的汉字都是平行加工的。字水平的激活前馈到词水平来激活词单元。当一个词单元的激活水平到达一定激活值，该激活将反馈到组成该词的字水平。属于该词的字比其它字激活速度更快。在词水平的表征互相竞争，直到只有一个词获胜。但是，该模型主张汉字编码受插槽(slot)限制，因而在解释汉字位置加工的发现上有一定的局限性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在新版的词汇加工和眼动控制的整合模型中，也没有关于汉字位置加工机制方面的假设。研究者提出，需要对模型进行部分修正来解释汉字位置加工过程。如，假设从视觉特征水平到字水平可能不严格局限于一个插槽内，一个视觉特征水平单元可能在相邻插槽与字单元联结(Li&Pollatsek,2020)。但是，词内和词边界汉字位置在词汇识别和词切分过程中的加工机制不同，这是建立汉字位置加工模型首要考虑的问题，也为词汇识别与词切分模型的修正提供启示。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "邓耀臣，冯志伟.(2013).词汇长度与词汇频数关系的计量语言学研究．外国语,36,29-39.doi:",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CNKI:SUN:WYXY.0.2013-03-002 顾俊娟，高志华，屈青青.(2020).汉字位置加工的词边界效应．心理与行为研究,18,193-199. 滑慧敏，顾俊娟，林楠，李兴珊.(2017).视觉词汇识别中的字符位置编码．心理科学进展,25,1132-1138.doi:   \n10.3724/SP.J.1042.2017.01132 黄伯荣，廖序东． (2007).现代汉语．北京：高等教育出版社. 李兴珊，刘萍萍，马国杰.(2011).中文阅读中词切分的认知机理述评．心理科学进展，19,459-470.doi:   \n10.3724/SP.J.1042.2011.00459 孟祥芝，舒华．(1999).汉语儿童阅读障碍研究．心理发展与教育，15，54-57．doi: CNKI:SUN:XLFZ.0.1999-04-011 彭聘龄，丁国盛，王春茂,Taft,M.，朱晓平.(1999).汉语逆序词的加工一词素在词加工中的作用．心理学报，   \n31,36-46.doi: 10.1088/0256-307X/16/12/025 田晓梅，王纯，李童，孟祥芝，周晓林.(2006).汉语双字词的心理词典存储一来自发展性阅读障碍个案的证 据．心理发展与教育,22,146-157.doi:10.3969/j.issn.1001-4918.2006.02.009 Acha,J.,&Perea,M.(2Oo8).Theeffcts of lengthand transposed-letter similarity in lexical decision:Evidence with beginning，intermediate，and adult readers.British Journal of Psychology，99，245-264. http://dx.doi.0rg/10.1348/000712607X224478 Beyersmann,E.,Coltheart,M.,& Castles,A. (2012).Parallel processng of whole words and morphemes in visual wordrecognition. TheQuarterlyJournalofExperimentalPsychology，65， 1798-1819. http://dx.doi.0rg/10.1080/17470218.2012.672437   \nBlythe,H.I.，Johnson,R.L.,Liversedge,S.P.，& Rayner,K.(2014).Reading transposed text:Effcts of transposed lettr distance and consonant-vowel status on eye movements. Attention， Perception，& Psychophysics,76,2424-2440. htp://dx.doi.org/10.3758/s13414-014-0707-2   \nBeyersmann,E., McCormick, S.F.，& Rastle,K.(2013). Letter transpositions within morphemes and across morphemeboundaries.TheQuarterlyJournalofExperimentalPsychology,66， 2389-2410. http://dx.doi.0rg/10.1080/17470218.2013.782326   \nChristianson,K.,Johnson,R.L.,&Rayner,K. (2oo5).Lettr transpositions withinand across morphemes.Journal of ExperimentalPsychology:Learning, Memory，and Cognition, 31, 1327-1339. http://dx.doi.0rg/10.1037/0278-7393.31.6.1327   \nDufabeitia,J.A.,Perea,M.,& Carreiras,M.(2O07).Do transposed-lettr similarity effects occur at a morpheme level?Evidenceformorpho-orthographicdecomposition. Cognition, 105, 691-703. http://dx.doi.org/10.1016/j.cognition.2006.12.001   \nDunabeitia,J.A.,Perea,M.,& Careiras,M.(2O14).Revisiting letter transpositions within and across morphemic boundaries.Psychonomic Buletin& Review,21,1557-1575. htp://dx.doi.org/10.3758/s13423-014-0609-2   \nFrost,R. (2OO9). Reading in Hebrew vs. Reading in English: Is There a Qualitative Diference? In K.Pugh &P. McCradle (Eds.)，How children learn to read: Current issues and new directions in the integration of cognition, neurobiology and genetics of reading and dyslexia research and practice (pp. 235-254). New York: Psychology Press.   \nForster,K.1., Davis, C. Schoknecht, C.,& Carter,R.(1987). Masked priming with graphemically related forms: Repetition or partial activation? Quarterly Journal of Experimental Psychology: Human Experimental Psychology, 39(A),211-251. http://dx.doi.0rg/10.1080/14640748708401785   \nFrost,R., Kugler,T.,Deutsch,A.,&Forster,K.I. (Oo5). Orthographic structure versus morphological structure: Principles of lexical organisation in a given language. Journal of Experimental Psychology: Learning, Memory, and Cognition,31,1293-1326. http://dx.doi.org/10.1037/0278-7393.31.6.1293   \nGu,J.,& Li, X.(2015). The effcts of character transposition within and across words in Chinese reading. Attention, Perception,& Psychophysics,77,272-281. http:/dx.doi.org/10.3758/s13414-014-0749-5   \nGu, J.,Li, X., &Liversedge, S. P. (2015). Character order processng in Chinese reading, Journal of Experimental Psychology: Human Perception and Performance.41,127-137. http://dx.doi.org/10.1037/a0038639   \nInhoff,A. W.,& Liu, W. M.(1998). The perceptual span and oculomotor activity during the reading of Chinese sentences. Journal of Experimental Psychology: Human Perception and Performance, 24， 20-34. http://dx.doi.0rg/10.1037//0096-1523.24.1.20   \nInhoff,A. W.，& Wu, C. (2O05).Eye movements and the identification of spatially ambiguous words during Chinese sentence reading. Memory & Cognition,33,1345-1356. htp://dx.doi.org/10.3758/BF03193367   \nJohnson,R.L. (2Oo7).The flexibilityof letter coding: Nonadjacent lettr transposition effcts in the parafovea. In R. P. G. van Gompel, M. H. Fischer, W. S. Murray,& R. L. Hill (Eds.). Eye movements: A window on mind and brain (pp. 425-440). Oxford, UK: Elsevier.   \nJohnson, R.L.,& Dunne, M.D. (2O12). Parafoveal processing of transposed-leter words and nonwords: Evidence against parafoveal lexical activation. Journal of Experimental Psychology: Human Perception and Performance,38,191-212. htp:/dx.doi.org/10.1037/a0025983   \nJohnson,R.L.,& Eisler,M.E. (2012).The importanceof the first and last letter in words during sentencereading. Acta Psychologica,141, 336-351. http://dx.doi.0rg/10.1016/j.actpsy.2012.09.013   \nJohnson，R.L.， Perea,M.，& Rayner，K. (2007). Transposed-leter efects in reading: Evidence from eye movements and parafoveal preview. Journal of Experimental Psychology: Human Perception and Performance,33,209-229. http://dx.doi.org/10.1037/0096-1523.33.1.209   \nJuhasz,B.J.,InhoffA.W.,& Rayner,K.(20o5).The role of interword spaces in the processing of English compound words. Language and Cognitive Processes, 20， 291-316. http://dx.doi.0rg/10.1080/01690960444000133   \nLuke,S.G.，& Christianson,K.(2O13).The influence of frequency across the time course of morphological processing: Evidence from the transposed-letter efect. Journal of Cognitive Psychology,25，781-799. http://dx.doi.0rg/10.1080/20445911.2013.832682   \nLi,X.,Gu,J.,Liu,P.,&Rayner,K.(2O13).The advantage of word-based processing in Chinese reading: Evidence from eye movements.Journal of Experimental Psychology: Learning, Memory, and Cognition,39,879-889. http://dx.doi.org/10.1037/a0030337   \nLi, X.,Rayner, K.,& Cave,K. R.(2009). On the segmentation of Chinese words during reading. Cognitive Psychology, 58, 525-552. htp://x.doi.org/10.1016/j.cogpsych.2009.02.003.   \nLi, X.,& Pollatsek,A. (2020). An integrated model of word procesing and eye-Movement control during Chinese reading. Psychological Review.Advance online publication. http://dx.doi.org/10.1037/rev0000248   \nLee, C.H.,& Taft, M. (2009). Are onsets and codas important in processing leter position? A comparison of TL effectsin EnglishandKorean. JournalofMemoryandLanguage, 60, 530-542. http://dx.doi.org/10.1016/j.jml.2009.01.002   \nMa, G.,Li, X.,& Rayner, K. (2014). Word segmentation of overlapping ambiguous strings during Chinese reading. Journal of Experimental Psychology: Human Perception and Performance, 40, 1046-1059. http://dx.doi.org/10.1037/a0035389   \nMa,G.,Pollatsek,A.,Li, Y.,&Li, X. (2O17). Chinese readerscan perceive a word even when it's composed of noncontiguous characters. Journal of Experimental Psychology: Learning,Memory,and Cognition, 43,158 166. http://dx.doi.org/10.1037/xlm0000298   \nMaerang，K. M.，& Pollatsek，A. (2012).Transposed letter effects in prefixed words: Implications for morphologicaldecomposition. Journal of Cognitive Psychology, 24， 476-495. http://dx.doi.0org/10.1080/20445911.2012.658037   \nPagan,A.，Blythe, H. I.，& Liversedge, S.P. (2O16). Parafoveal preprocessing of word initial trigrams during reading in adults and children. Journal of Experimental Psychology: Learning, Memory, and Cognition, 42, 411-432. http://dx.doi.org/10.1037/xlm0000175   \nPerea,M.,& Acha, J. (20o9). Does leter position coding depend on consonant/vowel status? Evidence with the masked priming technique. Acta Psychologica,130,127-137. htp:/x.doi.org/10.1016/j.actpsy.2008.11.001   \nPerea,M.,& Carreiras,M. (2Oo8). Do orthotactics and phonology constrain the transposed-letter effect? Language and Cognitive Processes,23,69-92. http://dx.doi.0rg/10.1080/01690960701578146   \nPerea,M.,Dunabeitia,J.A.，& Carriras,M.(2Oo8).Transposed-leter priming effects for close versus distant transpositions. Experimental Psychology,55,384-393. htp://dx.doi.0rg/10.1027/1618-3169.55.6.384   \nPerea,M.,&Lupker,S.J.(2Oo3).Transposed-leterconfusabilityefects in masked form priming.In S.Kinoshita and S.J.Lupker (Eds.),Masked priming: The state of the art (pp.97-120).New York,NY: Psychology Press.   \nRayner，K.(1975).The perceptual span and peripheral cues in reading. Cognitive Psychology， 7,65-81. http://dx.doi.0rg/10.1016/0010-0285(75)90005-5   \nRayner,K.,Fischer,M.H.,&Polatsek,A.(1998). Unspaced text interferes withboth word identification and eye movement control. Vision Research, 38,1129-1144. htp:/dx.doi.0rg/10.1016/S0042-6989(97)00274-5.5   \nRayner,K.,Li, X.,Juhasz,B.,& Yan,G.(2O05).The efect of word predictability on the eye movementsof Chinese readers.Psychonomic Bulletin & Review,12,1089-1093.htp://dx.doi.org/10.3758/BF03206448   \nRueckl,J. G.，& Rimzhim,A. (2011).On the interaction of leter transpositions and morphemic boundaries. Language & Cognitive Processes, 26,482-508. htp://x.doi.0rg/10.1080/01690965.2010.500020 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Rayner,K.，White,S.J.,Johnson,R.L.，&Liversedge,S.P.(2O06).Raeding wrods with jubmled lettres. Psychological Science,17,192-193.http://dx.doi.org/10.1111/j.1467-9280.2006.01684.x ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Schoonbaert, S.,& Grainger, J. (2O04).Leter position coding in printed word perception: Effects of repeated and transposed letters. Language and Cognitive Processes, 19, 333-367. http://dx.doi.0rg/10.1080/01690960344000198   \nSanchez-Gutierrez, C.,& Rastle,K.(2O13).Letter transpositions within and across morphemic boundaries: Is thereacross-languagedifference?PsychonomicBulletin & Review, 20， 988-996. http://dx.doi.0rg/10.3758/s13423-013-0425-0   \nTaft,M. (2O04).Morphological decomposition and the reverse base frequency efect.The Quarterly Journal of Experimental Psychology Section A,57,745-765.http://dx.doi.org/10.1080/02724980343000477   \nTaft,M.，& Nilsen,C.(2013).Morphological decomposition and the transposed-letter(TL）position effect. Language and Cognitive Processes,28,917-938. htp://dx.doi.org/10.1080/01690965.2012.679662   \nTifn-Richards，S.P.，& Schroeder，S.(2015). Children's and adults’parafoveal processs in German: Phonologicalandorthographicefects.JournalofCognitivePsychology，27， 531-548. http://dx.doi.0rg/10.1080/20445911.2014.999076   \nTaft,M.,& Zhu, X. (1997). Sub-morphemic processng in reading Chinese. Journal of Experimental Psychology: Learning, Memory, and Cognition,23,761-775.http://dx.doi.org/10.1037/0278-7393.23.3.761   \nWhite,S.,Johnson,R.L.,Liversedge,S.,&Rayner,K.(2Oo8).Eye movements when reading transposed text: The importance of word beginning leters. Journal of Experimental Psychology: Human Perception and Performance,34,1261-1276. http://dx.doi.org/10.1037/0096-1523.34.5.1261   \nWinskel, H.,& Perea,M. (2O13). Consonant/vowel asymmetries in leter position coding during normal reading: Evidence from parafoveal previewsin Thai. Journal of Cognitive Psychology，25，119-130. http://dx.doi.0rg/10.1080/20445911.2012.753077   \nWinskel,H.，Perea，M.，& Ratitamkul，T.(2012）On the flexibilityof leterposition coding during lexical processing: The case of Thai. Experimental Psychology, 59, 68-73. http://dx.doi.0rg/10.1027/1618-3169/a000127   \nWitzel,N.,Qiao,X.,&Forster,K.(2O11).Transposed letter priming with horizontal and vertical text in Japanese and English readers. Journal of Experimental Psychology: Human Perception and Performance,37,914-920. http://dx.doi.org/10.1037/a0022194   \nYang,J. (2Ol3).Preview effects of plausibility and character order in reading Chinese transposed words: Evidence from eye movements. Journal of Research in Reading, 36, 18-34. http://dx.doi.0rg/10.1111/j.1467-9817.2013.01553.x.   \nZiegler,J. C.，Bertrand,D.,Lete,B.，& Grainger,J.(2014).Orthographic and phonological contributions to reading development: Tracking developmental trajectories using masked priming. Developmental Psychology, 50,1026-1036.http://dx.doi.0rg/10.1037/a0035187   \nZhou,J.,Ma,G.,Li, X.,& Taft,M.(20l7). The time course of incremental word processing during Chinese reading. Reading and Writing,31,607-625. http://dx.doi.org/10.1007/s1145-017-980-y ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The cognitive mechanism of Chinese character position processing and word boundary effect ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "GU Junjuan; SHI Jinfu ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(SchoolofPsychologyandMental Health,NorthChina UniversityofScienceandTechnologyTangshanO63210,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In visual word recognition of Chinese words,it is necessary to process the relative order of Chinese characters in words,i.e., processing of the position of Chinese characters. The processing of the position of Chinese characters is important for word recognition and reading comprehension.If the position of Chinese characters is not processed, it would be difficult to distinguish and recognize transposable words. Transposable words are composed of the same Chinese characters,but the order of Chinese characters is different between words.Previous studies have found that the processing of the position of Chinese characters is more flexible within a word.In addition,the word boundary information affects the processing of the position of Chinese characters,that is,the processing of the position of Chinese characters has a word boundary effect. Which factors affect the word boundary effect of Chinese character position processing? In this project, the following three issues will be investigated systematically by using the eye tracking technique:(1） How do the initial/final characters of a word modulate the processing of Chinese character position? (2) How do the word boundaries of embedded words and ambiguous words afect Chinese character position processing? (3) How do word plausibility and predictability affect the word boundary effect of Chinese character position processing? The present project will provide new insights into the construction of character position processing model in Chinese,and promote modification of the model of Chinese word segmentation and word recognition. Furthermore,the findings will provide us scientific guidance for efficient vocabulary teaching and learning. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: Chinese； word segmentation; word boundaries； Chinese character position； eyemovements",
+        "page_idx": 14
+    }
+]

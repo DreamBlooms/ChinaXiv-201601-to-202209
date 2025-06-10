@@ -1,0 +1,129 @@
+# 采用高压标准电容器测量交流高压
+
+候宪华周立² 李忠华（1.国网枣庄供电公司 枣庄2771002.江苏省电力科学研究院南京 2100003.哈尔滨理工大学哈尔滨150080）
+
+![](images/25c7b15b934d88b1239353e6c235238a67e65bbeee57bc08890b5dc0245e0732.jpg)
+
+候宪华男 1988年生，硕士研究生，主要研究方向为高电压与绝缘技术。
+
+摘要：基于电网发展对新型交流高压测量技术的需求，在分析现有交流高压测量技术的基础上，本文提出了一种基于高压标准电容器的交流高压测量系统，详细分析了此种交流高压测量系统的工作原理，并对该系统的稳态特性和频率特性进行了实验研究，同时对可能产生的误差进行了系统的分析。所研制出的交流高压测量系统满足电力系统对工频高压信号获取的技术需求，同时满足频率不大于 $2 ~ 5 0 0 \mathrm { H z }$ 交流高压测量的要求，具有一定的实用价值。
+
+关键词：交流高压测量系统 高压标准电容器 稳态特性频率特性中图分类号：TM835.4
+
+# A Measuring Method for AC HV Using HV Standard Capacitor
+
+![](images/481778a7505867d4d20510a2ea70eb0c5520b97be77a8e715f4afb63913a0dd4.jpg)
+
+Hou Xianhua'Zhou $L i ^ { 2 }$ Li Zhonghua³ (1.State Grid Zaozhuang Power Supply CompanyZaozhuang277100 China 2.Jiangsu Electric Power Research InstituteNanjing 210000 China 3.Harbin University of Science and TechnologyHarbin 150080 China ）
+
+周立男1985年生，硕士，主要研究方向为电力电缆。
+
+Abstract: According to the demand of new AC high-voltage measuring technology based on the development of power network, this paper proposes an AC high-voltage measuring system using high voltage standard capacitor based on the analysis of the existing AC high-voltage measuring technology, the working principle of this kind of AC high-voltage measuring system is analyzed in detail, and the experimental research on the steady state characteristic and frequency characteristic of the AC high-voltage measuring system is made,at the same time,the possible errors are analyzed in detail. The AC high-voltage measuring system meets the technical requirements of high-voltage signal acquisition in the power system, at the same time,meets the requirements of AC high-voltage measurement when the frequency is not more than $2 ~ 5 0 0 \mathrm { H z }$ ，and has certain practical value.
+
+Keywords: AC high-voltage measuring system, high voltage standard capacitor, steady state characteristics, frequency characteristic
+
+# 1 引言
+
+近年来，随着电力系统容量的增加，电网运行电压等级越来越高，一方面传统的交流高压测试技术已很难满足电网发展的需求，另一方面超高压、特高压电网的发展对研发新型交流高压测量技术提出迫切的需求。
+
+现有的交流高压测量技术主要包括电磁式(PT）和电容或电阻分压式传感技术，近年来国内外也出现了较为先进的光学（OVT）一次电压传感技术，也有文献提出电容或电阻串接空心线圈和电容或电阻串接小电流互感器构成的一次电压传感器等一系列交流高压测量技术手段。传统电磁式电压互感技术由于绝缘难度大、易产生铁磁谐振和动态范围小等缺点已不适于电力系统向大容量、智能电网方向发展的需要。电阻分压式一次电压传感技术虽然结构简单、造价低但其受到电阻功率的限制只适用于中低压电力系统中，电容分压式一次电压传感技术具有电场强度裕度大、绝缘可靠性高和无发热问题等优点，但其高压电容易受温度影响，线路短路时存在电容放电问题，而电阻或电容串联空心线圈或小电流互感器的测量方式虽然在一次侧不消耗有功功率，对小电流的测量精度更高但是其易受环境温度、磁场等因素的影响，进而会在一定程度上降低测量技术的测试精度。光学一次电压传感技术主要利用光学材料的物理特性，主要分为基于泡克尔斯(Pockels）效应的电子式电压互感技术和逆电压效应型电子式电压互感技术，但由于对材料和检测设备要求极高，晶体易受振动、环境温度等因素影响，其稳定性和可靠性需进一步加强[1]。
+
+本文提出一种基于高压标准电容器的交流高压测量系统，通过引入高压标准电容器作为高压端电容，由标准电容器与电流电压转换电路串接构成，其中电流电压转换电路输入端并接TVS管，起到保护运算放大器的作用，运算放大器的输出电压作为交流高压测量系统的输出。本文引入的高压标准电容器消除了普通电容器因环境等因素影响所带来的测试误差，具有温度稳定性高、结构简单、成本低、抗干扰能力强、无铁磁谐振、工作稳定安全及测试精度高等特点，本套交流高压测量系统不仅可应用于各个电压等级的电力系统中，也可用于实验室作为提取高压信号的测试装置。
+
+# 2 测量系统的基本原理
+
+基于高压标准电容器的交流高压测量系统主要由高压标准电容器、保护电路和信号处理电路组成，如图1所示。
+
+![](images/8ce474bfd990a7740423023dc47d9e702f169d2f33312b9eeff2d996b76551d6.jpg)  
+图1应用高压标准电容器测量交流高压原理图 Fig.1Diagram of high voltage standard capacitor to measure AC HV
+
+高压标准电容器 $C _ { \mathrm { H } }$ 将一次侧高电压信号转变为电容电流信号 $I _ { \mathrm { C } }$ ，有
+
+$$
+I _ { \mathrm { C } } ( t ) = C _ { \mathrm { H } } \frac { \ \mathrm { d } u _ { \mathrm { p } } ( t ) } { \ \mathrm { d } t }
+$$
+
+式（1）表明电容电流与一次高电压信号的微分成正比，因此需要对其进行积分来完成还原处理，理想积分器状态下，一般采用反相积分器，有
+
+$$
+u _ { \mathrm { q } } = - \frac { 1 } { C _ { \mathrm { J } } } \int I _ { \mathrm { C } } ( t ) \mathrm { d } t = - \frac { C _ { \mathrm { H } } } { C _ { \mathrm { J } } } u _ { \mathrm { p } } ( t )
+$$
+
+式中， $C _ { \mathrm { { J } } }$ 为积分电容。
+
+由式（2）可知，输入电压 $u _ { \mathrm { p } }$ 与输出电压 $u _ { \mathrm { q } }$ 相位相差 $1 8 0 ^ { \circ }$ ，所以通过反相积分器来还原输出信号的相位，同时可以调整输出信号幅值的大小，从而获得与一次侧高压信号成正比的小电压信号。最终得到
+
+$$
+\frac { u _ { \mathrm { q } } } { u _ { \mathrm { p } } } = \frac { C _ { \mathrm { H } } } { C _ { \mathrm { J } } }
+$$
+
+但是在实际电路中即使选用极大抑制零点漂移的运算放大器，也仍然存在零漂，所以需要在积分电容 $C _ { \mathrm { { J } } }$ 上并联一个电阻 $R _ { \mathrm { J } }$ ，如图1所示，由于本设计中采用的高压标准电容器电阻、传输导线电阻和积分器输入电阻的总阻值很小，所以电阻 $R _ { \mathrm { J } }$ 的引入是造成输入和输出信号之间存在相角偏移的主要因素，取 $C _ { \mathrm { J } } { = } 0 . 1 \mu \mathrm { F }$ ，为使相角尽可能小， $R _ { \mathrm { J } }$ 取的尽量大些，令 $R _ { \mathrm { J } } = 1 0 0 \mathrm { M } \Omega$ ，即可使本套测试系统相角误差在高压测量误差允许的范围内[2]。 $R _ { \mathrm { J } }$ 取值较大,实际测试中积分器仍存在一定的零漂，故需在积分器输入端增加辅助电路来进一步调节零点漂移，若针对含有高次谐波干扰的电压信号，可加装低通滤波装置后再进行电压信号的测量。
+
+# 3 交流高压测量装置特性
+
+# 3.1稳态特性
+
+在进行交流高压测量系统性能分析时，将电流电压转换电路与高压标准电容器作为一个整体考虑，首先由信号发生器（AFG3252）产生10V正弦电压信号，然后经高压线性放大器（TrekModel10/40A-HS)，调整倍率为1100倍，高压作用于高压标准电容器上，所产生电流进入电流电压转换电路，由示波器（TDS3052）分别采集信号发生器输出电压及电流电压转换电路输出电压。
+
+若设一次高压信号 $u _ { \mathrm { p } }$ 为
+
+$$
+u _ { \mathrm { p } } = U _ { \mathrm { P } } { \sqrt { 2 } } \sin \left( \omega _ { \mathrm { 0 } } t + \theta _ { \mathrm { 0 } } \right)
+$$
+
+式中， $U _ { \mathrm { P } }$ 为一次信号交流部分的有效值； $\omega _ { \scriptscriptstyle 0 }$ 为电力系统工频频率； $\theta _ { 0 }$ 为电压信号初始相位。
+
+高压标准电容器并联于电网系统中，其电容值为 $C _ { \mathrm { H } }$ ，则流过电容器电流 $I _ { \mathrm { C } }$ 为
+
+$$
+I _ { \mathrm { C } } ( t ) = C _ { \mathrm { H } } \frac { \mathrm { d } u _ { \mathrm { p } } ( t ) } { \mathrm { d } t } = \sqrt { 2 } \omega _ { 0 } C _ { \mathrm { H } } U _ { \mathrm { p } } \cos \left( \omega _ { 0 } t + \theta _ { 0 } \right)
+$$
+
+此时电流信号 $I _ { \mathrm { C } }$ 与一次电压信号 $u _ { \mathrm { p } }$ 是微分关系，相位相差 $9 0 ^ { \circ }$ ，要将电流信号转换成电压信号，并使两者成比例且相位一致，需要对其进行积分，积分后输出电压信号再经过反相器得到 $u _ { \mathrm { q } }$ 为
+
+$$
+u _ { \mathrm { q } } = \frac { \sqrt { 2 } C _ { \mathrm { H } } U _ { \mathrm { P } } } { R _ { \mathrm { J } } C _ { \mathrm { J } } } \sin { ( \omega _ { \mathrm { 0 } } t + \theta _ { \mathrm { 0 } } ) } = K u _ { \mathrm { p } } 
+$$
+
+令 $K = C _ { \mathrm { H } } / R _ { \mathrm { J } } C _ { \mathrm { J } }$ ，在系统处于稳态情况下，本套测试系统输出电压与一次电压信号成正比，且相位保持一致，可根据调控需要，改变 $K$ 的大小。本套测试系统中引入高压标准电容器，其电容值具有不受温度影响，泄露电阻极小的特点，使 $K$ 值一旦选定，输出电压信号就能比较忠实地反映一次电压信号，为表征一、二次侧稳态电压特性所做的稳态模
+
+拟实验如下所示。
+
+(1）稳态输出电压 $u _ { \mathrm { q } }$ 与输入电压 $u _ { \mathrm { p } }$ 波形图如图2所示（示波器通道ch1显示为一次侧电压，通道ch2显示为二次侧输出电压)。
+
+![](images/9986f84286142ef3e9e01193d2dd92c039f13430d956f4f07e4d9a65e6ac78a4.jpg)  
+图2一次电压与二次电压示波器波形图
+
+(2）输入电流与输出电压线性度曲线，如图3所示。
+
+![](images/fd4d565faf18e68b17f0d2cd9bc9d198c10905f8b4c0c38fefaf027588798645.jpg)  
+Fig.2Primary and secondary voltage oscilloscope waveform   
+图3输入电流与输出电流线性度曲线  
+Fig.3Input current and output voltage linearity curve
+
+由Origin软件分析所拟合出的直线可得所测数据残差平方和为0.11675，方差为0.99982，约等于1，可知所得数据线性程度较好，输入电流与输出电压具有较好的线性度。
+
+# 3.2频率特性
+
+实际测试时由示波器采集到的不同频率下输入输出电压波形如图4所示。
+
+比值误差与相角误差随频率变化的曲线如图5所示。
+
+从波形图可以看出，本套基于高压标准电容器的交流高压测试系统从低频 $5 0 \mathrm { { H z } }$ 到高频 $2 ~ 5 0 0 \mathrm { H z }$ 均具有良好的电压输出特性，在频率 $2 ~ 5 0 0 \mathrm { H z }$ 以上时，输出电压波形出现失真，从图5中可以看出，频率从低频到高频变化的过程中，输出电压比值误差和相角误差随频率变化均在理想的范围内，可见本套交流高压测试系统具有良好的频率特性与输出电压稳定性[4]。
+
+![](images/67b0b419bd5fce42158c8ad8408a7d89b42c1d5b0c47eeb7a71afa8b1dbd3230.jpg)  
+图4不同频率下输入输出电压波形 Fig.4Input and output voltage waveforms at different frequencies
+
+![](images/a8eb1be588d5d8539633fc584b082730a1605574502e2afdd7a5b31aa18ba109.jpg)  
+图5比值误差与相角误差随频率的变化曲线 Fig.5The ratio error and phase angle error curve with frequency
+
+# 4结论
+
+研制了基于高压标准电容器的交流高压测量系统，引入的高压标准电容器因为其温度系数几乎为零，介质损耗极小的特点在很大程度上消除了温度、杂散电容对测试精度的影响，本套测试系统具有结构简单，温度特性好，良好的稳态输出特性、频率特性等特点，可根据市场中已有的高压标准电容器型号选取，使之适用于多个电压等级的电力系统中，同时由图3中线性度曲线可知，输入电压 $1 \sim 1 1 \mathrm { k V }$ 均可得到理想的模拟输出电压信号，且保持良好的线性度，因此可用作实验室提取高电压信号的测量装置。
+
+# 参考文献
+
+[1] 薄志谦，张保会，董新洲，等．保护智能化的发展与智能继电器网络[J]．电力系统保护与控制，2013，41(2)：1-12.Bo Zhiqian, Zhang Baohui, Dong Xinzhou, et al. Thedevelopment of protection intellectualization andsmart relay network[J].Power System Protection andControl,2013,41(2): 1-12.  
+[2] 魏韓，梅生伟，张雪敏．先进控制理论在电力系统中的应用综述及展望[J]．电力系统保护与控制，2013，41(12)：143-153.Wei Wei, Mei Shengwei, Zhang Xuemin. Review ofadvanced control theory and application in powersystem[J].Power System Protection and Control,2013,41(12): 143-153.  
+[3] 刘衍，周求宽，张弦．基于电容器组中性点信号注入的电容电流测试方法[J]．电气应用，2016,35(10): 42-45.  
+[4] FaiferM,Toscani S OttoboniR.Electronic combinedtransformer for power-quality measurements inhigh-voltage systems[J]. IEEE Transactions onInstrumentation & Measurement,2011,60(6):2007-2013.

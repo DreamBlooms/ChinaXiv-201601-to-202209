@@ -1,0 +1,197 @@
+[
+    {
+        "type": "text",
+        "text": "道德基础词典中文版介绍与初步分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴胜涛\\*，杨晨曦²，张彦彦\\*」厦门大学传播研究所，厦门361005²厦门大学电子科学与技术学院，厦门361005”吉林大学哲学社会学院心理学系，长春130012通讯作者：张彦彦，Email: zhangyanyan@jlu.edu.cn；吴胜涛，Email:commuagent@163.comor michaelstwu@xmu. edu. cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢中国科学院心理研究所朱廷劭研究员课题组李赫、黄峰、丁慧敏同学在词表翻译上的协助，以及厦门大学信息科学学院马瑞启同学在论文图表上的协助。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究基于道德基础理论，对Graham 等人（2009）编制的道德词典进行了中文修订。按照“德行”和“罪行”两个方面，将道德的五个基础（关爱、公平、忠诚、权威、圣洁）分为10个纬度，并探讨了各纬度之间的相关性。研究结果表明，修订过的中文版道德词典具有良好的信度，且10个道德纬度之间呈中等程度相关。本研究为道德领域的相关研究提供了本土研究工具，但未来还要对道德词典10个纬度的因子结构和效标效度进行检验。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：社会直觉，道德基础，词典，LIWC",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Chinese Version of Moral Foundations Dictionary: A Brief Introduction and Pilot Analysis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WU Shengtao 1\\*, YANG Chenxi ², ZHANG Yanyan 3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Institute of Communication,Xiamen University,Xiamen 361oo5, China 2 School of Electronic Science and Technology,Xiamen 361oo5, China 3 School of Philosophy and Sociology, Changchun 1300l2, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on moral foundation theories, the present research was to validate Graham and colleagues’ (2Oo9) moral foundations dictionary in the Chinese context. According to virtue and vice of morality,the reliability and inter-dimension correlation of 1O dimensions and five moral foundations (i.e.,care, fairness,loyalty,authority,and purity) were tested. The results show a good reliability of each dimension and a moderate correlation between them. Taken together, the current study provides a reliable method for the work on morality in Chinese populations,and the structure and the criterion validity of the 1O dimensions should be tested in future directions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Social intuition, moral foundations, dictionary,LIWS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "道德是人们共同生活的行为准则和规范。Haidt等人结合进化心理学与文化人类心理学视角的道德三维模型[1-2]，进一步提出了社会直接模型，并在此基础上创立了道德基础理论。该理论认为，人类在社会生活中长期面临各种适应性挑战，自然选择保留了那些遵守规范、善于适应、且能经受挑战的个体。这些道德基础规范包括关爱/伤害、公平/互惠、忠诚/背叛、权威/等级、圣洁等五种。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据道德基础理论，道德的五个维度如下：（1）伤害/关爱，保护和照顾弱小后代及亲属的动机使得人类在进化过程中关注并试图减少受苦和伤害行为；（2）互惠/公平，个体在与非亲属的合作中对合作成果被掠夺的担忧形成了惩罚欺骗者的规范，并随之产生了一系列道德情绪，如愤怒，内疚等；（3）内群体/忠诚，个体与两人以上群体合作的过程中，担心合作成果被掠夺从而使其对群体背叛者和欺骗者保持着高度警惕，同时自己也要承诺忠于群体；（4）权威等级，维系群体的等级结构及统治阶级享有的某些特权，但同时他们也担任着保护群体内部成员的责任；（5）圣洁，人类在进化过程中为了避免接触致命的细菌和寄生生物，形成了对疾病和致病菌的厌恶情绪。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以往关于道德基础的测量，多采用Likert量表来分别测量被试对相关条目道德相关性的判断以及赞同相关道德判断的表述。但众所周知，自呈式量表存在社会赞许性较高、样本量较小、实测成本高等缺点。因此，随着大数据分析技术的普及，研究者开始采用LIWC（Linguistic Inquiry andWord Count）对生态效度较高的海量信息进行文本分析。LIWC 是自然语言处理技术（Nature LanguageProcessing，NLP）中的一种，它可以对文本内容进行量化分析并将导入的文本文件的不同类别的词语（尤其是心理学类词语）加以计算，如因果词、情绪词、认知词等心理词类在整个文本中的使用百分比。LIWC主要包括两个部分：程序主题和词表，其中，核心为词典，词典定义了词语归属地的类别以及字词列表，程序通过导入词典和文本将文本中的词语与词典进行一一比对，并输出各类词语的词频结果。提到词典，便存在词典编制的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，Graham等人依据道德基础理论建立一个LIWC道德基础词典，即词典中包含伤害/关爱、互惠/公平、内群体、等级/权威、圣洁这五个维度，然后对词典进行扩展与压缩。在扩展阶段，通过查阅辞典以及和同事聊天的方式应尽可能多的为基础词典生成联想词、同义词和反义词，这过程中词典中会出现并不符合要求的词。因此在压缩阶段，删除了那些与核心概念距离太远的词，以及与道德不相关的词，最后获得295个单词和词干的字典[3]。在使用该词典进行基本的LIWC分析之后，他们测试哪些单词对组间差异的贡献最大，然后在上下文中阅读它们，以确保最有影响力的单词是用于支持道德基础理论的，再对这些词进行语境验证、评分。对最终的词典数据进行分析后发现：自由主义者比保守主义者更频繁地使用伤害和公平类的字眼；而保守主义者比自由主义者更频繁地使用权威和圣洁类的字眼；对于内群体类的单词，自由派比保守派使用频率更高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，我们将对Graham等人编制的道德词典进行翻译和修订，对各个纬度的得分进行比较，并探讨纬度之间的相关性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在中国某大学获取大学生被试186人，男女各半，年龄18-25岁。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "词表的确认分为三步：（1）请两位熟练掌握英语、汉语的两位学者对词表进行翻译、并回译，保证语言翻译、表达的准确性；（2）然后根据牛津英汉词典对每一个英语原词进行扩充；（3）请两位研究生根据道德基础的操作性定义，对每一个词是否符合相应维度的定义进行评分，完全一致视为通过，这样共得到590个道德词，每个纬度道德词的个数及条目举例见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，请被试被在0-5点量尺的Likert量表上对每个词的道德相关性进行打分（ $0 =$ 完全无关， $5 =$ 极其相关）。量表总体内部一致性系数为.93，10个纬度的内部一致性系数从.97到.99，信度良好，得分越高表示道德相关性越高。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b3b96fc540385fe61da9849362a451f6b446ee85a37bf7cfbec2a0aba00eab8.jpg",
+        "table_caption": [
+            "表1.道德基础（德行、罪行）的五个纬度及其动机、条目举例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>纬度</td><td>条目</td><td>动机</td><td>条目举例</td></tr><tr><td>关爱</td><td>38</td><td>照顾弱小后代及亲属</td><td>关爱，关心，爱护，保护</td></tr><tr><td>伤害</td><td>79</td><td></td><td>危害，痛苦，损伤，损害</td></tr><tr><td>公平</td><td>36</td><td>与非亲属的合作</td><td>公平，公正，公义，平等</td></tr><tr><td>欺骗</td><td>32</td><td></td><td>欺骗，欺诈，非法，排斥</td></tr><tr><td>忠诚</td><td>70</td><td>促进内群体合作</td><td>祖国，团体，家庭，忠诚</td></tr><tr><td>背叛</td><td>51</td><td></td><td>背叛，通敌，变节，不忠</td></tr><tr><td>权威</td><td>81</td><td>维系群体的等级结构</td><td>服从，忠顺，责任，敬重</td></tr><tr><td>反抗</td><td>46</td><td></td><td>反叛，挑衅，违反，暴动</td></tr><tr><td>圣洁</td><td>58</td><td>对疾病和致病菌的厌恶</td><td>虔诚，纯洁，干净，神圣</td></tr><tr><td>肮脏</td><td>99</td><td></td><td>厌恶，腐化，传染，下流</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相关分析表明，道德基础的五个德行和罪行纬度的均值介于3.76-4.38之间，并存在两两间的显著相关，相关系数介于.25-.87之间。除伤害与欺骗、圣洁之间的相关以及欺骗与圣洁之间的相关较弱外，其他纬度之间的相关均在中等程度以上。详见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7920fff244a10da8dec972b90c9a2e25a73f815bbac43372fadd9acbd1702dbe.jpg",
+        "img_caption": [
+            "图1.道德基础（德行、罪行）在五个纬度上的分数比较。"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重复测量方差分析表明，道德基础的五个德行纬度之间存在显著的差异$( F _ { ( 4 , l 8 3 ) } { = } 2 5 . 8 6$ $p < . 0 0 1$ ， $\\varDelta R ^ { 2 } = . 3 6 )$ ，道德相关性得分从高到低依次为：公平、关爱、忠诚、权威、圣洁；类似的，道德基础的五个罪行纬度之间也存在显著的差异 $( F _ { ( 4 , l \\delta 3 ) } = 2 . 4 8 , p < . 0 5 , \\varDelta R ^ { 2 } = . 0 \\mathrm { { : } }$ ，道德相关性得分从高到低依次为：伤害、欺骗、背叛、肮脏和反抗。详见图1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "五个纬度的德行、罪行配对样本 $t$ 检验表明，公平的道德相关性显著大于欺骗（ $\\dot { \\mathbf { \\zeta } } t = 3 . 2 6 , p < . 0 1 )$ ，圣洁的道德相关性显著小于肮脏（ $\\dot { \\iota } = 3 . 2 6 , p < . 0 1 \\dot { \\iota }$ ）。其他纬度的德行、罪行的道德相关性差异不显著（ $t = - 3 . 1 6 , p < . 0 1 \\rangle$ ）。详见图1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/12741ddcc43f8498eb9bd2a95b466ab74357f814f17c6330301ffba987f040f9.jpg",
+        "table_caption": [
+            "表2．道德基础（德行、罪行）在五个纬度上的平均数、标准差及相关分析。"
+        ],
+        "table_footnote": [
+            "注： $^ { * } p < . 0 5$ ， $^ { * * } p < . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>M</td><td>SD</td><td>伤害</td><td>公平</td><td>欺骗</td><td>忠诚</td><td>背叛</td><td>权威</td><td>反抗</td><td>圣洁</td><td>肮脏</td></tr><tr><td>关爱</td><td>4.15</td><td>0.81</td><td>.54**</td><td>.72**</td><td>.50**</td><td>.62**</td><td>.53**</td><td>.61**</td><td>.52**</td><td>.54**</td><td>.47**</td></tr><tr><td>伤害</td><td>4.16</td><td>1.12</td><td></td><td>.43**</td><td>.77**</td><td>.31**</td><td>.71**</td><td>.40**</td><td>.61**</td><td>.25**</td><td>.58**</td></tr><tr><td>公平</td><td>4.38</td><td>0.84</td><td></td><td></td><td>.50**</td><td>.73**</td><td>.52**</td><td>.68**</td><td>.56**</td><td>.59**</td><td>.52**</td></tr><tr><td>欺骗</td><td>4.13</td><td>1.18</td><td></td><td></td><td></td><td>.38**</td><td>.77**</td><td>.46**</td><td>.68**</td><td>.31**</td><td>.60**</td></tr><tr><td>忠诚</td><td>3.99</td><td>1.01</td><td></td><td></td><td></td><td></td><td>.52**</td><td>.87**</td><td>.62**</td><td>.71**</td><td>.52**</td></tr><tr><td>背叛</td><td>4.05</td><td>1.17</td><td></td><td></td><td></td><td></td><td></td><td>.60**</td><td>.87**</td><td>.44**</td><td>.74**</td></tr><tr><td>权威</td><td>3.97</td><td>0.91</td><td></td><td></td><td></td><td></td><td></td><td></td><td>.76**</td><td>.76**</td><td>.61**</td></tr><tr><td>反抗</td><td>4.05</td><td>1.09</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.56**</td><td>.79**</td></tr><tr><td>圣洁</td><td>3.76</td><td>1.07</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>.67**</td></tr><tr><td>肮脏</td><td>4.32</td><td>1.28</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究在中国文化背景下对Graham等人编制的道德词典进行翻译和修订，探讨了各纬度之间的相关性和差异性。按照效价区分，道德的五个基础包括德行和罪行两个方面，共10个纬度，德行为公平、关爱、忠诚、权威、圣洁，相应的罪行包括伤害、欺骗、背叛、反抗和肮脏。结果表明，中文版的道德基础词典具有良好的信度，且10个纬度之间的相关性较高。此外，在五个道德基础内部，公平的道德相关性显著大于欺骗，圣洁的道德相关性显著小于肮脏。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究以道德基础理论为理论框架，是对现有英文版道德词典的有益补充，为未来道德领域的研究提供了有效的、具有本土研究工具。未来研究还要对道德词典10个纬度的因子结构和效标效度进行检验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5参考文献 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Shweder RA,Mahapatra M,Miller JG. (1990). Culture and Moral development,cultural psychology: Essays on comparative human development.New York,NY: Cambridge University Press,130-204. [2] Haidt, J. (2007). The New Synthesis in Moral Psychology .Science,316,998-1002. [3] Graham,J.,Haidt,J.,& Nosek,B.A..(2oo9).Liberals and conservatives rely on different sets of moral foundations.Journal of Personality and Social Psychology, 96,1029-1046. ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,273 @@
+# 一种基于双向LSTM的联合学习的中文分词方法
+
+章登义，胡思，徐爱萍(武汉大学 计算机学院，武汉 430072)
+
+摘要：中文分词是中文自然语言处理任务的关键技术之一。针对现有的基于深度学习的神经网络模型通常都是对单一的语料库进行训练学习，提出了一种大规模的多语料库联合学习的中文分词方法。语料库分别为简体中文数据集(PKU、MSRA、CTB6）和繁体中文数据集（CITYU、AS)。每一个数据集的输入语句的句首和句尾分别添加一对标志符。应用BLSTM（双向长短时记忆模型）和CRF（条件随机场模型）对数据集进行单独训练和多语料库共同训练的实验，结果表明大规模的多语料库共同学习训练能取得良好的分词效果。
+
+关键词：中文分词；大规模语料库；联合学习；双向长短时记忆模型 中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2018.03.0239
+
+# Joint learning method based on BLSTM for Chinese word segmentation
+
+Zhang Dengyi, Hu Si, Xu Aiping (SchoolofComputer,WuhanUniversity,Wuhan430072,China)
+
+Abstract: Chinese word segmentation isoneofthekey technologiesofChinese natural language procesing tasks.Theexisting neuralnetworkmodelsbasedondeplearningareusuallytrainedonsinglecriterioncorpora.This paper proposedajointlearning method basedonbi-directionallongshort-termmemoryneuralnetworkand Conditional RandomFieldsforlarge-scalecorpora. The corpora were composedof simplified Chinese data sets (PKU,MSRA,CTB6)and traditional Chinese data sets (CITYU, MSR).Apairofidentifiersis added tothebeginningand endofeachinputsentenceofthedataset.Theresultsoftheexperments show that the effective method has good effect on Chinese word segmentation for such large-scale corpora.
+
+Key Words: Chinese word segmentation; large-scalecorpora; joint learning; long short-termmemory neural network model
+
+# 0 引言
+
+基于中文的自然语言处理任务中，由于汉语的书写习惯，汉语中的词语不像英语等有分隔符，因此中文分词是中文自然语言处理关键基础技术之一，是其他中文文本任务（如命名实体识别、词性标注、机器翻译等）的前期重要的预处理环节。分词的准确性对中文自然语言处理尤其重要。由于中文中存在一字多意、一词多意的情况，在不同的语境下存在不同的分词方式，中文分词一直是中文自然语言处理任务中的难点。
+
+近年来，大多数方法都将中文分词作为一个序列标注问题[1，对给定的一段文本，为句中每个字符分配一个标签，分词任务转换为一个有监督的分类问题。所谓“序列标注”，就是说对于一个一维线性输入序列,给线性序列中的每个元素打上标签集合中的某个标签。所以，其本质上是对线性序列中每个元素根据上下文内容进行分类的问题。一般情况下，对于自然语言处理任务来说，线性序列就是输入的文本，一个汉字就是线性序列的一个元素，而不同的NLP任务其标签集合代表的含义可能不太相同，但是相同的问题都是：如何根据汉字的上下文给汉字打上一个合适的标签。NLP中的序列标注任务有，中文分词、词性标注、CHUNK识别、命名实体识别、关键词抽取、语义角色标注。常用的标注方法有支持向量机（SVM）[2]，最大熵（maximumentropy,ME）模型[3]，隐马尔可夫（HMM）模型[4]，条件随机场（CRF）模型[5]。
+
+随着深度学习方法的发展，一些神经网络模型也被成功应用于中文分词任务。Zheng等人[首先提出了基于神经网络的分词模型，采用的Collobert等人[7提出的方法进行中文分词和词性标注，将神经网络模型用于预训练词嵌入,Collobert等人[7]设计了SENNA系统，利用神经网络解决英文序列标注问题。Zhao 等人[13]将非监督的学习方法应用于有监督的训练中进行中文分词任务。以邻接类别（accessorvariety）作为非监督学习的分词标准，对未标注的语料进行非监督学习训练得到的分词结果作为特征项输入至CRF层对有标注的语料进行有监督的训练，训练效果比直接用CRF $^ { + + }$ 模型训练更好。Chen 等人[8]扩展了LSTM（long short-termmemory）长短时记忆神经网络模型用于中文分词任务，解决了传统的神经网络模型不能学习长距离依赖关系的问题，取得了较好的分词效果。Zhang等人[9]提出了一种基于词向量的分词的神经网络模型，将卷积神经网络和 LSTM 结合，模型输入端特征向量包含字符嵌入(characterembeddings)和预训练语料库学习到的词嵌入(wordembeddings)。
+
+许多研究表明，LSTM神经网络模型在序列标注任务中能取得不错的效果。Huang 等人[16第一次将双向LSTM和CRF结合，对序列标注任务中的基准数据集benchmarktasks进行训练。该模型在词性标注任务（数据集为PTB）、CHUNK识别任务（数据集为CoNLL2000）和命名实体识别任务（数据集为CoNLL2003）中均取得了较好的性能。双向LSTM可以对目标词同时学习上下文信息，CRF层可以学习训练得到句子级的标签信息。BLSTM-CRF模型具有较好的鲁棒性，该模型对词嵌入的依赖性更小。Lample 等人[17运用双向LSTM和CRF模型做命名实体识别的任务，使用基于字符的词向量和基于词的词向量学习特征，获取被标记词的拼写组成和被标记词在语料库中的出现位置信息，该模型在英语、德语、荷兰语和西班牙语的语料库中的准确率达到state-of-the-art的效果。Cai等人[18]应用LSTM模型的变体于中文分词任务，提出的模型结合了门循环（GRU）神经网络模型和LSTM模型，GRU模型直接生成基于字符的词向量的训练所得到的候选的分词结果，LSTM模型用于对获得的分词结果进行评估。结合两种模型的处理的分词任务能达到不错的效果。
+
+尽管基于神经网络模型的方法取得了巨大的成功，但一些问题仍然没有得到很好的解决。一个显著的缺点是这些方法很少考虑到知识的整合。测试中出现OOV（out-of-vocabulary）情况，不在训练集词表中的词在测试时不能够识别并进行分词。通常情况下，模型都是分别对不同语料库进行单一的训练学习，而没有整合语料库利用多方面的信息。事实上，由于不同的语料库的分词标准不同，也不容易将语料库整合后进行联合训练。
+
+目前运用BLSTM-CRF模型的序列标注问题（POS词性标注任务、CHUNK识别任务、NER命名实体识别任务）均取得了不错的效果。本文在基于BLSTM-CRF 模型的基础上，提出了一种对多钟语料库联合训练的方法来进行中文分词任务。使用双向长短时记忆模型（BLSTM）和条件随机场模型（CRF)，将中文分词任务转换为一个字符级的序列标注问题。本文中使用SIGHANBakeoff2005的数据集PKU、MSR、AS、CITYU和CTB6(ChineseTreeBank6.0数据集)进行实验，实验1是分别对5个数据集单独学习训练，实验2是使用全部数据集联合学习共同训练。实验中在输入端为不同语料库的输入语句的句首和句尾各自添加一对标志符。PKU数据集的句子标志符$\scriptstyle < \mathrm { P K U } > < / \mathrm { P K U } >$ ；MSR 数据集的句子标志符<MSR></MSR>;AS 数据集的句子标志符 ${ < } \mathrm { A S } { > } { < } / \mathrm { A S } { > }$ ；CITYU数据集的句子标志符<CITYU> ${ < } /$ CITYU>；CTB6.0数据集的句子标志符 ${ \mathrm { < C T B > } }$ ${ < } / { \mathrm { C T B } } \mathrm { > }$ 。AS数据集和CITYU数据集是繁体中文数据集，在联合训练前，使用HanLP工具将繁体中文转换为简体中文。
+
+# 1 中文分词神经网络模型架构
+
+中文分词任务通常被认为是基于字符的序列标注任务。标记输入句子中的每个字符，使用标签集 $\mathrm { { T } = \{ B , M , E , S \} }$ 进行标记。B 表示一个词的开始字，M表示一个词的中间字，E表示一个词的结束字，S表示单字词。
+
+基于神经网络的序列标注任务通常由三部分组成：a）字符嵌入层，文本向量化表示；b）多个神经网络转换层；c）标签推理层。整体结构如图1所示。
+
+![](images/35d152a41cb5d8846c879a32c617e7a66178b8b85b6a7000ff521202fc4974e2.jpg)  
+图1中文分词模型框架
+
+给定长度为 $\mathfrak { n }$ 的文本序列 $\mathbf { c } ^ { ( 1 : \mathrm { n } ) }$ ，大小为 $\mathbf { k }$ 的窗口从文本序列的第一个字 $\mathbf { c } ^ { ( 1 ) }$ 滑动至最后一个字 $\mathbf { c } ^ { ( \mathrm { n } ) }$ 。如图1所示，对序列中每一个字 $\mathbf { c } ^ { ( \mathrm { t } ) }$ ，当窗口大小为5时，上下文信息 $( \mathsf { c } ^ { ( \mathsf { t } - 2 ) } , \mathsf { c } ^ { ( \mathsf { t } - 1 ) } , \mathsf { c } ^ { ( \mathsf { t } ) }$ ，$\mathbf { c } ^ { ( \mathrm { { t + l } } ) }$ ， $\mathbf { c } ^ { (  t + 2 ) }$ )输入到查询表（Lookup Table)，当字的范围超过序列边界时，用两种特殊字符“ ${ \mathrm { < } } \mathrm { S } > ^ { " }$ ”和“ ${ < } / { \mathrm { S } } { > } ^ { { : } }$ "隔开，以此保证输入字符大小固定为 $\mathbf { k }$ 。将查询表中获得的字符向量连接成整体向量 $X ^ { ( t ) } \in { R } ^ { H _ { 1 } }$ ，其中 $H _ { 1 } = k \times d$ 。 $X ^ { ( t ) }$ 经过一层线性转换得到$Z ^ { ( t ) }$ ,线性转换式如式（1）所示。
+
+$$
+\boldsymbol { Z } ^ { ( t ) } = \boldsymbol { W } _ { 1 } \times \boldsymbol { X } ^ { ( t ) } + \boldsymbol { b } _ { 1 }
+$$
+
+$W _ { 1 } \in R ^ { H _ { 2 } \times H _ { 1 } }$ 是变换矩阵。 $H _ { 2 }$ 是隐藏节点数，参数 $b _ { 1 } \in { \boldsymbol { R } } ^ { H _ { 2 } }$ 。激活函数 $\sigma$ ，通常使用sigmoid函数和tanh函数，如式（2）所示。
+
+$$
+h ^ { ( t ) } = \sigma ( Z ^ { ( t ) } )
+$$
+
+再次进行线性变化，如式（3）所示。
+
+$$
+{ \boldsymbol { y } } ^ { ( t ) } = W _ { _ { 2 } } \times { \boldsymbol { h } } ^ { ( t ) } + b _ { _ { 2 } }
+$$
+
+其中： $W _ { 2 } \in R ^ { D \times H _ { 2 } }$ ， $\mathrm { ~ D ~ }$ 为词位标签词。 $\boldsymbol { y } ^ { ( t ) } \in \boldsymbol { R } ^ { D }$ ， $y ^ { ( t ) }$ 中每一个元素代表对应词位标签的得分。通过对字符序列中的每个字符进行以上的计算,可以得到该字符序列中每个字符的标签得分矩阵。由于一个字符序列中,字符标签之间存在强依赖关系,因此,可以引入一个矩阵 $A$ 来表示字符标签之间的转换关系。 $A _ { i j }$ 表示标签i转移到标签j的概率。通过后向传播算法,从训练集学习得到概率矩阵 $A$ 。
+
+上述神经网络模型在中文分词任务中表现出较好的效果，但是由于窗口大小的限制，模型不能学习窗口外的上下文信息，丢失了长距离依赖信息，对分词的准确性有影响。而LSTM则突破了窗口的限制，可以利用长距离的上下文信息。
+
+# 2 基于BLSTM的模型架构
+
+# 2.1文本向量化
+
+利用神经网络模型处理中文分词问题，首先需要将文本向量化表示。使用一个特定维度的特征向量代表字符。字符向量可以刻画字与字在语义和语法上的相关性，并且作为字符特征成为神经网络的输入。使用训练语料集中的所有字建立一个大小为 $\mathsf { d } \times \mathsf { N }$ 的汉字字典矩阵，d是字符向量的维度，N是字典的大小，构造了一个字符到字嵌入的查找表，将输入的中文字符转换为字嵌入向量，作为模型的输入。研究表明,使用大规模无监督学习得到的字向量作为输入矩阵的初始值比随机初始化有着更优的效果[1o]。本文中使用word2vec[1]在中文维基百科语料库预训练获得字符向量。
+
+# 2.2 循环神经网络 (RNN)
+
+在传统的神经网络模型中，是从输入层到隐含层再到输出层，层与层之间是全连接的，每层之间的节点是无连接的。处理每个时刻的信息时是独立的。而循环神经网络RNN在隐藏层中增加节点中的互连，隐藏层的输入不仅包括输入层的输出还包括上一时刻隐藏层的输出。网络模型会对前面的信息进行记忆并应用于处理当前输出数据的计算中。RNN的模型结构如图2所示。RNN按时间顺序展开的示意图如图3所示。
+
+![](images/9c88202c9804e532c67f782f0f2d52252da4eb3b4e4b2a0f3547c14e73dec62b.jpg)  
+图2RNN 网络结构示意图
+
+![](images/23f357dacc9d828d68e6cbe7350f1cee1a321ca8fa1e685c6ee8473736f2826d.jpg)  
+图3RNN展开结构示意图
+
+图中的每个节点表示在每个时刻RNN网络的一层。 $\mathbf { w } _ { 1 }$ 是输入层到隐藏层的连接权值， $\mathbf { w } _ { 2 }$ 是上一时刻隐藏层到当前隐藏层的连接权值， $\mathbf { w } _ { 3 }$ 是隐藏层到输出层的连接权值。RNN中每时刻的权值都是共享的，当前时刻的输出依赖于上一时刻的输出。t时刻隐藏层输出为
+
+$$
+\begin{array} { r } { \begin{array} { r } { h ^ { ( t ) } = g ( U h ^ { ( t - 1 ) } + W x ^ { ( t ) } + b ) } \end{array} } \end{array}
+$$
+
+其中： $x ^ { ( t ) }$ 是 $\mathrm { ~  ~ { ~ t ~ } ~ }$ 时刻的输入， $\boldsymbol { h } ^ { ( t - 1 ) }$ 是t-1时刻的隐藏状态， $U$ 是输入层到隐藏层的权值矩阵， $W$ 是隐藏层到输出层的权值矩阵，$b$ 是偏置参数， $g$ 是激活函数通常是tanh 函数。
+
+传统的RNN只能利用上文消息，而在许多自然语言处理任务中，需要利用上下文信息，因此扩展了双向RNN 能够同时利用序列中的历史和未来信息。将序列信息分两个方向输入至模型中，使用两个隐藏层保存两个方向的输入信息，将隐藏层相应的输出连接到相同的输出层。BRNN的网络结构展开示意图如图4所示。
+
+![](images/0548e489dadb0cc6020f49958aafbc46cb33e724c8de45ad34acd95b8911164b.jpg)  
+图4BRNN展开结构示意图
+
+# 2.3LSTM长短时记忆模型
+
+长短时记忆模型（LSTM)[12]是循环神经网络的变体。尽管在理论上，RNN可以处理任何长距离依赖问题，但实际上，由于梯度消失/爆炸问题而很难实现。LSTM通过引入门机制和记忆单元为此提供了解决方案，用LSTM单元代替RNN中的隐藏层。LSTM单元结构图如图5所示。
+
+![](images/b7203a9f32a4b6622d574ddd9ee3494cf134168edb2a2d8d2ce947535d27d531.jpg)  
+图5LSTM结构图
+
+LSTM中保存的历史信息受输入门、遗忘门和输出门控制。$\textbf { x }$ 是输入数据，h是LSTM的单元输出，c是LSTM记忆单元的值。输入门i，遗忘f，记忆单元c和输出门o。
+
+$$
+\tilde { \boldsymbol { c } } ^ { ( t ) } = \operatorname { t a n h } ( \boldsymbol { W } _ { x c } \boldsymbol { x } ^ { ( t - 1 ) } + \boldsymbol { W } _ { h c } \boldsymbol { h } ^ { ( t - 1 ) } + \boldsymbol { b } _ { c } )
+$$
+
+其中： $\tilde { \boldsymbol { c } } ^ { ( t ) }$ 是当前时刻记忆单元的候选值， $x ^ { ( t ) }$ 是t时刻的输入数据， $W _ { x c }$ 是t时刻输入数据的权值， $\boldsymbol { h } ^ { ( t - 1 ) }$ 是上一时刻LSTM的输出， $W _ { h c }$ 对应上一时刻LSTM单元的输出的权值， $b _ { c }$ 是偏置参数。
+
+$$
+\begin{array} { r } { \boldsymbol { i } ^ { ( t ) } = \sigma ( \boldsymbol { W } _ { x i } \boldsymbol { x } ^ { ( t - 1 ) } + \boldsymbol { W } _ { h i } \boldsymbol { h } ^ { ( t - 1 ) } + \boldsymbol { W } _ { c i } c ^ { ( t - 1 ) } + \boldsymbol { b } _ { i } ) } \end{array}
+$$
+
+其中： $i ^ { ( t ) }$ 是输入门当前的状态值， $i ^ { ( t ) }$ 受当前输入数据 $x ^ { ( t ) }$ 、上一时刻LSTM的输出 $h ^ { ( t - 1 ) }$ 和上一时刻记忆单元值 $c ^ { ( t - 1 ) }$ 的影响。Wx、W、Wci分别为对应的权值。
+
+$$
+\begin{array} { r } { \boldsymbol { f } ^ { ( t ) } = \sigma ( \boldsymbol { W } _ { \boldsymbol { x } \boldsymbol { f } } \boldsymbol { x } ^ { ( t - 1 ) } + \boldsymbol { W } _ { h \boldsymbol { f } } \boldsymbol { h } ^ { ( t - 1 ) } + \boldsymbol { W } _ { \boldsymbol { c } \boldsymbol { f } } \boldsymbol { c } ^ { ( t - 1 ) } + \boldsymbol { b } _ { \boldsymbol { f } } ) } \end{array}
+$$
+
+其中： $f ^ { ( t ) }$ 是遗忘门当前的状态值，遗忘门是控制历史信息对当前记忆单元的影响。 $W _ { x f } \setminus W _ { h f } \setminus W _ { c f }$ 分别是对应遗忘门的权值。
+
+$$
+c ^ { ( t ) } = f ^ { ( t ) } \odot c ^ { ( t - 1 ) } + i ^ { ( t ) } \odot \tilde { c } ^ { ( t ) }
+$$
+
+其中： $c ^ { ( t ) }$ 是 $\mathrm { ~  ~ { ~ t ~ } ~ }$ 时刻记忆单元的状态值， $\odot$ 表示元素间的点积，逐点相乘。记忆单元的状态值由输入门和遗忘门共同调节。
+
+$$
+o ^ { ( t ) } = \sigma ( W _ { x o } x ^ { ( t - 1 ) } + W _ { h o } h ^ { ( t - 1 ) } + W _ { c o } c ^ { ( t - 1 ) } + b _ { o } )
+$$
+
+输出门的输出状态值 $o ^ { ( t ) }$ ，控制记忆单元状态值的输出。
+
+$$
+h ^ { ( t ) } = o ^ { ( t ) } \odot \mathrm { t a n h } ( c ^ { ( t ) } )
+$$
+
+其中： $h ^ { ( t ) }$ 是t时刻LSTM单元的输出状态值，当前时刻的隐藏状态。
+
+LSTM的门机制使得模型可以捕捉长距离历史信息，为了同时获取上下文信息，采用双向LSTM，因此，BLSTM中的隐藏状态 $h ^ { ( t ) }$ 可表示如下：
+
+$$
+\begin{array} { r } { \begin{array} { r } { \displaystyle h ^ { ( t ) } = \overrightarrow { h ^ { ( t ) } } \oplus \overleftarrow { h ^ { ( t ) } } } \end{array} } \end{array}
+$$
+
+其中： $\overrightarrow { h ^ { ( t ) } }$ 和 $\overleftarrow { h ^ { ( t ) } }$ 分别是LSTM 中在 $\mathrm { ~  ~ { ~ t ~ } ~ }$ 时刻输入数据的前向和后向的隐藏状态， $\oplus$ 表示整合操作。
+
+# 2.4标签推断CRF层
+
+对于基于字符的中文分词任务，本文需要考虑相邻标签间的依赖关系。例如，B（开始）标签后面应该跟一个M（中间）标签或者E（结束）标签，而一个 $\mathbf { M }$ 标签后面不能跟一个B标签或者 S 标签。因此，不是独立地使用 $\boldsymbol { h } ^ { ( t ) }$ 来作标签决策，而是使用条件随机场（CRF）来共同建模标签序列。
+
+对于给定的句子 $\boldsymbol { x } = ( x _ { 1 } , x _ { 2 } , . . . , x _ { n } )$ ,和对应的预测的标签y=(y,yy),预测评估分数定义如下：
+
+$$
+s ( x , y ) = \sum _ { i = 1 } ^ { n } ( A _ { y _ { i - 1 } y _ { i } } + P _ { i , y _ { i } } )
+$$
+
+$A$ 是一个转换分数矩阵， $A _ { i , j }$ 是衡量标签i到 $\mathrm { ~ j ~ }$ 的分数，$P _ { i , y _ { i } }$ 代表字符 $x _ { i }$ 的第 $y _ { i }$ 个标签的分数。 $P _ { i }$ 定义如下：
+
+$$
+P _ { i } = W _ { s } h ^ { ( t ) } + b _ { s }
+$$
+
+其中： $h ^ { ( t ) }$ 是BLSTM中t时刻输入数据 $x ^ { ( t ) }$ 的隐藏状态， $W _ { s }$ 是权值矩阵, $b _ { s }$ 是偏置。
+
+在CRF层，句子 $\textbf { x }$ 被标记为序列 $\textbf { y }$ 的可能性概率计算如下：
+
+$$
+p ( y | x ) = { \frac { e ^ { s ( x , y ) } } { \sum _ { y \in Y _ { X } } e ^ { s ( x , y ) } } }
+$$
+
+其中： $Y _ { _ { x } }$ 表示给定句子 $x$ 的所有可能序列 $_ y$ 的集合。训练时，本文使用最大似然估计法最大化序列 $y$ 的 $\operatorname { \mathbb { I } } _ { \log ( y \mid x ) }$ 值。解码时，预测结果输出得分最高的序列 $y *$ ，计算公式如下：
+
+$$
+y ^ { * } = \arg \operatorname* { m a x } _ { y \in Y _ { x } } s ( x , y )
+$$
+
+可以使用Viterbi算法（一种动态规划算法）来解决训练和解码过程中的效率问题。
+
+# 3 实验结果与分析
+
+# 3.1实验数据
+
+本文使用的实验数据集是PKU、MSR、AS、CityU（来自SIGHAN2005）和CTB6（来自ChineseTreeBank6.0）。
+
+几个数据集的分词标准各有不同，PKU是由北大计算语言学研究所提供的语料库。其分词特点之一是姓名中姓和名要分开，组织机构等在语法词典中的直接标记，大多数短语性的词语先切分再组合。例如欧阳/修、中国/计算机/学会、联合国/教科文/组织。
+
+MSR是微软亚洲研究院所提供的语料库，其分词特点是由大量的命名实体构成的长单词，例如 联合国教科文组织、全国人民代表大会、水利部长江水利委员会、葛洲坝集团公司。
+
+AS 由台湾中央研究院提供的语料库，分词规范与北大制定的分词规范类似同时也与台湾地区的语言使用习惯相关，分词例子：平漢/鐵路、二二八/事變、台北市/第一/信用/合作社。
+
+CityU由香港城市大学提供的语料库，分词规范受香港地区的使用习惯影响。分词例句：本/趟/列車/共/有/八/卡/掛車。
+
+CTB6.0是宾州大学汉语树库中的语料库，该语料库是经过句法标注的数据，按照句子内部结构形成的句子树。
+
+不同的分词标准对比如表1所示
+
+表1不同语料库分词标准对比  
+
+<html><body><table><tr><td>数据集</td><td>句子示例</td></tr><tr><td>PKU</td><td>王／明／到达／奔驰／公司</td></tr><tr><td>MSR</td><td>王明／到达／奔驰公司</td></tr><tr><td>AS</td><td>王明／到／實士／公司</td></tr><tr><td>CityU</td><td>王明／到／平治／公司</td></tr><tr><td>CTB</td><td>王明／到达／奔驰／公司</td></tr></table></body></html>
+
+实验时随机选择训练数据中的 $90 \%$ 的数据作为训练集，剩下 $10 \%$ 作为开发集。所有的数据在输入前需要经过预处理，将中文习语替换成\*,英文单词替换成&，数字替换成\$，在大规模的无标注的语料上进行字向量训练，将训练完成的字向量作为本次实验的词向量。将每个数据集的输入语句都添加各自的标志符，不同数据集带有标志符的句子形式示例如表2所示。当计算最终输出的分值时不计算标志符。为了便于评估，本文使用标准bake-off打分程序来计算准确率P,召回率R，F1分值。
+
+表2数据集输入句子形式  
+
+<html><body><table><tr><td>数据集</td><td>输入句子示例</td></tr><tr><td>PKU</td><td><PKU>王明到达奔驰公司</PKU></td></tr><tr><td>MSR</td><td><MSR>王明到达奔驰公司</MSR></td></tr><tr><td>AS</td><td><AS>王明到賓士公司</AS></td></tr><tr><td>CITYU</td><td><CITYU>王明到平治公司</CITYU></td></tr><tr><td>CTB</td><td><CTB>王明到达奔驰公司</CTB></td></tr></table></body></html>
+
+实验在内存为8BG的Ubuntu 系统上进行，程序采用Python语言进行编程
+
+模型中的超参数设置如表3所示
+
+表3模型超参数设置  
+
+<html><body><table><tr><td>参数</td><td>参数值</td></tr><tr><td>上下文窗口长度</td><td>k=5</td></tr><tr><td>字符向量长度</td><td>d= 100</td></tr><tr><td>隐藏层单元数</td><td>h= 128</td></tr><tr><td>初始学习率</td><td>α= 0.1</td></tr><tr><td>Dropout 比率</td><td>p=0.2</td></tr><tr><td>Batch</td><td>b = 128</td></tr></table></body></html>
+
+# 3.2 实验结果分析
+
+实验1将每个数据集的训练数据分别输入至模型中，对五个数据集单独进行训练。实验结果如表4所示。表4列出了不同数据集训练的性能。
+
+表4不同数据集在BLSTM模型上的性能 $1 \%$   
+
+<html><body><table><tr><td rowspan="2">性能(%)</td><td colspan="5">数据集</td></tr><tr><td>PKU</td><td>MSRA</td><td>CITYU</td><td>AS</td><td>CTB</td></tr><tr><td>P</td><td>95.1</td><td>96.5</td><td>95.4</td><td>95.2</td><td>95.6</td></tr><tr><td>R</td><td>94.6</td><td>96.3</td><td>94.8</td><td>95.3</td><td>95.1</td></tr><tr><td>F</td><td>95.3</td><td>96.8</td><td>95.3</td><td>94.9</td><td>96.2</td></tr></table></body></html>
+
+表5中列出了本文提出的模型与其他模型的性能对比。与文献[6]、的模型、文献[8]的扩展的LSTM模型、文献[9]的CNN和LSTM结合的模型、文献[13]的将非监督学习方法应用于CRF的模型和文献[14]的快速高效的基于BLSTM的模型变体的实验结果F值对比。
+
+表5不同模型在不同数据测试集上F值对比结果 $( \% )$   
+
+<html><body><table><tr><td rowspan="2">模型(%)</td><td colspan="5">数据集</td></tr><tr><td>PKU</td><td>MSRA</td><td>CITYU</td><td>AS</td><td>CTB6</td></tr><tr><td>Zheng(2013)[6]</td><td>F 92.4</td><td>93.3</td><td></td><td>-</td><td>-</td></tr><tr><td>Chen(2015)[8]</td><td>F 95.7</td><td>96.4</td><td></td><td></td><td>94.9</td></tr><tr><td>Zhang[9]（2016)</td><td>F 95.7</td><td>97.7</td><td></td><td></td><td>96.0</td></tr><tr><td>ZHAO(2008)[13]</td><td>F 95.4</td><td>97.6</td><td>96.1</td><td>95.7</td><td>94.3</td></tr><tr><td>cai(2017)[14]</td><td>F 95.4</td><td>97.0</td><td>95.4</td><td>95.2</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>BLSTm</td><td>F 95.1</td><td>96.8</td><td></td><td>95.3</td><td>94.9</td><td>96.2</td></tr></table></body></html>
+
+表4列出了BLSTM模型在不同数据集上的性能，可以看出BLSTM模型能达到较好的效果。MSR数据集的各项训练性能最好。MSR测试集的准确率高达 $9 6 . 5 \%$ ，PKU的准确率达到$9 5 . 1 \%$ ,CITYU的准确率达到 $9 5 . 4 \%$ ,AS的准确率达到 $9 5 . 2 \%$ $\mathrm { C T B } 6 . 0$ 的准确率达到 $9 5 . 6 \%$ 。由表5可以看出，与其他模型相比，使用BLSTM模型对单个数据集训练可以达到较好的效果，但不是最佳的效果。Zhang[等人将卷积神经网络和LSTM 结合的模型在简体中文数据集上的训练效果最好，PKU的F1值高达 $9 5 . 7 \%$ ，MSR的F1值高达 $9 7 . 7 \%$ 。Zhao[13]等人提出的传统的非监督学习和监督学习的方法相结合在繁体中文数据集上的效果较其他方法更好，CITYU的F1值达 $9 6 . 1 \%$ ，AS的F1值达 $9 5 . 7 \%$ 。而本文应用的BLSTM模型在单个数据集上的训练效果虽然没有达到最高的性能，但也取得了较好的分词效果，其中CTB的F1值高达 $9 6 . 2 \%$ ，比其他方法的F1值稍高。PKU的F1值达到 $9 5 . 1 \%$ ，MSR的F1值达到 $9 6 . 8 \%$ ，CITYU的F1值达到 $9 5 . 3 \%$ ，AS的F1值达到 $94 . 9 \%$ ，单个数据集都取得了较好的分词效果。
+
+实验2对五个数据集联合训练。将带有标志符的输入语句共同输入至一个模型中进行联合学习训练。联合训练的结果与单个数据集训练的结果对比如表6所示。
+
+实验2训练的结果与文献[15提出的使用多个数据集进行对抗性学习方法对比，结果如表7所示。
+
+表6单个数据集训练与多个数据集联合训练的结果对比 $( \% )$   
+
+<html><body><table><tr><td rowspan="2">性能(%)</td><td colspan="6">数据集</td></tr><tr><td>PKU</td><td>MSRA</td><td></td><td>CITYU</td><td>AS</td><td>CTB</td></tr><tr><td rowspan="2">P</td><td>单个训练</td><td>95.1</td><td>96.8</td><td>95.4</td><td>95.2</td><td>95.6</td></tr><tr><td>联合训练</td><td>95.6</td><td>97.4</td><td>95.8</td><td>96.0</td><td>95.8</td></tr><tr><td rowspan="2">R</td><td>单个训练</td><td>94.6</td><td>96.3</td><td>94.8</td><td>95.3</td><td>95.1</td></tr><tr><td>联合训练</td><td>96.2</td><td>97.3</td><td>95.2</td><td>95.2</td><td>96.1</td></tr><tr><td rowspan="2">F</td><td>单个训练</td><td>95.3</td><td>96.5</td><td>95.3</td><td>94.9</td><td>96.2</td></tr><tr><td>联合训练</td><td>95.8</td><td>97.1</td><td>95.2</td><td>94.7</td><td>95.8</td></tr></table></body></html>
+
+表7多语料库联合训练实验结果对比 $( \% )$   
+
+<html><body><table><tr><td rowspan="2">模型(%)</td><td colspan="5">数据集</td></tr><tr><td>PKU</td><td>MSRA</td><td>CITYU</td><td>AS</td><td>CTB6</td></tr><tr><td rowspan="3">CHEN(2017)[15]</td><td>P 94.9</td><td>95.9</td><td>95.4</td><td>94.2</td><td>96.0</td></tr><tr><td>R 93.8</td><td>96.1</td><td>95.7</td><td>95.1</td><td>96.3</td></tr><tr><td>F</td><td>94.3</td><td>96.0 95.6</td><td>94.6</td><td>96.2</td></tr><tr><td rowspan="3">联合训练</td><td>P</td><td>95.6</td><td>97.4</td><td>95.8</td><td>96.0</td><td>95.8</td></tr><tr><td>R</td><td>96.2</td><td>97.3</td><td>95.4</td><td>95.2</td><td>96.1</td></tr><tr><td>F</td><td>95.8</td><td>97.1</td><td>95.2</td><td>94.7</td><td>95.8</td></tr></table></body></html>
+
+由表6可知，大规模数据集联合训练所得的结果比数据集分别在模型上训练的效果更好。联合训练时简体中文数据集PKU、MSR的各项性能较单独训练时均有提高，AS的性能略有下降。联合训练PKU数据集的准确率P达 $9 5 . 6 \%$ ，召回率R值 $9 6 . 2 \%$ ，F1值 $9 5 . 8 \%$ ；MSRA训练集的准确率 $\mathrm { ~ \bf ~ P ~ }$ 达 $9 7 . 4 \%$ 召回率 $\mathrm { ~ \tt ~ R ~ }$ 值 $9 7 . 3 \%$ ，F1值 $9 7 . 1 \%$ ；CITYU训练集的准确率P达 $9 5 . 8 \%$ ，召回率 $\mathtt { R }$ 值 $9 5 . 2 \%$ ，F1值 $9 5 . 2 \%$ ；AS训练集的准确率 $\mathrm { ~ \bf ~ P ~ }$ 达 $9 6 . 0 \%$ ，召回率R值 $9 5 . 2 \%$ ，F1值 $9 4 . 7 \%$ ；CTB训练集的准确率 $\mathrm { ~ \bf ~ P ~ }$ 达 $9 5 . 8 \%$ ，召回率R值 $9 5 . 1 \%$ ，F1值 $9 5 . 8 \%$ 。联合训练中，PKU、MSRA和CITYU的测试集的结果均较单独训练结果好。可知，联合训练中大部分数据集的训练效果较好。
+
+由表6可以看出，AS和CTB数据集单独训练的效果较联合训练更好，原因是AS语料库是台湾中央研究院提供中文繁体语料库，联合几种语料库共同训练时，本文使用数据前用HanLP工具将繁体中文转为简体中文，在转换过程中，可能出现词语的简繁体的不对应情况，导致联合训练时，训练结果较语料库单独进行有监督的训练的情况稍差。宾州大学汉语数库CTB是带标签的树库文件，语料库中的语料是经过句法标注的，是基于短语结构的LDC中文树库采用句子的结构成分描述句子的结构，与其他语料库的标注方法不同，是导致联合训练时，该语料的训练结果比该语料单独训练的效果差的原因。
+
+由表7可知，本文中将五个数据集进行联合训练时，与chen(2017)[15]所提出的对八种数据集进行对抗性学习训练所取得的训练结果比较，发现本文中所提出的方法与之性能相当，PKU数据集、MSRA数据集和AS数据集的训练结果略优于chen 等人的实验结果。本文提出的方法相比chen等人设计的模型要更为简便，却能达到相当的结果。Chen等人提出的模型对多种语料库对抗性学习训练的效果略逊于与单独对每个语料库进行训练的效果。对多语料库进行联合训练的研究还有很大的发展空间。
+
+# 4 结束语
+
+本文针对自然语言处理中的中文分词任务，提出的基于BLSTM和CRF结合构建了一个深度神经网络模型。针对多个不同分词标准的数据集，为不同数据集的句子加入一对各自独有的标志符用来表明数据属于哪一个数据集，对数据进行共同训练，实验结果表明该分词模型能够达到state-of-the-art的效果。并且与现有的提出的多标准共同训练的其他复杂分词模型相比，本文所用的模型结构更为简单有效。未来可以将该方法应用于命名实体识别等任务中。BLSTM-CRF模型应用于多种序列标注任务取得了较好的效果，本文在应用该模型的基础上，联合多种语料库进行训练，进行中文分词任务，取得了较好的效果。目前提出的方法的模型较为简单，未来可进一步进行多标准多任务的学习方法的研究。
+
+尽管本文提出的模型在中文分词任务中取得了比较好的效果，但仍有需要改进的地方。文中对多个数据集训练时，利用HanLP工具将繁体中文转换为简体中文。简繁转换中的简繁分歧词可能会影响最终的分词结果，例如打印机和印表機，以太网和乙太網，总线和匯流排等。实验也表明联合训练时，繁体中文数据集的分词效果没有其他方法训练的分词效果好。简体中文与繁体中文之间存在的差异性也是联合多语料库训练存在的问题之一。联合语料库共同训练，数据集较大，训练的时间较单个语料库训练的时间更长，所需空间更大，这也是多语料库训练的需要改进的方向。
+
+# 参考文献：
+
+[1]Xue Nianwen, Converse S P. Combining classifiers for Chinese word segmentation [C]// Proc of the 1st SIGHAN Workshop Workshop on Chinese Language Processing. Stroudsburg: Association for Computational Linguistics,2002: 57-63.   
+[2]Boser BE,GuyonIM,Vapnik VN.Atraining algorithm foroptimal margin classifiers [C]// Proc of the 5th Annual Workshop on Computational Learning Theory. New York: ACM Press,1992: 144-152.   
+[3] Berger AL, Pietra VJD,Pietra SA, et al. Amaximum entropy approach to natural anguage processing [J]. Computational Linguistics,1996 22(1): 39. 71.   
+[4]Eddy SR. Hidden Markov models[J].Current Opinionin Structural Biology, 1996 6 (3): 361-365.   
+[5]Lafferty JD,McCallum A,Pereira F C N. Conditional random fields: probabilistic models for segmenting and labeling sequence data [C]//Proc of the 18th International Conference on Machine Learning. San Francisco: Morgan Kaufmann Publishers Inc.20o1: 282-289.   
+[6]Zheng Xiaoqing,Chen Hanyang,Xu Tianyu.Deep learning for Chinese word segmentation and POS tagging [C]//Proc of Conference on Empirical Methods in Natural Language Processing. 2013.   
+[7]Collobert R,Weston J.Aunifiedarchitecture fornaturallanguage processing: deep neural networks with multitask learning [C]// Proc of the 25th International Conference on Machine Learning. Helsinki: International Machine Learning Society,2008: 160-167.   
+[8] Chen Xinchi, Qiu Xipeng,Zhu Chenxi,et al.Long short-term memory neural networks for Chinese Word segmentation [C]// Proc of Conference on Empirical Methods in Natural Language Processing.2015: 1197-1206.   
+[9]Zhang Meishan, Zhang Yue,Fu Guohong.Transition-based neural word segmentation [C]// Proc of Meeting of the Association for Computational Linguistics. 2016: 421-431.   
+[10] Santos C ND, Xiang Bing, Zhou Bowen.Clasifying relations by ranking with convolutional neural networks [J]. Computer Science,2015,86 (86): 132-137.   
+[11] Mikolov T,Chen Kai,Corrado G,et al.Efficient estimation of word representations in vector space [J]. Computer Science,2013.   
+[12] Graves A. Long Short-term memory [J]. Neural Computation,1997,9 (8): 1735-1780.   
+[13] Zhao Hai. Unsupervised segmentation helps supervised learning of character tagging for word segmentation and named entity recognition [C]// Proc of the 6th SIGHAN Workshop on Chinese Language Processing. 2007.   
+[14] Cai Deng,Zhao Hai, Zhang Zhisong,et al. Fast and accurate neural word segmentation for Chinese [C]//Proc of the 55th Annual Meeting of the Association for Computational Linguistics.2017.   
+[15] Chen Xinchi, Shi Zhan,Qiu Xipeng,et al.Adversarial multi-criteria learning for chinese word segmentation [J].Computer Science,2017:1193-1203.   
+[16]Huang Zhiheng,Xu Wei,Yu Kai.Bidirectional LSTM-CRF models for sequence tagging[J]. Computer Science,2015.   
+[17]Lample G,Ballesteros M, Subramanian S,et al.Neural architectures for named entity recognition [C]//Proc of the North American Chapter of the Association for Computational Linguistics.2016.   
+[18] Cai Deng,Zhao Hai.Neural word segmentation learning for Chinese [C]// Proc of the 54th Annual Meeting of the Association for Computational Linguistics.2016: 409-420.

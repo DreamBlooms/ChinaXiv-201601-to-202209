@@ -1,0 +1,184 @@
+# 价值观的稳定性与可变性：基于认知神经科学的视角\*
+
+岳 童黄希庭　徐颖　潘思存(西南大学心理学与社会发展研究中心;西南大学心理学部，重庆 400715)
+
+摘要：价值观的稳定性和可变性一直是该领域争论的焦点所在。近些年来，研究者开始从认知神经科学的角度来探讨导致价值观稳定性差异的机制问题。已有的神经反应证据表明，当某种价值观是基于道义主义的绝对规则来进行认知建构的,或与自我概念在表征上存在一致性时，其更倾向于保持稳定的状态；若非如此，便可能会在外界影响(如他人劝说)下发生重要程度上的改变。未来需要进一步丰富和完善认识价值观稳定性与可变性关系的认知神经加工模型，并探索价值观长效改变背后的认知神经机制，以促进理论研究在价值观教育中的实践和应用。
+
+关键词 价值观；稳定性；可变性；认知神经机制
+
+# 1引言
+
+价值观是人们判断是非、善恶、得失的信念系统，它不但引导着我们追寻自己的理想，还决定每个人在生活中的各种选择 (黄希庭,2014)。心理学领域对价值观问题的探讨由来已久，在其心理结构、加工过程、作用功能及测量工具方面进行了大量研究，并在相关领域取得了一系列的推进 (黄希庭，郑涌,2005)。价值观一般被研究者认为是相对稳定的心理结构(Rokeach，1973)，很多学者认为价值观一旦形成，只能在已有的价值观结构内发生微调(Lubinski,Schmidt,&Benbow,1996; Schwartz&Rubel,2005)。然而，不论是从我们日常生活中的经验，还是从已有的研究结果(Rokeach,1973; Sheldon,2005)来看，都表明人们某些价值观可以发生实质性的变化。关于价值观的稳定性和可变性的问题，长期以来都是相关研究者争论的焦点所在。
+
+关于价值观稳定性的研究主要集中于两个方面，一是在Schwartz的价值观理论框架下，借助于相应的价值观量表[如 Schwartz 价值观调查表(Schwartz Value Survey,SVS,Schwartz,1992)，Schwartz 肖像价值观问卷(The Portrait Values Questionnaire,PVQ,Schwartz,2001)等],从纵向研究视角揭示价值观跨时间和跨情境的稳定性趋势及其影响因素，并发现个体在很多价值观的重要性排序上基本可以保持稳定(Milfont et al.,2016; Sundberg,2016)；其二是关注价值观中最稳定的成分，如保护性价值观(protected values)(指拒绝进行功利交易的价值理念)(Gibson etal.,2016)，并探讨其在面对利益诱惑或社会影响时是如何对抗冲击的(Atran &Ginges,2015)。总的来说，前人大量研究表明，人们的价值观重要等级排序在总体上可以保持稳定，且某些价值观可以有效抵御外界环境信息带来的冲击，具有绝对稳定的心理特性。
+
+然而，也有很多的研究结果发现，某些价值观在一定的情境或人为操作影响下是可以发生改变的。Bardi 和Goodwin(2011)将价值观改变界定为某种价值观的重要程度发生变化，并总结出了五种导致价值观改变的方法，它们分别为启动(priming)[e.g．双文化背景下的被试会根据文化线索表现出相应的价值观念(Gardneretal.,1999)，如接受个人成就的信息后会启动个人主义价值观，接受家庭责任的信息后会启动集体主义价值观等]、适应(adaptation)[如移民的价值观会渐渐向居住地趋同，而慢慢远离其出生地的价值观(Lonnqvist et al.,2013;Rudnev,2014)]、身份认同(identification)[如为人父母的身份带来的价值观的转变，常常会使新生儿父母更为强调保守价值观的重要性(Lonnqvist et al.,2018)]、自我一致性维持(consistency maintenance)[如先改变个体的行为，然后让个体自己调整价值理念来解释已作出的行为(Grant＆ Sagiv,2009)]和劝说(persuasion)[如提供给青少年相关劝说事实后,其刺激、自我定向以及普世主义价值观的重要性明显提升，而安全、遵从等价值观的重要性降低了(Döring & Hillbrink, 2015)]。
+
+综上所述，过往研究证据表明，人们所持有的价值观既具有相对稳定的心理结构，又能在一定的情境发生改变。这也就意味着，单独讨论价值观是具有稳定性还是可变性均有失偏颇，而更应该将价值观视为一个开放的动态系统(黄希庭,2014)：在不断地与环境信息发生交互作用过程中，某些价值观更倾向于维持稳定，而某些价值观则更容易受到外界影响发生改变。然而，以往的研究大多从现象层面来揭示和描述价值观维持稳定或发生改变的趋势，少有对其背后机制的探讨，也未有研究者尝试解析和统合关于稳定性或可变性之间的争论。近些年来，随着认知神经科学的兴起及功能性磁共振成像(functional magnetic resonanceimaging,fMRI)技术的发展，揭示价值观的心理加工过程及认知神经机制问题成为了可能，这也为理解价值观的稳定性和可变性问题提供了更为直观的分析视角和依据。有鉴于此，本研究将在梳理和总结认知神经科学领域相关研究基础上，围绕“某些价值观如何维持稳定”
+
+和“某些价值观如何发生改变”这两个问题展开论述，并试图从神经加工机制层面统合价值观稳定性和可变性的争论，最后针对目前存在的问题提出展望，以期对今后该领域的研究提供理论参考。
+
+# 2价值观何以维持稳定
+
+保护性价值观往往被视为价值观系统中最为稳定的部分，对其认知神经加工模式的探讨有助于了解某些价值观得以维持稳定的原因。因此，本文接下来将以保护性价值观为典型代表，分别从认知建构方式及与自我概念的关系两个方面来论述其之所以能够维持稳定的认知神经作用模式。
+
+# 2.1基于道义原则的认知建构方式
+
+价值观本质上是一系列抽象的观念表征(黄希庭,2014)和社会规则的集合(Zahn et al,2007)。人们对价值观念的加工方式基于两种：道义原则(deontological)或功利原则(utilitarian):前者更注重对事件行为性质而非结果的判断(Baron,2009)，且只有绝对正确或错误的二元性区分，与道德直觉(moralintuition)相似；而后者是在效用框架下进行的，往往在利弊权衡后按照利益最大化的原则做出决策。而很多研究发现，保护性价值观正是采用了道义原则而非功利原则的认知建构方式。例如，Berms 等人(2012)发现，相比于非保护性的价值观，被试对保护性价值观的加工主要使用颞顶联合区(temporo-parietal junction,TPJ)和腹外侧前额叶(ventrolateral prefrontal cortex,vIPFC)这两个脑区，而在前人研究中它们分别与对信念的道德判断(Young etal.,2010)及语义规则的提取与加工有关(Sharot etal.,2012)。与之相对的是，对非保护性价值观的加工更多的激活了顶下小叶(inferior parietal lobules,IPL)，这一脑区在之前研究中主要参与到了功利主义的价值计算与决策过程(Bhanji etal.,2010;Kable,&Glimcher,2009)。这表明，对于保护性价值观的加工人们可能采用了绝对规则的方式，而并非权衡利弊再进行判断。在此基础上，Hamid 等人(2019)招募了虔诚军(Lashkar-e-Toiba，南亚地区最为活跃的伊斯兰恐怖组织)的支持者来考察保护性价值观是如何在信念系统中占据核心位置的，结果发现相比于非保护性的价值观，当要求被试报告自己为保护性价值观而献身的意愿时，其背外侧前额叶(dorsolateral prefrontal cortex,dlPFC)活动有了更显著的减弱。其中，背外侧前额叶往往被认为参与到了认知控制和反应抑制加工(Carter&Veen,2007)，这可能说明人们在表征保护性价值观时较少地进行权衡和思量，而更多地依赖一种“对vs 错”道义论式的自动加工模式。
+
+基于道义原则的规则建构方式可以使得保护性价值观在面对社会从众压力或利益诱惑时可以保持极大的稳定性。例如，在Pincus 等人(2014)的研究中，首先让被试在一些价值观陈述中表达其认同程度，随后其呈现有多少人不同意他们的价值观，以通过同辈影响来考察被试是如何在社会压力下坚持自己价值选择的。脑成像研究结果发现，若呈现刺激是个体的保护性价值观，他们在同辈压力影响下坚持自己价值观时腹外侧前额叶的活动有明显的增强。腹外侧前额叶往往被认为与语义规则的提取有关(Sharotetal.,2012)，这可能表明此时个体是依赖于道义原则来对抗社会影响的，即呈现的保护性价值观于他们而言是绝对正确的理念，不容置疑。同样，Dogan 等人(2016)探讨了个体是如何在金钱诱惑面前坚守自己的诚信价值观的。他们要求被试扮演CEO 的角色，并在诚实报告公司收入或虚报公司收入以获得个人财富提升之间进行选择。研究结果表明，更加看重诚信价值观的个体在面对经济诱惑时，背外侧前额叶和额下回(inferior frontalis gyrus,IFG)的激活程度也更强。由于额下回在之前的研究中多与语义规则的表征有关(Souza etal.,2009)，而背外侧前额叶主要参与到了认知控制及反应抑制过程(Carter&Ven,2007)，因此Dogan 等人(2016)的结果可以解释为，那些特别看重诚信价值观的个体可能通过提取绝对性的规则表征并进行认知控制来抑制金钱的诱惑，从而使得他们可以一直坚持诚信的原则。
+
+综上所述，保护性价值观之所以能够维持稳定，与其基于道义原则的认知建构方式有很大关系，这使得保护性价值观的原则性非常强，可以有效抵御外界环境影响的冲击。
+
+# 2.2与自我概念在表征上的一致性
+
+近些年来关于保护性价值观认知神经机制的研究还发现，这类价值观往往与自我概念在表征上存在高度的一致性。例如，在Brosch 等人(2012)的研究中，要求被试完成两种任务：思考某种价值理念对自己来说有多重要(价值观判断)或自己有多喜欢某种行为(经济价值判断)。脑成像研究结果表明，相比于经济价值判断，对价值观的判断会激活内侧前额叶(medialprefrontal cortex,mPFC)这一与自我相关信息加工密切相关的脑区。另外，对价值观重要性的评价还与楔前叶(precuneus)的激活程度有关，而楔前叶一般被认为参与了与自我有关的情节记忆和自我反思过程(Fransson&Marrelec,2008)。该结果初步说明，重要价值观在表征上与自我概念存在重合性。更进一步的证据来自于Kaplan 等人(2016)的研究，他们使用具有生态效度的实验材料(在网上筛选出的代表不同价值取向的故事)来考察保护性价值观和一般价值观在神经表征上的差异。研究结果发现，被试在理解保护性价值观时相比于非保护性价值观更多的激活了大脑的后内侧皮质(posterior medial cortices,PMC)[包括楔前叶和后扣带回(posteriorcingulate)，颞顶联合区以及内侧前额叶等脑区，这些脑区在之前的研究中都被发现与自传体记忆及自我信息加工密切相关(Araujo et al.,2014)，从而进一步表明保护性价值观在进行加工时越需要自我加工系统的参与，即与自我概念在认知表征上存在高度一致性。
+
+从自我的功能来看，保护性价值观与自我表征之间的紧密联系可能是维持其稳定性的一种重要策略。自我位于整个人格系统的核心位置，个体的认知、情感、动机和意志行为都要在自我的统合下发挥作用(郭永玉,2018)，人们对与自我有关的信息总会表现出积极的情感偏好(Falk& Scholz,2018)，这就使得被纳入到自我概念中的价值观更容易得到个体的重视。例如，Verplanken 和 Holland(2002)的研究便发现，价值观对行为的影响与其自我内化的程度有关，只有经历了自我认同的价值观对个体而言才是重要的，并能对相关行为产生直接影响。随后的行为研究也证实，当将价值观内化到自我系统，启动并突出自我时，价值观对相应行为的预测作用显著增强(Ehret,2019; Tao&Au,2014)。Pretus 等人(2019)所进行的脑成像研究结果也表明，被试表达自己为了某种价值观战斗或赴死的意愿越高，其腹内侧前额叶的活动水平越强。其中，腹内侧前额叶(ventromedial prefrontal cortex,vmPFC)在之前的研究中既与决策过程里的主观价值赋值有关(Bartraetal.,2013)，又涉及到自我相关的信息加工过程(杨帅 等,2012)，而背外侧前额皮层与协商推理及整合成本效益计算相关。该研究结果从神经加工的角度表明，可能正是由于对某种价值理念经历了自我内化过程，个体才会对其主观赋予最高价值，这使得人们在加工这种价值观时较少地去进行认知权衡，继而成为一种难以撼动的理念。而反过来说，当某种价值观被纳入到自我概念中时，便会成为其身份认同的一部分(Hitlin,2003)，改变这种价值观便意味着自我图式发生改变，其心理成本是巨大的，可能会引发个体的认知失调(Grant& Sagiv,2009)，这也可能是保护性价值观难以发生改变的原因之一。
+
+# 2.3小结
+
+通过对保护性价值观脑成像研究的分析与回顾，可以总结出某些价值观能够维持稳定的心理作用模式。首先，保护性价值观是基于道义原则的方式进行认知建构的，这就使得相关的价值信念成为一种不可更改的“绝对真理”，在面对冲击时可以绕开利益权衡和逻辑推理过程，因而非常稳定。其次，保护性价值观与自我概念系统在表征上具有很大的同一性，从而使得被纳入到自我系统中的价值观有更强的动机维持其与自我的一致性，并被主观赋予了最高价值，这可能更增加了其稳定性。以上作用模式为理解价值观的稳定性提供了认知神经加工层面的视角和证据，同时也暗示着价值观发生改变的可能路径：如果某种价值观不是以一种“绝对”规则的方式进行建构的，或者未被纳入到自我概念之中，是否意味着该价值观更容易发生改变呢？在本文接下来的部分，将对此问题进行阐述。
+
+# 3价值观何以发生改变
+
+虽然很多方法均被证明可以有效地改变个体原本持有的价值理念，但目前认知神经领域的实验研究基本集中在劝说领域，即通过劝说使个体提升对新价值理念的重视程度或放弃对固有价值观的坚持。有鉴于此，本文接下来将以劝说如何使某些价值观发生改变为代表，对其背后的认知加工模式进行论述。
+
+# 3.1价值规则的利益权衡与认知重评
+
+如前文所述，保护性价值观之所以能够维持稳定，与其基于道义原则的认知建构方式有很大关系，这就使得相关的价值观成为一种绝对性的规则，因而很难发生改变。然而，并非所有的价值观都是以道义原则的方式进行建构的。功利原则是另一种建构价值规则的方式，意指当个体在多种价值冲突中进行选择时，会计算每种倾向的预期收益并进行比较，以做出最能使个体适应环境的决策 (Brosch& Sander,2013)。劝说能发挥作用的一个重要内在逻辑便是向个体说明新观念的优势或旧有理念的不足，以使个体进行价值权衡，并做出最优化的决策和改变(Falk& Scholz,2018)。而相关的脑成像研究表明，在劝说过程中，伴随着对新价值理念的接受，负责价值评估和计算的脑区的确有显著的激活。例如，在Cooper 等人(2017)的研究中发现，当劝说久坐人群改变其不健康的生活方式并接受健康生活理念时，他们价值计算系统的功能连接强度与在实验后久坐行为是否发生实质性改变有关：腹内侧前额叶和腹侧纹状体(ventral striatum,VS)在“增加身体活动”的健康观念的刺激下激活及连接水平越强，随后久坐的时间缩减幅度越大。在前人研究中，腹内侧前额叶和腹侧纹状体在对初级价值信息(如食物、性)和次级价值信息(如金钱)如何最大化的功利计算(Bartra etal.,2013;McNameeet al.,2013)中发挥着重要的作用。因此，Cooper 等人(2017)认为健康生活的观念可能会使某些久坐个体意识到健康的好处，在大脑中进行权衡，进而根据自我利益最大化的原则更改自己原有的生活理念。同样，关于吸烟者的研究也发现，当向他们呈现吸烟有害的负面信息后，腹内侧前额叶和腹侧纹状体有更强连接的个体更有可能改变其吸烟行为(Falk＆ Scholz,2018)。
+
+另外，研究者一般认为，价值观在建构过程中存在不经思考的认知成分，人们甚至难以为自己的价值观提供有力的论据，仅仅将其当成是需要遵守的社会规则(陈莹，郑涌,2010)。因此，当价值观不是以基于道义原则的“绝对真理”形式进行认知构建的时，通过有逻辑性的劝说便有可能使个体认识到原有价值观的不合理之处，进而改变自己固有的价值观结构，即发生了价值规则的认知重评过程(Bardi & Goodwin,2011)。Yomogida 等人(2017)从神经加工层面对上述认知重评过程进行了探讨，他们记录了被试对一系列价值观(如“在公共交通工具上打电话")或知识信念(如“糖对身体有害")的认同程度，然后对其进行四种劝说任务：价值观赞同/反对及知识信念赞同/反对。在劝说任务完成后，再次要求被试对刚才呈现的价值观和知识信念的赞同程度进行评定，以了解其价值观及知识信念发生了改变的程度。结果发现，价值观认同程度的改变相比于知识信念的改变更多的激活了被试颞极(temporal pole)和背内侧前额叶等脑区，而这些脑区在加工社会信息(如与他人的交流和推断他人心理状态)过程中发挥着非常重要的作用(Mars et al.,2012)，说明价值观改变可能伴随着一系列观念判断和决策过程。另外，该研究还发现个体对某种价值观反对程度的提高会伴随着左侧颞中回(middle temporal gyrus,MTG）活动的增强，结合前人相关研究结果(Buhle et al.,2014; Wei etal.,2012)可以推知在这个过程中可能发生了推理和认知重评等心理活动。通过上述研究结果可知，个体在接受劝说信息后，对相关信息进行了判断、推理及决策等一系列认知加工过程，某些固有的价值观在这种评估过程中可能被判断为不再合理，因此发生了认知解构，进而导致认可程度下降。能够将某种价值观置于理性范畴内进行反思和重评，是价值观能够改变的必要因素。这也就意味着，能够发生改变的价值观是“相对真理”，而并非是基于道义原则的绝对规则进行建构的。
+
+# 3.2提升与自我概念的关联程度
+
+基于前文所述可知，当某种价值观被纳入到自我概念中时，对其认可和重视的程度会明显提升，而这也可能是保护性价值观维持自身稳定性的一种重要途径。然而，并非所有的价值观都会经历自我认同的过程，而被排斥到自我概念之外的价值观在重要程度上也相对较弱。那么，如果通过劝说提升原本在自我认同之外价值观与自我概念的关联程度，是否有助于增加其重要性，继而改变个体与之一致的行为呢？
+
+由于通过直接劝说的方式来强行使个体接受某种原本不认同的价值观会带来自我威胁(self-threat)，很多研究者往往再结合自我肯定(self-affirmation)的方法，即通过肯定自我的整体性和价值来抵御这种威胁(Sherman &Hartson,2011;Wakslak& Trope,2009；何圭，黄希庭,2012)，以此来帮助相应的价值观与自我概念更为顺畅地进行连接。借助于这种方法，很多研究在开始在教育和健康领域进行价值观和行为改变的实践应用(Epton et al.,2015; Sweeney& Moyer,2015)。最近，Falk 等人(2015)在神经反应层面对上述过程进行了探讨。他们召集了倾向于久坐的被试(不重视健康生活理念)参加实验，并将其分为了实验组和控制组，并要求实验组的被试进行自我肯定练习(即反思自己最看重的价值观)。在实验中，给两组呈现强调身体健康重要性和久坐威胁身体健康的劝说信息，并记录他们的神经活动及随后固有行为是否发生改变。结果发现，相比于没有经过自我肯定训练的控制组被试，实验组被试的久坐频率有了明显的下降，且下降的程度与其腹内侧前额叶的活动有显著的相关关系。其中，而腹内侧前额叶是价值计算及自我相关信息思考的交汇区域(Bartra et al.,2013;Levy&Glimcher,2012),这一脑区的激活表明在上述过程中可能发生了“自我价值整合(self-value integration）过程，即通过劝说将相关理念整合进个体的自我概念之中(Vezich etal.,2017)。总之，Falk 等人(2015)认为上述结果表明，经过了自我肯定过程后，健康价值理念变得更加与自我相关，从而推进了这一理念与自我概念的融入，使得被试接受相关的生活方式。这进一步说明，当通过劝说使个体将原本不重视的某种价值观纳入到自我系统中后，人们对该价值观的重视和认同水平会显著提升，因此可以视为一种改变固有价值观结构的有效方式。
+
+# 3.3小结
+
+劝说是目前在实验室情境下改变个体固有价值观最常用的方法，通过对相关认知神经研究的总结和梳理，可以初步归纳出劝说导致价值观改变的作用原理：首先，当被劝说的价值理念不是基于道义原则的方式进行建构时(如健康生活理念对大部分人来说都不是原则性的价值观)，经过劝说可以使个体在利弊框架下思考问题并做出最优选择，进而提升该价值观的重要性;其次，某些价值观在经过劝说后会发生认知解构过程，使得其存在的合理性下降，进而可能放弃对原有价值观重要性的坚持；最后，当通过劝说将某种价值观纳入到自我概念后，个体会提升对这种价值观的认同程度，其重要性及对行为的驱动作用也会随之提升。
+
+# 4如何从认知神经加工的视角认识价值观稳定性与可变性的关系
+
+综上所述，价值观的稳定性和可变性并非一个非此即彼的问题，而更应该在一个整体的系统中讨论为何有些价值观更倾向于保持稳定，而有些价值观更容易在外界影响下发生改变。而当从系统的观点认识价值观问题时，很多研究者往往认为其具有等级结构(hierarchies)特性(Brosch et al.,2011; Ehret,2019; Schwartz,2012)，即个体所持有的价值观并非具有同等重要程度：越是位于系统核心层级的价值观，其重要性及认同程度越高，而不同重要等级的价值观在认知加工模式上也存在差异。因此，在此理论框架下，结合认知神经科学领域的新近研究证据，本文初步概括出了解释价值观稳定性和可变性的认知神经加工模型(见图 1),具体内容如下。
+
+首先，人们的价值观系统是具有等级结构特性的，不同等级的价值观在神经结构上存在差异。从已有的研究结果来看，对个体而言最重要的价值观，如保护性价值观，在大脑中是以一种基于道义原则的绝对规则方式进行表征的，涉及的脑区包括颞顶联合区(TPJ)、腹外侧前额叶(vIPFC)和额下回(IFG)等。另外，保护性价值观在神经结构上还与人们的自我加工系统紧密相关，涉及的脑区主要有内侧前额叶(mPFC)，楔前叶(precuneus)和腹内侧前额叶(vmPFC)等。随着价值观重要等级的降低，一般性的价值观可能仅仅是一系列社会理念和规则的集合，此时人们需要调动大脑中与抽象的概念性知识表征有关的脑区，如前颞叶(anteriortemporal lobe,aTL)(Duc et al.,2013; Zahn et al.,2009)，对其进行表征。其次，由于不同等级价值观神经结构上的不同，它们在稳定性上也有所差异，这表现为如何对抗外在信息的冲击方面。具体而言，保护性价值观基于道义原则的规则表征方式使其具有绝对正确性，这使得其难以其他价值理念所置换；经历了自我内化过程，保护性价值观在很大程度上成为了个体的最高价值,这使其被主观赋予了极高的价值，也使外在的价值评价很难与其相抗衡。相反，对于一般的价值观而言，其神经结构使得它们具有很大的不稳定性，从已有的实验干预研究来看可以分为以下三种：其一，通过劝说发生认知解构和规则重组，主要涉及颞顶联合区(TPJ)、被内侧前额叶(dmPFC)和颞中回(MTG)等一系列与判断、推理及决策有关的脑区，继而使得固有价值观的重要程度下降；其二，当通过劝说使个体在旧有观念和新的选择中进行利弊权衡时[主要激活顶下小叶(IPL)、背外侧前额叶(dIPFC)等脑区]，他们可能遵照功利主义的利益最大化原则接受劝说信息[主要激活腹内侧前额叶(vmPFC)、腹侧纹状体(VM)等脑区],从而放弃对固有价值观念的坚持(即固有价值观的重要性降低)；第三，通过自我肯定等方式可以通过激活腹内侧前额叶(vmPFC)发生自我价值整合，使原本不在自我概念范畴中的价值观纳入到自我概念系统中，继而增加其重要性和稳定性。综上所述，个体的价值观越是倾向于以绝对规则和自我内化方式进行构建的，其稳定性越高；越是背离以上神经构建方式，其重要性越低，也就越具有可变性。
+
+![](images/c44e4cfab4e4892a2b947b8da15a6217570cabb58a41ea5b6ea574dc16b0e97d.jpg)  
+图1价值观稳定性和可变性的认知神经加工模型
+
+然而，以上模型仅仅是基于已有研究结果基础上提出的，考虑到目前这方面的研究证据还不够丰富，而其中又有很多基于假设和推测的，未来研究还需要将更多的价值观类型及影响因素整合入该模型中，不断进行丰富和修正，进一步提升该模型的解释力度。
+
+# 5总结与展望
+
+价值观是个体社会化过程的核心构念(李林，黄希庭,2013)。稳定存在的价值观为人们的目标达成提供持续的动力，而改变和纠正个体不恰当的理念和行为方式是教育和社会媒体的重要工作。因此，揭示价值观稳定性与可变性之间的关系，并探寻其中的作用机制具有重要的理论意义和应用价值。虽然目前方兴未艾的脑机制研究为回答上述问题提供了新的视角和证据，但该领域的研究总体上来说可谓是刚刚起步，仍存在很多局限与不足，未来研究可以在如下方面做进一步的探讨。
+
+首先，需要明确不同重要等级价值观神经表征的形成机制问题。从已有研究结果来看，价值观系统具有等级结构特性，不同重要等级价值观在稳定性和可变性上的表现不同。那么，价值观系统的这种等级结构特性是如何形成的？对于这一问题目前尚没有明确的回答，可能要追溯到价值观的形成过程(Boer&Boehnke,2016)。例如，在个体童年时由父母垂直传递的价值观或宗教信徒强烈认同的宗教团体宣传的价值理念多含有“必须”的绝对性成分，且与自我身份认同紧密相关。而这种根植于人们内心深处的行为准则可能构成了核心层级价值观的最初成分，在稳定性上必然有别于在社会化过程中逐渐形成的一般价值观，但两者是否存在不同的形成路径仍有待于进一步的考察。再如，从已有研究证据来看，绝对稳定的价值观相比于容易改变的价值观在规则建构方式和自我内化程度上均有所差异，但这种差异是如何在大脑的神经网络中进行分布和交互作用的，它们之间是否存在对应的关系，这种对应关系是否在不同重要等级价值观形成过程中有所贡献？以上种种问题，目前的理论框架和研究结果均无法给出较为准确的回答，需要今后使用更加精细化的研究设计和技术手段进行进一步地探讨。
+
+其次，应该扩展关于价值观稳定性及可变性的研究范围。从当前的研究来看，关于价值观如何维持稳定状态的，基本只局限于对保护性价值观的探讨；而对于价值观改变的神经活动问题，大部分研究都是通过劝说来进行操作的。因为研究范围相对较小，从目前的研究结果只能大致勾勒出价值观系统如何维持稳定或发生改变的认知加工机制特点，难以窥见其整体的作用模式。例如，在实验室情境下使价值观发生改变的途径还有很多，不仅仅限于劝说(Arieli et al.,2014; Bardi & Goodwin,2011; Hitlin& Civettini,2017)，它们导致价值观发生变化的心理加工路径应该各有不同，那么其具体的神经作用机制如何？再如，目前大部分研究者仅仅从“冷”认知层面关注价值观是如何维持稳定或发生改变的，事实上，其中还可能涉及到“热”的情感加工因素。例如，前人研究发现当用金钱补偿来迫使个体在某些重要观念上进行妥协时，个体不仅会因此产生一系列负性情绪(如愤怒、厌恶等)(Atran&Ginges,2012;Sheikh et al.,2012)来对抗这种交易，还会进一步加强对自己原有价值观的坚持，这被称为“逆火效应(backfire effect)”。虽然 Duc 等人(2013)采用磁共振的方法还原了“逆火效应”相关的脑区包括(杏仁核、前颞叶及额叶-颞叶-边缘系统网络)进行了还原，但这种“冷”“热”加工在大脑中是如何进行交互作用的至今仍不清楚。今后需要在研究中对上述问题进一步地拓展，完善和丰富关于价值观系统等级结构特性和认知神经加工机制的理论模型，以从机制层面获得对价值观稳定性和可变性问题更为全面和深入的认识。
+
+第三，需要探索价值观长效改变过程中的认知神经机制问题。目前大部分涉及价值观改变神经机制的探讨都关注于在实验室情境中的短时间变化，即从状态层面探讨与价值观变化有关的大脑反应模式。然而，很难确定通过实验干预下个体的价值观是否能够实现真正的变化，在此前提下所得到的神经激活模式也就有失于全面。很多纵向研究表明，重大的生活经历，如移民(Bardi et al.,2014; Lonnqvist et al.,2011)或变迁工作环境(Sandal & Bye,2015;Sandaletal.,2011)等，会引起价值观系统长效性的改变。前人研究表明，业已存在的价值观是有着稳定的神经基础的，在大脑功能的自发活动甚至结构层面都有所体现(Zacharopouloset al.,2017;Zacharopoulos etal.,2016)。鉴于大脑是具有可塑性的，价值观系统的结构性改变必然对应神经反应模式的显著性变化。因此，在今后的研究中，可以从静态研究视角，对比价值观发生改变前后神经自发反应及结构基础的变化，以此来为价值观改变的认知神经机制提供更多的证据支持。
+
+最后，可以在丰富理论基础上开展干预研究，促进在价值观教育中的实践和应用。当前，如何提升核心价值观在个体价值观系统中的重要性和稳定性，将其转为人们的情感认同和行为习惯，是教育和宣传中面临的重要任务(江畅,2018)。然而，余林和王丽萍(2013)所做的一个研究发现，虽然中国大学生对社会主义核心价值观持认同态度，但未能将其内化为自身的价值观。根据前文所述，通过自我肯定等方式，使个体的价值观和自我概念发生整合，在实验室研究中取得了显著的效果，目前在国外也被应用于价值观和行为改变的研究中。因此，今后的价值观教育实践过程中可以结合相关的理论研究结果并进一步创新和拓展，以促进和巩固社会主义核心价值观在个体信念系统中的稳定性。
+
+# 参考文献
+
+陈莹，郑涌.(2010)．价值观与行为的一致性争议．心理科学进展,18(10),1612-1619.  
+何垚，黄希庭.(2012)．自我肯定的潜在机制与影响因素．西南大学学报(社会科学版),38,53-61.  
+黄希庭.(2014).探究人格奥秘.北京:商务出版社.  
+黄希庭，郑涌.(2005).当代中国青年价值观研究.北京：人民教育出版社.  
+郭永玉.(2018)．人格心理学纲要.北京:教育科学出版社.  
+江畅.(2018)．核心价值观的合理性与道义性社会认同.中国社会科学,4,4-23.  
+李林，黄希庭.(2013).价值观的神经机制：另一种研究视角．心理科学进展,21(8),1400-1407.  
+杨帅，黄希庭，傅于玲.(2012).内侧前额叶皮质—一"自我"的神经基础．心理科学进展,20(6),853-862.  
+余林，王丽萍.(2013)．大学生对社会主义核心价值观的内隐认同研究．西南大学学报（社会科学版),39(5),86-93.  
+Arieli,S.， Grant,A. M.,，& Sagiv,L. (2O14). Convincing yourself to care about others: An
+
+intervention for enhancing benevolence values. Journal of Personality, 82(1),15-24.
+
+Atran,S.，& Ginges, J. (2O12). Religious and sacred imperatives in human conflict. Science, 336(6083), 855-857.   
+Atran, S.,& Ginges, J. (2015). Devoted actors and the moral foundations of intractable intergroup conflict. In J. Decety & T. Wheatley (Eds.), The moral brain: A multidisciplinary perspective (p. 69-85). Boston Review.   
+Araujo,H.F, Kaplan, J.,Damasio, H.,& Damasio,A. (2O14). Involvement of cortical midline structures in the processing of autobiographical information. PeerJ,2, e481.   
+Bardi,A., Buchanan, K. E., Goodwin,R., Slabu,L.,& Robinson,M. (2O14). Value stability and change during self-chosen life transitions: Self-selection versus socialization effects. Journal of Personality and Social Psychology, 106(1), 131-147.   
+Bardi, A.,& Goodwin, R. (2O11). The dual route to value change: Individual processes and cultural moderators. Journal of Cross-cultural Psychology, 42(2), 271-287.   
+Baron,J. (2009). Belief overkill in political judgments. Ssrn Electronic Journal, 29(4), 368-378.   
+Bartra, O., McGuire, J.T., & Kable, J. W. (2O13). The valuation system: Acoordinate-based metaanalysis of BOLD fMRI experiments examining neural corelates of subjective value. Neuroimage, 76, 412-427.   
+Berns,G. S., Bell, E., Capra, C. M., Prietula, M. J., Moore, S., Anderson, B.,... Atran, S. (2012). The price of your soul: Neural evidence for the non-utilitarian representation of sacred values. Philosophical Transactions of the Royal Society B: Biological Sciences, 367,754-762.   
+Bhanji, J. P.,Beer, J. S., & Bunge,S.A. (201O). Taking a gamble or playing by the rules: Dissociable prefrontal systems implicated in probabilistic versus deterministic rule-based decisions. Neurolmage, 49(2),1810-1819.   
+Boer, D.,& Boehnke, K. (2O15). What are values? Where do they come from? A developmental perspective. In D. Sander & T. Brosch (Eds.), Handbook of value (pp. 129-154). Oxford: Oxford University Press.   
+Brosch, T., Coppin, G., Scherer, K. R., Schwartz, S.,& Sander, D. (2011). Generating value (s): Psychological value hierarchies reflect context-dependent sensitivity of the reward system. Social Neuroscience, 6(2), 198-208.   
+Brosch,T., Coppin, G., Schwartz, S., & Sander, D. (2012). The importance of actions and the worth of an object: Disociable neural systems representing core value and economic value. Social Cognitive and Affective Neuroscience, 7(5), 497-505.   
+Brosch, T.，& Sander, D. (2O13). Neurocognitive mechanisms underlying value-based decisionmaking: from core values to economic value. Frontiers in Human Neuroscience, 7, 398.   
+Buhle,J. T., Silvers, J. A., Wager, T. D., Lopez, R., Onyemekwu, C., Kober, H.,.. & Ochsner, K. N. (2014). Cognitive reappraisal of emotion: A meta-analysis of human neuroimaging studies. Cerebral Cortex, 24(11), 2981-2990.   
+Carter, C. S.,& Van Veen, V. (2OO7). Anterior cingulate cortex and conflict detection: An update of theory and data. Cognitive, Affective, & Behavioral Neuroscience, 7(4), 367-379.   
+Cooper, N.,Basset,D. S.,& Falk, E.B. (2017). Coherent activity between brain regions that code for value is linked to the malleability of human behavior. Scientific Reports,7, 43250.   
+Dogan, A., Morishima, Y., Heise,F., Tanner, C., Gibson, R., Wagner, A.F.,& Tobler,P. N. (2016). Prefrontal connections express individual differences in intrinsic resistance to trading off honesty values against economic benefits. Scientific Reports, 6, 33263.   
+Doring，A.K.，& Hilbrink,A. (2O15).Brief report: Into the wild? How a film can change adolescents' values. Journal of Adolescence, 40,78-82.   
+Duc, C.,Hanselmann, M., Boesiger, P.,& Tanner, C. (20l3). Sacred values: Trade-off type matters. Journal of Neuroscience, Psychology, and Economics, 6(4), 252.   
+Ehret, P. J. (2O19). Inclusion of the environment in the self: Linking values to pro-environmental behaviors (Unpublished doctorial dissertation). University of California, Santa Barbara.   
+Epton, T., Harris,P.R., Kane,R., van Koningsbruggen, G. M., & Sheeran, P. (2015). The impact of self-affirmation on health-behavior change: A meta-analysis. Health Psychology, 34(3),187.   
+Falk,E. B., O'Donnel,M. B., Cascio, C.N.,Tinney,F.,Kang, Y.,Lieberman,M.D.,..& Strecher, V. J. (2015). Self-affirmation alters the brain's response to health messages and subsequent behavior change. Proceedings of the National Academy of Sciences, 112(7), 1977-1982.   
+Falk, E.,& Scholz, C. (2O18). Persuasion, influence, and value: Perspectives from communication and social neuroscience. Annual Review of Psychology, 69, 329-356.   
+Fransson, P., & Marrelec, G. (2Oo8). The precuneus/posterior cingulate cortex plays a pivotal role in the default mode network: Evidence from a partial corrlation network analysis. Neuroimage, 42(3), 1178-1184.
+
+Gardner, W.L., Gabriel, S., & Lee,A. Y. (1999)."T" Value Freedom, but “We" Value Relationships: Self-Construal Priming Mirrors Cultural Differences in Judgment. Psychological Science, 10, 321-326.
+
+Gibson,R., Tanner, C.，Wagner,A.F.，Brosch,T.，& Sander, D.(2O16). Protected values and economic decision-making. Handbook of Value: Perspectives from Economics,Neuroscience, Philosophy, Psychology and Sociology, 223.   
+Grant,A., & Sagiv, L. (2Oo9). Convincing yourself to change your values: Self persuasion can increase the importance of benevolence values. Manuscript submitted for publication.   
+Hamid, N., Pretus, C.,Atran, S., Crocket, M. J., Ginges,J.,Sheikh, H.,..& Vilarroya, O. (2019). Neuroimaging“willto fight” for sacred values: an empirical case study with supporters of an Al Qaeda associate. Royal Society Open Science, 6(6),181585.   
+Hitlin, S. (2Oo3). Values as the core of personal identity: Drawing links between two theories of self. Social Psychology Quarterly, 118-137.   
+Hitlin, S.,& Civettini, N. (2O17). The situated durability of values. Advances in Group Processes, 34(August 2017), 175-198.   
+Kable,J. W.,& Glimcher, P. W. (2Oo9). The neurobiology of decision: Consensus and controversy. Neuron, 63(6), 733-745.   
+Kaplan, J. T., Gimbel, S. I., Dehghani, M., Immordino-Yang, M. H., Sagae, K., Wong, J.D.,...& Damasio，A. (2016). Processing narratives concerning protected values: A cross-cultural investigation of neural correlates. Cerebral Cortex, 27(2),1428-1438.   
+Levy, D.J.,& Glimcher, P. W. (2Ol2). The root of all value: A neural common currency for choice. Current Opinion in Neurobiology, 22(6), 1027-1038.   
+Lonnqvist, J. E., Jasinskaja-Lahti, I.,& Verkasalo,M. (2O11). Personal values before and after migration: A longitudinal case study on value change in ingrian-finnish migrants. Social Psychological and Personality Science, 2(6), 584-591.   
+Lonnqvist, J. E., Jasinskaja-Lahti, I.,& Verkasalo,M. (2O13). Rebound effect in personal values: Ingrian Finnish migrants’ values two years after migration.Journal of Cross-Cultural Psychology, 44(7), 1122-1126.   
+Lonnqvist, J. E., Leikas, S.,& Verkasalo, M. (2018). Value change in men and women entering parenthood: New mothers’value priorities shift towards Conservation values. Personality and
+
+IndividualDifferences,120,47-51.
+
+Lubinski,D., Schmidt, D. B.,& Benbow, C. P. (1996). A 20-year stability analysis of the study of values for intellectually gifted individuals from adolescence to adulthood. Journal of Applied Psychology, 81(4), 443.   
+Mars，R.B.， Sallet，J.， Schuffelgen，U.， Jbabdi,S.， Toni，I.，& Rushworth，M.F.(2012). Connectivity-based subdivisions of the human right “temporoparietal junction area": Evidence for different areas participating in diferent cortical networks. Cerebral Cortex, 22(8),1894 1903.   
+McNamee,D., Rangel, A., & O'doherty, J.P. (2O13). Category-dependent and category-independent goal-value codes in human ventromedial prefrontal cortex. Nature Neuroscience, l6(4), 479.   
+Milfont, T.L., Milojev, P.,& Sibley, C. G. (2O16). Values stability and change in adulthood: A 3- year longitudinal study of rank-order stability and mean-level differences. Personality and Social Psychology Bulletin, 42(5), 572-588.   
+Pincus,M.,LaViers,L.,Prietula,M.J.,& Berns, G. (2O14). The conforming brain and deontological resolve. PloS one, 9(8), e106061.   
+Pretus,C., Hamid, N., Sheikh, H., Gomez， A., Ginges,J., Tobena, A.,..& Atran, S. (2019). Ventromedial and dorsolateral prefrontal interactions underlie will to fight and die for a cause. Social Cognitive and Affective Neuroscience, 14(6), 569-577.   
+Rokeach, M. (1973). The nature of human values. New York: Free press.   
+Rudnev, M. (2O14). Value adaptation among Intra-European migrants: role of country of birth and country of residence. Journal of Cross-Cultural Psychology, 45(10),1626-1642.   
+Sandal, G.M.,& Bye, H.H. (2O15). Value diversity and crew relationships during a simulated space flight to Mars. Acta Astronautica, 114, 164-173.   
+Sandal, G. M., Bye, H. H., & Van De Vijver, F. J.R. (2O11). Personal values and crew compatibility: Results from a 105 days simulated space mission. Acta Astronautica, 69(3-4),141-149.   
+Schwartz, S. H. (2O12). An overview of the Schwartz theory of basic values. Online Readings in Psychology and Culture, 2(1),1-20.   
+Schwartz, S.H. (1992). Universals in the content and structure of values: Theoretical advances and empirical tests in 2O countries. In Advances in Experimental Social Psychology (Vol. 25, pp. 1-65). Academic Press.   
+Schwartz, S.H., Melech, G., Lehmann, A., Burgess, S., Harris, M., & Owens, V. (2001). Extending the cross-cultural validity of the theory of basic human values with a different method of measurement. Journal of Cross-Cultural Psychology, 32(5), 519-542.   
+Schwartz, S. H.，& Rubel, T. (2O05). Sex differences in value priorities: Cross-cultural and multimethod studies. Journal of Personality and Social Psychology, 89(6),1010.   
+Sharot,T., Kanai, R., Marston,D., Korn, C. W., Rees, G.,& Dolan,R.J. (2012). Selectively altering belief formation in the human brain. Proceedings of the National Academy of Sciences, 109(42),17058-17062.   
+Sheikh, H., Ginges, J., Coman, A.,& Atran, S. (2O12). Religion, group threat and sacred values. Judgment and Decision Making, 7(2), 110.   
+Sheldon, K. M. (2Oo5). Positive value change during college: Normative trends and individual differences. Journal of Research in Personality, 39(2),209-223.   
+Sherman,D.K.，& Hartson, K. A. (2O11). Reconciling self-protection with self-improvement. Handbook of Self-enhancement and Self-protection, 128.   
+Souza,M. J. Donohue, S. E.,& Bunge, S.A. (2oo9). Controlled retrieval and selection of actionrelevant knowledge mediated by partially overlapping regions in left ventrolateral prefrontal cortex. Neuroimage, 46(1), 299-307.   
+Sundberg,R. (O16). Value Stability and Change in an ISAF Contingent. Journal of Personality 84(1), 91-101.   
+Sweeney, A. M., & Moyer, A. (2015). Self-affirmation and responses to health messages: A metaanalysis on intentions and behavior. Health Psychology, 34(2),149.   
+Verplanken, B.,& Holland,R. W. (20o2). Motivated decision making: Efects of activation and selfcentrality of values on choices and behavior.Journal of Personality and Social Psychology, 82(3), 434.   
+Vezich,I. S., Katzman,P.L., Ames,D.L.,Falk, E. B., & Lieberman, M. D. (2017). Modulating the neural bases of persuasion: Why/how, gain/loss,and users/non-users. Social Cognitive and Affective Neuroscience, 12(2), 283-297.   
+Tao，L.，& Au，W. T. (2O14). Values，self and other-regarding behavior in the dictator game. Rationality and Society, 26(1), 46-72.   
+Wakslak, C.,& Trope, Y. (2O09). The effect of construal level on subjective probability estimates.
+
+Psychological Science,20(1),52-58.
+
+Wei,T.,Liang, X.,He, Y., Zang, Y., Han, Z., Caramazza, A.,&Bi, Y. (2O12). Predicting conceptual processing capacity from spontaneous neuronal activity of the left middle temporal gyrus. Journal of Neuroscience, 32(2), 481-489.   
+Yomogida, Y., Matsumoto, M., Aoki,R., Sugiura,A., Phillips, A. N., & Matsumoto, K. (2017). The Neural Basis of Changing Social Norms through Persuasion. Scientific Reports, 7(1),16295.   
+Young,L., Camprodon, J.A., Hauser, M., Pascual-Leone,A.,& Saxe, R. (2O1O). Disruption of the right temporoparietal junction with transcranial magnetic stimulation reduces the role of beliefs in moral judgments. Proceedings of the National Academy of Sciences, 107(15), 6753-6758.   
+Zacharopoulos,G.,Hanel,P.H.,Lancaster,T. M., Ihssen,N.,Drakesmith,M.,Foley,S.,..& Linden, D.E.(2O17). Nonlinear associations between human values and neuroanatomy. Social Neuroscience, 12(6), 673-684.   
+Zacharopoulos, G.,Lancaster, T.M., Bracht,T., Ihssen, N., Maio, G.R.,& Linden,D.E. (2016). A hedonism hub in the human brain. Cerebral Cortex,26(10), 3921-3927.   
+Zahn,R.,Moll,J.,Krueger,F.,Huey,E.D., Garrido,G.,& Grafman,J. (2O07). Social concepts are represented in the superior anterior temporal cortex. Proceedings of the National Academy of Sciences, 104(15),6430-6435.   
+Zahn,R.,Moll, J.,Paiva, M., Garrido, G.,Krueger, F., Huey, E. D.,& Grafman,J. (2009). The neural basis of human social values: Evidence from functional MRI. Cerebral Cortex,19,276- 283.
+
+# Stability and variability of values: From the perspective of cognitive neuroscience
+
+YUE Tong; HUANG Xiting; XU Ying; PAN Sicun (Research Center for Psychology and Social Development, Southwest University; School of Psychology, Southwest University, Chongqing 400715, China)
+
+Abstract: The issue of stability and variability of values has always been the focus of debate in this field. In recent years,researchers began to analyze the mechanism of the differences in the stability of values from the perspective of cognitive neuroscience.The existing neurophysiological evidence shows that when a certain value is constructed based on the absolute rules of deontology,or is consistent with the representation of self-concept, it tends to maintain a stable state. Otherwise, it may change fundamentally under the persuasion of others. In the future,it is necessary to further enrich and improve the cognitive neural processing model that recognizes the relationship between the stability and variability of values,and explore the cognitive neural mechanisms behind the longterm changes in values, so as to promote the practice and application of theoretical research in values education.
+
+Key words: values; stability; variability; cognitive neural mechanism

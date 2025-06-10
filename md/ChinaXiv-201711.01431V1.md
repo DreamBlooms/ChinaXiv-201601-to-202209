@@ -1,0 +1,110 @@
+6-苄氨基嘌呤对大鼠小肠缺血再灌注损伤的影响张自强　刘玉梅　朱雪敏 位　兰石　珂　潘丽（河南科技大学动物科技学院，洛阳471023）
+
+摘要：本试验旨在研究6-苄氨基嘌呤（6-BA）对大鼠小肠缺血再灌注（I/R）损伤的保护作用。选取80 只雄性 SD大鼠，随机分为4组，即对照组、I/R模型组和低、高剂量6-BA组。低、高剂量6-BA组于术前3周分别连续灌胃10、 $2 0 \mathrm { \ m g / k g }$ 的 6-BA，对照组和 I/R模型组灌胃同体积的生理盐水，每天1次。对照组在暴露肠系膜上动脉后不做阻断；I/R 模型组和低、高剂量6-BA组阻断肠系膜血管 $3 0 \ \mathrm { m i n }$ 后再灌注 $6 0 \ \mathrm { m i n }$ 。随后取大鼠空肠组织分别进行总超氧化物歧化酶（T-SOD）、谷胱甘肽过氧化物酶（ $\mathrm { G S H - P x } ,$ 活性和丙二醛（MDA）含量检测；采用单细胞凝胶电泳法检测细胞DNA损伤程度，采用免疫组化法检测半胱氨酸天冬氨酸特异性蛋白酶3（Caspase-3）表达情况。结果显示，与I/R模型组相比，补充10、$2 0 \mathrm { m g / k g }$ 的6-BA后,T-SOD、GSH-Px活性显著升高( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ),MDA含量显著降低( $_ { . } { \cal P } { < } 0 . 0 5 )$ ;小肠细胞DNA 的拖尾现象好转，尾部 DNA 含量和拖尾率都显著低于I/R 模型组( $_ { . } { \cal P } { < } 0 . 0 5 )$ ;Caspase-3阳性表达细胞数量显著减少（ $P { < } 0 . 0 5 )$ 。由此可见，10、 $2 0 \mathrm { m g / k g }$ 的 6-BA 能有效防护I/R对小肠的损伤，且 $2 0 \mathrm { m g / k g }$ 的6-BA作用效果尤为明显。
+
+关键词：6-苄氨基嘌呤；缺血再灌注；氧化损伤；调亡
+
+中图分类号：S816
+
+在众多内脏器官中，小肠对局部缺血再灌注（ischemia/reperfusion，I/R）损伤最为敏感[1]。研究发现，小肠细胞极易受到局部缺血的影响，再灌注后会进一步导致黏膜受损[2]。在急性肠系膜缺血，出血性、外伤性、感染性休克或者严重烧伤以及一些手术操作如小肠移植术、腹主动脉术等过程中常伴有I/R 发生[3-4]。I/R 不仅能够导致小肠本身的损伤，而且由于肠黏膜屏障的损坏也会引发全身性感染和多器官功能障碍[4-5]。由此小肠 I/R 损伤逐渐引起了研究者的关注。6-苄氨基嘌呤（6-benzylaminopurine，6-BA）是植物生长调节剂中细胞分裂素的一种，不仅被广泛应用于植物组织培养、果实生长及蔬菜保鲜等，而且能够有效防御植物组织的氧化应激。另外，本课题组前期研究证实6-BA对小鼠脑和肝脏组织氧化损伤具有一定的保护作用[7-8]。在此基础上，本试验进一步从氧化应激、DNA 损伤和凋亡相关蛋白表达等多角度考察6-BA对大鼠小肠I/R损伤的保护作用，以期为有效预防肠I/R损伤及动物饲料中抗氧化剂的筛选提供科学依据。
+
+1材料与方法
+
+1.1 药品与试剂
+
+6-BA 由美国 Sanland 公司生产，用 $0 . 0 6 \mathrm { m o l / L }$ 的盐酸配制成1000、 $2 0 0 0 \mathrm { { m g / L } }$ 的储备液；丙二醛（MDA）含量检测试剂盒、谷胱甘肽过氧化物酶（GSH-Px）活性检测试剂盒、总超氧化物歧化酶（T-SOD）活性检测试剂盒和考马斯亮兰试剂盒均由南京建成生物工程研究所生产。低熔点琼脂糖购自美国 Sigma 公司；兔抗大鼠半胱氨酸天冬氨酸特异性蛋白酶 3（Caspase-3）单克隆抗体购自美国Abcam 公司；免疫组化试剂盒购自武汉博士德生物工程有限公司。
+
+1.2 试验动物
+
+选取80只雄性 SD大鼠，购自郑州大学实验动物中心。适应环境7d后，随机分为4组，每组20只。对照组、I/R 模型组和低、高剂量的6-BA 保护组。6-BA保护组于术前 3周分别连续灌胃给予10、 $2 0 ~ \mathrm { m g / k g }$ 的6-BA，每天1次；对照组和 I/R 模型组灌胃同体积的生理盐水灌胃。动物术前 $1 2 \mathrm { h }$ 禁食、不禁水。以 $3 \%$ 戊巴比妥钠（ $\mathrm { 1 \ m L / k g \cdot }$ 腹腔注射麻醉，固定后取腹正中切口，对照组在开腹暴露肠系膜上动脉后不做阻断；I/R 模型组和6-BA 保护组则用无创动脉夹阻断其系膜血管 $3 0 ~ \mathrm { m i n }$ 后再灌注 $6 0 ~ \mathrm { { m i n } }$ 。结束后，立即剪取空肠组织样品待用。
+
+# 1.3仪器
+
+生物组织切片机（RM-2235，德国Leica)；分光光度计（UV-6300，上海美谱达仪器有限公司)；荧光显微镜（BX41TF，日本 Olympus)；电泳仪（DYY-11，北京六一仪器厂）;电泳槽（DYCP-33A，北京六一仪器厂）。
+
+1.4T-SOD、GSH-Px 活性和 MDA含量测定
+
+制作 $10 \%$ 小肠组织匀浆，用生理盐水稀释成 $1 \%$ 组织匀浆液后参照试剂盒说明，用紫外/可见分光光度计在 $5 5 0 \ \mathrm { n m }$ 处比色，测定吸光度值，计算T-SOD活性。取 $10 \%$ 小肠组织匀浆用生理盐水稀释成 $0 . 8 \%$ 的匀浆液后，参照试剂盒说明，用紫外/可见分光光度计在 $4 1 2 \mathrm { n m }$ 处比色，测定吸光度值，计算GSH-Px活性。取 $10 \%$ 小肠组织匀浆用生理盐水稀释成 $5 \%$ 匀浆液后通过硫代巴比妥酸（TBA）法参照试剂盒说明，用紫外/可见分光光度计在 $5 3 2 \mathrm { n m }$ 处比色，测定吸光度，计算MDA含量。
+
+1.5单细胞凝胶电泳法检测大鼠小肠细胞DNA损伤
+
+制作小肠单细胞悬液，保存备用。 $5 0 \mathrm { ^ { \circ } C } .$ （204号 $0 . 7 5 \%$ 的正常熔点的琼脂糖溶液 $1 0 0 ~ \mu \mathrm { L }$ 铺于全磨砂载玻片上放入 $3 7 \ { ^ { \circ } C } { \sharp }$ 共箱过夜烘干后作为底层胶；再取上述琼脂糖溶液 $1 1 0 ~ \mu \mathrm { L }$ 加在底胶上，水平放于 $4 \mathrm { { ^ \circ G } }$ 水箱中保存 $2 0 \mathrm { m i n }$ 至凝固作为第2层胶；吸取 $7 0 \mu \mathrm { L }$ 制备好的单细胞悬液和 $1 4 0 ~ \mu \mathrm { L }$ 在 $3 7 ^ { \circ } \mathrm { C }$ 水浴中保温的 $0 . 6 5 \%$ 的低熔点琼脂糖溶液混匀，吸取混匀液 $1 1 0 \mu \mathrm { L }$ 滴加在第2层胶上，水平放于4℃冰箱中保存 $2 0 \ \mathrm { m i n }$ 至凝固作为第3层胶。将制备好的胶板浸入细胞裂解液， $4 \mathrm { { ^ \circ C } }$ 裂解1h，然后置于电泳槽中加入电泳液，4℃解旋 $2 5 \mathrm { m i n }$ ，电泳 $2 0 \mathrm { m i n }$ (20V， $2 0 0 ~ \mathrm { { m A } }$ )。电泳结束后加入中和液中和 $1 5 \mathrm { m i n }$ ，然后滴加 $1 0 \mathrm { m g / L }$ 的溴化乙锭（EB）溶液 $4 0 ~ \mu \mathrm { L }$ ，染色 $1 0 \mathrm { m i n }$ 。在暗室中用荧光显微镜观察并拍照。每组随机选取3张胶片，每张在100倍下随机选取8个视野，将彗星尾长 $> 3 5 ~ { \mu \mathrm { m } }$ 视为拖尾，采用CASP软件测量各组细胞彗星尾部DNA含量、彗星尾长并统计拖尾率。
+
+1.6免疫组化法检测大鼠小肠凋亡相关蛋白Caspase-3表达
+
+采用免疫组化法检测大鼠小肠组织切片中Caspase-3表达。参照免疫组化试剂盒，严格按照步骤进行。一抗4℃过夜，以磷酸盐缓冲液做阴性对照。二氨基联苯胺（DAB）染色，苏木精复染，常规脱水、透明、干燥。光学显微镜下观察到组织细胞中出现黄色颗粒为阳性。
+
+# 1.7 统计分析
+
+试验结果均以平均值 $\pm$ 标准差表示，并采用SPSS18.0统计软件进行单因素方差分析，组间差异显著性采用Duncan氏法进行检验， $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+2.16-BA对大鼠小肠I/R损伤后T-SOD、GSH-Px活性和MDA含量的影响
+
+6-BA对大鼠小肠I/R损伤后T-SOD、GSH- $\mathbf { \cdot P x }$ 活性和MDA含量的影响见表1，与对照组相比，I/R模型组大鼠小肠T-SOD、GSH- $\mathbf { \cdot P x }$ 的活性显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ，小肠MDA含量显著升高( $_ { . P < 0 . 0 5 ) }$ ，证实I/R 模型构建成功。低、高剂量6-BA组大鼠小肠T-SOD和GSH-Px
+
+活性显著高于I/R 模型组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ，小肠MDA含量显著低于I/R模型组（ $\scriptstyle P < 0 . 0 5 .$ )。高剂量6-BA组小肠MDA含量与对照组间无显著差异（ $P { > } 0 . 0 5 )$ ）
+
+表16-BA对大鼠小肠I/R损伤后T-SOD、GSH-Px活性和MDA含量的影响
+
+Table 1Effects of 6-BA on T-SOD, GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ activities and MDA content of small intestine of rats after I/R injury
+
+<html><body><table><tr><td colspan="4">83 (n=7）</td></tr><tr><td></td><td>总超氧化物歧化酶</td><td>谷胱甘肽过氧化物酶</td><td>丙二醛</td></tr><tr><td>项目Items</td><td>T-SOD/(U/mg prot)</td><td>GSH-Px/(U/mg prot)</td><td>MDA/(nmol/mg prot)</td></tr><tr><td>对照组 Control group</td><td>347.76±8.54a</td><td>416.41±19.36a</td><td>12.13±1.81c</td></tr><tr><td>I/R 模型组 I/R model group</td><td>214.97±12.00d</td><td>235.02±14.88d</td><td>27.35±5.37a</td></tr><tr><td>低剂量 6-BA 组 Low dose 6-BA group</td><td>251.52±15.43c</td><td>294.91±16.85c</td><td>19.12±3.49b</td></tr><tr><td>高剂量6-BA 组 High dose 6-BA group</td><td>312.30±13.32b</td><td>376.50±9.80b</td><td>14.29±1.14bc</td></tr></table></body></html>
+
+同列数据肩标不同字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5 .$ )，相同字母表示差异不显著（ $P { > } 0 . 0 5 )$ 。下表同。 Values in the same column with difference letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+# 2.26-BA对大鼠小肠I/R损伤后细胞DNA损伤的影响
+
+大鼠小肠I/R损伤后细胞DNA损伤程度见图1，对照组细胞核大小比较均一，为圆形荧光团，荧光强度均匀，边缘光滑，未出现彗星状拖尾；I/R模型组小肠细胞DNA损伤严重、彗星头部较其他组变小，出现彗星状尾巴；低、高剂量6-BA组小肠细胞DNA拖尾减轻，尾长减小。各组细胞尾部DNA含量和拖尾率见表2，与对照组相比，I/R模型组小肠细胞尾部DNA含量和拖尾率显著升高（ $( P { < } 0 . 0 5 )$ 。与I/R模型组相比，低、高剂量6-BA组显著降低尾部DNA含量和拖尾率（ $P { < } 0 . 0 5 )$ ）°
+
+![](images/2f91e33ec7c9e515948c535705ddc63dcbf075db59b41265c312636a98f310b7.jpg)
+
+![](images/a5d4745f6559dca54fee2e5b848ea12dfb9780902ad93fe66895f73dc4b597c8.jpg)  
+图16-BA对大鼠小肠I/R损伤后细胞DNA损伤的影响
+
+A.对照组 control group；B.I/R模型组 I/R model group；C.低剂量6-BA组 low dose 6-BA group；D.高剂量6-BA组 high dose 6-BA group。
+
+Fig.1Effects of 6-BA on cell DNA damage of small intestine of rats after I/R injury $( 2 0 0 \times )$
+
+表26-BA对大鼠小肠I/R损伤后细胞尾部DNA含量和拖尾率的影响
+
+Table 2Effects of 6-BAon DNA contentof tail,and amountofbroom shaped tailsofsmallintestinecells ofrats
+
+<html><body><table><tr><td colspan="3">after I/R injury (n=5）</td></tr><tr><td rowspan="2">项目Items</td><td>尾部DNA含量</td><td>拖尾率</td></tr><tr><td>DNA content of tails</td><td>Percentage of broom shaped tails/%</td></tr><tr><td>对照组 Control group</td><td>10.70±1.83d</td><td>8.4±0.73d</td></tr><tr><td>I/R 模型组 I/R model group</td><td>82.85±8.17a</td><td>73.89±5.03a</td></tr><tr><td>低剂量 6-BA 组 Low dose 6-BA group</td><td>53.20±4.00b</td><td>43.92±6.09b</td></tr><tr><td>高剂量6-BA 组 High dose 6-BA group</td><td>27.61±5.35</td><td>30.52±4.23</td></tr></table></body></html>
+
+2.36-BA对大鼠小肠I/R损伤后Caspase-3表达的影响
+
+6-BA 对大鼠小肠I/R 损伤后Caspase-3表达的影响见图2。与对照组相比，I/R 模型组大鼠小肠 I/R 损伤后小肠Caspase-3 阳性细胞数量明显增多；而低、高剂量 6-BA 组小肠Caspase-3 阳性细胞数量少于I/R 模型组，证实6-BA改善了小肠I/R诱发的损伤。
+
+![](images/4e099f47e191b74842d8dedb1a5138df4f6a8fca6db3e40d8a6a5cc16f1eee46.jpg)
+
+A.对照组control group；B.I/R模型组 I/R model group；C.低剂量6-BA组 low dose 6-BA group；D.高剂量6-BA组 high dose 6-BA group。
+
+3讨论
+
+当组织器官血液供应不足时，常导致细胞机能障碍甚至发生坏死，然而血流的迅速恢复会进一步加重器官的损伤程度，称为I/R损伤。肠是机体内细菌和内毒素的最大储存库，当I/R 损伤引发肠屏障功能破坏后会引起一系列疾病的发生，如脓毒症、全身炎症反应综合征、大量器官机能障碍（肝脏、肺脏、肾脏等)，因此肠被认为是引发机体器官系统异常的“马达”[9]。尽管小肠I/R 发生的详细机制目前仍不明确，但是I/R 能够引发自由基形成、DNA损伤、线粒体膜电位去极化最终导致小肠细胞发生凋亡和坏死已得到了充分肯定[10]。半胱-天冬氨酸蛋白酶（Caspase）又称为死亡蛋白酶，是细胞凋亡中最重要的蛋白酶，它直接水解激活与DNA 断裂等凋亡特征改变有关的蛋白，导致凋亡。其中，Caspase-3 是参与凋亡的Caspase 级联反应最终效应子，是细胞调亡蛋白级联反应的必经之路[1]。因此，本试验通过检测小肠中抗氧化酶活性、脂质过氧化产物含量以及DNA损伤程度和Caspase-3 蛋白表达来确定6-BA对小肠I/R损伤的预防作用。
+
+本试验通过阻断肠系膜血管 $3 0 \mathrm { m i n }$ 再灌注 $6 0 \mathrm { m i n }$ 构建小肠I/R模型，发现其DNA损伤严重，凋亡相关蛋白Caspase-3 阳性表达细胞数量显著增加，证实了小肠对I/R 的高度敏感性。再通过抗氧化酶活性和脂质过氧化产物含量的检测，发现小肠 I/R 损伤与自由基有关。6-BA 能够抑制植物叶内叶绿素、核酸、蛋白质的分解，保绿防老；能将氨基酸、生长素、无机盐等向处理部位调运，具有稳定、廉价和易于使用等特点，且是一种对人、畜安全的植物生长调节剂，因此广泛用在农业、果树和园艺作物从发芽到收获的各个阶段。资料表明，许多植物生长调节剂不但能够促进植物的生长而且还能预防动物组织的氧化损伤和抵抗衰老。如，6-糠氨基嘌呤能够抑制动物肝脏[12]和卵巢[13]等组织器官的氧化应激，甚至能够提高衰老大鼠的免疫功能[14]。而 6-BA 化学结构与6-糠氨基嘌呤十分相似，且其在植物方面的抗氧化损伤和抗衰老的作用非常显著，是否6-BA也对动物组织具有抗氧化能力，目前未见报道。由此本实验室前期通过给小鼠腹腔注射四氯化碳（ $\mathrm { C C l } _ { 4 }$ ）制作小鼠肝脏氧化损伤模型，并预先采用6-BA进行保护，结果证实6-BA能够有效抑制 $\mathrm { C C l } _ { 4 }$ 诱发的小鼠肝脏抗氧化酶活性降低和脂质过氧化产物的积累[8]。鉴于肠I/R损伤与氧化应激的关系，本试验又进一步检测了6-BA对小肠I/R损伤的保护作用。结果证实，6-BA能够有效抑制大鼠I/R发生过程中出现的抗氧化酶活性降低、脂质过氧化产物积聚、DNA 损伤和小肠细胞形态病变。这些结果提示，一定剂量的6-BA 对大鼠小肠 I/R 损伤具有一定的保护作用。这为研发抗小肠 I/R损伤的活性物质提供了新思路，但详细机制还有待于进一步探讨。
+
+4结论
+
+$\textcircled{1}$ 10、 $2 0 \mathrm { m g / k g }$ 的 6-BA可有效降低小肠I/R诱发的过氧化应激损伤。   
+$\textcircled{2}$ 10、 $2 0 \mathrm { m g / k g }$ 的 6-BA可有效降低小肠I/R 诱发的细胞DNA损伤。   
+$\textcircled{3}$ 10、 $2 0 \mathrm { m g / k g }$ 的6-BA可有效降低小肠I/R诱发的凋亡相关蛋白Caspase-3 阳性表达 细胞数量的升高。   
+$\textcircled{4}$ 10、 $2 0 \ \mathrm { m g / k g }$ 的 6-BA 能有效防护I/R对小肠的损伤，其中 $2 0 \mathrm { \ m g / k g }$ 的6-BA作用 效果尤为明显。 参考文献： [1]HE X H,YAN X T,WANG Y L,et al.Transduced PEP-1-heme oxygenase-1 fusion protein protects against intestinal ischemia/reperfusioninjury[J].Journal ofSurgical Research,2014,187(1):77-84.   
+[2]YANG X K,BAI H,CAI W X,et al.Lycium barbarum polysaccharides reduce intestinal ischemia/reperfusion injuries in rats[J].Chemico-Biological Interactions,2013,204(3):166- 172.   
+[3]INAN M,UZ Y H,KIZILAY G,et al.Protective effect of sildenafil on liver injury induced by intestinal ischemia/reperfusion[J].Journal of Pediatric Surgery,2013,48(8):1707-1715.   
+[4]LI Y S,WANG Z X,LI C,et al.Proteomics of ischemia/reperfusion injury in rat intestine with and without ischemic postconditioning[J].Journal of Surgical Research,2010,164(1):e173- e180.   
+[5]陈建雷,孙庆林.白藜芦醇对大鼠肠缺血再灌注损伤的保护作用[J].中华小儿外科杂 志,2011,32(2):139-142.   
+[6]李杰,况胜利,房晓敏,等.6-苄氨基嘌呤的合成研究[J].安徽农业科学,2009,37(15):6841- 6842.   
+[7]张自强,刘玉梅,位兰,等.6-苄胺基嘌呤对D-半乳糖致小鼠脑组织氧化损伤的保护作用[J]. 中国临床药理学杂志,2015,31(14):1422-1425.   
+[8]张自强,刘玉梅,朱雪敏,等.6-苄氨基嘌呤对四氯化碳致小鼠肝脏氧化损伤的保护作用[J]. 中国临床药理学杂志,2015,31(11):928-931.   
+[9]ZHANG R,HE G Z,WANG Y K,et al.Omega-3 polyunsaturated fatty acids inhibit the increase in cytokines and chemotactic factors induced in vitro by lymph fluid from an intestinal ischemia-reperfusion injury model[J].Nutrition,2015,31(3):508-514.   
+[10]CHEN H,SUN Y P,HU P F,et al.The efects of hydrogen-rich saline on the contractile and structural changes of intestine induced by ischemia-reperfusion in rats[J].Journal of Surgical Research,2011,167(2):316-322.   
+[11]樊永梅,王如蜜,张长杰,等.高频电疗对大鼠脑缺血再灌注损伤后 caspase-3 和海马神经 细胞超微结构的影响[J].中南大学学报:医学版,2017,42(1):21-25.   
+[12]茹琴,欧阳五庆,张黎.激动素对小鼠急性四氯化碳肝损伤的保护作用[J].中国新药与临 床杂志,2007,26(4):263-267.   
+[13]孙江宏,刘玉梅,曹统,等.激动素对 $D .$ 半乳糖致衰雌性小鼠卵巢和子宫的影响[J].生理学 报,2013,65(4):389-394.   
+[14]李梦云,欧阳五庆,吴小利,等.激动素对衰老大鼠免疫功能及其脾淋巴细胞体外增殖的 影响[J].生理学报,2014,66(5):605-611. Effects of 6-Benzylaminopurine on Ischemia/Reperfusion Injury of Smal Intestine of Rats ZHANG ZiqiangLIU YumeiZHU XueminWEI LanSHI Ke PAN Li (College of Animal Science and Technology, Henan University of Science and Technology, Luoyang 471023, China)
+
+Abstract :To explore the protective eectsof 6-benzylaminopurine (6-BA） on ischemia/reperfusion (I/R) injury of small intestine of rats,eighty male SD rats were selected and randomly divided into four groups named control group,I/R model group,low and high dose 6-BA groups, respectively. Rats in low and high dose 6-BA groups were treated with I $\mathrm { . 0 , 2 0 \ m g / k g }$ 6-BA by gavage once daily for 3 weeks,and rats in control group and I/R model group were treated with the same volume physiologic saline. Superior mesenteric artery of rats in control group was not blocked after exposed， while it was blocked in I/R model group and low and high dose 6-BA groups for $3 0 ~ \mathrm { m i n }$ ，and then the blood vessel was reperfused for $6 0 \ \mathrm { m i n }$ . Then the activities of total superoxide dismutase （T-SOD） and glutathione peroxidase （GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ ）,and MDA content in jejunum tissue of rats were measured. Cell DNA damage was observed by single cell gel electrophoresis method,and the expression of cysteinyl aspartate specific proteinase 3 (Caspase-3) was determined by immunity histochemistry method. The results showed as follows: Compared with $\mathrm { I / R }$ model group,the supplementation of 10 and $2 0 ~ \mathrm { m g / k g }$ 6-BA significantly increased the activities of T-SOD and GSH- $\mathbf { \cdot P x }$ $( P { < } 0 . 0 5 )$ ，and significantly decreased MDA content $( P { < } 0 . 0 5 )$ ; broom shaped tails were less,and DNA content of tails and percentage of broom shaped tails were significantly decreased ( $( P { < } 0 . 0 5 )$ ; Caspase-3 positively expressed cell count was significantly decreased $( P { < } 0 . 0 5 )$ . These results reveal that 6-BA has protective effects against injury of I/R in small intestine,and the effect of $2 0 \mathrm { m g / k g }$ 6-BA is better.

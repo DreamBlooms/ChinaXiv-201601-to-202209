@@ -1,0 +1,191 @@
+# 多感觉整合范式中潜在的跨通道转换效应管蕾12 罗文佩1²韩佳慧 1，2\*
+
+1辽宁师范大学脑与认知神经科学研究中心，大连，116029  
+2 辽宁省脑与认知神经科学重点实验室，大连，116029
+
+摘要 大脑可以对来自不同感觉通道的信息进行处理与整合。与单一感觉通道相比，个体对同时呈现在不同感觉通道的目标信号的响应会更快。对于这种现象的一种主要理论解释是共同激活模型，该模型认为来自不同通道的刺激在特定的脑区汇聚整合，比如顶叶内沟、颞上沟和前额叶皮层区域。整合后的信号强度更大，可以更快地触发反应，但是信号的整合发生在认知加工的哪一阶段目前尚未有明确结论。当个体对出现在不同感觉通道之间的任务转换进行加工时，产生与感觉通道相关的任务转换的损失小于跨感觉通道转换损失与任务转换损失的总和，这为与感觉通道相关的转换代价来源于任务设置的惯性和干扰提供了证据。而在单通道和多通道之间发生转换时，跨通道转换代价会减小甚至消失，这是由于同时发生的多感觉整合抵消了一部分损失，这种现象支持了共同激活模型理论。然而，多感觉信号整合对任务转换的神经加工过程产生怎样的影响并不清楚，在未来的研究中可以把多感觉整合范式同经典的任务转换范式结合改进，进而确定跨通道转换的加工机制和多感觉信号整合的发生阶段。
+
+关键词 多感觉整合，冗余信号效应，跨通道转换效应，任务转换
+
+生活中我们身边的场景和事物在不断变化，需要我们不断地从一个场景转换到另一个场景中，而接收到的信息大多数都是来自于不同的感觉通道。从当前执行的任务转移到新的任务中去就是任务转换，对接收到的多感觉通道信号进行处理，并予以响应就是多感觉整合过程。当目标信号同时在不同的感觉通道呈现时，我们的响应过程会加快，而这种多感觉通道信号又被叫做冗余信号(redundant signals,Gondan&Minakata,2016)。人们经常使用冗余信号来确保信息能准确传递给对象，比如警车的警笛和闪灯，相较于单一信号，冗余信号会让对象产生更快更准确的反应。
+
+收稿日期：2021-7-12  
+\*通讯作者：韩佳慧  
+Tel./Fax: $+ 8 6$ 411-82159796  
+E-mail addresses: jiahui110509@163.com; jiahui666@lnnu.edu.cn
+
+基金项目信息：国家自然科学基金青年项目（32100848），辽宁省自然科学基金项目（2020-BS-186），辽宁省教育厅项目（LQ2020029），辽宁省经济社会发展研究课题（2022lslwzzkt-025），辽宁师范大学博士启动项目（BS2020L006）。
+
+# 多感觉整合和冗余信号效应
+
+# 1. 1 多感觉整合范式
+
+我们在生活中所接收到的多数信息都是经由不同的感觉通道进入大脑。而大脑可以整合来自不同感官的刺激，对这些信息进行有机统一地处理，这一加工过程被称为多感觉整合。研究多感觉整合行为效应的常用方法是使用简单的快速反应时间任务，包括快速辨别任务和快速检测任务。检测任务要求参与者尽可能快地对接收到的所有刺激做出反应，而快速辨别任务则要求参与者在接收到的刺激中分辨出预定的目标刺激并快速做出反应。在快速反应时间范式中，每次给参与者单独呈现一种感觉通道刺激（比如单独呈现视觉信号V或者听觉信号A），或者同时呈现两种或多种不同感觉通道刺激（比如视觉信号V和听觉信号A一起呈现）。早在1962年，Hershenson 就在他的一项经典实验中分别给参与者呈现视觉刺激，听觉刺激以及同步视听刺激，命令参与者听到或看到目标刺激就做出反应，最终观察到了视听刺激同时呈现条件下平均反应速度的加快(Hershenson,1962)。Innes 和 Otto(2019)同样在实验中证实了参与者对双通道视听信号的反应要快于单独的视觉信号和听觉信号，把同时呈现的视听信号刺激称作冗余信号(redu ndant signals)。Shaw 等(2020)在实验中利用快速检测任务范式，比较了参与者在响应单感觉刺激和多感觉刺激时反应时的差异，结果表现出了多感觉刺激信号的反应易化效应。到目前为止，已经有大量的实验证据证明，在利用多感觉通道刺激（冗余信号）完成任务时，相较于单一通道刺激（单一信号），参与者的反应会更加准确也更加快速，这种反应易化现象被称为冗余信号效应，即 RSE(redundant signals effect,Gondan&Minakata，2016)。冗余信号效应是多感觉加工研究领域一个重要的研究主题。
+
+最近，Barutchu 和 Spence(2021)在一项研究中分别利用快速检测任务和辨别任务探讨了多感觉整合加工和感觉刺激特异性的关系，感觉刺激使用了听觉和视觉形式的字母b和字母d，以单感觉或者双感觉通道呈现。在检测任务中，参与者尽可能快地对所有的刺激做出反应，而在辨别任务中，参与者只在出现目标字母（b或d）的情况下做出反应。结果表明在检测任务中，在视觉和听觉刺激同时呈现的条件下，参与者的反应更快；在辨别任务中，只有在视觉和听觉刺激都与目标字母一致时才会出现冗余信号效应，当刺激与目标不一致时反应却变慢(Barutchu& Spence,2021)。造成这种分离性结果的原因可能是由于 Barutchu 和Spence 所使用的范式并没有将快速反应任务同转换任务分离开，冗余信号效应受到转换代价的影响。我们将在第3节更加详细地描述两种效应的关系。
+
+# 1.2RSE效应的两种解释模型
+
+长期以来，研究者们提出了多种可能的理论模型来解释这种多感觉信号反应易化效应，其中最广泛被接受的两种分别是“竞赛模型(race model)"和"共同激活模型(coactivationmodel)”。竞赛模型(Miller,1982)认为，在加工多感觉通道刺激信息时，每个通道的信号都是被分别加工独立处理的，几种通道信息形成竞争模式，对冗余信号的响应是由竞赛的获胜者决定的（图1）。以两种通道刺激组成的冗余信号为例，对每一种刺激的反应时间随着试次的不同而变化，而且两种刺激的反应时分布重叠，两种信号的竞争会导致总体平均反应时间的分布向着比每一种单独通道感觉刺激的反应时都要短的方向偏移，这种变化是可以预测的，因为这种冗余效应是统计简化的结果(Raab,1962)。共同激活模型(Blurton et al.,2014)认为，来自不同感觉通道的刺激在某个特定的加工阶段汇聚整合，之后的信号强度比任一单独通道的分离信号的强度都强，也更快地达到感觉阈值从而触发反应，因此产生冗余信号效应（图2）。通常情况下，共同激活模式下的对整合信号的反应速度要明显快于竞赛模型下的多感觉刺激反应速度(Maslovat et al.,2018)。
+
+![](images/1cc94168246f487c60700694d85c0866e1fb82d0ab71d0572661a9fad217a46d.jpg)
+
+图1(引自Raab,1962）竞赛模型。来自不同通道的刺激 S1，S2独立行进，响应由最先到达的刺激激活，竞赛导致了反应时的统计易化。S1，S2分别指来自不同通道的刺激信号；S(t)，刺激信号随时间变化的函数。
+
+![](images/161298d90852e92a08e4a4bca2106a3ce29c50248fbcc2ba8585494f97caa8f5.jpg)
+
+图2(引自 Raab,1962)共同激活模型。来自不同通道的刺激 S1，S2在特定区域汇聚整合，整合后的信号强度大于单一的 S1和S2 刺激，能更快地触发反应。
+
+为了区分竞赛模型和共同激活处理模型，Miller(1982)提出了竞赛模型不等式(race modelinequality，RSI)，该不等式已成为冗余信号效应相关实验中检验行为数据的常规方法。公式如下：
+
+$$
+\mathrm { P } ( \mathrm { R T } \leq \mathrm { t } | \mathrm { S } 1 + \mathrm { S } 2 ) \leq \mathrm { P } ( \mathrm { R T } \leq \mathrm { t } | \mathrm { S } 1 ) + \mathrm { P } ( \mathrm { R T } \leq \mathrm { t } | \mathrm { S } 2 )
+$$
+
+公式1不等式的左边表示冗余信号条件下的反应时概率累积密度分布函数，不等式的右边分别是单一通道输入信号对应的反应概率累积密度分布函数。S1和 S2是指两种来自不同通道的刺激。
+
+根据这一公式，在竞争模型条件下，对冗余信号的反应时累积概率总是等于或低于单一信号的概率分布。当反应行为数据背离这一不等式的时候，违反了竞争模型，认为符合共同激活模型。在已有的验证实验中，大部分实验结果都表现出对竞争模型的背离，从而支持共同激活模型假设。竞赛模型不等式成立的前提假设时两个通道的刺激信号的环境独立性，即每一个刺激在单独呈现时和与另一种刺激同时呈现(冗余信号中)时，反应时分布是不变的。有研究者认为，当违背不等式(1)时，可能符合共同激活模型，也可能是因为违反了环境独立性，产生了环境依赖(Miller,2016)。环境依赖性是指，在冗余信号条件下，对两种刺激的加工会互相影响，与刺激单独呈现时有差异，比如视觉信号的存在以某种方式影响了听觉信号的活动，产生额外的激活，从而影响对听觉信号的反应时间。但是这种环境依赖的假设与共同激活模型并不矛盾，是对共同激活模型的一个补充。所以当反应违背竞赛模型时，认为符合共同激活模型假设。
+
+共同激活模型支持冗余信号在认知加工的过程中发生了整合，加快了触发反应的时间。不同通道刺激的融合加强具体发生在加工过程的哪个阶段仍然没有一个统一的解释，有的研究者认为整合发生在感觉阶段，有人认为协同激活发生在反应启动或者运动执行等后期反应阶段(Maslovatetal.,2018)。也有人提出了交互模型，认为一部分加工阶段涉及竞争模型，其他阶段按照共同激活模型活动(Miller,2016)，确定多感觉整合交互模型的具体发生阶段，还需要之后的研究论证。
+
+# 1.3共同激活模型的有关神经机制
+
+目前已有的关于RSE大多数实验研究结果都违背了竞赛模型不等式，虽然有少数几项研究支持竞赛模型，但是都因为实验证据的不充分而受到争议，而有关认知神经影像学方面的证据更是少之又少(Oto & Mamassian,2017; Shaw et al.,2020; Van der Stoep et al., 2015)。为此，在下文中将重点介绍有关共同激活模型的神经机制。
+
+研究者认为，如果符合共同激活模型，那么存在专门加工多感觉信息的脑区，而且该区域只在多种感觉信息同时呈现时才被激活，基于此假设已经有神经成像研究发现存在只对多种感觉通道信息响应的脑区。以视听冗余信号输入为例，处理视觉刺激和听觉刺激的第一个皮层区域是初级视觉皮层V1和初级听觉皮层A1，提取之后的信号进入高级皮层区域进行更加完整的表征，特别是颞上沟(STS)、顶叶内沟(IPS)和前额叶皮层区域(PFC)(Van Atteveldtetal.,2014)，所以可以假设多感觉信息的整合会发生在这些高级皮层区域，近期的一些研究结果也证实了这一假设。
+
+Regenboge 等(2017)在一项刺激辨别实验中，给参与者呈现事先准备好的视觉刺激和听觉刺激（A,V和AV刺激随机呈现），参与者做出判断响应。本实验中研究者还控制了刺激的难度，分为不同等级的清晰的和模糊的音视频，通过fMRI分析，证实了顶叶内沟（IPS）会对视觉和听觉感觉区域之间的信息交换进行自上而下的控制(Regenbogen et al.,2017)。此外 Stickel等在 2019 年的一项关于多感觉整合的实验中，利用 fMRI对自闭症患者和健康参与者的嗅觉-视觉和听觉-视觉的感觉整合神经网络进行了比较。嗅觉-视觉范式中给各参与者以单通道和多通道的方式随机呈现匹配的愉快/不愉快的味道和图片，参与者做出评判响应。听觉-视觉范式的刺激信号是匹配过的愉快/不愉快的声音和图片，呈现方式同前者一样。结果表明，不管在嗅觉-视觉还是听觉-视觉范式中，当进行多感觉整合时，顶叶内沟，内侧额叶皮层和下额叶皮层都会被额外激活，证实了多感觉整合加工会发生在这些区域(Stickeletal.,2019)。但是有研究提供了证据表明不同通道信号之间的互动可以发生得更早甚至是在初级皮层处理阶段(Keil& Senkowski,2018)，在这些区域中，一种感觉通道的信号会影响另一个感觉通道的兴奋性水平。此外，在丘脑和上丘中也发现了多感觉信号整合的有关通路(Cappe etal.,2007)。这些脑区的发现也为之后研究多感觉模态转换的相关神经机制提供了证据支持。
+
+上述提到的脑区在处理多感觉刺激时需要协同合作，这一过程包括各个脑区的激活，区域之间的功能连接以及各个皮层区域的神经振荡活动。区域之间神经振荡活动的同步性可以促进听觉，视觉或触觉之间的跨通道影响(Bauer etal.,2020)。Mercier 等(2013)让接受过癫痫手术的患者执行检测任务，结果表明听觉刺激会加强视觉皮层的神经振荡的相位重置，影响视觉刺激的处理(Mercier et al.,2013)。在他们团队的另一项研究中，参与者接受单一或混合的视觉和听觉刺激，同时记录听觉处理区域的脑电数据，结果发现视觉刺激可以重置听觉皮层中 8(1-4hz)和 0(4-7hz)频段波的振荡活动。同时也发现了多感觉条件下α(8-12hz)和 β(12-30hz)频段的振荡相干性比单独感觉条件下的总和更大(Mercier et al.,2015)。结合 Bastos 等(2015)对非人类灵长类动物的解剖追踪得到的结果，表明较慢的振荡活动支持更远距离的耦合，所以低频段振荡（比如0和 $\mathrm { ~ \bf ~ a ~ }$ ）的多感觉效应与更高阶的皮层处理区域对多感觉整合自上而下的反馈有关。而在高频段（如 $\gamma$ 波）振荡活动中观察到的相干性的增强则反映了对刺激的自下而上的处理过程。这些研究结果证明，通道之间的相互影响在早期的初级皮层处理阶段已经发生，而多感觉刺激会导致更大的局部和更快的脑区间的振荡相位同步重置，这种重置的强度与更快的反应时间即冗余信号效应(RSE)有关。
+
+# 2任务转换
+
+# 2.1混合代价，切换代价和剩余代价
+
+在日常生活中，为了应付随时变换的任务场景，人类需要高级复杂的认知控制过程，从而使得人类可以灵活地做出反应，实现目标。任务转换便是一种常用的探索认知控制机制的实验范式(Rogers＆Monsell,1995)。任务转换通常包括任务表征，任务准备，任务选择，任务执行等过程。在任务转换实验中的前后两次试次中，有时相比于上一次试次，当前试次的任务类型会发生改变(即转换条件)，有时当前试次的任务类型不会发生改变(即重复条件)。研究者将转换条件和重复条件下参与者的表现做比较，发现无论是反应时还是错误率，都存在一个非常稳定的损失，叫做"转换代价”，解释这一现象的本质以及讨论相关的神经机制一直是任务转换研究的重点。
+
+当一个任务模块中有两种任务类型，且包括重复试次和转换试次，将其称为混合任务块（例如 AABBAA序列）；若在一个任务块中，实验参与者被要求只完成一种任务类型，即只包括重复试次时，则是单一任务块（如AAA或 BBB序列）。比较这两种不同的模块中参与者在重复试次中的反应差异，发现混合任务块中的参与者的反应时比完成单一任务块的时间要长，正确率也更低，这种损失叫做混合代价。
+
+在线索提示任务转换范式中，改变提示刺激和目标刺激之间的时间间隔(即准备时间)，会对转换代价产生影响，延长准备时间，转换代价通常会降低，被称为准备效应。但是延长准备时间不会完全消除转换代价，已有研究证明，即使准备时间为5s或更长，仍有大量剩余转换代价存在，这就是剩余效应(Sohn et al.,2000)。
+
+# 2.2任务转换相关的激活脑区
+
+大脑前额叶皮层区域(PFC)是参与任务转换过程的一个重要脑区。Dove 等(2000)利用功能磁共振技术对一项字母判断转换任务进行探究，发现在任务转换条件下，前额叶皮层区域被额外激活。前额叶皮层区域自上而下地参与有关任务的处理与控制，是任务表征，选择，准备和切换的基础。比如根据不同类型的任务线索，能观察到PFC 的双侧背外侧区域的激活，而且与任务处理相关的颞叶下皮层活动也受到PFC 活动的调节。而当任务刺激是多价的，需要参与者对反应类型做出不同的选择并且可能会犯错误时，额叶内侧的前扣带回(ACC)会被激活，来解决由刺激引起的冲突(Dosenbach et al.,2007)。
+
+此外，Sohn 等(2000)利用 fMRI证明任务转换时，顶叶的有关区域被激活，例如顶内沟区域在转换任务中更加活跃。他们的实验结果也证实了顶叶区域可能存在功能分离，当在与任务相关的维度之间转换时，顶叶后部区域更活跃；当在刺激-响应映射规则之间转换时，顶叶前部更活跃(Sohn et al.,2000)。除了上述额叶和顶叶区域在任务转换过程中的参与，已经有研究发现了许多其他大脑区域在任务转换时比重复任务时更活跃，例如小脑和颞枕皮层的各个区域(Proskovec et al.,2019)。总之，任务转换需要整合各种感知、注意、记忆和运动过程，所以现在研究者们越来越多地把焦点集中在识别和理解任务转换过程的不同大脑区域之间的功能联系上。
+
+# 2.3任务转换中的神经振荡活动
+
+在一般性任务转换范式（转换只发生在单通道刺激之间）的研究过程中对任务转换实验中的 ERP 结果进行时频转换，分析额顶叶区域不同频段波的振荡变化，研究与转换和混合代价有关的脑神经振荡活动，从而探究任务转换过程涉及到的神经加工机制。许多相关的研究结果表明(Cooper etal.,2016;Wu etal.,2015)，相较于重复试次，额顶叶区域的 $\alpha$ 频带振荡在转换条件下会有显著的减小（转换效应），同样地，和单一重复任务相比，混合任务中的重复试次结果中的 $\alpha$ 频带波的振荡强度显著下降（混合效应），这也与上述提到的行为结果一致。此外，混合效应差异比转换效应造成的振荡差异发生得更早且更加持久。这一现象也证实了转换代价和混合代价分别同短暂的和持久的认知控制机制有关(Capizzi et al.,2020)。一般认为 $\alpha$ 频带的振荡活动在任务转换中的功能意义是可以激活一种抑制性的自上而下的认知机制，具体来说，当一个新的任务设置与当前任务设置发生竞争， $\mathfrak { a }$ 波的振荡活动可以抑制注意力的分散，促进对当前任务的反应(Foxe etal.,2014)。
+
+$\beta$ 频段的振荡变化模式同 $\mathfrak { a }$ 波段一致，也存在混合效应和转换效应(Capizzietal.,2020)。即在混合任务中，转换条件中 $\beta$ 波的振荡强度显著降低；混合任务中的重复试次和全重复任务中试次的结果对比， $\beta$ 波的振荡强度呈现同样的降低的结果，而且混合效应大于切换效应。然而关于任务转换中的 $\beta$ 振荡的功能还没有得到彻底的解决，Cooper 等(2019)认为任务转换期间的 $\beta$ 振荡主要与感觉运动功能（如运动执行和准备）有关，但是Capizzi 等(2020)反驳了这一观点，认为在任务转换中， $\beta$ 波的振荡变化反映了非运动过程的参与，因为 $\beta$ 振荡的脑区分布并不局限于感觉运动皮层区域。这一结论也在最近的研究中找到了证据(Spitzer&Haegens,2017)，非运动区的 $\beta$ 振荡与许多认知过程有关，如工作记忆，长期记忆和决策等。由此我们认为与 $\alpha$ 波类似， $\beta$ 波的神经振荡活动同样反映了大脑自上而下的加工机制。
+
+0频段的波的振荡变化与 $\alpha$ 和 $\beta$ 频段不同，相对于重复试次，切换条件中0波的振荡强度显著增大，存在明显的转换效应。最近的一项研究也表明，额顶叶的0波活动强度的增加与转换代价成反比，表示高效的认知控制(Cooper et al.,2017)。这些研究结果表明θ波的振荡活动对转换代价很敏感，在任务转换机制中发挥重要作用(Capizzi et al.,2020)。结合这些研究结果，我们猜想0频段的振荡活动可能与注意的转移有关。当前要执行的任务与之前的任务不同时，参与者需要将注意力转移到新的相关刺激上，建立新的任务设置，所以更大的0 波的振荡强度反映了更加灵活的注意转移能力。而对于0波的振荡活动与混合效应的关系目前却并没有得到稳定明确的证据支持，它在任务转换过程中具体的功能性意义也需要更多研究证据的支撑。
+
+# 3多感觉整合和转换效应的关系
+
+# 3.1跨通道转换效应
+
+如上文所述，在几乎所有的多感觉整合研究中，一个核心的实验设计是快速反应时间任务。单通道感觉刺激和双通道感觉刺激被以可变的刺激时间间隔随机地混合在一起呈现，单通道刺激和多通道刺激可以分别单独在一个任务块中呈现，也可以随机地混合在一起呈现，这种实验设计类似于任务转换范式中的混合块设计。在多感觉混合任务块中，前后两个刺激通道相同时（V-V，A-A或者AV-AV），是通道重复条件；前后两个刺激通道不同时（A-V或者V-A），即为通道转换条件。除了对比AV 和A，V条件下地反应时会出现冗余信号效应之外，根据任务转换中前后两种任务不同时会产生转换代价，在多感觉刺激混合任务中应该也能观察到类似的跨通道转换代价和混合代价。
+
+已经有很多研究证实了这种猜想，例如 Spence 等(2001)给参与者随机呈现一系列视觉，听觉和触觉刺激，前后刺激通道相同时，平均反应时比通道不同时显著减小，产生了通道转换代价。同样地，Shaw 等在实验中分别给出单一视觉刺激，单一听觉刺激还有混合多感觉刺激，要求参与者尽可能快地做出反应，在结果中出现了跨通道转换代价和混合代价(Shawetal.,2020)。但是需要注意的结果是，当刺激是在单通道和双通道之间转换时（例如A-AV,V-AV 等），通常反应损失会减小甚至消失。这种因为前后刺激通道不一致比通道一致产生的反应速度降低的现象被称为跨通道转换效应(孙远路等，2011)
+
+# 3.2转换代价与RSE的关系
+
+由上可知，当转换是发生在不同通道刺激之间时，依然存在转换代价，损失来源是通道转换效应。这种跨通道转换代价的存在对RSE 中单纯的多感觉协同激活的解释模型产生质疑(Shaw et al.,2020)。因为转换代价和混合代价的存在，即使行为数据违背了竞赛模型，双感觉反应时间的加速效应也可能是因为混合组块中的单通道感觉刺激之间存在转换损失而导致单一感觉平均反应时变长，而不是双通道感觉反应时缩短(Shaw et al.,2020)。Barutchu和Spence(2021)在实验中证实跨通道转换效应会潜在地提高多感觉反应易化效应，RSE 使得多感觉通道条件下的反应变快，跨通道转换效应使得单一通道条件的反应变慢，总体反应时更小。根据上述 RSE 有关的神经加工机制，在刺激驱动和认知的调控下多感觉整合会发生在信息加工的某一阶段，所以混合模块中单一通道感觉的反应减缓（通道转换效应）和双通道感觉的反应加速（共同激活模型）之间并不是非此即彼的。总之，跨通道转换效应可以为RSE 的来源提供一种新的解释思路，通道转换促进了多感觉反应易化，并且与共同激活模型不是完全对立的。
+
+# 3.3神经机制
+
+目前很少有实验使用脑电或功能磁共振等技术同时对跨通道转换效应和冗余信号效应的神经影像进行对照研究。EIkhetali等(2019)利用功能磁共振研究了在多感觉通道刺激输入的条件下，任务类型在视觉和听觉任务转换时，相关脑区功能连接的差异。结果显示，在处理当前相关任务时，背外侧前额叶皮层，腹外侧前额叶皮层和额下回区域与感觉皮层的功能连接增强且与刺激的通道类型无关(Elkhetali etal.,2019)。但是在这次实验中，Elkhetali 等并没有比较通道重复条件和通道转换条件下的脑区连接差异，研究跨通道转换效应相关的神经加工机制。结合上文提到的任务转换和RSE 的神经加工机制，猜测当刺激是多通道呈现时，跨通道转换条件下额顶叶网络包括前额叶皮层，额叶内侧和顶叶皮层会有额外激活，对比冗余信号和单通道信号条件时，初级感觉皮层，颞叶和额顶叶区域的活动强度可能会增强。相应地，跨通道转换条件下的 $\mathbf {  { a } }$ 和 $\beta$ 波的神经振荡活动也应该会表现出转换效应和混合效应，而 RSE 的存在会影响转换条件下振荡的相位同步性变化。
+
+# 4、小结与展望
+
+本文介绍了认知加工过程中的两种不同效应，一种是多感觉整合过程中的冗余信号效应，另一种是任务转换中的反应损失效应。而在RSE 有关的研究中，我们发现了跨通道转换效应。这种跨通道转换效应将上述两种不同的现象联系在一起，不但为多感觉整合中的冗余信号效应提供了另一种可能的解释，也使得跨通道转换效应成为之后研究多感觉整合过程中不可忽视的一个因素。由于当前有关任务转换的研究很少从多感觉通道任务转换的角度研究转换代价，尤其是神经影像学方面的研究更加缺乏，所以跨通道转换效应的发现可能为任务转换代价来源的研究提供不同的方向。
+
+# 4.1跨通道转换代价的来源
+
+任务转换过程中会产生反应损失，对于损失的来源主要有两种观点，任务重建和任务设置惯性(史艺荃和周晓林，2004)。虽然对于跨通道转换效应的具体来源还没有足够的实验证据的支撑，但是我们可以根据经典任务转换损失的来源对跨通道转换效应的来源做出假设。也即是，当响应从对一种通道刺激转移到另一种通道刺激时，不但前后的注意资源分配会有所差异，而且也会有自上而下的认知加工对前一个试次处理的抑制作用，所以会存在转换损失。
+
+当发生转换的两种任务的刺激是通过不同通道呈现时，任务转换和通道转换会同时出现，那么任务转换和感觉通道的转换都会产生显著的转换代价(Sandhu&Dyson,2013)。研究结果还发现，通道和任务同时发生转换产生的代价分别大于单独的跨通道转换代价和任务转换代价，但是小于两种代价的总和，即出现了次加性效应(Peng etal.,2018)。研究者认为这种次加性效应表明了跨通道转换和任务转换过程既是相互依赖又是相互独立的。一方面，当通道和任务都发生转换时，通道的转换（如视觉到听觉）使得完成不同任务涉及到的神经通路的重叠减少，转换后的任务受到之前任务设置的干扰小，减少了反应时损失，进而跨通道转换和任务转换过程得以分离，在一定程度上相互独立。尽管缺乏相关神经基础证据的证实，但是这一结果似乎为转换代价来源于之前任务设置的惯性和干扰提供了支持，未来的研究中可以进一步探究。另一方面，研究者认为存在一个共同的认知处理中枢对两种转换过程起作用，这种认知中枢体现在额顶叶网络。然而，额顶叶网络的具体加工过程及神经机制需要在以后的研究中继续探索。
+
+# 4.2跨通道转换效应对RSE共同激活模型理论的补充
+
+根据共同激活模型理论，多感觉信号会在加工过程中进行整合，整合后的信号更快地触发反应，然而现在为止不同模态刺激的整合加强具体发生在加工过程的哪个阶段这一问题仍然没有被证明。有研究者发现，当转换是发生在两种不同的单通道之间，信息处理会有显著的时间损失；但是当反应是在多通道和单通道之间转换时，转换效应则不稳定甚至不会观察到转换代价(Barutchu & Spence,2021; Shaw et al.,2020)。我们认为这种转换代价的消失可能是由于同时发生的RSE 抵消了转换造成的损失，从而支持共同激活模型理论，并且多感觉信号的整合加工也可能对转换过程中的神经机制产生影响。当任务转换范式中的刺激是视听同时呈现，RSE 的存在可能会抵消转换造成的反应损失，影响转换过程中神经振荡的同步性变化和相关脑区的激活强度。在后续的实验中可以通过分离跨通道转换和 RSE 这两种效应对反应时的影响来验证这一假设，并结合脑神经相关技术，比较两种效应的作用机制，确定多感觉信号整合发生在认知加工的哪一阶段，完善共同激活模型理论。
+
+# 4.3多感觉整合范式的改进
+
+为了解决上述提出的跨通道转换代价来源以及共同激活发生阶段等问题，对现有的任务转换范式和多感觉反应范式进行改进。首先，把RSE研究范式和任务转换经典范式相结合，比如两种任务分别是判断数字的奇偶或大小，而每一个数字刺激的呈现形式包括图片(V)和音频(A)，刺激呈现的通道方式包括A-A-A...，V-V-V...,，AV-AV-AV...，每一种模块中都会包含任务重复条件和转换条件，通过对比重复条件和转换条件下RSE 的大小，分析转换效应对冗余信号效应的影响。其次，在单通道任务转换范式中加入跨通道转换条件，比如数字刺激分别以视觉和听觉的形式随机呈现，这样转换可以发生在通道间，通道内或同时出现，通过比较两种转换同时发生和单独发生时脑区激活位置差异和强度差异，进一步定位两种转换过程共有的认知处理中枢。
+
+此外，跨通道转换代价是由于前后神经回路的改变还是由于自上而下的认知加工转换导致的还无定论，为了确定跨通道转换代价的来源，可以在实验中增加数字，文字或者具有不同意义的图片这些需要额外认知加工的刺激信号，与经典RSE 研究中的无意义音频或图形进行条件对比研究。最后，目前对跨通道转换的研究主要集中在听觉和视觉两个通道，然而当冗余信号是听觉或视觉同其他感觉通道（如嗅觉或触觉）的组合时，是否还能观察到同样稳定的跨通道转换代价并促进多感觉信号的反应易化效应，仍需在之后的研究中进一步探究。
+
+# 参考文献
+
+史艺荃，周晓林.(2004).执行控制研究的重要范式——任务切换．心理科学进展,12(005),672-679.孙远路，胡中华，张瑞玲，寻茫茫，刘强，张庆林.(2011).多感觉整合测量范式中存在的影响因素探讨．心理学报,43(11),1239-1246.https://doi:10.3724/SP.J.1041.2011.01239
+
+Barutchu,A.,& Spence, C.(O21).Top-down task-specific determinants of multisensory motor reaction time enhancementsand sensory switch costs. Experimental Brain Research， 239(3)，1021-1034. https://doi.0rg/10.1007/s00221-020-06014-3
+
+Bastos,A..,Vezoli,J.,Bosman,C.A.,Schoffelen,J.M.,Oostenveld,R.,DowdallJ.R,..Fries,P.(15). Visual areas exert feedforward and feedback influences through distinct frequency channels. Neuron, 85(2),390-401. http://dx.doi.org/10.1016/j.neuron.2014.12.018
+
+Bauer,A.R.,Debener,S.，& Nobre,A.C.(202O).Synchronisation of Neural Oscilations and Cross-modal Influences. Trends in Cognitive Sciences,24(6),481-495.https://doi.org/10.1016/j.tics.2020.03.003
+
+Blurton, S.P.,Greenlee,M. W.,& Gondan,M. (2014). Multisensory processing ofredundant informationin go/nogoand choice responses. Attention Perception & Psychophysics， 76(4)， 1212-1233. https://doi.0rg/10.3758/s13414-014-0644-0   
+Capizzi,M.,Ambrosini,E.,Arbula, S.,& Valesi,A. (202O). Brain oscillatory activityassociated with switchand mixingcostsduringreactivecontrol.Psychophysiology，57(11)，Articleel3642. https://doi.0rg/10.1111/psyp.13642   
+Cappe,C.,Morel,A.,&Rouiller,E.M.(2oo7).Thalamocorticaland thedual pattern ofcorticothalamic projections of the posteriorparietal cortex in macaque monkeys. Neuroscience， 146(3)， 1371-1387. https://doi.org/10.1016/j.neuroscience.2007.02.033   
+Cooper,P. S.,Dariba, A.,Karayanidis,F.,& Barcelo,F. (2O16). Contextually sensitive power changes across multiplefrequencybandsunderpincognitivecontrol.Neuroimage,132， 499-511. https://doi.org/10.1016/j.neuroimage.2016.03.010   
+Cooper,P.S.,Karayanidis,F.,McKewen,M.,McLelln-Hall,S., Wong,A.S.W.,Skippen,P.,& Cavanagh,J.F. (2019).Frontal theta predicts specific cognitive control-induced behavioural changes beyond general reaction time slowing. Neuroimage,189,130-140. https://doi.org/10.1016/j.neuroimage.2019.01.022   
+Cooper,P.S.,Wong,A. S.W.,McKewen,M., Michie,P.T.,& Karayanidis,F. (2017).Frontoparietal theta Oscillations during proactive control are associated with goal-updating and reduced behavioral variability. Biological Psychology,129,253-264. http:/dx.doi.org/10.1016/j.biopsycho.2017.09.008   
+Dosenbach,N. U.F.,Fair,D.A.,& Miezin,F.M. (2oo7). Distinctbrain networks foradaptive and stable task control in humans.Proceedings of the National Academy of Sciences of the United States of America,104(26), 11073-11078. https://doi.org/10.1073/pnas.0704320104   
+Dove,A.,Pollmann,S.,Schubert,T.,Wiggins,C.J.,&Yvesvon Cramon,D.(20o).Prefrontal cortexactivation in task switching: An event-related fMRI study. Cognitive Brain Research, 9(1)，103-109. https://doi.0rg/10.1016/s0926-6410(99)00029-4   
+Elkhetali,A.S.,Fleming,L.L.,Vaden,R.J.,Nenert,R., Mendle,J.E.,& Visscher,K.M.(2019).Background connectivity between frontal and sensory cortex depends on task state, independent of stimulus modality. Neuroimage,184,790-800. htps://doi.org/10.1016/j.neuroimage.2018.09.040   
+Foxe, J. J.,Murphy,J.W.,&De Sanctis,P. (20l4).Throwing out therules: Anticipatory alpha-band oscillatory
+
+attention mechanisms during task-set reconfigurations.European Journal of Neuroscience,39(11),1960-
+
+1972.https://doi.org/10.1111/ejn.12577   
+Gondan, M.,& Minakata, K. (2016). A tutorial on testing the race model inequality. Atention Perception & Psychophysics,78(3),723-735. https://doi.org/10.3758/s13414-015-1018-y   
+Hershenson,M. (1962).Reactiontime as a measure of intersensory facilitation.Journal ofExperimental Psychology 63(3),289-293. https://doi.0rg/10.1037/h0039516   
+Innes,B.R., & Otto,T. U. (2o19). Acomparative analysis ofresponse times shows that multisensory benefits and interactions are not equivalent. Scientific Reports,9(1),2921. htps://doi.0rg/10.1038/s41598-019-39924- 6   
+Keil,J.,& Senkowski,D.(20l8).Neural Oscillations Orchestrate Multisensory Processing.The Neuroscientist, 24(6), 609-626. https://doi.0rg/10.1177/1073858418755352   
+Maslovat,D.,Haj,J.,& Carlsen,A.N. (20l8). Coactivation ofresponseinitiation processes withredundantsignals. Neuroscience Lettrs, 675,7-11. https://doi.org/10.1016/j.neulet.2018.03.029   
+Mercier,M.R.,Foxe,J.J.,Fiebelkorn,I.C.,Butler,J.S.,Schwartz,T.H.,&Molholm,S. (203).Auditory-driven phase reset in visual cortex: Human electrocorticography reveals mechanisms of early multisensory integration. Neuroimage,79,19-29. https://oi.org/10.1016/j.neuroimage.2013.04.060   
+Mercier,M.R.,Molholm,S.,Fiebelkor,I.C.,Butler,J.S.,Schwartz,T.H.,&Foxe,J.J.(2015).Neuro-oscillatory phase alignment drives speeded multisensory response times: An electro-corticographic investigation. The Journal of Neuroscience, 35(22), 8546-8557. https://doi.0rg/10.1523/JNEUROSCI.4527-14.2015   
+Miler, J. (1982). Divided atention: Evidence for coactivation with redundant signals. Cognitive Psychology，14, 247-279. https://doi.rg/10.1016/001-0285(82)90010-x   
+Miller,J. (20l6).Statisticalfacilitation and the redundant signals effect: What are race and coactivation models? Attention Perception & Psychophysics,78(2),516-519. htps://doi.0rg/10.3758/s13414-015-1017-z   
+Otto,T. U.,& Mamassan, P. (2017). Multisensory Decisions: the Test of a Race Model, ItsLogic,and Power. Multisensory Research, 30(1),1-24. htps://doi.org/10.1163/22134808-00002541   
+Peng, A., Kirkham, N. Z, & Mareschal, D. (2018). Information proceses of task-switching and modality-shifting across development. PLOS ONE,13(6),Article e0198870. https://doi.org/10.1371/journal.pone.0198870   
+Proskovec,A.L., Wiesman, A.1,& Wilson,T. W. (2019). The strength of alpha and gamma oscilations predicts behavioral switch costs. Neuroimage,188,274-281. htps://doi.org/10.1016/j.neuroimage.2018.12.016   
+Raab,D. H. (1962). Statistical facilitation of simple reaction times. Transactions of the New York Academy of
+
+Sciences,24,574-590.https://doi.org/10.1111/j.2164-0947.1962.tb01433.x
+
+Regenbogen,C.，Seubert,J.,Johansson,E.,Finkelmeyer,A.，Andersson,P.,&Lundstrom,J.N.(2018).The intraparietal sulcus governs multisensory integration of audiovisual information based on task difficulty. Human Brain Mapping,39(3),1313-1326.https://doi.org/10.1002/hbm.23918
+
+Rogers,R.D.,& Monsell,S.(1995). Costs of a predictable switch between simple cognitive tasks.Journal of Experimental Psychology: General,124(2),207-231. https://doi.org/10.1037/0096-3445.124.2.207
+
+Sandhu,R.,& Dyson,B.J.(2Ol3).Modality and task switching interactions using bi-modal and bivalent stimuli. Brain and Cognition,82(1),90-99.http://dx.doi.org/10.1016/j.bandc.2013.02.011
+
+Shaw,L.H.,Freedman,E.G.,Crosse,M.J.,Nicholas,E.,Chen,A.M.,Braiman,M.S.,...Foxe,J.J.(2020). Operating in a Multisensory Context: Assessing the Interplay Between Multisensory Reaction Time FacilitationandInter-sensoryTask-switchingEffects.Neuroscience,436, 122-135. https://doi.org/10.1016/j.neuroscience.2020.04.013
+
+Sohn,M.-H.,Ursu,S.,Anderson,J.R.,Stenger,V.A.,& Carter,C.S.(2o).The role of prefrontalcortex and posterior parietal cortex in task switching. Proceedings of the National Academy of Sciences of the United States of America, 97(24),13448-13453. htps://doi.org/10.1073/pnas.240460497
+
+Spence,C.,Nichols,M.E.R.,&Driver,J. (2ool).Thecost of expecting events inthe wrong sensory modality Perception & Psychophysics, 63(2),330-336.https://doi.org/10.3758/bf03194473
+
+Spitzer,B.,& Haegens,S.(2017).Beyond the Status Quo:A Role for Beta Oscilations in Endogenous Content (Re)Activation. Eneuro,4(4),Article e0170-17. http://dx.doi.org/10.1523/ENEURO.0170-17.2017
+
+Stickel,S.,Weismann,P.,Kelermann,T.,Regenbogen,C.,Habel,U.,Freiherr,J.,&Chechko,N.(2o19).Audio visual and olfactory-visual integration in healthy participants and subjects with autism spectrum disorder. Human Brain Mapping,40(15),4470-4486.https://doi.org/10.1002/hbm.24715
+
+Van Atteveldt,N.,Murray,M.M.,Thut, G.,& Schroeder, C.E. (2014).Multisensory integration: Flexible useof general operations. Neuron, 81(6),1240-1253.http://dx.doi.org/10.1016/j.neuron.2014.02.044
+
+Van der Stoep,N., Spence,C.,Nijboer,T.C.,& Van der Stigchel, S. (2015). On the relative contributions of multisensory integration and crossmodal exogenous spatial attntion to multisensory response enhancement.Acta Psychologica,162,20-28. htp://dx.doi.org/10.1016/j.actpsy.2015.09.010
+
+Wu,S.,Hitchman,G.,Tan,J.,Zhao,Y.,Tang,D.,Wang,L.,& Chen,A.(2O15).The neural dynamic mechanisms of asymmetric switch costs in a combined Stroop-task-switching paradigm. Scientific Reports,5,10240. https://doi.org/10.1038/srep10240
+
+# The modality shifting effects in the multisensory integration paradigm
+
+GUAN Lei1 ²,LUO Wenpei 1, ², HAN Jiahui1 2\* lResearch Center of Brain and Cognitive Neuroscience,Liaoning Normal University,Dalian l16029,China
+
+²Key Laboratory of Brain and Cognitive Neuroscience,Liaoning Province,Dalian 116o29,China
+
+AbstractThe signals from different sensory channels could be integrated and processed in brain. Compared with stimulus from a single sensory modality, the individual responses was faster for the multisensory target signals. One theory explaining this phenomenon is the co-activation model. According to the co-activation model,the signals input through multiple sensory channels would be integrated in specialized brain regions, such as the intraparietal sulcus, superior temporal sulcus and prefrontal lobe regions.The strength of the integrated signal is stronger, which could trigger the reaction more quickly. However, the integration of the multisensory signals has not been concluded to occur in which phase of the cognitive processing. When the task is switched between different modalities,the cost of task switching associated with the cross-modal is less than the sum of the modality switching cost and the single task switching cost， which provides evidence for the hypothesis that the switching cost associated with different sensory channels are derived from inertia and interference of the task set. Moreover, when modality switching occurs between single-modal and multi-sensory, the modality switching cost will reduce even disappear,which is due to the multisensory integration offset a part of los. This supports the co-activation model. However, it's unknown how the multi-sensory integration affects the nerve processng of the task switch. We could try to solve it by combining the multisensory integration research paradigm with the classic task switching paradigm, further to determine the processing mechanism of the cross-modal shift and the processing phase of multisensory integration.
+
+Keywords multisensory integration, redundant signal effect, modality shift effect, task switching

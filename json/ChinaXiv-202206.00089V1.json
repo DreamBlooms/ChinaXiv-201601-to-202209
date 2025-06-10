@@ -1,0 +1,433 @@
+[
+    {
+        "type": "text",
+        "text": "组织中绩效压力的双刃剑效应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "加锁锁1，郭理1，蔡子君²，毛日佑",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(对外经济贸易大学国际商学院，北京 100029)(北京师范大学经济与工商管理学院，北京 100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "( 西南财经大学工商管理学院，成都 611130)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 市场经济的复杂多变给组织生存与发展带来诸多挑战，组织往往对员工提出高的绩效要求，绩效压力已成为普遍现象。现有研究大多关注绩效压力的消极效应，存在忽视其积极结果及理论视角较窄等不足。因此，系统、全面地认识绩效压力的双刃剑效应，有助于组织充分发挥绩效压力的积极效应及阻遏其消极效应。通过系统地回顾和梳理相关研究，在将绩效压力影响效果的研究分为积极、消极和二者并存的曲线效应三个类别后，引入压力认知评价理论、资源保存理论等理论厘清研究背后的解释机制。最后，基于以上梳理分析，未来研究应进一步拓展组织中绩效压力的双刃剑效应及其边界条件，从而更全面地认识组织中绩效压力所产生的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 绩效压力，双刃剑效应，边界条件 图书分类号：C93 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着市场竞争环境日益激烈，组织往往对员工提出高绩效水平的要求(Sitkin etal.,2011)。与此同时，新冠疫情带来市场不确定性(Altig etal.,2020)，使得职场竞争压力加剧，“内卷”成为近年来的职场热词。在此高压背景下，员工普遍面临绩效压力(林英晖，于晓倩,2020;Ye et al.,2019)。组织绩效要求伴随的员工提高绩效水平的紧迫性，这一事件刺激被称为绩效压力(Gardner,2012;Mitchelletal.,2019)。职业成长平台“脉脉”与教育平台“开课吧”发布的《中国职场压力报告2021》显示：约 $39 \\%$ 的职场人认为绩效目标难以达成会造成职场压力，这样的压力可能使他们情绪崩溃或选择离职。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然绩效压力可能导致员工焦虑不安(李志成 等,2018)，并产生一系列负面后果，但关于“绩效压力总是有害的”这一认识可能存在片面理解。最新研究表明绩效压力可以成为一种挑战，激励员工工作投入(Kundi et al.,2022;Mitchell et al.,2019)。由此可见，绩效压力是一把双刃剑，即既具有线性的积极效应和消极效应，且还具有两种影响合并的曲线效应。那么，绩效压力还可能带来哪些积极效应？何种情境因素下绩效压力的积极效应更突出、消极效应更弱？组织该如何弱化绩效压力的负面效应，扩大其积极效应？以上问题亟待引起实践者与研究者的关注与重视。由于绩效压力在组织管理领域的研究仍处于起步阶段，推进组织管理领域中有关绩效压力的研究，并指导相关的管理实践非常必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于以上观点，本文首先回顾绩效压力的概念并做概念辨析，其次，引入“双刃剑”视角，回顾及总结绩效压力的积极、消极和二者并存的曲线效应研究。通过文献的梳理，本文呼吁未来研究可以基于社会交换理论、垂滴效应等深入探索绩效压力双刃剑效应，以期全面揭示绩效压力的利弊影响及内在过程机制，并探讨各类情境因素在以上过程中的边界效应。通过以上研究体系，本文将推动我们更为系统、深刻地理解绩效压力这种愈发普遍存在的工作经历，进而更好地帮助组织在实践中针对绩效压力进行扬长避短。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2绩效压力的概念及与其他压力源概念的对比分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1绩效压力的概念 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "“Performance pressure”一词最早出现于教育、体育、艺术表演等领域的文献中(e.g.,Baumeister& Steinhilber,1984；Paulus& Cormelius,1974)，也可称为\"表演压力”，被看作是能提高人们对特定场合表现结果重视程度的一系列因素组合(Baumeister,1984)。Eisenberger和Aselage(2009)将绩效压力引入到组织管理领域，将绩效压力定义为一种态度系统，包括对绩效不足的负面评价导向，认为当前绩效不足以实现预期目标的信念，及与这种态度和信念有关的负面情感反应。在 Eisenberger 和 Aselage(2009)的定义中，绩效压力主要被看作为员工的一种主观消极情感体验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着研究的演进，Gardner(2012)、Mitchell 等(2018)及Mitchell 等(2019)将绩效压力视为一种压力源，是组织或外部对员工提出高绩效要求的体现。通过梳理已有文献对于绩效压力的定义(Wallace & Baumeister,2002; Eisenberger & Aselage, 2009; Gardner,2012; Kundi et al.,2022; Mitchell et al.,2018,2019; Ye et al.,2019)，本文认为Mitchell等(2019)对于绩效压力的定义更贴近实践中的组织情境，且其定义也获得国内学者的广泛认同(e.g.，范晓倩，于斌,2021；李志成 等,2018；叶晓倩 等,2021)。因此，绩效压力是指组织绩效要求伴随的员工提高绩效水平的紧迫性；绩效压力是一种独特的、动态的工作压力源；满足绩效要求往往使得",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "员工获得或维持某些东西(如加薪、升职)，不满足往往置员工于不利处境(如减薪、降级)。  \n表1为各学者对于绩效压力的定义或看法。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6c8ed171cd0754b8c2f471151cb6e6e402912b62f45129e4c96a20994b83ab7.jpg",
+        "table_caption": [
+            "表1各学者对绩效压力的定义"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者</td><td>年份</td><td>定义</td></tr><tr><td>Wallace 和 Baumeister</td><td>2002</td><td>绩效压力涉及到做好工作的重要性。</td></tr><tr><td>Eisenberger 和 Aselage</td><td>2009</td><td>对目标的强烈承诺与对目标达成的渴望相对应，往往会让个体产生 高绩效是必要的这样一种令人不安的感觉，这种体验被称为绩效压 力。具体而言，绩效压力是一种态度系统，包括对绩效不足的负面</td></tr><tr><td>Gardner</td><td></td><td>评价导向，认为当前绩效不足以实现预期目标的信念，及与这种态 度和信念有关的负面情感反应。 2012绩效压力是一组三个相互关联的因素，它们增加了团队交付卓越成 果的重要性，即共享成果责任制，对团队工作的高度监察和评估， 及与团队绩效相关的重要结果。对团队施加绩效压力的对象通常是</td></tr><tr><td>Mitchell, Baer,Ambrose,2018 Folger 和Palmer</td><td></td><td>接受、检查或使用团队产品的客户或老板。 绩效压力是工作压力的来源之一，它要求员工提高绩效，否则员工 将面临负面的结果。</td></tr><tr><td>Mitchell, Greenbaum,</td><td>2019</td><td>绩效压力是一种独特的、动态的工作压力源；组织对员工提出绩效</td></tr><tr><td>Vogel,Mawritz和 Keating</td><td></td><td>要求；满足绩效要求往往使得员工获得或维持某些东西(如加薪、升 职)，不满足往往置员工于不利处境(如减薪、降级)，由此造成提高</td></tr><tr><td></td><td></td><td>绩效水平的紧迫性，这样的事件刺激被称为绩效压力。</td></tr><tr><td>Ye,Wang 和 Guo</td><td>2019</td><td>绩效压力由外部施加的力量引起。</td></tr><tr><td>Kundi, Sardar和Badar</td><td>2022</td><td>绩效压力是指员工认为当前绩效不足以满足预期目标。由于绩效结</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2绩效压力与其他压力源的对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了强调绩效压力研究的重要性，将其区别于其他相近概念，本文将进行概念解析，并总结各压力源的定义及其侧重的方面(见表2)。首先，绩效压力与工作负荷有所不同(Kundiet al.,2022)。工作负荷(workload)体现的是组织对员工的工作要求，是指员工在组织中承担的工作量(Hockey,1997; Van den Broeck et al.,2010)。由此，工作负荷强调员工承担的工作数量。其次，时间压力(time pressure)通常由强加给人们的最后期限引起(Kerstholt,1994)，往往出现于谈判或处理紧急事件的场景。在有时间压力的情况下，时间时刻在动态变化，这意味着人们需要在动态中实时做出决策(Brehmer,1992)。因此，时间压力强调完成任务所需的时间紧迫性。然而绩效压力是由绩效水平对应的不同结果引起的员工需达成高绩效的紧迫性，比如高绩效与员工重视的东西相关(如加薪、升职)，低绩效则置员工于不利处境(如减薪、降职)(Mitchellet al.,2019)。因此三个概念相比较而言，工作负荷强调员工需承担更大量的工作任务，时间压力强调由最后期限引起的时间紧迫性，而绩效压力侧重强调组织或外部高绩效水平的要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e8f63db79451594c9b3f2b9259bd7b9f2c4ac2e069f40912c9ccab7c8dfe51f.jpg",
+        "table_caption": [
+            "表2绩效压力与工作负荷、时间压力的定义及区别"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>作者</td><td>年份</td><td>定义</td><td>侧重强调</td></tr><tr><td>Van den Broeck,De2010 Cuyper,De Witte</td><td></td><td>工作负荷：员工在组织中承担的工员工需承担更大量的工作任务。 作量。</td><td></td></tr><tr><td>和 Vansteenkiste Kerstholt</td><td></td><td>1994时间压力：时间压力是由强加给人强调时间的紧迫性，多出现在谈判 们的最后期限引起的。</td><td>或紧急事件处理的场景；通常需要</td></tr><tr><td>Mitchell,</td><td>2019</td><td></td><td>满足最后期限(deadline)。</td></tr><tr><td>Greenbaum, Vogel,</td><td></td><td>绩效压力：组织对员工提出高绩效</td><td>员工面临组织或外部高绩效水平的 要求；不能达成绩效目标直接损害</td></tr><tr><td></td><td></td><td>要求；潜在的积极或消极后果，使得</td><td></td></tr><tr><td>Mawritz 和 Keating</td><td></td><td>提高绩效水平具有一种紧迫性，这个人重大利益。 样的事件刺激被称为绩效压力。</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3绩效压力双刃剑效应研究的理论基础",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前有关绩效压力的研究主要围绕压力认知评价理论、资源保存理论、自我调节、自我控制和工作要求-控制模型等理论展开，然而多数学者只挖掘了绩效压力所产生的单面效应，较少研究基于某类理论同时探索绩效压力积极与消极影响。为了弥补以上不足，本文将介绍每种理论的核心思想，总结每种理论在绩效压力研究中的应用现状与不足。同时，结合每类理论分析其对绩效压力双刃剑效应研究的启示，并比较不同理论视角下绩效压力双刃剑影响机制的差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1压力认知评价理论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "压力认知评价理论(Cognitive appraisal theory of stress; CATS)是由 Lazarus 和 Folkman 两位学者于1984 年提出的。Lazarus 和Folkman(1984)将压力看作是一种个体适应内外部环境的系统过程，在这个过程中一方面要考虑个体的因素，另一方面也需考虑环境事件的性质。在适应环境的过程中个体会经历某些遭遇(encounter)或刺激(stimulus)，根据这些刺激对于个体福祉的重要性，个体会对刺激及刺激的不同方面进行归类，这一归类的过程被称为认知评价。CATS认为，人们会对刺激进行初级评价、次级评价和重新评价：初级评价是指人们初步判断这样的刺激是否与个人福祉相关以及相关程度；次级评价中，人们会评估自己可以做些什么及拥有哪些资源及能力，以应对环境刺激；重新评价阶段涉及到人们根据来自环境的新信息考虑是否修改或维持评估。综合现有基于CATS对于绩效压力的研究，学者们主要探讨初级评价和次级评价中人们对绩效压力的反应(如李志成 等，2018;Mitchelletal.,2019;唐倩,2020)。具体而言，学者们主要围绕CATS 提出的初级评价中的两个路径展开对绩效压力的研究，即将绩效压力评估为威胁或者挑战。当绩效压力被评估为一种威胁时，员工可能面临自我调节损耗 (Mitchell etal.,2019)、职场焦虑(李志成 等,2018)或降低工作投入(Kundiet al.,2022)；当员工认为绩效压力是一种挑战时，他们会提高工作活力和创新行为(尤丽娇，2020)、工作投入水平(Kundi et al.,2022;Mitchellet al.,2019；周本军,2018)、任务熟练度及公民行为(Mitchell etal.,2019)。以上研究认为绩效压力的挑战和威胁路径分别导致积极和消极结果。也有文献引入CATS 视角，研究结果表明绩效压力可以刺激创造力，即绩效压力通过挑战评估刺激认知灵活性进而促进创造力，绩效压力也可以正向预测威胁评估并刺激认知持续性从而提高创造力(范晓倩，于斌,2021)。综合以上研究，学者们认为绩效压力的挑战评估通常导致积极结果，而威胁评估可以导致消极结果或积极结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2资源保存理论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "资源保存(Conservation of resources; COR;Hobfoll,1989)理论可用于理解组织中的压力现象及后续效应(Hobfoll et al.,2018)。Hobfoll (1989；2011)认为资源是获得或损失均会影响人类幸福的事物，人们往往努力获取、维持、培养和保护他们珍视的资源。资源大致可分为四类，分别是物质资源(如房屋)、条件资源(如婚姻关系)、个体特征资源(如自我效能)和能量资源(如知识)。COR理论指出当个体遭遇压力事件，若不能阻止资源的损耗，则会面临资源加速流失的处境，即陷入损失螺旋；与之相对应，个体也可能在压力事件下，利用已有资源储备应对压力，以挽回或阻止资源损失，在此过程中，个体甚至可以获得新的资源，即进入获得螺旋(Hobfoll,2001；廖化化 等,2022)。此外,COR理论与CATS 两理论存在区别(Hobfoll,2011)，具体而言，CATS 更强调个体的、具体的评价(Hobfoll,2011; Hobfoll et al.,2018)；而COR 理论更看重压力源的客观压力性质，强调压力感知的决定性来源是压力源，并且个体可以利用积累的资源来应对压力源 (Hobfoll etal.,2018；廖化化 等,2022)。基于资源保存理论，面临过高绩效压力的员工会认为自己难以达到预期目标，进而面临损失相应资源甚至不能获取新资源，伴随产生的是一系列的消极情绪，如沮丧、焦虑，这类消极情绪达到一定的程度会诱发工作退缩行为(叶晓倩 等,2021)。此外，在组织当中，领导与下属之间资源和权力分配失衡(Wee etal.,2017)，因此，当领导承受绩效压力时，领导认为自己的潜在或实际资源会遭受损失，这意味着领导可能要求下属承担更多角色外工作以帮助领导达成绩效目标，致使下属感到高的组织公民压力(严紫瑜 等,2021)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3其他主要理论视角",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "绩效压力双刃剑效应研究的其他主要理论视角有自我调节(Self-regulation)、自我控制(Self-control)，及工作要求-控制模型(Job demand-control model; JDC 模型)。自我调节以目标为导向，是一种专注于实现当前目标的过程，并在追求目标的过程中个体调节自己的思想、情绪、注意力等，且在当前状态偏离期望的时候予以调节(Carver& Scheier,1998;Vohs &Baumeister,2016)。自我控制是指个体压制或抑制自动的、习惯性的或天生的行为、冲动、情绪或欲望(Baumeister et al.,2007; Muraven & Slessareva,2003；詹，任俊,2012)。多数情况下，自我调节和自我控制被学者们互换使用(Baumeister,2002；Baumeister etal.,2007；Vohs& Schmeichel,2003)。基于自我调节视角，一方面，当个体感知到当前进度落后于期望目标时，个体会产生动力和努力去实现目标(Carver& Scheier,1982; Koopmann et al.,2021)；另一方面，自我调节的能力会因自我控制需求(如人们需要控制自己的情绪)而暂时耗竭或疲劳，进而人们产生退缩、不表露信息等倾向(詹鋆，任俊,2012)。结合CATS，当员工将绩效压力视为一种挑战时，自我的积极指向目标的情绪和应对过程被激活，从而强化自我调节，激发员工的工作投入，继而提高员工的任务熟练度；而当员工将绩效压力视为一种威胁时，员工的注意力被集中在不能提高绩效以及相关负面结果上，从而导致自我调节损耗，进而引发不文明行为(Mitchelletal.,2019)。此外，在面对绩效压力时，员工需要进行认知控制和情绪调节，由此导致员工自我损耗,这种损耗进一步使得员工出现职场欺骗行为(李锡元，沈约,2019;李锡元，王伟叶,2020)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "工作要求-控制模型(Job demand-control model;JDC 模型)也被采纳为研究绩效压力双刃剑效应的理论之一。JDC 模型强调工作要求和工作控制是工作环境中的两大因素，工作要求主要指压力源或压力事件，工作控制指员工的决策权和员工的技能决定权，工作控制可以缓解工作要求的负面效应(郭靖 等,2014; Karasek,1979; Sonnentag&Frese,2012)。Karasek(1979)将工作要求和工作控制分为两个维度，并将其结合在一个 $2 { \\times } 2$ 的矩阵中，高低水平的要求和控制共组成4 种工作类型，其中高要求和低控制的组合对人们的健康和幸福产生最大损害，高要求和高控制的组合伤害最小，甚至促进个体进步。研究表明，每日绩效压力正向促进员工的工作重塑，且工作自主权对绩效压力与工作重塑之间的正向关系的促进作用不显著(蒋雨瑶，2019)。此外，绩效压力可以正向促进工作投入，且员工具有高目标学习导向水平时，工作控制对绩效压力与工作投入之间的正向关系有正向调节作用(周本军,2018)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4小结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由以上文献整理可知，当前基于CATS 视角，员工将绩效压力看作是一种个体遭遇的特定经历，并将其评估为一种威胁或挑战，威胁评估主要导致消极结果，而挑战评估往往引向积极结果；威胁和挑战两条路径是可以独立存在的，并各自发展后续效应(Mitchell et al.,2019)。绩效压力的COR相关文献则立足于资源视角均探讨消极路径，尚未探讨此理论视角下绩效压力的积极效应。自我调节或自我控制视角关注绩效压力的积极和消极效应，但未来还可以进一步探索。最后，基于JDC 模型，绩效压力可以产生积极作用，但消极效应尚未可知。综上，学者们已尝试从多个理论视角解读绩效压力的双刃剑效应(具体见表3)，然而对于COR此类可以多方面预测绩效压力效应的理论，尚未被深入挖掘；已有研究涵盖的理论视角仍较窄；目前侧重关注绩效压力的消极面，积极面虽有探索，但仍较少。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c947ad7e6a54b786d5a964dc459e8e7d2e8b26126ab2c4914bd46cf398c482f.jpg",
+        "table_caption": [
+            "表3基于不同理论视角绩效压力双刃剑效应的已有研究"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">自变量</td><td colspan=\"2\">主要理论 视角</td><td rowspan=\"2\">绩效压力的双刃剑效应</td><td rowspan=\"2\">代表性文献</td></tr><tr><td></td><td>激发挑战评估、认知灵活性、工作活力、工 积极</td></tr><tr><td rowspan=\"6\">绩效压力</td><td>CATS</td><td></td><td>作投入、创造力、任务熟练度、创新行为、 公民行为 诱发威胁评估、自我调节损耗、职场焦虑、</td><td>Kundi等(2022)；李志成 等(2018)；Mitchell等 (2019)；尤丽娇(2020);</td></tr><tr><td>COR理论</td><td>消极</td><td>降低工作投入、不文明行为 导致不合规任务感知、组织公民压力、职场</td><td>周本军(2018) 叶晓倩等(2021)；严紫瑜</td></tr><tr><td></td><td>消极 积极</td><td>焦虑、工作退缩行为 促进工作投入、任务熟练度、公民行为</td><td>等(2021) Mitchell 等(2019)</td></tr><tr><td>自我调节/ 自我控制</td><td>消极</td><td>导致自我损耗、职场欺骗行为、不文明行为</td><td>李锡元，沈约(2019);</td></tr><tr><td></td><td></td><td></td><td>李锡元，王伟叶(2020) 蒋雨瑶(2019);</td></tr><tr><td>JDC 模型</td><td>积极</td><td>促进工作重塑、工作投入</td><td>周本军(2018)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "：绩效压力的双刃剑效应研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为全面了解绩效压力会带来怎样的效应，本文进行了系统的文献搜集与整理。本文在Web of Science、EBSCO、Google Scholar、百度学术、中国知网和万方数据库以\"stress”、“pressure”、“performance pressure”、“压力\"和\"绩效压力\"为题名或关键词进行了检索。其次，利用 Google Scholar 的\"引用\"功能对重点研究(e.g.,Lazarus& Folkman,1984;Mitchell et al.,2019)进行引用追踪，确保没有遗漏重要文献。遵循前文逻辑，我们仍然引入“双刃剑”视角，对绩效压力影响机制的研究做一个总体介绍，并对已有研究进行简要评价。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1绩效压力的积极效应",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "现有文献认为，绩效压力对员工产生积极影响的主要前提是：员工将绩效压力评估为一种挑战。主要结果变量包括工作重塑、工作投入、任务熟练度、绩效改进、创造力、创新行为、公民行为、角色内行为、幸福感、团队绩效。例如，员工的每日绩效压力可以促进工作重塑(蒋雨瑶,2019)。绩效压力也可以正向促进工作投入(Kundi et al.,2022;Mitchellet al.,2019;林玉珊,2019；周本军,2018)。此外，员工会将绩效压力看作是一种挑战，进而提高任务熟练度和公民行为(Mitchell et al.,2019)，其内在逻辑是员工会将绩效的高要求视为职业发展、自我成长的机会，从而专注于实现目标(Gardner,2012;Ko&Choi,2019)；挑战性评估通过对分配任务的努力方向、水平和持久性来促进绩效水平的提高(LePine etal.,2005)。类似地，通过对软件行业工作人员的调查，数据分析发现绩效压力可以激发员工的学习意愿，这条路径同样可以促进员工的绩效改进(卜蒙,2013)。其次，范晓倩和于斌(2021)研究发现，不论员工将绩效压力视为一种挑战还是一种威胁，绩效压力都可以激发员工的创造力。类似地，Eisenberger 和 Aselage(2009)认为高绩效压力会提高员工对工作的内在兴趣，对工作有强烈兴趣的员工更愿意承担潜在风险，并且会积极考虑多种解决方案，进而提高创造力(高内在兴趣与高创造力接近显著)。绩效压力也可以通过调动员工的工作活力，激发员工的探索、学习精神，进而提高创新行为(尤丽娇,2020)。再者，绩效压力促使员工关注绩效任务的完成，提高员工的被物化感知，进而促进员工的角色内行为(Xu et al.,2021)。最新研究表明，绩效压力有助于提高员工的幸福感，如研究发现达到绩效目标可以使员工获利，因此，绩效压力刺激员工的积极情绪，进一步提高员工工作和生活幸福感(宋萌 等,2022)。最后，在团队层面，Gardner(2012)的研究显示绩效压力可以通过提高团队任务投入和努力导向，进一步提高团队绩效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2绩效压力的消极效应 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "绩效压力对员工的消极影响主要包括心理(如职场焦虑)、绩效、行为(如职场欺骗行为)等。以下，将分为个体和团队两个层面进行介绍。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）个体层面",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一，员工心理状态。以往研究探讨了绩效压力对于员工职场焦虑、工作不安全感、自我损耗及职业紧张等的影响。当员工面对绩效压力时，他们会感到威胁出现，并且认为这种威胁会让自己有失去工作的风险，随之产生工作不安全感(江雪柳，2018)。此外，绩效压力会提高员工的职场焦虑水平(李志成 等,2018；唐倩,2020;Xuetal.,2021)，即未能完成既定绩效目标可能会给员工带来惩罚或地位威胁，而且不能完成绩效任务还可能遭到旁人的轻视或排斥，因而绩效压力正向促进职场焦虑。再者，绩效压力的提高会加剧自我损耗(李锡元,沈约,2019)。最后，高校教师科研方面的绩效压力与职业紧张呈显著正相关关系(万利，杨河清,2018)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第二，员工工作投入或创造力。研究指出，当员工将绩效压力看作是一种威胁时，高绩效压力降低工作投入(Kundi et al.,2022; Mitchellet al.,2019)。具体而言，绩效压力的出现可能会使员工认为自己以往的努力无效(Zhang etal.,2017)；强化“提高绩效是困难的”这种认知；并且放大绩效压力的潜在不良后果。因此员工会将绩效压力评估为一种威胁，进而降低自己的工作投入(Kundi et al.,2022)。此外，绩效压力也会降低员工的创造力(Gardner,2012)，即员工面临绩效压力会\"在压力下室息(choke)”(Gardner,2012)，进而员工的创造力降低。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第三，员工亲组织非伦理行为。绩效压力对员工的亲组织非伦理行为产生正向影响(李志成 等,2018；江雪柳,2018；唐倩,2020)。此类研究普遍将绩效压力视为一种威胁员工自身的环境刺激。即在有绩效压力的情况下，员工将其视为一种威胁，这种威胁使得员工焦虑情绪伴随而生，从而促使亲组织非伦理行为发生(李志成 等,2018；唐倩,2020)。此外，也有研究发现工作不安全感在绩效压力和亲组织非伦理行为之间充当中介作用，即员工认为绩效压力威胁着当前的工作，甚至会有失去工作的担忧，进而从事亲组织非伦理行为(江雪柳,2018)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第四，员工职场欺骗行为。绩效压力与职场欺骗行为呈正相关关系，即随着绩效压力的增大，员工更可能做出职场欺骗行为(李锡元，沈约,2019；李锡元，王伟叶,2020;Mitchell etal.,2018;Spoelma,2021)。研究表明，员工在面临绩效压力时倾向于提高自我服务认知，从而从事职场欺骗行为(Mitchelletal.,2018)；而且，基于自我保护模型，绩效压力激发愤怒情绪，也会诱使员工产生欺骗行为(Mitchellet al.,2018; Spoelma,2021)。此外，绩效压力导致自我控制损耗，进而正向影响欺骗行为(李锡元，沈约,2019；李锡元，王伟叶，2020)。Baucus(1994)提出绩效压力可能导致低层次员工产生某类欺骗行为，如参与投标操纵或故意隐瞒产品缺陷的信息。最后，各大高校的教师都面临着巨大的科研考核压力，基于此，徐成东(2010)研究发现科研方面的绩效压力与科研诚信呈负相关关系，即科研绩效压力越大，科研人员越有可能降低自己的科研诚信。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "第五，其他方面。首先，绩效压力会唤醒员工的自我意识，即提高个体对自我意识的关注，从而削弱个体的绩效表现。Baumeister 和 Steinhilber(1984)、Gray(2011)研究发现绩效压力会导致个体有意识地关注任务实现的内部过程，而这种意识破坏了绩效目标的达成过程，并对绩效水平产生负面作用。换言之，绩效压力使得个体的注意力被引导到个体的内在表现过程和性格的自我意识，从而降低技能任务的表现。其次，将绩效压力评估为威胁，员工的自我调节能力下降，从而导致不文明行为(Mitchelletal.,2019)。再次，领导的绩效压力会给下属带来组织公民行为压力，从而导致下属有不合规任务感知的倾向(严紫瑜 等,2021)。此外，高绩效压力也会导致周围同事对员工实施贬损行为，进而降低员工自我的心理资本(Jang& Kim,2021)。最后，近期研究表明绩效压力会损害员工幸福感，即绩效压力刺激员工的消极情绪，消极情绪进一步降低员工工作和生活幸福感(宋萌 等,2022)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2)团队层面",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "现有研究主要关注团队绩效压力的消极影响，包括团队绩效压力对团队、员工个体的影响。首先，团队绩效压力会导致团队私利型伦理氛围的形成，继而促使团队成员做出亲团队非伦理行为(林英晖，于晓倩,2020)。其次，高的团队绩效压力会造成团队之间竞争加剧，而且团队在面对绩效压力时会过度依赖一般性的专业知识，容易忽视特定领域的专业知识运用(Gardner,2012)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3绩效压力的曲线效应",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "研究表明，绩效压力与相关结果变量呈现曲线效应，如团队绩效压力会造成团队成员产生工作退缩行为，二者呈U型关系：即临界点之前，随着团队绩效压力的增加，成员的退缩行为减少；一旦超过临界点，成员的退缩行为会逐渐增多(叶晓倩 等,2021)。不仅如此，叶晓倩等(2021)研究还发现，职场焦虑在团队绩效压力与退缩行为的关系之间起到中介作用，并且团队绩效压力与职场焦虑亦呈U型关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4小结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综合以上文献的梳理，学术界当前对绩效压力的研究取得了一定进展，但仍然存在诸多值得探索的空间。首先，绩效压力在组织中已普遍存在，然而目前对绩效压力的研究集中于其消极面，对其积极面的探索较为有限。站在理论发展和实践指导的角度，促进学者们对绩效压力潜在积极意义的认识十分必要。其次，现有绩效压力的文献主要集中于其对员工个体层面的影响，缺乏对绩效压力在不同层次、不同群体中双刃剑效应的关注。结合以上观点，本文将在下一部分对绩效压力的研究进行展望，以期更全面地探索绩效压力产生的双刃剑效应。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5未来研究展望",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过上述文献整理可知，绩效压力的双刃剑效应研究尚不完善，且从不同理论视角出发，绩效压力完全可以产生不一致的作用结果，如工作投入或职场欺骗。绩效压力作为组织中常见的一类压力源，直接影响着人们的切身利益(Spoelma,2021)。因此，未来有必要采用不同理论视角，结合绩效压力的特殊性，厘清绩效压力的双刃剑效应及产生这些效应的情境因素，以期为实践提供理论指导。基于此，本文认为未来研究可以基于不同理论视角深入探讨绩效压力在组织中产生的双刃剑效应，并探索强化或减弱双刃剑效应的边界条件，以及控制绩效压力影响机制的相关因素，以形成对绩效压力更全面的认识。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.1丰富组织中绩效压力的双刃剑研究",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了丰富组织中绩效压力双刃剑效应研究，本文建议未来可以从两个方向进行扩展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "首先，探究绩效压力对指向角色内活动的双刃剑效应。第一，目前对于绩效压力的跨层次效应传递研究并不充分。研究表明高层领导往往要比普通员工面临更大的绩效压力(Schnatterly et al.,2018)，而面临绩效压力的上级可能要求下属拓宽角色范围，使得员工承受组织公民压力(严紫瑜 等,2021)。因此，我们认为未来可以基于垂滴效应视角探讨绩效压力的传导机制，如高层领导的绩效压力传导至中层领导，从而中层领导的压力继续传递给基层领导，甚至底层员工。底层员工的绩效压力层层覆盖了新的来自上级领导的绩效压力，以致员工压力过大，工作绩效、任务熟练度、工作投入等随之降低。相反，绩效压力的向下垂滴，却可能减轻领导的绩效压力负担，从而为领导带来某些积极影响，如积极情绪、恢复水平的提高，促使领导提高工作投入水平。第二，结合COR理论、自我调节视角，一方面，当面临绩效压力，员工可能产生资源损耗，从而减少工作投入或增加工作退缩；另一方面，绩效水平与工作奖励密切相关，员工会利用已有资源储备应对压力，以挽回或阻止未来资源的流失(Hobfoll,2001；廖化化 等,2022)，也可促使员工进行绩效相关的反思、提高职场学习，以达到绩效目标。第三，结合文化视角进行探索。文化维度理论强调，不同文化群体的权力距离、不确定性规避等指标存在差异(Hofstede,1980)。COR 理论也认为在不同文化背景下，同一资源损失对人们造成的压力感会存在不同(Hobfolletal.,2018)，因此未来研究可以探索不同文化背景下，同程度的绩效压力造成的员工资源损失是否有所不同，进而引发怎样差异性的应对方式。此外，Xie(1996)指出文化的变化通常较为缓慢，但我国正处于急剧发展的时期，文化价值观变化可能较快。新生代员工不同于以往传统的员工群体，他们有着新的特征，如有较活跃的思维等(Costanza et al.,2021;李群 等,2021)，因此未来研究亦可探索中国样本的不同群体对于绩效压力的认知是否存在差异，并引发怎样后续行为反应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，探究绩效压力对指向角色外活动的双刃剑效应。基于社会交换理论，社会行为是一种可以交换的商品，物质商品、非物质商品(如威望或认可)均可交换(Homans,1958)。该理论强调一方为另一方提供帮助，另一方出于利益互惠的考虑进行回报。当前文献鲜有关注绩效压力下同事之间的互惠行为(Golden&Veiga,2018)，因此未来研究可以探索以下方向：面对绩效压力，员工可能害怕承担绩效失败的后果，从而向领导或同事发出帮助寻求行为；作为第三方的员工感知到同事承受绩效压力时，员工产生同情等情绪，出于互惠的考虑，员工会给予同事帮助行为，以此提高同事的绩效水平。进一步地，如果同处一个团队，即员工和同事利益共享、惩罚共担，那么以上的绩效压力 →帮助行为的机制是否越强；相反，如果处于互相竞争的两个团队，绩效压力→帮助行为的机制是否会变弱，甚至员工不仅不会采取帮助寻求或给予行为，反而产生幸灾乐祸的情绪，并从事指向同事的偏差行为、排斥行为或不道德行为。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.2拓展绩效压力双刃剑效应的边界条件",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "探索何种情境下绩效压力的积极效应更强、消极效应更弱，对于理论发展和实践指导都至关重要，因此未来研究应考虑丰富绩效压力的边界条件(Mitchelletal.,2018)。首先，考虑个体层面的调节因素。本文将个体分为领导和普通员工两类主体。一方面，未来可以将绩效压力与领导因素做整合研究，如过高的绩效压力导致员工的紧张感，但积极的领导方式(如服务型领导、愿景型领导)将缓和以上关系；反之，辱虐型领导、领导底线思维此类领导因素可能加剧员工在有绩效压力时的厌烦心理，进而恶化员工的工作绩效。另一方面，考虑员工因素，如员工个人特质和个人状态。员工的某些个人特质对绩效压力的双刃剑效应产生强化或减弱作用，如外控型人格、主动性人格、神经质、完美主义、情绪稳定性、促进定向、防御定向等(Eisenberger & Aselage,2009；Kundi et al.,2022; Mitchellet al.,2018,2019)。个人状态也可作为边界条件，如不同程度的工作嵌入、情感承诺可能影响绩效压力双刃剑效应的强弱(李志成 等,2018；Mitchell et al.,2018)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "其次，考虑环境层面的调节因素，包括团队氛围因素和组织氛围因素。基于垂滴效应，可以考虑团队氛围因素(Wo etal.,2019)，如研究指出团队凝聚力和团队信任度较高时，社会挑战压力源对工作结果的影响尤为显著(Kerm et al.,2021)。组织氛围因素可以考虑功利性氛围、伦理氛围、利己主义氛围、容错文化等作为绩效压力双刃剑效应的边界条件(Kundi et al,2022；李锡元，沈约,2019; Mitchell et al.,2019)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5.3控制影响绩效压力的相关因素",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "未来在探讨绩效压力的双刃剑效应时，应考虑控制部分因素，以减少这些因素对绩效压力影响机制的干扰。Mitchell 等(2019)的绩效压力相关研究控制了消极情绪。Bolger 和Zuckerman(1995)论证了人格可能通过影响压力源暴露来影响压力过程，人格还可能通过影响应对选择来影响压力源反应性。Judge 等(2012)研究发现核心自我评价影响人们的压力感知，进而影响人们的健康问题。Li等(2016)利用美国的大样本数据，研究发现基因对工作要求、工作控制有很大影响，这种影响部分归因于与核心自我评价相关的遗传因素。Sonnentag和 Frese(2012)指出个体的健康状况、幸福相关指标影响人们对压力源的感知，因为健康状况不佳的人往往会过高估计他们承受的压力。因此，本文认为未来研究应该控制的因素有消极情感、人格特质（如核心自我评价）、健康水平、幸福感等。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献:   \n卜蒙.(2013).绩效压力、学习意愿与员工绩效改进的关系(硕士学位论文)．东北财经大学，大连.   \n范晓倩,于斌.(2021).绩效压力如何促进员工创造力——领导-成员交换的调节作用．上海财经大学学报， 23(02),108-120.   \n郭靖,周晓华,林国雯,方杰,张金桥,顾文静,刘楼.(2014,11月).工作要求—控制模型在中国产业工人的应用: 响应面分析与曲线关系．管理世界,(11),80-94+187-188.   \n江雪柳.(2018).员工的绩效压力对亲组织非伦理行为的关系研究(硕士学位论文).东北财经大学，大连.   \n蒋雨瑶.(2019).日常绩效压力对工作重塑的影响：工作自主权和上司支持的跨层次调节作用 (硕士学位论 文)．南京财经大学，南京.   \n李群,唐文静,闫梦含.(2021).包容型领导对制造业新生代员工创新绩效的影响——一个跨层双中介模型．华 东经济管理,35(09),120-128.   \n李锡元,沈约.(2019).绩效压力与职场欺骗行为:仁慈领导负面影响的研究．经济经纬,36(01),110-117.   \n李锡元,王伟叶.(2020)．绩效压力对职场欺骗行为的影响机制研究．商业经济与管理,10,39-51.   \n李志成,王震,祝振兵,占小军.(2018).基于情绪认知评价的员工绩效压力对亲组织非伦理行为的影响研究. 管理学报,15(03),358-365.   \n廖化化,黄蕾,胡斌.(2022).资源保存理论在组织行为学中的应用：演变与挑战．心理科学进展,30(02),449- 463.   \n林英晖,于晓倩.(2020).团队成员为何会做出亲团队非伦理行为？来自团队绩效压力的影响．中国人力资源 开发,37(07),34-46.   \n林玉珊.(2019).员工绩效压力对工作投入的影响——兼论工作自主权与目标取向的调节作用.企业改革与 管理,04,101-102.   \n宋萌,胡鹤颜,王震.(2022).绩效压力对员工幸福感的“双刃剑\"效应．管理工程学报．提前在线发表. https://doi.org/10.13587/j.cnki.jieem.   \n唐倩.(2020).绩效压力对员工亲组织非伦理行为的影响研究(硕士学位论文).哈尔滨工业大学，哈尔滨.   \n万利,杨河清.(2018).高校青年教师科研绩效压力对过度劳动的影响——职业紧张与焦虑的中介作用．中国 劳动关系学院学报,32(06),47-52.   \n徐成东.(2010).基于结构方程模型的高校教师科研绩效压力与科研诚信影响机制研究(硕士学位论文).浙 江大学，杭州.   \n严紫瑜,汤旭,付景涛.(2021)．你的压力不该我来背:领导绩效压力对员工不合规任务感知的影响．中国人力 资源开发,38(02),71-83.   \n叶晓倩,张依,杨琳.(2021).跨层模型检验下的团队绩效压力对员工退缩行为的影响研究．管理学报,18(03), 371-380.   \n尤丽娇.(2020).绩效压力对工作活力及员工创新行为的影响(硕士学位论文).南京财经大学，南京.   \n詹鉴,任俊.(2012)．自我控制与自我控制资源．心理科学进展,20(09),1457-1466.   \n周本军.(2018)．绩效压力、工作控制与目标导向对工作投入的交互影响研究(硕士学位论文).南京财经大 学,南京.   \nAltig,D.,Baker,S.,Barrero,J..,Bloom,N.,Bunn,P.,，Chen,S.,..Thwaites,G. (202).Economicuncertainty before and during the COVID-19 pandemic.Journal of Public Economics,191,1-23.   \nBaucus,M.S. (1994).Pressre,opportunityand predisposition: A multivariate model ofcorporate illegality. Journal of Management, 20(4), 699-721.   \nBaumeister, R. F. (1984). Choking under pressure: Self-consciousnessand paradoxical efects of incentives on skillful performance. Journal of Personality and Social Psychology, 46(3), 610-620.   \nBaumeister,R.F.(2oo2).Ego depletion and self-control failure: An energy model of the selfs executive function. Self and Identity，1(2),129-136.   \nBaumeister,R.F.,& Steinhilber,A. (1984).Paradoxical effects of supportive audiences on performance under pressure: The home field disadvantage in sports championships. Journal of Personality and Social Psychology, 47(1), 85-93.   \nBaumeister,R.F., Vohs,K.D.,& Tice,D.M. (2007).The strength model of self-control. Current Directions in Psychological Science,16(6),351-355.   \nBolger,N.,& Zuckerman,A. (1995).A framework for studying personality in the stress process. Journal of Personality and Social Psychology, 69(5), 890-902.   \nBrehmer,B.(1992).Dynamic decision making: Human control ofcomplex systems.Acta Psychologica,81(3),211- 241.   \nCarver,C.S.,&Scheier,M.F.(1982).Control theory: Ausefulconceptualframework forpersonality-social,clinical, and health psychology. Psychological Bulletin, 92(1),111-135.   \nCarver, C.S.,& Scheier,M.F.(1998).On the self-regulation ofbehavior.New York: Cambridge University Press.   \nCostanza,D.P.,Ravid,D. M.,& Slaughter,A.J. (2o21).Adistributional approach to understanding generational differences: What do you mean they vary? Journal of Vocational Behavior. Advance online publication. https://doi.0rg/10.1016/j.jvb.2021.103585.   \nEisenberger,R., & Aselage,J. (2oo9). Incremental efects ofreward on experienced performance pressre: Positive outcomes for intrinsic interest and creativity. Journal of Organizational Behavior, 30(1), 95-117.   \nGardner, H. K. (2012). Performance pressure as a double-edged sword: Enhancing team motivation but undermining use of team knowledge. Administrative Science Quarterly, 57(1), 1-46.   \nGolden,T.D.，& Veiga, J.F. (2018). Self-estrangement’s tollon job performance: The pivotal roleof social exchange relationships with coworkers. Journal of Management, 44(4),1573-1597.   \nGray,R. (20l1).Links between attention, performance pressure,and movement in skilled motor action. Current Directions in Psychological Science,20(5),301-306.   \nHobfoll,S.E.(1989). Conservation ofresources: A new atempt at conceptualizing stress. American Psychologist, 44(3), 513–524.   \nHobfoll,S.E. (2oo1).The influenceofculture,community,and the nested - self in the stress process: Advancing conservation ofresources theory.Applied Psychology: An International Review, 50(3),337-421.   \nHobfoll S.E. (2o11). Conservation of resource caravans and engaged settings. Journal of Occupational and Organizational Psychology, 84(1),116-122.   \nHobfoll,S.E.,Halbesleben,J.,Neveu,J.P.,& Westman,M.(2Ol8).Conservationofresources inthe organizational context: The reality of resources and their consequences. Annual Review of Organizational Psychology and Organizational Behavior,5,103-128.   \nHockey,G. R. J. (1997). Compensatory control in the regulation of human performance under stress and high workload: A cognitive-energetical framework. Biological psychology, 45(1-3),73-93.   \nHofstede, G. (1980). Culture's consequences: International diferences in work-related values. Beverly Hills, CA: Sage.   \nHomans, G. C. (1958). Social behavior as exchange. American Journal of Sociology, 63(6), 597-606.   \nJang,E.,& Kim,H. (2O21).Performance pressre asan antecedent and authentic leadership as a moderator of the relationship between co-worker undermining and psychological capital. Frontiers in Psychology. Advance online publication. https://doi.org/10.3389/fpsyg.2021.665362.   \nJudge,T.A.,Ilies,R.,& Zhang,Z. (20l2). Genetic influences on core self-evaluations, job satisfaction,and work stre: A behavioral genetics mediated model. Organizational Behavior and Human Decision Processes,117, 208-220.   \nKarasek Jr,R. A. (1979). Job demands, job decision latitude,and mental strain: Implications for job redesign. Administrative Science Quarterly, 24(2),285-308.   \nKern,M.,Heissler,C.,& Zapf,D.(2021).Social job stressors can foster employee well-being: Introducing the concept of social challenge stressors. Journal of Business and Psychology, 36(5),771-792.   \nKerstholt, J. (1994). The efect of time pressure on decision-making behavior in a dynamic task environment. Acta Psychologica, 86(1), 89-104.   \nKo, Y. J.,& Choi, J. N. (2019). Overtime work as the antecedent of employeesatisfaction,firm productivity,and innovation. Journal of Organizational Behavior,40(3),282-295.   \nKoopmann, J.,Liu, Y.,Liang, Y.,& Liu, S. (2021). Job search self-regulation during COVID-19: Linking search constraints, health concerns, and invulnerability to job search processes and outcomes.Journal of Applied Psychology, 106(7),975-989.   \nKundi,Y. M., Sardar,S.,& Badar,K. (2022).Linking performance pressure to employee work engagement: The moderating role of emotional stability. Personnel Review, 51(3), 841-860.   \nLazarus,R. S.,& Folkman, S. (1984). Stres, appraisal, and coping. New York: Springer.   \nLePine, J. A., Podsakoff, N.P.,&LePine,M.A. (2005). A meta-analytic test of the challenge stressor-hindrance stressor framework: An explanation for inconsistent relationships among stresors and performance. Academy of Management Journal, 48(5), 764-775.   \nLi, W. D.,Zhang,.,Song,Z,& Arvey,R. (2O16).It is also inour nature: Genetic influences on work characteristics and in explaining their relationships with wel-being. Journal of Organizational Behavior,37(6),868-888.   \nMitchell,M.S.,Baer,M.D.,Ambrose,M.L,Folger,R.,&Palmer,N.F.(2018). Cheatingunder pressure: Aselfprotection model of workplace cheating behavior.Journal of Applied Psychology,103(1), 54-73.   \nMitchell,M.S., Greenbaum,R.L.,Vogel,R.M.,Mawritz,M.B.,& Keating,D.J. (2019).Can you handle the pressure? The effect of performance pressure on stress appraisals,self-regulation, and behavior. Academy of Management Journal, 62(2), 531-552.   \nMuraven, M.，& Slessreva, E. (2o03). Mechanisms of self-control failure: Motivation and limited resources. Personality and Social Psychology Bulletin,29(7),894-906.   \nPaulus,P.B., & Cornelius, W.L. (1974). An analysis of gymnastic performance under conditions of practice and ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "spectator observation.Research Quarterly. American Alliance for Health，Physical Education and Recreation,45(1),56-63. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Schnatterly, K., Gangloff, K.A., & Tuschke, A. (2018). CEO wrongdoing: A review of pressure,opportunity,and rationalization. Journal of Management, 44(6), 2405-2432.   \nSitkin,S.B.,See,K.E., Miler, C.C.,Lawless,M. W.,& Carton,A. M. (2011).The paradox of stretch goals: Organizations in pursuit of the seemingly impossble. Academy of Management Review, 36(3), 544-566.   \nSonentag,S.,& Frese, M. (2012). Stressin organizations.In N. Schmit & S. Highhouse (Eds.)，Handbook of psychology (2nd ed., Vol. 12, pp. 560-592). New York: Wiley.   \nSpoelma, T.M. (2O21). Counteracting the efects of performance pressure on cheating: A self-affirmation approach. Journal of Applied Psychology. Advance online publication. https:/doi.org/10.1037/apl0000986.   \nVan den Broeck,A.,De Cuyper,N.,De Wite,H.,& Vansteenkiste,M. (2010). Not all job demands are equal: Differentiating job hindrances and job challenges in the job demands-resources model. European Journal of Work and Organizational Psychology, 19(6),735-759.   \nVohs,K. D.,& Baumeister,R.F. (Eds). (2016). Handbook ofself-regulation: researchtheoryand appication. New York: Guilford Publications.   \nVohs,K.D.,&Schmeichel,B.J. (2003).Self-regulationand extended now: Controlling theselfalters thesubjective experience of time.Journal of Personality and Social Psychology, 85(2),217-230.   \nWallace,H.M.,& Baumeister,R.F. (2O02). The performance of narcissists rises and falls with perceived opportunity for glory. Journal of Personality and Social Psychology, 82(5), 819-834.   \nWee,E.X.,Liao,H., Liu, D.& Liu, J. (2017). Moving from abuse to reconciliation: A power-dependence perspective on when and how a follower can break the spiral of abuse. Academy ofManagement Journal, 60(6), 2352-2380.   \nWo,D.X.,Schminke,M.,&Ambrose,M.L. (2019).Trickle-down, trickle-out,trickle-up,trickle-in,and tricklearound effects: An integrative perspective on indirect social influence phenomena. Journal of Management, 45(6),2263-2292.   \nXie,J.L.(1996).Karasek's model in the People's RepublicofChina: Eects ofjob demands,control,and individual differences. Academy of Management Journal, 39(6),1594-1618.   \nXu, X.,Wang, Y.,Li, M.,& Kwan, H. K. (2O21).Paradoxical effects of performance pressure on employees’ inrole behaviors: An approach/avoidance model. Frontiers in Psychology. Advance online publication. https://doi.0rg/10.3389/fpsyg.2021.744404.   \nYe,Q.,Wang,D.,& Guo,W.(2019).Inclusive leadership and team innovation: The role of team voice and performance pressure. European Management Journal, 37(4), 468-480.   \nZhang,W., Jex,S.M.,Peng, Y.,& Wang,D. (2017). Exploring the effects of job autonomy on engagement and creativity: The moderating role of performance pressure and learning goal orientation. Journal of Business and Psychology,32(3),235-251. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Double-edged-sword effect of performance pressure in organizational contexts ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "JIA Suosuo', GUO $\\mathrm { L i } ^ { 1 }$ , CAI Zijun²,MAO Jih- ${ \\mathrm { \\cdot } } \\mathrm { Y u } ^ { 3 }$ （ $^ { 1 }$ Business School, University of International Business and Economics，Beijing loo029,China) ( Business School,Beijing Normal University，Beijing l0o875,China) (3 Schoolof Business Administration, Southwestern University ofFinance and Economics, Chengdu 611130, China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The complexity of the market economy has brought about many challenges to organizational survival and development. As organizations often demand high performance from employees, experiencing workplace performance pressure has become a prevalent phenomenon. Existing research has mostly focused on the negative effects of performance pressure and is limited in knowledge about performance pressure's positive influences and theoretical lens. A systematic and comprehensive understanding of the double-edged-sword effect of performance pressure is conducive to organizations taking advantage of performance pressure's positive impacts and ameliorating its negative influences. By systematically reviewing and summarizing relevant literature, this paper categorizes the effects of performance pressure into positive, negative, and curvilinear efects and suggests theories， such as cognitive appraisal theory of stress and conservation of resources theory, to explicate the underlying mechanisms.Last, based on the above analysis, future research should enhance knowledge about performance pressure's double-edgedsword effect in organizational contexts and consider its boundary conditions to more comprehensively understand its influences in organizational contexts. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Key words: performance pressure, double-edged-sword effect, boundary condition ",
+        "page_idx": 17
+    }
+]

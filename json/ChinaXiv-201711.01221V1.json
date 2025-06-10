@@ -1,0 +1,876 @@
+[
+    {
+        "type": "text",
+        "text": "网络环境下人才知识结构的自动抽取方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘庆祥」张朋柱」张晓燕²刘景方(上海交通大学安泰经济与管理学院上海 200030)2(上海工程技术大学管理学院上海 201620)3(上海大学管理学院上海 200444)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】构建人才知识结构的自动抽取方法。【方法】基于网络信息采集技术、网页分析以及文本分词、语义网相关技术，构建基于网络环境的人才知识结构的自动抽取系统。【结果】实验验证了该系统的有用性，系统识别课程的整体准确率在 $9 5 \\%$ 以上，对半结构化文件，召回率在 $9 5 \\%$ 以上；对非结构化文件，部分文件召回率低于 $90 \\%$ 。【局限】课程识别的召回率受到词典库内容的制约。【结论】本方法能为人才知识结构研究提供有用的工具，符合构建人才知识结构的基本要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：网络化创新外包 胜任力 知识结构 自动抽取",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号:C931 G35",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "网络化创新服务外包，指企业通过互联网利用外部人力资源完成创新任务的行为[1]。为实现对创新服务供需的迅速、精确匹配，即人才能力和企业任务的有效匹配，正确描述人才胜任力至关重要。1973年美国著名心理学家McClelland首次提出人才胜任力的概念[2]，在此基础上 Mirable 对胜任力模型进一步总结,提出了KSAO 模型[3]。其中K表示知识，指针对特定岗位和专业领域的要求具备的知识，如岗位知识、专业知识，本研究将主要围绕人才的专业知识结构的进行自动抽取。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前人才知识结构信息获取方式仍然限于人工录入方式，难以满足短时间获取大量数据的需求，且成本相对较高，发展一套可以自动化进行信息采集、分析、抽取的方法很有必要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究的目的是构建一个可以从网络资源中自动抽取人才知识结构信息的方法，利用丰富的网络资源进行人才的知识结构信息的采集、分析，并自动抽取出人才知识库构建可利用的数据，输出结果将考虑采用语义网、领域本体的相关技术和格式规范，以便于对人才知识结构信息的灵活利用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "构建完备的人才知识库是完成人才能力和外包匹配的基础，供给方只需提供人才的学校、专业、人学年份等信息，系统即可从后台迅速地获取到人才的结构化的知识结构信息，包括修读课程、课程内容等，并可对不同的人才资源进行对比分析，人才知识结构信息自动抽取系统的功能如图1所示：",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/97c157e14369a46632ff3e697d94b6bc1e31386c1caf4f9a2a27f7c8ecdac7f4.jpg",
+        "img_caption": [
+            "图1人才知识结构信息自动抽取系统示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2人才知识结构自动抽取背景分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当前我国大部分的高校在其官方网站、教务网站等渠道发布了其学院、专业、课程等信息，为本研究提供了丰富的信息来源，这将作为笔者主要的分析对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 典型样本分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对比互联网来源的一些典型样本后，笔者总结出这些样本的关键特征：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）信息量极大：据预估，合计开设课程的数量级在 $1 0 ^ { 7 } { - } 1 0 ^ { 9 }$ 之间，再考虑到人才的修读年份因素，人工整理难度极高。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）变化频繁：在办学实践中，高校每年对院系、专业以及培养方案都会进行不同程度的调整，无疑为信息整理带来更多难题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）文件类型多样：各个高校在网站上发布的培养方案信息的形式多种多样，有HTML、PDF、Word、Excel等多种格式，系统的设计应当充分考虑多种文件格式的兼容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4）半结构化/非结构化特征显著：各种文件内部的学院、专业、课程等信息的组织结构样式繁多，有以表格形式，如图2所示；也有纯文本形式的描述，如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合来看，信息的组织呈现出半结构化/非结构化特征，系统的设计应当针对不同结构特征的文件内容区分处理，以提高其处理信息的准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/6cd4101270139900d009afd558d499f0aa651cf3330e81af231cd260a4ea4158.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">必修：27学分</td></tr><tr><td>课程号</td><td>课程名</td><td></td><td></td><td>周学时学分开课学期</td><td></td></tr><tr><td>00331751</td><td>微积分（一）</td><td>6</td><td>4</td><td>秋季（1）</td><td></td></tr><tr><td>00331770</td><td>线性代数与几何</td><td>5</td><td>4</td><td>秋季（1）</td><td></td></tr><tr><td>00331752</td><td>微积分（二）</td><td>6</td><td>4</td><td>春季（2）</td><td></td></tr><tr><td>00331860+</td><td>高等微积分</td><td>4</td><td>3</td><td>秋季（3）</td><td>t3</td></tr><tr><td>00331880</td><td>高等代数</td><td>3</td><td>3</td><td>秋季（3）</td><td>43</td></tr><tr><td>00330700</td><td>常微分方程</td><td>4</td><td>3</td><td>秋季（3）</td><td>t3</td></tr><tr><td>00331900</td><td>概率与数理统计</td><td>3</td><td>3</td><td>秋季（5）</td><td>t3</td></tr><tr><td>00330050</td><td>计算方法</td><td>5</td><td>3</td><td>春季（6）</td><td>t</td></tr><tr><td>t</td><td></td><td>共</td><td>27</td><td>学分</td><td>t</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本专业学生须按培养计划要求修读各类课程，总学分达到220学分，方可毕业。本专业所  \n授学位为建筑学工学士。建筑学专业毕业生修满以下专业类课程，在总学分满足要求的情况下，可取得建筑学工学  \n士学位：第01学期：设计概论、设计基础第02学期：建筑概论、建筑设计基础第03学期：建筑生成设计原理、建筑生成设计第04学期：建筑设计原理、建筑设计第05学期：公共建筑设计原理(1)-人文环境、公共建筑设计原理(2)-自然环境公共建筑设计（人文环境与自然环境）第06学期：公共建筑设计原理（3)-建筑群体、居住建筑设计原理建筑群体设计与住区规划设计第07学期：高层建筑设计原理、城市设计原理",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(5）内容差异性大：出于办学历史和特色原因,各高校的专业课程设置差异巨大。以管理信息系统专业为例，各高校的课程设置差异巨大[4]，且有的高校归属于计算机学院，有的归属于管理学院。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统的设计应当充分考虑这种差异性，避免出现格式兼容上的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 系统设计要求与技术难点分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）尽可能最小化人工干预：信息量大且变化频繁的特征决定人工录入、整理的成本极高，因此信息的获取方式和知识结构的构建过程一定要满足自动化的要求，尽可能减少人工干预。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "网络信息采集技术可满足上述需求，但是从头构建一个网络爬虫系统的工作量和复杂度极高，现有框架又难以满足个性化需求，应当充分考虑利用开源社区提供的成熟框架作为开发基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）兼容性要求：文件类型的多样与内容的半结构化/非结构化特征要求系统对不同文件、结构类型兼容。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这对系统设计实现过程中的模块化与复用性提出较高的要求，应有前瞻的规划，采取扩展性良好的设计模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）数据格式的扩展性要求：不同高校的专业课程设置内容的差异性对系统数据格式的设计提出要求，应当充分考虑知识结构构建过程中数据存储、转化的灵活性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一般的关系型数据库所提供的存储方式较为单一，扩展性受限，应当参照当今Web数据广泛应用的XML等数据格式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)数据精度的要求：信息的精度包含信息获取、抽取的准确度，是保证人才知识库有用性的关键。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自动化的网络信息采集程序可迅速、批量地获取到大量网络资源，但这种方式难免带来有效信息纯度不高的问题，在系统分析设计的过程中，应当考虑集中数据源头、构建领域词典排除无用信息干扰、中间数据筛查等手段来抵消其不利影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3 输出结果要求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于本研究的背景，为了实现最终资源后续利用的智能性与灵活性，输出结果要能够容易地被计算机读取并理解，具有一定的语义特征及本体实现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本体构建的过程包含实体(Entity)、关系(objectProperty)的分析，对所涉及的实体关系进行初步分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）主要实体分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究涉及的实体有大学、院系、专业、课程等4种，如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 大学实体：一所大学由很多院系组成，大学本身具有校名、编号、介绍等属性;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 院系实体：一个院系是唯一地属于一个大学，院系下开设有很多专业。院系本身有院系概况的属性;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 专业实体：一个专业被开设在某个院系下(不是说一定属于某个院系)，开设很多课程，包括必修、选修课，其本身有概况、介绍等属性;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 课程实体：一个课程被开设在某个专业的培养计划中，也可能开设在其他专业中。课程本身有内容简介属性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）主要关系分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实体间可能存在开设、被开设、隶属、拥有等关系。具体描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ opens关系：开设关系，可应用于大学对院系、院系对专业、专业对课程，表明开设、拥有的关系，但不代表唯一拥有;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ is_opend_by 关系：被开设关系，是一种从属关系(例如一门课程可属于多个专业)，但不代表唯一从属关系，是opens关系的逆，应用于专业对院系，课程对专业的关系;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ associates_to关系：唯一的从属关系，应用于院系对大学的关系(不同大学相同名称的院系视为不同的院系);",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ opens_as_required 和opens_as_optional关系：必修开设和选修开设关系，这是继承自opens的关系，应用于专业对课程的关系，区分这门课程在本专业中属于必修课还是选修课。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）概念实体和属性关系图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "概念实体和属性关系如图4所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec70ea59635d523251d5f52994e6c8d57da183fb15ba643340bedbf534af0917.jpg",
+        "img_caption": [
+            "图4概念实体关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3系统分析与设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 系统架构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从数据处理的角度出发，并结合前文要求，逐步分析以形成对系统的整体架构：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）信息获取：采取网络爬虫程序从互联网上自动获取到大量人才知识结构信息原始数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）初步转化：采用文本解析程序对类型各异的原始数据进行初步转化，得到对应的文本数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）知识结构抽取：从不同结构类型的文本数据中进行学院、专业、课程实体识别，构建出相应的内存数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)数据转储：为了方便数据的后续利用，将内存数据持久化为扩展性强的中间数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）语义数据构建：以中间数据为基础，采取本体构建程序得到具有语义特征的数据，这些数据可补充词典库内容，提升系统对信息利用的完善程度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，数据经历了原始数据、文本数据、内存数据、中间数据、语义数据的转化流程，如图5所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原始 文本 内存 中间 语义数据 数据 对象 数据 数据",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此得出系统的整体架构如图6所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e46fc1c2be6ab5fa82af83ed63ae84dba33bd97d2d352b3da165097deb941a0.jpg",
+        "img_caption": [
+            "图5数据格式转化",
+            "图6系统设计图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 网络爬虫程序",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "网络资源的遍历一般有广度优先算法和深度优先算法，笔者采用广度优先算法，一般来说越有价值的专业课程信息距离数据源头越近，也越有价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除了选择适当的搜索算法外，还应当遵循适当的URL和文件过滤规则，以提高系统的抓取效率:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)URL过滤：因为在本文中，抓取信息来源于国内高校官方网站，对于不含\"edu\"的网页将被过滤而不进行抓取;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）文件过滤：对于HTML 网页，程序将设定一系列的关键词集合，读取其文本信息与其进行匹配，不含任何关键词集合的HTML网页将不进行抓取，关键词集合包含\"专业”、“学院”、“课程\"等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 文件解析程序",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "鉴于原始数据的多样性，HTML、PDF、Office类型(Word、Excel)等文件难以被直接利用，因此有必要通过一定的技术手段进行解析，将各类原始文件统一转化为容易利用的文本数据。文件解析器程序分别调用不同的文件解析接口，根据文件类型进行区别处理，流程如图7所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddcf807294101bb05f47149b2379ee2afddab13306e5d0d67e99ce7c60939c9b.jpg",
+        "img_caption": [
+            "图7文件解析程序"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4文本分析与转储程序",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文本分析读取文件解析程序返回的文本数据，对文本内容进行分析后得到内存对象。文本分析流程如图8所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/efe94c9eca881e5768a663605323fd5e81c7f2d7e0e5d3601a09fa6379877f9a.jpg",
+        "img_caption": [
+            "图8文本分析程序"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对半结构化的文本内容，不需要读取领域词典即可得到层次分明的专业课程信息。程序读取文本数据中的表格数据，逐次读取表格内容，并根据其对应表头内容将专业、课程信息映射到内存对象中，例如从培养方案表格中将课程名称、学分、学时的情况映射到一个Course对象，对应其name、credit、period 属性(可以为空)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "而对于非结构化文本，内容相对散乱无序，分析的过程更为复杂，要依据一定的领域词典匹配。程序将读取所有文本内容信息，依据系统的领域词典中的专业、课程词汇进行分词，对于课程实体，将在实体所属语句内搜索课程属性关键词(学分、学时、介绍等),定位属性内容，映射到Course对象。将专业课程的内存对象数据转储为中间数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5 本体构建程序",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用返回的中间数据，将它们按照最终对信息结",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "构的需求构建出语义本体数据，以增强信息被计算机读取、理解的强度，适应可能出现的信息的灵活利用要求。本体构建程序如图9所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1d7dc5183ae81800ec754e756dd74c15a8f4bd1eef9f983182ec916204c0a08.jpg",
+        "img_caption": [
+            "图9本体构建程序"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4数据结构设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 爬虫数据库设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "爬虫数据库的备选的方案包括关系型数据库例如Oracle、SQLServer等，文件型数据结构XML、RDF等，以及嵌入式数据库BerkeleyDB 等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑访问效率、安全性、海量数据负载等要求，笔者采取BerkeleyDB作为爬虫数据库。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BerkeleyDB采取关键字/数据(Key/Value)的形式进行数据库管理，通过相关API，提供关键字即可获取到对应数据，访问效率很高，其底层可以理解为存放大量数据的 HashMap，访问复杂度只有 O(1)，性能要明显优于关系型、文件型数据库。BerkeleyDB的数据结构如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）BdbFrontier:这个类是Heritrix中使用BerkeleyDB结构的链接制造工厂，用来验证某个正等待进入队列的对象是否已被抓取过。(2）BdbMultipleWorkQueues:一组链接对象的队列，不同的队列具有不同的Key值，即Key 和链接队列形成一个个\"Key/Value\"对，作为BerkeleyDB中的一条记录。如表1所示:",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9f64e148ff53dbcb6abce0c99a11faf08ed584cf0bf3a5d581312e66fe162eb.jpg",
+        "table_caption": [
+            "表1BdbMulipleWorkQueues 结构示意"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>键</td><td>值</td></tr><tr><td>Key1</td><td>Queue1{URI1,URI2,URI3，…}</td></tr><tr><td>Key2</td><td>{}</td></tr><tr><td>Key3</td><td>{}</td></tr><tr><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）BdbWorkQueue:基于BerkeleyDB的链接队列，创建每个BdbWorkQueue 都会赋予一个键值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）BdbUriUniqFilter:过滤器，被BdbFrontier调用，内部包含被抓取过链接的BerkeleyDB 数据库[5]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2中间数据格式设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可参考格式有 XML、SQL Server、MySQL 等。考虑向语义数据转化的难度以及数据迁移的方便后，决定选取XML格式。XML文件被广泛认为是语义网实现的基础层，语法标准统一，可扩展性明显优于关系型数据库。笔者给出XML文件规范format.xsd结构如图10所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9468999425d90be8d55883e01be6678c2ccbdef4d6d931d3452595772a41a06.jpg",
+        "img_caption": [
+            "图10 中间数据格式"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3 语义数据格式设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "语义数据格式设计的备选方案有OWL、XML、RDF等，考虑表达能力的需求，本研究优先考虑采用OWL 的格式。OWL(Web 本体语言)是和语义Web 相关的W3C推荐标准栈的一部分，使用基于XML的RDF 语法[，表达能力要远强于XML 和RDF。语义数据格式设计参照图4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 系统实现与测试",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1编程语言与开发环境",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本系统采用Java语言为程序开发语言，与 $\\mathrm { C } \\cdot \\mathrm { C } { + + }$ 相比,Java彻底面向对象，设计模式运用方便，且由于跨平台特性，可直接调用的成熟开源框架很多。系统采用Eclipse作为开发环境，与其他开发工具如JBuilder、IDEA相比，Eclipse具备开放、自由、可扩展插件众多等优势，能满足快速开发的需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2网络爬虫程序与运行效果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "考虑到系统复杂度高、个性化需求多等难点，笔者决定选取开源的爬虫框架作为开发基础，有Scarpy、Cola、Heritrix、BeautifulSoup等可供选取，在充分考虑编程语言、界面友好性、扩展性因素后，最终决定采用Heritrix框架作为基本框架。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Heritrix是一个始于2003年的开源、可扩展的网络爬虫项目，基于Java 平台开发7]，与 Scrapy、Cola相比，其配置功能更为强大，具有更好的扩展性，而且它可以通过Web界面操作，友好性更强，其基本框架如图11所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6095af273627253fdedacbc270a999be2eb02046972467e6e73ab852af62d6d.jpg",
+        "img_caption": [
+            "图11Heritrix 基本框架",
+            "图12 爬虫任务创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中CrawlController 类(控制器)协调各模块的运行，是本框架的核心,CrawlController作为爬虫系统的中枢神经，决定爬虫进程的开始、结束。其核心有三大部件：范围部件、边界(Fontier)部件、处理器链。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）范围部件决定下一个入列的URL是什么，可自定义干涉;(2）边界部件进行边界条件的验证，对未访问队列中的URL进行验证，上文所述的URL规则即在此部分设定;(3）处理器链中是正在同时处理的URL队列，处理结果会传递给边界条件。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "爬虫任务的创建界面如图12所示。这是一个以上海交通大学本科教学信息服务网为源头的任务，数据源头如Seeds中所示，再对Modules、Setting 模块的参数进行设定，任务即创建成功。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nameofnew job:test_course   \nDescription: Default Profile   \nSeeds: Fill in seed URIs below, one per line. Comment lines begin with '#’ http://electsys.sjtu.edu.cn/edu/pyjh/pyjhquery20o9.aspx? zydn=080703&mc=%e5%9c%9f%e6%9c%a8%e5%b7%a5%e7%a8%8b&nj=2013 #土木工程培养计划 Modules Submodules Settings Overrides Submit job ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.3文件解析程序与运行效果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "文件解析器通过分别调用不同的接口，将文件映射到内存再从中读取出要利用的字符串，输出文本文件。以PDF文件的解析为例，阐述解析程序的搭建：采用PDFBoXAPI进行开发。它采用面向对象的方式获取PDF文档，不同于文本格式的文件流，将一个PDF 文件视为一系列基本对象的组合，包含数组、数字、字符串、词典等结构，非常适合本研究的开发框架。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "待转化的PDF测试文件，如图13所示。这是某所高校建筑学专业的培养计划文件。转化所得到的文本文档如图14所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "甲 H8T EUVKNDMo1.pdf X几系灰环文化素质教育课程体系包括文化素质教育核心课、新生研讨课、文化素质教素质教育课，除文化素质教育讲座和新生研讨课外，其它所有课程划分为八个课②历史与文化、③语言与文学、④艺术与审美、⑤环境、科技与社会、⑥当代中发展、⑧数学与自然科学。要求在本科学习阶段修满13学分，其中文化素质教1-2学分；文化素质教育核心课程和新生研讨课为限选，至少5门或8学分，建讨课；一般文化素质课程为任选。每学期开设的文化素质教育课程目录详见当学期选课手册。3.数学和自然科学基础课程7学分10421075 微积分B(1) 5学分30020682 建筑数学 2学分4.专业相关课程96学分(1）学科基础课44学分1）必修43学分40021321 建筑设计概论 1学分30021351 建筑设计原理 1学分30020552 外国古代建筑史纲 2学分30020482 中国古代建筑史纲 2学分30020542 外国近现代建筑史纲（英） 2学分30020492 空间形体表达基础 2学分30020271 建筑技术概论 1学分30030272 工程力学 2学分",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.txt-记事本文件（F)编辑（E)格式（O）查看（V）帮助（H)清华大学本科培养方案1  \n建筑系建筑学专业本科培养方案门综合性较强的学科，涉及理、工、文、艺诸领域，具有科本专业立足中国、面向世界，培养符合国家建设需求，了解  \n具备成为专业师矛务的高素质建筑人才。  \n建筑专业业生应达到以下知识、能力和素质的要求  \n真高高的道德素质、主富的人文素质、健康的身心质。理论、建筑历史和建筑技术以及城乡规划、凤景园林等方面的具有 产篷的科学精神和较强的创新思维，具备整合建筑形象思维和逻辑  \n业道德、队精神、专业协调能力和综管理与领 设计和实践能力。  \n五接学务制喜理机制：行弹佳学习年限：季学位四、基本 分学时四年制本科培养总学分175，其中春、秋季学期课程总学分142；集中实践环节18学分，综合论文训练15学分五年制本科培养总学分200，其中课程学分156；集中实践环节由两部  \n合论文训练15学分。五、专业核心课程、9门，42学分建筑设计①）（6学分）、建筑设计（2）（6学分）、建筑设计（3）（6学分）、建筑设计（5）（6学分）、设计专题（1）（3学分）、设计专题（2）（3学分）、设计（4）（3学分）  \n六、课程设置与学分分布四年制科课程设算与学分分布",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.4文本分析与转储程序实现与运行效果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将获取的文本信息转化成XML文件的几个关键的方法描述如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "txtToXml(Stringin，Stringout);//主方法，接收文本文件的路径和输出 XML文件的路径，完成转化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "coursesToXml(List<Course> courses,String out)；//txtToXml 调用，接收XML文件的路径，将课程对象列表持久化到XML文件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "parseOneCourse(String line)；//接收文本文件的一行内容，返回一个Course 对象或者Null。中间数据生成程序调用Dom4j接口来实现 XML 文件构造。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.5语义数据构建和测试效果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本体构造工具种类繁多，包括商业产品、高校与研究机构的课题成果[8]，有OntoEdit、WebOnto、Protégé、WebODE等。本文选取Protégé作为构建工具。Protegé是斯坦福大学开发的基于Java语言的本体编辑、知识获取软件[9]，拥有很多优秀设计的插件，其扩展性、友好性明显强于其他工具，是当前使用最广泛的本体编辑器。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本体构建工具搭建完成后，选取测试数据进行相似度计算，如下为测试数据描述：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "S大学下有计算机科学与技术系和软件工程学院，其中计算机科学与技术系下有计算机科学与技术专业，必修课程有 $\\mathrm { C } { + } { + }$ 程序设计，数据结构，软件工程概论，算法与复杂性，选修课程有海量数据处理.....软件工程学院下有软件工程专业， $\\mathrm { C } { + } { + }$ 程序设计，数据结构，软件工程概论，IT服务管理，选修课程有中间件技术.....",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "测试结果如表2所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b9defa4da4d7b2df20d38b9d50b3a4848e223248bfd1ec26168de24571eb5853.jpg",
+        "table_caption": [
+            "表2相似度计算结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>距离</td><td>相似度</td></tr><tr><td>Hier Distantce</td><td>0.8000</td></tr><tr><td>Attr Distance</td><td>0.1670</td></tr><tr><td>Distance</td><td>0.4583</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6实验效果及分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为验证自动抽取方法的有用性，组织了一次知识结构信息抽取的实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6.1 实验内容 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以50所高校、超过2000个专业的培养方案文件为原始数据，文件大小为834MB。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据文件内容的结构分为两组，即半结构化组与非结构化化组，在本研究中分别指表格类型和松散文本类型的文件内容，分组后得到37组半结构化组文件和13组非结构化组文件。从两组文件中分别随机选取10所高校，每所随机选取10个专业，得到200个专业的培养方案，人工分割成200个文件。由于文件格式不一，单个文件大小在10-200K之间，文件大小总计23.1MB。以这些文件为原始数据，进行处理，得到课程识别的结果，再由两名实验人员人工核对，计算准确率和召回率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为方便实验人员比对，将所得结果转化为Excel格式，结果如图15所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/698cff0e7161eddfc9cb7aef02871728ddc3696b6a08bf22cc4374b1ecc86378.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>A</td><td>日</td><td>C</td></tr><tr><td></td><td>物联网工程</td><td>电子信息工程</td><td>电子科学与技术（微电子学与固体电子学）</td></tr><tr><td>2</td><td>思想道德修养与法律基础</td><td>思想道德修养与法律基础</td><td>思想道德修养与法律基础</td></tr><tr><td>3</td><td>中国近现代史纲要</td><td>中国近现代史纲要</td><td>中国近现代史纲要</td></tr><tr><td></td><td>4马克思主义基本原理</td><td>马克思主义基本原理</td><td>马克思主义基本原理</td></tr><tr><td>5</td><td>毛泽东思想和中国特色社会主义理论体系概i毛泽东思想和中国特色社会主义理论体系毛泽东思想和中国特色社会主义理论体系概</td><td></td><td></td></tr><tr><td></td><td>6形势与政策教育</td><td>形势与政策教育</td><td>形势与政策教育</td></tr><tr><td></td><td>英语读写译1A-D</td><td>英语读写译1A-D</td><td>英语读写译1A-D</td></tr><tr><td></td><td>8英语口语1A-D</td><td>英语口语1A-D</td><td>英语口语1A- D</td></tr><tr><td></td><td>9英语听力1A-B</td><td>英语听力1A-B</td><td>英语听力1A-B</td></tr><tr><td></td><td>10英语读写译2A-D</td><td>英语读写译2A-D</td><td>英语读写译2A-D</td></tr><tr><td></td><td>11英语口语2A-D</td><td>英语口语2A- D</td><td>英语口语2A- D</td></tr><tr><td></td><td>12英语听力2A-B</td><td>英语听力2A-B</td><td>英语听力2A-B</td></tr><tr><td>13翻译</td><td></td><td>翻译</td><td>翻译</td></tr><tr><td></td><td>14商务英语</td><td>商务英语</td><td>商务英语</td></tr><tr><td>15英美文化</td><td></td><td>英美文化</td><td>英美文化</td></tr><tr><td>16影视欣赏</td><td></td><td>影视欣赏</td><td>影视欣赏</td></tr><tr><td>17西方文化</td><td></td><td>西方文化</td><td>西方文化</td></tr><tr><td></td><td>18英美文学简史</td><td>英美文学简史</td><td>英美文学简史</td></tr><tr><td></td><td>19法制安全教育</td><td>法制安全教育</td><td>法制安全教育</td></tr><tr><td>20管理概论</td><td></td><td>管理概论</td><td>管理概论</td></tr><tr><td></td><td>21职业生涯规划</td><td>职业生涯规划</td><td>职业生涯规划</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.2 评价指标",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对实验结果的评价采用自然语言处理中常用的准确率(Precision)、召回率(Recall)指标。准确率是衡量信息检索结果的质量，即查准率；召回率用来衡量信息检索结果的查全率。笔者定义评价指标，如表3所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8f253de4b1bb68069dbca0b4742f99dd6d3e572f756b07ee00fbfe90eda7ee5.jpg",
+        "table_caption": [
+            "表3实验评价指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>缩写</td><td>含义解释</td></tr><tr><td>单篇准确率</td><td>SP</td><td>单个文件中课程识别正确数/课程识别数</td></tr><tr><td>单篇召回率</td><td>SR</td><td>单个文件中课程识别数/课程总数</td></tr><tr><td>平均准确率</td><td>AP</td><td>全部文件中课程识别正确数/课程识别数</td></tr><tr><td>平均召回率</td><td>AR</td><td>全部文件中课程识别数/课程总数</td></tr><tr><td>准确率标准差</td><td>Std.P</td><td>单篇准确率的标准差</td></tr><tr><td>召回率标准差</td><td>Std.R</td><td>单篇召回率的标准差</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.3 实验分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验结果如表4所示：",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fe1f406e6347de35ce668627587baf3ecf0b353ecc0a5a79bf0b3b52642bbef6.jpg",
+        "table_caption": [
+            "表4实验结果统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>半结构化组</td><td>非结构化组</td></tr><tr><td>N</td><td>100</td><td>100</td></tr><tr><td>AP(%)</td><td>97.96</td><td>99.46</td></tr><tr><td>Std.P</td><td>1.102×0.01</td><td>0.300×0.01</td></tr><tr><td>AR(%)</td><td>99.51</td><td>89.39</td></tr><tr><td>Std.R</td><td>0.291×0.01</td><td>5.411×0.01</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验结果表明，本系统对于输人文件的平均准确率较高，在 $9 5 \\%$ 以上。对于半结构化组的培养方案文件，系统的召回率较高，在 $9 9 \\%$ 以上，但是对于非结构化类型的文件，系统的平均召回率较低，在 $90 \\%$ 以下，实验中某些文件的课程识别率在 $80 \\%$ 左右,这主要是由于对于处理非结构化文件，系统比较依赖词典库的完善度，对于词典库中缺乏的课程词汇，往往难以识别，例如\"程序设计方法与思想\"课程，在某些学校名称是“计算思维\"，如果词典库中没有该词汇，将难以判别。但是，随着系统处理结构化/半结构化文件的数量增多，词典库内容会进一步扩充，对非结构化文件的识别召回率也会有所提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究详细分析了网络化创新外包中的人才知识结构抽取的背景，并设计实现了人才知识结构信息的自动抽取系统，得到的输出结果可以为构建人才知识库提供支撑。依赖本研究成果，只需人才的少量基本信息即可迅速获取到他们在高校所修读的课程及其描述，并可依据最终的语义数据给出相似度的分析结果，在今后的数据更新中，也不必再耗费大量的人力成本。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文成果将会在未来的人才知识库、创新任务匹配的研究中发挥作用，庞大的专业课程数据将成为人才知识库构建的强大后备，最终的语义数据也会逐步提升系统课程识别的召回率。在实践中，知识结构不仅仅包含人才在高校接受教育所掌握的知识，也包含人才在后来的培训、工作之中所掌握的技能、职业的专业知识，这些知识采取什么样的形式构建、存储都可以参照本文所示的构建方式，后续研究也将围绕这些范畴和特定专业领域展开。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李小卯，张建军．基于Internet 的资源外包与企业创新 [J]．中国软科学，2003(1):93-99.(Li Xiaomao,Zhang Jianjun.Internet-basedOutsourcingandEnterprise Innovation [J]. China Soft Science,2003(1):93-99.)   \n[2] McClelland D C.Testing for Competence Rather than for Intelligence [J].American Psychologist,1973,28(1):1-14.   \n[3] Mirable R J.Everything You Wanted to Know About Competency Modeling [J]. Training and Development,1997,   \n51(8): 73-77. [4]何永刚，黄丽华．信息管理与信息系统专业课程体系研究 综述[J].情报杂志，2007,26(8):128-131.(He Yonggang, Huang Lihua.Research Reviews on the Curriculums for the Information Systems [J]. Journal of Information,2007,26(8):   \n128-131.) [5] 邱哲，符滔滔．开发自己的搜索引擎：Lucene $2 . 0 \\dot { + }$ Heritrix [M].北京：人民邮电出版社，2007.(Qiu Zhe，Fu Taotao. Develop Your Own Search Engine:Lucene $2 . 0 \\ t$ Heritrix[M]. Beijing:Posts& TelecomPress,2007.) [6] 高志强.语义Web原理及应用[M].北京：机械工业出版 社,2009.(Gao Zhiqiang.The Principle and Application of Semantic Web [M].Beijing:China MachinePress,2009.) [7] 罗刚，王振东．自己动手写网络爬虫[M].北京：清华大学 出版社，2010.(Luo Gang，Wang Zhendong.Build a Web Crawler by Yourself[M].Beijing: Tsinghua University Press,   \n2010.) [8] 徐国虎，许芳．本体构建工具的分析与比较[J].图书情报 工作，2006，50(1):44-48．(Xu Guohu，Xu Fang．A Comparative Study of Ontology-building Tool [J].Library and Information Service,2006,50(1):44-48) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]洪娜，张智雄．Protegé 在科研本体构建与推理中的实践研究[J]．现代图书情报技术,2009(7-8):1-5.(Hong Na,ZhangZhixiong. Practice of Creating and Reasoning ScienceOntology by Protégé [J].New Technology of Library andInformation Service,2009(7-8): 1-5.)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "刘庆祥：提出论文思路，系统开发，论文起草及最终版本修订;  \n张朋柱：研究思路提出，研究方案设计;  \n张晓燕：提出实验设计方案，采集、清洗和分析数据;  \n刘景方：论文最终版本修订。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail: kentliul990@163.com。  \n[1]刘庆祥.knlgbuild.xls.人才知识结构自动抽取实验.  \n[2]刘庆祥.crowdsourcing.zip.人才知识结构自动抽取系统.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-12-09   \n收修改稿日期:2016-01-08 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Automatically Extracting Talents' Knowledge Structure Online ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Liu Qingxiang'Zhang Pengzhu'Zhang Xiaoyan²Liu Jingfang³ 1(Antai Collge of Economics and Management, Shanghai Jiaotong University, Shanghai 20o030, China) 2 (School of Management, Shanghai University of Engineering Science, Shanghai 201620, China) 3(School of Management, Shanghai University, Shanghai 200444, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] To extract talents' knowledge structure automaticaly.[Methods] We built an online knowledge structure extraction system basedon Web information retrieval,webpage analysis,word segmentation and semantic Web technologies.[Results] We examined the usabilityof the new system.For course recognition,the overallprecision rate was more than $9 5 \\%$ . For semi-structured files, the recall rate was above $9 5 \\%$ .For some non-structured files, the reacall rate was below $90 \\%$ . [Limitations] The recall rate of course recognition was restricted by the content of the dictionary.[Conclusions] The proposed method meets the requirements of constructing talents’knowledge structure and is a useful tool for related research. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Web-based outsourcing Competency Knowledge structure Automatic extraction ",
+        "page_idx": 7
+    }
+]

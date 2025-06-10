@@ -1,0 +1,411 @@
+[
+    {
+        "type": "text",
+        "text": "雪岭云杉林叶片碳氮化学计量特征及其与土壤理化因子的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李晓菲,²，李路²，常亚鹏¹,²，许仲林1,2（1新疆大学资源与环境科学学院,新疆乌鲁木齐830046;2新疆大学资源与环境科学学院绿洲生态教育部重点实验室,新疆乌鲁木齐830046)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：碳(C)、氮(N)对于植物生长和生理调节机能意义重大。研究雪岭云杉林叶片C、N化学计量特征随土壤理化因子的变化特征，对于认识森林生态系统的分布格局和未来变化趋势具有重要意义，为进一步探讨全球变化对植物的影响提供科学依据。以雪岭云杉林叶片为研究对象，利用统计分析探究叶片C、N化学计量的变化特征，并利用冗余分析(Redundancy analysis,RDA)技术对叶片C、N化学计量特征与土壤理化因子的关系进行研究。研究结果表明,叶片C含量的平均值为$4 6 5 . 2 8 \\textrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ,变异系数为 $14 \\%$ ；叶片N含量的平均值为 $6 . 5 4 \\textrm { g } \\cdot \\textrm { k g } ^ { - 1 }$ ，变异系数为 $42 \\%$ ；土壤C/N的平均值为90.63，变异系数为 $8 2 \\%$ 。冗余分析的结果表明，在 $0 \\sim 3 0 ~ \\mathrm { c m }$ 层中，叶片C、N化学计量特征主要受到土壤含水量和 $\\mathrm { \\ p H }$ 的驱动，土壤含水量与叶片 $\\mathrm { C } / \\mathrm { N }$ 之间呈正相关关系，与叶片C、N含量之间呈负相关关系； $\\mathrm { \\ p H }$ 与叶片C、N含量成正比，与 $\\mathrm { C } / \\mathrm { N }$ 成反比；在 $3 0 \\sim 8 0 ~ \\mathrm { c m }$ 层中，土壤含水量和土壤粘粒含量是影响叶片C、N化学计量特征的主要因素，土壤含水量和叶片 $\\mathrm { C } / \\mathrm { N }$ 之间呈正比，土壤粘粒含量与C、N含量之间呈正比，与叶片C/N之间呈反比； $\\mathrm { \\ p H }$ 、土壤C、N含量对叶片C、N 化学计量特征的影响不显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键 词：雪岭云杉林；冗余分析；化学计量特征；理化因子文章编号： 1000-6060(2019)03-0599 -07(0599\\~0605)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "探究植物生产循环过程中碳（C）、氮（N）、磷(P)的相互关系有助于深入了解生态系统的循环过程[1]。近几年来,许多学者针对不同的时间和空间尺度上的多种生态系统元素的生态化学计量特征进行了较为细致的研究[2]。由于气候变化可能影响生物地球化学过程，因此，相关研究开始重视生态系统组分的元素含量及其生态化学计量比对气候等条件变化的响应[3]。在植物的生长发育过程中,C 和N 作为促进植物新陈代谢过程和植物体构建的重要元素[4],与P元素共同参与了碳水化合物、酶、纤维素等代谢过程[5]。在一定的区域范围内,植物C 和N元素能够反映其与环境之间的相互关系。相关研究表明，植物生长过程会受到C和N元素的共同影响,而影响植物生长的主要元素是由 $\\mathbf { C } : \\mathbf { N }$ 的大小所决定的，当然也与外界环境有一定的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，相关学者已对大区域尺度上植物与土壤$\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } } }$ 化学计量特征之间的关系进行了研究，其揭示了生物质化学循环过程中的养分迁移规律以及生态系统内植物养分的限制情况[7],分析了生态化学计量特征与温度和降水的关系[8-9]。王春节等人的研究结果表明,植物C和N与土壤含水量、土壤C：N、土壤容重之间存在相关关系[10],但针对不同土壤层理化因子与植物生态化学计量特征关系的研究较少，限制了环境因子对干旱区植物生态化学计量特征影响的研究。本文以雪岭云杉林叶片为研究对象，利用统计分析探究了叶片C、N化学计量的变化特征，并通过冗余分析（Redundancyanalysis,RDA）探究叶片C、N化学计量特征与土壤理化因子之间的相关关系，揭示雪岭云杉林的生态适应性，为探究干旱区植物生态化学计量特征的探究奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "天山位于亚洲的中部，山脉为东西走向，东西长近 $4 ~ 0 0 0 ~ \\mathrm { k m }$ ,南北宽约 $1 5 0 ~ \\mathrm { k m }$ 。天山处于准格尔盆地和塔里木盆地的中间位置，年均气温为 $3 . 1 ~ \\mathrm { ^ { q } C }$ ，并且年均温度差较大，年均降水量在 $4 0 0 \\sim 6 0 0 ~ \\mathrm { m m }$ ，多集中在5\\~9月份。天山北坡海拔 $1 ~ 6 0 0 \\sim 2 ~ 8 0 0 ~ \\mathrm { m }$ 的空间形成是以雪岭云杉（Piceaschrenkiana）林为主的针叶林景观，林下土壤类型为山地森林灰褐色土。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据采集与实验分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究选取乌鲁木齐等6个天山雪岭云杉林分布区，于2015—2016年的6\\~8月份进行土壤样本采集(图1）。在各样地选择 $1 \\sim 3$ 个海拔梯度连续的坡面，按照 $5 0 \\mathrm { ~ m ~ }$ 海拔高度间隔进行采样。在每一个海拔高度上设置 $2 0 \\ \\mathrm { m } \\times 2 0 \\ \\mathrm { m }$ 的采样样方，在样方内\"S”型选取3个采样点采集 $0 \\sim 8 0 ~ \\mathrm { c m }$ 的土壤样本，将土壤样本分层混合均匀装入自封袋，并均匀采集样点周边健康的雪岭云杉林叶片样本。并利用GPS 记录每个样方的海拔高度和经纬度信息。将野外采集的土壤样本带回实验室自然风干，磨细后通过 $\\mathrm { 0 . 1 4 9 \\ m m }$ 的孔径筛。将植物叶片样本在 $1 0 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 的温度下烘干 $2 4 \\mathrm { ~ h ~ }$ ,并用粉碎机粉碎过筛。土壤和叶片C采用重铬酸钾容量法—外加热法测定;全N",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用凯氏定氮仪测定[1] C ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 数据处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究利用Excel2010对数据进行整理并做基础统计分析，采用SPSS22.0对数据进行多元线性回归分析。将叶片的C、N含量作为研究对象，结合土壤理化因子数据（数据来源于中国科学院资源环境科学数据中心http：/www.resdc.cn），利用冗余分析（RedundancyAnalysis,RDA）分析叶片C、N与环境变量的关系。其中，各层( $\\mathrm { 0 \\sim 3 0 ~ c m }$ 和 $3 0 \\sim 8 0$ cm)土壤C、N含量、土壤含水量、电导率与 $\\mathrm { \\ p H }$ 的变异膨胀系数均小于临界值（临界值为20），说明可将其作为环境因子进行分析比较。叶片C、N含量的除趋势对应分析（Detrended correspondence analysis,DCA)表明排序轴梯度长度 $\\mathrm { L G A } < 3$ ,即叶片与环境之间为线性关系，适合线性排序法，可以用RDA进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 植物叶片C、N的变化特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由表1知，叶片 $\\smash { \\mathrm { ~ C ~ } , \\mathrm { ~ N ~ } }$ 含量的平均值分别为$4 6 5 . 2 8 \\mathrm { ~ , 6 . 5 4 ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ ,变异系数为 $14 \\%$ ） $4 2 \\%$ $\\mathrm { C } / \\mathrm { N }$ 的平均值为90.63，变异系数为 $82 \\%$ 。 $\\smash {  { \\mathrm { ~ C ~ } } _ { \\star }  { \\mathrm { ~ N ~ } } }$ 与 $\\mathrm { C } / \\mathrm { N }$ 的变异系数相对较大，说明叶片C、N含量具有很强的变异性。研究表明，叶片C元素与N元素之间没",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b75d9cf9c78e3086220d562d0e213d11f7229fc5aa5b54e3d5f9b9f8a8a720d.jpg",
+        "img_caption": [
+            "图1土壤采样点分布",
+            "Fig.1Soil sampling locations in study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc2645e53f275446e954c9834b5568ef7748926c4880e2d54ff2b66e3096be86.jpg",
+        "table_caption": [
+            "Tab.1 Classical statistical analysis of leaf C and N "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>平均</td><td>中值</td><td>标准 偏差</td><td>范围</td><td>变异 系数</td></tr><tr><td>C /g·kg-1 465.28</td><td></td><td>467.39</td><td>66.75</td><td>321.90 ~598.96</td><td>0.14</td></tr><tr><td>N /g·kg-1</td><td>6.54</td><td>6.18</td><td>2.72</td><td>0.69~17.06</td><td>0.42</td></tr><tr><td>C/N</td><td>90.63</td><td>73.63</td><td>74.67</td><td>28.49~579.98</td><td>0.82</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/51ec9414c938875a001f949443eacdf37247200321f2121058a38aa5d182b3e2.jpg",
+        "img_caption": [
+            "图2叶片C、N含量的相关性",
+            "Fig.2Relationship of leaf C and N contents "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有显著的相关性（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2叶片C、N含量与土壤理化因子的相关性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "叶片C、N含量对土壤理化因子有一定的响应利用数量生态学的RDA技术分析各层土壤C、N、土壤含水量、电导率、 $\\mathrm { \\Delta \\cdot \\ p H }$ 与叶片C、N化学计量特征的相关关系。 $0 \\sim 3 0 ~ \\mathrm { c m }$ 层中，叶片C、N化学计量特征在第I轴和第Ⅱ轴的解释量分别为 $6 7 . 7 0 \\%$ 和$2 . 6 0 \\%$ ,前两轴的解释量之和为 $7 0 . 3 0 \\%$ ,对叶片C、N 化学计量特征和影响因子关系的累计解释量高达$9 9 . 4 0 \\%$ ,说明前两轴即可较好地说明叶片C、N 化学计量特征与土壤理化因子间的关系，且主要取决于第I轴(表2）。 $3 0 \\sim 8 0 \\ \\mathrm { c m }$ 层中，叶片C、N化学计量特征在第I轴和第Ⅱ轴的解释量分别为 $5 0 . 5 \\%$ 和 $0 . 2 \\%$ ，前两轴的解释量之和为 $5 0 . 7 \\%$ ，对叶片C、N化学计量特征和影响因子关系的累计解释量为 $9 5 . 9 0 \\%$ ，说明前两轴即可较好地说明叶片C、N化学计量特征与土壤理化因子间的关系，同样取决于第I轴(表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3为土壤理化因子对叶片C、N化学计量特征影响的排序。由图3a可以看出，在 $0 \\sim 3 0 ~ \\mathrm { c m }$ 层中，土壤含水量和 $\\mathrm { \\ p H }$ 箭头的连线最长，说明土壤含水量和pH对叶片C、N化学计量特征变异的影响较大。土壤含水量与叶片C/N呈正相关关系，与叶片C、N含量呈负相关关系； $\\mathrm { \\ p H }$ 与叶片C、N含量呈正",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2叶片C、N化学计量特征的变化解释变量冗余分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ae9e462f90d5b909dbf08a18b0a4da5adc89b44c266a1cd5f453aa7bb64517a.jpg",
+        "table_caption": [
+            "表1叶片C和N的统计分析",
+            "Tab.2RDA of stoichiometric characteristics of leaf C and N "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">ofIeaf C andN</td></tr><tr><td>排序轴</td><td>土层深度 第I /cm 轴</td><td>第Ⅱ 轴</td><td>第Ⅲ 轴</td><td>第V 轴</td></tr><tr><td>特征值／%</td><td>0~30 67.70</td><td>2.60</td><td>0.50</td><td>0.10</td></tr><tr><td></td><td>30~80 50.50</td><td>0.20</td><td>0.05</td><td>0.00</td></tr><tr><td>叶片C、N化学计量特征</td><td>0~30</td><td>0.55 0.24</td><td>0.27</td><td>0.32</td></tr><tr><td>与土壤理化因子的相关性</td><td>30~80</td><td>0.43 0.51</td><td>0.34</td><td>0.21</td></tr><tr><td>化学计量特征累计</td><td>0~30</td><td>67.70 69.30</td><td>70.70</td><td>71.20</td></tr><tr><td>解释量／%</td><td>30~80</td><td>50.50 63.60</td><td>65.20</td><td>65.40</td></tr><tr><td>化学计量特征与土壤理</td><td>0~30</td><td>98.20 99.40</td><td>100.00</td><td>0.00</td></tr><tr><td>化因子累计解释量／%</td><td>30~80</td><td>93.80 95.90</td><td>97.80</td><td>100</td></tr><tr><td>典型特征值</td><td>0~30</td><td></td><td>0.71</td><td></td></tr><tr><td></td><td>30~80</td><td></td><td>0.65</td><td></td></tr><tr><td>总特征值</td><td>0~30</td><td></td><td>1</td><td></td></tr><tr><td></td><td>30~80</td><td></td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比，与叶片C/N呈反比。土壤含水量与叶片C、N含量之间的相关性最大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图3b可以看出，在 $3 0 \\sim 8 0 ~ \\mathrm { c m }$ 层中，土壤含水量和土壤粘粒含量箭头的连线最长，因此土壤含水量和土壤粘粒含量对叶片C、N化学计量特征变异的影响较大。土壤含水量和叶片C/N呈正相关关系，与其他化学计量特征值呈负相关关系； $\\mathrm { \\ p H }$ 、土壤粘粒含量、土壤C和N含量与叶片C、N含量呈正比，与叶片C/N呈反比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在排序图中，实线为叶片C、N化学计量特征，虚线为土壤理化因子;连线的长度为叶片C、N化学计量特征与土壤理化因子的大小关系，两个箭头连线之间的夹角为叶片C、N化学计量特征与土壤理化因子相关关系的大小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由此可知， $0 \\sim 3 0 ~ \\mathrm { c m }$ 和 $3 0 \\sim 8 0 \\ \\mathrm { c m }$ 层的土壤理化性质对叶片 $\\smash { \\mathrm { ~ C ~ } ,  { \\mathrm { N } } }$ 化学计量特征影响的差异性显著。进一步对不同土壤层的理化因子做Monte-Carlo 检验，其重要性排序如表3所示。 $0 \\sim 3 0 ~ \\mathrm { c m }$ 土壤层理化因子对叶片C、N化学计量特征的重要性排序由大到小依次为：土壤含水量、 $\\cdot \\mathrm { p H }$ 、土壤粘粒含量、土壤C含量、土壤N含量，其中土壤含水量对叶片C、N化学计量特征的影响极显著( $P = 0 . 0 0 1$ ），pH对叶片C、N化学计量特征的影响显著（ $P =$ 0.05);土壤粘粒含量、土壤C含量和土壤N含量对叶片C、N化学计量特征的影响不显著。 $3 0 \\sim 8 0$ cm土壤层理化因子对叶片C、N化学计量特征的重要性排序由大到小依次为：土壤含水量、土壤粘粒含",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/14df819d954a21b6d9e9e682699b790e9d5a487e18cc51d513290ac47c6ffbc1.jpg",
+        "img_caption": [
+            "注：LC;叶片碳含量 Leaf C;LN:叶片氮含量 Leaf N;L(C/N):叶片碳氮比；C:土壤碳含量;N:土壤氮含量;SWC：土壤含水量 Soil water content;SCC：土壤粘粒含量 Soilclay content图3叶片C、N含量与土壤理化因子( $0 \\sim 3 0 ~ \\mathrm { c m }$ 和 $3 0 \\sim 8 0 ~ \\mathrm { c m }$ )关系的冗余分析二维排序图Fig.3Bidimensionalordering chartoftheRDAofrelationshipsofcontentsofleaf CandNwith physicochemical factorsin $0 \\sim 3 0 ~ \\mathrm { c m }$ and $3 0 \\sim 8 0 ~ \\mathrm { c m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3 $\\mathbf { 0 } \\sim 3 \\mathbf { 0 } ~ \\mathrm { c m }$ 和 ${ \\bf 3 0 } \\sim { \\bf 8 0 } ~ { \\bf c m }$ 层土壤理化因子与排序轴的相关性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fd747095d7b4c8e3dcb169fc342876b07a872d4a30a04cad4efcd5835567bb5.jpg",
+        "table_caption": [
+            "Tab.3Correlation of soil physicochemical factors with the axes in O\\~30 cm and ${ \\bf 3 0 } \\sim { \\bf 8 0 } ~ \\mathrm { c m }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层深度 /cm</td><td>土壤理化因子</td><td>重要性 排序</td><td>F</td><td>P</td></tr><tr><td>0~30</td><td>土壤含水量</td><td>1</td><td>12.25</td><td>0.001</td></tr><tr><td>30~80</td><td>土壤含水量</td><td></td><td>9.52</td><td>0.002</td></tr><tr><td>0~30</td><td>pH</td><td>2</td><td>9.13</td><td>0.05</td></tr><tr><td>30~80</td><td>土壤粘粒含量</td><td></td><td>7.21</td><td>0.04</td></tr><tr><td>0~30</td><td>土壤粘粒含量</td><td>3</td><td>3.23</td><td>0.052</td></tr><tr><td>30~80</td><td>pH</td><td></td><td>2.16</td><td>0.714</td></tr><tr><td>0~30</td><td>土壤碳含量</td><td>4</td><td>2.46</td><td>0.243</td></tr><tr><td>30~80</td><td>土壤碳含量</td><td></td><td>0.88</td><td>0.350</td></tr><tr><td>0~30</td><td>土壤氮含量</td><td>5</td><td>0.19</td><td>0.666</td></tr><tr><td>30~80</td><td>土壤氮含量</td><td></td><td>0.46</td><td>0.402</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "量 $\\mathrm { \\nabla \\cdot \\ p H }$ 、土壤C含量、土壤N含量,其中土壤含水量对叶片C、N化学计量特征的影响极显著（ $\\boldsymbol { P } <$ 0.01），土壤粘粒含量对叶片C、N化学计量特征的影响显著( $\\ P < 0 . 0 5 ,$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "植物通过土壤供给的养分，为叶片生长提供所需要的营养物质。因此，土壤理化性质的变化对叶片C、N化学计量特征变异有重要的影响。李玉霖等人对中国北方植物叶片化学计量特征的研究表明土壤含水量与植物叶片含量有显著的相关性[12-13] C李红林等人认为土壤水分对植物发育过程有直接的影响[14]。本研究表明 $0 \\sim 3 0 ~ \\mathrm { c m }$ 和 $3 0 \\ \\sim \\ 8 0 \\ \\mathrm { c m }$ 层中土壤含水量均对叶片C、N化学计量特征有重要的影响，与上述结果相一致。相关研究表明，植物中的C、N等元素主要来源于土壤[15-17],植物吸收营养元素的多少取决于土壤中水分和养分的含量。土壤含水量影响着植物的生长[18]。本研究区范围较广且地形复杂,地形的改变影响了土壤水分，而土壤水分决定着土壤、植被以及群落的演替过程[19-20],其影响生态系统中的水热平衡。因此,植物叶片C、N 化学计量特征与土壤水分条件密切相关。土壤pH受土壤中氢离子浓度的影响,氢离子浓度越高，酸性越强，反之碱性越强。其反映了土壤微生物的活动、有机质的合成与分解的能力[21]。土壤pH通过影响土壤养分的分布和变化情况，进而影响植物的生长发育过程[22-24]。徐开杰等人研究表明土壤pH主要通过对土壤物理、化学及生物特性的影响而影响植物生长[25]。赛迪古丽等人认为土壤 $\\mathrm { \\ p H }$ 影响植物的外观形态和生长发育[26]。本研究中 $0 \\sim$ $3 0 \\ \\mathrm { c m }$ 层中土壤 $\\mathrm { \\ p H }$ 与植物叶片的生长密切相关,这可能与研究区降水差异大，使得 $0 \\sim 3 0 ~ \\mathrm { c m }$ 层土壤受到淋溶作用不同有关。降雨量增加，淋溶作用加强，土壤中吸附的 $\\mathrm { ~ H ~ } ^ { + }$ 数据增加[27-28],使得土壤酸性增加，反之土壤碱性增加。因此， $0 \\sim 3 0 ~ \\mathrm { c m }$ 层土壤pH是影响叶片C、N化学计量特征的因素之一。 $3 0 \\sim$ $8 0 ~ \\mathrm { c m }$ 层土壤受到降水淋溶作用小,盐碱程度差距不大，且空间差异性较小，因此， $3 0 \\sim 8 0 ~ \\mathrm { c m }$ 层土壤$\\mathrm { \\ p H }$ 对叶片C、N化学计量特征的影响不大。植物与土壤在地球化学循环之间存在相关关系，植物中养分的主要来源是土壤。一些研究表明，土壤粘粒含量与土壤通透性、土壤养分含量等密切相关[29-31]相比于 $0 \\sim 3 0 ~ \\mathrm { c m }$ 层， $3 0 \\sim 8 0 ~ \\mathrm { c m }$ 层土壤粘粒含量的差异性较大，因此 $3 0 \\sim 8 0 ~ \\mathrm { c m }$ 层土壤粘粒是影响叶片C、N 化学计量特征的因素之一。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤C、N含量对叶片C、N化学计量特征的影响均未达到显著水平。利用冗余分析技术研究土壤含水量、土壤粘粒含量、 $\\mathrm { \\ p H }$ 、土壤C、N含量对叶片C、N化学计量特征的影响，进而了解干旱区的森林生态系统内稳性。但对土壤含水量、土壤粘粒含量、pH、土壤C、N含量与叶片C、N化学计量特征进行独立分析存在一定的缺陷，土壤理化因子对叶片C、N 化学计量特征的影响并非独立，且土壤理化因子之间也有相互影响与制约关系。因此，在进一步的研究中，应分析土壤理化因子之间对叶片C、N化学计量特征的双重或多重影响，使得研究结果更加精确、合理。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "雪岭云杉林作为天山森林的单一优势树种，其生长发育与分布状况对天山森林群落结构的构成有重要的作用。研究雪岭云杉林叶片C、N化学计量特征与土壤理化因子之间的关系，有助于了解环境对其群落发展的影响，进而为生态系统的可持续发展做贡献。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）叶片C含量的平均值为 $4 6 5 . 2 8 \\textrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ ）变异系数为 $14 \\%$ ,叶片N含量的平均值为 $6 . 5 4 \\mathrm { ~ g ~ }$ ：$\\mathbf { k g } ^ { - 1 }$ ,变异系数为 $42 \\%$ $\\mathrm { C } / \\mathrm { N }$ 的平均值为90.63,变异系数为 $8 2 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）在 $\\mathrm { ~ 0 ~ } \\sim 3 0 ~ \\mathrm { c m }$ 土壤层中,土壤含水量和pH是影响叶片C、N化学计量特征的主要因素，且C、N含量与土壤含水量成反比，与 $\\mathrm { \\ p H }$ 成正比； $\\mathrm { C } / \\mathrm { N }$ 与土壤含水量成正比，与 $\\mathrm { \\ p H }$ 成反比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）在 $3 0 \\ \\sim \\ 8 0 \\ \\mathrm { c m }$ 土壤层中,叶片C、N化学计量特征主要受土壤含水量和土壤粘粒含量的影响， $\\mathrm { C } / \\mathrm { N }$ 与土壤含水量和土壤粘粒含量存在相关关系，土壤粘粒含量与C、N含量成正比",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4）在 $\\mathrm { ~ 0 ~ } \\sim 3 0 \\ \\mathrm { c m }$ 和 $3 0 \\ \\sim \\ 8 0 \\ \\mathrm { c m }$ 土壤层中,$\\mathrm { \\ p H }$ 、土壤C、N含量均未对叶片C、N化学计量特征产生显著的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]ELSERJJ,STERNERRW,GOROKHOVAE,et al.Biological stoichiometry from genes to ecosystems[J].Ecology Letters,2010, 3(6) :540 -550. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2］李征,韩琳,刘玉虹,等.滨海盐地碱蓬不同生长阶段叶片C、 N、P化学计量特征[J].植物生态学报,2012,36（10）：1054- 1061.[LI Zheng,HAN Lin,LIU Yuhong,et al.C,N and $\\mathrm { ~ \\bf ~ P ~ }$ stoichiometric characteristics in leaves of Suaeda salsa during diffrent growth phase in coastal wetlands of China[J].Chinese Journal of Plant Ecology,2012,36(10）:1054 -1061.]   \n[3]HE M,DIJKSTRTA FA.Drought effect on plant nitrogen and phosphorus:A meta-analysis[J]. New Phytologist,2014,204(4）: 924.   \n[4]WAAL D BVD,VERSCHOORA M,VERSPAGEN JM,et al. Climate-driven changes in the ecological stoichiometry of aquatic ecosystems[J].Frontiers in Ecology and the Environment,2010,8 (3) :145 -152.   \n[5]ELSERJJ,FAGAN WF,KERKHOFF A J,et al. Biological stoichiometry of plant production：metabolism,scaling and ecological response to global change[J].New Phytologist,2010,186（3）: 593 - 608.   \n[6]CLELAND EE.Nutrient co-limitation of primary producer communities[J].Ecology Letters,2011,14(9）:852-862.   \n[7］孙美美,关晋宏,岳军伟,等.黄土高原西部针叶林植物器官与 土壤碳氮磷化学计量特征［J].水土保持学报,2017,31（3）： 202-208.[SUN Meimei,GUAN Jinhong,YUE Junwei,et al. Carbon,nitrogen,and phosphorus stoichiometry in plant organsand soil of coniferous forests on the western Loess Plateau[J]. Journal of Soil and Water Conservation,2017,31(3）:202-208.]   \n[8］卢同平,张文翔,牛洁,等.典型自然带土壤氮磷化学计量空间 分异特征及其驱动因素研究[J].土壤学报,2017,54（3）： 682-692.[LU Tongping,ZHANGWenxiang,NIU Jie,etal.Studyonspatial variabilityanddriving factorsof stoichiometryof nitrogen and phosphorus in soil of typical natural zones of China[J]. Acta Pedologica Sinica,2017,54(3）:682-692.]   \n[9］任运涛,徐翀,张晨曦,等.贺兰山青海云衫针叶C、N、P含量及 其计量比随环境因子的变化特征［J].干旱区资源与环境, 2017,31（6）:185-191.[REN Yuntao,XU Chong,ZHANG Chenxi,et al.Variations in leaf C,N,Pand stoichiometric of Picea crassifolia along the environmental gradient in Helan Mountains [J]. Journal of Arid Land Resourcesand Environment,2017,31 (6):185 -191.]   \n[10］王春杰,朱志梅,张仁慧,等.陕北榆林地区沙漠化土壤理化性 质、土壤酶活性及其与植物C,N的关系[J].水土保持通报， 2010,30（5）:57-62.[WANG Chunjie,ZHU Zhimei,ZHANG Renhui,et al.Relations of soil physicochemical properties and soil enzyme activities with plant Cand N in Yulin area of north Shaanxi Province[J].Buletin of Soil and Water Conservation,2010,30 (5) :57 -62.]   \n[11］鲍士旦.土壤农化分析[M].第3版.北京:中国农业出版社, 2000.[BAO Shidan. Soil agrochemical analysis $\\left[ \\mathrm { ~ M ~ } \\right] . \\mathrm { ~ 3 ~ } ^ { \\mathrm { { r d } } }$ ed. Beijing:China Agriculture Press,2000.]   \n[12]ZHAO N,HE N,WANG Q,et al. The altitudinal patterns of leaf ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { ~ C ~ } } : { \\mathrm { ~ N ~ } } : { \\mathrm { ~ P ~ } }$ stoichiometry are regulated by plant growth form,climate and soil on Changbai Mountain,China[J].Plos One,2014,9（4）: e95196. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13］李玉霖，毛伟，赵学勇，等.北方典型荒漠及荒漠化地区植物叶片氮磷化学计量特征研究[J].环境科学，2010，31（8)：1716-1725.[LI Yulin,MAO Wei,ZHAO Xueyong,et al.Leaf nitrogenand phosphorus stoichiometry in typical desert and desertified re-gions,North China[J].Chinese Journal of Environmental Science,2010,31(8):1716-1725.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[14］李红林,贡璐,朱美玲,等.塔里木盆地北缘绿洲土壤化学计量特征[J].土壤学报,2015,52（6）：1345-1355.[LIHonglin,GONGLu,ZHU Meiling,et al.Stoichiometric characteristics of soilinan oasis on northernedge of Tarim Basin,China[J].Acta Ped-ologica Sinica,2015,52(6):1345-1355.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[15］刘旻霞,车应弟,李俐蓉，等.甘南高寒草甸微地形上植物叶片特征与环境因子的冗余分析[J].生态学杂志,2017,36（9）：2473-2480.[LIU Minxia,CHE Yingdi,LI Lirong,et al.Redun-dancyanalysisofleaf traitsand environmental factors of alpinemeadowinSouthern GansuProvinceJ」.ChineseJournalofEcology，2017，36(9):2473-2480.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[16]HAN W,FANG J,GUO D,et al.Leaf nitrogen and phosphorus stoichiometry across 753 terrestrial plant species in China[J].New Phytologist,2005,168(2） :377-385. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[17]HAO X M,LIWH,XIANG H,et al.Assessment of the groundwater threshold of desert riparian forest vegetation along the middle and lower reaches of the Tarim River,China［J].Hydrological Processes,2010,24(2):178-186. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[18］刘旻霞，王刚.高寒草甸植物群落多样性及土壤因子对坡向的 响应［J].生态学杂志,2013,32（2）:259-265.[LIU Minxia, WANG Gang.Responses of plant community diversity and soil factors to slope aspect in alpine meadow[J].Chinese Journal of Ecology,2013,32(2) :259-265.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[19］刘育红，魏卫东，杨元武，等.高寒草甸退化草地植被与土壤因 子关系冗余分析[J].西北农业学报，2018，27（4)：480-490. [LIUYuhong,WEI Weidong,YANG Yuanwu,et al.Redundancy analysis on relationships between grassland vegetation and soil factors on degraded alpine meadow[J].Acta Agriculturae Boreali-occidentalis Sinica,2018,27(4）:480-490.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[20］郑丽婷,苏田,刘翔宇,等.庙岛群岛典型植物群落物种、功能、 结构多样性及其对环境因子的响应[J].应用生态学报,2018， 29（2）:343-351.[ZHENG Liting,SU Tian,LIU Xiangyu,et al. Species,functional,structural diversity of typical plant communities and their responses to environmental factors in Miao Archipelago, China[J].Chinese Journal of Applied Ecology,2018,29（2）： 343-351.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[21］宋娟丽.黄土高原草地土壤质量特征及评价研究[D].杨凌：西北农林科技大学,2O1O.［Song Juanli.The characteristics andevaluation on soil quality of grassland in Loess Plateau[D].Yan-gling:NorthwestA&FUniversity,2010.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[22]REICHP B,OLEKSYN J.Global patterns of plant leaf N and $\\mathrm { \\Delta P }$ in relation to temperature and latitude[J].Proceedings of the National Academyof Sciencesof theUnited Statesof America,2OO4,101 (30）:11001. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[23]ZHANX,YUG,HE N.Effects of plant functional types,climate and soil nitrogen on leaf nitrogen along the north-south transect of eastern China[J].Journal of Resources and Ecology,2O13,4（2）： 125-132. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[24］唐琨，朱伟文，周文新，等.土壤pH对植物生长发育影响的研究进展［J].作物研究,2013,27（2）：207-212.［TANG Kun,ZHUWeiwen,ZHOU Wenxin,et al.Research progress on effects ofsoil pH on plant growth and development[J].Crop Research,2013,27(2):207-212.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[25］徐开杰，史丽丽，王勇锋，等.水培条件下 $\\mathrm { \\ p H }$ 值对柳枝稷幼苗 生长发育的影响[J].生态学报，2015，35（23）：7690-7698. [XUKaijie,SHILili,WANG Yongfeng,etal.Effectof thepH value on switchgrass seedling growth and development in hydroponics [J].Acta Ecologica Sinica,2015,35(23）:7690-7698.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[26］赛迪古丽·哈西木,海米提·依米提.于田绿洲土壤pH值的空间异质性及其对芦苇生长的影响研究一以喀尔克乡为例[J].新疆师范大学学报（自然科学版），2012,31（2）：9-15.[SAYDIGUL Haxim,YIMITHamid.Spatial variability of soil pHvalueand its effects on the growth of phragmitesaustralis in KeriyaOasis:Taking Karki Village as an example[J]. Journal of XinjiangNormal University(Natural Sciences Edition）,2012,31（2）:9-15.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[27］刘贤德,赵维俊,张学龙，等.祁连山排露沟流域青海云杉林土 壤养分和pH变化特征[J].干旱区研究，2013，30(6)：1013- 1020.[LIUXiande,ZHAOWeijun,ZHANGXuelong,etal.Variation of soil nutrient content and $\\mathrm { \\ p H }$ valueunderPicea crassifolia forest in the Pailugou Drainage Basinin the Qilian Mountains[J]. Arid Zone Research,2013,30(6):1013-1020.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[28］苏凯文,陈路红,郑伟,等.云南杨梅碳、氮、磷化学计量特征 [J].植物生态学报,2017,41（1）:136－146.[SU Kaiwen, CHENLuhong,ZHENGWei,etal.Carbon,nitrogenand phosphorus stoichiometry of Myrica nana in Yunnan,China[J].Chinese Journal ofPlantEcology,2017,41（1):136-146.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[29］桑巴叶，朱玉伟,刘康,等.伊犁河谷不同森林模式下土壤的养 分特征和粒径组成[J].水土保持通报，2017，37（5）：328- 332.［SANG Baye,ZHU Yuwei,LIU Kang,et al. Soil nutrients properties and particle size composition under different forest pattern in IliRiver Valley[J].Bulletin of Soil and Water Comservation,2017,37(5) :328-332.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[30］杨阔，黄建辉，董丹，等.青藏高原草地植物群落冠层叶片氮磷化学计量学分析［J」.植物生态学报，2010，34（1）：17-22.[YANG Kuo,HUANG Jianhui,DONG Dan,et al.Canopy leaf NandP stoichiometry in grassland communities of Qinghai-TibetanPlateau,China[J].Chinese Journal of Plant Ecology,2010,34(1):17 -22.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[31」王晶苑，王绍强，李纫兰，等.中国四种森林类型主要优势植物 的C：N：P化学计量学特征[J].植物生态学报，2011，35 (6）:587-595.[WANG Jingyuan,WANG Shaoqiang,LI Renlan, et al.C:N:P stoichiometric characteristics of four forest types' dominant tree species in China[J].Chinese Journal of Plant Ecology,2011,35(6) :587-595.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Stoichiometric characteristics of leaf C and N and their correlation with soil physicochemical factors in Picea Schrenkiana forests ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LI Xiao-fei²，Lu1²，CHANGYa-peng，XUZhong-lin2 (1Colege of Resource and Environmental Science,Xinjiang University,Urumqi 83o046,Xinjiang,China; 2KeyLaboratoryofOasis Ecology,Collge of Resource and EnvironmentalScience,Xinjiang University,Urumqi 830046, Xinjiang,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Carbon（C）and nitrogen（N）play important roles in plant growth and physiological functions.Study of the relationship between the CandNcontent in leaves of a plant and its environmental factors contributes to elucidatingthe supplyof plant nutrientsand plant growth in diferent environments whichis of great significance to understand the distribution pattrn of forest ecosystems and the trend offuture changes,and even the responseof plants to global change.This paper took the leaves of Picea schrenkiana(Schrenk's spruce)forests and the corresponding soil of thetrees as the studyobjects.With samples collcted from the field,we retrieved the Cand Ncontents in he leavesand analyzed diferent soil layers.Then we evaluated thevariation of CandNstoichiometric characteristics through statistical analysis.Finally,theredundancyanalysis(RDA)wasused to investigatetherelationships between the stoichiometriccharacteristics of Cand N from the leaves and thesoil physicochemical factors.The results showed that the average concentrations of C and N in the leaf were $4 6 5 . 2 8 \\textrm { g } \\cdot \\mathrm { k g } ^ { - 1 }$ and $6 . 5 4 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ k g ~ } ^ { - 1 }$ respectively, and the variation coefficient were $14 \\%$ and $82 \\%$ respectively.The RDA showed that in the soil layer from O to 30 cmthe stoichiometriccharacteristics of CandNinthe leaf were mainlyafected bysoil water content and its acidity-alkalinity.Forthesoil watercontent,there was a positive corelation with the C/Nratiobutanegativecorrelation withtheCandNcontent inthe leaf whilefortheacidity-alkalinityof thesoil,there wasapositivecorelation with C and N contents in the leaf but a negative correlation with the C/N ratio.In the soil layer from 30 to $8 0 ~ \\mathrm { c m }$ ,the stoichiometric characteristics of CandNinthe leaf were mainly affctedbysoil water content and soil claycontent. Specifically,for soil water content,there was a positive correlation with the C/Nratio.For soil claycontent,there was a positive correlation with CandNcontents buta negative corelation with the C/Nratio.Additionally,there were not significant relationships between $\\mathrm { \\ p H }$ and the C and N contents in the soil and the leaf's C and N stoichiometric characteristics.The soil water content in diferent soil layers was related tothestoichiometric characteristics of C and N from the leaf,which indicated that the soil water content had certain effcts on nutrient uptake by plants,and that was not related to the soil depth. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key words:Picea schrenkiana forests；redundancy analysis； stoichiometric characteristics；physicochemicalfactor",
+        "page_idx": 6
+    }
+]

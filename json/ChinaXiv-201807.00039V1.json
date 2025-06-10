@@ -1,0 +1,305 @@
+[
+    {
+        "type": "text",
+        "text": "地高辛标记Ucp2基因RNA探针的制备和应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘志贞1，张凯丽1，孙雨晴1，赵虹1，郝宇卉²，李美宁1\\*\\*（1山西医科大学生物化学与分子生物学教研室 太原 030001）（2 忻州职业技术学院医学系基础医学教研室忻州034000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要目的：为了制备用于检测小鼠胚胎早期Ucp2基因表达的地高辛标记的特异性RNA探针。方法：提取小鼠胚胎脑组织总RNA，设计引物，通过RT-PCR方法获取Ucp2基因片段，将其克隆到pGEM-T载体。分别利用 Sp6、T7和Ucp2特异性引物，PCR扩增获得转录模板，通过 Sp6及T7RNA聚合酶，获得地高辛标记的正义、反义Ucp2RNA原位杂交探针。检测标记探针的效价后，通过全胚胎原位杂交分析制备探针的特异性和杂交效果。结果：成功获得Ucp2基因正义、反义探针，反义探针能高效灵敏检测到Ucp2基因在小鼠胚胎 Ed9.5、Ed10.5神经系统呈现高表达，而正义探针未能检测到表达信号。结论：成功制备了特异高效的地高辛标记Ucp2RNA 原位杂交探针，为进一步研究Ucp2基因在小鼠胚胎组织中的表达，尤其在神经组织的定位奠定基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 Ucp2 RNA 探针 全胚胎原位杂交",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Preparation And Application Of The Ucp2 Gene RNA Probe Labeled By Digoxin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Zhi-zhen1, ZHANG Kai-li', SUN Yu-qing1, ZHAO Hong1, HAO Yu-hui ², LI Mei-ningl\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1 Department of Biochemistry & Molecular Biology, Shanxi Medical University, Taiyuan, O30o01, China) (2 Department of Preclinical Medicine, Xinzhou Vocational and Technical College, Xinzhou, O340o0, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To prepare the Ucp2 gene RNA probe labeled by digoxin, and was used to detect the early Ucp2 gene spatiotemporal expression in mouse embryos. Methods The primers were designed and the total RNA was extracted from fetal mice nervous tissue. The Ucp2 gene fragment was obtained by RT-PCR and cloned into the pGEM -T vector. Then transcription template was obtained using Sp6, T7 and Ucp2 primers by PCR. Using Sp6 and T7 RNA polymerase, the digoxingenin-labeled antisense and sense probes were synthesized and confirmed by whole embryo in situ hybridization. ResultsTheplasmid pGEMT-UCP2wasconstructed. The digoxingenin-labeled antisense Ucp2 probe was effectively detected in mice Ed9.5 and Ed10.5,and the expression was not detected by the sense probe. Conclusion The antisense Ucp2 probe can be used specifically and sensitively for study in situ hybridization and lay the foundation for further research of Ucp2 expression in the tissue of mouse embryo, especially in the nerve tissue. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words:Ucp2； RNA probe； whole embryo in situ hybridization",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "神经管畸形（NeuralTubeDefects,NTDs）是一种主要发生在中枢神经系统的严重先天性出生缺陷，我国部分省份发病率高达 $1 9 . 9 \\text{‰}$ ，已经成为导致新生婴儿先天畸形和残疾的重要原因之一。神经管闭合是精密调控的动态过程，当受到环境或者遗传因素的影响，会引起神经管畸形发生[2-4]。近年来研究证明，糖尿病、肥胖及活性氧等因素是神经管畸形发生的潜在因素，而这些因素均与解偶联蛋白2（Uncoupling Protein 2,Ucp2）有关[5’6]，故 Ucp2成为NTDs 的候选基因。Lupo PJ等[7]和本课题组的研究均显示Ucp23'-非翻译区的插入/缺失多态性可能是神经管畸形危险因素[8]。但是Ucp2与神经管畸形的具体关系尚不清楚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "进一步研究Ucp2与NTDs发生的关系及探索其中的机制，首要问题是揭示其在神经管发育中的表达及定位。核酸探针已被广泛用于筛选检测基因，地高辛（Digoxigenin,DIG）因其灵敏度高、特异性好、无放射性危害等优点近年来成为核酸探针的常用标记物[9]，目前还未见DIG 标记Ucp2RNA探针的相关报道。本课题利用RNA聚合酶在体外转录中将DIG-11-dUTP掺入RNA产物制备DIG标记的Ucp2RNA探针，并通过全胚胎原位杂交技术检测小鼠胚胎组织神经管发育中Ucp2mRNA表达情况确定探针的效果，此探针的成功制备将为后续研究提供检测Ucp2基因的高效手段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料  \n1.1.1动物：C57小鼠， $2 0 { - } 2 5 \\mathrm { g }$ 体重,12-15周，购自山西医科大学动物实验中心1.1.2 主要试剂：T7RNA polymerase，SP6 RNA Polymerase 购自 Promega 公司,DNA RNA labeling Mix（DIG-11-dUTP）购自 ROCHE 公司，PCR Master Mix 购自TIANGEN公司  \n1.2 实验方法  \n1.2.1制备 cDNA 模板  \n收集小鼠胚胎脑组织，Trizol试剂提取总RNA，并用 $1 \\%$ 琼脂糖凝胶电泳检",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "测提取总RNA的完整性。使用TAKARA公司反转录试剂盒反转录成cDNA，将反转录的cDNA 保存在 $- 2 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 Ucp2引物设计、反转录",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ucp2探针引物设计：根据小鼠Ucp2基因的cDNA序列：http://www.ncbi.nlm.nih.gov/gene/22228设计引物：F-UCP2-1:TTGGTTTCAAGGCCACAGAT， R-UCP2-1: GAGATTGGTAGGCAGCCATT;F-UCP2-2: CCAACAGCCACTGTGAAGTTR-UCP2-2：GCTGCTCATAGGTGACAAACA。预计 UCP2 -F2/R2 扩增得到的探针模板长度为： $8 5 0 \\mathrm { b p }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "巢式PCR反应物的组成：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR反应体系一： $2 \\times$ Mastermix (Transgene) $1 0 \\mu \\updownarrow . 7 \\mu \\updownarrow$ 的超纯水、 $1 \\mu 1$ 的正反向（F1和R1）引物（ $( 5 \\mu \\mathrm { M } )$ 、和 $1 \\mu \\mathrm { l }$ 的 cDNA。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR反应体系二： $2 \\times$ Mastermix (Transgene) $1 0 \\mu \\mathrm { l }$ 、 $7 \\mu 1$ 的超纯水、 $1 \\mu 1$ 的正反向（F2 和R2）引物 $( 5 \\mu \\mathrm { M } )$ 、和 $1 \\mu \\mathrm { l }$ 的上一轮 PCR 反应产物。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR反应条件： $9 5 ^ { \\circ } \\mathrm { C } \\ 3 \\mathrm { m i n }$ ， $3 5 \\times ( 9 5 ^ { \\circ } \\mathrm { C }$ 30s、 $5 6 ^ { \\circ } \\mathrm { C }$ 30s、 $7 2 \\mathrm { { ^ \\circ C } }$ 1min,)， $7 2 ^ { \\circ } \\mathrm { C }$ $1 0 \\mathrm { { m i n } }$ ， $4 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3目标片段克隆至 pGEM-TEasy 载体、转化及表达",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 PCR 扩增产物连接至 pGEM-TEasy 载体中。连接的反应体系为：$2 \\times$ Rapid Ligation Buffer $2 . 5 \\mu \\updownarrow$ 、T4连接酶(TAKARA) $0 . 5 ~ \\mu \\updownarrow$ 、pGEM-TEasy 载体(Promega） $0 . 5 ~ \\mu \\updownarrow$ 、扩增产物 $1 . 5 ~ \\mu \\updownarrow$ 。室温连接1h。将连接产物 ${ 5 \\mu \\mathrm { l } }$ 加入到100$\\mu \\mathrm { l }$ 的Trans $5 \\alpha$ 感受态大肠杆菌中，冰上放置 $3 0 \\mathrm { m i n }$ ， $4 2 ^ { \\circ } \\mathrm { C }$ 热激 $1 \\mathrm { m i n }$ ，冰上放置 $2 \\mathrm { m i n }$ ，加入 $1 2 5 \\mu \\mathrm { l } \\mathrm { L B }$ 液体培养基，摇床摇菌 $4 5 \\mathrm { m i n }$ （ $3 7 ^ { \\circ } \\mathrm { C }$ ，210rpm）。将涂布后的平板倒置 $3 7 ^ { \\circ } \\mathrm { C }$ 细菌培养箱中培养 12-14h。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4挑选阳性转化子测序 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每个平板挑取16 个转化子，进行 PCR。PCR 反应体系为： $2 \\times$ MasterMix（Transgene） $1 0 ~ \\mu \\mathrm { l }$ ，超纯水 $7 \\mu \\mathrm { l }$ 、UCP2-F2 和 UCP2-R2 引物（ ${ 5 \\mu \\mathrm { M } }$ ）及模板各 $1 \\mu \\mathrm { L }$ 。反应条件为 $9 5 ^ { \\circ } \\mathrm { C } ~ 2 \\mathrm { m i n }$ ， $3 5 \\times ( 9 4 ^ { \\circ } \\mathrm { C } \\ 3 0 \\mathrm { s }$ ， $5 8 ^ { \\circ } \\mathrm { C }$ 30s， $7 2 ^ { \\circ } \\mathrm { C } \\ 1 \\mathrm { m i n } )$ ， $7 2 ^ { \\circ } \\mathrm { C }$ $1 0 \\mathrm { { m i n } }$ ， $4 ^ { \\circ } \\mathrm { C }$ 。取 $4 \\mu \\mathrm { l } \\mathrm { P C R }$ 产物进行 $1 \\%$ 琼脂糖凝胶电泳。PCR鉴定阳性的转化子进行测序鉴定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5DIG-Ucp2RNA 探针体外转录制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "探针模板制备：将测序正确的携带目标片段质粒的菌液利用质粒小提试剂盒（GENERAY）提质粒，将质粒命名为pGEMT-Ucp2。pGEMT-Ucp2插入方向为SP6方向。将pGEMT-Ucp2作为模板，进行PCR。PCR反应体系为：$2 \\times$ MasterMix（Transgene） $1 0 \\mu \\mathrm { l }$ ，超纯水 $7 \\mu \\mathrm { l }$ 、UCP2-F2（UCP2-R2）和T7（SP6)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "引物（ ${ \\bf \\nabla } \\cdot { \\bf 5 \\mu \\mathrm { M } } ^ { * }$ ）及模板各 $1 \\mu \\mathrm { L }$ 。反应条件为 $9 5 ^ { \\circ } \\mathrm { C }$ 2min, $3 5 \\times ( 9 4 ^ { \\circ } \\mathrm { C }$ 30s， $5 8 ^ { \\circ } \\mathrm { C }$ 30s,$7 2 ^ { \\circ } \\mathrm { C } \\ 1 \\mathrm { m i n } )$ ， $7 2 ^ { \\circ } \\mathrm { C } \\ 1 0 \\mathrm { m i n }$ ， $4 ^ { \\circ } \\mathrm { C }$ 。将上述 PCR 产物利用无酶污染的 PCRclean up（Axygen）试剂盒收集线性化模板。回收溶剂为无核酸的超纯水，回收体积均为 $1 5 \\mu \\mathrm { l }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探针体外转录制备：将上述纯化后的模板用T7RNA 聚合酶进行体外合成。使用RNA 体外转录试剂盒（MAXIscript SP6/T7，Ambion，USA）进行转录。按试剂盒说明书依次加入 $1 0 \\times$ transcription buffer $2 \\mu \\mu$ 、10mMATP $1 \\mu \\mathrm { l }$ 、10mM CTP1μl、10mMGTP $1 \\mu 1$ 、10mMUTP $0 . 6 \\mu \\mu$ ，10mM DIG-11-UTP $1 \\mu \\mathrm { l }$ ， RNA polymerasemix（SP6/ T7） $2 \\mu 1$ ，Template DNA $1 1 . 4 \\mu \\mathrm { l }$ ，轻弹混匀离心后， $3 7 ^ { \\circ } \\mathrm { C }$ 水浴1h。加入 DNase I （Ambion,USA） $1 \\mu 1$ ， $3 7 ^ { \\circ } \\mathrm { C }$ 水浴 $1 5 \\mathrm { m i n }$ ，以去除模板。之后加入 $3 0 \\mu \\mathrm { l }$ DEPC水扩大体积至 $5 0 \\mu \\mathrm { l }$ ，同时加入 ${ 5 \\mu \\mu }$ 无核酸酶 3M 醋酸钠（ $\\mathsf { p H } 5 . 2$ ）和3倍体积的无水乙醇（国产分析纯）， $- 8 0 ^ { \\circ } \\mathrm { C }$ 过夜沉淀。 $4 ^ { \\circ } \\mathrm { C } \\ 1 2 { , } 0 0 0 \\mathrm { g }$ 离心 $2 0 \\mathrm { { m i n } }$ ，去除上清后，沉淀在通风橱晾干，然后以 $2 0 \\mu \\mu$ 无核酸酶超纯水重悬。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6小鼠全胚胎原位杂交Ucp2在Ed9.5、Ed10.5的表达",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "处死妊娠母鼠，获取Ed9.5、Ed10.5小鼠胚胎，浸于PBS配置的 $4 \\%$ 多聚甲醛（PFA）中， $4 ^ { \\circ } \\mathrm { C }$ 固定过夜，按常规标准步骤操作[10]。对照组用正义Ucp2 探针，与实验组同时进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 探针模板 重组质粒pEGMT-Ucp2鉴定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过基因工程方法构建重组质粒pEGMT-Ucp2作为表达DIG-Ucp2RNA探针的模板，利用UCP2-F2和UCP2-R2引物对转化菌提取质粒进行PCR鉴定，结果M为 Marker（Trans 2K PlusDNAMarker），泳道1-8 为引物UCP2-F2 和UCP2-R2扩增结果，从图1中可以看出，第2、4转化子为阳性克隆，在850bp附近呈现单一条带，与预期结果相符。选择2泳道的阳性重组子菌液携带的质粒进行测序分析，blast比对显示序列正确无误（序列信息参见NM011671)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/18fe49f8b83b0bb5a6f264e9c17fa399611c46d0d3c290c5ae5368134d74a66b.jpg",
+        "img_caption": [
+            "图1重组质粒PCR鉴定",
+            "Fig.1 PCR analysis of recombinant plasmid "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "M: DNA marker（Trans 2K Plus DNA Marker)； 1\\~8: The PCR products of UCP2 recombinantplasmid",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 DIG-Ucp2RNA探针制备",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用 SP6、T7RNA 聚合酶在体外转录合成掺入DIG-11-dUTP 的单链反义及正义Ucp2RNA探针，经纯化后进行琼脂糖凝胶电泳，结果表明探针的完整性较好（图2），经紫外分光光度计测定DIG-Ucp2RNA探针浓度为 $1 4 8 8 . 0 3 \\mathrm { n g / u l }$ $\\scriptstyle \\left( \\mathrm { O D 2 6 0 } / 2 8 0 = 1 . 9 8 \\right)$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3321f0872128e4fb79875fc778641fa81a5b3b8ad7994c211f89c1a0d197ecc5.jpg",
+        "img_caption": [
+            "图2Ucp2RNA探针电泳图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "M: DNA Marker (Trans 2K Plus DNA Marker); 1: DIG-Ucp2 RNA probe ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 DIG-Ucp2RNA探针全胚胎原位杂交结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过小鼠全胚胎原位杂交检测，反义探针检测到Ucp2在9.5d和10.5d的胚胎中主要表达在脑组织的前脑、后脑、中脑和神经管发育部位，正义探针未能检测出Ucp2mRNA的表达（图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/800a61abb8466767e8542c1329deed64af843dfff9905a5500c96252f275b54b.jpg",
+        "img_caption": [
+            "Fig.2 the electrophoretogram ofDIG-Ucp2 RNA probe ",
+            "图3DIG-Ucp2RNA探针全胚胎原位杂交"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 the results of total embryo in situ hybridization by DIG-Ucp2 RNA probe ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.讨论",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NTDs是发生在中枢神经系统的严重先天性出生缺陷，阐明其发生发展的分子机制，需要首先明确相关基因在神经管闭合的过程中的表达情况，因此原位杂交技术在NTDs中显得尤为重要。全胚胎原位杂交技术不同于一般在载片上对细胞或组织切片进行探针杂交检测的原位杂交，而是对完整胚胎进行杂交检测，从而在整体上观察探针的结合部位，因此核酸探针具有更明显的优势[I]。核酸探针最早使用放射性同位素进行标记，虽具有敏感性高、特异性好、分辨力强等优点，但是制作成本高、半衰期短，而且有放射性危害，需要专门的实验室和相应的防护措施，限制了其应用。生物素标记探针具有高灵敏度，但是由于生物样品中常含有内源性生物素及生物素结合蛋白，检测时会发生非特异性结合，影响实验效果，在检测生物样品中应用受限。地高辛标记探针检测法因具备特异性好，敏感度高、无放射性危害、操作简便，结果稳定等优点，近年来得到广泛应用[12]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UCP2是线粒体解偶联蛋白家族的一员，位于线粒体内膜上的一类载体蛋白，参与能量代谢、活性氧产生、胰岛素分泌调节和脂肪酸代谢等功能活动[13，14]。本课题组与国外同行对人群中Ucp23'非翻译区插入/缺失多态性与NTDs的关系进行了研究，但是Ucp2在神经管畸形发生中的分子机制尚不清楚。为此本研究以小鼠胚胎为研究对象，设计制备了DIG 标记的Ucp2RNA探针。根据Ucp2mRNA全长核苷酸序列设计引物，利用逆转录PCR获得Ucp2cDNA片段，通过基因工程成功构建体外转录合成Ucp2RNA 探针的模板一—重组质粒pEGMT-Ucp2，经PCR和测序鉴定表明Ucp2序列正确。然后利用体外转录体系，通过 SP6、T7RNA聚合酶转录生成DIG-11-dUTP掺入的正义、反义DIG-Ucp2-RNA探针。本研究所制备的反义探针具有特异性高、信号强等特点，能高效检测神经管发育的关键时期 E9.5d、E10.5d的Ucp2基因在前脑、后脑、间脑及神经管部位高表达，正义探针无结合，可作为阴性对照，此结果与相关文献报道一致[15]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究利用地高辛标记核酸探针，成功制备了DIG-Ucp2-RNA探针，有效检测胚胎神经管发育关键期Ucp2在前脑、后脑、间脑及神经管部位高表达，为进一步研究Ucp2在NTDs中的作用机制提供了有力的手段和工具。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] I Zaganjor,A Sekkarie,BL Tsang, et al. Describing the Prevalence of Neural Tube Defects Worldwide: A Systematic Literature Review. Plos One, 2016, 11(4): e0151586.   \n[2] Tissir F, Goffinet A M. Shaping the nervous system: role of the core planar cell polarity genes. Nature Reviews Neuroscience, 2013, 14(8): 525-535.   \n[3] Pani L, Horal M, Loeken M R. Rescue of neural tube defects in Pax-3-deficient embryos by p53 loss of function: implications for Pax-3-dependent development and tumorigenesis. Genes & Development, 2002,16(6): 676-680.   \n[4] Shang Y, Zhao H, Niu B,et al. Correlation of polymorphism of MTHFRs and RFC-1 genes with Neural Tube Defects in China. Birth Defects Research Part A: Clinical and Molecular Teratology,2008, 82(1):3-7.   \n[5] Huang HY, Chen HL,Feng LP. Maternal obesity and the risk of neural tube defects in offspring: A meta-analysis. Obesity Research & Clinical Practice 2017, 11 (2): 188-197.   \n[6] Yang W, Carmichael SL, Tinker SC, et al. Association between weight gain during pregnancy and neural tube defects and gastroschisis in offspring. Birth Defects Research Part A: Clinical and Molecular Teratology,2012, 94(12):1019-1025.   \n[7] Lupo PJ, Canfield MA, Chapa C,et al. Diabetes and obesity-related genes and the risk of neural tube defects in the national birth defects prevention study. Am J Epidemiol. 2012, 176(12): 1101-1109.   \n[8] Zhizhen Liu, Jun Xie, Tiane Luo, et al. An Epidemiologic Study of Mitochondrial Membrane Transportor Protein Gene Polymorphism and Risk Factors For Neural Tube Defects in Shanxi, China. Neural Regeneration Research, 2012,7(6):463-469.   \n[9]孙小慧，刘晓凡，赵雅静，等．地高辛标记DNA探针杂交法检测Vero 细胞DNA残留量 的适用性验证及应用．微生物学免疫学进展,2016,44(2):40-44. Sun XH, Liu XF， Zhao YJ，et al. Applicability validation and application of Digoxigenin-labeled DNA probe in detection of residual DNA by hybridization in Vero cell. Progress in Microbiology and Immunology, 44(2):40-44.   \n[10] Soohie E. Pryor, Valentina Massa, Dawn Savery, et al. Convergent Extension Analysis in Mouse Whole Embryo Culture. Methods Mol Biol,2012, 83(9):133-146.   \n[11]温宗华，张艳，吴自勍，等．地高辛标记斑马鱼cd99I2基因RNA探针的制备．南方医 科大学学报,2010,30(5):969-972. Wen ZH, Zhang Y, Wu ZQ, et al. Preparation of RNA probe for cd99l2 gene of zebrafish labeled with digoxingenin-UTP. Journal of Southern Medical University, 2010, 30(5):969-972.   \n[12]陶春爱,邱文英,李刚，等．纳米金标记核酸探针检测小反刍兽疫病毒核酸的研究.中国 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生物工程杂志,2012,32(7):89-94.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Tao CA, Qiu WY, Li G,et al. Study on Peste Des Petits Ruminants Virus Nucleic Acid Detection Based on Gold-nanoparticle Conjuncted Probe. China Biotechnology, 2012, 32(7) :89-94. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13] Lapp DW, Zhang SS, Barnstable CJ. Stat3 mediates LIF-induced protection of astrocytes against toxic ROS by upregulating the UPC2 mRNA pool. Glia, 2014, 62(2): 159-170.   \n[14] Normoyle KP, Kim M, Farahvar A, et al. The emerging neuroprotective role of mitochondrial uncoupling protein-2 in traumatic brain injury.Transl Neurosci, 2015, 6(1):179-186.   \n[15]蒋骄云，田文斐，冯龙，等．地高辛标记的黄鳝F64基因cRNA探针的制备及其应用．生 物技术通报， 2016,32(3):137-141. Jiang JY, Tian WF, Feng L, et al. Preparation and Application of cRNA Probe Labeled with Digoxingenin for Gene F64 of Rice Field Eel. Biotechnology Bulletin,2016,32(3):137-141. ",
+        "page_idx": 7
+    }
+]

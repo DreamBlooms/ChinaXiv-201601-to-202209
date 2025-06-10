@@ -1,0 +1,292 @@
+# 气候变化和人类活动对盐池县植被净初级生产力的影响
+
+李诗瑶'，丛士翔¹，王融融¹，余海龙¹，黄菊莹²(1.宁夏大学地理科学与规划学院,宁夏 银川750021；2.宁夏大学生态环境学院,宁夏 银川750021)
+
+摘要：为定量区分退耕还林还草背景下北方典型农牧交错带植被变化过程中气候变化和人类活动的相对贡献率，以宁夏盐池县2000—2020年植被变化为研究对象，基于MODIS13Q1-NDVI数据、地表覆盖数据和气象数据,采用 Thornthwaite 纪念模型和CASA(Carmegie-ames-stanford ap-proach)模型分别估算了逐年的潜在净初级生产力(Potential net primary productivity,PNPP)和实际净初级生产力（Actual net primary productivity,ANPP)。综合运用趋势分析、相关分析和差值比较法分析了2000—2020年盐池县净初级生产力（Net primary productivity,NPP)时空变化特征及其驱动力,并定量确定了气候因子和人类活动对盐池县植被变化的相对贡献率。结果表明：(1)在2000—2020年盐池县NPP总体呈上升趋势，但存在着显著的空间异质性，主要表现为植被NPP改善区面积远大于NPP退化区面积，且改善或退化程度也存在显著的空间分异。植被改善区主要分布于荒漠、荒漠草原等退耕还林还草工程区域和灌溉区，而植被退化区则分布于荒漠和荒漠草原的边缘地带。(2)植被变化归因分析表明，在植被改善区，气候变化和人类活动共同主导驱动了植被的改善，但气候变化的相对贡献率 $( 5 9 . 7 7 \%$ )大于人类活动的相对贡献率( $4 0 . 2 3 \%$ )，而在植被退化区，人类活动的相对贡献率 $( 9 1 . 7 7 \%$ )则显著高于气候变化的相对贡献率( $8 . 2 3 \%$ )。(3）驱动力分析表明，研究区植被NPP变化与降水量呈显著正相关，而与气温的相关性较弱；而人类活动是驱动植被退化区NPP下降的主要原因，但负向影响力有所减弱。总体而言，气候变化是植被改善区的主要驱动力，而人类活动是植被退化区的主要驱动因素，两者共同作用则使盐池县整体生态环境得以改善。
+
+关键词：净初级生产力；荒漠草原；植被变化；驱动力；盐池县文章编号：
+
+盐池县地处我国北方农牧交错带，在近几十年内，在全球气候变化背景下，由于过度放牧、倒山种地、矿产开采、药材(甘草)采集、编制原料的樵采等人类活动导致植被退化、土地沙化和水土流失加重[]。为逆转沙漠化进程、修复退化草原，盐池县于2002年启动退耕还林项目，于2003年开始推行草原禁牧封育政策和退牧还草工程，旨在控制土壤侵蚀、提高生态环境质量、恢复草原植被、提高植被覆盖度和遏制土地沙漠化进程。同时，气候格局的演变促进了生态工程成效的提升和植被的恢复[2]。气候变化和人类活动是植被变化的两大主要驱动因子[3-4]，如何定量区分气候变化与人类活动在植被变化中的相对贡献，对深入理解植被变化驱动机制、保障草地生态安全和控制荒漠化发展具有重要意义。因此，亟需构建植被变化动态监测方法并辨析各影响因子的相对贡献率。
+
+植被净初级生产力（Net primaryproductivity,NPP)是植物通过光合作用转换累积的有机物质总量，是表征植物活动的重要变量，可以准确反映植被生长状况[5]。由于NPP对气候变化和人类活动敏感，是监测草地变化、区分气候变化和人类活动影响的可靠指标[6-7]。目前定量区分气候变化与人类活动在植被变化中相对贡献率的主要方法有回归模型法、差值比较法、基于生物物理过程的模型方法\*。其中，将差值比较法与基于NPP的评价方法相结合已成为植被变化中将气候变化因素和人类活动因素区分研究中应用最多的方法9。其原理如下：假设未受人类活动干扰的、仅以气候为主要驱动力的植被NPP为潜在净初级生产力（Potential netprimaryproductivity,PNPP)[1o],主要借助气候模型估算[1];实际净初级生产力（Actual net primary produc-tivity,ANPP)则为气候变化和人类活动共同影响下的植被NPP,可借助CASA（Carnegie-ames-stanfordapproach)模型进行估算,因其所需参数少且易于获取[12],是目前应用最广泛的估算模型[5];而PNPP与ANPP的差值被认为是人类活动作用下的NPP损失或增加量，即人类活动影响下NPP的变化值(Hu-man net primary productivity,HNPP)。John等[13]成功应用差值比较法区分了人类活动和降水对蒙古高原植被覆盖变化的影响，结果表明植被NPP下降的原因主要是源自放牧强度和人口密度的增加，而植被的上升则归因为生态恢复工程及围封禁牧政策的实施。田海静[14和Piao等[i5采用差值比较法定量评估了我国人为生态恢复工程的成效，认为除气候变化外，林业建设工程对植被变化有显著贡献。说明差值比较法不仅可以厘定各类影响因子贡献率的区域差异，也可以量化评价人类活动在NPP变化过程中的相对贡献率。这相较于以往气候变化和人类活动整体性分析[16-17，能更好地解释区域植被变化的空间分异及其驱动机制。因此，本研究充分考虑了气候变化和人类活动因素的空间异质性以及气象数据的可获取性，在县域尺度上探讨宁夏典型荒漠草原分布区在大型生态工程(退耕还林还草工程)和围封禁牧政策实施前后的植被变化及其驱动机制，以植被NPP为量化指标，利用CASA模型估算2000—2020年盐池县ANPP的动态变化，并结合基于气候模型估算的PNPP及二者差值，定量评估气候变化与人类活动在植被动态变化过程中的相对贡献率及其时空变化。
+
+# 1研究区概况
+
+盐池县位于宁夏东部 $( 3 7 ^ { \circ } 0 4 ^ { \prime } { \sim } 3 8 ^ { \circ } 1 0 ^ { \prime } \mathrm { N } , 1 0 6 ^ { \circ } 3 0 ^ { \prime } { \sim }$ $1 0 7 ^ { \circ } 4 7 ^ { \prime } \mathrm { E } )$ ，土地面积 $6 7 4 9 { \mathrm { ~ k m } } ^ { 2 }$ ，占宁夏总面积的$1 0 . 1 6 \%$ 。地形上，属于鄂尔多斯台地向黄土高原的过渡带；气候上，属于干旱向半干旱区及草原向荒漠草原区的过渡带，具有典型的中温带大陆性气候特征，常年干旱少雨，风大沙多；资源分布上，则是宁夏矿产资源的集中分布区之一。研究区年降水量 $2 5 0 { \sim } 3 5 0 ~ \mathrm { m m }$ ,年均气温 $8 . 1 ~ \mathrm { ^ { 8 } C }$ ，年蒸发量高达$2 2 0 0 ~ \mathrm { { m m } }$ ，是年降水量的8.8倍左右，且降水量多集中在7一9月，盛行风为西风和西北风。地带性土壤以灰钙土、风沙土为主，结构松散、肥力较低，易受风蚀和水蚀的影响。参照1:1000000中国植被图集[18],可将当地主要植被类型大致分为6类，分别为典型草原、荒漠草原、荒漠、粮食及经济作物、落叶灌丛和草甸(图1)。
+
+![](images/a77c24b70626cff67bab1c8f58a7caa203661affece2d18c06c0006017769dc1.jpg)  
+图1研究区植被类型  
+Fig.1 Vegetation types in the study area
+
+# 2数据与方法
+
+# 2.1数据来源
+
+2.1.1遥感数据本研究采用归一化植被指数(Normalized difference vegetation index,NDVI）和NPP2个反映植被生长状态的指标数据来分析研究区的草地植被时空动态，均来自于Level-1and At-mosphere Archive & Distribution System DistributedActiveArchiveCenter(LAADSDAAC)网站。其中，NDVI数据集选用时间序列为2000一2020年的MO-DIS 陆地标准产品MOD13Q1数据集（空间分辨率为$2 5 0 \mathrm { m }$ ;时间分辨率为16d)，使用最大值合成法(Max-imumvaluecomposition,MVC)生成逐月最大NDVI数据[19],是CASA模型估算ANPP的重要参数[20]。同时，选用同时间序列的MODIS陆地标准产品MOD17A3HGF数据集（空间分辨率为 $5 0 0 \mathrm { m }$ ；时间分
+
+# 干辛区地理
+
+辨率为1a)用于验证CASA模型NPP模拟精度。
+
+2.1.2气象数据气象数据来自于国家气象信息中心——中国气象数据网(http://data.cma.cn/),本研究选取盐池及其附近14个气象站点数据，包括：月降水量、月平均气温、日照百分率及经纬度信息，时间跨度为2000—2020年。根据气象站点经纬度信息，基于ArcGIS1O.2的GeostatisticalAnalyst模块中的克里金插值法对气象数据进行插值运算。
+
+2.1.3地表覆盖数据地表覆盖数据源自中国国家高技术研究发展计划(863计划)全球地表覆盖遥感制图与关键技术研究项目的重要成果GlobeLand30数据集，空间分辨率为 $3 0 \mathrm { ~ m ~ }$ ，时间序列为2000、2010、2020年。
+
+模型中所有输入参数，均转换为Albers equalareaconica-WGS84投影坐标系统，重采样为与NDVI数据相同的空间分辨率，且裁剪至像元行列数相同。
+
+# 2.2指标计算方法
+
+2.2.1植被实际净初级生产力（ANPP）本研究采用朱文泉等[2I]的CASA改进模型对盐池县2000—2020年的植被ANPP进行估算，该模型可对生态系统的生产力、土壤碳进行模拟，并已广泛应用于各尺度下NPP估算中[21-22]。CASA模型为NDVI、地表覆盖类型、气象数据共同驱动的光能利用率模型，可通过植被吸收的光合有效辐射(APAR)和光能利用率 $( \varepsilon )$ 来确定，即：
+
+$$
+\mathrm { A N P P } ( x , t ) = \mathrm { A P A R } ( x , t ) \times \varepsilon ( x , t )
+$$
+
+式中： $\mathrm { A N P P } ( x , t ) \setminus \mathrm { A P A R } ( x , t ) \setminus \varepsilon ( x , t ) .$ 分别为像元 $x$ 在 $\mathbf { \Phi } _ { t }$ 月的植被初级生产力 $\left( \mathbf { g } \mathbf { \Lambda } \mathrm { C } \cdot \mathbf { m } ^ { - 2 } \right)$ 、吸收的光合有效辐射$( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 }$ )和实际光能利用率 $\left( \mathbf { g } \mathbf { \Lambda } \mathrm { C } \cdot \mathbf { M } \mathbf { J } ^ { - 1 } \mathbf { \Lambda } \right)$ ）。
+
+$$
+\mathrm { A P A R } ( x , t ) = \mathrm { S O L } ( x , t ) \times \mathrm { F P A R } ( x , t ) \times 0 . 5
+$$
+
+式中： $\mathrm { F P A R } ( x , t )$ 为植被对光合有效辐射的吸收比例；常数0.5为植被利用 $0 . 3 8 { \sim } 0 . 7 1 ~ \mu \mathrm { m }$ 波长的太阳有效辐射占太阳总辐射比例; $\mathtt { S O L } ( x , t )$ 为像元 $x$ 在 $\mathbf { \Phi } _ { t }$ 月的太阳总辐射量 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } )$ ，参照和清华等[23提出的中国西部地区太阳总辐射计算公式计算：
+
+$$
+\mathrm { S O L } ( x , t ) = \mathrm { S O L } _ { 0 } ( x , t ) \times ( 0 . 1 8 5 + 0 . 5 9 5 S )
+$$
+
+式中： $\mathrm { S O L } _ { 0 } ( x , t )$ 为像元 $x$ 在 $\mathbf { \Phi } _ { t }$ 月的天文辐射 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } )$ ;S为日照百分率。
+
+FPAR $( x , t )$ 取决于植被类型和植被的覆盖状况，与NDVI具有良好的线性关系，即：
+
+$$
+\begin{array} { r l } & { \frac { \mathrm { I N D V I } ( x , t ) - } { \mathrm { N D V I } _ { i , \mathrm { m a x } } } \times \mathrm { ( F P A R _ { \mathrm { m a x } } - F P A R _ { \mathrm { m i n } } ) } } \\ & { \frac { \mathrm { I N D V I } ( x , t ) - \mathrm { N D V I } _ { i , \mathrm { m a x } } \times \mathrm { ( F P A R _ { \mathrm { m a x } } - F P A R _ { \mathrm { m i n } } ) } } { \mathrm { N D V I } _ { i , \mathrm { m a x } } - \mathrm { N D V I } _ { i , \mathrm { m i n } } } + \mathrm { F P A R _ { \mathrm { m i n } } } } \end{array}
+$$
+
+式中： $\mathrm { N D V I } ( x , t )$ 为像元 $x$ 在 $\mathbf { \Phi } _ { t }$ 月的NDVI值; $\mathrm { \Delta N D V I } _ { i , \operatorname* { m a x } }$ 、$\mathrm { N D V I } _ { i , \operatorname* { m i n } }$ 分别为植被NDVI最大值和最小值; $\mathrm { F P A R } _ { \operatorname* { m a x } }$ 、$\mathrm { F P A R } _ { \operatorname* { m i n } }$ 的取值与植被类型无关，分别为 $0 . 9 5 , 0 . 0 0 1$ ○
+
+$$
+\varepsilon ( x , t ) = T _ { _ { \varepsilon 1 } } ( x , t ) \times T _ { _ { \varepsilon 2 } } ( x , t ) \times W _ { _ { \varepsilon } } ( x , t ) \times \varepsilon _ { _ { \mathrm { m a x } } }
+$$
+
+式中： $\boldsymbol { \varepsilon } ( \boldsymbol { x } , t )$ 为像元 $x$ 在 $\mathbf { \Phi } _ { t }$ 月的实际光能利用率( $_ \textrm { g C } \cdot$ $\mathbf { M J } ^ { - 1 }$ ）； $T _ { \varepsilon 1 } ( \boldsymbol { x } , t )$ 和 $T _ { \varepsilon 2 } ( x , t )$ 为气温对光能利用率的影响；$\mathbb { W } _ { \varepsilon } ( x , t )$ 为水分胁迫影响系数; $\varepsilon _ { \mathrm { m a x } }$ 为理想状态下的最大光能利用率, $\varepsilon _ { \mathrm { m a x } }$ 的取值参考 $\mathrm { { Z h u } }$ 等[22]提出的各植被类型区的最大光能利用率模拟值。
+
+2.2.2植被潜在净初级生产力（PNPP）本研究应用Thornthwaite纪念模型24进行植被PNPP的估算。该模型是被广泛接受的PNPP估算模型，是基于实地测量的NPP数据与研究区气温和降水量数据之间的最小二乘回归得出的。计算公式如下：
+
+$$
+\mathrm { P N P P } = 3 0 0 0 \times [ 1 - \mathrm { e } ^ { - 0 . 0 0 0 9 6 9 5 \times ( v - 2 0 ) } ]
+$$
+
+$$
+v = \frac { 1 . 0 5 r } { \sqrt { 1 + \left( 1 + 1 . 0 5 r / L \right) ^ { 2 } } }
+$$
+
+$$
+L = 3 0 0 0 + 2 5 t + 0 . 0 5 t ^ { 3 }
+$$
+
+式中：PNPP为年总潜在 $\mathrm { N P P } ( \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } ) ; v$ 为年平均实际蒸散发量（ $\bf \Pi _ { \mathrm { m m } } ^ { \prime }$ ； $r$ 为年总降水量( $\bf \Pi _ { \mathrm { m m } }$ ； $L$ 为年平均蒸散发量 $( \mathbf { \Pi } _ { \mathrm { m m } } ) \mathbf { \Pi } _ { \mathrm { : } t }$ 为年平均气温 $( \operatorname { \mathcal { C } } )$ 。
+
+2.2.3差值比较法基于NPP的差值比较法能直观、真实地反映生态环境中植被的变化情况，从而确定各自的相对作用，目前这一方法是研究植被变化驱动机制的新途径[9]。HNPP为PNPP与ANPP的差值,即：
+
+$$
+\mathrm { H N P P = P N P P - A N P P }
+$$
+
+式中：PNPP为潜在净初级生产力；ANPP为实际净初级生产力；HNPP为人类活动影响下NPP的变化值,HNPP值的正负为人类活动对NPP影响的方向，正值表示人类活动影响下NPP减少，负值表示人为影响下NPP增加。为辨析人类活动对植被NPP的影响趋势和方向，本文参照周妍妍等[25]的研究方法，将HNPP的正负与变化趋势进行叠加分析，从而获取人类活动对植被NPP的影响趋势及其空间分布。2.2.4NPP年际变化率NPP动态可直接反映植被的改善或退化状况，ANPP的变化趋势可以监测植被变化，PNPP和HNPP的变化趋势可以评估气候变化和人类活动对植被变化的相对影响。本研究采用基于最小二乘法的一元线性回归分析方法计算2000—2020年3种定义下的NPP年际变化趋势。公式如下：
+
+$$
+{ \mathrm { S l o p e } } = { \frac { n \times \sum _ { i = 1 } ^ { n } ( i \times { \mathrm { N P P } } _ { i } ) - \sum _ { i = 1 } ^ { n } i \sum _ { i } ^ { n } { \mathrm { N P P } } _ { i } } { n \times \sum _ { i = 1 } ^ { n } i ^ { 2 } - ( \sum _ { i = 1 } ^ { n } i ) ^ { 2 } } }
+$$
+
+式中： $n$ 为研究时间段内的总年份数； $\mathrm { N P P } _ { i }$ 为第 $i$ 年的NPP值;Slope为NPP的变化趋势,计算结果为正,NPP有增加趋势。采用 $F$ 检验验证变化趋势的显著性，检验结果仅表示变化趋势的可置信程度，与变化速率无关，公式如下：
+
+$$
+F = ( n - 2 ) \frac { \displaystyle \sum _ { i = 1 } ^ { n } ( \hat { x } _ { i } - \bar { x } ) ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { n } ( x _ { i } - \hat { x } _ { i } ) ^ { 2 } }
+$$
+
+式中： $\hat { x } _ { i }$ 为第 $i$ 年NPP的回归值; $\bar { x }$ 为21a间NPP平均值; $x _ { i }$ 为第 $i$ 年的NPP值, $n { = } 2 1$ 。基于 $F$ 检验可以将结果分为以下6种等级：极显著改善 $\mathrm { ( S l o p e { > } 0 } , P \mathrm { < }$ 0.01）、显著改善 $( { \mathrm { S l o p e } } > 0 , 0 . 0 1 \leqslant P \leqslant 0 . 0 5 ,$ ）、无显著改善（Slope ${ > } 0$ ， $\scriptstyle P > 0 . 0 5$ ）、无显著退化（Slope $_ { < 0 }$ ， $P >$ 0.05）、显著退化 $( { \mathrm { S l o p e } } < 0 , 0 . 0 1 \leqslant P \leqslant 0 . 0 5 .$ ）、极显著退化 $\mathrm { \ ' { S l o p e } } { < } 0 , P { < } 0 . 0 1 \rangle$ 。
+
+研究时间段内NPP的变化量（△NPP），用以下公式[26]估算：
+
+$$
+\Delta \mathrm { N P P } = ( n - 1 ) \times \mathrm { S l o p e }
+$$
+
+2.2.5NPP变化归因定量评估方法为了对气候变化和人类活动在植被的改善或退化中相对贡献率进行区分，可以通过计算3种定义下的NPP年际变化趋势 $S _ { \mathrm { A N P P } \setminus S _ { \mathrm { P N P P } \setminus S _ { \mathrm { H N P P } } } }$ 以及NPP变化量△PNPP、△HNPP来实现，根据刘斌等[27]相关NPP变化相对贡献的情景设定方案，定义以下6种情景(表1)。参照
+
+# 表1不同情景下气候变化和人类活动在植被变化中相对贡献的评估方法
+
+Tab.1Methods for assessing the relative contributions of climate change and human activities to vegetation change under different scenarios   
+
+<html><body><table><tr><td>植被变化状况</td><td>情景</td><td>SPNPP</td><td>SHNPP</td><td>气候变化的相对贡献/%</td><td>人类活动的相对贡献/%</td><td>说明</td></tr><tr><td rowspan="4">植被改善 (SANPP>O)</td><td>情景1</td><td>>0</td><td>>0</td><td>100</td><td>0</td><td>气候变化主导植被改善</td></tr><tr><td>情景2</td><td><0</td><td><0</td><td>0</td><td>100</td><td>人类活动主导植被改善</td></tr><tr><td>情景3</td><td>>0</td><td><0</td><td>I△PNPPI I△PNPPI+ |△HNPPI ×100%</td><td>I△HNPPI I△PNPPI+ I△HNPPI ×100%</td><td>共同主导植被改善,以其各自变化 量所占的比例为各自的相对贡献</td></tr><tr><td>情景4</td><td><0</td><td><0</td><td>100</td><td>0</td><td>气候变化主导植被退化</td></tr><tr><td rowspan="3">植被退化 （SANPP<0)</td><td>情景5</td><td>>0</td><td>>0</td><td>0</td><td>100</td><td>人类活动主导植被退化</td></tr><tr><td>情景6</td><td><0</td><td>>0</td><td>I△PNPPI ×100%</td><td>I△HNPPI ×100%</td><td>共同主导植被退化,以其各自变化</td></tr><tr><td></td><td></td><td></td><td>I△PNPPI+|△HNPPI</td><td>I△PNPP|+ |△HNPPI</td><td>量所占的比例为各自的相对贡献</td></tr></table></body></html>
+
+注： $S _ { \mathrm { A N P P } } \setminus S _ { \mathrm { P N P P } } \setminus S _ { \mathrm { H N P P } }$ 为ANPP、PNPP、HNPP的年际变化趋势;△PNPP、△HNPP为PNPP、HNPP的变化量
+
+表1中各类情景，可分别计算出人类活动、气候变化对植被变化的相对贡献率。
+
+# 3 结果与分析
+
+# 3.1ANPP的模拟及其验证
+
+本研究从像元尺度对CASA模型估算2000—2020年ANPP模拟值和同时段的MODISNPP产品进行一一对应精度验证[28]与相关性分析(图2)。结果表明，ANPP估算结果和MODISNPP值基本吻合，模拟精度较高，决定系数达0.82( $\scriptstyle { \phantom { - } } P < 0 . 0 1 .$ )，且估算结果比MODISNPP值略低。
+
+# 3.2ANPP的时空变化趋势
+
+由图3可以看出，2000—2020年盐池县年均
+
+![](images/91009c8e44914ad663aa46d835fe8ba4df98fd303613d254ea21d3fc1a8018b2.jpg)  
+图2MODISNPP和ANPP模拟值对比 Fig.2Comparisonof MODISNPP and ANPP simulation values
+
+注：ANPP为实际净初级生产力；NPP为净初级生产力。下同。
+
+# 干旱区地理
+
+![](images/28bdb06f7a8d75818ba9fecc594bc82f98de374da3a230abb870d99c287b3da1.jpg)  
+图32000—2020年盐池县植被ANPP的年际变化 Fig.3Interannual ANPP change in Yanchi County during 2000—2020
+
+ANPP密度整体上呈现出上升趋势，增长速率为$5 . 5 9 \mathrm { ~ g ~ C ~ } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ （ $R ^ { 2 } { = } 0 . 5 4$ ， $P { < } 0 . 0 1 \$ ），表明盐池县ANPP总体上呈增加趋势。但从不同时间段来看，整体上呈现波动中上升趋势。按照植被波动方向来看，其中在2004—2005、2012—2013、2018—2020年出现小幅的负向波动。
+
+2000一2020年盐池县年均ANPP空间分布呈从东南向西北逐渐减少的趋势，空间上存在几个明显的高值区和低值区(图4)。其中：ANPP的高值区主要分布在耕地集聚区和块状扬黄灌区，ANPP介于$2 5 0 { \sim } 5 0 0 \ \mathrm { g } \ \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \bullet } \mathrm { a } ^ { - 1 }$ 之间。随着退耕还林等生态工程实施范围的增大，出现高值区范围扩大的现象;低值区主要分布在高沙窝镇、大水坑镇、麻黄山乡的沙地区域,ANPP介于 $3 0 { \sim } 1 2 0 \ \mathrm { g } \ \mathrm { C } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ 之间。
+
+![](images/4547c63942b2867fb6f1ce2909062138ee94b78c853565b872dd00ce90a27560.jpg)  
+图4盐池县多年平均ANPP及2000、2010、2020年ANPP的空间分布  
+Fig.4 Spatial distributions of ANPP in 2000,2010,2020 and multi-year average in Yanchi County
+
+2000—2020年植被NPP变化趋势的显著性分析表明，盐池县植被NPP整体上呈显著改善趋势（图5a)，且呈改善趋势的面积比例 $( 9 9 . 3 9 \%$ )远大于呈退化趋势的面积比例 $( 0 . 6 1 \% )$ ）。尽管ANPP总体呈改善趋势，但其改善程度存在显著的空间分异。其中，ANPP呈极显著改善的区域占研究区面积的$6 8 . 9 1 \%$ ,呈显著改善的面积占 $1 7 . 2 3 \%$ 。就空间分布而言，极显著改善的区域遍布于研究区全境，呈退化趋势的区域则零星分布于荒漠和荒漠草原及人口密集区(图5b)。
+
+# 3.3NPP变化归因分析
+
+3.3.1气候变化和人类活动对NPP改善区的相对贡献率从图6a可以看出：在植被改善区，气候变化和人类活动共同主导作用的相对贡献率为 $7 4 . 1 4 \%$ .而气候变化和人类活动的相对贡献率分别为$2 2 . 6 5 \% . 3 . 2 1 \%$ 。从空间分布上来看，气候变化主导驱动（即相对贡献率大于 $5 0 \%$ )的植被NPP改善区主要分布于盐池县西部的高沙窝镇、王乐井乡的人口稀疏分布区；人类活动主导驱动（即相对贡献率大于 $5 0 \%$ )的植被NPP改善区主要分布于盐池县东部的花马池镇、高沙窝镇、青山乡、王乐井乡的人口密集区(图7）。
+
+3.3.2气候变化和人类活动对NPP退化区的相对贡献率如图6b所示，人类活动的相对贡献率为$7 2 . 4 8 \%$ ，而气候变化的相对贡献率仅为 $0 . 4 7 \%$ ，而二者共同主导的相对贡献率为 $2 7 . 0 5 \%$ 。说明人类活动是局地植被退化的主要原因。从空间分布上来看，气候变化主导植被退化的区域面积占比仅为$8 . 2 3 \%$ ，而 $9 1 . 7 7 \%$ 的植被退化区均为人类活动引起，主要分布于冯记沟乡(图8)。
+
+3.3.3气候变化和人类活动对NPP影响程度空间分异及其相对贡献率在植被改善/退化区2个因素的相对贡献率表现出明显的空间异质性。在植被极显著改善区，人类活动对植被改善的相对贡献率为 $7 6 . 0 1 \%$ ，气候变化的相对贡献率为 $2 3 . 9 9 \%$ ；在植被显著改善区，气候变化对植被改善的相对贡献率为 $8 2 . 1 3 \%$ ，而人类活动的相对贡献率为 $1 7 . 8 7 \%$ （表2)。从不同植被类型上看，人类活动为荒漠和荒漠草原分布区植被改善的主要因素，气候变化为典型草原、粮食及经济作物、草甸、落叶灌丛等区域植被改善的主要因素(表3)。在各等级植被退化区，人类活动对植被退化的相对贡献率均达到 $7 0 \%$ 以上(表2)。从不同植被类型上看，植被退化区仅有荒
+
+![](images/df353bdca56d16977b1b2bb5f521a462b1d4e08fe9794435308354a79f30b689.jpg)  
+图52000—2020年盐池县ANPP年际变化趋势及显著性检验
+
+Fig.5 Interannual variation trend and significance test of ANPP in Yanchi County during 2Oo0—2020漠、荒漠草原、典型草原、粮食及经济作物4种植被类型，且每种植被类型均以人类活动为植被退化主要因素，尤其在典型草原分布区域，达到 $9 1 . 6 7 \%$ (表3）。
+
+![](images/5eacd81349c9ac6be6ce2ba5deea6f4382b8a638a6f2ba2ae1e5b32c0eed4feb.jpg)  
+干旱区地理  
+图6气候变化、人类活动及二者共同作用在植被改善和退化过程中的空间分布 Fig.6Spatial distributions of climate change,human activities and their combined effects on vegetation improvement and degradation
+
+![](images/7e0464a51ddf7a2fd88dc4e76b35d0408b697d00e49acc7479d71ae7f1cdf27e.jpg)  
+图72000—2020年盐池县气候变化和人类活动在植被改善区的相对贡献率  
+ig.7Contributionratesofclimatechangeandhumanactivities tovegetationimprovementinYanchi Countyduring 2000—2020
+
+# 3.4NPP变化驱动力分析
+
+3.4.1植被NPP变化与气候因子的相关性气候变化是引发植被NPP变化的重要原因，并且气温和降水是该地区气候变化最直接和敏感的因素[2]。基于
+
+![](images/0af24de5c710886bfa85a5037696d83b08eefad74c0d563c3fe10f4e3c16a853.jpg)  
+图82000—2020年盐池县气候变化和人类活动在植被退化区的相对贡献率
+
+Fig.8Contributionratesofclimatechangeand humanactivities tovegetationdegradation in YanchiCountyduring 20o0—2020
+
+Tab.2Relative contribution of climate change and human activities to diferent degrees of vegetation change   
+
+<html><body><table><tr><td rowspan="2">植被变化程度</td><td rowspan="2">总像元数</td><td rowspan="2">像元百分比/%</td><td colspan="2">气候变化</td><td colspan="2">人类活动</td></tr><tr><td>像元数</td><td>像元百分比/%</td><td>像元数</td><td>像元百分比/%</td></tr><tr><td>极显著改善区</td><td>72008</td><td>68.91</td><td>17275</td><td>23.99</td><td>54733</td><td>76.01</td></tr><tr><td>显著改善区</td><td>18004</td><td>17.23</td><td>14787</td><td>82.13</td><td>3217</td><td>17.87</td></tr><tr><td>无显著改善区</td><td>13844</td><td>13.25</td><td>8750</td><td>63.27</td><td>5058</td><td>36.73</td></tr><tr><td>极显著退化区</td><td>57</td><td>0.05</td><td>17</td><td>28.83</td><td>40</td><td>71.17</td></tr><tr><td>显著退化区</td><td>41</td><td>0.04</td><td>10</td><td>24.39</td><td>31</td><td>75.61</td></tr><tr><td>无显著退化区</td><td>537</td><td>0.52</td><td>80</td><td>14.90</td><td>457</td><td>85.10</td></tr></table></body></html>
+
+# 表3气候变化与人类活动在不同植被类型改善和退化中的相对贡献
+
+表2气候变化与人类活动在植被不同变化程度中的相对贡献  
+Tab.3 Relative contribution of climate change and human activities to the improvement and degradation of different vegetation types   
+
+<html><body><table><tr><td rowspan="2">植被类型</td><td colspan="2">植被改善区</td><td colspan="2">植被退化区</td></tr><tr><td>气候变化相对贡献率/%</td><td>人类活动相对贡献率/%</td><td>气候变化相对贡献率/%</td><td>人类活动相对贡献率/%</td></tr><tr><td>荒漠</td><td>32.02</td><td>67.98</td><td>29.47</td><td>70.53</td></tr><tr><td>荒漠草原</td><td>48.03</td><td>51.97</td><td>24.18</td><td>75.82</td></tr><tr><td>典型草原</td><td>69.61</td><td>30.39</td><td>8.33</td><td>91.67</td></tr><tr><td>粮食及经济作物</td><td>64.83</td><td>35.17</td><td>28.57</td><td>71.43</td></tr><tr><td>草甸</td><td>61.37</td><td>38.63</td><td>1</td><td>1</td></tr><tr><td>落叶灌丛</td><td>61.28</td><td>38.72</td><td>二</td><td>二</td></tr></table></body></html>
+
+像元尺度对2000—2020年年均ANPP与年降水量和年均气温进行相关性分析并对其相关性系数进行显著性检验，将结果划分为极显著正/负相关( $P <$
+
+0.01）、显著正/负相关 $( 0 . 0 1 \leqslant P \leqslant 0 . 0 5 )$ ）、无显著正/负相关 ${ \mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle } 6 }$ 个级差区域(图9)。如图9所示，研究区植被NPP整体上与降水量之间呈正相关。其中，呈显著及极显著正相关的区域分别占研究区的$6 3 . 3 7 \%$ 和 $1 4 . 5 5 \%$ ;尽管研究区植被NPP与气温整体上呈正相关 $( 9 4 . 1 7 \%$ ),但呈显著及极显著正相关的区域分别仅占研究区的 $7 . 8 5 \%$ 和 $0 . 1 1 \%$ 。表明盐池县植被对降水较为敏感，降水是影响盐池县植被改善的主要气象因素。
+
+![](images/5fb17346266e84bc0a05867611fcd2a3234379bf655431fa348b35b4a350ddbd.jpg)  
+干旱区地理  
+图92000—2020年盐池县植被NPP与气候因子相关系数的空间分布 Fig.9 Spatial distributions of correlation coeficients between vegetation NPP and climate factors in Yanchi County during 20oo—2020
+
+3.4.2人类活动对植被NPP的影响如图7、图8所示，人类活动主导植被改善的区域占植被改善区面积的 $4 0 . 2 3 \%$ ，而 $9 1 . 7 7 \%$ 的植被退化区则由人类活动所主导，说明一方面人类活动对植被改善有积极作用，而另一方面表现为人类活动驱动了局地的植被退化。由图10a可以统计得出， $\mathrm { H N P P > 0 }$ 的面积占研究区总面积的 $7 0 . 7 4 \%$ ，表明人类活动对植被的负向影响分布较为普遍； ${ \mathrm { H N P P } } { < } 0$ 的面积仅占 $2 9 . 2 6 \%$ ，主要分布于荒漠及荒漠草原地区、麻黄山地区及各乡镇的灌溉区，表明人类活动仅在这些区域对植被改善起促进作用。
+
+为进一步分析HNPP的变化规律，将HNPP的正负与HNPP的变化趋势进行叠加分析，重分类得到4种结果：正正、正负、负正、负负(图10b)。正正表示人类活动对植被的退化作用增强，占总面积的$9 . 3 1 \%$ ;正负表示人类活动对植被的退化作用减弱，分布范围最广 $( 6 1 . 4 9 \% )$ );负正表示人类活动对植被的改善作用减弱，分布范围最小 $( 2 . 0 8 \% )$ )；负负表示人类活动对植被的改善作用增强，占总面积的$2 7 . 1 2 \%$ 。综合来看，人类活动对研究区全域的退化作用都有所减弱，并在荒漠及荒漠草原地区表现出显著的改善作用。
+
+# 4讨论
+
+# 4.1植被时空变化趋势
+
+近 $2 0 \mathrm { a }$ 来，研究区实施退耕还林还草及封山禁牧前后ANPP的变化总体上以植被改善为主，但会因气候波动出现小幅负向波动；植被NPP改善区面积比例远大于NPP退化区面积比例。本研究模拟植被NPP多年平均值分布范围为 $1 4 . 7 5 { \sim } 5 1 4 . 0 7 ~ \mathrm { g } \mathrm { C }$ $\mathrm { m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ,均值为 $2 0 2 . 0 0 \mathrm { g } \mathrm { C } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 。这与倪向南等[29]、朱玉果等[30]、穆少杰等[31]、李柏延等[32]利用同类方法在临近区域的估算结果接近，说明估算结果具有较好的置信度。受退耕还林[3]、封山禁牧[34]、农业绿洲扩张[35]、农业生产条件改善[36]等因素的影响，人类活动的破坏有所减少，大量坡耕地被转化为草地和林地，使部分荒漠草原、荒漠、耕地区域的ANPP得到相应提高。
+
+# 4.2植被动态变化驱动机制分析
+
+降水是驱动研究区植被改善的主要气候因子，且植被NPP与降水量呈显著和极显著相关的面积远大于其与气温呈显著和极显著相关的面积。这与周伟等37的关于温性荒漠草原NPP与降水量的相关性最显著的论断一致，主要与当地近30a的降水格局转变36有关。尽管植被恢复对黄土高原局地降水量的增加具有积极效应[38],但大规模生态建设工程的实施，使得区域植物生态需水量增加，在降水波动背景下会出现植被NPP下降的现象，这印证了本研究中降水影响植被波动变化、促使植被稳定增长的结论。气候的波动会对植被NPP产生较大影响[39],本研究中，植被NPP随气候波动呈波动中上升趋势。已有研究表明，本研究区可利用年降水量以 $1 . 5 \mathrm { m m } \cdot ( 1 0 \mathrm { a } ) ^ { - 1 }$ 的降幅减少[40],而气温呈升高趋势[41],这势必会造成植被蒸散量增加[42]。尽管气温上升可延长植物生长季，使植被NPP增加[43],但高温会加剧植被蒸发蒸腾，降低水分利用效率，甚至出现土壤干层,限制了草地植被生长[44]。本研究中，气温与植被ANPP总体上呈正相关，但相关性不显著，说明植被改善的减缓可能会受到气温升高的抑制作用。
+
+![](images/4fb81ce5721e5f9aa92c0c58d67724182f4c5a39a64e516ea1f0d7838b6307b6.jpg)  
+图102000—2020年盐池县年均HNPP的空间分布及人为活动对NPP影响的方向与趋势 Fig.10 Spatial distributions of annual average HNPP in Yanchi County during 2Ooo—2020, and the direction and trend of influence of human activities on NPP
+
+研究区退耕还林、退牧还草工程的实施及草原禁牧封育政策的落实，对土壤侵蚀控制、植被覆盖状况改善均起到了积极作用[45]，表现为正向人类干扰增加而负向人类干扰减少，使荒漠草地退化现象得到进一步缓解，植被状况得到显著改善。但在空间分布上具有一定的空间异质性，具体表现为：$4 0 . 2 3 \%$ 的植被改善区由人类活动为主所驱动，而$9 1 . 7 7 \%$ 的植被退化区则由人类活动为主所驱动。但由于退耕还林还草、退牧还草、围封禁牧等生态恢复政策的实施[46]，人类活动对植被退化区NPP的负面影响逐渐减弱。
+
+# 4.3气候变化与人类活动对植被变化的相对贡献率
+
+通过NPP差值比较法，分离气候变化与人类活动对NPP的影响，既可以定量计算NPP的人为影响值，评价生态工程的实施成效，也可以厘定气候变化对NPP影响的贡献率。本研究发现气候变化和人类活动及其二者共同作用存在显著的空间异质性。这与孙丽蓉等[47利用地理探测器对疏勒河流域植被变化的归因结果一致。本研究中，负面的人类活动如城市扩张、矿产资源开采、偷牧等依旧是研究区植被退化的主要驱动力，但范围较小，而围栏放牧、禁牧、退耕还林和生态修复工程等对大范围的植被改善有积极作用[48]
+
+# 干旱区地理
+
+# 5结论
+
+本研究利用2000—2020年MODISNDVI时间序列数据、气象数据和地表覆盖数据，以NPP作为植被变化的衡量指标，基于像元尺度通过CASA模型和Thornthwaite纪念模型模拟盐池县因生态工程的实施对区域NPP时空变化的影响，并通过NPP差值比较法定量评估了气候变化和人类活动对区域植被恢复和退化的相对贡献率。得出以下结论：（1）2000—2020年盐池县植被ANPP总体呈波动中增加趋势。气候变化和人类活动共同驱动了盐池县植被NPP的总体增加趋势。（2）气候变化和人类活动在植被改善和退化中的相对贡献率表现出显著的空间异质性。其中，在植被改善区，气候变化的相对贡献率为 $5 9 . 7 7 \%$ ，而人类活动的相对贡献率为 $4 0 . 2 3 \%$ ；在植被退化区，人类活动的相对贡献率为 $9 1 . 7 7 \%$ ,远大于气候变化的相对贡献率。说明气候变化和人类活动一方面促进盐池县总体上的植被恢复，同时也造成极小部分区域植被退化，但退化趋势显著减弱。
+
+# 参考文献(References)
+
+[1]王宏杰,郭延平,柳怀孝.略谈宁夏盐池县草原沙化问题[J].中 国草地学报,1985(1):18-20.[Wang Hongjie,Guo Yanping,Liu Huaixiao.A brief discussion on the desertification of grassland in Yanchi County,Ningxia[J]. Chinese Journal of Grassland,1985(1): 18-20.]   
+[2] 陈晓光,李剑萍,李志军,等.宁夏盐池近年来植被与气候变化 分析[J].生态学报,2006,26(5):1516-1522.[Chen Xiaoguang,Li Jianping,Li Zhijun,et al.Vegetation change in Yanchi of Ningxia and its relationship with climate change inrecent years[J].Acta Ecologica Sinica,2006,26(5): 1516-1522.]   
+[3] Sun Z Y,Wang XF,Yamamoto H,et al.Spatial pattern of GPP variations in terrestrial ecosystems and its drivers:Climatic factors,CO2 concentration and land-cover change,1982—2O15[J]. Ecological Informatics,2018,46:156-165.   
+[4]李庆,高素改,张春来,等.内蒙古草地变化过程中气候变化和 人类活动的相对作用评估[J].地理与地理信息科学,2019,35 (3): 99-1O4.[Li Qing,Gao Sugai, Zhang Chunlai,et al. Assessment of the impacts of climate change and human activities on the dynamic grassland change in Inner Mongolia[J]. Geography and GeoInformation Science,2019,35(3): 99-104.]   
+[5]朴世龙,方精云,郭庆华.利用CASA模型估算我国植被净第一 性生产力[J].植物生态学报,2001,25(5):603-608,644.[Piao Shilong,Fang Jingyun, Guo Qinghua. Application of CASA model to the estimation of Chinese terrestrial net primary productivity[J]. Chinese Journal of Plant Ecology,2001,25(5): 603-608,644.]   
+[6]Gang C, Zhou W, Wang Z,et al. Comparative assessment of grassland NPP dynamics in response to climate change in China, North America,Europe and Australia from 1981 to 2O1O[J].Journal of Agronomy and Crop Science,2015,201: 57-68.   
+[7]Chen B X, Zhang X Z,Tao J,et al. The impact of climate change and anthropogenic activities on alpine grassland over the QinghaiTibet Plateau[J].Agricultural andForest Meteorology,2014,189- 190: 11-18.   
+[8]石晓丽,史文娇.气候变化和人类活动对耕地格局变化的贡献 归因综述[J].地理学报,2015,70(9):1463-1476.[Shi Xiaoli,Shi Wenjiao.Identifying contributions of climate change and human activities to spatial-temporal cropland changes: A review[J].Acta Geographica Sinica,2015,70(9): 1463-1476.]   
+[9]马启民,贾晓鹏,王海兵,等.气候和人为因素对植被变化影响 的评价方法综述[J].中国沙漠,2019,39(6):48-55.[Ma Qimin, Jia Xiaopeng,Wang Haibing,et al.Recent advances in driving mechanisms of climate and anthropogenic factors on vegetation change[J]. Journal of Desert Research,2019,39(6): 48-55.]   
+[10]FetzelT,iedertscheiderM,HaberlH,etal.Patternsandchanges of land use and land-use efficiency in Africa 198O—2Oo5:An analysis based on the human appropriation of net primary production framework[J].Regional Environmental Change,2016,16:1507- 1520.   
+[11] 梁顺林,李小文,王锦地,等.定量遥感:理念与算法[M].北京: 科学出版社,2013: 382.[Liang Shunlin,Li Xiaowen,Wang Jindi, et al. Quantitative remote sensing: Concept and algorithm[M]. Beijing: Science Press,2013: 382.]   
+[12] 李辉,红英,邓国荣,等.1982—2015年气候变化和人类活动对 内蒙古草地净初级生产力的影响[J].应用生态学报,2021,32 (2): 415-424.[Li Hui,Hong Ying,Deng Guorong,et al.Impacts of climate change and human activities on net primary productivity of grasslands in Inner Mongolia, China during 1982—2015[J]. Chinese Jourmal of Applied Ecology,2021,32(2): 415-424.]   
+[13]John R, Chen JQ,Kim Y,et al. Differentiating anthropogenic modification and precipitation-driven change on vegetation productivityon the Mongolian Plateau[J].Landscape Ecology,2016,31: 547-566.   
+[14]田海静.非气候因素引起的中国植被变化遥感诊断[D].北京: 中国科学院遥感与数字地球研究所,2017.[Tian Haijing.Assessment of non-climate triggered vegetation trends in China from time series of remotely sensed data: A case study of governmentdominated forest construction[D].Beijing:Institute of Remote Sensing and Digital Earth, Chinese Academy of Science,2017.]   
+[15]Piao SL, Yin G D,Tan JG,etal. Detection and atribution of vegetation greening trend in China over the last 3O years[J]. Global Change Biology,2015,21: 1601-1609.   
+[16]Mu S J, Zhou SX,Chen Y Z,et al. Assessing the impact of restoration-induced land conversion and management alternatives on net primary productivity in Inner Mongolian grassland, China[J]. Global and Planetary Change,2013,108: 29-41.   
+[17]Zhou W,Gang C C, Zhou F C,et al. Quantitative assessment of the individual contribution of climate and human factors to desertifica tion in northwest China using net primary productivity as an indicator[J]. Ecological Indicators,2015,48: 560-569.   
+[18]中国科学院中国植被图编辑委员会.1:1000000中国植被图集 [M].北京:科学出版社,2001.[Editorial Board of Vegetation Map of China, Chinese Academy of Science.1:10ooo0O vegetation atlas of China[M]. Beijing: Science Press,2001.]   
+[19]Holben B N. Characteristics of maximum-value composite images from temporal AVHRR data[J]. International Journal of Remote Sensing,1986,7: 1417-1434.   
+[20] 汪权方,张海文,孙杭州,等.基于时序 MODIS/NDVI影像的鄂 东南低山丘陵区植被覆盖度季节变化特征[J].长江流域资源 与环境,2010,19(8): 884-889.[Wang Quanfang, Zhang Haiwen, Sun Hangzhou, et al. Seasonal variation characteristics of vegetation fraction in the hilly southeastern Hubei Province,using timeseries MODIS $2 5 0 \mathrm { ~ m ~ }$ NAVI data[J]. Resources and Environment in the Yangtze Basin,2010,19(8): 884-889.]   
+[21] 朱文泉,潘耀忠,张锦水.中国陆地植被净初级生产力遥感估算 [J].植物生态学报,2007,31(3):413-424.[Zhu Wenquan,Pan Yaozhong, Zhang Jinshui. Estimation of net primary productivity of Chinese terrestrial vegetation based on remote sensing[J]. Chinese Journal of Plant Ecology,2007,31(3): 413-424.]   
+[22] Zhu WQ,Pan Y Z,He H,et al. Simulation of maximum light use efficiency for some typical vegetation types in China[J]. Chinese Science Bulletin,2006,51(4): 457-463.   
+[23] 和清华,谢云.我国太阳总辐射气候学计算方法研究[J].自然资 源学报,2010,25(2): 308-319.[He Qinghua, Xie Yun. Research on the climatological calculation method of solar radiation in China [J]. Journal of Natural Resources,2010,25(2): 308-319.]   
+[24]Lieth H, Whitaker R H.Primary productivity of the biosphere[M]. Berlin: Springer,1975.   
+[25] 周妍妍,朱敏翔,郭晓娟,等.疏勒河流域气候变化和人类活动 对植被NPP的相对影响评价[J].生态学报,2019,39(14):5127- 5137.[Zhou Yanyan,Zhu Minxiang,Guo Xiaojuan,et al. Relative effects of climate change and humanactivities on net primary productivity in Shule River Basin[J].Acta Ecologica Sinica,2019,39 (14): 5127-5137.]   
+[26] Yang Y, Wang Z Q,LiJL, et al. Comparative assessmentof grassland degradation dynamics in response to climate variation and human activities in China,Mongolia,Pakistanand Uzbekistan from 2000 to 2013[J]. Journal of Arid Environments,2016,135:164- 172.   
+[27] 刘斌,孙艳玲,王中良,等.华北地区植被覆盖变化及其影响因 子的相对作用分析[J].自然资源学报,2015,30(1):12-23.[Liu Bin,Sun Yanling,Wang Zhongliang,et al.Relative effects of climate change and human activities on net primary productivity in Shule River Basin[J]. Acta Ecologica Sinica,2015,30(1): 12-23.]   
+[28] 赵俊红,周华荣,卢雅焱,等.2000—2015年塔里木胡杨林国家 级自然保护区NPP时空动态特征及其影响因素[J].干旱区地 理,2020,43(1):190-200. [Zhao Junhong, Zhou Huarong, Lu Yayan,et al. Temporal-spatial characteristics and influencing factors of the vegetation net primary production in the national nature reserve of Populus euphratica in Tarim from 20OO to 2015[J].Arid Land Geography,2020,43(1): 190-200.]   
+[29] 倪向南,郭伟,乔凯.陕北风沙过渡带植被净初级生产力变化特 征及原因[J].中国沙漠,2018,38(4):889-898.[Ni Xiangnan, Guo Wei, Qiao Kai.Spatial and temporal patterns of net primary productivity and their attribution in wind drift sand region in northern Shaanxi[J]. Journal of Desert Research,2018,38(4):889- 898.]   
+[30] 朱玉果,杜灵通,谢应忠,等.2000—2015年宁夏草地净初级生 产力时空特征及其气候响应[J].生态学报,2019,39(2):518- 529.[Zhu Yuguo,Du Lingtong, Xie Yingzhong, et al. Spatiotemporal characteristics of grassland net primary production in Ningxia Province from 2000 to 2015and its response to climate change[J]. Acta Ecologica Sinica,2019,39(2): 518-529.]   
+[31] 穆少杰,李建龙,周伟,等.2001—2010年内蒙古植被净初级生 产力的时空格局及其与气候的关系[J].生态学报,2013,33 (12): 3752-3764.[Mu Shaojie,Li Jianlong,Zhou Wei,et al. Spatial-temporal distribution of net primary productivity and its relationship with climate factors in Inner Mongolia from 2OOl to 2010 [J].Acta Ecologica Sinica,2013,33(12): 3752-3764.]   
+[32] 李柏延,任志远.银川盆地净初级生产力估算和趋势分析[J].中 国农业科学,2016,49(7): 1303-1314.[Li Boyan,Ren Zhiyuan. Trend analysis and estimation of net primary productivity in Yinchuan Basin[J]. Scientia Agricultura Sinica,2016,49(7):1303- 1314.]   
+[33] 程积民,井赵斌,金晶炜,等.黄土高原半干旱区退化草地恢复 与利用过程研究[J].中国科学:生命科学,2014,44(3):267- 279.[Cheng Jimin,Jing Zhaobin, Jin Jingwei,et al.Restoration and utilization mechanism of degraded grassland in the semi-arid region of Loess Plateau[J]. Scientia Sinica (Vitae),2014,44(3): 267-279.]   
+[34]Liu M,Dries L, HeijmanW,etal.Theimpact of ecologicalonstruction programs on grassland conservation in Inner Mongolia, China[J]. Land Degradation and Development,2018,29:326- 336.   
+[35]O'NeillD W,Tyedmers PH,Beazley K F. Humanappropriation of net primary production (HANPP) in Nova Scotia, Canada[J]. Regional Environmental Change,20o7,7: 1-14.   
+[36]Liu Y,Li Y,Li S C,et al. Spatial and temporal patterns of global NDVI trends: Correlations with climate and human factors[J]. Remote Sensing,2015,7: 13233-13250.
+
+# 干吴区地理
+
+[37]周伟,牟凤云,刚成诚,等.1982—2010年中国草地净初级生产 力时空动态及其与气候因子的关系[J.生态学报,2017,37 (13): 4335-4345.[Zhou Wei, Mu Fengyun,Gang Chengcheng,et al. Spatio-temporal dynamics of grassland net primary productivity and their relationship with climatic factors from 1982 to 2010 in China[J].Acta Ecologica Sinica,2017,37(13): 4335-4345.] [38] 张宝庆，田磊,赵西宁,等.植被恢复对黄土高原局地降水的反 馈效应研究[J].中国科学:地球科学,2021,51(7):1080-1091. [Zhang Baoqing,Tian Lei, Zhao Xi'ning,et al.Feedback effect of vegetation restoration on local precipitation in the Loess Plateau [J]. Science China Earth Sciences,2021,51(7): 1080-1091.] [39]宋乃平,王兴,杨新国,等.农牧交错带县域农牧系统对气候波 动的响应机制[J].生态学报,2016,36(13):3969-3977.[Song Naiping,Wang Xing,Yang Xinguo, et al.Response mechanisms of a county territory agro-pastoral system to climate fluctuations in an agro-pastoral transitional zone[J].Acta Ecologica Sinica,2016,   
+36(13): 3969-3977.] [40] 汤英,丁成翔,徐利岗,等.宁夏典型牧区盐池县降水及可利用 降水多时间尺度变化特征分析[J].甘肃农业大学学报,2021,   
+56(5):101-109.[Tang Ying,Ding Chengxiang, Xu Ligang, et al. Analysis on multi-time scale variation characteristics of precipitation and available precipitation during 1954—2019 in Yanchi area of Ningxia[J].Journal of Gansu Agriculture University, 2021, 56 (5): 101-109.] [41] 王胜杰,赵国强,王旻燕,等.1961—2020年黄河流域气候变化 特征研究[J].气象与环境科学,2021,44(6):1-8.[Wang Shengjie, Zhao Guoqiang,Wang Minyan, et al. Characteristics of climate change in the Yellow River Basin from 196l to 202O[J].Meteorological and Environmental Sciences,2021,44(6): 1-8.] [42]Xu SQ,Yu ZB, Yang C G,et al. Trends in evapotranspiration and their responses to climate change and vegetation greening over the upper reaches of the Yellow River Basin[J].Agricultural and Forest Meteorology,2018,263:118-129.   
+[43]孙睿,朱启疆.气候变化对中国陆地植被净第一性生产力影响 的初步研究[J].遥感学报,2001,5(1):58-61.[Sun Rui, Zhu Qijiang.Effect of climate change of terrestrial net primary productivity in China[J]. National Remote Sensing Bulletin, 2OO1,5(1):58- 61.]   
+[44] 高江波,焦珂伟,吴绍洪.1982—2013年中国植被NDVI空间异 质性的气候影响分析[J].地理学报,2019,74(3):534-543.[Gao Jiangbo,Jiao Kewei,Wu Shaohong.Revealing the climatic impacts on spatial heterogeneity of NDVI in China during 1982— 2013[J].Acta Geographica Sinica,2019,74(3): 534-543.]   
+[45]刘国彬,上官周平,姚文艺,等.黄土高原生态工程的生态成效 [J].中国科学院院刊,2017,32(1):11-19.[Liu Guobin, Shangguan Zhouping, Yao Wenyi, et al. Ecological effects of soil conservation in Loess Plateau[J].Bulletin of Chinese Academy of Sciences,2017,32(1): 11-19.]   
+[46] 张珺,任鸿瑞.人类活动对锡林郭勒盟草原净初级生产力的影 响研究[J].自然资源学报,2017,32(7):1125-1133.[Zhang Jun, Ren Hongrui. Effects of human activities on net primary productivityin the Xilingol grassand[J]. Journal of Natural Resources, 2017,32(7): 1125-1133.]   
+[47]孙丽蓉,周冬梅,岑国璋,等.基于地理探测器模型的疏勒河流 域景观生态风险评价及驱动因素分析[J].干旱区地理,2021, 44(5):1384-1395.[Sun Lirong, Zhou Dongmei, Cen Guozhang,et al.Landscape ecological risk assessment and driving factors of the Shule River Basin based on the geographic detector model[J].Arid Land Geography,2021, 44(5): 1384-1395.]   
+[48]Liu R,Xiao L L,Liu Z,et al. Quantifying the relative impacts of climate and human activities on vegetation changes at the regional scale[J]. Ecological Indicators,2018,93: 91-99.
+
+# Effects of climate change and human activities on net primary productivity of vegetation in Yanchi County
+
+LI Shiyao'， CONG Shixiang'， WANG Rongrong'， YU Hailong'， HUANG Juying²(1.SchoolofGeographyandPlanning,NingxiaUniversity,Yinchuan5o21,Ningxia,China;2.ScholofEcologyandEnvironment,Ningxia University,Yinchuan 75Oo21,Ningxia, China)
+
+Abstract:This studyaims to quantitatively diferentiate the relative contribution rate of climate change and human activities during the vegetation cover change in the typical agricultural pastoral ecotone ofNorthern China under the background of the“grain to green project".Taking vegetation change from 200 to 2020 in the Yanchi County,Ningxia Province as the studyobject and using MODIS13Q1-NDVI,land cover data,and meteorological data from 2000 to 2020,the annual potential net primary productivity and actual net primary productivity were simulated using the models of Thornthwaite Memorial and Carnegie Ames Stanford Approach.The spatial and temporal change characteristics of the net primary productivity(NPP)in the Yanchi County and its driving force were analyzed,and the relative contribution rates of meteorological factors and human activities in the process of vegetation cover change were quantitatively calculated using trend analysis,correlation analysis,and difference comparison.The results showed the following: (1）The NPP totally presented an increasing trend,but there was an obvious spatial heterogeneity in the NPP change trend and degree,mainly manifested when the vegetation NPPs of the improved areas were far greater than the those of the degraded areas,and the extents ofimprovement and degradation showed significant spatial heterogeneity.The vegetation-improved areas were mainly distributed in the desert and desert steppe (where the“grain to green project”was conducted) and in irigated areas, whereas the vegetation-degraded areas were mainly distributed in the edge zones of the desert and desert steppe. (2) The vegetation change atribution analysis results indicated that in the vegetation-improved areas,the relative contribution rate of climate change $( 5 9 . 7 7 \% )$ ）was higher than that of human activities $( 4 0 . 2 3 \%$ ).Meanwhile,in the vegetationdegraded areas, the relative contribution rate of human activities $( 9 1 . 7 7 \%$ ） was higher than that of climate change $( 8 . 2 3 \% )$ ). (3） The driving force analysis results indicated that the vegetation NPP was positively correlated with precipitation but weakly correlated with temperature.Human activities were the main driving force that drove the NPP decrease in the vegetation-degraded areas.In summary,climate change was the main driving force that drove the NPP improvement in the vegetation-improved areas,whereas human activities were the main driving factors that led to the NPP decrease in the vegetation-degraded areas.Climate and human activities jointly dominated the improvement of the total ecological environment in the Yanchi County.
+
+Key words: net primary productivity (NPP); desert steppe; vegetation change; driving force; Yanchi County

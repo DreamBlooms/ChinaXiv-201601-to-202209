@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "高寒沙区中间锦鸡儿人工林细根动态及其周转",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张立恒'，李清雪²,³，王学全2³，贾志清2³，李少华4（1．国家林业和草原局西北调查规划设计院,陕西 西安710048；2．中国林业科学研究院荒漠化研究所,北京100091；3．青海共和荒漠生态系统定位观测研究站,青海 共和813005；4．北京市北运河管理处,北京101100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过对青海省治沙试验站3a、5a、10a、16 a和 $3 0 \\mathrm { ~ a ~ }$ 生的中间锦鸡儿(Caragana intermedia Kuang et H.C.Fu)人工林细根生物量的测定分析，了解其细根生物量的垂直分布和动态变化特征以及周转速率。结果表明： $\\textcircled{1}$ 中间锦鸡儿人工林约 $4 1 \\%$ 的活细根和 $3 9 \\%$ 的死细根分布在 $0 \\sim 2 0 ~ \\mathrm { c m }$ 的土层， $3 8 \\%$ 的活细根和死细根分布在 $2 0 \\sim$ $4 0 ~ \\mathrm { c m }$ 的土层， $2 1 \\%$ 的活细根和 $23 \\%$ 的死细根分布在 $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 的土层。 $\\textcircled{2}$ 细根生物量表现出明显的季节动态性,活细根生物量峰值出现在6月和8月或者6月和9月,8月或9月达到最大值;死细根生物量峰值出现8月和9月,也是8月或9月达到最大值。 $\\textcircled{3}$ 不同林龄人工林细根周转速率分别为； $, 0 . 5 3 \\ 、 0 . 6 6 \\ 、 0 . 5 6 、 0 . 7 3 、 0 . 7 8$ 次·a-1。$\\textcircled{4}$ 细根生物量和周转率均随林龄增大而增加,随土层加深而减小。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高寒沙地；中间锦鸡儿；人工林；细根生物量；细根分布；细根周转；青海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根系是植物与土壤直接进行接触的主要器官，是植物与土壤之间进行物质和能量交换的主要纽带[1]。细根是植物根系组成中最活跃、最敏感的一部分,是植物吸收营养成分的主要器官[2]。细根一方面将土壤中的养分和水分不断地输送到植物地上部分供其生长，直接决定着植物的整个生长过程；另一方面又以周转的方式将植物生产的有机化合物归还于土壤,增加土壤的有机质含量[3]。国内外研究者认为，植物主要依赖于直径 $< 1 \\ \\mathrm { m m }$ 的细根从土壤中获取水分与养分，这部分根系通常具有较高的呼吸率和较低的木质化程度以及较短的生命周期[4-5],其生产力和周转深刻影响着碳和养分在陆地生态系统中的循环状况[6。大量研究表明,细根以周转方式进入到土壤的碳量约占土壤碳总输入量的 $1 4 \\% \\sim 5 0 \\% ^ { \\ [ 7 ] }$ 。可见,准确测定细根生产及周转速率是全面认识生态系统碳分配和养分循环的关键[8],只有准确地测定出细根的生产力与周转速率，才能准确地估算细根以周转和分解方式向土壤系统输入的碳和养分的总量。因此，细根的生产与周转近些年来倍受研究人员的重视。目前的研究主要集中在森林和草地等生态系统[9-1],对面积辽阔的干旱区生态系统研究较少，尤其是对高寒沙区的研究更少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱地区生态系统极其脆弱，土壤碳库是干旱区生态系统碳库中最活跃的组成部分，细根的生产与周转在干旱区土壤碳循环过程中发挥着重要作用[12-13]。因此,加强干旱地区植物细根生产与周转的研究，对于更深入地理解干旱区生态系统地下碳循环过程具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "青海省治沙试验站位于西北高寒干旱地区，所处区域土地沙化严重，为遏制土地沙化进一步发展，当地大面积人工种植中间锦鸡儿固沙植物。中间锦鸡儿枝叶茂盛,根系发达,其根瘤菌具有固氮和促进土壤细菌滋生的作用，有利于土壤养分的改善和积累[14]。其作为当地典型的固沙植被类型之一,多年来在当地的植被修复和土壤改良中扮演着重要的角色（15]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文通过测定和分析不同林龄中间锦鸡儿人工林的细根生物量、年净生产力和周转率，旨在进一步理解其人工林生长在高寒荒漠碳循环中的作用，以期能为高寒沙区人工植被细根的养分循环和碳平衡等相关研究方面提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究开展于青海省治沙试验站人工固沙林区，位于青藏高原东北缘的共和盆地，地理坐标$3 6 ^ { \\circ } 0 3 ^ { \\prime } \\sim 3 6 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { N }$ $9 8 ^ { \\circ } 5 0 ^ { \\prime } \\sim 1 0 1 ^ { \\circ } 1 8 ^ { \\prime } \\mathrm { E }$ ,海拔 $2 ~ 8 7 0 \\sim$ $3 ~ 8 7 0 \\mathrm { ~ m ~ }$ 。区域内降水稀少、蒸发强烈，年平均气温$2 . 5 ~ \\mathrm { ^ { \\circ } C }$ ,年平均降水量 $3 0 6 . 3 \\sim 4 0 2 . 5 ~ \\mathrm { m m }$ ,且多分布于7一8月，年均蒸发量高达 $1 ~ 7 1 6 . 7 ~ \\mathrm { m m }$ ,约是降水量的5倍[16],属于典型的高寒干旱和半干旱区。常年风沙活动频繁，沙尘暴多发，全年大风日数达50.6d,常年盛行西风和西北风，年均风速为2.7$\\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ ,最大风速可达 $4 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ 。土壤类型主要为风沙土，因受风蚀影响，土壤养分流失严重，土壤极其贫瘠。区内多为人工植被，常见的植物种类主要有：青杨（Populus cathayana Rehd.）、中间锦鸡儿(Caragana intermedia Kuang et H.C.Fu）、乌柳(Salixcheilophila Schneid.）沙棘（Hippophaerham-noidesLinn.）柽柳（Tamarix chinensisLour.）、岌岌草[Achnatherumsplendens（Trin.）Nevski]、唐古特白刺（Nitraria tangutorum Bobr.）黑沙蒿(Artemisia or-dosica Krasch.）、沙米（Agriophyllum arenariumBieb.）针茅（Stipa capillata L.）赖草(Leymus seca-linus Tzvel.)等[17]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样地设置与样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2018年5月，在青海省治沙试验站选取具有代表性的3a、5a、10a、16a $\\cdot 3 0$ a生的中间锦儿人工林,在每个林龄的人工林内设置3个 $2 0 \\mathrm { ~ m ~ } \\times 2 0 \\mathrm { ~ m ~ }$ 的样方，测量每个样地内中间锦鸡儿的形态特征（株高、冠幅、地径），计算各形态特征平均值，依据整体的平均长势水平在每个样地内选取4株标准株为重复(表1)。在每个样方内随机选取长势良好，具有代表性的中间锦鸡儿4株，每月（5一10月）月末对其标准株冠幅边缘下方位置，以及边缘下方位置与基株中间位置的细根进行采集。以分层取样的方法（地表往下 $2 0 ~ \\mathrm { c m }$ 为1层），用内径为 $8 . 0 \\ \\mathrm { c m }$ 的土钻钻取 $0 \\sim 2 0 \\ \\mathrm { c m } \\ . 2 0 \\sim 4 0 \\ \\mathrm { c m } \\ . 4 0 \\sim 6 0 \\ \\mathrm { c m }$ 的土芯,用标记好的塑料袋依次装好带回实验室。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/73a9f6519206a7ceb792bb302da0e716b42063a5e484c8d7193ab9dcde83e81f.jpg",
+        "table_caption": [
+            "表1试验样地的基本情况",
+            "Tab.1 Basic information of the sample plots "
+        ],
+        "table_footnote": [
+            "注：为了整个研究课题的统一管理,在2016 年项目开始实施时分别将2013、20112008、2006、2000、1986 年种植的中间锦鸡儿样地分别统称为3 a、5a、10a、16a $\\cdot 3 0$ a生样地。由于人工林为条播种植,冠幅只测量了与林带垂直方向的冠幅大小。"
+        ],
+        "table_body": "<html><body><table><tr><td>样地</td><td>经纬度</td><td>海拔/m</td><td>株高/m</td><td>基径/cm</td><td>冠幅/m</td></tr><tr><td>3a生</td><td>36°14'13\"N,100°14'39\"E</td><td>2 872</td><td>0.79 ±0.02</td><td>0.49 ±0.01</td><td>0.93 ±0.04</td></tr><tr><td>5a生</td><td>36°15'06\"N,100°14'35\"E</td><td>2875</td><td>1.21 ±0.02</td><td>0.71 ±0.02</td><td>1.10 ±0.07</td></tr><tr><td>10a生</td><td>36°14'33\"N,100°13'28\"E</td><td>2 886</td><td>1.36±0.03</td><td>0.86 ±0.03</td><td>1.28 ±0.13</td></tr><tr><td>16a生</td><td>36°15'12\"N,100°13'42\"E</td><td>2 881</td><td>1.58 ±0.05</td><td>1.11 ±0.02</td><td>1.43 ±0.19</td></tr><tr><td>30a生</td><td>36°14'45\"N,100°13'35\"E</td><td>2883</td><td>1.91 ±0.04</td><td>1.60 ±0.06</td><td>2.21 ±0.28</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 样品的处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将带回的土壤样品过筛(孔径 $0 . 4 5 \\ \\mathrm { c m } \\times 0 . \\ \\mathrm $ 45cm），筛掉沙土、用清水冲洗3次后去除草根，拣出$d < 1 \\ \\mathrm { m m }$ 的细根。依据细根的颜色、外形、弹性以及根皮与中柱分离的难易程度区分出活根与死根，将分好的根样放置于 $7 5 \\ \\mathrm { { ^ { \\circ } C } }$ 的烘箱内烘干至恒重，然后用$1 / 1 0 0 0 0$ 天平分别称重，并测定计算其生物量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据分析与作图",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel201O 软件和IBMSPSS sta-tistics19.0软件对实验数据进行处理和分析，并对实验数据进行图表绘制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用以下公式计算生物量：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = A / \\pi r ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $W$ 为细根生物量;A为每个土芯的细根重量; $r$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为根钻半径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用极差法计算细根周转率：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P F R } = B _ { \\mathrm { m a x } } - B _ { \\mathrm { m i n } } , T = \\mathrm { P F R } / B\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：PFR为细根年生产量; $B _ { \\mathrm { m a x } } \\setminus B _ { \\mathrm { m i n } } \\setminus B$ 分别为年内月活细根最大生物量、最小生物量和月生物量平均值; $T$ 是细根年周转率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1不同林龄中间锦鸡儿人工林细根生物量垂直分布特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图1可见，不同林龄的中间锦鸡儿人工林活细根生物量在不同土层之间有所差异( $\\textstyle P < 0 . 0 5 )$ ，生物量都随土层的加深而减小。不同林龄的人工林",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0\\~20cm □20\\~40cm □40\\~60cm （-.8/ 140 100 (a)3a / 140 100 (b)5a 80 80 60 60 40 ..Nh 40 n 20 20 0 0 5 6 7 8 9 10 5 6 7 8 9 10 月份 月份 (c)10 a ？ 140 (d)16a 120 100 100 aa 80 ahiiin 80 aa 60 60 a 1 a b 40 40 20 20 0 0 5 6 7 8 9 10 5 6 7 8 9 10 月份 月份 140 (e)30a a b aa a 上 C a a 80 a b a a ab b T 60 1 -b 4020 1 1 X 0 5 6 7 8 9 10 月份 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "活细根生物量大部分分布于 $0 \\sim 2 0 ~ \\mathrm { c m }$ 或 $2 0 \\sim 4 0 ~ \\mathrm { c m }$ 的浅层土壤,少部分分布于 $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 的深层土壤。  \n其中 $41 \\%$ 的活细根生物量分布在 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层;  \n$3 8 \\%$ 的活细根生物量分布在 $2 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层； $2 1 \\%$   \n的活细根生物量分布在 $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 土层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可见，不同林龄的中间锦鸡儿人工林死细根生物量在不同土层之间也有差异( $P < 0 . 0 5 )$ ，生物量随土层的加深而减小。与活细根生物量分布趋势基本一致，不同林龄人工林的死细根生物量大部分分布于 $0 \\sim 2 0 ~ \\mathrm { c m }$ 或 $2 0 \\sim 4 0 ~ \\mathrm { c m }$ 浅层土壤,少部分分布于 $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 深层土壤。其中 $3 9 \\%$ 的死根生物量分布在 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层； $3 8 \\%$ 的死根生物量分布在 $2 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层; $23 \\%$ 的死根生物量分布在$4 0 \\sim 6 0 \\ \\mathrm { c m }$ 土层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2不同林龄中间锦鸡儿人工林细根生物量动态变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3可见，不同林龄中间锦鸡儿人工林活细根生物量约占总细根生物量的 $8 1 \\%$ ;死细根生物量约占总细根生物量的 $1 9 \\%$ 。在生长季内，活死细根生物量表现出明显的季节动态性，细根生物量随月份的增加而波动性增大。活细根生物量在生长季内呈双峰形增长趋势,其中 $^ { 3 \\mathrm { ~ a ~ } , 5 }$ a和 $1 0 \\mathrm { ~ a ~ }$ 生中间锦鸡儿人工林活细根生物量峰值分别出现在6月和9月，9月时达到最大值，最大值分别为94.99、115.18、$1 4 3 . 3 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ；而 $1 6 \\mathrm { ~ a ~ }$ 和 $3 0 \\mathrm { ~ a ~ }$ 生中间锦鸡儿活细根生物量峰值分别出现在6月和8月，8月时达到最大值,最大值分别为 $1 3 8 . 9 1 \\cdot 1 9 0 . 2 0 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "死细根生物量与活细根生物量增长趋势基本一致,其中 $_ 3 \\mathrm { ~ a ~ } . 5$ a和 $1 0 \\mathrm { ~ a ~ }$ 生中间锦鸡儿人工林死细根生物量峰值分别出现在5月、8月和9月，8月或9月时达到最大值，最大值分别为20.36、24.10、$3 6 . 9 1 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ;而16a和 $3 0 \\mathrm { ~ a ~ }$ 生中间锦鸡儿人工林死细根生物量峰值分别出现在8月和9月，8月时达到最大值,最大值分别为 $5 1 . 9 7 , 7 5 . 9 3 \\mathrm { ~ g ~ } \\cdot \\mathrm { ~ m ~ } ^ { - 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0\\~20cm □20\\~40cm 40\\~60cm 40 (a)3a 40 (b)5a   \n52005 （z-.8/ 3530 25 20 15 1 自 aa .H.H NH 10 5 i NH. i J aab 0 0 5 6 7 8 9 10 5 6 7 8 9 10 月份 月份   \n4000 (c)10a （z-u.8/ 4035 30 (d)16a 25 a 20 15 nni Tnnnlg a 10 5 5 0 0 5 6 7 8 9 10 5 6 7 8 9 10 月份 月份 40 (e)30a 3220505 a & aa a aa a aT W m H 1 DH b 0 5 6 7 8 9 10 月份 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7fa9ed5ba7f7d2e5addb5ef100ee131303c2f09aa9202542c4f0226284c548d.jpg",
+        "img_caption": [
+            "注：不同小写字母表示不同土层死细根生物量分差异显著( $\\scriptstyle P < 0 . 0 5 )$ 。",
+            "图2不同林龄中间锦鸡儿人工林死细根生物量分布特征",
+            "Fig.2Biomass distribution of dead fine rootsof Caragana intermedia plantations with different tree-ai ",
+            "图3不同林龄中间锦鸡儿人工林细根生物量动态变化特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Dynamic change of fine root biomass of Caragana intermedia plantations with different tree-ages ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同林龄中间锦鸡儿人工林细根周转",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1不同林龄中间锦鸡儿细根周转与生产植物细根的生产与周转受多种因素影响，例如植被类型、土壤环境、不同林龄等均会对细根产生较大影响[18]。根据公式(2)计算得出， $^ \\textrm { \\scriptsize 3 a , 5 }$ a、10 a、16 a和 $3 0 \\mathrm { ~ a ~ }$ 生的中间锦鸡儿人工林细根年净生产力分别为 $3 7 . 3 1 . 5 4 . 5 4 . 6 5 . 3 8 . 1 0 2 . 8 9 . 1 4 7 . 6 1 \\ \\mathrm { g \\cdot m ^ { - 2 } }$ ：$\\mathbf { a } ^ { - 1 }$ ,年生产力随林龄的增大而增加。不同林龄的人工林细根周转速率分别为 $0 . 5 3 \\ 、 0 . 6 6 、 0 . 5 6 、 0 . 7 3$ 0.78次 $\\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,随着林龄的增大,人工林细根周转速率呈波动性增大趋势（表2）。不同林龄的人工林细根年死亡量分别为 $6 . 5 8 \\ . 7 . 6 0 \\ . 1 4 . 5 4 \\ . 2 7 . 9 1 \\ . 3 8 . 6 2$ $\\textrm { g } \\cdot \\textrm { m } ^ { - 2 } \\cdot \\textrm { a } ^ { - 1 }$ ,随着林龄的增大,人工林细根年死亡量逐渐增大（表3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/689bb0c453db45fb9112ca108f469adef060c8b83eabba185183937766d47805.jpg",
+        "table_caption": [
+            "表2不同林龄中间锦鸡儿人工林细根周转速率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样地</td><td>最小 生物量</td><td>最大 生物量</td><td>平均 生物量</td><td>净生产力 /(g·m-².</td><td rowspan=\"2\">周转速率 /(次·a-1)</td></tr><tr><td></td><td>/(g·m-²)</td><td></td><td>a-1)</td></tr><tr><td>3a生</td><td>57.68</td><td>94.99</td><td>70.71</td><td>37.31</td><td>0.53</td></tr><tr><td>5a生</td><td>60.64</td><td>115.18</td><td>82.34</td><td>54.54</td><td>0.66</td></tr><tr><td>10a生</td><td>77.93</td><td>143.31</td><td>114.85</td><td>65.38</td><td>0.56</td></tr><tr><td>16a生</td><td>99.82</td><td>202.71</td><td>139.58</td><td>102.89</td><td>0.73</td></tr><tr><td>30a生</td><td>134.85</td><td>282.46</td><td>189.03</td><td>147.61</td><td>0.78</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3不同林龄中间锦鸡儿人工林细根年死亡量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eca482ddc69a9d07ff462e38c6a1fef2bb5d5182097e92c83bf2563d6b8f7dbf.jpg",
+        "table_caption": [
+            "Tab.2Turnover rates of fine roots of Caragana intermedia plantations with different tree-ages ",
+            "Tab.3Annual mortality of fine roots of Caragana intermedia plantations with different tree-ages "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td colspan=\"3\">最小死亡量 最大死亡量 平均死亡量 年死亡量 /(g·m-²) /(g·m-²)/(g·m-²·a-1)</td></tr><tr><td>3a生</td><td>/(g·m-²) 13.78</td><td>20.36 16.37</td><td>6.58</td></tr><tr><td>5a生</td><td>16.5</td><td>24.1 19.66</td><td>7.60</td></tr><tr><td>10a生</td><td>22.38</td><td>36.91 26.72</td><td>14.54</td></tr><tr><td>16a生</td><td>24.06</td><td>51.97 33.44</td><td>27.91</td></tr><tr><td>30a生</td><td>37.31</td><td>75.93 48.39</td><td>38.62</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2不同土层细根周转速率不同土层内的细根周转速率变化趋势与细根分布趋势基本一致，均随着土层的加深而逐渐下降。各林龄中间锦鸡儿人工林 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层的细根周转速率最大，基本保持在 $0 . 7 7 \\sim 0 . 8 6$ 次· $\\textbf { a } ^ { - 1 }$ ： $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 土层的周转速率最小,处于 $0 . 3 1 \\sim 0 . 7 2$ 次 $\\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ 。随着林龄的增大， $2 0 \\sim 6 0 ~ \\mathrm { c m }$ 土层的细根周转速率逐渐增大，表明随林龄的增加，人工林会加快深层的细根周转来维持生长（图4）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0216e682ac015f411456b4ba667c340cecbcf7cb4cf006123b3ecc9cfc380bad.jpg",
+        "img_caption": [
+            "图4中间锦鸡儿人工林不同土层细根周转速率 Fig.4Turnover rates of fine roots of Caragana intermedia plantations in different soil layers "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1中间锦鸡儿人工林细根生物量垂直变化影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同林龄中间锦鸡儿人工林细根生物量表现出明显的垂直变化特征，其中约 $41 \\%$ 的活细根和 $3 9 \\%$ 的死细根分布在 $0 \\sim 2 0 ~ \\mathrm { c m }$ 土层； $38 \\%$ 的活根和死根分布在 $2 0 \\sim 4 0 \\ \\mathrm { c m }$ 土层； $2 1 \\%$ 的活根和 $23 \\%$ 的死根分布在 $4 0 \\sim 6 0 \\ \\mathrm { c m }$ 土层,活死细根生物量随土层的加深而减少。通常来讲，植物根系生物量一般都会随着土层的加深总体表现为减少的趋势[19-20]。因为，随着土层的加深，土壤养分和温度都会不断降低，土壤结构也有所变差，从而导致根系生物量有所减少[21]。同时相关研究表明,水分是干旱地区植物生长的主要限制性因子，在干旱环境中，水分条件决定着植物根系的分布特征[22]。根系大量分布在浅层土壤中，有利于植物对干旱地区有限降水的充分吸收[23]。中间锦鸡儿人工林的细根多分布于 $0 \\sim$ $2 0 ~ \\mathrm { c m }$ 或 $2 0 \\sim 4 0 \\ \\mathrm { c m }$ 的浅层土壤，因为当地属于高寒干旱地区，水分和养分资源都极其匮乏。在季节性降水的影响下， $0 \\sim 4 0 ~ \\mathrm { c m }$ 土层的土壤含水量相对较高，且该层土壤内养分含量也相对较高，细根大量分布在该层土壤中，有利于对营养资源的有效吸收和利用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2中间锦鸡儿人工林细根生物量动态变化影响因素",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在生长季内，植物细根的月生长量往往是不均匀的，常会表现出明显的季节性动态变化。其动态变化一方面反映了植物自身的生长特性，另一方面也反映了其生境的好坏，同时也反映了细根周转的快慢[24]。中间锦鸡儿人工林活根生物量呈现双峰形变化趋势，峰值多出现在6月和8月或者6月9月；死根与活根变化趋势基本一致，峰值多出现在5月、8月和9月。有相关报道称，细根生物量在一年中常呈单峰形变化，或者变化不明显，峰值常出现在春季叶期前后、晚夏或秋季(25],但受物种自身特性、气候条件以及土壤不同理化性质的影响，有时也呈双峰形或多峰形[26]变化,表现出一定程度的季节波动性[27]。共和盆地位于高寒荒漠地带,冬季寒冷漫长，春季气温回升较晚，6月地温明显回升时土壤中的冰雪不断融化，细根得到大量水分和养分的供给后快速生长{28],使生物量快速增加,并出现了峰值。细根生长动态常与土壤水分动态保持一致，其生物量高峰常出现在雨季[29]。8月和9月属于当地水热条件最适宜和光合产物最充足的时期[30],细根生长又进入一年中另一个快速生长的时期[31],生物量也随之出现了另一个峰值，并达到了最大值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3中间锦鸡儿人工林细根周转变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "单建平等[32]研究认为,植物细根周转速率一般处于 $0 . 2 9 \\sim 1 . 2 0 \\$ 次· $\\textbf { a } ^ { - 1 }$ ，而且多数处于 $0 . 5 0 \\sim$ 1.20次·a-」。也有[33]研究表明,细根周转速率通常在 $0 . 0 1 9 \\sim 2 . 6 4 4$ 次·a-1,平均周转速率为0.56次·a-'。各林龄中间锦鸡儿人工林细根周转速率在 $0 . 5 3 \\sim 0 . 7 8$ 次 $\\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,处于前者研究的速率范围之内。除了3a生人工林细根周转速率略低于前者研究的平均周转速率，其余人工林都略高于其前者研究的平均周转速率，这可能是由于共和盆地恶劣的气候条件和贫瘠的土壤环境加速了细根的周转速率。因为干旱地区植物细根的生长、死亡和分解等都与水分条件有关，干旱能加速细根的死亡，加快周转[34]。受干旱胁迫后,植被必须在新的部位产生新的细根，替换掉旧的细根来吸收养分和水分，以免过多的根系会消耗掉太多的物质和能量(30],从而提高吸收效率，以利于应对干旱环境。中间锦鸡儿快速周转可能就是为了降低能耗，提高吸收效率的一种适应策略。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中间锦鸡儿人工林细根年生产率、年死亡量和年周转速率随林龄的增大而增大,这与孙清芳等[18]研究结果一致，成熟林周转速率高于幼林龄。同时，人工林细根周转速率随土层的加深而减小，并随着林龄的增大，深层的细根周转速率也逐渐增大。土层深度也是影响细根周转的主要因素，通常随着土层的加深周转速率会不断下降[35]。裴智琴等[36]研究认为，周转速率在 $1 0 \\sim 2 0 ~ \\mathrm { c m }$ 土层中最高。在荒漠地区，土壤浅层富含有机质和氮等养分，且土壤浅层易受降水影响含水量相对较高，促使浅层细根快速生长,提高细根生产量,但缩短了细根寿命(37)同时，浅层土壤通透性好，氧气充足，土温适宜，有利于根系生长；下层土壤通透性差，土温低， $\\mathrm { C O } _ { 2 }$ 浓度高，根系生长受限，根系呼吸速率相对较低，用于根系呼吸和自身生理活性的消耗也就相对较少[38],因此，周转速率也较低。随着林龄的增大，人工林地上生物量不断增大，根系须输送更多的水分和养分供地上部分生长,从而加速细根的新老更替,也将相应地加速深层的细根周转速率，以便维持植株的正常生长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）不同林龄的中间锦鸡儿人工林细根多分布在 $4 0 \\ \\mathrm { c m }$ 范围内的浅层土壤，并随土层的加深而减少。活细根生物量随季节呈双峰形增长，峰值多出现在夏初或秋季，死细根生物量变化趋势与活细根基本一致，峰值多出现在秋季。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）人工林细根年净生产力、死亡量和周转率均随林龄增大而增加，周转率随土层的加深而减小，且不同林龄人工林细根周转率在0.56 次·a-左右。与前人研究的多种植物细根的平均周转速率相比，中间锦儿是高寒干旱地区适应性较强、细根周转较快的一种固沙植物，值得在西北风沙地区推广种植。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]王文全，王世绩,刘雅荣,等.粉煤灰复田立地上杨、柳、榆、刺 槐根系的分布和生长特点[J].林业科学，1994,30（1)：25- 33.[Wang Wenquan,Wang Shiji,Liu Yarong,et al.Distribution and growth characteristics of the root systems of poplar,willow,elm andlocust on site of renewed land by fine ash of coal[J].Scientla Silvae Sinicae,1994,30(1):25-33.]   \n[2]张小全,吴可红.森林细根生产和周转研究[J].林业科学， 2001,37(3）:126-138.[Zhang Xiaoquan,Wu Kehong.Fine root production and turnover for forest ecosystems[J].Scientla Silvae Sinicae,2001,37(3) :126-138.]   \n[3] Dietrich H,Christoph L.A comparison of four different fine root production estimates with ecosystem carbon balance data in a Fagus Quercus mixed forest[J].Plant and Soil,2002,239:237-251.   \n[4] StrandAE,Pritchard SG,McCormackML,etal.Irreconcilable differences:Fine-root life spans and soil carbon persistence[J]. Science,2008,319(5 862) :456-458.   \n[5] GuoDL,XiaMX,WeiX,etal.Anatomical traits associated with absorption and mycorrhizal colonization are linked to root branch order in twenty-three Chinese temperate tree species[J].New Phytologist,2008,180(3）:673-683. [6]Jackson R B,Mooney H A,Schuhe E D.A global budget for fine root biomass,surface aea,and nutrient contents[J].Ecology,997,   \n94(14) :7 362 -7 366. [7]Vogt KA,Crier C C,Vogt D J.Production,turnover,and nutrient dynamics of above-and belowground detritus of world forests[J] Advances in Ecological Research,1986,15:303-37. [8]Clark D A,Brown S,Kicklighter D W,et al. Net primary production in tropical forests:An evaluation and synthesis of existing field data[J].Ecological Applications,2001,11(2）:371-384. [9]杨丽韞,李文华.长白山原始阔叶红松林细根分布及其周转的 研究[J].北京林业大学学报,2005,27(2）：1-5.[Yang Liyun, Li Wenhua.Fine root distribution and turnover in abroad-leaved and Korean pine climax forest of the Changbai Mountain in China [J].Journal of Beijing Forestry University,2005,27(2）:1-5.] [10]Lin CF,Guo JF,Chen G S,et al.Research progress in fine root decomposition in forest ecosystem[J]. Chinese Journal of Ecology,   \n2008,27(6):1 029-1 036. [11］高志英,景馨,王新宇,等.放牧和刈割对草原地下净生产力和 根系周转的影响[J].西南民族大学学报（自然科学版）,2017，   \n43(2）:111-117.[Gao Zhiying,Jing Xin,Wang Xinyu,et al.Impact of grazing and clipping on grassland belowground net primary productivity and root turnover[J]. Journal of Sounthwest University for Nationalities（Natural Science Edition）,2017,43（2）:111-   \n117. ] [12]丁金枝,来利明,赵学春,等.荒漠化对毛乌素沙地土壤呼吸及 生态系统碳固持的影响[J].生态学报,2011,31（6)：1 594-   \n1 603.[Ding Jinzhi,Lai Liming,Zhao Xuechun,et al. Effects of desertification on soil respiration and ecosystem carbon fixation in Mu Us sandy land[J].Acta Ecologica Sinica,2011,31(6）:1 594 -1 603.] [13］王娜,程瑞梅,肖文发,等.三峡库区马尾松细根分解及其养分 释放[J].林业科学研究,2017,30（1）:18-24.[Wang Na, Cheng Ruimei,Xiao Wenfa,et al.Fine root decomposition and nutrient release of Pinus massoniana in the Three Gorges Reservoir Area[J].Forest Research,2017,30(1):18 -24.] [14］赵燕娜,廖超英,李晓明.毛乌素沙地4 种固沙植物根际与非 根际土壤生物学特性[J].干旱区研究,2015,32（4）：680-   \n686.[Zhao Yanna,Liao Chaoying,Li Xiaoming.Rhizosphere and non-rhizosphere soil biological propertiesof four kinds of sand-fixing plants in the Mu Us sandland[J].Arid Zone Research,2015,   \n32(4) :680 -686.] [15]Li Q X,Wang Y S,Zhu YJ,et al. Effects of soil improvement of Caragana intermedia plantaions in alpine sandy land on Tibet plateau[J].Acta Ecologica,2014,34(2）:123-128. [16]Jia ZQ,Zhu YJ,Liu L Y.Different water use strategies of juvenile and adult Caragana intermedia plantations in the Gonghe Basin, Tibet Plateau[J].Plos One,2012,7(9）:e45902. [17］张立恒,贾志清,王学全,等.高寒沙区不同生境赖草的生长特 征分析［J].植物资源与环境学报,2018,27（3）：87－94 [Zhang Liheng,Jia Zhiqing，Wang Xuequan,et al. Analyses on growth characteristics of Leymus secalinus in different habitats in alpine sandy area[J]. Journal of Plant Resources and Environment,2018,27(3):87 -94.]   \n[18］孙清芳,刘滨凡,韩丽冬,等.阔叶红树林细根分布及周转[J]. 森林与环境学报,2016,36（4）:449－454.[Sun Qingfang,Liu Binfan,Han Lidong,etal.Vertical distributionand turnoveroffine roots in broad-leaved Korean pine forest[J].Journal of Forest and Environment,2016,36(4）:449 -454.]   \n[19]Sehenk HJ,Jackson R B.The global biogeography of roots[J]. Ecological Monographs,2002,72(3）:31l-328.   \n[20]刘龙,姚云峰,郭月峰,等.农牧交错带柠条锦鸡儿根系与土壤 水分空间关系研究[J].中国农业科技导报,2017,19（7)：101 -107.［Liu Long,Yao Yunfeng,Guo Yuefeng,et al. Studies on spatial relationship between Caragana korshinski kom．root and soil water content in agriculture-pasture transition zone[J]. Journal of Agricultural Scienceand Technology,2017,19（7）:101- 107.]   \n[21］徐贵青,李彦.共生条件下三种荒漠灌木的根系分布特征及其 对降水的响应[J].生态学报,2009,29（1）:130－137.［Xu Guiqing,Li Yan.Roots distribution of three desert shrubs and their response to precipitation under co-occurring conditions[J].Acta Ecologica Sinica,2009,29(1）:130-137.]   \n[22]郭京衡,李尝君,曾凡江,等.2种荒漠植物根系生物量分布与 土壤水分养分的关系〔J].干旱区研究,2016,33（1）：166- 171.[Guo Jingheng,Li Changjun,Zeng Fanjiang,et al.Relationship between root biomass distribution and soil moisture,nutrient for two desert plant species[J].Arid Zone Research,2016,33 (1) :166 -171.]   \n[23]何永涛,石培礼,张宪洲,等.拉萨河谷杨树人工林细根的生产 力及其周转[J].生态学报,2009,29(6):2 877-2 883.[He Yongtao,Shi Peili,Zhang Xanzhou,et al.Fine root production and turnover of poplar plantation in the Lhasa river valley,Tibet Autonomous Region[J].Acta Ecologica Sinica,2009,29(6）:2 877 - 2 883.]   \n[24］王健健,赵学春,来利明,等.新疆三工河流域怪柳群落细根生 产与周转对土壤有机碳的贡献[J].林业科学研究,2014,27 (6）:809-814.[Wang Jianjian,Zhao Xuechun,Lai Liming,et al.Contribution of fine root production and rurnover to soil organic carbon in Tamarix ramosissima community in Sangong River Basin of Xinjiang,China[J].Forest Research,2014,27(6):809-814.]   \n[25]Park B B,YanaiRD,Fahey TJ,et al.Fine root dynamics and forest production across a calcium gradient in Northern hardwood and conifer ecosystems[J].Ecosystems,2008,11(2）:325-341.   \n[26］郭忠玲,郑金萍,马元丹,等.长白山几种主要森林群落木本植 物细根生物量及其动态[J].生态学报,2006,26(9）:2 855- 2 862.[Guo Zhongling,Zheng Jinping,Ma Yuandan,et al.A preliminary study on fine root biomass and dynamics of woody plants in severalmajor forest communities of Changbai Mountain, China [J].Acta Ecologica Sinica,2006,26(9):2 855 -2 862.]   \n[27]Guo L B,Halliday MJ,Gifford R M.Fine root deeom position under grass and pine seedlings in controlled environmental conditions [J].Applied Soil Ecology,2006,33(1）:22 -29.   \n[28]Pregitzer K S,King J S,Burton A J,et al. Responses of tree fine roots to temperature[J].New Phytologist,2000,147(1）:105-115.   \n[29］英慧,殷有,于立忠,等.土壤水分、养分对树木细根生长动态 及周转影响研究进展[J].西北林学院学报,2010,25（3）;36- 42.[Ying Hui,Yin You,Yu Lizhong,etal.Effects of soil moisture and soil nutrient on the dynamic and turnover of the tree fine roots [J].Journal of Northwest Forestry University,2010,25（3）:36- 42.]   \n[30］闰美芳，王璐,郭楠,等.黄土高原杨树人工林的细根生物量与 碳储量研究[J].中国农学通报,2015,31（35)：146-151.［Yan Meifang,Wang Lu,Guo Nan,et al.Study on fine root biomass and C stock in a poplar plantation in Loess Plateau[J].Chinese Agricultural Science Bulletin,2015,31(35):146-151.]   \n[31］郑金萍，范春楠,郭忠玲，等.长白山落叶松人工林细根生物量 及其动态研究[J].南京林业大学学报（自然科学版），2014,38 (2）:176-179.[Zheng Jinping,Fan Chunnan,Guo Zhongling,et al.Fine roots biomass and its dynamics of Larix olgensis plantation [J].Journal of Nanjing Forestry University(Natural Science Edition）,2014,38(2):176-179.]   \n[32]单建平，陶大立.国外对树木细根的研究动态[J].生态学杂， 1992,11(4）:46-49.[Shan Jianping,Tao Dali. Overseas researcheson tree fine root[J].Chinese Journal of Ecology,1992,11（4）： 46-49.]   \n[33]Alvarez-Uriap,Korner C.Fine root traits in adult trees of evergreen and deciduous taxa from low and high elevation in the Alps[J]. Alpine Botany,2011,121(2):107-112.   \n[34]Marshall JD,Waring R H.Predicting fine root production and turnover by monitoring root starch and soil temperature[J].Canadian Journal ofForest Research,1985,15(5）:791-800.   \n[35]刘顺,罗达，杨洪国,等.川西亚高山岷江冷杉原始林细根生物 量、生产力和周转[J].生态学杂志，2018,37（4)：987-993. [Liu Shun,Luo Da,Yang Hongguo,et al.Fine root biomass,productivity and turnover of Abies faxoniana primary forest in subalpine region of Western Sichuan,China[J].Chinese Journal of Ecology,2018,37(4) :987-993.]   \n[36]裴智琴，周勇，郑元润,等.干旱区琵琶柴群落细根周转对土壤 有机碳循环的贡献[J].植物生态学报，2011,35（11)：1182- 1191.[Pei Zhiqin,Zhou Yong,Zheng Yuanrun,et al.Contribution of fine root turnover to the soil organic carbon cycling in a Reaumuria soongorica community in an arid ecosystem of Xinjiang Uygur Autonomous Region,China[J].Chinese Journal of Plant Ecology,2011,35(11):1182-1191.]   \n[37]Ma ZQ,Guo DL,Xu XL,et al.Evolutionary history resolves global organization of root functional traits[J].Nature,2O18,555 (7 694) :94.   \n[38]Hendricks JJ,Hendrick RL,Wilson C A,et al.Assessing the patterns and controls of fine root dynamics:An empirical test and methodological review[J].Journal of Ecology,20O6,94:40-57. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biomass Dynamics and Turnover of Fine Roots of Caragana intermedia Plantations in Alpine Sandy Land ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Li-heng’，LIQing-xue²3，WANG Xue-quan $^ { 2 , 3 } _ { . }$ ， JIA Zhi-qing $^ { 2 , 3 }$ ， LI Shao-hua² (1.Northwest Instituteof Forest Inventory,PlanningandDesign,StateAdministrationofForestryandGrassland, Xi'an 710048,Shaanxi,China;   \n2.Institute of Desertification Studies,Chinese Academy of Forestry,Beijing 10oo91,China;   \n3. Qinghai Gonghe Station for Desert Ecosystem Research ,Gonghe 813005,Qinghai,China ;   \n4.Beijing North Canal Offce,Beijing 10110o,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The determination and analysis of the biomassof fine roots of Caragana intermedia plantations with 3, 5,10,16and 3O tree-ages atthe Qinghai Province Sand Control Experimental Station werecariedout.The purposes of the study weretoaccuratelyunderstandthe vertical distribution,dynamicvariationand turnover rateof the biomass of fine roots of $C$ .intermedia plantations.The results showed that about $41 \\%$ living fine roots and $3 9 \\%$ dead fine roots of $C$ .intermedia plantations were distributed in soil layer $0 - 2 0 ~ \\mathrm { c m }$ in depth, $3 8 \\%$ living fine roots and dead fine roots were distributed in soil layer $2 0  { - } 4 0 ~  { \\mathrm { c m } }$ in depth,and $21 \\%$ living fine roots and $23 \\%$ dead fine roots were distributed in soillayer 4O-6O cm in depth.There was an obvious seasonal dynamic changeof the biomass of fine roots,and the peak biomass of living fine rootsappeared in Juneand Augustor June and September, and its maximum occurred in August or September;the peak biomassof dead fine rots appeared in August and September,and its maximum also occurred in August or September.The turnover rates of $C$ .intermedia plantations with different tree-ages were 0.53,0.66,0.56,0.73 and 0.78 times $\\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ . The biomass and turnover rate of fine roots of C.intermedia plantations increased with the increase of tree-age,but decreased with the increase of soil depth. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: alpine sandy land; Caragana intermedia Kuang et $\\mathrm { H . C . F u }$ ；plantation ； fine root biomass； fine rootdistribution； fine root turnover rate；Qinghai Province",
+        "page_idx": 7
+    }
+]

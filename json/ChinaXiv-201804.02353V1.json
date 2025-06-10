@@ -1,0 +1,650 @@
+[
+    {
+        "type": "text",
+        "text": "Rotation of Transition Metal Ions under Electric Fields: Possible New Superconducting Electron Pairing Mechanism ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tiege Zhou\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(CollegeofElectronic InformationandOptical Engineering,Nankai University,0o350Tianjin,P.R.China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Electric field effects in iron- and copper-based superconductors were studied by using the first-principles calculations based on the density functional theory (DFT).The research objects include iron-based superconductors( $\\mathrm { K F e } _ { 2 } \\mathrm { S e } _ { 2 }$ ，LaFeAsO，NdFeAsO，and ${ \\mathrm { B a F e } } _ { 2 } { \\mathrm { A s } } _ { 2 }$ ）and copper-basedsuperconductors $\\mathrm { ( Y B a _ { 2 } C u _ { 3 } O _ { 7 } }$ ， $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } } ,$ ， $\\mathrm { T l _ { 2 } B a _ { 2 } C a C u _ { 2 } O _ { 8 } }$ and ${ \\mathrm { B i } _ { 2 } } { \\mathrm { S r } } _ { 2 } { \\mathrm { C a } } _ { 2 } { \\mathrm { C u } } _ { 3 } { \\mathrm { O } } _ { 1 0 } \\big )$ . To describe the strong correlation effect of $3 d .$ -electrons or $4 f -$ electrons, the $\\mathrm { G G A ^ { + } U }$ method was used. Some results were further verified by the HSE method. The densities of states (DOS) were given. The change of the charge densities under electric fields is presented to demonstrate the electric field effect. It is found that the electron clouds of Fe ions in iron-based superconductors, Nd ions in $\\mathrm { N d } _ { 2 } \\mathrm { F e } _ { 2 } \\mathrm { A s } _ { 2 } \\mathrm { O } _ { 2 }$ ,and $\\mathrm { C u }$ ions in copper-based superconductors change obviously. The pattern of the change is more like a rigid-body rotation than an elastic deformation. The author proposed that the rotation of the electron clouds of transition metal ions may be a new medium of superconducting electron pairing. The author's views about some issues and suggestions on follow-up studies are also presented. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: high temperature superconductivity; electric field effect; electron pairing mechanism; electron cloud rotation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 1986, J.G. Bednorz and K.A. Müller discovered that there may be high-temperature superconductivity (HTS) in La-Ba-Cu-O oxides[1], which revealed a new chapter in the research of superconductivity. In 1987, M. K. Wu et al.[2] and Z. X. Zhao et al. [3] synthesized Y-Ba-Cu-O superconductors, respectively， almost at the same time. The critical temperature $( T _ { \\mathrm { c } } )$ for superconductivity reached 90K and achieved a breakthrough above the liquid nitrogen temperature.In 1988,H.Maeda,Y. Tanaka,M.Fukutumi,and T.Asano.found BiSrCaCuO superconductors with a $T _ { \\mathrm { c } }$ above 100K [4]. In 1988, Z. Z. Sheng et al. synthesized Tl-containing superconductors [5][6]. In 1993, $\\mathrm { H g B a _ { 2 } C u O _ { 4 + \\delta } }$ ,the first member of the $\\mathrm { H g }$ series, was synthesized by S. N. Putilin et al.，with a $T _ { \\mathrm { c } }$ of 94K [7]. In 1993，A. Schilling et al. synthesized $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 + 8 } }$ ,raising the $T _ { \\mathrm { c } }$ above 130K [8]. The $T _ { \\mathrm { c } }$ of $\\mathrm { H g } { - } 1 2 2 3$ can reach $1 5 3 \\mathrm { K }$ under a high pressure [9]. In addition to copper-based superconductors, iron-based superconductors have also received widespreadattention[10][11][12]. The $T _ { \\mathrm { c } }$ of PrFeAsOo.89Fo.11 reaches 52K [13]and SmFeAsOo.85 55K [14]. In 2012, Q. K. Xue et al. successfully grow FeSe thin films with one unit-cell thickness on the surface of $\\mathrm { S r T i O } _ { 3 }$ substrates by the MBE method [15]. The monolayer FeSe showed a $T _ { \\mathrm { c } }$ above the liquid nitrogen temperature (77K). In 2014, Q. K. Xue et al. reported the FeSe monolayer with a $T _ { \\mathrm { c } }$ over $1 0 0 \\mathrm { K }$ [16]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The discovery of copper- and iron-based superconductors has seriously challenged the BCS theory，because BCS theory predicts that $T _ { \\mathrm { c } }$ cannot be so high.Traditional electron-phonon interaction mechanism failed to explain the electron pairing mechanism and other new phenomena exhibited in copper- and iron-based superconductors. In 1987,P. W. Anderson[17] has put forward the famous RVB model for copper-based superconductors.Though many theories[18][19]20] have been proposed so far, the electron pairing mechanism is still under intense debate. Anderson[21] made it clear in 2Oo7 that many theories about high-temperature superconducting electron pairing mechanism might be in the wrong direction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The author believes, to explain the electron pairing mechanism in high-temperature superconductors, we must go back to the traditional electron pairing mechanism. As early as 1950, H.Frohlich [22] proposed that electron-latice interaction is the source of superconductivity, supported by the isotope effect [23][24].Based on this,the well-known BCS theory[25][26] was developed, explaining the traditional superconductivity successfully. The author argues that the electronic-phonon interaction in BCS theory is closer to a mathematical tool than a simple and intuitive physical model. The simple and intuitive model is as folows. The electric field of an electron will distort the ions’positions.When the electron leaves,the ions will not restore to the original positions immediately. This results in a positive charge region which willatract another electron and thus creates an atractive interaction between electrons.Based on the above consideration,the author believes that a study of the influence of electric fields on coper- and iron-based superconductors may provide important information about the electron pairing mechanism. Although many experiments of HTS under electric fields have been conducted [2]28]2],thappoeisangeeaocentratidussupouctig properties. It is related to new superconducting device preparation, no electron pairing mechanism involved. In the study of the electric field effect of eight typical unconventional superconductors, the author found,for the first time,the electron cloud of transition metal ions behaves like a rigid-body rotation. Based on this discovery, the author proposes a possible new superconducting electron pairing mechanism. This article describes the research methods,results, possible new superconducting electron pairing mechanism, and the authors' views on several issues about HTS. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Research objects and calculation methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The author selected four typical iron-based superconductors (KFeSe2, LaFeAsO, NdFeAsO and ${ \\mathrm { B a F e } } _ { 2 } { \\mathrm { A s } } _ { 2 }$ ）and four typical copper-based superconductors ( $\\mathrm { Y B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 }$ ， $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } } .$ $\\mathrm { T l } _ { 2 } \\mathrm { B a } _ { 2 } \\mathrm { C a C u } _ { 2 } \\mathrm { O } _ { 8 }$ and $\\mathrm { B i } _ { 2 } \\mathrm { S r } _ { 2 } \\mathrm { C a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 1 0 } \\big )$ . It is worth noting that the objects calculated are not strictly actual superconductors.They are parent materials,and the author makes them closer to the actual superconductors by changing the stoichiometries or valence electron numbers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first-principles calculation based on DFT was used. Most of the calculations were conducted within the Vienna Ab-initio Simulation Package (VASP）[30][31l. The projector augmented plane wave (PAW） method [32][33] was used to describe the interaction between the valence electrons and the ion cores. The generalized gradient approximation (GGA） of Perdew-Burke-Ernzerhof (PBE)[34] was used for the exchange correlation potential. To describe the strong correlation of the $3 d$ or $4 f$ electrons, the $\\mathrm { G G A ^ { + } U }$ method is used. For the $3 d$ orbitals of Fe and $\\mathrm { C u }$ ，the $\\mathrm { U } _ { \\mathrm { e f f } }$ values are $4 \\mathrm { e V } ^ { [ 3 5 ] }$ and $6 . 5 \\mathrm { e V } ^ { [ 3 6 ] [ 3 7 ] }$ , respectively. Plane waves were used to expand the valence electron wave functions. The cutoff energy is set to $4 0 0 ~ \\mathrm { e V }$ which has been tested by taking both accuracy and computing cost into account. The valence electron configurations of the pseudopotentials are taken as $3 \\mathrm { p } ^ { 6 } 3 \\mathrm { d } ^ { 7 } 4 \\mathrm { s } ^ { 1 }$ for Fe (with a radius of 2.200 a.u.), $\\mathsf { 4 s ^ { 2 } 4 p ^ { 4 } }$ for Se, $3 \\mathrm { s } ^ { 2 } 3 \\mathrm { p } ^ { 6 } 4 \\mathrm { s } ^ { 1 }$ for K, $5 \\mathrm { s } ^ { 2 } 5 \\mathrm { p } ^ { 6 } 5 \\mathrm { d } ^ { 1 } 6 \\mathrm { s } ^ { 2 }$ for La, $4 \\mathrm { s } ^ { 2 } 4 \\mathrm { p } ^ { 3 }$ for As, $4 \\mathrm { f } ^ { 4 } 5 \\mathrm { s } ^ { 2 } 5 \\mathrm { p } ^ { 6 } 6 \\mathrm { s } ^ { 2 }$ for Nd, $5 \\mathrm { s } ^ { 2 } 5 \\mathrm { p } ^ { 6 } 6 \\mathrm { s } ^ { 2 }$ for Ba, $5 \\mathrm { d } ^ { 1 0 } 6 \\mathrm { s } ^ { 2 }$ for $\\mathrm { H g } , 3 \\mathrm { s } ^ { 2 } 3 \\mathrm { p } ^ { 6 } 4 \\mathrm { s } ^ { 2 }$ for Ca, $\\mathrm { 3 p ^ { 6 } 3 d ^ { 1 0 } 4 s ^ { 1 } }$ for $\\mathrm { C u }$ (with a radius of 2.000 a.u.), $2 \\mathrm { s } ^ { 2 } 2 \\mathrm { p } ^ { 4 }$ for 0, $4 \\mathrm { s } ^ { 2 } 4 \\mathrm { p } ^ { 6 } 4 \\mathrm { d } ^ { 1 } 5 \\mathrm { s } ^ { 2 }$ for Y, $5 \\mathrm { d } ^ { 1 0 } 6 \\mathrm { s } ^ { 2 } 6 \\mathrm { p } ^ { 1 }$ for Tl, $5 \\mathrm { d } ^ { 1 0 } 6 \\mathrm { s } ^ { 2 } 6 \\mathrm { p } ^ { 3 }$ for Bi,and $4 \\mathrm { s } ^ { 2 } 4 \\mathrm { p } ^ { 6 } 5 \\mathrm { s } ^ { 2 }$ for Sr. For some results, further calculations with the Heyd, Scuseria,and Ernzerhof (HSE）[38] hybrid-functional were performed for cross validation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quantum Espresso (QE) simulation package[39] and norm-conserving pseudopotentials were employed in the calculation of iron-based superconductors under uniform electric fields. The valence electron configurations of the pseudopotentials are taken as $3 \\mathrm { s } ^ { 2 } 3 \\mathrm { p } ^ { 6 } 3 \\mathrm { d } ^ { 6 } 4 \\mathrm { s } ^ { 2 }$ for Fe (with a radius of 1.909 a.u.), ${ 4 \\mathrm { s } ^ { 2 } 4 \\mathrm { p } ^ { 4 } }$ for Se, $3 \\mathrm { s } ^ { 2 } 3 \\mathrm { p } ^ { 6 } 4 \\mathrm { s } ^ { 1 }$ for K, $5 \\mathrm { s } ^ { 2 } 5 \\mathrm { p } ^ { 6 } 5 \\mathrm { d } ^ { 1 } 6 \\mathrm { s } ^ { 2 }$ for La, $4 \\mathrm { s } ^ { 2 } 4 \\mathrm { p } ^ { 3 }$ for As, $3 \\mathrm { s } ^ { 2 } 3 \\mathrm { p } ^ { 6 } 4 \\mathrm { s } ^ { 1 }$ for Ba, and $2 \\mathrm { s } ^ { 2 } 2 \\mathrm { p } ^ { 4 }$ for O.Pseudopotentials with less valence electrons ( $\\mathrm { 3 d ^ { 6 } 4 s ^ { 2 } }$ for Fe, $4 \\mathrm { s } ^ { 1 }$ for K, and $6 \\mathrm { s } ^ { 2 }$ for Ba) were also used for comparison. The cut-off energy of the plane wave is set to 80 Ry. The exchange-correlation interaction of electrons is escribed by the $\\mathrm { G G A ^ { + } U }$ method. $\\mathrm { U } _ { \\mathrm { e f f } }$ is $6 . 5 \\mathrm { e V }$ for the $3 d$ orbital of Fe. Set occupations $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 'fixed' in the input file.In general, occupations $\\mathbf { \\Sigma } =$ 'fixed' cannot be used for metal. Considering that the calculated objects are not good conductors, it is acceptable in the calculation of uniform electric fields,but it is difficult to converge to a high accuracy. In the following, the author will give an explanation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results given below without description are obtained with VASP. When the QE software package is used, the author will point out. First, the geometry of the system is optimized until all forces on ions are less than $0 . 0 1 ~ \\mathrm { e V } / \\mathrm { \\AA }$ . After optimization, the influence of an electric field on the charge density is calculated. Calculations of iron- and copper-based superconductors were converged to $1 0 ^ { - 5 } ~ \\mathrm { e V }$ and $1 0 ^ { - 6 }$ ,respectively, for the tolerance on the total energy. There are three ways of applying an electric field to the system. The first is to insert one $\\mathrm { L i } ^ { + }$ ion at an appropriate position (denoted by $\\mathrm { L i ^ { + } }$ Insertion); the second is to slightly change the position of some atom (Slight Change); and the third is to apply a uniform electric field (Uniform E-field) with QE package. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 ${ \\bf K } _ { 2 } { \\bf F e } _ { 4 } { \\bf S } { \\bf e } _ { 4 } { \\bf - } 2 { \\bf e }$ and ${ \\bf K } _ { 2 } { \\bf F e } _ { 4 } { \\bf S } { \\bf e } _ { 4 }$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KFeSe superconductors have different stoichiometries, such as $\\mathrm { K } _ { 0 . 8 } \\mathrm { F e } _ { 1 . 6 } \\mathrm { S e } _ { 2 } [ 4 0 ]$ and ${ \\sf K } _ { x } { \\sf F e } _ { 2 } { \\sf S } { \\sf e } _ { 2 }$ [41] The $T _ { \\mathrm { c } }$ of $\\mathbf { K } _ { 0 . 8 } \\mathbf { F e } _ { 1 . 6 } \\mathbf { S } \\mathbf { e } _ { 2 }$ is 31.8K. To access an antiferromagnetic state, the author adopts $\\mathrm { K _ { 2 } F e _ { 4 } S e _ { 4 } }$ for calculation. Two cases were calculated. One is $\\mathrm { K _ { 2 } F e _ { 4 } S e _ { 4 } } { - 2 } \\mathrm { e }$ ，with two valence electrons subtracted, in which the valence of K is $+ 1$ ,Se is $^ { - 2 }$ ,and Fe is $+ 2$ .The other is $\\mathrm { K _ { 2 } F e _ { 4 } S e _ { 4 } }$ no electron added or subtracted, in which the valence states are rather complicated. If K is $+ 1$ and Se is -2, then Fe is $+ 3 / 2$ . The $k$ -point is set to $1 0 \\times 1 0 \\times 4$ when using the $\\mathrm { G G A ^ { + } U }$ method, and $6 { \\times } 6 { \\times } 2$ when using the HSE method. Fig.1 shows the DOS of $\\mathrm { K _ { 2 } F e _ { 4 } S e _ { 4 } } – 2 \\mathrm { e }$ ,in which the $3 d$ orbital of the Fe ion $( \\mathrm { F e \\_ d } )$ is also presented. It's an insulator, and the $\\mathrm { G G A ^ { + } U }$ method is in very good agreement with the HSE method except the bandgap. The $\\mathrm { G G A ^ { + } U }$ method gives a bandgap of about $1 . 3 \\mathrm { e V } ,$ whereas the HSE method gives a bandgap of about $1 . 8 \\mathrm { e V . }$ （204号 ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd738eb2a9667ba562125378d06ce2819aa0a7aec6bf3b5d8d152cf5ae676c82.jpg",
+        "img_caption": [
+            "Fig.1DOS of K2Fe4Se4-2e from $\\mathrm { G G A ^ { + } U }$ (a) and HSE (b) method "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All the three methods were employed to study the influence of electric fields.The fractional coordinate of the inserted ${ \\mathrm { L i } } ^ { + }$ ion is (0.5,0.5,0.62) and it is $2 . 5 5 \\mathrm { ~ \\AA ~ }$ away from the nearest neighbor Fe, $2 . 7 3 \\mathrm { ~ \\AA ~ }$ from Se, and $1 . 5 \\textup { \\AA }$ from K. The original position the Se atom to be changed is (0.5,0.5, 0.8682) and then revised to (0.5,0.5,0.8602). The position was changed in the (001) direction by $- 0 . 1 \\textup { \\AA }$ . When applying the uniform electric field, QE package is used and the $k$ -point is set to $6 { \\times } 6 { \\times } 2$ . The uniform electric field is along (111) direction, with a value of 0.0oo87 Ry a.u.. Set efield_ $\\cot ( 1 ) = 0 . 0 0 0 5$ Ry a.u., efield_ca $\\operatorname { t r t } ( 2 ) = 0 . 0 0 0 5$ ，andefield_car $\\mathrm { t } ( 3 ) = 0 . 0 0 0 5$ in the main input file. The convergence accuracy reaches $3 { \\times } 1 0 ^ { - 4 }$ Ha.When the $k$ -point is reduced to $3 \\times 3 \\times 1$ , the convergence can reach $1 { \\times } 1 0 ^ { - 5 } \\ \\mathrm { H a }$ ，and the result is in accordance with that of $6 { \\times } 6 { \\times } 2$ （204号 $k$ -point. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 displays the crystal structure,spin density map and the charge density difference (CDD)with and without electric fields.The yellow color represents a positive value or increase of the charge density, while the blue color negative or decrease. It can be seen from the spin density map that there is a clear spin distribution on the iron ions and the antiferromagnetic state is present. For the three ways of exerting influence of electric field, the charge density around Fe ions changes significantly. There is no similar change around other atoms. The change is more like a rigid rotation rather than an elastic deformation, because the change is not entirely along the direction of the electric field. Some areas increase,while some areas decrease.Furthermore, the pattern of the change is like $3 d$ electron clouds.The isosurface of the CDD is equal to that of the spin density, indicating the rotation is obvious.The author is sure that the observed results were not caused by low computational accuracy, from calculations with different accuracies. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45e5548090790cf6758576dd0c7c51a0fd3db78326edddeb1bdbff5e327fd350.jpg",
+        "img_caption": [
+            "Fig.2 (a) Crystal structure of K2Fe4Se4 with one $\\mathrm { L i ^ { + } }$ ion inserted; (b) Spin density map ( $\\mathrm { G G A ^ { + } U }$ ,iso $= 0 . 0 2$ num_electron $\\langle \\ b \\mathrm { o h r } \\Lambda 3 \\$ ); (c) CDD from $\\mathrm { L i ^ { + } }$ Insertion ( $\\mathrm { \\bf G } \\mathrm { \\bf G } \\mathrm { \\bf A } { + } \\mathrm { \\bf U }$ $\\mathbf { i s o } = 0 . 0 2 \\cdot$ ; (d) CDD from $\\mathrm { L i ^ { + } }$ Insertion (HSE, iso $\\ c =$ 0.02); (e) CDD from Slight Change ( $\\mathrm { \\bf G } \\mathrm { \\bf G } { \\bf A } { + } \\mathrm { \\bf U }$ ,iso $_ { _ { 1 } = 0 . 0 2 }$ ); (f) CDD from Uniform E-field (QE,GGA $+ \\mathrm { U }$ iso $\\mathbf { \\Sigma } =$ 0.02). iso represents isosurface. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the local magnetic moments (LMM) of the Fe ions in $\\mathrm { K _ { 2 } F e _ { 4 } S e _ { 4 } } { - 2 } \\mathrm { e }$ .When there is no electric field, LMM from the $\\mathrm { G G A ^ { + } U }$ method is very close to that from the HSE method, showing the consistency of the two methods.For the results from QE package, LMMs from the low accuracy and high $\\mathbf { k }$ -point calculation are consistent with those from the high accuracy and low $\\mathbf { k }$ -point calculation, indicating a converge of $3 { \\times } 1 0 ^ { - 4 }$ Ha is reasonable. The change ofLMMs with and without electric fields is small, which indicates the electric field did not change the nature of the system significantly. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/32507653cf08114f9b437e929a6518ee3c3ea0e8530d36a7163b730f8742b164.jpg",
+        "table_caption": [
+            "Table1LMM $( \\mu \\mathrm { { B } } )$ ofFe atoms inK2Fe4Se4-2e "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Method</td><td>Fe1</td><td>Fe2</td><td>Fe3</td><td>Fe4</td></tr><tr><td>GGA+U</td><td>No field</td><td>3.384</td><td>3.384</td><td>-3.384</td><td>-3.384</td></tr><tr><td rowspan=\"4\">HSE</td><td>Li+ Insertion</td><td>3.453</td><td>3.322</td><td>-3.599</td><td>-3.274</td></tr><tr><td>Slight Change</td><td>3.388</td><td>3.361</td><td>-3.385</td><td>-3.441</td></tr><tr><td>No field</td><td>3.376</td><td>3.376</td><td>-3.376</td><td>-3.376</td></tr><tr><td>Li+ Insertion</td><td>3.481</td><td>3.273</td><td>-3.507</td><td>-3.237</td></tr><tr><td rowspan=\"2\">QE(662k)</td><td>No field</td><td>3.229</td><td>3.229</td><td>-3.193</td><td>-3.193</td></tr><tr><td>Uniform E-field</td><td>3.276</td><td>3.301</td><td>-3.295</td><td>-3.299</td></tr><tr><td rowspan=\"2\">QE(331k)</td><td>No field</td><td>3.227</td><td>3.227</td><td>-3.227</td><td>-3.227</td></tr><tr><td>Uniform E-field</td><td>3.289</td><td>3.289</td><td>-3.289</td><td>-3.289</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition, increasing or decreasing the latice constant by $2 . 5 \\%$ ,the same rotation can be observed. For Figure 2 (c),increasing the plane wave cutoff energy to $5 0 0 \\mathrm { e V } ,$ ，the results are consistent with that of $4 0 0 \\mathrm { e V . }$ Calculations with valence electrons as $3 \\mathrm { d } ^ { 6 } 4 \\mathrm { s } ^ { 2 } ( 1 . 9 9 1 5 \\mathrm { ~ a ~ }$ .u.) for Fe and $4 \\mathrm { s } ^ { 1 }$ for K were performed. The $k$ -point is $6 { \\times } 6 { \\times } 2$ and the convergence reaches $1 { \\times } 1 0 ^ { - 6 } \\ \\mathrm { H a }$ . The results are consistent with the previous，showing the observed rotation comes from the $3 d$ electrons mainly. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For KzFe4Se4,with no electron subtracted or added, the results show that there is also a significant rotation of the electron cloud of the Fe ions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2LaFeAsO ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The authorcalculated $( { \\mathrm { L a F e A s O } } ) _ { 2 }$ directly,without increase or decrease of the number of the valence electrons.For the $\\mathrm { G G A ^ { + } U }$ method, the $k$ -point is set to $1 0 \\times 1 0 \\times 6$ 、For the HSE method, the $k$ -point is set to $6 { \\times } 6 { \\times } 2$ .Fig.3 shows the DOS.The two methods give similar DOS for the $d .$ -orbitals of the Fe atoms. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/214aa1bdedbc78f13a43b0487d614ef89cf733ea14cc2e518a3ea1b57ff1ff5b.jpg",
+        "img_caption": [
+            "Fig.3DOSof(LaFeAsO)2 from $\\mathrm { G G A ^ { + } U }$ (a) and HSE (b) method "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When calculating the influence of electric field, the coordinate of the inserted $\\mathrm { L i ^ { + } }$ ion is (0.s ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.58, 0.62). The $\\mathrm { L i ^ { + } }$ ion is 1.877A, 1.979A,and 2.407A from the nearest neighbor Fe atom, As atom,and La atom, respectively. The original coordinate of the As atom to be changed is (0.75, 0.75,0.3363),and then revised to (0.75,0.75, 0.3113). The position was changed in the (001) direction by $- 0 . 2 2 \\textrm { \\AA }$ . When using the QE package, the $k$ -point is set to $6 { \\times } 6 { \\times } 2$ .The convergence reaches $1 \\times 1 0 ^ { - 5 }$ Ha. Fig. 4 shows the crystal structure, CDDs and the total charge density $( 3 \\mathrm { d } ^ { 6 } 4 \\mathrm { s } ^ { 2 }$ are taken as valence electrons for Fe). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d00d8d4e8362ea35d0e10f8507161f914fde906ed2eaf26186f4ba93288ea45a.jpg",
+        "img_caption": [
+            "Fig.4 (a) Crystal structure of(LaFeAsO)2 with one $\\mathrm { L i ^ { + } }$ ion inserted; (b) CDD from $\\mathrm { L i ^ { + } }$ Insertion( $\\mathrm { \\ G G A ^ { + } U } ,$ iso $\\ O =$ 0.02）; (c) CDD from $\\mathrm { L i ^ { + } }$ insertion (HSE, isc $\\bullet = 0 . 0 2$ )；(d) Total charge density ( $\\mathrm { G G A ^ { + } U }$ ,iso $\\AA _ { \\cdot } = 0 . 3$ ); (e) CDD from Slight Change (HSE,is $_ { ) } = 0 . 0 2$ ); (f) CDD from Uniform E-field(QE,iso $= 0 . 0 2$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from all the CDDs that there is a significant rotation of the electron clouds of the Fe ions.From Fig.4(d),the distribution of the charge density around the iron atom does not have a perfect spherical symmetry. The author believes that this is the main reason for the rotation under electric fields. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LMMs are given in Table 2. The results given by different methods are consistent, and the applied electric field has little effect on the local magnetic moments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/de16416b7df3f700f51552903140a012c537e1dcad7e9849ff6a4e9a6f275e99.jpg",
+        "table_caption": [
+            "Table2LMMofFe in (LaFeAsO)2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Method</td><td>Fe1</td><td>Fe2</td></tr><tr><td>GGA+U</td><td>No field</td><td>3.261</td><td>-3.261</td></tr><tr><td rowspan=\"5\">HSE</td><td>Li+ Insertion</td><td>3.286</td><td>-3.287</td></tr><tr><td>Slight Change</td><td>3.280</td><td>-3.332</td></tr><tr><td>No field</td><td>3.282</td><td>-3.282</td></tr><tr><td>Li+ Insertion</td><td>3.244</td><td>-3.244</td></tr><tr><td>Slight Change</td><td>3.349</td><td>-3.360</td></tr><tr><td rowspan=\"2\">QE</td><td>No field</td><td>3.232</td><td>-3.222</td></tr><tr><td>Uniform E-field</td><td>3.219</td><td>-3.230</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The calculation with $3 \\mathrm { d } ^ { 6 } 4 \\mathrm { s } ^ { 2 }$ as valence electrons for Fe shows that there is a significant rotation of the electron cloud. Increasing the cut off energy of the plane wave to $5 0 0 ~ \\mathrm { e V }$ gives the same results as $4 0 0 \\mathrm { e V . }$ The author also observed obvious rotation when O.2 electrons added. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition, the author calculated a $6 { \\times } 2 { \\times } 1$ supercell. The position of the inserted ${ \\mathrm { L i } } ^ { + }$ ion is (0.79,0.38,0.58); the coordinate of the As atom to be changed was (0.2083, 0.6250, 0.6637) and decreased by 0.0l (0.082 A) in the y direction. Fig. 5 shows the CDDs. The most important discovery is significant rotation occurs far away from the position where the electric field is applied. This shows that electron clouds of Fe ions in iron-based superconductors are more sensitive to the electric field, which is different from that of copper-based superconductors given below.The electron clouds of some Fe ions change obviously, but some not, which may be caused by the interaction between the charge density changes of different Fe ions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "baiebtsebgts (a)   \nBis X (b) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. $\\mathbf { 3 } \\ \\mathbf { N d } _ { 2 } \\mathbf { F e } _ { 2 } \\mathbf { A s } _ { 2 } \\mathbf { O } _ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For the investigation of $\\mathrm { N d } _ { 2 } \\mathrm { F e } _ { 2 } \\mathrm { A s } _ { 2 } \\mathrm { O } _ { 2 }$ ，the $k$ -point is set to $1 0 \\times 1 0 \\times 5$ . Since Nd is a $4 f$ transition metal atom, it has strong spin-orbital coupling and strong correlation. The spin-orbital coupling efect is considered in the calculation and the strong correlation efect is described by the $\\mathrm { G G A ^ { + } U }$ method $( \\mathrm { U _ { e f f } ~ = ~ 7 . 0 ~ ~ e V } )$ . The calculation of uniform electric field together with spin-orbital coupling may be too expensive, so the author gives only the result of inserting one ${ \\mathrm { L i } } ^ { + }$ ion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { L i ^ { + } }$ ion is located at (0.5, 0.25, 0.317), which is 1.912 A, 1.927 A, and $2 . 2 8 1 \\mathrm { ~ \\AA ~ }$ from the nearest Nd, Fe,and As, respectively. The author also gives the results when the ${ \\mathrm { L i } } ^ { + }$ ion is closer to one Nd atom.The coordinate of the ${ \\mathrm { L i } } ^ { + }$ ion is (0.4, 0.4, 0.2) and it is $1 . 5 4 \\mathrm { ~ \\AA ~ }$ from the nearest Nd atom. Fig. 6 shows the CDDs. When the distance between the ${ \\mathrm { L i } } ^ { + }$ ion and the Nd atom is large, rotation of the electron cloud of the Nd ion cannot be observed. When the distance decreased, obvious change appears. This suggests that the $4 f$ electron cloud of Nd may also play an important role in superconductivity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/774f868d6a71f95e468acf4cb43d2e5e3b3e0fbd2e4624c872e1444ae96d7a7a.jpg",
+        "img_caption": [
+            "Fig. 6 CDDs from $\\mathrm { L i ^ { + } }$ Insertion $\\mathrm { \\ G G A { + } U }$ $\\mathbf { i s o } = 0 . 0 2$ ） $\\mathrm { L i ^ { + } }$ ion is $1 . 9 1 2 \\mathrm { \\AA }$ (a) and $1 . 5 4 \\mathrm { \\AA }$ (b) from the nearest Nd atom,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4 $\\mathbf { B a } _ { 1 - x } \\mathbf { K } _ { x } \\mathbf { F e } _ { 2 } \\mathbf { A s } _ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The $T _ { \\mathrm { c } }$ of $\\mathrm { B a } _ { 1 - x } \\mathrm { K } _ { x } \\mathrm { F e } _ { 2 } \\mathrm { A s } _ { 2 }$ can reach 38K [42]. $\\mathrm { B a } _ { 2 } \\mathrm { F e } _ { 4 } \\mathrm { A s } _ { 4 }$ and $\\mathrm { B a K F e } _ { 4 } \\mathrm { A s } _ { 4 }$ were employed in the calculation, corresponding to $x = 0$ and O.5, respectively. For the valence state of $\\mathrm { B a } _ { 2 } \\mathrm { F e } _ { 4 } \\mathrm { A s } _ { 4 }$ ,Asis -3, Ba is $+ 2$ ,and Fe is $+ 2$ .For $\\mathrm { B a K F e } _ { 4 } \\mathrm { A s } _ { 4 }$ ,As is $^ { - 3 }$ ,Ba is $+ 2$ $\\mathrm { \\sf ~ K }$ is $+ 1$ and Fe is $+ 9 / 4$ .The $k$ -point is set to $1 0 \\times 1 0 \\times 4$ when using the $\\mathrm { G G A ^ { + } U }$ method and $6 { \\times } 6 { \\times } 2$ when using the HSE method. Fig.7 shows the DOS of $\\mathrm { B a } _ { 2 } \\mathrm { F e } _ { 4 } \\mathrm { A s } _ { 4 }$ . The two methods are in good agreement, except that the $\\mathrm { G G A ^ { + } U }$ method gives a lower bandgap ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5a6a37d238e68fead036a7d5093995766da6b05fd79e9e5c55225b9abff646f.jpg",
+        "img_caption": [
+            "Fig.7DOSof Ba2Fe4As4 from $\\mathrm { G G A ^ { + } U }$ (a) and HSE (b) method "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Two methods were used to calculate the electric field effect. One is to insert one ${ \\mathrm { L i } } ^ { + }$ ion. The coordinate is (0.5,0.5,0.69), and it is $2 . 4 7 0 \\mathrm { ~ \\AA ~ } , 2 . 1 9 1 \\mathrm { ~ \\AA ~ }$ and $2 . 2 6 8 \\mathrm { ~ \\AA ~ }$ away from the nearest neighbor Ba,As,and Fe,respectively. The other is to apply a uniform electric field by the QE package, in which $k$ -point is set to $6 { \\times } 6 { \\times } 2$ . The value and direction of the electric field are the same as those given above. The convergence reaches $1 \\times 1 0 ^ { - 4 }$ Ha. Fig.8 shows the crystal structure and the results,in which the CDD of $\\mathrm { B a K A s _ { 4 } F e _ { 4 } }$ from ${ \\mathrm { L i } } ^ { + }$ Insertion is also given. The rotation of the charge densities of Fe ions is obvious. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d884e6379e6ca1115d581274a4f789fe9999150ee3769ba04ae562852223233c.jpg",
+        "img_caption": [
+            "Fig. 8 (a) Crystal structure of Ba2Fe4As4; (b) CDD of Ba2Fe4As4 from $\\mathrm { L i ^ { + } }$ Insertion ( $\\mathrm { G G A ^ { + } U }$ $\\mathbf { i s o } = 0 . 0 2$ ); (c) CDD of $\\mathrm { B a } _ { 2 } \\mathrm { F e } _ { 4 } \\mathrm { A s } _ { 4 }$ from Uniform E-field (QE, $\\mathrm { G G A ^ { + } U }$ i $\\mathbf { s } \\mathbf { o } = 0 . 0 2$ );(d)CDDof $\\mathrm { B a K A s } _ { 4 } \\mathrm { F e } _ { 4 }$ from $\\mathrm { L i ^ { + } }$ Insertion "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\mathrm { G G A } \\mathrm { + } \\mathrm { U } , \\mathrm { i } \\mathrm { s } _ { 0 } = 0 . 0 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For $\\mathrm { B a K A s } _ { 4 } \\mathrm { F e } _ { 4 }$ , apparent charge density rotation can also be observed when the position of an As atom is slightly changed or an uniform electric field is applied ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5 $( \\mathbf { Y } \\mathbf { B } \\mathbf { a } _ { 2 } \\mathbf { C } \\mathbf { u } _ { 3 } \\mathbf { O } _ { 7 } ) _ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To access an antiferromagnetic state, $\\mathrm { ( Y B a _ { 2 } C u _ { 3 } O _ { 7 } ) _ { 2 } }$ was used, no electron added or subtracted. When the $\\mathrm { G G A ^ { + } U }$ method is adopted, the $k$ -point is set to $8 { \\times } 8 { \\times } 4$ .When the HSE method is used, the $k$ -point is $4 { \\times } 4 { \\times } 2$ . Fig. 9 shows the DOS. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/63b1863c39cf577ab91d147dca30479404e1fa7b17f330e8d2c6d4149e3f8bf1.jpg",
+        "img_caption": [
+            "Fig. 9 DOS of $( \\mathrm { Y B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 } ) _ { 2 }$ from $\\mathrm { G G A ^ { + } U }$ (a) and HSE (b) method. Cu_d has been multiplied by 3 for clarity. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The spin density of the system was calculated. The effect of an electric field induced by a slight change in the position of one oxygen atom in the copper oxide plane was calculated. The original coordinate of the oxygen atom was (0.75, 0.25, 0.62245), and then changed to (0.8, 0.3, 0.62245). The position was changed in the (11O) direction by $0 . 3 9 \\textup { \\AA }$ . The method is $\\mathrm { G G A ^ { + } U }$ ,and the result was validated by HSE.The author also performed the calculation for the vertical change $( 0 . 2 3 \\mathrm { ~ \\AA ~ } )$ of the oxygen atom. Substituting Cu with $Z \\mathrm { n }$ was also calculated with the $\\mathrm { G G A ^ { + } U }$ （204号 method ( $3 d$ electrons of $Z \\mathrm { n }$ are regarded as valence electrons and set $\\mathrm { U _ { e f f } } = 6 . 5 \\mathrm { e V }$ )，and the position of oxygen atom was changed along (110). Fig.10 shows the crystal structure and results. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6e10a6bdb849fa48ae06a1bc9d06fb05362a61df794ca532d34259219bb114a.jpg",
+        "img_caption": [
+            "Fig.10 (a) Crystal structure; (b) Spin density map ( $\\mathrm { \\bf G } \\mathrm { \\bf G } \\mathrm { \\bf A } { + } \\mathrm { \\bf U }$ $\\mathrm { i s o } = 0 . 0 1$ ); (c) CDD form Slight Change( $\\mathrm { \\bf G } \\mathrm { \\bf G } \\mathrm { \\bf A } { + } \\mathrm { \\bf U }$ iso $\\begin{array} { r }  { \\bf \\Pi } = 0 . 0 0 4 \\ \\end{array}$ ); (d) CDD from Slight Change (HSE, isc $ \\tmspace \\Delta  = 0 . 0 0 4$ ); (e) CDD from Slight Change along z direction 0 $\\mathrm { G G A ^ { + } U }$ 1。 $\\mathrm { i } _ { \\mathbf { S } \\mathbf { 0 } } = 0 . 0 0 4$ ); (f) CDD of YBaZnO from Slight Change ( $\\mathrm { \\bf G } \\mathrm { \\bf G } \\mathrm { \\bf A } { + } \\mathrm { \\bf U }$ $+ \\mathrm { U } , \\mathrm { U } _ { \\mathrm { e f f } } = 6 . 5 \\mathrm { e V } , \\mathrm { i s } 0 = 0 . 0 0 4 )$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from the spin density map that the $\\mathrm { C u }$ ions in the copper-oxygen layer exhibit an antiferromagnetic state. The electron cloud of $\\mathrm { C u }$ ions shows an obvious rotation. It is worth noting that the isourface is about one order of magnitude smaller than that of Fe ions in iron-based superconductors. The electron cloud of $Z \\mathrm { n }$ did not rotate at all. Calculations with $\\mathrm { U } _ { \\mathrm { e f f } } = 0$ show that the electron cloud of Zn does not rotate too.Table 3 gives the LMM of the Cu atom. When the electric field is not applied, the results given by the $\\mathrm { G G A ^ { + } U }$ and the HSE method are very consistent.When there is an influence, the change of the LMMis very small. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffbae0951d3321126418426d026d338f8c1c20905508a8aaeaa5c23402d94779.jpg",
+        "table_caption": [
+            "Table3 LMMof the Cu atom in $( \\mathrm { Y } \\mathrm { B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 } ) _ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Method</td><td>Cu</td></tr><tr><td>GGA+U</td><td>No field</td><td>0.634</td></tr><tr><td rowspan=\"2\"></td><td>Slight Change xy</td><td>0.631</td></tr><tr><td>Slight Change z</td><td>0.641</td></tr><tr><td>HSE</td><td>No field</td><td>0.631</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The rotation is also observed in $\\mathrm { ( Y B a _ { 2 } C u _ { 3 } O _ { 7 } ) _ { 2 } }$ with O.3 or 2 electrons added.The author believes that, if the $3 d$ orbitals of $\\mathrm { C u }$ is not fully filled, the electron will rotate under electric fields. When the $3 d$ shell is filled, the rotation cannot be observed. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.6 $( \\mathbf { H } \\mathbf { g } \\mathbf { B } \\mathbf { a } _ { 2 } \\mathbf { C } \\mathbf { a } _ { 2 } \\mathbf { C } \\mathbf { u } _ { 3 } \\mathbf { O } _ { 8 } ) _ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To achieve an antiferromagnetic state, $\\mathrm { ( H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } ) _ { 2 } }$ was used. No electrons were added or subtracted. With the $\\mathrm { G G A ^ { + } U }$ method, the $k$ -point is set to $8 { \\times } 8 { \\times } 4$ 、With the HSE method, the $k$ -point is set to $4 { \\times } 4 { \\times } 2$ .Fig.11 shows the DOS.The $3 d$ orbital of $\\mathrm { C u \\ ( C u \\_ d ) }$ is of the middle copper-oxide layer. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9d8e295501d303b337c7fb1d7950f73d7341071286384694c313f120b07ec1e.jpg",
+        "img_caption": [
+            "Fig.11DOSof $\\mathrm { ( H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } ) _ { 2 } }$ from $\\mathrm { G G A ^ { + } U }$ (a)and HSE (b) method. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The effect of electric fields is calculated by slightly changing one oxygen atom in the middle copper-oxygen layer. The original position of the oxygen atom is (0.75, 0.25, 0.5） and then changed to (O.8, O.3, 0.5). The position was changed in the (11O) direction by $0 . 3 9 \\mathrm { ~ \\AA ~ }$ . The result was verified by the HSE method. Fig.12 shows the crystal structure, spin density map and CDDs with and without electric fields.The charge density of $\\mathrm { C u }$ ions exhibits clear rotations and the $\\mathrm { G G A ^ { + } U }$ method gives consistent result with the HSE method. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/888b816186a57547270a539fe8dda5a0e1b769f1317289295642b9c7568f0ce5.jpg",
+        "img_caption": [
+            "Fig.12 (a) Crystal structure; (b) Spin density map (HSE,iso $= 0 . 0 1$ ); (c) CDD from Slight Change ( $\\mathrm { \\ G G A { + } U }$ iso $\\ O =$ 0.003); (d) CDD from Slight Change (HSE,iso $= 0 . 0 0 3$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table 4 gives the LMM. Consistency between the HSE and $\\mathrm { G G A ^ { + } U }$ method can be seen and the effect of a Slight Change on the LMM is very small. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f5a932dec76de2db88b3614e12a8d7cf1e6bad1e129d58819e61cdada108434.jpg",
+        "table_caption": [
+            "Table 4LMMof the Cuatom in (HgBa2Ca2Cu3O8)2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Method</td><td>Cu</td></tr><tr><td>GGA+U</td><td>No field</td><td>0.603</td></tr><tr><td rowspan=\"3\">HSE</td><td>Slight Change</td><td>0.600</td></tr><tr><td>No field</td><td>0.618</td></tr><tr><td>Slight Change</td><td>0.619</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Calculations of $\\mathrm { ( H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 9 } ) _ { 2 } / ( H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 9 } + 2 e ) _ { 2 } }$ show that there are significant rotations of the electron cloud of copper atoms. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Further, a $4 \\times 1 \\times 1$ supercell of $\\mathrm { ( H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 } ) _ { 2 } }$ was calculated. The original coordinate of the oxygen atom to be changed is (0.1875, 0.25, 0.5),and then changed to (0.2, 0.3, 0.5). The CDD is displayed in Fig.13.There is a clear rotation on Cu atom. However, no rotation occurs far away from where the influence is applied. This is totally different from that of iron-based superconductors. For iron-based superconductors, rotation can be observed further away. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bd0d82ed307d1870651b212435d2625ab3ba741380d27ff9e23215e387feb82.jpg",
+        "img_caption": [
+            "Fig.13CDDof the $4 \\times 1 \\times 1$ supercell from Slight Change ( $\\mathrm { \\bf G } \\mathrm { \\bf G } \\mathrm { \\bf A } { + } \\mathrm { \\bf U }$ ，isc $ \\iota = 0 . 0 0 3$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.7 $( \\mathbf { T l _ { 2 } B a _ { 2 } C a C u _ { 2 } O _ { 8 } } ) _ { 4 }$ ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To access an antiferromagnetic state, the author adopted $( \\mathrm { T l _ { 2 } B a _ { 2 } C a C u _ { 2 } O _ { 8 } } ) _ { 4 }$ ，no electron added or subtracted. The $\\mathrm { G G A ^ { + } U }$ method is used,and the $k$ -point is set to $6 { \\times } 6 { \\times } 1$ .Fig.14 shows the DOS. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff5500b33097f1e8a8bf79576c8643e022884c7c17d8c7a4bffae8394d65fff7.jpg",
+        "img_caption": [
+            "Fig. 14 DOS of $\\mathrm { ( T l _ { 2 } B a _ { 2 } C a C u _ { 2 } O _ { 8 } ) _ { 4 } }$ from $\\mathrm { G G A ^ { + } U }$ method "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The position of the O atom was changed by 0.39 A, -0.39 A and $0 . 7 8 \\mathrm { ~ \\AA ~ }$ ,respectively, in the (110) direction. Fig.15 displays the CDDs. It can be clearly seen that the electron cloud of the ${ \\mathrm { C u } } ^ { 2 + }$ ion rotates with the change of the O atom's position. Slightly changing the position of oxygen atoms near Tl or Ba,the author did not observe the rotation of the electron cloud of Tl or Ba. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/59a9d21bd9d5890ab32fcfa404111ff6b9b7b78cf62573e3ef8e9473a6919ada.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fig.15 (a) Copper-oxygen layer; (b) CDD from Slight Change of $0 . 3 9 \\mathrm { \\AA }$ ; (c) CDD from Slight Change of $- 0 . 3 9 \\mathrm { \\AA }$ = ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.8 $\\mathbf { ( B i _ { 2 } S r _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 1 0 } ) _ { 4 } }$ ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "（204号 $\\mathrm { ( B i _ { 2 } S r _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 1 0 } ) _ { 4 } }$ was adopted, no electron added or subtracted. The $k$ -point is set to $5 \\times 5 \\times 1$ Fig. 16 shows the DOS. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b44a78ef30b3e5dd63c939802744039ffe22d00f95b8e9712ed689534515301.jpg",
+        "img_caption": [
+            "Fig.16DOSof $\\mathrm { ( B i _ { 2 } S r _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 1 0 } ) _ { \\it d } }$ from $\\mathrm { G G A ^ { + } U }$ method "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The system has three adjacent copper-oxygen layers, the position of one oxygen atom in the uppermost copper-oxygen layer is changed. The original coordinate is (0.75,0.25,0.586189), and then changed to (0.8, 0.3, 0.586189). The author also studied the case of increasing or decreasing the lattice constant. Fig.17 shows the results. There is also a significant rotation of the electron cloud of Cu ions when the lattice constant is increased or decreased. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b070e05a9fca306102cb737e745fca14cd0e82b5e69e89a73c226daeaf87158.jpg",
+        "img_caption": [
+            "Fig.17(a) CDDfromSlightChange( $\\mathrm { \\bf G } \\mathrm { \\bf G } \\mathrm { \\bf A } { + } \\mathrm { \\bf U }$ ,is $_ { \\mathrm { i } 0 } = 0 . 0 0 2$ ),(b)The lattice constant decreases by $2 . 5 \\%$ (c)The ",
+            "lattice constant increases by $2 . 5 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from the results of the above eight systems all the electron clouds of $\\mathrm { C u }$ ions or Fe ions have obvious changes under electric fields.The author believes this change should be called a rotation not an elastic deformation, because the CDD does not simply follow the direction of the electric field, but increases in some areas and decreases in others. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Is this rotation just of $3 d$ (or $4 f$ ） electron cloud? Considering the orthogonality of the atomic orbitals,the author thinks a change of the outer electron clouds will inevitably affect the inner electron clouds. So,the inner electron cloud will rotate too.However,the rotation of the inner electron cloud is difficult to observe because they have spherical symmetry. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Why do electron clouds rotate? We know that transition metal ions( $3 d$ or $4 f$ ）hav incompletely filled $3 d$ or $4 f$ orbitals. The electron cloud does not have perfect spherical symmetry ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It is like a polar molecule and will rotate under electric fields ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In addition to the above eight typical unconventional superconductors,other superconductors, such as metallic Nb, heavy fermion superconductor $\\mathrm { U P t } _ { 3 }$ ,rare earth superconductor $\\mathrm { S m R h } _ { 4 } \\mathrm { B } _ { 4 }$ et al.,have incompletely filled $3 d$ or $4 f$ shells.They are likely to rotate under an electric field and thus play an important role in superconducting electron pairing. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.Possible Superconducting Electron Pairing Mechanism, Views on some issues, and Research Prospect ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.1 Mechanism ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Mr. Anderson has raised the issue of whether a glue exists in high temperature superconductors.The author believes it does exist. Combined with the simple and intuitive model of electron-phonon interaction and the fact that transition-metal ions' electron clouds rotate under an electric field,the author proposes that the rotation of the transition metal electron cloud is the glue.When an electron comes to a new location, the electron cloud of the transition metal ions in the vicinity will rotate. In this way， the charge density around the electron will decrease (equivalent to the emergence of a positive charge). When the electron leaves, the electron cloud of the transition metal ions will not relax immediately (it is so crucial that that the author will discuss it later),so that there will be a region lack of charge (equivalent to a positive charge region) that will attract another electron. Attraction between electrons appears. This mechanism is essentially the same as the electron-phonon interaction, except that the medium is the rotation of the electron cloud, not the displacement of ions. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2 Author's views on some issues ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.1Relaxation time of the electron cloud rotation ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The most important point in the new pairing mechanism is the relaxation time of the electron cloud's rotation.If the relaxation time is smaler than that of the elastic deformation of the electron cloud, then it cannot be the glue.The author believes that this relaxation time will not be so small, because the inner electrons will also rotate due to the requirement of orthogonality of electron wavefunctions.This is the most important follow-up study. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.2Is the rotation of electron clouds of ions or ions? ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The author think ‘Rotation of ions' is better， because it is more simple and intuitive. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.3 The role of strong correlation ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "For the electron cloud rotation， iron-based superconductors are more obvious than copper-based superconductors, but the $T _ { \\mathrm { c } }$ of copper-based superconductors is higher than that of iron-based superconductors.In addition to different electronic structures,the author believes that the strong correlation plays an important role. Copper-based superconductors have stronger correlation effect than iron-based superconductors. The screening is strong in iron-based superconductors,which causes a lower $T _ { \\mathrm { c } }$ . For the relationship between strong correlation and high $T _ { \\mathrm { c } }$ ,the author believes strong correlation is a necessary but not sufficient condition for high （204号 $T _ { \\mathrm { c } }$ . In strongly correlated systems,electrons cannot be described by free electrons or weakly interacting quasi-particles,so that a strong atraction is possible.The screening in traditional superconductors is strong,on the one hand reducing the repulsion between electrons,but also lead to a weak attraction. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.2.4 Relationship between magnetism and unconventional superconductivity ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The author thinks that the rotation of the electron cloud of transition metal ions is the fundamental reason for the unconventional superconductivity. The rotation is because the atomic shells are not fuly filled and no spherical symmetry present. When there is an electric field, it will rotate. Magnetism is also because the shells are not fully filled. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3 Research prospect ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3.1 The research in this article is mainly concentrated on the existence of the electron cloud rotation. More detailed researches are needed. For example, the projected DOS and more analysis should be given.In addition,the study also need more accurate calculations,such as the use of the Quantum Monte Carlo method. Most results of this paper are qualitative.Further research requires quantitative analysis,such as quantification of the applied electric field and quantification of the electron cloud rotation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.3.2 The author believes that determination of the relaxation time of the electron cloud rotation is crucial.Theoretical and experimental studies of the electron cloud rotation and the relaxation time should be given. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.4.3 New theories and application. For example, theory of the interaction between electrons and the rotation of ions, possible long-range modes of the rotation in iron-based superconductors,and influence (or application) of rotation of transition metal ions in other fields. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The author studied eight typical unconventional superconductors.The electron cloud of transition metal ions is found to rotate under electric fields.Extensive calculations show that if there is an incompletely filled electronic orbital, the electron cloud will rotate. If the orbital is filled,the electron cloud will not rotate. The authors believe that the rotation of transition metal ion's electron cloud may be a new medium of superconducting electron pairing, just as lattice deformation is the conventional superconducting electron pairing medium. The author' views on this new possible pairing mechanism, strong correlation and superconductivity, magnetism and superconductivity, and follow up studies are given. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References   \n[1] Bednorz, J. G., Muller, K. A.: Possible high $T _ { C }$ superconductivity in the Ba-La-Cu-O system. Zeitschrift fur Physik B 64,189-193 (1986)   \n[2] Wu, M. K., Ashburn, J. R., Torng, C. J., Hor,P. H., Meng, R. L., Gao,L., Huang, Z. J., Wang, Y. Q., Chu, C. W.: Superconductivity at $9 3 \\mathrm { ~ K ~ }$ in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure. Physical Review Letters 58, 908-910 (1987)   \n[3] Zhao, Z. X., Chen, L. Q., Yang, Q. S., Huang, Y. Z., Chen, G. H., Tang, R. M.,Liu, G. R., Cui, C. G., Chen, L., Wang,L. Z., Guo, S. Q.,Li, S.L., Bi, J. Q.: Superconductivity above liquid-nitrogen temperature in Ba-Y-Cu oxides. Chinese Science Bulletin 6, 412-414 (1987)   \n[4] Maeda, H., Tanaka, Y., Fukutumi, M., Asano, T.: A New High- $T _ { \\mathrm { c } }$ Oxide Superconductor without a Rare Earth Element. Japanese Journal of Applied Physics 27, L209-L210 (1988)   \n[5] Sheng, Z. Z., Hermann, A. M.: Bulk superconductivity at $1 2 0 \\mathrm { K }$ in the Tl-Ca/Ba-Cu-O system. Nature 332,138-139 (1988)   \n[6] Sheng, Z. Z., Hermann, A. M., El Ali, A., Almasan, C., Estrada, J., Datta, T., Matson, R. J.: Superconductivity at $9 0 \\mathrm { K }$ in the Tl-Ba-Cu-O system. Physical Review Lettrs 60, 937-940 (1988) [7] Putilin, S. N., Antipov, E. V., Chmaissem, O., Marezio, M.: Superconductivity at $9 4 \\mathrm { K }$ in $\\mathrm { H g B a _ { 2 } C u O _ { 4 + \\delta } }$ .Nature 362,226-228 (1993)   \n[8] Schilling,A., Cantoni, M., Guo, J. D., Ott, H. R.: Superconductivity above $1 3 0 \\mathrm { K }$ in the   \nHg-Ba-Ca-Cu-O system. Nature 363, 56-58 (1993)   \n[9] Chu, C. W., Gao,L., Chen,F.,Huang, Z. J., Meng, R.L., Xue, Y. Y.: Superconductivity above 150 K in $\\mathrm { H g B a _ { 2 } C a _ { 2 } C u _ { 3 } O _ { 8 + \\delta } }$ at high pressures. Nature 365,323-325 (1993)   \n[10] Kamihara, Y.,Hiramatsu, H., Hirano, M., Kawamura, R., Yanagi, H., Kamiya, T., Hosono, H.: Iron-Based Layered Superconductor: LaOFeP. Journal of the American Chemical Society 128, 10012-10013 (2006)   \n[11] Kamihara, Y., Watanabe, T., Hirano, M., Hosono, H.: Iron-Based Layered Superconductor La[ $\\mathrm { O } _ { 1 - \\mathrm { x } } \\mathrm { F } _ { \\mathrm { x } } ]$ FeAs $\\begin{array} { r } { \\dot { \\boldsymbol { x } } = 0 . 0 5 \\ – 0 . 1 2 \\mathrm { , } } \\end{array}$ with $T _ { \\mathrm { c } } = 2 6 \\ : \\mathrm { K }$ . Journal of the American Chemical Society 130, 3296-3297 (2008).   \n[12] Ozawa, T. C., Kauzlarich, S. M.: Chemistry of layered $d$ metal pnictide oxides and their potential as candidates for new superconductors. Science and Technology of Advanced Materials 9, 033003 (2008)   \n[13] Ren, Z. A., Yang, J.,Lu, W., Yi, W., Che, G. C., Dong, X. L., Sun, L. L., Zhao, Z. X.:   \nSuperconductivity at $5 2 \\mathrm { K }$ in iron based F doped layered quaternary compound $\\mathrm { P r } [ \\mathrm { O } _ { 1 - \\mathrm { x } } \\mathrm { F } _ { \\mathrm { x } } ]$ JFeAs. Materials Research Innovations 12,105-106 (008) [14] Ren, Z. A., Che, G. C., Dong, X. L., Yang, J.,Lu, W., Yi, W., Shen, X. L.,Li, Z. C., Sun, L. L., Zhou, F., Zhao, Z. X.: Superconductivity and phase diagram in iron-based arsenic-oxides ReFeAsO1-δ （ $\\mathrm { R e } =$ rare-earth metal) without fluorine doping. Europhysics Letters 83,17002 (2008)   \n[15] Wang, Q.Y.,Li,Z., Zhang, W.H., Zhang,Z. C., Zhang,J. S.,Li,W.,Ding,H.,Ou, Y.B.,Deng, P., Chang, K., Wen,J.,Song, C.L.,He, K., Jia,J. F,. Ji,S.H, Wang, Y.Y., Wang,L.L., Chen, X.,Ma, X. C., Xue, Q. K.: Interface-Induced High-Temperature Superconductivity in Single Unit-Cell FeSe Films on SrTiO3. Chinese Physics Letters 29, 037402 (2012)   \n[16] Ge, J. F., Liu, Z. L., Liu, C. H., Gao, C. L., Qian, D., Xue, Q. K., Liu, Y., Jia, J. F.:   \nSuperconductivity above $1 0 0 \\mathrm { K }$ in single-layer FeSe films on doped SrTiO3. Nature Materials 14, 285-289 (2015)   \n[17] Anderson, P. W.: The resonating valence bond state in ${ \\mathrm { L a } } _ { 2 } { \\mathrm { C u O } } _ { 4 }$ and superconductivity. Science 235,1196-1198 (1987)   \n[18] Anderson, P. W.: Twenty years oftalking past each other: the theory ofhigh Tc. Physica C 460, 3-6 (2007)   \n[19] Monthoux, P., Balatsky, A., Pines, D.: Weak-coupling theory of high-temperature   \nsuperconductivity in the antiferromagnetically correlated copper oxides. Physical Review B 46, 14803-14817 (1992)   \n[20] Chakravarty,S., Sudbo, A., Anderson, P. W., Strong, S.: Interlayer Tunneling and Gap Anisotropy in High-Temperature Superconductors.Science 261,337-340 (1993).   \n[21] Anderson,P. W.: Is There Glue in Cuprate Superconductors? Science 22,1705-1707 (2007) [22] Frohlich, H.. Theory of the Superconducting State.I. The Ground State at the Absolute Zero of Temperature. Physical Review 79, 845-856(1950)   \n[23] Reynolds, C.A., Serin,B., Wright, W.H., Nesbit,L. B.: Superconductivity of Isotopes of Mercury. Physical Review 78, 487 (1950)   \n[24] Maxwel,E.: Isotope Effect in the Superconductivity of Mercury. Physical Review 78, 477 (1950) [25] Bardeen, J., Cooper, L. N., Schrieffer, J.R.: Microscopic Theory of Superconductivity. Physical Review 106,162-164 (1957)   \n[26] Bardeen, J., Cooper,L. N., Schriefer, J. R.: Theory of Superconductivity. Physical Review 108, 1175-1204 (1957)   \n[27] Xi,X.X.,Li, Q., Doughty,C., Kwon, C.,Bhattacharya,S.,Findikoglu,A.T., Venkatesan,T.: Electric field effect in high $T _ { \\mathrm { c } }$ superconducting ultrathin $\\mathrm { Y B a _ { 2 } C u _ { 3 } O _ { 7 - x } }$ films. Applied Physics Letters 59, 3470-3472 (1991) [28] Mannhart, J., Bednorz, J. G., Muler, K. A., Schlom, D.G., Strobel, J.: Electric field effect in high- $T _ { \\mathrm { c } }$ superconductors. Journal of Alloys and Compounds 195, 519-525 (1993)   \n[29] Orlova T. S., Kudymov, A. N., Smirnov,B. I., Miller, D. J.,Lanagan, M. T., Goretta, K. C.: Electric field effects on the conductivity of highly textured $\\mathrm { B i _ { 2 } S r _ { 2 } C a C u _ { 2 } O _ { y } }$ .Physica C 253,194-198 (1995)   \n[30] Kresse, G., Hafner, J.: Ab initio molecular dynamics for liquid metals. Physical Review B 47, 558-561 (1993)   \n[31] Kresse, G.,Furthmuller,J.: Efficient iterativeschemes forabinitio total-energycalculations using a plane-wave basis set. Physical Review B 54,11169-11186 (1996)   \n[32] Blochl, P.E.: Projector augmented-wave method. Physical Review B 50,17953-17979 (1994) [33] Kresse, G., Joubert, D.: From ultrasoft pseudopotentials to the projector augmented-wave method. Physical Review B 59,1758-1775 (1999)   \n[34] Perdew, J. P., Burke, K., Ernzerhof, M.: Generalized Gradient Approximation Made Simple. Physical Review Letters 77, 3865 (1996)   \n[35] Anisimov, V.1., Korotin, Dm. M., Streltsov, S. V.,Kozhevnikov,A. V., Kunes, J., Shorikov,A. O., Korotin, M. A.: Density-functional calculation of the Coulomb repulsion and correlation strength in superconducting LaFeAsO. JETP Letters 88, 729-733 (2008)   \n[36] Qian, M. C., Hu, W. Y., Zheng, Q. Q.: Electronic structure of $\\mathrm { P r B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 }$ and $\\mathrm { Y B a } _ { 2 } \\mathrm { C u } _ { 3 } \\mathrm { O } _ { 7 }$ ：A local spin density approximation with the on-site Coulomb interaction study. Journal of Applied Physics 85, 4765-4767 (1999)   \n[37] Blaha P., Schwarz, K., Novak, P.: Electric Field Gradients in Cuprates: Does LDA $+ \\mathrm { U }$ Give the Correct Charge Distribution? International Journal of Quantum Chemistry 101, 550-556 (2005) [38] Heyd, J., Scuseria, G.E., Ernzerhof, M.: Hybrid functionals based on a screened Coulomb potential. Journal of Chemical Physics 118, 8207-8215(2003)   \n[39] Giannozzi,P., Baroni,S.,Bonini,N., Calandra,M., Car,R., Cavazzoni, C., Ceresoli,D.,Chiaroti, G. L., Cococcioni, M., Dabo,1., Corso, A. D., de Gironcoli, S., Fabris, S.,Fratesi, G., Gebauer, R., Gerstmann, U., Gougousss, C., Kokalj, A., Lazzeri, M., Martin-Samos,L., Marzari, N., Mauri,F., Mazzarelo,R., Paolini, S., Pasquarello,A., Paulatto,L., Sbraccia, C., Scandolo, S., Sclauzero, G, Seitsonen, A. P., Smogunov, A., Umari, P., Wentzcovitch, R. M.: QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials. Journal of Physics: Condensed Matter 21,395502 (2009)   \n[40] Ricci,A.,Poccia,N.,Joseph, B.,Arrighetti, G., Barba,L.,Plaisier,J.,Campi, G., Mizuguchi, Y., Takeya, H., Takano, Y., Saini,Lal N., Bianconi, A.: Intrinsic phase separation in superconducting （204号 $\\mathbf { K } _ { 0 . 8 } \\mathrm { F e } _ { 1 . 6 } \\mathbf { S } \\mathbf { e } _ { 2 }$ 0 $T _ { \\mathrm { c } } = 3 1 . 8 \\mathrm { K }$ ） single crystals. Superconductor Science and Technology 24,082002(2011) [41] Guo, J. G., Jin, S.F., Wang, G.,Wang, S. C., Zhu, K. X., Zhou, T. T., He,M., Chen, X. L.: Superconductivity in the iron selenide ${ \\sf K } _ { x } { \\sf F e } _ { 2 } { \\sf S } { \\sf e } _ { 2 }$ 0 $\\mathrm { 0 } { \\leqslant } x { \\leqslant } 1 . 0 \\$ ).PhysicalReviewB 82,180520(R) (2010).   \n[42]Rotter,M., Tegel, M., Johrendt, D.: Superconductivity at $3 8 \\mathrm { K }$ in the Iron Arsenide $( \\mathrm { B a } _ { 1 - x } \\mathrm { K } _ { x } ) \\mathrm { F e } _ { 2 } \\mathrm { A s } _ { 2 }$ .Physical Review Letters 101,107006 (2008) ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

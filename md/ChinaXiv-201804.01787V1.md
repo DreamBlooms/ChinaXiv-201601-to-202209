@@ -1,0 +1,178 @@
+# 基于pH调控的环β-1,2-葡聚糖合成及结构鉴定
+
+曲娟娟　张洪涛\*\*周献超　贾雨辰　曹雪颖 詹晓北\*\*(江南大学生物工程学院 糖化学与生物技术教育部重点实验室 江苏 无锡214122)
+
+摘要目的：研究pH调控对发酵法生产环 $\beta$ -1,2-葡聚糖的影响，并对pH调控条件下的环葡聚糖的结构进行解析。方法：以根瘤菌ATCC1333为研究对象，进行pH调控与不调控的发酵过程分析，并结合乙醇分级沉淀对 $\mathfrak { p H }$ 调控后的发酵液中多糖进行分离提纯，经Superose12层析纯化，利用基质辅助激光解吸电离飞行时间质谱(MALDI-MS)、单糖组成分析、电喷雾串联质谱(ESI-MS)，傅里叶红外光谱(FTIR)，核磁共振(NMR)手段对葡聚糖进行结构鉴定。结果：提出两阶段 $\mathfrak { p H }$ 调控发酵策略，生长期 $\mathfrak { p H }$ 控制为7.0，产糖期 $\mathsf { p H }$ 控制为5.5，与自然发酵模式相比，环葡聚糖产量增加了 $52 \%$ ，细胞浓度增加了 $102 \%$ ，并且发酵颜色不再发生褐化现象，更有利于后续环葡聚糖的分离纯化。并确定 $\mathsf { p H }$ 调控对根瘤菌ATCC1333发酵生产的葡聚糖的结构并无影响，合成的环葡聚糖是以葡萄糖为单体，通过β-1,2糖苷键连接的环葡聚糖，聚合度从17-22，以19为主的环状葡聚糖，无支链结构。结论： $\mathsf { p H }$ 调控对于发酵生产环β-1,2-葡聚糖的结构无影响，为环 $\beta$ -1,2-葡聚糖的发酵工艺研究提供理论基础，也为研究 $\beta$ -1,2-葡聚糖提供可靠的糖源。
+
+关键词根瘤菌 ATCC1333pH调控环 $\beta$ -1,2-葡聚糖 MALDI-MS ESI-MS NMR中图分类号 Q815
+
+# Identification of cyclic β-1,2-glucan produced under pH control
+
+QU Juan-juanZHANG Hong-tao\*\* ZHOU Xian-chao JIA Yu-chen CAO Xue-ying ZHAN Xiao-bei\*\*   
+KeyLaboratoryofrbdateCstrydotelogfstryofucatiocholofotecologyganUsityi Jiangsu 214122,China)
+
+Abstract[Objective] To study the effects of pH on the production cyclic $\beta$ -1,2-glucan, and analyze the structure of cyclic glucans under pH control. [Methods] Rhizobium radiobacter ATCC 1333 was used to analyze the effect of pH on fermentation. The cyclic glucans were separated, purified and purified， then analyzed by matrix-assisted laser desorption/ionization time of flight mass spectrometry(MALDI-MS)， monosaccharide composition analysis， electrospray ionization mass spectrometry(ESI-MS), fourier transform infrared spectrometer(FTIR) and nuclear magnetic resonance spectroscopy(NMR). [Results] The two stage $\mathfrak { p H }$ strategy was developed in which pH was controlled at 7.0 for the cell growth and then shift to 5.5.The results showed that biomass was increased by $102 \%$ and the cyclic glucan concentration increased by $52 \%$ ， and the fermentation color was controlled at the background level. Also,the glucans from Rhizobium radiobacter ATCC 1333 were cyclic glucans consisting of glucose by $_ { \beta - 1 , 2 }$ linkages with a degree of polymerization ranging from 17-22, mainly 19. [Conclusion] The $\mathfrak { p H }$ controlled at 7.O has no effect on the structure of cyclic $\beta$ -1,2-glucans, and provides a theoretical basis for the fermentation optimization and reliable source of cyclic $\beta$ -1,2-glucans.
+
+Keywords Rhizobium radiobacter ATCC 1333 pH control Cyclic $\beta$ -1,2-glucan MALDI-MS ESI-MS NMR
+
+环β-1,2-葡聚糖是指由葡萄糖单体通过β-1,2糖苷键连接而成的一类环状多糖，聚合度为17-40[1]。环 $\beta$ -1,2-葡聚糖于1942年被首次报道[2]，已经先后发现布鲁氏菌、根瘤菌属和土壤杆菌属等均可以产环β-1,2-葡聚糖。环 $\beta$ -1,2-葡聚糖是布鲁士病的致病菌因子之一[3,4]：最新研究表明$\beta$ -1,2-葡聚糖与C 型凝集素受体 DC-SIGNR 和DC-SIGN 具有识别作用[5,6]，这表明 $\beta$ -1,2-葡聚糖在布鲁士菌侵入机体细胞以及其在细胞内逃脱人体自然免疫系统过程中有着关键的作用[7,8];除此之外，环β-1,2-葡聚糖介导细菌感染植物，促进植物根瘤形成[9,10]，也决定细菌低渗透环境的耐受能力[11-13]，显示了其在农业中的应用价值。尤其值得注意的是环 $\beta$ -1,2-葡聚糖的结构与作为药物包合材料的环糊精相似，但是环糊精溶解度仅为 $1 8 ~ \mathrm { g / L }$ ，而环β-1,2-葡聚糖溶解度高达 $2 5 0 ~ \mathrm { g / L }$ ，且环$\beta$ -1,2-葡聚糖形成的环形孔径比环糊精更大。因此，单位体积的 $\beta$ -1,2-葡聚糖可以包合更多的物质、携带更大的分子，使得环 $\beta$ -1,2-葡聚糖在食品以及大分子药物包合方面具有巨大的潜在应用价值[14-16]。
+
+虽然越来越多的研究显示了环β-1,2-葡聚糖巨大的潜在应用市场和价值，但是目前环β-1,2-葡聚糖尚不能规模化生产。因此，如何对发酵工艺进行优化，实现环 $\beta$ -1,2-葡聚糖的大量、廉价获得，是进一步推动 $\beta$ -1,2-葡聚糖市场化的基础与关键。通过综合分析目前已经报道的发酵法产环 $\beta$ -1,2-葡聚糖的研究后发现：甘露醇，谷氨酸是最为常用生产环葡聚糖的碳源以及氮源，Breedveld 等人[17]以RhizobiumtrifoliiTA-1为研究对象，发酵生产得到 $3 . 9 5 ~ \mathrm { g / L }$ 的细胞浓度，并且环葡聚糖产量高达 $1 0 . 9 ~ \mathrm { g / L }$ ，但是发酵时间高达 $1 0 \mathrm { d }$ ；Venkatachalam 等人[18]以 Rhizobium meliloti MTCC 3402为研究对象，通过优化发酵培养基成分，其中细胞浓度理论值最高 $2 . 6 \ \mathrm { g / L }$ ，总糖产量理论值最高${ 5 . 3 5 ~ \mathrm { g / L } }$ 。通过分析以上研究可以发现：目前所报道的实验室水平的发酵生产工艺，其细胞浓度均较低，如何提高细胞浓度成为提高环 $\beta$ -1,2-葡聚糖产量的关键。
+
+目前已有研究发现在微生物多糖发酵法生产过程中，发酵条件或者培养基成份的改变均会造成微生物所产多糖结构的改变。对pH而言，其不仅可以影响多糖的产量[19]，而且 $\mathsf { p H }$ 的改变会造成合成多糖的结构[20]和分子量发生变化[21]，那么基于pH调控的 Rhizobiumradiobacter ATCC1333发酵工艺是否会对其多糖产物结构产生影响呢？
+
+针对以上问题，以目前报道的野生型菌株中产环 $\beta$ -1,2-葡聚糖最高的菌株，根瘤菌NBRC13259(Rhizobium radiobacter ATCC1333)[22]为研究对象，探索发酵工艺时发现，由于发酵过程是以谷氨酸为氮源的，随着谷氨酸根的消耗，发酵液的 $\mathfrak { p H }$ 逐渐上升。本论文在7L罐水平，研究pH调控对细胞代谢的影响，同时开展了pH控制策略下的多糖产物纯化和结构鉴定，为后期进一步基于pH 调控策略的根瘤菌ATCC1333发酵法生产环 $\beta$ -1,2-葡聚糖的强化合成奠定基础。
+
+# 1．材料与方法
+
+# 1.1材料
+
+1.1.1 菌株根瘤菌 ATCC 1333（Rhizobium radiobacter ATCC1333 又名NBRC13259、KCTC 2780或 IFO13259)，购自日本技术评价研究所生物资源中心(NBRC)。
+
+1.1.2 实验试剂酵母膏，胰蛋白陈，琼脂粉，甘露醇，谷氨酸等试剂均购自国药集团化学试剂有限公司，分析纯。
+
+1.1.3 培养基斜面培养基 $\mathbf { \tau } ( \mathbf { g } / \mathrm { L } )$ ：蛋白脉10，酵母膏 2， $\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 1 . 0 }$ ，琼脂粉15，调pH  
+7.0-7.2， $1 \times 1 0 ^ { 5 } \mathrm { P a }$ 灭菌 $2 0 ~ \mathrm { { m i n } }$ 。
+
+种子培养基 $( \mathbf { g } / \mathrm { L } )$ ：蛋白陈10，酵母膏 2， $\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O \ 1 . 0 }$ ，调 $\mathrm { p H } 7 . 0 { - } 7 . 2$ ， $1 \times 1 0 ^ { 5 }$ Pa灭菌$2 0 ~ \mathrm { { m i n } }$ 。
+
+发酵培养基 $( \mathbf { g } / \mathrm { L } )$ [18]（摇瓶)：甘露醇10，谷氨酸5.0，NaC10.2， $\mathrm { K _ { 2 } H P O _ { 4 } } 1 . 0$ ， $\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ 0.2，微量元素 $\mathrm { ( C a C l _ { 2 } } { \cdot } 2 \mathrm { H _ { 2 } O } \ 0 . 0 4$ ，FeCl3:6H2O 0.0025, $\mathrm { M n C l } _ { 2 }$ ·4H2O 0.001, $\mathrm { N a _ { 2 } M o O _ { 4 } { \cdot } 2 H _ { 2 } O \ 0 . 0 0 0 0 1 }$ ，ZnSO4:7H2O 0.00001, $\mathrm { C u S O _ { 4 } }$ ·5H2O 0.00001, $\mathrm { H _ { 3 } B O _ { 3 } } 0 . 0 0 0 0 1$ ， $\mathrm { C o C l _ { 2 } { \cdot } 6 H _ { 2 } O \ 0 . 0 0 0 0 1 }$ ，生物素0.00001，硫胺素0.0001)，调 $\mathfrak { p H } 7 . 0$ ， $1 \times 1 0 ^ { 5 } \mathrm { P a }$ 灭菌 $2 0 ~ \mathrm { m i n }$ 。
+
+发酵培养基 $( \mathbf { g } / \mathrm { L } )$ [19](7L反应器)：甘露醇 50,谷氨酸 $1 0 , \mathrm { N a C l } 0 . 2 , \mathrm { K _ { 2 } H P O _ { 4 } } 1 . 0 , \mathrm { M g S O _ { 4 } } \cdot \mathrm { 7 H _ { 2 } O }$
+
+0.2，微量元素 $\mathrm { ( C a C l _ { 2 } \cdot _ { 2 } H 2 O \ 0 . 0 ^ { \it 4 } }$ 4， $\mathrm { F e C l } _ { 3 }$ 业 $6 \mathrm { H } _ { 2 } \mathrm { O }$ 0.0025， $\mathrm { M n C l } _ { 2 } { \cdot } 4 \mathrm { H } _ { 2 } \mathrm { O }$ 0.001，Na2MoO4:2H2O 0.00001,ZnSO4:7H2O 0.00001, $\mathrm { C u S O _ { 4 } }$ $5 \mathrm { H } _ { 2 } \mathrm { O }$ 0.00001, $\mathrm { H _ { 3 } B O _ { 3 } } ~ 0 . 0 0 0 0 1 , \mathrm { C o C l _ { 2 } \cdot 6 H _ { 2 } O } ~ 0 . 0 0 0 0 1$ ，生物素0.00001，硫胺素 0.0001)，调 $\mathrm { p H } 7 . 0 { - } 7 . 2$ ， $1 \times 1 0 ^ { 5 } \mathrm { P a }$ 灭菌 $2 0 ~ \mathrm { m i n }$ 。
+
+# 1.2方法
+
+1.2.1种子培养斜面活化培养：将出发菌株粉末溶于无菌水中，使用接种针将出发菌株移接到新鲜的斜面培养基，于恒温培养箱 $3 0 ~ ^ { \circ } \mathrm { C }$ ，倒置培养 $4 8 { - } 7 2 \mathrm { ~ h ~ }$ ，后置于 $4 ^ { \circ } \mathrm { C }$ 保存。
+
+保存的斜面上挑取一环菌，转接至装有 $5 0 ~ \mathrm { m L }$ 种子培养基的 $5 0 0 ~ \mathrm { m L }$ 三角瓶中， $3 0 ~ ^ { \circ } \mathrm { C }$ ，200$\mathbf { r } / \mathrm { m i n }$ 摇床培养 $1 8 \mathrm { - } 2 0 \mathrm { h }$ 得到一级种子液；将一级种子培养液以 $5 \%$ 的接种量接入装有 $5 0 ~ \mathrm { m L }$ 种子培养基的 $5 0 0 ~ \mathrm { m L }$ 三角瓶中，同种方式培养获得二级种子液。  
+1.2.2 摇瓶发酵按 $5 \% \mathrm { ( v / v ) }$ 的接种量将二级种子液接种于装有 $9 5 ~ \mathrm { m L }$ 发酵培养基的 $5 0 0 ~ \mathrm { m L }$ 三角瓶中， $3 3 ^ { \circ } \mathrm { C }$ ， $2 0 0 ~ \mathrm { r / m i n }$ 摇床培养6d。  
+1.2.3 初始 $\mathfrak { p H }$ 单因素优化控制发酵培养基初始 $\mathsf { p H }$ 设定为6.5、7.0、7.5、8.0，其他成分参照1.1.3，每组重复三次。  
+1.2.4环β1,2-葡聚糖测定方法蒽酮硫酸法测定总糖含量[23]。  
+1.2.5发酵液颜色的测定采用比色法对发酵液颜色进行测定，使用紫外分光光度计（日立U-3900，日本日立株式会社)，通过对发酵时间的发酵液（发生褐化）进行全波长扫描，用初始发酵液进行适当稀释，确定表征发酵液中的颜色褐化的最适吸光值。  
+1.2.6 样品粗提取发酵液于 $_ { 1 0 , 0 0 0 \mathrm { ~ g ~ } }$ 离心 $1 0 ~ \mathrm { m i n }$ ，收集上清液，加3倍体积的无水乙醇， $4 ^ { \circ } \mathrm { C }$ 冰箱过夜沉淀， $_ { 1 0 , 0 0 0 \mathrm { ~ g ~ } }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，收集上清液，减压浓缩至原体积的1/10；再加3倍体积的无水乙醇， $4 ^ { \circ } \mathrm { C }$ 冰箱过夜沉淀， $_ { 1 0 , 0 0 0 \mathrm { ~ g ~ } }$ 离心 $1 0 ~ \mathrm { { m i n } }$ ，收集上清液，减压浓缩至原体积的1/20；最后加10倍体积的无水乙醇， $4 ^ { \circ } \mathrm { C }$ 冰箱过夜形成白色沉淀， $_ { 1 0 , 0 0 0 \mathrm { ~ g ~ } }$ 离心 $1 0 ~ \mathrm { m i n }$ 收集沉淀，氮吹仪吹干酒精后复溶于微量水溶液，并冷冻干燥得到粗多糖备用，每一步均用薄层层析法(TLC)进行多糖验证。取粗多糖制备成适宜浓度，上样于Superose12层析柱 $( 1 . 0 { \times } 3 0 ~ \mathrm { c m } )$ ，以 $_ \mathrm { H _ { 2 } O }$ 为流动相，流速为 $0 . 5 ~ \mathrm { m L / m i n }$ ，示差检测器，收集对应的峰并进行TLC 多糖验证，收集具有糖显色的目标峰进行冷冻干燥，备用。  
+1.2.7单糖组成分析精确称取目标样品 $\phantom { - } 0 . 0 0 5 0 \ \mathrm { g }$ ，加入 $3 0 0 ~ { \mathrm { m L } } 2 ~ { \mathrm { m o l / L } }$ 的三氟乙酸（ $\mathrm { C F } _ { 3 } \mathrm { C O O H } )$ ，$1 0 0 ^ { \circ } \mathrm { C }$ 恒温酸解 $1 2 \mathrm { ~ h ~ }$ ，水解产物加入甲醇，用氮吹仪吹干，反复操作三次(用于除去 $\mathrm { C F } _ { 3 } \mathrm { C O O H } )$ ，然后将水解产物用超纯水溶解后，吸出，定容至 $2 5 ~ \mathrm { m L }$ ，然后ICS-5000离子色谱仪（脉冲安培检测器，美国，戴安）进行色谱分析。  
+1.2.8基质辅助激光解吸电离飞行时间质谱基质辅助激光解吸电离飞行时间质谱(Matrix-Assisted Laser Desorption/ Ionization Time of Flight Mass Spectrometry，简称 MALDI-MS)测定中所用仪器为 Micromass TOF Space 2E 质谱仪(Waters，Manchester，UK)。配置目标样品水溶液约为 $0 . 1 ~ \mathrm { m g / m L }$ ，吸取样液 $1 . 0 ~ \mu \mathrm { L }$ 加到样品板上，室温下晾干，等样品板上的液体全部挥发后，再加入 $1 . 0 ~ \mu \mathrm { L }$ 基质DHB，室温下晾干，样品与基质混合结晶后进行测量。  
+1.2.9 电喷雾串联质谱称取目标样品 $0 . 0 0 5 0 ~ \mathrm { g }$ ， $1 0 \mathrm { m M } \mathrm { H C l } 1 0 0 ^ { \circ } \mathrm { C }$ 恒温酸解 $6 \mathrm { n }$ ，使其得到6-8个聚合度的低聚糖，待测定用[24]。电喷雾质谱（Electrospray Ionization Mass Spectrometry，简写为 ESI-MS）进行样品的结构序列分析，本论文所用仪器为 Micromass Q-Tof 质谱仪（Waters,Manchester，UK)，去溶剂化和雾化气体选用氮气，流速分别为 $2 5 0 \mathrm { L / h }$ 和 $1 5 \mathrm { L / h }$ 。离子源温度为（204号 $8 0 ~ ^ { \circ } \mathrm { C }$ ，去溶剂温度为 $1 5 0 ^ { \circ } \mathrm { C }$ 。电喷雾源毛细血管电压为 $3 \mathrm { k V }$ ，样品溶解在 $50 \%$ 甲醇的水溶液(V/V)中，进样体积 $0 . 5 \mathrm { - } 5 . 0 ~ \mu \mathrm { L }$ ，流动相为乙腈： $1 ~ \mathrm { m M }$ 碳酸氢铵 $^ { = 1 }$ ：1(V/V)。二级离子碎片由CID 获得，碰撞气体为氩气，压力为1.7bar，碰撞能量电压范围为 $2 3 { - } 4 3 \mathrm { ~ V ~ }$ ，扫描速度为 $1 . 5 ~ \mathrm { s } / \$ 次。根据样品解离性质不同对电喷雾源毛细管电压进行相应的调整。  
+1.2.10 红外光谱傅里叶红外光谱(Fourier Transform Infrared Spectroscopy，简写为FTIR)是测定物
+
+质的官能团结构的质谱手段。取样品些许，与KBr晶体(1：500)混合，研磨充分后，制片，经傅里叶红外光谱仪（Nexus 470，美国 Nicolet 公司）对测定样品进行红外波长扫描，扫描波长范围为 $4 0 0 { \cdot } 4 0 0 0 ~ \mathrm { c m } ^ { - 1 }$ ，得到样品的红外吸收谱图。
+
+1.2.11核磁共振核磁共振(Nuclear Magnetic Resonance，简称为 NMR)是根据特征原子的不同类型的化学位移值阐明分子的结构的。本论文样品在Varian $4 0 0 ~ \mathrm { M R }$ 核磁共振波谱仪(瓦里安，美国)上进行NMR 实验。将冻干样品 $( 5 ~ \mathrm { m g } )$ 溶解在 $0 . 5 ~ \mathrm { m L }$ HOD中并转移到 $5 \mathrm { m m }$ NMR 管中用于NMR分析，进行 $^ 1 \mathrm { H }$ -NMR， $^ { 1 3 } \mathrm { C }$ -NMR 测定。
+
+# 2．结果与分析
+
+# 2.1 初始 $\mathsf { p H }$ 对于发酵的影响
+
+考虑初始pH对发酵生产环葡聚糖的影响，如图1，初始 $\mathrm { p H } 7 . 0$ 对于细胞浓度以及发酵产物环葡聚糖的生成更有利。而在发酵过程中，由于氮源为谷氨酸，在谷氨酸根离子被消耗后，pH上升，发酵结束的时候，pH均上升至8.5-9.0 左右，所以考虑pH对于环葡聚糖的发酵影响，需要进一步研究整个发酵过程中的pH的变化。
+
+![](images/d1639f9e382c1e6796c8eb0df93022f1bec01b6fb70d45429e9deabbd1790530.jpg)  
+图1不同初始 $\mathbf { \ p H }$ 对于发酵影响Fig.1 The effects of initial pH on fermentation process
+
+# 2.2 发酵液颜色的吸光值确定
+
+在对根瘤菌NBRC13259进行发酵优化时首次发现：发酵液的颜色随着发酵时间的延长产生严重的褐化。为确定发酵液中"褐化物质"的吸收波长，以便于进行对发酵液颜色褐化水平的评估，对不同发酵时间的发酵液进行全波长扫描，结果图2所示。检测结果显示：不同发酵时间的发酵液，其最大吸收均位于为 $2 3 0 \ \mathrm { n m }$ 附近，因此， $O D _ { 2 3 0 }$ 用于对发酵液中色素浓度进行测定的吸收波长。
+
+![](images/e3cc9d74e69ca2b2fd542239b5116728b9d5838be8cd518260da3fd0c7e54824.jpg)  
+  
+图2对不同发酵时间的发酵液的全波长扫描 Fig.2The full-wavelength scanning of the colorof the fermentation broth at diferent fermentation time 2.3环 $\beta$ -葡聚糖的发酵过程分析
+
+在 $^ { 7 \mathrm { L } }$ 罐上对根瘤菌发酵法生产环 $\beta$ -葡聚糖的发酵过程进行分析，如图3，环葡聚糖发酵的菌体生长与环葡聚糖合成是非偶联的，发酵前 $2 4 \mathrm { ~ h ~ }$ ，菌体处于生长期，由于氮源在发酵培养基中的存在形式为谷氨酸钠，随着谷氨酸根离子被消耗，发酵液中 $\mathfrak { p H }$ 逐渐增大到8.78，发酵液颜色逐渐加深， $O D _ { 2 3 0 }$ 达到13.58，对后续的发酵液中环葡聚糖提纯带来困难，发酵颜色越深，乙醇分级沉淀次数相应增加；在 $2 4 \mathrm { ~ h ~ }$ 后，发酵进入合成环葡聚糖阶段，pH并未下降，反而稳步上升至9.50,发酵液颜色表征值 $O D _ { 2 3 0 }$ 缓慢增加15.54；至 $^ { 1 4 4 \mathrm { ~ h ~ } }$ ，甘露醇消耗殆尽，环葡聚糖产量趋向稳定，发酵结束。在不控制pH的发酵状态下，细胞浓度达到 $3 . 1 5 ~ \mathrm { g / L }$ ，环葡聚糖的产量达到 $1 . 8 2 ~ \mathrm { g / L }$ ，菌体的生产强度为 $0 . 5 7 ~ \mathrm { g / g }$ 。
+
+![](images/f56b3f9c675e6b99771499ed29a3ae067a296d9b2a2a5e25617ea3f421051bc2.jpg)  
+图3环葡聚糖发酵过程图Fig.3The batch profile of cyclic glucans
+
+# 2.4 $\mathfrak { p H }$ 控制对环葡聚糖发酵过程的影响
+
+对初始 $\mathfrak { p H }$ 进行单因素优化，发现 $\mathfrak { p H } 7 . 0$ 是最适的初始 $\mathfrak { p H }$ ，文献也报道 $\mathrm { p H } 7 . 0$ 为菌体生长最适 $\mathfrak { p H }$ ，故控制 $\mathfrak { p H } 7 . 0$ 进行环葡聚糖的发酵法生产，如图4，碳源、氮源的消耗情况与 $\mathfrak { p H }$ 不调控时相差不大，但是发酵液颜色的表征 $O D _ { 2 3 0 }$ 却基本维持在本底水平；并且细胞浓度增加至6.27$\mathbf { g } / \mathrm { L }$ ，环葡聚糖产量达到 $2 . 4 0 ~ \mathrm { g / L }$ ，菌体的生产强度为 $\underline { { 0 . 3 8 ~ \mathrm { g / g } } }$ ，相比于自然状态下的发酵，细胞浓度增加了 $9 9 \%$ ，环葡聚糖浓度增加了 $32 \%$ ，但是菌体的生产强度降低了 $33 \%$ 。
+
+![](images/a8b4108870b7b849a84ff515250e528f140fbf2ec3d5caba6bcdf4d4cc62af41.jpg)  
+图4pH控制条件下环葡聚糖发酵过程图  
+Fig.4The batch profile of cell growth and cyclic glucan production under pH control
+
+在发酵过程中将pH控制在7.0有利于细胞浓度的增加和环葡聚糖的生成，但是在发酵过程中，产物的合成与细胞生长的最适pH往往是不同的，如热凝胶、 $\beta$ -1,3-葡聚糖内切酶等产物均采用pH两阶段发酵法进行发酵工艺优化，于是进一步对pH控制进行分阶段控制，根据发酵过程曲线，将发酵开始至 $2 4 \mathrm { h }$ 记为生长期；发酵 $2 4 \mathrm { h }$ 后记为产糖期。设计pH控制模式均为生长期pH控制7.0，而产糖期pH分别控制6.0、5.5、5.0。结果如表1，生长期控制 $\mathrm { p H } 7 . 0$ 对菌体浓度的影响较不明显，而产糖期pH的控制对多糖的生成有较大影响，pH为5.5时，环葡聚糖的生成量最大为 $2 . 7 9 \ \mathrm { g / L }$ ，相较于恒定 $\mathrm { p H } 7 . 0$ 模式提高了 $1 6 . 3 \%$ ，而相比自然发酵模式提高了 $5 3 . 3 \%$ ，菌体的生产强度较恒定pH模式提高了 $1 5 . 6 \%$ ，表明生长期pH控制7.0，产糖期pH控制为5.5的两阶段pH控制法有利于环葡聚糖的合成。
+
+表1控制不同 $\mathbf { p H }$ 条件对发酵产环葡聚糖的影响Table 1 Effect of different pH controlled on batch fermentation of cyclic glucan  
+
+<html><body><table><tr><td>pH</td><td>Maximal biomass</td><td>Final glucans production</td><td>Yp/x</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>Cell growth stage</td><td>Production stage</td><td>(g/L)</td><td>/(g/L)</td><td>(g/g)</td></tr><tr><td rowspan="4">7.0</td><td>uncontrol</td><td>6.24</td><td>2.24</td><td>0.358</td></tr><tr><td>6.0</td><td>6.32</td><td>2.51</td><td>0.397</td></tr><tr><td>5.5</td><td>6.36</td><td>2.79</td><td>0.439</td></tr><tr><td>5.0</td><td>6.19</td><td>2.6</td><td>0.420</td></tr></table></body></html>
+
+但是由于在环葡聚糖的发酵生产中，不同的菌株，不同的培养基以及不同的培养条件对环葡聚糖的聚合度以及有无支链情况息息相关，然后对pH进行调控后的环葡聚糖进行提纯，并对其结构进行表征，为后续基于pH调控的基础上继续研究发酵生产环葡聚糖的发酵工艺提供理论指导。
+
+# 2.5pH控制下产物多糖的单糖组成、分子量分布与连接键型分析
+
+对pH调控后的发酵液进行分离提纯，并经Superose 12 层析分离所得的目标糖进行酸解，并对其进行单糖组成分析如图5。经标准糖比对分析，初步证明发酵液中分离得到的产物主要是由葡萄糖单体组成的聚合物，即为目标葡聚糖。
+
+![](images/c84a4219956591e1315c12c75e3bf67bcd985d88628b277c8e1448dba3789230.jpg)  
+图5单糖组成分析
+
+Fig.5The Monosaccharide compositions analysis   
+注：(a)是目标糖，(b)是标准糖，1-9分别为氨基葡萄糖，鼠李糖，阿拉伯糖，氨基半乳糖，半乳糖，葡萄糖，木 糖，甘露糖，果糖和核糖   
+Note: (a)is the target glucans. (b)is the standards (from1to 9: glucosamine,rhamnose,arabinose,galactosamine, galactose, glucose, xylose, mannose and fructose)
+
+利用 MALDI-MS表征手段对分离所得的葡聚糖的分子量进行检测，结果如图6，结合单糖组成分析的结果，线性葡聚糖的质荷比 $m / z { = } 1 6 2 { \times } \mathrm { n } { + } 1 8 { + } 2 3 ( \mathrm { M r } _ { \mathrm { N a } } ) { - } 1 ( \mathrm { M r } _ { \mathrm { H } } )$ (n 表示聚合度)；环形葡聚糖的质荷比 $m / z { = } 1 6 2 { \times } \mathrm { n } { + } 2 3 ( \mathrm { M r } _ { \mathrm { N a } } ) { - } 1 ( \mathrm { M r } _ { \mathrm { H } } )$ (n 表示聚合度)。对目标葡聚糖进行MALDI-MS 图谱分析，目标核质比数据 $m / z \ 2 7 7 7 . 8$ ， $m / z \ 2 9 3 9 . 9 \$ ， $m / z \ 3 1 0 1 . 9$ ， $m / z \ 3 2 6 4 . 0$ ， $m / z \ 3 4 2 6 . 0$ ， $m / z \ 3 5 8 9 . 1$ ，结果显示目标葡聚糖含有17-22 个聚合度的环状多糖(表 2)。
+
+![](images/f7cde70b32c8d50d074cc378ac4bba67fa40528265a587c4f4117bbc5b7ca79b.jpg)  
+图6目标葡聚糖的MALDI-MS质谱鉴定Fig.6The MALDI-MS identification of the glucans
+
+表2发酵液的MALDI-MS的质荷数据分析Table2AnalysisofMALDI-MSdataof the fermentationbroth  
+
+<html><body><table><tr><td>Obse[Md Nas m1/z</td><td>Theor. Mass</td><td>Assignment</td></tr><tr><td>2777.8</td><td>2754</td><td>CβG17</td></tr><tr><td>2939.9</td><td>2916</td><td>CβG18</td></tr><tr><td>3101.9</td><td>3078</td><td>CβG19</td></tr><tr><td>3264.0</td><td>3240</td><td>CβG20</td></tr><tr><td>3426.0</td><td>3402</td><td>CβG21</td></tr><tr><td>3589.1</td><td>3564</td><td>CβG22</td></tr></table></body></html>
+
+由于同类键型连接的寡糖的 ESI-CID-MS/MS 的碎片峰特征具有一致性，所以将目标糖进行酸解得到低聚合度的葡聚糖，以5个聚合度的葡聚糖进行MS/MS操作，其碎片峰图谱如图 $7 , { ^ { 0 . 4 } \mathrm { A } }$ B，C型离子峰均出现，并且每相邻峰之间具有相同的差值规律18，102，42，比对Palma 等人[821的糖苷键指纹图谱，可以得到目标葡聚糖是1,2-糖苷键链接而成的。
+
+![](images/6aae3333fb6c8e2bf4099f7d760e847072e7ff76de6436abbaa10cc1176b08c9.jpg)  
+图7 ESI-CID-MS/MS分析  
+Fig.7 ESI-CID-MS/MS analysis of hydrolyzed target glucan:
+
+对于发酵液中提取的环-1,2-葡聚糖进一步用傅里叶红外光谱来鉴定其立体构型[25,26]，结果如图8所示。 $3 2 0 0 { - } 3 6 0 0 { \mathrm { c m } } ^ { - 1 }$ 吸收峰代表了糖类化合物的O-H伸缩振动峰，为多糖的特征吸收峰；$2 9 1 5 { - } 2 9 4 0 ~ \mathrm { c m ^ { - 1 } }$ 处为-CH的伸缩振动峰； $1 3 0 0 { - } 1 0 0 0 ~ \mathrm { c m ^ { - 1 } }$ 处为有强吸收峰，代表了糖环C-O-C的特征骨架振动吸收峰[23]； $8 9 0 ~ \mathrm { { c m } ^ { - 1 } }$ 处为 $\beta$ 构型的特征吸收峰，这证明了发酵液中纯化的多糖是β型葡聚糖。
+
+![](images/990882a80efa8c8b41894b1e56cf47085334fedcbc314cec6fb40cdd795b6bdf.jpg)  
+图8葡聚糖的FTIR分析Fig.8The FTIR spectra of the glucans
+
+# 2.6 环葡聚糖的NMR谱图分析及结构示意图
+
+进一步采用核磁共振谱图鉴定糖类物质或糖苷的结构。 $ { \mathbf { a } }$ 或β构型主要依据异头质子化学位移和异头质子与邻位质子的耦合常数[27]。糖环异头质子H-1的化学位移通常在 $4 . 5 \mathrm { - } 5 . 5 ~ \mathrm { p p m }$ 之间，其中 ${ \mathfrak { a } } .$ -型吡喃糖H-1的化学位移大于 ${ 5 . 0 } \mathrm { p p m }$ ， $\beta$ -型吡喃糖H-1的化学位移小于 $5 . 0 \ \mathrm { p p m }$ 。图9中4.780 是HOD 的化学位移峰，异头质子H-1化学位移小于 $5 . 0 \ \mathrm { p p m }$ ，说明该纯化物中只含有 $\beta$ 型糖苷。目标葡聚糖中 $1 0 4 . 3 0 \ \mathrm { p p m }$ 对应的是非还原性C-1末端， $8 3 ~ \mathrm { p p m }$ 附近的化学位移表示 $\beta$ -1,2-糖苷键的C-2的吸收峰，说明样品不存在非还原性的残基，即样品为环状结构。H和C的化学位移符合 Kawaharada、Roset 等人[7,28·29]对于中性环葡聚糖的核磁共振谱图。另外，C-1，C-2，C-3,C-4 的化学位移有多个数值，表明样品不是单一分子量的组分。
+
+结合单糖组成分析、MALDI-MS、ESI-CID-MS/MS、FTIR和NMR表征手段，对根瘤菌NBRC13259发酵法生产的葡聚糖结构进行解析，得到该葡聚糖是由葡萄糖组成的， $\beta$ -1,2-糖苷键连接，聚合度为17-22，主要是19的环状多糖，即为环β-1,2-葡聚糖(如图9C)，并且表明 $\mathfrak { p H }$ 调控对于环 $\beta$ -1,2-葡聚糖的聚合度范围以及有无支链并无直接影响。
+
+![](images/98a3acb97684a3dae1308e499a824baa3a4e4c91dc4549140207a010015b2266.jpg)  
+图9环葡聚糖的核磁共振分析及结构示意图((a): ${ } ^ { 1 } \mathbf { H }$ -NMR，(b): $^ { 1 3 } \mathbf { C }$ -NMR，(c):环β-1,2-葡聚糖结构图) Fig.9NMR spectroscopy of glucans from Rhizobium radiobacter NBRC13259 (a): ${ } ^ { 1 } \mathbf { H }$ -NMR, (b): ${ } ^ { 1 3 } \mathbf { C }$ -NMR, (c): The structure of cyclic $\mathfrak { \textbf { \beta } }$ -1,2-glucans)
+
+# 3．讨论
+
+对于发酵法生产环葡聚糖而言，不同的菌株生产的环葡聚糖的聚合度以及取代基不尽相同[30]，而结构决定功能，因此在对发酵工艺进行初始 $\mathfrak { p H }$ 优化时，发现初始 $\mathrm { p H } 7 . 0$ 是发酵产环葡聚糖的最适初始 $\mathfrak { p H }$ ；而在 $^ { 7 \mathrm { L } }$ 罐水平通过对根瘤菌NBRC13259发酵法生产环状 $\beta$ -1,2-葡聚糖的过程进行 $\mathfrak { p H }$ 监控，发现自然发酵状态下， $\mathsf { p H }$ 逐渐上升至9.50；而相比自然发酵模式，发酵全程控制$\mathrm { p H } 7 . 0$ 后的细胞浓度增加了 $9 9 \%$ ，环葡聚糖浓度增加了 $32 \%$ ，但是菌体的生产强度降低了 $3 3 \%$ ，并且发酵颜色控制在本底水平，更有利于后续环葡聚糖的分离纯化。并进一步对 $\mathsf { p H }$ 两阶段优化策略进行初探，发现生长期 $\mathfrak { p H }$ 恒定7.0，产糖期 $\mathfrak { p H }$ 恒定5.6更有利于促进环葡聚糖的生成，环葡聚糖的产量较恒定 $\mathrm { p H } 7 . 0$ 模式提高了 $1 6 . 3 \%$ ，而相比自然发酵模式提高了 $5 3 . 3 \%$ ，菌体的生产强度较恒定 $\mathfrak { p H }$ 模式提高了 $1 5 . 6 \%$ 。
+
+对 pH调控后的发酵产物葡聚糖进行分离纯化，依次用3倍、3倍、10倍体积无水乙醇沉淀后，经过 Superose12柱层析分离后收集目标葡聚糖组分，并结合单糖组成分析、MALDI-MS、ESI-CID-MS/MS、FTIR和NMR表征手段对获得的葡聚糖的结构进行剖析，得出该菌经 $\mathfrak { p H }$ 调控后发酵法生产的葡聚糖仍是由葡萄糖组成的， $\beta$ -1,2-糖苷键连接而成的聚合度为17-22，主要聚合度为19 的环状葡聚糖，与Kawaharada 等人 $[ 7 , 2 8 ^ { , } 2 9 ]$ 报道的环 $\beta$ -1,2-葡聚糖的结构一致，表明 $\mathfrak { p H }$ 调控并不会影响环β-1,2-葡聚糖的结构。
+
+本研究通过pH调控大大增加了细胞浓度和环葡聚糖的产量，并对pH调控后的葡聚糖进行结构解析，发现pH调控并不会影响环β-1,2-葡聚糖的结构，为基于 $\mathsf { p H }$ 两阶段法[30]发酵生产环 $\beta$ -1,2-葡聚糖的强化合成奠定基础，为研究 $\beta$ -1,2-葡聚糖的生物活性与功能提供可靠的糖源。与此同时，菌量增加的同时，单位菌体的合成能力下降，这一现象还有待后续进一步开展相关研究，以期取得更多的质量稳定的产品。
+
+# 参考文献
+
+[1] Venkatachalam G,Gummadi S,Doble M.Cyclic $\beta$ -glucans from microorganisms. Berlin: Springer Berlin Heidelberg,2012: 53-62.   
+[2]McIntire F C,Peterson W H,Riker A J.A polysaccharide produced by the crown-gall organism.Journal of Biological Chemistry, 1942,143(8): 491-496. [3] Anna M, Camino P G,Romain B,et al. Brucella $\beta 1 , 2$ cyclic glucan is an activator of human and mouse dendritic cells.Plos Pathogens,2012,8(11): e1002983. [4] Cho E, Jeong D, Choi Y,et al. Properties and current applications of bacterial cyclic $\beta$ -glucans and their derivatives. Journal of Inclusion Phenomena & Macrocyclic Chemistry,2016,85(3-4):1-11. [5] Zhang H, Palma A S, Zhang Y,et al. Generation and characterization of $\beta 1 , 2$ -gluco-oligosaccharide probes from Brucella abortus cyclic $\beta$ glucan and their recognition by C-type lectins of the immune system. Glycobiology, 2016, 26(10): 1086-1096.   
+[6] Palma A S,Liu Y, Zhang H,et al. Unraveling glucan recognition systems by glycome microarrays using the designer approach and mass spectrometry. Molecular & Cellular Proteomics,2015,14(4):974-988. [7]Roset M S,Ciochini AE,UgaldeRA,etal.,The Brucella abortuscyclic beta-1,2-glucan virulence factoris substituted with O-ester-linked succinyl residues. Journal of Bacteriology,2006,188(14): 5003-5013. [8]Arellano-ReynosoB,Lapaque N,Salcedo S,etal.Cyclicbeta-1,2-glucan is aBrucell virulence factorrequired for intracellular survival. Nature Immunology,2005,6(6): 618-625.   
+[9]RiganoLA,PayeteC，BrouillrdG,etal. Bacterialcycic beta-(1,2)-glucanacts insystemic suppressionof plant immune responses. Plant Cell, 2007,19(6): 2077-2089.   
+[10] Abe M,Amemura A,Higashi S. Studies on cyclic $\beta 1$ ,2-glucan obtained from periplasmic space of Rhizobium trifolii cells.Plant & Soil, 1982,64(3):315-324.   
+[11]BohinJP.Osmoregulated periplasmic glucans in Proteobacteria.Fems Microbiology Leters,20,186(1):11-19.   
+[12] Bredveld M W, Zevenhuizen LPTM,Zehnder AJB.Osmoticaly-regulated trehalose accumulationand cyclic $\beta$ (1,2)-glucan excretion byRhizobium leguminosarum biovar trifoli TA-1.Archives of Microbiology,991,156(6): 501-506.   
+[13] Breedveld M W,Zevenhuizen L PTM, Zehnder A JB. Osmoticaly induced oligo- and polysaccharide synthesis by Rhizobium meliloti SU-47. Journal of General Microbiology,1990,136(12): 2511-2519.   
+[14] Pinho E,Henriques M,Soares G. Cyclodextrin/cellulose hydrogel with galic acid to prevent wound infection. Cellulose,2014,21(6): 4519-4530.   
+[15] SiemoneitU,Schmitt C,Alravez-LorenzoC,etal.Acrylic/cyclodextrin hydrogels with enhanced drug loadingand sustained release capability. International Journal of Pharmaceutics,2Oo6,312(1):66-74.   
+[16] Jeong D,Kim HK,Jeong JP,et al.Cyclosophoraose/celulose hydrogelsasan efficient deliverysystem for galangin,a hydrophobic antibacterial drug.Cellulose,2016,23(4):1-17.   
+[17] Breedveld M W, Zevenhuizen L P TM, Zehnder AJB.Excessive excretion of cyclic $\beta$ (1,2)-glucan by Rhizobium trifolii TA-1.Applied & Environmental Microbiology,1990,56(7): 2080-2086.   
+[18] Venkatachalam G, Srinivasan D, Doble M. Cyclic $\beta$ (1,2)-glucan production by Rhizobium meliloti MTCC 3402. Process Biochemistry,2013,48(12):1848-1854.   
+[19] Yang F C,Liau CB.The influence of environmental conditions on polysaccharide formation by Ganoderma lucidum in submerged culture.Process Biochemistry,1998,33(5):547-553.   
+[20] Iztok D,Manfred K,David S,etal.Structureof bacterial extracelllarpolymeric substancesat diferent pHvalues as determined by SAXS.Biophysical Journal, 2005, 89(4): 2711-2720.   
+[21]Lee JH,KimJH, KimMR,etal.Efectof dissolved oxygenconcentration and pHonthemass productionof high molecular weight pululan by Aureobasidium pullulans.Journal of Microbiology and Biotechnology,202,12(1): 1-7.   
+[22] Breedveld M W,Miller KJ.Cyclic beta-glucans of members of the family Rhizobiaceae.Microbiol Rev,1994, 58(2): 145-161.   
+[23] Trevelyan WE,Harison J S. Studies on yeast metabolism.I. Fractionation and microdetermination of cell. Biochemical Journal. 1952, 50 (3):298-310.   
+[24] 张洪涛．微生物β-1,3-葡聚糖的强化合成及最小功能单元挖掘．无锡：江南大学博士学位论文,2011. Zhang H T.Enhancement of $\beta$ -1,3-glucan production by Agrobacterium sp.and exploration of its minimal functional oligosaccharide sequence.Wuxi: Doctoral Dissertation of Jiangnan University,2011.   
+[25] 夏朝红，戴奇，房伟等．几种多糖的红外光谱研究．武汉理工大学学报,2007,9(1):4-7. Xia C H,Dai Q,Fang W,et al. Research on the IR Spectrscopy of Kinds of Polysaccharide.Journal of Wuhan University of Technology, 2007, 9(1): 4-7.   
+[26] 栾晓红，赵峡，王清池．缢蛏多糖的提取、分离和结构分析．中国海洋药物,2015,34(2):22-28. Luan X H, Zhao X, Wang Q C.Extration,separation and structural characterization of poly saccharides from Sinonovacula Constricta.Chinese Journal of Marine Drugs,2015,34(2): 22-28.   
+[27] Podlasek C A,Wu J,Stripe WA,et al. $\big [ \mathrm { } ^ { 1 3 } \mathrm { C } \big ]$ Enriched methyl aldopyranosides:structural interpretations of 13C-1H spin-coupling constants and $\mathrm { ^ 1 H }$ chemical shifts.Journal of the American Chemical Society， 1995,117(33): 8635-8644.   
+[28] Kawaharada Y，Kiyota H,Eda S,etal. Structural characterizationof neutral andanionic glucans from Mesorhizobium loti.Carbohydrate research,2008,343:2422-2427.   
+[29] 杨雪霞，顾溯海，高亮红等．环状β-1,2-葡聚糖的提纯与鉴定．微生物学通报,2001,28(3):45-49. Yang X X, Gu S H, Gao HL, et al. Isolation and identification of cyclic ${ \beta }$ (1,2)-glucans.Microbiology China，2001, 28(3): 45-49.   
+[30] 王磊，詹晓北，朱一晖等.pH控制对热凝胶发酵的影响．生物工程学报,2002,18(5):634-637. WANG L, ZHAN X B,ZHUYH,et al. Influence of pH Control on the Production of Curdlan by Alcaligenes faecalis Strain.Chinese Journal of Biotechnology,2002,18(5):634-637.

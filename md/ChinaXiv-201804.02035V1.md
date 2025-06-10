@@ -1,0 +1,371 @@
+# 可实现隐私保护的基于属性密文可搜索方案
+
+胡媛媛，陈燕俐，朱敏惠(南京邮电大学 计算机学院，南京 210003)
+
+摘要：针对现有的基于属性的密文可搜索方案存在隐私泄露问题以及当授权用户不在线时如何安全有效地将密文以及搜索权限委托给其他人的问题进行了研究，将隐藏访问结构的基于属性密文可搜索方案与代理重加密技术融合，提出了具有部分隐藏访问结构的支持代理重加密的功能的基于属性的密文检索方案。该方案不仅有效地解决了上述问题，而且还支持关键字的更新。最后在随机预言模型下基于DL(D-linear)假设和 $\mathsf { q }$ -BDHE (decisional q-parallel bilinear Diffie-Hellman exponent)假设，证明了本方案的安全性。
+
+关键词：云计算；基于属性的可搜索加密；隐藏访问结构；代理重加密 中图分类号：TP309.2 doi: 10.3969/j.issn.1001-3695.2017.12.0760
+
+# Privacy protection attribute-based ciphertext search scheme
+
+Hu Yuanyuan, Chen Yanli, Zhu Minhui (School of Computer Science,Nanjing University of Posts & Telecommunications,Nanjing 21oo03, China)
+
+Abstract: There are lots ofdrawbacks in existing atribute-based encryption with keyword search scheme,such as privacy disclosure issues and when theauthorizeduser isofline howefectivelydelegate decryptand search right tootherpeople.In orderto solve these problems,this paper proposed anatribute-based ciphertext search scheme with hidden access structures, which support proxy re-encryption functionbycombing atribute-based encryption with hiddenaccesstructures and proxyeencryption technology.This scheme notonlyeffectivelysolves theproblems mentioned above,butalso supports theupdateof keywords.Finallundertherandomoracle model,theresearchers proved the securityofthe scheme basedonDL(D-linear) and $\mathsf { q }$ -BDHE (decisional q-parallel bilinear Diffe-Hellman exponent) hypothesis.
+
+Key Words: cloudcomputing;atributed-based encryption with keywordsearch;hiddenaccesstructures; proxyre-encryption
+
+# 0 引言
+
+随着大数据和云计算的时代的到来，已经有越来越多的个人和企业都将大量私有数据上传到云系统，从而节省本地的存储和管理成本。为了保证数据的安全性，数据拥有者需要将数据加密后再上传到云系统中。2000 年，Song 和Wagner等人[1]第一次提出了可搜索加密(Searchable Encryption,SE)，实现了在不解密密文的情况下，能够利用关键字对密文进行快速检索。在实际应用中，一些数据需要被多个用户所共享，因此基于属性的可搜索加密方案引起众多学者的关注。相比于基于身份的可搜索加密，基于属性的可搜索加密不需要知道搜索者的具体身份信息，而是掌握搜索者的一系列的属性描述，当用户的属性满足密文中的访问结构才可进行搜索操作。因此，基于属性的可搜索加密能够实现细粒度的访问控制和密文。但是目前基于属性的可搜索加密中会将用户结构和搜索关键字发送给用户，而访问结构中包含了一些敏感信息，存在用户信息泄露的风险。
+
+此外在实际应用中，数据共享时存在一些局限性，比如在医疗云系统中，甲医院每天根据病人A的观察记录生成病历然后上传到系统中，但是为了保护病人隐私以及搜索的方便，需要用访问结构与关键字加密后再上传到云系统中，从而只有用户属性满足访问结构的（如医生B）才可以进行关键字搜索并获得相关信息。现实中可能会出现如下场景：医生B出差或外出度假，或者由于病人情况复杂医生B需要和乙医院的主任医生C进行共同会诊，即医生C希望能够在云系统中搜索到病人A的信息并查看，除此之外，这份共享的病历可能还需要将关键字更新。一个传统的方法就是由医生B将病人A的病历下载到本地解密后再用新的访问结构以及新的关键字加密后再上传到云系统中，这样医生C由于满足访问结构，从而可以从云系统中进行关键字搜索并获得信息。但是这种方法给医生B带来了额外的加密解密的负担，并且在这样一个大数据的时代，随着数据的增多，这样的搜索和共享的数量也会急剧增加。另外，将云系统中的密文下载到本地不仅给本地的存储和管理带来了压力，而且这也未能有效发挥云系统带来的存储优势。因此针对上述两个方面的问题，本文提出了满足实际应用需求的一个支持代理重加密的具有部分隐藏访问结构功能的基于属性密文可搜索方案，不仅实现了密文解密以及密文搜索功能的共享，还可支持关键字的更新。方案的访问结构采用的是LSSS线性秘密共享矩阵，不仅可支持细粒度的访问控制，且具有较高的计算效率。
+
+# 1 相关介绍
+
+2004年，Boneh等人[2]首次提出了公钥可搜索加密的概念，实现了用户无须对数据进行解密就能快速有效地进行搜索操作，以获得所需要的信息。随后，具有连接关键词[3]、模糊关键词[4]等功能的公钥可搜索加密方案也相继被提出。随着密码学的发展，学者们发现，虽然已有的公钥加密可搜索加密方案解决了对称可搜索加密中密钥传输的不确定性，但是在当前云存储快速发展，个人数据愈来愈多，这一复杂的分布式网络环境下，数据拥有者往往不能确切知道所有访问者的信息，但是又希望能给访问加密数据的用户加上一些限制条件，使得符合条件的用户才能搜索数据，其他人拒绝访问，通信模式不再是一对一的，显然传统的公钥可搜索加密[2]以及基于身份的可搜索加密技术[5]已经不能解决这一难题，为解决这个难题，基于属性的可搜索加密（ABKS）被提了出来。
+
+2013年，Wang和Kulvaibhavh等人[6,7]在传统的基于密文策略的属性加密方案[8]（CP-ABE）基础上提出了基于属性的密文检索方案（CP-ABKS)。2014年，Zheng等人[9提出了一种可验证的基于CP-ABE的密文检索方案，该方案在加密过程中利用不同的访问结构加密不同的关键字，由服务器执行验证算法。验证过程中对于不同的访问结构产生不同的返回信息，用户根据返回的信息来判断服务器是否严格执行了验证算法。同年，李双等人[10]在密钥策略的属性加密方案(KP-ABE)基础上提出了KP-ABE 的可搜索加密方案（KP-ABKS)，该方案和文献[9]中一样都是采用效率较低的树型访问控制结构。此外，文献[10]中的方案在门限生成过程中包含了私钥，在门限上传到云服务器过程中，会产生用户私钥泄露的问题。随后一些支持用户属性撤销[II]，多用户[12]等特点的基于属性的可搜索加密方案被提出。上述可搜索加密方案由于访问结构会和关键字一起发送，而访问结构中通常包含一些敏感信息，所以存在用户隐私泄露的问题。尽管Lai等人[13]在Waters 的ABE[8]的基础上提出了隐藏访问结构的基于属性的加密方案，但是目前还没有人提出可隐藏访问结构的基于属性的可搜索加密方案，虽然Mukti等人[14]提出了隐藏访问结构的基于CP-ABE 的可搜索加密方案，但是该方案是关键字等价于属性来生成门限，并不能实现真正的基于属性的密文可搜索。
+
+尽管已经有大量关于基于属性的可搜索加密方案被提出，但是他们并不能满足实际应用中当授权用户不在线时将密文解密以及搜索权利授予给其他用户的需求。在2014年，Shao 等人[15]将传统的代理重加密[16]和可搜索加密[2]结合，提出了代理重加密的可搜索加密。随后一些支持代理重加密的可搜索加密方案[17:18]也相继被提出，但是这些方案的通信模式都是一对一的，不能满足当前分布式网络环境的需求。所以 Shi等人[19]将基于属性的加密可搜索加密与代理重加密的技术相结合提出支持关键字搜索的基于属性的代理重加密方案。但是该方案对关键字加密采用的是普通公钥加密技术，没有实现真正的一对多的通信模式，此外在查询门限和密文关键字比较过程中使用大量双线性配对运算而导致效率不高的问题。2015年，Liang 等人[20]将KP-ABKS和代理重加密结合提出了可搜索的基于属性的代理重加密方案。但是该方案采用的是KP-ABE，加密者不可以直接决定谁有权解密，只能为数据选择描述性的属性，只能相信密钥发布者，所以该方案并不能很好的控制访问策略，并且文献[19][20]均未能针对访问结构泄露敏感信息做处理。
+
+本文贡献：针对目前基于属性的可搜索加密方案存在用户信息泄露以及不能实现密文解密以及搜索权限的代理、关键字更新等问题，提出了一个支持代理重加密的基于属性的密文检索方案（S-HABPRE-KU)，不仅实现了密文的代理重加密，还可以支持关键字的更新。S-HABPRE-KU方案主要的特点如下：
+
+a)首次提出了一个符合实际应用需求的支持代理重加密的隐藏访问结构的基于属性的密文检索方案，实现了当授权用户不在线时将密文搜索和解密权限委托给其他用户，从而实现数据和密文的进一步安全有效的共享。
+
+b)在密文进行重加密阶段，支持对关键字进行更新操作，以便在与他人共享密文之前，密文的关键字可以进一步更新。
+
+c)方案采用了表达能力更强的LSSS访问结构，可以实现属性的与、或、非和陷门操作，细粒度地描述用户的属性，能够在可搜索加密的基础上提高效率，增加访问的灵活性，并减少存储代价。
+
+d)方案采用部分隐藏访问结构的方式很好的保护用户的隐私，和文献[2]类似，方案中的属性由属性名和属性值两部分组成，但是和密文同时发送的访问结构只包含属性名，不包含具体属性值。
+
+# 2 预备知识
+
+# 2.1双线性配对
+
+设 $\textit { G } ^ { \prime } \textit { G } _ { T }$ 为两个阶为素数 $p$ 的循环群， $g$ 是 $G$ 上的一个生成元。双线性映射 $e : G \times G  G _ { \scriptscriptstyle T }$ ，同时满足以下性质：a）双线性。对于任意的 $a , b \in Z _ { p }$ ， $g , g _ { 1 } \in G$ ，都有$e ( g ^ { a } , g _ { 1 } ^ { b } ) = e ( g , g _ { 1 } ) ^ { a b }$ 成立。b）非退化性。存在 $g \in G$ ，使得 $e ( g , g ) \neq 1$ ，其中1代表$G _ { _ T }$ 的单位元。c）可计算性。对于 $G$ 中的所有元素 $g , g _ { 1 }$ ，存在一个有效算法能够计算出e(g,g）。
+
+# 2.2访问结构
+
+设 $U = \{ u _ { 1 } , u _ { 2 } , \cdots , u _ { n } \}$ 是所有的属性集合，若存在访问结构$A \subseteq 2 ^ { U }$ ，如果对于任意的集合 $^ { } | B , C _ { } |$ ，有 $B \in A$ ， $B \subseteq C$ ，有 $C \in A$ ，那么称 $A$ 是单调的。如果集合 $A$ 是 $2 ^ { U }$ 的一个非空子集，那么称$A$ 是一个访问结构。包含在 $A$ 中的集合称为授权集合，不包含在 $A$ 中的集合称为非授权集合。
+
+2.3线性秘密共享方案(linear secret sharing scheme,LSSS)一个定义在实体集 $P$ 上的线性秘密共享方案 $\pi$ 是指：
+
+a）所有实体的共享组成 $Z _ { { \scriptscriptstyle P } }$ 上的一个向量。
+
+b）存在一个 $l \times n$ 的 $\pi$ 共享矩阵和一个从 $\{ 1 , 2 , \cdots , l \}$ 到 $P$ 的映射，随机选取一个向量 $\nu = ( s , y _ { 2 } , \cdots , y _ { n } ) \in Z _ { p }$ ，其中 $s$ 是要共享的秘密，那么 $M _ { i } \cdot \nu$ 就是利用 $\pi$ 得到的关于 $s$ 的 $\mathbf { \Phi } _ { l }$ 个共享值组成的向量，其中 $( M \nu ) _ { i }$ 是属于实体 $\rho ( i )$ ，记为 $\boldsymbol { \lambda } _ { i } = ( M _ { i } \nu ^ { T } )$ 。
+
+按照以上定义的线性秘密共享方案LSSS 都具有可重构的性质，假设 $\pi$ 是一个对应访问结构 $A$ 的LSSS，对于任何授权用户集 $S \in A$ ，定义 $I = \{ i : \rho ( i ) \in S \} \subset \{ 1 , 2 , \cdots , l \}$ ，如果 $\{ \lambda _ { i } \}$ 是秘密 $\mathbf { \sigma } _ { s }$ 根据 $\pi$ 的有效分享，那么存在一个常数集 $\{ \omega _ { i } \in Z _ { p } \} _ { i \in I }$ 使得（204号 $\textstyle \sum _ { i \in I } \omega _ { i } \lambda _ { i } = s$ ；对于任何非授权用户集，存在向量 $\{ \omega _ { i } \in Z _ { p } \} _ { i \in I }$ ，使 $\omega _ { i } \boldsymbol { M } _ { i } ^ { \textit { T } } = 0$ □
+
+# 2.4判断 性 q-BDHE(decisional $\mathsf { q }$ -parallel bilinear DiffieHellman exponent)假设
+
+设存在一个阶为素数 $p$ 的群 $_ G \ , \ g$ 是 $G$ 上的生成元，双线性映射： $e : G \times G  G _ { \scriptscriptstyle T }$ ，设 $\stackrel {  } { y } = g , g ^ { s } , g ^ { a } , \stackrel {  } { \cdots } , \quad g ^ { a ^ { q } } , g ^ { a ^ { q + 2 } } , \stackrel {  } { \cdots } , g ^ { a ^ { 2 q } } ,$ $\forall _ { 1 \le j \le q } , g ^ { s \cdot b _ { j } } , g ^ { a / b _ { j } } , \cdots , g ^ { a ^ { q / b _ { j } } } , g ^ { a ^ { q + 2 } / b _ { j } } , \cdots , \textbf { ,  { g } } g ^ { a ^ { 2 q } / b _ { j } } \ , \ \forall _ { 1 \le j , k \le q , k \ne j } \ g ^ { a \cdot s \cdot b _ { k } / b _ { j } } , \cdots , g ^ { ( a ^ { q } \cdot s \cdot b _ { k } / b _ { j } ) } \ $ 其中 $a , s , b _ { 1 } , \cdots , b _ { q } \in \mathbb { Z } _ { p }$ 。将 $\vec { y }$ 交给敌手，不存在概率多项式时间算法 $B$ ，以不可忽略的优势将 $T = e ( g , g ) ^ { a ^ { q + 1 } s } \in G _ { T }$ 与随机元素$T \in G _ { _ { T } }$ 区分。算法 $B$ 的优势定义为
+
+$$
+| \operatorname* { P r } [ B ( \vec { y } , T = e ( g , g ) ^ { a ^ { q + 1 } s } ) = 0 ] - \operatorname* { P r } [ B ( \vec { y } , T \in G _ { T } ) = 0 ] |
+$$
+
+# 2.5判定性 DL(decisional linear assumption)假设
+
+选择一个阶为素数 $q$ 的群 $G$ ，挑战者从群 $G$ 上选择生成元（20 $g , f , h$ ，随机值 $q _ { 1 } , q _ { 2 } \in Z _ { p }$ ，敌手在获得 $Y = \{ g , f , h , f ^ { q _ { 1 } } , g ^ { q _ { 2 } } \}$ 以及随机值 $Q \in G$ 后，敌手必须将 $h ^ { q _ { 1 } + q _ { 2 } } \in G$ 与 $G$ 中的随机值 $\boldsymbol { \mathrm { \ell } }$ 区分出来，定义输出 $b \in \{ 0 , 1 \}$ 的算法解决判定 $D L$ 的优势为 $\boldsymbol { \varepsilon }$ 。若$\mid P r [ \hat { \ k } ( g , f , h , f ^ { q _ { 1 } } , g ^ { q _ { 2 } } , h ^ { q _ { 1 } + q _ { 2 } } ) = 1 ] - P r [ \hat { \ k } ( g , f , h , f ^ { q _ { 1 } } , g ^ { q _ { 2 } } , Q )$ =$1 ] \left| \geq \varepsilon \right.$ 成立，则说明敌手只能以优势 $\boldsymbol { \varepsilon }$ 攻破 $D L$ 假设。
+
+# 3 模型和攻击游戏
+
+# 3.1系统模型
+
+本文构造的系统模型如图1所示，共包含三个实体，分别是授权中心，云服务器和云用户（包括数据属主和搜索用户）。其中授权中心负责初始化系统公钥、主密钥以及根据用户的属性集返回对应的私钥。数据属主选择需要上传的数据和文件后，为了保证数据和文件的安全性，必须加密后再上传。属主无须知道解密者的具体身份，只需要在加密时设置访问结构(如PA)
+
+即可，为了防止访问结构中的敏感信息被泄露，本文采用部分隐藏访问结构。云服务器主要用来负责存储加密的数据，以及在用户上传搜索门限后进行搜索匹配算法，返回对应的搜索密文并解密得到共享数据和文件。此外，云服务器收到授权用户发送的重加密密钥（与另一个访问结构PB，新的关键字w’相关）后可以对原始密文进行重加密，充分发挥了云服务器的存储和计算能力。重加密后的密文可以由被授权用户进行搜索和解密操作，即使授权用户不在线的情况下仍然可以将搜索以及解密的权限委托给其他用户，实现了信息的安全有效共享。
+
+![](images/6da29fb7d12f916795e5c412b481d8ee479ec5315887cbe91fd1daa6036c00db.jpg)  
+图1系统模型图
+
+# 3.2方案的一般模型
+
+支持代理重加密的具有隐藏访问结构的功能的基于属性的密文可搜索方案包括以下10个算法：
+
+a)系统初始化算法 $S e t u p \big ( 1 ^ { \kappa } , U \big )$ ：输入安全参数 $\kappa$ 和全局属性集合 $U$ ，输出系统公钥 $P K$ 和主密钥 $M S K$ 。b)私钥生成算法 $K e y G e n ( P K , M S K , A t t s )$ ：输入系统公钥$P K$ 、主密钥 $M S K$ 和用户属性集 $A t t s$ ，输出私钥 $s \kappa$ 。c)密文生成算法 $E n c ( P K , ( M , \rho , \Gamma ) , m , w )$ ：输入系统公钥$P K$ 、访问结构 $( M , \rho , \Gamma )$ ，密文 $\mathbf { \Sigma } _ { m }$ 和关键字 $w$ ，输出初始密文CPH。
+
+d)门限生成算法 $T o k e n G e n ( P K , S K , W )$ ：输入系统公钥 $P K$ ，用户私钥 $\mathit { s K }$ 和待搜索关键字 $W$ ，输出门限 $_ { T K }$ 。这个门限是用来搜索与关键字 $W$ 有关的加密数据。
+
+e)密文搜索算法 $S e a r c h ( P K , C P H , T K )$ ：输入系统公钥 $P K$ 、密文 $C P H$ 和门限 $T K$ ，如果用户的属性满足密文中的访问结构且 $\scriptstyle { \boldsymbol { w } } = W$ 就代表搜索成功，输出1，否则输出0。
+
+f)解密算法 $\it { D e c } ( P K , S K , C P H )$ ：输入系统公钥 $P K$ 、私钥$s _ { K }$ 和密文 $C P H$ ，由云服务器进行解密。
+
+g重加密密钥生成算法 $\mathrm { R e } K e y G e n ( P K , S K , ( M ^ { \prime } , \rho ^ { \prime } ]$ $\Gamma ^ { \prime } ) , K W )$ ：输入系统公钥 $P K$ 、用户私钥 $\mathit { s K }$ 和新的访问结构$( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } )$ ，以及更新的关键字 $\kappa w$ ，输出重加密密钥 $R K$ ，重加密密钥就是用来把基于访问结构 $( M , \rho , \Gamma )$ 和关键字 $w$ 的初始密文转换成相同明文下基于 $( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } )$ 和 $\kappa w$ 的重加密密文.
+
+h)重加密密文生成算法 $\mathrm { R e } E n c ( P K , C P H , R K )$ ：输入系统公钥 $P K$ 、初始密文 $C P H$ 重加密密钥 $R K$ ，输出重加密密文 $R C H$ 。i）重加密密文搜素算法 $R s e a r c h ( P K , T K , R C P H )$ ：输入系统公钥 $P K$ 、门限 $\mathit { \Pi } _ { T K }$ 以及重加密密文 $R C P H$ ，如果用户的属性满足重加密密文中的访问结构且 $\boldsymbol { w } = \boldsymbol { K } \boldsymbol { W }$ 就代表搜索成功，输出1，否则输出0。
+
+j)重加密密文解密算 法 $R d e c ( P K , S K , R C P H )$ ：输入系统公钥 $P K$ 、用户私钥 $s _ { K }$ 和重加密密文 $R C H$ ，如果私钥中的属性集满足重加密密文中的访问结构那么即可成功解密，否则解密失败。
+
+# 3.3安全模型
+
+S-HABPRE-KU的安全目标是实现在随机预言模型下，假设没有一个概率多项式时间(PPT)的敌手能在一个不可忽视的优势下赢得下面这个选择明文攻击游戏和选择关键字攻击游戏，那么该方案是具有不可区分性抗选择访问结构的选择明文（IND-sAS-CPA）安全和抗选择关键字攻击（CKA)。选择明文攻击(CPA)是指攻击者可以获得公钥信息，并且可以根据自己的选择对不同的明文进行加密。关键字选择安全是指敌手在没有获得匹配的门限情况下，不能获得密文关键字以外的任何关键字信息。
+
+以下是敌手和挑战者之间的选择明文攻击游戏，其中 $c$ 是游戏的挑战者， $\kappa$ 和 $U$ 分别是安全参数和全局属性集。
+
+1)选择明文攻击游戏：
+
+a）攻击者初始化，敌手 $A$ 宣布要挑战的访问结构$( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ 。b)系统初始化，挑战者C运行系统初始化算法 Setup(l",U)，并将系统公钥 $P K$ 发送给敌手 $A$ 。c）第一阶段：敌手 $A$ 可以访问以下预言机。(a) $O _ { s \kappa } ( A t t s )$ ：敌手 $A$ 选定属性集合 $A t t s$ ，询问私钥 $s _ { K }$ 。挑战者 $c$ 返回 $S K \gets K e y G e n ( P K , M S K , A t t s ) \$ 0(b) $O _ { T o k e n G e n } ( W , A t t s )$ ：敌手 $A$ 选定属性集合，关键字 $W$ 询问门限值 $\mathit { \Pi } _ { T K }$ 。挑战者 $c$ 返回 $T K \gets T o k e n G e n ( P K , S K , W )$ ，其中$S K \gets K e y G e n ( P K , M S K , A t t s ) \$ (c） $O _ { \mathrm { R e } K e y G e n } ( A t t s , ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) , K W )$ ：敌手 $A$ 给出属性集合$A t t s$ ，新的访问结构 $( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } )$ ，一个关键字 $\kappa w$ ，询问重加密密钥 $R K \gets \mathrm { R e } K e y G e n ( P K , S K , ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) , K W )$ 。挑战者 $c$ 返回$R K \gets \mathrm { R e } K e y G e n ( S K , ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) , K W )$ 给敌手 $A$ ，其中$S K \gets K e y G e n ( P K , M S K , A t t s ) \$
+
+在该阶段，下述询问是被禁止的：
+
+$O _ { S K } ( A t t s )$ 时,任意的 $A t t s$ 满足访问结构 $( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ ·（204号 $\textcircled{2}$ $O _ { \mathrm { R e } K e y G e n } ( A t t s , ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) , K W )$ 时，任意的 $A t t s$ 满足访问  
+结构 $( \boldsymbol { M } ^ { * } , \boldsymbol { \rho } ^ { * } , \boldsymbol { \Gamma } ^ { * } )$ ，并且 $O _ { s { \scriptscriptstyle K } } ( A t t s )$ 时，任意的 $A t t s$ 满足访问结构  
+$( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ 。d)挑战：敌手 $A$ 提交两个等长消息 $m _ { 0 } , m _ { 1 }$ ，挑战者 $c$ 随机  
+选其中之一 $m _ { b \{ b \in ( 0 , 1 ) \} }$ 和一个关键字 $\boldsymbol { w } ^ { * }$ ，挑战者 $c$ 将关键字密文  
+$C P H ^ { * } = E n c ( P K , ( M , \rho , \Gamma ) , m _ { b } , w ^ { * } ) _ { \{ { \bf b } \in _ { R } ( 0 , 1 ) } \} $ 发送给敌手 $A$ 。e）第二阶段：此阶段敌手 $A$ 重复第一阶段的操作。f）猜测：敌手 $A$ 输出猜测的值 $b ^ { \prime }$ 。如果 $\boldsymbol { b ^ { \prime } } = \boldsymbol { b }$ ，敌手 $A$ 获得胜利，敌手 $A$ 获得胜利的优势定
+
+定义1对于所有多项式时间的敌手 $A$ ，如果$A d \nu _ { S - H A B P R E - K U } ^ { I N D - s A S - C P A }$ 都是可以忽略不计的，那么 S-HABPRE-KU 方案在随机预言模型下是选择明文攻击安全的。
+
+下面本文通过敌手模型形式化模拟的CKA安全定义，其中 $I _ { \mathit { { E n c } } }$ 表示与密文相关联的访问结构， $I _ { \mathit { K e y G e n } }$ 表示与密钥相关的属性集合，函数 $F ( I _ { _ { E n c } } , I _ { _ { K e y G e n } } ) = 1$ 表示密钥中的属性集合满足密文中的访问结构，在系统建立之前由敌手决定要挑战的访问结构。
+
+2)选择关键字攻击游戏：
+
+系统建立：敌手选择一个要挑战的访问结构 $\boldsymbol I _ { E n c } ^ { * }$ ( $\boldsymbol I _ { E n c } ^ { * }$ 不被一个不具备任何属性的用户所满足)，将 $I _ { E n c } ^ { * }$ 发送给挑战者。挑战者执行初始化算法，产生系统公钥 $P K$ 和系统主密钥 $M S K \circ$
+
+阶段一：敌手可以在二项式时间内多次执行以下预言机，此外挑战者保存了一个初始状态为空的关键字链 L。
+
+a) $O _ { \mathit { K e y G e n } } ( I _ { \mathit { K e y G e n } } )$ ：如果 $F ( I _ { E n c } ^ { * } , I _ { K e y G e n } ) = 1$ ，则系统终止运行。否则挑战者执行私钥生成算法 $K e y G e n ( I _ { \mathit { \Pi } _ { K e y G e n } } ) \to S K$ 并将对应的私钥 $s \kappa$ 返回给敌手。
+
+b $) O _ { T o k e n G e n } ( I _ { K e y G e n } , w )$ ：敌手输入属性集合 $I _ { \kappa e y G e n }$ 和要查询的关键字 $w$ 。挑战者执行门限生成算法 $T o k e n G e n ( S K , w )  T K$ ，并将门限值 $\mathit { \Pi } _ { T K }$ 返回给敌手，其中 $S K \gets K \mathrm { e y } G e n ( I _ { \mathit { K e y G e n } } )$ 口
+
+挑战阶段：敌手选择关键字 $w _ { 0 } , w _ { 1 } \ , w _ { 0 } , w _ { 1 } \notin L _ { k w }$ 。挑战者随机选择一个值 $\lambda$ ，其中 $\lambda \in \{ 0 , 1 \}$ ，并计算密文$c p h ^ { * } = E n c ( I _ { E n c } ^ { * } , \boldsymbol { w } _ { \lambda } )$ ，挑战者将 $c p h ^ { * }$ 发给敌手。 $w _ { 0 } , w _ { 1 } \notin { L } _ { k w }$ 是为了防止敌手通过 $O _ { T o k e n G e n } ( I _ { K e y G e n } , w )$ 获取门限从而不断猜测 $\lambda$ 。
+
+阶段二：敌手继续查询阶段一中的预言机，如果$F ( I _ { E n c } ^ { * } , I _ { K e y G e n } ) = 1$ 成立，则 $( I _ { K e y G e n } , w _ { 0 } )$ ， $( I _ { \mathit { { K e y G e n } } } , w _ { 1 } )$ 不能作为$O _ { T o k e n G e n }$ 的输入。
+
+猜测：敌手输出 $\lambda ^ { \prime }$ 。若 $\lambda ^ { \prime } { = } \lambda$ ，则敌手赢得游戏，否则失败。
+
+定义2若敌手在安全参数 $\kappa$ 下以一个不可以忽略的优势赢得选择关键字攻击游戏，则本方案是安全的。
+
+# 4 本方案描述
+
+# 4.1方案的具体实现
+
+本方案主要包括十个算法：初始化，私钥生成，加密密文，产生门限，搜索匹配，解密密文，重加密密钥的生成，重加密密文的生成，重加密密文的搜索匹配以及密文重解密算法，下面进行详细描述。
+
+$$
+S e t u p ( 1 ^ { \kappa } , U ) \to \{ \mathrm { P K } , \mathrm { M S K } \} \circ
+$$
+
+输入安全参数 $\kappa$ 和全局属性集合 $U ~ , ~ \left| U \right| = n$ ，授权中心执行初始化算法。首先选择两个阶为素数 $p$ 的循环群 $G , G _ { T }$ ，随机选择生成元 $g , g _ { 1 } \in G$ ，再取三个随机数 $a , b , c \in Z _ { p }$ ，接着选择随机值 $u _ { 1 } , \cdots , u _ { n } \in G$ ,哈希函数 $H _ { 1 } : \{ 0 , 1 \} ^ { * }  Z _ { _ p }$ ， $H _ { 2 } : \{ 0 , 1 \} ^ { * }  Z _ { p }$ 。输出公共参数 $\mathrm { P K } = \{ g _ { 1 } , g ^ { a } , g ^ { b } , g ^ { c } , e ( g , g ) ^ { b c } , u _ { 1 } , \cdots , u _ { n } \}$ ，授权中心保存系统主密钥MSK={a,b,c}。
+
+$$
+K e y G e n ( P K , M S K , A t t s )  S K \ .
+$$
+
+输入系统公钥 $P K$ 和主密钥 $M S K$ 以及用户属性集 $A t t s$ ，授权中心执行密钥生成算法。选取随机值 $t \gets Z _ { p }$ ，计算 $K = g ^ { b c + a t }$ ，$L = g ^ { t }$ ，对于随机选择 $s _ { i } \gets Z _ { p }$ ， $\forall s _ { i } \in A t t s$ ， $K _ { i } = ( u _ { i } ^ { { s } _ { i } } ) ^ { t }$ 。输出用户私钥 $S K = \{ K , L , \{ K _ { i } \} _ { s _ { i } \in A t t s } \}$ 。
+
+$$
+\cdot E \mathrm { n c } ( P K , m , ( M , \rho , \Gamma ) , w ) \to C P H \
+$$
+
+输入加密的消息 $\mathbf { \Sigma } _ { m }$ 、访问结构 $( M , \rho , \Gamma )$ 和需要加密的关键字 $w$ ，数据拥有者执行加密算法。其中， $M$ 是 $l \times n$ 的线性矩阵，$\rho$ 是一个单映射函数，可以将矩阵的每一行映射成用户属性，（204号 $\Gamma = ( t _ { \rho ( 1 ) } , \cdots , t _ { \rho ( l ) } ) \in Z _ { p } ^ { l }$ ，从第1行到第 $l$ 行，计算 $\lambda _ { i } \left. { \overset { \right. } { \nu } } \cdot M _ { i }$ ，其中 $M _ { i }$ 是矩阵 $M$ 第 $i$ 行对应的向量。首先选择两个随机值q,q←Z,，然后选择一组随机值构成随机向量$\vec { \nu } = ( q _ { 2 } , y _ { 2 } , \cdots , y _ { n } ) \in Z _ { p }$ ，其中 $q _ { 2 }$ 是共享的秘密，再选择随机值（20 $r _ { 1 } , \cdots , r _ { l } \gets Z _ { p }$ 。计算密文如下： $A = m e ( g , g ) ^ { b c q _ { 2 } }$ ， $B = g ^ { q _ { 2 } }$ ，I $\begin{array} { r l r l r l r } { { 3 } _ { 1 } = g _ { 1 } ^ { q _ { 2 } } } & { { } , } & { { } } & { { } C _ { _ x } = g ^ { a _ { x } } ( u _ { \rho ( x ) } ^ { t _ { \rho ( x ) } } ) ^ { - r _ { x } } } & { { } , } & { { } } & { { } D _ { _ x } = g ^ { r _ { x } } } & { { } , } & { { } } & { { } W _ { 1 } = g ^ { c q _ { 1 } } } \end{array}$ ，$W _ { 2 } = g ^ { b ( q _ { 1 } + q _ { 2 } ) } g ^ { a H _ { 1 } ( w ) q _ { 1 } }$ （204号 。 输出 密文（204 $C P H = \{ A , B , B _ { 1 } , \forall x \in \lbrack 1 , l \rbrack \{ C _ { x } , D _ { x } \} , W _ { 1 } , W _ { 2 } \} \circ$
+
+$$
+\mathrm { d } ) { \cal T } \it { o } { k e n G e n } ( P K , S K , W )  { \cal T } K \triangleq 0 .
+$$
+
+输入用户私钥 $\mathit { s K }$ 和待查的关键字 $W$ ,云服务器执行门限生成算法。选择随机值 $\sigma  Z _ { p } \ , T _ { 1 } = ( g ^ { b } g ^ { a H _ { 1 } ( W ) } ) ^ { \sigma } \ , T _ { 2 } = g ^ { c }$ ，$T _ { 3 } = K ^ { \sigma } = g ^ { ( b c + a t ) \sigma } , T _ { 4 } = L ^ { \sigma } = g ^ { t \sigma } , \forall x \in A t t s , T _ { x } = ( K _ { x } ) ^ { \sigma } = ( u _ { x } ^ { s _ { x } } ) ^ { t \sigma }$ 。输出门限TK={T,T,T,T,Tx}sx∈Ans。
+
+$$
+\mathrm { e ) } \ S e a r c h ( P K , T K , C P H ) \to 0 / 1 \mathrm { \Omega c }
+$$
+
+输入门限 $T K$ 和密文 $C P H$ ，云服务器执行密文检索算法。假设用户的属性集 $A t t s$ 满足访问结构 $\left( M , \rho \right)$ ，则一定存在一组值 $\{ \omega _ { i } \in Z _ { p } \} _ { i \in I }$ （204号 使得 $\sum _ { \mathrm { i } \in I } \omega _ { i } \lambda _ { i } = q _ { 2 }$ （204 其中$I \subset \{ 1 , \cdots , l \} , I = \{ i , \rho ( i ) \in A t t s \}$ 。计算过程如下 $E r o o t =$ （202$\prod _ { i \in I } ( e ( C _ { i } , T _ { 4 } ) e ( D _ { i } , T _ { \rho ( i ) } ) ) ^ { \omega _ { i } } \qquad , \qquad E _ { 1 } = e ( W _ { 2 } , T _ { 2 } ) \cdot E r o o t \qquad , \qquad E _ { 2 } = e ( E ^ { - 1 } + E ^ { - 1 } )$ $E _ { 2 } =$ $e ( W _ { 1 } , T _ { 1 } ) e ( T _ { 3 } , B )$ 。如果 $E _ { 1 } = E _ { 2 }$ 则输出1,代表搜索成功,否则输出0。
+
+$$
+\mathrm { f ) } D e c ( P K , S K , C P H ) \to m / \perp \circ
+$$
+
+输入私钥 $s \boldsymbol { K }$ 和密文 $C P H$ ，云服务器执行解密算法。对于原始密文，如果关键搜索成功，则代表存在相关密文，并且用户的私钥中的属性已经满足密文中的访问结构，即已经找到这样一组值 $\{ \omega _ { i } \in Z _ { p } \} _ { i \in I }$ 使得 $\sum _ { \mathrm { i } \in I } \omega _ { i } \lambda _ { i } = q _ { 2 }$ 成立，然后即可成功解密密文。即先计算Z= $Z = \frac { e ( B , K ) } { \displaystyle { \prod _ { i \in I } \bigl ( e ( C _ { i } , L ) e ( D _ { i } , K _ { i } ) \bigr ) ^ { \omega _ { i } } } }$ I[(e(C,L)e(D;,K))，然后 A/ Z =m得到消息 $\mathbf { \Sigma } _ { m }$ 。否则解密失败输出 $\perp$ 。
+
+$$
+\mathrm { R e } K e y G e n ( P K , S K , ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) , K W )  R K \circ
+$$
+
+输入系统公钥 $P K$ 、授权用户私钥 $s \kappa$ 、新的访问结构(M',p',I')，新的关键字KW，授权用户执行重加密密钥生成算法。选择随机值 $q _ { 2 } ^ { \prime }$ 和随机矢量 $\nu ^ { \prime } { = } ( q _ { 2 } ^ { \prime } , y _ { 2 } ^ { \prime } , \cdots , y _ { n } ^ { \prime } )$ ， $y _ { 2 } ^ { \prime } , \cdots , y _ { n } ^ { \prime } \in Z _ { p }$ ，再随机选择 $\delta \in \left\{ 0 , 1 \right\} ^ { * }$ ，其中， $M ^ { \prime }$ 是 $l \times n$ 的线性矩阵， $\rho ^ { \prime }$ 是一个单映射函数，可以将矩阵的每一行映射成用户属性名，Γ=(𝑡'a),t())∈Z'是对应的属性值，从第1行到第i行，计算 $\lambda _ { i } ^ { \prime }  \vec { \nu ^ { \prime } } \cdot M _ { i } ^ { \prime }$ ，其中 $\boldsymbol { M } _ { i } ^ { \prime }$ 是矩阵 $M ^ { \prime }$ 第 $i$ 行对应的向量。然后随机选择 $r _ { 1 } ^ { \prime } , \cdots , r _ { l } ^ { \prime } \gets Z _ { p }$ 。计算重加密密文如下： $r k _ { 1 } = \delta e ( g , g ) ^ { b c q _ { 2 } ^ { \prime } }$ ，$r k _ { 2 } = g ^ { q _ { 2 } ^ { \prime } }$ ， $r k _ { 3 } = g ^ { b ( q _ { 1 } ^ { \prime } + q _ { 2 } ^ { \prime } ) } g ^ { a H _ { 1 } ( K W ) q _ { 1 } ^ { \prime } }$ ， $r k _ { 4 } = g ^ { c q _ { 1 } ^ { \prime } }$ 中（204 $r k _ { 5 , i } = g ^ { a \lambda _ { i } ^ { \prime } } ( u _ { \rho ^ { \prime } ( i ) } ^ { t _ { \rho ^ { \prime } ( i ) } ^ { \prime } } ) ^ { - r _ { i } ^ { \prime } }$ ， $r k _ { 6 , i } = g ^ { \prime } { } _ { i } ^ { ' }$ ，随机选择 $\theta \in Z _ { _ p }$ ，$r k _ { 7 } = ( K ) ^ { H _ { 2 } ( \delta ) } g _ { 1 } ^ { ~ \theta } = ( g ^ { b c + a t } ) ^ { H _ { 2 } ( \delta ) } g _ { 1 } ^ { ~ \theta } ~ , ~ r k _ { 8 } = g ^ { \theta }$ ，rkg=LH(δ)=（g²)H(δ），R,=KH(δ)=（(u））），输出重加密密钥 $R K = \{ r k _ { 1 } , r k _ { 2 } , r k _ { 3 } , r k _ { 4 } , r k _ { 5 , i } , r k _ { 6 , i } , r k _ { 7 } , r k _ { 8 } , r k _ { 9 } , R _ { i } \} _ { 1 \leq i \leq l ^ { \prime } } \ \mathrm { ~ e ~ l ~ e ~ } i \neq 1$ （20
+
+$$
+\mathrm { R e } E n c ( P K , C P H , R K ) \to R C P H \circ
+$$
+
+输入原始密文 $C P H$ 和重加密密钥 $R K$ ，云服务器运行重加密算法。若 $I \subset \{ 1 , \cdots , l \} , I = \{ i , \rho ( i ) \in A t t s \}$ ，在属性满足访问结构时，存在一个常数集 $\left\{ \omega _ { i } \in { Z } _ { p } \right\} _ { i \in I }$ ，使得 $\sum _ { i \in I } \lambda _ { i } \omega _ { i } { = } q _ { 2 }$ ，然后计算$r c = \frac { e ( B , r k _ { 7 } ) / e ( B _ { 1 } , r k _ { 8 } ) } { \displaystyle \prod _ { i \in I } \bigl ( e ( C _ { i } , r k _ { 9 } ) e ( D _ { i } , R _ { i } ) \bigr ) ^ { \omega _ { i } } }$ I(e(C,rk)e(DR)，最后输出重加密密文$R C P H ( r k _ { 1 } , r k _ { 2 } , r k _ { 3 } , r k _ { 4 } , r k _ { 5 , i } , r k _ { 6 , i } , r c ) ~ .$
+
+$$
+R s e a r c h ( P K , T K , R C P H )  0 / 1 \ \circ
+$$
+
+输入门限 $\mathit { \Pi } _ { T K }$ 和重加密密文 $C P H$ ，云服务器执行密文检索算法。假设用户的属性集 $A t t s ^ { \prime }$ 满足访问结构 $\left( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } \right)$ ，则一定存在一组值 $\{ \omega _ { i } ^ { \prime } \in Z _ { p } \} _ { i \in I }$ 使得 $\sum _ { \mathrm { i } \in I } \omega _ { i } ^ { \prime } \lambda _ { i } ^ { \prime } = q _ { 2 } ^ { \prime }$ ，其中Ic{l,,l},I={i,ρ(i)∈Ats}。计算过程如下$E r o o t ^ { \prime } = \prod _ { i \in I } ( e ( r k _ { \scriptscriptstyle 5 , i } , T _ { 4 } ) e ( r k _ { \scriptscriptstyle 6 , i } , T _ { \rho ( i ) } ^ { \prime } ) ) ^ { \omega _ { i } ^ { \prime } } , E _ { \scriptscriptstyle 1 } ^ { \prime } = e ( r k _ { \scriptscriptstyle 3 } , T _ { 2 } ) \cdot E r o o t ^ { \prime } ,$ E=e(rk4,T)e(T,rk)，如果E=E则输出1，代表搜索成功，否则输出0。
+
+$$
+R d e c ( P K , S K , R C P H )  m / \perp
+$$
+
+输入被授权人的私钥 $\mathit { s K }$ 和重加密密文 $R C P H$ 。当用户属性集 $A t t s ^ { \prime }$ 不满足访问结构 $( M ^ { \prime } , \rho ^ { \prime } )$ 时,输出 $\perp$ ，否则根据私钥和重加密密文恢复出 $\delta$ ， $r k _ { 1 } / Z ^ { \prime } = \delta$ ，其中$Z ^ { \prime } = \frac { e ( r k _ { 2 } , K ) } { \displaystyle \prod _ { i \in I } \bigl ( e ( r k _ { 5 , i } , L ) e ( r k _ { 6 , i } , K _ { i } ) \bigr ) ^ { \omega _ { i } } }$ I](e(rk,L)e(rk,K)），然后其中解密密文$m = A / r c ^ { \frac { 1 } { H _ { 2 } ( \delta ) } \circ }$
+
+# 4.2 正确性验证
+
+本方案正确性可按如下方式进行验证。a）第e)步搜索验证算法的正确性如下：
+
+$$
+\begin{array} { l } { E r o o t = \displaystyle \prod _ { t = I } ( e ( C _ { t } , T _ { 4 } ) e ( D _ { t } , T _ { \rho ( t ) } ) ) ^ { o _ { t } } } \\ { = \displaystyle \prod _ { i = I } \Biggl ( e ( g ^ { a _ { \lambda } } \left( u _ { \rho ( t ) } ^ { t _ { \rho ( t ) } } \right) ^ { - \gamma _ { i } } , g ^ { t o } ) e ( g ^ { \tau } , ( u _ { i } ^ { s } ) ^ { t \sigma } ) ^ { o _ { t } } } \\ { = \displaystyle \prod _ { i = I } \Biggl ( e ( g ^ { a _ { \lambda } } , g ^ { \prime \prime } ) e \Bigl ( \Bigl ( u _ { \rho ( t ) } ^ { t _ { \rho ( i ) } } \Bigr ) ^ { - \gamma _ { i } } , g ^ { t \prime \prime } \Bigr ) e ( g ^ { \tau } , ( u _ { i } ^ { s } ) ^ { t \sigma } ) ^ { o _ { t } } } \\ { = \displaystyle \prod _ { i = I } \Bigl ( e ( g ^ { a _ { \lambda } } , g ^ { \prime \prime } ) \Bigr ) ^ { o _ { t } } } \\ { = e ( g , g ) ^ { a t o _ { 2 } } . } \end{array}
+$$
+
+$$
+\begin{array} { l } { E _ { 1 } = e ( W _ { 2 } , T _ { 2 } ) \cdot E r o o t } \\ { \ = e ( g ^ { b ( q _ { 1 } + q _ { 2 } ) } g ^ { a H _ { 1 } ( w ) q _ { 1 } } , g ^ { \sigma c } ) e ( g , g ) ^ { a t \sigma q _ { 2 } } } \\ { \ = e ( g ^ { b ( q _ { 1 } + q _ { 2 } ) } , g ^ { \sigma c } ) e ( g ^ { a H ( w ) q _ { 1 } } , g ^ { \sigma c } ) e ( g , g ) ^ { a t \sigma q _ { 2 } } } \\ { \ = e ( g , g ) ^ { b \sigma c ( q _ { 1 } + q _ { 2 } ) } e ( g , g ) ^ { a \sigma c q _ { 1 } H ( w ) } e ( g , g ) ^ { a t \sigma q _ { 2 } } } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { E _ { 2 } = e ( W _ { 1 } , T _ { 1 } ) e ( T _ { 3 } , B ) } \\ & { \quad = e ( g ^ { c q _ { 1 } } , ( g ^ { b } g ^ { a H _ { 1 } ( W ) } ) ^ { \sigma } ) e ( g ^ { c b \sigma } g ^ { a t \sigma } , g ^ { q _ { 2 } } ) } \\ & { \quad = e ( g ^ { c q _ { 1 } } , g ^ { b \sigma } ) e ( g ^ { c q _ { 1 } } , g ^ { a H ( W ) \sigma } ) e ( g ^ { c b \sigma } , g ^ { q _ { 2 } } ) e ( g ^ { a t \sigma } , g ^ { q _ { 2 } } ) } \\ & { \quad = e ( g , g ) ^ { c b \sigma ( q _ { 1 } + q _ { 2 } ) } e ( g , g ) ^ { c a \sigma q _ { 1 } H ( W ) } e ( g , g ) ^ { a t \sigma q _ { 2 } } } \end{array}
+$$
+
+由上式可知，当且仅当 $w = W$ ，即密文中的关键字和门限中的关键字相同时 $E _ { 1 } = E _ { 2 }$ 成立。
+
+b）第f步解密算法正确性验证如下：
+
+$$
+\begin{array} { r l } & { Z = \cfrac { e ( B , K ) } { \displaystyle \prod _ { i \in I } \left( e ( C _ { i } , L ) e ( D _ { i } , K _ { i } ) \right) ^ { \omega _ { i } } } } \\ & { = \cfrac { e ( g ^ { \alpha } g ^ { \alpha + \alpha } ) } { \displaystyle \prod _ { i \in I } \left( e ( g ^ { \alpha \mathcal { A } } ( u _ { \rho ( i ) } ^ { \prime \alpha } ) ^ { - \sigma ^ { \prime } } , g ^ { \alpha } ) e ( g ^ { \prime } , ( u _ { i } ^ { \prime } ) ^ { \prime } ) \right) ^ { \omega _ { i } } } } \\ & { = \cfrac { e ( g ^ { \alpha } , g ^ { \alpha } ) e ( g ^ { \alpha } g , g ^ { \alpha } ) } { \displaystyle \prod _ { i \in I } \left( e ( g ^ { \alpha \mathcal { A } } , g ^ { \prime } ) e ( ( u _ { \rho ( i ) } ^ { \prime \alpha } ) ^ { - \tau } , g ^ { \prime } ) e ( g ^ { \prime } , ( u _ { i } ^ { \prime } ) ^ { \prime } ) \right) ^ { \omega _ { i } } } } \\ & { = e ( g ^ { \alpha } , g ^ { \kappa } ) } \end{array}
+$$
+
+$$
+A / Z = m e ( g , g ) ^ { b c q _ { 2 } } / e ( g , g ) ^ { b c q _ { 2 } } = m
+$$
+
+c）第 $\mathbf { h } )$ 步重加密密文算法中的 $r c$ 计算如下:
+
+$$
+\begin{array} { r l } & { r c = \cfrac { e ( B , F , \eta ) ( e ( B , \frac { 1 } { r } ) , e ) } { \coth ^ { 2 } ( e ( C , \gamma , \hat { H } ) e ( B , \frac { 1 } { r } ) ) ^ { 3 } } } \\ & { = \cfrac { e ( \phi ^ { \pi } , \phi ) ( \phi ^ { \pi , \kappa + 1 } ) ^ { 2 } \hat { F } ^ { 2 } ) ^ { 6 } } { \coth ^ { 2 } ( e ( \phi ^ { \pi / 2 } , \phi ) ^ { \pi } , ( \phi ^ { \pi } ) ^ { \pi } , ( \phi ^ { \pi } ) ^ { \pi } ) \coth ^ { 2 } e ( \phi ^ { \pi } , \frac { \theta ^ { \pi } } { r } ) ^ { 3 / 6 / 6 / 3 } ) ^ { 3 / 8 } } } \\ & { = \cfrac { e ( \phi ^ { \pi } , \phi ) ( \phi ^ { \pi / 2 } , \phi ) ( \phi ^ { \pi / 4 } , \theta ^ { \pi / 6 } ) } { \coth ^ { 2 } ( e ( \phi ^ { \pi / 3 } , \phi ^ { \pi } ) e ) \operatorname { c r o s s u p } _ { \phi ^ { \pi } } ( \phi ^ { \pi / 3 } , ( \phi ^ { \pi } ) ^ { \pi } , ( \phi ^ { \pi } ) ^ { \pi } ) \coth ^ { 3 } e ( \phi ^ { \pi } , \frac { \theta ^ { \pi } } { r } ) ^ { 3 / 6 / 3 } ) ^ { 3 / 6 } } } \\ & { = \cfrac { e ( \phi ^ { \pi } , \phi ^ { \pi } ) ^ { 3 / 6 / 3 } e ( \phi ^ { \pi } , \phi ^ { \pi } ) ^ { 3 / 6 / 3 } } { \coth ^ { 2 } ( e ( \phi ^ { \pi / 3 } , \phi ^ { \pi } ) ^ { \pi / 6 } ) ^ { 3 / 8 } } } \\ & { = e ( \phi ^ { \pi / 6 } , \phi ^ { \pi / 3 } , ( \phi ^ { \pi / 6 } ) ^ { \pi / 6 } ) ^ { 3 / 8 } } \\ & { = e ( \phi ^ { \pi / 6 } , \phi ^ { \pi / 3 } , ( \phi ^ { \pi / 6 } ) ^ { \pi / 6 } ) ^ { 3 / 8 } } \end{array}
+$$
+
+d）第i)步重加密密文的搜索验证算法正确性如下：
+
+$$
+\begin{array} { r l } &  E r o o t ^ { \prime } = \displaystyle \prod _ { i \neq l } \big ( e ( r k _ { s , i } , T _ { \# } ) e ( r k _ { \epsilon _ { i } , i } , T _ { \rho ( i ) } ) \big ) ^  \theta _ { i ^ { \prime } } ^  \theta _ { i ^ { \prime } } ^  \theta _ { i ^ { \prime } } ^  \theta _ { i ^ { \prime } } ^  \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { \prime } ^ { \theta _ { \prime } } ^ { \theta _ { i ^ { \prime } } ^ { \theta _ { \prime } ^ { \theta } _ { i ^ { \prime } ^ { \theta } } ^ { \theta _ { \prime } ^ { \theta _ { \prime } } ^ { \theta _ { i ^ } } ^ { \theta _ { \prime } ^ { \theta _ { \prime } } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ { \theta } ^ { \theta _ { \prime } ^ } } } } } } } } } } } } } } } } } } } } } } } } } } } \\ & { = \displaystyle \prod _ { i \neq l } } \bigg ( e ( g ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha } } } } } } } } } } } } \theta ^ { \alpha } \Big ( \left( u _ { \rho ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha } } } } } } } } \right) ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha ^ { \alpha } } } } } } } } \\ &  = \displaystyle \prod _ { i \neq l } \Big ( e ( g ^  \alpha ^  \alpha ^  \alpha ^  \alpha ^  \alpha ^  \alpha ^  \alpha ^ \end{array}
+$$
+
+$$
+\begin{array} { r l } & { E _ { 1 } ^ { \prime } = e ( r k _ { 3 } , T _ { 2 } ) \cdot E r o o t ^ { \prime } } \\ & { \quad = e ( g ^ { b ( q _ { 1 } ^ { \prime } + q _ { 2 } ^ { \prime } ) } g ^ { a H _ { 1 } ( K W ) q _ { 1 } ^ { \prime } } , g ^ { \sigma c } ) e ( g , g ) ^ { a t \sigma q _ { 2 } ^ { \prime } } } \\ & { \quad = e ( g ^ { b ( q _ { 1 } ^ { \prime } + q _ { 2 } ^ { \prime } ) } , g ^ { \sigma c } ) e ( g ^ { a H ( K W ) q _ { 1 } ^ { \prime } } , g ^ { \sigma c } ) e ( g , g ) ^ { a t \sigma q _ { 2 } ^ { \prime } } } \\ & { \quad = e ( g , g ) ^ { b \sigma c ( q _ { 1 } ^ { \prime } + q _ { 2 } ^ { \prime } ) } e ( g , g ) ^ { a \sigma c q _ { 1 } ^ { \prime } H ( K W ) } e ( g , g ) ^ { a t \sigma q _ { 2 } ^ { \prime } } } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { E _ { 2 } = e ( r k _ { 4 } , T _ { 1 } ) e ( T _ { 3 } , r k _ { 2 } ) } \\ & { \quad = e ( g ^ { c q _ { 1 } ^ { \prime } } , ( g ^ { b } g ^ { a H _ { 1 } ( W ) } ) ^ { \sigma } ) e ( g ^ { c b \sigma } g ^ { a t \sigma } , g ^ { q _ { 2 } ^ { \prime } } ) } \\ & { \quad = e ( g ^ { c q _ { 1 } ^ { \prime } } , g ^ { b \sigma } ) e ( g ^ { c q _ { 1 } ^ { \prime } } , g ^ { a H ( W ) \sigma } ) e ( g ^ { c b \sigma } , g ^ { q _ { 2 } ^ { \prime } } ) e ( g ^ { a t \sigma } , g ^ { q _ { 2 } ^ { \prime } } ) } \\ & { \quad = e ( g , g ) ^ { c b \sigma ( q _ { 1 } ^ { \prime } + q _ { 2 } ^ { \prime } ) } e ( g , g ) ^ { c a \sigma q _ { 1 } ^ { \prime } H ( W ) } e ( g , g ) ^ { a t \sigma q _ { 2 } ^ { \prime } } } \end{array}
+$$
+
+由上式可知，当且仅当 $K W = W$ ，即重加密密文中的关键字和门限中的关键字相同时， $E _ { 1 } ^ { \prime } = E _ { 2 } ^ { \prime }$ 成立。
+
+e）第j)步重解密算法的正确性验证如下：
+
+$$
+\begin{array} { r l } & { Z ^ { \prime } = \cfrac { e ( r k _ { 2 } , K ) } { \underset { t e f f } { \prod } \left( e ( r k _ { s , s } , L ) e ( r k _ { s , s } , K _ { t } ) \right) ^ { \omega _ { 0 } } } } \\ & { = \frac { e ( g ^ { * } , g ^ { \mathrm { i } \times \omega _ { - 1 } } ) } { \underset { i \neq i } { \prod } \left( e ( g ^ { \omega _ { - 1 } ^ { \alpha _ { i } ^ { \prime } } } ( u _ { \rho ( i ) } ^ { \prime \alpha _ { - 1 } ^ { \prime } ) - \varepsilon _ { j } ^ { \prime } } g ^ { * } ) e ( g ^ { * } , ( u _ { i } ^ { \prime } ) ^ { \prime } ) \right) ^ { \omega _ { 1 } ^ { \prime } } } } \\ & { = \frac { e ( g ^ { * } , g ^ { \mathrm { i } \times } ) e ( g ^ { * } , g ^ { \alpha _ { i } ^ { \prime } } ) } { \underset { i \in i } { \prod } \left( e ( g ^ { \omega _ { - 1 } ^ { \alpha _ { i } ^ { \prime } } } , g ^ { * } ) e ( ( u _ { \rho ( i ) } ^ { \prime \prime \prime } ) ^ { - \varepsilon _ { j } } g ^ { * } ) e ( g ^ { * } , ( u _ { i } ^ { \prime } ) ^ { \prime } ) \right) ^ { \omega _ { 1 } } } } \\ & { = e ( g ^ { * } , g ^ { \mathrm { i } \times } ) } \end{array}
+$$
+
+$$
+r k _ { 1 } / Z ^ { \prime } = \delta e ( g , g ) ^ { b c q _ { 2 } ^ { \prime } } / e ( g , g ) ^ { b c q _ { 2 } ^ { \prime } } = \delta
+$$
+
+$$
+A / r c ^ { \frac { 1 } { H _ { 2 } ( \delta ) } } = m e ( g , g ) ^ { b c q _ { 2 } } / e ( g ^ { q _ { 2 } } , g ^ { b c } ) = m
+$$
+
+由上式可知，当且仅当能够找到 $\{ \omega _ { \mathrm { i } } \in \boldsymbol { Z } _ { p } \} _ { i \in I }$ 这样一组向量使得 $\prod _ { i \in I } \lambda _ { i } ^ { \prime } \omega _ { i } = q _ { 2 } ^ { \prime }$ 时，才可以得到消息 $\mathbf { \Sigma } _ { m }$ 。
+
+# 5 安全性分析与证明
+
+安全的可搜索加密要求云服务器不能获得关于明文的任何信息，本文的密文包括消息部分以及关键字部分，所以下面证明了本方案对于密文的选择明文攻击的安全性以及选择关键字攻击的安全性。
+
+定理1假设 $q$ -BDHE 问题是难解的，则本方案在随机预言模型下是IND-sAS-CPA安全。
+
+证明假设在游戏中存在一个多项式时间的敌手，能以$\varepsilon = A d \nu _ { _ A }$ 的优势赢得本方案，则可构造一个挑战者 $c$ 进行判定性 $\mathsf { q }$ parallel BDHE 假设，从而判断 $T = e ( g , g ) ^ { a ^ { q + 1 } \cdot s }$ 还是 $T \in G _ { _ { T } }$ 。挑战者 $c$ 和敌手 $A$ 进行如下选择明文攻击游戏：
+
+挑战者 $c$ 输入 $( p , g , G , G _ { \scriptscriptstyle T } , e )$ ,q-parallel BDHE 的实例 $\vec { } _ { y , T }$ 。
+
+攻击者初始化：首先敌手 $A$ 向挑战者 $c$ 宣布要挑战的目标访问结构 $( \boldsymbol { M } ^ { * } , \boldsymbol { \rho } ^ { * } , \boldsymbol { \Gamma } ^ { * } )$ ，其中 $\boldsymbol { M } ^ { * }$ 是一个 $\boldsymbol { l } ^ { * } \times \boldsymbol { n } ^ { * }$ 大小的矩阵， $\boldsymbol { l } ^ { * }$ 是行数， $\boldsymbol { n } ^ { * }$ 是列数， $l ^ { * } , n ^ { * } \leq q$ ， $\Gamma ^ { * } = ( t _ { \rho ( 1 ) } ^ { * } , \cdots , t _ { \rho ( l ) } ^ { * } ) \in Z _ { p } ^ { l }$ ，其中 $\rho ( i )$ （204对应属性名， $t _ { \rho ( i ) } ^ { * }$ 对应属性值。
+
+系统初始化：挑战者 $c$ 选取阶为素数 $p \ , \ g , g _ { 1 }$ 为的群 $G$ 上的生成元。随机选取 $\alpha ^ { \prime } , a \in Z _ { p } ^ { * }$ ，令 $b c = \alpha ^ { \prime } + a ^ { q + 1 }$ ，则e(g,g)=e(g",ga")e(g,g)α。挑战者C返回系统公钥$p u b { = } \{ g ^ { a } , e ( g , g ) ^ { b c } \}$ 和系统主密钥 $\scriptstyle { m s k = \{ a , b , c \} }$ ，其中挑战者 $c$ （204对私钥不可知。下面介绍如何通过建立表 $H _ { j } ^ { l i s t } ( j \in \left\{ 1 , 2 \right\} )$ 来模拟执行随机预言 $H _ { j } ( j \in \{ 1 , 2 \} )$ 。敌手 $A$ 可以在任何时候进行适应性的询问随机预言 $H _ { j } ( j \in \{ 1 , 2 \} )$ ， $\boldsymbol { H } _ { j }$ 由挑战者 $c$ 控制，挑战者$c$ 持有 $H _ { j } ^ { l i s t } ( j \in \left\{ 1 , 2 \right\} )$ 列表，列表起初为空，挑战者 $c$ 按如下回答询问。
+
+(a) $H _ { 1 } ( k w )$ ：如果查询的关键字 $k w$ 在随机预言机 $H _ { 1 } ^ { \mathit { l i s t } }$ 在表中已存在 $\left( k w , \kappa _ { 1 } \right)$ ，则返回已有值 $\kappa _ { \mathrm { l } }$ ，这里 $\boldsymbol { \kappa } _ { 1 } \in \boldsymbol { Z } _ { p } ^ { \ * }$ ；否则，挑战者 $c$ 设置 $H _ { 1 } ( k w ) = \kappa _ { 1 }$ ，将 $\left( k w , \kappa _ { 1 } \right)$ 添加到 $H _ { 1 } ^ { \mathit { l i s t } }$ 中，并返回$H _ { 1 } ( k w ) = \kappa _ { 1 }$ 给敌手 $A$ 。
+
+(b) $H _ { 2 } ( \delta )$ ：如果查询的 $\delta$ 在随机预言机 $H _ { 2 } ^ { l i s t }$ 在表中已存在 $( \delta , { \kappa } _ { 2 } )$ ，则返回已有值 $\boldsymbol { \kappa } _ { 2 }$ ，这里 $\kappa _ { 2 } \in Z _ { p } ^ { * }$ ；否则，挑战者 $c$ 设置 $H _ { 2 } ( \delta ) = \kappa _ { 2 }$ ，将 $( \delta , { \kappa } _ { 2 } )$ 添加到 $H _ { 2 } ^ { l i s t }$ 中，并返回 $H _ { 2 } ( \delta ) = \kappa _ { 2 }$ 给敌手A°
+
+阶段1敌手 $A$ 进行一系列查询，挑战者 $c$ 按如下进行回答。
+
+(a) $O _ { S K } ( A t t s )$ ：敌手 $A$ 按如下为属性集 $A t t s$ 构造私钥。如果$_ { A t t s }$ 满足目标访问结构 $( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ ，则挑战者 $c$ 返回 $\perp$ ，如果在 $S K ^ { l i s t }$ 中 $\left( S K , A t t s , ^ { * } \right)$ 记录存在，则返回对应值 $s \boldsymbol { K }$ ；如果Atts不满足目标访问结构 $( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ ，则挑战者 $c$ 响应敌手的私钥请求。首先随机选取 $r \in { Z _ { p } } ^ { * }$ ，由 LSSS 的重构特性知，存在一个常数向量 $\overrightarrow { \omega } = ( \omega _ { 1 } , . . . , \omega _ { { } _ { n } ^ { * } } ) \in Z _ { p } ^ { * }$ ，其中 $\omega _ { 1 } = - 1$ 。如果$\forall i , \rho ^ { * } ( i ) \in A t t s$ ，则有 $\stackrel { \longrightarrow } { \omega } \cdot \boldsymbol { M } _ { i } ^ { * } = 0$ 。
+
+令 t=r+@a + @a9-1+..+ @a9-n+1 则$L = g ^ { r } \prod _ { i = 1 , . . . , n ^ { * } } ( g ^ { a ^ { q + 1 - i } } ) ^ { \omega _ { i } } = g ^ { t } , K = g ^ { \alpha ^ { * } } g ^ { a r } \prod _ { i = 2 , . . . , n ^ { * } } ( g ^ { a ^ { q + 2 - i } } ) ^ { \omega _ { i } }$ 。对于集合$A t t s$ 中任意元素 $s _ { i }$ 存在 $K _ { i } = ( u _ { i } ^ { { s _ { i } } } ) ^ { t }$ 。将 $\left( A t t s , S K \right)$ 添加到 $S K ^ { l i s t }$ 中，并返回私钥 $s _ { K }$ 给敌手 $A$ 。(b)用一个属性集 $s$ 和访问结构 $( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } )$ 来访问重加密密钥。如果在 $r k ^ { l i s t }$ 中 $( S , ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) , k w , r k _ { s ^ { \prime } \to ( M ^ { \prime } , \rho ^ { \prime } , \Gamma ^ { \prime } ) } )$ 记录已存在，挑战者 $c$ 返回重加密密钥 $R K$ 。否则,如果属性集 $A t t s$ 满足访问结构 $( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ ，挑战者 $c$ 返回 $\perp$ 给敌手 $A$ 并终止游戏。如果属性集 $A t t s$ 不满足访问结构 $( M ^ { * } , \rho ^ { * } , \Gamma ^ { * } )$ ，挑战者 $c$ 先运行$O _ { s { \scriptscriptstyle K } } ( A t t s )$ 产生私钥 $s _ { K }$ ，然后再按如下输出重加密密钥 $R K ^ { \mathrm { ~ \circ ~ } }$ 挑战者 $c$ 随机选择 $\theta \in Z _ { _ { p } } , r _ { 1 } ^ { \prime } , \cdots , r _ { l } ^ { \prime } \in Z _ { _ { p } }$ ，计算重加密密钥（20 $r k _ { 7 } = \left( K \right) ^ { H _ { 2 } \left( \delta \right) } g _ { 1 } ^ { \ \theta } = \left( g ^ { b c + a t } \right) ^ { H _ { 2 } \left( \delta \right) } g _ { 1 } ^ { \ \theta }$ （20 ， rkg=g（20 $r k _ { 9 } = L ^ { H _ { 2 } ( \delta ) } = \left( g ^ { t } \right) ^ { H _ { 2 } ( \delta ) }$ ， $R _ { i } = K _ { i } ^ { { \cal H } _ { 2 } ( \delta ) } = \left( ( u _ { i } ^ { s _ { i } } ) ^ { t } \right) ^ { { \cal H } _ { 2 } ( \delta ) }$ 。最后，挑战者$c$ 返回 $R K$ 给敌手。最后模拟者将 $\left( A t t s , S K \right)$ 和$( A t t s , ( M ^ { \prime } , \rho ^ { \prime } ) , k w ^ { \prime } , R K )$ 分别加入私钥列表 $S K ^ { l i s t }$ 和重加密密钥列表 $r k ^ { l i s t }$ 。
+
+挑战：敌手 $A$ 向挑战者 $c$ 提交两个长度相同的密文$\left( m _ { 0 } , m _ { 1 } \right)$ ，挑战者 $c$ 随机选取 $b \in \{ 0 , 1 \}$ ，加密消息 $m _ { b }$ ，并按如下进行回答。对于 $\boldsymbol { M } ^ { * }$ 的每一行 $i$ ，设置 $s _ { i } = \rho ^ { * } ( i )$ ，随机选取$\vec { \nu } = ( q _ { 2 } , q _ { 2 } \cdot a + y _ { 2 } ^ { \prime } , q _ { 2 } \cdot a ^ { 2 } + y _ { 3 } ^ { \prime } , \cdots , q _ { 2 } \cdot a ^ { n - 1 } + y _ { n } ^ { \prime } \in Z _ { p } )$ ，然后选择
+
+$r _ { 1 } ^ { \prime } , \cdots , r _ { l } ^ { \prime } \in Z _ { p }$ ，向量 $\vec { \mathbf { \nabla } } _ { \nu } ^ { - }$ 用来分享秘密 $q _ { 2 }$ ，对于所有的 $i \in \{ 1 , \cdots , l ^ { * } \}$ ，（20 $R _ { i }$ 表示所有的 $i \neq k$ ，但 $\rho ^ { * } ( i ) = \rho ^ { * } ( k )$ 的集合。然后计算挑战者选择 $A ^ { ^ { * } } \in \{ 0 , 1 \} ^ { 2 k }$ 隐含定义 $T \cdot e ( g ^ { q _ { 2 } } , g ^ { a ^ { \prime } } ) = A ^ { * } / m _ { b }$ ，并设置（204号 $\boldsymbol { B } ^ { * } = \boldsymbol { g } ^ { q _ { 2 } }$ 和 $\boldsymbol { B } _ { 1 } ^ { * } = g _ { 1 } ^ { q _ { 2 } }$ ： 对于 $i = 1 , \cdots , n ^ { * }$ （204  
+$C _ { i } ^ { * } = ( { u } _ { \rho ( i ) } ^ { t _ { \rho ( i ) } } ) ^ { - r _ { i } ^ { \prime } } ( \prod _ { j = 2 , . . . , n ^ { * } } ( g ^ { a } ) ^ { { M } _ { i , j } ^ { * } y _ { i } ^ { \prime } } ) g ^ { b _ { i } \cdot q _ { 2 } \cdot ( - z _ { * } ^ { * } ) } .$   
+$\prod _ { k \in { \cal R } _ { i } } \prod _ { j = 1 , \cdots , n ^ { * } } ( g ^ { a ^ { j } q _ { 2 } ( b _ { i } / b _ { k } ) } ) ^ { M _ { k , j } ^ { * } } ) ^ { - 1 }$ ， $D _ { i } ^ { * } = g ^ { r _ { i } ^ { \prime } + s b _ { i } }$ ，因此创建密文（20 $C T ^ { * } = ( A ^ { * } , B ^ { * } , B _ { 1 } ^ { * } , C _ { i } ^ { * } , D _ { i } ^ { * } ) _ { 1 \leq i \leq n }$ 。若 $T = e ( g , g ) ^ { a ^ { q + 1 } s }$ ，那么 $\boldsymbol { c } \boldsymbol { T } ^ { * }$ 是一个有效的密文。
+
+阶段2像阶段一中的一样进行预言机询问。
+
+猜测：敌手 $A$ 给出猜测 $b ^ { \prime } \in \{ 0 , 1 \}$ ，当 $b = b$ 时，挑战者 $c$ 输出1，也就是 $T = e \big ( g , g \big ) ^ { a ^ { q + 1 } s }$ 。否则挑战者 $c$ 输出0，也就是$T$ 为 $G _ { _ T }$ 上的随机元素。下面计算挑战者 $c$ 成功的概率。
+
+当输出为1时，即 $T = e \big ( g , g \big ) ^ { a ^ { q + 1 } s }$ 时，也就是敌手得到的是关于 $m _ { b }$ 的有效密文，模拟是完美的。通过定义，本文知道敌手$A$ 能正确猜测结果具有不可忽视的优势 $\mathbf { \sigma } _ { \varepsilon }$ ，因此概率为$\mathrm { P r } \biggl [ b ^ { \prime } \ne b \mid \Bigl ( \stackrel {  } { y } , T = e \bigl ( g , g \bigr ) ^ { a ^ { q + 1 } s } \Bigr ) = 0 \biggr ] = \frac { 1 } { 2 } + A d \nu _ { _ A } \circ$ （20
+
+当输出为0时，即 $T$ 是 $G _ { _ T }$ 上的一个随机数，敌手获取不到任何关于密文的信息，因此，猜测正确率为$\mathrm { P r } \biggl [ b ^ { \prime } \ne b \vert \Bigl ( \stackrel {  } { y } , T \in G _ { T } \Bigr ) = 0 \biggr ] = \frac { 1 } { 2 } \ \circ$ （20
+
+这样，挑战者 $c$ 在判定性 $\mathsf { q }$ -parallelBDHE 游戏中就有不可忽略的优势 $\frac { \varepsilon } { 2 }$
+
+定理2假设该方案在随机预言模型下是sAS-CPA安全的，那么该方案是选择可抵抗同谋攻击的。
+
+证明在 IND-sAS-CPA 游戏中，敌手 $A$ 能从 $O _ { r k }$ 中获得$R K _ { A t t s  ( M ^ { \prime } , \rho ^ { \prime } ) }$ 和 $R K _ { A t t s ^ { \prime }  ( M ^ { \prime } , \rho ^ { \prime } ) }$ ，这里分别需要 $\boldsymbol { A t t s } \left| = \left( \boldsymbol { M } ^ { * } , \boldsymbol { \rho } ^ { * } \right) \right.$ 和$A t t s ^ { \prime } \models ( M ^ { \prime \prime } , \rho ^ { \prime \prime } )$ 。因为游戏中定义的限制，敌手 $A$ 不能询问任意 $A t t s ^ { \prime } \models ( M ^ { \prime } , \rho ^ { \prime } )$ 的私钥 $s _ { K }$ （敌手 $A$ 也不能询问Atts|=(M,p\*）的私钥SK），但是可以询问任意的$A t t s ^ { \prime \prime } | = ( M ^ { \prime \prime } , \rho ^ { \prime \prime } )$ 的私钼 $S K _ { A t t s ^ { \prime } }$ 。
+
+假设sAS-CPA安全的方案是不能抵抗选择同谋攻击的。那么敌手 $A$ 能从 $r k _ { A t t s ^ { \prime }  ( M ^ { \prime } , \rho ^ { \prime } ) }$ 中通过同谋获得 $\mathit { s } _ { K }$ 。使用$r k _ { A t t s  ( M ^ { \prime } , \rho ^ { \prime } ) }$ ，敌手 $A$ 能重加密挑战密文 $C P H$ ，然后，敌手 $A$ 用$s _ { K }$ 解密重加密密文，以便输出 $b$ 的值，这个就与sAS-CPA安全的定义矛盾。所以该假设不成立，证明完毕。
+
+定理3若在通用模型下DL 假设成立，则不存在多项式时间敌手以不可忽略的优势区分选择关键字攻击游戏。
+
+证明在选择关键字攻击游戏中敌手尝试区分gb(q1+g2)gaH(wi)a ，gb gb(q+q2)gaH(")a。挑战者随机选择∈Z，g∈G，如果敌手赢得选择关键字攻击游戏的优势为ε，则敌手存在 $\frac { \varepsilon } { 2 }$ 的概率区分 $g ^ { \Theta }$ 和 $g ^ { a ( t _ { 1 } + t _ { 2 } ) + t _ { 1 } H _ { 1 } ( w ) }$
+
+系统建立：挑战者建立系统，对于属性有 $\forall A t t s _ { x } \in [ 1 , | U | ]$ ，挑战者选择生成元 $g \in G$ ，然后选择 $u _ { x } \in G$ ， $a , b , c \in Z _ { p }$ ，将参数 $\{ g ^ { a } , g ^ { b } , g ^ { c } , u _ { 1 } , \cdots , u _ { n } \}$ 发送给敌手。敌手选择一个要挑战的访问结构 $_ { ( M , \rho ) }$ 发送给挑战者。
+
+阶段1：敌手可以在任意多项式时间内多次查询以下预言机。
+
+a) $O _ { \scriptscriptstyle K e y G e n } ( A t t s )$ ：敌手输入属性集，挑战者执行密钥生成算法，随机选择 $t \in Z _ { p }$ ，计算 $K = g ^ { a c } g ^ { b t }$ ， $L = g ^ { t }$ ， $K _ { i } = ( u _ { i } ^ { s _ { i } } ) ^ { t }$ ，$\forall s _ { i } \in A t t s$ 。挑战者将 $\{ A t t s , K , L , \{ K _ { i } \} _ { \forall s _ { i } \in A t t s } \}$ 返回给敌手。
+
+b) $O _ { T o k e n } ( A t t s , w )$ ：挑战者先查询预言机 $O _ { \scriptscriptstyle { K e y G e n } }$ 生成私钥${ \cal S } K = \{ { \cal A } t t s , K , L , \{ K _ { i } \} _ { s _ { i } \in A t t s } \}$ ，然后选择随机值 $\sigma \in Z _ { \mathfrak { p } }$ ，之后计算$T _ { 1 } = ( g ^ { b } g ^ { a H ( W ) } ) ^ { \sigma } , T _ { 2 } = g ^ { \sigma \mathrm { c } } , T _ { 3 } = K ^ { \sigma } = g ^ { b c \sigma } g ^ { a \sigma } , T _ { 4 } = L ^ { \sigma } = g ^ { t \sigma } ,$ ∀x∈AttsTx=(Kx)=(u)σ，然后将门限值TK={T,T,T,T4,T}传给敌手，如果属性集合满足访问结构，那么就将关键字w加入Lk。
+
+挑战阶段：敌手给出两个等长的关键字 $w _ { 0 } , w _ { 1 } \notin { L } _ { k w }$ ，挑战者产生两个随机值 $q _ { 1 } , q _ { 2 } \in Z _ { p }$ ，利用线性共享矩阵共享秘密 $q _ { 2 }$ 。挑战者随机选择 $\lambda \in \{ 0 , 1 \}$ ，若 $\lambda = 0$ ，挑战者随机选择 $\Theta \in Z _ { p }$ ，计算 $\begin{array} { r } { \dot { } ^ { { } ^ { \cdot } } W _ { 1 } = g ^ { c q _ { 1 } } \ , \ W _ { 2 } = g ^ { \circledast } \ , \ W _ { 3 } = g ^ { q _ { 2 } } \ , \ C _ { x } = g ^ { a \lambda _ { x } } ( u _ { \rho ( x ) } ^ { t _ { \rho ( x ) } } ) ^ { - r _ { x } } \ , \ D _ { x } = g ^ { r _ { x } } \ , } \end{array}$ （204号否则计算 $g ^ { a ( t _ { 1 } + t _ { 2 } ) + t _ { 1 } H _ { 1 } ( w ) }$ 。
+
+阶段2若敌手能够从预言机的输出中构造出（20 $e ( g , g ) ^ { \Theta a ( q _ { 1 } + q _ { 2 } ) }$ ，则敌手可以区分 $g ^ { \Theta }$ ， $g ^ { a ( q _ { 1 } + q _ { 2 } ) }$ 。因此本文需要证明敌手只能以可忽略的优势构造出 $e ( g , g ) ^ { \Theta a ( q _ { 1 } + q _ { 2 } ) }$ ，即敌手只能以可以忽略的优势赢得选择关键字攻击游戏。
+
+在通用模型中 $\varphi _ { \scriptscriptstyle 0 } , \varphi _ { \scriptscriptstyle 1 }$ 是从 $Z _ { _ { p } }$ 到一个元素个数为集合 $p ^ { 3 }$ 的内射函数，敌手只能以可以忽略的概率从 $\varphi _ { \scriptscriptstyle 0 } , \varphi _ { \scriptscriptstyle 1 }$ 的映射中猜中元素。因此本文考虑敌手从预言机输出中构造 $e ( g , g ) ^ { \delta a ( q _ { 1 } + q _ { 2 } ) }$ 的概率。
+
+考虑对一些 $g ^ { \delta }$ 如何构造 $e ( g , g ) ^ { \delta a ( q _ { 1 } + q _ { 2 } ) }$ ， $q _ { 1 }$ 只在 $c q _ { 1 }$ 中出现，为了构造 $e ( g , g ) ^ { \delta a ( q _ { 1 } + q _ { 2 } ) }$ ， $\boldsymbol { \delta }$ 需要包含 $\mathbf { \Psi } _ { c }$ 。设 $\scriptstyle { \delta = } \delta ^ { \prime } c$ ，这样敌手为了构造 $e ( g , g ) ^ { \delta a ( q _ { 1 } + q _ { 2 } ) }$ ，敌手为了构造 $e ( g , g ) ^ { \delta a ( q _ { 1 } + q _ { 2 } ) }$ 需要构造$\delta ^ { \prime } a c q _ { 2 }$ 。这将要使用到 $q _ { 2 } , a c + b t$ ，因为 $q _ { 2 } ( a c + b t ) = a c q _ { 2 } + b t q _ { 2 } \ \mathrm { ~ c ~ }$ 敌手需要消去 $b t q _ { 2 }$ ，为了消去 $b t q _ { 2 }$ ，需要使用 $\lambda _ { i } \ : , \ : \ : \ : r _ { i } \ : , \ : \ : \ : t \ : , \ : \ : \ : \lambda _ { i }$ 是根据访问结构 $( M , \rho )$ 共享 $q _ { 2 }$ 。但是根据这些元组不可能构造出$b t q _ { 2 }$ ，因为当且仅当密钥中的属性集合满足密文中的访问结构才可以被重构。
+
+因此本文可以得出结论，敌手只能以一个可以忽略的优势赢得改进的选择关键字攻击游戏，证明结束。
+
+# 6 性能分析
+
+本文主要从计算开销和通信开销两个方面与密文可搜索方案Wang[和方案Zheng[8]的进行了比较与分析。
+
+首先将方案性能与通信开销与另外两个方案的进行了对比，如表1所示。其中 $s$ 代表用户的属性个数， $\vert G \vert$ 代表 $G$ 群中一个元素的长度。通常在可搜索加密方案中，通信开销主要是指密文长度，存储开销主要指密钥长度，本方案在通信开销上与Wang[6]、Zheng[8]几乎一致,但是其存储开销是Zheng[8]的一半。
+
+表1方案性能的对比  
+
+<html><body><table><tr><td>方案</td><td>Wang[6]</td><td>Zheng[8]</td><td>本方案</td></tr><tr><td>隐藏访问结构</td><td>否</td><td>香</td><td>是</td></tr><tr><td>可搜索</td><td>是</td><td>是</td><td>是</td></tr><tr><td>可代理</td><td>香</td><td>否</td><td>是</td></tr><tr><td>关键字更新</td><td>否</td><td>否</td><td>是</td></tr><tr><td>访问结构</td><td>LSSS</td><td>树型</td><td>LSSS</td></tr><tr><td>密文长度</td><td>(2l+1)|G|+|Gr|</td><td>(2l+1)|G|</td><td>(2l+4)|G|+|Grl</td></tr><tr><td>密钥长度</td><td>(s +2)|G|</td><td>(2s +1)|G|</td><td>(s + 2)|G|</td></tr></table></body></html>
+
+表2是本文方案与Wang[6]、Zheng[8进行计算开销的对比结果,其中 $P$ 代表双线性操作， $E$ 代表群 $G$ 上的一次指数操作，$E _ { \scriptscriptstyle T }$ 代表群 $G _ { _ T }$ 上的一次指数操作， $s$ 代表用户的属性个数， $\mathbf { \xi } _ { l }$ 代表访问结构中的属性。由于哈希函数的计算量很小，所以本文在下面忽略了哈希函数的计算量。从表2可以看出本文的方案在密钥生成、密文生成、门限的生成阶段以及搜索阶段的计算开销都相对较小，可见本文在增加了隐藏访问结构与关键字更新功能的同时，方案的计算开销以及密文密钥的长度都未见明显增长，所以本方案具有很大的实用性。
+
+表2计算开销的对比  
+
+<html><body><table><tr><td>方案</td><td>Wang[6]</td><td>Zheng[8]</td><td>本方案</td></tr><tr><td>密钥生成</td><td>(s+2)E</td><td>(2s+2)E</td><td>(s+2)E</td></tr><tr><td>密文生成</td><td>P+3lE +2ET</td><td>(2l + 4)E</td><td>P +(2l +4)E</td></tr><tr><td>门限生成</td><td>(s +2)E</td><td>(2s+4)E</td><td>(s +4)E</td></tr><tr><td>搜索</td><td>(2l + 1)P+lET</td><td>(2l +3)P+IET</td><td>(l + 3)P+IET</td></tr></table></body></html>
+
+# 7 结束语
+
+本文在现有的基于属性的可搜索加密的基础上，针对云计算环境中存在的安全存储、共享和搜索问题，提出了一种支持代理重加密的具有隐藏访问结构的功能基于属性的密文检索方案。不仅实现了隐私保护，还解决了授权用户不在线时，密文搜索以及密文解密权限委托给其他用户的问题，并且可支持关键字的更新。为了信息的有效共享，本文有效地结合了代理重加密，充分利用云系统的计算能力，由云系统利用授权用户提供的重加密密钥和新的关键字实现密文的转换，减轻了数据属主加密解密的负担，而且节省了本地存储以及管理维护的成本。通过通信开销和计算开销的对比可以看出本文加密、解密搜索效率较高，计算复杂度较小，所以本文具有较大的理论研究价值和实际应用价值。但是本方案未能考虑密文、密钥等消息长度随着属性的个数的增加而增加的问题，因此如何减少密文以及密钥的长度是本文今后需要进一步深入研究的问题。
+
+# 参考文献：
+
+[11] Sun W, Yu S,Lou W,etal. Protecting your right: Attribute-based keyword search with fine-grained owner enforced search authorization in the cloud [C]//Proc ofIEEE INFOCOM.2014: 226-234.   
+[12] Zhao F,Nishide T, Sakurai K.Multi-User Keyword Search Scheme for Secure Data Sharing with Fine-Grained Access Control [C]// Proc of International Conference on Information Security and Cryptology.[S.1.] : Springer-Verlag,2011: 406-418.   
+[13] Lai J,Deng RH,Li Y.Expressive CP-ABE with partially hidden access structures [C]//Proc of ACM Symposium on Information, Computer and Communications Security. New York: ACM Press,2012: 18-19.   
+[14] Padhya M,Jinwala D.Anovel approach for searchable CP-ABE with hidden Ciphertext-policy [C]// Proc of International Conference on Information Systems Security.2014.   
+[15] Shao J,Cao Z,Liang X,et al.Proxy re-encryption with keyword search [J] Information Sciences,2010,180 (13): 2576-2587.   
+[16] Mambo M, Okamoto E.Proxy cryptosystems: delegation of the power to decrypt ciphertexts (special section on cryptography and information security)[J].IEICE Trans on Fundamentals of Electronics Communications & Computer Sciences,1997,80 (1): 54-63.   
+[17]Fang,Liming,Susilo,Willy, Ge, Chunpeng,et al. Chosen-ciphertext secure anonymous conditional proxy re-encryption with keyword search [J]. Theoretical Computer Science,2012,462 (1): 39-58.   
+[18] Wang X A,Huang X, Yang X,et al.Further observation on proxy reencryption with keyword search [J]. Journal of Systems & Software,2012, 85 (3): 643-654.   
+[19] Shi Y,Liu J,Han Z,etal.Atribute-based proxy re-encryption with keyword search.[J]. PLOS One,2014,9 (12): e116325.   
+[20] Liang K,Susilo W. Searchable Attribute-based mechanism with efficient data sharing for secure cloud storage [J].IEEE Trans on Information Forensics & Security,2015,10(9):1981-1992.

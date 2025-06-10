@@ -1,0 +1,209 @@
+# 地形因子对陕北黄土丘陵区防护林树种分布的影响
+
+姜丽²， 魏天兴12， 李亦然1,²，魏安琪3(1.北京林业大学水土保持国家林业局重点实验室,北京100083；2.北京林业大学林业生态工程教育部工程研究中心，北京 100083；3.秦皇岛市气象灾害防御中心，河北 秦皇岛 066000)
+
+摘要：为了解地形因子对树种分布变化的影响，更科学地进行防护林空间配置，本研究利用陕西省延安市吴起县数字高程模型(DEM)数据以及两期树种分布数据，采用Pearson相关分析和随机森林模型,探讨陕西省延安市吴起县典型造林树种［刺槐(Robinia pseudoacacia）、山杏(Armeniaca si-birica）、油松(Pinus tabuliformis)和沙棘(Hippophae rhamnoides)]与地形因子（海拔、坡度、坡向、曲率、地形起伏度和地形粗糙度)的关系。结果表明：(1)2007—2019年刺槐、山杏和油松的分布呈增加趋势，研究区内分别在 $8 3 . 3 7 3 \% . 7 3 . 2 7 1 \%$ 和 $7 2 . 4 1 5 \%$ 的区域呈增加趋势；沙棘的分布呈减少趋势，在 $6 1 . 7 3 7 \%$ 的区域衰退。(2)通过Pearson相关分析和随机森林重要性检验，海拔和坡向是影响黄土高原地区典型造林树种分布的主要地形因子。(3)4种主要造林乔灌木树种刺槐、山杏、油松和沙棘适宜生长海拔范围分别为1410.105\~1510.215 m、1444.873\~1553.210 m、1380.132\~1451.762 m和 $1 3 6 5 . 6 2 1 { \sim } 1 5 6 2 . 3 4 8 \ \mathrm { m } _ { \circ }$ (4）刺槐适宜生长坡向范围为 $0 { \sim } 2 0 . 5 2 0 ^ { \circ } \ , 5 0 . 2 8 0 ^ { \circ } { \sim } 6 2 . 3 1 0 ^ { \circ } \ , 8 2 . 4 4 0 ^ { \circ } \sim$ $9 5 . 2 8 0 ^ { \circ }$ 和 $2 7 7 . 2 8 0 ^ { \circ } { \sim } 3 6 0 . 0 0 0 ^ { \circ }$ ;山杏适宜生长坡向范围为 $0 { \sim } 8 1 . 2 7 0 ^ { \circ }$ 和 $2 6 5 . 3 1 0 ^ { \circ } { \sim } 3 6 0 . 0 0 0 ^ { \circ }$ ;油松适宜生长坡向范围为 $0 { \sim } 1 0 0 . 1 8 0 ^ { \circ }$ ；沙棘适宜生长坡向范围为 $0 { \sim } 7 4 . 5 4 0 ^ { \circ }$ 和 $2 8 0 . 8 2 0 ^ { \circ } { \sim } 3 6 0 . 0 0 0 ^ { \circ }$ 。
+
+关键词：树种分布；地形因子；随机森林模型；黄土高原
+
+# 文章编号：
+
+森林是生态系统的重要组成部分，在拦截降雨、维持径流、调节气候、防治沙漠化和水土保持等方面发挥重要作用[。营造防护林逐渐成为各国解决生态环境问题的重要手段，我国自20世纪50代初开始实施各项防护林体系建设工程[2],但造林初期局部地区未能较好地遵循“适地适树"原则，导致部分区域形成的防护林空间配置不合理。因此，为实现防护林体系建设工程的可持续性发展，促进防护林结构的优化，进而提升防护林的质量，探究影响防护林体系营造树种分布的因素是十分迫切且有意义的研究工作。
+
+目前，已有大量针对树种分布与其影响因子之间耦合关系的研究成果，认为气候、土壤、地形和地质等[3-8]为限制树种分布的主要因素，而在不同区域尺度范围下，各限制因子的所占权重有所不同，如在区域及全球的范围内，气象因子是影响树种分布最主要的因子，其中降水、温度是主要影响因子[9-14];地形因子中海拔、坡度与坡向是主要影响因子[15-18]现有研究大多是选取样地点进行数据调查，同时考虑气候、地形和土壤等因子。长期以来，人们对树种分布驱动因素的研究主要侧重于气候、土壤因子与地形因子综合作用的研究，而局域范围内地形因子更能反映树种的生长状况，选取地形因子为指标指导造林计划的制订是最快捷、简便的方法。现有研究对象大多选用东北、西南和青藏高原等地区的天然次生林树种，较少对黄土高原地区造林树种分布的驱动因素进行研究。因此研究黄土高原地区人工造林局域范围内的地形因子是如何影响树种分布的问题具有重要意义。
+
+因此，为探究各树种在不同地形因子下的分布
+
+# 干旱区地理
+
+规律，准确理解局部范围内地形变化对黄土高原树种分布的影响。基于2007年和2019年树种分布数据，对陕西省延安市吴起县防护林主要造林树种[刺槐（Robinia pseudoacacia）、山杏(Armeniaca sibiri-ca）、油松(Pinus tabuliformis）沙棘(Hippophaerhamnoide)」的分布进行了时空变化分析，并应用随机森林模型分别对4种造林树种与地形因子之间的关系进行定量分析，以期为优化空间配置，合理进行造林项目提供理论依据。
+
+# 1数据与方法
+
+# 1.1 研究区概况
+
+研究区位于水蚀风蚀交错区的陕西省延安市吴起县 $\left( 1 0 7 ^ { \circ } 3 8 ^ { \prime } 5 7 ^ { \prime \prime } { \sim } 1 0 8 ^ { \circ } 3 2 ^ { \prime } 4 9 ^ { \prime \prime } \mathrm { E } \right.$ ， $3 6 ^ { \circ } 3 3 ^ { \prime } 3 3 ^ { \prime \prime }$ ，$3 7 ^ { \circ } 2 4 ^ { \prime } 2 7 ^ { \prime \prime } \mathrm { N } .$ ，面积 $9 8 . 9 8 0 \ \mathrm { k m } ^ { 2 }$ ,海拔 $1 2 3 3 { \sim } 1 8 0 9 ~ \mathrm { m }$ 。研究区处于半干旱温带大陆性季风气候区，多年平均降水量为 $4 6 6 . 7 0 0 \mathrm { m m }$ ，平均气温为 $8 . 0 5 0 ~ \mathrm { ^ { \circ } C }$ ,年均地面蒸发量为 $8 9 1 . 2 0 0 \mathrm { m m }$ 。自1998年起开始退耕还林还草工程以来，研究区在荒山及坡地营造水土保持林，主要造林树种有油松、刺槐、山杏、沙棘等，典型配置方式有油松纯林、刺槐纯林、山杏纯林、沙棘纯林、油松沙棘混交林、刺槐沙棘混交林和山杏沙棘混交林。为科学地考虑地形因子对树种分布的影响，选取2002年以前完成造林且受人为因素干扰较小的梁坡、沟坡和梁昴顶自然生长的防护林进行研究。
+
+# 1.2数据来源
+
+利用数字高程模型(DEM)，提取研究区的地形因子[19],包括：海拔、坡度、坡向、曲率、地形起伏度以及地形粗糙度(Topographic roughness index,TRI)（图1)。研究区的树种分布信息来源于森林资源二类调查及野外调查数据(野外调查进行时间为2019年7—9月）。
+
+# 1.3树种分布变化等级划分
+
+为对树种分布变化情况进行可视分析，更准确地描述树种分布情况，结合研究区内实际情况，根据两期树种分布信息，对每个地块内的树种进行赋值处理。地块内某树种为第一优势树种赋值3，为第二优势树种赋值2,为第三优势树种赋值1。分别剔除无该树种分布区域，以2019年与2007年的差值来表示树种分布变化情况[20]。将研究区树种变化情况划分为7个等级，依次为：显著减少（-3）、减少(-2)稍减少(-1)基本不变(0)、稍增加(1）、增加(2)和显著增加(3)。
+
+![](images/5d8f556313f335537db76f17ab218bfe84388925cf88a76cf554cdf01cb939c9.jpg)  
+图1地形因子提取结果  
+Fig.1 Extraction results of terrain factor
+
+# 1.4研究方法
+
+本研究采用随机森林模型分析地形因子与树种分布的关系。随机森林模型是由Breiman[21]于2001年提出的一种统计学习理论，该方法的核心思想是组合多个决策树，对变量进行判别，在分析自变量与因变量相关性时精度高，可直接估计变量重要性，并且在建模过程中产生无偏估计，可避免过度拟合。同时，该模型在处理大量信息时，即使有部分数据缺失，也不影响其建模精度，在处理大数据集上优越于其他算法[22],是一种常用的处理大量数据和多个变量的数学方法，被广泛应用于生态学[23-24]等领域。
+
+随机森林模型以总体分类精度和Kappa系数作为判别模型精确度和可靠性的指标。Kappa系数的判别标准如表1所示[25]。本研究选取随机森林模型对各树种地形因子与树种分布进行分析，模型精度均较高。4种树种的随机森林模型总体精度均在$7 5 . 0 0 0 \%$ 以上，Kappa系数值在0.600以上，表明选取的地形因子能够解释影响树种分布变化的因素，应用随机森林模型分析树种分布与地形因子的关系结果可靠。
+
+# 表1Kappa系数与精度对应关系
+
+Tab.1 Correspondence between Kappa coefficient and accuracy   
+
+<html><body><table><tr><td>Kappa系数</td><td>精度评价</td></tr><tr><td>0.800~1.000</td><td>几近完美</td></tr><tr><td>0.600~0.800</td><td>精确</td></tr><tr><td>0.400~0.600</td><td>较好</td></tr><tr><td>0.200~0.400</td><td>正常</td></tr><tr><td>0.000~0.200</td><td>较差</td></tr><tr><td><0.000</td><td>非常差</td></tr></table></body></html>
+
+随机森林中有2个重要参数mtry与ntree。本研究选取6个自变量,因此以1为单位步长,设定mtry参数自1\~6进行逐步长遍历，选择错误率最低的mtry值为参数。当刺槐、山杏、以及沙棘的特征数为6时，随机森林模型的错误率最低，油松的特征数为5时，随机森林模型的错误率最低(表2）。
+
+参数ntree是建模时决策树的数量，过低会导致模型错误率偏高，过高会无故耗费模型运行时间，
+
+# 表2不同mtry参数对应误差
+
+Tab.2 Corresponding errors of different mtry parameters   
+
+<html><body><table><tr><td rowspan="2">特征数</td><td colspan="3">错误率</td></tr><tr><td>刺槐</td><td>山杏</td><td>油松 沙棘</td></tr><tr><td>1</td><td>0.231</td><td>0.209</td><td>0.196 0.229</td></tr><tr><td>2</td><td>0.218</td><td>0.200 0.177</td><td>0.219</td></tr><tr><td>3</td><td>0.207</td><td>0.195 0.172</td><td>0.215</td></tr><tr><td>4</td><td>0.208</td><td>0.193 0.169</td><td>0.214</td></tr><tr><td>5</td><td>0.204</td><td>0.188 0.166</td><td>0.214</td></tr><tr><td>6</td><td>0.203</td><td>0.186</td><td>0.170 0.213</td></tr></table></body></html>
+
+选值需结合模型错误率与决策树数量的关系[26]选取错误率最低的mtry建模，得到决策树数量与错误率关系。根据结果最终确定刺槐以 $\mathrm { m t r y } { = } 6$ ntree $\scriptstyle : = 3 0 0 0$ ；山杏以mtry $^ { - 6 }$ ， $\scriptstyle { \mathrm { n t r e e } } = 4 1 0 0$ ；油松以mtry $= 5$ ， $\mathrm { n t r e e } { = } 2 7 0 0$ ;沙棘以mtry $^ { - = 6 }$ $\mathrm { n t r e e } { = } 2 6 0 0$ ，建立随机森林模型。
+
+随机森林算法中的相对重要性（Meandecreaseaccuracy)可比较变量的重要性，节点纯度(Meande-creasegini)可描述变量对分类树每个节点上观测值异质性的影响。相对重要性和节点纯度值越大表示该变量的重要性越大。因此，本研究选取随机森林算法中的相对重要性指数、节点纯度指数来确定各地形因子对树种分布变化的影响程度。
+
+# 2结果与分析
+
+# 2.1各树种分布变化情况分析
+
+与2007年相比，2019年油松在 $8 3 . 3 7 2 \%$ 的区域呈增加趋势(稍增加、增加和显著增加);其次为刺槐和山杏，分别在 $7 3 . 2 7 2 \%$ 和 $7 2 . 6 1 5 \%$ 的区域呈增加趋势；增加最少的为沙棘，仅在 $2 3 . 5 5 5 \%$ 的区域呈增加趋势(表3)。沙棘维持基本不变的比例最大，为$1 4 . 7 0 9 \%$ ;山杏在 $1 2 . 4 8 1 \%$ 区域基本不变；而刺槐和油松相对来说基本不变区域较少，分别为 $9 . 8 8 7 \%$ 和$9 . 5 9 6 \%$ 。沙棘有 $6 1 . 7 3 8 \%$ 的区域呈减少趋势(稍减少、减少和显著减少）,在4类树种中衰退趋势最为明显；其次为刺槐与山香，分别在 $1 6 . 8 4 2 \%$ 和$1 5 . 1 0 4 \%$ 的区域呈减少趋势；最后是油松，仅在$7 . 0 3 1 \%$ 的区域呈减少趋势。
+
+图2显示了研究区树种分布空间变化情况。刺槐在整个区域内分布范围较广，且几种变化类型分布区域较为均匀，比例相当。山杏广泛且均匀分布
+
+# 干旱区地理
+
+# 表3树种分布面积的变化
+
+Tab.3 Changes in the distribution area of tree species   
+
+<html><body><table><tr><td rowspan="2">赋值</td><td rowspan="2">变化类型</td><td colspan="2">刺槐</td><td colspan="2">山杏</td><td colspan="2">油松</td><td colspan="2">沙棘</td></tr><tr><td>面积/km²</td><td>百分比/%</td><td>面积/km²</td><td>百分比/%</td><td>面积/km²</td><td>百分比/%</td><td>面积/km²</td><td>百分比/%</td></tr><tr><td>-3</td><td>I显著减少</td><td>1.627</td><td>8.557</td><td>0.706</td><td>4.487</td><td>0.450</td><td>3.973</td><td>9.076</td><td>35.497</td></tr><tr><td>-2</td><td>Ⅱ减少</td><td>0.358</td><td>1.882</td><td>0.811</td><td>5.159</td><td>0.137</td><td>1.212</td><td>2.451</td><td>9.585</td></tr><tr><td>-1</td><td>Ⅲ 稍减少</td><td>1.217</td><td>6.404</td><td>0.858</td><td>5.458</td><td>0.209</td><td>1.846</td><td>4.259</td><td>16.656</td></tr><tr><td>0</td><td>V 基本不变</td><td>1.879</td><td>9.887</td><td>1.963</td><td>12.481</td><td>1.086</td><td>9.596</td><td>3.761</td><td>14.709</td></tr><tr><td>1</td><td>V稍增加</td><td>2.304</td><td>12.123</td><td>2.176</td><td>13.837</td><td>1.161</td><td>10.258</td><td>1.826</td><td>7.141</td></tr><tr><td>2</td><td>VI增加</td><td>3.941</td><td>20.730</td><td>4.636</td><td>29.482</td><td>2.224</td><td>19.648</td><td>2.034</td><td>7.957</td></tr><tr><td>3</td><td>VI 显著增加</td><td>7.683</td><td>40.419</td><td>4.576</td><td>29.096</td><td>6.051</td><td>53.466</td><td>2.162</td><td>8.457</td></tr></table></body></html>
+
+(a)刺槐
+
+![](images/1f653b2abdf8c34bb81f785555d59607a603d26f1ff10cb474ee1a10bbd4a8dd.jpg)  
+图2树种分布变化  
+Fig.2 Changes of tree species distribution
+
+于整个研究区。油松集中分布于研究区北部，其他区域少有分布，变化类型VI分布最为广泛，表明油松的增加趋势最明显。4类树种中沙棘分布最广，几种变化类型中I类分布最多，且均匀分布于整个研究区，表明沙棘整体衰退。
+
+# 2.2树种分布变化与地形因子的相关性
+
+对研究区内的刺槐、山杏、油松和沙棘与6种地形因子进行Pearson相关性分析，分析结果如表4所示。刺槐的分布与海拔和曲率显著正相关，相关性系数分别为0.087和0.033。山杏的分布与海拔显著正相关，相关性系数为0.153，与起伏度和坡度显著负相关，相关性系数分别为-0.039和-0.035。油松的分布与坡度、粗糙度和起伏度显著正相关，相关系数分别为0.053、0.052和0.048。沙棘的分布与海拔和曲率显著负相关，相关系数分别为-0.031和-0.048，与坡向显著正相关，相关系数为0.047。结果表明，海拔是影响刺槐、山杏和沙棘分布最重要的地形因子。
+
+# 表4树种分布变化与地形因子相关性分析
+
+Tab.4 Correlation analysis between tree species distribution and topographical factors   
+
+<html><body><table><tr><td>树种</td><td>粗糙度</td><td>海拔</td><td>曲率</td><td>坡度</td><td>起伏度</td><td>坡向</td></tr><tr><td>刺槐</td><td>-0.020</td><td>0.087**</td><td>0.033*</td><td>-0.026</td><td>-0.028</td><td>-0.008</td></tr><tr><td>山杏</td><td>-0.028</td><td>0.153**</td><td>0.011</td><td>-0.035*</td><td>-0.039*</td><td>0.108**</td></tr><tr><td>油松</td><td>0.052**</td><td>0.002</td><td>-0.039</td><td>0.053**</td><td>0.048*</td><td>-0.003</td></tr><tr><td>沙棘</td><td>0.015</td><td>-0.031*</td><td>-0.048**</td><td>0.020</td><td>0.031*</td><td>0.047**</td></tr></table></body></html>
+
+注：\*、\*\*分别表示在0.05、0.01水平(双侧)上显著相关。
+
+# 2.3地形因子对树种分布的影响程度分析
+
+根据有无各树种分布样点对变量的重要性（表5)可知，在刺槐分布区域，对有无树木分布点最为重要的地形因子均为海拔。在山杏和油松分布区域，对无树木分布点区域最重要的地形因子为海拔，对有树木分布点区域最重要的地形因子均为坡向。在沙棘分布区域，对有无树木分布点最为重要的地形因子为坡向。表明海拔和坡向是影响4类树种分布最为重要的地形因子。
+
+表5变量对不同区域样点的重要性  
+Tab.5Importance of variables to sample points in different regions   
+
+<html><body><table><tr><td rowspan="2">地形因子</td><td colspan="2">刺槐</td><td colspan="2">山杏</td><td colspan="2">油松</td><td colspan="2">沙棘</td></tr><tr><td>无树木分布</td><td>有树木分布</td><td>无树木分布</td><td>有树木分布</td><td>无树木分布</td><td>有树木分布</td><td>无树木分布</td><td>有树木分布</td></tr><tr><td>海拔</td><td>148.400</td><td>197.420</td><td>150.380</td><td>177.820</td><td>133.810</td><td>64.572</td><td>33.054</td><td>175.550</td></tr><tr><td>坡度</td><td>30.620</td><td>52.054</td><td>24.813</td><td>40.814</td><td>34.691</td><td>37.926</td><td>38.650</td><td>44.833</td></tr><tr><td>坡向</td><td>113.890</td><td>72.196</td><td>117.700</td><td>217.450</td><td>86.055</td><td>122.800</td><td>198.240</td><td>206.110</td></tr><tr><td>曲率</td><td>5.973</td><td>44.247</td><td>4.350</td><td>34.044</td><td>13.792</td><td>27.561</td><td>6.939</td><td>54.817</td></tr><tr><td>起伏度</td><td>11.449</td><td>54.782</td><td>19.990</td><td>42.130</td><td>34.848</td><td>32.115</td><td>40.107</td><td>47.462</td></tr><tr><td>粗糙度</td><td>38.066</td><td>67.327</td><td>35.679</td><td>42.943</td><td>33.769</td><td>35.709</td><td>54.792</td><td>58.836</td></tr></table></body></html>
+
+注：将2007年为正值但2019年值为0的点定义为无某树种分布，将2007年和2019年均为正值的点定义为有某树种分布。
+
+由各树种地形因子的相对重要性和节点纯度指数排序(图3)可见，刺槐、山杏、油松和沙棘2个重要性指数较大的地形因子均是海拔和坡向。除山杏的节点纯度重要性指数排名最后的为坡度，其余树种重要性指数排名最后的均为曲率。
+
+计算变量对有无树种分布样点的重要性、相对重要性和节点纯度的平均值，可得到地形因子的重要性排序，对刺槐影响由大到小分别为海拔>坡向>粗糙度 $>$ 起伏度 $>$ 坡度 $>$ 曲率；对山杏影响由大到小分别为坡向 $>$ 海拔 $>$ 粗糙度 $>$ 起伏度 $>$ 坡度 $>$ 曲率；对油松影响由大到小分别为坡向>海拔 $\mathrm { > }$ 坡度>起伏度>粗糙度 $\mathrm { \dot { > } }$ 曲率；对沙棘影响由大到小分别为海拔>坡向 $>$ 起伏度 $\mathrm { \dot { > } }$ 粗糙度 $\mathrm { > }$ 坡度 $>$ 曲率。选取排名靠前的2个因子绘制地形因子对各树种分布的影响图（图4、图5），纵坐标表示地形因子对树种分布的影响程度，值大于0表示为适宜分布，值小于0表示不适宜分布，影响程度随绝对值的增加而增加
+
+各树种海拔与其影响程度的关系整体均呈现先增加后减少的趋势，表明各树种的海拔对树种分布的影响均随着海拔的增加而增大，到达极值后随着海拔的增加而减小(图4)。刺槐在海拔1410.105m以下和 $1 5 1 0 . 2 1 5 \mathrm { ~ m ~ }$ 以上的受影响程度均为负，在海拔 $1 4 1 0 . 1 0 5 { \sim } 1 5 1 0 . 2 1 5 \mathrm { ~ m }$ 受影响程度为正；山杏在海拔 $1 4 4 5 . 8 7 3 \mathrm { ~ m ~ }$ 以下和 $1 5 5 3 . 2 1 0 \mathrm { m }$ 以上受影响程度均为负，在海拔 $1 4 4 4 . 8 7 3 { \sim } 1 5 5 3 . 2 1 0 \mathrm { m }$ 受影响程度为正；油松在海拔 $1 3 8 0 . 1 3 2 \mathrm { m }$ 以下和 $1 4 5 1 . 7 6 2 \mathrm { ~ m ~ }$ 以上
+
+(a1)刺槐相对重要性 (a2)刺槐节点纯度 (b1)山杏相对重要性 (b2)山杏节点纯度曲率 曲率 曲率「 坡度粗糙度 坡度 坡度 曲率国 起度 中国氧 起优度 发 快度坡向 坡向 海拔 海拔海拔 海拔 坡向 坡向0 100200300 100 200 300 400 500 0 100200300 0 100 200300相对重要性 节点纯度 相对重要性 节点纯度(c1)油松相对重要性 (c2)油松节点纯度 (d1)沙棘相对重要性 (d2)沙棘节点纯度曲率 曲率 曲率 曲率粗糙度 坡度 粗糙度 坡度坡度 起 坡度 优度坡向 海拔 坡向 坡向海拔 坡向 海拔 海拔050 100 150 200 050 100 150 200 0 100 200300 100 200300 400 500相对重要性 节点纯度 相对重要性 节点纯度
+
+# 干旱区地理
+
+![](images/268161e5d9adbc4a0f8681378997a2c07ea36c6b9f560e8aaf1e47956fd000b1.jpg)  
+图4海拔对各树种的影响  
+Fig.4Effect of altitude on tree species   
+图5坡向对各树种的影响 Fig.5Effect of aspect on tree species
+
+0.3 (a)刺槐 0.3 (b)山杏 0.2 0.2   
+售酒 0.1 售 0.1 0.0 0.0 影 -0.1 -0.1 -0.2 -0.2 -0.3 0 90 180 270 360 0 90 180 270 360 坡向/() 坡向/() (c)油松 (d)沙棘 0.3 0.5   
+售酒 营 影 -0.1 0 -0.3 -0.3 -0.5 -0.5 0 90180 270 360 0 90180 270 360 坡向/() 坡向/()
+
+受影响程度为负，在海拔 $1 3 8 0 . 1 3 2 { \sim } 1 4 5 1 . 7 6 2 \ \mathrm { m }$ 受影响程度为正；沙棘在海拔 $1 3 6 5 . 6 2 1 \textrm { m }$ 以下和$1 5 6 2 . 3 4 8 \mathrm { m }$ 以上受影响程度为负，在海拔1365.621\~$1 5 6 2 . 3 4 8 \mathrm { m }$ 受影响程度为正。
+
+各树种坡向与其影响程度的关系整体均呈现先减少后增加的趋势，表明各树种的坡向对树种分布的影响均随着坡向的增加而减小，到达极值后随着坡向的增加而增加(图5)。刺槐在坡向 $2 0 . 5 2 0 ^ { \circ } \sim$ $5 0 . 2 8 0 ^ { \circ } \ 、 6 2 . 3 1 0 ^ { \circ } \sim 8 2 . 4 4 0 ^ { \circ } \enspace , 9 5 . 2 8 0 ^ { \circ } \sim 2 7 7 . 2 8 0 ^ { \circ }$ 受影响程度为负，其他坡向为正；山杏在坡向 $8 1 . 2 7 0 ^ { \circ } \sim$ $2 6 5 . 3 1 0 ^ { \circ }$ 受影响程度为负，其他坡向为正;油松在坡向 $1 0 0 . 1 8 0 ^ { \circ }$ 以上受影响程度为正，其他坡向为负；沙棘在坡向 $7 4 . 5 4 0 ^ { \circ } { \sim } 2 8 0 . 8 2 0 ^ { \circ }$ 受影响程度为负，其他坡向受影响程度为正。
+
+# 3讨论
+
+地形是导致各种生态现象和过程发生分异的重要因素，海拔、坡度、坡向等各因子通过对地表物质与能量的再分配共同决定着地表植被的分布格局[15.27]。本研究利用随机森林模型评估了各地形因子对树种分布的重要性，结果表明海拔和坡向是影响刺槐、山香、油松和沙棘分布的主要地形因子。这是由于海拔和坡向导致了太阳辐射与蒸散发的不同，进而对区域间的土壤水分状况造成影响，而土壤水分又是该地区植物生长发育的主要限制因子[28],从而导致了生物个体的生长发育与树种分布的不同[17-18],使得海拔和坡向成为限制研究区域典型造林树种分布的关键因子。
+
+海拔对黄土高原区域典型树种分布的影响最大，这与谢玉彬等[18在探究选取地形因子中的海拔、坡度和凸度对天童地区常绿树种和落叶树种分布影响的研究结果相一致。具体来说各树种适宜生长海拔范围由大到小依次为沙棘( $\ 1 9 6 . 7 2 7 \mathrm { m }$ ）、山杏1 $\mathrm { 1 0 8 . 3 3 7 ~ m }$ 、刺槐（ $1 0 0 . 1 1 0 \mathrm { ~ m ~ }$ 和油松 $( 7 1 . 6 3 0 \mathrm { ~ m } \$ 。张晓梅等[29]、韦景树等[30]、张希彪等[31]、唐洋等[32]的研究结果表明，在黄土高原地区，阴坡相较于阳坡更适宜植被的生长，本研究的研究结果与其相一致，即4类树种在阴坡分布均优于阳坡。同时，现有研究大多将坡向分为阴坡( $0 { \sim } 4 5 ^ { \circ }$ 和 $3 1 5 ^ { \circ } { \sim } 3 6 0 ^ { \circ }$ ）半阴坡 $( 4 5 ^ { \circ } \sim 1 3 5 ^ { \circ }$ 、阳坡 $( 1 3 5 ^ { \circ } \sim 2 2 5 ^ { \circ }$ 、半阳坡( $2 2 5 ^ { \circ } \sim$ $3 6 0 ^ { \circ }$ )等级，选取位于不同坡向等级样地作为代表进行研究，表明处于阴坡和半阴坡的油松更新能力明显优于阳坡[31.33],沙棘的生长状况由好到坏顺序为阴坡、半阴坡、半阳坡、阳坡[33-34],这与本研究的结果基本一致，即造林时树种应主要种植于水分条件较好北坡，均不适宜种植在南坡，且沙棘和山杏适宜生长坡向范围较广于刺槐和油松。此外，本研究给出刺槐、山杏、油松和沙棘适宜生长坡向范围的具体数值，可为防护林工程后续建设过程中的林分空间结构优化和可持续性发展提供理论依据。
+
+对研究区典型造林树种的时空分布进行分析，结果表明刺槐、山杏以及油松都呈增加趋势，只有沙棘呈衰退趋势，这与张恰哼等[34研究结果一致。通过随机森林模型结果显示适宜沙棘生长的坡向为阴坡，海拔为 $1 3 6 5 . 6 2 1 { \sim } 1 5 6 2 . 3 4 8 \ \mathrm { m }$ ,导致沙棘衰退的原因可能是在半干旱的黄土高原地区，土壤水分限制了各种植被的生长发育，该地区不同地形部位的土壤水分含量差异较大，在初期造林时，作为先锋树种的沙棘被种植于半干旱地区的各海拔与坡向，在不适宜沙棘生长区域种植该物种导致沙棘过度利用水资源而导致失去再生能力甚至大片死亡[35-36]。
+
+# 4结论
+
+对陕西延安市吴起县约 $1 0 0 \mathrm { k m } ^ { 2 }$ 范围的树种分布时空变化特征进行了研究，在区域尺度上对地形因子与树种分布关系进行定量研究，获得黄土高原常见造林树种刺槐、山杏、油松和沙棘适宜生长的海拔与坡向具体数值范围，为促进森林结构的优化和提高森林质量提供理论依据。主要结论如下：
+
+（1）与2007年树种分布相比，油松分布面积增加最多，且增加区域主要分布在研究区北部；而沙棘分布整体呈衰退趋势，退化情况呈现于整个区域，曾经作为先锋树种的沙棘逐渐被其他乔木树种代替，表明经过十几年的恢复研究区植被空间结构逐步合理。
+
+(2）对刺槐、山香、油松和沙棘分布最重要的地形因子均为海拔和坡向。因此，在植树造林时，应根据不同海拔和坡向选择不同造林树种，
+
+(3）刺槐在海拔 $1 4 1 0 . 1 0 5 { \sim } 1 5 1 0 . 2 1 5 \mathrm { ~ m }$ 适宜分布，山杏在海拔 $1 4 4 4 . 8 7 3 { \sim } 1 5 5 3 . 2 1 0 \ \mathrm { m }$ 适宜分布，油松在海拔 $1 3 8 0 . 1 3 2 { \sim } 1 4 5 1 . 7 6 2 \ \mathrm { m }$ 适宜分布，沙棘在海拔 $1 3 6 5 . 6 2 1 { \sim } 1 5 6 2 . 3 4 8 \ \mathrm { m }$ 适宜分布。各树种适宜生长海拔范围由大到小依次为沙棘( $1 9 6 . 7 2 7 \mathrm { m }$ 、山杏（ $1 0 8 . 3 3 7 \mathrm { m }$ 、刺槐（ $1 0 0 . 1 1 0 \mathrm { m } ,$ 和油松 $( 7 1 . 6 3 0 \mathrm { m }$ 。
+
+(4）刺槐适宜分布坡向范围为 $0 { \sim } 2 0 . 5 2 0 ^ { \circ }$ 、$5 0 . 2 8 0 ^ { \circ } { \sim } 6 2 . 3 1 0 ^ { \circ }$ 、 $8 2 . 4 4 0 ^ { \circ } { \sim } 9 5 . 2 8 0 ^ { \circ }$ 和 $2 7 7 . 2 8 0 ^ { \circ } \sim$ $3 6 0 . 0 0 0 ^ { \circ }$ ;山杏适宜分布坡向范围为 $0 { \sim } 8 1 . 2 7 0 ^ { \circ }$ 和$2 6 5 . 3 1 0 ^ { \circ } \sim 3 6 0 . 0 0 0 ^ { \circ }$ ;油松适宜分布坡向范围为 $0 \sim$ $1 0 0 . 1 8 0 ^ { \circ }$ ;沙棘适宜分布坡向范围为 $0 { \sim } 7 4 . 5 4 0 ^ { \circ }$ 和$2 8 0 . 8 2 0 ^ { \circ } { \sim } 3 6 0 . 0 0 0 ^ { \circ }$ 。各树种适宜生长范围由大到小为山杏( $1 8 0 . 4 4 0 ^ { \circ }$ ）、沙棘（ $1 5 3 . 8 2 0 ^ { \circ }$ ）、刺槐（ $\cdot 1 0 5 . 4 3 0 ^ { \circ } .$ ）、油松 $( 1 0 0 . 1 8 0 ^ { \circ }$ )。
+
+# 参考文献(References)
+
+[1]Sun W Y,Song X Y,Mu X M,et al.Spatiotemporal vegetation cover variations associated with climate change and ecological restora
+
+tion ntheLoessPlateauJ]Agriculturaladorest eteog 2015,209-210.   
+[2]朱教君.防护林学研究现状与展望[J].植物生态学报,2013,9 (37): 872-888.[Zhu Jiaojun. A review of the present situation and future prospect of science of protective forest[J]. Chinese Journal of Plant Ecology,2013,9(37): 872-888.]   
+[3]张翀,白子怡,李学梅,等.2001—2018年黄土高原植被覆盖人 为影响时空演变及归因分析[J].干旱区地理,2021,44(1):188- 196.[Zhang Chong,Bai Ziyi,Li Xuemei,et al. Spatio- temporal evolution and atribution analysis of human effects of vegetation cover onthe Loess Plateau from 2001 to 2018[J]. AridLand Geography,2021,44(1): 188-196.]   
+[4]岳辉,刘英.近15a陕西省植被时空变化与影响因素分析[J].干 旱区地理,2019,42(2): 314-323.[Yue Hui,Liu Ying.Vegetation spatiotemporal variation and its driving factors of Shaanxi Province in recent 15 year[J].AridLand Geography,2019,42(2): 314-32.]   
+[5]Chase JM, Leibold MA. Ecological niches: Linking classical and contemporary approaches[M]. Chicago: University of Chicago Press, 2003.   
+[6]Peletier J, Chidumayo E,Trainor A,et al. Distribution of tree species with high economic and livelihood value for Zambia[J]. Forest Ecology and Management, 2019,441: 280-92.   
+[7]Zhang C,Li X,Chen L,et al.Effects of topographical and edaphic factors on tree community structure and diversity of subtropical mountain forests in the lower Lancang River Basin[J].Forests, 2016,7(12): 222,doi: 10.3390/f7100222.   
+[8]秦景秀,郝兴明,张颖,等.气候变化和人类活动对干旱区植被 生产力的影响[J].干旱区地理,2020,43(1):117-125.[Qin Jingxiu,Hao Xingming, Zhang Ying,et al.Efcts of climate change and human activitiesonvegetation productivity inaridareas[J]. Arid Land Geography,2020,43(1): 117-125.]   
+[9]Amissah L, Mohren G MJ, BongersF,etal.Rainfall and temperature affect tree species distribution in Ghana[J]. Journal of Tropical Ecology,2014,30(5): 435-446.   
+[10]Wang W J,He HS,Thompson FR,et al. Changes in forest biomass and tree species distribution under climate change in the northeastern United States[J]. Landscape Ecology,2017,32(7): 1399-1413.   
+[11]Peletier J, Chidumayo E,Trainor A,et al. Distribution of tree species with high economic and livelihood value for Zambia[J]. Forest Ecology and Management, 2019,441: 280-92.   
+[12] 晏寒冰,彭丽潭,唐旭清.基于气候变化的东北地区森林树种分 布预测建模与影响分析[J].林业科学,2014,50(5):132-139. [Yan Hanbing,Peng Litan,Tang Xuqing.Modeling and impact analysis on distribution prediction of forest tree species in northeast China based on climate change[J]. Scientia Silvae Sinicae, 2014,50(5): 132-139.]   
+[13] 曹伟,郑美林,刘童燕.东北地区主要树种分布与气候的关系 [J].干旱区资源与环境,2013,27(3):132-136.[Cao Wei,Zheng
+
+# 干吴区地理
+
+Meilin,Liu Tongyan. The relationship between climate and distribution of main trees in the north-east China[J].Journal of Arid Land Resources and Environment,2013,27(3): 132-136.]   
+[14]张晓玮,王婧如,王明浩,等.中国云杉属树种地理分布格局的 主导气候因子[J].林业科学,2020,56(4):1-11.[Zhang Xiaowei, Wang Jingru,Wang Minghao, et al. Dominant climatic factors influencing the geographical distribution pattern of Picea in China [J]. Scientia Silvae Sinicae,2020, 56(4): 1-11.]   
+[15] 刘秋锋,康慕谊,刘全儒.中条山东段森林乔木树种分布的环境 梯度分析与种组划分[J].生态学杂志,2006,25(11):1306- 1311.[Liu Qiufeng,Kang Muyi,Liu Quanru. Environmental gradient analysis and species group division of tree species distribution in eastern Zhongtiao Mountain[J]. Chinese Journal of Ecology, 2006,25(11): 1306-1311.]   
+[16]布仁仓,常禹,胡远满,等.小兴安岭针叶树种在不同尺度上对 环境因子的敏感性分析[J].植物生态学报,2008,32(1):80-87. [Bu Rencang,Chang Yu,Hu Yuanman, et al. Sensitivity of coniferous trees to environmental factors at different scales in the small Xing'an Mountains China[J]. Chinese Journal of Plant Ecology, 2008, 32(1): 80-87.]   
+[17] 邵方丽,余新晓,郑江坤,等.北京山区防护林优势树种分布与 环境的关系[J].生态学报,2012,32(19):6092-6099.[Shao Fangli, Yu Xinxiao,Zheng Jiangkun,etal.Relationships between dominant arbor species distribution and environmental factors of shelter forests in the Beijing mountain area[J]. Acta Ecologica Sinica, 2012,32(19): 6092-6099.]   
+[18] 谢玉彬,马遵平,杨庆松,等.基于地形因子的天童地区常绿树 种和落叶树种共存机制研究[J].生物多样性,2012,20(2):159- 167. [Xie Yubin, Ma Zunping, Yang Qingsong, et al. Coexistence mechanisms of evergreen and deciduous trees based on topographic factors in Tiantong region, Zhejiang Province,eastern China[J]. Biodiversity Science,2012,20(2): 159-167.]   
+[19]王琛智,张朝,张静,等.湖南省地形因素对水稻生产的影响[J] 地理学报,2018,73(9):1792-1808.[Wang Chenzhi,Zhang Zhao, Zhang Jing,et al. The effect of terrain factors on rice production: A case study in Hunan Province[J]. Acta Geographica Sinica, 2018,73(9): 1792-1808.]   
+[20] 魏安琪.陕西吴起退耕还林植被恢复及常见造林树种适生性研 究[D].北京:北京林业大学,2019.[Wei Anqi.Study on vegetation restoration and adaptability of common afforestation tree species in converted farmland to forestry region: A case of Wuqi County,Shaanxi Province[D]. Beijing: Beijing Forestry University, 2019.]   
+[21]Breiman L. Statistical modeling: The two cultures[J]. Statistical Science,2001,16(3): 199-215.   
+[22]张雷,王琳琳,张旭东,等.随机森林算法基本思想及其在生态 学中的应用——以云南松分布模拟为例[J].生态学报,2014, 34(3): 650-659.[Zhang Lei, Wang Linlin, Zhang Xudong,et al. The basic principle of random forest and its applications in ecology: A case study of Pinus yunnanensis[J]. Acta Ecologica Sinica, 2014,34(3): 650-659.]   
+[23] 蒋云姣,胡曼,李明阳,等.县域尺度森林地上生物量遥感估测 方法研究[J].西南林业大学学报,2015,35(6):53-59.[Jiang Yunjiao, Hu Man,Li Mingyang,etal. Remote sensing based estimation of forest aboveground biomass at county level[J]. Journal of Southwest Forestry University,2015,35(6): 53-59.]   
+[24]Cutler D R,Edwards T C,Beard K H,et al.Random forests for classification in ecology[J]. Ecology,2007,88(11): 278-2792.   
+[25]Landis JR,Koch G G.The measurement of observer agreement for categorical data[J]. Biometrics,1977,33(1): 159-174.   
+[26]Viechtbauer W. Conducting meta-analyses in R with the metafor package[J]. Journal of Statistical Software,2010,36(3): 1-48.   
+[27] 周文洁,魏天兴,刘广全,等.陕北典型退耕地沙棘群落与土壤 因子的耦合关系[J].中国水土保持科学,2020,18(2):1-9. [Zhou Wenjie,Wei Tianxing,Liu Guangquan,et al. Coupling relationship between Hippophae rhamnoides community and soil factor intypical returning farmland to forest area in northern Shaanxi Province[J]. Science of Soil and Water Conservation,2O20,18(2): 1-9.]   
+[28] 高海东,庞国伟,李占斌,等.黄土高原植被恢复潜力研究[J].地 理学报,2017,72(5): 863-874.[Gao Haidong,Pang Guowei,Li Zhanbin, et al.Evaluating the potential of vegetation restoration inthe Loss Plateau[J]. Acta Geographica Sincia,2017,72(5): 863-874.]   
+[29] 张晓梅,邸利,史再军,等.甘肃泾川中沟小流域不同坡位刺槐 人工林土壤水分特征[J].干旱区研究,2019,36(5):1300-1308. [Zhang Xiaomei,Di Li, Shi Zaijun,et al. Soil moisture content under artificial Robinnia pseudoacacia forest at diferent slope positions in the Zhonggou Minor Basin,Jingchuan County,Gansu Province[J].Arid Zone Research,2019,36(5): 1300-1308.]   
+[30] 韦景树,李宗善,焦磊,等.黄土高原羊圈沟小流域人工物种和 自然物种径向生长对气候变化的响应差异[J].生态学报, 2018,38(22): 8040-8050.[Wei Jingshu,Li Zhongshan,Jiao Lei, et al.Climate effect on the radial growth of introduced and native tree species in the Yangjuangou catchment of the Loess Plateau[J]. Acta Ecologica Sinica,2018,38(22): 8040-8050.]   
+[31] 张希彪,上官周平,王金成,等.子午岭人工油松林群落更新特 征及影响因子[J].山地学报,2014,32(5):561-567.[Zhang Xibiao, Shangguan Zhouping,Wan Jincheng,et al. The regeneration characteristicsand affcting factors of Pinus tabulaeformis artificial forests of Ziwu Mountains,China[J].Mountain Research, 2014,32(5): 561-567.]   
+[32] 唐洋,温仲明,刘静,等.黄土丘陵区刺槐对不同立地环境的适 应机制[J].水土保持通报,2019,39(5):46-53.[Tang Yang,Wen Zhongming, Liu Jing,et al.Adaptation mechanism of Robinia pseudoacacia under different site conditions in Loess Hill and Gully Region[J].Bulletin of Soil and Water Conservation,2O19,39(5): 46-53.]   
+[33] 焦醒,刘广全.陕西黄土高原油松生长状况及其影响因子分析 [J].西北植物学报,2009,29(5):1026-1032.[Jiao Xing,Liu Guangquan.Growth and its influencing factors of Pinus tabulaeformis inthe Loess Plateau of Shaanxi Province[J]. Acta Botanica Boreali-Occidentalia Sinica,2009,29(5):1026-1032.]
+
+[34] 张恰哼,朱清科,任正龔,等.地形对陕北黄土区衰退沙棘人工 林天然更新的影响[J].林业科学研究,2017,30(2):300-306. [Zhang Qianing,Zhu Qingke,Ren Zhengyan,et al.Modeling the effects of topography on the natural renewal of declining sea-buckthorn forest in Loess Plateau of northern Shaanxi Province[J].ForestResearch,2017,30(2): 300-306.]
+
+[35]姜准,刘丹一，陈贝贝,等.中国沙棘克隆生长对造林密度的早 期响应及其生物量分配调节机制[J].林业科学,2017,53(10): 29-39.[Jiang Zhun,Liu Danyi,Chen Beibei, etal. Clonal growth ofHippophae rhamniodes ssp sinensis at the early stage in response to initial planting density and its regulation mechanism of biomass allocation[J]. Scientia Silvae Sinicae,2017,53(1O): 29-39.]
+
+[36] 聂恺宏,邹旭,吉生丽,等.中国沙棘克隆生长对灌水强度的响 应规律及其激素调控机制[J].生态学报,2018,38(14):4942- 4952.[Nie Kaihong,Zou Xu,Ji Shengli,et al. Clonal growth response of Hippophae rhamnoides ssp sinensis to irrigation intensity and its hormone regulation mechanism[J]. Acta Ecologica Sinica, 2018,38(14): 4942-495.]
+
+# Effects of topographical factors on tree species distribution of shelter forest in Loess hilly region of northern Shaanxi
+
+JIANG Li1²， WEI Tianxingl²， LI Yiran1², WEI Anqi³ (1.KeyLaboratoryoftateForestryAdmistrationonSilandWateronsevation,BeijngForestryUnversity,eijg0, China;2.EngineeringResearch CenterofForestryEcologicalEngineeringofMinistryofEducation,BeijingForestryUisity Beijing100o83,China;3.Qinhuangdao Meteorological DisasterPrevention Center,Qinhuangdao 660o,Hebei,China)
+
+Abstract: As an important part of various ecosystems,forests play an important role in intercepting rainfall, maintaining runoff,regulating climate， preventing desertification，and soil and water conservation. The construction of shelterbelts has also gradually become an important means of solving the ecological and environmental problems in several countries. However, because of the excessive pursuit of increased green area in theearly stages of afforestationand the failure to folow the“suitable site and suitable tree”principle,the quality of protective forests formed in the early stages of afforestation in China has not been high overall.Thus, it is of great significance to study how topographic factors affect the distribution of tree species to realize sustainable development in shelterbelt system construction projects，promote the optimization of shelterbelt structures,and improve the quality of shelterbelts.In this study,digital elevation model data,forest resource survey results,and tree species distribution data from Wuqi County,Shaanxi Province,China were colected to investigate the influence of topographical factors on vegetation distribution and promote ecological restoration and shelter forest construction.The relationships between typical aforestation tree species (Pinus tabuliformis, Robinia pseudoacacia,Armeniaca sibiric,and Hippophae rhamnoides）and topographic factors (elevation, aspect,slope,curvature,recursive damped least squares,and topographic roughness index) were analyzed using Pearson analysis and a random forest model.The results demonstrated the folowing: (1)The distribution area of R. pseudoacacia, A. sibiric, and $P .$ tabuliformis exhibited an upward trend from 2007 to 2019, increasing by $8 3 . 3 7 3 \%$ ， $7 3 . 2 7 1 \%$ ，and $7 2 . 4 1 5 \%$ ，respectively. The distribution area of $H .$ rhamnoides exhibited a declining trend, decreasing by $6 1 . 7 3 7 \%$ . (2) On the local scale,the influence of terrain factors on the distribution of tree species cannot be ignored, with the most important being altitude and aspect.Hence,diferent afforestation tree species should be selected according to altitudes and directions.(3) Specifically, the altitude ranges suitable for $R$ pseudoacacia,A. sibiric, $P .$ tabuliformis,and $H .$ rhamnoides were found to be 1410.105-1510.215 m,1444.873- $1 5 5 3 . 2 1 0 \mathrm { ~ m ~ }$ ， $1 3 8 0 . 1 3 2 - 1 4 5 1 . 7 6 2 \ \mathrm { ~ m ~ }$ and $1 3 6 5 . 6 2 1 - 1 5 6 2 . 3 4 8 \ \mathrm { ~ m } .$ ，respectively. The aspects suitable for $R$ pseudoacacia include $0 { - } 2 0 . 5 2 0 ^ { \circ }$ ， $5 0 . 2 8 0 ^ { \circ } - 6 2 . 3 1 0 ^ { \circ }$ ， $8 2 . 4 4 0 ^ { \circ } - 9 5 . 2 8 0 ^ { \circ }$ ,and $2 7 7 . 2 8 0 ^ { \circ } - 3 6 0 . 0 0 0 ^ { \circ }$ ,whereas those for A. sibiric are $0 ^ { - 8 1 . 2 7 0 ^ { \circ } }$ and $2 6 5 . 3 1 0 ^ { \circ } - 3 6 0 . 0 0 0 ^ { \circ }$ . The suitable range for $P .$ tabulaeformis is $0 { - } 1 0 0 . 1 8 0 ^ { \circ }$ ，whereas those for $H .$ rhamnoides are $0 { - } 7 4 . 5 4 0 ^ { \circ }$ and $2 8 0 . 8 2 0 ^ { \circ } - 3 6 0 . 0 0 0 ^ { \circ }$ ，
+
+Key words: distribution of tree species； topographical factors; random forest model; Loess Plateau

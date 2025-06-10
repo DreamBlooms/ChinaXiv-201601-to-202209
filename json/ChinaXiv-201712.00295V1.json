@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "板式无砟轨道精调信息化管理系统研发",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沈翔杨铭",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国中铁四局集团管理研究院，合肥230023）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】CRTSI型板式无砟轨道是具有我国完全自主知识产权的新型板式无砟轨道，作为客运专线线上施工的一种新型结构,已经总结出一套完整的施工工艺,随着高铁技术的发展,CRTS 型板式无砟轨道的应用将日益广泛。目前 BIM、物联网、大数据等新技术的不断应用,现场施工管理精细化、信息化、科学化程度不断提高,研发一套板式无砟轨道精调信息化管理系统，将轨道板安装施工过程数据真实、完整、及时的存储下来，并对其进行分析、应用,实现真正意义上的板式无砟轨道施工全生命周期管理,具有极大的施工指导价值和技术研究价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(关键词】板式无砟轨道；精调；信息化；全周期",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU74；U412.6 【文献标识码】A 【文章编号】1674-7461(2017)04-0102-04  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.04.19",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研发背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CRTSⅢ型板式无砟轨道是我国铁路工程技术人员借鉴国外成熟经验,通过引进、消化、吸收和创新研发而成的，具有我国完全自主知识产权的新型板式无砟轨道,现已在成灌线、武汉城际圈、成绵乐客专、盘盈客专、沈丹客专、京沈客专等客运专线上推广使用。随着高铁技术的发展,CRTS Ⅲ型板式无砟轨道的应用将更加广泛。[1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CRTSⅢ型板式无砟轨道作为客运专线线上施?工的一种新型结构，通过试验模拟，并以施工中总结的经验,已经摸索出一套完整的施工工艺。1]但是在总结以往板式无砟轨道施工经验时，我们仍发现诸多急需解决的问题，如轨道板厂生产质量不能实时有效监控，造成少数不合格的板流入施工现场；轨道板存放不规范造成部分轨道板翘曲变形，翘曲变形数据与轨道板精调数据不能有机结合，造成施工现场精调难度加大；轨道板灌浆后平顺性检测数据没有成熟的软件进行分析，造成轨道扣配件较大范围的更换，给施工单位造成一定的经济损失；对施工现场不能进行实时有效数据监控，造成施工质量和施工安全的隐患。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了更有效地监控轨道板厂生产的轨道板质量、施工阶段轨道板的铺设质量和精度、各施工单位的施工进度情况，研发一套板式无砟轨道精调信息化管理系统，让管理层、设计研究人员及技术人员实时掌握施工现场真实情况，将轨道板安装施工过程数据真实、完整、及时的存储下来，并对其进行分析、应用，具有极大的施工指导价值和技术研究价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 系统构想",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为实现CRTSI型无砟轨道板精调施工过程的精细化管理，将“轨道板翘曲现场检测、精调、灌浆后复测、平顺性检测”等过程数据集中进行分析管理，达到施工过程控制可视化、科学化、精细化。同时在长轨精调之前，利用逐枕采集的数据预测逐枕扣件类型，提高现场扣件配置计划的准确性和扣件安装的针对性，降低长轨道精调阶段扣件更换率。长轨精调完成后，将逐枕扣件类型与RFID进行关联，从而实现轨道板精调及后续施工过程全周期管理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从以上构想出发，根据大数据的理念，结合计算机、BIM及物联网等科技手段，搭建信息化管理系统，系统整体构想如图1所示：",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/77cc5574d481b0a47dd8e6997c3df7d122318126a99c2e7b03b57d36bef8f944.jpg",
+        "img_caption": [
+            "图1板式无砟轨道精调信息化系统数据架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管理架构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据系统功能架构，系统面向板式无砟轨道施工管理者，因此在管理层级上按照“线路一业主 $\\asymp$ 设计、监理、施工单位(含工区)—管理员、监察员\"进行划分。根据管理者角色不同分配不同的功能，系统功能上主要是展示工程施工进度、工程质量合格情况、施工工序间数据对比情况、扣件的物联网信息情况。据此搭建系统的整体管理架构如图2所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b98680465aa38358e8253e35137f78c62fd858ebb0921a05f4428a24a8060d23.jpg",
+        "img_caption": [
+            "图2板式无砟轨道精调信息化系统模块架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 功能介绍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据系统功能构想与管理架构总体设置，整个",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信息化管理系统可划分为五大功能模块，具体内容如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 常规功能模块 一 路段管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统分权限进行管理，不同权限登录界面不同，管理员具有最高权限，可以设置线路信息、分配账号、设置各工序限差、设置管理结构等操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "各标段管理人员可以根据各标段工作情况，分配若干个作业组账号，作业组账号由组长管理，负责数据检查、上传、及超限信息处理，确保数据上传及时。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.2常规功能模块 精调阶段数据查看",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统可以用于查看轨道板检测数据、精调偏差数据、板间偏差数据、复测数据以及平顺性检测数据；统计各标段及全线灌浆后轨道板上浮情况、轨道板翘曲情况，生成相应的统计分析结果，指导轨道精调。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过平顺性检测数据，可以分析轨道板精调质量状况，测算长轨精调阶段的轨道调整量，为后期轨道调整工作量估算提供依据；系统还可以评估轨道综合质量指数(TQI）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.3特色功能模块 轨道板翘曲修正数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用前端采集软件配套精密工装及棱镜，对轨道板进行现场检测（检测原理与板场出厂检测一致），检测成果一键上传至信息化平台，平台对轨道板的翘曲状况进行分析。翘曲值未超过规范要求时，轨道板翘曲合格，平台生成的轨道板精调改正数为零；翘曲值超过规范要求时，平台将根据轨道板翘曲情况生成的轨道板精调修正数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "平台生成的轨道板精调修正数可实时传输给前端轨道板精调软件，针对现场会有网络不畅通的情况，前端采集软件同步配置有翘曲分析功能，生成的翘曲修正数将自动添加到轨道板精调参数中，指导轨道板精调作业。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/69901e856c3e962223996fa15295a552cb771893a0b38ee0083f071f1e356536.jpg",
+        "img_caption": [
+            "图3轨道板翘曲检测可视化界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "轨道板翘曲检测一般应在板厂完成，鉴于以往CRTSⅢ型板线路轨道板翘曲对轨道板精调产生的影响，系统将轨道板翘曲检测作业引入到轨道板粗铺后、精调前，根据实测的轨道板承轨台中心坐标数据，拟合出最佳平面，得出轨道板翘曲修正参数，以此指导轨道板精调，加快了轨道板精调的速度和准确性。如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.4特色功能模块一精调、灌浆后数据对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自密实混凝土灌注时，由于压紧不到位、超灌、精调器松动等原因，可能导致轨道板发生位移量超过规范要求，因此必须复测。将复测的数据与精调数据进行对比，可以直观地反映轨道板的上浮量，分析压紧工装的扣压力与上浮量之间的关系曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过大量数据分析，依据扣压力与上浮量关系曲线，可以在精调阶段消除施工工装系统误差，提高轨道板整体施工质量。如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3fa5ce4e19309aba957f85a53903b0b7d0857b706c08cc6d64a6ac1c48a43867.jpg",
+        "img_caption": [
+            "图4精调-复测数据对比分析界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fa777dc64269547426cf86296744ccf74a5c562d79c2e7f346ebe873059d13c.jpg",
+        "img_caption": [
+            "图5系统材料计划表格"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.5特色功能模块— 扣件预配置",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在以往的CRTSIII型板式无砟轨道施工工艺中，扣件配置情况分析一般在长轨精调阶段采用轨检小车来完成，其重点关注的是轨道综合质量指数（TQI)。即在在铺设钢轨时不考虑轨道板生产误差、施工偏差等因素，扣件均采用设计的标准型号。长轨精调阶段采用更换垫板和限位块的方式调整轨道几何线型，该工艺容易导致扣件和垫板的极大浪费，而且在常规精调阶段无的放矢。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "信息化管理系统将该作业引入灌浆后、长轨铺设前，利用精调标架、全站仪、精密棱镜逐枕采集承轨台中心坐标，考虑轨距、水平/超高、轨向、高低、轨向/高低短波不平顺（ $3 0 \\mathrm { m }$ 弦 $5 \\mathrm { m }$ 检核）、轨向/高低长波不平顺( $3 0 0 \\mathrm { m }$ 弦 $1 5 0 \\mathrm { m }$ 检核）扭曲、轨距变化率、水平/超高变化率、轨向/高低变化率等几何参数，提前分析预测逐枕扣件的类型，提供扣件预配置计划，最大限度地减少长轨精调阶段扣件更换、提高扣件采购计划的准确性和针对性。[2]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "扣件预配置计划测算，所有输出数据与动检小致，生成的扣件配置表格可以直接指导现场",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "施工。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前系统已经在京沈客专、昌赣铁路以及广清城际项目部分线路测试完成，系统各项功能基本实现、数据采集和分析功能正常。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "板式无砟轨道精调信息化管理系统，将板式无砟轨道现场安装过程中检板、精调、复测、平顺性检测、逐枕扣件类型以及相关RFID信息集中进行展示、管理与分析，在提高施工管理精细化和信息化程度的同时，施工过程中的大数据还可以与铁路工程管理平台对接，服务于线路运营维护阶段，实现真正意义上的板式无砟轨道施工全信息化、全生命周期管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］邢雪辉.CRTSⅢ型板式无砟轨道施工技术［M].人民交通出版社股份有限公司，2015.  \n［2］王琳.铁路轨道状态预测模型的研究［D].西南交通大学，2012.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Development of Delicate Adjusting Information Management System for the Slab Ballastless Railway Track ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Shen Xiang，Yang Ming ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Management Research Institute,China Tiesiju Civil Engineering Group Co.，Ltd.， Heifei 23O023，China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:CRTS II slab ballastless railway track isan innovative slab ballastless track with completely independent intellectual property rights of China.As anew structure type of line construction for passenger special line, a complete set of construction techniques has been summed up. With the development of CRH（China Railway High-speed）Technology，the application of CRTS IIslab ballstless railway track will be increasingly more extensive.Currently，with thecontinuousapplication of new technologies such as BIM（Building Information Modeling），IoT(Internetof things），big data，and etc.,theconstruction sitemanagementis also improving in refinement，information，scientific degree.The development of delicate adjusting information management system forthe slabballstlessrailway track enables the storage ofthe construction data in track plate installtion process in a true, complete and timely manner，which is laterused for analysis and application to realize the fullifecycle management of slab ballastless track construction in real sense.The system is of great construction guidance value and technical research value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Ballastless Track；Delicate Adjusting；Informatization；Lifecycle ",
+        "page_idx": 3
+    }
+]

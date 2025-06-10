@@ -1,0 +1,54 @@
+[
+    {
+        "type": "text",
+        "text": "Fighting against scientific misconduct: What can a journal do? ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tian-Yuan Huangl, Sichao Tongl and Liying Yang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 National Science Library, Chinese Academy of Sciences,Beijing China (Corresponding author: Tian-Yuan Huang; E-mail: huangtianyuan@mail.las.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As scholarly journals retracted large amounts of papers more frequently, the problem of scientific misconduct in academia is gaining escalating attention from the public.In 2O17,107 papers in Tumor Biology were retracted because these papers’ peer reviews were fabricated by third-party companies (Stigbrand 2O17). Another journal, European Review for Medical and Pharmacological Sciences, was reported that 86 papers were retracted in the year 2O2O (Data source: Retraction Watch, http://retractiondatabase.org/),because these papers were considered to be produced by paper mills. Furthermore, when COVID-19 swept over the world, huge quantities of papers related to the disease were racing to be published in journals or preprint repository (Soltani and Patini 2O2O).In such a short publication period, the quality control system of journals is challenged and we could find some papers were withdrawn just a few days after publishing,even in prestigious journals like The Lancet and New England Journal of Medicine.This could hurt the credibility of science and raise concerns about the actions taken afterwards based on these studies (Ledford and Van Noorden 2020). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Should scholarly journals take responsibility for publication retractions? It depends. In some cases, even author themselves do not realize there are errors in their study in the first place,and corrections are made once the mistakes are spotted. While some of the negligence could be avoided, it should be admitted that no research is perfect and unintentional fault just happens.This kind of retraction should do litle harm to the journal's reputation. Nevertheless,retractions at scale in single journals might reveal lack of management in their quality control process.Price should be paid in these occasions.For instance,after faked peer reviews spoted in Tumor Biology, Clarivate Analytics announced that papers published by this journal would not be indexed in Web of Science since July 19,2017 (McCook 2O17). This implies that Tumor Biology would be deselected for coverage in Web of Science and lack an impact factor in the JCR year 2017. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In essence,scholarly journals serve the academia as transparent and permanent forums to present, scrutinize and discuss research work. Capital from publishers has advanced dissemination of knowledge,however, it has also turned academic publishing into a business. Without regulation and supervision, the dark side of business,venality,could lead to devastating scientific misconduct at scale. In 2020, China’s Ministry of Science and Technology (MOST) had suggested to improve early warning mechanism of academic journals in an offcial document, so as to penalize untrustworthy and predatory journals.Following this policy,the Chinese Academy of Sciences constructed an Early Warning List of International Journals at the end of 2O2O (Petrou 2021), considering multiple factors，especially concerning the challnges from Chinese academia encountered currently, mainly including scientific misconduct, reasonable article processing charge (APC),degree of internationalization and risk of quality decline. Similar warning lists were also issued in local institutes and universities to be used as guidelines for personnel at journal selection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Under such context, academic journals should comply with certain ethical principles to guarantee science developing in a healthy style. At present, there are lots of guidelines provided to regulate the journals’conducts.For instance,the Committee of Publication Ethics (COPE),an established international organization aiming to raise best practices for journals and publishers,dedicates to support its members with advanced knowledge to safeguard integrity of scholarly record since 1997. Numerous guidelines and use cases could be found and referenced at its online documents (htps://publicationethics.org/).At national level,misconduct policies play a crucial role in preventing and policing scientific misconduct, though the definition of research misconduct varies in different countries (Resnik et al.2O15) and this mismatch might lead to potential problems,as reported in a piece of news in Science (O'Grady 2O21).Last but not least, considering the discipline difference,specific actions should be taken to promote integrity of research and its publication. For example, biomedical field has been hit hard by paper mills and other related research misconduct. As image manipulations are frequently committed in these misconducts,image integrity issues should be taken seriously for publications with lots of images. International Journal of Cancer,an international journal considering topics on experimental and clinical cancer research,has checked image integrity for their papers before acceptance since 2O17,and in 2O19 they start this checking at their first revision stage and require authors to provide raw data for images in the research (Heck et al. 2021). These practices effectively reduce the threat of figure fabrication and control the possible risk of scientific misconduct at early stages. The batle against scientific misconduct might not end easily,as the fraudsters are geting cleverer as they have been spotted and the arms race might go on for long (Else and Van Noorden 2O21). Therefore,the research managers, scientists and journal publishers must remain vigilant at al times and fight against scientific misconduct from top to bottom. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Else,H.& R.Van Noorden (2O21) The fight against fake-paper factories that churn out sham science.Nature, 591,516-519.   \nHeck, S., F.Bianchini, N. Y. Souren, C. Wilhelm, Y. Ohl & C.Plass (2021) Fake data, paper mills,and their authors: The International Journal of Cancer reacts to this threat to scientific integrity. International Journal of Cancer, 149, 492-493.   \nLedford, H. & R. Van Noorden (2O2O) High-profile coronavirus retractions raise concerns about data oversight. Nature, 582, 160-161.   \nMcCook,A. (2O17) When a journal retracts 1O7 papers for fake reviews, it pays a price.Retrieved from htps://retractionwatch.com/2017/08/16/journal-retracts-107-papers-fake-reviews-paysprice/   \nO'Grady, C. (2O21) What is research misconduct? European countries can't agree. Retrieved from https://www.sciencemag.org/news/2O21/03/what-research-misconduct-european-countriescan-t-agree   \nPetrou, C.(2O21) Guest Post-An Early Look at the Impact of the Chinese Academy of Sciences Journals Warning List. Retrieved from htps://scholarlykitchen.sspnet.org/2021/O4/14/guestpost-an-early-look-at-the-impact-of-the-chinese-academy-of-sciences-journals-warning-list/   \nResnik,D.B.,L.M. Rasmussen & G. E. Kissling (2O15) An international study of research misconduct policies. Accountability in research, 22,249-266.   \nSoltani,P.&R.Patini (2O2O) Retracted COVID-19 articles: a side-effect of the hot race to publication. Scientometrics, 125,819-822.   \nStigbrand,T. (2O17) Retraction Note to multiple articles in Tumor Biology. Tumor Biology. ",
+        "page_idx": 2
+    }
+]

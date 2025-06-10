@@ -1,0 +1,510 @@
+[
+    {
+        "type": "text",
+        "text": "Nitrogen rate and landscape impacts on life cycle energy use and emissions from switchgrass-derived ethanol ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ERIC G.MBONIMPA¹, SANDEEP KUMAR²,VANCE N. OWENS³,RAJESH CHINTALA², HEIDI L.SIEVERDING4 and JAMESJ.STONE4   \n1DepartmentofSystems EngineringandManagement,AirForceInstituteofTechnologyWPAFB,OH,USA,PlantScience Department,outhkotatateiesityrooings,DANorthentralRegioalunGantCenterutot StateUniversityongepamentfldrometalEineinguthotolf Technology,Rapid City,SD,UA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Switchgrass-derived ethanol has been proposed as an alternative to fossil fuels to improve sustainability of the US energy sector.In this study,lifecycleanalysis (LCA)was used to estimate the environmental benefits of this fuel.To better define the LCA environmental impactsassociated with fertilizationratesand farm-landscape topography,results from a controlled experiment were analyzed. Data from switchgrass plots planted in 2008, consistently managed with three nitrogen rates $( 0 , 5 6 ,$ and $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\mathrm { { h a } ^ { - 1 } ) } }$ ， two landscape positions (shoulder and footslope),and harvested annually (starting in 2009,the year after planting) through 2014 were used as input into the Greenhouse gases,Regulated Emissons and Energy use in transportation (GREET) model. Simulations determined nitrogen (N) rate and landscape impacts on the life cycle energy and emisions from switchgrass ethanol used in a passenger car as ethanol-gasoline blends ( $1 0 \\%$ ethanol:E10, $8 5 \\%$ ethanol:E85s). Results indicated that E85s may lead to lower fossil fuels use (58 to $7 7 \\%$ )，greenhouse gas (GHG) emissions (33 to $8 2 \\%$ ） and particulate matter (PM2.5) emissions (15 to $5 4 \\%$ ） in comparison with gasoline.However,volatile organic compounds (VOCs) and other criteria pollutants such as nitrogen oxides $( \\mathsf { N O x } )$ particulate matter (PM10),and sulfur dioxides $( \\mathrm { S O _ { x } } )$ were higher for E85s than those from gasoline.Nitrogen rate above $5 6 ~ \\mathrm { k g } \\mathrm { \\textnormal { N h a } } ^ { - 1 }$ yielded no increased biomassproduction benefits; butdid increase (up to twofold)GHG,VOCs,and criteria pollutants. Lower blend (E10)results were closely similar to those from gasoline.The landscape topography also influenced life cycle impacts.Biomass grown at the footslope of fertilized plots led to higher switchgrass biomass yield, lower GHG,VOCs,and criteria polutants in comparison with those at the shoulder position.Results also showed that replacing switchgrass before maximum stand life (10-20 years.）can further reduce the energy and emissions reduction benefits. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: bioethanol,Emisionsenergyuse,greenhousegases regulatedemissionsand energyuseintransportation,life cycle analysis, switchgrass ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received18March 2015;revised version received9 July 2015and accepted15July 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Switchgrass (Panicum virgatum L.),a tall grass native to USA,is considered as a promising feedstock to produce second generation biofuel (McLaughlin & Kszos,2005). Second generation biofuels (e.g., lignocellulosic ethanol) were mandated by US Energy Independence and Security Act of 2007 (Congress，2007).Fueling millions of North American light duty vehicles with domestic cellulose-derived fuels could improve environmental quality and sustainability of the energy sector (Spatari et al., 2005).Currently，major bio-ethanol feedstocks include corn (Zea mays L.) and sugar cane(Saccharum officinarum L.). However, biofuels production from row crops (e.g., corn starch-derived ethanol） may negatively impact water quality because nutrients transport from fertilized cropland can contribute to eutrophication of water bodies (Simpson et al., 20o8).It may also impact food secu rityif croplands that feed humans are transformed into fuel-feedstock production lands (e.g.,Naylor et al.,2007; Simpson et al.,2008). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Switchgrass, like many other tall grasses such as miscanthus (Miscanthus giganteus） and prairie cordgrass (Spartina pectinata)，maybe preferable in certain areas because it is perennial，can be grown on land less suitable for row crops,and can be used alternatively for forage.Its benefits include carbon sequestration,high biomass generation，and low fertilization and soil disturbance requirements (Wang et al.,201o;Hartman et al.,2011). Switchgrass production can be influenced by environmental conditions and agricultural management,especially in the first few years of establishment. Environmental conditions，such as landscape position, and fertilizer management can affect the biomass yield, greenhouse gas emissions,and eutrophication potential (Bai et al.,2010;Nikiema et al.，2011;Mbonimpa et al., 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One of the challenges of switchgrass production is that the yield and nutrients requirement depend on location,weather， and agricultural management (Parrish & Fike,2005).To increase economic and environmental competitiveness of switchgrass-based biofuel, research has been focused on efficient feedstock production and biomass-to-fuel conversion.But there is still a wide range of yield potentials reported by various studies.Parrish & Fike (20o5) indicated that in US regions with sufficient rainfall (e.g., US Midwest down to Southeast)，roughly $1 5 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ of biomass can be produced annually with approximately $5 0 ~ \\mathrm { k g } \\mathrm { ~ N ~ } \\mathrm { h a } ^ { - 1 }$ of fertilizer application. Guretzky et al. (2011) indicated yields of up to $2 1 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 }$ in US southern great plains with N fertilization rate up to $2 2 5 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ . Nikiema et al.(2011） in Michigan observed yield increases from $4 . 8 9 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ with increases in fertilization of $5 6 ~ \\mathrm { k g ~ N }$ $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ ? $( 1 . 5 \\times$ yield）and $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\ h a ^ { - 1 } }$ ? $2 . 5 \\times$ yield). Mulkey et al. (2006) reported that switchgrass biomass yield ranged from 3.5 to $5 . 5 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ in South Dakota with $5 6 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ of fertilizer,and no increase in biomass yield beyond this fertilization rate.These yields are achieved after full stand establishment. Switchgrass can take 1 to 3 years after planting to reach maximum yield potential (Parrish & Fike,2oo5)and has a stand life of 10-20 years (Monti et al., 2009; Sokhansanj et al., 2009).The relationship between yield and N fertilization rate was found to be location dependent; switchgrassresponse tonitrogen islikely to beless pronounced in northern US locations than southern locations (Guretzky et al.，2011). These yield-nitrogen relations may also vary depending on whether the management includes one or two harvests a year. One harvest could promote more carbon sequestration because，assuggested in Guretzky et al. (2011)，it allows maximum translocation of nutrients and storage reserves in roots before harvest. In addition to N fertilizer，herbicides may be needed during establishment years;an established stand should outcompete weeds. Soil amendments such as phosphorus, lime and potassium may also be required (Bai et al., 2010). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The yield and nitrogen management may also be influenced by the landscape topography,especially on sloped landscapes.In previous studies，greater biomass yields at the deposition position (footslope) were observed and linked to soils with greater production potential compared to higher elevation position (shoulder）(Bachman，1997；Harmoney et al.，2001).Higher carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ emissions and soil organic carbon were observed at the footslope compared to the shoulder position (Mbonimpa et al.，2015). Carbon storage also varies with depth; Liebig et al.(2oo8) reported a significantcarbonsequestrationwithsoil carbon increases of about 1.1 and $2 . 9 ~ \\mathrm { M g - C ~ h a } ^ { - 1 } ~ \\mathrm { y e a r } ^ { - 1 }$ for the $0 { - } 3 0 ~ \\mathrm { c m }$ and $0 { \\mathrm { - } } 1 2 0 ~ { \\mathrm { c m } }$ depths，respectively，when growing switchgrass. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To understand switchgrass and derived fuels, life cycle analysis (LCA)，a common process for environmental accounting,has been used.Past LCA studies on switchgrass-derived ethanol generated inventories of environmental impacts from various life cycle steps that include switchgrass production (based mostly on yield for one or few locations)， transportation,conversion of biomass to ethanol, transportation of ethanol, blending with other fuels,and use in various types of vehicles (Wu et al.，2006; Bai et al.，2010). This pathway is referred as well-to-wheel or cradle-to-grave to indicate start and end points of analysis.Usually to show the environmental benefits of the cellulosic ethanol and other renewable energy used in vehicles,the pathway of comparison involves petroleum-derived fuels such as gasoline (Wang et al.,2012; Luk et al.,2013).However, results from these LCA studies vary considerably due to differences in assumptions，inputs，and system boundaries. In particular, studies that ignored electricity coproduced from ethanol production process wastes (lignin） indicated less environmental benefits compared to studies that considered coproducts (Wang et al., 2011; Luk et al.，2013).Nevertheless,substantial environmental benefits of switchgrass-derived ethanol in comparison with fossil fuels were reported by previous life cycle studies. Spatari et al. (2005) indicated that greenhouse gas (GHG) emissions are $57 \\%$ lower for a switchgrass-derived E85-fueled $8 5 \\%$ ethanol, $1 5 \\%$ gasoline) automobile compared to petroleum gasoline-fueled automobile.Wu et al.(2006) reported reductions in petroleum and fossil fuels $( 6 6 - 9 3 \\% )$ ，GHG emissions $( 8 2 - 8 7 \\%$ )，and $\\operatorname { s o x }$ 1 $( 3 9 - 4 3 \\% )$ ）when they compared switchgrass-derived unblended ethanol to gasoline.Schmer et al.(2008) reported $9 4 \\%$ lower GHG emissions and $5 4 0 \\%$ more renewable energy than non-renewable energy consumed during switchgrass ethanol life cycle (with switchgrass yield between 5.2 and 11 ton $\\mathbf { h } \\mathbf { a } ^ { - 1 }$ in comparison with gasoline life cycle. Bai et al. (2010) indicated that driving with switchgrass ethanol (E85) leads to $6 5 \\%$ less GHG emissions than gasoline.They also noticed adverse impacts in comparison with gasoline.With $1 0 0 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ of fertilizer application,Bai et al.(2010) calculated approximately 2.5 times more eutrophication potential (in terms of kilograms of $\\mathrm { P O } _ { 4 }$ equivalent) in comparison with gasoline.Also, the addition of herbicides contributed to water ecotoxicity. However,the toxicityin Bai et al. (201O)maybe overestimated because they applied herbicides every year, while in practice it is applied only in the first few $( \\sim 2 - 3 )$ yearsafter planting switchgrass.Theyalso did not clarify the impact management practices,such as fertilizer management, and location environmental aspects (e.g., soil, weather,and topography) have on their findings. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although previous studies performed a complete LCA analysis for switchgrass-derived ethanol, most of themused the standard biomass yields,fertilizers rates, and included soil amendments which may not be needed at some locations.Most studies havenot included field-scale agricultural conditions associated with nitrogen application rates and landscape positions which may influence the overall environmental impact of switchgrass-derived ethanol. To fill this gap,an LCA using the Greenhouse gases,Regulated Emissions,and Energy use in Transportation (GREET） model (Wang, 1999,20o8) was performed using data from a field-scale case study of switchgrass grown with different $\\mathrm { \\Delta N }$ application rates and landscape positions in US northern plains region. Data on specific energy used by machinery,soil GHG emissions under various treatment conditions,and biomass yield associated with N rates and landscape positions were used as inputs in the model. The primary objective of this study was to assess the impacts of field-scale agricultural management on the life cycle energy use and emissions of switchgrassderived ethanol. Most vehicles currently on the road cannot operate on pure ethanol; therefore,this study focused on ethanol-gasoline blends asa realistic path forward for switchgrass-derived ethanol product development. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Systemboundaryand functional unit ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ethanol-blend life cycle was divided into three major steps: (i) the feedstock (switchgrass） production and delivery to the cellulosic ethanol production plant; (ii) the fuel production, mixing,and distribution;and (ii) vehicle operation.The production and disposal of machinery and vehicles are not included.The life cycle materials and processes are depicted in Fig.1.Life cycle energy (Joules）and emissions (grams） were estimated perunit distance of vehicle operation (per kilometer). The feedstock production part of the study involved field experiments whereas fuel production and vehicle operation were accomplished using GREET model simulations (described later). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the feedstock production,agricultural inputs including seed,nutrients,and herbicides were transported to the farm to grow switchgrass. The facilities that produce agricultural inputs acquired $7 5 \\%$ of process energy from natural gas and $2 5 \\%$ from electricity. The switchgrass production site was located near Bristol $( 4 5 ^ { \\circ } 1 6 ^ { \\prime } 2 4 . 5 5 ^ { \\prime \\prime } \\mathrm { N } ,$ 、 $9 7 ^ { \\circ } 5 0 ^ { \\prime } 1 3 . 3 4 ^ { \\prime \\prime } \\mathrm { W } )$ ，South Dakota,USA.The feedstock was produced on 12 plots $( 2 1 . 3 ~ \\mathrm { m }$ wide and $3 6 6 \\mathrm { ~ m ~ }$ long each) that were historically seeded with soybeans (Glycine max.L.).Switchgrass was planted on May 17, 2008.The plots form a split plot factorial design comprised of three N treatments $( 0 , 5 6 , 1 1 2 \\mathrm { ~ k g ~ N ~ h a } ^ { - 1 } )$ and two landscape positions (shoulder and footslope). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fuel consumption of machinery for agricultural management activities was obtained from Grisso et al. (20o4).The plots were not tilled before planting,and the switchgrass was planted using a 'Truax no-till drill' (Truax Company,New Hope,MN) pulled bya diesel-powered tractor.Herbicideswere applied as needed from 2008-2011 using a diesel powered applicator. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5bd665702bc753a487c7acd1d1a1355766e96d18b950dfc01b8fc33f7dbbc80.jpg",
+        "img_caption": [
+            "Fig.1Lifecycleanalysis system boundaryforthe study.Vehicle productionand disposal wereconsideredoutsidethescopeof the study. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Published 2015.This article is a US Government work and is in the public domain in the USA, GCB Bioenergy, doi:10.1111/gcbb.12296 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N was applied annually in late spring beginning in 2oo9 with the same type of equipment.Harvesting switchgrass started the yearafter planting (2oo9)and continued every year thereafter aftera killing frost in autumn.Fertilizer continued to be applied each year in production years. Harvest was accomplished using a mowerandbaler pulledbya tractor.The farmactivityof each machine was converted into energy inputs (Tables 1 and 2) using fuel consumed per unit area covered or per number of balesharvested.The switchgrass yield for each plot was calculated byweighing bales produced minus losses during transport and handling. The biomass yield at different landscapes was determined by sampling a square meter quadrat, mowing,and weighing for each landscape position.To account for moisture content,a subsample was collected,dried,and weighed.Soil GHG emissions from this switchgrass land were monitored as described in detailbyMbonimpa et al.(2015). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Life cycle inventory analysis and assessment using GREETmodel ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The GREET (versionl_2013）model developed by Argonne National Lab (ANL) was used for the LCA in this study (Wang 1999).Fuels that were compared include gasoline,a mixture of $10 \\%$ ethanol,and $90 \\%$ gasoline by volume (E1O) that can be used in most gasoline vehicles;and flex fuel a mixture of $8 5 \\%$ ethanol and $1 5 \\%$ gasoline by volume(E85) used for flex fuel vehicles (FFV). Total energy use,fossil energy use,petroleum use,GHG emissions,and emissions of criteria pollutants for a light duty passenger vehicle were obtained using GREET.This study compared the results from blended ethanol-gasoline technologies with those from gasoline.The technologies were assumed to be those available by the year 2015 (target year of simulations). Nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ emissions from switchgrass farming as a percentage of total nitrogen (N)-fertilizer were calculated from monitored $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions at various field experimental treatments,that is,fertilizer rate and landscape position (see Tables 1 and 2 for modeled scenarios).The simulations include potential $\\mathrm { C O } _ { 2 }$ emissions reductions from landuse change that were estimated with Carbon Calculator for Land Use Change from Biofuel production (CCLUB) for the GREET model (Dunn et al.,2014). The $\\mathrm { C O } _ { 2 }$ reduction due to land-use change was estimated to be approximately $1 2 9 \\ \\mathrm { g \\ L ^ { - 1 } }$ of ethanol produced.GREET estimates a soil carbon sequestration of about $4 8 \\ 8 0 0 \\ \\mathrm { g } \\mathrm { C O } _ { 2 }$ per dry ton of switchgrass. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6c7b7ec75256266e81a33b1bd508ba6c554e2ada62b53ba3e80ac393b141a14.jpg",
+        "table_caption": [
+            "Table1 Farm-level informationusedin the GREET model for variousN rates "
+        ],
+        "table_footnote": [
+            "\\*Nitrous oxide. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">N levels</td></tr><tr><td>Farm-level information</td><td>0 kg ha-1</td><td>56 kg ha-1</td><td>112 kg ha-1</td></tr><tr><td>Moisture (average,%)</td><td>16.6</td><td>16.6</td><td>16.6</td></tr><tr><td>Yield (ton ha-1 yr-1)</td><td>3.74</td><td>5.11</td><td>5.12</td></tr><tr><td>Biomass (dry tons,d.ton</td><td>2.43</td><td>3.32</td><td>3.32</td></tr><tr><td>ha-1 yr-1) Fertilizer (g-N/d.ton)</td><td>0</td><td>13 126</td><td>26 226</td></tr><tr><td>Herbicides (g/d.ton)-15</td><td>27.44</td><td>20.10</td><td>20.05</td></tr><tr><td>yearharvest Farming energy</td><td>174 401</td><td>151 679</td><td>151 531</td></tr><tr><td>(Btu/d.ton)-15 year harvest Herbicides (g/d.ton)-1 year</td><td>1365.6</td><td>998.8</td><td>997.8</td></tr><tr><td>harvest Farming energy (Btu/d.ton)-1</td><td>277 972</td><td>227 438</td><td>227 216</td></tr><tr><td>year harvest Seeds (kg ha-1)-sunburst</td><td>11.2</td><td>11.2</td><td>11.2</td></tr><tr><td>variety N content in biomass (%)</td><td>0.58</td><td>0.62</td><td>0.66</td></tr><tr><td>Harvest collection rate (%)</td><td>90</td><td>90</td><td>90</td></tr><tr><td>(default-GREET) N2O*(% of Nin fertilizer and biomass)</td><td>1.5</td><td>1.0</td><td>0.6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ethanol generation.The bioprocessing of switchgrass into ethanol was simulated using the GREET model as described in Wu et al.(2008,2006),and they describe the source of emissions during the conversion processes.This process is a net producer (coproduction）of electricity (Spatari et al.，2005). Ethanol yield used was $0 . 3 5 ~ \\mathrm { L ~ k g ^ { - 1 } }$ of dry biomass.This value (GREET (default value)) is based on assessment of recent conversion advances (saccharification/fermentation process). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ethanol use. The GREET model vehicle fuel economy is adjusted for on-road performance using the US Environmental Protection Agency (EPA）kilometers-per-liter-based method andasplitbetweencity $( 4 3 \\% )$ andhighway $( 5 7 \\% )$ vehiclekilometers traveled (VMT).In GREET (version1_2013)，vehicle models are in 5-year increment; the target vehicle model in this study is 2010 with a fuel economy of 58 kilometers per liter. GREET also contains inventory of exhaust emissions (VOC, PM10, PM2.5, $\\mathrm { C H } _ { 4 } ,$ and $\\mathrm { N } _ { 2 } \\mathrm { O } )$ in $\\mathrm { g } \\ \\mathrm { k m } ^ { - 1 }$ traveled. Three types of alternative-fueled vehicles were compared with gasoline fueled. These include gasoline vehicles that consume low-percentage ethanol blends (E1O),flex fuel vehicles (FFV,E85),and dedicated E85 (Dedi.E85) which are $6 . 5 \\%$ more efficient than other vehicles (gasoline,E1o,FFV). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d31c5018f808ab5ec2da6ccfd2a1b15dff02c932539cc1191849b47fa490921.jpg",
+        "table_caption": [
+            "Table 2 \\*Farm-level information used in GREET model for various landscape positions "
+        ],
+        "table_footnote": [
+            "\\*These are the parameters that changed in reference to Table 1. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Farm-level information</td><td colspan=\"3\">Landscape positions</td></tr><tr><td>Shoulder</td><td>Footslope</td><td>Shoulder Footslope</td></tr><tr><td>0 kg ha-1</td><td></td><td>112 kg ha-1</td></tr><tr><td>Biomass (Dry tons, d.ton ha-1yr-1)</td><td>6.47</td><td>8.41</td><td>9.88 15.87</td></tr><tr><td>Fertilizer (g-N/d.ton)</td><td>0</td><td></td><td>8819 5498</td></tr><tr><td>Herbicides (g/d.ton)</td><td>10.26</td><td>7.89</td><td>6.72</td></tr><tr><td>Farming energy (Btu/d.ton)</td><td>65 496 59911</td><td>50 997</td><td>31 749</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Transportation and distribution.Switchgrass biomass was transported by heavy-duty trucks (25 metric tons of switchgrass payloads)，and the ethanol produced is a distributed across country with barges,pipeline,rail road,and heavy-duty trucks.For the transportation,distribution distance values were obtained from GREET model default estimates.It was assumed that the switchgrass was transported to a conversion plant located at distance of $8 5 ~ \\mathrm { k m }$ one way (GREET model default). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Scenarios.A total of ten GREET models were setup and executed.Six models represented the three nitrogen rates (0, 56, $1 1 2 ~ \\mathrm { { k g } ~ N { \\ h a } ^ { - 1 } } ,$ ; each nitrogen rate had two models,oneyearharvest or 15-year harvest. These two stand ages provided upper (full stand life,15-year harvest.）and lower (abandonment,1-year harvest) bounds.The resources used during stand establishment are distributed to years the switchgrassis harvested or abandoned. Four models represented shoulder and footslope positions; each position had two models,with no N $( 0 \\ \\mathrm { k g { \\cdot } N h a } ^ { - 1 } )$ ）or high N $( 1 1 2 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 } )$ .These model scenarios contain different yields,energy use,biomass nitrogen content, $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions,herbicides to yield,and fertilizer to yield ratios as shown in Tables 1 and 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Impactofnitrogen fertilizerandlandscapepositionon energyuse ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The GREET simulations compared the total energy consumed during the life cycle of switchgrass ethanol blended with gasoline (used in three types of passenger vehicles:Std:E10,FFV:E85,and Dedi.E85)to that of conventional gasoline.Results (shown in Fig.2) indicate that switchgrass-based blended ethanol life cycles may consume more energy (8 to $120 \\%$ ）than that of gasoline life cycle. However，gasoline life cycle uses more fossil energy (total of coal,petroleum，and naturalgas)thanblendedethanol's(E1o， E85, Dedi.E85).Use of E85s resulted in 58 to $7 7 \\%$ less fossil fuel consumption. E1o use reduced fossil fuels consumption by 5 to $6 . 5 \\%$ in comparison with gasoline. Life cycle energy use by blended ethanol fuels was impacted by nitrogen (N） fertilizer applied during feedstock production (Table 3). The addition of 56 and $1 1 2 \\mathrm { ~ k g ~ N ~ }$ ha of fertilizer increased total energy and fossil fuel use by 8 and $1 6 \\%$ ，respectively，in comparison with no $\\mathrm { \\Delta N }$ addition. The natural gasuse increased with $\\Nu$ fertilization rate increase aswell (Fig. 2). The results also demonstrated a large saving in coal use (up to $4 0 6 \\%$ ）forswitchgrass-based ethanol life cycle compared to gasoline in the Northern Plains region of United States (Fig.2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac6d44a82dc1ff39e9c14b3631825f6083bd15e2595575a57ffa6ca6671cbfb7.jpg",
+        "img_caption": [
+            "Fig.2Percent change of switchgrass ethanollife cycle impacts relative to gasoline for switchgrass grown with $0 ~ \\mathrm { k g \\ h a } ^ { - 1 }$ (top), $5 6 ~ \\mathrm { k g } \\ \\mathrm { h a } ^ { - 1 }$ (middle),and $1 1 2 ~ \\mathrm { { k g } \\ h a ^ { - 1 } }$ (bottom). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Further， the simulations showed that the landscape topography slightly impacted life cycle energy use. As shown in Fig.3，when comparing ethanol blends and gasoline for the shoulder and footslope,the difference is small and less noticeable.On plots that received $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\ h a ^ { - 1 } } ,$ ，the shoulder position was linked to 88 and $9 4 ~ \\mathrm { k J ~ \\ k m ^ { - 1 } }$ (approximately $5 . 4 \\%$ of total energy） more life cycle energy use for FFV: E85 and Dedi.E85，respectively (Table 4). The difference was very small $( \\sim 3 \\mathrm { ~ k J \\ k m ^ { - 1 } } )$ for plots where no fertilizer was applied.At low ethanol blend (E1O),the difference due to landscape was also small $( 8 ~ \\mathrm { k J ~ \\ k m ^ { - 1 } }$ at $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\mathrm { { h a } } ^ { - 1 } }$ 、 $0 . 2 8 ~ \\mathrm { k J ~ k m } ^ { - 1 }$ for no fertilizer). The differences were largely attributed to fossil fuel as shown in Table 4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ethanol life cycle energy is distributed within three main steps: feedstock production,fuel production,and vehicle operation.For E85s,about 21，38.3,and $4 0 . 7 \\%$ of energy is used on feedstock production, fuel production，and vehicle operation，respectively.For low blend (E10),the distribution changes to 5.2,20.4,and $7 4 . 4 \\%$ . In comparison，the life cycle of gasoline is distributed among the three life cycle steps as 6,13,and $81 \\%$ .Application of fertilizer increased the share of the energy for feedstock production by 3 and $6 \\%$ for 56 and $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\ h a ^ { - 1 } , }$ ，respectively. The landscape change only led to $1 \\%$ (higher at the shoulder）difference in the share of energy associated with feedstock production. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Impact of nitrogen fertilizer and landscape position on GHG emissions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results indicated that the feedstock production lead to a net GHG sink as shown with negative numbers in Table 3．For E85s， $1 3 0 { - } 1 6 0 \\ \\mathrm { g } \\ \\ \\mathrm { k m } ^ { - 1 }$ of GHGwas removed from the atmosphere in nonfertilized switchgrass.But,the addition of fertilizer increased GHG by approximately $6 9 ~ \\mathrm { g ~ k m } ^ { - 1 }$ and $1 3 9 \\ \\mathrm { g \\ k m ^ { - 1 } }$ for 56 and $1 1 2 ~ \\mathrm { k g } \\mathrm { ~ N ~ } \\mathrm { h a } ^ { - 1 }$ ，respectively.The fuel production also removed a small amount of atmospheric GHG $( \\sim 3 \\mathrm { - } 4 \\ \\mathrm { g }$ $\\mathbf { k m } ^ { - 1 } ,$ .However,the GHG sink by the feedstock and fuel production was offset by vehicle operation and resulted into net GHG emissions of about $5 0 { - } 2 0 0 ~ \\mathrm { g }$ $\\mathrm { k m } ^ { - 1 }$ .The landscape position also impacted GHG trends in fertilized plots. For E85s,an average of $^ { 1 8 \\mathrm { ~ g ~ } }$ $\\mathrm { k m } ^ { - 1 }$ more GHGs was removed at the footslope in comparison with the shoulder position (Table 4).In comparison with gasoline，net GHG associated with E85s was between 33 and $82 \\%$ lower for 56 and $1 1 2 ~ \\mathrm { k g }$ $\\mathsf { N \\ h a } ^ { - 1 }$ ，respectively. For E10, these were 2.8 to $7 \\%$ lower. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Among individual GHGs, the $\\mathrm { C O } _ { 2 }$ was reduced by the feedstock and fuel production steps for switchgrass ethanol used in E85s. Other GHGs, $\\mathrm { C H } _ { 4 }$ and ${ \\mathrm { N } } _ { 2 } { \\mathrm { O } } ,$ were emittedbyall steps of the fuellifecycleand increased with nitrogen rate and at the shoulder position (Fig. 4). $\\mathrm { N } _ { 2 } \\mathrm { O }$ was the GHG that increased the most with the increase in fertilizer rate. $\\mathrm { N } _ { 2 } \\mathrm { O }$ increased approximately 18- and 36-fold for 56 and $1 1 2 ~ \\mathrm { k g } \\mathrm { N } \\mathrm { h a } ^ { - 1 }$ fertilizer application,respectively，when the feedstock was produced for E85s.But that increase was about 4.8- to 8.7-folds if the total $\\mathrm { N } _ { 2 } \\mathrm { O }$ from all life cycle steps were considered. For similar situations (adding 56 and $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\mathrm { { h a } } ^ { - 1 } ) }$ $\\mathrm { C H } _ { 4 }$ increasedbyabout $7 3 \\mathrm { - } 1 4 8 \\%$ . The $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions at the shoulder of fertilized plots were $3 5 \\%$ higher in comparison with the footslope for E85s.In comparison with gasoline, $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions were between 540 and $23 2 1 \\%$ higher for E85s as shown in Fig.5.For E10,the increasewasabout $5 0 { - } 2 0 0 \\%$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Impactofnitrogen fertilizerandlandscapepositionon volatile organic carbon(VOC) emissions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results show that increase in fertilization rate to grow switchgrass is associated with increases in VOCs. Although the largest portion of VOCs originated from fuel production $3 7 \\%$ for E10, $5 3 \\%$ for E85)and vehicle operation $5 5 \\%$ for E10, $3 3 \\%$ for E85)，the fertilizer increase led to increase in total VOCs( $1 4 \\%$ at $5 6 ~ \\mathrm { k g ~ N }$ $\\mathrm { \\ h a } ^ { - 1 }$ 、 $2 7 \\%$ at $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\ h a ^ { - 1 } } ,$ .This increase is most noticeable for E85 fuels，especially at the feedstock production stage where the highest fertilizer rate resulted in approximately 9 times higher VOCs in comparison with no fertilization (Table 3). In comparison with gasoline，the life cycle VOCs for E85 produced from switchgrass grown with no nitrogen were $23 \\%$ higher than VOCs from gasoline. This percentage increased (by $3 9 \\%$ at $5 6 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ 1 $5 5 \\%$ at $1 1 2 \\mathrm { ~ k g ~ N ~ }$ $\\mathrm { \\ h a } ^ { - 1 } ,$ ）with increases in fertilization rate (Fig.2).Life cycle VOC emissions from using blended ethanol produced from unfertilized switchgrass grown at the shoulder are similar to those grown at the footslope. In contrast, for plots where $1 1 2 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ of fertilizer was applied，the E85 life cycle's VOCs were higher (\\~by $3 . 5 \\%$ ）for shoulder biomass compared to the footslope biomass.If only VOCs from feedstock production are compared, the shoulder biomass accounts for $45 \\%$ more VOCs than the footslope.For E10, there was little difference between shoulderand footslope (Table 4). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/afb408bd3305f2276973c4f3120b6f5963fabd0ccdb90f68a1b7badde52c363d.jpg",
+        "table_caption": [
+            "eeeee "
+        ],
+        "table_footnote": [
+            "Published 2015.This article is a US Government work and is in the public domain in the USA,GCB Bioenergy, doi:10.1111/gcbb.12296 "
+        ],
+        "table_body": "<html><body><table><tr><td>Fuel type</td><td>Feedstock</td><td>Fuel</td><td>Vehicle</td><td>Fuel type</td><td>Feedstock</td><td>Fuel</td><td>Vehicle</td></tr><tr><td colspan=\"8\">Total E (KJ km-1)</td></tr><tr><td></td><td></td><td>499</td><td></td><td colspan=\"2\">Net GHG (g km-1)</td><td>39.8</td><td>224.9</td></tr><tr><td>Gasoline E10</td><td>230 215</td><td>841 (28) (56)</td><td>3070 3070</td><td>Gasoline E10</td><td>25.8 9.59</td><td>36 (6) (12)</td><td>224.5</td></tr><tr><td>FFV-E85</td><td>1585 (314) (641)</td><td>2893</td><td>3070</td><td>FFV-E85</td><td>-160 (69) (139)</td><td>-3.84 (0.04) (0.08)</td><td>220.6</td></tr><tr><td>Dedi E85</td><td>1481 (294) (599)</td><td>2704</td><td>2869</td><td>Dedi E85</td><td>-150 (65) (130)</td><td>-3.57 (0.06) (0.10)</td><td>206.2</td></tr><tr><td colspan=\"8\">CO (g km-1)</td></tr><tr><td>Gasoline</td><td>19</td><td>38</td><td>223</td><td>CH4 (g km-1) Gasoline</td><td>0.276</td><td>0.068</td><td>0.007</td></tr><tr><td>E10</td><td>3</td><td>33 (3) (5)</td><td>223</td><td>E10</td><td>0.257</td><td>0.066 (0.005) (0.010)</td><td>0.007</td></tr><tr><td>FFV-E85</td><td>-164 (25) (51)</td><td>-12</td><td>219</td><td>FFV-E85</td><td>0.083 (0.061) (0.123)</td><td>0.026</td><td>0.007</td></tr><tr><td>Dedi E85</td><td>-153 (23) (47)</td><td>-11</td><td>205</td><td>Dedi E85</td><td>0.078 (0.057) (0.115)</td><td>0.024</td><td>0.007</td></tr><tr><td colspan=\"8\">Net GHG (g km-1) 1 year-harvest</td></tr><tr><td></td><td></td><td></td><td></td><td>Fossil E (KJ km-1)</td><td></td><td></td><td></td></tr><tr><td>Gasoline E10</td><td>25.8</td><td>39.8</td><td>224.9</td><td>Gasoline</td><td>218 203</td><td>490 464 (27) (55)</td><td>3070</td></tr><tr><td>FFV-E85</td><td>9.59 -144 (65) (134)</td><td>37.5 (5.6) (11.7) -3.85 (0.04) (0.08)</td><td>224.5 220.6</td><td>E10 FFV-E85</td><td>223 (310) (633)</td><td>12</td><td>2865 717</td></tr><tr><td>Dedi E85</td><td>-134 (60) (125)</td><td>-3.60 (0.04) (0.08)</td><td>206.2</td><td>Dedi E85</td><td>208 (290) (592)</td><td>11</td><td>670</td></tr><tr><td colspan=\"8\">VOC (g km-1)</td></tr><tr><td>Gasoline</td><td>0.01</td><td>0.068</td><td>0.106</td><td>CO (g km-1)</td><td>0.016</td><td>0.059</td><td></td></tr><tr><td>E10</td><td>0.01</td><td>0.074 (0.002) (0.005)</td><td>0.106</td><td>Gasoline E10</td><td>0.015</td><td>0.072 (0.003) (0.007)</td><td>1.781 1.781</td></tr><tr><td>FFV-E85</td><td>0.008 (0.032) (0.064)</td><td>0.127</td><td>0.1</td><td>FFV-E85</td><td>0.027 (0.043) (0.076)</td><td>0.193</td><td>1.781</td></tr><tr><td>Dedi E85</td><td>0.008 (0.029) (0.060)</td><td>0.118</td><td>0.1</td><td>Dedi E85</td><td>0.025 (0.031) (0.071)</td><td>0.180</td><td>1.781</td></tr><tr><td colspan=\"8\">NOx (g km-1)</td></tr><tr><td>Gasoline</td><td>0.077</td><td>0.055</td><td>0.075</td><td>PM10 (g km-1) Gasoline</td><td>0.005</td><td>0.048</td><td>0.016</td></tr><tr><td>E10</td><td>0.072</td><td>0.076 (0.009) (0.020)</td><td>0.075</td><td>E10</td><td>0.005</td><td>0.049</td><td>0.016</td></tr><tr><td>FFV-E85</td><td>0.081 (0.113) (0.231)</td><td>0.224</td><td>0.075</td><td>FFV-E85</td><td>0.006 (0.007) (0.015)</td><td>0.054</td><td>0.016</td></tr><tr><td>Dedi E85 PM2.5 (g km-1)</td><td>0.075 (0.107) (0.217)</td><td>0.209</td><td>0.075</td><td>Dedi E85</td><td>0.005 (0.007) (0.015)</td><td>0.050</td><td>0.016</td></tr><tr><td colspan=\"8\"></td></tr><tr><td>Gasoline</td><td>0.005</td><td>0.045</td><td>0.007</td><td>SOx (g km-1) Gasoline</td><td>0.033</td><td>0.043</td><td>0.004</td></tr><tr><td>E10</td><td>0.004</td><td>0.044</td><td>0.007</td><td>E10</td><td>0.031</td><td>0.042</td><td>0.003</td></tr><tr><td>FFV-E85</td><td>0.005 (0.006) (0.012)</td><td>0.024</td><td>0.007</td><td>FFV-E85</td><td>0.022 (0.101) (0.207)</td><td>0.020</td><td>0.002</td></tr><tr><td>Dedi E85</td><td>0.005 (0.005) (0.011)</td><td>0.023</td><td>0.007</td><td>Dedi E85</td><td>0.020 (0.095) (0.194)</td><td>0.019</td><td>0.002</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/073e2ee35bfe043a8f7fb54fed6f4c3cda9c007f4fa14f8ab1cc5dd1984e7e3d.jpg",
+        "img_caption": [
+            "Fig.3Impactoflandscapeonpercentchangeofswitchgrassethanollifecycleimpactsrelative togasoline:switchgrassgrownwit $1 1 2 ~ \\mathrm { k g } \\mathrm { \\Delta N } \\mathrm { \\ h a } ^ { - 1 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In comparison with gasoline，E85s (FFV，Dedi.E85, respectively） were linked to approximately $2 8 \\mathrm { - } 3 8 \\%$ more VOCs those from gasoline.Life cycle VOCs were slightly higher (by ${ \\sim } 3 . 6 \\% \\mathrm { \\Omega }$ ）forE10 than gasoline. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Impactofnitrogenfertilizerandlandscapepositionon criterial pollutants emissions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Carbon monoxide (CO). CO emissions are mainly attributable to vehicle operation $( \\sim 9 7 \\% )$ as shown in Table 3. Hence,the application of fertilizer had a small impact on the life cycle CO;it increased by about 1.7 and $3 . 6 \\%$ for addition of 56 and $1 1 2 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 } .$ ，respectively，for E85s.However,if only the feedstock production is considered, the increase in CO emissions due to nitrogen application was about 2.2 and 3.8 times higher for E85 with the application of 56 and $1 1 2 ~ \\mathrm { k g } \\mathrm { ~ N ~ } \\mathrm { h a } ^ { - 1 } .$ ，respectively，in comparison with no nitrogen application. In general,the entire life cycle of ethanol-gasoline mix produced approximately $_ { 2 \\textrm { g } }$ of CO emissions per km. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In comparison with gasoline，these emissions were higher by about 7，8.7，and $1 0 . 5 \\%$ for $\\begin{array} { l l } { 0 , } & { 5 6 , } \\end{array}$ and $1 1 2 ~ \\mathrm { k g { - N } { \\ h a } } ^ { - 1 } .$ ，respectively. The results also indicated that there were small differences in CO emissions based on landscape positioning.Vehicle operation is the primary source of CO. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$N O _ { x }$ .The results showed that in plots where no fertilizer was applied, the majority of $\\mathsf { N O } _ { \\mathrm { x } }$ originated from E85 fuel production $( \\sim 5 9 \\% )$ and the rest of $\\mathsf { N O } _ { \\mathrm { x } }$ generated from feedstock production $( \\sim 2 1 \\% )$ and vehicle operation $( \\sim 1 0 \\% )$ (Table 3). The addition of fertilizer changed the distribution of $\\mathsf { N O x }$ among life cycle steps. Forhigh fertilizerrate,the majority $( 5 1 \\% )$ of $\\mathsf { N O } _ { \\mathrm { x } }$ were produced from feedstock production meant for E85s and the fuel production share reduced to ${ \\sim } 3 7 \\%$ .For gasoline and E10, $\\mathsf { N O } _ { \\mathrm { x } }$ were approximately distributed equally on the three life cycle steps.Overall, the life cycle of ethanol-gasoline produced between 252 and $7 2 4 ~ \\mathrm { m g ~ k m ^ { - 1 } }$ of $\\mathsf { N O } _ { \\mathrm { x } }$ for E10 and E85s,respectively. In comparison with gasoline, these emissions were much higher by about 73.4,124.5,and $1 7 7 . 5 \\%$ for 0,56,and $1 1 2 ~ \\mathrm { k g } \\mathrm { - N } \\mathrm { \\ h a } ^ { - 1 }$ fertilization,respectively (Fig. 2). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results also indicated that the life cycle $\\mathsf { N O } _ { \\mathrm { x } }$ emissions were approximately similar for blended fuels derived from the shoulder biomass and footslope bio mass on plots with no fertilizer application.For fertilized plots，the footslope biomass(for E85 fuel）was linked to lower (by approximately $8 . 4 \\%$ ） $\\mathsf { N O } _ { \\mathrm { x } }$ compared to the shoulder biomass (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7eee681a04a347aee7ffc7586f9ef59a1f5d4f3255187420f0b97f3598b256b8.jpg",
+        "table_caption": [
+            "(ponuinutr) ",
+            "sreearreirnrernnerreeeergreert aqe "
+        ],
+        "table_footnote": [
+            "Published 2015.This article is a US Government work and is in the public domain in the USA,GCB Bioenergy, doi:10.1111/gcbb.12296 "
+        ],
+        "table_body": "<html><body><table><tr><td>N rate</td><td>Fuel type</td><td>Feedstock</td><td>Fuel</td><td>Vehicle</td><td>N rate</td><td>Fuel type</td><td>Feedstock</td><td>Fuel</td><td>Vehicle</td></tr><tr><td colspan=\"2\">Total E (KJ km-1)</td><td colspan=\"8\">Net GHG (g km-1)</td></tr><tr><td>0 kg ha-1</td><td>Gasoline</td><td>230</td><td>499</td><td>3070</td><td>0 kg ha-1</td><td>Gasoline</td><td>25.8</td><td>39.8</td><td>224.9</td></tr><tr><td></td><td>E10</td><td>215</td><td>836 (-0.28)</td><td>3070</td><td>E10</td><td></td><td>9.6</td><td>35.7</td><td>224.5</td></tr><tr><td></td><td>FFV-E85</td><td>1523 (-3.31)</td><td>2893</td><td>3070</td><td></td><td>FFV-E85</td><td>−164 (-0.25)</td><td>-3.8</td><td>220.6</td></tr><tr><td></td><td>Dedi E85</td><td>1424 (-3.09)</td><td>2704</td><td>2869</td><td></td><td>Dedi E85</td><td>−154 (-0.24)</td><td>-3.6</td><td>206.2</td></tr><tr><td>112 kg ha-1</td><td>Gasoline</td><td>230</td><td>499</td><td>3070</td><td>112 kg ha-1</td><td>Gasoline</td><td>25.8</td><td>39.8</td><td>224.9</td></tr><tr><td></td><td>E10</td><td>215</td><td>854(-8)</td><td>3070</td><td>E10</td><td></td><td>9.6</td><td>39.7 (-1.6)</td><td>224.5</td></tr><tr><td></td><td>FFV-E85</td><td>1735 (-94)</td><td>2893</td><td>3070</td><td></td><td>FFV-E85</td><td>−118.6 (-18.6)</td><td>-3.9</td><td>220.6</td></tr><tr><td></td><td>Dedi E85</td><td>1622 (-88)</td><td>2704</td><td>2869</td><td></td><td>Dedi E85</td><td>−110.9 (-17.4)</td><td>-3.6</td><td>206.2</td></tr><tr><td>CO2 (g km-1)</td><td></td><td></td><td></td><td></td><td>CH4 (g km-1)</td><td></td><td></td><td></td><td></td></tr><tr><td>0 kg ha-1</td><td>Gasoline</td><td></td><td></td><td>223.5</td><td>0 kg ha-1</td><td>Gasoline</td><td>0.276</td><td>0.068</td><td>0.007</td></tr><tr><td></td><td>E10</td><td>18.9 3.1</td><td>37.8 33.0</td><td>223.1</td><td></td><td>E10</td><td>0.257</td><td>0.065</td><td>0.007</td></tr><tr><td></td><td>FFV-E85</td><td>−169 (−0.25)</td><td>-11.8</td><td>219.2</td><td></td><td>FFV-E85</td><td>0.077</td><td>0.026</td><td>0.007</td></tr><tr><td></td><td>Dedi E85</td><td>-158 (-0.24)</td><td>-11.0</td><td>204.8</td><td></td><td>Dedi E85</td><td>0.072</td><td>0.024</td><td>0.007</td></tr><tr><td>112 kg ha-1</td><td>Gasoline</td><td>18.9</td><td>37.8</td><td>223.4</td><td>112 kg ha-1</td><td>Gasoline</td><td>0.276</td><td>0.068</td><td>0.007</td></tr><tr><td></td><td>E10</td><td>3.1</td><td>34.0 (-0.7)</td><td>223.1</td><td></td><td>E10</td><td>0.257</td><td>0.069 (-0.002)</td><td>0.007</td></tr><tr><td></td><td>FFV-E85</td><td>-152 (-7.3)</td><td>-11.8</td><td>219.2</td><td></td><td>FFV-E85</td><td>0.118 (-0.016)</td><td>0.026</td><td>0.007</td></tr><tr><td></td><td>Dedi E85</td><td>−142 (-6.9)</td><td>-11.0</td><td>204.8</td><td></td><td>Dedi E85</td><td>0.111 (-0.016)</td><td>0.024</td><td>0.007</td></tr><tr><td>NO (g km-1)</td><td></td><td></td><td></td><td></td><td>Fossil E (KJ km-1)</td><td></td><td></td><td></td><td></td></tr><tr><td>0 kg ha-1</td><td></td><td>0.000</td><td></td><td>0.004</td><td>0 kg ha-1</td><td>Gasoline</td><td>218</td><td>490</td><td>3070</td></tr><tr><td></td><td>Gasoline E10</td><td>0.000</td><td>0.001 0.004</td><td>0.004</td><td></td><td>E10</td><td>203</td><td>457 (-0.28)</td><td>2865</td></tr><tr><td></td><td>FFV-E85</td><td>0.008</td><td>0.025</td><td>0.004</td><td></td><td>FFV-E85</td><td>163 (-3.21)</td><td>12</td><td>717</td></tr><tr><td></td><td>Dedi E85</td><td>0.008</td><td>0.023</td><td>0.004</td><td></td><td>Dedi E85</td><td>152 (-3.01)</td><td>11</td><td>670</td></tr><tr><td>112 kg ha-1</td><td>Gasoline</td><td>0.000</td><td>0.001</td><td>0.004</td><td>112 kg ha-1</td><td>Gasoline</td><td>218</td><td>490</td><td>3070</td></tr><tr><td></td><td></td><td>0.000</td><td>0.012 (-0.003)</td><td>0.004</td><td></td><td>E10</td><td>203</td><td>477 (-8)</td><td>2865</td></tr><tr><td></td><td>E10</td><td></td><td></td><td>0.004</td><td></td><td>FFV-E85</td><td>372 (-92)</td><td></td><td></td></tr><tr><td></td><td>FFV-E85</td><td>0.102 (-0.036)</td><td>0.024</td><td>0.004</td><td></td><td></td><td></td><td>12</td><td>717</td></tr><tr><td>VOC (g km-1)</td><td>Dedi E85</td><td>0.095 (-0.034)</td><td>0.023</td><td></td><td></td><td>Dedi E85</td><td>348 (-87)</td><td>11</td><td>670</td></tr><tr><td>0 kg ha-1</td><td></td><td></td><td></td><td></td><td>CO (g km-1)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Gasoline</td><td>0.010</td><td>0.068</td><td>0.106</td><td>0 kg ha-1</td><td>Gasoline</td><td>0.016</td><td>0.059</td><td>1.781</td></tr><tr><td></td><td>E10</td><td>0.010</td><td>0.074</td><td>0.106</td><td></td><td>E10</td><td>0.015</td><td>0.071</td><td>1.781</td></tr><tr><td></td><td>FFV-E85</td><td>0.006</td><td>0.127</td><td>0.100</td><td></td><td>FFV-E85</td><td>0.017</td><td>0.193</td><td>1.781</td></tr><tr><td></td><td>Dedi E85</td><td>0.006</td><td>0.118</td><td>0.100</td><td></td><td>Dedi E85</td><td>0.016</td><td>0.180</td><td>1.781</td></tr><tr><td>112 kg ha-1</td><td>Gasoline</td><td>0.010</td><td>0.068</td><td>0.106</td><td>112 kg ha-1</td><td>Gasoline</td><td>0.016</td><td>0.059</td><td>1.781</td></tr><tr><td></td><td>E10</td><td>0.010</td><td>0.075</td><td>0.106</td><td></td><td>E10</td><td>0.015</td><td>0.073</td><td>1.781</td></tr><tr><td></td><td>FFV-E85</td><td>0.027 (-0.008)</td><td>0.127</td><td>0.100</td><td></td><td>FFV-E85</td><td>0.040 (-0.011)</td><td>0.193</td><td>1.781</td></tr><tr><td></td><td>Dedi E85</td><td>0.026 (-0.008)</td><td>0.118</td><td>0.100</td><td></td><td>Dedi E85</td><td>0.034 (-0.011)</td><td>0.180</td><td>1.781</td></tr><tr><td> NOx (g km-1)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td></td><td colspan=\"2\">PM10 (g km-1)</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e62bf196c62a04b85bc0e6345d8aa520a109d2f709f4c0b1b2c2f22fb121d1e.jpg",
+        "table_caption": [
+            "[arrgnutrr bbaqar "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>N rate</td><td>Fuel type</td><td>Feedstock</td><td>Fuel</td><td>Vehicle</td><td>N rate</td><td>Fuel type</td><td>Feedstock</td><td>Fuel</td><td>Vehicle</td></tr><tr><td>0 kg ha-1</td><td>Gasoline</td><td>0.077</td><td>0.055</td><td>0.075</td><td>0 kg ha-1</td><td>Gasoline</td><td>0.005</td><td>0.048</td><td>0.016</td></tr><tr><td></td><td>E10</td><td>0.072</td><td>0.074</td><td>0.075</td><td></td><td>E10</td><td>0.005</td><td>0.048</td><td>0.016</td></tr><tr><td></td><td>FFV-E85</td><td>0.059</td><td>0.224</td><td>0.075</td><td></td><td>FFV-E85</td><td>0.004</td><td>0.054</td><td>0.016</td></tr><tr><td>112 kg ha-1</td><td>Dedi E85</td><td>0.056</td><td>0.209</td><td>0.075</td><td>112 kg ha-1</td><td>Dedi E85</td><td>0.004</td><td>0.050</td><td>0.016</td></tr><tr><td></td><td>Gasoline</td><td>0.077</td><td>0.055</td><td>0.075</td><td></td><td>Gasoline</td><td>0.005</td><td>0.048</td><td>0.016</td></tr><tr><td></td><td>E10</td><td>0.072</td><td>0.080 (-0.003)</td><td>0.075</td><td></td><td>E10</td><td>0.005</td><td>0.049</td><td>0.016</td></tr><tr><td></td><td>FFV-E85 Dedi E85</td><td>0.136 (-0.033)</td><td>0.224</td><td>0.075</td><td></td><td>FFV-E85</td><td>0.009 (-0.002)</td><td>0.054</td><td>0.016</td></tr><tr><td></td><td></td><td>0.127 (-0.031)</td><td>0.209</td><td>0.075</td><td></td><td>Dedi E85</td><td>0.008 (-0.002)</td><td>0.050</td><td>0.016</td></tr><tr><td>PM2.5 (g km-1) 0 kg ha-1</td><td></td><td></td><td></td><td></td><td>SOx (g km-1)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Gasoline</td><td>0.005</td><td>0.045</td><td>0.007</td><td>0 kg ha-1</td><td>Gasoline</td><td>0.033</td><td>0.043</td><td>0.004</td></tr><tr><td></td><td>E10 FFV-E85</td><td>0.004</td><td>0.044</td><td>0.007</td><td></td><td>E10</td><td>0.031</td><td>0.042</td><td>0.003</td></tr><tr><td></td><td></td><td>0.003</td><td>0.024</td><td>0.007</td><td></td><td>FFV-E85</td><td>0.014</td><td>0.020</td><td>0.002</td></tr><tr><td>112 kg ha-1</td><td>Dedi E85</td><td>0.003</td><td>0.023</td><td>0.007</td><td>112 kg ha-1</td><td>Dedi E85</td><td>0.013</td><td>0.019</td><td>0.002</td></tr><tr><td></td><td>Gasoline</td><td>0.005</td><td>0.045</td><td>0.007</td><td></td><td>Gasoline</td><td>0.033</td><td>0.043</td><td>0.004</td></tr><tr><td></td><td>E10 FFV-E85</td><td>0.004</td><td>0.044</td><td>0.007</td><td></td><td>E10</td><td>0.031</td><td>0.050 (-0.003)</td><td>0.003</td></tr><tr><td></td><td></td><td>0.007 (-0.002)</td><td>0.024</td><td>0.007</td><td></td><td>FFV-E85</td><td>0.085 (-0.027)</td><td>0.020</td><td>0.002</td></tr><tr><td></td><td>Dedi E85</td><td>0.007 (-0.002)</td><td>0.023</td><td>0.007</td><td></td><td>Dedi E85</td><td>0.080 (-0.026)</td><td>0.019</td><td>0.002</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b287956a6f517deb8568d2c198e43fbc5e5aa6c2e1e7bbf675eae2b3d25daca.jpg",
+        "img_caption": [
+            "Fig.4Impact of nitrogen fertilization rate on life cycle nitrous oxide $\\left( \\mathrm { N } _ { 2 } \\mathrm { O } \\right)$ emissions for four types of fuels subdivided based on life cycle stage (i.e.vehicle operation,fuel or feedstock production). "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8fbc65e12f8c204e34ee66415ed0e2420128cc37062ca2a97416976d6a2e712.jpg",
+        "img_caption": [
+            "Fig.5Impact of landscape position and fertilization on percent change of switchgrass ethanol life cycle nitrous oxide $( \\mathrm { N } _ { 2 } \\mathrm { O } )$ relative to gasoline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$S O _ { x }$ .The largest part of $S \\mathrm { O _ { x } }$ was contributed by the feedstock $( \\sim 5 0 \\% )$ and fuel production $( \\sim 4 5 \\% )$ for unfertilized plots.Addition of fertilizer increased the feedstock production share $( 8 5 \\%$ for $5 6 ~ \\mathrm { k g } \\mathrm { ~ N ~ h a } ^ { - 1 }$ ： $91 \\%$ for $1 1 2 ~ \\mathrm { { k g } ~ N ~ \\mathrm { { h a } } ^ { - 1 } , }$ in $\\mathrm { { 5 O _ { x } } }$ emissions for E85s.The low ethanol blend (E1O) and gasoline life cycle's $\\mathrm { { s o } _ { \\mathrm { { x } } } }$ emissions werealmost similaras shown in Table 3.Vehicle operation contributed only between O.8 and $4 . 5 \\%$ for all fuels.In total，the life cycle of ethanol-gasoline mix produced between 23 and $2 5 1 ~ \\mathrm { m g }$ of $S \\mathrm { O } _ { \\mathrm { x } }$ per km with the highest amount linked to highest $\\mathrm { \\Delta N }$ rate.In comparison with gasoline, $\\mathrm { { 5 } O _ { \\times } }$ emissions were lower $( \\sim 5 4 \\% )$ for ethanol-gasoline mix produced from switchgrass that did not receive the fertilizer.However，there wasa reversal when fertilizer was applied for E85,it led to 82 and $2 1 5 \\%$ higher $S \\mathrm { O } _ { \\mathrm { x } }$ emissions,for 56 and $1 1 2 \\mathrm { ~ k g ~ N ~ }$ $\\mathrm { \\ h a } ^ { - 1 }$ , respectively. Landscape positioning also impacted the life cycle $S \\mathrm { O } _ { \\mathrm { x } }$ emissions.Lower emissions(by approximately $3 5 \\%$ ）forE85 from footslope biomass in comparison with shoulder biomass were observed in plotsthatreceived $1 1 2 ~ \\mathrm { k g } \\mathrm { \\Delta N } \\mathrm { { h a } } ^ { - 1 }$ .Resultsindicatedthat life cycle $\\mathrm { { S O } _ { \\mathrm { { x } } } }$ emissions from shoulder biomass (used in E85）were higher than gasoline's emissions (Table 4), whereas $S \\mathrm { O } _ { \\mathrm { x } }$ emissions from the footslope biomass were approximately equal to emissions from gasoline (Fig. 3). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "PM10 and PM2.5.The results indicated that the majority (50 to $7 9 \\%$ ）of the particulate matters are emitted during fuel production for both gasoline and ethanolgasoline mix (Table 3).PM1O emissions from vehicle operation are more than three times higher than those from feedstock production，whereas PM2.5 emissions from vehicle operation are close to those from feedstock production.The application of $5 6 ~ \\mathrm { k g } \\mathrm { ~ N ~ } \\mathrm { h a } ^ { - 1 }$ of fertilizer more than doubled feedstock production PMx emissions,and the application of $1 1 2 ~ \\mathrm { k g } \\mathrm { ~ N ~ } \\mathrm { h a } ^ { - 1 }$ more than tripled feedstock PM emissions for E85 fuels. The results also showed that the life cycle of blendedethanolproducedbetween69and $9 0 ~ \\mathrm { { m g } { \\cdot P M 1 0 } ~ \\mathrm { { k m } ^ { - 1 } , } }$ whereas it produced between 34 and $5 6 ~ \\mathrm { m g } { \\cdot } \\mathrm { P M } 2 . 5 ~ \\mathrm { k m } ^ { - 1 }$ .In comparison with gasoline (Fig.2)，PM10 from FFV:E85 was higher (by $4 \\%$ for low $\\Nu$ rate to $3 2 \\%$ for high $_ \\mathrm { N }$ rate)，whereas those from PM2.5 were lower (by $1 5 \\%$ for low $_ \\mathrm { N }$ rate to $5 4 \\%$ for high $\\mathsf { N }$ rate).Further，the results indicated that field positioning on unfertilized plots did not impact life cycle PM.However,the addition of fertilizer increased PM10 by $3 \\%$ for E85 from switchgrass grown at the shoulder in comparison with the footslope.Similarly， $\\mathrm { P M } 2 . 5$ was $5 \\%$ higher for E85 from switchgrass grown at the shoulder. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Impactofproducingswitchgrass fora period shorter than maximumstand life ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In case the switchgrass is abandoned after only one harvest,this scenario would result in 2 to $3 \\%$ more life cycle energy use, $2 0 \\%$ more fossil fuel use in unfertilized plots and 8 to $12 \\%$ more fossil fuels in fertilizer plots.It would also lead to 10 to $14 \\%$ increase in life cycle PM from biomass grown in unfertilized plots and 4 to $9 \\%$ for fertilized plots.No significant changes in $\\mathrm { N } _ { 2 } \\mathrm { O }$ and VOCs changes would be observed from shorting the stand life. The highest change would occur to lifecycle $\\operatorname { s O x } ,$ with an increase of about $4 4 \\%$ forunfertilized plots and 6 to $1 1 \\%$ for fertilizer plots.The life cycle environmental impacts due to shortening the stand life to one year were largely attributed to the feedstock production step. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This discussion will explain the impact of nitrogen rate and landscape positions on emissions and energy use from ethanol-blend life cycle in the context of previous studies.However，it will not attempt to explain the source of all emissions and energy. This information can be obtained from the GREET tool database (down loadable from https://greet.es.anl.gov/),and it explains mass (including emissions） and energy flows from production of agricultural inputs,production of chemicals,andadditives involvedinethanol (and other fuels involved such as petroleum,natural gas,coal production, ethanol conversion and purification processes,and transportation. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Energy and emissions from switchgrass feedstock production constitute a key portion of the switchgrassderived blended ethanol life cycle.These findings were consistent with previous studies: In Wang et al. (2012),a well-to-wheel analysisusing GREET model showed that the GHG emissions from feedstock production were approximately half of the total GHG emissions for switchgrass-derived ethanol.Approximately $5 7 \\mathrm { - } 1 1 0 \\%$ of GHGreductionswith respecttogasolinewere computed using GHGenius model (well to wheels） by Spatari et al. (2005),EBAMM model (well to pump) by Schmer et al. (2008),and GREET model (well to wheels) by Wu et al. (2006) and Wang et al.(2012).Fossil fuel replacement and other emissions in this study were also in line with findings in Wu et al. (2oo6) and Wang et al. (2012);Wu et al. (2006)'s GREET simulations.However, parameterization differences were discovered in some studies,for example,estimates of biomass yield and land-use change-related carbon sequestration in this study were conservative in comparison with Cherubini & Jungmeier (2010)who estimated 3 times higher yields andcarbonsequestration.Thisvariabilitywas addressedbystudiesthat conducted stochasticanalysis of variables [e.g.,Spatari & MacLean (201O)] and indicated that $\\mathrm { C O } _ { 2 }$ emissions due land-use change and $\\mathrm { N } _ { 2 } \\mathrm { O }$ due to fertilizers are major source of uncertainty in LCA of cellulosic ethanol. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is important to explore the impact of nitrogen fertilizer rate on switchgrass because it leads to increase in yieldbut adversely contributestogenerationof emissions $( \\mathrm { N } _ { 2 } \\mathrm { O } , \\mathrm { C O } _ { 2 } , \\mathrm { N O } _ { \\mathrm { x } } )$ and increased energy use. Previous researchers doubted the environmental benefits of producing biofuel from plants that require fertilizers (Searchinger et al.，20o8). It is believed that $\\mathrm { N } _ { 2 } \\mathrm { O }$ emitted from soil due to nitrogen addition could offset thebenefitsofbiofuels.But，landwhereno fertilizer was added also emitted $\\mathrm { N } _ { 2 } \\mathrm { O }$ due to natural cycling of nitrogen in soil,water,and the atmosphere (Vitousek et al.,1997).Under anaerobic conditions,nitrogen in soil is transformed by microbes into $\\mathrm { N } _ { 2 } \\mathrm { O }$ (Smith et al.,2008). This study demonstrated that increase in $\\mathrm { N } _ { 2 } \\mathrm { O }$ emissions isprimarilyoffsetby $\\mathrm { C O } _ { 2 }$ taken up fromthe atmosphere to grow biomass and subsequently the biomass stored in the soil (roots）replenishessoil carbon. Croplands converted to grasslands (such as switchgrass） significantly improve soil carbon (Fazio & Monti, 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The addition of regionally optimized N fertilization $( 5 6 ~ \\mathrm { k g ~ N ~ h a } ^ { - 1 }$ for SD) during switchgrass production is likely economical; $3 7 \\%$ more blended ethanol was generated with the same land than with unfertilized. Overfertilization $( 1 1 2 ~ \\mathrm { k g } ~ \\mathrm { N } ~ \\mathrm { h a } ^ { - 1 }$ in this study) has no economic benefits and causes adverse environmental impacts.Field testing of soil nutrients $( \\ N , \\ \\mathrm { P } , \\ \\mathrm { K } ,$ and S) and acidity can further reduce inputs，costs，and enhance yield during switchgrass production.Previous switchgrass LCA studies included addition of K，P, and lime and found these to add to the increase in energy use and emissions (Wu et al.,2006;Bai et al., 2010).In this study,K,P, S,and lime were not added because preliminary soil tests determined that it was not necessary. For high ratio of switchgrass ethanol fuel blends (E85),N optimization can improve GHGs, VOCs, $\\mathrm { N O } _ { \\mathrm { x } } ,$ （20 $\\mathrm { { S O } } _ { \\mathrm { { x } } } ,$ and PM which are heavily generated from feedstock production. Overfertilization（ $( 1 1 2 \\mathrm { ~ k g ~ N ~ }$ $\\mathrm { \\ h a } ^ { - 1 } ;$ ）reduced life cycle environmental benefits almost by half or doubled the adverse impacts for switchderived ethanol. Feedstock production involves more modeling uncertainty due to spatial variability in soils and climate,agricultural management, and the complex cycle of nitrogen and carbon at the farm level. The number of harvests before the switchgrass is replanted influences life cycle impacts，that is,the more years ofproductivity a stand provides， the greater the environmental benefits. Most previous studies indicate that switchgrass stands last between 10 and 2O years;however,stand duration depends on crop condition，marketability，and management decisions.Results demonstrated that, even with only one year of harvest, the switchgrass-derived ethanol would be better than gasoline in term of fossil fuel use, GHGs,and PM2.5. In other categories such as VOCs, CO，PM10,and $\\mathrm { N O } _ { \\mathrm { x } } ,$ total energy gasoline is better than E85s for one year of harvest. This study showed that as a perennial crop,switchgrass has the benefit, once established (1-3 years)，of avoiding energyuse and pollution from planting and pesticides application, production of pesticides，and disruption of carbon sequestration. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Although using blended ethanol resulted in net GHG emissions,the primary goal is to develop renewable fuel sources better than existing nonrenewable fuels (e.g., gasoline). This study showed that GHGs were significantly reduced for switchgrass-derived E85 compared togasoline. Agricultural management significantly influences switchgrass-based ethanol life cycle. Over the years，the emphasis was placed on making passenger vehicle more efficient to reduce emissions.However, increasing agricultural machinery efficiency can have a significant impact on emissions and fuel use reductions. Forinstance,Bochtis et al.(201O) showed that controlled traffic at the farm can itself significantly increase efficiency. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Landscape positioning where switchgrass is grown could have a significant impact on the life cycle of switchgrass-derived ethanol. Erosion and drainage fromhigh elevation (shoulder） to low elevation (footslope) causes higher biomass growth at low elevation position due to higher moisture,nutrients,and organic matter (Mbonimpa et al.,2015).The LCA in this study demonstrated that the footslope is linked to lower switchgrass-derived ethanol GHGs due to primarily higher biomass growth $\\mathrm { ( C O } _ { 2 }$ uptake） compared to the shoulder.Moreover, the analysis showed that the footslope was,in general, linked to better energy use and fewer emissions compared to the shoulder due to increasedproductivity. The increasedproductivity within the fertilized switchgrass appears likely due to downslope transport of fertilizer and soil rich in organic matter (erosion） from shoulder to the footslope. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Presently,corn ethanol dominates the US market for ethanol-gasoline blends and it is important to have a perspective on how switchgrass ethanol (cellulosic) compares to corn ethanol (starch).Using well-towheels GREET model simulations,Wang et al. (2012) and Wu et al. (2oo6) conducted simulations that compared life cycle impacts from corn ethanol, switchgrass ethanol,and gasoline (per unit joules contained in the fuel or on basis of using it in flex fuel vehicles-E85s). They indicated that when corn ethanol and switchgrass ethanol are compared to gasoline，switchgrass displaces about $57 \\text{‰}$ of fossil fuels and $6 2 \\mathrm { - } 9 7 \\%$ of GHGs whereas corn ethanol displaces about $3 2 \\mathrm { - } 5 7 \\%$ of fossil fuels and $1 9 \\mathrm { - } 4 8 \\%$ of GHGs. In comparison withgasoline， switchgrassethanolproduces $4 0 \\%$ higher amount of $\\mathsf { N O x }$ while corn ethanol produces $100 \\%$ higher $\\mathsf { N O x }$ .switchgrass ethanol showed benefits in reducing PM10 (by $3 0 \\%$ ）and $\\operatorname { s o x }$ (by $4 0 \\%$ ） while corn ethanol contributed higher amount of PM 10 $( > 2 0 0 \\% )$ and $\\operatorname { s o x }$ $( 1 0 5 \\% )$ ）in comparison with gasoline. Corn ethanol also had slightly higher amount of VOCs and CO.They attributed these differences to this fact: 'Instead of using coal or natural gas to fuel the ethanol plant,as in the corn ethanol production process,the conversion process in their study (similar to our study）relies on biomass residuals and methane gas from an on-site waste water treatment plant to generate heat and power， which decreases fossil energy consumption' (Wu et al.,2006). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Although this study did not analyze other environmental impacts such as eutrophication and ecotoxicity potential，it is expected that these impacts can be reduced when a cropland is converted into a perennial grassland (Monti et al.，2009). In addition，perennial grasses such as switchgrass improve the biodiversity of species in the area (Hartman et al.,2011).While GREET is an efficient,effective model to analyze the life cycle of switchgrass fuel systems，it is a simplification of a complex system that would be strongly linked to policy and market effects (Stratton et al.,2011).In the future, better understanding of switchgrass systems should be realized when mass commercialization of switchgrassderivedis further established. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,generation and use of switchgrass ethanol-gasoline mixture can displace GHGs emissions. It can also lead to displacement of total fossil fuels because petroleum and coal reductions offset observed increase in natural gas.The increase in natural gas was mainly contributed by fertilizer application.Therefore，overfertilization should be avoided (e.g,rate above $5 6 ~ \\mathrm { k g ~ \\ N ~ \\ h a } ^ { - 1 }$ in this case） because fertilizers-related energy and emissions are a significant portion of the entire switchgrass ethanol life cycle.There is also a difficulty to generalize the benefits or drawbacks of switchgrass ethanol due to the impact other environmental conditions such as landscape topography can have on switchgrass ethanol life cycle.Better soil conditions at the footslope of the hill, where eroded material deposited，led to greater life cycle environmental benefits. Selective topographybased planting of switchgrass in footslopes，such as riparian corridors,may be both economically and environmentally favorable.However,it is believed that in the long-term switchgrass could improve the soil quality at eroded higher grounds as well. For a future follow-up study，we recommend LCA for switchgrass from various geographical locations,ethanol produced using other process pathways，and exploration of other environmental impact categories. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the North Central Regional Sun Grant Center at South Dakota State University (SDSU) through a grant provided by the US Department of Energy Bioenergy Technologies Office under award number DE-FC36-05GO85041. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Bachman WJ (1997) 'Soil Survey of Day County,South Dakota,Natural Resources Conservation Service.   \nBai Y,Luo L, van der Voet E (2010) Life cycle assessment of switchgrass-derived ethanolas transport fuel.The InternationalJournalofLifeCycleAssessment,15,46-47.   \nBochtis D,Sorensen C,Green O,Moshou D,Olesen J(2010) Effect of controlld traffic on field efficiency.Biosystems Engineering,106,14-25.   \nCherubini F, Jungmeier G (201o) LCA of a biorefinery concept producing bioethanol, bioenergy,and chemicals from switchgrass.The International Journal of Life Cycle Assessment,15,53-66.   \nCongress (2007) Energy independence and security act of 2007. Public Law 110-140, 110th Congress.   \nDunn JB, Qin Z, Mueler S,Kwon H, Wander M, Wang M (2014)Carbon Calculator for Land Use Change from Biofuels Production (CCLUB). User's Manual and Technical Documentation. Argonne National Laboratory.   \nFazio S, Monti A (2011) Life cycle assessment of different bioenergy production systems including perennial and annual crops.Biomass and Bioenergy,35,4868-4878.   \nGriso RD,Kocher MF, Vaughan DH (2004) Predicting tractor fuel consumption. Applied Engineering inAgriculture,20,553–561.   \nGuretzky J, Biermacher J, Cook B, Kering M,Mosali J(2011) Switchgrassfor forage and bioenergy: harvest and nitrogen rate effects on biomass yields and nutrient composition.ntandSoil,,.   \nHarmoney KR, Moore KJ, Brummer EC,Burras CL,George JR (2001) Spatial legume composition and diversity across seeded landscapes.Agronomy Journal, 93, 992- 1000.   \nHartman JC,Nippert JB,Orozco RA, SpringerCJ (2011) Potential ecological impacts of switchgrass (Panicum virgatum L.） biofuel cultivation in the Central Great Plains,USA.Biomassand Bioenergy,35,34153421.   \nLiebig MA,Schmer MR,Vogel KP,MitchellRB(2008)Soilcarbon storage by switchgrass grown for bioenergy.Bioenergy Research,1,215-222.   \nLuk JM,Pourbafrani M,Saville BA,MacLean HL (013)Ethanol or bioelectricity? Life cycle assessment of lignocellulosic bioenergy use in light-duty vehicles. Environmental Science and Technology,47,10676-10684.   \nMbonimpaEG, Hong CO,Owens VNet al. (2015)Nitrogen fertilizer and landscape position impacts on CO2 and CH4 fluxes from a landscape seeded to switchgrass. GCB Bioenergy,7,836-849.   \nMcLaughlin S,Kszos AL (20o5) Development of switchgrass (Panicum virgatum) as a bioenergy feedstock in the United States.Biomass and Bioenergy,28,515-535.   \nMonti A,Fazio S,Venturi G (2009) Cradle-to-farm gate life cycle assessment in perennial energy crops.European Journal of Agronomy,31,77-84.   \nMulkey V, Owens V, Lee D (2006) Management of switchgrass-dominated conservation reserve program lands for biomass production in South Dakota. Crop Science, 46, 712–720.   \nNaylor RL,Liska AJ, Burke MB,Falcon WP,Gaskell JC,Rozelle SD, Cassman KG (2007) The Ripple effect: biofuels,food security,and the environment. Environment:Science and Policy for Sustainable Development,49,30-43.   \nNikiemaP,Rothstein DE,MinD-H,KappCJ (2011)Nitrogen fertilizationof switchgrass increases biomass yield and improves net greenhouse gas balance in northern Michigan, U.S.A.BiomassandBioenergy,35,4356-4367.   \nParrish DJ,Fike JH (2005)The biology and agronomy of switchgrass for biofuels. Critical Reviews inPlant Sciences,24,423-459.   \nSchmer MR,Vogel KP,MitchellRB,Perin RK (2008)Net energyof cellulosic ethanol fromswitchgrass.Proceedings of the National Academy of Sciences,105,464-469.   \nSearchinger T,Heimlich R,Houghton RA et al. (2008) Use of US croplands for biofuels increases greenhouse gases through emissions from land-use change. Science, 319, 1238–1240.   \nSimpson TW, Sharpley AN,Howarth RW,Paerl HW,Mankin KR (2008) The new gold rush: fueling ethanol production while protecting water quality. Journal of Environmental Quality,37,18-24.   \nSmith P,Martino D,Cai Z et al.(2oo8)Greenhouse gas mitigation inagriculture. Philosophical Transactions of theRoyal Society B:BiologicalSciences,363,789-813.   \nSokhansanj S,Mani S, Turhollow A, Kumar A,Bransby D,Lynd L, Laser M (2009) Large-scale production,harvest and logistics of switchgrass (Panicum virgatum L.)-current technology and envisioning a mature technology. Biofuels, Bioproducts and Biorefining,3,124–141.   \nSpatari S,MacLean HL (201o) Characterizing model uncertainties in the lifecycleof lignocellulose-based ethanol fuels.Environmental Scienceand Technology,44,8773-8780.   \nSpatari S,Zhang Y,MacLean HL (20o5)Life cycle assessment of switchgrass-and corn stover-derived ethanol-fueled automobiles.Environmental Science and Technologu.39,9750-9758.   \nStratton RW,Wong HM,Hileman JI (2011) Quantifying variability in life cycle greenhouse gas inventories of alternative middle distillate transportation fuels. Environmental Scienceand Technology,45,4637-4644.   \nVitousek PM,Aber JD,Howarth RW et al.(1997) Human alteration of the global nitrogen cycle: sources and consequences. Ecological Applications,7,737-750.   \nWang MQ (1999) GREET 1.5-transportation fuel-cycle model-Vol. 1: methodology, development, use,and results.'Argonne National Lab., IL (United States). Funding organisation: US Department of Energy (United States).   \nWang M (2008) The Greenhouse Gases,Regulated Emissions,and Energy Use in Transportation (GREET) Model: Version 1.5. Center for Transportation Research, Argonne National Laboratory.   \nWang DAN,Lebauer DS,Dietze MC (2010)A quantitative review comparing the yield of switchgrass in monocultures and mixtures in relation to climate and management factors. GCB Bioenergy,2,16-25.   \nWang M,Huo H,Arora S (2011) Methods of dealing with co-products of biofuels in life-cycle analysis and consequent results within the US context. Energy Policy, 39, 5726–5736.   \nWang M,Han J, Dunn JB,Cai H,Elgowainy A (2012) Wel-to-wheels energy use and greenhouse gas emissions of ethanol from corn,sugarcane and cellulosic biomass for US use. Environmental Research Letters,7,045905.   \nWu M,Wu Y，Wang M (2006)Energy and emission benefits of alternative transportation liquid fuels derived from switchgrass: a fuel life cycle assessment. Biotechnology Progress,22,1012-1024.   \nWu M,Wu Y,Wang M (2008) Mobility Chains Analysis of Technologies for Passenger Cars and Light Duty Vehicles Fueled with Biofuels: Application of the Greet Model to Project the Role of Biomass in America's Energy Future (RBAEF) Project.'Argone National Lab. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

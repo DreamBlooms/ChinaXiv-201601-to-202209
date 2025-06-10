@@ -1,0 +1,390 @@
+[
+    {
+        "type": "text",
+        "text": "BIM技术在深基坑支护预应力锚索施工中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常丽玲1 张明亮1,2 江波胡毅1 巫扬熠1 韦伟鸿（1.湖南省第六工程有限公司，长沙410015；2.湖南省建筑工程集团总公司,长沙410004；3.上海科瑞真诚建设项目管理有限公司，上海200092)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】利用BIM技术,建立了湖南广电节目生产基地项目深基坑支护桩锚三维信息模型,实现了预应力锚索的预建造,辅助工程师提前发现了图纸中存在的问题，并采取相应措施进行了处理。通过BIM技术的应用,重点发现并解决了原设计图纸中预应力锚索的碰撞问题,将碰撞报告提交设计院进行了图纸优化设计，并制作了三维可视化交底动画,为项目深基坑支护工程按期、保质完成提供了强有力的技术支持,取得了良好的经济效益与社会效益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM技术；基坑支护；预应力锚索；可视化交底；工程应用【中图分类号】TU17【文献标识码】A【文章编号】1674－7461(2017)03-0031-07【DOI】10.16670/j.cnki.cn11-5823/tu.2017.03.05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ">近年来，随着建筑行业信息化的发展与进步，BIM技术已逐渐成为项目施工中解决重难点问题的首选工具。BIM的三维可视化、模拟性，打破了传统设计与施工之间的壁垒，让以往无法解决的问题成为过去式,尤其在当下建筑产品设计愈见多样化、个性化，地质条件较为复杂多变的情况下，BIM的价值将更能体现出来[14]；同时借助 $\\mathrm { B I M } +$ 云平台，实现信息资源共享，实现从源头上着手以最优质的品质支撑整个建筑产品。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在大型建筑深基坑支护工程中，桩锚结构是通常采用的支护形式，如何在地理位置特殊、地质条件复杂的施工环境中确保预应力锚索的施工质量是基坑支护工程的重点难点。锚索施工时借助BIM技术的精细化应用可使工程师的施工决策更科学、设计更可靠、措施更有效，极大地降低了施工返工率,在确保质量、安全的前提下，也能保证项目",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "工期[5-7]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "湖南广电节目生产基地项目位于长沙市金鹰影视文化城、浏阳河畔，处于长沙及周边城区地质条件颇为复杂的地段。是一个集大型演艺活动、影视节目生产、艺术展览、创意工坊、观众参观通道等功能于一体的现代化“环球梦工厂”式的节目生产基地，是即将开发的马栏山创意集聚区的龙头项目。工程占地约100亩，建筑面积约22万 $\\mathbf { m } ^ { 2 }$ ,基坑周长约 $1 \\ 1 1 0 \\mathrm { m }$ ,东西最长约为 $4 1 0 \\mathrm { m }$ ，南北最宽约为$1 8 5 \\mathrm { m }$ ,基坑面积约为4.84万 $\\mathbf { m } ^ { 2 }$ 。基坑支护开挖深度 $3 . 4 \\sim 1 6 . 4 \\mathrm { { m } }$ 。基坑支护工程主要采用旋挖成孔灌注桩 $^ +$ 连系梁 $^ +$ 预应力锚索 $^ +$ 基坑侧壁砼护面形式,预应力锚索共计2066根，成孔直径均为$1 5 0 \\mathrm { m m }$ 。根据基坑周边环境的不同,基坑东侧为永久性锚索，其它区域为临时性锚索；锚索的道数随基坑开挖深度变化。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/04a9406d829f4251243f4eb24c2a5503d80041227e06aa5fc7ef0f1c6b2879bb.jpg",
+        "img_caption": [
+            "图1工程效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/21d6cc01ece60341fb6e198789b559aa394b395999a0d3bf82779123aeff5d67.jpg",
+        "img_caption": [
+            "图2锚索平面布置示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "施工重难点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 地理位置特殊",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1本工程处于长沙世界之窗与海底世界景区之间，基坑整体呈东高西低走势。场地东侧为一南北向延展的高坡,南侧靠海底世界景区且红线内场地埋设有电缆箱涵，距离本工程基坑边线 $0 . 6 9 \\ \\sim \\$ $1 7 . 8 \\mathrm { m }$ ,东南侧电缆箱涵外侧设置有抗滑桩且东南侧有一变电站(2F，地下1层），另外沿红线自东向西为一系列园区内部用房（1-2层，砌体结构或混凝土框架结构）及游泳池等构筑物，西侧红线内场地埋设有电缆隧道,距离本工程地下室外墙 $2 3 . 1 \\mathrm { m }$ ○红线外为嘉华路，路宽约 $1 2 . 0 \\mathrm { m }$ 。北侧依世界之窗景区且基坑边线距离用地红线 $0 . 2 \\sim 2 9 . 2 \\mathrm { m }$ 。锚索施工时应注重不能对周边建（构）筑物基础造成破坏。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2地质条件复杂 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据本工程地勘资料，场地内粉质黏土、全风化泥质粉砂岩、强风化泥质粉砂岩及中风化泥质粉砂岩分布不具规律性，且成分差异性大，部分地段粉砂含量较高，出现多层大面积的软弱夹层，在高水力梯度下易产生流砂流土。地下水主要分为赋存于人工填土及第四系粘土层中的上层滞水、赋存于第四系淤泥质粉质粘土，及卵石层中的潜水、以及赋存于强、中风化基岩中的裂隙水；水位高，水量大，且地下水与浏阳河有密切的水力联系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3 锚索数量多",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本工程锚索数量多达2066根，阴角阳角多达20 处，如何保证阴角处锚索不相碰撞是锚索施工的关键技术之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.4施工质量要求高",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "预应力锚索施工是基坑支护工程中的关键分部工程，其质量将直接影响基坑支护工程的质量。影响锚预应力索质量的主要原因包括成孔、锚索制作安装、泥浆配比等，施工方案技术交底及施工现场管理也尤为关键。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，项目部成立BIM工作站，根据设计图纸、地勘报告，结合基坑周边地下管网环境进行基坑桩锚支护结构 $^ +$ 环境BIM模型，科学合理指导预应力锚索的施工作业。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 BIM技术应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4.1 模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. 1. 1 整体模型建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在Revit建模软件中项目环境下，根据设计图纸建立基坑支护结构整体BIM模型，包括旋挖支护桩、冠梁、腰梁、预应力锚索等；此外，由于周边地下环境复杂，结合业主提供的地勘报告、周边管网布置图及现场查勘情况，将锚索设计范围内的地质岩层分布、周边地下管网环境进行BIM建模（图3）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe6317bd2fe09f2ba92a489655b9281aea9ce9cef488cbfecc0afc4f1b237172.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/795c7743ea7e5039166dab8fb58ac8cb622170708fa1c10fa771669a7db08ac7.jpg",
+        "img_caption": [
+            "图3BIM整体模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b02c5cf112bf8f9f7495a5a738d6383cb63762a34877824a029c4adabdee8433.jpg",
+        "img_caption": [
+            "图4锚索精细化模型及工艺展示"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 1. 2 精细化模型建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在Revit建模软件中体量环境下，根据设计图纸建立预应力锚索的精细化模型，包括预应力锚索的钢绞线、导向帽、注浆管、架线环、紧固环、锚垫板、锚具、波纹管及辅助材料等(图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2 碰撞检查及设计优化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用Revit建完模型后，生成.NWC文件，导入Navisworks软件中，利用ClashDetective工具进行同类构件之间(锚索与锚索)及不同类构件(锚索与旋挖支护桩、锚索与周边地下管网)之间的碰撞检查，自动生成碰撞报告。根据碰撞报告，对碰撞点逐一进行位置反查，找出有效碰撞点。通过碰撞检查共发现有效碰撞点313处，其中锚索与锚索的碰撞点占碰撞点总量的 $9 1 . 7 \\%$ ,锚索与旋挖支护桩的碰撞点占碰撞点总量的 $8 . 3 \\%$ 。因本项目基坑外围设计较不规则，转角偏多，故影响施工的碰撞点均分布于各阴角处，碰撞点具体碰撞位置包括预应力锚索自由段与锚固段（图5）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM工程师根据结构设计规范对预应力锚索每一个有效碰撞点进行钻孔角度的调整，并实时更新模型，再利用Navisworks进行施工碰撞检查模拟验证，形成预应力锚索施工前期问题报告汇总表（如图6所示），在表中提出针对各阴角碰撞点的建议优化方案，反馈至设计方。最终落实调整预应力锚索根数311根（其中调整锚索与锚索间碰撞287处，调整锚索与旋挖支护桩间碰撞24处），取消锚索根数2根，修改阴角7处。单根预应力锚索调整方式形成Excel文件，配合BIM模型进行图纸技术交底。各预应力锚索碰撞点调整方位包括垂直向上、垂直向下、放射式钻入，调整角度区间为 $[ \\ - 3 ^ { \\circ } , \\ + 3 ^ { \\circ } ]$ ，满足了设计规范[8要求；此外,经设计院设计优化，将施工困难的基坑转角角度进行了相应调整，合理指导了锚索的施工作业（图7\\~9）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c692fe3932d38e723afd417e06f45193ca39f0d806784f4e28b866376e45df0b.jpg",
+        "img_caption": [
+            "图5Navisworks 碰撞检查"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7812210687c922b5b76f40e21c585fff971b69fc1d43999c63e6a2c98e2b4f2.jpg",
+        "img_caption": [
+            "图6预应力锚索问题报告汇总表"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c7c2d4690e947e81d1229c9e15787923f15290f1a8b0fc4145b13e8800df321.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>锚杆编号</td><td>所属区段</td><td>排位</td><td>右相邻护</td><td>标高</td><td>自电段</td><td>错固段</td><td></td><td>倾斜角</td><td>型号</td><td></td><td>间距（m）</td><td>孔</td><td>轴力设计值</td><td>锁定拉力</td><td>备注</td></tr><tr><td>527#-1</td><td>B6-A1</td><td>1</td><td>527#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>28</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏2°</td><td></td></tr><tr><td>526#-1</td><td>B6-A1</td><td>1</td><td>526#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>27</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏3°</td><td></td></tr><tr><td>525#-1</td><td>B6-A1</td><td>1</td><td>525#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>28</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏2°</td><td></td></tr><tr><td>524#-1</td><td>B6-A1</td><td>1</td><td>524#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>27°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏3°</td><td></td></tr><tr><td>523#-1</td><td>B6-A1</td><td>1</td><td>523#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>30°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td></td></tr><tr><td>522#-1</td><td>B6-A1</td><td>1</td><td>522#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>27</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏3°</td><td></td></tr><tr><td>521#-1</td><td>B6-A1</td><td>1</td><td>521#</td><td>52</td><td>10</td><td>13</td><td>0.37</td><td>32°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直下偏2°</td><td></td></tr><tr><td>531#-2</td><td>B6-A1</td><td>2</td><td>531#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>30</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>放射状</td><td></td></tr><tr><td>530#-2</td><td>B6-A1</td><td>2</td><td>530#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>30°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td></td></tr><tr><td>529#-2</td><td>B6-A1</td><td>2</td><td>529#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>30°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td></td></tr><tr><td>528#-2</td><td>B6-A1</td><td>2</td><td>528#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>28</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏2°</td><td></td></tr><tr><td>527#-2</td><td>B6-A1</td><td>2</td><td>527#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>27°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏3°</td><td></td></tr><tr><td>526#-2</td><td>B6-A1</td><td>2</td><td>526#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>27</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏3°</td><td></td></tr><tr><td>525#-2</td><td>B6-A1</td><td>2</td><td>525#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>28</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏2°</td><td></td></tr><tr><td>524#-2</td><td>B6-A1</td><td>2</td><td>524#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>29°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td>垂直上偏1°</td><td></td></tr><tr><td>523#-2</td><td>B6-A1</td><td>2</td><td>523#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>28</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td>垂直上偏2°</td></tr><tr><td>522#-2</td><td>B6-A1</td><td>2</td><td>522#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>28°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td>垂直上偏2°</td></tr><tr><td>521#-2</td><td>B6-A1 B6-A1</td><td>2</td><td>521#</td><td>50</td><td>9</td><td>12</td><td>0.37</td><td>33</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td>垂直下偏3°</td></tr><tr><td>531#-3</td><td>B6-A1</td><td>3</td><td>531#</td><td>47.8</td><td>7</td><td>10</td><td>0.37</td><td>30°</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td>放射状</td></tr><tr><td>530#-3</td><td></td><td>3</td><td>530#</td><td>47.8</td><td>7</td><td>10</td><td>0.37</td><td>29</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td>垂直上偏1°</td></tr><tr><td>529#-3</td><td>B6-A1</td><td>3</td><td>529#</td><td>47.8</td><td>7</td><td>10</td><td>0.37</td><td>27</td><td>MG2:4s15.2</td><td>1.8</td><td>150</td><td>600</td><td>450</td><td></td><td>垂直上偏3°</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图7单根锚索角度调整"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/01a924e7dbf9ab3760c9bdca4dd3b9cce9e470ebbedb26323abff5d25fb7a3d8.jpg",
+        "img_caption": [
+            "图8基坑转角调整"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/adef64b5346842bddd570b01a6666250052e6a8adf3b7c31b45092674219d81d.jpg",
+        "img_caption": [
+            "图9碰撞点优化流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3锚索与原建(构)筑物碰撞调整 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "因项目所处位置特殊，锚索施工前必须先探查是否对周边建(构)筑物造成破坏。本项目基坑南侧地下有电缆箱涵，钢筋砼结构，底板底埋深自正负零以下 $3 . 0 \\sim 9 . 5 \\mathrm { m }$ ,距离基坑边线 $0 . 6 9 \\sim 1 7 . 8 \\mathrm { m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据基坑支护结构BIM模型及设计图图纸可以看出该处的锚索长度均 $\\geqslant 2 3 \\mathrm { m }$ ,最长达 $3 4 \\mathrm { m }$ ，锚索钻孔角度为 $2 0 ^ { \\circ }$ 。通过BIM模型多位置、多角度测量观察发现,此处第一排预应力锚索施工时，若钻入角度在施工允许误差 $( \\ \\pm 3 ^ { \\circ } )$ 范围内稍有偏差，则会与电缆箱涵西北侧左下角部发生碰撞，当钻孔角度为$1 6 . 5 ^ { \\circ }$ 时，碰撞则无法避免。经过在BIM模型中反复调整同时协同设计院结构师进行锚索受力分析验证后，最终确定将此处锚索向下调整 $5 ^ { \\circ }$ ,即以 $2 5 ^ { \\circ }$ 角方向进行钻孔施工（图10）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6271fe88fa7a580f1c2d84f44f2f567a8d927de08f7021a4f4dd2b951dd042f3.jpg",
+        "img_caption": [
+            "图10锚索与电缆箱涵碰撞优化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4地质条件较差区域的设计优化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从三维地质模型可以发现，基坑北侧地质条件最为复杂，但施工图中标示该处锚索设计与其它地质条件较好处相同，为了确保工程质量，BIM工程师及项目技术工程师向设计院提出在该处增加锚索的建议，减小结构安全隐患。经设计院评估验证，查，无碰撞点后再进行施工。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.5 三维可视化交底 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用Revit建模，生成FBX文件，导入3Dmax中，根据优化后的预应力锚索模型及施工方案进行三维技术交底动画制作。从人材机准备到锚索施工精确定位、成孔钻机就位、成孔施工、清孔、锚索制作安装、注浆等,均利用精细化的BIM模型进行动态展示。借助",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f616b9910d49dba535b1ef2a1ca2328ead277a617a574548083d4b56a898bef1.jpg",
+        "img_caption": [
+            "图11三维可视化交底"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "湖南广电节目生产基地项目深基坑地质条件复杂，周边环境特殊，预应力锚索施工难度大，借助BIM技术的三维可视化、模拟性等特点，在施工前进行进行同类构件之间（锚索与锚索）及不同类构件(锚索与旋挖支护桩、锚索与周边地下管网)之间的碰撞检查，将碰撞报告提交给设计院进行锚索的优化设计；针对地质条件复杂的区域协同设计院进行精细化设计，减小了基坑结构的安全隐患，科学合理地指导了预应力锚索的施工。通过BIM技术的应用，降低了锚索施工返工率，在确保质量、安全的前提下，也保证了项目工期，取得了良好的经济效益和社会效益。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "张明亮，黄宗贵，周瑾，等.BIM技术在隆平水稻博物",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "馆项目施工中的应用[J].建筑技术，2017，48（5）：504-507.  \n［2］黄宗贵，张明亮,周瑾，等.BIM技术在双曲薄壳混凝土屋面施工中的应用[J].土木建筑工程信息技术,2016，8(1):15-21.  \n［3］杨骐麟．基于BIM的可视化协同设计应用研究[D].西南交通大学，2016.  \n[4」任远谋.BIM在我国建筑行业应用影响因素研究[D」重庆大学，2016.  \n[5］何建军，王硕,姚守俨.基坑工程BIM技术应用[J].土木建筑工程信息技术，2016，8(6)：55-59.  \n［6］杨国平，刘志刚.基于BIM的基坑施工任务检测云平台[J」.土木建筑工程信息技术，2016，8(6)：44-50  \n[7］凌康棋，许福,谢大江,等.基于BIM技术和有限元分析的抗浮锚杆优化设计[J].土木建筑工程信息术，2016,8(6) : 1-7.  \n[8］CECS22：2005岩土锚杆(索)技术规程[S].北京：中国计划出版社，2013.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Application of BIM Technology in the Construction of Prestressed Anchor Cable for Deep Foundation Pit Support ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chang Liling'，Zhang Mingliang1’²，Jiang Bo'，Hu Yil, Wu Yangyi'，Wei Weihong ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1.Hunan No.6 Engineering Co.,Ltd.，Changsha 410015，China; 2. Hunan Construction Engineering Group General Co., Ltd.， Changsha 410o04， China ; 3.Shanghai K&Z Construction Project Management Co.， Ltd.， Shanghai 2OoO92，China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The 3D information model of deep foundation pit support of the Hunan Broadcasting System Program Production Project isbuilt through using BIMtechnology,which brings about the pre-construction of prestressed anchor cable,assisting the civil engineers todetect the construction problems earlier and to takerelevant measures to avoidrisks.The application of BIM technology is especiall for identifying and resolving the colision problem of the prestressed anchorcable in the originaldesign drawings,and then thecolision report is submited tothedesign institute fortheoptimization design of thedrawings.Meanwhile,the3D visualization disclosure animation is made for powerful technological support to the project completion punctualland highly-qualified.Asa result,considerable economic benefits and significant social benefits are achieved. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM Technology；Foundation Pit Support;Prestressed Anchor;Visualization；Engineering Application ",
+        "page_idx": 6
+    }
+]

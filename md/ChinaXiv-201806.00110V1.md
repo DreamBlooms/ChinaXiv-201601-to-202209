@@ -1,0 +1,292 @@
+# 基于多元关系的张量分解标签推荐方法
+
+曾辉，胡强，淦修修(华东交通大学 信息工程学院，南昌 330013)
+
+摘要：标签推荐广泛应用于各大网站，如电影网站，电子商务网站等等，但现有方法忽视了多种属性特征之间的联系，无法保证大数据环境下推荐系统的准确率。针对该问题，提出了一种基于用户聚类和张量分解的新标签推荐方法，以进一步提高标签推荐的质量。该方法首先对一些对产品具有重要影响的用户进行聚类，然后根据用户、产品、标签和产品评分之间的多元关系综合计算总权重。最后，根据聚类之后的用户群体以及多元关系的总权值构建张量并进行张量因式分解。与传统张量分解方法相对比，实验结果表明本文提出的方法在准确率上具有一定的提高，验证了算法的有效性。
+
+关键词：标签推荐；张量因子分解；权重；聚类 中图分类号：TP181 doi: 10.3969/j.issn.1001-3695.2018.04.0215
+
+# Method for tag recommendation of tensor decomposition based on multiple relationships
+
+Zeng Hui, Hu Qiang, Gan Xiuxiu (Collegeof Information Engineering,East China Jiaotong University,NanChang33ool3,China)
+
+Abstract: Nowadays,tag recommendation is widelyused in various websites,such as movie websites,e-commerce websites and so on.However,thereare some methods thatignore theconnectionamong thecharacteristicsofa varietyofatributes and can not guaranteetheaccuracyof the recommender system inthebig data environment.Aiming atthis problem,this paper proposedatag recommendation method based on user clustering and tensor decomposition,which could further improve the qualityoftagrecommendation.Themethodfirstlyclustered theusers who hadan important influenceonthe product,and then comprehensivelycalculated thetotal weight based on the multiple relationships among the users,products,tags,and product ratings.Fnally,itconstructedthetensoraccordingtotheuser groups afterclusteringandthetotal weightof themultivariate relations,andperformedthetensorfactorization.Comparedwiththetraditional tensordecompositionmethd,theexperimental results show that our method improves the accuracy and verifies the effectiveness of the algorithm.
+
+Key words: tag recommendation; tensor factorization; weight; clustering
+
+通常，标签推荐意味着不同的用户可以使用不同的标签（字词列表）来标注产品（如网站、电影)，然后根据用户过去的标记行为预测其未来的行为，向目标用户推荐其感兴趣的产品。例如，若两个不同的用户都标记了相同的商品，则他们趋向于使用相同的标签注释未来的其他商品。
+
+目前，部分标签推荐方法通过张量分解技术对标签进行排序，例如高阶奇异值分解（HOSVD）[I]，张量因子分解排序算法（RTF）[2]和用于情境感知协同过滤的 $n$ 维张量因子分解[3]等等。Rendle等人[2]引入了两种不同的张量数据解释：0/1解释方案和基于位置的排序解释方案，结果显示RTF能够获得良好的预测质量。杨秋勇[4提出了一种基于三元关系权值数据解释方案（LORTF)，虽然实验结果有一定的提高，但是算法效率较低。在本文中，提出了一种通过考虑用户、产品、标签、评分之间多元关系计算综合权重，从而构造出基于四元关系的张量模型，实验结果表明本文提出的模型优于其他基准算法。
+
+本文首先根据用户的活跃性以及相似性的差异对用户进行聚类，将数据集划分成若干个小数据集；其次，根据用户、产品、标签、评分之间的相互关系计算出各自的重要性，综合四元关系的权值构造三维张量模型；最后，应用Tucker分解法及最小二乘法对张量模型进行优化求解，生成一系列的推荐结果。实验结果表明，本算法的推荐准确率与其他推荐算法相比具有较好的提高，验证了本文算法的有效性。
+
+# 0 相关工作
+
+标签推荐已经被广泛地应用于各种模型推荐算法中。Krestel等人[5]提出了一种基于潜在狄利克雷分配（LDA）的方法，它应用具有潜在主题的专业术语向用户推荐相应的文章，同一主题中的词语则有机会在其他文章中呈现，但是该方法缺乏个性化的考虑。
+
+随着推荐算法的快速发展，许多算法模型都被混合应用于推荐领域中，如贝叶斯分类器、聚类、人工神经网络以及决策树等等机器学习算法。文献[6]将社交标签并入两种聚类方法：基于LDA的K-means和生成聚类方法，尽管文中证明了标签作为聚类的附加信息源的价值，但是其中的聚类模型缺乏用户维度，导致F1得分略低。
+
+张量因式分解模型已在各种个领域研究应用广泛[7-9]。Kolda等人[10描述了CANDECOMP/PARAFAC和Tucker分解的两种不同的张量因子分解方法。Frolov等人[1]介绍了张量在社会标记系统中的应用以及各种相关的张量分解算法。
+
+# 1 标签推荐
+
+标签推荐的任务是为用户提供特定产品标签的个性化列表。例如，当观众（用户）想要标记电影（产品）时，电影网站能够从该用户的过去对其他标签的注释行为以及其他用户对该标签和其他标签的注释行为中学习推荐标签的列表，从而向观众推荐他或她想要的关键字列表。
+
+# 1.1数据的形式化表示
+
+假设分别用U、P、T、R表示用户、产品、标签、评分集合。在文章8中将历史标记信息表示为 $A \subseteq U \times P \times T$ ，它是一个关于分类变量的三元关系，可以被看作是一个三维张量，其中的A中的三元组是过去的积极观测值。本文中的元组使用的是“用户-产品-标签-评分”组成的元组，但评分并不作为主要的特征维度，只是作为一个重要的属性特征，应用在后面的权值计算中。元组 $\left( u , p , t , s \right) \in { A }$ 表示存在用户 $\boldsymbol { u }$ 对产品 $p$ 使用标签 $t$ 进行了标识并给出相应的评分 $s$ ，表明用户 $\boldsymbol { u }$ 对所用的产品的描述或评价。分别结合 $( u , p )$ ， $\left( u , t \right)$ ， $( p , t )$ 可以定义成$P _ { A } , Q _ { A } , R _ { A }$ 的集合，且满足以下关系：
+
+$$
+\begin{array} { r l } & { P _ { \mathrm {  { A } } } { : = } \{ \left( u , p \right) \left| \exists t \in T { : } ( u , p , t ) \in A \right. \} } \\ & { Q _ { \mathrm {  { A } } } { : = } \{ \left( u , t \right) \left| \exists p \in P { : } ( u , p , t ) \in A \right. \} } \\ & { R _ { \mathrm {  { A } } } { : = } \{ \left( p , t \right) \left| \exists u \in U { : } ( u , p , t ) \in A \right. \} } \end{array}
+$$
+
+其中： $P _ { A } , Q _ { A } , R _ { A }$ 可以认为是元组 $\mathrm { ~ A ~ }$ 分别在用户-产品、用户-标签、产品-标签的维度上的二维投影。
+
+# 1.2张量数据的表示
+
+张量具有不同的表示方式，每种表示方式能够应用在不同推荐算法中，以下主要介绍三种解释形式。
+
+# 1.2.1基于 $_ { 0 / 1 }$ 解释方案
+
+Y 中的三元组可以用三阶张量表示，Symeonidis 等人[提出将Y解释为一个稀疏张量，其中1表示正反馈，0表示缺失值（如图1所示)，训练数据 $\mathbf { y } ^ { 0 / 1 }$ 被定义为
+
+$$
+\mathbf { y } _ { \mathrm { u , i , t } } ^ { 0 / 1 } = { \left\{ \begin{array} { l l } { 1 , } & { ( \mathbf { u , i , t } ) \in \mathbf { A } } \\ { 0 , } & { \mathrm { e l s e } } \end{array} \right. } .
+$$
+
+但是，基于 $_ { 0 / 1 }$ 解释方案具有语义错误、精确度较低的缺
+
+陷[2]。
+
+![](images/f5816bccaabe0b43559a177107b5e8bf9930576ceeca7885b72bad282cf0e97b.jpg)  
+图1基于0/1解释表现形式图例
+
+# 1.2.2基于标注的排名解释方案
+
+Rendle等人[2提出区分正、负示例和缺失值，以便学习标签的个性化排名。该原理是根据观察到的标签分布中积极、消极的例子判断正负，可观察到的标签被解释为正反馈，而未标记标签则为负反馈，剩余其他条目被假定为缺失值（如图2所示）。它可以根据以下形式定义积极和消极集合：
+
+$$
+\mathrm { T } _ { u , p } ^ { + } : = \left\{ t | { \bigl ( } u , p { \bigr ) } \in P _ { s } \land { \bigl ( } u , p , t { \bigr ) } \in A \right\}
+$$
+
+$$
+\mathrm { T } _ { u , p } ^ { - } ; = \left\{ t | { \bigl ( } u , p { \bigr ) } \in P _ { s } \land { \bigl ( } u , p , t { \bigr ) } \notin A \right\}
+$$
+
+其中：负反馈 $\mathrm { T } _ { u , p } ^ { - }$ 并不代表为零，只是正反馈 $\mathrm { T } _ { u , p } ^ { + }$ 的值要比负反馈 $\mathrm { T } _ { u , p } ^ { - }$ 的值更高，更具有参照意义。
+
+![](images/f35d3b553d867bd347c0d93949ac8d3f0c347d90a2cffc424c73f8148fd039ac.jpg)  
+图2基于标注排序的表现形式图例  
+图3基于权值表现形式图例
+
+# 1.2.3基于权值解释方案
+
+根据“用户-产品-标签-评分”四元组之间的关系，将每个维度上的权重关系综合考虑，利用总权值 $W _ { u _ { j } , i _ { k } , t _ { l } }$ 的方式表示该元组的重要性，从而表明了其在整个元组集合中所占的比重，其具体含义为用户 $j$ 使用标签1来标记产品 $k$ ，表达了用户对产品的喜爱程度，如图3表示。
+
+Userl User2 User3 0 Wa，2 Wd 0 W2i 0 W82j 0 0 0 $\left| W _ { u _ { 3 } , i _ { 3 } , r _ { 1 } } \right| W _ { u _ { 3 } , i _ { 4 } } .$ 0 Wm, $\mathcal { N } _ { u _ { 1 } , i _ { 2 } , i _ { 2 } } | W _ { u _ { 1 } , i _ { 3 } , t _ { 2 } }$ W $0$ （20 W 0 Ww23 0 0 0 Wuis $\nu _ { u _ { 3 } , i _ { 3 } , t } | { W } _ { u _ { 3 } , i _ { 4 } , . }$ 8p1 0 Waj 0 0 Wai 0 W2 0 0 $\nu _ { u _ { 3 } , i _ { 2 } , I _ { 3 } } | W _ { u _ { 3 } , i _ { 3 } , t _ { 3 } } | W _ { u _ { 3 } , i _ { 4 } }$ 0 $\begin{array} { r } { \nu _ { u _ { 1 } , i _ { 2 } , t } \rVert ^ { W _ { u _ { 1 } , i _ { 3 } } , } } \end{array}$ 0 W 0 上 $u _ { 2 } , i _ { 3 } , t _ { 4 }$ 0 0 0 ${ } _ { u _ { 3 } , i _ { 3 } , t } \bigg | W _ { u _ { 3 } , i _ { 4 } } .$ 0 W2Wm. 0 Ww2.1-5 $0$ Wu2,3s.t $0$ 0 0 Wu, Wu3,i4J Product Product Product
+
+基于综合权值的表现形式与前两种表现形式对比具有以下几个优点：
+
+a）能够充分考虑元组中的每个元素之间的相互关系，并且元素之间各自的差异也可以加以区分，减少了相关属性对生成
+
+推荐结果产生的不良影响。
+
+b）能够充分考虑产品的受欢迎程度、用户对某些产品的喜欢程度，将使用过该产品的用户、标签等因素用权值表示，并将用户对该产品的评分等级进行加权计算，综合考虑之后产品所表现受欢迎程度层次分明，更易于精确推荐。
+
+c）有助于区分标签的重要性。在同一产品中，每个用户所使用的标签可能不同，但可以将不同的标签进行统计筛选，将出现频率较高的标签给出相对较高权值，出现次数较少或者语义不明的标签权值相对较低。
+
+# 2 方法
+
+本章节首先介绍了张量因子分解模型，然后根据用户使用产品的活跃性以及用户之间相似性对用户聚类，在同一用户群体信息基础上找出相关的元组关系，基于权值的形式表示元组之间的重要性，结合“用户-产品-标签-评分”之间关系的综合权值构建张量模型，并对其进行优化求解，最后获得对目标用户的推荐列表。
+
+# 2.1张量因式分解模型
+
+本文中，张量分解的方法主要是Tucker分解，是一种高阶主成分分析的形式。它在每种模式下将张量分解成核心张量以及对应的因子矩阵，分解原理如图4所示。
+
+![](images/2c0e9a349907595c7ea9573de458307fcd5b799e8939b0a4f99ae309394c792b.jpg)  
+图4三阶张量的Tucker分解原理
+
+张量X分解可以表示为： ${ \mathrm { X } } { = } \ { \mathrm { G } } { ; } { \mathrm { U } } { , } { \mathrm { P } } { , } { \mathrm { T } } \ \equiv { \mathrm { G } } { \times } _ { 1 } { \mathrm { U } } { \times } _ { 2 } \ { \mathrm { P } } { \times } _ { 3 } { \mathrm { T } }$ 。其中，U∈ $\mathbb { R } ^ { M \times r _ { 1 } }$ ， $\mathbf { P } \in \mathbb { R } ^ { N \times r _ { 2 } }$ ， $\mathbf { T } \in \mathbb { R } ^ { K \times r _ { 3 } }$ 是相应维度上的低秩特征矩阵，它可以被认为是每种模式的主要组成部分，因此被认为是一种高阶的主成分分析的形式。核心张量 $\mathbf { G } \in \mathbb { R } ^ { r _ { l } \times r _ { 2 } \times r _ { 3 } }$ 表示不同部分（特征矩阵）之间的交互，保留了原始张量主要信息并且具有一定的稳定性，它的维度为 $r _ { I } { \times } r _ { 2 } { \times } r _ { 3 }$ 。在通常情况下，被压缩后的张量的存储量需求要远小于原张量，有利于满足存储空间的需求。在学习了特征矩阵和核心张量之后，可以按如下方式进行预测：
+
+$$
+\stackrel { \wedge } { x } _ { u , p , t } = \sum _ { \stackrel { - } { u } } \sum _ { \stackrel { - } { p } } \sum _ { \stackrel { - } { t } } \stackrel { \wedge } { \mathbf { g } } _ { _ { \stackrel { - } { u , p , t } } } \cdot \stackrel { \wedge } { u } _ { u , \stackrel { - } { u } } \stackrel { \wedge } { \cdot } \stackrel { \wedge } { p } _ { p , \stackrel { - } { p } } \cdot \stackrel { \wedge } { t } _ { t , \stackrel { - } { t } } .
+$$
+
+其中：波浪号表示特征矩阵中特征维度上的索引，用“帽子”标记特征矩阵的元素（如， $\stackrel { \wedge } { u } _ { u , u }$ )。能够从公式（4）中导出张量的预测值，并生成Top-N个性化推荐列表：
+
+$$
+T o p ( u , p , N ) { = } a r g m a x \stackrel { \wedge } { x } _ { u , p , t } .
+$$
+
+# 2.2综合权重的计算方法
+
+# 2.2.1用户聚类
+
+本文将所有用户集合根据它们之间的活跃性不同分为三大类：活跃用户，普通用户，无意用户。活跃用户是用户集合中最具代表性的类别，该类用户使用了大量产品并用标签标记、评分等，因此活跃用户自身的权重会比较大。相反，无意用户的权重将非常小，该类用户指在平台中极少的产品使用量，甚至注册之后仅仅上线过几次，没有过多的参考价值。除了活跃用户和无意用户之外，剩下的则为普通用户，该类用户占所有用户集合中的绝大多数，同时也是主要的推荐对象。
+
+用户活跃性更多体现在用户使用的相关产品以及所标记的标签数量上，通常产品和标签的数据量通常要远远大于用户的数据量，因此在用户的权值计算时需要将产品和标签对用户的影响进行综合考虑。
+
+首先计算用户使用产品的权值大小，计算公式如式（6）所示，其权值 $\boldsymbol { w } _ { p _ { k } }$ 的大小与使用该产品的用户次数成正比，能够反映该产品受到的欢迎程度。
+
+$$
+w _ { p _ { k } } = \frac { \displaystyle \sum _ { ( u _ { k } , p _ { k } ) \in P _ { A } } u _ { k } } { \displaystyle | U | }
+$$
+
+但是由于每个用户使用的产品的数量都不一样，有些活跃用户使用的产品数量巨大，为了避免产品的使用量过多导致权值太大，需要设置一个权重因子 $\alpha _ { p }$ 使得产品的总权值小于等于1，计算形式如下所示：
+
+$$
+w _ { u _ { p } } = \alpha _ { p } * \sum _ { ( u _ { k } , p _ { k } ) \in P _ { A } } w _ { p _ { k } }
+$$
+
+相似地，标签的权值大小与该标签被使用的用户数量成正比，其权值 $w _ { t _ { k } }$ 可以使用式（8）计算。
+
+$$
+w _ { t _ { k } } = \frac { \displaystyle \sum _ { ( u _ { k } , t _ { k } ) \in Q _ { A } } u _ { k } } { \displaystyle \vert U \vert } ,
+$$
+
+同理，由于某些标签被使用的次数过多，导致累加的权值过大，因此需要设置一个参数 $\alpha _ { t }$ 限定标签的总权值小于等于1，计算形式如下所示：
+
+$$
+w _ { u _ { t } } = \alpha _ { t } * \sum _ { ( u _ { k } , t _ { k } ) \in \mathcal { Q } _ { A } } w _ { t _ { k } } ,
+$$
+
+用户的权重需要通过使用的产品权重 $\boldsymbol { w _ { u _ { p } } }$ 和标签权重$w _ { u _ { t } }$ 综合计算，但是由于前者的重要性要偏高，并且需要限定用户权值在0和1之间，所以可以设置一个参数 $\alpha$ 且大于0.5,计算形式如下：
+
+$$
+w _ { u } = \alpha * w _ { u _ { p } } + ( 1 - \alpha ) w _ { u _ { t } } ( \alpha \in ( 0 . 5 , 1 ) ) .
+$$
+
+获得所有用户的权重之后，依据所有用户权值大小进行降序排序，然后选择前N个用户作为活跃用户集，将排在最后部分且小于设定的阈值的用户集作为无意用户，该类用户不加入模型的训练，剩下的则为普通用户。
+
+由于用户集合过大，若直接构建张量模型，则算法复杂性会明显增大，为了提升算法数据的处理效率以及提高推荐的准确性，将普通用户与活跃用户集合聚类成若干个相似性的用户群体。通过采用修正余弦相似度方法计算出用户之间的相似性，将各个用户所使用的产品集合减去当前用户已评级产品的平均值作为输入向量，把活动用户 $\pmb { u } _ { a }$ 和普通用户 $\boldsymbol { u } _ { o }$ 所使用的产品集合作为 $\mathbf { m }$ 维向量，其中向量元素值为集合中产品被用户使用的次数 $t s$ 。相似度计算方法如下：
+
+$$
+s i m ( u _ { a } , u _ { o } ) = \frac { \displaystyle \sum _ { p _ { k } \in ( P _ { u _ { a } } \cap P _ { u _ { o } } ) } ( t s _ { u _ { a } , p _ { k } } - \overline { { t s _ { u _ { a } } } } ) ( t s _ { u _ { o } , p _ { k } } - \overline { { t s _ { u _ { o } } } } ) } { \displaystyle \sqrt { \sum _ { p _ { k } \in ( P _ { u _ { a } } \cap P _ { u _ { o } } ) } ( t s _ { u _ { a } , p _ { k } } - \overline { { t s _ { u _ { a } } } } ) ^ { 2 } } \sqrt { \sum _ { p _ { k } \in ( P _ { u _ { a } } \cap P _ { u _ { o } } ) } ( t s _ { u _ { o } , p _ { k } } - \overline { { t s _ { u _ { o } } } } ) ^ { 2 } } } .
+$$
+
+根据计算的相似性结果对比分析，选择多个活跃用户作为聚类的中心目标，并对各自之间的相似性迭代排序，为每个普通用户选择一个最为相似的用户群体，最终获得多个聚类集。本文根据聚类结果筛选之后选取了两个聚类集作为实验数据，将聚类集中用户的相关产品、标签、评分构成元组数据，以便于下一步求解元组的综合权重。
+
+# 2.2.2计算元组的综合权重
+
+计算综合总权值需要综合不同维度上的权值考虑，它的权值大小是元组关系的总体表现。用户权值体现的是用户的活跃程度，主要依据用户使用产品和标签的数量，而产品权值不仅要考虑用户在产品上的权重和标签在产品上的权重，而且还需要考虑用户对产品的评分大小。
+
+用户在某个产品上的权值 $w _ { p _ { k } , u }$ 主要是依据使用该产品的所有用户权值 $w _ { u _ { l } }$ 的平均值，可用式（12）表示。
+
+$$
+\begin{array} { r } { w _ { p _ { k } , u } = \frac { { \displaystyle \sum _ { ( u _ { l } , p _ { k } ) \in P _ { A } } w _ { u _ { l } } } } { \displaystyle \left| U _ { P _ { k } } \right| } } \end{array}
+$$
+
+标签在产品上的权重 $\boldsymbol { w } _ { p _ { k } , t }$ ，指某个产品被所有标签标记的权值，通过某个产品被标签标记的数量和标签集合总数的比例计算可得：
+
+$$
+w _ { p _ { k } , t } = \frac { \sum _ { ( p _ { k } , t _ { l } ) \in R _ { A } } t _ { l } } { \left| T _ { p _ { k } } \right| }
+$$
+
+评分权值 $s _ { p _ { k } , u _ { s } }$ 是指某个产品被大众用户给出的评分均值，可通过用户集合对该产品总评分与该产品被用户的评分次数的比例计算而得，可用式（14）表示。
+
+$$
+s _ { p _ { k } , u _ { s } } = \frac { \displaystyle \sum _ { ( p _ { k } , u _ { s } ) \in P _ { A } } u _ { s } } { \displaystyle \left| U _ { p _ { k } } \right| }
+$$
+
+产品的总权值 $w _ { p _ { k } }$ 需要综合以上三者关系，但它们之间所占的重要关系不一样，需要设置不同的参数限定产品的总权值。并且由于产品的总权值最大值为1，而其中的评分值普遍大于1，因此需要在它们前面设置不同的限定参数 $\lambda _ { i }$ ，计算方法如下：
+
+$$
+w _ { p _ { k } } = \lambda _ { 1 } \cdot w _ { p _ { k } , u } + \lambda _ { 2 } \cdot w _ { p _ { k } , t } + \lambda _ { 3 } \cdot s _ { p _ { k } , u _ { s } } \quad ( \lambda _ { i } \in ( 0 , 1 ) )
+$$
+
+标签的权值 $w _ { t _ { k } }$ 的求解只需单纯地考虑标签之间的关系，无须再考虑用户和产品在标签上的影响因素，因为前面求得的用户权重和产品权重均将标签与它们之间的关系考虑进去。标
+
+签权值的求解是根据三元组中标签出现次数与所使用的标签的最大次数的比例计算：
+
+$$
+w _ { t _ { k } } = \frac { \displaystyle \sum _ { ( u _ { k } , p _ { k } , t _ { k } ) \in A } t i m e s _ { t _ { k } } } { m a x ( t i m e s _ { t } ) }
+$$
+
+综合权重的计算可以根据以上所求得的用户权值 $\boldsymbol { w } _ { u _ { k } }$ 、产品权值 $w _ { p _ { k } }$ 和标签权值 $w _ { t _ { k } }$ 综合考虑，并设定相应的比例参数$\mu _ { i }$ ，计算公式如下所示：
+
+$$
+w _ { u _ { k } , p _ { k } , t _ { k } } = \mu _ { 1 } \cdot w _ { u _ { k } } + \mu _ { 2 } \cdot w _ { p _ { k } } + \mu _ { 3 } \cdot w _ { t _ { k } } \quad ( \mu _ { i } \in [ 0 , 1 ] )
+$$
+
+将用户U、产品 $\mathrm { ~ \bf ~ P ~ }$ 、标签 $\mathrm { \Delta T }$ 分别作为张量的三个维度，由计算得到的综合权值确定对应张量维度上的元素值并构建三维张量。通过对张量进行tucker分解以及最小二乘法优化分解的结果，再根据式（4）（5）可以获得最终预测的TOP-N个性化推荐列表。
+
+# 3 实验结果和分析
+
+# 3.1 数据集
+
+本文对初步获得的MovieLens数据集进行数据预处理之后最终得到163295条记录。这些数据集中包含500个用户，9289个电影，1128个标签，每个用户都对自身看过的电影给出了评分，评分范围为0.5-5共十个等级，每个评分区间为0.5。根据用户聚类的结果，将500个用户分成了六类，选取了聚类结果最好的两类用户的相关数据与其他算法进行对比实验，主要的实验数据如表1所示。
+
+表1数据集说明  
+
+<html><body><table><tr><td>数据集</td><td>用户</td><td>项目</td><td>标签</td><td>总记录数</td></tr><tr><td>Cluster1</td><td>100</td><td>5196</td><td>1123</td><td>59524</td></tr><tr><td>Cluster2</td><td>84</td><td>4002</td><td>1108</td><td>28338</td></tr></table></body></html>
+
+# 3.2参数设置
+
+在用户聚类的过程中，由于每个用户使用的产品数量以及标记的标签数量都不一样，甚至相差太大，导致用户使用的产品权值和标签权值累加数量过大，甚至有些用户使用的产品权值接近100，因此参数会设置的相对较小，将参数 $\alpha _ { { } _ { p } }$ 和参数 $\alpha _ { { } _ { t } }$ 都设置为0.01。在计算用户权值时，产品权值比重需要大于标签的权值，否则用户聚类效果会不理想，因此将参数 $\alpha$ 设置为0.6。
+
+在综合权值计算过程，其中参数 $\lambda _ { \mathrm { { \scriptscriptstyle 1 } } }$ 为0.01，参数 $\lambda _ { 2 }$ 为0.01,参数 $\lambda _ { 3 }$ 为0.05，参数 $\scriptstyle \mu _ { 1 } = \mu _ { 2 } = \mu _ { 3 } = 1$ 。在计算产品的权值时，参数 $\lambda _ { 1 }$ 和参数 $\lambda _ { 2 }$ 两个参数的设置缘由与用户聚类的相类似，由于累加数量过多因此需要设置一个较小的参数，评分权值参数 $\lambda _ { 3 }$ 由于评分本身数值过大，产品权值又限定小于等于1，因此也需要设定一个较小参数。最后的综合权值计算中，三个特征维度上的参数设置都是1，即保证总权值小于等于3。
+
+# 3.3评估方法
+
+本文实验的评价指标是在各类算法研究中常被应用的准确率（precision）、召回率（recall）、F值（F-measure）/（F-score）。
+
+本算法从两个簇类集的用户中，随机抽取每个用户所使用的部分相关产品及标签数据作为测试集 $S _ { t e s t }$ ，剩余部分作为训练集$S _ { t r a i n }$ 。每个评价指标都是使用推荐列表中的 TOP-1至 TOP-15进行对比实验。
+
+$$
+\operatorname * { a v g } _ { ( u , p ) \in S _ { t e s t } } \frac { \big | \mathrm { T o p } ( u , p , N ) \bigcap \{ t \big | ( u , p , t ) \in S _ { t e s t } \} \big | } { N }
+$$
+
+$$
+\begin{array} { r l } & { \mathrm { R e c a l l } ( S _ { t e s t } , { \bf N } ) = } \\ & { ~ \operatorname * { a v g } _ { ( u , p ) \in S _ { t e s t } } \frac { | \mathrm { T o p } ( u , p , N ) \bigcap \{ t \big | ( u , p , t ) \in S _ { t e s t }  \} | } { \{ t \big | ( u , p , t ) \in S _ { t e s t } \} } } \end{array}
+$$
+
+$$
+\mathrm { F l } ( S _ { t e s t } , \mathrm { N } ) { = } \frac { 2 \cdot \mathrm { P r e c i s i o n } ( S _ { t e s t } , \mathrm { N } ) \cdot \mathrm { R e c a l l } ( S _ { t e s t } , \mathrm { N } ) } { \mathrm { P r e c i s i o n } ( S _ { t e s t } , \mathrm { N } ) + \mathrm { R e c a l l } ( S _ { t e s t } , \mathrm { N } ) } .
+$$
+
+# 3.4实验结果和分析
+
+本文使用四个算法与本算法进行对比实验，其中“0/1Scheme”是使用“0/1”模式[12]，“LORTF”虽然使用的也是权值的方式，但是该方法仅仅考虑的是三元关系[4]，而本方法“NewMethod”利用“用户-产品-标签-评分”四元关系权值模式进行的张量分解，更多地参考了四元关系之间的权重大小，“4-D”是采用四维张量分解的方法[]，将“用户-产品-标签-评分"作为四个不同的维度构建张量进行对比。在这几种方法中，使用的都是相同的拆分方法和数据集，在每个数据集中随机抽取 $20 \%$ 的数据作为测试集， $80 \%$ 用作训练集构建模型进行实验。前四种算法的核张量都是使用（8，8，8）的维度，而算法“4-D”为了避免运算的复杂性过大和内存消耗过大，将评分等级改成1-5个等级，并使用（8，8，8，3）维度的核张量进行优化分解。以下应用不同的评价指标对两个簇类数据的对比实验结果进行分析。
+
+对比图6和7中的实验结果可知，本方法在 Top-1至 Top-15 推荐列表中计算的准确度优于其他方法，随着推荐数目地递增，算法的准确度也在逐渐地减小，并且可以看出Cluster1和Cluster2的实验结果精确度都超过了其他方法。
+
+根据图8和9中的召回率对比可以看出，数据集Cluster1中 Top1至Top3的结果优于其他方法，但是随着Top-N数量的递增，该方法的召回率略低于其他方法。通过与其他方法对比可知，在数据集Cluster2中，随着Top-N值的递增，本方法的召回率表现优于其他方法。
+
+![](images/2ee4612d307f5d24cda1de4efbb4853c9c588c428981abf60c5a2ddebb5e6c3b.jpg)  
+图6Clusterl的Top-1到Top-15列表的准确率
+
+![](images/51ad8201db6a414fd5ae0096238b1e6bd04c236c612fe025ca8c81d234c01ec8.jpg)  
+图7Cluster2 的Top-1到Top-15列表的准确率
+
+![](images/f58b3d37464b9b28e8486c84137d7a1e7dccf6a04797005384d0ae7dcc6a2b32.jpg)  
+图8Clusterl 的Top-1到Top-15列表的召回率
+
+![](images/275dc1a379c8709500deedb00e876f7c322d575081b756bf39978370cbd6c83e.jpg)  
+图9Cluster2的Top-1到Top-15列表的召回率
+
+![](images/2ce1123f975891e80a6220ea61a47b6311f391fafa349b6d62a9cec30d977307.jpg)  
+图10Clusterl 的Top-1到Top-15 列表的F-Measure
+
+通过图10和图11中的各个方法对比，可以看出本文方法的 F-measure 值无论是在Clusterl 还是在Cluster2 中均要高于其他方法，并且推荐数量在 Top3-Top5之间时明显高于其他 Top值，但整体F-Measure很小，这是由于数据集太稀疏的缘故。结果表明，本方法在推荐过程中的表现明显好于其他方法。其原因主要是本方法充分考虑了多元关系的属性特征，以权值区分各自的重要性，间接地提升了推荐的准确率。
+
+![](images/bcbc566df4ff5589902fc60acb8cf4926fdda6ae1eb424487cf51d778dafd054.jpg)  
+图11Cluster2的 Top-1到 Top-15 列表的 F-Measure
+
+# 4 结束语
+
+本文首先针对三种不同的张量数据表现形式进行了介绍，其中包括0/1解释方案，标注排序解释方案和综合权重解释方案。然后，基于用户的活跃性以及相似性对用户进行聚类，并在聚类后的用户集合基础上，结合产品、标签、评分的多元关系计算综合权值。将本文方法的评估结果与其他方法相对比，结果表明本文方法具有较好的准确性、合理性。对于未来的工作，将从下面两个方面进行研究：a）通过调节更优的参数，或者结合一些其他重要影响因素，提升权值的计算方法；b)研究一种更好的方法来应对数据的稀疏性，以提高算法的运算速度和预测的准确性。
+
+# 参考文献：
+
+[1]Symeonidis P.User recommendations based on tensor dimensionality reduction [C]//Proc of ACM Conference on Recommender Systems.New York:ACMPress,2008:43-50.   
+[2]Rendle S,Marinho LB,Nanopoulos A,et al.Learning optimal ranking with tensor factorization for tag recommendation [C]//Proc of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.New York:ACMPress,2009:727-736.   
+[3]Maroulis S,Boutsis I,Kalogeraki V. Context-aware point of interest recommendation using tensor factorization [C]// Proc of IEEE International Conference on Big Data.2017: 963-968.   
+[4]杨秋勇．应用张量分解法学习最优评分的推荐系统研究[D].广州：华 南理工大学,2012. (Yang Qiuyong. Research of learming optimal ranking with tensor factorization for recommendation system [D]. Guangzhou: South China University of Technology,2012)   
+[5]Krestel R,Fankhauser P,Nejdl W.Latent dirichlet allocation for tag recommendation [C]// Proc of ACM Conference on Recommender Systems. New York:ACMPress,2009:61-68.   
+[6]Lu X S, Zhou M C.Analyzing the evolution of rare events via social media data and k-means clustering algorithm [C]// Proc of IEEE International Conference on Networking,Sensing,and Control. 2016: 1-6.   
+[7]Acar E,Dunlavy D M, Kolda TG.A scalable optimization approach for fitting canonical tensor decompositions [J]. Journal of Chemometrics,2015, 25 (2): 67-86.   
+[8]Goulart J,Boizard M,Boyer R,et al. Tensor CP decomposition with structured factor matrices: algorithms and performance [J]. IEEE Journal of Selected Topics in Signal Processing,2016,10(4): 757-769.   
+[9]Zhou G,Cichocki A,Zhao Q,et al.Nonnegative matrix and tensor factorizations: an algorithmic perspective [J]，IEEE Signal Processing Magazine,2014,31 (3): 54-65,.   
+[10] Kolda TG,Bader BW.Tensor decompositions and applications [J].Society for Industrial and Applied Mathematics,2009,51(3): 455-500,.   
+[11]Frolov E,Oseledets I. Tensor methods and recommender systems [J]. Wiley Interdisciplinary Reviews Data Mining& Knowledge Discovery,2016.   
+[12] Symeonidis P,Nanopoulos A,Manolopoulos Y.Tag recommendations based on tensor dimensionality reduction [C]// Proc of IFIP International Conference on Artificial Intelligence Applications and Innovations.Boston: Springer,2009:331-340.

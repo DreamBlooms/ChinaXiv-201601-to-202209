@@ -1,0 +1,293 @@
+[
+    {
+        "type": "text",
+        "text": "Review article Metabolic engineering for the production of plant isoquinoline alkaloids ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Andrew Diamond1 and Isabel Desgagné-Penix1,2,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1DepartmentofChemistryiochemistryandPhysics,UnversityofQuebecatTros-Rivieres,Trois-Rivieres,QC,Canada   \n2Groupederechercheen biologie vegetale, Universityof QuebecatTrois-Rivieres,Trois-Rivieres,QC,Canada ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received2 July2015;   \nrevised 15 September2015;   \naccepted 19 September2015.   \n\\*Correspondence (Tel +819 376 5011;   \nfax $+ 8 1 9$ 376 5084;   \nemail isabel.desgagne-penix@uqtr.ca) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Several plant isoquinoline alkaloids (PlAs)possess powerful pharmaceutical and biotechnological properties.Thus,PIA metabolism and its fascinating molecules,including morphine,colchicine and galanthamine, have attracted the attention of both the industry and researchers involved in plant science,biochemistry,chemical bioengineering and medicine. Currently,access and availability of high-value PIAs [commercialized (e.g. galanthamine) or not (e.g. narciclasine)] is limited by low concentration in nature,lack of cultivation or geographic access,seasonal production and risk of overharvesting wild plant species.Nevertheless,most commercial PlAs are still extracted from plant sources.Efforts to improve the production of PIA have largely been impaired by the lack of knowledge on PIA metabolism.With the development and integration of next-generation sequencing technologies, high-throughput proteomics and metabolomics analyses and bioinformatics,systems biology was used to unravel metabolic pathways allowing the use of metabolic engineering and synthetic biology approaches to increase production of valuable PIAs.Metabolic engineering provides opportunity to overcome issues related to restricted availability,diversification and productivity of plant alkaloids.Engineered plant,plant cells and microbial cellcultures can act as biofactories by offering their metabolic machinery for the purpose of optimizing the conditions and increasing the productivity of a specific alkaloid. In this article,is presented an update on the production of PIA in engineered plant,plant cell cultures and heterologous micro-organisms. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:plant metabolism, isoquinoline alkaloid,metabolic engineering,synthetic biology, biosynthesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plants are major producer of structurally diverse and medicinally important alkaloid specialized metabolites that have great economical importance.There are over 21 Ooo known alkaloids that have been extracted from plants (Wink，201O).Throughout history,alkaloid-producing plants,and their extracts,have been exploited for medicinal,ceremonial and toxic properties, leading up to knowledge that inspired today's wide range of industrial applications.Major commercial alkaloids include the analgesic morphine from opium poppy (Papaver somniferum),the acetylcholinesterase inhibitor galanthamine from daffodils (Narcissus pseudonarcissus),the antimicrobial sanguinarine from California poppy (Eschscholzia californica),the gout and anti-inflammatory drugcolchicine from meadow saffron (Colchicumautumnale) and the metabolic precursor reticuline used for semi-syntheticalkaloid manufacture.All of these examples are alkaloids that belong to the family of plant isoquinoline alkaloids (PlAs)which includes high-value metabolites such as emetine，kreysigine，lycorine, magnoflorine,narciclasine,protopine and scoulerine to name a few (Figure 1). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Isoquinoline alkaloids in plant ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pharmaceutical and commercial alkaloids can be obtained directly fromplant source or are chemically converted after isolation. However，access and availability of some high-value PlAs (e.g. galanthamine and narciclasine) may be limited by low abundance innature，lack of cultivation or geographic access，seasonal production and risk of overharvesting wild plant species.Often, their production via field cultivation,if possible,leads to supply inefficiencies and variability.For example,theyield of morphine from opium poppy extracts varies greatly due to the cultivar used, growing season，climate，etc. (Desgagne-Penix et al.，2012; Dittbrenneret al.，2oo9).In most cases,the availability of the PIA-producing plants is limited and/or difficult to farm.In addition to the low concentration， the complex mixtures of alkaloid inplanta limit isolationand purification of PlA using conventional extraction processes，especially those intended for commercial use.Alternative production systems，such as total or semisynthesis of PlAs,have been developed but are typically complex fora low yield of isoquinoline alkaloid (Banwell et al.，2012; Graening and Schmalz,2004;Pulka,2010;Rinner and Hudlicky, ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb41bdb5e06e750d77e9951db5fcbff80f7220df3e82c51561e744f36f89d1c2.jpg",
+        "img_caption": [
+            "Figure 1 Examples of plant isoquinoline alkaloids (PlAs) found in plants. The structural group or the plant family to which each alkaloid belongs is indicated in parentheses. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2012).Consequently，there is a demand not only for better isolation and production platforms but also for alternative ways to produce the valuable alkaloids using biotechnological processes such as plant engineering， plant cell culture or microbial metabolic engineering.Each strategy has its own challenges, and the most efficient and economically viable one will largely depends on the metabolite produce and may change over time due to technological innovations,increase in knowledge and economic and political developments (Keasling，2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biosynthesis of isoquinoline alkaloids ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most PlAs accumulate at low concentration levels in plants.For example，analysisof galanthamine content in Amaryllidaceae plants showed variation from trace to $0 . 6 \\%$ (referred to DW) with the commercial cultivar Narcissus confusus being the most productive of this family (Berkov et al.，20o9).Also，PIAs are metabolites of limited taxonomic distribution and often represent signature molecules of certain plant species or families.For example,the benzylisoquinoline alkaloid morphine and codeine areonly produced in the P.somniferum plant species.Similarly, the Amaryllidaceae alkaloids,such as galanthamine,antimicrobial lycorine and anticancer narciclasine,are only synthesized in plants ofthe Amaryllidaceae family (e.g.amaryllis，daffodilsand snowdrops).Biosynthesis and accumulation of specialized isoquinoline alkaloids can be limited to specific cells types,tissues or organs,and may be regulated in response to environmental perturbations (Beaudoin and Facchini,2014;Desgagné-Penix and Facchini,2011;Onoyovwe et al.,2013). In an ecological context, PIAshave been suggested to be involved in plant defence mechanisms owing to their physiological activity,either bydirect toxic effect (deterrent) or by inhibition of certain functions of the invading pathogens (Berkov et al.，20o8;Gomez et al.，2003; Nomura et al.，2008;Santana et al.，2008;Shen et al.，2014; Shields et al.,2008;Simas et al.,2001). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8d68ddafa98ec1492593e8140fb5ad9eeb189075ae0552d2efdb9bf30bd1d2b.jpg",
+        "img_caption": [
+            "Figure2 Overview of the systems biology strategy feeding into metabolic engineering and synthetic biology approaches. Plants produce several thousand of different alkaloid metabolites; several of which are used by humans as high-value pharmaceuticals and precursors for various chemicals and bioproducts.Multidisciplinary systems biology strategy offers new avenues to explore and exploit this natural resource.Tissuespecific identification of known and novel compounds through metabolite profiling or targeted metabolomics informs genomics-based (transcriptomics and proteomics) discovery and elucidation of alkaloidbiosynthetic genes,enzymes and pathways via bioinformatics and biochemistry approaches.The elucidated pathways provide tools for combinatorial plant and microbial metabolic engineering and synthetic biology biotechnologies to be developed for plant-based bioproducts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Advances in understanding PIA metabolism were originally achieved through isotopic tracer studies,enzyme isolation and characterization methods,and recombinant DNA technologies (Cordell，2013).Rapid progress in plant systems biology，which combines metabolite profiling,transcriptome sequencing,bioinformatics and biochemistry,has accelerated gene discovery across a diversity of plant species including the alkaloid-producing plants where genomic information isoften unavailable (Figure 2) (Bohlin et al.，2010;Facchini et al.，2012；Higashi and Saito，2013; Schilmiller et al.，2012；Seaver et al.，2014;Sheth and Thaker, 2014;Trewavas,2006;Wolfender et al.,2013;Xiao et al.,2013). For PIA-producing plants，RNA sequencing has been used to generate transcriptome databases of more than 30 plant species, mostly benzylisoquinoline alkaloids producing ones (DesgagnePenix et al.,2010,2012;Farrow et al.,2012;Hagel etal.,2015; ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kilgore et al.,2014;Wang et al.,2013;Xiao etal.,2013).These have allowed for the identification of several biosynthetic genes and provided knowledge for understanding PIA metabolism. Thus,the systems biology approach has not only accelerated the elucidation of the PlA pathways but has also increased the number of gene sequences (i.e.enzyme variants or tools) to be used in engineering production systems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Plant isoquinoline alkaloids are synthesized from tyrosine decarboxylatedprecursor (tyramine or dopamine)whichis condensed with a second precursor to form a specific scaffold molecule (norcoclaurine，autumnaline，deacetylisoipecosideor norbelladine) (Figure 3).Further modifications and decorations of the scaffold molecule lead to the wide array of PlAs known to date (Figures1and3).Four groups of PlAs are presented here, namely the benzylisoquinoline,phenethylisoquinoline,ipecac and Amarylidaceae alkaloids (Figure 3). The most studied metabolicpathways belong to the benzylisoquinoline groupof PIA,specificallyP.somniferum morphinan (e.g.morphine/codeine), E.californica protoberberine (e.g.scoulerine) and benzophenanthridine (e.g. sanguinarine)and Coptis japonica aporphine (e.g.magnoflorine) biosynthetic pathways.Consequently,these haveemerged as model systems to studyand engineered PlA metabolism.To date，over 30 biosynthetic genes have been reported to be involved in benzylisoquinoline alkaloid pathways (Beaudoin and Facchini，2014; Desgagné-Penix and Facchini, 2011；Hagel and Facchini，2013).The knowledge acquired on these pathways showed that it involves a restricted number of enzyme families catalysing coupling reactions and functional group modifications including Pictet-Spenglerases，cytochrome P450,acetyl-,O- and $N \\cdot$ -methyltransferases,oxidoreductasesand dioxygenases (Hagel and Facchini，2013;)．To date，only five biosynthetic genes for ipecac alkaloids,one for Amaryllidaceae alkaloids and none for the phenylethylisoquinoline alkaloids have been reported (Figure 3)(Cheong et al.，2011； Kilgore et al., 2014;Nomura and Kutchan，2010;Nomura et al.，2008)．As metabolic engineering requires knowledge of the pathway genes and enzymes involved,the majority of the studies focus on the benzylisoquinoline alkaloid pathways. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Plant metabolic engineering and plant cell cultures ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When the cultivation of PlA-producing plant is difficult or not practically possible,production in plant cell cultures is economically feasible for certain compounds,particularly those of high value.AmaryllidaceaeLeucojumaestivumand Pancratium maritimum plant cell cultures have been developed for the studyand production of galanthamine and lycorine (Bogdanova et al., 2009；Georgiev et al.，2010；Ptak et al.，2010;Saliba et al., 2015).Similarly，cell cultures of 18 plant species that produce benzylisoquinoline alkaloids have been developed and used to studyand identify genes involved in PlA metabolism (DesgagnePenix et al.,2010;Farrow etal.，2012).The basal production of PlAs in these cell culture systems is low,and increased production requires costlyaddition of metabolic precursor,plant hormone or fungal elicitor (Cho et al.，20o8;Desgagne-Penix et al.，2010; Haraetal.，1993;lvanovetal.，2012；Nakagawa etal.，1986; Pavlov etal.,2007;Verma etal.,2014).Forexample,untreated opium poppy cells do not produce alkaloids，whereas elicitortreated cells showed up-regulated expression of biosynthetic enzymes and increased production of sanguinarine but not morphine (Desgagne-Penixet al.,201O).In plants, there isa clear ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tyrosine Tyrosine Tyrosine TyrosineTYDCDopamine Dopamine Dopamine Tyramine  \n4-HPAA NCS 4-HDCA Secologanin- 3,4-DHBANorcoclaurine Autumnaline Deacetylisoipecoside Norbelladine：6OMT 1 1！CNMT 1 1 =！NMCH 1 1 14'OMT 一 iIpeOMT1 =Reticuline 1 ;IpeOMT2 =SalSyn! 1 1 BBE iIpeGlul N4OMTSalR！ ： 1 CFS 1 ：IpeOMT3SalAT！ 1 1 SPS 1 CiOMT =TNMT 1 1  \nT60DM I = 1MSH 1 1 1CODM: 1 1 P6H 1 二 =  \nMorphine S'anguinarine _ _↓ ↓ √ ? V ?Benzylisoquinoline Phenethylisoquinoline Ipecac Amaryllidaceaealkaloids alkaloids alkaloids alkaloids",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "correlation between cellular differentiation and specialized metabolism.The low or lack of productivity of alkaloids in plant cell cultures can be explained by insufficient level of cell differentiation(Desgagne-Penix et al.， 201o； Farrow et al., 2012).For plant cell cultures,the transition from shake flask to bioreactor is complicated.Asa result，PlAsare rarely produced commercially using plant cell cultures due to high cost of maintenance versus low yield obtained. However,a wide variety of bioprocessing strategies have been specifically designed for large-scale cultivation of plant cells.One success story is the commercial production of antibiotic berberine from C.japonica and Thalictrum minus plant cell cultures by Mitsui Chemicals,Inc. (Tokyo,Japan) (Wilson and Roberts,2012).The optimization of the industrial production from C. japonica cells at a scale up to $4 ~ \\mathsf { m } ^ { 3 }$ resulted in high berberine yield of $3 . 5 ~ { \\mathfrak { g } } / { \\mathsf { L } }$ and a 3.5-fold change compared with traditional methods (Georgiev et al., 2013；Matsubara et al.，1989)． Metabolic engineeringfor increased productivity could decrease production costs associated with existing commercial plant cell culture systems and make other plant cell culture systems commercially feasible. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Isotopic tracer studies were used to trace PlA metabolic pathways but not to quantify fluxes through these pathways. For the past decade,isotope-assisted flux analyses have provided researchers with powerful indicators of cell biochemistry and adeeper understanding of metabolic pathways (Allen et al., 2009；Dieuaide-Noubhani et al.，20o7； Niklas etal.，2010; O'Grady et al.，2012;Wiechert,2001;Zamboni，2011).Due to the significant level of complexity，compartmentation and the synthesis of a wide array of metabolites，a key issue of PlA accumulation in engineered plants and cell cultures is the channelling of maximized flux towards a biosynthetic sink.Flux analysis measurements in combination with other systems biology methods will provide the information needed for a rational approach of plant (and plant cell culture) metabolic engineering in the future. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Efforts to improve yields of PlAs are often hindered by limitations in plant metabolic engineering due to the lack of genetic tools, long development cycles of plants and the complex interaction between primary and specialized metabolic pathways (Chae et al.,2014;Glenn et al.,2013). However,plant metabolic engineering has been used to modulate PlA composition and yield of morphinan alkaloids in the‘model plant'opium poppy (P.somniferum) with mixed results.For example,the overexpression of gene, $N \\cdot$ -methylcoclaurine $3 ^ { \\prime }$ -hydroxylase (NMCH)，salutaridine-7-O-acetyltransferase $( S a / A T )$ orcodeinone reductase (CoR),each encoding biosynthetic enzyme involved in morphine production (Figure 3),resulted in increased morphinan alkaloids, whereas suppression of CoR did not alter alkaloid levels (Allen et al.，2004，2008；Frick et al.，2007；Larkin et al.，2007). Overexpression of Arabidopsis transcriptional regulators in opium poppy resulted in increased codeine accumulation associated with the up-regulation of several BIA biosynthetic enzymes (Apuya et al.,2008). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microbial engineering for PlA biosynthesis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Metabolic engineering of alkaloid production may serveas alternative or complementary approach to chemical synthesis, plant cell culture or plant biomass extraction.This includes the concept of reconstruction of plant alkaloid pathways in heterologous host systems,as well as combinatorial approaches using combinations of enzymes from different species.Combination of enzymes has been successfully used to identify new gene functions or to replace missing enzymatic step for the production of alkaloids in micro-organisms.For example,the construction of pathway for reticuline production used a combination of bacterial monoamine oxidase and plant genes from C. japonica (Minami et al.,2oo8). The reconstruction of PlA biosynthetic pathways in micro-organism hosts raises multiple engineering challenges due to the complex,branched,multistep architecture of biosynthetic pathways (Figure 3).A number of alkaloid engineering platforms havebeen described (Table1).Escherichia coliand the baker yeast (Saccharomyces cerevisiae)are currently the preferred microbial hosts for PlA production due to their robustness, scalabilityand the broad repertoire of tools for DNA assembly (Keasling,2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microbes engineered to express genes encoding PlA biosynthetic enzymes provide a novel approach for the development of scalablemanufacturingprocesses.The availability of'large' numbers of PIA biosynthetic genes from opium poppy and related plants has facilitated the reconstitution of several pathways leading of the production of benzylisoquinoline alkaloids in E.coli and yeast.For example，production of (S)-reticuline in E.coli was achieved by adding dopamine to the culture medium, some of which was converted into 3,4-DHPAA precursor by heterologously expressed bacterial monoamine oxidase，and further metabolized by C.japonica NCS，6OMT，CNMT and 4'OMT to yield $1 1 \\ \\mathrm { m g / L }$ of reticuline (Minami et al.，2008) (Table 1). The fine-tuning of the production method using this platform increased reticuline yield to $5 4 ~ { \\mathrm { m g / L } }$ (Kim et al.,2013). Recent modifications of this platform include de novo synthesis of dopamine precursor by two additional bacterial enzyme,therefore eliminating the use of supplements which facilitate the linking of PlA metabolism to E. coli primary metabolism and enable a fermentation (Nakagawa et al.，2011）and benchtop production (Nakagawa et al.，2012) platforms that create plant products from simple carbon sources (Table 1).Reticuline is a scaffold intermediate metabolite shared among major branches ofthe benzylisoquinoline pathway (Figure 3).Despite of high titres，no steps downstream of $( S )$ -reticuline havesince been demonstrated in E.coli.However，E.coli-generated reticuline wasconverted to alkaloids magnoflorine or scoulerinevia coculture with genetically engineered S.cerevisiae expressing C.japonica-specific gene CYP80G2 and BBE， respectively (Minami et al., 2008). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Alternatively,relatively high titre of (R,S)-reticuline $( 3 2 . 9 ~ \\mathrm { m g / L } )$ tetrahydrocolumbamine $( 6 0 \\mathrm { \\ m g / L } )$ andtetrahydroberberine $( 3 0 ~ \\mathrm { m g / L } )$ was produced from S.cerevisiae from cost-prohibitive substrate (R,S)-norlaudanosoline through a combinationof enzymes derived from different plant species and humans (Hawkins and Smolke，20o8).Recent modification of this (R,S)- reticuline platform allows the production of various PlAs such as stylopine, $N \\mathrm { \\cdot }$ -methylstylopine，protopine and sanguinarine (Trenchard and Smolke,2015).Fossati et a/.(2014) reconstituteda 10- gene plant pathway in S. cerevisiae that allows for the production ofdihydrosanguinarine and sanguinarinefrom(R,S)-norlaudanosoline.Synthesis of dihydrosanguinarine also yields the side products $N$ -methylscoulerineand $N$ -methylcheilanthifoline，and the latter has not been detected in plants (Fossati et al.，2014). Similarly，yeast strains modified with $P .$ somniferum morphinan biosynthetic genes produced morphine and codeinewhen supplemented with costly intermediates such as thebaine,salutaridine or codeine (Fossati etal.，2015；Thodey et al.，2014) (Table 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5539d037999370d17368f147c6afeefd1840ec2adac917a3b3397bd898ffd505.jpg",
+        "table_caption": [
+            "ritahaligrnd (senidprlrlelelrlinsilleeirr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Compound target</td><td>Source of plant gene inserted</td><td>Engineered host</td><td></td><td></td><td>Yield (g product/g substrate)</td><td>References</td></tr><tr><td>(R-S)-reticuline</td><td>Micrococcus luteus (MAO) and Coptis japonica</td><td>Escherichia coli</td><td>Externally fed precursor Dopamine</td><td>Titre (μg/L) 11 ×10</td><td>0.029</td><td>Minami etal. (2008)</td></tr><tr><td></td><td>(NCS,6OMT,CNMT and 4'OMT)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(S)-reticuline (S)-reticuline</td><td>M.luteus (MAO) and C. japonica (NCS,6OMT, 4OMT and CNMT) E.col (tyrAbr，aroGbr，tktAandppsA)</td><td>E. coli E. coli</td><td>Dopamine Glycerol</td><td>54 × 10³ 46.0 × 10</td><td>n.a. 0.237 × 10-3</td><td>Kim et al. (2013) Nakagawa et al. (2011)</td></tr><tr><td></td><td>C. japonica (NCS,6OMT,4OMT and CNMT), Pseudomonas putida (DODC),M. luteus (MAO) and Ralstonia solanacearum (TYR) E.coli (tyrAbrroGbr,ktAadp),</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P. putida (DODC),M. luteus (MAO),and R.solanacearum (TYR) M.Iuteus (MAO) and C. japonica (NCS,6OMT,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Magnoflorine Scoulerine</td><td>CNMT,4'OMT and CYP80G2) M.luteus (MAO) and C. japonica (NCS,6OMT,</td><td>E. coli and Saccharomyces cerevisiae</td><td>Dopamine</td><td>7.2 × 10</td><td>0.019</td><td>Minami et al. (2008)</td></tr><tr><td></td><td>CNMT,4'OMT and BBE)</td><td>E. coli and S.cerevisiae</td><td>Dopamine</td><td>8.3× 10</td><td>0.022</td><td>Minami et al. (2008)</td></tr><tr><td>(R,S)-reticuline (S)-tetrahydrocolumbamine</td><td>Papaver somniferum (6OMT,CNMT and 4'OMT) P.Somniferum (6OMT,CNMT,4'OMT and BBE)</td><td>S.cerevisiae S.cerevisiae</td><td>(R,S)-Norlaudanosoline (R,S)-Norlaudanosoline</td><td>32.9×10 60× 10</td><td>0.115 0.052</td><td>Hawkins and Smolke (2008) Hawkins and Smolke (2008)</td></tr><tr><td>(S)-tetrahydroberberine</td><td>and Thalictrum flavum (SMT) P.somniferum (6OMT,CNMT,4'OMT and BBE),</td><td>S.cerevisiae</td><td>(R,S)-Norlaudanosoline</td><td>30×10</td><td>0.026</td><td>Hawkins and Smolke (2008)</td></tr><tr><td></td><td>T.flavum (SMT and CYP719A) and Arabidopsis thaliana (ATR1) P.somniferum (6OMT,CNMT,and 4'OMT)and</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Stylopine</td><td>Homo sapiens (CYP2D6 and CPR) A.thaliana (ATR1),Eschscholzia californica (CFS</td><td>S. cerevisiae</td><td>(R,S)-Norlaudanosoline</td><td>20×10 676</td><td>0.017 1.176 × 10-3</td><td>Hawkins and Smolke (2008) Trenchard and Smolke (2015)</td></tr><tr><td></td><td>and STS)and P.somniferum (6OMT,CNMT, 4OMT and BBE) A.thaliana (ATR1),E.californica(CFS and STS)</td><td></td><td></td><td></td><td></td><td>Trenchard and Smolke (2015)</td></tr><tr><td></td><td>and P.somniferum (6OMT,CNMT,4OMT,BBE and TNMT) A.thaliana (ATR1),E.californica (CFS and STS)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>and P.somniferum (6OMT,CNMT,4OMT,BBE, TNMT and MSH) A.thaliana (ATR1),E. californica (CFS,STS and</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P6H)and P.somniferum (6OMT,CNMT, 4OMT,BBE,TNMT and MSH)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>(R,S)-reticuline</td><td>P.somniferum (6OMT,4'OMT2 and CNMT)</td><td>S. cerevisiae</td><td>(R,S)-Norlaudanosoline</td><td>659</td><td>0.229</td><td>Fossati et al. (2014)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/12d91b8649621833ad07d045e715dccf552396caf6ddc90d90ac8074bdf36c0f.jpg",
+        "table_caption": [
+            "prlegatrliqar "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Compound target</td><td>Source of plant gene inserted</td><td>Engineered host</td><td>Externally fed precursor</td><td>Titre (ug/L)</td><td>Yield (g product/g substrate)</td><td>References</td></tr><tr><td>(S)-stylopine</td><td>E.californica(P6H)and P.somniferum (6OMT,</td><td>S. cerevisiae</td><td>(S)-scoulerine</td><td>614</td><td>0.188</td><td>Fossati et al. (2014)</td></tr><tr><td>Dihydrosanguinarine</td><td>4'OMT2,CNMT and P450R) E.californica (P6H) and P.somniferum (TNMT,</td><td>S. cerevisiae</td><td>(S)-stylopine</td><td>1900</td><td>0.588</td><td>Fossati et al. (2014)</td></tr><tr><td>Dihydrosanguinarine</td><td>MSH and P450R) E.californica (P6H) and P.somniferum (CFS,</td><td>S. cerevisiae</td><td> (S)-scoulerine</td><td>257</td><td>0.079</td><td>Fossati et al. (2014)</td></tr><tr><td>Dihydrosanguinarine</td><td>SPS, TNMT, MSH and P450R) E.californica (P6H) and P.somniferum (BBE,</td><td>S. cerevisiae</td><td>(S)-reticuline</td><td>147</td><td>0.045</td><td>Fossati et al. (2014)</td></tr><tr><td>Dihydrosanguinarine</td><td>BBE2μ, CFS,SPS,TNMT, MSH and P450R) E.californica(P6H)and P.somniferum (6OMT, CNMT,4'OMT2,BBE,BBE2μ, CFS,SPS,TNMT,</td><td>S. cerevisiae</td><td>(R,S)-Norlaudanosoline</td><td>50</td><td>0.017</td><td>Fossati et al. (2014)</td></tr><tr><td></td><td>MSH and P450R)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Salutaridine Thebaine</td><td>P. somniferum (SAS and CPR) P. somniferum (SAS, CPR,SAR and SAT)</td><td>S. cerevisiae</td><td>(R)-Reticuline (R)-Reticuline</td><td>4911 311</td><td>0.149 9.442 × 10-3</td><td>Fossati et al. (2015) Fossati et al. (2015)</td></tr><tr><td>Thebaine</td><td>P. somniferum (SAS,CPR, SAR,SAT,CODM,</td><td>S. cerevisiae S. cerevisiae</td><td>Salutaridine</td><td>311</td><td>9.500 ×10-</td><td>Fossati et al. (2015)</td></tr><tr><td>Neopine</td><td>T6ODM and CoR) P. somniferum (SAS,CPR, SAR,SAT,CODM,</td><td>S. cerevisiae</td><td>Salutaridine</td><td>9</td><td>0.275×10-3</td><td>Fossati et al. (2015)</td></tr><tr><td>Codeine</td><td>T6ODM and CoR) P. somniferum (SAS,CPR,SAR,SAT,CODM,</td><td>S. cerevisiae</td><td>(R)-Reticuline or Salutaridine</td><td>12 or 19</td><td>0.364 × 10-³ or</td><td>Fossati et al. (2015)</td></tr><tr><td>Morphine</td><td>T6ODM and CoR) P. somniferum (SAS,CPR, SAR,SAT, CODM,</td><td>S. cerevisiae</td><td>Codeine</td><td>143</td><td>0.580×10-3 4.777 × 10-3</td><td>Fossati et al. (2015)</td></tr><tr><td>Codeine</td><td>T6ODM and CoR)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Morphine</td><td>P.somniferum (T6ODM and CoR) P.somniferum (T6ODM, CoR and CODM)</td><td>S. cerevisiae S. cerevisiae</td><td>Thebaine</td><td>7.7 × 10 4.7 ×10</td><td>0.025</td><td>Thodey et al. (2014)</td></tr><tr><td>(S)-norcoclaurine</td><td>Beta vulgaris (CYP76AD1),P. putida (DODC)</td><td>S. cerevisiae</td><td>Thebaine Glucose</td><td>104.6</td><td>0.015 2.615 × 10-6</td><td>Thodey et al. (2014) DeLoache et al. (2015)</td></tr><tr><td> (S)-reticuline</td><td>and P.somniferum (NCS) B.vulgaris (CYP76AD1),P. putida (DODC) and</td><td>S. cerevisiae</td><td>Glucose</td><td>80.6</td><td>2.015 ×10-6</td><td>DeLoache et al. (2015)</td></tr><tr><td></td><td>P.somniferum (NCS,6OMT,CNMT,NMCH and 4OMT) Rattus norvegicus (PTPS,SepR,PCD, QDHPR and</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>TyrH W166Y R37E R38E),P.putida (DODC) and C. japonica (NCS) Rattus norvegicus (PTPS,SepR,PCD, QDHPR and</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Reticuline</td><td>TyrH W166Y R37E R38E),P.putida (DODC), C. japonica (NCS),P.somniferum (6OMT, CNMT,4OMT and CPR) and E.californica (CYP80B1)</td><td>S. cerevisiae</td><td>Glucose</td><td>19.2</td><td>0.960×10-6</td><td>Trenchard et al. (2015)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0adc06235c0221130ac1676bb2b1c5b7b6ca81227b6a7c2f5bf7189c93ae425d.jpg",
+        "table_caption": [
+            "plitrllier "
+        ],
+        "table_footnote": [
+            "城"
+        ],
+        "table_body": "<html><body><table><tr><td>Compound target</td><td>Source of plant gene inserted</td><td>Engineered host</td><td>Externally fed precursor</td><td>Titre (μg/L)</td><td>Yield (g product/g substrate)</td><td>References</td></tr><tr><td>Thebaine</td><td>Rattus norvegicus (PTPS, SepR,PCD,QDHPR, TyrH W166Y R37E R38E and DHFR),P.putida (DODC),C. japonica (NCS),P.somniferum</td><td>S. cerevisiae</td><td>(R,S)-Norlaudanosoline</td><td>17</td><td>0.059 ×10-3</td><td>Galanie et al. (2015)</td></tr><tr><td>Thebaine</td><td>E.californica (NMCH) and Papaver bracteatum (SalR and DRS-DRR) Rattus norvegicus (PTPS,SepR,PCD,QDHPR, TyrH W166Y R37E R38E and DHFR),P. putida (DODC), C. japonica (NCS),P.somniferum</td><td>S.cerevisiae</td><td>Glucose</td><td>6.4</td><td>0.320 × 10-6</td><td>Galanie et al. (2015)</td></tr><tr><td>Hydrocodone</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>S. cerevisiae</td><td>Glucose</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>(6OMT,CNMT,4OMT,CPR and SalAT),</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>E.californica (NMCH),P.bracteatum (SalR and</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>DRS-DRR) and a fusion enzyme CFS-SalSyn</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>from E.californica (CFS)and P.bracteatum</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>(SalSyn)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Rattus norvegicus (PTPS,SepR,PCD,QDHPR,</td><td></td><td></td><td>0.3</td><td>0.015 × 10-6</td><td>Galanie et al. (2015)</td></tr><tr><td></td><td>TyrH W166Y R37E R38E and DHFR),P. putida</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>(DODC and morB), C. japonica (NCS),</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P.somniferum (6OMT,CNMT,4OMT,CPR,</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>SalAT and T6ODM),E. californica (NMCH),</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>P.bracteatum (SalR and DRS-DRR) and a fusion</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>enzyme CFS-SalSyn from E.californica (CFS)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>and P. bracteatum (SalSyn)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For cost-effective reasons，the commercial productionof (S)-reticuline from central metabolites in S.cerevisiae isdesired but has proven dificult. Although (S)-reticuline has been synthesized from fed (R,S)-norlaudanosoline in yeast (Fossati et al., 2014,2015; Hawkins and Smolke,2008;Trenchard and Smolke, 2015)，the upstream steps required for the synthesis of (R,S)- norlaudanosoline or the natural PIA scaffold (S)-norcoclaurine from tyrosine remained unknown (Figure 3). Recently，searches using fluorescent pigment betaxanthin sensor identified a plant tyrosine hydroxylase that was highly active in S.cerevisiae and using mutagenesis its activity Was further improved (DeLoache et al.，2015).The mutated tyrosine hydroxylase enabled the production of dopamine in yeast and,when coupled to subsequent P.somniferum biosynthetic genes,allowed for the synthesis of the PIA scaffold intermediates (S)-norcoclaurine and (S)-reticuline from glucose (DeLoache et al.,2015).By connecting the central metabolism of yeast to the downstream steps of PlA biosynthesis，it will be possible to develop micro-organism capable of producing high-value PlAs at commercial scale. Recently，engineered yeast strains,containing modifications to divert greater carbon flux through tyrosine to (S)-reticuline,were used for the production of PlAs from sugar (Galanie et al.,2015). The reticuline biosynthetic pathway was split into four genetic modules containing the nucleotide sequences of 17 biosynthetic enzymes allowing the production of thebaine and its conversion into codeine,oxycodone and hydrocodone (Galanie et al.,2015). Forreticuline production，microbial platform seems more productive than ‘old'platform.For example,in plants,a P.somniferum mutant，created to have increased reticuline content, produced up to $3 \\% - 4 \\%$ of reticuline compared to trace amounts found in wild opium poppies (Fist et al.，2oo5).However， the plant growth period (months) and the need of land/space for cultures can be limiting factors hindering commercial production. A knockdown of berberine bridge enzyme by RNAi in E.californica cells provided a plant cell line producing up to 6 mg of $( S )$ -reticuline in a $2 0 ~ \\mathrm { m L }$ medium in 2 weeks (Fujii et al.,2007). Some of the limitations of this production are the need of high amount of inoculum, $1 \\ 9$ fresh weight of cells per $2 0 ~ \\mathrm { m L }$ medium,coupled with the time needed for the growth and care of the inoculum.Microbial platform has the advantage of short time production and seems more easily up-scalable.For example, Nakagawa et al. (2011) engineered a strain of E. coli producing $4 6 ~ \\mathrm { m g / L }$ in $6 0 { \\mathrm { ~ h ~ } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To date,there is no microbial platform for the production of PIAsof the phenethylisoquinoline，ipecac or Amaryllidaceae alkaloid groups due to the lack of molecular genetic tools. Integrating metabolome,transcriptome and proteome analyses and biochemical enzyme characterization will deliver many new genes and enzymes involved in pathways of PlA metabolism.To take full advantage of these genes and enzymes for synthetic biology and metabolic bioengineering,it will also be critical to understand the regulation of complex biosynthetic systems beyond the characterization of individual enzymes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plants continue to be important producers of alkaloids.One key advantage of plants is that they naturally produce aromatic amino acid precursors and that they accomplish alkaloid biosynthesis powered by solar energy through photosynthesis,eliminating the need for supplying carbon precursors.Synthetic biology offers the sustainable mass production of PlAs.Several bacterial and yeast platforms have been developed,specifically for the production of benzylisoquinoline alkaloids,from which metabolic pathway and enzymes involved are known.There is still much work to be performed to render these platforms profitable commerciallyas they require the addition of expensive precursors and/or produce low concentration of targeted PlA. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Metabolic engineering of photoautotrophic organism,such as microalgae and cyanobacteria,mayoffer alternative systems for high-volume PlA synthesis (Gong et al.，2011).As these microorganisms can grow phototrophically,it can reduce the operation cost related to the growth media.In addition,the presence of chloroplasts in microalgae could not only be advantageous in allowing the reproduction of metabolic reaction and pathway normally occurring in plant plastids but also the sequestration of metabolites and enzymes could be used to increase the overal pathway efficiency.Ultimately，for micro-organism- or plantbased systems,scalability,ease of multigene combinatorial gene expression and cost-effective extraction procedures will be key factors for the commercially viable biotechnological production of PIAs.Also,a better understanding of alkaloid metabolic regulationat the transcriptional,cellular and biochemical levels is crucial to take advantage of new metabolic engineering technologies for improvingthe efficiency and sustainability of plant alkaloid production. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Authors would like to thank Mrs Catherine Béland for computerassisted drawing of Figure 2.Thiswork was financially supported by the discovery grant programme from the Natural Sciences and Engineering Research Council of Canada (RGPIN-2014-O5294). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The authors confirm that this article content has no conflict of interests. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Allen，R.S.，Millgate，A.G.，Chitty，J.A.，Thisleton，J.，Miller,J.A.，Fist,A.J., Gerlach,W.L.et al. (2oo4) RNAi-mediated replacement of morphine with the nonnarcotic alkaloid reticuline in opium poppy. Nat. Biotechnol.22,1559- 1566.   \nAllen,R.S.，Miller,J.A.，Chitty,J.A.，Fist,A.J.，Gerlach,W.L.and Larkin，P.J. (2008) Metabolic engineering of morphinan alkaloids by over-expression and RNAi suppression of salutaridinol 7-O-acetyltransferase in opium poppy. Plant Biotechnol.J.6,22-30.   \nAllen,D.K., Libourel,I.G.and Shachar-Hill,Y. (2oo9)Metabolic flux analysis in plants: coping with complexity.Plant, Cell Environ.32,1241-1257.   \nApuya,N.R.，Park,J.H.，Zhang,L.，Ahyow,M.，Davidow，P.，Van Fleet,J., Rarang,J.C.et al. (2oo8) Enhancement of alkaloid production in opium and California poppy by transactivation using heterologous regulatory factors. Plant Biotechnol. J.6, 160-175.   \nBanwell,M.G.，Gao,N.Y.,Schwartz，B.D.and White,L.V.(2012) Synthetic studies on amaryllidaceae and other terrestrially derived alkaloids.Top. Curr. Chem.309,163-202.   \nBeaudoin， G.A.andFacchini，P.J.(2014)Benzylisoquinoline alkaloid biosynthesis in opium poppy.Planta,240,19-32.   \nBerkov，S.，Bastida,J.，Sidjimova,B.，Viladomat,F.and Codina,C.(2008) Phytochemical differentiation of Galanthus nivalis and Galanthus elwesii (Amaryllidaceae):a case study.Biochem.Syst. Ecol.36,638-645.   \nBerkov,S.,Georgieva,L.,Kondakova,V.,Atanassov,A.,Viladomat,F.,Bastida, J.and Codina,C.(2oo9) Plant sources of galanthamine: phytochemical and biotechnological aspects.Biotechnol. Biotechnol. Equip.23,1170-1176.   \nBogdanova,Y.,Pandova,B.,Yanev, S.and Stanilova,M.(2oo9) Biosynthesis of lycorine by in vitro cultures of Pancratium maritimum L. (Amaryllidaceae). Biotechnol. Biotechnol. Equip.23,919-922.   \nBohlin,L.,Goransson,U.，Alsmark,C.,Wedén,C.and Backlund,A. (2010) Natural products in modern life science.Phytochem.Rev.9,279-301.   \nChae,L.,Kim,T., Nilo-Poyanco,R.and Rhee,S.Y.(2014) Genomic signaturesof specialized metabolism in plants.Science,344,510-513.   \nCheong，B.E.，Takemura,T.,Yoshimatsu,K．and Sato,F.(2011）Molecular cloning of an $O$ methyltransferase fromadventitious roots of Carapichea ipecacuanha. Biosci. Biotechnol. Biochem.75,107-113.   \nCho,H.Y., Son,S.Y.,Rhee,H.S., Yoon,S.Y., Lee-Parsons, C.W.and Park,J.M. (2008)Synergistic effects of sequential treatment with methyl jasmonate, salicylic acid and yeast extract on benzophenanthridine alkaloid accumulation and protein expression in Eschscholtzia californica suspension cultures.J. Biotechnol. 135,117-122.   \nCordell,G.A.(2013)Fifty years of alkaloid biosynthesis in phytochemistry. Phytochemistry,91,9-51.   \nDeLoache,W.C.，RussZ.N., Narcross,L.，Gonzales，A.M.,Martin,V.J.J.and Dueber，J.E.(2015)An enzyme-coupled biosensor enables $( S )$ -reticuline production in yeast from glucose. Nat. Chem. Biol.11,465-471.   \nDesgagné-Penix，I.and Facchini， P.J.(2011） Benzylisoquinoline alkaloid biosynthesis.In Plant Metabolismand Biotechnology (Ashihara,H., Crozier, A.and Komamine,A.,ed.),pp.241-261. Chichester: John Wiley & Sons Ltd.   \nDesgagne-Penix,I.，Khan,M.F.，Schriemer，D.C.，Cram，D.，Nowak,J.and Facchini，P.J.(2010) Integration of deep transcriptome and proteome analyses reveals the components of alkaloid metabolism in opium poppy cell cultures.BMC Plant Biol.10,252.   \nDesgagne-Penix,I.,Farrow,S.C., Cram, D., Nowak,J.and Facchini,P.J.(2012) Integration of deep transcript and targeted metabolite profiles for eight Cultivars of opium poppy.Plant Mol. Biol.79,295-313.   \nDieuaide-Noubhani,M.,Alonso,A.-P.,Rolin,D.,Eisenreich,W.and Raymond, P.(2007) Metabolic flux analysis: recent advances in carbon metabolism in plants.In Plant Systems Biology (Baginsky，S.and Fernie,A.,eds),pp.213- 243. Basel: Birkhäuser Basel.   \nDittbrenner,A.,Mock,H.-P.,Börner,A.and Lohwasser,U.(2009)Variability of alkaloid content in Papaver somniferum L.J.Appl. Bot. Food Qual.82,5.   \nFacchini,P.J.，Bohlmann,J., Covelo,P.S.,De Luca,V.,Mahadevan,R.，Page, J.E.,Ro,D.K.et al. (2012) Synthetic biosystems for the production of highvalue plant metabolites.Trends Biotechnol.30,127-131.   \nFarrow,S.C.,Hagel,J.M.and Facchini,P.J.(2O12) Transcript and metabolite profiling in cell cultures of 18 plant species that produce benzylisoquinoline alkaloids.Phytochemistry,77,79-88.   \nFist,A., Byme,C.,Gerlach,W., Sayer,C.and Bailey,T. (2005) Production of reticuline. Google Patents.   \nFossati,E.，Ekins,A.，Narcross,L.，Zhu,Y.，Falgueyret, J.P.，Beaudoin,G.A.. Facchini,P.J.et al. (2014) Reconstitution of a 10-gene pathway for synthesis of the plant alkaloid dihydrosanguinarine in Saccharomyces cerevisiae.Nat. Commun.5,3283.   \nFosati，E.，Narcross,L，Ekins,A.，Falgueyret,J.P.and Martin,V.J.(2015) Synthesis of morphinan alkaloids in Saccharomyces cerevisiae. PLoS ONE,10, e0124459.   \nFrick,S., Kramell,R.and Kutchan,T.M.(2oo7) Metabolic engineering with a morphine biosynthetic P450 in opium poppy surpases breeding. Metab. Eng. 9,169-176.   \nFujii,N.,Inui,T.,Iwasa,K.，Morishige,T.and Sato,F.(2oo7) Knockdown of berberine bridge enzyme by RNAi accumulates (S)-reticuline and activates a silent pathway in cultured California poppy cells.Transgenic Res.16,363-375.   \nGalanie,S.,Thodey,K.,Trenchard,I.J.,Filsinger Interrante,M.and Smolke,C.D. (2015) Completebiosynthesisofopioidsinyeast.Science，349, 1095-1100.   \nGeorgiev,V.，lvanov,I.and Pavlov,A.(2010) Obtaining and selection of Pancratium maritimum L.in vitro cultures with acetylcholinesterase inhibitory action. Biotechnol. Biotechnol. Equip.24,149-154.   \nGeorgiev,M.I.,Eibl,R.and Zhong,J.J.(2013)Hosting the plant cels in vitro: recent trends in bioreactors.Appl.Microbiol. Biotechnol.97,3787-3800.   \nGlenn,W.S., Runguphan,W.and O'Connor, S.E.(2013) Recent progress in the metabolic engineering of alkaloids in plant systems. Curr. Opin. Biotechnol. 24 354_365   \nGUIe∠,U A∠UIIII dsliuc (∠Uu) Sedsuidl and spatial variations of alkaloidsin Merendera montana in relation to chemical defense and phenology.J. Chem. Ecol.29,1117-1126.   \nGong, Y.,Hu, H., Gao,Y., $\\mathsf { X u } , \\mathsf { X }$ and Gao,H. (2011) Microalgae as platforms for production of recombinant proteins and valuable compounds: progress and prospects.J.Ind. Microbiol. Biotechnol.38,1879-1890.   \nGraening，T.and Schmalz，H.G.(2004） Total syntheses of colchicine in comparison: a journey through 50 years of synthetic organic chemistry. Angew.Chem.Int.Ed.Engl.43,3230-3256.   \nHagel,J.M.and Facchini, P.J.(2O13) Benzylisoquinoline alkaloid metabolism: a century of discovery and a brave new world. Plant Cell Physiol. 54,647- 672.   \nHagel,J.M.,Moris,J.S.Lee,E.J.,，Desgagné-Penix,I.,Bros,C.D.，hang,L, Chen,X.et al. (2015) Transcriptome analysis of 20 taxonomically related benzylisoquinoline alkaloid-producing plants. BMC Plant Biol.15,227.doi: 10.1186/s12870-015-0596-0.   \nHara,M., Kitamura,T.,Fukui, H.and Tabata,M.(1993) Induction of berberine biosynthesis by cytokinins in Thalictrum minus cell suspension cultures.Plant Cell Rep.12, 70-73.   \nHawkins，K.M.and Smolke，C.D.(2008） Production of benzylisoquinoline alkaloids in Saccharomyces cerevisiae. Nat. Chem. Biol.4,564-573.   \nHigashi,Y.and Saito,K.(2o13) Network analysis for gene discovery in plantspecialized metabolism.Plant, Cell Environ.36,1597-1606.   \nIvanov,I.,Georgiev, V., Berkov,S.and Pavlov,A.(2012)Alkaloid patterns in Leucojum aestivum shoot culture cultivated at temporary immersion conditions.J.Plant Physiol.169,206-211.   \nKeasling，J.D.(2012） Synthetic biology and the development of tools for metabolic engineering.Metab. Eng.14,189-195.   \nKilgore,M.B.,，Augustin,M.M.，Starks,C.M.，O'Neil-Johnson,M.,May，G.D., Crow,J.A.and Kutchan,T.M. (2O14) Cloning and characterization of a norbelladine $4 ^ { \\prime }$ -O-methyltransferase involved in the biosynthesis of the Alzheimer's drug galanthamine in Narcissus sp.aff.pseudonarcissus.PLoS ONE,9,e103223.   \nKim,J.S.,Nakagawa,A.,Yamazaki,Y.,Matsumura,E.,Koyanagi,T.,Minami, H.,Katayama,T.et al. (2013) Improvement of reticuline productivity from dopamine by using engineered Escherichia coli.Biosci. Biotechnol. Biochem. 77, 2166-2168.   \nLarkin，P.J.，Miller，J.A.，Allen，R.S.，Chitty，J.A.，Gerlach，W.L.，Frick，S., Kutchan，T.M.et al. (2o07) Increasing morphinan alkaloid production by over-expressing codeinone reductase in transgenic Papaver somniferum. Plant Biotechnol.J.5,26-37.   \nMatsubara,K.,Kitani,S.,Yoshioka,T.,Morimoto,T.,Fujita,Y.andYamada,Y. (1989）High density culture of Coptis japonica cells increases berberine production.J. Chem.Technol. Biotechnol. 46,61-69.   \nMinami,H.，Kim,J.S.,Ikezawa,N.,Takemura,T.,Katayama,T., Kumagai,H. and Sato，F.(2oo8)Microbial production of plant benzylisoquinoline alkaloids.Proc. Natl Acad.Sci. USA,105,7393-7398.   \nNakagawa,K.，Fukui，H.and Tabata，M.(1986) Hormonal regulation of berberine production in cell suspension cultures of Thalictrum minus.Plant Cell Rep.5, 69-71.   \nNakagawa,A.,Minami, H., Kim,J.-S., Koyanagi,T.,Katayama,T., Sato,F.and Kumagai, H. (2011)A bacterial platform for fermentative production of plant alkaloids.Nat. Commun.2,326.   \nNakagawa,A.,Minami,H., Kim,J.S.,Koyanagi,T.,Katayama,T.,Sato,F.and Kumagai， H. (2012） Bench-top fermentativeproduction ofplant benzylisoquinoline alkaloids using a bacterial platform.Bioeng.Bugs，3, 49-53.   \nNiklas，J.，Schneider，K.and Heinzle，E.(201O）Metabolic flux analysis in eukaryotes. Curr. Opin. Biotechnol.21,63-69.   \nNomura,T.and Kutchan,T.M.(2010) Three new O-methyltransferases are sufficient for all $O \\ / \\ /$ methylation reactions of ipecac alkaloid biosynthesis in root culture of Psychotria ipecacuanha.J. Biol. Chem.285,7722-7738.   \nNomura，T.，Quesada,A.L．and Kutchan,T.M.(2O08) The new beta-Dglucosidase in terpenoid-isoquinoline alkaloid biosynthesis in Psychotria ipecacuanha.J. Biol. Chem.283,34650-34659.   \nO'Grady,J.,Schwender,J.,Shachar-Hill,Y.and Morgan,J.A.(2012) Metabolic cartography: experimental quantification of metabolic fluxes from isotopic lahelling stidies / Fxn Rnt 63 2293-2308   \nOnoyovwe,A.,Hagel,J.M.,Chen,X.,Khan,M.F.,Schriemer,D.C.and Facchini, P.J.(2013) Morphine biosynthesis in opium poppy involves two cell types: sieve elements and laticifers.Plant Cell,25,4110-4122.   \nPavlov,A.，Berkov,S.，Courot，E.，Gocheva,T.，Tuneva,D.，Pandova，B., Georgiev,M.et al. (2oo7) Galanthamine production by Leucojum aestivum in vitro systems.Process Biochem.42,734-739.   \nPtak,A.,Tahchy,A.E.,Wyzgolik,G.,Henry,M.and Laurain-Mattar,D.(2010) Effects of ethylene on somatic embryogenesis and galanthamine content in Leucojum aestivum L.cultures.Plant Cell Tissue Organ Cult.102,61-67.   \nPulka,K. (201O) Pictet-Spengler reactions for the synthesis of pharmaceutically relevant heterocycles. Curr. Opin. Drug Discov. Devel.13,669-684.   \nRinner，U.and Hudlicky，T.(2012)Synthesis of morphine alkaloids and derivatives.Top. Curr. Chem.309,33-66.   \nSaliba，S.，Ptak，A.and Laurain-Mattar，D.(2015)4'-O-Methylnorbelladine feeding enhances galanthamine and lycorine production by Leucojum aestivum L.shoot cultures. Eng.Life Sci.15,640-645.   \nSantana,O.，Reinab,M.，Anaya，A.L.，Hernandez，F.， lzquierdo,M.E.and Gonzalez-Coloma,A.(2oo8)3-O-Acetyl-narcissidine,a bioactive alkaloid from Hippeastrum puniceum Lam.(Amaryllidaceae).Z.Naturforsch.C,63,639-643.   \nSchilmiller，A.L.，Pichersky，E.and Last，R.L.(2012）Taming the hydraof specialized metabolism:how systems biology and comparative approaches arerevolutionizing plant biochemistry. Curr. Opin. Plant Biol.15,338-344.   \nSeaver,S.M.,Gerdes,S.,Frelin,O.,Lerma-Ortiz,C.,Bradbury,L.M.,Zallot,R., Hasnain， G．et al.(2014） High-throughputcomparison，functional annotation,and metabolic modeling of plant genomes using the PlantSEED resource.Proc. Natl Acad.Sci. USA,111,9645-9650.   \nShen,J.W.,Ruan,Y.,Ren,W.,Ma,B.J.,Wang,X.L.and Zheng,C.F.(2014) Lycorine: a potential broad-spectrum agent against crop pathogenic fungi. J. Microbiol. Biotechnol.24,354-358.   \nSheth,B.and Thaker,V. (2014) Plant systems biology: insights,advances and challenges.Planta,240,33-54.   \nShields,V.D.,Smith,K.P.,Arnold,N.S.,Gordon,I.M.,Shaw,T.E.and Waranch, D.(2008) The effect of varying alkaloid concentrations on the feeding behavior ofgypsy moth larvae， Lymantria dispar (L.） (Lepidoptera: Lymantriidae).Arthropod Plant Interact.2,101-107.   \nSimas，N.K.，Ferrari，S.F.，Pereira，S.N．and Leitao，G.G.(2O01)Chemical ecological characteristics of herbivory of Siparuna guianensis seeds by buffyheaded marmosets (Callithrix flaviceps) in the Atlantic Forest of southeastern Brazil. J. Chem.Ecol.27,93-107.   \nThodey,K.,Galanie,S.and Smolke, C.D.(2014)A microbial biomanufacturing platform for natural and semisynthetic opioids. Nat. Chem. Biol. 10,837- 844.   \nTrenchard，I.J.and Smolke， C.D.(2015) Engineering strategies for the fermentative production of plant alkaloids in yeast. Metab. Eng.30,96-104.   \nTrenchard,I.J.，Siddiqui,M.S.，Thodey,K.and Smolke,C.D.(2015) De novo production of the key branch point benzylisoquinoline alkaloid reticuline in yeast.Metab. Eng.31,74-83.   \nTrewavas，A.(2oo6)A brief history of systems biology:\"Every object that biology studies isa system of systems\".Francois Jacob (1974).Plant Cel,18, 2420-2430.   \nVerma,P.，Khan,S.A.，Mathur,A.K.，Ghosh,S.，Shanker,K.and Kalra，A. (2014) Improved sanguinarine production via biotic and abiotic elicitations and precursor feeding in cell suspensions of latex-less variety of Papaver somniferum with their gene expression studies and upscaling in bioreactor. Protoplasma,251,1359-1371.   \nWang,R.,Xu,S., Jiang,Y.,Jiang,J.,Li,X., Liang,L.,He,J.et al.(2013) De novosequenceassemblyandcharacterizationofLycorisaurea transcriptome using GS FLX titanium platform of 454 pyrosequencing. PLoS ONE,8,e60449.   \nWiechert,W.(2001) 13C metabolic flux analysis.Metab. Eng.3,195-206.   \nWilson,S.A.and Roberts, S.C.(2012) Recent advances towards development and commercialization of plant cell culture processes for the synthesis of biomolecules.Plant Biotechnol.J.10,249-268.   \nWink,M.(2010) Biochemistry of plant secondary metabolism.Annu. Plant Rev. 40,page 2.   \nWolfender， J.L.，Rudaz，S.，Choi，Y.H.and Kim，H.K．(2013)Plant metabolomics:from holistic data to relevant biomarkers.Curr.Med. Chem.20,1056-1090.   \nXiao，M.，Zhang,Y.，Chen,X.，Lee，E.-J.，Barber，C.J.S.，Chakrabarty，R., Desgagné-Penix,I.et al. (2013)Transcriptome analysis based on nextgenerationsequencingofnon-modelplantsproducingspecialized metabolites of biotechnological interest.J. Biotechnol. 166,122-134.   \nZamboni, N.(2011) 13C metabolic flux analysis in complex systems. Curr. Opin. Biotechnol. 22, 103-108. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

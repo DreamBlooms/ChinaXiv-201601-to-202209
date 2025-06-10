@@ -1,0 +1,270 @@
+[
+    {
+        "type": "text",
+        "text": "细胞自噬对中性粒细胞功能调节的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨晓燕毛景东 李树森 张新颖 杜立银（内蒙古民族大学动物科学技术学院，内蒙古 通辽市，028000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：细胞自噬是一种进化上高度保守的胞内降解系统，旨在实现维持细胞稳态以应对不同的细胞应激。在生理状态下，细胞自噬水平通常较低；而在氧化应激、营养饥饿和各种病原体刺激下会显著上调。过去的许多研究都表明细胞自噬在多种组织细胞和生理功能调控中有重要意义。早期研究发现了细胞自噬和中性粒细胞死亡之间的联系，这是与炎症密切关联的必要过程。在人类系统和小鼠模型中表明，细胞自噬在中性粒细胞驱动的炎症和防御病原体方面起着至关重要的作用。细胞自噬对于中性粒细胞主要功能的发挥至关重要，包括脱颗粒，活性氧产生和中性粒细胞胞外诱捕网的释放。骨髓中的中性粒细胞生成，自噬在骨髓细胞生成中发挥关键作用，以及促使髓系祖细胞向中性粒细胞分化。总之，本综述集中讨论了细胞自噬对中性粒细胞的作用，从中性粒细胞在骨髓中产生到炎症反应和NETosis细胞死亡。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：自噬；中性粒细胞；粒细胞生成；吞噬；脱颗粒；中性粒细胞胞外诱捕网",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advances in autophagy on the regulation of neutrophil function ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Xiao-yan MAO Jing-dong LI Shu-sen ZHANG Xin-ying DU Li-yin (ColegeofAnimal ScienceandTechnology，InnerMongoliaUniversityforNationalities，TongliaoO28o0，China） Abstract: Autophagy is an evolutionarily highly conserved intracellular degradation system designed to maintain celular homeostasis in response to cellular stress.In physiological states,the level of autophagy is usually low; however, it is significantly upregulated under oxidative stres,nutritional starvation,and various pathogens.Many studies in the past have shown that autophagy plays an important role in the regulation of various histiocytes and physiological functions.Early studies have found a link between autophagyand neutrophil death,a necessary process closely related to inflammation. Autophagy plays a crucial role in neutrophil-driven inflammation and defense against pathogens in human and mouse models.Autophagy is critical for the function of neutrophils, including degranulation,reactive oxygen species production,and release of neutrophil extracelllar trapping networks. Neutrophil production in the bone marrow,autophagy plays a key role in the formation of myeloid cells, promoting the differentiation of myeloid progenitor cells into neutrophils.In summary,this review focuses on the role of autophagy in neutrophils,from neutrophils to inflammatory responses and NETosis celldeath in the bone marrow. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: autophagy; neutrophils; granulocyte production; phagocytosis;degranulation; neutrophil extracelular trapping network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在真核细胞中，巨自噬即自噬是一种调节细胞内稳态的机制，这是细胞应对饥饿和其他类型的应激（包括缺氧、氧化爆发、DNA 损伤和感染）所必需的一种机制。在自噬过程中，细胞质成分被包裹在双膜囊泡中，称为自噬体，随后递送至溶酶体进行降解（自噬溶酶体)。这种动态且严格的调控过程是通过感知并清除受损细胞成分或细胞内病原体来保护细胞，细胞内大分子和细胞器的降解产生可循环利用的氨基酸等来为细胞提供营养[1]。在过去几年中，大量证据表明免疫功能如吞噬作用、消除细胞内病原体、抗原呈递、胸腺选择、维持淋巴细胞内稳态和细胞因子的产生等存在自噬现象。另一方面，异常或过度的自噬可能导致自噬依赖性细胞死亡2。因此，细胞自噬与细胞存活和死亡息息相关，这取决于细胞类型和应激条件。自噬失调与多种疾病有关，包括炎症性疾病，神经退行性疾病和癌症等[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中性粒细胞是人体免疫系统中最丰富的效应细胞，并且是第一个迁移到组织炎症部位的细胞4。中性粒细胞寿命很短，半衰期从6-8小时到几天不等。在稳态条件下，通过骨髓粒细胞持续生成来确保中性粒细胞的更新[5。然而，在严重的全身性炎症环境中，导致骨髓祖细胞重新产生大量中性粒细胞并将其动员，这一过程称为急性粒细胞生成。中性粒细胞表达多种表面受体，使其能够根据环境快速响应，从而使细胞因子重新合成。这种适应使嗜中性粒细胞成为表型和功能异质的细胞群8。因此，中性粒细胞激活后能够通过三种不同的机制发挥其抗菌和促炎作用：包括吞噬作用，脱颗粒和最近描述的中性粒细胞胞外诱捕网（NETs）的形成和释放[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "许多研究表明细胞自噬与中性粒细胞生物学及其效应功能密切相关。本综述总结了最新实验和临床研究结果，以及细胞自噬和粒细胞生成的调节、自噬和中性粒细胞或NETs 抗菌的关键作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1细胞自噬 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1细胞自噬概念、相关基因及其过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞自噬(autophagy)分为巨自噬，微自噬和分子伴侣介导的自噬，通常所说的自噬指巨自噬。自噬是指从粗面内质网的无核糖体附着区脱落的双层膜包裹部分胞质和细胞内需降解的细胞器、蛋白质等成分形成自噬体(autophagosome)，并与溶酶体融合形成自噬溶酶体，降解其所包裹的内容物，以实现细胞本身的代谢需要和某些细胞器的更新。适度的自噬帮助细胞逃避营养应激，维持细胞内稳态，但是细胞过度自噬导致的死亡就是自噬性细胞死亡（autophagiccelldeath，ACD）也称II型程序性细胞死亡。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自噬的过程包括自噬体的产生，随后是自噬体的成熟并与溶酶体融合，最后是降解过程。自噬相关基因ATG在控制自噬途径的各个步骤中的作用已经证明[10]。第一个ATG基因 ATG1编码自噬启动所需的蛋白激酶，它的哺乳动物同源物ULK1起着类似于ATGI的作用。ULK1与ATG13，ATG101和FIP200形成复合物，在自噬启动后ULK1磷酸化并激活III类PI3K复合物I，此复合物由VPS34，VPS15，ATG14L和 Beclin1组成，该复合物在新生自噬体膜上产生磷脂酰肌醇-3-磷酸（PtdIns3P)，以帮助形成分离膜，ATG9是唯一的跨膜ATG蛋白。PtdIns3P通过与蛋白WIPI2相互作用将ATG16L1和ATG5-ATG12募集到自噬体中。ATG16L1-ATG5-ATG12复合物则催化磷脂酰乙醇胺分子与LC3的羧基端甘氨酸共价结合，而该化合物在 ATG 4，ATG7和 ATG 3(LC3I)的作用下被激活，生成 LC3II[11]。LC3II是自噬标志物，定量细胞中的自噬[12]，但也可以结合自噬受体，如 SQSTM1，NDP52，NBR1和OPTN[13]。随后，自噬体成熟并与溶酶体融合，而溶酶体是由Vps34、VPS15、Beclin1和UVRAG 组成的III类PI3K复合物II介导的过程，目的是通过溶酶体酶诱导降解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2自噬机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1AMPK、mTOR对自噬的调控 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自噬主要由营养饥饿、氧化应激、内质网应激和能量缺乏引起。在饥饿状态下，细胞利用特殊机制降解自身组分，如大量胞质成分（蛋白质，氨基酸，细胞器和其他大分子）被送到溶酶体进行降解并进行回收利用，为维持重要的细胞活动提供营养。除了一般的自噬之外，证据表明还有线粒体自噬（mitophagy)。线粒体自噬是一种去除受损线粒体的选择性降解过程。自噬机制涉及多种蛋白复合物，其中AMP激活激酶（AMPK)，哺乳动物雷帕霉素靶蛋白（mTOR）调节该机制的各个方面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AMPK已被证明可以在酵母和哺乳动物细胞中调节自噬。一种调控方式是AMPK直接磷酸化mTOR上游调节剂TSC2的Ser122和Ser1345；另一调控方式是直接磷酸化mTORC1亚基RAPTOR的 Ser722和 Ser792。在能量应激条件下，这两种磷酸化事件降低mTOR活性减轻对ULKI的抑制以激活自噬。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总之，自噬机制的诱导受AMPK/mTOR复合物1（mTORC1）能量传感系统调节。在营养缺乏或饥饿期间ATP水平降低且激活 AMPK,抑制mTORC1。抑制 mTORC1活化是自噬的主要诱因。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2AMPK、ULK1对自噬的调控 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AMPK和自噬途径之间有着直接联系。葡萄糖饥饿激活ULK1取决于AMPK介导的磷酸化的方式。当敲除AMPK，葡萄糖剥夺时，ULK1不能被激活，证明AMPK在ULKI活化中的作用。Lee 等[14]人报道说，AMPK与 ULK1在自噬诱导中起重要作用。AMPK在 ULK1的至少四个残基Ser467，Ser555，Thr574和Ser637上直接磷酸化。此外，AMPK对ULK1的活化也是线粒体自噬去除受损的线粒体所必需的。不能被AMPK磷酸化的ULK1突变体的细胞似乎积累了有缺陷的线粒体，这表明 AMPK-ULK1信号不仅对于一般自噬重要，而且对于选择性去除损伤的线粒体也是重要的。随后研究证实了在各种条件下线粒体自噬中ULK1的重要作用。据报道，除了磷酸化ULK1之外，AMPK也磷酸化自噬途径的其他核心成分上的残基，例如ATG9上的Ser761，VPS34上的Thr133和 Ser135，Beclin1上的 Ser91和 Ser94，VPS34相关蛋白RACK1上的Thr50和PAQR3上的Thr32等[15]，这些AMPK磷酸化的位点并未被独立验证，因此许多AMPK和ULK1对自噬的细节分析仍有待阐明。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2自噬和粒细胞生成的调控 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒细胞生成，即在稳态或应激条件下产生粒细胞，包括全身性炎症，还涉及造血干细胞和祖细胞[9。有证据表明，自噬作为造血干细胞（HSC）代谢的调节因子，在调节这些细胞的分化过程中起着重要的作用[16]。通过线粒体自噬清除受损线粒体可防止HSC 中 ROS 的积累而导致损伤，最终导致细胞凋亡。HSC 中 $\\mathbf { \\nabla } _ { A t g 7 }$ 的缺失导致HSC 功能受损，可能是由于受损线粒体的积累和ROS的产生。该小组还证实， $\\mathbf { \\nabla } _ { A t g 7 }$ 的缺失导致骨髓增生，其特征类似于急性髓性白血病。Warr等[17人的另一项研究证明叉头盒O3（FOX03A）介导的自噬对 HSC 具有保护作用，使其能够在代谢应激下存活。自噬在造血祖细胞功能中的稳态作用也得到了最近的一项研究的证实，该研究表明由于缺失编码 $A A A \\ + \\ - A T P a s e \\ A t a d 3 a$ 基因而导致的过度线粒体自噬对 HSC 稳态具有不利影响[18。Ho等[9人使用几种小鼠模型，进一步证明了HSCs 中自噬和细胞代谢之间的相互作用导致表观遗传变化和干细胞丧失。衰老过程中HSC亚群中的自噬活性与造血祖细胞功能衰退有关，这与自噬在维持细胞健康方面的良好作用是一致的。总之，自噬主要参与造血系统早期祖细胞的调控。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "尽管自噬在HSC中的作用已经确立，但其在骨髓谱系祖细胞后期进展中的作用研究较少。已显示骨髓细胞特异性缺失 $\\boldsymbol { A } t g \\boldsymbol { 5 }$ 正调节中性粒细胞的增殖速率，导致骨髓，血液和脾脏中嗜中性粒细胞的积累，而不影响嗜中性粒细胞在效应功能，如细胞凋亡和迁移。Riffelmacher等[20]人的一项研究进一步证实了自噬在粒细胞生成中的重要性。在这项研究中表明，通过自噬降解脂肪酸是必要的，从糖酵解转向OXPHOS，这是中性粒细胞分化后期所必需的过程。Sidaway[21首先证明了使用转基因小鼠模型在体内中性粒细胞分化的不同阶段对自噬的动态调节，在成髓细胞（原始粒细胞)和早幼粒细胞分化的早期阶段自噬量最高，在最后阶段观察到较小的自噬量。最后，Huang 等人[22最近的一项研究报道了单核细胞和粒细胞分化之间22个自噬相关基因的差异表达，提出了自噬在骨髓向粒细胞和单核细胞分化的作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3自噬与中性粒细胞吞噬的相互作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "嗜中性粒细胞的吞噬作用和ROS 的产生是微生物杀伤的关键机制。研究表明自噬和吞噬在巨噬细胞宿主防御中有相互作用23。自噬能够检测并消除细胞内病原体。模式识别受体( $\\cdot P$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RRs)如tol1样受体(TLRs)、核苷结合寡聚域蛋白(NOD)1/2以及泛素结合蛋白p62/SQSTMI是通过感受各种病原体相关的分子模式(PAMPs)而激活，这些分子模式在细胞膜上，或在细胞质中诱导一种选择性自噬被称为“异种自噬”。此外，自噬可以在病原体的吞噬过程中，通过细胞外PRR 信号传导被激活。已经在鼠巨噬细胞中描述了一种新的选择性自噬形式，称为LC3相关的吞噬作用（LAP）。在 $L A P$ 中，自噬蛋白 $\\ L C 3$ 与传统的吞噬体结合，促进吞噬溶酶体形成和成熟，并增强吞噬作用。除了吞噬病原体外， $L A P$ 还分别使用磷脂酰丝氨酸或Fc 受体摄取和清除凋亡、坏死细胞或免疫复合物。因此， $L A P$ 可能保护机体免受异常的炎症反应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "虽然关于自噬作为防御机制的研究都集中在巨噬细胞上。许多年前，在单核细胞或巨噬细胞中，敲除自噬因子 $\\boldsymbol { A } t g 5$ 的小鼠已经证实自噬在病原体防御中起关键作用。随后，通过对中性粒细胞介导的肺部免疫病理的预防， $A t g 5$ 在体内的自噬独立作用被提出[24]。2010 年有证据表明人类中性粒细胞具有自噬机制。随后，通过对含有细菌的自噬体的透射电镜分析，以及3-甲基丙烯酸(3-MA)或巴弗洛霉素A1对自噬的抑制，结果表明“异种自噬”在人中性粒细胞中起抗菌作用[25]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与巨噬细胞类似，在嗜中性粒细胞中已经描述了吞噬作用和自噬途径之间的相互作用。大肠杆菌触发了中性粒细胞中的自噬机制。研究还表明，在小鼠和人中性粒细胞的吞噬体中，LC3B的存在需要烟碱腺嘌呤二核苷酸磷酸酶(NADPH)氧化酶的激活和 ROS 的生成。已经证明人体嗜中性粒细胞在体外感染肺炎链球菌后经历自噬，其依赖于III型PI3K和ATG5并且增强中性粒细胞吞噬细菌。通过使用siRNA转染的中性粒细胞，然后与粒细胞-巨噬细胞集落刺激因子（GM-CSF）孵育来证明自噬依赖 $A T G 5 ^ { [ 2 6 ] }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但是许多病原体已被证明可以逃避或利用巨噬细胞中的自噬，旨在建立细胞内长期生存和复制。中性粒细胞中微生物对自噬的破坏研究较少。以前，已经证明从克罗恩病患者中分离的贴壁侵袭性大肠杆菌菌株（AIEC）可以侵入人嗜中性粒细胞引发自噬。然而，AIEC 能够通过在自溶酶体步骤中扰乱自噬通量来逃避中性粒细胞样PLB细胞的杀伤，从而允许细菌在细胞内存活。综上所述，嗜中性粒细胞可能使用自噬和吞噬来杀死致病性微生物和清除细胞碎片，这两种防御机制可能存在功能上的相互关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4自噬和中性粒细胞脱颗粒 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "中性粒细胞一旦激活，就会释放吞噬体或分泌抗菌和炎症蛋白，这些蛋白质包在细胞质颗粒中，这一过程被称为脱颗粒。中性粒细胞中有四种不同类型的颗粒：初级或嗜天青颗粒、二级或特殊颗粒、三级颗粒和分泌小泡。初级颗粒构成弹性蛋白酶，髓过氧化物酶（MPO)，组织蛋白酶和防御素的储存部位，次级颗粒主要含有NADPH氧化酶，乳铁蛋白和基质金属蛋白酶9（明胶酶)，三级颗粒富含明胶酶，但缺乏乳铁蛋白，而分泌性囊泡富含碱性磷酸酶和来自内吞作用的各种细胞膜和血浆蛋白27。颗粒衍生的蛋白质是中性粒细胞功能（包括趋化性，抗微生物和NET释放）的发挥所必需的蛋白质。弹性蛋白酶和MPO也是NET形成所必需的物质[28]。因此，脱颗粒和 NET 释放是相互关联的，并且在中性粒细胞活化期间具有互补作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自噬在调节中性粒细胞脱颗粒中的重要性已经在骨髓特异性自噬缺陷小鼠模型中得到证实。中性粒细胞中的自噬缺乏显著减少体外和体内脱颗粒[29]。在同一项研究中，自噬缺陷型中性粒细胞中ROS 的产生也减少，并且NADPH氧化酶的抑制减少了中性粒细胞的脱颗粒，这表明 NADPH氧化酶介导自噬对脱颗粒的影响[29]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5自噬和NET的形成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2004年 Brinkmann 等[3]证实一种新的中性粒细胞杀微生物机制，即 NETs 的释放，NETs是一种纤维网状物，可以捕获和杀死细胞外微生物。NETs 是携带各种高活性嗜中性粒细胞衍生的颗粒、胞质蛋白和染色质[9,31]。与细胞凋亡和坏死形成对比，NET 介导的细胞死亡（NETosis）是染色质去浓缩过程，核膜崩解并且质膜破裂释放 NETs[2]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了NETs的抗菌作用外，越来越多的证据表明在许多非感染性炎性疾病发病机制中也起作用[32]。此外，临床和实验研究表明，在不同疾病的背景下，中性粒细胞释放出性质不同的 NETs，根据炎症环境决定生物活性蛋白的表达。例如，典型的自身炎症性疾病如家族性地中海热（FMF）和 Still 病的 NETs 携带 $I L - I \\beta ^ { [ 3 3 - 3 5 ] }$ 。NET 中的自身抗原与自身免疫性疾病如狼疮，类风湿性关节炎和 ANCA 相关性血管炎有关[36.37]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中性粒细胞胞外诱捕网的形成是由许多致病因子和多种促炎刺激引起的，如细胞因子( $I$ L-8，TNFα）和干扰素（IFNα），而颗粒酶（MPO，弹性蛋白酶）和ROS 调节NET的释放［38]。ROS 产生和自噬之间存在密切的关系，这是NETosis 的两大调节因子。ROS 爆发诱导自噬，这反过来又要维持ROS 的产生。Remi jsen 等[39人表明，自噬和活性氧的合成是PMA诱导人中性粒细胞NET形成的必要条件。自噬或 NADPH氧化酶的抑制阻止了染色质的去浓缩，这对于 NETosis至关重要，导致细胞凋亡。此外，从缺乏NADPH氧化酶活性的慢性肉芽肿病患者中分离的嗜中性粒细胞不能产生NETs[39]。与此同时，研究证实急性痛风性关节炎患者的中性粒细胞表现出自噬作用，介导 NET释放，首次将自噬相关的NETosis与无菌性炎症联系起来。随后，已经表明 $\\mathrm { m T O R }$ 和细胞骨架机制在调节人嗜中性粒细胞中自噬介导的NET形成中起关键作用。mTOR途径的药理学抑制显著促进自噬体形成和组蛋白瓜氨酸化，促进NET释放以响应N甲酰基甲硫氨酰-亮氨酰-苯丙氨酸（fMLP)，而阻断细胞骨架动力学消除了mTOR／自噬介导的 NETosis[40]。此外，在AIEC 感染的中性粒细胞样 PLB人细胞系中沉默 ATG5阻断了NET形成。最近，还表明 $A t g 5$ 表达水平的降低导致老年小鼠中性粒细胞形成NETs的能力降低，提示自噬在维持 NETs机制中的重要作用[41]。体外 NET 的产生在对 LPS 和 $I L  – 8$ 的反应受损[42]，并且 ATG5基因表达减少[41,43]。与此相一致，通过药理学抑制剂或针对 ATG7的小干扰 RNA 抑制自噬减弱了LC3自噬形成并显著降低了早幼粒细胞中的 NET 生成[44]。此外，抑制PI3K/AKT/mTOR通路,PTEN在HL-60分化的中性粒细胞用PMA刺激后NETs 的产生减少[45]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另一方面，关于自噬对NET释放的贡献，也报道了相互矛盾的数据。特别是 $\\boldsymbol { A } t g 5$ 敲除的小鼠中性粒细胞。降低自噬活性，保留释放细胞DNA的能力。此外，尽管PI3K抑制阻止人嗜中性粒细胞形成 NET，但用巴弗洛霉素A1 和氯喹没有抑制自噬[46]。这表明也可能存在不依赖自噬的NETosis 途径[47]。最近，Bendorius M 等[48]研究发现P140 介导自噬和分子伴侣介导的自噬过程，抑制了中性粒细胞的NET释放，用P140预孵育中性粒细胞以剂量依赖性方式抑制NIC 诱导的NET释放，用同样浓度的P140对fMLP或LPS或佛波醇肉豆蔻酸乙酸酯刺激NET释放抑制无效，但对线粒体自噬几乎没有影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AngelidouI等[49]小组使用免疫荧光共聚焦显微镜，ELISA，免疫印迹，流式细胞术和定量PCR分析结肠活检标本和外周血中性粒细胞中NET相关标志物的存在，研究显示溃疡性结肠炎(UC)中肠道炎症的特征是中性粒细胞中REDD1的表达和由自噬依赖的生物活性 IL-1b和组织因子（TF）修饰的NETs 的形成，REDD1将应激与自身炎症中自噬介导的NET形成、IL-1b 表达联系起来的关键因素。这些研究结果为临床上候选诊断和治疗靶标提供新希望。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总结与展望",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自噬是一种参与细胞内稳态的降解机制，在饥饿状态下细胞利用特殊机制降解其自身组分，大量胞质成分被送到溶酶体进行降解并进行回收利用，为维持重要的细胞活动提供了营养来源。自噬调节中性粒细胞功能，中性粒细胞自噬过程的诱导，对入侵的病原体作出反应，是天然免疫的重要机制。嗜中性粒细胞通过脱颗粒、吞噬以及释放NETs杀死病原体，这些功能的发挥依赖于中性粒细胞自噬过程的及时激活。抑制自噬减少了中性粒细胞的脱颗粒，自噬缺陷对三级和二级颗粒的产生影响最大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自噬涉及中性粒细胞生物学和病理生理学的一个重要机制。中性粒细胞中自噬反应的平衡对细胞稳态和宿主健康至关重要。在炎性和自身免疫疾病期间自噬在中性粒细胞中起重要作用。了解自噬的具体信号通路，以及自噬对中性粒细胞功能的影响并靶向自噬途径将为治疗中性粒细胞介导的炎症、自身免疫性疾病、血栓性疾病、髓细胞白血病或中性粒细胞减少症的防治拓展新的思路。因此迫切需要设计新的治疗约物靶向目噬。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1]Sil P,Muse G and Martinez J. Aravenous defense: canonical and non-canonical autophagy in immunity. Curr. Opin. Immunol, 2018, 50:21-31.   \n[2] Galluzz L,Vitale I,Aaronson S A,et al.Molecular mechanisms of cell death:recommendations of the nomenclature commitee on cell death. Cell Death Differ, 2018, 25(3):486-541.   \n[3]Martinez J，Cunha L D,Park S,Yang M,et al. Noncanonical autophagy inhibits the autoinflammatory, lupus-like response to dying cells. Nature ,2016, 533(7601): 115-119.   \n[4] Mayadas TN,Cullere Xand Lowel CA.The multifaceted functions of neutrophils.Annu.Rev.Pathol,2014, 9:181-218.   \n[5] Cowland JB and Borregaard N. Granulopoiesis and granules of human neutrophils.Immunol. Rev, 2016, 273(1): 11-28.   \n[6] Manz M G and BoetcherS.Emergency granulopoiesis.Nat. Rev.Immunol,2014,14(5): 302-314.   \n[7]Tamasia N, Biancheto-Aguilera F,Arruda-SilvaF,et al. Cytokine production by human neutrophils: revisiting the“dark side of the moon.”Eur. J. Clin.Invest, 2018:e12952   \n[8] Jablonska J,and Granot Z. Neutrophil, quo vadis? J Leukoc Biol, 2017, 102(3):685-688.   \n[9] Mitsios A,Arampatzioglou A,Arelaki S,et al. NETopathies? Unraveling the dark side of old diseases through neutrophils. Front. Immunol, 2016, 7:678.   \n[10]Egan DF,ShackelfordD B,MihaylovaMM,etal. Phosphorylationof ULK1 (hATG1) byAMP-activated protein kinase connects energy sensing to mitophagy. Science, 2011,331(6016):456-461.   \n[11] Ohsumi Y. Historical landmarks of autophagy research. CellRes, 2014, 24(1): 9-23.   \n[12] Bento C F. Mammalian autophagy: how does it work? Annu. Rev. Biochem, 2016,85: 685-713 .   \n[13] Birgisdottr A B,Lamark T.and Johansen T.The LIR motif-crucial for selective autophagy. Cell Sci,2013, 126(15):3237-3247.   \n[14] Lee JW,Park S,Takahashi Y, et al. The association of AMPK with ULK1 regulates autophagy. PLoS One, 2010, 5(11):e15394.   \n[15] Zhang D.AMPK regulates autophagy by phosphorylating BECN1 at threonine.Autophagy， 2016,12(9): 1447-1459.   \n[16] Garcia-Prat L,Sousa-Victor Pand Munoz-Canoves P.Proteostatic and metabolic control of stemness. Cell Stem Cell,2017,20(5):593-608.   \n[17] Warr M R, Binnewies M, Flach J, et al. FOXO3A directs a protective autophagy program in haematopoietic stem cells. Nature ,2013, 494(7437):323-327.   \n[18] Jin G,Xu C, Zhang X,et al.Atad3a suppresses Pinkl-dependent mitophagy to maintain homeostasis of hematopoietic progenitor cels. Nat. Immunol, 2018,19(1):29-40.   \n[19] Ho T T. Warr M R, Adelman ER,et al. Autophagy maintains the metabolism and function of young and old stem cells.Nature,2017,543(7644):205-210.   \n[20] RifelmacherT,Clarke A,RichterFC,etal. Autophagy-dependent generationoffree fatty acids is critical for normal neutrophil differentiation. Immunity, 2017, 47(3):466-480.e5.   \n[21] Sidaway P,Neutrophil differentiation isautophagy dependent. Nat. Rev. Immunol,2017,27:17(11) [22] Huang Y,Tan P, Wang X,et al.Transcriptomic insights into temporal expression pattrn ofautophagy genes during monocvtic and granulocvtic differentiation. Autophagv. 2018.14:558-559. [23] Martinez J, Malireddi R K,Lu Q,et al. Molecular characterization of LC3-associated phagocytosis reveals distinct roles for Rubicon, NOX2 and autophagy proteins. Nat. Cell Biol, 2015,17(7):893-906.   \n[24] Kimmey JM, Huynh JP, Weiss L A,et al. Unique role for ATG5 in neutrophil-mediated immunopathology during M. tuberculosis infection. Nature ,2015, 528(7583):565-569.   \n[25]Rinchai D,Riyapa D,BuddhisaS,etal.Macroautophagy is essential for kiling of intracellular Burkholderia pseudomallei in human neutrophils. Autophagy ,2015,11(5):748-755.   \n[26] Ullah I, Ritchie ND,and Evans TJ. The interrelationship between phagocytosis,autophagy and formationof neutrophil extracellular traps folowing infection of human neutrophils by Streptococcus pneumoniae. Innate Immun,2017,23(5):413-423.   \n[27] Yin C.and Heit B.Armed for destruction: formation,function and traficking of neutrophil granules. Cell Tissue Res, 2018, 371(3):455-471.   \n[28] Metzler K D, Goosmann C,Lubojemska A, et al.A myeloperoxidase-containing complex regulates neutrophil elastase release and actin dynamics during NETosis. Cell Rep,2014,8(3):883-896.   \n[29]BhattacharyaA,Wei Q,Shin JN,et al.Autophagy is required for neutrophil-mediated inflammation.CellRep, 2015,12(11):1731-1739.   \n[30]Brinkmann V,Reichard U, Goosmann C.Neutrophil extracellular traps killbacteria. Science,2004,303 (5663):1532-1535.   \n[3] Jorch S K,and Kubes P.An emerging role for neutrophil extracelllar traps in noninfectious disease. Nat. Med, 2017, 23(3):279-287.   \n[32] Sollberger G,Tilly D O and Zychlinsky A. Neutrophil extracellular traps: the biology of chromatin externalization. Dev. Cell,2018,44: 542-553.   \n[33] Apostolidou E， Skendros P, Kambas K,et al. Neutrophil extracellular traps regulate IL $1 \\beta$ -mediated inflammation in familial Mediterranean fever. Ann. Rheum. Dis,2016,75(1):269-277.   \n[34] Skendros P, Chrysanthopoulou A, Rousst F, et al. Regulated in development and DNA damage responses1 (REDD1） links stresswith IL $1 \\beta$ -mediated familial Mediterranean fever attack through autophagy-driven neutrophil extracellular traps. Allergy Clin. Immunol, 2017, 140(5):1378-1387.e13.   \n[35] Angelidou I, Chrysanthopoulou A,Mitsios A, et al. REDD1/Autophagy pathway isassociated with Neutrophil driven IL- $1 \\beta$ inflammatory response in active ulcerative colitis. JImmunol,2018, 200(12): 3950-3961.   \n[36]Tang S, Zhang Y, Yin S-W,etal. Neutrophil extracellular trap formation is associated with autophagy-related signalling in ANCA associated vasculitis. Clin. Exp. Immunol, 2015,180(3):408-418.   \n[37]Lood C,Blanco LP,Purmalek MM,etal. Neutrophil extracellular traps enriched inoxidized mitochondrial DNA are interferogenic and contribute to lupus-like disease.Nat. Med,2016,22(2):146-153.   \n[38] Papayannopoulos V. Neutrophil extracellular traps in immunityand disease. Nat. Rev. Immunol, 2O18,18(2): 134-147.   \n[39]Remijsen Q, Vanden Berghe T,Wirawan E,et al. Neutrophil extracellular trap cell death requires both autophagy and superoxide generation. Cell Res, 2011, 21(2):290-304.   \n[40] Itakura Aand McCarty O J. Pivotal role for the mTOR pathway in the formation of neutrophil extracellular traps via regulation of autophagy. Am. J. Physiol. Cell Physiol, 2013, 305(3):C348-C354.   \n[41]Xu F, Zhang C. Zou Z, et al. Aging related Atg5 defect impairs neutrophil extracelular traps formation. Immunology,2017,151(4):417-432.   \n[42]Hazeldine J,Harrs P, Chapple IL,et al. Impaired neutrophil extracellular trap formation: anovel defect in the innate immune system of aged individuals. Aging Cell, 2014,13(4):690-698.   \n[43]Vieira da Silva Pellegrina D,Severino P, Vieira Barbeiro H,et al. Septic shock in advanced age: transcriptome analysis reveals altered molecular signatures in neutrophil granulocytes.PLoS One ,2015,10(6):e0128341. [44] Ma R,Li T, Cao M,etal.Extracellular DNA traps released byacute promyelocytic leukemia cels through autophagy. Cell Death Dis,2016, 7(6):e2283.   \n[45] Teimourian S,and Moghanloo E.Role of PTEN in neutrophil extracelular trap formation.Mol.Immunol, 2015,66(2):319-324.   \n[46] Germic N,Stojkov D,Oberson K,et al.Neither eosinophils nor neutrophilsrequire ATG5-dependent autophagy for extracellular DNA trap formation.Immunology,2017,152(3):517-525.   \n[47] Peterse E,Rother N,Yanginlar C,et al.Neutrophils discriminate between lipopolysaccharides of different bacterial sources and selectively release neutrophil extracelllar traps. Front. Immunol, 2O16,7:484.   \n[48]Bendorius M,Neeli I, WangF.The Mitochondrion-lysosome Axis in Adaptiveand Innate Immunity:Effectof Lupus Regulator Peptide P140 on Mitochondria Autophagy and NETosis.Front Immunol. 2018,9:2158. [49]Angelidou I, Chrysanthopoulou A,Mitsios A. REDD1/Autophagy Pathway Is Associated with Neutrophil Driven IL- β Inflammatory Response in Active Ulcerative Colitis.Immunol,2018,200(12):3950-3961. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,170 @@
+# 毛乌素沙地沙柳液流特征及其对环境因子的响应
+
+洪光宇¹²，王晓江²，刘果厚¹，张雷²，高孝威²，李卓凡²，刘铁山²，刘辰明²，李梓豪²（1.内蒙古农业大学草原与资源环境学院,内蒙古 呼和浩特010011;2.内蒙古自治区林业科学研究院，内蒙古 呼和浩特010010)
+
+摘要：应用Flow32-1K包裹式热平衡液流仪,对毛乌素沙地沙柳不同径级枝条液流进行长期监测，同步观测试验样地气象变化，分析沙柳枝条液流变化规律并建立与环境因子关系模型。结果表明：(1)沙柳枝条随着径级的增加液流日变化从宽峰曲线到明显的单峰曲线,并且液流速率呈增大趋势;天气条件对液流影响较大,雨天液流速率波动较剧烈,呈明显的多峰曲线;晴天时液流速率变化呈明显的双峰曲线,雨天沙柳枝条液流速率及日液流量均比晴天低,随着径级增大,晴天和雨天日累计液流量差值逐渐变大。(2）液流速率与地表温度、大气温度、饱和水汽压差、太阳辐射和风速呈极显著正相关关系,与空气相对湿度呈极显著负相关关系。（3）雨天环境因子中饱和水汽压差和空气相对湿度对液流速率的影响较大，拟合结果平均 $R ^ { 2 }$ 在0.8以上；晴天太阳辐射强度是控制沙柳枝条液流速率的重要因子，拟合结果平均 $R ^ { 2 }$ 在0.85以上。通过对沙柳枝条液流速率进行监测,分析沙柳群落的蒸腾消耗特征，为沙地水资源合理利用与群落结构优化调控提供数据支撑。
+
+关键词：Flow32-1K包裹式热平衡液流仪；沙柳；液流；气象因子；毛乌素沙地
+
+生态水文中植物蒸腾耗水是“土壤-植物-大气”连续体中重要的组成部分，植物的蒸腾能反映出植物的耗水状况及对环境的响应，植物蒸腾耗水量占植物液流的 $9 0 \%$ 以上[1-2],国内外学者通过对树木不同部位和时间的液流特征进行研究，进而推算单株或群落尺度上的蒸腾耗水量[3-4]。目前全球气候变化导致降雨格局出现高位震荡，增加了干旱、半干旱区生态系统的脆弱与敏感性。因此，研究植物液流变化对气象因子的响应，可以解析气候变化下植物对蒸腾耗水规律的自我调控能力。
+
+近年来，随着热平衡技术的不断提高，包裹式茎流仪已成为生态水文研究中用于推算整树蒸腾的有效方法，该方法不会对植物直接造成损伤，测量数值准确，可连续定点测定，适合监测草本和胸径小的树木[5]。国内外的学者已经利用热平衡技术对不同地区生长的梭梭、沙棘、番茄、怪柳、沙拐枣等植物的蒸腾耗水特性进行了研究[6-9]。植物茎干液流变化特征与自身的生物学结构、土壤有效水含量及其气象因子等的变化相关[10-11]。植物自身的生理特性决定了其潜在蒸腾能力，但树木的生理变化又受到环境的影响，土壤有效水分决定了植物液流量，气象因子影响了液流的瞬时变化。气象因子中，大气温度、太阳辐射强度、大气相对湿度对植物的蒸腾影响较大[12-17]
+
+沙柳(Salixpsammophila)是毛乌素沙地的先锋树种，因其萌芽力强，枝条耐沙埋，根系发达等特点，成为该区人工植被恢复的主要造林树种。毛乌素沙地属于温带大陆性半干旱气候，年降雨量少，水分蒸发大，可利用水资源有限。有研究表明，已有的沙柳人工林出现整体长势衰退，枯死率增加，生产力下降等现象，依据生态学原理，可以判定群落耗水量超过了土壤水分承载力的阈值[18-19]。因此，人们对毛乌素沙地沙柳人工林的可持续发展存在质疑并亟待找到生态功能恢复的办法。
+
+本试验选取了毛乌素沙地典型沙柳人工灌木林为研究对象，对其枝条液流速率及气象因子进行同步连续监测，研究不同径级沙柳枝条在展叶期(6一9月），在不同天气条件下液流速率变化规律及其对气象因子的响应，并建立沙柳枝条液流和气象因子的关系模型。本研究对了解沙区主要灌木树种蒸腾耗水机制及人工林可持续发展具有重要理论意义，可为沙区人工林结构优化调控提供科学依据。
+
+# 1研究区概况
+
+毛乌素沙地位于 $3 7 ^ { \circ } 2 7 . 5 ^ { \prime } { \sim } 3 9 ^ { \circ } 2 2 . 5 ^ { \prime } \mathrm { N }$ $1 0 7 ^ { \circ } 2 0 ^ { \prime }$ 2$1 1 1 ^ { \circ } 3 0 ^ { \prime } \mathrm { E }$ ,海拔 $1 2 0 0 { \sim } 1 6 0 0 \ \mathrm { m }$ ，包括内蒙古自治区鄂尔多斯市的南部、陕西省榆林市的北部风沙区以及宁夏回族自治区盐池县东北部，本研究主要在毛乌素沙地腹地鄂尔多斯市乌审旗乌兰陶勒盖治沙站内进行设样。该地区属于温带半干旱大陆性季风气候,年均温 $6 . 0 { \sim } 8 . 5 ~ \mathrm { ^ { \circ } C }$ ,年均降水量 $2 5 0 { \sim } 4 4 0 ~ \mathrm { m m }$ ，年均蒸发量 $1 8 0 0 { \sim } 2 5 0 0 ~ \mathrm { m m }$ 。土壤类型为典型风沙土，易受风沙的强烈侵蚀而形成粗结构。地貌类型包括固定、半固定、半流动、流动沙丘以及丘间地。该地区植被覆盖度低，种类较少，主要以旱柳(Salixmatsudana）沙地柏(Sabinavulgaris）北沙柳(Salixpsammophila）杨柴(Hedysarumleave)和花棒(Hedys-arumscoparium)等沙旱生植物为主20]
+
+# 2试验样地的选取与方法
+
+# 2.1试验样地的选取
+
+试验选取毛乌素沙地沙柳人工林为研究对象，该试验区于2012年进行平茬，根据已有的研究得出沙柳灌木林平茬后第5a进入生长缓慢期[21]。对试验区域内沙柳的高生长、地径及冠幅进行本底调查。根据沙柳枝条和林龄的关系对不同地径的沙柳进行划分，主要分成了4个径级 $( 2 { \sim } 8 \ \mathrm { m m } \ . 8 { \sim } 1 2$ $\mathrm { m m } , 1 2 { \sim } 1 8 \ \mathrm { m m }$ 和 $> 1 8 ~ \mathrm { m m } ,$ )，在不同径级内选取代表枝条进行连续监测。
+
+# 2.2仪器安装与设定
+
+本研究选取美国Dynamax公司的Flow32包裹式植物液流计对选取的不同径级沙柳枝条液流变化进行测定。测定系统由2个CR1000数据采集器，13条 $1 5 \mathrm { ~ m ~ }$ 长的EXTP-50连接线，13组热量扩散传感器，太阳能板等辅助设备构成。地径不同，选择的传感器规格也不同，测量枝条及其传感器型号参见表1。通过计算机分别将被测枝条的茎干类型、横截面积、探头电压、起始时间、数据记录间隔等参数输入到数据采集器并设置采集数据时间，本研究的数据采集间隔为 $6 0 ~ \mathrm { s }$ 。沙柳枝条液流监测时间为2018年和2019年的6—9月。
+
+# 表1沙柳地径及相应传感器型号
+
+Tab.1DiameterofSalixpsammophila corresponding sensor types   
+
+<html><body><table><tr><td>编号</td><td>直径/mm</td><td>传感器型号</td></tr><tr><td>No.1</td><td>5.36</td><td>SGA5-WS</td></tr><tr><td>No.2</td><td>11.47</td><td>SGA10-WS</td></tr><tr><td>No.3</td><td>9.91</td><td>SGA10-WS</td></tr><tr><td>No.4</td><td>10.09</td><td>SGA10-WS</td></tr><tr><td>No.5</td><td>15.47</td><td>SGA16-WS</td></tr><tr><td>No.6</td><td>17.03</td><td>SGA16-WS</td></tr><tr><td>No.7</td><td>19.05</td><td>SGA19-WS</td></tr><tr><td>No.8</td><td>18.82</td><td>SGA19-WS</td></tr><tr><td>No.9</td><td>11.72</td><td>SGA10-WS</td></tr><tr><td>No.10</td><td>16.17</td><td>SGA16-WS</td></tr><tr><td>No.11</td><td>6.69</td><td>SGA15-WS</td></tr><tr><td>No.12</td><td>22.26</td><td>SGA19-WS</td></tr><tr><td>No.13</td><td>22.87</td><td>SGA19-WS</td></tr></table></body></html>
+
+# 2.3气象因子测定与分析
+
+在试验地安装HOBOU30小型气象站。该气象站监测并采集试验区的气象因子的时间与液流同步，包括大气温度(T)、风速 $( V )$ 、风向 $( F )$ 、降雨量$( P )$ 、太阳辐射强度 $( R )$ 、大气相对湿度 $( R H )$ 、地表温度 $( T _ { d } )$ 等进行测定。每 $3 0 \mathrm { m i n }$ 记录1次数据并进行存储。定义持续高温及其强辐射的天气为晴天，出现降雨事件则为雨天。
+
+为了准确分析不同天气沙柳液流速率的日动态变化，分别选择沙柳完全展叶期时的晴天和雨天。选取3d内无降雨并且太阳有效辐射高的天气为晴天代表，选取白天某时间段有连续降雨过程并且水汽压亏缺较高的天气为雨天代表。因此，选取8月5日为晴天代表天气，7月15日为雨天代表天气，对不同天气情况下树干液流的动态变化进行分析。
+
+# 2.4饱和水气压差(VPD)
+
+饱和水汽压差是指在一定温度下，饱和水汽压与空气中的实际水汽压之间的差值，它表示的是实际空气距离水汽饱和状态的程度，即空气的干燥程度。VPD影响着植物气孔的闭合，从而控制植物蒸腾、光合等生理过程，这对森林生态系统蒸散过程以及水分利用效率有着重要影响。饱和水汽压差(VPD)计算方法为：
+
+$$
+E = \exp \left( { \frac { 1 7 . 2 7 t } { 2 3 7 . 3 + t } } \right)
+$$
+
+$$
+\mathrm { V P D } = 0 . 6 1 0 7 8 E ( 1 - R H )
+$$
+
+式中： $E$ 是饱和空气压力； $R H$ 是相对湿度； $\mathbf { \Phi } _ { t }$ 为空气温度。
+
+# 2.5数据处理
+
+采用 $\operatorname { E x c e l } 2 0 0 7$ 软件对枝条液流数据以及气象因子数据进行处理和绘图；采用SPSS19.0软件中的Pearson相关法和回归分析法对数据进行处理分析。
+
+# 3结果与分析
+
+# 3.1沙柳枝条液流速率的日变化规律
+
+沙柳枝条液流速率白天高于晚上(图1)。径级为 $2 { \sim } 8 ~ \mathrm { m m }$ 的沙柳枝条，5:00时液流启动，9:00左右达到一个较高值，约为 $5 . 3 ~ \mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ ,16:00达到最大值，约为 $6 . 6 \ \mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ ,18:00左右液流速率开始迅速下降，液流速率曲线呈梯形，液流速率在较大值间持续时间较长，在24:00时液流速率出现了短暂的波动，速率为 $4 . 0 \ \mathrm { g \cdot h ^ { - 1 } }$ ;径级为 $8 { \sim } 1 2 ~ \mathrm { m m }$ 的沙柳枝条，液流启动于5:00，在9:00左右达到峰值后开始回落，14:00时液流速率又出现了短暂的波动，20:00时液流速率保持在一个较低水平，在24:00时液流速率出现了短暂的波动，速率为 $1 9 . 9 \ \mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ ;径级为 $1 2 { \sim } 1 8 ~ \mathrm { m m }$ 的沙柳枝条，液流启动于5:00，在12:00时达到了第1次峰值，14:00出现第2个峰值，峰值速率分别为
+
+![](images/d26d7ced55f05cbfd62f33a4d8a508d90ead2de77a023f9f466fc1679a3d4865.jpg)  
+图1不同径级沙柳枝条液流日变化趋势Fig.1Daily variation trend of sap flow in Salixpsammophila brancheswith different diameterclasses
+
+$9 2 . 5 ~ \mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ 和 $9 0 . 9 \ \mathrm { g \cdot h ^ { - 1 } }$ ,随后液流速率开始回落，在21:00时迅速下降并保持在较低数值，在24:00时液流速率出现了瞬时的波动，速率为 $5 0 . 3 9 ~ \mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ ；径级 $> 1 8 ~ \mathrm { m m }$ 的枝条，液流启动于6:00,7:00开始呈飞跃式增加，9:00时到达第1个峰值后稍有回落，14:00出现了第2个峰值，峰值分别为 $1 0 9 . 6 ~ \mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ 和167.1$\mathrm { g } \cdot \mathrm { h } ^ { - 1 }$ ,第2个峰值后液流速率逐渐下降,21:00时迅速下降并保持在较低水平，在24:00时液流出现了瞬时增加，液流速率为 $6 8 9 \ \mathrm { g \cdot h ^ { - 1 } }$ 专
+
+# 3.2不同天气沙柳枝条的液流变化
+
+从图2a可以看出，沙柳枝条液流速率随着径级的增加呈增大趋势，晴天和雨天存在明显差异。晴天条件下，日液流变化从宽峰曲线逐渐变成明显的单峰曲线。雨天条件下，沙柳枝条日液流速率受天气的影响波动较频繁，呈多峰形。径级为 $2 { \sim } 8 ~ \mathrm { m m }$ 的沙柳枝条液流速率最大值雨天高于晴天，8\~12$\mathrm { m m } , 1 2 { \sim } 1 8 \ \mathrm { m m }$ 和 $> 1 8 ~ \mathrm { m m }$ 径级的沙柳枝条液流速率最大值晴天高于雨天。沙柳枝条液流日累积量如图2b,在晴天和雨天中，随着沙柳枝条径级变大，日液流量逐渐增加，晴天大于雨天。
+
+![](images/35b55b99db5a2bc03c8eb8205d1ee2b87f3794a5a7861e4ad3b20f9f39fdc936.jpg)  
+图2不同天气条件下沙柳液流速率及日累积量  
+Fig.2Sap flow rate and daily accumulation of Salix psammophil in different weather conditions
+
+# 3.3沙柳枝条液流速率与主要环境因子的关系
+
+对沙柳枝条液流速率与气象因子进行分析(表2),得出柳枝条液流速率与地表温度、大气温度、太阳辐射、风速和饱和水汽压差均呈极显著正相关关系 $\stackrel { \cdot } { P } < 0 . 0 1 ,$ ,与相对湿度呈极显著负相关关系。由各气象因子的数值可看出，晴天条件下，气象因子对沙柳液流速率的影响高于雨天。晴天条件下，各气象因子对沙柳液流速率的影响程度依次为：太阳辐射 $>$ 大气温度 $>$ 饱和水汽压差 $>$ 相对湿度 $>$ 地表温度 $>$ 风速。雨天条件下，气象因子的影响程度依次为：太阳辐射 $>$ 大气温度 $>$ 相对湿度 $>$ 饱和水汽压差 $>$ 地表温度 $>$ 风速。
+
+# 表2不同天气条件下沙柳液流速率与气象因子的相关系数
+
+Tab.2 Correlation coefficients between sap flow rate and meteorological factors in different weatherconditions   
+
+<html><body><table><tr><td>天气</td><td>径极/mm</td><td>Td</td><td>T</td><td>R</td><td>V</td><td>RH</td><td>VPD</td></tr><tr><td rowspan="3">雨天</td><td>2~8</td><td>0.394**</td><td>0.559**</td><td>0.720**0.337**</td><td></td><td>-0.525**</td><td>0.519**</td></tr><tr><td>8~12</td><td>0.505**</td><td>0.739**</td><td>0.851**0.309**</td><td></td><td>-0.662**</td><td>0.670**</td></tr><tr><td>12~18</td><td>0.551**</td><td>0.745**</td><td>0.783**</td><td>0.443**</td><td>-0.648**</td><td>0.644**</td></tr><tr><td rowspan="5">晴天</td><td>>18</td><td>0.551**</td><td>0.755**</td><td>0.725**0.392**</td><td></td><td>-0.679**</td><td>0.667**</td></tr><tr><td>2~8</td><td>0.610**</td><td></td><td>0.760**0.775**0.532**-0.695** 0.755**</td><td></td><td></td><td></td></tr><tr><td>8~12</td><td>0.429**</td><td>0.710**</td><td>0.891** 0.511** -0.611**</td><td></td><td></td><td>0.661**</td></tr><tr><td>12~18</td><td>0.617**</td><td>0.820**</td><td>0.900**0.604**</td><td></td><td>-0.746**</td><td>0.790**</td></tr><tr><td>>18</td><td>0.732**</td><td>0.848**</td><td>0.820**0.676**</td><td></td><td>-0.782**</td><td>0.827**</td></tr></table></body></html>
+
+注：\*\*表示在0.01水平(双侧)上极显著相关。
+
+回归分析可知(表3)，晴天时大气温度和有效辐射对沙柳液流速率的解释度高于雨天。雨天时相对湿度和饱和水汽压差对沙柳液流速率的解释度高于晴天。晴天条件下，径级 $8 { \sim } 1 2 ~ \mathrm { m m }$ 沙柳枝条液流速率与各气象因子的系数小于其他径级的沙柳枝条。雨天条件下，随着沙柳枝条径级的增加液流速率与各气象因子的系数呈增大趋势。
+
+# 3.4沙柳枝条液流速率与多气象因子的复合分析
+
+多元回归模型能够较好的拟合沙柳液枝条流速率与气象因子的关系， $R ^ { 2 }$ 均大于0.74(表4)。不同天气条件下，饱和水汽压差是控制沙柳枝条液流速率的主要因子。雨天时，大气温度也是影响径级 $2 \sim$ $8 ~ \mathrm { m m }$ 和 $> 1 8 ~ \mathrm { m m }$ 沙柳枝条液流速率的主要因素。
+
+晴天时，风速是控制径级 $2 { \sim } 8 \ \mathrm { m m } , 1 2 { \sim } 1 8 \ \mathrm { m m }$ 和 $>$ $1 8 ~ \mathrm { m m }$ 沙柳枝条液流速率的主要因素，太阳辐射也同时控制径级 $8 { \sim } 1 2 ~ \mathrm { m m }$ 和 $1 2 { \sim } 1 8 ~ \mathrm { m m }$ 沙柳枝条液流速率。径级 $> 1 8 ~ \mathrm { m m }$ 沙柳液流速率也受到大气湿度的影响。
+
+# 4讨论
+
+不同天气情况下，不同径级的沙柳枝条液流速率有明显的差异,晴天沙柳枝条随着径级增加,液流的日变化表现出宽峰曲线-双峰曲线-单峰曲线的变化趋势，这与裴志勇等[22]研究的沙柳枝条液流速率基本呈“几"字形曲线结果相似。白天在11:00—12:00间出现短暂液流回流现象是因为气象因子发生瞬时变化时对植物的液流产生了影响，在干旱区，中午辐射强、气温高，植物为了保护体内水分的剧烈流失会出现气孔暂时的关闭，导致液流减少，出现“午休"现象。在0：00时沙柳的液流速率陡然增大,是因为该时刻沙柳枝条通过液流进行茎干的补水，增加了茎干和叶片水势。沙柳枝条的径级和叶面积越大，蒸腾耗水量越大，从而产生更多的液流。雨天时沙柳枝条液流的日变化波动强烈，平均液流速率变化小于晴天,这与Yue等[23]对灌木林蒸腾耗水特征研究的结果一致，不同的天气情况对树干液流的速率影响不同，由于雨天空气相对湿度较大，太阳辐射强度变小，饱和水汽压差降低，叶片表面的湿润度高或者气孔出现关闭的次数增多，叶片内外的水气交换过程减弱，因此限制了沙柳枝条的蒸腾速率。沙柳枝条径级不同，液流速率也不同，随着径级的增大，沙柳枝条液流速率呈增大趋势，并且晴天和雨天日累计液流量的差值也呈增大趋势，这是因为植物自身的蒸腾耗水是随着叶面积和茎十的增大而逐渐增加，植物的木质部导管和叶片面积是决定植物树干水力输送效率的主要因素[24]。
+
+沙柳枝条液流速率变化与外界的环境因子有密切的关系，不同天气情况下沙柳枝条液流速率与气象因子有很强的相关性，液流速率与地表温度、大气温度、饱和水汽压差、太阳辐射和风速呈极显著正相关关系，与空气相对湿度呈极显著负相关关系，各气象因子综合影响沙柳枝条的蒸腾耗水速率。雨天沙柳枝条液流速率与各个气象因子的关系系数总体高于晴天，说明雨天不受水分胁迫的情况下，气象因子是影响树干液流的主要因子。晴天时径级 $2 { \sim } 8 ~ \mathrm { m m }$ 和 $> 1 8 ~ \mathrm { m m }$ 的沙柳枝条与气象因子的关系系数高于其他径级，雨天时随着径级增加关系系数呈增大趋势，研究显示，径级 $2 { \sim } 8 ~ \mathrm { m m }$ 的沙柳枝条通常属于当年生枝条，对外界干旱胁迫等环境更敏感，径级 $> 1 8 ~ \mathrm { m m }$ 的沙柳枝条属于老林龄枝条，自身生理特性开始衰退，自身抵御环境胁迫的能力减弱，因此环境影响对液流变化的贡献变大[22]。虽然影响树木蒸腾耗水的机制具有复杂性，但不同的环境因子对树干蒸腾耗水的影响力度不同25，雨天沙柳液流速率与相对湿度和饱和水汽压差的拟合度最优，晴天沙柳液流速率与太阳辐射和大气温度拟合度最高。液流速率的与气象因子的多元回归模型复相关系数均在达到一个较高值，可以通过气象因子较好地模拟沙柳枝条的液流速率。
+
+表3不同天气条件下沙柳液流日变化与气象因子的关系模型  
+Tab.3Relationship model between the daily variation of sap flowrateof Salix psammophila and   
+
+<html><body><table><tr><td colspan="6">meteorological factorsunder different weatherconditions</td></tr><tr><td>天气</td><td>径级/mm</td><td>气象因素</td><td>回归方程</td><td>R</td><td>P</td></tr><tr><td>雨天</td><td>2~8</td><td>T</td><td>Y=0.291Ta²-13.663T+160.266</td><td>0.571</td><td>0.000</td></tr><tr><td rowspan="20"></td><td></td><td>T</td><td>Y=0.004T-0.135T+18.531</td><td>0.555</td><td>0.000</td></tr><tr><td></td><td>R</td><td>Y=4.493×10-R-4.506×10-5R²+0.02R+0.424</td><td>0.474</td><td>0.004</td></tr><tr><td></td><td>V</td><td>Y=-0.096V+1.254V-2.595V+1.702</td><td>0.405</td><td>0.014</td></tr><tr><td></td><td>RH</td><td>Y=8.239×10-RH-2.083RH+127.351</td><td>0.846</td><td>0.000</td></tr><tr><td rowspan="5">8~12</td><td>VPD</td><td>Y=-26.535VPD+56.810VPD²-23.759VPD+2.605</td><td>0.811</td><td>0.000</td></tr><tr><td>Td</td><td>Y=0.483T2-17.284T+136.185</td><td>0.432</td><td>0.003</td></tr><tr><td>T</td><td>Y=1.042T-41.534T+414.049</td><td>0.766</td><td>0.000</td></tr><tr><td>R</td><td>Y=1.653×107R+1×10-+R²+0.129R+1.249</td><td>0.652</td><td>0.000</td></tr><tr><td>V</td><td>Y=-2.053V+17.606V-32.712V+14.635</td><td>0.575</td><td>0.001</td></tr><tr><td rowspan="6"></td><td rowspan="6">12~18</td><td>RH</td><td>Y=1×10 RH-9.107RH+574.856</td><td>0.794</td><td>0.000</td></tr><tr><td>VPD</td><td>Y=-141.360VPD?+292.829VPD²-110.013VPD+10.689</td><td>0.852</td><td>0.000</td></tr><tr><td>Td</td><td>Y=0.666T²-18.453T+58.528</td><td>0.645</td><td>0.000</td></tr><tr><td>T</td><td>Y=1.021T-35.931T+311.823</td><td>0.704</td><td>0.000</td></tr><tr><td>R</td><td>Y=3.862×107R-0.001R²+0.271R+6.681</td><td>0.644</td><td>0.000</td></tr><tr><td>V</td><td>Y=-1.855V+18.492V-33.855V+20.888</td><td>0.566</td><td>0.001</td></tr><tr><td rowspan="8"></td><td rowspan="5">>18</td><td>RH</td><td>Y=1×10-RH-9.568RH+658.587</td><td>0.749</td><td>0.000</td></tr><tr><td>VPD</td><td>Y=-259.123VPD?+481.190VPD²-149.290VPD+14.526</td><td>0.814</td><td>0.000</td></tr><tr><td>Td</td><td>Y=3.987Ta²-179.034Ta+1999.456</td><td>0.628</td><td>0.000</td></tr><tr><td>T</td><td>Y=1.830T-65.409T+575.834</td><td>0.624</td><td>0.000</td></tr><tr><td>R</td><td>Y=1.366×10R-0.002R+0.595R+6.992</td><td>0.552</td><td>0.001</td></tr><tr><td>V</td><td></td><td>Y=-3.002V+31.071V-58.411V+32.905</td><td>0.526</td><td>0.002</td></tr><tr><td rowspan="4">2~8</td><td>RH</td><td>Y=0.001RH-27.266RH+1740.160</td><td>0.875</td><td>0.000</td></tr><tr><td>VPD</td><td>Y=-519.910VPD'+1009.793VPD²-363.978VPD+34.370</td><td>0.875</td><td>0.000</td></tr><tr><td>Td</td><td>Y=0.001Ta³-0.017Ta²+5.116</td><td>0.446</td><td>0.002</td></tr><tr><td>T</td><td>Y=0.039T-1.765T+20.271</td><td>0.719</td><td>0.000</td></tr><tr><td rowspan="9"></td><td></td><td>R</td><td>Y=-1.429×10-5R²+0.017R+0.45</td><td>0.793</td><td>0.000</td></tr><tr><td rowspan="5"></td><td>V</td><td>Y=1.22V-4.163V+4.323V+1.269</td><td>0.321</td><td>0.047</td></tr><tr><td>RH</td><td>Y=0.004RH-0.584RH+21.117</td><td>0.678</td><td>0.000</td></tr><tr><td>VPD</td><td>Y=-0.364VPD+2.697VPD²-3.910VPD+2.043</td><td>0.708</td><td>0.000</td></tr><tr><td>Td</td><td>Y=0.002Ta³-0.092T²+36.409</td><td></td><td>0.146</td></tr><tr><td>T</td><td>Y=0.160T-5.462T+49.625</td><td>0.167 0.519</td><td>0.000</td></tr><tr><td>R</td><td>Y=-1.884×10-7R+1×10R²+0.102R+2.661</td><td></td><td></td></tr><tr><td rowspan="7">12~18</td><td>V</td><td>Y=14.756V-55.446V+56.987V+14.112</td><td>0.914</td><td>0.000</td></tr><tr><td>RH</td><td>Y=0.018RH-3.031RH+132.336</td><td>0.186</td><td>0.239</td></tr><tr><td>VPD</td><td></td><td>0.475</td><td>0.001</td></tr><tr><td>Td</td><td>Y=0.771VPD²+11.656VPD-0.604 Y=4.115Ta-88.765</td><td>0.496</td><td>0.001</td></tr><tr><td>T</td><td>Y=0.396T-15.979T+168.795</td><td>0.390</td><td>0.001</td></tr><tr><td>R</td><td></td><td>0.754</td><td>0.000</td></tr><tr><td>V</td><td>Y=1×10R²+0.183R+9.193</td><td>0.866 0.187</td><td>0.000</td></tr><tr><td rowspan="7">>18</td><td>RH</td><td>Y=-17.493V+20.642</td><td></td><td>0.020</td></tr><tr><td>VPD</td><td>Y=0.047RH-7.061RH+273.135</td><td>0.736</td><td>0.000</td></tr><tr><td>Td</td><td>Y=-6.074VPD+40.004VPD²-48.774VPD+23.7142 Y=0.010T-0.376T²+106.963</td><td>0.757 0.614</td><td>0.000</td></tr><tr><td></td><td></td><td></td><td>0.000</td></tr><tr><td>T</td><td>Y=0.016T-0.523T+92.649</td><td>0.821</td><td>0.000</td></tr><tr><td>R</td><td>Y=4.263×10R-0.001R²+0.509R+14.371</td><td>0.761</td><td>0.000</td></tr><tr><td>V</td><td>Y=13.636V-32.108V+32.951V+33.213</td><td>0.415</td><td>0.012</td></tr><tr><td></td><td>RH</td><td>Y=0.084RH-12.24RH+457.489</td><td>0.761</td><td>0.000</td></tr><tr><td></td><td>VPD</td><td>Y=3.896VPD-10.650VPD2+28.711VPD+3.839</td><td>0.809</td><td>0.000</td></tr></table></body></html>
+
+表4不同天气条件下沙柳液流速率与气象因子的多元回归模型  
+Tab.4Multiple regression model of sap flow rate of Salix psammophila and meteorological factors under different weather conditions   
+
+<html><body><table><tr><td>天气</td><td>径级/mm</td><td>回归方程</td><td>R</td><td>P</td></tr><tr><td>雨天</td><td>2~8</td><td>Y=21.157VPD-1.403T+24.252</td><td>0.824</td><td>0.000</td></tr><tr><td></td><td>8~12</td><td>Y=60.592VPD-15.208</td><td>0.790</td><td>0.000</td></tr><tr><td></td><td>12~18</td><td>Y=100.361VPD-19.046</td><td>0.765</td><td>0.000</td></tr><tr><td></td><td>>18</td><td>Y=316.013VPD-16.734T+277.536</td><td>0.859</td><td>0.000</td></tr><tr><td>晴天</td><td>2~8</td><td>Y=2.561VPD-1.343V-0.618</td><td>0.744</td><td>0.000</td></tr><tr><td></td><td>8~12</td><td>Y=0.068R+6.580</td><td>0.773</td><td>0.000</td></tr><tr><td></td><td>12~18</td><td>Y=0.043R+25.935VPD-15.313V-2.933</td><td>0.913</td><td>0.000</td></tr><tr><td></td><td>>18</td><td>Y=102.368VPD+3.358RH-18.844V-296.922</td><td>0.854</td><td>0.000</td></tr></table></body></html>
+
+# 5结论
+
+（1）沙柳枝条液流速率呈明显的昼夜变化，并  
+且有“午休"现象。沙柳枝条液流的日动态变化在  
+不同天气情况下差异明显。晴天条件下，随着沙柳  
+枝条径级的增加液流的日变化特征从宽峰曲线过  
+渡到明显的单峰曲线，并且液流速率呈增大趋势。  
+雨天条件下，沙柳枝条液流速率呈多峰形。(2）沙柳枝条日液流量都随着沙柳枝条径级的  
+变大而增大，相同径级下沙柳日液流量晴天大于雨  
+天，晴天与雨天的差值随着径级增加逐渐变大。(3）沙柳枝条液流速率与大气温度、地表温度、  
+太阳辐射、相对湿度和饱和水汽压差呈极显著正相  
+关关系，与风速呈极显著负相关关系。晴天条件  
+下，随着沙柳枝条径级的增加对气象因子的敏感性
+
+增加。雨天条件下，径级在 $2 { \sim } 8 ~ \mathrm { m m }$ 和 $> 1 8 ~ \mathrm { m m }$ 的沙柳枝条对气象因子更敏感
+
+（4）晴天时沙柳枝条液流速率与气象因子相关性高于雨天。雨天时饱和水汽压差和大气温度对沙柳枝条液流速率影响较大。晴天时对沙柳枝条液流速率影响的气象因子各不相同。
+
+# 参考文献(References):
+
+[1]Swanson R H. Significant historical developments in thermal methods for measuring sap flow in trees[J].Agricultural & Forest Meteorology,1994, 72(1-2): doi: 10.1016/0168-1923(94)90094-9.   
+[2] WullschlegerSD,MeinzerFC,VertessyRA.A review ofwholeplant water use studies in tree[J]. Tree Physiology,1998,18(8-9): doi:10.1093/treephys/18.8-9.499.   
+[3] 于贵瑞,王秋凤.植物光合、蒸腾与水分利用的生理生态学[J]. 核农学报,2010,24(3): 579.[Yu Guirui,Wang Qiufeng.Ecophysiology of plant photosynthesis,transpiration,and water use[J]. Journal of Nuclear Agricultural Sciences,2010,24(3): 579.]   
+[4]蒋高明.植物生理生态学的学科起源与发展史[J].植物生态学 报,2004,28(2): 278-284.[Jiang Gaoming. On the origin and development of ecological plant physiology[J]. Chinese Journal of Plant Ecology,2004,28(2): 278-284.]   
+[5] 洪光宇,王晓江,刘果厚,等.树干液流研究进展[J].内蒙古林业 科技,2020,46(3): 50-55.[Hong Guangyu,Wang Xiaojiang,Liu Guohou, et al. Research progress on stem sap flow[J]. Inner Mongolia Forestry Science and Technology,2020,46(3): 50-55.]   
+[6] 徐世琴，吉喜斌,金博文.典型固沙植物梭梭生长季蒸腾变化及 其对环境因子的响应[J].植物生态学报,2015,39(9):890-900. [ Xu Shiqin, Ji Xibin, Jin Bowen. Dynamics and responses of sap flow of typical sand binding plants Haloxylon ammodendron to environmental variables[J]. Chinese Journal of Plant Ecology,2015, 39(9): 890-900.]   
+[7]王卓,郭月峰,祁伟,等.不同灌水梯度下沙棘液流特征与环境 因子的关系[J].干旱区研究,2020,37(4):1018-1025.[Wang Zhuo,Guo Yuefeng,Qi Wei, et al.Relationship between the characteristics of Hippophae rhamnoides fluid flow and environmental factors under different irrigation gradients[J].Arid Zone Research, 2020,37(4): 1018-1025.]   
+[8]肖怀娟,李娟起,王吉庆,等.亚低温与干旱胁迫对番茄植株水 分传输和形态解剖结构的影响[J].应用生态学报,2020,31(8): 2630-2636.[Xiao Huaijuan,Li Juanqi,Wang Jiqing,et al.Effects of sub-low temperature and drought stress on water transport and morphological anatomy of tomato plant[J]. Chinese Journal of Applied Ecology,2020,31(8): 2630-2636.]   
+[9]赵自国,赵凤娟,夏江宝,等.地下水矿化度对黄河三角洲怪柳 光合及耗水特征的影响[J].自然资源学报,2019,34(12):2588- 2600.[Zhao Ziguo,Zhao Fengjuan, Xia Jiangbao,et al.Efects of groundwater salinity on photosynthesis and water consumption of Tamarix chinensis in the Yellow River Delta[J]. Journal of Natural Resources,2019,34(12): 2588-2600.]   
+[10]Nadezhdina N, Cermak J, Ceulemans R. Radial pattrnsof sap flow in woody stems of dominant and understory species: Scaling errors associated with positioning of sensors[J]. TreePhysiology, 2002,22(13): doi:10.1093/treephys/22.13.907.   
+[11]Russell SC,Brett W,Justin DH,et al. The upscaling of transpiration from individual trees to areal transpiration in tree belts[JJ.Plant and Soil,2007,297(1-2): doi: 10.1007/s11104-007-9420-4.   
+[12] 曹钰,王自奎,沈禹颖.陇东苹果园生草复合体系土壤水分季节 动态[J].干旱区研究,2019,36(1):77-84.[Cao Quan,Wang Zikui, Shen Yuying.Seasonal variation of soil moisture content in appleorchard and grass intercropping system in Longdong[J]. Arid Zone Research,2019,36(1): 77-84.]   
+[13] 徐先英,孙保平,丁国栋,等.干旱荒漠区典型固沙灌木液流动 态变化及其对环境因子的响应[J].生态学报,2008,28(3):895- 905.[Xu Xianying,Sun Baoping,Ding Guodong,et al. Sap flow patterns of three main sand-fixing shrubs and their responses to environmental factors in desert areas[J].Acta Ecologica Sinica, 2008,28(3): 895-905.]   
+[14] 夏桂敏,康绍忠,李王成,等.甘肃石羊河流域干旱荒漠区柠条 树干液流的日季变化[J].生态学报,2006,26(4):1186-1193. [Xia Guimin, Kang Shaozhong,Li Wangcheng,et al. Diurnal and seasonal variation of stem sap flow for Caragana korshinskii on the arid desert region in Shiyang river basinof Gansu[J].Acta Ecologica Sinica,2006,26(4): 1186-1193.]   
+[15] 苏文旭,贾德彬,冯蕴,等.浑善达克沙地杨树水分利用特征[J]. 干旱区研究,2020,37(2):357-363.[Su Wenxu,Jia Debin,Feng Yun, et al.Analysis of water use characteristics of poplar trees in Otindag Sandy Land[J]. Arid Zone Research,2020, 37(2): 357- 363.]   
+[16] 于红博,杨劫,臧春鑫,等.皇甫川流域中国沙棘树干液流日变 化及其相关因子[J].生态学杂志,2008,27(7):1071-1076.[Yu Hongbo,Yang Jie, Zang Chunxin,et al.Diurnal variation of Hip
+
+pophae rhamnoidesL.subsp,sinensis Rousi stem sap flow in Huangfuchuan Basin and related environmental factors[J]. Chinese Journal of Ecology,2008,27(7):1071-1076.] [17] 刘毅,金谦,桂东伟,等.新疆南部矮化红枣树干液流特征及其 对环境因子的响应[J].干旱区研究,2019,36(5):1146-1152. [Liu Yi,Jin Qian,Gui Dongwei,et al. Characteristics of sap flow of dwarf red jujube trees and the response fo environmental factors in South Xinjiang[J].Arid Zone Research,2019,36(5):1146- 1152.]
+
+[18]段广东,苏雅拉巴雅尔,裴志永.毛乌素沙地沙柳人工林经营所 面临的问题及科学的应对措施[J].农家参谋,2019(7):130- 130.[Duan Guangdong, Suyalabayaer, Pei Zhiyong.Problems and scientific countermeasures of Salix psammophila plantation management in Mu Us Sandy Land[J].Adviser of Peasant Families, 2019(7): 130-130.]   
+[19] 陈国鹏,赵文智.毛乌素沙地南缘沙柳(Salix psammophila)丛生 枝年龄结构与动态特征[J].中国沙漠,2015,35(6):1520-1526. [Chen Guopeng, Zhao Wenzhi. Age structure and dynamics of $S a$ lix psammophila branches in southern edge of the Mu Us Sandy Land[J]. Journal of Desert Research,2015,35(6): 1520-1526.]   
+[20] 洪光宇,王晓江,张雷,等.毛乌素沙地杨柴茎流速率动态研究 [J].内蒙古林业科技,2018,44(4): 37-40.[Hong Guangyu, Wang Xiaojiang, Zhang Lei,et al.Dynamic study on stem sap flow rate of Hedysarum fruiacosum var. mongolicum in Mu Us Sandy Land [J].Inner Mongolia Forestry Science and Technology，2018,44 (4): 37-40.]   
+[21] 海龙,王晓江,张文军,等.毛乌素沙地人工沙柳(Salix psammophila)林平茬复壮技术[J].中国沙漠,2016,36(1):131-136. [Hai Long, Wang Xiaojiang, Zhang Wenjun, et al. Stumping rejuvenation technology of Salix psammophila artificial shrubbery in the Mu Us Sandy Land[J]. Journal of Desert Research,2016,36 (1): 131-136.]   
+[22] 裴志永,郝少荣,乔敬伟,等.毛乌素沙地沙柳枝条茎流特征[J] 生态环境学报,2019,28(1): 48-56.[Pei Zhiyong,Hao Shaorong, Qiao Jingwei,et al. Characteristics of stem flow of Salix psammophila's branch in Mu Us Sand Land[J]. Ecology and Environment Sciencees,2019,28(1): 48-56.]   
+[23] Yue Guangyang, Zhao Halin, Zhang Tonghui,et al. Evaluation of water use of Caragana microphylla with the stem heat-balance method in Horqin Sandy Land,Inner Mongolia, China[J].Agricultural & Forest Meteorology,2008,148(11):1668-1678.   
+[24]Xu Xiaoyan,Tong Ling,Li Fusheng, etal. Sap flow of irrigated Populus alba var.pyramidalis and its relationship with environmental factors and leaf area index in an arid region of Northwest China[J]. Journal ofForest Research,2011,16(2): doi:10.1007/ s10310-010-0220-y.   
+[25] 吴芳,陈云明,于占辉.黄土高原半干旱区刺槐生长盛期树干液 流动态[J].植物生态学报,2010,34(4):469-476.[Wu Fang, Chen Yunming,Yu Zhanhui. Growing season sap-flow dynamics of Robinia pseudoacacia plantation in the semi-arid region of Loss Plateau, China[J]. Chinese Journal of Plant Ecology,2O10,34(4): 469-476.]
+
+# Characteristics of Salix psammophila sap flow and its response to environmental factors in Mu Us Sandy Land
+
+HONG Guangyu1²， WANG Xiaojiang²， LIU Guohou'， ZHANG Lei, GAO Xiaowei², LI Zhuofan²， LIU Tieshan²， LIU Chenming²， LI Zihao² (1.College ofGrassland,ResourcesandEnvironment,InnerMongoliaAgricultural University,HohhotOo,Inner Mongolia,China; 2.Inner Mongolia Forestry Research Institute,Hohhot O1O0l0,Iner Mongolia, China)
+
+Abstract:The sap flow pattern of Salix psammophila branches with diferent diameters Was monitored long-term in the Mu Us Sand using a Flow32-1K wrapped heat balance sap flow meter. Additionally,the relationship between the sap flow of S.psammophila branches and the meteorological changes of the experimental plots was explored.With the increase in the diameter grade of branches,the diurnal variation of sap flow changed from a broad peak curve to an apparent single peak curve,and the sap flow rate showed an increasing trend. Weather conditions substantially influence sap flow,and the fluctuation of the sap flow rate on rainy days was severe, showing an obvious multi-peak curve. Otherwise,the change in the liquid flow rate on sunny days showed an evident bimodal curve.The mean sap flow rate on rainy days was lower than that on sunny days.With the increase in the diameter grade ofbranches,the difference ofthe cumulative sap flow rate between sunny days and rainy days gradually increased.Additionally,the sap flow rate showed a significant positive correlation with surface temperature,atmospheric temperature,saturated water vapor presure,solar radiation,and wind speed, and it was negatively correlated with air relative humidity. On rainy days,saturated water vapor pressure and relative air humidity had a substantial influence on the sap flow rate.However,on sunny days,solar radiation was an important influence factor on sap flow rate. Based on the monitoring of the sap flow rate of branches and the transpiration consumption characteristics of the S.psammophila community，our study informs the rational utilization of water resources and the optimal control of community structure of S. psammophila.
+
+Keywords: Flow32-1K; Salix psammophila; sap flow; meteorological factors; Mu Us Sandy Land

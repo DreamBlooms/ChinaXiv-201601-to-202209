@@ -1,0 +1,633 @@
+[
+    {
+        "type": "text",
+        "text": "Taqman定量PCR技术检测基因编辑番茄中外源基因拷贝数体系的建立",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任爽 朱鸿亮\\*\\*（中国农业大学食品科学与营养工程学院，北京100083）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要近些年CRISPR/Cas9 基因编辑技术已广泛应用于作物遗传育种中，经过拷贝数筛选得到的单拷贝基因编辑株系，可以进行遗传分离获得具有改良性状但不携带外源基因成分的非转基因植株，消除转基因安全性的风险。目前拷贝数的检测主要采用Southem杂交，但是该方法存在操作复杂，需要相对大量的植物材料等缺点，不能进行高通量的筛选。为建立简便高效的基因编辑番茄植株中外源基因拷贝数的检测体系，以内源性基因APX（抗坏血酸过氧化物酶基因）作为内参基因，外源性基因HPT（潮霉素磷酸转移酶基因）作为目的基因，利用Taqman法的实时荧光定量PCR技术，检测有12株PDS基因（八氢番茄红素脱氢酶基因）编辑番茄中外源抗性基因HPT的拷贝数为1,初步建立了一种检测基因编辑植株中外源基因整合拷贝数的方法，为快速可靠的筛选单拷贝改良株系奠定了一定的技术基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 实时荧光定量 PCR Taqman 探针 CRISPR/Cas9 基因编辑番茄 拷贝数中图分类号 Q786",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Establishment of Taqman Quantitative PCR System to Estimate Copy Numbers of Exogenous Transgene in Genome Edited Tomato ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REN ShuanglZHU Hong-liang (College OfFood Science And Nutritional Engineering, China Agricultural University,Beijing l0o083,China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Recently, CRISPR/Cas9 genome editing technology has been broadly utilized to crop breeding. Genome-edited but transgene-free plants can be segregated away from ${ \\mathrm { T } } _ { 0 }$ transgenic plants by Genetic separation, which willeliminate the risk of transgenic safety. Copy numbers of transgene which has been integrated into the transformed plant genome is a critical factor afecting the genetic separation of the offspring. Copy numbers are currently obtained by Southern blot analysis,but this method is complicated and requires relatively large amounts of plant materials.As to avoid these shortcomings,Real-time Fluorescent Quantitative Polymerase Chain Reaction provides a new solution.The endogenous ascorbate peroxidase (APX) is selected as reference gene.The exogenous hygromycin phosphortransferase (HPT) is selected as target gene.With the Taqman RT-PCR conditions,one copy Was significantly estimated in the 12 Genome edited tomatos of slyPDS (Phytoene desaturase). Initially,a sensitive and efficient detection system is developed for estimating copy number in genome edited tomato, which laid a foundation for the rapid and reliable screening of improved crops. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key wordsReal-time Fluorescent Quantitative PCRTaqman probe CRISPR/Cas9 genome edited tomatocopy number ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年基因编辑技术得到了飞速发展[Il，成簇规律间隔的短回文重复序列相关核酸酶9 系统（clustered regularly interspaced short palindromic repeats/CRISPR-associated 9,CAS9）[2]作为组装简便、高效精准的基因组编辑技术，已迅速应用于非转基因作物定向育种中，在运用该技术定点修饰获得有利的农业性状后，需要对大量 ${ { \\mathrm { T } } _ { 0 } }$ 代转基因植株进行高通量的转基因拷贝数鉴定，对筛选到的单拷贝杂合型转化子传代分离，经过分子选择，最终获得只含有靶位点编辑而不含转基因片段的精准遗传改良株系[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前外源基因整合拷贝数的检测主要采用 Southern 印迹杂交（Southern blot）[4]，同时反义PCR（Inverse PCR）[5]、微滴式数字PCR（DropletDigital PCR）[6]、多重连接探针扩增技术（Multiplex Ligation-dependent Probe Amplification,MLPA）[7]、微阵列（Microarray）[8]等方法也可用于拷贝数的分析，传统 Southern blot存在操作复杂、价格昂贵、需要相对大量的实验材料和试剂仪器、甚至需要使用到放射性同位素等缺点[9]-[10]，而且也有文献证实 Southerm blot 对于发生重排的外源基因检测不够准确[1]，其他新方法也都因价格昂贵、操作复杂难以广泛应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来实时荧光定量 PCR 技术（Real-time Fluorescent Quantitative Polymerase ChainReaction,qPCR）为拷贝数检测提供了新方法[12]，实时检测荧光量的变化，获得不同样品达到一定荧光信号时所需的循环次数Cr值[13]，进而通过计算对模板进行准确定量[14]。其优点有：可以对 20pg-10ng 的转基因成分进行有效监测[15]、花费试剂仪器少、节省劳力和时间[16]；还可对外源基因的不同序列进行扩增，实现对基因重组的检测[17]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "qPCR最常用的是非特异性荧光染料法（如 SYBRGreen）或特异性荧光探针法（如Taqman 探针）[13]，荧光染料法简便易行、成本低，但因是利用染料或特殊设计的引物来指示扩增的增加，其特异性受到质疑[18]，而Taqman 探针法是利用与靶序列特异杂交的探针进行指示，特异性高[19]，反应结束后也不需要进行寡核苷酸融解曲线分析，缩短",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "了实验时间[20]-[22]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "qPCR已成功应用于多种植物外源基因拷贝数的检测中，例如：小麦（Triticumaestivum）[23]、番茄（Solanum lycopersicum）SYBR Green I法[9]、大豆（Glycine max）[24]-[26]、棉花（Anemone vitifolia Buch）[27]、水稻（Oryza sativa）[1]等等。番茄作为重要的转基因受体植物，虽然Mason[28]在 2002 年就采用了Taqman qPCR 的方法来检测转基因番茄的外源基因整合拷贝数，但该方法计算较繁琐，有待改进，而且针对基因编辑番茄材料的检测研究报道较少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究利用Taqman qPCR技术，以PDS基因CRISPR/Cas9 编辑番茄植株作为实验材料，选择内源性基因APX为内参基因，外源性基因HPT为目的基因，根据Cr值与起始模板量对数值的反比线性关系，对目的基因、内参基因模板数进行比较得出植株中HPT基因的拷贝数，初步建立一种检测基因编辑植株中外源基因的整合拷贝数的方法，为获得非转基因植株奠定一定的技术基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 1 实验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 1. 1 生物材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CRISPR/Cas9基因编辑PDS系列番茄植株，培育于中国农业大学实验室，该系列是通过农杆菌介导的植物转化方法将植物表达载体pYLCRISPR/Cas9-PDS转入到番茄中，载体的构建过程如下：首先，通过第一轮PCR将每个靶序列连接到相应的 sgRNA表达盒中，再进行二轮PCR扩增片段以及诱导靶向的BsaI限制性酶切位点，然后通过GoldenGate ligation连接方法边切边连,在一轮克隆中将表达盒装配到pYLCRISPR/Cas9双元载体中[29]。其质粒载体图如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/25267f29d2f643be4a582425e17451f46ed5d2498c6f934468f6048579544277.jpg",
+        "img_caption": [
+            "图1PDS基因编辑植物表达载体",
+            "Fig.1 The recombinant expression plasmid of Genome editing of slyPDS "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 1. 2 试剂与仪器",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CTAB 手提法提取DNA所用的CTAB、酚、氯仿、异戊醇、乙醇、异丙醇等试剂均购于畅华志诚；实时荧光定量 PCR 的 Mix 为 AQ401 Transtart Probe qPCR SuperMix购于 Transgen 公司；普通 PCR试剂： $2 \\times$ EasyTaq PCR SuperMix、DL2000 DNA Marker 购于Transgen 公司;酶切试剂:EcoRI-HF、HindII-HF、CutSmart Buffer均购于New EnglandBiolabs 公司；引物和探针均由北京生工生物技术有限公司合成；PCR仪T100 ThermalCycler 购于 Bio-Rad；实时定量 PCR 仪 CFX96 Real-Time Syatem C1000 Thermal Cycler购于Bio-Rad。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 2 方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 2. 1 转基因番茄DNA的提取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用CTAB手提法提取转基因番茄基因组DNA，DNA提取情况由琼脂糖凝胶电泳及微量分光光度计检测确定， $- 2 0 ^ { \\circ } \\mathrm { C }$ 保存。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 2.2 引物和探针的设计与合成",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "APX 的探针和引物[28]、HPT的探针[11]来自于文献中，HPT基因的引物用PerlPrimer软件根据HPT基因序列进行设计，由北京生工生物技术有限公司合成，探针5’端标记FAM基团，3’端标记Elipse基团，其核苷酸序列、扩增长度见表1和2。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7d0082f2d31a97f9e73d0cb3726adf73e2745dcd1c98ae14b9e1271ef5606eee.jpg",
+        "table_caption": [
+            "Table1Primer pairs and probes for real-time quantitative PCR ",
+            "表2Taqman real-time PCR 探针序列"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名称</td><td>引物方向</td><td>引物序列(5'-3')</td><td>引物位置</td><td>扩增长度</td></tr><tr><td>APXF</td><td>正向引物</td><td>TTTTACTTGTATATTCGAAGTGTGCCA</td><td>2817-2843bp</td><td>93bp</td></tr><tr><td>APXR</td><td>反向引物</td><td>ACAACTGCAAAATTAGAATCTAGTTGGTA</td><td>2881-2909bp</td><td></td></tr><tr><td>HPTF</td><td>正向引物</td><td>GTACACAAATCGCCCGCAG</td><td>917-935bp</td><td></td></tr><tr><td>HPTR</td><td>反向引物</td><td>TCTATTTCTTTGCCCTCGGAC</td><td>1007-1027bp</td><td>111bp</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a52099cd326005e60884ac5a296a4d1a5c856c8ba7437668e57d6e11724b029.jpg",
+        "table_caption": [
+            "表1Taqman real-time PCR 引物序列",
+            "Table2Probes forreal-time quantitative PCR "
+        ],
+        "table_footnote": [
+            "1. 2.3 PDS系列转基因番茄植株APX和HPT基因检测"
+        ],
+        "table_body": "<html><body><table><tr><td>名称</td><td>探针序列(5-3')</td><td>探针位置</td></tr><tr><td>APXP</td><td>TTTCACCTATCTGGACCAAGTTTTGGCAAG</td><td>2845-2874bp</td></tr><tr><td>HPTP</td><td>CGCCGATAGTGGAAACCGACGCCC</td><td>975-998bp</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已优化的 $2 0 \\mu \\mathrm { L }$ 反应体系：10的茄2的茄植株bix；1植株正向引物；1引物反向引物；适量DNA模板；灭菌水将体积补齐至 $2 0 ~ \\mu 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已优化的扩增反应条件： $9 4  { \\mathrm { ~ \\circ ~ } } _ { \\mathrm { C } } 3  { \\mathrm { ~ m i n } }$ ; $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 30 s，58 ℃ 30s，72 ℃ 20 s，30个循环。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.4 标准品的制备",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选择基因编辑番茄植株DNA溶液作为标准品，根据其DNA浓度和长度计算该模板的copies/ $ { ' }  { \\mu \\mathrm { L } }$ 值后，依次进行系列梯度稀释，至少有4个梯度，以便更好的进行标准",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "曲线的绘制。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2.5 TaqmanqPCR检测HPT拷贝数",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$2 0 \\mu \\mathrm { L }$ qPCR反应体系： $1 0 ~ \\mu \\mathrm { L }$ Transtart Probe qPCR SuperMix; $0 . 4 ~ \\mu \\mathrm { L }$ 正向引物; $0 . 4 ~ \\mu \\mathrm { L }$ 反向引物； ${ 0 . 4 \\ \\mu \\mathrm { L } }$ 探针； $1 \\mu \\mathrm { L D N A }$ 模板；灭菌水将体积补齐至 $2 0 \\mu \\mathrm { L }$ 。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "扩增反应条件（两步法）： $9 4 ^ { \\circ } \\mathrm { C }$ 30s， $9 4 ^ { \\circ } \\mathrm { C }$ 5s， $6 0 ^ { \\circ } \\mathrm { C }$ 30s，共45个循环。每个试样做3个平行，重复试验3次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.2. 6 标准曲线的构建",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因目的基因qPCR反应后达到荧光阈值时的模板量为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { T } = X _ { 0 } \\ X ( 1 + E _ { X } ) ^ { C _ { T , X } } = K _ { X }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $X _ { \\mathrm { T } }$ 是扩增目的基因后荧光达到阈值时的目的基因分子的量；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$X _ { 0 }$ 是起始目的基因分子的量；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ex是PCR反应效率；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { C } _ { \\mathrm { T } , \\mathrm { X } }$ 是目的基因分子扩增使荧光信号到达阈值时的循环数;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { K _ { X } }$ 在公式中表示一个常数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "而该公式两边同时取对数整理后得到：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { l g X _ { o } = l g K _ { x } - C _ { T , X } \\ X l g \\ ( 1 + E _ { X } ) } \\mid\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从该式可以看到 $\\mathsf { C } _ { \\mathrm { T } , \\mathrm { X } }$ 与该模板的起始拷贝数 $\\mathrm { \\cdot } \\mathrm { x } _ { 0 }$ 的对数值存在线性关系，起始模板数越多，Cr值越小，以此可以建立目的基因的标准曲线。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同理，内参基因的定量PCR反应的公式是：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { T } = R _ { 0 } \\times ( 1 + E _ { R } ) ^ { C _ { T , R } } = K _ { R }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "内参基因的标准曲线为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { l g R o = l g K _ { R } - C _ { T , R } \\ X l g \\left( 1 + E _ { R } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所以通过qPCR程序得到标准品的 $\\mathrm { C _ { T } }$ 值和扩增曲线，根据不同拷贝数标准品的 $\\mathrm { C _ { \\mathrm { { T } } } }$ 值为纵坐标，拷贝数的自然对数（Log startingquantity）为横坐标绘制标准曲线，分别得到目的基因和内参基因的标准曲线和线性方程。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. 2. 7 转基因拷贝数的计算",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "每一个被检测样本在达到阈值时都有一个循环数 $\\mathrm { C _ { T } }$ ，将 $\\mathrm { C _ { \\mathrm { T } } }$ 值代入标准曲线中得到该样本的起始模板量，目的基因与内源基因起始模板量的比值即是目的基因的拷贝数，即 $\\mathrm { X } _ { 0 } / \\mathrm { R } _ { 0 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "标准品可以选择质粒溶液，但因番茄为双倍体植物，番茄单倍体基因组中APX是单拷贝的，所以以质粒作为标准品的时候， $\\mathrm { X } _ { 0 } / \\mathrm { R } _ { 0 }$ 值 $\\times 2$ 才为目的基因在该植株基因组中的拷贝数[]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1基因编辑植株表型",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基因编辑番茄的植株表型结果见图2，图2A为野生型的正常植株，叶片翠绿，而图2B为利用CRISPR/Cas9技术进行基因编辑后的植株，组织基本呈白色，通过植株的表型可以进一步确定实验样本均为表型明显的基因编辑植株。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7159d9ed2420407d4ab4e57a2df683b6f41abf32823aa535023be22195c254d3.jpg",
+        "img_caption": [
+            "图2基因编辑植株中的白化表型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Typical albino phenotypes of the genome edited AC lines regenerated from callus. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A：正常愈伤组织 B：白化表型愈伤组织A: normal callus B: typical albino callus",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2Cas9蛋白基因检测结果",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对基因编辑番茄DNA进行Cas9 蛋白基因的检测，目的扩增基因片段长度为536bp,电泳结果如图3， $3 { \\sim } 1 4$ 泳道为PDS系列转基因实验材料，特异性条带单一且扩增条带大小一致，进一步确定所用的转基因植株为CRISPR/Cas9技术进行基因编辑后的植株。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/da993fc3709c62301cbf4440d221c02ee4722b378fb11cf6b8ad2509248e68cc.jpg",
+        "img_caption": [
+            "图3Cas9基因PCR检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1：2000bp DNAMarker 2：阴性对照：野生型植株 $3 \\sim 1 4$ ：PDS系列转基因实验材料  \n1：2000bp DNA Marker 2：Negative control,WT $3 \\sim 1 4$ ：The PDS transgenic lines",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3目的基因HPT检测结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HPT基因PCR检测结果如图4， $5 { \\sim } 1 6$ 泳道为PDS系列转基因实验材料，结果显示实验材料DNA扩增均呈阳性，特异性条带单一，且扩增条带大小应为111bp，与电泳图中显示的大小相符，证明样本植株均为转基因植株，可以用于后续的实验。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/224b8d0ae1e5bfb3730fcd01d1ebee26bc47174649348b9345e062c8c99a91d4.jpg",
+        "img_caption": [
+            "Fig.3 PCR identification of Cas9 gene ",
+            "图4HPT基因PCR检测",
+            "Fig.4PCRidentification ofHPT gene "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1：2000bp DNAMarker 2：空白对照，水 3：阴性对照，野生型植株4:阳性对照，质粒 $5 \\sim 1 6$ ：PDS系列转基因实验材料  \n1：2000bp DNA Marker 2：Blank control,water 3：Negative control,WT 4:Positive control, plasmid $5 \\sim 1 6$ ：The PDS transgenic lines",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4内参基因APX检测结果",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "APX基因PCR检测结果如图5， $4 { \\sim } 1 5$ 泳道为PDS系列转基因实验材料，结果显示",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实验材料DNA扩增均呈阳性，特异性条带单一，且其扩增条带大小93bp，与电泳图中显示的大小相符，证明内源基因APX的可靠性，为后续实验奠定了基础。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/84306daf448a49626939af0646ab16fc3b687856a450a945b3eb0dc9fe61dcf2.jpg",
+        "img_caption": [
+            "图5APX基因PCR检测",
+            "Fig.5PCRidentificationofAPX gene "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1：2000bp DNAMarker2：空白对照，水 3：阴性对照，野生型植株 $4 \\sim 1 5$ ：PDS系列转基因实验材料  \n1：2000bp DNA Marker 2：Blank control,water3：Positive control,WT $4 \\sim 1 5$ ：The PDS transgenic lines",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.5APX和HPT标准曲线",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "标准品是得到标准曲线的前提，对于标准品，首先要求纯度高，其次因起始模板量越高，结果的重复性越差，所以起始模板量不宜太高，使其满足 $\\mathrm { C _ { T } }$ 值在 $1 5 { \\sim } 3 0$ 之间，且 $\\mathrm { C _ { \\mathrm { T } } }$ 值范围要覆盖所有待测样品所测量的 $\\mathrm { C _ { \\mathrm { { T } } } }$ 值。基于标准品DNA所做的标准曲线是定量分析的关键，内参基因的标准品可以选择非转基因植株的DNA，也可以选择转基因植株的DNA，外源基因则可以选择转基因植株的DNA 或质粒溶液，但 Song 等[30]认为，理想的标准品应是用 Southem杂交已准确测得插入外源基因拷贝数的植物基因组DNA。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在通过线性方程计算外源基因拷贝数之前，需要通过线性相关系数 $R ^ { 2 }$ 和扩增效率 $E$ 来验证标准曲线的正确性。 $R ^ { 2 }$ 大于0.98时才能表明标准曲线可靠可用，同时根据公式$\\scriptstyle { I + E = I 0 ^ { - I / S } }$ （S 是Slope，即标准曲线的斜率）计算出扩增效率 $\\mathrm { E } ^ { [ 1 2 ] }$ ，扩增效率与很多因素有关，例如引物的好坏、标准品的纯度浓度等等，当扩增效率为 $100 \\%$ 时，斜率等于-3.32，实际上，-3.743至-3.008范围之间的斜率都是可以接受的[31]，即扩增效率为0.85至1.15，从而保证qPCR实验的准确性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HPT和APX基因扩增曲线与标准曲线示例如图6、7，扩增曲线呈一组间距相等的平行曲线，扩增重复性良好；3个技术重复之间基本重合，实验重复性良好；标准曲线得到的 $R ^ { 2 }$ 在 $0 . 9 8 8 2 { \\sim } 0 . 9 9 9 0$ 之间，相关性良好；斜率在 $3 . 1 0 4 4 { \\sim } { - 3 . 5 1 8 4 }$ 之间，扩增效率良好，可以进行拷贝数的计算。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/77174a56eb1f32a69cf56370872b27cf2af6b78d2c68e49d2d2e2cebc206efea.jpg",
+        "img_caption": [
+            "图6HPT标准曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f59ec1022b089550fc9d2a32a6c141c870890567c664436f6a5ee89fd533487.jpg",
+        "img_caption": [
+            "Fig.6Standard curveof HPT gene ",
+            "图7APX标准曲线",
+            "Fig.7Standardcurveof APX gene "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.6TaqmanqPCR检测目的基因HPT拷贝数",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TaqmanqPCR检测基因编辑番茄植株，重复实验3次，结果显示有12株番茄植株的拷贝数为1，通过实验筛选到了靶基因PDS编辑效果显著且单拷贝的转基因植株，后续可以将其用于非转基因遗传育种中，运用分离的方法得到只含有靶位点编辑而不含转基因片段的精准遗传改良株系。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table3 Estimation of copy number in transgenic tomato under HPT gene ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3105444439a113c28fe0972c89d585cd2a73cf30d676747e82b028e5d0349a7.jpg",
+        "table_caption": [
+            "表3转基因植株中HPT基因的拷贝数计算结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样本名称</td><td>拷贝数 (重复1)</td><td>拷贝数(重复2)</td><td>拷贝数(重复3)</td><td>拷贝数结果</td></tr><tr><td>PDS-1</td><td>1.01</td><td>0.97</td><td>0.99</td><td>1</td></tr><tr><td>PDS-2</td><td>1.05</td><td>1.15</td><td>0.87</td><td>1</td></tr><tr><td>PDS-3</td><td>1.06</td><td>1.19</td><td>0.90</td><td>1</td></tr><tr><td>PDS-4</td><td>0.95</td><td>1.04</td><td>0.82</td><td>1</td></tr><tr><td>PDS-5</td><td>1.08</td><td>1.12</td><td>0.92</td><td>1</td></tr><tr><td>PDS-6</td><td>1.20</td><td>1.19</td><td>1.01</td><td>1</td></tr><tr><td>PDS-7</td><td>0.91</td><td>0.88</td><td>0.94</td><td>1</td></tr><tr><td>PDS-8</td><td>1.03</td><td>1.09</td><td>1.01</td><td>1</td></tr><tr><td>PDS-9</td><td>1.09</td><td>1.02</td><td>1.09</td><td>1</td></tr><tr><td>PDS-10</td><td>1.02</td><td>0.98</td><td>0.97</td><td>1</td></tr><tr><td>PDS-11</td><td>1.14</td><td>1.10</td><td>1.12</td><td>1</td></tr><tr><td>PDS-12</td><td>1.08</td><td>1.05</td><td>1.08</td><td>1</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1TaqmanqPCR技术建立可靠的拷贝数检测体系",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本研究以基因编辑番茄为材料发现，利用TaqmanqPCR技术检测的CRISPR/Cas9转基因番茄 HPT拷贝数结果，与杨立桃、魏鹏程等人用 Taqman 方法检测的转基因水稻外源基因HPT拷贝数的结果十分接近。从DNA 提取、引物和探针的设计、实时定量PCR 体系及反应参数、平行实验之间的重复性、数据处理等方面环环控制实验，建立了一种利用 Taqman 实时荧光定量PCR 检测基因编辑番茄植株外源基因拷贝数的方法。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "实验证明这种方法可以在早期高通量进行有研究价值植株的筛选和鉴定，一般转基因植物的愈伤组织经过筛选分化后的苗细弱且生育期较长,不适宜大量取材来提取DNA进行 Southem blot，以至于不能及早进行拷贝数检测，而Taqman实时荧光定量PCR解决了传统方法费时费力、浪费实验材料、所用仪器多的缺点，在早期筛选到遗传稳定的单拷贝基因编辑植株，而后对精准改良的转基因植株进行自交或回交，分离出只含有靶位点编辑而不含转基因片段的遗传改良株系。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "众所周知，转基因作物的食品安全性和环境安全性问题，主要来自导入植物体内的外源目的基因和标记基因，而获得的品种中不含有人工分离和修饰过的外源DNA，该育种方法改变的是基因序列与传统自然诱变相同，得到的是非转基因作物，所以在定向改良作物的同时，还消除了转基因安全性的风险，在作物育种中具有良好的应用价值。在应用非转基因作物育种时很重要一个前提就是获得单拷贝的基因编辑植株，高通量的Taqman 实时荧光定量PCR筛选方法推动了高效的非转基因作物育种工作。但实验设计也有一点不足的地方，如用 Southem blot进行二次验证可以更有效的对该体系进行评估。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2优化反应体系和反应条件",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "影响反应重复性较为关键的因素就是其扩增效率，为了使反应体系达到最佳扩增效率，可以进行反应体系和条件的优化，即调整引物和探针的浓度、目的基因的初始浓度纯度等等。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "若引物浓度太低，会致使反应不完全；引物浓度太多，则会发生错配而且产生非特异性产物的可能性大大增加；若探针浓度太低，荧光信号较弱；探针浓度太高，会影响信噪比[13]。其优化的过程一般是通过一系列梯度浓度的探针和引物的正交预实验来确定两者的相对量，而每一个体系中，可以产生最高荧光信号和最低 $\\mathrm { C _ { T } }$ 值的引物和探针的最低浓度，即为最佳的引物和探针浓度。本研究中对杨立桃文献中的反应体系进行改进，将反应体积缩小为 $2 0 { \\mu \\mathrm { L } }$ ，引物浓度从 $5 0 0 \\mathrm { n m o l / L }$ 调整为 $2 0 0 \\mathrm { n m o l / L }$ ，将探针浓度从300nmol/L调整为 $2 0 0 \\mathrm { n m o l / L }$ ，既节省了试剂又保证了反应的灵敏度以及较好的扩增效率；因为扩增片段较短，仍选择两步法扩增，扩增条件将循环数降低为30个，防止信号放大引起信噪比的增大和非特异性扩增。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "对于样品，首先要保证其纯度，DNA提取过程中的氯仿：异戊醇的反复抽提有助于提高样品纯度，其次因初始拷贝数越高，结果的重复性越差，所以初始拷贝数不宜太高并使其满足 $\\mathrm { C _ { T } }$ 值在 $2 0 { \\sim } 3 5$ 之间，若小于20需稀释选择更低的样品浓度，若大于35需浓缩选择更高的样品浓度。以本研究中的样品为例，实验结果发现起始拷贝数在$1 0 ^ { 6 } – 1 0 ^ { 3 }$ 个 $/ \\mu \\mathrm { L }$ 之间时，数据具有较好的线性关系以及扩增效率，超出这一范围时实时定量反应的灵敏度有所下降，这时如果标准样品按4个10倍梯度进行稀释而超过这一范围时，可以通过5个标准品5倍梯度稀释的方法来改进优化。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究以CRISPR/Cas9基因编辑番茄为材料，选择抗性基因HPT为外源目的基因，选择番茄单拷贝基因APX作为内源参照基因，利用Taqman 实时定量PCR技术建立一种外源基因拷贝数的检测体系。结果表明该体系是一种快速可靠的方法，为检测基因编辑植株中外源基因的整合拷贝数提供了有效手段，避免了传统Southem杂交方法费时费力、需要样品多的缺点，可以借此高通量筛选出单拷贝的CRISPR/Cas9基因编辑植株，并更好的进行下一步非转基因遗传育种工作，分离得到无转基因片段的改良作物品种，在遗传育种领域十分有意义。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]周想春，邢永忠.基因组编辑技术在植物基因功能鉴定及作物育种中的应用．遗传,2016,38(3):227-242. Zhou X C, Xing Y Z.The application of genome editing in identification of plant gene function and crop breeding. Hereditas,2016,38(3): 227-242. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[2] 曾秀英，侯学文.CRISPR/Cas9 基因组编辑技术在植物基因功能研究及植物改良中的应用．植物生理学报,2015, (9): 1351-1358.   \n[3]魏鹏程，杨剑波，李浩，等．一种主要农作物非转基因的基因组定向分子改良方法和应用．安徽,CN103555711A, 2014.   \n[4] 李敏，汪洋，张银萍，等.TaqMan探针与 SYBR Green 实时定量 PCR 法检测转基因植物外源基因拷贝数的差异分 析．安徽农业大学学报,2012,(4): 568-570. LI M, Wang Y,Zhang YP, et al. Variance analysis between TaqMan probe and SYBR Green real-time quantitative PCR for determining thecopy number of ransgene in transformed plants.Journal ofAnhui Agricultural University,2012,(4): 568-570.   \n[5]StefanoB,Patrizia B,Mateo C,et al.Inverse PCR and QuantitativePCR as Alternative Methods to SoutherBlotting Analysis to Assess Transgene Copy Number and Characterize the Integration Site in Transgenic Woody Plants. Biochemical Genet, 2016, 54(3): 1-15.   \n[6] Xu X,Peng C, Wang X,et al. Comparisonof droplet digital PCR withquantitative real-time PCR for determination of zygosity in transgenic maize. Transgenic Res, 2016, 25(6): 855-864.   \n[7] Schouten JP,Mcelgunn C J, Waaijer R, et al. Relative quantification of 40 nucleic acid sequences by multiplex ligation-dependent probe amplification. Nucleic Acids Res, 2002, 30(12): e57.   \n[8]Carter NP.Methods and strategies foranalyzing copy number variation using DNA microarrys.Nat Genet,207,39(7 suppl): S16-S21.   \n[9] 苏慧慧，李涛，谢雯琦，等．基于实时荧光定量PCR 对转基因樱桃番茄外源基因拷贝数的检测．分子植物育种, 2015, 13(2): 345-354. Su HH,LiT, Xie W Q, et al. Detecting Exogenous Gene Copy Numbers of Exogenous Gene in Transgenic Tomato Based on Fluorescent Quantitative Real-time PCR.Molecular Plant Breeding,2015,13(2): 345-354.   \n[10]白国辉，刘建国，田源，等．转基因番茄防龋疫苗中外源目的基因拷贝数的检测．上海口腔医学,2013,22(6): 613-617. Bai G H,Liu JG,Tian Y,et al. Detectionofthe exogenous genecopy number ofthe transgenic tomato anti-caries vaccine. Shanghai Journal of Stomatology, 2013,22(6): 613-617.   \n[11] YangL,Ding J,Zhang C,etal.Estimatingthecopynumberoftransgenes intransformedricebyreal-timequantitative PCR. Plant Cell Rep,2005,23(10): 759-763.   \n[12] 张贺，李波，周虚，等．实时荧光定量 PCR技术研究进展及应用．动物医学进展,2006,27(z1):5-12. Zhang H,LiB, Zhou X,et al.TechnologyofCapillary Electrophoresis and Its Application inAnalysisofVeterinary Drug Residues. Progress in Veterinary Medicine, 2006,27(z1): 5-12.   \n[13]王爱民．实时荧光定量 PCR(TaqMan)法测定外源基因的拷贝数．广西植物,2009,29(3): 408-412. Wang AM. Estimating copy number of transgenic gene by real-time fluorescent quantitative PCR(TaqMan). Guihaia, 2009,29(3): 408-412.   \n[14] 裘劫人，许颖，喻富根．利用 SYBR Gren 实时定量PCR 法检测转基因植物外源基因的拷贝数．安徽农业科学， 2011,39(21): 12655-12657. Qiu JR,Xu Y,YuFG. Estimating the Copy Number of Transgenes in Transformed Arabidopsis by SYBR Green Real-time Quantitative PCR. Journal of Anhui Agricultural Sciences, 2011,39(21): 12655-12657.   \n[15]朱建楚，胡银岗，奚亚军，等．实时荧光定量PCR 技术在检测外源基因拷贝数中的应用．西北农业学报,2005, 14(6): 78-82. Zhu JC,Hu YG, XiYJ,etal.The AplicationofQuantitative Real-time Fluorescent PCR Techniques inDetecting the Copy Number of Transgenic Gene. Acta Agriculturae Boreali-occidentalis Sinica, 20o5,14(6): 78-82.   \n[16] KleinD.Quantificationusing real-time PCR technology:applications andlimitations.Trends MolMed,2002,8(6): 257-260.   \n[17] 梁彦君．转基因番茄外源基因检测方法研究．浙江理工大学，生命科学学院,2013. Liang Y J. Research on the detection methods of exogenous genes in transgenic tomato. Zhejiang Sci-Tech University, College of Life Sciences, 2013.   \n[18] 赵焕英,包金风．实时荧光定量PCR 技术的原理及其应用研究进展．中国组织化学与细胞化学杂志,2007,16(4): 492-497. Zhao HY,Bao JF.Research on thePrinciple and Application ofReal-time Fluorescence Quantitative Polymerase Chain Reaction. Chinese Journal of Histochemistry and Cytochemistry,20o7,16(4): 492-497.   \n[19] 钟江华，张光萍，柳小英．实时荧光定量 PCR 技术的研究进展与应用．氨基酸和生物资源,2011,33(2):68-72. Zhong JH, Zhang GP,Liu X Y.Development of Real-Time Fluorescent Quantitative PCR and Its Application. Amino Acids & Biotic Resources, 2011,33(2): 68-72. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[20]洪云，李津，汪和睦，等．实时荧光定量 PCR 技术进展．国外流行病学传染病学杂志,2006,33(3):161-163. Hong Y,LiJ, Wang HM,etal.Progressinreal-timequantitative PCR technique. International Journal ofEpidemiology and Infectious Disease, 2006,33(3): 161-163. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[21]廉红霞，高腾云，傅彤，等．实时荧光定量 PCR 定量方法研究进展．江西农业学报,2010,22(10):132-136. Lian HX,Gao TY,FuT,et al.Research Advance in Method of Real-time Fluorescent QuantitativePolymerase Chain Reaction. Acta Agriculturae Jiangxi, 2010, 22(10): 132-136.   \n[22] 陈旭，齐凤坤，康立功，等．实时荧光定量PCR技术研究进展及其应用．东北农业大学学报,2010,41(8):148-155. Chen X, Qi F K, Kang L G, et al. Advance and application of real-time fluorescent quantitative PCR. Journal of Northeast Agricultural University,2010, 41(8): 148-155.   \n[23] 李淑洁，张正英.REAL-TIME PCR 方法测定转基因小麦中外源基因拷贝数．中国生物工程杂志,2010,30(3): 90-94. Li S J, Zhang Z Y. Using REAL-TIME PCR to Determine Transgene Copy Number in Wheat. China Biotechnology, 2010, 30(3): 90-94.   \n[24] 冀志庚，高学军，敖金霞，等.SYBR Green 实时定量PCR检测转基因大豆中外源基因拷贝数．东北农业大学学报， 2011, 42(10): 11-15. Ji Z G, Gao X J,Ao JX,et al. Establishment of SYBR Green-base quantitative real-time PCR assay for determining transgene copy number in transgenic soybean. Journal ofNortheast Agricultural University,2011,42(10): 11-15.   \n[25]韩强，刘瑞芳，陆玲鸿，等．实时荧光PCR 检测转基因大豆外源基因的拷贝数．核农学报,2016,30(4):646-653. Han Q,Liu RF,LuLH,et al. Detectionof Transgene Copy Number in Transgenic Soybean by Real-timeFluorescence Quantitative PCR. Journal of Nuclear Agricultural Sciences, 2016,30(4): 646-653.   \n[26]Qiu Y W,Gao X J,QiBR,etal. Establishment of TaqMan Real-time Quantitative PCR Assy for Foreign Gene Copy Numbers in Transgenic Soybean. Journal of Nrtheast Agricultural University(English Edition),2012,19(4): 48-52.   \n[27] YiCX,Hong Y.Estimating thecopy number oftransgenes in transformed cottonbyreal-time quantitative PCR. Methods in Molecular Biology,2013, 958(10-11): 109-130.   \n[28]Mason G,ProveroP,VairaAM,etal.Estimating the numberof integrations itransformed plants byquantitative real-time PCR. BMC Biotechnol, 2002, 2(1): 20.   \n[29]Ma X L, Zhang QY,Zhu QL,etal.Arobust CRISPR/Cas9 systemforconvenient,high-efficiency multiplex genome ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "editing in monocot and dicot plants.Mol Plant,2015,8(8):1274-1284. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[30]Song P,Cai C,SkokutM,etal.Quantitativereal-tmiePCRasascrening toolforestimating transgenecopynumbern WHISKERSTM-derived transgenic maize.Plant Cell Reports,2002, 20(10): 948-954. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[31]文莉．利用实时定量 PCR 技术检测柑橘外源基因的拷贝数．华中农业大学，园艺林学学院,2011.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Wen L.Estimating Transgene Copy Number in Citrus by Real-Time Quantitative PCR.Huazhong Agricultural University, College of Horticulture & Forestry Sciences,2011. ",
+        "page_idx": 16
+    }
+]

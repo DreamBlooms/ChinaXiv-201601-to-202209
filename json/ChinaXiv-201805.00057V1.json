@@ -1,0 +1,946 @@
+[
+    {
+        "type": "text",
+        "text": "实数编码量子共生演算法及其在云任务调度中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李昆仑，关立伟",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(河北大学 电子信息工程学院，河北 保定 071000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对共生演算法收敛慢和易陷入局部最优的问题，结合量子遗传算法理论，提出一种实数编码的量子共生演算法(real-coded quantum symbiotic organisms search，RQSOS)。首先依据三角模糊数提出差异度概念，并依此构造一个以自变量向量的分量和一对概率幅为等位基因的三倍染色体，使一条染色体携带更多信息并增强解的多样性；然后提出一种基于阿基米德螺旋线的探索学习模式，加强对解空间的探索精度；最后使用共生演算法更新差异度值并依据差异度值对种群进行学习和变异操作，促使整个种群快速向最优方向进化且减小了陷入局部最优的概率。利用数值优化问题和云任务调度问题对算法进行验证，仿真结果表明，RQSOS 算法在收敛速度和寻优能力上均有明显提升，是一种可行有效的算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：量子遗传算法；共生演算法；差异度；数值优化；任务调度 中图分类号：TP393 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Real-coded quantum SOS algorithm and its application in cloud task scheduling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LiKunlun, Guan Liwei (Electronic Information Engineering College Hebei University,Baoding O71oo0,Chinaa) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Inorder to solvethe problemthatsymbioticorganisms search algorithmconverge slowlyand easy tofallinto the local optimum,combining quantum genetic algorithm theory,this paper proposed areal-coded quantum symbiotic organisms search algorithm(RQSOS).First,this paper presented theconceptof the difference degree basedonthe principleof triangular fuzzy number,andconstructedavariablecomponent vectorandapairofprobabilityamplitudeofaaleleinachromosomethat can carries more information and enhance the diversityof the solutions.Then the modeofrotary learning based on the Archimedes spiral wasproposed,which strengthen theexploration abilityof thesolution space.Finaly it isupdated the diference degreebasedon SOS,andthe population learing and mutation operationsare cariedout basedonthe value ofthe diference degree which can make the whole population evolution rapidly towards the optimal direction and reduce the probabilityoffalling into local optimum.It is verifiedby numerical optimizationandcloud task scheduling problem,nd the simulationresults show that theRQSOS algorithmcansignificantly improve theconvergence speedandoptimization ability, which is a feasible and effective algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:genetic quantum algorithm；symbiotic organisms search；diference degree；numerical optimization；task scheduling ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "量子遗 传 算 法(genetic quantum algorithm,QGA)[1] 是Narayanan和Moore于1996年提出的智能优化算法，首次将量子计算相关理论与遗传算法结合，提升了算法性能。随后Han等人[2]将其扩展为量子进化算法(quantum-inspired evolutionaryalgorithm,QEA)，促进了量子计算理论与智能算法的结合，逐渐形成一个新的研究方向---量子智能算法。到目前为止，具有代表性的量子智能算法有量子进化规划(quantumevolutionaryprogramming,QEP)、量子粒子群算法(quantum particle swarmoptimization，QPSO)和 量子蚁 群 算 法(quantum ant colonyalgorithm,QACO)等[3-5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "量子智能算法能为排序问题、背包问题、路径优化问题和任务调度等问题找到更优解决方案[6-10]。但近些年多位学者证明并非所有量子智能算法都适用于解决连续优化问题和多参数优化问题，且对于高精度高维度计算问题，通过对量子位进行观测而得到的二进制编码方式很容易引起染色体长度灾难，导致求解的精度降低，算法进化效率下降[11-13]。为克服这些缺点，以实数编码为主要思想的量子智能算法受到学者们的推崇。基于实数编码量子智能算法使用量子比特编码染色体，利用量子门更新种群，其通过构造量子位到实数部的映射关系，克服了传统量子智能算法解码复杂度高、测量操作易产生退化和“维数灾”等缺点。但量子位到实数的映射关系一般为缩放体制，解码精度不能得到保证，故这些算法依然存在求解精度低、收敛慢和易陷入局部最优的问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了克服上述问题，结合量子遗传算法和共生演算法，提出一种实数编码的量子共生演算法，利用数值优化问题和云任务调度问题对算法性能进行验证。实验结果表明，该方案在提升共生演算法性能的同时，成功避免了上述缺陷。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 经典量子遗传算法和共生演算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1经典量子遗传算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "量子遗传算法染色体用量子位表示，一个量子位由 $[ \\alpha , \\beta ] ^ { \\mathrm { T } }$ 组成， $^ { \\alpha , \\beta }$ 代表状态 $| 0 \\rangle$ 和|1>的概率幅，满足归一化条件 $| \\alpha | ^ { 2 } + | \\beta | ^ { 2 } { = } 1$ 。一个量子染色体可表征解空间中任意解的叠加态，具体表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l l l } { \\alpha _ { 1 } } & { \\cdots } & { \\alpha _ { n } } \\\\ { \\beta _ { 1 } } & { \\cdots } & { \\beta _ { n } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "量子遗传算法依据量子门进行演化，促使量子种群趋向最优解。常用的量子门有旋转门、异或门和Hadamard门等，应用较广的是如下的量子旋转门。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\beta _ { i } ^ { ' } \\right] = \\left[ \\begin{array} { c c } { \\cos \\theta _ { i } } & { - \\sin \\theta _ { i } } \\\\ { \\sin \\theta _ { i } } & { \\cos \\theta _ { i } } \\end{array} \\right] \\cdot \\left[ \\begin{array} { c c } { \\alpha _ { i } } \\\\ { \\beta _ { i } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $[ \\alpha _ { i } , \\beta _ { i } ] ^ { \\mathrm { T } }$ 为第 $i$ 个量子位， $[ \\boldsymbol { \\alpha } _ { i } ^ { \\prime } , \\boldsymbol { \\beta }$ JT为旋转之后量子位， $\\theta$ 为旋转角，根据设定调整策略确定其大小。旋转门可以实现状态间的转换，具有较高的并行性，保证算法的收敛。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2共生演算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "共生演算法（symbiotic organisms search,SOS）[14]由 Cheng等人在2014年提出，包含如下三个过程：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)共生过程。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i n e w } = X _ { i } + r a n d ( 0 , 1 ) ^ { * } \\big ( X _ { b e s t } - M u t u a l \\_ V e c t o r ^ { * } B F _ { 1 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { j n e w } = X _ { j } + r a n d ( 0 , 1 ) ^ { * } \\big ( X _ { b e s t } - M u t u a l \\_ V e c t o r ^ { * } B F _ { 2 } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM u t u a l \\_ V e c t o r = ( X _ { i } + X _ { j } ) / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 ${ \\bf \\nabla } : X _ { i }$ 代表第 $i$ 个位置， $X _ { j }$ 是随机与 $X _ { i }$ 相作用的位置。 $B F _ { I }$ 和$B F _ { 2 }$ 代表受益水平取值为1或2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)共栖过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i n e w } = X _ { i } + r a n d ( - 1 , 1 ) { ^ { * } } \\big ( X _ { b e s t } - X _ { j } \\big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中:rand(-1,1)为[-1,1]的随机数， $( X _ { b e s t } – X _ { j } )$ 反映一种受益关系，由 $X _ { j }$ 提供一些受益点来提升 $X _ { i }$ 的存活率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)寄生过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { i n e w } = X _ { p }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "寄生个体通过随机修改不同维数中的数值产生，该过程能加强种群多样性，防止陷入局部最优。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 实数编码量子共生演算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实数编码量子共生演算法是一种融合量子遗传算法思想和共生演算法优点的智能算法。该算法为解决共生演算法前期进化速度慢和后期种群多样性丢失的问题，首先改进量子比特编码形式，构造一个具有关联特性的三倍染色体，然后通过监视染色体信息确定种群进化速度和多样性情况，并依据监视结果适时加强种群进化速度并补充种群多样性，最后利用共生演算法更新染色体，实现问题的优化求解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 染色体编码",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种具有关联特性的编码形式，表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ { \\begin{array} { c c c } { x _ { 1 } } & { \\cdots } & { x _ { n } } \\\\ { \\cos ( \\vartheta _ { 1 } ) } & { \\cdots } & { \\cos \\vartheta _ { n } } \\\\ { \\sin ( \\vartheta _ { 1 } ) } & { \\cdots } & { \\sin ( \\vartheta _ { n } ) } \\end{array} } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $n$ 为求解问题的维数， $x _ { i }$ 为自变量向量 $x$ 的分量，$g _ { i } { = } 0 . 5 ^ { * } \\theta _ { i } { ^ * } \\pi$ ， $\\theta$ 为差异度值，由三角模糊数产生。由 $\\cos ( \\vartheta )$ 控制变异信息， $\\sin ( \\vartheta )$ 控制趋向信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1三角模糊数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "依据集对理论[15]，三角模糊数特征可由二元联系数 $\\stackrel { - } { x } + s i$ 表示，其中 $\\mathbf { \\Pi } _ { x } ^ { - }$ 为均值， $s$ 为方差，计算方法如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\overline { { x } } } = { \\frac { 1 } { 3 } } \\Bigl [ x ^ { l } + x ^ { m } + x ^ { n } \\Bigr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = { \\frac { 1 } { 2 } } { \\sqrt { \\left( x ^ { l } - { \\overline { { x } } } \\right) ^ { 2 } + \\left( x ^ { m } - { \\overline { { x } } } \\right) ^ { 2 } + \\left( x ^ { n } - { \\overline { { x } } } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x ^ { l }$ 为三角模糊数的下确界， $x ^ { m }$ 为三角模糊数的最可能值，$x ^ { n }$ 为三角模糊数的上确界。 $\\mathbf { \\Pi } _ { x } ^ { - }$ 和 $s$ 是对三角模糊数 相对确定与不确定性的描述，在 ${ \\bf { D - u } }$ 空间可表示为如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9656eac6385e8ba8f39a137b128454d2075e0e0cfdf7b362e4ac84a549de3006.jpg",
+        "img_caption": [
+            "图1三角模糊数在D-U空间的解释"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\theta$ 表示相互作用的方向，称为特征参数 $U ( x )$ 的幅角，计算方式为： $\\theta = \\arctan s / \\overline { { x } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.2种群差异度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由 2.1.1节分析可知， $\\theta$ 值越小 $\\scriptstyle \\mathcal { O } \\in [ 0 , \\pi / 2 ] )$ ，确定性越大，波动性越小，因此，种群差异度由下述方式得出：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { x } } ^ { \\prime } = \\frac { 1 } { 3 } \\Big [ x _ { \\mathrm { m i n } } ^ { j } + x _ { b e s t } ^ { j } + x _ { \\mathrm { m a x } } ^ { j } \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overset { \\cdot } { s ^ { \\cdot } } = \\frac { 1 } { 2 } \\sqrt { \\left( x _ { \\operatorname* { m i n } } ^ { j } - \\overset { - } { x } \\right) ^ { 2 } + \\left( x ^ { m } - \\overset { - } { x } \\right) ^ { 2 } + \\left( x _ { \\operatorname* { m a x } } ^ { j } - \\overset { - } { x } \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\frac { - \\cdot } { x }$ 代表最优信息的均值，本文称其为最优均值； $x _ { \\mathrm { m i n } } ^ { j }$ 为当前维数最小值， $\\boldsymbol { x } _ { b e s t } ^ { j }$ 代表当前维数最优值， $x _ { \\operatorname* { m a x } } ^ { j }$ 代表当前维数最大值；计算 $s$ 时， $x ^ { m }$ 为当前位置值，以此计算确定性和波动性关系。故差异度值定义为 $\\theta = \\arctan { s ^ { \\prime } / \\stackrel { - \\cdot } { x } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以下举例说明染色体实数部与差异度间关系：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "某一维多样性较强，设3为当前最优值，如图2左所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I … 32 … 33 … 24 … 35 … 3前期 后期位置i 位置i",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过计算得到：s'=[1.7321 1.5000 1.4142 1.5000 1.7321];$\\theta { = } [ 0 . 5 2 3 6 \\ 0 . 4 6 3 6 \\ 0 . 4 4 0 5 \\ 0 . 4 6 3 6 \\ 0 . 5 2 3 6 ] ^ { \\prime }$ 。可知，当前值与最优均值越接近 $\\theta$ 角度值越小，相反则越大，但 $\\theta$ 依然较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "种群后期多样性较小，如图2右所示，通过计算得$s ^ { ' } { = } [ 0 . 4 0 8 2$ 0.4082 0.5000 0.40820.4082]'; $\\scriptstyle \\theta =$ [0.15190.15190.18530.15190.1519]'。可知， $\\theta$ 依然满足与最优均值越接近值越小的关系，算法后期多样性差，故差异度值更小。图3为SOS算法优化Rosenbrock函数的平均差异度值变化曲线。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c6b1f5f3991007f152c6a9e79eaa1f9c0565c8d871ea374ace397d441932748.jpg",
+        "img_caption": [
+            "图2染色体实例"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，种群后期多样性已经严重丢失，算法性能下降。因此，通过对 $\\theta$ 值的监测，实时了解种群多样性，当种群多样性过大时，应采取措施增加个体优秀基因，可加快算法收敛速度。在种群多样性丢失时及时采取措施可减小算法陷入局部最优的概率，加强算法寻优能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2趋向学习和交叉学习 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1基于阿基米德螺旋线的探索学习模式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文献[16]和[17]证明了反向学习和旋转学习的有效性。但旋转角度的设定影响着算法探索精度，该模式依然存在探索粗糙的问题。为进一步加强算法趋向最优解和探索能力，提出一种基于阿基米德螺旋线的探索学习模式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，旋转模式分为两种：a)并行旋转模式，以外围圆半径为半径绕圆心旋转，半径与圆及阿基米德线相交点横坐标即为并行学习点；b)求精旋转模式，以外圆半径为半径绕圆心旋转，产生两个学习点，一个由阿基米德线内部最小圆上点由内向外移动，第二个点依然在外圆上移动，这样一个在外部学习，一个由圆心向外学习，可加快学习速率。具体过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以 $C$ 为中心 $C { = } ( a { + } b ) / 2$ ， $^ { } | a , b _ { }$ 为解空间上下界)， $( b - a ) / 2$ 为半径作外围圆并以式(13)在设定空间内散发阿基米德螺旋线，半径变化范围为 $0 { \\sim } ( b { - } a ) / 2$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( r ) = ( \\stackrel { \\cdot } { a ^ { \\cdot } } , \\stackrel { \\cdot } { b ^ { \\cdot } } , \\phi ) , \\stackrel { \\cdot } { a ^ { \\cdot } } \\ne 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/631ebee29c80a87b27abac9d4a3587a0f46a69a34ce729647e4b514dfeb6b1be.jpg",
+        "img_caption": [
+            "图4基于阿基米德螺旋线的探索学习模式"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$f ( r )$ 代表螺旋线的产生方式，其极坐标形式为 $r = a ^ { ' } \\phi + b ^ { ' }$ 。学习过程为对当前点进行一定角度 $\\beta$ 的旋转，旋转后位置则为学习后的点，其横坐标为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i } = \\left( { \\frac { a + b } { 2 } } \\right) + f ( r _ { i } ) \\cdot \\cos ( \\alpha + \\beta )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\beta$ 为旋转角, $\\alpha { = } \\mathrm { a r c c o s } ( ( 2 ^ { \\ast } z { - } a { - } b ) / ( b { - } a ) ) ,$ $f ( r _ { i } )$ 为旋转位置半径；外围圆上点对应横坐标为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\left( { \\frac { a + b } { 2 } } \\right) + \\left( { \\frac { a - b } { 2 } } \\right) \\cdot \\cos ( \\alpha + \\beta )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于阿基米德线的两种学习模式采取不同的方式求得学习点，可加强算法的学习精度，提高搜索效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2趋向学习 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由2.1节可知， $\\theta$ 角取值较大 $( \\sin ( \\vartheta ) { > } P _ { t } )$ ，种群多样性较好，但与当前最优均值的综合距离相差较大，代表最优信息较少。为加强算法的收敛能力，加快算法向最优方向逼近，本节引入趋向学习操作，使个体在一个扇形空间内趋向最优个体，最大趋向半径为 $R$ ，如图5所示，βbest为当前最优位置在外围圆半径与 $x$ 轴夹角， $\\beta _ { i }$ 为当前位置夹角。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5f6e2e93b5da42c53382a53c5738c9b90ba7ed4e6e40ef777085f94cd930eab.jpg",
+        "img_caption": [
+            "图3SOS算法θ值随迭代次数变化曲线",
+            "图5扇形区域内的趋向操作"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "扇形空间范围和趋向个体数量可根据实际情况调整，趋向方式可由式(16)\\~(18)表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\theta = - \\mathrm { s g n } ( A ) \\cdot \\Delta \\theta _ { 0 } \\cdot \\mathrm { e x p } \\Bigg ( { - } \\frac { \\left| \\nabla f \\left( x _ { i } ^ { j } \\right) \\right| - \\nabla f _ { j \\mathrm { m i n } } } { \\nabla f _ { j \\mathrm { m a x } } - \\nabla f _ { j \\mathrm { m i n } } } \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla f _ { j \\operatorname* { m a x } } = \\operatorname* { m a x } \\left\\{ \\bigg | \\frac { \\partial f \\big ( \\boldsymbol { x } _ { 1 } \\big ) } { \\partial \\boldsymbol { x } _ { 1 } ^ { j } } \\bigg | , \\cdots , \\bigg | \\frac { \\partial f \\big ( \\boldsymbol { x } _ { m } \\big ) } { \\partial \\boldsymbol { x } _ { m } ^ { j } } \\bigg | \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla f _ { j \\mathrm { m i n } } = \\mathrm { m i n } \\left\\{ \\left| \\frac { \\partial f \\bigl ( \\boldsymbol { x } _ { 1 } \\bigr ) } { \\partial x _ { 1 } ^ { j } } \\right| , \\cdots , \\left| \\frac { \\partial f \\bigl ( \\boldsymbol { x } _ { m } \\bigr ) } { \\partial x _ { m } ^ { j } } \\right| \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nabla f \\left( x _ { i } ^ { j } \\right)$ 为评价函数 $f ( x )$ 在 $\\boldsymbol { x } _ { i } ^ { j }$ 处的梯度， $\\Delta \\theta _ { 0 }$ 为初始旋转角，具体大小视问题确定， $- \\mathrm { s i g n } ( A )$ 控制旋转角度方向，其中$A = \\left| \\begin{array} { l l } { \\cos ( \\beta _ { b e s t } ) } & { \\cos ( \\beta _ { i } ) } \\\\ { \\sin ( \\beta _ { b e s t } ) } & { \\sin ( \\beta _ { i } ) } \\end{array} \\right| \\cos ( \\beta _ { i } ) \\left| \\begin{array} { l l } { \\begin{array} { r l } \\end{array} } \\end{array} \\right|$ 。设定旋转角度为 $\\beta _ { n e w } { = } f ( \\lambda , \\beta _ { i } { + } \\Delta \\beta )$ ，其中 $\\lambda$ 为加速系数，用以确定角度旋转圈数，取值为 $\\lambda { = } d ^ { \\ast } 2 \\pi$ ， $d$ 为 $[ 0 , q ]$ 之间的随机整数， $q$ 为规定旋转最大圈数。采用模式2进行旋转学习，取 $n _ { I }$ 个趋向个体，若趋向个体为有效个体则接受新个体，否则淘汰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3交叉学习 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步加强算法性能，提出一种交叉学习模式。具体为：随机选取 $M$ 个待交叉点，采用式(19)决定是否向当前最优个体进行学习，学习有效则接受新个体。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i n e w } ^ { j } = \\left\\{ \\begin{array} { c } { { x _ { b e s t i } ^ { j } , i f \\left( \\sin ( \\vartheta ) \\right) ^ { 2 } > P _ { c } } } \\\\ { { x _ { i } ^ { j } , e l s e } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\scriptstyle { \\vartheta = 0 . 5 ^ { \\ast } \\theta ^ { \\ast } \\pi }$ ，上式可解释为： $\\theta$ 值较大，说明当前维度信息离当前最优均值较远，应大概率接受当前最优第 $j$ 维的值，相反则小概率接受当前最优值。依据差异度值决定是否学习，有助于种群学习的成功率，加快种群进化速度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 变异 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "学习操作引导整个种群向当前最优位置进化，由于算法的贪婪选择特性，后期种群多样性可能丢失，算法易陷入局部最优解。基于此，本节提出一种变异操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当 $\\theta$ 值较小，认定种群与当前最优具有极强的相似性，多样性丢失，在此时进入变异操作。依据阿基米德探索模式，利用如下公式产生变异信息：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal M } _ { j } = \\left\\{ { x _ { j } + \\mathrm { s g n } ( \\bullet ) \\cdot f ( r ) \\quad , i f \\left( \\mathrm { c o s } ( g ) \\right) ^ { 2 } > \\eta } \\atop { x _ { j } \\quad , \\quad } { e l s e } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { s g n } ( \\bullet ) = \\left\\{ { \\begin{array} { l } { - 1 , i f \\operatorname { m o d } ( \\beta _ { _ { m } } , 2 \\cdot \\pi ) \\in \\left[ 0 . 5 , 1 . 5 \\right] } \\\\ { 1 , \\qquad e l s e } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathrm { s g n } ( \\bullet )$ 为变异方向， $r { = } \\alpha { * } \\beta _ { m } , \\beta _ { m } { = } r a n d ^ { * } \\pi ^ { * } \\mu$ ， $\\scriptstyle a$ 为精度控制变量， $\\mu$ 为 $[ 1 , q ]$ 的随机整数， $\\eta$ 为变异阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用模式1在规定空间随机勘测出 $n _ { 2 }$ 个变异个体并随机替换种群中 $n _ { 2 }$ 个个体（除最优个体外)。通过变异操作针对性的补充种群多样性，可使算法不易陷入局部最优解。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4算法流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文依据SOS算法更新实数部进而更新差异度 $\\theta$ 值，然后依据差异度值来控制该维信息在一定范围内的学习与变异的情",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "况，具体过程如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)初始化实数部种群和最大旋转圈数 $q$ ，旋转精度 $\\mathbf { \\Omega } _ { a }$ ，趋向个体数量 $n _ { I }$ ，变异个体数量 $n _ { 2 }$ 和变异率 $\\eta$ 等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)通过模糊三角函数形式，计算差异度值并产生三倍染色体的编码形式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)用 SOS算法确定个体在解空间中的位置 $x _ { i }$ ，更新差异度$\\theta _ { o }$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d)学习操作：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a）趋向学习。由式(16)\\~(18)产生趋向个体，若新个体适应度优于当前个体，则以新个体代替当前个体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b）交叉学习。由式(19)产生交叉学习个体，若新个体适应度大于当前个体，则以新个体代替当前个体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "e)变异操作。由式(20)-(21)计算变异信息，并产生变异个体，随机替换种群中 $n _ { 2 }$ 个体。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "f)判断是否达到终止条件，达到则进入g)，否则返回c)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "g)算法终止，记录最优数据。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由上述步骤可知，RQSOS是一种具有反馈更新机制的算法，如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b941df0a90125633f663c908db7f0c91b25671240da87013f8a9e32a0872833.jpg",
+        "img_caption": [
+            "图6RQSOS图示"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "染色体中，SOS给出的基因取值具有非确定性，由量子位概率决定具体取值方式和大小。故RQSOS模式中染色体能以一种叠加态来描述解空间，能够保持解的多样性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 实验与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章以数值优化问题和云工作流任务调度问题为例，与其他算法进行对比分析，验证本文算法性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1数值实验及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验采用表1所列12个基本测试函数验证算法性能，表中 $X _ { i }$ 为取值范围， $B$ 为最优值， $D$ 为函数所取维数，Threshold为求解精度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验对QPSO、混合粒子群算法(PSO-GA)、实数编码量子差分演化算法(RQDE)和SOS的优化性能和结果进行比对，本文算法参数 $q = 1 2 , a = 0 . 2 5 , n _ { I } = 5 , n _ { 2 } = 3 , \\eta = P _ { t } = P _ { c } = r a n d , \\Delta \\theta _ { 0 } = 0 . 0 4$ ，各算法独立运行30次，最大迭代次数为10000，当算法达到规定精度或最大迭代次数时终止，记录30次实验平均值与方差并依据实验结果记录算法运行成功次数。表2列出了五种算法的实验结果，其中 $w / t / l$ 表示本文算法胜过、持平和劣于对比算法的函数个数， $M$ 为均值， $V$ 代表方差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，五种算法中本文算法表现最优，获得了7个测试函数的全局最优解，11个测试函数最优解，而基本SOS 算法只获得了3个测试函数的全局最优解，6个测试函数最优解，并且在12个测试函数上RQSOS 性能均优于等于基本 SOS 算法，除在优化f6函数时本文得到优化效果微差于QPSO外，均优于其他算法，证明本文规则是有效的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3展示了五种算法在不同测试函数上的执行成功率，可以看出 RQDE、SOS 和本文算法RQSOS 在执行成功率上优于PSO-GA和QPSO 算法，且RQSOS 算法成功率最高。说明 SOS算法的探索能力强、鲁棒性好的优点，也进一步说明了本文提出算法保持了SOS算法优点，克服了算法容易陷入早熟的缺点，能达到更好的优化效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7和8展示了五种算法在优化函数f和f&的收敛曲线对比图。由图可知，在不同函数优化的问题上，不同算法的展现了不同的性能，本文算法均有较高的收敛能力和较强的探索能力。RQSOS能产生优良解且具有较好收敛能力的原因为采用了学习模式和变异模式，学习模式加快种群向最优解方向发展，而变异模式保持了种群的多样性，故本文算法能够均衡算法的勘测能力和收敛能力，加强算法性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bdc8114a7aff0c2979e68f67be9becd2e55fc29c8c67f3c4952ccfb90b7cc860.jpg",
+        "table_caption": [
+            "表1数值实验所用测试函数相关信息"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>funs</td><td>name</td><td>D</td><td>X</td><td>B</td><td>threshold</td></tr><tr><td>f</td><td>Sphere</td><td>30</td><td>[-100,100]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f</td><td>Rosenbrock</td><td>30</td><td>[-30,30]</td><td>0</td><td>1.00e-001</td></tr><tr><td>f</td><td>Ackley</td><td>30</td><td>[-32,32]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f4</td><td>Griewank</td><td>30</td><td>[-600,600]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f5</td><td>Rastrigrin</td><td>30</td><td>[-5.12,5.12]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f6</td><td>Dixon-price</td><td>30</td><td>[-10,10]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f7</td><td>Zakharov</td><td>10</td><td>[-5,10]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f8</td><td>MichalewicZ10</td><td>10</td><td>[0,pi]</td><td>-9.6602</td><td>-</td></tr><tr><td>f9</td><td>Peaks</td><td>2</td><td>[-3,3]</td><td>8.1062</td><td>-</td></tr><tr><td>f10</td><td>Schaffers f6</td><td>2</td><td>[-5,5]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f11</td><td>Schaffers f7</td><td>2</td><td>[-100,100]</td><td>0</td><td>1.00e-006</td></tr><tr><td>f12</td><td>Shubert</td><td>2</td><td>[-10,10]</td><td>-186.7309</td><td>-</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/940e936ba19c9ec7783c19a181ed0e46af31bd7ac1085ce68a5bf005a8b6d039.jpg",
+        "table_caption": [
+            "表2本文算法与其他四种算法的仿真结果比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Funs.</td><td>PSO-GA M±V</td><td>QPSO M±V</td><td>RQDE M±V</td><td>SOS M±V</td><td>RQSOS M±V</td></tr><tr><td>f</td><td>2.83e-00±4.01e-00</td><td>6.83e-25±1.98e-48</td><td>1.28e-18±2.16e-36</td><td>3.01e-134±3.63e-267</td><td>9.20e-169±1.02e-280</td></tr><tr><td>f</td><td>3.23e+02±1.13e+04</td><td>2.49e+01±1.54e-01</td><td>7.69e-00±1.39e+01</td><td>2.60e+01±1.41e-00</td><td>1.71e-3±6.52e-06</td></tr><tr><td>f</td><td>1.99e+01±0.00e-00</td><td>1.79e-14±1.21e-29</td><td>3.64e-10±1.69e-20</td><td>8.89e-16±3.89e-62</td><td>8.89e-16±3.9e-62</td></tr><tr><td>f4</td><td>5.76e-01±8.78e-02</td><td>3.12e-02±5.28e-04</td><td>1.09e-12±2.91e-26</td><td>0.00±0.00e-00</td><td>0.00±0.00e-00</td></tr><tr><td>f</td><td>9.95e-02±8.91e-02</td><td>2.21e+01±4.57e+01</td><td>9.95e-02±8.91e-02</td><td>9.95e-02±8.91e-02</td><td>0.00±0.00e-00</td></tr><tr><td>f</td><td>3.96e-00±1.61e-00</td><td>0±0.00e-00</td><td>8.10e-03±5.90e-04</td><td>3.96e-00±1.61e-00</td><td>1.09e-05±4.70e-06</td></tr><tr><td>f</td><td>1.20e+01±1.31e+03</td><td>3.33e-61±9.45e-121</td><td>3.98e-66±1.19e-131</td><td>4.27e-290±0.00e-00</td><td>0.00±0.00e-00</td></tr><tr><td>f</td><td>-9.6171±1.20e-03</td><td>-6.8226±7.88e+01</td><td>-9.6396±3.87e-04</td><td>-9.6248±9.62e-04</td><td>-9.6600±1.45e-07</td></tr><tr><td>f</td><td>8.1062±3.16e-30</td><td>5.5428±2.83e-00</td><td>8.1062±3.15e-30</td><td>8.1062±3.16e-30</td><td>8.1062±0.00e-00</td></tr><tr><td>f10</td><td>3.01e-02±0.00e-00</td><td>0±0.00e-00</td><td>0.00±0.00e-00</td><td>0.00±0.00e-00</td><td>0.00±0.00e-00</td></tr><tr><td>f11</td><td>0.00±0.00e-00</td><td>0±0.00e-00</td><td>0.00±0.00e-00</td><td>0.00±0.00e-00</td><td>0.00±0.00e-00</td></tr><tr><td>f12</td><td>-186.7308±1.04e-08</td><td>-186.7283±5.84e-005</td><td>-186.7309±0.00e-00</td><td>-186.7309±0.00e-00</td><td>-186.7309±0.00e-00</td></tr><tr><td>W/t/1</td><td>11/1/0</td><td>9/2/1</td><td>8/3/0</td><td>7/5/0</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/36a4908a9542835a61330115258dcc7d163e4d91724174a6bb04c482738dd342.jpg",
+        "table_caption": [
+            "表3五种算法的执行成功率对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Funs.</td><td colspan=\"2\">PSO_GA QPSO</td><td colspan=\"2\">RQDE SOS</td><td colspan=\"2\">RQSOS</td></tr><tr><td></td><td></td><td>SR%</td><td></td><td></td><td></td></tr><tr><td>f</td><td>17</td><td>100</td><td></td><td>100</td><td>100</td><td>100</td></tr><tr><td>f</td><td>0</td><td>0</td><td>30</td><td></td><td>10</td><td>87</td></tr><tr><td>f</td><td>0</td><td>100</td><td>100</td><td></td><td>100</td><td>100</td></tr><tr><td>f4</td><td>37</td><td>23</td><td>100</td><td></td><td>100</td><td>100</td></tr><tr><td>f5</td><td>23</td><td>17</td><td>87</td><td></td><td>100</td><td>100</td></tr><tr><td>f</td><td>0</td><td>100</td><td>90</td><td></td><td>17</td><td>100</td></tr><tr><td>f7</td><td>93</td><td>100</td><td>100</td><td></td><td>100</td><td>100</td></tr><tr><td>fs</td><td>30</td><td>7</td><td>60</td><td></td><td>23</td><td>83</td></tr><tr><td>f9</td><td>100</td><td>0</td><td>100</td><td></td><td>100</td><td>100</td></tr><tr><td>f10</td><td>90</td><td>100</td><td>100</td><td></td><td>100</td><td>100</td></tr><tr><td>f1</td><td>67</td><td>100</td><td>100</td><td></td><td>100</td><td>100</td></tr><tr><td>f12</td><td>83</td><td>50</td><td>100</td><td></td><td>100</td><td>100</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/680bfd21f61cbff4f7f3024278b7fdaff30f5abe3e743f1892d1b9e87b8607c4.jpg",
+        "img_caption": [
+            "图7Rosenbrock收敛曲线对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图9和10为SOS和RQSOS算法在优化函数 $f _ { 2 }$ 和f&时种群差异度的对比，可知SOS算法优化 $f _ { 2 }$ 函数时种群多样性很快丢失，探寻最优解的能力下降，故其优化精度和执行成功率均很低；在优化f&时，虽多样性可保持在一定范围，但其向最优靠近的速度很慢，因此，在规定迭代次数内很可能不能搜寻到最优解。很明显，本文策略在保持高收敛性的同时能够将种群多样性控制在一定范围，进一步证明了算法的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/65740d88f941242a5030f7efa3b09cc8203a01ecfcce49c2fba9d6629320b545.jpg",
+        "img_caption": [
+            "图8Michalewiczl0收敛曲线对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4856a505a783ea9eb9f1c0cb1c4fe2db73af85d3d57f8102215dd875368db2b.jpg",
+        "img_caption": [
+            "图9处理f函数 SOS与RQSOS算法θ值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/419c6f1b50f0d7b7a58cbcb22a0db83cdb617572d0aa109b5a132df8c1aeafd9.jpg",
+        "img_caption": [
+            "图10处理fs函数 SOS与RQSOS 算法θ值对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2本文算法在云工作流任务调度中的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前云环境中工作流调度算法从不同角度对工作流进行处理，从而缩短进程的总完成时间，提升系统性能。工作流任务可由 $\\scriptstyle \\mathrm { { D A G } } ( \\mathrm { { D A G } } = \\{ N , S \\} )$ 图描述，其中 $N$ 由 $n$ 个节点集合构成，$n$ 为任务数， $s$ 由 $s$ 个边的集合构成，代表任务间的约束条件。$n _ { i } , n _ { j }$ 间的 $S _ { i j } { \\in } S$ 表示任务 $n _ { j }$ 必须在任务 ${ { n } _ { i } }$ 完成之后才能执行。本文将处理成本描述为任务的执行时间和使用处理器的费用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图11为一个简单DAG图，非负权重 $C _ { i , j }$ 关联 $S _ { i j } { \\in } S$ 边对应 $^ { n _ { i } , n _ { j } }$ 间的通信量。如果任务依赖于不同的处理器，则需计算处理器间的通信花费，处于相同处理器间任务的通信花费认为是0。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/45840ea382bc57712203c648c7576e5acfbdc255eca165b12c4a43d40d108d60.jpg",
+        "img_caption": [
+            "图11一个简单的DAG图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "处于处理器 $P _ { j }$ 上的任务 $n _ { i }$ 的最早的开始时间 $T _ { s t a r t } ( n _ { i } , p _ { j } )$ 定义为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { s t a r t } ( n _ { i } , p _ { j } ) = \\left\\{ \\begin{array} { c c } { 0 , } & { i f n _ { i } \\rlap / \\chi _ { J } \\wedge \\sqcup \\bigl \\{ \\pm \\mathscr { F } _ { \\mathscr { F } } ; } \\\\ { \\operatorname* { m a x } \\left\\{ T _ { f r e e } \\left( p _ { j } \\right) , T _ { r e a d y } \\left( n _ { i } , p _ { j } \\right) \\right\\} , } & { e l s e ; } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "则任务 $n _ { i }$ 的完成时间为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF T _ { p _ { j } } \\left( n _ { i } \\right) = T _ { s t a r t } ( n _ { i } , p _ { j } ) + W \\left( n _ { i } \\right) / W { \\left( p _ { j } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $W ( n _ { i } )$ 为任务 ${ { n } _ { i } }$ 计算量， $W ( p _ { j } )$ 代表处理器的处理能力。任务 $n _ { i }$ 为任务 $n _ { j }$ 的前继任务， $p _ { x } , p _ { y }$ 分别为任务 $n _ { i } , n _ { j }$ 所在处理单元，若 $i { = } j$ 则 $C ( n _ { i } , n _ { j } ) { = } 0$ ，故 $n _ { i }$ 到达 $n _ { j }$ 的时间为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA T _ { p _ { y } } \\left( n _ { i } , n _ { j } \\right) = F T _ { p _ { x } } \\left( n _ { i } \\right) + C \\left( n _ { i } , n _ { j } \\right) / C \\left( p _ { x } , p _ { y } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE S T _ { p _ { y } } \\left( n _ { j } \\right) = \\operatorname* { m a x } \\left\\{ { \\operatorname* { m a x } \\left\\{ { A T _ { p _ { y } } \\left( n _ { i } , n _ { j } \\right) , F T _ { p _ { y } } \\left( n _ { q } \\right) } \\right\\} } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $n _ { q }$ 为处理器上最后完成的任务，在相同处理器上任务执行的优先级关系由式(26)确定。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { P r } i \\big ( n _ { i } \\big ) = W \\left( n _ { i } \\right) / M _ { p [ } + \\displaystyle \\operatorname* { m a x } _ { n _ { j } \\in s u c c ( n _ { i } ) } \\left( C \\left( n _ { i } , n _ { j } \\right) / M _ { c } + \\mathrm { P r } i \\Big ( n _ { j } \\Big ) \\right) + } & { } \\\\ { \\alpha \\cdot B L \\big ( n _ { i } \\big ) } & { } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中： $M _ { p } , M _ { c }$ 为处理器处理能力中值和传输能力中值 $s u c c ( n _ { i } )$ 代表任务 $n _ { i }$ 的后继点集合， $B L ( n _ { i } )$ 为任务 ${ { n } _ { i } }$ 的 Bottom-Level。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "故本文的适应度函数可以由公式(27)-(29)表示，其中 $\\alpha { , } \\beta { \\in }$ [0,1], $\\alpha { + } \\beta { = } 1 , \\varepsilon$ 为调整系数， $T _ { p j }$ 为占用第 $j$ 个处理器的总时间，$P _ { p j }$ 为第 $j$ 个处理器单位时间的使用价格。可根据实际应用而调整时间和花费所占权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF i t n e s s = \\alpha \\cdot T i m e + \\beta \\cdot \\varepsilon \\cdot S P\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT i m e = \\operatorname* { m a x } _ { i = 1 } ^ { n } \\left( E S T _ { p } \\left( n _ { i } \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS P { = } \\sum _ { j = 1 } ^ { m } T _ { p _ { j } } \\cdot P _ { p _ { j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为验证本文算法在处理云工作流调度问题时的有效性，对处理器和任务数变化时的调度问题进行模拟仿真，并分别与QGA 和改进量子粒子群算法(Improved QuantumParticle SwarmOptimization,IQPSO)进行对比。实验中，算法最大迭代次数为400 或600次，QGA和IQPSO种群规模为60，本文算法种群规模为30，趋向个体数目为3，变异个体数目为5，圈数 $q$ 为7，其他参数与上节相同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本次实验采用实验室设计的云任务调度仿真系统，依据用户制定参数，随机生成10-100个节点的任务和4-10个资源的系统。节点计算量控制在[50,200]内，节点间通信量控制在[5,30]内，节点最大入度和出度为10，图最大深度为8；资源计算能力取值范围[30,100],资源单位时间使用价格范围[1,10]，传输能力取值范围[10,30]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图12和图13为当资源数固定为8时的仿真结果，由图可以看出IQPSO算法寻得的完工时间效果比QGA差，但使用处理器价格要优于QGA，而本文算法在时间和花费上均优于",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IQPSO和QGA算法。调度算法在约束条件不同的情况下，可能产生求得的完工时间与花费不均衡的现象，而本文算法具有更好的均衡性。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d11f58ab97a56cdf7dcefe60f66e58b0d77d62d766afce6ba0e385047e0e5c7.jpg",
+        "img_caption": [
+            "图12不同任务数时完工时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b242fc0aca8cb0ba9a3c57c2c0592003ef494e8ba43f7f12fb1ad827bdad789.jpg",
+        "img_caption": [
+            "图13不同任务数时最小花费对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图14和15展示了当任务数固定时，完工时间和最小花费随资源数变化而改变的结果，可看出在资源数少于6时本文算法得到的完工时间多于QGA和IQPSO算法，当资源数超过6后本文算法所用时间较少；对于最低花费，本文算法所得结果均优于QGA和QIPSO算法，故在任务数固定资源数改变时，本文算法依然具有较优性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b2b911ceba1430059ff8883ff28e4e5e69073acdbae62c2c47cd472ba4c3e4a.jpg",
+        "img_caption": [
+            "图14不同资源数时的完工时间对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d980cdf0d82e1174c047cf0b302eff21a510d15517dc199b96a2e7188215b9d9.jpg",
+        "img_caption": [
+            "图15不同资源数时的最小花费对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图16和17展示了任务数，资源数固定时三种算法适应度值变化的情况，由结果可知，IQPSO 算法和RQSOS 算法在前期进化效率较高，但IQPSO 算法性能很快下降，RQSOS 算法保持较高进化效率且优于IQPSO算法，说明本文算法所提出的学习模式和变异模式是有效的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在任务数增加时，任务处理变得复杂，算法想寻得一个稳定点均需要一定迭代次数，但由图17可看出，本文算法能够很快的找到较优解，在算法后期，IQPSO和QGA算法均有跳出局部最优的能力，但是效率极低，本文算法在后期以更大概率跳出局部最优，找到更优解，进一步说明了本文算法的优越性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/90faacce6fcbefe8fe95a5ee55f3b22326eaa54a05972fe6cb7a7a48384495f4.jpg",
+        "img_caption": [
+            "图16任务数为20时适应度和迭代次数对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7cd8b05e335af7b8cf290a0fcf799828fdc1b85f095eebac300c97fa972322f.jpg",
+        "img_caption": [
+            "图17任务数为80时适应度和迭代次数对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "结合量子遗传算法理论与共生演算法，提出一种实数编码的量子共生演算法。首先提出差异度概念和基于阿基米德线的探索学习模式，可使算法在解空间快速、细致的搜索最优解。通过监测差异度值实时了解种群的多样性和与当前最优均值的距离，当种群多样性较强但综合距离当前最优均值距离较远时，采用趋向学习和交叉学习模式加快种群向最优方向的进化；当种群多样性丢失，为防止算法陷入局部最优，引入变异操作，加强了算法的探测能力。数值实验和云工作流任务调度实验结果表明，本文算法有效的提升了SOS算法性能，能够得到更优解。但监测信息是以反馈方式作用于算法，该方式增加了原算法复杂度。因此，在以后的研究工作中有必要进一步分析模型，加强本文提出思想与原算法的融合程度，减小算法的复杂度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Narayanan A,Moore M.Quantum-inspired genetic algorithm [C]//Proc of ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IEEE International Conference on Evolutionary Computation.Piscataway: IEEE Press,1996:61-66.   \n[2]Han KH,Jong HK.Quantum-inspired evolutionary algorithm for a class of combination optimization [J].IEEE Trans on Evolutionary Computation, 2002,6(6): 580-593.   \n[3]Yang Shuyuan,Jiao Licheng. The quantum evolutionary programming [C]/ Proc of the 5th International Conference on Computational Intelligence and Multimedia Applications.2003:362-367.   \n[4]Sun Jun,Xu Wenbo,Feng Bin.A global search strategy of quantum behaved particle swarm optimization [C]//Proc of IEEE Conference on Cybernetics and Intelligent Systems.2004:325-331.   \n[5] 李盼池，李世勇．求解连续问题空间优化问题的量子蚁群算法[J].控 制理论与应用,2008,25(2):237-240.   \n[6]Luciano R S,Ricardo T,Marley M V.Quantum inspired evolutionary algorithm for ordering problems.Expert Systems with Applications,2017, 67: 71-83.   \n[7]Pavithr R,Gursaran S.Quantum inspired social evolution (QSE)algorithm for O-1 knapsack problem[J].Swarm and Evolutionary Computation,2016, 29:33-46.   \n[8]Liu Min,Zhang Feng,Ma Yunlong,et al. Evacuation path optimization based on quantum ant colony algorithm [J].Advanced Engineering Informatics,2016,30 (3):259-267.   \n[9]Yuan Xiaohui,Wang Pengtao,Yuan Yanbin,et al.A new quantum inspired chaotic artificial bee colony algorithm for optimal power flow problem [J] Energy Conversion and Management, 2015,100:1-9.   \n[10] Konar D,Bhattacharyya S, Sharma K,et al.An improved quantum-inspired genetic algorithm (HQIGA） for scheduling of real-time task in multiprocessor system.Applied Soft Computing,2017,53:296-307.   \n[11] Zhao Shuanfeng,Xu Guanghua,Tao Tangfei,et al.Real-coded chaotic quantum inspired genetic algorithm for training of fuzzy neural networks. Computers and Mathematics with Applications,2009,57 (11-12):2009- 2015.   \n[12]高辉，徐光辉，张锐，等．实数编码量子进化算法[J].控制与决策， 2008,23 (1):87-90.   \n[13]高辉，张锐．改进实数编码量子进化算法及其在参数估计中的应用[J]. 控制与决策,2011,26(3):418-422.   \n[14] Cheng Minyuan,Doddy P.Symbiotic organisms search: a new metaheurstic optimization algorithm[J]. Computer and Structures,2014,139:98-112.   \n[15]赵克勤．集对分析及其初步应用[M].杭州：浙江科技出版社,2000.   \n[16] Rahnamayan S,Wang G G,Ventrescaet M.An intuitive distance based explanation of opposition-based sampling [J].Applied Soft Computing, 2012,12(9):2828-2839.   \n[17]刘会超，吴志健．基于旋转学习机制的差分演化算法[J].电子学报, 2015,43(10):2040-2046. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

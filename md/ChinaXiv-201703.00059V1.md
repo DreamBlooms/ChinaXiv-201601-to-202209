@@ -1,0 +1,238 @@
+# DOI:10.5846/stxb201606291299
+
+李帅,魏虹,刘媛,马文超,顾艳文,彭月,李昌晓.气候与土地利用变化下宁夏清水河流域径流模拟.生态学报,2017,37(4)：1252-1260.LiS,WeiH,LiuYa,GuWngY,iCXuofpredictioforigiQingsiverBsidersceoofiatendladechanges.Acta Ecologica Sinica,2017,37(4）:1252-1260.
+
+# 气候与土地利用变化下宁夏清水河流域径流模拟
+
+李帅},²，魏虹1，\*，刘媛¹，马文超¹，顾艳文¹，彭月³,李昌晓1
+
+1三峡库区生态环境教育部重点实验室西南大学生命科学学院，重庆400715  
+2中国林业科学研究院沙漠林业实验中心，磴口015200  
+3重庆市林业科学研究院，重庆400036
+
+摘要：气候和土地利用变化是影响水资源变化最直接的因素。应用SWAT模型对干旱半干旱区小流域宁夏清水河流域径流进行多情景模拟预测,以历史气候要素变化趋势和CA-Markov模型分别设置未来气候和土地利用变化情景，以决定系数 $R ^ { 2 }$ 和Nash-Sutcliffe模型效率系数 Ens（Nash-Sutclffefciency coefficint）来衡量模拟值与实测值之间的拟合度,并评价模型在清水河流域的适用性。结果表明，韩府湾站在校准期和验证期的 $R ^ { 2 }$ 分别为0.80和0.71，Ens分别为0.77和0.69，泉眼山站在校准期和验证期的 $\textstyle R ^ { 2 }$ 分别为0.66和0.63,Ens分别为0.62和0.56,表明构建的 SWAT模型可以用于清水河流域的径流模拟。对未来气候和土地利用变化情景下径流的模拟结果显示,径流变化主要由降水变化主导,降水减少和气温升高的综合作用对流域径流变化影响最为显著;由于耕地和建设用地的增加,未来3种土地利用情景下流域径流量将均会呈现明显增加变化。与 2010 年相比，到2020年，自然增长情景流域径流将增加 $1 7 . 0 4 \%$ ,林地保护情景径流将增加 $1 4 . 4 4 \%$ ,规划情景径流将增加 $1 3 . 9 8 \%$ ；综合降水、气温和土地利用的结合变化情景显示，未来流域径流将会有不同程度的下降,规划情景和气候变化的结合情景的径流下降最为明显,而有意增大林地和加强生态保护的林地保护情景对减缓流域径流下降具有一定作用。在气候变化的大背景下,根据水资源利用管理目标,可通过调整流域管理措施，特别是土地利用变化和改善区域小气候来减缓气候变化对流域水资源的负面效果，以此来改善流域径流和生态环境状况。
+
+关键词：气候变化；土地利用变化；宁夏清水河流域;SWAT模型；径流模拟
+
+# Runoff prediction for Ningxia Qingshui River Basin under scenarios of climate and land use changes
+
+LI Shuai1²，WEI Hong1,\*,LIU Yuan’，MA Wenchao'，GU Yanwen’，PENG Yue³，LI Changxiao'   
+1KeLbotfff   
+400715，China   
+2Desert Forestry Experimental Center,Chinese Academy of Forestry,Dengkou O152OO,China   
+3 Chongqing Forestry Research Institute，Chongqing 400036,China
+
+Abstract：Climateandlandusechangesare veryimportantfactors that directly influence waterresources.Topredictrunoff underclimateand landusechanges in Ningxia QingshuiRiver Basin,which isa typical basin located inthearidand semiaridareaofYellw River Valey,thedistributed hydrologic SWATmodel wascalibratedand validatedusing thecoeficient of determination ( $\left( R ^ { 2 } \right)$ ）and Nash-Sutcliffe coefficient （Ens）at the Hanfuwan and Quanyanshan hydrological stations.Several future climateandland usechange scenarios fortheyear 2O2O were setusing theclimate historical trendandCA-Markov model.The calibration and validation results for Hanfuwan station showed that $\boldsymbol { R } ^ { 2 }$ was O.8O and O.71，and ENS was O.77 and
+
+http ://www.ecologica.cn
+
+0.69，respectively，while the results for Quanyanshan station showed that $R ^ { 2 }$ was O.66 and O.63，and ENS was O.62 and 0.56,respectively.Theresultssuggestedthatthe SWATmodel couldbeused to predicttherunoff under climateand land usechanges in Qingshui Riverbasin.Further，ourresults showed thatrunoffwas dominated by precipitation,and theresult underthe scenarioof reduced precipitation combined with increased temperature had the largest impacts.Runoff can be expected increaseinthe future landusescenarios because of theincreasing farmlandand built-uparea.Under natural growth，planned development，and woodland/ecological protection scenario,the runoffin 2O2O would increase by $1 7 . 0 4 \%$ ， $1 4 . 4 4 \%$ ，and $1 3 . 9 8 \%$ respectively compared with 2010.Lastly，the runoff change in 202O was predicted by SWAT model underthecombineofland use scenariosand climate change scenarios.Theresults showed thattherunof woulddecrease in thefutureunder all combinationsof scenarios.Among them，therunoff decreased perceptiblyunder thecombinationof planed development scenarioand climatechanges，and the woodland/ecological protection measure is helpfultoslowdown therate ofrunoff decline underallclimatechange scenarios inthe future.Therefore，inthe context of climatechange, ecologically prudent constructions andland-use managements are necessry tocope withthe severe situationofrunof change in Qingshui River basin.
+
+Key Words: climate change；land use change；Ningxia Qingshui River Basin； SWAT model；runof prediction
+
+环境变化下的水文研究是当今全球变化研究的热点之一[1-2]。在环境变化中,气候变化和土地利用变化是影响水资源变化最直接的两个因素。气候变化直接改变大气降水的空间分布和时间变异特性[3],土地利用变化则能直接引起地表蒸散(发)变化从而使水资源发生改变。由于分布式水文模型既考虑了流域的空间异质性,也能较好地对流域水文物理过程进行刻画,因而被广泛运用于两者变化对水资源影响的研究当中[4-5]。其中,SWAT(水土评价工具,Soil and water assessment tool)模型已被大量研究证明其在各种地理和气候区域均具有较好的适用性[6-7]。尤其在水资源贫乏的干旱半干旱区,SWAT模型已经成为水文研究最重要的工具之—[8-9]
+
+我国干旱半干旱区面积广阔,但自然条件恶劣,水资源量少质差,且空间分布严重不均。人类的社会经济活动基本集中在黄河流域和内陆河流域片区,使得流域周边人口密度大,人均占有量严重不足,水资源已经成为干旱半干旱区社会经济发展的主要制约因素。对该区域内流域的水文变化特征,尤其是在气候和土地利用变化背景下的未来径流变化特征进行深入研究,并将研究结果应用于流域水资源规划与管理中,这对构建健康稳定的干旱半干旱区流域生态系统极为重要。在目前已有的基于SWAT模型的气候和土地利用变化下水文变化的研究中,未来气候变化情景的常见方法有 IPCC 法[10-11]和基于历史变化趋势变化法[4-5,12]两种。由于IPCC预测结果的不确定性及较低的分辨率等局限性,因此基于气候变化趋势设置变化情景的方法在相关研究中得到更为广泛的应用。但在大多气候变化情景研究中，研究者通常将流域作为一个整体来对待，并未考虑流域的空间异质性,使得研究结果的实用价值受到影响。而在未来土地利用变化情景的设置中，也多以土地利用现状为基础,简单设置不同土地利用类型面积的增减变化,较少结合研究区域的实际和发展规划。
+
+宁夏清水河是宁夏境内最大的一条黄河支流,其中多年平均地表水可利用量仅为0.7亿 $\mathbf { m } ^ { 3 [ 1 3 ] }$ ,但流域内近年取水总量超过4亿 $\mathbf { m } ^ { 3 [ 1 4 ] }$ ,是黄河上游典型的缺水型流域。近年来由于地下水位严重下降，矿化度上升,流域生态安全面临巨大挑战。本文尝试基于SWAT模型构建流域的分布式水文模型,通过气候要素变化趋势分区设置气候变化情景,并利用CA-Markov模型预测未来土地利用变化情景,以此分析两者对流域产流的影响,并对流域未来河流径流进行模拟预测。研究结果可为宁夏清水河流域水资源保护利用提供参考，并为黄河流域乃至干旱半干旱区域的水资源管理、生态环境保护、政策制定以及合理规划提供决策依据与科学指导。
+
+# 1研究区概况
+
+宁夏清水河发源于六盘山东麓固原市原州区开城镇黑刺沟脑,向北流经固原市的原州区、西吉县,中卫市的海原县、沙坡头区、中宁县和吴忠市的同心县、红寺堡区等区县,于泉眼山西侧注入黄河，全长 $3 0 3 ~ \mathrm { k m }$ 。在宁夏境内流域地理位置介于 $3 5 ^ { \circ } 5 3 ^ { \prime } - 3 7 ^ { \circ } 2 8 ^ { \prime } \mathrm { N } , 1 0 5 ^ { \circ } 1 2 ^ { \prime } -$ $1 0 6 ^ { \circ } 3 8 ^ { \prime } \mathrm { E }$ 之间,面积 $1 3 5 1 1 ~ \mathrm { k m } ^ { 2 }$ ,是宁夏境内最大的黄河一级支流（图1)。流域地势南高北低,地形地貌复杂，以黄土丘陵为主，中上游为洪积一冲积平原区，中游西侧为黄土丘陵、盆、塌区，中游东侧为黄土丘陵区，中下游为河谷平原。属温带半干旱气候区，多年平均降水量为 $3 3 5 ~ \mathrm { m m }$ ,时空分布不均匀，主要集中在7一9月（占全年降水量的 $70 \%$ 以上），自下游至上游降水在200—$6 0 0 ~ \mathrm { { m m } }$ 之间;年均气温 $6 . 2 \%$ ;多年平均蒸发量1000—$1 4 0 0 ~ \mathrm { m m }$ 。
+
+# 2研究区SWAT模型构建
+
+# 2.1模型输入数据
+
+SWAT模型的输入数据包括DEM数据( $9 0 ~ \mathrm { m } \times 9 0 \$ $\mathrm { ~ m ~ }$ ,来源于国际科学数据服务平台）、土壤数据、土地利用数据、气象数据和水文数据。土壤数据包括土壤空间分布数据和土壤物理属性数据,物理属性数据中土壤机械组成数据需使用MATLAB中采用3次样条插值法将国际制转换为美国制[15]。土地利用数据以流域 2000年和2010年两期TM影像（来源于国际科学数据服务平台)解译获得,结果经检验 Kappa系数分别达到0.81、0.78。气象数据为流域内部及周边6个气象站点1980—2010 年的日观测数据(来源于中国气象数据网)。水文数据为清水河流域中游韩府湾水文站和下游泉眼山水文站 2000—2011 年的月径流实测数据。
+
+![](images/e4b3b26b5f55f50179ad5efa1f9ef403008a7b27484197368a97f7cbed01e97d.jpg)  
+图1宁夏清水河流域位置示意图  
+Fig.1Location of Ningxia Qingshui River basin
+
+# 2.2 模型校准及验证
+
+由于ArcSWAT模型自带的模型参数敏感性分析、模型校准和验证工具的功能相对较弱[16],因此选取SWAT-CUP对清水河流域 SWAT模型进行模型校准和验证。将 2000年作为预热期,2001—2005 年为校准期,2006—2011年为验证期。遵循流域自上而下的校准原则,先对韩府湾水文站以上区段,后对韩府湾至泉眼山间区段进行参数敏感性分析和校准。
+
+# 2.3模型适用性评价
+
+选取决定系数 $R ^ { 2 }$ 和 Nash-Sutcliffe 模型效率系数 Ens 来衡量模拟值与实测值之间的拟合度[17-18],以此评价SWAT模型在清水河流域的适用性。
+
+决定系数 $R ^ { 2 }$ 表示模拟值与实测值的吻合程度,表达式[19]为：
+
+$$
+R ^ { 2 } = \left\{ \frac { \displaystyle \sum _ { i = 1 } ^ { n } \left( Q _ { o , i } - Q _ { \mathrm { a v g } } \right) \left( Q _ { p , i } - Q _ { p \mathrm { a v g } } \right) } { \displaystyle \left[ \sum _ { i = 1 } ^ { n } \left( Q _ { o , i } - Q _ { \mathrm { a v g } } \right) ^ { 2 } \sum _ { i = 1 } ^ { n } \left( Q _ { p , i } - Q _ { p \mathrm { a v g } } \right) ^ { 2 } \right] ^ { 0 . 5 } } \right\} ^ { \frac { n } { 2 } }
+$$
+
+式中， $Q _ { o , i }$ 为实测流量值, $Q _ { p , i }$ 为模拟流量值, $Q _ { \mathrm { a v g } }$ 为实测流量平均值, $Q _ { \mathrm { p a v g } }$ 为模拟流量平均值。 $R ^ { 2 }$ 取值为0—1,数值越小表示吻合程度越低，一般 $R ^ { 2 }$ 达到0.50以上模拟结果可以接受,0.70以上模拟比较准确,等于1表明非常吻合[20]。
+
+Ens 能判断水文模型的模拟效果,表达式[21]为：
+
+$$
+{ \mathrm { E n s } } = 1 - { \frac { \displaystyle \sum _ { i = 1 } ^ { n } ~ ( Q _ { o , i } - Q _ { p , i } ) ~ ^ { 2 } } { \displaystyle \sum _ { i = 1 } ^ { n } ~ ( Q _ { o , i } - Q _ { a v g } ) ~ ^ { 2 } } }
+$$
+
+式中， $Q _ { o , i }$ 为实测流量值, $Q _ { p , i }$ 为模拟流量值, $Q _ { \mathrm { a v g } }$ 为实测流量平均值。Ens 在0—1之间变动,越接近于1模拟精度越高,一般在0.50—0.65 之间为满意,0.65—0.75之间为好,0.75—1.00 之间为很好。
+
+# 3情景设置
+
+# 3.1 气候变化情景
+
+根据宁夏气候区划[22],结合流域地理特征,将清水河流域划分为北部、中部和南部3个分区,北部包括中卫、中宁两个气象站,中部为同心站,南部包括海原、西吉和固原3个气象站。基于1980—2010年3个分区气象站的降水和气温变化趋势,以2010年气象数据(C0)为基础,以10a为研究尺度,设置2020年气候变化情景如下：
+
+情景1（C1）只降水发生改变。北部汛期降水增加 $0 . 8 7 ~ \mathrm { m m }$ ,非汛期减少 $2 . 5 7 ~ \mathrm { m m }$ ;中部汛期下降11.84$\mathbf { m } \mathbf { m }$ ,非汛期降水下降 $4 . 6 8 ~ \mathrm { m m }$ ;南部汛期降水下降 $1 0 . 0 5 ~ \mathrm { m m }$ ,非汛期减少 $2 . 3 4 ~ \mathrm { m m }$ 。
+
+情景2（C2）只气温发生改变。北部最高温上升 $0 . 4 9 ^ { \circ } \mathrm { C }$ ,最低温上升 $0 . 5 9 ^ { \circ } \mathrm { C }$ ;中部最高温上升 $0 . 3 8 ^ { \circ } \mathrm { C }$ ,最低温上升 $0 . 3 9 ^ { \circ } \mathrm { C }$ ;南部最高温上升 $0 . 5 9 ^ { \circ } \mathrm { C }$ ,最低温上升 $0 . 7 1 \mathrm { ^ { \circ } C }$ 。
+
+情景3（C3）降水和气温同时发生改变的组合情景。
+
+3.2 土地利用变化情景
+
+根据流域历史土地利用变化情况,结合未来发展规划,构建流域2010—2020年的3种土地利用发展情景,利用CA-Markov模型对流域 2020年的土地利用进行模拟，并将 2010年实际土地利用设置为基础情景（SO）,以此来分析未来土地利用变化对径流的影响（图2）。
+
+![](images/4ce3690970a46fafe15db0a01a32f3891420d65f76e9acff6a365ca089a3bd6c.jpg)  
+图2清水河流域2020年土地利用类型空间分布图  
+Fig.2Distribution of land use types in Qingshui River basin of 2020
+
+SO:基础情景Basescenario；S1:自然增长情景Naturalgrowthscenario；S2：规划情景Plaingscenario；S3：林地保护情景Woodland/ecological protection scenario
+
+情景1(S1)为自然增长情景，土地利用变化按原有趋势持续演变。
+
+情景2（S2)为规划情景,在2010年土地利用的基础上,参考宁夏2006—2020年土地利用总体规划，调整流域 2020 年各土地利用类型的面积。
+
+情景3（S3)为林地保护情景,在规划情景的基础上,严格限制其他土地利用类型侵占林地和水域,对坡度大于 $2 5 ^ { \circ }$ 耕地全部进行退耕还林的举措。
+
+# 3.3气候和土地利用结合变化情景
+
+气候变化和土地利用变化协同作用于径流变化,因此设置两者结合变化情景,如表1所示。
+
+表1流域气候和土地利用结合变化情景  
+Table 1 Scenarios of climate and land use combination   
+
+<html><body><table><tr><td rowspan="2">土地利用变化情景 Land use change scenario</td><td colspan="3">气候变化情景 Climate change scenario</td></tr><tr><td>C1</td><td>C2</td><td>C3</td></tr><tr><td>S1</td><td>S1+C1</td><td>S1+C2</td><td>S1+C3</td></tr><tr><td>S2</td><td>S2+C1</td><td>S2+C2</td><td>S2+C3</td></tr><tr><td>S3</td><td>S3+C1</td><td>S3+C2</td><td>S3+C3</td></tr></table></body></html>
+
+S1：自然增长情景Naturalgrowthscenario；S2：规划情景Planingscenario；S3林地保护情景Woodand/ecological protectionscenario；C1：降水 变化情景Precipitatonchangescenario；C2：气温变化情景Temperature changescenario；C3：降水与气温结合变化情景Precipitatonandtemperature combination scenario
+
+# 4结果与分析
+
+# 4.1 SWAT模型校准及验证
+
+选择和径流有关的14个参数进行敏感性分析,综合清水河上段和下段的参数分析结果可知对清水河流域径流产生最敏感的参数有 CN2（SCS 模型径流曲线参数,SCS runoff curve number for moisture condition II）、CH_N2（主河道曼宁系数,Manning's"n"value for the main channel）、CANMX（最大覆盖度参数,Maximumcanopy storage）和ALPHA_BNK（河岸蓄水基流 $\propto$ 系数,Base flow alpha factor for bank storage)等,其余参数影响相对较小（表2)。CN2的变化直接影响径流产生,CH_N2的大小对流域汇流时间影响显著,从而进一步影响着水文过程线形状的变化。径流产生对CANMX的变化敏感说明清水河流域径流产生受植被覆盖变化影响较大,径流变化对ALPHA_BNK的变化敏感说明清水河流域河岸的蓄水能力在对径流产生影响也较大。
+
+在 SWAT-CUP工具中,模型参数校准与参数敏感性分析同时进行,韩府湾及泉眼山水文站的校准结果如表3所示。韩府湾水文站月径流量的 $R ^ { 2 }$ 为0.80，Ens 为0.77,泉眼山水文站的 $R ^ { 2 }$ 和 Ens 分别为0.66 和0.62,表明模型在清水河流域月径流的校准期结果较为满意。
+
+为检验模型在清水河流域的适用性，对校准后的模型进行验证。由表3可知韩府湾水文站在验证期的$R ^ { 2 }$ 和 Ens 分别达到0.71和0.69,模拟效果较好。泉眼山水文站月径流在验证期的 $R ^ { 2 }$ 为0.63，Ens为0.56,模拟结果仍在可接受范围。
+
+结果表明,构建的SWAT模型可以用于清水河流域的河流径流模拟,且在韩府湾以上区段的适用性要好于其以下区段。流域上段和下段产生适用性差异是由模型校准过程所决定,SWAT模型校准属于分段校准，在上段进行校准后再对下段进行校准，,上段校准模拟的径流结果直接用于下段河流径流的模拟，从而导致模型在下段的模拟精度下降。
+
+# 4.2 情景模拟
+
+# 4.2.1气候变化下流域径流模拟
+
+利用SWAT模型对清水河流域出口泉眼山站2020年河流径流量对气候变化的响应进行模拟,结果见表4。仅降水发生变化时,径流变化响应较为敏感,2020 年年均径流量下降到 $1 . 1 9 7 ~ \mathrm { m } ^ { 3 } / \mathrm { s }$ ,相比2010年产流下降$3 . 8 2 \%$ ;而气温升高变化对径流变化影响相对较弱,径流量下降了 $0 . 0 2 2 ~ \mathrm { m } ^ { 3 } / \mathrm { s }$ ,变化率仅为 $- 1 . 8 2 \%$ ;当降水和气温同时发生变化时,即流域降水减少,温度也升高的情况下,径流变化响应非常明显,径流变化率达到
+
+$- 5 . 1 3 \%$ ,年均径流量仅为 $1 . 1 8 0 ~ \mathrm { m } ^ { 3 } / \mathrm { s }$ ○
+
+Table 2Sensitivity analysis of the parameters   
+
+<html><body><table><tr><td colspan="3">韩府湾 Hanfuwan</td><td colspan="3">泉眼山Quanyanshan</td></tr><tr><td>排序 Order</td><td>参数 Parameter</td><td>定义 Parameter definition</td><td>排序 Order</td><td>参数 Parameter</td><td>定义 Parameter definition</td></tr><tr><td>1</td><td>CN2</td><td>SCS 径流曲线参数</td><td>1</td><td>CN2</td><td>SCS 径流曲线参数</td></tr><tr><td>2</td><td>CH_K2</td><td>沟道有效水导电率</td><td>2</td><td>CH_N2</td><td>主河道曼宁系数</td></tr><tr><td>3</td><td>CH_N2</td><td>主河道曼宁系数</td><td>3</td><td>CANMX</td><td>最大覆盖度参数</td></tr><tr><td>4</td><td>CANMX</td><td>最大覆盖度参数</td><td>4</td><td>ALPHA_BNK</td><td>河岸蓄水基流α系数</td></tr><tr><td>5</td><td>ALPHA_BNK</td><td>河岸蓄水基流α系数</td><td>5</td><td>SOL_AWC</td><td>土壤可利用水量参数</td></tr><tr><td>6</td><td>SOL_K</td><td>饱和水力传导参数</td><td>6</td><td>SLSUBBSN</td><td>平均坡长参数</td></tr><tr><td>7</td><td>SOL_AWC</td><td>土壤可利用水量参数</td><td>7</td><td>SOL_Z</td><td>土壤深度参数</td></tr><tr><td>8</td><td>ESCO</td><td>土壤蒸发补偿参数</td><td>8</td><td>GWQMN</td><td>浅层地下水径流参数</td></tr><tr><td>9</td><td>REVAPMN</td><td>浅层地下水再蒸发参数</td><td>9</td><td>REVAPMN</td><td>浅层地下水再蒸发参数</td></tr><tr><td>10</td><td>ALPHA_BF</td><td>基流消退参数</td><td>10</td><td>ESCO</td><td>土壤蒸发补偿参数</td></tr><tr><td>11</td><td>GWQMN</td><td>浅层地下水径流参数</td><td>11</td><td>CH_K2</td><td>沟道有效水导电率</td></tr><tr><td>12</td><td>SOL_Z</td><td>土壤深度参数</td><td>12</td><td>ALPHA_BF</td><td>基流消退参数</td></tr><tr><td>13</td><td>SLSUBBSN</td><td>平均坡长参数</td><td>13</td><td>SOL_K</td><td>饱和水力传导参数</td></tr><tr><td>14</td><td>BLAI</td><td>最大潜在叶面积指数参数</td><td>14</td><td>BLAI</td><td>最大潜在叶面积指数参数</td></tr></table></body></html>
+
+CN2：SCSrucembfoosueodiioItilicdctiyfael;Cag'sufor themainchael；CANX；Maiumcanopystoage；ALHNKBasealphafactorforbanstoage；SO_：Saturatedhraulicouctii SOLAWC：Aleaterapacitofele；ECleporatioopesaifnt；eshdaterelow aquiferforrevap；ALPHA_BF：Baseflowrecesionconstant；GWQMN：Threshold waterlevel inshallowaquiferforbaseflow； $\mathrm { \ S O L _ { - } Z }$ ：Depth from soil surface to botom of layer；SLSUBBSN：Average slope length；BLAI：Potential maximum leaf area index for the plant
+
+表2模型参数敏感性分析结果  
+表3清水河流域SWAT模型月径流校准和验证结果  
+
+<html><body><table><tr><td rowspan="2">校准期/验证期 Period of calibration/validation</td><td rowspan="2">水文站 Station</td><td colspan="2">月均值 Monthly mean value/(m³/s)</td><td rowspan="2">R²</td><td rowspan="2">Ens</td></tr><tr><td>实测值 Observation</td><td>模拟值 Prediction</td></tr><tr><td>校准期Calibration period(2001—2005)</td><td>韩府湾</td><td>0.81</td><td>0.68</td><td>0.80</td><td>0.77</td></tr><tr><td rowspan="3">验证期Validation period(2006—2011)</td><td>泉眼山</td><td>2.43</td><td>2.57</td><td>0.66</td><td>0.62</td></tr><tr><td>韩府湾</td><td>0.41</td><td>0.37</td><td>0.71</td><td>0.69</td></tr><tr><td>泉眼山</td><td>1.33</td><td>1.60</td><td>0.63</td><td>0.56</td></tr></table></body></html>
+
+Ens：Nash-Sutcliffe 模型效率系数 Nash-Sutcliffe efficiency coefficient
+
+Table 3Calibration and validation of SWAT model for monthly runoff in Qingshui River basin   
+表4不同气候变化情境下流域径流变化  
+Table 4Changes of runoff under climate scenarios in Qingshui River basin   
+
+<html><body><table><tr><td>气候变化情景 Climate change scenario</td><td>年均径流量/(m/s) Annual runoff value</td><td>径流变化率/% Change rate of runoff</td><td>气候变化情景 Climate change scenario</td><td>年均径流量/(m/s) Annual runoff value</td><td>径流变化率/% Change rate of runoff</td></tr><tr><td>CO</td><td>1.244</td><td>0.00</td><td>C1</td><td>1.197</td><td>-3.82</td></tr><tr><td>C2</td><td>1.222</td><td>-1.82</td><td>C3</td><td>1.180</td><td>-5.13</td></tr></table></body></html>
+
+CO：气候基础情景Climate base scenario；C1;降水变化情景Precipitationchange scenario；C2：气温变化情景Temperaturechange scenario；C3： 降水与气温结合变化情景 Precipitation and temperature combination scenario
+
+总体而言,流域未来径流变化的过程中,降水与气温结合变化对径流的影响最大，其中降水下降引起的径流减少占主导作用,这一结果与西北地区的其他相关研究结果相同[1,23]。降水变化直接影响流域的水资源总量,其变化对径流变化具有确定作用,气温变化影响流域的蒸散(发)变化,随着温度升高,流域内的蒸发增加,在降雨不变情况下,径流减少[4],而在当蒸发水量变化不大时,降水对径流影响更显著[24]。
+
+http ://www.ecologica.cn
+
+# 4.2.2 土地利用情景下流域径流模拟
+
+未来3种土地利用情景下径流变化模拟结果如表5所示,到2020年3种土地利用情景下的径流量较2010 年均有明显上升。变化最大的是自然增长情景（S1）,径流增加了 $1 7 . 0 4 \%$ ,主要原因是流域耕地和建设用地有较大程度的增加(表6),清水河流域河谷平原区耕地增加受限,耕地的增加转变为山地、丘陵区的坡耕地的增加,造成径流的显著增大[1],此外,建设用地的增长增大了流域不透水面,有助于径流增加。规划情景（S2)的径流量相对S1情景有所下降,但对于2010年仍有 $1 3 . 9 8 \%$ 的变化率,可能是S2情景下耕地增加虽然明显,但建设用地、未利用地和草地相对 S1情景有明显减少所致[25];林地保护情景(S3)相对于 S2 情景,林地、水域等有所增加,耕地和建设用地有所减少,导致流域径流稍有增加[25]。
+
+表5不同土地利用情景下流域径流变化  
+Table 5Changes of runoff under land use scenarios in Qingshui River basin   
+
+<html><body><table><tr><td>土地利用情景 change scenario</td><td>年均径流量/(m/s) Annual runoff value</td><td>径流变化率/% Change rate of runoff</td><td>土地利用情景 change scenario</td><td>年均径流量/(m/s) Annual runoff value</td><td>径流变化率/% Change rate of runoff</td></tr><tr><td>S0</td><td>1.244</td><td>0.00</td><td>S1</td><td>1.456</td><td>17.04</td></tr><tr><td>S2</td><td>1.418</td><td>13.98</td><td>S3</td><td>1.424</td><td>14.44</td></tr></table></body></html>
+
+表6清水河流域不同土地利用情景下土地利用类型面积  
+Table 6Structure of land use types of Qingshui River basin in 2020   
+
+<html><body><table><tr><td rowspan="2">土地利用类型 Land use type</td><td colspan="2">S0</td><td colspan="2">S1</td><td colspan="2">S2</td><td colspan="2">S3</td></tr><tr><td>面积/km² Area</td><td>比例/% Percentage</td><td>面积/km² Area</td><td>比例/% Percentage</td><td>面积/km² Area</td><td>比例/% Percentage</td><td>面积/km² Area</td><td>比例/% Percentage</td></tr><tr><td>林地Woodland</td><td>409.10</td><td>3.11</td><td>409.11</td><td>3.11</td><td>451.45</td><td>3.43</td><td>467.80</td><td>3.55</td></tr><tr><td>草地Grassland</td><td>6641.77</td><td>50.44</td><td>5479.01</td><td>41.61</td><td>5412.08</td><td>41.10</td><td>5412.08</td><td>41.10</td></tr><tr><td>水域Water</td><td>165.18</td><td>1.25</td><td>164.49</td><td>1.25</td><td>164.35</td><td>1.25</td><td>166.51</td><td>1.26</td></tr><tr><td>建设用地 Building land</td><td>402.62</td><td>3.06</td><td>586.87</td><td>4.46</td><td>449.16</td><td>3.41</td><td>447.90</td><td>3.40</td></tr><tr><td>未利用地Unused land</td><td>119.19</td><td>0.91</td><td>52.19</td><td>0.40</td><td>6.42</td><td>0.05</td><td>6.42</td><td>0.05</td></tr><tr><td>耕地Farmland</td><td>5429.34</td><td>41.23</td><td>6475.54</td><td>49.18</td><td>6683.74</td><td>50.76</td><td>6666.49</td><td>50.63</td></tr></table></body></html>
+
+SO:基础情景Basescenario；S1:自然增长情景Natural growthscenario;；S2：规划情景Planingscenario；S3:林地保护情景Woodland/ecological protection scenario   
+SO:基础情景Basescenario；S1;自然增长情景Natural growthscenario；S2：规划情景PlaningscenarioS3:林地保护情景Woodland/ecological protection scenario
+
+结果显示坡耕地的增加和生态用地的增加均能对流域径流产生积极的影响,但是在坡耕地增加的同时流域水土流失和土壤侵蚀问题也可能进一步加剧,因此进行植树造林、退耕还林还草等增加生态用地的方法才是未来流域土地利用的转变方向。
+
+# 4.2.3气候与土地利用结合变化下流域径流模拟
+
+对气候和土地利用变化协同作用下流域 2020年的径流进行模拟,结果显示(表7)在降水减少(C1)情况下,未来3种土地利用情景的流域径流均呈下降变化，变化率介于 $- 0 . 6 7 \% - - 3 . 4 1 \%$ ；只考虑气温变化时（C2）,3种土地利用情景的流域径流均有较大程度的增加( $1 2 . 3 1 \% - 1 5 . 3 8 \% )$ ;降水与气温结合作用情景下（C3），流域径流则呈现不同程度的下降，其下降变化率介于 $- 1 . 6 2 \% - - 4 . 2 4 \%$ 之间,均略大于C1情景。在不同气候变化情景条件下,3种土地利用情景的径流变化也均表现出 $\mathrm { S } 1 > \mathrm { S } 3 > \mathrm { S } 2$ ,结果与径流量对土地利用变化响应的结果一致。
+
+综合而言,在模拟的9种组合类型中,最有可能发生的变化情景是土地利用、降水和气温的综合变化情景,即 $\mathrm { S } 1 { + } \mathrm { C } 3$ 、 $\mathrm { S } 2 \mathrm { + C } 3$ 和 $\mathbf { S } 3 + \mathbf { C } 3$ 情景,其中 $\mathbf { S } 2 + \mathbf { C } 3$ 情景径流下降变化最大,变化率为 $- 4 . 2 4 \%$ ， $\mathbf { S } 3 + \mathbf { C } 3$ 次之（20 $( - 3 . 8 7 \% )$ ）， $\mathrm { S } 1 { + } \mathrm { C } 3$ 情景径流下降变化最小 $( - 1 . 6 2 \% )$ 。说明相对于 $\mathrm { S } 2 \mathrm { + C } 3$ 情景,有意增大林地和加强生态保护的 $\mathbf { S } 3 \substack { + } \mathbf { C } 2$ 情景在未来对减缓流域径流下降具有一定作用。
+
+http://www.ecologica.cn
+
+表7气候与土地利用结合变化下流域径流变化  
+Table 7Changes of runoff under combination scenarios in Qingshui River basin   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">土地利用变化 Land use change scenario</td><td colspan="4">气候变化 Climate change scenario</td></tr><tr><td>CO</td><td>C1</td><td>C2</td><td>C3</td></tr><tr><td rowspan="4">年均径流量/(m/s)</td><td>S0</td><td>1.244</td><td>1.197</td><td>1.222</td><td>1.180</td></tr><tr><td>S1</td><td>1.456</td><td>1.236</td><td>1.435</td><td>1.224</td></tr><tr><td>S2</td><td>1.418</td><td>1.202</td><td>1.397</td><td>1.191</td></tr><tr><td>S3</td><td>1.424</td><td>1.207</td><td>1.403</td><td>1.196</td></tr><tr><td rowspan="2"></td><td>土地利用变化</td><td colspan="4">气候变化 Climate change scenario</td></tr><tr><td>Land use change scenario</td><td>C0</td><td>C1</td><td>C2</td><td>C3</td></tr><tr><td rowspan="4">径流变化率/% Change rate of runoff</td><td>S0</td><td>0.00</td><td>-3.82</td><td>-1.82</td><td>-5.13</td></tr><tr><td>S1</td><td>17.04</td><td>-0.67</td><td>15.38</td><td>-1.62</td></tr><tr><td>S2</td><td>13.98</td><td>-3.41</td><td>12.31</td><td>-4.24</td></tr><tr><td>S3</td><td>14.44</td><td>-3.01</td><td>12.75</td><td>-3.87</td></tr></table></body></html>
+
+SO:基础情景Base scenario;S1;自然增长情景Natural growthscenario；S2：规划情景Planingscenario；S3：林地保护情景Woodland/ecological protetionscenario；CO：气候基础情景Climatebasescenario；C1:降水变化情景Precipiationchangescenario；C2气温变化情景Temperaturechange scenario；C3:降水与气温结合变化情景 Precipitation and temperature combination scenario
+
+在气候变化的背景下,人为规划干扰下的土地利用变化情景的径流下降最为明显,而有意增大林地和加强生态保护的规划对减缓流域径流下降具有一定作用。土地利用方面要从生态的角度增加流域径流，因此要在减少和改善丘陵山区坡耕地的同时,加快林地、草地等生态用地的建设。而在改善小气候上仍依托于土地利用变化,地表林地、草地、水域等均在一定程度上能够改善区域小气候,改善土壤微环境,降低地表温度,减少水分的直接蒸发,对地表径流产生具有积极作用。
+
+# 5结论与讨论
+
+构建宁夏清水河流域SWAT模型,对模型的适用性进行评价;建立几种未来气候变化和土地利用变化情景,利用 SWAT模型对流域2020年径流变化进行模拟,得到以下几点结论：
+
+构建的 SWAT模型可以适用于清水河流域的河流径流模拟,且在韩府湾以上的上游区段适用性较好,在韩府湾以下的中下游区段适用性有所下降。以后的研究可通过继续细化和深化收集数据来增加SWAT模型的模拟精度,提高模型的适用性。
+
+流域径流量在构建的几种气候变化情景中均呈减小变化,径流量变化由降雨变化主导,降水减少和气温升高的综合作用对流域径流影响最为显著。流域径流量在未来几种土地利用情景下均将会较大程度地增大变化,其中自然增长情景下流域径流有最大程度的增加,其次为林地保护情景和规划情景。
+
+流域 2020年最有可能发生的3种土地利用、降水和气温的结合情景下的模拟结果显示流域径流均会有不同程度的下降,即未来清水河流域河流径流极可能发生下降变化。由于清水河流域及宁夏黄河流域的流域生态系统处于干旱胁迫之中,河流径流的减少变化使得农业、生态需水等用水形势更加严峻,也将对生态环境造成较大影响。
+
+在气候变化的大背景下,根据水资源利用管理目标,可通过调整流域管理措施,特别是土地利用变化和改善区域小气候等减缓气候变化对流域水资源的负面效果。因此,清水河流域在未来流域管理和规划过程中,要从生态保护的角度出发,通过调整土地利用类型,合理布局,从而减缓径流的下降,甚至增大流域出水量。本研究也可为黄河流域及干旱半干旱区其他流域的水资源管理、生态环境保护、政策制定以及合理规划提供理论参考。
+
+# 参考文献（References）：
+
+[1］余新晓，张满良，信忠保，张学霞.黄土高原多尺度流域环境演变下的水文生态响应.北京：科学技术出版社，2011.
+
+http ://www.ecologica.cn
+
+[」NianYY,L,ouJ，HuLpactotandusehangeonwateresourceaocationntemdlereacesoteHeieesinnnorthwestern China. Journal of Arid Land,2014,6(3）：273-286.  
+［3］张建云，王国庆.气候变化对水文水资源影响研究.北京：科学出版社，2007.  
+[4］郭军庭，张志强，王盛萍,PeterS，姚安坤.应用SWAT模型研究潮河流域土地利用和气候变化对径流的影响.生态学报,2014,34（6)：1559-1567.  
+[5］袁宇志，张正栋，蒙金华.基于SWAT模型的流溪河流域土地利用与气候变化对径流的影响.应用生态学报，2015，26(4)：989-998.  
+[6]WuKS,XuYJEvaatfthailityoftoelfastalatershiouthasteLsJoulofecaterResources Association，2006,42(5）：1247-1260.  
+[7]LuoY,AoldJ,lenP,ChenX.BaseflowsiulatiousingSWdelinaninlandiverbsininTanshanMountains，osina.Hydrology and Earth System Sciences，2012,16：1259-1267.  
+[8]MasihIMaskeyS，UhlenbrokS,SmakhtinVIpactofupstreamcangesinin-fedgrcultureondownstreamflowinasi-aridbasin.Agricultural Water Management，2011，100(1）：36-45.  
+[9］王海龙，余新晓，武思宏，张晓明，谢媛媛.SWAT模型灵敏度分析模块在黄土高原典型流域的应用.北京林业大学学报，2007，（S2）：238-242.  
+[10]FickliDteartIaurefetsfrojeedliatechagotdrolginooLakeBsinlfalatichag,2013,116(1)：111-131.  
+[11]El-Khory,eidouO,anDR,QueZ,ohadian,uoraaD.obedipctsoftureliatendnduehagondischarge,nitrogenandphosphrusloadsforaCanadianriverbasin.JoumalofEnvironmentalManagementOl5,151：76-86.  
+[12］李成六.基于 SWAT模型的石羊河流域上游山区径流模拟研究[D].兰州：兰州大学,2011.  
+［13］艾成，丁环.宁夏清水河流域水文特性分析.宁夏农林科技,2010，（3)：71-72.  
+[14] 宁夏回族自治区水利厅.宁夏回族自治区2013水资源公报.银川：宁夏回族自治区水利厅，2014.  
+[15］蔡永明，张科利，李双才.不同粒径制间土壤质地资料的转换问题研究.土壤学报，2003,40(4)：511-517.  
+[16] 刘智勇.基于 SWAT-SUFI模型的黄土高原典型流域径流模拟及水资源管理系统的开发[D].杨陵：西北农林科技大学，2012.  
+[17]JhaM，AlJGssmnW,oiF，uRRCatechaesityessmeoUpprisisppRiverBsintreaouingSWAT.Journal of the American Water Resources Association，2006,42(4)：997-1015.  
+[18]SinghA,i,scRKensarisooflwtesenttl（）nduilererro（）tlneuralnetworkfoditigiteldinglualatesdindalateagnt4113-120.  
+[19]NieWanKeprashoCeiactseddcgoosan Pedro watershed. Journal of Hydrology，2011,407(1/4)：105-114.  
+[20]VanLeWarbechtJ.HdrociuaiofLitasitaveepetalwatedsingJoualofcaWaterResources Association，2003，39(2）:413-426.  
+[21]NashJEutclerflfreastiouepaodelsat-susofrcilesalodro）：282-290.  
+[22] 宁夏回族自治区气象局.宁夏气象志.北京：气象出版社，1995.  
+[23］张建云，王国庆.气候变化与中国水资源可持续利用.水利水运工程学报，2009，（4)：17-21.  
+[24] 李志，刘文兆，张勋昌，郑粉莉.气候变化对黄土高原黑河流域水资源影响的评估与调控.中国科学：地球科学,2010,40（3）：352-362.  
+[25］张荣飞.基于 SWAT模型的黄河流域宁夏段径流模拟研究[D].重庆：西南大学，2014.

@@ -1,0 +1,575 @@
+[
+    {
+        "type": "text",
+        "text": "1 基于16SrDNA高通量测序分析技术研究甘露寡糖对奶牛瘤胃菌群结构的影响！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 郭婷婷 胡丹丹 付子琳 李娜 徐晓锋\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （宁夏大学农学院，银川750021）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在利用16S rDNA高通量测序分析技术研究甘露寡糖对奶牛瘤胃菌群结构  \n5 的影响。选择泌乳阶段相近、胎次相同的泌乳早期奶牛4头，随机分为2组，对照组饲喂基  \n6 础饲粮，试验组饲喂基础饲粮，同时添加 $6 0 \\ \\mathrm { g / }$ 头甘露寡糖，通过口腔灌注添加。采用 $2 { \\times } 2$   \n7 交叉试验设计，每期21d，预试期 $1 4 { \\mathrm { d } }$ ，采样期7d。结果表明：1）与对照组相比，添加甘  \n8 露寡糖极显著提高了瘤胃液乙酸的浓度（ $_ { . { \\cal P } < 0 . 0 1 }$ ），乙酸/丙酸提高了 $8 . 4 7 \\%$ （ $\\cdot P { > } 0 . 0 5$ ）。2)  \n9 与对照组相比，门水平上，蓝藻门丰度极显著降低（ $_ { \\scriptstyle P < 0 . 0 1 }$ ），装甲菌门的相对丰度极显著  \n10 提高（ $_ { . { \\cal P } < 0 . 0 1 }$ ）；属水平上，厌氧螺菌属的相对丰度显著提高（ $\\cdot P { < } 0 . 0 5$ ），梭菌属的相对丰  \n11 度显著降低（ $\\cdot P { < } 0 . 0 5$ ），锥形杆菌属的相对丰度极显著降低（ $_ { . } { P } { < } 0 . 0 1$ ），瘤胃球菌属、假丁  \n12 酸弧菌属以及毛螺菌属的相对丰度分别增加 $2 4 . 3 4 \\%$ 、 $12 . 8 3 \\%$ 、 $3 1 . 8 0 \\%$ ( $. P { > } 0 . 0 5 \\$ ），普雷沃  \n13 氏菌属的相对丰度降低 $4 . 6 6 \\%$ ( $P { > } 0 . 0 5$ ），未注释韦荣氏菌属的相对丰度提高 $1 4 3 . 1 1 \\%$   \n14 （ $P { > } 0 . 0 5$ ），脱硫弧菌属的相对丰度提高 $4 . 8 8 \\%$ （ $P { > } 0 . 0 5$ ）。在本试验条件下，添加甘露寡  \n15 糖降低了瘤胃细菌的多样性，对纤维素降解菌群、半纤维素降解菌群影响明显；促进瘤胃液  \n16 乙酸浓度显著增加，但对瘤胃液 $\\mathfrak { p H }$ 无显著影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：奶牛；瘤胃；甘露寡糖；16SrDNA；菌群中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "功能性寡糖具有调控动物胃肠道微生物生长和改变微生物区系组成的作用，甘露寡糖是功能性寡糖的一种。研究发现甘露寡糖能够改善单胃动物肠道菌群结构，促进有益菌群增殖[1-2]，增强免疫力[3]，提高动物生产性能[4]。在特牛饲粮中添加的甘露寡糖在通过小肠时，与侵入病原菌的碳水化合物基团结合，使病原菌既不能繁殖，又不能附着在犊牛的肠壁，被安",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-03-14  \n1项目基金：国家自然科学基金项目（31460619）  \n作者简介：郭婷婷（1993—），女，山东菏泽人，硕士研究生，研究方向为反刍动物营养。E-mail:guoyx729@163.com  \n\\*通信作者：徐晓锋，副教授，硕士生导师，E-mail：xuxiaofengnd@126.com全排出体外，而对乳酸菌等有益菌没有负面影响[5]。近几年研究人员在成年反刍动物上也进行了甘露寡糖应用研究，发现其在促进瘤胄发酵、瘤胃菌群结构等方面也具有积极作用。Heinrichs 等[6报道，甘露寡糖能够优化牛的胃肠道微生态环境，促进双歧杆菌等有益菌的增殖，抑制大肠杆菌等致病菌的增殖。刘立恒等7研究报道，饲粮添加甘露寡糖与其他寡糖组合后，牛瘤胃液细菌的PCR-变性梯度凝胶电泳（PCR-DGGE）图谱条带数明显增加，经测序,其中2个是产琥珀酸丝状杆菌属。甘露寡糖作为主要功能性寡糖在单胃动物上研究较多，目前在反刍动物上的应用研究也备受关注，但甘露寡糖如何改变瘤胃菌群结构目前报道不一。为此，本研究基于16SrDNA高通量测序分析技术，探讨添加甘露寡糖对奶牛瘤胃菌群结构与多样性的影响，为其在奶牛中的应用研究提供理论依据。  \n1材料与方法  \n1.1试验材料  \n甘露寡糖购买于河南三化生物科技公司，纯度为 $9 9 \\%$ 。  \n1.2试验动物与饲粮  \n选择4头泌乳天数为 $2 0 \\mathrm { d }$ 、日产奶量 $3 0 \\mathrm { k g }$ 左右、体重为 $5 5 0 \\mathrm { k g }$ 左右的经产（二胎）中国荷斯坦泌乳奶牛作为试验动物。根据 NRC（2001）奶牛饲养标准配制饲粮，精粗比为40：60（DM基础），基础饲粮组成及营养水平见表1。试验动物采用全混合日粮（TMR）饲喂方式，日投料3次，自由采食。全天自由饮水。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平(干物质基础) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1Composition and nutrient levels of the basal diet (DM basis) 70项目Items 含量Content原料 Ingredients苜蓿干草 Alfalfa licorice 21.53羊草 Leymus chinensis 3.14玉米青贮 Corn silage 27.65玉米 Corn 24.47豆粕 Soybean meal 14.68麦麸Wheat bran 1.48",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "全棉籽 Whole cottonseed 4.20  \n预混料 Premix1) 0.91  \n磷酸氢钙 $\\mathrm { C a H P O _ { 4 } }$ （204号 0.91  \n食盐 NaCl 0.80  \n氧化镁 $\\mathrm { M g C l } _ { 2 }$ 0.23  \n合计 Total 100.00  \n营养水平 Nutrient levels2)  \n粗蛋白质 CP 17.35  \n产奶净能 NEr/（MJ/kg) 7.23  \n中性洗涤纤维 NDF 31.25  \n酸性洗涤纤维 ADF 22.63  \n钙Ca 0.84  \n磷P 0.40",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the following per kg of the diet：VA 14  \n000 IU，VD37 500 IU，VE $4 3 ~ \\mathrm { m g }$ ，Se $0 . 6 \\mathrm { m g }$ ， $\\mathrm { C u } 3 0 \\mathrm { m g }$ ，Fe $3 5 8 \\mathrm { m g }$ ， $\\mathrm { M n } 2 6 0 \\mathrm { m g }$ ，盐霉素  \n钠 salinomycin sodium salt $2 0 ~ \\mathrm { m g }$ ，杆菌肽锌 zinc bacitracin $1 0 0 ~ \\mathrm { { m g } }$ ，硫酸杆菌sulfuric acid  \nbacillus $3 9 \\mathrm { m g }$ 。2)产奶净能为计算值[8]，其他为实测值。 $\\mathrm { N E } _ { \\mathrm { L } }$ was a calculated value[7], and others were  \nmeasured values 。  \n1.3 试验设计将试验牛随机分为2组，对照组饲喂基础饲粮，试验组饲喂基础饲粮，同时添加 $6 0 ~ \\mathrm { g / \\Omega }$   \n头甘露寡糖（参照刘立恒等[8]），通过口腔灌注添加。采用 $2 { \\times } 2$ 交叉试验设计，每期 $2 1 \\mathrm { d }$   \n其中预试期14d，采样期7d。  \n1.4 样品采集与处理  \n1.4.1瘤胃液采集通过牛口腔导管采集瘤胃液，准备牛鼻夹把牛头固定，在口腔中放入硬管（硬塑胶，内  \n径要超过取样软管），插入深度不要超过咽部，外面露出 $2 0 \\mathrm { c m }$ 左右，工作人员能够用手把",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其固定，然后把软管（ $2 . 5 \\mathrm { m }$ 左右）通过口腔硬管内径逐步送入瘤胃，将牛头压低，通过牛的咀嚼过程使瘤胃液自然流出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 瘤胃液的处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将采集的瘤胃液转移至实验室内，用4层纱布过滤，将过滤后的瘤胃液等量混匀。pH直接用比色计测定；取 $2 0 ~ \\mathrm { m L }$ 瘤胃液于 $5 0 ~ \\mathrm { m L }$ 离心管中，然后将部分转移至含有 $3 \\mathrm { m L } 2 5 \\%$ 偏磷酸和 $0 . 6 \\%$ 2-乙基丁酸的 $1 0 ~ \\mathrm { m L }$ 离心管，于 ${ } ^ { - 2 0 } { } ^ { \\circ } \\mathrm { C }$ 的冰箱内保存，用于挥发性脂肪酸浓度的测定。挥发性脂肪酸浓度采用气相色谱法[1]（Agilent-6890N 气相色谱仪）测定；另取$5 0 ~ \\mathrm { m L }$ 瘤胃液于离心管中，放置于-80℃冰箱冻存，用于菌群结构分析，共有8个样品，其中添加甘露寡糖的试验组4个样品（MT-1、MT-2、MT-3、MT-4），没有添加甘露寡糖的对照组4个样品（CK-1、CK-2、CK-3、CK-4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5DNA 样品提取、扩增 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 DNA提取 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA采用试剂盒提取，试剂盒采购于南京建成生物研究所，提取步骤参照试剂盒中的说明书操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 PCR扩增 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PCR 扩增前用琼脂糖凝胶电泳检测DNA样品的纯度和浓度，于离心管中取适量的样品进行稀释。将稀释后的基因组DNA作为模板。瘤胃液DNA扩增目的片段为 $\\mathrm { V } 3 + \\mathrm { V } 4$ 区，大概长度468bp， $\\mathrm { V } 3 + \\mathrm { V } 4$ 区引物为341F-806R[10]，引物序列为341F：5'-CCTAYGGGRBGCASCAG-3'； 806R: $5 ^ { \\prime }$ -GGACTACNNGGGTATCTAAT-3'。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6PCR产物的混样和纯化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PCR产物使用胶浓度为 $2 \\%$ 的琼脂糖凝胶进行电泳检测；依照PCR产物浓度的检测结果进行等浓度混样，充分混匀后使用胶浓度为 $2 \\%$ 的琼脂糖凝胶电泳检测PCR产物，使用南京建成生物研究所提供的回收试剂盒回收产物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7 Miseq 测序 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将样品送至广州基迪奥生物科技有限公司进行Miseq 测序,测序采用Miseq 2500 PE 250平台。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据采用Excel2007进行初步处理，采用SAS8.2统计软件中的两阶段交叉设计资料的方差分析进行数据处理。数据由平均值土标准误表示。 $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1甘露寡糖对奶牛瘤胃发酵参数的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可以看出，试验组奶牛瘤胃液 $\\mathsf { p H }$ 与对照组相比提高了 $2 . 4 6 \\%$ （ $\\cdot P { > } 0 . 0 5$ ）。与对照组相比，添加甘露寡糖极显著提高了瘤胃液乙酸的浓度 $( P { < } 0 . 0 1 )$ ，乙酸/丙酸提高了 $8 . 4 7 \\%$ 中 $\\cdot P { > } 0 . 0 5 \\dot { } ,$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2甘露寡糖对奶牛瘤胃发酵参数的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 2Effects of mannan oligosaccharides on fermentation parameters in the rumen of dairy ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/de87a06c36d5f7f1f39105b3ced40441f25cf7544b12ce913b583e443ab00e5c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "同行数据肩标无字母表示差异不显著！ $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著( $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $P { < } 0 . 0 1$ ）。表 $4 \\sim$ 表6同。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组</td><td>试验组</td><td>SEM</td><td>P值</td></tr><tr><td>pH</td><td>Control group 6.92</td><td>Experimental group 7.09</td><td>0.01</td><td>P-value 0.08</td></tr><tr><td>乙酸 Acetic acid/(mmol/L)</td><td>54.60B</td><td>64.28A</td><td>3.68</td><td><0.001</td></tr><tr><td>丙酸Propionic acid/(mmol/L)</td><td>22.16</td><td>23.93</td><td>2.08</td><td>0.37</td></tr><tr><td>丁酸 Butyrate acid/(mmol/L)</td><td>18.17</td><td>20.83</td><td>1.32</td><td>0.05</td></tr><tr><td>乙酸/丙酸 Acetic acid/propionic acid</td><td>2.48</td><td>2.69</td><td>0.05</td><td>0.30</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with no letter superscript mean no significant difference $( P > 0 . 0 5 )$ ， while with different small letter superscripts mean significant difference ( $( P < 0 . 0 5 ) \\$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ . The same as Table 4 to Table 6. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.216S rDNA 基因 $\\mathrm { V } 3 + \\mathrm { V } 4$ 区域扩增结果对照组和试验组每组取4个样，共取8个瘤胃液样品。对8个瘤胃液样品总DNA进行质量检测，检测结果表明，浓度及纯度均符合Ilumina Miseq平台测序要求，可以进行后续试验。对不同样品基因组DNA进行16SrDNA基因 $\\mathrm { V } 3 + \\mathrm { V } 4$ 区扩增，扩增的条带大小正确，浓度合适且条带单一，如图1所示，适合后续测序试验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ce9f01d54fa083135c70a6046cf9047fd79a0caec53ebeac1865174f907a880.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9、10、17、18为对照组样品，1、2、25、26为试验组样品。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9,10,17 and 18 were samples of control group,1,2,25 and 26 were samples of experimental group. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1样本16SrDNA基因 $\\mathrm { V } 3 + \\mathrm { V } 4$ 区域扩增结果",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Amplification results of $\\mathrm { V } 3 + \\mathrm { V } 4$ region of 16S rDNA gene of samples ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3奶牛瘤胃菌群基因序列及多样性分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 操作分类单位(OTU)数量",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经IlluminaMiseq 测序结束后，除去低质量序列，通过序列拼接，应用Mothur，根据97%的序列相似度，对序列进行OTU划分。根据OTU聚类分析结果，分析不同样品的聚类信息，依照其共有、特有的OTU信息绘制韦恩图（Venn graph），由图2可知，添加甘露寡糖后奶牛瘤胃液菌群多样性降低。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e957dc8a75bc01f52653ee6fbafa51eb838ed993347a2060fb2c64b0ff058bc7.jpg",
+        "img_caption": [
+            "图2奶牛瘤胃液菌群韦恩图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CK：对照组；MT：试验组。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CK: control group; MT: experimental group. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Venn graph of microflora in rumen fluid of dairy cows ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2Alpha多样性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3.2.1 OTU稀释曲线和OTUShannon稀释曲线",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了检测测序得到的数据能否科学充分反映试验组与对照组瘤胃液菌群的分布情况，本试验根据获得的OTU数据，以随机抽取的序列数与OTU数量来构建曲线，做出每个样品的稀释曲线，可用来说明样本测序数据量是否足以反映物种多样性。从图3、图4中可以看出，测序深度较小时，OTU数量变化剧烈，OTU 数量随着测序深度的增加而大幅增加，当测序深度达到 5000 reads 时，稀释曲线仍有上升趋势，表明瘤胃内仍有新的细菌尚未被发现。当测序深度达5000 reads 时，Shannon 曲线已达到饱和状态，说明测序趋向饱和，即当前的测序量足够进行样品菌群多样性分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b994d752a4e20395b9a0f3c4d58f41838af5500ad73e9b9a5669d433ef89a20e.jpg",
+        "img_caption": [
+            "CK1\\~4：对照组样品；MT1\\~4：试验组样品。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CK1 to 4: samples of control group; MT1 to 4: samples of experimental group. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "奶牛瘤胃细菌OTU稀释曲线",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ad479ad385192be5b0ed852d7cc303e6f4857a02e997efcd15844c740209082.jpg",
+        "img_caption": [
+            "Fig.3OTU dilution curve of bacteria in the rumen of dairy cows ",
+            "Fig.4OTU Shannon dilution curve of bacteria in the rumen of dairy cows "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CK1\\~4：对照组样品；MT1\\~4：试验组样品。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CK1 to 4: samples of control group; MT1 to 4: samples of experimental group. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "奶牛瘤胃细菌OTUShannon稀释曲线",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.2.2 OTUAlpha多样性分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Alpha 多样性是对单个样品中物种多样性的分析，包括Chao1指数、ACE 指数、Shannon指数以及 Simpson 指数等[1]。Chaol 指数和 ACE 指数是根据所测得的 Tags 数量和OTU 的数量以及相对比例来预测样品中微生物的种类（OTU的数量），是基于已知结果所得相对值。Shannon指数是一个综合反映OTU丰度和OTU均匀度2方面因素的一个多样性指数，Shannon指数越大，越接近于0，则表示该样品中的物种越丰富。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，试验组的ACE 指数和Chao1指数均低于对照组，说明添加甘露寡糖使得奶牛瘤胃中细菌丰富度指数降低；Shannon 指数小于对照组，Simpson 指数大于对照组，说明添加甘露寡糖使得奶牛瘤胃中细菌多样性降低，并且覆盖率均大于0.93，说明样品采集足以反映瘤胃菌群情况。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3样品多样性指数",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c7a77aa3df68f82da64880cdc0fb0f6c655d711a68335be3b2f0dec3b054c13.jpg",
+        "table_caption": [
+            "Table3Diversity indexes of samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>对照组</td><td>试验组</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>Experimental group</td><td></td><td>P-value</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9dc9951ebcf12e1bb265577b6f3e09c4a82f53b7b8f152a9ecd2a4051cac1d13.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">丰富度指数Richness index</td></tr><tr><td>ACE 指数 ACE index</td><td>7 800.072</td><td>6 767.640</td><td>730.040</td><td>0.524</td></tr><tr><td>Chaol 指数 Chaol index</td><td>5 972.270</td><td>5 564.692</td><td>288.201</td><td>0.429</td></tr><tr><td>多样性指数Diversity index</td><td></td><td></td><td></td><td></td></tr><tr><td>Shannon指数</td><td>6.328</td><td>6.295</td><td>0.014</td><td>0.734</td></tr><tr><td>Simpson指数</td><td>0.007</td><td>0.009</td><td>0.000</td><td>0.485</td></tr><tr><td>覆盖率Coverage/%</td><td>93.900b</td><td>95.300a</td><td>0.000</td><td>0.018</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4瘤胃菌群结构分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 门水平",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图5、表4可知，奶牛瘤胃液中总共涉及29个门，包括拟杆菌门（Bacteroidetes）、厚壁菌门（Firmicutes）、变形细菌门（Proteobacteria）、螺旋菌门（Spirochaetes）、蓝藻门（Cyanobacteria）、疣微菌门（Verrucomicrobi）、丝状杆菌门（Fibrobacteres）、软壁菌门（Tenericutes）、浮霉菌门（Planctomycetes）、放线菌门（Actinobacteria）、迷踪菌门（Elusimicrobia）、互养菌门（Synergistetes）、广古菌门（Euryarchaeota）、梭杆菌门（Fusobacteria）、绿弯菌门（Chloroflexi）、酸杆菌门（Acidobacteria）、装甲菌门（Armatimonadetes）等。其中拟杆菌门、厚壁菌门和变形细菌门占到总菌群比例的 $90 \\%$ 。与对照组相比，添加甘露寡糖极显著降低了奶牛瘤胃液中蓝藻门的相对丰度（ $\\cdot P { < } 0 . 0 1$ ），极显著提高了装甲菌门相对丰度（ $_ { \\scriptstyle P < 0 . 0 1 }$ ）；添加甘露寡糖可以降低瘤胃液中螺旋菌门、丝状杆菌门、梭杆菌门、酸杆菌门的相对丰度，但差异均不显著（ $. { \\cal P } { > } 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e7919781959542cfd090f5bf5140b6f314d175c8f6cd0df20f3a7cfb8169114.jpg",
+        "img_caption": [
+            "",
+            "Fig.5Distribution diagram of rumen bacteria at phylum level "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表4甘露寡糖对奶牛瘤胃菌群在门水平相对丰度的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "174 cows at phylum level % ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0ec8e6a4af5f8f8f69ed05c5eaa153f66f6c5729a914720445411a12dcf9a4e.jpg",
+        "table_caption": [
+            "Table 4Effects of mannan oligosaccharides on relative abundance in rumen bacteria of dairy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Swsutpnyrulrrev 0</td></tr><tr><td>门</td><td>对照组</td><td>试验组</td><td>SEM</td><td>P值</td><td>差异倍数log2值</td></tr><tr><td>Phylum</td><td>Control group</td><td>Experimental group</td><td></td><td>P-value</td><td>log2 fold change</td></tr><tr><td>拟杆菌门 Bacteroidetes</td><td>66.461</td><td>67.646</td><td>0.005</td><td>0.735</td><td>0.026</td></tr><tr><td>厚壁菌门 Firmicutes</td><td>23.781</td><td>24.597</td><td>0.003</td><td>0.787</td><td>0.049</td></tr><tr><td>变形细菌门 Proteobacteria</td><td>3.857</td><td>4.252</td><td>0.002</td><td>0.813</td><td>0.141</td></tr><tr><td>螺旋菌门 Spirochaetes</td><td>1.362</td><td>1.113</td><td>0.000</td><td></td><td></td></tr><tr><td>蓝藻门 Cyanobacteria</td><td>1.297A</td><td></td><td></td><td>0.651</td><td>-0.292</td></tr><tr><td>疣微菌门 Verrucomicrobi</td><td></td><td>0.804B</td><td>0.000</td><td>0.007</td><td>-0.691</td></tr><tr><td>丝状杆菌门 Fibrobacteres</td><td>0.467</td><td>0.652</td><td>0.090</td><td>0.418</td><td>0.483</td></tr><tr><td>软壁菌门 Tenericutes</td><td>0.303</td><td>0.263</td><td>0.137</td><td>0.804</td><td>-0.204</td></tr><tr><td></td><td>0.293</td><td>0.333</td><td>0.024</td><td>0.538</td><td>0.186</td></tr><tr><td>浮霉菌门 Planctomycetes</td><td>0.070</td><td>0.218</td><td>0.001</td><td>0.161</td><td>1.631</td></tr><tr><td>放线菌门 Actinobacteria 迷踪菌门 Elusimicrobia</td><td>0.070 0.055</td><td>0.175 0.057</td><td>0.075 0.005</td><td>0.530 0.900</td><td>1.318 0.053</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2d63d0ea475ab68a9643b6d513bcdef91715fa0520a32c78659c9d242c79073.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>互养菌门 Synergistetes</td><td>0.023</td><td>0.011</td><td>0.000</td><td>0.075</td><td>-1.038</td></tr><tr><td>广古菌门 Euryarchaeota</td><td>0.007</td><td>0.017</td><td>0.001</td><td>0.455</td><td>1.248</td></tr><tr><td>梭杆菌门 Fusobacteria</td><td>0.007</td><td>0.003</td><td>0.000</td><td>0.595</td><td>-1.025</td></tr><tr><td>绿弯菌门 Chloroflexi</td><td>0.002</td><td>0.007</td><td>0.000</td><td>0.549</td><td>1.891</td></tr><tr><td>酸杆菌门 Acidobacteria</td><td>0.001</td><td>0.000</td><td>0.000</td><td>0.451</td><td>-16.864</td></tr><tr><td>装甲菌门 Armatimonadetes</td><td>0.000B</td><td>0.003A</td><td>0.000</td><td>0.003</td><td>18.370</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "175 2.4.2 属水平",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "进一步细化分类水平到属，本试验奶牛瘤胃液菌群总共涉及219个属种。由图6和表5可知，表中共显示丰度相对较高的25个属种占各样品总菌属 $91 \\%$ 以上，其中13个菌属的相对丰度较高，分别为普雷沃式菌属（Prevotella）、NA、S24-7_NA、未注释琥珀酸弧菌属（Succinivibrionaceae_NA）、未注释毛螺菌属（Lachnospiraceae_NA）、未注释瘤胃球菌属（Ruminococcaceae_NA）、未注释普雷沃氏菌属（Prevotellaceae_NA）、解琥珀酸弧菌属（Succiniclasticum）、瘤胃球菌属（Ruminococcu）、丁酸弧菌属（Butyrivibrio）、梅毒螺旋属（Treponema）、Shuttleworthia、粪球菌属（Coprococcus）。试验组锥形杆菌属（Pyramidobacter）的相对丰度极显著低于对照组（ $_ { \\cdot  { P } < 0 . 0 1 }$ ），梭菌属（Clostridium）的相对丰度显著低于对照组（ $P { < } 0 . 0 5$ ）。与纤维素降解有关的瘤胃球菌属、假丁酸弧菌属（Pseudobutyrivibrio）的相对丰度，试验组较对照组分别增加了 $2 4 . 3 4 \\%$ 、 $12 . 8 3 \\%$ ( $P { > } 0 . 0 5$ ）。与半纤维素分解有关的厌氧螺菌属（Anaerobiospirillum）的相对丰度，试验组显著高于对照组（ $. P { < } 0 . 0 5$ ）。试验组未注释毛螺菌属相对丰度较对照组增加了 $8 . 1 6 \\%$ （ $P { > } 0 . 0 5$ ）。与淀粉降解有关的普雷沃氏菌属的相对丰度，试验组较对照组降低了 $4 . 6 6 \\%$ ( $P { > } 0 . 0 5$ ）。利用乳酸为主的未注释韦荣氏菌属（Veillonellaceae_NA）的相对丰度，试验组较对照组提高了 $1 4 3 . 1 1 \\%$ （ ${ \\cdot } P { > } 0 . 0 5$ ）。氧化乳酸的脱硫弧菌属（Desulfovibrio）的相对丰度，试验组较对照组提高了 $4 . 8 8 \\%$ ( $P { > } 0 . 0 5$ ）。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3a026ac4e03de39d0f42ac97f9f2091b307240e0be79de2c3d0be72fd1d5fba.jpg",
+        "img_caption": [
+            "Fig. 6Distribution diagram of rumen bacteria at genus level "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表5甘露寡糖对奶牛瘤胃菌群在属水平相对丰度的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4182cd9f8c2a54abdbb1b5fbd6a3ba3b8e649d0f953574af8faf05fc60662ef.jpg",
+        "table_caption": [
+            "Table 5Effects of mannan oligosaccharides on relative abundance in rumen bacteria of dairy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>196</td><td colspan=\"2\">cows at genus level %</td><td colspan=\"3\"></td></tr><tr><td>属</td><td>对照组</td><td>试验组</td><td>SEM</td><td>P值</td><td>差异倍数log2</td></tr><tr><td>Genus</td><td>Control group</td><td>Experimental group</td><td></td><td>P-value</td><td>log2 fold chan</td></tr><tr><td>普雷沃式菌属Prevotella</td><td>51.487</td><td>49.089</td><td>0.050</td><td>0.682</td><td>-0.069</td></tr><tr><td>NA</td><td>11.294</td><td>12.190</td><td>0.069</td><td>0.657</td><td>0.110</td></tr><tr><td>S24-7_NA</td><td>8.633</td><td>8.739</td><td>0.754</td><td>0.966</td><td>0.018</td></tr><tr><td>未注释琥珀酸弧菌属</td><td>2.902</td><td>2.572</td><td>0.033</td><td>0.927</td><td>-0.170</td></tr><tr><td>Succinivibrionaceae_NA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未注释毛螺菌属</td><td>2.781</td><td>3.008</td><td>0.084</td><td>0.785</td><td>0.113</td></tr><tr><td>Lachnospiraceae_NA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未注释瘤胃球菌属</td><td>2.705</td><td>3.014</td><td>0.063</td><td>0.473</td><td>0.156</td></tr><tr><td>Ruminococcaceae_NA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未注释普雷沃氏菌属</td><td>2.509</td><td>2.399</td><td>0.080</td><td>0.892</td><td>-0.064</td></tr><tr><td>Prevotellaceae_NA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>解琥珀酸弧菌属</td><td>2.463</td><td>2.572</td><td>0.350</td><td>0.941</td><td>0.062</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/c844ba4f561eb3a5bcf5a04bc0c562c11ce642d429badc283c188c6a7b22b228.jpg",
+        "table_caption": [
+            "197 2.5样品组间差异LEFse分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Succihiciusticum</td></tr><tr><td>瘤胃球菌属 Ruminococcus</td><td>1.787</td><td>2.222</td><td>0.018</td><td>0.583</td><td>0.315</td></tr><tr><td>丁酸弧菌 Butyrivibrio</td><td>1.987</td><td>2.007</td><td>1.323</td><td>0.975</td><td>0.014</td></tr><tr><td>梅毒螺旋属Treponema</td><td>1.354</td><td>1.104</td><td>0.304</td><td>0.702</td><td>-0.293</td></tr><tr><td>Shuttleworthia</td><td>1.286</td><td>1.318</td><td>0.477</td><td>0.9565</td><td>0.036</td></tr><tr><td>粪球菌属 Coprococcus</td><td>1.035</td><td>0.894</td><td>0.002</td><td>0.214</td><td>-0.211</td></tr><tr><td>梭菌属Clostridium</td><td>0.667a</td><td>0.511b</td><td>0.000</td><td>0.028</td><td>-0.384</td></tr><tr><td>未注释克里斯滕森菌属</td><td></td><td></td><td>0.007</td><td></td><td></td></tr><tr><td>Christensenellaceae_NA</td><td>0.467</td><td>0.426</td><td></td><td>0.847</td><td>-0.134</td></tr><tr><td>毛螺旋菌属Moryella</td><td></td><td>0.155</td><td></td><td></td><td></td></tr><tr><td>F16_NA</td><td>0.352</td><td></td><td>0.018</td><td>0.064</td><td>-1.183</td></tr><tr><td>未注释韦荣氏菌属</td><td>0.343</td><td>0.544</td><td>0.015</td><td>0.466</td><td>0.664</td></tr><tr><td></td><td>0.341</td><td>0.829</td><td>0.173</td><td>0.271</td><td>1.280</td></tr><tr><td>Veillonellaceae_NA 颤螺菌属Oscillospira</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.312</td><td>0.343</td><td>0.036</td><td>0.943</td><td>0.046</td></tr><tr><td>RFN20 纤维杆菌属 Fibrobacter</td><td>0.304</td><td>0.314</td><td>0.046</td><td>0.943</td><td>0.046</td></tr><tr><td></td><td>0.303</td><td>0.263</td><td>0.137</td><td>0.884</td><td>-0.203</td></tr><tr><td>RFP12_NA</td><td>0.294</td><td>0.300</td><td>0.059</td><td>0.968</td><td>0.031</td></tr><tr><td>假丁酸弧菌属</td><td>0.265</td><td>0.299</td><td>0.067</td><td></td><td>0.181</td></tr><tr><td>Pseudobutyrivibrio</td><td></td><td></td><td></td><td>0.871</td><td></td></tr><tr><td>毛螺菌属 Lachnospira</td><td>0.261</td><td>0.344</td><td>0.121</td><td>0.743</td><td>0.400</td></tr><tr><td>脱硫弧菌属 Desulfovibrio</td><td>0.246</td><td>0.258</td><td>0.022</td><td>0.895</td><td>0.070</td></tr><tr><td>假单胞菌属 Pseudomonas</td><td>0.043</td><td>0.033</td><td>0.004</td><td>0.822</td><td>-0.3771</td></tr><tr><td>锥形杆菌属Pyramidobacter</td><td>0.019A</td><td>0.007B</td><td>0.015</td><td>0.007</td><td>-1.482</td></tr><tr><td>厌氧螺菌属Anaerobiospirillum</td><td>0.015b</td><td>0.025a</td><td>0.000</td><td>0.032</td><td>0.778</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "198 利用LEFse 软件对差异组间进行分析，LEFse 先对所有组样品间进行 kruskal-Wallis 秩  \n199 和检验（一种多样本比较时常用的检验方法），将筛选出的差异再通过wilcoxon 秩和检验",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "（一种两样本成组比较常用的检验方法）进行两两组间比较，最后筛选出的差异使用线性判断分析（LDA）得出的结果进行排序得到图7-A。图7-A展示了不同组中相对丰度差异显著的物种(LDA Score 大于预设值的显著差异物种)，柱状图的长度代表差异物种的影响大小（即为LDA Score）。随后通过将差异映射到已知层级结构的分类树上的方式得到进化分支图(图7-B)。在进化分支图中，由内至外辐射的圆圈代表了由门至属（或种）的分类级别。在不同分类级别上的每一个小圆圈代表该水平下的一个分类，小圆圈直径大小与相对丰度大小呈正比。着色原则：无显著差异的物种统一着色为黄色。由图7-A和图7-B 可知，装甲菌门（Armatimonadetes）、RB046、SJA_176、金氏菌属（Kingella）和无胆甾原体目（Acholeplasmatales）的相对丰度较对照组显著增加；锥形杆菌属、蓝藻菌属(Cyanobacteria)、4C0d_2、YS2和瘤菌属（Ruminicola）较对照组显著降低。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1eab6e04f6a4b11d53bf363d821286f5a16e9c859313320282b594c8130003c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A:LDA值分布柱状图；B：进化分支图。A: LDA value distribution histogram; B: cladogram.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "瘤胃中的微生物是反刍动物不可缺少的消化菌群，瘤胃为微生物提供相对稳定的生存环境，瘤胃微生物主要包括细菌、原虫和真菌。其中细菌含量极其丰富，且种类繁多，大量的研究表明拟杆菌门和厚壁菌门是哺乳动物胃肠道的优势菌群[12-15]。本试验研究发现，添加甘露寡糖后奶牛瘤胃中菌群多样性降低。闵力[16]研究发现，添加功能性寡糖组合可以增加瘤胃内液相微生物种类，而且促进部分瘤胃液内液相细菌的生长繁殖，使其成为优势菌群。本研究发现，添加甘露寡糖极显著降低了奶牛瘤胃液蓝藻门的相对丰度，极显著提高装甲菌门的相对丰度。Derakhshani[17报道奶牛产后瘤胃装甲菌门丰度降低，其原因有可能是基于奶牛产后饲粮变化、能量负平衡等生理应激，产后奶牛饲粮精粗比增加，纤维比例降低，装甲菌门有可能以纤维素和半纤维素为碳源，纤维素主要化学结构为β-1,4葡聚糖。但Lee[18]研究发现，非纤维碳水化合物能够显著促进装甲菌门细菌的生长。本试验结果表明，添加甘露寡糖可以促进装甲菌门菌群的增殖，甘露寡糖为β-葡聚糖，主要化学结构为β-1,3 葡聚糖和β-1,6 葡聚糖，完全不同于淀粉的主要化学结构α-1,4-糖苷键，也不同于纤维素的β-1,4 葡聚糖。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "粗饲料是反刍动物主要的饲料来源，粗饲料中纤维物质在瘤胃微生物与瘤胃的共同作用下快速降解转化为营养物质以满足反刍动物的能量需求[19]。细菌和真菌在分解利用纤维素过程中起着主要作用，细菌、原虫和真菌通过酶的催化使纤维素和半纤维素分解为瘤胃能够吸收的小分子物质[20]，其中纤维素分解菌对纤维素的降解作用尤为重要。本试验研究发现，添加甘露寡糖使得与纤维素降解有关的瘤胃球菌属和假丁酸弧菌属的相对丰度分别增加24.34%、 $12 . 8 3 \\%$ 。通过瘤胃发酵参数可以看出，试验组奶牛瘤胃pH与对照组相比提高了$2 . 4 6 \\%$ 。为瘤胃纤维降解菌的增殖提供了适宜的pH。刘力恒等[7添加功能性寡糖组合后，牛瘤胃液中产琥珀酸丝状杆菌属相对丰度增加，产琥珀酸丝状杆菌是瘤胃主要纤维降解菌。本研究发现，添加甘露寡糖后，奶牛瘤胄中与半纤维素分解有关的厌氧螺菌属的相对丰度，试验组与对照组比较显著提高，未注释毛螺菌属相对丰度，试验组与对照组相比丰度增加了$8 . 1 6 \\%$ 。闵力[16研究报道，在添加甘露寡糖等功能性寡糖的组合后，锦江黄牛瘤胃液细菌PCR-DDGE产生了12个特异性条带，经测序分析，其中2株为产琥珀酸丝状杆菌，提高了瘤胃对纤维的降解率，提高粗饲料降解率。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "奶牛瘤胃中广泛存在着降解和利用淀粉的普雷沃氏菌属[21]。本试验中，添加甘露寡糖后奶牛瘤胃中与淀粉降解有关的普雷沃氏菌属相对丰度，试验组与对照组相比降低了 $4 . 6 6 \\%$ 由本试验结果可以看出，普雷沃氏菌属相对丰度达到了 $49 \\%$ 以上，是瘤胃主要的细菌菌属。闵力[1研究报道，在锦江黄牛的饲粮中添加功能性寡糖组合后瘤胃中增加了1株栖瘤胃普雷沃氏菌属，但并未见瘤胃普雷沃氏菌属丰度变化的报道。添加甘露寡糖之后，奶牛瘤胃梭菌属相对丰度极显著降低，通过本试验可以看出其相对丰度仅占 $0 . 5 \\%$ 左右，说明梭菌属并不是瘤胃主要菌属，虽然不是瘤胃中的主要细菌，但其在瘤胃中的种类多，有纤维降解梭菌（Clostridium fibrinolysis）、产气荚膜梭菌（Clostridium perfringens）和丁酸梭菌（Clostridiumbutyrate），还有菌株可降解蛋白质[22]，而且从饲喂高含量淀粉的反刍动物瘤胃中可以分离得到丁酸梭菌[23]，丁酸梭菌水解淀粉但不水解纤维素，水解淀粉和糖类的最终代谢产物为丁酸、乙酸和乳酸。与对照组相比，添加甘露寡糖极显著提高了瘤胄液乙酸的浓度，乙酸丙酸提高了 $8 . 4 7 \\%$ 。同时本研究发现，于对照组相比，添加甘露寡糖后瘤胃中以利用乳酸为主的未注释韦荣氏菌属相对丰度提高了 $1 4 3 . 1 1 \\%$ ，氧化乳酸的脱硫弧菌属相对丰度提高了$4 . 8 8 \\%$ 。与对照组相比，添加甘露寡糖极显著提高了瘤胃乙酸的浓度，但添加甘露寡糖后瘤胃 pH比对照组提高了 $2 . 4 6 \\%$ 。与乙酸、丁酸等挥发性有机酸比较，乳酸的酸性更强，对瘤胃 pH的贡献更大，甘露寡糖对于瘤胃 $\\mathsf { p H }$ 的调控有可能是以利用淀粉为主的菌属与以利用乳酸为主的未注释韦荣氏等菌属综合作用的结果，但具体机理还需进一步研究。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 本试验条件下，添加甘露寡糖降低了奶牛瘤胃菌群的多样性，门水平上，蓝藻门相对丰度极显著降低，装甲菌门相对丰度极显著提高。属水平上，与半纤维素分解有关的厌氧螺菌属的相对丰度，试验组较对照组显著提高，与淀粉降解有关的梭菌属相对丰度，试验组较对照组显著降低。  \n$\\textcircled{2}$ 添加甘露寡糖可以增加与纤维降解有关的奶牛瘤胃主要菌属瘤胃球菌属、假丁酸弧菌属以及毛螺菌属的相对丰度，降低了与淀粉降解有关的普雷沃菌属相对丰度，提高了利用乳酸为主的未注释韦荣氏菌属以及氧化乳酸的脱硫弧菌属的相对丰度，但差异均不显著。  \n$\\textcircled{3}$ 添加甘露寡糖显著增加了奶牛瘤胃液乙酸浓度，但对瘤胃液pH无显著影响。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]GIANNENAS I,DOUKAS D,KARAMOUTSIOS A,et al.Effectsof Enterococcus faecium,mannan oligosaccharide,benzoic acid and their mixture on growth performance,intestinal microbiota,intestinalmorphologyandbloodlymphocytesubpopulationsof fatening pigs[J].Animal Feed Science and Technology,2016,220:159-167.   \n[2]唐志如,孙志洪,印遇龙,等.环保型饲料添加剂-寡糖的作用机理[J].中国畜牧兽 医,2003,30(4):17-19.   \n[3]陈小兵,丁宏标,乔宇.甘露寡糖的益生作用、免疫机制与应用技术[J].中国畜牧兽 医,2005,32(8):6-8.   \n[4]PICCOLO G,CENTODUCATI G,MARONO S,et al.Effects of the partial substitution of fish meal by soy bean meal with or without mannanoligosaccharide and fructooligosaccharide on the growth and feed utilization of sharpsnout seabream,Diplodus puntazzo (Ceti,1777):preliminary results[J].Italian Journal of Animal Science,2016,10(3):e37.   \n[5]祁茹,肖宇,褚永康,等.外源寡糖对反刍动物胃肠道微生物区系的影响[J].饲料博 览,2011(12):32-34.   \n[6]HEINRICHS A J,JONES C M,HEINRICHS B S.Efcts of mannan oligosaccharide or antibiotics in neonatal diets on health and growth of dairy calves[J].Journal of Dairy Science,2003,86(12):4064-4069.   \n[7] 刘立恒,闵力,瞿明仁,等.甘露寡糖、果寡糖和大豆寡糖组合对锦江黄牛瘤胃液细菌多样 性的影响[J].动物营养学报,2012,24(08):1583-1588.   \n[8]冯仰廉.我国奶牛饲料产奶净能值测算方法的研究[A].反刍动物营养需要及饲料营养价 值评定与应用[C]:2011:6.   \n[9]徐晓锋.缩合单宁与水解单宁对奶牛日粮氮利用影响及作用机制的研究[D].博士学位论 文.北京:中国农业大学,2013.   \n[10]YU Y,LEE C,KIM J,et al.Group-specific primer and probe sets to detect methanogenic communities using quantitative real-time polymerase chain reaction[J].Biotechnology& Bioengineering,2010,89(6):670-679.   \n[11]SAR C,SANTOSO B,MWENYA B,et al.Manipulation of rumen methanogenesis by the combination of nitrate with $\\scriptstyle \\{ \\beta , 1 - 4$ galacto-oligosaccharides or nisin in sheep[J].Animal Feed Science and Technology,2004,115(1/2):129-142.   \n[12]LEY R E,LOZUPONE C A,HAMADY M,et al.Worlds within worlds:evolution of the vertebrate gut microbiota[J].Nature Reviews Microbiology,2008,6(10):776-788.   \n[13]OLIVEIRA M L S,AREAS A P M,CAMPOS I B,et al.Induction of systemic and mucosal immune response and decrease in Streptococcus pneumoniae colonization by nasal inoculation of mice with recombinant lactic acid bacteria expressing pneumococcal surface antigen A[J.Microbes and Infection,2006,8(4):1016-1024.   \n[14]QIN J J,LI R Q,RAES J,et al.A human gut microbial gene catalogue established by metagenomic sequencing[J].Nature,2010,464(7285):59-65.   \n[15]SINGH K M,AHIR V B,TRIPATHI A K,et al.Metagenomic analysis of Surti buffalo (Bubalus bubalis) rumen:a preliminary study[J].Molecular Biology Reports,2012,39(4):4841-4848.   \n[16]闵力.功能性寡糖组合对锦江黄牛瘤胃微生物区系的影响[D].硕士学位论文.南昌:江西 农业大学,2012.   \n[17]DERAKHSHANI H.The microbiome composition of the rumen is altered during the peripartal period in dairy cattle[C].//2014 ADSA-ASAS-CSAS Joint annual meeting.Kansas City:ASAS,2014.   \n[18]LEE C Y K.The first insights into the phylogeny,genomics,and ecology of the novel bacterial phylum armatimonadetes[D].Ph.D.Thesis.New Zealand:University of Waikato,Hamilton,2015.   \n[19]ASCHENBACH JR,PENNER G B,STUMPFF F,et al.Ruminant nutrition symposium:role of fermentation acid absorption in the regulation of ruminal pH[J].Journal of Animal Science,2011,89(4):1092-1107.   \n[20]ZEBELI Q,ASCHENBACH JR,TAFAJ M,et al.Invited review:role of physically effective fiber and estimation of dietary fiber adequacy in high-producing dairy catle[J].Journal of Dairy Science,2012,95(3):1041-1056. [21]PURUSHE J,FOUTS D E,MORRISON M,et al.Comparative genome analysis of Prevotella ruminicola and Prevotella bryanti:insightsintotheirenvironmental niche[J].Microbial Ecology,2010,60(4):721-729.   \n[22]裴彩霞.反刍动物瘤胃微生物及其利用[M].北京:中国科学技术出版社,2013:9-10. [23]冯仰廉.反刍动物营养学[M].北京:科学出版社,2006:4-5. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Effects of Mannan Oligosaccharides on Rumen Bacteria Flora in Dairy Cows Based on 16S rDNA High-Throughput Sequencing Technology ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "GUO TingtingHU Dandan FU Zilin LI Na XU Xiaofeng\\* (Collage ofAgriculture, Ningxia University, Yinchuan 75oo21, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the effects of mannan oligosaccharides on rumen microflora flora of dairy cows based on 16S rDNA high-throughput sequencing technology. Four healthy Chinese Holstein lactating dairy cows with the same parity in the similar lactation period were randomly divided into 2 groups. Cows in control group were fed a basal diet and those in experimental group were fed the basal diet with $6 0 ~ \\mathrm { g / }$ cow mannan oligosaccharides. The experiment was designed through a $2 \\times 2$ cross-over test with 21 days in each stage (14 days for pre-experiment and 7 days for samples collction). The results showed as follows: 1） compared with the control group, mannose oligosaccharides significantly increased acetic acid concentration in the rumen $( P { < } 0 . 0 1 )$ , and acetic acid/propionic acid also increased, but no significant difference was found $( P > 0 . 0 5 )$ . 2） Compared with the control,at the phylum level, the abundance of Cyanobacteria decreased significantly $( P { < } 0 . 0 1 )$ ，and that of Armatimonadetes increased significantly $( P { < } 0 . 0 1 )$ . At the genus level, the abundance of Anaerobiospirillum significantly increased $( P { < } 0 . 0 5 )$ , and that of Clostridium significantly decreased $( P { < } 0 . 0 5 )$ . The abundance of the Pyramidobacter decreased significantly $( P { < } 0 . 0 1 )$ . The abundances of Ruminococcus, Pseudobutyrivibrio and Lachnospira increased by $2 4 . 3 4 \\%$ ， $12 . 8 3 \\%$ and $3 1 . 8 0 \\%$ ,respectively, but there was no significant difference ( $( P { > } 0 . 0 5 )$ . The abundance of Prevotella reduced by $4 . 6 6 \\%$ ，and that of Veillonellaceae_NA and Desulfovibrio increased by $1 4 3 . 1 1 \\%$ ， $4 . 8 8 \\%$ ，respectively，but there was no significant difference ( $\\cdot P { > } 0 . 0 5 \\$ ）. In this experiment, mannan oligosaccharide reduces the diversity of rumen bacteria of dairy cows,which obviously affects cellulolytic bacteria flora and hemicellulose-degrading bacteria flora and significantly increases the concentration of acetic acid in rumen fluid. The regulation of $\\mathfrak { p H }$ in rumen is probably affected by a combination of the bacteria degrading starch and bacteria using lactic acid, but the mechanism needs further study.2 Key words: dairy cows; rumen; mannan oligosaccharides; 16S rDNA; bacteria flora ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

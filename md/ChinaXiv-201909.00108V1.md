@@ -1,0 +1,196 @@
+# 新疆艾比湖绿洲干燥指数变化特征
+
+张桉赫12.3，丁建丽1,2.3，董煜，张钧泳1,2.3，谭娇1,2.3（1．新疆大学智慧城市与环境建模自治区普通高校重点实验室,新疆乌鲁木齐830046;2．新疆大学资源与环境科学学院,新疆乌鲁木齐830046;3．新疆大学绿洲生态教育部重点实验室,新疆乌鲁木齐830046;4．新疆师范大学地理科学与旅游学院,新疆乌鲁木齐830054)
+
+摘要：基于艾比湖绿洲4个气象站1960—2013年逐月的气候资料，计算了干燥指数。结果表明： $\textcircled{1}$ 艾比湖绿洲近 $5 4 \mathrm { ~ a ~ }$ 干燥指数的均值为6.97,属于干旱地区,干燥指数呈显著下降趋势,并且持续性较强,下降幅度约为0.49·（10a） $^ { - 1 } ( P < 0 . 0 5 )$ ;夏季的干燥指数最大，为9.04,冬季最小，仅为2.20。 $\textcircled{2}$ 艾比湖绿洲全年干燥指数在1985 年发生突变性减小,夏季和冬季发生突变性减小的年份为1991年和1983年,而春季和秋季不存在突变点。 $\textcircled{3}$ 艾比湖绿洲干燥指数的演变过程存在着7\~8a和 $2 0 \sim 2 1$ a的周期变化,其变化的第一主周期为 $9 \textrm { a }$ ,第二、三周期分别为21a和 $5 \mathrm { ~ a ~ }$ 。 $\textcircled{4}$ 干燥指数对于风速的变化最为敏感,并且相对贡献率最高,而日照时数的变化最不敏感。
+
+关键词：绿洲；干燥指数；气候变化；敏感系数；艾比湖；新疆
+
+全球的气候变化已经是一个不争的事实，它会加速区域的水循环过程，并且改变全球水资源的分配[1-2]。而干旱被认为是最具破坏力的极端气候事件之一,给区域发展带来严重危害[3-4]。由于区域的干湿状况对于当地的经济社会发展和生态环境具有重要意义，近年来，关于区域干湿状况的研究受到了越来越多的关注。Nastos 等[5]预测,由于干燥指数的变化，欧洲南部将在21世纪末出现干旱状况;Tabari等[6发现,西亚半干旱地区的干燥指数要比湿润地区增加的更为明显;胡汝骥等[和施雅风等[指出,在全球气候变化的背景下，新疆和中国西北地区在20世纪80年代末发生了由暖干向暖湿的转变;同时Liu 等9也发现,中国西北地区在1960一2010年的干燥指数显著下降。传统的气象学认为,降水的减少会造成区域的干旱化[10],而新疆位于降水稀少、蒸发强烈的干旱一半干旱地区，如果仅考虑气温、降水等单一气象要素的变化，不足以从客观上描述新疆的干湿状况。区域的干湿状况是受多种因素控制的，而干燥指数就是一个非常有效的衡量区域水热状况的综合性指标，它可以被视为是区域气候的指示器[],对于区域自然区划、农业区划以及生态景观等的研究具有重要价值[12]。降水与潜在蒸发会直接影响区域的干旱程度[13]。普宗朝等[14]研究发现,新疆近48a 的降水量均呈增加趋势，潜在蒸散量总体呈减小趋势，而干燥指数表现为南疆大于北疆，各地的干燥指数也均有不同程度的减小;谭娇等[15]和热孜宛古丽等[16]指出,近几十年来艾比湖流域的潜在蒸散量呈显著的下降趋势;许兴斌等[17]发现,近50a来艾比湖流域气候由暖干向暖湿转变。
+
+迄今为止，中外学者对于不同区域尺度和时间尺度的气候变化及干燥指数进行了大量研究，但是关于艾比湖绿洲小尺度区域的气候变化多集中在基本气象要素和潜在蒸散发方面，干旱区的干燥指数研究也缺少对季节变化的关注。艾比湖绿洲是新疆北疆地区重要的农业区，是天山北坡经济带的重要区域，而水资源的稀缺是当地持续稳定发展的重要制约条件，同时艾比湖流域对气候变化的响应具有独特性[18]。因此,了解艾比湖绿洲的干湿状况对于区域农业生产和经济社会可持续发展至关重要，同时，对国家“一带一路”倡议的顺利实施具有重要意义。因此，本研究选择艾比湖绿洲为研究靶区，通过近54a的气象数据计算出该区域的干燥指数，以期在长时间序列上分析艾比湖绿洲干燥指数的变化趋势与特征。
+
+# 1 研究区概况
+
+艾比湖绿洲位于新疆的西北地区，属于欧亚大陆腹地的干旱区。研究区包括阿拉山口市、博乐市、温泉县和精河县，大致范围在 $4 3 ^ { \circ } 3 8 ^ { \prime } \sim 4 5 ^ { \circ } 5 2 ^ { \prime } \mathrm { N } ,$ （24$7 9 ^ { \circ } 5 3 ^ { \prime } \sim 8 5 ^ { \circ } 0 2 ^ { \prime } \mathrm { E }$ 。该区域属于典型的温带大陆性气候，降水稀少，蒸发强烈，蒸发量约为降水量的$7 \sim 3 5$ 倍[19],生态环境十分脆弱。研究区主要植被包括黑果枸杞、怪柳、芦苇和梭梭等。
+
+# 2 材料与方法
+
+# 2.1 数据来源
+
+本研究选用的4个气象站点分别为阿拉山口站、博乐站、温泉站和精河站，各气象站点的位置及资料如图1和表1所示。气象数据来自于中国气象科学数据共享服务网（http://cdc.cma.gov.cn）,获取各站点1960—2013年逐月的平均气温、相对湿度、风速、日照时数等气象要素，根据面积加权法求出艾比湖绿洲各气象要素的均值。季节划分为春季(3—5月）、夏季(6一8月）、秋季(9一11月）、冬季（12月至翌年2月）。
+
+# 2.2 研究方法
+
+2.2.1潜在蒸散量的计算本文采用联合国粮食及农业组织（FAO)推荐的Penman-Monteith公式计算潜在蒸散量ETo[20]
+
+2.2.2干燥指数的计算干燥指数的计算采用较为普遍的 $E T _ { 0 }$ 与降水量之比的方法[21],公式为：
+
+$$
+I _ { a } = \frac { E T _ { 0 } } { P }
+$$
+
+式中： $I _ { a }$ 为干燥指数； $E T _ { 0 }$ 为潜在蒸散量, $\mathbf { m } \mathbf { m } \cdot \mathbf { d } ^ { - 1 }$ ·
+
+![](images/e24fb246be8ecd08d117a79a2fee9909c0ad484a07e0f8a5c3f7cef6323df31e.jpg)  
+图1艾比湖绿洲位置及气象站点分布  
+Fig.1Distribution of meteorological stations in the Ebinur Lake Oasis
+
+# 表1艾比湖绿洲气象站基本资料
+
+Tab.1 Basic information of the meteorological stations in theEbinurLake Oasis   
+
+<html><body><table><tr><td>气象站</td><td>编号</td><td>经度(E)</td><td>纬度(N)</td><td>海拔/m</td><td>权重</td></tr><tr><td>阿拉山口</td><td>51232</td><td>82°34'</td><td>45°11'</td><td>284.8</td><td>0.066</td></tr><tr><td>博乐</td><td>51238</td><td>82°04'</td><td>44°54'</td><td>531.9</td><td>0.283</td></tr><tr><td>温泉</td><td>51330</td><td>81°01'</td><td>44°58'</td><td>1 354.6</td><td>0.284</td></tr><tr><td>精河</td><td>51334</td><td>82°54'</td><td>44°37'</td><td>321.2</td><td>0.367</td></tr></table></body></html>
+
+$P$ 为降水量， $\mathbf { m } \mathbf { m }$ 。
+
+2.2.3突变分析及趋势检验方法本研究采用Mann-Kendall突变检验方法，具体计算方法详见文献[22]。时间序列趋势成分的持续性检验采用 $\textrm { R }$ S方法计算Hurst指数 $H$ ，计算方法详见文献[23]。2.2.4小波分析法在气候诊断中，广泛使用的傅里叶变换可以显示出气候序列变化的尺度以及变化的时间位置。具体计算方法详见文献[24]。2.2.5气候敏感系数干燥指数变化率与气候因子变化率之比被定义为干燥指数的气候敏感系数[25],计算方法详见文献[26]。
+
+# 3 结果与分析
+
+# 3.1干燥指数年际及季节变化
+
+通过公式（1）计算出艾比湖绿洲1960—2013年的干燥指数。由图2和表2可以看出，艾比湖绿洲1960一2013年的干燥指数呈显著下降趋势，下降幅度约为 $0 . 4 9 \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \left( P < 0 . 0 5 \right)$ ,多年平均值为6.97。在中国，干燥指数小于1为湿润地区，$1 . 0 \sim 1 . 5$ 为半湿润区, $1 . 5 \sim 4 . 0$ 为半干旱区,大于4 则为干旱区[26],因此研究区整体上属于干旱地区。全年干燥指数的Hurst指数 $H = 0 . 7 7$ ，说明研究区全年干燥指数序列具有正的持续性,这表明艾比湖绿洲全年的干燥指数在过去呈减少趋势，意味着将来也呈减少趋势，并且该序列的正持续性较强。从5a滑动平均值来看，艾比湖绿洲的干燥指数在均值附近呈波动下降趋势，波动幅度较小,1960—1983年5a滑动平均值多在近 $5 4 \mathrm { ~ a ~ }$ 均值的上方，其干燥指数均值为7.90，而1983年之后多数5a滑动平均值多在近 $5 4 \mathrm { ~ a ~ }$ 均值的下方，其均值为6.23，说明1960—1983年艾比湖绿洲的干燥程度较1983 年之后要更强。距平值表示气候变量偏离正常情况的程度。由表2可以看出，研究区年代际的干燥指数不断下降，全年的干燥指数在1960s和1970s为正距平，从1980s开始转为负距平，且负距平的绝对值不断增大，说明艾比湖绿洲全年干燥指数从1980s开始较多年平均值出现了下降趋势，并且这种趋势在不断增强。2000年后干燥指数的平均值较1960s减小了 $3 1 . 1 0 \%$ ,其中1960s—1970s干燥指数的下降幅度最大，其值减小了1.15，下降了 $1 3 . 2 9 \%$ ，而1980s—1990s的变化最小，干燥指数仅减小了0.2。
+
+![](images/42ae8cd21dfb6b2fc1a2b45d80735cd411f977e8b7e7b5f689ca1d90d403e907.jpg)  
+图21960—2013年研究区干燥指数变化趋势  
+Fig.2Change trend of aridity index in the study area during the period of 196O-2013
+
+表2研究区干燥指数年际与季节变化  
+Tab.2The annual and seasonal variation of aridity index in the study area   
+
+<html><body><table><tr><td>时段</td><td>全年</td><td>距平</td><td>春季</td><td>距平</td><td>夏季</td><td>距平</td><td>秋季</td><td>距平</td><td>冬季</td><td>距平</td></tr><tr><td>1960s</td><td>8.65</td><td>1.68</td><td>7.48</td><td>0.51</td><td>10.46</td><td>3.49</td><td>11.33</td><td>4.36</td><td>3.69</td><td>-3.28</td></tr><tr><td>1970s</td><td>7.50</td><td>0.53</td><td>10.31</td><td>3.34</td><td>9.75</td><td>2.77</td><td>7.82</td><td>0.85</td><td>2.68</td><td>-4.30</td></tr><tr><td>1980s</td><td>6.67</td><td>-0.30</td><td>6.99</td><td>0.01</td><td>9.50</td><td>2.52</td><td>5.19</td><td>-1.78</td><td>1.95</td><td>-5.03</td></tr><tr><td>1990s</td><td>6.47</td><td>-0.50</td><td>8.93</td><td>1.95</td><td>8.59</td><td>1.62</td><td>7.33</td><td>0.35</td><td>1.40</td><td>-5.57</td></tr><tr><td>2000 年以后</td><td>5.96</td><td>-1.01</td><td>7.30</td><td>0.33</td><td>7.52</td><td>0.55</td><td>6.65</td><td>-0.32</td><td>1.52</td><td>-5.45</td></tr><tr><td>1960—2013年</td><td>6.97</td><td>二</td><td>8.14</td><td>二</td><td>9.04</td><td>二</td><td>7.59</td><td>二</td><td>2.20</td><td>二</td></tr></table></body></html>
+
+![](images/468566a672e6ec7d04fc6ed686f8c789b38370a55db809957b86d4bec022bd97.jpg)  
+图3艾比湖绿洲年际与季节干燥指数Mann-Kendall突变检验  
+Fig.3Mann-Kendall test of annual and seasonal aridity index in the Ebinur Lake Oasis
+
+研究区夏季的干燥指数平均值最大，冬季最小，春、秋两季的差别不大。1960—2013年4个季节的干燥指数均为波动减小趋势，与全年的变化趋势一致。其中春季的干燥指数波动较为明显，干燥指数的均值从1960s到 $1 9 7 0 \mathrm { s } \lrcorner 1 9 8 0 \mathrm { s }$ 和1990s分别变化了 $3 7 . 8 3 \% . 6 . 5 5 \%$ 和 $1 9 . 3 9 \%$ ,而与2000年之后相比只变化了 $2 . 4 1 \%$ ;冬季的干燥指数变化幅度最大,2000年之后的干燥指数均值比1960s下降了$5 8 . 8 1 \%$ ；秋季干燥指数在1960s—1970s 的变化也较为明显，下降了 $3 0 . 9 8 \%$ ;夏季干燥指数在5个时期的变化均较为平缓。研究区四季干燥指数的Hurst指数 $H$ 分别为 $0 . 5 4 , 0 . 7 3 , 0 . 6 0$ 和0.91，四季的干燥指数序列均为正的持续性，但春季和秋季的正持续性较弱，而夏季和冬季的正持续性较强。春季和夏季干燥指数的距平均为正值，但距平值呈现出不断减小的趋势，干燥状况在不断改善。秋季干燥指数在1980s和2000年之后的距平值转为负值，在这两个时期秋季的干燥状况出现好转，而冬季的距平值均为负值，说明冬季的水分状况在整个时期均更好。
+
+# 3.2干燥指数突变检验及周期变化
+
+图3为干燥指数Mann-Kendall突变检验的结果。从全年的突变检测结果来看，自1980s以来，干燥指数有一个明显的减小趋势，尤其是在2000 年之后，这种减小趋势均超过了显著性水平0.05临界线，说明研究区干燥指数的下降趋势是显著的。通过观察 $U F$ 和 $U B$ 曲线交点的位置，可以确定研究区干燥指数1980s的减小是一个突变现象，具体是从1985年开始的。对1960—1985年和1986—2013年这两个时间段的干燥指数进行 $\mathbf { \chi } _ { t }$ 检验，结果表明$\mid t _ { \scriptscriptstyle 0 } \mid = 2 . 8 7 9 > t _ { \scriptscriptstyle 0 . 0 1 } \left( t _ { \scriptscriptstyle 0 . 0 1 } = 2 . 6 7 4 \right)$ ,说明这两个时间段的干燥指数均值具有显著差异，1985年为全年干燥指数的突变点。采用同样的方法对研究区四季的干燥指数进行突变检验，可以得出夏季和冬季的突变年份分别为1991年和1983年，而春季和秋季的干燥指数不存在突变点。
+
+由图4可以看出，研究区干燥指数演变过程中存在着7\~8a和 $2 0 \sim 2 1$ a 的周期变化。其中，在20～21a尺度上出现了小—大交替的准4次震荡，7\~8a尺度上出现了准8次震荡，这两个尺度的周期变化在整个时间序列上表现的比较稳定，具有全域性。并且小波系数实部等值线在1980s之前较之后要更加密集，说明研究区的干燥指数在1980s之前的变化更为剧烈
+
+图5为小波方差的计算结果，干燥指数的小波方差图中存在3个明显的峰值，依次为 $\mathrm { ~ 5 ~ a ~ } , 9$ a和21a的时间尺度。其中，最大峰值对应着9a的时间尺度，第2和第3峰值分别对应21a和5a的时间尺度，9a左右的周期震荡最强，是干燥指数变化的第一主周期，而21a和5a的时间尺度为干燥指数变化的第二、三周期。上述3个周期的波动控制着研究区干燥指数在整个时间域的变化特征。
+
+# 3.3干燥指数气候敏感系数及贡献率
+
+从表3可以看出，这6个气候因子中，平均气温和降水量均呈极显著上升趋势，倾向率分别为0.33$\mathrm { { ~ \mathcal { C } ~ } } \cdot \mathrm { ~ ( ~ 1 0 a ) ~ } ^ { - 1 }$ 和 $1 2 . 1 7 7 \ \mathrm { m m } \cdot \mathrm { ( 1 0 a ) } ^ { - 1 } \mathrm { ( } P < 0 . 0 1 \mathrm { ) }$ 而风速和辐射量呈极显著下降趋势，倾向率分别为$- 0 . 2 3 4 \mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ·（10a）-¹和 $- 3 1 7 . 5 \mathrm { ~ M J ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 }$ ：
+
+(10a）-1( $\left( P < 0 . \ 0 1 \right)$ ；日照时数呈显著下降趋势1 $\cdot P < 0 . 0 5 )$ ，倾向率为 $- 4 0 8 . 5 \mathrm { ~ h ~ } \cdot \mathrm { ~ ( ~ } 1 0 \mathrm { { a } ) ~ } ^ { - 1 }$ ；只有相对湿度表现为不显著的下降趋势，倾向率为$- 0 . 4 0 5 \% \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 }$ 。6个气候因子时间序列的Hurst指数均大于0.5，其中平均气温、降水量和风速的正持续性较强，而相对湿度和日照时数的正持续性较弱。由各气候因子的敏感系数可知，干燥指数对于平均气温和降水量的响应呈减小趋势，而对相对湿度、风速、辐射量和日照时数的响应均为增加趋势。其中风速对于干燥指数的影响最大，敏感系数达到2.10，其次为平均气温和相对湿度，敏感系数分别为-1.49和1.21，而干燥指数对于日照时数最不敏感，敏感系数仅为0.0012，说明研究区的相对湿度、风速、年辐射量和日照时数每增加 $10 \%$ ，干燥指数就会相应增加 $1 2 . 1 \% . 2 1 . 0 \% . 0 . 0 1 5 \%$ 和$0 . 0 1 2 \%$ ,而平均气温和年降水量每增加 $10 \%$ ，则会使干燥指数下降 $1 4 . 9 \%$ 和 $0 . 4 \%$ 。从气候因子对于干燥指数的相对贡献率可以看出，风速对于干燥指数的贡献率最大，达到 $3 8 . 6 8 \%$ ,辐射量和日照时数也均具有较高的贡献率，而降水量对于干燥指数的贡献最小，仅为 $1 . 9 9 \%$ 。各气候因子中，风速的Hurst指数 $H$ 、气候敏感系数和相对贡献率均大于其他气候因子，说明研究区干燥指数对于风速的持续性降低最为敏感，同时风速也对干燥指数有着最大的贡献率，因此研究区风速的下降趋势是造成该区域干燥指数降低的主要原因。
+
+![](images/0faa5adb9d13e9f3b9a87d4a38d6696741085abb39cd8d44dc9c7774157778f6.jpg)  
+图4干燥指数小波实部等值线
+
+![](images/0311fae84aa24b0e0803a3abc3f429b790011abb61be686a1026c089af0edaae.jpg)  
+Fig.4Isogram of the real part of wavelet coefficients of aridity index   
+图5干燥指数小波方差  
+Fig.5The Morlet wavelet variance of aridity index
+
+表3干燥指数的气候敏感系数  
+Tab.3The sensitivity coefficients about meteorological factors of aridity index   
+
+<html><body><table><tr><td></td><td>平均气温</td><td>降水量</td><td>相对湿度</td><td>风速</td><td>辐射量</td><td>日照时数</td></tr><tr><td>倾向率</td><td>0.033 **</td><td>1.2117**</td><td>-0.040 5</td><td>-0.0234 **</td><td>-31.75 **</td><td>-40.85 *</td></tr><tr><td>Hurst 指数</td><td>0.77</td><td>0.77</td><td>0.57</td><td>0.79</td><td>0.69</td><td>0.59</td></tr><tr><td>气候敏感系数</td><td>-1.49</td><td>-0.04</td><td>1.21</td><td>2.10</td><td>0.001 5</td><td>0.001 2</td></tr><tr><td>相对贡献率/%</td><td>3.27</td><td>1.99</td><td>7.65</td><td>38.68</td><td>26.40</td><td>22.00</td></tr></table></body></html>
+
+注：\*为通过0.05的显著性检验，\*\*为通过0.01的显著性检验。
+
+# 4讨论
+
+由干燥指数的计算公式可知，干燥指数与区域${ E T } _ { 0 }$ 成正比，而与降水量成反比。王利平等27指出，中国西北地区十燥指数50a来呈显著减小趋势,并且在1990s发生突变;董煜等[28]得出,新疆平均 $E T _ { 0 }$ 整体呈下降趋势,但在1995 年发生突变性增加，对于艾比湖绿洲所处的天山北坡地区，风速与${ E T } _ { 0 }$ 具有最高的完全相关系数和相对贡献率；谭娇等[15]也指出风速是艾比湖绿洲 $\mathbf { \nabla } { E T _ { 0 } }$ 下降的主导因素。艾比湖绿洲位于阿拉山口大风主通道，常年大风对于当地的水分循环产生了极大影响，因此可能更为显著的影响了干燥指数的变化。关学锋等[29]指出，新疆北部地区春季、秋季和冬季增温显著，而夏季气温增幅不明显，这与研究区四季干燥指数所表现出的夏季波动小，其他3个季节波动大的变化趋势较为一致。郑红星等[26对于东北地区干燥指数的气候敏感系数研究发现，干燥指数受降水的影响最大，而受风速的影响最小。因此，干燥指数的气候敏感系数受当地自然条件的影响显著，具有地域差异。而在进行干燥指数与各气候因子的敏感系数分析时，笔者假设各气候因子之间是相互独立的，然而实际上各因子之间是相互影响的。例如，太阳辐射的改变会影响地表的能量输入并进一步影响温度[30],因此干燥指数与气候因子的敏感系数还存在一定的不确定性。
+
+新疆干燥指数的突变年份与 ${ E T } _ { 0 }$ 突变年份相差$1 0 \mathrm { ~ a ~ }$ ,这说明 $E T _ { 0 }$ 的突变并不能很快引起干燥指数的变化。李颖等[19 指出，艾比湖绿洲的降水量在过去 $5 4 \mathrm { ~ a ~ }$ 上升趋势不明显，但在1986年发生突变性增加，说明干燥指数对于降水量变化的响应时间更短。Roderick 等[31]提出“蒸发悖论”,即全球气温上升而潜在蒸散量减少的水文气象特征。通过已有结论可以看出艾比湖绿洲也存在“蒸发悖论”，同时研究区的干燥指数也存在类似现象，即艾比湖绿洲的平均气温和降水量均为极显著上升趋势，前者有利于增加干燥指数，而后者有利于减少干燥指数，因此，研究区干燥指数的变化应是各项气候指标综合作用的结果。同时，人类活动和区域所处的地理位置都可能影响区域的气候变化(32-33]。近年来,相关学者对于土地利用变化与区域生态水文效应作了大量工作[34-37],指出土地利用变化很大程度上改变了辐射、云、地表反射率等，进而影响陆一气之间的能量、水分交换，水循环过程是水资源变化的重要影响因素。白泽龙等[38]认为,1970—2009 年艾比湖流域耕地和建设用地面积增加幅度较大，随着人口增加和经济的发展，绿洲化趋势越来越明显。绿洲化的加剧使地表植被覆盖度增加，对风速起到抑制作用，同时绿洲的“冷岛效应”使局部区域温度降低，导致蒸散量减少，从而使干燥指数降低。
+
+研究区季节的干燥指数只有冬季存在突变，其他3个季节均不存在突变现象，这可能是由于研究区冬季的气温均为零度以下， ${ E T } _ { 0 }$ 较其他季节小,并且较为稳定，显著增加的降水量可能是导致研究区冬季干燥指数发生突变的原因。普宗朝等[14]指出，新疆平均干燥指数在1987年发生了突变性减小，本研究结果与大尺度全新疆地区的突变年份相比只提前了2a,并且具有较为一致的波动周期。干旱区的湖泊对于气候变化的响应非常敏感[39]，胡汝骥等[40]首先报道了艾比湖湖面面积自1987 年迅速扩大，艾比湖绿洲的干燥指数在1985年的突变性下降也与此事实相符。虽然研究区的干燥指数54a来呈显著下降趋势，并且这种趋势还在持续，但研究区的干燥指数依然处于高值，艾比湖绿洲属于干旱地区这一事实依旧没有改变。
+
+# 5结论
+
+（1）艾比湖绿洲1960—2013 年的干燥指数呈显著下降趋势，下降幅度约为 $0 . 4 9 \cdot \mathrm { ( 1 0 a ) } ^ { - 1 } \mathrm { ( } P <$ 0.05），平均值为6.97，整体上属于干旱地区，并且这种减小的趋势性较强。4个季节的干燥指数均呈波动减小趋势，春夏两季的干燥指数分别为8.14和9.04，干燥程度较为严重，而冬季的均值仅为2.20，夏季和冬季的减小持续性较强，而春秋两季持续性较弱。
+
+（2）艾比湖绿洲全年干燥指数在1985 年发生突变性减小，季节的干燥指数只有夏季和冬季存在突变性减小，突变年份分别为1991年和1983年，而春季和秋季的干燥指数不存在突变点。
+
+（3）1960—2013年艾比湖绿洲干燥指数的演变过程存在着7\~8a和 $2 0 \sim 2 1$ a 的周期变化,并且干燥指数在1980s之前的变化更为剧烈。干燥指数变化的第一主周期为9a,第二、三周期分别为21a和 $5 \mathrm { ~ a ~ }$ 。
+
+（4）艾比湖绿洲平均气温和降水量呈显著上升趋势，而风速、辐射量和日照时数呈显著下降趋势，相对湿度表现为不显著下降趋势。干燥指数对于风速最为敏感，敏感系数达到2.10，而对日照时数最不敏感，敏感系数仅为0.0012。风速对于干燥指数的相对贡献率最大，而降水量对于干燥指数的相对贡献率最小。
+
+# 参考文献(References）:
+
+[1]Stephens G L,Hu Y X.Are climate-related changes to the character of global-mean precipitation predictable?[J].Environmental Research Letters,2010,5(2):2 960-2 967.   
+[2] Francés G E,Quevauviller P,González E S M,et al.Climate change policy and water resources in the EU and Spain.A closer look into theWaterFramework Directive[J].Environmental Science &Policy,2017,69:1-12.   
+[3] Cook B I,Ault T R,Smerdon JE.Unprecedented 21st century drought risk in the American Southwest and Central Plains[J]. Science Advances,2015,1(1) :e1400082.   
+[4] LiB,Su H,Chen F,et al.The changing characteristics of drought in China from 1982 to 2005[J].Natural Hazards,2013,68（2）： 723-743.   
+[5] NastosPT,Politi N,Kapsomenakis J.Spatial and temporal variabilityof the Aridity Index in Greece[J].Atmospheric Research, 2013,119(1) :140 -152.   
+[6] Tabari H,Aghajanloo MB.Temporal pattern of aridity index in Iran with considering precipitation and evapotranspiration trends [J].International Journal of Climatology,2013,33（2）:396- 409. 胡汝骥,姜逢清,王亚俊,等.新疆气候由暖干向暖湿转变的信
+
+号及影响[J].干旱区地理,2002,25（3）：194-200.［HuRuji， JiangFengqing,Wang Yajun,et al.A study onsignals and effects of climatic pattern change from warm-dry to warm-wet in Xinjiang
+
+[J].Arid Land Geography,2002,25(3）:194-200.]   
+[8] 施雅风,沈永平,李栋梁,等.中国西北气候由暖干向暖湿转型 的特征和趋势探讨[J].第四纪研究,2003,23（2）：152－164. [Shi Yafeng,Shen Yongping,Li Dongliang,et al.Disscussion on the present climate change from warm-dry to warm wet in northwest China[J]. Quatermary Sciences,2003,23(2）:152-164.]   
+[9]Liu X,Zhang D,Luo Y,et al.Spatial and temporal changes in aridity index in Northwest China:1960 to 2010[J]. Theorectical & Applied Climatology,2013,112(1-2）:307-316.   
+[10］马柱国,符淙斌.中国北方干旱区地表湿润状况的趋势分析 [J].气象学报,2001,59(6）:737-746.[Ma Zhuguo,FuCongbin.Trend of surface humid index in the arid area of Northern China[J].Acta Meteorologica Sinica,2001,59(6):737-746.]   
+[11]曹言,王杰,黄英,等.基于干燥指数的近45 年云南滇中地区 干湿状况的变化特征[J].水土保持研究,2018,25（1）：243- 249.[Cao Yan,Wang Jie,Huang Ying,etal.Variation characteristicsof dry-wetconditionsincentralYunaninrecent45years based on dry index[J]. Research of Soil and Water Conservation, 2018,25(1) :243 -249. ]   
+[12]王菱,谢贤群,李运生,等.中国北方地区40 年来湿润指数和 气候干湿带界线的变化[J].地理研究,2004,23（1):45-54. [Wang Ling,Xie Xianqun,Li Yunsheng,et al.Changesof humid index and borderline of wet and dry climate zone in Northern China over the past 40 years[J]. Geographical Research,2004,23 (1):45 -54.]   
+[13］张红丽,张强,刘晓云.华北河套地区气候干燥度的影响因素 研究[J].气候变化研究进展,2016,12（1):20-27.[Zhang Hongli,Zhang Qiang,Liu Xiaoyun. Study on the main factors of aridity in Hetao area of North China[J]. Climate Change Research,2016,12(1) :20-27.]   
+[14]普宗朝,张山清,王胜兰,等.近48a新疆干湿气候时空变化特 征[J].中国沙漠,2011,31(6):1563-1572.[Pu Zongchao, Zhang Shanqing,Wang Shenglan,et al.The spatial-temporal variation characteristicof dry-wet climate inrecent48 yearsin Xinjiang province,China[J]. Journal of Desert Research,2011,31（6）: 1 563 -1 572.]   
+[15]谭娇,丁建丽,董煜,等.新疆艾比湖绿洲潜在蒸散量年代际变 化特征[J].农业工程学报,2017,33（5）:143-148.[Tan Jiao, Ding Jianli,DongYu,etal.Decadalvariationofpotentialevapo transpiration in Ebinur Lake oasis of Xinjiang[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33(5）:143 -148.]   
+[16]热孜宛古丽·麦麦提依明,杨建军,刘巍.艾比湖流域 1957— 2013 年潜在蒸散、气温、降水变化特征分析[J].冰川冻土， 2016,38（1）:69-76.[Reziwanguli Maimaitiyiming,Yang Jianjun,Liu Wei. Changing characteristics of potential evapotranspiration,air temperature and precipitation in Ebinur Lake basin from 1957 to 2013[J]. Journal of Glaciology and Geocryology,2016,38 (1) :69 -76.]   
+[17］许兴斌,王勇辉,姚俊强.艾比湖流域气候变化及对地表水资
+
+源的影响[J].水土保持研究，2015，22（3）：121-126.［XuXingbin,Wang Yonghun,Yao Junqiang.Impact of the climatechange of Ebinur Lake Basin on surface water resources[J].Re-searchof Soil andWater Conservation,2015,22(3):121-126.][18]秦鹏，刘强.艾比湖流域潜在蒸散量时空变化特征[J].中国农村水利水电,2017(6）:111-117.[QinPeng,LiuQiang.Spatiotemporal variation of evapotranspiration in EbinurLake Basin from1961 to 2012[J].China Rural Water and Hydropower,2017(6）：111 -117. ]
+
+[19]李颖,孜比布拉·司马义，董煜,等.艾比湖绿洲地区降水变化规律及突变分析[J].节水灌溉,2017（10）：41-45.[LiYing，Zibibula Simayi,Dong Yu,etal.Analysis of variation rules and ab-rupt changes of precipitation in Aibi Lake Oasis[J].Water SavingIrrigation,2017（10） :41-45.]
+
+[20]Allan R G,Pereira L S,Raes D,et al. Crop evapotranspiration: Guidelines for computing crop water requirements[M].FAO Irrigation and Drainage Paper,1998,56.
+
+[21]吴绍洪，尹云鹤，郑度，等.近30年中国陆地表层干湿状况研究[J].中国科学：地球科学，2005,35（3）：276-283.[WuSha-ohong,Yin Yunhe,ZhengDu,et al.Study on dry-wet conditions ofland surface in China in recent 3O years[J].Science in ChinaSer.D Earth Sciences,2005,35(3):276-283.]
+
+[22]甄英,姜锐，何静.青海玉树地区近61年气候变化特征分析[J].西南师范大学学报（自然科学版），2017，42（4）：102-107.[Zhen Ying,Jiang Rui,He Jing.Analysis of climate changecharacteristics in Yushu area of Qinghai in recent 61 years[J].Journal of Southwest China Normal University（Natural Science E-dition）,2017,42(4):102-107.]
+
+[23]雷江群，刘登峰，黄强.渭河流域气候变化及干湿状况时空分布分析[J].西北农林科技大学学报（自然科学版），2015，43(3）:175-181.[Lei Jiangqun,Liu Dengfeng,Huang Qiang.Cli-mate change and spatiotemporal distribution of dry-wet status inWeiRiver basin[J].Journal of NorthwestA&FUniversity(Natu-ral Science Edition）,2015,45(3):175-181.]
+
+[24]魏凤英.现代气候统计诊断与预测技术[M].北京：气象出版 社,2007.[Wei Fengying.Modern Climate Statistical Diagnosis and Prediction Technology〔M].Beijing：China Meteorological Press,2007.]
+
+[25]Yin Y,Wu S,Gang C,etal.Attribution analyses of potential evapo transpiration changes in China since the 196Os[J].Theoretical & Applied Climatology,2010,101(1-2）:19-28.
+
+[26]郑红星，刘静.东北地区近40年干燥指数变化趋势及其气候敏感性[J].地理研究,2011,30（10）：1765-1774.［ZhengHongxing,Liu Jing.Long-term trends of aridity index and its sensi-tivity to climate factorsin Northeast China:1971-2OO8[J].Geo-graphical Research,2011,30(10):1 765-1 774.]
+
+[27]王利平，文明，宋进喜，等.1961一2014年中国干燥度指数的时空变化研究[J].自然资源学报，2016，31（9)：1488-1498.[WangLiping,Wen Ming,SongJinxi,etal.Spatial-temporal Vari-ationof Aridity Index during1961-2014 in China[J].Journal of
+
+Natural Resources,2016,31(9):1 488-1 498.][28」董煜,海米提·依米提.1961—2013年新疆潜在蒸散量变化特征及趋势[J].农业工程学报,2015,31（1)：153-161.[DongYu,Haimiti Yimiti.Spatio-temporal variability and trend of poten-tial evapotranspiration in Xinjiang from1961 to 2013[J].Transac-tions of the Chinese Society of Agricultural Engineering,2015,31
+
+(1):153 -161.]
+
+[29]关学锋，孙卫国，李敏姣,等.1965—2012年新疆北部地区气候变化及其对北极涛动的响应[J].干旱区研究,2016,33（4)：681-689.[Guan Xuefeng,Sun Weiguo,Li Minjiao,et al.Climatechange in North Xinjiang and its response to Arctic Oscillationduring the period of1965-2012[J].Arid Zone Research,2016,33(4):681 -689.]
+
+[30]LiY,FengA,LiuW,etal.Variation ofaridityindexandtherole of climate variables in the Southwest China[J].Water,2017,9 (10):743.
+
+[31]Roderick ML,Farquhar G D.The cause of decreased pan evaporation over the past 50 years[J].Science,2002,298(5 597）:1 410 -1 411.
+
+[32]Zheng C,Wang Q.Spatiotemporal pattern of the global sensitivity of the reference evapotranspiration to climatic variables in recent five decades over China[J].Stochastic Environmental Research& Risk Assessment,2015,29(8) :1 937-1 947.
+
+[33]谭娇，丁建丽，张钧泳，等.1961一2014年新疆北部地区气温时 空变化特征[J].干旱区研究,2018,35（5)：1181-1191. [Tan Jiao,Ding Jianli,Zhang Junyong,et al. Spatiotemporal variation of temperature in North Xinjiang during the period of 1961- 2014[J].Arid Zone Research,2018,35(5）:1 181-1191.]
+
+[34」金翠，张柏，宋开山，等.土地利用/覆被变化对区域蒸散发影 响的遥感分析——以吉林省乾安县为例[J].干旱区研究， 2009,26（5）:734-743.[Jin Cui,Zhang Bai,Song Kaishan,et al.RS-based analysis on the effects of land use/cover change on regional evapotranspiration:A case study in Qian'an County,Jilin Province[J].Arid Zone Research,2009,26(5）:734-743.]
+
+[35]董晴晴，占车生，王会肖，等.2000年以来的渭河流域实际蒸散发时空格局分析[J].干旱区地理，2016，39（2）：327-335.[Dong Qingqing,Zhan Chesheng,WangHuixiao,etal. Spatio-temporal patterns of actual evapotranspiration in the Weihe River Ba-sin since 2000[J].Arid Land Geography,2016,39（2）:327 -335.]
+
+[36]陈海山,李兴,华文剑.近20 年中国土地利用变化影响区域气候的数值模拟[J].大气科学，2015，39（2）：357-369.〔ChenHaishan,Li Xing,Hua Wenjian.Numerical simulation of the im-pact of land use/land cover change over China on regional climatesduring the last 2O years[J].Chinese Journal of Atmospheric Sci-ences,2015,39(2) :357-369.]
+
+[37]姚俊强，杨青，毛炜峰，等.西北干旱区大气水分循环要素变化研究进展[J].干旱区研究，2018，35（2）：269-276.［YaoJun-qiang,Yang Qing,Mao Weiyi,et al.Progress of study on variationof atmospheric water cycle factors over arid region in Northwest
+
+China[J].Arid Zone Research,2018,35(2):269-276.][38]白泽龙，包安明，赵金，等.艾比湖流域近40年来土地利用与覆被动态变化研究[J].水土保持通报，2012，32（2）：172-177.［Bai Zelong,Bao Anming,Zhao Jin,et al.Land use/coverchange ofEbinur Lake watershedinrecent forty years[J].BulletinofSoil and Water Conservation,2012,32(2）:172-177.]
+
+[39]柏春广，穆桂金.艾比湖的湖岸地貌及其反映的湖面变化[J]. 干旱区地理,1999,22（1）:34-40.[Bai Chunguang,Mu Guijin.
+
+Lake surface changes indicated by the shore landform of Aiby Lake,Western Jungar Basin,China[J].Arid Land Geography, 1999,22(1) :34-40.]
+
+[40]胡汝骥，马虹，樊自立，等.近期新疆湖泊变化所示的气候趋势 [J].干旱区资源与环境,2002，16（1）：20-27.[HuRuji，Ma Hong,Fan Zili,et al. The climate trend demonstrated by changes of the lakes in Xinjiang since resent years[J].Journal of Arid Land Resources and Environment,2002,16(1）:20-27.]
+
+# Change of Aridity Index in the Ebinur Lake Oasis,Xinjiang
+
+ZHANG An-hel123，DINGJian-li1,2.3，DONGYu，ZHANGJun-yong,2，TANJiao $^ { 1 , 2 , 3 }$ (1.Key Laboratory of Smart City and Environment Modeling of Higher Education Institute,Xinjiang University, Urumqi 800046,Xinjiang,China;； 2. Collage of Resources and Environmental Sciences,Xinjiang University,Urumqi 83oo46,Xinjiang,China; .KeyLaboratoryof Oasis Ecologyunder Ministryof Education,Xinjiang UniversityUrumqi 830046,Xinjiang,China; 4.College of Geographical Science and Tourism,Xinjiang Normal University,Urumqi 830o54,Xinjiang,China)
+
+Abstract:In this paper,the values of annual and seasonal aridity index in the Ebinur Lake Oasis in Xinjiang, China were calculated based on the measured data of monthly precipitation,wind speed,relative humidity and radiationat four meteorological stations intheoasis during theperiod froml96O to 2O13.The linearfting method,MannKendall mutation test,wavelet analysis and climate sensitivity coeficient test were used.Theresultsare as follows : $\textcircled{1}$ The average aridity index of the Ebinur Lake Oasis was 6.97 in recent 54 years,and it suggested that the study area couldbecategorized as an arid region.The aridity index was in a significant decrease trend with an average rate of $0 . 4 9 \cdot \left( 1 0 \mathrm { a } \right) ^ { - 1 } \left( P < 0 . 0 5 \right)$ . The average aridity index in summer was as high as 9.O4,but its minimum value in winter was $2 . 2 0 ~ \mathrm { o n l y }$ $\textcircled{2}$ The annual aridity index in the Ebinur Lake Oasis was sharply decreased in 1985. Seasonally,the sharp decreaseof aridity index insummerand winter occurred in1991and1983respectively,however,there was no mutation of aridity index in spring and autumn ; $\textcircled{3}$ There were 7 -8 - year and 20 -21 - year periodic variations of aridity index in the EbinurLakeOasis inrecent 54years,thefirst principal periodof aridity index variation was for9 years,and the second and third periodical changes were for 21 years and 5 years respectively; $\textcircled{4}$ The aridity index in the Ebinur Lake Oasis was the most sensitive to the change of wind speed,the contributionof wind speed change tothe variation of aridity index was thehighest,and the aridity index was not sensitive to the change of sunshine duration.
+
+Key words:oasis；aridity index；climate change； sensitivity coefficient； Ebinur Lake； Xinjiang

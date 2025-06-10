@@ -1,0 +1,178 @@
+# DOI:10.5846/stxb201604100654
+
+张起鹏,王建,赵成章，张志刚,冯婉婉，王珂.高寒干旱草原披针叶黄华植物群落土壤种子库与地上植被的关系.生态学报,2017,37（14)：4619-4626.  
+ZhangQP，WangJ,ZaoCZ,ZangZG,engWW，WangKRelatioshipsbeteethesoilsdbankadbovegrounvegeatoofosslanceolata community in degraded alpine arid grasslands.Acta Ecologica Sinica,2O17,37(14）:4619-4626.
+
+# 高寒干旱草原披针叶黄华植物群落土壤种子库与地上植被的关系
+
+张起鹏1,³,王建¹，赵成章2，\*，张志刚¹，冯婉婉³，王珂4
+
+1南京师范大学地理科学学院，南京210023  
+2西北师范大学地理与环境科学学院，兰州730070  
+3甘肃民族师范学院，合作747000  
+4虎台中学，西宁810001
+
+摘要：以祁连山高寒干旱退化草地披针叶黄华(Thermopsis lnceolate)群落为研究对象,采取野外调查取样和室内分析相结合的方法,对群落土壤种子库与地上植被的关系进行了对比研究。结果表明;地上植被物种共调查出15种,土壤种子库检测出植物18种,地上植被阿尔泰针茅（S.krylouii）、赖草（A.dasystachys）和扁穗冰草等可食草以及不食草披针叶黄华和阿尔泰狗哇花(H.altaicus)优势度明显,其它物种不明显;土壤种子库与地上植被物种组成的相似性程度较低;土壤种子库与地上植被中可食草的物种数多于不食草,土壤种子库的物种数均不小于地上植被中的物种数，地上植被中存在而未在土壤种子库中检测到的可食草物种有阿尔泰针茅和赖草,土壤种子库中存在而地上植被中未被发现的物种有早熟禾( $P .$ annua）灰绿藜（C.glaucum）、碱韭（A.polyrhizum）、酸模（R.patientia）、独行菜(L.apetalum）和秦苏（G.macrophyla）;原生禾草物种在可食草功能群中生物量所占比例较低,毒杂草物种生物量所占比例增加显著,而土壤种子库的数量百分含量较低;可食草与不食草的生物量在植被梯度下的变化呈显著负相关( $r = - 0 . 9 4 0 , P = 0 . 0 1 8 )$ ,而土壤种子库密度变化无相关性;可食草生物量变化与其土壤种子库密度变化不相关,不食草生物量变化与其土壤种子库密度的增加呈显著正相关( $\stackrel { \prime } { r } = 0 . 9 0 2 , P = 0 . 0 3 6 \rangle$ 。
+
+关键词：干旱草原;披针叶黄华;斑块分布;地上植被;群落相似性
+
+# Relationships between the soil seed bank and above-ground vegetation of a Thermopsis lanceolata community in degraded alpine arid grasslands
+
+ZHANG Qipeng1,3，WANG Jian1,ZHAO Chengzhang2，\*， ZHANG Zhigang'，FENG Wanwan³，WANG Ke'   
+1School of Geographic Science,Nanjing Normal University,Nanjing21oo23,China   
+2 College of Geographyand Environmental Science,Northwest Normal University,Lanzhou 73007o,China   
+3Gansu Normal University for Nationalities；Hezuo 747OoO,China   
+4 HuTai Middle School of Xining,Xining 810001,China
+
+Abstract：The main objectiveof this study was to addressquestions with regard to howthe soil seed banksand vegetation change alongahabitat gradient.Inthisarticle，wechose the Thermopsis lanceolatacommunityindegradedalpinearid grasslands asourresearch subjectand determinedtherelationship betweenthe alpinearid grassland soilseedbank and above-ground vegetationintheQilian Mountainsusing field investigationandlaboratoryanalysis.Fifteenspecies were presentin theabove-ground vegetationand18 species were present inthe soil seed bank.Dominantabove-ground vegetation species includedediblegrasses such as Stipa krylovii，Aneurolepidium dasystachysand Agropyroncristatum，and non-edible grasses such as Thermopsis Lanceolataand Heteropappus altaicus；however，no other species was observed to exhibitany distinctdominance.Moreover，the degreeof similaritybetween theabove-ground vegetationandthesoilseedbank was distinctive.The Sorenson similarityindexwas low betweentheabove-groundvegetationandthesoil seedbank along the vegetation gradient.The Sorensonsimilarityindex between thesoilseedbank andobserved vegetation functional groups exhibitedvarying characteristics.Thenumber of ediblegrasses was greater thanthatof non-edible grasses inthesoil seed bank (except V gradient).The number of species of vegetation was also greater than that of non-edible grases（(exceptIII gradient).The numberof species in thesoil seed bank was notlower than thatof theabove-ground vegetation species. S. krylovii and $A$ . dasystachys were founded in the above-ground vegetation but not in the soil seed bank，whereas Poa annua，Chenopodium glaucum，Allium polyrhizum，Rumex patientia，Lepidium apetalum，and Gentiana macrophyll were found inthesoil seedbankbutnot inthe vegetation.Theproportionofbiomassatributabletogramineous plants was lowfor ediblegrasses，whereas the biomass of poisonous weds was significantly greater inthe vegetationgradient thanin the soil seed bank.The plant population biomass had no unanimous relation with seed amount.Edible grassand non-edible grass were significantly negatively correlated ( $r = - 0 . 9 4 0 , P = 0 . 0 1 8 \rangle$ ） along the vegetation gradient，but changes in the soil seed bank density were not correlated.Therelationship between the biomassof edible grassand thesoil seed bank density was uncorelated.The biomassof non-edible grassandthesoilseedbank density were significantly corelatedalongthe vegetation gradient ( $r = 0 . 9 0 2 , P = 0 . 0 3 6 ,$ ).Our research indicated that the seed bank could retain and restore several species in the processof grassland degradation，and these speciescouldbe valuable for vegetation successonandgrassland restoration.
+
+Key Words:arid grasslands；Thermopsis lanceolata； patch distribution；vegetation;similarity of community
+
+草原退化是在不合理的人类活动及利用下草原植被的产量和质量下降,土壤环境恶化,使草原生态系统的生产与生态功能衰退的现象[1-2]。近年来,祁连山北坡高寒干旱草原由于自然和人为的影响出现了严重的退化现象：适口性好的草本植物,特别是优良禾本科植物被牲畜大量啃食,生产力下降,许多地带性植被建群种分布规模退缩,同时,毒杂草植物生长茂盛,形成大量以毒杂草为优势种的斑块状植物群落。
+
+披针叶黄华是我国北方草地广泛分布的一种豆科野决明属有毒多年生草本植物,植株新鲜状态牲畜一般不采食,误食后发生慢性中毒,干枯后采食不中毒[3]。目前,祁连山北坡干旱草原出现以披针叶黄华（Thermopsis lanceolate)为代表的有毒植物繁茂生长的景象,草场土壤种子库后备资源亦劣质化,牧草种子存量不容乐观[4],草原植被生态系统出现了严重问题。披针叶黄华大面积生长已严重影响当地牧民的生产与生活,而其种群的存在不同于其它草原原生植物的环境反馈过程,尚不清楚其群落适应干扰的生存繁衍机制，无法深人理解其繁衍扩散机理。
+
+土壤种子库(The soil seed bank)是指某一特定时间,存在于土壤表面及其下的土层中的具有生活力的种子总数[5],它与地表植被有着密切的关系。作为潜在植物群落[6],它所含有的物种信息在植被的更新和恢复、群落的演替和扩散、生物多样性的保护及生态系统演替和发展趋势等方面都具有重要作用。许多学者从土壤种子库的特征[4,7-1]、空间格局与异质性[1-13]、多样性[14-15]和干扰[16-2]等方面对毒杂草植物群落进行了大量研究,而结合土壤种子库与地上植被探究草原退化机制的研究较为薄弱[4.12]。为更全面和系统地理解土壤种子库与地上植被的受损过程及变化模式,本文以祁连山高寒干旱草原披针叶黄华退化草地为研究对象，通过野外植被调查和室内试验,分析了披针叶黄华植物群落土壤种子库和地上植被功能群的关系以及和地上生物量的变化特征，揭示其群落在草原利用过程中土壤种子库与地上植被的变化规律，以期为有效抑制披针叶黄华的生长和扩散,恢复和持续利用草原植被提供基础。
+
+http://www.ecologica.cn
+
+# 1研究区概况与研究方法
+
+# 1.1 研究区概况
+
+祁连山高寒干旱草原位于我国西北内陆地区的生态环境脆弱区,河西走廊与青藏高原的过渡带,具有大陆性气候和山地垂直气候特征。研究区位于祁连山北坡肃南县皇城草原,地理坐标为 $( 3 7 ^ { \circ } 2 8 ^ { \prime } - 3 8 ^ { \circ } 0 2 ^ { \prime } \mathrm { N } _ { \mathrm { \Omega } }$ （204号$1 0 1 ^ { \circ } 0 6 ^ { \prime } \mathrm { - } 1 0 2 ^ { \circ } 1 3 ^ { \prime } \mathrm { E } )$ ,海拔2610- $2 7 5 0 \mathrm { ~ m ~ }$ ,年平均气温1一 $- 2 ^ { \circ } \mathrm { C }$ ,最热和最冷月的气温分别为12— $1 5 \mathrm { ^ { \circ } C }$ 和-13-$- 1 1 \mathrm { ^ c } , \gtrless 0 \mathrm { ^ c }$ 的年积温为2450— $2 6 0 0 \mathrm { ^ { \circ } C }$ 。年均降水量为 $3 5 0 ~ \mathrm { m m }$ 左右，且主要集中在6一9月，年均蒸发量为1500— $1 8 0 0 ~ \mathrm { { m m } }$ ,相对湿度 $6 5 \%$ 。年平均日照时数达到 $2 2 0 0 { - } 2 8 0 0 \mathrm { ~ h ~ }$ ,相对无霜期 $8 0 \mathrm { ~ d ~ }$ 左右。土壤以山地栗钙土为主,原生地带性植被为山地草甸草原类、坡地苔草禾草组,阿尔泰针茅（S.krylovi） $^ +$ 扁穗冰草（A.cristatum）-杂类草型。天然牧草一般4月下旬萌发,7月上旬进入生长旺盛期,10月中旬开始枯黄,枯草期近7个月。受各种环境因子干扰,草原形成以披针叶黄华聚集分布的斑块状景观,禾草种群分布规模萎缩，草原生态系统功能减弱。
+
+# 1.2 研究方法
+
+# 1.2.1 野外调查与种子鉴定
+
+Thompson 和Grime[5]将种子库归为短暂土壤种子库和持久土壤种子库,而持久土壤种子库具有在承受了空间或时间上不可预测的干扰的植被中发挥繁殖能力的潜势[21]。7、8月份采集的土样,一般用于持久种子库的研究,此时短暂土壤种子库的种子基本于5、6月份萌发,而新的种子雨未降落[22]。草原植被调查与土壤种子库的取样在2013年8月上旬进行,根据植被特征及披针叶黄华物种生长状况,在研究区沿南北方向选取地势平坦，生境相对无差别的典型样带作为调查对象，设置 $5 0 ~ \mathrm { m } \times 5 0 ~ \mathrm { m }$ 的调查样地，样地设置10个重复，重复之间间隔 $5 \mathrm { ~ m ~ }$ 。每个样地沿双对角线均匀布置9个 $0 . 5 \ \mathrm { { m } } { \times } 0 . 5 \ \mathrm { { m } }$ 样方进行调查,测定并分种记录植株的盖度、密度以及高度,然后齐地面不扰动凋落物情况下分种刈割并收集植物生物量;再在刈割后的样方内用内径35mm 土钻随机钻取土壤种子库样品，深度 $1 5 \ \mathrm { e m }$ ,重复10次,将所钻取土样混合装袋作为一个土壤种子库样品,共取土样90份，带回实验室分析。
+
+在室内，首先,将每份土样依次过孔径为 $3 \ \mathrm { m m }$ 和 $0 . 2 5 ~ \mathrm { m m } ^ { [ 2 3 ] }$ 的土壤筛去除枯落物、草根及杂物后进行浓缩,对留在 $0 . 2 5 ~ \mathrm { m m }$ 筛中的土样反复冲洗去除土壤后风干,将风干后的土样放在双筒显微镜下( $4 \times 1 0$ 倍)进行种子辨别与挑选,分类并统计。对挑选出的种子用TTC[24]法进行种子生活力测定。其次,陆续将挑拣剩余物对应筛选过的土样(90 份)分别铺在90个发芽盘内，约2一 $\cdot 3 \ \mathrm { c m }$ 厚,在密闭玻璃温室内接受阳光进行发芽实验,每天定时喷洒适量水分,使土壤保持湿润。种子萌发出苗并生长一段时间后,将其进行鉴定,统计种类与数量并将其去除。发芽盘内连续两周无种子萌发即视为试验结束,整个萌发试验持续 $6 0 \textup { d }$ 。最后将物理筛选并具有生活力的植物种子与幼苗萌发所得的同种类种子数量累加。生物量是在 $6 5 \mathrm { ^ { \circ } C }$ 条件下烘干 $2 4 \mathrm { ~ h ~ }$ ,称重后统计每种植物的生物量。
+
+# 1.2.2数据处理与分析
+
+功能群是指在群落中功能相似的所有物种的集合,植物功能群往往作为一个相对统一的整体对生态因子的波动或外界干扰做出反映[25]。结合研究区干旱草原植物的利用属性,通过访问及直接观察法[26],将物种划分为牲畜可食的草类和不食草类2个功能群类型。按披针叶黄华的分盖度将所有样方依次归类于5个植被退化梯度：I( $1 \% { - } 1 0 \%$ 、Ⅱ( $1 1 \% - 2 0 \%$ ）、Ⅲ( $2 1 \% - 3 0 \%$ ）、V $( 3 1 \% - 4 0 \%$ ）、 $\mathrm { ~ V ~ } ( > 4 0 \% )$ 。
+
+根据实测数据,计算群落内种群的优势度。计算公式[27]：
+
+优势度 $\mathbf { \Sigma } = \mathbf { \Sigma }$ （相对密度 $^ +$ 相对盖度 $^ +$ 相对高度）/3
+
+地上植被功能群的优势度值为功能群中不同物种优势度之和，土壤种子库功能群的优势度值为功能群中不同物种的密度之和,地上生物量为物种齐地面刈割植物体烘干后每平方米的质量。
+
+土壤种子库与地表植被的相似性采用 Sorensen(similarity coefficient）的相似性系数[28]计算。
+
+$$
+S C = 2 X / ( a + b )
+$$
+
+式中， $\mathbf { \alpha } _ { a }$ 为土壤种子库中的物种数; $b$ 为地表植被的物种数; $X$ 为种子库和地表植被共有的物种数。
+
+应用Excel对实验数据进行统计、整理,采用 SPSS 软件相关分析和单因素方差分析(one-way ANOVA)对土壤种子库及地上植被的特征与差异进行分析。
+
+# 2调查结果分析
+
+# 2.1样方概况
+
+本研究共涉及植被调查样方72个以及相对应的72个种子库样品（表1）。
+
+表1研究区地上植被和土壤种子库特征描述  
+Table1Description of vegetation and the soil seed bank at the study site   
+
+<html><body><table><tr><td rowspan="2">梯度 Gradient</td><td rowspan="2">平均海拔/m Above mean sea level</td><td rowspan="2">样方个数* The number of samples</td><td rowspan="2">平均盖度/% The average coverage</td><td colspan="2">优势物种 Dominant species</td><td rowspan="2">植被特征描述 Basic description</td></tr><tr><td>地上植被 Vegetation</td><td>土壤种子库 Soil seed bank</td></tr><tr><td>I</td><td>2595</td><td>14</td><td>89.0</td><td>星毛委陵菜; 阿尔泰针茅; 扁穗冰草</td><td>柴胡;麦瓶 草;草地早 熟禾</td><td>物种最为丰富,优势种明显;可食草植株 多丛生，生物量最高；不食草生长优势不 明显,生物量很小;轻微退化</td></tr><tr><td>Ⅱ</td><td>2600</td><td>21</td><td>83.1</td><td>阿尔泰针茅; 星毛委陵菜; 扁穗冰草</td><td>草地早熟禾； 火绒草;麦瓶 草</td><td>可食草的禾本科植物生长优势明显,植株 多丛生，生物量大;不食草披针叶黄华生 长优势显现</td></tr><tr><td>Ⅲ</td><td>2590</td><td>17</td><td>78.5</td><td>阿尔泰针茅; 披针叶黄华； 赖草</td><td>柴胡;麦瓶 草;草地早熟 禾</td><td>总物种数量减少，土壤轻微裸露；可食草 针茅、赖草多丛生,优势度明显,但生物量 不高;不食草优势种不明显,但大量存在</td></tr><tr><td></td><td>2585</td><td>12</td><td>72.3</td><td>阿尔泰针茅; 披针叶黄华; 阿尔泰狗 娃花</td><td>柴胡;麦瓶 草;草地早 熟禾</td><td>总物种数量明显减少，斑块化;可食草植 被生长低矮,优势度很小,生物量不高，物 种物种优势度偶然出现增大;不食草生物 量较高,披针叶黄华长势突显</td></tr><tr><td>V</td><td>2600</td><td>8</td><td>69.5</td><td>阿尔泰针茅; 披针叶黄华; 赖草</td><td>柴胡;麦瓶 草;火绒草</td><td>总物种数量最少，土壤裸露;可食草物种 优势度小,生物量最少;不食草披针叶黄 华成为绝对优势种，生物量极大,退化 严重</td></tr></table></body></html>
+
+\*根据披针叶黄华物种存现及样方生境确定的样方数
+
+总体看来,在植被梯度下,地上植被阿尔泰针茅、赖草(A.dasystachys)和扁穗冰草等禾本科可食草以及不食草的披针叶黄华和阿尔泰狗哇花(H.altaicus)优势度明显,可食草中的禾本科优势度的变化不大而不食草的优势度呈现明显的加强;土壤种子库中可食草早熟禾（P.annua）、扁穗冰草、小兰花棘豆（O.glabra）和不食草柴胡（B.falcatum）、麦瓶草（S.conoidea）、火绒草(L.leontopodioides）等种子数量较多并稳定存在。不食草披针叶黄华、火绒草和狼毒(S.chamaejasme)种子出现频次增加,其他物种的变化规律不明显。
+
+# 2.2群落功能群的关系
+
+# 2.2.1 土壤种子库与植被功能群的相似性
+
+由图1可以看出,祁连山北坡高寒干旱草原土壤种子库与植被的相似性随着植被梯度的变化而变化，土壤种子库和地上植被的不同功能群也表现出不同的特点，可食草土壤种子库和地上植被相似性在梯度上减少,并在梯度Ⅲ后相似性明显递减。不食草相似性在梯度上出现明显的递增。造成这一结果的原因是地上植被与土壤种子库共有物种存在较大差异,不食草物种在植被退化梯度上共有物种增加,可食草共有物种减少。
+
+综合统计表明,在植被梯度下,地上植被与土壤种子库群落组成的相似性程度较低(0.192—0.273）。不食草相似性的增加与毒杂草的稳定出现有关而可食草相似性的降低与物种渐趋单一和物种变动较大有关。可食草地上植被与土壤种子库的相似性系数差异不显著( $F = 0 . 2 2 9 , P = 0 . 6 4 5$ ),不食草地上植被与土壤种子库的相似性系数存在显著差异( $F { = } 6 . 7 1 3$ ， $P = 0 . 0 1 8 )$ 。另外,对比分析图中趋势线还可发现：在I—Ⅲ梯度下，可食草相似性系数高于不食草,说明草地的稳定性较强，而Ⅲ一V梯度草地的稳定性相对减弱。
+
+# 2.2.2土壤种子库与植被的功能群变化
+
+在植被梯度下，土壤种子库与地上植被的功能群物种组成差异很大，各物种在土壤种子库和植被中的优势度值变化也不尽相同。图2为土壤种子库与地上植被功能群在植被梯度下的物种存现关系。地上植被物种共调查出15种，土壤种子库检测出植物18种。总体来看，土壤种子库中可食草的物种数多于不食草（梯度V除外），地上植被中可食草的物种数亦多于不食草（梯度Ⅲ除外），土壤种子库的总物种数均不小于地上植被中可食草(A-M);A草地早熟禾;B灰绿藜;C鹤虱;D阴山扁蓿豆;E扁穗冰草;F碱韭;G小兰花棘豆;H赖草;I阿尔泰针茅;J巴天酸模;K 星毛委陵菜；L冷蒿； $\mathrm { ~ \tt ~ { ~ M ~ } ~ }$ 独行菜;不食草(N-U);N麦瓶草;O柴胡;P狼毒;Q阿尔泰狗哇花;R披针叶黄华;S 火绒草;T甘肃马先蒿;U秦苏
+
+![](images/cc4e98b7c89523aa99ec2f5668ceef7f7dba07f5200dbc21f14eb8753a07f170.jpg)  
+图1土壤种子库与地上植被功能群的相似性
+
+![](images/f18e39468d4b4c4c9ba30e663db9f4e5c20bf6134cfa372c0a3f99ef2573ee80.jpg)  
+Fig.1The similarity of plant functional groups composition of soil seed bank   
+图2土壤种子库与植被的功能群变化  
+Fig.2The change of functions in the soil seed bank and vegetation
+
+http://www.ecologica.cn
+
+地上植被中,可食草功能群优势度前5个物种阿尔泰针茅、赖草、星毛委陵菜( $P .$ aclaulis）、扁穗冰草和鹤虱（L.myosotis）,其值分别为 $3 1 . 0 8 \% , 1 1 . 3 6 \% , 8 . 9 8 \% , 6 . 9 0 \%$ 和 $3 . 6 5 \%$ ,然而仅有扁穗冰草的种子在土壤种子库中被检测到，即使可食草物种阿尔泰针茅和赖草稳定出现在每个梯度；不食草功能群优势度前5个物种披针叶黄华、麦瓶草、柴胡、阿尔泰狗娃花和狼毒,其值分别为 $1 6 . 4 8 \%$ ） $1 0 . 1 1 \%$ ） $9 . 6 5 \%$ ） $5 . 2 5 \%$ 和 $4 . 1 7 \%$ ,其种子则全在土壤种子库中检测到。
+
+存在于地上植被中而未在土壤种子库中检测到的可食草物种有阿尔泰针茅和赖草,存在于土壤种子库中但地上植被中未被发现的物种有早熟禾、灰绿藜、碱韭、酸模、独行菜和秦苏。由此可见,研究区草原土壤种子库中保存了较多的植物物种,这对维持当地的植物多样性和植被的稳定起到了一定的作用。
+
+# 2.3地上生物量与土壤种子库的关系
+
+在植被梯度下，不同功能群的地上植被生物量与土壤种子库密度变化明显(图3)：可食草物种的生物量呈递减趋势 $( y = - 0 . 1 3 4 x \mathrm { ~ + ~ } 0 . 8 4 2$ ， $R ^ { 2 } = 0 . 9 3 4 \rangle$ ，不食草物种的生物量呈递增趋势( $y = 3 0 . 4 1 7 x \ + \ 4 . 7 1 5$ ， $R ^ { 2 } = 0 . 9 9 2 { \mathrm { ~ , ~ } }$ ，两植被功能群占地上总生物量的比值在植被梯度下趋势亦相反；可食草土壤种子库密度呈一个先增大后减少的单峰波动，不食草土壤种子库密度则表现出明显的递增 $\left( y = 0 . 5 0 5 x \mathrm { ~ + ~ } 0 . 1 0 6 , R ^ { 2 } = 0 . 8 6 2 \right)$ 。
+
+相关分析表明，在植被梯度下，可食草与不食草的生物量的变化呈显著负相关 $( r = - 0 . 9 4 0 , P = 0 . 0 1 8 )$ ，它
+
+(00/ 3 □地上生物量2 □种子库密度  
+Jrr ee gr enea eas 0 自00090  
+(/ssssscs/ -2-3II III IV II III IV V可食草 不食草梯度 Gradient/功能群 Functional group
+
+们的土壤种子库密度变化则相关性不显著 $( r = - 0 . 4 7 6 , P { = } 0 . 4 1 8 )$ ;可食草生物量变化与其土壤种子库密度变化相关性不显著( $\prime = 0 . 3 1 8 , P = 0 . 6 0 2 ;$ ,不食草生物量变化与其土壤种子库密度的增加显著正相关( $r = 0 . 9 0 2$ ，$P { = } 0 . 0 3 6 \rangle$ 。
+
+在植被梯度下,土壤种子库中未检测到的可食草物种阿尔泰针茅和赖草生物量百分含量总体较低,平均百分含量分别为 $7 . 2 0 5 \%$ 和 $5 . 8 9 7 \%$ ,不食草功能群优势物种披针叶黄华和阿尔泰狗娃花生物量平均百分含量分别为 $5 2 . 7 5 5 \%$ 和 $7 . 3 2 6 \%$ ,而在土壤种子库中检测的数量百分含量却很低,分别为 $0 . 5 8 6 \%$ 和 $0 . 4 3 5 \%$ 。另据分析可知,可食草地上植被生物量与土壤种子库种子数量差异不显著( $F = 0 . 2 7 2 , P = 0 . 6 1 6 ,$ ),不食草地上植被生物量与土壤种子库不可食草种子数量差异亦不显著( $\therefore F = 2 . 2 6 9 , P = 0 . 1 7 0 )$ 。
+
+# 3讨论与结论
+
+物种组成被认为是生态系统稳定性、生产力、营养动态等功能的重要决定因子[29]。一些研究认为土壤种子库基本上反映了地表植被的组成[30-31],而更多的研究则发现土壤种子库和地表植被的物种组成差异很大[32]。研究区高寒干旱草原植物群落功能群物种在植被梯度下变化明显,地上植被和土壤种子库的功能群物种组成表现出明显的差异,可食草的物种数量减少,而土壤种子库的缓冲作用使其中的物种和地表植被的物种具有相对较高的相似性,但随着植被梯度的增加,植被中的可食草物种趋于单一化,土壤种子库种子数量明显减少,加之不食草在植被和土壤种子库中的稳定存在,导致土壤种子库与地表植被的相似性降低。祁连山高寒干旱草原土壤种子库和地表植被间的物种相似性与区域环境及其所受干扰和胁迫程度有直接的关系。土壤种子库与地上植被相似性较低的另一个原因是一些植物仅存在于地上植被中（可食草阿尔泰针茅和赖草等）,而土壤种子库中不存在或很少存在该物种的种子。
+
+植物群落优势种群的更替是天然草地退化的一种主要表现形式，能够指示自然环境中的某些组成成分的变化[33]。当一种功能群的物种数量或生产力下降时,会为其它功能群物种提供更大的空间,使之占据更多的资源,随之出现优势度增加的趋势。研究区放牧过程中,牲畜啃食、践踏等行为抑制了优势种阿尔泰针茅和赖草等可食草的繁衍和竞争优势,这为毒杂草物种的人侵提供了机会。在一定的干扰强度下,部分优良禾本科牧草依靠营养繁殖形成聚集的群体,生物量有所增加,这补偿了地上植被可食草消失物种减少的量,但不食草较强的生境适应性促使其占有更多的生长资源,这又会显著增加其相对生物量,因而草原植被生长状况良好，地表并未严重裸露。在超载放牧和气候变化影响下,尽管毒杂草群落物种处于不断的波动之中,但某些关键（功能群)物种对于整个生态系统的维持具有决定作用[34]。阿尔泰针茅、冰草和草地早熟禾等可食草对环境的适应性生长是目前维系研究区草地利用的物质基础,但它们种子库的存量并不乐观。在植被梯度下,以披针叶黄华为代表的不食草优势度和生物量的递增,以及可食草优势度的降低和生物量的变化,特别是禾本科物种阿尔泰针茅和赖草种子库中种子的缺失,表明草原优良牧草竞争、更新能力受到干扰,植物群落结构上产生了较大变化,草原不食草功能群更加适应当前草原环境。
+
+本研究对披针叶黄华群落从植物功能群角度进行研究得出功能群生物量与种子数量出现明显的相关性，但具体到功能群中特定的种群它并没有一致性关系,如不食草优势种披针叶黄华和阿尔泰狗娃花生物量很大,而在土壤种子库中检测的种子数量百分含量却很低。这与仲延凯等[35]对种群的生物量与种子数量的研究结果相一致。
+
+土壤种子库是植被潜在更新的物质基础,在植被自然恢复过程中起着重要的作用。Bakker等[36]研究表明，虽然地上植被 $7 6 \%$ 的物种在土壤种子库中没有出现,土壤种子库对植被恢复仍具有重要意义,但不能作为植被恢复的主要措施;Kalamees 等[37]、Roovers 等[38]和 Blomqvist 等[39]则认为,在退化草地上利用土壤种子库进行植被恢复的可能性极小。在进行植被恢复时,土壤种子库与地上植被相似性较高且退化程度较低的草地,可以优先考虑利用土壤种子库中的潜在资源进行植被恢复,而相似性较低且退化程度较高的草地,则需加以必要的人工辅助措施,才能达到较好的恢复效果。补播是植被恢复的主要措施之一,许多试验都证实补播目标物种尤其是本地物种容易成功,可以恢复草地植被,缩短草地生态系统自然恢复进程[40]。研究区因草原利用方式及多种自然因素的影响,草地植物群落可食草物种生产力降低,规模退缩,特别是原生禾草物种（如阿尔泰针茅)的衰退以及不食草物种规模扩大,生产力增强,使草原出现了以披针叶黄华为代表的不食草逐步取代阿尔泰针茅等优良牧草的现象,形成了草原毒杂草斑块景观。
+
+# 参考文献（References）:
+
+［1］付华，王彦荣，吴彩霞，塔拉腾.放牧对阿拉善荒漠草地土壤性状的影响.中国沙漠，2002，22（4）：339-343.  
+[2］张自和.无声的危机——荒漠化与草原退化.草业科学，2000，17(2)：10-12.  
+［3］内蒙古农牧学院.草原管理学.北京：农业出版社，1981：237-257  
+[4］张起鹏，赵成章，王倩，王媛,王海鹏.高寒干旱退化草地披针叶黄华群落土壤种子库.干旱区地理,2015,38（2)：305-311.  
+[5]TompsoKrJsoalisfbacesseorastigiatsaofol7）：893-921.  
+[6]Harper JL.Population Biology of Plants. London：Academic Press，1977:256-263.  
+[7] 柳妍妍，胡玉昆，王鑫，公延明，李凯辉.轮叶马先蒿群落土壤种子库特征研究．自然资源学报，2011,26(1）：48-57.  
+[8］沈有信，刘文耀.长久性紫茎泽兰土壤种子库.植物生态学报，2004，28(6):768-772.9] 沈有信，赵春燕.持久性土壤种子库种子萌发的个体竞争能力会衰减吗？——以紫茎泽兰为例.植物生态学报，2012，36(8)：754-762.  
+[10]TedderMJ,KirkanK,oisCD,rolopec WSWBoogoMC.eifuenceofPeuel-Loeschealeubitziae（wilde）osward and soil seed bank composition.African Journal of Range &Forage Science,2O12,29(3）：101-107.  
+[11] 杜晶，赵成章，宋清华，史元春.基于地统计学的退化草地狼毒种群土壤种子库空间异质性.生态学杂志，2015,34(1)：94-99.  
+[12］尚占环，龙瑞军，马玉寿，丁路明.青藏高原“黑土滩"次生毒杂草群落成体植株与幼苗空间异质性及相似性分析.植物生态学报，2008，32(5): 1157-1165.  
+[13］赵成章，张起鹏.祁连山退化草地狼毒群落土壤种子库的空间格局.中国草地学报，2010,32(1)：79-85.  
+[14]Keltalotsfgodedesialtsaaetubaco(2):191-195.  
+[15]HagerHuert,QuDJsapMisctssarfosustsddesitfvgeatiodheoilseed bank.Biological Invasions，2015，17(6)：1833-1847.  
+[6]SantsthAicSalofiertrCanadian Journal of Plant Science，2000,80(2）：455-457.  
+[17]JarvisJooeKevotalfcsoValeaata8）：4.  
+[18］党伟光，高贤明，王瑾芳,李爱芳.紫茎泽兰入侵地区土壤种子库特征.生物多样性，2008，16(2)：126-132.  
+[19]ZhuL,SunOangG,LiZ,aKPrdtghsatialistrtiasiplspes（EuptodeoaLandscape Ecology，2007,22（8）：1143-1154.  
+20]Gioriayekacofatsis:asiheoldkofvaddlantouiiS,  
+[21］闫巧玲，刘志民，李荣平.持久土壤种子库研究综述.生态学杂志，2005，24（8)：948-952.  
+[22] 李国旗，李淑君，蒙静，武东波.土壤种子库研究方法评述.生态环境学报，2013，22（10)：1721-1726.  
+[23] 尚占环，龙瑞军，马玉寿，张黎敏，施建军，丁玲玲.黄河源区退化高寒草地土壤种子库：种子萌发的数量和动态.应用与环境生物学报，2006，12(3)：313-317.  
+[24］傅家瑞.种子生理.北京：科学出版社，1985：66-76.  
+[25] 王正文，邢福，祝廷成，李宪长.松嫩平原羊草草地植物功能群组成及多样性特征对水淹干扰的响应.植物生态学报，2002，26(6)：708-716.  
+[26] 杨泽新，蔡维湘.灌丛草地放牧山羊的牧草适口性与嗜食性及山羊采食率研究.草业科学，1995，12（2)：20-21，24-24.  
+[27] 林丽.石羊河上游退化草地植物功能群特征分析[D].兰州：甘肃农业大学，2007.  
+[28]GuoQF，undelPWGodallDWStructureofdesertseebankscoparisonsacrofourNorthAericandesertsites.JoualofAridEnvironments，1999,42(1)：1-14.  
+[29]BengtsoJicsatidfeitcofuctieprbesisfelatiseeiecosystem function.Applied Soil Ecology，1998,10(3）：191-199.  
+[30]YuanLY,iuGH,W,LiEeednratioloatereptadentiubropicallkeshorearshga,ina.Plant Ecology，2007,189（1）：127-137.  
+[31]VanderValkAG,DavisCBefsnksinhevgeatidaisfrieglacialmasholog978,9（)35.  
+[32]SmithLM,KadlecJA.SeedbanksandtheirroleduringdrawdownofaNrthAmericanmarshJoualofApliedEcolog，983,20（2):673-684.  
+[33］刘成林，樊任华，武建军，闫峰.锡林郭勒草原植被生长对降水响应的滞后性研究.干旱区地理，2009，32（4)：512-518.  
+[34] Walker B.Conserving biological diversity through stemresilience.Conservation Biology，1995，9(4）：747-752.  
+[35］仲延凯，包青海，孙维，张海燕.割草干扰对典型草原土壤种子库种子数量与组成的影响.V群落生物量的组成与种子数量组成的比较.内蒙古大学学报：自然科学版，2001，32（5）：551-556.  
+[36]BakerC,DGrafHEtWOethoutetoetoatiofesgetueslacks?. Applied Vegetation Science，2005，8（1): 39-48.  
+[37]KlaobelosioetesaofseoieautoActa Oecologica，1998,19(2）：175-180.  
+38]RooversossytBdtB,HyadsotrutetegeatiostoratiooatsimpateciduorestatEcology，2006,187(1) : 25-38.  
+[39]BlomistkerRVosestoraiooichnkptspeisessheotetilofeoldkApldVionScience,2003,6(2) : 179-188.  
+[40]LeFloHE，fatiMebMFretC,taerRabilatoexpeintatMeHabb,outTAridSaRehabilitation，1999，13（4）：357-368.

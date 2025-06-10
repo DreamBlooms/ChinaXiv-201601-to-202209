@@ -1,0 +1,188 @@
+# DOI:10.5846/stxb201510232140
+
+张艺,王春梅,许可,杨欣桐.模拟氮沉降对温带森林土壤酶活性的影响.生态学报,2017,37(6)：1956-1965.  
+ZhangY,Wgugosctitc37(6) :1956-1965.
+
+# 模拟氮沉降对温带森林土壤酶活性的影响
+
+张艺，王春梅\*，许 可,杨欣桐北京林业大学环境科学与工程学院，北京100083
+
+摘要：森林土壤酶作为土壤中最活跃组分,能影响生态系统的物质循环过程,其活性能快速反映氮沉降对土壤环境的变化。以北京地带性植被辽东栎林为研究对象,利用模拟氮沉降方法,原位设计低氮( $5 0 \ \mathrm { k g \ N \ h m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ ,N50）、高氮( $1 5 0 \ \mathrm { k g \ N \ h m } ^ { - 2 } \ \mathrm { a } ^ { - 1 }$ ，N150)两个施氮水平,每个施氮水平设置 $\mathrm { \backslash a N O } _ { 3 \mathrm { ~ } \setminus } \left( \mathrm { N H } _ { 4 } \right) _ { 2 } \mathrm { S O } _ { 4 \mathrm { ~ } \setminus } \mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 } \mathrm { ~ } 3$ 个不同的施氮类型,另设置空白对照( $\mathrm { ~ ( ~ 0 ~ k g ~ N ~ h m ^ { - 2 } ~ a ^ { - 1 } ~ }$ ，NO)。从时间格局上研究不同氮素化学形态和剂量对温带森林土壤6种酶(脲酶、酸性磷酸酶、碱性磷酸酶、 $\beta$ -葡萄糖苷酶、多酚氧化酶和过氧化氢酶)活性的影响。结果表明;在氮形态和水平的交互作用下， $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 }$ -N 处理的脲酶活性显著高出 $\mathrm { N O } _ { 3 } ^ { - }$ -N处理的 $2 4 . 2 0 \%$ (N50）， $\mathrm { N H } _ { 4 } ^ { + }$ -N 处理对酸性磷酸酶活性的影响显著高出 $\mathrm { N O } _ { 3 } ^ { - }$ -N处理的 $1 3 . 8 2 \%$ （N150）；在 $\mathrm { N H } _ { 4 } ^ { + }$ -N和 $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 }$ -N处理中，N50水平下的脲酶活性分别高出NO处理的 $3 8 . 9 0 \%$ 和 $2 4 . 2 0 \%$ ，差异显著。对无氮形态和水平交互作用的酶活性分析得出,不同的施氮水平,对碱性磷酸酶和多酚氧化酶的酶活性有显著促进作用,碱性磷酸酶活性在N50和N150处理下分别比NO高 $2 0 . 2 \%$ 和 $1 1 . 5 \%$ ,N50 和 N150 处理对多酚氧化酶活性的促进作用分别比N0处理高 $6 4 . 3 \%$ 和 $4 1 . 8 \%$ ,差异显著( $P { < } 0 . 0 5 )$ ;$\mathrm { N H } _ { 4 } ^ { + }$ -N处理对 $\beta$ -葡萄糖苷酶活性具有显著促进作用( $P { < } 0 . 0 5 )$ ，不同的施氮形态,对碱性磷酸酶、多酚氧化酶和过氧化氢酶的酶活性无显著影响。6种酶活性均呈现了显著的时间变化,氮添加对森林土壤酶活性的时间分异规律没有显著影响。此外,土壤微生物量碳、硝态氮和铵态氮含量与酶活性具有显著相关性( $\scriptstyle P < 0 . 0 5 .$ )。以上结果表明,氮添加通过改变森林土壤的环境因子，影响了土壤中的水解酶和氧化酶活性,进而改变了土壤有机碳库和养分循环。
+
+关键词：氮添加；酶活性；温带森林土壤;辽东栎
+
+# Effect of simulated nitrogen deposition on soil enzyme activities in a temperate forest
+
+ZHANG Yi，WANG Chunmei\*，XU Ke，YANG Xintong College ofEnvironmental Science&Enginering，BeijingForestry University,Beijing1Ooo83,China
+
+Abstract：Asoneofthemostactivecomponentsofforest soil，soilenzymescontribute totheprocessesofsoilorganic mater decompositionandsynthesisandinfluence allthebiochemicalreactionsofsoil,directlyor indirectly.Humanactivities have dramaticallyincreasedthequantityofnitrogenfixedinterrestrialecosystems，due tofosilfuelcombustion，productionand useof chemical fertilizers，and live stock ranching.Nitrogen（N）addition mayrapidlyinfluence soil carbonandnitrogen turnoverduring literand soil organic matter（SOM）decomposition processesbychanging thesoil enzymeactivities. Specifically，we hypothesized thataddng NtoN-limited ecosystems would increase theactivityof hydrolyticenzymesand decrease hatofoxidase.In the presentstudy，weexplored theefectsof diferent formsand levelsof nitrogenaditionon extracellular enzymeactivities in a temperate forest soil with dominant Quercus liaotungensis（light loam，meananual temperature $1 1 . 7 ~ \mathrm { ^ q C }$ ），in the Xi Mountain Forestry Station，China. Nitrogen loading was designed using three N forms （ $\mathrm { N O } _ { 3 } ^ { - }$ -N， $\mathrm { N H } _ { 4 } ^ { + }$ -N，and $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 }$ ），each containing a low-N( $5 0 \ \mathrm { k g \ N \ h m ^ { - 2 } \ a ^ { - 1 } }$ ，N50）and high-N（ $1 5 0 \ \mathrm { k g \ N \ h m ^ { - 2 } \ a ^ { - 1 } }$ ，
+
+N150）treatment plot；a treatment plot of $0 \ \mathrm { k g \ N \ h m ^ { - 2 } \ a ^ { - 1 } ( \ N } 0 )$ served as a control.Each treatment comprised three replicate plots of $1 0 \mathrm { ~ m ~ } \times \mathrm { ~ 1 0 ~ m ~ }$ on the forest floor，with each plot having similar vegetation and biological soil crust cover. Soil urease，acid phosphatase，alkaline phosphatase， $\beta$ -glycosidase，polyphenol oxidase，and catalase activities were analyzed to investigate the impacts of $\mathrm { \Delta N }$ forms and levels on soil enzyme activities from the temporal pattern.The results showed a significant increase of $\mathrm { N H _ { 4 } N O _ { 3 } }$ -N treatment in soil urease activity（ $+ 2 4 . 2 0 \%$ upper $\mathrm { N O } _ { 3 } ^ { - }$ -N，N50），and $\mathrm { N H } _ { 4 } ^ { + }$ -N treatment in acid phosphatase activity ( $+ 1 3 . 8 2 \%$ upper $\mathrm { N O } _ { 3 } ^ { - }$ -N，N15O），and a considerable increase of N5O level in soil urease activity ( $+ 3 8 . 9 0 \%$ and $+ 2 4 . 2 0 \%$ upper $\mathrm { N H } _ { 4 } ^ { + }$ -N and $\mathrm { N H _ { 4 } N O _ { 3 } }$ in $_ { \mathrm { N 0 } }$ ，respectively）（ $P { < } 0 . 0 5 )$ .However，N forms and levels did not affect the activities of alkaline phosphatase, $\beta$ -glycosidase， polyphenol oxidase，and catalase. Increasing N（N50 and N15O）resulted in higher alkaline phosphatase activity ( $+ 2 0 . 2 \%$ and $+ 1 1 . 5 \%$ upper NO，respectively）and polyphenol oxidase activity （ $+ 6 4 . 3 \%$ and $+ 4 1 . 8 \%$ upper NO,respectively）；and，with the increase in N addition，both the alkaline phosphataseand polyphenol oxidaseactivities increasedatN5Oaddition，anddecreasedat N150.Weobserveda significant increase in $\beta$ -glycosidase activity（ $( P { < } 0 . 0 5 )$ ）with the different forms of Naddition ( $\mathrm { \Delta N H _ { 4 } ^ { + } { - N > N H } _ { 4 } N O _ { 3 } { - N > N O _ { 3 } ^ { - } } }$ N），whereas Nforms hadno efect on alkaline phosphatase，polyphenol oxidase，andcatalaseactivities.Furthermore，the highestactivities of soil enzymesincluding urease，acid phosphatase，alkalinephosphatase，and polyphenol oxidase occurred in summer，but the highest $\beta$ -glycosidase activity and the lowest catalase activity were found in the winter and autumn，respectively.However，Nadditionmade littlediferenceon temporal variation.Significantcorelationsof soil enzyme activities with soil microbial biomass carbon, $\mathrm { N H } _ { 4 } ^ { + }$ -N，and $\mathrm { N O } _ { 3 } ^ { - }$ -N were established ( $\textstyle P < 0 . 0 5 ~ ,$ .These results suggested thatNdepositioncouldafect thesoilcarbonandnutrientflowbyinfluencing environmentalfactorsand microbial enzymatic activities in temperate forest ecosystems.
+
+Key Words: nitrogen deposition； soil enzymes activities；temperate forest soil； Quercus liaotungensis
+
+近年,化石燃料的燃烧和氮肥的使用,使大气氮沉降量明显增加[1-2],我国在2010年的陆地氮沉降量平均达 $2 1 . 1 \mathrm { \ k g \ N \ h m } ^ { - 2 } \mathrm { \ a } ^ { - 1 }$ ,已成为亚洲第一大氮沉降区[3-4]。大量氮输入会改变土壤生态系统中微生物的结构与功能,影响有机质的矿化和腐殖质形成,从而影响了生态系统碳氮循环[1]。
+
+森林是陆地生态系统最重要的组成部分,森林土壤酶参与土壤中的一切生物化学过程[5-6],土壤酶活性能够快速反映土壤环境的变化[7]。其中,水解酶(脲酶、酸性磷酸酶、碱性磷酸酶和 $\beta$ -葡萄糖苷酶)和氧化酶(多酚氧化酶和过氧化氢酶)分别与土壤有机物质的分解过程和腐殖化过程紧密相关[6。氮沉降通过促进$\mathrm { N H } _ { 4 } ^ { + }$ -N硝化和 $N \mathrm { O } _ { 3 } ^ { - } { - } \mathrm { N }$ 淋失[8],改变生物区系和土壤理化性质[9],改变了土壤微生物的群落结构、功能和微生物对底物利用模式[10-14],进而影响了微生物对有机质和凋落物分解[15],改变了土壤碳储存和养分循环[16]。已有研究发现,氮沉降促进了土壤脲酶[15,17]、酸性磷酸酶[18]、碱性磷酸酶和 $\beta$ -葡萄糖苷酶活性[7],抑制了过氧化氢酶活性[19]。氮添加对土壤或凋落物中水解酶和氧化酶活性的影响并不一致,可能与养分有效性[20]、凋落物中木质素组成[2I1]、土壤 $\mathrm { C } / \mathrm { N } ^ { [ 2 2 ] }$ 及土壤微生物量[7]有关。但是,此类研究并没有很好的区分氮素形态对土壤酶活性的影响,也没有在时间尺度上对土壤酶活性进行持续的研究。为此,研究开展了原位模拟温带森林氮沉降实验,探讨不同形态、不同水平氮沉降对温带森林土壤酶活性的影响,从时间格局上分析6种酶活性的变化。同时,提出如下假设：不同形态和水平的氮添加会明显促进氮限制森林土壤中水解酶的活性,抑制氧化酶的表达,从而对森林土壤碳库和养分循环产生影响。
+
+# 1材料与方法
+
+# 1.1试验地概况与样地设置
+
+氮添加模拟试验设于北京市海淀区西山林场( $1 1 0 ^ { \circ } 6 8 ^ { \prime } 3 4 ^ { \prime \prime } \mathrm { E } , 3 1 ^ { \circ } 5 4 ^ { \prime } 5 2 ^ { \prime \prime } \mathrm { N } \rangle$ ，属于北京林业大学的实验基地。地属温带半湿润大陆型季风气候,年平均气温 $1 1 . 7 ~ \mathrm { \textdegree C }$ ,最低气温 $- 1 5 . 4 ~ \mathrm { ^ { \circ } C }$ ,最高气温 $4 1 . 5 ~ \mathrm { ^ q C }$ ;年平均降水量为 $6 3 8 . 8 ~ \mathrm { m m }$ 。平均海拔为 $1 3 3 \mathrm { ~ m ~ }$ ,属轻壤褐土,辽东栎(Quercus liaotungensis)作为优势树种,树龄为62a,平
+
+均胸径为 $9 . 6 ~ \mathrm { c m }$ ,平均株高为 $8 . 3 \mathrm { ~ m ~ }$ 。
+
+# 1.2模拟氮添加试验方法
+
+本研究共设置3种处理和两个水平。3种不同形态的氮添加处理为铵态氮 $( \mathrm { ~ ( ~ N H _ { 4 } ~ ) _ { 2 } S O _ { 4 } }$ ）、硝态氮（ $\mathrm { N a N O } _ { 3 }$ )和混合态氮( $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 } .$ );两种不同的施氮水平为低氮 $\left( 5 0 \mathrm { ~ k g ~ N ~ h m } ^ { - 2 } \mathrm { ~ a ~ } ^ { - 1 } \right.$ ,N50)和高氮( $1 5 0 \ \mathrm { k g } \ \mathrm { N } \ \mathrm { h m } ^ { - 2 }$ （204号$\mathbf { a } ^ { - 1 }$ ,N150），同时设置空白对照( $\mathrm { 0 \ k g \ N \ h m ^ { - 2 } \ a ^ { - 1 } , N }$ NO）。每个样方为 $1 0 \mathrm { ~ m ~ } \times 1 0 \mathrm { ~ m ~ }$ ,样方之间留有 $1 . 5 \mathrm { ~ m ~ }$ 宽的缓冲带以防样方间相互干扰,每个样方设置3个重复,采用随机区组设计设置氮添加试验。施氮时间为 2011至2012年的3—10月。每月中旬开始向样地中喷洒氮肥。将对应剂量的氮素用等量的水溶于喷壶中,向各个样方中均匀喷施,同时向对照样地中喷施同等剂量的清水,以减少外加水分因子对试验造成的影响。
+
+# 1.3土壤样品采集、处理与测定
+
+在模拟施氮2年后，采用多点(5一8点)梅花型采样法随机采集各样方表层 $( 0 { - } 1 0 ~ \mathrm { c m } ^ { \cdot } ,$ )混合土壤样品，连续采样 $2 \mathrm { a }$ 。每次采集完土壤样品后，仔细剔除大于 $2 ~ \mathrm { m m }$ 的石块及动植物残体,过 $2 ~ \mathrm { m m }$ 土壤筛。充分混匀后，置于 $4 \mathrm { { ^ \circ C } }$ 冰箱中保存,迅速完成土壤酶活性测定。剩余土壤风干后常规方法测定其土壤理化性质。
+
+6种酶活性的测定方法如下：采用苯酚-次氯酸钠比色的方法测定脲酶;采用标准硫代硫酸钠滴定法测定$\beta$ -葡萄糖苷酶;采用磷酸苯二钠比色法测定酸性磷酸酶（用 $\mathrm { p H } = 5 . 0$ 的乙酸盐缓冲液）、碱性磷酸酶（用 $\mathrm { \ p H = }$ 7.0 的乙酸盐缓冲液);采用碘量滴定法测定多酚氧化酶;采用高锰酸钾滴定法测定过氧化氢酶[6.23]。
+
+# 1.4 数据分析
+
+主要采用Origin9.1和 SPSS 19.0 进行实验数据的统计和分析。对不同施氮形态和施氮水平的交互作用进行两因素重复测量方差分析(repeated measures ANOVA）,没有交互作用的各施氮处理酶活性进行单因素方差分析,显著水平为 $P { < } 0 . 0 5$ ,用LSD多重检验法检验不同处理间的差异显著性。酶活性与环境因子之间采用Pearson 相关分析。
+
+# 2实验结果分析
+
+# 2.1 氮添加对土壤理化性质的影响
+
+增氮处理下，土壤理化性质的变化如表1。不同水平和形态的氮添加对土壤微生物量氮和硝态氮含量有显著促进作用( $P { < } 0 . 0 5 )$ 。低氮(N50)和高氮(N150)处理下，微生物量氮含量分别比对照高 $1 3 1 . 5 \%$ 和 $8 1 . 3 \%$ ，硝态氮含量则分别高出对照 $5 3 . 0 \%$ 和 $9 9 . 9 \%$ ,差异显著。对于不同形态的氮添加,除混合态氮处理( $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 }$ N)下的铵态氮含量与硝态氮( $N \mathrm { O } _ { 3 } ^ { - } { - } \mathrm { N }$ )和铵态氮处理( $\mathrm { N H _ { 4 } ^ { + } { - } N }$ )有显著差异外,土壤全氮、有机碳和微生物量碳含量对施氮形态没有显著影响( $P { > } 0 . 0 5 \$ )，但整体上呈现上升的趋势。此外，施氮使土壤 $\mathrm { \ p H }$ 有所降低，但差异并不显著。
+
+表1不同氮处理下土壤基本理化性质  
+Table 1Physical chemical properties of soil in different N forms and N levels（mean $\pm \ : \mathrm { S D }$ ， $n = 3$ ）   
+
+<html><body><table><tr><td colspan="2">处理 Treatment</td><td>pH (H0)</td><td>全氮 Total N/ （g/kg)</td><td>硝态氮 NO3 -N/ (mg/kg)</td><td>铵态氮 NH4 -N/ (mg/kg)</td><td>有机碳 Organic C/ （g/kg)</td><td>微生物量碳 SMBC/ (mg/kg)</td><td>微生物量氮 SMBN/ (mg/kg)</td></tr><tr><td>NO</td><td>1</td><td>6.83±0.33 a</td><td>2.42±0.12 a</td><td>20.36±1.02 a</td><td>8.65±0.43 a</td><td>17.36±0.88 a</td><td>611.23±28.02 a</td><td>28.09±1.20 a</td></tr><tr><td>N50</td><td>NO3-N</td><td>6.70±0.32 a</td><td>2.53±0.11 a</td><td>32.17±1.60 b</td><td>7.44±0.37 a</td><td>18.29±0.91 a</td><td>564.14±28.34 a</td><td>74.78±3.74 c</td></tr><tr><td></td><td>NH4 -N</td><td>6.72±0.33 a</td><td>2.51±0.04 a</td><td>20.12±1.01 a</td><td>8.78±0.44 a</td><td>16.85±0.84 a</td><td>625.12±28.93 a</td><td>39.60±3.09 b</td></tr><tr><td></td><td>NH4NO3-N</td><td>6.61±0.30 a</td><td>2.56±0.12 a</td><td>41.18±2.05 b</td><td>11.74±0.59 b</td><td>16.03±0.79 a</td><td>534.34±30.45 a</td><td>80.70±1.98 c</td></tr><tr><td>N150</td><td>NO3-N</td><td>6.55±0.31 a</td><td>2.54±0.03 a</td><td>44.85±2.24 b</td><td>7.83±0.39 a</td><td>18.25±0.90 a</td><td>595.02±0.30 a</td><td>61.88±1.60 b</td></tr><tr><td></td><td>NH4 -N</td><td>6.54±0.32 a</td><td>2.55±0.13 a</td><td>29.42±1.47 a</td><td>10.20±0.51 a</td><td>17.93±0.89 a</td><td>609.01±23.35 a</td><td>32.07±4.04 a</td></tr><tr><td></td><td>NH4NO3-N</td><td>6.51±0.32 a</td><td>2.58±0.09 a</td><td>47.80±2.38 b</td><td>12.84±0.64 b</td><td>18.30±0.91 a</td><td>551.35±19.45 a</td><td>58.86±2.94 b</td></tr></table></body></html>
+
+同一列中不同字母表示处理间差异显著( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ,NO:0 kg Nhm-² a-1;N50:50 kg Nhm-² a-1;N150:150 kg Nhm−² a-1
+
+http://www.ecologica.cn
+
+# 2.2氮添加对土壤酶活性的影响
+
+# 2.2.1不同氮素水平和形态的交互作用对土壤酶活性的影响
+
+不同施氮水平和形态的交互作用对土壤脲酶和酸性磷酸酶活性的影响差异显著(表2)。其中,在低氮水平下， $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 } – \mathrm { N }$ 处理的脲酶活性显著高出 $\mathrm { N O } _ { 3 } ^ { - }$ -N 处理的 $2 4 . 2 0 \%$ （ $P { = } 0 . 0 4 8$ ,图1），氮形态对脲酶的促进作用为 $\mathrm { N H _ { 4 } N O _ { 3 } - N > N H _ { 4 } ^ { + } - N > N O _ { 3 } ^ { - } - N } ;$ 高氮水平下， $\mathrm { N H } _ { 4 } ^ { + }$ -N 处理对酸性磷酸酶活性的影响显著高出 $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 } – \mathrm { N }$ 处理的$1 3 . 8 2 \%$ （ $P = 0 . 0 4 3$ ,图2)，与 $\mathrm { N O } _ { 3 } ^ { - }$ -N 处理的差异并不显著,施氮形态对酸性磷酸酶的促进作用强弱依次为$\mathrm { N H _ { 4 } ^ { + } { - N } { > N O } _ { 3 } ^ { - } { - N } { > N H } _ { 4 } N O _ { 3 } { - N _ { c } } }$ 。在 $\mathrm { N O } _ { 3 } ^ { - }$ -N 处理下,脲酶和酸性磷酸酶活性对施氮剂量不存在显著差异;在 $\mathrm { N H } _ { 4 } ^ { + }$ -N处理中，低氮处理下的脲酶活性比对照高 $3 8 . 8 9 \%$ （ $P { = } 0 . 0 0 8$ ，图1)，且低氮 $>$ 高氮 $>$ 对照，不同的施氮水平对酸性磷酸酶活性没产生显著影响;对于 $\mathrm { N H _ { 4 } N O _ { 3 } }$ -N 处理,低氮处理的脲酶活性显著高出对照 $2 4 . 2 0 \%$ （ $P { = } 0 . 0 0 8$ ，图1）,与高氮处理不存在显著差异。另外,土壤碱性磷酸酶、多酚氧化酶、 $_ { \textrm { \tiny B } }$ -葡萄糖苷酶和过氧化氢酶活性在不同施氮形态和水平的交互作用下差异不显著,通过合并氮形态或水平后进行单因素分析。
+
+表2不同形态和水平氮添加下土壤酶活性的重复测量方差分析  
+Table 2Results from repeated measures ANOVA of enzymes activitie   
+
+<html><body><table><tr><td rowspan="2">Tre理ent</td><td colspan="2">脲酶 (mg NH-N/g)</td><td colspan="2">酸性磷酸酶</td><td colspan="2">碱性磷酸酶 (</td><td colspan="2">多酚氧化酶 Polypheno2 gisase/</td><td colspan="2">β-葡萄糖苷酶 g ac/g/</td><td colspan="2">过氧化氢酶 (mL KMn0/g)</td></tr><tr><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td><td>F</td><td>P</td></tr><tr><td>水平Levels a 10.896 **</td><td></td><td>0.000</td><td>24.931**</td><td>0.000</td><td>46.446 **</td><td>0.000</td><td>45.308 **</td><td>0.000</td><td>2.950</td><td>0.055</td><td>2.770</td><td>0.062</td></tr><tr><td>形态Forms b</td><td>0.580</td><td>0.631</td><td>3.315</td><td>0.110</td><td>0.324</td><td>0.808</td><td>0.005</td><td>0.995</td><td>2.064 *</td><td>0.049</td><td>1.067</td><td>0.373</td></tr><tr><td>axb</td><td>3.780 **</td><td>0.006</td><td>3.371 *</td><td>0.011</td><td>1.529</td><td>0.197</td><td>2.275</td><td>0.582</td><td>2.315</td><td>0.079</td><td>1.370</td><td>0.247</td></tr></table></body></html>
+
+$\scriptstyle n = 9 ; { \mathrm { a } }$ ：不同施氮水平；b：不同施氮形态； $* * P { \ < } 0 . 0 1$ ,表示差异极显著； $\ast { \ : } P { < } 0 . 0 5$ ，表示差异显著； $\textstyle P > 0 . 0 5$ 表示差异不显著
+
+![](images/3c1f7f6a7ee34e83f3799b0499bd125c9e0cbf9e283186eb9c88f1fdc5393605.jpg)  
+图1不同氮添加下土壤脲酶活性动态变化  
+Fig.1 EffectsofdifferentNformsandN levels on soil ureaseactivities
+
+# 2.2.2不同水平氮添加对土壤酶活性的影响
+
+将同一施氮水平的不同形态处理取平均值作为不同施氮水平的观测值。通过单因素分析,不同的施氮水
+
+![](images/b79223054f4b2f75a69983ebb8b9d82649f7009144ae3e7be99f9471e5bd6b05.jpg)  
+图2不同氮添加下土壤酸性磷酸酶活性动态变化
+
+Fig.2 Effects of different N forms and N levels on soil acid phosphatase activities平,显著促进了碱性磷酸酶和多酚氧化酶活性( $P { < } 0 . 0 5 )$ （表2），且低氮处理的促进作用显著高于高氮处理（ $_ { _ { P < 0 . 0 5 ) } }$ 。碱性磷酸酶活性在低氮和高氮处理中分别比对照高 $2 0 . 2 \%$ 和 $1 1 . 5 \%$ （图3)；低氮和高氮处理下的多酚氧化酶活性分别高出对照 $6 4 . 3 \%$ 和 $4 1 . 8 \%$ （图 $4 , P { < } 0 . 0 5 \$ )。不同施氮水平对土壤 $\beta$ -葡萄糖苷酶和过氧化氢酶活性没有产生显著影响( $P { > } 0 . 0 5 \ '$ 。
+
+![](images/9f22573dbd8b425f54d4af5adaf56b31939b3a2d2b5893639eb48bdfcf423655.jpg)  
+图3不同氮添加下土壤碱性磷酸酶活性动态变化  
+Fig.3 Effects of different N forms and N levels on soil alkaline phosphatase activities
+
+![](images/d364ede81e2aa69559fed90b8ff35f73d0f60c6b810e7ff341997445454cfecf.jpg)  
+图4不同氮添加下土壤多酚氧化酶活性动态变化  
+Fig.4Effects of different N forms and N levels on soil polyphenol oxidase activities
+
+# 2.2.3 不同形态氮添加对土壤酶活性的影响
+
+将同一施氮形态下的不同水平取平均值作为不同施氮形态的观测值。经过方差分析,不同的施氮形态对$\beta$ -葡萄糖苷酶活性有显著促进作用( $P { < } 0 . 0 5$ ,表2）,其活性在 $\mathrm { N H } _ { 4 } ^ { + }$ -N和 $\mathrm { N H _ { 4 } N O _ { 3 } { \cdot } N }$ 处理下分别比 $N \mathrm { O } _ { 3 } ^ { - } { \mathrm { - N } }$ 高$5 7 . 8 \%$ 和 $4 9 . 1 \%$ （图5）。不同形态的氮添加对土壤碱性磷酸酶、多酚氧化酶和过氧化氢酶活性均无显著性影响 $( P { > } 0 . 0 5 )$ 。
+
+# 2.2.4氮添加对森林土壤酶活性时间分异规律的影响
+
+总体来看,森林土壤脲酶、酸性磷酸酶、碱性磷酸酶和多酚氧化酶活性均呈现了显著的时间差异( $P <$ 0.05）,夏季高,冬季低,春秋居中(图1—图6)。施氮后,土壤酶活性的时间分异规律没有发生显著变化( $P >$ 0.05）。脲酶、酸性磷酸酶、碱性磷酸酶和多酚氧化酶活性最高值出现在7或8月（分别为 $1 3 7 . 5 3 ~ \mathrm { m g ~ N H _ { 4 } ^ { + } { - N } }$ /g土 $\cdot 2 . 7 2 ~ \mathrm { m g }$ 苯酚/ $\mathbf { \dot { g } }$ 土 $\cdot 2 . 8 7 ~ \mathrm { m g }$ 苯酚/g土和 $1 3 7 . 0 2 ~ \mathrm { m L } ~ \mathrm { I } _ { 2 } / \mathrm { k g }$ 土）,最低值均出现在12月。 $\beta$ -葡萄糖苷酶活性在冬季却高于夏季,最高值出现在12月（ $1 4 . 6 8 ~ \mathrm { m g }$ 葡萄糖 $/ \mathbf { g }$ 土）,最低值出现在6月（ $1 . 4 3 ~ \mathrm { m g }$ 葡萄糖 $\mathbf { \check { g } }$ 土）,而过氧化氢酶活性则在秋季处于低谷,与其它酶活性与季节的变化不一致。
+
+# 2.2.5氮添加下森林土壤酶活性与环境因子的相关性
+
+对氮添加下的森林土壤酶活性与环境因子进行相关分析得出(表3）,脲酶、酸性磷酸酶、碱性磷酸酶均与土壤微生物量碳有显著正相关( $P { < } 0 . 0 5 )$ ，且与脲酶活性的相关系数最大( $\stackrel { } { r } = 0 . 4 0 2 \rangle$ 。过氧化氢酶与多酚氧化酶活性与微生物量碳存在显著负相关( $r = - 0 . 3 3 6$ 和 $r = - 0 . 1 3 8 , P { < } 0 . 0 5 )$ 。多酚氧化酶与过氧化氢酶活性与硝态氮的相关性均达到了显著水平( $P { < } 0 . 0 5 )$ 。此外,碱性磷酸酶活性与土壤铵态氮也表现出了显著的正相关（ $P { < } 0 . 0 5 )$ 。然而土壤酶活性与微生物量氮、全氮和有机碳含量之间不存在显著相关性。
+
+# 3讨论
+
+本研究中, $\mathrm { N H } _ { 4 } \mathrm { N O } _ { 3 } – \mathrm { N }$ 处理对脲酶活性的促进作用显著,与许多研究的结果一致[9,24-26]。可能是氮沉降在一定程度上提高了氮限制土壤中氮的有效性( $\mathrm { N H } _ { 4 } ^ { + }$ 和 $\mathrm { N O } _ { 3 } ^ { - }$ ),促进了微生物对碳等养分的需求,微生物或植物获取的氮素增加[18],刺激了对氮素专性较强的土壤脲酶活性。脲酶活性与微生物量碳含量显著正相关正好证明了此解释。也有研究表明,外源氮添加对土壤脲酶活性产生了抑制作用[27-28],造成促进和抑制两种不同结果的原因可能是植物和微生物对氮的需求量不同,也可能是土壤本身的营养特性、植被类型和微生物群落结构的差异所致。7、8月雨水充沛、温度适宜;在树木生长旺盛期,树木积累自身生物量,释放大量的光合同化产物,促进了微生物活性的提高,使土壤脲酶活性呈现夏季高,冬季低的季节规律。
+
+![](images/f45216b196048d75cd2598a87158a6d90f482f1fedf48c3b5976abb13c0da6a6.jpg)  
+Fig.5Effect of different N forms and N levels on soil $\mathbf { \beta } _ { \mathbf { \beta } }$ -glycosidaseactivities
+
+![](images/c31353c12831e414004367e815ffbc889143e073bcea80439421459e173c55c4.jpg)  
+图5不同氮添加下土壤β-葡萄糖苷酶活性动态变化  
+图6不同氮添加下土壤过氧化氢酶活性动态变化  
+Fig.6 EffectofdifferentNformsandNlevelson soilcatalaseactivities
+
+表3不同土壤酶活性与土壤环境因子的相关关系  
+Table 3Coefficients between soil enzyme activities and soil environmental factors   
+
+<html><body><table><tr><td>森林土壤酶 Forest soil enzymes</td><td>pH (HO)</td><td>有机碳 SOC</td><td>全氮 TN</td><td>硝态氮 NO3 -N</td><td>铵态氮 NH4-N</td><td>微生物量碳 SMBC</td><td>微生物量氮 SMBN</td></tr><tr><td>脲酶Urease</td><td>-0.012</td><td>-0.003</td><td>-0.011</td><td>-0. 017</td><td>0.244</td><td>0.402**</td><td>0.142</td></tr><tr><td>酸性磷酸酶 Acid phosphatase</td><td>-0.007</td><td>-0.020</td><td>0.119</td><td>0.054</td><td>0.182</td><td>0.342**</td><td>0.104</td></tr><tr><td>碱性磷酸酶 Alkaline phosphatase</td><td>-0.003</td><td>0.125</td><td>0.086</td><td>0.031</td><td>0.283 *</td><td>0.307 **</td><td>0.006</td></tr><tr><td>多酚氧化酶Polyphenol oxidase</td><td>-0.035</td><td>0.024</td><td>-0.006</td><td>0.646**</td><td>0.116</td><td>-0.138 *</td><td>-0.133</td></tr><tr><td>β-葡萄糖苷酶 β-glucosaccharase</td><td>-0.104</td><td>-0.005</td><td>-0.072</td><td>-0.164</td><td>0.156</td><td>-0.034</td><td>0.115</td></tr><tr><td>过氧化氢酶 Catalase</td><td>-0.010</td><td>0.110</td><td>0.055</td><td>0.371**</td><td>-0.089</td><td>-0.336 **</td><td>-0.264</td></tr></table></body></html>
+
+\*\*：表示 $P { < } 0 . 0 1$ ，极显著相关；\*：表示 $\scriptstyle P < 0 . 0 5$ ,显著相关
+
+土壤磷酸酶能够矿化有机磷,很好的反映磷转化和需求量。本研究得出,不同施氮形态和剂量的交互作用显著促进了酸性磷酸酶活性,高氮水平下， $\mathrm { N H } _ { 4 } ^ { + }$ -N 处理对酸性磷酸酶活性的促进作用显著，不同的施氮水平也显著促进了碱性磷酸酶活性。多种生态系统的研究也表明施氮能够促进磷酸酶活性[24,29-32]。原因可能是在受氮限制的土壤中,土壤中的微生物分解者对低氮环境已适应,施氮导致微生物胞外酶从氮限制转变为碳、磷限制,刺激微生物对碳和磷的需求量,增加了土壤微生物量碳,与碳、磷相关的酶活性随之增强[3-34],土壤磷酸酶活性与微生物量碳含量呈显著正相关正好解释了这一点。然而,也有一些学者研究[28,34]发现,施氮使土壤磷酸酶活性显著降低，原因可能是由于不同林型中凋落物化学组成、C/N不同及高氮盐的毒害作用造成[28],也可能与氮沉降时间以及选择的树种不同导致。
+
+多酚氧化酶为土壤中主要的木质素降解酶,与土壤腐殖化程度密切相关。此前对多种生态系统的研究均表明,施氮能够降低土壤多酚氧化酶活性[10,7,28],尤其在高氮处理下的抑制作用更为明显,而 Zeglin 等[36]的研究却得出氮沉降对氧化酶活性无影响。本实验与他们研究的结果均有不同,施氮明显促进了土壤多酚氧化酶活性,此结果也否定了氮沉降抑制土壤氧化酶的表达的假设。不过,也不乏与本研究结果一致的相关研究[21-22.37]。究其原因,氮沉降对多酚氧化酶活性产生负影响的结论多数由研究白腐真菌得出,氮沉降增加可能会抑制白腐真菌的活性,减少这两种氧化酶的产量,但是多酚氧化酶活性不仅仅与白腐真菌相关,其他生物如一些软腐真菌在氮沉降增加时,可能也会提高土壤的多酚氧化酶活性[38]。
+
+$\beta$ -葡萄糖苷酶作为纤维素水解酶,参与纤维素的代谢以及多种生化过程,该酶活性的变化会影响以葡萄糖为底物的一系列微生物活动。该研究并未得出 $\beta$ -葡萄糖苷酶活性对施氮水平有显著影响的结论，相关研究[10.39]也表明施氮剂量的增加并没有明显促进土壤 $\beta$ -葡萄糖苷酶的活性。但是有研究却发现随氮素的增加,森林土壤纤维素酶或 $\beta$ -葡萄糖苷酶酶活性的促进作用明显[7,31,40],这可能与植株对碳的吸收和利用能力不同[35],或者取样频率、氮处理时间长短以及不同季节环境因子的变化等有关。
+
+过氧化氢酶活性可反映土壤腐殖质化、有机质化的强度和速度。该研究表明,氮添加对土壤过氧化氢酶活性没有显著影响,这与Frey等[11]和杜锟等[35]的研究相似。但多数学者[2,38,41]发现氮沉降可提高土壤过氧化氢酶活性,而氮沉降对川南常绿阔叶林土壤过氧化氢酶活性却有抑制作用[9]。氮添加对土壤过氧化氢酶活性产生不同影响的原因也许是土壤类型、植被种类不同导致,也可能是土壤有机碳浓度对施氮不敏感所致，或者该森林土壤中的微生物群落结构与其他研究区域有差异使得土壤氧化酶活性对施氮的响应不同。从时间格局上看,不同氮添加下的过氧化氢酶活性峰值出现在冬季,此结论与涂丽华等[24]的研究类似。由于冬季积雪使土壤透气性减弱，易于生成化合物过氧化氢,限制了微生物的生长与繁殖，土壤通过增加过氧化氢酶活性来缓解过氧化氢对土壤的毒害,厌氧环境使得微生物发生反硝化,增加了土壤中铵态氮含量，此解释正好说明了过氧化氢酶活性与微生物量碳含量呈显著负相关、与铵态氮呈显著正相关的现象。
+
+# 4结论
+
+(1)不同形态和水平氮添加的交互作用显著促进了森林土壤脲酶、酸性磷酸酶活性。低氮水平下， $\mathrm { N H } _ { 4 }$
+
+$N \mathrm { O } _ { 3 } – \mathrm { N }$ 处理对脲酶活性的促进作用显著高于 $\mathrm { N O } _ { 3 } ^ { - }$ -N 处理;高氮水平下， $\mathrm { N H } _ { 4 } ^ { + }$ -N 处理对酸性磷酸酶活性的促进作用明显比 $N \mathrm { O } _ { 3 } ^ { - } { \mathrm { - N } }$ 处理高。不同的施氮水平显著促进了碱性磷酸酶和多酚氧化酶活性,且低氮处理的促进作用高于高氮处理;在不同的施氮形态下， $\mathrm { N H } _ { 4 } ^ { + }$ -N 处理对 $\beta$ -葡萄糖苷酶活性的促进作用显著高于其他氮形态处理,施氮形态对碱性磷酸酶、多酚氧化酶和过氧化氢酶活性无影响。  
+(2)氮添加没有改变森林土壤酶活性的时间分异规律。土壤脲酶、酸性磷酸酶、碱性磷酸酶和多酚氧化酶活性均呈夏季高，冬季低，春秋居中的规律， $\beta$ -葡萄糖苷酶活性却呈现冬季高于夏季的变化动态,过氧化氢酶活性则在秋季处于低谷。  
+(3)氮添加通过改变土壤环境因子,影响了森林土壤酶活性。脲酶、酸性磷酸酶、碱性磷酸酶均与土壤微生物量碳有显著正相关,过氧化氢酶与多酚氧化酶活性与微生物量碳含量存在显著负相关。多酚氧化酶与过氧化氢酶活性与硝态氮含量呈现显著正相关。碱性磷酸酶活性与土壤铵态氮有显著正相关。pH、全氮、有机碳和微生物量氮与6种酶活性均无显著相关性。
+
+# 参考文献（References）：
+
+［1］王杰，李刚，修伟明，宋晓龙，赵建宁，杨殿林.氮素和水分对贝加尔针茅草原土壤酶活性和微生物量碳氮的影响.农业资源与环境学报，2014，31(3)：237-245.  
+[2]ZouX,gYog-lspsefoliotofrgitltDesert，northwestern China. Soil Biology and Biochemistry，2012,47：67-77.  
+[3］王晖，莫江明，薛璟花，方运霆，李炯.氮沉降增加对森林调落物分解酶活性的影响.热带亚热带植物学报，2006，14(6)：539-546.  
+[4]GallwaJoingEeactitrgdheorldasfgA:AJalofteunEint,）：64-71.  
+［5］周礼恺.土壤酶学.北京：科学出版社，1987：32-54.  
+[6] 林先贵.土壤微生物研究原理与方法.北京：高等教育出版社，2010：243-262.  
+[7]GutkehtJlseerllellisaedfire disturbance.Pedobiologia，2010,53（5）：283-293.  
+[8］王晖，莫江明，鲁显楷，薛璟花，李炯，方运霆.南亚热带森林土壤微生物量碳对氮沉降的响应.生态学报，2008，28(2)：470-578.  
+[9] 宋学贵，胡庭兴,鲜骏仁，肖春莲.川南天然常绿阔叶林土壤酶活性特征及其对模拟N沉降的响应.生态学报，2009,29（3）：1234-1240.  
+[10]DForestJkDriKoJosprateeposidalatfdnorthern hardwood forest. Soil Biology and Biochemistry，2O04,36(6）：965-971.  
+[11]FreSoetisocrctfsctueducofllitemperate hardwood and pine forests.Forest Ecology and Management，2004，196(1）：159-171.  
+[12]WaldropakD,insabughRLrobialonityesposetitrogedepositioinorthforestecostesSliolodBiochemistry，2004，36(9）：1443-1451.  
+[13］袁颖红，樊后保，刘文飞，黄荣珍，沈芳芳，胡锋，李辉信.模拟氮沉降对杉木人工林（Cuninghamialanceolata）土壤酶活性及微生物群落功能多样性的影响.土壤，2013，45(1)：120-128.  
+[14]LilsoetaglbodEcological Applications，2001,11(2）：397-510.  
+[15]Hogberg P.Environmental science：nitrogen impacts on forest carbon.Nature,2007,447（7146）：781-782.  
+[16]WeiXssthe Total Environment，2012,416：351-361.  
+[17］沈芳芳，袁颖红，樊后保，刘文飞，刘苑秋.氮沉降对杉木人工林土壤有机碳矿化和土壤酶活性的影响.生态学报，2012，32（2)：517-527.  
+[18]涂利华，胡庭兴，张健，李仁洪，戴洪忠，雒守华，向元彬，黄立华.华西雨屏区苦竹林土壤酶活性对模拟氮沉降的响应.应用生态学报，2009，20(12):2943-2948.  
+[19］宋学贵.川西南常绿阔叶林凋落物分解和土壤呼吸特征及其对模拟氮沉降的响应[D].雅安：四川农业大学，2007.  
+[20]Treseder KK,Vitousek P M.Efects of soil nutrient availability on investment in acquisition of N and $\mathrm { \Delta P }$ in Hawaiian rain forests.Ecology,2001,82(4) : 946-954.  
+21]WaldroZaespoefidatieetirpositslcetratiosofoecboEcosystems，2006,9(6):921-933.  
+[22]WaldropMZakDR,insaughR,Gallo,,berCrogendepoitioodifesolcarbostorageoughangesiicoblenzymatic activity.Ecological Applications，2004，14(4）：1172-1177.  
+［23］关松荫.土壤酶及其研究法.北京：农业出版社，1986：26-78.  
+[24］涂利华，胡红玲，胡庭兴，张健，肖银龙，雒守华，李仁洪，戴洪忠.模拟氮沉降对华西雨屏区光皮桦林土壤酶活性的影响.应用生态学报，2012，23(8)：2129-2134.  
+[25］王圆媛，陈书涛，刘义凡，翟晓燕.外源氮添加对森林土壤二氧化碳排放及酶活性的影响.生态学杂志，2015，34(5）：1205-1210.  
+[26］春蕾，周梅，赵鹏武，部图雅，峥嶸.模拟氮沉降对兴安落叶松林腐殖质层微生物数量及酶活性的影响.内蒙古农业大学学报：自然科学版，2015，36(2)：64-68.  
+[27］苏洁琼，李新荣，鲍婧婷.施氮对荒漠化草原土壤理化性质及酶活性的影响.应用生态学报，2014，25（3）：664-670.  
+[28］周晓兵，张元明，陶冶，张丙昌.古尔班通古特沙漠土壤酶活性和微生物量氮对模拟氮沉降的响应.生态学报，2011，31（12)：3340-3349.  
+[29]EniqueG，isto，igleeecsfrglailitalivi，nsiidcldiversiesiodindfdieklit（Qe)ldstr（）：1654-1661.  
+30]WagQniostrtiglstaaiand dissolved organic matter.Applied Soil Ecology，2008,40(3）：484-590.  
+［31］潘超峰.模拟氮沉降和凋落物组成对柳杉人工林土壤酶活性的影响[D].雅安：四川农业大学，2013.  
+[32］李银，曾曙才，黄文娟.模拟氮沉降对鼎湖山森林土壤酸性磷酸单酯酶活性和有效磷含量的影响.应用生态学报，2011，22（3)：631-636.  
+33]KeelerBbeS,LEctsfgioaleecivihtrstedddimplications for liter and soil organic matter decomposition.Ecosystems,20o9,12（1）：1-15.  
+[34]SeenrhAKodelieE,oldHCkHJospasselieveboliatooftiSea sediments along a redox-gradient.Limnology and Oceanography，2011,56(6）：2018-2026.  
+[35］杜锟，张江勇，林勇明，张广帅，吴承祯，洪伟，李键，范海兰.邓恩桉(Eucalyptus duni）人工幼龄林土壤酶活性对模拟硫、氮复合沉降的响应.热带作物学报，2015，36(3）：504-509.  
+[36]ZeglinLtusosgholScolesporgdiiieorsissdoOecologia，2007，154(2）：349-359.  
+[37］赵玉涛，李雪峰，韩士杰，胡艳玲.不同氮沉降水平下两种林型的主要土壤酶活性.应用生态学报，2008，19（12)：2769-2773.  
+[38]Galloe,uberCbuhR,ZakDcrobauitructuredidaieeactityintrgddnorth temperate forest soils.Microbial Ecology，2004，48(2）：218-229.  
+[39]KeuskapJA,FelleIC,LabroekHJVereenJA,HefingSortndlotsfutrientecntocobialexoenzyme activity in mangrove peat.Soil Biology and Biochemistry，2O15,81：38-57.  
+[40］黄玉梓，樊后保,李燕燕，刘文飞，高春芬.氮沉降对杉木人工林土壤呼吸与土壤纤维素酶活性的影响.福建林学院学报，2009,29（2)：120- 124.  
+[41］樊后保，刘文飞，徐雷，许鲁平，孟庆银.杉木人工林土壤酶活性对氮沉降的响应.林业科学,2012,48（7）：8-13.

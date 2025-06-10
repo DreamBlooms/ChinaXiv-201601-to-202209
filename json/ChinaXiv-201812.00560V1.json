@@ -1,0 +1,564 @@
+[
+    {
+        "type": "text",
+        "text": "蛋氨酸对畜禽繁殖性能的影响及机制研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡爽叶倩红 曾祥芳\\*(中国农业大学动物科技学院，北京 100193)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：蛋氨酸是动物的必需氨基酸，也是功能性氨基酸。除了参与蛋白质的合成，还可调控细胞增殖分化、胎儿生长发育，并可清除体内自由基，增强机体免疫力，对畜禽的生长发育和繁殖有着重要意义。本文对蛋氨酸的理化性质、体内代谢、胎盘的转运和吸收进行了总结，阐述了蛋氨酸对畜禽繁殖性能的影响及其潜在机制，为今后蛋氨酸在畜禽生产中的进一步深入研究与应用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蛋氨酸；代谢；吸收；繁殖性能中图分类号：S811.3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸是含硫氨基酸，也是限制动物生长发育的必需氨基酸，参与80种以上的生化反应过程，被誉为“生命性氨基酸”[。在以植物性蛋白质原料为主要蛋白质来源的饲粮中，蛋氨酸通常是家禽和反刍动物的第一限制性氨基酸，猪的第二限制性氨基酸，对畜禽的生长发育至关重要[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸具有重要的生理功能。首先，蛋氨酸作为蛋白质合成过程中的起始氨基酸参与机体蛋白质的合成。此外，蛋氨酸可作为甲基参与磷脂、DNA 和RNA的合成[3]。近年来，越来越多的研究表明，蛋氨酸还可清除体内的自由基，增强机体免疫力，同时还可调控细胞增殖分化、胚胎附植、胎儿生长发育等，对畜禽的生长发育和繁殖性能也具有重要影响[4-6]。但是目前关于蛋氨酸对畜禽繁殖性能影响的研究较少，且具体机制仍不明确。本文将蛋氨酸对畜禽繁殖性能影响的研究进行了总结，分析了其潜在作用机制，旨在为今后蛋氨酸的研究与应用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1蛋氨酸的理化性质 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸，学名为2-氨基-4-甲巯基丁酸，相对分子质量为149.21，结构式为$\\mathrm { H } _ { 3 } \\mathrm { C } \\mathrm { - } \\mathrm { C H } _ { 2 }$ $\\mathrm { C H } _ { 2 }$ -CH(NH2)-COOH。蛋氨酸是一种中性氨基酸，分为 $D$ 型和 $L$ 型，具有旋光性。$D$ 型蛋氨酸需要转化为 $L$ 型后才能被机体吸收利用。蛋氨酸是白色粉末状或片状晶体，有特殊的气味，不溶于乙醚，易溶于水、稀碱和稀酸，微溶于乙醇，相对密度为1.340，熔点为281 ℃[7]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实际生产中普遍使用工业合成蛋氨酸产品来弥补天然饲料原料中蛋氨酸的缺乏。常见的工业合成蛋氨酸产品有以下几类：1）DL-蛋氨酸及其钠盐，是淡黄色或白色粉末及片状结晶；2）蛋氨酸衍生物，主要有N-羟基蛋氨酸钙、液态羟基氨酸等；3）DL-蛋氨酸羟基类似物，为褐色或棕色黏液；4）DL-蛋氨酸羟基类似物钙盐，为浅褐色颗粒或粉末；5）微生物发酵蛋氨酸。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2蛋氨酸在机体内的代谢 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肝脏是蛋氨酸代谢的主要场所，动物体内绝大多数细胞都存在蛋氨酸的转甲基作用和再甲基作用，而转硫基作用只存在于肝脏、肾脏、肠道和胰腺等组织器官中[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "哺乳动物体内，蛋氨酸代谢途径主要有以下4种：1）多肽和蛋白质合成。蛋白质合成过程中，蛋氨酸是起始氨基酸，与 tRNA 结合生成蛋氨酸 tRNA后，在mRNA 指导下合成蛋白质[1]。2）转甲基和再甲基作用。蛋氨酸在哺乳动物体内分解代谢的第一步是生成 S-腺苷蛋氨酸（S-adenosylmethionine,SAM)，SAM是体内重要的甲基供体，参与蛋白质、DNA和RNA的甲基化[3]，还可以调控基因表达[4]、蛋白质定位以及磷脂[β]、神经递质等生物小分子合成和代谢[。然后，SAM在不同甲基转移酶的催化下转出甲基，并形成 S-腺苷高半胱氨酸（S-adenosylhomocysteine，SAH），SAH水解释放腺苷变为同型半胱氨酸（homocysteine,Hcy）。Hcy可以接受甜菜碱或 $\\mathrm { N } _ { 5 }$ -甲基四氢叶酸提供的甲基，重新生成蛋氨酸，形成蛋氨酸循环[1。3）转硫基作用。Hcy 在胱硫醚β合成酶作用下与丝氨酸缩合形成胱硫醚，后者在胱硫醚γ裂解酶的作用下代谢为半胱氨酸，此过程需要维生素B6作为辅助因子。半胱氨酸进一步合成含硫蛋白质、谷胱甘肽，或分解为 $\\mathfrak { a }$ -酮丁酸、牛磺酸及硫化氢，或转化为硫酸盐，从尿中排出。4）转氨丙基作用。SAM2次脱羧生成5-甲硫基腺苷，再将氨丙基转移给亚精胺和腐胺，分别生成精胺和亚精胺[1,9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3蛋氨酸调节哺乳动物胎盘营养物质的转运和吸收",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胎儿可通过胎盘从母体获取营养物质进而维持其在子宫内的正常生长发育。氨基酸跨胎盘转运是供给胎儿营养的重要途径之一。胎盘氨基酸转运异常可能会影响胎儿的生长发育，并且与胎儿宫内发育迟缓等妊娠并发症相关[10-1]。氨基酸跨胎盘转运由氨基酸转运载体介导，胎盘氨基酸转运载体是异二聚体蛋白质结构，由重链和轻链组成。在转运过程中，轻链主要发挥跨膜转运的作用,重链主要调节轻链的转运活性,同时引导二聚体定位于细胞膜[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸是中性氨基酸，与其他氨基酸相比，其转运载体家族成员最多。在胎盘的氨基酸转运系统中，A型、 $\\mathbf { B } ^ { 0 }$ 型、ASC 型、G型、L型和asc 型均能转运蛋氨酸（表1)。在蛋氨酸跨胎盘的转运过程中， $\\mathrm { \\Delta N a ^ { + } }$ 非依赖性的L型及 $\\mathrm { \\Delta N a ^ { + } }$ 依赖性的A型、ASC 型氨基酸转运载体发挥了较为重要的作用[11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/884f1e1c8060639551fb012ee8c96dfc9a820133305cd428699554fcf7a3b9b9.jpg",
+        "table_caption": [
+            "表1胎盘的氨基酸转运系统",
+            "Table 1Amino acid transport systems in the placenta "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>转运系统</td><td>名称</td><td>编号</td><td>氨基酸底物</td></tr><tr><td>Transport systems A</td><td>Names ATA1、ATA2、ATA4</td><td>No.</td><td>Amino acid substrates Ala、Pro、Met、Ser</td></tr><tr><td></td><td></td><td>SLC38</td><td></td></tr><tr><td>G</td><td>GLYT1、GLYT2</td><td>SLC6</td><td>Gly、Ser</td></tr><tr><td>B</td><td>BAT1、BAT2</td><td>SLC6</td><td>大部分中性氨基酸，特别是Leu、Ile、Met</td></tr><tr><td>ASC</td><td>ASCT1、ASCT2</td><td>SLC1</td><td>Ala、Ser、Met、Thr、Gln、Cys、His、Leu</td></tr><tr><td>N</td><td>SN1、SN2</td><td>SLC38</td><td>Gln、Asn、His</td></tr><tr><td>β</td><td>Taut</td><td>SLC6</td><td>牛磺酸</td></tr><tr><td>y+L</td><td>y+LAT1、y+LAT2</td><td>SLC7</td><td>Leu、Arg、Lys、Cln、His</td></tr><tr><td>L</td><td>LAT1、LAT2、LAT3、LAT4</td><td>SLC7</td><td>Leu、Val、Phe、Tyr、Trp、Met、His Ala、Gly、Ser、Thr、Cys、Val、Met、Ile、Leu、His、</td></tr><tr><td>asc</td><td>asc-1、asc-2</td><td>SLC7</td><td>Asn、Gln、Phe</td></tr><tr><td>T</td><td>TAT1</td><td>SLC16</td><td>Tyr、Trp、Phe</td></tr><tr><td>b0 +</td><td>b+ AT</td><td>SLC7</td><td>阳离子氨基酸和中性氨基酸</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ATA：钠偶联中性氨基酸转运载体 sodium-coupled neutral amino acid transporter；GLYT：甘氨酸转运载体glycine transporter; $\\mathrm { \\bf B ^ { \\mathrm { 0 } } A T }$ ：B0 系统中性氨基酸转运载体 broad neutral (O)amino acid transporter；ASCT：丙氨酸-丝氨酸-半胱氨酸-苏氨酸转运载体 alanine-serine-cysteine-threonine transporter；SN：系统N转运载体system Ntransporter;Taut:牛磺酸转运载体 taurine transporter;LAT1:L-型氨基酸转运载体 L-type amino acidtransporter；y+LAT：L-型氨基酸转运载体（系统 $\\mathbf { y } ^ { + }$ ）L-type amino acid transporter (system y+)；asc：丙氨酸-丝氨酸-半胱氨酸转运载体 alanine-serine-cysteine transporter;TAT1:T-型氨基酸转运载体 T-type amino acidtransporter 1; ${ \\bf { b } } ^ { 0 , + } \\mathrm { A T }$ ：非1型胱氨酸 non-type1cystinuria；Ala：丙氨酸 alanine；Pro：脯氨酸 proline；Met:蛋氨酸 methionine；Ser:丝氨酸 serine; Gly:甘氨酸 glycine;Leu:亮氨酸 leucine;Ile:异亮氨酸 isoleucine;Thr：苏氨酸 threonine；Gln：谷氨酸 glutamine；Cys：半胱氨酸cysteine；His：组氨酸 histidine；Asn:天冬氨酸 asparagine；Arg：精氨酸 arginine；Lys：赖氨酸 lysine；Val：氨酸valine；Phe：苯丙氨酸phenylalanine；Tyr：酪氨酸 tyrosine；Trp：色氨酸 tryptophan。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "L 型转运载体包括L-型氨基酸转运载体（L-type amino acid transporter，LAT）1、LAT2、LAT3、LAT4，研究最多的是LAT1。人类的LAT1蛋白在小肠、乳腺、睾丸、胎盘、以及心脏和脑组织中均有表达，但是其表达水平根据细胞类型及组织部位的不同而有所差异，在各种增生组织、肿瘤细胞中表达量高[12]。LAT1在胎盘中的大量表达，与胎儿的营养需要有关，许多重要的氨基酸、激素的转运都依赖于LAT1。研究表明，LAT1的表达有利于受精卵至胚泡阶段的发育和胚胎的着床，且与胎盘滋养层细胞的增殖、侵袭和迁移有关[13]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A 型氨基酸转运载体最先在艾氏腹水癌细胞中发现，由3个基因编码。在妊娠过程中，胎盘上A型氨基酸转运载体的活性逐渐增高，且钠偶联中性氨基酸转运载体1（sodium-coupled neutral amino acid transporter，ATA1）在胎盘上的表达水平高于其他亚型，表明A型转运载体，尤其是 ATA1转运的氨基酸可能对胎儿的生长具有重要意义[]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ASC 型转运载体在机体分布广泛，分为丙氨酸-丝氨酸-半胱氨酸-苏氨酸转运载体（alanine-serine-cysteine-threonine transporter，ASCT）1和 ASCT2 亚型，主要转运丙氨酸、丝氨酸和苏氨酸等没有大型支链的中性氨基酸[14]。这2种亚型在胎盘上均有表达，并且只分布在滋养层细胞的基底膜上。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4蛋氨酸对畜禽繁殖性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1蛋氨酸对家禽繁殖性能的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "常规家禽饲粮中蛋氨酸含量及利用率均较低，因此蛋氨酸是家禽饲粮的第一限制性氨基酸，工业合成蛋氨酸产品广泛应用于家禽饲粮。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究表明，饲粮添加蛋氨酸影响蛋鸡的产蛋性能以及蛋品质。随着饲粮蛋氨酸添加水平的增加，京红1号蛋鸡的产蛋率、产蛋量显著提高，料蛋比显著降低，孵化率、健雏率显著增加，且饲粮蛋氨酸添加水平为 $0 . 4 3 \\%$ 时，蛋鸡有最大的产蛋量和产蛋率[15]。饲粮添加 $0 . 3 5 \\%$ 的 DL-蛋氨酸显著提高了黄羽肉种鸡的产蛋率，降低了料蛋比，增强了蛋壳硬度、蛋壳百分比和蛋壳强度[16]。此外，蛋氨酸还参与精子的形成过程，有研究表明， $0 . 1 9 \\%$ 的饲粮 $D L$ 蛋氨酸水平可以显著提高公鸡的精子密度和有效精子数[17]。当饲粮 $D L$ -蛋氨酸添加水平 $( 0 . 2 7 \\% )$ 较低时，临武鸭料蛋比和采食量较高，饲料转化率较低；随着饲粮 $D L$ -蛋氨酸添加水平中 $0 . 3 2 \\% 8 7 0 . 4 7 \\%$ ）的增加，料蛋比和采食量有所下降，改善了其饲料利用效率；而且结果表明，饲粮 $D L$ -蛋氨酸添加水平对蛋黄色泽、蛋黄比例、蛋壳厚度、蛋形指数、蛋壳比例和蛋白比例均无显著影响[18]。饲粮中 $0 . 2 5 \\% { \\sim } 0 . 5 0 \\%$ 蛋氨酸添加水平对开产麻鸭蛋品质无显著影响。以上研究结果表明，蛋氨酸对家禽的影响可能与家禽品种、所处产蛋周期及饲粮组成等不同有关[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2蛋氨酸对反刍动物繁殖性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸在反刍动物的应用越来越多。为了避免瘤胃微生物的降解，添加时一般采用皱胃或皮下注射，以及过瘤胃保护性蛋氨酸的方式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以荷斯坦奶牛为对象研究，试验组饲喂含 $2 . 4 \\%$ 可消化 $D L$ -蛋氨酸的饲粮，对照组饲喂含 $1 . 9 \\%$ 可消化 $D L .$ -蛋氨酸的饲粮，检测附植前胚胎的基因表达，研究发现，有一些和胚胎发育有关的基因表达存在显著差异，但这些基因差异表达是否有益于胚胎存活和发育仍需进一步研究[20]。饲粮补充 $0 . 0 8 \\%$ 可消化 $D L .$ -蛋氨酸后，荷斯坦奶牛的多形核中性白细胞的比率较对照组显著降低，表明更有益于子宫健康[21]。对牛胚胎进行体外培养时，在2-细胞阶段添加 $1 0 \\mathrm { m m o l / L }$ 蛋氨酸代谢抑制剂乙硫氨酸，可完全抑制囊胚发育，补充10mmol/L SAM后，可恢复部分囊胚发育[22]，添加 $2 \\ \\mu \\mathrm { m o l / L }$ SAM不影响胚胎的囊胚率，但显著提高了孵化率[23]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3蛋氨酸对猪繁殖性能的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前关于蛋氨酸对猪繁殖性能影响的报道较少。已有的研究表明，饲粮添加蛋氨酸对妊娠、泌乳阶段母猪和断奶仔猪均有影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "后备母猪的营养水平可影响其妊娠期的体增重和后期的产仔性能。在后备阶段饲粮添加$0 . 1 2 \\%$ 的 $D L$ -蛋氨酸，妊娠期母体增重、窝重和仔猪初生重显著增加，表明蛋氨酸可能会影响母猪妊娠后期的合成代谢，但其具体机制还需进一步研究[24]。在 $0 . 2 8 \\% { \\sim } 0 . 4 8 \\%$ 的饲粮DL-蛋氨酸水平内，随着饲粮蛋氨酸水平的升高，断奶仔猪料重比显著降低，平均日增重显著提高，血清尿素氮含量极显著降低，显著影响肝脏中蛋氨酸的含量，但不影响肌肉中蛋氨酸的含量[25]。饲粮添加 $0 . 1 4 \\%$ 的 $D L$ -蛋氨酸，可显著提高泌乳母猪血浆中含硫氨基酸及乳中脂肪和蛋白质含量；提高仔猪哺乳期和断奶后的采食量，改善断奶仔猪生长性能。此外，断奶仔猪的十二指肠和回肠杯状细胞数量显著增加，血清谷胱甘肽含量显著增高，从而提高了仔猪的抗氧化性能，缓解了断奶应激对肠道造成的损伤，促进了仔猪肠道黏膜的生长发育 [26]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5蛋氨酸影响畜禽繁殖性能的潜在机制",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1调控DNA 甲基化，利于胚胎细胞存活",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸与ATP在蛋氨酸腺苷转移酶的催化下，生成SAM。SAM中的甲基在甲硫氨酸腺苷转移酶的作用下，将 $. \\mathrm { C H } _ { 3 }$ 转移到胞嘧啶的第5位碳原子上，形成5-甲基胞嘧啶（ $: 5 \\mathrm { m C }$ ）。5mC 突出至DNA双螺旋大沟中，干扰DNA与转录因子结合[27]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DNA 甲基化/去甲基化与哺乳动物胚胎的发育密切相关。胚胎的早期发育阶段是DNA甲基化水平变化最强烈的阶段之一[28]。在哺乳动物个体发育中，从受精至早期胚胎附植这一阶段，经历了一次大规模的DNA甲基化谱重编程过程[29]。卵母细胞受精后，会先进行一次基因组范围内的DNA去甲基化，然后在胚胎发育的某一时期（大部分在桑椹胚或囊胚期，鼠在囊胚期，牛在8\\~16细胞期[30]）发生DNA 重新甲基化。DNA 甲基化通过调控基因（尤其是印记基因）的表达影响早期胚胎的生长发育。受精后的DNA甲基化变化对哺乳动物早期胚胎发育起着决定性作用[31]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2代谢产生多胺，促进胚胎附植 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SAM还可以通过转氨丙基作用参与多胺的形成，多胺在调控蛋白质合成、基因表达、细胞信号转导、血管生成、细胞增殖分化、胚胎发育和胎盘生长等方面起着重要作用[32-33]。同时多胺有清除体内的活性氧的功能，保护DNA、脂质和蛋白质等免受氧化影响[34]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究发现，在胚胎附植期，多胺大量合成，同时多胺合成的相关基因表达也增加，以实现子宫蜕膜化，有利于囊胚顺利附植[35]。子宫内膜蜕膜化主要表现为子宫内膜间质细胞的增殖和分化，逐渐转化为蜕膜基质细胞。随着胚胎附植与滋养层细胞的侵入，蜕膜化程度对维持正常妊娠、胚胎附植、胎盘形成有重要的调控作用[3]。多胺可能是通过调节类固醇激素的生成，刺激鸟氨酸脱羧酶（ormithine decarboxylase，ODC）的表达，对胎盘、胚胎及胎儿的生长发育发挥作用[37]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.3改善胚胎发育内环境，减少胚胎氧化应激损伤",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "胚胎发育过程中，氧化应激是胚胎损伤的主要原因[38]。蛋氨酸的抗氧化作用主要通过谷胱甘肽途径和氧化还原途径来完成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸是还原型谷胱甘肽合成的前体物质。还原型谷胱甘肽可以参与体内重要的氧化还原反应，是维持机体内环境稳定的重要物质之一[39]。另外，还原型谷胱甘肽还可以通过谷胱甘肽转硫酶和谷胱甘肽过氧化物酶对有害物质进行转化，进一步清除自由基[40]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸的氧化还原反应对体内有毒物质的清除具有重要作用。动物体内的活性氧可以与蛋氨酸残基中的二硫键反应生成蛋氨酸亚砜（methionine sulfoxide,MetO)，然后由蛋氨酸亚砜还原酶催化可重新生成蛋氨酸[41-42]。在这个过程中，蛋氨酸和蛋氨酸衍生物之间进行互换，提供了一系列有效清除有害物质的途径，保证相关蛋白质的生物学活性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.4促进胚胎神经管闭合",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "神经管缺陷（neural tube defects,NTD）作为仅次于先天性心脏病的第二大出生缺陷，严重威胁着人类健康与人口质量。妊娠第3\\~4周，神经管闭合失败会导致包括无脑畸形、颅脊柱裂、脊髓脊膜膨出、脑膨脑积水等在内的一系列中枢神经系统疾病[43]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用胎牛血清作培养基培养大鼠胚胎，发现胚胎会出现躯体异常弯曲、无眼畸形和脑膨出等现象。加入蛋氨酸后，可以改善这些早期出现的胚胎异常现象[44-45]，但是其他营养物质，如半胱氨酸和叶酸都不具有这些功能[46]。然而也有研究表明，在妊娠早期补充叶酸能够改善妊娠状况，减少 $2 5 \\% { \\sim } 3 0 \\%$ 的 NTD 现象，但是其具体的作用机制仍不明确[47-48]。培养液中添加蛋氨酸有利于小鼠胚胎神经管愈合，而且小鼠胚胎的发育指标和形态学指标均有所改善，表明蛋氨酸缺乏是引起NTD 的可能原因[49]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.5促进早期胚胎细胞增殖，提高囊胚质量",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "妊娠早期，受精卵需要快速增殖，才能发育成合格的囊胚，顺利在子宫内附植，进而发育为正常胎儿。研究发现，在细胞快速增殖过程中，蛋氨酸的消耗量比其他必需氨基酸都多[50]。小鼠囊胚大量表达甜菜碱高半胱氨酸甲基转移酶，敲除该酶的基因会导致囊胚发育迟缓，内细胞团细胞数量显著减少，添加蛋氨酸可以改善这种情况下的发育迟缓现象，表明蛋氨酸在胚胎的发育过程中至关重要[51]。添加一定量的游离蛋氨酸能促进奶牛乳腺细胞的增殖，且在 $4 8 \\mathrm { { h } }$ 时增殖作用最强[52l；处于S期和G2 期的乳腺上皮细胞百分比均显著升高，而G0\\~G1期细胞百分比显著下降[53]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸促进细胞增殖可能是通过代谢产物二硫化氢作用。最近的研究表明，结肠癌细胞过量表达胱硫醚- $\\cdot \\beta$ -合成酶，产生更多的二硫化氢。二硫化氢可以维持癌细胞生长、血管生成和舒张所需的生物能量。在细胞培养液中添加0.1\\~3.0 mmol/L SAM，二硫化氢的浓度显著增加，而且细胞的增殖速率在短期内随蛋氨酸水平的增加而增加，但是3mmol/L SAM抑制了细胞增殖[53]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6小结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "蛋氨酸是重要的功能性氨基酸，在蛋白质合成代谢、调控DNA甲基化、调控多胺和谷胱甘肽等的合成、促进胚胎神经管闭合和早期胚胎细胞增殖等过程中发挥着重要作用，对畜禽繁殖性能有重要影响，在畜禽生成中的应用也日益增多。但关于蛋氨酸改善畜禽繁殖性能的分子机制及与其他营养素之间的互作关系仍需进一步系统深入研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]胡诚军，江青艳，孔祥峰.畜禽蛋氨酸代谢及其生理功能研究进展[J].饲料工业,2016,37(15):23-27.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]朱中胜,李吕木.蛋氨酸研究进展[J].饲料博览,2015(7):11-17.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3] XU J,SINCLAIR K D.One-carbon metabolism and epigenetic regulation of embryo development[J].Reproduction Fertility and Development,2015,27(4):667-676. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4] MIRANDA T B,JONES P A.DNA methylation:The nuts and bolts of represson[J].Journal of Cellular Physiology,2007,213(2):384-390. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5] WINTER-VANN A M,KAMEN B A,BERGO M O,et al.Targeting Ras signaling through inhibition of carboxyl methylation:an unexpected property of methotrexate[J].Proceedings of the National Academy of Sciences of the United States of America,2003,100(11):6529-6534. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6] STEAD L M,AU K P,JACOBS R L,et al.Methylation demand and homocysteine metabolism:effects of dietary provision of creatine and guanidinoacetate[J].American Journal of ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Physiology-Endocrinology and Metabolism,2001,281(5):E1095-E1100. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7]乔德堂.动物的蛋氨酸营养研究进展[J].山东畜牧兽医,2007,28(4):57-58.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8] FINKELSTEIN J D.Methionine metabolism in mammals[J].The Journal of Nutritional Biochemistry,1990,1(5):228-237. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9] MATO J M,MARTiNEZ-CHANTAR M L,LU S C.Methionine metabolism and liver disease[J].The Annual Review of Nutrition,2008,28(1):273-293 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10] 石常友,王文策,耿梅梅,等.不同蛋白质水平日粮对肥育猪肠道氨基酸转运载体CAT1mRNA表达量的影响[J].动物营养学报,2008,20(6):692-698.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[11]陈云平,吕春梅,朱辉.胎盘氨基酸转运体的研究进展[J].中国妇幼保健,2013,28(26):4416-4418.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[12] HOWIE G J,SLOBODA D M,KAMAL T,et al.Maternal nutritional history predicts obesity in adult offspring independent of postnatal diet[J].The Journal of Physiology,2009,587(4):905-915. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[13] DESFORGES M,MYNETT K J,JONES R L,et al.The SNAT4 isoform of the system A amino acid transporter is functional in human placental microvillous plasma membrane[J].The Journal of Physiology,2009,587(1):61-72. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[14] 马婧,谭毅,谭冬梅,等.氨基酸转运载体LAT1对小鼠胎盘早期建立的影响[J].中国实验动物学报,2015,23(3):256-260.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[15]付国强,计成,马秋刚.日粮蛋氨酸和赖氨酸水平对产蛋高峰期京红蛋种鸡生产和繁殖性能的影响[J].中国畜牧兽医文摘,2013,49(9):52.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16] XIAO X,WANG Y X,LIU W L,et al.Effects of different methionine sources on production andreproduction performance,egg quality andserum biochemical indicesof broiler breeders[J].Asian-Australasian Journal of Animal Sciences,2017,30(6):828-833. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17] 戴国俊,王志跃,吴兆林,等.不同蛋白质来源对公鸡采精量和精液品质的影响[J].中国畜牧杂志,2000,36(4):32-33.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18] 黄璇,李闯,何平,等.临武鸭产蛋高峰期蛋氨酸需要量的研究[J].动物营养学报.2015,27(4):1110-1116",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19] 阮栋,林映才,张罕星,等.蛋氨酸水平对开产期麻鸭产蛋性能、蛋品质及卵巢形态的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[J].中国畜牧杂志,2012,48(7):34-38. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] PENAGARICANO F,SOUZA A H,CARVALHO P D,et al.Effect of maternal methionine supplementation on the transcriptome ofbovinepreimplantationembryos[J]PLoS One,2008,8(8):e72302. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21]IKEDA S,SUGIMOTO M,KUMES.Importance of methionine metabolismin morula-to-blastocyst transition in bovine preimplantation embryos[J].Journal of Reproduction and Development,2012,58(1):91-97. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[22] SAADI H S,GAGNE D,FOURNIER E,et al.Responses of bovine early embryos to S-adenosyl methionine supplementation in culture[J].Epigenomics,2016,8(8):1039-1060. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23] 简勇军,刘国庆,赵丽红,等.日粮蛋氨酸与赖氨酸比值对后备母猪生长及繁殖性能的影响[J].中国畜牧杂志,2016,52(9):32-36.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[24]林映才,蒋宗勇,余德谦,等.超早期断奶仔猪可消化蛋氨酸、苏氨酸、色氨酸需求参数研究[J].动物营养学报,2001,13(3):30-39.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[25]李豪.饲粮蛋氨酸来源和水平对哺乳-断奶仔猪生长及肠道发育的影响[D].硕士学位论文.  \n雅安：四川农业大学,2013:67-78.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[26]NAICHE L A,HARRELSON Z,KELLY R G,et al.T-boX genesin vertebrate development[J].Annual Review of Genetics,2005,39(1):219-239. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27]苏文龙,李璐,曹慧,等.DNA甲基化/去甲基化与哺乳动物胚胎的体外发育[J].中国畜牧杂志,2015,51(9):68-71.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[28] REIK W.Stability and flexibility of epigeneticgene regulation in mammalian development[J].Nature,2007,447(7143):425-432. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[29] DEAN W,SANTOS F,STOJKOVIC M,et al.Conservation of methylation reprogramming in mammalian development:aberrant reprogramming in cloned embryos[J].Proceedings of the National Academy of Sciences of the United States of America,2001,98(24):13734-13738. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[30] SILVA A R R E,ADENOT P,DANIEL N,et al.Dynamics of DNA methylation levels in maternal and paternal rabbit genomes after fertilization[J].Epigenetics,2011,6(8):987-993. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[31] ZENG X,WANG F,FAN X,et al.Dietary arginine supplementation during early pregnancy enhances embryonic survival in rats[J].Journal of Nutrition,2008,138(8):1421-1425. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32]黄珍茹,蔡美琴.精氨酸在人早期生长发育过程中的作用[J].上海交通大学学报:医学版,2016,36(3):451-454.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[33]谭敏捷,孔祥峰,刘庆友,等.多胺与哺乳动物的孕体发育[J].动物营养学报,2015,27(1):43-48.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[34] ZHAO Y C,CHI Y J,YU Y S,et al.Polyaminesare essential in embryo implantation:expression and function of polyamine-related genes in mouse uterus during peri-implantation period[J].Endocrinology,2008,149(5):2325-2332. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[35] RAMATHAL C Y,BAGCHI I C,TAYLOR R N,et al.Endometrial decidualization:of mice and men[J].Seminars in Reproductive Medicine,2010,28(1):17-26. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[36] BAZER F W,SONG G,KIM J,et al.Mechanistic mammalian target of rapamycin (MTOR) cell signaling:effects of select nutrients and secreted phosphoprotein 1 on development of mammalian conceptuses.[J].Molecular and Cellular Endocrinolog,2012,354(1/2):22-33. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[37] GASPARRINI B,SAYOUD H,NEGLIA G,et al.Glutathione synthesis during in vitro maturation of buffalo (Bubalus bubalis) oocytes:effects of cysteamine on embryo development[J].Theriogenology,2003,60(5):943-952. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[38] DRAZIC A,WINTER J.The physiological role ofreversible methionine oxidation[J].Biochimica et Biophysica Acta (BBA)-Proteins and Proteomics,2014,1844(8):1367-1382. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[39]HOSHI T,HEINEMANN S.Regulation of cell function by methionine oxidation and reduction[J].Journal of Physiology,2001,531(1):1-11 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[40]林厦菁,蒋守群.氨基酸对家禽免疫功能的影响及其调控机制[J].中国家禽,2014,36(11):39-43.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[41]程传锋.蛋氨酸水平对仔猪生长性能及免疫功能的影响[D].硕士学位论文.长春:吉林农业大学,2012:67-78.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[42]保睿,吴建新.人类神经管缺陷分子遗传学研究进展[J].中国优生与遗传杂志,2009,17(5):1-4.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[43] COELHO C N,WEBER J A,KLEIN N W,et al.Whole rat embryos require methionine for neural tubeclosurewhencultured oncowserum[J].TheJournal of Nutrition,1989,119(11):1716-1725.   \n[44] COELHO C N,KLEIN N W.Methionine and neural tube closure in cultured rat embryos:morphological and biochemical analyses[J].Teratology,1990,42(4):437-451.   \n[45] ESSIEN F B,WANNBERG S L.Methionine but not folinic acid or vitamin B-12 alters the frequencyofneuraltubedefectsinAxdmutantmice[J].TheJournalof Nutrition,1993,123(1):27-34.   \n[46] BHARGAVA S,TYAGI S C.Nutriepigenetic regulation by folate-homocysteine-methionine axis:a review[J].Molecular and Cellular Biochemistry,2014,387(1/2):55-61.   \n[47] KALHAN S C,BIER D M.Protein and amino acid metabolism in the human newborn[J].The Annual Review of Nutrition,2008,28(1):389-410.   \n[48] 成俊萍,石德顺,陆凤花,等.氨基酸对哺乳动物胚胎体外发育的影响[J].四川畜牧兽 医,2006,33(2):27-28.   \n[49] LEE H J,JEDRYCHOWSKI M P,VINAYAGAM A,et al.Proteomic and metabolomic characterization of a mammalian celular transition from quiescence to proliferation[J].Cell Reports,2017,20(3):721-736.   \n[50] LEE M B,KOOISTRA M,ZHANG B H,et al.Betaine homocysteine methyltransferase is active in the mouse blastocyst and promotes inner cell mass development[J].Journal of Biological Chemistry,2012,287(39):33094-33103.   \n[51]李喜艳,王加启,魏宏阳,等.MTT比色法检测赖氨酸、蛋氨酸对体外培养的奶牛乳腺上皮细 胞增殖的影响[J].生物技术通报,2010(3):143-148.   \n[52]于翠平.14-3-3γ对奶牛乳腺上皮细胞乳蛋白合成和细胞增殖的调节[D].博士学位论文.哈 尔滨:东北农业大学,2015:67-78.   \n[53] MODIS K,COLETTA C,ASIMAKOPOULOU A,et al.Efect of S-adenosyl-1-methionine (SAM),an allosteric activator of cystathionine- $\\cdot \\beta$ synthase (CBS） on colorectal cancer cell proliferation and bioenergetics in vitro[J].Nitric Oxide,2014,41:146-156. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Research Progress on Effects and Mechanism of Methionine on Reproductive Performance of Livestock and Poultry ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CAI Shuang YE Qianhong ZENG Xiangfang (College of Animal Science and Technology, China Agricultural University, Beijing 100193, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Methionine is one of the essential amino acids in the animal, meanwhile it also can be considered as a functional amino acid.In addition to protein synthesis, it plays an important role in the cell proliferation and differentiation, fetal growth and development, and has great significance in removing free radical and enhancing immunity. This review summarizes the physical and chemical properties of methionine,metabolism， transport and absorption in placental，and discusses its effects on the reproductive performance of livestock and potential regulation mechanism, which can provide a reference for future research and application of methionine. Key words: methionine; metabolism; absorption; productive performance ",
+        "page_idx": 12
+    }
+]

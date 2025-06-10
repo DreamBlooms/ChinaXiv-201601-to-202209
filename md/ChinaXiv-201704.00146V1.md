@@ -1,0 +1,150 @@
+# DOI:10.5846/stxb201511052251
+
+刘冉冉,时伟伟,张晓东,宋杰.不同生境盐地碱蓬对氮饥俄的响应.生态学报,2017,37(6);1881-1887.  
+LiuRR,SiWaXDogJsfrgodftbiasaoc（)：1881-1887.
+
+# 不同生境盐地碱蓬对氮饥饿的响应
+
+刘冉冉,时伟伟,张晓东,宋杰\*山东师范大学生命科学学院,山东省逆境植物重点实验室，济南250014摘要：为了探讨不同生境盐地碱蓬对低氮生境的适应机制,测定了盐渍环境下( $2 0 0 \mathrm { \ m m o l / L \ N a C l }$ )不同浓度硝态氮（0.3、5 mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N)预处理两种生境盐地碱蓬经氮饥饿后的 $\mathrm { N O } _ { 3 } ^ { - }$ 含量、硝酸还原酶(NR)活性、光合特性及生长状况。结果表明，0.3和 $5 \mathrm { \ m m o l { / L } \ N O _ { 3 } ^ { - } }$ -N 处理以及进行氮饥饿时,潮间带生境盐地碱蓬叶片 $\mathrm { N O } _ { 3 } ^ { - }$ 含量均高于内陆生境盐地碱蓬。与内陆生境盐地碱蓬相比,氮饥俄后,潮间带生境盐地碱蓬叶绿素含量、NR 活性和光合放氧速率下降幅度均小于内陆生境盐地碱蓬,在0.3mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N 预处理进行氮饥饿时趋势更加明显。 $0 . 3 \mathrm { \ m m o l { / L } \ N O _ { 3 } ^ { - } } .$ N 预处理后氮饥饿对潮间带生境盐地碱蓬根冠比没有影响，却降低内陆生境盐地碱蓬根冠比。上述结果表明,低氮条件下潮间带生境盐地碱蓬具有较高的 $\mathrm { N O } _ { 3 } ^ { - }$ 储存能力，在环境持续氮素缺乏时具有较高的 $\mathrm { N O } _ { 3 } ^ { - }$ -N 再利用能力,能更好地维持氮代谢以及光合性能。说明潮间带生境盐地碱蓬能更好地适应低氮生境。
+
+关键词：盐地碱蓬；氮饥饿； $\mathrm { N O } _ { 3 } ^ { - }$ ;硝酸还原酶;叶绿素
+
+# Effects of nitrogen starvation on Suaeda salsa from different habitats
+
+LIU Ranran，SHI Weiwei,ZHANG Xiaodong，SONG Jie \* ShandongProvincialKeyLaboratoryofPlantStress，ColegeofLifeSience，ShandongNormalUniversity，Ji'nan2504，China
+
+Abstract：Suaedasalsa L.cangrowintheintertidal zone，oroninlandsalinesoils.After pretreatment withdifferent concentrations of nitrogen（O.3 and 5 mmol/L NO -N），seedlings of two $S$ . salsa populations were watered with a nitrogen$^ 3$ free nutrient solution（nitrogen starvation）at2OO mmol/L NaCl.After oneor two weeks，thechlorophyllcontent and $\mathrm { N O } _ { 3 } ^ { - }$ ， nitratereductase（NR）activity，photosynthetic oxygenevolutionrate in leaves，andshootandrootdry weight were measured.With 0.3 or 5 mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N pretreatment，the $\mathrm { N O } _ { 3 } ^ { - }$ content in leaves from the intertidal population was higher thanfrom the inland population throughout thewhole study.Nitrogenstarvation decreased thechlorophyllcontent，NR activity,andphotosyntheticoxygenevolutionrate inleaves fromtheinlandpopulationmoreseverelythanintheintertidal population leaves. This was especially apparent when seedlings were pretreated with $0 . 3 \mathrm { \ m m o l / L }$ （204 $\mathrm { N O } _ { 3 } ^ { - }$ -N. As for $S$ salsa frominland salinesoils，therot/shootratiodecreased significantlyafter nitrogen starvation.However，nitrogenstarvation had no adverse efects on this ratio for the intertidal population after the pretreatment.Theresults suggest that $s$ ，salsa from the intertidal zone has a higher capacity for $\mathrm { N O } _ { 3 } ^ { - }$ storage and nitrogen assimilation under low nitrogen conditions.As a result, the intertidal population seedlings have a higher ability for $\mathrm { N O } _ { 3 } ^ { - }$ -N reutilization to maintain nitrogen metabolism and normal photosynthesis.This indicates that $S$ 、salsa from the intertidal zone can better adapt to low nitrogen habitats as compared to the inland population. These traits may affect the distribution of $S$ ， salsa in their natural saline environments.
+
+Key Words: Suaeda salsa;nitrogen starvation ; $\mathrm { N O } _ { 3 } ^ { - }$ ；nitrate reductase；chlorophyll氮素是限制植物生长的重要因素[1-2]。硝态氮作为重要的营养元素不仅对植物的生长有重要作用,而且对植物的渗透调节可能具有一定作用[3]。Song 等以真盐生植物囊果碱蓬（Suaeda physophora）[4],Ding 等[5]以泌盐盐生植物怪柳(Tamarix laxa Willd.)为材料都发现在盐渍化土壤中,硝态氮对盐生植物生长和渗透调节起到重要作用。自然生境中氮素主要以硝态氮为主,而且含量很低,一般在 $1 \ \mathrm { m m o l / L }$ 或更少[6]。盐地碱蓬（Suaeda salsaL.)是一年生草本肉质化真盐生植物,耐盐碱[7],耐旱[8],而且保健价值很高。盐地碱蓬既可生长在潮水浸没的潮间带也可以生长在地势较高或距离海边较远的内陆盐碱地[9-10]。研究表明,两种生境中土壤硝态氮含量都较低[11],而盐地碱蓬却可以良好地生长,说明盐地碱蓬具有较好的适应低氮的能力。Song等[1]发现在盐氮互作条件下,潮间带生境盐地碱蓬叶片中 $\mathrm { N O } _ { 3 } ^ { - }$ 含量高于盐地生境盐地碱蓬叶片中的含量,在低氮条件下尤为明显。即与内陆生境盐地碱蓬相比,潮间带生境盐地碱蓬在低氮条件下可能具有更好的机制来储存 $\mathrm { N O } _ { 3 } ^ { - }$ 。植物高效储存 $\mathrm { N O } _ { 3 } ^ { - }$ 并且在环境氮素匮乏时高效再利用是植物氮高效的重要特征。潮间带生境盐地碱蓬在低氮条件下储存更多的 $\mathrm { N O } _ { 3 } ^ { - }$ 是否在氮缺乏时能够被高效再利用,即潮间带生境盐地碱蓬是否具有更好的低氮适应能力，在本试验中进行了验证。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+内陆生境和潮间带生境盐地碱蓬棕色种子分别采集于山东省黄河三角洲内陆盐碱地( $3 7 ^ { \circ } 2 0 ^ { \prime } \mathrm { N }$ · $1 1 8 ^ { \circ } 3 6 ^ { \prime }$ E)及潮间带 $( 3 7 ^ { \circ } 2 5 ^ { \prime } \mathrm { N } ; 1 1 8 ^ { \circ } 5 8 ^ { \prime } \mathrm { E } )$ ,两种生境中 $\mathrm { { N a } ^ { + } }$ 、 $\mathrm { C l } ^ { - }$ 含量分别是 $1 . 6 , 2 . 1 , 3 . 9 , 6 . 1 \mathrm { \ g / k g }$ 干土。晒干的种子存于冰箱 $( < 4 ^ { \circ } \mathrm { C }$ )中待用。
+
+# 1.2 试验设计
+
+挑选籽粒饱满的内陆生境盐地碱蓬和潮间带生境盐地碱蓬棕色种子,分别播种于盛有洗净河沙的塑料花盆(直径 $1 7 \ \mathrm { c m }$ ,高 $1 4 ~ \mathrm { c m }$ )中，河沙约占塑料花盆总体积的 $3 / 4$ ,每盆种20粒种子。将每一种生境的盐地碱蓬分别分为两大组，每天分别用 $3 0 0 ~ \mathrm { m L }$ (每次浇灌有溶液漏出，以防止积盐及氮素浓度的改变) $0 . 3 \ 、 5 \ \mathrm { m m o l / L }$ $\mathrm { N O } _ { 3 } ^ { - }$ -N 溶液一直浇灌到幼苗长出10 片真叶左右。 $0 . 3 \mathrm { \ m m o l { / L } \ N O _ { 3 } ^ { - } { - N } }$ 营养液配方： $0 . 1 5 \mathrm { \ m m o l / L } \mathrm { C a } ( \mathrm { N O } _ { 3 } ) _ { 2 }$ 2.85 mmol/L $\mathrm { C a C l } _ { 2 }$ ,2 mmol/L ${ \mathrm { K } } _ { 2 } { \mathrm { S } } 0 _ { 4 }$ ,2 mmol/L $\mathrm { M g S O _ { 4 } }$ ,1 mmol/L ${ \mathrm { K H } } _ { 2 } { \mathrm { P } } \mathrm { O } _ { 4 }$ ;5 mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N 营养液配方：2.5mmol/L Ca $( \mathrm { N O } _ { 3 } ) _ { 2 }$ ,0.5 mmol/L $\mathrm { C a C l } _ { 2 }$ ,2 mmol/L ${ \mathrm { K } } _ { 2 } { \mathrm { S O } } _ { 4 }$ ,2 mmol/L $\mathrm { M g S O _ { 4 } }$ ,1 mmol/L ${ \mathrm { K H } } _ { 2 } { \mathrm { P } } \mathrm { O } _ { 4 }$ ;Fe 和微量元素与完全Hoagland营养液相同。当幼苗长出10片左右真叶后,每盆留10株，两种 $N \mathrm { O } _ { 3 } ^ { - } { \mathrm { - N } }$ 水平处理的所有幼苗均用 $2 0 0 \ \mathrm { m m o l / L \ N a C l }$ 溶液处理。NaCl浓度每天 $5 0 \ \mathrm { m m o l / L }$ 递增以避免盐冲击，达到最终浓度后，停止用0.3mmol/L 和 $5 \ \mathrm { m m o l } / \mathrm { L } \ \mathrm { N O } _ { 3 } ^ { - } { \mathrm { - N } }$ 溶液处理,改用不含有 $\mathrm { N O } _ { 3 } ^ { - }$ -N(硝态氮浓度为零)的溶液浇灌,进行氮饥饿处理，培养14d,每隔7d 进行叶绿素、 $\mathrm { N O } _ { 3 } ^ { - }$ 含量、硝酸还原酶活性、光合放氧速率的测定。饥饿第14天测定生物量（对照为一直用 $0 . 3 \ 、 5 \ \mathrm { m m o l / L }$ $\mathrm { N O } _ { 3 } ^ { - }$ -N 浇灌)。每个处理3个重复。
+
+# 1.3 测定方法
+
+# 1.3.1植株叶绿素含量的测定
+
+将相同叶位的叶片用去离子水洗净、擦干、均匀剪碎后，取样称取 $0 . 3 \mathrm { ~ g ~ }$ ,放入试管中，加入 $5 \mathrm { \ m L } 8 0 \%$ 的丙酮， $5 ~ \mathrm { m L }$ 二甲基亚矾,封口摇匀，于 $6 5 \mathrm { ^ { \circ } C }$ 浴锅内恒温提取直至叶片变白为止。冷却、过滤后用 $8 0 \%$ 的丙酮定容至 $2 5 ~ \mathrm { m L }$ ，以 $8 0 \%$ 的丙酮为空白对照分别测 $6 6 3 ~ \mathrm { n m }$ 和 $6 4 5 \ \mathrm { n m }$ 处的吸光度,每个处理3个重复。用下列公式计算叶绿素a、叶绿素 $\mathbf { b }$ 、以及总叶绿素的含量：
+
+$$
+\mathrm { \ C h l a ~ = ~ 1 2 . 7 A _ { 6 6 3 } - 2 . 6 9 A _ { 6 4 5 } }
+$$
+
+$$
+\mathrm { C h l b \ = \ 2 2 . 9 A _ { 6 4 5 } { - 5 . 6 8 A _ { 6 6 3 } } }
+$$
+
+$$
+\mathrm { C h l ( a + b ) = 8 . 0 2 A _ { 6 6 3 } + 2 0 . 2 1 A _ { 6 4 5 } }
+$$
+
+1.3.2植株叶片 $\mathrm { N O } _ { 3 } ^ { - }$ 含量及硝酸还原酶活性的测定
+
+取一定量相同叶位的植物材料剪碎混匀，称取 $0 . 3 \mathrm { ~ g ~ }$ 左右放入试管中,加入 $1 0 ~ \mathrm { m L }$ 去离子水，封口后放入沸水浴中 $3 0 ~ \mathrm { m i n }$ 后取出,冷却。将提取液过滤定容至 $2 5 ~ \mathrm { m L }$ ,吸取样品液 $0 . 1 ~ \mathrm { m L }$ 分别放入试管中,然后加入
+
+$5 \%$ 水杨酸-硫酸溶液 $0 . 4 ~ \mathrm { m L }$ ,混匀后置于室温下 $2 0 ~ \mathrm { m i n }$ ,再缓慢加入 $9 . 5 ~ \mathrm { m L } ~ 8 \%$ NaOH溶液，待冷却至室温后，以空白做参比,在 $4 1 0 ~ \mathrm { n m }$ 波长测其吸光度,计算样品中的 $\mathrm { N O } _ { 3 } ^ { - }$ 含量。取相同叶位的新鲜植物材料约0.25$\mathbf { g }$ 进行硝酸还原酶活性测定[12]。每个处理3个重复。
+
+# 1.3.3植株叶片光合放氧速率的测定
+
+采用英国 Hansatech 公司生产的Oxy-lab 系统(Chlorolab 2型液相氧电极)测定[13]。光照由冷光源提供,反应杯内光照强度为 $1 0 0 0 \ \mu \mathrm { m o l } / \mathrm { m } ^ { 2 }$ s,反应杯温度用恒温水浴控制,温度为 $( 2 2 \pm 0 . 2 ) \mathrm { { ^ { e } C } }$ 。每个处理3个重复。
+
+# 1.3.4植株地上部及根部鲜、干重的测定
+
+试验结束时,将植株地上部分与根分别收获,快速冲洗干净后吸干表面水分,放入 $1 0 5 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ }$ 的烘箱中杀青$1 5 ~ \mathrm { m i n }$ ，再以 $8 0 ^ { \circ } \mathrm { C }$ 烘至恒重,称干重并计算根冠比。每种处理3个重复。
+
+# 1.4 数据分析
+
+试验数据均为3个重复的平均值。采用Excel进行原始数据的统计和计算，数据均采用SAS统计软件进行三因素分析。
+
+# 2结果
+
+# 2.1叶片叶绿素含量
+
+$0 . 3 \mathrm { \ m m o l / L }$ 和 $5 \ \mathrm { m m o l / L \ N O _ { 3 } ^ { - } { - N } }$ 条件下,内陆生境盐地碱蓬叶绿素含量始终高于潮间带生境盐地碱蓬。无论是用 $0 . 3 \ \mathrm { m m o l / L }$ 还是 $5 \mathrm { \ m m o l { \ l } \ N L \ N O _ { 3 } ^ { - } } .$ -N 条件下,氮饥饿处理后,潮间带生境盐地碱蓬叶片中叶绿素含量下降幅度小于内陆生境盐地碱蓬。氮饥饿处理两周后,内陆生境盐地碱蓬在 $0 . 3 \mathrm { \ m m o l / L }$ 和5 mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N条件下,叶绿素a和叶绿素b分别下降 $5 9 \%$ 和 $61 \%$ ,而潮间带生境则分别下降 $47 \%$ 和 $44 \%$ （图1）。
+
+![](images/e2534de1147aebf777c2aed4d670f62165d97b2ef90aafd321b821fbc8970924.jpg)  
+图1氮饥饿对两种生境盐地碱蓬叶片叶绿素含量的影响
+
+Fig.1Eectof nitrogen starvation on thecontentsof chlorophyllin the leaves of two S.salsa populations平均值 $+ S D$ ;同一列中平均值上的字母不同表示在 $\scriptstyle P < 0 . 0 5$ 水平上差异显著
+
+# 2.2叶片硝酸根含量
+
+0.3、5 mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N 条件下,饥饿处理前后潮间带生境盐地碱蓬叶片中 $\mathrm { N O } _ { 3 } ^ { - }$ 含量均高于盐地生境盐地碱蓬。两种生境盐地碱蓬在 $5 \ \mathrm { m m o l / L \ N O _ { 3 } ^ { - } { - N } }$ 情况下氮饥饿1周后 $\mathrm { N O } _ { 3 } ^ { - }$ 含量下降明显， $0 . 3 \mathrm { \ m m o l / L \ N O _ { 3 } ^ { - } { - N } }$ 预处理情况下 $\mathrm { N O } _ { 3 } ^ { - }$ 含量则缓慢下降。处理两周后， $0 . 3 , 5 \mathrm { m m o l / L }$ （204号 $\mathrm { N O } _ { 3 } ^ { - }$ -N 处理情况下 $\mathrm { N O } _ { 3 } ^ { - }$ 含量均明显下降（图2）。
+
+# 2.3叶片硝酸还原酶活性
+
+无论是 $0 . 3 \ \mathrm { m m o l / L }$ 还是5mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N 预处理,两种生境盐地碱蓬氮饥饿处理1周后,叶片中硝酸还原酶活性都明显下降。处理两周后， $0 . 3 \ \mathrm { m m o l / L \ N O _ { 3 } ^ { - } { - N } }$ 预处理的硝酸还原酶活性下降缓慢，而 $5 \ \mathrm { m m o l } / \mathrm { L \ N O _ { 3 } ^ { - } } \mathrm { - N }$ 预处理的则明显下降。低氮情况下氮饥俄的整个过程中,潮间带生境盐地碱蓬叶片中硝酸还原酶活性始终高于内陆生境盐地碱蓬（图3）。处理两周后,0.3、5mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N 处理的 $\mathrm { N O } _ { 3 } ^ { - }$ 含量均明显下降(图2）。
+
+![](images/855c354816f369cbfb04ac27fb4ff2fa8c120cf79dba3a7e7df0780614db8419.jpg)  
+图2氮饥饿对两种生境盐地碱蓬叶片 $\mathbf { N O } _ { 3 } ^ { - }$ 含量的影响 Fig.2Effect of nitrogen starvation on $\mathbf { N O } _ { 3 } ^ { - }$ content in the leaves of two S.salsa populations
+
+![](images/57e83fa5295455354822943ec2a0aed829a27d7c79a30cbd80a8bee9985aa32c.jpg)  
+图3氮饥饿对两种生境盐地碱蓬叶片NR活性的影响 Fig.3Effect of nitrogen starvation on NR activity in the leaves of two S.salsa populations
+
+# 2.4叶片光合放氧速率
+
+无论是 $0 . 3 \ \mathrm { m m o l / L }$ 还是 $5 \mathrm { \ m m o l { / L } \ N O _ { 3 } ^ { - } { - N } }$ 预处理，氮饥饿后两种生境盐地碱蓬叶片光合放氧速率均降低。$0 . 3 \mathrm { \ m m o l { / L } \ N O _ { 3 } ^ { - } { - N } }$ 预处理后进行氮饥饿,潮间带生境盐地碱蓬叶片光合放氧速率下降幅度较内陆生境盐地碱蓬小。氮饥饿一周和两周后，潮间带生境盐地碱蓬叶片光合放氧速率分别是饥饿前的 $87 \%$ 和 $71 \%$ ，内陆生境盐地碱蓬分别是 $8 2 \%$ 和 $6 1 \%$ （图4）。
+
+# 2.5地上和根系干重及根冠比
+
+$0 . 3 \mathrm { \ m m o l / L \ N O _ { 3 } ^ { - } { - N } }$ 预处理情况下，内陆生境盐地碱蓬经氮饥饿后根系干重下降明显，而潮间带生境盐地碱蓬根系干重没有明显变化。而 $5 \ \mathrm { m m o l / L } \ \mathrm { N O } _ { 3 } ^ { - } { \mathrm { - N } }$ 预处理情况下，氮饥饿后两种生境盐地碱蓬根系干重均下降； $0 . 3 \mathrm { \ m m o l { / L } \ N O _ { 3 } ^ { - } { N } }$ 预处理情况下，两种生境盐地碱蓬经氮饥饿后地上部分没有明显变化,5mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ 1N预处理情况下,氮饥饿后两种生境盐地碱蓬地上部分干重均下降。无论是在 $0 . 3 \mathrm { \ m m o l / L }$ 还是 $5 \ \mathrm { m m o l / L }$ $\mathrm { N O } _ { 3 } ^ { - }$ -N预处理情况下,饥饿前和饥饿后潮间带生境盐地碱蓬根冠比均明显高于盐地生境的。氮饥饿对潮间带生境盐地碱蓬根冠比没有影响,0.3mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ -N 预处理后进行氮饥俄明显降低内陆生境盐地碱蓬根冠比(图5)。
+
+![](images/45f558ea5d32b04314a934f69c4577b3bde6cd42e55cb850b7ae78a483cf7110.jpg)  
+图4氮饥饿对两种生境盐地碱蓬叶片光合放氧速率的影响 Fig.4Effect of nitrogen starvation on photosynthetic oxygen evolution rate in the leaves of two S. salsa populations
+
+![](images/61dcde4fa4b6613bf1034cda8e1497e4a08226a820878de72e22ac1a560c9be9.jpg)  
+图5氮饥饿对两种生境盐地碱蓬地上部分、根系干重及根冠比的影响
+
+Fig.5Effectof nitrogen starvation on shoot and root dry weight and root/shoot ratioof two S.salsa population表1两种不同生境盐地碱蓬氮饥饿后相关生理指标关于生境、硝态氮浓度以及氮饥饿时间的三因素分析结果
+
+lable1Resultsofthree-wayANOVAofphysiologicalcharacteristicsintwoS.salsapopulationsafternitrogenstarvationineltint )opulations,concentrations of nitrate nitrogen and time course of nitrogen starvation   
+
+<html><body><table><tr><td>性状 Traits</td><td>A 生境 Populations</td><td>B 硝态氮浓度 Concentrations of nitrate nitrogen</td><td>C 氮饥饿时间 Time course of nitrogen starvation</td><td>AxB</td><td>AxC</td><td>BxC</td><td>AxBxC</td></tr><tr><td>叶绿素a含量 Chlorophyll a content</td><td>116.84 ***</td><td>306.39 ***</td><td>554.35 ***</td><td>0.02NS</td><td>14.5 ***</td><td>25.2***</td><td>3.52*</td></tr><tr><td>叶绿素b含量 Chlorophyll b content</td><td>16.12***</td><td>47.1***</td><td>61.72 ***</td><td>0.91NS</td><td>4.41*</td><td>0.79NS</td><td>0.68NS</td></tr><tr><td>叶绿素(a+b)含量 Chlorophyll（a+b）content</td><td>6.22 ***</td><td>179.11***</td><td>296.46 ***</td><td>0.21NS</td><td>10.49 **</td><td>10.14 **</td><td>2.19NS</td></tr><tr><td>硝酸根含量 NO3-content</td><td>113.38 ***</td><td>312.99 ***</td><td>371.8 ***</td><td>14.61 **</td><td>14.06***</td><td>153.43 ***</td><td>3.95 *</td></tr><tr><td>硝酸还原酶活性 NR activity</td><td>2.16NS</td><td>563.11 ***</td><td>1099.67 ***</td><td>20.80**</td><td>21.21***</td><td>470.21***</td><td>32.41***</td></tr><tr><td>光合放氧速率 Photosynthetic oxygen evolution rate</td><td>253.36***</td><td>3974.61***</td><td>1569.69 ***</td><td>1.62NS</td><td>57.77***</td><td>180.41***</td><td>0.46***</td></tr></table></body></html>
+
+\*在 $P < 0 . 0 5$ 水平上差异显著; $* *$ 在 $P < 0 . 0 1$ 水平上差异显著; $\ast \ast \ast \ast $ 在 $P < 0 . 0 0 1$ 水平上差异显著;NS 没有显著性差异;数值代表 $F$ 值
+
+# 3讨论
+
+氮素是植物必须的营养元素，而且与植物的抗盐性密切相关。基于生态环境保护与经济效益的双重要求,作物氮素吸收和利用规律的研究以及选育氮高效品种已经成为农学家们密切关注的问题[14]。自然生境中， $\mathrm { N O } _ { 3 } ^ { - }$ 是植物的主要氮源[15],同时也是影响植物自然分布的重要环境因子[16-17],与盐生植物在低氮环境下正常的生长发育有密切关系。正常情况下，当 $\mathrm { N O } _ { 3 } ^ { - }$ 的吸收超过其代谢时,多余的 $\mathrm { N O } _ { 3 } ^ { - }$ 会储存在叶片的液泡中,而当根际 $\mathrm { N O } _ { 3 } ^ { - }$ 耗竭时,液泡中储存的 $\mathrm { N O } _ { 3 } ^ { - }$ 会释放出来供植物生长需要[18]。NR 是硝酸盐同化步骤中的第一个酶,也是氮同化过程中的限速酶[19]。NR 活性对植物生长发育、产量和蛋白质合成都有重要影响[20]。NR 是一种诱导酶,硝酸盐能诱导 NR基因的表达[21]。在生物量差异不大的前提下,品种间硝酸盐的差异取决于 NR 的活性,酶活性高的品种,硝酸盐含量相对较低[2]。因此,在低氮生境中, $\mathrm { N O } _ { 3 } ^ { - }$ 和 NR是影响植物生长发育的两个重要限制因素。本试验发现,经过氮饥饿处理后,无论是 $0 . 3 \mathrm { \ m m o l / L }$ 还是 $5 \mathrm { \ m m o l { \ / L } \ N O _ { 3 } ^ { - } } { - } ]$ N预处理的两种生境盐地碱蓬叶片中 $\mathrm { N O } _ { 3 } ^ { - }$ 含量都明显降低,相应也降低了叶片中NR 活性。而且5mmol/L $\mathrm { N O } _ { 3 } ^ { - }$ 1N 预处理的尤为明显,可能与前期高氮培养时植株生物量较大,氮饥饿时 $\mathrm { N O } _ { 3 } ^ { - }$ -N 消耗更快有关。低硝态氮条件下 $( 0 . 3 \mathrm { \ m m o l / L } )$ ),潮间带生境盐地碱蓬叶片中 $\mathrm { N O } _ { 3 } ^ { - }$ 含量以及NR活性均高于内陆生境盐地碱蓬，说明潮间带生境盐地碱蓬在低氮生境中液泡能够积累较多的 $\mathrm { N O } _ { 3 } ^ { - }$ ,在外界硝态氮缺乏时能够更好地利用自身储存的$\mathrm { N O } _ { 3 } ^ { - }$ 来维持正常的氮代谢,这也可能是潮间带生境盐地碱蓬能更好适应高盐低氮环境的重要机制之一。
+
+高等植物叶片中硝态氮含量与光合作用之间具有密切的关系。植物的N代谢是一个耗能过程,需要光合作用提供的 ATP 和C 骨架[23]。硝态氮水平明显影响叶绿素的含量,例如不同氮素水平处理甜菜时,叶片中叶绿素总含量随着硝态氮水平的增加而提高[24]。阮圆等[10]发现自然生境下潮间带生境盐地碱蓬叶片中叶绿素 $^ { \mathrm { ~ a ~ } , \mathrm { { b } } }$ 的含量均低于内陆生境的叶片中的含量,本试验结果跟自然生境下的结果相似（图1,表1）。本试验发现,不同浓度 $\mathrm { N O } _ { 3 } ^ { - }$ -N 预处理的潮间带生境盐地碱蓬叶片光合放氧速率均比内陆生境盐地碱蓬低,可能与其较低的叶绿素a和叶绿素b有关[25]。低氮处理下,潮间带生境盐地碱蓬叶片中无论是叶绿素含量还光合放氧速率降低幅度均明显小于内陆生境盐地碱蓬,可能与低氮条件下潮间带生境盐地碱蓬储存较多的 $\mathrm { N O } _ { 3 } ^ { - }$ ，在氮饥饿时所储存的 $\mathrm { N O } _ { 3 } ^ { - }$ 有效再利用有关。
+
+根系大小及分布是决定根系吸氮量的重要因素。根系大小与吸氮量呈正相关,在供氮不足的条件下,发达的根系在植物充分利用土壤中的无机氮中起到重要作用[26]。内陆生境盐地碱蓬生境中硝态氮含量在1mmol/L左右,而潮间带生境盐地碱蓬土壤硝态氮含量只有内陆生境的 $1 / 3 { - } 1 / 2 ^ { [ 1 1 ] }$ 。本试验发现,无论低氮还是高氮条件下,氮饥饿处理后潮间带生境盐地碱蓬的根/冠比均明显高于内陆生境盐地碱蓬。低氮预处理后,氮饥饿后潮间带生境盐地碱蓬根冠比没有明显变化,内陆生境盐地碱蓬根冠比却下降。一方面说明潮间带生境盐地碱蓬较大的根/冠比可能与其长期适应低氮生境有关,另一方面说明在进一步的根际氮素耗竭的情况下,潮间带生境盐地碱蓬可能利用储存的较多的 $\mathrm { N O } _ { 3 } ^ { - }$ 来维持根系生长以及代谢需要,从而更好地适应低氮环境。
+
+综上所述,相比内陆生境盐地碱蓬,低氮条件下潮间带生境盐地碱蓬具有较高的 $\mathrm { N O } _ { 3 } ^ { - }$ 储存能力。在环境氮素匮乏条件下,潮间带生境盐地碱蓬具有更高的 $\mathrm { N O } _ { 3 } ^ { - }$ -N再利用能力，能更好地维持氮代谢以及光合性能。即潮间带生境盐地碱蓬能更好地适应低氮生境,这些特征可能是盐地碱蓬适应不同生境的结果。
+
+# 参考文献（References）：
+
+[1]AlbasEfoferiodrgsofallxdtstNutrition，2001，24(9)：1325-1335.  
+[2]BotellA,Marti,eves,CerEfetflityohohdroguptakebyeatsedingsJoalfantio1997,20(6):793-804.  
+[3] Marschner H. Mineral Nutrition of Higher Plants.London：Academic Press，1986.  
+[4] SongJ,DingXD,engG,ZhangFS.NutrioalandosmoticolesofntrateineuhalopheandaerophteinsalineonditiosewPhytologist，2006，171(2）:357-366.  
+[5]Ding XD,Tian CY,Zhang SR,SongJ,Zhang,FS,MiGH,Feng G.Effcts of NO $^ { 1 } { } _ { 3 }$ -N on the growth and salinity tolerance of Tamarix laxaWilld.Plant and Soil,2010,331(1)：57-67.  
+[6］Russell E W.Soil Conditions and Plant Growth.London：Longman，1973：849.  
+[7]SongJ,anH,ZhaoYY，JiaYH,DuXH,WangBS.fectofsalinityongerination，selingemergence，sedinggrowthdioaccumulationofaeuhalophyte Suaedasalsainan intertidal zoneandonsalineinland.AquaticBotany,2O08,88(4)：31-337.  
+[8］黄玮,李志刚，乔海龙，李存桢，刘小京.旱盐互作对盐地碱蓬生长及其渗透调节物质的影响.中国农业生态学报，2008，16（1)：173- 178.  
+[9]Wang BS,Lutge U,Ratajczak R.Specific regulation of SOD isoforms by NaCland osmotic stress in leaves of the $\mathrm { C } _ { 3 }$ halophyte Suaeda salsa L.Journal of Plant Physiology，2004，161(3）：285-293.  
+[10]阮圆，刘或，王宝山.不同自然盐渍生境下盐地碱蓬叶片色素积累及光合特性的研究.山东师范大学学报：自然科学版，2008，23（1)：115- 117.  
+[11]SongJ,hiG,XingS,C,FnH,WangBopsilgcalespossofteeuloteSudssatoeiteraiesfsalinity and nitrate availability.Aquatic Botany，2009,91(4)：311-317.  
+［12］李合生.植物生理生化实验原理和技术.北京：高等教育出版社，2001：125-128.  
+[13]HllDO,SurlckJMOar-ordekafHR,LegodRC,LongSPotosythesisndProductioinaChangingEit：Field and Laboratory Manual.Netherlands：Springer,1993：268-282.  
+[14]Zhang FS,Chen XP,Vitousek P.Chinese agriculture:an experiment for the world.Nature,2O13,497（7447): 3-35.  
+[15] MartinoiaE,HeckU，WiemkenA.Vacuolesasstoragecompartmentsfornitrateinbarleyleaves.Nature，981,289（5795）：292-294.  
+[16]LiuXJgY,iCZdTteactiefsfodedrgodfhalophyte.Communications in Soil Science and Plant Analysis，20O4,35(15）：2111-2123.  
+[17]TajiT,i,atoukuiT,obahi,saK,usaka,aka,ZuJK,nozakiK.aratiegciltolerancebetwenAabidosisandArabidopsis-reatedhlohtesaltesssingArabdopsisicoaaPlantPhysiolog，O，（）：1697- 1709.  
+18]Blom-ZadstraG,ampeJE.efofodedatesasottratecotetinleucepants（LctucsatiaLalfPlant Nutrition，1983,6(7)：611-628.  
+[19]CampbellrateucacecdadgostdoalevtBiology，1999,50（4)：277-303.  
+[20] 龚明，赵方杰，吴颂如，汪良驹，刘友亮.NaCl胁迫对大麦硝酸盐吸收和有关的酶活的影响.植物生理学通讯，1990，（2）：13-16.  
+[21]FlorestelledarVeee）saline stress.Canadian Journal of Botany，2004，82(2）：207-213.  
+[22］陈新平，邹春琴，刘亚萍，张福锁.菠菜不同品种累积硝酸盐能力的差异及其原因.植物营养与肥料学报，200,6(1)：30-34.  
+[23]WangMhenQR,XuGH,GuoSWNewisightitothestrategfornitrgenmetabolisinpatcllInteatioalReveofCelldMolecular Biology，2014,310：1-37.  
+[24］杜永成，王玉波，范文婷，盖志佳，于敦爽，谷维，张俐俐，马凤鸣.不同氮素水平对甜菜硝酸还原酶和亚硝酸还原酶活性的影响.植物营养与肥料学报，2012，18(3)：717-723.  
+[25］高奔，宋杰，刘金萍，隋娜，范海，王宝山.盐胁迫对不同生境盐地碱蓬光合及离子积累的影响.植物生态学报，2010,34(6)：671-677.  
+[26］米国华，陈范骏，春亮，郭亚芬，田秋英，张福锁.玉米氮高效品种的生物学特征.植物营养与肥料学报，2007,13（1)：155-159.

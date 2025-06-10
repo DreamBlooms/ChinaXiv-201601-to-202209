@@ -1,0 +1,160 @@
+葡萄糖氧化酶对断奶仔猪生长性能、血清生化指标和抗氧化功能及养分消化率的影响侯振平」蒋桂韬1,2 吴端钦」李闯²刘延杰 王郝为冀 戴求仲1,2\*
+
+（1.中国农业科学院麻类研究所，长沙 410205；2.湖南省畜牧兽医研究所，长沙 410131;3.济南诺能生物工程有限公司，济南 250003）  
+摘要：本试验旨在研究饲粮添加不同水平葡萄糖氧化酶（GOD）对断奶仔猪生长性能、血清生化指标和抗氧化功能及养分消化率的影响。试验选取28 日龄断奶仔猪150头[平均体重（ $8 . 4 1 \pm 0 . 0 6$ ）kg]，随机分为5个组，每组3个重复，每个重复10头，公母各占1/2。对照组饲喂基础饲粮,试验I组\~IV组分别饲喂基础饲粮中添加 120、180、240 和 $3 0 0 \mathrm { U / k g }$ 葡萄糖氧化酶的试验饲粮。试验期 $3 0 \mathrm { ~ d ~ }$ 。结果表明：1）与对照组相比，添加葡萄糖氧化酶对仔猪末重、平均日增重（ADG）、平均日采食量（ADFI）及料重比（F/G）无显著影响（ $P$ >0.05），试验Ⅱ组腹泻率显著降低（ $P < 0 . 0 5$ ）。2）试验IV组仔猪血清白蛋白（ALB）含量显著高于对照组 ( $\cdot P < 0 . 0 5 .$ ），试验III组和IV组血清尿素氮（UN）含量显著高于对照组（ $P$ <0.05）。3)试验ⅡI组血清超氧化物歧化酶（SOD)活性显著高于试验II组和IV组 $( P < 0 . 0 5 )$ ，试验Ⅱ组和II组血清丙二醛（MDA）含量显著性低于对照组和试验IV组（ $P < 0 . 0 5$ ）。4)试验Ⅱ组仔猪干物质消化率显著高于对照组和试验I组（ $P < 0 . 0 5$ ），试验I组、 $\mathrm { I I }$ 组和III组仔猪粗蛋白质消化率显著高于对照组（ $P < 0 . 0 5$ ），试验Ⅱ组和IⅢ组仔猪总能消化率显著高于对照组（ $\textstyle P < 0 . 0 5 .$ ）。综上，断奶仔猪饲粮中添加葡萄糖氧化酶可改善仔猪血清抗氧化功能，降低腹泻率，促进机体对蛋白质、糖和脂质代谢与消化吸收，从而提高生产性能，建议添加量为 $1 8 0 \mathrm { U / k g }$ 。  
+关键词：葡萄糖氧化酶；断奶仔猪；生长性能；血清生化指标；抗氧化功能；养分消化率中图分类号：S828  
+断奶仔猪肠道形态发育不完善，各种消化酶分泌量少，营养物质消化率低，抵抗力差，容易受食源性病菌的感染，腹泻率和死亡率均较高。目前，生产上主要采取在饲粮中添加抗生素或高剂量氧化锌来预防仔猪断奶后生长性能下降、腹泻率和死亡率升高等问题，但抗生
+
+素的添加会引起药物残留和耐药性的增加[1]，氧化锌的过量添加不但会造成仔猪消化道损伤并且会影响后期生长，而且还会造成严重的环境污染[2]。葡萄糖氧化酶（GOD）是一种还原酶，在体内可催化葡萄糖的氧化过程，生成葡萄糖酸和过氧化氢，葡萄糖酸可以调节仔猪胃肠道的pH，抑制有害菌的生长，促进有益菌的繁殖，而过氧化氢也具有杀菌的作用。葡萄糖氧化酶是国家农业部 1999 年认定的新型饲料添加剂，在动物饲料中使用越来越广泛[3-4]。研究表明，在饲粮中添加葡萄糖氧化酶可降低仔猪感染病原菌的风险，提高仔猪的生长性能及健康水平[5-7]。本试验旨在研究饲料添加葡萄糖氧化酶对 28日龄断奶仔猪生长性能、血清生化指标和抗氧化功能及养分消化率的影响，确定葡萄糖氧化酶的最佳添加剂量，为其在猪生产中应用提供理论依据和技术参数。
+
+1材料与方法
+
+1.1葡萄糖氧化酶试验用葡萄糖氧化酶为粉状固体，由济南诺能生物工程有限公司提供。
+
+# 1.2 试验动物及试验设计
+
+试验在湖南省邵阳市太阳农业发展有限公司猪场进行，选用遗传背景、批次相同，发育正常的28日龄断奶仔猪150头，公母各占1/2，采用单因子试验设计，随机分为5组，每组3 个重复，每个重复10 头。对照组饲喂基础饲粮，试验I组～IV组分别饲喂基础饲粮中添加120、180、240 和 $3 0 0 \mathrm { U / k g }$ 葡萄糖氧化酶的试验饲粮。试验期 $3 0 \mathrm { d }$ 。
+
+1.3基础饲粮组成及营养水平
+
+基础饲粮参照 NRC（2012）猪营养需要，以玉米、豆粕为基础配制，基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1 Composition and nutrient levels of the basal diet (air-dry basis） $\%$   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient Levels2)</td><td>含量Content</td></tr><tr><td>玉米 Corm</td><td>24.50</td><td>消化能 ME/(Mcal/kg)</td><td>13.81</td></tr><tr><td>膨化玉米 Extruded corn</td><td>18.00</td><td>粗蛋白质 CP</td><td>18.20</td></tr><tr><td>豆粕 Soybean meal</td><td>15.00</td><td>粗脂肪 EE</td><td>3.63</td></tr><tr><td>碎米 Broken rice</td><td>20.00</td><td>粗纤维CF</td><td>1.86</td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>6.00</td><td>钙Ca</td><td>0.73</td></tr><tr><td>鱼粉（进口）Fish meal(imported)</td><td>2.00</td><td>非植酸磷 Non-phytate phosphorus</td><td>0.38</td></tr><tr><td>豆油 Soybean oil</td><td>1.50</td><td>食盐 NaCl</td><td>0.52</td></tr><tr><td>预混料 Premix1)</td><td>7.00</td><td>赖氨酸Lys</td><td>1.28</td></tr></table></body></html>
+
+<html><body><table><tr><td>乳清粉Whey powder</td><td>3.00</td><td>蛋氨酸Met</td><td>0.41</td></tr><tr><td>大米蛋白粉 Rice gluten meal</td><td>3.00</td><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.68</td></tr><tr><td rowspan="2">合计Total</td><td>100.00</td><td>苏氨酸Thr</td><td>0.83</td></tr><tr><td></td><td>色氨酸Try</td><td>0.25</td></tr></table></body></html>
+
+1）预混料为每千克饲粮提供 The premix provided the following per kg the diet: $\mathrm { C u } 1 5 \mathrm { m g }$ ， $Z n 1 0 4 { \mathrm { ~ m g } }$ ，Fe   
+100 mg,Mn 19 mg，VA 10 000 IU，VD 1000 IU，VE 40 IU，VK $2 . 5 \mathrm { m g }$ ，VB $5 7 0 \mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic   
+acid $1 6 ~ \mathrm { m g }$ ，核黄素 riboflavin $5 \mathrm { m g }$ ，叶酸folic acid $2 \ : \mathrm { m g }$ ，烟酸niacin $2 5 ~ \mathrm { m g }$ ，硫胺素 thiamine $1 . 6 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 }$ （204号   
+$1 . 8 ~ \mathrm { m g }$ ，生物素 biotin $0 . 2 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 5 \ : \mathrm { m g }$ ，葡萄糖氧化酶GOD $1 2 0 0 \mathrm { U / g }$ 。 2）营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.4饲养管理
+
+试验仔猪在保育舍内（塑料漏缝地板栏舍）饲养，每栏10头，公母各占1/2，饲喂颗粒型饲粮，自由采食和饮水（计量但不限量）。记录舍内温度、湿度及各项试验数据，按常规免疫程序免疫接种和饲养管理。
+
+# 1.5 测定指标与方法
+
+# 1.5.1 生长性能指标
+
+试验开始和结束时对仔猪进行空腹称重；每日观察试验仔猪生长和健康状况，记录各栏  
+饲料消耗量、死亡仔猪数和死亡仔猪只重。最后计算平均日增重（ADG）、平均日采食量  
+（ADFI）和料重比（F/G）。每天上午和下午分别观察仔猪粪便和腹泻发生情况，计算腹泻率，公式如下：腹泻率 $( \% ) = 1 0 0 \times [$ 腹泻头次/（试验猪总数 $\times$ 试验天数）]。
+
+# 1.5.2 血清生化指标和抗氧化指标
+
+第30天，从各组的每个重复分别随机选取1头接近该组平均体重的仔猪(每组3头)，利用真空血清生化采血管通过前腔静脉采血，每头每次 $1 0 ~ \mathrm { m L }$ ， $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 ~ \mathrm { m i n }$ ，取上层血清，于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 下保存，备测。利用全自动生化分析仪（迈瑞，BS-408）测定血清中总蛋白（TP）、白蛋白（ALB）、尿素氮（UN）、葡萄糖（GLU）和总胆固醇（TC）含量。采用酶联免疫吸附试验（ELISA）试剂盒测定血清中超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-PX）活性及丙二醛（MDA）含量，试剂盒购自南京建成生物工程研究所。
+
+# 1.5.3 养分消化率
+
+采用收粪法测定仔猪对饲粮中养分的利用效率，在试验结束前3天，以重复为单位，将
+
+粪便收到保鲜袋中，样品保存及测定方法参照参考文献[8]。测定饲粮及粪便中干物质(DM)、粗蛋白意能GE.不溶灰分中养 $\times$ 中酸不灰含量5:2002100
+
+养分表观消化率计算公式如下：
+
+# 1.6 数据处理及统计
+
+试验数据采用SPSS21.0进行单因素方差分析（one-wayANOVA），以 $P < 0 . 0 5$ 为显著水平，差异显著者用Duncan氏法进行多重比较；试验结果用平均值和标准误表示。
+
+2结果与分析
+
+2.1葡萄糖氧化酶对断奶仔猪生长性能的影响
+
+由表2可知，与对照组相比，添加葡萄糖氧化酶对仔猪末重、ADG、ADFI和F/G无显著性影响（ $P > 0 . 0 5$ ）。试验ⅡI组腹泻率显著低于对照组（ $P < 0 . 0 5$ ），其他各组之间差异不显著( $\ P > 0 . 0 5 .$ ）。
+
+表2葡萄糖氧化酶对断奶仔猪生长性能的影响  
+Table 2Effects of GOD on growth performance of weaned piglets   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>试验I组 Test group</td><td>试验Ⅱ组 Test group</td><td>试验Ⅲ组 Test group</td><td>试验IⅣ组 Test group</td><td>标准误 SEM</td><td>P值 P- value</td></tr><tr><td></td><td></td><td>I 8.40</td><td>II 8.42</td><td>III 8.40</td><td>IV 8.42</td><td>0.18</td><td></td></tr><tr><td>始重 Initial weight/kg 末重 Final weight/kg</td><td>8.38 20.60</td><td>21.73</td><td>22.63</td><td>22.15</td><td>21.39</td><td>0.28</td><td>0.97 0.08</td></tr><tr><td>平均日增重 ADG/g</td><td>407.45</td><td>444.22</td><td>473.66</td><td>458.20</td><td>432.33</td><td>9.19</td><td>0.09</td></tr><tr><td>平均日采食量 ADFI/g</td><td>632.00</td><td>692.44</td><td>715.11</td><td>650.99</td><td>661.56</td><td>17.18</td><td>0.64</td></tr><tr><td>料重比F/G</td><td>1.56</td><td>1.56</td><td>1.51</td><td>1.42</td><td>1.53</td><td>0.03</td><td>0.66</td></tr><tr><td>腹泻率Diarrhea rate/%</td><td>4.83a</td><td>0.94ab</td><td>0.55b</td><td>0.72ab</td><td>1.00ab</td><td>1.91</td><td>0.00</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著（ $P > 0 . 0 5 \$ )，不同字母表示差异显著（ $\textstyle P < 0 . 0 5 .$ 。下表同。 In the same row, values with the same or no lettr superscripts mean no significant difference $( P > 0 . 0 5 )$ ， /hile with different small letter superscripts mean significant difference ( $P < 0 . 0 5 )$ ).The same as below.
+
+2.2葡萄糖氧化酶对断奶仔猪血清生化指标的影响
+
+由表3可知，试验组血清 TP、GLB、GLU和TC 含量均高于对照组，但差异不显著（ $P$ $> 0 . 0 5$ ）。试验IV组肉鸡血清ALB含量显著高于对照组（ $P < 0 . 0 5$ ），与其他试验组之间差异不显著（ $P > 0 . 0 5$ ）。试验IⅢI组和IV组血清中UN含量显著高于对照组（ $P < 0 . 0 5$ ），与其
+
+Table 3Effects of GOD on serum biochemical parameters of weaned piglets   
+
+<html><body><table><tr><td>项目 Items</td><td>对照组 Control group</td><td>试验I组 Test group 1</td><td>试验Ⅱ组 Test group II</td><td>试验IⅢ组 Test group III</td><td>试验IV组 Test group IV</td><td>标准误 SEM</td><td>P值 P- value</td></tr><tr><td>总蛋白TP/（g/L）</td><td>53.00</td><td>60.33</td><td>55.67</td><td>58.33</td><td>61.33</td><td>1.15</td><td>0.10</td></tr><tr><td>白蛋白 ALB/（g/L）</td><td>29.33b</td><td>36.50ab</td><td>31.50ab</td><td>31.27ab</td><td>38.13a</td><td>1.21</td><td>0.04</td></tr><tr><td>球蛋白GLB/（g/L)</td><td>23.67</td><td>23.83</td><td>24.17</td><td>27.07</td><td>23.80</td><td>1.10</td><td>0.86</td></tr><tr><td>血清蛋白系数 A/G</td><td>1.24</td><td>1.53</td><td>1.30</td><td>1.16</td><td>1.60</td><td>0.09</td><td>0.61</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>2.85b</td><td>3.42ab</td><td>3.72ab</td><td>4.69a</td><td>4.58a</td><td>0.24</td><td>0.04</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>4.31</td><td>5.39</td><td>5.65</td><td>5.11</td><td>5.27</td><td>0.24</td><td>0.09</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>2.02</td><td>2.70</td><td>2.56</td><td>2.32</td><td>2.27</td><td>0.10</td><td>0.68</td></tr></table></body></html>
+
+2.3葡萄糖氧化酶对断奶仔猪血清抗氧化功能的影响
+
+由表4可知，试验ⅡI组仔猪血清 SOD活性显著高于试验II组和IV组（ $\cdot P < 0 . 0 5 )$ ），但与对照组和试验I组之间差异不显著（ $P { > } 0 . 0 5$ ）。试验ⅡI组仔猪血清GSH $\mathbf { \cdot P x }$ 活性高于其他各组，但各组之间差异均不显著（ $\cdot P > 0 . 0 5$ ）。对照组仔猪血清 MDA 含量高于试验组，且显著高于试验Ⅱ组和II组（ $( P < 0 . 0 5$ ），但与试验I组和试验IV组之间差异不显著（ $\cdot P > 0 . 0 5 ,$ ）。
+
+表3葡萄糖氧化酶对断奶仔猪血清生化指标的影响  
+表4葡萄糖氧化酶对断奶仔猪血清抗氧化功能的影响  
+
+<html><body><table><tr><td></td><td>对照组 Control group</td><td>试验I组 1</td><td>试验Ⅱ组 Test group II</td><td>试验Ⅲ组 Test group</td><td>试验IV组</td><td>标准误</td><td>P值</td></tr><tr><td>.n</td><td></td><td>Test group</td><td></td><td>Ⅲ</td><td>Test group IV</td><td>SEM</td><td>P- value</td></tr><tr><td>超氧化物歧化酶 SOD/（U/mL）</td><td>144.14ab</td><td>124.86ab</td><td>153.91a</td><td>110.26b</td><td>92.04b</td><td>7.54</td><td>0.03</td></tr><tr><td>各胱甘肽过氧化物酶 GSH-Px/（UL）</td><td>120.13</td><td>124.05</td><td>133.83</td><td>133.32</td><td>92.99</td><td>8.44</td><td>0.66</td></tr><tr><td>丙二醛 MDA/（nmol/mL）</td><td>9.83a</td><td>7.66ab</td><td>5.86b</td><td>6.59b</td><td>9.21a</td><td>0.50</td><td>0.03</td></tr></table></body></html>
+
+104 2.4葡萄糖氧化酶对断奶仔猪养分消化率的影响
+
+由表5可知，试验Ⅱ组仔猪干物质消化率显著高于对照组和试验I组（ $P < 0 . 0 5$ ）。试验I组、ⅡI组和II组粗蛋白质消化率显著高于对照组（ $P < 0 . 0 5$ ）。试验Ⅱ组和II组总能消化率显著高于对照组（ $\cdot P < 0 . 0 5 .$ ）。
+
+Table 4Effects of GOD on serum antioxidant indexes of weaned piglets   
+表5葡萄糖氧化酶对断奶仔猪养分消化率的影响  
+Table 5Effects of GOD on nutrient digestability of weaned piglets $\%$   
+
+<html><body><table><tr><td>项目</td><td>对照组</td><td>试验I组</td><td>试验Ⅱ组</td><td>试验Ⅲ组</td><td>试验IV组</td><td>标准误</td><td>P值</td></tr><tr><td>Items</td><td>Control group</td><td>1 Test group</td><td>Test group I</td><td>Test group Ⅲ</td><td>Test group IV</td><td>SEM</td><td>P- value</td></tr></table></body></html>
+
+<html><body><table><tr><td>干物质消化率 DMdigestibility</td><td>85.45b</td><td>85.52b</td><td>86.96a</td><td>86.35ab</td><td>85.87ab</td><td>0.17</td><td>0.04</td></tr><tr><td>粗蛋白消化率 CP digestibility</td><td>85.36b</td><td>86.16a</td><td>87.34a</td><td>86.23a</td><td>85.98ab</td><td>0.27</td><td>0.03</td></tr><tr><td>总能消化率 GE digestibility</td><td>85.20b</td><td>85.64ab</td><td>86.76a</td><td>85.98a</td><td>85.58ab</td><td>0.16</td><td>0.03</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1葡萄糖氧化酶对断奶仔猪生长性能的影响
+
+葡萄糖氧化酶可以降低机体胃肠道的pH，有效抑制有害菌生长，促进有益菌生长，提高机体免疫力，改善肠道菌群平衡，维持肠道形态结构，改善动物肠道的健康水平，促进动物生长[6.9-10]。诸多关于葡萄糖氧化酶对断奶仔猪生产性能影响的研究表明，添加葡萄糖氧化酶能够显著提高仔猪 ADG，并能显著降低 F/G 和腹泻率[1-14]。本试验研究发现，添加葡萄糖氧化酶对仔猪末重、ADG、ADFI和F/G 影响差异不显著，但添加葡萄糖氧化酶有提高仔猪末重和ADG 的趋势，显著降低了仔猪腹泻率，与前人研究基本一致。这说明饲粮中添加葡萄糖氧化酶对提高仔猪 ADG、降低 F/G、促进仔猪生长、减少腹泻率等方面有较好效果。
+
+# 3.2葡萄糖氧化酶对断奶仔猪血清生化指标的影响
+
+血清中TP 和 ALB、GLB 含量反映机体蛋白质的吸收和代谢状况，血清蛋白系数（A/G)可以看出动物的健康状况[15]，当血液中 TP 和 ALB 含量升高表明机体代谢活动旺盛。血清中 GLU主要是参与糖代谢途径，其含量高低反映动物糖代谢活力大小，正常范围内含量高，说明能够促进机体糖原的合成。TC 含量反映出动物机体脂质代谢的状况，当机体对体脂分解代谢较多时，血清中其含量等可能会相对较高。血清中UN含量与机体蛋白质合成代谢和氨基酸平衡状况呈负相关，与蛋白质分解代谢呈正相关。汤海鸥等[1-17]研究发现，对照组和葡萄糖氧化酶组间仔猪血清生化指标GLU、ALB、GLB、TP 含量和 A/G 未出现显著性差异，饲粮中添加葡萄糖氧化酶能使仔猪保持良好的健康状况，但并没有显著影响动物对葡萄糖的转化吸收。杨久仙等研究发现，葡萄糖氧化酶降低仔猪血清尿素氮含量，氮存留增加、氨基酸合成蛋白质的效率提高。本试验结果表明，添加葡萄糖氧化酶可以不同程度提高血清中ALB、GLB、GLU 和 TC 含量，并且能显著提高血清 ALB 和UN含量，但各指标均在正常生理水平[18-19]，与汤海鸥等[16-7]研究结果一致。Tancin 等[20]研究发现，机体血清 TP、ALB有一定升高，可增强能量动员和体液免疫功能。说明添加葡萄糖氧化酶能够提高机体蛋白质、糖和脂质代谢，并能在一定程度上提高仔猪的生长性能和免疫力。
+
+# 3.3葡萄糖氧化酶对断奶仔猪血清抗氧化功能的影响
+
+机体内酶类氧自由基清除剂 SOD 和GSH-Px 构成酶促抗氧化体系，总抗氧化能力（T-AOC）代表体内酶性和非酶性抗氧化物的总体水平，MDA是脂质过氧化的代谢产物，间接反映氧自由基对细胞的损伤程度，当机体内自由基增多，机体组织将使内源性抗氧化剂系统活力增强，防止自由基损伤产生[21]。宋海彬[22]发现葡萄糖氧化酶不同程度地提高了肉鸡血清 SOD 活性，降低了血清 MDA含量，具有一定抗氧化和抗应激作用。本试验研究发现，饲粮添加葡萄糖氧化酶显著性提高了仔猪血清 SOD 活性，不同程度提高了血清GSH-Px活性，试验III组、IV组血清 MDA含量比对照组显著降低。这表明在热应激条件下，仔猪能够调动体内内源性酶类抗氧化系统去抵御热应激，葡萄糖氧化酶的添加能减轻热应激对仔猪的影响，降低仔猪体内自由基产生，极有效的抑制血液内MDA生成，减少机体一连串损伤，提高其抗氧化功能，与前人研究一致。
+
+# 3.4葡萄糖氧化酶对断奶仔猪养分消化率的影响
+
+养分表观代谢率是衡量饲料营养价值的重要指标。消化率受饲料本身的性质、加工饲喂方法、动物种类与年龄、测定分析方法等因素影响。葡萄糖氧化酶在胃肠道内发挥酸化剂的作用，能够激活胃蛋白酶，加快饲料中粗蛋白质的消化[7]。杨久仙等[5]、陈清华等[23]研究发现，仔猪饲粮中添加葡萄糖氧化酶可以显著提高干物质和粗蛋白质的消化率。本试验发现，饲粮中添加 $1 8 0 \mathrm { U / k g }$ 葡萄糖氧化酶能够显著提高仔猪对干物质、粗蛋白质和总能的消化率，与前人研究结果一致，说明饲粮中添加葡萄糖氧化酶能够提高仔猪对饲粮养分的消化吸收，从而提高生长性能。
+
+# 4结论
+
+在饲粮中添加葡萄糖氧化酶，能改善断奶仔猪的抗氧化功能，增强免疫力，降低断奶仔猪腹泻率，促进养分的消化吸收，从而提高仔猪生长性能。在生产中，可推广葡萄糖氧化酶作为氧化锌的替代品使用，建议添加量为 $1 8 0 \mathrm { U / k g }$
+
+参考文献：
+
+[1] 张兆顺,窦宝堂,白应利,等.抗生素饲料添加剂在畜牧业生产中过度使用的危害及对策[J].  
+陕西农业科学,2012,58(3):127-128.
+
+[2]王银东,李凯华,罗长辉,等.高锌在断奶仔猪日粮中应用的弊端与对策[J].广东饲
+
+料,2013,22(1):35-36.  
+[3]赵慧秋,赵国先,张晓云,等.葡萄糖氧化酶及其在畜牧业中的应用研究进展[J].河南畜牧兽医,2007,28(9):11-12.  
+[4]范一文,吴晓英.葡萄糖氧化酶的应用研究[J].饲料工业,2007,28(20):15-16.  
+[5] 杨久仙,张荣飞,马秋刚,等.葡萄糖氧化酶对断奶仔猪生长性能及肠道健康的影响[J].中国畜牧兽医,2011,38(6):18-21.  
+[6] 杨久仙,张荣飞,张金柱,等.葡萄糖氧化酶对仔猪胃肠道微生物区系及血液生化指标的影响[J].畜牧与兽医,2011,43(6):53-56.  
+[7]殷骥,梅宁安.日粮中添加饲用葡萄糖氧化酶对肉仔猪生长性能的影响[J].当代畜牧,2012(2):35-36.  
+[8] 张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业科技出版社,2007.  
+[9] 赵晓芳,张宏福.葡萄糖氧化酶的功能及在畜牧业中的应用[J].广东饲料,2007,16(1):34-35.[10]BANKARSB,BULEMV,SINGHALRS,etal.Glucoseoxidase-Anoverview[J].Biotechnology Advances,2009,27(4):489-501.  
+[11]肖晶.葡萄糖氧化酶对仔猪生产性能及肠道形态结构的影响[D].硕士学位论文.长沙:湖南农业大学,2014.  
+[12] 陈成.葡萄糖氧化酶对仔猪生长与腹泻的影响及替代高剂量氧化锌的研究[D].硕士学位论文.长沙:湖南农业大学,2014.  
+[13]张宏宇,程宗佳,陈轶群,等.葡萄糖氧化酶对断奶仔猪生长性能的影响[J].饲料工业,2014,35(10):14-16.  
+[14]田东霞,张玉坤,田泉成.在日粮中添加葡萄糖氧化酶和植物血凝素防治仔猪早期断奶腹泻症的试验[J].畜牧与饲料科学,2012,33(10):92-94.  
+[15] 曹渝晖,李朕杰,戴志明,等.液态饲料对超早期断奶仔猪血清生化指标的影响[J].饲料工业,2006,27(7):32-35.  
+[16] 汤海鸥,高秀华,李学军,等.葡萄糖氧化酶对仔猪生长性能、粪便菌群和血清指标的影响[J].动物营养学报,2014,26(12):3781-3786.  
+[17] 汤海鸥,高秀华,姚斌,等.葡萄糖氧化酶对肉鸭生长性能、血清指标和屠宰性能的影响及其解除黄曲霉毒素 $\mathbf { B } _ { 1 }$ 效果[J].动物营养学报,2015,27(8):2361-2367.  
+[18]李桦,杨梅梅,屈倩,等.绿茶多酚对热应激肉鸡血生化指标和抗氧化能力的影响[J].中国兽医学报,2016,36(5):801-803,813.  
+[19]李玉冰,张永东,刘明荣.臭氧消毒对动物血生化影响的研究[C]//京津冀畜牧兽医科技创新交流会暨新思想、新观点、新方法论坛论文集.保定:中国畜牧兽医学会,2008.  
+[20] TANCIN V,BROUCEK J J,HARCEK L,et al.Diffrent nutrition of calves in relation to thelevelsofthyroidhormonesandsome biochemicalindexes[J].ZivocisnaVyroba,1994,39(11) :961-971.  
+[21] SIGH R,CRESSWELL P.Defective cross-presentation of viral antigens in GILT-Free mice[J].Sicence,2010,328(5984):1394-1398.  
+[22]宋海彬.葡萄糖氧化酶对肉鸡生长的营养调控作用及机理研究[D].硕士学位论文.保定:河北农业大学,2008.  
+[23]陈清华,陈凤鸣,肖晶,等.葡萄糖氧化酶对仔猪生长性能、养分消化率及肠道微生物和形态结构的影响[J].动物营养学报 2015,27(10):3218-3224.  
+Effects of Glucose Oxidase on Growth Performance, Serum Biochemical Indexes and AntioxidantFunction, and Nutrient Digestibility of Weaned Piglets  
+HOU Zhenping’JIANG Guitao1,2 WU Duanqin’ LIChuang²LIU Yanjie³ WANGHaowei'DAI Qiuzhong1,2\*  
+(1. Institute of Bast Fiber Crops, Chinese Academy of Agricultural Sciences, Changsha410205, China; 2. Hunan Institute of Animal Science and Veterinary Medicine, Changsha 410131,China; 3.Jinan Nornoon Biological Engineering Co.Ltd., Jinan 250003, China)Abstract: This experiment was designed to studythe effects of dietary supplementation of glucoseoxidase (GOD） on growth performance, serum biochemical Indexes, serum antioxidant functionand nutrient digestibility of weaned piglets. A total of one hundred and fifty 28-day-old weanedpiglets [average body weight was $( 8 . 4 1 \pm 0 . 0 6 ) \mathrm { k g } ]$ were randomly assigned to five groups with 3replicates per group and 10 piglets (half male and half female） per replicate. Piglets in control
+
+group were fed a basal diet and those in test groups I to IV were fed the basal diet supplemented with 120,180, 240 and $3 0 0 \mathrm { U / k g }$ GOD, respectively. The experiment lasted for $3 0 \mathrm { d }$ The results as follows: 1) compared with control group, final weight ,average daily gain (ADG), average daily feed intake (ADFI) and feed to gain ratio $\mathrm { ( F / G ) }$ of piglets were not significantly changed by GOD supplementation $( P > 0 . 0 5 )$ . Diarrhea rate of piglets in test group II was significantly decreased $( P < 0 . 0 5 )$ . 2） Serum albumin (ALB) content of piglets in test group IV was significantly higher than that in control group $( P < 0 . 0 5 )$ . Serum urea nitrogen (UN) content of piglets in test groups III and $\mathrm { I V }$ was significantly higher than that in control group $( P < 0 . 0 5 )$ 3） Serum superoxide dismutase (SOD） activity of piglets in test group Il was significantly higher than that in test groups II and IV $( P < 0 . 0 5 )$ . Serum malondialdehyde (MDA) content in test groups II and IIl was significantly lower than that in control group and test group IV ( $P <$ 0.05). 4) Dry matter digestibility of piglets in test group Il was significant higher than that in control group and test group I ( $\cdot P < 0 . 0 5 )$ . Crude protein digestibility of piglets in test groupsI , I and Il was significantly higher than that in control group $( P < 0 . 0 5 )$ . Gross energy digestibility of piglets in test groups II andII was significantly higher than that in control group $( P < 0 . 0 5 )$ . The results indicate that dietary supplementation of GOD can significantly improve serum antioxidant ability, reduce diarrhea rate and promote metabolism absorption of protein，glucose and lipid of weaned piglets， finally increase production performance. The suggested supplemental level of GOD is $1 8 0 ~ \mathrm { U / k g }$ Key words: glucose oxidase； weaned piglet; growth performance； serum biochemical index;
+
+antioxidant function; nutrient digestability

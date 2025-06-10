@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "基于主题模型的Web服务聚类与发现机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李慧 胡云凤",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西安电子科技大学经济与管理学院 西安710071)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】针对网络中海量的Web服务，提出一种有效的Web服务聚类与发现方法。【方法】利用BTM学习整个Web服务描述文档集的隐含主题，通过推理得出每个文档的主题分布，并进行聚类。在此基础上，创建一个快速的Web服务发现机制。【结果】与使用LDA 和外部语料库等方法进行对比实验，本文方法的查准率和标准折损累计增益均有所提高。【局限】仅考虑服务的功能信息，未将服务的质量信息纳入算法。【结论】实验结果显示该方法可以更准确地发现符合用户需求的服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Web服务 主题模型聚类发现分类号：G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前正在步入面向服务的时代，SOA(ServiceOrientedArchitecture)架构被广泛应用，而Web服务逐渐成为实现SOA架构的主流技术。SOA架构遵循发现、绑定、执行的服务模式，Web服务由提供者发布在私有的或公共的互联网平台上，用户在海量的Web 服务中发现符合自己要求的Web服务，与之进行绑定调用，实现自己的目的。在这个过程中，用户不需要了解服务的实现方式，只需服务能够提供给用户满意的执行结果。互联网平台上发布的服务日益增多，如何从海量的Web服务中发现用户满意的服务，即从发布的Web服务描述中发现能满足用户期望的服务，是实现面向服务架构关键的一环。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Web 服务描述文本篇幅较短、特征稀疏和信息量少，根据词语的共现程度来度量相似性不可行。基于关键词发现Web服务，完全依赖词语共现程度，十分不准确。为了丰富Web 服务描述文本，一些语义Web方法被用于服务发现，例如基于语义或者本体发现Web 服务的方法[1-3]。但是，建立和维护本体十分困难,并且需要大量的人工干预[4]。此外，在面对海量的Web服务时，由于没有有效的分类机制，很难快速有效地发现Web服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对上述问题，本文提出一种利用BTM(BitermTopicModel)[5]的Web聚类与发现方法。BTM对整个语料库的词对生成过程建模，从而学习整个语料库的主题分布和主题-词分布，结合向量空间计算词的TF-IDF值，可以推理得到每篇Web服务描述的主题分布，进而对其聚类。Web服务发现过程为：获取请求服务的类别；对该类别下的服务进行基于主题相似度的过滤，大大缩小检索范围；计算请求服务与Web服务之间的词向量相似度，结合主题相似度和词向量相似度，找到满足用户需求的服务集合。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对Web服务发现的研究，大量的工作投人在利用本体、词典发现的方法[1-2.6-8]中。文献[2]运用领域本体提出一种Web服务发现方法，该方法通过本体中的概念距离计算服务请求和发布的服务之间的语义相似度。文献[9]对Web服务进行语义标注，帮助发现Web服务。但是这类方法需要大量的人工干预，依赖于本体的好坏及维护工作，词库在某些领域的词汇量不足和更新较慢也可能导致发现结果不准确。并且，此类方法前提要求服务发布方或请求方要提供相关的领域本体，而通常情况下，服务请求方是非专业用户，不能提供专业的本体，因此，该类方法的效率和通用性受到限制。此外，上述Web服务发现方法，由于没有有效的分类机制，在面对海量的Web服务时，不能实现实时匹配，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "聚类是一个有效处理大量数据的方法，根据某一相似性标准重新组织数据，将数据分为不同的簇，能够实现快速的信息检索。Abramowicz 等提出一种Web 服务过滤和聚簇的方法，但是过滤机制是基于OWL-S(Web Ontology Language for Service)描述的Web 服务。依然存在依赖本体的缺陷。可获得的Web服务，大多都用WSDL(WebServiceDescribeLanguage)描述，也有很多利用WSDL对Web 服务分类。Nayak等[10]将Web 服务描述转化到多维词向量空间，利用两个向量之间夹角的余弦，计算两个服务之间的距离，对服务进行聚簇。这是一种基于数理统计的分类方法，可归一化处理大规模的文本集，但忽略了描述文本词项之间的语义关系，并且消耗的运行时间和存储空间随着文本集规模的增加而增加。Cassar等[11]研究利用 PLSA(Probability Latent SemanticAnalysis)和LDA (LatentDirichlet Allocation)挖掘 Web服务描述的主题用于聚类，实验结果显示，LDA模型在大规模服务集中，帮助自动服务发现的效果较好。LDA由PLSA发展而来，Blei等[12]引人Dirichlet先验分布扩展PLSA 模型，提出LDA 模型，通过发现隐含主题，可以处理大量的文本数据，进而对其进行分类。Aznag 等[13]在对 Web 服务描述文档进行预处理(特征提取、分词、去除停用词和词干还原等)后，利用CTM(CorrelatedTopic Model)学习Web 服务和服务请求的隐含主题，对其进行分类，匹配提供的服务与请求服务的相似性，得到最终候选Web 服务集。该方法存在以下不足：Web 服务描述文本通常较短，类似于短文本，但该方法并没有对服务文本进行扩充，缺少足够的词频共现；仅用Web服务库作为训练集，规模较小，难以获得高质量的主题模型，以上两点导致很难学习出Web服务的真实隐含主题。另外，仅仅将Web服务归入其主题分布最大的那一类主题，分类不够精确。Aznag 等[13]使用的主题模型CTM，由 Blei等[14提出,该模型引入对数正态分布取代LDA中的狄利克雷分布，CTM模型先验参数中包含一个协方差矩阵，描述每对主题之间的相关性，协方差矩阵中参数的数量与主题数量的平方成正比。魏强等[15]使用Word2vec 和Relatedness文本扩充方法，从Wikipedia中提取特征扩充Web服务描述文本，并以英文Wikipedia作为训练集，利用 HDP 非参数主题模型进行主题建模，提出Signature方法进行服务匹配，在一定程度上改进了服务发现效果，但是其服务匹配阶段，计算输入输出相似度时，采用精确匹配、嵌入匹配、包含匹配、交叉匹配和失败匹配5种类型，对概念相似度的区分太过简单，不适用于服务数量庞大的情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用外部知识库，对短文本进行特征扩充是一种较常见的方法，但恰当适合的外部资料库不容易找到。而Web服务涉及很多方面，很难找到恰当适合的外部资料库，文献[15]使用Wikipedia作为外部资料库和主题模型训练集，Wikipedia作为一种综合性的文本库，用做特征补充和主题模型训练，并不准确。Web服务并不包含所有行业，在某些领域使用较为频繁，Web服务数量也较多；但在另一些领域，则没有或很少有Web服务的使用。如果Web服务不存在或数量极少，综合性的外部资料库包含太多的关联信息，反而会使精确度下降。文献[16]发现在短文本分类时，使用一个外部知识库会使建模精确度下降。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出使用BTM对Web服务描述文本进行建模，BTM对整个语料库无序词对的生成过程建模，利用整个库的全部词频共现信息学习出隐含主题，解决了短文本因稀疏性而导致学习出的主题不准确的缺点。由于BTM学习出的是整个Web服务库的主题分布和主题-词分布，提出一种推理方法计算得出每个Web 服务描述文档的主题分布。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3基于BTM的Web服务聚类与发现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于主题模型的Web服务聚类与发现框架如图1所示。Web服务库的预处理结果作为BTM建模的输入，建模的输出为整个库的主题分布和主题-词分布，结合预处理得到的VSM(Vector Space Model)，推理计算出每个文档的主题分布作为聚类的输入。当有服务请求时，预处理得到请求r的词向量，此时，前面计算得到的整个库的主题分布和词分布不变，不需重新建模计算，直接利用其推理计算出请求r的主题分布并进行分类。得到r的类别后，计算主题相似度和词向量相似度得到用户满意的Web服务。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/18f01c28c0182b22d8fd52a4ee9ec4c054fe59da38ac8b9c1a382cc1d91149b5.jpg",
+        "img_caption": [
+            "图1服务发现框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "每一个Web 服务都有一个使用WSDL描述的文档,WSDL是一套基于XML的Web 服务描述框架，经W3C对其进行标准化，有1.1和2.0两个版本，2.0版本更为简单和实用。目前，1.1版本使用较为广泛，但未来2.0版本可能会逐渐取代1.1版本。对使用WSDL(1.1版本和2.0版本)描述的服务文本数据预处理主要包含以下步骤:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）特征抽取。从WSDL中抽取描述Web服务的全部特征，包括服务名称、服务功能文本描述、操作名称、输入/输出参数名称和参数类型等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）分词。提取出的文本中，有一些术语由几个单词组成，称为复合词，需要进行拆分。例如\"BusinessDataCatalog\"，将其拆分为\"Business”，“Data\"和\"Catalog”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3）去除标签和停用词。去除Web服务描述文本中的标签和停用词，以免在建模过程中影响准确度,利用StandfordPOSTagger去除全部的标签和停用词,只有词性为名词、动词或形容词的会被留下来，去除的停用词，例如\"a\"，\"is\"和\"that\"等，去除的标签，例如“soap”,\"type\"和\"binding\"等WSDL标签。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)词干还原。拥有相同词干的单词通常具有相同的意思，例如\"recommended\"只是\"recommend\"的过去式，利用PorterStemmer对单词进行词干还原，使用词源形式的单词向量表示Web服务，更能有效地发现相关性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）词对抽取。BTM与LDA 直接建模在文档的词共现频率上不同，BTM是基于整个语料库的词对共现率建模。初始短文本\"BusinessData search forusers\",在经过抽取、分词、去除标签停用词和词干还原后，抽取出 的 词 对 {(business,data),(business,search),(business,user),(data, search), $\\langle \\cdots \\rangle$ ，将整个库的词对作为BTM模型训练的输入。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)服务矩阵。抽取全部有用词后，计算词的TF-IDF 值，利用VSM(Vector Space Model)表示全部Web服务成为一个向量空间，将每一个Web服务表示为一个词向量, $\\mathbf { s } _ { \\mathrm { i } } = \\{ \\mathbf { w } _ { \\mathrm { i } 1 } , \\mathbf { w } _ { \\mathrm { i } 2 } , \\cdots , \\mathbf { w } _ { \\mathrm { i n } } \\}$ 。其中每一个词的权重值由 TF-IDF算出, $\\mathrm { w _ { i j } = t f _ { i j } \\times i d f _ { j } }$ ,其中tfij为文档i中词j出现的频率,idf为逆向文本频率，总文档数除以包含词语j的文档数的对数得到，一个词在文档中出现的频率越高，在其他文档中出现的频率低，则这个词有较高的重要性，权重值较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 BTM模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BTM通过统计整个语料库的词共现来建模学习隐含主题，不同于LDA是对单个文档中的词的生成过程建模，单个短文本缺乏足够的词频共现,LDA建模结果并不稳定，BTM对整个语料库的词对的生成过程建模，整个语料库的词对的频率更稳定，也更能揭示出词之间的关系，学习出整个库的隐含主题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41c34d332be8e2faf2af7813ffec276b41d6ac31232dea3ee65ff11d943a3b11.jpg",
+        "img_caption": [
+            "图2概率模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LDA 建模一个文档的生成过程如图2(a)所示：针对每一个文档随机生成一个主题分布 $\\theta _ { \\mathrm { d } } .$ ，从 $\\mathrm { . \\theta _ { d } }$ 中取样生成第i个词的主题 $z$ ，从 $z$ 中再一步步采样生成词 $\\mathbf { w }$ O可以看出，每一篇拥有一个主题分布，词的主题估计取决于同篇文档中其他单词。一元混合模型文档中所有的单词共享同一个主题 $z$ 而 $z$ 从全局主题分布0中产生，假设整个语料库看作是主题的混合，从整个语料库统计信息，避免了短文本信息稀疏的问题，但是，一元混合模型假设一个文档仅有一个主题，并不符合实际情况，导致不能学习出好的主题。BTM可以看做是一元模型和LDA的结合，如图2(b)所示,BTM假设一个全局的主题分布0，但是其将每篇文档分割成词对，每对词对属于一个主题，BTM允许一个文档有多个主题，即避免了一元混合模型的限制，又解决了LDA无法在短文本建模取得良好效果的问题。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3 Web服务聚类",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "BTM建模得出两个主要的参数，0为Web服务集的主题分布，是一个K维的向量,K为整个服务集的主题数目； $\\Phi$ 是主题-词分布矩阵,K行N列，每一行是一个主题Z下的不同词的生成概率。由于BTM并未对每个文档的生成过程建模，所以不能直接得到每个文档的主题分布。可以通过0和 $\\Phi$ 推理计算得到，提出计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P } ( \\mathrm { z } _ { \\mathrm { j } } \\mid \\mathrm { d } ) = \\sum \\mathrm { v P } ( \\mathrm { z } _ { \\mathrm { j } } \\mid \\mathrm { w } _ { \\mathrm { i } } ) \\times \\mathrm { P } ( \\mathrm { w } _ { \\mathrm { i } } \\mid \\mathrm { d } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { P ( w _ { i } \\mid d ) }$ 为 3.1 节中第(6)步计算得出的TF-IDF值。 $\\mathrm { { P } ( z _ { j } \\mid w _ { i } ) }$ 可以应用贝叶斯公式计算得出,计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P } ( \\mathrm { z } _ { \\mathrm { j } } \\mid \\mathrm { w } _ { \\mathrm { i } } ) = \\frac { \\mathrm { P } ( \\mathrm { z } _ { \\mathrm { j } } ) \\mathrm { P } ( \\mathrm { w } _ { \\mathrm { i } } \\mid \\mathrm { z } _ { \\mathrm { j } } ) } { \\sum \\mathrm { _ { K } \\mathrm { P } ( \\mathrm { z } _ { \\mathrm { j } } ) \\mathrm { P } ( \\mathrm { w } _ { \\mathrm { i } } \\mid \\mathrm { z } _ { \\mathrm { j } } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { P ( z _ { j } ) }$ 为主题分布0中的主题j的概率，$\\mathrm { P } ( \\mathrm { w } _ { \\mathrm { i } } \\mid z _ { \\mathrm { j } } )$ 为主题-词分布 $\\Phi$ 中，主题j下第i个词的概率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "得到文档的主题分布后，可以将不含语义信息的文档词向量表示形式转化为包含语义信息的主题向量表示， $\\mathbf { \\mathrm { s } } _ { \\mathrm { i } } = \\{ \\mathrm { P } ( \\mathbf { \\mathrm { z } } _ { 1 } \\mid \\mathbf { \\mathrm { d } } _ { \\mathrm { i } } ) , \\mathrm { P } ( \\mathbf { \\mathrm { z } } _ { 2 } \\mid \\mathbf { \\mathrm { d } } _ { \\mathrm { i } } ) , \\cdots , \\mathrm { P } ( \\mathbf { \\mathrm { z } } _ { \\mathrm { n } } \\mid \\mathbf { \\mathrm { d } } _ { \\mathrm { i } } ) \\}$ 。文本的主题向量表示形式，向量的每一项都是主题的概率,因此，文本相似度可以用KL 散度(Kullback-LeiblerDivergence)[17]计算，计算公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { D } _ { K L } ( p , q ) = \\sum _ { i } p _ { i } \\ln \\frac { p _ { i } } { q _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但是由于KL 距离具有不对称性，即DKL(Si,Sj)≠DKL(sj,Si）。因此，使用KL 距离的改进对称版本JS 距离(Jensen-Shannon Divergence)[18]，其计算公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m } _ { \\mathrm { T } } ( \\mathrm { s } _ { \\mathrm { i } } , \\mathrm { s } _ { \\mathrm { j } } ) = \\mathrm { D } _ { \\mathrm { J S } } ( \\mathrm { s } _ { \\mathrm { i } } , \\mathrm { s } _ { \\mathrm { j } } ) = \\frac { 1 } { 2 } \\left[ \\mathrm { D } _ { \\mathrm { K L } } \\left( \\mathrm { s } _ { \\mathrm { i } } , \\frac { \\mathrm { s } _ { \\mathrm { i } } + \\mathrm { s } _ { \\mathrm { j } } } { 2 } \\right) + \\mathrm { D } _ { \\mathrm { K L } } \\left( \\mathrm { s } _ { \\mathrm { j } } , \\frac { \\mathrm { s } _ { \\mathrm { i } } + \\mathrm { s } _ { \\mathrm { j } } } { 2 } \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将计算得出的Web服务描述文档相似性作为聚类算法的输入。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4 Web服务发现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "服务匹配是指在大量的服务中，能快速准确地查找到符合用户需求的候选服务。当输入一个服务请求时，对其进行数据预处理，通过主题分布和主题-词分布矩阵计算得出请求服务的主题分布，计算请求服务与各个聚簇中心服务的JS距离，将其归入距离最近的一类，即锁定了与服务请求类别相同的服务子集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于服务数量巨大，为了节约匹配时间，在得到类别相同的服务子集后，对子集中的Web服务基于主题进行过滤，利用JS距离计算服务请求的主题与子集中服务主题的相似度 $\\mathrm { S i m } _ { \\mathrm { T } } ( \\mathrm { r } , \\ \\mathrm { s } ) .$ 。设定一个阈值，当相似度大于阀值时，将此服务加入候选服务集。计算候选服务集中的Web服务与服务请求的词向量相似度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Web服务词向量表示在3.1节中叙述,Web服务与请求的词向量的相似度计算使用余弦距离，余弦距离是向量空间相似度计算最常用的一种计算方法。计算向量空间中两个向量的夹角，夹角越小，则相似度越大。余弦距离计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m } _ { \\mathrm { W } } ( \\mathrm { r } , \\mathrm { s } ) { = } \\frac { \\displaystyle \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } \\mathrm { w } _ { \\mathrm { r i } } \\times \\mathrm { w } _ { \\mathrm { s i } } } { \\displaystyle \\sqrt { \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } ( \\mathrm { w } _ { \\mathrm { r i } } ) ^ { 2 } } \\sqrt { \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { n } } ( \\mathrm { w } _ { \\mathrm { s i } } ) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "计算主题相似度，可以得出服务间语义维度上的相似度，而词向量相似度一定程度上反映了服务间统计层面的相似度。因此，将计算得出的主题相似度和词向量相似度结合得出总的相似度，即最终得出Web服务与请求服务的相似度如下所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S i m } ( \\mathrm { r } , \\mathrm { s } ) = \\alpha \\mathrm { S i m } _ { \\mathrm { W } } ( \\mathrm { r } , \\mathrm { s } ) + ( 1 - \\alpha ) \\mathrm { S i m } _ { \\mathrm { T } } ( \\mathrm { r } , \\mathrm { s } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\alpha$ 为Web服务词向量相似度的权重, $0 { < a < } 1$ ○",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4实验结果及分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为对本文提出的方法进行验证，本实验采用WS-Dream[19提供的数据集，该数据集包含来自69 个国家的3378个WSDL文件,15811个操作。本文利用Weka中的KNN算法[20]对Web 服务进行聚类。使用查准率和标准折损累计增益进行效果评估。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "查准率(Precision)是一种衡量检索出的全部结果中，有用的结果比率有多大，即检索出的相关的Web服务数量与检索出的全部Web服务数量之比，公式如下:",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "查准率不考虑发现结果的位置信息，仅能说明发现结果总体的质量高低。而折损累计增益(DiscountedCumulativeGain，DCG)统计方法对检索返回的每一个结果进行相关性等级排序，相关性高的结果排序越靠前越好；高相关性结果要比低相关性结果的贡献大很多。其公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D C G } _ { \\mathrm { n } } = \\sum _ { \\mathrm { i } = 1 } ^ { \\mathrm { n } } \\frac { 2 ^ { \\mathrm { r e l } _ { \\mathrm { i } } } - 1 } { \\log _ { 2 } ( 1 + \\mathrm { i } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中，reli是发现结果中排在第i位的结果的相关性等级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同发现方法发现的结果内容和数量不同，为了能对不同发现方法进行对比，可以使用标准折损累计增益(Normalize Discounted Cumulative Gain,NDCG)。其公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { N D C G } _ { n } = \\frac { D C G _ { n } } { I D C G _ { n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\mathrm { I D C G } _ { \\mathrm { n } }$ 是发现结果最优排序时，计算出的$\\mathrm { \\Delta D C G _ { n } }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验中对三种主题学习方法用于服务发现的效果进行对比，一种是BTM，一种是LDA，另一种是以Wikipedia作为外部知识库，用LDA挖掘主题的方法。在Java 坏境下，利用JDK、Eclipse 和JGibbLDA等工具，针对本文数据集的规模，设置20-100个主题数，不断调整主题数的大小，进行迭代，计算不同主题数对应的聚类结果的F值(F-measure)，得出在本文数据集中，BTM、LDA和LDA+Wiki分别在48、55和71个主题数时达到聚类效果最优。表1列举PAM聚类中的一些主题，以及相应主题中排序靠前的部分关键词。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9cd5189583e5b9ec1fc99af810bd8023ca6d594c7af328c350b64d491e6ceafb.jpg",
+        "table_caption": [
+            "表1部分主题-词分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主题</td><td colspan=\"6\">词及其相应概率</td></tr><tr><td rowspan=\"2\">主题1</td><td>cinema</td><td>price</td><td>version</td><td>parameter</td><td>retrieve</td><td>show</td></tr><tr><td>0.048368</td><td>0.034546</td><td>0.030127</td><td>0.0187934</td><td>0.009832</td><td>0.007656</td></tr><tr><td rowspan=\"2\">主题2</td><td>get</td><td>service</td><td>time</td><td>result</td><td>city</td><td>hour</td></tr><tr><td>0.018766</td><td>0.01236</td><td>0.011016</td><td>0.009994</td><td>0.00875</td><td>0.008847</td></tr><tr><td rowspan=\"2\">主题3</td><td>route</td><td>location</td><td>city</td><td>weather</td><td>tourist</td><td>airplane</td></tr><tr><td>0.02820</td><td>0.02348</td><td>0.020753</td><td>0.016753</td><td>0.014579</td><td>0.012782</td></tr><tr><td rowspan=\"2\">主题4</td><td>music</td><td>album</td><td>song</td><td>release</td><td>rock</td><td></td></tr><tr><td>0.039748</td><td>0.018364</td><td>0.016545</td><td>0.018769</td><td>0.013831</td><td>band</td></tr><tr><td rowspan=\"2\">主题5</td><td>country</td><td>british</td><td>budget</td><td>welfare</td><td>culture</td><td>0.010342</td></tr><tr><td>0.027491</td><td>0.018970</td><td>0.017239</td><td>0.097230</td><td>0.08371</td><td>party 0.052797</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "主题的词分布，能够很好地表现出每个主题的语义信息，主题1、2、3、4和5分别是相机、时间、旅游、音乐和国家信息，利用这些主题可以将多维的词向量降维到较低的主题向量，且具有语义信息和代表性，能够表示一个文档的特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本次实验中，随机选取12个查询条件，每个查询条件的相关服务集由一组相关服务组成，每个相关服务有一个相关等级，相关性等级 ${ \\mathrm { r e l } } _ { \\mathrm { i } } \\in \\{ 1 , 2 , 3 \\}$ ，3表示高相关度，1表示低相关度。发现结果与相关服务集进行对比，可以得到发现的相关服务数量和各个相关服务的相关性等级，从而计算出查准率和NDCG。与经过预处理后，直接使用LDA建模学习隐含主题并聚类发现Web 服务，和经过基于Wikipedia扩充，再使用LDA建模的方法进行对比，结果如图3和图4所示。本文的方法用BTM表示，仅仅使用LDA建模的方法用LDA表示，经过扩充的方法用 $\\mathrm { L D A ^ { + } W i k i }$ 表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/39994dec9a13eb2314402bb24daa1bdbc52dbf0ba39ccd0f93ae5ea5a76d9661.jpg",
+        "img_caption": [
+            "图3服务发现查准率对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e1cba376209642376b01117b42a7b9c6839b5150f6b40376112193437065cfe.jpg",
+        "img_caption": [
+            "图4服务发现NDCG对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "关于查准率的对比如图3所示，LDA和 $\\mathrm { \\ L D A ^ { + } }$ Wiki在检索服务数量分别大约为10和25的地方发生交叉，但总体上LDA要比LDA+Wiki更优一些。BTM在整体上比另两种方法的查准率高一些，尤其当检索服务数量越多的时候，图中数量最大达到50时，BTM与LDA、 $\\mathrm { L D A ^ { + } W i k i }$ 的差异达到最大，比LDA的查准率高 $0 . 7 \\%$ 。NDCG反映了发现相关结果的能力，如图4所示，BTM优于LDA和 $\\mathrm { L D A ^ { + } W i k i }$ ，大约比LDA高了 $0 . 1 \\% - 0 . 8 \\%$ ，在服务数量最少为5时，高 $0 . 1 \\%$ ，当服务数量达到30时，比LDA高 $0 . 8 \\%$ 。以上说明LDA和 $\\mathrm { L D A ^ { + } W i k i }$ 由于查准率不高，错失了一些高相关性的Web服务。总体上，本文的发现方法更加符合Web服务描述文档的特点，能够帮助更好地发现Web服务，无论是查准率或标准折损累计增益，效能都更优。BTM在整个Web服务描述库基础上全局建模，充分利用整个库的语义信息学习隐含主题，弥补了Web 描述文本较短、缺乏词频共现和语义稀疏的特点。而LDA在文档层建模，很容易受到文档长度的影响，导致其学习出的主题不准确，不能够很好地表达语义信息，Web服务发现的效果也不如BTM。针对文本长度较短，利用Wikipedia进行扩充，基于扩充后的文本词向量使用LDA进行建模，其服务发现的效果甚至不如直接使用LDA进行建模，一方面由于外部资料库没有全部包含Web服务描述文档集的隐含主题；另一方面综合性的外部资料库拥有太多关联关系，包含各行各业的专有名词和过于丰富的词语，导致发现的查准率下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "可获得的Web服务数量与日俱增，为了在海量的Web服务中快速有效地发现符合用户需求的服务，需要将功能类似的Web 服务进行聚类。而Web 服务描述文档较短，去除标签和停用词后，所剩的特征词并不多，利用LDA 学习隐含主题,进而进行聚类，由于LDA对文档的生成过程建模，严重依赖于文本的长度，所以利用LDA对Web服务的聚类效果并不理想不能很好地帮助服务发现。针对此问题，利用BTM学习Web服务文档集的隐含主题，推理出每个文档的主题分布，利用JS 距离计算出各个文档之间的相似度，作为KNN算法的输入，对Web服务进行聚类。在Web服务发现阶段，综合主题相似度和词相似度发现Web服务。本文的发现方法充分利用整个Web服务库的语义资源，学习出较为准确的隐含主题，不需借助外部知识库，减少了外部知识库因相关关系太多等原因带来的噪声信息。推理出各个描述文档的主题并进行聚类，对服务请求进行类别识别，大大缩小了查询范围，提高了查询效率。实验表明，本文提出的Web服务发现方法在准确性上具有一定的优越性。但是，该方法仅仅考虑Web服务的功能，没有将服务质量纳入计量范围，Web服务真正的执行率不能保证。下一步的工作主要对服务质量进行计算，将服务价格、可靠性和响应时间等与服务发现结合，为用户提供更加可靠的服务。另外，如何对每个Web服务进行标签标注，使用户在选择服务时能够一目了然，选择符合要求的服务进行仔细研读，也是未来的一个方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Farrag T A,Saleh AI,Ali H A. Semantic Web Services Matchmaking: Semantic Distance-based Approach [J].Computer and Electrical Engineering,2013,39(2):497-511.   \n[2]Lu G, Wang T,Zhang G, et al. Semantic Web Services Discovery Based on Domain Ontology [C]. In: Proceedings of the 2012 World Automation Congress (WAC).2012:1-4.   \n[3] 石敏，赵文栋，张磊．一种基于本体划分的语义Web 服务 发现算法[J].计算机工程,2014,40(2):175-179.(Shi Min, Zhao Wendong，Zhang Lei.A Semantic Web Service Discovery Algorithm Based on Ontology Partition [J]. Computer Engineering,2014,40(2):175-179.)   \n[4] Atkinson C,Bostan P,Hummel O,et al.APractical Approach to Web Service Discovery and Retrieval[C].In:Proceedings of the 2oo7 IEEE International Conference on Web Service. 2007: 241-248.   \n[5] Yan X,Guo J,Lan Y,et al．ABiterm Topic Model for Short Texts [C].In:Proceedings of the 22nd International World Wide Web Conferences.2013:1445-1456.   \n[6] Qu M,Liu S,Bao T.On the Trusted Ontology Model for Evaluating the Semantic Web Services[C]. In: Proceedings of the l4th International Conference on Computer Supported Cooperative Work in Design.2010:368-369.   \n[7] Kopecky J,Vitvar T,Bournez C,etal.Semantic Annotations for WSDL and XML Schema [J].IEEE Internet Computing, 2007,11(6): 60-67.   \n[8] 杨惠荣，刘珊珊，尹宝才，等．基于语义距离的 Web 服务 匹配算法[J]．北京工业大学学报，2011，37(4)：591-595. (Yang Huirong,Liu Shanshan,Yin Baocai,et al. Matching Algorithm of Services Based on Semantic Distance [J]. Journal of Beijing University of Technology，2011,37(4): 591-595.)   \n[9]Abramowicz W, Haniewicz K, Kaczmarek M,et al. Architecture for Web Services Filtering and Clustering [C]. In:Proceedings of the 2nd International Conference on Internet and Web Applications and Services.2007.   \n[10] Nayak R,Lee B.Web Service Discovery with Additional Semantics and Clustering [C]. In: Proceedings of the 2007 IEEE/WIC/ACMInternationalConferenceonWeb Intelligence. 2007: 555-558.   \n[11]Cassar G, Barnaghi P,Moessner K.Probabilistic Methods for Service Clustering [J]. In: Proceeding of the 4th International Workshop on Service Matchmaking & Resource Retrieval. 2010.   \n[12]Blei D M,Ng A Y, Jordan MI. Latent DirichletAllocation[J]. Journal of Machine Learning Research,2003,3: 993-1022.   \n[13] Aznag M, Quafafou M,Rochd E M,et al. Probabilistic Topic Models for Web Services Clustering and Discovery[A]. // Service-Oriented and Cloud Computing[M]. Springer-Verlag Berlin Heidelberg,2013.   \n[14]Blei D M,Lafferty J D.Correlated Topic Models[C].In: Proceedings of the 23rd International Conference on Machine Learning. 2005.   \n[15]魏强，金芝，许焱．基于概率主题模型的物联网服务发现 [J]．软件学报,2014,25(8):1640-1658.(Wei Qiang,Jin Zhi, Xu Yan. Service Discovery for Internet of Things Based on Probabilistic Topic Model [J]. Journal of Software,2014, 25(8): 1640-1658.)   \n[16] Zhu Y,Li L,Luo L.Learning to Classify Short Text with Topic Model and External Knowledge[A].//Knowledge Science,Engineering and Management[M]. Springer Berlin Heidelberg,2013.   \n[17] Duda RO,Hart PE,Stork DG.模式分类[M].李宏东，姚 天翔等译．第2版．机械工业出版社,2003.(DudaRO,Hart P E,Stork DG. Pattern Classification [M]. Translated by Li Hongdong，Yao Tianxiang，et al．The 2nd Edition.China Machine Press,2003.)   \n[18] Lin J. Divergence Measures Based on the Shannon Entropy [J].IEEE Transactions on Information Theory,1991,37(1): 145-151.   \n[19] Zhang YL, Zheng ZB,Lyu MR.AQoS-aware Search Engine for Web Services [C]. In: Proceedings of the 8th International Conference on Web Services.Miami,Florida, USA.2010.   \n[20] Cover TM, Hart PE.Nearest Neighbor Pattern Classfication[J]. IEEE Transactions on Information Theory,1967,13(1): 21-27. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "李慧：提出研究思路和实验过程，修改论文;  \n胡云凤：提出具体方案，完成实验，撰写论文。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:1540520650@qq.com。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]李慧,胡云凤.wsdldataset.rar.由WS-Dream提供的Web 服务数据.  \n[2]李慧，胡云凤．stopwords.dat.在数据堂下载的原始停用词表基础上，加入WSDL标签等停用词.  \n[3]李慧，胡云凤.pre-result.dat.经预处理后的Web 服务.  \n[4]李慧，胡云凤.topic.txt.建模得到主题-词分布.  \n[5]李慧，胡云凤.simT.dat.Web 服务相似度矩阵.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-12-22  \n收修改稿日期:2016-02-03",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Clustering and Discovering Web Services with Topic Model ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Li HuiHu Yunfeng (School of Economics and Management, Xidian University, Xi'an 71oo71, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] We propose an efective method to cluster and discover the needed Web services.[Methods] First, we employed the Biterm Topic Model to learn the latent topics ofthe Web service description corpus.Second, we retrievedand clustered each document's topic distribution.Finally,we created a mechanism to discover Web service quickly. [Results]The proposed method achieved beter precision rate and normalized discounted cumulative gain than methods using Latent Dirichlet Allocation and external corpus.[Limitations] Only considered functions of the Web services,and did not include the quality factors to the algorithm.[Conclusions]The proposed method could identify the needed services more accurately. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Web serviceTopic model ClusteringDiscovery ",
+        "page_idx": 7
+    }
+]

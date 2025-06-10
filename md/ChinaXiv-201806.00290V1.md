@@ -1,0 +1,156 @@
+# 丽江2.4米望远镜多波段测光观测控制系统的设计与开发
+
+陈林勰1,2.3，王传军1,2.3，范玉峰1.3，丁旭1,3，王德清1,2,3(1.中国科学院云南天文台，云南 昆明 650011；2.中国科学院大学，北京 100049；3.中国科学院天体结构与演化重点实验室，云南 昆明 650011)
+
+摘要：丽江2.4米望远镜在卡塞格林焦点上安装有多个观测设备，为了最大限度地提高望远镜的观测效率,需要实现对各终端控制系统的集成控制。原有的多波段测光系统(PICCD)的控制程序不具备集成化的条件，需要对其进行集成化开发以满足要求。借鉴YFOSC和望远镜的控制系统，在Linux系统下对PICCD的控制系统进行重新开发，设计并完成了3个主要部分：观测控制程序、设备控制程序和设备数据库，成功实现了PICCD与YFOSC、望远镜统一的控制模式，使其具备与其它设备控制系统集成的能力，满足多终端集成控制的要求。
+
+关键词：仪器控制系统；观测控制系统；望远镜控制系统中图分类号：P111.2;TP311.52文献标识码：A文章编号：1672-7673(2018)
+
+丽江 $2 . 4 \mathrm { m }$ 望远镜是目前我国口径最大的通用型光学望远镜，所在台址具有优秀的天文观测条件，是我国重要的实测天文研究平台之一[Ⅲ]。 $2 . 4 \mathrm { m }$ 望远镜承担着大量的观测任务，然而望远镜的观测时间有限，已经无法满足国内天文研究不断增长的观测需求[2]。在望远镜和仪器性能已经固定的情况下，只有提高望远镜的时间利用率，才能在有限的时间内获得更多的观测数据。望远镜的卡塞格林焦点上配有多个不同的观测终端，利用多终端快速切换系统（RIES)，可以在观测过程中快速切换光路使用不同的终端进行观测，具有很高的观测灵活性[3]。凭借多终端的观测模式，若实现对望远镜、观测终端、观测目标的合理调度，将在最大程度上提高望远镜的时间利用率。这需要丽江 $2 . 4 \mathrm { m }$ 望远镜具备一套完整的观测控制系统，提供从观测时间分配、任务调度、望远镜及终端仪器控制，到数据存储、处理和发布的一系列服务。
+
+![](images/ca2047922ea1706f1bd003a454ae780dfe20becb6981d9cb28877743ec8336af.jpg)  
+图1丽江 $2 . 4 \mathrm { m }$ 望远镜仪器安装情况  
+Fig.1Installation of the observation instrument for the Lijiang 2.4 meter telescope
+
+但是，目前丽江 $2 . 4 \mathrm { m }$ 望远镜的多个终端设备中仅有云南暗弱天体光谱成像仪(YFOSC)
+
+与望远镜实现了一体化控制，其余的观测终端采用各自独立的控制系统和操作界面，无法实现多个不同终端仪器的统一调度与管理。而且，各不相同的控制系统增加了操作的复杂性，在终端切换和观测过程中占用了较多的时间，并且操作人员的失误甚至有可能导致整个观测任务的失败。因此，有必要为丽江 $2 . 4 \mathrm { m }$ 望远镜其他终端开发标准化的仪器控制系统。
+
+多波段测光系统（PICCD）是丽江 $2 . 4 \mathrm { m }$ 望远镜上最早安装的观测终端，具有光学系统简单、光学效率高、滤光片类型丰富、读出速度快等特点，是一套高效的测光观测系统。本文以多波段测光控制系统为主要研究对象，基于YFOSC 和望远镜一体化控制系统的方案，设计并研发多波段测光系统的控制系统，最终实现多波段测光系统、YFOSC 和望远镜统一的控制模式
+
+# 1总体设计
+
+多波段测光系统原有的控制系统（如图2）在windows平台下使用MaxImDL作为控制程序，凭借自带的PVCAM相机驱动程序和基于ASCOM开发的滤光片驱动程序，实现对硬件设备的集成控制[4]。原有的 PICCD 控制系统虽然能够完成数据采集，但是控制系统与望远镜控制系统相互独立，不能实现与望远镜的一体化控制，而且在观测时需要通过远程桌面的方式登陆到设备控制计算机上进行操作，占用网络带宽，且具有一定的延时，容易引起操作失误。因此，需要对PICCD的控制系统进行重新设计与开发。
+
+![](images/b010b814e949d287cf673c271103e5f402b4dc2b1fdcc085e6205d684884bbcc.jpg)  
+图2原有PICCD控制系统结构
+
+望远镜的多个终端设备中，YFOSC 与TCS 已经通过序列控制指令(Sequencer)与设备数据库相结合的设计方法实现了一体化控制°。Sequencer是一系列可以序列化运行的底层硬件控制指令程序的集合，每一个指令都对应硬件设备的一个基本操作，即使更换硬件设备依然可以沿用原有的控制指令。除了 Sequencer 指令，YFOSC 和 TCS 还各自配备了一个设备数据库用于记录系统的各项信息，其他系统通过对数据库的访问就可以获取设备的信息。这种基于序列控制指令与设备数据库相结合的设计，不仅使得设备的控制系统相互独立又形式统一，而且通过数据库实现对设备系统的状态信息的集中管理，简化了系统间的数据交换。
+
+因此在现有硬件结构的基础上，沿用YFOSC与TCS一体化控制的方案完成新多波段测光系统的控制系统设计，新的系统结构如图3。
+
+![](images/b16037c2691dd45772edd7d2f2ee0804cb967831cc30883bdd6c37bb4bb3795d.jpg)  
+Fig.2 The structure of the original control system of PICCD   
+图3新PICCD控制系统结构  
+Fig.3The structure of the new PICCD control system
+
+新的多波段测光系统的控制系统由3部分构成：观测控制程序、设备控制程序和设备数据库。观测控制程序基于望远镜网络和序列控制指令对设备控制程序进行远程控制，设备控制程序根据指令控制硬件设备完成对应的操作，设备数据库则保存系统运行过程中各项状态的变化，为观测控制程序提供系统状态数据，同时作为观测数据文件中系统状态信息的数据来源。
+
+# 2 系统实现
+
+# 2.1观测控制程序
+
+观测控制程序部署在观测控制计算机上，采用较为常用的Ubuntu16.04LST系统，基于Qt $5 . 8 ^ { [ 6 ] }$ 框架与 $^ { C + + }$ 语言进行开发。用户可以通过观测控制程序对系统状态进行实时监测，并通过它实施观测过程中的远程操作。
+
+观测控制程序的远程操作通过望远镜局域网得以实现，利用序列控制指令和执行结果消息与设备控制程序进行交互，二者之间的通讯过程如图4。
+
+![](images/aadcfa53ba9be143f1f5de58f33a45e0ff63569421b4a5899f83a917b7d7f546.jpg)  
+图4观测控制程序和设备控制程序通讯过程  
+Fig.4 The communication process of the observation control program and the device control program
+
+系统的序列控制指令与硬件设备可执行的操作一一对应，多波段测光系统只有CCD 相机和滤光片两个设备，所以其序列控制指令比较简单，表1列举了部分常用的序列控制指令。
+
+表1PICCD常用序列控制指令  
+Table 1Common sequencer commandfor PICCD   
+
+<html><body><table><tr><td>指令</td><td>参数</td><td>说明</td></tr><tr><td>dark</td><td>exp_timeexp_num</td><td>暗场拍摄，曝光时间最短为0.1s,拍摄数量缺省为1</td></tr><tr><td>expose</td><td>exp_timeexp_num</td><td>正常曝光，曝光时间最短为0.1s,拍摄数量缺省为1</td></tr><tr><td>set</td><td>pnamevalue</td><td>设置pname 对应的CCD 相机参数，如 setxbin2等</td></tr><tr><td>filter</td><td>pos</td><td>滤光片移动到pos位置</td></tr><tr><td>close</td><td></td><td>断开用户界面与系统的连接</td></tr><tr><td>shutdown</td><td></td><td>断开用户界面，并关闭整个系统</td></tr></table></body></html>
+
+其中 dark\expose\set 是针对CCD 相机的控制指令，filter是滤光片的控制指令。指令执行完毕后，观测控制程序会接收到设备控制程序返回的执行结果，结果消息根据执行的结果分为执行成功、执行失败和指令错误。
+
+观测控制程序提供了一个主界面和两个设置界面（如图5)，主界面上显示多波段测光系
+
+统的各项状态参数，这些状态参数从设备数据库中获取，每秒进行一次更新，观测人员在主界面上的操作都会转换成对应的控制指令发送给设备控制程序。设置界面则用于设置观测控制程序的网络连接参数和系统的滤光片配置，保证观测控制程序的正常运行。
+
+![](images/ae32efb32e5ac86a304d0d938054548987b159bc84e69743ee2dd9302384dc57.jpg)  
+Fig.5Interface of observation control program
+
+# 2.2设备控制程序
+
+设备控制程序部署在设备控制计算机上，在接收到观测控制程序传来的指令后，控制硬件设备执行指令，并返回执行的结果，程序主体流程如图6。
+
+![](images/9d9d3288f13ac12f0b305d1886f03256b02a31ec3f50542b7875e1e4be13ee55.jpg)  
+图5观测控制程序界面  
+图6设备控制程序流程图  
+Fig.6Flowchart of device control program
+
+受限于CCD 相机驱动程序开发包PVCAM2.7'对系统内核的要求，设备控制程序在RedHatLinux5.6平台下进行开发，整个程序采用C语言编写，包括4个主要功能：硬件设备控制、数据封装、网络通讯和数据库交互。
+
+硬件设备控制是设备控制程序的主要部分，需根据指令开发对应的函数控制硬件设备执行对应的操作。CCD 相机的指令可以分为数据采集指令和参数设置指令，在PVCAM2.7开发包的基础上设计并完成了CCDExp(和CCDSettingO两个接口函数用于执行对应的指令。滤光片轮与计算机通过串口协议进行通讯，使用转轮控制器内部定义的控制命令实现对转轮的控制，在设备控制程序中通过接口函数FilterGoTo(完成指令和结果消息的转换即可实现对滤光片轮的控制。
+
+数据封装负责对从CCD读出的无格式原始数据进行格式封装，生成标准的FITS文件。数据封装通过CFITSIO2开发包中提供的函数实现，包括创建文件、文件头添加和图像数据写入3个环节。创建文件的文件名采用仪器缩写与日期时间的组合，例如由 PICCD 于2017-6-22的22:30:35开始采集的数据，对应的文件名为PI20170622T223035.fits，其中T为日期与时间的间隔。此外，数据文件的文件头中需要详细完整地记录数据采集时的各类信息，包括文件属性、目标源参数、望远镜状态、观测条件和仪器状态，这些信息均从对应的数据库中获取。
+
+网络通讯使用TCP/IP 协议，完成观测控制程序和设备控制程序的网络连接，负责指令的接收、解析和反馈消息的发送。
+
+数据库操作在MySQL开发包的基础上完成，实现对数据库数据的查询和更新，主要负责更新数据库中的系统状态信息以及从各个数据库中提取FITS文件头所需的各项数据。
+
+# 2.3设备数据库
+
+设备数据库基于MySQL5.73建立，数据库中保存多波段测光系统所有的状态数据信息，在运行过程中由设备控制程序实时更新系统的状态信息，观测控制界面通过访问数据库获取状态信息并展示给观测人员，同时数据库中的数据也可以作为FITS文件头信息的来源。
+
+经过对多波段测光控制系统中各项数据进行归类，将其分别保存在3张状态数据表和3张属性数据表中。状态数据表的表格名称及其记录数据类型如表2。
+
+# 表2状态数据表
+
+Table 2 Status Table   
+
+<html><body><table><tr><td>数据表名称</td><td>记录数据类型</td></tr><tr><td>pi_status</td><td>系统的实时状态，如CCD的状态、滤光片轮的状态、软件的状态等</td></tr><tr><td>pi_param</td><td>系统的实时参数，如CCD温度、曝光区域、增益大小、滤光片位置等。</td></tr><tr><td>pi_image</td><td>CCD采集的实时数据相关信息，如数据的采集者，采集的起止时间等。</td></tr></table></body></html>
+
+状态数据表用于记录仪器的实时状态信息，在系统运行的过程中，设备控制程序将实时更新这些数据。另外3张属性数据表的表格名称及其记录数据类型如表3。
+
+# 表3属性数据表
+
+Table 3 Attribute Table   
+
+<html><body><table><tr><td>数据表名称</td><td>记录数据类型</td></tr><tr><td>ccd_info</td><td>CCD 的基本参数，如CCD的尺寸大小、像元大小、视场等。</td></tr><tr><td>pi_port</td><td>CCD 不同端口与读出时间、读出噪声的对应关系。</td></tr><tr><td>pi_filter</td><td>滤光片轮上每个位置安装的滤光片型号和基本参数。</td></tr></table></body></html>
+
+属性数据表用于记录仪器的属性参数，在设备运行时，无需对其进行更新操作，只有在设备重新配置或系统更新时才需要对数据进行更新。
+
+此外，数据库中还利用触发器实现系统设置选项相关参数的同步更新。比如通过建立触发器 filter_info，在数据表pi_param中的数据被更新之后，触发器就会被触发，根据当前的滤光片位置自动更新对应的滤光片的波段、带宽等数据到数据表中。其余还有诸如CCD快
+
+门不同读出速度、读出通道的噪声等参数，也通过这种方式实现。
+
+# 3 系统测试
+
+在完成多波段测光系统的软件开发和调试工作后，于2017年10月对多波段测光系统控制软件进行实际运行测试。整个观测过程共采集数据72张，包括bias，dark，flat 和两组目标的多波段测光观测，涉及观测过程中所有的基本操作。
+
+在完成数据采集后，在指定的文件目录中得到统一格式命名的FITS文件，数据采集时的相关信息也按照设计要求成功写入FITS文件，如图7。
+
+在实际测试过程中，操作人员察觉到在观测控制程序与设备控制程序建立连接的过程中有轻微卡顿，系统界面对系统的状态变化缺少明确的提示。今后将根据用户的要求和建议，继续优化系统，使其更加贴合观测人员的使用习惯和要求。
+
+SAOlmage ds9 □ PI20171027T195616.fits □ ）   
+Fie FileEdit View Frame Bin Zoom Scale Color Region WCS Analysis Help PI20171027T195616.fts BITPSX FileEdit Font SIMPLE = = 1 营 /filedoes conforntoFIS standard biterdatapixel 文件   
+Object NGC7318 NAXIS1 1340 EXE = 1/t   
+Value   
+WCs CONTERT 属   
+Physical x Y BZERO 32768 tagthtofigedhort 性   
+Image x DATE-STA- 192017-60-   
+Frame1 x 0.346 0.000 首 Airnass 望   
+file + edit tofit view zoom1/8 frame zoom1/4 bin zoom zo0m1/2 scale zoom1 color zoom2 region zoom4 wCs zoom8 help ALMSTATE- ROTSTADE- TRACKING' VAR3IG' /otatuofTlocp ut 远镜 ALTPOS 6.2135 Azinuth Position of Telesocpe Altitude Position of Telesocpe 状态 RC 47.757 N2STATE TRACKIIIG' Secondary irror Status MISTATE OKAY' Prinary Irror Status AIRTENP SERRTEMP- 11.93 0.00 Airtenperature from weather station Tenperature of serrurier truss 7 观 PINDSPD HUMIDITY- 0.00 0.00 idity fron weather station de 测条件 TELSTATE- WARN Telescope t TCSSTATE- OKAY ICS Status of Telesocpe WHSSTATE- SUSPEND' Weather onitor Station Status ROTANCLE= 359,9999 otator Sky position Angle EPOCHOX- 2000.0 /prt 目标 MJD 58053.4974 odified Julian Date TELDEC +335755.00 Declination of Telescope DATE-0BS-‘2017-10-2719:55:28 TELRA 223505.506 Licht SidenealTfTelescope Date of Observation 源 SET-TEMP- −110 [C]CCDtenperature setpoint CCD-TEMP- −110/ [C]CCD teaperatureat start of exposure GAIN J Gain of readout in election per ADU PORT 0/ CCD readoutport OBSERVER- hugh/Observer'snane OBJECT FILTER NGC7318/0bject clear' Fiter ued vhen taking inage 终端设备状态 RDOSPEED- 17.420/ [s]CCD readout speed -BEGIN- 0 Start oint of x-ain CCD BEGIN= 0/ Start point of y-axis in CCD X- SIZE = 1340 Size in X-axis of CCD Y-SIZE 1300 Size in Y-axis of CCD XBIINING= Birning Factore in Width YBINNING- inning Factore in Height EXPOSURE- 30.0/ [ns]Exposure tine ISTRUE-'PI VersArray 1300B CCD ued in Observation X-MSIZE- 1340/axieinof CCD 1300 20/ YPIXSIZE- 20 / COOLMODE= Liquid nitrogn CCDcooling nethod TIME-END- 19:57:04.213 End tine of observation (After readout). END 119 167 264 456 844 1611 3137 6218 12311 C
+
+# 4总结
+
+多波段测光控制系统的重新开发，借鉴了YFOSC和TCS的集成化控制系统方案，通过观测控制程序、设备控制程序和设备数据库3部分组成了多波段测光系统的控制程序。新的控制系统不仅完成了设备的观测控制，实现了远程操作，补全了数据文件中的各项数据信息，而且具备与YFOSC 和TCS 同样的控制模式，满足了终端设备控制系统集成化的要求。但是，目前系统依然存在不足，需要进一步提升系统响应速度，增加更丰富的状态变化提示方法。在未来的工作中，将根据使用过程中出现的问题，逐步完善这一设计，并将其应用到望远镜上其他的终端设备，逐步实现终端设备的集成控制。
+
+# 参考文献：
+
+[1].Bai J M, Liu Z. Introduction of astronomical telescopes and instruments in Yunnan Astronomical Observatory[C]// Institut de Mécanique Celeste et de Calcul des
+
+Ephémérides(IMCCE).Workshop Gaia Fun-SSO: follow-up network for the Solar System Objects.2011:63-66.   
+[2]．范玉峰．中型望远镜观测系统集成[D]．北京：中国科学院大学,2014.   
+[3]. Fan Y F, Bai J M, Zhang J J,et al. Rapid instrument exchanging system for the cassegrain focus of the Lijiang $2 . 4 \mathrm { - m }$ Telescope[J]. Research in Astronomy and Astrophysics,2015, 15(6):918-928.   
+[4]．和寿圣，范玉峰，王传军．基于ASCOM 标准的 CCD 自动观测系统[J.天文研究与技 术一国家天文台台刊,2013,10(4):386-391. He Shousheng,Fan Yufeng，Wang Chuanjun.An automatic CCD observation system based on the ASCOM standard[J]. Astronomical Research & Technology—Publications of National Astronomical Observatories of China,2013,1O(4): 386-391.   
+[5]．王传军，范玉峰，易卫敏．丽江 2.4 米望远镜 TCS Sequencer 程序的设计与开发[J]. 天文研究与技术一国家天文台台刊,2013,10(4):378-385. Wang Chuanjun, Fan Yufeng,Yi Weimin.Design and development of a TCS Sequencer for the YNAO $2 . 4 \mathrm { m }$ telescope[J].Astronomical Research & Technology—Publications of National Astronomical Observatories of China, 2013, 10(4):378-385.
+
+[6]．陆文周.QT5开发及实例[M]．北京：电子工业出版社,2015.
+
+# Design and development of the control system for multi-band photometry
+
+system of Lijiang 2.4-meters telescope
+
+Chen Linxie1,2.3, Wang Chuanjun1.3, Fan Yufeng1.3, Ding ${ \mathrm { X u } } ^ { 1 , 3 }$ , Wang Deqing1,2.3 (1.Yunnan Observatories, Chinese Academy of Sciences,Kunming 65oo11, China;   
+2. University of Chinese Academy of Sciences,Beijing,1Ooo49, China;   
+3.KeyLaboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Science,Kunming 650011,China)
+
+Abstract:The Lijiang 2.4-meters telescope has equipped several observation instruments at its Cassegrain focus.In order to maximize the observation eficiency，we need to realize the integrated control system for allthe instruments. However,the original multi-band photometry control system doesn't satisfy the requirements of integrating with other instruments,and needs to be redeveloped.Based on the study of the control system for YFOSC and the telescope，we redeveloped the control system of PICCD under the Linux system. We designed and completed three main modules: observation control program, device control program and instrument database, which has the unified control mode with YFOSC and telescope,make PICCD has the ability to be integrated with the control system of other instruments,and can finally meet the requirement of instrument control system(ICS) which can control all the instruments equipped on $2 . 4 \mathrm { m }$ telescope.
+
+Key words: Instrument Control System;Observation Control System; Telescope Control System

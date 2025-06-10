@@ -1,0 +1,310 @@
+[
+    {
+        "type": "text",
+        "text": "WUMa型食双星GMBootis测光研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨勇，张燕平，付建宁，苍天启（北京师范大学天文系，北京100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：GMBo0是一个已经被发现超过10年的短周期(约0.36天)相接双星。获得了GM Boo在2010到2015年新观测的多波段时序测光数据及其低色散光谱。从光变曲线中提取了19个新的光变极小时刻，并结合历史数据推导出该双星轨道周期增长速率 $\\mathrm { d } P / \\mathrm { d } t = 1 . 0 6 \\times$ $1 0 ^ { - 7 } \\mathrm { d } \\cdot \\mathrm { ~ y ~ r } ^ { - 1 }$ 。Wilson-Devinney程序被用来分析GMBoo 的测光轨道解。得出它是一个典型的W 次型的过相接双星系统，其质量比约为 $q \\sim 1 . 2 2$ ，相接度约为 $f { \\sim } 1 1 \\%$ 。模型中添加了2个黑子拟合不对称的光变曲线，说明此系统具有较强的活动性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：食双星；轨道周期；光变曲线 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P144 文献标识码：A 文章编号：1672-7673(2018)01-0017-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GM Boo（又称 GSC 02016-00830，ROTSE1J144 726.56 + 224 515.0)在ROSTE 巡天（2000）[1]中被证认为是一个食双星系统，并给出轨道周期是 $0 . 3 6 1 1 0 3 0 0 \\pm 0 . 0 0 0 0 1 7 8 7$ 天以及 $\\mathrm { \\Delta V }$ 星等是12.230等。随后，Blattler 和 Diethelm（2001)①对包括GMBoo在内的一些双星进行了CCD 测光观测。他们获得了GMBoo的光变曲线，并且第1次给出了GMBoo 的线性历元公式：",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = H J D 2 4 5 2 0 0 1 . 4 0 3 2 + ( 0 ^ { d } . 3 6 1 1 2 ) \\times E\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文［2］利用ROTSE-I数据联合2MASS 的J，H，K 波段近红外数据从ROTSE-I中证认出1022 颗明亮的密近双星系统，并且给出了GMBoo的J-H色指数0.192，H-K色指数0.057，轨道周期0.361112天以及日心距 $5 8 6 \\pm 7 \\mathrm { p c }$ 。文［3]认为GMBoo 是一个WUrsae Majoris 类型的密近双星，同时给出轨道周期是0.36108天。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "到目前为止，还没有任何对这颗食双星进一步详细的研究，从2010年到2015年，对这颗食双星进行了 $\\mathrm { \\Delta V }$ 和R 两个波段的CCD 测光观测，目的是分析GMBoo 的轨道周期变化并得到它的测光轨道解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "观测和数据处理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从2010年5月16日到2015年2月3日，利用3台望远镜对GMBoo进行了共计16个夜晚的测光观测。其中，5个夜晚的数据是利用国家天文台兴隆观测站 $6 0 ~ \\mathrm { c m }$ 反射望远镜观测。该望远镜主焦点焦比 $F / 4 . 2 3 \\$ ，有效视场 $1 8 ^ { \\prime } \\times 1 8 ^ { \\prime }$ ，位于主焦点的CCD 像素 $1 0 2 4 \\times 1 0 2 4$ ，像元分辨率 $1 . 0 5 6 ^ { \\prime \\prime } / \\mathrm { p i x e l }$ 。10 个夜晚的数据是利用云南天文台的 $6 0 ~ \\mathrm { c m }$ 反射望远镜观测。该望远镜采用卡塞格林焦点，其焦比 $F / 1 2 . 5$ ，有效视场 $1 2 ^ { \\prime } . 5 \\times 1 2 ^ { \\prime } . 5$ ，CCD 型号Andor/sDW436，CCD像素和像元分辨率分别 $2 0 4 8 \\times$ 2 048和 $0 . 3 7 ^ { \\prime \\prime } / \\mathrm { p i x e l }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "仅有一个晚上的数据是利用位于美国新墨西哥州Tzec Maun望远镜远程观测。该望远镜是一台口径16英寸的反射望远镜，它的有效视场 $2 6 ^ { \\prime } . 1 \\times 1 7 ^ { \\prime } . 4$ ，焦比 $F / 9$ ，CCD 型号 SBIG STL-6303，相应的像素和像元分辨率分别 $3 \\ 0 7 2 \\times 2 \\ 0 4 8$ 和 $0 . 5 1 ^ { \\prime \\prime } / \\mathrm { p i x e l }$ 。测光观测日志见表1。图1展示了兴隆 $6 0 ~ \\mathrm { c m }$ 望远镜拍摄的一幅GMBoo图像。选择UCAC4 564-052034作为比较星和TYC 2016-1086-1作为校验星。表2列出了它们的坐标和V星等。利用IRAF程序对该双星的测光数据进行处理，主要过程包括减本底、除平场和孔径测光。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/72d0a40ee6dd00c9c5193811bc01095d9194e6172a32c9f5e92cd025b913b217.jpg",
+        "table_caption": [
+            "表1GMBoo 测光观测 Table1Photometric observations of GM Boo ",
+            "表2目标星、比较星和校验星的坐标和星等"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>日期</td><td>望远镜</td><td>滤过片</td><td>帧数</td></tr><tr><td>2010-05-16</td><td>TM16-in</td><td>VR</td><td>139</td></tr><tr><td>2011-05-08</td><td>YN60-cm</td><td>VR</td><td>228</td></tr><tr><td>2011-05-09</td><td>YN60-cm</td><td>VR</td><td>254</td></tr><tr><td>2011-05-18</td><td>XL60-cm</td><td>VR</td><td>137</td></tr><tr><td>2011-05-21</td><td>XL60-cm</td><td>VR</td><td>260</td></tr><tr><td>2011-05-22</td><td>XL60-cm</td><td>VR</td><td>330</td></tr><tr><td>2012-02-07</td><td>YN60-cm</td><td>VR</td><td>152</td></tr><tr><td>2013-01-23</td><td>YN60-cm</td><td>VR</td><td>102</td></tr><tr><td>2013-01-31</td><td>YN60-cm</td><td>VR</td><td>112</td></tr><tr><td>2013-05-05</td><td>XL60-cm</td><td>VR</td><td>155</td></tr><tr><td>2014-02-17</td><td>XL60-cm</td><td>VR</td><td>34</td></tr><tr><td>2015-01-25</td><td>YN60-cm</td><td>VR</td><td>352</td></tr><tr><td>2015-01-28</td><td>YN60-cm</td><td>VR</td><td>187</td></tr><tr><td>2015-01-29</td><td>YN60-cm</td><td>VR</td><td>420</td></tr><tr><td>2015-02-02</td><td>YN60-cm</td><td>VR</td><td>213</td></tr><tr><td>2015-02-03</td><td>YN60-cm</td><td>VR</td><td>226</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2450f4767ce50418890469e591c5ba6252adaa24dd0df907a507e6d884177675.jpg",
+        "img_caption": [
+            "图1兴隆 $6 0 \\ \\mathrm { c m }$ 望远镜观测的一幅GM Boo 的CCD图像",
+            "Fig.1A CCD image of GMBoo observed with the XL 60-cm telescope "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7670f19fcb2924fbfd2505868f9b80d5f55b38f682daf99e48e573014c9e39c3.jpg",
+        "table_caption": [
+            "Table 2Coordinates and magnitudes of the object,the check，and the comparison star "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>名称</td><td>赤经（J2000）</td><td>赤纬（J2000)</td><td>V 星等/mag</td></tr><tr><td>目标星</td><td>GM Boo</td><td>14 47 26.520</td><td>+22 45 14.49</td><td>11. 89</td></tr><tr><td>比较星</td><td>UCAC4 564-052034</td><td>14 47 18. 607</td><td>+22 43 53.27</td><td>12. 34</td></tr><tr><td>校验星</td><td>TYC 2016-1086-1</td><td>14 47 20. 948</td><td>+22 47 40.07</td><td>11. 96</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2012年5月14日，使用位于兴隆站的 $2 . 1 6 \\mathrm { ~ m ~ }$ 望远镜获得了 $\\mathrm { G M ~ B o o }$ 的低色散光谱。该光谱是用BFOSC 低色散光谱仪拍摄，其光栅为G7，狭缝宽度为 $1 . 8 ^ { \\prime \\prime }$ ，线色散为 $9 5 ~ \\mathrm { m m }$ ，中心波长为 $5 3 0 ~ \\mathrm { n m }$ ，波长范围为 $3 8 0 \\sim 6 8 0 ~ \\mathrm { n m }$ 。利用IRAF程序对原始光谱数据进行了处理，得到该双星低分辨率的光谱（见图2）。与Pickles光谱流量库[4|进行对比，GMBoo 的光谱类型初步被证认为是 $\\mathrm { F } 3 \\mathrm { V } \\sim \\mathrm { F } 5 \\mathrm { V }$ ，温度范围约为 $6 8 0 0 { \\sim } 7 0 0 0 \\mathrm { K }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/750a25216bceea225d385d21c0ad97d30d906237a196ea814796b478eeb0ef3d.jpg",
+        "img_caption": [
+            "图2兴隆 $2 . 1 6 \\mathrm { ~ m ~ }$ 望远镜观测的GMBoo光谱",
+            "Fig.2The spectrum of GM Boo observed with XL 2.16-m telescope "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2轨道周期变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用较差测光，提取了GMBoo所有的光变曲线。同时采用最小二乘法对光变极小值附近进行二次拟合，确定了19个新的极小值时刻。为了研究轨道周期的变化，从历史数据中收集了43个极小值时刻，所有极小值时刻列于表2。利用最小二乘法得到了GMBoo新的线性和二次历元公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM i n . I = H J D 2 4 5 5 3 3 2 . 9 0 0 7 ( 3 ) + 0 ^ { d } . 3 6 1 1 8 6 3 ( 7 ) \\times E ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM i n . I = H J D 2 ~ 4 5 5 ~ 3 3 2 . 9 0 0 ~ 5 ( 2 ) ~ + 0 ^ { d } . 3 6 1 ~ 1 1 9 ~ 3 ( 1 ) ~ \\times { \\cal E } ~ + ~ 1 ^ { d } . 0 5 ( 2 ) ~ \\times ~ 1 0 ^ { - 1 0 } ~ \\times { \\cal E } ^ { 2 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，根据新的线性和二次历元公式推导该双星的O-C值（观测和计算得到的极小值时刻之差），列在表3。利用表3中的 (O-C) $^ { 1 }$ 值和圈数 $E$ ，描绘了GMBoo的O-C图（见图3），目的是分析该双星长期的轨道周期变化。图3中，红色实心圆点代表本文的数据，黑色空心圆代表文献中的数据。通过对图3中所有数据点进行二次拟合，得到一个向上的抛物线，表明GMBoo的轨道周期正在增加。根据二次历元公式的二次项得到该双星轨道周期增加的速率是 $\\mathrm { d } P / \\mathrm { d } E = 1 . 0 5 \\times 1 0 ^ { - 1 0 } \\mathrm { d } \\cdot \\mathrm { c y c l e } ^ { - 1 }$ 或 $\\mathrm { d } P / \\mathrm { d } t = 1 . 0 6 \\times 1 0 ^ { - 7 }$ （204$\\mathrm { ~ d ~ } \\cdot \\mathrm { ~ y ~ r ~ } ^ { - 1 }$ 。相接双星轨道周期增加表明较小质量子星正在向较大质量子星进行物质转移[5]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/76c170c071fbf98ff9d8f30d2ced98301d3c8e0f090c3a281a8846a88b91d0d0.jpg",
+        "img_caption": [
+            "图3GMBoo的O-C 图。实点代表本文的数据，空心圆点代表文献中的数据。实线是对全部数据的二次拟合Fig.3O-C diagram of GM Boo.The solid points represent our data and the open circles representthe data from the literature.The solid curve shows the quadratic fiting"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3测光数据的轨道解",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用 2015版的Wilson-Devinney(W-D)程序[6-9]获得GM Boo 测光数据的轨道解。用于解轨的测光数据来自2011年兴隆 $6 0 ~ \\mathrm { c m }$ 望远镜观测的3天数据（见表1），因为这3天数据质量相对较高。对这3天测光数据进行相位合并得到在V和R波段具有完整相位覆盖的光变曲线（见图4）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GM Boo 是被分类为W UMa 类型的食双星[4]。因此，使用W-D程序的 Mode 3（overcontact binarynot in thermal contact)寻找轨道初解。根据GMBoo 的光谱型是 $\\mathrm { F } 3 \\mathrm { V } \\sim \\mathrm { F } 5 \\mathrm { V }$ ，假设主星温度 $T _ { \\scriptscriptstyle 1 } = 6 9 0 0 \\mathrm { K }$ ，取两子星的重力昏暗系数 $g _ { 1 } = g _ { 2 } = 0 . 3 2 ^ { [ 1 0 ] }$ ，两子星的热反照率 $A _ { 1 } = A _ { 2 } = 0 . 5 0 ^ { [ 1 1 ] }$ ，两子星的热临边昏暗系数和各个波段的临边昏暗系数从文[12]获得（见表3)。以上参量在解轨过程中固定不变。在W-D解轨过程中可以被调整的自由参量包括轨道倾角i，次星温度 $T _ { _ 2 }$ ，两子星的表面势能 $\\varOmega _ { 1 }$ 和 $\\varOmega _ { 2 }$ ，两子星的质量比 $q = m _ { 2 } / m _ { 1 }$ ，以及主星VR 波段的相对单色光度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38669e847fcdd7b323d279965c92aecd90df57fb32bf67d3b73ff73ffe6b7804.jpg",
+        "img_caption": [
+            "图4GMBoo的光变曲线。空心圆点代表观测数据，实线是理论光变曲线 Fig.4LightcurvesofGMBoo.Theopencirclesrepresentobservationaldataandthesolidlinesshowtheoreticallightcurves "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/01fdd1699564c21cae967e7c0b5453e9cbc4b99ce713a35691706656efba58eb.jpg",
+        "table_caption": [
+            "表3GMBoo的极小值时刻和O-C值",
+            "Table 3Minimum times and O-C residuals of GM Boo "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>HJD（2，400,000+)</td><td>Min.</td><td>E</td><td>(0-C)，</td><td>(O-C)2</td><td>参考文献'</td></tr><tr><td>51 996. 528 7</td><td>I</td><td>-9 239</td><td>0. 009 2</td><td>0. 000 4</td><td>BBS 125</td></tr><tr><td>52 001.403 4</td><td>II</td><td>-9 225.5</td><td>0. 008 8</td><td>0. 000 1</td><td>BBS 125</td></tr><tr><td>52 001.583 6</td><td>I</td><td>-9 225</td><td>0.008 4</td><td>-0.000 3</td><td>BBS125</td></tr><tr><td>52 022.350 7</td><td>II</td><td>-9 167. 5</td><td>0. 011 2</td><td>0.002 6</td><td>BBS 125</td></tr><tr><td>52 022. 529 1</td><td>I</td><td>-9 167</td><td>0. 009 0</td><td>0. 000 4</td><td>BBS 125</td></tr><tr><td>52 033.358 4</td><td>I</td><td>-9 137</td><td>0. 004 7</td><td>-0.003 8</td><td>BBS 125</td></tr><tr><td>52 041. 485 6</td><td>ⅡI</td><td>-9 114.5</td><td>0.006 8</td><td>-0.0018</td><td>BBS 125</td></tr><tr><td>52 367.397 9</td><td>I</td><td>-8 212</td><td>0.008 9</td><td>0.002 0</td><td>BBS 128</td></tr><tr><td>52 763.356 2</td><td>ⅡI</td><td>-7 115.5</td><td>-0.000 1</td><td>-0.005 2</td><td>BBS129</td></tr><tr><td>53 081. 505 5</td><td>ⅡI</td><td>-6 234.5</td><td>0.0031</td><td>-0.000 8</td><td>BBS130</td></tr><tr><td>53 445.510 2</td><td>ⅡI</td><td>-5 226.5</td><td>-0.000 5</td><td>-0.003 1</td><td>IBVS 5653</td></tr><tr><td>53 815.4769</td><td>I</td><td>-4 202</td><td>-0.000 5</td><td>-0.002 2</td><td>BAVM186</td></tr><tr><td>53 900.880 0</td><td>II</td><td>-3 965. 5</td><td>-0.0021</td><td>-0.003 6</td><td>OEJV 0162</td></tr><tr><td>53 936.4531</td><td>I</td><td>-3 867</td><td>0. 000 7</td><td>-0.000 6</td><td>IBVS 5781</td></tr><tr><td>54 174.430 1</td><td>I</td><td>-3208</td><td>0.000 1</td><td>-0.000 8</td><td>IBVS 5781</td></tr><tr><td>54 186. 526 5</td><td>II</td><td>-3 174. 5</td><td>-0.001 0</td><td>-0.001 8</td><td>BAVM186</td></tr><tr><td>54 201. 513 6</td><td>I</td><td>-3 133</td><td>-0.000 3</td><td>-0.001 2</td><td>BAVM186</td></tr><tr><td>54 213.4318</td><td>I</td><td>-3100</td><td>0.000 9</td><td>0.0001</td><td>BAVM186</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d4b6a41b5ed1a34dc31fbf1c7222fcdda56fe877e3a367b368ee1ffb7389db9.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [
+            "1BBS $\\ c =$ Bulletin der Bedeckungsveraenderlichen-Beobachter der Schweizerischen Astronomischen Gesellschaft.； $\\mathrm { B A V M } = \\mathrm { B A V }$ 1 Mitteilungen（Berliner/Bundesdeutsche Arbeitsgemeinschaft fur Veränderliche Sterne）; $\\mathrm { { I B V S } = }$ Information Bulletinon Variable Stars; $\\mathrm { O E J V } = \\mathrm { O p e n }$ European Journal on Variable Stars；VSB $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Variable Star Bulletin（Japan）； $\\mathrm { J A A V S O } =$ Journal of the American Association of Variable Star Observers "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">(续表3)</td></tr><tr><td>HJD（2,400,000+）</td><td>Min.</td><td>E</td><td>(0-C)，</td><td>(0-C)2</td><td>参考文献'</td></tr><tr><td>54 570.395 4</td><td>II</td><td>-2 111. 5</td><td>-0.001 9</td><td>-0.002 2</td><td>BAVM 201</td></tr><tr><td>54 570. 577 6</td><td>I</td><td>-2 111</td><td>-0.000 3</td><td>-0.000 5</td><td>BAVM 201</td></tr><tr><td>54 631. 065 3</td><td>II</td><td>-1 943. 5</td><td>0.000 0</td><td>-0.000 2</td><td>VSB 48</td></tr><tr><td>54 888. 903 6</td><td>I</td><td>-1 229.5</td><td>-0.0009</td><td>-0.000 9</td><td>IBVS 5929</td></tr><tr><td>54 933.502 4</td><td>I</td><td>-1106</td><td>-0.000 4</td><td>-0.000 3</td><td>BAVM 209</td></tr><tr><td>54 961. 851 1</td><td>I</td><td>-1027. 5</td><td>0. 000 5</td><td>0.000 6</td><td>IBVS 5894</td></tr><tr><td>54 968.530 5</td><td>I</td><td>-1009</td><td>-0.000 8</td><td>-0.000 7</td><td>BAVM 209</td></tr><tr><td>55 015.478 7</td><td>I</td><td>-879</td><td>0.001 9</td><td>0.002 0</td><td>IBVS 5920</td></tr><tr><td>55 315.385 3</td><td>Ⅱ</td><td>-48.5</td><td>-0.001 1</td><td>-0. 000 9</td><td>BAVM 214</td></tr><tr><td>55 315. 566 0</td><td>I</td><td>-48</td><td>-0.0010</td><td>-0.000 8</td><td>BAVM 214</td></tr><tr><td>55 332. 719 5</td><td>II</td><td>-0.5</td><td>-0.000 6</td><td>-0.000 4</td><td>This paper</td></tr><tr><td>55 332.900 5</td><td>I</td><td>0</td><td>-0.000 2</td><td>0.000 0</td><td>This paper</td></tr><tr><td>55 398.441 4</td><td>ⅡI</td><td>181. 5</td><td>-0.002 5</td><td>-0.002 3</td><td>IBVS 5960</td></tr><tr><td>55 625.589 0</td><td>II</td><td>810.5</td><td>0.0011</td><td>0. 001 2</td><td>OEJV 0160</td></tr><tr><td>55 644.906 3</td><td>I</td><td>864</td><td>-0.001 5</td><td>-0. 001 4</td><td>IBVS 5992</td></tr><tr><td>55 649. 602 0</td><td>I</td><td>877</td><td>-0.000 4</td><td>-0.000 3</td><td>OEJV 0160</td></tr><tr><td>55 654. 477 7</td><td>II</td><td>890.5</td><td>0.000 3</td><td>0. 000 4</td><td>BAVM 220</td></tr><tr><td>55 671. 451 2</td><td>II</td><td>937.5</td><td>0.001 2</td><td>0.001 3</td><td>BAVM 220</td></tr><tr><td>55 672. 533 8</td><td>II</td><td>940.5</td><td>0.000 4</td><td>0.000 5</td><td>OEJV 0160</td></tr><tr><td>55 690.042 8</td><td>I</td><td>989</td><td>-0.004 9</td><td>-0.004 8</td><td>This paper</td></tr><tr><td>55 690. 227 5</td><td>II</td><td>989.5</td><td>-0.000 7</td><td>-0.000 7</td><td>This paper</td></tr><tr><td>55 695.825 1</td><td>I</td><td>1005</td><td>-0.000 5</td><td>-0.000 4</td><td>IBVS 5992</td></tr><tr><td>55 700.158 2</td><td>I</td><td>1017</td><td>-0.000 8</td><td>-0.000 7</td><td>This paper</td></tr><tr><td>55 703. 048 4</td><td>I</td><td>1025</td><td>0.000 4</td><td>0. 000 5</td><td>This paper</td></tr><tr><td>55 703. 229 2</td><td>II</td><td>1 025.5</td><td>0.000 7</td><td>0.000 7</td><td>This paper</td></tr><tr><td>55 704. 131 6</td><td>I</td><td>1028</td><td>0.000 3</td><td>0.000 3</td><td>This paper</td></tr><tr><td>55 704. 313 4</td><td>Ⅱ</td><td>1028.5</td><td>0. 001 5</td><td>0. 001 6</td><td>This paper</td></tr><tr><td>55 965.396 8</td><td>II</td><td>1 751. 5</td><td>-0. 004 4</td><td>-0. 004 5</td><td>This paper</td></tr><tr><td>56 008.557 0</td><td>I</td><td>1871</td><td>0.002 1</td><td>0.002 0</td><td>OEJV 0160</td></tr><tr><td>56 009. 458 5</td><td>II</td><td>1 873.5</td><td>0.000 8</td><td>0.000 6</td><td>BAVM 228</td></tr><tr><td>56 009.639 8</td><td>I</td><td>1874</td><td>0.001 5</td><td>0. 001 4</td><td>BAVM 228</td></tr><tr><td>56 015.416 7</td><td>I</td><td>1890</td><td>0. 000 5</td><td>0.000 3</td><td>BAVM 228</td></tr><tr><td>56 015.598 6</td><td>ⅡI</td><td>1 890. 5</td><td>0.0019</td><td>0. 001 7</td><td>BAVM 228</td></tr><tr><td>56 316.408 9</td><td>II</td><td>2 723. 5</td><td>-0.000 2</td><td>-0.000 8</td><td>This paper</td></tr><tr><td>56 324.352 7</td><td>Ⅱ</td><td>2 745.5</td><td>-0.001 0</td><td>-0. 001 6</td><td>This paper</td></tr><tr><td>56 355.587 5</td><td>I</td><td>2832</td><td>-0.003 1</td><td>-0. 003 7</td><td>OEJV 0160</td></tr><tr><td>56 418. 065 7</td><td>I</td><td>3005</td><td>0.001 5</td><td>0.000 8</td><td>This paper</td></tr><tr><td>56 418. 248 5</td><td>II</td><td>3 005.5</td><td>0.003 7</td><td>0.003 0</td><td>This paper</td></tr><tr><td>57 048. 404 4</td><td>II</td><td>4 750. 5</td><td>0. 006 5</td><td>0.004 3</td><td>This paper</td></tr><tr><td>57 051. 293 0</td><td>II</td><td>4 758.5</td><td>0. 006 1</td><td>0. 003 9</td><td>This paper</td></tr><tr><td>57 052.376 3</td><td>II</td><td>4 761.5</td><td>0.0061</td><td>0. 003 9</td><td></td></tr><tr><td>57 056. 346 8</td><td>II</td><td>4 772. 5</td><td>0.0042</td><td>0.002 0</td><td>This paper</td></tr><tr><td>57 057.428 4</td><td>II</td><td>4 775. 5</td><td>0. 002 5</td><td>0.000 3</td><td>This paper This paper</td></tr><tr><td>57 186.718 6</td><td>II</td><td>5133.5</td><td>0.0120</td><td>0.009 4</td><td>JAAVSO 44-1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于到目前为正没有任何关于该双星质量比（ $q = m _ { 2 } / m _ { 1 }$ )的信息，因此执行一个 $q$ -search的过程寻找最佳质量比。 $\\boldsymbol { q }$ -search的具体过程是选择一系列0.3到2之间的 $q$ 值，间隔步长0.1，然后对每个 $q$ 值分别执行W-D程序解轨，调整其它自由参量直到它们的校正值小于标准误差以及拟合光变曲线和观测的曲线之间残差 $\\sigma$ 达到最小值，最后对每个 $\\textit { q }$ 值得到一个相应的残差 $\\sigma$ 。图5描绘了残差 $\\sigma$ 与质量比 $\\scriptstyle q$ 之间的关系，在$q = 1 . 2$ 处找到残差 $\\sigma$ 的最小值。因此，在 $\\scriptstyle q =$ 1.2 附近寻找最佳的质量比，放开 $\\textit { q }$ 值进行微调，最终确定最佳的质量比 $\\ q = 1 . 2 2$ 。最终的解轨结果揭示其质量小但温度更高的子星在主极小时被质量大的子星遮掩。因此，GMBoo是一个典型的W次型过相接双星系统[13]",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/88f4a0b0d93ce3f286f27b619b7a6b557cf803d842a27e7de7e9e6d8d455a33c.jpg",
+        "img_caption": [
+            "图5残差 $\\sigma$ vs质量比 $q = m _ { 2 } / m _ { 1 }$ Fig. 5The residual $\\sigma$ versus mass ratio $q = m _ { 2 } / m _ { 1 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图4光变曲线可以发现，位于相位0.25处的双星主极大光度比相位0.75处的次极大更暗，即存在 $0 ^ { \\prime }$ Connell效应②。该效应代表在双星表面可能存在黑子或者亮斑。此处假设在大质量子星表面存在两颗黑子，然后调整黑子的经度、纬度、角半径和温度系数拟合光变极大值。最终得到最佳的测光数据的轨道解，列在表4。图4实线描绘了通过轨道解拟合得到的V和R波段理论光变曲线。GMBoo 的几何结构如图6。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f5369ec1fa820fb6df068e89c10b5e9379c325b52cffb9602975f9c298c112e.jpg",
+        "table_caption": [
+            "表4GMBoo的轨道解 Table 4Orbital solution of GM Boo "
+        ],
+        "table_footnote": [
+            "Note：‘ Assumed "
+        ],
+        "table_body": "<html><body><table><tr><td>参数</td><td>最佳拟合值</td><td>误差</td><td>参数</td><td>最佳拟合值</td><td>误差</td></tr><tr><td>q=m2/m1</td><td>1. 220</td><td>± 0.002</td><td>r(side)</td><td>0. 365 7</td><td>± 0.000 3</td></tr><tr><td>T(K)?</td><td>6 900a</td><td></td><td>r1(back)</td><td>0. 4019</td><td>± 0.000 5</td></tr><tr><td>T(K)</td><td>6725</td><td>±11</td><td>r2(pole)</td><td>0. 3811</td><td>± 0.000 4</td></tr><tr><td>g1=g2</td><td>0.32a</td><td></td><td>r(side)</td><td>0. 402 9</td><td>± 0.0005</td></tr><tr><td>i/</td><td>64. 452</td><td>± 0.072</td><td>r2（back)</td><td>0. 437 1</td><td>± 0.0008</td></tr><tr><td>A =A</td><td>0.50</td><td></td><td>Spotllatitude(rad)</td><td>1. 483 5</td><td></td></tr><tr><td>Ω=Ω</td><td>4.028 8</td><td>± 0.002 5</td><td>Spot1longitude(rad)</td><td>4. 712 4</td><td></td></tr><tr><td>X = X(bolo)</td><td>0. 172a</td><td></td><td>Spotlradius( rad)</td><td>0. 174 5</td><td></td></tr><tr><td>Y = Y(bolo)</td><td>0. 553a</td><td></td><td>Spot1tempfactor</td><td>0.9</td><td></td></tr><tr><td>χ=x(V）</td><td>0. 061a</td><td></td><td>Spot2latitude(rad)</td><td>1. 221 7</td><td></td></tr><tr><td>χ1=x(R)？</td><td>0. 033a</td><td></td><td>Spot2longitude(rad)</td><td>1. 396 2</td><td></td></tr><tr><td>y1 =y(V)</td><td>0. 726a</td><td></td><td>Spot2radius( rad)</td><td>0.349</td><td></td></tr><tr><td>y1=y(R)</td><td>0. 725a</td><td></td><td>Spot2tempfactor</td><td>0.93</td><td></td></tr><tr><td>L/(L+L）(V)</td><td>0.485</td><td>± 0.002</td><td>f</td><td>0. 111 1</td><td>± 0.003 9</td></tr><tr><td>L/(L,+L）(R)</td><td>0.477</td><td>±0.001</td><td>(0-C)²</td><td>0.013</td><td></td></tr><tr><td>r1(pole)</td><td>0. 347 7</td><td>± 0.000 2</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f959128b6ca93225371b1fd8b52800cf3e813d1cabfc9c9117eeaa27e7f53a0.jpg",
+        "img_caption": [
+            "图6相位0.0、0.25、0.5和0.75处GMBoo的几何结构",
+            "Fig.6The geometry configurations of GM Boo at the phase O.0,0.25,0.5 and O.75，respectively "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4总结与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过CCD 测光观测，获得了GMBoo19个新的光变极小时刻，并推导出它的线性和二次历元公式。另外，通过与 Blattler 和 Diethelm(2001)的光变曲线和历元公式进行对比发现，在本文的观测中，GM Boo 的主极小和次极小时刻发生了反转，即光变主极小的相位对应Blattler和Diethelm光变次极小相位。类似的现象同样出现在 Kepler卫星观测的部分食双星中[14]，该现象可能是由双星表面存在的黑子转移造成的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在O-C 图上展示了一个开口向上的抛物线，表明这十几年来GMBoo 的轨道周期一直在增加，相应的周期增加速率是 $\\mathrm { d } P / \\mathrm { d } E = 1 . 0 5 \\times 1 0 ^ { - 1 0 } \\mathrm { d \\cdot ~ c y c l ~ e ^ { - 1 } }$ 或 ${ \\mathrm { d } } P / { \\mathrm { d } } t = 1 . 0 6 \\times 1 0 ^ { - 7 } { \\mathrm { d } } \\cdot { \\mathrm { ~ y ~ r } } ^ { - 1 }$ ，这与近年来对相接双星周期变化研究的文[15-16]给出的结果相符。认为该双星周期增加可能是由于小质量伴星到大质量伴星之间存在物质转移，但是也不能完全排除第三体的存在，还需进一步的测光观测。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用W-D程序获得了GMBoo的测光轨道解，并且因此确认了GMBoo是一个典型的W次型过相接双星系统。GMBoo 两子星的表面势能是 $\\mathcal { \\Omega } _ { 1 } = \\Omega _ { 2 } = 4 . 0 2 8 ~ 8 \\left( \\pm ~ 0 . 0 0 2 ~ 5 \\right)$ ，利用 $f = ( \\varOmega - \\varOmega _ { \\mathrm { i n } } ) / ( \\varOmega _ { \\mathrm { o u t } } -$ $\\varOmega _ { \\mathrm { i n } }$ )，得出其填充因子 $f \\mathrm { = } 1 1 . 1 1 \\ \\mathrm { \\Omega } \\left( \\mathrm { \\Omega } \\pm \\mathrm { \\ } 0 . 3 9 \\right) \\%$ ，即两子星相接度约为 $1 1 \\%$ 。根据GMBoo 光变曲线极大值的不对称，表明存在 $\\mathrm { 0 ^ { \\prime } C o n n e l l }$ 效应，利用W-D解轨得到在大质量伴星表面存在两个黑子。黑子的存在表明其表面有活跃的磁场活动，说明作为 $\\mathrm { ~ F ~ }$ 型的恒星，与较晚型的恒星(G、K型)一样，也存在较强的表面磁活动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢兴隆 $2 . 1 6 \\mathrm { ~ m ~ }$ 望远镜工作人员提供的支持。中国科学院国家天文台光学天文重点实验室的开放项目计划也对本文工作提供了部分支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Akerlof C，Amrose S，Balsano R，et al.Rotse all-sky surveys for variable stars. I. test fields[J].The Astronomical Journal,2000，119(4）：1901-1913.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2] Gettel S J,Geske M T，McKay T A.A catalog of 1022 bright contact binary stars [J]. The Astronomical Journal，2006，131(1）:621-632.   \n[3] Hoffman D I，Harrison T E，McNamara B J.Automated variable star classification using the northern sky variability survey [J]. The Astronomical Journal,2009，138(2） : 466-477.   \n[4] Pickles A J.A stellar spectral flux library:115O-250ooA［J]. Publications of the Astronomical Society of the Pacific，1998，110(749) : 863-878.   \n[5] Hoffman DI,Harrison TE，McNamara B J,et al.The case for third bodies as the cause of period changes in selected Algol systems [J]. The Astronomical Journal,2006，132(6):2260-2267.   \n[6] Wilson R E，Devinney E J. Realization of accurate close-binary light curves:application to MR Cygni［J]. The Astrophysical Journal，1971，166：605-619.   \n[7] Wilson R E.Accuracy and efficiency in the binary star reflection effect [J].The Astrophysical Journal，1990，356:613-622.   \n[8] Wilson R E.Binary star light-curve models ［J].Publications of the Astronomical Society of the Pacific，1994，106(703）:921-941.   \n[9] Wilson RE，Van Hamme W. Unification of binary star ephemeris solutions [J].The Astrophysical Journal，2013，780(2):151-167.   \n[10] Lucy L B. Gravity-darkening for stars with convective envelopes [J]. Zeitschrift fur Astrophysik, 1967, 65: 89-92.   \n[11] Rucihski S M. The W UMa-type systems as contact binaries.I. two methods of geometrical elements determination. degree of contact ［J].Acta Astronomica，1973，23：79-120.   \n[12] Van Hamme W.New limb-darkening coefficients for modeling binary star light curves [J]. The Astronomical Journal，1993，106：2096-2117.   \n[13] Binnendijk L. The orbital elements of W Ursae Majoris systems [J]. Vistas in Astronomy，1970, 12: 217-256.   \n[14] Tran K，Levine A，Rappaport S，et al. The anticorrelated nature of the primary and secondary eclipse timing variations for the kepler contact binaries [J].The Astrophysical Journal,2013, 774(1) : 81-94.   \n[15] Qian S B,Li K,Liao WP，et al. The first photometric investigation of the neglected W-UMatype binary star UZ CMi ［J]. The Astronomical Journal,2013，145(4） : 91-96.   \n[16] Qian S B,Liu N P,Liao W P，et al. First photometric investigation of the newly discovered W UMa-type binary star MR Com [J]. The Astronomical Journal,2013，146(146）: 38-44. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Photometric Study of W UMa type Eclipsing Binary GM Bootis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Yang Yong，Zhang Yanping，Fu Jianning，Cang Tianqi (Department of Astronomy，Beijing Normal University，Beijing 10O0875,China,Email：jnfu@bnu.edu.cn） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:GM Boo is a short period（\\~O.36days）contact binary system discovered for over 1O years.In this work，new multi-color photometric light curves from 2O10 to 2O15and low-resolution spectra of GM Boo are obtained.We extracted 19 new eclipse timings of GM Boo from the light curves，deriving a long-term increasing rate of the orbital period ${ \\mathrm { d } } P / { \\mathrm { d } } t = 1$ $0 6 \\times 1 0 ^ { - 7 } \\mathrm { d } \\cdot \\mathrm { ~ y ~ r ~ } ^ { - 1 }$ combined with historical data.Photometric solution is derived with the Wilson-Devinney Code，which shows that GM Boo is a typical W-type contact binary with mass ratio of $q \\sim 1 . 2 2$ and contact degree of $\\sim 1 1 \\%$ . Two cool spots are assumed in the model in order to fit the asymmetrical light curves，which indicate that GM Boo is an active system. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Eclipsing binary；Orbital period； Light curves",
+        "page_idx": 7
+    }
+]

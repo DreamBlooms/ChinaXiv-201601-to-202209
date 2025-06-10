@@ -1,0 +1,491 @@
+[
+    {
+        "type": "text",
+        "text": "车联网中一种有效的资源共享方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邓左祥 la,1b,2，涂芳²，李春贵 la,1b ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.广西科技大学a.计算机科学与通信工程学院;b.智能计算与分布式信息处理重点实验室培育基地，广西 柳州545006;2.上海交通大学电子信息与电气工程学院，上海 200240;3.上汽通用五菱汽车股份有限公司技术中心产品认证科，广西 柳州 545007)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对车联网的资源共享问题进行研究，提出一种有效的资源共享方法ERS。ERS的目标是提高资源共享的成功率、减小资源共享的延迟、减小通信代价，以及提高发送效率。为了实现这些目标，ERS设计四个策略，包括查询策略、回复策略、资源的替换策略、收到资源的告知策略。基于真实的车辆行驶数据来进行仿真实验。仿真实验结果表明，相比较其他两种方法，ERS 实现较高的资源共享成功率、较低的延迟、较低的通信代价和较高的发送效率，因此是车联网中一种有效的资源共享方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：车联网；资源共享；车辆活跃度；路由；替换策略 中图分类号：TP393.07 doi: 10.3969/j.issn.1001-3695.2018.01.0009 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Efficient resource sharing method in Internet of Vehicles ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deng Zuoxiangla, 1b,2, Tu Fang3,Li Chunguila,1b (1.a.SchoolofComputerScience&Communication Engineering,b.KeyLaboratoryof IntellgentComputing&Distributed InformationProcesingGuangxi UniversityofScience&TechnologyLizhouGuangxi545o6,Chna;2.chooloflectronic Information&ElectricalEngineeing,ShanghaiJiaoTong Universityhanghai20240,China;3.TechnicalDepartment Center Test &Validation Section,SAICGM Wuling Automobile Co,Ltd,Liuzhou Guangxi545oo7,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper investigated the problemofresource sharing in Intemetofvehicles,and proposed an eficientresource sharingmethodcaled ERS.ThegoalofERS was to improve thesuccessfulratioofresource sharing,reduce the latencyof resourcesharing,reducethecommunicationcost,and improve thetransmisioneficiency.Inorder toachieve thesegoals,ERS designed fourstrategies,includingqeryrategyreplystrategy,sourceeplacementstrategyandacknowledgementategy. The simulation experimentwas conductedbasedonthereal taces ofvehicles.Performanceresults demonstrate thatcompared withthe othertwo methods,ERScanachieve highersuccessulratioofresource sharing,lowerlatency,lowercommunication cost,and highertransmissonecency.Terefore,ERSisneicientresourcesaringmethodinInteetofhicles. Key words: Internet of vehicles; resource sharing; vehicular active degree; routing; replacement strategy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "车联网，也可以称为车辆自组织网络，简称车辆网络，是在道路上行驶的车辆之间所形成的一种无线移动网络。近年来，随着移动互联网的普及，车联网作为移动互联网的一种，成为一种热门的研究方向。车联网的应用，主要包括保障交通安全、路径选择的优化和导航、增加娱乐性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在车联网中，实现资源共享，是一个有意义并且值得研究的问题。现实生活中，在车辆的行驶过程中，司机或乘客可能需要一些资源，例如音频、视频、图片、超市或电影院的信息，但是车辆的本地存储器可能并没有需要的资源。在这种情况下，可以通过车联网发送查询给其他车辆，让拥有该资源的车辆产生回复，从而实现车联网的资源共享。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而，车联网的资源共享问题，是具有挑战的一个问题。首先，查询车辆事先并不知道车联网中的哪辆车拥有该资源，因此就不存在目的车辆。查询车辆不知道自己应该往哪个目的车辆发送查询消息，从而使得车联网中的所有路由协议无法派上用场。其次，在资源回复的过程中，查询车辆可能还在按照司机的意愿来行驶，这使得目的位置是不固定的。因此，如何将资源回复到位置不固定的查询车辆上，成为一个挑战。最后，查询车辆在收到资源后，有可能仍然存在其他车辆正在给它回复资源，从而造成不必要的通信代价。因此，如何减小通信代价成为一个挑战，非常有必要设计一种收到资源的告知策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究车联网的资源共享问题，提出一种有效的资源共享方法ERS，它的目标是提高车辆获得资源的成功率，减小获得资源的延迟，并且减小通信代价。为了实现目标，ERS包括四个策略：查询策略、回复策略、资源的替换策略、收到资源的告知策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为移动互联网在道路交通上的新兴应用，车联网正在得到国内外研究者越来越多的重视，成为目前的研究热点之一[1,2].一些研究工作关注于车联网的路由协议。在传染路由[3]中，当两辆车相遇时，这两辆车就互相交换对方存储器中没有的消息，直到双方存储器中的消息完全一样。虽然传染路由实现较高的发送成功率和较低的发送延迟，但是它的通信代价非常巨大。在spray-and-wait[4]和 spray-and-focus[5]中，源车辆为一条消息产生 $\\mathbf { \\Omega } _ { L }$ 份拷贝，并且将这 $\\mathbf { \\Omega } _ { L }$ 份拷贝发送给其他车辆。当任何一辆拥有拷贝的车辆和目的车辆相遇时，就将消息发送给目的车辆。无论是 spray-and-wait，还是 spray-and-focus，都有一个缺点，就是参数 $\\mathbf { \\Omega } _ { L }$ 是源车辆事先设置而且不再改变的，但是在不同的车联网环境下，一个合适的 $L$ 值是不同的，因此，spray-and-wait和 spray-and-focus 都不一定能够实现较高的发送成功率和较低的通信代价。系统中任意两辆车接连两次相遇的时间间隔，称为相遇时间间隔，文献[6]提出一种路由协议OPF，它根据车辆之间的相遇时间间隔，基于最优停止理论，在给定消息发送次数的情况下，最大化发送成功率。在OPF中，作者做了两个假设：第一，对于系统中的任意两辆车 $i$ 和 $j$ ，假设它们的相遇时间间隔，服从参数为 $\\lambda _ { i j }$ 的指数分布；第二，假设系统中任意两辆车之间的平均相遇时间间隔，已经根据交通部门的历史信息统计得出，并且每辆车都存储有任意两辆车之间的平均相遇时间间隔，这个假设需要每辆车都消耗一定的存储空间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[7]提出车联网的一种内容共享方案Roadcast。在进行查询时，Roadcast通过计算查询和数据的相似度，回复相似度较大的数据。Roadcast根据查询和数据在关键字上的匹配度，以及数据的流行度，来计算查询和数据的相似度，匹配度越大，或者数据流行度越大，则相似度越大。然而，这种计算相似度的方法存在一定的缺陷，有可能造成查询车辆收到一个流行度很大但是匹配度却较小的数据。由于匹配度较小，因此查询车辆并不一定需要这个数据。此外，在进行查询时，Roadcast只考虑一跳内的查询，即查询车辆只向它的邻居发送查询，并不考虑多跳查询，这可能会造成较大的查询延迟。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一些研究工作关注于车联网的广播和单播。洪泛[8是一种应用比较广泛的广播协议。每当有消息需要发送时，源车辆就广播消息给它的邻居，它的邻居如果收到这条消息，就继续广播这条消息。洪泛广播比较容易引起广播风暴，产生非常大的通信代价。直接传输[是一种单播协议，当源车辆有消息需要发送给目的车辆时，源车辆就一直携带消息，直到遇见目的车辆才发送消息。虽然直接传输的通信代价较小，但是发送成功率较低，而且延迟较高。基于洪泛的查询，以及基于直接传输的查询，都可以解决车联网的资源共享问题，然而它们都不是有效的资源共享方法。在仿真实验中，将本文提出的资源共享方法ERS，与基于洪泛的查询、基于直接传输的查询进行比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 问题提出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1系统模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在车联网的系统中，总共有 $\\mid N \\mid$ 辆车，用一个集合 $N$ 来表示，这些车在道路上按照驾驶员的意愿来行驶。每辆车都安装有车载GPS和电子地图，车载GPS可以提供车辆全局唯一的ID、所在位置、当前时间等信息，电子地图可以提供每个路口全局唯一的ID。此外，每辆车安装有一些设备，使其具有一定的计算能力、存储能力、通信能力。当两辆车在地理位置上的欧式距离小于或者等于通信距离时，称这两辆车相遇，而且互为邻居。如果两辆车互为邻居，它们就可以互相接收和发送消息。每辆车都不可以同时接收和发送消息，并且不可以同时接收来自多辆车的消息，否则会发生冲突。为了实现车辆之间的邻居发现，每辆车都周期性（例如10秒）发送探测消息，使得一辆车在进入其他车辆的通信距离以内后，其他车辆能够发现它。探测消息都是非常小的消息，因此产生的通信代价几乎可以忽略不计。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每辆车的本地存储器中都存储有一些资源，这些资源可以是图片、音频、视频等。每个资源都可以通过车联网，共享给需要这个资源的车辆。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在车联网中，当一辆车需要某个资源时，如果这辆车的本地存储器里没有该资源，它就产生一条查询消息，在车联网中发送这条查询消息，这辆车可以称为源车辆。对于一条查询消息，源车辆给它设置一个查询消息生存期。其他任意车辆收到这条查询消息后，如果发现本地存储器有该资源，就将该资源通过车联网回复给源车辆，从而实现资源共享。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "车联网中的资源共享问题，包括如何进行查询，以及如何进行回复。资源共享问题的指标，包括成功率、平均延迟、通信代价，以及效率。成功率定义为源车辆成功获得的资源个数，除以源车辆总的查询消息个数；平均延迟定义为在源车辆成功获得的所有资源当中，源车辆产生查询消息到收到资源的平均时间间隔；通信代价定义为消息的总发送次数；效率定义为源车辆成功获得的资源个数，除以通信代价。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为一个有效的资源共享方法，应该尽可能实现较高的成功率和较低的平均延迟。此外，还应该实现较低的通信代价和较高的效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 有效的资源共享方法ERS",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本章详细描述本文提出的车联网中有效的资源共享方法，名为ERS。在ERS中，包括四个策略：查询策略、回复策略、资源的替换策略、收到资源的告知策略。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 查询策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节设计一个查询策略，源车辆按照这个策略来发送查询消息。设计查询策略的目标是提高资源共享的成功率，并且减小延迟和通信代价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当源车辆需要某个资源时，如果本地存储器里没有该资源，它就产生一条查询消息，并且为这个查询消息设置一个查询消息ID。查询消息ID由源车辆ID加上查询ID来组成，其中查询 ID可以按照源车辆查询的顺序依次生成。按照这种方法设置的查询消息ID是全局唯一的。查询消息的内容，包括查询消息ID、想要获得资源的查询请求，以及查询消息生存期。此外，为了方便拥有该资源的车辆回复源车辆，查询消息的内容还包括：当前时间和源车辆所在的位置，可以通过车载GPS获得；源车辆的未来行驶路径，用电子地图里的路口ID序列来表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于源车辆事先并不知道车联网中的哪辆车拥有它需要的资源，因此源车辆发送的查询消息就没有特定的目的位置，不会事先指定目的车辆。在这种情况下，为了实现查询，ERS让源车辆每隔若干秒钟（如 $6 0 \\mathrm { ~ s ~ }$ ）在车联网中向它的邻居发送查询消息，直到源车辆收到资源，或者查询消息生存期结束。当源车辆的一个邻居收到源车辆的查询消息时，如果发现自己拥有源车辆需要的资源，它就将资源立即回复给源车辆。在这种情况下，由于此时源车辆和拥有资源的车辆仍然处于邻居状态，因此资源可以以一跳的方式回复到源车辆上。如果查询消息生存期结束，源车辆仍然没有收到资源，它可以选择继续查询，也可以选择放弃查询。如果源车辆选择继续查询，它就重新生成查询消息，按照相同的查询策略，在车联网中发送查询消息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在现实生活中，车联网中的一辆车在一定时间内遇见的车辆，通常仅仅是车联网中所有车辆的一部分。因此，仅仅靠源车辆进行查询，是不能实现较高的资源共享成功率和较低的延迟的。为了解决这个问题，ERS让源车辆在每次发送查询消息时，都从它的邻居里，选择出一辆车，来帮助它一起继续查询。假设源车辆选择出来的车辆是 $\\nu _ { \\boldsymbol { h } } ~ , ~ \\nu _ { \\boldsymbol { h } }$ 每隔若干秒钟（例如 60秒）在车联网中向它的邻居发送源车辆的查询消息，直到它听到有车辆产生回复，或者查询消息生存期结束。如果一辆拥有资源的车收到 $\\nu _ { h }$ 发来的源车辆的查询消息，它就将资源立即回复给源车辆，回复的策略在下一小节描述。由于仍然处于邻居状态，这一回复可以被 $\\nu _ { { } _ { h } }$ 听到，使得 $\\nu _ { { } _ { h } }$ 不再发送源车辆的查询消息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面描述源车辆如何选择 $\\nu _ { h }$ 。本文提出两种选择 $\\nu _ { h }$ 的方法：(a)基于随机的选择(RAN)。在RAN中，源车辆从它的邻居当中，随机地选择出一辆车作为 $\\nu _ { { } _ { h } }$ ;(b)基于车辆活跃度的选择(ACT)。在ACT中，源车辆从它的邻居当中，按照车辆的活跃度，选择活跃度最大的车辆作为 $\\nu _ { h }$ 。仿真实验将比较这两种方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面给出车辆活跃度的计算方法。每辆车的初始活跃度都是1。设置一个时间窗口（如 $^ \\mathrm { ~ 1 ~ h ~ }$ )，每当一个新的时间窗口开始时，一辆车按照式(1)来计算它在这个时间窗口的当前活跃度$\\boldsymbol { a } _ { n }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { n } = \\alpha \\times \\nu _ { l } + ( 1 - \\alpha ) \\times a _ { l }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\nu _ { \\scriptscriptstyle { l } }$ 是这辆车在上一个时间窗口遇见的不同邻居的数量， $a _ { \\scriptscriptstyle { l } }$ （204号是这辆车在上一个时间窗口的活跃度， $\\alpha$ 是系数，取值0\\~1。在ERS中，设置 $\\alpha$ 为0.6。从式(1)可以知道，如果一辆车遇见的车辆数量越多，它的活跃度就越大。一辆车为了让其他车辆知道自己的活跃度，每当发送探测消息时，将自己的当前活跃度 $a _ { n }$ ，一起发送给邻居。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2回复策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在查询策略中，源车辆每次发送查询消息时，都从它的邻居里面，选择出一辆车 $\\nu _ { h }$ ，帮助它继续在车联网中进行查询。如果一辆拥有资源的车 $\\nu _ { d }$ ，收到 $\\nu _ { { } _ { h } }$ 发来的源车辆的查询消息，它就将资源立即回复给源车辆。当 $\\nu _ { d }$ 回复源车辆时，它们可能不是邻居，因此需要设计一条路由路径，资源将沿着这条路由路径，从 $\\nu _ { d }$ 发送到源车辆。本小节设计一个回复策略， $\\nu _ { d }$ 按照这个策略，来进行路由选择和回复资源。设计回复策略的目标是减小延迟和通信代价。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面描述如何设计路由。在ERS中，为 $\\nu _ { d }$ 设计一条基于道路路径的路由。资源将沿着这条道路路径，按照一跳接着一跳的方式，从 $\\nu _ { d }$ 发送到源车辆。从文献[10,11]可以得到，一辆车在一条路段上行驶所花的时间，以及一条消息在一条路段上发送所花的时间，都是服从伽玛分布的。根据由交通部门提供的历史信息，可以计算出一辆车在一条路段上行驶所花的期望时间，以及一条消息在一条路段上发送所花的期望时间。假设这些期望时间，都已经存储在车联网系统中的每辆车里。从源车辆的查询消息里， $\\nu _ { d }$ 可以知道源车辆产生查询消息的时间和所在位置，以及源车辆的未来行驶路径。因此， $\\nu _ { d }$ 可以知道源车辆未来经过各个路口的期望时刻。从 $\\nu _ { d }$ 发送到源车辆的路由，分为两部分：a) $\\nu _ { d }$ 从源车辆未来所经过的各个路口当中，选择一个路口作为目标路口。根据一条消息在一条路段上发送所花的期望时间，利用迪杰斯特拉算法， $\\nu _ { d }$ 找到一条发送消息所花期望时间最小的路径，将资源从自己发送到目标路口;b)当资源从 $\\nu _ { d }$ 发送到目标路口时，分为两种情况：(a)资源到达目标路口的期望时刻，早于源车辆到达目标路口的期望时刻。在这种情况下，让资源沿着与源车辆未来行驶路径相反的方向发送，直到一个最终路□ $i _ { d }$ ，满足资源到达路口 $i _ { d }$ 的期望时刻，晚于源车辆到达路口 $i _ { d }$ 的期望时刻;(b)资源到达目标路口的期望时刻，晚于源车辆到达目标路口的期望时刻。在这种情况下，让资源沿着与源车辆未来行驶路径相同的方向发送，直到一个最终路□ $i _ { d }$ ，满足资源到达路口 $i _ { d }$ 的期望时刻，早于源车辆到达路口$i _ { { \\scriptscriptstyle d } }$ 的期望时刻。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面描述 $\\nu _ { d }$ 选择目标路口的方法。从源车辆未来所经过的各个路口当中， $\\nu _ { d }$ 计算通过一个路口来发送资源的期望延迟，从中选择出一个具有最小期望延迟的路口，作为目标路口。假设一个路口 $i _ { c } , \\nu _ { d }$ 按照式(2)，来计算资源通过路口 $i _ { \\scriptscriptstyle c }$ 来发送的期望延迟D(i):",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( i _ { c } ) = D ( \\nu _ { d } i _ { c } ) + D ( i _ { c } i _ { d } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $D ( \\nu _ { d } i _ { c } )$ 是 $\\nu _ { d }$ 利用迪杰斯特拉算法将资源从自己发送到路□ $i _ { c }$ 所花的期望时间， $D ( i _ { c } i _ { d } )$ 是资源从路□ $i _ { c }$ 发送到最终路口$i _ { d }$ 所花的期望时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在资源沿着道路路径回复的过程中，如果每辆车都转发资源，那么就会产生非常大的通信代价。为了减小通信代价，ERS采用基于距离的转发策略。假设当前转发资源的车辆是vf，Vi向它的邻居转发资源后，它的一个邻居 $\\nu _ { c }$ ，按照式子(3)，来计算自己的等待转发时间tw：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt _ { \\scriptscriptstyle w } = ( r - d ) \\times t _ { \\scriptscriptstyle g }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\boldsymbol { r }$ 是通信距离， $d$ 是 $\\nu _ { { } _ { f } }$ 和 $\\nu _ { c }$ 之间的距离， $t _ { g }$ 代表时间粒度，可以设置成若干ms（如 $1 \\mathrm { m s }$ )。从式(3)可以知道，距离 $\\nu _ { f }$ 越远的邻居，它的等待转发时间就越小。因此，距离 $\\nu _ { { } _ { f } }$ 最远的邻居，将首先转发资源。其他邻居听到有车辆转发资源后，就不再转发资源，从而可以减小通信代价。如果出现车联网不连通的情况，即当前转发资源的车辆 $\\nu _ { f }$ 听不到它的任何邻居继续转发资源， $\\nu _ { f }$ 就采取存储--携带--转发策略。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3资源的替换策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在资源沿着路由路径从拥有资源的车 $\\nu _ { d }$ 回复到源车辆的过程中，在路由路径上行驶的一些车辆会收到资源。在ERS中，当一辆车收到一个资源时，即使这辆车不需要这个资源，它也将这个资源存储在本地存储器中，以方便以后其他车辆的查询。随着资源的日积月累，可能会出现本地存储器空间不足的情况，因此需要删除掉一些资源。本小节设计一个资源的替换策略，当本地存储器空间不足时，按照这个策略来删除掉资源。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在ERS中，为每个资源计算一个资源价值。当一辆车的本地存储器空间小于一个事先设定好的阈值（如 $1 0 0 \\mathrm { M B }$ )，就表示这辆车的本地存储器空间不足。当一辆车的本地存储器空间不足时，这辆车就根据每个资源的资源价值，依次将资源价值最小的资源删除，直到这辆车的本地存储器空间大于或等于阈值。一辆车按照式(4)来计算它本地存储器中一个资源的资源价值 $r _ { \\nu }$ ：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { \\nu } = r _ { p } / r _ { s }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $r _ { p }$ 是这个资源的资源流行度， $r _ { s }$ 是这个资源所占用的存储空间。任何一个资源的资源流行度的初始值都是1。当一辆车对源车辆需要的资源进行回复后，这辆车就将自己关于这个资源的资源流行度加1。从式(4)可以知道，一个资源的资源价值，和它的资源流行度成正比，和它所占用的存储空间成反比。因此，如果一个资源的资源流行度越大，或者它所占用的存储空间越小，这个资源的资源价值就越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4收到资源的告知策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当源车辆收到资源后，有可能仍然存在其他一些车辆正在帮助它查询，或者正在将资源回复给它，从而造成不必要的通信代价。本小节设计一个收到资源的告知策略，当源车辆收到资源后，它通过这个策略告知其他车辆它已经收到资源。正在帮助源车辆查询，或者正在回复资源的一辆车，如果判断出源车辆已经收到资源，它就不再继续查询或回复。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在ERS中，每辆车都在自己的本地存储器中，存储一个大小为1000位的二进制向量。如前所述，一辆车为查询一个资源的查询消息ID，是全局唯一的。如果一个资源已经被源车辆收到，源车辆就将关于这个资源的全局唯一的查询消息ID，利用bloom filter 方法[12,13]，存储在大小为1000 位的二进制向量中。一辆车在发送探测消息时，将自己存储的二进制向量一起发送，由于二进制向量的大小只有1000位，因此所产生的通信代价非常小。其他车辆如果收到这辆车的二进制向量，就将自己的二进制向量和这辆车的二进制向量，通过“按位或”进行运算，更新自己的二进制向量。每辆车都可以通过自己存储的二进制向量，来检测一个查询消息ID，从而可以判断出源车辆是否已经收到资源。为了降低bloomfilter的误判概率，如果一辆车存储的二进制向量有超过 $50 \\%$ 以上的位都是1，这辆车就将自己的二进制向量的所有位全部重新设置为0。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在利用二进制向量存储查询消息ID时，bloomfilter 需要相互独立的若干个哈希函数。哈希函数根据查询消息ID，计算出哈希地址，将二进制向量中与哈希地址对应的位设为1。本文采用四种方法，分别构造四个哈希函数：(a)平方取中法,将查询消息ID的数值平方后，取中间3位作为哈希地址;(b)除留余数法,将查询消息ID的数值除以997后，所得余数作为哈希地址;(c)基数转换法,将查询消息ID的数值看成十三进制，将十三进制数转换成十进制数后，取中间3位作为哈希地址;(d)伪随机数法,这种方法按照式(5)来计算哈希地址 $H a s h ( k e y )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH a s h ( k e y ) = ( 1 3 \\times k e y + 1 1 ) \\% 1 0 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $H a s h ( k e y )$ 代表哈希地址， $k e y$ 代表查询消息 $\\mathrm { I D }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 仿真实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1实验方法与参数设置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在仿真实验中，将本文提出的 ERS，与基于洪泛的查询、基于直接传输的查询进行比较。将基于洪泛的查询，简称为洪泛查询；将基于直接传输的查询，简称为直接查询。在洪泛查询中，源车辆采用洪泛广播的方式进行查询，拥有资源的车辆采用洪泛广播的方式进行回复。在直接查询中，源车辆每隔10秒向它的邻居发送查询消息，如果它的一个邻居拥有资源，就立刻将资源回复给源车辆。此外，仿真实验还比较源车辆选择$\\nu _ { h }$ 的两种方法RAN和ACT。比较性能好坏的指标，包括成功率、平均延迟、通信代价，以及效率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真实验使用收集到的车辆真实行驶数据[14,15]。这些车辆由在上海市区内行驶的4000多辆出租车和2000多辆公交车组成，它们的行驶数据由车载GPS装置实时产生。无线通信的信道模型服从幂律衰减模型。关于实验的参数设置，如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eed9b5d99faf07e964d3462a4bee56236152bdbccd4818c799a3b8198bcfcf10.jpg",
+        "table_caption": [
+            "表1实验的参数设置 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数名称</td><td>参数值</td></tr><tr><td>车辆数量</td><td>3000</td></tr><tr><td>查询消息数量</td><td>500~800</td></tr><tr><td>每个资源大小</td><td>10 MB</td></tr><tr><td>存储器大小</td><td>1GB</td></tr><tr><td>数据传输速率</td><td>100 Mbps</td></tr><tr><td>通信距离</td><td>200 m</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2不同方法之间的比较结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，将ERS与洪泛查询、直接查询进行比较。在这个仿真实验中，ERS 采用 ACT来让源车辆选择v。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于成功率的比较结果，如图1所示。可以看出，ERS的成功率要高于洪泛查询和直接查询。在ERS中，超过 $80 \\%$ 的资源被成功获得。在洪泛查询中，仅仅有 $60 \\%$ 左右的资源被成功获得，这是因为洪泛查询采用洪泛广播的方法来查询和回复，这种方法容易引起广播风暴，造成数据包之间的冲突，从而影响消息的发送和接收。在直接查询中，仅仅不到 $20 \\%$ 的资源被成功获得，这是因为源车辆直接遇见拥有资源车辆的机会是非常低的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3028552608b7b843b1db28dd98a945b0b9d8c266b144020d575c6a83bfc0e759.jpg",
+        "img_caption": [
+            "图1成功率比较结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于平均延迟的比较结果，如图2所示。可以看出，ERS的平均延迟要低于洪泛查询和直接查询。当查询消息的数量从500变化到800时，ERS的平均延迟都在 $3 0 ~ \\mathrm { m i n }$ 内。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6461dddff76e629eddd8d66f6a271a1840cf13306de6c5caf50e19c26bb9fdb8.jpg",
+        "img_caption": [
+            "图2平均延迟比较结果",
+            "图5ACT与RAN关于成功率的比较结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于通信代价的比较结果，如图3所示。可以看出，相比较洪泛查询，ERS有较低的通信代价，这是因为洪泛查询采用洪泛广播的方法来查询和回复，这种方法的通信代价是非常大的。此外，虽然直接查询的通信代价比较小，但是它的成功率非常低，如图1所示，因此直接查询并不是一种有效的资源共享方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca6902303a11a38c01e49947d55f87c1186a4386a092675ac0eea4346b01aef2.jpg",
+        "img_caption": [
+            "图3通信代价比较结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于效率的比较结果，如图4所示。可以看出，ERS的效率要明显高于洪泛查询和直接查询，这是因为ERS可以同时实现较高的成功率和较低的通信代价，所以ERS有较高的效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf99cdb40c1735e528d544c7d18c22aae807278a51409684a924c097455f37c6.jpg",
+        "img_caption": [
+            "图4效率比较结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于这四个实验结果，可以得到，相比较洪泛查询和直接查询，ERS可以同时实现较高的成功率、较低的延迟、较低的通信代价、较高的效率，因此是一种有效的资源共享方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3ACT与RAN之间的比较结果 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当源车辆选择 $\\nu _ { h }$ 时，本文提出两种方法：基于车辆活跃度的选择（ACT)，以及基于随机的选择（RAN)。本小节比较这两种方法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于成功率的比较结果，如图5所示，可以看出，ACT比RAN实现更高的成功率。关于平均延迟的比较结果，如图6所示，可以看出，ACT比RAN实现更低的平均延迟。这是因为在选择车辆时，ACT选择活跃度最大的车辆作为 $\\nu _ { { h } }$ 来帮助查询,而活跃度越大就意味着遇见车辆越多，所以相比较RAN，ACT有更大的机会遇见拥有资源的车辆，从而实现更高的成功率和更低的延迟。因此，在ACT和RAN两种方法当中，本文推荐使用性能较好的ACT。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.95{ACTI△I RAN  \n0.8A  \n0.7800 600 700 800查询消息数量",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ac56d09d8fcafd3ca6d34698c5ac786b5d30beaf2a00e4b96e2aa01072da18b.jpg",
+        "img_caption": [
+            "图6ACT与RAN关于平均延迟的比较结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文关注于车联网的资源共享问题，提出一种有效的资源共享方法ERS，包括四种策略：查询策略、回复策略、资源的替换策略、收到资源的告知策略。在查询策略中，源车辆根据车辆的活跃度，来选择其他车辆帮助它一起查询；在回复策略中，基于源车辆的未来行驶路径，选择一条具有最小期望延迟的路径来进行回复；在资源的替换策略中，为每个资源计算一个价值，当本地存储器不足时，就将价值最小的资源删除；在收到资源的告知策略中，采用bloomfilter，对源车辆已收到资源的查询消息ID进行存储，并且在车联网中进行传播，告知其他车辆，以减小通信代价。仿真实验采用真实的车辆行驶数据，结果表明，ERS是车联网中一种有效的资源共享方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]朱红梅．车联网：移动互联网催生的下一个热点[J].通信世界,2015, 2015 (9): 22.   \n[2]叶纯梅．车联网：移动互联网的新入口[J].金融科技时代,2014,2014 (6): 22-26.   \n[3] 徐吉兴，李建波，曲磊，等．一种基于移动方向的容延迟网络受控传染 路由算法[J].小型微型计算机系统,2015,36(1):60-66.   \n[4]奎丽萍，罗桂兰，张梅.基于倍数转发机制的车辆容迟网络路由协议的 研究[J]．大理大学学报,2017,2017(6):1-7.   \n[5]张敏．机会网络在矿井安全监测中的应用研究[D].徐州：中国矿业大 学,2016.   \n[6]Liu Cong,Wu Jie.An optimal probabilistic forwarding protocol in delay tolerant networks [Cl// Proc of ACM International Symposium on Mobile Ad Hoc Networking and Computing. New Orleans: ACM MOBIHOC,2009: 105-114.   \n[7]Zhang Yang, Zhao Jing,Cao Guohong. Roadcast: apopularity aware content sharing scheme in VANETs [C]//Proc of IEEE International Conference on Distributed Computing Systems.2009: 223-230.   \n[8]刘帅．基于时间选举的无线传感器网络洪泛算法研究[D].哈尔滨：哈 尔滨工业大学,2016.   \n[9]Spyropoulos T, Psounis K,Raghavendra C. Single-copy routing in intermittently connected mobile networks [C]// Proc of IEEE International Conference on Sensing,Communication,and Networking. Santa Clara: IEEE SECON,2004: 235-244.   \n[10] Jeong J,Guo Shuo,Gu Yu,et al. TBD: trajectory-based data forwarding for light-traffc vehicular networks [C]//Proc of IEEE International Conference on Distributed Computing Systems.2009:231-238.   \n[11] Jeong J,Guo Shuo,Gu Yu,et al.TSF: trajectory-based statistical forwarding for infrastructure-to-vehicle data delivery in vehicular networks [C]// Proc of IEEE International Conference on Distributed Computing Systems.2010: 557-566.   \n[12]谢鲲，施文．一种隐私保护的可逆布鲁姆过滤器[J].计算机工程与科 学,2017,39 (6): 1104-1111.   \n[13]李鲲鹏，兰巨龙，李印海．基于 Bloom filter 的高效正则表达式匹配算 法[J].计算机应用研究,2012,29(3):950-954.   \n[14] Qin Jun,Zhu Hongzhi, Zhang Wei,et al.POST: exploiting dynamic sociality for mobile advertising in vehicular networks [J].IEEE Trans on Parallel and Distributed Systems,2016,27 (6): 1770-1782.   \n[15] Chang Shan,Zhu Hongzhi,Dong Mianxiong,et al. Private and flexible urban message delivery[J]. IEEE Trans on Vehicular Technology,2016,65 (7): 4900-4910. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

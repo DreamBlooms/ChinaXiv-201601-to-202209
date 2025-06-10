@@ -1,0 +1,210 @@
+# 时距知觉的动物研究范式及相关神经机制
+
+翁纯纯 王宁(中国科学院心理研究所，心理健康院重点实验室，北京100101)（中国科学院大学心理学系，北京 100049)
+
+摘要 在探索时距知觉的脑机制的过程中，相对于人类被试相关研究，动物研究可以提供较多的药理学、分子生物学、单个神经元电生理学以及光遗传等方面的研究证据。目前较为常用的时距知觉动物研究范式包括时间二分法、峰值间隔法以及低比率差别强化法等。根据不同的研究需求，动物研究的范式常会进行调整。对时距知觉的动物研究的探讨将基于两方面展开：（1）常用的时距知觉动物研究范式的介绍及比较；（2）基于动物研究范式的时距知觉神经机制研究进展，旨在为深入探索时间知觉的心理学相关研究提供参考。关键词 时距知觉；动物研究；实验范式；神经机制；时间知觉
+
+# 1．引言
+
+时间知觉是对个体生存必不可少的一种感知能力，其中对于数百毫秒到数分钟的时间感知更多的参与了生活中的各种行为(Buhusi&Meck,2005)，通常将对于这个范围的时间知觉称为时距知觉(Intervaltiming)。除了以人类为被试的研究，还有许多研究者以多种类型的动物为实验对象开展过时距知觉相关的科学研究。自上世纪60年代起，开始涌现出大量的实验研究以探讨动物对时距的感知，包括时间二分任务（Temporal Bisection task）(Kamada&Hata,2018;A.Stubbs,1968)、峰值间隔法(Peak-interval procedure,PI) (Roberts,1981)和低比率差别强化法（differential reinforcement of low rates,DRL）(Sidman,1956)等。这些实验范式与人类研究中常用的时间二分任务和产生式法在原理上往往有共通之处，但是由于动物无法进行口头报告以及通过按键输出行为，所以其完成实验任务之前往往需要通过强化(reinforcement)来习得相应的行为操作，例如用食物或者水来训练大鼠通过按压杠杆或者鼻触等行为来输出其对于时距的感知。
+
+与人类研究相比较，动物研究具有一些不可替代的优势。一方面，出于伦理学考量，人类研究中的一些药理学的研究会受到限制，更难以开展侵入性的神经元记录研究。而在动物研究中，在符合伦理要求的条件下，可以通过神经药理学、分子生物学、单个神经元记录以及光遗传等神经生理学研究手段探索特定的脑区、递质以及更为精确的神经元、分子机制。例如，通过动物的特定脑区理置电极，同步记录其在执行时距知觉研究范式过程中的神经元活动，研究者们发现了一种较为独特的神经活动类型，表现为在计时过程中，神经元呈现上升或下降的斜坡式活动(ramping activity)，提示此神经元可能参与计时加工(Wittmann,2013)。该现象在多个物种多个脑区都有发现，包括猕猴的后顶叶皮层(Leon& Shadlen,2003)以及大鼠的内侧额叶皮质(Parker,Chen,Kingyon,Cavanagh,& Narayanan,2014)等。此类神经元活动的发现支持了一些基于前期人类研究结果的神经整合模型(Wittmann,2013)，也因此成为揭示时距知觉相关脑机制的重要依据。另一方面，在临床研究中，患者在就医时往往已经出现较为明显的症状，难以从疾病发展早期开始进行纵向观察。在动物研究中，可以建立神经精神类疾病的模型，以探索疾病发生发展过程中时距知觉的变化。例如亨廷顿疾病的转基因小鼠研究证实了时距知觉可以在亨廷顿疾病症状出现之前就发生改变(Orduna,Garcia,Menez,Hong,&Bouzas,2008)。综上所述，以动物为研究对象开展的时距知觉研究可以成为人类研究的有力补充，有助于深入揭示时距知觉的认知功能和脑机制。本综述将首先对常用的时距知觉动物实验范式进行总结，探讨其在时距知觉研究中的应用；随后会对基于这些动物时距知觉研究范式的神经机制研究进展进行介绍，以期为未来时距知觉的心理学研究提供参考。
+
+# 2．时距知觉的动物研究范式
+
+# 2.1 时间二分任务(Temporal Bisection task)
+
+人类研究中，时间二分任务是一种非常常用的时距知觉研究范式。该范式通常是先向被试呈现一个标准“长”时距刺激和一个标准“短”时距刺激（图片或声音等)，并且要求被试记住这两个标准时距；之后让被试判断呈现的标准时距是短还是长；被试判断正确后，实验将呈现标准时距和一系列中间时距的刺激，让被试判断所呈现的刺激时距更接近标准"长”时距还是更接近标准“短”时距(Grommet,Hemmes,& Brown,2019)。动物研究中，该范式的原理与此相同。以Kamada 和Hata在2018年的一项大鼠研究为例，研究者首先需要通过大量的条件化训练让大鼠学会按压杠杆，每当大鼠按压杠杆时会得到食物作为强化奖励；之后同样通过条件化训练的方式让大鼠学会选择按压与标准声音刺激时距相对应的杠杆，例如，呈现标准“短”时距时，大鼠按压左边杠杆可以得到食物奖励；当呈现标准“长”时距时，按压右边杠杆才能得到食物奖励；待完成上述训练后，大鼠开始执行时间二分任务，此任务中不仅呈现标准“短”时距和标准“长”时距的声音刺激，还会呈现一系列中间时距的声音刺激（此研究中标准“短”时距为2s，标准“长”时距为8s，中间时距为2.52s、3.18s、4.00 s、5.04 s、6.35 s)，如果大鼠判断所听到的声音更接近“短”时距会按压与“短”时距相对应的杠杆，若判断声音时距接近“长”时距则按压与“长”时距对应的杠杆。需要注意的是，在此任务中，对这些中间时距的判断不伴随强化，只有对标准“长”或“短”时距的判断才伴随强化，以保持强化的有效性(Kamada&Hata,2018)。在其他时间二分任务的研究中，也有些采用水作为强化奖励，还有一些采用鼻触行为代替按压杠杆。无论是人类研究还是动物研究，都会进行一些时间二分任务的练习，待行为达到稳定后再开始正式的实验。此范式通常是统计大鼠将每个时距判断为“长”时距的比例，并以此进行后续分析。
+
+在大鼠的研究中，2s和8s是较为常用的一对标准“短”和“长”时距。根据不同的实验需要，也有其他的时距。例如，在一项关于大鼠冲动性的研究中，研究者采用了4s 到12s的时距(Marshall,Smith,& Kirkpatrick,2014)。有研究指出大鼠可以区分数百毫秒的时距变化（204 $( 2 0 0 \sim 8 0 0 ~ \mathrm { m s } )$ ，但其前期训练时间要远远长于秒上时距的训练，提示大鼠对于秒上时距可能更为敏感(Graham,Ho,Bradshaw,& Szabadi,1994)。在时间二分任务的结果处理中，主观相等点（point ofsubjective equality,PSE）是一项非常重要的指标。PSE 是指 $50 \%$ 判断为"长”时所对应的时距。当某种条件下的PSE 显著小于对照组，则表明个体在此实验条件下倾向于将相同时长的时距知觉判断为更长时距，即动物时距知觉加快。此外，时间二分任务中还可以使用韦伯分数(Weber's Fraction,WF)来代表时距知觉的敏感性，WF 越高代表动物的时间敏感性越低，也就是对于不同时距的分辨能力更差。因此，时间二分任务不仅可以用来探索个体时间知觉的快慢，还可以用来考察个体对于不同时距的辨别能力。
+
+啮齿类动物的时间二分任务相关研究常用来探索时距知觉的机制及其影响因素。Cheng等研究者分别考察了腹腔注射可卡因和氯胺酮对大鼠执行时间二分任务(2svs.8s)的影响，结果发现与对照组相比，可卡因能够导致PSE的显著降低，提示其出现对时间的过长估计，也可以认为是时距知觉的速度加快；而氯胺酮则并未引起PSE的改变。以往的研究表明可卡因能够引起背侧和腹侧纹状体多巴胺水平迅速升高，而氯胺酮会引起前额叶皮质、腹侧纹状体和海马等脑区多巴胺水平的显著增加。所以，这一结果提示背侧纹状体多巴胺能水平的改变参与了时距知觉的加工(Cheng,MacDonald,&Meck,2006)。以往的人类研究发现情绪能够影响时距知觉(Droit-Volet,2013)，以大鼠为研究对象也发现恐惧情绪能够加快时距知觉(Faure etal.,2013;Kamada&Hata,2018)，并且，在进一步的研究中，研究者发现将GABAA受体激动剂蝇蕈醇注入大鼠双侧基底外侧杏仁核后，可以抵消恐惧情绪引起的PSE 左移，说明双侧基底外侧杏仁核活动与恐惧情绪高度相关(Kamada&Hata,2019)。
+
+还有研究者采用时间二分任务考察一些神经精神类疾病状态下的时距知觉，以此来探索这些疾病对于认知行为的影响及其神经机制。有研究者通过母体免疫激活(matermal immuneactivation，MIA)建立大鼠精神分裂症模型，并训练大鼠执行时间二分任务(2 s vs.8 s)。结果发现，与对照组相比，模型组的PSE 显著低于对照组，提示其高估了时间的流逝；另外还发现模型组的韦伯分数显著高于对照组，提示其时间敏感性降低。这些结果表明MIA可以导致时距知觉的损伤，且这种损伤与精神分裂症患者的表现非常相似(Deane,Millar,Bilkey,&Ward,2017)。还有研究者训练转基因亨廷顿病(transgenic Huntington disease,tgHD)大鼠执行时间二分任务(2svs.8s，从出生后3个月到12个月)。结果发现，早在4个月大的时候，tgHD 组的Gamma 值就显著高于野生型(wild-type,WT)对照组。此研究中使用的 Gamma 值与 WF 成正比，Gamma 值越大，也说明动物的时间敏感性越低，因此该结果提示 tgHD 组大鼠的时间敏感性更差。此时期的大鼠尚未表现出典型的HD症状，因此，秒上时距知觉的损伤可以作为HD 疾病进展的早期预测标记(Hohn et al,2011)。这些结果都显示了时间二分任务在神经精神类疾病机制研究甚至未来临床应用中的潜在价值。
+
+# 2.2 峰值间隔法 (Peak-interval procedure,PI)
+
+峰值间隔法由固定间隔法(Fixed-interval procedure,FI)衍生而来。固定间隔法最早是斯金纳在研究操作性条件反射中使用的(Hilgard,1939)。此范式会设定一个固定时距T，在时距的起点开始给予大鼠刺激（以白噪声刺激为例)。当声音出现后，大鼠可以反复按压杠杆，固定时距T结束后的第一次按压才会关闭声音刺激并且让大鼠获得奖励。研究发现，当越靠近T时，大鼠按压杠杆的频率明显升高，表明大鼠能够知觉到时距的流逝。到达时距T并得到食物强化后，大鼠停止按压杠杆，之后才会逐渐缓慢地增加按压杠杆的频率。该范式会受到较多因素的影响，有研究采用FI范式以猫、大鼠、鸽子、鱼等7种动物进行实验，发现FI设定的固定时距T不同时，这些动物对于时距T的判断的精确度不同。一般认为动物的时距知觉符合韦伯定律，但是这一分析结果与韦伯定律相冲突，提示其可能受到动物本身的与时距知觉无关的反应速率的限制（Lejeune&Wearden,1991)。此外，强化幅度以及强化次数等因素也会对FI范式的结果产生影响(Dews,1978)。由于FI范式对于强化的依赖较强，所以无法全面直观地反映动物主观时间知觉的变化，目前主要是用于峰值间隔法(PI)的前期训练阶段。
+
+Roberts首次提出了峰值间隔法，并且验证了强化幅度在该范式下不影响内部时钟速率的判断(Roberts,1981)。峰值间隔法(PI)的第一阶段与固定间隔法（FI）相同，即大鼠在声音刺激呈现时间到达固定时距T之后的第一次按压杠杆可获得食物奖励；在第二阶段大鼠会执行PI程序，即白噪声出现之后大鼠在任何时间按压杠杆都不会得到奖励，而白噪声的终止时间设定为2T或者4T。在PI程序中，由于大鼠已经经过前一阶段固定间隔法的练习，所以仍然会认为在时距T时会获得奖励，也因此会表现为接近时距T时，按压频率逐渐增加，直到时距T附近达到最高点，并且在此时距之后声音刺激终止之前逐渐降低按压的频率。在第二阶段，FI程序和PI程序随机交替进行(各 $50 \%$ ，以保持强化的有效性。用于统计的数值是PI程序的峰值反应率(peak rate)，即PI程序中动物做出反应(通常是按压杠杆)的最大频率。峰值反应率所对应的时距被称为峰值时间(peak time)，这是该范式中最重要的参数，用以衡量时距知觉的变化(Church,Meck,&Gibbon,1994)。峰值时间显著低于对照组，说明时距知觉加快。反之，若峰值时间显著高于对照组，则说明时距知觉变慢。
+
+反向峰值间隔程序（Reversed Peak-interval Procedure，RPI）是PI范式的一种变形。它是利用PI范式的试次间隔时距（Intertrialinterval，ITI）来研究时距知觉的变化。以前述的声音刺激为例，PI考察的是声音刺激开始后大鼠的时距知觉，而RPI考察的则是声音刺激终止后大鼠的时距知觉。在RPI的第一阶段(FI阶段)，大鼠需要学会在声音刺激停止时开始随意按压杠杆，达到目标时距T后的第一次按压会触发声音刺激，此时大鼠会得到奖励；在第二阶段的RPI程序中，声音刺激停止后大鼠开始自由按压杠杆，但是达到目标时距T后声音不出现，直到达到设定时距2T或者4T才会触发声音，且不伴随奖励。在这一阶段，依然是RPI程序及其对应的FI程序随机呈现 $( 5 0 \% )$ ，以保证强化的有效性。Buhusi和Meck曾利用这种范式发现ITI的长短以及对ITI的干扰会影响工作记忆，从而影响大鼠的时距知觉(Buhusi&Meck,2006)，不过此研究采用的刺激是光照，大鼠在光照停止后开始按压杠杆。混合固定间隔法（MixedFixed-interval Schedule,MixedFI-FItrail)是PI范式的另一种变化，和PI范式主要的区别在于，假设在FI程序中，给定的强化时距为T1，第二阶段引入的不是PI程序，而是第二个FI程序，即在固定的时距T2（ $\scriptstyle \mathrm { T } 2 > \mathrm { T } 1$ ）进行强化。该阶段同样也是两种FI随机交替进行(各 $5 0 \%$ 。用于统计的数据是执行第二个FI（T2）时动物反应频率(如按压杠杆的频率)。近年来的研究，更多的是用此范式考察不同时距的不同强化幅度对于动物时间知觉的影响，并且用此来验证时间知觉的各种理论模型的有效性(Blomeley,Lowe,&Wearden,2004)。此外，还有可变间隔法（Variable interval schedule,VI)，这是FI程序的一种变形，它给予强化的时距不再是固定时距T，而是平均时距为T的一系列时距(Herrmstein,1964)。和FI程序一样，VI后续也和PI程序结合来研究动物的时距知觉(Matell,Kim,&Hartshorme,2014)。
+
+峰值间隔法在时距知觉的动物研究中应用非常广泛，可用于探索多种因素对于时距知觉的影响。Swaton和Matell在2011年的研究中发现大鼠在同时接受听觉和视觉复合刺激时，对于这两种刺激的时距判断不同。似乎大鼠对于视觉刺激的启动更为敏感。这提示视觉刺激和听觉刺激影响时距知觉的通路可能具有差异（Swanton＆Matell,2011)。Lejuene等研究者对比了4个月的幼年大鼠和24个月成年大鼠的时距知觉，发现成年大鼠的峰值时间明显高于幼年大鼠；而幼年大鼠的峰值时间和实验设定的强化时距T更为接近。可能的原因是成年大鼠对于之前训练的强化记忆衰减更快或者对于刺激的开始和结束的知觉存在延迟(Lejeune,Ferrara,Soffie,Bronchart,&Wearden,1998)。上述研究分别揭示了感知觉模态和年龄对时距知觉的影响。
+
+此外，该范式还常用于时距知觉的神经机制相关研究。有研究发现多巴胺转运体（Thedopamine transporter，DAT）基因缺失的大鼠无法在峰值间隔任务中正常地控制行为表达，提示多巴胺能通路在时距知觉上有重要的作用(Meck etal.,2012)。还有研究者通过药理学手段证明伏隔核壳部(NAc shell)的多巴胺水平并不影响PI任务中的时距知觉(Kurti& Matell,2011)。该研究中，通过向伏隔核微量注射多巴胺能抑制剂舒必利(sulpiride)，多巴胺能激动剂安非他命(amphetamine)或生理盐水发现，舒必利可以有效地降低大鼠的反应速率，却不影响峰值时间；安非他命也不影响峰值时间。也有研究者应用该范式的不同结果探讨时距知觉的理论模型(Buhusi&Meck,2009)。目前，峰值间隔法在神经精神类疾病的动物模型中研究还比较少。有研究者通过PI范式考察自发性高血压大鼠(SHR)的时距知觉行为，以此来评估该模型作为注意缺陷障碍(Attention Deficit and /Hyperactivity Disorder,ADHD)动物模型的有效性(Orduna et al.,2008)。
+
+# 2.3 低比率差别强化法（differentialreinforcementoflowrates,DRL）
+
+低比率差别强化法与人类时间知觉研究中的产生式法(temporal production procedure)的原理相类似(Kurti&Matell,2011)。产生式法是让被试通过按键等行为操作来呈现某一时距。而在DRL任务中，要求动物从开始按压杠杆到松开杠杆的间隔时距达到设定时距(T)后，才能获得食物或者水作为奖励；若过早地松开杠杆，动物则不能得到奖励。主要用于统计的数据是动物从按压杠杆到松开杠杆的时间，即间隔反应时间(Interval Reaction Time,IRT)。正式实验中出现频率最高的IRT即为峰值时间，是反映动物的时距知觉快慢的重要指标。实验组的峰值时间小于对照组，则说明时间知觉加快；若大于对照组，则说明时间知觉减慢。
+
+Skinner在早期研究中指出，在动物延续某一动作达到指定时长才给予食物奖励的情境下，可以降低动物的动作反应的频率，这结果在后续的实验中得到论证(Wilson& Keller,1953)，而DRL 范式的设计正是基于此理论。在DRL任务中，动物不得不控制住自己想要放开杠杆的冲动性，学会“等待”，并且习得精确的时距才能获得食物奖励。因此，DRL 范式在评定个体冲动性方面具有相当的优势(Monterosso＆Ainslie,1999)，除了峰值时间之外，DRL还会额外观察动物的未强化反应数和冲动反应数。通常会设定 $\scriptstyle { \mathrm { I R T } } < 2$ 秒是冲动性反应。此外，还有研究者将DRL范式作为训练时间知觉精确性、减少冲动性选择、增加自我控制能力的一种干预方式(Eckard&Kyonka,2018; Smith,Marshal,&Kirkpatrick,2015)。
+
+DRL 是首次考察动物对于自身行为时长的时间知觉的研究范式(Sidman,1956)。该范式可以作为以时间二分任务为代表的这类知觉外部刺激时距的研究范式的良好补充。例如，在前文提到的 Cheng 等的一项研究中(Cheng etal.,2006)，就同时使用了DRL 范式(12s)和时间二分任务(2s vs.8s)探索了可卡因和氯胺酮对时距知觉的影响。DRL 的结果发现可卡因注射后，大鼠的峰值时间显著低于对照组，而氯胺酮注射则没有影响，提示可卡因可以加速大鼠的时距知觉，这与时间二分任务的结果相一致。此外，还有研究者在一项考察大鼠腹腔注射代谢型谷氨酸受体拮抗剂对认知功能影响的研究中，同时使用了DRL(18s)和时间二分任务(2s vs.8s)。结果发现，该药物可显著增加DRL任务中的反应率和强化率，但是对峰值时间的影响未达到显著；而在时间二分任务中，此药物也同样未能影响大鼠的 PSE(Sukhotina etal., 2008)。
+
+该范式还存在一些变式，例如长潜伏期差别强化法（the differential reinforcement of long-latency procedure,DRLL)就是低比率差别强化法的一种变型(Church&Deluty,1977)。DRL 是动物执行某一指定动作的反应时距超过设定的时距（T）才能获得奖励，而DRLL则是动物在刺激出现后延迟执行指定动作超过设定的时距（T）时才能获得奖励，例如，在声音刺激出现后，大鼠等待时间达到时距T后再按压杠杆或者鼻触才可以获得奖励。两种范式都是通过考察动物延迟动作（延迟停止动作或者延迟执行动作）的时长来研究动物的时距知觉，因此 DRLL 也被认为是一种有效的研究时距知觉的范式(Ito,1981)。串联固定比率-DRL 任务(tandem Fixed Ratio-DRL schedule task)是近期一项研究中采用的范式，该任务要求大鼠在投送食物的声音出现之后，触摸开关达到固定间隔 $5 0 0 \mathrm { m s }$ 或者 $1 5 0 0 \mathrm { { m s } }$ 再松开开关，当固定数量的连续触摸（通常是1\~3次）成功后，大鼠才能获得食物奖励，此研究发现大鼠对于500ms 的时距也可以精准估计(Yamaguchi& Sakurai,2014)。
+
+# 2.4 自由操作心理物理法(Free-operantPsychophysical Procedure,FOPP)
+
+FOPP 范式是将刺激时间(T)分为前半段和后半段。在训练阶段，前半段时间(1/2T)里，选择 A杠杆才有可能得到强化，选择B 杠杆则不被强化；而在后半段时间里，则反之(DA.Stubbs,1980)。在测试试次中，动物可以自由选择按压哪个杠杆。然而按压任何杠杆都不会得到强化。可想而知，在无其他变量影响的情况下，刺激刚开始时，动物按压A的概率要远大于按压B的概率。在时间逐渐接近1/2T时，按压B的概率逐渐升高。超过1/2T时间后，按压B的概率会高于按压A的概率。通过动物对杠杆的选择可以判断动物的时距知觉。在该范式中，个体选择杠杆A和B的概率相等时所对应的时间，为无差别点(indifferentpoint)。无差别点越大，则证明个体对时距的估计更长，相对的其时距知觉的加工速度较慢。一些研究通过此范式探索了5-羟色胺能通路对时距知觉的作用(Body et al.,2006;Body,Kheramin,etal.,2002)。此外，还有一些类似的研究范式，例如离散试验任务（Discrete-trialsTask）(Body,Chiang,etal.,2002)。此类任务首先设定特定时距T。在训练阶段，如果刺激时距小于特定时距T，则动物只有按压A杠杆才可以得到强化；如果刺激时距大于特定时距T，则按压B杠杆才能得到强化；同时，此阶段一般还会混合一定比例的强迫选择实验，即只伸出一根刺激时距所对应的正确杠杆等待动物按压，动物按压后获得强化，以帮助动物习得该任务。在测试阶段，动物需要通过判断刺激时距是大于还是小于特定时距T来按压相对应的杠杆，此过程中不伴随强化。有研究者利用此范式发现 ${ \bar { 5 } } { \cdot } \mathrm { H T _ { 2 \mathrm { A } } }$ 受体介导了致幻剂2,5-二甲氧基-4-碘安非他明(DOI)引起的小鼠时距知觉的改变(Halberstadt et al.,2016)。
+
+# 2.5 失匹配负波（mismatch negativity，MMN)
+
+失匹配负波(MMN)是一种事件相关电位（Event-related Potential,ERP）成分(Naatanen,Paavilainen,Rinne,&Alho,2007)，能够反映大脑对新异刺激的探测。一些研究者提出 MMN还可以作为一种自动分辨时距的生理指标，用于研究时间知觉(Sussman,2007)。MMN 可通过新异刺激范式(oddballparadigm）产生，该范式是指在一系列重复的或者熟悉的标准刺激中插入数量稀少的偏差刺激。通过脑电记录方式获得两种刺激的ERP，再用偏差刺激的 ERP波幅减去标准刺激的ERP 波幅就可以得到MMN。偏差刺激和标准刺激的差别，可以是刺激频率，也可以是刺激时距，在MMN领域较为常见的听觉刺激研究中，还有研究者考察节奏变化引起的MMN。即使在个体没有主动注意的情况下，MMN依然能够被诱发，因此MMN可以不受到注意的限制，作为声音辨别准确性和听觉感觉记忆的客观指标。在麻醉或昏迷的情况下也可以记录此成分(Azabou et al.,2018)。Roger 等研究者给予自由活动的大鼠呈现重复的固定标准时距的声音作为标准刺激，并在其中偶尔呈现比标准时距短的声音作为偏差刺激。该实验中标准时距为 $1 5 0 \mathrm { m s }$ ，偏差刺激时距为 $1 2 5 \mathrm { m s }$ 、 $1 0 0 \mathrm { { m s } }$ 、75ms 和 $5 0 \mathrm { { m s } }$ ，并通过在初级运动皮质，顶叶皮质以及前扣带皮质埋置脑电电极同步记录大鼠的脑电活动。结果发现除了 $1 2 5 \mathrm { m s }$ 以外，其余的偏差刺激都能引起MMN。此研究发现最小的能引起大鼠MMN的时距差别阈限约在标准时距的 $1 6 \%$ 到 $33 \%$ 之间(Roger,Hasbroucq,Rabat, Vidal,& Burle,2009).近期，有研究者采用麻醉小鼠为研究对象，发现了不同时距诱发的 MMN(Lipponen et al,2019)。在未来的研究中，MMN或许可以作为时距知觉研究的一个重要方向。
+
+# 2.6 录制观察法
+
+录制观察法通常用于观察动物的自然行为。此类研究中并不训练动物执行特定的行为操作，而是在实验室状态下模拟动物的自然行为，通过录制影像、分析影像中的行为时间来了解动物的时间知觉。这种方法可以观察动物与日常生活息息相关的时距知觉，如大鼠的护食行为。研究发现苯丙胺使拥有食物的大鼠对于食物的可能竞争者的躲避时间增加了 $3 1 . 0 8 \%$ 而氟哌啶醇使躲避时间减少了 $3 5 . 6 3 \%$ (Wallace,Wallace,Field,&Whishaw,2006)。有研究者还采用此方法考察了背侧中央纹状体（DCS）对个体时间信息加工的贡献（在几秒到几分钟的范围内)，在给予Long-Evans 大鼠 DCS 单侧损毁后进行食物保护任务。一般认为，如果大鼠认为食用食物的时间较长，则通常采用横向躲避法，并且将食物放入口中(dodgebehavior)；若主观认为食用食物时间较短，则容易采用转身回避法(bracingbehavior)。正常大鼠平均在3个试次后将dodge 行为转变为bracing 行为，但是单侧DCS 损伤大鼠则需要在 5个试次后发生这种转变，这种转变反应了主观时间感觉的改变。此研究提示DCS可能是影响个体时距信息的关键结构(Blankenship,Cheatwood,&Wallace,2017)。随着动物行为分析技术的发展，这种方法的优势逐渐显现，因为可以更直观地考察时距知觉对动物日常行为的影响及其机制。
+
+# 2.7 对动物时距知觉研究范式的比较
+
+根据不同的实验目的以及实验条件，研究者们设计了大量的时距知觉动物研究范式。上述六大类是时距知觉动物研究中较为常见的类型，其总结和比较详见表1。其中，时间二分任务被广泛应用于影响时距知觉速度以及时间敏感性的多种因素探索中，例如情绪、药物以及神经精神类疾病等。需要注意的是,时间二分任务中，动物仅仅是对不同的时距进行“长”或“短”的二分判断，与实际生活中对于时间长度的估计仍有一定的差别，这一不足在峰值间隔法(PI)以及低比率差别强化法(DRL)中得到了弥补。在峰值间隔法这一类范式中，动物在目标时距附近按压杠杆的频率会升高，而在DRL这类范式中，会要求动物按压杠杆直到目标时距再松开或者等待一定时距再按压杠杆，这些都反映了动物对于特定时距的估计。因此，近年来一些研究中，常采用这两类范式结合特定脑区的神经元记录技术等，来探索个体在对目标时距进行估计时的神经元编码模式(Mello,Soares,&Paton,2015;Parker,Ruggiero,&Narayanan,2015)。两者相比较，PI任务中，动物通常需要反复按压杠杆，此过程中较多的运动对神经元记录的影响较大；而DRL任务中，动物在等待时没有行为操作或者正在维持某种行为，其运动行为更为单一，对神经元记录的干扰更小，所以更适合用来分析和寻找编码时距知觉的神经元。已经有研究通过12s-DRL 发现在大鼠的内侧额叶在计时间隔可以出现了表征时距加工的斜坡式反应 (Parker etal.,2014)。然而，DRL 范式也更容易受到个体冲动性的影响。
+
+自由操作心理物理法(FOPP)需要动物判断刺激时距大于还是小于1/2标准时距。该范式中动物的操作更为自由，主要表现为其何时按压杠杆不需要声光刺激的提示，而且训练过程中只要正确按压目标杠杆都可以获得强化。FOPP也常用于考察个体对时间长度的估计以及时距的辨别。相对于时间二分任务，FOPP的行为操作更为快速，在同一个试次可以得到更多的数据，因此该范式可用于更长时距的研究，例如50s或者150s；其自由操作模式需要动物主动对时距进行判断，但是这种判断过程中容易混杂其他因素，例如在测试阶段，动物可能通过对前期按压杠杆顺序的记忆来执行操作，而不是通过对时距的估计(D.A.Stubbs,1980)。相对于上述通过长期的强化训练开展的行为学实验研究范式，失匹配负波则是一种更为自动化的指标，不受到注意的影响，可用于研究麻醉状态下的动物。然而，失匹配负波通常比较的是秒下的时距知觉，而且涉及的是前注意，所以其反映的时距知觉加工模式与前述研究的结果可能存在机制上的差异。录制观察法可以更好的观察动物在自然状态下的某种日常行为，不受到强化相关因素的影响，然而目前可观察且能够量化的日常动物行为仍然较少，在此方面还需要进一步的探索。
+
+表1时距知觉的动物研究范式的比较  
+
+<html><body><table><tr><td>范式类别</td><td>重要参数</td><td>参数意义</td><td>优点</td><td>缺点</td></tr><tr><td>时间二分任务</td><td>主观相等点 韦伯分数</td><td>时距知觉加工速度 时间敏感性</td><td>更适用于考察时间敏 感性</td><td>动物需要进行二分判 断，而不是直接估计时 距</td></tr><tr><td>峰值间隔法</td><td>峰值时间 峰值反应率 韦伯分数</td><td>时距知觉加工速度 个体兴奋度 时间敏感性</td><td>动物在操作过程中较 为自由，可以主观判 断时距</td><td>动物反复按压杠杆，在 记录神经元时容易受到 运动的影响</td></tr><tr><td>低比率差别强 化法</td><td>峰值时间 冲动反应数&未 强化反应数</td><td>时距知觉加工速度 个体冲动性</td><td>动物需要等待特定时 长，更接近人类研究 的产生式法</td><td>容易受到个体冲动性的 影响</td></tr><tr><td>自由操作心理 物理法 失匹配负波</td><td>无差别点 波幅和潜伏期</td><td>时距知觉加工速度 对时距的辨别</td><td>行为操作快速，适用 于长时距研究 不受注意限制，可考</td><td>自由操作过程中易混杂 其他因素 观察的时间窗较小</td></tr><tr><td>录制观察法</td><td>某种行为的时长</td><td>时距知觉加工速度</td><td>察时距知觉的自动加 工过程 可观察动物在自然状</td><td>可量化的日常行为目前</td></tr></table></body></html>
+
+# 3．时距知觉的神经机制一一基于动物实验范式的研究证据
+
+选择合适的研究范式，或者根据当前的实验目的以及实验条件对现有的研究范式进行调整甚至开发新的范式，对于有效探索时距知觉的神经机制至关重要。时间二分任务、峰值间隔法、低比率差别强化法这三大类研究范式，广泛应用于以动物为研究对象的时距知觉神经机制研究中。近年来，基于动物时距知觉研究范式，结合丰富的神经生物学研究手段，研究者们获得了大量与时距知觉加工密切相关的脑机制实验证据，为基于人类被试的研究成果提供了有力补充。此部分将重点从神经环路以及神经递质的角度介绍基于前述动物研究范式的时距知觉神经机制的研究进展。
+
+# 3.1时距知觉的相关神经环路机制
+
+早期的研究者们倾向于认为基底节是内在时钟所在的脑结构(Meck,1996)，但是随着更多时距知觉神经机制研究的积累，研究者逐渐认为时距知觉的加工有着更为广泛的神经网络的参与(Matell& Meck,2004)，包括基底节的黑质和纹状体、以内侧前额叶为代表的皮层区域以及海马结构等。
+
+通过单个神经元多个核团同步记录技术，研究者记录了大鼠在执行混合固定间隔法(10s,40 s)时纹状体背外侧区和背内侧前额叶，结果发现纹状体背外侧区的单个神经元可以通过缓慢改变放电频率来编码时距，而少数纹状体和皮质神经元可以作为一个整体来辨别时距(Matell,Meck,&Nicolelis,2003)。还有研究者训练大鼠执行了一系列时距的FI任务( $1 2 \sim 6 0$ s)，且同步记录其纹状体神经元。结果发现当动物执行到新的时距任务时，对纹状体神经元活动的解码可以预估其计时行为，而破坏纹状体会干扰其计时行为，这些结果进一步证实了纹状体神经元对时距知觉的编码(Mello etal.,2015)。还有研究者采用光遗传技术考察了黑质在时距加工中的作用(Toda etal.,2017)。此研究以小鼠为研究对象，采用一种新型的与PI任务相类似的研究范式。该研究固定了小鼠的头部，根据舔食行为判断其对于时距知觉的加工。结果发现，光遗传刺激黑质网状部到上丘的GABA能投射可以暂时停止小鼠的舔食行为，并且可以推迟下一个任务中小鼠开始试探性舔食的时间，但是却不影响舔食持续时间。研究者认为黑质到上丘的投射可能具有运动控制作用，同时也会影响计时行为，这种计时作用可能是因为此通路被阻断后，更多的信息通过黑质-丘脑通路上传到皮层区域，从而影响时距知觉。
+
+Kim 等研究者通过向内侧前额叶（medial prefrontal cortex,mPFC)注射GABA 能受体激动剂以失活此脑区,结果发现mPFC的失活显著损伤了大鼠执行时间二分任务的表现(J.Kim,Jung,Byun,Jo,& Jung,2009)。在进一步的研究中，Kim 等研究者记录了大鼠执行时间二分任务时的mPFC的神经元活动，结果发现mPFC 神经元群可以传递关于时间流逝的精确信息，提示 mPFC 具有一定的时钟功能(J.Kim,Ghim,Lee,&Jung,2013)。此外，在一项串联固定比率-DRL任务中(要求大鼠在1.5s 或者2.5s 的目标时距内维持鼻触行为)，研究者记录了内侧前额叶皮层的神经元活动，发现在计时过程中许多mPFC神经元显示出持续的峰电位；通过局部冷却的方法暂停mPFC 的神经活动能力后，发现大鼠推迟了从鼻触等待区离开的时间，表现为延长了对时距的估计(Xu,Zhang,Dan,&Poo,2014)，从而进一步证实了mPFC参与时距知觉的加工。
+
+海马作为重要的记忆相关脑区，在时距知觉的加工中占有重要位置(Oprisan,Aft,Buhusi,&Buhusi,2018)。海马区域损毁的时距知觉研究已经证实了这个观点(Meck,Church,& Matell,2013)，例如在一项12s-DRL任务中，损毁海马区域发现了峰值时间的缩短，表现为对目标时距的过低估计(Jaldow&Oakley,1990)。在一项PI任务中，损毁了大鼠的背侧海马，并且发现背侧海马损毁组的大鼠表现出了对15s 时距的过低估计(Tam,Jennings,&Bonardi,2013)。此外，还有研究者提出海马可能存在储存记忆时间信息的细胞(Eichenbaum,2014)。然而，相对于基底节以及皮层区域，海马对时距知觉的影响并不直接，更可能是因为影响了记忆从而影响时距知觉，其具体的机制及其与其他脑区的关系还需要更多精确的实验研究加以证实。
+
+上述的基于动物时距知觉研究范式的实验证实了纹状体在计时加工过程中的核心作用，还发现纹状体和皮层的神经元活动改变可以共同编码计时行为。根据时距加工的纹状体振荡频率模型 (striatal beat frequency model, SBF)，纹状体很可能是通过感知皮层振荡活动的变化而进行计时，而黑质到纹状体的多巴胺能投射可能起到了调节计时的作用(Matell&Meck,2004)。前述的Toda等人的光遗传学研究为黑质调节时距加工提供了另一种可能的解释。该研究的结果提示当黑质网状部到丘脑的GABA能投射发生变化时可能会影响皮层活动，而纹状体检测到这种皮层活动的改变可能会影响计时行为。前额叶皮质在时距加工中的作用得到了越来越多的证据支持。mPFC的部分神经元可以通过调节放电频率来传递时距信息。然而研究者们也发现，与纹状体神经元相比较，mPFC在计时过程中的神经元活动变化更为复杂，可能还同时编码了运动计划和奖赏期待的相关信息(Xu etal.,2014)。此外，mPFC还参与注意控制以及工作记忆的调节(J.Kim et al.,2009)，这些因素也同样能够影响时距知觉的加工，因此mPFC 对于时距加工的作用机制可能是多角度的。纹状体和mPFC 的部分神经元在时距知觉加工过程中还表现出一种斜坡式放电(ramping activity)模式。这种放电模式在从放电开始到峰值的过程与当前时距有良好的匹配性。有研究者依据此放电模式提出了斜坡活动模型(Rampingactivity model)，认为大脑可以通过整合这些放电信息计算时距(Hass &Durstewitz,2016;Xu etal.,2014)。当前在动物研究中还证实了海马能够影响时距知觉的加工。在进行时距判断的过程中，往往需要将当前时距与记忆中储存的时距相比较，从而估计时间。因此，海马作为编码记忆的重要脑区，其对于时距加工的影响更可能是在记忆存储方面。需要注意的是，由于当前时距信息的传递与加工过程并不明确，各脑区对时距知觉的作用机制的解释往往是依据现有的时距知觉加工理论模型。而这些实验研究的积累，将有助于揭示时距知觉加工的真实过程。
+
+# 3.2神经递质在时距知觉相关神经环路中的作用
+
+在探索时距知觉神经机制的过程中，研究者们逐渐发现一些神经递质参与了时距知觉的加工，多巴胺、5-羟色胺(5-HT）、乙酰胆碱、谷氨酸以及GABA等，这些神经递质很可能参与了时距知觉相关信息在脑区之间的传递。
+
+普遍认为，纹状体的多巴胺能通路与动物的内部时钟的速率有关，是时距知觉重要的神经物质基础(Jones ＆ Jahanshahi,2009)。最新的研究发现，在一项6s 的 PI任务中，阻断大鼠背内侧纹状体中的D1和D2受体可以延迟鼻触行为的停止时间，同时，阻断背外侧和背内侧纹状体D2受体还会延迟鼻触行为的开始时间。这表明纹状体的多巴胺水平可能具有调节计时的开始和结束的功能(De Corte,Wagner,Matel,& Narayanan,2019)。黑质损毁（局部注射6-OHDA）可以损伤大鼠在PI任务中的时距知觉，而向大鼠腹腔注射左旋多巴(多巴胺前体)，可以恢复其时距知觉接近正常水平(Meck,2006)，提示黑质的多巴胺能通路也可能参与时距知觉的加工。Parker等研究者训练大鼠执行时距知觉任务(要求大鼠等待12s 再按压杠杆，相当于DRLL 程序)，在此过程中记录大鼠内侧额叶皮层（MFC）的神经元活动，并且在该脑区局部给予D1型多巴胺受体（D1DR）激动剂SKF82958，结果发现这种药物干扰了大鼠的时距知觉行为，表现为降低了大鼠的反应准确性。此研究中，在注射 SKF82958 后，MFC 中代表计时加工的斜坡式神经活动也随之减弱(Parker et al.,2015)，提示了MFC神经元对时距知觉的编码会受到多巴胺水平的影响。
+
+在进一步的研究中，Kim等研究者训练中脑腹侧被盖区（VTA）6-OHDA注射导致多巴胺缺乏的小鼠执行12s 时距知觉任务(要求小鼠等待12s再按压杠杆，相当于DRLL 程序)，并且记录MFC神经活动。结果发现VTA多巴胺缺乏的小鼠在计时期间，其MFC的delta 频率神经活动减弱；通过光遗传技术刺激MFC中D1DR $. +$ 的神经元可以增加MFC神经元的斜坡式活动，以delta频率（ $2 \mathrm { H z }$ ）刺激MFC-D1DR $. +$ 神经元还可以补偿VTA多巴胺耗竭引起的时距知觉行为的损伤(Y.C.Kim etal.,2017)。可见VTA到MFC 的多巴胺能投射参与了时距知觉的加工。在Kim 和Narayanan 后续的研究中特异性地记录了MFC 的
+
+D1DR $\cdot ^ { + }$ 神经元，结果发现此类神经元在计时间隔的早期会出现斜坡式反应，并且在计时间隔的早期刺激MFC的D1DR $. +$ 神经元可以补偿由于中脑多巴胺缺乏而引起的时距知觉行为的损伤(Y.C.Kim&Narayanan,2019)。这一结果更清楚的表明中脑多巴胺能投射能够通过影响MFC的D1DR $. +$ 神经元从而调节时距知觉。
+
+Meck等研究者还考察了胆碱能通路对时距知觉的影响(采用20sPI范式)，结果发现胆碱能受体阻断剂阿托品干扰了大鼠的时间分辨能力，并且可以使峰值时间右移。研究认为胆碱能系统可能影响的是时距知觉任务中时间记忆的存储速度(Meck,1996;Meck&Church,1987)。此外还有研究发现母亲饮食中补充胆碱可以促进子代的时距知觉能力和时间记忆(Cheng,Scot,Penney,Williams,&Meck,2008)。研究者在胚胎期（ED）12-17天，在母鼠的饮食中补充胆碱，并考察子代成年后的时距二分任务（2svs.8s，听觉和视觉信号)。结果发现，产前补充胆碱可以显著提高子代大鼠对目标时距的敏感性。还有研究者提出这种胆碱能水平的改变可能会影响纹状体中间神经元对纹状体中型多棘神经元的调节，从而影响时距知觉(Coull,Cheng,& Meck,2011)。Daniels等人在大鼠执行一项复合FI任务（类似混合固定时距法）研究中发现，注射四甲双环庚胺（mecamylamine，一种乙酰胆碱受体拮抗剂）可以使已经注射尼古丁(一种乙酰胆碱受体激动剂，其可以干扰计时行为)的大鼠迅速地恢复正常的时距知觉，提示乙酰胆碱受体可能介导了尼古丁对于时距知觉的干扰(Danielset al., 2015)。
+
+相对于多巴胺和乙酰胆碱，5-HT、谷氨酸和GABA在时距知觉加工中的研究较少。一些研究发现5-HT2A/2C受体激动剂DOI可以降低大鼠在离散试验任务中对于时距的辨别，而选择性5-HT2A拮抗剂可以阻断这一作用(Body etal.,2006)，这一结果也得到了其他类似研究的证实(Body,Chiang,et al.,2002; Halberstadt et al.,2016)。然而，这些研究都是全身给予药物，尚不清楚5-HT通路影响时距知觉的脑机制。Hata提出谷氨酸可能是时距知觉加工的重要递质(Hata,2011)，因为皮层到纹状体的投射主要是谷氨酸能(Matell&Meck,2004),但是其对于时距加工的具体作用机制仍缺乏直接的证据。有研究通过PI程序发现NMDA受体(离子型谷氨酸受体的一个亚型)拮抗剂MK-801能够影响时距知觉，但是此研究也是全身注射，难以得知其作用机制。Toda等研究者利用光遗传技术证实了黑质网状部GABA能投射能够影响计时行为(Toda etal.,2017)，但是其明确的作用机制仍需要进一步的研究。
+
+在时距知觉加工的神经网络中，多巴胺能通路起到了非常重要的调节作用。大量的研究都证实中脑腹侧被盖区到皮层的多巴胺能投射，以及黑质致密部到纹状体的多巴胺能投射都在时距知觉加工过程中发挥重要的作用。其中，中脑腹侧被盖区到皮层的多巴胺能投射可能通过同步化皮层神经活动，或者影响皮层神经元的斜坡活动模式从而调节时距知觉；而黑质致密部的多巴胺能传出对纹状体中型多棘神经元(MSN)的突触连结强度有调节作用，这可能是其调节纹状体计时加工的重要机制(Matell& Meck,2004)。早期对于胆碱能通路的研究主要关注其对于记忆存储速度的影响，近年来，纹状体微环路的相关研究提示了另一种可能的机制。在这条微环路中，纹状体的紧张活跃神经元(TAN)传递胆碱能递质到快速放电中间神经元(FSI)，再通过GABA能投射抑制时距加工的核心神经元—一中型多棘神经元(Coull etal.,2011)。因此胆碱能系统可能通过影响这条微环路(TAN-FSI-MSNcircuit)从而调节时距加工。同时，这条环路中，GABA作为抑制型神经递质也发挥着重要作用。但是，对于5-HT、GABA和谷氨酸这些神经递质，由于其广泛存在于中枢，其作用方式可能更为复杂且缺乏特异性，在未来的研究中，还需要采用更多的精细实验设计，探索这些神经递质在时距知觉加工神经网络中的作用机制。
+
+# 4．总结与展望
+
+综上所述，研究者通过多种神经生物学研究手段(核团损毁、神经元记录以及光遗传技术等)，为探索时距知觉的脑机制提供了大量的证据。时距知觉的动物研究范式在此过程中起到了至关重要的作用。当前动物研究中常用的时距知觉研究范式主要是时间二分任务、峰值间隔法、低比率差别强化法和自由操作心理物理法。尽管这些研究范式都能够反映个体时距估计的快慢，但是其侧重点各有不同；时间二分任务能够更好的体现时间敏感性；峰值间隔法和低比率差别强化法则更倾向于反映实验动物主观对于时距的估计，其中低比率差别强化法更接近人类研究中的产生式法；自由操作心理物理法操作快速，因此可用于较长时距的相关研究中。此外，还有一些不需要对动物进行前期行为学训练的研究时距知觉的方法，包括失匹配负波以及观察录制法。其中失匹配负波适合探索不受到注意影响的时距知觉，而观察录制法则可以考察动物在自然活动状态下对于时距的估计。根据不同的实验需求选择合适的实验范式或者建立新的实验范式，将有助于探索时距知觉的内在机制。
+
+当前动物时距知觉神经机制的研究已经证实内侧额叶皮层的多巴胺受体阳性神经元能够编码计时行为(Parkeretal.,2015)，并且这种编码受到来自中脑腹侧被盖区的多巴胺能投射的影响(Y.C.Kimetal.,2017)。除了多巴胺能环路，还有研究者发现乙酰胆碱可能主要影响时距知觉任务中时间记忆的存储速度(Meck,1996);5-羟色胺(5-HT)(Halberstadt etal.,2016)、谷氨酸(Hata,2011)以及GABA(Toda et al.,2017)等神经递质很可能也参与了时间信息传递，但是此类神经递质的研究证据仍然较少且缺乏特异性。在未来的研究中，除了进一步考察时距知觉相关脑区对时距知觉的编码以及神经递质在脑区之间对时距知觉信息的传递，还可以利用动物研究的特点，从更多的角度对其进行探索。Nowark等研究者提出MMN成分变化可以作为甄别老年人时距知觉衰退的早期指标(Nowak et al.,2016)，在动物研究中可以对同一动物进行长期记录，纵向观察其衰老过程MMN成分的变化，进而探索时距知觉随时间推进的动态改变及其可能的机制；有研究者从基因多态性的角度分析了多种神经递质相关基因以及时钟基因对时间知觉的影响(Marinho etal.,2018)，发现基因多态性与影响时间判断的多种行为表型有关，利用转基因动物，可以深入探索目标基因在时距知觉加工中的作用；跨通道的时距知觉研究也可以提供新的思路，已有研究证实一些特定条件下的声音刺激可以扭曲个体对于视觉刺激的时距知觉，并且这种现象更可能是由跨通道整合所引起而非由于唤醒度的提高(Asaoka&Gyoba,2016)，建立跨通道时距加工的动物研究范式，结合相关脑区的电生理记录，将有助于考察时距知觉的跨通道整合机制。
+
+时距知觉在一些神经精神类疾病中会发生改变，甚至会在疾病早期就表现出来，例如，基于亨廷顿动物模型的研究证实时距知觉在亨廷顿病症状出现之前就会发生改变(Hohn etal.,2011)，近期的人类研究也指出秒上时距知觉的损伤或许可以作为帕金森疾病的早期标志(Bernardinis,Atashzar,Jog,&Patel,2019)，这些证据都提示时距知觉或许可以用于一些疾病的早期识别。以神经精神类疾病的模型动物为研究对象，结合时距知觉的动物研究范式，一方面可探索疾病发生发展以及治疗过程中时距知觉的变化，考察其作为生物学标志的可能性；另一方面也将有助于揭示时距知觉的神经机制。已经有研究者在亨廷顿病(Garces et al.,2018)以及精神分裂症(Deane et al.,2017)的模型动物中探索了其对于时距知觉的影响，在未来的研究中，还可以考虑将时距知觉的动物实验扩展到抑郁症、疼痛以及自闭症的研究领域。Thones 和Oberfeld在2015年的一项meta分析中，通过统计近年来抑郁患者的时距知觉，证实了抑郁对主观时间流动以及时距知觉都有中等程度的影响(Thones＆Oberfeld,2015)；近年来还有较多研究探索了疼痛对于时距知觉的影响，例如有研究者证实人类被试在冰水产生的冷压痛过程中执行时间二分任务时，其时距知觉会延长(Rey etal.,2017)，这一现象在最近发表的急性炎症痛模型大鼠执行时间二分任务的研究中也得到了证实(Liu,Wang,Wang,&Luo,2019)，但仍然需要考察更多疼痛动物模型结合多种时距知觉研究范式验证此现象并揭示其中的机制；自闭症的研究，随着发病率的大幅度升高，越来越受到研究者的关注。已有研究证实自闭症谱系被试与神经典型被试的时距知觉存在差异(Doenyas,Mutluer,Genc,&Balci,2019;Jurek et al.,2019)，但是其机制仍在探索之中。通过建立抑郁、疼痛或者自闭症的动物模型，结合时距知觉研究范式，考察其对时距知觉的影响及其机制，将有助于揭示这些疾病的内在机制及其对认知加工的影响。
+
+时距知觉的信息加工(information processing)相关研究与建模是此领域的热点，而且也存在大量争议。基于标量期待理论(scalar timing theory)的节拍器-累加器模型(pacemakeraccumulator model,PA model)(Gibbon,Church,&Meck,1984)认为大脑存在特定的编码时距知觉的脑区。随着研究的发展，基于PA 模型产生的纹状体振荡频率模型(striatal beat frequencymodel,SBF)(Meck,Penney,&Pouthas,2008)提出时距知觉的加工可能涉及包括纹状体和皮质在内的更为广泛的脑网络。状态依赖网络模型则认为时距知觉依赖于广泛存在于脑区的神经和突触的可重复性动态变化(Buonomano,2000)，而并非特定的神经机制。一些研究对这两类理论模型进行了比较，例如Kleinmann 等研究者以恒河猴为研究对象，采用改良的混合固定时距法，观察恒河猴对两个先后开始的时距的反应频率，结果却发现无论是传统的节拍器-累加器模型还是状态依赖网络模型都需要进一步的修正才能够对实验结果进行解释(Kleinman,Sohn,&Lee,2016)。Hass 和 Durstewitz 在近期的综述中总结了当前常见时距知觉信息加工模型，并且提到个体对于时距的判断，可能是多个脑区加工其他信息过程中的固有属性或“副产品”。这些来自不同感觉模态不同脑区的时间信息可能以贝叶斯最优的方式（Bayesian optimalway）在特定的时间中枢（比如前额叶皮质和纹状体）进行计算、整合和决策(Hass&Durstewitz,2016)。一直以来，动物研究在生理和行为学研究结果都对上述理论模型的建立与验证提供着重要的依据和支持，例如动物研究中神经元记录技术以及光遗传技术为验证前额叶皮层，纹状体和中脑腹侧被盖区在时距加工中的作用及其环路机制提供了大量证据(De Corte et al.,2019;Y.C.Kim et al.,2017)，其中多个脑区发现的神经元斜坡式反应更是有力支持了时距加工的神经整合模型(Wittmann,2013)。在未来的动物实验研究中，可以考虑同步记录多个脑区在时距知觉加工过程中神经编码模式，分析其脑区之间的信息交互，从整体时距加工环路的角度进行探索，例如皮质-纹状体环路以及皮质-小脑环路(Coulletal.2011)；还可以开展更多突触水平和分子水平的研究，与计算神经科学相结合，探索更为接近真相的时距知觉信息加工模型。
+
+# 参考文献
+
+Asaoka,R.,& Gyoba,J.(2016).Sounds modulate the perceived duration of visual stimuli via crossmodal integration.Multisensory Research,29(4-5),319-335.   
+Azabou,E.,Rohaut,B.,Porcher,R.,Heming,N., Kandelman,S.,Allary,J.,Moneger, G.,Faugeras,F.Sitt, J.D.,Annane,D.,Lofaso,F.,Chretien,F., Mantz,J.,Naccache,L.,Sharshar,T.,& GeneR\*\*.(2018). Mismatch negativity to predict subsequent awakening in deeply sedated critically ill patients. British Journal of Anaesthesia,121(6),1290-1297.   
+Bernardinis,M.,Atashzar,S.F.,Jog,M.S.,& Patel,R.V. (2019).Differential temporal perceptionabilities in Parkinson's disease patients based on timing magnitude.Scientific Reports, 9(1),19638.   
+Blankenship，P.A.， Cheatwood,J.L.，& Wallace，D.G.(2017). Unilateral lesions of the dorsocentral striatum (DCS) disrupt spatial and temporal characteristics of food protection behavior. Brain Structure and Function,222(6),2697-2710.   
+Blomeley,F.J.,Lowe,C.F.，& Wearden,J.H.(2Oo4).Reinforcer concentration effects ona fixed-interval schedule.Behavioural Processes,67(1),55-66.   
+Body,S.,Cheung,T.H.C.,Bezina,G.,Asgari,K.,Fone, K.C.F.,Glennon,J.C.,Bradshaw,C.M.,& Szabadi,E. (2006). Effects of d-amphetamine and DOl (2,5-dimethoxy-4-iodoamphetamine) on timing behavior: Interaction between D-1 and 5-HT2A receptors.Psychopharmacology, 189(3),331- 343.   
+Body,S.,Chiang,T.J.,Mobini,S.,Ho,M.Y,Bradshaw, C.M.,& Szabadi,E.(2002).Effectof 8-OH-DPATon temporal discrimination following central 5-hydroxytryptamine depletion. Pharmacology Biochemistry and Behavior, 71(4),787-793.   
+Body,S., Kheramin,S.，Mobini, S.，Ho,M.Y., Velazquez-Martinez, D.N.,Bradshaw, C.M.，& Szabadi,E. (2002).Antagonism by WAY-100635 of the effects of 8-OH-DPAT on performance on a freeoperant timing schedule in intact and 5-HT-depleted rats. Behavioural Pharmacology, 13(8), 603-614.   
+Buhusi,C.V.,& Meck,W.H.(2O05).What makes us tick? Functional and neural mechanisms of interval timing. Nature Reviews Neuroscience, 6(1O),755-765.   
+Buhusi, C.V.，& Meck,W.H. (2006). Time sharing in rats: A peak-interval procedure with gaps and distracters. Behavioural Processes, 71(2-3),107-115.   
+Buhusi,C.V.,& Meck,W.H. (2009). Relativity theory and time perception: Single or multiple clocks? Plos One, 4(7), 6.   
+Buonomano, D.V. (20oo). Decoding temporal information: A model based on short-term synaptic plasticity. Journal of Neuroscience, 20(3),1129-1141.   
+Cheng,R.K.,MacDonald, C.J.,& Meck,W.H.(2006). Differential effects of cocaine and ketamine on time estimation: Implications for neurobiological models of interval timing. Pharmacology Biochemistry and Behavior, 85(1),114-122.   
+Cheng，R.K.，Scott，A.C.，Penney，T.B.，Willams，C.L.，& Meck，W.H．(2008).Prenatal-choline supplementation differentially modulates timing of auditory and visual stimuli in aged rats. Brain Research, 1237,167-175.   
+Church，R.M.，& Deluty，M.Z. (1977).Bisection of temporal intervals. Journal of Experimental Psychology-Animal Behavior Processes,3(3),216-228.   
+Church,R.M., Meck, W.H.,& Gibbon,J. (1994). Application of scalar timing theory to individual trials. Journal of Experimental Psychology-Animal Behavior Processes,20(2),135-155.   
+Coull,J.T., Cheng,R.K.,& Meck, W.H.(2O11).Neuroanatomical and neurochemical substrates of timing. Neuropsychopharmacology,36(1),3-25.   
+Daniels, C.W., Watterson,E., Garcia,R., Mazur,G.J., Brackney,R.J.,& Sanabria,F. (2O15). Revisiting the effect of nicotine on interval timing. Behavioural Brain Research,283,238-250.   
+De Corte,B.J.,Wagner,L.M.,Matell,M.S.,&Narayanan,N.S. (2o19).Striatal dopamine and the temporal control of behavior. Behavioural Brain Research,356,375-379.   
+Deane,A.R.,Millar, J., Bilkey, D.K.,& Ward,R.D. (2017). Maternal immune activation in rats produces temporal perception impairments in adult offspring analogous to those observed in schizophrenia. Plos One,12(11).   
+Dews， P.B. (1978). Studies on responding under fixed-interval schedules of reinforcement: Il. The scalloped pattern of the cumulative record.Journal of the Experimental Analysis of Behavior, 29(1), 67-75.   
+Doenyas,C., Mutluer, T., Genc,E.,& Balci,F.(2019).Error monitoring in decision-making and timing is disrupted in autism spectrum disorder. Autism Research,12(2),239-248.   
+Droit-Volet, S. (2013).Time perception,emotions and mood disorders.Journal of Physiology-Paris, 107(4), 255-264.   
+Eckard,M.L.,& Kyonka,E.G.E.(2018).Differential reinforcement of low rates diferentially decreased timing precision. Behavioural Processes,151,111-118.   
+Eichenbaum, H.(2014). Time cels in the hippocampus: A new dimension for mapping memories. Nature Reviews Neuroscience,15(11),732-744.   
+Faure,A.,Es-Seddiqi,M., Brown,B.L.,Nguyen, H.P.Riess,O. von Horsten,S.,Le Blanc,P.,Desvignes,N, Bozon,B.，El Massioui，N.，& Doyere,V. (2013). Modified impact of emotion on temporal discrimination in a transgenic rat model of Huntington disease.Frontiers in Behavioral Neuroscience,7,130.   
+Garces,D.,ElMassioui,N.,Lamirault,C.,Riess,O.,Nguyen,H.P.,Brown,B..,& Doyere,V. (2018).The alteration of emotion regulation precedes the deficits in interval timing in the BACHD rat model for Huntington disease.Frontiers in Integrative Neuroscience,12,14.   
+Gibbon,J.，Church， R.M.，& Meck,W.H.(1984). Scalar timing in memory. Annals of the New York Academy Sciences, 423,52-77.   
+Graham，S.，Ho，M.Y.，Bradshaw, C.M.，& Szabadi，E. (1994). Facilitated acquisition of a temporal discrimination following destruction of the ascending 5-hydroxytryptaminergic pathways. Psychopharmacology,116(3),373-378.   
+Grommet, E.K., Hemmes, N.S.,& Brown, B.L. (2019). The role of clock and memory processes in the timing of fear cues by humans in the temporalbisection task.Behavioural Processes,164,217- 229.   
+Halberstadt,A.L.,Sindhunata,I.S.,Scheffers,K.,Flynn,A.D.,Sharp,R.F.,Geyer,M.A.,&Young,J.W.(016). Effect of5-HT2A and 5-HT2C receptors on temporal discrimination by mice. Neuropharmacology,107,364-375.   
+Hass,J.,& Durstewitz,D. (2016).Time at the center,or time at the side? Assessing current models of time perception. Current Opinion in Behavioral Sciences,8,238-244.   
+Hata,T.(2011). Glutamate -Aforgotten target for interval timing.Frontiers in Integrative Neuroscience, 5, 27.   
+Herrnstein，R.J. (1964).Aperiodicity as a factor in choice.Journal of the Experimental Analysis of Behavior, 7,179-182.   
+Hilgard,E.R.(1939).The behavior of organisms.Psychological Bulltin,36(2),121-125.   
+Hohn,S.，Dallerac,G.，Faure,A.， Urbach,Y.K.，Nguyen,H.P.，Riess,O.,von Horsten,S.,Le Blanc,P., Desvignes，N.，El Massoui，N.，Brown，B.L.，& Doyere，V. (2O11).Behavioral and in vivo electrophysiological evidence for presymptomatic alteration of prefrontostriatal processing in the transgenic rat model for huntington disease.Journal of Neuroscienc, 31(24), 8986-8997.   
+Ito,M. (1981). Control of monkey's spaced responding by sample durations. Japanese Psychological Research, 23(4), 213-218.   
+Jaldow, E.J.,& Oakley, D.A.(1990).Performance on a differential reinforcement of low-rate schedule in neodecorticated rats and rats with hippocampal-lesions. Psychobiology,18(4),394-403.   
+Jones,C.R.,& Jahanshahi, M. (2O09).The substantia nigra,the basal ganglia, dopamine and temporal processing. Journal of Neural Transmission Supplementa(73),161-171.   
+Jurek, L., Longuet, Y.，Baltazar, M., Amestoy,A. Schmit, V., Desmurget, M.,& Geoffray, M.M. (2019). How did l get so late so soon? A review of time processing and management in autism. Behavioural Brain Research,374,112121.   
+Kamada,T.,& Hata,T. (2O18). Insular cortex inactivation generalizes fear-induced underestimation of interval timing in a temporal bisection task. Behavioural Brain Research,347,219-226.   
+Kamada，T.，& Hata，T. (2O19). Basolateral amygdala inactivation eliminates fear-induced underestimation of time in a temporal bisection task. Behavioural Brain Research,356,227- 235.   
+Kim, J.,Ghim,J.W.， Lee, J.H.，& Jung，M.W. (2013). Neural correlates of interval timing in rodent prefrontal cortex.Journal of Neuroscience, 33(34),13834-13847.   
+Kim,J.,Jung,A.H., Byun,J.,Jo,S.,&Jung,M.W. (2Oo9).Inactivation of medial prefrontal cortex impairs time interval discrimination in rats.Frontiers in Behavioral Neuroscience,3,38.   
+Kim, Y.C.,Han,S.W.,Alberico,S.L.，Ruggiero,R.N., De Corte,B., Chen, K.H.,& Narayanan,N.S. (2017). Optogenetic stimulation of frontal D1 neurons compensates for impaired temporal control of action in dopamine-depleted mice. Current Biology,27(1),39-47.   
+Kim, Y.C.,& Narayanan, N.S. (2019). Prefrontal D1 dopamine-receptor neurons and delta resonance in interval timing. Cerebral Cortex,29(5),2051-2060.   
+Kleinman,M.R.,Sohn, H.,& Lee,D.(2016). A two-stage model of concurrentinterval timing inmonkeys. Journal of Neurophysiology, 116(3),1068-1081.   
+Kurti,A.N.,& Matell, M.S. (2011). Nucleus accumbens dopamine modulates response rate but not response timing in an interval timing task. Behavioral Neuroscience, 125(2),215-225.   
+Lejeune, H.,Ferrara,A.,Soffie,M.,Bronchart,M.,& Wearden,J.H.(1998).Peak procedure performance in young adult and aged rats: Acquisition and adaptation to a changing temporal criterion. Quarterly Journal of Experimental Psychology Section B-Comparative and Physiological Psychology, 51(3),193-217.   
+Leon,M.l.,& Shadlen,M.N. (2Oo3). Representation of time by neurons in the posterior parietal cortex of the macaque. Neuron, 38(2),317-327.   
+Lipponen,A., Kurkela,J.L.O., Kylaheiko,I.， Holtta,S.,Ruusuvirta,T., Hamalainen,J.A.,& Astikainen,P. (2019).Auditory-evoked potentials to changes in sound duration in urethane-anaesthetized mice. European Journal of Neuroscience, 50(2),1911-1919.   
+Liu, X.H.,Wang,N., Wang,J.Y.,& Luo,F. (2019). Formalin-induced and neuropathic pain altered time estimation in a temporal bisection task in rats.Scientific Reports, 9,18683.   
+Marinho,V.,Oliveira,T.,Bandeira,J.,Pinto,G.R.,Gomes,A.,Lima,V.,Magahaes,F.,Rocha,K.,Ayres,C, Carvalho,V., Velasques,B., Ribeiro,P.,Orsini,M. Bastos,V.H., Gupta,D.,& Teixeira, S. (2018). Genetic influence alters the brain synchronism in perception and timing.Journal of Biomedical Science, 25(1), 61.   
+Marshall, A.T.， Smith，A.P.，& Kirkpatrick,K. (2014). Mechanisms of impulsive choice: I. Individual differences in interval timing and reward processing.Journal of the Experimental Analysis of Behavior, 102(1),86-101.   
+Matell,M.S., Kim,J.S.,& Hartshorne,L.(2014).Timing in a variable interval procedure: Evidence fora memory singularity. Behavioural Processes,101,49-57.   
+Matell,M.S.,& Meck, W.H.(2o04).Cortico-striatal circuitsand interval timing: Coincidence detection of Oscillatory processes. Cognitive Brain Research,21(2),139-170.   
+Matell,M.S.,Meck,W.H.,& Nicolelis,M.A.L. (2003). Interval timing and the encoding of signal duration by ensembles of cortical and striatal neurons. Behavioral Neuroscience,117(4),760-773.   
+Meck,W.H. (1996). Neuropharmacology of timing and time perception. Cognitive Brain Research,3(3- 4), 227-242.   
+Meck,W.H. (2O06). Neuroanatomical localization of an internal clock: A functional link between mesolimbic, nigrostriatal,and mesocortical dopaminergic systems. Brain Research,1109,93- 107.   
+Meck,W.H., Cheng, R.K., MacDonald,C.J.,Gainetdinov, R.R., Caron, M.G.,& Cevik,M.O. (2012). Genedose dependent effects of methamphetamine on interval timing in dopamine-transporter knockout mice.Neuropharmacology, 62(3),1221-1229.   
+Meck,W.H.，& Church, R.M. (1987). Cholinergic modulation of the content of temporal memory. Behavioral Neuroscience, 101(4),457-464.   
+Meck,W.H., Church， R.M.，& Matel, M.S. (2013). Hippocampus, time,and memory-A retrospective analysis. Behavioral Neuroscience,127(5), 642-654.   
+Meck,W.H., Penney, T.B.,& Pouthas, V. (20o8). Cortico-striatal representation of time in animals and humans. Current Opinion in Neurobiology, 18(2),145-152.   
+Mello,G.B., Soares, S.,& Paton,J.J. (2015).Ascalable population code for time in the striatum. Current Biology,25(9), 1113-1122.   
+Monterosso,J.，& Ainslie,G. (1999). Beyond discounting: Possible experimental models of impulse control.Psychopharmacology, 146(4),339-347.   
+Naatanen, R.，Paavilainen,P.， Rinne,T.，& Alho, K. (2O07). The mismatch negativity (MMN) in basic research of central auditory processing: A review. Clinical Neurophysiology, 118(12), 2544- 2590.   
+Nowak,K.,Oron,A.,Szymaszek,A.,Leminen,M.,Naatanen,R.,& Szelag,E.(2016). Electrophysiological indicators of the age-related deterioration in the sensitivity to auditory duration deviance. Frontiers in Aging Neuroscience, 8,10.   
+Oprisan, S.A., Aft,T., Buhusi, M.,& Buhusi, C.V. (2018).Scalar timing in memory: A temporal map in the hippocampus.Journal of Theoretical Biology, 438,133-142.   
+Orduna， V.， Garcia,A.，Menez，M.， Hong，E.，& Bouzas,A. (2008).Performance of spontaneously hypertensive rats in a peak-interval procedure with gaps. Behavioural Brain Research,191(1), 72-76.   
+Parker， K.L., Chen, K.H.， Kingyon,J.R.， Cavanagh, J.F.,& Narayanan,N.S. (2014). D1-dependent 4 Hz oscillations and ramping activity in rodent medial frontal cortex during interval timing. Journal of Neuroscience, 34(50),16774-16783.   
+Parker,K.L., Ruggiero, R.N.,& Narayanan, N.S. (2015). Infusion of D1 dopamine receptor agonist into medial frontal cortex disrupts neural corelates of interval timing. Frontiers in Behavioral Neuroscience, 9, 294.   
+Rey, A.E.,Michael, G.A., Dondas,C.,Thar, M., Garcia-Larrea,L.,& Mazza,S.(2O17).Pain dilates time perception.Scientific Reports, 7(1),15682.   
+Roberts,S.(1981).Isolation of an internal clock.Journal of Experimental Psychology: Animal Behavior Processes, 7(3),242-268.   
+Roger, C., Hasbroucq,T.,Rabat,A.,Vidal,F.,&Burle,B.(2O09).Neurophysics of temporal discrimination in the rat: A mismatch negativity study. Psychophysiology, 46(5),1028-1032.   
+Sidman,M. (1956). Time discrimination and behavioral interaction in a free operant situation. Journal of comparative and physiological psychology, 49(5), 469-473.   
+Smith,A.P.，Marshal, A.T.,& Kirkpatrick,K. (2015). Mechanisms of impulsive choice: Il.Time-based interventions to improve self-control. Behavioural Processes,112,29-42.   
+Stubbs,A. (1968). The discrimination of stimulus duration by pigeons.Journal of the Experimental Analysis of Behavior,11(3),223-238.   
+Stubbs,D.A. (1980). Temporal discrimination and a free-operant psychophysical procedure.Journal of the Experimental Analysis of Behavior, 33(2),167-185.   
+Sukhotina,I.A.,Dravolina,O.A.,Novitskaya,Y.,Zvartau,E.E.,Danysz, W.,& Bespalov,A.Y. (2Oo8).Effects of mGlu1 receptor blockade on working memory, time estimation,and impulsivity in rats. Psychopharmacology (Berl),196(2),211-220.   
+Sussman,E.S. (2007). A new view on the MMN and attention debate - The role of context in processing auditory events.Journal of Psychophysiology,21(3-4),164-175.   
+Tam,S.K.,Jennings,D.J.,& Bonardi, C.(2013).Dorsal hippocampalinvolvement inconditioned-response timing and maintenance of temporal information in the absence of the CS. Experimental Brain Research, 227(4),547-559.   
+Thones,S.,& Oberfeld, D. (2015).Time perception in depresson: A meta-analysis.Journal of Affective Disorders,175,359-372.   
+Toda, K.,Lusk, N.A.,Watson,G.D.R., Kim,N.,Lu,D.,Li, H.E., Meck, W.H.,& Yin, H.H. (2O17). Nigrotectal stimulation stops interval timing in mice.Current Biology, 27(24),3763-3770.   
+Wallace,D.G.,Wallace,P.S.,Field,E.,&Whishaw, I.Q.(2006).Pharmacological manipulations of food protection behavior in rats: Evidence for dopaminergic contributions to time perception during a natural behavior. Brain Research,1112(1),213-221.   
+Wilson，M.P.，& Keller, F.S.(1953). On the selective reinforcement of spaced responses.Journal of Comparative and Physiological Psychology, 46(3),190-193.   
+Wittmann, M. (2O13).The inner sense of time: How the brain creates a representation of duration. Nature Reviews Neuroscience,14(3),217-223.   
+Xu,M.,Zhang,S.Y., Dan,Y.,&Poo,M.M.(2O14).Representationofinterval timingby temporally scalable firingpatterns in rat prefrontal cortex.Proceedings ofthe National Academy ofSciences,111(1), 480-485.   
+Yamaguchi, K.,& Sakurai, Y. (2O14). Novel behavioral tasks to explore cerebellar temporal processing in milliseconds in rats.Behavioural Brain Research,263,138-143.
+
+# Animal research paradigm and related neural mechanism of interval timing
+
+WENG Chunchun; WANG Ning   
+(CAS Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy of Sciences,   
+Beijing 100101 China) (Department of Psychology, University of Chinese Academy of Sciences, Beijing 100049 China)
+
+Abstract: In exploring the brain mechanism of interval timing, animal research, compared with human subjects,can provide more evidence in pharmacology, molecular biology, single neuron electrophysiology and optogenetics. At present, the commonly used animal research paradigms of interval timing include temporal bisection task, peak-interval procedure and differential reinforcement of low rates.To be wel fit for different research need, animal research paradigms are often adjusted. Animal research of interval timing were discussed from two aspects: (1） the introduction and comparison of the commonly used animal research paradigms of interval timing; (2） the research progress of neural mechanism of interval timing based on these paradigms, to provide a reference for further psychological research on time perception.
+
+Key words: Interval timing; Animal research; Experimental paradigm; Neural mechanism; Time perception/ Temporal perception

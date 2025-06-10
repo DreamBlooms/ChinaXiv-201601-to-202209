@@ -1,0 +1,175 @@
+# 进程性氧化应激对母猪繁殖性能的影响及其营养调控
+
+敖江涛」郑溜丰」彭健 1,2\*
+
+（1.华中农业大学动物科技学院，武汉430070；2.湖北省生猪健康养殖协同创新中心，武汉430070)
+
+摘要：由于胎儿生长速度加快和泌乳强度增加，哺乳动物在围产期的机体代谢强度逐渐增加，常常导致机体氧自由基增加，造成进程性氧化应激。进程性氧化应激对母猪繁殖性能的影响主要体现在母猪产仔性能下降、泌乳力降低、仔猪成活率下降、母猪健康水平差。然而，目前对于评价母猪进程性氧化应激仍缺乏标准化的方法。本文综述了母体围产期氧化应激产生的原因、评价指标以及氧化应激对母猪繁殖性能的影响，并综述了生产中缓解母猪氧化应激的措施，旨在为改善养猪生产中母猪氧化应激、提高母猪繁殖性能提供理论依据和技术指导。
+
+关键词：进程性氧化应激；母猪；围产期；繁殖性能
+
+中图分类号：S828
+
+动物在怀孕过程中，通常会产生对怀孕过程必需的、适量的活性氧自由基（reactiveoxidative species，ROS)。但随着胎儿的生长，母体在妊娠后期自身代谢强度相应增加，体内 ROS 水平大大增加，母体遭受氧化应激的风险大大增加[1]。在人类医学中，大量的研究证实，妊娠后期的一些代谢疾病都与孕妇此阶段的氧化应激密切相关[2；更为严重的是，遭受氧化应激以后，即使表面上看起来正常的胎儿，长大后往往更容易患高血压、糖尿病等代谢性疾病[3]。在畜牧生产中，妊娠后期和泌乳期的母猪，尤其是初产母猪，代谢也非常旺盛，这导致母猪在围产期可能会产生氧化应激。目前已经有研究发现，母猪妊娠后期血液丙二醛（malondialdehyde，MDA）、谷胱甘肽过氧化物酶（glutathione peroxidase，GSH-Px）、总抗氧化能力（total antioxidant capacity,T-AOC)、8-羟基脱氧鸟苷（8-hydroxy-2'-deoxyguanosine8-OHdG）等指标发生变化，从各个角度反映了母猪所处的氧化应激状态[4-8]；但是并未见到综合分析各个指标以及同时考虑氧化-抗氧化指标的报道，也没有见到母猪氧化应激标准的判断与提出。氧化应激与母猪繁殖性能也存在一定的关联性[4.8-9]，但具体的机制尚不明确。此外，缓解母猪围产期的氧化应激的营养调控研究尚处于起步阶段。基于目前的研究进展，本文综述了母猪整个繁殖周期的氧化还原状态的变化，提出了母猪进程性氧化应激的概念并分析了产生的原因，讨论了判断母猪氧化应激的评价指标。在此基础上，讨论了养猪生产中缓解母猪氧化应激的营养调控措施，旨在为调控繁殖周期中母猪的氧化应激、提高母猪繁殖性能提供参考。
+
+# 1母体的进程性氧化应激
+
+Sohal 等[0]在研究人类衰老现象时发现，动物体内的氧化代谢过程会不可避免的产生一些潜在的有害副产物，并通过影响机体的一系列遗传和表观遗传事件，加速动物体衰老；并首次提出氧化应激的概念。氧化应激是指当内外环境对机体产生有害刺激，体内产生的 ROS和活性氮自由基（reactive nitrogen species，RNS）蓄积，引起动物细胞和组织的生理及病理反应[。在一般的生理状态下，细胞在代谢过程中会产生少量生理需要的 ROS；机体的抗氧化系统可以及时清除这些ROS，使得ROS 的生成和清除处于动态平衡。在动物繁殖过程中，卵母细胞成熟、卵泡生长和排卵[12-13]及胎盘血管形成[14]都需要适宜水平的 ROS。尽管ROS 的产生具有重要的生理意义，但在妊娠后期和泌乳高峰期，ROS 持续大量产生并在体内大量蓄积，就会造成氧化应激[12,15]。
+
+进程性氧化应激是指在雌性动物的繁殖周期中，当母体处于胎盘形成、妊娠后期胎儿的快速生长、分娩和泌乳等阶段时，机体的ROS 的产生水平呈进程性大量增加的现象。根据来源，ROS 可以分为内源性和外源性2种。内源性ROS 的来源主要包括机体氧化磷酸化过程、红细胞代谢、线粒体内活性氧的排出[1]。外源性的ROS 又可分为环境因素和饲粮因素。根据ROS 水平，进程性氧化应激在人的繁殖周期中分为3个阶段，即妊娠前期（1\~12周)，这时胎盘血管尚未形成，母体与胎儿未建立联系，胎儿生长主要依靠碳水化合物的代谢，ROS 水平低；妊娠中期（13\~28周)，这时胎盘血管逐渐形成，母体与胎儿建立联系，血液携带ROS 进入胎盘及胎儿，同时胎盘和胎儿代谢增强，ROS 水平逐渐增加；妊娠后期（29\~40周)，血管形成停止，但胎盘线粒体数目增多，氧化代谢增强，同时胎儿快速生长，结果导致 ROS 水平达到高峰[14,16]。
+
+近年来，孕妇和反刍动物在围产期出现的进程性氧化应激逐渐受到重视。人类医学上的研究表明，孕妇在妊娠阶段出现的一系列繁殖障碍疾病与氧化应激关系密切[17-18]。如子痫前期的孕妇，血液中硫代巴比妥酸反应物升高，GSH-Px 活性降低[19]。而奶牛在围产期和泌乳早期乳房炎和子宫炎发病率较高，严重影响乳腺健康、泌乳量和乳品质[20]。类似于反刍动物和人，围产期母猪在妊娠后期和泌乳期也会遭受氧化应激[21-23]，可以说母猪在繁殖周期中也呈现进程性氧化应激的现象。然而，目前尚未有针对母猪的进程性氧化应激阶段的划分标准。
+
+# 2母猪进程性氧化应激产生的原因
+
+母猪进程性氧化应激的产生与繁殖周期ROS 进程性的大量产生直接相关，也与抗氧化系统活性不足相联系。母猪进程性氧化应激的产生既有内源ROS 也有外源ROS 的贡献。在母猪正常的怀孕过程中，胎儿完全依赖胎盘从母体转运营养物质来生存。妊娠后期，胎儿生长速度加快，胎盘的代谢强度增加，母体随之出现适应性的变化过程，如子宫血流量增加[24]、血液中甘油、游离脂肪酸和丙氨酸含量增加[25]，这意味着母体此阶段代谢强度增强，从而导致内源性ROS 产生增加。此外，饲粮中不饱和脂肪酸含量过高，矿物元素铜、锌、锰等缺乏，以及维生素E、维生素C、类胡萝卜素等缺乏都可以导致母猪产生氧化应激[1,21]。高温、缺氧、氮氧化合物等外界环境可以导致母猪体内自由基过多蓄积，抗氧化系统遭到损伤[26]。除代谢加强导致妊娠母猪产生过多 ROS 外，抗氧化系统活性下降也是母猪体内 ROS蓄积的重要原因[8-9]。
+
+值得注意的是，由于母猪代谢强度与产仔数呈正相关，而随着猪的育种，母猪产仔数和仔猪初生窝重都大大提高[22]，这意味着母猪在妊娠期需要进行更强的物质代谢。同时，母猪的泌乳量也比之前提高了大约 4 倍[23]，母猪在泌乳期的代谢强度也大大增加。因此，现代高产母猪更容易产生氧化应激。
+
+# 3母猪氧化应激的评价指标
+
+母猪在围产期因氧化应激引起的繁殖障碍疾病及评定母猪氧化应激程度的标准尚未见报道；但通过检测氧化应激相关标志物的变化，有助于评定母猪繁殖周期的氧化应激状态。由于ROS 在母猪体内的过多蓄积会导致一系列不良后果，如攻击生物大分子脂质、DNA 和蛋白质，产生MDA、8-OHdG 和蛋白质羰基；机体的酶系抗氧化系统参与ROS 的清除，可能导致部分抗氧化酶的活性下降[27]。因此，检测母猪血液中的MDA含量、硫代巴比妥酸当量值（thiobarbituric acid reac tive substances，TBARS）、8-OHdG 含量、血液还原型谷胱甘肽（glutathione，GSH）含量、抗氧化酶的活性和 T-AOC，可以间接反映母猪所遭受的氧化应激程度。通过化学发光法，直接检测母猪血液中ROS 水平，能更直接的反映母猪所处的氧化还原状态。
+
+通过检测母猪妊娠期60d至泌乳期18d的血浆TBARS 发现，各个阶段并未产生差异，但在数值上泌乳期普遍高于妊娠期[4]。另外一些研究显示，母猪妊娠109d血浆TBARS 和妊娠 93d并无统计学上的差异[5]。检测母猪妊娠60d至泌乳18d血液 8-OHdG 和蛋白羰基的含量发现，整个周期各个时间点二者均无差异，只是在妊娠109d时，8-OHdG 和蛋白质羰基含量在数值上均高于其他各个阶段[4]，这说明妊娠 $1 0 9 { \mathrm { ~ d ~ } }$ 母猪遭受的氧化应激要高于其他阶段。另有研究发现，母猪妊娠89 和109d血液 8-OHdG 和蛋白质羰基含量并无差异，只是妊娠 $1 0 9 \mathrm { d }$ 血液的蛋白羰基含量在数值上高于妊娠 $8 9 \mathrm { d } ^ { [ 2 2 ] }$ 。
+
+研究发现，整个繁殖周期，母猪本身的抗氧化物质减少、抗氧化酶活性降低和整体抗氧化能力下降：1）脂溶性抗氧化剂维生素E和维生素A，随繁殖周期进行呈现先降低后升高的趋势，在妊娠 110d 显著低于妊娠期其他阶段[23]。妊娠后期，血液中维生素E 含量有大幅度的降低，机体的抗氧化物质减少，这在一定程度上说明机体处于氧化应激状态。这在其他研究中也得到了证实，母猪分娩当天血液维生素E含量出现大幅度下降[5]。2）铁还原抗氧化能力（ferric reducing antioxidant power，FRAP）指血浆中的各种抗氧化物质将三价铁离子还原为二价铁离子的能力，常用来衡量血浆还原能力[28]。分娩当天，母猪血浆的 FRAP 和GSH-Px 活性都要比妊娠93d有所降低，但未产生统计学差异[5]，说明母猪在分娩当天抗氧化能力减弱，即分娩当天遭受着更严重的氧化应激。但是，有研究者发现，母猪妊娠109 d血液的FRAP要比妊娠93d高回]，这与妇女在妊娠晚期血液抗氧化能力增强相吻合[29]，此时机体处于更高的且稳定的氧化还原状态。因此，FRAP 能否作为反映机体氧化应激状态的标志物，有待商榷。此外，另有学者指出，母猪在妊娠后期血液抗氧化酶活性并未发生显著变化：妊娠109d的母猪肝匀浆中编码 $G S H  – P x$ 的主要mRNA 的表达丰度并未变化[7]，说明ROS 引起母猪体内抗氧化物质减少的同时，并不一定引起抗氧化酶活性的降低。已有研究表明，综合考虑抗氧化系统和促氧化系统对氧化应激的贡献，例如利用ROS-T-OAC 或氧化应激指数（oxidative stress index，OSi）指数可以更加精确反映机体的氧化应激状态[30]。
+
+目前关于猪氧化应激的研究已经深入到分子水平。通过绘制高黎贡山猪肝脏、皮肤、十二指肠、空肠、回肠、下丘脑、垂体、甲状腺、胰腺、生殖腺中编码谷氧还蛋白（glutaredoxin,GRX）和硫氧还蛋白（thioredoxin，TRX）的基因GRX1 和 TRX1的表达图谱发现，GRX1和 TRX1的过表达可以缓解机体遭受的氧化应激[31]。最近的研究表明，检测仔猪肝脏、十二指肠、空肠、回肠和结肠的GPX1、GPX4、锰-超氧化物歧化酶和铜锌-超氧化物歧化酶的抗氧化基因表达量发现，GPX4相对于另外几种抗氧化酶对于机体的抗氧化能力更加重要[32]。这给寻找更加精确的指示物来评判母猪的氧化应激状态提供了思路和前景。
+
+综上所述，一方面，母猪在围产期体内的氧化应激产物升高意味着母猪在这个阶段处于较严重的氧化应激状态；另一方面，从反映机体氧化应激状态的指标来看，DNA 损伤的标志物8-OHdG，蛋白质损伤标志物蛋白基，GSH-Px，血浆维生素E、维生素A及TBARS均可从一定程度上反映母猪所处的氧化还原状态；ROS 水平可以直接反映机体所遭受的氧化应激程度；而FRAP 和GSH-Px 活性并不能精确反映机体所处的氧化应激状态。此外，通过对以上指标进行数据上的关联性分析和分子水平抗氧化基因的检测，从而寻找更加适合判定母猪的氧化应激状态的指标有望成为以后的研究热点和研究方向。
+
+# 4进程性氧化应激对母猪繁殖性能的影响
+
+大量的研究证实，氧化应激会极大的降低雌性动物的繁殖性能[23.33]。如人医学研究表明，在妊娠后期母体过量的 ROS 会干扰卵母细胞减数分裂Ⅱ期，从而抑制卵母细胞成熟；伴随着氧化应激，孕妇体内GSH含量也大幅降低，这会抑制下一步的排卵和卵子受精[34]。
+
+进程性氧化应激对母猪繁殖性能的影响主要体现在母猪产仔性能下降、泌乳力降低、仔猪成活率下降、母猪健康水平差。过量的自由基会攻击卵母细胞、妨碍精卵结合、延缓受精卵的着床和着床前的有丝分裂、延迟胚胎着床、抑制胚胎发育等，从而降低母猪产仔数，增加弱仔、死胎比例，降低初生仔猪成活率[23.35-36]；过量的自由基会增加机体代谢负担，降低乳腺细胞摄取营养物质的能力，增加乳中的炎性因子，减少乳中免疫球蛋白含量，从而降低哺乳仔猪的生长速度和成活率[34,37-38]。表1总结了自由基对母猪繁殖性能的主要不利影响。
+
+# 表1自由基降低母猪的繁殖性能
+
+Table 1Free radicals reduce reproductive performance of sows   
+
+<html><body><table><tr><td>项目</td><td>主要结果</td></tr><tr><td>Items 内分泌Incretion</td><td>Major consequences 母猪体内雌二醇含量降低，母猪体内促黄体素脉冲频</td></tr><tr><td rowspan="2">发情受胎率 Pregnancy rate of estrus</td><td>率降低 母猪断奶后发情率显著降低，母猪受胎率下降，受胎</td></tr><tr><td>率与气温、湿度显著负相关</td></tr><tr><td>胚胎成活率和发育 Embryo survival rate and development</td><td>桑椹胚和囊胚生存能力差，妊娠母猪流产率升高，母 猪胚胎发育迟缓严重</td></tr></table></body></html>
+
+# 5缓解母猪进程性氧化应激的营养调控措施
+
+从营养调控的角度，可以通过在母猪饲粮中添加微量金属元素以提高抗氧化酶的活性、添加具有抗氧化能力的维生素和植物提取物等，来缓解母猪在繁殖周期的氧化应激。
+
+母猪体内的酶促系统是机体重要的抗氧化屏障，微量金属元素铜、铁、锌、锰、硒等常作为抗氧化酶的活性中心，它们的摄取和富集对机体的抗氧化能力起重要作用。缺铁会降低母猪的抗氧化能力，补充铁或者硒能显著提高母猪血清GSH- $\mathbf { \cdot P x }$ 活性，降低MDA含量，减轻母猪所遭受的氧化应激[39]。从预产期前 28d至分娩当天，饲粮中添加甘氨酸铁和一水合硫酸亚铁均可显著提高母猪血清 T-AOC 及GSH-Px、SOD 活性，降低 MDA 含量。综合各项抗氧化指标，母猪适宜的甘氨酸铁和一水合硫酸亚铁添加水平分别为 80 和 $1 1 0 \mathrm { m g / k g ^ { [ 3 9 ] } }$ 。另外，锌还可以减少一氧化氮自由基含量，减少RNS 对机体的氧化损伤[40]。
+
+补充具有抗氧化能力的维生素有利于母猪应对氧化应激。从第1次配种到随后的5个繁殖周期内，饲粮添加66IU/kg 维生素E可以提高母猪血清中 $\mathfrak { a }$ -生育酚和硒含量，减少乳房炎-子宫炎-无乳综合征的发病率[41]。有学者指出，硒和维生素E联用效果更好。初产母猪在整个妊娠期及泌乳期联合添加 $0 . 3 \mathrm { m g / k g }$ 硒和 $6 6 \mathrm { I U / k g }$ 维生素E提高了产活仔数和断奶个体重，仔猪断奶时健康状况更好[42-43]。在妊娠 108d至断奶 28d期间联合使用维生素E 和维生素C（250IU维生素E和 $5 0 0 \mathrm { ~ m g / k g }$ 维生素C)，可以提高母猪的细胞免疫和体液免疫能力[44]。此外，母猪妊娠72d开始，饲粮添加维生素C饲喂至分娩，降低了产前粪便中大肠杆菌数量，增加了乳酸杆菌数量[45]，这有利于保证母猪健康，提高其繁殖性能。
+
+利用植物提取物缓解母猪氧化应激，成为当下研究的热点。植物提取物由于其天然无残留、抗氧化能力强等特点，作为一种优良的抗氧化剂，得到越来越多的重视[46]。具有抗氧化活性的植物提取物包括黄酮、醌、酚酸、含氮化合物、萜类、烯酸等，目前研究较多的是酚类和黄酮类[47]。在母猪妊娠 $9 0 \mathrm { d }$ 至妊娠 $1 1 0 \mathrm { d }$ ，每天给母猪口服8g水飞蓟素（类黄酮提取物)，虽然没有降低母猪妊娠 109d的8-OHdG 和蛋白羰基含量，但与对照组相比，显著减少了从妊娠90到109d的蛋白羰基累积量，极显著降低了母猪妊娠109d肝匀浆的蛋白羰基含量，这说明水飞蓟素在一定程度上缓解了母猪妊娠后期的氧化应激[7]。从母猪配种至妊娠 40d，在妊娠饲粮中添加 200、 $3 0 0 \mathrm { m g / k g }$ 的儿茶素(富含多酚类物质，抗氧化能力很强)均可以提高母猪分娩当天 SOD、过氧化氢酶（CAT）的活性，降低MDA 和过氧化氢含量，显著降低了窝平均死胎数，提高了窝产活仔数[47]。母猪饲粮添加富含类黄酮的抗氧化剂，断奶后第4天母猪GSH-Px 活性提高，MDA含量降低，雌二醇、孕酮含量显著升高，极显著缩短了母猪断奶至发情间隔[48]。饲粮中添加抗氧化能力很强的大豆异黄酮也显著提高了母猪泌乳21d的T-AOC和CAT活性，显著降低了MDA含量，提高母猪泌乳量和仔猪断奶重[49]。
+
+本实验室前期在缓解母猪氧化应激的营养措施方面也做了较多的工作。结果显示，母猪妊娠期饲粮添加 $2 . 2 \%$ 的魔芋粉显著提高了血清中GSH-Px 活性，降低了ROS 水平及8-OHdG的含量，暗示妊娠母猪饲喂魔芋粉饲粮有利于缓解氧化应激和氧化损伤9。此外，在母猪整个繁殖周期的饲粮添加 $1 5 \mathrm { \ g / t }$ 的止痢草油，降低了妊娠后期和分娩当天血清 TBARS 和8-OHdG 含量，提高了GSH- $\mathbf { \cdot P x }$ 活性[8]。这表明在母猪饲粮中添加止痢草油增强了妊娠后期的抗氧化能力，缓解了母猪的氧化应激，有利于母猪保持良好的健康状况。
+
+# 6小结
+
+母猪与奶牛和孕妇一样，在围产期由于代谢强度大大增加，很容易产生氧化应激；而养猪生产中不利的外界因素更是增加了母猪产生氧化应激的可能性。综合考虑抗氧化和氧化系统对氧化应激的贡献，结合氧化应激产物、抗氧化酶活性和ROS 水平等指标能更加精确反映机体的氧化应激状态。同时，从分子水平探索新的氧化应激指标，从而找到最适合判定母猪氧化应激状态的指标，对于我们精确评估母猪在各个阶段的氧化应激状态大有裨益。从营养调控的角度来看，缓解氧化应激的措施主要有添加微量元素、维生素和使用具有抗氧化能力的植物提取物等。
+
+# 参考文献：
+
+[1] TJOA M L,VAN VUGT J M G,GO A T J J,et al.Elevated C-reactive protein levels during first trimester of pregnancy are indicative of preeclampsia and intrauterine growth restriction[J].Journal of Reproductive Immunology,2003,59(1):29-37.
+
+[2] KIRWAN J P,KRISHNAN R K,WEAVER J A,et al.Human aging is associated with altered TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ production during hyperglycemiaand hyperinsulinemia[J].American Journalof Physiology-Endocrinology and Metabolism,2001,281(6):E1137-E1143.
+
+[3] CATALANO P M,KIRWAN J P,HAUGEL-DE MOUZON S,et al.Gestational diabetes and insulin resistance:role in short- and long-term implications for mother and fetus[J].The Journal of Nutriti0n,2003,133(5):1674S-1683S.
+
+[4] ZHAO Y,FLOWERS W L,SARAIVA A,et al.Effect of social ranks and gestation housing systems on oxidative stress status,reproductive performance,and immune status of sows[J].Journal of Animal Science,2013,91(12):5848-5858.
+
+[5] TANGHE S,MISSOTTEN J,RAES K S,et al.The effect of different concentrations of linseed oil or fish oil in the maternal diet on the fatty acid composition and oxidative status of sows and piglets[J].Journal of Animal Physiology and Animal Nutrition,2O15,99(5):938-949.
+
+[6] SIMM A,BROMME H J.Reactive oxygen species (ROS) and aging:do we need them—can we measure them—should we block them?[J].Signal Transduction,2005,5(3):115-125.
+
+[7] FARMER C,LAPOINTE J,PALIN M F.Effects of the plant extract silymarin on prolactin concentrations,mammary gland development,and oxidative stress in gestating gilts[J].Journal of Animal Science,2014,92(7):2922-2930.
+
+[8] TAN C Q,WEI H K,SUN H Q,et al.Effects of dietary supplementation of oregano essential oil to sows on oxidative stress status,lactation feed intake of sows,and piglet performance[J].BioMed Research International,2015,2015:525218.
+
+[9] 谭成全.妊娠日粮中可溶性纤维对母猪妊娠期饱感和泌乳期采食量的影响及其作用机理研究[D].博士学位论文.武汉:华中农业大学,2015.
+
+[10] SOHAL R S,ALLEN R GOxidative stress as a causal factor in diferentiation and aging:a unifying hypothesis[J].Experimental Gerontology,1990,25(6):499-522.
+
+[11] 高环,侯改凤,黄兴国.氧化应激的作用机理及抗氧化应激技术在养猪生产上的应用[J].养猪,2014(4):19-21.
+
+[12]AGARWAL A,GUPTA S,SHARMA R K.Role of oxidative stress in female reproduction[J].Reproductive Biology and Endocrinology,2Oo5,3:28.
+
+[13] SHKOLNIK K,TADMOR A,BEN-DOR S,et al.Reactive oxygen species are indispensable in ovulation[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(4):1462-1467.
+
+[14] PEREIRA R D,DE LONG N E,WANG R C,et al.Angiogenesis in the placenta:the role of reactive oxygen species signaling[J].BioMed Research International,2015,2015:814543.
+
+[15] SORDILLO L M,AITKEN S L.Impact of oxidative stress on the health and immune function of dairy cattle[J].Veterinary Immunology and Immunopathology,2009,128(1/2/3):104-109.
+
+[16] BURTON G J.Oxygen,the Janus gas;its effects on human placental development and function[J].Journal of Anatomy,2009,215(1):27-35.
+
+[17] POSTON L,IGOSHEVA N,MISTRY H D,et al.Role of oxidative stress and antioxidant supplementation in pregnancy disorders[J].American Journal of Clinical Nutrition,2011,94(Suppl.6):1980S-1985S.
+
+[18] LEE P C,ROBERTS J M,CATOV J M,et al.First trimester exposure to ambient air pollution,pregnancy complications and adverse birth outcomes in Allegheny County,PA[J].Maternal and Child Health Journal,2013,17(3):545-555.
+
+[19] MISTRY H D,WILSON V,RAMSAY M M,et al.Reduced selenium concentrations and glutathione peroxidase activity in preeclamptic pregnancies[J].Hypertension,20o8,52(5):881-888.
+
+[20] GOFF J P.Major advances in our understanding of nutritional influences on bovine health[J].Journal of Dairy Science,2006,89(4):1292-1301.
+
+[21] SHEN Y B,CARROLL J A,YOON I,et al.Effects of supplementing Saccharomyces cerevisiae fermentation product in sow diets on performance of sows and nursing piglets[J].Journal of Animal Science,2011,89(8):2462-2471.
+
+[22] BERCHIERI-RONCHI C B,KIM S W,ZHAO Y,et al.Oxidative stress status of highly prolific sows during gestation and lactation[J].Animal,2011,5(11):1774-1779.
+
+[23] KIM S W,WEAVER A C,SHEN Y B,et al.Improving efficiency of sow productivity:nutrition and health[J].Journal of Animal Science and Biotechnology,2O13,4:26.
+
+[24] CASTILLO C,HERNANDEZ J,BRAVO A,et al.Oxidative status during late pregnancy and early lactation in dairy cows[J].The Veterinary Journal,2005,169(2):286-292.
+
+[25] BURTON G J,JAUNIAUX E,CHARNOCK-JONES D S.The influence of the intrauterine environment on human placental development[J].The International Journal of Developmental Biology,2010,54(2/3):303-312.
+
+[26] 陈伟,曾勇庆.猪的氧化应激及其遗传育种的研究进展[J].猪业科学,2011(12):112-114. [27] ICHI I,KOJO S.Antioxidants as biomarkers of oxidative stress[M]//ALDINI G,YEUM K J,NIKI E,et al.Biomarkers for Antioxidant Defense and Oxidative Damage:Principles and Practical Applications.Blackwell Publishing,2010:35-49.
+
+[28] BENZIE IF F,STRAIN JJ.The ferric reducing ability of plasma (FRAP) as a measure of "Antioxidant Power":the FRAP assay[J].Analytical Biochemistry,1996,239(1):70-76.
+
+[29]TOESCUV,NUTTALL SL,MARTINU,etal.Oxidative stress and normal pregnancy[J].Clinical Endocrinology,2002,57(5):609-613.
+
+[30] ABUELO A,HERNANDEZ J,BENEDITO JL,et al.Oxidative stress index (OSi) as a new tool to assess redox status in dairy cattle during the transition period[J].Animal,2013,7(8):1374-1378.
+
+[31] 安清聪,张春勇,李美荃,等.谷氧还蛋白1和硫氧还蛋白1基因在高黎贡山猪不同组织中表达规律及维生素E对其在氧化应激细胞中表达的影响[J].动物营养学报,2013,25(8):1825-1835.
+
+[32] 龙次民,谢春艳,吴信,等.妊娠后期母猪饲粮中添加壳寡糖对新生仔猪抗氧化能力的影响[J].动物营养学报,2015,27(4):1207-1213.
+
+[33] LIPKO-PRZYBYLSKA J,KANKOFER M.Antioxidant defence of colostrum and milk in consecutive lactations in sows[J].Irish Veterinary Journal,2O12,65:4.
+
+[34] RUDER E H,HARTMAN T J,BLUMBERG J,etal.Oxidative stress and antioxidants:exposure and impact on female fertility[J].Human Reproduction Update,2008,14(4):345-357.
+
+[35] DEVASAGAYAM T P,TILAK J C,BOLOOR K K,et al.Free radicals and antioxidants in human health:current status and future prospects[J].The Journal of the Association of Physicians of India,2004,52:794-804.
+
+[36] YOON I,MCMILLAN E.Comparative effects of organic and inorganic selenium on selenium transfer from sows to nursing pigs[J].Journal of Animal Science,2006,84(7):1729-1733.
+
+[37]ALBERA E,KANKOFER M.Antioxidants in colostrum and milk of sowsand cows[J].Reproduction in Domestic Animals,2009,44(4):606-611.
+
+[38] WU G Y,KNABE D A.Free and protein-bound amino acids in sow's colostrum and milk[J].The Journal of Nutrition,1994,124(3):415-424.
+
+[39] 董冬华,张桂国,杨维仁,等.不同铁源及水平对妊娠母猪铁营养状况和抗氧化性能的影响[J].动物营养学报,2014,26(5):1180-1188.
+
+[40] WAPNIR R A.Zinc deficiency,malnutrition and the gastrointestinal tract[J].The Journal of Nutriti0n,2000,130(5):1388S-1392S.
+
+[41] MAHAN D C.Effects of dietary vitamin E on sow reproductive performance over a five-parity period[J].Journal of Animal Science,1994,72(11):2870-2879.
+
+[42] MAHAN D C.Assessment of the influence of dietary vitamin E on sows and offspring in three parities:reproductive performance,tissue tocopherol,and effects on progeny[J].Journal of Animal Science,1991,69(7):2904-2917.
+
+[43] MAVROMATIS J,KOPTOPOULOS G,KYRIAKIS S C,et al.Effects of alpha-tocopherol and selenium on pregnant sows and their piglets’ immunity and performance[J].Zentralblatt fur Veterinarmedizin: Reihe A,1999,46(9):545-553.
+
+[44] LAURIDSEN C,Jensen S K.Influence of supplementation of all-rac- $\mathbf { \nabla } \cdot \mathbf { a }$ -tocopheryl acetate preweaning and vitamin Cpostweaningon $\mathfrak { a }$ -tocopherol and immuneresponsesof piglets[J].Journal of Animal Science,2005,83(6):1274-1286.
+
+[45] TRAWINSKA B,LECHOWSKI J,POLONIS A,et al.Effect of feed supplemented with vitami C on microbial flora of swine faeces and blood morphology[J].Bulletin of the Veterinary Institute in Pulawy,2013,56(2):171-175.
+
+[46] 高开国,胡友军,郑春田,等.母猪的氧化应激及营养调控策略[J].养猪,2014(5):17-20.
+
+[47]肖勇.儿茶素对妊娠母猪繁殖性能、抗氧化力和免疫功能的影响研究[D].硕士学位论文.长沙：湖南农业大学,2013
+
+[48] 孙婷婷,徐建雄.微生物源性抗氧化剂对母猪繁殖性能和自由基代谢的影响[J].上海交通大学学报:农业科学版,2007,25(4):342-346.
+
+[49] 陈丰,蒋宗勇,林映才,等.大豆异黄酮对哺乳母猪生产性能及抗氧化性能的影响[J].饲料博览,2010(8):1-5.
+
+Impact of Progressive Oxidative Stress on Sow Reproductive Performance and Its Nutritional Manipulation
+
+AO Jiangtao1 ZHENG Liufeng1 PENG Jian1,2\* (1. College of Animal Science And Technology, Huazhong Agricultural University， Wuhan 430070, China; 2.The Cooperative Innovation Center for Sustainable Pig Production, Wuhan 430070,
+
+China)
+
+Abstract: In the perinatal period of mammals,due to the high rate of fetal growth and the intensity of lactation,the metabolic intensity in the body is greatly increased,and it is easy to produce progressive oxidative stress. The negative impacts of progressive oxidative stress on sow reproductive performance include the reduced litter size and survival ratio of piglets,decreased ability for lactation,and poor health status of sows.However, there is a lack of information regarding oxidative stress status in the perinatal period of sows,and its evaluation standard remains almost blank. This review provided an overview of the causes of perinatal oxidative stress, evaluation index,and the effect of oxidative stress on sow reproductive performance.We further proposed some effective measures to alleviate the oxidative stress in sows, aiming to provide a theoretical basis and technical guidance to improve oxidative stress and reproductive performance of sows.
+
+Key words: progressive oxidative stress; sows; perinatal period; reproductive performance

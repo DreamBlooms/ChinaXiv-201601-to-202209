@@ -1,0 +1,549 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160801 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁虹，段留生，王树林，王燕，张谦，冯国艺，杜海英，梁青龙，林永增．全生育期UV-B辐射增强对棉花生长及光合作用的影响[J]．中国生态农业学报,2017,25(5):708-719Qi H,Duan LS,Wang SL,Wang Y,ZhangQ,Feng G Y,DuHY,Liang QL,LinYZ.Effct ofenhanced UV-B radiationorcotton growth and photosynthesis[J]. Chinese Journal of Eco-Agriculture, 2017,25(5): 708-719",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全生育期UV-B辐射增强对棉花生长及光合作用的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁虹¹，段留生²，王树林，王燕¹，张谦，冯国艺¹,杜海英'，梁青龙，林永增 1\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．河北省农林科学院棉花研究所/农业部黄淮海半干旱区棉花生物学与遗传育种重点实验室石家庄050051;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2．中国农业大学农学院北京 100083)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：植物光合系统是UV-B辐射最初和最重要的作用靶标。本文在大田条件下进行紫外灯照射处理，研究全生育期UV-B辐射增强(高于环境 $20 \\%$ 和 $40 \\%$ )对棉花形态、干物质积累、光合色素和产量的影响，并通过分析棉花主茎功能叶片的气体交换参数和叶绿素荧光参数，探讨UV-B辐射增强影响棉花光合作用的机制。结果表明，UV-B 辐射增强抑制了棉花生长和干物质积累，籽棉产量显著降低，且UV-B 辐射越强，抑制作用越明显。随UV-B辐射的增强，棉花主茎功能叶的净光合速率 $( P _ { \\mathrm { { n } } } )$ 在各生育期均显著降低，叶绿素含量呈先升高后降低趋势，气孔导度 $( G _ { \\mathrm { s } } )$ 和蒸腾速率 $( T _ { \\mathrm { r } } )$ 未发生变化，胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 反而升高，说明 $P _ { \\mathrm { { n } } }$ 下降主要由非气孔限制因素造成。对叶绿素荧光参数的分析表明,PSⅡI的最大光化学量子产率 $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ 、实际光化学量子效率 $( \\phi _ { \\mathrm { P S I I } } )$ 、线性电子传递速率(ETR)和光化学淬灭系数 $( q P )$ 随着UV-B 辐射的增强而降低，非光化学猝灭系数(NPQ)则显著升高，且各叶绿素荧光参数与 $P _ { \\mathrm { { n } } }$ 变化均显著相关；慢速弛豫 $\\mathrm { N P Q ( N P Q _ { \\mathrm { s } } ) }$ 及其在NPQ中的比例均随UV-B辐射的增强而显著提高，表明PSII反应中心受损，光化学效率降低。以上结果证明，全生育期UV-B辐射增强降低了棉花的光合叶面积、叶绿素含量和净光合速率，引起棉花生长与物质积累受抑，产量降低。UV-B辐射增强引起的光合速率下降与PSⅡI反应中心遭到破坏密切相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:UV-B辐射增强；棉花生长；气体交换；光系统II(PSII)；叶绿素荧光参数；慢速弛豫 NPQ中图分类号：S562 文献标识码：A 文章编号:1671-3990(2017)05-0708-12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effect of enhanced UV-B radiation on cotton growth and photosynthesis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QI Hong',DUAN Liusheng², WANG Shulin1,WANG Yan1, ZHANG Qian1,FENG Guoyi1, DU Haiying1, LIANG Qinglong',LIN Yongzeng'   \n(1.Institute ofCoton Research,Hebei Academyof Agriculture andForestry Sciences/KeyLaboratoryofBiologyand Genetic ImprovementofCoton inHuanghuaihai SemiaridArea,MinistryofAgriculture,ShijiazhuangO5oo51,China;2.Colegeof Agronomy and Biotechnology, China Agricultural University, Beijing 1ooo83,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ithas been shown thatthe thinningofozone layercontinuously enhancesambientultraviolet-B(UV-B)radiation.EnhancedUV-Bradiationinfluences thegrowth,developmentandmetabolismofrops,ofwhichphotosystemis teinitialandmost important target.In this study,UV-B radiation was increased by $20 \\%$ and $40 \\%$ by using ultraviolet lamp during the whole growth period ofcottonunderfieldcondition,and itseffectoncottonmorphologydrymateraccumulation,photosyntheticpigment content and seed coton yield were analyzed.The influencing mechanismof enhanced UV-Bradiationonphotosynthesis was also investigatedbydetermininggas exchange parametersand chlorophyllfluorescence parameters in functionalleaves.The esults showed that the growth ofcotton stems,leavesanddry matteraccumulation were significantlyinhibited byenhanced UV-Bradiation.Theinhibitioneffectsofenhanced UV-Bradiationoncoton were moreobvious atseedlingstage than thatatlatergrowth stages.Seed coton yield also remarkably decreased with increasing UV-B radiation.The contents of chlorophyll a $\\mathrm { ( C h l _ { a } ) }$ and chlorophyll b $\\mathrm { ( C h l _ { b } ) }$ increased under the treatment of $20 \\%$ above ambient UV-B radiation and there was no change in $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ When UV-B radiation increased to $40 \\%$ above ambient UV-B radiation, $\\mathrm { { C h l } _ { a } }$ ， $\\mathrm { { C h l } _ { \\mathrm { b } } }$ and $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ significantly decreased. With increasing UV-B radiation, net photosynthetic rate $( P _ { \\mathrm { { n } } } )$ of functional leaves on cotton main stem significantly decreased.Although there were no change in stomatal conductance $( G _ { \\mathrm { s } } )$ and transpiration rate $( T _ { \\mathrm { r } } )$ under $40 \\%$ increase in UV-B radiation,while intercellular $\\mathrm { C O } _ { 2 }$ concentration $( C _ { \\mathrm { i } } )$ increased,which indicated that the decline in photosynthesis was mainly caused by non-stomatal limitation factors.Theresultsofchlorophyllfluorescence parametersanalysisshowed that with increasing UV-Bradiation, maximum quantum efficiency $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ ，operating efficiency $( \\phi _ { \\mathrm { P S } \\mathbb { I } } )$ ，linear electron transport rate (ETR） and photochemical quenching $( q P )$ of PSII remarkably decreased, but non-photochemical quenching (NPQ) increased. Allthe chlorophyllfluorescence parameters were significantly correlated with $P _ { \\mathrm { { n } } }$ changes. Slowly relaxing NPQ $( \\mathrm { N P Q } _ { \\mathrm { s } } )$ and its proportion in NPQ significantlyicreased underenanced UV-Bradiation,which indicated that thephotochemical eficiencyofPSIdecreasedasits reactioncenterwasdamagedbyelevatedUV-Bradiation.Theresultsdemonstrated thatphotosyntheticleafarea,chlorophyl contentand photosyntheticrateofcoton dropped underenhanced UV-Bradiationduring thecottn growth period.This inhibited cotton growth,material accumulation and seed cotton yield.Decrease in $P _ { \\mathrm { { n } } }$ due to enhanced UV-B radiation was closely related with the destruction of PS I reaction center. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Enhanced UV-Bradiation; Cotton growth; Gas exchange; Photosystem I(PSI); Chlorophyllfluorescence parameters; Lowly relaxing NPQ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年人类活动排放的氯氟烃类物质(chlorofluoro-carbon，CFCs)使臭氧层变薄，导致到达地表的紫外线(主要是波长为 $2 8 0 { \\sim } 3 2 0 \\ \\mathrm { n m }$ 的B区，简称UV-B 辐射)不断增强[1-2]。目前南半球的UV-B辐射强度较1979—1992年水平提高 $40 \\%$ ，而北半球则提高 $1 4 \\% ^ { [ 3 ] }$ 。由于氯氟烃类化合物半衰期长达 $5 0 { \\sim } 1 5 0$ （204号年[4]，地球上的生物还将长期遭受UV-B辐射增强的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV-B辐射增强对植物以及整个生态系统的影响已经成为各国科学家关注的焦点。前人研究表明，UV-B辐射可以攻击植物的DNA[5]、蛋白质[6和膜系统[7]，从而对植物的生长发育、生理代谢等多方面产生负面影响[8]。在植物的各种生理过程中，光合系统是UV-B辐射最初和最重要的作用靶标[9]。UV-B辐射增强条件下，油菜(Brassica campestris L.)[10]、高梁[Sorghum bicolor (L.） Moench][11]、丹参(Salviamiltiorrhiza Bge.)[12]、水稻(Oryza sativa L.)[13]、玉米(ZeamaysL.)[14]等作物的光合作用均受到了不同程度的抑制。光合作用的下降可能与光合色素含量减少[7]、光合酶活性受抑[15]以及光系统II(photosystemII complex,PSII)效率降低[16等有关。然而，这些结果绝大多数是从培养箱或温室试验中得到的。Booij-James等[17]研究发现，在光合有效辐射(photosynthetic active radiation， PAR)为 50\\~200$\\mathrm { \\mu } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 条件下，UV-B 辐射只增加1.24$\\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，拟南芥 [Arabidopsis thaliana (L.)Heynh.JPSII中的D1和D2蛋白也会大量降解；而当PAR上升到 $4 5 0 { \\sim } 5 0 0 \\ \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 时，即使UV-B 辐射提高 $3 2 { \\sim } 4 0  { \\mathrm { ~ \\ k J { \\cdot } m } ^ { - 2 } } { \\cdot }  { \\mathrm { d } ^ { - 1 } }$ ，豌豆(Pisum sativumL.)PSⅡI的最大光化学效率 $( F _ { \\mathrm { v } } / F _ { \\mathrm { m } } )$ 与 $\\mathrm { P S I I }$ 的实际光化学效率 $\\left( \\phi _ { \\mathrm { P S I I } } \\right)$ 也没有发生显著变化[18]。这表明UV-B辐射对植物的伤害很大程度上取决于PAR的强度。而在培养箱或温室条件下，PAR远低于大田环境，UV-B辐射增强对植物和光合系统的伤害很容易被高估[19-20]。因此，在大田条件下研究全生育期UV-B辐射增强对作物光合系统和生长的影响具有重要的理论和现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "棉花(Gossypium hirsutum L.)是重要的经济作物,对UV-B辐射增强非常敏感。在温室与大田条件下增强UV-B辐射，棉花均表现出株高变矮，叶面积减小,干物重下降[21-22]，叶绿素含量与光合速率降低[23-24],产量与品质也显著下降[25]。但有关UV-B辐射增强影响棉花光合作用的机制尚鲜见报道。本文以棉花作为受试材料，在大田条件下，研究了全生育期UV-B辐射增强对棉花生长、物质生产、光合色素含量和产量的影响，并通过分析棉花叶片的气体交换参数和叶绿素荧光参数变化探讨UV-B辐射增强影响棉花光合作用的机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试棉花材料选用转基因抗虫棉品种‘中棉所41'。试验为3年,2012—2013年测定生长、发育等形态学指标，2013年测定叶片气体交换参数和叶绿素荧光参数，2014年测定荧光暗弛豫动力学。试验采取大田种植，安排在河北省邢台市威县枣园乡东张庄村$( 3 6 ^ { \\circ } 5 6 ^ { \\prime } \\mathrm { N } , 1 1 5 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { E } ) .$ 。试验田连续多年植棉，一熟棉田，土壤中等地力，含有机质 $8 . 5 3 ~ \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ ，全氮0.578$\\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ ，有效磷 $4 0 . 3 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾 $1 2 4 ~ \\mathrm { m g ^ { \\cdot } k g ^ { - 1 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验设置3个处理：U0，对照，环境UV-B辐射强度；U1，设计高于环境UV-B 辐射强度 $20 \\%$ ； U2,设计高于环境UV-B辐射强度 $40 \\text{‰}$ 。每行棉花上方悬挂1排紫外灯管(长 $1 . 2 \\mathrm { ~ m ~ }$ ，中心波长 $2 9 7 \\ \\mathrm { n m }$ ，40W)，用醋酸纤维素膜包裹以滤掉 $2 8 0 ~ \\mathrm { n m }$ 以下波段，通过调整灯管高度控制到达棉花顶部的紫外辐射强度。分别于2012年5月中旬、6月中旬、7月中旬和8月中旬的晴天，从8:00至18:00，每隔 $1 5 \\ \\mathrm { m i n }$ 测定1次棉花冠层环境UV-B辐射强度，以时间为横坐标，UV-B辐射强度为纵坐标绘制曲线并模拟方程，以抛物线与 $X$ 轴的环绕面积作为试验地的环境UV-B辐射强度 $( \\mathbf { k J } { \\cdot } \\mathbf { m } ^ { - 2 } { \\cdot } \\mathbf { d } ^ { - 1 } )$ ，每月根据环境UV-B辐射强度变化调整各处理的辐射剂量，2013年和2014年的UV-B 处理强度参照2012 年的环境强度设定，实际处理强度如表1所示。环境及各处理UV-B辐射强度使用紫外辐射计(环地牌，北京师范大学光电仪器厂)测定 $2 9 7 { \\mathrm { n m } }$ 处强度。UV-B辐射增强处理从棉花三叶期开始，至吐絮期结束，每天照射 $^ { 1 0 \\mathrm { ~ h ~ } }$ (8:00—18:00)，阴天或下雨关闭紫外灯。每个处理设置4个重复，采取完全随机设计排列，每个重复棉花4行，长度 $3 . 6 \\mathrm { ~ m ~ }$ ，小区面积 $1 0 . 8 ~ \\mathrm { m } ^ { 2 }$ 。试验采用覆膜直播，大小行种植，大行行距 $1 0 5 \\ \\mathrm { c m }$ ，小行行距$4 5 \\ \\mathrm { c m }$ ，株距 $2 2 \\ \\mathrm { c m }$ ，密度6.0万株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f47662f388b0cab2a0383af94a64d09ef7a6de7145b79d1b917843acf8ffb37.jpg",
+        "table_caption": [
+            "表1不同棉花生育期各处理的UV-B辐射强度 Table 1UV-B intensity of each treatment in different cotton growth periods "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"3\">处理Treatment</td><td colspan=\"4\">生育期及其时间(月-日)Growth period and date (month-day)</td></tr><tr><td>苗期—蕾期 Seedling to bud stage (05-15—06-15)</td><td>蕾期—盛花期 Bud to full-bloom stage (06-15—07-15)</td><td>盛花期—盛铃期 Full-bloom to full-boll stage (07-15—08-15)</td><td>盛铃期—吐絮期 Full-boll to boll opening stage (08-15—09-15)</td></tr><tr><td>U0</td><td></td><td>UV-B 强度 UV-B intensity (kJ·m-2·d-1)</td><td>8.75</td><td>12.72</td><td>10.64</td><td>9.61</td></tr><tr><td rowspan=\"2\"></td><td></td><td>UV-B 增强 UV-B enhancement (%)</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>UV-B 强度 UV-B intensity (kJ·m-2-d-1)</td><td>10.51</td><td>15.28</td><td>12.80</td><td>11.53</td></tr><tr><td></td><td></td><td>UV-B 增强 UV-B enhancement (%)</td><td>20.10</td><td>20.10</td><td>20.30</td><td>20.00</td></tr><tr><td rowspan=\"2\">U2</td><td></td><td>UV-B 强度 UV-B intensity (kJ-m-2-d-1)</td><td>12.27</td><td>17.92</td><td>14.96</td><td>13.37</td></tr><tr><td></td><td>UV-B 增强 UV-B enhancement (%)</td><td>40.20</td><td>40.90</td><td>40.60</td><td>39.10</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 生长、干物质积累和产量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别于2012年和2013年的6月5日、6月25日、7月15日、8月5日和8月25日，调查各处理棉花的株高、节数和子叶节茎粗，各小区分别连续调查20株，取算术平均数；同时随机取棉株3棵，室内测定其果枝总长和叶片数，用SHY-150扫描式活体面积测量仪测定棉花单株总叶面积，计算叶面积指数(LAI)[26]:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LAI $[ =$ 单株棉花叶片总面积/单株棉花所占土地面积",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将棉株分解，地上部与根系分别烘干称重。计算棉花的相对生长速率(PGR)[27]:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\mathrm { P G R } = ( \\ln W _ { 2 } - \\ln W _ { 1 } ) / ( t _ { 2 } - t _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $W _ { 1 }$ 和 $W _ { 2 }$ 分别为时间 $t _ { 1 }$ 和 $t _ { 2 }$ 时的单株棉花干重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9月10日每小区连续调查20株棉花成铃数，取平均数作为单株成铃数；收获中部吐絮棉铃，计算单铃重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "籽棉产量 $: = { }$ 单株铃数 $\\ : \\cdot \\times \\ :$ 密度 $\\mathbf { \\nabla } \\times$ 单铃重 $\\cdot \\times 0 . 8 5$ (31.2.2气体交换参数及叶片叶绿素荧光参数测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "棉花叶片气体交换参数和叶绿素荧光相关参数采用Li-6400便携式光合仪测定。分别于2013年的棉花蕾期(6月24日)、盛花期(7月15日)、盛铃期(8月8日)和吐絮期(8月 27日)，选择晴天上午9:00—11:00测定棉花主茎倒三叶的净光合速率$( P _ { \\mathrm { { n } } } )$ 、蒸腾速率 $( T _ { \\mathrm { r } } )$ 、气孔导度 $( G _ { s } )$ 和胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { \\mathrm { i } } )$ 采用开放式气路，光源由LED红蓝光源提供，光强设定为 $1 \\ 4 0 0 \\ \\mu \\mathrm { m o l { \\cdot } m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ，气体流量 $5 0 0 ~ { \\mu \\mathrm { m o l } } { \\cdot } { \\mathrm { s } } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在黎明前测定棉花主茎倒三叶的PSII初始荧光$( F _ { 0 } )$ 、最大荧光 $( F _ { \\mathrm { m } } )$ ；在光适应状态下测定光下初始荧光 $( F _ { \\mathrm { { o } } } ^ { \\mathrm { ~ \\prime ~ } } )$ 、光下最大荧光 $( F _ { \\mathrm { m } } ^ { \\mathrm { ~ \\prime ~ } } )$ 和稳态荧光 $( F _ { \\mathrm { s } } )$ 。计算以下PSII相关参数:",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "非光化学猝灭系数 $( \\mathrm { N P Q } ) { = } ( F _ { \\mathrm { m } } { - } F _ { \\mathrm { m } } { ' } ) / F _ { \\mathrm { m } } { ' }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高等植物NPQ可以分为两部分：高能态猝灭(hight energy state quenching, $q E )$ 和光抑制猝灭(photoinhibitory quenching, $q I ) ^ { [ 2 8 ] }$ 。棉花叶片的 NPQ组成采用荧光暗弛豫动力学进行分析，参照Griffiths和Maxwell的方法[29]，有所改动。将 NPQ分解为两部分，快速弛豫NPQ(rapidlyrelaxing NPQ,$\\mathrm { \\Delta N P Q _ { F , } ) }$ ，代表 $q E$ ；缓慢弛豫NPQ(slowly relaxingNPQ, $\\mathrm { \\Delta N P Q _ { S , } ) }$ ，代表 $q I _ { \\circ }$ 将充分光适应的棉花主茎倒三叶放入Li-6400便携式光合仪荧光叶室，在黑暗条件下每隔 $5 \\mathrm { m i n }$ 打一次饱和光 $( 1 ~ 5 0 0 ~ \\mathrm { \\textmu m o l { \\cdot m } ^ { - 2 } { \\cdotp s } ^ { - 1 } } )$ ，同时测量其最大荧光值，连续测量 $1 \\ \\mathrm { h } _ { \\circ }$ $\\mathrm { \\Delta N P Q _ { F } }$ 计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N P Q _ { \\mathrm { F } } { = } } ( F _ { \\mathrm { m } } { - } F _ { \\mathrm { m r } } ) / F _ { \\mathrm { m r } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\mathrm { N P Q } _ { \\mathrm { S } } = \\mathrm { N P Q - N P Q } _ { \\mathrm { F } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $F _ { \\mathrm { m r } }$ 为弛豫平衡后的最大荧光值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 光合色素含量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照Cambrolle[30]的方法，在测定完气体交换参数后，取同一叶片，去叶脉称取 $\\mathbf { 0 . 5 ~ g }$ ，加入 $1 0 ~ \\mathrm { m L }$ $80 \\%$ 的丙酮溶液，充分浸提后过滤，取上清 $1 \\ \\mathrm { m L }$ 再加入 $2 ~ \\mathrm { m L }$ 丙酮溶液，在 $6 6 3 ~ \\mathrm { n m }$ 和 $6 4 6 ~ \\mathrm { { n m } }$ 下测定溶液吸光值，按照Lichtenthaler的方法[31]计算叶绿素a $\\mathrm { ( C h l _ { a } ) }$ 、叶绿素 $\\mathrm { \\Delta b ( C h l _ { b } ) }$ 和总叶绿素 $\\mathrm { ( C h l _ { a + b } ) }$ 的含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "所有数据用DPS7.55软件进行统计分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同程度UV-B辐射增强对棉花生长的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如表2所示，两年的试验结果趋势一致，棉花各生育期的株高、果枝总长以及子叶节茎粗均随着UV-B辐射的增强呈下降趋势，表明UV-B辐射增强对棉花茎干的纵向伸长和横向增粗均有抑制作用;但除苗期的U2处理外，各处理不同生育期节数均未发生显著变化，说明UV-B 辐射增强对茎干伸长的抑制作用主要是由于节间变短造成的。棉花的叶片生长受到UV-B辐射增强的抑制,LAI在不同年份均随UV-B辐射的增强而显著降低。从抑制程度看，棉花苗期对UV-B辐射更为敏感,U2处理下棉花LAI在2012年和2013年的苗期(6月5日)分别比U0 降低 $56 . 6 \\%$ 和 $4 8 . 3 \\%$ ，而在吐絮期(8月25日)则分别降低 $3 9 . 4 \\%$ 和 $30 . 3 \\text{‰}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同程度UV-B辐射增强对棉花干物质积累和产量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两年的干物质积累和分配结果如表3所示。随着UV-B辐射的增强，棉花地上部与根系干物质量均显著减少，根冠比则有所提高，表明UV-B辐射增强对棉花地上部的抑制作用大于根系。相对生长速率(PGR)表示植株的生长能力。由表3看出，各处理下棉花的PGR均随着生育期的推进逐渐降低，在棉花生育前期，PGR显著受到UV-B增强的抑制，但在进入花铃期以后(8月5日)反而随UV-B的增强而提高。这可能是由于UV-B增强条件下棉株结铃少后期营养生长旺盛造成的。3年的棉花籽棉产量结果表现一致，均随着UV-B辐射的增强而显著降低。从产量构成因素看，单铃重与单株铃数均有随UV-B辐射增强而降低的趋势(表4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 不同程度UV-B辐射增强对棉花气体交换参数的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，在各生育期，棉花主茎功能叶的$P _ { \\mathrm { { n } } }$ 随UV-B辐射的增强而显著降低，但 $G _ { \\mathrm { s } }$ 和 $T _ { \\mathrm { r } }$ 未发生显著变化, $C _ { \\mathrm { i } }$ 则与 $P _ { \\mathrm { { n } } }$ 变化相反，随UV-B辐射的增强有升高趋势。UV-B辐射增强对 $P _ { \\mathrm { { n } } }$ 的抑制在生育前高于中后期，蕾期(6月24日)U1和U2处理棉花$P _ { \\mathrm { { n } } }$ 分别比对照降低 $1 5 . 0 \\%$ 和 $56 . 4 \\%$ ，到初花期(7月15日)则分别降低 $9 . 0 \\%$ 和 $2 2 . 9 \\% _ { \\textmd { c } }$ （24号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4不同程度UV-B辐射增强对棉花叶片光合色素含量与组成的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶绿素是植物进行光合作用的主要色素。U1处理下，棉花主茎功能叶中 $\\mathrm { { C h l } _ { a } }$ 和 $\\mathrm { C h l _ { b } }$ 含量均略有升高， $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ 值没有显著差异；而U2处理下 $\\mathrm { { C h l } _ { a } }$ 和$\\mathrm { C h l _ { b } }$ 含量显著下降， $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ 比值显著降低(表5)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 不同程度UV-B辐射增强对棉花主茎功能叶叶",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "绿素荧光参数的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶绿素荧光是光合作用的探针，通过对荧光参数的测定和分析，可以了解植物光合作用响应环境的变化及影响机制[32]。各处理下棉花主茎功能叶的叶绿素荧光参数结果显示(图2), $F _ { \\mathrm { v } } / F _ { \\mathrm { m } } .$ $\\phi _ { \\mathrm { P S I I } }$ 、ETR和 $q P$ 均随UV-B辐射的增强而降低，而NPQ则显著升高。从变化幅度来看，各处理的叶绿素荧光参数均随着UV-B辐射处理时间的延长，差异逐渐减小，以 $\\varPhi _ { \\mathrm { P S I I } }$ 为例，蕾期(6月24日)U1和U2处理分别比对照降低 $24 . 1 \\%$ 和 $2 9 . 5 \\%$ ，盛花期(7月15日)降低$3 . 4 \\%$ 和 $12 . 9 \\%$ ，而到盛铃期(8月8日)U1处理与对照已无显著差别，U2也只降低了 $6 . 2 \\text{‰}$ ，这一结果表明棉花生育前期对UV-B辐射增强更为敏感。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f68d89b4f48ca626ad9a9db5c334ae2901936b53360f31a7f856c3867027b84.jpg",
+        "table_caption": [
+            "表2不同程度UV-B辐射增强对不同生育期棉花生长的影响 Effects of enhanced UV-B radiation at different levels on cotton growth at different grov "
+        ],
+        "table_footnote": [
+            "同一年份数字标注不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。 The data with different letters in the same year are significantly different ( $\\boldsymbol { P } <$ ).05). "
+        ],
+        "table_body": "<html><body><table><tr><td>年份r</td><td>Grtage</td><td>Treatent</td><td>Planthgight (cm)</td><td>(cm)</td><td>Nod number</td><td>(cm)</td><td>LAI</td></tr><tr><td>2012</td><td>苗期 Seedling stage</td><td>U0</td><td>27.3±1.3j</td><td></td><td>8.5±0.8c</td><td>0.471±0.031g</td><td>0.43±0.05h</td></tr><tr><td></td><td></td><td>U1</td><td>24.5±1.2k</td><td></td><td>7.0±0.8c</td><td>0.327±0.024h</td><td>0.31±0.03i</td></tr><tr><td></td><td></td><td>U2</td><td>19.0±2.71</td><td></td><td>6.7±0.6d</td><td>0.269±0.032i</td><td>0.18±0.02j</td></tr><tr><td></td><td>蕾期</td><td>U0</td><td>66.6±2.9fg</td><td>148.4±12.6h</td><td>12.6±0.6b</td><td>1.142±0.044e</td><td>1.20±0.16f</td></tr><tr><td></td><td>Bud stage</td><td>U1</td><td>58.5±4.2h</td><td>112.0±18.0i</td><td>12.0±0.9b</td><td>1.020±0.052f</td><td>0.87±0.10g</td></tr><tr><td></td><td></td><td>U2</td><td>43.8±5.0i</td><td>64.5±15.3j</td><td>11.7±1.0b</td><td>0.920±0.069f</td><td>0.45±0.02h</td></tr><tr><td></td><td>盛花期</td><td>U0</td><td>84.5±3.5bc</td><td>326.0±20.6de</td><td>19.1±1.0a</td><td>1.543±0.041ab</td><td>3.22±0.26d</td></tr><tr><td></td><td>Full-bloom stage</td><td>U1</td><td>76.5±3.4de</td><td>272.1±16.7f</td><td>18.6±0.8a</td><td>1.458±0.062bc</td><td>2.54±0.18e</td></tr><tr><td></td><td></td><td>U2</td><td>62.0±7.4gh</td><td>189.5±21.6g</td><td>18.5±1.2a</td><td>1.264±0.103de</td><td>1.90±0.11f</td></tr><tr><td></td><td>盛铃期</td><td>U0</td><td>85.2±4.2bc</td><td>417.4±16.5b</td><td>18.7±1.0a</td><td>1.662±0.094a</td><td>4.58±0.38a</td></tr><tr><td></td><td>Full-boll stage</td><td>U1</td><td>81.9±3.7bcd</td><td>373.5±19.9c</td><td>19.1±0.6a</td><td>1.638±0.083a</td><td>3.97±0.16bc</td></tr><tr><td></td><td></td><td>U2</td><td>72.0±5.1ef</td><td>310.8±15.2e</td><td>18.2±0.8a</td><td>1.442±0.064c</td><td>2.44±0.27e</td></tr><tr><td></td><td>吐絮期</td><td>U0</td><td>97.7±5.2a</td><td>478.9±26.3a</td><td>19.1±1.1a</td><td>1.658±0.081a</td><td>4.20±0.38ab</td></tr><tr><td></td><td>Boll opening stage</td><td>U1</td><td>87.2±3.2b</td><td>454.0±18.1a</td><td>18.2±0.9a</td><td>1.588±0.096ab</td><td>3.46±0.31cd</td></tr><tr><td></td><td></td><td>U2</td><td>78.9±5.0cde</td><td>341.4±14.2cd</td><td>19.0±0.8a</td><td>1.352±0.129cd</td><td>2.55±0.35e</td></tr><tr><td>2013</td><td>苗期</td><td>U0</td><td>25.9±2.0h</td><td></td><td>8.2±0.7c</td><td>0.442±0.051g</td><td>0.36±0.03h</td></tr><tr><td></td><td>Seedling stage</td><td>U1</td><td>23.4±1.8h</td><td>1</td><td>7.1±0.9c</td><td>0.351±0.038h</td><td>0.24±0.01i</td></tr><tr><td></td><td></td><td>U2</td><td>16.7±2.5i</td><td>1</td><td>6.7±0.5d</td><td>0.257±0.034i</td><td>0.19±0.02j</td></tr><tr><td></td><td>蕾期</td><td>U0</td><td>62.8±3.5e</td><td>129.3±9.4g</td><td>12.7±0.8b</td><td>1.094±0.042de</td><td>1.66±0.13e</td></tr><tr><td></td><td>Bud stage</td><td>U1</td><td>55.4±3.7f</td><td>104.6±12.4h</td><td>12.6±0.7b</td><td>0.993±0.051e</td><td>1.14±0.21f</td></tr><tr><td></td><td></td><td>U2</td><td>43.9±5.8g</td><td>75.1±17.0i</td><td>11.9±1.3b</td><td>0.819±0.081f</td><td>0.73±0.05g</td></tr><tr><td></td><td>盛花期</td><td>U0</td><td>86.1±4.6bc</td><td>295.3±15.3d</td><td>18.7±1.1a</td><td>1.592±0.062b</td><td>3.39±0.46c</td></tr><tr><td></td><td>Full-bloom stage</td><td>U1</td><td>72.7±5.3d</td><td>266.4±13.2e</td><td>19.4±0.9a</td><td>1.384±0.079c</td><td>2.62±0.37d</td></tr><tr><td></td><td></td><td>U2</td><td>60.4±4.9ef</td><td>172.7±23.9f</td><td>18.3±1.2a</td><td>1.139±0.101d</td><td>2.12±0.19d</td></tr><tr><td></td><td>盛铃期</td><td></td><td>89.2±3.1ab</td><td>369.8±20.5b</td><td>18.6±1.1a</td><td>1.684±0.043a</td><td>5.13±0.49a</td></tr><tr><td></td><td>Full-boll stage</td><td>U0</td><td>82.2±3.8c</td><td>335.0±18.7bc</td><td>18.8±1.3a</td><td>1.601±0.039b</td><td>4.39±0.44b</td></tr><tr><td></td><td></td><td>U1</td><td>73.6±4.1 d</td><td>292.6±21.9de</td><td>18.9±1.3a</td><td>1.407±0.078c</td><td>3.27±0.27c</td></tr><tr><td></td><td>吐絮期</td><td>U2</td><td>96.3±6.0a</td><td>469.1±27.1a</td><td>18.4±1.4a</td><td>1.669±0.077ab</td><td>4.86±0.39ab</td></tr><tr><td></td><td>Boll opening stage</td><td>U0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>U1 U2</td><td>90.8±4.4ab</td><td>452.8±22.4a 323.8±26.0cd</td><td>18.6±1.0a</td><td>1.614±0.091ab</td><td>3.68±0.35c</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/00f11bd94fbf8d3f04a583cc433167cea4e1d62f1b4ec8e60bea2922c28da9ad.jpg",
+        "table_caption": [
+            "表3不同程度UV-B辐射增强对棉花干物质积累和分配的影响ble 3Effects of enhanced UV-B radiation at different levels on dry matter accumulation and distri"
+        ],
+        "table_footnote": [
+            "地上部干重为棉花茎、叶和蕾铃的干物重之和。同一年份数字标注不同字母表示差异显著 $( P { < } 0 . 0 5 ) _ { \\circ }$ ,Dry matter of the aboveground part is th( total dry weightofstems,leaves,budsandbols.Thedatawithdiferentleters inthesameyeararesignificantlydierent $( P < 0 . 0 5 )$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>Grotpriod</td><td>Treaen</td><td></td><td>Abpreggd</td><td>Buds gl</td><td>Tota cigt</td><td>Rocatatio</td><td>PGR</td></tr><tr><td>2012</td><td>苗期 Seedling stage</td><td>U0</td><td>1.83±0.20h</td><td>7.42±0.76j</td><td>1</td><td>9.25±0.87j</td><td>0.247±0.010c</td><td>166.7±5.4a</td></tr><tr><td></td><td></td><td>U1</td><td>1.45±0.19h</td><td>5.35±0.69k</td><td>1</td><td>6.80±1.04k</td><td>0.271±0.012b</td><td>151.3±8.9b</td></tr><tr><td></td><td></td><td>U2</td><td>1.05±0.14i</td><td>3.25±0.471</td><td>一</td><td>4.30±0.721</td><td>0.323±0.021a</td><td>128.4±11.9c</td></tr><tr><td></td><td>蕾期 Bud stage</td><td>U0</td><td>5.02±0.32e</td><td>28.07±3.62h</td><td>1.20±0.18h</td><td>33.09±4.21h</td><td>0.179±0.011e</td><td>63.7±5.6d</td></tr><tr><td></td><td></td><td>U1</td><td>4.29±0.28f</td><td>19.65±4.51i</td><td>0.65±0.12i</td><td>23.94±4.08i</td><td>0.218±0.016d</td><td>62.9±4.2d</td></tr><tr><td></td><td></td><td>U2</td><td>2.90±0.31g</td><td>9.63±1.59j</td><td>0.52±0.12i</td><td>12.53±3.19j</td><td>0.313±0.024a</td><td>53.5±5.0e</td></tr><tr><td></td><td>盛花期 Full-bloom</td><td>U0</td><td>13.30±0.72c</td><td>78.22±8.91f</td><td>11.75±1.34e</td><td>91.52±7.81f</td><td>0.170±0.014e</td><td>50.9±5.2e</td></tr><tr><td></td><td>stage</td><td>U1</td><td>10.60±1.07d</td><td>56.70±9.22g</td><td>8.23±0.83f</td><td>67.30±9.40g</td><td>0.187±0.007e</td><td>51.7±4.3e</td></tr><tr><td></td><td></td><td>U2</td><td>6.37±1.06e</td><td>26.37±5.90h</td><td>6.69±0.62g</td><td>32.74±5.22h</td><td>0.203±0.008d</td><td>48.0±7.6ef</td></tr><tr><td></td><td>盛铃期 Full-boll stage</td><td>U0</td><td>19.14±0.87a</td><td>171.08±10.93b</td><td>52.52±4.95b</td><td>190.22±8.01b</td><td>0.112±0.009gh</td><td>36.6±3.7g</td></tr><tr><td></td><td></td><td>U1</td><td>17.21±1.00b</td><td>130.17±7.20d</td><td>36.41±4.17c</td><td>147.38±10.97d</td><td>0.132±0.008f</td><td>39.2±4.2fg</td></tr><tr><td></td><td></td><td>U2</td><td>12.50±1.47cd</td><td>85.47±12.33f</td><td>27.54±4.08d</td><td>97.97±13.14f</td><td>0.146±0.008f</td><td>54.8±8.4de</td></tr><tr><td></td><td>吐絮期 Boll opening</td><td>U0</td><td>19.22±0.66a</td><td>189.97±14.96a</td><td>71.28±6.91a</td><td>209.19±11.20a</td><td>0.101±0.004h</td><td>4.8±0.7i</td></tr><tr><td></td><td>stage</td><td>U1</td><td>17.02±1.21b</td><td>149.78±9.77c</td><td>55.04±5.40b</td><td>166.80±8.15c</td><td>0.114±0.005g</td><td>6.2±0.7i</td></tr><tr><td>2013</td><td></td><td>U2</td><td>12.81±1.12c</td><td>115.55±7.01e</td><td>42.51±6.22c</td><td>128.36±7.52e</td><td>0.111±0.007gh</td><td>13.5±2.2h</td></tr><tr><td></td><td>苗期</td><td>U0</td><td>1.66±0.16i</td><td>5.78±0.86k</td><td>1</td><td>7.44±0.61k</td><td>0.287±0.026b</td><td>164.0±6.9a</td></tr><tr><td></td><td> Seedling stage</td><td>U1</td><td>1.54±0.17i</td><td>4.15±0.80k</td><td>1</td><td>5.69±0.751</td><td>0.371±0.041a</td><td>150.6±7.1b</td></tr><tr><td></td><td></td><td>U2</td><td>1.11±0.16j</td><td>2.87±0.46l</td><td></td><td>3.98±0.40m</td><td>0.387±0.038a</td><td>132.7±9.4c</td></tr><tr><td></td><td>蕾期</td><td>U0</td><td>5.03±0.31f</td><td>33.95±4.27h</td><td>2.36±0.38h</td><td>38.98±4.93h</td><td>0.148±0.007ef</td><td>82.8±7.4d</td></tr><tr><td></td><td>Bud stage</td><td>U1</td><td>4.25±0.41g</td><td>22.78±4.10i</td><td>0.81±0.10i</td><td>27.03±4.26i</td><td>0.187±0.016cd</td><td>77.9±4.8d</td></tr><tr><td></td><td></td><td>U2</td><td>2.56±0.33h</td><td>13.20±3.45j</td><td>0.52±0.07i</td><td>15.76±3.41j</td><td>0.194±0.027c</td><td>68.8±5.9e</td></tr><tr><td></td><td>盛花期</td><td>U0</td><td>11.75±1.21cd</td><td>86.03±7.46f</td><td>9.87±1.48f</td><td>97.78±7.58f</td><td>0.137±0.009fgh</td><td>46.0±3.6f</td></tr><tr><td></td><td>Full-blom stage</td><td>U1</td><td>8.51±0.94e</td><td>59.65±6.90g</td><td>7.61±1.90fg</td><td>68.16±5.43g</td><td>0.143±0.004fg</td><td>46.2±4.8f</td></tr><tr><td></td><td></td><td>U2</td><td>5.19±0.47f</td><td>32.28±5.01h</td><td>5.77±1.22g</td><td>37.47±5.16h</td><td>0.161±0.012de</td><td>43.3±4.0fg</td></tr><tr><td></td><td>盛铃期</td><td>U0</td><td>19.36±2.06b</td><td>195.36±16.74b</td><td>61.03±3.29b</td><td>214.72±22.74b</td><td>0.099±0.006j</td><td>39.3±3.1gh</td></tr><tr><td></td><td>Full-boll stage</td><td>U1</td><td>13.87±1.43c</td><td>128.16±10.82d</td><td>35.41±4.97d</td><td>142.03±11.02d</td><td>0.108±0.006ij</td><td>36.7±3.2h</td></tr><tr><td></td><td></td><td>U2</td><td>9.22±1.64de</td><td>75.50±8.40f</td><td>24.85±4.07e</td><td>84.72±9.27f</td><td>0.122±0.013hi</td><td>40.8±6.3fgh</td></tr><tr><td></td><td>吐絮期</td><td>U0</td><td>24.91±2.24a</td><td>268.41±36.01a</td><td>73.93±5.63a</td><td>293.32±14.94a</td><td>0.093±0.013j</td><td>15.6±2.2i</td></tr><tr><td></td><td>Boll opening stage</td><td>U1</td><td>18.74±3.30b</td><td>151.82±11.42c</td><td>52.47±4.32c</td><td>170.56±13.70c</td><td>0.123±0.010hi</td><td>9.2±1.5j</td></tr><tr><td></td><td></td><td>U2</td><td>13.50±1.66c</td><td>105.24±11.94e</td><td>38.21±6.84d</td><td>118.74±8.16e</td><td>0.128±0.011gh</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b6b0b2a037063b90135de26b907ec606db2920d688f0b3e1cfc0625a158b9a2.jpg",
+        "table_caption": [
+            "表4不同程度UV-B辐射增强对棉花籽棉产量及其构成因素的影响 :4Effects of enhanced UV-B radiation at different levels on seed cotton yields and its comp "
+        ],
+        "table_footnote": [
+            "同一年份数字标注不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。The data with different letters in the same year are significantly different $( P < 0 . 0 5 )$ 1 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年份 Year</td><td rowspan=\"2\">处理 Treatment</td><td rowspan=\"2\">单铃重 Singlebll eiht</td><td rowspan=\"2\">单株铃数</td><td rowspan=\"2\">籽棉产量 Seed cgotm yield</td></tr><tr><td>Boll number per plant</td></tr><tr><td rowspan=\"4\">2012</td><td>U0</td><td>5.42±0.11a</td><td>18.8±1.8a</td><td>5 184.4±122.5a</td></tr><tr><td>U1</td><td>4.95±0.24b</td><td>16.4±1.4a</td><td>4 140.6±172.7b</td></tr><tr><td>U2</td><td>4.47±0.21c</td><td>14.0±1.1a</td><td>3 201.1±229.3c</td></tr><tr><td>U0</td><td>5.40±0.14a</td><td>17.7±1.7a</td><td>4 887.0±167.2a</td></tr><tr><td rowspan=\"4\">2014</td><td>U1</td><td>4.68±0.23b</td><td>14.9±1.2a</td><td>3 547.9±199.3b</td></tr><tr><td>U2</td><td>4.48±0.21b</td><td>12.9±0.7b</td><td>2 942.8±267.1c</td></tr><tr><td>U0</td><td>5.44±0.20a</td><td>18.4±1.5a</td><td>5 098.0±137.5a</td></tr><tr><td>U1</td><td>5.02±0.17b</td><td>14.3±1.3b</td><td>3 652.7±173.1b</td></tr><tr><td></td><td>U2</td><td>4.64±0.17c</td><td>12.6±1.6b</td><td>2 981.1±180.7c</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/9503f86198dc17ee8c9e069b5e406fc99e49db65b7e917d96ce3b4acfcf367b9.jpg",
+        "img_caption": [
+            "图1不同程度UV-B辐射增强对棉花主茎功能叶气体交换参数的影响 Fig.1EffectsofenhancedUV-Bradiationatdiferentlevelsongas exchangeparametersoffunctionalleavesoncottonmainstem $P _ { \\mathrm { { n } } }$ ：净光合速率; $G _ { \\mathrm { s } }$ ：气孔导度； $C _ { \\mathrm { i } }$ ：胞间 $\\mathrm { C O } _ { 2 }$ 浓度; $T _ { \\mathrm { r } }$ ：蒸腾速率。 $P _ { \\mathrm { { n } } }$ : net photosynthetic rate; $G _ { s }$ : stomatal conductance; $C _ { \\mathrm { i } }$ : intercellular $\\mathrm { C O } _ { 2 }$ concentration; $T _ { \\mathrm { r } }$ :transpiration rate. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物叶片的暗弛豫动力学测定可以分析NPQ变化的机制。根据净光合速率和叶绿素荧光参数的测定结果，选取棉花对UV-B辐射增强最为敏感的蕾期(6月24日)，对不同UV-B辐射处理下主茎功能叶片进行了暗弛豫动力学分析，结果如表6所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UV-B增强条件下，棉花主茎功能叶 $\\mathsf { N P Q } _ { \\mathrm { F } }$ 显著增大，但U1处理高于U2处理；而 $\\mathrm { \\Delta N P Q _ { S } }$ 则随UV-B的增强而大幅提高，U1和U2处理分别比对照提高2.48倍和8.87倍。从组成比例看， $\\mathrm { \\Delta N P Q _ { F } }$ 占NPQ的比例随着UV-B辐射的增强而降低， $\\mathrm { \\Delta N P Q _ { s } }$ 的比例则随着UV-B辐射的增强而显著提高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6不同UV-B辐射强度下棉花叶片光合特征参数的相关性分析不同UV-B 辐射强度下，棉花叶片的气体交换参",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d303c7a9c9bc46d4ac131a8970faa6f26ccbfa5a6344a7f581515b8370b2b67c.jpg",
+        "table_caption": [
+            "Table 5Efcts of enhanced UV-Bradiation at diferent levels onchlorophyllcontent andcompositionofcoton leaves mg:g-1(FW) "
+        ],
+        "table_footnote": [
+            "不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。The data with different letters are significantly different $( P < 0 . 0 5 )$ 1"
+        ],
+        "table_body": "<html><body><table><tr><td>生育期 Growth period</td><td>处理 Treatment</td><td>Chla</td><td>Chlb</td><td>Chla+b</td><td>Chla/Chlb</td></tr><tr><td>蕾期 Bud stage</td><td>U0</td><td>1.395±0.048bc</td><td>0.252±0.010ef</td><td>1.647±0.048cd</td><td>5.54±0.24b</td></tr><tr><td rowspan=\"3\">盛花期</td><td>U1</td><td>1.475±0.055b</td><td>0.264±0.017e</td><td>1.739±0.060bc</td><td>5.59±0.37b</td></tr><tr><td>U2</td><td>1.028±0.070f</td><td>0.218±0.016gh</td><td>1.246±0.092g</td><td>4.72±0.56cd</td></tr><tr><td>U0</td><td>1.475±0.047b</td><td>0.230±0.012fg</td><td>1.705±0.059bcd</td><td>6.41±0.23a</td></tr><tr><td rowspan=\"4\">盛铃期 Full-boll tage Full-bloom stage</td><td>U1</td><td>1.620±0.076a</td><td>0.248±0.014ef</td><td>1.868±0.063a</td><td>6.53±0.37a</td></tr><tr><td>U2</td><td>1.184±0.055e</td><td>0.206±0.011h</td><td>1.390±0.043f</td><td>5.75±0.41b</td></tr><tr><td>U0</td><td>1.466±0.077b</td><td>0.297±0.009bc</td><td>1.762±0.054b</td><td>4.94±0.23c</td></tr><tr><td>U1</td><td>1.595±0.061a</td><td>0.326±0.009a</td><td>1.922±0.092a</td><td>4.89±0.41c</td></tr><tr><td rowspan=\"4\">吐絮期 Boll opening stage</td><td>U2</td><td>1.219±0.104de</td><td>0.290±0.016cd</td><td>1.508±0.073e</td><td>4.21±0.49d</td></tr><tr><td>U0</td><td>1.304±0.059cd</td><td>0.301±0.013bc</td><td>1.605±0.049cde</td><td>4.34±0.32d</td></tr><tr><td>U1</td><td>1.396±0.061bc</td><td>0.319±0.014ab</td><td>1.715±0.071bcd</td><td>4.38±0.44cd</td></tr><tr><td>U2</td><td>0.907±0.067g</td><td>0.272±0.015de</td><td>1.179±0.089g</td><td>3.33±0.36e</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/690bd75ba26ea9dacc26e045f35ee01fe94d2158a0ab4558f48b2566638cabb9.jpg",
+        "table_caption": [
+            "表5不同程度UV-B辐射增强对棉花叶片叶绿素含量及组成的影响"
+        ],
+        "table_footnote": [
+            "NPQ:非光化学淬灭系数; $\\mathrm { \\Delta N P Q _ { F } }$ ：快速弛豫 NPQ; $\\mathrm { \\Delta N P Q s }$ ：缓慢弛豫 NPQ。不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。NPQ:non-photochemical quenching; $\\mathrm { { N P Q } _ { \\mathrm { F } } }$ : rapidly relaxing NPQ; $\\mathrm { { N P Q } _ { \\mathrm { { S } } } }$ : slowly relaxing NPQ.The data with different letters are significantly different $( P < 0 . 0 5 )$ ！ "
+        ],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>NPQ</td><td>NPQF</td><td>NPQF/NPQ (%)</td><td>NPQs</td><td>NPQs/NPQ (%)</td></tr><tr><td>U0</td><td>0.778±0.069c</td><td>0.652±0.036c</td><td>83.8</td><td>0.126±0.023c</td><td>16.2</td></tr><tr><td>U1</td><td>1.766±0.102b</td><td>1.327±0.083a</td><td>75.2</td><td>0.439±0.038b</td><td>24.8</td></tr><tr><td>U2</td><td>2.065±0.156a</td><td>0.821±0.066b</td><td>39.8</td><td>1.244±0.109a</td><td>60.2</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c864684fe013729bec4314a279e9dae1fafcdc465f468d8713f9276dfe7d30c8.jpg",
+        "table_caption": [
+            "表6不同UV-B辐射强度下棉花叶片NPQ组成分析Table 6 NPQ component of cotton leaves in different UV-B radiation intensities",
+            "表7不同UV-B辐射强度下棉花叶片光合特征参数的相关性分析Table7Correlation analysis of coton leaf photosynthetic parameters in different UV-B radiation intensities"
+        ],
+        "table_footnote": [
+            "$P _ { \\mathfrak { n } }$ ：净光合速率; $G _ { \\mathrm { s } }$ ：气孔导度； $C _ { \\mathrm { i } }$ ：胞间 $\\mathrm { C O } _ { 2 }$ 浓度; $T _ { \\mathrm { r } }$ ：蒸腾速率。 $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ :PSⅡI的最大光化学量子产率; $\\phi _ { \\mathrm { P S I I } }$ :PSⅡI的实际光化学量子效率; $q P$ ：光化学淬灭系数；ETR：线性电子传递速率；NPQ：非光化学淬灭系数。 $^ *$ ：相关性达0.05 显著水平； $^ { * * }$ ：相关性达0.01显著水平。 $P _ { \\mathfrak { n } }$ :net photosynthetic rate; $G _ { \\mathrm { s } }$ : stomatal conductance; $C _ { \\mathrm { i } }$ : intercellular $\\mathrm { C O } _ { 2 }$ concentration; $T _ { \\mathrm { r } }$ ：transpiration rate; $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ : maximum quantum efficiency of PS II photochemistry; $\\phi _ { \\mathrm { P S I I } }$ : PS II operating efficiency; $q P$ : photochemical quenching;ETR:linear electron transport rate；NPQ: non-photochemical quenching. $*$ : correlation significant at O.O5 level; $^ { * * }$ : correlation significant at O.O1 level. "
+        ],
+        "table_body": "<html><body><table><tr><td>参数 parameters</td><td>Gs</td><td>Ci</td><td>T</td><td>F/Fm</td><td>PpsIl</td><td>qP</td><td>ETR</td><td>NPQ</td><td>Chla+b</td></tr><tr><td>Pn</td><td>0.084</td><td>0.118</td><td>0.529</td><td>0.845**</td><td>0.830**</td><td>0.901**</td><td>0.832**</td><td>-0.854**</td><td>0.708*</td></tr><tr><td>Gs</td><td></td><td>0.775*</td><td>0.624</td><td>0.242</td><td>0.316</td><td>0.066</td><td>0.259</td><td>-0.309</td><td>0.422</td></tr><tr><td>Ci</td><td></td><td></td><td>0.857**</td><td>-0.054</td><td>0.447</td><td>0.350</td><td>0.425</td><td>-0.409</td><td>0.175</td></tr><tr><td>T</td><td></td><td></td><td></td><td>0.330</td><td>0.757*</td><td>0.706*</td><td>0.749*</td><td>-0.729*</td><td>0.486</td></tr><tr><td>F/Fm</td><td></td><td></td><td></td><td></td><td>0.661</td><td>0.583</td><td>0.640</td><td>-0.696*</td><td>0.806**</td></tr><tr><td>ΦPsI</td><td></td><td></td><td></td><td></td><td></td><td>0.904**</td><td>0.997**</td><td>-0.997**</td><td>0.512</td></tr><tr><td>qP</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.921**</td><td>-0.904**</td><td>0.488</td></tr><tr><td>ETR</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.993**</td><td>0.494</td></tr><tr><td>NPQ</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>-0.553</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.85 1 I   \n0.80 童   \nE   \nF 1   \n0.75   \n0.70 0.6   \n0.5   \nΦ 0.4 0.3 一   \n0.85   \n0.80 1   \nP   \n0.75 1   \n0.70 A 360 320   \nR   \n280 240 T 200 2.5 ←U0 U1 2.0 + 1U2   \nN 1.5 1.0 0.5 06-24 07-15 08-08 日期(月-日)Date (month-day) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ ：PSⅡI的最大光化学量子产率，反映PSⅡI的潜在量子效率; $\\phi _ { \\mathrm { P S I I } }$ ：PSⅡI的实际光化学量子效率，反映被用于光化学途径激发能 占进入PSⅡI总激发能的比例; $q P$ ：光化学淬灭系数，反映PSⅡI反应 中心的开放程度；ETR：线性电子传递速率，代表了植物叶片的总光 合速率;NPQ:非光化学淬灭系数，反映了植物热耗散的能力。 $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ maximum quantum efficiency of PS I photochemistry,reflecting the intrinsic efficiency of $\\mathrm { P S I I }$ · $\\phi _ { \\mathrm { P S I I } }$ : PS I operating efficiency,reflecting the proportion of absorbed light that is actually used in $\\mathrm { P S I I }$ photochemistry; $q P$ ：photochemical quenching,reflecting the open proportion of PS I reaction center；ETR:linear electron transport rate,an indicator of overall photosynthesis of plant leaf; NPQ:non-photochemical quenching, reflecting the rate of heat loss from $\\mathrm { P S I I }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "数与叶绿素含量、叶绿素荧光参数的相关关系如表7所示。 $P _ { \\mathrm { { n } } }$ 与 $q P$ 相关系数最高，达0.901，与其他叶绿素荧光参数的相关系数也达0.83以上，且均达0.01显著水平；其次是 $\\mathrm { { C h l } _ { a + b } }$ ，与 $P _ { \\mathrm { { n } } }$ 相关系数为0.708，达0.05显著水平； $P _ { \\mathrm { { n } } }$ 与其他气体交换参数中 $\\left[ G _ { \\mathrm { s } } \\right]$ $C _ { \\mathrm { i } }$ 和 $\\textstyle \\left| T _ { \\mathrm { r } } \\right.$ 间无显著相关性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1 UV-B辐射增强抑制棉花生长",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "UV-B辐射增强是全球环境变化的重要问题之一，对植物的形态、生长发育、生理代谢、干物质积累和产量[33-35]等产生多方面的影响。本研究结果表明，UV-B辐射增强抑制了棉花茎秆的伸长和增粗LAI显著减小，生长减缓，这与在丹参[12]、拟南芥[7]、向日葵(Helianthus annuus L.)[36]、小麦(TriticumaestivumL.)[37]、豌豆[38]等作物上的研究结果一致。叶片是作物进行光合作用的主要器官，叶面积与作物的生物量间存在显著正相关关系[4]。UV-B辐射增强引起的叶面积减少，必然影响棉花的干物质积累与产量形成。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2UV-B辐射增强导致棉花叶片净光合速率下降，",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "叶绿素含量降低 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "光合作用为绿色植物提供物质和能量，是植物生长发育的基础。叶片光合速率的高低是决定作物物质生产能力的主要因素之一。本研究表明，棉花主茎功能叶的 $P _ { \\mathrm { { n } } }$ 随UV-B辐射的增强而减小， $G _ { \\mathrm { s } }$ 未发生显著变化， $C _ { \\mathrm { i } }$ 反而升高，表明 $P _ { \\mathrm { { n } } }$ 的降低并非由气孔开度变化造成。Jansen等[39]研究发现,UV-B辐射增强并不会引起气孔的打开或闭合，而是造成保卫细胞丧失开合的调节能力。因此，UV-B辐射增强所引起的 $P _ { \\mathrm { { n } } }$ 下降，与气孔开度无关，而主要由非气孔限制因素造成[40-41]。本研究中不同 UV-B 辐射强度下棉花叶片的 $P _ { \\mathrm { { n } } }$ 与 $G _ { \\mathrm { s } }$ 和 $C _ { \\mathrm { i } }$ 间无显著相关性也验证了这一结论。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "叶绿素是光合有效辐射的主要吸收色素，其含量与组成对植物的光合作用与同化机能产生重要影响[42]。但叶绿素对UV-B辐射极为敏感，叶绿体类囊体膜与垛叠结构极易受到UV-B辐射增强的破坏[43]。本研究中，在UV-B辐射增强 $40 \\%$ 的条件下， $\\mathrm { { C h l } _ { a } }$ 与$\\mathrm { C h l _ { b } }$ 含量以及 $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ 均显著下降。叶绿素含量的减少直接降低叶片对光能的吸收效率和传递速率，干扰光能在PSII与PSI间的分配和转换，抑制物质合成[44]。 $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ 反映了叶绿体类囊体膜的稳定性[45]$\\mathrm { { C h l } _ { a } / C h l _ { b } }$ 越小，类囊体膜垛叠越松散，光化学活性也越低[46]。UV-B辐射增强条件下 $\\mathrm { { C h l } _ { a } / C h l _ { b } }$ 比值降低,表明叶绿体结构的稳定性和光合磷酸化活性下降，光合作用受到不利影响。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3UV-B辐射增强导致的光合速率下降与PSⅡI反应中心受损密切相关",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在影响植物光合作用的诸多非气孔限制因素中，PSII的光化学活性最易受到UV-B辐射的干扰[8]。本研究证明，不同UV-B辐射强度下， $P _ { \\mathrm { { n } } }$ 变化与叶绿素荧光参数间存在极显著相关关系， $P _ { \\mathrm { { n } } }$ 的高低与PSII的光化学活性密切相关。PSII的状态与活性能够通过分析叶绿素荧光诱导动力学参数获得，反映植物对光能的吸收、传递、耗散与分配，揭示光合速率变化的内在机制[47]。 $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ 代表PSI原初光能转换效率[48]，一般稳定在0.83 左右[49]。UV-B 辐射增强条件下，棉花叶片 $F _ { \\mathrm { v } } / F _ { \\mathrm { m } }$ 降低，表明PSⅡI活性受到胁迫影响发生抑制，且UV-B辐射增强越多，抑制程度越高。同时， $\\varPhi _ { \\mathrm { P S I I } }$ 、ETR和 $q P$ 均随UV-B辐射强度的增加而减小，表明PSII的光能转换效率减小，类囊体膜上电子传递链的传递速率减慢，反应中心逐渐关闭，PSII光化学活性降低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "植物在逆境环境下会发生光抑制现象，产生的过剩光能会以热耗散的形式猝灭，以保护光合元件免受逆境胁迫的损伤。NPQ与PSII的热耗散呈线性正相关[50]。本研究中，棉花叶片 NPQ随UV-B 辐射的增强而增大，表明UV-B辐射增强条件下过剩的光能不断增加，用于光合作用的激发能比例降低。一般认为，高等植物NPQ可以分为两部分：高能态猝灭(hight energy state quenching, $\\mathbf { \\nabla } _ { q E ) }$ 和光抑制猝灭(photoinhibitory quenching, $q I ) ^ { [ 2 8 ] }$ 。前者与黄素循环的能量耗散有关，是植物响应胁迫的一种光保护机制[51]，可用暗弛豫动力学中的 $\\mathrm { \\Delta N P Q _ { F } }$ 表示；后者与PSII反应中心D1蛋白的受损情况有关，可用 $\\mathrm { \\Delta N P Q _ { s } }$ 表示。本研究结果显示，U1处理下 $\\mathrm { \\Delta N P Q _ { F } }$ 与 $\\mathrm { \\Delta N P Q _ { s } }$ 均升高, $\\mathrm { \\Delta N P Q _ { F } }$ 为 NPQ的主要组分；而在U2处理下$\\mathrm { \\Delta N P Q _ { S } }$ 较U1处理显著提高，成为NPQ升高的主要因素。这表明，小幅提高UV-B辐射，棉花主要依靠主动的高能态猝灭来消耗过剩光能，以保护棉花的光合器官免受损伤；而在大幅提高UV-B辐射条件下，棉花高能态猝灭能力下降，PSⅡI反应中心遭到破坏成为引起叶片光抑制的主要原因。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4UV-B增强的生物学效应受试验条件和棉花生育时期的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同培养条件下，UV-B增强对棉花的影响结果存在差异。侍福梅等[52在培养箱中对棉花幼苗进行UV-B辐射处理，仅在 $0 . 3 2 \\mathrm { k J } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ 的UV-B辐射强度下照射 $1 . 5 \\mathrm { h }$ ，棉花叶片萎蔫严重，叶片细胞死亡，而本研究U2处理下(在 $1 . 5 3 { \\sim } 2 . 2 4 \\ \\mathrm { k J } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { h } ^ { - 1 }$ UV-B强度下每天连续照射 $8 \\mathrm { ~ h ~ }$ )棉花叶片仍能进行光合作用，说明温室低PAR条件使植株对UV-B辐射更为敏感。本研究还发现，棉花的茎、叶生长，叶片净光合速率以及叶绿素荧光参数均表现出前期抑制程度大于后期，表明棉花不同生长阶段对UV-B辐射的响应存在差异，幼苗对UV-B辐射增强更为敏感。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述，在大田条件下，全生育期UV-B辐射增强会对棉花生长、干物质积累、光合作用、PSII反应中心光化学效率以及产量形成产生抑制作用，UV-B辐射强度越高，抑制程度越大；叶绿素含量则表现为随着UV-B辐射的增强先升高后降低。UV-B辐射增强引起的光合速率下降主要由非气孔限制因素造成，与PSII反应中心遭到破坏所导致的光化学活性下降有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Kerr JB,McElroy C T.Evidence for large upward trends of ultraviolet-B radiation linked to ozone depletion[J]. Science, 1993,262(5136):1032-1034   \n[2]倪郁，宋超，李加纳.UV-B 辐射增强对拟南芥表皮蜡质的 影响[J].生态学报,2015,35(5):1505-1512 Ni Y，Song C,Li JN.Effect of enhanced ultraviolet-B radiation on epicuticular wax in Arabidopsis thaliana[J].Acta Ecologica Sinica,2015,35(5):1505-1512   \n[3] Taalas P,Kaurola J,Kylling A，et al．The impact of greenhouse gases and halogenated species on future solar UV radiation doses[J]. Geophysical Research Letters,20oo,27(8): 1127-1130   \n[4]Kakani VG,Reddy KR,Zhao D,et al.Field crop responses toultraviolet-B radiation:A review[J]. Agricultural and Forest Meteorology,2003,120(1/4): 191-218   \n[5] Tripathi R，SarkarA,Rai S P,et al． Supplemental ultraviolet-B and ozone: Impact on antioxidants,proteome and genome of linseed (Linum usitatissimum，L. cv. Padmini)[J].Plant Biology,2011,13(1): 93-104   \n[6] Strid A.Alteration in expression of defence genes in Pisum sativum afterexposure tosupplementaryultraviolet-B radiation[J].Plant & Cell Physiology,1993,34(6):949-953   \n[7] 韩雯，韩榕．不同时间的 UV-B 辐射对拟南芥幼苗生长的 影响[J]．植物学报,2015,50(1):40-46 Han W,Han R.Effect of different times of UV-B radiation on seedling growth of Arabidopsis thaliana[J].Chinese Bulletin of Botany,2015,50(1): 40-46   \n[8]Bhandari R R,Sharma P K.Photosynthetic and biochemical characterization of pigments and UV-absorbing compounds in Phormidium tenue due to UV-B radiation[J]. Journal of Applied Phycology,2011,23(2):283-292 [9] Karsten U, Dummermuth A, Hoyer K,et al. Interactive effects of ultraviolet radiation and salinity on the ecophysiology of two Arctic red algae from shallow waters[J]. Polar Biology, 2003,26(4): 249-258   \n[10] Allen D J，Mckee I F,Farage P K,et al.Analysis of limitations to $\\mathrm { C O } _ { 2 }$ assimilation on exposure of leaves of two Brassica napuscultivarsto UV-B[J]. Plant Cell & Environment,1997,20(5): 633-640   \n[11] Ambasht $\\textsf { N K }$ ，Agrawal M.Physiological and biochemical responses of Sorghum vulgare plants to supplemental ultraviolet-B radiation[J]. Canadian Journal of Botany,1998, 76(7): 1290-1294   \n[12] 刘景玲，齐志鸿，郝文芳，等．UV-B 辐射和干旱对丹参生 长和叶片中酚酸类成分的影响[J]．生态学报，2015,35(14): 4642-4650 Liu JL,Qi Z H, Hao W F,et al. The effects of drought and UV-B radiation on the growth and the phenolic compounds of the Salvia miltiorrhiza Bunge leaf[J].Acta Ecologica Sinica, 2015,35(14): 4642-4650   \n[13] Mohammed A R,Tarpley L.Morphological and physiological responses of nine southern U.S.rice cultivars differing in theirtolerance toenhanced ultraviolet-Bradiation[J]. Environmental and Experimental Botany，2011，70(2/3): 174-184   \n[14]吴能表，洪鸿．细胞内 $\\mathrm { I P } 3 \\ – \\mathrm { C a } ^ { 2 + }$ 途径对UV-B辐射下玉米幼 苗光合特性的调控机制[J].作物学报,2013,39(2):373-379 Wu N B,Hong H. Regulation mechanism of intracellular （204号 $\\mathrm { I P } 3 \\mathrm { - } \\mathrm { C a } ^ { 2 + }$ on photosynthesis in maize seedlings under UV-B stress[J]. Acta Agronomica Sinica,2013,39(2): 373-379   \n[15] 常阿丽，毛晓芳，韩榕．He-Ne 激光和增强UV-B 辐射对小 麦幼叶叶绿素荧光和 Rubisco 活化酶的影响[J]．西北植物 学报,2013,33(9):1823-1829 Chang A L,Mao X F,Han R.Effects of He-Ne laser and UV-B radiation on chlorophyll fluorescence and Rubisco activaseofwheatleaves[J].ActaBotanica Boreali-Occidentalia Sinica,2013,33(9):1823-1829   \n[16] SchmidtE C,dos Santos RW,de Faveri C,et al.Response of the agarophyte Gelidium floridanum after in vitro exposure to ultraviolet radiation B: Changes in ultrastructure,pigments, and antioxidant systems[J]. Journal of Applied Phycology, 2012,24(6): 1341-1352   \n[17] Booij-James I S,Dube S K,Jansen M A K,et al. Ultraviolet-B radiation impacts light-mediated turnover of the photosystem II reaction center heterodimer in Arabidopsis mutants altered in phenolic metabolism[J]. Plant Physiology, 2000,124(3): 1275-1284   \n[18] Nogués S,Allen D J,Morison $\\mathrm { ~ J ~ I ~ L ~ }$ ，et al.Ultraviolet-B radiation effects on water relations,leaf development,and photosynthesis in droughted pea plants[J].Plant Physiology, 1998,117(1): 173-181   \n[19] Alexieva V, Sergiev I, Mapeli S,et al. The effect of drought and ultraviolet radiation on growth and stress markers in pea and wheat[J].Plant Cell & Environment，2001，24(12): 1337-1344   \n[20]董铭，李海涛，廖迎春，等．大田条件下模拟UV-B辐射滤 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "减对小怕生长及内源激系凸重时影响[J]．中国生态衣亚子 报,2006,14(3): 122-125 Dong M,Li H T,Liao YC,et al. Influences of reduced UV-B radiation on growth and endogenesis hormone contents of rice (Oryza sativa L.) under field conditions[J]. Chinese Journal of Eco-Agriculture,2006,14(3): 122-125   \n[21]王燕，李茂营，张明才，等．增强UV-B 辐射对棉花幼苗氮 代谢生理特性的影响[J]．棉花学报,2013,25(6):525-532 Wang Y,Li M Y, Zhang M C,et al.Effects of enhanced ultraviolet-B radiation on physiological characteristics of nitrogen metabolism in cotton seedlings (Gossypium hirsutum L.)[J]. Cotton Science,2013,25(6): 525-532   \n[22] Kakani V G，Reddy K R，Zhao D,et al. Effects of ultraviolet-B radiation on cotton (Gossypium hirsutum L.) morphology and anatomy[J]. Annals of Botany,2003,91(7): 817-826   \n[23] Reddy K R,Kakani V G, Zhao D,et al. Cotton responses to ultraviolet-Bradiation:Experimentation andalgorithm development[J].Agricultural and Forest Meteorology,2003, 120(1/4): 249-265   \n[24]宋玉芝，郑有飞，万长建，等．紫外线辐射增加对棉花生长 的影响[J]．南京气象学院学报,1999,22(2):269-273 Song Y Z, Zheng Y F,Wan C J,et al. Impact of intensified ultraviolet on cotton growth[J]. Journal of Nanjing Institute of Meteorol0gy,1999,22(2): 269-273   \n[25]王进，张静，樊新燕，等．干旱区UV-B 辐射增强对棉花生 理、品质和产量的影响[J]．棉花学报,2010,22(2):125-131 Wang J,Zhang J,Fan X Y,et al. The effect of enhanced UV-B radiation on the physiological indicator,quality and yield of cotton[J]. Cotton Science,2010,22(2): 125-131   \n[26]李强，马晓君，程秋博，等．氮肥对不同耐低氮性玉米品种 花后物质生产及叶片功能特性的影响[J]．中国生态农业学 报,2016,24(1): 17-26 Li Q,Ma X J, Cheng QB,et al. Effects of nitrogen fertilizer on post-silking dry matter production and leaves function characteristics of low-nitrogen tolerance maize[J]. Chinese Journal of Eco-Agriculture,2016,24(1): 17-26   \n[27]HaapalaJK,Mörsky SK,Saarnio S,et al.Long-term effects ofelevated UV-B radiation onphotosynthesisand ultrastructure of Eriophorum russeolum and Warnstorfia exannulata[J]. Science of the Total Environment,2010, 409(2): 370-377   \n[28] Scholes JD,Press M C, Zipperlen S W. Differences in light energy utilisation and dissipation between dipterocarp rain forest tree seedlings[J]. Oecologia,1996,109(1): 41-48   \n[29]Griffiths H,Maxwell K.In memory of C.S. Pittendrigh: Does exposure in forest canopies relate to photoprotective strategies in epiphytic bromeliads?[J].Functional Ecology, 1999, 13(1): 15-23   \n[30]Cambrollé J,Mateos-Naranjo E,Redondo-Gómez S,et al. Growth,reproductive and photosynthetic responses to copper in the yellow-horned poppy，Glaucium flavum Crantz[J]. Environmental and Experimental Botany,2011,71(1): 57-64   \n[31] Lichtenthaler H K.Chlorophylls and carotenoids: Pigments of photosynthetic biomembranes[J]. Methods in Enzymology, 1987,148: 350-382   \n[32] Murchie E H,Lawson T.Chlorophyll fluorescence analysis: A guide to good practice and understanding some new applications[J]. Journal of Experimental Botany,2013,64(13): 3983-3998   \n[33]Liu Q,Yao XQ, Zhao C Z,et al.Effects of enhanced UV-B radiation on growth and photosynthetic responses of four species of seedlings insubalpine forests of theeastern Tibet plateau[J]. Environmental and Experimental Botany,2011,74:151-156   \n[34]方兴，钟章成，闫明，等．增强UV-B辐射与不同水平氮素 对谷子[Setaria italica(L.）Beauv.]叶片保护物质及保护酶 的影响[J]．生态学报,2008,28(1):284-291 Fang X,Zhong Z C,Yan M,et al. Effects of enhanced UV-B radiation and different nitrogen conditions on protective matter and protective enzymes in millet (Setaria italica (L.) Beauv.) leaves[J].Acta Ecologica Sinica,2008,28(1): 284-291   \n[35] Chimphango S B M, Musil C F,Dakora F D. Response of purely symbiotic and $\\mathrm { N O } _ { 3 }$ -fed nodulated plants of Lupinus luteus and Vicia atropurpurea to ultraviolet-B radiation[J]. Journal of Experimental Botany,2003,54(388): 1771-1784   \n[36] Ros J, Tevini M. Interaction of UV-radiation and IAA during growth of seedlings and hypocotyl segments of sunflower[J]. Journal of Plant Physiology,1995,146(3): 295-302   \n[37]高天鹏，安黎哲，冯虎元．增强UV-B辐射和干旱对不同品 种春小麦生长、产量和生物量的影响[J]．中国农业科学, 2009,42(6): 1933-1940 Gao T P,An L Z,Feng H Y.Effects of enhanced UV-B irradiance and drought stress on the growth,production,and biomass of spring wheat[J]. Scientia Agricultura Sinica,2009, 42(6): 1933-1940   \n[38] 曲颖，王弋博，冯虎元，等.UV-B 辐射对豌豆伸长生长和 细胞壁多糖组分的影响[J]．辐射研究与辐射工艺学报, 2012,30(5): 303-308 Qu Y,Wang YB,Feng HY,et al.Effects of UV-B radiation on stems elongation and cell wall polysaccharides of pea seedlings[J].Journal of Radiation Research and Radiation Processing,2012,30(5): 303-308   \n[39]Jansen MA K,Van Den Noort R E.Ultraviolet-B radiation inducescomplex alterationsin stomatal behaviour[J]. Physiologia Plantarum,2000,110(2):189-194   \n[40] Zhao D,Reddy K R，Kakani V G,et al.Growth and physiological responses of cotton (Gossypium hirsutum L.) to elevated carbon dioxide and ultraviolet-B radiation under controlled environmental conditions[J].Plant Cell& Environment, 2003,26(5): 771-782   \n[41] Ziska L H,Teramura A H. $\\mathrm { C O } _ { 2 }$ Enhancement of growth and photosynthesis in rice (Oryza sativa): Modification by increased ultraviolet-B radiation[J].Plant Physiology,1992, 99(2): 473-481   \n[42]蔡鸿昌，崔海信，宋卫堂，等．黄瓜初花期叶片光合色素含量 与颜色特征的初步研究[J].农业工程学报,2006,22(9):34-38 CaiHC,Cui H X,Song W T,et al.Preliminary study on photosynthetic pigment content and color feature of cucumber initial bloom stage[J]. Transactions of the CSAE,2006,22(9):34-38 45] tion induces differential leaf damage,ultrastructural changes and accumulation of specific phenolic compounds in rice cultivars[J].Australian Journal of Plant Physiology,1997,24(3): 261-274   \n[44]周可金，肖文娜，官春云．不同油菜品种角果光合特性及 叶绿素荧光参数的差异[J]．中国油料作物学报,2009,31(3): 316-321 Zhou K J, Xiao W N, Guan C Y.Analysis on photosynthetic characteristics and chlorophyll fluorescence of siliques for different winter rapeseed varieties (Brassica napus L.)[J]. Chinese Journal of Oil Crop Sciences,2009,31(3): 316-321   \n[45] Subhan D, Murthy S D S. Senescence retarding effect of metal ions:Pigment and protein contents and photochemical activitiesofdetachedprimaryleavesofwheat[J]. Photosynthetica,2001,39(1): 53-58   \n[46] 刘敏，李荣贵，范海，等.UV-B 辐射对烟草光合色素和几 种酶的影响[J]．西北植物学报,2007,27(2):291-296 Liu M,Li R G,Fan H,et al. Effects of enhanced UV-B radiation on photosynthetic pigments and some enzymes in tobacco[J]. Acta Botanica Boreali-Occidentalia Sinica,2007, 27(2): 291-296   \n[47] 师生波，尚艳霞,朱鹏锦,等.不同天气类型下 UV-B 辐射对 高山植物美丽风毛菊叶片 PSⅡI光化学效率的影响分析[J]．植 物生态学报,2011,35(7):741-750 Shi S B, Shang Y X, Zhu P J,et al. Effects of solar UV-B radiation on the efficiency of PS I photochemistry in the alpine plant Saussurea superba under different weather conditions in the Qinghai-Tibet Plateau of China[J]. Chinese Journal of Plant Ecology,2011,35(7): 741-750   \n[48] 苏行，胡迪琴，林植芳，等．广州市大气污染对两种绿化植 物叶绿素荧光特性的影响[J]．植物生态学报，2002，26(5): 599-604 Su X,Hu D Q,Lin Z F,et al. Effect of air pollution on the chlorophyll fluorescence characters of two afforestation plants in Guangzhou[J].Acta Phytoecologica Sinica,2002, 26(5): 599-604   \n[49] Johnson G N, Young A J, Scholes JD,et al. The dissipation of excess excitation energy in British plant species[J].Plant, Cell & Environment,1993,16(6): 673-679   \n[50] Bilger W,Bjorkman O.Role of the xanthophyll cycle in photoprotection elucidated by measurements of light-induced absorbance changes, fluorescence and photosynthesisin leaves of Hedera canariensis[J].Photosynthesis Research, 1990, 25(3): 173-185   \n[51] Demmig-Adams B,Adams II W W. Photoprotection and other responses of plants to high light stress[J].Annual Review of Plant Physiology and Plant Molecular Biology, 1992,43: 599-626   \n[52]侍福梅，孟慧敏，王超．棉花响应UV-B辐射的信号初探[J]. 西北农业学报,2011,20(9):78-82 Shi F M, Meng H M, Wang C. Research on the signals of cotton in response to UV-B radiation[J]. Acta Agriculturae Boreali-Occidentalis Sinica,2011,20(9):78-82 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

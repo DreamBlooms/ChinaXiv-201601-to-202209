@@ -1,0 +1,377 @@
+[
+    {
+        "type": "text",
+        "text": "LHAASO-WCDA超声波测距系统的设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "何 秋12，孙志斌」，耿宝明1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.中国科学院国家空间科学中心 北京 1001902.中国科学院大学 北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：针对大型高海拔空气簇射观测站水基切伦科夫探测阵列测距系统，提出了一种基于超声波测距技术的测距系统，并完成软硬件设计。该系统的下位机以LVCN318和PLC为核心，主要完成数据的采集与处理，上位机部分基于OPC 技术，实现上位机与PLC 的通信以及数据的显示与存储。基于该系统分别进行了障碍物测距与液位测量实验，实验研究表明，液位测量与障碍物距离测量的误差皆小于 $1 1 \\mathrm { m m }$ ，在LVCN318 的误差范围内，为水基切伦科夫探测阵列测距系统的设计与研制奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超声波；LVCN318；测距；测量误差；OPC中图分类号：TN830.1 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design and Realization of LHAASO-WCDA's Ultrasonic Distance Measuring System ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HE Qiu1,2, SUN Zhi-bin1,GENG Bao-ming (1.National Space Science Center, Chinese Academy of Sciences,Beijing 1Oo19o, China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences,Beijing 1O0161, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The ultrasonic distance measuring system used to the Water Cherenkov Detector Array in Large High Altitude Air Shower Observatory project is designed in this paper. Slave computer of the ultrasonic distance system based on LVCN318 and PLC achieves the acquisition and processing of data. Upper computer based on OPC achieves the communication between upper computer and PLC,displays and stores data. The measurement of obstacle distance and level using this ranging system shows that measuring errors of objects are less than 11mm and within the measuring error of LVCN318,which is helpful for the design and development of Water Cherenkov Detector Array's ranging system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: ultrasonic; LVCN318; distance measurement; measuring error; OPC ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大型高海拔空气簇射观测站（Large High Altitude Air Shower Observatory，LHAASO）水基切伦科夫探测器阵列（Water CherenkovDetector Array，WCDA）被放置在 $\\scriptstyle 4 \\mathrm { m }$ 深的水池中，用于捕捉宇宙线次级粒子在水中产生的切伦科夫光错误!未找到引用源。为了保证WCDA 的正常运行，需要对水介质的衰减系数进行监测，保证水衰减系数在 $2 0 \\mathrm { m }$ 以上。水衰减系数的测量与水位存在着直接的关系错误!未找到引用源。。WCDA 测距系统主要实现对水池液位的测量，为探测器阵列可靠运行提供保障。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超声波测距是一种非接触式检测技术，与激光测距和红外线测距方法相比，适用范围较广，对环境不敏感，易于集成化或小型化，被广泛应用于障碍物检测、液位测量等领域[3]。近年来，国内学者对超声波测距技术做了一定研究。有学者将测距技术应用于测距避障：姜凌霄将测距技术应用到变电站安全距离监控[4；许景波等设计了一种基于超声波测距的塔吊防碰撞探测器[5]；仲园等设计了一种倒车防撞预警器[。也有学者将液位测量应用于交通运输、石油化工等领域：王志坤等设计了一种游艇内部使用的液位检测器，能精确检测游艇上油量、饮用水及其污水的储量[7；洪坚等采用智能超声波液位开关对油罐液位进行检测[8;董慧设计了一套高精度果蔬汁灌装储罐液位测量系统，有效提高灌装效率和自动化程度9]。文献3\\~6和文献6\\~9分别进行了障碍物测距和液位测量，与以往超声波测距研究一样，都是从单一角度进行测距实验，较少将二者结合进行测距研究，应用范围存在一定的局限性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文基于LHAASO-WCDA测距系统，采用超声波液位传感器与可编程逻辑控制器(Programmable Logic Controller，PLC)，设计了一种超声波测距系统，研究了障碍物测距与液位测量，结合二者实验结果，从测量误差的角度分析超声波液位传感器的测量精度，有助于WCDA测距系统的设计与研制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1测距的原理与特性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1测距的原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当声波从一种介质传播到另一种介质时，介质声阻抗的差异会使声波的传播方向在介质分界面上发生改变。如果两种介质的声阻抗相差悬殊，声波几乎全部被反射[10]。超声波测距常常采用渡越时间法进行检测，本文采用发射和接收一体的超声波传感器。超声传感器向介质中发出超声波，在发射时刻开始计时，超声波传播至被测物，在被测物表面发生反射，反射波沿原路径返回，传感器接收到反射波立即停止计时。根据超声波在介质中的传播速度与传播时间，即可计算出被测物与探头表面的距离，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/58d82c16f68e55e9f10dbe3f846c6be587d004f504629563f88dc1757c7ad8bb.jpg",
+        "img_caption": [
+            "图1超声波测距原理"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已知超声波在介质中的传播速度为 $\\mathbf { v }$ ，传感器记录的时间为t，则探头表面与障碍物间的距离d为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textrm { d } = \\frac { 1 } { 2 } \\ v t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超声波液位测量基于此原理，已知超声波在空气中的传播速度为v，超声波传感器从发射到接收液面反射的回波的时间为t，超声波传感器探头表面与容器底的距离为H，则液位h为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { ~ h ~ } = \\textit { H } - \\frac { 1 } { 2 } \\mathit { \\Delta } _ { V } t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，利用超声波液位传感器进行障碍物距离测量，测得液位 $\\mathbf { \\eta } ( \\mathbf { h } )$ 与距离 (d)的关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { ~ d ~ } = \\mathrm { ~ } H \\mathrm { ~ - ~ } h }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 测距的特性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超声波在传播过程中，容易受到多种外界因素的影响，使超声波的速度与方向发生变化。如下是影响超声波测距性能的基本物理特性：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）温度",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "环境温度的变化对超声波的传播速度有着重要的影响。声速误差与温度的关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL \\ = \\ 0 . 6 0 7 \\mathrm { t } \\ ( m \\ / \\ s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这就意味着温度变化 $1 \\ \\mathrm { { ^ \\circ C } }$ ，声速变化约 $\\mathrm { 0 . 6 0 7 m / s }$ ，当环境温度在 $0 { \\sim } 4 0 \\ \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 之间变化时，声速误差达 $6 . 8 \\% ^ { [ 1 1 ] }$ 。超声波测距系统可以采用温度补偿模块，解决波速随温度变化的问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）频率 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "超声波的频率会影响波束的宽度，波束宽度决定了超声波指向性的强弱。超声波频率越高，辐射面积越大，波束宽度越小，指向性越强；超声波频率越低，辐射面积越小，波束宽度越大，指向性越差[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时超声波的频率与测距的量程和精度有关。在声波传播过程中，会发生衰减，如扩散衰减、散射衰减和吸收衰减[13]。超声波的衰减与其频率有关，频率越高，衰减越强，因此想要测量较远的距离，声波的频率不能太高。另外，超声波的频率也不能太低，否则波长太长，误差较大。因此，在测距中根据量程和精度要求，选择合适的超声波频率尤其重要，同时可以采用硬件电路根据测量距离放大回波信号，保持回波幅值的恒定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2测距系统设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1总体设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "超声波测距传感器采用OMEGA公司生产的用于液位测量的多功能非接触式液位传感器LVCN318。LVCN318自动温度补偿，测量范围可调，波束宽度为 $7 . 6 \\mathrm { c m }$ ，精度为 $\\pm 1 1 \\mathrm { m m }$ 对两大测距特性已做出了较为完善的处理，非常适合腐蚀性、粘性或脏污液体的液位测量。该系统采用PLC作为信号采集处理以及与上位机通信的核心部件，在高海拔低温的环境中适应性强、稳定性高。上位机选择普通的计算机或者工控机，用于测距监控。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2硬件设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fad147c4e308f073d67812ff254bda448e10e64b92141f8ed4c23d8525178d9.jpg",
+        "img_caption": [
+            "图2超声波测距系统硬件组成"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为超声波测距系统硬件组成，LVCN318发射和接收反射的超声波信号，将其转化为 $4 { \\sim } 2 0 \\mathrm { m A }$ 的液位信号，并传输至PLC 模拟量输入模块（SM331)。SM331主要由A/D 转换部件、模拟切换开关、补偿电路、光电耦合等部件组成，将传感器送入的电流信号转换为PLC 内部处理用的数字信号，经CPU多次处理得到的距离（液位）信号通过以太网通信（CP343-1）模块，被传输至工控计算机，由工控机进行显示和存储。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该系统采用 OPC(OLE for Process Control)技术解决工控机与PLC 的通信问题。OPC 是基于Microsoft的OLE/COM和DCOM技术的一套技术规范和工业标准，它能为服务器和客户的链接提供统一的接口规范[14]。OPC 服务器以西门子提供的通信软件 SIMATIC NET 为基础，先在PC 机上建立OPC Sever，通过以太网，OPC Server 中的数据可以与PLC 中的数据建立映射关系。OPC Client不能直接访问OPC Server 内核，但可以通过COM接口实现，如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 软件设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "该系统的软件组成主要包括PLC控制软件和监控软件。PLC控制软件采集超声波液位传感器送入的 $4 { \\sim } 2 0 \\mathrm { m A }$ 液位信号，将电流信号转换成实际液位值或距离值，处理过程中的数据会被存储到过程映像区或位存储区。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "监控软件即OPC Client基于Visual Studio 2010 开发平台，主要完成数据的获取、显示与存储，控制流程如图5所示。OPC Server主要由服务器对象、组对象和项对象组成，服务器对象作为组对象的容器，包含服务器的所有信息；组对象不仅包含自身信息，还负责管理OPC项；项是OPC服务器内部保存OPC客户所需标签的一种对象，OPC项不是实际的物理数据源，而是对物理数据源的一个逻辑连接，即OPC服务器中每一个项都对应PLC 中的一个地址[15]。由于项对象没有提供外部接口，客户端程序无法直接对数据项进行操作，只能通过组对象来操作项对象。本系统采用订阅的方式对数据进行访问，服务器会周期性地扫描数据缓冲区的数据，一旦发现数据发生一定幅度的变化，就通知客户端并发送数据[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2980fa3e7bf0bb79cbeb6d16cb72062f717ac56358e0adaaff01aba6ac04e6b.jpg",
+        "img_caption": [
+            "图3监控软件流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3测距结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "障碍物测距实验将纸质挡板作为障碍物，通过电动平移台对挡板进行移动，平移台的单步分辨率可达 $0 . 0 0 1 2 5 \\mathrm { m m }$ ，由于发射脉冲余振干扰回波信号的检测，该传感器存在约 $2 0 0 \\mathrm { m m }$ 的盲区。避开盲区，从 $2 0 0 \\mathrm { m m }$ 处开始，每次移动 $1 0 \\mathrm { m m }$ ，在每一个位置连续测量20次，求其平均值，作为测量值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a312b26ec51bd0500c53eb02c22de42dec7fe2a2d80aae6f1c8008be4f9fc837.jpg",
+        "img_caption": [
+            "图4障碍物测距实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "室温下，障碍物测距实验结果如图4所示，距离在 $2 0 0 \\mathrm { m m } { \\sim } 7 0 0 \\mathrm { m m }$ 范围内，测量距离与实际距离呈线性关系，近似为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = x + b\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此系统误差为常量。对系统误差进行修正，即减去 $9 \\mathrm { m m }$ 后，测量误差为 $\\pm 1 0 \\mathrm { m m }$ 平均测量误差为 $. 0 . 7 \\mathrm { m m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "液位测量实验在满足传感器安装要求的情况下，逐次向容器中加水，在每一个液位手动测量液位作为实际值，LVCN318连续测量20次的平均值作为测量值。结果如图5所示，液位在 $3 0 \\mathrm { m m } { \\sim } 3 0 0 \\mathrm { m m }$ 范围内，实际液位与测量液位呈线性关系。修正系统误差后，液位测量误差小于 $1 0 \\mathrm { m m }$ ，平均误差为 $0 . 7 \\mathrm { m m }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/91cc931155f025be00e257932eda938b7b95f0af5dfe1fe8c0fa1e96cb0ca6a7.jpg",
+        "img_caption": [
+            "图5液位测量实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述结果表明，障碍物距离测量与液位测量误差范围相同，皆在传感器的测量精度范围内。外界环境是主要的误差来源，可能产生误差的原因如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1）障碍物测量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "周围物体反射的回波，会影响测量结果。超声波传感器发射的声波是发散的，发散的声波可能会先被平移台面（实验台面或墙体）反射，再被挡板反射，最后被传感器接收，这样就增大了传播距离，使测量结果偏大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）液位测量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进行液位测量时，部分超声波会进入水中，被容器底部反射，这样的回波会使测量结果偏小。实际液位的测量的手动测量也存在较大误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，LVCN318 输出的是 $4 { \\sim } 2 0 \\mathrm { m A }$ 的液位信号，对应PLC十进制的范围为0\\~27648,对应液位 $0 { \\sim } \\mathrm { h }$ 。在PLC内部进行量化计算的时候，四舍五入也会造成一定的误差。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用超声波液位传感器LVCN318，结合PLC搭建了超声波测距系统，实现了距离信号的采集处理以及显示存储。在 $2 0 0 \\mathrm { m m } { \\sim } 7 0 0 \\mathrm { m m }$ 范围内障碍物测距实验的测量误差为 $\\pm 1 0 \\mathrm { m m }$ 在 $3 0 \\mathrm { m m } { \\sim } 3 0 0 \\mathrm { m m }$ 范围内液位测量实验的测量误差小于 $1 1 \\mathrm { m m }$ ，皆在LVCN318误差允许范围内。测距结果表明当被测物体是固态或液态时，LVCN318都能适用。误差分析结果说明周围物体，即传感器的安装会影响测距的准确性。该系统的设计与实现为WCDA测距系统的研制奠定了基础，后期其研制可以此为依据，优化监控方案，完善设备选型，改良安装环境。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]李成，刘树彬，商林峰,等.LHAASO水切伦科夫探测器阵列时钟原型系统[J]．核电子学与探测技术，2013，33(4):410-416.  \n[2] 高上起．水基切伦科夫探测器光衰减特性动态测量系统的研制[D].中国科学院研究生院,2012:11-12.[3] 邹轶.近距离高精度超声波测距系统的设计[D].大连理工大学,2009:1-3.  \n[4] 姜凌霄．基于超声波原理的变电站安全距离监测装置[J].科技创新与生产力,2016(4):106-108.[5] 许景波，赵宇，沈永滨,等.基于超声波测距的塔吊防碰撞探测器设计[J].传感器与微系统，  \n2016(3):127-129  \n[6] 仲园，郁昊．基于超声波测距原理的倒车防撞预警器的设计[J].电子设计工程,2016(5):158-161.[7] 王志坤，杨录．船用超声波液位检测器设计[J]．山西电子技术,2016(1):33-34.  \n[8] 洪坚，薛山．智能超声波液位开关在油罐中的应用[J].石化技术,2011,18(2):46-48.  \n[9] 董慧.饮料灌装机储罐中液位测量控制系统设计[D]．中国农业科学院,2015.  \n[10] 雷建龙.基于单片机的超声波液位测量仪[J]．仪表技术与传感器,2004(6):8-9.  \n[11]胡延苏，高昂．超声波测距误差分析及校正研究[J]．计算机测量与控制,2015,23(8):2820-2823.  \n[12]张海鹰，高艳丽．超声波测距技术研究[J].仪表技术,2011(9):58-60.  \n[13] 陈骏.基于超声波测距与控制的运动实验平台研发[D]．南京邮电大学,2014:16-17.  \n[14] 张俊彪，王鸿辉，何长安．基于OPC Server 的PC 与 S7-300/400 的通信[J]．电力自动化设备,2007,27(4):83-86.  \n[15] 陈欣，王浩宇，郎朗.基于OPC 技术的上位机与西门子PLC 的通信[J]．自动化与仪器仪表,2008(1):70-73.  \n[16] 肖俊.OPC 客户端订阅式数据采集的实现和研究[J]．工业控制计算机,2011,34(8):68-69.  \n[17]王小阳，童峰，阮橙．反射面起伏程度对超声波测距精度影响研究[J].南京大学学报:自然科学版，2015(S1) :107-111.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一作者简介：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "何 秋（1991一)，女，四川省绵阳市人，硕士研究生。研究方向：智能检测与控制技术。",
+        "page_idx": 5
+    }
+]

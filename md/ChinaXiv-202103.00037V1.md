@@ -1,0 +1,168 @@
+# 机械沙障抗拉力学特性研究
+
+以临策铁路沿线高立式和平铺式沙障为例贾光普¹²，左合君²，闫敏}²，韩雪莹²，姚云峰1.2（1.内蒙古农业大学沙漠治理学院，内蒙古 呼和浩特010018;2.内蒙古风沙物理与防沙治沙工程重点实验室，内蒙古 呼和浩特010018)
+
+摘要：为揭示机械沙障抗拉力学特性,优选合适的阻沙固沙材料,利用TY8000系列伺服控制机对试验对象进行纵向拉伸试验。结果表明：当孔隙度为均一型(全疏型或全密型)时,不同材料沙障的试样宽度与抗拉力均呈幂函数正相关,与抗拉强度呈幂函数负相关,其抗拉力与伸长量变化曲线均为单峰曲线;当材料相同时,不同孔隙度沙障的试样宽度与抗拉力均呈幂函数正相关，与抗拉强度呈幂函数负相关，其抗拉力与伸长量变化曲线类型不同，即均一型沙障的抗拉力均为单峰曲线，而混合型(上疏下密型)沙障则为双峰曲线;当试样宽度大于 $4 \mathrm { c m }$ 时，上疏下密伸长量 $>$ 全密型伸长量 $>$ 全疏型伸长量，其大小分别为( $1 4 1 . 2 3 { \scriptstyle \pm 2 . 5 6 } )$ 1、 $( 1 0 3 . 4 6 \pm 3 . 2 0 ) \mathrm { m m }$ 和 $( 6 3 . 5 0 { \pm } 1 . 2 0 ) \mathrm { m m }$ ;在测定过程中,试样宽度大的实测值小于试样宽度小的实测值，由于实际过程中局部丝网受力不均所致，出现了“颈缩"现象。建议在野外布设时多使用上疏下密型沙障，并根据当地的实际风况，首先应对沙障材料进行室内抗拉力学特性的预实验，避免由经验化引起的铺设问题，以达到防风固沙效益的最大化。
+
+关键词：临策铁路；抗拉力；抗拉强度；孔隙度；颈缩现象
+
+我国是一个沙漠铁路较多的国家之一，目前铁路沙害仍非常严重[1-4]。近年来,沙障材料种类众多[5],大都具有工业化生产、方便施工、时效性强、见效快等优点，在科学研究和生产实践中得到了广泛应用。临策铁路东起内蒙古自治区临河区的火车站，西至额济纳旗境内的策克口岸，属于临哈铁路的东段，线路全长 $7 6 8 ~ \mathrm { k m }$ ,穿越了乌兰布和、亚玛雷克和巴丹吉林3大沙漠。 $8 0 \%$ 的铁路沿线处于极度干旱区和沙漠边缘地带,沙害影响区段约 $4 5 6 ~ \mathrm { k m }$ ，多种材料及类型的沙障被广泛使用，其中治理最为有效的措施为工程治沙[6-8],高立式沙障、平铺式格状沙障已成为不可缺少的防护模式[9-10]。临策铁路沿线属于中温带大陆性干旱气候，全年大风天气居多[],最大风速可达 $2 8 . 6 \ \mathrm { m \cdot s ^ { - 1 } }$ ,由于风荷载长时间作用在沙障的迎风面以及日晒和材料老化的复合作用下，导致高立式和平铺式格状沙障网伸长、撕裂甚至变形,发生大面积的倒伏现象[12-14],需要铁路工作者定期对沙障材料进行更换和维修，一定程度上造成了维护成本的增加。鉴于此,本文从材料自身的抗拉性能出发，根据研究区沙害的严重程度调整相应的布设参数，筛选出更加适宜在铁路沿线以及线性沙害地区铺设的沙障材料。
+
+目前，关于抗拉特性相关研究多集中在不同复合材料[15-17]、植物根系[18-21]等方面,但对于纤维[22-23]、尼龙[24-25]和涤纶[26-27]等材质的网状制品而言，不同厂家在对其产品进行力学抗拉特性检测过程中，由于测试手段的差异，测得的结果不具有可比性，另外针对沙障规格及材料的选取没有相应的规范。因此，本文利用TY8000系列伺服控制试验机，选取临策铁路常见的6种不同类型沙障及3种不同孔隙度沙障进行拉伸试验，通过分析材料自身的抗拉力、抗拉强度、断裂伸长率、应力与应变等指标，筛选风沙区阻沙、固沙材料及对沙障的使用寿命提供数据支撑与理论依据。
+
+# 1材料与方法
+
+# 1.1研究区概况与试验材料
+
+临策铁路于2006年11月开工建设，是中国《中长期铁路网规划(2008年调整)》中的重要组成部分，其年平均风速达5级以上，地下水资源匮乏，植被难以生长，夏季沙漠表面温度高达 $7 0 \ \%$ ,冬季最低温度甚至超过零下 $4 0 \ \mathrm { ^ { \circ } C }$ 。试验材料选取临策铁路沿线内的6种不同材料和3种不同孔隙度沙障，其不同材料沙障的孔隙度为均一型 $4 0 \% { \sim } 6 0 \%$ ，不同孔隙度沙障(混合型与均一型)的沙障材料为高密度聚乙烯（HighDensity Polyethylene,HDPE）,利用宽条拉伸法测定其材料的抗拉力学特性，此方法适用于大多数土工合成材料，包括土工织物、高密度聚乙烯及复合土工织物等。将沙障裁剪成宽度分别为 $1 ~ { \mathrm { c m } } \setminus 2 ~ { \mathrm { c m } } \setminus 3 ~ { \mathrm { c m } } \setminus 4 ~ { \mathrm { c m } }$ 和 $5 \ \mathrm { c m }$ ,每种规格制备20组以上做重复性试验，将同一宽度的沙障从中间部分量取 $2 5 ~ \mathrm { c m }$ 作为纵向拉伸试验部分，在试验沙障两端标上标签，预留 ${ \geqslant } 4 \ \mathrm { c m }$ 以备伸人夹持器，试验在室温中进行(图1，表1)。
+
+![](images/b7442a09f33b510c4d57c2d601f80bd61dff03e00d209a8a9a4bc1d88605fc1a.jpg)  
+图1临策铁路沿线的沙障类型  
+Fig.1 Types of sand barriers along Lince Railway
+
+# 1.2实验仪器与方法
+
+TY8000系列伺服控制机（表2），内置过载紧急停机装置上下行程限定装置，具有自动断点停机测试后自动回归原点功能。荷重元全程七档 $\times 1$ $\times 2 , \times 5 , \times 1 0 , \times 2 0 , \times 5 0 , \times 1 0 0$ 采用高精度24bits A/D，取样频率 $2 0 0 \ \mathrm { H z }$ 自动换挡。在试验过程中，调节标距将沙障两端伸入夹持器两端固定，使拉伸材料和水平面保持垂直，拉伸完成后进行相应的检查以确保数据的可靠性，断裂处位于沙障中间部分视为有效数据。本实验为模拟瞬时大风效果，将加载速度设置为 $5 0 \mathrm { m m \cdot m i n ^ { - 1 } }$ ,匀速拉伸沙障至完全断裂。整个过程中拉力和沙障位移通过软件自动采集，当试验材料被拉断时试验停止，得到沙障极限抗拉力（沙障最大抗拉力）、拉伸强度、应力-应变曲线及断裂伸长率等数据，并以文本的形式自动保存。
+
+# 1.3数据分析
+
+试验数据运用Excel进行统计，以及Origin2018进行绘图，所运用抗拉力学特性[28-29]公式如下：
+
+$$
+P = { \frac { F } { A } }
+$$
+
+$$
+e = \frac { \left( L _ { a } - L _ { 0 } \right) } { L _ { 0 } }
+$$
+
+$$
+\varepsilon = \frac { \Delta l } { l }
+$$
+
+式中： $P$ 为抗拉强度或应力， $\mathrm { { M P a } }$ ： $F$ 为抗拉力,N;$A$ 为材料横截面积, $\mathrm { m m } ^ { 2 }$ ： $\boldsymbol { \mathbf { \rho } } _ { e }$ 为断裂伸长率， $\% ; L _ { 0 }$ 为试样原长, $\operatorname* { m m } ; L _ { a }$ 为试样拉断时长度， $\mathbf { m } \mathbf { m }$ ; $\boldsymbol { \varepsilon }$ 为应变， $\% ; \Delta l$ 为伸长量, $\mathbf { m } \mathbf { m }$ ： $l$ 为试验段长度, $\mathbf { m } \mathbf { m }$ ○
+
+# 2结果与分析
+
+# 2.1不同材料沙障抗拉特性比较
+
+2.1.1抗拉力与伸长量根据6种不同沙障类型在5种试样宽度下的抗拉力与伸长量变化(图2)可知，6种沙障材料整体呈现"升高-阶梯式下降"趋势，各类型沙障均表现出单峰特性，具备材料的弹塑性特征。从图2虚线前后曲线的变化形式分析，在虚线前主要以光滑曲线上升为主，而虚线后则表现为阶梯式下降形式，其主要原因是沙障受到拉伸作用后发生单丝断裂，断裂单丝将所承受的拉力分配给材料的其余单丝，剩余单丝所承受的拉力瞬间增加产生急剧变化的拉伸，而拉伸量的变化反作用于整体拉力，使得拉伸量又急剧下降，从而形成了这种“锯齿状"波形[30],所形成的"锯齿状"波形越多，说明沙障发生单丝断裂的数量越多，其使用寿命越短，防风阻沙能力相对越弱。在测试范围内，随着沙障试样宽度增加，抗拉力逐渐增大，伸长量逐渐增长；图2中6种不同材料的沙障伸长量变化分别为( $3 4 . 9 \pm$ 0.5）、 $( 4 7 . 2 \pm 0 . 4 )$ 、 $\left( 4 7 . 7 \pm 0 . 6 \right)$ 、 $\left( 5 3 . 6 \pm 0 . 6 \right)$ 、（ $3 6 . 2 \pm$ $0 . 5 ) \mathrm { m m }$ 和 $( 3 5 . 4 { \pm } 0 . 3 ) \mathrm { m m }$ 时，各沙障试样宽度基本达到沙障抗拉力最值。由图3不同类型沙障的断裂伸长率变化可知，在试样宽度范围内，6种类型的沙障伸长率变化范围为[ $( 1 1 2 . 5 { \pm } 1 . 3 ) \%$ ， $( 2 9 6 . 6 { \pm } 2 . 5 ) \% ]$ 当沙障的类型相同时，沙障的断裂伸长率随着试样宽度的增加呈不均匀的增长变化，这是由于沙障的单丝所承受的拉力不均匀所导致，体现了沙障自身材料的特性。图2材料沙障中，高密度聚乙烯材质的沙障(图2c)其断裂伸长率最大，自身具有较强的伸展性。
+
+Tab.1 Statistics of sand barrier test parameters of different types and permeability   
+
+<html><body><table><tr><td>标号</td><td>沙障参数</td><td>材料</td><td>√1 孔隙度/%</td><td>有效数/个</td><td>沙障铺设图</td></tr><tr><td>a</td><td>50cm白色小孔格 状沙障</td><td>聚酯玻璃纤维</td><td>均一型 (40~60)</td><td>15</td><td></td></tr><tr><td>b</td><td>50 cm黑色细孔格 状沙障</td><td>中碱或无碱玻璃纤维机 织物</td><td>均一型 (40~60)</td><td>16</td><td></td></tr><tr><td>C</td><td>50 cm蓝色细丝格 状沙障</td><td>高密度聚乙烯材质</td><td>均一型 (40~60)</td><td>12</td><td></td></tr><tr><td>d</td><td>50 cm绿色片状格 状沙障</td><td>PVC 网布PVC</td><td>均一型 (40~60)</td><td>11</td><td></td></tr><tr><td>e</td><td>120cm绿色细丝 沙障</td><td>未加筋的聚乙烯</td><td>均一型 (40~60)</td><td>10</td><td></td></tr><tr><td>f</td><td>150cm绿色细丝 沙障</td><td>未加筋的聚乙烯</td><td>均一型 (40~60)</td><td>15</td><td></td></tr><tr><td>g</td><td>新型绿色丝状沙障</td><td>高密度聚乙烯</td><td>均一型 （全密型45%）</td><td>13</td><td></td></tr><tr><td>h</td><td>新型绿色丝状沙障</td><td>高密度聚乙烯</td><td>混合型 (上疏55%下密45%）</td><td>14</td><td></td></tr><tr><td>i</td><td>新型绿色丝状沙障</td><td>高密度聚乙烯</td><td>均一型 （全疏型55%）</td><td>16</td><td></td></tr></table></body></html>
+
+注：字母a\~f，表示6种不同材质的沙障；字母 $\mathbf { g } { \sim } \mathrm { i } ,$ 表示相同材质不同孔隙度的沙障。下同。
+
+表1不同类型和孔隙度沙障试验参数统计  
+表2TY8000系列伺服控制机试验机参数  
+Tab.2 Test machine parameters of TY8ooo series servo control machine   
+
+<html><body><table><tr><td>项目</td><td>规格</td><td>项目</td><td>规格</td></tr><tr><td>荷重元</td><td>50 KN</td><td>大变形准确度</td><td>±1 mm</td></tr><tr><td>力量解析度</td><td>1/100000</td><td>速度范围</td><td>0~500 mm·min-1</td></tr><tr><td>力量准确度</td><td>≤0.5%</td><td>最大行程</td><td>750 mm</td></tr><tr><td>力量放大倍数</td><td>7段自动切换</td><td>电源</td><td>220 V,50 Hz</td></tr><tr><td>位移解析度</td><td>0.001 mm</td><td>外形尺寸(约)</td><td>650 mmX720 mm×2000 mm</td></tr><tr><td>位移准确度</td><td>0.5%</td><td>功率(约)</td><td>1.6 KW</td></tr></table></body></html>
+
+![](images/be31d0a559db7eb0c8f55a4ce2f64417890441a15d24e9a98b433b17eceb501c.jpg)  
+Fig.2Variation of tensile resistance and elongation of different types of sand barriers
+
+![](images/ef9c6a2ccd1de89bf090950597c78ba31108e74dc6f197c0d74b53f3d91d8235.jpg)  
+图2不同材料沙障抗拉力与伸长量变化  
+图3不同沙障材料的断裂伸长率变化Fig.3Change of elongation at break of differentsand barrier types
+
+2.1.2抗拉力与抗拉强度将有效数据进行抗拉力及抗拉强度分析(图4)。不同材料沙障随着试样宽度的增加，抗拉力呈幂函数正相关的趋势，抗拉力范围由（ $( 2 5 . 1 2 { \scriptstyle \pm 2 . 0 5 } ) \mathrm { N }$ 增至 $( 2 5 0 . 0 6 { \pm } 1 . 1 2 ) \mathrm { N }$ ，且相关系数 $R ^ { 2 }$ 均大于0.82，具有良好的相关性，其不同材料沙障的平均抗拉力大小各不相同,整体表现为e平均最大,f平均、a平均、C平均和 $\mathrm { d } _ { \vec { \mp } \vec { \pm } \vec { \jmath } }$ 次之， $\textrm { b } _ { \mp \pm 5 }$ 最小,其值为（ $1 8 3 . 5 3 \pm 3 . 5 2 ,$ 、 $1 3 4 . 9 8 \pm 5 . 2 1 .$ 、 $\langle 1 1 1 . 5 8 \pm 4 . 5 6 \rangle$ 、（ $7 6 . 8 5 { \scriptstyle \pm 2 . 1 2 } \rangle$ 、 $( 7 1 . 3 5 { \pm } 1 . 4 2 ) \mathrm { N }$ 和 $( 5 9 . 6 3 { \pm } 1 . 1 0 ) \mathrm { N }$ ，其中 $\mathrm { a { \sim } f }$ 材料沙障最大抗拉力变化率分别为( $2 8 4 . 4 2 \pm$ $4 . 5 6 ) \%$ （ $1 4 8 . 1 8 { \scriptstyle \pm 2 . 2 3 } ) \%$ 、（ $1 8 5 . 9 0 { \scriptstyle \pm 1 . 5 6 } ) \%$ 0、 $2 7 2 . 9 6 \pm$ $5 . 6 5 \%$ 、（ $1 4 6 . 8 1 { \scriptstyle \pm 2 . 3 6 } ) \%$ 和 $( 2 6 5 . 4 9 { \scriptstyle \pm 5 . 2 3 } ) \%$ ,说明不同材料的沙障能抵抗最大的抗拉力约为本身的1.46\~2.84倍，筛选合适的抗拉材料能更好提高沙障的防风阻沙效益。由图4可知，抗拉强度是材料的固有属性，不同材料的抗拉强度代表了对外力作用下的抵抗能力，抗拉强度越大其抵抗破裂的能力就越强。不同材料沙障随着试样宽度的增加，抗拉强度呈幂函数负相关的趋势，抗拉强度范围由( $( 1 1 . 0 2 \pm$ $0 . 2 3 ) \mathrm { M p a }$ 降至 $( 1 . 8 6 { \pm } 0 . 5 6 ) \mathrm { M p a }$ ,且相关系数 $R ^ { 2 }$ 均大于0.75，具有良好的相关性，其不同材料沙障的平均抗拉强度大小各不相同,整体表现为e平均最大,f平均、a平均 $\cdot ^ { \mathrm { c } }$ 平均、 $\textrm { d } _ { \mp \pm 5 }$ 次之， $\textrm { b } _ { \mp \pm 5 }$ 最小,其值为 $( 6 . 8 2 { \scriptstyle \pm 0 . 7 2 } )$ 、$\left( 6 . 0 7 \pm 0 . 5 6 \right)$ 、 $( 3 . 3 1 \pm 0 . 4 1 \$ 、 $( 2 . 6 4 \pm 0 . 3 6 )$ 、 $( 2 . 5 5 { \scriptstyle \pm 0 . 4 2 } )$
+
+![](images/59c1f938e2f7b8a519866ab9056b56ee9d6d6761249eb41fcc52df594dd21c4b.jpg)  
+Fig.4Tensile resistance and tensile strength of different sand barrier types
+
+Mpa和 $( 2 . 1 8 { \pm } 0 . 2 3 ) \mathrm { M p a }$ 。以 $1 \mathrm { c m }$ 的a\~f沙障试样宽度的抗拉强度为参照，其最大抗拉强度变化率为$1 . 6 8 \ 、 1 . 1 8 、 1 . 3 0 、 2 . 1 5 、 1 . 0 7$ 和1.09倍。
+
+2.1.3应力与应变关系图5所示为不同材料沙障应力应变曲线，从不同试样宽度的曲线变化特征可以看出，其曲线的整体变化均为单峰曲线，且曲线是非光滑的，说明不同沙障材料受到外界拉伸时，出现了单丝断裂的情况，断裂的单丝将所受拉力分担给其余复丝，瞬时表现出拉力减小的现象，这种现象不断重复发生，而表现出“锯齿状"波形，同时也说明沙障对外界拉力具有缓冲能力。由图5可知，应力-应变曲线的变化可以分为两个阶段，即弹性形变阶段和塑性形变过程。弹性形变过程在受到外力拉伸时，基本上应力与应变成正比例增长，近似直线型变化。当应力到达峰时会瞬间以“锯齿状"下降或垂直下降的形式变化，直至沙障断裂，此过程为塑性形变过程，其过程是不可逆的。图6中的应力-应变曲线均由 $5 0 0 \sim 8 0 0$ 个测绘点绘制而成，对同一沙障材料而言，应力与试样宽度呈负相关变化，而应变与试样宽度的变化关系不明显，在试样宽度范围内 $\mathbf { \tau } _ { \mathbf { 1 } } \sim \mathbf { f }$ 材料沙障的最大平均应力大小为 $3 . 3 2 , 2 . 2 3 , 2 . 5 6 , 2 . 4 8 , 6 . 4 4 , \mathrm { M p a }$ 和 $5 . 8 1 ~ \mathrm { M p a }$ ,其排列顺序为 $\mathrm { e } _ { \mp \ddagger \nmid > \mathrm { f } _ { \# \pm 5 } > \mathrm { a } _ { \# \pm 5 } > \mathrm { c } _ { \mp \ddagger \nmid > \mathrm { d } _ { \# \neq 5 } > \mathrm { b } _ { \# } } }$ 均。
+
+![](images/f5d0b82126eba4bd4fc1aa57f61825b371cf2da380f01abf0d401fc64e1f2d1d.jpg)  
+图4不同沙障材料的抗拉力和抗拉强度  
+图5不同材料沙障的应力应变曲线  
+Fig.5Stress-strain curves of different types of sand barriers
+
+# 2.2不同孔隙度沙障抗拉特性比较
+
+2.2.1抗拉力与伸长量为更明确沙障孔隙度对沙障抗拉特性的影响，选取高密度聚乙烯沙障统称为HDPE阻沙网沙障，根据已有研究将沙障孔隙度分为三类：全疏型 $5 5 \%$ 、上疏下密型（上 $5 5 \%$ 、下 $45 \%$ ））和全密型 $45 \%$ 做纵向拉伸试验，本文将全疏型和全密型统称为均一型，将不同孔隙度的组合称为混合型。由图6不同孔隙度的抗拉力与伸长量变化可知，全疏型和全密型沙障以单峰曲线变化，而上疏下密则以双峰曲线变化，不同孔隙度沙障随着试样宽度的增大，沙障抗拉力逐渐增大。当外部的抗拉力一定时，试样宽度大于 $4 \mathrm { c m }$ 以上时，上疏下密的伸长量 $\mathrm { > }$ 全密型的伸长量 $\mathrm { > }$ 全疏型的伸长量，其值分别为（ $1 4 1 . 2 3 \pm 2 . 5 6 \$ 、 $\cdot 1 0 3 . 4 6 \pm 3 . 2 0 ) \mathrm { m m }$ 和( $6 3 . 5 0 \pm$ $1 . 2 0 ) \mathrm { m m }$ 。
+
+2.2.2抗拉力与抗拉强度由图7不同孔隙度抗拉力的拟合曲线可知，随着试样宽度的增大，不同孔隙度沙障抗拉力呈现幂函数正相关的趋势，抗拉力由 $( 6 4 . 8 7 { \pm } 1 0 . 2 3 ) \mathrm { N }$ 增至 $( 7 9 1 . 1 2 { \pm } 4 0 . 2 3 ) \mathrm { N }$ ，相关系数$R ^ { 2 } { > } 0 . 9 1$ ，相关性良好，且沙障试样宽度大于 $4 \mathrm { c m }$ 时，上疏下密型沙障的抗拉曲线斜率增大，表现出上疏下密型抗拉力 $>$ 全密型抗拉力 $>$ 全疏型抗拉力。随着试样宽度的增大，不同孔隙度沙障抗拉强度呈现幂函数负相关的趋势，其抗拉强度由 $( 2 2 . 4 5 { \pm } 1 . 1 0 )$ （204号Mpa减至 $( 6 . 8 1 { \pm } 0 . 4 5 ) \mathrm { M p a }$ ,相关系数 $R ^ { 2 } { > } 0 . 8 8$ ,相关性良好。
+
+![](images/a8b79a51e6a6166c653e99806ea2f6832814407c3e568a4f83cb3f47dacc4803.jpg)  
+图6不同孔隙度下的抗拉力与伸长量变化 Fig.6 Tensile resistance and elongation under different degrees of permeability
+
+# 3讨论
+
+目前，国内外关于沙障材料的抗拉特性研究资料相对很少，经查阅大量相关文献发现，相对于沙障材料本身而言，其抗拉特性与大多数的土工合成材料相似，兼顾多种材料优点的性质，如水利工程建筑[31]、砾石护坡[32]、防汛抢险[33]、水土保持工程[34]、航道整治工程[35的应用，由于不同材料与孔隙度差异，所制成的阻沙网丝横竖交叉而与植物型沙障根系-土体复合相类似，因此考虑土工合成材料与植物根系两方面来对比沙障的抗拉力学特性。如对短纤维土工布拉伸试验影响因素研究时发现，理想状态下，样品受到拉伸方向拉力时[],试样宽度大小与材料强度无直接关系，但本实验在实际拉伸过程中，出现了试样宽度大的实测值小于试样宽度小的实测值，原因主要是由于沙网在实际过程中的不均匀性以及局部丝网受力不均所致，出现了“颈缩”现象，其结论与本文研究结果一致;高翔等[3在研究公路土工合成材料测试中存在的问题与建议时指出，土工格栅或土工布拉伸测试时建议单筋拉伸并考虑结构的整体性进行修正，整体性系数可通过大量的宽幅拉伸与单根拉伸试验来确定，所以在对材料测试抗拉特性时应增大试样数量来修正其各项参数;李波3在研究公路土工合成材料时指出，在使用宽条拉伸法时应注意对试样的夹持部位、边缘不齐等现象，以及徐庆飞38在研究土工合成材料测试中的一些问题及建议时指出，有些材料可能出现"假伸长"现象，由于在测试时候试样因卷曲而产生的，在实际测试过程中应注意以上问题。
+
+![](images/fb8fc4eb4479cf1e508d53a7824268f9e43a1170f21d4ef128afef83e73b6080.jpg)  
+图7不同孔隙度沙障的抗拉力和抗拉强度  
+Fig.7Tensile resistance and tensile strength with different permeability
+
+对于植物根系抗拉力和抗拉强度的研究，主要包括不同植物种根系抗拉力和抗拉强度的大小，以及根系直径与抗拉强度的关系和根系应力应变全曲线特征等方面的研究。阿部和时等39对日本柳杉等多种植物的根系进行了拉伸试验的结果表明，植物根系的抗拉力与根径呈正相关；意大利学者Bischetti等[4o通过对意大利北部地区的8种林木根系的抗拉强度进行了研究，结果表明8种林木根系的抗拉强度与根径均呈幂函数负相关关系；美国学者Gray等[41研究认为，根系的一个重要的机械特性是具有很强的抗拉能力；杨维西等[42通过对黄土高原9种水土保持树种根的抗拉力进行了研究，结果表明9种树根的抗拉力与根径均呈幂函数关系；吕春娟等通过对不同乔木根系的抗拉力学特性的研究，结果表明5种乔木根系不同直径的应力应变曲线特征参数不同，但均为单峰曲线，具有弹塑性材料特征。
+
+本文的研究结果基本上与土工合成材料和植物根系抗拉特性规律相似，沙障抗拉力随着沙障试样宽度的增大呈幂函数增大的趋势，而抗力强度随着试样宽度的增大呈幂函数减小的趋势。当沙障材料与外界环境一致时，选取的3种孔隙度的抗拉特性进行比较，不同孔隙度伸长量相差很大，上疏下密型沙障的伸长量约为全疏型沙障伸长量的1.2倍，其原因为沙障的沙网存在疏密差异，在受到外界拉力时出现了单丝断裂的情况，断裂的单丝将所受拉力分担给其余复丝，而增加了沙障的使用寿命，混合型(上疏下密型)沙障的各项指标均优于均一型(全密型和全疏型)沙障，考虑到在实际过程中风沙流主要在近地表 $0 { \sim } 3 0 ~ \mathrm { c m }$ 左右运动，下部孔隙度密集能更好的将沙粒沉积，达到这种“风虽过而沙不移"的作用，此结果与袁鑫鑫等[43]在风洞模拟3种不同结构沙障防风阻沙效应的研究结果相一致，建议使用上疏下密型沙障。由于植物根系在发挥固土抗蚀时是利用与周围细根相互缠绕发挥根系-土体复合作用，而沙障可以通过发挥其抗拉力学特性改变贴地气流场特征，以达到阻滞流沙，固定沙丘等作用，因此在筛选沙障时应结合沙障抗拉力学特性进行择优选取，更有助于对沙障使用寿命进行定量化评价。
+
+# 4结论
+
+（1）沙障试样宽度与抗拉力呈幂函数正相关，与抗拉强度呈幂函数负相关，其对不同材料沙障的抗拉力变化范围由 $( 2 5 . 1 2 \pm 2 . 0 5 ) \mathrm { N }$ 增至( $2 5 0 . 0 6 \pm$ 1.12)N,抗拉强度由 $( 1 1 . 0 2 { \pm } 0 . 2 3 ) \mathrm { M p a }$ 降至 $( 1 . 8 6 \pm$ 0.56)Mpa，而不同孔隙度沙障的抗拉力范围由1 $6 4 . 8 7 { \pm } 1 0 . 2 3 ) \mathrm { N }$ 增至 $\langle 7 9 1 . 1 2 { \pm } 4 0 . 2 3 \rangle \mathrm { N }$ ，抗拉强度由$( 2 2 . 4 5 { \pm } 1 . 1 0 ) \mathrm { M p a }$ 减至 $( 6 . 8 1 { \pm } 0 . 4 5 ) \mathrm { M p a }$ 。沙障伸长率变化范围由 $( 1 1 2 . 5 { \pm } 1 . 3 ) \%$ 增至 $( 2 9 6 . 6 { \pm } 2 . 5 ) \%$ 。均一型沙障(全疏型或全密型)的抗拉力与伸长量变化曲线均为单峰曲线，而混合型(上疏下密型)沙障曲线为双峰曲线。
+
+（2）从应力-应变角度分析，应力实测值随着试样宽度的增大而减小，由于沙障在实际编制过程中的网口不一致以及局部丝网受力不均所致，出现了“颈缩”现象。建议在野外实际铺设和选取材料过程中，不仅要考虑到布设类型和组合方式等信息，还必须测试材料的抗拉特性，对沙障的筛选起到补充作用，发挥出沙障的最大防护效益，
+
+# 参考文献(References)：
+
+[1]张克存,屈建军,鱼燕萍,等.中国铁路风沙防治的研究进展[J]. 地球科学进展,2019,34(6):573-583.[Zhang Kecun,Qu Jianjun,Yu Yanping,et al.Progress of research on wind-blown sand prevention and control of railways in China[J].Journal of Desert Research,2019,34(6): 573-583.]   
+[2] 张德保,许志勇.中东地区某铁路风沙防治措施研究[J].铁道标 准设计,2014,58(增刊1):64-66.[Zhang Debao,Xu Zhiyong. Study on wind sand control measures for a railway in the Middle East[J]. Railway Standard Design,2014,58 (Suppl.1) :64-66.]   
+[3] KhierW,Breuer M,Durst F.Flow structure around trains under side wind conditions:A numerical study[J]. Computers & Fluids, 2000,29(2): 179-195.   
+[4] 冯连昌,卢继清,邸耀全.中国沙区铁路沙害防治综述[J].中国 沙漠,1994,14(3):47-53.[Feng Lianchang,Lu Jiqing,Di Yaoquan. Summary on prevention and control of railway sand damage in sandy area of China[J].Journal of Desert Research,1994,14(3): 47-53.]   
+[5] 丁新辉,刘孝盈,刘广全.我国沙障固沙技术研究进展及展望 [J].中国水土保持,2019,40(1):35-37,69.[Ding Xinhui,Liu Xiaoying,Liu Guangquan. Research progress and prospects of sand barrier technology in China[J].Soil and Water Conservation in China,2019,40(1): 35-37,69.]   
+[6]郝才元.临策铁路沙害治理研究[J].铁路节能环保与安全卫生, 2014,4(1): 6-11.[Hao Caiyuan. The governance research of sand damage in the Lince Railwa[J]. Railway Energy Saving & Environmental Protection& Occupational Safetyand Health,2014, 4(): 6-11. ]   
+[7]周福成.关于临策铁路沙害成因及工程治理的探讨[J].内蒙古 科技与经济,2012(19): 64-65.[Zhou Fucheng.Discussion on causes of sand damage and engineering treatment of Lince Railway [J].Inner Mongolia Science Technology & Economy,2012(19): 64- 65.]   
+[8]郝才元.临策铁路沙害现状及治理途径[J].铁路节能环保与安 全卫生,2011,1(2): 93-96.[Hao Caiyuan. Present situation of sand damage on Lince Railway and its control measures[J]. Railway Energy Saving & Environmental Protection & Occupational Safety and Health,2011,1(2): 93-96.]   
+[9]潘瑞萍,王亮,李君,等.塑料网格沙障固沙技术在临策铁路治 沙造林中的推广应用[J].内蒙古林业,2014(6):10-11.[Pan Ruiping, Wang Liang,Li Jun,et al. Popularization and application of sand fixation technology with plastic grid sand barrier in Lince Railway[J]. Iner Mongolia Forestry,2014(6):10-11.]   
+[10] 罗新文.临策铁路沙害的成因及防治探讨[J].铁道建筑,2012, 40(11): 95-97.[Luo Xinwen. Discusson on formation causes and prevention and treatment measures of sand-disasters for Linhe-Ceke railway[J]. Railway Engineering,2012,40(11): 95-97.]   
+[11] 李成,周学军.临河至策克铁路防风治沙措施设计方案初步研 究[J].中国沙漠,2006,26(6): 920-925.[Li Cheng, Zhou Xuejun. Initial study on designing plan for windbreak and sand control measures along Linhe-Ceke Railway[J]. Journal of Desert Research, 2006,26(6): 920-925.]   
+[12] 马学喜,李生宇,王海峰,等.流动沙漠地形起伏区尼龙网方格 沙障破损程度的空间分异[J].自然灾害学报,2015,24(2):81- 88.[Ma Xuexi,Li Shengyu,Wang Haifeng,etal. Spatial differentiation of breakage degree of nylon net checkerboard barier in sites with rugged terrain in Taklimakan Desert[J]. Journal of Natural Disasters, 2015,24(2): 81-88.]   
+[13] 吴金存,林玉芳.共和县不同沙障治沙效果分析[J].甘肃农业, 2013(15):2O-21.[Wu Jincun,Lin Yufang.Efect analysis of different sand barriers in Gonghe County[J]. Gansu Agriculture,2013 (15): 20-21.]   
+[14]马学喜,李生宇,王海峰,等.固沙网沙障积沙凹曲面特征及其 固沙效益分析[J].干旱区研究,2016,33(4):898-904.[Ma Xuexi,Li Shengyu,Wang Haifeng,et al. Concave surface features in sand-fixing net barriers and evaluation of sand-fixing benefits [J]. Arid Zone Research,2016,33(4): 898-904.]   
+[15] 徐庆飞.土工合成材料测试中的一些问题及建议[J].公路与汽 运,2003,10(5): 42-43.[Xu Qingfei. Some problems and suggestions inthe testof geosynthetics[J].Highways &AutomotiveAplications,2003,10(5): 42-43.]   
+[16] 熊荣军,李恒,孙爱国,等.短纤针刺非织造土工布拉伸试验影 响因素研究[J].水运工程,2013,42(9):6-9,16.[Xiong Rongjun, Li Heng,Sun Aiguo,et al. Influential factorsof tensile testfor staple fibers and nonwoven geotextile[J].Port & Waterway Engineering,2013,42(9): 6-9,16.]   
+[17] 张小娟.基于圆环试件的脆性材料抗拉强度测量方法研究[C]/ 北京力学会第二十三届学术年会会议论文集.北京:北京力学 会,2017.[Zhang Xiaojuan.Research on Measurement Method of Tensile Strength of Brittle Materials based on Ring Specimen[C]// Proceedings of the 23rd annual meeting of Beijing mechanics Society.Beijing: Beijing Society of Theoretical and Applied Mechanics,2017.]   
+[18] 吕春娟,陈丽华,周说,等.不同乔木根系的抗拉力学特性[J].农 业工程学报,2011,27(1): 329-335.[Lyu Chunjuan, Chen Lihua, Zhou Shuo,et al. Root mechanical characteristics of diffrent tree species[J]. Transactions of the Chinese Society of Agricultural Engineering,2011,27(1): 329-335.]   
+[19] 王萍花,陈丽华,冀晓东,等.华北地区4种常见乔木根系抗拉 强度的力学综合模型[J].北京林业大学学报,2012,34(1):39- 45.[Wang Pinghua,Chen Lihua,Ji Xiaodong,etal.Establishing an integrated mechanical model of root tensile strength-taking four common arbor species in North China for example[J]. Journal of Beijing Forestry University,2012,34(1): 39-45.]   
+[20] 李雪松,刘静,王博,等.黑沙蒿直根的材料力学特性研究[J].水 土保持学报,2017,31(6): 353-358.[Li Xuesong,Liu Jing,Wang Bo,et al. Study on the material mechanical properties of straight roots of artemisia ordosica[J]. Journal of Soil and Water Conservation,2017,31(6): 353-358.]   
+[21] 李宁,陈丽华,杨苑君.油松、华北落叶松根系抗拉特性的影响 因素[J].北京林业大学学报,2015,37(12):77-84.[Li Ning, Chen Lihua,Yang Yuanjun.Factors influencing rot tensile properties of Pinus tabuliformis and Larix principis-rupprechti[J]. Journal of Beijing Forestry University,2015,37(12): 77-84.]   
+[22] 郝彤,汤晨,王永海,等.不同配合比参数对高延性纤维增强水 泥基复合材料的性能影响[J].混凝土,2020,42(7):1-4.[Hao Tong,Tang Chen, Wang Yonghai, et al.Effects of different mixing ratio parameters on the properties of high ductility fiber reinforced cementitious composites[J]. Concrete,2020,42(7): 1-4.]   
+[23] 李鹏世,王激扬,王欣,等.配网率对纤维编织网增强混凝土抗 拉性能的影响[J].混凝土,2020,42(6):183-186.[Li Pengshi, Wang Jiyang,Wang Xin,et al.Effect of textile distribution ratio on tensile behavior of textile reinforced concrete[J]. Concrete, 2020,42(6): 183-186.]   
+[24] 陈邑,黄珍媛,刘颖,等.碳纤维含量对增强尼龙复合材料性能 的影响[J].玻璃钢/复合材料,2019,46(9):64-68,78.[Chen Yi, Huang Zhenyuan,Liu Ying,et al.Effect of carbon fiber content on property of reinforced nylon composite[J]. Composites Science and Engineering,2019,46(9): 64-68,78.]   
+[25] 张达适,钱秀洋,王洪鑫,等.芳纶纤维增强尼龙6复合材料的 制备与性能[J].机械工程材料,2017,41(9):68-72.[Zhang Dashi, Qian Xiuyang,Wang Hongxin,etal.Preparationand property of aramid fiber reinforced nylon-6 composite[J]. Materials for Mechanical Engineering,2017,41(9): 68-72.]
+
+[26] 普丹丹,王瑞,董余兵,等.表面改性处理对涤纶织物/聚氯乙烯 复合材料界面性能的影响[J].纺织学报,2017,38(8):102-107. [Pu Dandan,Wang Rui, Dong Yubing,et al. Influence of surface modification on interfacial properties of polyester fabric/polyvinyl chloride composites[J].Journal of Textile Research,2O17,38(8): 102-107.]
+
+[27] 王勇升,金宝宏,王佳龙,等.聚丙烯纤维和涤纶纤维混凝土力 学性能的比较研究[J].混凝土与水泥制品,2013,40(2):50-52. [Wang Yongsheng, Jin Baohong, Wang Jialong, et al. Comparative study on mechanical property between polypropylene fiber and polyester fiber concrete[J]. China Concrete and Cement Products, 2013,40(2): 50-52.]   
+[28]申向东.材料力学[M].北京:中国水利水电出版社,2012.[Shen Xiangdong. Mechanics of Materials[M]. Beijing: China Water Conservancy and Hydropower Press, 2012.]   
+[29] 雷菁花,杨方社,马艺坤.砥砂岩区沙棘单根拉伸试验抗拉特性 研究[J].土地开发工程研究,2019,4(10):59-65.[Lei Jinghua, Yang Fangshe, Ma Yikun.Study on strength characteristics of single root tensile test of Hippophae rhamnoides Linn.in soft rock area [J]. Land development and engineering Research,2019,4(10): 59- 65.]   
+[30] 刘娜,敖利民,黄金梅,等.长丝纱断丝性测试与表征[J].纺织学 报,2018,39(6): 29-35.[Liu Na,Ao Limin,Huang Jinmei,et al. Testing and characterization of filament breakage of multifilament yarn[J]. Journal of Textile Research,2018,39(6): 29-35.]   
+[31] 周诗广.加强标准体系建设,以高质量产品助力土工合成材料 在铁路工程中的应用[J].纺织导报,2019,38(增刊):65-67. [Zhou Shiguang. Strengthen the construction of standard system and assist theapplicationof geosynthetics in Railway Engineering with high quality products[J]. Journal of Textile Research,2019, 38(Suppl. ): 65-67.]   
+[32] 何智.土工合成材料在水运工程中的应用[J].中国水运,2020, 20(5):144-145.[He Zhi. Application of geosynthetics in waterborne engineering[J]. China Water Transport,2020,20(5):144- 145.]   
+[33] 潘建刚.无纺土工合成材料编织袋在防汛抢险中的应用研究 [J].江苏水利,2011, 24(9):31-33.[Pan Jiangang.Research on the application of non-woven geosynthetic woven bags in flood prevention and rescue[J]. Jiangsu Water Resources,2011,24(9): 31- 33.]   
+[34] 马利军,王红雨,柴鹏翔,等.盐渍侵蚀条件下土工袋材的劣化 损伤规律[J].干旱区资源与环境,2020,34(10):111-118.[Ma Lijun,Wang Hongyu, Chai Pengxiang,et al. Degradation damage regularity of geosynthetic material under saline soil erosion[J]. Journal of Arid Land Resources and Environment, 2O2o,34(10): 111-118.]   
+[35] 孙兰凤,吕仁国,赵敏.水利工程中土工合成材料的应用与质量 控制[J].黑龙江水利科技,2004(4):80.[Sun Lanfeng,Lyu renguo, Zhao Min.Application and quality control of geosynthetics in hydraulic engineering[J]. Heilongjiang Hydraulic Science and
+
+Technology,2004(4): 80.]
+
+[36] 高翔,刘松玉.公路土工合成材料测试中存在的问题与建议[J]. 公路交通科技,2004,21(3):26-29.[Gao Xiang,Liu Songyu. Problems and suggestions in the testing of highway geosynthetics [J].Journal of Highway and Transportation Research and Develop ment,2004,21(3): 26-29.]   
+[37]李波.公路土工合成材料宽条拉伸试验问题的讨论[J].城市建 筑,2017(9):297-297.[Li Bo.Discussion on wide strip tensile test of highway geosynthetics[J].Urbanism and Architecture,2017(9): 297-297.]   
+[38] 徐庆飞.土工合成材料测试中的一些问题及建议[J].公路与汽 运,2003(5): 42-43.[Xu Qingfei. Some problems and suggestions in the test of geosynthetics[J].Highways & Automotive Applications,2003(5): 42-43.]   
+[39]阿部和时，岩元贤.用树木根系的抗拉强度测定根系固定坡面 的作用[J].水土保持科技情报,1992(4):53-57,35.[ABuheshi, Yan Yuanxian.Determination of root fixation on slope by tensile strength of tree roots[J].Technology of Soil and Water Conservation,1992(4): 53-57,35.]   
+[40]Bischetti G B,Chiaradia E A, Simonato T,et al.Root strength and root area ratio of forest species in Lombardy(Northern Italy)[J]. Plant and Soil, 2005,278:11-22.   
+[41]Gray D H,Barker D.Root- Soil Mechanics and Interactions[M]. Washington: American Geophysical Union (AGU),2013.   
+[42] 杨维西,黄治江.黄土高原九个水土保持树种根的抗拉力[J].中 国水土保持,1988,9(9): 47-49.[Yang Weixi,Huang Zhijiang. Tensile strength of roots of nine soil and water conservation tree species on the Loess Plateau[J].Soil and Water Conservation in China,1988,9(9): 47-49.]   
+[43]袁鑫鑫,王海峰,雷加强,等.不同结构尼龙网防风效应的风洞 模拟[J].干旱区研究,2017,34(1):185-190.[Yuan Xinxin,Wang Haifeng,Lei Jiaqiang,et al.Wind tunnel simulation of wind protection effects of nylon nets with different structures[J].Arid Zone Research,2017,34(1): 185-190.]
+
+# Tensile resistance of mechanical sand barriers: A case study of high vertical and flat sand barrier along Lince Railway
+
+JIA Guangpu12，ZUO Hejun¹2，YAN Min1²，HAN Xueying¹2，Yao Yunfeng¹2 (1.Collegeof Desert Control Scienceand Engineering,Inner Mongolia Agricultural University,Hohhot 010018, Iner Mongolia,China; 2.Inner Mongolia Key Laboratoryof Aeolian Physics and Desertification Control Engineering,Inner Mongolia Agricultural University,Hohhot O1OO18,Inner Mongolia, China)
+
+Abstract: Suitable sand-resisting and sand-fixing materials were selected in order to reveal the tensile properties of mechanical sand barriers.We used the TY800o series servo controler to conduct longitudinal tensile evaluation on the test objects. Our results indicated that when the porosity is uniform (full-sparse or full-dense), the width of sand barriers made upof different materials is positively correlated with the power function,whereas thetensile strength is negatively correlated with the power function.When the material is the same,the tensile strength and elongation change form unimodal curves.The width of sand barriers with diffrent porosity and its tensile strength are positively correlated with the power function and negatively corelated with the tensile strength.The tensile forces of uniform sand barriers are unimodal, while that of mixed type (sparse upper and lower dense) sand barriers are bimodal. When the width of the sample is greater than $4 \mathrm { c m }$ ,the upper sparse and lower dense elongation is greater than the elongation of fulldense type, followed by that of the fullsparse type, with sizes of $1 4 1 . 2 3 { \pm } 2 . 5 6 \ \mathrm { m m }$ (mean $\pm$ standard deviation), $1 0 3 . 4 6 { \pm } 3 . 2 0 \ \mathrm { m m }$ and $6 3 . 5 0 { \pm } 1 . 2 0 ~ \mathrm { m m }$ ,respectively. The values recorded for large sample width are smaler than those recorded for small sample width. The “necking” phenomenon occurs due to the local wire mesh's uneven force during the process We recommend using the upper sparse and lower dense sand barriers when laying in the field. Depending on the existing local wind conditions,the tensile properties of sand barrier materials should be pre-tested indoors to avoid problems due to insufficient wind protection and maximize the benefits of sand fixation.
+
+Keywords: Lince Railway; tensile resistance; tensile strength; porosity； necking phenomenon

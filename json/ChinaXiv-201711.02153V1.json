@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.161187 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梁慧雅，翟德勤，孔晓乐，袁瑞强，王仕琴．府河-白洋淀硝酸盐来源判定及迁移转化规律[J].中国生态农业学报,2017,25(8):1236-1244  \nLiang HY,Zhai DQ,Kong XL,Yuan RQ,Wang SQ.Sources,migration and transformation of nitrate inFuheRiverandBaiyangdian Lake, China[J]. Chinese Journal of Eco-Agriculture,2017,25(8): 1236-1244",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "府河-白洋淀硝酸盐来源判定及迁移转化规律",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "梁慧雅1,2，翟德勤，孔晓乐1,2，袁瑞强4，王仕琴1\\*\\*(1.中国科学院遗传与发育生物学研究所农业资源研究中心/中国科学院农业水资源重点实验室/河北省节水农业重点实验室石家庄050022;2.中国科学院大学北京10049;3.中电建水环境治理技术有限公司深圳518100;4.山西大学",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太原 030006) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：近年来白洋淀流域内经济高速发展、人口增加，生活污水排放量增大，严重威胁府河和白洋淀水质，其中硝酸盐浓度过高引发的水体富营养化是河流系统面临的重要难题。以白洋淀和唯一一条常年有水的入淀河流一府河为研究对象，结合水化学、水中氢氧同位素 $( \\delta ^ { 2 } \\mathrm { H } , \\ \\delta ^ { 1 8 } \\mathrm { O } )$ 和硝酸盐氮同位素 $( \\delta ^ { 1 5 } \\mathrm { N } )$ 的方法，分析 $2 0 0 8 { - } 2 0 1 6$ 年水化学特征和水化学类型变化，明确府河-白洋淀淀区硝酸盐污染来源以及沿程迁移转化规律，为其水质富营养化管理提供参考。研究结果表明：府河2008年硝酸盐 $\\delta ^ { 1 5 } \\mathrm { N }$ 值 $51 \\text{‰}$ ，2014年硝酸盐$\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围是 $2 . 0 7 \\% 0 { \\sim } 1 8 . 4 9 \\% 0$ ，府河硝酸盐主要来自于保定市和沿府河村落的生活污水；但2009 年硝酸盐 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围是 $- 3 . 7 \\% 0 \\mathrm { { \\sim } } 4 \\% 0$ ，府河硝酸盐主要来源于工业废水。白洋淀淀区2008年和 2014 年硝酸盐 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围分别是 $5 . 8 \\% 0 \\mathrm { { \\sim } 1 1 . 7 \\% o }$ 和 $3 . 3 1 \\% 0 { \\sim } 1 2 . 5 3 \\%$ ,2009年 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围是 $- 3 . 8 \\% \\mathrm { { 0 0 } } { \\sim } 0 . 7 \\%$ 说明府河的生活污水和工业废水是白洋淀淀区硝酸盐的主要来源。 $2 0 0 8 { - } 2 0 1 4$ 年 $| \\mathrm { C l } ^ { - }$ 和 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 浓度比例逐渐减小，工业废水和生活污水的排入受到控制；2009年因工业废水的排放 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度超过 $5 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ ，2014年和2016年 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度未超标；控制硝酸盐浓度变化的主要因素是降水稀释、外源输入及反硝化脱氮作用，当溶解氧(DO)小于 $2 ~ \\mathrm { m g \\cdot L } ^ { - 1 }$ 时，硝酸盐的减少主要受反硝化作用影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：府河-白洋淀流域；水质；水体富营养化；硝酸盐；氢氧同位素；氮同位素；水化学特征中图分类号：X523 文献标识码：A 文章编号:1671-3990(2017)08-1236-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sources, migration and transformation of nitrate in Fuhe River and Baiyangdian Lake, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIANG Huiya1,2, ZHAI Deqin³, KONG Xiaole1,2, YUAN Ruiqiang4, WANG Shiqin1\\*\\*   \n(1.CenterforAgriculturalResourcesResearch,IstituteofGeneticsndDevelopmentalBiology,ChneseAcademyofSciences/   \nKeyLaboratoryofAgricultural WaterResources,ChineseAcademyofSciences/HebeiKeyLaboratoryofWater-savingAgriculture, Shijiazhuang 050022,China;2.UniversityofChineseAcademyofSciences,Beijing 10o049,China;3.Power China Water Environment Governance,Shenzhen 5181oo,China; 4.Shanxi University,Taiyuan O3ooo6,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The increasingurban sewage discharges haveseverelythreatenedthequalityofsurface water.Baiyangdianis thelargest freshwaterlakeintheNorthhnalainhichlayscriticaloleinfloodcontrol,icro-climateregulationmprovementofeo logical environmentanddevelopmentofaquacultureand tourismintheregion.However,withrapideconomicdevelopmentand population growth inrecentyears,its’polutantloadhasincreasedrapidly.Alsoeutrophicationofwaterbodycausedbyhighnitrate concentrationhascreatedasignificantproblem.Excessivenitrate inwaternotonlycauses eutrophication,butalsothreateshuman health.Therefore,the investigationofthe sourcesofnitratepolutionand transformationinFuheRiver-BaiyangdianLakeareais importantinordertoprovideareferenceforthemanagementofeutrophicationand waterquality.Fortheperiod 2O08-2016,the variationinhydrochemical typeaswellassourcesofntrate inFuheRiverandBaiyangdianLakesurface watersystems were nvestigated by the combined use of hydrochemistry with isotopes $( \\delta ^ { 2 } \\mathrm { H } , \\delta ^ { 1 8 } \\mathrm { O }$ and $\\delta ^ { 1 5 } \\mathrm { N }$ ). The environmental behavior of $\\mathrm { N O } _ { 3 } ^ { - }$ along the river was evaluated using $\\mathrm { C l } ^ { - }$ as the standard reference to estimate the dilution and mix of different waters in the study area.1) If variation in measured $\\mathrm { N O } _ { 3 } ^ { - }$ was similar to calculated $\\mathrm { N O } _ { 3 } ^ { - }$ , then it implied that dilution and mix effects were the controlling factors for the change in $\\mathrm { N O } _ { 3 } ^ { - }$ in the river.2) If the measured $\\mathrm { N O } _ { 3 } ^ { - }$ was smaller than calculated ${ \\bf N O } _ { 3 } ^ { - }$ ,it implied that apart from dilution and mixing,other processes such as biochemical reactions influenced the change in $\\mathrm { N O } _ { 3 } ^ { - }$ .3) If also measured $\\mathrm { N O } _ { 3 } ^ { - }$ was larger than calculated ${ \\bf N O } _ { 3 } ^ { - }$ ， it implied that there was excess $\\mathrm { N O } _ { 3 } ^ { - }$ entering the river compared with $\\mathrm { C l } ^ { - }$ . The results showed that in September 2008, $\\mathrm { N O } _ { 3 ^ { - } } \\delta ^ { 1 5 } \\mathrm { N }$ in Fuhe River was higher than $10 \\text{‰}$ , with a range of $2 . 0 7 \\% 0 0 - 1 8 . 4 9 \\% 0$ in July 2014. Domestic waste water from nearby villages was the dominant source of nitrate in Fuhe River. However,in June 2Oo9,the range of $\\mathrm { N O } _ { 3 ^ { - } } \\delta ^ { 1 5 } \\mathrm { N }$ was $- 3 . 7 \\text{‰}$ and dischargeofindustrial wastewaterhadasignificantimpactonnitrateconcentrationintheriverinJune29.InBaiyangdianLake,the ranges of $\\mathrm { N O } _ { 3 }$ ${ \\boldsymbol { \\cdot } } { \\boldsymbol { \\delta } } ^ { 1 5 } { \\bf { N } }$ for September 2008 and July 2014 were $5 . 8 \\% 0 \\mathrm { - } 1 1 . 7 \\% 0$ and $3 . 3 1 \\% 0 0 - 1 2 . 5 3 \\% 0$ ,respectively. However, the range of $\\mathrm { N O } _ { 3 ^ { - } } \\delta ^ { 1 5 } \\mathrm { N }$ for June 2009 was $- 3 . 8 \\% 0 0 . 7 \\%$ . Domestic and industrial waste water in Fuhe River were the main source of nitrate pollution in Baiyangdian Lake.For 2008-2014, the proportion of $\\mathrm { C l } ^ { - }$ and $\\mathrm { S O } _ { 4 } ^ { 2 - }$ decreased gradually and the discharge of industrial wastewater and domestic sewage was controlled.In 2009, $\\mathrm { N O } _ { 3 } ^ { - }$ concentration in industrial waste water exceeded ${ 5 0 \\ \\mathrm { m g ^ { . } L } ^ { - 1 } }$ . Then in 2014 and 2016, $\\mathrm { N O } _ { 3 } ^ { - }$ concentration fell below the standard.The spatial variation in nitrate concentration along the river was mainly affectedbydilution,extraiputofsewageanddenitrficationIJune2Ol1,thevariationinitrateconcentrationalongtheiverwas mainlyaffectedbyextrainputofsewageInJune2o9,July2014andJune2016,denitrfcationimpactedthedecrease inconcentration of nitrate in Fuhe River when dissolved oxygen (DO) was less than $2 \\mathrm { m g \\cdot L } ^ { - 1 }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Fuhe River-Baiyangdian Lake Basin; Water quality; Water eutrophication; Nitrate; Hydrogenand oxygen isotope Nitrogen isotope;Hydrochemical characteristics ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "白洋淀是我国华北平原最大的淡水湖泊，对于拦蓄洪水、调节气候、改善生态环境以及发展淀区水产养殖业和旅游业等具有重要作用[1]。但是，由于近年来流域内经济高速发展和人口的增加，使得污染物负荷迅速增大[2]，其中硝酸盐浓度过高引发的水体富营养化是河流系统面临的重要难题。府河是白洋淀8条入淀河流中唯一一条常年有水的河流，主要接受保定市的生活污水和污水处理厂的工业废水，非常规水源的补给加速白洋淀的水体富营养化进程。在造成富营养化的各种形态的氮中，自然水体中 ${ \\tt N O } _ { 3 } – { \\tt N }$ 的来源与迁移转化是氮元素生物环境化学特征研究的重点与难点，水体中过高的硝酸盐不仅导致水体富营养化而且还威胁人类健康。在较浅的河床及较高的表面积与容积比的河道中，输入河流中的氮素可发生活泼的生物地球化学转化反应，如硝化、反硝化和生物吸收等过程，并受外源输入等过程的控制[3-4]，确定水体中硝酸盐的来源以及研究氮的循环过程就显得尤为重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近些年来，众多学者对府河-白洋淀由非点源污染引起的地表水污染进行了水质评估[5-7]。而对于硝酸盐的污染，自20世纪70年代起人们开始利用硝酸盐氮同位素的值分析硝酸盐的来源，主要根据不同成因的硝酸盐的氮同位素组成存在差异以及含氮物质间分馏作用机理的不同。Segal-Rozenhaimer等8研究约旦河污水排放是 $\\mathrm { N H } _ { 4 } – \\mathrm { N }$ 的主要来源，运用氮同位素来分析河流沿程硝化过程。王吉苹等[3研究发现五川溪流沿程 ${ \\tt N O } _ { 3 } – { \\tt N }$ 与 $\\mathrm { N H } _ { 4 ^ { - } N }$ 浓度升高而 $\\mathrm { N O } _ { 3 ^ { - } } \\delta ^ { 1 5 } \\mathrm { N }$ 值减小的主要原因是地表径流氮素输入和溪流系统沉积物和水体界面的硝化过程共同作用。2010年王珺等[9]采用 $\\delta ^ { 1 5 } \\mathrm { N }$ 示踪法对白洋淀府河中含氮污染物来源进行了研究，结果表明污染物主要来源于保定市生产和生活废水，农业面源污染对河流含氮污染物的贡献不大。但是，自前对于府河-白洋淀沿程硝酸盐氮的时空迁移转化规律及机理研究较少。因此，利用氮稳定性同位素结合水化学对府河地表水年际硝酸盐来源、含量变化及迁移转化规律进行研究对保护白洋淀水质具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以华北平原白洋淀的主要入淀河流府河和白洋淀为研究对象：1)通过观测府河和白洋淀流域主要离子的年际变化，分析2008—2016年府河地表水和白洋淀的水化学特征和水化学类型变化；2)利用氢氧同位素的方法，分析水中氢氧同位素的季节以及沿程变化特征；3)结合 $\\delta ^ { 1 5 } \\mathrm { N }$ 和 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度判断不同年份和季节 $\\mathrm { N O } _ { 3 } ^ { - }$ 的污染来源以及污染程度；4)分析与水文参数以及其他离子之间的关系，研究不同年份硝酸盐在沿河流动过程中的迁移转化规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区位于白洋淀流域，地处华北平原中部（204号 $( 3 8 ^ { \\circ } 4 3 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 0 2 ^ { \\prime } \\mathrm { N }$ ， $1 1 5 ^ { \\circ } 4 5 ^ { \\prime } { \\sim } 1 1 6 ^ { \\circ } 0 7 ^ { \\prime } \\mathrm { E } )$ ，总面积362.8$\\mathrm { k m } ^ { 2 [ 1 0 ] }$ 。属温带大陆性气候，年均降水量 $5 1 0 \\mathrm { m m }$ ，年均蒸发量 $1 \\ 3 6 9 \\ \\mathrm { m m }$ ，年际降水不均匀， $7 5 \\%$ 的降雨集中在6-9月, $54 \\%$ 的蒸发集中在5一8月，年平均气温$1 3 . 8 \\ \\mathrm { ^ { \\circ } C ^ { [ 1 1 - 1 2 ] } }$ 。府河属大清河南支，是白洋淀8条入淀河流中唯一一条常年有水的河流，属于典型非常规水源补给的城市河流，每天大约有 $1 \\times 1 0 ^ { 5 } \\mathrm { m } ^ { 3 }$ 的生活污水和废水流入河中，占河水平均流量的 $4 5 . 2 4 \\% ^ { [ 7 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样品的采集和分析方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究沿府河和白洋淀进行实地调查和水样采集，在府河共设置8个采样点，其中府河上游的样点包括银定庄(F1)、仙人桥村(F2)和南孙村(F3)；中游的样点包括小望亭村(F4)、南刘口村(F5)和膳马庙村(F6)；下游的样点包括安州(F7)和安新县府河大桥(F8)。白洋淀设置9个采样点。采样时段为2008年9月、2009年6月、2011年6月、2014年7月和2016年6月。沿府河从上游到下游进行取样，采样点位置如图1所示。采样点的设定主要考虑了府河排污口、沿程地形分布、流程距离等具有代表性的因素。监测站点涵盖了府河沿程的典型区域，可以较为全面地反映府河白洋淀沿线区域的水环境及生态环境状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fe836e3b248dbd70fea541e609d7416c1a30c50cc373bdf4e8aaf1d5f501078.jpg",
+        "img_caption": [
+            "图1府河-白洋淀沿程采样点分布图"
+        ],
+        "img_footnote": [
+            "Fig.1Distribution of sampling sites along Fuhe River and Baiyangdian "
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "样品包括府河水和白洋淀水，共66个。现场测量温度 $( T )$ 、电导率(EC)、pH、溶解氧(DO)和氧化还原电位(ORP)。其中 EC、 $T$ 由便携式手持测定仪HoribaES-71测定,pH、DO和ORP由便携式手持测定仪HoribaD-75测定。水样装入 $1 0 0 ~ \\mathrm { m L }$ 塑料瓶中，并封口在 $4 \\mathrm { { ^ \\circ C } }$ 下保存，尽可能避免与空气接触，塑料瓶在装样前用水样润洗两遍。样品带回中国科学院节水农业重点实验室后1周内进行测定。 ${ \\mathrm { H C O } } _ { 3 } ^ { - }$ 采用稀硫酸-甲基橙滴定法滴定。阴阳离子 $( \\mathrm { F ^ { - } , \\ C l ^ { - } . }$ $\\mathrm { N O } _ { 3 } ^ { - }$ 、 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 、 $\\mathrm { \\Delta N a } ^ { + }$ 、 $\\mathbf { K } ^ { + }$ 、 $ { \\mathrm { M g } } ^ { 2 + }$ 、 $\\mathrm { C a } ^ { 2 + }$ )采用离子色谱(ICS-2100，Dionex，美国)测定，离子平衡分析可以接受的误差在 $5 \\%$ 以内[13]。总溶解固体(TDS)含量利用各离子含量总和减去1/2的 ${ \\mathrm { H C O } } _ { 3 } ^ { - }$ 含量计算[14]。$\\delta ^ { 2 } \\mathrm { H }$ 、 $\\delta ^ { 1 8 } \\mathrm { O }$ 采用液态水稳定性同位素分析仪(L2120-iIsotopic $\\mathrm { H } _ { 2 } \\mathrm { O }$ ；Picarro美国)进行测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\delta ^ { 1 5 } \\mathrm { N }$ 采用树脂吸附洗脱的方法进行富集：1)制作阴离子吸附柱：针管中加 $\\mathrm { 1 . 5 ~ g }$ 氯离子吸附树脂$1 0 ~ \\mathrm { m L }$ 的 $3 \\ \\mathrm { m o l { \\cdot } L ^ { - 1 } }$ 盐酸淋洗交换柱，再加 $1 5 ~ \\mathrm { m L }$ 超纯水去除过量的氯离子，最后加 $0 . 5 { \\mathrm { ~ m L } }$ 超纯水使柱子保持湿润，密封冷藏保存。2)吸附：野外采样后，将 $2 \\mathrm { ~ L ~ }$ 的水样通过 $0 . 4 5 ~ \\mathrm { m m }$ 膜过滤去掉水中颗粒物，吸附交换速度控制 $5 0 0 { \\sim } 1 ~ 0 0 0 ~ \\mathrm { m L } { \\cdot } \\mathrm { h } ^ { - 1 }$ ，完成后带回实验室，整个过程要保持交换柱有水，不要让柱子中水干掉;3)洗脱：应用 $3 \\mathrm { m o l } { \\cdot } \\mathrm { L } ^ { - 1 }$ 的HC1洗脱吸附在阴离子交换柱上的硝酸根离子，将含有硝酸根的洗脱液中加入氧化银，将硝酸根转化为硝酸银，将硝酸银溶液经过冷冻干燥成粉末[15]，用稳定同位素质谱仪(Isoprime10o;Elementar，德国)测定 $\\delta ^ { 1 5 } \\mathrm { N }$ 值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N O } _ { 3 } ^ { - }$ 在地表水中浓度的变化受到稀释、外源输入和生化反应的影响，相比之下 $| \\mathrm { C l ^ { - } }$ 具有较强的亲水性，化学性质保守，因此用C1作为理想的溶质示踪剂来指示 ${ \\bf N O } _ { 3 } ^ { - }$ 的运移。根据氯质量守恒，通过比较实测 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度和计算 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度，判断 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度变化的主要影响。用(1)式计算样点的 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度,Cao 等[16]利用此法分析松花江-黑龙江硝酸盐变化主要受稀释作用，而乌苏里江的 ${ \\bf N O } _ { 3 } ^ { - }$ 变化主要是外源输入过量的硝酸盐。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } { = } N _ { 0 } { \\times } ( C _ { i } / C _ { 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { 0 }$ 和 $C _ { 0 }$ 是府河第1个样点的 ${ \\bf N O } _ { 3 } ^ { - }$ 和 $\\mathrm { C l } ^ { - }$ 浓度，$C _ { i }$ 是第 $i$ 个样点 $| \\mathrm { C l ^ { - } }$ 的浓度， $N _ { i }$ 是计算的第 $i$ 个样点${ \\bf N O } _ { 3 } ^ { - }$ 的浓度。1)测量 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度 $\\smash { \\left[ \\begin{array} { l } { \\approx } \\\\ { \\aleph } \\end{array} \\right] }$ 计算 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度，稀释作用是控制 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度变化的主要原因；2)测量 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度 $\\overset { \\cdot } { \\underset { \\cdot } { < } }$ 计算 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度，生化反应是影响 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度变化的主要原因；3)测量 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度 $: >$ 计算 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度，证明有新的排放源排放 ${ \\bf N O } _ { 3 } ^ { - }$ 到地表水。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1府河和白洋淀水化学特征变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采集的府河和白洋淀样品的野外调查水化学参数，上游、中游、下游和白洋淀平均阴离子含量如表1所示。2008一2016年采样期间，府河 $\\mathsf { p H }$ 变化范围是 $7 . 4 { \\sim } 8 . 2$ ，白洋淀 $\\mathsf { p H }$ 变化范围是 $8 . 1 { \\sim } 8 . 6$ ，均呈弱碱性。府河 EC 和 TDS 平均值年际变化顺序：2009年6月 ${ > } 2 0 1 1$ 年6月 ${ > } 2 0 1 4$ 年7月 ${ > } 2 0 0 8$ 年9月 ${ > } 2 0 1 6$ 年6月，且府河的采样点沿程TDS和EC值也体现出同样的规律。TDS和EC总体变化呈现雨季前(2009年6月和2011年6月) $\\mid >$ 雨季中(2014年7月） $\\mid >$ 雨季后(2008年9月)的特征，可见降水对府河水质具有最显著的影响。但是同为雨季前，在降雨量影响一致的情况下，2016年的TDS、EC小于2009年和2011年，推断这样的变化可能主要受到府河排污量、排污浓度或者是南水北调导致保定生活用水发生改变的影响。因为白洋淀淀体水量比较大，容量也比较大，白洋淀淀体水质比较稳定，因此其EC和TDS的变化幅度要比府河小，而府河在流动过程中受不同年份不同季节降水稀释以及排放质量控制等影响，年际变化幅度较大，且沿程由于受水体自净作用等影响，年内变化幅度较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/88c6cda7d1e2efaddeb5a24c088b93c6b06f6e3cb04e7a4af74a7ce12b47f897.jpg",
+        "table_caption": [
+            "表1府河上、中下游和白洋淀地表水水化学参数平均值 Table 1Average statistics of hydrochemical parameters of surface water in upstream, midstream and downstream of Fuhe River and Baiyangdian Lake "
+        ],
+        "table_footnote": [
+            "空白处为未测定。The blanks are unmeasured parameters. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">时间Time</td><td>P地to</td><td>(mg--2)</td><td>(uSEc-1)</td><td>pH</td><td>ORP</td><td>(mgL-1)</td><td>(m0-1)</td><td>(TD-1)</td></tr><tr><td>雨季前 Beforg</td><td>2009年</td><td>上游 Upstream</td><td></td><td>2100</td><td>7.59</td><td></td><td>206.76</td><td>130.80</td><td>1 370.2</td></tr><tr><td rowspan=\"10\"></td><td>June 2009</td><td>中游 Midstream</td><td></td><td>1 620</td><td>7.70</td><td></td><td>160.81</td><td>71.83</td><td>1 005.3</td></tr><tr><td></td><td>下游 Downstream</td><td></td><td>1406</td><td>7.89</td><td></td><td>132.97</td><td>75.21</td><td>894.9</td></tr><tr><td></td><td>白洋淀 Baiyangdian Lake</td><td></td><td>1125</td><td>8.64</td><td></td><td>133.69</td><td>5.67</td><td>708.3</td></tr><tr><td>2011年 6月</td><td>上游 Upstream</td><td>4.85</td><td>1 463</td><td>7.72</td><td>116.2</td><td>234.67</td><td>44.99</td><td>879.4</td></tr><tr><td>June 2011</td><td>中游 Midstream</td><td>6.01</td><td>1 501</td><td>7.58</td><td>157.9</td><td>195.78</td><td>50.93</td><td>843.3</td></tr><tr><td>2016年</td><td>下游 Downstream</td><td>2.18</td><td>1 461</td><td>7.59</td><td>234.7</td><td>159.23</td><td>43.92</td><td>788.6</td></tr><tr><td>6月</td><td>上游Upstream</td><td>0.36</td><td>618</td><td></td><td>160.5</td><td>58.72</td><td>12.29</td><td>390.6</td></tr><tr><td>June 2016</td><td>中游 Midstream</td><td>0.59</td><td>771</td><td></td><td>160.7</td><td>76.94</td><td>14.59</td><td>484.3</td></tr><tr><td></td><td>下游 Downstream</td><td>0.83</td><td>934</td><td></td><td>138.5</td><td>72.37</td><td>13.59</td><td>469.0</td></tr><tr><td>2014年</td><td>白洋淀 Baiyangdian Lake</td><td>1.07</td><td>1035</td><td></td><td>140.7</td><td>114.00</td><td>2.61</td><td>531.4</td></tr><tr><td>雨季中 During</td><td>July2014</td><td>上游 Upstream</td><td>1.40</td><td>1194</td><td>7.68</td><td>193.5</td><td>92.30</td><td>2.77</td><td>703.2</td></tr><tr><td rowspan=\"5\">雨季后</td><td></td><td>中游 Midstream</td><td>1.60</td><td>1461</td><td>7.77</td><td>109.0</td><td>128.23</td><td>10.75</td><td>805.0</td></tr><tr><td></td><td>下游 Downstream</td><td>3.49</td><td>1387</td><td>8.19</td><td>106.0</td><td>125.89</td><td>3.02</td><td>707.3</td></tr><tr><td></td><td>白洋淀 Baiyangdian Lake</td><td>4.86</td><td>1168</td><td>8.05</td><td>144.7</td><td>124.27</td><td>0.79</td><td>628.7</td></tr><tr><td>2008年</td><td>上游 Upstream</td><td></td><td>1254</td><td>7.81</td><td>170.0</td><td>126.31</td><td>15.22</td><td>823.6</td></tr><tr><td>sepmber</td><td>中游 Midstream</td><td></td><td>860</td><td>7.92</td><td>219.0</td><td>68.73</td><td>36.81</td><td>533.4</td></tr><tr><td>raining</td><td>2008</td><td>下游 Downstream 白洋淀Baiyangdian Lake</td><td></td><td>1 254 981</td><td>7.81 7.83</td><td>170.0 188.0</td><td>126.31 119.69</td><td>15.22 7.02</td><td>618.2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由府河Piper图可见(图2)，2008年府河的水化学类型多样，包括 $\\mathrm { N a { \\cdot } C a { \\mathrm { - } C l { \\cdot } S O _ { 4 } { \\cdot } H C O _ { 3 } } }$ 型、Na·Ca-$\\mathrm { S O } _ { 4 }$ 型、 ${ \\mathrm { N a } } { \\cdot } { \\mathrm { C a } } { \\mathrm { - S O } } _ { 4 } { \\cdot } { \\mathrm { H C O } } _ { 3 }$ 型， $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 浓度不同程度增加是由于当地有色金属的冶炼造成污水排入；2009年府河也受到富含硫化物或者硫酸根离子工业废水的排入，其水化学类型为 $\\mathrm { N a { \\cdot } C a { \\mathrm { - } } H C O _ { 3 } { \\cdot } S O _ { 4 } }$ 型；2011年府河水化学类型主要是 $_ { \\mathrm { N a \\cdot C a \\mathrm { - } C l \\cdot H C O _ { 3 } } }$ 型；2014年水化学类型以 $_ { \\mathrm { N a \\cdot C a \\mathrm { - } H C O _ { 3 } \\cdot C l } }$ 型为主；2016 年府河水化学类型同样为 ${ \\mathrm { N a } } { \\cdot } { \\mathrm { C a } } { \\cdot } { \\mathrm { M g } } { \\cdot } { \\mathrm { H C O } } _ { 3 }$ 型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2008年白洋淀水化学类型以 $\\mathrm { N a { \\cdot } C a { - } H C O _ { 3 } { \\cdot } C l { \\cdot } S O _ { 4 } }$ 型为主；2009年白洋淀的水化学类型均是$\\mathrm { N a { \\cdot } M g { \\cdot } H C O _ { 3 } { \\cdot } C l { \\cdot } S O _ { 4 } }$ 型；2014年白洋淀水化学类型以$\\mathrm { N a \\cdot M g \\mathrm { - } H C O _ { 3 } \\cdot C l }$ 型为主；2016年白洋淀水化学类型$\\mathrm { N a { \\cdot } C a { \\cdot } M g { \\cdot } H C O _ { 3 } { \\cdot } C l }$ 型。府河和白洋淀水化学类型年际变化具有一致性，说明府河直接影响到白洋淀水质，同时白洋淀和府河水化学类型的差异性也说明从府河到白洋淀沿程水质发生了一系列变化。2008年、2009年、2011年至2014年C1和 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 浓度比例逐渐减小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f63d92eea3331c7dd1500705fe162f07440dfd0887bba01b5a8c309b4bdd17dd.jpg",
+        "img_caption": [
+            "图2不同年份府河地表水piper 图Fig.2Piper figures of samples ofFuhe River in different years"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2府河和白洋淀水氢氧同位素特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图3可见，府河和白洋淀氢氧同位素值均位于全球大气降水线和当地大气降水线的下方，且不同年份和季节的样点氢氧同位素值距离当地大气降水线的距离不同，说明府河水主要来自于降水，但是不同年份不同季节的水分补给来源和蒸发程度不同。从图3可知，白洋淀的氢氧同位素值较府河的氢氧同位素值更为富集，说明白洋淀内受蒸发作用更为强烈。不同年份雨季前期(2011年6月)、中期(2014年7月)和后期(2008年9月)水体的氢氧同位素特征(图3)表明，府河雨季前、雨季中和雨季后水体的氢氧同位素具有不断富集的特征。根据降水同位素的季节性效应，降雨过程中较为富集的同位素先降落下来，后期降水相对贫化[17]。由于河流更新能力一般为6d，所以采样期间地表水的同位素值代表了常规所排泄的污水同位素值与降水补给期间的同位素值。2011年6月、2014年7月和2008年9月府河排污的生活污水水源较为稳定，均为居民的生活用水，则氢氧同位素关系的分布不仅代表了雨季前、中和后期的逐渐富集的降水同位素的特征，也代表了不同季节地表水的蒸发程度；2016年6月氢氧同位素未体现出季节效应是由于2014年12月",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec92e7edcbf910709bc3de6614329ab5a787b22557cd91be45ac8f46ecbe9df1.jpg",
+        "img_caption": [
+            "图3府河和白洋淀地表水 ${ \\delta } ^ { 2 } { \\bf { H } }$ 和 $\\mathbf { \\delta ^ { \\delta 1 8 } 0 }$ 同位素蒸发线图 Fig.3Relationship of $\\delta ^ { 2 } \\mathrm { H }$ and $\\delta ^ { 1 8 } \\mathrm { O }$ isotopes in Fuhe River andBaiyangdianLake (GMWL: $\\delta ^ { 2 } \\mathrm { H } { = } 8 . 1 3 \\delta ^ { 1 8 } \\mathrm { O } { + } 1 0 . 8 ^ { [ 1 9 ] }$ ; LMWL: $\\delta ^ { 2 } \\mathrm { H } { = } 6 . 5 4 8 ^ { 1 8 } \\mathrm { O } { - } 2 . 7 1 1 ^ { [ 1 1 ] } )$ （204号 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12日南水北调中线干线工程正式通水使得保定的生活用水发生变化[18]。除了2008年各采样点沿程变化没有明显规律外，2011年、2014年(除点F2，是2011年和2014年采样上游的初始点仙人桥村)和2016年府河采样点沿河体现出沿程同位素逐渐富集的趋势说明沿程的蒸发作用加强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 府河-白洋淀硝酸盐时空变化及来源识别",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，不同采样期间府河硝酸盐浓度均值的大小顺序为：2009年6月 $( 8 5 . 0 \\ \\mathrm { m g \\cdot L ^ { - 1 } } ) { > } 2 0 1 1$ 年6月 $( 4 7 . 8 ~ \\mathrm { m g \\cdot L ^ { - 1 } } ) { > } 2 0 0 8$ 年9月 $( 3 5 . 2 ~ \\mathrm { m g \\cdot L ^ { - 1 } } ) { > } 2 0 1 6$ 年6月 $( 1 3 . 7 \\ \\mathrm { m g \\cdot L ^ { - 1 } } ) { > } 2 0 1 4$ 年7月 $( 6 . 3 \\ \\mathrm { m g \\cdot L } ^ { - 1 }$ )。府河硝酸盐浓度的年际变化再次证明除降水的补给和稀释作用，根据调查2009年有工业废水排放到府河，使得水体中硝酸盐浓度最高且所有样点的硝酸盐浓度均超过了WHO规定的饮用水标准 $5 0 \\ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 。白洋淀在不同采样期间2008年、2009年、2014年和2016年 $\\mathrm { N O } _ { 3 } ^ { - }$ 平均浓度分别为 $7 . 0 2 ~ \\mathrm { { m g } { \\cdot } \\mathrm { { L } } ^ { - 1 } }$ 、 $5 . 6 7 ~ \\mathrm { m g { \\cdot } L ^ { - 1 } }$ 、$0 . 7 9 \\ \\mathrm { \\ m g { \\cdot } L ^ { - 1 } }$ 和 $2 . 6 1 ~ \\mathrm { m g ^ { . } L ^ { - 1 } }$ ，白洋淀的 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度远远小于府河 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度，且府河 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度上游-中游-下游呈现先增大再减小的趋势，说明除府河入淀河流沿程的水体自净作用外，外来补给水源的稀释作用，白洋淀内生物吸收净化作用以及淀区内硝酸盐的脱氮作用都影响着白洋淀水质。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9be5e91564d619270376a285cdcc9278395c3a07bb4fce88cc894228b7c20c2a.jpg",
+        "img_caption": [
+            "图4府河地表水 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度年际分布 Fig.4 ${ \\bf N O } _ { 3 } ^ { - }$ annual distribution box plot in Fuhe River "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "地表水 ${ \\bf N O } _ { 3 } ^ { - }$ 的可能污染来源有大气沉降、工厂废水、动物粪便、生活污水及土壤微生物氮等，而府河作为保定市生产生活污水的排污河 ${ \\bf N O } _ { 3 } ^ { - }$ 主要来源是大气沉降、工厂废水、生活污水。依据Xue 等[20]的不同来源的 $\\delta ^ { 1 5 } \\mathrm { N }$ 值，生活污水 $\\delta ^ { 1 5 } \\mathrm { N }$ 值是 $4 \\text{‰}$ 工业废水 $\\delta ^ { 1 5 } \\mathrm { N }$ 值是 $- 4 \\% \\text{ textperthousand}$ $\\mathrm { C l } ^ { - }$ 主要来自于生活污水，且不受水中各种物理、化学及微生物过程的影响，是污水的主要水化学指示因子。由图5a知，2008年 $\\delta ^ { 1 5 } \\mathrm { N }$ 值 $51 \\text{‰}$ ，说明硝酸盐主要来源于生活污水;2009年 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围是 $- 3 . 7 \\% 0 \\sim 4 . 0 \\%$ ，说明府河硝酸盐主要来源于工业废水排放，这也是造成2009年府河硝酸盐浓度超标异常的主要原因，说明工业污水对水质影响非常大。其中F1-2009是2009年采样最上游的起始点银定庄是一个生活污水渠(图5b)，其 C1和 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度均较高；2014年府河的$\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围是 $2 . 0 7 \\% 0 { \\sim } 1 8 . 4 9 \\% 0$ ，且由图5b可知其 $| \\mathrm { C l ^ { - } } \\rrangle$ 浓度较高，主要来源是生活污水，其中F2-2014是2014年府河上游的仙人桥村未受到污水排放的影响，其 $| \\mathrm { C l } ^ { - }$ 和 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度可以作为背景值。2008年和2014年白洋淀 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围分别是$5 . 8 \\% 0 \\sim 1 1 . 7 \\%$ 和 $3 . 3 1 \\% 0 { \\sim } 1 2 . 5 3 \\%$ ，可见影响白洋淀硝酸盐氮的因素较多，除了府河生活污水外，白洋淀内居民生活以及白洋淀周边农业化肥施用等造成白洋淀硝酸盐氮来源的多样性；而2009年白洋淀 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围是 $- 3 . 8 \\% \\mathrm { { 0 } } { \\sim } 0 . 7 \\%$ ，可见 2009 年工业废水排入府河直接影响着白洋淀。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4影响硝酸盐迁移转化的主要因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注入新源、稀释、生化反应均可控制硝酸盐的浓度。溶解氧(DO)是表征地表水氧化还原环境的最重要的参数。由图6a知,2016年 ${ \\bf N O } _ { 3 } ^ { - }$ 测量浓度大于计算浓度，且沿程硝酸盐浓度呈减小趋势,2016年6月DO值范围是 $0 . 3 { \\sim } 1 . 1 ~ \\mathrm { \\ m g ^ { . } L ^ { - 1 } }$ ，处于厌氧环境，因此推断2016年6月硝酸盐沿程浓度减小主要控制因素是反硝化脱氮作用。在图6d中，2009年6月 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度的测量值均小于计算值，控制硝酸盐浓度的主要因素是生化反应， ${ \\mathrm { F } } 1 ( { \\mathrm { N O } } _ { 3 } ^ { - }$ ， $1 3 0 . 8 \\ \\mathrm { m g } \\mathrm { \\cdot } \\mathrm { L } ^ { - 1 } ) {  } \\mathrm { F } 2 ( \\mathrm { N O } _ { 3 } ^ { - }$ $7 2 . 2 \\mathrm { \\ m g \\cdot L } ^ { - 1 } ) {  } \\mathrm { F } 3 ( \\mathrm { N O } _ { 3 } ^ { - }$ ， $7 1 . 4 ~ \\mathrm { m g { \\cdot } L } ^ { - 1 }$ ） $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度减少，$\\delta ^ { 1 5 } \\mathrm { N }$ 值富集， $\\mathrm { F 1 ( 8 ^ { 1 5 } N , ~ - 3 . 7 \\% o ) {  } F 2 ( 8 ^ { 1 5 } N , ~ - 2 . 0 \\% o ) {  } }$ $\\Gamma 3 ( \\delta ^ { 1 5 } \\mathrm { N } , ~ 4 . 0 \\% )$ ，主要是因为F1是银定庄生活污水渠，且2009年工业污水的排放使府河处于厌氧环境易发生反硝化作用。由图6c判断，2011年6月虽然沿程发生同位素富集推断出沿程蒸发作用加强，但2011年6月 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度测量值大于计算值，可推断是外源输入主要控制 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图 6b 可判断，2014年7月 ${ \\mathrm { F } } 3 { \\mathrm { ( N O } } _ { 3 } ^ { - }$ ，5.4$\\mathrm { m g \\cdot L ^ { - 1 } } ) {  } \\mathrm { F } 4 ( \\mathrm { N O } _ { 3 } ^ { - }$ ， $1 4 . 8 ~ \\mathrm { \\ m g { \\cdot } L ^ { - 1 } }$ )硝酸盐浓度增加，$\\mathrm { N O } _ { 3 } ^ { - }$ 浓度测量值大于计算值，说明该河段沿程外源输入更多的硝酸盐。2014年的 $\\mathrm { F 6 ( N O _ { 3 } ^ { - } , 8 . 8 m g ^ { . } L ^ { - 1 } )  }$ $\\mathrm { F } 7 ( \\mathrm { N O } _ { 3 } ^ { - }$ ， $4 . 6 \\ \\mathrm { m g ^ { . } L ^ { - 1 } } .$ ，沿程 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度减小，且其 $\\mathrm { N O } _ { 3 } ^ { - }$ 测量值小于 ${ \\mathrm { N O } } _ { 3 } { } ^ { - }$ 计算值，影响 ${ \\bf N O } _ { 3 } ^ { - }$ 浓度变化的主要因素是生化反应，推断可能是反硝化作用导致沿程 $\\mathrm { N O } _ { 3 } ^ { - }$ 浓度减少;2014年7月F6、F7的DO值均是$1 . 0 7 \\ : \\mathrm { \\ m g ^ { . } L ^ { - 1 } }$ ，较有利于水体中反硝化过程的进行，且 $\\mathrm { F } 6 {  } \\mathrm { F } 7$ 的 $\\mathrm { \\Delta H C O _ { 3 } ^ { - } }$ 浓度增大，由 $4 5 9 . 0 ~ \\mathrm { \\ m g { \\cdot } L ^ { - 1 } }$ 增加到 $4 8 7 . 5 \\mathrm { m g ^ { . } L ^ { - 1 } }$ ，符合反硝化反应发生时的方程式(2):$5 / 4 \\mathrm { C H } _ { 2 } \\mathrm { O } + \\mathrm { N O } _ { 3 } ^ { - } {  } 1 / 2 \\mathrm { N } _ { 2 } + 5 / 4 \\mathrm { H C O } _ { 3 } ^ { - } + 1 / 4 \\mathrm { H } ^ { + } + 1 / 2 \\mathrm { H } _ { 2 } \\mathrm { O }$ ）(2)",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bcb0af529cb396c6cc6a152346e0cd5adf39a227884c10ac8f0a13f6d3863223.jpg",
+        "img_caption": [
+            "图5府河地表水 ${ \\delta } ^ { 1 5 } \\mathrm { \\bf N }$ 值分布和 $\\mathbf { N O } _ { 3 } ^ { - }$ 与 $\\mathbf { C } \\mathbf { I } ^ { - }$ 浓度关系(a: ${ \\delta } ^ { 1 5 } \\mathrm { \\bf N }$ 年际分布箱式图;b: $\\mathbf { N O } _ { 3 } ^ { - }$ 与CI浓度关系) Fig.5Box plots of $\\delta ^ { 1 5 } \\mathrm { N }$ and the relationship between $\\mathrm { N O } _ { 3 } ^ { - }$ and $\\mathrm { C l } ^ { - }$ in surface water of Fuhe River (a: $\\delta ^ { 1 5 } \\mathrm { N }$ annual distribution box plot;b: relationship between $\\mathrm { N O } _ { 3 } ^ { - }$ and C1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2127bf24601ebd7e890e69ccd95349df5a621dabfe48b3ff0918f7b3937154f.jpg",
+        "img_caption": [
+            "图6府河地表水硝酸盐浓度计算值与测量值比较 g.6Comparison of calculated ${ \\bf N O } _ { 3 } ^ { - }$ and measured ${ \\bf N O } _ { 3 } ^ { - }$ concentrations along Fuhe River "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对2008一2016 年府河和白洋淀水化学特征、水化学类型分析发现：降水控制着水体的总离子浓度，表现为府河年际TDS浓度、EC值：雨季前期 $\\lvert >$ 雨季中期 $\\mid >$ 雨季后期，而白洋淀淀体水量比较大，容量也比较大，因此水质比较稳定；府河水化学类型在2008—2014年C1和 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 浓度比例逐渐减小，说明府河工业废水和生活污水得到控制；府河作为白洋淀唯一常年有水的入淀河流其水化学类型年际变化与白洋淀具有一致性，而其差异性则是白洋淀本身受周围居民生活、农业生产的影响以及府河到白洋淀沿程水质发生的一系列变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据 $\\delta ^ { 1 5 } \\mathrm { N }$ 值以及调查情况分析硝酸盐的时空分布特征，结果与以往的研究结果一致证明府河的硝酸盐污染来自村落的生活污水，农业面源污染贡献不大；但2009年6月工业废水的排放造成府河硝酸盐浓度严重超标；白洋淀的 $\\delta ^ { 1 5 } \\mathrm { N }$ 值与府河 $\\delta ^ { 1 5 } \\mathrm { N }$ 值变化一致，说明白洋淀硝酸盐的主要来源是府河生活污水，白洋淀的 $\\delta ^ { 1 5 } \\mathrm { N }$ 值的变化范围较大证明白洋淀内居民生活以及白洋淀周边农业化肥施用等造成了白洋淀硝酸盐来源的多样性。从府河到白洋淀沿程降水稀释和外源输入是控制硝酸盐变化最主要的因素，而当2009年6月、2016年6月和2014年7月水体环境DO值小于 $2 \\ \\mathrm { m g { \\cdot } L } ^ { - 1 }$ ，硝酸盐减少可能主要由反硝化作用控制。因此减少并改善府河的生活、生产排污是控制白洋淀硝酸盐污染的有效途径。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]栾芸，刘静玲，邓洁，等．白洋淀流域水资源管理中的公 众参与分析及评价[J]．环境科学研究，2010，23(6): 703-710 Luan Y,Liu JL,Deng J,et al.Analysis and evaluation of public participation in water resources management of Baiyangdian Basin,China[J].Research of Environmental Sciences,2010,23(6):703-710   \n[2]朱宣清，弓冉，穆仲义．白洋淀环境演变及预测[M]．西安： 西安地图出版社，1994 ZhuXQ,Gong R,Mu ZY.Variation and Prediction of the Environment of Baiyangdian[M].Xi'an:Xi'an Map Press, 1994   \n[3]王吉苹，曹文志，朱木兰，等．五川源头溪流系统氮的迁移 和转化[J].生态学报,2009,29(1):351-358 WangJP,Cao W Z,Zhu ML,et al.Nitrogen transports and transformations in the Wuchuan headwater stream[J].Acta Ecologica Sinica,2009,29(1):351-358 pollution in the Liangtan River basin in the Three Gorges Reservoir Area[J]. Geographical Research，2010,29(4): 629-639   \n[5] 孙添伟，陈家军，王浩，等．白洋淀流域府河干流村落非点 源负荷研究[J]．环境科学研究,2012,25(5):568-572 Sun T W,Chen J J,Wang H, et al. Study on non-point source pollution loads in villges along the Fuhe River, Baiyangdian Watershed[J]. Research of Environmental Sciences,2012, 25(5): 568-572   \n[6] Qi Y,Wang ZY,Pei Y S. Evaluation of water quality and nitrogen removal bacteria community in Fuhe River[J].Procedia Environmental Sciences,2012,13:1809-1819   \n[7]Qiu R Z,Li Y X, Yang Z F,et al.Influence of water quality change in Fu River on Wetland Baiyangdian[J]. Frontiers of Earth Science in China,2009,3(4): 397-401   \n[8] Segal-Rozenhaimer M, Shavit U,Vengosh A,et al. Sources and transformations of nitrogen compounds along the lower Jordan River[J].Journal of Environmental Quality,2004, 33(4): 1440-1451   \n[9] 王珺，高高，裴元生，等．白洋淀府河中氮的来源与迁移转 化研究[J]．环境科学,2010,31(12):2905-2910 Wang J, Gao G,Pei Y S,et al. Sources and transformations of nitrogen in the Fuhe River of the Baiyangdian Lake[J]. Environmental Science,2010,31(12): 2905-2910   \n[10]李英华，崔保山，杨志峰．白洋淀水文特征变化对湿地生 态环境的影响[J]．自然资源学报,2004,19(1):62-68 Li Y H, Cui B S,Yang Z F. Influence of hydrological characteristic change of Baiyangdian on the ecological environment in wetland[J]. Journal of Natural Resources,2004,19(1): 62-68   \n[11] Wang S Q,Tang C Y, Song XF,et al. Using major ions and （204号 $\\delta ^ { 1 5 } \\mathrm { N - N O } _ { 3 } ^ { - }$ to identify nitrate sources and fate inan alluvial aquifer of the Baiyangdian Lake watershed,North China Plain[J]. Environmental Science: Processes & Impacts,2013, 15(7): 1430-1443   \n[12] Liu C L,Xie G D,Huang HQ. Shrinking and drying up of Baiyangdian Lake wetland: A natural or human cause?[J]. Chinese Geographical Science,2006,16(4): 314-319   \n[13]Freeze R A,Cherry J A.Groundwater[M].Upper Saddle River,N.J.: Prentice-Hall,1979: 604   \n[14] Silva S R,Kendall C,Wilkison D H, et al.A new method for collection of nitrate from fresh water and the analysis of nitrogen and oxygen isotope ratios[J]. Journal of Hydrology, 2000,228(1/2): 22-36   \n[15] 沈照理，朱宛华，钟佐桑．水文地球化学基础[M]．北京: 地质出版社,1993 Shen Z L, Zhu W H, Zhong Z S.Hydrogeochemistry[M]. Beijing: Geology Publishing House,1993   \n[16]Cao YJ,Tang CY,Song XF,et al.Characteristics of nitrate in major rivers and aquifers of the Sanjiang Plain,China[J]. Journal of Environmental Monitoring， 2012， 14(10): 2624-2633   \n[17]林明利，张全，李宗来，等．南水北调中线输水水质水量变化特 征及城市供水应对措施建议[J].给水排水,2016,42(4):9-13 Lin ML,Zhang Q,Li ZL,et al. Characteristics of the variance of the water quality and quantity in the middle route of south-to-north water diversion project and corresponding measures for urban water supply[J].Water& Wastewater Engineering,2016,42(4):9-13   \n[18]Gonfiantini R.Environmental isotopes in lake studies[M]/ Fritz P,Fontes JC.Handbook of Environmental Isotope Geochemistry.Amsterdam:Elsevier,1986:113-168   \n[19]Craig H.Isotopic variations in meteoric waters[J].Science, 1961,133(3465): 1702-1703   \n[20]Xue D M,Botte J,De Baets B,et al.Present limitations and future prospects of stable isotope methods for nitrate source identification in surface- and groundwater[J].Water Research, 2009,43(5):1159-1170 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

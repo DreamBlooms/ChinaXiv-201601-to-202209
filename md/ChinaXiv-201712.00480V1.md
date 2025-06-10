@@ -1,0 +1,80 @@
+# 医学教育
+
+# SPSS软件在三甲复审重点病种和重点手术数据统计中的应用
+
+裘毓雯」，王玉享²，陈莉雅南方医科大学南方医院妇产科，医务处，统计室，广东广州510515摘要：《三级综合医院评审标准(2011年版)》实施细则第七章第二节明确要求三级医院需对有关住院重点疾病和住院重点手术进行统计分析并根据该数据进行持续改进,因此如何做到正确、及时、高效地、进行数据提取和统计分析是重要的关键节点。由于涉及的病种和手术多,统计工作需耗费统计人员大量的时间。SPSS是一个功能强大的统计软件，其日期函数、Computer命令、Merge Files命令、Identify Duplicate Cases 命令和Custom Table列表能够使得此项工作变得简单。熟练应用SPSS 于重点病种和重点手术能为医院提供准确、及时的数据统计分析,值得推广和应用。
+
+关键词:SPSS;平均住院时间;ICD10
+
+# Application of SPSS in analyzing the data of serious diseases and operations for the review of grade A hospital
+
+QIU Yuwent, WANG Yuxiang², CHENLiya³   
+DepartmentofGyecologyndOstetrics;Depatmentfmedicaldepartment;epartmentfalysisdepartmentafangoital   
+SouthernMedicalUniversity,Guangzhou 510515,China
+
+Abstract:Section2,Chapter7of theimplementationrulesofLevel3GeneralHospitalAccreditationStandards (2011)haclear ly put forward a requirementthat Level 3 hospitals should collect and analyze the data of severe diseases and operations on in-patientsandtusmakeproperimprovement.Terefore,itiseentialformedicalpractioners toextractandanalyethe datain ascientific,immediate,and eficient method.Sinceavarietyof diseasesandoperations happen inthe hospitals,the analysis work is extremelytime-consuming. Hence,werun SPSS toanalyze allthedata.Its date function, Computercommand,MergeFilescommad,IentifyuplicateCases commandandCustomTablelistmake thejobmuchesier.Bengable to be skillful inrunning SPSSanalyzingthedata ofsevere diseasesand operations enablesthehospitals to generateaccurate and timely data statistical analysis. Therefore, SPSS is worth of further popularization and application.
+
+Key words: SPSS; average length of stay; ICD 10
+
+《三级综合医院评审标准(2011年版)》第七章第二节明确要求三级医院需对有关住院重点疾病和住院重点手术的总例数、死亡例数、2周与1个月再住院例数、平均住院时间和平均住院费用进行统计，并通过监控数据进行持续改进[1-2]。因此如何正确并及时对相关数据的提取和分析是三级综合医院评审中重要环节，是衡量住院患者医疗质量的前提，也是医疗质量持续改进的必要客观数据支持。重点病种和重点涉及18种疾病(22项疾病)和18类手术(55项手术),不同病种和手术有不同的限定条件，如非产妇出院患者、无并发症、除外颅脑手术等等，且三甲复审要求按季度进行数据提取和统计分析，因此数据计算量巨大，需要花费统计人员大量的时间和精力。目前多数医院均是在信息系统中进行系统升级或者研发[3-9],但花费时间较大，研发经费较高，特别是各家医院信息系统不同，开发的系统不兼容，因此如何在广泛有效的对三级综合医院评审细则中对重点疾病和住院重点手术的数据进行监控仍然是目前绝大多数医院统计人员所面临的紧要任务。IBMSPSS19是一个功能强大的统计学软件[",通过使用该软件后可以减少很多重复的劳动，并使得结果准确。本文以医院2010\~2012年重点病种和重点手术相关数据为例，采用IBMSPSS19对数据进行分析。
+
+# 1资料准备
+
+# 1.1首页信息提取
+
+通过PowerBuilder6.0调取2010\~2012年病案首页信息，提取的信息包括病人ID、入院次数、入院日期、出院日期、入院科室、出院科室、转科科室、并发症、手术信息、总费用、三级医师、出院诊断、出院诊断ICD10编码、手术ICD-9-CM编码等[]
+
+# 1.2编码转换
+
+根据三级综合医院评审标准实施细则(2011年版）给出的重点疾病和重点手术的ICD10编码和ICD-9-CM,通过病案室编码人员转换为本医院所对应
+
+的编码。因不同地区医院疾病编码和手术编码亚目可能不同，需要专业人员进行转换后方可进行数据统计[12]
+
+# 2 SPSS软件应用
+
+使用 SPSS-Transform-Compute Variable 命令,以函数Xdate.Tday(入院日期-出生日期)/365.25得到住院患者的年龄(岁），留取年龄为18岁及以上的病例，存为文件名为"2010\~2012年重点病种18岁以上病例”
+
+# 2.1病种和手术排除标准
+
+2.1.1病种编码以病种消化道出血(无并发症)为例，三级综合医院评审标准实施细则(2011年版)要求为主要诊断k25-k28伴有.0-.2,.4-.6亚目编码， $\mathbf { k } 2 9 . 0 , \mathbf { k } 9 2 . 2$ 为消化道出血(无并发症)的非产妇出院患者。实际操作时以本院对应的ICD编码为准，即出院第一诊断ICD10编码:K25.0-K25.2,K25.4-K25.6,K26.0-K26.2,K26.4-K26.6K27.0-K27.2，K27.4-K27.6,K28.0-K28.2,K28.4-K28.6，K29.0，K92.201-K92.208，且首页无手术或非手术并发症以及未入住过产科的病例。
+
+2.1.2数据匹配通过SPSS新建一个包含本院ICD10编码及对应中文的文件("2006\~2012年18类病种病案编码(原始码)"),如图1。将此文件与"2010\~2012年重点病种18岁以上病例"进行匹配，两个文件中均含有“出院第一诊断ICD”，且该指标的宽度、标识等均完全相同，然后将两个文件都按照"出院第一诊断ICD"进行升序排列，然后进行匹配操作，具体匹配操作为SPSS一Data—MergeFiles—AddVariable—打开2006\~2012年18类病种病案编码(原始码)—Matchcases on key vari-ablesin sorted files—Non-active datasetkeyed table—keyVariables(“出院第一诊断ICD")。此操作后，可将出院第一诊断为消化道出血(无并发症)的病人通过软件自动标记。之后通过类似的操作，以病人ID和入院次数为关键指标依次将手术信息文件、并发症信息文件、转科为产科的信息文件匹配到"2010\~2012年重点病种18岁以上病例”。删除有手术信息，有手术并发症，且未曾住过产科的病例。其他病种均按照此类方法按照不同的病种不同的条件进行匹配合并，最终留取的病例存为新文件名为"2010\~2012最终分析文件”。新文件中最终包含病人的一般信息,出院第一诊断ICD,18种病种，中文名称等信息。
+
+二 L51 丰口三上汽第-KO 十八片电片 中文长作 05 K25.001 5请出自王开） 性写清药件三由南 52 5出白（无片发 注营请亮许有出血1C5003 5出自（王中） 富出自DH发 15101 出中 性间内件穿K25201 5发 注间年年立由和H K251 5清出自（王井） 生压开南 5 电 全生门通年商出由道 K25501 5出 设性间图件穿礼出 5出王牛 H海青国 K25001 出E 性十二G脚件出曲251 5清出自无牛） 十二国 5N1 5请无开 十二马镇库开出由和孔别 K541 王其） 生十二自件出现 125501 5请出无片发） 生十二日临KN1 5请出自（天井） 十二店4 H37441 5 A生出开出 K272 5请出自王牛 周十二库车出证 127443 请出自王开 药件由电 K27501 5生 清生排店年穿9 1C27 502 5出（王中） 十二清穿道 24 出白井 内牛南 KC1401 5白天发 年青出31 1C9 501 5清出自王井11001 电天牛） 出性K92201 5A出（天 青出血（特）湖 5请生白（天牛） 出白（）喜 K32203 请发） 出自特南）35 K92204 5清出自无牛发 上清化电出由得商堂 25 5A天开 上海七大出自）J04 其 下A化出白GK92207 5清出无中发 下A正大出自南北 室 5请出曲（王开 （束件）
+
+# 2.2 统计分析
+
+2.2.1 再住院例数 在SPSS中,以Data-Identify Dupli-cate Cases-Define matching cases by-病人ID,18 种病种进行纠重，以上操作的具体含义为将同一病人，同一疾病出院认定为重返病例。之后通过Computer命令进行此次出院与前次出院的时间间隔，通过Trans-form-RecodeintoDifferentVariables命令将时间间隔定义为0\~15d和16\~31d重返，为了更好的方面对当天重返的监控，可将当天重返也单独列出，则最终变量为当天重返，2\~15d重返，16\~31d重返。通过Ana-lyze-CustomTable就可将每个病种的以列表的形式按年份分别输出再住院例数(图2)。
+
+AemTdn 二 建 TAIsGiK Cn   
+Wr CH 日 店 国 国 用 Cnn   
+d PEH Covgon1 Crrgaya 1 园 Cour 21t10-   
+AFAA nrre htne H nn M L+ARAR 克由理心力 ME H R H   
+6 nni nrn nnn nm nhn n AA 日 nins mnn nri nnnm m 住 入 V Ma M M H nne Pn RNA RI nhn E AM4 M Ah R nMV car HH中国 P nnn RN nim nhn AN Geuna coy 中HN nInA P RA AIm nrms 号 口 十种 专生 B nhe ntnn   
+CIgOHL M M R N Rm CaoyI ninrie n nnnn n n nnne Cregoy2 西中乐调 nn m r n m n 意性P静头 n hns ni 1m HE P M AM H P H BHEO P NNM rm 重牌调牛 N 医 骨 店 D H Po8Sh Comi □ Con Peb 民 S Colym Yaabie 中 蛋 Cnol T
+
+2.2.2指标分析 通过Analyze-Custom Table也可以方便的将疾病的总例数、死亡例数、平均住院时间和平均住院费用按列表的形式输出。因病种平均住院时间和平均住院费用多数呈现偏态分布，因此建议采用中位数为佳。如需按月、季度等再进行分析，可先通过Computer命令下的日期Xdate.Month(出院日期)和Xdate.Quarter(出院日期)分别得到按月份和按季度出院时间。2.2.3重点手术分析重点手术的术后非预期再手术例数,通过Data-Identify Duplicate Cases-Define match-ingcasesby-病人ID,入院次数、18类手术进行纠重，即同病人同次住院同类手术，之后通过与临床科室核实最终得到非预期再手术例数。总例数、死亡例数、平均住院时间和住院费用的计算方法同重点疾病。
+
+# 3小结
+
+医院评审能够促进医生规范化医疗，促进医院医疗质量的持续改进，增进员工的齐心协力精神，从而保障了患者的医疗安全，是改善患者服务的有效工具。数据的监控是三甲评审中的极为重要的一项。目前多数医院均是在信息系统中进行系统升级、研发或者外包，但各家医院信息不同，因此即使研发出来软件，也不能够大面积推广使用,此外多软件研发人员多数为非医学非统计专业人员，因为在核对匹配数据上会产生误差，特别是研发软件需要大量的资金支持，以及软件形成后的后续更新费用，以及随着时间的进展，如果病种和手术的编码有所变化后，软件如何及时更新又成了新的问题[13-15]
+
+SPSS由美国斯坦福大学的3位研究生于1968年研发而成，经过多年发展，目前已经成为国际上最权威的统计软件之一，IBM公司于2009年收购了SPSS公司，此后SPSS版本更名为IBMSPSS版本系列。IBMSPSS软件中的日期函数Xdate.Year、Xdate.Quarter和Xdate.Month能够方便的将出院日期转换为相应的年、季度和月。Computer命令能够方便的计算住院天数以及产生其他新的变量。MergeFiles命令能够将不同的文件以关键变量进行合并，减少了大量的重复劳动。IdentifyDuplicateCases命令能够将同病人同疾病或者同病人同次住院同手术进行查重。CustomTable能够方便的以列表的形式产生结果。通过使用该软件，可以快捷方便的对三甲评审的数据进行核对、统计并分析，通过按季度、年份，科室，监控数据，病通过使用图形软件产生线图等方式，使得临床科室和医院管理人员能够直观的看到数据的变化趋势，并进行相应的改进方式。SPSS在三甲复审重点病种和重点手术中能够起到非常重要的作用，值得推荐使用。
+
+# 参考文献：
+
+[1]中国医院协会.三级综合医院评审标准实施细则(2011年版)[M].北京：人民卫生出版社，2012:214-8.  
+[2」魏影,岳玺中,毛静馥.新一轮医院评审标准的解读与建议[J].中国医院管理,2012,32(7):13-4.  
+[3]肖洪玲.基于构件技术的医院门诊信息系统的研究[D].长沙：中南大学,2007.  
+[4]李澄,张广明.医院管理信息系统的设计与实现[J].微计算机信息，2007,23(6):29-31.  
+[5]王兴强,刘长兴,刘国伟.改进的药品便捷输入法在"军卫一号"上的应用[J].医疗卫生装备，2011,32(6):55-6.  
+[6]王兴强,刘长兴,刘国伟.基于"军卫一号"工程的二次开发模式[J].中国医疗设备，2011,26(7):66-7,74.  
+[7]王兴强，刘长兴.刘国伟等.三级医院评审日常监测指标的统计方法[J].中国医疗设备,2013,10(8):56-7.  
+[8]刘冬生,欧阳菊香,陈露诗,等.医院质量监测系统数据对接工作的探索与实践[J].中国数字医学，2014,15(3):113-4,117.  
+[9]陈慧，朱兴国.三级医院评审日常监测指标查询系统的数据库设计和实现[J].中国医药导报，2014,11(31):124-8.  
+[10]陈平雁,黄浙明.IBMSPSS19统计软件应用教程[M]2版.北京：人民卫生出版社，2012.  
+[11]世界卫生组织.疾病和有关健康问题的国际统计分类(ICD-10)第十次修订本[M]2版.北京：人民卫生出版社，2008.  
+[12]刘冬生,欧阳菊香,王尔笑,等.手术操作码对应表的建立[J].中国病案,2014,15(3):31-2.  
+[13]何小菁,胡杰,李洪兵.医院管理信息系统建设业务外包研究[J].现代医院,2005,5(7):3-4.  
+[14]董建成.我国医院信息系统现状及原因分析[J].中华医院管理杂志,2003,19(4): 228-30.  
+[15]胡磊,石芸.医院信息系统外包的风险分析[J].重庆医学,2011,40(16)：1625-6,1638.

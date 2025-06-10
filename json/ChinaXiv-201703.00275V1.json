@@ -1,0 +1,370 @@
+[
+    {
+        "type": "text",
+        "text": "可调频的超声波信号接收系统的设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李海龙¹,2，翟光杰¹，蒋远大1（1.中国科学院国家空间科学中心北京 100190；2.中国科学院大学 北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：为了实现对不同频率超声波信号的高速采集，提出了一种基于可编程滤波器、USB2.0 和C#的接收频率可调的超声波信号接收与采集系统设计方案，并完成了系统的软硬件设计。该系统的硬件部分主要用来数字量化模拟信号并将其上传至上位机，软件部分采用C语言和C#编程，以实现数据的正常采集与上传保存。实际应用表明，该系统具有操作简便、测试准确、使用灵活的特点，达到了设计要求。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超声波接收；可编程滤波；C#；USB2.0中图分类号：TN722 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Design and implementation of adjustable frequency ultrasonic signal receiving system ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Hai-long12, ZHAI Guang-jie¹, JIANG Yuan-da1 (1.National Space and Science Center, Chinese Academy of Sciences,Beijing 1Oo190, Chi ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to satisfy the high speed acquisition of ultrasonic signals of different frequencies,the design of the receiving and acquiring system of ultrasonic signal with adjustable frequency based on programmable filter, USB2.O and C# designed in this paper. The hardware system is used to digitalize analog signal and upload it to the host computer. The software system adopts the C and $C \\#$ as development environment. The experiment and application show that this system has good performance, and achieve the design requirement. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Ultrasonic receiving; Programmable filter; C#; USB2.0 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超声波是指频率高于 $2 0 \\mathrm { k H z }$ 的声波，有较好的指向性，穿透能力强，并且具有反射、折射等特征。根据其特性，不同频率的超声波可在不同的领域中应用，因此其在生产、科研和生活等方面有着非常广泛的应用[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是，在信号接收的过程中，超声波声头接收的声信号在转化为电信号后幅值非常小，一般只能达到毫伏级，这样就非常容易受到其他信号的干扰[2]。因此，为了确保接收信号的准确性，需要有较大的信噪比。由于放大电路不只是放大有用信号，同时也会将噪声放大，因此，超声波接收电路应该具有相应的滤波功能。对于多数超声波接收电路中的滤波部分而言，其滤波器的类型和滤波方式大都是固定不变的，这就限制了接收电路使用的灵活性和广泛性。所以，本设计中的可编程滤波部分能够较好的解决接收电路滤波方式的灵活性和使用的广泛性问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经过放大滤波及模数转换后采集到的数据，需要通过相应的通讯方式上传到上位机。由于串行通讯方式具有使用线路少、成本低，特别是在远程传输时，避免了多条线路特性的不一致而被广泛采用。常见的串行通讯传输方式有RS232、RS422、RS485 以及USB 等。其中，USB(Universal Serial Bus),即通用串行总线，是一种外部总线协议标准。基于USB 接口的数据采集卡具有热插拔、传输速率高、可靠性强、通用性好、易扩展和性价比高等优点。因此，本系统采用USB2.0接口来实现数据的上传[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "上位机与USB 设备的连接，数据的上传与保存等功能的实现需要通过上位机软件来实现。C#是微软公司发布的一种面向对象的、运行于.NETFramework之上的高级程序设计语言，集成了大量的实用库，使得程序的开发大大简化，在数据采集领域获得了广泛的应用。因此，本系统上位机软件利用C#语言编程完成。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文中主要针对频率在 $1 5 0 \\mathrm { { k H z } }$ 以下的接收频率可调的超声波信号接收电路以及基于USB2.0和C#的数据采集系统进行设计。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1系统总体结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本系统由硬件电路和软件设计两部分构成，系统总体结构如图1所示。硬件电路有同相放大电路、可编程滤波电路、ADC 电路、FPGA电路、单片机主控制器和USB2.0控制器。其中 USB2.0 控制器芯片采用 Cypress 公司的 EZ-USB FX2芯片，FPGA 芯片选用 Altera 公司 Cyclone 系列的 EP1C6Q240C8，ADC 器件采用AD 公司的 ADS822E。软件设计主要包括上位机程序设计，USB2.0 固件程序编程，单片机主控器编程，FIFO编程，可编程滤波器编程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1中，放大电路将超声波探头接收到的微弱信号进行放大；可编程滤波电路通过编程来实现不同的滤波器对不同的频率进行滤波；ADC电路将放大滤波后的模拟信号进行数字量化；FIFO用来对ADC数字量化后的数据进行缓存，以避免因为采样数据率与USB接口传输数据率不匹配而发生数据丢失；单片机主控器负责对FIFO、ADC、USB进行控制以使得下位机采集到的数据能够及时准确的上传给上位机；USB2.0控制器负责下位机系统与上位机之间的通信。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e1b1a32766233bed731fdfdd18e4eb2aa391a0512f719d2165dd550e3c649ad.jpg",
+        "img_caption": [
+            "图1系统总体结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2系统硬件设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1同相放大电路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由两个反相放大电路级联来实现对信号的同相放大，用来作为超声波接收电路中的放大部分。由于接收到的信号幅度为毫伏级，因此需要有较大的放大倍数以确保信号不被噪声掩盖，所以需要运算放大器有较高的增益带宽积来满足频率与放大倍数的要求[4，在本设计中，运算放大器采用的是增益带宽积达 ${ 1 1 0 } \\mathrm { M H z }$ 的运放AD8051，能够满足实际需求。为了比较灵活的满足现实需求，本电路采用两级放大，并且放大倍数可调的方案。放大范围为：47\\~940。在放大电路中，图2所示，R1取值为 $1 0 \\mathrm { k } \\Omega$ ，R2取值为 $4 7 0 \\mathrm { k } \\Omega$ ；在第二级放大电路中，R4的取值为 $1 0 \\mathrm { k } \\Omega$ ，可调电阻R5的取值为 $1 0 \\mathrm { k } \\Omega { \\sim } 2 0 0 \\mathrm { k } \\Omega$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/451aec26b9dfa78b6de4443adf5eab117370f6ab72d731e95a68989eac3b842c.jpg",
+        "img_caption": [
+            "图2同相放大电路图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第一级反相放大增益：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { f _ { 1 } } = - { \\frac { R _ { 2 } } { R _ { 1 } } } = - { \\frac { 4 7 0 k \\Omega } { 1 0 k \\Omega } } = - 4 7\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二级反相放大增益：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { f _ { 2 } } = - \\frac { R _ { 5 } } { R _ { 4 } } = - \\frac { 1 0 k \\Omega \\sim 2 0 0 k \\Omega } { 1 0 k \\Omega } = - 1 \\sim - 2 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "所以放大电路增益为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { f } = A _ { f _ { 1 } } \\times A _ { f _ { 2 } } = 4 7 \\sim 9 4 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2可编程滤波",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "常见的滤波电路中，无论是有源滤波电路还是无源滤波电路都需要比较繁琐的去调试，并且每个电路只能实现一种滤波器来对固定频率的信号进行滤波，无法实现多种模式的滤波。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而由美国Maxim公司推出的MAX262双二阶通用开关电容有源滤波器，使用微控制器控制其精确的滤波器函数，不需要外围元件就可以构成多种带通，低通，高通，带阻，全通滤波器，滤波器工作模式都可以通过程序来设置，中心频率可以在 $\\mathrm { 1 H z }$ 到 $1 4 0 \\mathrm { k H z }$ 范围内调节[5]，能满足常见频率的超声波的需求。因此，本设计中采用该芯片来实现不同的滤波器，使得本系统能够通过配置多种滤波器实现对不同信号的多种方式的滤波以满足不同情况下的超声波信号数据采集的需求。Maxim 公司为MAX262系列滤波器提供了设计软件MAX260V1，使得设计过程大为简化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3ADC采样电路设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模数转换的一个重要性能指标是数据转换的准确性。高采样频率，高分辨率的模数转换器能够使得转换数据更准确。ADS822E是AD公司推出的一款10位采样模数转换器(ADC)，转换速率最高可达 40 MSPS，能够满足本系统中信号频率的要求。该芯片集成了模数转换所需的全部功能，包括采样保持（T/H）与基准电压源。ADS822E要求采用5V电源供电，参考电压可设置为内部和外部两种模式。数字输出兼容TTL与CMOS。通过其输出使能端□OE来控制芯片的数据输出[。本系统中设定的输入模拟电压范围为 $\\scriptstyle 1 \\pm 1 \\mathrm { V }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FPGA中的PLL提供本系统所需要时钟信号以确保时钟的稳定性，包括ADS822E 的采样时钟，滤波电路的时钟以及FIFO 的时钟。模拟信号经过ADS822E 采样转化为数字信号后送入FPGA内的FIFO 做缓存，以避免采样数据率和USB接口传输数据率不匹配而发生数据丢失。本设计中FIFO 的深度为1024，由于ADC 输出的数据为10位二进制，所以数据总线宽度为16位[]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4USB接口电路设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EZ-USBFX2提供了强大的接口设计模式包括通用I/O模式，slaveFIFO模式和GPIF模式。其中，通过 slaveFIFO 模式和 GPIF 模式可以实现数据的高速传输。本系统中采用slaveFIFO 模式，在该模式下，可以实现在没有片内CPU干预的情况下，USB 数据就可以跟外部逻辑之间进行通信，提高了传输效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c7c16f0cf3aca3a4f75fcdd33b5586439c410c79c01cd7ea52bd50e8fecd984.jpg",
+        "img_caption": [
+            "图3EZ-USBFX2 与外部逻辑控制器的接口电路图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在 slaveFIFO 模式下，EZ-USB FX2与外部逻辑控制器的接口电路如图3 所示。其中IFCLK为接口时钟，采用FPGA通过PLL分频生成 $4 0 \\mathrm { M H z }$ 时钟。FLAGA-FLAGD为FIFO标志管脚，用于显示内部 FIFO 的空、满，低电平有效；SLOE在同步模式下，用于使能数据总线FD 的输出，默认低电平有效，当SLOE信号有效时，才能将FIFO 指针指向的数据读出；SLRD和SLWR分别作为FIFO的同步读、写信号,默认低电平有效，当SLRD或 SLWR信号有效时，才能在IFCLK的上升沿读写FIFO；FD[15:0]为16位双向数据总线，负责上下位机之间数据的传输；FIFOADR[1:0]用于选择所使用的片内FIFO，其中“0O”表示选择EP2，“10\"表示选择EP6[8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3系统软件设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统软件设计主要包括单片机主控器程序，可编程滤波器控制程序，USB程序、FPGA中FIFO程序以及C#应用程序5个部分。如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/201e85ea6edbec466d6fee69f5ff05ac481b894c591db6160ae10db388d5db13.jpg",
+        "img_caption": [
+            "图4系统软件结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1USB程序设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "USB 固件程序开发主要包括如下几个部分，首先定义USB设备的描述符。然后设定EZ-USBFX2 的工作模式为 slaveFIFO 模式，FIFO工作时钟 IFCLK由FPGA中的PLL 分频产生；设置EP2为OUT端点，上位机指令通过OUT端点下传指令，设置EP6为IN端点，下位机采集的数据通过IN端点上传到上位机，端点数据总线宽度为16位，数据缓冲区大小为 2048 字节[9]I10]。经过上述配置后，USB 就可以接收外部逻辑的数据，当外部逻辑向USB 写入数据时，USB芯片会自动上传数据，整个过程没有CPU干预，所以传输速率较高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "USB 设备的驱动程序是开发USB外设的一个关键，它处于上位机应用程序和USB 固件程序之间。主要作用是使上位机的操作系统能够识别USB 设备，是上位机和下位机USB设备之间的桥梁[1]。本系统的驱动程序使用 Cypress Suite USB 开发包中的 CYUSB.inf 和CYUSB.sys[121]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2单片机主控器程序设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单片机作为系统的主控制器，用来产生EZ-USBFX2、FIFO、可编程滤波器以及ADC的控制信号。单片机通过监测EZ-USBFX2内部FIFO 的空满标志，产生相应的读写信号来操作其片内FIFO。通过检测FPGA中的FIFO 的空满标志来决定ADC 的输出使能引脚OE是否有效，从而实现数据的采集与传输。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3基于C#的应用程序设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上位机软件主要功能包括上位机与USB 设备的连接，开始与结束数据的采集，数据的保存以及USB 芯片FIFO的复位。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本系统上位机软件在Visual Studio2010.NET环境下采用C#语言编程完成。.NET集成了大量实用的类库，本系统上位机部分主要使用CyUSB.dll 中的库函数和 Thread 类进行USB通信与多线程编程[13]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上位机程序的工作流程如图5。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3026f630bb9aed4e0d54110bdaa40f1ec309383ebc449b24b550fc4938d6f80c.jpg",
+        "img_caption": [
+            "图5上位机程序的工作流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "程序工作的主要流程：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用户点击“连接USB设备”按钮，如果连接成功，会显示“连接成功”字样，并且会显示设备的VID和PID号码。如果连接失败，则显示“连接失败”。当连接成功后，点击“开始采集”，则上位机通过向下位机发送指令使其开始工作，从而将下位机采集到的数据上传给上位机并同时将数据保存在上位机指定的目录下。当数据采集完成后，点击“结束采集”按钮，会显示“采集结束”，完成采集，并复位USB 芯片的FIFO[14][15]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4系统测试",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "系统的硬件电路和软件程序开发完成后，通过软硬件联合测试以验证系统传输系能。测试步骤如下：首先配置好 EZ-USB FX2的驱动程序，然后用Cypress USB Console 软件完成固件程序下载。如图6所示，上位机检测到的USB设备的VID为Ox04B4，PID为 $0 \\mathrm { { x } 1 0 0 4 }$ 说明USB设备已成功连接到上位机。USB设备和上位机PC正确连接后即可进行数据采集。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然后单击“开始采集”按钮，下位机采集的数据会保存在指定目录的文件中。采集的数据为十六进制数表示的0000\\~00FF，在模拟输入端分别输入频率为 $4 0 \\mathrm { { k H z } }$ 和 $1 0 0 \\mathrm { k H z }$ 的正弦波信号,经验证，文件中保存的实际数据与理论数据完全一致，证明了系统数据传输的可靠性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/653e1da108f00b84432234ddaf5522b95fd4fd0e2f7b0bc2f9d9889692a8b2e6.jpg",
+        "img_caption": [
+            "图6上位机界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本系统软件、硬件均已调试通过，并已应用于实际项目中,运行良好。系统中信号放大和可编程滤波实现了对不同频率的微弱超声波信号的精确采集，并借助Cypress 公司提供的USB 开发包使得USB2.0的开发难度大大降低，同时借助于Visual Studio 2010.NET环境中集成的大量的实用类库，实现了上位机程序的快速开发，缩短了研制的周期。本系统硬件成本低，结构功能灵活便于扩展，具有较强的实用和推广价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]杨兆飞．数字超声系统接收电路改进[J]．山西电子技术，2013(2):3-5.  \n[2]孙凌逸，高钦和，蔡伟,等．低压电源驱动的超声波发射接收电路设计[J]．仪表技术与传感器，2010(10):77-79.  \n[3]扈啸，张玘，张连超．USB2.0控制器CY7C68013特点与应用[J]．单片机与嵌入式系统应用，2002(10):48-50.  \n[4]沈立军．超声相控阵收发电路设计与关键技术研究[D]．南京航空航天大学，2014.  \n[5]蒋瑜，陈循，杨雪,等．基于MAX262的程控滤波器的实现[J]．兵工自动化，2001,20(2):36-39.  \n[6]齐红涛，苏涛．基于FPGA 的高速 AD采样设计[J]．航空兵器，2010(1):35-39.  \n[7]雷海卫，刘俊．FPGA中软 FIFO 设计和实现[J]．微计算机信息，2008,24(2).  \n[8]乔立岩，吴江伟，徐红伟．数据采集卡USB2.0接口设计[J]．电子测量技术，2010,33(1):57-60.  \n[9]蒋金涛，杨鸣．USB2.0控制器EZ-USB-FX2的性能特点及其数据传输实现[J]．计算机工程与应用，2005,41(11):94-96.  \n[10]苟新运，张禹，季仲梅．USB2.0接口芯片CY7C68013的固件程序开发[J]．微计算机信息,2005，21(4):182-183.  \n[11]高贝．基于USB2.0 的数据传输系统设计[D]．西安电子科技大学，2011.  \n[12]王兵兵．基于EZ-USB FX2 和FPGA 的数据传输系统研究[D]．西安电子科技大学，2010.  \n[13]Karli Watson Marco Bellinaso，康博．C#入门经典[M]．清华大学出版社，2002.  \n[14]何伟，陈永强．C#的文件处理研究与实例分析[J]．电脑知识与技术：学术交流，2009,5(21):6046-6047.  \n[15]郑杰．USB3.0编程宝典[M]．电子工业出版社，2013.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第一作者简介：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "李海龙（1992—），男，山东省济宁市人，硕士，研究生，研究方向：计算机技术。",
+        "page_idx": 6
+    }
+]

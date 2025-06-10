@@ -1,0 +1,465 @@
+[
+    {
+        "type": "text",
+        "text": "塔里木河流域土地开发的生态响应研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "焦伟¹，刘新平1,²，张琳¹，梁玲霞1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1新疆农业大学管理学院,新疆乌鲁木齐830052；2 新疆农业大学土地科学研究所,新疆乌鲁木齐830052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要:60a来塔里木河流域耕地面积净增 $1 0 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ，在流域内部形成众多生态环境安全问题。通过选取水资源生态环境指数、社会生态环境指数和生态环境压力指数，运用ESDA空间分析方法和GWR模型对塔里木河流域 $3 5 \\mathrm { ~ a ~ }$ 间土地开发与生态时空演变特征和空间响应关系进行研究,构建“土地开发—生态风险预警\"模型,得出以下结论:1980—2015年克孜勒苏州和喀什地区生态等级正向转移比例较大，有 $8 4 . 8 6 \\%$ 的比例由较低等级(I)正向转移为低等级(II);和田地区的克里雅河流域，阿克苏北部区域以及塔里木河末端且末县等级退化严重，负向转移比例 $2 3 . 4 6 \\%$ 。和田、阿克苏、喀什地区每增加 $1 . 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 未利用地开垦规模，综合生态环境分值下降0.6到0.35，而克孜勒苏州地区则上升 $1 . 3 \\sim 2 . 1$ ;上游喀什与中游阿克苏两地区每 $1 . 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 生态退耕，每年将分别化解 $3 2 . 0 6 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ 和 $1 5 . 6 0 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 化肥污染压力。阿克苏地区与巴音郭楞州土地开发生态风险达到环境资源承载力指数的 $7 5 \\%$ 以上，预警程度超过Ⅱ级，而克孜勒苏州土地开发处于生态安全范围。每 $1 . 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 未利用土地开发，全流域风险指数增长均值为0.0034，下游巴音郭楞州在增加 $1 5 \\times 1 0 ^ { 4 } \\sim 2 0 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ 耕地后，生态风险将逼近并超过环境预警界限，上游克孜勒苏州将在 $1 5 \\mathrm { ~ a ~ }$ 之后进入中度警告阶段。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土地开发；生态响应；GWR；生态预警；塔里木河流域中图分类号：P301.24 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "不合理的土地开发与利用所带来的区域生态风险是当前干旱地区生态环境问题的热点问题，也是资源优化配置、可持续发展的重要突破口和着力点。而以生态响应为视角的生态环境研究受到各大生态研究机构和学者的青睐，如三峡水库水文一生态响应模型，针对单项生态目标分别建立了水文指标与生态指标之间的量化关系[1];莱州湾海洋生态影响评价是从生境质量与生态响应两方面进行评价和研究被干扰情况[2]；张家港生态响应分析引入Markov模型预测和生态系统服务价值评估模型[3]；黑河流域水资源对城市化格局和过程的响应关系研究，揭示了十旱区城市化过程与区域水资源配置的内在反馈机制[4];塔里木河下游生态响应监测是以生态应急输水为背景，利用遥感、GIS等空间信息技术完成了生态响应监测分析[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新疆地域辽阔，南北疆自然、地理和气候差异巨大，形成了北疆水资源丰富，土壤质量相对较高，生态环境适宜;南疆水资源缺乏，土壤沙化严重，生态环境脆弱的不同特点。60a农业开荒、过度放牧和城市建设，使新疆正面临土壤盐渍化，水土流失，水资源恶化，自然灾害频繁，土地沙化和生物种类多样性锐减等多种生态问题。中华人民共和国成立以来,新疆先后开垦草地、荒地等达 $4 0 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 。主要经历了三次大的增长时期，分别为1958一1960 年和1966—1973年两次规模较大的开荒时期，1996—2009 年持续增长时期。其中，塔里木河流域耕地开发最为严重,60a来耕地净增加面积 $1 0 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 而实际情况是由于20世纪80年代的过度开荒，盲目开荒和经济建设等人为活动造成了一大批耕地质量退化、沙化、盐渍化。新增耕地耕种多年后，由于水资源难以保障、土壤质地不再适宜农作物生产变为荒地、沙地、碱地、最终被弃耕[6]。而据刘新平等学者测算新疆的弃耕或擢荒占比高达 $30 \\%$ ,实际上沙化、盐碱化的土地面积远大于新增耕地的面积，不合理利用土地资源造成区域生态环境的退化。因此，塔里木河流域未利用土地开发与自然生态关系的研究，对当地“生态一经济”、“生态一民生”的协调发展具有重要的指导作用和现实意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "塔里木河流域（ $( 7 3 ^ { \\circ } 1 0 ^ { \\prime } \\sim 9 4 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E } , 3 4 ^ { \\circ } 5 5 ^ { \\prime } \\sim 4 3 ^ { \\circ }$ $0 8 ^ { \\prime } \\mathrm { N } _ { \\cdot } ^ { \\cdot }$ )位于新疆南部，地处天山山脉和昆仑山、帕米尔高原之间，远离海洋，地形封闭。塔里木河是我国最长的内陆河，流域拥有向心聚流的九大水系。主要支流发源于天山、昆仑山、喀喇昆仑山主脊，干流归宿于台特马湖。由于人类活动与气候变化等因素影响，20世纪40年代以前，车尔臣河、克里雅河、迪那河相继与干流失去地表水联系，之后喀什噶尔河、渭干河也逐渐脱离干流。目前与塔里木河干流有地表水力联系的只有阿克苏河、叶尔羌河、和田河，开都河，孔雀河通过扬水站从博斯腾湖抽水经库塔干渠向塔里木河下游灌区输水，形成“四源一干”的水资源格局[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据来源于《新疆统计年鉴2015》、《塔里木河流域耕地开发报告研究2007》、《塔里木河流域耕地监测数据2002,2015》、《近50a来新疆降水空间特征2012》、《新疆荒漠化公报1994,2014》。参考《生态环境状况评价技术规范》( $\\mathrm { ^ { \\circ } H J } + 1 9 2 \\_ { 2 } 0 1 5 \\$ 中水资源生态环境指数、社会生态环境指数和生态环境压力指数，构建评价体系并计算生态环境等级转移矩阵和全局空间自相关MORAN指数，选取1980—2015年未利用土地开垦面积、农业用水量和化肥施用量变动指数做地理加权模型（GWR），对塔里木河流域35a土地开发与生态环境之间的空间响应关系进行分析，并从农业技术改革创新与生态环境保护角度给出参考意见[8-9] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3塔里木河流域土地开发生态演替分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1综合评价法指标体系构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在借鉴《生态环境状况评价技术规范》（ $\\mathrm { H J + }$ 192_2015）、《全国土壤污染状况评价技术规定》和王明铭[10-13]等人生态风险评价方法研究的基础上,考虑数据来源的时间跨度和可获取性，改进并重构生态综合水平评价体系，采用熵值法计算指标权重(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/666b541a93611bad0efb53a57277e3a32cb3e402a984142cb449b51a7777680b.jpg",
+        "img_caption": [
+            "图1塔里木河流域概况",
+            "Fig.1General situation of Tarim River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f88057c55c9bd23759c58c6da957579413efef77454aa7d2e4b3427749c7abd4.jpg",
+        "table_caption": [
+            "Tab.1 Comprehensive ecological environment evaluation index system "
+        ],
+        "table_footnote": [
+            "注：负向指标分值 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ 权重 $\\times ( 1 -$ 负向指标归一化数值) "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>一级指标</td><td>二级指标</td><td>指标性质</td><td>权重</td></tr><tr><td>综合生态环境水平</td><td>水资源生态环境</td><td>全年降水量／mm</td><td>正向指标</td><td>0.0878</td></tr><tr><td rowspan=\"9\"></td><td rowspan=\"4\">社会生态环境</td><td>水资源总量／10m</td><td>正向指标</td><td>0.0807</td></tr><tr><td>人均水资源总量／m·人-1</td><td>正向指标</td><td>0.0847</td></tr><tr><td>人均土地面积／km²·人-1</td><td>正向指标</td><td>0.0874</td></tr><tr><td>耕地面积／104hm²</td><td>正向指标</td><td>0.0810</td></tr><tr><td rowspan=\"6\">生态环境压力</td><td>人均耕地面积／hm²·人-1</td><td>正向指标</td><td>0.0838</td></tr><tr><td>森林覆盖率／%</td><td>正向指标</td><td>0.0939</td></tr><tr><td>人均用水量／m·人-1</td><td>负向指标</td><td>0.079 3</td></tr><tr><td>污水排量／10t</td><td>负向指标</td><td>0.079 8</td></tr><tr><td>废气排放量／10m</td><td>负向指标</td><td>0.079 9</td></tr><tr><td>固体废物／104t 土地沙化率／%</td><td>负向指标 负向指标</td><td>0.080 0 0.0819</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/31cc3d37a1239c98c4a571a5ddbaff5b7de31c7e5521a1d506cb425ee0ddadea.jpg",
+        "table_caption": [
+            "表1综合生态环境评价指标体系",
+            "表2综合生态环境分值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td colspan=\"4\">1980年</td><td colspan=\"4\">2015年</td></tr><tr><td>综合生态 环境分值</td><td>水资源生态 环境分值</td><td>社会生态 环境分值</td><td>生态环境 压力分值</td><td>综合生态 环境分值</td><td>水资源生态 环境分值</td><td>社会生态 环境分值</td><td>生态环境 压力分值</td></tr><tr><td>巴音郭楞州</td><td>0.591 6</td><td>0.132 8</td><td>0.138 1</td><td>0.320 7</td><td>0.701 3</td><td>0.145 1</td><td>0.231 2</td><td>0.325 1</td></tr><tr><td>阿克苏</td><td>0.544 2</td><td>0.090 4</td><td>0.253 1</td><td>0.200 7</td><td>0.523 5</td><td>0.100 8</td><td>0.166 8</td><td>0.255 9</td></tr><tr><td>克孜勒苏州</td><td>0.158 4</td><td>0.104 8</td><td>0.032 6</td><td>0.0211</td><td>0.250 1</td><td>0.123 8</td><td>0.0831</td><td>0.0432</td></tr><tr><td>喀什</td><td>0.386 7</td><td>0.072 1</td><td>0.116 6</td><td>0.198 1</td><td>0.528 5</td><td>0.102 1</td><td>0.157 8</td><td>0.268 6</td></tr><tr><td>和田</td><td>0.244 8</td><td>0.107 5</td><td>0.047 6</td><td>0.089 6</td><td>0.290 3</td><td>0.115 9</td><td>0.058 5</td><td>0.116 0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1980年和2015年综合生态环境分值表明，塔里木河流域生态环境分值除阿克苏地区以外均有所提高，但提高幅度不大。其中，克孜勒苏柯尔克孜自治州(简称：克州)综合生态环境分值提高 $5 7 . 8 9 \\%$ ，生态环境压力分值正向提高 $1 0 4 . 7 4 \\%$ ,涨幅最大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2塔里木河流域生态等级时空演替分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将生态综合水平分值化为百分制，参考《生态环境状况评价技术规范》 $\\left( \\mathrm { H J } + 1 9 2 \\_ 2 0 1 5 \\right)$ 等级划分标准，并运用AcrGIS软件对1980年和2015年两期评价结果等级叠加分析，得到生态等级面积转移百分比矩阵如表3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "面积转移百分比矩阵表明：35a间，较低等级(I)发生正向转移，其中 $8 4 . 8 6 \\%$ 的面积比例转移为低等级(II);低等级(ⅡI)向中等级(III)转移比例为$1 5 . 7 6 \\%$ ，84. $2 4 \\%$ 的比例维持原来水平；中等级(III)向低等级(II)负向转移比例为 $2 3 . 4 6 \\%$ ；较高等级(IV)向中等级(III)负向转移比例为 $1 4 . 5 2 \\%$ ，维持原来水平比例 $8 5 . 4 8 \\%$ ；全部流域内没有出现高等级（V)[14-16]。空间转移结果表明：克州和喀什部分地区发生正向转移；发生负向转移的区域为和田地区的克里雅河流域，阿克苏北部部分区域以及塔里木河末端的且末县。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3土地开发生态演替空间(ESDA)差异性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过ArcGIS空间计算1980 年、2015年塔里木河流域生态环境全局自相关MoranI指数分别为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3生态环境等级转移矩阵百分比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc1c2e1616a0e676b988fcc2a5e4e1fafdf4568b0ab1768b74e0902a2f88bc66.jpg",
+        "table_caption": [
+            "Tab.2 Comprehensive ecological environment value ",
+            "Tab.3Ecological environment grade transfer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">matrix percentage</td></tr><tr><td></td><td></td><td>I(EI <20)</td><td>II(20≤ EI<35)</td><td>IⅢ(35≤ IV (55≤ EI<55) EI<75)</td><td>V(EI ≥75)</td></tr><tr><td>I</td><td>较低等级</td><td>0</td><td>84.86</td><td>15.14 0</td><td>0</td></tr><tr><td>II</td><td>低等级</td><td>0</td><td>84.24 15.76</td><td>0</td><td>0</td></tr><tr><td>IⅢI</td><td>中等级</td><td>0</td><td>23.46 76.54</td><td>0</td><td>0</td></tr><tr><td>IV</td><td>较高等级</td><td>0</td><td>0 14.52</td><td>85.48</td><td>0</td></tr><tr><td>V</td><td>高等级</td><td>0</td><td>0</td><td>0 0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.6595和0.5885，表明35a间塔里木河流域生态综合水平在空间分布上具有相似值的集聚特点。全局Moran $I$ 与空间分布表明：塔里木河下游的巴音郭楞蒙古自治州(简称：巴州)地区呈现较高等级生态水平(IV)的集聚;上游喀什地区和中游阿克苏地区主要以中等级(II)生态水平聚拢分布;塔克拉玛干沙漠腹部的和田地区生态水平处于低等；而在1980年的克州的格达良乡和哈拉峻乡呈现较低等级(I)的生态水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "全局分布呈现“上游良一中游差一下游优”的空间特点。分析认为有三大主要原因：（1）与水资源分布有重要正向相关性。塔里木河上游的喀什、克州地区水资源拥有量分别为 $7 8 . 4 1 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 和$5 6 . 2 3 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 }$ ,而巴州拥有 $1 0 9 . 3 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 的水资源优势,境内有开都河、孔雀河、迪那河、车尔臣河、米兰河以及中国最大的内陆淡水湖一博斯腾湖。（2）与耕地开垦有关。上游喀什地区35a来耕地增加 $6 9 . 7 0 \\ \\mathrm { h m } ^ { 2 }$ ,增幅 $1 4 4 . 9 4 \\%$ ,必然引致上游农业灌溉水量的上涨，挤压生态、生活用水空间，增大生态环境负向压力。塔里木河上游经济发展动力不足，传统农业一直处在促进经济增长的龙头地位，并且民族成分复杂。无论是从农民改善自身经济条件的生存诉求考虑，还是以政府经济发展的政治目标视角，都加速了对后备耕地资源的开发和粗放利用。而往往首当其冲受到破坏的是具有生态保护价值的湿地、草地、荒地等脆弱生态系统,进入“耕地开发一地表水位下降一生态破坏一弃耕擢荒一耕地开发”的恶性循环。（3）与生态条件有关。塔里木河上游环抱塔克拉玛干沙漠,沙漠扩散、迁移是面临的主要生态风险；下游的巴州地区处于天山南麓，拥有地势高聚集水汽的重要优势；而处于塔克拉玛干沙漠腹部的和田地区，以及塔里木河尾端的且末县则长期面临着降水量少、蒸发量大，水源干涸的缺水问题[17-18]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4塔里木河流域土地开发生态响应分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1土地开发生态响应地理加权模型(GWR)分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在塔里木河生态环境空间分布特点分析的基础上，选取未利用土地开发面积、农业用水量和化肥施用量3个指标引入地理加权回归(GWR)模型，对塔里木河流域土地开发与生态变化做回归响应分析，模型回归 $R ^ { 2 }$ 为76.39,调整 $R ^ { 2 }$ 为75.78,模型拟合",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "良好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "未利用土地开发面积地理加权回归系数分布表明：和田、阿克苏、喀什地区未利用土地开发面积与生态环境水平呈负相关，相关系数在 $- 0 . 0 0 6 2 3 7 \\sim$ $- 0 . 0 0 3 5 1 1$ 之间,意味着该地区每增加 $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 未利用地开发规模，综合生态环境分值下降 $0 . 6 \\sim$ 0.35分。克州地区土地开发面积与生态环境水平呈正相关，相关系数在0.013469到0.021410之间，意味着每增加开垦耕地 $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,地区综合生态环境分值上升 $1 . 3 \\sim 2 . 1$ 。预示着该地区土地农业开发潜力较高，在保障当地农业用水当下与未来需求，兼顾上下游水资源配置平衡和农业发展权的前提下，适量的增加土地开发规模能有助于局部地区环境改善。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "农业用水量地理加权回归系数分布表明：塔里木河流域全境内农业用水量与生态环境水平呈负相关，相关系数在 $\\ - 0 . 0 1 0 \\ 3 1 4 \\sim \\ - 0 . 0 0 5 \\ 9 9 7$ 之间。农业用水量每增加 $1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ，上游喀什地区综合生态环境分值下降0.66到0.59；中游阿克苏地区综合生态环境分值下降0.86到0.75；下游巴州地区综合生态环境分值下降1.03到1.0。以玉米、棉花、小麦种植方式每 $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 耕地 $6 7 . 5 \\times 1 0 ^ { 4 } \\mathrm { m } ^ { 3 }$ 的平均标准计算，上游喀什地区农业用水累积增加 $1 6 . 4 6 \\times$ $1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ ,中游阿克苏地区和下游巴州地区累积增加$8 . 0 1 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 和 $8 . 0 8 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ ，分别占地区水资源总量的 $1 5 . 3 0 \\%$ ， $1 3 . 1 3 \\%$ ， $6 . 2 6 \\%$ 。笔者认为塔里木河上游和中游地区要加强农业技术改革创新，主要从3方面思考：农业结构调整方面，选种和培育抗旱节水良种作物，减少农业用水量;灌溉技术方面，推广和研发高效节水技术；水资源储备和利用方面，改善水利设施条件，对经久失修的灌溉管道、沟渠实时抢修,降低输水损耗值[19]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化肥施用量地理加权回归系数分布表明：化肥施用量与生态环境水平呈负相关，相关系数在$- 0 . 0 5 6 \\ 0 2 4 \\sim \\ - 0 . 0 0 3 \\ 3 6 9$ 之间。全流域境内每增加 $1 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 化肥施用量，综合生态环境分值平均下降0.245。其中，喀什与阿克苏地区化肥施用量与生态环境水平负向系数最大，该地区单位弹性变量系数平均值为0.51。该地区生态水平脆弱，生态环境易受化肥施用量的干扰，化肥施用量累计压力已经超过水土地生态环境容纳阈值，生态水平呈现报酬递减现象。而喀什与阿克苏两地35a耕地面积增幅分别为 $1 4 4 . 9 4 \\%$ ， $7 8 . 7 3 \\%$ ,按照现行农业生产方式,化肥施用量分别增加 $3 2 . 0 6 \\times 1 0 ^ { 4 } \\mathrm { ~ t } , 1 5 . 6 0 \\times$ $1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,累积增加 $1 1 2 2 . 2 2 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ } , 5 4 6 . 1 6 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 。巨大的化肥施用量，一方面增加土壤环境承载压力，耕地产量下降。而传统的耕作思维误区是“产量下降，追加施肥”，进入投入增加与产量递减的死胡同。另一方面，长期的化肥累积施用隐藏较高的地下水矿化度升高风险，不利于局部水资源生态圈的循环与自我修复，威胁土地生态安全与农业开发环境[20]",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e56a5c0acc98b69843ac1db88bc378fb3e1d9fe97e3c3c6acbe49bcba677973.jpg",
+        "img_caption": [
+            "焦伟等：塔里木河流域土地开发的生态响应研究",
+            "图21980—2015年塔里木河流域生态环境变化与耕地开垦面积GWR模型分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a6166f28d71247f716a4c552807fde95a6f23f6359831b201a46b9406465df3.jpg",
+        "img_caption": [
+            "ig.2EcologicalenvironmentchangeandcultivatedlandreclamationareaGWRmodeldistrbutionofTarimRiverBasinfrom98to20 ",
+            "图31980—2015年塔里木河流域生态环境变化与农业用水量GWR模型分布",
+            "Fig.3Ecologicalenvironmentchangeandagricultural waterconsumptionGWRmodeldisributionofTarimRiverBasinfrom980to0l "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3296c355dcb5a1a341848e7528529fb787f860a5c890797bb89b5e5cb1fd699f.jpg",
+        "img_caption": [
+            "图41980—2015年塔里木河流域生态环境变化与化肥施用量GWR模型分布Fig.4Ecological environment change and Fertilizer application rate GWR model distribution in Tarim RiverBasin from 1980 to 2015"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2土地开发生态响应预警分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在改进生态综合水平评价体系与土地开发生态响应分析结果的基础上，构建塔里木河流域“土地开发一生态风险预警”模型，确定生态风险评价方程(1)和预警界限测算方程(2）。预警界限即土地开发与“人口一社会一生态”系统承载力指数的最大值，预警区间以实际风险值与预警界限差值百分比Z值划分[21]",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { f = \\alpha X _ { 1 } + \\beta X _ { 2 } + \\chi X _ { 3 } + \\cdots + \\zeta X _ { n } } \\\\ { \\qquad } \\\\ { M = a _ { 1 } Y _ { 1 } + a _ { 2 } Y _ { 2 } + a _ { 3 } Y _ { 3 } + \\cdots \\cdots + a _ { n } Y _ { n } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $X$ 为评价指标； $\\alpha , \\beta , \\cdots \\zeta$ 对应指标权重；Y为子系统承载力指标； $\\textstyle { a _ { n } }$ 对应指标权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土地开发一生态风险预警结果看出，阿克苏与巴州地区社会生态承载力指数在塔里木河流域处于较高水平，预警界值 $M$ 分别为0.5143和0.4356，但以未利用地开发为动力的农业经济模式在两地区内却累积较高的生态风险，其土地开发生态风险 $f$ 值分别为0.4369和0.3435，达到环境资源承载力指数的 $7 5 \\%$ 以上，预警程度到达ⅡI级以上。克州地区环境承载力指数虽为塔河流域最低值，但其土地开发生态风险指数 $f$ 值仅为阿克苏地区的 $3 3 \\%$ ，低于本地区生态预警界限的 $5 0 \\%$ 水平，处于土地开发生态安全范围。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步对土地开发规模与生态风险评价因子做相关性分析，得到土地开发生态风险预测方程（4）。结果显示，每 $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 未利用土地开发,巴州、阿克苏、克州、喀什、和田地区的生态风险指数分别增加$0 . 0 0 2 \\ 1 \\ , 0 . 0 0 6 \\ 2 \\ , 0 . 0 0 3 \\ 2 \\ , 0 . 0 0 2 \\ 2 \\ , 0 . 0 0 3 \\ 5$ ，全流域风险指数增长均值为0.0034。以2015年的环境现状为基础，巴州地区在增加 $1 5 \\times 1 0 ^ { 4 } \\sim 2 0 \\times 1 0 ^ { 4 } ~ \\mathrm { { h m } } ^ { 2 }$ 耕地后，生态风险将逼近并超过环境预警界限；阿克苏地区距离预警界限只有不足 $1 4 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 的土地开发规模区间，以2000—2015年均 $2 . 2 5 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 未利用地开发规模计算，阿克苏地区将在2022 年前后进入土地开发生态风险极重度警告阶段；塔里木河上游克州地区将在 $1 5 \\mathrm { ~ a ~ }$ 之后进入中度警告阶段，喀什地区在8a之后超过预警界限，与此同时和田地区将进人重度警告阶段，离预警界限仍有 $1 6 \\times$ $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 土地开发的警度转化区间。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d161491ae037632f28f88d3d5214d0da3d2dc025ddb7daea1cf7886efd6af96.jpg",
+        "table_caption": [
+            "表4土地开发一生态风险预警模型结果",
+            "Tab.4Results of land development ecological risk early warning model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td>未利用 发地开积</td><td>农业 脉量</td><td>化肥 施量</td><td>土地 沙</td><td>水土 流失</td><td>土壤 金晗量</td><td>自然 姓率</td><td>环境 加力</td><td>土地 开发</td><td>土壤 力</td><td>水资 源承力</td><td>实际风</td><td rowspan=\"3\">预级</td><td rowspan=\"3\">预警度 V</td></tr><tr><td>X</td><td colspan=\"2\"></td><td></td><td>X4 X5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td colspan=\"4\">X X</td><td>X6</td><td>X7</td><td>Y</td><td>Y 预警界限M</td><td>Y Y4</td><td>百分比 Z</td><td></td></tr><tr><td></td><td></td><td colspan=\"6\">土地开发生态风险指数f 0.343 5</td><td colspan=\"4\"></td><td>0.211 4</td><td>II(0.2≤Z<0.35)</td><td>中度警告</td></tr><tr><td>巴州</td><td></td><td colspan=\"6\"></td><td colspan=\"6\"></td><td>重度警告</td></tr><tr><td>阿克苏</td><td></td><td colspan=\"6\"></td><td colspan=\"6\"></td><td>无警告</td></tr><tr><td>克州</td><td></td><td colspan=\"6\">0.142 8 0.304 4</td><td colspan=\"6\">0.2983 0.396 7</td><td>中度警告</td><td></td></tr><tr><td>喀什 和田</td><td></td><td colspan=\"6\"></td><td colspan=\"6\"></td><td>II(0.2≤Z<0.35) III(0.35≤Z<0.5)</td><td>轻度警告</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { { X _ { i } = b _ { i } X _ { 1 } + C \\qquad \\left( i = 2 , 3 , \\cdots , 7 \\right) } } \\\\ { { \\qquad } } \\\\ { { F = c _ { k } X _ { k } \\qquad \\left( k = 1 , 2 , \\cdots , 7 \\right) } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中： $X$ 为生态风险评价因子； $b$ 为响应系数; $X _ { 1 }$ 为未利用地开发面积； $X$ 为生态风险评价因子； $c$ 为因子权重； $F$ 为风险指数。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.1土地开发生态时空演替与响应分析结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文通过对塔里木河流域土地开发生态时空演替分析，得到土地开发与流域生态水平变化基本状况，引入GWR模型探究流域土地开发与生态响应空间关系，最后构建“土地开发一生态风险预警”模型得到以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1980—2015年克州和喀什地区生态等级正向转移比例较大， $8 4 . 8 6 \\%$ 的比例由较低等级(I)正向转移为低等级(II)；和田地区的克里雅河流域，阿克苏北部区域以及塔里木河末端且末县等级退化严重，负向转移比例 $2 3 . 4 6 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "和田、阿克苏、喀什地区每增加开垦 $1 \\times 1 0 ^ { 4 } \\ \\mathrm { h m } ^ { 2 }$ 耕地，综合生态环境分值下降 $0 . 6 \\sim 0 . 3 5$ ,而克州地区则上升 $1 . 3 \\sim 2 . 1$ 。每增加 $1 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ 农业用水量，上游、中游、下游综合生态环境分值分别下降$0 . 6 6 \\sim 0 . 5 9 _ { . } 0 . 8 6 \\sim 0 . 7 5 _ { . } 1 . 0 3 \\sim 1 . 0$ 。上游地区每$1 \\times 1 0 ^ { 4 } \\mathrm { h m } ^ { 2 }$ 生态退耕将实现年 $6 7 . 5 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 3 }$ 的生态退水，并提高综合生态环境分值 $0 . 2 1 \\sim 0 . 3 5$ ,中游地区综合生态环境分值提高 $0 . 0 1 \\sim 0 . 3 5$ 。全流域每增加 $1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 化肥施用量，综合生态环境分值平均下降0.24。上游喀什与中游阿克苏两地区每 $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 生态退耕，每年将分别化解 $3 2 . 0 6 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和 $1 5 . 6 0 \\times$ $1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 化肥污染压力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "阿克苏与巴州地区社会生态承载力指数在流域内处于较高水平，而土地开发生态风险已达到环境资源承载力指数的 $7 5 \\%$ 以上，预警程度超过ⅡI级。克州地区土地开发生态风险低于本地区预警界限的$5 0 \\%$ 水平，处于土地开发生态安全范围。巴州地区在增加 $1 5 \\times 1 0 ^ { 4 } \\sim 2 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 耕地后,生态风险将逼近并超过环境预警界限，阿克苏地区将在2022年前后进入土地开发生态风险极重度警告阶段。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2土地开发与生态保护建议",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土地开发方面：第一，克州地区在兼顾地区人口发展与社会经济水平的基础上，可以保持每年0.3$\\times 1 0 ^ { 4 } \\sim 1 . 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 的未利用地开发增量速度。阿克苏地区在提升现有耕地质量的同时，应适当核减生态脆弱区内和生态风险较高的耕地数量，采取生态退耕，生态退水措施提高环境承载力。第二，喀什与和田地区着重解决人均耕地规模与农业人口生活水平同步提高问题，构建土地开发潜力与少数民族劳动力平衡体系，实现耕地输入与劳动力输出协调发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "农业用水方面：第一，建立塔里木河流域生态退水补偿机制。上游克州地区耕地开垦面积不足中游阿克苏地区的 $10 \\%$ ，不足下游巴州地区的 $1 5 \\%$ 。上游地区在维护水源，对抗生态压力方面牺牲水源优势，中下游地区获得耕地开发效益，理应受到中下游水源价值补偿。建议推动上下游水资源价值流域内部补偿机制研究，完善流域内部财政转移支付制度，弥补上游生态保护财政亏空。第二，创新节水灌溉良种培育技术。上游和中游地区要推动抗旱节水良种作物选种培育技术的突破，并减少输水浪费，弱化耕地开发引起的生态用水不足等生态压力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "农地施肥方面：第一，转变“低产—增肥一减产一再追肥”的传统施肥思维模式，向“减肥”和“化肥用量零增长”模式探索创新。推进上游地区施肥技术，施肥结构的科学化，高效化，生态化和可持续化理论与试验探究；化解下游地区大区域、长期性累积施肥引起的土壤生态和水质矿化压力。第二，改进流域内农业区落后的农业生产模式与“粗放式”政策引导历史弊端。一方面，引入并发挥家庭农场、专业合作社、农业企业等新型经营主体的示范带头作用，实现单位土地技术投入增加，化肥投入减少。另一方面，通过补贴与管制两种手段引导农业主体施肥结构优化调整，逐步实现\"减量先行，增量为零\"的目标[21] C",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]王俊娜,董哲仁,廖文根,等.基于水文一生态响应关系的环境 水流评估方法——以三峡水库及其坝下河段为例[J].中国科 学：技术科学,2013,43（6）:715-726.[WANGJunna,DONG Zheren,LIAO Wengen,et al.Evaluation method of hydrological and ecological response relationship between water environment based on the Three Gorges Reservoir and its downstream river as an example[J].Scientia Sinica(Technologica）,2013,43（6）:715-   \n726.] [2]杨建强，朱永贵，宋文鹏,等.基于生境质量和生态响应的莱州 湾生态环境质量评价[J].生态学报，2014,34（1)：105-114. [YANG Jianqiang,ZHU Yonggui,SONGWenpeng,etal.Ecological environment quality assessment ofLaizhou Bay based on habitat quality and ecological response[J].Journal of Ecology,2O14,34 (1):105-114.] [3］雷亚龙,陈菁,孙伯明.张家港土地利用变化预测及生态响应 [J].中国农村水利水电,2016，（5）： $3 3 - 3 6 + 4 0$ [LEI Yalong, CHEN Jing,SUN Boming.Prediction of land use change and ecological response in Zhangjiagang[J].China Rural Water and Hydropower,2016,（5） $: 3 3 - 3 6 + 4 0 .$ ] [4］唐志强，曹瑾,党婕.水资源约束下西北干旱区生态环境与城 市化的响应关系研究——以张掖市为例[J].干旱区地理，   \n2014,37(3）:520-531.[TANG Zhiqiang,CAO Jin,DANG Jie. Under the restriction of water resources and ecological environment ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "in northwest arid area of the City's response relationship:A case studyof Zhangye city[J].AridLand Geography,2014,37(3） :520 -531.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5］刘华,陈亚宁,杨晓明.塔里木河下游生态响应遥感监测研究 [J].干旱区地理,2007,30（2）:203－208.[LIUHua,CHEN Yaning,YANG Xiaoming. Remote sensing monitoring of ecological response in the lower reaches of Tarim River[J].Arid Land Geography,2007,30(2）:203-208.]   \n[6］刘新平,韩桐魁.新疆绿洲生态环境问题分析[J].干旱区资源 与环境,2005,19(1）:22-28.[LIU Xinping,HAN Tongkui.Ecological environment analysis of Xinjiang oasis[J]. Journal of Arid Land Resources and Environment,2005,19(1）:22-28.]   \n[7］新疆塔里木河流域管理局 Xinjiang Tarim River Basin Authority http://www.tahe.gov.cn/Category_1/Index.aspx.   \n[8］慈晖,张强,张江辉,等.1961—2010 年新疆极端降水过程时空 特征［J].地理研究,2014,33（10）:1881－1891.［CI Hui, ZHANG Qiang,ZHANG Jianghui,et al. Study on the temporal and spatial characteristics of extreme precipitation in Xinjiang during 1961—2010[J]. Geographical Research,2014,33（10）:1881 - 1891.]   \n[9]钱亦兵,樊自立,雷加强,等.近50a新疆水土开发及引发的生 态环境问题[J].干旱区资源与环境,2006,20（3）：58-63. [QIAN Yibing,FAN Zili,LEI Jiaqiang,et al.Exploitationof water and land resources and its ecoenvironment issues in Xinjiang of China in recent 5O a[J]. Journal of Arid Land Resources and Environment,2006,20(3）:58-63.]   \n[10］王明铭.未利用地综合利用环境影响评价的研究[D].兰州： 兰州大学,2015.[WANG Mingming. Study on environmental impact assessment of comprehensive utilization of unused land[D]. Lanzhou:Lanzhou University,2015.]   \n[11］陈莉.基于PCA-GASVM的晋陕甘宁地区生态环境评价［J]. 干旱区地理,2015,38（6）:1262-1269.[CHEN Li.Ecological environment of Shaanxi Gansu Ningxia region based on PCA-GASVM evaluation[J].Arid Land Geography 2015,38（6）:1262- 1269.]   \n[12］吕光辉.中国西部干旱区生态安全评价、预警与调控研究 [D].乌鲁木齐：新疆大学,2005.[LU Guanghui.Ecological security assessment,early warning and regulation in arid areasof Western China[D].Urumgi:Xinjiang University,2005.]   \n[13］谭克龙.塔里木河流域生态环境动态监测系统研究与开发 [D].西安:陕西师范大学,2007.[TAN Kelong.Research and development of ecological environment dynamic monitoring system in Tarim River Basin[D].Xi'an; Shanxi Normal University, 2007.]   \n[14］王水献.开孔河流域绿洲水土资源开发及其生态环境效应研 究[D].乌鲁木齐：新疆农业大学,2008.［WANG Shuixian. Study on soil and water resources development and ecological environment effect of oasis in Kaiken River Basin[D]. Urumgi: Xinjiang Agricultural University,2008.]   \n[15］李吉龙,刘新平.基于BP 神经网络的未利用地开发生态风险 预警研究—以新疆阜康市为例[J].江苏农业科学,2015,43 （10）:500 -503.[LI Jilong,LIU Xinping.Research on ecological risk early warning based on BP neural network: Xinjiang Fukang City as an example[J]. Jiangsu Agricultural Sciences 2015,43 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（10):500-503.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[16］赵俊,刘新平，刘向晖,等.塔里木河流域农牧系统耦合协调度 分析[J].干旱区地理,2015,38(5）:1077-1084.［ZHAO Jun, LIU Xinping,LIU Xianghui,et al.Analysis of coupling degree of agriculture and animal husbandry system in Tarim River Basin [J].AridLand Geography,2015,38(5）:1077-1084.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[17］张维宸.未利用地：新一轮西部大开发的新引擎［J].中国土 地,2012,（12）:27-29.[ZHANG Weichen.Unused land:A new engine fora new round of western development[J].China Land, 2012,(12):27-29.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18」吕晓，刘新平，李振波.塔里木河流域生态经济系统耦合态势分析[J].中国沙漠，2010，30（3）：620-624.［LUXiao，LIUXinping,LI Zhenbo.Coupling analysis of ecological economic sys-temin TarimRiverBasin[J].Journal ofDesertResearch,2O10,30(3):620-624.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[19］雍会.农业开发对塔里木河流域水资源利用影响及对策研究[D].石河子：石河子大学,2011.［YONG hui.Impacts of agri-cultural development on water resourcesutilization in Tarim River",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Basin[D].Shihezi:Shihezi University,2011.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20］周朕,蒙吉军.基于改进生态足迹模型与生态重要性识别的最 小生态用地优化——黑河中游案例研究［J].干旱区地理， 2016,39（3）:513-520.［ZHOU Zhen,MENG Jijun.Minimum ecological land use optimization based on improved ecological footprint model and ecological importance recognition:A case study of the middle reaches of the Heihe Rive[J]Arid Land Geography, 2016,39(3):513 -520.]   \n[21］方创琳,杨玉梅.城市化与生态环境交互耦合系统的基本定律 [J].干旱区地理,2006,29（1）:1-8.[FANGChuanglin,YANG Yumei.Basic laws of interaction system between urbanization and eco -environment[J].Arid Land Geography,2006,29（1）:1 - 8.]   \n[22］中国力争2020年化肥使用量零增长：农业减\"肥”难在哪[N/ OL]人民上报,2015,12-21.［China is striving for zero growth in fertilizer use in 2O2O.Where is the difficulty of reducing the amount of fertilizer[N/OL]?People's daily,2015.http://www. chinanews.com/gn/2015/12-21/7679742.shtml.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ecological response to the land development in Tarim River Basin ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "JIAO Wei1，LIU Xin-ping²， ZHANG Lin'，LIANG Ling-xia' (1School of Management,Xinjiang Agricultural University,Urumqi 83oo52,Xinjiang,China; 2Institute of Land Science,Xinjiang Agricultural University,Urumqi 83oo52,Xinjiang,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Over the past 6O years,the cultivated land area of the Tarim River has increased by about one millon $\\mathrm { { h m } } ^ { 2 }$ ,resulting in many ecological and environmental security problems within the basin. Using ESDA spatial analysis method and GWR model,this paper selects the water resources ecological environment index,social ecological environment index and ecological environment pressure index to study the ecological response to the land development and itstemporal spatial evolution in the Tarim River Basin in 35 years from198Oto 2O15.Then the model on the land development versus ecological risk early-warning was built andthe conclusion was summarized as follws:from 1980 to 2O15,theecologicallevel of Kizilsu Kirgiz Autonomous Prefectureand Kashi Prefecture hadabig portionof positive transfer at $8 4 . 8 6 \\%$ from the lower grade（I） to low level（II).The ecological environment grades of the Keriya River Basin in Hotan Prefecture,northern Aksuand Qiemo Countyontheendofthe Tarim River were seriously degraded with a negative transfer ratio at $2 3 . 4 6 \\%$ .In Hotan,Aksu,and Kashi Prefectures,each increased of 10 thousand $\\mathrm { { h m } } ^ { 2 }$ of reclamation of unused land,the comprehensive ecological environment score was dropped by 0. 6 to 0.35 points,while in the Kizilsu Kirgiz Autonomous Prefecture area it was increasedby1.3\\~2.1 points.Defarming one million $\\mathrm { { h m } } ^ { 2 }$ of cropland in Kashi and Aksu each year will amount to the alleviation of the pollution pressureof O.32million tonsandO.15 million tonsof chemical fertilizerrespectively.Theecological riskof land development in Aksu and Bayingolin Mongol Autonomous Prefecture reaches more than $7 5 \\%$ of the environmental carrying capacity index,and the early warning level is more than II.The land developmentin Kizilsu Kirghiz Autonomous Prefecture is in the ecological security range.With ten thousand $\\mathrm { h m } ^ { 2 }$ of unused land development,the average growth of risk index in the whole basin was O.OO3 4.If Bayingolin Prefecture increases $0 . 1 5 \\sim 0 . 2 0$ million $\\mathrm { { h m } } ^ { 2 }$ of arableland,the ecologicalrisk willbeclosetoand even exceedthe warning limit.Kizilsu Kirgiz Autonomous Prefecture will enter the stage of moderate warning after 15 years. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:land development； ecological response；GWR；ecological early-warning； Tarim River Basin",
+        "page_idx": 8
+    }
+]

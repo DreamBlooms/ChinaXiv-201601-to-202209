@@ -1,0 +1,430 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201507171508 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜沛沛,曹扬,陈云明,赵一娉.陕西省3种主要树种叶片、凋落物和土壤N、P化学计量特征.生态学报,2017,37(2):443-454.JiangPPCaoecacteislitdltriProvince.Acta Ecologica Sinica,2017,37(2）:443-454.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陕西省3种主要树种叶片、调落物和土壤N、P化学计量特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜沛沛',曹 扬²2,3，陈云明2,3，\\*，赵一娉1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西北农林科技大学林学院，杨凌712100  \n2 西北农林科技大学黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100  \n3中国科学院水利部水土保持研究所，杨凌712100",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以陕西省29个县(市)39个样点的刺槐、辽东栎和油松林为研究对象,分析比较不同树种乔木叶片、凋落物与土壤N、P化学计量特征及其与经纬度、海拔、年均温度和年降水等环境因子间关系的异同以及三者之间可能存在的关系,以期为认识陕西省主要森林树种养分限制状况、制定合理的植被管理和恢复措施提供理论依据。结果表明:3树种叶片N、P 含量及比值均为刺槐 $>$ 辽东栎 $\\mathrel { \\mathop : } >$ 油松，与叶片相比，凋落物中 $_ { \\textrm { N } , \\textrm { P } }$ 含量变化幅度较小，为刺槐 $>$ 辽东栎 $: >$ 油松， ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值为油松 $ { \\mathrm {  ~ \\cdot ~ } } >$ 辽东栎 $: >$ 刺槐。10—$2 0 ~ \\mathrm { c m }$ 与0 $1 0 \\ \\mathrm { c m }$ 土层相比,3 树种中除辽东栎中P含量差异不显著外,其它指标N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值均显著下降( $_ { _ { P < 0 . 0 5 ) } }$ 。刺槐、辽东栎和油松叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量与土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量均没有显著相关性,以刺槐、辽东栎和油松3种植物叶片为总体来说,P含量与土壤P含量显著正相关( $. P { < } 0 . 0 5 )$ 。叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量均大致表现出随着年均温度和年降水的增加而增加,随着经纬度的增加而降低的趋势,这一点在刺槐叶中最为明显。凋落物N 含量随着年均温度和年降水的增加而增加,随着纬度和经度的增加而降低;P含量随着年降水和经度的增加而降低； ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值随着年均温度和年降水的增加而增加,随着纬度的增加而降低。研究区内,土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量随着纬度、海拔的增加和年均温度、年降水、经度的降低而增加, ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值则呈相反的趋势。3树种土壤 N、P含量及 $\\mathrm { N } : \\mathrm { P }$ 比值中,P含量比N含量受环境影响更大,且0一 $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与各环境因子的关系基本一致。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：刺槐;辽东栎;油松；土壤;化学计量特征；地理因子；气候因子",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "N and P stoichiometric characteristics of leaves， litter，and soil for three dominant tree species in the Shaanxi Province ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Peipei1 ,CAO Yang2,3,CHEN Yunming2,3,\\* ,ZHAO Yiping1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1College of Forestry,Northwest Agriculture and Forestry University,Yangling 7121Oo,China   \n2StateKeboorfSlsddgosstufSldeseced University，Yangling 712100,China   \n3InstuteofSoilandWaterConservation,ChineseAcademyofSiencesandMinistryofWaterResources，Yangling7Cina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Plant nutrient stoichiometrycanbeusedtodistinguish the biological entitiesbasedon elementcompositionand responses to environmental factors.We determined the N and $\\mathrm { \\bf P }$ stoichiometry for leaves，litter，and soil associated with 3 dominanttreespecies:Robinia pseucdoacacia，Quercus liaotungensis，andPinus tabulaeformis，at39 sites in29countylevel cites of the Shaanxi Province.We aimed to distinguish the differences in leaf,litter，and soil N and $\\mathrm { \\Delta P }$ stoichiometry among thediferent treespecies，and theirrelationships with environmental factors in the Shaanxi Province.Leaf Nand $\\mathrm { ~ \\bf ~ P ~ }$ concentrations and their ratios，were Robinia pseucdoacacia $>$ Quercus liaotungensis $>$ Pinus tabulaeformis. Compared with plant leaves，the range and quantity of litter N and P concentration significantly reduced ( $P { < } 0 . 0 5$ ），and the order was still Robinia pseucdoacacia $>$ Quercus liaotungensis $>$ Pinus tabulaeformis，while the order for the $\\mathrm { ~ N ~ } : \\mathrm { ~ P ~ }$ ratio was Pinus tabulaeformis $>$ Quercus liaotungensis $>$ Robinia pseucdoacacia. There were no significant correlations ( $\\scriptstyle P < 0 . 0 5$ ）between Robinia pseucdoacacia， Quercus liaotungensis ，and Pinus tabulaeformis leaf N（or $\\mathrm { \\Delta P }$ ）and soil N（or $\\mathrm { ~ P ~ } { }$ ），indicating that their growth was not limited by N or $\\mathrm { \\bf P }$ . In total， there were significant correlations between leaf $\\mathrm { \\Delta P }$ and soil $\\mathrm { ~ \\bf ~ P ~ }$ （ $\\scriptstyle P < 0 . 0 5$ ）， which indicated that the growth of the plant was limited by $\\mathrm { P }$ in the Shaanxi Province.Leaf N and $\\mathrm { \\Delta P }$ increased with mean annual temperature and precipitation，especially for Robinia pseucdoacacia.The leaf $\\mathrm { N } : \\mathrm { P }$ ratio for the 3 tree species did not clearlycorelatewith theenvironmental factors.LiterN increased with mean annual temperatureand precipitation，and decreased depending on the latitude and longitude.Although litter $\\mathrm { \\Delta P }$ showed no significant relationships with temperature and latitude ( $\\textstyle P < 0 . 0 5 .$ ），it declined with precipitation and longitude.Litter $\\mathrm { N } : \\mathrm { P }$ ratio increased with temperature and precipitation and decreased with latitude. Soil N and $\\mathrm { \\Delta P }$ increased with latitude and altitude，and decreased with mean annual temperature，mean annual precipitation，and longitude.The soil $\\mathrm { N } : \\mathrm { P }$ ratios demonstrated an opposite trend. Soil $\\mathrm { P }$ （20 was more closely correlated with environmental factors than N,and therelationship between theO—1O cm and $1 0 { - } 2 0 ~ \\mathrm { c m }$ （204号 N and $\\mathrm { \\Delta P }$ stoichiometry in terms of environmental factors was almost the same. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：Robinia pseucdoacacia；Quercus liaotungensis；Pinustabulaeformis；soil；stoichiometric characteristics; geographical factors；climate factors ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从分子到生态系统都是元素按一定比例组成的,生态化学计量学正是研究生态过程中多重化学元素平衡关系的学科[1],并从元素比率的角度把这些不同层次的研究结果统一起来[2],为生态系统过程中土壤—植物的养分供给及组成平衡提供了新的研究思路和手段[1],对认识生态系统养分循环具有重要的科学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氮(N)和磷(P)是陆地生态系统中植物生长的主要限制性资源,在植物体内存在功能上的联系[3-4],N 和P元素对植物的生长、发育都起着非常重要的作用； $\\mathrm { N } : \\mathrm { P }$ 比值可以反映植物的生长速率、可以作为对生产力起限制性作用的营养元素的指示剂[5-6]。近年来,大量关于植物叶片化学计量特征与环境因子关系的研究发现,在大尺度上植物叶片N、P含量随着纬度的升高和温度的降低而显著增加, $\\mathrm { N } : \\mathrm { P }$ 比值则成相反的趋势[7-8]；而黄土高原地区126个植物样品的叶片N、P含量与纬度、温度和降雨量均无明显的相关性,而 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值随着纬度升高、温度和降雨量的减少而明显增加[9],北方典型荒漠及荒漠化地区植物叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量以及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与各研究区年平均温度没有明确相关性[10],因此,有关植物叶片N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值在区域尺度与环境因子的关系研究仍不十分清楚。凋落物主要养分含量直接影响养分归还质量和归还速率,间接影响植物根系对水和矿物质的吸收,具有增加土壤养分含量及含水量、增大土壤比热容量等生态功能[11],在陆地生态系统的养分循环中扮演重要角色;土壤作为生态系统中生物与环境相互作用的产物,对于植物生长起关键性作用，直接影响植物群落的组成与生理活力,决定生态系统的结构、功能和生产力水平[12],因此开展凋落物与土壤化学计量特征与环境因子关系的研究亦很重要，然而与逐渐明晰的叶片与环境因子的关系相比，凋落物和土壤化学计量特征与环境因子关系的研究依然有待加强。我国学者对生态化学计量学的研究起步较晚,开始主要集中在区域和生态系统尺度上[13-14],随着生态化学计量学研究的发展,开始展开对同一区域不同森林类型生态化学计量学的研究[15-17],然而针对同一区域不同树种间 N、P 化学计量特征及其与环境因子和土壤 $_ { \\textrm { N } , \\textrm { P } }$ （204号化学计量特征等影响因子关系异同的研究却鲜见报道。目前已对不同空间尺度、不同植被类型和不同演替阶段植物叶片的化学计量特征进行了大量研究[13-19],对土壤及调落物养分含量的研究也较多[16.19],但将三者联系起来探讨它们之间化学计量特征变化的研究却相对较少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "据全国第九次森林资源清查结果数据显示,陕西省森林覆盖率达 $4 3 . 0 6 \\%$ ,主要分布在秦岭、巴山、关山、桥山和黄龙山5大林区，这5大林区有林地面积占全省的 $7 9 \\%$ ,林分蓄积量占全省 $9 4 \\%$ ，且以天然次生林为主[20-21],主要的优势树种有栎类（Quercus spp.）、云杉（Picea asperata）、冷杉（Abies fabri）、油松（Pinustabulaeformis）、樟子松（Pinus sylvestnis）、落叶松（Larixgmelinii）、刺槐（Robinia pseucdoacacia）、侧柏（Platycladus orientalis)等[22]。本文选取在陕西省分布较广、面积和蓄积权重较大的主要树种——刺槐、辽东栎（Quercus liaotungensis）和油松为研究对象,分析比较不同树种乔木叶片、凋落物与土壤 $_ { \\textrm { N } , \\textrm { P } }$ 化学计量特征及其与经纬度、海拔、年均温度和年降水等环境因子之间关系的异同以及三者之间可能存在的关系,以期为认识陕西省主要森林树种养分限制状况、制定合理的植被管理和恢复措施提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究依托“陕西省森林生态系统固碳现状、速率、机制和潜力”课题,共选取了39个样点，其中刺槐12个 辽东栎14个、油松13个，在陕西省从南到北分布涉及勉县、镇安县、商南、山阳、太白、眉县、周至、蓝田、商州、洛南、凤县、陈仓区、千阳县、彬县、耀州区、旬邑、宜君、黄陵、黄龙、韩城、富县、洛川、宜川、宝塔区、甘泉、志丹、安塞、绥德和米脂等29个县市(图1)，区内北部和西北部属半干旱季风气候区，中南部属暖温带半干旱季风气候区。区间范围 $3 3 ^ { \\circ } 1 2 ^ { \\prime } 1 5 \" - 3 7 ^ { \\circ } 4 5 ^ { \\prime } 9 \" \\mathrm { N } , 1 0 6 ^ { \\circ }$ $4 4 ^ { \\prime } 2 6 \" - 1 1 0 ^ { \\circ } 5 9 ^ { \\prime } 9 \" \\mathrm { ~ E ~ }$ ,地势西北高东南低,海拔500—$1 9 0 0 \\mathrm { ~ m ~ }$ ,年均气温8— $1 4 \\mathrm { { ^ circ C } }$ ,年降雨量 $4 5 0 { \\mathrm { - } } 8 5 0 \\ \\mathrm { m m }$ ，降雨多集中在7一8月，温度和降雨量从东南至西北递减，受山地地形影响比较显著，具有明显地域性。主要土壤类型有黑鲈土、黄绵土等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2野外调查采样与分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于2011年7月野外调查采样，每个样点设置3个$2 0 ~ \\mathrm { m } { \\times } 5 0 ~ \\mathrm { m }$ 的样地，记录样地经纬度、海拔、坡向、坡度等信息。由于刺槐、辽东栎、油松样地中均包含幼龄、中龄、近熟林、成熟林,且分布比例基本一致，故可忽略林龄的影响。在每个样地中按大、中、小径级选取3株健康树木取样,分东、西、南、北4个方位采摘其冠下部(距地面2— $\\cdot 3 \\mathrm { ~ m ~ }$ )的成熟叶片，混匀后从中取大约 $3 0 0 ~ \\mathrm { g }$ 样品;在样地内按对角线设置3个 $1 \\mathrm { ~ m ~ } \\times \\mathrm { ~ 1 ~ m ~ }$ 的小样方，收集样方内所有凋落物，混合均匀后取约 $3 0 0 ~ \\mathrm { g }$ 样品。在每个样方内,按对角线法确定3个点,用土钻采集0—$1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 层土样,按土层混合均匀后带回实验室。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6beeee8ba0603506012b8d43919f041388ae1dc2540edc751106d9e81c7ed329.jpg",
+        "img_caption": [
+            "图13种主要树种样点分布图",
+            "Fig.1 Distribution of sampling sites for 3 dominant tree specie: "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植物样品在 $8 5 \\mathrm { ^ \\circ C }$ 条件下烘干至恒重,粉碎、过筛;土壤样品风干后,剔除草根、石头等杂物,研磨过0.25$\\mathbf { m } \\mathbf { m }$ 孔径筛,经浓硫酸—过氧化氢溶液消煮后的消煮液,用于植物和土壤N、P含量的测定,全N 用凯氏定氮法测定；全P用硝酸-高氯酸消煮-钼锑抗分光光度法测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3气象数据的获取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从距离每个样点最近的气象站获得39个样点1970—2010年的平均温度和年降水等气象数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对叶片、调落物和土壤的 $_ { \\textrm { N } , \\textrm { P } }$ 含量及N:P比值进行以10为底的对数转化[7],以使数据更好的满足正态分布和方便作图。采用One-Way ANVOA单因素方差分析比较不同树种叶片、凋落物与土壤N、P含量及比值差异是否显著。多重比较时,首先进行方差齐性检验，若方差为齐性,用LSD法进行多重比较;若方差为非齐性,则用Tamhane's T2 法进行多重比较[9]。采用Pearson 相关分析,检验叶片、凋落物与土壤N、P含量及比值与环境因子之间的关系以及三者之间可能存在的关系。以T检验,判断叶片与凋落物中和不同土层中同一测定指标差异是否显著。以上所有统计分析均在 SPSS statistics 19.0 中完成。表中数据均采用平均值 $\\pm$ 标准差；变异系数的计算公式为：变异系数 $\\ c =$ 标准差/平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1叶片、凋落物与土壤 $_ { \\textrm { N } , \\textrm { P } }$ 化学计量特征 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3树种叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 $\\mathrm { { N } : \\mathrm { { P } } }$ 比值均为刺槐 $>$ 辽东栎 $>$ 油松，且两两差异显著( $P { < } 0 . 0 5 )$ ,N含量的变异系数较P含量小，且辽东栎 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 $\\mathrm { { N } : \\mathrm { { P } } }$ 比值变异系数均最小(表1)。从图2中可以看出，刺槐、辽东栎叶片N与P含量均极显著正相关,3个树种叶片总体N与P含量亦极显著正相关( $\\scriptstyle P < 0 . 0 1 )$ ,这表明在叶片建成过程中对 $_ { \\textrm { N } , \\textrm { P } }$ 元素的吸收具有一定的比例关系。在凋落物中，N、P含量均为刺槐 $>$ 辽东栎 $>$ 油松，且因树种不同而差异显著； $\\mathrm { N } : \\mathrm { P }$ 比值为油松>辽东栎 $>$ 刺槐，在不同树种间也具有显著差异( $P { < } 0 . 0 5 \\mathrm { ) }$ ）。与叶片相比，凋落物中 $_ { \\textrm { N } , \\textrm { P } }$ 含量变化幅度变小，除油松N含量虽有所下降,但二者差异不显著外,油松 $\\mathrm { ~ \\bf ~ P ~ }$ 含量及刺槐和辽东栎的 $_ { \\textrm { N } , \\textrm { P } }$ 含量均显著下降;刺槐 $\\mathrm { N } : \\mathrm { P }$ 比值显著下降,油松N:P比值显著上升,辽东栎 $\\mathrm { N } : \\mathrm { P }$ 比值虽有所上升,但二者差异不显著( $\\scriptstyle P < 0 . 0 5$ ,表1)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d026d97b51fabdc7543c4332952b4bb59d4cd4dc8550f57b2beb9d2dc199f05.jpg",
+        "table_caption": [
+            "表1陕西省3种主要树种叶片与调落物N、P含量及N:P比值的统计特征",
+            "ble1Statistical characteristics of leaf and litter N,P concentration and N:P ratic "
+        ],
+        "table_footnote": [
+            "$n$ ，样本数； $C V$ ，变异系数;同一列数值后的不同大写字母表示同一树种叶片与凋落物中同一测定指标在0.05水平上差异显著，同一列数值后的不同小写字母表示不同树种叶片或凋落物中同一测定指标在0.05 水平上差异显著"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组分 Components</td><td rowspan=\"2\">物种 Species</td><td colspan=\"2\">N/ (mg/g)</td><td colspan=\"2\">P/ (mg/g)</td><td colspan=\"2\">N :P</td></tr><tr><td>平均值 Mean</td><td>CV</td><td>平均值Mean</td><td>CV</td><td>平均值 Mean</td><td>CV</td></tr><tr><td>叶片Leaf</td><td>刺槐Locust (n = 36)</td><td>27.99±5.80Aa</td><td>0.21</td><td>1.60±0.37Aa</td><td>0.23</td><td>17.86±3.11Aa</td><td>0.17</td></tr><tr><td></td><td>辽东栎 Liaodong oak（n =42）</td><td>17.21±1.24Ab</td><td>0.07</td><td>1.25±0.22Ab</td><td>0.18</td><td>14.12±2.23Ab</td><td>0.16</td></tr><tr><td></td><td>油松 Pine(n =39)</td><td>10.55±1.59Ac</td><td>0.15</td><td>0.98±0.34Ac</td><td>0.35</td><td>11.71±3.66Bc</td><td>0.31</td></tr><tr><td>调落物 Litter</td><td>刺槐Locust (n = 36)</td><td>14.64±3.53Ba</td><td>0.24</td><td>1.04±0.18Ba</td><td>0.17</td><td>14.32±3.65Bc</td><td>0.25</td></tr><tr><td></td><td>辽东栎 Liaodong oak（n = 42）</td><td>12.00±2.57Bb</td><td>0.21</td><td>0.84±0.18Bb</td><td>0.21</td><td>14.89±3.99Ab</td><td>0.27</td></tr><tr><td></td><td>油松 Pine(n= 39)</td><td>9.97±1.56Ac</td><td>0.16</td><td>0.62±0.17Bc</td><td>0.27</td><td>16.53±3.32Aa</td><td>0.20</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b06edcf58f4e0c81a13dfe3d2a6189af56a6061f4bc10e19a508756a18461b3c.jpg",
+        "img_caption": [
+            "图23种主要树种叶片N、P含量相关关系图",
+            "Fig.2 Relationships between leaf N and P concentrations "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0一 $1 0 \\mathrm { { c m } }$ 和 $1 0 { - } 2 0 \\mathrm { c m }$ 土层中 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值，因树种不同而差异显著( $P { < } 0 . 0 5$ ,表2)：N含量和$\\mathrm { N } : \\mathrm { P }$ 比值两两差异显著,N含量为辽东栎 $>$ 油松 $\\cdot >$ 刺槐， ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值为油松 $>$ 辽东栎 $>$ 刺槐;刺槐和辽东栎 $\\mathrm { ~ \\bf ~ P ~ }$ 含量均显著高于油松。 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 与0 $1 0 \\ \\mathrm { c m }$ 土层相比,3树种中除辽东栎中P含量差异不显著外,其它指标 N、P 含量及N:P比值均显著下降。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b2fa40272ffa3bb485b237b998e7d3223ffce8d143aa48a98439722e22153a6.jpg",
+        "table_caption": [
+            "Table2Statistical characteristics soil N,P concentration and N:P ratios "
+        ],
+        "table_footnote": [
+            "$n$ ：样本数； $C V$ ,变异系数;同一列数值后的不同大写字母表示同一树种不同土层同一测定指标在0.05水平上差异显著,同一列数值后的不同小写字母表示不同树种同一土层同一测定指标在0.05水平上差异显著"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">组分Components</td><td colspan=\"2\">N/(mg/g)</td><td colspan=\"2\">P/(mg/g)</td><td colspan=\"2\">N :P</td></tr><tr><td>物种 Species</td><td>土层 Soil layer</td><td>平均值 Mean</td><td>CV</td><td>平均值 Mean</td><td>CV</td><td>平均值 Mean</td><td>CV</td></tr><tr><td rowspan=\"2\">刺槐 Locust(n = 36)</td><td>0—10 cm</td><td>1.21±0.42Ac</td><td>0.35</td><td>0.58±0.10Aa</td><td>0.17</td><td>2.16±0.89Ac</td><td>0.41</td></tr><tr><td>10—20 cm</td><td>0.76±0.31Bc</td><td>0.41</td><td>0.54±0.09Ba</td><td>0.17</td><td>1.46±0.69Bc</td><td>0.47</td></tr><tr><td rowspan=\"2\">辽东栎 Liaodong oak(n=42)</td><td>0—10 cm</td><td>1.65±0.29Aa</td><td>0.18</td><td>0.57±0.08Aa</td><td>0.14</td><td>2.95±0.73Ab</td><td>0.25</td></tr><tr><td>10—20 cm</td><td>1.20±0.31Ba</td><td>0.26</td><td>0.57±0.07Aa</td><td>0.14</td><td>2.13±0.52Bb</td><td>0.24</td></tr><tr><td rowspan=\"2\">油松Pine(n =39)</td><td>0—10cm</td><td>1.42±0.37Ab</td><td>0.26</td><td>0.41±0.15Ab</td><td>0.37</td><td>3.89±1.67Aa</td><td>0.43</td></tr><tr><td>10—20cm</td><td>0.95±0.34Bb</td><td>0.38</td><td>0.39±0.15Bb</td><td>0.38</td><td>2.88±1.59Ba</td><td>0.55</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2叶片、调落物与土壤N、P化学计量特征的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对叶片、凋落物和不同层次土壤间N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值两两进行了Pearson 相关分析表明（表3）：土层间的 $_ { \\textrm { N } , \\textrm { P } }$ 含量和 $\\mathrm { N } : \\mathrm { P }$ 比值均显著正相关;N含量中,只有刺槐叶片与凋落物间以及凋落物与两土层间显著正相关;P含量中,只有刺槐叶片与凋落物之间、凋落物与上层土壤间,油松叶片与凋落物间显著正相关； $\\mathrm { { N } : \\mathrm { { P } } }$ 比值中,只有刺槐和油松叶片与凋落物之间、凋落物与两层土壤间,辽东栎叶片与凋落物间显著正相关( $P <$ 0.05）。对所有树种叶片、调落物和不同层次土壤间N、P含量及 $\\mathrm { { N } : \\mathrm { { P } } }$ 比值两两Pearson 相关分析表明（表3）：两层土壤间N、P含量和N:P比值、叶片与调落物N与 $\\mathrm { ~ \\bf ~ P ~ }$ 含量、叶片和凋落物与两层土壤间P含量和 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值存在显著相关性,其它指标间均不存在显著相关性( $P { < } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc76e0cdb149516cf77d300b7605fc871de006b8102ff47dc38174cd7062f0ec.jpg",
+        "table_caption": [
+            "表2陕西省3种主要树种土壤N、P含量及N:P比值的统计特征",
+            "表3叶片、调落物与土壤N、P含量及N:P比值的相关性(Pearson 检验）",
+            "Table 3Relationships inN,Pconcentration and N:Pratios between leaf,litter and soil（Pearson test) "
+        ],
+        "table_footnote": [
+            "$n$ ：样本数； $* P { < } 0 . 0 5$ · $* * P { < } 0 . 0 1$ ",
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">元素 Element</td><td rowspan=\"2\">组成 Composition</td><td colspan=\"4\">相关系数Correlation</td></tr><tr><td>刺槐 Locust (n=36)</td><td>辽东栎 Liaodong oak (n=42)</td><td>油松 Chinese pine (n=39)</td><td>总体 Overall (n=117)</td></tr><tr><td>log N</td><td>叶片与调落物 Leaf and litter</td><td>0.530 **</td><td>0.092</td><td>0.105</td><td>0.625 **</td></tr><tr><td rowspan=\"9\">log P</td><td>叶片与上层土壤 Leaf and topsoil</td><td>0.219</td><td>-0.126</td><td>-0.182</td><td>-0.133</td></tr><tr><td>叶片与下层土壤Leaf and subsoil</td><td>0.222</td><td>-0.079</td><td>-0.224</td><td>-0.158</td></tr><tr><td>凋落物与上层土壤Litter and topsoil</td><td>0.502 **</td><td>-0.041</td><td>-0.054</td><td>0.047</td></tr><tr><td>凋落物与下层土壤 Litter and subsoil</td><td>0.523 **</td><td>-0.026</td><td>-0.037</td><td>0.030</td></tr><tr><td>两层土壤间 Soil layers</td><td>0.837 **</td><td>0.545 **</td><td>0.819 **</td><td>0.810 **</td></tr><tr><td>叶片与凋落物 Leaf and litter</td><td>0.438 **</td><td>0.243</td><td>0.352 *</td><td>0.629 **</td></tr><tr><td>叶片与上层土壤 Leaf and topsoil</td><td>-0.122</td><td>0.011</td><td>-0.184</td><td>0.240 **</td></tr><tr><td>叶片与下层土壤Leaf and subsoil</td><td>-0.278</td><td>-0.096</td><td>-0.132</td><td>0.216 **</td></tr><tr><td>调落物与上层土壤 Litter and topsoil</td><td>0.334 *</td><td>-0.035</td><td>0.313</td><td>0.496 **</td></tr><tr><td rowspan=\"7\">log N :P</td><td>凋落物与下层土壤Litter and subsoil</td><td>0.289 0.939 **</td><td>0.112</td><td>0.270</td><td>0.474 **</td></tr><tr><td>两层土壤间 Soil layers</td><td></td><td>0.871**</td><td>0.976 **</td><td>0.971**</td></tr><tr><td>叶片与调落物 Leaf and litter</td><td>0.387 * 0.072</td><td>0.330 *</td><td>0.573 **</td><td>0.151</td></tr><tr><td>叶片与上层土壤 Leaf and topsoil</td><td>0.005</td><td>-0.026 0.041</td><td>0.103 0.144</td><td>-0.291 **</td></tr><tr><td>叶片与下层土壤Leafandsubsoil 调落物与上层土壤 Litter and topsoil</td><td>0.399 *</td><td>0.179</td><td>0.519 **</td><td>-0.263 **</td></tr><tr><td>凋落物与下层土壤Litter and subsoil</td><td>0.340 *</td><td>0.153</td><td>0.389 *</td><td>0.424**</td></tr><tr><td>两层土壤间 Soil layers</td><td>0.872 **</td><td>0.552 **</td><td>0.889 **</td><td>0.365** 0.869 **</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3环境因子对叶片、凋落物与土壤N、P含量及N:P比值的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 $\\mathrm { N } : \\mathrm { P }$ 比值中,刺槐中只有N和P含量与经度、纬度显著负相关(图3),与年均温度和年降水显著正相关(图4);辽东栎中,只有N含量与纬度显著负相关(图3）、与海拔显著正相关(图3),P含量与年均温度显著正相关(图4);油松中，只有P含量与海拔显著负相关( $\\scriptstyle P < 0 . 0 5$ ,图3）。对所有树种叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 $\\mathrm { { N } : \\mathrm { { P } } }$ 比值与经纬度、海拔、年均温度和年降水等环境因子进行相关分析表明,叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量与经度、海拔,与年均温度显著正相关;N:P 比值与纬度、年降水均显著负相关,其它指标间均不存在显著相关性( $P <$ 0.05,表4）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/626a587dab11f4c5d644048d8d9fcf63415bea185c059505f7267c91df9e889b.jpg",
+        "img_caption": [
+            "图33种主要树种叶片N、P含量及N:P比值与地理因子的关系",
+            "Fig.3 Relationships between leaf stoichiometry and geographical factors for 3 tree species "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3fba73b8539e315608206dceeb157310e1793c19157440e11c9a355c53242f0.jpg",
+        "table_caption": [
+            "表4叶片N、P含量及N:P比值与环境因子的相关性(Pearson检验）",
+            "Table 4Correlations between leaf N,Pconcentrations，N:P ratios and environmental factors（Pearson te "
+        ],
+        "table_footnote": [
+            "$n$ :样本数;MAT:年均温度 mean annual temperature;MAP:年降水量 mean annual precipitation； $* P { < } 0 . 0 5$ · $* * P { \\leqslant } 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td>组分Components</td><td>纬度 Latitude</td><td>经度Longitude</td><td>海拔Altitude</td><td>年均温度MAT</td><td>年降水MAP</td></tr><tr><td>log N(n=117)</td><td>0.102</td><td>-0.274 **</td><td>-0.249 **</td><td>0.223 *</td><td>-0.122</td></tr><tr><td>log P(n=117)</td><td>-0.105</td><td>-0.223 *</td><td>-0.283 **</td><td>0.233 *</td><td>0.063</td></tr><tr><td>log N :P(n=117)</td><td>-0.265 **</td><td>-0.148</td><td>-0.046</td><td>0.064</td><td>-0.246 **</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调落物 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值中,刺槐中只有N含量与经度、纬度显著负相关,与年均温度、年降水显著正相关; $\\mathrm { N } : \\mathrm { P }$ 比值与纬度显著负相关，与年均温度显著正相关( $P { < } 0 . 0 5 )$ 。辽东栎中，只有N含量与经度、纬度显著负相关,与年均温度、年降水显著正相关;P含量与年均温度显著正相关; $\\mathrm { N } : \\mathrm { P }$ 比值与纬度显著负相关,与年降水显著正相关( $_ { _ { P < 0 . 0 5 ) } }$ 。油松中，只有P含量与经度、年均温度和年降水显著负相关， ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与经度、年均温度和年降水显著正相关( $P { < } 0 . 0 5 )$ 。对所有树种调落物N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与经纬度、海拔、年均温度和年降水等环境因子进行相关分析表明， $_ { \\textrm { N } , \\textrm { P } }$ 含量与经度,N含量及 $\\mathrm { N } : \\mathrm { P }$ 比值与纬度,P含量与年降水显著负相关;N含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与年均温度， $\\mathrm { N } : \\mathrm { P }$ 比值与年降水显著正相关,其它指标间均不存在显著相关性（ $\\scriptstyle P < 0 . 0 5$ ，表5）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba928a995fe0a16b5ee649f74889cee3486cbcbb184a9e93ef8556d31d489e7b.jpg",
+        "img_caption": [
+            "图43种主要树种叶片 $\\mathbf { N } , \\mathbf { P }$ 含量及N：P比值与气候因子的关系 Fig.4Relationships between leaf stoichiometry and climatic factors for 3 tree species "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 $\\mathrm { N } : \\mathrm { P }$ 比值中，刺槐林中只有0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层N含量和 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与纬度、10— $2 0 ~ \\mathrm { c m }$ 土层N含量与经度显著负相关;辽东栎林中，只有 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层中 $\\mathrm { ~ \\bf ~ P ~ }$ 含量与经度、 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与年均温度显著负相关( $\\scriptstyle P < 0 . 0 5$ ,表6)。与刺槐和辽东栎林相比,油松林土壤N、P化学计量特征与各种环境因子关系更加密切,0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层N含量除与纬度没有明确的相关关系外，与其它环境因子均存在显著相关性;P含量中，除0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层与海拔和10— ${ \\cdot 2 0 } \\ \\mathrm { c m }$ 与经度不存在显著相关性外，与其它环境因子均表现出显著的相关关系； $\\mathrm { N } : \\mathrm { P }$ 比值中，只有0— $1 0 \\ \\mathrm { c m }$ 土层与纬度显著负相关、与年降水极著正相关( $\\scriptstyle P < 0 . 0 5$ ,表6)。对所有树种两层土壤N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与经纬度、海拔、年均温度和年降水等环境因子进行相关分析表明,N含量中，只有0— $1 0 \\ \\mathrm { c m }$ 土层与海拔显著正相关、与年均温度显著负相关,10—20cm土层与经度、年均温度和年降水显著负相关、与海拔显著正相关;P含量中,除与海拔没有显著相关性外，与其它环境因子均表现出显著的相关关系; ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值中，只有0— $1 0 \\ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层与纬度显著负相关、与海拔显著正相关,0一 $1 0 \\ \\mathrm { c m }$ 土层与年降水显著正相关( $\\scriptstyle P < 0 . 0 5$ ,表6)。从表6中不难看出，0— $1 0 \\ \\mathrm { c m }$ 和$1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层 $_ { \\textrm { N } , \\textrm { P } }$ 含量及N：P比值与各环境因子的关系基本一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7948c55dfe47b9ce1be1ebebcdefa6bce47ae47dec33853705a96a137e576bce.jpg",
+        "table_caption": [
+            "Table 5Correlations between literN,Pconcentrations，N:P ratios and environmental factors（Pearson test) "
+        ],
+        "table_footnote": [
+            "n：样本数； $* P < 0 . 0 5$ ; $* * P < 0 . 0 1$ "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">物种 Species</td><td>纬度Latitude</td><td>经度Longitude</td><td>海拔 Altitude</td><td>年均温度MAT</td><td>年降水MAP</td></tr><tr><td>刺槐Locust</td><td>log N</td><td>-0.605 **</td><td>-0.426 *</td><td>-0.187</td><td>0.579 **</td><td>0.407 *</td></tr><tr><td>(n=36)</td><td>log P</td><td>-0.299</td><td>-0.397</td><td>-0.213</td><td>0.305</td><td>0.269</td></tr><tr><td></td><td>log N :P</td><td>-0.397 *</td><td>0</td><td>-0.052</td><td>0.368 *</td><td>0.228</td></tr><tr><td>辽东栎 Liaodong oak</td><td>log N</td><td>-0.837**</td><td>-0.366 *</td><td>0.24</td><td>0.703**</td><td>0.658 **</td></tr><tr><td>(n=42)</td><td>log P</td><td>-0.291</td><td>-0.269</td><td>0.239</td><td>0.373 **</td><td>0.081</td></tr><tr><td></td><td>log N :P</td><td>-0.423 **</td><td>-0.063</td><td>-0.013</td><td>0.244</td><td>0.459 **</td></tr><tr><td>油松 Chinese pine</td><td>log N</td><td>-0.23</td><td>-0.264</td><td>0.229</td><td>0.061</td><td>0.061</td></tr><tr><td>(n=39)</td><td>log P</td><td>0.088</td><td>-0.454 **</td><td>0.286</td><td>-0.492 **</td><td>-0.333 *</td></tr><tr><td></td><td>log N :P</td><td>-0.275</td><td>0.355 *</td><td>-0.177</td><td>0.641**</td><td>0.4449 **</td></tr><tr><td>总体Overall</td><td>log N</td><td>-0.259 **</td><td>-0.324 **</td><td>-0.133</td><td>0.359 **</td><td>0.146</td></tr><tr><td>(n=117)</td><td>log P</td><td>0.116</td><td>-0.390 **</td><td>-0.093</td><td>-0.004</td><td>-0.191 *</td></tr><tr><td></td><td>log N :P</td><td>-0.392 **</td><td>0.134</td><td>-0.024</td><td>0.361**</td><td>0.368**</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5825d0907adf90c1331316d1b2b69f0d40f6b541782209f56049a28e310e921.jpg",
+        "table_caption": [
+            "表5调落物N、P含量及N:P比值与环境因子的相关性(Pearson检验）",
+            "表6土壤N、P含量及N:P比值与环境因子的相关性(Pearson检验）",
+            "Table 6 Correlations between soil N,P concentrations,N:P ratios and environmental factors（Pearson t "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">物种 Species</td><td rowspan=\"2\">元素 Element</td><td colspan=\"5\">0—10 cm 土层0—10 cm Soil layer</td><td colspan=\"5\">10—20cm土层10—20 cm Soil layer</td></tr><tr><td>纬度 Latitude</td><td>经度 Longitude</td><td>海拔 Altitude</td><td>年均温度 MAT</td><td>年降水 MAP</td><td>纬度 Latitude</td><td>经度 Longitude</td><td>海拔 Altitude</td><td>年均温度 MAT</td><td>年降水 MAP</td></tr><tr><td>刺槐Locust</td><td>log N</td><td>-0.334 *</td><td>-0.223</td><td>0.301</td><td>0.189</td><td>0.027</td><td>-0.413 *</td><td>-0.359 *</td><td>0.349 *</td><td>0.177</td><td>0.102</td></tr><tr><td>(n=36)</td><td>log P</td><td>0.113</td><td>0.056</td><td>0.148</td><td>-0.194</td><td>-0.028</td><td>0.054</td><td>0.025</td><td>-0.024</td><td>-0.105</td><td>0.124</td></tr><tr><td></td><td>log N :P</td><td>-0.351 *</td><td>-0.226</td><td>0.216</td><td>0.251</td><td>0.036</td><td>-0.364 *</td><td>-0.307</td><td>0.299</td><td>0.188</td><td>0.036</td></tr><tr><td>辽东栎 Liaodong oak</td><td>log N</td><td>0.141</td><td>0.186</td><td>-0.185</td><td>-0.296</td><td>0.004</td><td>0.035</td><td>-0.187</td><td>-0.060</td><td>-0.304</td><td>-0.040</td></tr><tr><td>(n=42)</td><td>logP</td><td>0.181</td><td>-0.250</td><td>0.001</td><td>-0.299</td><td>-0.015</td><td>-0.038</td><td>-0.507 **</td><td>0.125</td><td>-0.004</td><td>-0.044</td></tr><tr><td></td><td>log N :P</td><td>0.033</td><td>0.285</td><td>-0.162</td><td>-0.110</td><td>0.011</td><td>0.055</td><td>0.052</td><td>-0.123</td><td>-0.315 *</td><td>-0.020</td></tr><tr><td>油松 Chinese pine</td><td>log N</td><td>0.246</td><td>-0.517 **</td><td>0.505 **</td><td>-0.464 **</td><td>-0.467 **</td><td>0.313</td><td>-0.503 **</td><td>0.481**</td><td>-0.495 **</td><td>-0.521**</td></tr><tr><td>(n=39)</td><td>log P</td><td>0.599 **</td><td>-0.351 *</td><td>0.223</td><td>-0.560 **</td><td>-0.801**</td><td>0.578 **</td><td>-0.252</td><td>0.105</td><td>-0.458 **</td><td>-0.735 **</td></tr><tr><td></td><td>log N :P</td><td>-0.425 **</td><td>-0.017</td><td>0.136</td><td>0.230</td><td>0.469 **</td><td>-0.246</td><td>-0.164</td><td>0.270</td><td>0.013</td><td>0.223</td></tr><tr><td>总体 Total</td><td>log N</td><td>0.028</td><td>-0.141</td><td>0.416 **</td><td>-0.303 **</td><td>-0.176</td><td>0.042</td><td>-0.223 *</td><td>0.473 **</td><td>-0.362 **</td><td>-0.199 *</td></tr><tr><td>(n=117)</td><td>log P</td><td>0.483**</td><td>-0.244 **</td><td>0.119</td><td>-0.383 **</td><td>-0.547 **</td><td>0.456 **</td><td>-0.207 *</td><td>0.081</td><td>-0.318 **</td><td>-0.495 **</td></tr><tr><td></td><td>log N :P</td><td>-0.330 **</td><td>0.068</td><td>0.237 *</td><td>0.044</td><td>0.262 **</td><td>-0.266 **</td><td>-0.045</td><td>0.332 **</td><td>-0.086</td><td>0.163</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1叶片、调落物与土壤N、P化学计量特征 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "植物种类、生存环境、群落组成和结构、土壤特性等因子直接或间接地影响着植物化学元素含量[23],因此营养元素含量差异很大。本研究中，叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量低于黄土高原、中国和全球尺度的其它研究,这可能是由于本研究只测定了木本植物,未涉及灌木和草本,而草本比木本植物具有更高的 $_ { \\textrm { N } , \\textrm { P } }$ 吸收效率[11.24];叶片 N：P 比值低于黄土高原地区、全国水平,高于全球水平研究结果,这可能与中国土壤中P含量低导致植物 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值高[1]有关(表7)。研究区内,凋落物N含量( $1 2 . 1 4 ~ \\mathrm { m g / g }$ )高于Kang等[25]在全球尺度上得到的10.93$\\mathrm { m g / g }$ 、Yuan 和 $\\mathrm { C h e n } ^ { [ 2 6 ] }$ 在温带和北方森林等得到的 $9 . 8 \\ : , 8 . 6 \\mathrm { m g / g } ,$ P含量 $0 . 8 3 ~ \\mathrm { m g / g }$ 高于Yuan 和 $\\mathrm { C h e n } ^ { [ 2 6 ] }$ 在温带和北方森林等得到 $0 . 7 , 0 . 8 \\mathrm { \\ m g / g }$ ,低于Kang 等[25]在全球尺度上得到的 $0 . 8 5 ~ \\mathrm { m g / g , N : P }$ 比值(15.26)高于Yuan 和Chen[26]在北方森林等得到的15.0,低于Kang 等[25]在全球尺度上得到的 $1 8 . 3 2 , \\mathrm { Y u a n }$ 和 $\\mathrm { C h e n } ^ { [ 2 6 ] }$ 在温带森林等得到的17.6。本研究中，土壤 $\\mathrm { ~ \\bf ~ P ~ }$ 含量明显低于全球水平的 $2 . 8 ~ \\mathrm { m g / g ^ { [ 1 4 ] } }$ ,这可能与地表土壤对P的吸附作用、黄土高原地区强烈的风化和水土流失作用有关,亦与中国土壤P 含量普遍较低的规律一致[27]。10—$2 0 ~ \\mathrm { c m }$ 与0— $1 0 \\ \\mathrm { c m }$ 土层相比，除辽东栎中P含量差异不显著外,刺槐和油松中 $_ { \\textrm { N } , \\textrm { P } }$ 含量和辽东栎中N含量均显著下降( $\\scriptstyle ( P < 0 . 0 5 )$ ,表明土壤主要养分含量随土壤层次的加深而降低。叶片、凋落物、土壤对环境变化反应较敏感,它们是生态系统中生物与环境因子的代表[16],它们的 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值存在差异,是由土壤与植物各自执行不同的功能决定的。土壤和植物表现出不同的化学计量特征,这与植物的选择性吸收有一定关系[28],植物根据本身所需营养元素选择性的吸收土壤中的营养元素,而对于这种计量特征关系还需要进行更加深入地研究和探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/79f1c146537c7d24ef6ef4e2b2c392d754ea19d42a4a92e8927291705687ea34.jpg",
+        "table_caption": [
+            "表7陕西省主要树种叶片 $\\mathbf { N } , \\mathbf { P }$ 含量及N：P比值与其他区域的比较",
+            "Table 7The range and mean of leaf N,P concentrations, $\\mathbf { N } : \\mathbf { P }$ ratios at different scale "
+        ],
+        "table_footnote": [
+            "n：样本数"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">研究区域 Study region</td><td colspan=\"3\">N/(mg/g)</td><td colspan=\"3\">P/(mg/g)</td><td colspan=\"3\">N :P</td><td rowspan=\"2\">资料来源 Data resouce</td></tr><tr><td>范围</td><td>平均值</td><td>CV</td><td>范</td><td>平均值</td><td>CV</td><td>范围</td><td>平均值</td><td>CV</td></tr><tr><td>陕西省</td><td>4.48—23.69</td><td>18.13±8.08 (n=117)</td><td>0.45</td><td>0.58-2.26</td><td>1.27±0.40 (n=117)</td><td>0.31</td><td>4.48—23.67</td><td>14.26±4.21 (n=117)</td><td>0.29</td><td>本文</td></tr><tr><td>黄土高原 Loess plateau</td><td>8.2-45.8</td><td>24.1±8.5 (n=126)</td><td>0.35</td><td>0.6-3.5</td><td>1.6±0.6 (n=126)</td><td>0.38</td><td>7.4—29.0</td><td>15.4±3.9 (n=126)</td><td>0.25</td><td>[9]</td></tr><tr><td>全国China</td><td>1.8-58.8</td><td>20.2±8.41 (n=554)</td><td>0.42</td><td>0.02—10.27</td><td>1.46±0.99 (n=745)</td><td>0.69</td><td>3.28-78.89</td><td>16.3±9.32 (n=547)</td><td>0.57</td><td>[11]</td></tr><tr><td>全球 Global</td><td>4.1—59.9</td><td>20.1±8.71 (n=1251)</td><td>0.43</td><td>0.1-6.99</td><td>1.77±1.22 (n=923)</td><td>0.69</td><td>2.6-111.8</td><td>13.8±9.47 (n=894)</td><td>0.69</td><td>[7]</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不论是单一树种还是整体来说,叶片N、P含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值的变化范围都较其它研究小（表1,表7），这说明它们的养分稳定性比较强，抵抗外界干扰的能力比较强，是适宜造林的优良树种，但这也可能是因为本研究中植物种类较少且只包括木本植物造成的。叶片N 含量的变异系数均较P 含量小,这与 Koerselman 等[29]和吴统贵等[30的研究结果是一致的,辽东栎叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值都是3树种中最小的,且与各环境因子关系最小，可能表明3树种中其植物养分稳定性最强，抵抗外界干扰的能力是最强的。另外，除辽东栎凋落物中N 含量虽有所下降但与叶片差异不显著之外,凋落物N、P含量与叶片相比均显著下降(表1),这体现了植物的养分再吸收特征,即营养元素从衰老叶片中转移并被运输到植物其他组织的过程[31,这种将营养元素从衰老叶片或其它植物组织中再吸收或再分配的能力,使得营养元素在植物体内的留存时间增加,以提供植物新的生物量生产所需的大部分养分[32]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2叶片、凋落物与土壤 $_ { \\textrm { N } , \\textrm { P } }$ 化学计量特征的相关性",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "叶片与凋落物中N、P含量有很好的相关关系,表明凋落物中养分承自叶片。3树种叶片与土壤养分的关系各不相同,这可能是由于不同森林类型群落受到的人为干扰程度不同有关。Gamier[33]研究表明,如果植物生长受某种元素限制,那么植物叶片内该元素浓度就会与土壤提供此养分的能力呈正相关。本研究中,刺槐、辽东栎和油松叶片N、P浓度与土壤N、P 浓度没有明显相关性,表明刺槐、辽东栎和油松生长均不受N、P 有效性的限制;总体来说,植物叶片P浓度与土壤P浓度显著正相关,表明陕西省森林生态系统植物生长主要受P限制。研究表明,当叶片 $\\mathrm { N } : \\mathrm { P } { < } 1 4$ 时,认为植物生长受N限制,当叶片 $\\mathrm { N } : \\mathrm { P } { > } 1 6$ 时,认为生长受P限制，当叶片 $\\mathrm { { N } : \\mathrm { { P } } }$ 比值位于14和16之间时,认为植物生长受两者N 和 $\\mathrm { ~ \\bf ~ P ~ }$ 的共同限制[29」，根据以上标准进行判断，3树种中,刺槐林生长受P有效性的限制,辽东栎林生长受N和P共同限制,油松林生长受P元素有效性的限制,总体来说陕西省森林生态系统植物生长受N和P共同限制,这与本研究中土壤与叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量之间的关系得到的植物生长受限制状况并不一致,这可能是由于不同地区不同物种评判氮磷限制的叶片 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比临界值不同[34]造成的。凋落物与土壤中N、P具有很好的相关关系,这是由于相当一部分凋落物中的有机质及N、P等元素会被释放到土壤中,是土壤养分库的主要来源之一。植物以光合作用固定有机质,并在完成自身生活史后以凋落物的形式将营养元素返回到土壤中,导致形成了森林生态系统植物叶片 $>$ 凋落物 $>$ 土壤的养分格局。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3环境因子对叶片、凋落物与土壤N、P含量及N:P比值的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reich 和Oleksyn[7]和He等[8]认为植物叶片N、P含量随着纬度的升高和温度的降低而显著增加, ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值则呈相反趋势;Kerkhoff等[35]认为叶片N、P 含量与纬度变化没有明显的相关性,而N:P随着纬度的升高而显著下降;McGroddy 等[36]也认为植物叶片 ${ \\mathrm { N } } : { \\mathrm { P } } $ 随纬度的升高而明显降低;Han 等[13]认为叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量随着纬度的升高和温度的降低而显著增加，但 ${ \\mathrm { N } } : { \\mathrm { P } } $ 与纬度和温度变化没有明显相关性。本研究中,植物叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量与纬度的关系与上述研究大致相同、与温度的关系与上述研究大致相反,即N、P含量随着纬度的升高和温度的降低而减少,这一点在刺槐中表现的最为明显,这可能与3个树种中,刺槐的生态位最广、纬度变化幅度最大有关(图1);但3个树种 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与各种环境因子均没有明确相关关系,这与上述研究结果并不一致。而与本研究区相近的黄土高原地区126个植物样品叶片N、P含量与纬度、温度和年降水均无明显相关性,N:P 比值随着纬度升高、温度和年降水的减少而明显增加[9的关系有较大差异性,表明在较小区域尺度上植物叶片化学计量特征与环境因子的关系存在较大变异性。丁小慧等[37在呼伦贝尔草地的研究中发现群落叶片 $_ { \\textrm { N } , \\textrm { P } }$ 含量随经度和温度的升高而下降,这与本研究中植物叶片N含量随经度的增加而减少是一致的，而叶片N、P含量随着年降雨的增加而增加的结果又与其相反,但与 Sardans 等[38]的研究结果相同。本研究中3 树种对于环境因子的响应各不相同,说明不同物种对于环境具有不同的适应策略,这是植物在长期进化中形成的并与植物自身的遗传特性有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Liu 等[39]认为在欧亚大陆范围内,凋落物N含量在各功能型内随着温度和降水的增加而增加;Yuan 和Chen[26]认为衰老叶片中N 含量随着年均温度和年降水的增加而增加,P 含量则随着年均温度和年降水的增加而降低,N:P随着年均温度和年降水的增加而增加;Kang 等[25]认为凋落物中N 含量随着年均温度和年降水的增加而线性增加、随着纬度的增加而线性降低,P含量随着年降水的增加而线性降低、随着纬度呈凸曲线变化，但与年均温度未表现出明确的相关关系， ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值随着年均温度和年降水的增加而增加，随着纬度的增加呈凹曲线变化。本研究与上述研究结果大致相同,即凋落物中N 含量随着年均温度和年降水的增加而增加,随着纬度的增加而降低;P含量随着年降水的增加而降低，与温度没有明确的相关关系;N:P 随着年均温度和年降水的增加而增加，随着纬度的增加而降低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量随着纬度、海拔的增加和年均温度、年降水、经度的降低而增加,土壤 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值则呈相反的趋势，这与丁小慧等[40]在呼伦贝尔草地生态系统得到的土壤N、P 含量随经度梯度升高而增加、随纬度梯度升高呈降低趋势相反;与王淑平等[41]在中国东北样带得出土壤N、P沿经度均呈现出东高西低的分布趋势,即随着经度的增加而增加的结果也不一致;与王芳等[42]在东北北部温带森林得到的土壤N 含量与年降水、年均温度没有显著性相关关系亦不相同,这可能是由于与东北地区相比,本研究区位于生态环境更加脆弱、水土流失更加严重的西北地区造成的。土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量中，只有油松林土壤0— $1 0 ~ \\mathrm { c m }$ 和 $1 0 { - } 2 0 ~ \\mathrm { c m }$ 土层$_ { \\textrm { N } , \\textrm { P } }$ 含量均与年降水极显著负相关( $P { < } 0 . 0 1 \\rangle$ ,这表明与刺槐和辽东栎林相比，油松林水土流失更为严重。3树种土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值中,P含量比N含量受环境影响更大,且油松林土壤与各环境因子的关系最为密切,辽东栎林与各环境因子的关系最小,再一次说明辽东栎林在3树种中可能是抵抗外界干扰的能力最强的。叶片、调落物与土壤 $_ { \\textrm { N } , \\textrm { P } }$ 含量及 ${ \\mathrm { N } } : { \\mathrm { P } } $ 比值与环境因子的关系可以很好的用回归方程表示，在全球变暖的背景下,这些回归方程能有助于更好的理解区域尺度上叶片、凋落物与土壤N、P含量与环境因子的关系。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]ElserJJ,StemerRW,GorokhovaE,FaganWF,MarkowA,CotnerB,HarisonJF,HobbieSE，OdellG，WeiderLW.iogicalstoichiometry from genes to ecosystems.Ecology Lettrs，20o0，3(6）：540-550.  \n[2]StererRWElserJJEcologicalStocometryheologoElementsfrMolelestoeosperePriceto：PricetoUeiyPress，2002.  \n[3]Niklaslfosedesefsaalsa,97(2): 155-163.  \n[4］王绍强，于贵瑞.生态系统碳氮磷元素的生态化学计量学特征.生态学报，2008，28（8)：3937-3947.  \n5]TessiealJUseofspaftalfApplied Ecology，2003，40(3）：523-534.  \n[6］王维奇，徐玲琳，曾从盛，全川，张林海.河口湿地植物活体-枯落物-土壤的碳氮磷生态化学计量特征.生态学报，2011，31（23)：7119-7124.  \n[7ReichPOleJbalsofantafdiattpeauedlatue.roofoalcof the United Statesof America，2004，101(30）：11001-11006.  \n[8]HeJS，WangL，FlynDFB，WangXP,MaWH,FangJY.Leafnitrogen:phosphorusstochiometryacrosChinesegrassandiomes.Oecologia，2008，155(2）：301-310.  \n[9]ZhengSX,ganZpatialtesfefutrittritsofteplantsineLssPlateauoars,,）：.  \n[10］李玉霖，毛伟，赵学勇，张铜会.北方典型荒漠及荒漠化地区植物叶片氮磷化学计量特征研究.环境科学,2010,31（8)：1716-1725.  \n[11］高志红，张万里，张庆费.森林调落物生态功能研究概况及展望.东北林业大学学报，2004，32(6)：80-83.  \n[12]ViouseateeKiroglilitditfiatiingsuessopriareoddldfeatand Soil，1989，115(2):229-239.  \n[13]HanWggdoerallsa.st,2005，168(2):377-385.  \n[14]任书杰，于贵瑞，陶波，王绍强.中国东部南北样带 654 种植物叶片氮和磷的化学计量学特征研究.环境科学，2007，28（12）：2665-2673.  \n[15］吴统贵，陈步峰，肖以华，潘勇军，陈勇，萧江华.珠江三角洲3种典型森林类型乔木叶片生态化学计量学.植物生态学报，2010，34(1) : 58-63.  \n[16］王晶苑，王绍强,李纫兰,闫俊华,沙丽清，韩士杰.中国四种森林类型主要优势植物的C：N:P化学计量学特征.植物生态学报,2011,35(6): 587-595.  \n[17］阎恩荣，王希华,郭明，仲强，周武.浙江天童常绿阔叶林、常绿针叶林与落叶阔叶林的C:N:P化学计量特征.植物生态学报,2010,34(1):48-57.  \n[18]刘兴诏，周国逸，张德强，刘世忠，褚国伟，闫俊华.南亚热带森林不同演替阶段植物与土壤中N、P的化学计量特征.植物生态学报，2010,34(1):64-71.  \n[19］刘万德，苏建荣,李帅锋，张志钧，李忠文.云南普洱季风常绿阔叶林演替系列植物和土壤C、N、P化学计量特征.生态学报，2010,30(23）：6581-6590.  \n[20］马长欣，刘建军，康博文，孙尚华，任军辉.1999-2003年陕西省森林生态系统固碳释氧服务功能价值评估.生态学报，2010，30（6)：1412- 1422.  \n[21］曹扬，陈云明，渠美.陕西省森林碳储量、生产力及固碳释氧经济价值的动态变化.西北农林科技大学学报：自然科学版，2013，41（5)：113-120.  \n[22］马琪，刘康，张慧.陕西省森林植被碳储量及其空间分布.资源科学，2012，34(9)：1781-1789.  \n[23］曹建华,李小波，赵春梅，蒋菊生，谢贵水.森林生态系统养分循环研究进展.热带农业科学,2009,27(6)：68-79.  \n[24]Yuan ZY,Li L H,Han XG,Huang JH,Jiang $_ { \\mathrm { ~ G ~ M ~ } }$ ，Wan S Q,Zhang W H,Chen Q S.Nitrogen resorption from senescing leaves in 28 plantspecies in asemi-arid region of northernChina. Journal of Arid Environment,2005,63(1)：191-202.  \n[25]KangHZ,inZJgBrgessPJ,Liu,LuZ,LiZHCJobalpaeefliteirogdosposatAnnals of Forest Science，2010,67(8）：811-811.  \n[26]YuanZenHobaltredsiesced-afrogendpsposobalEologdgapO,（）4.  \n[27］杨佳佳，张向茹，马露莎，陈亚南，党廷辉，安韶山.黄土高原刺槐林不同组分生态化学计量关系研究.土壤学报，2014，51（1)：133-142.  \n[28] 马永跃，王维奇.闽江河口区稻田土壤和植物的C、N、P含量及其生态化学计量比.亚热带农业研究，2011,7（3）：182-187.  \n[29]KoerseanW,MeuleanF.evegetatioNatiooltetetheatureofutrientliitatioJoualofldEolog1996,33(6)：1441-1450.  \n[30］吴统贵，吴明，刘丽，萧江华.杭州湾滨海湿地3种草本植物叶片N、P化学计量学的季节变化.植物生态学报，2010,34（1）：23-28.  \n[31] AertsR.Nutrentresotionfrosesnglavesoferels：arethegenealpatesheJoualofEcolog996,84（）：9608.  \n[32] MeierCE，GrierCC,ColeDW.Below-and aboveground NandPusebyAbiesamabilisstands.Ecology，1985,66(6):1928-1942.  \n33]GaerespeifVtoinstiityesinespoetroenlyambidgCabdgUvesi，155-181.  \n[34]ZangLXYnXGetspofeLessCesstdieecosystem in Nei Mongol. Acta Botanica Sinica，2004,46(3）：259-270.  \n[35]KerkhofstserglanttodeaureepedefuiilEcology and Biogeography，2005，14(6）:585-598.  \n[36]MGrdfg：otresdcatisfeesrlftiEcology，2004，85（9）：2390-2401.  \n[37］丁小慧，罗淑政，刘金巍，李魁，刘国华.呼伦贝尔草地植物群落与土壤化学计量学特征沿经度梯度变化.生态学报，2012，32（(11)：3467-3476.  \n38SardasbelasJctotitodeofftraoatEcology and Management，2011，262（11）：2024-2034.  \n[39]LiuCJgB,utshWWsaCJesHeX,hGXLeafierogcetraioelaefactors in Eurasian forests.Global Ecology and Biogeography，2006,15(5）：438-444.  \n［40］丁小慧.呼伦贝尔草地生态系统生态化学计量学特征研究[D].北京：中国科学院研究生院，2011.  \n[41］王淑平，周广胜，吕育财，邹建军.中国东北样带(NECT)土壤碳、氮、磷的梯度分布及其与气候因子的关系．植物生态学报，2002，26(5):513-517  \n[42］王芳，宋明华，黄玫，张甲坤.东北北部温带森林和干草地土壤养分分布及影响因素.生态环境学报，2014，23（8）：1280-1285.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

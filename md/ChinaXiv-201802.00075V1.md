@@ -1,0 +1,133 @@
+# 严重段塞流顶部节流作用下的流型及其转变
+
+李乃良¹，李文升‘，郭烈锦1\*，李清平（1西安交通大学动力工程多相流国家重点实验室，西安710049；2中海油研究总院，北京）
+
+摘要：严重段塞流是常见于海洋石油工业集输-立管系统中的一种有害流型，而立管顶部阀门节流是抑制和消除严重段塞流的有效方法。本文实验研究了对严重段塞流采取节流操作所引起的流型及其转变特性，结果表明，随着阀门开度的减小，节流阀压降增大，背压升高，很大程度上抵消了下倾管内封闭气体的压力，从而抑制了下倾管内气体体积的膨胀，导致下倾管内的大量气体无法在短时间内快速连续地进入立管，而只能以大气泡或小气泡群的形式间歇进入立管，促进了弹状流和泡状流的形成。考虑了气液流速对节流阀压降的影响，建立了节流作用下S型立管内气液稳定流动边界，与实验数据吻合良好。
+
+关键词：节流；严重段塞流；流型；流型转变中图分类号：O359文献标识码：A
+
+# Flow Patterns and Transitions during Riser Topside Choking on the Elimination of Severe Slugging
+
+LI Nai-Liang'，LI Wen-sheng1，GUO Lie-Jin1，LI Qing-ping²
+
+State KeyLaboratoryof MultiphaseFlowinPowerEnginering，Xi'anJiaotong University，Xi'an710049，China;2Chinest ational Offshore Oil Research Institute，Beijing 10o027，China）
+
+Abstract: Severe sluggng is undesired in offshore pipeline-riser system and riser topside choking is an effective method for the elimination of severe slugging.Flow patterns and transitions induced by riser topside choking on severe slugging were studied experimentally. It is found that the pressure drop across the choke increases with the decrease of the valve opening.The pressure of the gas trapped in the pipeline is counteracted and therefore the expansion of the gas is suppressed.As aresult,the gas penetrates into the riser in the form of individual bubbles, leading to the formation of slug flow and bubbly flow.The stabilityboundary accounting for the prediction of the behavior of gas-liquid flow in a pipeline-riser system in the processof riser topside choking is also proposed.The predictions are tested against experimental results, showing a reasonable agreement.
+
+Keywords: choking； severe slugging； flow pattern； flow pattern transition
+
+# 0前言
+
+严重段塞流是一种常见于海底集输一立管系统中的流动现象。这是一种极为有害的流型，不仅会引起系统压力及出口产量出现大幅波动，导致气液分离效率降低，加剧对下游设备的冲击，还会引起管道发生剧烈的振动，加剧管内腐蚀，严重时还会导致死井事故。因此，其控制与消除一直是海底管道流动安全生产的核心技术。
+
+立管顶部节流法是抑制和消除严重段塞流的有效方法。这种方法最早由 Schmidt 等人[1提出，他们发现，气体在立管内的加速运动是严重段塞流的主要特征，如果能够在气塞到达节流阀之前抑制其加速，就可以使流动稳定；随后，Taitel等人[2]用理论分析的方法证实了节流法可以将长液塞“撕断”为数个短液塞，从而削弱严重段塞流的危害，但并未对其机理做进一步的研究；Jansen 等人[]发现节流带来的背压增加可以有效地抑制上升管内液体的加速；最近，李乃良等[4,5报道了S型立管严重段塞流节流实验的结果，表明节流阀压降随阀门开度的变化是促使流型发生转变的主要原因。
+
+然而，目前的研究多局限于节流法的有效性，很少关注立管内气液相界面结构的发展，本文实验研究了节流操作引起的流型以及流型的转变规律，给出了节流作用下S型立管的不稳定流动边界，揭示了节流法消除严重段塞流的作用机理。
+
+# 1实验装置及实验方法
+
+实验是在西安交通大学动力工程多相流国家重点实验室大型实验装置上完成的，实验装置和实验方法的详细介绍见文献[6]。
+
+# 2节流引起的流型及其转变机理
+
+节流法有效消除严重段塞流的根本原因在于促使流型转变为弹状流和泡状流，使不稳定流动转变为稳定流动。
+
+# 2.1严重段塞流向弹状流的转变
+
+在严重段塞流的第三和第四阶段，下倾管内积聚的大量气体在短时间内快速地涌进立管，在向上运动的过程中体积迅速膨胀，速度不断加快，并推动立管内的液塞高速喷出。此阶段下施加立管顶部阀门节流作用，随着阀门开度的减小，节流阀压降增大，同样背压下，阀前压力急剧升高，在一定程度上抵消了下倾管内气体体积的膨胀。当阀前压力升高到一定程度时，下倾管内积聚的大量气体无法在短时间内快速连续地涌入立管，而只能以大气泡的形式间歇性地进入立管，如图1所示；气泡进入立管又会引起节流阀压降大幅度增加[3]，从而进一步提高了背压，可见，气泡在立管内向上运动的过程中，在高背压的作用下，其加速运动受到了极大的抑制，体积无法快速膨胀，气泡长度虽然略有增加，但并不显著，不会导致气液喷发。结果是导致立管内出现稳定的弹状流，严重段塞流现象被消除。
+
+![](images/f2bc749c95311f9c2730ebca07381f07e236317fc78f6c76fe01faf55c6e77ec.jpg)  
+图1下倾管内气体进入立管方式的改变促使严重段塞流转换为弹状流
+
+对严重段塞流节流所产生的弹状流以大气泡和液塞的交替流动为特征，下倾管内的气体几乎是以单个大气泡的形式进入立管的，气泡尾部的气液相间界面较为清晰，只有少量从大气泡尾部脱落的小气泡被卷吸在液塞中。图2所示为该流型的流动特征，可见立管顶部持液率的PDF结构呈 $H _ { \mathrm { L } }$ 接近于0和 $H _ { \mathrm { L } }$ 接近于1的双峰分布，见图2c。弹状流下持液率的PSD为多峰结构分布，如图2d所示，说明液塞和气弹的长度是不均一的。
+
+![](images/5b4060df7bf90dc617e4bd4f15933f2ab123f41b0c1c3aa4f54c8ffe35ff9c21.jpg)  
+图2弹状流的特征：（a）上升管底部压力，（b）立管顶部持 液率，（c）持液率的PDF分布，（d）持液率的PSD分布 Fig.2 Characteristics of slug flow: (a) Pressure at riser base, (b) Liquid holdup at riser top, (c) PDF distribution of liquid holdup, (d) PSD distribution of liquid holdup
+
+# 2.2弹状流向泡状流的转变
+
+在弹状流的基础上继续节流，阀门压降的快速增加会导致背压急剧升高，升高的背压抑制了下倾管内气体体积的急剧膨胀，从而进一步提高了气体进入立管的难度。最终，气体以一簇一簇的弥散小气泡的形式进入立管，小气泡在立管内较为均匀地分布，形成泡状流，如图3所示。节流形成的泡状流的气泡密度很低，平均持液率极高，且在一定范围内波动，气泡呈“之”字形轨迹向上运动，在运动的过程中气泡之间碰撞合并的几率很小，几乎不会出现直径较大的气泡，也不存在气泡体积快速膨胀的现象。与传统垂直上升管内气液两相泡状流特征略有不同，由于下倾管内的气体是以气泡群的方式间歇进入立管的，气泡在立管内并非均匀分布，连续的液相被夹带大量弥散小气泡的液塞分成若干小段。气泡尺寸不一，形状各异，但小气泡不会合并发展成为大气泡。
+
+![](images/1c86bd01a55b1002c2ea6f7a6ed00773e45625d5f65e02447a1a9562142f1fbb.jpg)  
+Fig.1Flow pattern transition from severe slugging to slug flow   
+图3下倾管内气体进入立管方式的改变促使弹状流转换为泡状流  
+Fig.1Flow pattern transition from slug flow to bubbly flow
+
+对严重段塞流节流所产生的泡状流的流动特征如图4所示。由于立管底部压力和立管顶部持液率的波动频率与气泡进入立管的频率密切相关，与弹状流和严重段塞流相比，泡状流下立管底部压力和立管顶部持液率的波动频率有显著的升高，但波动幅度极小，如图4c所示。相应的PDF分布在高持液率区域（ $\cdot \boldsymbol { H _ { \mathrm { L } } }$ 接近于1）有一个明显的主峰，印证了泡状流的存在。由于对不稳定流动节流所产生的泡状流的流动结构实际为夹带大量小气泡的液塞和液块的交替流动，具有非常明显的波动性特征，因此其持液率相对应的PSD 曲线在低频区域会呈现出一个或若于个明显的主峰，如图4d所示，PSD的多峰结构意味着管内液塞长度是大小不一的。
+
+![](images/502920e5b9b426bf69bfa9efc877e738cf82e62592ed5d3c3162f25c3e6186ef.jpg)  
+图4泡状流的特征：（a）上升管底部压力，（b）立管顶部持 液率，（c）持液率的PDF分布，（d）持液率的PSD分布 Fig.4Characteristicsofbubbly flow:(a)Pressureat riser base, (b)Liquid holdup at riser top,(c) PDF distribution of liquid holdup,(d) PSD distribution of liquid holdup
+
+# 3节流作用下S型立管的稳定流动边界
+
+阀门上下游压降 $\Delta P _ { \mathrm C }$ 是建立节流作用下S型立管稳定流动边界的关键，李乃良等人[5假设 $\Delta P _ { \mathrm C }$ 是单相液速的函数，得到了顶部阀门节流作用下S型立管内的气液稳定边界：
+
+$$
+\frac { P _ { s } + \mathrm C U _ { L S } ^ { 2 } } { P _ { o } } > \frac { \displaystyle \frac { \alpha _ { _ P } L _ { _ P } } { \alpha _ { _ B } } ( \Phi - \frac { 2 \Delta P _ { c } } { \rho _ { _ L } g H _ { _ { E R } } } ) - \Phi H _ { _ { E R } } } { \displaystyle \frac { P _ { o } } { \rho _ { _ L } g } }
+$$
+
+其中， $\scriptstyle L _ { \mathrm { P } }$ 为集输管道的长度； $\alpha _ { \mathrm { P } }$ 和 $\alpha _ { \mathrm { { B } } }$ 分别是集输管道内的平均含气率和气泡截面含气率； $H _ { \mathrm { E R } }$ 为立管的有效高度； $y$ 是气泡头部距立管底部的高度； $U _ { \mathrm { L S } }$ 为液体流速。
+
+Malekzadeh等人[指出，气液流速是影响 $\Delta P _ { \mathrm C }$ 的重要参数，如果简单地将 $\Delta P _ { \mathrm C }$ 处理成液相表观速度的函数，则会使预测的压力偏低，所以必须考虑气相速度的影响。他们认为 $\Delta P _ { \mathrm C }$ 的时均值应为：
+
+$$
+\Delta P _ { C } = C U _ { M } ^ { 2 }
+$$
+
+其中： $U _ { \mathrm { M } }$ 为气液混合速度，与管道入口气液表观速度 $U _ { \mathrm { G S O } }$ 和 $U _ { \mathrm { L S } }$ 存在如下关系：
+
+$$
+U _ { _ M } = \left( \frac { D _ { _ P } } { D _ { _ R } } \right) ^ { 2 } \left( U _ { _ { L S } } + U _ { _ { G S O } } \right)
+$$
+
+式中： $D _ { \mathrm { P } }$ 是集输管道直径， $D _ { \mathrm { R } }$ 是立管直径。本文实验中集输管道与立管直径相同，均为 $5 0 \mathrm { m m }$ ，因此可以认为气液混合速度 $U _ { \mathrm { M } }$ 为：
+
+$$
+U _ { _ M } = \left( U _ { _ { L S } } + U _ { _ { G S O } } \right)
+$$
+
+将式 $( 2 ) \sim ( 4 )$ 带入式（1)，整理后，可以得到节流作用下S型立管的稳定流动界限：
+
+$$
+\frac { P _ { s } + C U _ { M } ^ { 2 } } { P _ { o } } > \frac { \displaystyle \frac { \alpha _ { _ P } L _ { _ P } } { \alpha _ { _ B } } ( \Phi - \frac { 2 \Delta P _ { c } } { \rho _ { _ L } g H _ { _ { E R } } } ) - \Phi H _ { _ { E R } } } { \displaystyle \frac { P _ { o } } { \rho _ { _ L } g } }
+$$
+
+# 4流型图
+
+保持节流阀稳定在某一开度下不变，调节入口气液流速，便可得到特定节流度下的流型图。图5、图6、图7所示分别为无节流作用下，以及 $C { = } 2 0 2 { , } 0 0 0$ 和 $C { = } 1 , 5 4 0 , 0 0 0 ~ \mathrm { P a } { \cdot } \mathrm { s } ^ { 2 } { \cdot } \mathrm { m } ^ { - 2 }$ 下的流型图。
+
+![](images/420e504ddbdf4de20578eac9ee238032d261b40994a65e391cf9980fe390ce74.jpg)  
+图5无节流作用下的稳定流动边界及流型图
+
+当 $C { = } 2 0 2 { , } 0 0 0 \ \mathrm { P a } { \cdot } \mathrm { s } ^ { 2 } { \cdot } \mathrm { m } ^ { - 2 }$ 时，在节流的作用下,高气液流速下的不稳定流动已经转变为弹状流，如图6所示。由于此时阀门开度较大，低气液流速下的不稳定流动受节流作用的影响较小，下倾管内的气体无法在液塞到达立管顶部前进入立管，背压的增加也不足以抑制气体在立管内的膨胀加速，严重段塞流的阶段性特征并未受到破坏，节流无法使流型向弹状流转变，管内仍为严重段塞流。
+
+![](images/40c0e257d9a351565ee93cabde6973f2c51e8a72e202d18a50a0ee0e238b04af.jpg)  
+Fig.5 Flow pattern map with no elimination method applied
+
+图 $6 \ C { = } 2 0 2 { , } 0 0 0 \ \mathrm { P a } { \cdot } \mathrm { s } ^ { 2 } { \cdot } \mathrm { m } ^ { - 2 }$ 下的稳定流动边界及流型图
+
+当 $C { = } 1 , 5 4 0 , 0 0 0 ~ \mathrm { P a } { \cdot } \mathrm { s } ^ { 2 } { \cdot } \mathrm { m } ^ { - 2 }$ 时，从图7中可以发现，在节流的进一步作用下，较高气液流速下的流型由弹状流转换为泡状流，而处于中等气液流速下的流型则变为弹状流。低气液流速区域内的流型受节流作用影响较小，严重段塞流的典型特征仍然存在，需要更进一步的节流才能促使流型发生转变。
+
+![](images/f0287cac40a8455170eb70255151d899d6d0a7912a99f09091e82c2fe6a50485.jpg)  
+Fig.6 Flow pattern map at $C { = } 2 0 2 { , } 0 0 0 \mathrm { P a } { \cdot } \mathrm { s } ^ { 2 } { \cdot } \mathrm { m } ^ { - 2 }$   
+图 $7 ~ C { = } 1 { , } 5 4 0 { , } 0 0 0 ~ \mathrm { P a } { \cdot } \mathrm { s } ^ { 2 } { \cdot } \mathrm { m } ^ { - 2 }$ 下的稳定流动边界及流型图Fig.7 Flow pattem map at C=1,540, Pas²-m2
+
+Jansen等人[3]在做稳定性分析时假设节流阀压降仅与液相流速有关，而忽略了气体流速的作用，所得到的稳定流动边界对液相速度的变化敏感，但基本不受气体流速的影响。从图6和图7可以看出，本文实验结果和理论预测结果表明气液流速均对稳定流动边界有重要影响。
+
+# 5结论
+
+本文研究了节流作用下立管内的流型及流型转变，建立了考虑气液流速作用的稳定流动边界：
+
+（1）发现立管顶部节流法可以促使流型由严重段塞流转变为弹状流和泡状流。在节流的作用下，节流阀上下游压降增大，很大程度上抵消了下倾管内封闭气体的压力，导致气体以大气泡或小气泡的方式进入立管，在立管内形成弹状流和泡状流。
+
+（2）使用气液混合速度模化阀门压降，得到了稳定流动边界。与实验数据的对比表明，气液速度对稳定流动边界都有显著的影响，增加节流度可以抑制高气液流速区严重段塞流的发生，将不稳定流动区域限制在低气液流速区域。
+
+# 参考文献
+
+[1] Schmidt Z,Brill JP, Beggs H D.Choking Can Eliminate Severe Pipeline Slugging [J]. Oil and Gas Journal,1979, 77(46): 230-238   
+[2]Taitel Y. Stability of Severe Slugging [J]. International Journal of Multiphase Flow,1986,12(2): 203-217   
+[3] JansenFE,ShohamO,Taitel Y.The Elimination of Severe Slugging-Experiment and Modeling[J].International Journal of Multiphase Flow,1996,22(6):1055-1072   
+[4] 李乃良，郭烈锦，李文升，等．顶部节流条件下S 型柔 性立管内油气水三相流流型转变实验研究[J].《工程热物 理学报》，2011,32(4):597-601 LI Nailiang, GUO Liejin,LI Wensheng, et al. Experimental Study on Flow Pattern Transition of Oil-Gas-Water Three Phase Flow in S-Shaped Flexible Riser on the Effect of TopsideChocking[J].JournalofEngineering Thermophysics,2011,32(4): 597-601   
+[5]李乃良，郭烈锦，节流法消除严重段塞流的稳定性分析 及数值模拟[J].《工程热物理学报》，2013,34(7),1-4. LI Nailiang,GUO Liejin. Stability Analysis and Numerical Simulation of Riser Topside Choking on the Elimination of Severe Slugging[J]. Journal of Engineering Thermophysics, 2013,34(7), 1-4.   
+[6] Li, N.L., Guo,L. J.,Li, W. S.Gas-Liquid Two-Phase Flow Patterns in a Pipeline-Riser System with an S-Shaped Riser[J]. International Journal of Multiphase Flow, 2013,55 (8): 1-10.   
+[7] Malekzadeh, R., Henkes, R., Mudde, R.F. Severe Slugging ina Long Pipeline-Riser System: Experimentsand Predictions[J]. International Journal of Multiphase Flow, 2012,46 (1): 9-21.

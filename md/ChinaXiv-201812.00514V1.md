@@ -1,0 +1,201 @@
+1 饲粮中性洗涤纤维水平对山羊瘤胃细菌结构及组成的影响
+
+2 张雪娇 王立志\*
+
+3 （四川农业大学动物营养研究所，成都611130)  
+4 摘要：本研究旨在利用高通量测序技术研究饲粮中性洗涤纤维（NDF）水平对山羊瘤胃细  
+5 菌结构及组成的影响。选用6只山羊进行 $3 \times 3$ 拉丁方试验，依据饲粮 NDF水平分为低  
+6 $( 3 5 . 0 1 \%$ ，LN 组)、中 $( 4 0 . 1 0 \%$ ，MN 组)和高 NDF 水平组 $( 4 5 . 1 6 \%$ ，HN组),每组2只。分3  
+7 期进行饲养试验，每期试验 $2 0 \mathrm { d }$ ，其中预试期 $\boldsymbol { 1 4 \mathrm { d } }$ ，正试期6d。正试期结束后采集山羊瘤  
+8 胃内容物，提取细菌总DNA后，用细菌通用引物对16S rRNA的V4区进行PCR扩增，扩  
+9 增产物用Illumina HiSeq 250PE 测序平台进行高通量测序，测序结果用QIME1.8.0 等生物  
+10 信息学软件进行分析。结果表明：1)HN 组的瘤胃液氨态氮（ $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ ）浓度极显著低于LN  
+11 组和MN组 $( P { < } 0 . 0 1 )$ ；LN 组瘤胃液乙酸/丙酸显著低于HN 组 $( P { < } 0 . 0 5 )$ ，但MN 组与其他2  
+12 组无显著差异 $( P { > } 0 . 0 5 )$ 。2）各组间Chaol指数和 Shannon 指数的差异均不显著 $( P { > } 0 . 0 5 )$ ； LN  
+13 组observed species 指数显著高于其他2组 $( P { < } 0 . 0 5 )$ ，其他2组间则无显著差异 $( P { > } 0 . 0 5 )$ 。3)  
+14 在门水平上，3组间所有细菌的相对丰度差异均不显著 $( P { > } 0 . 0 5 )$ ；在属水平上，HN 组普雷沃  
+15 氏菌科 UCG-001（Prevotellaceae UCG-001）、普雷沃氏菌科 UCG-003（Prevotellaceae UCG-003）  
+16 和瘤胃球菌科 UCG-014（RuminococcaceaeUCG-014）的相对丰度显著高于其他2组 $( P { < } 0 . 0 5 )$   
+17 HN 组瘤胃球菌科 NK4A214（Ruminococcaceae NK4A214 group）、瘤胃球菌科 UCG-005  
+18 （RuminococcaceaeUCG-005）的相对丰度显著高于LN组 $_ { ( P < 0 . 0 5 ) }$ ；HN 组 SP3-e08 和  
+19 Lachnoclostridium10的相对丰度显著低于其他2组 $( P { < } 0 . 0 5 )$ ；LN 组解琥珀酸菌属  
+20 (Succiniclasticum)相对丰度显著高于其他2组 $( P { < } 0 . 0 5 )$ ; MN组赖氨酸芽孢杆菌属(Lysinibacillus)、  
+21 芽孢杆菌属(Bacillus)和叶杆菌属(Phyllobacterium)的相对丰度显著高于其他2组 $( P { < } 0 . 0 5 )$ ，食
+
+收稿日期：2017-10-  
+基金项目：“十三五”国家重点研发计划项目“畜禽现代化饲养关键技术研发”  
+作者简介：张雪娇(1996-)，女，陕西咸阳人，硕士研究生，从事反刍动物营养研究。E-mail:  
+934619708@qq.com  
+\*通信作者：王立志，副教授，硕士生导师，E-mail：wanglizhi08@aliyun.com
+
+物谷菌属(Victivallis)的相对丰度极显著高于其他2组 $( P { < } 0 . 0 1 )$ 。综合得出，饲粮NDF水平在$3 5 . 0 1 \% { \sim } 4 5 . 1 6 \%$ 变化时，显著影响山羊瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度和乙酸/丙酸，显著影响瘤胃PrevotellaceaeUCG-001、PrevotellaceaeUCG-003等多种菌属的相对丰度。
+
+关键词：中性洗涤纤维；细菌；高通量测序；发酵参数
+
+中图分类号：S826
+
+在反刍动物饲粮中，纤维成分占有很大的比重。它在促进瘤胃蠕动，维持瘤胃正常酸碱环境等方面有着不可替代的作用。以往虽然许多学者都曾研究过纤维的生理功能，但是对纤维的定义并不科学也不统一。现在人们普遍认为，相比其他纤维指标而言，中性洗涤纤维(NDF)是表示动物饲粮纤维水平最好的指标，因为它几乎涵盖了组成纤维的所有成分[1]。NDF不仅具有维护动物胃肠道健康的作用，其降解产物还为动物的生长发育提供了大量能量。但反刍动物本身并不具有消化NDF 的能力，其对纤维的利用主要依赖于瘤胃内寄生的微生物。瘤胃微生物的结构与组成决定了宿主对 NDF的消化利用程度，而宿主进食的NDF 也是瘤胃微生物赖于生长繁殖的重要底物。以往虽然已有饲粮纤维水平对瘤胄微生物影响的研究，但这些研究主要采用的是传统的培养技术和变性梯度电泳等指纹图谱技术[2-6]。培养技术只能分析能在体外培养基中生长的微生物，但瘤胃中 $9 9 \%$ 左右的微生物到目前为止还不能进行体外培养。而指纹图谱技术不仅费时费力，且分辨率低，仅能检测出样品中 $10 \%$ 左右的优势微生物。这些技术都严重低估了瘤胃微生物的多样性，因此饲粮NDF 水平影响瘤胃微生物结构与组成的规律还不尽为人所知。针对这些问题，本研究拟采用最新的 Illumina HiSeq250PE 高通量测序技术，全面揭示饲粮 NDF 水平对山羊瘤胃细菌结构与组成的影响，研究结果能提高人们对瘤胃微生物适应营养物质水平变化规律的认识，以及营养物质水平对瘤胃微生物多样性的影响等知识的理解，还可为今后通过调控瘤胃微生物促进瘤胃纤维的降解提供参考。
+
+1材料与方法
+
+# I.1试验动物与饲乔官理
+
+试验动物为6只健康雄性努比亚黑山羊，平均月龄为8月龄，平均体重为( $2 8 . 3 3 { \scriptstyle \pm 3 . 7 7 } .$ ））kg。参照我国《肉羊饲养标准》(NY/T816—2004)，以每天每头增重 $0 . 1 \mathrm { k g }$ 为标准配制各组饲粮。采用 $3 \times 3$ 拉丁方试验，依据饲粮 NDF水平分为低 $( 3 5 . 0 1 \%$ ，LN组)、中 $( 4 0 . 1 0 \%$
+
+MN组)和高NDF水平组 $( 4 5 . 1 6 \%$ ，HN 组)每组2只。。饲粮组成及营养水平见表1。饲粮中的干物质（dry mater,DM）、粗蛋白质（crude protein,CP）、钙（calcium,Ca）、磷（phosphorus,P)等常规营养成分参照Chemists[7]的方法进行测定,NDF和酸性洗涤纤维(acid detergent fiber,ADF）含量参照Van Soest 等[8的方法进行测定。试验羊单笼饲养，每天分别于09:00及17:00分2次饲喂，自由饮水。
+
+表1饲粮组成及营养水平 (干物质基础)  
+Table1 Composition and nutrient levels of diets (DM basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>LN组</td><td>MN组</td><td>HN组</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>32.40</td><td>24.75</td><td>20.34</td></tr><tr><td>大豆粕 Soybean meal</td><td>1.00</td><td>2.00</td><td>4.30</td></tr><tr><td>小麦麸 Wheat bran</td><td>8.50</td><td>12.97</td><td>3.85</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.65</td><td>1.95</td><td>1.00</td></tr><tr><td>菜籽粕Rapeseed meal</td><td>1.00</td><td>1.70</td><td>1.30</td></tr><tr><td>玉米淀粉 Corn starch</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>糖蜜 Molasses</td><td>0.10</td><td>0.50</td><td>1.30</td></tr><tr><td>玉米皮 Corn husk</td><td>1.00</td><td>15.00</td><td>35.90</td></tr><tr><td>苜蓿干草 Alfalfa hay</td><td>33.10</td><td>21.90</td><td>23.25</td></tr><tr><td>羊草 Chinese wildrye hay</td><td>7.60</td><td>9.10</td><td>2.50</td></tr><tr><td>稻草 Straw</td><td>8.80</td><td>5.91</td><td>1.73</td></tr><tr><td>二水合磷酸氢钙CaHPO4·2HO</td><td>0.77</td><td>0.77</td><td>1.37</td></tr><tr><td>碳酸钙 CaCO3</td><td>0.13</td><td>0.50</td><td>0.21</td></tr><tr><td>小苏打 NaHCO3</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>食盐 NaCl</td><td>0.55</td><td>0.55</td><td>0.55</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>88.92</td><td>88.45</td><td>88.26</td></tr><tr><td>粗蛋白质CP</td><td>11.35</td><td>11.34</td><td>11.34</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>8.83</td><td>8.83</td><td>8.82</td></tr><tr><td>中性洗涤纤维 NDF</td><td>35.01</td><td>40.10</td><td>45.16</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>17.39</td><td>20.32</td><td>22.41</td></tr><tr><td>钙Ca</td><td>0.74</td><td>0.74</td><td>0.74</td></tr><tr><td>磷P</td><td>0.44</td><td>0.44</td><td>0.44</td></tr><tr><td>精粗比 Concentrate to forage ratio</td><td>49.50:50.50</td><td>48.09:51.91</td><td>36.62:63.38</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provides the following per $\mathbf { k g }$ of diets: VA2 200 IU，VD 250 IU,
+
+ME is calculated using the data in feed composition table from Chinese Feeding Standard of Meat-Producing Sheep and Goat (NY/T 816-20o4),while other nutrient levels were measured values.
+
+# 1.2试验设计及样品采集
+
+分3期进行饲养试验，每期试验 $2 0 \mathrm { d }$ ，其中预试期 $1 4 { \mathrm { d } }$ ，正试期6d。参照文献[9-10]中的方法，每期饲养试验结束后于次日晨饲后 $2 \mathrm { h }$ ，将 $1 0 \mathrm { m m }$ 直径塑料管连接到真空泵，用开口器打开羊的口腔，将塑料管从羊口腔缓慢插入至瘤胃，抽取瘤胃内容物约 $5 0 ~ \mathrm { m L }$ ，用便携式酸度计进行瘤胃液pH测定后，立即装入充满氮气的样品袋中，置于冰上。反复拍打样品袋以确保固相微生物充分进入液相，然后用4层纱布过滤得到瘤胃液，迅速投入液氮罐中，立即带回实验室转移至-80℃超低温冰箱保存备用。
+
+# 1.3瘤胃发酵参数检测
+
+瘤胃液氨态氮 $( \mathrm { N H } _ { 3 }  – \mathrm { N } )$ 浓度的测定：参照Broderick等[1]描述的方法进行测定。首先将采集的瘤胃内容物进行预处理；然后制作 $\mathrm { N H } _ { 3 } – \mathrm { N }$ 标准曲线，建立线性拟合回归方程；接着把预处理后的待测离心瘤胃液充分混匀，再吸取 ${ 8 0 \mu \mathrm { L } }$ 加入到预先标好的测试管中，各管按照补加试剂顺序依次加入 $4 0 \mu \mathrm { L }$ 甲醇、 $2 . 5 ~ \mathrm { m L }$ 苯酚、 $2 . 0 ~ \mathrm { m L }$ 碱性次氯酸钠溶液，在 $3 7 \mathrm { ~ \textdegree C }$ 水浴$1 0 \mathrm { m i n }$ ，取出后室温下放置 $1 0 \mathrm { m i n }$ ，于 $6 5 0 \mathrm { n m }$ 处采用酶标仪（美国Molecular Devices 公司SpectramaxM2）测定吸光度值；最后将样品液的吸光度值代入线性拟合回归方程，计算出瘤胃液中 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度。
+
+瘤胃液挥发性脂肪酸(VFA)浓度的测定：参照Li等[12]描述的方法采用气相色谱分析仪（CP-3800，美国Varian 公司）进行测定。首先将采集的瘤胃内容物进行预处理；然后向标准中间液中分别加入 $0 . 2 \mathrm { m L }$ 偏磷酸溶液， $4 0 \mu \mathrm { L }$ 巴豆酸溶液，混匀， $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 放置 $3 0 \mathrm { m i n } , 1 2 0 0 0$ $\times g$ 离心 $1 0 \mathrm { m i n }$ ，接着取上清液 $0 . 1 ~ \mathrm { m L }$ 加入 $0 . 9 \mathrm { m L }$ 甲醇，混匀后经 $0 . 2 2 \mu \mathrm { m }$ 有机滤膜过滤。用气相色谱分析仪对滤液中乙酸、丙酸、丁酸的含量进行测定。
+
+# 1.4总DNA的提取和高通量测序
+
+取 $2 0 0 ~ \mu \mathrm { L }$ 瘤胃液样品，用天根生化科技（北京）有限公司生产的粪便基因组DNA提取试剂盒提取瘤胃微生物总DNA。采用细菌通用引物对(515F:GTGCCAGCMGCCGCGGTAA；806R:GGACTACHVGGGTWTCTAAT)[13]，以提取的总DNA为模板针对细菌16SrRNAV4区域进行PCR 扩增。采用如下 ${ 5 0 \mu \mathrm { L } }$ 反应体系：dNTP
+
+Mixture (10mmol/L)1μL，上游、下游引物 $\mathrm { 1 0 \ : \mu \ m o l / L } )$ 各 $1 . 2 5 \mu \mathrm { L }$ ，总DNA( ${ \mathrm { 5 0 ~ n g / \mu L } }$ 1μL，Taq DNA Polymerase( ${ 5 } \mathrm { U / \mu L }$ 含 $\mathrm { M g ^ { 2 + } } .$ $0 . 2 5 ~ \mu \mathrm { L }$ ， $1 0 \times$ Taq Buffer ${ 5 } \mu \mathrm { L }$ ，加双蒸水至 ${ 5 0 \mu \mathrm { L } }$ 。PCR反应参数如下： $9 5 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 预变性 $2 ~ \mathrm { m i n }$ ；随后变性循环30次（95℃， $3 0 ~ \mathrm { s }$ ； 55℃， $3 0 ~ \mathrm { s }$ ; $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ ，30 s)；72℃延伸 $5 \mathrm { m i n }$ ， $1 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冷却。PCR产物待检测合格后送北京诺禾致源生物科技有限公司，采用 Illumina HiSeq 250 PE 平台进行高通量测序。
+
+# 1.5 生物信息学分析
+
+参照Wright等[14]的方法，利用QIIME1.8.0软件对测序原始数据进行初次质控，过滤掉低质量序列，去除 Barcode 和引物序列，然后参照Yanez-Ruiz 等[15]的方法，在Mothur 软件中进行拼接;再在QIIME1.8.0 软件中使用 Uparse 模块将拼接的序列按 $9 7 \%$ 的相似性聚类为运算分类单位（operational taxonomic unit,OTU），并挑选每个OTU中相对丰度最高的序列作为代表序列。将代表序列与RDP 数据库（Release 11.1，htp://rdp.cme.msu.edu/）比对并构建OTU表，用RDPClassifier将OTU代表性序列在微生物各分类水平进行物种注释，并绘制在门水平物种组成的柱状图。基于去除嵌合体和 Singletons 处理之后的OTU table、rep_set.tree 文件及其抽样最大深度，计算 $\mathfrak { a } .$ 多样性指数(Chao1、Shannon、Observed-species)并绘制各样品的OTU稀释曲线。对样品共享属进行分析，用R软件根据共享属的组成及其在各样品中所占的比例，绘制样品间共享属的聚类热图。
+
+# 1.6 数据统计分析
+
+试验结果用以下一般线性模型表示：
+
+$$
+Y _ { \mathrm { i j ( k ) } } { = } \ y + \alpha _ { \mathrm { i } } { + } \beta _ { \mathrm { j } } { + } \gamma _ { \mathrm { ( k ) } } { + } \chi _ { \mathrm { i j ( k ) } } \ \left( \mathrm { i } { = } \mathrm { j } { = } \mathrm { k } { = } 1 , 2 , 3 \right)
+$$
+
+式中：Y为某指标的观测值， $\mu$ 为试验全部观测值总体平均值； $\boldsymbol { a }$ 、 $\beta$ 、γ分别为本研究中试验期、羊组别和饲粮 NDF水平， $\boldsymbol { \xi }$ 为随机误差。
+
+用 SPSS 21.0 软件中的ANOVA模块用以NDF 水平为主要影响因素，且与其他2种影响因素无互作效应的方法对组间进行差异显著性检验，并用Duncan 氏法进行多重比较。试验结果以平均值±标准差表示。以 $P { < } 0 . 0 5$ 表示为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+# 2结果与分析
+
+2.1饲粮NDF水平对山羊瘤胃发酵参数的影响从表2可以看出，山羊瘤胃液 $\mathsf { p H }$ 在3组间差异不显著 $( P { > } 0 . 0 5 )$ ，但随着饲粮 NDF 水平的增加有升高趋势；HN 组瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度极显著低于LN 组和 MN 组 $( P { < } 0 . 0 1 )$ ，LN组和MN组间的差异不显著 $( P { > } 0 . 0 5 )$ ；各组间瘤胃液乙酸、丙酸、丁酸及总挥发性脂肪酸(TVFA)浓度差异均不显著 $( P { > } 0 . 0 5 )$ ，乙酸/丙酸有随着饲粮 NDF 水平增加而升高的趋势，且LN 组和 HN 组间的差异达到了显著水平（ $P { < } 0 . 0 5 )$ ）°
+
+表2饲粮NDF水平对山羊瘤胃发酵参数的影响  
+Table 2Effects of dietary NDF level on rumen fermentation parameters in goats   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td></tr><tr><td>LN</td><td>MN</td><td>HN</td></tr><tr><td>pH</td><td>6.56±0.08</td><td>6.67±0.05</td><td>6.79±0.06</td></tr><tr><td>氨态氮 NH3-N/(mg/dL)</td><td>17.45±2.67Aa</td><td>13.95±5.08Aa</td><td>9.22±2.20Bb</td></tr><tr><td>乙酸 Acetate/（mmol/L）</td><td>41.56±8.40</td><td>43.78±4.85</td><td>45.56±12.48</td></tr><tr><td>丙酸Propionate/（mmol/L）</td><td>17.48±4.33</td><td>13.89±2.30</td><td>13.28±4.79</td></tr><tr><td>丁酸Butyrate/（mmol/L）</td><td>7.49±2.29</td><td>7.09±1.52</td><td>6.80±2.36</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>66.53±13.86</td><td>64.76±6.32</td><td>65.65±18.78</td></tr><tr><td>乙酸/丙酸 Acetate/propionate</td><td>2.45±0.48b</td><td>3.23±0.70ab</td><td>3.62±0.74a</td></tr></table></body></html>
+
+同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。In the same row, values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference（ $\scriptstyle \cdot - 0 . 0 5$ ）,and with different capitalletter superscripts mean extremely significant difference( $_ { \cdot \textcircled { P < 0 . 0 1 } }$ ）.The same as below.
+
+2.2饲粮 NDF 水平对山羊瘤胃细菌结构及组成的影响
+
+# 2.2.1 各样品测序深度和OTU数量分析
+
+本次试验共得到了1125746 条有效序列(clean data)，平均每个样品含（ $\stackrel { \cdot } { 6 } 2 ~ 5 4 1 { \pm } 9 ~ 0 2 4 \rangle$ 条。将有效序列进行聚类，共得到17198个OTUs。3组间共享OTUs数为1012个，LN 组与 MN 组间共享OTUs数为1197个，LN 组与HN 组间共享OTUs数为1083个，MN 组与HN 组间共享OTUs数为1083个（图1)。
+
+![](images/432b95b29fc25eb536dce9beb40fa7b10faeb7c7a839e31c1e865853fe3eab92.jpg)  
+图1 OTU维恩图
+
+# 2.2.2样品稀释曲线和 $\mathfrak { a } .$ 多样性分析
+
+各样品的稀释曲线见图2。由图可见，在本试验的测序深度下(reads=30154)，各样品稀释曲线最终均趋于平缓可以，说明本试验的测序深度覆盖各样品的绝大多数微生物。
+
+![](images/fcb621c4c260896b878f7ae0f7791ea7afafefcbf0ba48676b9c11d59639545f.jpg)  
+Fig.1Venn diagram of OTUs   
+图2样品的稀释曲线  
+Fig.2Rarefaction curves of samples
+
+在取样深度为30154时对山羊瘤胃细菌的 $\mathbf { a }$ 多样性指数进行组间差异分析，结果见表3。Chaol 指数和 Shannon 指数在组间差异均不显著 $( P { > } 0 . 0 5 )$ ，LN 组observed species 指数显著高于其他2 组 $( P { < } 0 . 0 5 )$ ，其他2组间则无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+表3在取样深度为30154时各组 $\mathbf { \Omega } _ { . \mathrm { a } }$ 多样性指数的对比
+
+Table 3Comparison of α diversity indexes among groups calculated at a depth of 30 154   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别Groups</td></tr><tr><td>LN</td><td>MN</td><td>HN</td></tr><tr><td>Chao1指数 Chaol index</td><td>1024.78±102.66</td><td>890.22±77.12</td><td>949.70±177.06</td></tr><tr><td>observed species 指数 Observed species index</td><td>880.33±69.91a</td><td>756.33±68.28b</td><td>718.67±105.30b</td></tr><tr><td>Shannon 指数 Shannon index</td><td>6.84±0.60</td><td>6.31±0.41</td><td>5.94±0.85</td></tr></table></body></html>
+
+# 44 2.2.3 瘤胃细菌结构及组成
+
+将本试验所得有效序列在不同分类水平上进行物种注释，结果共得到23个门，44个纲，71个目，121个科，225个属。由图3可以看出，在门水平上，3组间物种相对丰度差异均不显著 $( P { > } 0 . 0 5 )$ 。拟杆菌门(Bacteroidetes)、厚壁菌门(Firmicutes)和变形菌门(Proteobacteria)在3 组中均为优势菌门，其次依次为黏胶球形菌门(Lentisphaerae)、软壁菌门(Tenericutes)。
+
+![](images/31e60fd0538d44b159bec3e1371396963d2fb76c549242618b0fe40cafcd1b13.jpg)  
+图3瘤胃细菌在门水平上的组成 (相对丰度前10)  
+Fig.3Composition of rumen bacteria at phylum level (top 1O of relative abundance)
+
+在属水平上，3组的前2个优势属均依次为普雷沃氏菌属1(Prevotella1)和理研菌属 RC9（RikenellaceaeRC9 gut group）。将225个属中相对丰度低于 $1 \%$ 的属聚为其他（215个）后，各样本在属水平上的物种组成见图4。表4列出了在属水平上组间相对丰度有显著差异的细菌。普雷沃氏菌科 UCG-001（Prevotellaceae UCG-001）、普雷沃氏菌科 UCG-003（PrevotellaceaeUCG-003）和瘤胃球菌科UCG-014（Ruminococcaceae UCG-014）的相对丰度呈现随饲粮 NDF水平增加而升高的变化规律，且HN 组显著高于其他2组 $_ { ( P < 0 . 0 5 ) }$ ，其他2组间无显著差异$( P { > } 0 . 0 5 )$ ；瘤胃球菌科NK4A214（RuminococcaceaeNK4A214 group）、瘤胃球菌科UCG-005（RuminococcaceaeUCG-005）的相对丰度呈现随饲粮NDF水平增加而升高，且HN组显著高于LN组 $( P { < } 0 . 0 5 )$ ; $S P 3 \mathrm { - e 0 8 }$ 和Lachnoclostridium10 的相对丰度呈现随NDF水平增加而降低的变化规律，且HN 组显著低于其他2 组 $( P { < } 0 . 0 5 )$ ，其他2组无显著差异 $( P { > } 0 . 0 5 )$ ；LN组中解琥珀酸菌属(Succiniclasticum)的相对丰度显著高于其他2组 $( P { < } 0 . 0 5 )$ ，其他2组无显著差异 $( P { > } 0 . 0 5 )$ ；MN 组中赖氨酸芽孢杆菌属(Lysinibacillus)、芽孢杆菌属(Bacillus)和叶杆菌属(Phyllobacterium)的相对丰度显著高于其他2组 $( P { < } 0 . 0 5 )$ ，食物谷菌属(Victivallis)的相对丰度极显著高于其他2组 $( P { < } 0 . 0 1 )$ ,其他2组间无显著差异 $( P { > } 0 . 0 5 )$ ; LN组[Eubacterium] ruminantiumgroup 的相对丰度显著高于HN 组 $( P { < } 0 . 0 5 )$ ，但与MN 组比较无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+![](images/0e80ca6f974383170109cb13ce74218f8cac9c95c436eb310b6e3ce1e8815991.jpg)  
+图4瘤胃细菌在属水平上的组成  
+Fig.4Composition of rumen bacteria at genus level
+
+表4各组相对丰度存在显著差异的属  
+Table 4Genus with significantly difference among groups   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">组别 Groups</td></tr><tr><td>LN</td><td>MN</td><td>HN</td></tr><tr><td>普雷沃氏菌科UCG-003PrevotellaceaeUCG-003</td><td>1.76±0.99a</td><td>1.84±0.63a</td><td>3.33±1.35b</td></tr><tr><td>普雷沃氏菌科 UCG-001 Prevotellaceae UCG-001</td><td>1.16±0.52a</td><td>1.95±1.44a</td><td>3.01±1.90b</td></tr><tr><td>SP3-e08</td><td>0.26±0.18a</td><td>0.18±0.12a</td><td>0.04±0.02b</td></tr><tr><td>瘤胃球菌科UCG-014 Ruminococcaceae UCG-014</td><td>0.59±0.40a</td><td>0.75±0.40a</td><td>2.07±1.78b</td></tr><tr><td>解琥珀酸菌属Succiniclasticum</td><td>1.10±0.95a</td><td>0.40±0.26b</td><td>0.23±0.11b</td></tr><tr><td>瘤胃球菌科NK4A214 Ruminococcaceae NK4A214 group</td><td>0.29±0.14a</td><td>0.59±0.24ab</td><td>0.82±0.51b</td></tr><tr><td>赖氨酸芽孢杆菌属Lysinibacillus</td><td>0.03±0.03a</td><td>0.19±0.24b</td><td>0.02±0.01a</td></tr><tr><td>[Eubacterium] ruminantium group</td><td>0.32±0.15a</td><td>0.27±0.17ab</td><td>0.13±0.10b</td></tr></table></body></html>
+
+<html><body><table><tr><td>芽孢杆菌属Bacillus</td><td>0.04±0.03a</td><td>0.22±0.24b</td><td>0.02±0.01a</td></tr><tr><td>瘤胃球菌科UCG-005 Ruminococcaceae UCG-005</td><td>0.02±0.01a</td><td>0.14±0.11b</td><td>0.16±0.15b</td></tr><tr><td>Lachnoclostridium 10</td><td>0.05±0.03a</td><td>0.05±0.03a</td><td>0.01±0.01b</td></tr><tr><td>叶杆菌属 Phyllobacterium</td><td>0.01±0.00a</td><td>0.06±0.07b</td><td>0.00±0.00a</td></tr><tr><td>食物谷菌属Victivallis</td><td>0.06±0.03Aa</td><td>0.13±0.07Bb</td><td>0.02±0.01Aa</td></tr></table></body></html>
+
+# 2.2.4共享属分析
+
+经统计，所有样品间共有35个共享属。其中，相对含量在 $1 \%$ 以上的主要共享菌属由高到低依次为Prevotella $1 [ ( 3 7 . 2 9 \pm 7 . 2 7 ) \% ]$ 、Rikenellaceae RC9 gut groupl $( 7 . 3 0 { \pm } 0 . 5 4 ) \% ]$ 、Prevotellaceae UCG-003[ $( 2 . 3 1 { \pm } 0 . 8 8 ) \% ]$ 、毛螺菌科 ND3007(Lachnospiraceae ND3007group) $( 2 . 1 9 { \pm } 0 . 5 2 ) \% ]$ 、Prevotellaceae UCG-001 $( 2 . 0 4 \pm 0 . 9 3 ) \% ]$ 、琥珀酸弧菌科UCG-002(Succinivibrionaceae UCG-002）) $( 1 . 9 0 { \pm } 1 . 7 5 ) \% ]$ 、月形单胞菌属1（Selenomonas1 $) [ ( 1 . 7 9 { \scriptstyle \pm 4 . 2 4 ) ^ { 0 } } / 0 ] .$ 瘤胃球菌属 2（Ruminococcus 2） $[ ( 1 . 3 5 { \pm } 1 . 7 7 ) \% ]$ 、琥珀酸弧菌属（Succinivibrio） $[ ( 1 . 2 0 { \pm } 0 . 5 8 ) \% ]$ Ruminococcaceae UCG-014[ $( 1 . 1 3 { \pm } 0 . 8 1 ) \% ]$ 。这些菌属的比例占总菌属的 $56 . 5 0 \%$ 。共享菌群在
+
+属水平上的聚类热图见图5。
+
+Prevotella_1 Selenomonas_1 Rikenellaceae_Rc9_gut_group Succinivibrionaceae_UCG-002 0.5 Succinivibrio Ruminococcus_2 Prevotellaceae_UCG-001 0 Prevotellaceae_UCG-003 Ruminococcaceae_UCG-014 Lachnospiraceae_ND3007_group -0.5 Christensenellaceae_R-7_group Succiniclasticum -1 Erysipelotrichaceae_UCG-004 Ruminobacter Ruminococcaceae_UCG-002 Pseudobutyrivibrio Ruminococcaceae_NK4A214_group Prevotellaceae_NK3B31_group Veillonellaceae_UCG-001 Butyrivibrio_2 Fretibacterium Succinimonas Anaerovibrio Ruminiclostridium_5 Fibrobacter Oscillospira Pseudomonas Lachnospiraceae_XPB1014_group Ruminococcus_1 [Eubacterium]_coprostanoligenes_group Treponema_2 Alloprevotella Saccharofermentans Lachnospiraceae_NK3A20_group Ruminiclostridium_6 N W H
+
+3讨论
+
+由于NDF具有调控和维持反刍动物瘤胃正常发酵的作用，所以不同饲粮NDF水平会影响瘤胃的发酵模式。那仁巴图等[16采用完全随机试验设计，分别在6个不同饲粮 NDF 水平
+
+$4 9 \%$ 、 $52 \%$ 、 $5 5 \%$ 、 $59 \%$ 、 $62 \%$ 和 $6 5 \%$ )下研究了内蒙古白绒山羊羯羊的瘤胃发酵的变化。结果发现，饲粮NDF水平对瘤胃液 $\mathfrak { p H }$ 、 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度均有显著影响，但对瘤胃液微生物蛋白（MCP）和乙酸、丙酸和丁酸浓度的影响不显著。王海荣等[17]也分别在3个不同饲粮 NDF水平 $4 2 . 7 1 \%$ 、 $54 . 5 9 \%$ 、 $6 4 . 3 8 \%$ )下研究了苏尼特绵羊瘤胃内环境的变化，结果发现随着NDF水平的增高，绵羊瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度会显著降低，瘤胃液乙酸/丙酸显著升高，与本试验结果相一致。
+
+本次研究发现 Ruminococcaceae NK4A214 group、Ruminococcaceae UCG-005 和RuminococcaceaeUCG-014的相对丰度随饲粮NDF水平增加而升高的变化规律。这些细菌都属于瘤胃球菌科（Ruminococcaceae)，以往的研究表明瘤胃菌科微生物与纤维降解密切相关,在瘤胃内可产生纤维酶降解纤维二糖等纤维类物质,是一类典型的纤维降解菌[18-19]。Patra等[20]的研究表明，瘤胃菌科的数量减少会导致纤维消化率降低。Zhao 等[21]的研究也证实，瘤胃菌科的微生物与饲粮NDF 的消化率显著相关。本研究的结果表明，饲粮 NDF水平的增加，山羊瘤胃菌科微生物的增殖加强，这可能是一种底物诱导效应。这也从证实了瘤胃菌科与瘤胃纤维降解的密切关系。
+
+本试验中，Prevotellaceae UCG-001和Prevotellceae UCG-003 的相对丰度表现出随饲粮 NDF水平增加而升高的变化规律，说明饲粮NDF水平的提高也能促进这2种细菌的生长。导致这种现象的原因可能与这些细菌的特性有关。这2种细菌属于普雷沃氏菌属(Prevotella)，以往体外培养的试验表明，它们具有消化蛋白质和氨基酸的活性，没有直接降解纤维的能力，但与纤维降解菌共培养时却能间接地促进纤维的降解[22-24]。Zhao 等[21]在犊牛上的试验表明，饲粮纤维消化率的高低影响着这2种细菌的相对丰度，再结合本研究的结果可以推测，这 2种细菌可能是重要的纤维降解协作菌，它们也可从纤维降解过程中获取养分，从而导致本研究中 HN 组这2种细菌的相对丰度显著高于其他2组。
+
+本次研究还发现，解琥珀酸菌属的相对丰度在组间存在着显著差异。有研究报道，解琥珀酸菌属能发酵降解纤维或纤维二糖产生琥珀酸、乙酸和二氧化碳等，也是一种典型的纤维降解菌[25]。国内外许多学者的研究也发现，解琥珀酸菌属和纤维降解有密切的关系[26-27]。而本课题组以往的研究结果也表明，纤维消化率高的山羊解琥珀酸菌属的相对丰度显著高于纤维消化率低的山羊。根据该菌的特性从理论上分析，当饲粮纤维含量增加时该菌的相对丰度应升高。但本研究中，LN 组的相对丰度却显著高于其他2组，造成这种现象的具体原因还不清楚，有可能与LN组饲粮中淀粉含量较高有关。淀粉是解琥珀酸菌属最主要的底物，与纤维相比，淀粉更能刺激解琥珀酸菌属的生长。
+
+4结论
+
+$\textcircled{1}$ 饲粮NDF水平在 $3 5 . 0 1 \% { \sim } 4 5 . 1 6 \%$ 变化时，随NDF水平增加，瘤胃液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 浓度降低,瘤胃液乙酸/丙酸升高。$\textcircled{2}$ 山羊瘤胃优势的细菌是拟杆菌门、厚壁菌门和变形菌门。$\textcircled{3}$ 山羊瘤胃中共有13个菌属的相对丰度受饲粮 NDF 水平的显著影响，其中Prevotellaceae UCG-001、Prevotellaceae UCG-003、和 Ruminococcaceae UCG-014 等菌属的相对丰度呈现随NDF水平增加而升高的变化规律。
+
+# 参考文献：
+
+[1] ANNISON G.The role of wheat non-starch polysaccharides in broiler nutrition[J].Australian Journal of Agricultural Research,1993,44(3):405-422.   
+[2] 周祥.日粮不同 NDF水平对杂交水牛瘤胃细菌群落结构与瘤胃主要功能细菌的影响 [D].硕士学业论文.武汉:华中农业大学,2015.   
+[3] JAMI E,MIZRAHI I.Composition and similarity of bovine rumen microbiota across individual animals[J].PLoS One,2012,7(3):e33306.   
+[4] PITTA D W,KUMAR S,VEICCHARELLI B,et al.Bacterial diversity associated with feeding dry forage at different dietary concentrations in the rumen contents of Mehshana buffalo (Bubalus bubalis) using 16S pyrotags[J].Anaerobe,2014,25:31-41.   
+[5] 曹晨霞,韩琬,张和平.第三代测序技术在微生物研究中的应用[J].微生物学通 报,2016,43(10):2269-2276.   
+[6] YANG L Y,CHEN J,CHENG X L,et al.Phylogenetic analysis of 16S rRNA gene sequences reveals rumen bacterial diversity in Yaks (Bos grunniens)[J].Molecular Biology Reports,2010,37(1):553-562.   
+[7] AOAC.Oficial methods of analysis[M].15th ed.AOAC International,1990.   
+[8] VAN SOEST P J,ROBERTSON JB,LEWIS B A.Methods for dietary fiber,neutral
+
+detergent fiber,and nonstarch polysaccharides in relation to animal nutrition[J].Journal of Dairy Science,1991,74(10):3583-3597.
+
+王继文,王立志,闫天海,等.山羊瘤胃与粪便微生物多样性[J].动物营养学报,2015,27(8):2559-2571.
+
+WANG L Z,WANG Z S,XUE B,et al.Comparison of rumen archaeal diversity in adult and
+
+elderly yaks (Bos grunniens) using 16S rRNA gene high-throughput sequencing[J].Journal of Integrative Agriculture,2017,16(5):1130-1137. [11]BRODERICK G A,KANG J H.Automated simultaneous determination of ammonia and total amino acids in ruminal fluid and in vitro media[J].Journal of Dairy Science,1980,63(1):64-75. [12]LI Y L,MENG Q X.Effect of different types of fibre supplemented with sunflower oil on ruminal fermentation and production of conjugated linoleic acids in vitro[J].Archives of Animal Nutrition,2006,60(5):402-411. [13]CAPORASO JG,LAUBER C L,WALTERS W A,et al.Global patterns of 16S rRNA diversity at a depth of millions of sequences per sample[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(1S):4516-4522. [14]WRIGHT AD G,WILLIAMS A J,WINDER B,et al.Molecular diversity of rumen Methanogens from sheep in western Australia[J].Applied and Environmental Microbiology,2004,70(3):1263-1270. [15]YANEZ-RUIZ D R,MACiAS B,PINLOCHE E,et al.The persistence of bacterial and Methanogenic archaeal communities residing in the rumen of young lambs[J].FEMS Microbiology Ecology,2010,72(2):272-278. [16]那仁巴图,贾志海,卢德勋,等.不同纤维水平口粮对内蒙古白绒山羊瘤胃发酵的影响[J]. 中国畜牧杂志,2008,44(3):27-30. [17] 王海荣,侯先志,王贞贞,等.不同纤维水平日粮对绵羊瘤胃内环境的影响[J].内蒙古农业 大学学报:自然科学版,2008,29(3):9-14. [18] WOOD T M.Cellulase of Ruminococcus albus[J].Methods in
+
+Enzymol0gy,1988,160:216-221.
+
+[19]EZAKl T.Ruminococcus[M].New York:John Wiley & Sons,Ltd,2015.   
+[20]PATRA A K,YU Z T.Essential oils affect populations of some rumen bacteria in vitro as revealed by microarray (rumen bact array) analysis[J].Frontiers in Microbiology,2015,6:297.   
+[21]ZHAO X H,CHEN Z D,ZHOU S,et al.Effects of daidzein on performance,serum metabolites,nutrient digestibility,and fecal bacterial community in bul calves [J].Animal Feed Science and Technology,2017,225:87-96.   
+[22]SCHWINGEL W R,BATES D B.Use of sodium dodecyl sulfate polyacrylamide gel electrophoresis to measure degradation of soluble soybean proteins by Prevotella ruminicola GA33 or mixed ruminal microbes in vitro[J].Journal of Animal Science,1996,74(2):475-482.   
+[23]BEKELE A Z,KOIKE S,KOBAYASHI Y.Genetic diversity and diet specificity of ruminal Prevotella revealed by 16S rRNA gene-based analysis[J].FEMS Microbiology Letters,2010,305(1):49-57.   
+[24]ROSENBERG E.The family Prevotellaceae[M]//ROSENBERG E,DELONG E F,LORY S,et al.The Prokaryotes.Berlin:Springer,2014.   
+[25]RAINEY F A.Succiniclasticum[M]//ONYENWOKE R U,WIEGEL J.Bergey's manual of systematics of archaea and bacteria.New York:John Wiley & Sons,Ltd.,2015.   
+[26]AN D D,DONG X Z,DONG Z Y.Prokaryote diversity in the rumen of yak (Bos grunniens) and Jinnan cattle (Bos taurus) estimated by 16s rDNA homology analyses [J].Anaerobe,2005,11(4):207-215.   
+[27]刘利,唐纪良,冯家勋.广西水牛瘤胃中的细菌多样性[J].微生物学报,2009,49(2):251-256. Effects of Dietary Neutral Detergent Fibre Level on Structure and Composition of Rumen Bacteria in Goats ZHANG XuejiaoWANG Lizhi\*
+
+Abstract: This study was conducted to investigate the effects of dietary neutral detergent fibre (NDF） level on structure and composition of rumen bacteria in goats using high throughput sequencing technique. Six goats were used in a $3 \times 3$ Latin square design and divided into 3 groups according to dietary NDF level, which was low (LN group, $3 5 . 0 1 \%$ )，medium (MN group, （20 $4 0 . 1 0 \%$ ） and high NDF level groups (HN group, $4 5 . 1 6 \%$ ), and each group had 2 goats. The feeding trial lasted for 3 stages with $2 0 \mathrm { ~ d ~ }$ per stage, and each stage consisted of $1 4 { \mathrm { ~ d ~ } }$ of pre-trial period and 6 d of trial period. After the trial period,rumen contents were collcted to extract bacterial total DNA. The bacteria universal primers were used to amplify the V4 regions of bacteria 16S rRNA by PCR. The sequencing of the amplified products of bacteria was performed using the Illumina HiSeq 250PE sequencing platform， and the results were analyzed by bioinformatics software such as QIIME 1.8.0. The results showed as follows: 1） rumen fluid ammonia nitrogen $\mathrm { ( N H } _ { 3 } – \mathrm { N } )$ ） concentration of HN group was significantly lower than that of LN and MN groups $( P { < } 0 . 0 1 )$ . rumen fluid acetate/propionate of LN group was significantly lower than that of HN group $( P { < } 0 . 0 5 )$ , but there was no significant difference between MN group and other groups $( P { > } 0 . 0 5 )$ . 2) The differences of Chaol and Shannon indexes among groups were not significant $( P { > } 0 . 0 5 )$ . Observed species index of LN group was significantly higher than that of the other two groups $( P { < } 0 . 0 5 )$ ,but there was no significant difference between MN group and HN group $( P { > } 0 . 0 5 )$ . 3)At phylum level, the relative abundance of all bacteria of three groups was not significant $( P { > } 0 . 0 5 )$ ；at genus level, the relative abundances of Prevotellaceae UCG-001, Prevotellaceae UCG-003 and Ruminococcaceae UCG-014 of HN group were significant higher than those of the other two groups $( P { < } 0 . 0 5 )$ ； the relative abundances of Ruminococcaceae NK4A214 group and Ruminococcaceae UCG-005 of HN group were significant higher than those of LN groups $( P { < } 0 . 0 5 )$ ；the relative abundances of $S P 3 \mathrm { - e 0 8 }$ and Lachnoclostridium 10 of HN group were significantly lower than those the other two groups $( P { < } 0 . 0 5 )$ ; the relative abundance of Succiniclasticum of LN group was significantly higher than that of the other two groups （ $( P { < } 0 . 0 5 )$ ; the relative abundances of Lysinibacillus，Bacillus and Phyllobacterium of MN group were significantly higher than those of the other two groups $( P { < } 0 . 0 5 )$ ,and the relative abundance of Victivalis of MN group was extremely significantly higher than that of the other two groups （204号 $( P { < } 0 . 0 1 )$ . These results suggest that when dietary NDF level changing at $3 5 . 0 1 \%$ to $4 5 . 1 6 \%$ ,NDF level significantly affects $\mathrm { N H } _ { 3 }$ -N concentration and acetate/propionate in rumen fluid,and the relative abundance of various bacterial genera， such as Prevotellaceae UCG-O01 and Prevotellaceae UCG-0o3 in rumen of goats. Key words: neutral detergent fiber; bacteria; high throughput sequencing; fermentation parameters

@@ -1,0 +1,331 @@
+[
+    {
+        "type": "text",
+        "text": "青藏高原中部色林错湖泊沉积物色度反映末次冰盛期以来区域古气候演化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杜丁丁¹， Muhammad Saleem Mughal²， Dembele Blaise²， 张成君²（1东华理工大学地球科学学院,江西南昌330013;2兰州大学地质科学与矿产资源学院;甘肃省西部矿产资源重点实验室,甘肃兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：色林错湖位于青藏高原内部,是西藏第一大咸水内陆湖。研究区剖面选自色林错第三湖泊阶地，利用常用气候替代指标色度，结合粒度、碳酸盐含量 $\\mathbf { \\bar { \\Sigma } } \\operatorname { C a C O } _ { 3 } \\left( \\% \\right) ]$ 、矿物分析和全有机质(TOC)等进行对比分析，同时采用 $^ { 1 4 } \\mathrm { C }$ 测年方法对剖面进行准确的年代划分，初步探讨了末次冰盛期以来色林错湖泊沉积物色度增强机制的差异性。研究表明： $\\boldsymbol { a } ^ { * } \\setminus \\boldsymbol { b } ^ { * }$ 与中粗粒砂、磁化率具有较好的相关性；亮度 $L ^ { * }$ 与 $\\mathrm { C a C O } _ { 3 } ( \\% )$ 具较好相关性；因而沉积物色度变化可反应区域古气候变化。同时对湖泊沉积物矿物分析发现，影响色度变化的制色矿物主要是针铁矿，且以还原环境为主。红度$\\boldsymbol { a } ^ { * }$ 高值与亮度 $L ^ { * }$ 低值对应气候暖湿气候环境，沉积物粒度较粗，碳酸盐含量低，有机质含量高，磁化率较高值；反之，红度 $\\boldsymbol { a } ^ { * }$ 低值， $L ^ { * }$ 高值，粒度较细，碳酸盐含量高，有机质含量低，磁化率低值，对应干冷气候。在 $1 7 . 4 \\sim 1 5 . 5$ cal kaBP阶段，对应干冷的气候特点；在 $1 5 . 5 \\sim 1 0 . 4 \\$ cal ka BP 阶段,对应温暖湿润的气候；在 $1 0 . 4 \\sim 5 . 2$ calkaBP阶段，整体属于温暖湿润的气候特点;其中，在 $9 . 7 \\sim$ 9.4 cal ka BP 和 $8 . 7 5 \\sim 8 . 5$ calkaBP为两个重要的冷事件，属于干湿的气候特点；在 $5 . 2 \\sim 1 . 2$ calkaBP阶段，反映了干冷的气候特征；在 $4 . 3 \\sim 4 . 0$ cal $\\mathrm { k a ~ B P } , 3 . 3 \\sim 3 . 0$ cal ka BP 和 $2 . 4 \\sim 1 . 7 5$ calka BP,反映了干旱温暖的气候特点;在1.2calkaBP以后,色林错湖湖水迅速下降。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键 词：色度；粒度；古气候环境；色林错湖泊文章编号： $1 0 0 0 - 6 0 6 0 \\left( 2 0 1 9 \\right) 0 3 - 0 5 5 1 - 0 8 \\left( 0 5 5 1 \\sim 0 5 5 8 \\right)$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在中国青藏高原内部，分布着数目众多的湖泊，且受人类活动影响较少，能很好地记录第四纪古气候的演化历史，一直以来广受中外科学家的关注。色林错作为西藏内部第一大咸水封闭湖泊，更是研究热点。在对青藏高原湖泊以往地研究中，班公错研究最为系统,是由中法科学家共同完成的[1]。其研究[2-5]认为 $1 0 \\sim 9 . 5 ~ \\mathrm { { k a } }$ 夏季风突增, $9 . 5 \\sim 8 . 7$ （204$\\mathrm { { k a } } , 7 . 2 \\sim 6 . 3 \\mathrm { \\ k a }$ 降水达到最大，而 $8 . 0 \\sim 7 . 7 ~ \\mathrm { k a }$ 是一个相对较干期。这一结论在对松木希错记录[6]、色林错记录[7]、青海湖记录[8]等的也得以支持。在色林错湖泊研究中,前人做了大量的工作。LI等[9]采用光释光(OSL)测年方法，对色林错古湖岸线进行了研究，认为最老的湖岸线形成于 $6 7 . 9 \\pm 2 . 4 \\mathrm { { \\ k a } }$ BP，与MIS4阶段同步；其他湖岸线分别形成于",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$3 0 . 4 \\pm 2 . 9 \\sim 1 8 . 6 \\pm 1 . 7 , 1 2 . 5 \\pm 1 . 6 \\sim 9 . 2 \\pm 0 . 5$ 和$6 . 9 \\pm 0 . 2 \\ \\mathrm { k a } \\ ]$ BP,依次对应MIS2，冰消期，全新世最暖期;并认为湖泊阶地形成是由于气候事件而非构造事件。薛蕾等[10]也采用OSL 测年方法,研究认为在约 $1 2 . 2 \\mathrm { \\ k a } \\mathrm { ~ , ~ } 6 . 3 \\mathrm { \\ k a }$ 和 $2 . 3 \\ \\mathrm { k a }$ 至少出现了3次阶段性湖泊收缩过程。赵希涛等[研究了青藏高原中部班戈错晚第四纪湖泊发育与湖面变化，自MIS5阶段以来划分了多个大湖期，其中包括 $3 0 \\sim 1 0 ~ \\mathrm { { k a } }$ BP/MIS2的湖泊咸化亚期和 $1 0 \\sim 0 \\ \\mathrm { k a }$ BP/MIS1的盐湖发育亚期。林勇杰等[12]和王海雷等[13]研究了$5 . 3 3 \\mathrm { \\ k a }$ BP以来的水位变化，认为 $5 . 3 3 \\sim 4 . 2 5 \\mathrm { \\ k a }$ BP是较为稳定的高湖面期，在 $4 . 3 0 \\sim 4 . 2 5 ~ \\mathrm { k a }$ BP阶段,湖泊水面下降;在 $4 . 2 5 \\sim 2 . 2 0 ~ \\mathrm { k a }$ BP 阶段,属于湖面降低期；在 $2 . 2 0 \\sim 1 . 9 0 \\mathrm { \\ k a }$ BP之间，出现低湖面； $1 . 9 0 \\sim 0 \\mathrm { ~ k a ~ B ~ }$ P属于高湖面阶段。其数据较好地记录了色林错湖全新世以来气候的变化，且湖泊阶地又是因气候事件形成，研究湖泊阶地能很好地揭露环境变化。然而，在前人的研究成果中，大多数古环境研究者只采用了年代学方法来进行研究，年代学与环境指标相结合的工作并不多，而对青藏高原中部色林错湖记录末次冰盛期以来的研究显得尤为重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "色度作为一种古环境研究中常用代用指标，已在湖泊沉积物，黄土和海洋沉积物等广泛应用。色度分为红度α\\*,黄度b\\*与亮度L\\*三种色系[14-16] 。其中亮度 $L ^ { * }$ 主要受有机质与碳酸盐含量的变化的影响； $a ^ { * }$ 主要受 $\\mathrm { F e } ^ { 2 + } \\cdot \\mathrm { F e } ^ { 3 + }$ 组成的矿物,以及 $\\mathrm { M g C O } _ { 3 }$ 含量的影响； $\\boldsymbol { b } ^ { * }$ 受不同价态铁的氢氧化物的含量的影响[14] C",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，首先本文采用AMS $^ { 1 4 } \\mathrm { C }$ 测年方法对剖面进行准确的年代划分。其次通过测试色度[17],该方法简便、量少且能保护沉积物特征快速的特点[18-22],因对古气候与古环境变化敏感而常作为湖泊沉积物古气候与古环境代用指标[23-24]。再结合粒度,磁化率，全有机质含量（TOC）和碳酸盐含量$\\mathrm { C a C O } _ { 3 } ( \\% )$ 环境代用指标，以及前人在该区域研究成果，探讨末次冰盛期以来古环境的演化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "青藏高原地区湖泊分布众多，色林错湖便是其中之一，位于班公一怒江缝合带中段，属于构造湖。班戈错一色林错湖盆形成于古近纪初期，是在班戈断陷盆地基础上，在第四纪时期继承并活化，进而形成的新生断陷盆地。该盆地南北两缘新构造发育，盆地随青藏高原的隆升而拾升。自中更新世以来，盆地内大湖缩小，因局部隆升而将大湖分割，逐渐发育成现代湖泊分布格局[12]。周围湖泊与河流相互连通，形成了一个封闭内陆湖泊群。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "色林错位于青藏高原北部内流区的东南，平均海拔 $4 ~ 6 0 0 \\mathrm { ~ m ~ }$ 以上，其三面高山阻隔,地型封闭。色林错流域河水系发育，主要汇入河流有波曲藏布、扎根藏布、阿里藏布和扎加藏布；在流域内，分布有众多相互串连的内陆湖泊群，湖泊有班戈错、错鄂、雅个冬错、恰规错、仁错贡玛等[25（图1)。色林错所处区域属高原寒带半干旱季风气候区。湖水主要以冰雪融水补给为主。据2014年6月观测的数据计算,色林错湖面积 $2 \\ 3 9 1 \\ \\mathrm { k m } ^ { 2 }$ 。不同区域表层水温变化幅度 $1 . 3 \\mathrm { ~ ‰ ~ }$ 水深变幅 $1 . 7 ~ \\mathrm { { ^ { c } ; p H } }$ 值$9 . 1 9 \\sim 9 . 4 9$ ；溶氧量 $4 . 6 2 \\sim 5 . 1 2 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b60dd3aaff0ec7188ae0d01c5b4e52838965e7e18b72c017d3ec828ecedb1745.jpg",
+        "img_caption": [
+            "图1研究区位置图(五角星为剖面位置)Fig.1Location of the study area（Black five pentagrams stand for profile location)"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2样品与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文样品剖面选自色林错东北湖岸三级阶地(3 $1 . 7 5 3 4 0 ^ { \\circ } \\mathrm { N } ; 8 9 . 3 6 6 9 8 ^ { \\circ } \\mathrm { E }$ ;海拔 $4 ~ 5 6 3 ~ \\mathrm { ~ m ~ } ,$ ，采样间隔 $2 \\ \\mathrm { c m }$ ,深度 $2 4 2 \\ \\mathrm { c m }$ ,共122个。样品主要以粘土，粉砂为主。颜色有灰色、浅灰色、浅棕灰色、浅黄色与黄色。剖面性质较为一致，表示了较为稳定而连续的沉积演化过程。测年采用AMS $^ { 1 4 } \\mathrm { C }$ 方法,再进行日历年代校正（采用Calib5.0）。AMS $^ { 1 4 } \\mathrm { C }$ 测年前处理与制靶在兰州大学西部与环境教育部重点实验室内完成，测试在北京大学年代实验室完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验测试了色度、磁化率、 $\\mathrm { C a C O } _ { 3 } \\left( \\% \\right)$ 、粒度和TOC 指标。测量磁化率采用英国Bartington仪器公司生产的MS2型磁化率仪，对样品的高频磁化率（ $( 4 . 7 \\ \\mathrm { k H z } )$ 和低频磁化率 $( 0 . 4 7 \\ \\mathrm { k H z } )$ 分别进行了测试，并选择样品三次不同方向，求其平均值，最后计算出百分频率磁化率( $\\chi \\mathrm { f d ~ } \\%$ )。粒度指标：测试采用英国MalvernInstrument公司出产Mastersizer2000激光粒度仪,小于 $1 \\%$ 的实验误差， $0 . 0 2 \\sim 2 ~ 0 0 0 ~ \\mu \\mathrm { m }$ 的测试范围。色度指标：测试采用美国出产X-Rite948型分光色度计。 $\\mathrm { C a C O } _ { 3 } ( \\% )$ 指标：测试采用气量法[26],用Bascomb 国际标准碳酸盐计。TOC 指标:测试采用重铬酸钾—硫酸滴定法[27]。矿物分析利用PANalytical公司生产的X'PertProMPD型粉末X射线衍射仪对6个样品进行XRD 测试。以上样品指标的测试均在兰州大学资源环境学院综合地化实验室完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 年代序列划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选自剖面不同深度9个块状样品进行全有机质AMS $^ { 1 4 } \\mathrm { C }$ 测年，取样深度分别为 $6 \\sim 8 \\ \\mathrm { c m } , 2 0 \\sim 2 2$ $\\mathrm { c m } , 3 4 \\sim 3 6 \\mathrm { c m } , 7 4 \\sim 7 6 \\mathrm { c m } , 8 8 \\sim 9 0 \\mathrm { c m } , 1 5 4 \\sim$ $1 5 4 \\sim 1 5 6 \\$ cm, $1 9 0 \\sim 1 9 2 ~ \\mathrm { c m } , 2 1 8 \\sim 2 2 0 ~ \\mathrm { c m }$ 和 $2 3 4 - 2 3 6 ~ \\mathrm { c m }$ （表1)[28]。其中2 个样品（SL2015－18 和 SL2015－110)年代出现倒置( $5 7 9 0 \\pm 5 0$ a BP和 $6 \\ : 2 7 0 \\pm 3 0$ aBP),其余7个样品具有较好的线性关系（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "孙湘君等[3]取自色林错湖泊南岸湖泊沉积物,利用碳酸盐 $^ { 1 4 } \\mathrm { C }$ 测年求得平均沉积速率 $0 . 0 2 5 { \\mathrm { ~ c m ~ } } ^ { . }$ $\\mathbf { a } ^ { - 1 }$ ,碳库年龄偏老 $5 0 0 \\sim 1 ~ 5 0 0 \\mathrm { ~ a ~ }$ ,这种碳库差异与本次所选测年材料不同[29]。王海雷等[13]对色林错湖芯进行全有机质 $\\mathrm { A M S ^ { 1 4 } C }$ 测年，测得碳库年龄",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0493ec3e77b4e01b7d98b99f39c382d16942904b9c450b1384acc8e492d25eb3.jpg",
+        "table_caption": [
+            "表1色林错湖泊沉积物 $^ { 1 4 } { \\bf C }$ 年龄与校正年龄[28] ",
+            "Tab.1 Age of ${ } ^ { 1 4 } \\mathrm { C }$ and the corrected age of the lake "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样品号</td><td>深度 /cm</td><td>Age/aBP</td><td>Agemin /cal aBP</td><td>Agemax /cal aBP</td></tr><tr><td>SL2015-4</td><td>6~8</td><td>2 455 ±35</td><td>2 435</td><td>2 507</td></tr><tr><td>SL2015 -11</td><td>20~22</td><td>3 160 ±30</td><td>3345</td><td>3 450</td></tr><tr><td>SL2015 -18</td><td>34~36</td><td>5 790 ±50</td><td>1</td><td>1</td></tr><tr><td>SL2015-38</td><td>74~76</td><td>5 135 ±40</td><td>5888</td><td>5932</td></tr><tr><td>SL2015-45</td><td>88~90</td><td>6 240 ±30</td><td>7 155</td><td>7 250</td></tr><tr><td>SL2015-78</td><td>154~156</td><td>9 375 ±35</td><td>10 560</td><td>10 661</td></tr><tr><td>SL2015 -96</td><td>190~192</td><td>10 655 ± 35</td><td>12 702</td><td>12 788</td></tr><tr><td>SL2015-110</td><td>218~220</td><td>6 270 ±30</td><td>1</td><td>1</td></tr><tr><td>SL2015-118</td><td>234~236</td><td>14 840 ±50</td><td>17 980</td><td>18 235</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b97cd1edee923b2bee6e96edf3109fb88b552c0f87ca35a9430232db5bb1f2f.jpg",
+        "img_caption": [
+            "图2 $^ { 1 4 } \\mathrm { C }$ 年代线性关系",
+            "Fig.2Linear relationship of $^ { 1 4 } \\mathrm { C }$ age "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$1 8 9 0 \\mathrm { ~ a ~ }$ 。然而，用一恒定值作为碳库年龄是一种极为不准确的碳库校正方法[30]。因此,通过多项式回归方法,建立年代框架[28]。由于该湖 TOC平均含量只有 $0 . 4 \\%$ 左右，说明从其他区域带来有机质相应比例较大，造成老碳影响较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2色度与环境代用指标的相关性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在沉积过程中，沉积物颜色受环境与气候变化的影响，通常来说，影响沉积物颜色变化大的主要因素为沉积物组分和化学特征，它包括 $\\mathrm { C a C O } _ { 3 } \\left( \\% \\right)$ 、TOC 和特定的化学成分(如氧化物质和还原物质）等。前人经过研究发现沉积物颜色中影响亮度 $L ^ { * }$ 的主要因素为 $\\mathrm { C a C O } _ { 3 } \\left( \\% \\right)$ 与 TOC含量，而且亮度$L ^ { * }$ 值与 $\\mathrm { C a C O } _ { 3 } ( \\% )$ 正相关,这说明了 $\\mathrm { C a C O } _ { 3 } ( \\% )$ 含量变化可直观反映亮度 $L ^ { * }$ 值的变化[14];换言之,亮度 $L ^ { * }$ 值越高， $\\mathrm { C a C O } _ { 3 } \\left( \\% \\right)$ 含量越高，反映气候冷干的特点;反之，其值越低， $\\mathrm { C a C O } _ { 3 } ( \\% )$ 含量越低，反映暖湿气候状况。湖泊沉积物红度 $a ^ { * }$ 值受磁铁矿和针铁矿含量共同影响；一般来说，其高值反映暖湿的气候特点，反之为冷干气候。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "红绿彩度 $a ^ { * }$ 波动区间，黄蓝彩度 $b ^ { * }$ 波动区间，有着很好的正相关性。彩度 $\\mathrm { C a } ^ { * } \\boldsymbol { b } ^ { * }$ 受 $\\boldsymbol { a } ^ { * }$ 和 $\\boldsymbol { b } ^ { * }$ 的影响，可反映沉积物彩度的共同特征。因此可利用彩度 $\\mathrm { C a } ^ { * } b ^ { * }$ 来探讨与其他环境代用指标的关系（图3）。彩度 $\\mathrm { C a } ^ { * } b ^ { * }$ 与 $4 \\sim 6 3 ~ \\mu \\mathrm { m }$ 、磁化率成明显的正相关；与黏土，全有机质，碳酸盐相关性不明显。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出彩度 $\\mathbf { C a } ^ { * } \\boldsymbol { b } ^ { * }$ 与 $4 \\sim 6 3 ~ \\mu \\mathrm { m }$ 含量呈正相关，相关系数为0.31。而与 $( \\mathbf { \\nabla } < 4 ~ \\mu \\mathrm { m } )$ 组分的百分含量基本不相关，与 $> 6 3 \\ \\mu \\mathrm { m }$ 粒级是弱负相关（相关系数 $R ^ { 2 } = - 0 . 1 4 )$ ,表明了彩度 $\\mathrm { C a } ^ { * } b ^ { * }$ 变化与沉积物粒度组分含量有关，而且主要与粉砂( $( 4 \\sim$ $6 3 ~ { \\mu \\mathrm { m } }$ )组分的影响明显；表明了彩度 $\\mathbf { C a } ^ { * } \\boldsymbol { b } ^ { * }$ 为高值时，可能主要是形成在高水位的沉积环境中。一般情况下，深水环境发生还原反应，而出现如此的情况其原因推测为色林错湖地处青藏高原中部，气候寒冷，还原反应可能只发生在冰期。而氧化反应只发生在相对暖湿的环境下，并且此时还原反应和氧化反应同时发生。如图4，XRD矿物分析显示湖泊沉积物样品中含有针铁矿，指示有还原反应。彩度$\\mathrm { C a } ^ { * } b ^ { * }$ 与磁化率呈很好的正相关性，相关系数0.22，反映了色度越高，磁化率越高，可能代表温暖的深水环境，氧化反应与还原反应同时发生；反之亦然。但在实际情况下，环境的变化较为复杂，在分析过程中需要与碳酸盐、粒度与总有机碳相互对比进行探讨，才会使得结论更具有说服力。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e7eaaebbc01c0cd604d394974a0c46615d1ef02941052502a5dbee999dc411f.jpg",
+        "img_caption": [
+            "Fig.3Correlation between color $\\mathrm { C a } ^ { * } b ^ { * }$ and environmental index from Selin Co Lake sediments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ff2d4d48c9e8b2a7e6bd0388412c0e69264b435718e040071b1c38f6fadca48.jpg",
+        "img_caption": [
+            "图3彩度 $\\mathrm { C a } ^ { * } b ^ { * }$ 与环境指标的相关性",
+            "",
+            "图4色林错湖汨沉积物矿物分析 Fig.4Mineral analysis with lake sediment in Selin Co Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "色林错湖泊沉积物剖面中， $L ^ { * }$ 与有机质和碳酸盐含量呈正相关性。因此说明该地区亮度 $L ^ { * }$ 变化的是有机质与碳酸盐共同作用影响，其中碳酸盐含量为主要的影响因素。研究区地处高寒地区，植被较为稀疏，对气候的变化较为敏感。碳酸盐含量高的时间段，正好能反应环境干冷的特点。因此，亮度$L ^ { * }$ 变化能够较好地反应当时的环境变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图5可以看出 $L ^ { * }$ 与 $4 \\sim 6 3 ~ \\mu \\mathrm { m }$ 相关性很差，相关系数为0.03。而与 $< 4 ~ \\mu \\mathrm { m }$ 和 $> 6 3 \\ \\mu \\mathrm { m }$ 粒级组分的百分含量相关性也很差，相关系数为0.03与0.02。这就说明亮度 $L ^ { * }$ 的变化受粒度变化影响比较小。同样的， $L ^ { * }$ 与 $\\mathrm { C a C O } _ { 3 } \\left( \\% \\right)$ 含量呈正相关,相关系数为0.35。说明 $L ^ { * }$ 主要受 $\\mathrm { C a C O } _ { 3 } ( \\% )$ 影响较大。因此,本剖面 $L ^ { * }$ 同碳酸盐能很好地反应古环境变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3色度变化及古气候演变 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图6所示， $1 7 . 4 \\sim 1 5 . 5$ cal ka BP,粘土,粉砂,碳酸盐含量以及亮度 $L ^ { * }$ 呈现逐渐增高。 $\\boldsymbol { a } ^ { * } , \\boldsymbol { b } ^ { * }$ 呈降低趋势，磁化率降低。TOC含量变化不明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "细颗粒含量呈现一个增高趋势，粗颗粒减少，说明十冷气候。碳酸盐含量高和红度 $\\boldsymbol a ^ { * }$ 百分比含量低阶段对应干冷的气候。 $1 5 . 5 \\sim 1 0 . 4 \\$ cal ka BP,粘土,粉砂，碳酸盐含量以及亮度 $L ^ { \\ast }$ 呈现持续降低趋势。$a ^ { \\ast } , b ^ { \\ast }$ 逐渐升高，磁化率变化不明显。TOC 含量波动较大。细颗粒粘土含量呈现一个较低趋势，粗颗粒砂增加，反映该区域降雨量持续增加，气候逐渐变得温湿。碳酸盐含量降低和红度 $\\boldsymbol { a } ^ { * }$ 百分比含量升高阶段对应温暖湿润的气候。 $9 . 7 \\sim 9 . 4 \\$ cal ka BP和 $8 . 7 5 \\sim 8 . 5$ calkaBP为两个重要的冷事件;属于干湿的气候特点。 $5 . 2 \\sim 1 . 2$ calkaBP,温度降低,植被减少，反映了干冷的气候特点。 $4 . 3 \\sim 4 . 0$ cal$\\mathrm { k a ~ B P } , 3 . 3 \\sim 3 . 0$ cal ka BP 和 $2 . 4 \\sim 1 . 7 5$ cal ka BP,反映了干旱温暖的气候特点。1.2calkaBP以后，色林错湖湖水迅速下降。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总而言之，色林错湖泊沉积物末次冰盛期以来，呈现一个较为明显的几个阶段，从干冷一温湿一干冷变化过程。也正好印证了前人在此地区所做的研究。孙湘君等[3 对藏北色林错湖泊沉积物花粉分析，认为 $1 1 \\sim 9 . 6 ~ \\mathrm { k a }$ ,指示了稀疏植被干冷的气候特",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/83d4bc1b21c1aa98814ed2ac6315af929a2fcdb61aa3a4abd2147fbd5f819f87.jpg",
+        "img_caption": [
+            "图5亮度 $L ^ { * }$ 与环境指标的相关性"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Correlation between color brightness and environmental index from Selin Co Lake sediments点；大约 $9 . 6 \\sim 6 \\ \\mathrm { k a }$ ,森林植被发育，气候变暖；大约距今 $1 \\ \\mathrm { k a }$ 植被稀疏，沼泽发育，气候干冷。顾兆炎等[31]探讨了青藏高原中部色林错湖泊 $1 2 \\ \\mathrm { k a }$ 以来古气候变化,将其分为冷干 $( 4 . 2 \\sim 0 \\ \\mathrm { k a \\ B P }$ ）、温湿0 $( 1 0 \\sim 4 . 2 \\mathrm { ~ k a ~ B ~ }$ P)和冷干( $1 2 \\sim 1 0 \\ \\mathrm { k a }$ BP)三个阶段，认为色林错沉积物记录变化与高原季风的主要变化相似。LI等「9]研究发现从末次冰期早期开始，湖面逐渐下降，这期间发生了4次相对稳定的高湖面期：末次冰期早期、末次冰盛期晚期、冰消期和全新世大暖期。研究还认为在全新世以后，色林错湖面变化更趋频繁， $1 2 . 5 \\pm 1 . 6 \\mathrm { \\ k a }$ BP到 $9 . 2 \\pm 0 . 5 \\mathrm { { \\ k a } }$ BP和$6 . 9 \\pm 0 . 2 \\ \\mathrm { k a }$ BP 为高湖面期。薛蕾等[10]也认为在约 $1 2 . 2 \\mathrm { \\ k a } \\mathrm { ~ , ~ } 6 . 3 \\mathrm { \\ k a }$ 和 $2 . 3 \\ \\mathrm { k a }$ 至少出现了3次阶段性湖泊收缩过程。因此，本文所选阶地剖面能够很好地反应末次盛冰期以来气候环境的变化，也与青藏高原季风的主要变化相对应。此次研究很好的把环境代用指标与年代学方法相结合，能够更好地解决了古环境变化问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e63115adb45327ea5c85ca942442836d260f585d44471ad8347582fe748c2da.jpg",
+        "img_caption": [
+            "图6色林错湖沉积物色度与环境指标的对比",
+            "Fig.6Difuse reflectance spectroscopy compared to changes of environmental index in Selin Co Lake sediments "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$L ^ { * }$ 为高值时，正好能反应环境干冷的特点。红度$\\boldsymbol { a } ^ { * }$ 为高值可代表温暖而湿润的气候特点，红度 $a ^ { * }$ 为低值时代表干冷气候状况；揭示了色林错湖泊沉积物色度能反映末次冰盛期以来区域气候古环境变化。在 $1 7 . 4 \\sim 1 5 . 5$ calkaBP阶段，对应干冷的气候；在 $1 5 . 5 \\sim 1 0 . 4 \\$ calkaBP阶段，对应温暖湿润的气候；在 $1 0 . 4 \\sim 5 . 2$ cal ka BP阶段,整体属于温暖湿润的气候特点;其中，在 $9 . 7 \\sim 9 . 4 \\$ cal ka BP 和$8 . 7 5 \\sim 8 . 5$ calkaBP为两个重要的冷事件，属于干湿的气候特点；在 $5 . 2 \\sim 1 . 2$ calkaBP阶段,反映了干冷的气候特点;在 $4 . 3 \\sim 4 . 0$ cal ka BP,3.3\\~3.0calkaBP和 $2 . 4 \\sim 1 . 7 5$ calkaBP,反映了干旱温暖的气候特点;在1.2calkaBP以后，色林错湖湖水迅速下降。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "色林错湖泊沉积物研究结果表明：亮度 $L ^ { * }$ 分别与红度、碳酸盐、有机质及磁化率均有相关性;亮度致谢：本文野外工作期间得到了叶生霞与徐荣海硕士研究生的帮助;样品采集与处理得到了陈杰博士研究生帮助；在此深表感谢！",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]GASSEF,FONTESJC,VAN CAMPO E,etal.Holocene environmental changes in Bangong Co basin（Western Tibet）.Part 4:dis",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "cussion andconclusionsJ].Palaeogeography,Palaeoclimatolog, Palaeoecology,1996,120(1-2） :79 -92.   \n[2]FONTES JC,GASSE F,GIBERT E. Holocene environmental changes in Lake Bangong basin（Western Tibet）.Part 1: Chronology and stable isotopes of carbonates of a Holocene lacustrine core[J]. Palaeogeography,Palaeoclimatology,Palaeoecology,1996,20（1- 2) :25 -47.   \n[3］孙湘君,杜乃秋,陈因硕,等.湖相沉积物的花粉分析[J].植物 生态学报,1993,35（12）:943－950.［SUN Xiangjun，DU Naiqiu,CHEN Yinshuo,et al. Holocene palynological records in Lake Selincuo,northern Xizang[J].Acta Botanica Sinica,1993,35 (12) :943 -950.]   \n[4]VAN CAMPO E,COUR P,SIXUAN H. Holocene environmental changes in Bangong Co basin（Western Tibet).Part 2:the pollen record[J].Palaeogeography，Palaeoclimatology，Palaeoecology, 1996,120(1 -2) :49 -63.   \n[5]FAN H,GASSE F,HUC A,et al. Holocene environmental changes in Bangong Co basin（western Tibet）.Part 3: biogenic remains [J].Palaeogeography,Palaeoclimatology,Palaeoecology,1996,120 (1-2) :65-78.   \n[6]VAN CAMPO E,GASSE F. Polen-and diatom-inferred climatic and hydrological changes in Sumxi Co Basin（Western Tibet） since 13 000 yr BP[J]. Quaternary Research,1993,39(3）:300 - 313.   \n[7]GU ZY,LIUJL,YUAN B Y,et al. Monsoon variations of the Qinghai-Xizang Plateau during the last 12 OOO years:Geochemical evidence from the sediments in the Siling Lake[J].Science Bulletin,1993,38;577 -581.   \n[8]LISTER G S,KELTS K,ZAO C K,et al. Lake Qinghai,China: Closed-basin like levels and the oxygen isotope record for ostracoda since the latest Pleistocene[J].Palaeogeography,Palaeoclimatology,Palaeoecology,1991,84(1-4）:141-162.   \n[9]LI D,LI Y,MA B,et al. Lake-level fluctuations since the Last Glaciation in Selin Co（lake）,CentralTibet,investigatedusingptically stimulated luminescence dating of beach ridges[J].Environmental Research Letters,2009,4（4）:045204.   \n[10］薛蕾,张振卿,刘维明,等.西藏色林错 $1 2 \\ \\mathrm { k a }$ 以来的湖泊退缩 过程——基于古湖岸线的OSL 测年[J].地质科学,2010,45 （2）:428-439.[ XUE Lei,ZHANG Zhenqing,LIU Weiming,et al.The shrinking process of Siling Co in the past $1 2 \\ \\mathrm { k a }$ : Based on OSL dating of past shorelines[J].Chinese Journalof Geology, 2010,45(2) :428 -439.]   \n[11］赵希涛,赵元艺,郑绵平,等.班戈错晚第四纪湖泊发育、湖面 变化与藏北高原东南部末次大湖期湖泊演化［J].地球学报, 2011,32(1):13-26.[ZHAO Xitao,ZHAO Yuanyi,ZHENG Mianping,et al.Late quaternary lake development and denivellation of Bankog Co as well as lake evolution of southeastern north Tibetan Plateau during the last great lake period[J].Acta Geoscientia Sinica,2011,32(1) :13-26.]   \n[12］林勇杰,郑绵平,王海雷.青藏高原中部色林错矿物组合特征 对晚全新世气候的响应[J].科技导报,2014,32（35）:35－40. [LIN Yongjie,ZHENG Mianping,WANG Hailei. Late Holocene climatical and environmental evolutions inferrd from mineralogical records in Selin Co,Central Qinghai-Tibetan Plateau[J].Science ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and TechnologyReview,2014,32(35）:35-40.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］王海雷,郑绵平.青藏高原中部色林错 SL-1孔粒度参数指示 的 $5 . 3 3 \\mathrm { \\ k a \\ B P }$ 以来的水位变化[J].科技导报,2014,32（35）：   \n29-34.[WANG Hailei,ZHENG Mianping.Lake level changes indicated by grain-size of core SL-1 sediments since $5 . 3 3 \\mathrm { \\ k a \\ B P }$ in Selin Co,central Qinghai-Tibetan Plateau [J]. Science and Technology Review,2014,32(35）:29-34.] [14]NAGAO S,NAKASHIMA S.The factors controlling vertical color variations of North Atlantic Madeira Abyssal Plain sediments[J]. Marine Geology,1992,109(1-2）:83-94. [15]HELMKE JP,SCHULZ M,BAUCH H A.Sediment-color record from the Northeast Atlantic reveals patterns of millennial-scale climate variability during the past 5Oo ooO years[J]. Quaternary Research,2002,57(1) :49 -57. [16]BALSAM W L,DEATON B C,DAMUTH JE.Evaluating optical lightness as a proxy for carbonate content in marine sediment cores [J].Marine Geology,1999,161(2-4）:141-153. [17］吴健,沈吉.兴凯湖沉积物磁化率和色度反映的 $2 8 ~ \\mathrm { { k a } }$ BP以来 区域古气候环境演化［J].海洋地质与第四纪地质,2009,29 (3）:123-131.[WU Jian,SHEN Ji.Paleoenvironmental and paleoclimatic changesreflectedbydifuse reflectance spectroscopy and magnetic susceptibility from Xingkai Lake sediments[J]. Marine Geologyand Quaternary Geology,2009,29(3）:123-131.] [18］林瑞芬,卫克勤.新疆玛纳斯湖沉积物氧同位素记录的古气候 信息探讨—一与青海湖和色林错比较[J].第四纪研究，1998，   \n18,（4）:308-318.[LIN Ruifen,WEI Keqin.Palaeoclimate implications of oxygen isotope record from lacustrine sediments of Manas Lake, Xinjiang:A comparison with those from Qinghai Lake and Siling Lake[J]. Quaternary Sciences,1998,18（4）: 308-   \n318.] [19］严永耀,安聪荣，苗运法，等.新疆青海地区现代地表沉积物颜 色指标与气候参数关系[J].干旱区地理,2017,40（2）,355-   \n364.[YAN Yongyao,AN Congrong,MIAO Yunfa,et al. Relationship between color index of modern surface sediment and climate parameters in the region of Xinjiang and Qinghai[J].Arid Land Geography,2017,40(2）,355-364.] [20］章云霞,叶玮,马春梅,等.浙江北湖桥孔色度记录的早－中全 新世环境变化［J].第四纪研究,2016,36（5），1331－1342. [ZHANG Yunxia,YE Wei,MA Chunmei,et al.Environment variabilities archived by colorof the drill core Beihuqiao in Hangjiahu Plain during the Early-Mid Holocene,China[J].Quarternary Sciences,2016,36(5）,1331 -1342.] [21］吴艳宏,李世杰.湖泊沉积物色度在短尺度古气候研究中的应 用.地球科学进展,2004,19（5）：789-792.[WU Yanhong,LI Shijie.Significance of lake sediment color for short time scale climate variation[J].Advance in Earth Sciences,2004,19（5）：   \n789 - 792.] [22］王永,姚培毅,迟振卿,等.内蒙古浩来呼热湖泊沉积物色度记 录的末次冰消期以来的环境演变[C]//第十二届全国古地理 学及沉积学学术会议论文摘要集,2012:1.［WANG Yong,YAO Peiyi,CHI Zhenqing,et al.Environmental variabilities archived by color of sediment in Laihure Lake of Neimonggu during MIS 3[C] /Summary of Papers of the Twelfth National Academic Conference on Paleogeography and Sedimentology,2012:1.]   \n[23］田庆春，杨太保，石培宏，等.可可西里BDQ0608 钻孔沉积物色 度环境意义及其影响因素[J].海洋地质与第四纪地质,2012， 32（2）:133-140.[TIAN Qingchun,YANG Taibao,SHI Peihong, et al.Environmental implication of color reflectance of drill hole BDQO608,Keke Xili region and its influencing factors[J].Marine Geology and Quaternary Geology,2012,32（1）:133-140.]   \n[24］陈杰,杨太保,曾彪,等.中国帕米尔地区黄土磁化率特征及其 影响因素[J].干旱区地理,2016,39（4）,761-769.［CHEN Jie,YANG Taibao,ZENG Biao,et al.Magnetic susceptibility features and influencing factors in Pamir,China[J].Arid and Geography,2016,39(4) :761-769.]   \n[25］关志华，陈传友，区裕熊，等.西藏河流与湖泊[M].北京：科学 出版社.1984:82-89.[GUAN Zhihua,CHEN Chuanyou,QU Yuxiong,et al.Rivers and Lakes in Tibet[M].Beijing:Sciences Press,1984:82 -89.]   \n[26]BASCOMB C L.A calcimeter for routine use on soil samples[J]. Chemistry& Industry,1961(45）:1826-1827.   \n[27]SHIPH,YANG TB,TIANQC,et al.Loess record of climatic changes during MIS12-1O in the Jingyuan section,northwestern Chinese Loess Plateau[J]. Quaternary International,2O13,296： 149 -159.   \n[28］ZHANGCJ,DEMBELEB,ZHANGWY,et al.The low lake-level record according to the Siling Co stratigraphical basis and multiproxies during the last glacial maximum in the central Tibetan Plateau[J].Acta Geological Sinica,2018,92（5）:2058-2059.   \n[29］仇士华.中国 $^ { 1 4 } \\mathrm { C }$ 年代学研究[M].北京：科学出版社,1990. [QIU Shihua. Chinese $^ { 1 4 } \\mathrm { C }$ chronology study[M].Beijing:Science Press,1990.]   \n[30］杜丁丁.中国西部地区湖泊碳库效应的影响因素及评价［D]. 兰州：兰州大学,2018.［DUDingding.The influence factors and evalution of $^ { 1 4 } \\mathrm { C }$ reservoir effects of lakes in the western China [D].Lanzhou:Lanzhou University,2018.]   \n[31］顾兆炎，刘嘉麒，袁宝印，等.12000 年来青藏高原夏季风变 化一色林错沉积物地球化学的证据［J].科学通报,1993,38 (1）,61-64.[GU Zhaoyan,LIU Jiaqi,YUAN Baoyin,et al. Qinghai-Tibetan Plateau monsoon variations since 12 ka BP,records from the geochemistry of lake sediments in Siling Co[J].Chinese Science Bulletin,1993,38(1):61-64.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Paleoclimatic changes reflected by diffuse reflectance spectroscopy since Last Glacial Maximum from Selin Co Lake sediments ,central Qinghai-Tibetan Plateau ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DU Ding-ding'， Muhammad Saleem Mughal²， Dembele Blaise²， ZHANG Cheng-jun²(1EastChinaUniversityofTechnologyNanchang33ol3,Jiangxi,China；holofEarthciences&ineralResources，Lanzhou University；KeyLaboratoryofWesternChina'sMineralResourcesofGansuProvince,Lanzhou73oo1,Gansu,China)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The Selin CoLake is located in thecentral Qinghai-Tibetan Plateau,China,which isasensitive region to climate.Meanwhile,the area is less influenced by humanactivities.In recent years,the region becameahotspot forthe paleoenvironmental research community.Inthispaper,the profile is selected inthethird terraceof the lakeshore and 122 samples were collected there.By using $^ { 1 4 } \\mathrm { C }$ dating method,we get the exact age of the profile. The combination of many different methods,such as TOC,X-ray diffraction（XRD）, $\\mathrm { C a C O } _ { 3 } ( \\% )$ ,magnetic susceptibility and grain size,wereused to investigate the paleo-environment.Three components were considered in this investigation including red $( \\boldsymbol a ^ { * } \\boldsymbol )$ ,yellow ${ \\left( { \\boldsymbol { b } } ^ { * } \\right) }$ and brightness $\\left( L ^ { \\ast } \\right)$ . The $a ^ { * }$ and $b ^ { * }$ are mainly related to the value of goethite and the $a ^ { * }$ in sediment is primarily related to wet-warm climate,which can be used to monitor paleoclimatic changes in the area. The $L ^ { * }$ has a good correlation with TOC and $\\mathrm { C a C O } _ { 3 } ( \\% )$ ; and almost has correlation with magneticsusceptibility and grain size.If the grain size of the lake sediment became coarser,magnetic susceptibility was bigger,the organic content went higher,and the $\\mathrm { C a C O } _ { 3 } \\left( \\% \\right)$ got decreased,all these indicated the climate was in the warm-wet condition which was reflected by a higher $a ^ { * }$ value and a lower $L ^ { \\ast }$ value；otherwise,the climate was in the cold-dry condition which was reflected by a lower $a ^ { * }$ value and a higher $L ^ { * }$ value. Therefore,the paleoclimatic changes were divided into 5 stages:The cold-dry climatic period from 13.33 to $1 2 . 2 3 \\ \\mathrm { k a }$ BP,the significant cold-dry climatic period from 12.23 to $1 0 . 0 7 \\ \\mathrm { k a }$ BP when the Younger Dryas event occurred,the Holocene Megathermal period from 10.68 to $8 . 7 0 \\ \\mathrm { k a }$ BP when the values of $a ^ { * }$ and $b ^ { * }$ kept higher and the value of $L ^ { * }$ sustained a dropping trend,the warm-wet climatic period from 8.70 to $3 . 9 3 \\mathrm { \\ k a \\ B P }$ and the cold-dry climatic period from 3.93 to $0 \\ \\mathrm { k a }$ BP.The result was very similar to the monsoon changes in Qinghai-Tibetan Plateau. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Hue；grain size；paleoclimate and paleo-environment； Selin Co Lake",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "Green Synthesis of a Bio-Based Epoxy Curing Agent from Isosorbide in Aqueous Condition and Shape Memory Properties Investigation of the Cured Resin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chao Li, Jinyue Dai, Xiaoqing Liu,\\* Yanhua Jiang, Songqi Ma, Jin Zhu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The bio-based diamine and epoxy monomer derived from isosorbide are synthesized. Especially,the diamine is obtained using microwave assistant thiol-ene coupling reaction in the aqueous media and the influence of reaction parameters, such as initiator content and reaction time,are investigated. After curing the synthesized epoxy monomer together with the diamine,properties of the cured resins are studied by differential sscanning calorimetry, dynamic mechanical analysis,and thermogravimetric analyzer. Results demonstrate that the cured resin has good shape fixity, good shape recovery, and satisfied thermal stability despite the presence of heteroatoms.This bio-based epoxy resin shows great potential to be used as a candidate for shape memory material. Considering the bio-based feedstock and environmental friendly synthetic process,a \\`green $+$ green\"strategy to prepare thermosetting resins with advanced properties is provided in this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f8107e2d3c4eeabbb44b8702cd3194d634a67ca0866784450e312a7345818ff.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymers derived from renewable resources have been gaininga great interest partially due to the increasing concernabout the depletion of fossil reserves and greenhouse gas emission. Up to now,a wide range of natural and biobased polymers,such as starch,[1]cellulose,[2] lignin,3] poly lactic acid (PLA),[4] and polyhydroxyalkanoates (PHA)[5] as well as the bio-based polyethylenel6] derived from sugar cane have been developed as the alternatives to petroleum-based polymeric materials. Compared with the rapid and successful commercialization of some bio-based thermoplastics,the research on bio-based thermosetting resins has just begun and very limited products have been reported. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the last two decades, the most popular bio-based epoxy resins might be derived from plant oils.However, the long aliphatic chain and the low reactivity of epoxy groups usually leads to poorly crosslinked materials with unsatisfied mechanical or thermal properties,for instance the low glass transition temperature $( T _ { \\mathrm { g } } )$ [7,8] In order to develop the bio-based thermosets with promising properties,a large quantity of bio-based chemicals possessing stiff ring structures or more reactive groups, such as rosin acid,[9-12] diphenolic acid,[13] tannin acid[14,15]itaconicacid,16,17]glucose[18]eugenol[19,2] furan,21] and isosorbide[22] have been employed as the starting materials for the bio-based thermosets synthesis.For example,Liu et al.developed a series of epoxy and epoxy curing agents from rosin acid and their thermal or mechanical properties were better or similar to their petroleum-based counterparts.[9,11] Ma et al. synthesized the epoxies from itaconic acid (IA) and the multiple functional groups ensured them good mechanical properties.[16,17] Anthony et al. prepared the epoxy monomers from diphenolic acid as bio-based alternatives to the diglycidyl ether of bisphenol A (DGEBA) with controlled properties.Wang and co-workers reported a novel eugenol-based epoxy possessing good intrinsic flame retardancy,low smoke production,and excellent mechanical properties.[2o] Apparently, more and more bio-based epoxieswith satisfied mechanical andthermal properties have been reported.However,compared with the traditional petroleum-based thermosetting resins, the bio-based ones with unique functionalities,such as shapememory,UVresistance,and flameretardancy,has seldom reported.[23-25] ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8cf1ee1df0a39fe7b0267ed740b1ec6646946d643933e3e9856a28fe9326620.jpg",
+        "img_caption": [
+            "Scheme1.SynthesisofepoxyISEandcuringagent ISAfromisosorbideaswellastheschematicilustrationofthecuredresin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shape memory polymers (sMP) are stimuli-sensitive materials that can be deformed and fixed in a temporaryshape and then recover the permanent shape when exposed to a suitable stimulus, such as temperature,light, electricity, pH,and so on.[26,27] They have been used extensively as sensors,smart adhesives,actuators,and selfdeployable medical devices.Due to their biocompatibility and expected biodegradability as well as the public concern on sustainable development,a large quantity of biobased plastics with good shape memory properties has been developed.[28,29] However, there is hardly literature information about the bio-based thermosetting resins with good shape memory properties. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Isosorbide is a by-product of starch industry obtained by the reduction of D-glucose. Due to its huge annual production capacity and specific chemical structure, isosorbide isa competitive feedstock for biopolymer.So far,some polymers and resins derived from isosorbide have been synthesized and their overall properties were evaluated.30,31] As we know,the molecular design plays a keyrole in manipulating the shape memory properties of materials.The stiffness of polymer chain and it crosslink density have a significant impact on $T _ { \\mathrm { g } }$ [32,33] Meanwhile, it also influences the shape fixity, shape recovery,and recovery speed of the SMP. Therefore,a suitable molecular structure is necessary for better shape memory properties.Considering the characteristic structure of isosorbide,it is an alicyclic dissymmetry structure composed of two cis-fused V-shaped tetrahydrofuran rings, which means that the bond length and bond angle might be changed with the temperature or the external force field.[3o] Therefore, it might be possible for us to design and synthesize an excellent SMP containing isosorbide block. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, the epoxy monomer (IsE) and curing agent (IsA) derived from isosorbide were synthesized (Scheme 1).The microwave assistant thiol-ene reaction was employed to synthesize the curing agent ISA.The effect of reaction parameters,such as initiator concentrationand reaction time,on the yield of ISA was carefully investigated.After the ISE was cured with ISA, the almost fullybio-based epoxy resin was obtained and its thermal, mechanical as well as shape memory behaviors,such as dynamic mechanical properties,shape fixity,and shape recovery，were investigated. The results in this study provided us new insight to design and develop the biobased epoxy with functionalization,especially the shape memoryproperties. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental Section ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Isosorbide with food grade purity was purchased from Rizhao Lishide chemical Co,Ltd.Allyl bromide,cysteamine hydrochlo ride and meta-chloroperbenzoic acid with the purity of $7 5 \\%$ were all purchased from Aladdin Reagent,China.Methylene chloride, 1,4-dioxane， methanol, dichloromethane(DCM), sodium hydroxide $( \\mathsf { N a O H } )$ ，anhydrous sodium carbonate $( \\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 } )$ ,sodium bisulfite $( \\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 } )$ ,magnesium sulfate $( M g S O _ { 4 } )$ Tween-80,and ammonium persulfate $( ( \\mathbf { N H } _ { 4 } ) _ { 2 } \\mathsf { S } _ { 2 } \\mathsf { O } _ { 8 } )$ were bought from Shanghai Hushi Limited Company. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.Preparation of Diallyl Isosorbide ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Into a $5 0 0 ~ \\mathrm { m L }$ three-necked round bottom flask equipped with a mechanical stirrer, $5 8 . 4 \\mathrm { ~ g ~ } ( 0 . 4 \\mathrm { ~ m o l } )$ of isosorbide together with $1 0 6 . 5 \\mathrm { ~ g ~ } ( 0 . 8 8 \\mathrm { ~ m o l } )$ of allyl bromide were added.The mixture was heated to $6 5 ^ { \\circ } \\mathsf { C }$ and maintained at this temperature for $1 0 ~ \\mathrm { m i n }$ Then $3 5 . 2 \\mathrm { ~ g ~ } ( 0 . 8 8 \\mathrm { ~ m o l } )$ of sodium hydroxide dissolved in $\\boldsymbol { 1 0 0 } ~ \\mathrm { m L }$ distilled water was added dropwisely.After the reaction was conducted at $6 5 ^ { \\circ } \\mathsf { C }$ foranother $^ { 5 \\mathrm { h } }$ ,the mixture was cooled to room temperature and $2 0 0 ~ \\mathrm { m L }$ dichloromethane was added under vigorous stirring. Then it was kept stable for $1 0 \\mathrm { m i n }$ and the upper organic layer was separated.The residual water in the organic phase was removed by anhydrous $\\begin{array} { r } { { M g S O } _ { 4 } , } \\end{array}$ following by the dry organic solution was removed in the rotary evaporator.At last, the target product diallyl isosorbide with the weight of $_ { 8 4 } \\mathrm { \\ g }$ was obtained and the total yield was calculated to be $94 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ -NMR:5.83 (m,2H, $\\mathsf { C H } _ { 2 } \\mathrm { - } \\mathsf { C } H \\mathrm { - } \\mathsf { \\Gamma }$ ，5.20 (d,2H, $C H _ { 2 } { \\mathrm { - } } C \\mathrm { H - } )$ 5.10(d, 2H, ${ \\mathsf { C } } H _ { 2 } { \\mathrm { - } } { \\mathsf { C } } { \\mathrm { H - } }$ ,4.6 (t,1H, $- \\mathsf { C } H -$ ),4.43(d,1H,-CH-),4.1(d, 1H, $- \\mathsf { C } H - \\mathsf { O } - \\mathsf { I }$ ， $4 . 0 { - 3 . 8 }$ (m,8H, $- C H _ { 2 } { - } O -$ 中 $- 0 { \\ - } \\mathsf C \\pmb { H } _ { 2 } { \\ - } )$ ，3.5(t,1] $\\bar { \\mathsf { I } } , - \\mathsf { C } H - \\mathsf { O } - \\mathsf { I }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FT-IR $( \\mathsf { c m } ^ { - 1 } )$ ：3018 $\\scriptstyle ( c - H$ of $- \\mathsf { C H } { = } \\mathsf { C H } _ { 2 }$ ，2984 and 2945$\\left( - c { \\pmb { H } } _ { 2 } - \\right)$ ，1649 $\\scriptstyle ( - c = c -$ ，1454，1384,and 1349 $\\left( - c \\pmb { { H } } _ { 2 } - \\right)$ ，1290$( c { - } H$ of $- \\mathsf { C H } { = } \\mathsf { C H } _ { 2 }$ )，1093 and 1008 $( - c - o - )$ ，991（ $\\scriptstyle ( c - H$ of$- \\mathsf { C H } { = } \\mathsf { C H } _ { 2 } ,$ ！：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.Synthesis of Isosorbide-Based Epoxy Monomer (ISE) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Into a three-necked round bottom flask, $\\overline { { 1 8 4 } } \\textrm { \\text g }$ of metachloroperbenzoic acid was dissolved in $3 0 0 ~ \\mathrm { m L }$ DCM via mechanical stirring. Then $_ { 8 4 } \\mathfrak { g }$ above diallyl isosorbide dissolved in $\\scriptstyle 1 0 0 \\mathrm { m L }$ DCMwasadded slowly into the reaction over a period of one hour. After the reaction was conducted at room temperature for $^ { 1 2 \\mathrm { h } }$ the precipitation was removed via filtration.The filtrate was washed with $3 0 0 \\mathrm { m L }$ of $1 0 \\% \\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ solution followed by saturated ${ \\tt N a } _ { 2 } { \\tt C O } _ { 3 }$ solution. After drying with anhydrous magnesium sulfate,the dichloromethane was removed by rotary evaporator.The obtained crude product was dissolved in $5 0 0 ~ \\mathrm { m L }$ methanol before it was cooled to $- 5 ^ { \\circ } \\mathsf { C }$ and kept at this temperature for $^ { 5 \\mathrm { ~ h ~ } }$ At last, the solid precipitate was removed via filtrationand themethanol in the filtrate was evaporated off to get the target product,isosorbidebased epoxy monomer,weighting $_ { 5 4 . 1 \\mathrm { g } }$ (yield $56 \\%$ ） ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ -NMR (ppm): 4.6 (t,1H,-CH-),4.4 (d,1H, $- \\mathsf { C } H - \\mathsf { ) }$ ,4.1-3.7 (m,6H, $- C H _ { 2 } - O -$ ， $- \\mathsf { C } H - \\mathsf { O } - )$ ，3.5 (m，2H, $- 0 - \\mathsf { C } H _ { 2 } - )$ ，3.3 $( \\mathrm { m } , 2 \\mathrm { H } , - 0 { - } \\mathsf { C } H _ { 2 } { - } )$ ,3.1 (m,2H,-CH-O-),2.7 (m,2H, $- \\mathsf { C } H _ { 2 } { - } 0 - )$ 2.5 (m,2H, $- \\mathsf { C } H _ { 2 } { - } 0 - )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FT-IR $( \\mathsf { c m } ^ { - 1 } )$ ：2957 and 2893 $( - c H _ { 2 } - )$ ，1100 $\\scriptstyle ( - c - o - )$ ,1251and 918 $\\scriptstyle ( - c - o -$ of epoxy).",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Synthesis of Isosorbide-Based Diamine (ISA) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$2 . 2 2 ~ \\mathrm { g }$ of diallyl isosorbide, $2 . 2 7 \\ \\mathsf { g }$ of cysteamine hydrochloride, $_ { 0 . 0 0 4 \\mathrm { ~ g ~ } }$ of Tween-8o together with the predetermined amount of $( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathsf { S } _ { 2 } \\mathsf { O } _ { 8 }$ were dissolved into $2 0 ~ \\mathrm { m L }$ water ina three-necked round bottom flask.The reactionwas performed inamicrowave accelerated reaction system (Multiwave 3ooo,Anton Paar) with the temperature was controlled by an infrared temperature sensor. Irradiation was carried out during a time ranging from 1 to $2 4 \\mathrm { h }$ and the temperature was locked at $9 0 ^ { \\circ } \\mathsf C$ After the reaction was finished, the mixture was extracted by DcMthree times and the organic layers were collected before drying with anhy drous $ { M _ { \\mathrm { { g } S O _ { 4 } } } }$ .At last,the DcMwas evaporated off and the target product was obtained. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ -NMR (ppm): 4.6 (t,1H, $- \\mathsf { C } H - \\mathsf { 1 }$ , 4.4 (d, 1H, $- \\mathsf { C } H - \\mathsf { i }$ ,3.9-3.6 (m,6H, $- C H _ { 2 } { - } O -$ ， $- \\mathsf { C } H - \\mathsf { O } - )$ ，3.4 (m，4H, $- 0 - \\mathsf { C } H _ { 2 } -$ ，2.8 (t,4H, ${ \\mathrm { - C H } } _ { 2 } { \\mathrm { - N H } } _ { 2 } )$ ，2.5 $( \\mathbf { m } ,$ 8H, $- \\mathsf { C } H _ { 2 } { - } \\mathsf { S } { - } \\mathsf { C } H _ { 2 } { - } )$ ，1.8 (m,4H, $\\begin{array} { r l } { - \\mathtt { C H } _ { 2 } - \\mathtt { C } H _ { 2 } - \\mathtt { C H } _ { 2 } - \\mathtt { C H } _ { 2 } - ) . } \\end{array}$ 1.4 (s,4H, $ { - }  { \\mathrm { N } } H _ { 2 }  { \\mathrm { ) } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FT-IR $( \\mathsf { c m } ^ { - 1 } )$ ：3345 $\\scriptstyle ( - N H$ of $\\mathrm { - c - N H } _ { 2 } )$ ，2931 and 2883$\\left( - c \\pmb { { H } } _ { 2 } - \\right)$ ，1653 $( - c - N - )$ ，1318 $( - c - N - )$ ，1098 $( - c - o - )$ 0 $1 0 2 0 \\left( - c - N - \\right)$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5. Curing of the Isosorbide Epoxy Network ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ISE and ISA at a stoichiometric proportion were stirred together until a homogeneous mixture was formed before it was degassed in a vacuum oven at room temperature for at least 3o min. Then the gas free mixture was poured into a mould sprayed with the mold-release agent and cured at $8 0 ~ ^ { \\circ } \\mathsf { C }$ for $^ { 3 \\mathrm { ~ h ~ } }$ $\\mathsf { 1 2 0 ^ { \\circ } C }$ for $^ { 2 \\mathrm { h } }$ to obtain a completely cured resin.The cured resins were removed from the mould carefully and applied for the properties investigation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.6.Measurementand Characterization ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ -NMR and $^ { 1 3 } { \\mathsf { C } }$ -NMR spectra were recorded using a Bruker AVANCE spectrometer $\\mathrm { ^ { ( 1 } H }$ at $3 0 0 ~  { \\mathrm { M H z } }$ 5 $^ { 1 3 } { \\mathsf { C } }$ at 75.47 MHz) with $\\mathsf { C D C l } _ { 3 }$ as the solvent.Chemical shifts were referenced to the peak of residual $\\mathsf { C H C l } _ { 3 }$ at $7 . 2 6 ~ \\mathrm { p p m }$ for $^ 1 \\mathrm { H }$ -NMR and77 ppm for13C-NMR.The epoxy value of the product was determined by titration of sample dissolved in HCl/dioxane solution,with KOH ethanol solution according to PN87/C-89085/13.Phenolphthalein was used as an indicator.Differential scanning calorimetry (DsC) analyses were carried out using a Mettler Toledo Star1 apparatus.Cured resin weighting about $6 ~ \\mathrm { m g }$ was heated to ${ \\mathsf { 1 0 0 } } ^ { \\circ } { \\mathsf { C } }$ and held there for5 min to eliminate any thermal history. Then it was cooled to $- 6 0 ^ { \\circ } \\mathsf C$ at a cooling rate of $1 0 0 ^ { \\circ } \\mathsf { C } \\operatorname* { m i n } ^ { - 1 }$ followed by heating again to $1 0 0 ^ { \\circ } \\mathsf C$ at a rate of $1 0 \\ ^ { \\circ } \\mathsf { C } \\ \\mathsf { m i n } ^ { - 1 }$ . The glass transition temperature was obtained from the peak temperature of the differential curve of the second heating curve for the cured epoxy resins.Dynamic mechanical analysis (DMA),A Q800 DMA from TA Instruments equipped with tension fixture was used. Controlled heating and cooling were achieved using a GCA cooling system with liquid nitrogen.The experiment was performed with the frequency of ${ } ^ { 1 \\mathrm { ~ H z } }$ and the heating rate of $3 ^ { \\circ } \\mathsf { C } \\mathsf { m i n } ^ { - 1 }$ from $- 3 0$ to $\\mathsf { 1 5 0 ^ { \\circ } C }$ Thermogravimetric analysis (TGA) was performed on a Mettler-Toledo TGA/DsC1 Thermogravimetric Analyzer (METTLER TOLEDO,Switzerland).The sample was heated from 50 to $8 0 0 ^ { \\circ } \\mathsf C$ witha heating rate of $1 0 \\mathrm { ^ { \\circ } C \\mathrm { m i n ^ { - 1 } } }$ ， ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The thermomechanical cycle experiments were also performed on a TA DMA Q8oo machine to investigate the shape memory properties of the cured resin.Prior to deformation, the sample with the dimension of $1 0 . 0 \\ \\mathrm { m m } \\times 4 . 0 \\ \\mathrm { m m } \\times 0 . 7 \\ \\mathrm { m m }$ was heated to $6 0 ^ { \\circ } \\mathsf C$ and equilibrated at this temperature for $1 0 \\mathrm { m i n }$ In step 1,the sample was stretched to a predetermined tensile strain value of $5 \\%$ at arate of $0 . 1 \\mathrm { N } \\mathrm { m i n } ^ { - 1 }$ (deformation).In step 2, the sample was cooled to $0 ^ { \\circ } \\mathsf C$ with the cooling rate of $3 ^ { \\circ } \\mathsf { C } \\mathsf { m i n } ^ { - 1 }$ and maintained at this temperature for $5 ~ \\mathrm { m i n }$ (cooling). In step 3,the force applied to the sample was unloaded to the preloaded value (0.005 N) at the rate of $0 . 1 \\mathrm { ~ N ~ m i n ^ { - 1 } }$ ,followed byanadditional 5 min of isothermal step to ensure shape fixing at $0 ~ ^ { \\circ } \\mathsf C$ (unloading and shape fixing).In the step 4,the sample was reheatedat therate of $3 \\ ^ { \\circ } \\mathsf { C } \\ \\operatorname* { m i n } ^ { - 1 }$ to $6 0 ~ ^ { \\circ } \\mathsf { C }$ and then held here for $1 0 \\ \\mathrm { m i n }$ to recover any residual strain (recovery).This fourstep thermomechanical cycle wasrepeated three times for each sample.In the deformation progress the strain of sample to increase from $\\mathfrak { \\varepsilon } _ { 0 }$ to $\\mathfrak { \\varepsilon _ { \\mathrm { m } } }$ .Upon unloading,part of the strain $( \\varepsilon _ { \\mathrm { { m } } } ( \\mathbf { N } )$ $- \\varepsilon _ { \\mathrm { u } } ( \\mathbf { N } ) )$ was recovered, leaving an unloading strain $( \\mathfrak { E } _ { \\mathrm { u } } ( \\mathbb { N } ) )$ . The recovery process left a permanent strain $( \\mathfrak { E } _ { \\mathfrak { p } } ( \\mathbb { N } ) )$ .Shape fixity (Rf) and shape recovery $\\left( R _ { \\mathrm { r } } \\right)$ are defined as below ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { f } } \\left( \\% \\right) { = } \\frac { { \\varepsilon } _ { \\mathrm { u } } \\left( N \\right) { - } { \\varepsilon } _ { \\mathrm { p } } \\left( N { - } 1 \\right) } { { \\varepsilon } _ { \\mathrm { m } } \\left( N \\right) { - } { \\varepsilon } _ { \\mathrm { p } } \\left( N { - } 1 \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { \\mathrm { r } } ( \\% ) = \\frac { \\varepsilon _ { \\mathrm { u } } ( N ) - \\varepsilon _ { \\mathrm { p } } ( N ) } { \\varepsilon _ { \\mathrm { u } } ( N ) - \\varepsilon _ { \\mathrm { p } } ( N - 1 ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Result and Discussion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Synthesis of the Isosorbide-Based Epoxy Monomer (ISE) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reacting with epichlorohydrin and epoxidation of alkenes are both the commonly used methods to prepare epoxy resins.According to the literature information,isosorbide can also be converted into epoxy resins via these two strategies.[31] However, the product is a mixture of different oligomers with varied epoxy values,not the epoxy monomer with specific structure,when the isosorbide was reacted with epichlorohydrin,and it is almost impossible for us to conduct the separation.Additionally,neither mechanical property nor thermal stability of the cured mixed oligomers was satisfied.[32] However,the isosorbide diglycidyl etherprepared via the epoxidation of diallyl isosorbide is a highly pure monomer. After curing with amine or anhydride,a highly crosslinked network could be obtained.In this study, the epoxidation route was employed and the isosorbide-based epoxy monomer (ISE) with specific chemical structure was obtained via the epoxidation of diallyl isosorbide by meta-chloroperbenzoic acid.Figure 1 shows the $^ 1 \\mathrm { H }$ -NMR spectrumof the resulted ISE and the characteristic peaks were clearly identified.The signals ranged from 3.3 to 4.6 ppm were corresponded to the protons attached on the isosorbide ring.The signals centered at 3.1 ppm was assigned to the Hc and ${ \\mathrm { H } } \\mathbf { c } ^ { \\prime }$ of the glycidyl group and the peaks at 2.7 and 2.5 ppm was related to the Ha,Ha',Hb, andHb',respectively.At the same time,its epoxy value was determined to be O.75 by tritation,which is in accordance withthetheoreticvalueofO.79.Theseresultsindicate that the pure monomer of ISE was synthesized successfully. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Synthesis of Isosorbide-Based Diamine (ISA) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With the rapid progress on click-chemistry,a large quantity of quantitative and regioselective reactions have been developed.Due to its tolerance of water and oxygen as well as the simple and efficient process,click-chemistry has been considered to have a great potential in chemical industry. As we know, thermal initiation is the traditional method to conduct a free radical reaction and the chain transfer reaction or other by-product is usually inevitable.In recent literature,cysteamine was often used to functionalize bio-mass via the radical thiol-ene addition reaction and the side reaction could be controlled or restrained.[3ol However, in order to ensurea higher yield, the thiol-ene additionreaction has to be conducted in the organic solution because of the soluble problem of organic reagents,such as mercaptan and the olefin.[34] In this study, the thiol-ene reaction in aqueous condition was developed for the synthesis of ISA.Unlike othermercaptain,cysteamine hydrochloride is easily soluble into waterandits chemical structureis similar to the surfactant, which can conveniently promote the water solubilityof organic reagents.Hence, the thiol-ene coupling of cysteamineand diallyl isosorbide couldbe finishedin the aqueous condition.As described in the Experimental Section (Section 2.4), the commonly used mircowave was also employed here to accelerate this reaction $\\boldsymbol { [ 3 4 ] _ { 5 } }$ and a small amount of Tween-80 was taken to enhance the solubility of diallyl isosorbide $^ { [ 3 9 ] } 6$ In addition, the water soluble initiator $( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathsf { S } _ { 2 } \\mathsf { O } _ { 8 } ,$ as the alternative to AIBN,was used in ourexperiment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa633b17741eb54a45d444429d85017b25b509c2e2d421ff0e9c52b54b779655.jpg",
+        "img_caption": [
+            "Figure1. $\\mathsf { \\Omega } ^ { \\mathsf { 1 } } \\mathsf { H }$ -NMR spectrum of the ISE. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to optimize the reaction condition,the effect of initiator concentration and reaction time on the conversion of thiol-ene coupling was studied. The reaction process was monitored via periodical sample detection. Figure2is the $^ 1 \\mathrm { H }$ -NMR spectrum of the reaction mixture along with different reaction time.It was easy to notice that,at the beginning of the reaction,the signals at 5.1-5.2 and 5.8 ppm related to the protons attached on the double bond of diallyl isosorbide were very strong.With the reaction proceeding,these signals became smaller and smaller and completely disappeared when the reaction was conducted for $^ { 6 \\mathrm { ~ h ~ } }$ 、Additionally, the newly appeared characteristic peaks at 1.7 and 3.4 ppm standing for the thiol-ene coupling reaction were detected and along with the reaction time, they became more and more strong. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffe18b794c069263c3740d723931855bb8c76e0fe61e927a52b9dec3f29e743a.jpg",
+        "img_caption": [
+            "Figure 2.'H-NMR spectra of the reaction mixture along with different reaction time. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the conversion of thiol-ene reaction under varied initiator concentration along with different reaction time.Apparently, the higher initiator concentration and longer reaction time were used, the higher conversion could beobtained.However,when the concentration of initiatorwas increased to $3 . 5 \\%$ ,theincrease of conversion was slowed down.In our experiment, $3 . 5 \\%$ initiator together with the reaction time of $^ { 6 \\mathrm { ~ h ~ } }$ was selected as the optimal condition for the ISA synthesis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 is the NMR spectrum of the synthesized ISA.In Figure 3a, the multiple peaks in the range of $3 . 7 \\mathrm { - } 4 . 6 ~ \\mathrm { p p m }$ were corresponded to the protons attached on isosorbide ring. The signals at 3.5 and 1.7 ppm were related to He, He,Hd, and ${ \\mathrm { H } } { \\mathrm { d } } ^ { \\prime }$ as well as the peaks centered at 2.5 ppm were assigned to Hb, ${ \\mathrm { H } } { \\mathrm { } } \\mathbf { b } ^ { \\prime }$ ,Hc,and ${ \\mathrm { H } } { \\mathrm { c } } ^ { \\prime }$ ，which were close to the sulfur atom.Figure 3b shows the $^ { 1 3 } { \\mathsf { C } }$ -NMR spectra of ISA and all the characteristic peaks were also assigned accordingly. These results demonstrated that the target compound ISA was synthesized successfully via the thiolene coupling reaction in the aqueous condition. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c98b205a72bf3885d7c6691bc88a6c5dc1585c4ceb82955b6082b73956d69c82.jpg",
+        "table_caption": [
+            "Table 1.Conversion of thiol-ene reaction under varied initiator concentrationand different reaction time. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Initiator concentration [%]</td><td colspan=\"4\">Reaction time</td></tr><tr><td>0.5 h</td><td>1h</td><td>3h</td><td>6h</td></tr><tr><td>2.00</td><td>0.48</td><td>0.52</td><td>0.67</td><td>0.78</td></tr><tr><td>2.50</td><td>0.5</td><td>0.59</td><td>0.67</td><td>0.79</td></tr><tr><td>3.00</td><td>0.62</td><td>0.65</td><td>0.71</td><td>0.79</td></tr><tr><td>3.50</td><td>0.71</td><td>0.67</td><td>0.72</td><td>0.82</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1532d31c882b59388ab0195d4e7ff9b5342e72539aa4725653699710f695c0e6.jpg",
+        "img_caption": [
+            "IFigure3. 'H-NMR and $^ { 1 3 } { \\mathsf C }$ -NMR spectra of ISA. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.Thermal Properties of the Cured Epoxy ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As far as the shape memory epoxy resin is concerned, when the temperature is below the $T _ { \\mathrm { g } } ,$ it will be fixed into a temporary shape.When it was heated above $T _ { \\mathrm { g } }$ without stress, the covalently crosslinked networks will lead the polymerchains to theirequilibriumconformation.Therefore,the shape transition temperature of epoxy resin has a close tie with its $T _ { \\mathrm { g } }$ [34,37] After curing the synthesized ISE with ISA,its $T _ { _ { 8 } }$ was determined to be $3 4 . 4 ~ ^ { \\circ } \\mathsf C$ using DSC. And according to the DMA result (Figure 4), the $T _ { \\mathrm { g } }$ value should be $3 7 ^ { \\circ } \\mathsf C$ .This was reasonable and means that the cured resin has a relatively lower shape transition temperature. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking,when the storage modulus of resin demonstrated two orders of magnitude difference before and after passing the glass transition temperature,it has the potential to be used as shape memory material.[34-38] Based on Figure 4, It was obvious that when the temperature was below $2 0 ^ { \\circ } \\mathsf C$ ,storage modulus of the isosorbidebased epoxy was over $3 0 0 0 \\ M \\mathrm { P a }$ . This would provide the resin enough strength to hold its temporary shape. In other words, it might have good shape fixity. When the cured resin turned from glass state to rubber state along with the increasing temperature,its storage modulus was decreased quickly to about $\\mathsf { 1 0 \\ M P a }$ ,which could ensure the resin no permanent deformation after unloading at higher temperature.In addition, the crosslink density $( \\nu _ { e } )$ of the cured systems could be calculated by the following equation derived from the theory of rubber elasticity ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6fab4661fe4df47b4f24a70aac02fe45489dcb458ed21457fd6254ac2b5b1fe0.jpg",
+        "img_caption": [
+            "Figure 4. DMA spectrum ofthe isosorbide-based epoxy aftercuring "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cf4c20ca4df0cd331e55f50cb885a362ce74c9d7f05b2cc6944f81d5fdd5323.jpg",
+        "img_caption": [
+            "Figure 5. $3 0$ diagram of strain-controlled programming cycles for isosorbide-based epoxy resin (1) Keepingat $6 0 ^ { \\circ } \\mathsf C$ for 10 min before stretching to $5 \\%$ tensile strain; (2) Cooling to o $^ { \\circ } \\mathsf { C }$ while keeping the constant strain value; $\\left( 3 \\right)$ Unloading the force and equilibrating for5 min; (4) Heating up to $6 0 ^ { \\circ } \\mathsf C$ again and then start the second cycle after 5 min equilibration). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv e = \\frac { E ^ { \\prime } } { 3 R T }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $E ^ { \\prime }$ is the storage modulus after $T _ { \\mathrm { g } }$ in the rubbery plateau region ( $E ^ { \\prime }$ at the temperature of $T _ { \\mathrm { g } } + 4 0 ~ \\mathrm { K }$ at which all crosslinked networks were in a rubbery state was chosen in this study), $R$ is the gas constant,and $T$ is the absolute temperature.And the crosslink density $( \\nu _ { e } )$ was calculated to be $1 . 2 \\times 1 0 ^ { 3 }$ (mol $\\mathbf { m } ^ { - 3 }$ ） which was high enough to ensure a satisfied mechanical strength. After all,according to the DMA results, the isosorbide-based epoxy demonstrated its potential to be used as a shape memorymaterial. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4.Shape Memory Cycle Test ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the shape memory properties of the cured resins in detail, the cyclic thermomechanical experiments were performed ona DMA machine and the four-step procedure was schematized in Figure 5.The calculated shape fixity ratio $\\left( R _ { \\mathrm { f } } \\right)$ and shape recoveryratio $\\left( R _ { \\mathrm { r } } \\right)$ in different cycle were listed in Table 2.It was notable that the cured resin showed a constant $R _ { \\mathrm { f } }$ of about $9 7 \\%$ during the three cycles.As for the $R _ { \\mathrm { r } } ,$ the value was only $81 \\%$ in the first cycle.Anditwasincreased to near $100 \\%$ in the second and third cycle.The reason might be that there was internal stress remained in the specimen after the curing reaction. When a heating-stretching-cooling cycle was applied, the molecular chain segment could be equilibrated adequately and the internal stress was released completely. Onlyafter that,the inherent $R _ { \\mathrm { r } }$ of about $100 \\%$ could be demonstrated. This indicated good shape memory performance.In addition,we should pay attention to that all curves representing the three thermomechanical cycles were almost overlapped inFigure5,which meant that the shape memory behaviors were remained quite constant and repeatable after several cycles.[34,38,39] ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c74c1e0460299486ae98cc1dc2299f4d6977e2d6bf7efb2699adede6a5ed3d7.jpg",
+        "table_caption": [
+            "Table2.The shape fixity and shape recovery atdifferent recover cycle. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cycle number</td><td>Rf[%]</td><td>Rx [%]</td></tr><tr><td>1st</td><td>97.5</td><td>81.3</td></tr><tr><td>2nd</td><td>98.1</td><td>99.8</td></tr><tr><td>3rd</td><td>97.6</td><td>99.9</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 6, the spiral shape at $6 0 ~ ^ { \\circ } \\mathsf { C }$ was stretched into a temporary linear shape and then quenched to $0 ~ ^ { \\circ } \\mathsf C$ 、When the stretched specimen was immersed in the water bath at $6 0 ~ ^ { \\circ } \\mathsf { C }$ again,it changed into the original spiral shape inless than $4 \\ : s$ ,which indicated the fast shape recovery speed. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5.Thermal Degradation Behavior ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The bio-based materials always contain heteroatoms such as oxygen,nitrogen,and sulfur. Thus they usually show relatively lower thermal degradation temperature.[18l Figure 7 is the TGA curves of the cured isosorbidebased epoxy resin.As could be seen, there was no obvious thermal decompositionobserved below $3 0 0 ^ { \\circ } \\mathsf C$ and the $5 \\%$ weight loss was occurred at ${ 3 0 6 } ^ { \\circ } \\mathsf C .$ The isosorbide ring structure contains two oxygen atoms and also the sulfur atom was introduced into the cured system via thiol-ene reaction.However, the oxygen atoms were confined in the closed five-member rings and together with the high crosslink density of the cured resin might be the reason for this acceptable thermal stability. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/efcd0fb4aa52e08d946e57f8f21196abf4f45177764d4000c7cc66f67382a733.jpg",
+        "img_caption": [
+            "Figure 6.Transition from the temporary linear shape to the permanent spiral shape (a) permanent spiral shape at $6 0 \\ ^ { \\circ } \\mathsf { C } ;$ b) temporary linear shape at $\\circ ^ { \\circ } \\mathsf { C }$ before being immersed in water bath at $6 \\textdegree$ after being immersed in water bath at $6 0 ^ { \\circ } \\mathsf C$ for 2 s; d)after being immersed inwater bath at $6 0 ^ { \\circ } \\mathsf C$ for $4 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f785900730365282d68ff7e244389cfa1d237619f7c8275a2dca2b00e94e3cb4.jpg",
+        "img_caption": [
+            "Figure 7. TGA curve of the cured isosorbide-based epoxy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Isosorbide-based diamine (IsA) was synthesized via the microwave assistant thiol-ene coupling reaction in the aqueous media.The effect of initiator content and reaction time on ISA yield was investigated and the optimal reaction condition was determined to be $3 . 5 \\%$ $( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathsf { S } _ { 2 } \\mathsf { O } _ { 8 }$ initiator together with the reaction time of $^ \\textrm { \\scriptsize 6 h }$ .In addition, the isosorbide-based epoxy monomer (ISE) was also prepared via the epoxidation strategy.The cured resin demonstrated good shape memory properties in terms of near $100 \\%$ shape recovery ratio, $9 7 \\%$ shape fixity ratio,constant thermomechanical cyclic behaviors as well as fast shape recovery speed. It is possible for us to design and synthesize the bio-based epoxy resin with good shape memory properties from renewableresource. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements:J.D. contributed equally to this work. The authors are grateful for the financial support from National Natural Science Foundation of China (NSFC Nos.51473180 and 51373194)，Youth Innovation Promotion Association of the Chinese Academy of Sciences (2012229),and Natural Sciences Foundation of Ningbo City (No.2014A610110). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Received: February 4， 2016； Revised: March 7, 2016; Published online:April 13,2016;DOI:10.1002/macp.201600055 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bio-based epoxy;isosorbide; shape memory polymer; thiol-ene reaction ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] F.Xie,E.Pollet,P.J. Halley,L.Avérous,Prog.Polym.Sci.2013, 38,1590. [2] V.K.Thakur,M.K. Thakur,Carbohydr.Polym.2014,109, 102.   \n[3]L. Mialon,A.G.Pemba, S.A. Miller, Green Chem. 2010,12, 1704. [4] S.Yang，S.A.Madbouly，J.A.Schrader，G.Srinivasan, D. Grewell, K.G. McCabe,M.R. Kessler, W.R. Graves, Green Chem.2015,17,380. [5] G.-Y. Tan, C.-L. Chen,L. Li, L.Ge,L.Wang,I. Razaad,Y. Li, L. Zhao,Y.Mo,J.-Y.Wang,Polymers 2014,6,706. [6] A.Soroudi,I. Jakubowicz,Eur.Polym.J.2013,49,2839. [7]H.Miyagawa,A.K.Mohanty,M. Misra,L.T.Drzal, Macromol. Mater.Eng.2004,289,629. [8]H.Miyagawa,A.K.Mohanty,M.Misra,L.T.Drzal, Macromol. Mater. Eng.2004,289,636.   \n[9] X.Liu,W. Xin,J. Zhang,Bioresour. Technol.2010,101, 2520.   \n[10] X.Liu, W. Huang, Y. Jiang,J. Zhu, C. Zhang,eXPRESs Polym. Lett. 2012,6,293.   \n[11] X.Liu,W.Xin,J.Zhang,Green Chem.20o9,11,1018.   \n[12] Q.Ma,X.Liu,R.Zhang,J. Zhu,Y.Jiang,Green Chem.2013,15, 1300.   \n[13] J.Ertl,E.Cerri,M. Rizzuto,D.Caretti,AIP Conf. Proc.2014, 1599,326.   \n[14] L.Cao,X. Liu,H. Na,Y.Wu, W. Zheng,J. Zhu,J. Mater.Chem. A 2013,1,5081.   \n[15] S.Ma,X.Liu,Y.Jiang,L.Fan,J.Feng,J. Zhu, Sci. China Chem. 2014, 57, 379.   \n[16] S.Ma,X.Liu,Y. Jiang,Z. Tang, C. Zhang,J. Zhu,Green Chem. 2013,15,245.   \n[17] S.Ma,X. Liu,L.Fan,Y.Jiang,L.Cao,Z.Tang,J. Zhu, ChemSusChem 2014,7,555.   \n[18] A.Maiorana, S. Spinella, R.A. Gross, Biomacromolecules 2015,16,1021.   \n[19] J.Wan,B,Gan,C,Li,Chem.Eng.J.2016,284,1080.   \n[20] J. Wan,B,Gan,C,Li, J. Molina-Aldarequia, Z.Li, X. Wang, D.Wang,J.Mater.Chem.A 2015,43,21907.   \n[21] J. Hong,D.Radojcic,M. Ionescu, Polym. Chem. 2014,18, 5360.   \n[22] F.Hu, J. J. La Scala, J. M. Sadler, Macromolecules 2014,47, 3332.   \n[23] J.Deng,X. Liu,C.Li,Y. Jiang,J. Zhu,RSC Adv.2015,5, 15930.   \n[24] J.F. Stanzione,P.A. Giangiulio,J.M. Sadler, J.J. La Scala, R.P.Wool,ACs Sustainable Chem. Eng.2o13,1,419.   \n[25] D.Ratna,Polym.Int.20o1,50,179.   \n[26] A.Biswas,B.K. Sharma,K.M.Doll, S.Z.Erhan,J. L.Willett, H.N. Cheng,J. Agric. Food Chem.2009,57,8136.   \n[27] W. Guo,H. Kang, Y. Chen,B. Guo,L. Zhang,ACs Appl. Mater. Interfaces 2012,4,4006.   \n[28] J.R.Kumpfer, S.J.Rowan,J.Am.Chem. Soc.2011,133,12866.   \n[29] J.E.Gautrot,X.X. Zhu,Macromolecules 20o9,42,7324.   \n[30] P.Ping,W.Wang,X. Chen,X. Jing, Biomacromolecules 2005, 6, 587.   \n[31] M.Chrysanthos,J.Galy,J.-P. Pascault,Polymer 2011,52, 3611.   \n[32] F.Fenouillot,A. Rousseau,G. Colomines,R. Saint-Loup, J.P.Pascault,Prog. Polym. Sci. 2010,35,578.   \n[33]S.Beghdadi,I.A.Miladi,H.B.Romdhane,J.Bernard, E.Drockenmuller,Biomacromolecules 2012,13,4138.   \n[34]M.Bardts,H.Ritter,Macromol.Chem.Phys.2010,211,778.   \n[35]C.Liu,H. Qin,P.T.Mather,J.Mater.Chem.2007,17,1543.   \n[36] M. Stemmelen,F.Pessel,V. Lapinte,S. Caillol, J.P. Habas, J.J.Robin,J.Polym. Sci.,Part A:Polym. Chem.2011,49,2434.   \n[37]X.Feng,A.J.East,W.B.Hammond, Y. Zhang,M.Jaffe,Polym. Adv. Technol. 2011,22,139.   \n[38] C.E.Hoyle,C.N.Bowman,Angew. Chem. Int.Ed.2010,49, 1540.   \n[39]E.K.Skinner,F.M.Whiffin,G.J.Price,Chem.Commun.2012, 48,6800. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

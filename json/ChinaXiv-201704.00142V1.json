@@ -1,0 +1,312 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201511032220 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡建堤,徐春燕,马超,刘勇,庄之栋,陈洁,沈长春.闽东北海域中华管鞭虾种群聚集特性.生态学报,2017,37(6):1844-1850. CaiJD,XuC Sinica,2017,37(6):1844-1850. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闽东北海域中华管鞭虾种群聚集特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蔡建堤1,2,3，\\*，徐春燕1,²,马超¹,²，刘勇1,²，庄之栋1²,陈洁³，沈长春1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1福建省水产研究所，厦门361013  \n2福建省海洋生物增养殖与高值化利用重点实验室，厦门361013  \n3霞浦县海洋与渔业局，霞浦355100",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以负二项参数、平均拥挤度和聚块指数为种群分布格局强度指标,分析了闽东北海域中华管鞭虾（Solenocera crasicormnis）种群聚集特性，探讨了种群聚集特性的驱动因子。结果表明,中华管鞭虾种群聚集强度较强，个体平均拥挤度较高,种群主要集中于少数团聚的斑块,不同季节种群聚集特性差异显著,春季,种群聚集强度较强,个体平均拥挤度最低,种群主要由单一团聚的斑块组成;夏季,种群聚集强度较弱，个体平均拥挤度高,种群主要由4个斑块组成;秋季,种群聚集强度最弱，个体平均拥挤度较低,种群主要由7个斑块组成;冬季,种群聚集强度最强，个体平均拥挤度最高,种群主要由单一团聚的大斑块组成。随着个体生长速度的增大,种群呈现扩散的趋势,饵料浮游动物生物量和底层水温是影响种群聚集强度的主要因子。关键词：中华管鞭虾;闽东北海域;聚集特性;种群分布格局;格局强度;负二项参数;平均拥挤度;聚块指数",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aggregations of the Solenocera crassicornis in the sea area northeast of Fujian ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAI Jiandi1,2,3,\\*,XU Chunyan1,2,MA Chao $^ { 1 , 2 }$ ,LIU Yong1,2,ZHUANG Zhidong12,CHEN Jie³,SHEN Changchun'   \n1 Fisheries Research Institute of Fujian,Xiamen 361013,China   \n2KeyLaboratoryof Cultivationand High-value Utilizationof MarineOrganisms inFujian Province，Xiamen 361013，China   \n3 Xiapu Oceanic and Fishery Bureau,Xiapu 35510o,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Thecurrent studyanalyzed theaggregationofSolenoceracrassicoris intheseaarea northeastofFujianbasedon the pattern intensity indexof the negative binomial parameter，meancrowding，and poly block indexanddiscussed the drivingfactorsof population aggregation.Resultsrevealedthatthe aggregation intensityand mean crowding were highand the population was mainly concentrated insmallreunion plaques with aseason-specific pattern.In spring，the population primarilyconsistedof asingle patch with stronger agregation intensityandthelowest mean crowding than that in the other seasons.In summer,the population primarilyconsistedoffour patches with weakeraggregation intensityand highermean crowdingthan those intheother seasons.Inthefall，the populationprimarilyconsisted of sevenpatches withthe weakest agregation intensityand higher meancrowdingthanthatin theotherseasons.In winter,thepopulation primarilyconsisted of a singlelarge patch withthe strongest aggregation intensityand the highest mean crowding.The population spread with increased individual growth rates.Zooplanktonbiomass（diet）andbotom water temperature were the majorfactors fecting aggregation intensity of S. Crassicornis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "pattern intensity；negative binomial parameter；mean crowding；poly block index ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海洋生物聚集特性是海洋生物集群行为的重要属性,为海洋生物集群行为主要研究内容之一。海洋生物聚集特性的研究是搞清海洋生物洄游路线、研究渔场形成机制、提高捕捞效率、保护渔业资源的重要基础[1-6]。海洋生物的聚集是一种较为复杂海洋生物行为反映的现象,影响海洋生物聚集的因素多种多样[7]，聚集形成的形状、大小等形式多样,表现出多种不同性质的聚集特性,具有错综复杂的空间结构。对不同性质种群聚集特性的研究,有助于深入了解种群聚集的内在规律、空间结构和形成机理,提高渔业资源评估和渔情预报的准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "海洋生物聚集特性的主要研究方法有实验室水槽观测法、潜水观测法、超声波影像分析法、数学模拟仿真法和宏观量化法[1,5-7]。由于虾类常栖息于泥质或泥沙质的近底层海域,种群聚集特性的研究受到限制,显然实验室水槽观测法、潜水观测法不适于大范围海域虾类聚集特性的研究;闽东北海域自然水域面积大、环境复杂,目前数学模拟仿真法难以用于研究中华管鞭虾（Solenocera crasscornis）聚集特性;超声波影像分析法使观察的范围扩大,精度或分辨率提高[8-9],但中华管鞭虾栖息于近底层海域,降低了超声波影像分析法的精度，且对虾类进行种类鉴定存在困难,尚不能用于中华管鞭虾种群聚集特性的研究;蔡建堤等[7采用集群动能定量分析闽南-台湾浅滩渔场二长棘鲷(Parargrops edita Tanaka)群体集群行为,为鱼类集群行为宏观量化提供了简便的方法,但该方法只能反映鱼群集中程度,不能反映鱼群斑块大小、个体拥挤度等不同性质聚集特性。如何描述自然条件下大面积海域不同性质种群聚集特性,是当前海洋生物集群行为学研究的热点和难点之一,种群聚集特性在方法论方面必须有所创新。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "种群分布格局强度[10],常用于度量一个种群在空间的聚集程度。生态学家研究了许多方法来测定种群分布格局强度，如以负二项参数度量种群聚集强度，以平均拥挤度测度个体平均拥挤程度，以聚块指数体现斑块组成方式等[10-13]。这些研究方法在植物领域有着广泛应用,并取得了一定的经济、社会和环境效益。目前尚未见种群分布格局强度应用于海洋生物的研究报道。从种群分布格局强度的涵义上看,种群分布格局强度可能同样适用于虾类聚集特性的研究。然而虾类具有洄游特征,不同于植物,运动的虾类和植物有着本质的区别。因此,应用种群分布格局强度研究虾类聚集特性是否可行,格局强度指标是否具有生态学意义,值得我们深入研究。通过实例的研究,旨在探索出应用种群分布格局强度研究海洋生物聚集特性的方法,为海洋生物集群行为的研究探索新视角,也为深入了解中华管鞭虾种群集群行为的内在规律和瞄准捕捞提供新的研究手段。为此,本文根据 2008年5、8、11月和2009年2月,在闽东北海域渔场开展的虾类专项调查研究资料，以负二项参数、平均拥挤度和聚块指数为种群分布格局强度指标,分析中华管鞭虾种群聚集特性及各指标的生态学意义,探讨种群聚集特性的驱动因子,细致地反映种群聚集特性、空间结构组成和空间配置的某些方面特征，为闽东北海域中华管鞭虾的可持续利用和渔业管理提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中华管鞭虾属广温广盐性热带近岸种类,栖息于泥质或泥沙质海域,分布于印度、马来西亚、印度尼西亚和日本及我国的黄海南部、东海和南海[14-21]。中华管鞭虾是闽东北海域重要的经济虾类资源,资源量丰富,繁殖期在6—10月,繁殖盛期为8—10月,上一年出生的群体在7—11月逐月增长较快[17]。20 世纪80 年代以来,随着东海区主要鱼类资源衰退,鱼类和虾类的种间竞争强度减弱,虾类生存空间得以扩大,中华管鞭虾资源呈逐年上升趋势[16-17],具有一定潜在的开发利用价值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2008年5、8、11月和2009年2月，在闽东北海域 $( 2 6 ^ { \\circ } - 2 8 ^ { \\circ } \\mathrm { N } , 1 2 0 ^ { \\circ } - 1 2 5 ^ { \\circ } \\mathrm { E } )$ 开展虾类的专项调查研究，共设30个调查渔区（图1）。调查船为闽霞渔1433桁杆虾拖船（船长 $3 6 \\mathrm { ~ m ~ }$ ,船宽 $6 \\mathrm { ~ m ~ }$ ,主机功率 $2 5 7 ~ \\mathrm { k W }$ ，网具规格：网长 $3 2 . 6 \\mathrm { ~ m ~ }$ ,网口高 $2 . 7 ~ \\mathrm { m } , 7$ 个囊，每囊袋长 $1 5 \\mathrm { ~ m ~ }$ （网目 $0 . 8 ~ \\mathrm { c m } ^ { \\cdot }$ )，上口网目 $2 . 5 ~ \\mathrm { c m }$ ,下口网目 $6 ~ \\mathrm { c m }$ ,横杆长 $3 2 . 4 \\mathrm { ~ m ~ }$ )，每航次在每个调查渔区拖电1次,拖电时间均为 $^ \\mathrm { ~ 1 ~ h ~ }$ 。其调查按《海洋调查规范》（GB/T12763.6—2007)方法进行。不同季节各渔区中华管鞭虾渔获量除以拖曳时间,获得不同季节各渔区CPUE（catchperuniteffort）,作为分析种群聚集特性的基础数据（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/759b6ec35ca5c215f8a72d8ad43a1abf839696d7f77ac39dd80d63591cb3e653.jpg",
+        "table_caption": [
+            "表1不同季节中华管鞭虾各个渔区CPUE",
+            "Table 1 CPUE of Solenocera crassicornis in different seasons "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">春季 Spring</td><td colspan=\"2\">夏季 Summer</td><td colspan=\"2\">秋季 Autumn</td><td colspan=\"2\">冬季Winter</td></tr><tr><td>Fishingzone</td><td>CPUE/(g/h)</td><td>Fishi区onc</td><td>CPUE/(g/h)</td><td>Fishinone</td><td>CPUE/(g/h)</td><td>Fishinne</td><td>CPUE/(g/h)</td></tr><tr><td>C01</td><td>408.5</td><td>C01</td><td>10004.6</td><td>C01</td><td>9217.9</td><td>C01</td><td></td></tr><tr><td>C02</td><td></td><td>C02</td><td></td><td>C02</td><td></td><td>C02</td><td></td></tr><tr><td>C03</td><td></td><td>C03</td><td></td><td>C03</td><td></td><td>C03</td><td></td></tr><tr><td>C04</td><td></td><td>C04</td><td></td><td>C04</td><td>79.9</td><td>C04</td><td>40.2</td></tr><tr><td>C05</td><td></td><td>C05</td><td></td><td>C05</td><td></td><td>C05</td><td></td></tr><tr><td>C06</td><td>5.0</td><td>C06</td><td></td><td>C06</td><td></td><td>C06</td><td></td></tr><tr><td>C07</td><td></td><td>C07</td><td></td><td>C07</td><td></td><td>C07</td><td></td></tr><tr><td>C08</td><td></td><td>C08</td><td></td><td>C08</td><td></td><td>C08</td><td></td></tr><tr><td>C09</td><td>17.0</td><td>C09</td><td>5785.3</td><td>C09</td><td>4473.9</td><td>C09</td><td>102.1</td></tr><tr><td>C10</td><td></td><td>C10</td><td>1259.0</td><td>C10</td><td>5867.5</td><td>C10</td><td>9061.2</td></tr><tr><td>C11</td><td></td><td>C11</td><td></td><td>C11</td><td>1153.9</td><td>C11</td><td></td></tr><tr><td>C12</td><td></td><td>C12</td><td></td><td>C12</td><td></td><td>C12</td><td></td></tr><tr><td>C13</td><td></td><td>C13</td><td></td><td>C13</td><td>223.9</td><td>C13</td><td></td></tr><tr><td>C14</td><td></td><td>C14</td><td></td><td>C14</td><td>64.0</td><td>C14</td><td></td></tr><tr><td>C15</td><td></td><td>C15</td><td></td><td>C15</td><td>721.2</td><td>C15</td><td>156.0</td></tr><tr><td>C16</td><td></td><td>C16</td><td></td><td>C16</td><td></td><td>C16</td><td></td></tr><tr><td>C17</td><td>368.3</td><td>C17</td><td>7575.3</td><td>C17</td><td>1342.3</td><td>C17</td><td>554.9</td></tr><tr><td>C18</td><td></td><td>C18</td><td>1202.2</td><td>C18</td><td>950.0</td><td>C18</td><td>220.9</td></tr><tr><td>C19</td><td>42.7</td><td>C19</td><td></td><td>C19</td><td>238.2</td><td>C19</td><td></td></tr><tr><td>C20</td><td></td><td>C20</td><td></td><td>C20</td><td>4526.0</td><td>C20</td><td></td></tr><tr><td>C21</td><td></td><td>C21</td><td></td><td>C21</td><td></td><td>C21</td><td></td></tr><tr><td>C22</td><td></td><td>C22</td><td></td><td>C22</td><td></td><td>C22</td><td></td></tr><tr><td>C23</td><td></td><td>C23</td><td></td><td>C23</td><td></td><td>C23</td><td></td></tr><tr><td>C24</td><td></td><td>C24</td><td></td><td>C24</td><td></td><td>C24</td><td></td></tr><tr><td>C25</td><td>223.2</td><td>C25</td><td>8243.0</td><td>C25</td><td>4645.3</td><td>C25</td><td></td></tr><tr><td>C26</td><td>3557.0</td><td>C26</td><td></td><td>C26</td><td>2250.2</td><td>C26</td><td></td></tr><tr><td>C27</td><td></td><td>C27</td><td>238.4</td><td>C27</td><td>2238.9</td><td>C27</td><td>433.6</td></tr><tr><td>C28</td><td></td><td>C2</td><td></td><td>C28</td><td>1498.4</td><td>C28</td><td></td></tr><tr><td>C29</td><td></td><td>C29</td><td></td><td>C29</td><td></td><td>C29</td><td></td></tr><tr><td>C30</td><td></td><td>C30</td><td></td><td>C30</td><td></td><td>C30</td><td></td></tr><tr><td>平均CPUE Average CPUE</td><td>154.1</td><td></td><td>1143.6</td><td></td><td>1316.4</td><td></td><td>352.3</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 负二项参数(K)[22] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = \\frac { \\bar { x } ^ { 2 } } { S ^ { 2 } - \\bar { x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $S ^ { 2 }$ 为各个渔区CPUE的方差， $\\bar { x }$ 为平均CPUE, $K$ 为负二项参数，表示种群的聚集强度。 $K$ 值愈小，则种群聚集强度愈强。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "120° 121° 122° 123° 124° 125°]浙江 \\~ 0 a c2 . c3 . c4 . c5 . c6 . c7 .心Y 8 c9 c10 c11 c12 c13 c14 c15 c16福建 . . . . . . . .27N2 3 c17 c18 c19 c20 c21 c22 c23心 ? . ? . . ? ?2c24 c25 c26 c27 c28 c29 c30. . . . . .26°",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2Lloyd 的平均拥挤度 $( m ^ { * } )$ [23]",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm \\ ^ { * } = \\bar { x } + \\left( S ^ { 2 } / \\bar { x } { - } 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $m ^ { * }$ 为平均拥挤度,表示每个个体的平均拥挤程度。平均拥挤度越大,则个体的平均拥挤程度越大。1.3.3聚块指数（PBI）[10-13]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B I } = m ^ { * } / \\bar { x }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中,PBI为聚块指数,表示斑块组成形式。聚块指数大,则表示种群主要由少数团聚斑块组成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 负二项参数 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "负二项参数月平均值为0.18,标准方差为0.17,波动范围为0.05—0.41,表明中华管鞭虾种群聚集强度较强,但不同季节差异显著。冬季,各个渔区CPUE总和为 $1 0 5 6 9 . 9 ~ \\mathrm { g / h }$ ,其中C10 渔区的CPUE 最大为9061.2$\\mathrm { g / h } , 8 5 . 7 3 \\%$ 种群数量集中在该渔区；春季，各个渔区CPUE总和为 $4 6 2 1 . 6 ~ \\mathrm { g / h }$ ,其中C26 渔区的CPUE 最大为$3 5 5 7 . 0 ~ \\mathrm { g / h } , 7 7 . 0 0 \\%$ 种群数量集中在该渔区;夏季和秋季分别只有 $2 9 . 1 6 \\%$ 和 $2 3 . 3 4 \\%$ 种群数量集中在C01渔区（表1),说明种群聚集强度冬季最强,其次是春季,而夏季和秋季较弱。采用负二项参数研究种群聚集强度的结果同样表明，种群的聚集强度由强到弱依次为：冬季 $>$ 春季 $\\mathrm { > }$ 夏季 $>$ 秋季(表2）。可见，负二项参数可度量种群的聚集强度，负二项参数越小,种群的聚集强度越强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2平均拥挤度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "平均拥挤度月平均值为 $5 . 8 2 \\times 1 0 ^ { 3 }$ ,标准方差为 $2 . 3 8 \\times 1 0 ^ { 3 }$ ,波动范围为 $2 . 8 1 { \\times } 1 0 ^ { 3 } { \\ - } 7 . 8 2 { \\times } 1 0 ^ { 3 }$ ,表明个体平均拥挤度较高,不同季节有所差别。春季,CPUE 大于 $2 0 0 0 . 0 ~ \\mathrm { g / h }$ 的渔区为C26，CPUE为 $3 5 5 7 . 0 ~ \\mathrm { g / h }$ ,占各渔区CPUE 总和的 $7 6 . 9 3 \\%$ ;夏季，CPUE 大于 $2 0 0 0 . 0 ~ \\mathrm { g / h }$ 的渔区为C01、C09、C17和C25,这4个渔区平均CPUE 为$7 9 0 2 . 1 ~ \\mathrm { g / h }$ ,占各渔区CPUE 总和的 $9 2 . 1 3 \\%$ ;秋季,CPUE 大于 $2 0 0 0 . 0 ~ \\mathrm { g / h }$ 的渔区为C01、C09、C10、C20、C25、C26,C27,这7个渔区平均CPUE为 $7 1 7 3 . 4 ~ \\mathrm { g / h }$ ,占各渔区CPUE 总和的 $8 4 . 1 2 \\%$ ;冬季，CPUE 大于 $2 0 0 0 . 0 ~ \\mathrm { g / h }$ 的渔区为C10,CPUE 为 $9 0 6 1 . 2 ~ \\mathrm { g / h }$ ,占各渔区CPUE 总和的 $8 5 . 7 3 \\%$ （表1）。大部分种群数量的平均CPUE 由大到小依次为冬季、夏季、秋季、春季,说明个体平均拥挤的程度冬季最大,其次是夏季和秋季,春季明显最小。这与应用平均拥挤度分析中华管鞭虾个体平均拥挤程度的结果一致(表2）。可见,平均拥挤度体现平均个体实际的拥挤程度，其值越大则个体间越拥挤。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/26345cb3a89333daafdfb92dd38a89b3303df4525e98416e2b0b57af70c4ddfc.jpg",
+        "table_caption": [
+            "表2不同季节中华管鞭虾种群聚集特性",
+            "Table 2The aggregation of Solenocera crassicornis in different seasons "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>负二项参数(K) Negative binomial parameter</td><td>聚块指数(PBI) Poly block index</td><td>平均拥挤度(m*) Mean crowding</td></tr><tr><td>春季 Spring</td><td>0.06</td><td>18.20</td><td>2.81×103</td></tr><tr><td>夏季 Summer</td><td>0.20</td><td>6.68</td><td>7.64×103</td></tr><tr><td>秋季Autumn</td><td>0.41</td><td>3.82</td><td>5.02×103</td></tr><tr><td>冬季Winter</td><td>0.05</td><td>22.20</td><td>7.82×103</td></tr><tr><td>平均值 Average</td><td>0.18</td><td>12.73</td><td>5.82×103</td></tr><tr><td>标准方差 Standard deviation</td><td>0.17</td><td>8.86</td><td>2.38×103</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 聚块指数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "聚块指数月平均值为12.73,标准方差为8.86,波动范围为3.82—22.20,表明种群主要集中于少数团聚的大斑块,不同季节有明显差异。春季， $7 6 . 9 3 \\%$ 种群数量分布在1个斑块（C26 渔区,CPUE 为 $3 5 5 7 . 0 ~ \\mathrm { g / h } \\$ ，即种群主要由最小数目的斑块组成,种群分布集中，聚块指数较大;夏季， $9 2 . 1 3 \\%$ 种群数量分散于4个斑块(C01、C09、C17和C25渔区）,即种群主要由较多数目的斑块组成,种群分布分散,聚块指数小;秋季， $8 4 . 1 2 \\%$ 种群数量分散在7个斑块(C01、CO9、C10、C20、C25、C26 和C27渔区）,即种群主要由最多数目的斑块组成，种群分布最分散,聚块指数最小;冬季， $8 5 . 7 3 \\%$ 种群数量团聚在1个大斑块（C10 渔区）,即种群主要由最小数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目的斑块组成,且C10 渔区CPUE 较大为 $9 0 6 1 . 2 ~ \\mathrm { g / h }$ ,种群分布最集中,聚块指数最大(表1,表2)。可见,聚块指数体现了种群的斑块的组成形式,也反映了种群聚集强度,其值大，则种群主要由少数斑块组成,种群聚集强度较强,反之,则大部分种群数量分散在多数斑块,种群聚集强度较弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "种群聚集强度是度量一个种群分布格局的聚集程度,由1式可知,种群分布越均匀,方差就越小,负二项参数越大，种群聚集强度越弱，而方差越大，负二项参数越小,种群聚集强度越强;聚集强度不因种群密度的改变而改变,如冬季、春季的平均CPUE小于秋季和夏季,而冬季、春季种群聚集强度强于秋季和夏季。可见,负二项参数可以用于度量种群的聚集强度,而平均CPUE不能准确反映种群聚集强度。负二项参数可用于比较同一种群在不同时间或不同生境中聚集强度的变化,或者比较不同的种群在同时、同类生境中所呈现的聚集状况。种群聚集强度是种群分布格局的基本组成要素之一,与渔业资源的诸多方面有关,如渔情预报、捕捞效率、渔场中心、渔场形成机制等,因此,负二项参数在渔业资源领域有着潜在应用价值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平均拥挤度是指每个个体在一个样方中的平均他个体数,即每个个体的平均邻居数。由2式可知,如果种群分布越均匀,方差就越小,则平均CPUE 和平均拥挤度呈现较强线性相关,即平均CPUE 越大,平均拥挤度越高。因此平均CPUE 常用于度量种群个体聚集的一个相对指标,但其值是基于所有样方的平均值,故受种群数量为零的样方影响很大,当种群数量集中分布于少数样方时,虽然平均CPUE很小,但实际上在个体间却很拥挤,种内竞争激烈。而平均拥挤度依赖于现有的种群个体数,它是个体的平均,而不是样方的平均,其值不受零样方的影响，如种群分布的渔区数量秋季为16个大于夏季7个，个体实际的平均拥挤度夏季大于秋季（表1,表2）,由于平均CPUE受零样方的影响,导致平均CPUE 值秋季大于夏季(表1)。可见,平均CPUE受零样方的影响,容易给出有偏差的信息,难以真正反映生物因素的影响效应,而平均拥挤度可以比较准确地体现个体平均拥挤程度,反映出种内竞争状况,在种群聚集特性的研究中能提供更可靠的信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚块指数定义为平均拥挤度与平均CPUE 的比率,当平均拥挤度较小,且平均CPUE大,则种群分布比较分散,种群主要由多数的斑块组成,如秋季,种群主要由7渔区组成。当平均拥挤度较大,且平均CPUE小,则种群分布比较集中,种群主要由少数的斑块组成,如冬季,种群主要集中于1个斑块,即C10渔区。由1式、2式和3式可得 $\\mathrm { P B I } = 1 + 1 / K$ ,因此聚块指数也能度量种群聚集强度。聚块指数考虑了空间格局本身的性质,两个种群虽然平均CPUE不同,可能显出同样的聚块性,而两个种群虽然平均CPUE 相同,但是可能显出不同的聚块性(3式）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "种群聚集特性由种群本身的生境条件、生物学特性以及二者之间的相互作用所决定[24-26]。水温和饵料生物是影响种群聚集特性最重要的环境因素。闽东北海域，夏秋季平均饵料浮游动物生物量较高，而春冬季平均饵料浮游动物生物量较低[27-28],平均饵料浮游动物生物量和负二项参数的关系为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = 0 . 0 0 4 { \\times } E , R = 0 . 8 9 3 , F = 1 1 . 8 7 0 { > } F _ { \\alpha = 0 . 0 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $K$ 为负二项参数， $E$ 为平均饵料浮游动物生物量( $( \\mathrm { m g / m } ^ { 3 }$ ）， $R$ 为相关系数。回归系数 $R$ 为0.893，说明平均饵料浮游动物生物量和负二项参数线性相关,模型的拟合优度较好,而 $F$ 检验表明在 $\\boldsymbol { F } _ { \\mathrm { a } = 0 . 0 5 }$ 水平上模型回归效果显著。平均饵料浮游动物生物量高,种群聚集强度弱(4式),说明中华管鞭虾具有分散索饵的特征,饵料浮游动物生物量是影响种群聚集强度的主要因子之一。夏秋季,中华管鞭虾个体较大,群体数量大,有较大的摄食需求,而大部分海域的饵料浮游动物十分丰富,能满足中华管鞭虾对饵料的需求,中华管鞭虾有较广阔的生活空间,种群分布范围较广,从而表现出平均饵料浮游动物生物量高的季节种群聚集强度弱的特性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "闽东北海域,夏季和秋季平均底层水温较高,而春季和冬季平均底层水温较低[28],平均底层水温和负二 项参数的关系为： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK = - 2 . 1 0 5 + 0 . 1 2 4 \\times T , R = 0 . 8 7 3 , F = 9 . 3 9 8 > F _ { a = 0 . 1 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $K$ 为负二项参数， $T$ 为平均底层水温 $\\left( { \\mathcal { C } } \\right) , R$ 为相关系数。回归系数 $R$ 为0.873，说明平均底层水温和负二项参数线性相关,而 $F$ 检验表明在 $F _ { \\mathrm { a = 0 . 1 0 } }$ 水平上模型回归效果显著。平均底层水温越低,种群聚集强度越强(5式),说明底层水温是影响种群聚集强度的主要因子之一。推测可能中华管鞭虾适合生活在较高底层水温的海域,较低的底层水温,限制了种群生存的空间，从而表现出种群聚集强度随着底层水温的下降而增大的特性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "个体的发育阶段和生理性状况是影响种群聚集特性最主要的生物学因素。聚块指数可用来分析种群中个体的聚集或扩散的趋势,若聚块指数由大变小,表示种群呈扩散的趋势;若聚块指数由小变大，则表明种群呈聚集的趋势[13]。冬季,中华管鞭虾个体最小,随后个体逐渐长大,7—11月个体生长速度逐月增大[17],聚块指数呈现出冬季 $>$ 春季>夏季 $>$ 秋季的趋势,表明随着个体生长速度的增大，种群呈现扩散的趋势。夏季和秋季,个体快速生长时需要大量营养,且群体数量多,对饵料生物有较大的需求,种群竞争主要表现为对饵料生物的竞争,通过扩大种群分布范围,有利于减少种群内部的竞争,增加摄食饵料生物的机会,提升种群的竞争力,增强种群生存能力。因此随着个体生长速度的增大,种群分布范围也随之变广,呈现扩散的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "种群分布格局强度为研究不同性质海洋生物种群聚集特性提供了有效的方法，对渔业资源大范围空间分布的集群行为量化研究开辟了一个新的途径。不同的格局强度指标,其侧重点不同,应根据研究目的进行综合分析。负二项参数侧重于分析种群的聚集强度,聚块指数侧重于研究斑块的组成形式,平均拥挤度用于度量种群内部个体之间真正的拥挤程度,体现种内竞争程度。因此,种群分布格局强度各指数的计算结果往往存在一定的偏差,如在计算秋季和春季种群分布格局强度时,其中负二项参数的值与平均拥挤度的值出现了不一致的结果,平均拥挤度秋季大于春季,而种群聚集强度秋季小于春季。采用多种格局强度指标从不同角度分析海洋生物种群聚集特性,能在更精细、更准确地水平上反映种群聚集特性,且能确定影响种群聚集现象的主要因子及作用机制,发现其分布潜在的、有意义的规律,在渔业生产中具有较直接的指导意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］周应祺，王军，钱卫国，曹道梅，张仲秋，柳玲飞.鱼类集群行为的研究进展.上海海洋大学学报，2013，2(5）：734-743.  \n[2］冯春雷，李志国，黄洪亮，张勋，陈雪忠.鱼类行为研究在捕捞中的应用.大连水产学院学报，2009,24(2)：166-170.  \n［3］黄晓荣，庄平.鱼类行为学研究现状及其在实践中的应用.淡水渔业，2002，32(6)：53-56.  \n[4］王少琴，许柳雄，王学昉，朱国平.人工集鱼装置对热带金枪鱼类摄食模式的影响研究进展.生态学报，2014，34（13）：3490-3498.  \n[5］任为公.研究鱼类行为的目的与方法.海洋渔业，1992，14(5)：221-224.  \n[6] 何大仁，蔡厚才.鱼类行为学.厦门：厦门大学出版社，1998：28-52.  \n[7］蔡建堤，马超，姜双城，吴建绍，蔡玉婷，刘勇.闽南-台湾浅滩渔场二长棘鲷群体集群行为宏观量化与分析.水生生物学报，2013，37(2):185-190.  \n8]ahResearch，2007，84(2)：171-179.  \n[9]GeooaoJdiesalolalructueofupelssbedsingticalauisonar.Aquatic Living Resources，2003，16(3）：113-122.  \n[10］张金屯.数量生态学(第二版).北京：科学出版社，2011：269-269.  \n[11] 兰国玉，雷瑞德.植物种群空间分布格局研究方法概述.西北林学院学报，2003，18(2)：17-21.  \n[12] 郑元润.不同方法在沙地云杉种群分布格局分析中的适用性研究.植物生态学报，1997，21（5)：480-584.  \n[13］刘贵峰，丁易，臧润国，郭仲军，张新平，成克武，白志强，巴哈尔古丽 阿尤甫.天山云杉种群分布格局.应用生态学报,2011,22（1)：9-13.  \n[14］叶孙忠，张壮丽，叶泉土.闽东北外海中华管鞭虾的数量分布及其生物学特征.南方水产科学，2012，8（1)：24-29.  \n[15] 阙江龙，徐兆礼，陈佳杰.台湾海峡中部近海虾类数量和优势种分布特征.中国水产科学，2014,21（6)：1211-1219.  \n[16］薛利建，贺舟挺，徐开达，宋海棠.东海中华管鞭虾种群动态及持续渔获量分析.福建水产,209，（4）：48-54.  \n[17］宋海棠，姚光展，俞存根，薛利建.东海中华管鞭虾的数量分布和生物学特性.浙江海洋学院学报：自然科学版，2003，22(4)：305-308，320-320.  \n[18］王友喜.闽东北外海虾类资源状况及开发利用前景.海洋渔业，2002，24（3）：117-119.［19］刘瑞玉，钟振如.南海对虾类.北京：农业出版社，1998：84-88.  \n［20］宋海棠，俞存根 薛利建，姚光展.东海经济虾蟹类.北京：海洋出版社，2006：1-85.  \n[21] 卢占晖，薛利建，张龙，徐开达，张亚洲.东海大陆架虾类资源量评估.水生生物学报，2013，37（5）：855-862.  \n[22] DavidFN,MoorePG.Notes on contagiousdistributions in plant populations.Annalsof Botany，1954，18(1):47-53.  \n[23]Lloyd M.‘Mean crowding'.Journal of Animal Ecology，1967,36(1）：1-30.  \n[24] 万瑞景，曾定勇，卞晓东，倪晓波.东海生态系统中鱼卵、仔稚鱼种类组成、数量分布及其与环境因素的关系.水产学报，2014，38（9)：1375- 1398.  \n［25］李圣法，程家骅，严利平.东海大陆架鱼类群落的空间结构.生态学报，2007,27(11)：4377-5386.  \n［26］余为，陈新军.西北太平洋柔鱼栖息地环境因子分析及其对资源丰度的影响.生态学报，2015，35（15）：5032-5039.  \n[27］徐兆礼，晁敏，陈亚瞿.东海浮游动物生物量分布特征.海洋学报，2004，26(3）：93-101.  \n[28］郑元甲，陈雪忠，程家骅，王云龙，沈新强，陈卫忠，李长松.东海大陆架生物资源与环境.上海：上海科学技术出版社，2003：169-175.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

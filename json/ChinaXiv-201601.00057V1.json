@@ -1,0 +1,490 @@
+[
+    {
+        "type": "text",
+        "text": "基于推荐技术的图书管理系统的设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周强」 许丽媛」孔贝贝1 李曦²(1. 中国科学院文献情报中心 北京 100190)(2. 中国科学技术大学安徽 230026)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要] ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前的图书管理系统，没有把图书检索和图书推荐结合起来，本文介绍的图书管理系统，对图书进行了分类，提供了按书名、作者进行检索，在检索结果页面中，显示推荐结果。本文介绍了该图书管理系统的设计，该网站的推荐系统采用了基于物品的协同过滤算法、基于内容的推荐算法，本文详细介绍了这两个算法，接着，本文全面介绍了该图书管理系统中推荐系统部分的设计。现在，该图书管理系统已经完成了概要设计和详细设计。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词] ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于物品的协同过滤算法 图书推荐基于内容的推荐算法",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on the recommendation of the design of books management system Zhou Qiangl Xu LiYuan1Kong BeiBei1 Li Xi² (1.National Science Library， Chinese Academy of Sciences， Beijing 100190, China) (2.University of Science and Technology of China， Anhui 230026, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Abstract] ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The current library management system, did not combine searching book with recommending book ,library management system described in this paper, the books were classified,and provides a search by title,author,and from the search results page and displays the results. This article introduced the design of books management system management system, the site recommendation system based on collaborative filtering, content-based recommendation algorithm, these algorithms are described in detail in this paper, then， this article provides an overview of the recommended system design of the library management system. Now that the library management system has completed the preliminary design and detailed design. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Keyword] ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "collaborative filtering algorithm based on items book recommendation Content-based recommendation algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、图书管理系统的介绍",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "书籍是人类进步的阶梯，书籍已成为传播知识、科学技术和保存文化的重要工具。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于图书的非常多，本文设计的图书管理系统，收录的图书包括电子技术、计算机科学技术、图书情报等领域的图书，收录的图书有相对经典的图书，如经典的教材名著，还有最新技术的图书，如云计算、移动互联网等。本文提出的设计方案，把图书检索和图书推荐结合起来，是实验性的方案，用来论证图书检索和图书推荐结合的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、现有的图书管理系统简述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1、北京大学图书馆检索系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "北京大学图书馆的馆藏宏大丰富、学科齐全、珍品荟萃。到2011年底，文献资源累积量约1,100余万册（件），其中纸质藏书800余万册，以及近年来大量引进和自建的国内外数字资源，包括各类数据库、电子期刊、电子图书和多媒体资源约300余万册（件）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检索结果中，图书的详情页面包括图书封面、书名、作者、出版日期、索书号、总页数、馆藏所在地、借阅状况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图书的详情页面没有推荐信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2、清华大学图书馆检索系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "清华大学图书馆的馆藏，到2013年底，总量约有463.0万册（件），形成了以自然科学和工程技术科学文献为主体，兼有人文、社会科学及管理科学文献等多种类型、多种载体的综合性馆藏体系。除中外文图书外，馆藏资源还包括：古籍线装书、期刊、本校博士硕士论文、缩微资料等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检索结果有检索列表，检索列表页面有图书封面，可以预约；图书详情页面，包括作者、书名、出版社、出版日期、摘要、目录、馆藏所在地、借阅状况、图书封面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图书的详情页面没有推荐信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3、当当网",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当当网（www.dangdang.com）是全球知名的综合性网上购物商城。图书是当当网的主营业务之一，在库图书、音像商品超过80万种。目前当当网的注册用户遍及全国32个省、市、自治区和直辖市。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检索结果有检索列表，检索列表页面有图书封面；图书详情页面，包括图书封面、书名、作者、出版社、出版日期、ISBN、页数、摘要、作者简介、目录、在线试读。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图书的详情页面提供了两种推荐数据：“看过本商品的还看了“、“买过本商品的还买了”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三、图书管理系统设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图书管理系统，包括了搜索、推荐系统，本文重点介绍推荐系统[1-2.5-9]，推荐",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法采用基于物品的协同过滤算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据存储在关系数据库中，本文采用MySql数据库，为了加快检索速度，创建了Lucene索引，检索时，从Lucene 索引中读取数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Web Server采用 Tomcat。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在系统的最前端，配置了Squid，来进行反向代理，通过反向代理来进行负载均衡，部署了两套系统，包括数据库、Lucene索引、web server，数据库、Lucene 索引、web server这两套系统是一致的。数据库的操作是追加，可以实时进行，Lucene 索引、web server代码的更新是轮流在凌晨更新的。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c5353c0c66755e4ab06264240b9998cae8f249bb6fcb554cc5b85899f8cbbe67.jpg",
+        "img_caption": [
+            "图1、图书管理系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图书数据表存储着图书的数据，包括书名、作者、出版社、出版日期、ISBN、页数、摘要、作者简介、前言、目录。图书的封面文件部署在文件系统中。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作者数据表存储着作者名字、作者简介。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "出版社数据表存储着出版社名字、出版社简介。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "书名、作者、出版社数据表提供数据给浏览检索系统，为了加快检索速度，创建了索引。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "日志系统对于推荐系统是很重要的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户通过用户界面进行浏览检索时，把用户的行为写入日志了；用户通过用户界面借阅时，把用户的行为也写入日志了。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文的推荐系统是根据用户的日志来计算并返回推荐结果，推荐结果展示是图书的详细信息界面的“浏览本书资料的还浏览了”、“借阅本书的还借阅了”两个模块部分。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "四、推荐算法简述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图书的数目非常多，从大量图书中找到自己感兴趣的图书是一件相对困难的事情。推荐系统的任务是联系用户和信息，一方面帮助用户发现对自己有价值的信息，另一方面让信息能够展现在对它感兴趣的用户面前。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本系统采用的推荐算法[1-13]是基于物品的协同过滤算法和基于内容的过滤算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "法。基于内容的过滤算法采用基于向量的表示方法，即余弦定理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法的步骤如下：先用基于物品的协同过滤算法计算出物品列表；接着用余弦定理对这个物品列表再进行排序。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1、基于物品的协同过滤算法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本系统中的物品，指的是图书。基于物品（图书）的协同过滤算法主要分为两步：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1、计算图书之间的相关度；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、根据图书的相关度和用户的历史行为给用户生成推荐列表。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "物品相似度的公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i j } = \\mid N ( i ) \\mid \\cap \\mid N ( j ) \\mid \\sqrt { \\mid N ( i ) \\parallel N ( j ) \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $N ( i )$ 是喜欢图书 $i$ 的用户数， $N ( j )$ 是喜欢图书 $j$ 的用户数。计算物品相似度的步骤：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)、建立用户-图书倒排表（即每个用户建立一个他喜欢的图书的列表）；2)、对于每个用户，把他图书列表中的图书两两在共现矩阵 $C$ 中加1，其中 $C [ i ] [ j ]$ 记录了同时喜欢图书 $i$ 和图书 $j$ 的用户数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)、把矩阵 $C$ 归一化，得到图书之间的余弦相似度矩阵 $W$ 在得到图书之间的相似度后，通过如下公式计算用户 $u$ 对一个图书的兴趣：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { { _ { u j } } } = \\sum _ { i \\in N ( u ) \\cap S ( j , K ) } w _ { j i } r _ { u i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里 $N ( u )$ 是用户喜欢的图书的集合。 $S ( i , K )$ 是和图书 $i$ 最相似的 $K$ 个图书的集合， $w _ { j i }$ 是图书 $j$ 和 $i$ 的相似度， $r _ { u i }$ 是用户 $u$ 对图书 $i$ 的兴趣。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这些计算是在离线的情况下计算的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这样，可以构造图书一图书的倒排索引。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2、余弦定理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "余弦定理，需要预先把词汇表导入到数据库中，设这个词汇表的总数为m。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主要分为四步：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1、对于图书摘要和前言中的所有实词，计算它们的 $T F / I D F$ （单文本词汇频率/逆文本频率值）；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、按照这些实词在词汇表的位置对它们的 $T F / I D F$ 值排序;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3、如果词汇表中的某个词在图书摘要和前言中没有出现，对应的值为零那么这词汇表的总数 $\\mathbf { \\nabla } _ { m }$ ，组成一个 $m$ 维的向量。我们就用这个向量来代表这本图书，并成为图书的特征向量。如果两本图书的特征向量相近，则对应的图书内容相似，它们在推荐列表的排名位置就接近。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4、用余弦定理，来计算向量的相似度，设图书 $X$ 和图书Y的对应向量分别是 $x _ { 1 } , x _ { 2 } , . . . , x _ { m }$ 和 $y _ { 1 } , y _ { 2 } , . . . , y _ { m }$ ，向量夹角的余弦等于，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cos \\theta = ( x _ { 1 } y _ { 1 } + x _ { 2 } y _ { 2 } + . . . + x _ { m } y _ { m } ) / ( { \\sqrt { { x _ { 1 } } ^ { 2 } + { x _ { 2 } } ^ { 2 } + . . . + { x _ { m } } ^ { 2 } } } { \\sqrt { { y _ { 1 } } ^ { 2 } + { y _ { 2 } } ^ { 2 } + . . . + { y _ { m } } ^ { 2 } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当两本图书向量夹角的余弦等于1时，这两本图书完全重复；当夹角的余弦接近于一时，两本图书相似，从而在推荐列表的排名位置就接近；夹角的余弦越小，两本图书在推荐列表的排名位置就越远。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "五、推荐系统设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面是推荐系统[14-22]的架构图，说明了数据的流向。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbf67b273127a43e04528af67d6d41e67d22b325b04f4bd79337ee8062c724cf.jpg",
+        "img_caption": [
+            "图2、推荐系统设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用户的特征包括两种，一种是从用户的注册信息中提取出来的，即用户的人口统计学特征；另一种特征主要是从用户的行为中计算出来。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一个物品特征向量由特征以及特征的权重组成，在计算时需要考虑以下因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1、用户行为分为浏览图书、借阅图书两种，其中借阅图书的权重大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2、用户行为产生的时间，用户近期的浏览、借阅行为比较重要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3、用户行为的次数，用户会浏览一本图书很多次，用户对同一本图书的浏览的次数反映了用户对图书的兴趣。浏览次数多的图书对应的特征权重高，一本图书的浏览人数越多，则该书对应的特征权重就越高；对于同",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一本书，借阅图书的特征权重比浏览图书的特征权重高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4、图书的热门程度，如果用户对一个热门图书产生了行为，有可能是跟风，可能对该图书没有太大的兴趣，因此，对于不热门图书的权重高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在得到用户的特征向量后，我们可以根据离线的相关表得到初始的图书推荐列表，其存储格式如下所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "特征标识、图书标识、书名、作者、权重。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在得到初步的推荐列表后，需要过滤掉不符合要求的图书一质量不好的图书。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "经过过滤后的推荐结果，采用基于内容的推荐算法进行下一步推荐。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于图书摘要和前言中的所有实词，计算它们的 $T { \\cal F } / I { \\cal D } { \\cal F }$ （单文本词汇频率/逆文本频率值），按照这些实词在词汇表的位置对它们的 $T F / I D F$ 值排序，生成图书的特征向量，接着用余弦定理计算向量相似度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后生成最终推荐列表，这推荐列表时离线生成的，为了加快查询速度，把这些推荐列表的数据写入Lucene 索引中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "六、总结",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文首先介绍了图书管理系统的需求，接着简述了现有的图书管理系统。在这些的基础上，介绍了图书管理系统的设计，并说明了基于物品的协同过滤算法和基于内容的过滤算法，接着说明了推荐系统的设计方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[参考文献] ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Marco Degemmis,Pasquale Lops,Giovanni Semeraro. A content-collaborative recommenderthat exploits WordNet-based user profiles for neighborhood formation[J]. User Modelingand User -Adapted Interaction.2007，3: 217-255.  \n[2] Rosario Girardi,Leandro Balby Marinho. A domain model of Web recommender systemsbased on usage mining and collaborative filtering[J]. Requirements Engineering . 2007，1:23-40.  \n[3] Jiawei Han,Jian Pei,Yiwen Yin,Runying Mao. Mining Frequent Patterns without CandidateGeneration: A Frequent-Pattern Tree Approach[J]. Data Mining and Knowledge Discovery .2004，1: 53-87.  \n[4] Ken Goldberg,Theresa Roeder,Dhruv Gupta,Chris Perkins.Eigentaste: A Constant TimeCollaborative Filtering Algorithm[J]. Information Retrieval .2001 ，2: 133-151.  \n[5]马宏伟,张光卫,李鹏.协同过滤推荐算法综述[J].小型微型计算机系统,2009,07:1282-1288.  \n[6]王嫣然,陈梅,王翰虎,张鑫.一种基于内容过滤的科技文献推荐算法[J].计算机技术与发展,2011,02:66-69.  \n[7]刘枚莲,刘同存,李小龙.基于用户兴趣特征提取的推荐算法研究[J].计算机应用研究,2011,05:1664-1667.  \n[8]杨博,赵鹏飞.推荐算法综述[J].山西大学学报(自然科学版),2011,03:337-350.  \n[9]邢哲,梁竞帆,朱青．多维度自适应的协同过滤推荐算法[J].小型微型计算机系统,2011,11:2210-2216.  \n[10]刘旭东,陈德人,王惠敏.一种改进的协同过滤推荐算法[J].武汉理工大学学报(信息与管理工程版),2010,04:550-553.  \n[11]赵亮,胡乃静,张守志.个性化推荐算法设计[J].计算机研究与发展,2002,08:986-991.  \n[12]郭艳红,邓贵仕.协同过滤的一种个性化推荐算法研究[J].计算机应用研究,2008,01:39-41+58.  \n[13]李聪,梁昌勇,马丽．基于领域最近邻的协同过滤推荐算法[J].计算机研究与发展,2008,09:1532-1538.  \n[14]王国霞、刘贺平.个性化推荐系统综述[J].计算机工程与应用，2012，7：66-76.  \n[15]许海玲、吴潇、李晓东、阎保平.互联网推荐系统比较研究[J].软件学报，2009，2：350-  \n362.  \n[16]刘建国、周涛,汪秉宏.个性化推荐系统的研究进展[J].自然科学进展,2009,01:1-15.  \n[17]刘鲁、任晓丽.推荐系统研究进展及展望[J].信息系统学报，2008，1：82-90.  \n[18]陈定权、朱维凤.关联规则与图书馆书目推荐[J].情报理论与实践，2009，6：81-84.  \n[19]李树青、徐侠、许敏佳.基于读者借阅二分网络的图书可推荐质量测度方法及个性化图书推荐服务[J].中国图书馆学报，2013，3：83-95.  \n[20]范旭.以豆瓣网和中国国家图书馆为案例的网上书目推荐系统研究[J].图书馆学研究，2008，8: 44-48.  \n[21]丁雪.基于数据挖掘的图书智能推荐系统研究[J].情报理论与实践，2010，5：107-110.  \n[22]王义、马尚才.基于用户行为的个性化推荐系统的设计与应用[J].计算机系统应用，2010，8:29-33.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

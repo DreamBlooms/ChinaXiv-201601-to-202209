@@ -1,0 +1,579 @@
+[
+    {
+        "type": "text",
+        "text": "Culm Age and Rhizome Affects Night-time Water Recharge in the Bamboo Phyllostachys pubescens ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao $\\mathrm { X H ^ { 1 } }$ , Zhao $ { \\mathbf { P } } ^ { 1 , 3 * }$ , Zhang $Z Z ^ { 1 , 2 }$ , Zhu LW', Hu YT', Ouyang $\\mathrm { ~ L ~ } ^ { 1 }$ , Ni GY', Ye Q1   \nlKey Laboratory of Vegetation Restoration and Management of Degraded Ecosystems, South China Botanical Garden， Chinese Academy of Sciences, Guangzhou 510650, China   \n²College of Geography and Environmental Sciences, Zhejiang Normal University. Jinhua 321004,China   \n3 Guangdong Provincial Key Laboratory of Applied Botany, South China Botanical Garden, Chinese Academy of Sciences, Guangzhou 510650, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bamboo species—the only herbal trees—have unique structural and physiological characteristics that differ from those of other tree taxa. However, the role of night-time water use in bamboo is poorly understood and has rarely been investigated. We studied day- and night-time sap flow response to culm age and rhizome structure in three age levels (juvenile, mature， and senescent） of Phyllostachys pubescens growing in the Nankun Mountain Natural Reserve, South China. We found that sap flow density and whole-tree hydraulic conductance decreased with culm age. After cutting, day-time sap flow and night-time water recharge decreased obviously. In addition, night-time water recharge accounted for the largest proportion (up to $30 \\%$ ） of total daily transpiration in senescent normal bamboos.Therefore,our study indicates that the connected rhizome system and night-time water recharge played significant roles in water compensation during the day and at night in bamboos. Night-time water recharge is especially critical to senescent bamboos because of their weaker transpiration due to the lower wholetree hydraulic conductance and those are more dependent on night-time water recharge for fulfilling their whole-day water consumption needs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Phyllostachys pubescens， night-time sap flow, age effect, water compensation, morphological features ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Night-time water recharge in tree trunks accounts for ${ \\sim } 1 0 { \\mathrm { - } } 5 0 \\%$ of the total daily transpiration of a plant (Loustau et al.， 1996; Goldstein et al., 1998; Steppe and Lemeur, 2004； Scholz et al., 2008; Carrasco et al.， 2014). Thus, it plays an important role in relieving xylem hydraulic stress and controlling fluctuations in leaf water potential, as well as in regulating stomatal openings and water status (Meinzer et al., 2008; Cermak et al., 2007). Some of this stored water is used in the development of plant structures and maintenance of basic organizational functions, but the remaining proportion is used to compensate for water lost during daytime transpiration. This water store is recharged primarily via sap flow at night when no transpiration occurs (Zhao, 2010). According to previous research, night-time sap flow not only supplements water loss from water-storage tissues by daily transpiration, but also enhances nitrogen uptake (Kupper et al., 2O12; Rohula et al., 2014). It can keeps the stomatal aperture open to increase $\\mathrm { C O } _ { 2 }$ diffusion capacity, optimizes photosynthetic demand for the following morning (Barbeta et al., 2012), and transports $\\mathrm { O } _ { 2 }$ to anoxic xylem tissues (Sorz and Hietz 2008; Gao et al., 2016). Night-time sap flow is a common hydro-physiological phenomenon observed in many dicot species and herbaceous plants (Gao et al., 2016; Goldstein et al., 1998), including herbaceous tree-bamboos (Zachary, 20o9; Cao et al.， 2012; Yang et al., ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Owing to the fact that bamboos have no secondary growth, they are unable to renew xylem to improve and enhance anti-cavitation. Tyloses and depositions in the transport system tubes would gradually develop with age, eventually leading to the collapse of the water conduit system even the death of the plant (Liese and Weiner, 1996). Therefore, they are forced to trade-off between satisfying their water needs and maintaining the long-term effectiveness of their transportation systems. Thus, it is likely that bamboos possess adaptive mechanisms and strategies that differ from those of dicots. Research has shown that bamboo species not only acquire and store water for the following day, but also are able to repair vessel cavitation induced by the excessive tension caused by strong daily transpiration using night-time sap flow. This ensures water-delivery performance and the long-term effectiveness of watertransport tissues (Cao et al.， 2O12). Tree form features are the most important factors influencing tree water use (Meinzer et al.， 2005; McJannet et al., 2007). Research at Nankun Mountain in south China revealed that, in addition to morphological features， transport within culms of the bamboo Phyllostachys pubescens is greatly dependent on culm age，and that transpiration decreases significantly with increasing culm age. Bamboo has unique water-compensation properties due to the connection of different culms through the rhizome,which could relieve the higher water demands of individual stems (Zhao et al., 2016). Thus,whether bamboo species have an auxiliary water-transport mechanism that is not found in dicot tree species and whether night-time sap flow is affected by culm age and rhizome are questions that remain unresolved，and have yet to be intensively investigated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To characterize and test night-time sap flow and rhizome compensation function, we chose $P .$ pubescens as the species of focus as this bamboo features a scattered-type rhizome that is convenient for the study of underground connections among culms and the rhizome water-compensation function. Moreover, forests of $P .$ （204 pubescens are becoming more important in the provision of ecosystem services, especially in terms of commercial applications, and are the most important source of non-wood forest products not only in China, but also possibly in the world (Zhao et al., 2016; Song et al., 2016). In China, stands of $P .$ pubescens account for $70 \\%$ of the country's total bamboo forest area (Li and Lei， 2O1O)，a portion that is increasing in China and throughout East Asia (Komatsu et al., 2O12). Here, we used a rhizome-cut experiment to examine the flow tendency of supplemental water between distinct bamboo culms connected by rhizomes，and if the water compensation mechanism between connected culms was a function of night-time water recharge. We also assessed what fraction of night-time water recharge accounted for whole-daily water use. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "STUDYMATERIALANDMETHOD ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Site Description ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in Nankun Mountain Natural Reserve ( $1 1 3 ^ { \\circ } 4 8 ^ { \\prime } .$ $1 1 4 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { ~ E ~ }$ ， $2 3 ^ { \\circ } 3 7 ^ { \\prime } { - } 2 3 ^ { \\circ } 4 0 ~ \\mathrm { N } \\rangle$ ）in Guangdong Province, South China, which supports large areas of $P .$ pubescens forests. The mean air temperature in this area was 21.6 $^ { \\circ } \\mathrm { C }$ , and the mean annual precipitation was $2 , 1 4 4 \\mathrm { m m }$ . Climate of this area is divided into a wet season from April to September and a dry season beginning from October to next March (Zhang et al.， 2017) by hydrothermal conditions. Strongly acidic mountainous red soils rich in potassium predominate this region (Yang et al., 2013), and, due to the abundant rainfall, soil water content is relatively high year-round (mean annual value: $3 3 . 7 \\pm 3 \\%$ ） (Zhao et al., 2016). We chose a well-developed stand of $P .$ pubescens forest growing on a hill slope,within which we established three experimental plots encompassing a total area of $8 3 4 ~ \\mathrm { m } ^ { 2 }$ . The average height of the bamboo in this stand was approximately $1 5 \\mathrm { m }$ , with an average culm diameter at breast height (DBH) of approximately $1 0 . 9 \\pm 1 . 3 ~ \\mathrm { c m }$ , and a standing culm density of $3 , 6 0 0 \\ \\mathrm { \\ h a } ^ { - 1 }$ . No artificial tending or management had been practiced in this bamboo forest in four years. The characteristics of the bamboos in our study site are summarized in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A micrometeorological station was set up in an open site $5 0 ~ \\mathrm { m }$ away from the experimental plots.Environmental data collected consisted of photosynthetically active radiation (PAR, μmol $\\mathbf { m } ^ { 2 } \\ \\mathbf { s } ^ { - 1 }$ ； FR3030, China), air temperature $( \\mathrm { T } , \\ ^ { \\circ } \\mathrm { C } )$ and relative humidity $( \\mathrm { R H } , \\% )$ (Both measured with an HC2-S3,Rotronic, China),and wind speed ( $( \\nu , \\mathrm { ~ m ~ s ^ { - 1 } ~ }$ ; FR3120, China), all of which were measured automatically every 30 s and recorded at 10-min intervals by a datalogger (DL2e, UK). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Culm Age Identification ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Procedures for identifying $P .$ pubescens culm ages are described by Zhao et al., (2016). Culm age is largely determined by culm color, and sheaths,bristles in the sheath ring,and biophous lichens. The surface of juvenile culms is shiny green, usually covered in a fine white powder, and contains bristles in the sheath ring, with culm sheaths near the ground; only juvenile bamboos have obvious culm sheaths. Mature culms are generally 2-3 years old, yellow (green color beginning to fade), covered in white powder and with fewer bristles,whereas senescent culms often have a mottled whitish appearance, dust on the culm surface and an abundance of attached vegetation, such as lichens. For our study, we chose juvenile bamboos that had reached their maximum height and had photosynthetic leaves. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8c997710c8e81dcb39fb1e36b5b26d210e6d4632485043dfe68ab3bfdf03f7d.jpg",
+        "table_caption": [
+            "Table 1|Bamboo biometrics "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Age</td><td>A(cm²)</td><td>DBH(cm)</td><td>Culm height (m)</td><td>A(m²)</td></tr><tr><td> Juvenile</td><td>36.2 ±3.4</td><td>10.2± 0.7</td><td>13.5± 0.6</td><td>21.4± 6.4</td></tr><tr><td>Mature</td><td>32.1± 1.7</td><td>10.4± 0.25</td><td>13.8± 0.2</td><td>12 ±1.9</td></tr><tr><td>Senescent</td><td>32.8± 1.9</td><td>10.9± 0.29</td><td>14.0± 0.2</td><td>10± 1.7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Data are expressed as the mean $\\pm$ SD of 15 individual bamboos of each age class ( $\\mathbf { \\tilde { n } = }$ 15). $A _ { \\mathrm { s } }$ is the cross-section area of the bamboo wall, DBH is the diameter at breast height, and $A _ { \\mathrm { L } }$ is the whole culm leaf area. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sap Flow Measurements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Measurements of sap flow were conducted from December 2012 to 2013, then again in July 2O14 for a period of 30 d. Three experimental plots were established on the same hillside, with a total of 6O bamboo plants monitored. In each plot, we selected 15 normal bamboo samples at three age levels and five rhizome-cut samples. Sap flow sensors were installed on 45 normal bamboos and 15 rhizomecut bamboos. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For each sample culm,one pair of modified, $1 0 \\mathrm { - m m }$ long TDP probes was installed at breast height. Two probes were vertically inserted into the culm wall and separated by a node. The heating probe (placed above） was constantly provided with a $1 2 0 ~ \\mathrm { m A }$ direct current, and the reference probe (placed below） remained unheated. Sap flow density was measured and recorded at $1 0 ~ \\mathrm { { m i n } }$ intervals using a Delta-T datalogger (DL2e, UK). Estimates of sap flow using the standard equation developed by Granier (1987） probably describe bamboo water use inaccurately because the bamboo hydraulic structure differs significantly from that of the dicot species from which Granier's original equation was derived; moreover, the parameters used in the original equation were reported to be species-specific (Gao et al.,2015). Thus, we used the calibrated equation described by Zhao et al., (2016), who verified the accuracy of the $1 0 \\mathrm { - m m }$ probe technique for measuring sap flow in P. pubescens growing in Nankun Mountain Natural Reserve. This verification was based on induced hydraulic pressure and sap flow changing device approaches, combined with whole-culm pot weighting methods. Finally, the sap flow density ( $\\mathrm { \\partial _ { \\cdot } } J _ { \\mathrm { s } }$ （20 $\\textrm { g H } _ { 2 } \\mathrm { O } \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 } )$ of $P .$ pubescens was calibrated using a modified equation (Zhao et al., 2016): ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where,is the maximum temperature difference obtained under zero sap flow conditions andis the instantaneous temperature. To account for possible non-zero sap flow at nights, we applied the $\\Delta T \\mathrm { m }$ from the previous as well as the next nights (Litvak et al.,2012） as the baseline. The values 360.44 and 1.746 are the corrected parameters $a$ and $\\beta$ of the original equation, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Rhizome-cut Experiment ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Water and nutrients can potentially be exchanged and allocated between culms via connected rhizomes (Li et al., 2000; Song et al., 2016; Zhao et al., 2016), these processes would be impeded if the rhizomes were cut. Therefore,a rhizome-cut experiment was conducted in June 2O13 to investigate the role of belowground rhizome connections in transpiration and night-time water recharge between culms. We dug narrow trenches around selected culms at a depth of approximately $5 0 ~ \\mathrm { c m }$ to sever the connected rhizomes, then we replaced the soils. Each rhizome-cut culm had a soil surface area of approximately $4 ~ \\mathrm { m } ^ { 2 }$ ，and the 15 rhizome-cut bamboos were divided into the three age groups. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Whole-plant Hydraulic Conductance ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Whole-plant hydraulic conductance $( k )$ is an indirect indicator of a tree's hydraulic structure and thus to describe the water transport efficiency, which could be expressed as a function of hydraulic conductance in the pathway from soil to leaves (Tyree and Sperry, 1989). According to Schäfer et al., (2000)，whole-plant hydraulic conductance can be expressed as: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2) ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where, $E _ { \\mathrm { L } }$ is the sap flow based canopy transpiration rate ( $( \\mathbf { g } \\ \\mathbf { m } ^ { - 2 } \\ \\mathbf { s } ^ { - 1 } )$ )， $k$ is the wholeplant hydraulic conductance from soil to canopy leaves (mmol $\\mathbf { s } ^ { \\mathbf { - } 1 } \\mathbf { \\Lambda } \\mathbf { M } \\mathbf { p } \\mathbf { a } ^ { \\mathbf { - } 1 } .$ ), $\\psi _ { \\mathrm { s } }$ is the soil water potential near the roots (MPa), $\\psi _ { \\mathrm { { L } } }$ is the leaf water potential (MPa), $h$ is bamboo height, and O.01h is the gravity of the water column between the roots and leaves. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We measured $\\psi _ { \\mathrm { { L } } }$ using a pressure chamber (PMS 1000, Corvallis, OR, USA) on three consecutive fine days, from 05:00 to 17:00 in winter (December 2013) and 05:00 to 19:00 in summer (June 2014)，with measurements recorded at 2-h intervals. Nine normal and rhizome-cut bamboo culms, respectively from each of the three age groups were selected. Three canopy branchlets with 2-3 attached leaves were cut from each sample culm and measured. As the mean annual soil water content in the study site remained high year round i $( \\sim 3 3 . 7 \\pm 3 \\%$ )， soil water content was not a limiting factor of daily transpiration in either the wet or dry seasons (Zhao et al., 2O16). Therefore, since soil moisture did not vary largely over the course of a day under fine-weather conditions (i.e., in the absence of rainfall), we assumed that predawn $\\psi _ { \\mathrm { { L } } }$ was equal to $\\psi _ { \\mathrm { s } }$ when sap flow was zero (Ewers et al., 2005). Canopy transpiration rate was calculated as follows: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where, $J _ { \\mathrm { s } }$ is the mean culm sap flow density $\\left( \\mathbf { g } \\ \\mathrm { H } _ { 2 } \\mathbf { O } \\ \\mathbf { m } ^ { - 2 } \\ \\mathbf { s } ^ { - 1 } \\right)$ and $A _ { \\mathrm { L } } / A _ { \\mathrm { S } }$ is the ratio of the total leaf to cross-sectional area of the bamboo wall. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bamboo height and $A _ { \\mathrm { L } }$ were determined after culm harvest, and leaf biomass was converted to leaf area for each sample. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Night-time Water Recharge ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "According to Verbeeck et al.,(2007), night-time water recharge $( W _ { \\mathfrak { n } } )$ is defined as the integrated sum of sap flow density when $\\mathbf { P A R } = 0$ . The percentage of nighttime water recharge to total daily transpiration $( P , \\% )$ was expressed as: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where, $W _ { \\mathrm { n } }$ and $E$ are the night-time water recharge and total daily transpiration, respectively. $W _ { \\mathrm { n } }$ and $P$ were calculated for each age class of both normal and rhizome-cut bamboos. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical Analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "December and July represent the dry and wet seasons in this paper, respectively. Oringin Pro 8.5 (OringinLab Corp.，USA） was used to simulate the relationship between $W _ { \\mathrm { n } }$ and $E$ at the different age levels,as well as the relationship between $P$ and bamboo morphological features. Statistical analyses on $P$ in the wet and dry seasons at the different age levels, and on $P$ between bamboo height and age,were performed using a one-way analysis of variance (ANOVA) and covariance analysis, respectively (SPSS 18.O software， SPSS Inc.， Chicago， IL， USA). Correlations between $W _ { \\mathfrak { n } }$ and $E$ ，as well as $P$ and bamboo morphological features in the wet season were also calculated. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Day- and Night-time Sap Flow in the Wet and Dry Seasons ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In both the wet and dry seasons, sap flow density $( J _ { \\mathrm { s } } )$ largely increased after 07:30 due to transpiration and increasing PAR, but decreased to a minimum from 19:00-19:30, then slowly recovered under the action of root pressure (Figure 1). Mean daily $J _ { \\mathrm { s } }$ of normal and rhizome-cut bamboos in the wet season were 11.55 and $7 . 3 1 \\ \\mathrm { g \\ m ^ { - 2 } s ^ { - 1 } }$ for juveniles, 8.06 and $6 . 2 2 \\ \\mathrm { g \\ m ^ { - 2 } s ^ { - 1 } }$ for mature bamboos,and 5.46 and $5 . 4 0 \\mathrm { ~ g ~ m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ for senescent bamboos,respectively (Figure 1 C and $\\mathbf { E }$ ). In the dry season, these values were 5.6 and $7 . 0 7 \\mathrm { ~ g ~ m } ^ { - 2 } \\mathbf { s } ^ { - 1 }$ (juvenile), 5.64 and $4 . 5 2 \\mathrm { ~ g ~ m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ (mature),and 2.74 and $4 . 3 8 \\mathrm { ~ g ~ m ^ { - 2 } s ^ { - 1 } }$ (senescent), respectively (Figure 1 D and F). Day- and night-time $J _ { \\mathrm { s } }$ were higher in the wet season than the dry season during the day and at night (Figure 2). In the wet season, night-time $J _ { \\mathrm { s } }$ began at 19:00,and rose over the course of the night to a maximum of $8 \\textrm { g }  { \\mathrm { m } } ^ { - 2 }  { \\mathrm { \\ s } } ^ { - 1 }$ at 06:30,whereas the maximum was $3 \\mathrm { ~ g ~ m ~ } ^ { - 2 } \\mathrm { ~ s ~ } ^ { - 1 }$ in the dry season. This part of the integrated sap flow under zero-PAR was considered the effective water recharge in plants that compensates for the water deficit induced by day-time transpiration (Zhao, 2010). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Percentage of Night-time Water Recharge to Total Daily Transpiration $( P )$ ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Correlations between $W _ { \\mathrm { n } }$ and $E$ in the wet season are shown in Figure 3. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Positive correlations were found between the two factors at all age levels. By comparing water recharge between normal and rhizome-cut bamboos at diferent age levels,we found that the fraction of night-time water recharge to total daily transpiration $( P )$ was up to $30 \\%$ in both the wet and dry seasons in normal senescent bamboo,which was higher than in juvenile $( 1 1 - 1 9 \\% )$ and mature $( 9 - 1 6 \\% )$ culms (Figure 4). However, $P$ in normal and rhizome-cut senescent bamboos in the wet and dry seasons was $3 0 . 8 3 \\% / 1 0 . 4 6 \\%$ and $3 0 . 9 8 \\% / 1 2 . 3 6 \\%$ , respectively. Values for $P$ were significantly lower in rhizome-cut bamboos than in normal bamboos because of the significant reduction in night-time sap flow density, as shown in Figure 2 C and D. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Whole-tree Hydraulic Conductance $( k )$ and Night-time Water recharge ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Whole-tree hydraulic conductance $( k )$ significantly decreased with culm age in normal culms (Figure 5), this was reflected in the lower levels of sap flow density in senescent and rhizome-cut bamboos (Figure 1). Interestingly, unlike $k , \\ P$ increased with age in normal bamboos (blue line in Figure 5). However, $P$ in rhizome-cut bamboo initially trended slightly upward with $k$ before decreasing. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Relationshipbetween $P$ and Bamboo Morphological Features ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transpiration $( E )$ increased as both culm height and DBH increased; this positive relationship was confirmed through the fitted relationship between $E$ and bamboo morphological features (Figure 6). However, a negative correlation was observed between $P$ and morphological features for night-time water recharge, except in juveniles of rhizome-cut bamboos (Figure 7). Thus, in each age group, taller culms with larger diameters had lower $P$ values, indicating that night-time sap flow could not fully replenish depleted water stores in bigger $P .$ pubescens culms. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Influences of Culm Age and Rhizome on Sap Flow Density ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study is one of few to quantify changes in night-time sap flow in bamboos. Sap flow density varied with culm age and rhizome state. Both day- and night-time $J _ { \\mathrm { s } }$ decreased with culm age and after rhizome cutting in the wet season, which answered our questions that night-time water recharge is affected by culm age and rhizome. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Day-time $J _ { \\mathrm { s } }$ and $E$ were both lower in older culms (Figure 1 C and E), whereas night-time $J _ { \\mathrm { s } }$ in the wet season did not decline with bamboo age. Daytime $J _ { \\mathrm { s } }$ was inconsistent in all 3 age levels during the dry season, with mature bamboos having higher $J _ { \\mathrm { s } }$ levels than juvenile and senescent bamboos (Figure 1D). This difference was most likely associated with shoot emergence, for which additional water was required. Night-time sap flow fluctuation process coincided with the rhythm of the root pressure activity observed in 59 bamboo species, as reported by Cao et al., (20l2). Daytime water absorption was lower in senescent bamboos than that in juvenile and mature bamboos. Senescent bamboos had the weakest waterresource competitiveness and transpiration capacity due to reduced hydraulic conductance (Figure 5). Thus, for senescent individuals, it seems like that they had rely on night-time $J _ { \\mathrm { s } }$ to replenish water deficits produced during the day. Moreover, it store additional water for transpiration the next day and transported to other individuals that needed, indicating that night-time $J _ { \\mathrm { s } }$ is more critical to senescent bamboo. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "One function of the connected rhizome is to allocate partial water between culms when some are experiencing lower water potential deficits (Zhao et al., 2016). In all bamboo age levels and during both day- and night-time, $J _ { \\mathrm { s } }$ was clearly lower in rhizome-cut bamboos than in normal bamboos in the wet season because of the lack of water transference from other culms (Dierick at al., 2O1O; Zhao et al., 2016). However, $J _ { \\mathrm { s } }$ was higher in rhizome-cut juvenile bamboos than normal bamboos (Figure 1 D and F). Even so, the total transpiration rate of rhizome-cut bamboos was similar to that of normal bamboos (Zhao et al., 2016). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Night-time Water Storage in Relation to Morphological Features ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$P$ Was smaller in taller culms with thicker DBH, for three possible reasons. First, water transport paths lengthen and hydraulic resistance increases in taller and older culms (Schulze et al., 1985), leading to less efficient hydraulic conductance (Phillips et al., 2002), stomatal conductance, and photosynthetic capacity (Barnard and Ryan, 2Oo3). Second, taller culms receive more solar radiation than shorter culms,which leads to higher transpiration rates and subsequently greater water uptake by the root system (including self-absorbed and compensation water through connecting rhizomes between culms), and therefore, taller culms had a reduced flow of night-time sap in $E$ . Finally, positive root pressure was not high enough to drive night-time sap flow at volumes high enough to satisfy all canopy branches (Cao et al., 2012),and thus night-time sap flow might only partially recharge consumed water within leaves, leading to vulnerability segmentation (Zimmermann, 1983). In other words, the plant may elect to protect and hold the water needed by remaining leaves after others wilt or drop (Tyree et al., 1993), which would result in a lower $P$ （204号 in larger culms. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It is no surprise that positive relationships between morphological features and water use have been observed in many plant species; the larger the tree, the greater the water consumption (Meinzer et al.， 2003；Goldstein et al.，1998). Similar relationships have also been reported for night-time sap flow (Cermak et al., 2004; Takagi, 2O13). Here, the covariance analysis revealed that night-time recharge water in $P .$ pubescens was affected primarily by culm age ( $\\mathrm { \\Delta P = 0 . 0 1 1 }$ ， $\\mathtt { a } = 0 . 0 5$ ),although positive correlates between $E$ and morphological features were also observed (Figure 6). Zachary (2Oo9) reported that there was no direct correlation between maximum instantaneous sap flow $E$ and culm size,but they did detect differences in $E$ among various age groups of Guadua angustifolia. The positive relationship between $E$ and morphological features we observed may be due to little difference in culm height among the $P .$ pubescens growing in our study site. In addition, water compensation between culms via connecting rhizomes may have weakened the influence of morphological features on night-time water recharge. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Compensational Adjustment of Hydraulic Conductance in Senescent Culm ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study， we found that senescent bamboos had distinctive water-use characteristics that differed markedly from those of younger culms. Daytime $J _ { \\mathrm { s } }$ of senescent bamboos was the lowest of all age groups,however, night-time $J _ { \\mathrm { s } }$ was active in senescent bamboos,and thus,its $P$ value was the highest of all normal culms, accounting for more than $30 \\%$ of the total daily transpiration in normal senescent bamboos. $P$ were $1 0 . 4 6 \\%$ and $12 . 3 6 \\%$ in senescent rhizome-cut bamboos in wet and dry season (Figure 4), indicating that the water content in this area was unlimited. When the rhizomes were connected, senescent bamboos supplied water to other younger culms (Zhao et al., 2O16), but cuting rhizomes enabled senescent culm to reserve more water. Moreover, night-time water recharge in normal bamboos can largely compensate for the hydraulic limitations that result from declining whole-tree hydraulic conductance as the culm ages (Zhao et al., 2010). By comparing the $P$ levels of normal and rhizome-cut bamboos, especially in senescent bamboos,we saw the water compensation effect at work in connected culms. As daytime transpiration increased, the lost water could not be replaced in a timely manner by water from the roots; therefore, night-time water was needed to replenish the water deficit in culms. The $P$ of normal juvenile bamboos accounted for $10 \\%$ of total daily water used. Compensation water allocated among culms through connected rhizomes accounts for $20 \\%$ of total daily water use in juvenile bamboos (Zhao et al.，2016). Consequently， about $70 \\%$ of the water consumed during daytime transpiration was acquired via the roots. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Night-time water recharge not only plays an important role in water use and hydraulic regulation, but also indirectly increases carbon assimilation by relieving water transport resistance (Gao et al., 2O15). To meet water loss due to excessive leaf transpiration， senescent bamboos could reduce transpiration by shedding leaves. In senescent bamboos in our study site, we found many more leaves in lower branches had been dropped, and that the total leaf area of senescent bamboos was significantly lower than the total leaf area of juvenile culms ( $\\mathrm { \\Delta P = 0 . 0 0 8 }$ ， $\\mathfrak { a } = 0 . 0 5$ ） Shedding a few leaves allows the upper canopy of senescent bamboos to get higher transpiration and photosynthetic rates in senescent bamboos than in other age-level bamboos,as was revealed by gas-exchange measurements in this bamboo forest (data not shown). This may be a short-term feedback or priming effect to compensate for leaf shedding (Oren，1999). However, it was only a short-time effect, given that the total daily transpiration of senescent bamboos was still the lowest among all age classes: total daily transpiration of juvenile, mature, and senescent bamboos was 5.9, 5.6, and $4 . 4 \\mathrm { k g \\ d ^ { - 1 } }$ , respectively (Zhao et al., 2016). All of the above processes were compensatory measures against the reduced whole-tree hydraulic conductance of senescent bamboos. Optimizing the photosynthetic efficiency of the remaining leaves is another means of offsetting carbon loss due to reductions in leaf area. Thus,night-time water recharge might be a form of insurance to guarantee effective whole-day transpiration. In order to avoid excessive evaporation from the leaves, senescent bamboos can relieve hydraulic limitation through structural and physiological adjustments. Similar to our study, Phillips et al.,(2003), noted that water storage significantly affected the water and carbon balances of taller and older trees,and therefore could partially relieve hydraulic transport resistance. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Specific Mechanism of Bamboo Water Transport ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Substantial night-time sap flow has been observed in $P .$ pubescens individuals. Bamboos are typically shallow-root species,with more than $90 \\%$ of their root biomass located within the $\\textstyle 0 - 5 0 \\ { \\mathrm { c m } }$ soil layer (Li et al., 1998; Qiu et al., 1992); such shallow rooting restricts their capacity to tap into water sources in deeper soil layers.In addition,bamboos tend to have thin stem walls and thus only a small area for hydro-active transport, even under good soil moisture conditions. Grass species, including bamboos, would still face the problem of frequent cavitation (HollowayPhillips and Brodribb, 2O11). To compensate for these structural failings, vessels in bamboo leaves and the water-conducting conduits in the stem undergo daily cycles of cavitation and water refilling (Yang et al., 2O12). Due to the infrequency of stomatal transpiration (stomatal conductance is $8 . 8 { \\pm } 0 . 0 5 \\ \\mathrm { m m o l / m ^ { - 2 } s ^ { - 1 } }$ ; Transpiration rate is $0 . 0 6 { \\pm } 0 . 0 0 0 5 ~ \\mathrm { m m o l ~ / m ^ { - 2 } s ^ { - 1 } } )$ during the night, the presence of active sap flow implied that sap flow was being driven primarily by root pressure as opposed to the capillary pull resulting from transpiration. This stored water can temporarily be used to compensate for water lost via transpiration during periods of water deficit (Jiang et al., 2004). Flow due to root pressure can also explain the water recharge and cavitation recovery mechanisms in grasses, although no evidence of cavitation repair through similar mechanisms has been observed in tall conifers, angiosperms (Tyree and Zimmermann， 2002） or other dicots. Research has also shown that drought-embolized stem recovery in dicots consists of xylem replacement rather than xylem refilling (Brodribb et al.，2O1O)，a repair mechanism that differs considerably from that of bamboo species, which lack secondary stem growth for water transportation. Considerable parenchyma tissue and lacuna structures within bamboo walls that act as storage tissue may represent evolutionary adaptations for night-time sap flow and water recharge (Liese, 1998; Zachary, 2009), as these kinds of structures are useful for the narrower conductive area of culm walls, and can enhance the availability of stored water. Since bamboo species have thin leaves, continuous transpiration would increase tension within vessels, thus easily generating vessel cavitation in xylem and giving rise to xylem hydraulic dysfunction (Cao et al., 2012). Hence, stoma closure and turgor loss in bamboos species are also an adaptive strategy for avoiding water depletion (Yang et al., 2012). We also found that senescent bamboos shed leaves from lower branches, and periodically have both higher transpiration and photosynthetic rates as a positive feedback within the leftover leaves. The adaptive adjustments and functions controlling water compensation between culms allowed bamboo species to balance water use and carbon accumulation, especially in senescent plants. Efficient nighttime water recharge processes not only provide sources of supplementary water to stores depleted by daily routine plant functioning, but also aid in vessel cavitation repair and the prevention of embolisms (Daley and Phillips, 2Oo6). The lack of Xylem tissue regeneration causes hydraulic conductance and anti-cavitation capabilities to lessen as bamboo plants age (Figure 5), thus bamboo species are more dependent on repair ways to prevent xylem dysfunction and consequently the maintenance of transfusion tissue functioning. The presence of night-time sap flow in bamboos improves water-use efficiency and vessel safety, which are necessary for bamboo vigor and, potentially, survival. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Here,we measured sap flow using a self-modified thermal dissipation probe method (TDP, $1 0 \\ \\mathrm { m m }$ rather than the original $2 0 ~ \\mathrm { m m }$ in length） in $P .$ pubescens plants of three distinct age groups in order to calculate night-time water recharge. Bamboo species have unique night-time water storage requirements because of their physiological and structural characteristics. That culm age had an effect on day- and night-time sap flow was clear; moreover, night-time sap flow in $P .$ pubescens was shown to be very active, especially in senescent bamboos. Percentage of nighttime water recharge to total daily transpiration $( P )$ was lower in taller culms, suggesting that sap-flow driven by root pressure was limited and could not extend to the highest canopy levels,or to all branches. Belowground, connected rhizomes play significant roles in water compensation to normal bamboos,and this strongly influenced night-time water recharge in senescent bamboos, which was required in order to provide sufficient water for whole-day transpiration because of their weaker whole-tree hydraulic conductance during the daytime. In addition, senescent bamboos dropped leaves and maintained higher rates of transpiration and photosynthesis for short period of time to avoid hydraulic damage and carbon loss. Water allocation via connected rhizomes and night-time water storage were compensatory mechanisms to offset the hydraulic conductance limitations,and represented important water-resource regulatory strategies for maintaining normal physiological activity of bamboo. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ZX participated in the design of the study, carried out the experiment, collected and analyzed the data, and drafted the manuscript. ZP participated in the design of the study, analysis the data and revision of the manuscript. ZZ, ZL, HY, OL, NG, and YQ participated in the design of the study, collection of the data, discussion and interpretation of the results. All authors read and approved the final version of the manuscript. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "FUNDING ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the National Natural Science Foundation of China (41630752， 31700532， 31670410， 31170673， 41030638)， the CAS/SAFEA International Partnership Program for Creative Research Teams. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Authors express their gratitude to the co-workers of Nankun Mountain Natural Reserve for working support. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Barbeta，A.，Ogaya,R.， Penuelas,J. (2012). Comparative study of diurnal and nocturnal sap flow of Quercus ilex and Phillyrea latifolia in a Mediterranean holm oak forest in Prades (Catalonia, NE Spain). Trees-Struct. Funct. 26: 1651- 1659. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Brodribb, T.J.， Holbrook, N.M. (2003). Stomatal closure during leaf dehydration, ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "correlation with other leaf physiological traits. Plant Physiol. 132: 2166- 2173.   \nBrodribb，T.J.，Bowman，D.，Nichols，S.，Delzon，S.，Burlett，R.(2010).Xylem function and growth rate interact to determine recovery rates after exposure to extreme water deficit. New Phytol. 188: 533- 542.   \nCampbell, G.S., Norman, J.M. (1998). An introduction to environmental biophysics. Berlin, Heidelberg: Springer-Verlag press   \nCao,K.F., Yang, S.J., Zhang, Y.J.， Brodribb, T.J. (2012). The maximum height of grasses is determined by roots. Ecol. Lett.15: 666- 672.   \nCarrasco,L.O., Bucci, S.J.,Francescantonio, D.D., Lezcano, O.A., Campanello, P.I., Scholz,F.G., at al. (2014). Water storage dynamics in the main stem of subtropical tree species differing in wood density, growth rate and life history traits. Tree Physiol. 35: 354- 365.   \nCermak, J., Kucera, J., Bauerle, W.L., Phillips, N., Hinckly, T.M. (2007). Tree water storage and its diurnal dynamics related to sap flow and changes in stem volume in old-growth Douglas fir trees. Tree Physiol. 27: 181- 198.   \nDierick, D., Holscher, D., Schwendenmann,L. (201O). Water use characteristics of a bamboo species(Bambusa blumeana) in the Philippines. Agric. For. Meteorol.150,12:1568-1578.   \nDaley，M.， Phillips,N.G. (2006). Interspecific variation in night-time transpiration and stomatal conductance in a mixed New England deciduous forest. Tree Physiol. 26: 411- 419.   \nEwers, B.E., Gower, S.T., B-Lamberty, B., Wang, C.K. (2005). Effects of stand age and tree species on canopy transpiration and average stomatal conductance of boreal forests. Plant Cell Environ.28 , 660-678.   \nGao,J.G.， Zhou, J.， Sun， Z.W.， Niu, J.F., Zhou, C.M., Gu, D.X., et al. (2016). Suppression of nighttme sap flux with lower stem photosynthesis in Eucalyptus trees. Int. J. Biometeorol. 60: 545-556.   \nGoldstein, G., Andrade, J.L., Mejinzer, F.C., Holbrook, N.M., Cavelier, J., Jackson, P., et al. (1998). Stem water storage and diurnal patterns of water use in tropical forest canopy trees. Plant Cell Environ. 21: 397- 406.   \nJiang,G.M.， Chang， J.，Gao，Y.B. (2004). Plant Physio-ecology. Beijing: Higher Education Press (in Chinese).   \nKomatsu, H., Onozawa, Y., Kume, T., Tsuruta, K., Shinohara, Y., Otsuki, K. (2012). Canopy conductance for a Moso bamboo (Phyllostachys pubescens） forest in western Japan. Agric. For: Meteorol. 156: 111- 120.   \nKupper, P., Rohula, G., Saksing, L., Sellin, A., Lohmus, K., Ostonena,I., et al. (2012). Does soil nutrient availability influence night-time water flux of aspen saplings? Environ. Exp. Bot. 82: 37- 42.   \nLiese，W.，Weiner， G. (1996). Ageing of bamboo culms,A review. Wood Sci. Technol.30:77-89.   \nLiese.W. (1998). The Anatomy of Bamboo Culms. International Network for Bamboo and Rattan Technical Reports,18. Brill, Leiden, The Netherlands.   \nLi, R.,During, H.J., Werger, M.J.A., Zhong, Z.C. (1998). Positioning of new shoots relative to adult shoots in groves of the giant bamboo, Phyllostachys pubescens. Flora. 193: 315-321.   \nLi, H.,Lei, Y. (2010). Estimation and evaluation of forest biomass carbon storage in China. China Forestry Publishing House press.   \nLiu,Q.， Li, Y.X.， Zhong, Z.C. (2004). Effects of moisture availability on clonal growth in bamboo Pleioblastus maculata. Plant Ecol.173,107-113.   \nLi, R., Werger, M.J.A., deKroon, H., During, H.J., Zhong, Z.C. (200O). Interactions between shoot age structure, nutrient availability and physiological integration in the giant bamboo Phyllostachys pubescens. Plant Biol. 2(4): 437-446   \nLoustau, D., Berbigier, P., Roumagnac, P., Arruda-Pacheco, C., David, J.S. Ferreira, M.I., et al. (1996). Transpiration of a 64-year-old maritime pine stand in Portugal. 1. Seasonal course of water flux through maritime pine. Oecologia 107:33- 42.   \nLitvak., McCarthy,H.R., Pataki,D.E. (2012). Transpiration sensitivity of urban trees in a semi-arid climate is constrained by xylem vulnerability to cavitation. Tree Physiology 00, 1-16   \nMcJannet, D., Fitch, P., Disher, M., Wallace, J. (2007). Measurements of transpiration in four tropical rainforest types of north Queensland， Australia. Hydrol. Processes 21: 3549-3564.   \nMeinzer,F.C., James， S.A., Goldstein, G.， Woodruff, D. (2003). Whole- tree water transport scales with sapwood capacitance in tropical forest canopy trees. Plant Cell Environ.26:1147-1155.   \nMeinzer, F.C., Bond, B.J., Warren, J.M., Woodru, D.R. (20o5). Does water transport scale universally with tree size? Funct. Ecol. 19: 558-565.   \nMeinzer, F.C.， Bond, B.J.，Karanian， J.A. (2008). Biophysical constraints on leaf expansion in a tall conifer. Tree Physiol. 2: 197- 206.   \nOren,R., Phillips, N., Ewers,B.E., Pataki, D.E.， Megonigal, J.P. (1999). Sap-fluxscaled transpiration responses to light, vapor pressure deficit, and leaf area reduction in a flooded Taxodium distichum forest. Tree Physiol. 19:337-347.   \nPhillips, N., Bond, B.J., McDowell, N. G., Ryan, M.G. (2002). Canopy and hydraulic conductance in young, mature and old douglas- fr trees. Tree Physiol. 22: 205- 211.   \nPhillips, H.M.M., Brodribb, T.J. (2011). Minimum hydraulic safety leads to maximum water-use efficiency in a forage grass. Plant Cell Environ. 34: 302-313.   \nPhillips,N.G.，Ryan， M.G., Bond, B.J. (2003).Reliance on stored water increases with tree size in three species in the Pacific Northwest. Tree Physiol. 23: 237- 245.   \nQiu, G.X.， Shen, Y.K.， Li, D.Y.， Wang, Z.W.， Huang, Q.M., Yang, D.D.， et al. “Bamboo in sub-tropical eastern China. In: Primary Productivity of Grass Ecosystems of the Tropics and Sub-tropics,” .In: Long S.P editor. Primary Productivity of Grass Ecosystems of the Tropics and Subtropics. Springer Shop press (1992). p. 159-188.   \nRohula, G., Kupper, P., Raim, O., Sellin, A., Sober, A. (2014). Patterns of nightime water use are interrelated with leaf nitrogen concentration in shoots of 16 deciduous woody species. Environ. Exp. Bot. 99:180- 188.   \nSchäfer, K.V.R., Oren, R., Tenhunen, J.D. (2000). The effect of tree height on crown level stomatal conductance. Plant Cell Environ. 23: 365-375.   \nScholz，F.G.，Bucci， S.J.，Goldstein，G.， Meinzer， F.C.， Franco，A.C.，MirallesWilhelm, F. (2008). Temporal dynamics of stem expansion and contraction in savanna trees: withdrawal and recharge of stored water. Tree Physiol. 28:469-480.   \nSchulze, E.D., Cermak, J., Matyssek, R., Penka, M., Zimmermann, R., Vasicek, F., et al.(1985). Canopy transpiration and water fluxes in the xylem of the trunkof Larix and Picea trees: A comparison of xylem flow, porometer and cuvette measurements. Oecologia 66: 475-483.   \nSorz,J.， Hietz, P. (2008). Is oxygen involved in beech (Fagus sylvatica) red heartwood formation? Trees-Struct.Funct. 22:175-185.   \nSong,X., Peng, C., Zhou, G., Gu, H., Li, Q., Zhang, C. (2016). Dynamic allocation and transfer of non-structural carbohydrates,a possible mechanism for the explosive growth of Moso bamboo (Phyllostachys heterocycla). Sci. Rep.6: Article Number 25908   \nSteppe, K., Lemeur, R. (2004). An experimental system for analysis of the dynamic ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "sap-flow characteristics in young trees: results of a beech tree. Funct. Plant Biol. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "31:83-92.   \nTyree,M.T.， Cochard, H.， Cruiziat, P.， Sinclair, B., Ameglio,T. (1993). Droughtinduced leaf shedding in walnut: evidence for vulnerability segmentation. Plant Cell Environ.16:879-882.   \nTyree，M.T.， Zimmermann, M.H. (2002). Xylem structure and the ascent of sap. Berlin: Springer-Verlag press.   \nTyree,M.T.， SPERRV, J.S. (1989). The vulnerability of xylem to cavitation and embolism. Annu.Rev. Plant Phys. Mol. Bio. 40: 19-38.   \nVerbeeck,H., Steppe,K., Nadezhdina,N., Bddck,M.O.D.,Deckmyn,A., Meiresonne,L.,et al.(20o7). Stored water use and transpiration in Scots pine: a modeling analysis with ANAFORE.Tree Physiol. 27, 1671-1685.   \nYang,S.J.， Zhang, Y.J.，Sun， M., Goldstein, G.， Cao, K.F . (2012). Recovery of diurnal depression of leaf hydraulic conductance in a subtropical woody bamboo species: embolism refilling by nocturnal root pressure. Tree Physiol.32, 414-422.   \nYang, S.J., Zhang, Y.J., Goldstein, G., Sun, M., Ma, R.Y., Cao, K.F. (2015). Determinants of water circulation in a woody bamboo species: afternoon use and night-time recharge of culm water storage. Tree Physiol. 35: 964-974.   \nZachary, M. (2o09). Sap flow dynamics of a tropical woody bamboo: Deductions of physiology and hydraulics within Guadua angustifolia.Ph D thesis,Washington University in St. Louis,USA.   \nZhang,Z.Z., Zhou,J., Zhao,X.H., Zhao,P., Zhu,L.W., Ouyang,L., Ni,G.Y. (2017). Maximised photosynthetic capacity and decreased hydraulic failure risk during aging in the clump bamboo, Bambusa chungi . Funct Plant Biol. 44, 785-794.   \nZhao，P. (2010). Compensation of tree water storage for hydraulic limitation: Research progress.J. Appl. Ecol.21( 6): 1565-1572 (in Chinese).   \nZhao, X.H., Zhao,P., Zhang, Z.Z., Zhu, L.W., Niu, J.F., Ni, G.Y., et al. (2016). Sap flow-based transpiration in Phyllostachys pubescens: Applicability of the TDP methodology, age effect and rhizome role. Trees-Struct.Funct. 31(2), 765-779.   \nZimmermann, M. H .(1993). Xylem structure and the ascent of sap. New York: Springer- Verlag press. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/dad3990ebef73c083e850190838632e9e88dfba29a9a4fd812fc2b8307b51f0b.jpg",
+        "img_caption": [
+            "FIGURE |1 Daily variatio n of sap flo w density $( J _ { \\mathrm { s } } )$ in three $\\pmb { P }$ pubescens individuals in wet (28, 29, 30 July) and dry season(26,27, 28 Dec). "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/42ac2e50bffb3527a3d04f506259f540fa54d0abf4f3c85d35eba5ce6a785c0f.jpg",
+        "img_caption": [
+            "FIGURE |2 Night-time sap flow density $( J _ { \\mathrm { s } } )$ pattern. Normal bamboo in wet (A) and dry (B) seasons; rhizo me-cut bamboo in the wet (C)and dry (D） seasons. The same day was chosen to describe the pattern as Figure 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c05f014af29c104bb0fa87d6cb9b64db86d323d85080045e0de3e57976f570e.jpg",
+        "img_caption": [
+            "FIGURE 3 |Relatio nship between night-time water recharge $( W \\mathbf { n } )$ and total daily transpiration (E). $( n { = } 9 )$ （ "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/bea999101f8ba23432255d547925afc2597717d204397e3403e452b646ba74cc.jpg",
+        "img_caption": [
+            "FIGURE 4|Percentage of nighttime water recharge to total daily transpiration $( P )$ at different culm ages "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/72e951d7ba8dacbf700795cbc06470e68de9cf97476863143266e881e5c66d86.jpg",
+        "img_caption": [
+            "FIGURE 5|Values for $\\pmb { k }$ and $P$ in normal and rhizome-cut bamboos of different ages "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9403fd0d1a0d18880ffe9f9b3647c51e3f7ae4522fba27a4c74b247c7b7eed2.jpg",
+        "img_caption": [
+            "FIGURE |6 Relationships between mean transpiration $( E )$ and DBH and bamboo height. ( $\\scriptstyle \\mathbf { \\lambda } _ { n = 9 }$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b4fcceb1f1256bb6babdf56ea1f794c4cb428edb296af612ecfd70eb256a99f.jpg",
+        "img_caption": [
+            "FIGURE|7 Relationship between $P$ and bamboo morphological features.The fited equations "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "are for juvenile $( \\bullet )$ , mature $( \\bullet )$ ,and senescent bamboos（) in each pattern, respectively. $\\scriptstyle ( n = 9 )$ ",
+        "page_idx": 28
+    }
+]

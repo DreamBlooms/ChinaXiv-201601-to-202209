@@ -1,0 +1,253 @@
+# DOI:10.5846/stxb201511102274
+
+李翔翔,居辉,刘勤,李迎春,秦晓晨.基于 SPEI-PM指数的黄淮海平原干旱特征分析.生态学报,2017,37(6);2054-2066.LiXX,JuH,iAlohcedeiacta37(6) :2054-2066.
+
+# 基于SPEI-PM指数的黄淮海平原干旱特征分析
+
+李翔翔},²,居辉1,2，\*，刘 勤1,，李迎春1,²，秦晓晨1,2
+
+1中国农业科学院农业环境与可持续发展研究所作物高效用水与抗灾减损国家工程实验室，北京100081  
+2 农业部农业环境重点实验室，北京100081  
+3农业部旱作节水农业重点实验室，北京100081
+
+摘要：利用黄淮海平原45个气象站点1961—2014 年月值气象数据,基于Penman-Monteith 蒸散模型计算了标准化降水蒸散指数(SPEI),对黄淮海平原近54年干旱变化趋势、发生频率和持续性特征进行了分析，并探讨了SPEI指数与河南、河北和山东省农业干旱面积的关系,结果表明：(1)改用Penman-Monteith蒸散公式后,SPEI干旱指数在黄淮海平原呈整体上升趋势,即趋于湿润;（2)近54年干旱演变具有明显的年代际差异,20 世纪60年代干旱频率最高,而21世纪初（2000—2014)干旱频率整体偏低；（3)黄淮海平原干旱发生具有持续性的特点,20世纪60年代遭受的持续性干旱最为严重,平均干旱持续时长约2.6个月,21世纪初下降到1.5个月;(4)河南、河北和山东省的农业干旱面积年际变化表明,干旱面积呈减少趋势,2000年以后年均受灾面积、成灾面积和绝收面积比2000 年之前分别下降了 $5 8 . 0 \%$ ， $. 4 4 . 4 \%$ 和 $4 9 . 1 \%$ ;(5)农业干旱面积与 SPEI具有中等以上的相关强度,其中对山东省受灾、成灾和绝收面积相关系数 $\boldsymbol { r }$ 达到-0.7以上,表明基于Penman-Monteith 蒸散模型的 SPEI指数在黄淮海平原具有良好的适用性。
+
+关键词;SPEI;Penman-Monteith 蒸散模型;干旱趋势;干旱频率;黄淮海平原
+
+# Analysis of drought characters based on the SPEI-PM index in Huang-HuaiHai Plain
+
+LI Xiangxiang1,²，JU Hui1,2,\*，LIU Qin $^ { 1 , 3 }$ , LI Yingchun $^ { 1 , 2 }$ ， QIN Xiaochen1,2
+
+1StateKeyEgeeingboatofosEfetWteUsedDrohtiigtiostitteofiontdustableetin Agriculture,Chinese Academy of Agricultural Science,Beijing 1Ooo81,China   
+2KeyLaboratory of Agricultural Environment，Ministry of Agriculture,Beijing 1Ooo81 China   
+3Key Laboratory of Dryland Agriculture，Ministry ofAgriculture，Beijing 1Ooo81,China
+
+Abstract：The quantitativeanalysisof droughtiscrucial essential fordroughtriskassessment.Thestandardized precipitation evapotranspiration index（SPEI）has been widelyused asan efectiveapproach to quantitatively analyze the trends，uration，frequency，andseverityofdrought.However,howtocalculate the evapotranspirationisbig challnge for thereliable and accuracy of SPEI results.The most previousstudiescalculated SPEI basedonanempirical evapotranspirationequation，such asthe Thomnthwaite method，rather than the physical Penman-Monteith equation. Moreover，majorityofthestudiesanalyzed thespatio-temporal patternof theindex withoutlinkageof therelationship between the climactic drought indexandactual croplanddroughtareas.Thisstudyutilized SPEI basedonthePenmanMonteithequation to explore thevariations of drought frequencyanddurationduring 1963—2014in 3HPlain，and established therelationshipbetween SPEIand theactual fielddrought areas byPearsoncorrelation in Henan，Hebei，and
+
+Shandong Province separately，which aims tounderstandthetrendsof drought during thepast5O yearsand to explore the relationshipbetweentheclimaticdroughtindexandactual fielddroughtareas.Theresultsshowed that the SPEIhadupward trend for1,3,6,and12-month scales in most areasof the3HPlain whileasthe1-monthand3-month scales,the weting trend was significant ( $( P { < } 0 . 1 )$ ）in the northern regions of 3H Plain. Drought frequency in the 196Os was the highest during the past54 years，but lowestin 20o—2014.Thelongest duration was occurred in the1960s bycomparing thedecadal spatialdistributionofdrought duration.Moreover,the mean droughtdurationdeclined from2.6months in the196Osto1.5 months during 20o—2O14.The changesof annual drought areas decreased in Henan，Hebei，and Shandong Province, which couldbe partlyatributedtothelower frequencyand shorter durationof drought detected by SPEI.Corelation analysesindicated thattheindexseriesof Dec-SPEI-12had medium tohighcorelation withobservedcroplanddrought areas.For example，Pearson’s r between Dec-SPEI-12 and the drought area of Shandong Province were $- 0 . 7$ ， $- 0 . 7$ ，and $- 0 . 8$ foraffected，disasterand no harvest drought areas，respectively.Theresultsof the study suggest a weting trend inthe 3H Plain during thepast 54 years，and the chosen of Penman-Monteith evapotranspiration model with decreasing evapotranspirationoverthepastyears inthe3HPlain atributes to this wetting trend.Thehigh correlation between he climatic droughtindexandactual droughtarea indicatedthatSPEIcouldbeusedasareferenceor triggerforestablishinga drought warning system in the 3H Plain.
+
+Key Words: SPEI； Penman-Monteith equation；drought index；drought frequency；Huang-Huai-Hai Plain
+
+干旱灾害影响范围广、持续时间长，一旦发生所造成的影响大,因而备受关注,是当前气候变化研究的热点领域[1]。我国地处东亚季风区,地理条件复杂,气象灾害频发[2],而旱灾是我国当前最主要的气象灾害之一,对农业生产、水资源、生态环境和人类活动产生重要影响。1961—2010年,我国干旱年均受灾面积约23230千 $\mathrm { { h m } } ^ { 2 }$ ,约占农作物播种总面积的 $1 5 . 6 \%$ ;其中成灾面积约10953 千 $\mathrm { { h m } } ^ { 2 }$ ,约占播种总面积的 $7 . 3 \% ^ { [ 3 ] }$ 。IPCC 报告以及我国气候变化预估分析均表明,气候变化将会造成极端气候事件及气候灾害的频率和强度明显增强,气候灾害影响的区域增多,进而对社会经济可持续发展造成不利影响。因此定量化研究干旱演变特征对制定适应气候变化策略、干旱风险管理具有科学指导意义。
+
+20 世纪以来,针对干旱影响的部门和地区、特殊的应用和对其理解的程度不同,国际上提出了许多干旱定量化研究方法。其中,基于复杂水分平衡模式提出的Palmer干旱指数(PDSI)是干旱研究发展史上的里程碑,有效地解决了区域干旱监测、预报难题,但是缺乏时空比较的有效性[45]。McKee 等人[6]提出标准化降水指数(SPI)来替代Palmer指数,SPI具有时间尺度灵活的特点，计算简便,但仅考虑降水因素，忽略了水分平衡的影响,对研究气候变暖背景下干旱发生趋势效果不佳[7]。基于此,2010年 Vicente-Serrano 等人[7]提出了标准化降水蒸散指数(SPEI),该指数基于降水和蒸散的差额,既保留了PDSI对温度敏感的特点,又具备 SPI适合多尺度、多空间比较的优点,适于全球变暖背景下干旱特征的分析[8]。2014年,Begueria S与 Vicente-Serrano 等人对 SPEI指数进行了回顾[9],指出由于不同蒸散公式物理意义的不同、考虑的气象要素不同,计算的 SPEI指数会产生差异。Thomthwaite 蒸散模型所需气象要素仅有温度,计算简便[7],基于该模型的 SPEI得到广泛应用[10-12]。目前采用基于 Penman-Monteith 模型的 SPEI（SPEI-PM）对干旱的研究较少,Ming Bo 等人[13]分析了SPEI-PM指数与华北平原夏玉米产量的关系；Kai $\mathrm { X u }$ 等人[14]利用SPEI-PM指数对我国1961—2012 年的干旱特征进行分析。因此,改用应用范围更广、物理意义更明确的Penman-Monteith 模型后干旱特征值得探讨。
+
+黄淮海平原是我国气候变化敏感区与脆弱区，气候变暖导致降水变异程度加大，加之地表水时空分布不均、地下水超采严重[15],干旱风险趋向不稳定。对该区干旱的研究成果丰富,很好地揭示了干旱的南北差异和季节性特点,但许多研究仅对干旱指标进行时空分析,而气象干旱指标与实际农业旱情的联系不清。因此，本文改用基于Penman-Monteith 模型的 SPEI指数对黄淮海平原1961—2014 年的干旱发生特征进行分析,从干旱指数时空特征和演变趋势出发,寻求干旱灾害变化规律;从历史灾情数据与干旱指数的关系出发,验证气象干旱指数与农业实际干旱的关系,为该地区灾害风险特征和灾害风险评估提供依据。
+
+# 1材料与方法
+
+# 1.1 区域概况
+
+黄淮海平原位于燕山以南、淮河以北 $\mathrm { ( 1 1 2 ^ { \circ } 3 3 ^ { \prime } - 1 2 0 ^ { \circ } 1 7 ^ { \prime } E , 3 1 ^ { \circ } 1 4 ^ { \prime } - 5 0 ^ { \circ } 2 5 ^ { \prime } N ) }$ ，由黄河、淮河和海河冲积平原及部分丘陵山区组成,属半湿润地区,年降水量 $5 0 0 { \mathrm { - } } 8 0 0 \ \mathrm { m m }$ ,呈南多北少的分布格局,年潜在蒸散量为$1 0 0 0 \ \mathrm { m m }$ 左右,大部分区域降水处于亏缺状态,是我国的干旱重灾区[16-17]之一。同时,黄淮海平原是我国的重要粮食生产基地,主要种植方式是冬小麦-夏玉米轮作,小麦和玉米种植面积分别占全国的 $6 1 \%$ 和 $31 \%$ 。本文根据中国农作制[18]黄淮海平原半湿润暖温灌溉集约农作区划,将黄淮海平原分为以下6个农业亚区：I区燕山太行山山前平原水浇地二熟区;Ⅱ区环渤海滨海外向型二熟农渔区;Ⅲ区海河低平原缺水水浇地二熟兼旱地一熟区;V区鲁西平原水浇地二熟兼一熟区;V区黄淮平原南阳盆地水浇地旱地二熟区;VI区江淮平原麦稻二熟区，如图1。
+
+# 1.2 资料来源
+
+研究区内45个站点的1961—2013年月值气象数据来自国家气象局,包括降水（mm）、最高气温( $\mathrm { { . } ^ { \circ } C \ }$ 最低气温( $\mathcal { \mathbf { C } }$ ）、风速（ $\mathrm { { (  m / s ) } }$ 、日照时数（h）、相对湿度 $( \%$ )、经纬度和海拔高度。研究区及所选气象站点分布见图1。历史干旱灾情数据来源于农业部种植业管理司灾情数据库。本文收集了时间序列较长的河北、河南以及山东省历年干旱受灾、成灾和绝收面积数据,其中受灾面积序列为1971—2013年,成灾面积序列为1971—2012 年，绝收面积为1982—2012 年。
+
+![](images/9c4045519b00821ddeec98314d1df39e74f1465d28a28ae04ba4de5987449790.jpg)  
+图1黄淮海平原气象站点分布图  
+Fig.1The location of meteorology stations in Huang-Huai-Hai Plain
+
+# 1.3 SPEI指数
+
+SPEI指数通过计算月降水与潜在蒸散量的差值并进行正态标准化处理得到。
+
+第一步,计算逐月潜在蒸散量 $E T _ { 0 }$ 。本文采用FAO-56(1998)推荐的Penman-Monteith 模型计算：
+
+$$
+E T _ { 0 } = \frac { 0 . 4 0 8 \Delta ( R _ { n } - G ) + \gamma \displaystyle \frac { 9 0 0 } { T + 2 7 3 } U _ { 2 } ( e _ { a } - e _ { d } ) } { \Delta + \gamma ( 1 + 0 . 3 4 U _ { 2 } ) }
+$$
+
+式中， $E T _ { 0 }$ 为潜在蒸散量( $\mathbf { \dot { \Omega } } _ { \mathrm { m m } } \mathbf { \dot { \Omega } } ,$ ； $\Delta$ 为温度随饱和水汽压变化的斜率( $\mathrm { \ k P a / ^ { \circ } C }$ ； $U _ { _ { 2 } }$ 为离地 $2 \mathrm { ~ m ~ }$ 高处风速( $\mathbf { m }$ s)； $\boldsymbol { e } _ { a _ { } }$ 为空气饱和水汽压( $\mathbf { \nabla } [ \mathbf { k P a } )$ ; $\boldsymbol { e } _ { d }$ 为空气实际水汽压( $\left| \mathbf { \nabla } _ { \mathbf { k } } \mathbf { P } \mathbf { a } \right.$ ; $T$ 为平均气温 $( \mathrm { ~ \mathcal { C } ~ } )$ ; $\gamma$ 为湿度表常数( $\mathrm { \Phi _ { k P a } / \mathcal { C } }$ ）；$R _ { n }$ 为到达地面的净辐射 $( \mathrm { ~ M J ~ m ~ } ^ { - 2 } \mathrm { ~ d ~ } ^ { - 1 }$ ）； $\boldsymbol { G }$ 为土壤热通量密度( $\mathrm { ~ M J ~ m ~ } ^ { - 2 } \mathrm { ~ d ~ } ^ { - 1 }$ ）。
+
+第二步，计算逐月降水量与蒸散量的差额：
+
+$$
+D _ { i } = P _ { i } - \left( E T _ { 0 } \right) _ { i }
+$$
+
+式中， $D _ { i }$ 是计算的时间尺度内降水与蒸散差额的累计值， $D _ { i , j } ^ { k }$ 为第 $i$ 年第 $j$ 个月开始, $k$ 个月内的累积降水蒸散差额。
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle { D _ { i , j } ^ { k } = \sum _ { i = 1 3 - k + j } ^ { 1 2 } D _ { i - 1 , l } + \sum _ { l = 1 } ^ { j } D _ { i , l } } } & { j < k } \\ { \displaystyle { D _ { i , j } ^ { k } = \sum _ { l = j - k + 1 } ^ { j } D _ { i , l } } } & { j \geqslant k } \end{array} \right.
+$$
+
+第三步,对 $D _ { \mathrm { i } }$ 数据序列进行拟合。研究发现[7],采用三参数的Log-Logistic 概率分布函数的拟合效果最好。
+
+$$
+f ( x ) = \frac { \beta } { \alpha } \bigl ( \frac { x - \gamma } { \alpha } \bigr ) ^ { \beta - 1 } \left[ 1 + \bigl ( \frac { x - \gamma } { \alpha } \bigr ) ^ { \beta } \right] ^ { - 2 }
+$$
+
+式中，参数 $\alpha \mathrm { ~ , ~ } \beta \mathrm { ~ , ~ } \gamma$ 可以采用线性矩(L-moment)方法拟合获得：
+
+$$
+\beta = \frac { 2 \omega _ { 1 } - \omega _ { 0 } } { 6 \omega _ { 1 } - \omega _ { 0 } - 6 \omega _ { 2 } } \ , \alpha = \frac { ( \omega _ { 0 } - 2 \omega _ { 1 } ) \beta } { \Gamma ( 1 + 1 / \beta ) \Gamma ( 1 - 1 / \beta ) } \ , \gamma = \omega _ { 0 } - \alpha \Gamma ( 1 + 1 / \beta ) \Gamma ( 1 - 1 / \beta )
+$$
+
+$\Gamma ( \beta )$ 是关于 $\beta$ 的Gamma函数。由此可以得到 $D _ { i }$ 的概率密度的累计概率密度函数：
+
+$$
+F ( x ) = \left[ 1 + { ( \frac { \alpha } { x - \gamma } ) } ^ { \beta } \right] ^ { - 1 }
+$$
+
+第四步,对累计概率密度进行正态标准化。超过某个 $D _ { i }$ 值的概率为 $P = 1 - F ( x )$ ,概率加权矩 $\omega =$ $\sqrt { - 2 \mathrm { l n } ( P ) }$ 。
+
+当累计概率 $P \leqslant 0 . 5$ 时,采用(5)式计算 SPEI。
+
+$$
+\mathrm { S P E I } = \omega - \frac { c _ { 0 } + c _ { 1 } \omega + c _ { 2 } \omega ^ { 2 } } { 1 + d _ { 1 } \omega + d _ { 2 } \omega ^ { 2 } + d _ { 3 } \omega ^ { 3 } }
+$$
+
+式中， $d _ { \scriptscriptstyle 1 } = 1 . 4 3 2 7 8 8$ ： $d _ { 2 } = 0 . 1 8 9 2 6 9$ ; $d _ { 3 } = 0 . 0 0 1 3 0 8$ ： $c _ { 0 } = 2 . 5 1 5 5 1 7$ ; $c _ { 1 } = 0 . 8 0 2 8 5 3$ ; $c _ { 2 } = 0 . 0 1 3 0 2 8$ 。
+
+当 $P > 0 . 5$ 时,采用(6)式计算 SPEI。
+
+$$
+{ \mathrm { S P E I } } = - \ ( \omega - \frac { c _ { 0 } + c _ { 1 } \omega + c _ { 2 } \omega ^ { 2 } } { 1 + d _ { 1 } \omega + d _ { 2 } \omega ^ { 2 } + d _ { 3 } \omega ^ { 3 } } )
+$$
+
+SPEI指数是具有多时间尺度的标准化干旱指标,等级划分及对应的发生概率[7]见表1。不同时间尺度的 SPEI反映不同水源的可利用性,土壤湿度对短时间尺度 SPEI较为敏感,地下水、河川径流和水库蓄水量对长时间尺度 SPEI较为敏感[19]。本文利用 SPEI-1、SPEI-3、SPEI-6和 SPEI-12分别表示较短时间(1个月、3个月、6个月)和较长时间(12个月)的时间尺度 SPEI研究干旱趋势随时间的变化规律。
+
+http://www.ecologica.cn
+
+# 1.4 数据处理
+
+本文采用 Begueria S等开发的R 语言扩展包计算 SPEI（htps://cran.r-project.org/web/packages/SPEI/）[9],并选取PM模型为潜在蒸散模型,计算了研究区45个气象站点1963—2014 年逐月多尺度 SPEI值,对黄淮海平原的干旱趋势随时间变化进行分析：
+
+表1SPEI干旱等级划分  
+Table1Drought classifications based on SPEI   
+
+<html><body><table><tr><td>干旱等级 Drought class</td><td>概率/% Probability</td><td>SPEI值 SPEI value</td><td>干旱等级 Drought class</td><td>概率/% Probability</td><td>SPEI值 SPEI value</td></tr><tr><td>极端湿润 Extremely wet</td><td>2.3</td><td>≥2.0</td><td>中度干旱 Moderately dry</td><td>9.2</td><td>-1.5—-1.0</td></tr><tr><td>严重湿润 Severely wet</td><td>4.4</td><td>1.5-2.0</td><td>严重干旱 Severely dry</td><td>4.4</td><td>-2.0—-1.5</td></tr><tr><td>中度湿润 Moderately wet</td><td>9.2</td><td>1.0—1.5</td><td>极端干旱 Extremely dry</td><td>2.3</td><td>≤-2.0</td></tr><tr><td>正常年份 Near normal</td><td>68.2</td><td>-1.0-1.0</td><td></td><td></td><td></td></tr></table></body></html>
+
+干旱指数的趋势分析：采用 Mann-Kendall（MK)趋势检验方法对黄淮海平原45个气象站点年均 SPEI-1、SPEI-3、SPEI-6、SPEI-12的变化趋势显著性进行检验。MK 趋势检验是非参数统计检验方法,计算简单,是目前比较常用的趋势诊断方法,计算方法参考文献[20]。
+
+干旱频率：按照表1的干旱等级划分方法对黄淮海平原6个农业亚区1963年1月—2014年12月的SPEI-1、SPEI-3、SPEI-6、SPEI-12 的干旱频率 $p$ 进行计算,方法如下：
+
+$$
+p = n / N \times 1 0 0 \%
+$$
+
+式中， $p$ 表示干旱发生频率； $n$ 为数据序列中干旱发生的次数； $N$ 为数据序列数。
+
+干旱的持续性分析：根据表1对干旱等级的划分,本文定义SPEI- $3 \leqslant - 1 . 0$ 的连续月份为持续时长。
+
+SPEI与干旱面积的分析：为探讨气象干旱指标与实际农业干旱的关系,采用Pearson相关系数法分析灾情面积与各时间尺度SPEI指数的关系。Potopová $\mathrm { \Delta V }$ 等人使用该方法探讨了捷克共和国不同农作物气候产量与 SPEI的相关关系[21]。
+
+# 2结果与分析
+
+# 2.1干旱指数的趋势变化
+
+图2描述了黄淮海平原干旱指数的变化趋势,其中MK趋势系数小于0表明指数呈下降趋势,即干旱化，反之,则趋于湿润;并且趋势系数的绝对值大于1.64（1.96)时,表明变化趋势的通过 $9 0 \% ( 9 5 \% )$ 置信水平。从趋势系数的分布可以看出,基于PM蒸散模型的 SPEI在各时间尺度上表现为上升趋势站点数大于下降趋势的站点数,即黄淮海平原整体呈湿润趋势。年均 SPEI-1上升趋势最为明显（图2）,有13个站点达到了$9 0 \%$ 以上显著性水平,其中11个站点达到了 $9 5 \%$ 置信水平，仅有3个站点呈微弱的下降趋势;年均 SPEI-3有9个站点达到了 $9 0 \%$ 以上显著性水平（图2），其中7个站点达到了 $9 5 \%$ 置信水平，仅有7个站点呈微弱下降趋势；从SPEI-6和SPEI-12来看（图2）,黄淮海地区干旱指数呈上升趋势的站点分别占 $7 5 . 6 \%$ 和 $1 7 3 . 3 \%$ ,其中各有6和7个站点达到 $90 \%$ 以上显著性水平,分别有11和12个站点呈微弱下降趋势。从变化趋势的空间差异来看,湿润化站点主要集中在黄淮海平原中北部,例如河北省廊坊、沧州、秦皇岛、乐亭和南宫站的 SPEI-1和 SPEI-3指数上升趋势均达到 $9 5 \%$ 的显著性,山东与河南交界的朝阳、充州、尚丘和西华站的 SPEI-1和SPEI-3趋势同样都达到了显著性;干旱化站点分布较为零散,主要集中在京津和皖北地区,但并未达到显著性。
+
+# 2.2干旱演变特征
+
+为了分析黄淮海平原1963—2014 年干湿演变特征,本文利用气象中常用的哈默图方法（Hovmoller-typediagrams）对黄淮海平原6个农业亚区多时间尺度的干旱演变进行分析（图3）,能够直观地显示干旱发生的起
+
+![](images/576cdaceac965fc8704cd2a2c691b4c50e0f8afa335b80e8563540e9843be3ce.jpg)  
+图2黄淮海平原45个气象站点年均 SPEI-1、SPEI-3、SPEI-6和 SPEI-12变化趋势
+
+Fig.2Trendvariationsofannual SPEIwithtimescalesofone-month，three-month，six-monthand twelve-monthin3HPl
+
+止时间、严重程度和持续时长。
+
+从图3可以看出,短时间尺度(如 SPEI-3)的干湿指数波动频繁,反映了短期降水对干旱程度的影响;随着时间尺度加大,波动周期相对较长,体现了干湿的季节性变化规律;长时间尺度(如 SPEI-12)干湿变化更为稳定,波动周期长，更能反映干旱的年际变化特征。从干旱指数的演变特征来看,黄淮海平原6个农业亚区干旱发生具有明显的年代际特征。对于I—Ⅲ区（图3）,干旱主要发生在20世纪60年代中后期（1965—1968）、20世纪80年代初期(1980—1984）、20世纪90年代末（1998—1999)和21世纪2002年左右;IV区（图3)有 5条明显的干旱带,分别是1966—1969、1981—1982、1989—1991、1996—1999 和 2002—2003；V和VI区（图3)具有相似的干旱分布,为1966—1968、1978—1980、1995—1996、2001—2002、2010—2011和2014 年左右。这与我国历史干旱资料记录较为一致,荣艳淑等[22]的研究结果指出的典型干旱年份如1965年、1972 年、1986 年、1997年及2001年,以及几个典型干旱时期如1965—1967年、1980—1981年、1991—1992年、1999—2002 年以及2006—2007年在 SPEI指数时间序列中均得到较好的体现,反映了SPEI指数在华北地区旱涝趋势分析中具有较好的适用性。
+
+http://www.ecologica.cn
+
+![](images/1e2bc071ca3ca4484fda8137ead4e72a395c57a0c17509ad61bc28b8f2ad315d.jpg)  
+图3黄淮海平原各农业亚区多时间尺度干旱历史演变  
+Fig.3Spatiotemporal evolution of the SPEI series from1to 24 month scales at different sub-region
+
+为定量揭示黄淮海平原各农业亚区干旱发生的年代差异,本文计算了各亚区不同年代干旱( $\mathrm { S P E I } < - 1 \$ 发生的频率,见表2。总体上看,黄淮海平原干旱频率最高的年代是1960s,21世纪以后干旱频率下降明显。I区干旱频率最高的年代为1960s和1970s,4个时间尺度下1960s干旱频率分别为 $2 5 . 0 0 \% . 2 1 . 8 8 \% . 1 6 . 6 7 \%$ 和$2 1 . 8 8 \%$ ,而2000 年以后的干旱频率最低，分别为 $1 3 . 3 3 \% , 1 0 . 0 0 \% , 8 . 8 9 \%$ 和 $7 . 2 2 \%$ ： $\mathbb { I }$ 区干旱频率最大的年代仍旧是1960s,各时间尺度干旱频率分别为 $1 8 . 7 5 \% . 2 3 . 9 6 \% . 1 6 . 6 7 \%$ 和 $1 4 . 5 8 \%$ ,2000 年以后最低,分别为$8 . 8 9 \%$ ， $9 . 4 4 \%$ ） $9 . 4 4 \%$ 和 $7 . 2 2 \%$ ;Ⅲ区1960s各时间尺度的干旱频率明显高于其他年代,依次为 $2 7 . 0 8 \%$ 、$2 6 . 0 4 \%$ ${ , 2 8 . 1 3 \% }$ 和 $2 9 . 1 7 \%$ ,2000年以后干旱频率仍然最低； $\mathrm { \Delta } \mathrm { \mathrm { N } }$ 区1960s和1980s干旱频率差异不大，1970s和2000 年以后干旱频率最低； $\mathrm { \Delta V }$ 区1960s干旱频率依然明显高于其他年代,不同时间尺度干旱频率分别为$2 6 . 0 4 \% . 2 6 . 0 4 \% . 2 0 . 8 3 \%$ 和 $2 6 . 0 4 \%$ ,2000 年以后干旱频率依旧处于最低;对于VI区,1960s和1970s干旱频率差异不大,但是1980s干旱频率明显低于其他年代,分别只有 $1 1 . 6 7 \% . 1 2 . 5 0 \% . 9 . 1 7 \%$ 和 $3 . 3 3 \%$ 。
+
+# 2.3干旱持续性特征
+
+对黄淮海平原45个气象站点干旱最长持续时间的年代际差异进行分析,结果表明,黄淮海平原干旱持续性具有明显的年代际特征(图4）。1960s年代是遭受持续性干旱影响最为严重的10年,最长干旱持续期达到6个月以上的站点占 $5 7 . 8 \%$ ,其中有4个站点最长持续时间达到9个月,分别是天津、沧州、南宫和黄骅,持续的时段皆为1968年2月—1968年10月（图4);而1970s和1980s持续时间达到6个月以上的站点数分别为11和8个，且各有1个站点持续时长达到11个月,分别为廊坊(1975年3月—1976年1月)和塘沽（1988 年12月—1989年10月）（图4);90年代仅有1个站点达到6个月持续长度（图4),2000—2014年这15a间,也仅有6站点达到了6个月持续时长（图4）。黄淮海平原45个气象站点干旱平均持续月数的年际变化呈波动下降趋势（图4）,1960s的平均持续时长最长,达到2.6个月每次;1970s和1980s逐步下降,分别为1.9和1.7个月每次;1990s有所回升,为2.0个月每次;21世纪初最低（2000—2014），为1.5个月每次。因此，从干旱最长持续时长和平均持续时长的年代际变化来看,1960s是遭受持续性干旱最为严重的10年,而本世纪初干旱持续性有所减弱。
+
+表2黄淮海平原各亚区干旱频率的年代际变化特征/ $\%$   
+Table 2Decadal Variation of drought frequency at different scales for each region in 3HPlain   
+
+<html><body><table><tr><td>亚区/Sub-regions</td><td>1960s</td><td>8- 1970s</td><td>1980s</td><td>1990s</td><td>2000—2014</td></tr><tr><td>I区/Sub-region I</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPEI- 1</td><td>25.00</td><td>24.17</td><td>15.00</td><td>18.33</td><td>13.33</td></tr><tr><td>SPEI-3</td><td>21.88</td><td>18.33</td><td>8.33</td><td>11.67</td><td>10.00</td></tr><tr><td>SPEI-6</td><td>16.67</td><td>16.67</td><td>13.33</td><td>11.67</td><td>8.89</td></tr><tr><td>SPEI- 12</td><td>21.88</td><td>21.67</td><td>16.67</td><td>16.67</td><td>7.22</td></tr><tr><td>Ⅱ 区/Sub-region II</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPEI- 1</td><td>18.75</td><td>9.17</td><td>10.83</td><td>14.17</td><td>8.89</td></tr><tr><td>SPEI-3</td><td>23.96</td><td>11.67</td><td>11.67</td><td>14.17</td><td>9.44</td></tr><tr><td>SPEI-6</td><td>16.67</td><td>5.83</td><td>10.83</td><td>14.17</td><td>9.44</td></tr><tr><td>SPEI- 12</td><td>14.58</td><td>2.50</td><td>10.83</td><td>17.50</td><td>7.22</td></tr><tr><td>IⅢ区/Sub-region III</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPEI-1</td><td>27.08</td><td>22.50</td><td>13.33</td><td>13.33</td><td>15.56</td></tr><tr><td>SPEI-3</td><td>26.04</td><td>20.00</td><td>16.67</td><td>14.17</td><td>10.56</td></tr><tr><td>SPEI-6</td><td>28.13</td><td>19.17</td><td>15.83</td><td>15.00</td><td>7.22</td></tr><tr><td>SPEI- 12</td><td>29.17</td><td>10.00</td><td>8.33</td><td>19.17</td><td>8.33</td></tr><tr><td>V区/Sub-regionIV</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPEI-1</td><td>20.83</td><td>19.17</td><td>17.50</td><td>20.83</td><td>15.00</td></tr><tr><td>SPEI-3</td><td>19.79</td><td>13.33</td><td>20.00</td><td>17.50</td><td>12.22</td></tr><tr><td>SPEI-6</td><td>17.71</td><td>11.67</td><td>27.50</td><td>19.17</td><td>13.89</td></tr><tr><td>SPEI- 12</td><td>31.25</td><td>4.17</td><td>35.83</td><td>20.83</td><td>12.78</td></tr><tr><td>V区/Sub-region V</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPEI- 1</td><td>26.04</td><td>15.00</td><td>12.50</td><td>16.67</td><td>14.44</td></tr><tr><td>SPEI-3</td><td>26.04</td><td>11.67</td><td>13.33</td><td>14.17</td><td>11.67</td></tr><tr><td>SPEI-6</td><td>20.83</td><td>11.67</td><td>14.17</td><td>12.50</td><td>10.56</td></tr><tr><td>SPEI- 12</td><td>26.04</td><td>11.67</td><td>18.33</td><td>11.67</td><td>9.44</td></tr><tr><td>VI区/Sub-region VI</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SPEI-1</td><td>21.88</td><td>20.00</td><td>11.67</td><td>18.33</td><td>13.89</td></tr><tr><td>SPEI-3</td><td>27.08</td><td>21.67</td><td>12.50</td><td>18.33</td><td>15.00</td></tr><tr><td>SPEI-6</td><td>18.75</td><td>21.67</td><td>9.17</td><td>19.17</td><td>12.22</td></tr><tr><td>SPEI- 12</td><td>26.04</td><td>19.17</td><td>3.33</td><td>22.50</td><td>14.44</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+对黄淮海平原所有干旱事件进行排序,分析持续时间最长的10次干旱事件,见表3。廊坊和塘沽分别在1975 年3月—1976年1月和1988年12月—1989年10月发生了持续11个月的干旱事件,且都达到了中旱以上水平( $\mathrm { ' } \operatorname { S P E I } < - 1 . 5 )$ ;另外,从1968 年2月至1968年10月,河北中北部的石家庄、黄骅、南宫和沧州以及天津同时发生了持续9个月左右的中到大旱,表明1968年华北地区特别是京津冀地区发生了一次严重的干旱事件。
+
+# 2.4SPEI指数与干旱受灾、成灾和绝收面积的关系
+
+黄淮海平原是我国粮食的主产区，干旱的发生直接对该地区的农业生产造成影响。为了探讨 SPEI指数与农业干旱的关系,本文收集了资料连续性较好、序列较长的河北、河南以及山东3省历年干旱受灾、成灾和绝收面积数据。由图5可知,受灾、成灾和绝收面积呈波动下降趋势。3省年均总受灾面积由1971—2000 年的728.7万 $\mathrm { { h m } } ^ { 2 }$ 下降到2000—2013年的306.1万 $\mathrm { { h m } } ^ { 2 }$ ,减少了 $5 8 . 0 \%$ ;成灾面积由1971—2000 年的308.6万$\mathrm { { h m } } ^ { 2 }$ 下降到2000—2012年的171.4万 $\mathrm { { h m } } ^ { 2 }$ ,减少了 $4 4 . 4 \%$ ;绝收面积由1982—2000 年的64.2万 $\mathrm { { h m } } ^ { 2 }$ 下降到2000—2012 年的32.6万 $\mathrm { { h m } } ^ { 2 }$ ,减少了 $4 9 . 1 \%$ 。干旱面积显著下降一方面与农业科技进步有关,也与干旱频率降低、持续性减弱有关。
+
+![](images/a7e379ff150eec5b3f1fe25420b16c0da4357ab0f8f89d899143eeff7423549a.jpg)  
+图4黄淮海平原各年代干旱最长持续月数的空间分布  
+Fig.4Decadal spatial distributions of longest duration over 3HPlain
+
+http://www.ecologica.cn
+
+表3黄淮海平原1961一2014a持续时间最长的干旱事件  
+Table 3Top 10 drought events ranked by duration in 3HPlain from 1961 to 2014   
+
+<html><body><table><tr><td>序号 Rank</td><td>站点 Station</td><td>发生时段 Persistent period</td><td>持续月数 Duration（month)</td><td>SPEI-3均值 Mean SPEI-3</td></tr><tr><td>1</td><td>廊坊</td><td>1975.03—1976.01</td><td>11</td><td>-1.63</td></tr><tr><td>2</td><td>塘沽</td><td>1988.12—1989.10</td><td>11</td><td>-1.50</td></tr><tr><td>3</td><td>天津</td><td>1968.02—1968.10</td><td>9</td><td>-1.71</td></tr><tr><td>4</td><td>沧洲</td><td>1968.02—1968.10</td><td>9</td><td>-2.02</td></tr><tr><td>5</td><td>黄骅</td><td>1965.06—1966.02</td><td>9</td><td>-1.65</td></tr><tr><td>6</td><td>黄骅</td><td>1968.02—1968.10</td><td>9</td><td>-1.9</td></tr><tr><td>7</td><td>南宫</td><td>1968.02—1968.10</td><td>9</td><td>-1.67</td></tr><tr><td>8</td><td>石家庄</td><td>1968.02—1968.09</td><td>8</td><td>-1.44</td></tr><tr><td>9</td><td>石家庄</td><td>1972.05—1972.12</td><td>8</td><td>-1.65</td></tr><tr><td>10</td><td>邢台</td><td>1972.05—1972.12</td><td>8</td><td>-1.52</td></tr></table></body></html>
+
+![](images/6b6792f381abf782f801f4f2c00befd89a7d654693ed12c8af94e889f216abb8.jpg)  
+图5河南、河北和山东省的农作物干旱受灾面积、成灾面积和绝收面积时间序列特征  
+Fig.5Temporal evolution of drought area causing $1 0 \%$ = $30 \%$ and $80 \%$ yield loss in Henan，Hebei and Shandong provin
+
+为定量分析农业实际十旱面积与气象十旱指数的关系,计算了十旱面积与 SPEI指数的Pearson相关系数,结果如图6。SPEI指数与华北三省受灾、成灾、绝收面积的Pearson 相关系数 $\boldsymbol { r }$ 为负值,表明随着 SPEI指数的升高(趋湿），遭受旱灾的面积(受灾、成灾和绝收面积)减少；从 $r$ 的绝对值大小来看， $\mid \boldsymbol { r } \mid$ 随着时间尺度和月份的加大而增大,其中山东省12月份12个月时间尺度(Dec-SPEI-12)与受灾、成灾和绝收面积的 $\mid r \mid$ 分别为0.7、0.8和0.8,河南省Dec-SPEI-12与受灾、成灾和绝收面积的 $\mid \boldsymbol { r } \mid$ 分别为0.5、0.6和0.6,河北省Dec-SPEI-12与受灾、成灾和绝收面积的 $\mid \boldsymbol { r } \mid$ 分别为0.5、0.7和0.7,这表明该指数能够反映研究区域的干旱与旱灾程度。另外，从SPEI指数与干旱面积相关系数可以看出，相关系数 $\boldsymbol { r }$ 在7月份以后趋于稳定,7月份某些时间尺度的$\mid \boldsymbol { r } \mid$ 接近甚至大于Dec-SPEI-12 所对应的 $\mid \boldsymbol { r } \mid$ ,这是由于黄淮海地区降水主要集中在夏季（7—9月）[18],因此
+
+7月份之前的干旱灾害损失基本上决定了全年的损失。仍需注意的是,受灾、成灾和绝收面积分别代表的是因灾减产 $10 \%$ ） $3 0 \%$ 和 $8 0 \%$ 的农作物播种面积，而黄淮海地区旱灾主要发生在冬小麦生长季,抽穗至灌浆（5—6月)又是冬小麦产量形成关键期[23],因此6月份2个月时间尺度 SPEI（Jun-SPEI-2)与受灾、成灾和绝收面积的相关系数 $\boldsymbol { r }$ 亦比较高。
+
+![](images/43fed6ec95e651d4899b76d42246d707d8c13d98c857b2412d2ffda4cca21bb9.jpg)  
+图6河南、河北和山东农作物干旱面积与不同月份各时间尺度的SPEI序列的Pearson相关系数
+
+Fig.6Pearson correlation coeficients $( r )$ between monthly SPEI series at 1—12 month scales and drought area of Henan，Hebei and Shandong province
+
+# 3讨论
+
+(1)本文改用基于Penman-Monteith蒸散模型的 SPEI指数分析了黄淮海平原近52年来气象干旱的变化特征,指出黄淮海平原1963—2014 年干旱指数的变化趋势呈现明显的上升趋势,这与 Kai $\mathrm { X u }$ 等人[14]基于Penman-Monteith模型的 SPEI对我国1961—2012年的干旱变化趋势的研究结果一致,而与其他学者[10-12]采用原始 SPEI（用 $\mathrm { S P E I _ { \mathrm { T h } } }$ 表示,蒸散模型为Thornthwaite)指数对华北地区的干旱趋势结论有差异。Meixiu $\mathrm { Y u }$ 等人[10]对全国609个气象站点的 $\mathrm { S P E I _ { \mathrm { T h } } }$ 分析表明黄淮海地区特别是黄淮海北部呈现显著的干旱化趋势,周丹等[11]用同样的方法分析得出华北地区1962—2011年干旱强度加重、干旱频率上升结论,李伟光等[12]利用$\mathrm { S P E I _ { \mathrm { T h } } }$ 对中国干旱趋势的研究亦表明我国普遍存在干旱化的事实,西部、华北和东北地区干旱化最为显著。显然，不同的蒸散模型对SPEI指数的趋势变化产生了不同甚至反转的效果。
+
+研究指出,Thomthwaite 与Penman-Monteith 方法计算的潜在蒸散量在黄淮海地区的历史变化呈现出了两种相反的趋势,即 Thormthwaite 蒸散量呈显著上升趋势,而 Penman-Monteith 蒸散量呈显著下降趋势[14,24]。从SPEI计算过程中可以看出，干旱指数的变化趋势由降水量P和潜在蒸散量 $\mathrm { E T _ { 0 } }$ 共同决定，在相对干燥的黄淮海地区,潜在蒸散量 $\mathrm { E T _ { 0 } }$ 通常大于降水量P,SPEI指数的变化趋势由潜在蒸散量 $\mathrm { E T _ { 0 } }$ 主导[14]。因此,尽管该地区降水量呈波动下降[25],基于Penman-Monteith 蒸散模型的 SPEI仍呈湿润变化。另外,有报道指出采用 PDSI指标和标准化降水指数 SPI在华北地区的干旱趋势是呈暖干化趋势的[26-27],这主要是由于PDSI干旱指数其水分平衡中蒸散量的计算采用的是Thormthwaite 模型,该模型计算的潜在蒸散量呈上升趋势导致了干旱化趋势的出现,而SPI指数仅考虑降水的影响,该地区降水多年气候倾向率呈下降趋势,也导致了干旱化的趋势。
+
+目前,对基于两种潜在蒸散模型的 SPEI指数在我国的对比分析,不同学者得出较为一致的结论,即Penman-Monteith模型被认为是最具物理意义和最可靠的方法,并且经常用于对经验模型有效性的验证[24,28]。研究指出,由于Thormthwaite模型仅考虑温度变化对潜在蒸散发的贡献,舍弃了对蒸散有决定性作用的季节性要素,如风速、相对湿度、日照时数等,该模型在蒸散量较低的地区高估了 $\phantom { } { E T _ { 0 } }$ ,例如在我国东南地区,而在蒸散量较高的,如华北地区则低估了 $\mathrm { E T _ { 0 } }$ ,无法有效捕获潜在蒸散的空间分布和时间演变趋势,其在中国地区的有效性是值得怀疑的[24]。Penman-Monteith 公式综合考虑了热量和空气动力两个因子,在估算中国北方的潜在蒸散发时,辐射因子项和空气动力因子项的影响都不能忽视,并且随着气候变暖,其中空气动力因子对总潜在蒸散发贡献明显增加,特别是在北方地区[29]。刘珂和姜大膀[28]对比分析了基于两种潜在蒸散发算法的SPEI在中国地区的差异,指出由于空气动力项对冬、春季北方潜在蒸散发的贡献显著增加,基于Penman-Monteith公式的SPEI相对而言能更合理地描述干湿变化特征。Kai $\mathrm { X u }$ 等人[14」同样指出Thornthwaite模型过高估计了气温的影响。
+
+(2)本文结合历史灾情数据,首次分析了气象干旱指数与实际农业干旱灾情的关系。黄淮海平原降水主要集中在夏季(7—9月),空间分布呈南多北少的格局,因此该地区以春旱为主,秋旱频率也较高,对冬小麦生产影响较为显著。从水分收支的角度来看,农作物的实际可利用水量为有效降水 $( P e )$ 与实际蒸散发(ET)差额(Pe-ET)的累计值,因此基于潜在蒸散的 SPEI指数并不能够有效反映实际干旱情况。因此,想要进一步识别不同作物生长过程中的干旱特征,应从农业干旱的角度入手,在计算潜在蒸散量时订正为具体作物的实际蒸散量。研究中为了计算作物需水量,通常采用作物系数法对潜在蒸散量进行订正[30]。联合国粮农组织推荐了作物系数的计算方法和标准状态下（白天平均最低相对湿度 $45 \%$ ,平均风速 $2 ~ \mathrm { m / s }$ ,半湿润气候条件)各类作物的作物系数参考值,但由于作物系数受土壤、气候、作物生长状况和栽培管理方式等诸多因素影响,对FAO 推荐的作物系数应根据当地实际情况进行订正。
+
+# 4结论
+
+(1)蒸散模型改用 Penman-Monteith 公式后,4个时间尺度(1、3、6、12个月)的 SPEI指数在黄淮海平原均呈上升趋势,即与采用 Thormthwaite 蒸散模型的 SPEI趋于干旱化不同,新的干旱指数呈湿润的变化趋势。这主要是由于两种蒸散模型计算的 $\mathrm { E T _ { 0 } }$ 趋势差异导致的,基于Penman-Monteith公式的潜在蒸散量在黄淮海平原呈显著下降的趋势,与实际蒸发皿一致,即华北地区的"蒸发悖论”现象。
+
+(2)从干旱指数的历史演变来看,基于Penman-Monteith 蒸散公式的 SPEI指数对黄淮海平原典型干旱年份具有良好的适用性;黄淮海平原6个农业亚区的干旱频率年代际差异表现一致,均为1960s干旱发生频率最高,而 2000—2014 年最低;黄淮海平原干旱的发生具有明显的持续性特点,1960s干旱持续时间最长,而2000—2014年为历史最低。
+
+（3)本文利用Pearson相关分析首次探讨了气象干旱指数与农业实际干旱面积的关系,结果表明无论从相关方向还是相关系数的大小,SPEI指数对农业干旱面积的变化具有良好的表征能力,月值干旱指数 Dec-SPEI-12与河南、河北和山东三省的受灾、成灾和绝收面积相关系数绝对值最大。
+
+http://www.ecologica.cn
+
+# 参考文献（References）：
+
+[1」 Seneviratne SI. Climate science：historical drought trends revisited.Nature,2012,491(7424）：338-339.  
+[2］翟盘茂，章国材.气候变化与气象灾害.科技导报,2004，（7)：11-14.  
+[3］矫梅燕，周广胜，陈振林.农业应对气候变化蓝皮书：气候变化对中国农业影响评估报告(No.1).北京：社会科学文献出版社，2014：65-66.  
+[4]HeimJAvofetieuohtdineUitatetifeaeteoalty(8): 1149-1165.  
+[5] AlleyWM.Thealmerdroughtseverityindex：limitationsandassumptions.JoualofClimateandApliedMeteorology，984，23（）:1100-1109.  
+[6]McKeeB,DeskenNJKleistJerelatioshipofdroughtfrequencnduratontoiesales//Procedingsofte8thoferecApplied Climatology.Boston，MA，USA：American Meteorological Society，1993：179-183.  
+[7] Vicente-SeranoSMBegueriaS,Lpe-MorenoAmuiscalardroughtidexsensitivetoglobalwaming：thestadrdizedpiiatoevapotranspiration index.Journal of Climate,2010,23（7）：1696-1718.  
+[8]Vcente-eguerre-cJ，arepeorz-CevelJrejedLorenzoA.PefoaeofoghtdicsfolgicalgcluralddrolgicallcatisEartheractis）  
+[9]BegueraSteeaeigtorrddedeiatoerspie（S）viei，evapotranspirationmodels,tols，datasetsanddroughtmonitoring.InternationalJoualoflimatology，2014,34（1）：0-3023.  
+[10]YuMX,LiQF,HayesMJ，SvobodaMD,HeimRR.AredroughtsbecomingmorefrequentorsevereinChinabasedonthestandardizedprecipitation evapotranspiration index：1951-2010?.International Journal of Climatology，2014,34（3）：545-558.  
+[11]周丹，张勃，罗静，张春玲，安美玲，王东.基于SPEI的华北地区近50年干旱发生强度的特征及成因分析.自然灾害学报，2014，23(4):192-202.  
+[12］李伟光，易雪，侯美亭，陈汇林，陈珍莉.基于标准化降水蒸散指数的中国干旱趋势研究.中国生态农业学报,2012，20(5)：643-649.  
+[13]Ming B,Guo YQ,Tao HB,Liu G Z,Li S K,Wang P. $\mathrm { \ S P E I _ { P M } }$ -based research on drought impact on maize yield in North China Plain.Journal ofIntegrative Agriculture，2015，14(4）：660-669.  
+[14]XuK,angDWYangHB,LiZ,QinY,ShenY.Spati-temporalvarationofdroughtinChinaduring196-012：aclimaticperspective.Journal of Hydrology，2015,526:253-264.  
+[15］谢家泽，陈志恺.中国水资源.地理学报，1990，45(2)：210-219.  
+[16] 李翔翔，居辉，严昌荣，刘勤，李迎春.1961-2013年黄淮海平原降蒸差的时空变化特征.中国农业气象，2015，36(3)：254-262.  
+[17] 高歌，许崇育.1961-2010年中国十大流域水分盈亏量时空变化特征.地理学报，2015，70(3)：380-391.  
+[18] 刘巽浩.农作制与中国农作制区划.中国农业资源与区划，2002，23(5)：11-15.  
+[19] WorldMeteorolgicalOrganatioWordeteorologicaloanzatiotechcaleportWO-9；stadadedprecipiatioindeuseride.Geneva，Switzerland：WMO,2012.  
+[20]魏凤英.现代气候统计诊断与预测技术(第二版).北京：气象出版社，2007：55-56.  
+21]Pperoufafdasaefagricultural drought risk assessment inthe Czech Republic.AgriculturalandForest Meteorology,2O15,202：26-38.  
+[22］荣艳淑.华北干旱.北京：中国水利水电出版社，2013：74-84.  
+[23］徐建文，居辉，刘勤，李迎春.黄淮海平原典型站点冬小麦生育阶段的干旱特征及气候趋势的影响.生态学报，2014，34（10)：2765-2774.  
+[24]ChenDLGaoG,XuCY,GuoJ,RenGYComparisonoftheTothwaitemethodandpandatawiththeadardeman-Monteithtiatesof reference evapotranspiration in China. Climate Research,20o5,28(2）：123-132.  
+[25］马洁华，刘园,杨晓光，王文峰，薛昌颖，张晓煜.全球气候变化背景下华北平原气候资源变化趋势.生态学报，2010，30（14)：3818-3827.  
+[26]ZhaiJQDaVee,GC,gTSitorsiSesdelato10 large regions of China.Journal of Climate，2010,23(3）：649-663.  
+[27]MaZG,FuCSoeevideefdgredoverortheCinafr95toO.ChnseSieceBltiO,（3）：925.  
+[28] 刘珂，姜大膀.基于两种潜在蒸散发算法的 SPEI对中国干湿变化的分析.大气科学,2015，39(1)：23-36.  
+[29] 刘园，王颖，杨晓光.华北平原参考作物蒸散量变化特征及气候影响因素.生态学报，2010,30(4)：923-932.  
+[30] 刘钰.对FAO 推荐的作物系数计算方法的验证.农业工程学报，2000，16(5)：26-30.

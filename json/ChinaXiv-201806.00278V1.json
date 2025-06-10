@@ -1,0 +1,486 @@
+[
+    {
+        "type": "text",
+        "text": "一种全天相机云图的自动处理方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "魏诗雅1，邱波1\\*，曹子皇²，范晓东¹，刘园园¹，穆永欢1(1.河北工业大学，天津300401；2.中国科学院国家天文台，北京 100012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：使用全天相机拍摄云图是现在天文学界广泛使用的监测天空云量的方法，之后对云量的估算结果将对望远镜观测有重要的影响。目前对云量的估算仍然是完全由人工处理，费时费力而且准确度不够高，判别过程也完全依赖个人的经验。为此，本文提出一种针对全天相机云图的云量自动计算方法。该方法首先针对多云和少云云图分别使用时间分割法和差分法去除云图中月亮影响区域，然后对去除月亮影响区域后的多云云图进行二值化处理将云与背景进行分割，并使用基于灰度值的聚类算法对少云云图的云的厚薄进行量化分类，最后计算总云量并依据30 米口径望远镜(ThirtyMetersTelescope,TMT)判读全天相机云图的方法对云图进行自动分类。实验结果表明，该方法可大大提高云图判读效率，在有效解放人工的同时，也达到了平均值为 $7 6 . 6 7 \\%$ 较高的识别准确率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词全天相机云图；云量；TMT; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P183.4",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对云的观测与分析是研究大气各种特性的重要手段之一，也是天文观测中不可或缺的一步。比如在天文台选址工作中，只有那些全年云图中晴天多的地方才是合适的台址。天文观测中一般使用全天相机[对天空进行拍照，从而获得云图；然后对云图中的云彩占天空的面积比例（云量）进行估算。在云量估算过程中，按照TMT判读全天相机的方法：分别在天顶距 $4 4 . 7 ^ { \\circ }$ 和 $6 5 ^ { \\circ }$ 处画圆，在图1中用蓝色和绿色标注，将全天云量分为：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Clear:外圈以内无云  \nOuter：内圈无云，外圈到内圈之间有云Inner:内圈有云  \nCovered:外圈以内厚云覆盖超过 $5 0 \\%$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在历史文献中也出现过一些自动处理云图的方法，但没有一种是根据TMT的原则进行自动计算的。这些自动处理云图的工作包括两个方面：第一，云状的分类。通过提取云的颜色、纹理、位置等特征对卷云、层云、积云等云状进行识别，进而可对天气状况做出快速准确的判断与预测[2]；第二，云量的观测。目前，云量观测主要通过遥感成像或者红外成像仪器观测来完成。周文君[3等人通过对全天空成像仪重新选定红蓝比阈值进行云量计算，实现白天全天空云量的持续自动监测。陈磊[4等基于全天空红外成像仪获取图像，利用统计晴空阀值对图像进行云像素识别和总云量计算。胡树贞[5等人通过地基红外云仪，获取全天空红外辐射亮温图像，并利用阈值分割方式得出全天空云分布及云量信息，有效减少地面环境参数及太阳光照对云图的影响，能够全天实时运行。CazorlaA[等人利用一种基于优化的神经网络分类程序和遗传算法的方法将云图中分为晴空和两个云类：薄云和不透明的云，该方法对薄云检测正确率只有 $6 1 \\%$ ；Li[7]等人提出了基于MAP-MRF框架的薄云检测算法，将综合特征和空间上下文信息考虑在内，在云检测方面有所提高但是部分云图受光照影响较大。因此本文在实现云量自动计算的过程中，主要针对云图中存在月光影响的云检测和不同厚度云层分类进行了研究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的是如何根据TMT的方法进行云量的自动计算与云图分类。云图的处理流程如图2所示，首先针对多云和少云云图分别使用时间分割法和差分法去除云图中月亮影响区域，然后对去除月亮影响区域后的多云云图进行二值化处理将云与背景进行分割，并使用基于灰度值的聚类算法对少云云图的云的厚薄进行量化分类，接着分别对多云和少云云图计算总云量，最后依据TMT判读云图的方法对云图进行自动分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "云图读取t 云图预处理t 月亮影响区 云量的计算及域的去除t 云图的分类t",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1云图预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于云图数据类型多变，需先对样本数据进行预处理，提高算法鲁棒性和云量计算的精确度。云图预处理主要包括云图增强和云图的预分类两部分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 云图增强 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了提高处理的正确率，图像增强很重要。本文中进行图像增强的方法为形态学中的高低帽法错误!未找到引用源。。其中，高帽变换的特性主要是高通滤波，由此可突出云的灰度峰值，从而增强了云图中云的边界信息；低帽变化的主要功能是检测云图中的低谷，强调了距离较近或范围较小的目标云的界限，使之不易被忽略。二者的结合可以使图像中的前景与背景在灰度方面被进一步的拉开，既突出了细节信息，又强调了边缘信息，提高了图像的对比度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "高帽运算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { h a t } ( f ) = f - ( f \\circ b )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "低帽运算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { h a t } ( f ) = ( f \\bullet b ) - f\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $f$ 为原图，0表示开运算， $\\cdot$ 表示闭运算，b为预先确定的形态学算子，在本算法中b是半径为5个像素点的圆盘。图3中左图为原图，右图为增强后的云图，可以看出右图中云的边界和小块薄云得到了明显增强。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/342bf7e4893cd31671e3bd93ee55053dca8bb2f4f0335a987362ca579d1675ee.jpg",
+        "img_caption": [
+            "图2云图处理流程图",
+            "Fig.2cloud images processing flow chart ",
+            "图3云图增强",
+            "Fig.3Cloud images enhancement "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2云图预分类 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文中的180张云图数据是由佳能550D相机以及佳能E $\\mathrm { ~ F ~ } 8 \\ : \\mathrm { m m } \\ : \\mathrm { f } 2 . 8$ 鱼眼镜头构成的全天相机连续两天内拍摄采集的。其曝光时间为60秒，时间间隔为5分钟保持恒定。由于不同云图中月亮对云的影响各不相同，少云云图中的云与月亮边界能被清晰地分割识别，而多云云图中的月亮部分或者完全被云覆盖，影响了月亮与云的区分。因此需将180张云图分为多云和少云两类，提高云图处理的精度。由图4中多云状态(a)和少云状态(b)对比可以看出，在100到150的灰度范围内(a)明显比(b)的数值高，在0到50的灰度范围内(a)的数值低于(b)。利用这一特点对所有云图进行分类。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d35a0925da121dcaa52f04b5c46214f84b9f3ed35cfad8d5d2e7a9ac063eccd7.jpg",
+        "img_caption": [
+            "图4多云和少云云图直方图对比",
+            "Fig.4Histogram comparison of cloudy and less cloud images "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a）为多云云图的原图和直方图，(b)为少云云图的原图和直方图 (a）shows theoriginalcloudyimageand its histogram,(b)shows theoriginal less cloud images and its histogram ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2云图中月亮影响区域的去除",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过云图预处理，云的边界得到明显的增强。然而受到月光影响，月亮影响区域与云的灰度值极为相近，容易将月亮的影响区域误判为云，因此本文分别采用时间分割法和差分法对月亮影响区域进行了去除处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1时间分割法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "时间分割法是利用某些运动的物体在相邻帧里灰度值变化不大的原理，在连续拍摄的图片中识别出该物体与其运动轨迹。尤其在云图中，月亮的移动速度远低于云的移动速度。本研究中利用云图时间上的连续性，在云图中判断目标云图与其邻近30张云图中某点的灰度值大小。步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）月亮区域点：判断目标云图中某点的灰度值与其邻近的30张云图中对应点的灰度值差值的绝对值是否小于某一固定阈值。当目标云图中该点灰度值较大且与邻近至少30张云图中对应点的灰度值差值的绝对值均小于某一分割阈值时，则该点可能为月亮中的一点，如式(3)所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( x , y ) = { \\begin{array} { l } { \\left\\{ 1 , { \\dot { z } } { \\dot { z } } { \\big | } I ( t ) - I ( t - 1 ) { \\big | } > T \\right.} \\\\ { 0 , o t h e r s } \\end{array}  }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $I ( t )$ 和 $I ( t - I )$ 是连续拍摄的云图， $\\mathbf { \\chi } _ { t }$ 为拍摄时间， $D ( x , y )$ 是指连续拍摄的云图之间的差分云图， $T$ 是经过观察后选取的分割阈值。当 $I ( t )$ 与 $I ( t - I )$ 相减的绝对值大于所选的 $T$ 时，$D ( x , y ) { = } I$ ，即该差分云图为月亮，反之 $D ( x , y ) { = } 0$ ，该差分云图为背景天空。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）月亮边界点：检查该点的灰度值是否在目标云图该点位置局部范围内取得极大值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当该点灰度值取得极大值时，则该点是月亮中的一点，并将其灰度值置0;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)对目标云图中所有点依次进行以上处理，直到将月亮识别出来。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过时间分割法处理后的云图中，月亮能得到很好的去除，但是由于月光影响使得月亮周围的灰度值较大的区域仍然存在。云图二值化后，在少云云图中该高亮区域易被误判为云；而在多云云图中由于月亮周围被云覆盖，相应的月光影响被云抵消，云与背景天空的的分割效果较好，因此该方法相对适合处理多云云图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2差分法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图像的减法运算也称为差分方法错误!未找到引用源。，常用于检测相同场景下图像之间的差异。将差分法应用于云图的处理，利用两幅云图相邻时间段内月亮位置的不变性，将月亮及月光影响区域去除。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过对全天相机云图的观察，月亮在连续40分钟之内位置的变化可以忽略不计。因此首先利用云图采集的时间信息，从可用云图中筛选出某天的零点到上午6点30分之间，两两间隔约为40分钟的10幅有月无云的云图，称之为背景图。其它的180张云图为连续两天拍摄的，拍摄时间也为零点到上午6点30分，称之为原图。对原图和背景图进行预处理之后，将相同时间段内的原图与背景图进行减运算，可以很好地去除了月亮影响区域，并将云从背景天空中分割出来，如图5所示。从图5中可以看出，当云图中月亮未被云覆盖且清晰可见时，利用差分法处理效果较好，因此该方法适合处理少云云图。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/87e0b1f2252e2e6db0bf09f570cb406b0cc436dd649b43c3bd6e34c10682aa1b.jpg",
+        "img_caption": [
+            "Fig.5Difference method for processing results "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a）为原图，(b)为背景图，(c）为去除月亮后的结果图 (a）shows original image,(b）shows background image,(c）shows the result after removing moon ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3不同云图处理效果对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对少云和多云云图分别使用差分法和时间分割法，从图6和图7中可以看出差分法不仅去除了月亮影响区域，也将云从背景天空中分割出来；时间分割法处理多云云图，能很好地去除未被云遮盖的月亮影响区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cecdc7ca9eb1e26762c989859a3eb06b679b09707a6bc3738bce2db3705e1c18.jpg",
+        "img_caption": [
+            "图5差分法处理结果",
+            "图6差分法去除月亮"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)、(b)、(c）为原图，(d)、(e)、(f)为差分法处理少云云图",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a),(b),(c）shows theoriginalimage,(d),(e),(f)showstheresultofthediference methodforprocessinglessclouds ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/eadb25d84db7a0730f4dc73e065f91d25e54a32031062989459e6b0cf5234fa2.jpg",
+        "img_caption": [
+            "Fig.6Difference method to remove the moon ",
+            "图7时间分割法去除月亮"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a)、(b)、(c）为原图，(d)、(e)、(f）为时间分割法处理多云云图",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a),(b),(c）shows theoriginalimage,(d),(e),(f)showstheresultofthediference methodforprocessnglessclouds ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3云量的计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "经过云图预处理和去除月亮影响区域后，有效地将云从背景天空中分割出来。因此接下来分别对多云和少云云图采用不同的方法进行云量的计算。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1少云云图云量的计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于少云云图中，由于云图中不同区域云的厚度差别较大，因此本研究基于灰度值利用K-Means[10]对云图中云的厚薄进行聚类分析。K-Means 聚类方法的基本思想是先随机选定k个聚类中心，计算每个样本聚类中心到新的聚类中心的距离，迭代计算直到群集中心的位移距离小于给定值为止。然后根据云图像素间的灰度值等特征方差，对云图像素样本进行聚类。相比于其它的聚类算法，K-Means 算法收敛速度快，聚类效果较优。本文根据聚类中心灰度值的大小将云分为4类，分别为天空、薄云、中层云和厚云，并通过调节迭代次数，观测云分类的效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c85a32242395308a8d58112882f755b32f47c048621b07f1714829f0fb23ec8.jpg",
+        "img_caption": [
+            "Fig.7Time Division method to remove the moon ",
+            "图8云层聚类结果",
+            "Fig.8 Cloud Clustering Results "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图8左边是原图，右边是聚类结果图，a、b、c、d四幅图的聚类中心的灰度值分别为36、71、0、104，对应着薄云、中层云、天空、厚云。其中聚类中心为0的结果图中，白色代表的背景天空，黑色代表有云的区域；其余的三幅云图白色为云，黑色为背景天空。通过分析云图中不同区域厚云、中层云和薄云的分布及云量的大小来判断云图的分类。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前国际上主要是针对卫星云图根据云检测得到的云像元，将云像元分为不同的种类，统计计算每种像元的概率，从而得到总云量。云量计算的方法主要有ISCCP、CLAVR-1、CLAVR-X、MODIS等。其中CLAVR-XI1是通过云检测的方法，将像元分为厚云、混合云、混合晴空、及晴空四种情况。由于该方法分类的比较细，因此本研究中通过改进CLAVR-X方法中的参数，并利用厚云、中层云、薄云、天空四种情况云量的加权和，得到少云云图的总云量。其中天空的云量为0，公式如下所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( c ) = \\frac { N _ { t h i c k \\_ c l o u d } + 0 . 9 N _ { m i d d l e \\_ c l o u d } + 0 . 6 N _ { t h i n \\_ c l o u d } } { N _ { t o t a l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式（4）中的 Nthick_cloud、Nmidle_cloud、 $\\mathrm { N _ { t h i n \\_ c l o u d } }$ 分别代表厚云、中层云、薄云的像素的个数， $\\mathbf { N } _ { \\mathrm { t o t a l } }$ 为区域内总的像素个数，f(c)为区域内的总云量。其中中层云和薄云的权重系数0.9和0.6是经过多次试验，与人工观测的结果对比研究得到的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2多云云图的云量计算 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于多云云图，由于云图中大部分区域被厚云覆盖，云与背景的灰度值差别较大，中层云和薄云云量较少，因此本研究将多云云图云层分为了厚云和天空两类。利用自适应阈值法中的Otsu 算法对去除月亮影响区域的多云云图进行二值化处理，将云与背景进行分割。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Otsu 算法利用的也是聚类的思想，把云图的灰度值按灰度级分成两类，使得两类间的灰度值差异最大，每类中的灰度差异最小，通过方差的计算寻找一个合适的阈值来分割云图。该算法计算简单，不受云图亮度和对比度的影响，鲁棒性较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后通过统计二值处理后的云图中所有的灰度值为1的像素点的个数，并根据式（5)计算总云量，公式如下所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( c ) = \\frac { N _ { c l o u d y } } { N _ { t o t a l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式（5）中的 $\\mathbf { N } _ { \\mathrm { c l o u d y } }$ 代表灰度值为1的像素点的个数， $\\mathbf { N } _ { \\mathrm { t o t a l } }$ 为区域内总的像素个数，f(c)为区域内的总云量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3结果讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为方法研究，针对180张云图首先进行人工分类以得到可对比的真实判别结果，其次使用本文提出的自动分类方法进行分类。最终以人工分类为准，得到每种分类结果的识别准确率，如表1所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f30744ed2fe2c2d094b764d3c68daf5ad39575883987d23909706aec98708a01.jpg",
+        "table_caption": [
+            "表1分类结果对比",
+            "Table1 Comparisonofclassificationresults "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>TMT分类法</td><td>Inner</td><td>Covered</td><td>Outer</td><td>Clear</td><td>总数（张）</td></tr><tr><td>人工观测分类结果（张)</td><td>82</td><td>52</td><td>8</td><td>38</td><td>180</td></tr><tr><td>自动识别分类结果（张)</td><td>106</td><td>46</td><td>12</td><td>16</td><td>180</td></tr><tr><td>判读正确的结果（张)</td><td>77</td><td>46</td><td>6</td><td>9</td><td>138</td></tr><tr><td>识别准确率（%)</td><td>0.9390</td><td>0.8846</td><td>0.75</td><td>0.2368</td><td>0.7667</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出，人工观测结果与自动识别的结果在Inner、Clear 和Outer三种类别中存在一定的误差。由于受到云图中星点和全天相机亚克力罩反光的影响，Outer 和Clear 类容易被误判为Inner类。其中有2张应为Outer类，被误判为Inner，如图9中的图(a)所示;有25张应为clear类，被误判为Inner，如图9中图(b)所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2945fe025186007cc51d70ed2adaa219b087ac84a3351970a9ec75eab174a698.jpg",
+        "img_caption": [
+            "图9云图结果分析",
+            "Fig.9Analysis of Cloud image results "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图(a)、(b)左图为原图，右图为自动检测结果。图(a)中内圈内的白点为星点，图(b)内圈内的白色区域为全天相机亚克力罩上的反光。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综上可知，本研究提出的自动处理云图的方法对于Inner、Covered类的识别率较高为$9 3 . 9 \\%$ 和 $8 8 . 4 6 \\%$ 。然而Inner、Outer和Clear类别的识别精度较低，容易受到噪声的影响。但是总体的自动识别率为 $7 6 . 6 7 \\%$ ，基本能够达到自动处理分类的效果。在判读速度方面，人工判读180张云图大约需要30分钟，而自动处理分类所需时间为2.1分钟，较人工判读速度大大提高，随着云图张数的增多，自动处理的时间优势也将更加明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文提出的自动处理分类的方法判读速度快，平均识别准确率较高。由于天文观测者在人工观测云量的过程中，对于Inner、Outer 和Clear三类没有给定一个量化的分类标准，因此自动处理分类结果相对于人工观测结果会存在一定的误差。但是根据TMT判读全天相机的分类结果中，各类别的平均识别准确率为 $7 6 . 6 7 \\%$ ，基本能够满足自动处理分类的效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文的创新点是实现了云图中月亮影响区域去除和云量的量化计算分类，有效缓解了人工判读云图类别的低效性。但是，目前云图数据量有限，本文仅对两天内的180张云图进行处理研究。由于是方法研究，虽然一些参数是固定的，但是在数据足够的情况下，这些参数如月亮检测阈值T可采用自适应最大方差阈值法确定；云量计算式的权重系数可通过统计不同厚度的云的灰度值，选用灰度百分比作为一个基本参数，其它参数都与此参数进行关联来确定。因此在接下来的研究中需要增加样本量且对云图中的不同噪声建立不同的模型，进行有效的识别去除。而且需要对强月光情况下Clear类被错分为Inner类的问题进行专门研究，以提高整体识别率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1] 彭焕文，辛玉新，和寿圣，等．丽江天文观测站全天相机介绍[J]．天文研究与技术, 2015, 12(1):89-95. Peng Huanwen, Xin Yuxin,He Shousheng, et al.An Introduction to the All-Sky Camera at the YNAOLijiang Astronomical Station [J]. Astronomical Research & Technology,2015, 12(1):89-95.   \n[2]Heinle A, Macke A, Srivastav A, et al. Automatic cloud classification of whole sky images [J]. Atmospheric Measurement Techniques Discussions, 2010, 3(3):557-567.   \n[3] 周文君，牛生杰，许潇锋，等．全天空成像仪云量计算方法的改进[J]．大气科学学报， 2014, 37(3):289-296. Zhou Wenjun, Niu Shengjie, Xu Xiaofeng,et al. Improvements of computational methods forcloud cover based on the total sky imager[J].Transactions of Atmospheric Sciences, 2014, 37(3):289-296.   \n[4] 陈磊，韩燕，秦方强，等．基于晴空阈值法的全天空红外图像云量计算[J].沙漠与绿洲 气象,2015,9(03):50-56. Chen Lei, Han Yan, Qin Fangqiang, et al. Total Cloud Amount Calculation Based on Clear Sky ThresholdUsing Whole Sky Infrared Images[J].Desert and Oasis Meteorology，2015, 9(03): 50-56.   \n[5]胡树贞，马舒庆，陶法，等．基于红外实时阈值的全天空云量观测[J]．应用气象学报， 2013，24（2）：179-188. Hu Shuzhen,Ma Shuqing, Tao Fa, et al. An Experiment Study of All-sky Cloud Amount ObservationBased on Infrared Real-time Threshold [J].Quarterly Journal of Applied Meteorology， 2013,24(2):179-188.   \n[6] Cazorla A, Olmo FJ, Aladosarboledas L, et al.Development of a sky imager for cloud cover assessment [J]. Journal of the Optical Society of America A Optics Image Science & Vision, 2008, 25(1):29-39.   \n[7]Li Q, Lu W, Yang J, et al. Thin Cloud Detection of All-Sky Images Using Markov Random Fields [J]. IEEE Geoscience & Remote Sensing Letters, 2012, 9(3):417-421.   \n[8] 朱士虎．形态学高帽变换与低帽变换功能扩展及应用[J]．计算机工程与应用，2011, 47(34):190-192. ZHU Shihu. Function extension and application of morphological top-hat transformation and bottom-hattransformation[J].ComputerEngineeringandApplications,2011, 47(34):190-192.   \n[9] 王恩旺，王恩达．改进的帧差法在空间运动目标检测中的应用[J]．天体研究与技术, 2016, 13(3):334-338. Wang Enwang,Wang Enda. application of an Improved Frame Diference Method in Space Moving Target Detection [J]. Astronomical Research & Technology, 2015,17(5):87-89.   \n[10] Arghavan Keivani， Jules-Raymond Tapamo， Farzad Ghayoor, et al. Motion-based movingobject detection and tracking using automatic K-means [J]. IEEE Africon 2017Proceedings,2017, 32-37.   \n[11] Maddy E S, King T S, Sun H, et al. Using MetOp-A AVHRR Clear-Sky Measurements to Cloud-Clear MetOp-A IASI Column Radiances [J]. Journal of Atmospheric and Oceanic Technol0gy, 2011, 28(28):1104-1116. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "An Automatic Processing Method for All-sky lmages ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Wei shiyal,Qiu bo, Cao Zihuang, Fan xiaodong,Liu yuanyuan, Mu Yonghuan (1.Hebei University of Technology,Tianjin,1Oo8O; 2.National Astronomical Observatory, Chinese Academy of Sciences，Beijing，100049) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In the astronomy field, the estimation of cloud amount has an important influence on telescope observation.To monitor the cloud amount, it is a widely method to use al-sky cameras to capture cloud images. At present, the estimation of cloud amount is still completely by man power, which is very time-consuming and inaccurate; and the process of discrimination is entirely dependent on personal experience. Therefore,this paper presents an automatic processng method for all-sky images.The method first uses time segmentation and difference method to remove the moon influence regions in the cloud images respectively. Then the cloud and background are segmented by threshold method of the cloudy image after the removal of the affected regions of the moon.The clustering algorithm based on gray value is used to quantify the thickness of clouds in partly cloudy images.Finally, the total cloud amount is calculated and the cloud images are automatically classified according to the method of interpreting the all-sky camera cloud images based on TMT(Thirty Meters Telescope). The experimental results show that this method can greatly improve the eficiency of cloud images interpretation, while effectively saves man power; it also achieves a high recognition accuracy of $7 6 . 6 7 \\%$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "key words: All-sky images; cloud amount; TMT; ",
+        "page_idx": 8
+    }
+]

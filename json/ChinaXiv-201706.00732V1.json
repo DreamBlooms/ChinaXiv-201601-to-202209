@@ -1,0 +1,732 @@
+[
+    {
+        "type": "text",
+        "text": "Finite Element Method Formulation in Polar Coordinates for Transient Heat Conduction Problems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Piotr Duda ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute ofThermal PowerEngineering,FacultyofMechanical Enginering,Cracow Universityof TechnologyAl.Jana Pawla II37,31-864 Cracow, Poland ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Theaimof this paper is the formulation ofthe finite element method in polar coordinates to solve transient heat conduction problems.It is hard to find in the literature a formulation of the finite element method (FEM) in polar or cylindrical coordinates forthe solution of heat transfer problems.This document shows how to apply the most often used boundary conditions.The global equation system is solved by the Crank-Nicolson method.The proposed algorithm is verified in three numerical tests.In the first example,the obtained transient temperature distribution is compared with the temperature obtained from the presented analytical solution.In the second numerical example,the variable boundary condition is assumed.In the last numerical example the component with the shape diferent than cylindrical is used.All examples show that the introduction of the polar coordinate system gives beter results than in the Cartesian coordinate system.The finite element method formulation in polar cordinates is valuable since it provides a higher accuracy of the calculations without compacting the mesh in cylindrical or similar to tubular components.The proposed method can be applied for circular elements such as boiler drums,outlet headers,flux tubes.This algorithm can be useful during the solution of inverse problems, which do notalow for high density grid.This method cancalculate the temperature distribution inthe bodies of different properties in the circumferential and the radial direction.The presented algorithm can be developed for other coordinate systems.The examples demonstrate a good accuracy and stability of the proposed method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: FEM,polar coordinate system, numerical methods,transient heat conduction,power boilers ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Solving of direct and inverse heat conduction problems in cylindrical coordinate systems has received considerable interest, because of its extensive industrial ap plicability in components,such as boiler drums,outlet headers,pipelines.A formulation of the control volume method in cylindrical coordinates to describe melting process is presented in [1]. Solution of the hyperbolic heat conduction problems in the cylindrical coordinate system by a hybrid Green's function method can be found in [2].Formulation of the control volume method for the solution of an inverse heat conduction problem in the steam header cross section is shown in [3].It is hard to find in the literature a formulation of the finite element method (FEM) in polar or cylindrical coordinates for the solution of heat transfer problems.Many finite element programs allow the geometry to be described in cylindrical or spherical coordinate systems,but the elements in these codes are usually formulated in Cartesian coordinates. Exceptions are axisymmetric finite elements. Some studies have been done for development of solid finite elements in spherical or cylindrical coordinates. Three-dimensional finite element analysis in cylindrical coordinates for nonlinear solid mechanics problems was presented in [4]. Full-vectorial FEM in a cylindrical coordinate system for loss analysis of photonic wire bends can be found in [5]. The aim of this paper is to: (a) describe the polar coordinate finite element formulation for transient heat conduction；(b） outline boundary condition formulations;and(c) show the effectiveness of the formulation for three selected problems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FormulationoftheFEM ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three-dimensional transient heat conduction analysis in many components of a power unit, such as: turbine housings,pipelines,boiler drums,headers is often conducted in the chosen cylindrical cross-section.Two-dimensional temperature distribution can be described in the polar coordinate system as $T ( r , \\theta , t )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The transient heat conduction equation can be written in the following matrix form [6] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc \\rho \\frac { \\partial T } { \\partial t } = - \\left\\{ g \\right\\} ^ { T } \\left\\{ \\dot { q } \\right\\} + q _ { V }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $c , \\rho$ are specific heat and density, $\\{ g \\}$ is the gradient column vector operator, $\\left\\{ \\dot { q } \\right\\}$ is the heat flux vector and $q _ { V }$ is the heat generation rate per unit volume. The term $\\left\\{ g \\right\\} ^ { T } \\left\\{ \\dot { q } \\right\\}$ should be understood as $\\nabla \\cdot \\{ \\dot { q } \\}$ ，where $( \\nabla \\cdot )$ is the divergence operator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The gradient vector operator in the polar coordinate system $( r , \\theta )$ has the form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ g \\right\\} = \\left\\{ \\begin{array} { c } { { \\displaystyle \\frac { \\hat { \\sigma } } { \\hat { \\sigma } r } } } \\\\  { \\displaystyle \\frac { 1 } { r } \\frac { \\hat { \\sigma } } { \\hat { \\sigma } \\theta } \\right\\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The heat flux vector $\\mathbf { q }$ is defined by Fourier's law ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\dot { q } \\} = - [ D ] \\{ g \\} T\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $[ D ]$ isthe conductivity matrix andin two-dimensional polar coordinates,it has the form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\boldsymbol { D } \\right] = \\left[ \\begin{array} { c c } { k _ { r } \\left( T \\right) } & { 0 } \\\\ { 0 } & { k _ { \\theta } \\left( T \\right) } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For isotropic material $k _ { r } \\left( T \\right) = k _ { \\theta } \\left( T \\right) = k \\left( T \\right)$ . All material properties $( c , \\rho , k )$ are assumed as known functions of temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transient heat conduction problems are initial-boundary problems for which one is required to assign appropriate initial and boundary conditions.Initial conditions, also called Cauchy conditions,are temperature values of a body at its first moment $t _ { 0 } = 0 ~ \\mathrm { s }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT \\left( r , \\theta , t \\right) \\Big \\vert _ { t _ { 0 } = 0 } = T _ { 0 } \\left( r , \\theta \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three the most often used boundary condition of 1st ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2nd and 3rd order can be assigned on the body's edge ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. T \\right| _ { T _ { T } } = T _ { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\left( \\left\\{ \\dot { q } \\right\\} ^ { T } \\left\\{ n \\right\\} \\right) \\right| _ { T _ { q } } = \\dot { q } _ { B }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big ( \\big \\{ \\dot { q } \\big \\} ^ { T } \\big \\{ n \\big \\} \\Big ) _ { \\Gamma _ { h } } = h \\Big ( T _ { m } - T \\big | _ { \\Gamma _ { h } } \\Big )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8a5a312cad3231d2490ec9be41318e64f86691eb25338160207904b2691bf4d7.jpg",
+        "img_caption": [
+            "Fig.1A diagram with different boundary conditions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\{ n \\}$ - unit outward normal vector to the boundary $T ,$ （204号 $T _ { b } -$ temperature set on the body boundary $\\textstyle { F _ { T } }$ ， （20 $\\dot { \\boldsymbol { q } } _ { B }$ - heat flux set on the body boundary $\\textstyle { \\boldsymbol { { \\cal { T } } } } _ { \\boldsymbol { q } }$ ， ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$h -$ heat transfer coefficient set on the body boundary $\\varGamma _ { h }$ ， ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$T _ { m } -$ temperature of a medium. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Initial-boundary problem (1,5-8） was formulated for the whole region $\\varOmega .$ Temperature can very in time and space and its distribution inside the finite element $\\varOmega ^ { e }$ is approximated by the following function ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT \\left( r , \\theta \\right) = \\sum _ { j = 1 } ^ { n } T _ { j } ^ { e } \\ N _ { j } \\left( \\xi , \\eta \\right) = \\left\\{ N \\right\\} ^ { T } \\left\\{ T ^ { e } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the number of nodes in the element, $T _ { j } ^ { e } \\mathrm { ~ - ~ }$ temperature in $j$ -node and $N _ { j } ( \\xi , \\ \\eta )$ the shape function (interpolationfunction), $\\{ T ^ { \\mathfrak { e } } \\}$ is the element nodal temperature vector, $\\{ N \\}$ is the shape function vector.For the four node quadrilateral element shape function vector is formulated as follow ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ N \\right\\} = \\left\\{ \\begin{array} { l } { { ( 1 - \\xi ) ( 1 - \\eta ) / 4 } } \\\\ { { ( 1 + \\xi ) ( 1 - \\eta ) / 4 } } \\\\ { { ( 1 + \\xi ) ( 1 + \\eta ) / 4 } } \\\\ { { ( 1 - \\xi ) ( 1 + \\eta ) / 4 } } \\end{array} \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The time derivative of equation(9) has the form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial T \\left( r , \\theta \\right) } { \\partial t } = \\dot { T } \\left( r , \\theta \\right) = \\sum _ { j = 1 } ^ { n } \\dot { T } _ { j } ^ { e } N _ { j } \\left( \\xi , \\eta \\right) = \\left\\{ N \\right\\} ^ { T } \\left\\{ \\dot { T } ^ { e } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The temperature gradient vector $\\nabla T$ inside the element $\\varOmega ^ { e }$ can be calculated from the following equation ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ g \\} T = \\big [ B \\big ] \\big \\{ T ^ { e } \\big \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $[ B ]$ is the $2 \\times 4$ matrix,which contains partial derivatives of the shape functions with respect to the global $r$ and $\\theta$ directions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\big [ } B { \\big ] } = { \\big \\{ } g { \\big \\} } { \\big \\{ } N { \\big \\} } ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Evaluating the $[ B ]$ matrix from this equation can be problematic,because the shape function vector $\\{ N \\}$ is defined in the normalize local coordinate system $( \\xi , \\eta )$ presented in Fig.2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/09c08dacd2fd057d5c2b10b87b00211da2358334d57802ffbd5e16a67cef4413.jpg",
+        "img_caption": [
+            "Fig.2Four node quadrilateral finite element in global and normalize local coordinates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is better to use the following equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\big [ } B { \\big ] } = [ J ] ^ { - 1 } \\left[ D E R \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the matrix $[ D E R ]$ contains derivatives of shape functions with respect to normalize local coordinates $( \\xi , \\eta )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ D E R \\right] = \\left[ \\begin{array} { l l l } { \\displaystyle \\frac { \\hat { \\alpha } N _ { 1 } } { \\partial \\xi } } & { \\displaystyle \\frac { \\hat { \\alpha } N _ { 2 } } { \\partial \\xi } . . . . . . } & { \\displaystyle \\frac { \\hat { \\alpha } N _ { n } } { \\partial \\xi } } \\\\ { \\displaystyle \\frac { \\hat { \\alpha } N _ { 1 } } { \\partial \\eta } } & { \\displaystyle \\frac { \\hat { \\alpha } N _ { 2 } } { \\partial \\eta } . . . . . . } & { \\displaystyle \\frac { \\hat { \\alpha } N _ { n } } { \\hat { \\alpha } \\eta } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$[ J ]$ is the transformation matrix between the global $( r ,$ $\\theta _ { }$ and the normalize local $( \\xi , \\eta )$ coordinate system presented in Fig.2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ J \\right] = \\left[ \\begin{array} { c c } { \\displaystyle \\hat { \\frac { \\partial r } { \\partial \\xi } } } & { r \\displaystyle \\frac { \\partial \\theta } { \\partial \\xi } } \\\\ { \\displaystyle \\hat { \\frac { \\partial r } { \\partial \\eta } } } & { r \\displaystyle \\frac { \\partial \\theta } { \\partial \\eta } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $r$ can be calculated inside the element by multiplying the shape function vector $\\{ N \\}$ and the vector of radialcoordinatesofelementnodes ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = \\left\\{ N \\right\\} ^ { T } \\left\\{ { r _ { 1 } } \\atop { r _ { 2 } }  \\\\ { \\qquad r _ { 3 } \\left[ \\begin{array} { c } { \\qquad } \\\\ { \\qquad } \\\\ { \\qquad } \\\\ { \\qquad } \\\\ { \\qquad } \\\\ { \\qquad } \\\\ { \\qquad } \\end{array} \\right] } \\right. \\nonumber\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The partial derivatives of $r , \\theta$ , in respect to $\\xi , \\eta$ can be found by differentiation of coordinates expressed through shape functions and nodal coordinate values: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\frac { \\partial r } { \\partial \\xi } { = } \\sum \\frac { \\partial N _ { i } } { \\partial \\xi } r _ { i } } & { \\frac { \\partial \\theta } { \\partial \\xi } { = } \\sum \\frac { \\partial N _ { i } } { \\partial \\xi } \\theta _ { i } } \\\\ { \\frac { \\partial r } { \\partial \\eta } { = } \\sum \\frac { \\partial N _ { i } } { \\partial \\eta } r _ { i } } & { \\frac { \\partial \\theta } { \\partial \\eta } { = } \\sum \\frac { \\partial N _ { i } } { \\partial \\eta } \\theta _ { i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using the principle of virtual temperatures the set of equations（1） and(5-8) can be reduced to the following set of equations [7] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big [ M ^ { e } \\Big ] \\Big \\{ \\dot { T } ^ { e } \\Big \\} + \\Big ( \\Big [ K _ { c } ^ { e } \\Big ] + \\Big [ K _ { h } ^ { e } \\Big ] \\Big ) \\Big \\{ T ^ { e } \\Big \\} = \\Big \\{ F _ { \\mathscr { Q } } ^ { e } \\Big \\} + \\Big \\{ F _ { q } ^ { e } \\Big \\} + \\Big \\{ F _ { h } ^ { e } \\Big \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big [ M ^ { e } \\Big ] = \\int _ { \\Omega ^ { e } } \\rho c \\big \\{ N \\big \\} \\big \\{ N \\big \\} ^ { T } d \\xi d \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big [ K _ { c } ^ { e } \\Big ] = \\int _ { \\Omega ^ { e } } \\big [ B \\big ] ^ { T } \\big [ D \\big ] \\big [ B \\big ] d \\xi d \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\biggl [ K _ { h } ^ { e } \\biggr ] = \\int _ { \\Gamma _ { \\alpha } ^ { e } } h \\big \\{ N \\big \\} \\big \\{ N \\big \\} ^ { T } d s\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ F _ { Q } ^ { e } \\right\\} = \\int _ { \\Omega ^ { e } } \\dot { q } _ { \\nu } \\left\\{ N \\right\\} d \\xi d \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big \\{ { \\cal F } _ { q } ^ { e } \\Big \\} = \\int _ { \\stackrel { { \\scriptstyle \\dot { \\cal T } _ { e } ^ { e } } } { \\scriptstyle \\eta _ { q } ^ { e } } } \\dot { g } _ { B } \\big \\{ { \\cal N } \\big \\} d s\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big \\{ F _ { h } ^ { e } \\Big \\} = \\int _ { \\Gamma _ { h } ^ { e } } h T _ { m } \\big \\{ N \\big \\} d s\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If a convective boundary condition occurs at the edge 1-4 (Fig.2), Eq. (22) has the form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\left[ K _ { h } ^ { e } \\right] = \\int _ { - 1 } ^ { 1 } h \\cdot \\left\\{ N ( \\xi = - 1 ) \\right\\} } } . } } \\\\ { { { \\displaystyle { \\left\\{ N ( \\xi = - 1 ) \\right\\} ^ { T } \\sqrt { \\left( \\frac { \\partial r } { \\partial \\eta } \\right) ^ { 2 } + \\left( r \\frac { \\partial \\theta } { \\partial \\eta } \\right) ^ { 2 } } d \\eta } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\frac { \\hat { \\sigma } r } { \\hat { \\sigma } \\eta }$ and $r \\frac { \\hat { \\sigma } \\theta } { \\hat { \\sigma } \\eta }$ are components of the transformation 1 （204号   \nmatrix presented in eq.(16) [12]. The matrix $\\left[ K _ { h } ^ { e } \\right]$ for   \nplane elements can be approximated as a diagonal matrix,   \nwith the diagonal terms defined as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\intop _ { - 1 } ^ { 1 } h \\cdot \\left\\{ N ( \\xi = - 1 ) \\right\\} \\sqrt { \\left( \\frac { \\hat { \\sigma } r } { \\hat { \\sigma } \\eta } \\right) ^ { 2 } + \\left( r \\frac { \\hat { \\sigma } \\theta } { \\hat { \\sigma } \\eta } \\right) ^ { 2 } } d \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Equation(19) can be simplified as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\Big [ } M ^ { e } { \\Big ] } { \\Big \\{ } { \\dot { T } } ^ { e } { \\Big \\} } + { \\Big [ } K ^ { e } { \\Big ] } { \\Big \\{ } T ^ { e } { \\Big \\} } = { \\Big \\{ } F ^ { e } { \\Big \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A generalized Crank-Nicolson method, also known as $\\theta$ method, can be applied to integrate numerically Eq.(28). Between the temperatures at the time $t ^ { n + 1 }$ and $t ^ { n } = n \\Delta t , \\gamma$ $n$ $\\mathbf { \\Psi } = 0 , 1 , \\dots$ the following dependence occurs ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ T ^ { e } \\right\\} ^ { n + 1 } = \\left\\{ T ^ { e } \\right\\} ^ { n } + \\left[ \\left( 1 - \\theta \\right) \\left\\{ \\dot { T } ^ { e } \\right\\} ^ { n } + \\theta \\left\\{ \\dot { T } ^ { e } \\right\\} ^ { n + 1 } \\right] \\Delta t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $0 \\leq \\theta \\leq 1$ . Eq.(29) is known as a generalized trapezoidal approximation [8].Eq. (28) can be written for $t ^ { n }$ and $t ^ { n + 1 }$ （204号 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big [ M ^ { e } \\Big ] \\Big \\{ \\dot { T } ^ { e } \\Big \\} ^ { n } + \\Big [ K ^ { e } \\Big ] \\Big \\{ T ^ { e } \\Big \\} ^ { n } = \\Big \\{ F ^ { e } \\Big \\} ^ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big [ M ^ { e } \\Big ] \\Big \\{ \\dot { T } ^ { e } \\Big \\} ^ { n + 1 } + \\Big [ K ^ { e } \\Big ] \\Big \\{ T ^ { e } \\Big \\} ^ { n + 1 } = \\Big \\{ F ^ { e } \\Big \\} ^ { n + 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first set of equations should be multiplied on both sides by $( 1 - \\theta )$ ，while the second by $\\theta$ .By adding the sides of equations(30) and(31) and after simple transformations one gets ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\left( \\left[ M ^ { e } \\right] + \\theta \\Delta t \\Big [ K ^ { e } \\Big ] \\right) \\left\\{ T ^ { e } \\right\\} ^ { n + 1 } = } } \\\\ { { \\left[ \\left[ M ^ { e } \\right] - \\left( 1 - \\theta \\right) \\Delta t \\Big [ K ^ { e } \\Big ] \\right] \\left\\{ T ^ { e } \\right\\} ^ { n } + } } \\\\ { { \\left( 1 - \\theta \\right) \\Delta t \\left\\{ F ^ { e } \\right\\} ^ { n } + \\theta \\Delta t \\left\\{ F ^ { e } \\right\\} ^ { n + 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If $\\theta \\ge 1 / 2$ , then the solution stability is ensured for the arbitrary time step $\\Delta t$ .However, time step $\\Delta t$ should be small due to the accuracy of temperature determination. In this paper, the unconditionally stable Crank-Nicolson method, was used assuming $\\scriptstyle \\theta = 1 / 2$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Analytical solution for one-dimensional transient temperature in a long pipe ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A long pipe with an inner radius $r _ { \\mathrm { i } }$ and an outer radius $r _ { \\mathrm { { o } } }$ has initial uniform temperature distribution of $T _ { 0 }$ Next. the inner and outer surfaces of the tube are exposed to surrounding media at constant temperature $T _ { m }$ and $T _ { a } ,$ respectively.Heat transfer coefficients on the inner and outersurfacesaredefined as $h _ { \\mathrm { i } }$ and $h _ { \\mathrm { o } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The presented initial-boundary problem can be described by the equations (1,5,8).Assuming that $q _ { V } { = } 0$ ，temperature independent material properties and $\\scriptstyle { T = T ( r , t ) }$ the set of equations (1,5,8) simplifies to ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc \\rho \\frac { \\partial T } { \\partial t } { = k \\frac { 1 } { r } \\frac { \\partial } { \\partial r } \\bigg ( r \\frac { \\partial T } { \\partial r } \\bigg ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT \\big ( r , t \\big ) \\Big | _ { t _ { 0 } = 0 } = T _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk { \\frac { { \\hat { \\sigma } } T } { { \\hat { \\sigma } } r } } { = } h _ { i } \\left( T - T _ { m } \\right) ~ { \\mathrm { o n } } ~ r { = } r _ { \\mathrm { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- k \\frac { \\hat { \\sigma } T } { \\hat { \\sigma } r } = h _ { o } \\left( T - T _ { a } \\right) \\mathrm { o n } r \\overline { { - r _ { \\mathrm { { o } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Applying the Laplace transform with respect to $t$ to the above equations, the solution can be written in the form [9] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c }  { { \\displaystyle T ( r , t ) = T _ { n } + ( T _ { o } - T _ { m } ) \\mathrm { \\frac { ~ h ( \\displaystyle { \\frac { r } { r _ { f } } } ) +  { \\frac { k } { k _ { i } r _ { i } } } } { h _ { i } ( \\displaystyle { \\frac { r _ { o } } { r _ { f } } } ) +  { \\frac { k } { k _ { i } r _ { i } } } +  { \\frac { k } { h _ { o } r _ { o } } }  } } } } \\\\  { { \\displaystyle \\pi \\sum _ { n = 1 } ^ { \\infty } ( { \\frac { \\displaystyle { ( T _ { n } h _ { i } - T _ { n } G _ { n } { h _ { o } } ) f ( \\mu _ { n } , r ) } +  { \\frac { k ^ { 2 } } { h _ { o } r _ { o } } } | ( \\mu _ { n } , r ) }   } } } \\\\  { { \\displaystyle   { \\frac { \\pi ^ { 2 } } { 2 } } \\sum _ { n = 1 } ^ { \\infty } { \\frac { \\displaystyle { \\mu _ { n } ^ { 2 } f ( \\mu _ { n } , r ) } +  { \\frac { k ^ { 2 } } { h _ { o } ^ { 2 } } ( \\mu _ { n } , r ) }  { e } ^ { - \\mathrm { a } \\mu _ { o } ^ { 2 } \\mu _ { o } ^ { 2 } } } } } } \\\\  { { \\displaystyle  { \\frac { \\pi ^ { 2 } } { 2 } } \\sum _ { n = 1 } ^ { \\infty } { \\frac { \\displaystyle { \\mu _ { n } ^ { 2 } f ( \\mu _ { n } , r ) } +  { \\frac { k ^ { 2 } } { h _ { o } ^ { 2 } } ( \\mu _ { n } ^ { 2 } + k ^ { 2 } \\mu _ { n } ^ { 2 } ) } } } } } \\\\ { { { \\displaystyle \\int _ { s _ { - } } ^ { r _ { o } } - T _ { o } f ( \\mu _ { n } , r ) \\eta d r d \\eta } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\textstyle { \\mu _ { n } }$ are the positive roots of the equation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\left[ h _ { i } J _ { 0 } \\left( \\mu _ { n } r _ { i } \\right) + k \\mu _ { n } J _ { 1 } \\left( \\mu _ { n } r _ { i } \\right) \\right] \\cdot } \\\\ & { \\left[ h _ { o } Y _ { 0 } \\left( \\mu _ { n } r _ { o } \\right) - k \\mu _ { n } Y _ { 1 } \\left( \\mu _ { n } r _ { o } \\right) \\right] } \\\\ & { - \\Big [ h _ { o } J _ { 0 } \\left( \\mu _ { n } r _ { o } \\right) - k \\mu _ { n } J _ { 1 } \\left( \\mu _ { n } r _ { o } \\right) \\Big ] \\cdot } \\\\ & { \\left[ h _ { i } Y _ { 0 } \\left( \\mu _ { n } r _ { i } \\right) + k \\mu _ { n } Y _ { 1 } \\left( \\mu _ { n } r _ { i } \\right) \\right] = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and $f ( \\mu _ { n } , r )$ and $G _ { n }$ are given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { f \\left( \\mu _ { n } , r \\right) = \\left[ h _ { i } Y _ { 0 } \\left( \\mu _ { n } r _ { i } \\right) + k \\mu _ { n } Y _ { 1 } \\left( \\mu _ { n } r _ { i } \\right) \\right] J _ { 0 } \\left( \\mu _ { n } r \\right) - } \\\\ { - \\left[ h _ { i } J _ { 0 } \\left( \\mu _ { n } r _ { i } \\right) + k \\mu _ { n } J _ { 1 } \\left( \\mu _ { n } r _ { i } \\right) \\right] Y _ { 0 } \\left( \\mu _ { n } r \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG _ { n } = \\frac { \\left[ h _ { i } Y _ { 0 } \\left( \\mu _ { n } r _ { i } \\right) + k \\mu _ { n } Y _ { 1 } \\left( \\mu _ { n } r _ { i } \\right) \\right] } { \\left[ h _ { o } Y _ { 0 } \\left( \\mu _ { n } r _ { o } \\right) - k \\mu _ { n } Y _ { 1 } \\left( \\mu _ { n } r _ { o } \\right) \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$J _ { 0 } ( \\mu r )$ is the Bessel function of the first kind of the zero order. $Y _ { 0 } ( \\mu r )$ is the Bessel function of the second kind of the zero order, $J _ { 1 } ( \\mu r )$ is the Bessel function of the first kind of the first order. $Y _ { 1 } ( \\mu r )$ is the Bessel function of the second kind of the first order. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Numerical examples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The outer and the inner radius of a long horizontal cylindrical header equals $r _ { \\mathrm { { 0 } } } \\mathrm { { = ~ 1 7 7 . 8 ~ [ m m ] } }$ and $r _ { \\mathrm { i } } = \\ 1 2 7 . 8$ $[ \\mathrm { m m } ]$ respectively. It is made of martensitic P91 steel. Thermal properties of the P91 steel are taken at the temperature of $1 0 0 \\ [ ^ { \\circ } \\mathrm { C } ]$ and are: $c { = 4 8 6 \\ [ \\mathrm { J / k g K } ] }$ ， $\\rho = 7 7 5 0$ $[ \\mathrm { k g / m ^ { 3 } } ] .$ ， $k { = } 2 9$ [W/mK]. An initial temperature of the header equals ${ \\cal T } _ { 0 } { = } 1 9 . 4 [ ^ { \\circ } \\mathrm { C } ]$ .Next, its inner and outer surfaces are exposed to the medium ${ \\cal T } _ { \\mathrm { m } } { = } 1 4 6 . 8 \\ [ ^ { \\mathrm { o } } \\mathrm { C } ]$ and ${ \\cal T } _ { \\mathrm { a } } { = } 1 9 . 4 ~ [ ^ { \\circ } { \\bf C } ]$ respectively. The heat transfer coefficients on the inner and outer surfaces are assumed as $h _ { \\mathrm { i } } = 2 0 0 0$ $[ \\mathrm { W / m } ^ { 2 } \\mathrm { K } ]$ and $h _ { \\mathrm { o } } { = } 2 [ \\mathrm { W / m } ^ { 2 } \\mathrm { K } ]$ based on research done [10].The transient temperature distribution is obtained from analytical solution presented in chapter 3.For the assumed data, the following six positive roots of Eq. (38) are obtained: $\\mu _ { 1 } = 2 2 . 7 1 9$ 0 $\\mu _ { 2 } = 7 7 . 1 7 4$ $\\mu _ { 3 } = 1 3 5 . 1 0 7$ $\\mu _ { 4 } =$ 195.327, $\\mu _ { 5 } = 2 5 6 . 6 2 6$ ， $\\mu _ { 6 } = 3 1 8 . 4 6 9$ .Temperature calculated from Eq.(37) is presented inFig.4 and Table1. Fig 4 shows temperature transients at the points P1 and P2. Location of these points is illustrated in Fig.3.Exact values of temperature after 1Oo [s] of the heating operation at selected five points through the wall thickness are presented in Table1 as ‘ $^ { \\cdot } T -$ exact\". ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Next, transient temperature distribution is calculated by FEM using the time step of $\\Delta t { = } 1$ [s]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "First, the header cross section is divided into four node quadrilateral finite elements formulated in Cartesian coordinates.The division into four elements across the wall thickness and four elements along the circumference is presented in Fig.3.The similar division into six finite elements along the circumference and three across the wall thickness is often proposed during the solution of inverse heat conduction problems in cylindrical elements. Further increasing of the grid density may lead to instability of the inverse solution [11]. The results obtained are marked in Table 1 as $^ { \\circ \\circ } T$ - num. Cart.\" ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Relative errors $E$ between the exact and the calculated by FEM temperature values are calculated as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\frac { \\left| T _ { e x } - T _ { F E M } \\right| } { T _ { e x } } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e74e1e9f0ef6e6f8802c55d9704debdf33e87c6806cf69b026d0a599329ee68.jpg",
+        "img_caption": [
+            "Fig.3Finite element discretization in Cartesian and polar coordinates, location of the points P1,P2,P3,P4,P5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2a904c7c5e720d294312b2d20c057ecd2fc0d1827cad2da2e0d0a6dde28bf1f.jpg",
+        "img_caption": [
+            "Fig.4A comparison between the exact temperature transients at points P1,P5 and the temperature transients calculated by FEMin Cartesian and polar coordinates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { \\mathrm { e x } }$ stands for the exact value and $T _ { \\mathrm { F E M } }$ for the calculated temperature.The maximum error occurs on the outer surface at the node P5 and equals after 100 [s] about $11 \\%$ .The relative error as the function of time on the inner and outer surfaces can be seen in Fig.5. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A significant increase in accuracy can be achieved by using quadratic quadrilateral element with eight nodes without changing the coordinate system ( $T$ - num. Cart. nl.).However, if the number of linear equations is to be maintained constant, the number of elements should be smaller. This results in the increase of the error close to the inner surface at the node P1. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The formulation of FEM in the polar coordinate system allows for the use of a linear four node quadrilateral finite element and allow to achieve better accuracy at all points (T - num. pol.). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/366d318a5789bf0ba5152edacd7d57e34e3cf6884db2e474b96c0510cc7163cf.jpg",
+        "img_caption": [
+            "Fig.5The relative error $E$ between the exact temperature transients at points P1,P5 and the temperature transients calculated by FEMin Cartesian and polar coordinates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To receive better accuracy in Cartesian coordinates thanin polar coordinates the mesh should be denser. The division into 16 elements across the wall thickness and 16 elements along the circumference is marked in Table 1 as‘T- num. Cart.fine mesh \".This discretization will be used in the next numerical example as an exact solution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the second numerical example the variable boundary condition is assumed to verify the proposed boundary condition formulation in the polar coordinate system. The 3rd kind boundary condition,presented in Eq.(8),is the most difficult to apply because it requires the definition of the matrix in Eq.(22) and the vector in Eq. (25). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The medium temperature inside the header is assumed to be constant $\\mathrm { T } _ { \\mathrm { m } } = 1 4 6 . 8 ~ [ ^ { \\circ } \\mathrm { C } [$ .The heat transfer coefficient on the inner surface is also constant in time but varies depending on the angle with the following function ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh \\left( \\theta \\right) = 1 6 5 0 - 1 3 5 0 \\cdot \\cos ( \\theta )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It means that $h$ at the highest point of the header equals $h ( \\theta { = } 1 8 0 ^ { \\circ } ) = 3 0 0 0 ~ \\mathrm { W / m ^ { 2 } K }$ and at the lowest point $h ( \\theta { = } 0 ^ { \\mathrm { o } } ) { = } 3 0 0 \\mathrm { W / m } ^ { 2 } \\mathrm { K }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The temperature obtained after 1Oo [s] of the heating operation at the same five points as in the first example is presented in Table 2.The results achieved by four node quadrilateral finite element in the polar coordinate system(T - num. pol.) are the most similar to the exact solution. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The last numerical example is intended to show that the proposed formulation of FEM in the polar coordinate system can also be applied to elements of shapes other than cylindrical. The geometry of the analyzed component in Cartesian and polar coordinates is presented in Fig.6.The proposed shape is similar to the geometry of the flux tube used during the identification of local heat flux to membrane water-walls in steam boilers [13]. The component outer surface is the same as in the previous examples,but the inner surface was moved $1 0 ~ \\mathrm { m m }$ up. The assumed boundary conditions are the same as in the second example. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results obtained in the polar coordinate system（T : num. pol.） are the most similar to the exact solution. Only on the outer surface at the point P5 the solution obtained by quadratic quadrilateral element is better. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The finite element formulation in the polar coordinate system for the solution of transient heat conduction problems has been presented. The proposed algorithm has been verified in three numerical tests.In the first example,the obtained transient temperature distribution is compared with the temperature obtained from the presented analytical solution. The solution improvement caused by the introduction of the polar coordinate system has been shown in time and the time of $1 0 0 ~ [ \\mathrm { s } ]$ has been chosen for the comparison of temperature values obtainedfromdifferentmethods. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/eddb562819306c8b83297c3918c78e1bd0e8cc16468ffa06c1a2369472d1f6bc.jpg",
+        "table_caption": [
+            "Table1Theexactand thecalculated temperatureafter1Oo[s]of theheating operationatfivepoints through the wal thickness of cylindrical component "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature location</td><td>P1</td><td>P2</td><td>P3</td><td>P4</td><td>P5</td></tr><tr><td>T - exact [C]</td><td>110.32</td><td>82.27</td><td>61.81</td><td>49.58</td><td>45.56</td></tr><tr><td>T - num. Cart. [°C]</td><td>110.46</td><td>84.66</td><td>65.73</td><td>54.35</td><td>50.61</td></tr><tr><td>T - num. Cart. nl. [C]</td><td>107.87</td><td>80.64</td><td>60.97</td><td>49.06</td><td>45.33</td></tr><tr><td>T- num. Cart. fine mesh [C]</td><td>110.27</td><td>82.29</td><td>61.89</td><td>49.69</td><td>45.69</td></tr><tr><td>T - num. pol. [°C]</td><td>110.21</td><td>82.08</td><td>61.50</td><td>49.16</td><td>45.13</td></tr><tr><td>Error E num. Cart. [%]</td><td>0.13</td><td>2.90</td><td>6.35</td><td>9.62</td><td>11.09</td></tr><tr><td>Error E num. Cart. nl. [%]</td><td>2.22</td><td>1.98</td><td>1.37</td><td>1.05</td><td>0.51</td></tr><tr><td>Error E num. Cart.Fine mesh [%]</td><td>0.05</td><td>0.03</td><td>0.13</td><td>0.23</td><td>0.29</td></tr><tr><td>Error E num. pol. [%]</td><td>0.10</td><td>0.23</td><td>0.51</td><td>0.84</td><td>0.94</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c0961b5d927e93980ea8b43bf58198afa6592dea9fc296d9512dfd39afa678d.jpg",
+        "table_caption": [
+            "Table2Theexactand thecalculated temperatureafter10o[s]of the heating operationatfivepoints through the wall thickness of cylindrical component with variable boundary condition. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature location</td><td>P1</td><td>P2</td><td>P3</td><td>P4</td><td>P5</td></tr><tr><td>T - exact [C]</td><td>104.23</td><td>77.51</td><td>58.27</td><td>46.87</td><td>43.15</td></tr><tr><td>T - num. Cart. [C]</td><td>105.11</td><td>80.30</td><td>62.31</td><td>51.56</td><td>48.07</td></tr><tr><td>T- num. Cart. nl. [C]</td><td>100.70</td><td>75.07</td><td>57.32</td><td>46.11</td><td>42.88</td></tr><tr><td>T - num. pol. [°C]</td><td>105.01</td><td>77.98</td><td>58.42</td><td>46.78</td><td>42.99</td></tr><tr><td>Error E num. Cart. [%]</td><td>0.84</td><td>3.60</td><td>6.92</td><td>10.00</td><td>11.41</td></tr><tr><td>Error E num. Cart. nl.[%]</td><td>3.39</td><td>3.14</td><td>1.64</td><td>1.62</td><td>0.62</td></tr><tr><td>Error E num. pol. [%]</td><td>0.75</td><td>0.61</td><td>0.26</td><td>0.19</td><td>0.36</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/30c28fb8e07b9774967653e12f04fdee02908d22154cd47dcb9f5994c0ca95e6.jpg",
+        "table_caption": [
+            "Table3Theexactand thecalculated temperatureafter1Oo[s]of the heating operation atfivepoints through the wal thickness of non-cylindrical component with variable boundary condition. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Temperature location</td><td>P1</td><td>P2</td><td>P3</td><td>P4</td><td>P5</td></tr><tr><td>T- exact[C]</td><td>104.28</td><td>77.12</td><td>57.67</td><td>46.14</td><td>42.20</td></tr><tr><td>T- num. Cart. [C]</td><td>105.25</td><td>79.71</td><td>61.18</td><td>50.00</td><td>46.05</td></tr><tr><td>T - num. Cart. nl. [C]</td><td>100.71</td><td>74.84</td><td>56.96</td><td>45.51</td><td>42.02</td></tr><tr><td>T - num. pol. [C]</td><td>105.12</td><td>77.44</td><td>57.46</td><td>45.51</td><td>41.44</td></tr><tr><td>Error E num. Cart. [%]</td><td>0.93</td><td>3.36</td><td>6.08</td><td>8.35</td><td>9.13</td></tr><tr><td>Error E num. Cart. nl. [%]</td><td>3.42</td><td>2.96</td><td>1.23</td><td>1.37</td><td>0.42</td></tr><tr><td>Error E num. pol.[%]</td><td>0.80</td><td>0.42</td><td>0.38</td><td>1.37</td><td>1.80</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d04ba48f20aea883cd71f745e2f7a79e2afbb6df8fe0367d62bde2df1e29fd6f.jpg",
+        "img_caption": [
+            "Fig.6Finite element discretization of the component in Cartesian and polar coordinates. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The maximum relative error of the temperature distri bution calculatedby FEM in Cartesian coordinates occurs on the outer surface and equals about $11 \\%$ .The proposed algorithm of FEM in the polar coordinate system allows to reduce the maximum relative error to about $1 \\%$ It has been presented that the introduction of the polar coordinate system gives better results than the use of higher-order elements,when the tasks with a similar number of equations are compared. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the second example,the variable boundary conditionhas beenassumed and the reduction of errorsis even greater, because of the higher circumferential heat flow thanin the previous example.Polar coordinates allow to model this phenomenon more correctly, than Cartesian coordinates.The last numerical example is the proof that the proposed algorithm can be applied not only to the cylindrical components. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FEM formulation in polar coordinates is valuable since it gives a higher accuracy of the calculations without compacting the mesh in solids of circular shapes. This method can be useful during the solution of inverse problems,which do not allow for high density grid. This method can calculate the temperature distribution in the bodies of different properties in the circumferential and the radial directions. The presented algorithm can be developed for other coordinate systems.The applicability of the proposed method has been demonstrated by a way of comparison with the results obtained from the analytical and numerical solution. The examples showed demonstrate a good accuracy and stability of the proposed method. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Yan Quanying, Shang Deku, Tan Heping, Zhao Yuzeng Two-dimensional mathematical model and numerical simulation describing the melting process of cylindrical basalt bed Journal of Thermal Science Volume:8,Issue: 4,December 1999, pp.262-269   \n[2]T.M. Chen,Numerical solution of hyperbolic heat conduction problems in the cylindrical coordinate system by the hybrid Green's function method, International Journal of Heat and Mass Transfer 53 (7-8) (2010) pp.1319- 1325.   \n[3]P. Duda, Numerical and experimental verification of two methods for solving an inverse heat conduction problem, International Journal of Heat and Mass Transfer 84 (2015) pp.1101-1112.   \n[4]K.T.Danielson,A.K.Noor, Three-dimensional finite element analysis in cylindrical coordinates for nonlinear solid mechanics problems,Finite Elements in Analysis and Design Volume 27, Issue 3,(1997) pp.225-249.   \n[5]K.Kakihara,N. Kono,K. Saitoh，M. Koshiba,Fullvectorial finite element method in a cylindrical coordinate system for loss analysis of photonic wire bends, Optics Express 14 Issue 23 (2006) pp.11128-11141.   \n[6]M.N. Ozisik, Heat Conduction, John Wiley & Sons, New York,1980.   \n[7]K.J.Bathe,Finite Element Procedures，Upper Saddle River, Prentice Hall 1996.   \n[8]I. M. Smith, D. V. Griffiths,Programming the finite element method, Wiley Chichester 1998.   \n[9]N. Noda, R.B.Hetnarski, Y. Tanigawa, Thermal Stresses. Lastran Corporation, Rochester 2000.   \n[10]J. Taler and P. Duda,Solving direct and inverse heat conduction problems, Springer-Verlag Berlin Heidelberg 2006.   \n:11]P. Duda, Inverse Method for Stress Monitoring in Pressure Components of Steam Generators,Transactions of the 17th International Conference on Structural Mechanics in Reactor Technology (SmiRT 17） Prague, Czech Republic, August 17-22, 2003,Paper # D05-6, pp. 1-8.   \n[12]L.Ronglina,N. Guangzhenga, Y. Jihuib,B-spline finiteelement method in polar coordinates,Finite Elements in Analysis and Design 28 (1998) pp.337-346.   \n'13]J. Taler,P. Duda,B. Weglowski, W. Zima, S. Gradziel,T. Sobota and D.Taler: Identification of local heat flux to membrane water-walls in steam boilers,Fuel 88 (2009) pp.305-311. ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "type": "text",
+        "text": "1 体外培养中硒对黄曲霉毒素 $\\mathbf { B } _ { 1 }$ 损伤凡纳滨对虾肝胰腺细胞的影响 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 李赵嘉　郭冉\\*夏　辉　申亮　解　伟　李垚　王美雪",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （河北农业大学海洋学院，秦皇岛066003）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4摘要：本试验旨在研究体外培养中硒（Se）对凡纳滨对虾（Litopenaeus vannamei）肝胰腺  \n5 细胞抗氧化能力的影响以及对黄曲霉毒素 $\\mathbf { B } _ { 1 } ( \\mathrm { A F B } _ { 1 } )$ 毒性的缓解作用。在体外培养肝胰腺细  \n6 胞的基础上，设定含不同浓度(0、0.15、0.30、0.45、0.60、0.75 μg/mL)Se 的培养液，研究  \n7 Se 对肝胰腺细胞抗氧化能力的影响；另用浓度为 $1 ~ 6 0 0 ~ \\mu \\mathrm { g / L }$ 的 $\\mathbf { A F B } _ { 1 }$ 侵染细胞，探究 Se 对  \n8號 AFBi毒性的缓解作用。结果表明：当Se 浓度处于 $0 { \\sim } 0 . 4 5 \\mu \\mathrm { g / m L }$ 时，随着 Se 浓度的增加，  \n9號 丙二醛（MDA）含量呈现降低趋势，但各个浓度之间并没有显著差异（ $P { > } 0 . 0 5$ )，过氧化氢  \n10 酶（CAT）、谷胱甘肽过氧化物酶（GSH- $\\mathbf { \\nabla \\cdot P X }$ ）活力随着Se 浓度的增加而增强，Se 浓度为0.45  \n11 $\\mu \\mathrm { g / m L }$ 时GSH $\\mathbf { \\cdot P x }$ 活力显著要高于其他浓度（除 $0 . 3 0 ~ \\mu \\mathrm { g / m L }$ ）时（ $. P { < } 0 . 0 5 )$ ；当 Se 浓度处于  \n12 $0 . 4 5 { \\sim } 0 . 7 5 ~ { \\mu } \\mathrm { g / m L }$ 时，随着MDA含量升高的同时CAT、GSH- $\\mathbf { \\cdot P x }$ 活力下降。当细胞受到浓度  \n13 为 $1 ~ 6 0 0 ~ \\mu \\varrho / \\mathrm { L }$ 的 $\\mathbf { A F B } _ { 1 }$ 侵染后，随着培养时间的增加，MDA含量表现一直升高的趋势，同  \n14 时CAT、GSH $\\mathbf { \\cdot P x }$ 活力都有一定程度的下降；当细胞受到浓度为 $1 6 0 0 ~ \\mu \\mathrm { g / L }$ 的 $\\mathbf { A F B } _ { 1 }$ 和浓度  \n15 为 $0 . 4 5 \\mu \\mathrm { g / m L }$ 的 Se 共同作用后，随着培养时间的增加，MDA含量有一定程度的改善，CAT、  \n16 GSH-Px 活力得到一定程度的恢复。由此可见，在体外培养条件下，浓度为 $0 . 4 5 ~ \\mu \\mathrm { g / m L }$ 的  \n17 Se 有利于提高凡纳滨对虾肝胰腺细胞的抗氧化能力，且在一定程度上能缓解 $\\mathbf { A F B } _ { 1 }$ 对肝胰腺  \n18 细胞的毒性作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：硒；黄曲霉毒素 $\\mathbf { B } _ { 1 }$ ；丙二醛；过氧化氢酶；谷胱甘肽过氧化物酶中图分类号：S917；S963 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "硒（Se）作为机体的一种必需微量元素，是谷胱甘肽过氧化物酶（GSH-Px）的中心元素，因此适量的 Se会提高该酶的活力，进而提升机体的抗氧化能力，清除体内因代谢而产生的过量氧离子，对细胞膜起到一定的保护作用[l。近几年有研究表明，Se 酶和含 Se 活性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "物质等 Se不同的功能形式，均可影响到机体的代谢、免疫调节、清除自由基等生理活动[2]。机体对于肿瘤的抵抗能力主要是来自抗氧化系统的抗氧化能力[3]，癌症患者因为体内微量元素代谢的失调以及免疫功能的紊乱，机体组织便会因为缺氧、器官衰变而产生大量的自由基与氧负离子，使抗氧化剂的活力受到一定的影响，特别是 $_ { G S H - P x }$ 的表达将被受到限制[2],当机体内的活性氧自由基（ROS）超过自身清除的能力时，便会使机体进入一种氧化应激状态[4],导致机体细胞受到自由基的氧化损伤，从而影响机体正常生理功能。研究认为，GSH-Px可以使过氧化氢、游离的脂质过氧化物发生降解，而 Se又是GSH $\\mathbf { \\cdot P x }$ 的中心元素，因此 Se对提高细胞的抗过氧化损伤能力有着非常重要的作用[5-6]。有试验表明，Se 可以减轻黄曲霉毒素 $\\mathbf { B } _ { 1 }$ （ $\\mathbf { A F B } _ { 1 }$ ）对肝脏脂质过氧化作用的影响，进而缓解由于脂质过氧化作用造成的DNA损伤和 $A F B _ { 1 }$ 的基因毒性[7]。  \n近几年，在水产养殖动物方面，对 Se 提高动物机体抗氧化能力的研究也有了一定的报道，例如：陈锋等8将添加 Se 的饲料饲喂凡纳滨对虾，结果显示对虾血清中超氧化物歧化酶（SOD）、GSH-Px 活力及总抗氧化能力（T-AOC）等抗氧化指标均有升高趋势；储霞玲等[9]研究表明，饲料联合添加 Se 和谷胱甘肽（GSH）后凡纳滨对虾的生长要好于不添加组；田文静[10]以含酵母硒的饲料饲喂中华绒螯蟹时发现，随着饲料中 Se 含量的升高，中华绒螯蟹肝胰腺和血清中GSH-Px 的活力呈现先升高后降低的趋势，而脂质过氧化产物丙二醛（MDA）的含量则是呈现先降低后升高的趋势；李小霞等[使用含有酵母硒的饲料饲喂凡纳滨对虾，结果显示各个试验组对虾肝胰腺中 SOD 活力、T-AOC 均高于对照组，MDA 含量均低于对照组，且当饲料中 Se含量为 $0 . 8 4 \\mathrm { m g / k g }$ 时对虾的增重率和特定生长率最大；当海鲈鱼饲料中 Se 含量达到 $0 . 4 ~ \\mathrm { m g / k g }$ 时其肝脏和血清中GSH-Px 的活力最高，且在 $0 { \\sim } 0 . 4$ （20mg/kg 范围内逐渐升高[12]。以上研究结果表明，饲料中适量的 Se 可以在一定程度上提高机体的抗氧化能力。  \nBoonyaratpalin 等[13]研究发现， $\\mathbf { A F B } _ { 1 }$ 可以使斑节对虾肝胰脏中贮存细胞萎缩，用含 100\\~2",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$5 0 0 ~ { \\mu \\mathrm { g / k g } } \\mathrm { A F B } _ { 1 }$ 的饲料饲喂8周后，肝胰腺出现病变，先发生萎缩性变化，再伤害小管上皮细胞，导致其坏死，当提高 AFBi浓度时，肝小管则严重退化；有学者在 $2 5 ~ { \\mu \\mathrm { g / k g } }$ AFB1下观察到了肝胰腺的组织病变损害现象，且随 $\\mathbf { A F B } _ { 1 }$ 浓度的升高该损害程度加重[14]；也有研究表明发病的严重与否和剂量、时间有着密切的联系，炎症初期管腔间质中会出现血细胞浸润，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "进而会发展为纤维变性和组织坏死及其边缘肝小管细胞坏死，并且会改变肝胰脏管道结构，直接影响肝脏的吸收、贮存和分泌功能，结果导致脏器发生严重炎症和萎缩，并失去正常机能[15]。AFBi属于肝毒素，可以引起肝癌、肝细胞凋亡等，虾体内ROS 的产生可以引起细胞的凋亡，而过氧化氢酶（CAT）、SOD 等抗氧化酶可以通过清除 ROS 来阻止细胞的凋亡;同时，GSH含量常常和细胞凋亡呈负相关，而 $\\mathbf { A F B } _ { 1 }$ 可以降低GSH含量，从而进一步促进细胞的凋亡。AFBi引发细胞凋亡实质是破坏细胞的膜结构，如近球上皮细胞、肝实质细胞，AFBi裂解肝脏及肿瘤坏死基因- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）信号通路中的网状细胞，导致细胞缩水、膜水泡等形态变化[16]。  \n目前， $\\mathbf { A F B } _ { 1 }$ 对对虾肝胰腺氧化损伤的研究大都停留在宏观及现象观察水平，对微观水平的病理变化，特别是AFBi导致对虾肝胰腺氧化损伤的机理研究，迄今为止，国内外尚未见系统研究报道。因此，本试验着重从细胞水平研究 $\\mathbf { A F B } _ { 1 }$ 对凡纳滨对虾肝胰腺细胞抗氧化能力的影响，以便更好地控制 AFBi导致的对虾肝胰腺损伤，同时也力求找到饲料中适宜的Se含量，以缓解 $\\mathbf { A F B } _ { 1 }$ 对对虾的毒性作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验虾的来源及饲养",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "凡纳滨对虾虾苗购自于河北省沧州市黄骅鑫海生物技术公司，用随机抽样方法选出长势良好且健壮无病、平均体重为（ $0 . 3 0 { \\scriptstyle \\pm 0 . 0 2 }$ ） $\\mathrm { \\bf ~ g }$ 的虾苗，试验开始前将所选凡纳滨对虾放入实验室的水族箱内，以配合饲料作为饲料饲养8周后取肝胰腺细胞离体培养进行试验研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 药品及仪器",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M199 培养基（Gibco）、胎牛血清（Solarbio）、青链霉素（ $1 0 0 \\times$ ，Solarbio）、 $\\mathbf { A F B } _ { 1 }$ 纯品（Sigma）、磷酸盐缓冲（PBS）溶液、亚硒酸钠、24孔细胞培养板、显微镜、蒸汽灭菌锅、制冰机、超净工作台等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "培养液配制：在9mLM199培养基中加入 $1 ~ \\mathrm { m L }$ 胎牛血清，再加入 $1 0 0 ~ \\mu \\mathrm { L }$ 青链霉素，$0 . 2 2 \\mu \\mathrm { m }$ 滤膜过滤除菌。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同 Se 浓度对肝胰腺抗氧化系统的影响：设培养液中Se的浓度梯度为0、0.15、0.30、0.45、0.60、 $0 . 7 5 ~ { \\mu \\mathrm { g / m L } }$ ，每个浓度梯度设置3个平行，即将每个Se 浓度下处理的肝胰腺组织放入了3个培养孔，每小时取1次样品进行测定。Se对 $\\mathbf { A F B } _ { 1 }$ 毒性的缓解作用：设对照组（培养液中仅添加 $\\mathbf { A F B } _ { 1 }$ ）和试验组（培养液中同时添加 $\\mathbf { A F B } _ { 1 }$ 和 Se)，培养液中 Se浓度为 $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ ， $\\mathbf { A F B } _ { 1 }$ 浓度为 $1 6 0 0 \\mu \\mathrm { g / L }$ ，并分别设置6个不同的时间梯度（0.5、1.0、1.5、2.0、2.5、 $3 . 0 \\mathrm { h }$ )，每个时间梯度设置3个平行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4肝胰腺细胞的培养 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取个体大、体色透明、活动力强的凡纳滨对虾，体表用 $7 5 \\%$ 酒精进行消毒处理，解剖取肝胰腺并去除包膜放入培养血中，再用适量的PBS 溶液清洗3次，加入青链霉素浸泡 30min，剪成小于 $1 \\mathrm { m m } ^ { 2 }$ 的细胞块，加入少量培养液吹打至细胞团或单个细胞，使用微量移液器向24孔细胞培养板每孔中加4\\~5滴，然后加入1mLM199 培养基，按照试验设计浓度添加Se或 $\\mathbf { A F B } _ { 1 }$ 后，于 $2 8 \\mathrm { ~ \\ ^ { \\circ } C }$ 培养箱中培养[17]。以上操作均在超净工作台中进行，且均为冰水浴环境。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 指标测定方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MDA 含量采用硫代巴比妥酸法测定；CAT 活力采取钼酸铵可见光法测定；GSH-Px 活力采用二硫代二硝基甲酸方法测定，上述指标测定所用试剂盒均购自于南京建成生物工程研究所。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验结果采用平均值 $\\pm$ 标准差(mean±SD)表示，数据统计使用 SPSS17.0分析软件，经单因素方差分析(one-way ANOVA)后，若组间差异显著，再采用Duncan 氏多重比较法进行多重比较，差异显著性水平为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1对 MDA含量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图1可以看出，不同浓度的Se对MDA含量的影响无显著差异（ $. P { > } 0 . 0 5$ )。Se浓度在",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 { \\sim } 0 . 4 5 ~ \\mu \\mathrm { g / m L }$ 时 MDA含量出现短暂增高后呈现下降趋势，当Se 浓度大于 $0 . 4 5 ~ \\mu \\mathrm { g / m L }$ 后MDA含量又出现回升趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e10e501468202aaa4f9b0a696a757773bacbcf4857c084b3df108a033bdd4a49.jpg",
+        "img_caption": [
+            "图1不同浓度 Se对 MDA含量的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据柱（点）标注相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )，不同字母表示差异显著。下图同。Value columns（points） with the same or no letters mean no significant difference $( P { > } 0 . 0 5 )$ ,while with differentletters mean significant difference ( $_ { P < 0 . 0 5 }$ .The same as below.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2对CAT 活力的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/00b20555731f384531ef9a02e45cac12d5175ed18f78c366d435f00a40a0d4b9.jpg",
+        "img_caption": [
+            "Fig.1Effect on the MDA content by different concentrations of Se "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图2所示，Se 浓度在 $0 { \\sim } 0 . 4 5 \\mu \\mathrm { g / m L }$ 之间时，CAT 活力随着 Se 浓度的增加逐渐增加，但 Se 浓度在 $0 . 6 0 { \\sim } 0 . 7 5 \\ \\mu \\mathrm { g / m L }$ 范围内时，CAT活力则呈现出降低走势，且 $0 . 7 5 ~ \\mu \\mathrm { g / m L }$ 组与$0 . 1 5 { \\sim } 0 . 6 0 ~ \\mu \\mathrm { g / m L }$ 组之间有显著差异（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ， $0 . 3 0 { \\sim } 0 . 6 0 ~ \\mu \\mathrm { g / m L }$ 组之间无显著差异（ $( P { > } 0 . 0 5 )$ ，以 $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ 组CAT活力表现为最高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3对GSH- $\\mathbf { \\cdot P x }$ 活力的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，Se 浓度在 $0 { \\sim } 0 . 7 5 \\mu \\mathrm { g / m L }$ 之间时， $\\mathrm { G S H - P x }$ 活力表现为先升高后降低趋势，当 Se 浓度为 $0 . 4 5 ~ \\mu \\mathrm { g / m L }$ 时， $\\mathrm { G S H - P x }$ 活力最高，并显著高于其他的浓度（除 $0 . 3 0 ~ \\mu \\mathrm { g / m L }$ ）$P { < } 0 . 0 5 \\$ ，其他浓度间无显著差异（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4f5a2a21ad3204bc69c89f4d02e38bf095b1acacd61f26ba58600b58674aeb4.jpg",
+        "img_caption": [
+            "Fig.2Effect on the CAT activity by different concentrations of Se ",
+            "图3不同浓度Se对GSH $\\mathbf { \\cdot P x }$ 活力的影响",
+            "Fig.3Effect on the GSH- $\\mathbf { \\nabla } \\cdot \\mathrm { P x }$ activity by different concentrations of Se "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3d8d9e53ec09d2957c43069ed947c08b07ea80818de8961bfa00f0ceb28ee34.jpg",
+        "img_caption": [
+            "图2不同浓度 Se对CAT活力的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 Se对 $\\mathbf { A F B } _ { 1 }$ 毒性的缓解作用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1对MDA含量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，随着培养时间的增加，未添加Se的对照组MDA含量在 $0 . 5 \\sim 2 . 0 \\mathrm { ~ h ~ }$ 内基本呈现增加的趋势，之后趋于稳定，并且在 $2 . 0 { \\sim } 3 . 0 \\mathrm { h }$ 时显著高于 $0 . 5 \\mathrm { h }$ 时（ $( P { < } 0 . 0 5 )$ ；虽然添加 $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ Se 的试验组MDA含量在 $1 . 0 \\mathrm { h }$ 时有少量增加，但在 $0 . 5 \\sim 3 . 0 \\mathrm { h }$ 内其随培养时间的变化并没有产生显著差异（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 对CAT活力的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，随着培养时间的增加，对照组CAT活力表现为逐渐降低的趋势，2.5、3.0h时显著低于 $0 . 5 \\sim 1 . 5 \\mathrm { ~ h ~ }$ 时（ $( P { < } 0 . 0 5 )$ ；而试验组CAT活力则先表现为逐渐升高的趋势，在$2 . 5 \\mathrm { h }$ 时活力到达最高值，且与 $0 . 5 0 { \\sim } 2 . 0 \\mathrm { h }$ 时存在显著差异（ $( P { < } 0 . 0 5 )$ ，在 $3 . 0 \\mathrm { h }$ 时稍有下降,但与 $2 . 5 \\mathrm { h }$ 时差异不显著（ $\\cdot P { > } 0 . 0 5 )$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/10baf902707c432409e8e167d271c8ff9d6605416fb536d5e701f5772d5504ce.jpg",
+        "img_caption": [
+            "图4MDA含量随培养时间的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7b85e625b55244a2d9425f6780f7ce4cd0aac67d06e29318b24cce054eb2457.jpg",
+        "img_caption": [
+            "Fig.4The content change of MDA with culture time ",
+            "图5CAT活力随培养时间的变化",
+            "Fig.5The activity change of CAT with culture time "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.3对GSH- $\\mathbf { \\cdot P x }$ 活力的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，随着培养时间的增加，对照组GSH-Px 活力表现为逐渐降低，且在 $3 . 0 \\mathrm { ~ h ~ }$ 时显著低于0.5和 $1 . 0 \\mathrm { h }$ 时（ $( P { < } 0 . 0 5 )$ ；而试验组GSH $\\mathbf { \\cdot P x }$ 活力则表现为先增加再降低，在1.5h 时活力到达最高值，但与其他时间点并不存在显著差异（ $P { > } 0 . 0 5 \\$ )°",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "机体健康程度的一个重要的评价标准就是其自身抗氧化能力的强弱[18]。机体拥有一套完整的抗氧化系统，这套防御系统中最主要的便是酶促体系，CAT、GSH-Px又是这一酶促体系中2种主要的抗氧化酶，其活力的强弱间接性的影响动物体内或细胞内脂质过氧化作用的最终代谢产物MDA的含量[19]。因此，抗氧化酶活力的高低可以用来判断机体抗氧化能力的强弱。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 Se 对抗氧化系统的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Se 作为机体的一种必需的微量元素，又是GSH-Px的中心元素，因此适量的 Se会该酶的活力，从而提升机体的抗氧化能力。王宏伟[20]在饲料中添加不同浓度的 Se来研究其对中华米虾（Caridina denticulata sinensis）抗氧化酶活力的影响，结果显示当饲料中Se浓度为$0 . 4 5 ~ { \\mu \\mathrm { g / g } }$ 时，添加 Se 组的米虾细胞中 SOD、GSH-Px 等抗氧化酶的活力要高于不添加 Se组；韦宇[21的试验同样表明，饲料中 Se 浓度达到 $0 . 6 \\ \\mathrm { m g / k g }$ 时，各个试验组凡纳滨对虾细胞中CAT、GSH-Px 等抗氧化酶的活力到达最大值，而此时 MDA 含量则为最小值。本次试验的结果同样显示，在一定的浓度范围内，Se可以提高细胞中CAT、GSH-Px等抗氧化酶的活力，并降低细胞脂质过氧化产物MDA的含量，且最适的浓度为 $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ ，此结果与前人研究结果相符，可以说明饲料中添加适量的 Se可提高细胞抗氧化系统的抗氧化能力，进而增强机体的免疫能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 AFBi对抗氧化系统的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "机体内普遍存在着抗氧化剂和助氧化剂，且两者之间处在动态平衡状态，以维持正常的机体生长发育、免疫竞争、抗应激等生理现象。但是，有报道称，霉菌毒素可以打破这一平衡，当体内摄入霉菌毒素后，肝脏内GSH的含量呈现下降趋势，并且降低助氧化剂的浓度[22]。研究显示，AFBi感染体外培养的肝实质细胞致其中毒并导致GSH 的消耗[16]；有人用大鼠做过试验，当大鼠摄入AFBi并在体内消耗后，其血液中GSH-Px 的活力会降低[23]；同时，当使用 $2 { \\mathrm { ~ m g / k g } }$ 的 $\\mathbf { A F B } _ { 1 }$ 对大鼠进行腹腔注射，测得其肝脏中CAT、GSH-Px等抗氧化酶的活力都有降低的趋势[24]；芮小丽等[25]对肉鸡的研究表明，饲喂含有 $\\mathbf { A F B } _ { 1 }$ 的饲料可以使肉鸡肝脏中 MDA 的含量显著提高，并且伴随着GSH-Px 等抗氧化酶活力的显著降低。本试验中，当加入高浓度的 $\\mathbf { A F B } _ { 1 }$ 后，细胞中CAT、GSH-Px等抗氧化酶活力均有了不同程度的降低，同时脂质过氧化作用产物MDA的含量却有增加的趋势，可见，此时细胞的抗氧化系统受到了 $\\mathbf { A F B } _ { 1 }$ 毒性的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3Se对AFBi损伤的缓解作用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "近年的报道表明，饲料中添加 Se 后可以减缓 AFBi对动物机体的毒性作用，例如：王钟翊等[26]研究表明 Se 对 $\\mathbf { A F B } _ { 1 }$ 具有较好的拮抗作用，可以很好的改善动物的生长性能；符晨星等[27指出 Se可以通过影响AFBi在动物机体内代谢的关键酶等的活力来改善机体的新陈代谢，从而缓解 AFBi的毒性；郭剑英[28]同样使用 Se来缓解 $\\mathbf { A F B } _ { 1 }$ 对肉鸡的毒性作用，结果显示 Se可以使肝组织中的总超氧化物歧化酶（T-SOD）、CAT 等酶的活力升高，使脂质过氧化产物 MDA 的含量显著下降；Chen 等[29]研究表明，肉鸡饲粮中添加亚硒酸钠后可以阻正因 AFBi诱导而产生的体液免疫功能的损伤，增加法氏囊相对重量以及血清中免疫球蛋白数量，改善组织病理学损伤状况；Parveen 等[30]指出，硒代蛋氨酸可以减缓 $\\mathbf { A F B } _ { 1 }$ 给肾细胞带来的氧化应激压力，当硒代蛋氨酸浓度在 $1 { \\sim } 4 \\ \\mathrm { m g / k g }$ 之间时，细胞中 MAD 含量显著减少，同时GSH 含量和 GSH $\\mathbf { \\cdot P x }$ 活力显著增加；芮小丽等[25]的研究同样表明，在含有 $\\mathbf { A F B } _ { 1 }$ 的饲料中加入适量的Se时，机体的抗氧化酶CAT、GSH-Px等的活力增强且表达增多，MDA的含量降低，机体的抗氧化能力也随之增强。本次试验的结果表明，当加入适量的 Se 后，随着时间的变化，细胞中MDA含量有一定程度的改善，抗氧化酶CAT、GSH-Px的活力得到一定水平的恢复。由此可以推断，适量的Se可以较好的缓解 $\\mathbf { A F B } _ { 1 }$ 对凡纳滨对虾肝胰腺细胞的毒性作用。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "随着 Se的营养价值被人类发现之后，对其的研究愈发深入，特别是在关于动物黄曲霉毒素中毒防治方面，由于GSH-Px的活力中心为硒半胱氨酸，同时又是细胞膜上一种重要的酶，因此 Se 可能通过对GSH-Px活力的影响来保护细胞膜的完整性与流动性，同时降低或消除 $\\mathbf { A F B } _ { 1 }$ 对细胞的毒性，保护肝细胞膜结构及功能免遭 $\\mathbf { A F B } _ { 1 }$ 的损害[31]；同时，GSH-Px又作为细胞内酶性抗氧化系统的主要成分，可催化过氧化脂质分解，防止脂质过氧化作用所引起的链式反应，减少脂质过氧化物对机体的损害。因此，通过添加外源 Se可以提高凡纳滨对虾机体对于AFBi毒性的缓解，并增强其抗氧化系统的抗氧化能力，修复毒素的损伤，上述研究结论无论是在理论指导上还是在实践养殖中都具有很好的意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论   \n适量的 Se 可以改善凡纳滨对虾肝胰腺细胞的抗氧化能力，且最适的浓度为 $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ 同时可以使得经 $\\mathbf { A F B } _ { 1 }$ 侵染的肝胰腺细胞中CAT、GSH-Px 等抗氧化酶活力得到一定水平的 恢复，并在一定程度上改善细胞中 MDA 含量，缓解 AFBi对细胞的毒害。   \n参考文献:   \n[1] 刘永旺,刘海舰,王宝琴,等.富硒麦芽对链尿佐菌素诱发糖尿病大鼠糖脂代谢的影响[J].南 京农业大学学报,2004,27(3):81-84.   \n[2] TAPIERO H,TOWNSEND D M,TEW K D.The antioxidant role of selenium and seleno compound[J].Biomedicine & Pharmacotherapy,2003,57(3/4):134-144.   \n[3] JULIAN E.Selenium and the prevention of cancer (Part I :evidence for the carcinostatie activity of Se compounds)[J].Bulletin of Selenium-Tellurium Development Associatio,2O01,5:1-6. [4] 赵任,郁宝铭,郑民华,等.硒对淋巴细胞杀伤大肠癌细胞过程中Fas/FasL 表达的影响[J].中 华实验外科杂志,2001,18(1):21-22.   \n[5] BRIGELIUS-FLOHE R,FLOHE L.Is there a role of glutathione peroxidases in signaling and differentiation?[J].BioFactors,2003,17(1/2/3/4):93-102.   \n[6] TAMURA T,STADTMAN T C.A new selenoprotein from human lung adenocarcinoma cells:purification,properties,and thioredoxin reductase activity[J].Proceedings of the National Academy of Sciences of the United States of America,1996,93(3):1006-1011.   \n[7] SHEN H M,SHI C Y,LEE H P,et al.Aflatoxin $\\mathbf { B } _ { 1 }$ -induced lipid peroxidation in rat liver[J].Toxicology and Applied Pharmacology,1994,127(1):145-150.   \n[8] 陈锋,李小霞,潘庆,等.不同硒源对凡纳滨对虾(Litopenaeus vannamei)生长和抗氧化性能的 影响[C]//第九届世界华人鱼虾营养学术研讨会论文摘要集.厦门:中国水产学会动物营养与饲 料专业委员会,2013:323. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[9] 储霞玲,曹俊明,赵红霞,等.饲料中联合添加硒和谷胱甘肽对凡纳滨对虾生长、饲料系数和体成分的影响[J].饲料工业,2008,29(12):28-31.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10] 田文静.饲料中添加硒和镁对中华绒螯蟹幼蟹生长、抗氧化性能的影响[D].硕士学位论文. 上海:华东师范大学,2014.   \n[11] 李小霞,陈锋,潘庆,等.酵母硒对凡纳滨对虾生长和抗氧化性能的影响[J].华南农业大学学 报,2014,35(6):108-112.   \n[12] 梁萌青,王家林,常青,等.饲料中硒的添加水平对鲈鱼生长性能及相关酶活性的影响[J].中 国水产科学,2006,13(6):1017-1022.   \n[13] BOONYARATPALIN M,SUPAMATTAYA K,VERAKUNPIRIYA V,et al.Effects of aflatoxin $\\mathbf { B } _ { 1 }$ on growth performance,blood components,immune function and histopathological changes in black tiger shrimp (Penaeus monodon Fabricius)[J].Aquaculture Research,2001,32(Suppl.1):388-398.   \n[14] SMELA M E,CURRIER S S,BAILEY E A,et al.The chemistry and biology of aflatoxin （204号 $\\mathbf { B } _ { 1 }$ :from mutational spectrometry to carcinogenesis[J].Carcinogenesis,2001,22(4):535-545. [15] MEXIA-SALAZAR A L,HERNANDEZ-LOPEZ J,BURGOS-HERNANDEZ A,et al.Role of fumonisin $\\mathbf { B } _ { 1 }$ on the immune system,histopathology,and muscle proteins of white shrimp (Litopenaeus vannamei)[J].Food Chemistry,2008,110(2):471-479.   \n[16] 郑丽莉,朱宇旌,邵彩梅,等.动物体内细胞色素酶 P3A4 与饲料黄曲霉毒素 Bi毒性的关系 [J].动物营养学报,2013,25(1):13-20.   \n[17] 高玮,黄灿华,兰萍章,等.斑节对虾肝胰腺和血淋巴组织细胞的体外培养[J].中山大学学报: 自然科学版,2000,39(S):119-122.   \n[18]王荣梅,苏荣胜,潘家强,等.黄曲霉毒素对动物免疫及抗氧化能力的影响[J].饲料研 究,2010(2):54-56.   \n[19]耿忠诚,王秀娜,王燕,等.不同硒源对仔猪生产性能和抗氧化能力的影响[J].黑龙江八一农 垦大学学报,2010,22(6):31-35.   \n[20] 王宏伟.饲料中的硒和锰对虾体抗氧化酶系统的影响[D].博士学位论文.保定:河北大 学,2005. [21] 韦宇.硒对凡纳滨对虾生长及抗氧化能力的影响[D].硕士学位论文.广州:华南农业大 学,2008.   \n[22] ATROSHI F,BIESE I,SALONIEMI H,et al.Significance of apoptosis and its relationship to antioxidants after ochratoxin a administration in mice[J].Journal of Pharmacy and Pharmaceutical Sciences,2000,3(3):281-291.   \n[23] CHOI Y K,JUNG K K,CHAE K Y,et al.Effects of vitamin E and selenium supplementation to diets containing aflatoxin $\\mathbf { B } _ { 1 }$ on the contents of liver lipids and various blood parameters in rats[J].Asian-Australasian Journal of Animal Science,1995,8(4):379-385.   \n[24] RASTOGI R,SRICASTABA A K,RASTOGI A K.Long term efect of aflatoxin $\\mathbf { B } _ { 1 }$ on lipid peroxidationinratliverandkidney:effectofpicrolivandsilymarin[J].Phytotherapy Research,2001,15(4):307-310.   \n[25] 芮小丽,陈思潭,李春梅.硒对黄曲霉毒素 $\\mathbf { B } _ { 1 }$ 暴露肉鸡肝脏氧化损伤的保护作用[J].动物营 养学报,2014,26(8):2281-2288.   \n[26]王钟翊,李前勇,张德志.纳米硒对肉鸭日粮中黄曲霉毒素 ${ \\bf B } _ { 1 }$ 拮抗作用的研究[J].粮食与饲 料工业,2009(9):38-41.   \n[27]符晨星,贺建华,侯德兴.硒对动物黄曲霉毒素 $\\mathbf { B } _ { 1 }$ 中毒的缓解作用[J].湖南饲 料,2011(6):27-32,38.   \n[28] 郭剑英,郭铭生,潘家强,等.黄曲霉毒素 $\\mathbf { B } _ { 1 }$ 、复方中药和硒对肉鸡肝组织匀浆中自由基代 谢的影响[J].中国家禽,2012,34(7):19-22.   \n[29] CHEN K J,FANG J,PENG X.et al.Effect of selenium supplementation on aflatoxin $\\mathbf { B } _ { 1 }$ -induced histopathological lesions and apoptosis in bursa of Fabricius in broilers[J].Food and Chemical Toxicology,2014,74:91-97.   \n[30] PARVEEN F,NIZAMANI Z A,GAN F,et al.Protective effect of selenomethionine on aflatoxin $\\mathbf { B } _ { 1 }$ inducedoxidativestressinMDCKcels[J].Biological TraceElement Research,2014,157(3):266-274   \n[31]冯跃生.硒对黄曲霉毒素 $\\mathbf { B } _ { 1 }$ 所致乌骨鸡肝脏损害的保护作用[J].中国兽医科 技,1997,27(4):28-29. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effects of Selenium on Hepatopancreas Cells Damaged by Aflatoxin $\\mathbf { B } _ { 1 }$ of Litopenaeus vannamei ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "in Vitro LI Zhaojia GUO Ran\\* XIA Hui SHEN Liang XIE Wei LI Yaoyao WANG Meixue (Ocean College, Agricultural University of Hebei, Qinhuangdao O66OO3, China) Abstract: The effects of selenium on antioxidant capacity and the relieving toxicity of aflatoxin ${ \\bf B } _ { 1 }$ of Litopenaeus vannamei hepatopancreas cells were evaluated in vitro. A total of 6 concentrations of selenium were prepared on the basis of hepatopancreas cells in vitro,such as O, O.15, O.30, 0.45, 0.60 and $0 . 7 5 ~ { \\mu \\mathrm { g / m L } }$ , respectively, to evaluate the antioxidant capacity of hepatopancrease cels of shrimp. The same treatment were conducted to the infected cells by $1 ~ 6 0 0 ~ \\mu \\mathrm { g / L } ~ \\mathrm { A F B } _ { 1 }$ ,to observe the relieving toxicity effects of selenium. The results showed that malondialdehyde (MDA) content showed a decreased trend with Se concentration increased from O to $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ , but there was no significant difference in all concentrations $( P { > } 0 . 0 5 )$ . The activities of catalase (CAT) and glutathione peroxidase (GSH- $\\mathbf { \\nabla } \\cdot \\mathrm { P x }$ ） were strengthen with increase of Se element concentration at $0 { \\sim } 0 . 4 5 ~ \\mu \\mathrm { g / m L }$ ，and at $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ the activity of GSH $\\mathbf { \\nabla \\cdot P X }$ was significantly higher than other concentrations except $0 . 3 0 \\mu \\mathrm { g / m L }$ 0 $( P { < } 0 . 0 5 )$ . As the MDA content increased, the CAT and GSH-Px activities declined, when the concentrations of Se were in 0.45 to $0 . 7 5 ~ { \\mu \\mathrm { g / m L } }$ . When cells were infected with $1 6 0 0 ~ \\mu \\mathrm { g / L }$ （20 $\\mathbf { A F B } _ { 1 }$ , the content of MDA had a rising trend,and the activities of CAT and GSH-Px had a downward trend with the culture time prolonged. When cels were subjected to the interactionof $1 6 0 0 ~ \\mu \\mathrm { g / L }$ AFB1 and $0 . 4 5 ~ { \\mu \\mathrm { g / m L } }$ Se, the content of MDA had a certain degree of improvement, and the activities of CAT and GSH $\\mathbf { \\nabla \\cdot P X }$ to restore a certain level with the culture time prolonged. So, $0 . 4 5 ~ \\mu \\mathrm { g / m L }$ of Se is the optimal concentration，which can improve the antioxidant capacity of Litopenaeus vannamei hepatopancreas cells in vitro. And to a certain extent, $0 . 4 5 \\mu \\mathrm { g / m L }$ Se can alleviate toxicity effects of $\\mathbf { A F B } _ { 1 }$ on hepatopancreas cells in vitro. Key words: selenium; aflatoxin $\\mathbf { B } _ { 1 }$ ; malondialdehyde; catalase; glutathione peroxidase ",
+        "page_idx": 12
+    }
+]

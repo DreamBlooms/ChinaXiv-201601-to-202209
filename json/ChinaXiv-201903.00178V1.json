@@ -1,0 +1,351 @@
+[
+    {
+        "type": "text",
+        "text": "顺苯磺酸阿曲库铵不抑制患者接受术中血液回收后肌肉及呼吸功能的恢复：单中心前瞻性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王佳，赵霞，周海滨，徐涛，王庚北京积水潭医院手术麻醉科，北京100035通信作者：王庚电话：010-58516907，E-mail：w_geng@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的术中血液回收技术（intraoperative blood salvage，IBS）是临床常用的一种血液保护技术，但术后自体血液回输存在肌松药物残留问题。顺苯磺酸阿曲库铵（cis-atracurium besilate，Cisa）是一种新型肌松药物，本研究观察 Cisa应用于接受IBS患者的临床安全性。方法前瞻性分析比较2017年3月至2017年6月50例在北京积水潭医院脊柱科接受全身麻醉下腰椎减压内固定手术的腰椎间盘患者50例。患者顺序纳入，前25例进入试验组，后25例进入对照组。全身麻醉后应用Cisa 作为肌松药，采用IBS技术于术中采集术野自体血并洗涤。术后入恢复室后，常规监测四个成串刺激比（train-of-fourstimulationratio，TOF）以评估肌肉恢复情况，拔除气管插管后每隔 $5 \\mathrm { m i n }$ 记录 TOF值，共观察 $4 0 ~ \\mathrm { m i n }$ 。试验组患者于拔除气管插管后一次性输入术中收集的自体血，对照组于观察结束后回输自体血。分析并比较两组患者术前及观察结束时动脉血氧分压（arterial partial pressure of oxygen， $\\mathrm { P a O } _ { 2 }$ ）和二氧化碳分压（partial pressure of carbon dioxide in artery， $\\mathrm { P a C O } _ { 2 }$ ）用于评估呼吸功能恢复情况。结果所有患者完成全部观察内容，其中男女比例 $1 : 1$ ，年龄 $\\left( 5 5 . 1 \\pm 1 1 . 1 \\right)$ ）岁，体重（ $7 2 . 7 { \\scriptstyle \\pm 9 . 8 }$ ） $\\bf k g$ ，两组基线资料均衡，TOF值随时间推迟呈上升趋势，但两组患者在 $4 0 ~ \\mathrm { m i n }$ 观察点上TOF增加值无统计学差异［ $( 9 . 6 { \\pm } 7 . 3 ) \\%$ 此 $( 9 . 5 { \\pm } 8 . 1 ) \\%$ ， $\\scriptstyle P = 0 . 9 6 3$ ]。两组患者在观察期结束时均出现一定程度的呼吸功能不全，但两组间 $\\mathrm { P a C O } _ { 2 \\cdot \\mathrm { i n c r } }$ [4.4 (2.0,） $\\mathbf { m m } ~ \\mathrm { H g }$ 比4.8 (0,7.1) $\\mathrm { m m \\ H g }$ ， $\\scriptstyle P = 0 . 3 1 2$ ）和 $\\mathrm { P a O } _ { 2 \\mathrm { - d e c r } }$ [3.2 (-2.4,7.9) $\\mathrm { m m \\ H g }$ 比7.2(-1.6,13.0) $\\mathrm { m m \\ H g }$ ， $P =$ 0.133］并无统计学差异。结论全身麻醉下接受IBS 的患者使用Cisa作为肌松药物是安全有效的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】顺苯磺酸阿曲库铵；呼吸功能；术中血液回收 【中图分类号】R614.2； $\\mathrm { R } 8 2 6 . 2 \\substack { + 6 }$ 【文献标志码】A DOI: $1 0 . 3 9 6 9 / \\mathrm { j }$ .issn.1674-9081.2019.02.000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【文章编号】1674-9081（2019)02-0000-05",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "No repression of the functional recovery of muscle and respiration by residual cis-atracurium during re-transfusion of intraoperative salvaged blood : a single-center prospective study ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Jia, ZHAO Xia, ZHOU Hai-bin，XU Tao，WANG Geng ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Anesthesiology，Beijing Jishuitan Hospital,Beijing 1OOO35，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author：WANG Geng Tel：86-10-58516907,E-mail：w_geng@ 163.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【Abstract】ObjectiveIntraoperative blood salvage（IBS）is a commonly used technique of blood protection in theclinic.However，salvaged blood may contain muscle relaxant and lead to represion of the functional recovery of muscle and respiratory after surgery.Cis-atracurium besilate（Cisa）is anew type of muscle relaxant. The aim of this study wasto investigate the safety of Cisain patients receiving IBS.MethodsFifty patients with lumbar disc herniation who received lumbar decompresson and internal fixation under general anesthesia in theDepartment of Spine，Beijing Jishuitan Hospital from March to June 2O17 were prospectivelyand sequentially enrolled.The first 25 patients were included inthe experimental groupand the last25 in thecontrol group.Cisa was used as the muscle relaxant during general anesthesia.In both groups，the IBS technique was used to collect and wash the autologous blood from the surgical field.In the post anesthesiacare unit（PACU），train-of-four stimulation（TOF）was monitored every 5 min for $4 0 ~ \\mathrm { m i n }$ after extubation to evaluate the recovery of muscle function.The salvaged blood was one-timely re-transfused after extubation in the experimental group and $4 0 ~ \\mathrm { m i n }$ later in the control group.The arterial partial pressure of oxygen（ $\\mathrm { P a O } _ { 2 }$ ）and the partial pressure of carbon dioxide in the artery ( $\\mathrm { \\ P a C O } _ { 2 }$ ） were assessed before anesthesia and immediately after observation to evaluate the respiratory function.ResultsAll patients in both groups finished the whole observation.There were 25 men and 25 women with average age of $5 5 . 1 \\pm 1 1 . 1$ years and weight of $7 2 . 7 \\pm 9 . 8 \\mathrm { { \\ k g } }$ . The basic data between two groups were matched.An upward trend of TOF was shown with time，while the increase of TOF at the $4 0 \\mathrm { - m i n }$ point showed no statistical difference between the two groups $\\left[ \\begin{array} { l } { \\left( 9 . 6 \\pm 7 . 3 \\right) \\% } \\end{array} \\right.$ vs. $( 9 . 5 { \\pm } 8 . 1 ) \\%$ ， $P = 0 . 9 6 3 \\$ ].Patients in both groups underwent respiratory insuffciency by the end of observation，but there was no statistical difference in $\\mathrm { P a C O } _ { 2 \\mathrm { - i n c r } }$ [4.4（2.0，8.0） mm Hg vs. 4.8（0,7.1） $\\mathrm { { m m } \\ H g }$ ， $P = 0 . 3 1 2 ^ { \\cdot }$ ]and $\\mathrm { P a O } _ { 2 \\mathrm { - d e c r } }$ ${ \\left[ 3 . 2 \\ \\ \\right. } \\left( - 2 . 4 \\right.$ 7.9）mm Hg vs. 7.2（-1.6,13.0） $\\mathrm { m m \\ H g }$ ， $P { = } 0 . 1 3 3 \\bar { }$ ]between groups. ConclusionsCisa is safe and effective as a muscle relaxant for patients receiving IBS under general anesthesia. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 cis-atracurium besilate intraoperative；respiratory function；intraoperative salvaged bloodMedJPUMCH，2019,10(2):0-00",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "O术中血液回收（intraoperative blood salvage，IBS）技术是临床常用的血液保护技术，可降低围手术期异体输血的机会及用血量，减少异体输血的风险[1-3]但围手术期自体输血可能导致麻醉药物残留[4]，增加围手术期风险。目前仅有少量研究探讨急性等容血液稀释技术所致肌松药物残留问题[5-6]，研究显示，对采用罗库溴铵（rocuronium，Roc）作为肌松药物的患者使用IBS技术，收集自体血液并于麻醉恢复期回输，可能会抑制肌肉对四个成串刺激（train-of-four stimula-tion，TOF）的反应[7]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "顺苯磺酸阿曲库铵（cis-atracurium besilate，Cisa）是种新型肌松药物，具有致敏性低、心血管副作用小、不依赖于肝肾清除等优势[8]，尤其适用于老年患者，但尚不清楚Cisa是否可以安全用于接受IBS的患者。本研究观察接受IBS患者的肌肉功能恢复情况，通过评估TOF以及呼吸功能恢复率，探讨应用Cisa作为肌松药物对接受IBS患者的安全性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究对象及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前瞻性分析比较2017年3月至2017年6月在北京积水潭医院脊柱科接受全麻下腰椎减压内固定手术的50例腰椎间盘突出患者。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入选标准：（1）术前美国麻醉医师协会（AmericanSocietyof Anesthesiologists，ASA）麻醉评级I\\~Ⅱ级;(2）预计围术期出血量 $4 0 0 \\ \\mathrm { m l }$ 以上；（3）同意接",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受 IBS。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "排除标准：（1）肝、肾功能异常；（2）合并神经肌肉疾病；（3）2周内服用过影响肌肉功能的药物;（4）不能接受IBS者，如潜在感染或肿瘤风险、费用问题或患者拒绝等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究获得北京积水潭医院伦理委员会批准（积伦科审字201503-03号），入选患者均签署知情同意书。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者顺序纳入试验组和对照组，每组各25例，前25位患者进人试验组，后25位患者进入对照组。手术全程采集手术视野中的自体血液并洗涤，试验组患者拔除气管插管后回输自体血，观察肌肉功能恢复情况；对照组患者暂不回输自体血，同样观察肌肉功能恢复情况，观察期结束后回输自体血。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2全身麻醉管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者入室后常规开放左上肢静脉，在同侧上肢留置动脉导管以监测血压。常规监测心电图、指氧饱和度及呼气末二氧化碳浓度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者常规接受气管内插管及全身麻醉，首先给予芬太尼（人福药业，中国宜昌） $3 \\sim 4 ~ \\mu \\mathrm { g / k g }$ 、咪达唑仑（恩华药业，中国徐州） $0 . 0 3 \\mathrm { \\ m g / k g }$ 和异丙酚（FreseniusKabi，瑞典） $1 ~ \\mathrm { m g / k g }$ ，意识消失后15s开始监测肌肉功能，即TOF，并给予Cisa（恒瑞医药，中国连云港） $0 . 1 5 ~ \\mathrm { m g / k g }$ ，当第1个收缩（T1）消失后再次给予异丙酚 $1 . 0 { \\sim } 1 . 5 ~ \\mathrm { m g / k g }$ ，并完成气管插管。术中维持七氟烷吸入麻醉，根据患者心血管反应调节吸入浓度在 $0 . 8 \\sim 1 . 2$ 最小肺泡有效浓度（minimumalveolarconcentration，MAC）范围内，并在适当时追加录芬太尼用量。每 $5 ~ \\mathrm { m i n }$ 监测TOF，当T1再次出现时，给予Cisa $1 . 0 { \\sim } 1 . 5 ~ \\mathrm { m g / ( k g \\cdot m i n ) }$ ）连续输注，将肌松深度维持在T1出现水平，直至手术结束前 $3 0 ~ \\mathrm { m i n }$ 。术中全程采用加温毯及加温毯机，避免患者出现低体温。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "术毕患者恢复自主呼吸后给予新斯的明 $3 0 ~ \\mu \\mathrm { g / k g }$ 及阿托品 $1 5 ~ { \\mu \\mathrm { g / k g } }$ ，转移至麻醉恢复室（post anesthesiacareunit，PACU）接受常规监护，符合拔管条件时 拔除气管插管。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 自体血采集及回输 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1采集：两组均使用Haemonetics Cell Saver $^ { 5 + }$ 自体血机（Haemonetics公司，美国）收集并洗涤手术视野下的血液待用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2回输：术后拔除气管插管后，试验组患者一次性输入术中收集的自体血，连续评估患者肌肉功能恢复情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "T 患者入PACU后常规监测TOF。当患者 $\\mathrm { T O F } { > } 9 0 \\%$ 时开始记录并观察，此刻设定为 $0 ~ \\mathrm { m i n }$ ，每隔 $5 ~ \\mathrm { m i n }$ 测定并记录TOF，持续观察 $4 0 ~ \\mathrm { m i n }$ 。试验组在 $0 ~ \\mathrm { m i n }$ 时开始回输自体血， $1 5 ~ \\mathrm { m i n }$ 内输完；对照组在 $4 0 ~ \\mathrm { m i n }$ 时开始回输自体血。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肌肉功能及呼吸功能评估",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "观察并记录0、5、10、15、20、25、30、35、$4 0 \\mathrm { { = } \\mathrm { { m i n } } }$ 的 TOF 值，分别用 $\\mathrm { ~ T _ { 0 } ~ }$ 、 $\\mathrm { T } _ { 5 }$ 、 $\\mathrm { ~ T ~ } _ { 1 0 }$ 、 $\\mathrm { T } _ { 1 5 }$ 、 $\\mathrm { T } _ { 2 0 }$ 、? $\\mathrm { ~ T ~ } _ { 3 0 }$ 、 $\\mathrm { T } _ { 3 5 }$ 和 $\\mathrm { T } _ { 4 0 }$ 表示。 $\\mathrm { T } _ { 5 }$ 、 $\\mathrm { ~ T ~ } _ { 1 0 }$ 、 $\\mathrm { T } _ { 1 5 }$ 、 $\\mathrm { T } _ { 2 0 }$ 、 $\\mathrm { T } _ { 2 5 }$ 、$\\mathrm { T } _ { 3 0 } \\mathbb { O }$ $\\mathrm { T } _ { 3 5 }$ 和 $\\mathrm { T } _ { 4 0 }$ 与 $\\mathrm { ~ T _ { 0 } ~ }$ 的差值分别记为 $\\mathrm { D T } _ { 5 }$ 、 $\\mathrm { D T } _ { 1 0 }$ 、 $\\mathrm { D T } _ { 1 5 }$ 、$\\mathrm { D } _ { \\parallel _ { 2 0 _ { - } } } ^ { \\sqrt { - 1 } } ,$ ， $\\mathrm { D T } _ { 2 5 }$ 、 $ { \\mathrm { D T } } _ { 3 0 }$ 、 $\\mathrm { D T } _ { 3 5 }$ 和 $\\mathrm { D T } _ { 4 0 }$ ，可反映不同时间点肌肉功能的恢复程度及速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用Gem Premier 3000 血气分析仪（IL 公司，美国）分析不吸氧动脉血气，所有患者分别于麻醉前和在PACU完成 $\\mathrm { { T } _ { 4 0 } }$ 测定时记录动脉血氧分压（arterialpartial pressureofoxygen， $\\mathrm { P a O } _ { 2 }$ ）和二氧化碳分压（partial pressure of carbon dioxide in artery， $\\mathrm { P a C O } _ { 2 }$ )，用于评估呼吸功能。麻醉前氧分压及二氧化碳分压分别记录为 $\\mathrm { P a O } _ { 2 \\mathrm { - b e f o r e } }$ 和 $\\mathrm { P a C O } _ { 2 \\mathrm { - b e f o r e } }$ ，于 PACU完成监测时的氧分压和二氧化碳分压分别记录为 $\\mathrm { P a O } _ { 2 \\mathrm { - a f t e r } }$ 和PaCO 2-after o",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 5 统计学处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "应用SPSS11统计学软件进行统计分析，计量资料如符合正态分布则采用均数 $\\pm$ 标准差表示，如为非正态分布参数则采用中位数（四分位数）表示，各组参数采用独立样本 $\\mathbf { \\chi } _ { t }$ 检验或秩和检验进行组间比较，$\\scriptstyle P < 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1术前一般临床资料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究样本量估算参照本团队前期研究[7]（两组，每组各25例）及国外相关研究[5]（两组，每组各10例)，最终计划并实际纳入的总样本量为50例。根据入选和排除标准及研究设计，最终试验组和对照组各25人均完成所有观察内容。人选患者中，男女各25人，平均年龄（ $5 5 . 1 \\pm 1 1 . 1$ ）岁，体重（ $7 2 . 7 \\pm$ 9.8） $\\mathbf { k g }$ ，拔管时间（ $5 . 6 \\pm 3 . 4 \\$ ）min，恢复室停留时间（ $4 5 . 4 { \\pm } 1 0 . 0 \\dot s \\qquad $ ）min。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "两组患者的年龄、体重、手术时间、出血量及阿片类药物剂量均无统计学差异（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 肌肉功能恢复",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 $4 0 ~ \\mathrm { m i n }$ 观察期内，随着时间的推迟，两组患者TOF呈上升趋势，试验组从（ $\\left( 9 4 . 0 \\pm 3 . 0 \\right) \\%$ 上升至1 $1 0 3 . 6 \\pm 8 . 1 { \\mathit { \\Omega } } ) \\%$ ，增加( $\\left( 9 . 6 \\pm 7 . 3 \\right) \\%$ ；对照组从$( 9 3 . 6 { \\pm } 2 . 8 ) \\%$ 上升至（ $1 0 3 . 1 \\pm 8 . 2 { \\it \\Delta \\phi } \\%$ ，增加（ $9 . 5 \\pm$ $8 . 1 ) \\%$ ，两组间无统计学差异（ $P = 0 . 9 6 3$ )。在观察期内的各时间点，两组患者TOF增加值均无统计学差异 (图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3呼吸功能恢复",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "血气分析结果显示，两组患者TOF恢复至 $90 \\%$ 以上后的 $4 0 ~ \\mathrm { m i n }$ 内，仍存在一定程度呼吸功能不全。对照组和试验组 $\\mathrm { P a O } _ { 2 }$ 显著降低［对照组（ $8 5 . 5 \\pm 6 . 8 )$ （204号$\\mathrm { m m ~ H g }$ 比 $( 7 8 . 4 \\pm 9 . 0 ) \\$ 1 $\\mathrm { { m m } \\ H g }$ ， $P = 0 . 0 0 8$ ；试验组( $8 5 . 5 \\pm 8 . 3 \\$ ） $\\mathrm { { m m } \\ H g }$ 比（ $8 2 . 5 \\pm 7 . 0 \\$ ） $\\mathrm { { m m } \\ H g }$ ， $P =$ 0.192]，而 $\\mathrm { P a C O } _ { 2 }$ 则显著升高［对照组（ $( 3 9 . 1 \\pm 4 . 1 ) \\$ （204号$\\mathrm { m m ~ H g }$ 比（ $\\left( 4 3 . 3 \\pm 3 . 8 \\right)$ 1 $\\mathrm { { m m } \\ H g }$ ， $P = 0 . 0 0 2$ ；试验组（ $3 8 . 6 \\pm 2 . 7 \\cdot$ ） $\\mathrm { { m m } \\ H g }$ 比（ $4 3 . 9 \\pm 3 . 4 \\rangle$ ） $\\mathrm { { m m } \\ H g }$ ， $P =$ 0.000）。两组患者的PaCO增加量PaCOz-iner（ $\\mathrm { P a C O } _ { 2 \\mathrm { - i n c r } } = \\mathrm { P C O } _ { 2 \\mathrm { - a f t e r } } - \\mathrm { P C O } _ { 2 \\mathrm { - b e f o r e } } \\ .$ ）和 $\\mathrm { P a O } _ { 2 }$ 降低量$\\mathrm { P a C O } _ { 2 \\mathrm { - d e c r } }$ $\\mathrm { \\Delta P a C O _ { 2 - d e c r } = P a O _ { 2 - b e f o r e } - P a O _ { 2 - a f t e r } \\ } ,$ ）均无统计学差异（表2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/96fa3df3594629c9cf47b2fba40dc1ab06bb206b4b897384b19feb5e3c26ded7.jpg",
+        "table_caption": [
+            "表1自体血液回输研究中试验组和对照组患者一般情况（均数 $\\pm$ 标准差，各组 $n = 2 5$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>试验组</td><td>对照组</td><td>P值</td></tr><tr><td>年龄 (岁)</td><td>56.2 ±7.1</td><td>54.0 ±14</td><td>0.496</td></tr><tr><td>体重（kg)</td><td>71.5 ±11.1</td><td>74.0 ±8.3</td><td>0.375</td></tr><tr><td>手术时间（min)</td><td>126.0 ±40.2</td><td>121.8 ±36.1</td><td>0. 699</td></tr><tr><td>出血量(ml)</td><td>476.0 ±136.3</td><td>500 ±170. 0</td><td>0.585</td></tr><tr><td>芬太尼用量（μg/kg)</td><td>3.39±2.59</td><td>3. 23±2.26</td><td>0.782</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/99486d782edc92720c02c98e0c6a794c2109853d346f91e982141c3f32d53b4a.jpg",
+        "img_caption": [
+            "图1自体血液回输患者术后不同时间点TOF的增加值及变化趋势两组患者在 $4 0 ~ \\mathrm { m i n }$ 时观察点上，试验组患者TOF增加值为 $( 9 . 6 { \\pm } 7 . 3 ) \\%$ 学组 ，对照组患者TOF增加值为（ ；其他 $9 . 5 \\pm$ $8 . 1 ) \\%$ ，两组无统计学差异（ $P = 0 . 9 6 3 \\$ )；其他各观察点的两组患者TOF增加值均无统计学差异；TOF：train-of-four stimulation，四个成串刺激比； $\\mathrm { D T _ { X } }$ ： $\\mathbf { \\sigma } _ { \\mathbf { X } }$ 时间点TOF与观察起始时TOF的差值， $\\mathrm { D T x } = \\mathrm { T x } - \\mathrm { T } 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究提示，使用Cisa作为肌松药物的患者接受.IBS回输后，其肌肉功能和呼吸功能的恢复不受影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IBS目前已广泛应用于临床血液保护，特别对心脏和骨科出血量较大的手术具有重要意义[9]，出血量低于总血容量 $20 \\%$ 的脊柱内固定手术采用 IBS 技术同样可改善患者术后早期组织氧合状况[10]。IBS 技术在降低异体输血需求、降低成本效益的同时，相关的肌松残留问题逐渐被大家关注。我们之前的研究发现，术中使用Roc作为肌松药物的患者在回输自体血过程中，肌肉功能的恢复受到一定程度抑制，这种抑制作用可能由于自体血中Roc 残留所致[7]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cisa是一种新型肌松药，其药物代谢不依赖于患者肝肾功能，安全性较高。本研究显示，使用Cisa的患者，肌肉功能的恢复程度 (T）及恢复速度（DT)",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在试验组和对照组间均无显著差别。由此我们认为，术中应用Cisa作为肌松药物的患者，接受IBS并回输后对肌肉功能恢复无明显抑制作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cisa和Roc对IBS及血液回输过程中肌肉功能的不同影响可能与两者药代动力学有关[1]。Roc 通过肝脏代谢，在肝功能或肾功能不全患者体内，其清除半衰期显著延长，且于术野中采集的血液中残留Roc不能在洗涤过程中进一步降解清除。与此不同的是，$7 7 \\%$ 的Cisa可单纯通过 $\\mathrm { \\ p H }$ 和温度的调节进行降解（Hofmann降解）。如果IBS系统中 $\\mathrm { \\ p H }$ 和温度适宜,术野中采集血液中残留的Cisa 可在保存和洗涤过程中进一步降解、清除，避免了回输过程中残留肌松药的影响。基于这一特性，我们认为，接受IBS 的患者采用Cisa作为肌松药物的安全性更高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肌肉功能恢复延迟或不全可能会增加术后呼吸功能不全的风险[12]。我们通过 $\\mathrm { P a O } _ { 2 }$ 和 $\\mathrm { P a C O } _ { 2 }$ 的变化分析麻醉和自体血回输对呼吸功能的影响。两组患者在观察期结束时均表现出一定程度的呼吸功能不全，与术前基础水平相比， $\\mathrm { P a O } _ { 2 }$ 降低， $\\mathrm { P a C O } _ { 2 }$ 升高，这与全身麻醉药物残留导致的中枢抑制及术中机械通气有关。进一步比较两组呼吸功能不全程度（ $\\mathrm { P a O } _ { _ { 2 \\mathrm { - d e c r } } }$ 和$\\mathrm { P a C O } _ { 2 \\mathrm { - i n c r } }$ ）发现，两组患者呼吸功能不全的程度相当，自体血回输与呼吸功能不全程度没有相关性。此外，术中阿片类药物的应用也可能会影响患者呼吸功能恢复，本研究中两组患者术中芬太尼的用量相当，对比较两组患者呼吸功能恢复的影响较小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当诱导剂量的Cisa作用逐渐消退时，我们采用连续输注Cisa的办法追加药物，以维持患者术中的肌肉松弛处于同一特定（T1出现）水平，两组肌松药物剂量相当。Cisa连续输注的安全性和有效性尚无定论，有研究认为不适用于长时间的手术[13]，而国内有研究认为，Cisa作为一种新型非去极化肌松药，既可以按间断静注的方式给药，也，可以持续输注，两种方式均可满足手术需要［14］。Cisa持续静脉输注的方式可维持稳定的肌松状态，肌张力及自主呼吸恢复快，无术后肌松残余风险「15。本研究中，Cisa连续输注保证了患者肌松药物应用标准的一致性，为后续肌肉功能恢复的观察提供重要的前提条件。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a542bbdb4fb3be353d8de32d999141bff38400dd80d8dfe5f6cc8328a4eb57f9.jpg",
+        "table_caption": [
+            "表2麻醉前及肌松监测结束时的动脉血氧分压及二氧化碳分压（ $\\mathrm { m m \\ H g }$ ，均数 $\\pm$ 标准差，各组 $n = 2 5$ ）"
+        ],
+        "table_footnote": [
+            "$\\mathrm { P a O } _ { 2 \\mathrm { - b e f o r e } }$ ：术前动脉血氧分压； $\\mathrm { P a O } _ { 2 \\mathrm { - a f t e r } }$ ：肌松监测结束时动脉血氧分压； $\\mathrm { P a O } _ { 2 \\mathrm { - d e c r } }$ ：与术前比，肌松监测结束时动脉血氧分压降低值； $\\mathrm { P C O } _ { 2 \\mathrm { - b e f o r e } }$ （204 术前动脉血二氧化碳分压; $\\mathrm { P C O } _ { 2 \\cdot \\mathrm { a f t e r } }$ ：肌松监测结束时动脉血二氧化碳分压 $\\mathrm { P C O } _ { 2 \\cdot \\mathrm { i n c r } }$ ：与术前比，肌松监测结束时动脉血二氧化碳分压升高值 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别</td><td colspan=\"3\">PaO2</td><td colspan=\"3\">PCO2</td></tr><tr><td>PaO2-before</td><td>Pa0O2-after</td><td>PaO2-deer</td><td>PCO2-before</td><td>PCO2-after</td><td>PaCO2-iner</td></tr><tr><td>对照组</td><td>85.5±6.8</td><td>78.4±9.0</td><td>7.2 (-1.6,13.0)</td><td>39.1±4. 1</td><td>43.3±3.8</td><td>4.8 (0, 7.1)</td></tr><tr><td>试验组</td><td>85.5±8.3</td><td>82.5±7.0</td><td>3.2 (-2.4，7.9)</td><td>38.6±2.7</td><td>43.9±3.4</td><td>4.4 (2.0,8.0)</td></tr><tr><td>P值</td><td>0.999</td><td>0. 097</td><td>0.133</td><td>0.637</td><td>0.581</td><td>0.312</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究存在一定局限性。第一，仅通过临床指标评估患者的肌肉功能恢复，未检测血浆及自体血中的肌松药浓度，缺少药物残留的直接证据。第二，患者围手术期体温可能会对药物的代谢产生影响，低体温可能导致凝血功能障碍、麻醉药物效能和代谢改变、术后苏醒推迟、留观时间延长等不良后果[16]。本研究虽未监测体温及血液温度，但患者均采用体表加温的方式维持术中体温，尽量避免围手术期低体温对药物代谢和麻醉恢复的影响。未来监测术中体温、测定药物浓度的多中心、大样本研究可以更客观清晰地探讨Cisa在IBS应用中的安全性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，接受全身麻醉并使用Cisa作为肌松药物的患者，应用IBS收集自体血液并在术后进行自体血回输，不会抑制肌肉功能的恢复，亦不会加重麻醉恢复期的呼吸功能不全。结合前期关于Roc的研究结果，我们认为，对接受IBS的患者使用Cisa作为肌松药更为安全。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ashworth A,Klein AA.Cell salvage as part of a blood conservation strategy in anaesthesia［J].BrJAnaesth,2O1O,105： 401-416. 蔡思逸，沈建雄，翁习生，等.综合、全程血液管理措施 对骨科手术患者异体输血的影响［J].协和医学杂志， 2015,6:286-290. 吴树彬，陈唯，黄宇光.非抗体介导的输血相关性急性 肺损伤［J].协和医学杂志，2017，8：100-105. Fong J,Gurewitsch ED,Kang HJ,et al.An analysis of transfusion practice and the role of intraoperative red blood cell salvage during cesarean delivery[J].Anesth Analg，2007, 104:666-672. [5] RohlingRG，RentschKM，Beck-SchimmerB，etal.Risk of recurarization during retransfusion of autologous blood withdrawn after injection of muscle relaxants：a comparison of rocuronium and mivacurium［J].JClin Anesth，2OO3，15： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "85-90.  \n[6]Dawance G,d’Athis F,Peschaud JL,et al.[Risk of sec-ondary neuromuscular blockade after autotransfusion of blooddrawn from the patient following curare administration][J].Ann Fr Anesth Reanim，1994,13：17-22.[7]Wang G,Wang J, Zhou HB,et al. Impairment of recovery ofmuscle function by residual rocuronium after re-transfusion ofintraoperative salvaged blood［J].Chin Med J,2014，127：821-824.[8］赵艾华，冯力.顺式阿曲库铵的临床药理学研究进展[J].河北医药，2015，37：253-256.  \n[9]Aning JJ，McGrath JS.Intraoperative red blood cell salvageand autologous transfusion during open radical retropubicprostatectomy[J].Ann R Coll Surg Engl，2011，93（6）：493-494  \n[10］李晗歌，张志永，黄宇光，等.少量出血患者使用术中回收式自体输血有效性的随机对照研究［J].协和医学杂志，2015,6:: 9-13.  \n［11］阎雁宏，薛纪秀，马艳辉，等.相同麻醉深度条件下等效剂量罗库溴铵与顺式阿曲库铵肌松恢复状况的比较［J].实用医学杂志，2015，31：2556-2558.  \n[12]Schmidt A,Sues HC,Siegel E,et al.Is cellsalvage safe inliver resection？A pilot study［J].JClin Anesth,2O09,21：579-584.  \n[13]Heier T,CaldwellJE,Feiner JR,et al.Relationship betweennormalized adductor pollicis train-of-four ratio and manifesta-tions of residual neuromuscular block：a study using accelero-myography during near steady-state concentrations of mivacu-rium［J].Anesthesiology，2010,113：825-832.  \n［14］李机，张庆国，刘中杰，等.腹腔镜手术中持续输注与间断静注顺式阿曲库铵维持深度肌松的药效学比较［J].临床麻醉学杂志，2016，32：321-324.  \n[15］张立贤，曹阳，梁冰，等.顺式阿曲库铵应用于大面积烧伤患者时剂量与肌松效应的关系［J].实用医学杂志，2015，11: 1845-1848.  \n［16］黄宇光.围手术期患者低体温防治专家共识（2017）［J].协和医学杂志，2017，8：352-358.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（收稿日期：2017-11-09)",
+        "page_idx": 4
+    }
+]

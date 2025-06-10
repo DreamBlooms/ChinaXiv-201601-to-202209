@@ -1,0 +1,428 @@
+[
+    {
+        "type": "text",
+        "text": "CD47 blockade triggers T cell-mediated destruction of immunogenic tumors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaojuan $\\mathbf { L i u } ^ { 1 , 2 , 6 }$ ,Yang $\\mathbf { P } \\mathbf { u } ^ { 3 }$ ,Kyle $\\mathbf { C r o n } ^ { 3 }$ , Liufu Deng?, Justin Kline4, William A Frazier5, Hairong ${ { \\mathbf { X } } { \\mathbf { u } } ^ { 1 } }$ ,Hua PenglYang-Xin $\\mathbf { F u } ^ { 1 , 3 , 7 }$ & Meng Michelle $\\mathbf { X } \\mathbf { u } ^ { 3 , 6 , 7 }$ （204号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Macrophage phagocytosis of tumorcels mediated by CD47-specific blocking antibodies has been proposedto be the major effctor mechanism inxenograftmodels.Here,using syngeneicimmunocompetent mouse tumormodels,e reveal that the therapeutic effctsofCD47blockade dependondendriticcellbutnot macrophage cross-primingofTcellresponses.The therapeuticeffectsofanti-D47antibodytherapywereabrogatedinTcell-deficientmice.Inadition,theantitumoreffects of CD47 blockade required expression of the cytosolic DNA sensor STING,but neither MyD88 nor TRIF,in ${ \\tt c D 1 1 c ^ { + } }$ cells, suggesting thatcytosolicsensingof DNAfromtumorcels isenhanced byanti-CD47treatment,furtherbridging theinnate andadaptive responses.Notably,thetimingofadministrationof standardchemotherapy markedlyimpactedtheinduction of antitumorTcellresponses byCD47blockade.Together,ourfindings indicate thatCD47blockadedrives Tcell-mediated elimination of immunogenic tumors. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phagocytosis relies on a balance between prophagocytic (\"eat me\") and antiphagocytic (\"don't eat me\") signals on target cells1-3.CD47, initially observed on stem cells,is a transmembrane protein that inhibits phagocytosis by binding to its receptor,signal regulatory protein α (SIRPα),which is expressed on phagocytes4-6.Lack of CD47 on erythrocytes,platelets and lymphohematopoetic cells results in rapid clearance of these cells by macrophages,due to elimination of the CD47-SIRP $\\alpha$ -mediated antiphagocytic signal4,5,7,8. Binding of CD47 to $\\operatorname { S I R P } \\alpha$ results in phosphorylation of immunoreceptor tyrosinebased inhibitory motifs(ITIMs)on $\\operatorname { S I R P } \\alpha$ and recruitment of Src homology phosphatases 1 and 2(SHP-1 and SHP-2),both of which inhibit accumulation of myosin-IIA at the phagocytic synapse9. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abundant CD47 expression has also been observed on a variety of malignant cells,including both hematopoietic and solid tumors, especially tumor-initiating cells,where elevated CD47 expression has predicted poor survival in individuals with cancerl0-14.These data provide a strong rationale for therapeutic targeting of CD47 (refs.12,15). Human CD47-blocking monoclonal antibodies (mAbs) have demonstrated efficacy in various preclinical models of human lymphoma, bladder cancer,colon cancer,glioblastoma,breast cancer,acute lymphocytic leukemia and acute myeloid leukemia11,12,16-18. Most work concluded that the therapeutic effects of anti-human CD47 were macrophage dependent.However, these studies employed xenografted human tumors in T cell-deficient micel6,18,19.Thus,they were not able to evaluate the role of adaptive immunity in the effectiveness of CD47blockade.A previous study showed that morpholino-mediated knockdown of CD47 on tumors in wild-type (WT) mice enhanced the tumoricidal activity of $\\mathrm { C D 8 ^ { + } }$ T cells when combined with irradiation20.But irradiation alone is known to stimulate antitumor $\\mathrm { C D 8 ^ { + } }$ T cell responses²1.Therefore,it remains unclear how CD47 knockdown or antibody-mediated blockade alone controls tumor growth in an immunocompetent host harboring a syngeneic tumor. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here we show that the therapeutic effect of CD47 blockade in syngeneic tumor models largely depends on the activation of T cells. More specifically,we demonstrate that the therapeutic effects of anti-CD47 relies on a cytosolic DNA sensor, dendritic cells (DCs), type I/II interferons (IFNs) and $\\mathrm { C D 8 ^ { + } }$ T cells.As such,we conclude that anti-CD47-mediated tumor rejection requires both innate and adaptive immune responses. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RESULTS T cells are essential for anti-CD47-mediated tumor regression ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To evaluate whether treatment with an anti-mouse-CD47 mAb (anti-CD47: MIAP301),known to functionally inhibit CD47-SIRPα interactions,could reduce tumor burden in syngeneic WT mice,we subcutaneously(s.c.) inoculated BALB/cmice with $\\mathrm { C D 4 7 ^ { + } A 2 0 B }$ cell lymphoma cells.Seven days later,we administered anti-CD47 intraperitoneally (i.p.)and monitored tumor growth.Compared to isotype control antibody treatment,systemic anti-CD47 treatment slowed the growth of tumor and prolonged the survival of mice bearing immunogenic A20 tumors (Fig.la and Supplementary Fig.la). To extend these findings to a solid tumor model,we treated syngeneic C57BL/6 mice bearing established MC38 tumors ina similar manner and observed similar results (SupplementaryFig.1b,c).To focus on the effect of anti-CD47 within the tumor microenvironment and rule out any effect on peripheral tissues,we administered antiCD47by intratumoral injection in both the A20 and MC38 models (Fig.1b,c).After only two low doses of anti-CD47,established tumors completely regressed.Because anti-CD47 might have offtarget effects22,we employed a high-affinity Sirpα variant human Fc fusion protein (SIRPα-hIg) as a second approach to antagonize CD47-SIRPα interactions in vivo²3.Consistently, intratumoral blockade of CD47-SIPRα interactions via this approach recapitulated the inhibition of A20 tumor growth triggered by antibody-mediated CD47 blockade (Fig.1d). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next addressed the extent to which the antitumor effect of CD47 blockade depended on host T cells.Thus,we inoculated A20 lymphoma cells s.c.into syngenic BALB/c nude mice.The same short course of intratumoral anti-CD47 treatment that was efficacious in WT BALB/c mice had no effect on tumor growth in T celldeficient nude mice (Fig.le).Although a longer course of consecutive intratumoral anti-CD47administrations resulted ina transient suppression of tumor growth in tumor-bearing nude mice (Fig.1f), T cells were clearly required for a maximal therapeutic effect of CD47 blockade therapy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To understand which T cell subsets were involved in anti-CD47- mediated tumor reduction,we treated WT mice bearing established A20 tumors with anti-CD47 intratumorally in conjunction with $\\mathrm { C D 8 ^ { + } }$ or $\\mathrm { C D 4 ^ { + } }$ T cell depletion achieved by intraperitoneal delivery of anti-CD4 or anti-CD8 mAbs.In the absence of $\\mathrm { C D 8 ^ { + } }$ T cells,the therapeutic effect of anti-CD47 was completelyabrogated,whereas depletion of $\\mathrm { C D 4 ^ { + } }$ T cells had no effect (Fig.2a). $\\mathrm { C D 8 ^ { + } }$ or $\\mathrm { C D 4 ^ { + } }$ T cells were also depleted in mice systemically treated with anti-CD47. These tumors grew faster in the absence of $\\mathrm { C D 8 ^ { + } }$ T cells,indicating that this T cell subset is required for tumor regression also following systemic CD47 blockade (Supplementary Fig.2a,b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether the immune response initiated by anti-CD47 treatment resulted in Tcell-mediated memory response against tumor antigens,we rechallenged mice that had rejected A2o lymphomas after an initial course of CD47 blockade (tumor-free ${ > } 3 0$ days)with a higher dose of A20 cells $( 2 . 5 \\times 1 0 ^ { 7 }$ cells) in the contralateral flank. Compared to naive mice,in which a primary A20 cell challenge resulted in rapid tumor progression,those that had rejected an initial tumor challenge after CD47 blockade were completely resistant to a rechallenge with A20 cells (Fig.2b).These results clearly demonstrate that anti-CD47 treatment can elicit durable systemic immune memory to prevent relapse. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether anti-CD47 treatment can enhance tumor antigen-specific T cell responses,we treated mice harboring established ovalbumin (OVA)-expressing MC38 tumors with anti-CD47 orisotype control antibody intratumorally.Five days after CD47 blockade,we re-stimulated cells from the tumor-draining lymph node in vitro with or without the OVA-derived SIINFEKL peptide and measured IFN- $\\cdot \\gamma$ production by enzyme-linked immunospot (ELISPOT) assay.Significantlymore IFN- $\\cdot \\gamma$ spot-forming cells were present in the anti-CD47-treated versus the isotype control antibody-treated group (Fig.2c).We observed similar results in the A20 model,where we used iradiated A20 cells to re-stimulate tumor-draining lymph node cells in vitro (Fig.2d).To determine whether IFN-γwas essential for the therapeutic effect of anti-CD47,we treated mice bearing A20 tumors with IFN- $\\cdot \\gamma .$ -blocking antibodies on the day of anti-CD47 treatment. The therapeutic effect of anti-CD47 was completely lost in IFN- $\\cdot \\gamma$ -deficient mice (Fig.2e).Collectively, these data suggest that an antigen-specific Tcell response is enhanced after anti-CD47 treatment for both carcinoma and lymphoma tumor types. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Anti-CD47 enhances DC cross-priming for tumor control ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arecent study demonstrated that macrophages,and not DCs,were the major antigen-presenting cells (APCs) that cross-prime $\\mathrm { C D 8 ^ { + } }$ T cells after CD47 blockade in an in vitro xenoculture system24. To verify these results,we used an in vitro syngeneic culture system in which both bone marrow-derived macrophages(BMDMs) and bone marrow-derived DCs (BMDCs) were probed for their ability to cross-prime $\\mathrm { C D 8 ^ { + } }$ T cells in the presence or absence of anti-CD47. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2,000 Anti-CD47 b(mw) aanio 2000 Ant-CD47 Anti-CD47 Sirpo-lig   \n500 I1T Trunn 400 200 200 W 2001 ? √ 1   \n0 0 1 \\* 1 0 4 \\*\\* 门 0 0 5101520253035 0 5 10 15 20 25 30 0 10 20 30 0 5 10 15 20 25 30 Time after tumor inoculation (d) Time after tumor inoculation (d) Time after tumor inoculation (d) Time after tumor inoculation (d)   \nFigure 1 Antitumor effects of anti-CD47 depend on T cells. e Nude ratlg f + Ratlg   \n(a) ${ \\mathsf { B A L B / c } }$ mice $\\cdot n = 5$ per group) transplanted s.c.with $5 \\times 1 0 ^ { 6 }$ （204号 (guw) 500 - Nude anti-CD47 INS +Anti-CD47   \nA20luerebindip.hth $4 0 0 ~ { \\mu \\mathrm { g } }$ f ani-C147 obr of anti-CD47 or isotype control control 1 800   \nratimmunoglobulin (ratlg) on days7,9,11 and 13. (b) ${ \\mathsf { B A L B / c } }$   \n(i $n = 5$ peralwtw per group) were injected s.c.with $5 0 ~ { \\mu \\mathrm { g } }$ ecteti-cDw4th of anti-CD47 or isotype control ratlg on days $5 \\times 1 0 ^ { 6 } \\mathsf { A } 2 0$ ceol rain an dated 0 000 400- WWW/ 工   \n11 and 16.(c) C57BL/6 mice ( $\\vert \\eta = 5$ per group) were injected s.c.with   \n$1 \\times 1 0 ^ { 6 }$ MC38 cells and treated intratumorally with $5 0 ~ \\mu \\ g$ of anti-CD47 0 0 5 10 15 20 0 0 5 10 15 20 25   \nor isotype control ratlg on days 1O and 14.(d) A2O tumor-bearing BALB/c Time after tumor inoculation (d) Time after tumor inoculation (d)   \nmice( $n = 5$ per group) were injected s.c.with $5 \\times 1 0 ^ { 6 } \\mathsf { A } 2 0$ cells and   \na ↓Ratlg b C d e +Ratlg \\* Anti-CD47 Ratlg $^ +$ anti-CD47   \n20 S ← nt-CD47 +ant 8 $^ +$ L 江 200 100- 1 Anti-IFN-γ + anti-CD47 50 Truunn 200 I 中 中 中 命 中 0 5 10 152025 0 5 10 152025 No OTI atig A 0 51015202530 Time after tumor inoculation (d) Time after tumor inoculation (d) peptide peptide 3 Anti- .CD Time after tumor inoculation (d) ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "treated twice with $5 0 ~ \\mu \\xi$ of high-affinitySirpαvariantFcfusionprotein (Sirpα-hlg)orhumanlgintratumorallyondays15and2O.(e)BALB/c nude mice 中 $\\scriptstyle n = 4$ per group) were injected s.c.with $2 \\times 1 0 ^ { 6 }$ A2O cells and intratumorally injected with $5 0 ~ { \\mu \\mathrm { g } }$ of anti-CD47 or isotype control ratlg on days 7 and 11. (f) $2 \\times 1 0 ^ { 6 }$ A2Ocellswere transplant oBALB/ （20 $( > 5 0 ~ \\mathsf { m m } ^ { 3 } )$ ,treatment began with daily intratumoral injections of $5 0 ~ \\mu \\ g$ anti-CD47 or $5 0 ~ { \\mu \\mathrm { g } }$ ce week and reported as the mean tumor $\\mathsf { s i z e \\pm s . e . m }$ .over time.One re rresults is depicted.NS,not significant. $^ { \\ast } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ (unpaired Student's t-test) compare For all panels,the arrow indicates treatment time for anti-CD47. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Whereas anti-CD47 did not significantly increase the cross-priming abilities of BMDMs,BMDCs were able to cross-prime $\\mathrm { C D 8 ^ { + } }$ T cells to a greater extent than BMDMs in general,but particularly in the presence of anti-CD47 (Fig.3a). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the cross-priming capacity of DC and macrophages in response to anti-CD47 in vivo,we collected DCs and macrophages from either the MC38 tumor microenvironment or draining lymph nodes (DLN) of anti-CD47-treated MC38-OTIp-bearing mice and cocultured them with OVA-specific OTI T cells.DCs and macrophageswere isolated byFACS,and theirpuritywasvalidated by quantitative RT-PCR using the lineage-defining transcription factor genes Mafb (macrophages）and Zbtb46(DCs）(Supplementary Fig. 3a). We hypothesized that anti-CD47 would increase phagocytosis inside the tumor,leading to migration of antigen-loaded APCs to the DLN,where they would fully mature and cross-prime naive T cells.However, we did not observe significant cross-priming by either macrophages or DCs from the DLN from anti-CD47-treated mice(Fig.3b).In contrast,primary DCs,but not macrophages,harvested from the tumor microenvironment clearly elicited increased activation of T cells after anti-CD47 treatment (Fig.3c).We observed similar effects using macrophages and DCs from mice bearing A20- HA (hemagglutinin expressing) lymphomas after coculture with HA-reactive T cells from CL4 Tcell receptor (TCR)-transgenic (Tg) mice,in which the TCR is specific for the HA antigen.We observed augmented T cell cross-priming induced by DCs compared to macrophages,suggesting that anti-CD47 therapy enhances the ability of DCs (but not macrophages) to cross-prime T cells across tumor subtypes (Supplementary Fig.4a).This was also the case when we analyzed parental A20 orMC38 tumors,indicating thatDC-mediated cross-priming of T cells specific for naturally expressed tumor antigens was also enhanced following anti-CD47 therapy (Fig. 3d,e). To assess whether anti-CD47 had a similar impact in an orthotopic tumor model,we implanted TUBO,an oncogenic receptor neu+ mammary tumor,into mammary fat pads of neu-transgenic mice, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a □Ratlg b □Ratlg C □Ratlg d □Ratlg e □Ratlg f + CD11c-DTR + ratlg ■Anti-CD47 ■Anti-CD47 ■Anti-CD47 ■Anti-CD47 ■Anti-CD47 \\* CD11c-DTR + anti-CD47 E \\* 1 T m30 \\* 888 \\*\\* g/s- 806040 \\*\\* o NS NS 点 NS -NEI 101 N □ -NJI 200 200 200 rrrnn 华 0 0\\* BMDM BMDC Macrophage DC Macrophage DC Macrophage DC Macrophage DC 0 5 10152025 Timaaftar tum inneulatinn /d) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\\*\\* \\*\\*\\* 自 L 工 \\*\\* 4 400 ? /   \n2 Trrnn √ Trunm \\*\\* 上 2 100 T 200 ? H   \n0 0 0 0 0 DC te DC 0 5 10 15 20 25 0 5 10 15 20 25 WT Ifnar1-/- Time after tumor inoculation (d) Time after tumor inoculation (d) H ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "which we subsequently treated with anti-CD47 or isotype control mAb.Here again,increased Tcell cross-primingby DCs was observed when they were cocultured with $\\mathrm { C D 8 ^ { + } }$ T cells isolated from TUBO tumor-bearing mice (Supplementary Fig.4b).Together, these findings indicate that anti-CD47 therapy enhances cross-priming of antigen-specific T cells by tumor-resident DCs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine whetheranti-CD47-induced DC activation was also required for tumor control,we inoculated tumor-bearing CD1lcdiphtheria toxin receptor (Itgax-DTR) bone marrow-chimeric (BMC) mice with MC38 cells s.c.and treated them with diphtheria toxin (DT)to deplete DCs during anti-CD47 treatment.The therapeutic effect of CD47 blockade was severely impaired following DC depletion in tumor-bearing mice (Fig.3f).However, selective removal of tumor-associated macrophages by acolony-stimulating factor(CSF1)- blocking mAb had no impact on the antitumor response following ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CD47 blockade (Supplementary Fig.3b).These data strongly suggest that increased DC cross-priming of cytotoxic T lymphocytes is crucial for the therapeutic effect of anti-CD47 treatment. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Requirement for DC responsiveness to type I IFNs for tumor control ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TypeI IFNs are known to increase the cross-priming capability of DCs after various antitumor therapies25-29.Therefore,we investigated whether type IIFNs were involved in cross-priming induced by CD47 blockade.First,mice with established MC38 tumors were treated with anti-CD47 or isotype control rat Ig. Subsequently, DCs and macrophages were sorted from tumor tissues,and levels of type I IFN mRNA(Ifna and Ifnb) were determined by quantitative PCR. DCs from mice treated with anti-CD47 expressed more Ifna mRNA than DCs from mice treated with rat immunoglobulin (Ig) isotype control.In contrast,anti-CD47 boosted Ifna mRNA abundance in ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8 Anti-CD47 Anti-CD47 T（guu） ganion nan 800 Anti-CD47 d T Ant-CD47 +Myd88 ?Myd88-+anti-CD47 +ratlg 800 Trif+ratlg +Trif-/-+anti-CD47 600- Tmem173+ ratlg Irrr lrN 600 anti-CD47 400- Trrum 400 M ? 200 √ H e2 N + NS + + INS 血   \n0 F5 10 T 15 2025 7 0 0 F5 10 T 15 T 2025 > 0 5 10 15 20 1 WT Tmem173gt   \nTime after tumor inoculation (d) Time after tumor inoculation (d) Time after tumor inoculation (d)   \nFigure 5 STING signalingis required for anti-CD47-mediated tumor inibitioTGtmalingring ti-CD47-meriated tumor e150 \\*\\*\\* \\*\\*\\* 00 $( > 5 0 ~ \\mathsf { m m } ^ { 3 } )$ 工 □Ratlg /s s- \\*\\*\\* \\*\\*\\* □Ratlg   \nintratumorally with anti-CD47 or ratlg(indicated by black arrow). 100 ■Anti-CD47 ■Anti-CD47   \n(a)Tumor growth in WT and $M y d 8 8 ^ { - / - }$ mice( $\\vert n = 5$ per group).   \n(b)Tumor growth in WT and $T r i f ^ { - / - }$ mice ( $n = 5$ per group).(c) Tumor 100 50 NS   \ngrowth inWTand Tmem173gt mice( $n = 6$ per group).(d) WT mice or 50 NS   \nTmem1 $7 3 ^ { g t }$ mice( $n = 5$ per group) were injected s.c.with MC38 cells 0 0 ！   \nand intratumorally treated with $5 0 ~ \\mu \\ g$ of anti-CD47 on days 12 and 15. WT Tmem1739t WT Tmem1739t   \nFive days after the initial treatment,DCs were sorted from tumors.mRNA the monocyte and macrophage population by only twofold (Fig. 4a).   \nSimilar patterns were observed for Ifnb mRNA (Fig.4a). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/44433002cb2b97ca3902138fda6c8cd9a740b52e4dcc70a098cfa16a29dfd2b1.jpg",
+        "img_caption": [
+            "Figure 6 Anti-CD47-mediated immune protection is impaired by some post treatment chemotherapeutics. ${ \\mathsf { B A L B / c } }$ mice( $n = 6$ per group) were injected s.c.with $3 \\times 1 0 ^ { 6 } \\mathsf { A } 2 0$ cells and treated with $5 0 ~ \\mu \\xi$ of anti-CD47 on days 12 and 17.Select chemotherapeutic agents were injected i.p.atdifferent time points. (a) $4 0 ~ \\mathrm { m g / k g }$ of PTX was injected i.p.in a single dose on day 11 (1 d before anti-CD47) or three doses on days 15,18 and 21 (starting 3 d after anti-CD47)( $n = 7$ pooled from two experiments).Tumor growth is reported as the mean tumor size $\\pm \\ : \\mathsf { s . e . m }$ .over time. $^ { * * } P < 0 . 0 1$ (unpaired Student's t-test). (b) $6 0 ~ \\mathrm { m g / k g }$ ofCTX( $n = 5$ per group) was injected i.p.in a single dose on day 11（1 d before anti-CD47)or three doses on days15, 18 and 21 (starting 3 d after anti-CD47). Tumor growth is reported as the mean tumor $\\mathsf { s i z e \\pm s . e . m }$ .over time. $^ { * * } P < 0 . 0 1$ (two-way ",
+            "inalysisof variance).Onerepresentativeexperimentoutoftwo independentexperiments isdepicted.(c,d)Treatedmice( $n = 7$ per group) had umors removed by surgery and were rechallenged with $1 . 5 \\times 1 0 ^ { 7 }$ A2O cells 1 week after surgery.Percentage of tumor-free mice is shown. $^ { * } P < 0 . 0 5$ Mantel-Cox). One representative experiment out of two independent experiments is depicted. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To test whether type IIFNs were required for the anti-CD47 mediated antitumor effect in vivo,mice bearing MC38 or A20 tumors were treated with intratumoral injections of IFNAR-blocking antibody on days O and 2 after injection with anti-CD47 or isotype control.Blocking type I IFN signaling impaired the therapeutic effect of anti-CD47 (Fig.4b and Supplementary Fig.5),suggesting that type I IFNs are essential for anti-CD47-mediated tumor regression.Given the important role of type I IFNs on DC activation and the importance of DCs in anti-CD47-mediated therapeutic effects,we assessed whether type IIFN signaling specifically in DCs was required for tumor responses following CD47 blockade.To this end,we established MC38 tumors in CD1lcCre+; Ifnar $l ^ { \\mathrm { { f l / f l } } }$ mice and Ifnarifl/fl mice.Conditional deletion of Ifnarl in ${ \\mathrm { C D 1 1 c ^ { + } } }$ cells markedly reduced the effect of CD47 blockade on tumor growth (Fig.4c), demonstrating that type IIFN signaling in DCs is necessary for the therapeutic efficacy of anti-CD47.Because CD1lc is known to be expressed on cells other than DCs,we performed a DC cross-priming assay using BMDCs.The cross-priming capacity of BMDCs from Ifnarl-deficient mice in the presence of anti-CD47 was compromised compared to that of BMDCs from wild-type mice (Fig.4d).Together, these data indicate that type I IFN signaling in DCs plays an integral role in boosting the adaptive immune response to anti-CD47 antibody therapy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Essential role for cytosolic DNA sensing for cross-priming ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Anti-CD47-induced phagocytosis might preferentially target stressed tumor cells expressing high levels of prophagocytic molecules.Substances released by tumor cells engulfed into phagosomes might also promote activation of host $\\mathrm { A P C } s ^ { 3 0 - 3 2 }$ .For example, tumor-derived danger-associated molecular patterns (DAMPs) engulfed during phagocytosis could initiate type I IFN production by engaging Toll-like receptor-myeloid differentiation factor-88(TLRMyD88) sensing pathways in host $\\mathrm { A P C s } ^ { 3 1 , 3 3 }$ .To determine whether host TLR pathways were required for the antitumor effect of antiCD47 therapy, we established MC38 tumors in $M y d 8 8 ^ { - / - }$ and $T r i f ^ { - / - }$ (Trif is officiallyknown as Ticam1）mice.The inhibition of tumor growth after anti-CD47 treatment was comparable in WT, $M y d 8 8 ^ { - / - }$ and $T r i f ^ { - / - }$ mice (Fig. 5a,b),indicating that TLR signaling in host cells is dispensable for the antitumor effect of CD47blockade.These results also suggest that anti-CD47 activates cross-priming through a TLR-independent pathway. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recent studies have revealed a cytosolic DNA-sensing pathway involving the endoplasmic reticulum-resident protein stimulator of interferon genes (STING)34-38.The STING pathway is also essential for host DC sensing of tumor $\\mathrm { D N A } ^ { 3 9 , 4 0 }$ . To determine the role of STING in anti-CD47-mediated antitumor responses,we implanted MC38 tumor cells in flanks of WTand Tmem173gt (STING-deficient) mice and monitored tumor growth after treatment with anti-CD47 orisotype control rat Ig.Tumor growth was identical in WT mice treated with isotype-control rat Igand in Tmeml $7 3 ^ { g t }$ mice treated with isotype control rat Ig.However, the antitumor effects of anti-CD47 treatmentwere completelyabrogated in Tmem173gt mice compared with WT mice (Fig.5c). Thus,cytosolic DNA sensing through STING is absolutely essential for the antitumor effect of anti-CD47 therapy. To evaluate whether STING was essential for induction of type I IFN after anti-CD47 therapy,we treated WT or Tmem $1 7 3 ^ { g t }$ mice bearing MC38 tumors with anti-CD47.Five days later,we measured Ifna mRNA expression levels in tumor-infiltratingDCs.We observed a significant induction of Ifna transcripts in DCs from WT but not Tmeml73gt mice following CD47 blockade(Fig.5d).To determine whether the anti-CD47-induced DC cross-priming of $\\mathrm { C D 8 ^ { + } }$ Tcells depends on STING,we conducted a cross-priming assay with BMDCs from WT and Tmem173gt mice. The cross-priming capacity of WT butnot Tmeml $7 3 ^ { g t }$ DCs was significantly increased by coculture with tumor cells and anti-CD47(Fig.5e).We reached a similar conclusion by IFN- $\\cdot \\gamma$ ELISPOT assay of purified $\\mathrm { C D 8 ^ { + } T }$ cells from tumor DLNs of WTand Tmem $1 7 3 ^ { g t }$ mice treated with anti-CD47; anti-CD47 induced tumor-specific $\\mathrm { C D 8 ^ { + } }$ T cell IFN- $\\cdot \\gamma$ production in WT but not Tmem $1 7 3 ^ { g t }$ mice (Fig.5f). Overall, these results suggest that the STING-dependent cytosolic DNA sensing pathway is essential for anti-CD47-induced antitumor adaptive immune responses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chemotherapy influences anti-CD47 effects ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Clinical trials of anti-CD47 treatment are underway,but many patients might also have received or continue to receive chemotherapy.As our data reveal an essential role ofTcells,and as chemotherapy can suppress the immune system and kill recently activated immune cells41,42, chemotherapy may blunt the therapeutic effects ofanti-CD47 antibody therapy. Alternatively,chemotherapy may synergize with anti-CD47 by increasing release of antigens and DNA from dying tumor cells. To test whether chemotherapy drugs used for lymphoma synergize with or inhibit anti-CD47 therapy,we combined anti-CD47 treatment with clinically equivalent doses of cyclophosphamide(CTX) or paclitaxel (PTX) to treat large,established A20 tumors in $\\mathtt { B A L B / c }$ mice. PTX $( 4 0 \\mathrm { m g / k g ) }$ or CTX $( 6 0 ~ \\mathrm { m g / k g ) }$ was administered 3 days before or after anti-CD47 treatment.Chemotherapy administered after anti-CD47 treatment did not result in faster tumor regression than anti-CD47 alone (Fig.6a,b). To test the impact of chemotherapy on anti-CD47-mediated acute and memory immune responses, all tumors were surgically removed. One week after surgery, mice were rechallenged with $1 . 5 \\times 1 0 ^ { 7 }$ A20 cells.All mice whose primary tumor underwent anti-CD47 treatment alone rejected the tumor rechallenge (Fig.6c).In contrast,a majority of the mice treated with anti-CD47 followed by chemotherapy were susceptible to tumor outgrowth after rechallenge ( $5 0 \\%$ of CTX combination mice; $8 0 \\%$ ofPTXcombina tion mice) (Fig. 6c,d and Supplementary Table 1). This suggests that chemotherapy administered after anti-CD47 therapy had detrimental effects on development of beneficial antitumor memory immune responses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We speculated that there mightbea limited window of time when chemotherapy drugs can effectively reduce tumor burden and induce prophagocytic signals without destroying anti-CD47-induced immunity.To test whether chemotherapy given before anti-CD47 also inhibited immune memory,we injected an identical dose of PTX or CTX 1 day before antibody treatment rather than 3 days after. This single treatment of chemotherapy before anti-CD47 not only synergized with anti-CD47 for tumor control but also preserved the host memory response against relapsing tumors generated by anti-CD47 ( $1 0 0 \\%$ of CTX combination mice and $8 0 \\%$ of PTX combination mice resistant to tumor rechallenge) (Fig.6a-c and Supplementary Table1). Taken together,our results indicate that simple alterations to standard drug administration could have a major impact on primary and memory immune responses to tumors and alter clinical outcomes in response to immunomodulatory anti-CD47 antibody therapy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Previous publications suggested that anti-CD47 therapy exerts antitumor activity by blocking antiphagocytic signaling,leading to tumor cell death by macrophage-mediated phagocytosis in a manner independent of adaptive immunityl2,16,18.In contrast, here we reveal that in immune-competent mice,the therapeutic effect oflow doses of antiCD47 largely depends on DC cross-priming of $\\mathrm { C D 8 ^ { + } }$ T cells.Within DCs,STING-mediated sensing of DNA,which drives typeIIFN production,is also required.Finally, timely combination of conventional therapeutics with immunotherapy can boost the host response to control or even eradicate tumors and prevent future relapse. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Potential reasons for the differences between our conclusions and those of previous studies include differences in the preclinical animal models used12,16. Most previous studies used tumor xenograft models,which are widelyused as preclinical models and are an integral part of the US Food and Drug Administration approval process. Anti-human CD47 showed impressive efficacy toward xenografted human tumor cells (especially lymphoma and leukemia） in NSG mice (nonobese diabetic (NOD) severe combined immunodeficiency (SCID) interleukin-2 receptor $\\gamma$ chain-deficient mice without Tand B cells)16,18. By comparing syngeneic mouse tumors in WT and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "T cell-deficient nude mice,we revealed a role for T cells in the therapeutic effects of anti-CD47.Several factors could explain the apparently strong role for phagocytosis observed in xenograft models. First,upon implantation in an NSG model human CD47 binds to NSG mouse $\\operatorname { S I R P Q }$ due to a germline $\\operatorname { S I R P Q }$ mutation of these mice, whereas human CD47 could not bind well to $\\operatorname { S I R P Q }$ in other strains of mice,including BALB/c and C57BL/6 (refs.43,44). This unique binding between human CD47 and NOD mouse $\\operatorname { S I R P Q }$ on activated innate cells makes them more susceptible to antibody blockade. Second,in xenograft models,the therapeutic effect of anti-human CD47 was often achieved at much higher doses (for example, $2 0 0 \\mu \\mathrm { g }$ daily for consecutive $\\begin{array} { r } { 1 4 \\mathrm { d } \\dot { } } \\end{array}$ )than the current studyl2.We did observe better tumor control when a higher dose of anti-mouse CD47 antibody was used in the nude mouse model.Lastly,in a syngeneic seting, anti-CD47 will bind both healthy and malignant cells that express CD47.However,in the xenograft model, only tumor cells express human CD47. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our work may differ from published works in another way: using an in vitro serum-free assay,a recent study showed that phagocytosis of human tumor cells after anti-human CD47 treatment is mainly attributed to mouse BMDMs,whereas the contribution of BMDCs is almost undetectable24. Consistently across multiple experiments, enhancement of cross-priming by macrophages was observed in response to anti-CD47.Conversely, we observed that both BMDCs and primary DCs are more potent than BMDMs and primary macrophages for cross-priming Tcells.To explain this contradiction, we have observed that culturing BMDCs without serum results in increased apoptosis and malfunction of the DCs,which could ultimately impair their cross-priming capacity (Supplementary Fig.6).Supplemented with serum,BMDCs recovered their ability to cross-prime in vitro.Furthermore,ex vivo-isolated DCs are more able to cross-prime CTL than are ex vivo isolated macrophages after anti-CD47 treatment.Finally, deletion of DCs in vivo limits the antitumor effects of anti-CD47and the antitumor effect of the anti-CD47 depends on IFNAR on $\\mathrm { C D 1 1 c ^ { + } }$ cells.Thus,our data clearly demonstrate in an immune-competent syngeneic host that the therapeutic effect of CD47 blockade requires functional DCs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another point related to the clinical scenario is tumor immunogenicity.Accumulating evidence suggests that the response to immunotherapies is often reliant on the immunogenicity ofa tumor,with tumors bearing high loads of somatic mutations showing greater responsiveness than tumors bearing relatively few somatic mutations.Highly mutated tumors probably express higher numbers of neoantigens that can be better recognized and rejected by host T cells, for example,when the CTLA-4 or PD-1 co-inhibitory pathways are blocked by therapeutic antibodies45,46.As such, it is possible that anti-CD47 treatment could possibly have more impact on immunogenic tumors than on nonimmunogenic tumors. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Finally, standard chemotherapy can have major impacts on antiCD47 therapy efcacy. Prior studies have shown that chemotherapy can lead to increased expression of cell surface calreticulin on tumor cells42. Thus,chemotherapy-mediated upregulation of cell surface calreticulin,a prophagocytic signal, may potentially augment the efficacy of anti-CD47 antibodies by propagating STING signaling. In addition,chemotherapy may lead to increased infiltration of APCs, including DCs and macrophages,to tumor sites47,48. However, properly inducing $\\mathrm { C D 8 ^ { + } }$ T cell-mediated tumor regression requires careful design of sequence and doses for both chemotherapy drugs and anti-CD47,as inappropriate combination treatments of antibody plus chemotherapy may have negative effects on the host immune response to tumor antigens. Thus future clinical trials involving anti-CD47 treatment and standard-of-care chemotherapy must be properly timed and tested,as both synergy and antagonism will be time and dose dependent.In conclusion,understanding the mechanisms by which CD47 blockade interfaces with host antitumor immunity will yield important information for designing new treatments using combinations of anti-CD47 with chemotherapeutics and otherimmunomodulatory antibodies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Methods and any associated references are available in the online version of the paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Any Supplementary Information and SourceData files are available in the onlineversionof thepaper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thankR.Schreiber(Washington University, St.Louis) for providing us with anti-IFNAR antibody.IfnarIfl/fl mice were kindly provided by U.Kalinke from the Institute for Experimental Infection Research.Anti-IFN-γ neutralizing mAb (clone R46A2) was provided by Z.Qin (the Institute of Biophysics,CAS).Some anti-CD47 antibody(clone MIAP301) was provided byW.Frazier(Washington University, St.Louis).This research was in part supported by US National Institutes of Health grants CA141975 and C134563 to Y.-X.F.,the National 12.5 major project of China (No.2012ZX10001006002004) to Y.-X.F.and H.P., Chinese Academy of Sciences grant XDA09030303 and 2012CB910203 to Y.-X.F.and a Dean's Award from Washington University to W.A.F. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "X.L.,Y.P.,H.X.and M.M.X. performed experiments.L.D., J.K.,W.A.F.and H.P.   \nprovided reagents.X.L.,M.M.X.and Y.-X.F designed and organized experiments.   \nK.C.,J.K.and H.P.edited the manuscript.X.L.,M.M.X.and Y.-X.F wrote the paper.   \nY.-X.F. guided the work. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "COMPETINGFINANCIALINTERESTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theauthors declare competing financial interests:details accompany the online version of the paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permissions information is available online at http://www.nature.com/ reprints/index.html. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.Gardai,S.J.et al. Cell-surface calreticulin initiates clearance of viable or apoptotic cells through trans-activation of LRP on the phagocyte.Ce// 123，321-334 (2005).   \n2．Chao,M.P.et al. Calreticulin is the dominant pro-phagocytic signal on multiple human cancers and is counterbalanced by CD47．Sci.Transl.Med.2，63ra94 (2010).   \n3．Chao,M.P.,Majeti，R.& Weissman,I.L.Programmed cell removal: a new obstacle in the road to developing cancer. Nat.Rev. Cancer12,58-67 (2012).   \n4．Oldenborg,P.A.et al.Role of CD47 as a marker of self on red blood cells.Science   \n288，2051-2054 (2000).   \n5.Blazar, B.R.et al. CD47 (integrin-associated protein) engagement of dendritic cell and macrophage counterreceptors is required to prevent the clearance of donor lymphohematopoietic cells.J.Exp.Med.194，541-549 (2001).   \n6．Barclay,A.N.& Van den Berg,T.K.The interaction between signal regulatory protein alpha(SIRPα) and CD47:structure,function,and therapeutic target.Annu.Rev. Immunol.32,25-50 (2014).   \n7.Yamao,T.et al. Negative regulation of platelet clearance and of the macrophage phagocytic response by the transmembrane glycoprotein SHPS-1.J.Biol.Chem.   \n277，39833-39839 (2002).   \n8．Olsson，M.，Bruhns，P.，Frazier，W.A.，Ravetch，J.V.& Oldenborg，P.A. Platelet homeostasis is regulated by platelet expression of CD47 under normal conditions and in passive immune thrombocytopenia. Blood 1o5，3577-3582 (2005).   \n9．Tsai,R.K.& Discher,D.E.Inhibition of“self\"engulfment through deactivation of myosin-ll at the phagocytic synapse between human cells.J.Ce// Biol.180,   \n989-1003 (2008).   \n10.Poels,L.G.et al.Monoclonal antibody against human ovarian tumor-associated antigens. J.Natl. Cancer Inst.76,781-791 (1986).   \n11.Jaiswal,S.et al. CD47 is upregulated on circulating hematopoietic stem cells and leukemia cells to avoid phagocytosis.Ce//138,271-285 (2009).   \n12.Majeti，R．et al.CD47 is an adverse prognostic factor and therapeutic antibody target on human acute myeloid leukemia stem cells.Ce//138,286-299 (2009).   \n13.Rendtlew Danielsen,J.M.,Knudsen,L.M.,Dahl,I.M.,Lodahl,M.& Rasmussen,T. Dysregulationof CD47_and_the_ligandsthrombospondin1and2inmultiple myeloma.Br.J.Haematol.138,756-760 (2007).   \n14.Chan，K.S.etal.Identification,molecularcharacterization,clinical prognosis,and therapeutic targeting of human bladder tumor-initiatingcels.Proc.Natl.Acad.Sci. USA 106,14016-14021 (2009).   \n15.Chan，K.S.,Volkmer,J.P.&Weissman，I.Cancerstem_celsinbladdercancer:a revisited andevolving concept.Cur.Opin.Urol.20,393-397 (2010).   \n16.Chao，M.P.etal.Anti-CD47antibody_synergizeswithrituximabtopromote phagocytosis_anderadicate non-Hodgkin lymphoma.Cel/142,699-713(2010).   \n17.Willingham,S.B.etal.The CD47-signal regulatory proteinα (SIRPa) interaction is atherapeutic target for human solid tumors.Proc.Natl.Acad.Sci.USA 109,   \n6662-6667 (2012).   \n18.Chao,M.P.et al.Therapeutic antibody targeting of CD47 eliminates human acute lymphoblastic leukemia.Cancer Res.71,1374-1384 (2011).   \n19.Chao,M.P.etal.Extranodaldisseminationofnon-HodgkinlymphomarequiresCD47 and is inhibited by anti-CD47_antibody therapy.Blood118,4890-4901 (2011).   \n20.Soto-Pantoja,D.R.et al.CD47 in the tumor microenvironment limitscooperation between antitumor T-cellimmunity and radiotherapy. Cancer Res.74,6771-6783 (2014).   \n21.Lee,Y.etal.Therapeuticefectsofablativeradiationonlocal tumorrequire $\\mathsf { C D 8 + }$ Tcells:changingstrategiesforcancer treatment.Blood114,589-595(2009).   \n22.Brown，E.J.&Frazier，W.A.Integrin-associatedprotein(CD47)anditsligands. Trends Cell Biol.11,130-135 (2001).   \n23.Weiskopf,K.etal.Engineered SRPαvariantsasimmunotherapeuticadjuvants to anticancer antibodies. Science 341,88-91 (2013).   \n24.TsengD.etalAnti47tibodymedatedagocyoisancerbyacoage primes an effective antitumor T-cell response.Proc.Natl.Acad.Sci.USA 110,   \n11103-11108 (2013).   \n25.Burnete，B.C.etal.Theefficacyof radiotherapyreliesupon inductionof typeI interferon-dependent innate and adaptive immunity. Cancer Res.71,2488-2496 (2011).   \n26.Diamond，M.S.etal.Typelinterferon isselectivelyrequiredbydendriticcellsfor immunerejectionof tumors.J.Exp.Med.208，1989-2003 (2011).   \n27.Fuertes,MBetal.HosttyeIFNsignalsarerequiredforantitumorCDcell responses through $\\mathsf { C D 8 0 } \\mathsf { d } ^ { + }$ dendritic cels.J.Exp.Med.208,2005-2016 (2011).   \n28.Stagg，J.et al.Anti-ErbB-2 mAb therapy requires typeland Ilinterferonsand synergizes with anti-PD-1oranti-CD137mAb therapy.Proc.Natl.Acad.Sci.USA   \n108,7142-7147 (2011).   \n29.Yang,X.etal.Targetingthetumormicroenvironmentwithinterferon $\\cdot \\{ \\beta$ bridges innate and adaptive immune responses.Cancer Cell25,37-48 (2014).   \n30.Chen,G.Y.& Nunez,G.Sterile inflammation: sensing and reacting to damage.Nat. Rev. Immunol.10,826-837 (2010).   \n31.Desmet,C.J.& Ishii,K.J.Nucleic acid sensing at the interface between innate and adaptive immunity in vaccination.Nat. Rev.Immunol.12,479-491 (2012).   \n32.Kono，H.&Rock，K.L.How dyingcelsalert theimmune system todanger.Nat. Rev. Immunol.8,279-289 (2008).   \n33.O'Neill，L.A.，Golenbock，D.&Bowie，A.G.ThehistoryofTol-likereceptors redefining innate immunity.Nat.Rev.Immunol.13,453-46O (2013).   \n34.Ishikawa，H.& Barber，G.N.STING isanendoplasmic_reticulumadaptor that facilitates innate immune signalling.Nature 455,674-678 (2008).   \n35.Ishikawa,H.，Ma,Z.& Barber,G.N.STING regulates intracellular DNA-mediated, typelinterferon-dependentinnateimmunity._Nature461,788-792(2009).   \n36.Li，X.D.etal.PivotalrolesofcGAS-cGAMPsignalinginantiviraldefenseand immune adjuvant effects.Science 341,1390-1394 (2013).   \n37.Sun，L.，Wu,J.，Du，F.，Chen，X.&Chen，Z.J.Cyclic GMP-AMP synthase isa cytosolic DNA sensor that activates the type linterferon pathway.Science 339,   \n786-791 (2013).   \n38.Wu,J.etal.CyclicGMP-AMPisanendogenoussecondmessengerininnateimmune signaling by cytosolic DNA.Science339,826-830(2013).   \n39.Woo,S.R.etal.dependentcysolicsesingmedatesinnateiune recognition of immunogenic tumors.Immunity 41,830-842 (2014).   \n40.Deng，L.et al.STING-dependent cytosolic DNA sensing promotes radiation-induced typelinterferon-dependent antitumor immunityin immunogenic tumors.Immunity   \n41,843-852 (2014).   \n41.Obeid，M.et al.Ecto-calreticulin in immunogenic chemotherapy.Immunol.Rev.   \n220,22-34 (2007).   \n42.Obeid，M.etal.Calreticulinexposure dictatesthe immunogenicityof cancer cel death.Nat.Med.13,54-61 (2007).   \n43.Takenaka，K.etal.PolymorphisminSirpa modulatesengraftment of human hematopoietic stemcels.Nat.Immunol.8，1313-1323(2007).   \n44.Yamauchi，T.etal.PolymorphicSirpaisthegeneticdeterminantforNObased mouse lines to achieve efficient human cell engraftment. Blood 121,1316-1325 (2013).   \n45.Matsushita,H.et al.Cancer exome analysis revealsa T-cel-ependent mechanism of cancer immunoediting.Nature 482,400-404 (2012)   \n46.Snyder,A.etal.Genetic basisforclinicalresponse toCTLA-4blockadeinmelanoma. N. Engl.J.Med.371,2189-2199 (2014).   \n47.Ma，Y.et_al.Anticancerchemotherapy-induced_intratumoral_recruitmentand differentiationof antigen-presenting cels.Immunity 38,729-741 (2013).   \n48.Ma，Y.etal.CCL2/CCR2-dependentrecruitmentoffunctionalantigen-presenting celis into tumors upon chemotherapy. Cancer Res.74,436-445 (2014). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ONLINEMETHODS",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mice.Six- to eight-week-old female C57BL/6J mice were purchased from Harlan or Jackson Laboratory. Six- to eight-week-old female BALB/c mice were purchased from Charles River Laboratories in China. $M y d 8 8 ^ { - / - }$ $T r i f ^ { - / - }$ ,Tmem1738t, OT-I $\\mathrm { C D 8 ^ { + } }$ T cell receptor (TCR)-Tg, CD11c-Cre-Tg, CD11c(Itgax)-DTR and BALB/c-Tg(MMTV-neu) mice were purchased from The Jackson Laboratory.Ifnarifl/fl mice were kindly provided by U.Kalinke from the Institute for Experimental Infection Research,Hanover,Germany. All the mice were maintained under specific pathogen-free conditions and used between 6-12 weeks of age in accordance to the animal experimental guidelines set by the Institutional Animal Care and Use Committee of the University ofChicago and Institute of Biophysics, CAS. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cell lines and reagents.All cell lines were characterized by short tandem repeat analysis (STR) profiling and tested free of mycoplasma contamination.MC38 is a murine colon adenocarcinoma cell line.A20 is a murine B cell lymphoma cell line.MC38-OTIp was sorted and subcloned after MC38 cells were stably transduced with retrovirus expressing mouse EGFRVIII-OTIp (peptide epitope for OTI).A2o-HA was selected as a single clone after being transduced by retrovirus expressing hemagglutination antigen (HA).TUBO was cloned from a spontaneous mammary tumor in a BALB neu Tg mouse49. Anti-IFN- $\\cdot \\gamma$ neutralizing mAb (clone R46A2) was provided byDr. ZhihaiQin (the Institute of Biophysics, CAS).Anti-CSF1 neutralizing mAb (5A1) and anti-mIFNARl neutralizing mAb (clone MAR1-5A3) were purchased from BioXcell(West Lebanon,NH). Anti-CD47 antibody(clone MIAP301) was initially purchased from eBioscience or BioLegend and then provided byDr.William Frazier(Washington University, St.Louis).It is a rat-derived antibody that specifically recognizes mouse CD47 and blocks mouse $\\operatorname { S I R P } \\alpha$ binding50.SIRPα-hIg,anti-CD8 depleting antibody (clone TIB210) and anti-CD4 depleting antibody(clone GK1.5) were produced in house.The endotoxin level forAb and fusion protein is lower than $0 . 2 \\mathrm { E U }$ (Endotoxin Units) $/ \\mu \\ g$ of protein.Chemotherapeutic agents cyclophosphamide (CTX),paclitaxel (PTX) and doxorubicin (DOX) were purchased from Sigma and prepared according to the manufacturers' recommendations. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tumor growth and treatments. $2 { - } 5 \\times 1 0 ^ { 6 }$ A20 or $1 \\times 1 0 ^ { 6 }$ MC38 tumor cells were s.c.injected into the flank of mice. Tumor volumes were measured by length(a) and width (b)and calculated as tumor volume $= \\mathrm { a b } ^ { 2 } / 2$ .Tumors, allowed to grow for $7 \\mathrm { - } 1 4 \\mathrm { d }$ to reach $5 0 \\mathrm { m m } ^ { 3 }$ , were treated by anti-CD47 or rat Ig intratumorally ori.p.For Sirpα-hIg treatment, $5 \\times 1 0 ^ { 6 } \\mathrm { A } 2 0$ tumor cells were s.c. injected into the flank of mice. Tumors were allowed to grow for $1 4 \\mathrm { ~ d ~ }$ and treated by Sirpα-hIg or human Ig intratumorally.For CD8 or CD4 depletion experiments, $2 0 0 { - } 3 0 0 ~ { \\mu \\mathrm { g } }$ of anti-CD8 antibody (clone TIB210) or anti-CD4 (clone GK1.5) was injected i.p.at the same time as anti-CD47 treatment. For the IFN-γ neutralizing experiment, $3 0 0 \\mu \\mathrm { g }$ of anti-mouse IFN-Yantibody(clone R46A2)was injected i.p.on the day of anti-CD47 treatment.For type I IFN blockade experiments, $5 0 ~ { \\mu \\mathrm { g } }$ anti-IFNAR1 mAb was intratumorally injected on day O and 2 after anti-CD47 Ab.For the CSF1 neutralizing experiment, $1 0 0 \\mu \\mathrm { g }$ of anti-mouse CSFl antibody(clone 5A1) was injected i.t.on the same day of anti-CD47 treatment.For chemotherapeutic agent combination, $6 0 \\mathrm { m g / k g }$ of CTX, $4 0 ~ \\mathrm { m g / k g }$ of PTX or $1 5 ~ \\mathrm { m g / k g }$ of DOX were administered i.p.at the indicated times. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Production of Sirpα-hIg fusion protein. Sirpα-hIg was generated as previously23.Generally speaking,a plasmid encoding the DNA sequence of Sirpa was synthesized by OriGene technology company. The DNA was then cloned into the pEE12.4 expression plasmid (Lonza,Basel, Switzerland) between the IgG IgGk leading sequence and the human IgG1 Fc sequence using BsiWI and BstBI.The SIRPa-hIg fusion protein was transiently expressed in FreeStyle 293-F cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generation of bone marrow chimeras.WT mice were lethally irradiated with a single dose of1,Ooo rads.The next day,irradiated mice were adoptively transferred with $2 - 3 \\times 1 0 ^ { 6 }$ CD11c-DTR $\\mathrm { T g }$ donor bone marrow cells.Mice were maintained on sulfamethoxazole and trimethoprim (Bactrim) antibiotics diluted in drinking water for 5 weeks after reconstitution.Mice were injected with tumor cells 5-6 weeks post reconstitution. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In vitro culture and function assay of BMDCs and BMDMs.Single-cell suspensions of bone marrow cells were obtained from C57BL/6J,Tmem173gt orInfar $! ^ { - / - }$ mice.The cells were placed in $1 0 \\mathrm { - c m }$ Petri dishes and cultured in RPMI-1640 medium containing $1 0 \\%$ FBS,supplemented with $2 0 ~ \\mathrm { n g / m l }$ GM-CSFor M-CSF.Fresh media with GM-CSF orM-CSF was added into culture on day 3.BMDCs and BMDMs were harvested for a stimulation assay on day 7. BMDCs or BMDMs were added and cocultured withMC38-OTIp cells at a ratio of l:1 in the presence offresh GM-CSF with or without $1 0 \\mu \\mathrm { g / m l }$ anti-CD47 Ab overnight. Subsequently ${ \\mathrm { C D } } 1 1 { \\mathrm { c } } ^ { + }$ cells and $\\mathrm { F 4 } / 8 0 ^ { + }$ cells purified by FCS sorting were incubated with isolated $\\mathrm { C D 8 ^ { + } }$ T cells from naive OT-I mice for $3 \\mathrm { d }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "T cell isolation. OTI naive $\\mathrm { C D 8 ^ { + } }$ T cells were isolated from lymph nodes and spleen of 6-to 12-week-old mice.Selection was carried out with a negative CD8 isolation kit (Stemcell Technologies） following the manufacturer's instructions. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNAextractionand quantitative real-timeRT-PCR.Total RNA from $5 \\times 1 0 ^ { 4 }$ sorted tumor infiltrating monocytes,macrophages and DCs were extracted with the RNeasy Micro Kit (QIAGEN)and reverse-transcribed with Seniscript Reverse Transcription Kit (QIAGEN).Real-time RT-PCR was performed with SSoFast EvaGreen supermix(Bio-Rad) according to the manufacturer's instructions and with different primer sets on StepOne Plus (Applied Biosystems). Datawere normalized by the level of HPRT expression in each individual sample. The $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ method was used to calculate relative expression changes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tumor digestion.Tumor tissues were excised on day 5 after anti-CD47 and digested with $\\mathrm { { 1 m g / m l } }$ collagenase IV(Sigma) and $1 0 0 \\mathrm { m g / m l }$ DNaseI(Sigma) in the incubator with $5 \\% \\mathrm { C O } _ { 2 }$ .After $3 0 \\mathrm { m i n }$ ,tumors were passed through a $7 0 \\mathrm { - } \\mu \\mathrm { m }$ cell strainer to remove large pieces of undigested tumor. Tumor-infiltrating cells were washed twice with PBS containing $2 \\mathrm { m M }$ EDTA. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MeasurementofIFN- $\\cdot \\gamma \\cdot$ -secreting $\\mathbf { C D 8 + }$ Tcells byELISPOT assay.For bone marrow ${ \\mathrm { C D 1 1 c ^ { + } } }$ cell functional assays, $2 \\times 1 0 ^ { 4 }$ purified ${ \\mathrm { C D 1 1 c ^ { + } } }$ or $\\mathrm { F 4 } / 8 0 ^ { + }$ cells were incubated with isolated $\\mathrm { C D 8 ^ { + } }$ T cells from naive OTI mice with EasySep Mouse CD8α Positive Selection Kit (Stemcell Technologies) for 3d at the ratio of 1:10.For tumor-specific $\\mathrm { C D 8 ^ { + } }$ T cell functional assays in the MC38-OTIp model,5 d after anti-CD47 treatment, tumor DLNs were removed and $\\mathrm { C D 8 ^ { + } }$ T cells were purified. $2 \\times 1 0 ^ { 5 } \\mathrm { C D 8 ^ { + } }$ T cells were incubated with BMDCs at the ratio of 10:1 for $^ { 4 8 \\mathrm { ~ h ~ } }$ with or without $5 ~ { \\mu \\mathrm { g / m l } }$ OTI peptide (SIINFEKL).For tumor-specific $\\mathrm { C D 8 ^ { + } }$ T cell functional assays in the MC38 and A20 models, 5 days after anti-CD47 treatment, tumor DLNs were removed.DLN cells were re-stimulated with A20 or MC38.A 96-well HTS-IP plate (Millipore) was precoated with anti-IFN- $\\cdot \\gamma$ antibody(eBioscience) with a1:250 dilution overnight at $4 ~ ^ { \\circ } \\mathrm { C }$ 、After coculture,cells were removed, $2 ~ \\mu \\mathrm { g / m l }$ biotinylated anti-IFN- $\\gamma$ antibody (eBioscience)with a 1:250 dilution was added,and the plate was incubated for $^ { 2 \\mathrm { ~ h ~ } }$ at room temperature or overnight at $4 ~ ^ { \\circ } \\mathrm { C }$ Avidin-horseradish peroxidase (BD Pharmingen) with a1:1,Ooo dilution was then added and the plate was incubated for1h at room temperature.The cytokine spots of IFN-γ were developed according to product protocol (Millipore). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ex vivo DC cross-presentation assay.MC38-OTIp bearing mice were treated with $5 0 \\mu \\mathrm { g }$ of rat Ig or anti-CD47 mAb intratumoral injection on days 1l and 14. Five days later,draining lymph node and tumor were digested and DCs or macrophages were purified by FACS sorting.Approximately $5 \\times 1 0 ^ { 4 }$ DCs were mixed together with purified $5 \\times 1 0 ^ { 5 }$ OTI Tcells for 3d.The supernatants were collected,and IFN-γwas measured by Flex Set CBA assay (BD Bioscience). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A20-HA-bearing mice were treated with $5 0 ~ { \\mu \\mathrm { g } }$ of rat Ig or anti-CD47 intratumoral injection on day 1o.Four days later,draining lymph nodes were digested and DCs or macrophages were purified by FACS sorting.Approximately $4 \\times 1 0 ^ { 3 }$ DCs or macrophages were mixed together with purified $2 \\times 1 0 ^ { 4 }$ CL4 T cells for $^ { 2 \\mathrm { d } }$ IFN $\\cdot \\gamma .$ -producing cells were enumerated by ELISPOT assay. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For tumor-endogenous antigen,A20- or MC38- or TUBO-bearing mice were treated with $5 0 ~ { \\mu \\mathrm { g } }$ of rat Ig or anti-CD47 intratumorally. Four days later, tumors were digested and DCs or macrophages were purified by FACS sorting. Approximately $3 \\times 1 0 ^ { 4 }$ DCs were mixed together with purified $3 \\times 1 0 ^ { 5 } \\mathrm { C D 8 ^ { + } }$ T cells isolated from draining lymph node of mice that had been inoculated with freeze-thawed tumor cells.After $4 8 \\mathrm { h }$ ,IFN-Y-producing cells were enumerated by ELISPOT assay. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometric sorting and analysis.Single-cell suspensions were blocked with anti-FcR(clone 2.4G2,BioXcell) and then stained with antibodies (1:40o dilution) against CD1lc (Clone N418),CD11b (Clone M1/70),Ly6C(Clone HK1.4),Ly6G (ClonelA8),F4/80 (Clone BM8) and CD45 (Clone 30-F11),and 7-AAD. Cells were sorted onaFACSAriaIICell Sorter(BD).For theMouse IFN-γFlex Set CBA assay, IFN-γdetection in the supernatants was performed ona FACSCalibur Flow Cytometer (BD).Data were analyzed withFlowJo Software (TriStar). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Primer sequences for real-time PCR.Primer sequences for quantitative realtimePCRwereasfollows:infb forward $5 ^ { \\prime }$ -TGAACTCCACCAGCAGACA $3 ^ { \\prime }$ 0 infb reverse $5 ^ { \\prime } .$ ACCACCATCCAGGCGTAG $3 ^ { \\prime }$ ；infalforward $5 ^ { \\prime }$ TCCCCTGA CCCAGGAAGATGCC $3 ^ { \\prime }$ ,infal reverse $5 ^ { \\prime }$ -ATTGGCAGAGGAAGACAGG GCT- $3 ^ { \\prime }$ ；hprt forward $5 ^ { \\prime }$ -TGAAGAGCTACTGTAATGATCAGTCA- $3 ^ { \\prime }$ ，hprt reverse $5 ^ { \\prime }$ AGCAAGCTTGCAACCTTAACCA- $3 ^ { \\prime }$ .mafB forward $5 ^ { \\prime }$ TAGAAGA CACAGCAGCAAGACT- $3 ^ { \\prime }$ ,mafBreverse $5 ^ { \\prime }$ GACGCACGCATCACAGAG $3 ^ { \\prime }$ Zbtb46 forward $5 ^ { \\prime }$ -TCCTTCTGAGTTCTTCTGATTGAG $3 ^ { \\prime }$ ,Zbtb46 reverse $5 ^ { \\prime }$ -AGGTTGATGTAGGCTTGATTGT- $3 ^ { \\prime }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical analyses.No statistical method was used to predetermine sample size.Mice were assigned at random to treatment groups for all mouse studies and,where possible,mixed among cages.There were no mice excluded from experiments.The investigators were blinded to group allocation during the experiment and when assessing the tumor size with calipers.Experiments were repeated two to three times.Data were analyzed using Prism 5.0 software (GraphPad) and presented as mean values $\\pm s . \\mathrm { e . m }$ .The $P$ values were assessed using two-tailed unpaired Student's $t \\cdot$ -test or two-wayanalysis of variance with $P$ values considered significant as follows: $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ and $^ { * * * } P < 0 . 0 0 1$ .For tumor-free mice frequency, statistics were done with the log-rank (Mantel-Cox) test. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "49.Rovero,S.et al.DNA vaccination against rat her-2/Neu pl85 more effectively inhibits carcinogenesis than transplantable carcinomas in transgenic BALB/c mice. J.Immunol.165,5133-5142 (2000).   \n50.Oldenborg，P.A.,Gresham,H.D.& Lindberg，F.P.CD47-signal regulatory protein $\\alpha$ $( { \\mathsf { S } } | { \\mathsf { R P } } \\alpha )$ regulatesFcyandcomplementreceptor-mediatedphagocytosis. J.Exp.Med.193,855-862 (2001). ",
+        "page_idx": 8
+    }
+]

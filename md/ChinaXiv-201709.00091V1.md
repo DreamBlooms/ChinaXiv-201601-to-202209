@@ -1,0 +1,16 @@
+# 基于结构分析的理性设计定点突变提高酶的热稳定性
+
+冯旭东 李春\*
+
+北京理工大学生命学院,lichun@bit.edu.cn
+
+酶的热稳定性差是限制其实际应用的最重要原因之一，因此，酶分子的热稳定性改造对扩大其工程应用具有重要的理论和实践意义1。最近，通过半理性和理性设计的分子改造而提高酶分子的热稳定因其工作量少、效率高而受到了学者的广泛关注。总体的思路是将目标酶分子中不稳定的氨基酸替换为稳定性氨基酸，从而提高酶结构的稳定性，因此，选择合适的突变位点是重点，这个通常是基于对酶分子结构和功能关系深刻认识的基础上实现的。目前，文献中报道的常用方法包括同源序列比对²、B-factor分析以及柔性较高的loop 改造4等。但是，如何准确、高效的确定潜在突变位点仍然是一个难题。本报告以课题组前期筛选到的来源真菌的 $\beta$ -葡萄糖醛酸苷酶（PGUS）为研究对象，在前期对 $E .$ coli重组表达 $\beta \mathrm { . }$ -葡萄糖醛酸苷酶（PGUS-E）的晶体结构解析的基础上，通过同源序列比对确定了影响PGUS-E稳定性的催化结构域的关键氨基酸位点，并通过定点突变显著的提高了其热稳定性。共获得三个突变体 F292L/T293K，S35P 和 R304L，其动力学稳定性及热力学稳定性较野生型均有显著的提高，其中突变体 F292L/T293K在65 $^ \mathrm { { { o } C } }$ 下的半衰期提高了5倍， $T _ { \mathrm { m } }$ 值提高了 $3 . 2 ^ { \circ } \mathrm { C }$ ，催化效率为野生型的6.4倍。最后，通过分子动力学模拟阐明了热稳定性提高的分子机制，结果表明三个突变体热稳定性的提高是由于C-末端固定化效应、脯氨酸效应以及疏水作用。
+
+参考文献:
+
+[1] Feng X, Li C. The improvement of enzyme properties and its catalytic engineering strategy. Prog Chem 2015,27, 1649-1657.   
+[2] Yi ZL, Zhang SB,Pei XQ,Wu ZL. Design of mutants for enhanced thermostability of beta-glycosidase BglY from Thermus thermophilus.Bioresour Technol 2013,129,629-633.   
+[3]Gall MG,Nobili A,Pavlidis IV,Bornscheuer UT.Improved thermostability ofa Bacillus subtilis esterase by domain exchange. Appl Microbiol Biotechnol 2014, 98,1719-1726.   
+[4] Nestl BM, Hauer B. Engineering of flexible loops in enzymes. ACS Catal 2014,4,3201-3211. [5] Feng X, Tang H, Han B,Lv B,Li C.Enhancing the thermostability of $\beta$ -glucuronidase by rationally redesigning the catalytic domain based on sequence alignment strategy. Ind Eng Chem Res 2016,55, 5474- 5483.
+
+作者简介：冯旭东，博士，北京理工大学生命学院，助理教授/博士生导师，email:xd.feng@bit.edu.cn李春，博士，北京理工大学生命学院，教授/博士生导师，email: lichun@bit.edu.cn。

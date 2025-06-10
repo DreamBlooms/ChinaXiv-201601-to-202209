@@ -1,0 +1,358 @@
+[
+    {
+        "type": "text",
+        "text": "栽培与野生化血丹不同部位中2种化学成分含量分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张传利，马晓，朱春梅，陈治华，李维峰，赵秀，何素明，杜华波（云南农业大学热带作物学院，云南 普洱 665099)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：探讨并分析栽培与野生化血丹植株中不同部位中2种化学成分的含量差异。采用超声法提取、高效液相色谱法（HPLC)测定栽培与野生化血丹根、茎、叶、花、混合样等部位中桃叶珊瑚苷和梓醇的含量，并进行比较。结果表明：桃叶珊瑚苷在栽培与野生化血丹植株内均有分布，含量均以根中最高，其在栽培与野生化血丹植株内的含量表现分别为根 $>$ 叶>混合样>茎 $>$ 花、根>混合样>茎>花>叶，栽培化血丹不同部位中桃叶珊瑚苷的含量均高于野生化血丹；梓醇在栽培化血丹的茎中未检出，在栽培与野生化血丹其他部位均有分布，其含量均以叶中最高，其在栽培与野生化血丹植株内的含量分别表现为叶>花>混合样>根、叶>混合样>茎>花>根，野生化血丹不同部位中梓醇的含量均高于栽培化血丹。桃叶珊瑚苷和梓醇在栽培和野生化血丹植株不同部位中的含量均存在显著差异 $( P { < } 0 . 0 5 )$ ，栽培与野生同一部位间总体上无显著差异，为该濒危药用植物资源药用部位选择和合理开发利用提供实验参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：化血丹，桃叶珊瑚苷，梓醇，HPLC，不同部位，分析比较中图分类号：Q946 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis on the content of two chemical composition in different parts of cultivated and wild Centranthera Grandiflora ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG ChuanLi, MA Xiao, ZHU Chunmei, CHEN Zhihua, LI Weifeng, ZHAO Xiu, HE Shuming,DU Huabo (College of Tropical Crops of Yunnan Agricultural University,Puer 665o99,Yunnan,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To study and analysis the diference contents of two active ingredients in diffrent parts of cultivated and wild Centranthera grandiflora. The contents of aucubin and catalpol in roots,stems,leaves,flowers and mixed samples of cultivated and wild Centranthera grandiflora were determined by ultrasonic extraction and high performance liquid chromatography (HPLC)and compared.The results showed that aucubin was distributed in both cultivated and wild plants,with the highest content in roots.The content in cultivated and wild plants was as follows root $>$ leaf $>$ mixed sample $>$ stem $>$ flower, root $>$ mixed sample $>$ stem $>$ flower $>$ leaf. The content of aucubin in diferent parts of cultivated plants was higher than that in wild plants.Catalpol was not detected in the stems ofcultivated Centranthera grandiflora,but was distrbuted in other parts of cultivated and wild Centranthera grandiflora, with the highest content in leaves.The contents ofcatalpol in the plants of cultivated and wild Centranthera grandiflora were as follows leaves $>$ flowers $>$ mixed samples $>$ roots, leaves $>$ mixed samples $>$ stems $>$ flowers $>$ roots.The contents of catalpol in different parts of wild were higher than those of cultivated Centranthera grandiflora. There were significant differences $( P { < } 0 . 0 5 )$ in the content of aucubin and catalpol in different parts of cultivated and wild Centranthera grandiflora plants,and there was no significant difference between cultivated and wild parts on the whole，which provides experimental reference for the selection and reasonable utilization of the medicinal site of the endangered medicinal plant resources. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Centranthera grandiflora ,aucubin, catalpol, HPLC, diferent parts,analysis comparison ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "化血丹（Centranthera grandiflora）为玄参科（Scrophulariaceae）胡麻草属（Centranthera）一年生或越年生草本植物大花胡麻草的根，主要产于广西、云南、贵州等地,是一味濒危且种群极小的民族民间常用中草药（中华本草编辑委员会,1991；中国科学院中国植物志编辑委员会,2013），在抗菌、抗癌、凝血、缺血、治疗心血管疾病、白血病、降压、降糖、保肝等等方面疗效显著（王真等,2012；廖立平等,2012;杨抒雨等,2017）。目前国内外对化血丹的研究主要集中在对化血丹根中化学成分分离鉴定、成分的功效等方面（梁钜忠等,1984；廖立平,2014；胡琼,2016）；结果表明，化血丹中根内含有甘露醇、类胡萝卜酸物质杜鹃红素、环烯醚萜苷类、黑蒴苷类、苯乙醇苷类、紫罗兰酮苷类等多类丰富的生物活性物质，其中桃叶珊瑚苷和梓醇是其中2种重要的环烯醚萜苷化学成分。桃叶珊瑚苷具有清湿热、利小便、降压、镇痛、保肝护肝、抗肿瘤等功效（薛宏宇等,2013；廖立平,2014；韩曼飞等,2017），梓醇具有利尿、抗炎、降血糖抗癌、神经保护及抗肝炎病毒等功效（Ismailoglu et al.,2002; Jiang et al.,2004;Tong et al.,2015；王静欢等，2015；王静欢等,2017;Xiaetal.,2017）；而对根部所含化学成分的定量分析及其他部位间含量比较未见报道。化血丹作为云南等产地少数民族民间抗癌、保肝、溶血栓道地药材，以根泡酒作为偏方药，以根用药是否合理，根以外其他部位是否有药用价值均有待研究。近年来由于桃叶珊瑚苷和梓醇等化学成分药用价值的研究开发，目前以桃叶珊瑚苷为主要成分的杜仲平压片和以梓醇为成分已审报两个一类新药临床研究（薛宏宇等,2013;Liu&Ling,2004；王静欢等,2015）,市场需求量急剧增加，加之化血丹长期以来全部依赖于野生资源和其自然繁殖率等因素，野生资源已面临濒危，而驯化栽培的化血丹的质量是否能达到野生标准也有待研究。基于此，本试验对栽培野生化血丹不同部位中2种化学成分含量进行测定及分析比较，旨在为其药用部位选择和栽培植株质量控制及开发利用提供一定的理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野生与栽培化血丹新鲜样品：均采自于云南省红河州屏边县同一生长区域，经普洱市民族医药研究所张绍云主任药师鉴定为玄参科胡麻草属植物大花胡麻草（Centranthera grandiflora）的根、茎、叶、花，野生与栽培化血丹均引种栽培保存于云南农业大学热带作物学院药用植物资源圃内。栽培与野生化血丹全株在同一条件下自然风干后，均置于 $5 5 ^ { \\circ } \\mathrm { C } .$ 真空干燥至恒重，按根、茎、叶、花等部位分别粉碎过4号筛备用，并将过筛后的根、茎、叶按质量比 $1 : 1 : 1$ 制成混合样备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "安捷伦1200高效液相仪(安捷伦科技有限公司）；SK5200H型超声波清洗器(上海科导超声仪器有限公司)；CN61M/DZF真空干燥箱（上海奥豪斯贸易有限公司）、ME204E 电子分析天平（上海奥豪斯贸易有限公司）：纯水/超纯水系统(韩国HUMANPowerI)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对照品：桃叶珊瑚苷（纯度 $2 9 8 \\%$ ，上海阿拉丁生化科技股份有限公司，批号为 $\\mathrm { A 1 1 7 9 8 0 - } 2 5 \\mathrm { m g }$ ）；梓醇（纯度 $29 7 \\%$ ，上海阿拉丁生化科技股份有限公司，批号为 $\\mathrm { C } 1 1 0 2 1 6 \\mathrm { - } 1 0 0 \\mathrm { m g } )$ ）；乙腈(色谱纯，德国MERCK)、甲醇(色谱纯，德国MERCK)、磷酸（分析纯），均购自国药集团化学试剂有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 HPLC分析条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以《中华人民共和国药典》（2015年版，一部）（国家药典委员会，2015）、马运明等（2011）中测定生地黄中梓醇和桃叶珊瑚苷的高效液相色谱法为参照，对其提取方法和流动相条件进行优化。桃叶珊瑚苷、梓醇测定色谱柱分别为Agilent TC-C18 柱 $( 2 5 0 \\mathrm { m m } { \\times } 4 . 6 \\mathrm { m m } , 5 \\mu \\mathrm { m } )$ 、SPHERI-5RP-18柱( $2 5 0 \\mathrm { m m } { \\times } 4 . 6 \\mathrm { m m } , 5$ $\\mu \\mathrm { m } )$ ；流动相分别为乙晴-水 $( 3 : 9 7 )$ 、甲醇 $. 0 . 1 \\%$ 磷酸水 $( 1 : 9 9 )$ ；检测波长分别为 $2 0 5 \\mathrm { n m }$ 、 $2 1 0 ~ \\mathrm { n m }$ ；流速均为 $1 \\ \\mathrm { m L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ；进样量均为 $2 0 \\mu \\mathrm { L }$ ；柱温分别为 $2 5 ^ { \\circ } \\mathrm { C }$ 、 $3 5 ^ { \\circ } \\mathrm { C }$ ；理论塔板数分别不少于5000、9000。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.1 对照品溶液的制备 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别取桃叶珊瑚苷、梓醇对照品适量，精密称定，加各自流动相溶解，配制成 $0 . 1 0 8 \\mathrm { \\ m g { \\cdot } m L ^ { - 1 } }$ 的桃叶珊瑚苷对照品溶液和 $0 . 1 2 3 \\mathrm { \\ m g { \\cdot } m L ^ { - 1 } }$ 梓醇对照品溶液，用 $0 . 4 5 \\mu \\mathrm { m }$ 微孔滤膜滤过，即得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.2 供试品溶液的制备 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别精密称量栽培与野生化血丹根、茎、叶、花等部位样品和混合样粉末 $0 . 5 0 \\ \\mathrm { g }$ 置于具塞锥形瓶中，精密加入 $40 \\%$ 甲醇 $5 \\mathrm { m L }$ ，摇匀并称定质量，超声处理（功率 $2 5 0 \\mathrm { W }$ ，频率 $3 5 \\mathrm { K H Z } ) 3 0 \\mathrm { m i n }$ ，静置 $5 \\mathrm { m i n }$ 用 $40 \\%$ 甲醇补足减失的质量，吸取溶液，用 $0 . 4 5 \\mu \\mathrm { m }$ 的微孔滤膜滤过（崔红梅等,2015），即得。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5.3 线性关系考察",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按\"1.5.1\"项下配制桃叶珊瑚苷对照品溶液：0.0036、0.036、0.072、0.108、0.144、 $0 . 1 8 0 \\mathrm { m g { \\cdot } m L ^ { - 1 } }$ ；配制梓醇对照品溶液：0.0615、0.09225、0.123、0.15375、0.1845、 $0 . 5 5 3 5 \\mathrm { \\ m g { \\cdot } m L ^ { - 1 } }$ ；在\"1.4\"项色谱条件下进样，以对照品浓度为横坐标 $( X )$ ，峰面积为纵坐标（Y）绘制标准曲线，进行线性回归(李艳玲等,2015；杨海玲等,2018），得桃叶珊瑚苷、梓醇回归方程分别为 $Y { = } 1 6 8 9 9 4 3 5 . 8 3 X { + } 1 3 5 7 . 3 4$ （ $r { = } 0 . 9 9 9 9 \\$ 八$Y { = } 7 0 9 7 4 3 2 . 3 5 X { + } 3 0 0 1 . 3 1$ （ $r { = } 0 . 9 9 9 9 \\rangle$ 。结果表明，分别在 $3 . 6 { \\sim } 1 8 0 . 0 { \\mu } \\mathrm { g } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 、 $6 1 . 5 { \\sim } 5 5 3 . 5 \\ { \\mu \\mathrm { g } } { \\cdot } \\mathrm { m L } ^ { - 1 }$ 浓度范围内线性关系良好。对照品及样品HPLC色谱图见图1。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/96cb9ab4ae890b357488a2524e2bfd0d4d67e5fef80c7cd77d2429e614f0910c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c039c46e18e30e025990ab4a1a6cd0a84108c2e7339980c7002edbe0e30eab3.jpg",
+        "img_caption": [
+            "图1对照品及样品 HPLC 图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：1．桃叶珊瑚苷(简称桃苷);2.梓醇. $\\mathbf { A _ { 1 } }$ ．桃苷对照品; $\\mathbf { A } _ { 2 }$ 、梓醇对照品; $\\bf { B _ { 1 } }$ ．栽培根中桃苷; $\\mathbf { B } _ { 2 }$ ，野生根中梓醇; $\\bf { C _ { 1 } }$ ，栽培茎 中桃苷; $\\mathbf { C } _ { 2 }$ 、野生茎中梓醇; $\\mathrm { D } _ { 1 }$ 栽培叶中桃苷; ${ \\bf D } _ { 2 }$ 、野生叶中梓醇; $\\mathrm { E } _ { 1 }$ ．栽培花中桃苷; $\\operatorname { E } _ { 2 }$ ，野生花中梓醇。   \nNote: 1. Aucubin; 2. Catalpol. $\\mathbf { A _ { 1 } }$ . Aucubin standard; $\\mathbf { A } _ { 2 }$ Catalpol standard; $\\mathbf { B _ { 1 } }$ . Cultivated root aucubin; $\\mathbf { B } _ { 2 }$ Wild root catalpol; $\\mathrm { C _ { 1 } }$   \nCultivated stem aucubin; $\\mathbf { C } _ { 2 }$ Wild stem catalpol; $\\mathrm { D } _ { 1 }$ . Cultivated leaf aucubin; $\\mathrm { D } _ { 2 }$ .Wild leaf catalpol; $\\mathrm { E } _ { 1 }$ . Cultivated flower aucubin; $\\operatorname { E } _ { 2 }$ .Wild flower catalpol. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1HPLC chromatograms of reference substances and samples ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.4精密度试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "精密吸取\"1.5.1\"对照品溶液 $2 0 \\mu \\mathrm { L }$ ，分别在\"1.4\"项色谱条件下，连续进样6次，测峰面积。得桃叶珊瑚苷、梓醇峰面积RSD分别为 $0 . 6 5 \\%$ 、 $0 . 6 9 \\%$ ，表明该方法具有良好精密度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.6重复性试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取栽培与野生化血丹各部位和混合样粉末各6份，每份约 $0 . 5 0 \\mathrm { g }$ ，精密称定，在\"1.5.2\"项下配制后依次进样，在\"1.4\"项下测定。得栽培化血丹根、茎、叶、花、混合样桃叶珊瑚苷峰面积RSD 分别为 $1 . 2 6 \\%$ 、$0 . 9 6 \\%$ 、 $0 . 2 4 \\%$ 、 $1 . 2 5 \\%$ 、 $1 . 1 8 \\%$ ；得野生化血丹根、茎、叶、花、混合样梓醇峰面积RSD分别为 $1 . 2 4 \\%$ 、$0 . 5 2 \\%$ 、 $0 . 4 2 \\%$ 、 $1 . 7 3 \\%$ 、 $1 . 2 4 \\%$ 。RSD 均小于 $2 \\%$ ，表明所建立方法具有良好重复性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.7 稳定性试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取栽培与野生化血丹根供试品，在\"1.5.1\"项下配置 $0 , ~ 2 , ~ 4 , ~ 8 , ~ 1 2 , ~ 2 4 \\mathrm { h }$ 后依次进样，分别考察梓醇和桃叶珊瑚苷的稳定性。得栽培化血丹桃叶珊瑚苷、梓醇峰面积RSD分别为 $0 . 7 6 \\ \\% , \\ 0 . 4 9 \\ \\%$ ；野生化血丹桃叶珊瑚苷、梓醇峰面积RSD分别为 $0 . 7 5 \\%$ 、 $0 . 4 7 \\%$ 。表明在 $2 4 \\mathrm { h }$ 内供试品溶液稳定，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5.8加样回收率试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "精密称取6份栽培化血丹叶粉末约 $0 . 2 5 \\ \\mathrm { g }$ ，精密加入桃叶珊瑚苷对照品 $0 . 9 0 \\mathrm { m L }$ 0 $\\mathrm { \\langle 0 . 1 0 8 ~ m g { \\cdot } m L ^ { - 1 } }$ ）、梓醇对照品 22.0mL（ $\\cdot 0 . 1 2 3 \\ \\mathrm { m g { \\cdot } m L } ^ { - 1 }$ ），分别按\"1.4\"项色谱条件下测定。得桃叶珊瑚苷、梓醇平均回收率分别为 $9 9 . 8 9 \\%$ 、 $9 9 . 8 6 \\%$ ；RSD分别为 $0 . 3 5 \\%$ 、 $0 . 6 0 \\%$ ，具体结果见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/55e272f2b6acd5fdf114af2d99a08665bde45003e1136e797fc1fc8f516a017c.jpg",
+        "table_caption": [
+            "表1桃叶珊瑚苷和梓醇加样回收率试验结果",
+            "Tablel Sample results recovery test of aucubin and catalpol "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>成分</td><td>样品</td><td>样品中量</td><td>加入量</td><td>测得量</td><td>回收率</td><td>平均值</td><td>相对标准偏差</td></tr><tr><td>Components Amount(g) Contents(ug)</td><td></td><td></td><td>Standard contents(ug)</td><td>Test contents(μg) Recovery rate(%） Average(%)</td><td></td><td></td><td>RSD(%)</td></tr><tr><td>桃叶</td><td>0.252</td><td>98.28</td><td>97.20</td><td>196.24</td><td>100.39</td><td>99.89</td><td>0.35</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4bc52787cac58e691fc3ae1efd313f161460afe7d3f4ef50f9e5b106efbfc49a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"7\">珊瑚苷 Aucubin</td><td>0.249 9</td><td>97.46</td><td>97.20</td><td>194.63</td><td>99.98</td><td colspan=\"3\"></td></tr><tr><td>0.249 9</td><td>97.46</td><td></td><td>97.20</td><td>193.57</td><td>99.44</td><td rowspan=\"6\"></td></tr><tr><td>0.251</td><td>97.89</td><td>97.20</td><td>194.18</td><td>99.53</td><td></td></tr><tr><td>0.25</td><td>97.50</td><td>97.20</td><td>194.67</td><td>99.98</td><td></td></tr><tr><td>0.253 5</td><td>98.87</td><td>97.20</td><td>196.11</td><td>100.02</td><td></td></tr><tr><td>0.252</td><td>2 731.18</td><td>2 706.00</td><td>5 410.23</td><td>99.50</td><td></td></tr><tr><td>0.249 8</td><td>2 707.33</td><td>2 706.00</td><td>5 459.33</td><td>100.85</td><td></td></tr><tr><td>梓醇 Catalpol</td><td>0.249 9</td><td>2 708.42</td><td>2 706.00</td><td>5 395.87</td><td>99.66</td><td>99.86 0.60</td></tr><tr><td></td><td>0.2513</td><td>2 723.59</td><td>2 706.00</td><td>5 382.73</td><td>99.14</td><td></td></tr><tr><td>0.25</td><td>2 709.50</td><td></td><td>2 706.00</td><td>5 405.32</td><td>99.81</td><td></td></tr><tr><td>0.253</td><td>2 742.01</td><td>2 706.00</td><td></td><td>5 458.35</td><td>100.19</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1样品中桃叶珊瑚和梓醇含量的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "按照“ $1 . 4 ^ { \\prime \\prime }$ 项下测定不同部位样品桃叶珊瑚苷、梓醇的含量。用 Exce12010计算2种化学成分含量，对数据采用IBM SPSS Statistics 22.0对同种类型植株不同部位2种化学成分的含量进行多重比较，栽培与野生化血丹植株不同部位桃叶珊瑚苷和梓醇含量测定结果见表2。由表2可知，在栽培化血丹植株中，桃叶珊瑚苷在各部位均有分布，以根中最高，且与其他部位间存在显著差异；梓醇在根、叶、花等部位中有分布，在茎中未检出，以叶中最高，检出各部位间均存在显著差异。在野生化血丹植株中，梓醇和桃叶珊瑚苷在根、茎、叶、花各位部位中均有分布，且在各部位间存在差异。桃叶珊瑚苷在栽培化血丹不同部位中含量总体上均高于野生化血丹；梓醇在野生化血丹不同部位中的含量均高于栽培化血丹。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f75b3d7788161285e1f06828b9f127361b8c34d494c1fe1d481b369d13a29fc.jpg",
+        "table_caption": [
+            "表2栽培野生化血丹植株中桃叶珊瑚苷和梓醇含量的测定结果",
+            "Table2 Contents of aucubin and catalpol in wild and cultivated different parts of Centranthera grandiflora $\\scriptstyle ( n = 3 )$ "
+        ],
+        "table_footnote": [
+            "注：数据后字母表示差异显著性（ $_ { . } { \\cal P } { < } 0 . 0 5$ ）；“一\"表示未检测到该部位含量。 Note: Letter followed means significant difference ( $P { < } 0 . 0 5 \\$ ）;\"—”indicated no experiment carried out on this item. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">部位Parts</td><td colspan=\"4\">野生桃叶珊瑚苷和梓醇含量 栽培桃叶珊瑚苷和梓醇含量</td></tr><tr><td></td><td>Contents of aucubin and catalpol in wild and cultivated(mg g-1)</td><td></td><td></td></tr><tr><td></td><td>桃叶珊瑚苷 Aucubin</td><td>梓醇Catalpol</td><td>桃叶珊瑚苷 Aucubin</td><td>梓醇Catalpol</td></tr><tr><td>根Root</td><td>0.440a</td><td>1.607e</td><td>0.930a</td><td>0.156c</td></tr><tr><td>茎 Stem</td><td>0.018b</td><td>3.030℃</td><td>0.040c</td><td></td></tr><tr><td>叶Leaf 花Flower</td><td>0.005℃ 0.006c</td><td>11.095a 1.921d</td><td>0.390b 0.004d</td><td>10.838a 1.851b</td></tr><tr><td>混合样Mix sample</td><td>0.170b</td><td>3.583b</td><td>0.320b</td><td>0.726c</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 同一类型植株不同部位中桃叶珊瑚苷和梓醇含量分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "栽培植株根中桃叶珊瑚苷含量高于野生植株根中含量，栽培根中含量最高（ $\\left( 0 . 9 3 0 \\mathrm { m g \\cdot g ^ { - 1 } } \\right.$ ），是其它部位的 $2 . 4 { \\sim } 2 3 2 . 5$ 倍，植株内桃叶珊瑚苷含量表现为根 $>$ 叶 $>$ 混合样 $>$ 茎 $>$ 花，部位间含量存在显著性差异；栽培植株叶中梓醇含量低于野生植株叶中含量，栽培叶中含量（ $1 0 . 8 3 8 \\mathrm { m g { \\cdot g } ^ { - 1 } } )$ 是其它部位的 $5 . 9 { \\sim } 6 9 . 5 \\$ 倍，栽培茎中未检测到梓醇含量，各部位梓醇含量从高到低依次为：叶 $>$ 花 $>$ 混合样 $>$ 根，部位间含量存在着显著差异。野生植株中，桃叶珊瑚苷主要分布于根中，植株内桃叶珊瑚苷含量表现为根 $>$ 混合样 $>$ 茎 $>$ 花$>$ 叶，根中含量最高‘ $( 0 . 4 4 0 \\mathrm { m g \\cdot g ^ { - 1 } } )$ ，比其他部位高22\\~88 倍，桃叶珊瑚苷含量在各部位间的显著差异可分为3个组别：根、茎、叶和花，各组间均存在显著性差异，叶和花组内差异不明显。植株内梓醇含量表现为叶 $>$ 混合样 $>$ 茎 $>$ 花 $>$ 根，且含量以叶中最高（ $\\mathrm { 1 1 . 0 9 5 \\ m g { \\cdot } g ^ { - 1 } }$ ），比其他部位高3.7\\~6.9倍。各部位间均存在极显著性差异。由以上结果可以看出桃叶珊瑚苷在化血丹植株体内主要分布在地下部分根中，梓醇主要分布在地上部分的叶中，这对2种化学成分提取获取原料部位有很好的参考（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. 000 11. 095 10. 838 桃叶珊瑚苷 Aucubin 梓醇 Catalpol 1 10.00 1 3. 583 3.030 0.4401.153 0183 0. 020 0. 040 0. 005 0.390 0.06.921 0.04.051 0. 170 ！ 0. 3200. 726 0.000 □ 野生根 栽培根 野生茎 栽培茎 野生叶 栽培叶 野生花 栽培花 野生混合样 栽培混合样 Wild root Cult ivated root Wi ld stem Cultivated stem Wild leaf Cu ltivated leaf Wild flower Cultivated f lower Wi ld mix Cult ivated mix 部位 Parts ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Contents Comparison of aucubin and catalpol in wild and cultivated each parts of Centranthera grandiflora ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "桃叶珊瑚苷在栽培化血丹的根、茎、叶和混合样中的含量均比在野生化血丹根、茎、叶和混合样中高，其中以叶中差异最大，栽培叶中含量约是野生叶中的78倍；而在两种类型的花中含量相近，都很微量。梓醇在野生化血丹的茎、叶、花和混合样中的含量均比在栽培化血丹茎（未检出）、叶、花和混合样中高，其中以混合样中差异最大，野生混合样中含量约是栽培混合样中的5倍；而两种类型在根、叶、花中的含量约为 $1 : 1$ 。由以上结果可以得知栽培与野生化血丹除在个别部位存在桃叶珊瑚苷和梓醇含量差异较大外，总体上栽培与野生化血丹植株内桃叶珊瑚苷和梓醇含量分布差异不明显，也在一定程度上说明栽培植株可以替代野生植株入药（图2）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1测定有效成分和用药合理部位的选择",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "围绕梓醇和桃叶珊瑚苷在神经保护、降压、预防心脑血管方面的作用成为领域研究热点之一，如能将梓醇和桃叶珊瑚苷开发为具有抗帕金森、老年痴呆和治疗白血病等方面的新药应用于临床，将会有广阔的前景。在玄参科、忍冬科、车前科、杜仲科等很多中药植物中都含有一定量的梓醇和桃叶珊瑚苷，目前在历版《中国药典》中对药材的质量控制和评价多以环烯醚萜苷成分的梓醇作为指标，同属于玄参科植物的生地黄以梓醇和毛蕊花糖苷为主要质量控制指标，以梓醇和桃叶珊瑚苷同时作为质量控制指标的药用植物未见报道；卫生部《药品标准》收录的有些药品已将桃叶珊瑚苷作为重要指标之一来进行质量控制(如复方荔枝草颗粒剂生产中），云南民间常以根作为其药用部位是否合理，其他部位是否也具有相应的开发价值，从研究试验结果来看，以梓醇和桃叶珊瑚苷作为化血丹植物的指标成分是可行的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2样品来源数量和生长环境对研究结果的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "桃叶珊瑚苷和梓醇均属于环烯醚萜苷类化合物，在开发治疗心脑血管药物方面有很大的潜力，此实验中栽培植株叶中该2种化学成分的含量比野生植株的含量约高 $1 1 . 2 \\%$ （ $1 1 . 2 2 8 \\mathrm { m g \\cdot g ^ { - 1 } } { > } 1 0 . 1 \\mathrm { m g \\cdot g ^ { - 1 } } \\rangle$ ，另外实验只分析比较了来源同一产地的栽培与野生不同部位中梓醇和桃叶珊瑚苷的含量差异，但不同生态环境对生物活性成分的有效积累影响较大，产生上述现象的原因可能是受自然生长条件的影响，使得同一产地不同生境条件下相同物种活性成分的含量也会出现一定的差异，其他产地和不同栽培条件下栽培与野生化血丹中梓醇和桃叶珊瑚苷的含量是否在植株内符合本实验的研究结果，需要进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3含量结果的分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "化血丹为环烯醚萜苷类化合物来源的一类天然产物资源，从表2和图2可知，梓醇和桃叶珊瑚苷在化血丹各部位中几乎均有分布，虽不同部位间的含量存在显著差异，2种环烯醚萜苷化学成分在植株内分布规律也不一致，但从梓醇和桃叶珊瑚苷2种化学成分在栽培化血丹植株内分布和含量分析结果综合考虑，栽培植株在一定程度上可以替代野生植株补充这2种化学成分的提取和加工药品的市场需求原料，从而缓解野生植株的基本绝种的现状，进而有利于野生化血丹资源的保护。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考义默：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "China Pharmacopoeia Commitee,2O15.Pharmacopoeia of the People's Republic of China (2015 Edition,Part I) [S].Beijing: China Medical Science and Technology Press,125.[国家药典委员会,2015．中华人民共和国药 典(2015 年版，一部）[S]．北京：中国医药科技出版社,125.] Chinese flora editorial commitee,2013.Flora Reipublicae Popularis Sinicae [M]. Beijing: Science and Technology Press:25-27.[中国植物志编辑委员会,2013．中国植物志 [M]．北京：科技出版社:25-27.] Chinese herbal editorial commitee,1999.The Chinese materia medica [M]. Shanghai: Science and Technology Press:55-56.[中华本草编辑委员会.中华本草[M]．上海：上海科学技术出版社:55-56.] CUI HY,LUO H, YANG J, et al., 2015. Simultaneous determination of three iridoid glycosides from Veronica eriogyne H.Winkl by HPLC[J].Chin Trad Pat Med,37(4): 810-813.[崔红梅，罗恒，杨军，等，2015.HPLC 法同时测定毛果婆婆纳中3 种环烯醚萜苷 [J].中成药,37(4):810-813.] HAN MF, ZHANG LQ,LIYM, 2017. Research progresson chemical structures and pharmacological effcts of natural aucubin and its derivatives [J]. Chin Trad Herb Drug,48(19): 4105-4111.[韩曼飞，张刘强，李医明,   \n2017．天然桃叶珊瑚苷及其衍生物的化学结构和药理作用研究进展 [J]．中草药,48(19):4105-4111.] HU,2016.A study on chemical composition of wild Vicia faba root[J]. Clin JChin Med,8(22): 49-53.[胡琼,   \n2016.野蚕豆根的化学成分研究[J]．中医临床研究,8(22):49-53.] ISMAILOGLU UB,SARCOGLU IA，HARPUT US,2002. Effects of phenylpropanoid and iridoid glycosides on free radical induced impairment of endothelium dependent relaxation in rat aortic rings [J].JEthno Pharmacol,   \n79: 193-197. JIANG B,LIU JH, BAO Y,2004. Catalpol inhibits apoptosis in hydrogen peroxide induced PC12 cels by preventing cytochrome release and inactivating of caspase cascade [J]. Oxicon, 43: 53-59. LI YL, XU WH,ZHOU GY,et al., 2015. Determination of two lignans in Qinghai cultivated and wild Sinopodophyllum hexandrum (Royle) Ying by HPLC[J]. Nat Prod Res Dev,27: 94-98 [李艳玲，徐文华，周国英, 等,2015.HPLC 法测定青海栽培与野生桃儿七中2 种木脂素类的含量[J].天然产物研究与开发,27:   \n94-98.] LIANG JZ, ZHANG JS,MA XB,et al.，1985.The chemical constituents identification of Centranthera grandiflora Benth [J].Bull Chin Mat Med,10(5):227-228.[梁钜忠，张嘉硕，马孝本,等，1985．大花 胡麻草中化学成份的鉴定[J]．中药通报，10(5)：227-228.] LIAO LP,2014. Chemical constituents and antivities research of Centranthera grandiflora Benth [D]. Shanghai: Traditional Chinese Medical University Shanghai: 5-7.[廖立平,2014．化血丹化学成分与活性研究[D]．上 海：上海中医药大学,5-7.] LIAO LP, ZHANG ZJ, HU ZB,et al.,2012. Iridoid glycosides from Centranthera grandiflora [J]. Chin Trad Herb Drug，43(12):2369-2371.[廖立平，张紫佳，胡之壁，等．大花胡麻草环烯醚萜苷类化学成分研究[J]．中 草药,43(12): 2369-2371.] LIU J,LING JY, 2004. Development of iridoids in recent years [J]. Strait Pharm J, 28(8): 987-993. MA YM, GUO JH， TIAN CW,et al.,2011. Determination of catalpol and aucubin in fresh Rehmannia glutinosa by HPLC [J].Chin Trad Herb Drug,42(7):1348-1351.[马运明，郭建华，田成旺，等,2011.HPLC 法测定鲜 地黄中梓醇和桃叶珊瑚苷 [J]．中草药,42(7):1348-1351.] TONG SQ, CHEN L, ZHANG Q,et al.,2015.Separation of catalpol from Rehmannia glutinosa Libosch.by highspeed countercurrent chromatography [J]. J Chromatogr Sci, 53(5): 725-729. WANG JH,LIU K, WAN D,et al.,2O17. Study of anti-aging protective efect of catalpol on cultured cortical neurons from rats [J].Chin Pharmacol Bull,33(12):1696.[王静欢，刘珂，万东，等,2017．梓醇对大脑皮质 神经元的抗衰老保护作用研究[J].中国药理学通报,33(12):1696.] WANG JH, ZOUL, WAN D,et al., 2015 Research progressof catalpol on related signal pathways[J]. Chin Pharmacol Bull,31(9):1189-1194.[王静欢，邹利，万东，等,2015．梓醇多效性相关信号通路研究进展[J]．中 国药理学通报,31(9):1189-1194.]   \nWANG Z, WANG Q, YAN JL, et al.,2012. Chemical constituents and antivities research of Centranthera grandiflora Benth [C].Yunnan Pharm Conf,1-4.[王真，王琼，闫俊岭，等,2012.大花胡麻草的化学成分及 其活性研究 [C]．云南省药学大会,1-4.]   \nXUE HY, HAN Z,LI GK,et al.,2O13.The extraction of aucubin and the protective effects of aucubin in the oxidative celldamage[J].Chin JSpectr Labor,30(5):2202.[薛宏宇，韩震，李光坤，等,2013．桃叶珊瑚苷提 取及对细胞氧化损伤保护作用 [J]．光谱实验室,30(5):2202-2205.]   \nXIA ZM, WANG FF, ZHOU S,et al.,2017. Catalpol protects synaptic proteins from beta-amyloid induced neuron injury and improves cognitive functions in aged rats [J]. Oncotarget, 8(41): 69303-69315.   \nYANG HL,LAI SF,NONG HN, et al.,2018.Simultaneous determination of three ingredients in Malusdoumeri （Bois.）Chev by HPLC[J].Food Res Dev,39(24):129-133.[杨海玲，赖少凤，农海妮，等,2018.HPLC 法 同时测定广山楂中3种活性成分含量[J]．食品研究与开发,39(24):129-133.]   \nYANG SY,HAO GX,2017. Studyon anti-myocardial ischemia and anti-coagulation efect of Vicia faba rot [J]. Lishizhen Med Mat MedRes,28(9):2099-2103.[杨抒雨，俞桂新,2017．民族药野蚕豆根抗心肌缺血和抗凝 血作用研究 [J]．时珍国医国药,28(9):2099-2103.]   \nZHANG JN,LIU KX,2019.The research progress of catalpol[J].Dr Eval Res:1-5.[张江南，刘克辛,2019.梓 醇的研究进展[J]．药物评价研究：1-5.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

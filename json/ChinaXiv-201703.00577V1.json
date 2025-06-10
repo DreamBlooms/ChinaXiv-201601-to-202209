@@ -1,0 +1,147 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of Cu content on the defect evolution in Fe-Cu alloys investigated by PALS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X.Z. Cao1, X. Lail' ², G.D. Cheng1, S.X. Jin1, X. Zhang²,P. Zhang1, B.Y. Wang1, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratory of Nuclear Radiation and Nuclear Energy Technology, Institute of High Energy Physics, CAS,Beijing 100049, China   \n$^ 2 { \\sf K }$ ey Laboratory of High Energy Density Physics and Technology of Ministry of Education, Sichuan University, Chengdu 61OO64, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: wangboy @ihep.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract. The effect of Cu content on the evolution of defects in $\\mathrm { F e - x \\% } \\mathrm { C u }$ alloys $\\mathrm { X } { = } 0 . 1 5$ ,0.3. and O.6) were investigated using Positron Annihilation Lifetime Spectroscopy. The vacancytype and Cu-vacancy complexes defects were respectively produced by quenching from 1173 K and cold-rolled deformation followed by isochronal annealing. The isochronal annealing results obtained by PALS showed that Cu-vacancy complexes delayed the complete recovery of vacancy-type defects and the complete recovery temperature increased with the content of $\\mathrm { c u }$ in $30 \\%$ deformed Fe-Cu alloys. The increment of $\\mathrm { { C u } }$ content also restrained the migration of vacancies in as-quenched Fe-Cu alloys. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fe-Cu model alloy has been always regarded as one of the most suitable systems for studying the Cu precipitates and the evolution of microdefects in the reactor pressure vessel (RPV） steels[1,2]. Extensive studies have showed that the increment of the ductile-to-britle transition temperature (DBTT) was due to the tiny Cu precipitates in RPV steels[1,3,4]. Since the influence of smal amount Cu element on DBTT of steel used for RPV steels is a serious problem, the content of the $\\mathtt { C u }$ impurity must be limited strictly in commercial reactor structural materials.It is well known that $\\mathrm { C u }$ atoms have a very low solubility in Fe-base alloys and the Cu precipitates formed easily in $\\mathtt { C u }$ -bearing steels during deformation, irradiation and aging. Previous work focused on the formation of $\\mathrm { c u }$ precipitates, the evolution of defects and the interaction between $\\mathrm { c u }$ precipitates and defects[1,5,6]. Onitsuka et al studied the effect of rolling deformation on the isochronal precipitation of the Fe-Cu alloys by positron annihilation spectroscopy. They observed the formation of Cu-vacancy clusters and found that deformation-induced vacancies enhanced the diffusion of Cu atoms[7]. In addition,Nagai et al. investigated the interaction of irradiation-induced vacancies and $\\mathtt { C u }$ aggregations in binary Fe-Cu alloys,they found that irradiation could lead to a vacancy-solute complex which would speed up the precipitation[8].Although the Fe-Cu binary alloys have been extensively studied, the effect of Cu content on the evolution of defects, especially vacancy type defects along with the interaction between Cu atoms and vacancies in quenched and deformed Fe-Cu alloys,is still poorly understood. However, the mechanism of the interaction of $\\mathrm { C u }$ atoms with defects plays a critical role in the properties of FeCu alloys. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is difficult to probe experimentally using conventional detection means such as Transmission Electron Microscopy(TEM) as many of these defects are on atomic scale. Positron annihilation techniques (PAT) have been used to investigate tiny Cu precipitates,defects and their complexes in Fe-Cu alloys[9]. Importantly,Positron Annihilation Lifetime Spectroscopy (PALS） has been widely applied as one of the few techniques to detect the evolution of vacancy-type defects sensitively and selectively in metals[10-12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to clarify the effect of Cu content on the evolution of defects and the interaction between Cu atoms and vacancies,PALS was performed on three sorts of $\\mathrm { F e - x \\% } \\mathrm { C u }$ alloys $\\mathrm { \\chi } = 0 . 1 5$ , 0.3,and 0.6) treated with different ways. Deformation and quenching were used to produce defects in $\\mathrm { F e - x \\% C u }$ （20 alloys. Isochronal annealing was a common method to study the evolution and recovery of defects in alloys. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experiments ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As specimens, $\\mathrm { F e - x \\% C u }$ alloys ( $\\mathrm { \\chi } = 0 . 1 5$ , 0.3,and O.6) were arc melted from Fe $( 9 9 . 9 9 \\%$ purity） and Cu $9 9 . 9 9 9 \\ \\%$ purity） in vacuum using a high-frequency induction furnace. After melting, solution treatment of the samples consisted of heating at $1 0 7 3 \\mathrm { K }$ for $2 4 \\mathrm { h }$ ,and then well-annealed at $1 1 7 3 \\mathrm { K }$ for $0 . 5 \\mathrm { h }$ in vacuum,followed by quenching into ice water to introduce vacancies[13]. The other series of specimens were cold-rolling deformed to $30 \\%$ in order to induce the complex defects after quenching. After introduction of defects by quenching and deformation，the quenching specimens were isochronally annealed for $3 0 ~ \\mathrm { { m i n } }$ in a vacuum of $1 0 ^ { - 5 }$ Pa from $3 7 3 \\mathrm { ~ K ~ }$ to $6 7 3 \\mathrm { ~ K ~ }$ ； and the deformed specimens was annealed from $3 7 3 \\mathrm { ~ K ~ }$ to $9 7 3 \\mathrm { ~ K ~ }$ . PALS analysis was carried out to characterize the defects in Fe-Cu aloys using a fast-slow coincident ORTEC system with a time resolution of 200 ps (full width at half maximum). The $^ { 2 2 } \\mathrm { { N a } }$ positron source was placed between the two pieces of samples, and then the“sample-source-sample sandwich”was placed between the two $\\mathbf { B a F } _ { 2 }$ detectors to acquire the lifetime spectra. Each spectrum was accumulated to a total of $2 \\times 1 0 ^ { 6 }$ counts，which aimed to reduce the statistical error in the calculation of lifetimes.The positron lifetime spectra were analyzed by the LT-9 software[7]. Positron annihilation lifetime and intensity could reflect the defect size and density information. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results of isochronal annealing for as-quenched $\\mathrm { F e - x \\% C u }$ alloys with $30 \\%$ deformation obtained by PALS are shown in Figure 1. $\\tau _ { \\mathrm { { m } } }$ is the mean lifetime which reflects the total amount of vacancytype defects in alloys.The long lifetime $\\tau _ { 2 }$ corresponds to the size of vacancy clusters[14]. $\\mathbf { I } _ { 2 }$ is the intensity of $\\tau _ { 2 }$ which represents the defect density. The short lifetime $\\tau _ { 1 }$ may be contributed by positron lifetime of interstitial atoms and other defects,such as dislocation or bulk material[2]. It is seen that the value of $\\tau _ { \\mathrm { { m } } }$ in $\\mathrm { F e - x \\% } \\mathrm { C u }$ alloys after $30 \\%$ deformation were about $1 5 0 ~ \\mathrm { p s }$ ,and the mean lifetime of single vacancy in pure Fe was ${ \\sim } 1 7 5$ ps( $\\mathbf { V } _ { 1 }$ in pure Fe are shown by horizontal dashed lines in Figure 1)[2]. The $\\tau _ { \\mathrm { m } }$ is distinctly shorter than the positron lifetime of $\\mathrm { \\Delta V _ { 1 } }$ ，which indicated that a significant amount of defects were induced by deformation and subsequent isochronal annealing, namely, Cu-vacancy complexes[7,15,16]. The long lifetime $\\tau _ { 2 }$ remained almost constant value after isochronal annealing at the temperature region $3 7 3 \\mathrm { ~ K } { - } 5 2 3 \\mathrm { ~ K ~ }$ ，while the intensity of $\\tau _ { 2 }$ increased gradually. It indicated that the defect density increased with annealing temperature. The reason may be that a small amount of deformation-induced dislocations and/or (SFT) defects could trap vacancies, and trapped vacancies were released gradually with the increment of annealing temperature, leading to the increase of $\\tau _ { \\mathrm { m } }$ intensity $\\left( \\mathrm { I } _ { 2 } \\right)$ . As shown in Figure 1, the long lifetime $\\tau _ { \\mathrm { { m } } }$ for $\\mathrm { F e - x \\% } \\mathrm { C u }$ alloys all increased to around 2OO ps after isochronal annealing at $5 7 3 \\mathrm { ~ K ~ }$ ， suggesting the vacancies aggregated and formed the vacancy clusters.It was worth noting that the annealing behaviour of the long lifetime in $\\mathrm { F e - 0 . 1 5 \\% C u }$ is significantly different from that in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ and $\\mathrm { F e - 0 . 6 \\% C u }$ at $6 2 3 { \\mathrm { ~ K ~ } }$ . The long lifetime in F $\\mathrm { e { - } 0 . 1 5 \\% C u }$ was 223 ps,while the $\\tau _ { \\mathrm { { m } } }$ ofF ${ \\sf a } . 0 . 3 \\% { \\sf C u }$ and Fe- $. 0 . 6 \\% \\mathrm { C u }$ decreased to around 160 ps. It indicated that vacancies aggregated continuously in $\\mathrm { F e - 0 . 1 5 \\% C u }$ at $6 2 3 { \\mathrm { ~ K ~ } }$ ，while vacancy clusters already separated in $\\mathrm { F e - } 0 . 3 \\% \\mathrm { C u }$ and $\\mathrm { F e - 0 . 6 \\% C u }$ alloys. The increment of $\\mathrm { { C u } }$ content may promote the occupation of vacancies by $\\mathtt { C u }$ atoms and benefit for the formation of Cu-vacancy complexes further.Thus the increase of $\\mathtt { C u }$ content may enhance the separation of vacancy clusters in Fe-Cu alloys. On the other hand, when the mean lifetime decreased to the lifetime of a perfect lattice in pure Fe (\\~106 ps), this marked the complete recovery of vacancy-type defects[17]. The results of the mean lifetime in Figure 1 show that the perfect recovery temperature was $9 2 3 \\mathrm { ~ K ~ }$ in $\\mathrm { F e - x \\% C u }$ 0 $\\mathbf { \\bar { x } } =$ 0.15, 0.3) and $9 7 3 \\mathrm { ~ K ~ }$ in $\\mathrm { F e - 0 . 6 \\% C u }$ . The increment of $\\mathtt { C u }$ content delayed the complete recovery of vacancy-type defects. Since the density of the $\\mathrm { C u }$ -vacancy complexes in $\\mathrm { F e - 0 . 6 \\% C u }$ was larger than those in $\\mathrm { F e - x \\% }$ $\\mathit { \\Omega } _ { \\mathrm { { X } = \\ 0 . 1 5 } }$ ，0.3） and Cu-vacancy complexes system was more stable than single vacancies.As a result, more energy or higher annealing temperature Was needed to separate the Cuvacancy complexes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/075818fc828e7e92ee08e4ce10a80fdfdf222243b6e7dac822eaf6a6efbe8610.jpg",
+        "img_caption": [
+            "Figure 1.PALS for quenched $\\mathrm { F e - x \\% C u }$ alloys with $30 \\%$ deformation.(a) $\\mathrm { F e - 0 . 1 5 \\% C u }$ (b) Fe- $. 0 . 3 \\% \\mathrm { C u }$ （c） $\\mathrm { F e - 0 . 6 \\% C u }$ ．The calculated values for bulk and $\\mathrm { \\Delta V _ { 1 } }$ in pure Fe are shown byhorizontal dashed lines. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab831c0b2065913116b797c90d19653de5310e1e7d9998aaa92e4a04094301cc.jpg",
+        "img_caption": [
+            "Figure 2.PALS for only quenched $\\mathrm { F e - x } \\% \\mathrm { C u }$ alloys. (a) $\\mathrm { F e - 0 . 1 5 \\% C u }$ (b)Fe- $. 0 . 3 \\% \\mathrm { C u }$ (c) Fe$0 . 6 \\% \\mathrm { C u }$ . The calculated values for bulk, $\\mathbf { V } _ { 1 }$ and $\\mathrm { \\Delta V } _ { 3 }$ in pure Fe are shown by horizontal dashed lines "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to further investigate the influence of $\\mathrm { C u }$ content on the evolution of vacancy-type defects in $\\mathrm { F e - C u }$ alloys and rule out the effect of deformation-induced $\\mathrm { C u }$ -vacancy complexes on the behaviour of vacancy-type defects,the only quenched specimens were investigated by PALS. As shown in Figure 2, the complete recovery temperature where vacancy type defects of $\\mathrm { F e - 0 . 1 5 \\% C u }$ ,Fe$0 . 3 \\% \\mathrm { C u }$ and $\\mathrm { F e - 0 . 6 \\% C u }$ after isochronal annealing is 448 K,473 K and $6 2 3 \\mathrm { ~ K ~ }$ ，respectively.This phenomenon also showed that the complete recovery temperature of vacancy-type defects caused by quenching increased with the Cu content. The complete temperatures for deformed $\\mathrm { F e - x \\% C u }$ alloy in Figure 1 were distinctly larger than those for quenched samples in Figure 2. Therefore, Cu-vacancy complexes induced by deformation restrained the recovery of vacancy-type defects，pushing the complete recovery temperature higher.As shown in Figure 2, the long lifetime in $\\mathrm { F e - 0 . 1 5 \\% C u }$ and Fe$0 . 3 \\% \\mathrm { C u }$ increased to around 227 ps at $3 9 8 \\mathrm { ~ K ~ }$ after annealing,which meant single vacancies migrated and formed clusters.However, the corresponding temperature in F $\\mathrm { e - 0 . 6 \\% C u }$ was $5 2 3 \\mathrm { ~ K ~ }$ . This also demonstrated that $\\mathrm { C u }$ content had an effect on the migration of vacancies in as-quenched Fe-Cu alloys. To be precise, $\\mathrm { C u }$ atoms may restrain the migration of vacancies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Conculsion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effect of Cu content in $\\mathrm { F e - x } \\% \\mathrm { C u }$ （ $\\mathit { \\check { x } } = 0 . 1 5$ ，0.3，and O.6） on the evolution of defects were investigated systematically by PALS.In summary,According to the results of PALS, the variation of the temperature where vacancy type defects in thre sorts of specimens completely recovered revealed that the complete recovery temperature presented a significant increase with the increase of Cu content. It can be assumed th ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "at Cu-vacancy complexes induced by deformation and subsequent isochronal annealing restrained the recovery of vacancy-type defects in Fe-Cu alloys, pushing the complete recovery temperature higher. In addition, Cu content had an effect on the migration of vacancies in as-quenched Fe-Cu alloys.To be precise, Cu atoms may restrain the migration of vacancies. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This Work is partially supported by the National Natural Science Foundation (Grant Nos. 91026006, 91226103). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Xu Q, Yoshiie T and Sato K 2006 Phys Rev B 73 134115   \n[2] Wu HB, Cao X Z, Cheng G D, Wu J P, Yang J, Zhang P, Li Z X, Rahman A M S, Yu R S and   \nWang B Y 2013 Physica Status Solidi a-Applications and Materials Science 21O 1758-1761   \n[3] Cao X Z, Xu Q, Sato K and Yoshiie T 2009 Phys Status Solidi C 6 2355-2358   \n[4] Nagai Y,Tang Z, Hassegawa M, Kanai T and Saneyasu M 2OO1 Phys Rev B 63 134110   \n[5] Cao X Z, Zhang P, Xu Q, Sato K,Tsuchida H, Cheng G D, Wu HB, Jiang X P, Yu R S,Wang B   \nY and WeiL 2013JPhys Conf Ser 443 012017   \n[6] Xu Q and Yoshiie T 2011 Philos Mag 91 3716-3726   \n[7] Onitsuka T,Takenaka M, Kuramoto E, Nagai Y and Hasegawa M 2OO2 Phys Rev B 65 012204   \n[8] Nagai Y,Tang Z, Ohkubo H, Takadate K and Hasegawa M 2O03 Radiat Phys Chem 68 381-386   \n[9] Nagai Y, Takadate K, Tang Z, Ohkubo H, Sunaga H, Takizawa H and Hasegawa M 2O03 Phys   \nRev B 67 224202   \n[10] Ohkubo H, Sugiyama S,Fukuzato K,Takenaka M, Tsukuda N and Kuramoto E 2OOO J Nucl   \nMater 283 858-862   \n[11] Nagai Y, Hasegawa M, Tang Z, Hempel A, Yubuta K, Shimamura T, Kawazoe Y, Kawai A and   \nKano F 2000 Phys Rev B 61 6574-6578   \n[12] Yoshiie T, Xu Q, Satoh Y, Ohkubo H and Kiritani M 200O J Nucl Mater 283 229-233   \n[13] Yoshiie T, Cao X Z, Xu Q, Sato K and Troev T D 2009 Phys Status Solidi C 6 2333-2335   \n[14] Ishizaki T, Xu Q, Yoshiie T and Nagata S 2OO4 Mater Trans 45 9-12 [15] Kuriplach J, Melikhova O, Domain C, Becquart C S, Kulikov D, Malerba L, Hou M, Almazouzi A,Duque C A and Morales AL 2006 Appl Surf Sci 252 3303-3308   \n[16] Kuramoto E,Abe H, Takenaka M, Hori F, Kamimura Y, Kimura M and Ueno K 1996 J Nucl Mater 239 54-60   \n[17] Ohkubo H, Tang Z, Nagai Y,Hasegawa M, Tawara T and Kiritani M 2OO3 Mat Sci Eng a-Struct 350 95-101 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

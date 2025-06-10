@@ -1,0 +1,179 @@
+# 荒漠草原不同类型土壤水分时空变化特征
+
+苏莹1,2.3，陈林12,3，李月飞1,2,³3，杨新国1,2,3， 张义凡1,2.3杨东东1,2.3，朱林1,2.3
+
+(1.宁夏大学西北退化生态系统恢复与重建教育部重点实验室，宁夏银川750021;2.宁夏大学西北土地退化与生态恢复省部共建国家重点实验室培育基地,宁夏 银川 750021;3．宁夏大学西部生态与生物资源开发联合研究中心,宁夏 银川750021)
+
+摘要：为研究荒漠草原区不同土壤类型的水分时空动态变化特征及其对降雨变化的响应。选择3种土壤类型——风沙土、风化基岩残积土和灰钙土,利用野外增减雨试验装置，对土壤水分进行长期的动态监测。结果表明;风沙土、风化基岩残积土和灰钙土的土壤体积含水率时间变化受降雨的影响显著,出现了3次波峰;降雨量的增减变化会影响波峰出现的早晚。土壤体积含水率的垂直变化主要有2种类型:波动型和降低型,其主要受地表植被及土壤物理性质的影响。风沙土和风化基岩残积土的正常和减雨区,变异系数由表层(活跃层)向深层递减;灰钙土表层的土壤体积含水率变异系数最小（正常区 $1 . 2 1 \%$ ,增雨区 $1 . 3 6 \%$ ,减雨区 $1 . 4 6 \%$ ）,属次活跃层。正常和增雨区的总土壤蓄水量表现为：风化基岩残积土 $>$ 风沙土 $>$ 灰钙土，而减雨区的总蓄水量为：风化基岩残积土 $>$ 灰钙土 $>$ 风沙土。
+
+关键词：荒漠草原；土壤水分；降雨变化；土壤类型；宁夏
+
+土壤水分作为荒漠草原生态系统中重要的水分来源,直接影响植物的生长[1]、分布及稳定[2]。作为土壤的重要组成物质，土壤水分是土壤养分循环与流动的载体，也是影响植物生存的重要环境要素[3-4]。在荒漠草原地区,受降水[5]、土壤质地[6]、植被[7 等因素的影响,土壤水分存在明显的时空变化特征[8-10]。常昌明等[1]的研究表明,小针茅荒漠草原土壤水分动态存在单峰形和双峰形两种模式。宋乃平等[12]对人工柠条林土壤水分的研究发现，人工柠条林和草地的土壤水分具有明显的周年节律。张军红等[13]研究了干旱、半干旱地区的土壤水分动态格局，把土壤水分动态分为3个时期：春季积累期、夏季消耗期、秋季稳定期。在较大尺度上，降水对土壤水分时空分布格局的影响更加明显，而在较小尺度上,植被、土壤等的影响较明显(14-15] 。因此，研究荒漠草原区土壤水分的时空动态变化规律,对于该区的水土资源可持续发展可提供理论指导。
+
+存在差异[,因此,不同土壤类型下土壤水分的动态变化及分布特征也具有显著差异[16]。目前,关于不同土壤类型的研究较多[17-19],如风沙土结构疏松、保水能力差、水分下渗快，因此下层土壤可得到上部水分补给[20];灰钙土的土壤质地较为稳定、物理稳定性变化较小[21]。而对于荒漠草原区不同土壤类型下土壤水分动态变化的研究较少。基于此,本文重点分析： $\textcircled{1}$ 利用连续定位监测数据分析研究区土壤水分变化特征，揭示土壤水分时空格局的变化规律； $\textcircled{2}$ 不同土壤类型下的土壤水分对降雨变化的响应。通过分析降雨量的增减变化对不同土壤类型土壤水分的影响，旨在揭示土壤水分的时空变化，为荒漠草原区土壤水分的有效利用提供理论依据。
+
+不同土壤因质地不同，对土壤水分的涵养能力
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于宁夏盐池县柳杨堡乡杨寨子村号 $( 3 7 ^ { \circ } 0 4 ^ { \prime } \sim 3 8 ^ { \circ } ~ 1 0 ^ { \prime } ~ \mathrm { N }$ ， $1 0 6 ^ { \circ } 3 0 ^ { \prime } \sim 1 0 7 ^ { \circ } 4 1 ^ { \prime } \mathrm { ~ E ~ }$ ，海拔
+
+$1 \ 4 0 0 \sim 1 \ 4 5 0 \ \mathrm { m } ) ,$ ,北部与毛乌素沙地相连，东南部与黄土高原相连,属典型的中温带大陆性气候,气候特点为干旱少雨，蒸发强烈。年平均气温为 $8 . 2 ~ \mathrm { ^ { 9 ~ C } }$ ，年降雨量为 $2 9 2 ~ \mathrm { m m }$ ,且主要集中在7一9月，蒸发量为 $2 \ 7 1 0 \ \mathrm { m m }$ ,干燥度为3.1。土壤为风沙土、灰钙土、风化基岩残积土。草本植物主要有猪毛蒿(Arte-misia scoparia）苦豆子（Sophoraalopecuroides）猪毛菜（Salsola collina）等短命植物[22]
+
+# 1.2 试验设计
+
+本研究于2017年5一10月，在西北退化生态系统恢复与重建教育部重点实验室杨寨子野外基地进行。首先，对研究区的土壤类型做典型抽样调查，选取3个典型样地分别对应3种土壤类型，即风沙土（204号 $( 3 7 ^ { \circ } 4 9 ^ { \prime } 3 5 ^ { \prime \prime } \mathrm { N } , 1 0 7 ^ { \circ } 2 9 ^ { \prime } 2 4 ^ { \prime \prime } \mathrm { E }$ ,海拔 $1 \ 4 0 8 \ \mathrm { ~ m ~ }$ ）、风化基岩残积王 $( 3 7 ^ { \circ } 4 9 ^ { \prime } 3 6 ^ { \prime \prime } \mathrm { N } , 1 0 7 ^ { \circ } 2 9 ^ { \prime } 2 5 ^ { \prime \prime } \mathrm { E }$ ,海拔 $1 \ 4 0 5 \ \mathrm { m }$ ）和灰钙土( $3 7 ^ { \circ } \ 4 9 ^ { \prime } \ 3 9 ^ { \prime \prime } \ \mathrm { N }$ ， $1 0 7 ^ { \circ } ~ 2 9 ^ { \prime } ~ 3 3 ^ { \prime \prime } \mathrm { ~ E ~ }$ ，海拔$1 ~ 4 0 7 ~ \mathrm { m }$ )。所选样地的间距至少为 $5 0 \mathrm { ~ m ~ }$ ,地形相对平缓,群落类型均为猪毛蒿群落。降雨数据来源于安装在区域内的自动气象站（WeatherStationVantage $\mathrm { P r o 2 } ^ { \mathrm { T M } } \mathrm { P l u s } \backslash$ ）
+
+其次，对研究区近15a来的降水资料进行了分析。该区15a来的平均降水量为 $2 9 9 . 3 \ \mathrm { m m }$ ,最大降水量为2011年的 $4 0 2 . 8 ~ \mathrm { { m m } }$ ,距平增加 $3 4 . 6 \%$ ；最小降水量为2005 年的 $1 8 0 ~ \mathrm { m m }$ ,距平减少 $3 9 . 8 \%$ 。因此，根据该区降水的分布征，将增减雨量设计为增雨区（增雨量为 $30 \%$ ）减雨区（减雨量为 $30 \%$ ）和正常区（对照）。
+
+2017年5月，应用自制的增减雨装置开展实验（图1），该装置由支撑架、截雨槽和增雨槽组成（该装置已获得国家实用新型专利，专利号：ZL201720618832.9）。支撑架是由20个 $1 \mathrm { ~ m ~ } \times 1 \mathrm { ~ m ~ }$ 的铁架子组成的 $2 \mathrm { ~ m ~ } { \times } 6 \mathrm { ~ m ~ }$ 的活动围栏，分为3个区：增雨区、减雨区和正常区。其中，减雨主要是通过截雨槽将自然降雨截留，以减少下方减雨样地内的降雨量来实现减雨的目的，同时截留的降雨受重力作用流进增雨槽内，实现同步增雨的目的，正常区则不做任何处理。减雨槽和增雨槽断面均为U型硬质PC(聚碳酸酯）材料，并用打钻机在增雨槽上由高到低打不同大小的孔径。减雨槽和增雨槽平行组装在同一水平面上，且与水平面呈 $1 5 ^ { \circ }$ 的夹角。将对应的6根雨槽均匀的分布于支撑架的增(减)雨区，面积占小区面积的 $30 \%$ ，故增（减)雨量为$30 \%$ ,正常区不放置PC 管(图1）。每个样地中增雨区、减雨区及正常区的面积均为 $2 { \mathrm { ~ m } } \times 2 { \mathrm { ~ m } }$ 。
+
+![](images/bc0dcb77811c7d7f465c6885e065144bbe4a4552add4694beecaa76549a78a92.jpg)  
+图1增减雨装置示意图  
+Fig.1The sketch figure of increasing/decreasing precipitation
+
+# 1.3 土壤水分监测
+
+每个样地设置3种降雨处理，共计9个处理区。在每个处理区内分别埋设美国HOBOU30土壤湿度自动记录仪，固定监测土壤水分的动态变化。水分监测探头位于各样地降雨处理区中间，分别置于$0 \sim 1 0 \ \mathrm { c m } \ 1 0 \sim 2 0 \ \mathrm { c m } \ . 2 0 \sim 6 0 \ \mathrm { c m }$ 的深度，数据采集步长均为 $1 0 ~ \mathrm { m i n }$ ，自2017年5—10月进行连续动态监测,所测得的土壤水分为土壤体积含水率 $( \% )$ 0
+
+# 1.4 数据处理
+
+将HOBOU30的土壤体积含水率观测数据按照每天进行平均处理,土壤蓄水量的计算公式[23]为：
+
+$$
+E = M \times H
+$$
+
+式中： $E$ 为蓄水量 $\mathbf { \Psi } ( \operatorname { m m } ) : M$ 为土壤体积含水率$( \% ) { : } H$ 为土壤厚度( $\mathbf { \dot { \Pi } } _ { \mathrm { m m } } )$ 。
+
+变异系数 $( C v ) =$ 标准差/平均值[24]。采用 Mi-crosoftExcel2010软件进行数据整理及绘图。
+
+# 2结果与分析
+
+# 2.1降水变化下不同土壤类型土壤体积含水率的时间变化
+
+从图2\~5可以看出,3种土壤的体积含水率时间变化特征基本一致。在监测期内，6月5日、7月
+
+23日、8月22日出现了强降雨（日降雨量 $> 2 0$ mm），导致土壤体积含水率增大，形成了3次波峰。增雨区波峰的出现时间早于正常区，而减雨区波峰的出现时间晚于正常区。风化基岩残积土的土壤体积含水率随着时间的增加而增大，而风沙土和灰钙土的土壤体积含水率无此现象。这可能是由于风沙土和灰钙土的土壤孔隙较大,沙粒含量较高，对于土壤水分的存储效果较差，故无明显的积累趋势。
+
+![](images/54255dcb3e358d428fdbcb21b8b2c0aa87d14c9dcb8d5a5aaf6bbba01b550b68.jpg)  
+图2研究区2017年5—10月降雨量
+
+![](images/9f521827f7db21c83ca10a3c92833d24cf3e0b79361524320bf38665dac28218.jpg)  
+Fig.2Precipitation in the study area from May to October   
+图3风沙土样地土壤体积含水率变化  
+Fig.3Change of soil volumetric moisture content in sample plot of sandy soil
+
+![](images/325b8c9117b3f3f18429486a087f5b7f0d99753fa27dfb38440f338ae902aa90.jpg)  
+图4风化基岩残积土样地土壤体积含水率变化
+
+![](images/51fd015020d49872f4ede62c8f8ac099e456dad6018914691486bc619ab833d2.jpg)  
+Fig.4Change of soil volumetric moisture content in sample plot of residual soil of weathered bedrock   
+图5灰钙土样地土壤体积含水率变化  
+Fig.5Change of soil volumetric moisture content in sample plot of sierozem
+
+![](images/bec3f5bddc23718ea447688ca7a3e09b371e132b7b109bdc189ce7bea8f94d2c.jpg)  
+图6降水变化下不同土壤类型土壤体积含水率的空间变化  
+Fig.6Spatial variation of volumetric moisture content of different soil types under precipitation chang
+
+# 2.2降水变化下不同土壤类型的土壤体积含水率的垂直变化
+
+3种土壤类型的体积含水率垂直方向的变化趋势（图6），可将其分为2种类型：一类是波动型，包括风沙土的3种降雨处理区（正常、增雨及减雨区）、风化基岩残积土的增雨区，其土壤含水率的变化呈现高一低一高的波浪型趋势，而风化基岩残积土的减雨区，其土壤体积含水率表现为低一高一低的趋势;第二种类型是降低型，包括灰钙土的3种降雨处理区（正常、增雨和减雨区）、风化基岩残积土的正常区，其中灰钙土的正常、增雨和减雨区，分别减少了 $6 3 . 7 3 \%$ ${ \it 6 4 . 3 3 \% }$ 和 $7 0 . 2 0 \%$ ，而风化基岩残积土的正常区减少了 $2 4 . 5 7 \%$ 。
+
+# 2.3降水变化下不同土壤类型的土壤体积含水率变异
+
+$0 \sim 1 0 \ \mathrm { c m }$ 土层,风化基岩残积土减雨区的变异系数最大，为 $0 . 9 0 \%$ ： $1 0 \sim 2 0 ~ \mathrm { c m }$ 王层,风沙土增雨区的变异系数最大，为 $0 . 7 0 \%$ $2 0 \sim 6 0 ~ \mathrm { c m }$ 土层,灰钙土减雨区的变异系数最大，为 $0 . 6 3 \%$ 。此外，风沙土和风化基岩残积土的正常、增雨及减雨区，变异系数由表层向深层递减，其中，灰钙土表层土壤体积含水率的变异系数最小（正常区 $1 . 2 1 \%$ ,增雨区$1 . 3 6 \%$ ,减雨区 $1 . 4 6 \%$ ）(表1)。
+
+根据标准差（SD）判别法（ $\mathrm { S D } < 1 \%$ ，为相对稳定层； $1 \% \sim 1 . 5 \%$ ,为次活跃层； $\mathrm { S D } > 1 . 5 \%$ ,为活跃层），可将不同土层划分为活跃层、次活跃层和相对稳定层[25]。 $0 \sim 1 0 ~ \mathrm { c m }$ 土层,灰钙土的3种降雨处理区（正常、增雨及减雨区)属次活跃层，而风沙王和风化基岩残积土的3种降雨处理区（正常、增雨及减雨区）属活跃层； $2 0 \sim 6 0 ~ \mathrm { c m }$ 王层,风沙土的正常及减雨区、风化基岩残积土的正常区和灰钙土的减雨区属次活跃层，而风沙王的增雨区、风化基岩残积土的增雨及减雨区和灰钙土的正常及增雨区则属相对稳定层。
+
+# 表1降雨变化下不同土壤类型土壤体积含水率的统计特征
+
+Tab.1Statistical results of volumetric moisture content of different soil types under precipitation change   
+
+<html><body><table><tr><td>样地</td><td>降雨 处理</td><td>土层深度 /cm</td><td>平均值 /%</td><td>Cv</td><td>SD /%</td><td></td></tr><tr><td>风沙土</td><td>正常区</td><td>0~10</td><td>0.05</td><td>0.42</td><td>1.93</td><td>活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.04</td><td>0.39</td><td>1.47</td><td>次活跃层</td></tr><tr><td></td><td></td><td>20~60</td><td>0.04</td><td>0.31</td><td>1.31</td><td>次活跃层</td></tr><tr><td></td><td>增雨区</td><td>0~10</td><td>0.06</td><td>0.48</td><td>2.77</td><td>活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.04</td><td>0.70</td><td>2.47</td><td>次活跃层</td></tr><tr><td></td><td></td><td>20~60</td><td>0.06</td><td>0.18</td><td>0.98</td><td>相对稳定层</td></tr><tr><td></td><td>减雨区</td><td>0~10</td><td>0.03</td><td>0.75</td><td>2.12</td><td>活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.02</td><td>0.60</td><td>1.09</td><td>次活跃层</td></tr><tr><td></td><td></td><td>20~60</td><td>0.02</td><td>0.31</td><td>0.64</td><td>次活跃层</td></tr><tr><td>风化</td><td>正常区</td><td>0~10</td><td>0.09</td><td>0.23</td><td>2.16</td><td>活跃层</td></tr><tr><td>基岩</td><td></td><td>10~20</td><td>0.09</td><td>0.22</td><td>1.99</td><td>活跃层</td></tr><tr><td>残积土</td><td></td><td>20~60</td><td>0.07</td><td>0.20</td><td>1.42</td><td>次活跃层</td></tr><tr><td></td><td>增雨区</td><td>0~10</td><td>0.14</td><td>0.36</td><td>5.19</td><td>活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.05</td><td></td><td>1.98</td><td>次活跃层</td></tr><tr><td></td><td></td><td>20~60</td><td>0.08</td><td>0.37</td><td></td><td></td></tr><tr><td></td><td>减雨区</td><td>0~10</td><td>0.06</td><td>0.08</td><td>0.67</td><td>相对稳定层</td></tr><tr><td></td><td></td><td></td><td></td><td>0.90</td><td>5.19</td><td>活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.07</td><td>0.28</td><td>1.98</td><td>活跃层</td></tr><tr><td>灰钙土</td><td></td><td>20~60</td><td>0.06</td><td>0.11</td><td>0.67</td><td>相对稳定层</td></tr><tr><td></td><td>正常区</td><td>0~10</td><td>0.08</td><td>0.14</td><td>1.21</td><td>次活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.03</td><td>0.25</td><td>0.81</td><td>相对稳定层</td></tr><tr><td></td><td>增雨区</td><td>20~60</td><td>0.03</td><td>0.22</td><td>0.67</td><td>相对稳定层</td></tr><tr><td></td><td></td><td>0~10</td><td>0.10</td><td>0.14</td><td>1.36</td><td>次活跃层</td></tr><tr><td></td><td></td><td>10~20</td><td>0.05 0.03</td><td>0.35 0.21</td><td>1.66 0.71</td><td>活跃层 相对稳定层</td></tr><tr><td></td><td>减雨区</td><td>20~60</td><td>0.06</td><td>0.25</td><td>1.46</td><td>次活跃层</td></tr><tr><td></td><td></td><td>0~10</td><td></td><td>0.52</td><td>1.95</td><td>活跃层</td></tr><tr><td></td><td></td><td>10~20 20~60</td><td>0.04 0.02</td><td>0.63</td><td>1.09</td><td>次活跃层</td></tr></table></body></html>
+
+注： $\boldsymbol { C v }$ 表示变异系数； $\boldsymbol { s D }$ 表示标准差。
+
+![](images/1239aee257163aa777c99a6e21040723c6bba47a3abc15a06c0a0f10e6c3349d.jpg)  
+图7降水变化下不同土壤类型的土壤总蓄水量 Fig.7Total water storage of different soil types under precipitation change
+
+# 2.4降水变化下不同土壤类型的土壤总蓄水量
+
+从图7可以看出，风沙土、风化基岩残积土及灰钙土的总蓄水量为：增雨区 $>$ 正常区 $>$ 减雨区，且风化基岩残积土的土壤总蓄水量最大（增雨区为5.1$\mathbf { m } \mathbf { m }$ ,正常区为 $4 . 6 \ \mathrm { m m }$ ,减雨区为 $3 . 7 \ \mathrm { m m }$ )。3种土壤类型下，正常和增雨区的总蓄水量表现为：风化基岩残积王 $>$ 风沙王 $>$ 灰钙土，而减雨处理的总蓄水量为：风化基岩残积土 $>$ 灰钙土 $>$ 风沙土。
+
+# 3讨论
+
+土壤水分制约植被的形成与发展，是荒漠生态系统稳定、结构和功能正常发挥的关键因子，对于整个生态系统具有重要的作用[26]。研究表明，降水的时间分布差异会引起土壤含水量的变化[27]。本研究得出，土壤含水率对降水变化的响应较为敏感，风沙土、风化基岩残积土和灰钙土的土壤体积含水率与降雨的变化趋势大体一致，出现了3次波峰；且增雨区波峰的出现时间早于正常区，而减雨区波峰的出现时间晚于正常区。由此可见,降水变化对于土壤体积含水率的影响十分显著[28]。此外,风化基岩残积土的土壤体积含水率具有随着时间的增加而增大的趋势，而风沙土和灰钙土的土壤体积含水率无此趋势。由此可见，不同土壤类型的质地不同，体积含水率随时间的变化趋势也不同。
+
+本研究表明,3种土壤类型的表层土壤体积含水率高于下层,与前人的研究结果一致[29-30]。且土壤含水率在垂直剖面上表现为两种类型，波动型（高一低一高、低一高一低）和降低型。其中高—低一高型对应风沙土的3种降雨处理区（正常、增雨及减雨区）、风化基岩残积土的增雨区，这可能是由于研究区草本植物分布较多，其根系主要集中于$1 0 \sim 4 0 ~ \mathrm { c m }$ ,因此根系对中部土壤水分的消耗，导致该层土壤体积含水率较低；低一高一低型对应风化基岩残积土的减雨区，可能由于该区的水分条件较差，植被少，故对中部土层水分的消耗较少，导致土壤体积含水率较高。而降低型对应灰钙土的3种降雨处理区(正常、增雨、减雨区)和风化基岩残积土的正常区。由此可见，不同类型土壤体积含水率的垂直变化特征主要受地表植被、土壤物理性质的影响。
+
+土壤质地的空间异质性导致水文导度发生空间变异,从而使得土壤水分发生空间异质性,因此，土壤质地会影响土壤水分的分布特征[31]。许多学者对土壤水分的空间异质性进行了大量研究，潘颜霞等[32]认为,降雨是引起土壤水分空间变异的主要影响因素,赵文智[33]则认为，人工植被的建立增强了土壤水分的变异性。本研究发现，风沙土和风化基岩残积土的正常和减雨区，变异系数由表层到深层逐渐递减。与风沙土、风化基岩残积土相比，灰钙土表层土壤体积含水率的变异系数最小（正常区$1 . 2 1 \%$ ,增雨区 $1 . 3 6 \%$ ，减雨区 $1 . 4 6 \%$ ）,均属次活跃层。由此可见，降水、土壤质地对于土壤水分的变异系数影响较大,与前人的研究结果[32-33]有所差异，这可能是由于研究的侧重点不同，因此产生的结论不同。
+
+土壤蓄水量差异主要是由土壤属性决定的。本研究得出，风化基岩残积土的土壤总蓄水量最大，这是由于其土质坚硬，保水性较强。3种土壤类型中，正常和增雨区总蓄水量表现为：风化基岩残积土 $>$ 风沙土 $>$ 灰钙土;减雨区总蓄水量表现为：风化基岩残积土 $>$ 灰钙土 $>$ 风沙土，这表明风化基岩残积土的持水性最好。此外，在降水量减少的条件下，灰钙土的持水性优于风沙土，这可能是由于风沙土的土壤孔隙度大于灰钙土，且黏粒含量低于灰钙土，因此,在降水减少的条件下，风沙土的土壤水分更易被蒸发，故导致土壤蓄水量低于灰钙土。
+
+# 4结论
+
+（1）降雨量的时间变化对于土壤体积含水率的时间变化具有重要的影响。监测期内，不同土壤类型的土壤含水率出现了3次波峰;降雨的增减变化会影响波峰出现的早晚；风化基岩残积土的土壤体积含水率随着时间的增加而增大，而风沙土和灰钙土的土壤体积含水率无此现象。
+
+(2）风沙土、风化基岩残积土及灰钙土的王壤体积含水率在垂直剖面上表现为两种类型，波动型和降低型，分别对应风沙土的3种降雨处理区（正常区、增雨区、减雨区）和风化基岩残积土的增雨区、减雨区;灰钙土的3种降雨处理区（正常区、增雨区、减雨区)和风化基岩残积土的正常区。这主要受地表植被和土壤物理性质的影响。
+
+（3）风沙土和风化基岩残积土样地中正常和减雨区，变异系数由表层到深层逐渐递减，为活跃层而灰钙土表层的土壤体积含水率变异系数最小，属次活跃层。
+
+（4）风化基岩残积土的土壤蓄水量最大;风化基岩残积土的土壤水分条件最好；在降水减少的情况下，灰钙土的持水性优于风沙土。
+
+# 参考文献（References）:
+
+[1]何其华,何永华,包维楷.干旱半干旱区山地土壤水分动态变 化[J].山地学报,2003,21(2）:149-156.[He Qihua,He Yonghua,Bao Weikai.Research on dynamics of soil moisture in Arid and Semiarid Mountatinous Areas[J].Journal of Mountain Research,2003,21(2):149 -156.]   
+[2] Gerile,Gao RH.A study on moisture balance of artificial Haloxylon ammodendron forest in Kubuqi Desert[J].Journal of Inner Mongolia Agricultural University,2010,31（3）:125-129.   
+[3]陈海存,李晓东,李凤霞,等.黄河源玛多县退化草地土壤温湿 度变化特征［J].干旱区研究，2013，30（1）：35－40.［Chen Haicun,Li Xiaodong,Li Fengxia,et al. Change of soil temperature and soil moisture content in typical degenerated steppe in Maduo County in the Headstream region of the Yellow River[J].Arid Zone Research,2013,30(1):35-40.]   
+[4] 侯琼,魏学占，宋学峰.不同水分因子对内蒙古典型草原牧草 产量的影响[J].草业科学,2009,26(2）:5-10.[Hou Qiong， Wei Xuezhan,Song Xuefeng.Influence of different moisture factors on forage yield of inner Mongolian typical steppe[J].Pratacultural Science,2009,26(2）:5-10.]   
+[5]左小安,赵学勇,赵哈林,等.科尔沁沙地沙质草场土壤水分对 干旱和降雨响应的空间变异性［J].水土保持学报，2005，19 (1):140-144.[Zuo Xiao'an,Zhao Xueyong,Zhao Halin,et al. Spatial variability of soil moisture responding to drought and rainfall in sandy grassland of Horqin[J].Journal of Soil and Water Conservation,2005,19（1）:140-144.]
+
+[6]邹俊亮,邵明安，龚时慧.不同植被和土壤类型下土壤水分剖
+
+面的分异[J].水土保持研究,2011,18(6）:12-17.[Zou Junliang,Shao Ming'an,Gong Shihui.Effects of different vegetation and soil types on profile variability of soil moisture[J].Research of Soil and Water Conservation,2011,18(6):12-17.]   
+[7]尹秋龙,焦菊英,寇萌.极端强降雨条件下黄土丘陵沟壑区不 同植被类型土壤水分特征〔J].自然资源学报,2015,30（3）： 459 -469.[Yin Qiulong,Jiao Juying,Kou Meng.The soil moisture characteristic under different vegetation types after extremely heavy rainfall on the Hilly-gullied Loess Plateau[J].Journal of Natural Resources,2015,30(3） :459 -469.]   
+[8］车宗玺.祁连山西段草地土壤温度、水分变化特征[J].生态学 报,2018,38(1）:1-7.[ Che Zongxi.Characteristics of soil temperature and water content variation in the western Qilian Mountains[J].Acta Ecology Sinica,2018,38(1）:1-7.]   
+[9］安慧,安钰.毛乌素沙地南缘沙柳灌丛土壤水分及水量平衡 [J].应用生态学报,2011,22(9):2 247-2 252.[An Hui,An Yu.Soil moisture dynamics and water balance of Salix psammophila shurbs in south edge of Mu Us Sandy Land[J]. Chinese Journal of Applied Ecology,2011,22(9）:2 247 -2 252.]   
+[10］常昌明,牛建明,王海,等.小针茅荒漠草原土壤水分动态及其 对降雨的响应〔J].干旱区研究，2016,33（2）：260－265. [Chang Changming,Niu Jianming，Wang Hai,etal.Dynamic change of soil moisture and its response to rainfall in a Stipa klemenzii steppe[J].Arid Zone Research,2016,33(2）:260 -265.]   
+[11］宋乃平,杨明秀,王磊,等.荒漠草原区人工柠条林土壤水分周 年动态变化[J].生态学杂志,2014,33（10）:2 618-2 624. [Song Naiping,Yang Mingxiu,Wang Lei,etal.Monthly variation in soil moisture under Caragana intermedia stands grown in desert steppe[J]. Chinese Journal of Ecology,2014,33（10）:2 618 - 2 624.]   
+[12］张军红,吴波.干旱、半干旱地区土壤水分研究进展[J].中国 水土保持,2012（2）:40-43.[Zhang Junhong,Wu Bo.Research progress of soil moisture of arid and semi-arid regions[J].Soil and Water Conservation in China,2012（2）:40 -43.]   
+[13]Entin JK,Robock A,Vinnikov K Y,et al. Temporal and spatial scales of observed soil moisture variations in the extratropics[J]. Journal of Geophysical Research Atmospheres,200o,105（D9）： 11 865 - 11 878.   
+[14]Mohanty BP,Skaggs TH,Famiglieti JS.Analysis and mapping of field-scalesoil moisture variabilityusing high-resolution,groundbased data during the Southern Great Plains 1997（SGP97）Hydrology Experiment[J].Water Resources Research,20oo,36（4）： 1 023 -1 031.   
+[15]邱扬,傅伯杰,王军,等.土壤水分时空变异及其与环境因子的 关系[J].生态学杂志,2007,26（1）:100-107.[Qiu Yang,Fu Bojie,Wang Jun,et al.Spation temporal variation of soil moisture and its relation to environmental factors[J].Chinese Journal of Ecology,2007,26（1):100-107.]   
+[16]艾合买提·那由甫,徐海量,李吉玫,等.伊犁河流域林业生态 建设基地淡灰钙土土壤特征研究[J].干旱区地理,2006,29 (6）:867-871.[Amaiti Nayoupu,Xu Hailiang,Li Jimei,et al.
+
+The soil characteristic of the light sierozem of the land of the forestry ecology in Yili River Basin[J].Arid Land Geography,2006,29 (6):867 -871.]
+
+[17]田积莹，黄义端,米登山.灌溉灰钙土水盐动态之初步研究 [J].土壤学报,1982,19（2）:154－163.[Tian Jiying,Huang Yiduan,Mi Dengshan.Prelininary study on the dynamical regime of waterand saltin the irrigated sierozem[J].Acta Pedological Sinica,1982,19(2):154-163.]
+
+[18］钱亦兵，雷加强,吴兆宁.古尔班通古特沙漠风沙土水分垂直 分布与受损植被的恢复[J].干旱区资源与环境，2002，16（4)： 69-74.[Qian Yibing,Lei Jiaqiang,Wu Zhaoning.Vertical disturbution of aeolian sandy soil moisture and recovery of damaged vegetation in Gurbantunggut Desert[J].Journal of Arid Land Resources and Environment,2002,16(4):69-74.]
+
+[19］展秀丽，吴伟.宁夏白芨滩防沙治沙区风沙土粒度组成特征及 空间异质性[J].甘肃农业大学学报，2017，52（3）：84-89. [Zhan Xiuli,Wu Wei.Grain composition and spatial heterogeneity of aeolian sandy soil in desertification combating areas of Baijitan in Ningxia[J]. Journal of Gansu Agricultural University,2O17,52 (3):84-89.]
+
+[20]张继贤.沙坡头地区风沙土的水热状况[J].中国沙漠，1997， 17（2）:154-158.［Zhang Jixian.Water and heat condition of blown sand soil in Shapotou region［J].Journal of Desert Research,1997,17(2) :154 -158.]
+
+[21]杨新国,宋乃平,李学斌,等.短期围栏封育对荒漠草原沙化灰 钙土有机碳组分及物理稳定性的影响[J].应用生态学报， 2012,23（12）:3 325-3 330.[Yang Xinguo,Song Naiping,Li Xuebin,et al.Effects of short-term fencing on organic carbon fractions and physical stability of sandy sierozem in desert steppe of northweast China[J].Chinese Journal of Applied Ecology,2012, 23(12):3 325 -3 330.]
+
+[22]张立运，陈昌笃.论古尔班通古特沙漠植物多样性的一般特点[J].生态学报,2001,22（11）:1923-1932.［Zhang Liyun,Chen Changdu.On the general characteristics of plant diversity ofGurbantunggut Sandy Desert[J].Acta Ecology Sinica,2O01,22(11):1 923 -1932.]
+
+[23]陈林,杨新国，翟德苹，等.柠条秸秆和地膜覆盖对土壤水分和 玉米产量的影响[J].农业工程学报，2015，31（2)：108-116. [ChenLin,Yang Xinguo,Zhai Deping,et al.Effects of mulching with Caragana powder and plastic film on soil water and maize yield[J].Transactions of the Chinese Society of Agricultural Enginerring,2015,31(2):108-116.]
+
+[24]莫保儒,蔡国军,杨磊，等.半干旱黄土区成熟柠条林地土壤水分利用及平衡特征[J].生态学报，2013，33（13）：4011-4 020.[Mo Baoru,Cai Guojun,Yang Lei,et al.Soil water use andbalance characteristics in mature forest land profile of Caragana
+
+korshinskii in Semiarid Loess Area[J].Acta Ecology Sinica,013,   
+33（13):4 011 -4 020.] [25］王孟本,李洪建.柠条林蒸腾状况与土壤水分动态研究[J].水 土保持通报,1990,19（6）：85－90.［WangMengben，Li Hongjian.Studyonthe dynamicsof transpiration and soil moisture in Caragana[J].Bulltin of Soil and Water Conservation,1990,19 (6) :85-90.] [26]马全林,鱼泳,陈芳,等.干旱区沙漠化逆转过程土壤水分的空 间异质性特征[J].干旱区地理,2010,33（5）：716-724.［Ma Quanlin,Yu Yong,Chen Fang,et al. Spatial heterogeneity of soil water content in the reversion process of desertification in arid area [J].Arid Land Geography,2010,33（5） :716 -724.] [27］李新荣,马凤云,龙立群,等.沙坡头地区固沙植被土壤水分动 态研究[J].中国沙漠,2001,21(3）:217-222.[Li Xinrong,Ma Fengyun,Long Liqun,et al.Soil water dynamicsunder sand-fixing vegetation in Shapotou area[J].Journal of Desret Research,2001,   
+21(3) :217 - 222. ] [28]Li X R,MaFY,Xiao HL,etal. Long-term effects of revegetation on soil water content of sand dunes in arid region of Northern China [J].Journal of Arid Environments,2004,57(1）:1-16. [29］王艳莉,刘立超,高艳红,等.人工固沙植被区土壤水分动态及 空间分布[J].中国沙漠,2015,35(4):942-950.[Wang Yanli,Liu Lichao,Gao Yanhong,et al.Dynamic and spatial disturubution of soil moisture in an artificially re-vegetated desert area[J]. Journal of Desert Research,2015,35(4）:942-950.] [30］张泉,刘咏梅,杨勤科,等.祁连山退化高寒草甸土壤水分空间 变异特征分析[J].冰川冻土,2014,36（1):88-94.[Zhang Quan,Liu Yongmei,Yang Qinke,et al.Analysis of the spatial variability of soil moisture in degrading alpine meadow in the Qilian Mountains[J]. Journal of Glaciologyand Geocryology,2014,36 (1) :88 -94.] [31］潘颜霞,王新平,苏延桂,等.荒漠人工固沙植被区土壤水分的 时空变异性[J].生态学报,2009,29（2）:993-1000.[Pan Yanxia,Wang Xinping,Su Yangui,etal.Temporal and spatial variability of surface soil moisture in a re-vegetetion desert area in Shapotou[J].Acta Ecology Sinica,2009,29(2）:993-1 000.] [32]潘颜霞,王新平,苏延桂,等.不同植被类型沙地表层土壤水分 变化特征[J].水土保持学报,2007,21（5）：106－109.[Pan Yanxia,Wang Xinping,Su Yangui,etal.Variability characteristic of surface soil moistuer content in sand areas covered by different vegetation types[J]. Journal of Soil and Water Conservation,2007,   
+21(5):106 -109.] [33］赵文智.科尔沁沙地人工植被对土壤水分异质性的影响[J]. 土壤学报,2002,39（1）:113-119.[Zhao Wenzhi.Impact of plantation onspatial heterogeneityof soil moisture in Horqin sandy land[J].Acta Pedologica Sinica,2002,39(1） :113-119.]
+
+# Spatiotemporal Variation of Moisture Content of Different Soil Types in Desert Steppe
+
+SU Ying1,2.3, CHEN Lin1,2.3, LI Yue-fei1,2,3， ，YANG Xin-guo01,2.3, ZHANG Yi-fan1,2.3, YANG Dong-dong $^ { 1 , 2 , 3 }$ ， ZHU Lin12.3 (1.Key Laboratory for Restoration and Reconstruction of Degraded Ecosystem in Northwestern China of Ministry of Education，Yinchuan 75oo21，Ningxia,China;   
+2.Breeding Base for State Key Laboratory of Land Degradation and Ecological Restoration ofNorthwestern China，Yinchuan 750021，Ningxia,China;   
+3. Union Research Center for Ecology and Exploitation of Biological Resources in Western China, NingxiaUniversity，Yinchuan,75OO21,Ningxia,China)
+
+Abstract:Three soil types including sandy soil，residual soil of weathered bedrock and sierozem were used to equip adevice of controllng rainfall，record soil moisture contentbyan istalled American HOBOU3O,and monitorthe long-term dynamic change of soil moisture content.The purposes of this study were to research the spatial andtemporal dynamic changes of moisture content of diferent soil types in desert steppe and its response to precipitation variation.The results showed thatthe temporal variation of volumetric moisture content of sand soil,residual soil of weathered bedrock and sierozem were affcted by rainfall，and three peak values occurred.Rainfall change affcted the peak values to appear sooner or later.There were two major types of vertical change of soil volumetric moisture content，i.e.the fluctuation type and reduction type.They were mainly afected by surface vegetation and soil physical properties.Thevariationcoeffcientsunder the normal situationand therain-reduced treatment of sandy soil and residualsoil of weathered bedrock were decreased from the surface to the deeperlayer.The variation coefficients of volumetric moisture content of sierozem were $1 . 2 1 \%$ ， $1 . 3 6 \%$ and $1 . 4 6 \%$ under the normal situation,rain-increased treatment andrain-reduced treatmentrespectively.Under the normal situationand rain-increased treatment，the total soil water storage was inan order of residual soil of weathered bedrock $>$ sandy soil $>$ sierozem；under therain-reduced treatment，however,it was inan order of residual soil of weathered bedrock $>$ sierozem $>$ sandy soil.
+
+Key words:desert steppe；soil moisture content； precipitation variation； soil type；Ningxia

@@ -1,0 +1,571 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201609061815 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜蓝齐，臧淑英，张丽娟，孙丽，阎炳和.松嫩平原农田土壤有机碳变化及固碳潜力估算.生态学报,2017,37（21)：7068-7081. JiangLQ,Zgdboaa agricultural topsoil of the Songnen Plain.Acta Ecologica Sinica,2O17,37(21）:7068-7081. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "松嫩平原农田土壤有机碳变化及固碳潜力估算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "姜蓝齐，臧淑英\\*，张丽娟，孙 丽，阎炳和合尔滨师范大学,黑龙江省普通高等学校地理环境遥感监测重点实验室，哈尔滨150025摘要：基于1979—1985年全国第二次土壤普查和2015 年实地采样数据,利用土壤类型法计算了近35年来松嫩平原及其各县农田表层土壤有机碳密度和土壤碳库储量;并分析了松嫩平原农田土壤有机碳密度的空间分布及变化特征;利用饱和值法对松嫩平原及其各县市农田土壤有机碳量的变化趋势进行拟合,估算其农田土壤的固碳潜力。结果表明： $( 1 ) 2 0 1 5$ 年松嫩平原农田表层土壤有机碳密度平均值为 $1 . 6 1 ~ \\mathrm { k g / m } ^ { 2 }$ ,近35 年来约有 $8 1 . 5 9 \\%$ 的农田土壤有机碳密度呈下降趋势,集中分布在松嫩平原北部、东部和东南部地区,以富裕县东部、依安县中部、肇东县西部、扶余县西部等地区土壤有机碳密度下降幅度最大;(2）2015 年松嫩平原农田表层土壤有机碳库总储量为 $2 3 3 . 6 3 ~ \\mathrm { T g }$ ,比全国第二次土壤普查减少了32.62 Tg;(3)2015 年松嫩平原农田表层土壤总固碳潜力为 $- 3 2 . 7 \\mathrm { T g C }$ ,呈现出“碳源\"趋势,农田土壤单位面积固碳潜力平均值为 $- 1 . 7 9 3 \\times 1 0 ^ { - 3 } ~ \\mathrm { T g / k m } ^ { 2 }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农田土壤有机碳;固碳潜力;松嫩平原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Temporal and spatial variations of organic carbon and evaluation of carbon sequestration potential in the agricultural topsoil of the Songnen Plain ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Lanqi，ZANG Shuying\\*，ZHANG Lijuan，Sun Li,YAN Binghe KeyLaboratoryofRemote SnsingMonitoringofGeographicEnvironment,HarbinNormalUniversity，Harbin50o25，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Soil organiccarbon（SOC）densityand storagein theagriculturaltopsoil of the Songnen Plain were evaluated by thesoil-type methodbyusingdata from the Second National Soil Surveyconducted in1979—1985andfieldobservations in 2015.The spatial distribution of SOCdensity was analyzed by ArcGIS,anda fiting analysis of thechanges in SOC storage trendinthe districtsandcountiesof the Songnen Plainoverthe past 35 years wasconducted using thesaturation value method，afterwhich thecarbon sequestrationpotentialoftheagricultural soil was estimated.The mainresultsareas folows: (1） the average value of the agricultural topsoil organic carbon density was $1 . 6 1 ~ \\mathrm { k g / m } ^ { 2 }$ in 2015.About $8 1 . 5 9 \\%$ of the SOC density of theagricultural topsoilarea of the Songnen Plain showed a decreasing tendency over the last 35years，and the SOC was mainlydistributed in the north，east，and southeast of the Songnen Plain；the most significant decreases were in easternFuyu County，central Yi'an County，western Zhaodong County，and westernFuyu County；（2）the total storageof organic carbon in the agricultural topsoil was $2 3 3 . 6 3 ~ \\mathrm { T g }$ in 2015，which decreased by about 32.62 Tg compared with that of the secondnational Soil survey；and（3）theorganiccarbonsequestration potential of agricultural topsoil inthe Songnen Plain was about $- 3 2 . 7 ~ \\mathrm { T g C }$ ， indicating a carbon resource area，and its average value per unit area was $- 1 . 7 9 3 \\times 1 0 ^ { - 3 } \\ \\mathrm { T g }$ （204号 $\\mathrm { C / k m } ^ { 2 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:organic carbon of agricultural topsoil；carbon sequestration potential； Songnen Plain ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤是陆地生态系统中最大且周转时间最慢的碳库,而土壤有机碳库是陆地碳库的主要组成部分，据估算,全球约有1500GtC以有机质形态存在于地球表层土壤中,土壤有机碳库约为大气碳库的两倍,在全球碳循环中起着重要作用[1-3]。土壤碳库储量的增加(减少)可以减缓(加速)由于人类活动导致的大气中 $\\mathrm { C O } _ { 2 }$ 浓度的升高[4],其微小变化都会显著影响碳汇和碳源的大小和分布[5-7],因此,利用土壤固碳是减缓全球气候变暖的一个重要途径,而农田生态系统作为全球碳库中最为活跃的部分,在人类耕种、施肥、灌溉等活动下,农田土壤碳库的质和量都在迅速发生变化,这种变化不仅改变了土壤肥力及作物产量,更因其具有大气碳源和碳库的双重潜力,给区域及全球陆地生态系统的环境和气候变化带来影响[8-10]。IPCC 第四次评估报告指出,全球农业减排的自然总潜力每年高达 $7 3 0 0 ( - 1 1 0 0 { - } 1 6 9 0 0 ) \\mathrm { G t C O } _ { 2 } { \\mathrm { - e q } }$ ,其中 $9 3 \\%$ 来自土壤中 $\\mathrm { C O } _ { 2 }$ 释放的减少,可见农业发展对于气候变化的贡献主要来自于土壤有机碳的固定对温室气体减排的能力[9,10];此外,《京都协议书》中还提出,可以通过增加生态系统碳库来补偿经济发展中的碳排放,而在全球陆地生态系统中,农业土壤碳库是唯一在短时间范围内可受人类活动干扰和调节的碳库,因此农业发展提供了一个减少人类向大气排放碳的潜在机制[],对于温室气体的减排起着重要作用[12]。综上,农田土壤有机碳平衡、变化规律和调控措施的研究成为继森林、湿地、极地生态系统与土壤碳汇效应研究后,应对全球气候变化研究的热点领域[13-17]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国作为全球重要农业大国之一，其农田土壤对全球大气 $\\mathrm { C O } _ { 2 }$ 浓度的影响正引起人们的广泛关注[8]，而土壤碳库估算的结果仍存在较大差异[18-20],丰富和规范区域尺度的土壤碳库储量无疑是提高全国碳库估算结果精度的有效途径之一[15]。松嫩平原位于世界三大黑土区之一的中国东北地区,农业土壤资源特色鲜明,具有有机质含量高、土壤肥沃的特点,是我国重要的农业产区,同时也是近百年来我国受人类活动干扰最为显著,农田面积扩张最大,农业发展最为迅速的地区之一,因此具有十分显著的研究意义。松嫩平原农田土壤有机碳储量平衡及变化的研究,对揭示区域尺度农田土壤碳源汇的特征、理解人类活动干预下减缓温室效应、提高土壤质量和粮食安全方面提供参考依据[21]。 ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "已有研究指出,中国东北地区农田土壤碳储量呈下降趋势[21-26],以黑龙江省和辽宁省下降明显[27,28],吉林省变化不大[29];李忠佩[24]指出松嫩平原黑土有机碳库处于亏缺状态,土壤有机碳含量将继续下降,而杨学明等[29]通过对松嫩平原东南部地区(长春、榆树、德惠、九台、双阳和公主岭)的研究发现大多数黑土有机碳含量在现有生产水平已经达到相当稳定的平衡,或开始回升;张春华等[30]和任春颖等[31]基于吉林省第二次全国土壤普查数据和 2003—2006年实测数据分别分析了松嫩平原南部地区农田表层土壤有机碳储量和固碳潜力,结果表明1980—2005年间该区域农田土壤有机碳密度和储量呈增加趋势,固碳潜力为 $8 . 1 7 ~ \\mathrm { T g C }$ ,呈现出\"碳汇\"趋势;而刘国栋等[32]估算了松嫩平原中西部地区1980—2005 年耕层土壤固碳潜力,结果表明研究区内固碳潜力为-0.917TgC,为\"碳源”区。综上可以看出,中国东北地区农田土壤有机碳库量整体处于亏缺状态,但在区域水平上农田土壤有机碳库的循环和平衡状况有明显差异。已有的松嫩平原分区评估结果[30-32]仅以4—5个区县为研究区域进行评估,各研究区域(松嫩平原南部和西部)采用的数据来源又有差异,如刘国栋等[32]采用多目标区域地球化学调查成果作为近期研究数据,而张春华等[30]以2003—2006 年实测数据为近期数据进行研究,导致结果的可比性较低。并且，目前的研究结果多在十年前,近期成果未见更新,因此在广泛性和时效性上仍有待提高。基于此本研究利用2015年定点采样数据和全国第二次土壤普查数据,估算近35年来松嫩平原及其各县市农田表层土壤有机碳密度、有机碳储量及变化,通过分析有机碳变化量与其初始值的相关性估算松嫩平原及各县市农田土壤的固碳潜力,试图提高和统一松嫩平原分区土壤有机碳库储量数据结果和精度,为补充和完善中国土壤有机碳库储量提供基础研究数据,并期望为研究人类活动干预下的土壤碳循环对气候变化的影响研究提供典型案例。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "松嫩平原由松花江和嫩江冲积而成,位于黑龙江省西南部和吉林省西北部,与三江平原、辽河平原并称为东北三大平原。松嫩平原处于中纬度地区 $( 4 2 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { ~ N ~ - ~ } 5 1 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { ~ N } , 1 2 1 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { ~ E ~ - ~ } 1 2 8 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { ~ E ~ } )$ ,主要气候类型为温带大陆性半湿润、半干旱季风气候,受冬夏季风的交替影响,四季气候分明,雨热同期,冬季寒冷干燥,夏季温暖多雨。全年平均气温呈自北向南逐渐增高趋势,等值线近纬向分布。松嫩平原地势平缓,土质肥沃,土壤类型包括草甸土、黑钙土、黑土、暗棕壤、沼泽土、盐土、碱土、风砂土、栗钙土及水稻土等。自然环境气候条件适宜农业生产,主要为种植业和养殖业。农作物以玉米、大豆为主,少量种植水稻、高粱等,为一年一季作物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤样品采集及指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究采用的2015年土壤性质实测数据来自野外数据采集，研究中布点及采样方法遵循全国耕地地理调查与质量技术规程,为尽量避免施肥对样品的影响,统一在犁地前取样。采集过程为：以松嫩平原耕地区55个行政县市为布点范围(图1),每个县市设6—8个样地,共计355 个样地,在每个选定样地 $\\int \\mathrm { ~ m ~ } \\times \\mathrm { ~ 1 ~ m ~ }$ 交叉点周围清除土壤表层枯落物和腐殖质挖取1个表层土壤剖面,用GPS 记录下中心点经纬度坐标,并用土壤环刀( $\\mathrm { 1 0 ~ c m } ^ { \\cdot }$ )取样,用于土壤容重的测定;每个样地按照距离行道树 $1 0 \\mathrm { ~ m ~ }$ 的原则,设定 $2 \\mathrm { ~ m ~ } \\times 2 \\mathrm { ~ m ~ }$ 的样方,确定3个采样点,取表层(0一 $1 0 ~ \\mathrm { c m } { \\dot { } }$ )土样，约取 $5 0 0 ~ \\mathrm { g }$ 土样装入样品袋,采回的土样混均后经自然风干、研磨、过筛后供分析测定。土壤容重采用环刀法[33],土壤有机碳采用重铬酸钾氧化一外加热法[34]。本研究均采用0—10cm表层土样数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤普查数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "松嫩平原第二次全国土壤普查数据资料由中国科学院南京土壤研究所提供，该数据利用中国1:100万土壤空间(94000 个图斑)和属性(7292个土壤剖面）一体化数据库[35],分别生成不同层次的土壤属性空间分布数据,包括土壤层次为0—10、10—20、20—30、30—70、$7 0 ~ \\mathrm { c m }$ 到自然采样剖面深度的土壤粒径、土壤容重、土壤有机质(SOM)含量等空间数据。全国第二次土壤普查时间为1979—1985年，本研究中统一界定为1980年。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 土壤类型图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤类型数据来源于联合国粮农组织(FAO)和维也纳国际应用系统研究所（IIASA)所构建的世界和谐土壤数 据 库（Harmonized World Soil Database,HWSD)[36],分辨率为 $\\mathrm { 1 6 m }$ 。中国境内数据源为第二次全国土地调查南京土壤所提供的1:100 万土壤数据,采用的土壤分类系统主要为 $\\mathrm { F A O } - 9 0 ^ { [ 3 7 ] }$ 。松嫩平原区域内土壤分布面积为 $2 1 1 5 9 2 . 2 2 \\ \\mathrm { k m } ^ { 2 }$ ,共包括15个土类,",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "49N NA 五大连池讷河48° 甘南 克山 克东 北安龙江齐齐哈尔裕 依安拜泉 绥棱林甸 明水望伦 庆安  \n47° 青冈望奎绥化泰来杜尔伯庆 安庆 兰西 巴彦木46° 镇费 肇东 呼兰时 哈尔滨 宾县洮南 城 大安 肇源 扶余 双城 阿城  \n45° 通榆 乾安前郭 榆树 五常长岭 农安 德惠. 九  \n44° 公主岭长伊通  \n43° 河流采样点 0 100kmLL122° 123° 124° 125° 126° 127° 128°E",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "35 个土壤亚类(图2）。本研究涉及采样点856个,覆盖11种土类,占松嫩平原土壤面积的 $9 9 . 7 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4土地利用类型图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究选取1980年和 2015年两期土地利用数据作为时间起止点,与土壤理化性质获取时间保持一致。土地利用数据信息源为 Landsat-TM/ETM+影像,下载自 USGS GLOBAL VISUALIZATION VIEWER（http://glovis.usgs.gov/）,空间分辨率为 $3 0 \\mathrm { ~ m ~ }$ 。对遥感影像进行预处理、几何校正、图像拼接、裁剪等工作,参照《土地利用现状调查技术规程》[38]和《中国资源环境遥感宏观调查与动态研究》[39],将研究区土地利用类型分为农田、林地、草地、湿地、城市用地和未利用地六大类,建立土地利用数据库,如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3数据处理与方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1土壤有机碳密度计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳密度是指单位面积一定深度的土层中土壤有机碳的质量，是表征土壤质量及陆地生态系统对全球变化贡献大小和衡量土壤中有机碳储量的重要的指标[40,41]。一般认为,有机碳密度是由有机碳含量、砾石(粒径 $> 2 ~ \\mathrm { m m }$ )含量和容重共同决定的，有研究认为中国农业土壤经过长期人为的耕作熟化，耕层中粒径大于 $2 ~ \\mathrm { m m }$ 的砾石含量可能不大[42],而松嫩平原为平原区域,大于 $2 ~ \\mathrm { m m }$ 的砾石含量可以忽略不计[30]。土壤剖面内土层的每平方米面积内土壤有机碳密度计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { d } = ~ 0 . 5 8 \\times H \\times B \\times \\mathrm { S O M } \\times 0 . 1\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $C _ { d }$ 为土壤有机碳密度( $\\mathrm { \\ k g / m } ^ { 2 }$ ）;0.58为Bemmelen换算系数，碳含量由该系数乘以有机质含量求得;SOM为有机碳含量 $( \\mathbf { g } / \\mathrm { k g } ) ; B$ 为土壤容重( $\\mathrm { ^ { \\circ } }$ ）； $H$ 为土层厚度 $\\left( \\mathrm { c m } \\right)$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤有机碳储量估算 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳储量是表征土壤固碳潜力的评价指标，",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7fe7a6ab86b1575eaa71078737eeb138b9c4a61dd0562d112b56e21bdb8a602.jpg",
+        "img_caption": [
+            "图2松嫩平原土壤类型图",
+            "Fig.2/Map of soil types in Songnen Plain "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前国内外有关土壤有机碳储量的研究通常采用生命带类型法、森林类型法、植被类型法、气候参数法、碳模拟法和土壤类型法等[17.31,43]。本文采用土壤类型法估算松嫩平原表层土壤有机碳储量,计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { C } _ { s } = \\sum _ { i } ^ { n } \\bar { S _ { i } } \\times C _ { d i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $C _ { s }$ 为土壤有机碳储量（g）； $S _ { i }$ 为第 $, i$ 种土壤亚类的面积( $\\mathrm { k m } ^ { 2 }$ ）； $n$ 为土壤亚类数; $C _ { d i }$ 为第 $i$ 种土壤亚类的有机碳密度 $( \\mathrm { \\bf g } / \\mathrm { m } ^ { 2 } ) .$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aff96e1e9d619a1ea43aa1c415f4388c15eeb6042a97fdeb9623871a2306ef55.jpg",
+        "img_caption": [
+            "图31980、2015年松嫩平原土地利用空间分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Spatial distribution maps of land use in Songnen Plain in 198o and 2015 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3农田土壤固碳潜力估算 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文采用饱和值法[44]估算松嫩平原农田表层土壤固碳潜力,饱和f田面积扩张和有机碳储量法是将土壤类型中有机碳变化为零时的有机碳含量水平与每个实测值含量之差视为该点土壤有机碳的增加潜力[45]。计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S O C _ { \\mathrm { p } } = \\Delta S O C _ { \\mathrm { s } } - \\Delta S O C _ { \\mathrm { o } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathrm { S O C _ { \\mathrm { p } } }$ 为土壤固碳潜力,SOC 为土壤饱和固碳量， $\\mathrm { \\ S O C _ { \\mathrm { { o } } } }$ 为1980 年土壤有机碳储量。其中，土壤饱和固碳量 $\\mathrm { \\ S O C _ { s } }$ )取决于土壤碳库的饱和水平,土壤碳库的饱和水平指在一定的气候、地形和母质条件下,如果土地利用方式不变,土壤的碳储量将趋于的稳定值[3,6-50]。饱和水平的确定一般采用2种方法,一种是将碳循环模型运行若干年后,将土壤碳含量趋于稳定时的值视为饱和水平;另一种是找到土壤碳变化量为0时的土壤有机质含量,以此作为土壤碳库的饱和水平。本文采用第二种方法确定松嫩平原农田表层土壤有机碳饱和水平[49-51]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4数据统计与空间分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文运用ArcGIS10.2软件对数据进行空间处理与分析,包括农田表层土壤有机碳密度空间叠加、掩膜提取、面积统计、制图等;运用 SPSS 20.0软件对采样点土壤有机碳密度和面积、气象要素等因子进行相关分析、方差分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1农田土壤有机碳密度及分布特征",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1为1980 年和 2015 年松嫩平原各土壤类型有机碳密度,可以看出,1980—2015 年松嫩平原平均土壤有机碳密度整体呈下降趋势,减少了 $0 . 1 9 \\mathrm { ~ k g } / \\mathrm { m } ^ { 2 }$ 。1980 年松嫩平原土壤有机碳密度范围在 $1 . 0 6 { - 2 . 4 4 ~ \\mathrm { k g } } /$ $\\mathbf { m } ^ { 2 }$ ,变异系数为0.27;2015 年在 $1 . 3 4 { - } 1 . 9 5 \\mathrm { ~ k g / m } ^ { 2 } ,$ 变异系数为0.12,表明2015年松嫩平原各土壤类型有机碳密度相对于1980年差异变小,各土壤类型性质趋于稳定。1980 年和2015年松嫩平原不同土壤类型有机碳密度有所差异,总体均以黑土和黑钙土有机碳密度为大,这主要是因为黑土和黑钙土成土环境决定,黑土分布在四季分明的寒温带,由于植被茂盛,冬季寒冷,大量枯枝落叶难以腐化、分解而逐渐形成了厚厚的腐殖质,有机质含量远高于其他土壤类型。 $1 9 8 0 { \\ - } { \\ - } 2 0 1 5$ 年间,除红砂土、碱土和冲积土外,其余各土壤类型有机碳密度均呈下降趋势,这可能由于多年耕种和土壤侵蚀,使得土层逐渐变薄,土壤养分减少、肥力下降,其中盐土有机碳密度下降幅度最大，下降了 $3 1 . 6 3 \\%$ ,其次为淋溶土、黑钙土、人为土和黑土,依次下降了 $2 7 . 0 1 \\% . 2 6 . 3 4 \\% . 2 3$ （204号 $5 3 \\%$ 和 $2 1 . 7 2 \\%$ ;而红砂土、碱土和冲积土有机碳密度分别增加了 $3 9 . 6 4 \\%$ $5 8 . 4 9 \\%$ 和 $1 9 . 6 4 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b02bb365b49e9bd5db4ae06c1c65cec4ffb7ccefee6cdc1cadc45d790ebb4241.jpg",
+        "table_caption": [
+            "表1 1980 年、2015年松嫩平原不同土壤类型有机碳密度/( $\\mathrm { \\ k g / m } ^ { 2 }$ ）",
+            "Table 1 Organic carbon density ( $\\mathbf { \\ k g } / \\mathbf { m } ^ { 2 }$ ）of topsoil in geographical region in Songnen Plain in 1980 and : "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土类 Great soil group</td><td>1980年</td><td>2015年</td><td>土类 Great soil group</td><td>1980年</td><td>2015年</td></tr><tr><td>黑土 Black soil</td><td>2.44</td><td>1.91</td><td>人为土Anthrosols</td><td>2.04</td><td>1.56</td></tr><tr><td>黑钙土 Chernozem</td><td>2.24</td><td>1.65</td><td>始成土Cambisols</td><td>1.72</td><td>1.61</td></tr><tr><td>淋溶土Alfisols</td><td>2.11</td><td>1.54</td><td>栗钙土 Kastanozems</td><td>1.75</td><td>1.41</td></tr><tr><td>红砂土Arenosols</td><td>1.11</td><td>1.55</td><td>盐土 Solonchak</td><td>2.15</td><td>1.47</td></tr><tr><td>潜育土Gleisoil</td><td>2.03</td><td>1.95</td><td>冲积土Fluvisols</td><td>1.12</td><td>1.34</td></tr><tr><td>碱土 Solonetz</td><td>1.06</td><td>1.68</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4(a)(b)分别为1980年、2015年松嫩平原农田表层土壤有机碳密度空间分布图,可以看出,松嫩平原农田表层土壤有机碳密度空间上整体呈由东北向西南降低趋势,这与本研究有机碳密度基于土壤类型法计算有关,土壤有机碳密度的分布也具有地带性分布特征。1980 年农田表层土壤有机碳密度分布在1.70—3.68$\\mathbf { k g } / \\mathbf { m } ^ { 2 }$ 范围内比例最大，占松嫩平原农田土壤总面积的 $7 2 . 7 1 \\%$ ,集中分布在松嫩平原中部及偏西部地区;其次为有机碳密度小于 $0 . 7 8 ~ \\mathrm { k g / m } ^ { 2 }$ 范围，占 $1 7 . 0 4 \\%$ ,集中分布在松嫩平原西南部地区。而2015年土壤有机碳密度分布在1.19— $\\cdot 1 . 7 \\mathrm { \\ k g / m } ^ { 2 }$ 范围内比例最大，占 $3 9 . 0 1 \\%$ ,主要分布在松嫩平原北部和东部地区;其次为有机碳密度小于 $0 . 7 8 ~ \\mathrm { k g / m } ^ { 2 }$ 和 $0 . 7 8 { - } 1 . 1 9 \\ \\mathrm { k g / m }$ 范围,分别占 $1 9 . 3 6 \\%$ 和 $1 9 . 4 2 \\%$ ,集中分布在松嫩平原中南部、西部地区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4(c)为1980—2015年松嫩平原农田表层土壤有机碳密度绝对变化量,可以看出,近35年来松嫩平原农田表层土壤有机碳密度减少区域集中分布在松嫩平原北部、东部和东南部地区,约占2015年松嫩平原农田土壤的 $8 1 . 5 9 \\%$ ,这些地区主要土壤类型以黑土和黑钙土为主,受到多年耕种的影响,腐殖质层变薄,土壤肥力下降程度较其他类型大,其中以富裕县东部、依安县中部、肇东县西部、扶余县西部等地区土壤有机碳密度下降幅度最大;松嫩平原西南部和西北部小部分地区有机碳密度增加,约占 2015 年松嫩平原农田土壤的$1 8 . 4 1 \\%$ ,以甘南县东北部地区、讷河县中部地区有机碳密度增加幅度最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2农田土壤有机碳储量及变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1980—2015 年松嫩平原农田表层土壤有机碳储量减少 $3 5 . 6 2 ~ \\mathrm { T g }$ ，下降了 $1 2 . 2 5 \\%$ (表2)。松嫩平原农田样点覆盖的11种土壤土类中,黑土、黑钙土、淋溶土、人为土和盐土农田表层有机碳储量减少,其中盐土有机碳储量降低幅度最大，约为 $2 5 . 3 3 \\%$ ,淋溶土降低幅度最小，为 $7 . 0 3 \\%$ ;其余六种土地利用类型有机碳储量增加,与表层土壤有机碳密度变化趋势基本一致（除潜育土、始成土和栗钙土）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7668d215f96a23f3d85f2e8aa8b637cdf196daa8a89f5dbcbf5d8231548d8aa6.jpg",
+        "table_caption": [
+            "表21980—2015年松嫩平原农田表层不同土壤类型面积百分比及有机碳储量",
+            "Table 2The percent area and organic carbon storage of soil types of agricultural topsoil in Songi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">型</td><td colspan=\"2\">1980年</td><td></td><td colspan=\"2\">2015年</td></tr><tr><td>面积比例/%</td><td colspan=\"2\">rg机碳储量/Tgge</td><td>面积比例/%</td><td colspan=\"2\">有机碳储量/</td></tr><tr><td>黑土 Black soil</td><td>59.08</td><td colspan=\"2\">168.35</td><td>58.59</td><td>145.67</td></tr><tr><td>黑钙土Chernozem</td><td>25.96</td><td colspan=\"2\">67.91</td><td>24.64</td><td>52.92</td></tr><tr><td>淋溶土Alfisols</td><td>4.71</td><td colspan=\"2\">11.60</td><td>5.38</td><td>10.78</td></tr><tr><td>红砂土 Arenosols</td><td>4.23</td><td colspan=\"2\">5.49</td><td>4.48</td><td>9.03</td></tr><tr><td>潜育土Gleisoil</td><td>2.05</td><td colspan=\"2\">4.85</td><td>2.58</td><td>6.54</td></tr><tr><td>碱土 Solonetz</td><td>0.71</td><td colspan=\"2\">0.88</td><td>0.86</td><td>1.88</td></tr><tr><td>人为土Anthrosols</td><td>1.71 r</td><td colspan=\"2\">4.08</td><td>1.51</td><td>3.06</td></tr><tr><td>始成土Cambisols</td><td>0.46</td><td colspan=\"2\">0.92</td><td>0.49</td><td>1.03</td></tr><tr><td>栗钙土 Kastanozems</td><td>0.66</td><td colspan=\"2\">1.34</td><td>1.01</td><td>1.85</td></tr><tr><td>盐土 Solonchak</td><td>0.23</td><td colspan=\"2\">0.57</td><td>0.22</td><td>0.42</td></tr><tr><td>冲积土Fluvisols</td><td>0.20</td><td colspan=\"2\">0.27</td><td>0.25</td><td>0.43</td></tr><tr><td>总计 Total</td><td></td><td colspan=\"2\">266.25</td><td></td><td>233.63</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3为松嫩平原各县市农田表层土壤有机碳储量,可以看出,1980—2015 年除北安、杜尔伯特、前郭尔罗斯、泰来、通榆、五大连池和镇赉7个县市外,其余各县市有机碳储量均呈下降趋势。松嫩平原有机碳储量增加的各县市中,以通榆县有机碳储量增加最大,增加了 $2 . 0 7 \\ \\mathrm { T g C }$ ;其次为五大连池,增加了 $1 . 2 1 ~ \\mathrm { T g C }$ ;杜尔伯特、北安、前郭尔罗斯、镇赉和泰来依次增加了 $0 . 8 7 \\ 、 0 . 8 2 、 0 . 4 4 、 0 . 3 8 、 0 . 3 5 \\ \\mathrm { T g C }$ 。这些县农田土壤有机碳储量增加可能由1980—2015 年农田面积扩张较大引起,近35 年来松嫩平原约 $7 5 \\%$ 的县市农田面积增加,其中以通榆县、五大连池、杜尔伯特、北安市、镇赉县和泰来县农田面积增加幅度最大,依次增加了 $5 9 . 2 1 \\%$ 、 $5 5 . 7 4 \\%$ 、$4 6 . 1 5 \\% . 4 4 . 9 1 \\% . 4 1 . 3 8 \\%$ 和 $2 7 . 2 7 \\%$ ;为验证农田面积扩张和有机碳储量的关系，本研究运用SPSS20.0对1980—2015年松嫩平原各县市农田变化面积和农田土壤有机碳储量变化量做相关分析,结果表明这两组变量在0.01水平上显著相关,相关系数为0.895,说明农田面积的变化与农田有机碳储量的变化显著相关,即在一定程度上,农田面积的扩张(减少)会导致农田土壤有机碳储量的增加(减少）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "松嫩平原农田土壤有机碳下降的县市中,以榆树、农安、长春、公主岭、肇东等有机碳储量减少最多,依次",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5ad3bbe78aa3e8110d1dbbccf41cd3a388c6c8691ef943668449d7b24c98372.jpg",
+        "img_caption": [
+            "图41980和2015年松嫩平原农田土壤有机碳密度和绝对变化值"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Spatial distribution maps of agricultural topsoil organic carbon density and absolute change in198O and 2015减少 $1 . 9 3 \\ 、 1 . 7 1 、 1 . 6 8 \\ 、 1 . 5 7 、 1 . 5 4 \\mathrm { T g C }$ ,在有机碳储量下降的44个县市中,有31个县的农田面积呈增加趋势,增加幅度在 $1 . 2 1 \\% {  } 2 5 . 2 1 \\%$ 范围内,说明农田面积的变化虽然与有机碳储量的变化有显著相关性,但要使农田面积的变化对有机碳储量产生影响,需要达到一定的变化量,而此时影响土壤有机碳储量的因素主要为土壤有机碳密度的变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { 4 . 3 } ^ { \\prime }$ 农田土壤固碳潜力估算 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3.1农田土壤碳库饱和状态 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文以1980年松嫩平原农田土壤有机碳密度作为初始数据,根据1980 年和 2015年两期农田土壤样点有机碳变化量,建立二者的拟合关系曲线（图5)。在此曲线上,土壤碳密度变化量为0时所对应的土壤碳密度即为松嫩平原农田土壤碳库的饱和水平,即农田土壤在当前气候、土地利用方式、管理措施下所能达到的饱和碳密度值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/de29a797f941a6d36cbc254233d796a9e353a0cc0c4a7f5a5daab5bbc677c1c2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">21期 要监乔 等：松嫩十 固碳播力佰算 7075 表31980—2015年松嫩平原分县农田土壤有机碳储量/Tg</td></tr><tr><td colspan=\"6\">Table 3Agricultural topsoil organic carbon storage in Songnen Plain at county level from 1980 to 2015</td></tr><tr><td>县市 County</td><td>1980 年有机碳储量 Organic carbon storage</td><td>2015 年有机碳储量 Organic carbon storage</td><td>县市 County</td><td>1980 年有机碳储量 Organic carbon storage</td><td>2015 年有机碳储量 Organic carbon storage 3.28</td></tr><tr><td>阿城</td><td>3.59</td><td>2.50</td><td>青冈</td><td>4.64</td><td rowspan=\"16\">3.87 4.60 4.27 3.18 4.58 6.62 6.10 3.49 5.42 2.81 5.64 7.37 4.02 6.03 5.07 3.23 2.78</td></tr><tr><td>安达</td><td>3.68</td><td>2.62</td><td>庆安</td><td>4.31</td></tr><tr><td>巴彦</td><td>5.82</td><td>4.42</td><td>双城</td><td>5.97</td></tr><tr><td>白城</td><td>1.36</td><td>1.28</td><td>绥化</td><td>5.15</td></tr><tr><td>拜泉</td><td>7.13</td><td>6.13</td><td>绥棱</td><td>3.74</td></tr><tr><td>北安</td><td>5.73</td><td>6.54</td><td>泰来</td><td>4.22</td></tr><tr><td>宾县</td><td>5.02</td><td>3.94</td><td>洮南</td><td>6.69</td></tr><tr><td>大安</td><td>3.24</td><td>2.87</td><td>通榆</td><td>4.03</td></tr><tr><td>大庆</td><td>4.04</td><td>2.53</td><td>望奎</td><td>4.21</td></tr><tr><td>德惠</td><td>6.93</td><td>5.49</td><td>五常</td><td>6.12</td></tr><tr><td>乾安</td><td>3.94</td><td>3.65</td><td>伊通</td><td>3.48</td></tr><tr><td>扶余</td><td>8.54</td><td>7.72</td><td>依安</td><td>6.79</td></tr><tr><td>富裕</td><td>4.24</td><td>4.05</td><td>榆树</td><td>9.30</td></tr><tr><td>甘南</td><td>7.33</td><td>7.07</td><td>长春</td><td>5.69</td></tr><tr><td>海伦</td><td>8.15</td><td>6.75</td><td>长岭</td><td>6.30</td></tr><tr><td>呼兰</td><td>4.63</td><td>3.67</td><td>肇东</td><td>6.61</td></tr><tr><td>九台</td><td>5.44</td><td>4.04</td><td>肇源</td><td>3.55</td></tr><tr><td>克东</td><td>3.46</td><td>3.28</td><td>肇州</td><td>3.61</td></tr><tr><td>克山</td><td>5.89</td><td>5.12</td><td>镇费</td><td>3.64 4.02</td></tr><tr><td>兰西</td><td>4.68</td><td>3.46</td><td>公主岭</td><td>7.33 6.26</td></tr><tr><td>林甸</td><td>3.46</td><td>3.07</td><td>哈尔滨</td><td>7.83 1.54</td></tr><tr><td>龙江</td><td>8.08</td><td>7.48</td><td>齐齐哈尔</td><td>3.49 3.45</td></tr><tr><td>明水</td><td>3.65</td><td>2.80</td><td>五大连池</td><td>5.49 6.70 2.93</td></tr><tr><td>木兰</td><td>2.35</td><td>2.25</td><td>杜尔伯特</td><td>2.07</td></tr><tr><td>讷河</td><td>10.76 9.28</td><td>9.37 7.58</td><td>前郭尔罗斯</td><td>6.19</td></tr><tr><td colspan=\"5\">农安 10</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图5松嫩平原农田土壤有机碳密度变化量与有机碳密度的关系",
+            "Fig.5Relationship between the changes in soil organic carbon density and its value in 1980 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图5坐标系中,每一个样本点的横坐标可以反映松嫩平原相应样点35年前土壤有机碳密度值的水平,而每一个样本点纵坐标可以反映其30年后土壤有机碳密度变化的大小,直观反映了松嫩平原各样本点1980 年土壤有机碳密度值与1980—2015年土壤有机碳密度变化值之间的关系。由图中的线性分析结果可知,当土壤有机碳密度变化为0时，对应的饱和状态值为 $1 . 5 2 ~ \\mathrm { k g / m } ^ { 2 }$ ,如果某样点土壤有机碳密度初始值低于该值，则表明在当前农业管理措施下土壤有机碳含量具有增加的潜力;反之,则有减少的趋势,在这种情况下,就应该采取措施进行调控以减少土壤有机碳的排放。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图5可知,松嫩平原农田土壤经过35年的耕种后,在土壤有机碳密度较低的情况下,土壤碳含量增加幅度较大;随着土壤有机碳密度的增加,土壤有机碳含量增加幅度逐渐变小,当土壤有机碳密度达到饱和值$1 . 5 2 ~ \\mathrm { k g / m } ^ { 2 }$ 后，随着土壤有机碳密度的增加，土壤有机碳损失量越大。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4为松嫩平原分县农田土壤碳库饱和水平值,可在各县市农业发展中为土地利用方式、耕作措施的调整提供依据。由表4可以看出,在松嫩平原各县市中农田土壤有机碳密度初始值与其变化量的线性关系中，极显著相关的包括九台、扶余、肇源等14个县市;呈显著相关的包括肇东、依安、巴彦、公主岭等8个县市;其他县市相关性较小。在显著相关的县市中,以绥棱、克东县土壤有机碳密度达到饱和状态值较高;而富裕、通榆、长岭等县土壤有机碳密度达到饱和状态值较低。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3c0c2f587c60dc580b28370e8efa51b980b90eac2bcf77db674202be5eed1bb8.jpg",
+        "table_caption": [
+            "表4松嫩平原分县农田土壤有机碳密度饱和水平值／ $\\langle { \\bf k g } / { \\bf m } ^ { 2 }$ ）",
+            "Table 4Agricultural topsoil carbon pool saturation levels in Songnen Plain at county level "
+        ],
+        "table_footnote": [
+            "$\\ast$ 表示在0.05水平上显著相关， $\\ast \\ast { }$ 表示在0.01水平上显著相关"
+        ],
+        "table_body": "<html><body><table><tr><td>县市 County</td><td>拟合方程 Fitting equation</td><td>R²</td><td>有机碳 密度/1980 Organic carbon density/1980</td><td>饱和水平 Saturation level</td><td>县市 County</td><td>拟合方程 Fitting equation</td><td>R²</td><td>有机碳 密度/1980 Organic carbon</td><td>饱和水平 Saturation level</td></tr><tr><td>安达</td><td>y=-2.01x+4.81</td><td>0.29</td><td>3.02</td><td>2.07</td><td>乾安</td><td>y= - 1.18x+2.73</td><td>0.56</td><td>1.53</td><td>2.31</td></tr><tr><td>巴彦</td><td>y=-1.23x+1.96</td><td>0.79 *</td><td>2.7</td><td>1.60</td><td>庆安</td><td>y=-1.77x+4.9</td><td>0.24</td><td>3.24</td><td>2.77</td></tr><tr><td>拜泉</td><td>y=-0.49x+0.84</td><td>0.04</td><td>2.38</td><td>1.74</td><td>青冈</td><td>y= -0.45x+0.56</td><td>0.01</td><td>2.83</td><td>1.26</td></tr><tr><td>北安</td><td>y=-0.99x+3.41</td><td>0.60</td><td>2.64</td><td>3.44</td><td>双城</td><td>y=- 1.06x+1.52</td><td>0.58</td><td>2.43</td><td>1.44</td></tr><tr><td>宾县</td><td>y=-3.77x+9.7</td><td>0.44</td><td>2.95</td><td>2.57</td><td>绥化</td><td>y=- 1.11x+1.95</td><td>0.14</td><td>2.67</td><td>1.76</td></tr><tr><td>大安</td><td>y=-0.23x+0.92</td><td>0.01</td><td>2.09</td><td>4.02</td><td>绥棱</td><td>y=-2.3x+6.18</td><td>0.71 *</td><td>2.52</td><td>2.69</td></tr><tr><td>大庆</td><td>y=- 1.03x+1.28</td><td>0.88 **</td><td>1.87</td><td>1.24</td><td>泰来</td><td>y=- 1.41x+2.63</td><td>0.71*</td><td>2.19</td><td>1.86</td></tr><tr><td>德惠</td><td>y=-1.67x+2.49</td><td>0.85 **</td><td>1.21</td><td>1.49</td><td>洮南</td><td>y=-0.25x+0.1</td><td>0.12</td><td>1.32</td><td>0.40</td></tr><tr><td>杜尔伯特</td><td>y=- 2.27x+4.26</td><td>0.43</td><td>1.54</td><td>1.88</td><td>通榆</td><td>y=-1.14x+0.5</td><td>0.90 **</td><td>1.03</td><td>0.44</td></tr><tr><td>扶余</td><td>y=-0.94x+0.4</td><td>0.97 **</td><td>1.57</td><td>0.42</td><td>望奎</td><td>y=-0.13x-0.08</td><td>0.01</td><td>2.61</td><td>-0.57</td></tr><tr><td>富裕</td><td>y=-1.45x+2.58</td><td>0.88**</td><td>2.33</td><td>1.79</td><td>五常</td><td>y=-0.65x+0.7</td><td>0.31</td><td>2.53</td><td>1.08</td></tr><tr><td>甘南</td><td>y= -0.99x+1.47</td><td>0.89</td><td>2.44</td><td>1.48</td><td>五大连池</td><td>y=-0.89x+2.2</td><td>0.85 **</td><td>3.52</td><td>2.47</td></tr><tr><td>公主岭</td><td>y= -0.62x+0.67</td><td>0.79*</td><td>1.28</td><td>1.08</td><td>伊通</td><td>y=-0.99x+1.29</td><td>0.83 **</td><td>1.45</td><td>1.30</td></tr><tr><td>呼兰</td><td>y=0.3x-2.57</td><td>0.001</td><td>2.91</td><td>8.53</td><td>依安</td><td>y=-0.75x+1.03</td><td>0.73 *</td><td>2.38</td><td>1.37</td></tr><tr><td>九台</td><td>y= - 1.19x+1.68</td><td>0.98**</td><td>1.68</td><td>1.41</td><td>榆树</td><td>y=- 1.16x+2.24</td><td>0.58</td><td>2.66</td><td>1.93</td></tr><tr><td>克东</td><td>y = - 1.25x+3.3</td><td>0.69 *</td><td>2.08</td><td>2.64</td><td>长春</td><td>y=-0.61x+0.47</td><td>0.32</td><td>1.45</td><td>0.77</td></tr><tr><td>克山</td><td>y=-0.99x+1.19</td><td>0.54</td><td>2.07</td><td>1.93</td><td>长岭</td><td>y=-0.9x+0.37</td><td>0.92 **</td><td>0.84</td><td>0.41</td></tr><tr><td>兰西</td><td>y = - 1.18x+2.05</td><td>0.71 *</td><td>2.98</td><td>1.73</td><td>肇东</td><td>y =- 1.1x+1.97</td><td>0.78 *</td><td>2.43</td><td>1.80</td></tr><tr><td>龙江</td><td> y= -1.41x+8.53</td><td>0.02</td><td>2.47</td><td>6.05</td><td>肇源</td><td>y=-0.95x+0.82</td><td>0.96 **</td><td>2.93</td><td>0.87</td></tr><tr><td>明水</td><td>y= -0.52x+0.06</td><td>0.10</td><td>2.89</td><td>0.12</td><td>肇州</td><td>y=- 1.03x+1.43</td><td>0.93 **</td><td>2.47</td><td>1.39</td></tr><tr><td>木兰</td><td>y= -16.56x+48.9</td><td>0.40</td><td>3.00</td><td>2.95</td><td>镇费</td><td>y=-0.68x+0.85</td><td>0.18</td><td>1.55</td><td>1.25</td></tr><tr><td>讷河</td><td>y=- 1.01x+2.56</td><td>0.57</td><td>3.1</td><td>2.53</td><td>阿城</td><td>y=-1.38x+2.74</td><td>0.89 **</td><td>2.66</td><td>1.98</td></tr><tr><td>齐齐哈尔</td><td>y=-0.87x+0.96</td><td>0.23</td><td>3.38</td><td>1.10</td><td>农安</td><td>y= -0.84x+1.1</td><td>0.40</td><td>1.49</td><td>1.30</td></tr><tr><td>前郭尔罗斯</td><td>y=-1.59x+2.16</td><td>0.87**</td><td>1.27</td><td>1.36</td><td>松嫩</td><td>y=-0.82x+1.24</td><td>0.37</td><td>1.80</td><td>1.52</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3.2农田土壤固碳潜力",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "基于松嫩平原及其各县市农田土壤有机碳密度饱和状态值,由饱和值法(公式3)估算松嫩平原农田土壤在1980—2015年间,如果气候条件、土地利用方式、农业管理措施均保持不变的情况下,固碳潜力为$- 3 2 . 7 \\ \\mathrm { T g C }$ ,该结果表明过去35年内松嫩平原农田土壤要向大气释放 $3 2 . 7 ~ \\mathrm { T g C }$ ，即 $0 . 9 3 \\mathrm { \\ T g C / a }$ ,才能达到相对稳定的平衡状态，由此说明过去35年间松嫩平原表现为碳源状态。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表5为松嫩平原各县市农田土壤固碳潜力估算结果,可以看出,松嫩平原除龙江、呼兰、大安、北安、乾安、德惠、克东、杜尔伯特、前郭尔罗斯和绥棱10个县市固碳潜力为正值外,其余县市农田土壤的固碳潜力为负值,为碳排放源,说明这些地区的耕地在现有耕作措施、气候条件不变的情况下,总体处于碳源状态。其中望奎、扶余、肇源等地区土壤碳排放潜力最大,应对其耕地利用或制度管理进行调整,以提高土壤肥力,增加土壤固碳能力,减少碳排放。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/89703c09c03930936e5c8b7593e52beffdbee2a06b5fa238db169718290e115d.jpg",
+        "table_caption": [
+            "表5松嫩平原分县农田土壤固碳潜力",
+            "Table 5Potential of carbon sequestration of agriculture soil in county level of Songnen Plai "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>县市 County</td><td>单位面积固碳潜力 Perunit area of carbon sequestration potential/</td><td>固碳潜力 Carbon sequestration</td><td>县市 County</td><td>单位面积固碳潜力 Per unit area of carbon sequestration potential/</td><td>固碳潜力 Carbon sequestration</td></tr><tr><td></td><td>(kg/m²)</td><td>potential/Tg</td><td>前郭尔罗斯</td><td>(kg/m²) 0.09</td><td>potential/Tg 0.29</td></tr><tr><td>安达 巴彦</td><td>-0.95 -1.10</td><td>-1.51 -2.67</td><td>齐齐哈尔</td><td>-2.28</td><td>-3.51</td></tr><tr><td>拜泉</td><td>-0.64</td><td>-1.91</td><td>青冈</td><td>-1.57</td><td>-3.15</td></tr><tr><td>北安</td><td>0.80</td><td>1.95</td><td>公主岭</td><td>-0.20</td><td>-0.72</td></tr><tr><td>宾县</td><td>-0.38</td><td>-0.81</td><td>双城</td><td>-0.99</td><td>-2.47</td></tr><tr><td>大安</td><td>1.93</td><td>2.90</td><td>杜尔伯特</td><td>0.34</td><td>0.39</td></tr><tr><td>大庆</td><td>-0.63</td><td>-1.16</td><td>绥棱</td><td>0.17</td><td>0.26</td></tr><tr><td>德惠</td><td>0.28</td><td>0.82</td><td>泰来</td><td>-0.33</td><td>-0.67</td></tr><tr><td>乾安</td><td>0.78</td><td>1.40</td><td>洮南</td><td>-0.92</td><td>-2.87</td></tr><tr><td>扶余</td><td>-1.15</td><td>-4.54</td><td>通榆</td><td>-0.59</td><td>-1.39</td></tr><tr><td>富裕</td><td>-0.54</td><td>-1.02</td><td>望奎</td><td>-3.18</td><td>-5.51</td></tr><tr><td>甘南</td><td>-0.96</td><td>-3.06</td><td>五常</td><td>-1.45</td><td>-3.98</td></tr><tr><td>庆安</td><td>-0.47</td><td>-0.85</td><td>五大连池</td><td>-1.05</td><td>-2.51</td></tr><tr><td>呼兰</td><td>5.62</td><td>11.18</td><td>伊通</td><td>-0.15</td><td>-0.23</td></tr><tr><td>九台</td><td>-0.27</td><td>-0.63</td><td>依安</td><td>-1.01</td><td>-2.95</td></tr><tr><td>克东</td><td>0.56</td><td>0.81</td><td>榆树</td><td>-0.73</td><td>-2.90</td></tr><tr><td>克山</td><td>-0.14</td><td>-0.34</td><td>长春</td><td>-0.68</td><td>-1.66</td></tr><tr><td>兰西</td><td>-1.25</td><td>-2.51</td><td>长岭</td><td>-0.43</td><td>-1.35</td></tr><tr><td>龙江</td><td>3.58</td><td>12.70</td><td>肇东</td><td>-0.63</td><td>-1.82</td></tr><tr><td>明水</td><td>-2.77</td><td>-4.32</td><td>肇源</td><td>-2.06</td><td>-3.20</td></tr><tr><td>木兰</td><td>-0.05</td><td>-0.05</td><td>肇州</td><td>-1.08</td><td>-1.69</td></tr><tr><td>讷河</td><td>-0.57</td><td>-2.59</td><td>镇费</td><td>-0.30</td><td>-0.49</td></tr><tr><td>农安</td><td>-0.19</td><td>-0.80</td><td>阿城</td><td>-0.68</td><td>-1.03</td></tr><tr><td>绥化</td><td>-0.91</td><td>-1.96</td><td>松嫩</td><td></td><td>-32.7</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "目前,以松嫩平原整体为典型研究区进行农田土壤有机碳储量和固碳潜力的研究还未见报道,在已有的研究中,主要以松嫩平原南部玉米带(农安县、公主岭、德惠县和九台县)和中西部(齐齐哈尔市、大庆市、绥化市和哈尔滨市)为研究区域,研究结果为:松嫩平原南部玉米带呈现出\"碳汇\"的趋势,农田土壤总有机碳储量增加了 $7 . 2 ~ \\mathrm { T g C }$ ,固碳潜力为 $8 . 1 7 \\ \\mathrm { T g C } ^ { [ 3 0 . 3 1 ] }$ ;而松嫩平原中西部地区呈现出“碳源”趋势,固碳潜力为-1.229$\\mathrm { T g C } ^ { [ 3 2 ] }$ 。为与上述结论进行对比分析,本文分别估算了松嫩平原南部玉米带和中西部地区的有机碳储量和固碳潜力(表6),可以看出,本研究结果与刘国栋等[32]研究结果相一致,即松嫩平原中西部地区农田表层土壤为\"碳源\"区;而与张春华等[30]和任春颖等[31]的结论有所差异,本研究显示松嫩平原南部地区1980—2015 年有机碳储量呈下降趋势,农田表层土壤固碳潜力为负值，呈现出“碳源”趋势，这可能由于数据来源、选取研究时段不同所导致,结论的准确性有待于更多样本数据和研究的检验,这也进一步说明在区域乃至全球范围内规范和统一估算土壤有机碳储量和固碳潜力的数据标准、来源、方法的重要性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fda5aaad3dc2c37bea80b98f4cb64913efb24010a967b81e7975c845f70b281.jpg",
+        "table_caption": [
+            "表6松嫩平原分区农田土壤有机碳储量和固碳潜力结果对比",
+            "Table6ComparedwiththeresultsofcoplandsoilcarbonstorageandsequestrationpotentialinSongnenPlainatcountyleveletwenthis paper and previous studies "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>研究区域 Study area</td><td>有机碳储量 Soil carbon storage</td><td>有机碳储量本研究 Soil carbon storage in this study</td><td>农田土壤固碳潜力 Soil carbon sequestration potential /TgC</td><td>固碳潜力本研究 Soil carbon sequestration potential in this study/TgC</td></tr><tr><td>松嫩平原南部 South of Songnen Plain</td><td>1.04[30]</td><td>-6.1</td><td>6.69[31]</td><td>-1.32</td></tr><tr><td>松嫩平原中西部 Middle western areas of Songnen Plain</td><td></td><td>-25.12</td><td>-1.229[32]</td><td>-59.08</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.4农田土壤有机碳变化原因浅析 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "松嫩平原农田土壤有机碳储量和固碳潜力的变化主要取决于土壤有机碳密度的变化,而土壤有机碳密度的变化与气候变化与人类活动都密切相关[52]。一方面由于全球气候变暖,温度升高加快了土壤有机碳的分解,而土壤有机碳分解排放更多 $\\mathrm { C O } _ { 2 }$ 又会加剧气候变暖,如此恶性循环;另一方面由于人类活动加速开垦农田,改变自然地表土壤性质碳循环的同时,也使得土壤自然肥力下降、有机质含量减少、腐殖质层变薄,进而导致土壤有机碳密度下降。因此，本文分别从气象要素和人类活动两个方面分析其与松嫩平原农田土壤有机碳密度的关系,试图解释近35年来松嫩平原农田土壤有机碳储量和固碳潜力下降的原因,以期为松嫩平原农业发展、种植结构调整提供参考。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1)气候因素。通过计算1980—2015年松嫩平原有机碳变化量与温度和降水气候倾向率的相关性,得到土壤有机碳密度变化趋势与温度变化趋势呈极弱的负相关，相关系数为-0.098,与降水的变化趋势呈极弱的正相关,相关系数为0.134,均在0.01水平上显著相关;且土壤有机碳密度变化趋势与降水变化趋势的相关性好于温度。1980—2015年松嫩平原温度以 $0 . 9 4 ^ { \\circ } \\mathrm { C } \\times 1 0 \\mathrm { a }$ 的速率增加，而降水以 $5 . 8 7 ~ \\mathrm { m m } / 1 0 \\mathrm { a }$ 的速率减少，通过上述分析,可知土壤有机碳密度会随温度的增加和降水的减少而下降,与实际变化一致,说明1980—2015年松嫩平原农田土壤有机碳密度下降可能受温度和降水的共同影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2)人为因素。人类活动对土壤有机碳密度(储量)变化的影响有很多因素,如向土壤中添加有机肥将直接改变土壤有机碳含量;通过人为灌溉方式将降低土壤对自然降水的依赖;通过调整不同的喜温作物种植类型,将降低作物对温度的依赖等,说明人类活动一定程度上可以并已经改变了气候因子对土壤有机碳密度的影响程度,降低了土壤碳储量对气候变化的敏感性[53]。而相对的,由于土地利用方式的改变对局地土壤有机碳密度(储量)的影响越来越大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为了探讨松嫩平原土地利用方式的改变对局地土壤有机碳密度的影响,本文基于 ArcGIS 10.2软件的空间分析功能,提取并计算了1980—2015年森林、草地、湿地和未利用地转为耕地,和持续为耕地区域的平均有机碳密度。由表 $7$ 可以看出,松嫩平原主要土地利用中平均土壤有机碳密度由大到小依次为林地、未利用地、湿地、耕地 草地,各土地利用类型土壤有机碳密度相差不大;1980—2015 年松嫩平原不同土地利用类型开垦为耕地后平均土壤有机碳密度均呈下降趋势,这可能与松嫩平原受气候因素影响导致全区有机碳密度减少有关;但不同利用类型转为耕地后的土壤有机碳变化程度有所差异,其中以湿地转耕地后平均有机碳密度下降最大,减少了 $3 7 . 0 5 \\%$ ,其次依次为湿地、森林和草地;与1980—2015 年持续为耕地的平均有机碳密度下降幅度（ $2 2 . 9 5 \\%$ )相比,未利用地和草地有机碳密度卜降幅度较低,森林和湿地有机碳密度下降幅度较大。说明在松嫩平原整体农田土壤有机碳密度下降的情况下,单位面积林地、湿地开垦为耕地将向大气净释放部分碳,而单位面积草地和未利用开垦为耕地,将减少碳的净释放。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/00d4e878784087f9e6e55d8ecfb2d4efd6256e6e56671da29b8f5dbffe84382a.jpg",
+        "table_caption": [
+            "表71980一2015年松嫩平原各土地利用类型土壤有机碳密度及变化",
+            "Table7Soil organiccarbon densityand itsvariation in different soil types from1980 to 2015 in Songnen P "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型 Land use and Land cover</td><td>1980 年有机碳密度 Organic carbon density/1980/(kg/m²)</td><td>2015 年有机碳密度 Organic carbon density/2015/(kg/m²)</td><td>1980—2015 年有机碳密 Organic carbon density/1980—2015/%</td></tr><tr><td>森林 Forest</td><td>2.78</td><td>2.06</td><td>-25.73</td></tr><tr><td>草地 Grassland</td><td>2.10</td><td>1.63</td><td>-22.38</td></tr><tr><td>湿地Wetland</td><td>2.41</td><td>1.52</td><td>-37.05</td></tr><tr><td>居民地 Construction land</td><td>2.25</td><td>1.75</td><td>-22.49</td></tr><tr><td>未利用地 Unused land</td><td>2.66</td><td>2.12</td><td>-20.29</td></tr><tr><td>耕地 Cropland</td><td>2.28</td><td>1.76</td><td>-22.95</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5结论和讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1)全国第二次土壤普查至今松嫩平原农田表层土壤平均有机碳密度减少了 $0 . 1 9 \\mathrm { ~ k g / m } ^ { 2 }$ ,从1980 年的$1 . 8 ~ \\mathrm { k g / m } ^ { 2 }$ 下降到2015 年的 $1 . 6 1 ~ \\mathrm { k g / m } ^ { 2 }$ ,集中分布在松嫩平原北部、东部和东南部地区。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2)近35 年来松嫩平原农田表层土壤有机碳储量减少了 $3 2 . 6 2 \\mathrm { T g }$ ,由1980 年的 $2 6 6 . 2 5 ~ \\mathrm { T g }$ ,下降到2015年的 $2 3 3 . 6 3 ~ \\mathrm { T g }$ ;主要与覆盖松嫩平原农田的主要土壤类型黑土和黑钙土有机碳密度下降相关。松嫩平原各县市中,除北安、杜尔伯特、前郭尔罗斯、泰来、通榆、五大连池和镇赉7个县市外,其余各县市有机碳储量均呈下降趋势,以通榆有机碳储量增加最大;以榆树、农安有机碳储量减少最多。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（3)1980—2010 年松嫩平原农田表层土壤有机碳的固碳潜力为 $- 3 2 . 7 \\ \\mathrm { T g C }$ ,呈现出“碳源”趋势。松嫩平原各县市中,大部分农田土壤的固碳潜力为负值,应加强碳源区的农业管理和规划,增加秸秆还田和有机肥料的施用,调整种植制度,以合理的养分配比进行农田管理等措施来提高土壤碳汇的潜力。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文估算出目前松嫩平原农田土壤表现为碳源区,农田土壤有机碳储量呈下降趋势,与奚小环等[54]对第二次土壤普查之后的20 年间东北平原表层土壤有机碳储量呈减少趋势这一结论相一致。本文利用饱和值法估算的农田土壤固碳潜力下降 $3 2 . 7 ~ \\mathrm { T g C }$ ,与李忠佩等[24]的研究结果：松嫩平原黑土土壤有机碳库仍将处于亏缺状态,土壤有机碳含量还会下降,并向大气释放 $\\mathrm { C O } _ { 2 }$ 结论相一致,进一步说明松嫩平原目前农田土壤有机碳固碳能力下降这一事实,同时表明应加强松嫩平原农业管理规划措施的实施,为应对全球气候变暖做贡献。如前文所述,本文与刘国栋等[32]关于松嫩平原中西部分区研究结果趋势一致,而与张春华等[30]、任春颖等[31]的结论有所差异,如果不考虑数据来源造成的误差,说明近10年来松嫩平原南部玉米带土壤有机碳储量和固碳潜力下降速度较中西部地区快。同时,本研究对松嫩平原农田表层土壤有机碳密度、储量和固碳潜力的估算还有很多不确定性,如本文为加强两期数据的可比性,统一选择0一 $1 0 \\ \\mathrm { c m }$ 表层土壤深度的有机质含量和土壤容重等理化参数进行计算,并以2015年采样点坐标为基准提取1980年点对点土壤参量信息,但由于两期数据间隔时间较长，又缺少长期定位的实验资料,因此难免出现误差。除此,本文仅对松嫩平原由气候变化及人类活动因素影响下的农田土壤有机碳密度变化进行了研究,还需进一步定量化气候和人为干扰等因素;对于提高松嫩平原农田土壤固碳潜力的具体措施,如化肥施用量的增加、秸秆还田等的贡献和影响也有分析研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]EswarHVannegEeichOrgacboilsofeeeSocietyfecaJoual,7：194[2]LalR,imbleJIorganicarboadthegbalCleeachndevelopentpriories//alR,KibleJtietswaanH,Scharpenseel H,eds.Global Climate Change and Pedogenic Carbonate.Boca Raton：Lewis Publishers，2Ooo：291-302.[3]BatjesNH.Totalcarbonand nitrogeninthesoilsofthe world.EuropeanJournalofSoilScience,1996,47(2)：151-163.［4］贺金生，王政权，方精云.全球变化下的地下生态学：问题与展望.科学通报，2004,49（13)：1226-1233.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "［5］邵月红，潘剑君，孙波，李海鹰.农田土壤有机碳库大小及周转.生态学杂志，2006,25(1)：19-23.  \n[6］方精云，郭兆迪.寻找失去的陆地碳汇．自然杂志，2007,29(1)：1-6.  \n[7］廖晓勇，陈治谏，刘邵权，王海明.三峡库区小流域土地利用方式对土壤肥力的影响.生态环境，2005，14(1)：99-101.  \n［8］韩冰，王效科，欧阳志云，曹志强，邹德乙，孙宏德，朱平,周宝库.中国东北地区农田生态系统中碳库的分布格局及其变化.土壤通报，2004，35(4)：401-407.  \n[9]IPCC.ClimateChange2o7:ThePhysicalScienceBasis.SummaryforPolicymakers.CoributionofWorkingGroupItotheFourthAssetReportof the Intergovernmental Panel on Climate Change.Cambridge：Cambridge University Press，2007.  \n[10］刘京，常庆瑞，陈涛，刘梦云，齐雁冰.陕西省土壤有机碳密度空间分布及储量估算.土壤通报，2012，43（3)：656-661.  \n［11］于贵瑞.全球变化与陆地生态系统碳循环和碳蓄积.北京：气象出版社，2003.  \n［12］许信旺.不同尺度区域农田土壤有机碳分布与变化.南京：南京农业大学，2008.  \n[13]MCarA,SasompetioeestialgeoeeeidgoueCaticg/）：109- 126.  \n14]Smithdebalieoverestimated.Global Change Biology，2005，11（12）：2153-2163.  \n[15]WatsonRT,NobleR,BolinB,RavindranathNH,VerardoJ,DkenDJ.LandUse,Land-UseChangeandForestryASpeeportofthe Intergovernmental Panel on Climate Change.Cambridge:Cambridge University Press，2Oo0:1-377.  \n[16］方精云，朴世龙，赵淑清. $\\mathrm { C O } _ { 2 }$ 失汇与北半球中高纬度陆地生态系统的碳汇.植物生态学报，2001，25(5)：594-602.  \n[17］王绍强，刘纪远.土壤碳蓄积量变化的影响因素研究现状.地球科学进展，2002,17(4)：528-534.  \n[18] 王绍强，周成虎.中国陆地土壤有机碳库的估算.地理研究，1994，18(4)：349-356.  \n[19］于东升，史学正，孙维侠，王洪杰，刘庆花，赵永存.基于1：100万土壤数据库的中国土壤有机碳密度及储量研究.应用生态学报，2005，16(12):2279-2283.  \n[20］潘根兴.中国土壤有机碳和无机碳库量研究.科技通报，1999，15(5）：330-332.  \n[21] 潘根兴，赵其国.我国农田土壤碳库演变研究：全球变化和国家粮食安全.地球科学进展，2005，20(4）：384-393.  \n[22］程琨，潘根兴，田有国,李恋卿.中国农田表土有机碳含量变化特征一基于国家等地土壤监测数据.农业环境科学学报，2009，28（12)：2476- 2481. 1  \n[23］俞海，黄季焜，Rozele S，Brandt L.中国东部地区耕地土壤肥力变化趋势研究.地理研究，2003，22（3）：380-388.  \n[24］李忠佩，林心雄，车玉萍.中国东部主要农田土壤有机碳库的平衡与趋势分析.土壤学报，2002，39（3）：351-360.  \n[25］黄耀，孙文娟.近20年来中国大陆农田表土有机碳含量的变化趋势.科学通报,2006,51（7)：750-763.  \n[26]TangH，QiuJJ，RanstEV,LiC.EstiatiosofilorganiccarbotorageinoplandofChinabsedonodel.Geodea,134(1/2): 200-206.  \n[27］徐艳，张凤荣，汪景宽，王秋兵，王茹.20年来我国潮土区与黑土区土壤有机质变化的对比研究.土壤通报，2004，35(2)：102-105.  \n[28］陈洪斌，郎家庆，祝旭东，刘坤，张忠源.1979-199 年辽宁省耕地土壤养分肥力的变化分析.沈阳农业大学学报，2003，34（2)：106- 109. 1  \n[29］杨学明，张晓平，方华军，梁爱珍.20年来部分黑土耕层有机质和全氮含量的变化.地理科学，2004，24（6)：710-714.  \n[30］张春华，王宗明，任春颖，宋开山，张柏，刘殿伟．松嫩平原玉米带农田土壤有机碳时空格局.农业工程学报，2010，26(S1)：300-307.  \n[31］任春颖，张春华，王宗明，张柏.松嫩平原玉米带农田表层土壤有机碳储量和固碳潜力研究.自然资源学报，2013，28（4)：598-607.  \n[32] 刘国栋，李瑛，张立，崔玉军，杨柯，刘应汉.松嫩平原耕层土壤固碳潜力估算.中国地质，2014，41（2)：658-664.  \n[33] 刘孝义.土壤物理及土壤改良研究法．上海：上海科学技术出版社，1982：20-51.  \n[34］鲍士旦．土壤农化分析.北京：中国农业出版社，2000.  \n[35]ShiXZ,YuDS,PanXZ,SunWX,GongZT,WaerED,PetersenGW.AFrameworforthe1:1ooSoilDatabasefina//Proceedings of the 17th World Congress of Soil Science.Bangkok，2002，1757: 1-5.  \n[36]/ShiXZ,YuDS，WaerED,PanXZ,PetersenGWGongZG，WeindorfDC.SoilDatabaseof1:1,Ooodgitalsoilsurveyndreference system of the Chinese genetic soil classification system.Soil Survey Horizons，2004，45(4）：129-136.  \n[37]FAO/IA/ISRIC/-AS/JRC.HamonzedWorldSoilDatabase（Version1.1)FAO,Rome,ItalyandIASA,Laxenburg，Austria，009.  \n[38］全国农业区划委员会.土地利用现状调查技术规程.北京：测绘出版社，1984.  \n[39］刘纪远.中国资源环境遥感宏观调查与动态研究.北京：中国科学技术出版社，1996.  \n[40］孙维侠，史学正，于东升，王库，王洪杰.基于1：100万土壤空间数据库的有机碳储量估算研究——以中国东北三省为例.地理科学，2004，24(5): 568-572.  \n[41］杨金艳，王传宽.东北东部森林生态系统土壤碳贮量和碳通量.生态学报，2005，25(11)：2875-2882.  \n[42］许泉，芮雯奕，何航，吴峰，罗鸿，卞新民，张卫建.不同利用方式下中国农田土壤有机碳密度特征及区域差异.中国农业科学，2006，39(12):2050-2510.  \n[43］金峰，杨浩，蔡祖聪，赵其国.土壤有机碳密度及储量的统计研究.土壤学报，2001,38(4)：522-528.  \n[44］覃章才，黄耀.基于模型的农田土壤固碳潜力估算.中国科学：生命科学，2010,40(7)：658-676.  \n[45］师晨迪，许明祥，邱宇洁.几种不同方法估算农田表层土壤固碳潜力：以甘肃庄浪县为例.环境科学，2016,37（3)：1098-1105.  \n[46]WestTOarlandG,ingAWostW,JainAK,draskK.bonmagentesposeues：stimatesofteporallbodynamics.Environmental Management，2003，33(4）：507-518.  \n[47]WestTOiJsidigefsquestaratdbutatesflbapacilaag,2007,80(1/2):25-41.  \n48]WestsbtboseiUnited States.Agriculture,Ecosystems & Environment，2002,91(1/3）： 217-232.  \n[49］韩冰，王效科，欧阳志云.中国农田生态系统土壤碳库的饱和水平及其固碳潜力.农村生态环境，2005，21（4)：6-11  \n[50］周金霖，黄阳，陈佳婧，王龙昌.重庆市农田土壤有机碳时空变化与固碳潜力分析.环境科学学报，2015,35(11）：3647-3654.  \n[51］梁二，蔡典雄，代快，张丁辰，冯宗会，刘爽，王燕，王小彬.中国农田土壤有机碳变化：ⅡI土壤固碳潜力估算.中国土壤与肥料，2010,(6): 87-92.  \n[52] 解宪丽，孙波，周慧珍，李忠佩，李安波.中国土壤有机碳密度和储量的估算与空间分布分析.土壤学报，2004，41（1）：35-43.  \n[53] 周涛，史培军，王绍强，气候变化及人类活动对中国土壤有机碳储量的影响.地理学报，2003，58(5)：727-734.  \n[54］奚小环，杨忠芳，崔玉军，孙淑梅，于成广，李敏.东北平原土壤有机碳分布与变化趋势研究.地学前缘，2010，17（3)：213-221.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

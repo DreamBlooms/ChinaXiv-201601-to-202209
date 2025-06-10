@@ -1,0 +1,509 @@
+[
+    {
+        "type": "text",
+        "text": "基于非归一化直方图的GrabCut图像分割算法改进",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孔显，马晓珂",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(河南大学 计算机与信息工程学院，河南 开封 475000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对GrabCut 算法在图像分割中存在迭代求解耗时长、分割结果欠分割的问题，提出了一种基于非归一化直方图改进的GrabCut算法。在保留GrabCut第一次分割结果的基础上，通过非归一化直方图计算像素点属于前景或背景的方法来代替高斯混合模型迭代学习的过程;在构图过程中引入一类新的节点Bin进行构图以提高分割精度。选取 MSRA100 数据集中部分图片进行实验验证，结果表明该算法在分割效果和效率上都有明显的提升；在进行背景复杂图像的分割时改进算法优势更加明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：GrabCut；非归一化直方图；图像分割；高斯混合模型；能量函数 中图分类号：TP391.41 doi: 10.19734/j.issn.1001-3695.2018.10.0849 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improvement of GrabCut image segmentation algorithm based on non-normalized histogram ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kong Xian, Ma Xiaoke (Schoolof Computer& Information Engineering,Henan University,Kaifeng Henan 475oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: $\\because$ Aiming at the time eficiency issue and segmentation efect problem of GrabCut image segmentation algorithm, this paper proposesan improved GrabCut algorithm which based onnon-normalized histogram.The resultsof thefirst segmentationofGrabcutare preserved,and insubsequent iterations learing processofGaussianmixture model is replaced by the non-normalized histogramcalculationof pixels belonging to foregroundorbackground;Anew typeof node Bin is introduced in thecompositionstep to compose the image to improve the segmentation precision.Experiment results on MSRA100o data set indicate that the algorithm has a significant improvement in both segmentation efect and effciency. The advantage ofthe improved algorithm is more obvious when the complex background image is being segmented. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: GrabCut; non-normalized histogram; image segmentation; Gaussan mixture model; energy function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "图像分割是图像处理中一个重要的阶段，在图像识别、三维重建、目标跟踪等领域中得到了广泛应用。图像中人们感兴趣的区域称为目标或前景，其他区域称为背景，图像分割的实质就是将图像中的目标区域分离并提取出来。目前，图像分割算法可分为三类：监督的图像分割方法[1]、非监督的图像分割方法[2]、交互式图像分割方法[3]。交互式图像分割方法是借助人工交互操作获取到包含目标的区域，分割结果较为准确。其中，GrabCut算法的交互方式便捷4，分割效果较好，成为图像分割领域中研究的热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zahn[5]最早将图论的概念引入图像分割领域，该方法将图像映射为带权值的图，把像素作为节点，节点间的边表示像素间的关系，用权重来表示像素间的相关程度，最后使用最大流/最小割进行图的分割。将图像分割问题转换为图的顶点标注问题[6]。基于图论的 graph cuts 算法[7]是 2001 年Boykov等人提出的，2004年Rother等人提出交互式的GrabCut[8彩色图像分割算法，均属于基于图论原理的交互式图像分割算法中的经典算法。GrabCut算法提出之后，很多研究人员针对GrabCut算法存在的不足作出改进，文献[9,10]采用超像素的方法对图像进行预处理，提高图像的分割精度和时间效率。文献[11采用显著性预处理提高算法的分割性能；文献[12]中使用贝叶斯分类和简单线性迭代聚类对算法进行改进；文献[13]中使用小波变换的GrabCut纹理进行图像分割。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GrabCut算法前景背景交界处分割效果不理想[14]，分割结果在一定程度上存在图像欠分割的现象；且该算法通过迭代学习优化高斯混合模型，迭代学习过程会花费一定的时间，造成图像分割时间效率不高。为解决以上问题，本文引入非归一化直方图计算像素的类别，判断像素属于前景或背景，代替GrabCut中迭代学习优化混合高斯模型的过程；在构图过程中，增加一类节点用来标记像素所属的类别，最后使用最大流/最小割完成图像分割。实验结果表明，本文算法减少了每次迭代花费的时间，同时与GrabCut算法相比在达到收敛时迭代次数更少，提高了GrabCut算法的时间效率和分割精度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 GrabCut算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1主要思想",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GrabGut算法是把图像中的所有像素映射为图论中的S-T网络，将图像分割问题转换为S-T网络流的分割问题。图像简化后的模型结构如图1所示，S点为源点，对应为前景终点；T点为汇点，对应背景终点。由图1可知，边集(对于每个像素点)可分为：与源点S相连的边、与汇点T相连的边和像素点间相连的边。每条边上的权值能反映出像素点属于前景还是背景以及相邻像素点间的颜色差异等信息；最后通过最大流/最小割来实现图像的分割。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ed0561b525ea2fda5f9b82ca0e8fdb74040833439a817df28a9c49a4d88e08c.jpg",
+        "img_caption": [
+            "图1S-T网络模型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2GrabCut中模型的构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在GrabCut算法中，定义了一个Gibbs 能量函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { E } ( \\underline { { \\alpha } } , k , \\underline { { \\theta } } , z ) = U ( \\underline { { \\alpha } } , k , \\underline { { \\theta } } , z ) + V ( \\underline { { \\alpha } } , z ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $U \\big ( \\underline { { \\alpha } } , k , \\underline { { \\theta } } , z \\big )$ 代表区域数据项， $V ( \\underline { { \\alpha } } , z )$ 函数表示能量函数的光滑项。求解能量函数 $\\mathrm { E } ( \\underline { { \\alpha } } , k , \\underline { { \\theta } } , z )$ 的最小值，就使得图像在分割时花费的代价最小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据高斯混合模型 (Gaussianmixture model,GMM)中的分量 $\\mathbf { k }$ ，数据项 $U \\big ( \\underline { { \\alpha } } , k , \\underline { { \\theta } } , z \\big )$ 可以写为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( \\underline { { \\alpha } } , k , \\underline { { \\theta } } , z ) = \\sum _ { n } D ( \\alpha _ { n } , k _ { n } , \\underline { { \\theta } } , z _ { n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( \\alpha _ { n } , k _ { n } , \\underline { { { \\theta } } } , z _ { n } ) = - \\log p ( z _ { n } | \\alpha _ { n } , k _ { n } \\underline { { { \\theta } } } ) - \\log \\pi ( \\alpha _ { n } , k _ { n } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：P()是高斯概率分布， $\\pi ( \\cdot )$ 为高斯混合模型样本数占总体样本的权重系数。由式(3)可得，数据项也可表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle } \\\\ { \\displaystyle } \\\\ { \\displaystyle + \\frac { 1 } { 2 } \\big [ z _ { n } - \\mu ( \\alpha _ { n } , k _ { n } ) \\big ] ^ { T } \\sum ( \\alpha _ { n } , k _ { n } ) ^ { - 1 } \\big [ z _ { n } - \\mu ( \\alpha _ { n } , k _ { n } ) \\big ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(3)(4)可以得出，高斯混合模型的参数模型为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\theta = \\{ \\pi ( \\alpha , k ) , \\mu ( \\alpha , k ) , \\sum ( \\alpha , k ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pi ( \\alpha , k )$ 表示高斯混合系数， $\\mu ( \\alpha , k )$ 表示均值， $\\Sigma ( \\alpha , k )$ 表示协方差， $\\alpha$ 为不透明度( $\\alpha _ { \\mathrm { ~  ~ } } = 0 , \\ 1 )$ ，参数 $k$ 为高斯混合模型的分量数目（ $k = l , . . . , K )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gibbs 函数中 $V ( \\underline { { \\alpha } } , z )$ 使用颜色空间中的欧几里德距离计算如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV \\left( \\alpha , z \\right) = \\gamma \\sum _ { ( m , n ) \\in C } \\left[ \\alpha _ { n } \\neq \\alpha _ { m } \\right] \\exp { - \\beta \\left\\| z _ { m } - z _ { n } \\right\\| ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $C$ 为相邻的像素对，为自适应 $\\lambda$ 参数， $\\beta$ 为常数项。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 GrabCut算法流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GrabCut算法分割图像的步骤如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在GrabCut的流程图中增加了一个判断图像分割结果是否收敛的过程，目的是在实验部分进行算法对比分析时具有统一的标准。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进GrabCut算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1能量模型的构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在GrabCut算法使用的能量函数中，求解高斯混合模型是求解能量函数的关键步骤。高斯混合模型的求解过程是：首先对图像前景和背景的像素点遍历求解各个高斯分量，其次计算每个高斯分量所占的比重，进而求解高斯混合模型的表达式。这种方法计算量大、耗时长，导致能量函数的求解过程复杂。为了解决上述问题，在本文算法中引入一种新的能量函数[15]，其表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { \\big ( } S { \\big ) } = { \\big | } S { \\big | } \\cdot H { \\big ( } \\theta ^ { s } { \\big ) } + { \\big | } { \\overline { { S } } } { \\big | } \\cdot H ( \\theta ^ { \\overline { { s } } } ) + { \\big | } { \\widehat { \\mathcal { O } } } S { \\big | }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\theta ^ { s }$ 和 $\\theta ^ { \\bar { s } }$ 分别为目标S和背景 $\\bar { s }$ 的直方图， $H ( \\cdot )$ 是概率分布熵函数。新的能量函数不需要迭代优化求解高斯混合模型的表达式，只需要使用颜色直方图去区分颜色信息，减少了算法的计算量。因此能够提高算法的执行效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d29e0fd7daef20648632915a8d27e905389888970df3e5fa903b7695eba305e.jpg",
+        "img_caption": [
+            "Fig.1S-T network model ",
+            "图2GrabCut流程图Fig. 2 GrabCut flow chart"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于式(7)，考虑当颜色直方图 $\\theta ^ { s }$ 和只有两个分布时；设定一种黑白分布的情况。可以得出，当黑白像素在完全分割开的情况下，式(7)中熵项的值是最小的为0；随着颜色的增多，仍可以通过式(7)对图像像素分配（属于前景或背景)正确与否给予对应惩罚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对式(7)的变换得到新的能量函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( S ) = - \\beta \\big \\| \\theta ^ { s } - \\theta ^ { \\bar { s } } \\big \\| _ { L 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在式(8)的基础上增加图像分割的边界项得到",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( S ) = - \\beta \\big \\| \\theta ^ { s } - \\theta ^ { \\bar { s } } \\big \\| _ { L ^ { 1 } } + \\lambda | \\hat { \\sigma } S |\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 为前景点的集合， $\\bar { s }$ 为背景点的集合， $\\theta ^ { s }$ 为S内像素的概率分布， $\\theta ^ { \\bar { s } }$ 为 $\\theta ^ { \\bar { s } }$ 内像素的概率分布，aS为 $s$ 的边界。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 图结构的构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GrabCut算法在进行图结构的构建时，通过计算像素点属于前景或者背景的概率，作为像素点与S、T连接的权值。在计算概率的过程中需要判断该像素点属于高斯混合模型中的第几个高斯分量，再进行像素点的统计，最终计算高斯混合模型的表达式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在本文算法中引入非归一化直方图进行像素点的分类。增加一类辅助节点Bin，对应为图像中像素的总类数目，使每个像素点有其对应的 $\\mathrm { B i n } ^ { [ 1 6 ] }$ 。在遍历图像的过程中，求解每个像素所属的Bin值、像素与Bin相连的权值、像素点间的权值和像素点与S、T连接的权值。与计算高斯混合模型复杂的表达式相比，新的构图方式在计算上更为简单。新的构图方式如图3所示。其中与S、T相连的边权值设定为固定值。对于被标记为前景的点，与S相连，边的权值设为一个极大的常数，与T相连的边的权值设为0。对于被标记为背景的点，与S相连，边的权值设为0，与T相连的边的权值设为一个极大的常数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bin 值的计算如下:",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB i n { = } \\frac { b } { 2 5 6 { * } n u m B i n } { + } \\frac { g } { 2 5 6 } { + } n u m B i n { * } \\frac { r } { 2 5 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $0 { < } \\mathrm { n u m B i n } { < } 2 5 5$ ，一般设定为64。将像素点与其所对应的Bin节点相连接，相连接的边的权值设置为一个固定值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对构建好的图进行最大流/最小割计算，计算后得到权值之和最小的边即为割。也就是图像分割的最终结果。本文引入新的能量函数和图构建的方式，省去了求解、迭代学习优化高斯混合模型所花费的大量时间；并且使用非归一化直方图判断像素属于前景或背景的方法，在一定程度上解决了GrabCut算法在多次迭代后仍处于欠分割状态的问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ff8e9c2db76ae4fe160824036a3068406c19829cd7ac70049cc1c3ca3e9b94e.jpg",
+        "img_caption": [
+            "图3改进算法图的构建"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3改进算法的流程图",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文算法在GrabCut第一次分割的结果上进行改进，本文算法流程图如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1a44aff8ee8d822c9a6f0047a4ad4168873757e597381f61d64be97cc8147ae.jpg",
+        "img_caption": [
+            "Fig.3Map construction of improved algorithm ",
+            "图4改进算法流程图",
+            "Fig.4Flow chart of improve algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验结果对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验平台为：Windows10EDU，MicrosoftVisualStudio2017，OpenCV 3.3.0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 主观评价对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所提方法的正确性和有效性，选取公开标准数据集MSRA1000中的部分图片进行测试。将视觉效果作为主观评价时的评价标准。实验结果如图5所示，图像的编号从上至下依次为1\\~6，(a)为原图，(b)为GrabCut算法达到收敛时的分割结果，(c)为本文算法达到收敛时的分割结果。本文设定当两次的分割结果的差值小于 $2 \\%$ 时，此时的迭代分割结果达到最优，即认为此时收敛。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过分割结果可以看出，本文算法分割结果在视觉效果上与GrabCut算法基本一致，但本文算法在图像分割的精度上有较好的效果。从第1幅图像中间运动员头部、第3幅图像花中间部位、第5幅图像鸟腿部中间等细节可以看出，本",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "文算法的分割结果更好。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4217e99f5108ba8e4419d61f276d669d33a2d4207ae30fb4806825c684f001bd.jpg",
+        "img_caption": [
+            "图5实验结果",
+            "Fig.5Experimental result "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 客观评价对比 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了客观评价算法的分割效果，进一步验证本文方法的有效性，对图像分割质量进行定量分析。通过比较图像分割结果的召回率（recall）和准确率（precision）[17,18]以及$F .$ -measure[12]作为衡量图像分割的优劣的评价指标。根据文献[11,17,18]，准确率、召回率和F-Measure定义公式如式(11)\\~(13)所示。根据公式计算图像分割的准确率、召回率和$F$ -measure的结果如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { p r e c i s i o n } = { \\frac { \\displaystyle \\sum _ { ( x , y ) } G t ( x , y ) B i ( x , y ) } { \\displaystyle \\sum _ { ( x , y ) } B i ( x , y ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr e c a l l = \\frac { \\displaystyle \\sum _ { ( x , y ) } G t ( x , y ) B i ( x , y ) } { \\displaystyle \\sum _ { ( x , y ) } G t ( x , y ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $G t$ 为真值图像（ground truth）， $B i$ 为算法分割后的二值图像。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF { \\mathrm { - m e a s u r e } } = { \\frac { 2 \\cdot p \\operatorname { r } e c i s i o n \\cdot r \\operatorname { e c a l l } } { p \\operatorname { r } e c i s i o n + r \\operatorname { e c a l l } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "下面在对图像分割质量进行定量分析的同时，还对图像的分割效率进行对比分析。对GrabCut算法和本文算法达到收敛时所消耗的时间和迭代次数进行对比，结果如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb6635c69f55ff662b1a3c2ac77600904b22534782953fe65c46242d8e77bb43.jpg",
+        "img_caption": [
+            "表1收敛时花费时间及次数"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/40aeae0b73d052b9d2ec8fa6e52cd3baddf9ddc4d4e05651f56861c06aacec11.jpg",
+        "table_caption": [
+            "Table 1 Convergence takes time and frequency "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"2\">时间/ms</td><td colspan=\"2\">迭代次数/次</td></tr><tr><td>GrabCut</td><td>本文算法</td><td>GrabCut</td><td>本文算法</td></tr><tr><td>1</td><td>8979</td><td>2688</td><td>4</td><td>2</td></tr><tr><td>2</td><td>6122</td><td>2992</td><td>3</td><td>2</td></tr><tr><td>3</td><td>5439</td><td>3360</td><td>3</td><td>2</td></tr><tr><td>4</td><td>6848</td><td>3629</td><td>3</td><td>2</td></tr><tr><td>5</td><td>5842</td><td>3131</td><td>2</td><td>2</td></tr><tr><td>6</td><td>6991</td><td>2927</td><td>3</td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图6中可以看出，本文算法分割结果的召回率、准确率以及 $F _ { \\mathbf { \\delta } }$ -measure值较GrabCut算法相比，准确率高 $3 . 1 3 3 \\%$ ，召回率高 $3 . 1 1 2 \\%$ 、F-measure 值高 $2 . 9 8 \\%$ ；本文在进行时间效率对比时，仅计算了算法的运行时间，没有包含人工标记时间，从表1中计算得出，时间效率提升 $1 1 9 \\%$ ；迭代次数更少。结果表明，提高了GrabCut算法的分割结果和分割效率，达到了改进的目的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证本文算法在背景复杂的前提下，较原算法相比能获得更符合人类视觉的分割效果。选取了较为复杂的建筑图片以及标准数据集BSDS300中的图片进行实验对比分析，第一幅图片选取背景较为复杂的古建筑开封铁塔；第二幅图像为古建筑大相国寺；第三幅图像为测试红绿色盲的颜色图像；第四幅图像以标准数据集BSDS300中的图片进行测试；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验结果如图7所示，其中：(a)为原图， (b)为GrabCut算法达到收敛时的分割结果，(c)为本文算法达到收敛时的分割结果。因为选取的图片没有Gt(groundtruth)真值图像，无法进行客观指标的评价，本文作出了主观视觉效果的展示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图7可以看出，本文算法与GrabCut算法相比，在第一幅图像中分割掉了铁塔塔体部分的背景和塔底的白色区域;第二幅图片中将多余的天空部分分割出去；第三幅图像分割效果更为明显，除去了数字中的绝大部分绿色；第四幅图片本文算法细节处理较好。验证了本文算法的有效性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文对GrabCut算法进行了分析，针对该算法的不足，通过使用新的能量函数和构图方式改变其迭代过程，减少了GrabCut算法在分割迭代是所花费的大量的时间，改善了迭代收敛时分割结果仍处于欠分割的情况。实验结果表明，与GrabCut 算法相比，本文算法在时间效率和分割精度上有了很大的提高；同时应用于背景较为复杂的图像分割中，仍能获得较好的、更符合人类视觉的图像分割结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e40d0b5abb9a74dfc98ac91b269d4082c4caa4ad7993a793ed270e8edd69ad9.jpg",
+        "img_caption": [
+            "Fig.6Analysis result ",
+            "图7复杂图像测试",
+            "Fig.7Complex image Testing "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Jia Zhipeng,Huang Xingyi,ChangEIC,et al.Constrained deep weak supervision for histopathology image segmentation [J].IEEE Trans on Medical Imaging,2017,36(11): 2376-2388.   \n[2] 尹诗白，孔垂涵，王一斌．模糊相关图割的非监督层次化彩色图像 分割[J]．中国图象图形学报，2018，23(9):1326-1334.(Yin Shibai, Kong Chuihan，Wang Yibin.Unsupervised hierarchical color image segmentation through fuzzy correlation and graph cut [J].Journal of Image and Graphics,2018,23(9):1326-91334.)   \n[3]Ning Jifeng,Zhang Lei, Zhang D,et al. Interactive image segmentation by maximal similarity based region merging [J].Pattern Recognition, 2010,43(2):445-456.   \n[4]温佩芝,陈晓,吴晓军,等．基于三次样条插值的GrabCut 自动目标分 割算法[J]．计算机应用研究，2014，31(7):2187-2190.(Wen Peizhi, Chen Xiao,Wu Xiaojun,et al.Automatic target segmentation algorithm of GrabCut based on cubic spline interpolation [J]．Application Research of Computers,2014,31 (07): 2187)   \n[5]Zahn C T.Graph-theoretical methods for detecting and describing gestalt clusters [J].IEEE Trans.on Computers,1971,20(1):68-86.   \n[6]周莉莉，姜枫．图像分割方法综述研究[J].计算机应用研究，2017, 34(7):1921-1928.(Zhou Lili，Jiang Feng. Survey on image segmentation methods [J].Application Research of Computers,2017, 34 (7): 1921-1928.)   \n[7]Boykov Y. Interactive graph cuts for optimal boundary and region segmentation of objects in N-D images [C]// Proc of the 8th IEEE International Conference on Computer Vision.Washington DC:IEEE Computer Society,2001:105-112.   \n[8]Rother C,Kolmogorov V, Blake A.\"GrabCut\":interactive foreground extraction using iterated graph cuts [J].ACM Trans on Graphics, 2004,23(3):309-314.   \n[9]董茜，颜凯，孙婷婷，等．基于SLIC超像素的GrabCut算法改进[J]. 华中科技大学学报:自然科学版，2016,44(S1):43-47,66.(Dong Qian, Yan Kai, Sun Tingting,et al. Improvement of GrabCut algorithm based on SLIC superpixel algorithm [J].Huazhong University of Science& Technology:Natural Science Edition,2016 ,44(S1): 43-47,66.)   \n[10]陈鑫，何中市，李英豪.一种新的基于SLICO改进的GrabCut彩色图 像分割算法[J]．计算机应用研究，2015，32(10)：3191-3195.(Chen Xin,He Zhongshi,Li Yinghao.Improved color image segmentation of GrabCut algorithm based on SLICO [J].Application Research of Computers,2015,32 (10):3191-3195)   \n[11]黄磊，夏添，张勇东，等.融合显著性分析与图割的姿态无关服装区 域分割算法[J].计算机辅助设计与图形学学报，2012,24(5)：620-627. (Huang Lei,Xia Tian,Zhang Yongdong,et al.Pose-invariant clothing segmentation based on saliency detection and graph cuts [J]. Journal of Computer-Aided Design & Computer Graphics,2012,24(5): 620-627)   \n[12] Ren Dayong,Jia Zhenhong,Yang Jie,et al.APractical GrabCut color image segmentation based on bayes classification and simple linear iterative clustering[J].IEEE Access,2017,5 (99):18480-18487.   \n[13]杨章静，钱建军，黄璞，等.基于Gabor变换的GrabCut纹理图像分割 [J].控制与决策,2016,31(1):149-154.(Yang Zhangjing,Qian Jianjun, Huang Pu,et al.GrabCut texture image segmentation based on Gabor wavelet transform [J].Control and Decision,2016,31(1):149-154.)   \n[14]胡薇薇．基于GrabCut 的快速交互式图像分割算法研究[D].福州： 福州大学,2013.(Hu Weiwei.Research of fast interactive image segmentation algorithm based on GrabCut [D]. Fuzhou:Fuzhou University,2013.)   \n[15] Tang Meng,Gorelick Lena,Veksler Olga,et al.GrabCut in One Cut [C]// IEEE International Conference on Computer Vision.Sydney: IEEE,2014:1769-1776.   \n[16]蔡乐黎．安卓平台下基于改进的OneCut 算法的目标抠取与应用研 究[D].长沙：湖南师范大学，2017.(CaiLeli.Research on target extraction and application based on improved OneCut algorithm on the Android platform [D]. Changsha: Hunan Normal University,2017.)   \n[17] Taha A A,Hanbury A.Metrics for evaluating 3D medical image segmentation: analysis,selection,and tool [J].BMC Medical Imaging, 2015,15(1):15:29.doi:10.1186/s12880-015-0068-x.   \n[18] Chang HH,Zhuang A H,Valentino DJ,et al.Performance measure characterization for evaluating neuroimage segment-ation algorithms [J]. Neuroimage,2009,47(1):122-135. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

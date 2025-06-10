@@ -1,0 +1,105 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# NVST的长期跟踪误差分析及改正
+
+陈宇超1,²，柳光乾1(1.中国科学院云南天文台，云南 昆明650011；2.中国科学院大学，北京100049)
+
+摘要：由于 $1 \mathrm { m }$ 太阳望远镜主体、光电导行及终端仪器消旋平台等的结构特点，即使光电导行系统闭环后，望远镜长时间跟踪精度仍然较低。为了解决这一问题，首先根据望远镜的结构特点分析了跟踪误差随时间变化的原因，然后通过理论和实测分析了误差的变化特点，研究了如何通过相关算法检测望远镜折轴焦点 $F _ { 3 }$ 焦面的高分辨率成像观测系统中的图像移动量，并平滑高频分量，分离出低频分量以反馈给望远镜定位跟踪系统，进一步提高望远镜的长时间跟踪精度。最后进行了高分辨率成像观测系统中TiO通道闭环跟踪实验，实验表明，在4小时的闭环跟踪时间内，跟踪误差的均方根值为 $0 . 5 2 ^ { \prime \prime }$ ，表明通过折轴焦点 $F _ { 3 }$ 成像观测系统中的图像移动量对望远镜实行闭环跟踪能够提高望远镜的长时间跟踪精度。
+
+关键词： $1 \mathrm { m }$ 新真空太阳望远镜；长时间跟踪误差；折轴焦点成像系统；闭环跟踪中图分类号：P111 文献标识码：A 文章编号：1672-7673(2016)02-0205-08
+
+$1 \mathrm { m }$ 新真空太阳望远镜(New Vacuum Solar Telescope，NVST)是我国目前重要的太阳观测设备，其科学目标是对太阳进行高分辨率成像及光谱观测，由此决定了望远镜光电导行闭环跟踪精度要达到短时间为 $0 . 3 ^ { \prime \prime } / 3 0 \mathrm { ~ s ~ }$ 、长时间为 $1 ^ { \prime \prime } / 1 0 \mathrm { m i n }$ 的要求[1-2]①。然而由于望远镜主体结构、光电导行系统以及终端仪器的消旋平台等的结构特点，即使进行光电导行闭环跟踪后，折轴焦点 $F _ { 3 }$ 处终端观测系统中的目标还在随时间不断偏移，这给望远镜对某一目标的长时间成像观测或光谱扫描观测等带来不小的影响。
+
+为解决光电导行闭环跟踪能力不足、长时间跟踪精度较低的问题，本文首先从望远镜的整体结构特点分析了其光电导行闭环跟踪误差随时间变化的原因，并进行了理论和实测分析。然后提出了折轴焦点局部太阳像闭环跟踪方案，根据目前的系统结构，通过检测折轴点处的高分辨率成像观测系统中TiO(氧化钛)通道的图像移动量进行望远镜闭环控制以提高长时间跟踪精度。实验表明，采用折轴焦点局部太阳像闭环控制方法能很好地解决望远镜长时间跟踪精度较低的问题。
+
+# 1望远镜的长时间跟踪误差
+
+# 1.1长时间跟踪误差产生的原因
+
+$1 \mathrm { m }$ 太阳望远镜采用地平式(方位-高度式(AZI-ALT))机架结构。光电导行系统是一个口径为8cm 的小望远镜，安装在 $1 \mathrm { ~ m ~ }$ 太阳望远镜的镜筒背上，通过检测全日面重心实现望远镜的闭环控制，除此之外，光电导行系统还可以提供全日面像以方便观测者选择日面上某一局部观测目标。望远镜的所有终端系统安放在一个可以旋转的平台上，既折轴焦点 $F _ { 3 }$ 所处的焦平面，以消除地平式望远镜跟踪时带来的 $F _ { 3 }$ 焦平面的像场旋转，目前望远镜的终端系统有多通道高分辨率成像观测系统、多波段光谱仪和大色散光谱仪，多通道高分辨率成像观测系统包括白光通道(也常称为 TiO(氧化钛)通道）、$\mathrm { H } \alpha$ 通道和8542通道。 $1 \mathrm { ~ m ~ }$ 太阳望远镜总体结构如图1。
+
+![](images/86ac2e80e9b6f511158302bba907cd7c7f411e8cc12ac2574de516d4462ad885.jpg)  
+图1 $1 \mathrm { m }$ 太阳望远镜总体结构图Fig.1NVST structure diagram
+
+$1 \mathrm { m }$ 太阳望远镜跟踪系统的主要目标是使日面上的某一观测目标长时间稳定地保持在其观测系统的视场中心。 $1 \mathrm { ~ m ~ }$ 太阳望远镜的光电导行系统完全独立于主镜系统，光电导行要实现高精度的闭环控制，首要前提是必须保证光电导行系统的光轴与望远镜的光轴严格平行。然而，由于多种因素的影响，光电导行系统的光轴与望远镜的光轴不可能在跟踪过程中保持严格平行。光电导行系统中导行镜的光轴与望远镜的光轴不严格平行的主要原因是跟踪过程中受重力的影响，望远镜主光轴弯沉以及导行镜安装机构的重力变形、热变形等引起的导行镜光轴变化[3-4]，文[3-4]在这方面做了较为详细的研究。因此，目前望远镜的光电导行闭环跟踪主要改正太阳理论位置不精确、望远镜编码器系统慢变误差、望远镜机架安装和大气蒙气差等引入的跟踪误差，其中，太阳自转引入的误差只能靠理论模型引入光电导行系统中。另一方面，望远镜是地平式结构，望远镜折轴焦点 $F _ { 3 }$ 处终端系统中的像还存在旋转，需要进行消旋，望远镜终端系统采用机械式消旋[5。因此，望远镜终端系统中的观测目标受跟踪误差和消旋误差的影响而随时间不断偏移。望远镜的光电导行系统无法改正终端系统中的消旋误差。所以，即使望远镜的光电导行闭环后，其终端系统的观测目标还会随时间不断变化，无法长时间地稳定在视场中心。
+
+通过以上分析可知，望远镜的长时间跟踪误差主要分为两部分，一是光电导行系统跟踪能力不足带来的跟踪误差，二是消旋引起的跟踪误差，即消旋误差，本文把二者统称为望远镜的长时间跟踪误差。
+
+# 1.2消旋误差模拟分析
+
+望远镜终端系统中的像旋转由其系统结构决定，望远镜的光路图如图2，光学系统中的 $M _ { 3 }$ 、 $M _ { 4 }$ 、$M _ { 5 }$ 经过望远镜的高度轴， $M _ { 7 }$ 经过望远镜的方位轴。
+
+根据文[5]的分析，望远镜折轴焦点 $F _ { 3 }$ 所在平面的终端系统中的像旋转由3个分量组成，第1分量是地平式跟踪时的像旋转，它围绕 $M _ { 1 }$ 、 $M _ { 2 }$ 的主光轴旋转，第2分量是围绕高度轴旋转，第3分量是围绕方位轴旋转。理想情况下，这3个分量的旋转中心应该完全重合，既为同一点，而且与终端系统消旋平台的旋转中心一致。但在望远镜安装过程中，这些旋转中心不可能重合在一起，使得望远镜终端系统存在消旋误差。现以望远镜高分辨率成像系统中TiO通道的CCD靶面为例进行分析，分析的方法和步骤是：首先假设系统不存在跟踪误差，在CCD 靶面上，设 $O _ { 1 }$ 、 $O _ { 2 }$ 、 $O _ { 3 }$ 为第一、第二、第三像旋转分量的旋转中心，旋转分量的计算采用文［5］的计算方法。 $o$ 为消旋平台的旋转中心， $S _ { 1 }$ 、$S _ { 2 }$ 、 $S _ { 3 }$ 、 $S _ { 4 }$ 为视场中任意一点，坐标以像数值表示，如图3，模拟时间选择在夏至日，太阳过中天前后 $3 0 ~ \mathrm { m i n }$ ，此时像旋转最快。
+
+![](images/85bc213ed46ec710eb93d7be79989e641d6c8c859a0e0452fd5886a45028e35a.jpg)  
+图2 $1 \mathrm { m }$ 太阳望远镜光路图．（a）主镜光路；（b）导行镜光路   
+Fig.2NVST optical diagram
+
+图3(a)模拟视场中任意一点 $S _ { 1 }$ 消旋前后的运动轨迹，由此可见，由于像旋转各分量中心之间以及它们与消旋平台旋转中心之间不一致，产生了图3（a)虚线所示的消旋误差，引起图像随时间的偏移。图3(b)模拟视场中任意4点 $S _ { 1 }$ 、 $S _ { 2 }$ 、 $S _ { 3 }$ 、 $S _ { 4 }$ 消旋前后的运动轨迹，模拟表明：（1)消旋之前它们的运动步调不一致，这在图3(c)中( $\left( S _ { 2 } { - } S _ { 1 } \right)$ ）、 $( S _ { 4 } – S _ { 1 } )$ ）、 $\left( { { S } _ { 3 } } – { { S } _ { 1 } } \right)$ 的轨迹表明了这一点，它们轨迹是半径不同的同心圆；(2)消旋之后它们的运动步调一致，这在图3(d)中的 $( S _ { 2 } { - } S _ { 1 }$ ）、 $( S _ { 4 } – S _ { 1 } )$ 、（ $S _ { 3 }$ $S _ { 1 }$ )的轨迹是一个点，它们的轨迹不再随时间变化，而是一个恒定值。因此，消旋后，图像虽然随时间偏移，但整个视场图像偏移的步调是一致的。
+
+# 1.3长时间跟踪误差实测
+
+在测试望远镜的长时间跟踪误差时，为了体现光电导行闭环跟踪误差和消旋误差，采用了不同的测试目标。测量光电导行闭环跟踪误差时，选取太阳上的某一活动区为目标。根据文［5］，像场旋转速度最快可达 $1 6 0 0 \mathrm { ^ { \prime } / s }$ ，因此，测试时间选择在像场旋转较慢的时候，以减小消旋误差的影响。测量消旋误差时，选取过天顶的恒星为目标，测量时间选择在过中天时，测量时间尽量短，以减小跟踪误差的影响。
+
+光电导行闭环时的跟踪误差如图4（a)，在TiO通道CCD靶面的轨迹如图4(b)，测试时间是北京时间2014年11月7日11点到12点，此时像场旋转速度为 $9 . 8 { \sim } 1 3 . 6 ~ \mathrm { { " / s } }$ 。采用望远镜高分辨成像观测系统的TiO通道记录目标图像，每间隔30s取20幅图像相关移动量平均得到一个误差值，以消除大气的影响，在一小时内总共采样120个点。测试的结果是光电导行闭环后，图像在一小时内移动约 $1 8 ^ { \prime \prime }$ 。
+
+![](images/bea1f60aeb2d1ffe3cb2dcf672feb94fba11ab7d8b17503bc410a8bb1be41e32.jpg)  
+图3消旋误差模拟分析.（a）视场中任意一点的消旋误差；（b）视场中任意4点的消旋误差；（c）没消旋时视场之间的相对运动变化；（d）消旋之后视场之间的相对运动变化Fig.3Simulation analysis of derotator error in the NVST $F _ { 3 }$ focal plane
+
+![](images/d5581bf8181a6dc5600339ec53345d9e09212fb6ecb0894ddb86d28927439e08.jpg)  
+图4光电导行闭环时 $1 \mathrm { m }$ 太阳望远镜的跟踪误差及轨迹．（a）跟踪误差；（b）误差轨迹 Fig.4NVST tracking error and its trajectory with closed loop of photoelectric navigation
+
+消旋误差的测量主要测星的变化轨迹。当消旋平台没有开启时，采用望远镜高分辨成像观测系统的TiO 通道记录了4颗星（分别是星1：SAO91781（ $0 \mathrm { ~ h ~ } 1 4 \mathrm { ~ m ~ } 4 . 0 8 \mathrm { ~ s ~ }$ ， $1 5 ^ { \circ } 1 6 ^ { \prime } 2 6 ^ { \prime \prime } \$ ）、星2：SA075012（1h$5 5 \mathrm { ~ m ~ } 3 2 . 3 9 \mathrm { ~ s ~ }$ ， $2 0 ^ { \circ } 5 3 ^ { \prime } 1 2 ^ { \prime \prime }$ ）、星3：SAO93954( $4 \mathrm { ~ h ~ } 2 9 \mathrm { ~ m ~ } 3 4 . 2 9 \mathrm { ~ s ~ }$ ， $1 9 ^ { \circ } 1 2 ^ { \prime } 4 6 ^ { \prime \prime } ,$ ）、星4：SAO 77336( $5 \mathrm { ~ h ~ } 3 8 \mathrm { ~ m ~ }$ 37.11 s, $2 1 ^ { \circ } 8 ^ { \prime } 5 5 ^ { \prime \prime } )$ )在CCD靶面上的变化轨迹以及消旋平台快速旋转时星的变化轨迹，如图5（a），从图中可以看出，4颗星像的旋转轨迹都不是同心圆，表明望远镜的3个像旋分量的中心不一致，且这些中心与消旋平台的旋转中心也不相同。消旋平台开启进行消旋时，星像还会存在消旋误差，如图5(b)。实测表明，消旋误差与模拟分析的结果是一致的。
+
+![](images/2107fbaddee6c934e0bfdf5561cddd7112d52eec1981755d2dc505f574ab2220.jpg)  
+图5消旋误差实测.（a）未消旋的星像旋转变化；（b）消旋后的星像位置变化 Fig.5Actual measurement of derotator error in the NVST $F _ { 3 }$ focal plane
+
+# 2望远镜折轴焦点图像闭环的实现
+
+通过以上的模拟和实测分析表明，如果能实时检测望远镜折轴焦点终端系统中的图像偏移量，就能将偏移量反馈给望远镜跟踪系统进行闭环控制[6。基于这样的反馈控制思想和目前的系统结构，本文以望远镜折轴焦点处高分辨率成像观测系统中的TiO通道建立了如图6的闭环跟踪控制系统，当TiO成像观测系统闭环时，光电导行闭环停止工作，二者不能同时工作。由于TiO系统闭环只针对望远镜的长时间跟踪误差，频率为30s一次，这由目前TiO采集系统工作模式决定。30s的时间这样分配：在前20s不间断地快速采集200幅图后，用相关算法计算偏移量并进行平均，以平滑湍流大气和随机风载引起的图像抖动，后10s用来存储图像，同时进行图像移动量的计算和反馈控制信号的发送。
+
+![](images/d10c05ec28a4db4762764cb51f5c8db95e4597db3ae8a19161d4e91433deeb4d.jpg)  
+图6折轴焦点TiO成像观测通道闭环控制系统结构图  
+Fig. 6The closed-loop control structure diagram of coude focus of TiO imaging syster
+
+由于望远镜的视场是 $3 ^ { \prime } \times 3 ^ { \prime }$ ，观测的是日面上百分之一左右的局部区域，因此图像移动量的检测采用相关算法[7-8]。具体的做法是在 TiO 观测系统中引入该检测算法，工作流程如图7。
+
+![](images/2c82cadeba6bec6f7e4a493e30b0a7a9b8713c0a1ce3532d190b9d5f23bf4002.jpg)  
+图7TiO观测系统软件工作流程  
+Fig.7The workflow diagram of TiO imaging system
+
+# 3望远镜折轴焦点闭环跟踪实验
+
+根据以上基于高分辨率成像观测系统中的TiO通道建立闭环控制系统，开展望远镜的闭环跟踪实验，闭环实验时，选取某一黑子为目标，进行闭环跟踪，然后记录TiO系统图像的偏移量（相对于闭环起始时刻的位置）， $3 0 \mathrm { ~ s ~ }$ 记录一次。
+
+第1组：测试时间2015年1月14日16:14:37-17:54:45，测试时长 $1 \mathrm { h } \ 4 0 \mathrm { m i n }$ ，结果如图8（a），跟踪误差均方根值是 $0 . 6 2 ^ { \prime \prime }$ ，标准差是 $0 . 3 2 ^ { \prime \prime }$ 。
+
+第2组：测试时间2015年1月15日 $9 : 3 5 : 2 2 - 1 3 : 3 6 : 0 1$ ，测试时长 $4  { \mathrm { ~ h ~ } } 1  { \mathrm { ~ m i n ~ } }$ ，结果如图8（b），跟踪误差均方根值是 $0 . 5 2 ^ { \prime \prime }$ ，标准差是 $0 . 2 8 ^ { \prime \prime }$ 。
+
+从两组测试结果可以看出，望远镜折轴焦点中TiO观测系统闭环跟踪误差不再随时间变化，而是在原位置(闭环启动时的位置)随机变化，随机波动的均方根值明显小于 $1 ^ { \prime \prime }$ ，由此说明该闭环方式能够很好地解决望远镜长时间跟踪误差问题。
+
+# 4结论
+
+通过理论分析和实验表明，望远镜长时间跟踪误差主要由光电导行跟踪能力不足和消旋误差引入，消旋误差特点是整个视场同步偏移。因此，通过检测望远镜折轴焦点高分辨率成像观测系统的图像移动量对望远镜进行闭环跟踪，能够改善望远镜长时间跟踪误差，其中对TiO观测系统闭环跟踪实验就很好地证明这一点，在长达4小时的闭环跟踪时间里，跟踪误差不随时间变化，均方根值达到$0 . 5 2 ^ { \prime \prime }$ ，与光电导行闭环 $^ { \textrm { 1 h } }$ 跟踪误差 $1 8 ^ { \prime \prime }$ 相比有明显的改善。为了这种方法能成为 $1 \mathrm { ~ m ~ }$ 太阳望远镜的常规化闭环跟踪模式，下一步还需要仔细研究目标是日面上宁静区时的图像移动量检测，在折轴焦点的终端系统中建立独立于高分辨率观测系统的专业闭环跟踪系统。
+
+![](images/c0e10ec6820aca25c9125f143679e2bbc7cc1a727c86250859bd533c034a5459.jpg)  
+图8 $1 \mathrm { m }$ 太阳望远镜的TiO观测系统闭环跟踪误差．（a）第1组跟踪误差；（b）第2组跟踪误差 Fig.8The NVST tracking error under the closed loop control of TiO observation system
+
+# 参考文献：
+
+[1] Liu Zhong，Xu Jun.1-meter near-infrared solar telescope [C]// Choudhuri A R，Banerjee D.First Asia-Pacific Solar Physics Meeting ASI Conference Series. 2O11:9-17.  
+[2] 柳光乾．一米红外太阳望远镜控制系统研制［D].昆明：中国科学院云南天文台，2011.  
+[3] 柳光乾，校启公，邓林华，等. $1 \mathrm { m }$ 太阳望远镜光轴变化检测与改正［J].中国激光，2013,40(1): 206-211.Liu Guangqian，Xiao Qigong，Deng Linhua，et al. Detection and calibration of optical axeschange for one meter solar telescope [J]. Chinese Journal of Lasers，2013，40(1）: 206-211.  
+[4] 程向明，邓林华，柳光乾. $1 \mathrm { ~ m ~ }$ 太阳望远镜光电导行镜无热化分析［J］．应用光学，2014，35(5) : 862-867.Cheng Xiangming，Deng Linhua，Liu Guangqian. Calculation of thermal deformation for autoguide telescope of NVST [J]. Journal of Applied Optics，2014，35(5） : 862-867.  
+[5] 柳光乾，付玉，程向明.1米太阳望远镜光谱仪像旋转及消旋控制［J].天文研究与技术国家天文台台刊，2012，9(1)：86-92.Liu Guangqian，Fu Yu，Chen Xiangming.Image-field rotation and control of counter rotation forthe Spectrograph of the 1m solar telescope of the Yunnan Observatory ［J].AstronomicalResearch & Technology———Publications of National Astronomical Observatories of China，2012,9(1) : 86-92.  
+[6] Klvana M，Bumba V， Sobotka M. A CCD-based guiding and control system for solar telescopes[J].Astronomische Nachrichten，2003，324(4）:305-307.  
+[7] 郑建华，饶长辉.不同像素尺度下太阳表面米粒结构相关跟踪算法的有效性分析［J]．大气与环境光学学报，2010，5(5)：327-333.Zheng Jianhua，Rao Changhui.Eectiveness of tracking algorithm for solar granulation indiffrent pixel scale of system [J]. Journal of Atmospheric and Environmental Optics，2010，5(5) : 327-333.  
+[8] 肖江，胡柯良，林佳本，等．用大面阵CCD 实现全日面像自动导行［J]．光学精密工程，2008，16(9): 1589-1594.Xiao Jiang，Hu Keliang，Lin Jiaben，et al. Tracking and guiding for full solar disk image usinglarge CCD-array [J]. Optics and Precision Engineering，2008，16(9）:1589-1594.
+
+# The Error Analysis and Correction of NVST's Long-Term Tracking
+
+Chen Yuchao $^ { 1 , 2 }$ , Liu Guangqian1 (1.Yunnan Observatories，Chinese Academy of Science,Kunming 650011,China,Email：cyc@ ynao.ac.cn, 2.University of Chinese Academy of Sciences，Beijing 1Ooo49，China)
+
+Abstract:Though NVST is equipped with an optical auto-guiding system，the tracking accuracy is still affected by the mechanical structure of telescope，guiding system and derotator platform.In order to correct the long-term tracking error caused by above factors and improve the tracking accuracy，the solar images on the ${ \cal F } _ { 3 }$ （20 focal plane are used.Images are cross-correlated in real time with a previously recorded reference image of the same observation target.The drive signal for the image motion is generated by long-term average of the positions of the maximum of the cross correlation.The experiment in TiO channel of high-resolution imaging system in NVST shows the tracking error by feature tracking in four hours is $0 . 5 2 ^ { \prime \prime } ( \mathrm { R M S } ) .$ 、Thus this result can demonstrate that for NVST,long-term tracking accuracy can be improved by using the image motion on coude focal plane in closed-loop telescope tracking.
+
+Key words: 1-meter New Vacuum Solar Telescope；Long-term tracking error；Coude-focus imaging system; Closed-loop tracking

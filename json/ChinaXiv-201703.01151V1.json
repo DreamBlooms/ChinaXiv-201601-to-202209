@@ -1,0 +1,248 @@
+[
+    {
+        "type": "text",
+        "text": "某集气站排污水管腐蚀失效原因分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒋秀1刘艳1范举忠2宋晓良1刘乔平2元婧1 单广斌1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．中国石油化工股份有限公司安全工程研究院青岛266071  \n2．中国石油化工股份有限公司江汉油田分公司潜江 433124",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用 SEM、XRD 及EDS 等对某集气站排污水管失效管段进行宏观检查、腐蚀产物分析和污水水样分析，根据排污水管的工况开展了腐蚀模拟实验。研究结果表明：污水中存在大量硫酸盐还原菌(SRB)和少量铁细菌和腐生菌(TGB)，污水存在明显腐蚀结垢趋势，细菌腐蚀和垢下腐蚀是导致腐蚀穿孔的主要原因，污水中的CI加速了腐蚀的发生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：集气站；排污水管；腐蚀；失效分析中图分类号：TE988 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corrosion Failure Analysis on a Wastewater Pipeline for a Gas Gathering Station JIANG Xiu, LIU Yan, SONG Xiaoliang, LIU Qiaoping, FAN Juzhong, QI Jing, DAN Guangbin 1.SINOPEC Research Institute of Safety Engineering, Qingdao266071,China 2．SINOPEC Jianghan Oil Field Branch, Qianjiang 433124,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corrosion failure of a wastewater pipeline for a gas gathering station was analyzed by means of corrosion morphology observation, corrosion product analysis by using SEM, XRD and EDS technologies,as well as analysis of wastewater. Experiments were carried out to simulate the working condition in order to understand the corrosion behavior of wastewater pipeline. The results showed that a lot of sulfate reducing bacteria (SRB) and a small amount of TGB and iron bacteria were measured in the wastewater. It was possible for the wastewater to form scale on the pipeline under the working condition. The corrosion failure of the wastewater pipeline was due to the microbiological influenced corrosion (MIC). The Cl in the waste water accelerated the corrosion process. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Gas gathering station; Wastewater pipeline; Corrosion; Failure analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "某集气站的排污水管于2014年1月投用，管道材质为20#钢，直径约为 $6 0 \\mathrm { m m }$ ，设计管壁厚度约 $3 . 5 \\mathrm { m m }$ ，管道运行温度约 $2 5 \\mathrm { { ^ \\circ C } }$ ，压力约5MPa，2015年4月发现在9点钟位置发生穿孔。为了寻找腐蚀失效原因，从宏观和微观形貌观察、腐蚀产物分析及污水水样分析等方面进行了检测分析，并开展腐蚀模拟实验，提出相关的应对措施，以避免类似情况的再次发生。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2实验方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过对失效管道试样进行宏观腐蚀特征分析，以观察腐蚀发生位置，表面形貌特征及分布规律；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "采用S3400-NII型扫描电镜(SEM)观察表面的腐蚀产物和进行能谱(EDS)分析，以确定腐蚀产物的元素种类、分布特征及形态特征，并采用BrukerD8ADVANCE粉末X射线衍射仪(XRD)进一步分析腐蚀产物的组成；金属表面的腐蚀产物膜清洗液配置及使用方法参照GB/T16545-1996[1]，表面腐蚀产物进行清洗后，采用SEM分析管道腐蚀位置的表面微观腐蚀形貌及特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用现场采集的污水在 $2 5 \\mathrm { { ^ \\circ C } }$ ， $5 \\mathrm { { M P a } }$ 条件下，采用失重法和电化学方法开展了腐蚀模拟实验，试样材质为20#钢，实验周期为7和30天。电化学测试在Reference 600电化学工作站上进行，采用三电极体系，试样为工作电极，Pt片为辅助电极， $\\mathrm { \\ A g / A g C l }$ 电极为参比电极。线性极化曲线的扫描速率为 $0 . 1 6 6 \\mathrm { { m V / s } }$ ，扫描范围为相对于自腐蚀电位 $\\pm 1 0 \\mathrm { m V }$ 。实验前，所有试样工作表面依次经150#，400#和600#水磨砂纸打磨，丙酮超声清洗，干燥，然后用感量为 $0 . 1 \\mathrm { m g }$ 的电子天平称重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3失效管段宏观检查",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1为沿6点钟和12点钟位置切割后的管段，图2为清洗腐蚀产物后的照片。可以看出腐蚀产物沿管径的分布较均匀，厚度约为 $0 . 5 \\mathrm { m m }$ ，表层腐蚀产物为棕黄色，内层腐蚀产物为深棕色。穿孔部位孔径沿管壁变化，呈现台阶状，管段内壁的孔径较大，直径约 $1 5 \\mathrm { m m }$ ，管外壁穿孔部位为“T字形”。在管段的6点钟位置附近出现浅的腐蚀坑。在管段的5点钟位置（圆圈处）可观察到一个未穿透管壁的孔(图1b 和图2)，管内壁孔直径约 $5 . 1 \\mathrm { m m }$ ，孔的深度约 $2 . 2 \\mathrm { m m }$ ，在孔的周围分布着浅的腐蚀坑。金属表面存在较多的腐蚀产物结瘤，与金属表面结合力强，不容易去除。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/19eb13054c570e309614506ba4bfc8a717633eff67d133d8382e523f836ef5e2.jpg",
+        "img_caption": [
+            "图1管段内部腐蚀状况",
+            "Fig.1 Internal corrosion state of the Wastewater pipeline "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e21caa38cd45cf9f127093e041585340250dabd08b6344067b46a1390f349cfc.jpg",
+        "img_caption": [
+            "图2清洗腐蚀产物后管段内部腐蚀形貌"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Surface morphology of internal wall for the wastewater pipeline after film removal ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4腐蚀产物分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3为管段内腐蚀产物的XRD分析结果，腐蚀产物主要为 ${ \\bf S } _ { 8 }$ 和 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ 的水合物。由于天然气中甲烷含量约为 $9 8 \\%$ ， $\\mathrm { C O } _ { 2 }$ 含量低，不含 $\\mathrm { H } _ { 2 } \\mathrm { S }$ ，因此，腐蚀产物中的 $S _ { 8 }$ 基本上不可能来自地层，可能与腐蚀产物的氧化有关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了了解腐蚀产物膜截面形貌和各种元素在截面的分布情况，在管段上切取了一小块进行封样和打磨。图4为截面形貌和元素在截面上的分布，可以看出腐蚀产物主要分为两层，Fe，CI和C元素在各层腐蚀产物中的分布比较均匀，O在内层腐蚀产物膜中的含量略高于外层，而S元素的分布呈现了明显的变化梯度，在表层与内层腐蚀产物膜的界面附近较集中。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef18bcbe09f6e849641c403c95e1a45f26c00159e6ad597c6225f6355be073de.jpg",
+        "img_caption": [
+            "图3腐蚀产物的XRD 谱 ",
+            "Fig.3 XRD pattern of corrosion product "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/17b77b21bbf57e7fd191a5280348c90b5b4eed213560cf38451fe471e6b24c93.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4腐蚀产物的截面形貌和各元素在截面上的分布情况",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Cross-section of corrosion product film (a) and distribution of elements (b)Fe, (c)Cl, (d)C, (e)O (f)S, (g)Ca) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5污水水样分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "现场采集的水样呈现黑色，向水样中滴 $\\cdot$ 溶液，有明显的 $\\mathrm { H } _ { 2 } \\mathrm { S }$ 气味，说明污水中存在含S 元素的物质。污水pH值为6.95， $\\cdot$ ， $\\cdot$ ，[C1]， $[ \\mathrm { S O } _ { 4 } ^ { 2 - } ]$ ， $\\cdot$ ， $\\cdot$ ， $\\cdot$ ， $\\cdot$ ]和COD分别为 6657，19100，9，460，375，190，1.3 和4100（ $\\cdot$ )。污水中[Cr]， $[ \\mathrm { F e } ^ { 2 + } ] , [ \\mathrm { N O } _ { 3 } \\bar { ] }$ ， $[ \\mathrm { H C O } _ { 3 } ^ { - } ]$ 和COD 均较高，说明水中有机物含量高，可促进微生物的繁殖。根据《油田水结垢趋势预测》(SY/T0600-97)对污水结垢趋势进行了计算，发现污水存在明显的碳酸钙结垢趋势，这与图1观察到的腐蚀产物膜和图2中在管道底部观察到的由于垢下腐蚀导致的腐蚀坑相吻合。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用 API推荐的培养基对污水水样进行细菌培养[2],发现水样中 SRB 含量较高，为30000 个 $/ \\mathrm { m L }$ ，铁细菌和 TGB 均为25 个/mL。由于 SRB 是厌氧菌，易在腐蚀产物下滋生，向管道深处腐蚀，导致管道腐蚀穿孔，这与图4中 S在腐蚀产物膜中的分布吻合。SRB 在污水的pH值条件下适宜生长，腐蚀产物主要为铁的硫化物，铁的硫化物在空气中容易被氧化，因此，图3的 XRD 分析中检测到Sgo",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，细菌腐蚀和垢下腐蚀是导致管段腐蚀穿孔的主要原因，污水中CI加速了污水管道的腐蚀。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6腐蚀模拟实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5为 $2 5 \\mathrm { { ^ \\circ C } }$ ，5MPa条件下20#钢在从现场采集污水水样中7d内均匀腐蚀速率随时间的变化，腐蚀速率采用线性极化方法测得，其随时间未发生明显变化，为 $0 . 2 { \\sim } 0 . 3 \\mathrm { m m / y }$ ；EIS 方法测量获得的溶液电阻较低，约为 $2 \\Omega$ ，这与污水中[CI]等离子含量较高有关，说明溶液的导电性很强。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c55984d9e2213eec85d3549962631d40270d82b50f216bea17cea56db47bbc1.jpg",
+        "img_caption": [
+            "图5 $2 5 \\mathrm { { ^ \\circ C } }$ ，5MPa条件下7d20#钢在污水管水样中腐蚀速率随时间的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 Variation of corrosion rate with time in 7 d for $2 0 \\#$ mild steel exposed to the wastewater at 5MPa and （204号 $2 5 \\mathrm { { ^ \\circ C } }$ （204 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6为 $2 5 \\mathrm { { ^ \\circ C } }$ ，5MPa条件下20#钢在污水水样中7和30d的均匀腐蚀速率，腐蚀速率采用失重法获得。7d的腐蚀速率与图5中电化学方法获得腐蚀速率基本一致，30d后的均匀腐蚀速率明显低于7d 的腐蚀速率。图7为 $2 5 \\mathrm { { ^ \\circ C } }$ ， $5 \\mathrm { { M P a } }$ 条件下20#钢污水水样中腐蚀7和30d 后腐蚀产物膜形貌和清洗腐蚀产物后金属表面形貌，可以看出：7d后金属表面的腐蚀产物膜分布不均匀(图7a)，A区金属表面的腐蚀产物膜较厚，B区金属表面的腐蚀产物膜很薄，可见金属打磨痕迹；EDS 显示A区和B区的腐蚀产物膜主要含Fe，C,O，S 和Cl等元素；30d 后金属表面的腐蚀产物膜分布较均匀(图 7b)。在实验初期，SRB 在金属表面吸附导致金属表面电化学性质的不均匀性[3.4]，因此图7a 中的腐蚀产物膜分布不均匀；随实验时间的延长，腐蚀产生的 $S ^ { 2 \\cdot }$ 和 $\\mathrm { F e } ^ { 2 + }$ 反应生成FeS 膜，同时细菌的生物膜在金属表面的生长繁殖抑制了腐蚀性介质的传递，从而阻碍了溶液介质与金属表面的接触和Fe的溶解[5]，因此，图6中腐蚀速率随时间增加而降低。由于生物膜下金属表面局部pH值降低进而造成生物膜下的酸浸蚀[46]，在高氯离子的共同作用下，促进了小孔腐蚀的发生。因此，清洗腐蚀产物膜后，7天后金属表面部分区域明显较其他部位腐蚀严重，30d后金属表面可观察到明显的小孔腐蚀。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，以上模拟实验也证实了细菌腐蚀和垢下腐蚀是导致小孔腐蚀的主要原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/25fe37b424f2d53b09145dbe9a358acf303a75c8bd5b18f117dd25ccfcb58867.jpg",
+        "img_caption": [
+            "图 $6 2 5 \\mathrm { { ^ \\circ C } }$ ，5MPa条件下20#钢在污水管水样中腐蚀速率随时间的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Variation of corrosion rate with time for $2 0 \\#$ mild steel exposed to the wastewater at 5MPa and $2 5 \\mathrm { { ^ \\circ C } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/797800b222b0d49734420fc8e4dac8fcd95fc101e40148052e3cd5fe17960e3c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    }
+]

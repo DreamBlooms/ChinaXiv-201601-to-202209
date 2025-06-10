@@ -1,0 +1,126 @@
+临床研究
+
+# 胸腰段陈旧性压缩性骨折患者椎体变形与相邻椎间盘退变的相关性
+
+崔运能，李绍林,赵银霞，岑黄南方医科大学第三附属医院医学影像科,广东省骨科研究院，广东广州510630摘要：目的 探讨胸腰段陈旧性压缩性骨折患者椎体变形与相邻椎间盘退变的相关性。方法 回顾性分析2011年4月\~2014年5月到本院就诊陈旧性压缩性骨折并仅行保守治疗的患者资料,均行X线及MRI检查，共71名患者;在X线平片上利用Genant半定量标准评估受累椎体的形态学改变,在MR图像上观察受累椎体相邻头侧、尾侧椎间盘的形态、信号变化，并进行Oner及Pfirrmann分级评分;对受累的变形椎体,与相邻椎间盘的形态、信号改变进行相关性分析;并比较受累椎体相邻头侧、尾侧椎间盘的形态、信号改变。结果 椎体变形Genant分度与相邻头侧椎间盘的Oner形态学改变分度具有中等程度的相关性( $_ { \it r = 0 . 4 8 }$ ，$P { < } 0 . 0 1$ ),但与相邻头侧椎间盘的Pfirrmann分级、相邻尾侧椎间盘的Oner分度、Pfirrmann分级无明显相关性( $P { > } 0 . 0 5 )$ ，变形椎体相邻头侧的椎间盘Oner分度较相邻尾侧椎间盘高！ $( P { < } 0 . 0 1 \$ ),但两组椎间盘的Pfirrmann分级无明显差异 $( P { > } 0 . 0 5 ) \$ 。结论胸腰段椎体压缩性骨折主要影响相邻头侧椎间盘的形态,两者严重程度相一致，而相邻尾侧椎间盘不受影响。
+
+关键词：压缩性骨折；椎间盘退变；磁共振成像
+
+# Correlation of vertebral body deformity and adjacent disc degeneration in patients with old thoracolumbar compression fractures
+
+CUI Yunneng,LI Shaolin, ZHAO Yinxia,CENHuang   
+DepartmentofdiologyidAfliatedHspitalofoutheredicalUniersityAademyofOrthoedicsofuangdonronce   
+Guangzhou 510630, China
+
+Abstract: ObjectiveToassessthecorelationbetweevertebralbodydeformityanddegenerationoftheadjacentintervertebral discs in patients withold thoracolumbarcompresion fractures.Methods Seventy-one patients who had been conservatively treatedaftersinglesgmenttoracolumbarcompresionfracturesetweeApril,2011andMay2014wereenrolednthis study.Both radiographic and magnetic resonance (MR)images of the thoracolumbar segment were obtained.The involved vertebralbodydeformity wasratedonradiographyacording tothe Genantcriterion,andthedegenerationof theadjacent cephalicandcaudal discs wasassssedonMRimagesusingtheOnerandPfirmannclassficationschemes,respectively.The relationshipbetweenvertebral bodydeformityandadjacent discchanges wasassssed usingcorrelation analysis,and the changes intheadjacentcranialandcaudal discs was compared.Results The Genantclassification of the involved vertebral bodies was moderately correlated with Oner morphological scores $_ { ( r = 0 . 4 8 , }$ $P { \ < } 0 . 0 1 \rangle$ ),but not with the Pfirrmann signal scores of the adjacent cephalic discs or with the Genant or Pfirrmann scores of the adjacent caudal discs $( P { > } 0 . 0 5 )$ . The Oner classification of the adjacent cephalic discs was higher than that of the adjacent caudal discs $_ { ( P < 0 . 0 1 ) }$ ,but their Pfirrmann classification did notdifersignificantly.ConclusionThedeformityof vertebralbodyafects theadjacentcephalicdiscs proportionallybutnot the adjacent caudal discs.
+
+Key words: compression fracture; intervertebral disc degeneration; magnetic resonance imaging
+
+胸腰段骨折是临床上常见的脊柱疾患，椎体发生形态学改变的同时，常合并不同程度椎间盘损伤，导致椎间盘退行性改变[-2]。目前,国内外关于椎体骨折后椎间盘损伤影像学文献较多3-6,但严重程度的对应关系，尚缺乏系统的专门研究。本文回顾性分析在本院行X线及MRI检查的71例胸腰段压缩性骨折并经保守治疗的患者资料，研究椎体变形与相邻椎间盘退变的关系，进一步提高胸腰段骨折后椎间盘损伤的认识。
+
+# 1资料与方法
+
+1.1一般资料
+
+2011年4月\~2014年5月到本院就诊的患者71例，其中男性39例，女性32例，年龄 $5 5 . 7 6 { \scriptstyle \pm 8 . 7 6 }$ 岁，受伤时间 $2 2 . 5 4 { \pm } 1 2 . 3 2$ 月。根据其既往外伤史诊断为 $\mathrm { T } _ { 1 0 } \mathrm { - } \mathrm { L } _ { 2 }$ 单一节段椎体压缩性骨折。入选标准： $\textcircled{1}$ 年龄大于30岁，且小于70岁； $\textcircled{2}$ 有明确的外伤史，受伤时间 ${ \geqslant } 1 2$ 个月； $\textcircled{3}$ 行常规标准胸腰段X线及MRI检查，且X线检查与MRI检查时间间隔不大于2周。排除标准： $\textcircled{1}$ 椎体爆裂性骨折、多节段椎体骨折或病理性骨折; $\textcircled{2}$ 骨折后行内固定或骨水泥成形术； $\textcircled{3}$ 骨病或脊柱先天畸形。如患者有多次检查的影像资料，仅选取最后1次检查的图像进行分析。
+
+# 1.2 影像检查
+
+X线检查：采用PHILIPS公司VMDRX线机，拍摄条件为球管电压正位 $7 5 \mathrm { K V }$ /侧位 $8 5 \mathrm { K V }$ ，球管电流控制为内置自动曝光控制系统；检查采用站立体，X线球管与探测器间距 $1 0 0 \mathrm { c m }$ 。
+
+MRI检查：采用PHILIPS公司ACHIEVA1.5T全身磁共振扫描仪，使用体部正交线图，患者采取仰卧位平躺于检查床上，行胸腰段矢状位 $\mathrm { T } _ { 2 } \mathrm { W I } , \mathrm { T } _ { 1 } \mathrm { W I }$ 及轴位$\mathbf { T } _ { 2 } \mathbf { W } \mathbf { I }$ 扫描。具体参数为： $\mathrm { T } _ { 2 } \mathrm { W I }$ 矢状位： $\mathrm { T R } / \mathrm { T E } { = 2 7 5 0 } /$ $1 0 0 ~ \mathrm { { m s } }$ ，回波链长度：4，层厚： $4 \mathrm { m m }$ ，层间距： $0 . 4 \mathrm { m m }$ ，视野： $3 0 1 ~ \mathrm { m m }$ ,矩阵大小： $1 6 0 \times 2 1 8$ ，激励次数： $2 { : } \mathrm { T _ { 1 } W I }$ 矢状位：TR/TE $\mathrm { \dot { \Omega } } = 4 0 0 / 8 \mathrm { ~ m s }$ ，回波链长度：4，层厚： $4 ~ \mathrm { m m }$ ，层间距： $0 . 4 ~ \mathrm { m m }$ ，视野： $3 0 1 ~ \mathrm { m m }$ ,矩阵大小： $1 6 0 \times 2 1 8$ ，激励次数： $2 { : } \mathrm { T } _ { 2 } \mathrm { W I }$ 轴位： $\scriptstyle : \mathrm { T R } / \mathrm { T E } = 2 9 3 5 / 1 2 0 \ \mathrm { m s }$ ,回波链长度：4，层厚： $4 \mathrm { m m }$ ，层间距： $0 . 4 ~ \mathrm { m m }$ ,视野： $1 7 0 \mathrm { m m }$ ,矩阵大小： $2 8 4 \times 2 0 9$ ，激励次数：2。
+
+X线与MRI检查必须包括胸腰段受累椎体邻近的头、尾侧各2个椎间盘范围。检查结束后将采集的图像传输到PACS工作站上。
+
+# 1.3 分析方法
+
+对 $\mathrm { T } _ { 1 0 } \mathrm { - } \mathrm { L } _ { 2 }$ 节段压缩椎体的形态改变，及其相邻的头侧、尾侧椎间盘进行评估。
+
+X线资料：按Genant半定量法椎体形态分度标准[]，对椎体的变形进行分度，即：0度：正常椎体，无变形；0.5度：可疑变形椎体；I度，轻度压缩变形，其椎体前部、中部或后部之高度降低 $20 \% { \sim } 2 5 \%$ ，累及椎体的区域约$10 \% { \sim } 2 0 \%$ ；Ⅱ度，中度压缩变形，椎体的任意区域高度降低达 $2 5 \% { \sim } 4 0 \%$ ，累及椎体的区域约 $20 \% { \sim } 4 0 \%$ ;Ⅲ型，重度压缩变形，椎体的任意区域高度或累及区域达 $40 \%$ 或以上。为便于观察、分析，0.5度椎体改变不列入统计范围。
+
+MRI资料：参考Oner等8标准，对椎间盘进行形态学分型，将其分为6型(图1)。根据Pfirrmann椎间盘退变分级标准，把退变椎间盘分为5级(图2)。
+
+![](images/835919206ee246cc50f442338b990cfb3b616ff70571f1f6be868fe00eeb5e8c.jpg)  
+图1椎间盘Oner分型(图像经轻微修改)
+
+Fig.1 Oner classification of discon MRI.A: Type 1, normal or near normal disc; B:Type2,black disc with difuse decreased signal intensity on T2 weighted images,similarly to type 1 morphologically; C: Type 3, disc without significant abnormalities in heightand signal intensitybut with asmall herniationof the nucleus pulposus into the endplate, forming the Schmorl nodule; $D ;$ ：Type 4,anterior collapsed disc,with the anterior third nucleus pulposus herniating to the endplate,while the middle and posterior sections were spared;E:Type 5,central herniated disc,with massive nucleus pulposus herniating into the central endplate,resulting in height decrease of the anterior and posterior sections; the adjacent endplates bony contacted almost completely，and the signal intensity of nucleus pulposus was spared；F: Type $6 ,$ degenerated disc,with decrease of height and signal intensity in the allthree sections.
+
+![](images/e17db71ff9e64ded17ab4eb858d24712dcf703dc765a5e55910b25b1a1f4174f.jpg)  
+图2Pfirrmann腰椎间盘退变分级(图像经轻微修改)
+
+Fig.2PfirrmannclasificationoflumbardiscdegenerationonMRI.A:GadeIahomogeneouslystructured,brightdisc with normalheight; B:Grade I,an inhomogeneous-structured,brightdiscwithclear distinction between nucleus and anulus,the normal height,with or without horizontal gray or moderate signal intensity bands; C: Grade l,an inhomogeneous-structured,gray disc,with unclear distinction between nucleusand anulus,and normalor slightly decreased height; D: Grade $\mathrm { \Delta } \mathrm { \mathrm { ~ N ~ } }$ ,an inhomogeneous-structured, dark gray disc, with no disctinction between nucleus and annulus, but normal or moderately decreased height; E: Grade $\mathrm { \Delta V }$ ，an inhomogeneous-structured, black disc,with no distinction between nucleus and annulus,and collapse of the disc space.
+
+# 1.4 统计分析
+
+利用SPSS17.0软件进行统计学处理，通过秩相关对椎体变形及椎间盘退变进行相关性分析、通过Wilcoxon秩检验对比头侧与尾椎间盘的Oner分型及Pfirrmann评分差别;检验水准为 $P { < } 0 . 0 5 _ { \odot }$ 0
+
+# 2结果
+
+71名患者中，累及L椎体的为26个，占 $3 6 . 6 \%$ ，累及$\mathrm { T _ { 1 0 } } \mathrm { \cdot T _ { 1 1 } } \mathrm { \cdot T _ { 1 2 } } \mathrm { \cdot L } _ { 2 }$ 椎体的数量分别为7、9、17、12,分别占 $9 . 9 \%$ 、$1 2 . 7 \% . 2 3 . 9 \%$ 及 $1 6 . 9 \%$ 。受累椎体形态Genant分度、头侧、尾侧椎间盘的Pfirrmann评分、Oner分型见表1。
+
+表1受累椎体形态Genant分度、头侧、尾侧椎间盘的Pfirrmann评分、Oner分型 Tab.1GenantcriterionofinvolvedvertebralbodyamdPfirrmannandOnerclasificationofthecranialandthecaudal discs   
+
+<html><body><table><tr><td></td><td>1/I</td><td>2/II</td><td>3/III</td><td>4/IV</td><td>5/V</td><td>6</td></tr><tr><td>Genant criterion of vertebral body</td><td>37(52.1%)</td><td>22(31.0%)</td><td>12(16.9%)</td><td></td><td>-</td><td></td></tr><tr><td>Cranial disc Pfirrmann classification</td><td>2(2.8%)</td><td>20(28.2%)</td><td>31(43.7%)</td><td>13(18.3%)</td><td>5(7.0%)</td><td>-</td></tr><tr><td>Cranial disc Oner classification</td><td>6(8.5%)</td><td>8(11.3%)</td><td>25(35.2%)</td><td>24(33.8%)</td><td>6(8.5%)</td><td>2(2.8%)</td></tr><tr><td>Caudal disc Pfirrmann classification</td><td>2(2.8%)</td><td>19(26.8%)</td><td>41(57.7%)</td><td>8(11.3%)</td><td>1(1.4%)</td><td></td></tr><tr><td>Caudal disc Oner classification</td><td>41(57.7%)</td><td>21(29.6%)</td><td>6(8.5%)</td><td>2(2.8%)</td><td>1(1.4%)</td><td>0(0%)</td></tr></table></body></html>
+
+# 2.1变形椎体与相邻椎间盘的形态、信号关系
+
+变形椎体Genant分度与其头侧的椎间盘Oner的分型具有中等程度的相关性，相关系数 $\cdot - 0 . 4 8 ( P { < } 0 . 0 1 )$ ，与椎间盘的Pfirrmann评分无明显相关性 $\scriptstyle ( r = 0 . 0 9 , P =$ 0.46);与其尾侧的椎间盘的Oner的分型及Pfirrmann评分均无明显相关性(分别为 $P { = } 0 . 4 6 . P { = } 0 . 5 6 \$ 。典型表现如图3所示。
+
+# 2.2受累椎体头侧与尾侧椎间盘的比较
+
+受累椎体头侧椎间盘Oner的分型较尾侧椎间盘高，其差异具有统计学意义 $( P { < } 0 . 0 1 )$ ；但两者的Pfirrmann
+
+评分无明显差别 $scriptstyle \overbrace { P { = } 0 . 0 8 ) } ^ { }$ 。
+
+# 3讨论
+
+脊柱的胸腰段多定义为 $\mathrm { T } _ { 1 0 } \mathrm { - } \mathrm { L } _ { 2 }$ 节段[10-12],为胸椎后凸与腰椎前凸的结合处，是人体直立及运动时载荷力的集中区，此部分是外伤压缩性骨折与功能不全性骨折的好发区域, $\mathrm { L } _ { 1 }$ 椎体为最常见的部位[13],缘于 $\mathrm { L } _ { 1 }$ 椎体正处于胸腰段活动的力矩的支点，更容易受到损伤，损伤时常累及其相邻的椎间盘。
+
+在外力作用下，椎间盘髓核产生液压力，使纤维环
+
+![](images/3e3881d8409490be37b34f0ba407ef1986502e6a13b7c765d599981d2c252123.jpg)  
+图3变形椎体及相邻椎间盘
+
+Fig.3 Photographs of the involved vertebral body and its adjacent discs.Old thoracolumbar fracture in a 57-year-old woman,with a history of trauma 3 years ago.A:Lateral radiograph showing wedging deformation of $\mathrm { T _ { 1 1 } } ,$ with the appearance of Genant II grade;B: MR $\mathrm { T } _ { 2 } \mathrm { W I }$ sagittal image showing nucleus pulposus of the adjacent cranial disc herniating into the involved vertebral body,resulting in the Schmorl's nodule,e.g. the disc turning to Oner 5 and Pfirrmann IV grade;while the adjacent caudal disc remained relative normal.Note little differences of signal intensity between the adjacent cranial and caudal discs.
+
+外层纤维拉伸，导致终板中心承受压缩载荷，但与终板相比，椎间盘具有更高抵抗应力的载荷，故终板为椎体首先受累的结构。一旦椎间盘发生退变，髓核不能产生足够的液压，大部分压缩载荷传递到下一椎体周围，可致终板四周骨折。受损后的终板，尤其是软骨终板，终板内为椎间盘提供营养的血管组织受到破坏，无法继续通过弥散作用维持椎间盘的正常的营养供应；另一方面，终板骨折后，椎体的形态及内部结构发生改变，必然使椎体荷载力下降，而且受损的椎体与椎间盘关节连接对合不良。这两方面共同作用导致椎间盘的压力负荷性能下降,进一步加剧椎间盘的退变。急性、亚急性骨质疏松性骨折时，椎体发生变形、终板破坏，累及相邻椎间盘为常见的现象[。普遍认为椎间盘的退变与椎体终板-椎间盘复合体受损相关，尤其是终板受损，可能是诱导椎间盘退变的主要原因，这在椎间盘退变模型及压缩性骨折患者的追踪复查中得以证实[14-15]
+
+然而，椎间盘的退变，也可对椎体形态造成影响。椎间盘不仅在相邻椎体节段运动间充当重要角色，还在脊柱的轴向负荷的力量传递息息相关，故单纯的椎体间融合不仅使节段运动受限，还因缺乏椎间盘的力量轴向传递而出现邻近节段退变等现象。退变的椎间盘维持其轴向传递的能力下降，椎体的终板受力明显加剧，容易使椎体压缩变形[1。当患者年龄较大时,椎间盘退变较严重，椎体的本身强度亦呈下降趋势，故容易出现椎
+
+体的压缩性骨折。
+
+椎间盘退变与椎体的形态、结构具有密切的联系。Fazzalari等进行27具尸体标本研究，结果显示椎体骨松质在退变时变得硬化，弹性能力下降，故椎间盘的退变可能继发于椎体的物理性能改变；其他研究者亦发现,椎体的骨密度(BMD)越高,椎间盘的退变越严重[18];正常生理情况下，椎间盘与椎体的高度存在较强的对应关系[19]。但Fazzalari等[17]发现,退变过程中椎体的体积无明显变化，但椎体横断面面积与矢状面面积之比增高，其椎间盘退变亦加重，这表明，伴随椎间盘的退变，椎体高度会降低，这与Goh等2的报道相一致。与之类似， $\mathrm { D a i } ^ { [ 2 1 ] , }$ 认为，椎间盘退变的严重程度与其邻近的尾侧椎体相关，表现为尾侧椎体高度的明显降低。椎小关节的形态、运动异常加剧椎间盘的退变已为人所共知，最近的研究表明，棘突变长亦为椎间盘退变的常见伴随征象[22]。
+
+Oner等[8追踪63例有急性胸腰段骨折病史患者，观察时间24-51个月，发现椎体骨折后，相邻椎间盘的变化以形态改变为主，大部分椎间盘信号仍然保持不变，甚至部分爆裂性椎体骨折的椎间盘仍无明显信号改变。Moller等[23追踪观察有儿童期稳定性椎体骨折病史的患者达40年之久，认为无神经症状的椎体骨折并不改变邻近椎间盘的信号，但可导致相邻椎体终板许莫氏结节形成，即椎间盘变形。本研究结果显示，椎体压缩性骨折后，相邻的头侧椎间盘发生形态学改变，但主要反映椎间盘信号改变的Pfirrmann评分无明显增高，这与前述学者的研究结果类似。
+
+我们的研究表明，椎体的陈旧性压缩性骨折的受累椎体相邻头侧的椎间盘变形，而尾侧椎间盘基本不受影响，这可能是骨折时累及椎体的头侧明显较尾侧常见；且随着受累椎体变形的加剧，椎间盘形态改变亦趋于严重。最近的研究表明，终板的骨折导致椎间盘退变还与骨折的部位及患者的年龄有关，下腰段椎间盘可能并不受到终板骨折的影响[15]
+
+临床工作中，在处理功能不全性骨折时，多采用椎体重建术，以改善患者畸形及临床症状[2425]，在行手术时，也应该重视椎间盘病理改变，选择最优化的治疗方案，尽可能重建受累节段的椎间盘复合体功能，达到良好的预后效果。
+
+# 参考文献：
+
+[1]Ortiz AO,Bordia R.Injury to the vertebral endplate-disk complex associated with osteoporotic vertebral compression fractures [J]. AJNR Am J Neuroradiol,2011,32(1): 115-20.   
+[2]Jang JW,Lee JK, Seo BR,et al. Traumatic lumbar intradural disc rupture associated with an adjacent spinal compression fracture[J]. Spine (Phila Pa 1976),2010,35(15):E726-9.   
+[3］赵小丹,刘 浩,王小兵,等.胸腰椎爆裂骨折椎间盘影像改变的相关临 床应用研究[J].中国骨与关节损伤杂志,2009,24(1):22-5.   
+[4]周成洪,龙亨国,沈万祥,等.胸腰椎爆裂骨折伴椎间盘损伤形态学分 型的临床应用研究[J].中医正骨,2011,23(11):10-3.   
+[5]朱宗波,康建平,吴韬韬,等.A型胸腰段骨折椎体邻近椎间盘在磁共 振T2加权像上的影像学特点[J].中国脊柱脊髓杂志,2011,21(11): 900-4.   
+[6]Bu BX,Wang MJ,Liu WF,et al. Short-segment posterior instrumentation combined with calcium sulfate cement vertebroplasty for thoracolumbar compression fractures:Radiographic outcomes including nonunion and other complications［J].Orthop Traumatol Surg Res,2015,101(2): 227-33.   
+[7]Genant HK，Jergas M，Palermo L，et al．Comparison of semiquantitative visual and quantitative morphometric assessment of prevalent and incident vertebral fractures in osteoporosis The Study of Osteoporotic Fractures Research Group[J].JBone Miner Res,1996,11(7): 984-96.   
+[8]Oner FC,Van Der Rijt RR,Ramos LM,et al. Changes in the disc space after fractures of the thoracolumbar spine[J].J Bone Joint Surg Br,1998,80(5): 833-9.   
+[9]Pfirrmann CW,Metzdorf A, Zaneti M,et al. Magnetic resonance classification of lumbar intervertebral disc degeneration[J]. Spine (Phila Pa 1976),2001,26(17): 1873-8.   
+[10]Wahba GM,Bhatia N,Bui CN,et al. Biomechanical evaluation of short-segmentposteriorinstrumentationwithandwithout crosslinks in a human cadaveric unstable thoracolumbar burst fracture model[J]. Spine (Phila Pa 1976),2010,35(3): 278-85.   
+[11]Davis LA, Warren SA, Reid DC,et al. Incomplete neural deficits in thoracolumbar and lumbar spine fractures.Reliability of Frankel and Sunnybrook scales [J]. Spine (Phila Pa 1976)，1993,18(2): 257-63.   
+[12]Qiao J, Zhu Z, Zhu F,et al. Indication for preoperative MRI of neural axis abnormalities in patients with presumed thoracolumbar/ lumbar idiopathic scoliosis[J].Eur Spine J,2013,22(2): 360-6.   
+[13] Magerl F, Aebi M, Gertzbein SD,et al.A comprehensive classification of thoracic and lumbar injuries[J].Eur Spine J,1994,3(4): 184-201.   
+[14]Adams M,Dolan P.Vertebral fracture and intervertebral discs[J].J Bone Miner Res,2012,27(6): 1432;author reply 1433-4.   
+[15]Dolan P,Luo J,Pollintine P,et al.Intervertebral disc decompression following endplate damage implications for disc degeneration depend on spinal level and age[J]. Spine (Phila Pa 1976),2013,38 (17):1473-81.   
+[16]陈之青,陈其昕,李方财,等.腰椎间盘退变时椎体的形态变化及其临 床意义[J].中国脊柱脊髓杂志,2003,13(7):15-8.   
+[17]Fazzalari NL，Manthey B，Parkinson IH. Intervertebral disc disorganisation and its relationship to age adjusted vertebral body morphometry and vertebral bone architecture[J].Anat Rec,2001, 262(3): 331-9.   
+[18] Wang Y,Boyd SK,Battié MC,et al.Is greater lumbar vertebral BMD associated with more disk degeneration?A study using $\mu \mathrm { C T }$ and discography[J].JBone Miner Res,2011,26(11): 2785-91.   
+[19] Kunkel ME,Herkommer A,Reinehr MA,et al. Morphometric analysis of the relationships between intervertebral disc and vertebral body heights:an anatomical and radiographic study of the human thoracic spine[J]. JAnat,2011,219(3): 375-87.   
+[20]Goh S,Tan C,Price RI,et al.Influence of age and gender on thoracic vertebral body shape and disc degeneration:an Mr investigation of 169 cases[J]. JAnat,2000,197(Pt 4): 647-57.   
+[21] Dai L.The relationship between vertebral body deformity and disc degeneration in lumbar spine of the senile[J]. Eur Spine J,1998,7 (1): 40-4.   
+[22] Paholpak P,Wang Z, Sakakibara T,et al.An increase in height of spinous process is associated with decreased heights of intervertebral disc and vertebral body in the degenerative process of lumbar spine[J].Euro Spine J,2013,22(9): 2030-4.   
+[23]Moller A,Maly P,Besjakov J,et al.A vertebral fracture in childhood is not a risk factor for disc degeneration but for Schmorl's nodes:a mean 4O-year observational study [J].Spine (Phila Pa 1976),2007,32(22): 2487-92.   
+[24]黄刚,陈海云,刘卓勋,等.经皮椎体成形术与经皮椎体后凸成形术治 疗骨质疏松性椎体压缩性骨折[J].南方医科大学学报,2010,30(12): 2729-32.   
+[25]张树芳,江建明,朱青安,等.胸腰椎压缩性骨折模型中geneX骨水泥 椎体成形术的生物力学评价[J].南方医科大学学报,2012,32(6): 843-6 (编辑.旱锦雅）

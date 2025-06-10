@@ -1,0 +1,193 @@
+# 应用近红外光谱分析技术预测小麦肉鸭代谢能的研究
+
+于梦超 常雅琦　赵　华　陈小玲　田刚　刘光芒　蔡景义　贾　刚\*（四川农业大学动物营养研究所，成都611130）
+
+摘要：本试验旨在实测不同来源小麦的肉鸭表观代谢能（AME），并利用近红外光谱分析技术（NIRS）构建其预测模型。选用1周龄的樱桃谷肉鸭 410只，随机分为41个处理，每个处理 5个重复，每个重复2只肉鸭，各处理肉鸭分别饲喂玉米-豆粕型基础饲粮和40 种小麦替代饲粮（含$20 \%$ 小麦）。用套算法计算小麦的AME，然后利用 NIRS 建立小麦AME 的预测模型。结果表明，不同来源小麦的肉鸭 AME 为 $1 1 . 0 3 { \sim } 1 4 . 3 4 \mathrm { M J / k g }$ ，变异系数为 $5 . 5 8 \%$ ；小麦AME与粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）呈极显著负相关 $( P { < } 0 . 0 1 )$ ，与粗脂肪（EE）呈极显著正相关 $( P { < } 0 . 0 1$ ）。小麦AME 的预测模型的定标决定系数、定标标准差和交叉验证相对标准差分别为0.85、0.187MJ/kg 和 $1 . 7 0 \%$ ；外部验证决定系数、外部验证相对标准差和外部验证相对分析误差分别为0.89、 $1 . 4 6 \%$ 和 $3 . 2 3 \%$ 。由此可见，不同来源小麦肉鸭 AME 和化学成分含量存在差异，其AME 的变异与其化学成分相关，应用NIRS 预测小麦的肉鸭 AME 的结果“良好”。
+
+关键词：小麦；肉鸭；表观代谢能；近红外光谱分析技术；预测模型中图分类号：S834 文献标识码： 文章编号：
+
+小麦作为一种常用能量饲料受到家禽养殖行业越来越多的关注。关于小麦肉鸭表观代谢能（apparent metabolizable energy，AME）已有报道，但由于小麦品种、产地、储存方法等因素的影响，不同来源小麦的化学成分存在较大变异，这导致家禽的小麦 AME 也有较大差异[1-2]。因此，生产上用平均代谢能来配制饲粮，会影响配制的准确性和精准营养的实施。为了在生产中高效利用小麦资源，最好能准确评定每一种不同来源小麦的能值，以达到精准配制动物饲粮的目的。近红外光谱分析技术（near infrared reflectance spectroscopy，NIRS）因其快速方便（仅需 $2 ~ \mathrm { m i n }$ 左右）、无破损、无污染等优点已被广泛应用于动物饲料化学成分和有效能的快速预测[3-6]。使用 NIRS 快速预测小麦营养价值的研究主要集中在小麦常规养分上[7-8]，值得重视的是，Owens 等[9]建立了测定小麦总能的NIRS 预测模型，李军涛[10]建立了生长猪小麦总能、消化能和代谢能的 NIRS 预测模型，其中总能的 NIRS 预测模型定标良好，但消化能和代谢能的 NIRS 预测模型仅可用于样品的粗略筛选与分级。目前尚无小麦的肉鸭 AME 的NIRS预测模型的文献报道。因此，本试验拟测定不同来源小麦的肉鸭 AME，并利用 NIRS 建立AME 的预测模型，为快速准确评定小麦肉鸭 AME提供参考。
+
+# 1材料与方法
+
+# 1.1样品收集与制备
+
+根据我国小麦产地区域分布和《小麦》（GB1351—2008）中容重为分级指标，收集河南、山东、河北、山西、陕西、四川、安徽、江苏、湖北、宁夏、江西、浙江等地区来源的40 种小麦。每种小麦均采用"四分法"采样，使用高速粉碎机粉碎后过40目筛（ $0 . 4 2 \mathrm { m m }$ ），保存于-20℃冰箱备用。
+
+# 1.2 试验设计及方法
+
+选用410只体重为（ $6 7 . 4 3 { \scriptstyle \pm 1 . 6 6 }$ ）g的1周龄樱桃谷肉鸭，随机分为41个处理，每个处理5个重复，每个重复2只肉鸭，分别饲喂基础饲粮（玉米-豆粕型）和40种小麦替代饲粮（含 $20 \%$ 小麦），采用全收粪法测定饲粮 AME。在代谢笼下放置收粪盘，盘上铺干净的塑料布，每次收集的排泄物称重后，按照每 $1 0 0 \ \mathrm { g }$ 鲜样中加入 $10 \%$ 稀盐酸 $1 0 \mathrm { m L }$ 进行固氮，每天收集2次，共收集7d。将每天收集排泄物样品置于 ${ } _ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 冰箱中保存备用，试验期结束后将排泄物样品以重复为单位混合均匀，置于 $6 5 ^ { \circ } \mathrm { C } ;$ 烘箱薄层摊开烘干，回潮 $2 4 \mathrm { h }$ 恒重，粉碎过40目筛，装袋以备分析使用。
+
+# 1.3 饲粮配方
+
+参照我国《肉鸭饲养标准》（NY/T 2122-2012）配制基础饲粮和试验饲粮，基础饲粮为玉米-豆粕型饲粮；试验饲粮用 $20 \%$ 的小麦替代基础饲粮中部分玉米和豆粕，矿物质和维生素的添加水平保持不变。
+
+# 表1 试验饲粮组成及营养水平(风干基础)
+
+Table 1Composition and nutrient levels of experimental diets(air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td colspan="2">含量Content</td></tr><tr><td>原料Ingredients</td><td>基础饲粮 Based diet</td><td>试验饲粮 Experimental diet</td></tr><tr><td>玉米Corn</td><td>59.970</td><td>43.100</td></tr><tr><td>小麦Wheat</td><td></td><td>20.000</td></tr><tr><td>豆粕 Soybean meal</td><td>35.300</td><td>32.170</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆油 Soybean oil</td><td>1.200</td><td>1.200</td></tr><tr><td>碳酸钙 CaCO</td><td>0.700</td><td>0.700</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.700</td><td>1.700</td></tr><tr><td>氯化钠 NaCl</td><td>0.330</td><td>0.330</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.150</td><td>0.150</td></tr><tr><td>预混维生素 Premixed vitamins1)</td><td>0.080</td><td>0.080</td></tr><tr><td>预混矿物质 Premixed minerals1)</td><td>0.250</td><td>0.250</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.170</td><td>0.170</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.045</td><td>0.045</td></tr><tr><td>色氨酸Try</td><td>0.020</td><td>0.020</td></tr><tr><td>苏氨酸Thr</td><td>0.085</td><td>0.085</td></tr><tr><td>合计 Total</td><td>100.000</td><td>100.000</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.11</td><td>12.18</td></tr><tr><td>粗蛋白质 CP</td><td>20.50</td><td>20.58</td></tr><tr><td>钙Ca</td><td>0.79</td><td>0.81</td></tr><tr><td>磷P</td><td>0.69</td><td>0.70</td></tr><tr><td>赖氨酸Lys</td><td>1.03</td><td>0.97</td></tr><tr><td>蛋氨酸Met</td><td>0.46</td><td>0.46</td></tr><tr><td>色氨酸Trp</td><td>0.24</td><td>0.24</td></tr><tr><td>苏氨酸Thr</td><td>0.77</td><td>0.73</td></tr><tr><td>半胱氨酸Cys</td><td>0.77</td><td>0.76</td></tr></table></body></html>
+
+1’预混维生素和预混矿物质为每千克饲粮提供 The premixed vitamins and premixed mineralsprovided the following per kg of diets: VA 4 O00 IU, $\mathrm { V B } _ { 1 } 2 . 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 2 }$ 10 mg VD32 000 IU,VE 20 IU,$\mathrm { V K } _ { 3 } 2 . 0 \mathrm { m g }$ ，泛酸 pantonthenic acid $2 0 \mathrm { m g }$ ，烟酸niacin $5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，叶酸folacin $1 . 0 \mathrm { m g }$ ，生物素 biotin $0 . 1 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 0 0 0 \mathrm { m g }$ ，Fe（as ferrous sulfate）$6 0 \mathrm { m g }$ ，Cu（as copper sulfate） $8 . 0 \mathrm { m g }$ ，Mn（as manganese sulfate） $1 0 0 ~ \mathrm { { m g } }$ ，Zn(as zinc sulfate）$6 0 \mathrm { m g }$ ， Se（as sodium selenite） $0 . 3 0 \mathrm { m g }$ ，I（as potassium iodide） $0 . 4 0 \mathrm { m g }$ 。
+
+2）营养水平为计算值。Nutrient levels were calculated values.
+
+# 1.4 饲养管理
+
+试验在四川农业大学动物营养研究所教学科研试验基地进行，试验前按照常规程序对圈舍消毒，肉鸭以重复为单位笼养于代谢笼（ $1 \mathrm { m } { \times } 1 \mathrm { m } { \times } 1 \mathrm { m }$ ）中，每天饲喂3次（08：00、13：00、18:00）。试验过程中肉鸭自由采食、自由饮水，室温控制在（ $2 8 { \pm } 2$ ） $^ { \circ } \mathrm { C }$ ，相对湿度保持在 $60 \%$ \~$65 \%$ 。
+
+# 1.5 测定指标及方法
+
+小麦的干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、粗纤维（CF）、中性洗涤纤维（NDF）、酸性洗涤纤维（ADF）含量的测定分别参照GB/T6435—2014、GB/T6432—1994、GB/T6433——2006、GB/T6434—2006、GB/T 20806—2006、NY/T1459—2007推荐的方法进行；测定各试验组肉鸭的平均日采食量（ADFI）、平均日增重（ADG）和料重比（F/G）；饲料样品和排泄物总能采用氧弹式热量计（Parr 6400 calorimeter,Moline,IL,USA）进行测定。
+
+饲粮AME $\mathbf { \nabla } \cdot \mathbf { M J } / \mathbf { k g } ) \ =$ （采食饲料总能一排泄物总能）/采食量。
+
+套算法计算小麦AME的公式如下：小麦 $\scriptstyle \mathrm { A M E = } [$ 试验饲粮 $\operatorname { A M E } { - } ( 1 0 0 { - } X ) ^ { \times }$ 基础饲粮AME]/X。式中： $X$ 为小麦替代比例 $( \% )$ ，本试验中为 $20 \%$ 。
+
+# 1.6小麦NIRS预测模型的构建
+
+# 1.6.1小麦近红外光谱的扫描
+
+采用 BRUKER公司的MPA型傅立叶变换近红外光谱仪扫描小麦样品，仪器工作参数设定为：谱区范围 $4 ~ 0 0 0 { \sim } 1 2 ~ 5 0 0 ~ \mathrm { c m ^ { - 1 } }$ ；分辨率 $8 ~ \mathrm { { c m } ^ { - 1 } }$ ；扫描次数64次。室内扫描温度 $2 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，扫描前样品置于室温平衡 $2 4 \mathrm { h }$ 以上，每个样品重复装样扫描3次。
+
+# 1.6.2AME 的NIRS预测模型的定标和验证
+
+以40个样品的AME 为参比值，按照3:1的比例随机分成定标集（ $\scriptstyle \cdot n _ { 1 } = 3 0$ ）和验证集 $\scriptstyle ( n _ { 2 } = 1 0 )$ ），分别用于定标模型的建立和外部验证。采用BRUKER公司OPUS/QUENTS5.5商用光谱定量分析软件采集小麦原始光谱，将小麦的 AME 实测值与光谱数据相关联，采用偏最小二乘回归（PLS）建立定标模型，并通过内部交叉检验，运用交互留一验证对模型的预测效果进行评定。以交互验证标准差（RMSECV）为指标，确定最佳主成分维数、光谱区间和光谱预处理方法，建立校正模型。采用验证集对模型进行外部验证。
+
+以决定系数 $( R ^ { 2 }$ ）、标准差（SD）、相对标准差（RSD）和相对分析误差（RPD）衡量NIRS定标模型的优劣，各指标计算公式如下：
+
+式中： $n$ 为样品数； $\boldsymbol { y } _ { i }$ 为第 $\mathrm { ~ i ~ }$ 个样品的预测值； $\widehat { \mathcal { Y } } _ { \imath }$ 为第i个样品的实测值； $y _ { m }$ 为样本实测值的平均值， $R ^ { 2 }$ 接近 $100 \%$ 表示预测值接近实测值。
+
+定标标准差 $\begin{array} { r } { \mathrm { S E C } = \sqrt { \sum _ { i = 1 } ^ { n } ( y _ { i } - \widehat { y _ { i } } ) ^ { 2 } } / n - p - 1 ; } \end{array}$ （20
+
+交叉验证标准差 $\begin{array} { r } { \mathrm { { : } } \mathrm { S E P } = \sqrt { \sum _ { i = 1 } ^ { n } ( y _ { i } - \widehat { y _ { i } } ) ^ { 2 } } / n - 1 } \end{array}$
+
+外部验证标准差 $\begin{array} { r } { \mathrm { { 5 E C V } } = \sqrt { \sum _ { i = 1 } ^ { n } ( y _ { i } - \widehat { y _ { i } } ) ^ { 2 } } / n } \end{array}$ 号
+
+式中： $n$ 为样本数； $\mathbf { y } _ { i }$ 为第 $\mathrm { ~ i ~ }$ 个样品的参考值； $\widehat { \mathcal { Y } } _ { \imath }$ 为第 $\mathrm { ~ i ~ }$ 个样品的预测值； $p$ 为波长数或主成分维数。
+
+相对标准差 $( \% ) =$ 标准差 $\mathrm { \mathit { y } } _ { m } \times 1 0 0 \%$
+
+相对分析误差 $( \% ) = 1 0 0 \times$ 标准差/验证集均方根误差。
+
+式中： $y _ { m }$ 为所有样本实测值的平均值。
+
+相对标准差反映模型对总体的预测效果，值越小越好；相对分析误差判断模型预测能力，值越大越好。
+
+1.7 数据统计与分析
+
+试验结果以“平均值 $\pm$ 标准差”表示，采用SPSS22.0软件分析AME与化学成分之间的相关性；AME 实测值与NIRS预测模型的预测值进行配对 $t$ 检验， $P { < } 0 . 0 5$ 表示差异显著。
+
+# 2结果与分析
+
+2.1不同来源小麦化学成分含量及其肉鸭 AME
+
+本试验中，40种小麦样品的化学成分含量见表2，肉鸭生长性能和不同饲粮、小麦的 AME见表3，小麦AME与其化学成分之间的相关系数见表4。由表可见，小麦NDF、ADF、EE 和粗灰分平均含量分别为（ $9 . 5 6 { \pm } 1 . 1 0 \$ ） $0 \%$ 、 $\it { 2 . 5 8 \pm 0 . 6 9 }$ ） $0 \%$ 、（ $1 . 9 0 { \scriptstyle \pm 0 . 2 5 }$ ） $9 \%$ 和（ $1 . 7 6 { \scriptstyle \pm 0 . 3 1 }$ ） $9 \%$ ，其变异系数均大于 $10 \%$ ，具有较大的差异。套算法得到小麦的肉鸭 AME 为 $1 1 . 0 3 { \sim } 1 4 . 3 4 \mathrm { M J / k g }$ ，平均值为（ $1 3 . 1 5 { \scriptstyle \pm 0 . 7 0 } \$ ） $\bf { M J / k g }$ 。通过相关分析发现，樱桃谷肉鸭小麦的 AME 与CF、NDF 和 ADF含量呈极显著负相关（ $\scriptstyle \cdot - 0 . 0 1$ ），与EE含量呈极显著正相关（ $\cdot P { < } 0 . 0 1$ ），表明小麦AME与其化学成分有关。
+
+表240种小麦样品的化学成分含量和物理特性（干物质基础）
+
+Table 2Chemical composition content and physical characteristic of 40 kinds of wheat (DM basis)   
+
+<html><body><table><tr><td>项目</td><td>平均值±标准差</td><td>变异系数</td><td>最小值</td><td>最大值</td></tr><tr><td>Items</td><td>Mean±SD</td><td>CV</td><td>Minimum value</td><td>Maximum value</td></tr><tr><td colspan="3">化学成分含量 Chemical composition content/%</td><td></td><td></td></tr><tr><td>水分Water</td><td>12.02±0.89</td><td>7.42</td><td>9.93</td><td>13.89</td></tr><tr><td>粗脂肪 EE</td><td>1.90±0.25</td><td>12.90</td><td>1.31</td><td>2.32</td></tr><tr><td>粗蛋白质 CP</td><td>14.45±1.09</td><td>7.56</td><td>10.66</td><td>16.16</td></tr><tr><td>粗纤维 CF</td><td>3.07±0.27</td><td>8.76</td><td>2.65</td><td>3.73</td></tr><tr><td>粗灰分 Ash</td><td>1.76±0.31</td><td>17.55</td><td>1.31</td><td>3.29</td></tr><tr><td>中性洗涤纤维NDF</td><td>9.56±1.10</td><td>11.54</td><td>6.80</td><td>12.15</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>2.58±0.69</td><td>15.54</td><td>1.69</td><td>3.92</td></tr><tr><td>物理特性 Physical characteristic</td><td></td><td></td><td></td><td></td></tr><tr><td>容重Bulk density/（g/L）</td><td>775.30±38.39</td><td>4.95</td><td>660.40</td><td>863.00</td></tr></table></body></html>
+
+Table 3The growth performance of meat ducks and AME of different diets and wheat   
+表4小麦AME与其化学成分之间的相关系数  
+
+<html><body><table><tr><td>项目</td><td>平均值±标准差</td><td>变异系</td><td>最小值</td><td>最大值</td></tr><tr><td>Items</td><td>Mean±SD</td><td>数</td><td>Minimum</td><td>Maximum</td></tr><tr><td></td><td></td><td>CV</td><td>value</td><td>value</td></tr><tr><td>平均日采食量 ADFI/(g/d)</td><td>65.68±5.63</td><td>4.30</td><td>58.4</td><td>75.76</td></tr><tr><td>平均日增重 ADG/(g/d)</td><td>44.48±2.67</td><td>3.00</td><td>40.08</td><td>50.40</td></tr><tr><td>料重比F/G</td><td>1.52±0.04</td><td>8.58</td><td>1.46</td><td>1.64</td></tr><tr><td>基础饲粮表观代谢能 AMEof basal diet/(MJ/kg)</td><td>13.65±0.18</td><td>1.33</td><td>13.49</td><td>13.99</td></tr><tr><td>试验饲粮表观代谢能 AME of experimental diet/(MJ/kg)</td><td>13.69±0.35</td><td>1.71</td><td>13.02</td><td>14.09</td></tr><tr><td>小麦表观代谢能 AME of wheat/(MJ/kg)</td><td>13.15±0.70</td><td>5.58</td><td>11.03</td><td>14.34</td></tr></table></body></html>
+
+表3肉鸭生长性能和不同饲粮、小麦的 AME  
+Table 4Correlation coefficient between AME and chemical composition of wheat   
+
+<html><body><table><tr><td>项目</td><td>表观代谢能</td><td>粗蛋白质</td><td>粗纤维</td><td>中性洗涤</td><td>酸性洗涤纤</td><td>粗脂肪</td><td>容重</td></tr><tr><td>Items</td><td>AME</td><td>CP</td><td>CF</td><td>纤维</td><td>维</td><td>EE</td><td>Bulk density</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td>NDF</td><td>ADF</td><td></td><td></td></tr><tr><td colspan="7">表观代谢能</td></tr><tr><td>1</td><td></td><td>-0.467**</td><td>-0.757**</td><td>-0.540**</td><td>0.530**</td><td></td></tr><tr><td>AME</td><td>0.090</td><td></td><td></td><td></td><td></td><td>0.199</td></tr></table></body></html>
+
+\*\*表示极显著相关（ $_ { \scriptstyle P < 0 . 0 1 }$ ）。
+
+\*\* mean significant correlation( $_ { . P < 0 . 0 1 } )$ ）：
+
+2.2 樱桃谷肉鸭小麦AME的NIRS预测模型的构建
+
+不同小麦的NIRS 的扫描光谱图如图1和图2所示，其中横坐标为波数（ $\mathrm { c m ^ { - 1 } }$ ），纵坐标为吸光度（ $\mathrm { \ l g { R ^ { - 1 } } }$ ）。从图1中可以看出，不同小麦的光谱分布具有一定的差异。从图2中可以看出，小麦的特征峰比较明显，结合光谱图1和平均光谱图2可以得出，40种小麦的光谱的大致趋势相同而最大吸收峰处高低有所不同，表明样品成分的相似性而成分含量多少有所不同，表明样品具有很好的代表性。
+
+![](images/9c5be9bcb97bbd1609073dab227a265088900d49db80fc03e5c8aaf44340d2c6.jpg)  
+图1小麦NIRS的扫描光谱图
+
+![](images/26b5d3b0aaac9647d66db977565f5d7c8b6b6dbdd2902309c814ad981b15ebec.jpg)  
+图2小麦NIRS的平均扫描光谱图  
+Fig.1NIRS absorption spectrogram of wheat   
+Fig.2Average NIRS absorption spectrogram of wheat
+
+采用软件的自动优化功能确定最佳的光谱分析区为 $7 5 0 2 . 1 { \sim } 4 5 9 7 . 7 { \mathrm { c m } } ^ { - 1 }$ ，光谱预处理方法为一阶导数 $+$ 矢量归一法，主成分维数为5维数，采用软件自带的偏最小二乘回归建立校正模型，运用交互留一验证，结合建模条件，构建出不同来源小麦对樱桃谷肉鸭 AME的NIRS 预测模型，相关参数见表5。小麦AME 定标决定系数（ $\cdot R ^ { 2 } \mathrm { c a l } )$ ）为0.85，定标标准差（RMSEE）为 $0 . 1 8 7 \mathrm { M J / k g }$ 交叉验证决定系数 $( R ^ { 2 } { \tt c v }$ ）为0.73，交叉验证相对标准差（RSDcv）为 $1 . 7 0 \%$ ，交叉验证相对分析误差（RPDcv）为 $2 . 2 4 \%$ ，表明NIRS预测模型拟合效果很好；外部验证决定系数（ $R ^ { 2 } \mathbf { V } .$ ）、外部验证相对标准差（RSDv）和外部验证相对分析误差（RPDv）分别为0.89、 $1 . 4 6 \%$ 和 $3 . 2 3 \%$ ，表明NIRS 预测模型预测能力良好。
+
+Table 5Calibration, Coss-validation and External validation statistics of NIRS   
+
+<html><body><table><tr><td></td><td>决定系数</td><td>标准差</td><td>相对标准差</td><td>相对分析误差</td></tr><tr><td>项目Items</td><td>R²</td><td>SD/(MJ/kg)</td><td>RSD/%</td><td>RPD/%</td></tr><tr><td>定标Calibration</td><td>0.85</td><td>0.187</td><td></td><td></td></tr><tr><td>交叉验证 Crossvalidation</td><td>0.73</td><td>0.221</td><td>1.70</td><td>2.24</td></tr><tr><td>外部验证 External verification</td><td>0.89</td><td>0.189</td><td>1.46</td><td>3.23</td></tr></table></body></html>
+
+由表6可见，对AME实测值与NIRS预测值进行配对 $t$ 检验，结果显示其均未达到显著水平中 $\cdot P { > } 0 . 0 5 \$ ），说明预测值与实测值差异不显著，可以用于樱桃谷肉鸭小麦AME 的快速检测。
+
+表5NIRS定标、交互验证和外部验证参数结果  
+表6AME 实测值与NIRS预测值配对t检验  
+Table 6 The measured value of AME and paired-samples t test for NIRS predicted valueMJ/kg   
+
+<html><body><table><tr><td rowspan="2">模型 Models</td><td>实测平均值</td><td>平均预测值</td><td>P值</td></tr><tr><td>Mean measured value</td><td>Mean predicted value</td><td>P-value</td></tr><tr><td>N1</td><td>13.15±0.41</td><td>13.16±0.36</td><td>0.91</td></tr><tr><td>N2</td><td>12.81±0.61</td><td>12.89±0.63</td><td>0.72</td></tr></table></body></html>
+
+3讨论
+
+本试验发现，不同来源小麦的化学成分和肉鸭 AME 存在较大差异，相关分析表明 AME 的高低与小麦化学成分含量有关，本试验测得不同地区的40种小麦样品各化学成分含量存在较大差异，其中 NDF 和 ADF 含量分别为 $6 . 8 0 \% \sim 1 2 . 1 5 \%$ 和 $1 . 6 9 \% { \sim } 3 . 9 2 \%$ ，与小麦的 AME 呈极显著负相关，表明了不同地区小麦的 NDF 和ADF 含量有所不同，且影响其营养成分的利用价值。这与Ball 等[1的研究结果一致，说明不同地区和品种影响小麦的化学成分组成，且影响肉鸡对小麦基础饲粮的利用效率。 $\mathrm { \ K i m }$ 等[]收集不同地区和不同收获时间的18种小麦，测得小麦样品CP 的含量为 $9 . 8 \% \sim 1 9 . 1 \%$ ，平均值为 $1 3 . 4 \%$ ； NDF 和 ADF 含量分别为 $1 2 . 9 9 \% \sim 1 8 . 9 3 \%$ 和 $2 . 9 9 \% { \sim } 4 . 4 2 \%$ 。Zijlstra 等[12]收集16种小麦，CP和CF的含量分别为 $1 3 . 0 \% { \sim } 1 8 . 1 \%$ 和 $2 . 6 \% { \sim } 4 . 1 \%$ ，NDF 和 ADF的含量分别为 $1 2 . 9 \% { \sim } 2 5 . 0 \%$ 和 $3 . 1 \% { \sim } 5 . 1 \%$ ，且小麦的生长猪消化能与其CF、NDF 和 ADF含量呈显著负相关。Zhao 等[13]研究发现,对樱桃谷肉鸭而言,玉米的 AME、氮校正表观代谢能(AMEn)、真代谢能（TME）和氮校正真代谢能（TMEn）与CF、NDF 和ADF 含量呈显著负相关。Wan 等[14]研究小麦加工副产物在樱桃谷肉鸭上的 TME，结果表明CF、NDF 和ADF 含量与 TME 呈显著负相关，其中 NDF 含量与TME 的相关系数最高。本研究结果表明，小麦对肉鸭的 AME 平均值为（ $. 1 3 . 1 5 { \scriptstyle \pm 0 . 7 0 }$ ） $\mathbf { M J } / \mathbf { k g }$ ，低于我国《肉鸭饲养标准》（NY/T2122-2012）中小麦的AME，低于King等[15]测定北京鸭小麦AME 的 $1 3 . 6 4 \mathrm { M J / k g }$ ，但高于樊红平等[1]测定北京Z系公鸭小麦AME的12.62MJ/kg。这可能与试验小麦选取样品、试验选用的肉鸭品种及所处的生理阶段和代谢能评定方法的不同有关。虽然也可以用这些方法来估计饲料的代谢能值，但耗时相对较长（ $2 4 \mathrm { h }$ 以上），还不能满足生产的需要。因此，能否应用NIRS 快速预测饲料样品的有效能值成为目前研究的一个重点。
+
+建立和评价近红外数学模型的优劣性主要从2个方面进行，一是近红外数学模型自身相关性能及测量偏差；二是近红外数学模型实际分析预测能力（模型稳健性、可靠性及动态适应性）[10]。在建立定标模型的过程中，样品集的数量和参比值含量范围，对模型的建立起着关键性的作用，因此样品的代表性和AME 的准确性直接影响近红数学外模型预测的精确性，对模型的建立起着关键性的作用。本试验样品根据全国小麦产地的区域分布和《小麦》（GB1351-2008）的小麦容重分级为定等指标，采集的40种小麦包含了全国小麦的主要产区和不同容重等级，从表2可以看出本试验40种小麦样品测定的各化学成分有较大的变化范围，同时从图1可以看出本试验的40种小麦光谱的大致趋势相同，光谱存在多个吸收峰，而每个吸收峰处高低不同，表明小麦样品具有较好的代表性；而采用全收粪法测定AME 也是基于动物营养学的传统代谢试验，方法稳妥，结果可靠。
+
+饲料样品有机物中含有C-H、O-H、N-H和 S-H等含氢基团的成分，这些成分含量的不同影响其近红外吸收峰的大小，各个样品之间的光谱不完全重合，根据光谱间的差异可判断样品的化学成分含量的变化，AME 由饲料各常规营养成分含量相互作用决定，所以其光谱信息更复杂[17],这是 NIRS可用于饲料 AME 分析的重要基础。Losada 等@采用 NIRS 法对公鸡饲料的氮校正表观代谢能进行评定，研究结果表明NIRS 法可用于饲料代谢能的评定。Deaville 等[18]用小麦和大麦样品建立了绵羊代谢能的 NIRS 预测模型，可以用于日常分析。Haba 等[19]研究近红外定标模型时认为，相对标准差在 $1 . 1 \% { \sim } 2 . 0 \%$ 、 $2 . 1 \% { \sim } 3 . 0 \%$ 、 $3 . 1 \% { \sim } 4 . 0 \%$ 和 $4 . 1 \% \sim 5 . 0 \%$ 时，定标模型分别取得了“非常好”、“很好”、“好”和“普通”的不同结果；而当相对标准差大于 $5 \%$ 时，定标效果不理想。本试验交叉验证相对标准差和外部验证相对标准差分别为 $1 . 7 0 \%$ 和 $1 . 4 6 \%$ ，小麦AME 的NIRS 预测模型取得了“很好”的效果，能够用于饲料分析和预测。外部验证相对分析误差是衡量定标模型预测能力的重要参数，当外部验证相对分析误差 $: \geq 3 . 0 \%$ 时，定标模型的预测能力良好，可以对未知样品进行精确地预测；当外部验证相对分析误差为 $2 . 0 \% { \sim } 3 . 0 \%$ 时，定标模型具有较好的预测能力，可以用于样品的粗略筛选；当时外部验证相对分析误差 ${ \leq } 2 . 0 \%$ 时，定标模型的预测能力较差，实际预测能力不理想[20]。本试验小麦肉鸭AME 外部验证相对标准差为 $3 . 2 3 \%$ ，取得“良好”的预测效果。以上研究表明，本试验定标模型的预测能力良好，运用 NIRS 能够准确预测小麦AME，用于实际检测是可行的。
+
+# 4结论
+
+不同来源小麦化学成分和肉鸭 AME 存在差异，小麦的肉鸭 AME 与其化学组成成分有关，应用 NIRS 可以“很好”地建立小麦的肉鸭AME预测模型，并取得“良好”的预测效果。参考文献:
+
+[1]BALL M E E,OWENS B,MCCRACKEN K J.The effect of variety and growing conditions on the chemical composition and nutritive value of wheat for broilers[J].Asian-Australasian Journal of Animal Sciences,2013,26(3):378-385.
+
+[2]MCCRACKEN K J,PRESTON C M,BUTLER C.Effects of wheat variety and specific weight on dietary apparent metabolisable energy concentration and performance of broiler chicks[J].British Poultry Science,2002,43(2):253-260.
+
+[3] ZHOU L J,ZHANG L Y,ZHANG E X,et al.Rapid determination of swine available energy and amino acids in corndistillersdriedgrainswithsolublesbynear-infraredreflectance spectroscopy[J].Animal Feed Science and Technology,2012,175(3/4):198-202.
+
+[4]XICCATO G,TROCINO A,CARAZZOLO A,et al.Nutritive evaluation and ingredient prediction of compound feeds for rabbits by near-infrared reflectance spectroscopy (NIRS)[J].Animal Feed Science and Technol0gy,1999,77(3/4):201-212.
+
+[5]COZZOLINO D,FASSIO A,FERNANDEZ E,et al.Measurement of chemical composition in wet whole maize silage by visible and near infrared reflectance spectroscopy[J].Animal Feed Science and Technol0gy,2006,129(3/4):329-336.
+
+[6]LOSADA B,GARCIA-REBOLLAR P,ALVAREZ C,et al.The prediction of apparent metabolisable energy content of oil seeds and oil seed by-products for poultry from its chemical components,in vitro analysis or near-infrared reflectance spectroscopy[J].Animal Feed Science and Technol0gy,2010,160(1/2):62-72.
+
+[7]ADESOGANA A T,OWENA E,GIVENSB D I.Prediction of the in vivo digestibility of whole crop wheat from in vitro digestibility,chemical composition,in situ rumen degradability,in vitro gas productionand near infraredreflectancespectroscopy[J].AnimalFeed Scienceand Technol0gy,1998,74(3):259-272.
+
+[8] 赖立群.基于近红外光谱的小麦品质参数快速检测[D].硕士学位论文.杭州:中国计量学院,2015. [9] OWENS B,MCCANN M E E,MCCRACKEN K J,et al.Prediction of wheat chemical and physical characteristicsand nutritive value by near-infrared reflectance spectroscopy[J].British Poultry Science,2009,50(1):103-122.
+
+[10]李军涛.近红外反射光谱快速评定玉米和小麦营养价值的研究[D].博士学位论文.北京:中国农业大学,2014.
+
+[11] KIM J C,MULLAN B P,SIMMINS P H,et al.Variation in the chemical composition of wheats grown in Western Australia asinfluenced by variety,growing region,season,and post-harvest storage[J].Australian Journal of Agricultural Research,2003,54(6):541-550.
+
+[12] ZIJLSTRA R T,DE LANGE C F M,PATIENCE J F.Nutritional value of wheat for growing pigs:chemicalcompositionanddigestible energy content[J].CanadianJournalofAnimal Science,1999,79(2):187-194.
+
+[13]ZHAO F,ZHANG H F,HOU S S,et al.Predicting metabolizable energy of normal corn from its chemical composition in adult Pekin ducks[J].Poultry Science,2008,87(8):1603-1608.
+
+[14] WAN H F,CHEN W,QI Z L,et al.Prediction of true metabolizable energy from chemical composition of wheat miling by-products for ducks[J].Poultry Science,2009,88(1):92-97.
+
+[15]KING D,RAGLAND D,ADEOLA O.Apparent and true metabolizable energy values of feedstuffs for ducks[J].Poultry Science,1997,76(10):1418-1423.
+
+[16]樊红平,侯水生,郑旭阳,等.鸡鸭对饲料能量利用的比较研究[J].中国畜牧杂志,2006,42(19):30-32.
+
+[17]李玉鹏,年芳,李爱科,等.近红外反射光谱技术评定棉籽粕营养价值和蛋公鸡代谢能[J].动物营养学报,2016,28(7):2013-2023.
+
+[18]DEAVILLE E R,HUMPHRIES D J,GIVENS D I.Whole crop cereals[J].Animal Feed Science and Technology,2009,149(1/2):114-124.
+
+[19] HABA M J,GARRIDO-VARO A,GUERRERO-GINEL J E,et al.Near-infrared reflectance spectroscopy for predicting amino acids content in intact processed animal proteins[J].Journal of Agricultural and Food Chemistry,2006,54(20):7703-7709.
+
+[20] CHEN G L,ZHANG B,WU J G,et al.Nondestructive assessment of amino acid composition in rapeseed meal based on intact seeds by near-infrared reflectance spectroscopy[J].Animal Feed Science and Technology,2011,165(1/2):111-119.
+
+Study on Estimating Metabolizable Energy of Wheat for Meat Ducks by Near Infrared Reflectance Spectroscopy
+
+YU Mengchao CHANG Yaqi ZHAO Hua CHEN Xiaoling TIAN Gang LIU Guangmang CAI Jingyi JIA Gang\* (Institute of Animal Nutrition, Sichuan Agricultural University, Chengdu 611130, China)
+
+Abstract: This study was conducted to measured the apparent metabolizable energy（AME） of wheat for meat ducks and establish the AME predictive models of wheat by using the near infrared reflectance spectroscopy (NIRS). A total 410 one-week-old Cherry Valley meat ducks were randomly assigned to 41 treatments with 5 replicates per treatment and 2 ducks per replicate, meat ducks in the 41 treatments were fed the corn-soybean meal base diet and 40 kinds of wheat substitute diet (contained $20 \%$ wheat), respectively. The AME of wheat were measured by the substitution method,and the prediction model of wheat AME was established by NIRS.The results showed that the AME of wheat for meat ducks ranged from 11.03 to $1 4 . 3 4 ~ \mathrm { M J / k g }$ ，and the coefficient of variation was $5 . 5 8 \%$ . The AME of wheat was significant negative correlated with crude fiber (CF),neutral detergent fiber (NDF) and acid detergent fiber (ADF) $( P { < } 0 . 0 1 )$ , however, the AME of wheat was significant positive correlated with ether extract (EE) $( P { < } 0 . 0 1 )$ . The coefficients of determination of calibration, standard deviation of calibration and relative standard deviation of cross-validation for prediction model of AME of wheat were O.85, 0.187 $\bf { M J / k g }$ and $1 . 7 0 \%$ ； the coefficients of determination of external validation,relative standard deviation of external validation and ratio of performance to deviation of external validation were 0.89, $1 . 4 6 \%$ and $3 . 2 3 \%$ . These results indicate that the chemical composition contents and AME are varied among different sources wheat.The AME of wheat is correlated with its chemical composition and it has a good predictive performance of wheat AME byNIRS prediction.
+
+Key words: wheat; meat ducks; apparent metabolizable energy; near infrared reflectance spectroscopy; prediction model =

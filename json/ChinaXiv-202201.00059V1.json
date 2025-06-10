@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "Reappraisal of the largest ctenochasmatid Moganopterus zhuiana Lü et al., 2012 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Dian-Song JIANG Shun-Xing2,3\\* XULi' CHENG Xin4,s YANG Li-Lil JIA Song-Hail WANG Xiao-Lin2.3,.6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1 Henan Natural History Museum Zhengzhou 450016,China)   \n(2KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,Chinese Academy of Sciences Beijing 10oo44,China)   \n(3CASCenterfor ExcellenceinLife andPaleoenvironment Beijinglooo44,China   \n\\* corresponding author: jiangshunxing@ivpp.ac.cn)   \n(4 LaboratoriodePaleontologia da URCA,UniversidadeRegional do Cariri Crato 631o0-0oo,Brazil)   \n(5College of Earth Sciences,Jilin University Changchun 13o061,China)   \n(6 CollegeofEarth andPlanetary Sciences,UniversityofChineseAcademyofSciencesBeijing 1Oo049,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Moganopterus zhuiana Lü et al.20l2 was erected as a member of the Boreopteridae, which was questioned by different researchers shortly after the publication.Although the new assignment to the Ctenochasmatidae is widely accepted by pterosaur researchers,some characteristics still require a detailed description.Here,the holotype of this taxon is restudied, and some ambiguous characteristics are re-identified.The diagnosis of this taxon has been revised as the following: a large ctenochasmatid pterosaur,which can be distinguished from other members of this clade by a single autapomorphy: an elongated rod-like parietal crest that extends posterodorsally,forming an angle of about $1 5 ^ { \\circ }$ with the ventral margin of the skull. This taxon can be further distinguished from other ctenochasmatids on the basis of the follwing combination of characteristics: straight occlusal surfaces of the upper and low jaws; presence of a low premaxillary crest confined anterior to the nasoantorbital fenestra; rostrum about two thirds of the skull length; nasoantorbital fenestra occupying slightly more than $20 \\%$ of the skull length;about 100 slender teeth; and a mid-cervical length/width ratio of about 7.The wingspan of M. zhuiana has been re-estimated according to a simple regression equation for wingspan versus skull length in ctenochasmatids.It confirms that M. zhuiana,although smaller than previous thought, is still the largest known ctenochasmatid.When comparing the sizes of ctenochasmatids in the Jurassic and Cretaceous,ctenochasmatids showed a rough tendency to increase their sizes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key WordsLiaoning,Jiufotang Formation,Moganopterus zhuiana,largest ctenochasmatid ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Gao D S,Jiang S X,Xu L et al.,in press.Reappraisal of the largest ctenochasmatid Moganopterus zhuiana Lü et al.,2Ol2.Vertebrata PalAsiatica. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moganopterus zhuiana is the toothed pterosaur with the longest skull from the Early Cretaceous Jehol Biota,being represented to date only by its holotype (HGM 41HIII0419),which is housed at the Henan Natural History Museum (previously called as Henan Geological Museum) (Lu et al.,20l2). This specimen was collected from Xiaosanjiazi Village, Lamadong Town, Jianchang County, Liaoning Province, China, and the horizon was assigned to the Yixian Formation (Lü et al., 2012). It was, however, later reassigned to the Jiufotang Formation (Jiang et al., 2014, 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moganopterus zhuiana was first described as a member of the family Boreopteridae, and the new sub-family Moganopterinae was erected including M. zhuiana and Feilongus youngi (Lu et al.,2012).This assignment was questioned by different researchers shortly after its publication (Jiang and Wang, 2013;Witton, 2013). Jiang and Wang (2013) excluded $M .$ （204号 zhuiana from the Boreopteridae,and Witton (2O13) further proposed that M. zhuiana would be a ctenochasmatoid (similar to archaeopterodactyloid sensu Kellner, 2003) with six typical features of this clade.Next, the following three phylogenetic analyses including this taxon confirmed the polyphyly of the Boreopteridae as conceived by Lü et al. (2012) (Andres et al., 2014; Jiang et al., 2014; Vidovic and Martill, 2017). The hypothesis that M. zhuiana is a ctenochasmatid, first proposed by Andres et al. (2014),was accepted by most of the later researchers concerning this taxon (Brougham et al.,2017; Alarc6n-Munoz et al.,2020; McPhee et al.,2O2O).Despite their differences,it was confirmed that M. zhuiana and $F .$ youngi were members of the Ctenochasmatoidea or Archaeopterodactyloidea, either forming sister groups (Andres et al., 2014; Vidovic and Martill,2017) or having a close evolutionary relationship (Jiang et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The holotype of M. zhuiana consists of almost complete upper and lower jaws and four cervical vertebrae, preserved on two slabs as part and counterpart (slabs A,B). The cranial elements were evenly separated on both slabs with slight crushing,which makes it difficult to observe the surface of most elements.Based on these new observations, we provide a detailed osteological description and modify the diagnosis of M. zhuiana, as well as estimate the wingspans of M. zhuiana and most other ctenochasmatids. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Institutional abbreviationsBSP, Bayerische Staatssammlung fur Paläontologie und Geologie,Munich,Germany; GIE, Geologisches Institut der Universität Erlangen, Germany; HGM, Henan Natural History Museum (Henan Geological Museum), China; HM, Hami Museum, China; MBH,Museum Bergér,Harthof bei Eichstatt Germany; MMSD, Musée Municipal de St-Dizier, Germany; PMZ,Paläontologisches Insititut und Museum der Universitat Zürich, Germany; PVL, Instituto Miguel Lillo, Universidad Nacional de Tucuman, San Miguel de Tucuman, Argentina; SMNS, Staatliches Museum fir Naturkunde Stuttgart, Germany; SoS, Jura-Museum (Solnhofen-Sammlung),Eichstatt, Germany. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Description and comparison ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SkullThe skull is low and extremely elongated in lateral view (Fig.1). The dorsal margin of the skull(excluding the premaxillry crest) is nearly straight, varying with some archaeopterodactyloids, such as Gegepterus (Wang et al.,2007), Ctenochasma (Fabre,1976), and Pterodaustro (Chiappe et al., 20oo). The orbit in this specimen is incomplete (Figs. 2,3), and the opening identified as the orbit in the previous literature probably actually corresponds to the lacrimal fenestra (Lü et al.,2Ol2). Hence, the orbit is much larger than previous thought, and its shape is an oblique elliptical,with an estimated long axis of about $4 5 . 8 ~ \\mathrm { m m }$ The naris and antorbital fenestra are confluent forming a nasoantorbital fenestra, whose shape was thought to be rectangular (Lü et al.,2O12). This abnormal shape,however, is a result of the taphonomic dorsal crushing of the right jugal (Figs.2, 3). The maximal height of the reconstructed nasoantorbital fenestra is about $3 1 . 0 \\ \\mathrm { m m }$ ，which is much deeper than previous thought ( $\\mathrm { 1 7 ~ m m }$ (Lü et al.,2012). The lower temporal fenestra is almost complete,and it is an elongated piriform with an estimated length of about $4 9 . 6 \\ \\mathrm { m m }$ . The rostral part of the skull is extremely elongated,occupying about two thirds of the skull length (Table 1). Its rostral index (sensu Martill and Naish, 2006) and rostral value (sensu Kellner, 2017) are 0.077 and 23.32,respectively,which is similar to some other ctenochasmatids, such as Gegepterus, Ctenochasma elegans SMNS 81803,and Ctenochasma taqueti MMSD 75-1671 (Welnhofer, 1970; Wang et al., 2007; Bennett, 2021). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Premaxilla The premaxilla is quite elongated, and it extends until close to the posterior margin of the orbit, but the exact limit is difcult to determine. There is a low premaxillary sagittal crest confined to the anterior part of the premaxilla.It starts close to the 6th alveolus, and its preserved length is of $8 2 . 5 3 ~ \\mathrm { m m }$ on slab A,but it possibly extends slightly posteriorly (Fig. 4). Although the surface of the crest is unknown,its dorsal margin is straited, indicating that a soft extension could have been present when the pterosaur was alive.A similar crest was also reported in Feilongus, Gegepterus,and Huanhepterus,which also starts at the anterior region of the rostrum and ends anterior to the anterior margin of nasoantorbital fenestra (Dong, 1982;Wang et al.,20o5,2007).The crest of Huanhepterus,however, is not as low as that of $M _ { ☉ }$ zhuiana (Dong,1982). Gnathosaurus subulatus and Ctenochasma elegans SMNS 81803 also have a low crest, whose extension differs from that of M. zhuiana (Wellnhofer,1970; Bennett, 2021). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa0817af9b7b6909ea51ec944690fd1c148cd93f50fa2c30ff7671f39b8f9899.jpg",
+        "img_caption": [
+            "Fig.1 Photographs and reconstruction of the holotype of Moganopterus zhuiana (HGM41HIl-0419) from Jianchang, Liaoning A.slabA;B.slab B; C.the reconstruction of the upper and lower jaws "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a80de3f550d041f0f9a69ac97f3bba56fe0b540849d64599cf0ba85b69d27c8a.jpg",
+        "table_caption": [
+            "Table1Measurements of cranial elements of Moganopterus zhuiana (HGM 41HIIl-0419) from Jianchang,Liaoning (mm) "
+        ],
+        "table_footnote": [
+            "'Estimated value;\\* preserved value. "
+        ],
+        "table_body": "<html><body><table><tr><td>Elements</td><td>values</td></tr><tr><td>skull length (pm-sq)</td><td>740.36</td></tr><tr><td>skull height</td><td>66.58</td></tr><tr><td>rostral length</td><td>497.49</td></tr><tr><td>rostral height (at the anterior margin of nasoantorbital fenestra)</td><td>38.37</td></tr><tr><td>nasoantorbital fenestra tip height to the ventral margin of skull</td><td>21.33</td></tr><tr><td>nasoantorbital fenestra length</td><td>165.77</td></tr><tr><td>nasoantorbital fenestra height</td><td>31.00*</td></tr><tr><td>parietal crest length</td><td>177.92**</td></tr><tr><td>upper tooth raw length</td><td>211.42</td></tr><tr><td>mandibular length</td><td>685.18</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d18e66c3e2624203e9f49b64d96975d92ed57450cf9eac7925db2d099780f61.jpg",
+        "img_caption": [
+            "Fig.2 Close-up of the posterior part of the upper and lower jaws of Moganopterus zhuiana (HGM 41HIII-0419) from Jianchang, Liaoning A.slab A; B.slab B (inverted);Aand B can be superposed with left and top alignments "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Maxilla The maxilla is an elongated element that forms the ventrolateral part of the skull.The posterior extension of this bone is limited, forming about $40 \\%$ of the ventral margin of the nasoantorbital fenestra length. The suture between the premaxilla and maxilla is clear, except for the anterior portion (Fig. 4).Most of the maxilla, especially its posterior part, is smooth in both slabs,which differs from the condition of the premaxilla. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cbc6c2da7959768a73ebdd06cf08c384282a2da8d274e4a2aeb107c3cdf364e.jpg",
+        "img_caption": [
+            "Fig.3Line drawings and reconstruction of the posterior part of the upper and lower jaws of Moganopterus zhuiana (HGM 41HIIl-0419,the same region as that in Fig.2) from Jianchang,Liaoning A.slab A; B.slab B (inverted); C.the reconstruction based on the superposed line drawings of A and B Abbreviations: art.articular; at.atlas; ax.axis; bs.basisphenoid; cv3.the third cervical vertebra; d.dentary; dep.depression; ex. exoccipital; f. frontal; fola.lacrimal foramen; j. jugal; la.lacrimal; 1.left; ltf. lower temporal fenestra; na. nasal; naof. nasoantorbital fenestra; oc.occipital condyle; op. opisthotic; orb.orbit; p. parietal; pcr. parietal crest; pm. premaxilla; po. postorbital; prf. prefrontal; pty. pterygoid; q. quadrate; qj. quadratojugal; r. right; rapr. retroarticular process; sq. squamosal "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nasal The nasal is preserved on slab B,as along with a smal fragment on slab A, is the right one in medial view. The left nasal is probably stillcovered by matrix in slab A.The nasal is a tri-radiated bone.Its posterior process is unclear, while its anterior process is long and slender $( 4 6 . 6 9 ~ \\mathrm { m m } )$ ， corresponding to $2 8 . 2 \\%$ of the nasoantorbital fenestra length, differing from a roughly half-length found in Gegepterus (Wang et al., 2Oo7). The nasal descending process is thick,and almost perpendicular to the ventral margin of the nasoantorbital fenestra. This process was previously thought to contact the right jugal (Lü et al.,2012), which actually was caused by the dorsal crushing of the right jugal. The nasal descending process ( $1 5 . 9 3 ~ \\mathrm { m m }$ deep) extends more than half of the estimated height of the nasoantorbital fenestra.There is no foramen on the nasal including its descending process,and only an elliptical depression can be observed in medial view, similar to what was previously reported for Feilongus (Wang et al., 2005). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Frontal and prefrontal Poor preservation prevents a precise delimitation of both frontal and prefrontal in both slabs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Parietal The parietal is not well exposed,and the suture with frontal is obliterated. The parietals should form the medial wall of the upper temporal fenestra. It has an elongated rodlike parietal crest, which forms an acute angle with the ventral margin of the skull.The crest is incomplete with having a preserved length of $1 7 7 . 9 2 \\ \\mathrm { m m }$ . The dorsal and ventral margins are straight and almost parallel.The shape of the crest is unique among ctenochasmatids and even within archaeopterodactyloids,but similar to some Pteranodon specimens (Bennett, 2001). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/606958399811ebe99796cdb9abb759828e7f18f89d489bea5754f663cd405f17.jpg",
+        "img_caption": [
+            "Fig.4 Close-up of the anterior part of the upper and lower jaws of Moganopterus zhuiana (HGM 41HIIl-0419) from Jianchang, Liaoning A. slab A; B.slab B (inverted); Aand B can be superposed with left and top alignments The white,red,and blue arrows indicate the suture between premaxillaand maxilla,the preserved alveoli, and estimated alveoli, respectively "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Squamosal The squamosal articulates with the posterior surface of the quadrate. It also contacts the postorbital, forming the posterodorsal margin of the lower temporal fenestra.The squamosal is ventrally expanded, extending below the base of the lacrimal process of the jugal, which is a typical feature of archaeopterodactyloids (Kellner, 2Oo3). It also has an otic process, reported in many Cretaceous pterosaurs (Vidovic and Martill, 2O17), such as Pteranodon (Bennet,20o1),Anhanguera (Kellner and Tomida,2000),and Ikrandraco (Wang et al.,2014). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LacrimalThe lacrimal is a triangular bone,and it is poorly preserved in the holotype (Figs.2,3). The right lacrimal is overlapped by the right jugal, and only a small part of the bone is exposed. There is a foramen in the same position of the lacrimal in both slabs, indicating that it could be the lacrimal foramen with an expanded breakage. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Postorbital The right postorbital can be observed in slab B with a dorsal crushing. The postorbital has an elongated and tapering anteroventral process, also reported in Gegepterus (Wang et al., 2Oo7), but different from what is observed in some other ctenochasmatids such as Ctenochasma (Wellnhofer,1970).The posterior part of the postorbital cannot be delimited. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "JugalThe right jugal is exposed in both slabs,and it has been dorsally crushed as a taphonomic artifact. The jugal is a tri-radiated bone with maxillary,lacrimal,and postorbital processes.The maxillary process is elongated ( $1 0 0 . 6 9 ~ \\mathrm { m m } )$ , forming more than $60 \\%$ of the ventral margin of the nasoantorbital fenestra.The lacrimal process inclines slightly anteriorly, with a wide base.The lacrimal and maxillary processes form a nearly right and round corner, which represents the posteroventral corner of the nasoantorbital fenestra. The postorbital process tapers posteriorly,and it contacts the anterior process of postorbital in slab B.They form the posteroventral margin of the orbit and the anterodorsal margin of the lower temporal fenestra. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Quadrate and quadratojugal Both quadrates are preserved in the right and left slabs. The left quadrate is almost in its anatomical position,but the right one was dorsally crushed. The quadrate is a long element.The condyle can be observed in the anterior end of each quadrate,demonstrating that those bones have helical articulation surface. The left quadrate is well articulated with the left articular of the mandible,forming a $1 5 2 ^ { \\circ }$ angle with the ventral margin of the upper jaw, which is similar to what is observed in most archaeopterodactyloids (Wang et al., 2007; Jiang et al.,2016). The right quadratojugal is exposed on slab A. It is a V-shaped element, and the longer and shorter processes are fused with the jugal and quadrate, respectively. The suture with the quadrate and most of the suture with the jugal are obliterated, while the upper part of the suture with the jugal is visible (Fig. 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Palatal region The outline of a partial pterygoid can be observed in both slabs,but the limit of this element is hard to detected. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Occipital region Due to the dorsal crushing of posterior part of the skull, some elements of the occipital region are exposed (Figs.2,3). The occipital condyle is preserved in both slabs. The left exoccipital and opisthotic are fused together with an expanded paroccipital process. The crushed region posterior to the orbit might be part of the right occipital region,although no elements can be detected in this condition. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mandible No sutures or limits between mandibular elements can be detected,as is also the case of the mandibular symphysis.The outline of the retroarticular process is visible on slab A,demonstrating to be elongated as in some other ctenochasmatids, such as Gegepterus (Jiang and Wang,2O1la) and Pterofiltrus (Jiang and Wang,2011b). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Dentition The teeth of the upper and lower jaws are slender, with the longest one being of about $3 2 ~ \\mathrm { m m }$ in length (Fig. 4). The teeth are slightly curved, with a smooth surface. Most of the teeth are anteriorly projected,as is visible through the anterior inclination of most alveoli. The total tooth number was previously estimated to be about 62, which was based on the number of preserved teeth and an appraisal of successive distances between alveoli (Lü et al.,20l2). Our observation under the microscope, however, revealed that about 100 teeth were present (Fig.4). On slab B,the second to sixth alveoli are clear,and they are inclined anteriorly. At least one additional alveolus was probably present anterior to these five,as the anterior tip of the upper jaw is missing. In the middle part of the tooth row,the alveoli are exposed as anterior-inclined tubes,and the seventh and tenth alveoli are indicated by the distance between successive ones.The 2Oth to 26th alveoli are well exposed,and the 25th can be observed in slab B.Some teeth are preserved posterior to the 26th alveolus,indicating more alveoli may exist. Hence,there are at least 26 teeth in each side of the upper jaw. The tooth number of the lower jaw is hard to estimate, with the exposure of the middle part of tooth row. Generally, the tooth number of the lower jaw is slightly less than or equal to that of the upper jaw.As such, the total tooth number is estimated at about 1O0, much more than that estimated in previous literature (Li et al., 2012). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cervical vertebraeFour cervical vertebrae are preserved. The atlas is incomplete, which is indicated by the position of its preserved irregular shape (Figs.2,3). The axis is also incomplete,and its posterior part is preserved on slab B.The preserved vertebra is short, and the indicated neural spine is high (Figs.2,3).The third and fourth cervical vertebrae are extremely elongated, especially the fourth one (Fig.5; Table 2), which is a typical character of archaeopterodactyloids and azhdarchids (Kellner et al., 2O19). Due to the preservation, only the outlines of the cervical vertebrae can be distinguished. The postexapophyses of the fourth cervical vertebra are wel-developed. These structures are only present in pterodactyloids and some derived non-pterodactyloids (Bennett, 1994). The neural spine of the third cervical vertebra is hard to distinguish in mediolateral view, indicating that its height is extremely low in M. zhuiana. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae6a91547d8b8a809ac250223b868c3d9779f72c5cea5146c84cf06580db6c6b.jpg",
+        "img_caption": [
+            "Fig.5 Close-up of the third and fourth cervical vertebrae on slab Aof Moganopterus zhuiana (HGM 41HIII-0419) from Jianchang, Liaoning Abbreviations: cv3.the third cervical vertebra; cv4.the fourth cervical vertebra; poex. postexapophysis; poz. postzygapophysis; prz. prezygapophysis "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/29a64e9589b4834521ec781e313373ea7980e77ecd274469a57b253cd8911b4b.jpg",
+        "table_caption": [
+            "Table 2The measurements of cervical vertebrae of Moganopterus zhuiana (HGM41HIIl-0419) from Jianchang,Liaoning (mm) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Length (prz-poz)</td><td>Mid-width</td></tr><tr><td>Cervical 3</td><td>92.81</td><td>20.45</td></tr><tr><td>Cervical 4</td><td>142.89</td><td>21.04</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Moganopterus can be assigned to the Monofenestrata due to the presence of a confluent nasoantorbital fenestra. It can be further attributed to the Ctenochasmatidae based on the following characters: a low and elongated skull; extremely elongated rostrum; more than 100 slender teeth; and elongated mid-cervical vertebrae (Kellner, 2003; Unwin,2003; Andres et al., 2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lü et al. (2012) established Moganopterus and proposed the following diagnosis [with numbering of characters added]: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“Large sized pterosaur bearing the following characters: [1] both the upper and lower jaws much elongated with straight ventral margins,[2] at least 62 long,slender, curved upper and lower jaw teeth with sharp tips; [3] rectangular nasoantorbital fenestra occupies $22 \\%$ of the upper jaw length; [4] the long, narrow blade-like parietal crest extends posterodorsally,forming an angle of 15 degrees with the ventral margin of the skull,[5] the ratio of length to width of cervical vertebra greater than 5:1,and [6] the ratio of skull length (excluding the parietal crest) to height about 11.5:1.\" ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Among the Ctenochasmatidae, the holotype of M. zhuiana has the largest upper and lower jaws.The character [1] includes two independent aspects of the upper and lower jaws,which should be separated. The first aspect is that the upper and lower jaws are elongated, similar to character [6]. Based on our reconstruction of the skull (Fig.1C), its length/height ratio is 11.1, fallng inside the range expected for ctenochasmatids (Andres et al.,2O14; Zhou et al.,2017). Hence the first aspect and character [6] should be a synapomorphy of this family and excluded from the diagnosis. The other aspect of character[1] is straight ventral margins of the upper and lower jaws,which actually should be the occlusal margins of the upper and lower jaw straight according to their description (Lü et al.,2Ol2). In this respect, M. zhuiana is similar to that of most ctenochasmatids,but differing,for instance,from Gegepterus and Pterodaustro (Chiappe et al.,2000; Wang et al., 2007). Slender teeth (character [2]) are a typical feature of ctenochasmatids,and the tooth number is not 62, but rather about 1O0, which is what was reported for Huanhepterus,Gnathosaurus,Plataleorhynchus,and Pterofiltrus (Dong,1982; Howse and Milner,1995; Jiang and Wang, 2011b). The shape of the nasoantorbital fenestra (character [3]) is a taphonomic artifact,and the reconstructed shape is similar to that seen in other ctenochasmatids.The length ratio between the nasoantorbital fenestra and the skull is $2 2 . 4 \\%$ ，falling between the values of Pterodaustro and Liaodactylus $( 1 0 \\% - 3 1 \\% )$ (Chiappe et al., 2000; Zhou et al., 2O17). Character [4] is unique among all ctenochasmatids. Character [5] is a typical character of ctenochasmatids and azhdarchids (Kellner et al.,2O19),but the cervical vertebrae length/width ratio is 7 for M. zhuiana,which is close to the values of Gnathosaurus macrurus and Huanhepterus (Seeley, 1875; Dong, 1982),but much larger than what is observed in other members of this clade (Andres et al.,2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the revised diagnosis of M. zhuiana is as following: a large ctenochasmatid pterosaur,which can be distinguished from other members of this clade by a single autapomorphy: an elongated rod-like parietal crest that extends posterodorsally, forming an angle of about $1 5 ^ { \\circ }$ with the ventral margin of the skull. This taxon can be further distinguished from other ctenochasmatids on the basis of the following combination of characteristics: straight occlusal surfaces of the upper and low jaws; presence of a low premaxillary crest confined anterior to the nasoantorbital fenestra; a rostrum about two thirds of the skul length; nasoantorbital fenestra occupying slightly more than $20 \\%$ of the skull length; about 100 slender teeth; and a mid-cervical length/width ratio of about 7. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The holotype of Moganopterus zhuiana is the largest toothed pterosaur skull from the Jehol Biota. Lu et al. (20l2) first proposed an estimated wingspan of more than $7 ~ \\mathrm { m }$ ；Witton (2013) estimated a smaller wingspan of $4 . 2 \\mathrm { ~ m ~ }$ . In order to establish the wingspan of the holotype of M. zhuiana,length measurements of published ctenochasmatids (Wellnhofer, 1970, 1978; Jiang et al., 2O16) were used to calculate a simple regression equation for the wingspan versus skull length (Table 3),and the assignment of Ctenochasma specimens follows Bennett (2007). Two types of wingspans are present in pterosaur researches: the differences are a result of either excluding or including the length of the carpus and coracoid,also known as normal and maximized wingspan, respectively (Bennett, 20o1; Kellner et al., 2013). Here, the normal wingspan is used. The regression analysis was carried out in Microsoft Excel. The linear regression equation is below,and the correlation coeffcient (R2) is 0.9959. ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { W i n g s p a n } } = 4 . 5 2 9 \\times { \\mathrm { s k u l l } } + 1 0 2 . 8 6 { \\mathrm { ( m m ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The wingspan of the holotype of $M .$ zhuiana is here established as being about $3 . 5 \\mathrm { ~ m ~ }$ （204号 $( 3 4 5 5 . 9 5 ~ \\mathrm { m m } )$ . This estimated wingspan is smaller than half of the wingspan proposed by Lü et al. (2012),as well as smaller than the estimation of Witton (2013), confirming that its size is smaller than previous thought. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Moganopterus was recovered from the Jiufotang Formation, and only ctenochasmatid Forfexopterus was discovered in the same horizon.The holotype of Forfexopterus is a subadult with a wingspan of about $2 . 4 ~ \\mathrm { m }$ ，suggesting a larger wingspan in the adult (Jiang et al.,2016),however an adult specimen with a wingspan of about $1 . 8 \\mathrm { ~ m ~ }$ was reported recently (Zhou et al., 2O2O). The phenomenon that an adult individual was smaller than a subadult one could be interpreted as developmental variation (Zhou et al.,2O2O). Aside from these two ctenochasmatids from the upper part of the Jehol Group,most ctenochasmatids were from the Yixian Formation which is the middle part of this group (Wu et al., 2O17),the largest one being Elanodactylus prolatus.The holotype of the later, interpreted as an adult, has a wingspan of $2 . 5 \\mathrm { ~ m ~ }$ (Andres and Ji, 2Oo8),and another adult assigned to this species has a wingspan of $1 . 7 \\mathrm { m }$ (Zhou,201O).Most other ctenochasmatids are juveniles or subadults with a wingspan of around $0 . 8 \\mathrm { - } 1 . 2 \\mathrm { m }$ (Ji and Ji, 1997; Li, 2003; Lü et al.,2006; Wang et al., 2007). The ctenochasmatid Huanhepterus from the Early Cretaceous Huanhehuachi Formation is at least a subadult, as can be inferred from its fused sacrum (Kellner, 2015),and its wingspan is about $2 . 0 \\mathrm { ~ m ~ }$ (Dong,1982). Another Lower Cretaceous ctenochasmatid Pterodaustro guinazui has the largest recorded wingspan of about $2 . 5 \\mathrm { ~ m ~ }$ (Chinsamy et al.,2008).Plataleorhynchus streptophorodon only preserved cranial elements and, has an estimated skull length of nearly $4 0 0 \\ \\mathrm { m m }$ from the Berriasian Purbeck Limestone Formation (Howse and Milner, 1995). According to the regression equation, this implies a wingspan of about $1 . 9 \\mathrm { ~ m ~ }$ for these taxa. Compared with the large-sized Cretaceous ctenochasmatids,the Jurassc taxa are apparently smaller. The largest preserved skeleton of Ctenochasma elegans comes from the Late Jurassic Solnhofen Limestone,with a wingspan of less than $0 . 7 ~ \\mathrm { m }$ (Bennett, 2007). The largest skulls of Ctenochasma are close to $0 . 3 \\mathrm { ~ m ~ }$ (Bennett, 2007),with an estimated wingspan of about $1 . 5 \\mathrm { ~ m ~ }$ .The holotype of Gnathosaurus subulatus has a similar skull length to the largest Ctenochasma elegans skull(Wellnhofer,1970).The earliest ctenochasmatid Liaodactylus has a skull measuring $1 3 3 ~ \\mathrm { m m }$ (Zhou et al.,2017).According to its description, some elements were fused, such as the atlas-axis and frontal-parietal (Zhou et al.,2Ol7),indicating that this specimen could be at least a subadult individual (Kellner and Tomida, 20oo; Kellner, 2015). Hence,Liaodactylus could have had a wingspan of more than $0 . 7 { \\mathrm { m } }$ when it reached the adult stage.In brief,ctenochasmatids had a rough tendency to increase their sizes from the Jurassic to the Cretaceous (Fig. 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(mm) ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccbbbe34e2429bfd0e470a9413b0b97a4ac40f8918a62f998e7e11032191806a.jpg",
+        "table_caption": [
+            "Table 3 Skull length and wingspans of ctenochasmatids "
+        ],
+        "table_footnote": [
+            "\\* Estimated value in previous literature. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>skull</td><td>wingspan</td><td>sources</td></tr><tr><td>Ctenochasma elegans BSP1875.XIV.501</td><td>33</td><td>243.2</td><td>Wellnhofer, 1970</td></tr><tr><td>Ctenochasma elegans BSP 1867.II.1</td><td>33.5</td><td>228.2</td><td>Wellnhofer, 1970</td></tr><tr><td>Ctenochasma elegans (No.47)</td><td>34</td><td>246</td><td>Wellnhofer, 1970</td></tr><tr><td>Ctenochasma elegans PMZ A/III100</td><td>39</td><td>271.6</td><td>Wellnhofer,1970</td></tr><tr><td>Ctenochasma elegans (No.49)</td><td>42</td><td>272.2</td><td>Wellnhofer, 1970</td></tr><tr><td>Ctenochasma elegans SoS 4007</td><td>42.5</td><td>296.6</td><td>Wellnhofer,1970</td></tr><tr><td>Ctenochasma elegans MBH(No.51)</td><td>43.5</td><td>298</td><td>Wellnhofer,1970</td></tr><tr><td>Ctenochasma elegans GIE (No.52)</td><td>55</td><td>359</td><td>Wellnhofer,1970</td></tr><tr><td>Pterodaustro guinazui PVL 3860</td><td>235</td><td>1286</td><td>Wellnhofer, 1978</td></tr><tr><td>Forfexopterus jeholensis HMV20</td><td>510*</td><td>2362.6</td><td>Jiang et al. 2016</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/04b6b77188f87ef99bc6f70165cbec247d4202d8bdf166228a4f10d7337dc754.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Wingspan variations of ctenochasmatids from the Late Jurassic to the Early Cretaceous Geological time according to the International Chronostratigraphic Chart (v 2021/07)   \nRed,blue,and yellow color indicate mature,immature,and indeterminate ontogenetic stage,respectively See more information in the supplementary file Abbreviations: Lp.Liaodactylus primus; Ce. Ctenochasma elegans; Ct. Ctenochasma taqueti; Gs.Gnathosaurus subulatus; Cr. Ctenochasma roemeri; Ps.Plataleorhynchus streptophorodon;   \nHq.Huanhepterus quingyangensis;Fy.Feilongus youngi; Ep.Elanodactylus prolatus; Ey.Eosipterus yangi;   \nBc.Beipiaopterus chenianus; Gc. Gegepterus changae; Pq. Pterofiltrus qiui; Cg. Cathayopterus grabaui; Fj.Forfexopterus jeholensis;Mz.Moganopterus zhuiana;Pg.Pterodaustro guinazui ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The holotype of Moganopterus zhuiana has been re-studied, including some re-identified characteristics and the revised diagnosis. The diagnosis of this taxon has been revised. The wingspan of M. zhuiana has been re-estimated according to the simple regression equation for wingspans versus skull lengths in ctenochasmatids.It confirms that M. zhuiana,although smaller than previous thought, is still the largest ctenochasmatid known thus far. Comparing the sizes of ctenochasmatids in the Jurassic and Cretaceous shows that ctenochasmatids had a rough tendency to increase their sizes. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement We are grateful for several comments and suggestions from Dr. Pinheiro and Dr. Bennett. We thank Chang Hua-Li, Liu Di, Zhang Jian-Hua (HNHM) and Wang Qiang (IVPP) for their support of this project. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "最大的梳颌翼龙类成员朱氏莫干翼龙再研究",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "高殿松' 蒋顺兴2.3 徐莉程心4.5 杨丽丽 贾松海’ 汪筱林2.3.6",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1河南自然博物馆 郑州450016)  \n(2中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)  \n(3 中国科学院生物演化与环境卓越创新中心北京100044)  \n(4巴西卡里里地区大学古生物实验室 克拉图63100-000)  \n(5 吉林大学地球科学学院 长春130061)  \n(6 中国科学院大学地球与行星科学学院 北京100049)",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "摘要：朱氏莫干翼龙由吕君昌等于2012年建立，并将其归入北方翼龙科，这一分类在发表后不久就受到了不同研究者的质疑。之后，尽管关于莫干翼龙归人梳颌翼龙科的观点已被大部分翼龙研究者所接受，但是很多特征还需要详细的描述。通过对朱氏莫干翼龙的正型标本进行详细观察，并对一些较为模糊的特征进行了重新确认。将其鉴定特征修改为：一种大型的梳颌翼龙类成员，具有一个与其他成员不同的自有裔征：一长棍状额骨嵴向后背侧延伸，并与头骨腹面形成 $1 5 ^ { \\circ }$ 夹角。同时莫干翼龙还具有以下的特征组合可以区别于其他梳颌翼龙类成员：平直的上下颌咬合面；低矮的前上颌骨嵴位于鼻眶前孔之前；吻端约占头骨长度的2/3;鼻眶前孔占头骨长度略大于 $20 \\%$ ；100枚细长的牙齿；中部颈椎的长宽比约为7。依据梳颌翼龙类翼展和头骨长度的线性关系，重新推测了莫干翼龙的翼展。新的推测结果证实，虽然比最初推测的小了很多，但莫干翼龙仍然是已知的个体最大的梳颌翼龙类成员。对比侏罗纪和白垩纪的梳颌翼龙类，这一种类的体型大致存在一个增大的趋势。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "关键词：辽宁，九佛堂组，朱氏莫干翼龙，最大的梳颌翼龙类",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Alarcon-MunozJ,Soto-AcunaS,CodorniuLetal.,02o.Newctenochasmatid pterosaurrecord forGondwana:discovery in the Lower Cretaceous continental deposits of the Atacama Desert, northern Chile.Cretaceous Res,110: 104378   \nAndres B,ClarkJM,Xu X,2014.The earliest pterodactyloidand the originof the group.Curr Biol,24:1011-1016   \nAndres B,JiQ,2Oo8.Anew pterosaur fromtheLiaoning ProvinceofChina,the phylogenyofthePterodactyloidea,and convergence in their cervical vertebrae.Palaeontology,51: 453-469   \nBennettSC,994.Taxonomyand systematicsof theLateCretaceous pterosaur Pteranodon (Pterosauria,Pterodactyloidea). Occ Pap Nat Hist Mus,l69:1-70   \nBenettSC,20o1.The osteologyand functional morphologyof theLate Cretaceous pterosaur Pteranodon.Palaeontogr Abt A,260: 1-153   \nBennettS C,2007.Areview of the pterosaurCtenochasma: taxonomyand ontogeny.NJb GeolPaläontAbh,245:23-   \nBenett S C,2021. Complete large skullof the pterodactyloid pterosaur Ctenochasma elegans from the Late Jurassic Solnhofen Lithographic Limestones.N Jb Geol Paläont Abh,301: 283-294   \nBrougham T,SmithET,BellPR,20l7.Isolated teeth ofAnhangueria (Pterosauria: Pterodactyloidea)from theLower Cretaceous of Lightning Ridge,New South Wales,Australia. PeerJ,5: e3256   \nChiappe L M,KelnerA WA,Rivarola D et al.,20o0.Cranial Morphology of Pterodaustro guinazui (Pterosauria: Pterodactyloidea) from the Lower Cretaceous of Argentina. Contrib Sci, 483:1-19   \nChinsamyA,CodoriuL,ChiappeL M,O08.Developmental growth patersof the filter-feeder pterosaur,Pterodaustro guinazui. Biol Lett, 4: 282-285   \nDong ZM,1982. On a new Pterosauria (Huanhepterus quingyangensis gen. et sp.nov.)from Ordos, China.VertPalAsiat, 20: 115-111, 121   \nFabre JA,1976.Un Nouveau Pterodactylidaedu Gisement de Canjuers (VAR)Galldactylus canjuersensis nov.gen.,nov. sp.Ann Paléontol, 62: 35-70   \nHowse SCB,MilnerAR,1995.The pterodactyloids from thePurbeck Limestone Formationof Dorset.BullNatHistMus London Geol,51: 73-88   \nJi S A,Ji Q,1997.Discovery of a new pterosaur from western Lioaning,China.Acta Geol Sin,71: 1-6   \nJiang S X, Wang X L, 201la. Important features of Gegepterus changae (Pterosauria: Archaeopterodactyloidea, Ctenochasmatidae) from a new specimen. Vert PalAsiat, 49:172-184   \nJiang S X, Wang XL,2O11b.Anewctenochasmatid pterosaur fromthe Lower Cretaceous,western Liaoning, China.An Acad Bras Cienc,83: 1243-1249   \nJiang S X,Wang XL,2013.Anew boreopterid pterosaur from theYixian Formation,Lower Cretaceous,andcomments on the family Boreopteridae.In: Sayao JM,CostaFR,Bantim RAMetal.eds,Rio Ptero 2013- International Symposium on Pterosaurs. Universidade fereral do Rio de Janeiro/Museu Nacional,Rio de Janeiro.79-79   \nJiang S X, Wang XL,Meng X et al.,2O14.Anew boreopterid pterosaur from the LowerCretaceousof western Liaoning, China, with areassessment of the phylogenetic relationships of the Boreopteridae.JPaleont, 88: 823-828   \nJiang SX,ChengX,MaYXetal.,2016.Anewarchaeopterodactyloid pterosaur from theJiufotang Formationof western Liaoning, China,with a comparison of sterna in Pterodactylomorpha.JVert Paleont,36: e1212058   \nKellner A WA,203.Pterosaur phylogeny and comments on the evolutionaryhistoryof the group.Geol Soc London Spec Publ, 217: 105-137   \nKellner A W A,2015.Comments on Triassic pterosaurs with discusson about ontogeny and description of new taxa.An Acad Bras Cienc,87: 669-689   \nKellner A WA,2017.Rebutalof Martin-Silverstoneetal.2017,ReassessmentofDawndraco kanzai Kellner 2010and reassignment of the type specimen to Pteranodon sternbergi Harksen,1966'.Vert Anat Morph Palaeont,3: 81- 89   \nKellner A WA,Tomida Y,20o0.Description of anew speciesofAnhangueridae (Pterodactyloidea)with commentson the pterosaur fauna from the Santana Formation (Aptian-Albian),northeastern Brazil.Natl Sci Mus Monogr,17: ix-137   \nKelner A W A,Campos DA, Sayao JM et al.,20l3.The largest flying reptile from Gondwana: a new specimen of Tropeognathus cf.T.mesembrinus Welnhofer,1987 (Pterodactyloidea,Anhangueridae)and other large pterosaurs from the Romualdo Formation,Lower Cretaceous,Brazil.An Acad Bras Cienc,85: 113-135   \nKellner A WA,CaldwellM W,Holgado Bet al.,2019.First complete pterosaur from theAfro-Arabiancontinent: insight into pterodactyloid diversity. Sci Rep,9:17875   \nLu JC,2O03.A new pterosaur: Beipiaopterus chenianus,gen.et sp. nov. (Reptilia: Pterosauria) from western Liaoning Province of China. Mem Fukui Prefect Din Mus,2:153-160   \nLüJC,GaoCL,Meng QJetal.,2006.Onthesystematic positionofEosipterusyangi JietJ,1997among pterodactyloids. Acta Geol Sin,80: 643-646   \nLü JC,Pu HY,XuL etal.,2012.Largest toothed pterosaurskullfrom the EarlyCretaceous Yixian Formationof western Liaoning,China, with comments on the family Boreopteridae.Acta Geol Sin,86: 287-293   \nMartillDM,Naish D,20o6.Cranialcrest developmentinthe azhdarchoid pterosaur Tupuxuara, with areviewofthe genus and tapejarid monophyly.Palaeontology,49: 925-941   \nMcPhee J,IbrahimNKaoAetal.,.Anew chayangopterid (Pterosauria: Pterodactyloidea)fromtheCetaceousKem Kem beds of southern Morocco.Cretaceous Res,110:104410   \nSeeley HG,1875.On an ornithosaurian (Doratorhynchus validus)from the Purbeck Limestone of Langton near Swanage. Quart JGeol Soc,31: 465-468   \nUnwin D M,20o3.On the phylogeny and evolutionary history of pterosaurs.Geol Soc London Spec Publ,217:139- 190   \nVidovic S U,MartillD M,2017.The taxonomy and phylogeny of Diopecephalus kochi (Wagner,1837)and ‘Germanodactylus rhamphastinus(Wagner,1851).Geol Soc London Spec Publ,455:125-147   \nWang XL,KelnerAWA,Zhou Z Het al.,2Oo5.Pterosaur diversityand faunal turnover in Cretaceous terrstrial ecosystems in China. Nature,437: 875-879   \nWang XL,KelnerAWA,ZhouZHetal.,2Oo7.Anew pterosaur (Ctenochasmatidae,Archaeopterodactyloidea) fromthe Lower Cretaceous Yixian Formation of China. Cretaceous Res,28:245-260   \nWang XL,Rodrigues T,Jiang SXetal.,2014.AnEarlyCretaceous pterosaur withanunusual mandibular crest from China and a potential novel feding strategy. Sci Rep,4: 6329   \nWellnhoferP,1970.DiePterodactyloidea(Pterosauria)derOberjura-Platenkalkesddeutschlands,BayerAkadWiss,Mat Naturwiss Kl Abh,141: 1-133   \nWellnhofer P,1978.Pterosauria.Handbuch der Paläoherpetologie,19: x-82   \nWiton M P,2O13.Pterosaurs: Natural History,Evolution,Anatomy.PrincetonandOxford:Princeton UniversityPress. 1-291   \nWu X C,LiJL, Wang XL etal.,2017.Amphibians,Reptilians,and Avians.Beijing: Science Press.1-285   \nZhouCF,2010.NewmaterialofElanodactylus prolatusAndres &Ji2008(Pterosauria:Pterodactyloidea)fromtheEarly Cretaceous Yixian Formation of western Liaoning, China.Neues Jahrb Geol Palaont Abh,255: 277-286   \nZhou CF,GaoKQ,YiHYetal.,2017.Earliestflter-feeding pterosaur from theJurasicofChinaand ecological evolution of Pterodactyloidea. Roy Soc Open Sci, 4: 160672   \nZhouCF,WangJH,ZhuZH,2020.Anew wing skeletonofForfexopterus (Pterosauria: Ctenochasmatidae)fromthe Early Cretaceous Jehol Biota reveals a developmental variation.Foss Rec,23:191-196 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

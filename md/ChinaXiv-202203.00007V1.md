@@ -1,0 +1,175 @@
+# 大鼠急性低氧模型尿液蛋白质组的变化
+
+鲍艺今」成祥²朱玲玲²范明高友鹤（北京师范大学基因工程药物及生物技术北京市重点实验室 北京 100871)²（军事认知与脑科学研究所北京100850）
+
+# 摘要:
+
+[目的」拟探究低氧对大鼠尿液蛋白质组造成的影响，寻找与低氧应激相关的尿蛋白变化。
+
+[方法］本研究使用液相色谱联用质谱（LC-MS/MS），筛选大鼠12h、24h低氧模型的尿液差异蛋白并进行生物学通路的分析，观察大鼠急性低氧应激过程中尿蛋白变化。
+
+[结果］我们发现尿液蛋白质组可以很明显可以区分常氧组和低氧组样品，并且差异蛋白也富集到了与低氧应激有关的生物学通路，如抗氧化应激、糖酵解、补体和凝血级联反应等。
+
+结论」尿液蛋白质组可以反映急性低氧刺激后的显著变化，有助于辅助检测缺氧状态。
+
+关键词：蛋白质组学；尿液；低氧
+
+# Changes of urine proteome in acute hypoxic rat model
+
+Bao Yijin Cheng Xiang² Zhu Lingling Fan Ming² Gao Youhel\*
+
+1(Gene Engineering Drug and Biotechnology Beijing Key Laboratory，Beijing Normal University， Beijing 100871，China)
+
+² (Institute of Military Cognitive and Brain Sciences， Beijing 100850, China)
+
+# Abstract:
+
+[0bjective] To investigate the effect of hypoxia on urine proteome in rats,and to find the changes of irine protein related to hypoxia stress.
+
+[Methods]In this study,liquid chromatography-mass spectrometry (LC-MS/MS)was used to screen the urine differential proteins of rats with 12 and 24h hypoxia and analyze the biological pathway to observe the changes of urine protein in rats with acute hypoxia stress.
+
+[Results] We found that the urine proteome could clearly distinguish the normoxic and hypoxic samples, and the differential proteins were also enriched in biological pathways related to hypoxic stress,such as antioxidant stress,glycolysis,complement and coagulation cascade.
+
+[Conclusions] Urine proteome can reflect the significant changes after acute hypoxic stimulation, which is helpful for the detection of hypoxia.
+
+Keywords: proteomics; urine；hypoxia
+
+# 0 引言
+
+高原地区具有气温低、温差大、紫外线辐射强等特点[]，其中低压低氧是其最主要的特征[2]。医学上的高原通常是指海拔 $3 0 0 0 \mathrm { { m } }$ 以上的地区。随着海拔高度增加，大气氧分压逐渐下降，人体血氧饱和度急剧下降，常出现低氧症状。[3]
+
+全球有将近1.4亿人居住在海拔 $2 5 0 0 \mathrm { m }$ 以上的高原地区，每年约有4000万人来到高原地区工作或者休闲旅游。4]在中国有6000万人生活在广阔的高原地区。5正是因为特殊的地理居住环境，也导致了高原人群具有一些特殊的生理特点，与低海拔人群相比，其脑耗氧量增大，呼吸系统的肺通气量和肺泡内氧分压增高，此外，低氧导致的过度的红细胞增多和血细胞比容升高会导致高粘度和较低的流速，使得高原人群患血栓的风险也大有提高。除此以外，低氧作为高原对人类最大的挑战。不适应高原可能会导致一些高原疾病，轻者恶心、头晕、失眠、心悸、呼吸急促，严重的甚至会危及生命（如高原肺水肿(HAPE)、高原红细胞增多症(HAPC)和高原脑水肿(HACE)等。6我们希望能够动态监察高原人群的缺氧损伤进展，准确判断机体高原缺氧程度，以便对患者进行及时、精准的治疗。同时，更好的了解低氧引起的细胞或器官功能的改变也为开发新的生理病理候选物以揭示高原缺氧的潜在发病机制并改进对缺氧相关疾病的治疗是重要且必要的。
+
+疾病进程涉及不同的生物过程，在不同的时间点表现出不同的病理生理状态，因此在不同的阶段应该有不同的生物标志物。尿液作为一种理想的疾病生物标志物来源，由于没有稳态调节机制的影响，可以敏感、及时地反映病理变化。[我们实验室利用蛋白组学技术已经在多种疾病动物模型中发现，病理变化出现之前，尿液蛋白质就发生了变化8，这些结果表明尿液蛋白质组可以富集到机体产生的早期变化。再者尿液收集无创简单并可以连续收集，从而能够实现疾病的动态监测。
+
+本研究通过低氧舱模拟海拔 5000米下的高原低氧条件，对低氧后0、12、24h 的尿液进行非标记定量蛋白组学分析，拟探究海拔 5000米的低氧条件对大鼠尿液蛋白质组造成的影响，寻找与低氧应激相关的尿蛋白变化。旨在为后续在尿液中寻找低氧的早期特异性生物标志物进行初步探索。
+
+# 1材料与方法
+
+1.1实验动物及模型建立
+
+（1）大鼠代谢笼的改造
+
+将大鼠放置在小鼠用规格的代谢笼中进行尿液收集，代谢笼改用直径为15cm，网隙为1cm 的筛网滤过食物残渣及粪便。
+
+（2）低氧模型的建立
+
+SPF 级的雄性 Sprague-Dawley 大鼠 (170-190g)5只，购于北京维通利华实验动物技术有限公司，所有动物在标准环境中(室温 $( 2 2 \pm 1 ) ^ { \circ } \mathrm { C }$ ，湿度 $6 5 \% - 7 0 \% )$ 下饲养，动物实验遵循北京师范大学生命科学学院伦理委员会的审查和批准。
+
+建立方法：将大鼠置于低氧舱中建模，设置低氧舱氧气浓度为 $1 1 . 6 \%$ ，模拟高原海拔5000m下的低氧条件。本实验使用自身对照，常氧条件下收集的尿液样本即为对照组，时间记为 T0。低氧 12h、24h 后收集的尿液样本是实验组，时间分别记为T1、T2。
+
+# 1.2尿液的收集
+
+将大鼠每个个体均单独放置在大鼠改造代谢笼中，在低氧条件下0h、12h、24h 后分别设置 T0、T1、T2取样时间点。在尿液收集期间，提供饮水但不提供食物，避免污染尿液。最终共计取样 15份，尿液用 $3 0 0 0 \times \mathrm { g }$ 离心 $3 0 \min$ 后放入-80 $\mathrm { { ^ \circ C } }$ 冰箱保存。
+
+# 1.3尿液蛋白的提取和蛋白酶解
+
+取出 $4 \mathrm { m l }$ 尿样解冻， $4 ^ { \circ } \mathrm { C }$ ， $1 2 0 0 0 \times \mathrm { g }$ 条件下离心30分钟，去除细胞碎片，取上清用3倍体积的乙醇沉淀过夜，然后 $1 2 0 0 0 \mathrm { g }$ 离心30 分钟。将蛋白沉淀重悬于裂解液(8mol/L 尿素，2mol/L 硫脲，25mmol/L 二硫苏糖醇和 50 mmol/LTris)。用 Bradford 法测量蛋白浓度。使用滤器辅助样品制备(FASP)方法进行尿蛋白酶解[9]。将尿蛋白加载到 10kDa 超滤管(PAL 公司)的滤膜上，用 UA (8mol/L 尿素,0.1mol/L Tris-HCl, $\mathsf { p H } 8 . 5 \mathsf { ) }$ 和 $2 5 \mathsf { m m o l / L N H _ { 4 } H C O _ { 3 } }$ 溶液洗涤两次；加入 20 mmol/L 二硫苏糖醇（Dithiothreitol,DTT, Sigma）在 $3 7 ^ { \circ } \mathrm { C }$ 中变性 1 小时，再与 50 mmol/L 碘乙酰胺（Iodoacetamide,IAA,Sigma)在黑暗中烷基化 30 分钟,用 UA 和 $N H _ { 4 } H C O _ { 3 }$ 溶液洗涤两次，以1:50 比例加入胰酶（Trypsin
+
+Gold,Promega, Fitchburg,WI, USA）， $3 7 ^ { \circ } \mathrm { C }$ 孵育过夜。过夜后离心收集酶解后的滤液即为多肽混合液。  
+将多肽通过 HLB 柱（Waters,Milford,MA）除盐后用真空干燥仪进行抽干，置于. $. 8 0 ^ { \circ } \mathrm { C }$ 保存。
+
+# 1.4 LC-MS/MS 串联质谱分析
+
+用 $0 . 1 \%$ 的甲酸水复溶肽段，使用BCA试剂盒对肽段浓度进行测定，将肽段浓度稀释至 $0 . 5 \mu \ g / \mu \mathrm { L }$ 。使用 $1 \mu \ g$ 多肽样本通过Thermo ESAY-NIc1200 液相系统进行分离,参数设定如下:洗脱时间90 分钟，洗脱梯度为（流动相A： $0 . 1 \%$ 甲酸；流动相B: $80 \%$ 乙腈）。洗脱下来的肽段通过Orbitrap Fusion LumosTribird 质谱仪（Thermo Fisher Scientific,USA）进行检测。对所有样品进行数据依赖（DDA）质谱数据采集，每个样本重复采集三次。
+
+# 1.5数据分析
+
+从液相-质谱获得的原始数据(RAW 文件),通过 Proteome Discoverer(version 2.1,Thermo Scientific)和 MaxQuant (version1.6.17.0)进行分析。通过 Xcalibur Qual Browser(version 3.0.63，Thermo FisherScientific)检查基峰总体情况。原始数据由MaxQuant 使用大部分的默认参数处理。所有RAW文件在MaxQuant 中同一个窗口进行处理，数据库搜索使用 Andromeda search engine（MaxQuant 中配置的），数据库采用 UniProt Ratus norvegicus (Rat)[10116] sequence database (3 17,2020; 8137 sequences)。主搜索中前体质量容限设置在4.5ppm，碎片质量容限设置在 20ppm。消化酶设置为Trypsin/P最大有两个错切位点。最小的肽段包括至少包括七个残基。蛋白质N端乙酰化和蛋氨酸的氧化作为可变修饰，半胱氨酸的脲甲基化（半胱氨酸碘乙酰化）作为固定修饰。由于还原烷基化以后，二硫键被打开，半胱氨酸会带上carbamidomethyl基团（ $\mathrm { ( + 5 7 D a ) }$ ，在搜库时，通常把carbamidomethyl（C）选为固定修饰。对于没有修饰的肽段不设置Andromeda 评分阈值，每一个鉴定到的修饰都有一个打分Andromeda score最小40。肽段和蛋白的错误发现率设置为 $1 \%$ 基于目标-诱饵反相数据库(target-decoyreverse database）。样本和样本之间每一个峰的洗脱时间尽量平行（Match between runs），match timewindow: O.7 min, alignment time window: $2 0 \mathrm { m i n }$ 。选择无标记定量选项（LFQ），使用来自MaxQuant的 MaxLFQ算法。蛋白质LFQ强度由两个或多个样本中识别的多肽的成对强度比的中位数计算，并根据样本间的累积强度进行调整。定量使用剃刀和独特的肽（razorand unique）进行，包括那些经过乙酰化(蛋白质N端)和氧化(Met)修饰的肽。蛋白强度归一化需要最小肽段比为1，并启用"Fast LFQ”。接下来使用 Perseus version (version 1.6.14.0)对数据进行预处理，去除污染和鉴别肽段数 $\cdot { < } 1$ 的蛋白，取LFQintensity的log2 进行归一化，我们认为缺失值是低于质谱检测的低丰度蛋白，不是随机缺失的（为了模拟低丰度LFQ值，用中值以下高斯分布中的随机值代替缺失值）缺失值以0替换。[0.11]
+
+# 1.6统计学分析
+
+每一个样品均进行了三次技术重复，将获得的数据其用于统计学分析。将低氧T1、T2时刻鉴定到尿蛋白分别与常氧T0时刻鉴定到的尿蛋白进行对比，进行差异蛋白筛选。筛选差异蛋白的条件如下： Fold change $\geqslant 2$ 或 ${ \leqslant } 0 . 0 5$ ，双尾非配对t 检验的 $\mathrm { ~ \bf ~ P ~ }$ 值 ${ < } 0 . 0 1$ 。
+
+# 1.7随机分组分析
+
+将低氧T1组（ $\scriptstyle ( { \mathtt { n } } = 5 )$ ）和常氧TO组（ $\scriptstyle \cdot = 5$ ）共10个样本随机分成两组，在总计126次随机组合中，按照相同的筛选条件计算所有随机次数的平均差异蛋白数目。
+
+# 1.8生物信息学分析
+
+使用悟空平台(htps://www.omicsolution.org/wkomic/main/)进行非监督聚类分析（HCA）[12]，使用DAVID 6.8 (https://avid.ncifcrf.gov/）对3个模型鉴定到的差异蛋白进行生物学过程、细胞定位和分子功能3个方面的功能富集分析[13]。在基于公开数据库(https:/pubmed.ncbi.nlm.nih.gov)的报道研究中搜索了差异蛋白的功能。
+
+# 2结果与分析
+
+2.1低氧模型尿蛋白组变化
+
+在低氧模型中，选取5只大鼠的T1、T2时刻的尿液蛋白，进行非标记LC-MS/MS 质谱鉴定。该模型共鉴定到1162个蛋白（ $\geqslant 2$ 个特异性的多肽，蛋白水平 $F D R { < } 1 \%$ ，将其进行非监督聚类分析，从这些数据中，很明显可以区分常氧组和低氧组样品。图1展示了具体的样本的非监督聚类结果。
+
+采用自身对照的方法，将T1、T2的尿蛋白分别与TO进行比较，筛选标准：组间变化倍数 $\operatorname { F C } { \geqslant } 2$ 或 ${ \leqslant } 0 . 5$ ， $\mathrm { \bf { P } } { < } 0 . 0 1$ ，高丰度组的平均蛋白谱图数 $\geqslant 3$ ，且高丰度组每个样品的蛋白谱图都高于低丰度组。相对于T0时刻，T1时刻鉴定到144个差异蛋白，其中88个上调，56个下调；在T2时刻鉴定到129 个差异蛋白，其中73个上调，56个下调。
+
+![](images/9f86b70960119816dadc538986b7daed32e026bc79eb19a7f386a51146d6c613.jpg)  
+图1低氧组与常氧组整体尿液蛋白质组的非监督聚类分析。绿色标识（T0）为常氧组样本，粉色标识（T1）为低氧12h样本，浅蓝色标识(T2)为低氧 24h样本。横坐标为非监督聚类情况及样品具体信息，纵坐标为具体蛋白质名称。
+
+# 2.2尿液样本随机分组的结果
+
+鉴于样本中鉴定出的蛋白质组学特征数量高于样本数量，两组之间的差异可能是随机产生的。开发了随机分组统计分析策略以确认这些差异蛋白是否由疾病引起。将低氧T1组( $\scriptstyle ( n = 5 )$ 和常氧TO组( $\scriptstyle \cdot = 5 \$ 共10个样本随机分成两组，在总计126次随机组合中，按照相同的筛选条件计算所有随机次数的平均差异蛋白数目为5（见附表1）。这些结果表明只能随机生成5个差异蛋白，进一步表明 $9 6 . 5 \%$ 的差异蛋白是可靠的。将T2组和TO组的尿液样本随机分成两组，同上操作，随机可能中筛选到的平均差异蛋白数目为6（见附表2）。
+
+# 2.3差异蛋白的功能注释
+
+使用 DAVID 数据库对I1时刻金正到的总计I44个差异蛋日从生物字过程、细胞成分和分于切能3 个方面进行功能富集分析(图2)。生物学过程中(图 2A），这些差异蛋白倾向于参与谷胱甘肽代谢、内肽酶活性负调控、血管生成、细胞氧化解毒、糖酵解等。在细胞成分中(图 2B)，大多数的差异蛋白来源于细胞外的外泌体和细胞外空间。在分子功能中 (图 2C)，这些差异蛋白倾向于钙粘蛋白结合参与细胞间粘附、钙离子结合、蛋白结合和谷胱甘肽转移酶活性等功能。为了鉴定差异蛋白参与的主要代谢通路，进行了KEGG通路富集分析。结果显示，共有9个代谢通路被显著富集，其中包括谷胱甘肽代谢、氮代谢、碳代谢等（图2D）。
+
+同上，使用DAVID数据库对T2时刻鉴定到的总计129个差异蛋白从生物学过程、细胞成分和分子功能3个方面进行功能富集分析(图3)。生物学过程中(图3A），这些差异蛋白倾向于参与内肽酶活性负调控、细胞粘附、血小板聚集、血液凝固等。在细胞成分中(图3B)，大多数的差异蛋白来源于细胞外的外泌体和细胞外空间。在分子功能中 (图3C)，这些差异蛋白倾向于钙粘蛋白结合参与细胞间粘附、胶原蛋白结合、碳酸盐脱水酶的活性等功能。为了鉴定差异蛋白参与的主要代谢通路，进行了KEGG通路富集分析。结果显示，共有3个代谢通路被显著富集，其中包括氮代谢、血小板激活、肌动蛋白细胞骨架的调节（图3D）。
+
+![](images/751d85d035f1018133eca52ceb3e2de5b3c0ff57f04abf1a7b51ede6f5437a16.jpg)
+
+图2．T1时刻差异蛋白的功能注释  
+![](images/dd7c09b7634ad9b010ad0f10cbc608d74ae8e3e313c1a288572a13ae5fe22021.jpg)  
+A.生物学过程；B-细胞成分；C-分子功能；D-生物通路
+
+![](images/019eff692fa7601b028f337d030d72b1edf7b2011c5ffbd410546472116a3088.jpg)
+
+![](images/3e408d3ec54ae908b74eab5191800c75eea8c7a9069a9482bade718db02a97e7.jpg)  
+Cellular component   
+图3．T2时刻差异蛋白的功能注释A-生物学过程；B-细胞成分；C-分子功能；D-生物通路
+
+基于 DAVID 和 KEGG数据库的生物信息学分析后，发现一些生物过程和代谢通路被报道与低氧有关。（i）抗氧化应激。据报道，低压缺氧引起的氧化剂会调节两个主要的抗氧化蛋白家族的活性，即过氧化物酶（PDX）和硫氧还蛋白。[14]其中硫氧还蛋白超家族的成员具有硫氧还蛋白折叠和共有活性位点序列（CxxC)，并在氧化还原调节、氧化应激防御、含二硫键蛋白的重折叠和转录因子的调节中发挥作用。[15]（ii）糖酵解。随着高海拔地区O2水平的降低，ATP 的生成从线粒体中依赖氧的氧化磷酸化过程会转变为细胞质中不依赖氧的糖酵解过程。[16]（ii）补体和凝血级联反应。有研究发现，高原地区人口的凝血相关蛋白的血浆水平高于平原地区人口，这表明其凝血系统有所下调。[17]（iv）血管生成。低氧会引起HIF-1α（低氧诱导因子1）累积增加，从而诱导血管内皮生长因子表达升高，血管生成增强。[18]（v）肾素-血管紧张素系统。有研究表明，肾素-血管紧张素系统的激活
+
+与肾脏慢性缺氧有关。[19]
+
+与此同时，我们将两个时刻分别富集到的生物学过程比较后发现，低氧12h后主要表现为物质代谢发生改变，如谷胱甘肽代谢、糖酵解等。而低氧24h后机体从物质代谢变化趋向转为器质性变化，如血管生成、凝血等。
+
+# 3 讨论
+
+本研究建立了急性低氧大鼠模型，通过对尿液进行非标记LC-MS/MS 质谱鉴定，探究海拔 5000米的低氧条件对大鼠尿液蛋白质组造成的影响，了解适应低氧的过程中机体的变化，进而为寻找低氧的生物标志物奠定基础，为寻找治疗低氧血症相关疾病的药物干预靶点提供线索。结果显示，低氧12h 后共鉴定到144个差异蛋白，低氧24h后共鉴定到129个差异蛋白，其中104个为两个时刻共有差异蛋白，这说明机体暴露于低氧环境后发生急性高原反应，导致生理机能发生变化。随后，随着暴露时间的延长，机体通过调动一系列代偿性低氧调节反应，如肺通气量增加[20]、红细胞和血红蛋白增加[21l、能量代谢方式改变[22]等，改善机体氧的供应和利用，恢复稳态以适应高原缺氧环境，这一种过程称为高原习服。
+
+此外，在这些差异蛋白中大部分是从无到有或从有到无的变化，在我们以往做过的研究中，如高血脂、肿瘤注射[23]、肺纤维化[24]、阿尔茨海默症[25]等，没有一类病理生理变化能够对尿蛋白产生如此大的影响，这表明低氧对机体所产生的的影响在尿液蛋白质组中的变化是十分显著的，也体现了尿液的敏感性。
+
+# 4结论
+
+我们的研究结果表明，尿液蛋白质组可以反映急性低氧刺激后的显著变化。这些发现可能提供一种判断机体高原缺氧程度的方法，有助于检测或辅助检测缺氧状态，从而有助于尽早采取相应治疗措施，方便无创，容易为病人接受，更便于动态监察高原人群的缺氧损伤进展。
+
+# 参考文献
+
+[1]Hartman-Ksycihska A，Kluz-Zawadzka J，LewandowskiB.Highaltitude illness[J].Przegladepidemiologiczny，2016, 70(3) :490 -499.   
+[2]Meier D,Collet T-H,Locatelli I，etal.Does This Patient Have Acute Mountain Sickness?:The Rational Clinical Examination Systematic Review[J]． JAMA，2017，318(18):1810 -1819.   
+[3]AhmadY，SharmaNK,AhmadMF，etal.Proteomicidentificationof noveldifferentiationplasmaprotein markersin hypobaric hypoxia-induced rat model[J]. PLOS ONE，2014，9(5):e98027.   
+[4]MuryAJ.Energy metabolismandthehigh-altitudeenvironment[J]．Experimentalphysiology，2016,101(1):23-27.   
+[5]Luo H,ZhouD-J,ChenZ,etal.Establishmentandevaluationofanexperimentalrat modelforhigh-altitudeintestinal barrier injury[J]. Experimental and therapeutic medicine，2017,13(2):475- 482.   
+[6] Du X，Zhang R,Ye S,etal.Alterations of HumanPlasma Proteome ProfileonAdaptation to High-Altitude Hypobaric Hypoxia[J]．Journal of Proteome Research，2019，18(5):2021-2031.   
+[7] GaoY.Urine-an untapped goldmine for biomarker discovery?[J]. Science China.Life sciences，2013，56(12):1145- 1146.   
+[8] Gao Y.Nowisthe timetotestearlyurinarybiomarkers inlarge-scale human samples[J].ScienceChina.Life sciences, 2019，62(6) :851-853.   
+[9] Wisniewski JR, Zougman A,Nagaraj N,etal. Universal sample preparation method for proteome analysis[J].Nature methods，2009，6(5):359-362.   
+[10]Tyanova S，Temu T，Cox J.The MaxQuantcomputational platform for mass spectrometry-based shotgun proteomics[J]. Nature protocols， 2016,11(12) :2301- 2319.   
+[11] Goldman AR,Bitler BG，Schug Z,etal.The Primary Effecton the Proteomeof ARID1A-mutated Ovarian Clear Cell Carcinoma is Downregulationof the Mevalonate Pathwayat the Post-transcriptional Level[J].Molecular&cellular proteomics :MCP，2016，15(11) :3348-3360.   
+[12]WangS,ZhengW,HuL,etal.MixProTol:APowerfulandComprehensiveWebToolfor AnalyzingandVisualizing Multigroup Proteomics Data[J].Journal of computational biology :a journal of computational molecularcell biology，2018, 25(10):1123 -1127.   
+[13]Huang DWShermanBT,LempickiRA.Systematicand integrativeanalysisoflargegenelistsusing DAVIDbioinformatics resources[J]． Nature protocols， 2009，4(1) :44- 57.   
+[14]Felberbaum-Corti M, Morel E,Cavalli V,etal.The redox sensor TXNL1 playsaregulatory role in fluid phase endocytosis[J]． PLOS ONE，2007，2(11) :e1144.   
+[15]LiuF,RongY-P,ZengL-C,etal.Isolationandcharacterizationofanovelhumanthioredoxin-likegenehTP9encoding a secretory protein[J].Gene，2003，315:71-78.   
+[16] Seagroves TN,Ryan HE,Lu H,etal.Transcription factor HIF-1is a necessary mediatorof the pasteur effect in mammalian cells[J]. Molecular and cellular biology，2001，21(10):3436 - 3444.   
+[17]Wang Z,Liu H,DouM,etal.Thequalitychangesinfresh frozen plasmaof theblood donors at high altitude[J]. PLOS ONE，2017，12(4):e0176390.   
+[18]XuK,SunX,BenderroGF,etal.Genderdifferences inhypoxicalimatizationincycloxygenase-2-deficientmice[J]. Physiological reports， 2017,5(4).   
+[19]Nangaku M,FujitaT.Activationof therenin-angiotensin system andchronic hypoxiaof the kidney[J].Hypertension research :official journal of the Japanese Society of Hypertension, 2008，31(2):175-184.   
+[20] Boning D,Rojas J, SerratoM,et al.Extracellular pHdefense against lactic acid inuntrained and trained altitude residents[J]． European journal of applied physiology， 2008，103(2) :127 -137.   
+[21] Schmidt W,Prommer N.Effects of various training modalities on blood volume[J].Scandinavian journal of medicine & science in sports，2008，18 Suppl 1:57-69.   
+[22]HollowayCJ, MontgomeryHE,MurrayAJ，etal.Cardiac response to hypobaric hypoxia:persistentchanges incardiac mass，function,and energy metabolism aftera trek to Mt.Everest Base Camp[J].The FASEB Journal，2011,25(2):792 - 796.   
+[23]WeiJ,Meng W,GaoY.Urine proteomechanges inrats subcutaneously inoculatedwithapproximatelytentumorcells[J]. PeerJ，2019，7:e7717.   
+[24]WuJ,LiX,ZhaoM,etal.Early Dtectionof Urinary Proteome Biomarkers forEffectiveEarlyTreatmentofPulmonary Fibrosis in a Rat Model[J]. Proteomics. Clinical applications，2017，11(11-12).   
+[25] Zhang F,Wei J,Li X,etal.Early Candidate Urine Biomarkers for Detecting Alzheimer's Disease Before AmyloidβPlaque Deposition inan APP(swe)/PSEN1dE9 Transgenic Mouse Model[J]. Journal of Alzheimer's disease :JAD,2018, 66(2) :613 - 637.
+
+# 作者贡献声明：
+
+高友鹤，范明，朱玲玲，鲍艺今，成祥：提供样本，提出研究思路，设计研究方案；  
+鲍艺今，成祥：进行实验；  
+鲍艺今：论文数据分析；  
+鲍艺今：论文起草；  
+高友鹤：论文最终版本修订。

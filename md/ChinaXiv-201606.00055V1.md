@@ -1,0 +1,169 @@
+# 开放系统架构的研究评述 \*
+
+# 顾立平
+
+（中国科学院国家科学图书馆北京100190）
+
+【摘要】简要介绍开放系统架构的需求和优势,分析开放系统架构在硬件、软件和网络服务上的基础,列举其在军工、航空、汽机、医疗行业的案例,描述其在图书情报机构的作用,并总结实现开放系统架构的设计原则。
+
+【关键词】组件代理信息和通信技术操作系统开放架构开放接口
+
+【分类号】250.7
+
+# Review of the Open System Architecture
+
+Ku Liping
+
+(National Science Library，Chinese Academy of Sciences，Beijing 1OO190，China）
+
+Abstract】Thisarticlebrieflyintroducestheneedsandthebenefitsof Open System Architecture(OSA），analyzes itsbascsonthe hardware,the softwareandthenetwork，and lists itscases inthe military,aerospace，automotive,medicalfields, hen describes its functions inthe librariesand information institutions，andsummarizes thedesign principleof the OSA. Keywords】 Component agent Information communication technologyOperating systemOpen architecture Open interface
+
+TT305-747010:798531
+
+# 开放系统架构的需求与优势
+
+在信息社会中,提供动态信息的网络服务是信息服务系统的发展趋势。开放系统体系结构在涉及信息、资源、系统的活动事件上具有多种优势：提供支持基于组件的方法的系统分析;促进系统采用基于组件方法的实施;参与描述系统的复杂性;支持系统设计[1]等。从企业的信息流管理来看,现行的网络服务系统允许人们通过业务接口的少许改变,在不改变操作系统的情况下,将商业流程与其技术流程联系起来。例如一个拥有 500家国际连锁店的服装零售组织,他们常常需要更改设计来赶上时尚潮流,这可能意味着不仅需要更改样式和颜色，还可能需要更换布料、制造商和可交付的产品[2]。如果零售商和制造商之间的系统不兼容,那么从一个供货商到另一个供货商的更换就是一个非常复杂的流程。简单实用的开放系统架构和产品标准在很大程度上降低了从标准到产品的开发时间,如果系统考虑到互操作性和互换性的实现条件,而定义任务模块的模型,那么之后的系统性能相对可以具备实时性、易用性和实用性的优势[3]。
+
+对于终端用户,往往会遇到做一件事情要反复在许多不同数据库或网址里翻找数据的情况。随着计算机硬件和软件的发展,许多行业正面临系统不兼容的问题,无法共享系统之间的信息交流,造成大量重复工作,对此，需要开放系统架构和通用行业标准能够解决这种资源重复建设的问题[4]。例如，人们能在德国国铁的售票系统买到德国各地的公交车和电车车票,同时预订旅馆和观光地点门票,甚至预定欧盟其他国家的旅游路线[5。这种系统节省了人们从甲地到乙地游玩所需要考虑的各种交通工具的售价、座位和往返时间等信息查询过程，并且提供在甲地、乙地和中转站寻找旅馆、餐厅、观光地点的开放时间、优惠或单位价格、规定限制等,甚至提供天气、
+
+节日、汇率和信用额度等其他信息。因此，一个采用开发系统架构的服务，不仅方便人们利用它的服务，也方便人们通过它利用其他机构的服务，这种工程对于整个行业发展都具有正面效益。
+
+在开放系统架构上，每个架构元素或组件可以设计成独立的组成部分，如果采用组件代理（ComponentAgent)方法作为基本的系统模块，利用它的软件构件技术来构建系统，由于组件是可重用的应用程序的数据和公开方法,能使其他应用程序访问和操作[。在机械工程领域，开放体系结构包括对新工艺及其驱动控制、监测、诊断、服务功能和传感器集成等必要硬件和软件的接口规范，大大节省重复建模和重复设计劳拟产品开发是一个新的发展模式,应用这种架构能够在通信架构、硬件设备和软件内容的普及化过程中降D低成本，提升开发效率。
+
+开放系统架构最早源自于电子零件供应链的行业  
+O  
+需求，除了硬件，软件和网络服务也采用了相同的开发  
+模式和类似的架构设计。一个大型电子系统往往需要  
+来自不同供应商和不同应用种类的子系统集成在同一  
+硬件中，分区的操作系统（OperatingSystem，OS）允许  
+应用集成系统关键资源的共享访问节省这些子系统封  
+装所需的时间和空间[8]。基于组件的开放中间件架构  
+定义了应用层级别的软件组件之间的消息传递和操作  
+方式,其目的是确保在多个平台上的互操作性以及未  
+来开发技术的可移植性[9。在化合物工业中,利用开放系统架构的灵活和适应性设计、预测仿真工具开发，  
+跟踪、预测及时掌握全面的聚合物生产过程中的行  
+为[1,在仿真、设计、参数和状态估计、优化和控制特定聚合流程等方面，提高了生产效率和产品质量。综上所述，信息流的跨平台服务依赖开放信息系统，可以说，在信息社会中的硬件、软件和网络服务已朝着信息服务系统的开放性转变。
+
+开放系统架构在硬件、软件和网络上的层层分级以及各级设置开放接口的做法，能够提供5种优势：容易进行部分组件更新;部分组件更新不影响整体系统运行；开放接口意味着人人能够参与整体系统工程，增加行业竞争与创新能力；开放接口的标准化促使开放系统在整个行业和跨行业逐渐增加市占面积;根据开放系统架构在行业中的推广成效，经过产业分析后，获
+
+# 20 现代图书情报技术
+
+得其他潜在竞争者的技术能力情报。
+
+因此，全面深入地了解开放系统架构，不仅能够对图书情报系统的保障多一分认识，而且对于未来开拓新的行业工作也是一项重要基石。
+
+# 2开放系统架构的三元基础
+
+开放系统架构包括硬件、软件、网络的整体设计或者个别设计，即便是在硬件设计中，各个层级的开放接□和行业标准也有所不同。但是其原理相通而手段不同的特性，值得解析和运用。
+
+电子维修（如无线通信、智能网络服务和智能掌上计算机)的发展趋势，从纯粹的技术进步转向在采集、通信和信息存储、识别系统的互操作性等的开放系统架构的信息化标准，逐步朝向在一个不同的系统之间的全球性框架下，形成“即插即用”的基本运作模式[11]。在此趋势下的软件开发工具的集成环境,其发展框架所采用的开放系统架构，具有支持统一的自动化方法和专业功能，为复杂的实时控制系统引入嵌入式设计过程的统一方法[12]。在能够保障分布式计算的前提下，开放系统可以通过标准接口访问其他系统进行操作[13]。在硬件和软件下的网络服务部分,开放系统架构能够促进语义网技术的语义互操作性，利用网络服务技术构建松散的耦合组件，结合工作流技术，丰富所需的处理能力。一个开放体系架构能够有效支持重点活动，即从创建、检索、后处理到组成、分类和调用的算法，建立新型的知识生命周期的自动化处理解决方案[14]。就一个具体案例来说,为了充分履行空间数据库集成与三维建模工具的具体要求，地质特征网络服务器（一项开放系统架构)的三层架构包括：客户端（GOCAD）应用程序服务器（ApacheTomcat和Dee-gree)和数据库(MySQL)等，它通过网络服务访问三维地质模型，能够产生三维地理模型（符合ISOTC/211-Geographic 标准)的空间应用[15]
+
+从计算机硬件保障而言，开放认知架构框架（TheOpenServiceAvailabilityFramework，OpenSAF）结合开放建模与仿真的体系结构（TheOpenModelingandSim-ulation Architecture，OpenMSA）和开放系统结构建模与仿真（OpenSystemArchitecture forModelingand Simula-tion，OSAMS），具备可扩展性、并行性和分布式特点，支持实时业务的服务导向系统应用等，为多核计算机提供可伸缩的高性能执行拟议的认知架构[16]。从软件到网络服务而言，语义网和代理技术是信息通信技术（Information Communication Technology，ICT）在制造业、电力、化工等行业的监测和维护工作的最新发展，而基于条件的开放系统架构，用于分布式系统、流程和资产管理的异构数据集成等，则是多个行业的共同发展方向[17]。这种行业扩散的趋势,它的支撑机制是通过多功能和开放系统架构来传输和收集不同来源的数据，通过原先为系统实时监控所开发的算法进行过滤和处理，定制的开放系统架构具备处理数据归档和扩展归档的能力,甚至管理这些数据的可视化方式[18]等。
+
+数据流、信息流和知识流的管理是另一个议题，此处强调的是，开放系统架构的实质意义是保障数据流、信息流和知识流的自由流动的可能性。这种可能性在各个行业的限制性规范和技术保障措施下各有不同。
+
+# 开发系统架构的行业案例
+
+）开放系统架构与行业标准规范相关，但是在不同页域内有不同的模式：军工领域是政府制定标准行业循、航空工业领域是上游巨头制定标准而下游厂商尊循、汽车领域是少数行业寡头联合制定标准然后自执行、医疗保健领域则是在各自实践的基础上逐渐彩成行业标准。除此之外，不同的开放系统架构，也值得相互参照。
+
+# 3.1军工体系的开放系统架构
+
+5 资深故障排除员为了更加熟悉组件，需要经过零件生产工厂培训。大炮坏了，解决方式不是再买、再运或者再铸一台，而是故障排除或者更换零件。熟悉组件之所以如此重要，是因为每件武器都不必再送修工厂，而是就地维护、修理和重启。越是大件武器越是如此，特别是船舰和舰载战机等。
+
+目前，美国开发的雷达系统由一个分层的开放系统架构组成，从底层的硬件和软件，到区隔作战系统、中间件、通信面料、计算机平台的应用程序等，该框架包括一套作为应用领域不断扩大应用的组件库，使得硬件独立相对容易，可以很容易地维护和升级基础设施[19]。美国海军"战斧”飞弹武器控制系统根据光纤分布式数据接口（FDDI)以及计算机软件配置项（CS-CIs)为基础的开放系统架构，作为其武器作战控制系统接口（CCS）[20],以此实现武器控制与开发。
+
+美国空军从1998年开始资助小型企业融入军工体系的创新研究计划（SBIR），其技术平台基于条件的智能设备管理系统(ICEMS)包括一个适用于所有类型设备或系统（如发动机）的开放系统架构和一套工具[21]。例如,海军的舰载战斗机的无线技术的软件要求是可编程、多模式、多频段、网络、健壮、移动、弹性以及同步的语音、数据和视频的系统信息保障；美国海军空间和海战系统司令部(PWM179)曾经委托摩托罗拉公司设计无线电数字模块化机台的设计，该计划包括可重构的关键属性、架构的开放性、软件可编程、模块化、可移植性、可扩展性等的详细评价、分析和论证，最后，美国海军要求系统采用开放系统的规范和标准，以适当方式实施足够的开放接口、服务和支持格式规范的正确设计开发方案[22]
+
+美国海军舰艇采用的开放系统架构包括相关模型和相关标准接口，使得最新商业设备和相关技术如结构、电气、机械和其他舰载系统等，能够具有可升级性，通过开发一个开放系统架构和标准接口框架，延长和增强船舶生命力和战斗力[23]。船舰系统需要部件汰旧换新进行升级、增强、再利用等，这需要采取一个开放系统架构，创建包括工业标准接口、协议、网络变量等在内的"即插即用"环境[24]
+
+机械时代的零件更换需求导致军用标准的出现，军用标准同时也是商业和公共行业的示范标准，有了标准规格，零组件生产就不限于固定工厂和固定生产团队。当然，是否能够生产取决于生产工艺(精确度)和许可证(特许证)，但是在工业工程和行政管理上，这种做法很有效率。在电子战术时代，这种需求不仅会扩大到与军工相关的各个行业，而且本身也逐渐成为一种重要的商业思想和产业规律。
+
+# 3.2 航空工业的开放系统架构
+
+航空电子设备的开发或升级往往十分昂贵，从同一产品家族产生新的产品后代，能够节省时间和经费。基于行业硬件和软件接口的标准，硬件和软件的分层方法，能够结合最新技术开发的组件和分层架构所带来的新的商业开发应用[25]。航空工业是最为复杂的大型系统工程,包括完整的飞机、发动机和地面支持基础设施的标准等，每个子系统都包括无数开关和标准操作程序，即使电子通信非常发达，也需要多人同步操作。
+
+以波音公司所开发的开放集成车辆保养管理架构（IntegratedVehicleHealthManagement，IVHM）为例,仅仅是提供地面设施的资产管理，也需要为此创建一个基于状态维修的开放系统架构（Open System Architec-ture for Condition-Based Maintenance，OSACBM）作为通用工具，利用可扩展和高效的模块，简化IVHM集成软件框架，它主要处理整合软件模型、软件算法、数据、通信和嵌入式处理器;整合IVHM控制使用、通信、任务、飞行、维修和其他车辆的主要系统[26,27]。通过广泛的保养和使用管理的经验，航空集团所制定的软件开发工具链，可以支持复杂系统与多个商业伙伴的合作发展，以联盟结合方式解决开发和部署的难题。
+
+# T 汽车行业的开放系统架构
+
+与波音公司自己制定的开放系统架构相反，汽车制造业所发展的汽车开放系统架构（Automotive OpenSystemArchitecture，AUTOSAR）是由世界上主要汽车制造商联合制定的开放的标准化软件架构，一方面它能使现有合作伙伴关系保持稳定，另一方面它面对刹车线或引导线等关键系统[28的发展挑战制定类似的合作公约以避免不必要的规格重复制定。
+
+近年来汽车行业所需的软件复杂性增加，需要花费很多时间和成本来管理和发展汽车上的软件模块，对此AUTOSAR的一项支持分布式处理的嵌入式平台的标准化软件架构的核心是实现电子控制单元（Elec-tronicControlUnit，ECU)的虚拟总机功能(软件组件之间的通信应用)[29]。为了减少开发新型车辆功能的成本，汽车行业推行的标准化软件架构在可靠性分析过程中，故障注入方案具有重要作用，能够协助开发者面对和解决执行问题,并且增强其环境适用性[30]。AU-TOSAR对汽车电子控制所定义的一组软件开发方法和软件体系结构的标准化方案用于汽车车辆诊断协议，能够提高可重用性和可移植性，同时也降低了软件开发生命周期[31]
+
+# 3.4 医疗保健的开放系统架构
+
+网络、传感器和嵌入式设备的技术能够辅助改善医疗保健，降低人口老龄化的社会成本，然而，它的挑战是系统的可用性、可靠性和安全性。利用开放系统可以结合来自许多厂商的软件和硬件，提供医疗援助所需的信息[32]。然而，由于不同的接口和传输协议，来自不同厂商的设备之间的沟通往往是不可能的，在
+
+# 22 现代图书情报技术
+
+医学领域为患者监测和治疗的多台自动化设备缺乏配置和协调。因此，如果存在一个通用的数据和沟通模式，描述传输设备和重要参数、设备类型、通信规格等，就能兼容不同平台和系统设备，并且保持特殊插件接口的框架，使得简单插件在不同设备上有不同的用途[33]
+
+另一方面，无线网络结合图像传感器开发多种遥感应用，是目前的新兴工业。作为支撑无线传输的图像处理开放系统架构，可以支持任何一种传感器或无线网络应用实例，加快开发实际应用所需的复杂且高效的算法[34]。不仅在医疗保健的器械上,也在远程教育、空间智能管理（居家、娱乐、公共场所）、远程控制等领域(如海底和太空监测辅助)具有开拓性质。
+
+# 4开放系统架构在图书情报机构的作用
+
+目前，业界已有的图书馆自动化系统、资源链接服务器、电子资源管理系统、数字资源保存与管理系统等，在若干程度上采用开放系统架构，即采用多层的客户端/服务器架构，其组件模块化可以根据需要增减、修改和定制。然而，这些系统的深层次问题如数据迁移和重构以及核心代码的开放开发能力问题，很少被提出讨论。
+
+目前，尚未被考虑和整合的实时互动虚拟教室，其开放系统架构有三个重点：如何支持在课堂上的人机界面和个人移动设备的集成；如何应付不同情况下与其他学习系统的交互接口部署；在不同的地方、不同国家，处理不同语境中的跨文化学习所需的交互性和传输功能[35]等。
+
+此外，多重代理模式在流程控制、移动机器人、信息检索等领域已经有了充分应用，开放系统架构在此能够提供网络的动态代理的独立性，以及作为一个通用的信息检索和管理系统架构[36]。然而,开发此类系统需要自动化测试，而开发和维护大量的测试用例软件既昂贵又容易出错。在一个开放系统架构的标准接□上，由语义模型所提供的服务数据定义、功能和领域知识、创建规则等，可以模拟软件测试（SystemUnderTest，SUT)的前因和条件[37 部分解决此工程问题。
+
+在解决图书情报机构的业务流程、业务对象和资源方面，尚未采用计算机集成制造开放系统体系结构(CIMOSA)建模框架，从模型建立过程中分析机构环境进行的数据流图（DFDS)或者形成统一建模语言的案例[38]。发达的控制和监测系统(CMS)通常有一个基于组件的网络框架，能够灵活地访问和集成各种控制设备的信息，在数据交换设备上开发的网络架构可以提供更高级别的生产控制系统和设备之间的可靠连接[39]。尽管这是工业设备生产的供应商系统,但其数控的开放系统的模式值得借鉴。
+
+近年来，知识密集型产业的产品生命周期已有大幅变化，正视这种挑战，做好日益复杂的产品开发和服务管理,才能保持公司持续增长的业务[40]。而开放系统架构主要能够保持虚拟企业（VirtualEnterprise,VE)之间的合作，包括信息并行、项目经营条件、电子作小组、用户分析、知识产权和版本管理、工作流管里、分布式数据库、应用集成方案、应用启动程序等。放系统架构能够促进协作环境中所涉及的不同成员间的数据和信息的无缝流动[41]。面对越来越多的嵌人智能技术和不断发展的用户动态关系，研究密集型图书情报机构需要对上级机构与合作伙伴提供更多增值服务。
+
+# 实现开放系统架构的设计原则
+
+开放系统架构的一项重要优势是对复杂产品的开发。因为产品开发需要很多可以在跨平台上重复使用的软件组件，基于组件的开放系统架构能够实现产品组件的数据和操作方法的协同[42]。一旦参与人员和小组扩大，便可在设计、实验、样品、测试、成品、推广等诸多环节上增加交流互动的能力。
+
+开放系统架构的正面意义是实现以人为中心的设计（Human-CentralDesign）。开放系统架构上的开放平台的中间件产品，其设计原则是认识产品的目标用户，开发用户易于理解和使用的软件产品，在产品的可用性、功能性和可操作性基础上，完成以客户为中心的设计方法和成品[43]。
+
+开放系统架构的负面危机是缺乏战略思维以及系统监测和风险分析。这些因素容易被架构设计忽视：在开放系统架构的具体工程中，是否引导开发商建立一个开放系统;是否有能力评估开放系统工程;是否能够保证系统性能等[44]。由于开放系统必须允许合理的互操作性、可移植性和可扩展性，所以开放系统架构的问题在于如何实践和检测所谓的开放程度。
+
+解决这种负面危机的做法是优化设计集成系统框架。由于系统响应是集成制造工艺、物流、组织和信息等子系统的重要部分，结合质量功能（QualityFunctionDevelopment，QFD）、价值工程（ValueEngineering,VE)和失效模式和效应分析（FailureModeandEffectsAnalysis，FMEA)等，有利于产品成本、质量和可靠性的控制[45],即便是开放系统架构也需要一定的管理机制作为辅助，否则容易沦为被误解的开放含义，从而使得扩充组件和功能提升变成日后不断追加成本和人力的无底洞。换言之，开放系统架构其实是对整个系统设计者提出既要把握全局又要理清细节问题的挑战。
+
+通过开放系统架构的梳理，认识到图书情报系统与其他行业系统的共性和异性，更为底层的议题存在于数据分析、应用、管理和保存等执行问题。解决这个问题的思路，是以图书馆界先行先试的KB为基础，将在以后进行深入描述。
+
+(致谢：感谢评委的评审和编辑部的校勘。)
+
+# 参考文献：
+
+[1］ChiYL,Cai JG，Wu ZY.Platform for an Open Architecture Controller Based on a General Operation System with a Hard Real -time Extension[J].International Journal of Production Research，2003，41（12）:2839-2850.   
+[2］Ruentex Garment Management[EB/OL].［2010-O8-16]．http://www.ruentex.com.tw/garment/.   
+[3]Brueck TM,GerstbergerRL.Emerging Standards forWater UtilityComputerization[J]．Journal of American Water Works Association，1993,85(4):124-128.   
+[4]OngMH,West AA，MonfaredRP,etal.Application ofEnterprise Modelling Technique for Specifyinga Component-based System[J].Journal of Engineering Manufacture，2005，219（9）： 649 -664.   
+[5]Startseite[EB/OL].[2010-09-22].http://www.bahn.de/p/ view/index. shtml.   
+[6］Rosenman M，WangFJ.A Component Agent Based Open CAD System for Collaborative Design[J]．Automation in Construction, 2001，10(4):383-397.   
+[7]Pritschow G，Kramer C.Open System Architecture for Drives[J]. CIRP Annals-Manufacturing Technology，2005，54（1）:375- 378.   
+[8]Leiner B，Schlager M，Obermaisser R，et al．A Comparison of Partitioning Operating Systems for Integrated Systems[C]. In: Proceedings of the26th International Conference on Computer Safety，Reliability and Security.2007:342-355. [9]Ahn MK,Park YW,Jee TY.Component Based Open Middleware Architecture for Autonomous Navigation System [C]．In: Proceedings of the SPIE.2007:656120. [10]Krallis A，Pladis P,Kanellopoulos V,et al.Design，Simulation and Optimization of Polymerization Processes Using Advanced Open Architecture Software Tools[C].In:Proceedings of the 2Oth European Symposium on Computer Aided Process Engineering.2010:955 -960. [11]Arnaiz A,Iung B,Adgar A,et al. Information and Communication Technologies Within E- maintenance[J]．E- Maintenance, 2010:39 - 60. work Approach to Heterogeneous System Design for Control Systems [J]．Control Enginering Practice，1996,4(2）:229 -238.   
+[13]Mukhopadhyay D,Dalezan B.Designing Open Systems with Case ]Pikakis M,Houstis C,Vasilakis G,etal.A Knowledge Management Architecture for 3D Shapes and Applications[C].In：Proceedings of the10th Panhelenic Conference on Advances in Informatics（PCI'O5）．Berlin，Heidelberg：Springer-Verlag，2005: 360-370.   
+[15]PouliotJdardeggneEetalDeveloptof Web Geological Feature Server（WGFS） for Sharing and Querying of 3D Objects[C]．In:Proceedings of the 2nd International Workshop on 3D Geo - Information.2008:115-130.   
+16]SteimanJS,Lammers CN，Valinski ME.A ProposedOpen   
+C Cognitive Architecture Framework[C].In：Proceedings of the 2009 Winter Simulation Conference.2009:1325-1335.   
+[17] Campos J.Development in the Application of ICT in Condition Monitoring and Maintenance[J]．Computersin Industry，2009，60 (1):1-20. [18] Skok S,Sturlic I,Matica R.Multipurpose Open System Architec ture Model of Wide Area Monitoring[C].In: Procedings of 2009 IEEE Bucharest PowerTech Conference.2009:2060-2065. [19]Nelson JA．Net Centric Radar Technology & Development Using an Open System Architecture Approach[J]．IEEE Aerospace and Electronic Systems Magazine,2011,26(5）:34-37. [20］Baehr JS.The Advanced TOMAHAWK Weapons Control System for Submarines[J]. Naval Engineers Journal,1995，107（3）:35 -40. [21]Nelson HW.Distributed Control System（DCS）Network Architecture for a Shipboard Machinery Control System（MCS）[C].In: Proceedings of Instrumentation，Systems and Automation Confer
+
+# 24 现代图书情报技术
+
+ence. 2002,434:119 -131.   
+[22]Christensen E,Miller A，Wing E.Waveform Application Development Process for Software Defined Radios[C]. In: Proceedings of IEEE21st Century Military Communications Conference （MILCOM 2000）．2000:231-235.   
+[23]Rendek P,Jaw L，Smith G. Successful Trending and Diagnostics Technology Transition[C]．In:Proceedings of the 52nd ASME Turbo Expo 2007． 2007:823 -827.   
+[24]Vasilakos J, Devries R,Tompkins K T. Total Ship Open Systems Architecture[J]. Naval Enginers Journal,2000,112（4）:59 - 77.   
+[25]Walden D D,Blanshan K M,Kranz G N. Technology Roll Lessons Learned on Embedded Avionics Platforms[J].IEEE Aerospace and Electronic Systems Magazine,2000,15(5）:19-23.   
+[26] Swearingen K，Majkowski W， Bruggeman B,et al. An Open System Architecture for Condition Based Maintenance Overview[C]. In:Proceedings of 2007 IEEE Aerospace Conference.2007:4161 - 4168.   
+[27]Dunsdon J,Harrington M. The Application of Open System Architecture for Condition Based Maintenance to Complete IVHM[C]. In:Proceedings of 2008 IEEE Aerospace Conference.2008:4015- 4023.   
+[28]Hladik PE,Deplanche A M,Faucou S,et al. Adequacy Between AUTOSAR OS Specification and Real- time Scheduling Theory [C].In：Proceedings of International Symposium on Industrial Embedded Systems（SIES'07).2007:225-233.   
+[29]Jo H C,Piao S,Cho SR,et al.RTE Template Structure for AUTOSAR Based Embedded Software Platform[C].In: Proceedings of IEEE/ASME International Conference on Mechtronic and Embedded Systems and Applications 2008（MESA 2008)．2008:233- 237.   
+[30]Lanigan PE,Narasimhan P,Fuhrman TE.Experiences with a CANoe-based Fault Injection Framework for AUTOSAR[C].In: Proceedings of 201O IEEE/IFIP International Conference on Dependable Systems and Networks(DSN).2010:569-574.   
+[31]Fang Z，Wu F,Zhang Y G,et al. Development of Diagnostic Communication Module on KWP 200o According to AUTOSAR [J]．Advanced Materials Research,2011，171-172:462-467.   
+[32]Wang Q, Shin W,Liu X,et al.I-living: An Open System Architecture for Assisted Living[C]. In：Proceedings of IEEE International Conference on Systems，Man and Cybernetics( SMC'06). 2006:4268 -4275.   
+[33]Weigand C.VITAL: Use and Implementation of a Medical Communication Standard in Practice[C].In:Proceedings of Computers in Cardiology.2005:319 -322.   
+[34]Hengstler S，Aghajan H K.WiSNAP:A Wireless Image Sensor Network Application Platform[C].In：Proceedings of the 2nd International Conferenceon Testbeds andResearchInfrastructures for theDevelopment of Networks and Communities.2006:86-91.   
+[35]Suo Y,Miyata N,Morikawa H,et al.Open Smart Classroom：Extensible and Scalable Learning System in Smart Space Using Web Service Technology[J].IEEE Transactions on Knowledge and Data Engineering，2009,21(6):814-828.   
+[36]Julian V,Carrascosa C,Soler J.A Multiagent System Architecture forRetrieving and Showing Information[J].Knowledge Organization，2000,27(1-2):11-16.   
+[37]BaiXY,Hou KJ,Lu H,et al．Semantic -based Test Oracles [C].In：Proceedings of the 35th Annual IEEE International Computer Software and Applications Conference（COMPSAC）．2011： 640 -649. alJournal ofComputer IntegratedManufacturing，20o6，19（3）： 248 -263.   
+[39]Nam S H,Ryu KR,Kwon K E，et al. Architecture of Flexible and Reliable Control & Monitoring System for Distributed Machining Systems[C]．In：Proceedings of International Conference on Smart Manufacturing Application（ICSMA 2008）．2008：205- 208. lenge Management for Virtual Enterprises[C]．In：Proceedings of Processes and Foundations for Virtual Organizations，IFIP TC5/ WG5.54th Working Conferenceon Virtual Enterprises（PRO-VE' 03).2003：501-508.   
+[41]Kazi A S,Hannus M.Functional Requirements for Inter-enterprise Intranet Services[C].In:Proceedings of the 4th International Working Conference on the Design of Information Infrastructure Systems for Manufacturing：Global Engineering，Manufacturing and Enterprise Networks（DISM2000)．2000：54-60.   
+[42]Wang FJ,Mills JJ.The Component-oriented Approach Towards Complex Product Development[C]．In：Proceedings of the 4th International Working Conferenceon theDesign of Information Infrastructure Systems for Manufacturing:Global Engineering，Manufacturing and Enterprise Networks（DISM200O).2000：83-94.   
+[43]Kobayashi T,Miyamoto H,Komatsu M.Human-Centered Design Approach for Middleware[J]．Fujitsu Scientific and Technical Journal,2009,45(2):195-201.   
+[44］O'Neill T,Leaney J.Risk Management for an Open CBS Project [C]．In:Proceedings of the 8th Annual IEEE International Conference and Workshop on the Engineering of Computer Based Systems (ECBS 2001).2001:45-53.   
+[45]ChinKS,LamJ,ChanJSF，et al.A CIMOSA Presentation of anIntegrated Product Design Review Framework[J].International Journal ofComputerIntegrated Manufacturing，2005，18(4）:260 -278. （作者E-mail:gulp@ mail.las.ac.cn)

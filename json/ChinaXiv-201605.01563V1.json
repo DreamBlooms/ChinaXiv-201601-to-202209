@@ -1,0 +1,580 @@
+[
+    {
+        "type": "text",
+        "text": "INFLUENCE OFA CME'S INITIAL PARAMETERSONTHE ARRIVAL OF THE ASSOCIATED INTEPLANETARY SHOCKAT EARTHANDTHE SHOCK PROPAGATIONAL MODEL VERSION 3 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X.H. ZHAO AND X. S.FENG SIGMA Weather Group,State Key Laboratory of Space Weather,National Space Science Center, Chinese Academy of Sciences,Beijing lOo19o,China; fengx @ spaceweather.ac.cn,xhzhao@ spaceweather.ac.cn Received2015May17;accepted2015July6;published2015August10 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Predicting the arrival times of coronal mass ejections (CMEs)and their related waves at Earth is an important aspect of space weather forecasting.The Shock Propagation Model (SPM)and its updated version (SPM2), which use the initial parameters of solar flare-Type I burst events as input,have been developed to predict the shock arrival time.This paper continues to investigate the influence of solar disturbances and their associated CMEs on thecorresponding interplanetary (IP）shock'sarrival at Earth.It has been found that IP shocks associated with wider CMEs have a greaterprobability of reaching the Earth，and the CME speed obtained from coronagraph observations can be supplementary to the initial shock speed computed from Type I radio bursts when predicting the shock's arrival time.Therefore,the third version of the model,i.e.,SPM3,has been developed based on these findings.The new versioncombines the characteristics of solar flare-Type I events with the initial parameters of the accompanying CMEs to provide the prediction of the associated IP shock's arrival at Earth.The prediction test for 498 events of Solar Cycle 23 reveals that the prediction success rate of SPM3 is $70 \\% - 7 1 \\%$ which is apparently higher than that of the previous SPM2 model $( 6 1 \\% - 6 3 \\% )$ . The transit time prediction error of SPM3 for the Earth-encountered shocks is within $9 \\mathrm { h r }$ (mean-absolute). Comparisons between SPM3 and other similar models also demonstrate that SPM3 has the highest success rate and best prediction performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: shock waves-solar-terrestrial relations - Sun: coronal mass ejections (CMEs)- Sun: flares ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As one of the most violent forms of solar activity,coronal mass ejections (CMEs) can lead to non-recurrent geomagnetic storms when they collide with Earth's magnetosphere if they contain a long and strong southward magnetic field component (Gosling et al.1991; Dryer 1994; Green & Baker 2015). They are thought to be major sources of extreme space weather events.Fast CMEs usually drive an interplanetary (IP) shock ahead of them.IP shocks can accelerate particles in their propagation medium and produce large solar energetic particle events (Gopalswamy et al. 2003；Cliver & Ling 2009), compress the magnetosphere, and produce corresponding effects(Green & Baker 2O15）when they reach the Earth's orbit.Type II bursts are the evidence of these shock waves as they propagate in the solar corona and IP space.A review of the dynamic processes of CMEs in IP space is provided by Wang et al. (2O13).Due to the important space weather effects of CMEs and their associated shocks,predicting their arrival times at Earth's orbit with sufficient lead time has been a significant aspect of space weather prediction.Scientists have developed various kinds of models for the CME/shock arrival time prediction (e.g.,Feng etal.2009b,2009a).Details of the principles of these models,as well as their current prediction status,can be found in the recent review paper of Zhao & Dryer (2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have developed Shock Propagation Models,i.e.，SPM (Feng& Zhao 2006) and SPM2(Zhao &Feng 2014),to predict the shock arrival time at Earth.These models are based on an analytical solution to the propagation of blast waves in a moving medium. The inputs include the solar source location of the disturbance,the proxy piston driving time duration, the initial shock speed,and the background solar wind speed. The outputs determine whether or not the shock will hit Earth (SPM2）and the corresponding arrival time if it does (SPM, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SPM2).Prediction results for 551 events of Solar Cycle 23 reveal that the prediction accuracies of SPM2 are similar to the FearlessForecastmodelsincludingSTOA (Dryer& Smart 1984;Smart et al.1984;Smart& Shea 1985),ISPM (Smith &Dryer1990，1995)， andHAFv.2(Dryer et al.2001，2004;Fry et al.2001，2003，2007；McKennaLawlor et al.2002,2006,2012;Sun etal.2002a,2002b,2003; Smith et al. 2005,2009).The prediction success rate of SPM2 is $\\sim 6 0 \\%$ for both the Earth-encountered and Earth-missed shocks.The prediction errors of the arrival time for Earthencountered shocks are about $1 2 \\mathrm { { h r } }$ (rms error)and $1 0 \\mathrm { { h r } }$ (mean-absolute; MA error).SPM2 can now be freely accessed and used online (http://www.spaceweather.ac.cn/groupmodel. php?group $\\ L =$ sigma). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,it is difficult to further improve the prediction accuracy of SPM2. One of the most important reasons for this difficulty is that the model neglects characteristics of the associated CMEs in its inputs.Like the Fearless Forecast models, the shock's initial speed adopted in SPM2 is computed from the frequency drift rate of metric Type II radio bursts. This speed is often different from the CME speed remotesensing observed by coronagraphs on board spacecraft (e.g., SOHO/LASCO and STEREO/SECCHI).The otherkinematic parameters of CMEs，such as angular width，are also not considered in the model.More and more evidence demonstrate that CMEs are closely related to their associated IP shocks. Therefore，the kinematic characteristics ofCMEsshouldbe considered in the arrival time prediction for the associated shocks.This is the goal of this paper. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.SOLAR-IPSHOCKEVENTSAND THEIR ASSOCIATEDCMEs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao & Feng(2O14） studied 551 solar disturbance events during the period 1997 February-2006 December. These events were taken from the Fearless Forecast publications (Fry et al.2003;McKenna-Lawlor et al. 2006; Smith et al. 2009), with the exception of some interacting events and questionable events, covering nearly the whole Solar Cycle 23.The following parameters for each event were used in Zhao & Feng (2O14): the start time of the Type II burst, the source location of the associated flare,the coronal shock speed (computed from the Type II radio burst drift rate), the proxy piston driving time duration，the solar wind speed in the background,and the arrival time of the associated IP shock at L1 if it reached Earth.The corresponding IP shocks were observedatEarth for2O2 eventsand were referred to as“withshock”(abbreviated as“W-shock\"）events；the other 349 events had no IP shocks observed at Earth and were called “without shock”(abbreviated as“W/O-shock\") events. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Weadd information from the CMEs associated with these 551 solar-IP shock events.For each event,we check the CME catalog observed by SOHO/LASCO (http://cdaw.gsfc.nasa. gov/CME_list/) to find its accompanying CME.The CME that satisfies the following requirements is believed to be associated with the solar-IP shock event:(1) the first appearance time of the CME inLASCO/C2iswithin $\\pm 2 \\mathrm { h r }$ of the start time of the Type II burst; (2） the CME's main propagation direction in LASCO's observation is consistent with the source location of the solar-IP shock event;(3) if multiple CMEs satisfy（1） and (2),then we select the most eligible one.The Wind/WAVES Type II bursts and their associated CME (http://cdaw.gsfc. nasa.gov/CME_list/radio/waves_type2.html） catalog is also used for reference during our identification.For 2O2 “Wshock”events,there are 2O events during which LASCO/C2 had data gaps,and thus there is no evidence of associated CMEs.Therefore,we exclude these 2O“W-shock\"events from this study.Similarly,33“W/O-shock”events which occured when LASCO/C2 had data gaps are also excluded from this study.In this way,we obtain 498 solar-IP shock events as our event example,which includes182“W-shock” events and 316 \"W/O-shock” events. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the 182 “W-shock”events,171 are associated with CMEs observed by SOHO/LASCO; the other11 events are not associated with CMEs.Meanwhile，for 316 “W/O-shock' events,269 are associated with CMEs observed by SOHO/ LASCO;the other 47 events are not associated with CMEs. Therefore,the total sample of 498 events can be re-divided into four groups:Group I(GP I):171 Type II-CME events with corresponding IP shocks at Earth; Group II (GP II):11 Type IInon-CME events with their IP shocks at Earth; Group III (GP III):269 Type II-CME events with no IP shock at Earth;and Group IV (GP IV): 47 Type II-non-CME events with no IP shock atEarth. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the number frequency distribution of 440 TypeII-CME events（ $\\mathrm { G P I } + \\mathrm { G P I I I }$ ）along the time difference $( \\triangle t _ { \\mathrm { s t a r t } } )$ between the start of the Type II burst and the launch of the CME in LASCO/C2.Here, $\\Delta t _ { \\mathrm { s t a r t } } > 0$ indicates that the Type II start is earlier than the CME launch,while $\\Delta t _ { \\mathrm { s t a r t } } < 0$ indicates that the CME launch is earlier than the Type I start. This demonstrates that the Type II burst started before the CME launch( $\\Delta t _ { \\mathrm { s t a r t } } > 0 \\}$ ）for 4O4 of the total events.The normal distribution of the event number is centered at $0 . 4 6 \\mathrm { h r }$ ,which is also the average of $\\triangle t _ { \\mathrm { s t a r t } }$ for the total 440 events,as shown by thevertical arrow.The delay of the CME launch is,at least partly,due to the different detecting principles for Type IIs and CMEs.The launch time of a CME adopted here is its first appearance in LASCO/C2. CMEs have propagated to a distance of about 2 to ${ \\sim } 3$ solar radii before they are detected byLASCO/C2.Therefore,this“launch time”is actuallylater than the triggering time of the eruption.On the other hand, the start time of a Type I burst,which corresponds to the formation time of a shock wave,is the time of energy release. This timing is near the triggering moment of a solar eruption, and should be earlier than the former.As a consequence, the start time of the Type II burst is adopted as the beginning of a solar eventintheFearlessForecastmodels. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e55ad0c8067d153eb190dc1b13a78578cbcd98c76bb9b3bc4f3e5c7ec7cb952.jpg",
+        "img_caption": [
+            "Figure1.Number frequency distributionof 44O Type II-CME events $( \\mathrm { G P I } +$ GP III) along the time difference $( \\triangle t _ { \\mathrm { s t a r t } } )$ between the start of a Type II burst and the launch of the CME in LASCO/C2. $\\Delta t _ { \\mathrm { s t a r t } } > 0$ indicates that the Type II start is earlier than CME launch,while $\\Delta t _ { \\mathrm { s t a r t } } < 0$ indicates that the CME launch is earlier than the Type II start.The vertical dotted line indicates that $\\triangle t _ { \\mathrm { s t a r t } } = 0$ ，and the arrow represents the average of $\\triangle t _ { \\mathrm { s t a r t } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.THESHOCKPROPAGATIONMODELS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. SPM ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Feng & Zhao (2OO6) established the first version of SPM. This model was based on the combination of an analytic solution to the propagation of blast waves(Wei 1982;Wei & Dryer 1991）and the empirical estimation method of shock energy(Smith& Dryer 1990,1995).The analytic solution of this non-similarity theory for blast waves started from basic equationsof ideal fluid dynamicsundera spherically symmetric hypothesis.As opposed to the classical similarity theory,this solution includes a moving,steady-state medium with variable density.“Steady-state” means that the background medium is in a state of dynamical equilibrium,and all of the parameters within it do not vary with time. The energy released from a point blast into the background medium is believed to be constant. After a series of complicated manipulations,the following equation is derived for the propagation speed $( V _ { \\mathrm { s } } )$ of the wave front along the radial distance $R$ (in units of AU): ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { s } } = { \\frac { d R } { d t } } = \\biggl [ - 2 \\lambda _ { 1 } + \\sqrt { \\left( 2 \\lambda _ { 1 } \\right) ^ { 2 } + { \\frac { E _ { 0 } } { J _ { 0 } R } } + { \\frac { 1 } { 2 J _ { 0 } } } } \\biggr ] u _ { 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here, $u _ { 0 }$ isthe background solar wind speed, $\\begin{array} { r } { J _ { 0 } = \\frac { 3 } { 8 } } \\end{array}$ $\\lambda _ { 1 } = - 0 . 1 8 0 8$ ： $E _ { 0 }$ represents the dimensionless form of the total energy $( E _ { \\mathrm { s } } )$ of the blast $\\begin{array} { r } { E _ { 0 } = \\frac { E _ { \\mathrm { s } } } { A u _ { 0 } ^ { 2 } } } \\end{array}$ and $A = 3 0 0 \\mathrm { k g m } ^ { - 1 }$ 业 中 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The integral of Equation（1） provides the shock's transit time0 $T T )$ 1 $( T )$ to $R$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\begin{array} { r l } & { \\frac { \\partial \\mathcal { S } _ { 1 } } { \\partial x } [ \\mathcal { S } _ { 2 } ( \\mathbf { x } ) , \\mathbf { x } ] \\leq \\mathbf { x } , } \\\\ & { = \\mathbf { x } , } \\\\ & { - \\mathbf { x } \\cdot \\{ \\alpha \\mathbf { y } ( \\phi + \\mathbf { x } ^ { 2 } ) \\} \\cdot \\mathbf { y } ^ { [ \\mathcal { S } _ { 2 } \\nu _ { 2 } [ \\nu _ { 2 } + [ \\alpha + \\frac { 1 } { 2 } \\alpha ] ^ { 2 } ] } \\leq \\mathbf { x } ^ { 2 } } \\\\ & { - \\mathbf { y } \\cdot ( \\alpha + \\frac { 1 } { 2 } \\alpha ) ^ { 2 } \\alpha \\mathbf { y } ^ { [ \\mathcal { S } _ { 2 } \\nu _ { 2 } [ \\nu _ { 2 } + [ \\alpha + \\frac { 1 } { 2 } \\alpha ] ^ { 2 } ] } \\leq \\mathbf { x } ^ { 2 } } \\end{array}  } \\\\ & { \\begin{array} { r l } & { \\qquad \\quad - \\{ \\alpha \\mathbf { y } ( \\mathbf { x } ^ { 2 } - \\frac { 1 } { 2 } ) \\} \\leq \\mathbf { x } , } \\\\ & { \\qquad \\quad \\mathrm { i } [ \\alpha + \\frac { 1 } { 2 } \\alpha ] > \\mathbf { x } ^ { 2 } , } \\\\ & { \\qquad \\mathrm { i } [ \\alpha + \\frac { 1 } { 2 } \\alpha ] > \\mathbf { x } ^ { 2 } } \\end{array} } \\\\ & { \\begin{array} { r l } & { \\qquad \\mathrm { i } [ \\frac { \\partial \\mathcal { S } _ { 2 } } { \\partial x } ( \\frac { 1 + \\alpha } { 2 } - \\frac { 1 } { 2 } ) ] \\leq \\mathbf { x } ^ { 2 } } \\\\ & { \\qquad \\mathrm { i } [ \\alpha + \\frac { 1 } { 2 } \\alpha ] > \\mathbf { y } ^ { [ \\mathcal { S } _ { 2 } \\nu _ { 2 } [ \\nu _ { 2 } + \\frac { 1 } { 2 } \\alpha ] } \\leq \\mathbf { x } ^ { 2 } } \\end{array}  } \\\\ & { \\qquad \\times ( \\alpha + \\beta ) \\alpha \\mathbf { y } ^ { [ \\mathcal { S } _ { 2 } \\nu _ { 2 } [ \\nu _ { 2 } + \\frac { 1 } { 2 } \\alpha ] } \\leq \\mathbf { x } ^ { 2 } ) , } \\\\ & { \\qquad \\quad - \\{ \\alpha \\mathbf { y } ( \\alpha - \\frac { 1 } { 2 } \\alpha ) \\frac { 1 } { \\alpha } \\} \\ln [ \\alpha + \\beta ] \\leq \\mathbf { x } ^ { 2 } } \\\\ & { \\qquad \\quad - \\frac { 1 } { 2 } [ \\alpha - \\beta ] \\alpha \\mathbf { y } ^ { [ \\alpha + \\frac { 1 } { 2 } \\alpha ] } \\leq \\mathbf { x } ^ { 2 } } \\\\ &  \\qquad \\mathrm { i } [ \\frac  \\partial \\mathcal { S } _ { 2 } \\nu _  2 \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$T T _ { 0 }$ is computed by the requirement $R = 0$ when $T T = 0$ . The shock's total energy cannot be directly observed,requiring that a proxy be used. In the ISPM model, the shock's total energy is believed to be proportional to its kinetic energy flux $( V _ { \\mathrm { s } } ^ { 3 } )$ longitudinal width $( \\omega )$ ,and the duration time $( \\tau )$ of the initial pulse: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { s } } = C . \\ V _ { \\mathrm { s i } } ^ { 3 } . \\ \\omega . \\ ( \\tau + D ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here, $\\mathbf { C } = 0 . 2 8 3 \\times 1 0 ^ { 2 0 } \\mathrm { e r g } \\mathrm { m } ^ { - 3 } \\mathrm { s } ^ { - 2 } \\mathrm { d e g } ^ { - 1 }$ $D = 0 . 5 2 \\mathrm { h r }$ and anaverage of angular width $\\omega _ { \\mathrm { A } } = 6 0 ^ { \\circ }$ isadopted. The combination of Equations (1)-(3) constitutes the SPM model. The input parameters of SPM include the initial shock speed $( V _ { \\mathrm { s i } } )$ computed from the Type $\\mathrm { I I }$ radio burst drifting speed, the duration time $( \\tau )$ of the associated X-ray flare,and the background solar wind speed $\\left( u _ { 0 } \\right)$ . The outputs of SPM provide the predicted $T T$ of the shock to any radial distance $R$ assuming that the shockwillbe able to reach $R$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.SPM2 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although capable of predicting the shock's arrival time, the SPM model cannot judge whether or not an $\\mathrm { I P }$ shock will hit the Earth.The contribution of the shock's propagation direction to its arrival time is also neglected in SPM.The application of the model to actual cases often leads to much faster predicted propagations of the shock than are observed.In addition,the initial shock speed computed from Type II radio bursts usually contains observational uncertainties due to the lack of spatial information.In order to overcome these drawbacks,Zhao & Feng (2O14) put forward the second version of the model, i.e., SPM2.In SPM2, the following equation is adopted to compute the shock speed at a distance $R$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { V _ { \\mathrm { s } } = \\displaystyle \\frac { d R } { d t } = \\left[ - 2 \\lambda _ { \\mathrm { l } } + \\sqrt { \\left( 2 \\lambda _ { \\mathrm { l } } \\right) ^ { 2 } + \\displaystyle \\frac { E _ { 0 } } { J _ { 0 } R } + \\frac { 1 } { 2 J _ { 0 } } } \\right] u _ { 0 } } } \\\\ { { \\times F _ { \\mathrm { A D } } \\times F _ { \\mathrm { P D } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $F _ { \\mathrm { A D } } ~ = ~ 1 . 2 4 4 { - 6 . 2 8 } ~ \\times ~ 1 0 ^ { - 4 } u _ { 0 } \\nonumber$ ， $F _ { \\mathrm { P D } } ~ = ~ 0 . 8 5 ~ + ~ 0 . 2$ （204 cos $\\theta$ cos $\\phi$ $V _ { \\mathrm { s i } } ^ { * } = \\ ( 0 . 3 8 1 8 - 3 . 0 \\times 1 0 ^ { - 4 } V _ { \\mathrm { s i } } \\sin \\theta ) V _ { \\mathrm { s i } } + V _ { \\mathrm { s i } } .$ ， $E _ { 0 } =$ C.V3w(+DHere,FandFretheorriontefor acceleration/decelerationand thepropagationdirection, respectively. $\\theta$ denotes the source longitude and $\\phi$ denotes the source latitude of the shock. $V _ { \\mathrm { s i } } ^ { * }$ is the initial speed of the shock adjusted from $V _ { \\mathrm { s i } }$ .The shock speed at the Earth's location $( V _ { \\mathrm { s } } ( \\mathrm { E L } ) )$ can be computed from Equation (4),and then the Equivalent Shock Strength Index(ESSI) of the shock is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E S S I } = { \\frac { V _ { \\mathrm { { s } } } { \\big ( } \\mathrm { E L } { \\big ) } - u _ { 0 } } { V _ { \\mathrm { f } } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here, $V _ { \\mathrm { f } }$ is the fast-mode wave speed of the background solar wind at Earth,which is taken to be $1 0 0 \\mathrm { k m s } ^ { - 1 }$ .If $\\mathrm { E S S I } \\geqslant$ $\\mathrm { E S S I } _ { \\mathrm { t v } } = 2 . 2 9$ , then SPM2 predicts that the shock will reach the Earth and the corresponding $\\boldsymbol { { \\mathit { T } } } \\boldsymbol { { \\mathit { T } } }$ at Earth is computed from ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l }  \\mathbb { P } _ { - \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , \\infty , } \\\\ { = } & { - \\sinh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\left[ \\frac { \\sigma \\sigma } { \\kappa } \\right] \\right) ^ { 2 } - \\sinh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\sinh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } - \\left[ \\sigma \\sigma \\right] ^ { 2 } , } \\\\ { = } & { \\sinh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\\\ { = } & { \\cosh \\left( \\frac { \\sqrt { \\kappa } } { \\kappa } \\right) ^ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Otherwise,SPM2 predicts that the shock will miss Earth when （204号 $\\mathrm { E S S I } < \\mathrm { E S S I } _ { \\mathrm { t v } } = 2 . 2 9$ .The input parameters of SPM2 are the same as those of SPM with the addition of the shock's source ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4f337ab8a7e6f29c394b774303bf28083c630f198748e80d59607e096e55dcb.jpg",
+        "table_caption": [
+            "Table1 The Mean Value of the Initial Parameters for the Four Group Events "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Mean Value</td><td>GP I (171)</td><td>GP II (11)</td><td>GP III (269)</td><td>GP IV (47)</td></tr><tr><td>Vsi (km s-1)</td><td>1231</td><td>943</td><td>980</td><td>953</td></tr><tr><td>7 (hr)</td><td>1.81</td><td>0.81</td><td>1.16</td><td>0.92</td></tr><tr><td>VCME (km s−1)</td><td>1108</td><td>：</td><td>672</td><td>：</td></tr><tr><td>AWcME (°)</td><td>262</td><td></td><td>142</td><td></td></tr><tr><td>acME (m s-²)</td><td>-8.72</td><td>：</td><td>-8.84</td><td>：</td></tr><tr><td>Vsw (km s-1)</td><td>456</td><td>437</td><td>462</td><td>451</td></tr><tr><td></td><td>43.3</td><td>25.8</td><td>54.9</td><td>37.8</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note.The event number of the four groups is given in parentheses. $V _ { \\mathrm { s i } }$ is the initial shock speed; $\\tau$ is the proxy piston driving time duration; $V _ { \\mathrm { C M E } }$ is the linear speed of CMEs within LASCO's FOV; $A W _ { \\mathrm { C M E } }$ is the sky-plane width of the CMEs,which is typically measured in the C2FOVafter the width becomes stable; $a _ { \\mathrm { C M E } }$ is the acceleration of CMEs; $V _ { \\mathrm { S W } }$ is the background solar wind speed; $\\psi$ is the propagation angle of the shock relative to the Earth.All of the parameters are the averaged values of the corresponding group. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "location on the Sun.The outputs of SPM2 determine whether a shock will reach the Earth and corresponding arrival time if it does. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.INFLUENCEOFCME'SCHARACTERISTICSON ARRIVALOFTHEASSOCIATEDSHOCK ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1.With/WithoutCMEs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The combination of GPI and GP III provides 44O Type II burst events associated with CMEs,171 of which have corresponding IP shocks reaching Earth;for the other 269 events,theirIP shocks failed to reachEarth.The shock-arrival (at Earth) events account for $39 \\%$ of the total events. Similarly, the combination of GP II and GP IV provides 58 Type II burst events with no associated CMEs,of which only11 events have IP shocks arriving at Earth; the percentage of shock-arrival events isonly $1 9 \\%$ .We can see that the Earth-reaching probability for the CME-associated shocks is twice that of the non-CME-associated shocks. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to better demonstrate statistically the influence of a CME ona shock's arrival, Table 1 provides the mean values of the initial parameters for these four groups of events.In the following, $V _ { \\mathrm { s i } }$ stands for the adjusted initial shock speed (i.e., $V _ { \\mathrm { s i } } ^ { * }$ in Zhao & Feng 2014). $\\tau$ is the proxy piston driving time duration.Here,the proxy piston driving time duration $\\tau$ is defined as the interval between the two half-peak points of the GOES X-ray flux of the associated flare.It denotes the duration of the X-ray over half-peak flux. $V _ { \\mathrm { C M E } }$ is the CME speed obtained by fitting a straight line to the height-time measurements.Thus,it is an average speed within LASCO's field of view (FOV). $A W _ { \\mathrm { C M E } }$ is the angular width of the CME projected on the sky-plane of SOHO.The angular width is typically measured in the FOV ofLASCO/C2 after the width becomes stable. $a _ { \\mathrm { C M E } }$ is the CME's acceleration. $V _ { \\mathrm { S W } }$ is the background solar wind speed. $\\psi$ is the propagation direction angle of the shock，which represents the angular distance between the shock's main propagation direction and the Sun-Earth line.All of the parameters listed in Table 1 are the averaged values of the corresponding group. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We quantitatively compare the parameters of the four groups as listed in Table 1.For GPI and GPII,all of their shocks reached Earth.GPI events are associated CMEs,but GP II events are not.The shock speeds of GPI are faster than those of GP I. The piston driving times of GPIare also longer than those of GP II. The background solar wind speeds of the two groups have no apparent differences.GPI shocks have larger direction angles than GPI shocks.It can be seen that solar disturbances associated with CMEs are stronger (faster, longer duration）than those with no CMEs.Meanwhile,the smaller direction angles of the latter group would help their shocks to reach Earth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GPIand GPIII are all associated with CMEs.The shocks of GPI arrived at Earth,but those of GP III did not. The speeds (both shock and CME) of GPIare faster than thoseof GP III. The durations of GPIare also longer than those of GP III. The mean value of the CMEs’angular width for GP I $( 2 6 2 ^ { \\circ } )$ is nearly twice that of GP III $( 1 4 2 ^ { \\circ } )$ . As for $a _ { \\mathrm { C M E } }$ and $V _ { \\mathrm { S W } }$ no significant differences are found between them.The direction angles of GPI are smaller than those of GPIII.It follows that faster and wider disturbances have a higher probability of reaching Earth,but the larger propagation directions away from the Sun-Earth line would increase the disturbance's probability of missing the Earth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For GP II and GPIV,none of the shocks are associated with CMEs.The shocksof GPIIarrived atEarth,but those of GP IV did not. The parameters of initial shock speed, time duration, and background solar wind speed for GPIV events are similar to those of GP I events.However, the direction angles of GP IV are larger than those of GP II. It seems that the greater propagation directions of GP IVshocksweaken their probability of reaching Earth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For GP III and GP IV,no shocks arrived at Earth.GP III events are associated with CMEs,but GPIV events are not. The initial shock speeds for GPIII are slightly faster than those of GPIV.The durations of GP III shocks are also longer than those of GP IV.The background solar wind speeds of the two groups are similar. The direction angles ofGP III are obviously larger than those of GPIV.That is to say,these solar distances associated with CMEs are more violent.However,the direction of their propagation leads to their IP shocks missing the Earth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2. CME Speed ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Propagation speed is one of the most important factors determining the arrival times of solar transients.For each of the 440 Type II-CME events $( \\mathbf { G P I } + \\mathbf { G P I I I } )$ ,we have two speeds, i.e.,the initial shock speed $V _ { \\mathrm { s i } }$ and the CME speed $V _ { \\mathrm { C M E } }$ .These two speeds are obtained through different mechanisms,and have their own limitations and applications. $V _ { \\mathrm { C M E } }$ is measured by the coronagraph (LASCO) on the sky-plane perpendicular to the Sun-Earth line for SOHO,and therefore it does not represent the propagation speed of the CME in Earth's direction. $V _ { \\mathrm { s i } }$ is computed from the drifting speed of a Type I burst as the shock propagates from the high-density corona to the low-density IP medium. The shock speed derived in this way thus lacks directional information. $V _ { \\mathrm { C M E } }$ is often used in empirical models to predict the arrival times of CMEs and their related shocks.Meanwhile, $V _ { \\mathrm { s i } }$ is widelyused in physics-based models to predict the arrival ofIP shocks.Figure 2 displays the variation of $V _ { \\mathrm { C M E } }$ plotted versus $V _ { \\mathrm { s i } }$ for the 440 events.GPI events are denoted as asterisks and GPIII events as pluses.The dashed line is the line to fit the data points for both GPIand GP III. The correlation coefficient (CC) between the two speeds is 0.55,which demonstrates a generally good correlation between the two speeds.The corresponding shock speed is usually large (small） for fast(slow）CMEs.The dotted line represents ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bc80ddc43ffdc875369be27baab4b42ec3d0ce9b85e2566ccaeea5d2dc5d67d.jpg",
+        "img_caption": [
+            "Figure 2.Distribution of CME speeds $V _ { \\mathrm { C M E } }$ plotted against initial shock speeds $V _ { \\mathrm { s i } }$ for GPIand GP III events.The dashed line denotes the line fitting to the data points.The dotted line indicates that $V _ { \\mathrm { C M E } } = V _ { \\mathrm { s i } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$V _ { \\mathrm { s i } } = V _ { \\mathrm { C M E } }$ . It can be seen that $V _ { \\mathrm { s i } } > V _ { \\mathrm { C M E } }$ for 319 of the total 440 Type II-CMEs,and the average of $V _ { \\mathrm { s i } } / V _ { \\mathrm { C M E } }$ is 1.7. This means that the shock speed estimated from Type II radio bursts isusually larger than the CME speed obtained from coronagraph observations. This is consistent with the findings of Sun et al. (2OO2a). The reasons for this discrepancy could be as follows.On one hand, the $V _ { \\mathrm { C M E } }$ used here is the projected speed of CMEs on the sky-plane of SOHO,which is usually less than the radial speed of CMEs. On the other hand, $V _ { \\mathrm { C M E } }$ is actually the averaged speed withinLASCO's FOV.Fast CMEs will undergo decelerations during this stage. The averaged speed obtained in this way would be less than the initial speed (like $V _ { \\mathrm { s i } } )$ in these cases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We then investigate how well $V _ { \\mathrm { s i } }$ and $V _ { \\mathrm { C M E } }$ correlate with the shock's $T T$ atEarth.As no IP shock was observedat Earth for GP III events,only GPI events are analyzed.Figure 3 shows the variation of $\\pi$ plotted versus $V _ { \\mathrm { s i } }$ (Figure 3(a)), versus $V _ { \\mathrm { C M E } }$ (Figure 3(b)),and the CCs between them for 171 GPI events.The dashed line is the line to fit to data points.It follows that CC between $V _ { \\mathrm { s i } }$ and $T T$ is $- 0 . 3 6$ ，and CC between $V _ { \\mathrm { C M E } }$ and $T T$ is $- 0 . 3 5$ .Their correlations are very similar.In other words, $V _ { \\mathrm { s i } }$ and $V _ { \\mathrm { C M E } }$ are equivalent as far as the prediction of $T T$ is concerned. We try to use their combination to construct a better input speed in the revised model.The following procedures are similar to the“parameter train” of the SPM2 model (Zhao & Feng 2O14).First,we assume all of the other input parameters as well as the arrival times for these 171 GPI events,except for the input speed $V _ { i }$ The SPM2 model is conversely used to compute the“expected\"initial speed $( V _ { \\mathrm { e x p } } )$ for each event.Then,we use the linear combination of $V _ { \\mathrm { s i } }$ and $V _ { \\mathrm { C M E } }$ tofit $V _ { \\mathrm { e x p } }$ ，， ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { \\mathrm { e x p } } = c _ { 0 } + c _ { 1 } V _ { \\mathrm { s i } } + c _ { 2 } V _ { \\mathrm { C M E } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For 171 GP I events, the least-squares fit to this two-variable linear regression equation can determine the coefficients $c _ { 0 } , c _ { 1 }$ and $c _ { 2 }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\binom { c _ { 0 } } { c _ { 1 } } = \\left( \\begin{array} { l l l } { 1 7 1 } & { \\sum V _ { \\mathrm { s i } } } & { \\sum V _ { \\mathrm { C M E } } } \\\\ { \\sum V _ { \\mathrm { s i } } } & { \\sum V _ { \\mathrm { s i } } ^ { 2 } } & { \\sum V _ { \\mathrm { s i } } V _ { \\mathrm { C M E } } } \\\\ { \\sum V _ { \\mathrm { C M E } } } & { \\sum V _ { \\mathrm { s i } } V _ { \\mathrm { C M E } } } & { \\sum V _ { \\mathrm { C M E } } ^ { 2 } } \\end{array} \\right) ^ { - 1 } \\left( \\begin{array} { c } { \\sum V _ { \\mathrm { e x p } } } \\\\ { \\sum V _ { \\mathrm { s i } } V _ { \\mathrm { e x p } } } \\\\ { \\sum V _ { \\mathrm { C M E } } V _ { \\mathrm { e x p } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/365ae929bc725beb3c322d5bedde3fcb8a7252044fba71a9d23e159fba583cf3.jpg",
+        "img_caption": [
+            "Figure 3.Variation of shock's transit times to Earth TT plotted against initial shock speeds $V _ { \\mathrm { s i } }$ (a)and against CME speeds $V _ { \\mathrm { C M E } }$ (b) for GPIevents.The dashed line denotes the line fitting to data points. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this manner we obtain $c _ { 0 } ~ = ~ 2 3 0 . 5$ ， $c _ { 1 } ~ = ~ 0 . 5 5 9$ ，and $c _ { 2 } = 0 . 2 7 4$ . Therefore,the following equation will be adopted to compute the input speed $V _ { i }$ in the new model: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i } = 2 3 0 . 5 + 0 . 5 5 9 V _ { \\mathrm { s i } } + 0 . 2 7 4 V _ { \\mathrm { C M E } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition,we also give the one-variable linear fit between $V _ { \\mathrm { e x p } }$ and $V _ { \\mathrm { C M E } }$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV _ { i } = 3 9 1 . 1 + 0 . 7 0 V _ { \\mathrm { C M E } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "which is derived in the same way as Equation (9) and can be used for CME-associated events without Type $\\mathrm { I I }$ bursts (not for this study). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.3.CME Angular Width ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Angular width is another important parameter for CMEs in coronagraph observations.Although it is only a two-dimensional (2D) angular width projected on the sky-plane of the SOHO spacecraft, $A W _ { \\mathrm { C M E } }$ can at least partially reflect how wide a CME is.CMEs are called partial halo CMEsif $1 2 0 ^ { \\circ } \\leqslant A W _ { \\mathrm { C M E } } < 3 6 0 ^ { \\circ }$ and full halo CMEs if $A W _ { \\mathrm { C M E } } = 3 6 0 ^ { \\circ }$ ： We investigate the correlation between $A W _ { \\mathrm { C M E } }$ and $T T$ for 171 GPI events.We find that CC is only $- 0 . 1 7$ ,indicating only a very weak correlation between $A W _ { \\mathrm { C M E } }$ and $T T .$ Therefore, $A W _ { \\mathrm { C M E } }$ may make few contributions to the TTs of the associatedshock. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the other hand,the angular width of a CME is an important factor determining whether or not a CME encounters Earth (e.g., Shen et al. 2014). $A W _ { \\mathrm { C M E } }$ should contribute to the shock's arrival as wider disturbances have a greater chance of reaching Earth.Figure 4 shows the number frequency distribution along $A W _ { \\mathrm { C M E } }$ for GP I (top） and GP II (bottom) events. The distributions are different for these two groups.For 171 GPI events, 97 events are associated with full-halo CMEs $( A W _ { \\mathrm { C M E } } = 3 6 0 ^ { \\circ } )$ ,accounting for $56 . 7 \\%$ ；the average $A W _ { \\mathrm { C M E } }$ is $2 6 2 ^ { \\circ }$ for these 171 CMEs,as shown by the vertical dashed line. Meanwhile,for269 GPIIIevents, thenumberof full-halo CMEs is 42,accounting for only $1 5 . 6 \\%$ ; the peak of the event number distribution is located near $A W _ { \\mathrm { C M E } } = 6 0 ^ { \\circ }$ and the average $A W _ { \\mathrm { C M E } }$ is $1 4 2 ^ { \\circ }$ for these GP III events,as shown by the vertical dashed line.In other words, in a statistical sense,GPICMEs are significantly wider than GP III CMEs. This provesthe hypothesis that the width of a CME may potentially contribute tothe associated shock's arrival atEarth. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43efe449c95b85d10f4cb5113db3d23383094a6830ef755ae9094c08d3377c9b.jpg",
+        "img_caption": [
+            "Figure 4.Number frequency distribution along the CME angular width $A W _ { \\mathrm { C M E } }$ for GPI events (up) and GP III events (bottom).The dashed lines denote the mean values of $A W _ { \\mathrm { C M E } }$ for the two groups. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4.Judgements forShockArrival atEarth ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A judgement index is needed in a prediction model to predict whether or not an $\\mathrm { I P }$ shock will encounter Earth.In SPM2, ESSI is adopted as the judgement index.When $\\mathrm { E S S I } \\geqslant \\mathrm { E S S I } _ { \\mathrm { t v } }$ the shock is predicted to reach Earth;otherwise,the shock is predicted to miss Earth. $\\mathrm { E S S I _ { t v } }$ is the empirically prescribed threshold value of ESSI.We know from the above analysis that a CME's angular width is also an important parameter influencing the associated shock's arrival at Earth.Therefore, we can use the combination of ESSI and $A W _ { \\mathrm { C M E } }$ to predict the shock'sarrival for CME-associated events $\\mathbf { \\mathrm { G P I } } + \\mathbf { \\mathrm { G P } }$ III) in order to improve the prediction success rate.After a series of tests,the double standard,as follows,gives the best prediction. When $\\mathrm { E S S I } ~ \\geqslant ~ \\mathrm { E S S I } _ { \\mathrm { t v } 1 }$ and $A W _ { \\mathrm { C M E } } \\geqslant A W _ { \\mathrm { t v } }$ ，the shock is predicted to arrive at Earth; otherwise, the shock is predicted to miss the Earth.Here, $\\mathrm { E S S I } _ { \\mathrm { t v 1 } } = 1 . 5 3$ ， $A W _ { \\mathrm { t v } } = 1 2 \\bar { 1 ^ { \\circ } }$ . Figure 5 displays the scattered plot between ESSI and $A W _ { \\mathrm { C M E } }$ for 171 GPI events (solid circles）and 269 GP III events (hollow circles).It can be seen from Figure 5 that solar events with shock arrival at Earth generally have larger ESSI or $A W _ { \\mathrm { C M E } }$ However, there is still a large proportion of events with large ESSI or $A W _ { \\mathrm { C M E } }$ which are not followed by shock arrivals at Earth.Therefore,a single standard of ESSI or $A W _ { \\mathrm { C M E } }$ would usually inevitablylead to a certain amount of false alarms or misses.The double standard,on the other hand,would reduce the number of wrong predictions,as shown by the dasheddotted lines.In Figure 5,the shocks in region Iare predicted to reach Earth,and those in region II are predicted to miss Earth. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For 58 Type II-non CME events (G $\\mathrm { \\ P I I } + \\mathrm { G P I V } )$ ,no CME angular width can be adopted in the judgement index. Therefore,ESSI becomes the only parameter used to predict ashock's arrival at Earth. Figure 6 demonstratesthe distribution of the prediction success rates for these 58 events along $\\mathrm { E S S I } _ { \\mathrm { t v } 2 }$ .The solid curve in this figure denotes the success rate ofW-shock events,the dotted curve denotes that of ${ \\mathrm { w / O - } }$ shock events,and the dashed-dotted curve denotes that of all events.As opposed to SPM2,we do not select the intersection point of these curves as the final $\\mathrm { E S S I } _ { \\mathrm { t v } 2 }$ .Instead,we take $\\mathrm { E S S I } _ { \\mathrm { t v } 2 } = 2 . 6 5$ ，shown as the vertical dashed line,in order to increase the prediction success rate of the total events.This $\\mathrm { E S S I } _ { \\mathrm { t v } 2 }$ gives 3 “hit” predictions for 11 GP I events,39 “correct null’(cn） predictions for 47 GP IV events,and the total prediction success rate for these 58 events is $72 \\%$ (42/58). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a965a0aac176bc06a29ee3047f4c7d11ac46ded585c5f68923714bcdb55fd52a.jpg",
+        "img_caption": [
+            "Figure 5.Scattered plot between ESSI and $A W _ { \\mathrm { C M E } }$ for 171 GPIevents (solid circles）and $2 6 9 \\ \\mathrm { G P }$ III events (hollow circles). The dashed-dotted lines represent the threshold values of $\\mathrm { E S S I } _ { t \\nu } = 1 . 5 3$ and $A W _ { \\mathrm { t v } } = 1 2 1 ^ { \\circ }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a35b10814d01369c0f51900a1ef96ba9ff9dccdde1036434f56213cf70445777.jpg",
+        "img_caption": [
+            "Figure 6.Prediction success rates for 58 Type I-non CME events (GP $\\mathrm { I I } + \\mathrm { G P }$ IV) plotted vs.the threshold values of ESSI used to predict whether or not a shock will encounter Earth. The solid curve denotes the success rate of the W-shock events,the dotted curve denotes that of the $\\mathrm { w / o }$ -shock events,and the dashed-dotted curve denotes that of all events.The vertical dashed line represents $\\mathrm { E S S I } _ { \\mathrm { t v } 2 } = 2 . 6 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.SPM3ANDITSPREDICTIONRESULTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1. SPM3 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the above analysis,the new SPM3 model is defined as follows.For solar events associated with CMEs, both the initial shock speed $V _ { \\mathrm { s i } }$ and CME speed $V _ { \\mathrm { C M E } }$ are used to compute the initial speed of the disturbance $V _ { i }$ based on Equation (9). This initial speed $V _ { i }$ ，together with other input parameters,is used to compute the shock energy according to $\\begin{array} { r } { \\dot { E } _ { 0 } = \\frac { C . V _ { i } ^ { 3 } . \\omega . ( \\tau + D ) } { A u _ { 0 } ^ { 2 } } } \\end{array}$ Then,thedistubce'sproptee at Earth's orbit and the corresponding ESSI are derived based on Equations (4）and (5).If $\\mathrm { E S S I } \\geqslant \\mathrm { E S S I } _ { \\mathrm { t v } 1 } = 1 . 5 3$ and ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/168398e61cb59b5f268a09f08407affd504ddfca8c4210f71f692ef3cc87240a.jpg",
+        "table_caption": [
+            "Table 2 Forecastotibs)dl HAFv.2,STOA,ISPMBased on the Events of Solar Cycle 23 (1997.2-2006.12) "
+        ],
+        "table_footnote": [
+            "Noteistb comparisoned and between SPM3,SPM2,and ISPMbased on 375 events. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\"></td><td colspan=\"2\">SPM3</td><td colspan=\"2\">SPM2</td><td colspan=\"2\">HAFv.2</td><td colspan=\"2\">SPM3</td><td colspan=\"2\">SPM2</td><td colspan=\"2\">STOA</td><td colspan=\"2\">SPM3</td><td colspan=\"2\">SPM2</td><td colspan=\"2\">ISPM</td></tr><tr><td></td><td colspan=\"2\">Forecast</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td><td colspan=\"2\">Prediction</td></tr><tr><td>Observation</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td></tr><tr><td>Yes</td><td>a</td><td>C</td><td>122</td><td>60</td><td>112</td><td>70</td><td>139</td><td>43</td><td>99</td><td>52</td><td>97</td><td>54</td><td>119</td><td>32</td><td>86</td><td>51</td><td>88</td><td>49</td><td>70</td><td>67</td></tr><tr><td>No</td><td>b</td><td>d</td><td>90</td><td>226</td><td>124</td><td>192</td><td>186</td><td>130</td><td>68</td><td>199</td><td>102</td><td>165</td><td>170</td><td>97</td><td>62</td><td>176</td><td>92</td><td>146</td><td>88</td><td>150</td></tr><tr><td>Total</td><td>a+b</td><td>c+d</td><td>212</td><td>286</td><td>236</td><td>262</td><td>325</td><td>173</td><td>167</td><td>251</td><td>199</td><td>219</td><td>289</td><td>129</td><td>148</td><td>227</td><td>180</td><td>195</td><td>158</td><td>217</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$A W _ { \\mathrm { C M E } } \\geqslant A W _ { \\mathrm { t v } } = 1 2 1 ^ { \\circ }$ ，then the corresponding shock is predicted to be able to reach Earth,and its $T T$ is predicted based on Equation (6);otherwise,the shock is predicted not to reach Earth.For solar events associated with no CMEs,the shock speed $V _ { \\mathrm { s i } }$ is used as the disturbance's initial speed to compute ESSI at Earth's location. If $\\mathrm { E S S I } \\geqslant \\mathrm { E S S I } _ { \\mathrm { t v } 2 } = 2 . 6 5 .$ then the shock is predicted to reach Earth and its transit time is obtained according to Equation (6)；otherwise,the shock is predicted to miss Earth. The inputs to SPM3 are the same as those to SPM2,in addition to the speed and angular width of the associated CME in LASCO observations.The outputs of SPM3 include whether shocks will encounter Earth and their corresponding arrival times. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2.Prediction Results,Verification,and Statistics ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fundamental definitions of the prediction results are adopted in SPM2 and the Fearless Forecasts models to evaluate the efficiency of a prediction model. These definitions are as follows:“Hit”(h) when a shock is both predicted to arrive at Earth and is actually observed within $\\pm 2 4 \\mathrm { h r }$ of the predicted time;“Miss”(m) when a shock is observed but not predicted to arrive,or the predicted arrive time deviates $2 4 \\mathrm { h r }$ away from the real one；“False alarm” (fa) when no shock is observed 1-5 days after the solar event but the model predicts it to arrive; and(cn）when a shock is neither observed 1-5 days after the solar event nor predicted to arrive.In this manner，the prediction of SPM3 for 498 sample events yields 122 hits, 90 false alarms,6O misses，and 226 cns.In comparison，the prediction of SPM2 yields 112 hits，124 false alarms，70 misses,and 192 cns,and the prediction ofHAFv.2 yields139 hits,186 false alarms,43 misses,and 13O cns for these 498 events.Table 2 demonstrates the forecast $2 \\times 2$ contingency table for the prediction results of SPM3,SPM2 compared with those of HAFv.2，STOA，and ISPM，respectively.This contingency table,usually adopted to evaluate meteorological models,has been transposed to list side by side the prediction results of different models(Schaefer 199O;Smith et al.2000; Fry et al.20O1,2OO3).Here a,b,c,and d are the event numbers of h,fa,m,and cn,respectively.The total event number is given by $\\mathbf { N } = { \\mathrm { a } } { + } { \\mathbf { b } } { + } { \\mathrm { c } } { + } { \\mathrm { d } }$ ，whichis 498 forthe SPM3,SPM2, and HAFv.2 models.However, STOA was only available for 418 events,and ISPM was only available for 375 of the 498 total events in the Fearless Forecast predictions.In order to demonstrate the statistics more reasonably,this table lists the prediction results of SPM3,SPM2 compared with those of HAFv.2,STOA,and ISPM based on the same data samples, respectively.We know from the table that both the numbers of hits and cns for SPM3 are larger than those for SPM2.The total number of successful predictions $( \\mathrm { a } \\mathrm { + } \\mathrm { d } )$ is 348,304,and 269 for SPM3, SPM2,and HAFv.2.The prediction of SPM3 gives the maximum number of successful predictions,which is 44 more than that of SPM2 and 79 more than that of HAFv.2. Similarly, the prediction for SPM3 provides 298 successes for 418 STOA events,82 more than that for STOA(216) and 262 successes for 375ISPM events,42 more than that for ISPM (220).The successful prediction numbers of SPM2 lie between those of SPM3 andHAFv.2, STOA,and ISPM. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to further evaluate a model's prediction efficiency,a series of statistical forecast skill scores are derived from the contingency table. These scores are as follow:(1) $\\mathrm { P O D y } = \\mathrm { a } / \\mathrm { i }$ a $+ \\mathbf { c } )$ ，probability of detection yes；（2） $\\mathrm { P O D n } ~ = ~ \\mathrm { d } / ( \\mathrm { b } + \\mathrm { \\dot { d } } )$ probability of detection no; (3) $\\mathrm { F A R } = \\mathfrak { b } / ( \\mathrm { a } + \\mathfrak { b } )$ ，falsealarm ratio; (4) $\\mathrm { \\dot { B } I A S } = ( \\mathrm { a + b } ) / ( \\mathrm { a + c } )$ ；(5) $\\mathrm { C S I } = \\mathrm { a } / ( \\mathrm { a } + \\mathrm { b } + \\mathrm { c } )$ , critical success index;(6) $\\mathrm { T S S } ~ = ~ \\mathrm { P O D y } ~ + ~ \\mathrm { P O D n } ~ - 1$ ，true skill statistic; (7) $\\mathrm { H S S } = ( \\mathrm { a } + \\mathrm { d } { - } \\mathrm { C } 1 ) / \\$ (N-C1),Heidkeskill score,and ${ \\bf C } 1 { \\bf \\Psi } = { \\bf C } 2 { \\bf \\Psi }$ $+ (  { \\mathbf { b } } +  { \\mathbf { d } } ) (  { \\mathbf { c } } +  { \\mathbf { d } } ) /  { \\mathbf { N } }$ ， $\\begin{array} { l l l } { { \\mathrm { C } 2 } } & { { = } } & { { ( \\mathrm { a + c } ) ( \\mathrm { a + b } ) / \\mathrm { N } } } \\end{array}$ ；(8) $\\mathbf { G S S } = ( \\mathbf { a - C } 2 ) / ( \\mathbf { a + b + c - C } 2 ) ,$ ，Gilbert skill score;(9) $\\mathrm { S R } =$ (a $+ \\mathrm { d } ) / \\mathrm { N }$ ，success rate.More details about these skill scores can be found in Schaefer(199O),Mozer& Briggs(2003),Smith et al. (2009),McKenna-Lawlor et al. (2012),and Zhao & Feng (2014).Each skill parameter reflects the prediction capability of a model on a certain aspect.For example,PODy denotes the ratio between the hit shocks and all of the Earth-encountered shocks.The value of1 for PODy indicates that all of the Earthencountered shocks are correctly predicted,and1 is referred to as the“ideal value”of PODy for a“perfect” model.PODn,on the other hand,denotes the ratio between cns and all of the Earth-missed events.Meanwhile, SR represents the prediction success rate for all of the events. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3 shows a statistical comparison of these skill scores derived by SPM3，SPM2 with those derived by HAFv.2, STOA,and ISPM based on the same events.The ideal values of these skill scores for a perfect prediction are also shown in this table for reference.For all 498 events,SPM3 performs better than SPM2 for all of these nine skill scores.The prediction success rates of SPM3 for the Earth-encountered shocks (PODy), the Earth-missed shocks (PODn),and the total shocks(SR) are $67 \\%$ ， $72 \\%$ ，and $70 \\%$ ，which are5,11,and 9 percentage points higher than those of SPM2,respectively. This indicates a significant improvement in the forecast accuracy of SPM3 compared with the previous SPM2 model. Although HAFv.2 gives a greater success rate for the Earthencountered events(PDDy） than SPM3( $76 \\%$ versus $67 \\%$ ，it gives a much lower success rate for the Earth-missed events (PODn; $41 \\%$ versus $7 2 \\%$ ).The seven other skills ofHAFv.2 are all worse than those of SPM3.In particular, the success rate for the total events (SR) of HAFv.2 is 16 percentage points lower than that of SPM3.A $\\chi ^ { 2 }$ test with a $p$ Value is also used in this table to check the statistical significance of the forecasts. The larger(smaller） the $\\chi ^ { 2 } \\ ( p )$ is,the better the dependence between observations and predictions becomes.The significance level of a forecast is high when $p < 0 . 0 5$ ,and is lower, but still acceptable,when $0 . 0 5 < p < 0 . 2$ (McKenna-Lawlor et al. 2006,2012). It is found that $p < 0 . 0 5$ for SPM3, SPM2, and HAFv.2,demonstrating the significant statistics levels for their prediction results. SPM3，in particular,has the best prediction performance as shown by the $\\chi ^ { 2 }$ test. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1e2010d2ce7e2593aa2c837d1ecf20a2cca6c2663a9c31ca32f890d1fed981e.jpg",
+        "table_caption": [
+            "Table 3 StatiticalComparsofteVauofeveralStadardteooloicalForecastSilorseriedbWitoivdH Based on 498 Events,With Those of STOA Basedon 418 Events,and With Thoseof ISPMBasedon 375 Events "
+        ],
+        "table_footnote": [
+            "Note.HereNisabeseespedfcisHFA $\\chi ^ { 2 }$ test with a $p$ value is adopted to check the statistical significance of the forecasts.Alarger $\\chi ^ { 2 }$ value indicatesa better dependence between observations and predictions, and a value of $p < 0 . 0 5$ indicates a high level of significance (better than the acceptable level when $0 . 0 5 < p < 0 . 2 ;$ for the forecast. "
+        ],
+        "table_body": "<html><body><table><tr><td>Skill scores</td><td>Ideal value</td><td>SPM3</td><td>SPM2</td><td>HAFv.2</td><td>SPM3</td><td>SPM2</td><td>STOA</td><td>SPM3</td><td>SPM2</td><td>ISPM</td></tr><tr><td>PODy</td><td>1</td><td>0.67</td><td>0.62</td><td>0.76</td><td>0.66</td><td>0.64</td><td>0.79</td><td>0.63</td><td>0.64</td><td>0.51</td></tr><tr><td>PODn</td><td>1</td><td>0.72</td><td>0.61</td><td>0.41</td><td>0.75</td><td>0.62</td><td>0.36</td><td>0.74</td><td>0.61</td><td>0.63</td></tr><tr><td>FAR</td><td>0</td><td>0.43</td><td>0.53</td><td>0.57</td><td>0.41</td><td>0.51</td><td>0.59</td><td>0.42</td><td>0.51</td><td>0.56</td></tr><tr><td>BIAS</td><td>1</td><td>1.17</td><td>1.30</td><td>1.79</td><td>1.11</td><td>1.32</td><td>1.91</td><td>1.08</td><td>1.31</td><td>1.15</td></tr><tr><td>CSI</td><td>1</td><td>0.45</td><td>0.37</td><td>0.38</td><td>0.45</td><td>0.38</td><td>0.37</td><td>0.43</td><td>0.38</td><td>0.31</td></tr><tr><td>TSS</td><td>1</td><td>0.39</td><td>0.22</td><td>0.18</td><td>0.40</td><td>0.26</td><td>0.15</td><td>0.37</td><td>0.26</td><td>0.14</td></tr><tr><td>HSS</td><td>1</td><td>0.37</td><td>0.21</td><td>0.15</td><td>0.39</td><td>0.24</td><td>0.13</td><td>0.36</td><td>0.24</td><td>0.14</td></tr><tr><td>GSS</td><td>1</td><td>0.23</td><td>0.12</td><td>0.08</td><td>0.24</td><td>0.14</td><td>0.07</td><td>0.22</td><td>0.14</td><td>0.07</td></tr><tr><td>SR</td><td>1</td><td>0.70</td><td>0.61</td><td>0.54</td><td>0.71</td><td>0.63</td><td>0.52</td><td>0.70</td><td>0.62</td><td>0.59</td></tr><tr><td>x</td><td>N</td><td>70.2</td><td>23.0</td><td>15.6</td><td>64.6</td><td>26.2</td><td>10.4</td><td>49.1</td><td>22.8</td><td>7.1</td></tr><tr><td>p-Value</td><td>0</td><td>0</td><td>1.6 × 10-6</td><td>7.7 × 10-5</td><td>8.9 ×10-16</td><td>3.1 ×10-7</td><td>1.3 × 10-3</td><td>2.5 ×10-12</td><td>1.8 × 10-6</td><td>7.7 ×10-3</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Similar results are found for 418 STOA events.SPM3 performs better than SPM2 for nine skill scores,and better than STOA for eight scores (except for PODy).The prediction success rate of SPM3 for all 418 events is $71 \\%$ ，which is 8 percentage points higher than that of SPM2,and 19 percentage points higher than that of STOA.The $\\chi ^ { 2 }$ test also verifies the good prediction performance of STOA,the better performance of SPM2,and the best performance of SPM3.As for the 375 ISPM events,SPM3 performs better than SPM2 for eight scores (except forPODy),and better than ISPM for all nine scores.The prediction success rate of SPM3 for all 375 events is $70 \\%$ ，which is eight percentage points higher than that of SPM2,and 11 percentage points higher than that of ISPM. The prediction performance of ISPM is good,the performance of SPM2 is better,and the performance of SPM3 is best as shown by the $\\chi ^ { 2 }$ test. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To summarize,the prediction of SPM3 has the highest success rate and best performance compared with those of SPM2,HAFv.2,STOA,and ISPM.The successrate of SPM3 for all of the events is $70 \\% - 7 1 \\%$ ，which is evidently higher than that of the previous SPM2 model $( 6 1 \\% - 6 3 \\% )$ ，and even higherthan those ofHAFv.2,STOA,andISPM $( 5 2 \\% - 5 9 \\% )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3.ThePrediction Error of TT ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The prediction error of the shock's $T T$ at Earth,i.e. $\\Delta T$ defined as the difference between the observed and predicted arrival times,is another parameter used to demonstrate the precision of the prediction models.The MA error and rms error are two commonly adopted measurements of $\\Delta T$ .Table4lists the prediction errors of these models based on the same data samples.The number of hit events in computing these errors is also shown.Among all 498 events,the MA $\\Delta T$ of SPM3 is 9.01 hr for 122 hit shocks,which is less than both the $9 . 5 8 \\mathrm { h r }$ of theMA error for112hits(SPM2)and the $9 . 2 6 \\mathrm { h r }$ ofMA error for 139 hits (HAFv.2);the rms error of SPM3 is $1 0 . 9 1 \\mathrm { h r }$ whichis also less than the $1 1 . 6 0 \\mathrm { h r }$ of rms error of SPM2 and the $1 1 . 3 4 \\mathrm { h r }$ of rms error of HAFv.2.Similar results are obtained for comparisons with STOA and ISPM.The MA error of SPM3 is 8.94 hr for 99hitsamong 418 STOA events,which is less than both the $9 . 6 4 \\mathrm { h r }$ of the MA error of SPM2 and the $1 0 . 0 4 \\mathrm { h r }$ of the MA error of STOA;the rms error of SPM3 （204号 $( 1 0 . 7 6 \\mathrm { h r } )$ is the least among the three models.As for the 375 ISPM events,the MA and rms errorsof SPM3 are $8 . 8 7 \\mathrm { h r }$ and $1 0 . 6 4 \\mathrm { h r }$ ，respectively，which are less than the corresponding errors of SPM2 and ISPM.Briefly, the prediction errors of the shock TTs of SPM3 are within $9 \\mathrm { h r }$ (MA）and $1 1 \\mathrm { { h r } }$ (rms), which are the minimum among those of a group of models including SPM2,HAFv.2,STOA,andISPM. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/51c06c90429b8967b4a3589f967b3f14aeba245d7ae9ee43f493a22a3a93946f.jpg",
+        "table_caption": [
+            "Table 4 Comparison of Prediction Errors of the Shock's Transit Time Derived by SPM3,SPM2with those byHAFv.2,STOA,and ISPM Based on the Same Data Events "
+        ],
+        "table_footnote": [
+            "Notes. a MA denotes the mean-absolute value of the prediction error. 1 rms denotes the root mean square value of the prediction error. "
+        ],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Hit Number</td><td>MAa Error (hr)</td><td>rmsb Error (hr)</td></tr><tr><td>SPM3</td><td>122</td><td>9.01</td><td>10.91</td></tr><tr><td>SPM2</td><td>112</td><td>9.58</td><td>11.60</td></tr><tr><td>HAFv.2</td><td>139</td><td>9.26</td><td>11.34</td></tr><tr><td>SPM3</td><td>99</td><td>8.94</td><td>10.76</td></tr><tr><td>SPM2</td><td>97</td><td>9.64</td><td>11.59</td></tr><tr><td>STOA</td><td>119</td><td>10.04</td><td>11.77</td></tr><tr><td>SPM3</td><td>86</td><td>8.87</td><td>10.64</td></tr><tr><td>SPM2</td><td>88</td><td>9.49</td><td>11.56</td></tr><tr><td>ISPM</td><td>70</td><td>8.88</td><td>10.97</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6.CONCLUSION AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on a set of 498 solar-IP shock events during 1997.02-2006.12, the influence of CMEs on associated shock arrivals at Earth are analyzed.It is found that the shocks associated with CMEs have a larger probability of reaching Earth than those not associated with CMEs.The angular width of the associated CME,although only a 2D projection on the sky-plane of the spacecraft, can be a useful index for judging whether the shock will hit Earth.The CME speed,obtained through remote-sensing observations of coronagraphs,are still valuable in predicting the shock arrival time.These results lead to the third version of SPM3.For the CME-associated events, the CME speed and the initial shock speed computed from Type I burst data are combined to compute the initial propagation speed of the disturbance in SPM3.A double standard including both the shock strength index ESSI and CME angular width $A W _ { \\mathrm { C M E } }$ is adopted to predict whether or not the shock will hit Earth.For the non-CME-associated events,only the Type II speed is input into the model as the initial propagation speed to predict the shock's arrival (including arrival time)at Earth,modifying the threshold value ofESSI.The prediction results of SPM3 for 498 sample events reveal that the successrate forall events is $70 \\% - 7 1 \\%$ ,which is significantly higher than that of SPM2 $( 6 1 \\% - 6 3 \\% )$ ．The deviations of the predicted TTs of SPM3 are within $9 \\mathrm { h r }$ on the MA error and $1 1 \\mathrm { { h r } }$ on the rms error,which are less than those of SPM2.Comparisons between SPM3 and the Fearless Forecast models demonstrate the superiority of SPM3 as well. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Admittedly,although the prediction success rate of SPM3 is greatly improved compared with the previous SPM2 model,its improvements in the shock $T T$ prediction are limited.Many factors could potentially cause this.On one hand, the sample eventsused in this studyare CMEs from Solar Cycle 23when SOHO was the only spacecraft tracking their movements in the sky-plane.The CME speed derived in this way is the projected speed,which does not represent the propagation speed of the CME along the Sun-Earth direction. Large uncertainties in $V _ { \\mathrm { C M E } }$ restrict further improvements to the $T T$ prediction of the shock. Possible solutions to this restriction could include adopting the CME's radial speed,which is derived from models (such as cone models） based on single spacecraft observations(Jang et al.2O14).Another solution involves estimating the initial geometry and three-dimensional (3D) speeds of CMEs based on observations from multiple spacecraft (STEREO,SOHO;Kilpua et al.2012;Gopalswamy et al. 2013;Lee et al. 2013). On the other hand, the input parameters used in this study were obtained when the disturbances propagated near the Sun.Therefore,the lead time of SPM3's prediction is very long, nearly the whole $\\pi$ ofthe disturbance from the Sun to Earth,as the modelis analytic and thus requires no running time.Models based on heliospheric image data(STEREOHIsand SMEI) can provide more accurate predictions for arrival times but with shorter lead times (Colaninno et al. 2013；Mishra & Srivastava 2O13；Mostl et al.2014). For example,Webb (2013) applied the TappingHoward model (Tapping & Howard 2Oo9) to predict the arrival timeatEarthof the 2O11February15 CME eventbased on HI and/or SMEI observations,and the corresponding prediction accuracy could be within an hour.However, the prediction's lead time was only several hours.Kilometric Type II radio burst emission can also be used to track shock dynamics in the inner heliosphere and provide shock arrive time predictions (CoronaRomero et al.2013;Xie et al. 2013).Further prediction models considering these factors should be developed based on the events of Solar Cycle 24.This is the next goal of our research. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was jointly supported by the National Basic Research Program (973 program) under grant 2012CB825601, the Knowledge Innovation Program of the Chinese Academy of Sciences (KZZD-EW-O1-4), the National Natural Science ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Foundation of China (41231068， 41274179， 41474153, 41274192，41374176，41304146，and 41474152)，and the Specialized Research Fund for State Key Laboratories.We acknowledge the papers and web site of the Fearless Forecast for listing the shock events.The CME catalog used in this paper was generated and is maintained at the CDAW Data Center by NASA and The Catholic University of America in cooperation with the Naval Research Laboratory. SOHO is a projectof international cooperation between ESA andNASA. We also acknowledge the Web site http://cdaw.gsfc.nasa. gov/CME_list/radio/waves_type2.html for providing the catalog of Type I bursts and their associated CMEs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cliver,E.W.,& Ling,A.G.2009,ApJ,690,598   \nColaninno,R.C.,Vourlidas,A.,& Wu,C.C.2013,JGR,118,6866   \nCorona-Romero,P., Gonzalez-Esparza,J.A.,& Aguilar-Rodriguez,E.2013,   \nSoPh,285,391   \nDryer,M.1994,SSRv,67,363   \nDryer,M.,Fry,C.D., Sun,W.,et al.2001,SoPh,204,265   \nDryer,M.,& Smart,D.F.1984,AdSpR,4,291   \nDryer,M., Smith,Z.,Fry,C.D., et al.2004, SpWea,2, S09001   \nFeng,X. S., Zhang,Y., Sun,W.,et al. 2009a, JGR,114,A01101   \nFeng,X. S.,Zhang,Y.,Yang,L.P.,Wu, S.T.,& Murray,D.2009b,JGR,114,   \nA10103   \nFeng,X.S.,& Zhao,X.H.2006,SoPh,238,167   \nFry,C.D.,Detman,T.R.,Dryer,M.,et al.2007,JGR,69,109   \nFry,C.D.,Dryer,M.,Smith,Z.,et al.2003,JGR,108,1070   \nFry,C.D., Sun,W.,Deehr,C.S.,et al.2001, JGR,106,20985   \nGopalswamy,G.,Mäkela,P.,Xie,H.,& Yashiro,S.2013,SpWea,11,661   \nGopalswamy,N.,Yashiro,S.,Lara,A.,et al. 2003,GeoRL,30,8015   \nGosling,J.T.,McComas,D.J.,Phillips,J.L.,& Bame,S.J.1991,JGR,   \n96,7831   \nGreen,L.,& Baker,D.2015,Wthr,70,31   \nJang,S.,Moon,Y.-J.,Lee,J.-O.,& Na,H.2014,JGR,119,7120   \nKilpua,E. K.J.,Mierla,M.,Rodriguez,L.,et al.2012,SoPh,279,477   \nLee,C.O.,Arge, C.N., Odstrcil,D.,et al.2013,SoPh,285,349   \nMcKenna-Lawlor,S.M.P.,Dryer,M.,Kartalev,M.D., et al.2006,JGR,111,   \nA11103   \nMcKenna-Lawlor,S.M.P.,Dryer,M.,& Smith,Z.2002,AnGeo,20,917   \nMcKenna-Lawlor,S.M.P.,Fry,C.D.,Dryer,M.,et al.2012,AnGeo,30,405   \nMishra,W.,& Srivastava,N.2013,ApJ,772,70   \nMostl,C.,et al.2014,ApJ, 787,119   \nMozer,J.B.,& Briggs,W.M.2003,JGR,108,1262   \nSchaefer,J.T.1990,WtFor,3,570   \nShen,C.L.,Wang,Y.M.,Pan,Z.H.,et al.2014,JGR,119,5107   \nSmart,D.F.,Shea,M.A.,Barron,W.R.,& Dryer,M.1984, in Proc.STIP   \nWorkshop on Solar/Interplanetary Intervals,ed.M.A.Shea etal.(Chelsea,   \nMI: Bookcrafters,Inc.),139   \nSmart,D.F.,& Shea,M.A.1985,JGR,90,183   \nSmith,Z.,& Dryer,M.1990,SoPh,129,387   \nSmith,Z.,& Dryer,M.1995,NOAA Tech.Memo.ERL SEL-89   \nSmith,Z.,Dryer,M.,& Fry,C.D.2005,SpWea,3,S07002   \nSmith,Z.,Dryer,M.,Ort,E.,& Murtagh,W.2000,JASTP,62,1265   \nSmith,Z.K.,Dryer,M.,McKenna-Lawlor,S.M.P.,et al.2009,JGR,114,   \nA05106   \nSun,W.,Deehr,C.S.,Fry,C.D.,et al.2003,GeoRL,30,2044   \nSun,W.,Dryer,M.,Fry,C.D.,et al.2002a, GeoRL,29,1171   \nSun,W.,Dryer,M.,Fry,C.D.,et al.2002b,AnGeo,20,937   \nTapping,S.J.,& Howard,T.A.2009,SSRv,147,55   \nWang,Y.M., Zhou,Z.J.,Liu,J.J.,Shen,C.L.,& Wang,S.2013,ScChD,   \n43,934   \nWebb,D.F.2013,in ASI Conf.Ser._10,Int.Symp.on Solar Terrestrial   \nPhysics,ed.N.Gopalswamy et al.,37   \nWei,F. S.1982,ChJSS,2,63   \nWei,F.S.,& Dryer,M.1991,SoPh,132,373   \nXie,H.,Cyr,O.C., St., Gopalswamy,N., Odstrcil,D.,& Cremades,H. 2013,   \nJGR, 118,4711   \nZhao,X.H.,& Dryer,M.2014, SpWea,12,448   \nZhao,X.H.,& Feng,X. S.2014,JGR,119,1 ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,230 @@
+# 基于小波阈值和全变分模型的图像去噪
+
+张弘，周晓莉(西安邮电大学 自动化学院,西安710121)
+
+摘要：针对小波阈值函数去噪不彻底并且造成图像边缘模糊的问题，提出一种自适应小波阈值和全变分模型相结合的去噪方法。利用小波变换的时频域特性将含噪图像分解得到各维度小波系数，对低频小波系数利用全变分模型去噪，对于高频系数根据不同分解尺度选择不同的最佳阈值去噪，克服了统一阈值的不足，增强了算法的自适应性。理论分析和仿真实验结果表明，所提方法兼顾了小波变换和全变分模型的去噪优点，在有效去除噪声的同时更完整地保留了图像的边缘和细节信息，有较高的结构相似度和峰值信噪比。
+
+关键词：图像去噪；自适应阈值；小波变换；全变分模型 中图分类号：TP391.41 doi:10.3969/j.issn.1001-3695.2018.06.0422
+
+Method for image denoising based on wavelet transform and total variational model
+
+Zhang Hong, Zhou Xiaolit (School of Automation,Xi'an University ofPosts &Telecommunications,Xi'an 710l21,China)
+
+Abstract:Asthedrawbacksof raditional wavelet thresholdalgorithmforimage noisereductionthatitcould not eliminate the noisethoroughlyandblurtheimage edge,thispaperproposedanimage denoising methodbasedon wavelettransformandtotal variationmodel.Firstly,the waveletcoeficientsofeachdimension separated fromthe noisy image through the wavelet transform,thenusethetotalvariation model tofilterthelowfrequencycoeficients,andforthe highfrequencycoeficients, diferentthresholds indifferentdecompositionscalesforeliminatingthenoiseovercamethelackoftheuniversalthresholdand enhancedtheadaptabilityof thealgorithm.Finally,thewaveletinversionobtained thedenoised image.Theoreticalanalysis andExperimentalresults showthatthis algorithm withtheadvantagesofboth wavelettransformand total variationmodel,it canremovenoiseeffectively,kep imageedgesanddetails verywell,thestructural similarityandpeak signal-to-noiseratio have also improved.
+
+Key words:image denoising;adaptive thresholding;wavelet transform; total varation model
+
+# 0 引言
+
+图像在获取、传输、转换等过程中不可避免会受到噪声的干扰，对图像的识别、分析和理解带来不利影响[1]。因此需要对图像进行去噪处理，使后续的分析和信息提取更准确。
+
+目前，图像去噪算法主要有：基于滤波的去噪算法、基于多尺度变换的去噪算法和基于偏微分方程的去噪算法[2]。基于滤波的去噪算法包括中值滤波[3]，卡尔曼滤波[4]，维纳滤波[5]等，这些方法主要是通过滤除图像的高频部分达到去噪的目的，然而在滤掉噪声的同时会造成图像的结构信息的丢失。以小波变换为代表的多尺度变换具有良好的时频分析特性[，广泛应用于图像去噪。其中小波阈值去噪是小波去噪的主要方法[7.8]，但该类方法存在小波系数过扼杀现象，导致小波系数重构时的误差较大。为解决该问题，一些学者提出了自适应阈值去噪方法，但在保留图像细节时仍有一定缺陷,如基于邻域小波系数的图像去噪方法9]，虽然研究了领域小波系数对阈值选取的影响，改进了统一阈值，但没有考虑子带对阈值的影响。利用掩模滤波器对小波分解系数进行自适应滤波的方法[10],但在优化过程中计算复杂度较高。根据加入阈值调节因子，利用采样点长度的不同调节阈值的方法[]，由于对阈值估计不准确以及受图像大小的影响，去噪后图像存在边缘模糊细节丢失的问题。基于偏微分方程(partialdifferential equation,PDE)的图像去噪方法因其较好的保边性而得到广泛应用[12\~14]。Rudin 等提出基于图像的全变分(totalvariation,TV)[13]模型，该方法是将图像去噪建模成一个能量函数的最小化问题，从全新的角度解释图像去噪的过程，能够在去噪的同时有效保护图像的边缘纹理信息，但在噪声较大的情况下容易产阶梯效应[15]，从而影响去噪效果。
+
+针对以上不足，利用小波去噪模型的时频分析特性和全变分模型保持图像边缘纹理等细节特征的优点，本文提出一种自适应小波阈值和全变分模型相结合的图像去噪方法。该方法首先对含噪图像进行小波变换，将图像分为低频、高频区域分别进行处理。在图像的低频区域采用全变分模型，对于高频区域，根据噪声程度的不同对去噪力度进行自适应调整，也即采用一种阈值随着分解尺度和子带变化的自适应小波阈值进行去噪，克服了统一阈值的不足，提高了算法的去噪性能。此外，通过对具有不同噪声程度和不同纹理分布的图像进行仿真实验验证本文提出方法的有效性。
+
+# 1全变分模型和小波阈值去噪
+
+# 1.1全变分模型
+
+全变分模型首次将整体变分引入到图像去噪领域[13]。基于全变分模型的图像去噪是将图像能量用一个函数表示，在约束条件下，通过减小图像系统的能量去除图像噪声。因此，图像的去噪问题转变成了一个能量最小化问题。
+
+设 $f _ { 0 }$ 为含噪图像， $\Omega$ 表示图像的定义域，$f _ { 0 } ( x , y ) = f ( x , y ) + n ( x , y )$ ，其中 $f ( x , y )$ 为原始的清晰图像，$n ( x , y )$ 是方差为 $\sigma ^ { 2 }$ 的高斯噪声。则 $f$ 的整体变分为
+
+$$
+T V ( f ) = \int _ { \Omega } \sqrt { \mid \nabla f \mid ^ { 2 } } d x d y
+$$
+
+图像被噪声污染是一个正问题，根据观测的图像数据、所给的限制条件和所作的假设来获得原图像数据。去噪过程是一个逆问题，可能导致解的不唯一或不稳定，在数学上解决这类问题通常来用正则化方法对解空间进行约束。因此基于全变分的图像降噪可以归结为如下最小化问题：
+
+$$
+\operatorname* { m i n } E ( f ) = \frac { \lambda } { 2 } \int _ { \Omega } ( f - f _ { 0 } ) ^ { 2 } d x d y + \int _ { \Omega } \sqrt { | \nabla f | ^ { 2 } } d x d y
+$$
+
+其中： $\frac { \lambda } { 2 } \int _ { \Omega } ( f - f _ { 0 } ) ^ { 2 } d x d y$ 为数据保真项，它代表恢复图像和含噪图像之间的逼近程度，主要起保留原图像特性和降低图像失真度的作用。 $\int _ { \Omega } \sqrt { \mid \nabla f \mid ^ { 2 } } d x d y$ 为正则化项，它能够很好的反映出图像中的边缘信息。其导出的欧拉-拉格朗日方程为
+
+$$
+- \nabla \cdot \left( \frac { \nabla f } { \mid \nabla f \mid } \right) + \lambda \left( f - f _ { 0 } \right) = 0
+$$
+
+从方程(3)可以看出，扩散系数为 $\frac { 1 } { | \nabla f | }$ 在图像边缘处，$| \nabla f$ 较大，扩散系数较小，因此在边缘区扩散较弱，从而保留了边缘。在平滑区域，扩散系数较大，因此在图像平滑区域的扩散能力较强，从而去除噪声。
+
+# 1.2小波阈值去噪
+
+从信号和噪声在小波域中的不同奇异性可知[16]，有用的信号表现为低频信号，高频信号则为噪声信号。经过小波变换后，信号的小波系数比噪声的小波系数大，因此确定一个合适的阈值，将绝对值小于阈值的系数置为零，而保留或收缩绝对值大于阈值的系数，得到估计小波系数，然后利用估计小波系数进行信号重构，得到的估计信号就是去噪后的信号。其去噪过程如图1所示。
+
+![](images/1ca311bbb215affc767393281eef1fc62ea8a37116f4973fddb2197f4881ea42.jpg)  
+图1小波去噪过程
+
+小波阈值去噪通常又分为硬阈值去噪和软阈值去噪，其中，硬阈值是将小波系数的绝对值和阈值进行比较，小于阈值的小波系数置为0，大于阈值的小波系数不变。设阈值为 $T$ ，小波系数为 $w _ { i , j }$ ，则硬阈值结果 $\hat { w } _ { i , j }$ 如下：
+
+$$
+\begin{array} { r }  \hat { w } _ { i , j } = \{ { \begin{array} { l l } { w _ { i , j } } & { | w _ { i , j } | \geq T } \\ { 0 } & { | w _ { i , j } | < T } \end{array} } \end{array}
+$$
+
+软阈值与硬阈值不同之处是当小波系数大于或等于阈值时，小波系数值变为该点值与阈值的差，具体如下：
+
+$$
+\begin{array} { r } { w _ { i , j } = \left\{ \begin{array} { c c } { s i g n ( w _ { i , j } ) ( \left| w _ { i , j } \right| - T ) } & { \left| w _ { i , j } \right| \geq T } \\ { 0 } & { \left| w _ { i , j } \right| < T } \end{array} \right. } \end{array}
+$$
+
+这两种方法易于实现，可快速得到估计小波系数，但该算法存在不足，在硬阈值方法中 $\stackrel { \wedge } { w } _ { i , j }$ 在 $T$ 处是不连续的，得到的重构信号会产生震荡，并且会对小波系数产生过扼杀现像。由软阈值方法得到的i,虽然连续性好，但当|w.j|≥T时，wi,j和 $w _ { i , j }$ 总是存在恒定的偏差 $T$ ，影响了重构信号与真实信号的逼近程度。
+
+# 2 自适应小波阈值和全变分结合的去噪方法
+
+针对统一阈值函数的“过扼杀”现象以及造成图像边缘模糊的问题，本文提出一种基于自适应小波阈值和全变分模型相结合的去噪方法，即通过小波变换将含噪图像分为低频和高频区域。在图像的低频区域采用全变分模型去噪，对高频区域采用自适应小波阈值去噪，最后通过小波逆变换得到去噪后的图像。
+
+# 2.1 自适应小波阈值
+
+在较小的邻域内，小波系数具有相关性，因而在对小波系数进行阈值处理时，应考虑其邻域系数的情况，尽可能保留图像细节。因此，在阈值函数中引入相邻系数[17]。假设 $\boldsymbol { d } _ { j , \boldsymbol { k } }$ 是噪声信号的小波系数集，阈值函数 $\hat { \boldsymbol { d } } _ { j , \boldsymbol { k } }$ 为
+
+$$
+\hat { d } _ { j , k = } \left\{ d _ { j , k } \left[ 1 - \alpha \times \frac { \lambda ^ { 2 } } { S _ { j , k } ^ { 2 } } \right] s _ { j , k } { } ^ { 2 } \geq \alpha \times \lambda ^ { 2 } \begin{array} { c } { \mathrm { ~ } } \\ { \mathrm { ~ } } \\ { 0 } \end{array} \right.
+$$
+
+其中： ${ S _ { j , k } } ^ { 2 } = \frac { 1 } { R ^ { 2 } } \sum _ { m = - R } ^ { m = R } \sum _ { n = - R } ^ { n = R } d _ { m , n } ^ { 2 }$ 是对各层高频子带的能量估计，$R$ 是所选择的邻域窗口大小， $m \ 、 n$ 分别为子带小波系数矩阵的行数和列数， $d _ { m , n }$ 为为该子带的小波系数， $\lambda = \sigma { \sqrt { 2 \log N } }$ ，N是信号的长度， $\sigma$ 为噪声标准差。
+
+小波系数随分解尺度的增加，其自身呈现近似指数衰减，也即噪声在信号分解的过程中，能量逐渐减弱，且分解后的水平和垂直高频子带中所含的小波系数值和所占的能量都比角子带大，说明水平和垂直高频子带中所含噪声少。当采用统一阈值去噪时，由对角子带估计不同方向的高频子带上的阈值，这样会去除掉垂直和水平子带中的部分图像信息，造成图像的模糊。根据信号和噪声在分解中的这一特性。本文提出通过变化阈值函数式(6)中的参数 $\alpha$ 来调整阈值。根据小波系数在图像分解中近似指数的衰减特性，取 $\alpha { = } \frac { 1 } { 2 ^ { i } }$ $i$ 整参数 $\alpha$ ，可以选择不同尺度上的小波系数对应的阈值函数，这样能够保证 $\hat { \boldsymbol { d } } _ { j , \boldsymbol { k } }$ 的整体连续性，从而避免信号产生震荡，提高去噪效果。
+
+# 2.2自适应小波阈值和全变分相结合的去噪方法
+
+由于小波阈值函数去噪会造成图像边缘模糊，而全变分能够保护图像边缘，因此，可以将小波阈值函数和全变分相结合，达到去除噪声的同时保留图像边缘的目的。假设 $\left\{ V _ { \mathrm { j } } \right\}$ 是一张量积空间，构成 $l _ { 2 } \left( r \right)$ 上的一个多尺度分析， $\phi { \big ( } x { \big ) }$ 和 $\varphi ( x )$ 分别是相应的尺度函数和小波函数，根据Mallat金字塔分解法，图像 $f \left( x , y \right)$ 二维离散小波变换的快速分解可表示为
+
+$$
+\begin{array} { l } { { f \left( x , y \right) { = } \displaystyle { \sum } { c _ { m , n } ^ { i } \left( L L \right) \phi \left( x \right) } { + } } } \\ { { \displaystyle { \sum _ { k = 1 , 2 , 3 } } { \sum _ { m , n } } d _ { m , n } ^ { i , k } \left( L H \right) \varphi \left( x \right) } }  \end{array}
+$$
+
+$$
+\left\{ \begin{array} { l l } { c _ { m , n } ^ { i } \left( L L \right) = \displaystyle \sum _ { l _ { 1 } \in Z } \displaystyle \sum _ { l _ { 2 } \in Z } \mathrm { g } \left( l _ { 1 } \right) h \left( l _ { 2 } \right) c _ { 2 m - l _ { 1 } , 2 m - l _ { 2 } } ^ { i - 1 } } \\ { d _ { m , n } ^ { i , 1 } \left( L H \right) = \displaystyle \sum _ { l _ { 1 } \in Z } \displaystyle \sum _ { l _ { 2 } \in Z } \mathrm { g } \left( l _ { 1 } \right) h \left( l _ { 2 } \right) c _ { 2 m - l _ { 1 } , 2 m - l _ { 2 } } ^ { i - 1 } } \\ { d _ { m , n } ^ { i , 2 } \left( H L \right) = \displaystyle \sum _ { l _ { 1 } \in Z } \displaystyle \sum _ { l _ { 2 } \in Z } h \left( l _ { 1 } \right) g \left( l _ { 2 } \right) c _ { 2 m - l _ { 1 } , 2 m - l _ { 2 } } ^ { i - 1 } } \\ { d _ { m , n } ^ { i , 3 } \left( H H \right) = \displaystyle \sum _ { l _ { 1 } \in Z } \displaystyle \sum _ { l _ { 2 } \in Z } h \left( l _ { 1 } \right) h \left( l _ { 2 } \right) c _ { 2 m - l _ { 1 } , 2 m - l _ { 2 } } ^ { i - 1 } } \end{array} \right.
+$$
+
+其中： $i = 1 , 2 , . . . , I$ 为小波分解的尺度， $h ( . ) , \mathrm { g } ( . )$ 分别为高通滤波器和低通滤波器， $c _ { m , n } ^ { i } \left( L L \right)$ 为原图像的近似表示，$d _ { m , n } ^ { i , 1 } \left( L H \right) , d _ { m , n } ^ { i , 2 } \left( H L \right) , d _ { m , n } ^ { i , 3 } \left( H H \right)$ 分别为垂直、水平、对角三个方向的高频小波系数。因为低频子带图 $c _ { m , n } ^ { i } \left( L L \right)$ 是原图像$f _ { 0 }$ 的近似表示，将低频子带图 $c _ { m , n } ^ { i }$ 拓展至与原始图像 $f _ { 0 }$ 相同大小，这样全变分的保真项就变成
+
+$$
+\int _ { \Omega } { ( f - c _ { m , n } ^ { i } ) ^ { 2 } d x d y }
+$$
+
+其对应的能量泛函如下：
+
+$$
+E _ { _ { N E W } } = \frac { \lambda } { 2 } \int _ { \Omega } ( f - c _ { m , n } ^ { i } ) ^ { 2 } d x d y + \int _ { \Omega } \sqrt { | \nabla f | ^ { 2 } } d x d y
+$$
+
+相应的欧拉-拉格朗日方程如下：
+
+$$
+d i \nu ( \frac { \nabla f } { | \nabla f | } ) + \lambda ( c _ { m , n } ^ { i } - f ) = 0
+$$
+
+参数 $\lambda$ 对扩散项 $\int _ { \Omega } \sqrt { | \nabla f | ^ { 2 } } d x d y$ 和保真项$\int _ { \Omega } { ( f - c _ { m , n } ^ { i } ) ^ { 2 } d x d y }$ 起平衡作用，当 $\lambda$ 值越大时，保真项作用就越明显，去噪后的图像就越接近原图像。本文根据不同图像去噪后峰值信噪比的值来确定 $\lambda$ 的值，即取去噪图像质量最佳（峰值信噪比达到最大值）时对应的 $\lambda$ 的值。本文应用梯度下降法求解式(10)得到全变分模型去噪后的低频子图像，应用式(6)得到的自适应小波阈值函数处理后的高频子图像，最后通过小波逆变换得到去噪后的图像，方法实现流程如图2所示，具体步骤如下：
+
+a)小波变换。选用sym5小波基对图像进行小波变换，确 定对图像的 $I$ 层分解，得到低频子图像 $L L _ { i }$ ，水平高频子图像 $H L _ { i }$ ，垂直高频子图像 $L H _ { i }$ 和对角高频子图像 $\boldsymbol { H } \boldsymbol { H } _ { i }$ ， $i = 1 , 2 , . . . , I$ 。
+
+b)全变分处理。将低频子图像 $L L _ { i }$ 用TV模型进行去噪处理，得到处理后的低频子图像LL'。
+
+c)阈值化处理。对三个方向的高频子图像，按式(6)对其小波系数分别进行阈值化处理，获得处理后的高频子图像 $H L _ { i } ^ { , }$ 、LH、 $H H _ { i } ^ { , }$ 。
+
+d)图像重构。对应用TV模型和小波阈值化处理后的图像低频部分 $L L _ { i } ^ { \prime }$ 和高频部分 $H L _ { i } ^ { , }$ 、 $L H _ { i } ^ { , }$ 、 $H H _ { i } ^ { , }$ 进行小波逆变换，并且进行重构，最后得到去噪后的图像结果。
+
+![](images/6bcbf4f84756f86e120a7e1a709622a8e9015fd125bdefc553bba8ae2865aecc.jpg)  
+图2去噪方法实现流程图
+
+# 3 实验结果与分析
+
+为验证本文提出方法的去噪性能，通过仿真实验对本文提出的去噪方法和ROF法、非均值滤波(NLM)去噪法、自适应小波阈值去噪法的图像去噪效果进行对比。采用Barbara、Peppers和Lena三种不同细节的图像进行实验。对三幅图像加入均值为0，噪声标准差 $\sigma$ 分别为15、20、25和30的加性高斯白噪声，为确保实验可行性，本文选用sym5作为小波基。
+
+# 3.1去噪结果对比
+
+为观察不同噪声程度的去噪效果，这里将加入标准差 $\sigma$ 为15、20、25 和30 的高斯噪声的Barbara、Peppers 和Lena 图像分别用ROF法、非均值滤波去噪法、自适应小波阈值去噪法以及本文提出的去噪方法进行去噪的结果列出，如表1\~3所示。
+
+![](images/79b848784c3d4a03dcb02e278064e4a480edc82ce15267d343b309fc47fa7bc3.jpg)  
+表1Barbara 图像不同噪声程度去噪结果对比
+
+![](images/ae7a6dac0f0dd233dd7dc52125bb382dd6c433ab93c2065fb9bfb65139f64b80.jpg)  
+表2Peppers 图像不同噪声程度去噪结果对比
+
+9 原图 含噪图像 ROF   
+15 万 广司   
+20 宝 武   
+25 城 国园医医园   
+30 武医
+
+为了更好地比较图像去噪前后结构保持情况，本文选用Sobel算子检测用ROF法、非均值滤波去噪法、自适应小波阈值去噪法以及本文提出的去噪方法分别对加入均值为0、标准差 $\sigma = 3 0$ 的高斯噪声的Barbara、Peppers 和Lena 图像去噪结果的边缘，结果如图3\~5所示。
+
+![](images/10d2a6d3ee7638e563b795494142b3f582003df50303ff89a27e6515bd5d5f25.jpg)  
+图3Barbara去噪后的边缘提取图像
+
+![](images/0fca4656ca446af2e2ad78aacd7101f23318b88435a12b1d26d012b40e0cc199.jpg)  
+表3Lena 图像不同噪声程度去噪结果对比  
+图4Peppers 去噪后的边缘提取图像
+
+从表1\~3中可以看出，随着噪声方差的增大，采用ROF法虽能抑制一定的噪声，但是过度平滑了图像中的细节信息，如Barbara的头巾、裤子和桌布、Lena的帽子等都有过度平滑现象，ROF进行边缘检测时，容易受到噪声的影响，如图4(d)中 Peppers 的部分细节丢失。并且从表3Lena 图像看出去噪后图像背景亮度变暗，去噪效果不理想。采用非均值滤波去噪后图像边缘模糊，存在失真现象，如图3\~5(d)Peppers、Lena的边缘和表1中Barbara的头部和手臂。采用自适应小波阈值法去噪不彻底，且同样出现边缘模糊，如表1\~3中Lena头发、图片背景以及Barbara 的右侧桌布均有模糊现象，采用本文方法去噪后图像平滑自然，其边缘和细节信息保留的较为完整，如图3\~5中Lena帽子、Barbara 的头巾和桌布纹理、Peppers都比较清晰，Barbara的头部和Lena帽子的轮廓更明显，从图3\~5(f)可以看出，本文方法去噪后提取的边缘信息更完整。通过与ROF法、非均值滤波法和自适应阈值法去噪结果的对比可以看出，从本文方法具有更好的去噪效果，能更好地保护图像的边缘纹理和细节信息。
+
+![](images/b344956a19373a0df1829c5f9dc3e5e3f23717a92d0d1869caa5ec3e9b507828.jpg)  
+图5Lena去噪后的边缘提取图像
+
+# 3.2评价标准
+
+为进一步对本文方法进行客观的评价，这里选用峰值信噪比(peak signal noise ratio，PSNR)、均方误差(mean square error,MSE)以及结构相似度（structual similarity，SSIM）作为评价标准。具体公式如下：
+
+$$
+P _ { _ { P S N R } } = 1 0 \log \frac { 2 5 5 ^ { 2 } M N } { \displaystyle \sum _ { i = 1 } ^ { M } \sum _ { j = 1 } ^ { N } [ f ( i , j ) - g ( i , j ) ] ^ { 2 } }
+$$
+
+$$
+M _ { _ { M S E } } { = } \frac { 1 } { M N } { \sum _ { i = 1 } ^ { M } } { \sum _ { j = 1 } ^ { N } } [ f ( i , j ) - g ( i , j ) ] ^ { 2 }
+$$
+
+$$
+{ \cal S } _ { S S I M } = { \frac { ( 2 { u _ { f } } { u _ { g } } + c _ { 1 } ) ( 2 { \sigma _ { f g } } + c _ { 2 } ) } { ( { u _ { f } } ^ { 2 } + { u _ { g } } ^ { 2 } + c _ { 1 } ) ( { \sigma _ { f } } ^ { 2 } + { \sigma _ { g } } ^ { 2 } + c _ { 2 } ) } }
+$$
+
+其中： $f ( i , j )$ 表示含噪图像， $g ( i , j )$ 表示去噪后的图像， $\mathbf { M }$ 和N分别为图像的行数和列数， $\boldsymbol { u } _ { f }$ ， ${ \boldsymbol u } _ { g }$ ， ${ \sigma _ { f } } ^ { 2 }$ ， ${ \sigma _ { g } } ^ { 2 }$ ， $2 \sigma _ { _ { f g } }$ ，分别表示图像 $f$ 、 $g$ 的均值、方差、协方差， $c _ { 1 }$ ， $\boldsymbol { c } _ { 2 }$ 为常数。PSNR表示原图像与降噪图像噪声水平的差异，能够反映处理后图像逼近原始清晰图像的程度。PSNR 值越大去噪后的图像在平均意义上越接近于原始图像。MSE是原始图像和去噪后图像之差平方的期望，MSE 值越小图像去噪效果越好。SSIM直接将两幅图像的结构相似程度作为评价标准，SSIM值越大，说明去噪图像与原始图像越相似，去噪后图像视觉效果越好。这里将标准差设置为15、20、25 和30，计算Barbara、Peppers和Lena图像分别采取自适应小波阈值去噪法、ROF法、非均值滤波和本文改进去噪方法的峰值信噪比、均方误差和结构相似度，观察噪声程度对去噪方法的影响，其结果分别如表 4\~6所示。
+
+表4不同方法的峰值信噪比(dB)对比  
+
+<html><body><table><tr><td>图像</td><td>自适应阈值</td><td>ROF</td><td>NLM</td><td>改进方法</td></tr><tr><td rowspan="5">Barbara</td><td>79.34</td><td>78.00</td><td>73.90</td><td>80.70</td></tr><tr><td>76.46</td><td>73.99</td><td>72.49</td><td>77.62</td></tr><tr><td>74.51</td><td>71.20</td><td>71.82</td><td>75.71</td></tr><tr><td>73.38</td><td>69.55</td><td>71.48</td><td>74.51</td></tr><tr><td>75.22</td><td>77.44</td><td>79.05</td><td>81.88</td></tr><tr><td rowspan="3">Peppers</td><td>68.15</td><td>73.81</td><td>73.96</td><td>79.66</td></tr><tr><td>65.92</td><td>71.12</td><td>70.74</td><td>78.03</td></tr><tr><td>62.97</td><td>68.91</td><td>68.91</td><td>76.99</td></tr><tr><td rowspan="4">Lena</td><td>73.96</td><td>76.50</td><td>79.11</td><td>82.89</td></tr><tr><td>69.57</td><td>73.97</td><td>73.96</td><td>80.17</td></tr><tr><td>66.81</td><td>70.99</td><td>70.63</td><td>78.37</td></tr><tr><td>63.78</td><td>69.57</td><td>68.91</td><td>77.26</td></tr></table></body></html>
+
+表5不同方法的均方误差对比  
+
+<html><body><table><tr><td>图像</td><td>0</td><td>自适应阈值</td><td>ROF</td><td>NLM</td><td>改进方法</td></tr><tr><td rowspan="5">Barbara</td><td>15</td><td>0.74</td><td>2.51</td><td>2.21</td><td>0.93</td></tr><tr><td>20</td><td>1.12</td><td>4.02</td><td>3.74</td><td>1.51</td></tr><tr><td>25</td><td>1.77</td><td>6.30</td><td>4.12</td><td>1.71</td></tr><tr><td>30</td><td>3.04</td><td>7.43</td><td>4.65</td><td>2.30</td></tr><tr><td>15</td><td>0.32</td><td>1.21</td><td>0.58</td><td>0.17</td></tr><tr><td rowspan="3">Peppers</td><td>20</td><td>0.68</td><td>2.74</td><td>1.26</td><td>0.46</td></tr><tr><td>25</td><td>1.07</td><td>5.03</td><td>1.53</td><td>1.02</td></tr><tr><td>30</td><td>1.32</td><td>7.12</td><td>1.86</td><td>1.21</td></tr><tr><td rowspan="4">Lena</td><td>15</td><td>2.20</td><td>1.01</td><td>0.95</td><td>0.62</td></tr><tr><td>20</td><td>2.91</td><td>2.60</td><td>1.24</td><td>0.98</td></tr><tr><td>25</td><td>3.12</td><td>4.91</td><td>1.57</td><td>1.04</td></tr><tr><td>30</td><td>4.23</td><td>6.42</td><td>1.92</td><td>1.30</td></tr></table></body></html>
+
+表6不同方法的 SSIM对比  
+
+<html><body><table><tr><td>图像</td><td>0</td><td>自适应阈值</td><td>ROF</td><td>NLM</td><td>改进方法</td></tr><tr><td rowspan="4">Barbara</td><td>15</td><td>0.809</td><td>0.824</td><td>0.802</td><td>0.834</td></tr><tr><td>20</td><td>0.717</td><td>0.711</td><td>0.714</td><td>0.721</td></tr><tr><td>25</td><td>0.698</td><td>0.673</td><td>0.683</td><td>0.703</td></tr><tr><td>30</td><td>0.527</td><td>0.515</td><td>0.534</td><td>0.649</td></tr><tr><td rowspan="4">Peppers</td><td>15</td><td>0.867</td><td>0.811</td><td>0.825</td><td>0.874</td></tr><tr><td>20</td><td>0.765</td><td>0.772</td><td>0.764</td><td>0.781</td></tr><tr><td>25</td><td>0.641</td><td>0.643</td><td>0.635</td><td>0.652</td></tr><tr><td>30</td><td>0.604</td><td>0.607</td><td>0.609</td><td>0.611</td></tr><tr><td rowspan="4">Lena</td><td>15</td><td>0.813</td><td>0.809</td><td>0.819</td><td>0.822</td></tr><tr><td>20</td><td>0.695</td><td>0.733</td><td>0.721</td><td>0.749</td></tr><tr><td>25</td><td>0.631</td><td>0.647</td><td>0.624</td><td>0.658</td></tr><tr><td>30</td><td>0.607</td><td>0.625</td><td>0.617</td><td>0.631</td></tr></table></body></html>
+
+从表4结果可以看出，随着加入 $\sigma$ 的增大，四种方法的峰值信噪比都逐渐减小。四种方法中，无论是对纹理信息丰富的Barbara和Peppers图像，还是对边缘信息比较丰富Lena图像，应用本文方法得到的峰值信噪比最大，均方误差最小，如表5所示，说明本文方法的去噪效果达到了最好。
+
+从表6可以看出，当标准差 $\sigma = 1 5$ 时，四种方法的SSIM值相差不大，当 $\sigma = 3 0$ 时，本文方法得到的 SSIM值相比于$\sigma = 1 5$ 时得到的 SSIM值降低了0.128，而其他三种方法得到的SSIM值平均降低了0.234，且随着 $\sigma$ 的增大本文方法所得SSIM值最大，说明利用本文方法得到的去噪图像视觉效果最好。
+
+# 4 结束语
+
+针对小波阈值方法去噪不彻底且导致图像边缘模糊的问题，本文提出一种基于自适应小波阈值和全变分模型相结合的图像去噪方法，该方法应用小波阈值法在高频部分根据不同尺度、不同方向上的含噪情况确定最佳阈值函数的优点，克服了小波统一阈值的不足，增强了算法的自适应性。同时利用全变分法对低频部分降噪处理的良好效果，更多地保留了原始图像的边缘信息。对含不同方差的高斯噪声图像的实验结果表明，本文提出的方法不仅能够有效地去除图像噪声，获得较低的均方误差和较高的峰值信噪比，而且图像的纹理细节也能得到较好的保留。
+
+# 参考文献：
+
+[1]Krishna BA,Masthan S,Susmitha CD.Analysis of den-oising on different signals using new thresholding function [C]//Proc of Conference on Signal Processing and Communication Engineering Systems.2018:154-162.   
+[2] 胡悦,仲崇潇，曹梦宇,等.基于增广拉格朗日乘子的快速高阶全变分图 像去噪方法[J].系统工程与电子技术,2017,39(12):2831-2839.(Hu Yue, Zhong Chongxi,Cao Mengyu,etal.A fast high-order total variation image deno-ising method based on augmented Lagrangian multiplier [J]. System
+
+Engineering and Electronics,2017,39(12):2831-2839.)
+
+[3]Zhang Shiru,Li Xiaona,Zhang Caiying.Modified adaptive median filtering[C]//ProcofInternational ConferenceonIntelligent Transportation. Big Data & Smart City. 2018.
+
+[4] 林思铭,彭卫东,林志国,等.一种改进的卡尔曼滤波压缩感知信道估计 算法[J].计算机应用研究,2017,34(4):1217-1220.(Lin Siming,Peng Weidong,Lin Zhiguo,etal. Animproved Kalmanfiltercompresedesing channel estimation algorithm [J].Application Research of Computers, 2017,34 (4): 1217-1220.)   
+[5]Kethwas A, Jharia B.Image denoising using fuzzy and Wiener filter in wavelet domain [Cl// Procof International Conference on Computer and Communication Technologies.2015.   
+[6] 周先春，吴婷，石兰芳,等.一种基于曲率变分正则化的小波变换图像去 噪方法[J].电子学报,2018,46(03):621-628.(Zhou Xianchun,Wu Ting, Shi Lanfang,etal.A wavelet transform image denoising method based on curvature variational regularization [J]. Acta Electronica Sinica, 2018,46 (03): 621-628.)   
+[7]Donoho D L,Johnstone IM. Ideal spatial adaptive via W-avelet shrinkage [J]. Biometrika,1994: 425-455.   
+[8] Luisier F, Blu T, Unser M.A new sure approach to image denoising: interscale orthonormal wavelet thresholding[J]. IEEE Trans on Image Processing,2007,16 (3): 593-606.   
+[9]Kimlyk M,Umnyashkin S. Image denoising using discr-ete wavelet transform and edge information [Cl/ Proc of IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering. NJ: IEEE Press, 2018: 1823-1825.   
+[10]吴光文，王昌明,包建东,等.基于自适应阈值函数的小波阈值去噪方法 [J].电子与信息学报，2014,36(6):1340-1347.（Wu Guangwen，Wang Changming,Bao Jiandong,etal. A wavelet threshold denoising method based on adaptive threshold function [J]. Journal of Electronics & Information Technology,2014,36 (6):1340-1347.)   
+[11] Saritha M,Kulkarni S,Halagati S. Image denoising using wavelets transform andadaptive least mean square meth-od [C]// Proc of International Conference on Signal Processing,Power and Embedded System. 2016: 1961-1966.   
+[12]周尚波,王李平,尹学辉.分数阶偏微分方程在图像处理中的应用[J].计 算机应用，2017,37 (2): 546-552.(Zhou Shangbo,Wang Liping，Yin Xuehui.Application of fractional partial differential equations in image processing [J].Computer Applications,2017,37(2): 546-552.）   
+[13] Rudin L I,Osher S,Fatemi E.Nonlinear total variation b-ased noise removal algorithms [J]. PhysicaD,1992,60 (1-4): 259-268.   
+[14] Chato L,Latifi S,Kachroo P.Total variation denoising method to improve the detection process in IR images [Cl// Proc of IEEE the 8th Annual UbiquitousComputing， Electronicsand Mobile Communication Conference. NJ: IEEE Press,2017: 441-447.
+
+[15]王诗言.一种融合结构张量与非局域全变分的图像去噪方法[J].计算机 应用研究，2018,35(3):930-939.(Wang Shiyan.An image denoising method based on fusion structure tensor and non-local total variation [J]. Application Research of Computers,2018,35(3):930-939.)
+
+[16] Om H,Biswas M.A generalized image denoising method using neighbouring wavelet coeficients [J]. Signal Image and Video Processing,
+
+2015,9(1): 191-200.
+
+[17] Chen G Y,Bui T D,Krzyzak A. Image denoising using n-eighbouring Wavelet coefficients [C]// Proc of IEEE International Conference on Acoustics,Speech and Signal Processing.Piscataway,NJ:IEEE Press, 2004.

@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "基于Frank编码的抗干扰方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胡海涛，张剑云，周青松(国防科技大学电子对抗学院，合肥230037)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：当干扰从雷达的主瓣方向进入时，采用自适应波束形成算法会导致主瓣波束变形、偏移等问题。针对干扰从雷达主瓣进入的问题，提出了一种对发射波形设计的抗干扰方法。当发射经Frank 编码后的信号，利用Frank 编码的正交性，构造出匹配滤波器和阻塞滤波器，分别将接收到的数据通过两滤波器，得到两路信号，然后利用自适应对消的方法将干扰抑制掉，从而达到抑制主瓣干扰的目的，通过仿真验证了利用波形设计的方法可有效抑制从主瓣进入的干扰。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：抗主瓣干扰；相位编码；匹配滤波；阻塞滤波 中图分类号：TN911.2 doi:10.3969/j.issn.1001-3695.2018.04.0251 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anti-interference method based on Frank coding ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hu Haitao, Zhang Jianyun, Zhou Qingsong (National University of Defense Technology Instituteof Electronic Counter,Hefei 23oo37,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: When the interference enters from the direction of the main-lobeof theradar,adopting the adaptive beamforming algorithm willeadtoproblemssuchasbeam distortionand migrationofthe main-lobe.Aimingattheproblemofinterference entering from theradar main-lobe,this paper proposedananti-jamming methodbasedon the designofthe transmitted waveform.Whenthesignal encodedbyFrankistransmited,the matched filterandthe blockingfilterareconstructed byusing the orthogonalityoftheFrankcode,andthereceived data is passed throughthetwo filters toobtain two signals.Then the interferenceissuppressedbytheadaptivecancelationmethod,thusthemain-lobe interferenceissuppressd.Finaly, simulation results show that the method of waveform design can effectively suppressinterference from main-lobe ntry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ".ey words: anti-mainlobe interference; phase encoding; matched filtering; blocking filtering ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷达作为现代化战争的\"眼睛”，其对于战争的重要性不言而喻，雷达在复杂电磁环境下探测目标的性能以及雷达的生存能力已经成为决定战争胜负的重要因素错误!未找到引用源。在交战中，敌我双方为了夺取电磁制空权开展了一系列干扰与反干扰措施，根据干扰进入雷达天线的角度，可以分为主瓣干扰和副瓣干扰。针对副瓣干扰而言，利用自适应对消算法、超低副瓣天线、旁瓣匿影技术等可以取得较好的抗干扰效果[I。但是当干扰从主瓣方向进入时，目标信号和干扰信号在空域上无法区分，采用自适应算法会导致主瓣畸变、旁瓣电平升高以及天线方向图发生偏移等问题错误!未找到引用源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雷达主瓣干扰已经成为威胁雷达探测性能和生存能力的主要因素，针对这一问题，目前抗干扰技术主要在时域、空域、频域、极化域以及多域联合范围内开展研究。R.Wu等人研究了基于多线性约束的抗主瓣干扰方法，当存在主瓣干扰进行自适应波束形成时，增加额外的约束，使得在对干扰抑制的同时保持主瓣的方向图，但是该方法无法估计出目标的时空参数误！未找到引用源。。Compton 首先提出了利用极化阵列抗干扰的方法，国内的王雪松、晁淑媛等人对这一方法进行了深入研究，对极化滤波器的性能进行了理论分析并提出了评估指标错误!未找到引用源。[6],但是由于外部干扰与目标信号非理想极化，导致辅助通道中经极化滤波后的信号仍存在部分目标回波，无法实现有效的干扰抑制，同时也会导致目标信号削弱。周青松等人研究了基于盲源分离的抗主瓣干扰方法错误!未找到引用源。，但是回波信号经过盲源分离后，信号的相位信息等遭到破坏，给后期信号的参数估计带来了困难。苏保伟，王强等人提出了基于阻塞矩阵预处理的抗主瓣干扰方法研究，但此方法需要准确知道主瓣干扰信号的波达角（directionofarrival,DOA)，而对于干扰信号的估计需要利用MUSIC等算法，算法的复杂度较高，此外当干扰信号与目标信号在同一角度时，构造出来的阻塞矩阵会将目标信号和主瓣干扰一同滤除，此时算法失效错误!未找到引用源。错误!未找到引用源。。Yu等人研究了基于四通道主瓣干扰抑制算法，该方法与传统的单脉冲测角相比多构造出一个双差波束，形成特殊的旁瓣对消结构，从而将主瓣干扰抑制掉，但是该系统较为复杂且只能对消掉一个主瓣干扰信号[9]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文针对雷达受到主瓣干扰的情况，提出了一种基于阻塞滤波器的抗主瓣干扰方法。首先利用Frank 编码矩阵对发射信号进行相位编码，由于Frank 编码每行具有零互关的特性，利用这一特性设计阻塞滤波器将目标信号滤除，从而使得该路信号仅包含干扰和噪声而不包含目标信号。同时在信号的另一路设计匹配滤波器，在该路中包含目标信号、干扰和噪声。利用阻塞滤波器处理后的信号作为辅助通道，而利用匹配滤波器处理后的信号作为主阵列通道，最后利用自适应波束形成算法形成波束来达到抑制主瓣干扰的目的。本文算法思路如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0bede5b0cb3245c375718036924cb0631c19a87ea133547d2f82e73ea06a0d95.jpg",
+        "img_caption": [
+            "图1基于阻塞滤波器的抗主瓣干扰方法信号流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Frank编码及信号模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1Frank 编码介绍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Frank 编码是由海米勒（Heimiler）和法兰克（Frank）共同提出的，长度为 $m ^ { 2 }$ 的Frank编码可以由Frank矩阵组成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol C = \\left[ \\begin{array} { c } { C _ { 0 } } \\\\ { C _ { 1 } } \\\\ { \\vdots } \\\\ { C _ { m - 2 } } \\\\ { C _ { m - 1 } } \\end{array} \\right] = \\left[ \\begin{array} { c c c c c } { W ^ { 0 } } & { W ^ { 0 } } & { W ^ { 0 } } & { \\cdots } & { W ^ { 0 } } \\\\ { W ^ { 0 } } & { W ^ { 1 } } & { W ^ { 2 } } & { \\cdots } & { W ^ { m - 1 } } \\\\ { W ^ { 0 } } & { W ^ { 2 } } & { W ^ { 4 } } & { \\cdots } & { W ^ { 2 ( m - 1 ) } } \\\\ { \\vdots } & { \\vdots } & { \\vdots } & { \\ddots } & { \\vdots } \\\\ { W ^ { 0 } } & { W ^ { m - 1 } } & { W ^ { 2 ( m - 1 ) } } & { \\cdots } & { W ^ { ( m - 1 ) ( m - 1 ) } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $W = e ^ { j 2 \\pi / m }$ ,Frank 编码矩阵为正交矩其编码序列也是正交序列。设第 $p$ 行 $q$ 列的元素为 $C _ { p q }$ ，则",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { p q } = \\exp [ j 2 \\pi ( p - 1 ) ( q - 1 ) / m ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Frank编码阵列的各行具有零互关的特性，即阵列第 $m$ 行与第 $n$ 行之间的互相关函数",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { m = 0 } ^ { N - 1 } \\pmb { R } _ { m n } ( \\tau ) = 0 , \\qquad \\tau = 0 , \\pm 1 , \\pm 2 , \\cdots \\pm ( N - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据编码信号的这个特性可以设计出与发射Frank编码信号相正交的滤波器组，从而将目标信号从接受信号中滤除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2信号模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用Frank编码对发射信号进行相位编码，从而得到雷达的发射信号，具体编码规则如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设每个脉冲的周期为 $T$ ，脉冲组的周期为 $m T$ 。每个脉冲的脉冲宽度为 $\\tau$ ，在每个脉冲宽度 $\\tau$ 中又均分为 $m$ 个子脉冲，利用Frank编码矩阵的第i行对第i个脉冲进行编码，其中编码",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "矩阵中第i行中第 $k$ 个元素对应于第 $i$ 个子脉冲第 $k$ 个相位。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8dd63107fd69b431947cb95170ac841f14a69ac2b599cc6e53c193d90209f2d.jpg",
+        "img_caption": [
+            "图2雷达发射经Frank编码相位调制后的信号"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设发射信号的幅度为 $A$ ,子脉冲宽度为 $\\tau _ { s u b } = \\tau / m$ ，则在一个脉冲组内，第 $i$ 个脉冲编码信号为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { i } ( t ) = \\left\\{ \\begin{array} { c c } { { A { \\displaystyle { \\sum _ { n = 0 } ^ { m - 1 } } } r e c t { \\left[ \\displaystyle { \\frac { t - n \\tau _ { s u b } } { \\tau _ { s u b } } } \\right] } \\mathrm { e x p } [ j ( 2 \\pi f _ { 0 } t + \\phi _ { i n } ) ] } } & { { \\qquad ( i - 1 ) T \\le t < ( i - 1 ) T + \\tau _ { s u b } ( i - 1 ) } } \\\\ { { 0 } } & { { \\qquad ( i - 1 ) T + \\tau \\le t < i T + \\tau _ { s u b } ( i - 1 ) T + \\tau _ { s u b } ( i - 1 ) T + \\tau _ { s u b } ( i - 1 ) T + \\tau _ { s u b } ( i - 1 ) } } \\end{array} \\right. .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\phi _ { i n }$ 表示一个脉冲组内第 $i$ 个脉冲第 $n$ 个子脉冲的相位编  \n码， $m$ 为子脉冲的个数，与Frank编码矩阵的维数相同， $f _ { 0 }$ 为  \n信号的载频， $\\tau _ { s u b }$ 为子码信号的宽度，rect为脉宽为 $\\tau _ { s u b }$ 的矩形  \n函数， $r e c t ( t ) = \\left\\{ \\begin{array} { c c } { { 1 } } & { { 0 \\leq t < \\tau _ { s u b } } } \\\\ { { 0 } } & { { \\mathbb { H } \\backslash \\{ \\dag \\} } } \\end{array} \\right.$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令多相位编码信号的幅度调制函数为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi ^ { i } ( t ) = \\left\\{ \\begin{array} { c c } { { \\displaystyle { A \\sum _ { n = 0 } ^ { m - 1 } } r e c t } { \\left[ \\frac { t - n \\tau _ { _ { s u b } } } { \\tau _ { _ { s u b } } } \\right] } } & { { ( i - 1 ) T \\le t < ( i - 1 ) T + \\tau } } \\\\ { { 0 } } & { { T + \\tau \\le t < i T } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则发射信号可以写为 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { i } ( t ) = \\psi _ { i } ( t ) \\exp [ j ( 2 \\pi f _ { 0 } t + \\phi _ { i n } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设目标信号距离雷达为 $R _ { 0 }$ ，并且以速度 $\\nu _ { 0 }$ 向雷达径向运动，则第 $i$ 个编码脉冲信号的回波信号为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathrm { e c h o } } ^ { \\mathrm { ~ ~ } i } ( t ) = \\psi _ { i } ( t - \\tau ) \\mathrm { e x p } [ j 2 \\pi f _ { 0 } ( t - \\tau ) + j \\phi _ { i n } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\tau = 2 ( R _ { 0 } + \\nu t ) / c$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 抗主瓣干扰信号处理模块介绍 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阻塞矩阵抗主瓣干扰方法抑制系统信号处理流程如图3所示。系统主要有三个模块组成，分别为匹配滤波处理模块、阻塞滤波处理模块和自适应对消处理模块。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f81048e1b90fbf8dbbe5ef174708aadd682764c5321377af352214bbd59c4fda.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 匹配滤波处理模块",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "匹配滤波处理模块的目的是为了让输出信号的信噪比达到最大，此时输出的信号既存在目标信号也存在干扰和噪声信号。匹配滤波的冲激响应函数和发射信号 $S ( t )$ 相关，可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh ( t ) = k S ^ { * } ( t _ { 0 } - t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $S ( t )$ 为雷达发射信号， $t _ { 0 }$ 为脉冲积累时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2阻塞滤波处理模块",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阻塞滤波处理模块的目的是将目标信号从回波信号中滤除，从而得到只包含干扰和噪声的数据。阻塞滤波利用的是Frank编码矩阵各行之间零相关的性质，编码矩阵中任何一行子码和其它子码都是正交的，因此，除本身以外的任何子码行都可以作为该子码阻塞滤波器的冲激响应。因此阻塞滤波器的冲激响应函数和匹配滤波器的冲激响应函数是不相关的，其冲激相应可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ce488c89c9e58a54686c44cd859010a1cbc48d39aa6c28d75d3ff06eead4b02.jpg",
+        "img_caption": [
+            "图3信号处理流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { b } ( t ) = k S ^ { \\ast } ( t _ { 0 } - t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $t _ { 0 }$ 为脉冲积累时间， $S ^ { \\prime } ( t )$ 为与发射信号 $S ( t )$ 正交的信号，其编码规则如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将接收数据的通过阻塞滤波器，并将每个子码经过阻塞滤波器得到的数据在时间上对其并累加，可知经滤波后的回波信息中的目标信号被抑制，仅包含外部干扰和噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3自适应旁瓣相消算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设 $N$ 个阵列天线接收到的信号 $y _ { n } ( k )$ 作为信号处理的主通道，为了不增加系统的硬件复杂度，这里将天线所有阵列接收到的信号作为信号处理的辅助通道，记为 ${ \\pmb x } _ { n } ( k )$ ，$\\pmb { x } _ { n } ( k ) = \\pmb { y } _ { n } ( k ) = [ x _ { n 1 } , x _ { n 2 } , \\cdots , x _ { n m } ] ^ { T }$ 。主通道中经匹配滤波处理单元后的数据记为 $\\pmb { Y } ( k )$ ，辅助通道经阻塞滤波处理单元后的数据为$X ( k )$ ，其中 $k$ 为采样点数。则由最小均方误差准则可以得到最优加权矢量为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { W } _ { o p t } = \\pmb { R } ^ { - 1 } { } _ { X X } \\pmb { R } _ { X Y }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { R } _ { x x } = E \\Big [ \\pmb { X } \\pmb { X } ^ { H } \\Big ] , \\pmb { R } _ { x Y } = E \\Big [ \\pmb { X } \\pmb { Y } ^ { H } \\Big ]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设阵列为理想的均匀线性阵，阵元个数 $N = 1 6$ ，阵元间距 $d = \\%$ 。假设空间中存在一个期望信号和两个从主瓣方向进入的噪声调频压制式干扰信号，期望信号的方位角为 $0 ^ { \\circ }$ ，假设目标距雷达为 $2 2 5 \\mathrm { K m }$ ，雷达发射信号为经Frank编码调制后的矩形脉冲信号，载频 $f _ { 0 } = 2 0 0 0 \\mathrm { M H z , F r a n }$ k编码阵为 $8 \\times 8$ 的矩阵。干扰信号1载频 $f _ { 1 } = 2 0 0 0 \\mathrm { M H z }$ 为和发射信号同载频干扰,干扰信号2载频 $f _ { 1 } = 2 2 0 0 \\mathrm { M H z }$ ，两个干扰信号的角度均为 $0 ^ { \\circ }$ 。各通道内的噪声均为高斯白噪声。为了在脉冲压缩时降低波束的旁瓣电平，这里采用加切比雪夫窗来对旁瓣电平进行抑制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c74bc9133b57476f43a7bd0bbc2c549db3f723ae3a86ddf3b93eae90f0901e4.jpg",
+        "img_caption": [
+            "图4与发射信号正交的相位编码信号"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图5为接收数据经匹配滤波处理后得到的距离一多普勒频率图，从图中可以看出目标信号被干扰信号覆盖，在和信号同通道的100个多普勒频率距离门上，距离维上产生了假目标信号，对雷达监测目标造成了不利影响。图6为接收信号经所构造的阻塞滤波器得到的距离一多普勒频率图，从图中可以看出经阻塞滤波器处理后和匹配滤波器相比，目标信号得到抑制，阻塞滤波后得到信号仅包含干扰和噪声。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/48b69ad960faec6f4a82467a712ff070eea52b2e7f64e91c80125f3e5f9cce07.jpg",
+        "img_caption": [
+            "图5经匹配滤波器处理后的回波信号距离一多普勒频率图 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图7为匹配滤波处理后经波束形成得到的距离一多普勒频率图，图8为经对消处理后得到的距离一多普勒频率图，从图中可以看出经对消处理可以很好地把从主瓣进入的干扰信号和噪声对消掉。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/93785c2da5fbd1751213f520dbcd8dd0bd1a1466bd01c4315c8b503fee531565.jpg",
+        "img_caption": [
+            "图6经阻塞滤波器处理后的回波信号距离一多普勒频率图 ",
+            "图7未经对消处理的距离一多普勒频率图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图9为目标所在距离单元的多普勒频率切片图，从图中可以看出经对消处理后，从主瓣进入的同频干扰和非同频干扰均得到有效的抑制，而目标信号的能量基本未发生变化。图10为目标所在多普勒频率单元的距离切片图，可以看出未经对消处理前，干扰信号高达30dB以上，目标信号完全被干扰淹没，而经对消处理后，目标信号的功率达20dB,干扰信号约为5dB，可以很好地分辨出目标所在的距离门。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ecaad256b1c96f944ca4104c8385e7a550cf3672b41c22a646e5d78d8cd1920.jpg",
+        "img_caption": [
+            "图8经对消处理的距离一多普勒频率图",
+            "图9目标所在距离单元的多普勒频率切片图",
+            "图10目标所在多普勒频率单元的距离切片图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "40未经阻塞滤波处理30 同频干扰 经阻塞滤波处理目标20 非同频干扰1010 B HWAmwmPW-30-40-500 50 100 150 200 250多普勒门",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "40未经阻塞滤波处理经阻塞滤波处理  \n30  \n20  \nA  \n-20  \n-300 20 40 60 80 100 120 140距离门",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过Frank编码矩阵对发射信号相位进行编码，利用Frank编码的正交性构造出匹配滤波器和阻塞滤波器，匹配滤波得到的信号包含目标、干扰和噪声，将此路信号作为信号处理的主通道。而通过阻塞滤波器处理得到的信号仅包含干扰和噪声，将此路信号作为信号处理的辅助通道。最后利用自适应对消算法将辅助通道的干扰和噪声对消掉，通过仿真验证验证了本文提出的算法可以抑制从主瓣方向进入的和目标信号同频和非同频的干扰，相比于其他方法而言，本文提出的算法不需要增加额外的硬件设施、算法复杂度较低等优点，为抗主瓣干扰提供",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "了新的思路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]祝存海．基于特征提取的雷达有源干扰信号分类研究[D]．西安：西安 电子科技大学,2O17.(Zhu Cunhai.Research on classification of radar active jamming signals based on feature extraction [D].Xi’an:Xidian University,2017.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[2]刘宏伟，张守宏．平面阵线性约束自适应单脉冲测角算法[J]．电子与 信息学报,2001,23 (3): 275-279.(Liu Hongwei, Zhang Shouhong.Linear constrained adaptive monopulse angle measurement algorithm for planar array[J]. Journal of Electronics and Information Technology,2Oo1,23(3): 275-279.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[3]覃岭，黄茜，李会勇，等．主瓣干扰下宽带圆阵自适应波束形成方法 [J]．电子科技大学学报，2009,38(3):359-362.(Qin Ling,Huang Xi,Li Huiyong,et al.Adaptive beamforming method for wideband circular array undermainlobe interference [J]. Journal of University of Electronic Science and Technology ofChina,2009,38 (3): 359-362.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[4]Wu R,WangL,Su Z,et al.Parameter estimation of moving target based on linearly constrained space-time adaptive monopulse technique [C]//Proc of IEEE International Symposium on Phased Array Systems and Technology. IEEE Press,2010:107-112. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[5]王雪松，汪连栋，肖顺平，等．自适应极化滤波器的理论性能分析[J]. 电子学报，2004,32(8):1326-1329.(Wang Xuesong，Wang Liandong, Xiao Shunping，et al. Theoretical performance analysis of adaptive polarization filters [J].Acta Electronica Sinica,2004,32(8):1326-1329.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[6]晁淑媛，邓磊，马亮，等．全极化雷达导引头抗干扰技术[J]．制导与 引信,2016,37 (3):1-7.(Chao Shuyuan,Deng Lei,Ma Liang,et al. Full polarization radar seeker anti-jamming technology [J]. Guidance & Fuze, 2016,37 (3): 1-7.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[7]周青松，王文涛，王斑，等．盲分离算法和FRFT 联合抗雷达主瓣干扰 技术研究[J].信号处理，2015(8):1004-1011.(Zhou Qingsong，Wang Wentao,Wang Ting,etal.Blind separationalgorithmandFRFT joint anti radar main lobe jamming technology [J]. Signal Processing，2O15(8): 1004-1011.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[8]苏保伟，王永良，李荣峰，等．阻塞矩阵方法对消主瓣干扰[J]．系统 工程与电子技术,2005,27(11):1830-1832.(Su Baowei,Wang Yongliang Li Rongfeng，et al.Blocking matrix method to eliminate main lobe interference [J]. Systems Engineering and Electronics,2Oo5,27(11): 1830-1832.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[9]王强，张永顺，司文涛，等．基于阻塞预处理的多基地雷达抗主瓣干扰 算法[J].电子与信息学报，2014,36(3):734-738.(Wang Qiang,Zhang Yongshun,Si Wentao,et al.Blockage preprocessing based anti main lobe jamming algorithm for Multistatic Radar [J].Journal of Electronics and Information Technology,2014,36 (3): 734-738.) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[10]Yu KB,MurrowDJ.Adaptive digital beamforming for angle estimation in jamming [J].IEEE Trans on Aerospace & Electronic Systems,20o2,37 (2): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "508-523. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11]祝欢，孙俊，杨予昊，等．基于环境感知的认知雷达抗干扰技术[J]. 中国电子科学研究院学报，2016,11(6):577-581.(Zhu Huan,Sun Jun, Yang Yuhao,et al.Cognitive radar anti-jamming technology based on environmental awareness [J].Journal of China Academy of Elecronics and Information Technology,2016,11(6): 577-581.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[12]颜佳冰，李晓明，李伟，等．基于Frank序列优化的大斜视SAR信号设 计[J]．火力与指挥控制，2015，40(11):98-101.(Yan Jiabing，Li Xiaoming,Li Wei,et al. SAR signal design of large squint based on Frank sequence optimization [J].Firepower and Command Control,2O15,40 (11): 98-101.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[13]沈佳琪，桂任舟．基于类Frank码的非连续LFM距离旁瓣抑制[J].电 子技术应用,2014,40(06):112-114.(Shen Jiaqi,Gui Renzhou.Sidelobe suppression of discontinuous LFM distance based on Frank like codes [J]. Applicationof Electronic Technique,2014,40 (06):112-114.) ",
+        "page_idx": 4
+    }
+]

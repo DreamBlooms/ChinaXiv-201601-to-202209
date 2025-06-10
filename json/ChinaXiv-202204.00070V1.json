@@ -1,0 +1,618 @@
+[
+    {
+        "type": "text",
+        "text": "基于标签分布学习的轻量级人脸表情识别研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘劲1，罗晓曙1，徐照兴² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．广西师范大学 电子工程学院，广西 桂林 541000;2.江西服装学院 大数据学院，南昌 330000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对轻量级网络在复杂环境下对面部表情的特征提取不够充分、泛化能力不足以及单标签数据集无法有效描述复杂情感倾向所带来的歧义表情等问题，提出了一种结合改进 ShufleNet与标签分布学习的人脸表情识别方法。在不大量增加计算复杂度的前提下，为了避免模型的过拟合，设计了新的输出模块对 ShufleNet 模型进行改进；为了增强模型对人脸表情图像重要局部细节特征的提取能力，设计了并行的深度卷积残差模块，实现了局部与全局特征的融合。为了减少由歧义表情对识别性能所带来的不利影响，通过标签分布学习方法，在不引入额外信息的前提下，充分利用数据集原本信息生成标签分布，并重新训练改进后的 ShufleNet 模型。实验结果表明，在RAF-DB、AffectNet-7和AffectNet-8数据集上分别达到了 $8 7 . 1 5 \\%$ 、 $6 2 . 0 5 \\%$ 和 $5 8 . 4 9 \\%$ 的准确率，同时参数量和计算量均保持在较低水平，利于其在实际生产中应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：人脸表情识别；轻量化；标签分布学习；歧义表情；深度可分离卷积 中图分类号：TP391.4 doi:10.19734/j.issn.1001-3695.2021.12.0697 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on lightweight facial expression recognition based on label distribution learning ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Jin1, Luo Xiaoshul†, Xu Zhaoxing² (1.SchoolofElectronicEngineering,GuangxiNrmalUniversityGuilinGuangxi541oo,China;2.SchoolofBigData, Jiangxi InstituteofClothing University,Nanchang Jiangxi 33oooo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aimingatthe problemsofinsuficientfacial expressonfeatureextraction incomplexenvironments,insuficient generalizationability,andsingle-labeldatasetsthatcannotefectivelydescribetheambiguous expressionscausedbycomplex emotionaltendencies,tis paper proposedafacial expresionrecognitionmethodcombining improved ShufleNetand label distributionlearing.Onthepremiseofnot greatlyincreasing thecomputationalcomplexity,toavoidover-fitingofthemodel, designedanewoutputmodule to improvethe ShufleNet;toenhancethe model'sabilityto extract importantlocal detailsof facial expresion images,designedaparalleldepthwiseconvolutionresidual module torealizethefusionoflocaland global features.In order to reduce the negative impact of ambiguous expressions on recognition performance,used the label distribution learning method tomake fulluseoftheoriginal informationofthedatasettogenerate the label distribution without ntroducing aditional informationandretrain theimproved ShuffleNet model.Theexperimentalresults showthat the accuracy rates of $8 7 . 1 5 \\%$ $6 2 . 0 5 \\%$ and $5 8 . 4 9 \\%$ are achieved on the facial expression data sets RAF-DB,AffectNet-7 and AffectNet-8,atthesame time,the numberof parametersandFLOPsare keptat alow level,which isconducive toits application in actual production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:facial expresionrecognition；lightweight；label distribution learning；ambiguousexpressons；depthwise separable convolution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自古，“观色”是全面分析人物心理活动的重要依据。在《论语·颜渊》中更是有：“夫达也者，质直而好义，察言而观色，虑以下人”。通过识别人脸表情来以观其色，可以为出现在场景中的人物提供辅助的结构化信息。因此，人脸表情识别(facial expression recognition，FER)在情感计算、人机交互、驾驶员疲劳检测、教学效果评价等众多领域有着广泛的应用[1,2]。1978年，Ekman 等人[3]发表的跨文化研究中首次定义了六种基本面部表情：高兴、伤心、生气、害怕、厌恶和惊讶，这些基本情绪可以被不同文化背景的人感知、认同和理解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，随着深度学习在计算机视觉领域的飞速发展，它也被成功地应用在人脸表情识别领域，并取得了良好的进展。深度学习技术在使表情识别准确率提升的同时，也会导致参数量和FLOPs的急剧增加，虽然更大更深的网络模型效果更好，但是模型运行时对所需要的硬件配置要求也越高。而在实际生产与应用环境中，设备的配置水平往往受到成本限制，过高的配置需求不利于模型的实际应用。因此，在人脸表情识别领域除了在提高识别准确率的同时，也应考虑如何压缩模型的计算开销，使模型能够在性能较低的小型嵌入式设备上正常运行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1980年，心理学家Plutchik等人[4的研究表明：人类的大多数情绪都是由基本面部表情组成。在现实世界中，某一静态的人脸表情图像往往由不同强度的基本情绪组成，有复杂的情感意图，但表情图像却只对应一个标签。由于这种歧义表情的存在，这使得表情识别的效果严重受限，通过标签分布学习(LableDistributionLearning，LDL)来解决单标签无法有效描述复杂情感倾向的问题，可以进一步提高FER模型的识别性能。此外，标签分布学习还可以缓解由数据集标注者的主观性和表情图像的模糊性造成的噪声问题[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述两个问题，本文在轻量级网络ShuffleNet的基础上构建深度可分离卷积残差模块，在不大量增加计算开销的同时，可以更好的提取人脸表情图像中眼睛、嘴巴等关键细节部位的特征。在训练时，利用LDL方法来生成标签分布，这有利于提高模型对不同表情的判别能力，从而提出了基于标签分布学习的轻量级人脸表情识别(lightweightfacialexpression recognition based on label distribution learning,LFER-LDL)，本文方法在RAF-DB[和 AffectNet-7[7]数据集上进行实验验证，实验结果表明所提方法在保持较低计算开销的情况下，较近期提出的一些表情识别方法有较好的识别性能提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 本文方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文提出的人脸表情识别模型主要由改进的 ShuffleNet网络和标签分布学习(LDL)两部分组成组成，网络结构如图1所示。本文的骨干网络为ShuffleNet-V2[8]，该模型由Conv1、Stage2、Stage3、Stage4、Conv5组成。为了避免过拟合，使模型具有更好的鲁棒性，本文设计了新的输出模块来代替原始网络的全连接层。为了增强网络对局部细节特征的提取能力，在不大量增加额外计算开销的前提下，设计了并行深度卷积残差模块(ParallelDepthwise convolutionResidual module，PDWRes)。根据Plutchik等人[4]的研究，为了减少歧义表情带来的不利影响，在不使用额外信息量的前提下，利用数据集本身来生成标签分布(图1的右分支)。改进后的ShuffleNet网络(图1的左分支)从Conv1\\~Conv5层的输出通道数分别为29、116、232、464、1024，最后通过Softmax层，得到七分类人脸表情识别输出。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1改进的 ShuffleNet 模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "深层的卷积神经网络(convolutional neural network,CNN)如ResNet和VGG等可以取得较高的表情图像分类准确率，但模型的计算复杂度也随之提升，过于复杂的网络无法满足嵌入式设备场景的需求，一些移动端设备也需要又快又准的小模型。为了满足这些需求，MaN等人8提出了轻量级神经网络ShuffleNet-V2，它可以很好的平衡识别准确率和计算速度的关系。在ShuffleNet-V2Unit中主要使用了 $1 \\times 1$ 点卷积(pointwise convolution，PWConv)和 深度卷 积(depthwiseconvolution，DWConv)，并对不同特征组内的通道信息进行ChannelShuffle操作，实现不同组之间的信息融合。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LinM等人[的研究表明：在CNN模型中参数占比最大的是全连接层。虽然全连接层可以压缩特征图(featuremap)的维度并输入到softmax层，最终得到七分类人脸表情图像，但这会造成过拟合，不利于增强模型的泛化能力。为此，本文设计了改进的输出模块来替换骨干网络ShuffleNet-V2中的全连接层输出模块，改进输出模块如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "改进输出模块主要由改进的深度可分离卷积组成，这与骨干网络中的点卷积和深度卷积类似。深度可分离卷积的卷积层通道相关性和空间相关性是可解耦合性的[10]，相较于普通卷积，深度可分离卷积模块可以在进一步提取人脸表情特征的同时不引入大量的参数。当大小为 $d { \\times } d$ 的卷积核作用在大小为 $H \\times W$ 的输入特征矩阵上时，令输入、输出的通道数分别为 $c$ 和 $n$ ，可得普通卷积计算参数量为 $H { \\times } W { \\times } C { \\times } ( d { \\times } d { \\times } n )$ ，而深度可分离卷积的计算参数量为 $H { \\times } W { \\times } C { \\times } ( d { \\times } d + n )$ 。因此，深度可分离卷积的参数量仅为标准卷积的 $\\frac { 1 } { d ^ { 2 } } + \\frac { 1 } { n }$ 倍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了防止梯度弥散，增强模型的非线性能力，减少过拟合，深度可分离卷积后均使用了ReLu 激活函数，虽然其在反向传播时速度较快，但对于输入不大于0的神经元将会被抑制，导致权重无法更新，这会影响整个模型的最终表达。本文对深度可分离卷积模块进行改进，将ReLu 激活函数替换为Mish 激活函数。Mish 激活函数公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M i s h } = x * \\operatorname { t a n h } \\left( \\ln \\left( 1 + e ^ { x } \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/596245a7c2ef9e32e701900ec0cd0423ed1899b3198dc66ed4ebb0a0f5e745b4.jpg",
+        "img_caption": [
+            "图1本文的表情识别网络结构 图2改进输出模块流程图 Fig.1The expression recognition Fig.2Improve the output network structure of this article module flowchart "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mish激活函数曲线图如图3，它对负值保留了一定的梯度流，而不像ReLu中的硬零边界，这利于特征信息的流动。此外，Mish曲线上的每一点都是平滑的，这将允许更好的信息深入神经网络，从而取得更好的识别准确率和泛化性。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b71bbb97671ab5e8d974af464267eac70ee382848a3858170a4fc73511959556.jpg",
+        "img_caption": [
+            "图3Mish激活函数曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2并行深度卷积残差模块的设计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人脸表情识别往往与局部细节特征有关，例如眉毛、眼睛、嘴巴等部位可以更容易地表现出不同的情绪，人眼在识别表情时也往往关注这些区域。因此，为了使网络可以有效的学习局部细节特征，本文设计了并行的深度卷积残差模块(PDWRes)，通过对局部区域的特征提取，并以残差结构的形式补全到骨干网络中，实现了局部与全局特征的融合，使网络更加关注人脸表情图像中的重要性特征，PDWRes模块结构如图4。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/525a3efc70c90f1e08f49395731f604c86fa4f0bf19292ca9087f0c74e5d440a.jpg",
+        "img_caption": [
+            "Fig.3Mish activation function graph ",
+            "图4PDWRes 模块结构图",
+            "Fig.4Pdwres module structure diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于输入大小为 $2 2 4 \\times 2 2 4$ 的RGB人脸表情图像，在通过底层Conv1之后得到特征图 $F _ { 1 } \\in \\mathbb { R } ^ { H \\times W \\times c }$ ，其中$H = W = 5 6 , c = 2 9$ 。受到近期 Transformer 模型[11]的启发，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将特征图 $F _ { 1 }$ 进行水平、垂直方向二等分，得到四块人脸表情的区域特征图 $F _ { 1 } ^ { k } \\in \\mathbb { R } ^ { h \\times w \\times c }$ ，其中 $h = w = 2 8$ ， $k = \\{ 1 , 2 , 3 , 4 \\}$ 。再对每小块特征图依次经过两次 $3 \\times 3$ DWConv操作，得到人脸不同区域的细节特征图 $F _ { P D W R e s } ^ { k } \\in \\mathbb { R } ^ { h / 2 \\times w / 2 \\times C }$ ,其中 $C = 1 1 6$ 。如1.1节所述，为了避免引入大量计算参数，这里仅使用深度卷积提取特征。为了加快模型的收敛速度，在每一次深度卷积之后均使用了批量归一化(batchnormalization，BN)，为了增强模型的稀疏性，减少冗余度，在BN后同时使用ReLu6激活函数，ReLu6定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R e L u 6 } } ( x ) = { \\mathrm { m i n } } ( { \\mathrm { m a x } } ( 0 , x ) , 6 ) = { \\left\\{ \\begin{array} { l l } { 6 , ~ x \\geq 6 } \\\\ { x , ~ 0 < x < 6 } \\\\ { 0 , ~ { \\mu \\leq } { \\mathrm { \\# L } } \\{ 1 \\} } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ReLu6激活函数将ReLu函数线性部分的上限设为6，这有利于在低精度的移动端设备上实现更好的数值分辨率，增强模型的稳定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，将四块区域特征图 $F _ { P D W R e s } ^ { k }$ 沿着水平和垂直方向进行拼接，可得完整的局部特征图 $F _ { P D W R e s } \\in \\mathbb { R } ^ { h \\times w \\times C }$ ，并将 $F _ { P D W R e s }$ 补充到经过Stage2之后的全局特征 $F _ { S t a g e 2 }$ 中，可得全局与局部特征融合表达式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = F _ { S t a g e 2 } + F _ { P D W R e s }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于随着网络深度的加深，特征图将越来越小，这将不利于PDWRes模块进行局部特征提取。因此，为了尽可能地减少对模型引入额外的计算量，本文只在Stage2 阶段使用了PDWRes模块。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3标签分布学习",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人脸表情图像的标注往往需要大量的人力物力，且情感分布难以获得，这会造成歧义表情，不利于表情图像的分类。为了弥补表情分类时单标签信息量的不足，本文使用了标签分布学习的方法来生成表情分布，如图1的右分支，其骨干网络为ResNet-50，将不同的单标签人脸表情数据集在该标签分布学习方法上进行预训练，收集人脸表情数据集整体的分布，再将生成的数据标签分布重新训练改进后的ShuffleNet 网络。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "给定一张人脸表情图像 $x$ ，其标签 $Y \\in \\{ 1 , 2 , . . . , i \\}$ ，其中 $i$ 表示表情图像的类别数，标签分布学习将会收集数据集中表情图像的分布 $P \\in ( 0 , 1 )$ 。通过 ResNet-50 的全连接层(FC)之后可得 $\\omega ^ { \\mathrm { T } } \\boldsymbol { x }$ ，标签分布学习最后以Softmax层作为输出，Softmax计算表情图像 $x$ 属于类别 $i$ 的条件概率为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP \\left( Y = i \\mid x \\right) = S o f t m a x \\left( w _ { i } ^ { \\top } x \\right) = \\frac { e x p \\left( w _ { i } ^ { \\top } x \\right) } { \\displaystyle \\sum _ { j = 1 } ^ { i } e x p \\left( w _ { j } ^ { \\top } x \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\omega _ { i }$ 是第 $i$ 类的权重向量， $j$ 表示总类别数。LDL的输出结果是输入表情图像 $x$ 属于7种不同表情的概率，这些概率之和为1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了利于梯度的反向传播，本文使用KL散度来度量改进后ShuffleNet模型的预测输出与LDL得到标签分布之间的差异。KL散度是非负的，这满足深度学习梯度下降法特性，但由于其具有非对称性，本文将LDL得到的标签分布作为数据的真实分布 $P ( x )$ ，改进后ShuffleNet模型的输出作为拟合分布 $Q ( x )$ ，由此，样本数量为 $\\mathbf { \\Omega } _ { N }$ 的KL散度可写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { 1 } = \\frac { 1 } { N \\times i } \\sum _ { n = 1 } ^ { N } \\sum _ { i = 1 } ^ { i } P ( x _ { i } ^ { n } ) l o g \\left( \\frac { P ( x _ { i } ^ { n } ) } { Q ( x _ { i } ^ { n } ) } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标签分布学习及KL散度只在训练时使用，用于帮助改进后ShuffleNet网络更好的学习数据集中人脸表情的分布与判别。在测试时，仅根据改进ShuffleNet模型softmax层输出概率的最大值作为网络的输出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在测试阶段，使用comboloss作为损失函数，它由改进的交叉熵(CEloss)与diceloss的加权和构成。为了控制对不同数据集中假阳性(false positive,FP)和假阴性(false negative,FN)的正则化程度，纠正网络的学习，将二进制交叉熵推广到多分类问题，其输出是多个二进制交叉熵的平均值。DiceLoss主要用于处理数据集中类别不平衡问题，减小模型在易分类表情上的过拟合。comboloss可以写为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle { \\mathcal { L } _ { 2 } = \\alpha \\Bigg ( - \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\beta ( t _ { i } \\ln p _ { i } ) + ( 1 - \\beta ) \\big [ ( 1 - t _ { i } ) \\ln ( 1 - p _ { i } ) \\big ] \\Bigg ) - } } } \\\\ { { ( 1 - \\alpha ) \\Bigg ( \\displaystyle { \\frac { 2 \\sum _ { i = 1 } ^ { N } t _ { i } p _ { i } + \\varepsilon } { \\sum _ { i = 1 } ^ { N } t _ { i } + \\sum _ { i = 1 } ^ { N } p _ { i } + \\varepsilon } } \\Bigg ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $t _ { i }$ 和 $p _ { i }$ 分别表示真实值与预测值。超参数 $\\alpha$ 平衡comboloss与改进交叉熵的权重。超参数 $\\beta$ 控制对FP与FN的正则化程度，实验时根据不同数据集调整。为了避免分母为0，实验时 $\\varepsilon$ 取1进行平滑。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1数据集介绍",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验在大规模人脸表情数据集RAF-DB[和AffectNet7数据集上进行实验评估，其中RAF-DB和AffectNet-7均为7种类别的表情标签：悲伤、惊讶、厌恶、恐惧、快乐、愤怒、中立，AffectNet-8数据集在此基础上增加了蔑视的表情，有8种类别的表情标签。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RAF-DB数据集是真实世界人脸情感数据库(Real-worldAffectiveFacesDatabase)，共有七分类表情图像15339张，每张图像均由40人独立标注，分为12271张训练集和3068张测试集。这些表情图像存在着遮挡、姿势、光照条件等不同方面的影响，具有较大的差异性与实际应用价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AffectNet是迄今为止最大的人脸表情数据集，包含超过100万张来自互联网的面部图片，这些图片通过不同的搜索引擎检索情感标签获得，其中大约一半(44万)的图像被标注了11种表情类别。本文使用AffectNet数据集中手动标记的29万张表情图像用作训练集，在AffectNet-7中有3500张测试图像，在AffectNet-8中有4000张测试图像。图5展示了RAF-DB和AffectNet-7数据集上的表情图像样例。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/28336e4a4b4a4784aeb8735b6175cf9ad57020512a27dccd2ce3ed683b9de8a3.jpg",
+        "img_caption": [
+            "图5数据集图像样例",
+            "Fig.5Sample dataset image "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2实验环境与数据预处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文实验均在Ubuntu16.04系统下完成，基于深度学习框架PyTorch1.1和解释器Python3.7实现，硬件环境：CPU为E5-2637v4，GPU为NVIDIAGeForceGTX1080Ti，显存大小为11GB，加速库为CUDA10.2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在真实场景采集的RAF-DB 和 AffectNet数据集里，表情图像中人脸的大小、角度、姿势各有不同，这不利于模型的学习，因此均使用了Retinaface[l2]进行人脸检测和对齐。为了优化模型的学习效率，本文方法在MS-Celeb-1M人脸数据集上进行预训练。为了避免过拟合，将RAF-DB和AffectNet数据集所有表情图像的大小均调整为 $2 2 4 \\times 2 2 4$ ，并随机水平翻转，随机翻转概率为0.5。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3实验设置 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用随机梯度下降法(StochasticGradientDescent，SGD)训练，将初始学习率设为0.01，动量为0.9，权重衰减为 $1 \\times 1 0 ^ { - 4 }$ ，在RAF-DB和AffectNet 数据集上均迭代120次。由于不同数据集样本的差异性，在RAF-DB数据集上的批处理大小为32，每30轮学习率以0.1的衰减率进行衰减。在AffectNet数据集上批处理大小为64，每10轮学习率以0.1的衰减率衰减，此外，AffectNet数据集的训练集是不平衡的，但测试集是平衡的，因此使用了均衡采样策略。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4实验结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所提方法的有效性并衡量模型的计算复杂度，以ShuffleNet-V2作为主干网络，改进其输出层并增加PDWRes模块，引入标签分布学习，在大规模人脸表情数据集RAF-DB和AffectNet上进行实验，并就识别准确率与计算复杂度同其他方法进行了比较。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1平衡系数 $\\beta$ 对分类效果的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该实验是为了探究ComboLoss损失函数中平衡系数 $\\beta$ 对不同人脸表情数据集识别准确率的影响。平衡系数 $\\alpha$ 控制着DiceLoss对 $\\mathcal { L } _ { 2 }$ 的权重，实验时，对ComboLoss与改进交叉熵取平均分配相等的权重，即 $\\alpha { = } 0 . 5$ 。平衡系数 $\\beta \\in ( 0 , 1 )$ 控制着改进交叉熵对FP和FN的惩罚程度，当 $\\beta$ 小于0.5时，由于 $( 1 - t _ { i } ) \\ln ( 1 - p _ { i } )$ 的权重更大，FP将比FN受到的惩罚更多，反之同理，实验时， $\\beta$ 以0.1的步幅从0到1进行取值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在RAF-DB数据集上的实验结果如图6所示，表情识别准确率随着平衡系数 $\\beta$ 的递增先增加后下降，在 $\\beta$ 取0.2时，识别准确率达到最高 $8 7 . 1 5 \\%$ ，当 $\\beta$ 小于0.2时，模型的识别准确率不足，当 $\\beta$ 的取值大于0.2时，模型的识别准确率开始下降。这表明对于RAF-DB数据集，需要对假阳性样本图片进行较大的惩罚，以辅助模型的学习取得较好的识别准确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b29a2f550df4986740abd0d13ab54e278feef3d0110ec41391b99c88f7ae6562.jpg",
+        "img_caption": [
+            "图6平衡系数 $\\beta$ 对RAF-DB数据集识别准确率影响 Fig.6The influence of balance coefficient $\\beta$ on the recognition accuracy ofRAF-DB "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在AffectNet-7数据集上的实验结果如图7所示，表情识别准确率随着平衡系数 $\\beta$ 的递增先下降后增加再下降，在 $\\beta$ 取0.6时，识别准确率达到最高 $6 2 . 0 5 \\%$ ，当 $\\beta$ 小于0.6时，模型准确率先降后升，当 $\\beta$ 大于0.6时，模型的识别准确率开始明显下降。对于AffectNet数据集，需要对假阴性样本图片进行惩罚。实验结果表明平衡系数 $\\beta$ 对网络的识别效果有较大影响，不同数据集下平衡系数 $\\beta$ 的选择至关重要。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6cfbe68440cfc71239922d242417a53b8e3b79350ad11ed0f588b4d016aa225.jpg",
+        "img_caption": [
+            "图7平衡系数 $\\beta$ 对AffectNet-7数据集识别准确率影响 Fig.7The influence of balance coefficient $\\beta$ on the recognition accuracy of affectnet-7 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2RAF-DB实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图8展示了在RAF-DB表情数据集上训练与测试的准确率曲线和损失函数曲线，为了在同一坐标系下清晰显示，将损失函数曲线放大30倍。从图中可以看出，在训练到第35轮时，模型已基本收敛，且最终训练集与测试集的识别准确率相差不大，这得益于改进ShuffleNet模型的输出模块，避免了模型的过拟合，模型最终在RAF-DB数据集上的识别准确率达到了 $8 7 . 1 5 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证本文模型的有效性，并衡量模型的计算复杂度，在RAF-DB表情数据集上与近年来其他文献的识别效果进行对比，如表1所示。在参数量方面，本文方法的参数量仅为1.26M，这远低于gACNN[14]方法的 $1 3 4 . 2 9 \\mathrm { M }$ ，并且相较于参数量较小的 SeparateLoss[15]、RAN[16]和DDALoss[18]方法，本文方法的参数量也仅为其十分之一，较大的压缩了模型的参数量。在浮点运算数方面，本文方法的FLOPs为$2 9 4 . 6 0 \\mathrm { M }$ ，相较于gACNN方法压缩了 $9 8 . 0 9 \\%$ 的计算量，相较于SeparateLoss和DDALoss方法也压缩了 $8 3 . 8 1 \\%$ 的计算量，使本文模型具有较低的复杂度。在准确率方面，相较于近期提出的RAN和DDALoss方法，本文的准确率提升了$0 . 2 5 \\%$ ，相较于 IPA2LT[13]、gACNN、Separate Loss 和 LDL-ALSG[17]，本文模型的识别准确率也分别提升了 $0 . 3 8 \\%$ 、$2 . 0 8 \\%$ 、 $0 . 7 7 \\%$ 和 $1 . 6 2 \\%$ 。由于数据集中的标签可能存在标注错误，wang等人[19]提出了自治愈网络SCN，通过正则化排序和重标签等操作纠正网络的学习，在RAF-DB数据集上取得了 $8 7 . 0 3 \\%$ 的准确率，本文的准确率与之相比提升了 $0 . 1 2 \\%$ 且本文的参数量和FLOPs分别压缩了10倍和6倍，验证了本文方法的有效性。可以看出，本文方法在保持较低参数量与计算量的前提下，同时具有较好的识别准确率，这有利于本文模型在实际生产中的应用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ce257d4467b1815cdb63d28eeb4f0612989496dee513b1dfb197b925727fbd7.jpg",
+        "table_caption": [
+            "表1RAF-DB数据集上不同方法的准确率和计算复杂度比较",
+            "Tab.1Comparison of accuracy and computational complexityof different methods on the RAF-DB "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Onprexrty</td></tr><tr><td>方法</td><td>年份</td><td>参数量(M)</td><td>FLOPs(M)</td><td>准确率(%)</td></tr><tr><td>IPA2LT[13]</td><td>2018</td><td>23.52</td><td>4109.48</td><td>86.77</td></tr><tr><td>gACNN[14]</td><td>2019</td><td>134.29</td><td>15479.79</td><td>85.07</td></tr><tr><td>Separate Loss[15] RAN[16]</td><td>2019</td><td>11.18</td><td>1818.56</td><td>86.38</td></tr><tr><td></td><td>2020</td><td>11.19</td><td>14548.45</td><td>86.90</td></tr><tr><td>LDL-ALSG[17]</td><td>2020</td><td>23.52</td><td>4109.48</td><td>85.53</td></tr><tr><td>DDA Loss[18]</td><td>2020</td><td>11.18</td><td>1818.56</td><td>86.90</td></tr><tr><td>SCN[19]</td><td>2020</td><td>11.18</td><td>1818.56</td><td>87.03</td></tr><tr><td>LFER-LDL</td><td>2021</td><td>1.26</td><td>294.60</td><td>87.15</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.3AffectNet实验结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图9展示了AffectNet-7表情数据集上训练与测试的准确率曲线和损失函数曲线，与RAF-DB实验一样，将损失函数曲线作同样的放大的处理。从图中可以看出，在训练到第15 轮时，模型已基本收敛，具有较快的拟合速度，这得益于LDL模块辅助模型的学习，可以快速稳定的收敛，这也有利于模型在实际嵌入式设备上的运行，同样也避免了模型的过拟合问题，模型最终在大规模表情数据集AffectNet-7上的识别准确率达到了 $6 2 . 0 5 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文方法在AffectNet-7数据集上的有效性及其计算复杂度，与近年来其他方法进行对比，对比情况如表2。在参数量方面，本文方法仅为VGGFace[2I方法参数量$1 4 5 \\mathrm { M }$ 的 $0 . 8 \\%$ ，相较于其他方法，本文方法的参数量仅为其$0 . 9 3 \\% { \\sim } 5 1 . 0 1 \\%$ ，本文的参数量保持在较低水平。在浮点运算数方面，相较于VGGFace方法的15490.46M，本文方法压缩了 $9 8 . 1 \\%$ 的计算量，该压缩量与gACNN方法相比近似，相较于其他7种方法，本文方法也压缩了 $6 1 . 4 0 \\% { \\sim } 9 4 . 8 \\%$ 的计算量。在准确率方面，相较于近期提出的VGGFace和LDL-ALSG，本文的识别准确率分别提升了 $2 . 0 5 \\%$ 和 $2 . 7 0 \\%$ ，相较于IPA2LT、gACNN、SeparateLoss、IPFR和FMPN方法，本文的准确率也分别提升了 $4 . 7 4 \\%$ ， $3 . 2 7 \\%$ 、 $3 . 1 6 \\%$ 、 $4 . 6 5 \\%$ 和$0 . 5 3 \\%$ ，尽管本文的识别准确率不及SNA-DFER和DDALoss但在参数量上SNA-DFER和DDALoss方法分别为本文的1.9 倍和8.8倍，在FLOPs上两者分别为本文的2.5倍和6.1倍，这不利于模型在性能较低的嵌入式设备上运行。综合来看，本文方法在有效降低模型复杂度的同时能保持较高水平的表情识别效果，验证了本文方法的有效性与实用性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e6cd582193a5495ecf73eaea12f594b44e4c57c37d8c11fd8a9e360b6c80998.jpg",
+        "img_caption": [
+            "图8RAF-DB的训练与测试曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbf48bcee4c4e55cab518534f869b902d69c355871ef9b0dd76fc2d7a71676a8.jpg",
+        "img_caption": [
+            "Fig.8Training and testing curves ofRAF-DB ",
+            "图9AffectNet-7的训练与测试曲线",
+            "Fig.9Training and testing curves of affectnet-7 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fba87068f476fcd19ece87949121489c38e0a2759dcf19dae2b75a9e78d13757.jpg",
+        "table_caption": [
+            "表2AffectNet-7数据集上不同方法的准确率和计算复杂度比较Tab.2Comparison of accuracy and computational complexity of"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\"></td></tr><tr><td>方法</td><td>年份</td><td>参数量(M)</td><td>FLOPs(M)</td><td>准确率(%)</td></tr><tr><td>IPA2LT[13]</td><td>2018</td><td>23.52</td><td>4109.48</td><td>57.31</td></tr><tr><td>gACNN[14]</td><td>2019</td><td>134.29</td><td>15479.79</td><td>58.78</td></tr><tr><td>IPFR[20]</td><td>2019</td><td>21.80</td><td>5729.12</td><td>57.40</td></tr><tr><td>Separate Loss[15]</td><td>2019</td><td>11.18</td><td>1818.56</td><td>58.89</td></tr><tr><td>FMPN[22]</td><td>2019</td><td>21.80</td><td>5729.12</td><td>61.52</td></tr><tr><td>VGG Face[21]</td><td>2020</td><td>145.00</td><td>15490.46</td><td>60.00</td></tr><tr><td>LDL-ALSG[17]</td><td>2020</td><td>23.52</td><td>4109.48</td><td>59.35</td></tr><tr><td>SNA-DFER[23]</td><td>2020</td><td>2.47</td><td>763.09</td><td>62.70</td></tr><tr><td>DDA Loss[18]</td><td>2020</td><td>11.18</td><td>1818.56</td><td>62.34</td></tr><tr><td>LFER-LDL</td><td>2021</td><td>1.26</td><td>294.60</td><td>62.05</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同时，为了进一步验证本文方法在含有8类情感标签数据集AffectNet-8上的有效性，并评估其参数量和FLOPs，与其他方法进行了对比分析，如表3所示，本文在AffectNet-8数据集上取得了 $5 8 . 4 9 \\%$ 的准确率。在参数量方面，相较于Weighted-loss、VGGNet-Variant和RAN方法，本文的参数量仅为其 $2 . 2 1 \\%$ 、 $1 9 . 2 7 \\%$ 和 $1 1 . 2 6 \\%$ 。在浮点运算数方面，Weighted-loss的FLPOPs约为本文方法的2400倍，RAN和ESR-9方法分别为本文的49倍和3倍。在准确率方面，相较于Weighted-loss、MobileNet-Variant和VGGNet-Variant方法，本文提升了 $0 . 4 9 \\%$ 、 $2 . 4 9 \\%$ 和 $0 . 4 9 \\%$ 的准确率，尽管本文的准确率不及RAN和ESR-9，但是本文的FLOPs都远低于二者。MobileNet-Variant方法虽然在参数量和FLOPs上均取得了较好的效果，但是其准确率比本文低了约 $2 . 5 \\%$ 。VGGNet-Variant方法也实现了较低的FLOPs，但是其在参数量和准确率上的表现不及本文，可以看出模型的计算复杂度和模型的性能两者不可兼得，本文在保持较低参数量和FLOPs的前提下，在AffectNet-8数据集上仍取得了不错的表现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3AffectNet-8数据集上不同方法的准确率和计算复杂度比较",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f6c102ca503acb92a461a1e86a78cda2658a3585b968d6865ee5aeb9c562ec36.jpg",
+        "table_caption": [
+            "Tab.3Comparison of accuracy and computational complexity of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">differentmethodsontheAffectNet-8</td></tr><tr><td>方法</td><td>年份</td><td>参数量(M)</td><td>FLOPs(M)</td><td>准确率(%)</td></tr><tr><td>Weighted-loss[7]</td><td>2017</td><td>57.03</td><td>710624.57</td><td>58.00</td></tr><tr><td>MobileNet-Variant[24]</td><td>2018</td><td>0.074</td><td>13.56</td><td>56.00</td></tr><tr><td>VGGNet-Variant[24]</td><td>2018</td><td>6.54</td><td>80.44</td><td>58.00</td></tr><tr><td>RAN[16]</td><td>2020</td><td>11.19</td><td>14548.45</td><td>59.50</td></tr><tr><td>ESR-9[25]</td><td>2020</td><td>0.37</td><td>1164.43</td><td>59.30</td></tr><tr><td>LFER-LDL</td><td>2021</td><td>1.26</td><td>294.60</td><td>58.49</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，AffectNet-8是一个具有挑战性的人脸表情数据集，本文方法在AffectNet-7和AffectNet-8数据集上的准确率也有一定差异，AffectNet-8在AffectNet-7的基础上增加了蔑视的表情，通过观察数据集发现，AffectNet-8数据集的蔑视表情中存在大量非本表情的图像，例如快乐等，由标注者的主观性造成的标签噪声，这将不利于网络的学习，图10展示了蔑视表情中的部分并不属于蔑视的图像。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/00cde69c0307d9cfca0d5f11b74197272be800cbbd9fd4688e3a903147eb42cf.jpg",
+        "img_caption": [
+            "图10蔑视表情中包含的其他类别表情图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.4消融实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文方法包括对输出模块的改进、并行深度卷积残差模块的设计以及标签分布学习，为了分析不同部分对人脸表情识别效果的影响，以RAF-DB 数据集为例进行了消融实验。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本节以ShuffleNet为基线，依次加入改进的输出模块、并行深度卷积残差模块和标签分布学习，分析三个模块对识别性能的影响，实验结果如表4所示。通过改进输出模块，提取人脸表情高维特征，在参数量增加0.02M和FLOPs增加 $\\mathbf { 0 . 0 3 M }$ 的情况下，识别准确率相较于ShuffleNet基线网络提升了 $0 . 4 7 \\%$ ，这得益于改进输出模块中深度可分离卷积对人脸表情特征的进一步提取，同时使用的Mish激活函数也保证了特征信息的流动。并行深度卷积残差模块通过集成深度卷积获取局部区域特征，使网络更加关注不同表情中的细微差异，在参数量增加 $0 . 0 1 \\mathrm { M }$ 和FLOPs增加3.09M的情况下，相较于基线网络有 $1 . 3 6 \\%$ 的提升，通过将局部特征融合到全局特征中，这使得模型更加关注人脸表情图像中具有鉴别性的特征，而这一特点与人眼的工作原理相似。标签分布学习有利于减少歧义表情的影响，而这并不会引入额外的参数量和FLOPs，最终达到了 $8 7 . 1 5 \\%$ 的准确率，相较于原始网络提升了 $5 . 1 3 \\%$ ，现实世界中的人脸表情图像往往具有复杂的情感意图，标签分布学习通过收集数据集中表情图像的分布，来减少歧义表情的不确定性，这有利于缓解单标签所带来信息量不足的问题，说明了本文方法的有效性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b82e29ccc4445dabd5ef489cebbb8be473f332795ae666bd7b90d0839cab9f9b.jpg",
+        "table_caption": [
+            "表4消融实验对比结果",
+            "Tab.4Ablation experiment comparison results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Baseline</td><td rowspan=\"2\">改进输 出模块</td><td rowspan=\"2\">并行深度卷积 残差模块</td><td rowspan=\"2\">标签分 布学习</td><td rowspan=\"2\">参数 量(M)</td><td rowspan=\"2\">准确 率(%)</td></tr><tr><td>FLOPs(M)</td></tr><tr><td>+</td><td></td><td></td><td></td><td>1.23</td><td>291.48</td><td>82.02</td></tr><tr><td>+</td><td>+</td><td></td><td></td><td>1.25</td><td>291.51</td><td>82.49</td></tr><tr><td>+</td><td>+</td><td>+</td><td></td><td>1.26</td><td>294.60</td><td>83.85</td></tr><tr><td>+</td><td>+</td><td>+</td><td>+</td><td>1.26</td><td>294.60</td><td>87.15</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最后，为了将本文方法的结果进行可视化，将训练好的网络模型保存并进行人脸表情识别，在网上随机选取图像以及部分数据集用作实例测试，测试结果如图11所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8eba1e5a2e2282abb45a61986115c9a08ca9f8013c423665d1cc3d44930819a.jpg",
+        "img_caption": [
+            "Fig.10 Other expression images in the contempt expression ",
+            "图11实例测试结果 Fig.11Example test results "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人脸表情识别在诸多领域有着广泛的应用，但在实际生产环境中，过于复杂的网络模型不利于在配置受限的设备上运行。因此，本文提出了一种基于标签分布学习的轻量级人脸表情识别方法。本方法从特征提取的角度，对传统的ShuffleNet网络模型作出改进，并设计了并行深度卷积残差模块，这有利于增强模型对人脸表情图像中局部细节的特征提取能力；在训练策略上，通过标签分布学习，解决单标签信息量不足带来的歧义表情问题。最后，研究分析了ComboLoss 损失函数中平衡系数对不同人脸表情数据集的影响。本文分别在RAF-DB、AffectNet-7和AffectNet-8数据集上做了对比实验，实验结果表明，本方法在保持较低参数量和FLOPs的前提下，仍具有较高的识别精度，具备较强的实用性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "深度学习模型在人脸表情识别研究中往往需要大量的标注数据，这不仅会产生昂贵的标注成本，而且可能会引入主观因素的标签噪声。因此在接下来的工作中，将研究如何进行半监督或无监督学习的人脸表情识别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Yu M,Guo Z,Yu Y,et al.Spatiotemporal featuredescriptor for microexpression recognition using local cube binarypattern [J]. IEEE Access, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2019,7: 214-225.   \n[2]郑剑，郑炽，刘豪，等．融合局部特征与两阶段注意力权重学习的面 部表情识别[J].计算机应用研究,2021.(Zheng Jian,Zheng Chi,Liu Hao,et al.Deep convolutional neural network fusing local feature and two-stage attention weight learning for facial expression recognition [J]. Application Research of Computers,2021.)   \n[3]Ekman P,Friesen W V. Facial Action Coding System (FACS):A Technique for the Measurement of Facial Actions [J].Rivista Di Psichiatria,1978,47(2):126-38.   \n[4]Plutchik R.A general psychoevolutionary theory of emotion [M]. Theories of emotion.Academic press,1980:3-33.   \n[5]Chen S,Wang J,Chen Y,et al.Label distribution learning on auxiliary label space graphs for facial expression recognition [C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020:13984-13993.   \n[6]Li S,Deng W. Reliable crowdsourcing and deep locality-preserving learning for unconstrained facial expression recognition [J].IEEE Trans on Image Processing,2019,28(1):356-370.   \n[7]Ali M,Behzad H,Mohammad H. Mahoor.AffectNet:A New Database for Facial Expression,Valence,and Arousal Computation in the Wild[J]. IEEE Trans on Affective Computing,2017.   \n[8]Ma N,Zhang X,Zheng HT,etal. Shufflenet v2:Practical guidelines for efficient cnn architecture design [C]//Proceedings of the European conference on computer vision(ECCV) .2018:116-131.   \n[9]Lin M,Chen Q,Yan S.Network in network[J].arXiv preprint arXiv: 1312.4400,2013.   \n[10] Sifre L,Mallat S. Rotation,scaling and deformation invariant scattering for texture discrimination [C]//Proceedings of the IEEE conference on computer vision and pattern recognition.2013:1233-1240.   \n[11]Liu Z,Lin Y,Cao Y,et al. Swin transformer:Hierarchical vision transformer using shifted windows [J].arXiv preprint arXiv:2103.14030, 2021.   \n[12] Deng J,Guo J,Ververas E,et al.Retinaface: Single-shot multi-level face localisation in the wild [C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.2020: 5203-5212.   \n[13] Zeng J， Shan S,Chen X.Facial expression recognition with inconsistently annotated datasets [C]// Proceedings of the European conference on computer vision (ECCV).2018: 222-237.   \n[14]LiY,ZengJ, Shan S,et al. Occlusion aware facial expression recognition using CNN with attention mechanism [J]. IEEE Trans on Image Processing,2018: 1-1.   \n[15]Li Y,Lu Y,Li J,et al.Separate loss for basic and compound facial expression recognition in the wild [C]//Asian Conference on Machine Learning.PMLR,2019: 897-911.   \n[16] Wang K,Peng X,Yang J,et al.Region Attention Networks for Pose and Occlusion Robust Facial Expression Recognition [J].IEEE Trans on Image Processing,2020,PP (99):1-1.   \n[17] Chen S,Wang J, Chen Y,et al. Label distribution learning on auxiliary label space graphs for facial expression recognition [C]// Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020:13984-13993.   \n[18] Farzaneh A H,Qi X.Discriminant distribution-agnostic loss for facial expression recognition in the wild [C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020: 406-407.   \n[19]WangK,Peng X,Yang J,et al. Suppressing uncertainties for large-scale facial expression recognition [C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.2020:6897- 6906.   \n[20]Wang C,Wang S,Liang G.Identity-and pose-robust facial expression recognition through adversarial feature learning[C]//Proceedings of the 27th ACM International Conference on Multimedia.2019: 238-246.   \n[21] Kollias D,Cheng S,Ververas E,et al.Deep neural network augmentation: Generating faces for affect analysis [J].arXiv preprint arXiv:1811. 05027,2018.   \n[22] Chen Y,Wang J,Chen S,et al.Facial motion prior networks for facial expression recognition [C]// 2019 IEEE Visual Communications and Image Processing(VCIP).IEEE,2019:1-4.   \n[23]Fu Y,Wu X,Li X,et al.Semantic neighborhood-aware deep facial expression recognition [J].IEEE Transactions on Image Processing, 2020,29:6535-6548.   \n[24]Hewitt C,Gunes H. Cnn-based facial affect analysis on mobile devices [J].arXiv preprint arXiv:1807.08775,2018.   \n[25] Siqueira H,Magg S,Wermter S.Efficient facial feature learning with wide ensemble-based convolutional neural networks [C]//Proceedings of the AAAI conference on artificial intelligence.2020,34 (04):5800- 5809. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

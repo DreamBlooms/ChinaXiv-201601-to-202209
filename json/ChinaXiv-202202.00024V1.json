@@ -1,0 +1,696 @@
+[
+    {
+        "type": "text",
+        "text": "兰西城市群品质城市建设水平的时空变化及其影响因素研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雒占福}，李晓慧¹，雷德宏'，杨卓龙²(1.西北师范大学地理与环境科学学院,甘肃 兰州 730070；2.甘肃省交通运输厅,甘肃 兰州730030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：品质城市建设是响应生态文明、高质量发展与新型城镇化战略的重要内容。以兰西城市群30个市(县)为研究对象，以城市建成区为基本空间单元，从用地、经济、社会、生态、环保、交通、市政和形象品质8个维度进行了兰西城市群品质城市建设水平评价研究。结果表明：(1)在时序变化上，各城市的综合品质整体持续提升，品质建设处于相对中低水平；各城市的分维度品质变化复杂，存在稳定型、提升型、先降后升型、先升后降型、混合型等多种变化类型。(2)各城市综合品质在空间上呈现由“双核”向\"多核共存\"格局转变的特征；分维度品质差异大，分布不均衡。(3）各城市分维度品质的贡献差异显著，特色品质城市逐步形成，基本形成单维度、双维度和多维度主导型3种类型。(4）品质城市的影响因素较多，其影响力为建成区规模>人口规模>人均GDP>城镇化率>对外交通>地形起伏度，城市规模是兰西城市群品质城市建设的主要影响因素，城镇化率和人均GDP为次要影响因素，自然因素影响最弱，但属于基础性作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：兰西城市群；品质城市；时空变化；影响因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "党的十九大报告提出中国社会经济发展已由高速增长阶段转向高质量发展阶段，为新时期中国品质城市建设提出新要求和新方向。城市品质必将是未来抵御发展风险和增强可持续性的核心能力，也必然是未来提升城市竞争力的重要资本和吸引高端人才集聚的关键要素[1]。2019年底召开的中央经济工作会议强调，我国经济发展的空间结构正在发生深刻变化，中心城市和城市群正在成为承载发展要素的主要空间形式，也必然是落实和体现品质城市建设的主要载体。兰(州)-西(宁)城市群作为西北地区重要的跨省区城市群，其发展对实现国土安全和生态安全、维护西北地区繁荣稳定起着举足轻重的作用，但其受自然地理区位的影响而与东部城市群之间存在较大发展差距，大大制约了品质城市的建设步伐。因此，科学认识兰西城市群的品质城市建设水平，了解不同城市的品质建设短板，对推动兰西城市群的高质量发展、提升城市群竞争力具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国外对于城市品质的研究源于对城市生活质量的研究，美国经济学家约翰·肯尼思·加尔布雷斯提出生活质量的概念以揭示美国居民较高的生活水平与相对落后的社会精神需求之间的矛盾现象2；到了20世纪70年代，丰富了包括环境因素的生活质量概念，用于揭示不同时期各国城市经济发展和福利水平的差异[3]；此后相关研究不断与城市生活质量、宜居性、可持续性发展相结合，认为建筑环境[4-5]、城市交通[6]、绿色基础设施[7]、水管理[8]废物管理[9]、经济发展[10]、生态系统健康[11]、智能[12]、安全感[13]、环境因素[14-15]、和旅游[16]等发展水平是城市品质建设的重要组成部分。而国内研究较晚，不同时期亦有侧重变化：20世纪90年代开始关注城市文化、城市形象、城市设计8等软品质建设;进入",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21世纪，相关研究逐渐由单一要素向综合要素转变，社会经济、公共服务、道路交通、生态环境与人居环境等要素成为城市品质建设的重要内容[3.19-25]，也开始了新型城镇化[26]、美丽中国建设[27]、高质量发展[28]、城市更新等时代要求下的城市品质建设方向；在2020年底国家出台了《新型城镇化——品质城市评价指标体系》（GB/T39497-2020），为有序规范的实施品质城市建设提供了发展指南。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由此可见，品质城市建设的过程是城市构成系统及其各要素的质量提升过程，也是解决人地关系矛盾最集中的城市系统协调过程，具有典型的复杂性、综合性、区域性与时代性特点，特别面对我国社会经济高质量发展的历史时刻，城市品质研究应具有一定的前瞻性、导向性和动态性，但当前研究也存在以下不足：（1）在系统构成要素上，不仅要突出传统研究与国家标准的城市经济发展、社会文化、生态环境、公共服务和居民生活等5个方面的品质，更应突出新国土空间时代人地协调思想，强化对承载城市的“地\"的尊重与保护。这就要求一方面强化城市所依托空间的土地集约利用品质、生态安全品质以及风貌形象品质；另一方面强化城市品质或效率品质，即承载各类品质的人均城市空间不足或超标都影响品质的得分。2）在研究范围界定上，传统研究多以市域或县域代表城市或县城，混合了城市品质与乡村品质的独特性与差异性，难以准确把握区域增长极的品质建设问题，应以城市建成区空间表征城市空间更为合理，同时也是区别于《新型城镇化一一品质城市评价指标体系》中域面数据与建成区空间混合的指标体系。（3）在研究内容上，相关研究多以单城市的静态评价研究为主，对城市群内的各级各类城市的时空动态研究及其影响机制研究不足，难以有效认识城市群品质城市建设的共性问题及其发展路径问题。因此，本文选择2010、2014年和2018年为研究时点，以兰西城市群内30个市(县)的城市建成区为基本研究单位，建立品质城市综合评价指标体系，定量分析兰西城市群品质城市建设水平的时空变化特征及其影响因素，科学认识兰西城市群品质城市建设的问题与机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "兰西城市群是以甘肃省省会兰州市与青海省省会西宁市为中心的中国西部重要的跨省区城市群。本文以《兰州-西宁城市群发展规划》所确定的兰西城市群范围为研究区，位于 $3 4 ^ { \\circ } 5 1 ^ { \\prime } { \\sim } 3 7 ^ { \\circ } 3 8 ^ { \\prime } \\mathrm { N }$ $9 9 ^ { \\circ } 0 1 ^ { \\prime } { \\sim } 1 0 5 ^ { \\circ } 3 8 ^ { \\prime } \\mathrm { E }$ 之间，主要包括甘肃省4市11县和青海省2市13县，总面积 $9 . 7 5 \\times 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ 。由于兰西城市群处于青藏高原与黄土高原的交接地带，地貌形态复杂，黄河横贯而过，形成各具特色的各级各类城市。2018年兰西城市群地区生产总值达到$4 8 8 0 . 6 4 \\times 1 0 ^ { 8 }$ 元，常住人口 $1 2 3 8 . 8 6 \\times 1 0 ^ { 4 }$ 人。本文以兰西城市群内30个市(县)建成区为品质城市研究的载体(图1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6fdf91fd001c8a8d0a1485ec7070d7274a12ee242dbf067fe06a4c9623bc68b.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Diagram of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1建立综合评价指标体系本文结合“五位一体”总体布局建设要求，以人地关系的协调发展为理论基础，以高质量发展、和谐人居与可持续发展为目标导向，结合以往研究成果与《新型城镇化品质城市评价指标体系》,按照系统性、科学性原则进行归纳筛选，最终选取用地品质、经济品质、社会品质、生态品质、环保品质、交通品质、市政品质和形象品质等8个一级指标；根据数据的可得性、可靠性及其对一级指标内涵的表征性，确定29项二级指标，构建了2010、2014年和2018年兰西城市群品质城市综合评价指标体系(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 数据来源本文选择2010、2014年和2018年的相关截面数据进行兰西城市群品质城市研究。其中代表县城的相关数据来源于2011、2015年和2019年《中国城市建设统计年鉴》和《中国县城建设统计年鉴》，是以建成区为范围的统计数据，主要有县城人口、人均建设用地、居住用地、工业用地、公服用地、道路用地、绿地、人均公共管理域服务设施用地、公共厕所、人均生产用地、单位建设用地固定投资、人均绿地、建成区绿地率、绿化覆盖率、生活垃圾处理率、污水处理率、人均垃圾产生量、燃气普及率、建成区路网密度、人均道路、人均人行道、人均日生活用水量、建成区供水管道密度、供水普及",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/84431e9b104c04cedbed1e1193e3abedddb0f2366d96dcdb69b97b9e0f399e6f.jpg",
+        "table_caption": [
+            "表1品质城市评价指标体系",
+            "Tab.1 Evaluation index system of quality city "
+        ],
+        "table_footnote": [
+            "注：指标后面标(-)属于负向指标，其余为正项指标。"
+        ],
+        "table_body": "<html><body><table><tr><td>级指标(权重)</td><td>二级指标</td><td>权重</td><td>指标解释</td></tr><tr><td rowspan=\"4\">用地品质 (0.1254)</td><td>人均建设用地达标率/%</td><td>0.0212</td><td>反映了城市建设用地的集约节约利用水平</td></tr><tr><td>居住用地达标率/%</td><td>0.0240</td><td>通过城市五大类建设用地与《城市用地分类与规划建设用地标准》 GB50137-2011规定的用地结构比例进行比较，反映城市用地结构的</td></tr><tr><td>工业用地达标率/%</td><td>0.0156</td><td>合理性</td></tr><tr><td>公服用地达标率/%</td><td>0.0215</td><td>同上</td></tr><tr><td rowspan=\"5\">社会品质</td><td>道路用地达标率/%</td><td>0.0217</td><td>同上</td></tr><tr><td>绿地达标率/%</td><td>0.0215</td><td>同上</td></tr><tr><td>人均公共管理与服务设施用地/m·人-</td><td>0.0447</td><td>反映了城市管理和公共服务设施的建设能力</td></tr><tr><td>万人医疗卫生床位数/个·(10人)</td><td>0.0441</td><td>体现了城市提供医疗服务的能力与医疗设施的水平</td></tr><tr><td>万人公共厕所数/个·(10人)-</td><td>0.0396</td><td>公共厕所体现一座城市的整体形象和文明程度</td></tr><tr><td rowspan=\"3\">经济品质 (0.1218)</td><td>居民人均可支配收入/元·人-</td><td>0.0385</td><td>用以衡量城市居民收入水平和生活水平</td></tr><tr><td>人均生产用地面积/m·人-</td><td>0.0374</td><td>反映了城市产业发展水平和保证城市发展的后续动力</td></tr><tr><td>单位建设用地固定投资额/10元·km2</td><td>0.0460</td><td>反映了城市的投资建设能力</td></tr><tr><td rowspan=\"3\">生态品质 (0.1291)</td><td>人均绿地用地面积/m·人-</td><td>0.0381</td><td>反映了城市的生态自我调节和安全水平</td></tr><tr><td>建成区绿地率/%</td><td>0.0451</td><td>以生态空间的比重表征城市生态建设的规模</td></tr><tr><td>绿化覆盖率/%</td><td>0.0459</td><td>是生态环境保护状况的重要指标，用以表征城市生态建设水平</td></tr><tr><td rowspan=\"3\">环保品质 (0.1261)</td><td>生活垃圾处理率/%</td><td>0.0400</td><td>是改善生活环境的必要手段，反映城市环境保护水平</td></tr><tr><td>污水处理率/%</td><td>0.0346</td><td>反映了城市对水环境的保护和治理力度，以及对水资源循环利用水平</td></tr><tr><td>人均垃圾产生量(-)/kg·人-</td><td>0.0251</td><td>反映了城市公民的环保意识和文明素养水平</td></tr><tr><td rowspan=\"3\">交通品质 (0.1243)</td><td>燃气普及率/%</td><td>0.0265</td><td>天然气属于清洁能源，反映了城市对清洁能源的使用水平和环保品质</td></tr><tr><td>建成区路网密度/km·km-2</td><td>0.0423</td><td>反映了城市道路网通行效率和承载能力</td></tr><tr><td>人均道路面积/m·人-1</td><td>0.0460</td><td>综合反映了一个城市交通的拥挤程度</td></tr><tr><td rowspan=\"3\">市政品质 (0.1237)</td><td>人均人行道面积/m·人-</td><td>0.0360</td><td>反映了城市慢性系统建设水平及其交通的安全性</td></tr><tr><td>人均日生活用水量/L·人-</td><td>0.0323</td><td>反映了城市的生活用水的宽裕水平</td></tr><tr><td>建成区供水管道密度/km·km2</td><td>0.0287</td><td>反映了城市生活用水的安全供水水平</td></tr><tr><td rowspan=\"5\">形象品质 (0.1211)</td><td>供水普及率/% 人均公用设施建设用地面/m·人-</td><td>0.0302</td><td>反映了城市居民生活用水的保障水平</td></tr><tr><td>道路清洁率/%</td><td>0.0325</td><td>反映了城市市政设施的建设水平</td></tr><tr><td>道路照明灯密度/盏·km1</td><td>0.0364</td><td>反映了城市的清洁度和整洁水平 反映了城市的夜间照明水平和社会安全水平</td></tr><tr><td>人均公园绿地面积/m·人-</td><td>0.0436</td><td></td></tr><tr><td></td><td>0.0411</td><td>反映了城市的景观面貌建设水平</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "率、人均公用设施用地、道路清洁率、道路照明灯密度、人均公园绿地等27个指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "涉及万人医疗卫生床位数、总人口数与乡村人口数为县域数据来源于2011年《中国县(市)社会经济统计年鉴》、2015年和2019年《中国县域统计年鉴（县市卷)》，本研究以县城人口数占县域总人口的比值为参数，将其折算为县城建成区数据。此外，本文利用县城人口占城镇人口（总人口数-乡村人口数)的比值为参数，将城镇居民人均可支配收入折算为县城居民人均可支配收人，城镇居民人均可支配收入来源于2010、2014年和2018年各市（县）的国民经济与社会发展统计公报。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于海东市在研究时点2010年发生了行政区划调整，为保证数据的可得性与纵向研究的连续性，根据行政区域的历史沿革，将市辖县相关数据归并到地级市，即2010年海东市数据由乐都县与平安县合并所得。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3评价指标标准化处理根据品质城市二级指标的内涵特点，既有正向贡献指标，又有负向贡献指标，以及下限阈值和上限阈值所决定的区间贡献指标，分别采用不同的标准化处理方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于正向指标，标准化计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { i } = \\frac { X _ { i } - X _ { i \\operatorname* { m i n } } } { X _ { i \\operatorname* { m a x } } - X _ { i \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于负向指标，标准化计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { i } = \\frac { X _ { i \\operatorname* { m a x } } - X _ { i } } { X _ { i \\operatorname* { m a x } } - X _ { i \\operatorname* { m i n } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于区间贡献指标，标准化计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { i } = \\frac { \\left| 1 - \\left( X _ { i } - \\frac { P _ { \\operatorname* { m i n } } + P _ { \\operatorname* { m a x } } } { 2 } \\right) \\right| _ { \\operatorname* { m a x } } } { \\left| 1 - \\left( X _ { i } - \\frac { P _ { \\operatorname* { m i n } } + P _ { \\operatorname* { m a x } } } { 2 } \\right) \\right| _ { \\operatorname* { m a x } } } - \\left| 1 - \\left( X _ { i } - \\frac { P _ { \\operatorname* { m i n } } + P _ { \\operatorname* { m a x } } } { 2 } \\right) \\right| _ { \\operatorname* { m a x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $X _ { i }$ 为第 $i$ 个评价指标的实际值； $P _ { \\mathrm { m i n } } \\setminus P _ { \\mathrm { m a x } }$ 分别为《城市用地分类与规划建设用地标准》（GB50137-2011)规定的5大类用地的最低占比和最高占比；$X _ { i \\mathrm { m i n } }$ 和 $X _ { \\mathrm { i m a x } }$ 是实际值 $X _ { i }$ 的下限阈值和上限阈值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于正向与负向指标的标准化处理按照公式(1)和(2)所示，各评价指标标准化处理后的值介于[0.1区间。而表征城市用地合理性的5大类用地达标率，是根据5大类用地面积的占比（占建成区面积的比例)与 $P _ { \\mathrm { m i n } }$ 和 $P _ { \\mathrm { m a x } }$ 的平均值作比较，越接近平均值意味着该类用地的占比越合理，表征城市用地结构越合理，反之亦然。本文对上下阈值限定的指标按照公式(3)进行标准化处理，若比值越接近于0说明该类用地的占比与均值差越小，意味着该类用地的占比越合理，反之越接近于1,意味着该类用地的占比越不合理，故此类指标按负向指标进行处理。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4评价指标权重确定熵值法既能反映指标信息的效应价值，又能克服指标间的信息重叠，被社会经济等研究领域广泛应用22，所以本文采用熵值法来计算指标的权重系数 $( W _ { j } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.5各维度指数和综合品质指数的测算品质城市指数评估方法采用联合国人类发展指数(HDI)测评法[27]。根据每个评估指标的标准化数据与相应指标的权重进行求和，测算各维度品质指数与综合品质指数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将品质城市评价指标体系中的29个指标标准化处理结果值 $( Z _ { i } )$ 与权重( $( W _ { i j } )$ 按照公式(4)计算，得到各一级指标的品质指数 $\\left( I _ { i } \\right)$ ·",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { i } = \\sum _ { j } ^ { n } { Z _ { i j } W _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $I _ { i }$ 为一级指标 $i$ 的品质指数； $n$ 为一级指标下二级指标的个数； $Z _ { i j }$ 为一级指标 $i$ 下二级指标 $j$ 标准化处理的结果值; $\\textstyle \\operatorname { W } _ { i j }$ 为一级指标 $i$ 下的二级指标 $j$ 的权重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将8个一级指标的品质指数 $I _ { i }$ 与权重 $\\textstyle \\ W _ { i }$ 按照公式(5)计算，得到城市的综合品质指数 $( I )$ ·",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI { = } \\sum _ { i = 1 } ^ { m } I _ { i } W _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $I$ 为城市的综合品质指数； $m$ 为一级指标的个数，本文中为 $8 ; W _ { i }$ 为一级指标i的权重。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.6等级划分结合相关文献和专家建议，将城市品质指数分为5级(表2），分别为：高等品质（I级）较高品质（Ⅱ级）、中等品质（Ⅲ级）较低品质（IV级)和低等品质（V级），由于在判断兰西城市群品质城市的建设水平时，是通过将最大值设为满分值进行判断[28],因此该评价结果等级仅限于2010—2018年兰西城市群内。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f760e3a821eddfd7c736e9d8183870162ed73f7866f124656aa74b0f105bb7ba.jpg",
+        "table_caption": [
+            "表2品质城市分级标准",
+            "Tab.2 Classification standard of quality city "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级名称</td><td>综合品质指数范围</td></tr><tr><td>高等品质(I级）</td><td>(0.8, 1.0]</td></tr><tr><td>较高品质(Ⅱ级)</td><td>(0.6,0.8]</td></tr><tr><td>中等品质(Ⅲ级)</td><td>(0.4, 0.6]</td></tr><tr><td>较低品质(V级）</td><td>(0.2, 0.4]</td></tr><tr><td>低等品质(V级)</td><td>(0.0, 0.2]</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.7区位商利用区位商29反映某一维度品质的专业化程度以及城市(县城)品质在城市群综合品质的地位和作用。区位商越大，认为该维度品质高，对该城市(县城)的综合品质专业化程度越高或者贡献度越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "运用品质城市评价指标体系和综合评估方法，用ArcGIS10.2对2010、2014年和2018年兰西城市群内30个市(县)的品质城市建设水平进行多维度评估和综合评估的可视化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1兰西城市群品质城市的时序变化特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1综合品质整体持续提升，以相对中低水平为主，“两极分化”较为突出2010—2018年兰西城市群综合品质呈现出逐年上升的态势。兰西城市群综合品质指数从2010年的0.363增长到2018年的0.458,增幅为 $9 . 5 \\%$ ，体现了兰西城市群综合品质随着时间的推移在不断提升，且大部分城市在2010—2018年综合品质出现了较大幅度的提升。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从评价等级来看(图2)，兰西城市群各城市的品质指数处于相对中等和较低的水平。2018年兰西城市群综合品质指数为0.458,位于相对中等品质区间;各城市综合品质指数均处于相对中等和较低等级，其中有22个城市综合品质指数在0.4以上，达到相对中等品质城市水平，而达到0.5以上的仅有兰州市、西宁市、贵德县、白银市和共和县，兰州市和西宁市处于领头地位。这是由于兰西城市群地处内陆腹地，生态环境脆弱，经济建设缓慢，品质城市建设具有局限性，导致兰西城市群的品质城市建设起步较晚，总体处于相对中低水平。2010—2018年综合品质指数高低差距较大，极值之间的差值分别为0.339、0.357、0.343，基本保持在相对稳定的水平，但两极分化现象仍然明显，体现了各市(县)之间品质城市建设差异较大，作为中国西部重要的跨省区城市群，两省之间应加强协作，实现区域融合发展的难度大，任务重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2分维度品质变化复杂，类型多样兰西城市群各城市分维度品质的变化复杂，类型多样，基本存在稳定型、提升型、先降后升型、先升后降型、混合型等多种变化类型(图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）稳定型以市政品质为主。自2010年以来，市政品质基本保持稳定，其品质指数稳定在0.06左右，曲线和缓，2014年和2018年仅东乡县、海东市和湟中县表现出明显的增长态势",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）提升型以生态品质为主。自2010年以来，有27个市(县)的生态品质整体稳定改善，品质指数增幅达约0.06,仅化隆县、海晏县、尖扎县、贵南县、永登县、积石山县表现出下降态势",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）先升后降型以经济品质和社会品质为主。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6e9834b7b41fcede8a31c1cf0c27121c87baf20855f4b0fc6a47f0d01383b98.jpg",
+        "img_caption": [
+            "图22010—2018年兰西城市群综合品质指数时序变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Temporal changes of comprehensive quality index ofLanzhou-Xining urban agglomeration from 2O10 to 2018 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(a)用地品质 (b)经济品质 (c)社会品质临夏市 公 中 茶 武 者 厦白银市 定西市 00 0.12 音组 8.12 音组 8兰州市 0.06 具 兰州市 兰州市  \n贵南县 8 音誉 贵南县 音 贵南县 音誉  \n贵德县 贵德县 音 贵德县 音最  \n共和县 音 共和县 共和县 音尖扎县 同 中油 尖扎县 同仁 县县 盘 m 油 音用 尖扎县 同仁 县县 盘 期 油(d)生态品质 (e)环保品质 (f)交通品质临夏市 首 美白银市 0.10 0.14 海 租 白银市 定西市 N 白银市 定西市 0 20 图兰州市 0.06 兰州市 兰州市  \n贵南县 0.02 音 贵南县 音 贵南县 音派  \n贵德县 0.02 音 贵德县 量最兴 贵德县  \n共和县 音半 共和县 道 共和县 音尖扎县 尖扎县 尖扎县同仁 海晏 同仁 香盘 公 县县 理 同仁 梦 晏 县县 酒 油 限(g)市政品质 (h)形象品质请哦 南定西市 动 喜 定西市 城 香白银市 0.10 租 白银市 租兰州市 0.08 0.06 兰州市  \n贵德县 贵南县 0.04 0 2 音派 音誉 贵德县 贵南县 音派 音期 2010年 2014年  \n共和县 音 共和县 音 2018年尖扎县 同仁 好 景 油 音 尖扎县 同仁 县县 海 物 助 县县 春 油 限 螺化 万",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Radar charts of temporal changes of quality indices of various dimensions inLanzhou-Xining urban agglomeration from 2010 to 2018 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2010—2014年经济品质和社会品质有明显的提升变化，2014—2018年多个城市呈现下降态势；而形象品质也呈现出先上升后降低的态势，2018年较2010年均有不同幅度的提升，临夏市、定西市、海东市、永靖县形象品质提升明显，品质指数相对较高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）先降后升型以环保品质为主，2010—2014年有不同程度的降低，降低幅度约为0.02，2014—2018年则多个城市呈现升高的态势，增幅约为0.04。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5）混合型以城市用地品质与交通品质为主，其中，永登县和景泰县的城市用地品质在2010—2018年呈现出持续上升的态势，而尖扎县、贵南县、兰州市、永靖县、湟中县、湟源县呈现持续下降态势，有部分呈现先降后升的态势，仅有定西市、西宁市、靖远县、化隆县2018年的用地品质高于2010年；而交通品质整体表现为省会城市和地级市低于县城的特点，在2010一2018年，诸如榆中县、海东市、贵南县、贵德县、共和县、同仁县、永靖县、临洮县、渭源县和皋兰县的交通品质有明显的提升，而兰州市、西宁市、定西市、临夏市、陇西县、湟源县、互助县交通品质相对保持稳定，其他城市呈现出下降态势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "究其原因是2010、2014年和2018年兰西城市群分别处于“十一五”、“十二五\"和\"十三五\"3个关键时期，由于各城市建设的基础不同，面临的问题及其对策的侧重点不同，直接影响了各城市各维度品质建设的差异。整体而言，由于2010—2018年属于城镇化快速发展的阶段，大量人口向城市集聚，使得城市最基础的环卫设施、市政设施等供给压力增大，缺口多，导致品质水平低。但随着人居环境、公共服务均等化配置等政策措施的实施而相应提升了品质水平，从而使得市政、环保、社会、经济、用地、交通等分维度品质在相互变化中呈现复杂的、相对的变化类型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1.3分维度品质的贡献差异显著，特色品质城市逐步形成兰西城市群分维度品质的区位商差异很大(图4)，表明分维度品质对综合品质的贡献差异显著。按照区位商指数大于1可大致分为单维度主导型、双维度主导型和多维度主导型品质城市类型(表3),其中单维度主导型品质城市数量最多，由2010年6个城市增长到2018年的12个，而双维度主导型次之，仅同仁县为多维度主导型。比如环保品质突出的渭源县、临洮县和临夏市，生态品质突出的湟中县、湟源县、循化县、共和县和贵德县等，环保-生态共同良好的永靖县与大通县，用地-环保良好的永登县、皋兰县、景泰县、陇西县、民和县和海晏县等，以及市政-形象俱佳的海东市。这表明兰西城市群各城市的品质建设在某1个维度或2个维度已经形成品质优势，意味着特色品质城市逐步形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2兰西城市群品质城市的空间变化特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2.1综合品质呈现“双核”向“多核共存”格局转变特征从空间分布上看,兰西城市群各城市综合品质呈现由“双核\"向“多核\"转变的趋势。由图5可以看出，在2010年，兰州市、西宁市作为省会城市其品质水平远高于其他城市，表现出以兰州-西宁为核心的“双核”的区域增长极作用。2014年在围绕各省会城市多个品质城市涌现增长，两省交界处出现“中部塌陷\"和\"核心-边缘\"两种现象，“双核\"结构仍然存在。随着“中国薯都”、“中国药都”、“兰州榆中生态创新城\"等的建设，以及青海-甘肃旅游大环线的建设发展，兰州市、定西市、白银市、海东市、贵德县、陇西县、榆中县、永登县、永靖县、临洮县、共和县、渭源县、景泰县等特色产业型、资源型、旅游型城市的品质城市建设有了明显的提升，2018年与兰州市、西宁市处于相同的品质城市等级，形成了",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f199d677f472740098a5d644e174c61a9b3068f098757c9ad7d16b42c217e7a.jpg",
+        "img_caption": [
+            "图42010—2018年兰西城市群各维度区位商六维雷达图",
+            "Fig.4Six dimension radar charts of location quotients of different dimensions in Lanzhou-Xining urban agglomeration from 2010 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干辛区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d13ab3d8cec186ec7fd1497a098f40dff565fc65e929c820e3294c3b37414af2.jpg",
+        "table_caption": [
+            "表32010—2018年特色品质城市分类",
+            "Tab.3 Classification of characteristic quality cities from 2o10 to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维度</td><td>类型</td><td>2010年</td><td>2014年</td><td>2018年</td></tr><tr><td>单维度主导型</td><td>用地品质</td><td>积石山县</td><td>永登县、陇西县、积石山积石山县、化隆县 县、民和县</td><td></td></tr><tr><td></td><td>环保品质</td><td>共和县、兰州市</td><td>临洮县、定西市和临夏市</td><td>渭源县、临洮县和临夏市</td></tr><tr><td></td><td>生态品质</td><td></td><td>湟中县、循化县和贵德县</td><td>湟中县、湟源县、循化县、共和县 和贵德县</td></tr><tr><td></td><td>市政品质</td><td>湟源县、靖远县</td><td>东乡县</td><td>东乡县</td></tr><tr><td></td><td>交通品质</td><td></td><td>贵南县</td><td>贵南县</td></tr><tr><td>双维度主导型</td><td>形象品质</td><td>西宁市</td><td></td><td></td></tr><tr><td></td><td>生态品质-环保品质</td><td>永登县</td><td></td><td>永靖县、大通县</td></tr><tr><td></td><td>用地品质-环保品质</td><td>皋兰县、陇西县、渭源 县、永靖县</td><td></td><td>永登县、皋兰县、景泰县、陇西 县、民和县、海晏县和定西市</td></tr><tr><td></td><td>环保品质-交通品质</td><td>榆中县</td><td></td><td></td></tr><tr><td></td><td>环保品质-市政品质</td><td>景泰县、尖扎县</td><td></td><td></td></tr><tr><td></td><td>交通品质-市政品质</td><td>东乡县</td><td></td><td></td></tr><tr><td></td><td>社会品质-市政品质</td><td>海晏县</td><td></td><td></td></tr><tr><td></td><td>市政品质-形象品质</td><td></td><td></td><td>海东市</td></tr><tr><td>多维度主导型</td><td>用地品质-环保品质-市政品质</td><td>同仁县</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef7b8d4c8157acf5873ca602a4f78af62c256f7e67a5e5a3094175a243089533.jpg",
+        "img_caption": [
+            "图52010—2018年兰西城市群城市综合品质指数时空变化",
+            "Fig.5Spatiotemporalchanges ofurbancomprehensivequality index ofLanzhou-Xining urbanagglomeration from 2010 to 20 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "多个核心共存且较为均匀分布的空间特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同时，兰西城市群综合品质呈现较为突出的沿交通干线分布特征，综合品质较高的城市主要分布在东西向交通廊道上，2014年和2018年综合品质等级有了明显的提升，仍然呈现出沿交通廊道“树枝状\"分布的特征，表明交通的便捷性是推动品质城市建设的重要因素。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.2分维度品质空间差异大，分布不均衡兰西城市群各维度品质差异大，空间分布不均衡（图6)。城市用地品质在2010年与2014年基本以相对高品质与较高品质为主，2018年全部达到相对高品质水平；生态品质与环保品质在2010年基本以相对中等品质为主，2018年提升到相对较高品质与高品质水平，空间上呈现东高西低的分布格局，等级较高城市主要分布在甘肃省境内；形象品质、社会品质与经济品质在2010年基本以相对中等与较低品质为主，到2018年则处于高低等级共存的分化状态，空间上呈现出西高东低的分布格局，品质较高的城市主要分布在青海省境内。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3影响因素分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3.1影响因素选择品质城市涉及城市建设的各个方面，同时也受到多方面因素的影响，由于相关文献对其影响因素研究较为欠缺，本文从城市内部和外部2个层面考虑品质城市建设的影响因素，大致表现为影响城市建设发展的社会经济因素，诸如区域发展阶段、经济发展水平、城市规模、交通建设ig.6Spatiotemporalchangesofquality indicesof diferentdimensions inLanzhou-Xiningurbanagglomerationfrom2010to2(",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee085dd2472581aae5f745f5c429800428eddccab6578ec068d75235c25db6bd.jpg",
+        "img_caption": [
+            "图62010—2018年兰西城市群各维度品质指数时空变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "等方面，以及城市立地环境的自然因素。本文选择城镇化率 $( X _ { 1 } )$ 表征城市发展阶段，选择人均GDP$\\left( X _ { 2 } \\right)$ 表征城市经济发展水平，选择人口规模 $\\left( { { X } _ { 3 } } \\right)$ 与建成区规模 $\\left( { { X } _ { 4 } } \\right)$ 表征城市建设规模，其中人口规模为建成区常住人口与暂住人口之和，用地规模为建成区面积，选取对外交通 $( X _ { 6 } )$ 表征交通影响因素，选取城市建成区的地形起伏度 $\\left( \\boldsymbol { X } _ { 5 } \\right) ^ { [ 3 0 ] }$ 表征自然影响因素。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.3.2地理探测器分析运用地理探测器(Geographicaldetector)以各维度品质指数和综合品质指数为因变量 $( Y )$ ,对自变量 $( \\boldsymbol { \\cal { X } } )$ 进行因子探测和交互探测分析，探测结果中 $q$ 值表示自变量 $( \\boldsymbol { \\cal { X } } )$ 对属性(Y)的解释程度， $q$ 值越大表示 $X$ 对Y的解释力越强，反之则越弱[29.31]。探测结果如图7所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c41abf2e34dfb99e99800ba5aff2b9f0df337e286a1e06aef2a0e974fd14ab9.jpg",
+        "img_caption": [
+            "图72010—2018年兰西城市群综合品质影响因素Fig.7Influencing factors of comprehensive quality ofLanzhou-Xining urban agglomeration from 201O to 2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）不同阶段，兰西城市群品质城市的影响因素作用不同，除地形起伏度以外各影响因子随着城市群的建设发展而作用力不断下降。在2010年，建成区规模 $( 0 . 6 3 ) \\mathrm { > }$ 城镇化率 $( 0 . 5 4 ) >$ 人口规模 $( 0 . 5 2 ) \\textgreater$ 人均 $\\mathrm { G D P } \\left( 0 . 3 8 \\right) >$ 对外交通 $( 0 . 2 7 ) >$ 地形起伏度(0.03），而在2014年与2018年，建成区规模(0.53，$0 . 3 7 ) >$ 人口规模 $( 0 . 5 0 , 0 . 2 8 ) \\mathrm { > }$ 人均 $\\mathrm { G D P } ( 0 . 3 4 , 0 . 2 2 ) >$ 城镇化率 $( 0 . 2 8 , 0 . 1 9 ) >$ 对外交通 $( 0 . 1 6 , 0 . 1 1 ) >$ 地形起伏度(0.04，0.08），反映了城市规模是品质城市的主要影响因子，其中，用地规模是影响综合品质的首要因子，其作用力在2010、2014年和2018年分别为 $6 3 . 3 \\% . 5 3 . 4 \\%$ 和 $3 7 . 4 \\%$ ，说明用地规模对品质城市具有基础性作用，是城市发展的载体，而人口规模的影响也很显著，其作用力在2010、2014年和2018年分别为 $5 1 . 6 \\% . 5 0 . 3 \\%$ 和 $2 8 . 2 \\%$ ，体现了以人为核心的城市品质建设内涵，人口越集聚对城市品质的要求就越高。而除地形起伏度以外的影响因子对城市综合品质的作用力的逐年下降表明城市品质逐渐成为城市发展的必然要求和共同目标，不因城市发展阶段的不同、城市经济水平的差异及其城市规模的大小而有所不同，即城市品质的提升已成为一种自发性的城市建设目标。地形起伏度对品质城市的因子作用力最小，但属于基础性影响因素。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）各影响因子间交互作用大于单因子作用力(表4)。根据交互探测发现品质城市的影响因子之间大都存在非线性增强关系和双线性增强关系，说明因子间交互作用明显大于单因子作用力。2010年对外交通和人均GDP的交互作用最强为 $9 3 . 4 \\%$ ，2014年人均GDP和人口规模交互作用最强为$8 2 . 6 \\%$ ,2018年人均GDP与地形起伏度的交互作用最强为 $7 6 . 7 \\%$ 。同时，交互作用呈现出阶段性的变化，2010年属于城市快速发展阶段，城镇化水平较高的城市更加重视城市品质建设问题;在2014年之后，城镇化率对城市品质的作用力逐渐减弱，而城市规模逐渐成为品质城市建设的主要影响因素，特别是大城市在城市品质建设方面有更多的需求增长和较强的投人能力，使得品质指数相对较高，地形起伏度对品质城市的影响在逐渐加强，但总体作用力最低，对外交通对品质城市的作用力逐渐减弱，说明城市发展初期对交通的依赖性较强，但随着城市的不断发展，城市自身已具有较好的发展基础，对于交通的依赖性逐渐减弱。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(3）不同维度的主要影响因素差别显著。城市基础设施是城市发展的基础，当然也是品质城市建设的基础，因而在2010年城镇化率成为交通品质、形象品质、环保品质和市政品质的主要影响因素，但其影响力是逐年减弱的;由于自然地理环境对城市发展空间的限制，使得城市用地的开发利用相对集约紧凑，人口规模对用地品质、形象品质、环保品质和经济品质产生重要影响，特别是在用地品质方面，人口规模的作用力呈现出逐年增长的态势，尽管在其他维度有减弱趋势，但仍是主要影响因素；影响社会品质的因素主要为人均GDP，这表明社会公服设施的建设依赖于国民经济收入，经济条件直接决定社会资源的供给能力和供给水平；用地规模是经济品质和生态品质的主要影响因素，一方面，经济品质建设需要建设空间支撑产业发展，另一方面，自然环境制约下的城市空间的集约利用提高了建设用地效率，推动了经济品质的提升，也同时推动了利用自然生态空间提升生态品质。总体来看，城市规模是导致各城市品质城市建设差异的重要因素，因此，在兰西城市群品质城市的建设过程中，既要发挥有序的城市扩张对品质城市建设的促进作用，又要避免城市规模过大对品质城市造成的消极影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ea23ccb9fccab03bb9b00897a476b5103dedd1f3b3393351031f9c6e584700d.jpg",
+        "table_caption": [
+            "表4综合品质指数的影响因子交互作用分析",
+            "Tab.4Interaction analysis of influencing factors of comprehensive quality index "
+        ],
+        "table_footnote": [
+            "注：设交互后驱动力为 $q ( X _ { 1 } \\cap X _ { 2 } )$ ，若 $q ( X _ { 1 } \\cap X _ { 2 } ) < \\operatorname* { m i n } [ q ( X _ { 1 } ) , q ( X _ { 2 } ) ]$ ，为非线性减弱；若 $\\operatorname* { m i n } [ q ( X _ { \\mathfrak { i } } ) , q ( X _ { \\mathfrak { i } } ) ] < q ( X _ { \\mathfrak { i } } \\cap X _ { \\mathfrak { i } } ) < \\operatorname* { m a x } [ q ( X _ { \\mathfrak { i } } ) , q ( X _ { \\mathfrak { i } } ) ]$ ，为单因子非 线性减弱;若 $q ( X _ { 1 } \\cap X _ { 2 } ) > \\operatorname* { m a x } \\left[ q ( X _ { 1 } ) , q ( X _ { 2 } ) \\right]$ ,为双因子增强;若 $q ( X _ { 1 } \\cap X _ { 2 } ) { = } q ( X _ { 1 } ) + q ( X _ { 2 } )$ ,两因子独立;若 $q ( X _ { 1 } \\cap X _ { 2 } ) > q ( X _ { 1 } ) + q ( X _ { 2 } )$ ,为非线性增强[29-32]。 "
+        ],
+        "table_body": "<html><body><table><tr><td>年份</td><td>影响因素</td><td>城镇化率(X)</td><td>人均GDP(X)</td><td>人口规模(X)</td><td>建成区规模(X4)</td><td>地形起伏度(X)</td><td>对外交通(X)</td></tr><tr><td>2010</td><td>城镇化率(X)</td><td>0.535</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人均GDP(X)</td><td>0.763</td><td>0.375</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人口规模(X)</td><td>0.615</td><td>0.783</td><td>0.516</td><td></td><td></td><td></td></tr><tr><td></td><td>建成区规模(X4)</td><td>0.774</td><td>0.799</td><td>0.650</td><td>0.633</td><td></td><td></td></tr><tr><td></td><td>地形起伏度(Xs)</td><td>0.828</td><td>0.621</td><td>0.736</td><td>0.764</td><td>0.033</td><td></td></tr><tr><td></td><td>对外交通(X6)</td><td>0.846</td><td>0.934</td><td>0.787</td><td>0.757</td><td>0.586</td><td>0.208</td></tr><tr><td>2014</td><td>城镇化率(X)</td><td>0.279</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人均GDP(X)</td><td>0.705</td><td>0.341</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人口规模(X)</td><td>0.672</td><td>0.826</td><td>0.503</td><td></td><td></td><td></td></tr><tr><td></td><td>建成区规模(X4)</td><td>0.631</td><td>0.786</td><td>0.594</td><td>0.534</td><td></td><td></td></tr><tr><td></td><td>地形起伏度(X5)</td><td>0.548</td><td>0.542</td><td>0.709</td><td>0.709</td><td>0.041</td><td></td></tr><tr><td></td><td>对外交通(X6)</td><td>0.803</td><td>0.696</td><td>0.599</td><td>0.700</td><td>0.663</td><td>0.162</td></tr><tr><td>2018</td><td>城镇化率(X)</td><td>0.190</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人均GDP(X)</td><td>0.524</td><td>0.223</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>人口规模(X)</td><td>0.702</td><td>0.736</td><td>0.282</td><td></td><td></td><td></td></tr><tr><td></td><td>建成区规模(X4)</td><td>0.478</td><td>0.624</td><td>0.446</td><td>0.374</td><td></td><td></td></tr><tr><td></td><td>地形起伏度(Xs)</td><td>0.638</td><td>0.767</td><td>0.714</td><td>0.653</td><td>0.083</td><td></td></tr><tr><td></td><td>对外交通(X6)</td><td>0.530</td><td>0.698</td><td>0.621</td><td>0.543</td><td>0.683</td><td>0.107</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "城市品质是城市精神品位和发展质量的有机融合[33],是多维度、多层次、多领域的城市质量的统一,其核心是从人的视角来营造和发展城市[34]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）兰西城市群综合品质从2010年到2018年的整体提升发展较为符合实际，而综合品质处于中低水平也与其在我国城市群中的发展水平基本一致。兰西城市群是西部地区唯一的跨省城市群，存在传统产业占比较高、经济总量偏小、人均水平较低等自身发展的劣势。同时，兰西城市群处于黄河流域，属于生态环境脆弱区，其发展过程既要有推动社会经济持续发展的重点开发要求，又要有进行生态环境保护的限制乃至禁止开发。“绿水青山就是金山银山”，在未来城市群品质建设过程中应变劣势为优势，在强化其生态品质的同时，加强其他品质的提升，实现跨越发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(2）兰西城市群综合品质在空间分布上由差异大向均衡高等级方向转变，也体现了“以人民为中心\"的品质城市建设理念。十八大将生态文明建设纳入中国特色社会主义事业总体布局中，十九大提出我国社会主要矛盾转化为人民日益增长的美好生活需要和不平衡不充分之间的矛盾，加快了品质城市建设步伐，如深入开展的“创建文明城市”、“海绵城市”、“全域无垃圾”、“厕所革命\"等一系列品质建设活动，至2018年兰西城市群内形成以用地品质、生态品质、环保品质为主导的特色品质城市类型。针对特色品质城市类型较为单一，各城市仍需找准短板，继续发力，实现兰西城市群综合品质和各维度品质的均衡发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(3）影响品质城市的影响因素是多方面的，其",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "影响力基本呈现出建成区规模 $>$ 人口规模 $>$ 人均GDP>城镇化率>对外交通 $>$ 地形起伏度的特点，反映了新国土空间时代人地协调关系是城市品质的重要体现，承载城市的\"地\"的集约利用水平、经济效益水平及其表征发展阶段的城镇化水平成为影响城市品质的最核心因素，同时也反映了自然因素不是决定城市品质的核心因素。这与“以人为本”的为人民服务的品质城市建设内涵是一致的，城市品质的提升已成为一种自发性的城市建设目标。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "兰西城市群正处于培育发展阶段，面临着诸多制约其品质建设的基础性、区域性问题，不仅有各城市功能提升与自然环境承载力不强之间的矛盾问题，而且有各城市间因发展条件的差异引致的发展差距问题，不仅有城市实体空间因自然条件受限而发展不充分问题，更有被其他城市群强力竞争而使资源流失的风险问题。因此，随着兰西城市群经济社会的快速发展，城市需求层次势必会发生变化和升级[35],未来还需深入进行从低品质、不均衡、不协调向高品质、均衡协调转变的转型机制与转型路径研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文从用地、经济、社会、生态、环保、交通、市政和形象8个维度构建了品质城市的评价指标体系，通过综合评估方法和地理探测器对2010、2014年和2018年兰西城市群内各城市(县)建成区的品质城市进行了评价和影响因素分析，主要结论如下：",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "（1）兰西城市群综合品质城市建设在2010—2018年整体持续提升，但建设水平处于中低水平，根据极值差值对比总体品质“两极分化\"现象较为突出；分维度品质在时序变化上类型多样，主要呈现出先降低后升高型、先增长后降低型、保持稳定型、整体提升型和混合型5种类型。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(2）兰西城市群综合品质在空间分布上呈现出由以兰州-西宁为主的“双核\"结构向“多核共存\"结构转变的趋势，各城市综合品质向均衡分布转变;而不同维度品质在空间上的变化不一，至2018年仅有用地品质分布较为均衡，其他维度则呈现不均衡分布状态。各维度对综合品质的贡献差异显著，特色品质城市逐步形成，大致分为单维度主导型、双维度主导型和多维度主导型，至2018年特色品质城市以用地品质、环保品质和生态品质主导最为突出。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(3）城镇化率、人均GDP、城市规模、交通和自然因素共同促使城市品质的变化，且其作用力、作用阶段和方向存在显著差异。城市规模成为品质城市建设的主要影响因素，城镇化率和人均GDP为次要影响因素，对城市品质作用力均呈现出下降趋势，自然因素作用力最弱，但属于基础性作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]赵群毅,黄建军.“美丽\"的背后:厦门城市品质提升的规划实践 [C]/中国城市科学研究会.2019城市发展与规划论文集.北京: 中国城市出版社,2019:2105-2111.[Zhao Qunyi, Huang Jianjun. Consideration on the way to improve the urban quality based on summary of planning practices in Xiamen[C]//Chinese Society for Urban Studiies.Paper Collection of Urban Development and Planning in 2019.Beijing: China City Press,2019: 2105-2111.]   \n[2]冯立天.中国人口生活质量研究[M].北京:北京经济学院出版 社,1992:34-42.[Feng Litian.Research on the quality of life of China's population[M].Beijing:The Publishing House of the Beijing College of Economics,1992: 34-42.]   \n[3]顾维中,王渭.“品质城市”评价指标体系研究[J].中国标准化, 2017(5):62-67.[Gu Weizhong,Wang Wei. Evaluation indicator system for quality-based city development[J]. China Standardization,2017(5): 62-67.]   \n[4]Oppio A, Botter M, Arcidiacono A. Assessing urban quality: A proposal for a MCDA evaluation framework[J].Annals of Operations Research,2018,doi: 10.1007/s10479-017-2738-2.   \n[5] Wu D Y, Zhen P, Tang Y T.A quick assessment method to evaluate sustainability of urban built environment: Case studies of four large-sized Chinese cities[J]. Cities,2019,89: 57-69.   \n[6]Tsiropoulos A,Papagiannakis A,Latinopoulos D. Development of an aggregate indicator for evaluating sustainable urban mobility in the City of Xanthi,Greece[C]//The $4 ^ { \\mathrm { u } }$ Conference on Sustainable Urban Mobility.New York: Springer,Cham,2018:35-43.   \n[7] Gavrilidis AA,Nita MR,Onose DA,etal.Methodological framework for urban sprawl control through sustainable planning of urban green infrastructure[J]. Ecological Indicators, 2O17,96: 67-78.   \n[8]Leeuwen CJ,Frijins J, Wezel A V,et al.City blueprints:24 indicators to assess the sustainability of the urban water cycle[J]. Water Resource Management, 2012,26(8): 2177-2197.   \n[9]Lupo T, Cusumano M. Towards more equity concerning quality of urban waste management services in the context of cities[J]. Journal Cleaner Production,2018,171: 1324-1341.   \n[10]Fung M, Kennedy C A.An integrated macroeconomic model for assessing urban sustainability[J]. Environment and Planning B: Planning and Design,2005,32(5): 639-656.   \n[11]Su MR,Xie H,Wen CY,et al.Urban ecosystem health evaluation for typical Chinese cities along the Belt and Road[J].Ecological Indicators,2019,101: 572-582.   \n[12]Garau C,Pavan V M. Evaluating urban quality: Indicators and assessment tools for smart sustainable cities[J]. Sustainability,2018, 10(3): 575.   \n[13]Mulvey A. Gender,economic context,perceptions of safety,and quality of life: A case study of Lowell, Massachusetts (U.S.A.), 1982-96[J]. American Journal of Community Psychology,2002,30 (5): 655-697.   \n[14]Montejo G AO,Frazier AE.Assessing quality of life across Mexico City using socio-economic and environmental factors[J]. International Journalof Applied Geospatial Research (IJAGR),2020, 11(3): 68-86.   \n[15] Zumaya JQ, Motlak JB. The role of environmental indicators in improving the quality of urban life in the city of Baghdad: A comparative study[J]. IOP Conference Series: Materials Science and Engineering,2019,518(2): 022085,doi: 10.1088/1757-899X/518/ 2/022085.   \n[16]Biagi B,Ladu MG,Meleddu M,et al. Tourism and the city: The impact on residents’qualityof life[J]. International Journal of Tourism Research,2020,22(2): 168-181.   \n[17]周复多.城市文化品质与城市可持续发展[J].杭州大学学报(哲 学社会科学版),1997(4):50-57.[Zhou Fuduo.Urban cultural quality and urban sustainable development[J]. Journal of Hangzhou University (Philosophy and Social Sciences),1997(4): 50-57.]   \n[18] 吴良镛.积极推进城市设计提高城市环境品质[J].建筑学报, 1998(3): 3-5.[Wu Liangyong. Promotion of urban design and enhancement of urban environmental qualities[J].Architectural Journal, 1998(3): 3-5.]   \n[19] 贺建军,张维维.我国县域城市品质评价指标体系构建与实际 测度——以浙江省慈溪市为例[J].现代城市研究,2014(2):9- 14.[He Jianjun, Zhang Weiwei. The construction and measure of the evaluation system of urban quality in China county-level cities:A case study of Cixi City,Zhejiang Province[J].Modern Urban Research,2014(2): 9-14.]   \n[20]常义.品质城市建设研究[D].天津:天津工业大学,2017. [Chang Yi. Research on quality city construction[D]. Tianjin: Tianjin University of Technology,2017.]   \n[21] 王国新.城市生活品质客观评价指标体系构建与运用一基于杭 州和南京的比较研究[J].经济地理,2009,29(9):1481-1486. [Wang Guoxin. Construction and application of index system for objective assessment of urban quality of life: A comparative study of Hangzhou and Nanjing[J]. Economic Geography,20O9,29(9): 1481-1486.]   \n[22] 涂建军,况人瑞,毛凯,等.成渝城市群高质量发展水平评价[J]. 经济地理,2021,41(7):50-60.[Tu Jianjun, Kuang Renrui,Mao Kai,et al.Evaluation on high-quality development of ChengduChongqing urban agglomeration[J]. Economic Geography, 2021,41 (7): 50-60.]   \n[23]李在军,姜友雪,秦兴方.地方品质驱动新时期中国城市创新力 时空演化[J].地理科学,2020,40(11):1812-1821.[Li Zaijun, Jiang Youxue, Qin Xingfang.Local quality of place drives the spatiotemporal evolution patern of China's urban creative ability in the new era[J].Scientia Geographica Sinica,2020,40(11):1812- 1821.]   \n[24] 杨晴青,陈佳,李伯华,等.长江中游城市群城市人居环境演变 及驱动力研究[J].地理科学,2018,38(2):195-205.[Yang Qingqing,Chen Jia,Li Bohua,etal.Evolution and driving force detec tion of urban human settlement environment at urban agglomeration in the middle reaches of the Yangtze River[J].Scientia Geo graphica Sinica,2018,38(2): 195-205.]   \n[25] 黄珊珊,王恩茂,徐文祥.城市基础设施建设对提升城市品质的 作用研究—以嘉兴市为例[J].城市建筑,2020,17(28):20- 22,110.[Huang Shanshan,Wang Enmao,Xu Wenxiang. Research on the role of urban infrastructure construction in improving urban quality:A case study of Jiaxing[J]. Urbanism and Architecture,2020,17(28): 20-22,110.]   \n[26]邹亚锋,李亚静,袁志鸿.西部省会城市新型城镇化水平综合测 度研究[J].干旱区地理,2020,43(6):1612-1621.[Zou Yafeng, Li Yajing,Yuan Zhihong. Comprehensive research on new urbanization level of provincial capital cities in western China[J].Arid Land Geography,2020,43(6): 1612-1621.]   \n[27] 方创琳,王振波,刘海猛.美丽中国建设的理论基础与评估方案 探索[J].地理学报,2019,74(4):619-632.[Fang Chuanglin, Wang Zhenbo,Liu Haimeng. Exploration on the theoretical basis and evaluation plan of beautiful China construction[J].Acta Geographica Sinica,2019,74(4): 619-632.]   \n[28] 余达锦,李锦,林海城.高质量发展背景下城市品质评价研究一 以江西为例[J]. 生态经济,2020,36(11):82-87.[Yu Dajin,Li Jin,Lin Haicheng.Evaluation of urban quality in the background of high-quality development: A case study of Jiangxi[J]. Ecological Economy,2020,36(11): 82-87.]   \n[29] 雒占福,高旭,张永锋,等.基于POI的城市影子教育机构空间 格局及其影响因素——以兰州市主城区为例[J].人文地理, 2020,35(6): 95-105.[Luo Zhanfu,Gao Xu,Zhang Yongfeng.et al. Research on the spatial pattern and influencing factors of urban shadow education institutions based on POI data: A case of Lanzhou[J]. Human Geography,2020,35(6): 95-105.]   \n[30] 魏献花,白永平,车磊,等.基于栅格的关中平原城市群人居环 境质量综合评价[J].干旱区地理,2019,42(5):1176-1184.[Wei Xianhua,Bai Yongping,Che Lei,et al. Evaluation of human settlement environment quality of urban agglomeration in Guanzhong Plain based on grid data[J].Arid Land Geography,2O19,42(5): 1176-1184.]   \n[31]王劲峰,徐成东.地理探测器:原理与展望[J].地理学报,2017, 72(1): 116-134.[Wang Jingfeng,Xu Chengdong. Geodetector: Prin",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ciple and prospective[J].Acta Geographica Sinica,2O17,72(1): 116-134.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[32]赵小风,刘梦丽,王柏源.基于地理探测器的城市建设用地规模 时空差异及影响因素分析[J].中国土地科学,2018,32(5):29- 35.[Zhao Xiaofeng,Liu Mengli,Wang Baiyuan.Sptaio-temporal disparity of urban construction land and its impact factors in China based on Geodetector[J]. China Land Science,2018,32(5):29- 35.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[33]GB/T39497-2020.中华人民共和国国家标准:新型城镇化品质 城市评价指标体系[S].北京：中国质检出版社,2020.[GB/ T39497-2O20.National Standard of the People'sRepublic of China: New-type urbanization evaluation index system of quality city [S].Beijing: China Quality Supervision Press,2020.] [34] 赵群毅,黄建军,王茂军.人本视角下城市品质提升的方法论 一来自厦门实践的思考[J].城市发展研究,2020,27(9):82- 87,41.[Zhao Qunyi,Huang Jianjun,Wang Maojun.Methodology of urban quality improvement from the perspective of humanism: Based on practical exploration in Xiamen[J].Urban Development Studies,2020,27(9): 82-87, 41.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[35]李再艳.兰西城市群城镇建设用地开发强度时空格局及影响因 素研究[D].兰州:西北师范大学,2020.[Li Zaiyan. Study on the spatial-temporal pattern of urban construction land development intensity and its influencing factors in Lanzhou-Xining urban ag glomeration[D].Lanzhou: Northwest Normal University,2020.] ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal variation of quality city construction level and its influencing factors in Lanzhou-Xining urban agglomeration ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "LUO Zhanfu'，LI Xiaohui'， LEI Dehong'， YANG Zhuolong²(1.School of GeographyandEnvironmental Science,Northwest Normal University,Lanzhou 73oo7o,Gansu,China;2.Transportation Department of Gansu Province,Lanzhou 73oo3O, Gansu, China)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The construction of a quality city is an important part in response to the strategy of ecological civilization,high-quality development,and new urbanization.This paper investigates the evaluation of quality city construction level ofLanzhou-Xining urban agglomeration, northwest China from eight dimensions of land use,economy,societyecology,environmental protection,transportation,municipal administration,and image quality using 3O cities (counties)of Lanzhou-Xining urban agglomeration as the research object and urban builtuparea as the basic spatial unit.The results show that: (1) In terms of time series,the overallquality of each city continues to improve,and the quality construction is at a relatively low level; Each city’s change in subdimension quality is complex,and there are many diffrent types of change,such as stable type, promotion type, first-decline-and-then-rise type,first-rise-and-then-falltype,mixed type,and so on. (2)The change in space patern from“double core”to“multi-core coexistence”characterizes the comprehensive quality of each city.The quality diferenceof the dimension is large and the distribution is not balanced.(3）There are significant differences in the contribution of sub-dimension quality among cities.Identifying feature cities emerge gradually, dividing into three types: single dimension,two-dimension,and multi-dimension dominant. (4)There are numerous factors that influence the quality of a city,in a series as built-up area size>population size>per capita GDP> urbanization rate>external transportation>topographic relief. City scale is the main influencing factor of quality city construction in Lanzhou-Xining urban agglomeration,urbanization rate and per capita GDP are the secondary influencing factors,and natural factors are the weakest, but they belong to the basic role. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: Lanzhou-Xining urban agglomeration; quality city； spatiotemporal variation; influencing factors ",
+        "page_idx": 13
+    }
+]

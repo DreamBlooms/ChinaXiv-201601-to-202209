@@ -1,0 +1,718 @@
+[
+    {
+        "type": "text",
+        "text": "常规电子直线加速器的设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "朱雄伟中国科学院高能物理研究所，北京100049",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文讨论了常规电子直线加速器的设计问题，并以一台 $1 0 \\ \\mathrm { M e V }$ 的电子直线加速器为例穿插其中讨论了常规电子直线加速器的设计。常规电子直线加速器由电子枪、聚束部分、光速部分所组成，而且在直线对撞机装置、自由电子激光装置中经常用到束团压缩部分。我们对每一部分都进行了分析与讨论，主要包括纵向、横向束流动力学方面，总结了一系列的行之有效的设计思想与方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： 加速器设计，电子直线加速器，束流动力学。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常规电子直线加速器【1，2，3】有电子枪、聚束部分、光速部分。一般由电子枪、预聚束器、聚束器、加速结构、四极铁、二极铁所组成，横向聚焦当然由四极铁所完成，常规直线加速器中很少用到六极磁铁，因为直线加速器一般不需要调节色品函数。而束团压缩则由二极铁、四极铁所组成的压缩器所组成，见图一。在聚束段存在纵向相运动【4，5】，到达相对论光速段后相运动近似冻结了，只需加以横向聚焦以保证束流在管道的传输。预聚束器、聚束器、加速结构的工作的射频频率相同，为加速器的射频频率，或功率源的微波频率。电子枪产生的电子束团经过聚束部分形成几个相区束团。如果我们希望形成单个或者较少个数的电子束团，我们可以引入次谐波聚束器，见图二。相运动的形式千差万别，五花八门，一个好的相运动能够有高的相稳定区（bucket)捕获，从而更有效的提高电子源的利用率。电子直线加速器的聚束段也可以称作预注入器（preinjector）。聚束段有分立式的，也有一体化的。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d9ae151e7a6819af59c01b1845ad37870d79c5822f90c6375aea3ea97c7e451.jpg",
+        "img_caption": [
+            "图一、常规电子直线加速器的组成"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a944e0124cdc0bac0eb2fa57d19072b709cf2551d7be2e51589ed60b3372bd4.jpg",
+        "img_caption": [
+            "图二、次谐波聚束器的基本组成"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "常规直线加速器的设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我们主要采取 Superfish【6】、Parmela【7】来设计直线加速器。Superfish是电磁场模拟程序。在加速器行当中，常用的电磁场程序【4】有 Superfish、MAFIA、CST、HFSS 等。Superfish是一个二维程序，可用来设计、模拟计算加速结构、磁铁、线圈等。Parmela是束流动力学模拟程序，是多粒子程序，采用 particle-in-cell 技术，得到了业界的认可。Superfish、Parmela 在世界各大加速器实验室广泛使用。常规直线加速器的设计首先考虑选取工作频率。加速器的工作频率取决于功率源的频率。高能加速器的功率源一般是高功率的速调管，低能加速器的功率源也有磁控管，速调管、磁控管适合长期稳定运行。对于电子直线加速器来说，主要射频频率有1300 MHz（L-band）、2856 MHz（S-band）、5712 MHz（C-band）、11.424 GHz（X-band）等。加速结构有常温加速结构、低温加速结构，相应的射频加速器技术称为NCRF、SRF。常温加速结构的材料主要为无氧铜，低温加速结构胡材料主要为超导材料。另外，直线加速器很大的一个关键部分是粒子源【8，9】。对于电子直线加速器来说，是电子枪。相对于质子加速器、重离子加速器来说，是质子源与重离子源。粒子源的结构设计可以采用 Superfish 来模拟、设计、计算。但其动力学模拟设计Parmela完成不了，应采用其他辅助程序来模拟计算。电子枪主要有 DC、RF电子枪两种。直流电子枪采用 Egun 程序来设计。而微波电子枪可采用Parmela 来模拟计算设计。近年来光阴极微波电子枪广泛应用在自由电子激光装置中。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/13873e12cccce89ef9fe683598231ccc97aef5c0a3c4c166363a375d7cfa9038.jpg",
+        "img_caption": [
+            "图三、加速器设计流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "加速器总体设计计算时，我们首先考虑加速器总体lattice 设计安排。所谓 lattice就是各种加速器元部件组合成的整条加速器，从而达到加速器的主要设计参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "有很多程序可以匹配lattice。与Parmela一起发行的有Trace3D。Trace3D 就可以完成加速器 lattice 的匹配。在直线加速器中我们常用的匹配程序有著名的Transport，Transport 可以完成 lattice 的三阶匹配。可以说 Transport 程序中的很多数学记法已经成为了加速器物理的一部分。加速器物理是一门相当成熟的学科，很多时候我们主要关心的是加速器的模拟仿真，以及准确的物理设计。加速器lattice匹配完成之后，我们还需要做粒子跟踪模拟，看看加速器的具体设计效果。Parmela 是一个很好的低能加速器的多粒子跟踪程序。在高能加速器中，近年来 ANL 研发的 ELEGANT 成为了一个很好的多粒子跟踪程序。ELEGANT在自由电子激光装置中成为流行的程序。图三显示了加速器一个简单的设计流程。各个流程之间应该是融会贯通的，可能没有太明显的分割。下面我们讨论一台具体的电子直线加速器的设计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三、 常规直线加速器的设计举例",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们过去的一台一体化的 S-Band 电子直线加速器的聚束性能不理想，我们在电子枪和光速加速段之间添加重新设计一个 S-Band 聚束驻波腔以改善聚束部分的相运动从而提高捕获率，设计后的装置见图三。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a81f61587fcaa3bade8e5d65509f7f4b094cfafd91dadb32ce3041c195ccfe34.jpg",
+        "img_caption": [
+            "图四、装置示意简图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于空间的限制，该低能电子直线加速器结构紧凑，电子枪、予聚束腔、加速结构部分间距很小，我们需要很快完成纵向聚束和横向聚焦运动，予聚束腔、加速结构上加装聚焦线圈以进行束团聚焦。予聚束腔紧接一段行波加速结构，加速结构的前面部分为行波聚束腔，后面部分为加速结构用作加速。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1．电子枪的设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电子枪广泛用在加速器装置和电子物理器件中。电子枪是加速器装置和电子物理器件的核心部分，也叫电子源，是粒子源的电子家族。电子枪的基本种类有直流电子枪和射频电子枪两种，这两类电子枪也是最常用的。在电子物理器件中基本只用直流电子枪，而且体积很小，或者说小型化。用在加速器装置中的电子枪体积很大，设备庞大。由于高压技术的限制，直流电子枪产生的电子束能量一般小于 $5 0 0 \\mathrm { K e V }$ 。在高压直流束流中，我们有著名的Child-Langmuir 二分之三次定律。由此我们可以定义直流电子枪的一个主要表征参数—导流系数。随着光源物理和自由电子激光的发展，射频电子枪是新一代的电子源。其中光阴极电子枪在世界各大加速器实验室得到普遍的使用，光阴极电子枪适合用作自由电子激光装置的电子源，是高亮度的电子源。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "常规直流电子枪有二极枪、三极枪，二极枪由阴极、阳极所组成，而三极枪由阴极、阳极、加速极所组成。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0bc1cfae30b4261430b12b7accdbc0d449c5f1358f19fa303ed888cf76cc6a3e.jpg",
+        "table_caption": [
+            "表一、电子枪基本参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>直流</td></tr><tr><td>电量</td><td>2 nC</td></tr><tr><td>束团长度</td><td>1 ns</td></tr><tr><td>直流高压</td><td>80 KV</td></tr><tr><td>阴极材料</td><td>钡钨阴极</td></tr><tr><td>灯丝偏压</td><td>8V</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2．加速结构的设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在利用传输系统中的电磁波与电子或其他带电粒子相互作用的装置中，例如行波放大器、加速器等，我们需要带电粒子与电磁波的有效相互作用的距离更长，这样带电粒子与电磁波能够进行有效的能量交换。由于带电粒子的速度不可能超过光速，所以需要传输系统中的电磁波的相速小于光速，这样的传输系统就是慢波结构。慢波结构的种类很多，介质波导、敷介质波导就可以构成慢波系统。完全由光滑金属壁组成的单柱形导波系统中，电磁波的相速大于光速，是快波系统。而在双导体系统中可以传播TEM波，它的相速等于光速。基于简单可靠的考虑，在加速器技术中，我们常采用单柱形导波系统。如果用皱褶金属表面、纹波金属表面，那么被导电磁波的相速可以小于光速。在介质波导中，受介质的使用寿命，以及倍增电子效应限制，金属慢波系统更加常用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "慢波系统的主要特性参数是色散关系和耦合阻抗，而在加速器科学中我们常用分路阻抗来表征加速梯度和建场效率，分路阻抗越高，建立相同加速梯度所需要的输入电磁波的功率越低。色散关系是它的频率和波数之间的函数关系$\\operatorname { f } ( \\omega , \\mathbf { k } ) = 0$ 。由色散关系图可以分类出两类加速结构：行波加速和返波加速结构，取决于加速结构的工作点。加速结构是加速器的核心部件，其一般工作在横磁（TM）模式。加速结构有行波和驻波两种加速结构。质子加速器通常采用驻波加速结构，而电子加速器通常采用行波加速结构。对于电子直线加速器，目前各大加速器实验室流行的加速结构有L-band（1.3 GHz)、S-band（2856 MHz)、C-band （5712 MHz)、X-band(11.424GHz)加速结构。图一为盘荷波导的示意图。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0b1a7972c95233f89ed983500bea842ae762598d57ea8963d04456fa87afeac.jpg",
+        "img_caption": [
+            "图五、加速结构示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电磁波的一个主要特性是它的色散关系，电磁波的色散关系是它的频率和波数之间的函数关系 $f ( \\omega , \\boldsymbol { k } ) = 0$ ，电磁波的相速 $\\nu _ { _ { p } } = { \\frac { \\omega } { k } }$ ，群速 $\\nu _ { g } = { \\frac { d \\omega } { d k } }$ 。相速大于光速的电磁波属于快波，而相速小于光速的电磁波属于慢波。加速结构中电磁波的色散关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "加速结构有行波和驻波两种加速结构，加速结构中电磁场的分析方法一般有解析和数值两种方法。解析分析仅限于一些简单结构，属于闭合场理论。随着计算机和数值计算技术的长足发展，各种电磁场模拟软件（Mafia，Superfish，CST,HFSS 等）的相继出现，使得加速结构的模拟仿真研究成为常规，人们逐渐淡忘了电磁场的解析分析方法。本文将介绍加速结构的解析求解问题。在柱坐标$( \\mathbf { \\Phi } _ { r , \\theta , z } )$ 中，对于加速结构中行波场时谐场因子为 $\\exp ( i ( \\omega t - k _ { z } z )$ ，而对于驻波场可分解为两支向相反方向传播的行波场，因麦克斯韦方程满足线性叠加原理，所以我们只讨论行波解形式。在加速结构中，无源场麦克斯韦方程可写为【10，11】",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\times \\vec { E } = - \\frac { j \\omega } { c } \\mu \\vec { H } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla \\times \\vec { H } = \\frac { j \\omega } { c } \\varepsilon \\vec { E } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将以上方程分解可得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { r } = \\frac { c } { j \\omega \\varepsilon } ( \\frac { 1 } { r } \\frac { \\partial H _ { z } } { \\partial \\theta } - \\frac { \\partial H _ { \\theta } } { \\partial z } ) \\ : ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\theta } = \\frac { c } { j \\omega \\varepsilon } ( \\frac { \\hat { \\sigma } H _ { r } } { \\hat { \\sigma } z } - \\frac { \\hat { \\sigma } H _ { z } } { \\hat { \\sigma } r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { z } = \\frac { c } { j \\omega \\varepsilon } ( \\frac { \\partial H _ { \\theta } } { \\partial r } + \\frac { 1 } { r } H _ { \\theta } - \\frac { 1 } { r } \\frac { \\partial H _ { r } } { \\partial \\theta } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { r } = - \\frac { c } { j \\omega \\mu } ( \\frac { 1 } { r } \\frac { \\partial E _ { z } } { \\partial \\theta } - \\frac { \\partial E _ { \\theta } } { \\partial z } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\theta } = - \\frac { c } { j \\omega \\mu } ( \\frac { \\partial E _ { r } } { \\partial z } - \\frac { \\partial E _ { z } } { \\partial r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { z } = \\frac { c } { j \\omega \\varepsilon } ( \\frac { \\partial H _ { \\theta } } { \\partial r } + \\frac { 1 } { r } H _ { \\theta } - \\frac { 1 } { r } \\frac { \\partial H _ { r } } { \\partial \\theta } ) \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将横向场分量表达式（ $E _ { r } , E _ { \\theta } , H _ { r } , H _ { \\theta } \\ )$ ）用纵向场分量表达可得【12】",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { r } = ( \\frac { \\omega ^ { 2 } } { c ^ { 2 } } \\mu \\varepsilon - k _ { z } ^ { 2 } ) ^ { - 1 } ( \\frac { \\hat { \\sigma } ^ { 2 } E _ { z } } { \\hat { \\sigma } r \\hat { \\sigma } z } { - \\frac { j \\omega \\mu } { c } \\frac { 1 } { r } \\frac { \\hat { \\sigma } H _ { z } } { \\hat { \\sigma } \\theta } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\theta } = ( \\frac { \\omega ^ { 2 } } { c ^ { 2 } } \\mu \\varepsilon - k _ { z } ^ { 2 } ) ^ { - 1 } ( \\frac { \\ \\hat { \\sigma } ^ { 2 } E _ { z } } { \\hat { \\sigma } \\theta \\hat { \\sigma } z } + \\frac { j \\omega \\mu } { c } \\frac { \\ \\hat { \\sigma } H _ { z } } { \\hat { \\sigma } r } ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { r } = ( \\frac { \\omega ^ { 2 } } { c ^ { 2 } } \\mu \\varepsilon - k _ { z } ^ { 2 } ) ^ { - 1 } ( \\frac { j \\omega \\varepsilon } { c } \\frac { 1 } { r } \\frac { \\partial E _ { z } } { \\partial \\theta } + \\frac { \\partial ^ { 2 } H _ { z } } { \\partial r \\hat { \\sigma } z } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\theta } = ( \\frac { \\omega ^ { 2 } } { c ^ { 2 } } \\mu \\varepsilon - k _ { z } ^ { 2 } ) ^ { - 1 } ( \\frac { 1 } { r } \\frac { \\hat { \\sigma } ^ { 2 } H _ { z } } { \\hat { \\sigma } z \\hat { \\sigma } \\theta } - \\frac { j \\omega \\varepsilon } { c } \\frac { \\hat { \\sigma } E _ { z } } { \\hat { \\sigma } r } ) \\textrm { d }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由纵向分量表达式 $( E _ { z } , H _ { z } )$ 可得如下关于纵向场分量的亥姆霍兹方程",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\nabla ^ { 2 } + \\frac { \\omega ^ { 2 } } { c ^ { 2 } } \\mu \\varepsilon ) E _ { z } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\nabla ^ { 2 } + \\frac { { \\omega } ^ { 2 } } { c ^ { 2 } } { \\mu } \\varepsilon ) H _ { { z } } = 0 \\ : _ { \\circ }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所以实际中，我们可先求解纵向场分量方程，然后再求解横向场方程",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于纵向分量的亥姆霍兹方程，可分解算子∀²→V²+d² 运用行波场特征可得如下的偏微分方程",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\boldsymbol { \\nabla } _ { \\perp } ^ { 2 } + \\frac { \\omega ^ { 2 } } { c ^ { 2 } } \\mu \\varepsilon - k _ { z } ^ { 2 } ) f = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $f$ 代表纵向场分量，其解为一系列正交贝塞尔函数的组合。本征模方程为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\nabla _ { \\perp } ^ { 2 } + \\beta _ { n } ^ { 2 } ) f _ { n } = 0 \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在柱坐标 $( r , \\theta , z )$ 情形下，TM本征模方程化为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\frac { 1 } { r } \\frac { \\partial } { \\partial r } r \\frac { \\partial } { \\partial r } f _ { n } + \\frac { 1 } { r ^ { 2 } } \\frac { \\partial ^ { 2 } } { \\partial ^ { 2 } \\theta } + { \\beta _ { n } } ^ { 2 } ) f _ { n } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 $T M _ { 0 n }$ 情形下, $\\frac { \\partial ^ { 2 } } { \\partial ^ { 2 } \\theta } = 0$ ， 方程化为贝塞尔方程，其解形式为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { n } = A J _ { \\mathrm { 0 } } ( \\beta _ { n } r ) \\mathrm { ~ s ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "常用加速管基模为TMo1°",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "等效电路法是一种非常简便的关于加速结构的主要特性的求解方法，其基本思路是将电场分解为 $E ( r _ { \\perp } ) V ( z , \\omega )$ 、磁场分解为 $H ( r _ { \\perp } ) I ( z , \\omega ) Z$ 这样的解形式，式",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中Z为波阻抗，从而非常简便的获得加速结构的色散关系。从物理直观上来说，是将加速结构分解为一系列相互耦合的谐振腔链。行波加速结构的等效电路图如图2。运用等效电路法，我们可以很简单的得到行波加速结构的一般的色散关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/36aa35d71d63cbffea784352aa09495e1a28441c6330e3f39fd9fad6f28c52e2.jpg",
+        "img_caption": [
+            "图六、行波加速结构等效电路示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega ^ { 2 } = \\omega _ { 0 } ^ { 2 } ( 1 - \\kappa \\cos \\theta ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\omega _ { \\scriptscriptstyle 0 }$ 、 $\\theta$ 为单腔的本征模频率、相移， $\\kappa$ 为腔间耦合系数。耦合系数可粗略 估算为 ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa \\approx \\frac { 8 } { 3 } \\cdot \\frac { a } { L } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$a$ 束流孔径， $L$ 为腔长。加速结构群速为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { g } = \\frac { \\omega _ { 0 } L } { 2 } \\cdot \\frac { \\kappa \\sin \\theta } { \\sqrt { 1 - \\kappa \\cos \\theta } } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用典型的 SLAC 加速结构参数， 频率为 $2 8 5 6 M H z$ ，耦合系数可估为0.15，那么，加速结构的典型色散曲线与群速曲线图如下，",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e14c08546ad938c2ef11166d3eda83b8de2fba4bbed17d1f94c9b835aa679333.jpg",
+        "img_caption": [
+            "图七、周期加速结构的典型色散曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/fed1b49a19c4800c9a5fcb2ff5fcf3a3db455f7cb1e0c8eee49e150279d051bd.jpg",
+        "img_caption": [
+            "图八、周期加速结构的典型群速曲线图",
+            "图九、驻波加速结构等效电路图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "腔间耦合系数精确确定可以由试验完成，也可以由场解析法完成。加速结构可以工作在行波区，也可以工作在返波区，取决于工作点。在行波模式，相速度和群速度方向相同，而在返波模式，相速度和群速度方向相反。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于驻波加速结构的色散关系，同样运用等效电路法求解驻波加速结构的色散关系。驻波加速结构的等效电路图如下",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "n-1 n n+1 L 3C3C3C3E C C C ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由以上等效电路图我们可以推导得驻波加速结构的色散关系为：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega ^ { 2 } = \\frac { \\omega _ { 0 } ^ { 2 } } { 1 + \\kappa \\cos \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在驻波加速结构中，频率与波数无关，所以驻波加速结构的群速为0。驻波加速结构的填充时间为腔体的建场时间。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "因为 $\\kappa$ 为小量，所以驻波加速结构的色散关系也可近似为",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\omega ^ { 2 } \\cong \\omega _ { 0 } ^ { 2 } ( 1 - \\kappa \\cos \\theta )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我们讨论了加速结构的色散关系。尽管行波加速结构和驻波加速结构的色散关系可以统一的表述为 $\\omega ^ { 2 } = \\omega _ { 0 } ^ { 2 } ( 1 - \\kappa \\cos \\theta )$ ，但是它们所表达的物理含义是不一样的，解析公式可以简单的描述加速结构的物理参数，我们依然需要数值和实验的研究。随着计算机和数值计算方法的发展和完善，数值试验将成为物理学的一个重要发展方向。宏观经典电磁理论作为物理学的一个分支，它的统治支配方程为偏微分方程组一麦克斯韦方程， 其模拟仿真技术也已经相当成熟。 能够获得解析解的物理模型实为沧海一粟，但熟悉解析方法对数值试验无疑有巨大的一个帮助。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/de7eb11d93924afa19fe6c3e3b8cc7cda1b0676b6935dae13555cf0b9628827a.jpg",
+        "table_caption": [
+            "表二、加速结构基本参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工作频率</td><td>2856 MHz</td></tr><tr><td>模式</td><td>2π/3</td></tr><tr><td>长度</td><td>116.2 cm</td></tr><tr><td>腔数</td><td>30</td></tr><tr><td>分路阻抗</td><td>56 MΩ/m</td></tr><tr><td>类型</td><td>常梯度</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.予聚束器的设计",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "予聚束器的设计【13】属于高频腔（cavity）的设计。相对于周期慢波加速结构，高频腔属于单cell 或多cell 的谐振腔，工作在驻波模式，也可以叫作高频间隙。完全被短路面或开路面所包围的封闭的电磁系统就是谐振系统。通常用高导电的导体近似实现短路面的边界条件，这就是具有金属壁的谐振腔。用在加速器中的谐振腔就是高频腔。在加速器中有常温高频腔和超导高频腔，它的主要表证参数是Q，/Q等。高频腔有重入型、钟型、轮辐型等，通常有半波长高频腔（HWR）、四分之一波长高频腔（QWR）。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/93be912e30446206288be83e40ca4ad043c1489f43567da12b0c42677e37a587.jpg",
+        "table_caption": [
+            "表三、驻波聚束腔基本参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>工作模式</td><td>π</td></tr><tr><td>工作频率 （MHz)</td><td>2856</td></tr><tr><td>分路阻抗 (MΩ/m)</td><td>7.35</td></tr><tr><td>品质因数（Qo</td><td>7400</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "予聚束器为重入式半波谐振腔（HWR)，工作 $\\pi$ 模，工作频率为 $2 8 5 6 \\mathrm { M H z }$ ，其在间隙处完成速度调制，而在漂移段完成密度调制，从而对电子束团进行纵向聚束。在我们使用二维有限元程序 Superfish 模拟设计聚束器，模拟不涉及耦合研究，耦合模拟研究需用到三维电磁场模拟程序。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1a376da047b7fcf5f9d99662ba4a49aeff48f7d3adc35b98ef12b2ec7c6815e.jpg",
+        "img_caption": [
+            "图十、聚束器电场分布简图"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4.聚焦磁场的设计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在回旋加速器中，导引磁场同时也具有弱的聚焦效应，但当粒子能量越高，磁铁越来越大。在高能加速器中我们采用强聚焦原理进行聚焦。通常的四极铁，它在一个方向聚焦，而在另一个方向散焦。单独的一块四极磁铁无法同时完成两个横向方向的聚焦。但是四极磁铁的组合可以总体上完成两个方向的聚焦。在低能段，由于很强的空间电荷效应，我们需用到螺旋管聚焦线圈对束团进行聚焦，螺旋管聚焦线圈能够同时在横向的两个方向进行聚焦。由电源线缠绕在磁性材料上产生纵向聚焦磁场。聚焦线圈最大纵向磁场小于500 高斯。聚焦线圈分布在聚束器、加速结构以及电子枪和聚束器之间的漂移段上。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "四、 束团压缩",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "在加速器中，各种粒子源由于受到种种物理条件的限制，产生的粒子束的束团长度达不到所需要求的束团长度。为了产生所需束团长度的粒子束，我们通常采用束团压缩技术来压缩粒子束团，从而产生短的粒子束团。束团压缩通常采用磁压缩技术。图一给出了束团压缩的基本原理示意图。其基本思想是通过射频电压加速产生具有相干能散的粒子束团，而具有能散的束团通过色散线产生路程差从而束团得到压缩。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/225505a173a1cb6382dbfdc68a6b9f9f618482baa20b5ec655a76c93106f82c9.jpg",
+        "img_caption": [
+            "图十一、束团压缩原理示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "下面我们讨论束团压缩技术的原理、种类以及一些需要考虑的基本问题。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "磁压缩器广泛应用在自由电子激光装置与正负电子对撞机中。在线性理论中，位置、能散的依赖关系为",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { z } = \\mathbf { z } _ { 0 } + \\mathbf { R } _ { 5 6 } \\cdot \\delta , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\delta = \\delta _ { 0 } + \\mathbf { a } \\cdot \\mathbf { z } _ { 0 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathrm { R } _ { 5 6 }$ 为一阶动量压缩因子，δ为相对能散，a 为一阶能散位置相干因子(假定无关的初始束团分布， $< z \\delta > = 0$ 。压缩前后束团长度的关系为",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\mathrm { z } } \\approx \\left| 1 + \\mathbf { a } \\cdot \\mathrm { R } _ { 5 6 } \\right| \\sigma _ { \\mathrm { z } _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sigma _ { \\delta } = | \\ a | \\sigma _ { \\mathsf { z } _ { 0 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "考虑二阶非线性，位置、能散的依赖关系为",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { z = z _ { 0 } + R } _ { 5 6 } \\mathrm { \\& } \\mathrm { \\Delta } \\mathrm { T } _ { 5 6 6 } { \\mathrm { \\& } } ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\delta = \\delta _ { 0 } + { \\sf a } \\mathbf { z } _ { 0 } + { \\sf b } \\mathbf { z } _ { 0 } ^ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "式中 T566为二阶动量压缩因子，b 为二阶位置能散相干因子。二阶束团长度压缩关系很复杂，高阶效应限制了束团压缩效果，从而达不到理想的一阶压缩效果，均匀分布的束团更容易得到压缩，见文献【14】。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "压缩器的种类主要有C型、S型，另外还有不常见的扭摆器型和弧区型。束团压缩的设计需要在整个加速器设计中进行考虑【15,16,17,18】，因为束团压缩与射频加速密切相关。在直线加速器设计中，我们需要匹配全部的lattice 结构，主要是优化 $\\beta$ 函数， $\\beta$ 函数尽可能小。由于压缩器主要有二极铁所组成,所以也要优化色散函数，一般只考虑一阶色散函数。束团压缩需要考虑的一些物理问题：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a. 压缩器的种类选择（C型、S型、扭摆器型、弧型）。  \nb. 线性化问题。  \nC. 束团抖动效应。  \nd. 加速相位选择与加速效率。  \ne. 纵向、横向尾场影响与优化问题。  \nf. 能散限制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "g．相干同步辐射效应及其影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "h．压缩器的成本问题等。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在经典电动力学中，运动的电子束团产生的辐射可由单个运动电子产生的辐射推广为",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { \\mathrm { d } ^ { 2 } \\mathrm { I } } { \\mathrm { d } \\omega \\mathrm { d } \\Omega } { = } \\Big ( \\mathrm { N } { + } \\mathrm { N } \\big ( \\mathrm { N } { - } 1 \\big ) \\mathrm { f } ( \\omega ) \\Big ) \\cdot ( \\int _ { - \\infty } ^ { \\infty } \\hat { \\mathbf { n } } \\times ( \\beta { \\times } \\hat { \\mathbf { n } } ) \\mathrm { e x p } ( \\mathrm { i } \\omega ( \\mathrm { t } { - } \\hat { \\mathbf { n } } \\cdot \\mathrm { r } ( \\mathrm { t } ) ) / \\mathrm { c } ) ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "式中 f(α）为形状因子，N 为束团中的粒子数。上式中第二项来自于纵向的时间相干性。如果没有第二项，电子束团的辐射功率为单个电子辐射功率的简单和。当束团长度与电磁波波长相当时，第二项非常大，远远大于第一项，电子束团的辐射功率得到了远远的提高。这种现象被称为相干同步辐射效应。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "微束团不稳定性（microbunching instability）类似于速调管中的群聚不稳定性，或者叫微波不稳定性。微束团不稳定性它是由于电子束团中电子的路程差不同引起的纵向群聚不稳定性。在束团压缩器中，群聚不稳定性是由色差效应引起的，是由能散引起的纵向路程差引起的，也就是由磁铁的动量压缩因子（线性、非线性）所引起。而在速调管中它是由射频加速电压曲线所引起的。微束团不稳定性会引起能量调制放大和发射度的增长，从而使束流品质变坏。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "全面来说，压缩过程由加速部分和磁压缩器部分共同组成。因此磁压缩器的误差分析包括加速部分与此压缩器部分。加速部分的误差由相位和振幅的误差，也就是相位与振幅的抖动效应。文献【15,1】中我们分析了加速部分的误差效应，相位与振幅的抖动有相应的限制。在【19】中我们分析了磁器压缩的误差。在C型磁压缩器中，中间两块磁铁处色散函数最大，因此误差最紧。但对于倾角误差最后一块磁铁的误差最紧。图二给出了磁压缩器的典型Twiss 参数图。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c3bf3f573156db0358cdf5c8296f01ad6a25c91bcb11b05cb537c06610fe735.jpg",
+        "img_caption": [
+            "图十二、磁压缩器的典型Twiss 参数"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文不再讨论磁压缩器中的束流动力学，磁压缩器中的束流动力学和输运线中的束流动力学一样。横向运动方程依然由 Hill 方程所描述， 纵向运动由本文的束团压缩的基本原理所描述就可以了。不过，在磁压缩器中，其中纵向、横向耦合很强，我们需要考虑横向、纵向的耦合方程，不能分别独立描述。另外，我们还需考虑CSR效应。所以，磁压缩器中完整的束流动力学描述很复杂，我们需要做详细的模拟仿真分析，或者说数字实验。数字实验无疑已成为物理学的一个重要发展方向【20】。这样就能够为实验做充足的理论分析准备。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "五、 束流动力学-粒子跟踪模拟",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "电子直线加速器的模拟程序很多。目前常用的有PARMELA、ASTRA、GPT、IMPACT。PARMELA是一个目前常用电子直线加速器模拟软件，其采用粒子模拟PIC 技术，由LANL实验室所编写。模拟结果显示电子枪产生电子束能量$8 0  { \\mathrm { \\ k e V } } ,$ 电流 2 A。加速器输出电子束能量11.367MeV，电流1.32 A，俘获率$6 6 . 1 \\%$ ，见图五.",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/f74eeaaa8a7497b2a4a8cca2af2d1b2cf0ea1abdd5400bf293e01ce561a33458.jpg",
+        "img_caption": [
+            "图十三、输出电子束横向、纵向分布图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7f62d985b30bcaebbdcb7a8e89e7d8eed5ea5be6cf3c78ba81515a58af31802.jpg",
+        "table_caption": [
+            "表四、加速器主要参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>能量</td><td>10 MeV</td></tr><tr><td>电量</td><td>2 nC</td></tr><tr><td>束团长度</td><td>20 ps</td></tr><tr><td>发射度</td><td>130 mm mrad</td></tr><tr><td>能散</td><td>20%</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "六、 结束语",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "作者曾长期工作在加速器理论与设计的一线，具有丰富的加速器的实战【12，13】设计经验。所以本文结合具体的加速器设计例子讨论了常规电子直线加速器的设计。我们所讨论的设计思想与方法，希望对广大的加速器科研人员有所启发和帮助。随着计算技术的发展。加速器的设计越来越成熟，可视化程度也越来越高。借助于计算机的辅助设计，加速器的设计已经程式化了。早期的加速器设计属于艰苦的年代，过去我们主要依靠实验的反复摸索探索。而今天计算机辅助设计使得我们可以少走弯路，避免人力、财力的损失。加速器的仿真模拟确实是一个大有作为的研究领域。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1．朱雄伟，裴国玺，池云龙，戴建枰，陈森玉，杜应超，何小中，黄文会，林郁正，  \n唐传祥，BTF 加速器物理设计，高能物理与核物理，30， Sup.,126,2006。  \n2. 朱雄伟，超短电子束团的产生研究，chinaXiv:  \n3. 朱雄伟,BEPCII直线预注入器束流动力学研究，北京正负电子对撞机运行年会，2002。  \n4. A.W.Chao,M.Tigner, Handbook ofAccelerator Physics and Engineering, World Scientific.  \n5. S.Y.Lee,Accelerator Physics,World Scientific.  \n6. J.H.Billen, Superfish Manual（1998）。  \n7. L.M..Young, Parmela Manual (1998）。  \n8. 谢文楷，带电粒子束的理论与设计，科学出版社。  \n9. 刘乃泉，加速器理论，清华大学出版社。  \n10. 杨儒贵，张世昌，高等电磁理论，高等教育出版社。  \n11．张克潜，微波与光电子学中的电磁理论，电子工业出版社。  \n12．姚充国，电子直线加速器，科学出版社。  \n13．赵籍九，粒子加速器技术，高等教育出版社。  \n14．朱雄伟，束团磁压缩的高阶限制，高能物理与核物理，31，1，88，2007.  \n15. Xiongwei Zhu, et.al., Layout of Bunch Compressor for Beijing XFEL Test Facility, NIM A,  \n566,250,2006.  \n16.Yang Yu-Feng, Zhu Xiong-Wei, Microbunch Instability in Beijing XFEL Test Facility Bunch  \nCompressor, High Energy Physics and Nuclear Physics,31,2,194,2007.  \n17. Yang Yu-Feng, Zhu Xiong-Wei, Microbunch Instability in Wigglers,High Energy Physics  \nand Nuclear Physics,31, 8, 778,2007.  \n18． Zhu Xiong-Wei, Gao Jie, Study on ILC Bunch compressor, Chinese Physics C,32,11, 928,  \n2008.  \n19．朱雄伟，CTF 磁压缩器的误差分析，Chinese Physics C,32,suppl.,218,2008。  \n20．朱雄伟，加速结构的解析分析方法，北京正负电子对撞机运行年会，2015。",
+        "page_idx": 13
+    }
+]

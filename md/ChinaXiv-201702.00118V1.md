@@ -1,0 +1,192 @@
+# DOI:10.5846/stxb201506291339
+
+刘世梁，尹艺洁，杨婕，安南南，王聪，董世魁.漫湾库区景观破碎化对区域生境质量的影响.生态学报,2017,37（2):619-627. LiuSL,YinYangAnagogSessofthisfsaetatioioalabiaalit Manwan Basin.Acta Ecologica Sinica,2017,37(2）:619-627.
+
+# 漫湾库区景观破碎化对区域生境质量的影响
+
+刘世梁\*，尹艺洁，杨珏婕，安南南，王聪，董世魁北京师范大学环境学院，水环境模拟国家重点实验室，北京100875
+
+摘要：水利工程的建设不仅改变了库区的景观格局,还会导致区域生物生境质量的变化。以澜沧江漫湾库区为例,在综合海拔高度、植被类型和水源地距离生境因子的基础上,考虑生物扩散过程,研究了建坝前后整个库区以及典型研究小区（库首、库中、库尾、对照)的重要生境斑块空间分布变化。结果表明：漫湾水电站建成后,库区的猕猴总体生境破碎化程度增加,景观连接度减少且重要生境斑块的比例也有所降低，生境质量整体下降;4个研究小区的景观格局变化情况同整个库区相一致。空间上,生境质量明显退化的地区主要分布在库区的西部和南部,尤其是库尾地区,其生境斑块数量相较于建坝前增长了9倍,而景观连接度指数下降了 $8 1 . 4 8 \%$ 。回归分析结果表明景观连接度指数与占景观面积百分比指数(PLAND)呈显著正相关( $R ^ { 2 } =$ 0.973)，与斑块数(NP)呈显著负相关( $R ^ { 2 } = - 0 . 6 1 1 \cdot$ );肯德尔系数表明斑块数（NP）、最大斑块指数（LPI）、占景观百分比指数（PLAND）、相似邻近百分比指数（PLADJ）、连通度指数（CONNECT）和香农多样性指数（SHDI)7个景观格局指数与景观连接度指数均表现出显著一致性。由此看出,库区景观破碎化越严重、区域景观连接度越低,生境质量退化越明显;而提高生境主要植被类型的覆盖率、保护连接度贡献大的重要斑块和建设生态廊道,可以有效恢复库区生物生境质量。
+
+关键词：漫湾；景观格局；景观连接度；破碎化
+
+# Assessment of the influences of landscape fragmentation on regional habitat quality in the Manwan Basin
+
+LIU Shiliang\*，YIN Yijie，YANG Juejie，AN Nannan，WANG Cong，DONG Shikui ScholofEnionment，StateKeybratoryofWaterEnomentmulationBeijingoalUnivesityjingin
+
+Abstract:Dam construction and the subsequent land use change have obvious impacts onregional ecosystems.Not only the landscape patern，but alsotheregional habitat qualityareafected by these humanactivities.Taking the Manwan Basinof theLancang Riverasacase study,habitat qualitychanges and keypatch distributionsof the whole studyareaand four substudyareas（reservoir head zone，reservoircenter zone，reservoir trail zone，and control zone）before andafterdam construction were determined based onremote sensing images and GIS techniques，considering multiple factors （elevation, landuse，anddistancefrom water）andthedispersalabilityof the focused species.Theprobabilityofconnectivity index (PC）was a proxy for habitat quality in this study. Dispersal distances were set at 1OO,300,500, $7 0 0 \mathrm { ~ m ~ }$ and $1 0 0 0 \mathrm { ~ m ~ }$ to calculate thePC index，which was furtherusedto identifythe importance levelofhabitatpatches.Theresults showed that the degreeofhabitatfragmentationfor macaques increased inthe Manwan Basin，whilethelandscapeconnectivitybetween habitat patches and the percentage of key patches decreased after theconstruction of the Manwan hydropowerplant.Regional habitat quality clearlydeclined，andthechange in landscape paterm indicators in the foursub-study areas wassimilarto that in the total Manwan Basin.The PC index clearly decreased over time by about $5 5 . 5 1 \%$ on average，and there were
+
+$3 1 7 . 2 \ \mathrm { k m } ^ { 2 }$ of high-level patches converted to much lower levels from 1974 to 1991,while there were slight declines in the hydropoweroperation period.Habitatdegradationocurred mainly inthesouthand westregions，especiallinthereservoir tail zone，where patch number increased nine-fold while the landscape connectivity decreased by $8 1 . 4 8 \%$ . A linearregresionanalysis indicatedthatthelandscapeconnectivityindex was positively asociated withthepercentage of landscape area index ( $R ^ { 2 } = 0 . 9 7 2 9$ ），but had a negative correlation with the patch number index ( $R ^ { 2 } = - 0 . 6 1 0 6$ ）；Kendall's tau-b （204号 $( \tau _ { b } )$ coeficient indicatedthat，except forthe total edge index（TE），allof the otherlandscape pattern indicators（number of patches（NP），largest patch index（LPI），percentage of landscape index（PLAND），percentage of like adjacencies （PLADJ），connectance（CONNECT），and Shannon's diversity index（SHDI））showed a remarkablecorrelation with landscapeconnectivity.Itcanbeseen that themoreserious the landscape fragmentation was，the more landscape conectivityand habitat quality werereduced.The percent increase in thedominantvegetationcoverof habitats，which causedthePLANDto increase,canbeanefective measure torestorethe habitat quality.Inadition,the protectionof key patches andtheconstructionof an ecological coridor，which would enhance the landscapeconnectivity，would contribute to the habitat quality recovery and the maintenance of landscape ecological functions.
+
+Key Words:Manwan Dam； landscape pattern； landscape connectivity；fragmentation
+
+我国水利工程发展迅速,在带来社会经济效益的同时也对生态环境产生了巨大的影响[1-3],所产生的生态效应具有复杂性、潜在性、空间性、累积性和规模大的特点[45],不仅会改变河道内水文、水质、泥沙、水生生物等生态组分结构[6-7],还会导致陆域景观格局的改变[4],进而引发栖息地退化和生物多样性丧失等问题[3]。目前,大尺度上水利工程的生态效应研究主要集中于水电开发对河流生态系统服务功能[8、水生生物多样性及库区景观格局的影响等方面[4,9],而对库区景观功能和生境质量等的研究还比较少。
+
+对库区的生物生境而言,现阶段更多地是利用景观指数来分析其破碎化格局，对于这些生物过程仍重视不足,目前景观连接度相关方法在刻画生物扩散过程方面应用广泛,景观连接度是促进或阻碍生物体或某种生态过程在源斑块间运动的程度[1-1],其变化会影响种子迁移扩散、动物迁移、基因流动、干扰渗透等生态过程[12]。Pascual-Hortal和 Saura[13]提出的连接度概率指数（Probability of Connectivity，PC)考虑了生物在景观中的扩散行为,能够较好的反映景观破碎化、识别对生物多样性保护敏感的重要斑块,而且能够从功能的角度综合评价景观中各要素对生物扩散过程的影响[14]。所以，作为景观生态功能研究的重要组成部分,景观连接度能够较为明确地揭示区域景观生态现状,并综合反映物种栖息地的结构和功能[15」,可用于生境质量评价之中,并能识别对于生物扩散具有重要贡献的斑块。目前,已有许多学者利用景观连接度相关指数来评价城镇扩张、道路建设等人类干扰下的生境质量退化及生物多样性改变等现象[16-7],但是将景观连接度方法应用于综合评价水电站建坝前后库区生境质量变化及建坝后的生态效应研究还鲜有报道。
+
+澜沧江作为国际河流,其梯级水电站开发的生态效应引起了广泛关注,尤其是水电站建设运行对当地物种生境质量的影响。猕猴(Macaca mulatta)广泛分布于云南省南部与西南部地区,本研究选取该保护物种作为研究对象,以漫湾库区为研究区域,基于1974年、1991年及2006年3期遥感影像,运用景观格局和景观连接度指数对漫湾水电站建设前后库区的生境质量变化及其空间分布进行定量评价，并识别漫湾库区生物栖息地保护的重要斑块。在此基础上进一步探讨景观格局变化与生境质量的关系,为水利工程建设的生态影响评价与生物多样性保护提供理论依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区为云南省澜沧江漫湾水电站库区，本研究所指库区包括电站水库所涉及的澜沧江河段两岸分水岭以内的区域,上游至小湾电站附近,下游至坝址所在山脊线。澜沧江全长约 $4 5 0 0 ~ \mathrm { k m }$ ,在中国境内长 $2 1 5 3 ~ \mathrm { k m }$ ，总落差约 $5 0 6 0 ~ \mathrm { m } ^ { [ 4 ] }$ 。漫湾电站是澜沧江水能梯级开发的第一个干流大型水电站,始建于1986 年,并于1995年完成一期工程。该水电站坝长 $4 1 8 \mathrm { ~ m ~ }$ 、高 $1 3 2 \mathrm { ~ m ~ }$ ,正常蓄水位 $9 9 4 \mathrm { ~ m ~ }$ ,总库容 $1 0 . \ 6 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,水库面积23.6$ { \mathrm { k m } } ^ { 2 }$ ,干流回水约 $7 0 ~ \mathrm { k m }$ ,总装机容量为 $1 5 0 \times 1 0 ^ { 4 } \mathrm { ~ k W } ^ { [ 4 ] }$ 。漫湾库区处于滇西北横断山系南部帚状山脉峡谷中山区,两岸为高山峡谷地貌,峰高谷深,是典型的河道型水库[18]。库区所处区域气候为独特的河谷南亚热带半湿润气候,年平均气温为 $1 8 { - } 2 0 ~ \mathrm { ^ { \circ } C }$ ,年降水量为 $1 0 0 0 { - } 1 1 5 0 \ \mathrm { m m } ^ { [ 2 ] }$ 。漫湾库区动植物资源丰富,植被类型包括河岸半落叶阔叶混交林、山地针叶林、陡坡高草稀树林、山地常绿阔叶林、河滩灌丛和荒地灌草林[2。研究区拥有全国 $2 6 \%$ 的哺乳动物种类,其中国家级保护兽类有 25 种[19]。根据库区受干扰程度和具体地理位置的差异,分别在库首、库中、库尾以及无量山自然保护区(对照组)内各选择一个 $1 0 \ \mathrm { k m } \times 1 0 \ \mathrm { k m }$ 大小的区域作为研究小区（图1）。
+
+# 1.2 研究数据
+
+漫湾库区基础数据为1974年1月4日的LANDSATMSS影像（#141/43）、1991年2月12日和2006年12月11日的TM影像（均为 $\# 1 3 1 / 4 3$ ），辅助数据为1：50000云南省地形图。利用ERDAS软件进行人工目视解译，并结合实地调研验证获取以上3个时期的库区景观图，其影像的分类精度达 $91 \%$ 。根据研究所需,将库区用地类型划分为水域、林地、灌丛、草地、农田和建设用地共6种。以漫湾水电站建设动工时间为节点，视1974年的分析结果作为背景数据，而1991年及2006年的分析结果则为受大坝建设影响的数据。
+
+# 1.3 研究方法
+
+# 1.3.1 景观格局分析
+
+选取适宜的景观格局变化指数来定量地表征研究区景观破碎化程度。利用Fragstats4.2软件在景观类型水平上选取了斑块数（NP）、最大斑块指数（LPI）、总边
+
+![](images/9fc4ff48d3d878c859faaf193b980c370a96f779d01f440380c8fc7b96c7ef7f.jpg)  
+图1漫湾库区地理位置图Fig.1Location of the Manwan basin
+
+缘长度（TE）、占景观百分比（PLAND）、相似邻近百分比（PLADJ)以及连通度指数（CONNECT）、香农多样性指数(SHDI)来定量地表述研究区的景观格局[20-21]。
+
+# 1.3.2适宜生境斑块的选择
+
+适宜生境斑块的选择是景观连接度分析的基础,在进行生境适宜性分析时，不仅要考虑景观要素和地形要素对物种的适宜性,还要考虑生境斑块面积以及斑块之间的可达性[22],即能够支持该物种的扩散、迁徙等生态过程[23-24]。猕猴主要栖息在海拔 $1 9 0 0 \mathrm { ~ m ~ }$ 以上的石山峭壁、溪旁沟谷和江河岸边的密林中或疏林岩山上[25],参考已有的猕猴活动范围研究[26]以及其他相关的研究成果[14.27],将针叶林、阔叶林、针阔混交林及其他林地作为猕猴的生境斑块,而不细究具体的树木种类;并且保证斑块面积能够容纳足够的物种数量。本研究选取植被覆盖度大于 $30 \%$ ,面积大于 $2 5 ~ \mathrm { h m } ^ { 2 }$ 的林地作为有待进一步筛选的备选生境斑块。
+
+同时,除了生境斑块类型和地形要素,距水源地的距离也是影响猴群分布的重要因子。因此,本研究综合考虑海拔高度、植被类型和距水源地的距离3种不同的生境因子。根据专家意见,将库区的土地利用类型图和1:5000 的地形图进行叠加,提取备选生境斑块,并在基础上根据对不同生境因子的要求进行相对适宜性赋值,最终得出适宜生境斑块(表1)。
+
+# 1.3.3 景观连接度分析
+
+利用PC指数分析景观连接度。在景观尺度上,该指数反映景观的整体的连通性,PC指数越大,表示生境斑块之间连通的可能性越大[14];在斑块尺度上,以移除斑块情景下的PC 指数变化得到斑块相对重要性指数（dPC）,可以衡量不同生境斑块的重要性。PC 指数及dPC 指数的计算均在软件 Conefor Sensinode 2.6中进行。由于生境斑块之间是否连通与所设定的邻域范围有关,因此在计算中需要做不同邻域范围的情景分析，根据物种的实际扩散距离设置不同的邻域范围[28]。猕猴等中小型哺乳动物的平均扩散距离为50—1000（20 $\mathbf { m } ^ { [ 2 3 , 2 9 - 3 0 ] }$ ,因此,本研究设置 $1 0 0 , 3 0 0 , 5 0 0 , 7 0 0 \mathrm { ~ m ~ }$ 和 $1 0 0 0 \mathrm { ~ m ~ }$ 这5个邻域范围进行情景分析。根据计算得到的每个生境斑块重要性,结合 ArcGIS 10软件,可视化库区景观的连接度分布情况,对比建坝前后库区生境质量的变化。
+
+Table1Suitability values assigned for habitat patches under the influence of different landscape factors   
+
+<html><body><table><tr><td>适宜性赋值 Suitability assignments</td><td>海拔 Elevation /m</td><td>距水源地距离 Distance from water/m</td><td>植被类型 Vegetation type</td></tr><tr><td>10</td><td>892—1200 1900—2844</td><td>≤600</td><td>阔叶林</td></tr><tr><td>8</td><td>892—1200 1900—2844</td><td>600—1000</td><td>阔叶林、针阔混交林</td></tr><tr><td>5</td><td>1200—1900</td><td>≤600</td><td>阔叶林</td></tr><tr><td>3</td><td>1200—1900</td><td>600—1000</td><td>阔叶林、针叶林、针阔混交林</td></tr></table></body></html>
+
+将计算得到的4个研究小区的所选景观格局指数与PC 指数分别进行线性回归分析和Kendall's Tau-$\mathrm { b } ( \tau _ { b } )$ 系数分析,并进行显著性检验。 $\boldsymbol { \tau } _ { b }$ 的取值范围在0到1,其值越大,说明相应的景观格局指数与PC指数一致性越高。
+
+# 2结果与分析
+
+# 2.1 研究区景观格局变化
+
+通过对海拔高度、植被类型和距水源地的距离3个图层进行叠加分析及生境因子赋值,获取了漫湾库区的适宜生境斑块分布,并在此基础上得出整个漫湾库区的各景观格局指数值(表2)。漫湾水电站建设前（1974年),研究区斑块数量较少,单位斑块面积较大,连通度均处于较高水平,植被格局总体趋于完整,空间异质性低。而在水电站建设运行期(1991年和2006年),库区的景观整体向相反方向转变,斑块数量及边缘长度较高,连通度处于较低水平;同时,香农多样性指数上升趋势明显。通过比较1991年和2006 年漫湾库区景观格局指数值,不难发现电站建设阶段对库区景观破碎化的影响大于电站建成投入使用阶段。原因可能是电站建设期间涉及移民安置、土地利用方式大幅度转变等问题[31];而电站建成使用后,库区植被的人工及自然恢复、土地利用开发放缓等现象使得景观破碎化进程减缓。总体来看,水电站的建设与运行加剧了库区的景观破碎化程度。
+
+表1不同生境因子影响下的斑块适宜性赋值  
+表21974—2006年漫湾库区总体景观格局指数  
+
+<html><body><table><tr><td>年份Year</td><td>NP</td><td>LPI</td><td>TE/10-5m</td><td>PLADJ</td><td>CONNECT</td><td>SHDI</td></tr><tr><td>1974</td><td>1902</td><td>36.43</td><td>45.62</td><td>97.99</td><td>1.05</td><td>0.93</td></tr><tr><td>1991</td><td>14779</td><td>18.38</td><td>128.38</td><td>94.43</td><td>0.57</td><td>1.27</td></tr><tr><td>2006</td><td>12320</td><td>22.41</td><td>145.11</td><td>93.71</td><td>0.57</td><td>1.19</td></tr></table></body></html>
+
+NP:斑块数Numberofatches；LPI:最大斑块指数LargestPatch Index；TE;总边缘长度Total Edge Index;PLADJ:相似邻近百分比Percentage of Like Adjacencies；CONNECT:连通度指数 Connectance；SHDI;香农多样性指数 Shannon's diversity index
+
+# 2.2不同生态过程下景观连接度的变化
+
+通过对相同年份、不同迁移距离下的PC指数值,以及同一迁移距离、不同年份的PC指数值进行两两比较（表3,图2）,发现不论物种扩散距离如何,1974 年的PC 指数值均明显高于1991年和2006 年的相应指数值。当年份相同时,不同扩散距离下的PC 指数的变化幅度不大；相比之下,同一迁移距离下的PC指数值随着时间有着明显波动。PC指数从1974年到2006年，在 $1 0 0 \mathrm { ~ m ~ }$ 扩散距离下降低了 $6 5 . 3 1 \%$ ,在 $3 0 0 \mathrm { ~ m ~ }$ 扩散距离下降低了 $6 0 . 0 0 \%$ ,在 $5 0 0 \mathrm { ~ m ~ }$ 扩散距离下降低了 $5 6 . 8 6 \%$ ,在 $7 0 0 \mathrm { ~ m ~ }$ 和 $1 0 0 0 \mathrm { ~ m ~ }$ 距离下均降低了 $5 1 . 9 2 \%$ 。因此,生境面积的减少和破碎化对于扩散距离短的物种影响比较大，迁徙距离短的物种对景观连接度的降低更为敏感。在扩散距离大于 $7 0 0 \mathrm { ~ m ~ }$ 的情况下,景观连接度不再变化,情景分析表明,迁徙距离较长的物种对于库区栖息地生境的适应性更强。
+
+表3漫湾库区1974,1991和2006年不同扩散距离下的PC指数值  
+Table 3The PC value under different dispersal distances in 1974,1991 and 2006   
+图2漫湾库区不同扩散距离下PC指数值随时间的变化情况Fig.2The changes of PC values under different dispersaldistances in 1974，1991 and 2006  
+
+<html><body><table><tr><td rowspan="2">研究年份Year</td><td colspan="5">扩散距离 Dispersal distances</td></tr><tr><td>100 m</td><td>300m</td><td>500 m</td><td>700 m</td><td>1000 m</td></tr><tr><td>1974</td><td>0.49</td><td>0.50</td><td>0.51</td><td>0.52</td><td>0.52</td></tr><tr><td>1991</td><td>0.19</td><td>0.21</td><td>0.23</td><td>0.25</td><td>0.25</td></tr><tr><td>2006</td><td>0.17</td><td>0.20</td><td>0.22</td><td>0.25</td><td>0.25</td></tr></table></body></html>
+
+# 2.3适宜生境斑块的重要性变化
+
+大坝建设不仅会降低库区整体的景观连接度，也会改变单个斑块的连接度重要性，从而影响重要生境斑块的空间分布（图3）。取最小扩散距离( $1 0 0 \mathrm { ~ m ~ } \rangle$ 和最大扩散距离( $1 0 0 0 \mathrm { ~ m ~ } ,$ )进行斑块重要性变化分析，根据dPC 值并参考陈利顶[32]等对大熊猫生境适宜性评价的分级标准对生境斑块的重要性进行分级，共分低（0一0.4）、中(0.4—0.7）高(0.7—1)3个等级。以最大扩散距离 $1 0 0 0 \mathrm { ~ m ~ }$ 为例,水电站建设前研究区的高等重要性斑块占生境斑块总面积的 $8 4 . 4 6 \%$ ;到2006年高等重要性斑块的比例下降到 $5 7 . 9 6 \%$ ,面积减少了 $3 1 7 . 2 ~ \mathrm { k m } ^ { 2 }$ 。水电站建设后中等重要性斑块的面积共增加了78.56$ { \mathrm { k m } } ^ { 2 }$ ,比例呈现先增加后减少的趋势，从1974年的$7 . 9 3 \%$ 增加到1991年的 $2 0 . 9 8 \%$ ，后又减少到2006年的$1 7 . 5 2 \%$ 。不同扩散距离的情景分析对比表明，随着物种扩散距离的降低,某些重要程度高的生境斑块转变为中、低等级的斑块,生境质量的变化对活动范围窄,迁移距离短的物种影响更大。
+
+![](images/234a007c3659e61de42046e77d040b9b00346b29fe592fda53f0f3f63b2a9b83.jpg)
+
+从空间分布上看,库区东部无量山自然保护区境内的适宜生境斑块保护良好,重要斑块数量多且分布集中。生境质量退化现象主要发生在库区的西部和南部地区,这是因为漫湾镇、小湾镇、忙甩乡、茂兰彝族布朗族乡和腰街彝族乡等库区区域内的几个主要乡镇均坐落于此,当地人口稠密、农业活动频繁,对自然生态系统的扰动较大。
+
+# 2.4景观格局变化与景观连接度的关系
+
+以扩散距离为 $1 0 0 0 \mathrm { ~ m ~ }$ 时的PC 指数变化为例,结果显示库首、库中、库尾和对照小区的PC 指数均呈降低的趋势，其中库尾的景观连接度降低幅度最为明显,32年间减小了 $8 1 . 4 8 \%$ （表4,图4)。漫湾电站动工建设后,各研究小区林地的占景观百分比（PLAND）、相似邻近百分比（PLADJ)和连通度指数(CONNECT)也都呈下降趋势,而斑块数(NP）、总边缘长度(TE)则大幅增加。2006 年库首和库中斑块数分别是建坝前的5倍,库尾为建坝前的9倍;斑块总边缘长度的增加也表明斑块形状更为复杂化,库区生境斑块的破碎化十分严重。
+
+由表4可知,大坝动工建设后库中、库首和库尾的景观格局及连接度变化明显,尤其是库尾地区,原因可
+
+![](images/b0283982a24ba07596ddcf7504ad11cebcef5c4bd8b143c10b4cd490411664cc.jpg)  
+图31974、1991、2006年生境斑块重要性变化的情景分析Fig.3Importance of forest patches in 1974,1991 and 2006图中（i）扩散距离为 $1 0 0 \mathrm { ~ m ~ }$ ，（ii）扩散距离为 $1 0 0 0 \mathrm { ~ m ~ }$
+
+能在于库尾地区同时受到小湾电站建设的影响。
+
+表41974，1991和2006年4个研究小区的景观格局指数值和PC指数值  
+Table 4Landscape pattern indices and PC index in four study zones in 1974,1991 and 2006   
+
+<html><body><table><tr><td>空间位置 Spatial position</td><td>年份Year</td><td>PLAND</td><td>NP</td><td>TE /10-5m</td><td>PLADJ</td><td>CONNECT</td><td>PC</td></tr><tr><td rowspan="3">库首 The reservoir head zone</td><td>1974</td><td>61.30</td><td>37</td><td>3.11</td><td>93.07</td><td>14.86</td><td>0.34</td></tr><tr><td>1991</td><td>45.73</td><td>208</td><td>5.74</td><td>83.68</td><td>6.85</td><td>0.14</td></tr><tr><td>2006</td><td>57.18</td><td>187</td><td>7.21</td><td>83.69</td><td>6.38</td><td>0.25</td></tr><tr><td rowspan="2">库中 The reservoir centre zone</td><td>1974</td><td>49.70</td><td>44</td><td>3.47</td><td>90.69</td><td>10.57</td><td>0.20</td></tr><tr><td>1991</td><td>41.79</td><td>244</td><td>7.01</td><td>78.56</td><td>5.87</td><td>0.11</td></tr></table></body></html>
+
+http://www.ecologica.cn
+
+续表  
+
+<html><body><table><tr><td>空间位置 Spatial position</td><td>年份Year</td><td>PLAND</td><td>NP</td><td>TE/10-5m</td><td>PLADJ</td><td>CONNECT</td><td>PC</td></tr><tr><td rowspan="3">库尾 The reservoir tail zone</td><td>2006</td><td>50.26</td><td>225</td><td>8.79</td><td>77.62</td><td>6.44</td><td>0.16</td></tr><tr><td>1974</td><td>54.59</td><td>39</td><td>3.58</td><td>91.26</td><td>11.07</td><td>0.27</td></tr><tr><td>1991</td><td>31.56</td><td>253</td><td>6.37</td><td>74.12</td><td>5.15</td><td>0.03</td></tr><tr><td rowspan="4">对照组 The control zone</td><td>2006</td><td>36.42</td><td>375</td><td>8.32</td><td>70.87</td><td>4.90</td><td>0.05</td></tr><tr><td>1974</td><td>75.01</td><td>32</td><td>2.59</td><td>95.16</td><td>11.90</td><td>0.55</td></tr><tr><td>1991</td><td>69.37</td><td>81</td><td>5.21</td><td>90.08</td><td>9.94</td><td>0.45</td></tr><tr><td>2006</td><td>71.66</td><td>83</td><td>6.80</td><td>87.64</td><td>12.22</td><td>0.46</td></tr></table></body></html>
+
+线性回归结果表明PC指数值与PLAND（ $R ^ { 2 } = { }$ 0.973, $P < 0 . 0 1$ ），PLADJ（ $R ^ { 2 } = 0 . 6 7 6$ ， $P < 0 . 0 1$ ）和CONNECT( $R ^ { 2 } = 0 . 6 0 7$ $P { < } 0 . 0 1 \$ )均具有显著的正相关，其中PLAND值对PC 指数的影响最大（表5）。同时，PC指数与 $\mathrm { N P } ( R ^ { 2 } = 0 . 2 8 9 , P { > } 0 . 0 5 )$ 呈现显著负相关，但与TE相关性不显著。Kendall系数的分析结果与线性回归分析结果相一致，除了TE指数，其余景观格局指数均与PC 指数值具有良好的正负一致性(表6）。
+
+# 3讨论
+
+本研究表明漫湾库区的景观破碎化明显地影响生
+
+![](images/7d9b9791bc785c21b0f4dd5ef620288758f96ed4e1ea392796e6c72ad21acf7d.jpg)  
+图4研究小区不同年份的PC指数值比较  
+Fig.4The comparisons ofPCvaluesin different sub-study areas
+
+物的生境质量,生境质量与诸多因素有关,可以通过考虑生态影响因子构建适宜性模型进行分析[33],也可利用生态环境综合指数表征[34]。本研究在考虑生境适宜性的基础上将景观连接度水平、生境斑块重要性分布情况与生境质量相联系，即研究区景观连接度大、重要斑块分布广泛，则视该区域的生境质量整体处于优良状态，景观生态功能可以得到较好的维持。
+
+表5景观格局指数与连接度指数的线性回归分析  
+Table 5Linear-regresson analysis among five landscape pattern indices and landscape connectivity   
+
+<html><body><table><tr><td>因子 Parameters</td><td>PLAND</td><td>NP</td><td>TE/10-5m</td><td>PLADJ</td><td>CONNECT</td></tr><tr><td>方程 Equation</td><td>y=0.012x-0.401</td><td>y=-0.001x+0.427</td><td>y=-0.044x+0.497</td><td>y=0.018x-1.248</td><td>y=0.040x-0.106</td></tr><tr><td>R²</td><td>0.973</td><td>0.611</td><td>0.289</td><td>0.676</td><td>0.607</td></tr><tr><td>P</td><td><0.01</td><td><0.01</td><td>>0.05</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+表6景观格局指数与景观连接度的肯德尔系数  
+Table 6Kendall's Tau-b analysis among PC and five landscape pattern   
+
+<html><body><table><tr><td>指标Indexes</td><td>PLAND</td><td>NP</td><td>TE/10-5 m</td><td>PLADJ</td><td>CONNECT</td></tr><tr><td>T</td><td>0.939 **</td><td>-0.697 **</td><td>-0.394</td><td>0.667**</td><td>0.667 **</td></tr></table></body></html>
+
+\* $\ast$ 表示相关极显著
+
+大坝动工建设后，漫湾库区林地面积由1974年的 $7 5 3 . 3 5 ~ \mathrm { k m } ^ { 2 }$ 降低到了1991年的 $6 0 1 . 9 2 \ \mathrm { k m } ^ { 2 }$ ,之后随着库区退耕还林和封山育林等生态恢复措施的实施,到2006 年当地森林覆盖面积增长到了 $6 3 9 . 3 2 ~ \mathrm { k m } ^ { 2 }$ 。但是,景观连接度研究表明,从1974 年到 2006 年库区生境斑块的连接度持续下降,PC 指数平均降低了 $5 4 . 7 4 \%$ 。1974 年到1991年的大坝建设期PC 指数下降最快,平均减少了 $5 5 . 5 1 \%$ （表1）。在1991年到2006年的大坝运营期，虽然库区林地面积有所增长，可是在 $1 0 0 \ldots 3 0 0 \ldots 5 0 0 \mathrm { ~ m ~ }$ 的扩展距离下景观连接度仍然略有下降。说明在区域景观尺度上,大坝建设对陆地生态系统的影响主要体现在建设期,由于大坝建设后各种生态保护措施的及时实施,使得在大坝运营期间其生态效应影响并没有加剧;然而由于当地退耕还林的树种主要以花椒、茶
+
+http://www.ecologica.cn
+
+树等经济林为主，仍然没有较好的改变库区栖息地的生境质量和破碎化的现状。虽然“退耕还林”政策的实施和无量山自然保护区的建立对漫湾库区的生境质量恢复和生物多样性保护起到了一定的作用,但是从生态环境的角度出发,在具体保护措施实施过程中应该选取更多的本地天然林树种,例如,云冷杉林和云南松等，建立更适于物种生存的栖息地。
+
+对线性回归方程与肯德尔系数(表5,表6)的分析进一步表明增加林地面积,即使得 PLAND 指数增高，是增加景观连接度、恢复生境质量最有效的措施。并且，生境斑块的形状变化对于景观连接度的影响不大，但是斑块破碎化对于景观连接度的影响明显。因此,提高区域景观连接度的方法除了保护重要生境斑块、增加林地面积之外,还应该建设生态廊道,增加生境斑块的结构与功能连接性,减少破碎化带来的生态效应,较好地维护景观生态功能与生境质量。
+
+# 4结论
+
+水利工程建设是库区土地利用变化的重要驱动力之一,在导致区域生境面积减少、景观破碎化的同时,降低景观连接度、影响景观生态功能并威胁生物的生境质量。从1974 年到2006年,不同的情景下库区的PC 指数值分别均有降低;且漫湾电站建成后共有 $3 1 7 . 2 \ \mathrm { k m } ^ { 2 }$ 的高等级重要生境斑块转化为中、低等级的生境斑块，库区的生境质量有所下降。从空间分布上看,库区的西部和南部地区的生境质量退化现象显著,由于受到小湾电站建设的共同影响，库尾地区的景观连接度指数下降了 $8 1 . 4 8 \%$ ,斑块数增长了9倍，景观变化明显。
+
+大坝建设期的生态影响比大坝运营期更为显著,1974年到1991年的漫湾电站建设期,库区林地面积从$7 5 3 . 3 5 ~ \mathrm { k m } ^ { 2 }$ 降低到了 $6 0 1 . 9 2 ~ \mathrm { k m } ^ { 2 }$ ,PC 指数平均减少了 $5 5 . 5 1 \%$ ;而 1991年到 2006 年的电站运营期,林地面积增长到了 $6 3 9 . 3 2 ~ \mathrm { k m } ^ { 2 }$ ,只有 $3 0 0 \mathrm { ~ m ~ }$ 扩散距离以内PC 指数略有下降。研究表明,优化库区景观格局是实现水利工程建设与生态环境保护相协调，维护库区生态系统健康并保证区域可持续发展的重要手段。大型水利工程建设运行的生态效应具有长期性和累积性,有待更长期的数据积累和深入研究。
+
+# 参考文献（References）：
+
+[1]BombinGmburino,bneSAssessmntoftetsofecksoipaanvegeatoiditerae：methodological approach and example application.Ecological Engineering，2006,27(2）：134-144.  
+[2]崔保山，翟红娟.水电大坝扰动与栖息地质量变化——以漫湾电站为例.环境科学学报，2008，28(2)：227-234.  
+[3]OuyangW,HaoFogKZagXsaducddrogicalisurbcedeioetalictifYellow River.Water Resources Management，2011,25(3）：913-927.  
+[4]ZhaoQH,LiuSL，DongSK.Efectofdamconstructionospatia-temporalchangeoflanduse：casestudyofManwan,LancangRiver,Yunnan，China.Procedia Environmental Sciences，2010,2(6）：852-858.  
+[5]ZhaoQH,LiuSL，DengL，DongSK，WangC，YangZF,YangJJ.Landscapechangeand hydrologicalteratioasociatedwithdamconstruction.International Journal of Applied Earth Observation and Geoinformation,2012,16(1)：17-26.  
+[6]KondolfGOEgyatetsofsdegelsiotalagt7,）1.  
+[7]WiliamsG,WomanMGDostreEetsofmsolialiversProfessoalPper26.Washngo,DC，US：UolicalSurvey，1984.  
+[8]OuyangW,HaoFH，ZhaoC，LinC.Vegetationresponseto3OyearshydrpowercascadeexploitaioninupperstreamofYelowRiver.Communications in Nonlinear Science and Numerical Simulation,2010,15(7）：1928-1941.  
+[9] 李成春，胡华斌.梯级电站建设对勐乃河流域生物多样性的影响分析.云南植物研究，2007，29(6)：701-707.  
+[10] TaylorPD,FahrigL,HeneinK,MerriamG.Coectivityisavitalelementoflandscapestructure.Oikos，993,68（3）：571-573.  
+[11] 吴昌广，周志翔，王鹏程，肖文发，滕明君.景观连接度的概念、度量及其应用.生态学报，2010,30（7)：1903-1910.  
+[12] 富伟，刘世梁，崔保山，张兆苓.景观生态学中生态连接度研究进展.生态学报，2009,29(11)：6174-6182.  
+[13] Pascual-HortalLSauraSompasonandeveloentofapbasedlandscapecoectivityidices：towadstepozatioofbitatpatches and corridors for conservation.Landscape Ecology，2006,21（7）:959-967.  
+[4]PascuaralLurapactofsatialaleohentficatofialbiatsforteaceosapiiLandscape and Urban Planning，2007,83(2/3）：176-186.  
+[15]Urban D,Keitt T.Landscape connectivity:a graph-theoretic perspective.Ecology，2001，82（5）：1205-1218.  
+[16］姜广顺，张明海，马建章.黑龙江省完达山地区马鹿生境破碎化及其影响因子.生态学报，2005，25（7)：1691-1698.  
+[7]inorEUbafoaigsaiiseae(2):297-307.  
+[18］付保红，陈丽晖，朱彤.漫湾电站库区生态环境变化分析及治理对策.国土与自然资源研究，2005，（1)：54-55.  
+[19] HeDM,ZhaoWJ,henLHeologialangesinawaesevoareaanditsauseJalofYanUniversity（aturalces），2004,26(3):220-226.  
+[20］刘宇，吕一河，傅伯杰.景观格局-土壤侵蚀研究中景观指数的意义解释及局限性.生态学报，2011,31（1)：267-275.  
+[21］余艳红.景观格局指数在生态环境影响评价中的应用——以丽江至香格里拉铁路生态影响评价为例.环境科学导刊，2010,29（2）：82-85,108-108.  
+22]LiuXchugaureeeioael/）46.  
+[23]Fabligeraladtofaace（U.S.）sbaseato(1):36-46.  
+[24]icholsEodJevilolcalidodbeetles.Biological Conservation，2008,141(6）：1461-1474.  
+[25］薛亚东,李丽，李迪强，吴巩胜，周跃，吕玺喜.基于景观遗传学的滇金丝猴栖息地连接度分析.生态学报，2011,31（20)：5886-5893.  
+[26]AlbertAviu.leofcacas.（Prate：Cpiide）ddispesaletwolZl2013,61(1):423-434.  
+[27]PlattSJ，oweKWodiverstctionang：ActioPangfortiveodivesitatultieSalesatcentoioal,Landscape，Local. Melbourne：Department of Natural Resources and Environment,2002.  
+[28］吴昌广，周志翔，王鹏程，肖文发，滕明君，彭丽.基于最小费用模型的景观连接度评价.应用生态学报，2009,20（8)：2042-2048.  
+[29] 刘常富，周彬，何兴元，陈玮.沈阳城市森林景观连接度距离阈值选择.应用生态学报，2010,21（10)：2508-2516.  
+[30]StedKgspalsileo2000,4(1):16.  
+[31] 赵清贺，刘世梁，张兆苓，邓丽.漫湾水电开发对库区景观动态的影响.生态学杂志，2011，30（10)：2343-2350.  
+[32］陈利顶，刘雪华，傅伯杰.卧龙自然保护区大熊猫生境破碎化研究.生态学报，1999，19(3)：291-297.  
+[33] 刘红玉，李兆富，白云芳.挠力河流域东方白鹳生境质量变化景观模拟.生态学报，2006，26(12)：4007-4013.  
+[34]杨建强，朱永贵，宋文鹏，张娟，张龙军，罗先香.基于生境质量和生态响应的莱州湾生态环境质量评价.生态学报，2014，34（1)：105- 114.

@@ -1,0 +1,112 @@
+孙铭维」　童津津」　张　华」　杨德莲」　张　婕」蒋林树l\*熊本海²(1.北京农学院动物科学技术学院，奶牛营养学北京市重点实验室，北京102206；2.中国农业科学院北京畜牧兽医研究所，北京 100193)
+
+摘要：壳聚糖是甲壳素脱乙酰基得到一种天然活性产物，具有黏膜黏附力及带有正电荷等特性，可有效促进肠道吸收营养物质和乳腺上皮细胞的增殖和分化，进而对肠道和乳腺组织起到保护作用。饲粮中添加壳聚糖能改变奶牛瘤胃发酵模式和菌群结构，使瘤胃的甲烷产量下降，并可提高奶牛的生产性能和免疫功能。此外，壳聚糖还具有无耐药性、安全、无残留等优点，不仅对奶牛乳房炎的主要致病菌的生长有抑制作用，还可有效地提高乳房炎奶牛的抗氧化能力和促进炎症康复，使其在奶牛生产实践中具有广阔的应用前景。本文主要从壳聚糖在奶牛体内的生物学功能及在生产中的应用研究进展进行综述，对壳聚糖在奶牛生产实践中进一步的应用提供理论支持。
+
+关键词：壳聚糖；生物学功能；奶牛乳腺上皮细胞；乳腺炎；奶牛
+
+中图分类号：S816.7
+
+壳聚糖是甲壳素脱乙酰基得到的产物，化学名称是β-(1,4)-2-氨基-2-脱氧-D-葡萄糖。而甲壳素是节肢动物和霉菌外骨骼中的主要成分，由 N-乙酰-D-氨基葡萄糖单体单元与β-1,4-糖苷键连接而成[1]。常温下，壳聚糖为白色半透明、略带有珍珠光泽的固体，不溶于碱液以及强酸，但可溶于稀盐酸和多数有机酸。壳聚糖具有良好的吸附性、吸湿性、成膜性、通透性以及较好的生物相容、生物降解等特性[2]，是一种无毒无害、无二次污染的环保材料，广泛应用于纺织、医学、食品、化妆品等领域[3]。甲壳素分子基本单位为乙酰基葡萄糖，溶解度极小，而壳聚糖分子基本单位为氨基葡萄糖，分子中含有羟基和氨基，化学活性和溶解度均远大于甲壳素[4]，因此壳聚糖在实际应用方面具有更加广泛的前景。
+
+壳聚糖的脱乙酰度与物理化学性质有很大关系，可调节机体内不同的信号和因子。如壳聚糖的溶解度、富集离子的能力、絮凝力和 $N .$ -选择性酰化能力等性质[5]。据报道，壳聚糖的分子质量越小，其对大肠杆菌的抗菌作用越明显。质子化壳聚糖在体内和体外与生长因子、核酸和细胞因子等负电荷分子结合，并与各种生物活性因子共同作用，增强特定的细胞增殖或诱导干细胞分化为功能分化的细胞[6]。Arkoun 等[7]研究发现，壳聚糖使带负电荷的细菌细胞膜破裂，使其胞内的蛋白质和DNA释放，证明壳聚糖可作为一种细菌膜干扰物和射孔器。
+
+1壳聚糖对奶牛肠道和乳腺上皮细胞的作用
+
+壳聚糖对上皮细胞的调控作用已得到广泛研究。据报道，因壳聚糖具有黏膜黏附力及带有正电荷等特性，可有效促进肠道吸收[8]，并通过激活肠上皮细胞的腺苷酸活化蛋白激酶（AMPK）信号通路来改善肠道健康[9]。壳聚糖还可促进各种胚胎和成人乳腺上皮细胞的增殖[10]。壳聚糖制剂可修饰细胞黏附肽和其他缀合物，并显著提高了其支持细胞生长和维持动态平衡的能力[I]。研究发现，壳聚糖刺激细胞表面的受体，充当配体并结合整联蛋白复合物，从而启动下游信号级联，对乳腺上皮细胞产生形态发生作用，并调节其生长、极性、形态和分化[12]。然而，干细胞移植研究常常面临受损微环境的干扰，最终导致排斥或诱导免疫原性应答。研究发现，为了使微环境更适合移植细胞，壳聚糖可与乳腺的细胞外基质（ECM）组分如胶原蛋白IV，层黏连蛋白、触角蛋白、纤维蛋白和蛋白多糖[13]相互作用，进而起到保护作用。Nelson 等[14]研究表明，乳腺上皮细胞悬浮在微胶原腔内， $2 4 \mathrm { h }$ 内在体外可组装成基底膜并极化成上皮细胞。Nowak 等[15]研究发现，在含有壳聚糖成分的基质中，培养乳腺上皮细胞可活化半桥粒 $\mathrm { ~ a ~ } _ { 6 } \mathrm { ~ \AA ~ } _ { 1 }$ 整联蛋白异二聚体，从而影响乳腺上皮细胞的存活和分化。Yang 等[16]研究发现，在无血清条件下，外植体培养的壳聚糖生物材料在乳腺组织工程中具有广泛的应用潜力。壳聚糖和其他生长因子之间的这种相互作用，已经被解释为是由壳聚糖的阳离子性质所导致的，允许其与各种其他阴离子分子和生长因子相互作用。然而，壳聚糖及其衍生物在奶牛乳腺上皮细胞的影响及作用机制还有待进一步的研究。
+
+2壳聚糖对奶牛的其他生物学功能
+
+# 2.1 对瘤胃发酵的影响
+
+研究发现，壳聚糖可通过转移挥发性脂肪酸（VFA）和提高丙酸盐浓度，改变瘤胃发酵模式，影响乙酸和丁酸的产生，使瘤胃的甲烷产量下降，进而减少奶牛在采食过程中的能量损失[17]。据报道，壳聚糖作用于产生氢离子（ $\mathrm { H ^ { + } }$ ）的革兰氏阳性细菌的细胞壁[18]，并干扰离子通量，导致瘤胃中乙酸与丙酸的比例降低，从而降低肠道甲烷排放[19]。已有的研究表明，壳聚糖可促进奶牛瘤胃发酵类型的转变，使丙酸浓度增加，乙酸浓度减少，甲烷产量减少[19]，微生物蛋白质的合成和纤维的分解增加[20]，改变瘤胃内菌群结构[21]，提高奶牛生产性能、免疫功能、抗氧化能力，以及改善后肠道菌群结构等[22]。Goiri等[23]报道，当壳聚糖用于淀粉基质而不用于纤维素基质中时，体外试验中丙酸酯浓度增加，乙酸的浓度降低。Mingoti 等[24]也观察到，当喂食给奶牛不同浓度的壳聚糖时，丙酸浓度随饲喂壳聚糖的浓度呈线性增加。据报道，壳聚糖减少了瘤胃中氨基酸脱氨，因为饲喂壳聚糖后瘤胃中异亮氨酸和缬氨酸脱氨产生的异丁酸和异戊酸的支链脂肪酸在瘤胃中浓度降低。瘤胃中氨基酸脱氨减少，则可以使氨基酸进一步到达十二指肠，从而提高氨基酸的利用率[22]。壳聚糖还可增加牛奶排泄氮，而不改变氮摄入量并提高利用率[20]。
+
+# 2.2 对免疫调节的影响
+
+壳聚糖作为一种安全、无毒的饲料添加剂，在单胃动物上的研究和应用较多，且被证实可改善猪的生长性能和免疫力[25]，提高鸡的生长性能、养分代谢、影响胃肠道环境、抗氧化能力等[26]。相对而言，有关壳聚糖对反刍动物作用的研究较少。已有研究表明，壳聚糖对奶牛乳房炎具有免疫调节作用。据报道，饲粮中添加 $0 . 1 \%$ 的壳聚糖，可提高奶牛血清中免疫球蛋白免疫球蛋白G（IgG）和免疫球蛋白M（IgM）的含量、血液中淋巴细胞总数、淋巴细胞百分含量及淋巴细胞的转化率，能够增强奶牛机体的体液免疫功能[27]。用壳聚糖饲喂患有乳房炎的奶牛，结果表明，血液中活性T淋巴细胞和B淋巴细胞数量显著升高，中性粒细胞吞噬率和吞噬指数下降，说明壳聚糖能够抵抗炎症、清除血清循环免疫复合物、调节中性粒细胞的吞噬活性、增强机体的体液免疫和细胞免疫的功能[28]。其机制为壳聚糖分子结构中的氨基也可能接受体内的质子，使体液的pH升高，创造一个激活淋巴细胞的环境，从而提高细胞免疫、体液免疫及自然杀伤细胞的功能，强化免疫监视作用[29]。另外，壳聚糖也可以通过促进双歧杆菌的生长、繁殖，间接调节免疫系统，因为它是一类双歧杆菌的促生长因子。双歧杆菌能够通过刺激肠黏膜潘氏细胞，激活肠黏膜免疫系统，促进免疫球蛋白A(IgA)的分泌。同时，双歧杆菌还能增强小肠上皮内淋巴细胞的杀伤活性，加强其在肠道内的免疫监视作用，由此提高机体的免疫功能[30]。
+
+# 3壳聚糖的抗菌作用及其对奶牛乳房炎的治疗作用
+
+壳聚糖具有抑制多种细菌生长与活性、增强机体免疫力、抗病毒及降脂等多种生物学功能[31]，表现出类抗生素的特征[32]，并以安全、无残留且不易产生耐药性等特点成为奶牛乳房炎防治研究的热点。目前，在奶牛乳房炎预防与治疗期间，仍以抗生素为主。而抗生素在临床上长期大剂量使用，导致病原微生物耐药性增强，抗生素疗效降低，且存在奶制品中抗生素残留严重超标等问题。因此有效控制奶牛乳房炎对当前奶业健康快速发展具有重要的现实意义。
+
+# 3.1 抗菌作用
+
+壳聚糖抗微生物特性尤其突出，具有很强的抗菌活性[33]。这主要是由于壳聚糖结构带有质子化铵，可在微酸性溶液中电离，使得壳聚糖带有正电荷，与细菌细胞膜带负电荷的物质相互作用，破坏细胞膜的稳定性，从而抑制微生物的正常代谢。据报道，壳聚糖主要有以下3个层次的相互作用方式：与外层细胞成分的相互作用；与细胞膜的相互作用；与胞质成分的相互作用[34]。通过电子显微镜检查各种壳聚糖处理的微生物表明，其作用的部位是在微生物细胞表面[35]。而细菌细胞膜的性能和结构起着重要的作用，革兰氏阳性菌比革兰氏阴性菌对壳聚糖更敏感[36]，这种差异主要归因于不同的细胞壁、细胞膜体系结构，革兰氏阳性菌的细胞壁，是由一层厚而致密的肽聚糖和磷壁酸组成，肽聚糖的肽链之间通过75 个甘氨酸交联着;革兰氏阴性菌的细胞壁则是多层结构，细菌细胞膜由细胞壁和细胞质膜组成，革兰氏阴性细菌还包括半透性双层脂膜（外膜）。因此，细胞壁聚集负电荷的差异，决定了微生物对壳聚糖的敏感性。
+
+通常认为，壳聚糖的聚阳离子性质，由带正电的氨基葡萄糖胺输送，引起细胞表面多方面的改变，胞内物质溢出，并最终导致细菌活性致命的损伤[37]。聚阳离子大分子壳聚糖和细菌细胞之间的初始接触，最有可能是与带负电荷的革兰氏阳性菌磷壁酸的介导发生静电反应。这与Senel等[38]和Lanctot 等[39]的研究结果一致，即壳聚糖对革兰氏阳性细菌具有很强的抗菌作用。此外，有研究指出，当环境pH高于6.3时，壳聚糖的疏水和螯合作用对抗菌活性有影响；然而，在De Paiva 等[40]的研究中，则显示了壳聚糖不受瘤胃内pH的影响。2个试验结果略有不用。带正电荷的壳聚糖可能被细胞吸收，它们与真菌和细菌的细胞 DNA相互作用，从而抑制DNA 以及RNA的转录和蛋白质的合成[41]。曾有报道壳聚糖能穿透植物细胞，依据是壳聚糖应用到植物组织的表面 $1 5 \mathrm { m i n }$ 后，明显地检测到植物的细胞质和细胞核[42]。因此，其作用机制一是壳聚糖和带负电荷的细胞膜成分（即磷脂和蛋白质）之间发生静电反应，二是与革兰氏阳性细菌细胞壁的氨基酸反应，三是与革兰氏阴性细菌外膜的脂多糖反应，从而影响细胞膜的完整性和渗透性。总之，细胞膜的电荷有助于壳聚糖抗菌活性。
+
+关鸣等[43]研制出1种含有水溶性壳聚糖成分的奶牛护蹄液，能有效杀灭奶牛蹄病感染性病原菌，并且促进蹄部伤口愈合，有效防止和治疗多种蹄病，提高奶牛自身免疫力和抗病力。尽管壳聚糖具有很强的抗菌活性[41l，但饲喂壳聚糖并没有引起微生物蛋白质合成的改变,并且在DelValle 等[44]的研究中其对于奶牛的牛奶品质和产量并没有损害。根据田丰等[27]研究发现，在添加 $1 5 \ : \mathrm { g / d }$ 的壳聚糖时，与无添加的对照组相比，奶牛产奶量增加，平均每头牛每天多产奶 $1 . 8 \mathrm { k g }$ 。
+
+# 3.2对奶牛乳房炎的治疗作用
+
+研究发现，壳聚糖在治疗奶牛临床型乳房炎时，对奶牛无任何副作用。且通过体外抑菌试验表明，水溶性壳聚糖对奶牛无乳链球菌、绿脓杆菌、金黄色葡萄球菌、大肠杆菌、沙门氏菌、链球菌均有不同程度的抑制作用[45]。Freter 等[46]证实，低浓度的壳聚糖抑菌能力最强，因为低浓度的壳聚糖可以中和细菌细胞表面所带的负电荷，使细菌细胞胶合在一起，而高浓度的壳聚糖可能使细菌细胞表面带上一定数量的正电荷，从而使细菌细胞处于悬浮状态，而不是胶合在一起，结果降低了壳聚糖的抑菌效果。据报道，对患有隐性乳房炎的奶牛，在饲粮中添加不同浓度的壳聚糖， $5 \mathrm { g / d }$ 的壳聚糖可显著降低乳中体细胞的数量。Asli 等[47]研究发现，应用 $2 . 6 \mathrm { k u }$ 分子质量的壳聚糖注射奶牛乳腺组织内，以剂量依赖的形式，对金黄色葡萄球菌的活性具有抑制作用。
+
+奶牛乳房炎发生时，抗氧化能力起到重要作用。在正常情况下，机体内自由基的产生、利用、清除三者处于动态平衡，当乳房炎发生时，特定的免疫细胞就会引入相当数量的自由基来援助这些细胞杀死病原菌。而机体内的自由基产生过多，清除自由基的能力减弱，引起机体的脂质过氧化发生，破坏生物膜的结构，使乳腺感染的严重程度增加。研究发现，对患有乳房炎的奶牛饲喂壳聚糖时，结果表明，壳聚糖具有抗氧化功能，可调节奶牛机体自由基水平，并促进奶牛乳腺炎症的康复[48]。任海军[49]和郭小萍等[50]试验结果表明，在奶牛饲粮中添加壳聚糖可刺激奶牛的抗氧化功能，改善健康状况，降低乳中体细胞数，减少了乳腺组织感染乳腺炎的可能。
+
+5小结
+
+壳聚糖在奶牛生产实践中具有广阔的应用前景，不仅可以改变瘤胃发酵模式，降低甲烷的产生，还能减少采食过程中的能量损失，提高饲料转化率。因其具有安全、无毒，抗菌等特性，在治疗奶牛乳房炎方面成为热点。然而壳聚糖对奶牛乳腺上皮细胞的作用机制以及如何调控机体的免疫反应，怎样通过信号通路的调控来发挥作用，还有待进一步的研究。此外，壳聚糖应用于奶牛生产实践过程中的安全性研究还有待进一步的深化。
+
+参考文献：   
+[1]DEEPTHI S,VENKATESAN J,KIM S K,et al.An overview of chitin or chitosan/nano ceramic composite scaffolds for bone tissue engineering[J].International Journal of Biological Macromolecules,2016,93:1338-1353.   
+[2] ANITHA A,SOWMYA S,KUMAR P T S,et al.Chitin and chitosan in selected biomedical applications[J].Progress in Polymer Science,2014,39(9):1644-1667.   
+[3]孙晓婷,郭亚.壳聚糖的应用及发展[J].成都纺织高等专科学校学报,2016,33(2):165-169.   
+[4] LI X S,MIN M,DU N,et al.Chitin,chitosan,and glycated chitosan regulate immune responses:thenovel adjuvantsforcancervaccine[J].Clinical and Developmental Immunology,2013,2013:387023.   
+[5]BALAZS N,SIPOS P.Limitations of pH-potentiometric titration for the determination of the degree of deacetylation of chitosan[J].Carbohydrate Research,2007,342(1):124-130.   
+[6]RODRIGUEZ-VAZQUEZ M,VEGA-RUIZ B,RAMOS-ZUNIGA R,et al.Chitosan and its potential use as a scaffold for tissue engineering in regenerative medicine[J].BioMed Research International,2015,2015:821279.   
+[7]ARKOUN M,DAIGLE F,HEUZEY M C,et al.Antibacterial electrospun chitosan - based nanofibers: A bacterial membrane perforator[J].Food Science & Nutrition,2017,5(4):865-874.   
+[8]孙露银,闫彩凤.壳聚糖促进肠道上皮细胞吸收的机制[J].医学综 述,2015,21(20):3686-3688.
+
+[9] MUANPRASAT C,WONGKRASANT P,SATITSRI S,et al.Activation of AMPK by chi tosan oligosaccharide in intestinal epithelial cells:mechanism of action and potential ap plications in intestinal disorders[J].Biochemical Pharmacology,2015,96(3):225-236.
+
+[10] GANDRA J R,OLIVEIRA E R,TAKYIA C S,et al.Chitosan improves the chemical co mposition,microbiological quality,and aerobic stability of sugarcane silage[J].Animal Fe ed Science and Technology,2016,214:44-52.   
+[11] LAUTO A,MAWAD D.Chitosan-ECM bandages for photochemical tissue repair[C]/Qu antum electronics conference & lasers and electro-optics.Sydney,NSW,Australia:IEEE,20 11.   
+[12] TADDEI I,FARALDO M M,TEULIERE J,et al.Integrins in mammary gland developm ent and diferentiation of mammary epithelium[J].Journal of Mammary Gland Biology and Neoplasia,2003,8(4):383-394.   
+[13] PATIL S V,NANDURI L S Y.Interaction of chitin/chitosan with salivary and other ep ithelial cells-an Overview[J].International Journal of Biological Macromolecules,2017,10 4:1398-1406.   
+[14] NELSON C M,KHAUV D,BISSELL M J,et al.Change in cell shape is required for m atrix metalloproteinase-induced epithelial-mesenchymal transition of mammary epithelial cells[J].Journal of Cellular Biochemistry,2008,105(1):25-33.   
+[15] NOWAK M,FREUDENBERG U,TSURKAN M V,et al.Modular GAG-matrices to pro mote mammary epithelial morphogenesis in vitro[J].Biomaterials,2016,112:20-30.   
+[16] YANG T L,LIN L,HSIAO Y C,et al.Chitosan biomaterials induce branching morphoge nesis in a model of tissue-engineered glandular organs in serum-free conditions[J].Tiss ue Engineering Part A,2012,18(21/22):2220-2230.   
+[17] BELANCHE A,PINLOCHE E,PRESKETT D,et al.Effects and mode of action of chito san and ivy fruit saponins on the microbiome,fermentation and methanogenesis in the rumen simulation technique[J].FEMS Microbiology Ecology,2016,92(1):fiv160.   
+[18] POULSEN M,SCHWAB C,BORG J B,et al.Methylotrophic methanogenic Thermoplasm ata implicated in reduced methane emissions from bovine rumen[J].Nature Communica tions,2013,4:1428.   
+[19] DANIELSSON R,DICKSVED J,SUN L,et al.Methane production in dairy cows correla tes with rumen methanogenic and bacterial community structure[J].Frontiers in Microbi ology,2017,8:226.   
+[20]张静.壳聚糖对奶牛产奶性能、营养物质消化及相关血清生化指标的影响[D].硕士学位论 文.呼和浩特:内蒙古农业大学,2015.   
+[21] KITTELMANN S,PINARES-PATINO C S,SEEDORF H,et al.Two different bacterial c ommunity types are linked with the low-methane emission trait in sheep[J].PLoS One, 2014,9(7):e103171.   
+[22] 田雨佳,闫素梅,任海军,等.壳聚糖在奶牛瘤胃中的降解率及其对瘤胃发酵的影响[J].中国 畜牧杂志,2011,47(19):53-56.   
+[23] GOIRI I,GARCIA-RODRIGUEZ A,OREGUI L M.Efect of chitosans on in vitro rume n digestion and fermentation of maize silage[J].Animal Feed Science and Technology, 2009,148(2/3/4):276-287.   
+[24] MINGOTI R D,FREITAS J E,GANDRA J R,et al.Dose response of chitosan on nutri ent digestibility,blood metabolites and lactation performance in Holstein dairy cows[J]. Livestock Science,2016,187:35-39.   
+[25] OKAMOTO Y,WATANABE M,MIYATAKE K,et al.Effects of chitin/chitosan and thei r oligomers/monomers on migrations of fibroblasts and vascular endothelium[J].Biomat erials,2002,23(9):1975-1979.   
+[26] LIU P,PIAO X S,KIM S W,et al.Effects of chito-oligosaccharide supplementation on t he growth performance,nutrient digestibility,intestinal morphology,and fecal shedding of Escherichia coli and Lactobacilus in weaning pigs[J].Journal of Animal Science,2008, 86(10):2609-2618.   
+[27] 田丰,任海军,史彬林,等.壳聚糖对奶牛产奶性能、乳体细胞数及血清免疫球蛋白的影响 [J].饲料工业,2009,30(5):31-33.   
+[28]商常发,陈会良,顾有方,等.壳聚糖对乳房炎奶牛免疫功能的影响[J].中国牛业科学,2006,3 2(6):45-49.   
+[29] TOKURA S,TAMURA H,AZUMA I.Immunological aspects of chitin and chitin deriva tives administered to animals[J].EXS,1999,87:279-292.   
+[30]陈文学,史俊华.双歧杆菌的研究进展[J].中国微生态学杂志,2000,12(5):298-300.   
+[31]周小洁,车向荣,于霏.壳聚糖的生物学功能及其在家禽生产中的应用[J].畜禽业,2005(1):1 6-19.   
+[32]章廊,胡正华,徐强,等.壳聚糖对奶牛乳腺炎的疗效及血清铜镁的影响[J].上海畜牧兽医通 讯,2012(6):18-19.   
+[33] KONG M,CHEN X G,XING K,et al.Antimicrobial properties of chitosan and mode of action:a state of the art review[J].International Journal of Food Microbiology,2010,14 4(1):51-53.   
+[34] PRODHAN M Y,ISSAK M,NAKAMURA T,et al.Chitosan signaling in guard cells re quiresendogenous salicylic acid[J].Bioscience,Biotechnology,and Biochemistry,2017,81 (8):1536-1541.   
+[35] SAVARD T,BEAULIEU C,BOUCHER I,et al.Antimicrobial action of hydrolyzed chito san against spoilage yeasts and lactic acid bacteria of fermented vegetables[J].Journal of Food Protection,2002,65(5):828-833.   
+[36] RAAFAT D,SAHL H G.Chitosan and its antimicrobial potential-a critical literature sur vey[J].Microbial Biotechnology,2009,2(2):186-201.   
+[37] ZAKRZEWSKA A,BOORSMA A,BRUL S,et al.Transcriptional response of Saccharom yces cerevisiae to the plasma membrane-perturbing compound chitosan[J].Eukaryotic C ell,2005,4(4):703-715.   
+[38] SENEL S,MCCLURE S J.Potential applications of chitosan in veterinary medicine[J].A dvanced Drug Delivery Reviews,2004,56(10):1467-1480.   
+[39] LANCTOT S,FUSTIER P,TAHERIAN A R,et al.Effect of intramammary infusion of c hitosan hydrogels at drying-off on bovine mammary gland involution[J].Journal of Dai
+
+ry Science,2017,100(3):2269-2281.
+
+[40] DE PAIVA P P G,DE JESUS E F,DEL VALLE T A,et al.Effects of chitosan on ru minal fermentation,nutrient digestibility,and milk yield and composition of dairy cows [J].Animal Production Science,2016,57(2):301-307.   
+[41] RABEA E I,BADAWY E T,STEVENS C V,et al.Chitosan as antimicrobial agent:appli cations and mode of action[J].Biomacromolecules,2003,4(6):1457-1465.   
+[42] HADWIGER L A,BECKMAN J M,ADAMS M J.Localization of fungal components i n the pea-Fusarium interaction detected immunochemically with anti-chitosan and antifungal cell wall antisera[J].Plant Physiology,1981,67(1):170-175.   
+[43]关鸣,叶锋,张一楠,等.一种奶牛护蹄液及其制备方法:CN201510947303.9[P].2016-04-06.   
+[44] DEL VALLE T A,DE PAIVA P G,DE JESUS E F,et al.Dietary chitosan improves ni trogen use and feed conversion in diets for mid-lactation dairy cows[J].Livestock Scie nce,2017,201:22-29.   
+[45]孙先明,刘思当,季云峰.壳聚糖对奶牛免疫功能及生产性能的影响[J].中国兽医杂志,2008, 44(1):40-41.   
+[46] FRETER R,STAUFFER E,CLEVEN D,et al.Continuous-flow cultures as in vitro mode ls of the ecology of large intestinal flora[J].Infection & Immunity,1983,39(2):666-675.   
+[47] ASLI A,BROUILLETTE E,STER C,et al.Antibiofilm and antibacterial effects of specif ic chitosan molecules on Staphylococcus aureus isolates associated with bovine mastiti s[J].PLoS One,2017,12(5):e0176988.   
+[48]商常发,陈会良,金光明,等.壳聚糖对乳房炎奶牛血清自由基代谢的影响[J].中国草食动物 科学,2006,26(3):44-46.   
+[49] 任海军.壳聚糖对奶牛产奶性能和免疫功能影响的研究[D].硕士学位论文.呼和浩特:内蒙 古农业大学,2008.   
+[50]郭小萍,范守民,刘宜勇,等.低聚壳聚糖对隐性乳房炎奶牛产奶性能和体细胞数的影响[J]. 草食家畜,2016(4):32-35,49.
+
+Chitosan: Biochemical Functions and Application in Dairy Cows
+
+SUN Mingwei1TONG Jinjin1ZHANG HualYANG DelianlZHANG JielJIANG Linshul\* XIONG Benhai²   
+(1. Key Laboratory for Dairy Cow Nutrition, College of Animal Science and Technology, Beijing   
+University of Agriculture, Beijing 102206, China; 2. Institute of Animal Science and Veterinary, Chinese Academy of Agricultural Sciences, Beijing 100193, China )
+
+Abstract: Chitosan is a natural active product， which is converted from chitin by deacetyl ation.Due to its characteristics of mucosal adhesion and positive charge，chitosan can effe ctively promote intestinal absorption of nutrients,as well as proliferation and differentiatio n of mammary epithelial cells,thus,further protective the intestinal and breast tissues.Die tary chitosan addition can affect rumen fermentation mode and microbial community， furth er reduce methane emissions and improve performance and immune function of dairy cow s. In addition,as its characteristics of non-drug resistance，safe,no residue,and so on,chi tosan not only can inhibit the activity of bovine mastitis pathogen growth，also can effecti vely improve the antioxidant capacity and promote inflammation rehabilitation， which has broad application prospects in dairy production. Overall， the biological functions of chitosa n and its application in production of dairy cows were reviewed in this paper, which wou ld provide a theoretical basis for the further application of chitosan in dairy cows feeding. Key words:chitosan; biological function; mammary epithelial cel; mastitis; dairy cows

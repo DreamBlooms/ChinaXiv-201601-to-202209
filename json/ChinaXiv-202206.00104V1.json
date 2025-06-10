@@ -1,0 +1,707 @@
+[
+    {
+        "type": "text",
+        "text": "TRIZ分析矩阵智能构建方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邢思思1,2 钱力1,21（中国科学院文献情报中心北京100190）2（中国科学院大学经济与管理学院图书情报与档案管理系 北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：[目的]基于深度学习和领域知识图谱技术，研究TRIZ分析矩阵自动构建方法，为技术创新提供知识支持。[方法首先面向领域需求，将通用的“技术要素”延伸细化为实体和关系类别，完成领域知识图谱模式层设计；然后基于BERT预训练语言模型，研究设计从专利文献中自动识别知识实体及关系的智能化工具，实现实体关系自动抽取；最后利用图数据库完成领域知识图谱的构建，基于知识查询读取需要的知识实体和关系，实现TRIZ分析矩阵的自动构建。[结果]经实证验证，本文构建的面向薄膜磁头技术领域专利的 BERT-$\\mathbf { M H + C R F }$ 实体识别模型F1分数为 $8 4 . 9 3 \\%$ ，BERT-MH+softmax关系抽取模型F1分数为$6 3 . 7 \\%$ 。[局限]缺乏知识推理技术的应用，无法揭示实体间潜在的知识关联，构建的TRIZ 分析矩阵的质量仍存在不足。[结论]所提出的方法可以实现TRIZ分析矩阵自动构建的目标，可以为技术创新提供有效的知识支持。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：TRIZ分析矩阵；专利文献；预训练技术；实体识别；关系抽取分类号：G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on Intelligent Construction Method of ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the TRIZ Analysis Matrix ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xing Sisi1²，Qian Li1,2   \n1(National Science Library， Chinese Academy of Sciences，Beijing l00l90， China) ²(Department of Library， Information and Archives Management， School of   \nEconomics and Management，University of Chinese Academy of Sciences， Beijing 100190，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] Based on deep learning and domain knowledge graph technology， study the automatic construction method of TRIZ analysis matrix to provide knowledge support for technological innovation. [Methods] First， facing the domain requirements， the general \"technical elements\" are extended and refined into entity and relationship categories，and the pattern layer design of domain knowledge graph is completed;Then， based on the BERT pre-trained language model， research and design an intelligent tool to automatically identify knowledge entities and relationships from patent documents， and realize the automatic extraction of entity relationships;Finally， the graph database is used to complete the construction of the domain knowledge graph， and the knowledge entities and relationships are required to read based on the knowledge query， so as to realize the automatic construction of the TRIZ analysis matrix. [Results] After empirical verification， the F1 score of the BERT-MH+CRF entity recognition model for patents in the field of thin-film magnetic head technology constructed in this paperis $8 4 . 9 3 \\%$ ，and the F1 score of the BERT-MH+softmax relation extraction model is $6 3 . 7 \\%$ ：[Limitations] The lack of application of knowledge reasoning technology cannot reveal the potential knowledge associations between entities， and the quality of the constructed TRIZ analysis matrix is still insufficient. [Conclusions] The proposed method can achieve the goal of automatic construction of TRIZ analysis matrix， which can provide effective knowledge support for technological innovation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: TRIZ Analysis Matrix， Patent Literature, Pre-training Techniques, Entity Recognition， Relation Extraction ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中国正从“制造大国”向“智造强国”战略转型，以科技创新为核心的创新驱动发展战略已上升为国家战略，国家和企业对创新的需求不断提高，主要体现在产品快速迭代的需求、技术交叉加剧的需求和创新知识集中汇聚的需求。在当前的时代背景下，创新已经不仅仅是依靠个人灵感而产生的想法，而更需要科学的方法和依据给予突破[1]。TRIZ 创新方法通过对专利大数据的挖掘分析，形成了一套指导人们进行发明创新的系统化的方法学体系，可以准确分析和发现核心问题，提高创新的效率与质量，是行之有效的创新方法之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系统相互作用分析矩阵是TRIZ创新方法体系中实现功能分析的核心技术。系统相互作用分析矩阵基于人工方法从专利文献中提取组件和功能两类知识实体及对应关系，再建立矩阵开展系统功能分析，指导技术创新。然而，面对全球科技快速进步迭代和专利申请量的爆炸式增长，传统的系统相互作用分析矩阵也面临知识要素不足、人工构建速度慢、人力成本高等问题，导致利用TRIZ创新方法促进技术创新的效应偏低，难以满足国家和企业日益增长的创新需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面对上述背景及发展需求，本研究在TRIZ创新方法的指导下，面向特定领域拓展系统相互作用分析矩阵涵盖的知识要素，同时将本文提出的面向特定领域且包含更丰富知识实体和关系的矩阵定义为TRIZ分析矩阵，并提出利用大数据和人工智能技术开展TRIZ分析矩阵智能构建方法研究。具体的，利用BERT预训练语言模型技术，从海量专利数据中自动识别知识实体和关系，完成领域知识图谱构建；面向具体需求，基于知识查询和知识推理，从领域知识图谱中自动读取所需要的知识实体和关系，实现TRIZ分析矩阵的自动构建。一方面解决TRIZ创新方法的知识供应问题，另一方面为TRIZ创新方法的持续发展和完善提供支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以TRIZ分析矩阵智能构建为总目标，重点研究从专利文献中自动抽取知识实体和关系的技术解决方案。因此，本文主要面向TRIZ分析矩阵的知识抽取相关研究开展调研，系统调研了通用的科学知识抽取方法和面向专利的知识抽取方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1科学知识抽取研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "面向科学文献的知识抽取方法经历了基于词典和规则[2-4]、基于统计机器学习[5-6]、基于深度学习[7-10]、基于预训练语言模型的方法以及综合性抽取的长足发展。2018 年，Google 的研究人员Devlin 等[11]提出 BERT 模型，BERT 模型采用双向的TransformerEncoder结构，面向大规模公开语料进行预训练，得到了表征能力更强的预训练字向量，极大地提高了模型的性能。文献[12I应用BioBERT从2900 万篇 PubMed 摘要中抽取生物实体，取得了最优性能。Zhang 等[13]在中文临床语料库上对BERT进行了预训练，并将得到的词嵌入作为BiLSTM-CRF 模型的输入特征，解决乳腺癌命名实体识别问题。文献[[4提出了一个既利用预训练的BERT语言模型又结合目标实体信息解决关系分类任务的模型，与最新方法相比取得了显著改进。唐晓波等[15]利用BERT预训练语言模型，搭建BERT-BiGRU-CRF 标注序列模型，面向金融文本语料联合抽取实体关系。综上所述，“预训练$^ +$ 微调”技术通过加入通用有效的语言知识编码，极大地提升了实体关系抽取的性能表现。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 面向专利的知识抽取研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自Tsourikov等人的开创性工作以来[16],专利知识抽取已经提出了多种方法，包括 SAO方法、基于本体的方法、统计机器学习方法等。胡正银等[17基于SAO结构语义分析与LDA聚类方法，面向专利文献识别通用的TRIZ技术信息（技术问题、解决方案、技术功能、技术效果)；H.B.Kim 等[18基于 SAO 方法抽取专利中的技术问题和技术方案实体；李晓曼等[19基于SAO方法面向纳米肥料领域专利文献完成材料、产品、方法、功效和用途5种实体的识别。面向专利文献抽取知识实体及关系的机器学习模型主要包括最大熵模型、SVM模型和CRF模型。李卫超等[20]提出了一种基于词法分析、语法分析和最大熵分类模型的专利功能信息抽取方法；Nanba 等[21]基于 SVM方法识别学术文献和专利中的技术和效果两类信息；赖英旭等[22结合TRIZ理论设计了水稻育种方法本体结构，应用SVM模型识别专利中的育种方法，应用CRF模型识别水稻品种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从上述调研结果中可以看出，面向TRIZ分析矩阵的知识抽取技术，主要是面向专利的实体识别和关系抽取技术还远没有成熟，仍存在缺乏标注数据集、抽取的专利知识类型不足、自动化程度低、性能有待提高等问题。因此，本文拟利用预训练语言模型技术改进面向专利的知识实体识别和关系抽取。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 TRIZ分析矩阵智能构建方法设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究提出的TRIZ分析矩阵智能构建方法框架如图1所示，主要由三个模块构成：面向TRIZ分析矩阵的领域知识图谱模式层设计、面向专利的知识实体和知识关系抽取方法、基于领域知识图谱的TRIZ分析矩阵自动构建。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0b524fbdd16225f37706611d651890786cf5c6f78da99b78d44e61573c71b10.jpg",
+        "img_caption": [
+            "图1TRIZ分析矩阵智能构建的方法框架"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方法流程如下：（1)在TRIZ创新理论的指导下，面向特定领域的知识需求，将语义TRIZ中通用的“技术要素”（技术问题、技术方案、技术功能、技术效果)延伸细化为特定领域的知识实体和关系类别，完成领域知识图谱模式层设计。（2）基于BERT预训练语言模型，研究设计从专利文献中自动识别TRIZ分析矩阵构建所需要的知识实体及关系的智能化工具，实现专利实体和关系的自动抽取。（3）对知识实体和关系进行简单融合，利用图数据库完成领域知识图谱的构建；面向具体需求，基于知识查询和知识推理，从领域知识图谱中自动查询和读取所需要的知识实体和关系，实现TRIZ分析矩阵的自动构建。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上述TRIZ分析矩阵智能构建方法框架提供了全领域通用的方法流程和模型架构，明确了领域知识图谱模式层设计流程，搭建了通用的继续预训练BERT模型、实体识别微调模型和关系抽取微调模型架构，提供了标准化的领域知识图谱构建方法。在面向特定领域开展应用研究时，只需提供领域需求和领域专利语料，即可在上述方法框架的指导下开展TRIZ分析矩阵构建。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1面向TRIZ分析矩阵的领域知识图谱模式层设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "语义TRIZ利用语义技术自动或半自动建模专利中隐含的技术信息，可以有效表示“技术问题、技术方案、技术功能、技术效果”等专利中特有的技术知识[23]。本文参考语义 TRIZ 模型，将 TRIZ 分析矩阵知识模型中的知识要素明确为技术问题、技术方案、技术功能、技术效果4大功能语义类型，开展领域知识图谱模式层设计，具体流程如图2所示。首先，面向特定领域开展需求分析，将TRIZ分析矩阵知识模型中通用的知识要素（技术问题、技术方案、技术功能、技术效果）延伸细化为特定领域的知识实体和关系类别；在此基础上建立知识实体及其关系与图谱中知识节点和知识关系的映射，制定统一的语义关系分类规范，完成领域知识图谱模式层设计，用于指导后续的领域知识图谱构建和TRIZ分析矩阵构建。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b657edd9d368b4409d988832dbc35fdca1fd9442b334ede548060b85a411196.jpg",
+        "img_caption": [
+            "图2领域知识图谱模式层设计的技术路线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "面向不同领域开展知识图谱模式层设计时，由于领域需求的多样性和差异性，不同领域下技术问题、技术方案、技术功能、技术效果所对应的创新要素也有所区别，由此形成特定领域的TRIZ分析矩阵知识模型。后续本文将以薄膜磁头技术领域为例开展面向TRIZ分析矩阵的领域知识图谱模式层设计，详见“4.2.1薄膜磁头技术领域知识图谱模式层设计”。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2面向专利的知识实体和知识关系抽取算法设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1知识实体和知识关系抽取的技术路径",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于BERT预训练语言模型技术，研究设计从专利文献中自动识别TRIZ分析矩阵构建所需要的知识实体及关系的智能化工具。知识实体和知识关系抽取的技术路径如图3所示，包括预训练（Pre-train）、继续预训练（Continual pre-train）、微调（Fine-tuning）3个阶段。预训练阶段直接引入谷歌利用12层的TransformerEncoder 在Wikipedia 和Book Corpus 语料上训练得到的原始BERT 模型；继续预训练阶段针对特定领域专利文献的实体关系特征，利用领域未标注的大规模专利语料对原始BERT模型进行继续预训练，使模型学到更多的专利句法结构知识和特定领域知识，得到特定领域的BERT词嵌入；微调阶段利用少量特定任务的标注语料分别对实体识别模型和关系抽取模型进行训练和调优。本研究希望能通过上述技术路径，一方面提升实体识别及关系抽取模型的性能，另一方面减少微调阶段模型对标注数据的依赖。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/556932b65ab4b7149b96fc18d224570d1edf1ca9889e82c999a8204d50b7377f.jpg",
+        "img_caption": [
+            "图3知识实体和知识关系抽取的技术路径"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 BERT模型继续预训练 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "BERT模型主要有“预训练 $^ +$ 微调”、“预训练 $\\cdot +$ 继续预训练 $\\cdot +$ 微调”、“重新预训练 $^ +$ 微调”三种训练和使用模式（见图4)，ACL2020 BestPaper 提名奖论文《Don't Stop Pretraining:Adapt Language Models to Domains and Tasks 》 [24]做了很多语言模型预训练的实验，认为在目标领域的数据集上进行继续预训练可以提升预训练语言模型在处理该领域任务时的效果。陈亮等[25]通过对专利数据集的对比分析发现，不同技术领域的专利数据集之间存在较大差异，并将专利全领域特征的词嵌入和特定领域特征的词嵌入进行了对比，发现特定领域的词嵌入在领域任务中的表现效果更好。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bafabe1246db4f9cc6ac6d358484e5bfb99c1680687f48a047d301bfef2511fc.jpg",
+        "img_caption": [
+            "图4BERT 模型的训练路径"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究拟采用“预训练 $^ +$ 继续预训练 $^ +$ 微调”的BERT模型训练路径针对特定领域专利文献的实体关系特征，利用目标领域未标注的专利语料对原始BERT模型进行继续预训练，使模型学到更多的专利句法结构知识和特定领域知识，从而得到特定领域的BERT词嵌入，以实现更优的实体识别和关系抽取性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.3基于BERT-CRF的实体识别模型设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在序列标注思想的指导下，本文采用BERT-CRF实体识别模型，模型架构如图5所示。整个模型架构由特征表示、特征编码、标签解码三个部分组成。特征表示步骤由BERT模型对输入的文字进行分布式向量表示。特征编码步骤主要对BERT提供的输入向量进行变换，通过线性层提取句子的语义特征，将隐状态序列向量维度转换为标注标签数量维度，得到每一个标注标签的预测分值。标签解码步骤使用CRF进行解码，将BERT层提取到的特征作为输入，然后由CRF层负责考虑上下文标签的影响，进而得到使得条件概率最大的实体标签序列。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/62a600231c47088e5f2099d641a9a9af558c5d105e6311794540626516a731b2.jpg",
+        "img_caption": [
+            "图5BERT-CRF 实体识别模型架构"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.4基于BERT-softmax 的关系抽取模型设计",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "关系抽取采用多标签分类的思想，构建BERT-softmax 关系抽取模型。具体的，BERT负责提供句子的词嵌入表示，学习句子的语义特征，而后将学习到的语义信息接入softmax分类器，输出关系分类结果。利用标注语料对关系分类模型进行训练，输入包含实体对的句子，输出关系类别。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "此外，由于本研究采用基于流水线的实体识别和关系抽取方法，在实体对生成阶段会迭代生成大量不存在关系的实体对，这些实体对会对关系抽取模型的训练产生干扰。为使关系抽取模型能够更好地学习无关系实体对的特征，在训练过程中，本文为不存在关系的实体对分配“no_relation\"的特殊类型，作为负样本添加到训练集当中，在训练过程中与其它关系类型同等看待，以改善关系抽取模型的性能。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3基于领域知识图谱的TRIZ分析矩阵自动构建",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于领域知识图谱的TRIZ分析矩阵自动构建过程如图6所示，包括领域知识图谱构建和TRIZ分析矩阵构建两个阶段。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddc6cdbb8c67a4d4e3cc31e9712d4e7e61407558212a458bf1eb5829feaaa7e3.jpg",
+        "img_caption": [
+            "图6基于领域知识图谱的TRIZ分析矩阵自动构建"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "首先，对知识实体和知识关系的抽取结果进行简单融合，通过构建实体ID Name 对应表保证每一个实体都有唯一的ID与之对应，利用实体ID 对相同的知识实体进行合并，对相同三元组进行剔除。在此基础上，通过图数据库实现实体数据和关系数据的存储，将其转换为数据库中的节点和关系，完成领域知识图谱构建。在利用 Neo4j 图数据库完成领域知识图谱构建的基础上面向具体需求，利用该图数据库进行交互式查询和关联化推理，自动查询和读取所需要的知识实体和关系，实现TRIZ分析矩阵的自动构建，为后续的系统问题分析、技术功效分析、技术演化分析、技术路径分析等提供有效支持，加速技术创新。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4研究实证",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "计算机硬盘领域的薄膜磁头能显著减少磁头和磁片的距离，增加数据密度，提高准确率，对我国高性能磁记录产业的发展具有重要意义。因此，本文在上述领域通用的TRIZ分析矩阵智能构建方法体系下，以薄膜磁头技术领域为例开展实证研究，具体工作包括：1）完成薄膜磁头技术领域专利知识抽取的BERT模型构建；2）开展薄膜磁头技术领域TRIZ分析矩阵构建实证研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1薄膜磁头技术领域专利知识抽取的BERT模型构建",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. 1. 1 实验数据 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本实验选用陈亮等[25]构建的TFH-2020 数据集开展薄膜磁头技术领域专利实体识别和关系抽取实验研究。TFH-2020是面向硬盘中薄膜磁头技术的带标注的专利数据集。该数据集语料检索自美国专利商标局（USPTO)，由薄膜磁头技术领域1010 篇专利摘要构成，共包含22742个实体和17421个语义关系。数据集设置了17种实体类型规范和15 种语义关系类型规范，实体类型包括：物质流、信息流、能量流、系统、组件、属性、形状、材料、状态、位置、测量对象、值、科学概念、功能、效果、结果、其它；关系类型包括：实例、别名、位置关系、部分关系、因果关系、构造、属性、以..方式、形成、比较、测量、操作、产生、目的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1. 2 BERT模型继续预训练实验 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“磁头”是“薄膜磁头”的上位概念。考虑到专利文献的数量，本文面向计算机硬盘中的磁头领域开展BERT模型继续预训练实验。具体的，获取大量磁头领域未标注的专利语料，在BERT模型原有参数的基础上进行继续预训练，使模型学到更多的专利句法结构知识和磁头领域知识，训练得到磁头领域的BERT词嵌入——BERT-MH。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）用于继续预训练的专利语料",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本实验选择Derwent Innovations Index（DII 德温特创新索引）作为BERT 模型继续预训练的专利语料来，以“magnetic head”作为检索词，在主题字段中进行检索，共得到44,705 条专利记录（包含标题和摘要信息)，经正则匹配、筛选、清洗后得到每条专利记录的标题和摘要文本，构成磁头领域未标注的专利语料库。最终得到的语料库大小为48.7MB，共包含431,210条句子。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）面向磁头领域的BERT模型继续预训练",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文采用PyTorch库的Transformers 模型进行BERT模型的继续预训练。将上文构建的磁头领域未标注专利语料按9:1随机划分为训练集和验证集，采用论文[11]中的建议技巧，从现有的 BERT 检查点开始，在语料上运行其他预训练步骤。继续预训练实验中的部分重要参数设置见表1。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa93dec0769a96d86c0306e8d86575764170ea8ebab5c390ce1d489cbf3ac0c5.jpg",
+        "table_caption": [
+            "表1面向磁头领域的 BERT 模型继续预训练实验参数设定"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>参数设定</td></tr><tr><td>max_seq_length</td><td>128</td></tr><tr><td>train_batch_size</td><td>32</td></tr><tr><td>eval_batch_size</td><td>8</td></tr><tr><td>learning_rate</td><td>5e-5</td></tr><tr><td>num_train_steps</td><td>100000</td></tr><tr><td>num_warmup_steps</td><td>10000</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "整个训练过程在Linux 服务器 TeslaV100GPU上完成。训练完成后，便获得了以.bin 结尾的PyTorch版本的磁头领域 BERT模型。本文将该在磁头领域未标注专利语料上继续预训练得到的BERT词嵌入称为BERT-MH，用于后续的知识实体识别实验和知识关系抽取实验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1.3 知识实体识别实验 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在知识实体识别实验中，将TFH-2020 数据集在文档级别按6:2:2的比例随机划分为训练集、验证集和测试集，训练集、验证集和测试集中专利文档和句子的数量分布情况如表2所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/71b434fd7067bd1113344662375e57dcc328fec6bf35a1ba206ca152e9c2e0ae.jpg",
+        "table_caption": [
+            "表2数据集中专利文档和句子的数量分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>文档数量</td><td>句子数量</td></tr><tr><td>训练集</td><td>606</td><td>2567</td></tr><tr><td>验证集</td><td>202</td><td>878</td></tr><tr><td>测试集</td><td>202</td><td>786</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "知识实体识别实验共设计了两个实验任务：模型性能对比实验和标注数据依赖性实验，分别用来验证该技术路径在提升模型性能和减少对标注数据依赖性上的有效性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）模型性能对比实验",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用BERT-softmaX、BERT-CRF典型架构构建实体识别模型，开展对比实验，以实现最优性能。实验要素设置如表3所示。为实验得到表现最佳的实体识别模型，将上述不同的实验要素分别进行组合，一共得到4个深度学习模型进行实验，模型在实体识别任务中的性能表现如表4所示。其中BiLSTM-CRF+MH-46K模型是TFH-2020专利数据集论文中采用的实体识别模型。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec46de5dbecb75fc18c2c07b012b22cc274fb5945e4a4a6f163d6878a7c39c90.jpg",
+        "table_caption": [
+            "表4实体识别模型的实体识别效果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>要素1</td><td>要素2</td></tr><tr><td>BERT预训练语言模型参数</td><td>BERT</td><td>BERT-MH</td></tr><tr><td>下游神经网络</td><td>softmax</td><td>CRF</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fa3718a9a884bb5e59aab714aa5f1627e0c7fa0750a4530dc497a028162cc7a.jpg",
+        "table_caption": [
+            "表3不同的对比实验要素"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型设置</td><td>Precision</td><td>Recall</td><td>F1</td></tr><tr><td>BiLSTM-CRF+MH-46K</td><td>78.0%</td><td>78.0%</td><td>78.0%</td></tr><tr><td>BERT+softmax</td><td>82.32%</td><td>84.00%</td><td>83.16%</td></tr><tr><td>BERT-MH+softmax</td><td>82.76%</td><td>83.93%</td><td>83.34%</td></tr><tr><td>BERT+CRF</td><td>84.44%</td><td>84.04%</td><td>84.24%</td></tr><tr><td>BERT-MH+CRF</td><td>84.99%</td><td>84.87%</td><td>84.93%</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从实验结果可以看出，BERT-MH+CRF模型在面向薄膜磁头技术领域的专利实体识别任务中实现了最优性能，证明本研究提出的“预训练 $^ +$ 继续预训练 $\\cdot ^ { + }$ 微调技术路径可以有效提升专利实体识别模型的性能。进一步分析上述实验结果，可以得到以下3点结论：1)本实验采用的模型架构与数据集论文中采用的BiLSTM-CRF+MH-46K架构相比有较大的性能提升，在一定程度上说明动态词嵌入可以比静态词嵌入学习到更多的特征知识；2）相同下游神经网络模型下，BERT-MH模型的性能优于BERT模型，说明在面向领域任务时，利用特定领域的未标注语料对BERT模型进行继续预训练，是提升下游模型性能的一种有效方式；3）相同BERT预训练语言模型下，CRF模型的性能优于softmax，说明面向具体任务时，依旧可以通过融合其他网络的方式改善模型的性能。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）标注数据依赖性实验",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于上述性能表现最优的BERT-MH+CRF 模型，分别用 $50 \\%$ 、 $40 \\%$ 、 $30 \\%$ 、$20 \\%$ 、 $10 \\%$ 的标注数据重复上述实体识别实验。在训练过程中，除epochs 参数有差异外，模型其它参数设置均相同。采用微平均和宏平均两种方式对实体识别结果进行评估，实验结果如表5和图7所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9dea2b54ff34171fa0d6555c4622e6f0e1fd9bfb4c9400deeab7d3e1a01e93d9.jpg",
+        "table_caption": [
+            "表5不同标注数据体量下模型的实体识别效果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">标注数 据体量</td><td rowspan=\"2\">epochs</td><td colspan=\"3\">Micro-average</td><td colspan=\"3\">Macro-average</td></tr><tr><td>Precision</td><td>Recall</td><td>F1</td><td>Precision</td><td>Recall</td><td>F1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9b7121233c4d5ce11059bdd20fb234e1f3c8c386e3837d7ca67a4ffb0436294.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>100%</td><td>10</td><td>84.99%</td><td>84.87%</td><td>84.93%</td><td>69.27%</td><td>68.38%</td><td>68.42%</td></tr><tr><td>50%</td><td>20</td><td>83.03%</td><td>84.35%</td><td>83.69%</td><td>58.05%</td><td>55.36%</td><td>55.50%</td></tr><tr><td>40%</td><td>50</td><td>79.35%</td><td>79.66%</td><td>79.50%</td><td>64.74%</td><td>60.19%</td><td>60.94%</td></tr><tr><td>30%</td><td>40</td><td>78.63%</td><td>79.54%</td><td>79.08%</td><td>55.62%</td><td>52.27%</td><td>52.45%</td></tr><tr><td>20%</td><td>70</td><td>79.59%</td><td>81.27%</td><td>80.42%</td><td>56.73%</td><td>52.32%</td><td>52.77%</td></tr><tr><td>10%</td><td>250</td><td>81.04%</td><td>81.22%</td><td>81.13%</td><td>46.41%</td><td>43.81%</td><td>44.40%</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "100.00%90.00%$8 0 . 0 0 \\%$ $7 0 . 0 0 \\%$ $6 0 . 0 0 \\%$ mn$5 0 . 0 0 \\%$   \n（204号 $4 0 . 0 0 \\%$ $3 0 . 0 0 \\%$ $2 0 . 0 0 \\%$ $1 0 . 0 0 \\%$ $0 . 0 0 \\%$ 100%F1(Micro) F1(Macro).…线性(F1(Micro))…线性(F1(Macro))",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "从表5和图7中可以观察到，随着标注数据体量的减小，微平均评估方式下的F1值有所下降，但降幅不大；宏平均评估方式下的F1值则降幅较大，从 $6 8 . 4 2 \\%$ （全部标注数据）下降到 $4 4 . 4 0 \\%$ （ $10 \\%$ 标注数据)。这在一定程度上说明当数据集存在严重不均衡的问题时，减少标注数据的体量，对样本量少的实体类别影响较大。但总体上可以认为，在继续预训练阶段利用大规模未标注的领域专利语料对BERT模型进行继续预训练，可以在微调阶段减少模型对标注数据的依赖。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1.4知识关系抽取实验",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（1）实体对生成",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以句子为单位遍历生成实体对（避免实体与自身组合)加入实体对候选集中，再利用实体对生成规则对实体对候选集进行过滤，删除掉显然不可能形成语义关系的实体对；对于筛选后保留的实体对，与句子中的标准关系信息进行匹配，生成正确的关系类型，对于没有任何关系类型标注的实体对，则为其分配没有关系的特殊类型。上述操作后，共生成了205,119个用于关系抽取的实体对，具体分布情况如表6所示。可以看出，no_relation类型的实体对共有183,140个，占总数的 $89 . 3 \\%$ ，关系类型的样本分布极端不平衡，这给关系抽取模型的训练带来了极大的挑战。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/1298d8d80758dd6bec044da8613f38aa0a547a6ad43a3c5f2b253200a3ffc564.jpg",
+        "table_caption": [
+            "表6数据集中实体对的数量分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>实体对总数</td><td>no_relation类型的实体对数量</td></tr><tr><td>训练集</td><td>122,890</td><td>110,873</td></tr><tr><td>验证集</td><td>40,423</td><td>36,161</td></tr><tr><td>测试集</td><td>41,806</td><td>36,106</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "实验采用BERT-softmax 典型架构构建关系抽取模型。BERT 预训练语言模型选择原始BERT模型和继续预训练得到的磁头领域BERT-MH模型。将BERT模型和BERT-MH模型分别与softmax分类器进行组合，以期实验得出最佳的关系抽取模型。经过训练后，模型在测试数据集上的性能表现如表7所示。其中BiGRU-HAN模型是TFH-2020专利数据集论文中所采用的关系识别模型。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/b5eadb4f7e3281e09c1f2435bb2c728d46be34d245e250e4e4996410c0904cca.jpg",
+        "table_caption": [
+            "表7关系抽取模型的整体评估结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Precision</td><td>Recall</td><td>F1</td></tr><tr><td>BiGRU-HAN withno relation</td><td>87.9%</td><td>87.9%</td><td>87.9%</td></tr><tr><td>BiGRU-HAN withoutnorelation</td><td>41.5%</td><td>41.5%</td><td>41.5%</td></tr><tr><td>BERT+softmax withno relation</td><td>89.15%</td><td>89.15%</td><td>89.15%</td></tr><tr><td>BERT+softmax without no relation</td><td>63.56%</td><td>63.56%</td><td>63.56%</td></tr><tr><td>BERT-MH+softmax</td><td>89.70%</td><td>89.70%</td><td>89.70%</td></tr><tr><td>withno_relation BERT-MH+softmax withoutno_relation</td><td>63.70%</td><td>63.70%</td><td>63.70%</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表7中的“withnorelation”行是同时考虑“norelation”类别而获得的评测数据，在BERT-MH+softmax模型上F1值达到了 $89 . 7 \\%$ 。但是，本文真正关注的是表7中“withoutno_relation”行的评测结果，它们更真实地反映了模型在专利关系抽取任务中的性能。可以看到，BERT-MH+softmax 模型在该任务中取得了最优的性能，F1值为 $6 3 . 7 \\%$ ，略高于BERT $^ { \\circ } +$ softmax模型的 $6 3 . 5 6 \\%$ ，大幅高于BiGRU-HAN模型的 $41 . 5 \\%$ 。这说明：采用“预训练 $^ +$ 继续预训练 $^ +$ 微调”的技术路径可以有效提升关系抽取模型的性能；与通用领域的BERT词嵌入相比，特定领域的BERT词嵌入在面向领域的任务中能更好地提升下游模型的性能。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "同时值得一提的是，BERT-MH+softmax 关系抽取模型的F1表现仍没有达到关系抽取模型的上游水平，可能的原因如下：1）专利文本中包含的实体要比通用文本多得多，导致无关系实体对的比例比普通文本大得多，给模型训练带来难度。2）流水线方法的错误传播问题，错误的实体识别结果不可避免地会导致语义关系抽取的错误，降低模型性能。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2薄膜磁头技术领域TRIZ分析矩阵构建实证研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "应用上述薄膜磁头技术领域专利知识抽取模型—一BERT-MH+CRF实体识别模型和BERT-MH+softmax关系抽取模型，开展薄膜磁头技术领域TRIZ分析矩阵构建实证研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 薄膜磁头技术领域知识图谱模式层设计",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "薄膜磁头技术专利的主要内容通常是关于磁头的系统结构、工作机制及其组成部分的位置、属性、材料构成等。因此，对应于薄膜磁头技术领域，技术问题通常指专利的研究对象，包括物质流、信息流、能量流；技术方案通常指薄膜磁头的系统结构，包括系统中组件的属性、形状、材料、位置等；技术功能指磁头系统所实现的功能；技术效果指系统的影响、效果，以及所产生的结果。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在此基础上，本文参考TFH-2020数据集中定义的实体和关系类型，明确薄膜磁头技术领域知识图谱的实体类别为：物质流、信息流、能量流、系统、组件、属性、形状、材料、位置、功能、效果、结果，共12类知识实体。知识实体与技术问题、技术方案、技术功能、技术效果4大知识要素的对应关系见表8。明确薄膜磁头技术领域知识图谱的关系类别为：别名、位置关系、部分关系、因果关系、构造、属性、以.....方式、形成、操作、目的，共10 类知识关系。最终构建得到的薄膜磁头技术领域知识图谱概念模型如图8所示。",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d58babffd33a287a4523503240b14f26c66ffc150f624f359417da1b4757126.jpg",
+        "table_caption": [
+            "表8语义功能类型与实体类型的对应关系"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>语义功能类型</td><td>实体类型</td></tr><tr><td>技术问题</td><td>物质流、信息流、能量流</td></tr><tr><td>技术方案</td><td>系统、组件、属性、形状、材料、位置</td></tr><tr><td>技术功能</td><td>功能</td></tr><tr><td>技术效果</td><td>效果、结果</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b2e706ae032e2b5a6a728dd8c200d40836e9d7d4334443c9544be12cfe803b8.jpg",
+        "img_caption": [
+            "图8面向TRIZ分析矩阵的薄膜磁头技术领域知识图谱概念模型图"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. 2. 2 薄膜磁头技术领域专利数据获取",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在德温特创新索引数据库中以“thin filmmagnetic head”（薄膜磁头）作为检索词，在标题字段中进行检索，共检索得到1732篇与薄膜磁头技术相关的专利",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "记录（包含标题和摘要信息）。经数据清洗和统计后，得到文件大小为2.88MB 的专利数据文档，作为薄膜磁头技术领域TRIZ分析矩阵构建的专利语料。该语料共包括15,666 条有效句，372,650个词，句子平均长度为23.8个词。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.3知识实体识别和关系抽取结果",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "完成数据预处理后，调用BERT-MH+CRF模型对薄膜磁头技术领域专利语料开展实体识别，识别共得到70.844个实体，实体类别的数量分布如表9所示。完成实体识别后，共生成335,596个实体对。关系抽取实验调用BERT-MH+softmax模型进行，识别得到的关系类别数量分布如表10所示。",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/f29c0cc4b49d91e17706c06c4ef2a99d877915d4113b8bbeb83fbba5081007f4.jpg",
+        "table_caption": [
+            "表9实体类别的数量分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>实体类型</td><td>数量</td><td>实体类型</td><td>数量</td></tr><tr><td>物质流</td><td>422</td><td>位置</td><td>7881</td></tr><tr><td>信息流</td><td>352</td><td>形状</td><td>1587</td></tr><tr><td>能量流</td><td>3456</td><td>材料</td><td>6434</td></tr><tr><td>系统</td><td>2279</td><td>功能</td><td>3591</td></tr><tr><td>组件</td><td>37008</td><td>效果</td><td>1585</td></tr><tr><td>属性</td><td>5995</td><td>结果</td><td>254</td></tr><tr><td></td><td>表10</td><td>关系类别的数量分布</td><td></td></tr><tr><td>关系类型</td><td>数量</td><td>关系类型</td><td>数量</td></tr><tr><td>位置关系</td><td>9243</td><td>因果关系</td><td>914</td></tr><tr><td>属性</td><td>7220</td><td>以......方式</td><td>792</td></tr><tr><td>目的</td><td>2379</td><td>构造</td><td>1598</td></tr><tr><td>部分关系</td><td>9401</td><td>形成</td><td>427</td></tr><tr><td>操作</td><td>1623</td><td>别名</td><td>597</td></tr><tr><td>no_relation</td><td>301402</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2.4薄膜磁头技术领域知识图谱构建",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "对上述知识实体和知识关系的抽取结果进行简单融合，通过构建实体ID_Name 对应表保证每一个实体都有唯一的ID与之对应，简单去重后得到的实体数量为14,014个，进一步剔除“no_relation”关系后，得到的有效关系数量为20,863条。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "将去重后得到的实体集合和关系集合结构化保存并赋予相应标签，录为CSV格式文件存储。利用 Neo4j 图数据库提供的 neo4j-admin import 工具批量导入CSV格式的实体文件和关系文件，成功导入14,014个实体节点和20,863个关系，构建得到的薄膜磁头技术领域知识图谱如图9（左）所示。可以发现，薄膜磁头技术领域知识图谱整体呈现聚集状，只有少数实体关系分散在周围。图9（右）则展示了薄膜磁头技术领域知识图谱的实体和关系结构细节。",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/57b313c3004c98dd357bdc3ce70f494c62e40876e46e76e73cd316ea6979c3cb.jpg",
+        "img_caption": [
+            "图9薄膜磁头技术领域知识图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.2.5 薄膜磁头技术领域TRIZ分析矩阵构建",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "记录密度和频率是评价薄膜磁头性能的重要指标，基于此，本文围绕“如何提高薄膜磁头的记录密度和频率”这一技术创新需求开展TRIZ分析矩阵构建示范。首先，明确该技术创新需求追求的技术功效为薄膜磁头的高记录密度和频率。因此，以“high recording density and frequency”（高记录密度和频率）作为关键词，在构建得到的薄膜磁头技术领域知识图谱中进行查询，查询语句为:“match(x)where x.name $\\mathbf { \\Sigma } ^ { = 1 }$ high recording density and frequency' return x\"。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "查询得到“高记录密度和频率”实体，发现“发明的薄膜磁头”实体与该实体直接关联，进一步扩展与“发明的薄膜磁头\"实体相关联的实体，发现“宽度”、“磁极部分”、“轨道变窄”、“示意结构”实体与其直接相关，由此推断磁极部分是该薄膜磁头实现高记录密度和频率的关键组件，于是继续拓展与“磁极部分”实体相关联的实体。拓展后发现关联实体较多，于是人工对关联实体的相关程度进行判别，删除关联性较小的实体，保留重要实体。经上述关系扩展和数据规范操作后，最终得到的查询结果如图10所示。",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a864eec0b04625df2299b842c7fefb1159a0db8ebb08cc7b61739daf64bf66c.jpg",
+        "img_caption": [
+            "图10薄膜磁头技术领域知识图谱查询结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "从查询结果中可以看出，“高记录密度和频率”实体与“发明的薄膜磁头”实体直接相关，“发明的薄膜磁头”实体又与“示意结构”、“磁极部分”、“宽度”“轨道变窄”等实体直接相关。因此，本文面向上述重要知识实体和关系构建TRIZ分析矩阵，构建结果如表11所示。",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/dd1d33f9d8b3e1df0031fce02ef78ba48dc7555d95a68697a51aa9462441fef4.jpg",
+        "table_caption": [
+            "表11薄膜磁头技术领域 TRIZ 分析矩阵"
+        ],
+        "table_footnote": [
+            "对上述TRIZ分析矩阵进行分析，可以发现“高记录密度与频率”的效果和"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>发明的薄 膜磁头 （组件）</td><td>示意结构 （系统）</td><td>磁极部分 （组件）</td><td>宽度 （属性）</td><td>轨道变窄 （结果）</td><td>高记录密 度和频率 （效果）</td></tr><tr><td>发明的薄 膜磁头 （组件）</td><td></td><td>部分关系</td><td>部分关系</td><td>目的</td><td>目的</td><td>目的</td></tr><tr><td>示意结构 （系统）</td><td>部分关系</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>磁极部分 （组件）</td><td>部分关系</td><td></td><td></td><td>属性</td><td></td><td></td></tr><tr><td>宽度 （属性）</td><td>目的</td><td></td><td>属性</td><td></td><td></td><td></td></tr><tr><td>轨道变窄 （结果）</td><td>目的</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高记录密 度和频率 （效果）</td><td>目的</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "“轨道变窄”的结果、“宽度”属性同时出现，而上述目的的实验实现又与“薄膜磁头”的“磁极部分”组件相关，这提示高记录密度与频率可能与磁极部分轨道的宽度有关，减小薄膜磁头磁极部分轨道宽度可以作为提高磁头记录密度和频率的探索方向之一。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5 结语 ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "本文针对传统人工构建系统相互作用分析矩阵存在的速度慢、代价高、知识要素不足等问题，提出TRIZ分析矩阵智能构建方法研究。在TRIZ创新理论的指导下，面向特定领域拓展系统相互作用分析矩阵的知识内容，定义知识实体和关系类别，完成面向TRIZ分析矩阵的领域知识图谱模式层设计；基于“预训练$^ +$ 继续预训练 $\\cdot ^ { + }$ 微调”的技术路径，采用BERT预训练语言模型技术，从专利文献中自动识别知识实体和关系，构建领域知识图谱；面向具体需求，从领域知识图谱中自动查询和读取所需要的知识实体和关系，最终实现TRIZ分析矩阵的自动构建。经实证验证，所提出的方法可以实现TRIZ分析矩阵自动构建的目标，可以为技术创新提供有效的知识支持。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "但本研究仍存在一定的局限性：（1）本文基于流水线方法开展实体识别和关系抽取实验，存在错误传播问题等问题；（2）本文在基于领域知识图谱构建 TRIZ分析矩阵的过程中，主要是基于交互式查询的方式获取所需的知识实体和关系信息，缺乏知识推理技术的应用，无法揭示实体间潜在的知识关联；（3）本文构建的 TRIZ分析矩阵在质量上仍存在不足。未来将引入知识推理技术，深入挖掘图谱中实体间潜在的知识关联，提高TRIZ分析矩阵的质量，为技术创新提供更多线索。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[1] 曾蓓，吕建秋．基于CiteSpace 的国内 TRIZ 研究热点及前沿分析[J]．科技管理研究,2019,39(18):260- 265.   \n[2]Kiela D,Guo Y,Stenius U,etal. Unsupervised discovery of information structure in biomedicaldocuments[J], 2015,31(7): 1084-1092.   \n[3]Guo Y,Silins I, Stenius U,et al.Active learning-based information structureanalysisoffullscientificarticles and two applications for biomedical literature review[J],2013,29(11): 1440-1447.   \n[4] Guo Y,Reichart R,Korhonen A.Improved information structure analysis of scientific documents through discourse and lexical constraints[C].Proceedings of the 2O13 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies,2013: 928-937.   \n[5] Mccallm A,Li W.Earlyresults for named entity recognition with conditional random fields,feature induction and web-enhanced lexicons[J],2003.   \n[6] Isozaki H,Kazawa H.Efcient support vector classfiers for named entity recognition[C]. COLING202: The 19th International Conference on Computational Linguistics, 2002.   \n[7]Lample G,Ballesteros M,Subramanian S,etal.Neural architectures for named entity recognition[J],2016. [8] Yoon W,SoC H,Lee J,et al. Collabonet: collboration of deep neural networks forbiomedical named entity recognition[J],2019,20(10): 55-65.   \n[9] 余丽，钱力，付常雷，等．基于深度学习的文本中细粒度知识元抽取方法研究[J]．数据分析与知识发现, 2019,3(01): 38-45.   \n[10] Gao H, Gui L,Luo W. Scientific literature based big data analysis for technology insight[C]. Journal of Physics: Conference Series,2019:032007.   \n[11] Devlin J, Chang M-W,Lee K, et al. Bert: Pre-training of deep bidirectional transformers for language understanding[J],2018.   \n[12] Lee J, Yoon W,Kim S,et al. BioBERT: a pre-trained biomedical language representation model for biomedical text mining[J],2020,36(4):1234-1240.   \n[13]Zhang X, Zhang Y,Zhang Q,et al. Extracting comprehensive clinical information for breast cancer using deep learning methods[J],2019,132:103985.   \n[14]Wu S,He Y.Enriching pre-trained language model with entity information for relation classification[C]. Procedings of the 28th ACM international conference on information and knowledge management,2019: 2361- 2364.   \n[15]唐晓波，刘志源．金融领域文本序列标注与实体关系联合抽取研究[J]．情报科学,2021,39(05):3-11. [16]Tsourikov VM, Batchilo L S, Sovpel I V.Document semantic analysis/selection with knowledge creativity capability utilizing subject-action-object (SAO) structures: Google Patents,2000.   \n[17]胡正银，刘春江，隗玲，等．面向 TRIZ 的领域专利技术挖掘系统设计与实践[J]．图书情报工作,2017, 61(01): 117-124.   \n[18] Kim H,Hyeok Y,KimK.Semantic SAO network ofpatents for reusabilityof inventive knowledge[C].2012 IEEE International Conference on Management of Innovation & Technology (ICMIT),2012: 510-515.   \n[19]李晓曼，张学福，宋红燕，等．专利文献技术要素识别方法研究——以纳米肥料领域为例[J]．图书情报 工作,2020,64(06): 59-68.   \n[20]李卫超．面向专利的功能信息抽取方法的研究[D].河北工业大学,2013.   \n[21]Nanba H,Kondo T,Takezawa T.Automatic creation of a technical trend map fromresearch papers and patents[C].Proceedings of the 3rd international workshop on Patent information retrieval,2Ol0: 11-16. [22] 赖英旭，李亚娟，刘静．基于本体的水稻育种方法应用知识库构建[J]．北京工业大学学报,2019, 45(12): 1181-1191.   \n[23]张娴，胡正银，茹丽洁，等．专利技术供需信息关联知识组织模式研究[J]．图书情报工作,2016,60(08): 118-125.   \n[24] Gururangan S,Marasovic A,Swayamdipta S,et al. Don't stop pretraining: adapt language models to domains and tasks[J],2020.   \n[25] Chen L,Xu S,ZhuL,etal. A deep learning based method for extracting semantic information from patent documents[J],2020,125(1):289-312. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

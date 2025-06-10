@@ -1,0 +1,231 @@
+[
+    {
+        "type": "text",
+        "text": "Template-free fabrication of Ag nanowire arrays/Al2O3 assembly with flexible collective longitudinal-mode resonance and ultrafast nonlinear optical response ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shuai Hui1,2, Junhua Gao², Xingzhi Wu³, Zhongguo $\\mathsf { L i } ^ { 3 }$ , Yousheng Zoul, Yinglin Song³ and Hongtao Cao² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School of Materials Science and Engineering,Institute of Optoelectronics and Nanomaterials, Nanjing University of Science and Technology,Nanjing,Jiangsu 21O094,People's Republic of China 2Division of Functional Materials and Nano Devices,Ningbo Institute of Material Technology and Engineering,Chinese Academy of Sciences,Ningbo 3152O1,People's Republic of China 3 Department of Physics, Harbin Institute of Technology, Harbin 150001,People's Republic of China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E-mail: yshzou75@ mail.njust.edu.cn, ylsong @hit.edu.cn and h_cao@nimte.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received11February2016,revised19April 2016   \nAccepted for publication 25 April 2016   \nPublished 23 May 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f40decf203514752a6d8c9a93f6594b324d0e4281d65be6810452e2473fcbf9d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We utilized a co-sputtering technique without any templates,featuring growing and etching synchronously, to delicately fabricate dense and ultrafine $\\mathrm { A g }$ nanowire arrays/alumina matrix composite films.Both the diameter and separation distance of the Ag nanowire arrays in the composites are not only within the scope of sub $1 0 \\mathrm { n m }$ but also tunable,which is very hard to accomplish for the conventional optical lithography- or template-based method. It is exhibited that the collective longitudinal plasmon resonance of the composite films,covering a wide range from visible to the near infrared region, is extremely sensitive to the geometrical parameters of the Ag nanowires,owing to the strong plasmonic coupling among neighboring nanowires.The experimental observations were also theoretically supported by the near-field electromagnetic numerical simulation.More interestingly, the fabricated composite films demonstrated ultrafast nonlinear optical response in the visible light region under femtosecond laser excitation,possessing a short relaxation time of 1.45 ps for the longitudinal mode 0 $L$ mode) resonance. These results indicate that the proposed composite films as a building block with exotic optical properties could provide an opportunity to construct integrated nanodevices for plasmonic optical applications. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: magnetron sputtering,nanowire arrays,surface plasmon resonance, ultrafast optical response ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S Online supplementary data available from stacks.iop.org/JPhysD/49/25LT02/mmedia (Some figures may appear in colour only in the online journal) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Surface plasmon resonance (SPR),which originates from the collective oscillation of free-electrons,can be inspired at the metal-dielectric interface under light irradiation [1]. SPR phenomena have been widely explored in various metallic nanostructures (such as noble metal nanoparticles or nanowires),and their intriguing features are therefore applied to many fields including surface-enhanced Raman scattering (SERS) [2], plasmon-enhanced photoluminescence [3], photocatalysis [4],and so on. Basically, the intrinsic characters (permittivity and morphology) of those nano crystals and the dielectric environment can subtly influence the SPR behaviors (resonance frequency, peak width, intensity, etc） [1, 5]. Thus,the manipulation of the resonance is easy to engineer through different strategies. Recently, one-dimensional (1D) metal nanorod arrays/ceramic composites have attracted much atention [6,7] due to their anisotropic optical properties.These composites,also acting as potential metamaterials,cover a broad range of applications in nonlinear optics [7], ultrafast optical response [8], negative refraction [9,10], and so on.Their optical features are highly sensitive to the aspect ratio ( $\\circeq$ length/diameter) and spacing of the nanorods, which is associated with the electromagnetic field distribution and near-field coupling between individual nanorods [11]. It has been demonstrated that the reduction in the internanorod distance leads to the electric field evolution from being localized at the nanorod extremities to being delocalized, thus the electromagnetic energy flow can be propagated from one nanorod to another in the direction perpendicular to their long axes [12]. In addition,investigations on surfaceplasmon-involved dipole interactions occurring between individual nanoparticles and metallic surfaces also indicate that the small gap distance $( < 1 0 \\mathrm { n m } )$ between nanostructures plays a critical role on strengthening the near-feld coupling [13,14]. Owing to intensive surface interactions or even quantum confinement, metal nanowires with varying feature size may exhibit remarkably different optical performances. For deeper exploitation of the plasmonic properties of the nanorod/ceramic composite,it is highly desirable to tune both the diameter and spacing of nanowire (nanorod) arrays into the sub- $1 0 \\mathrm { n m }$ scope, in order to take advantage of the strong coupling among the ultrafine and dense nanowires as well as their quantum nature.Currently, the preparation of metal nanorod/ceramic composite films often needs a template,and then the nanorod arrays are grown by electrochemical deposition [15-17] Thismethodi convenient preparewellaligned metal nan arraysembeddedinsidethealumina matrix.However whetherthediamete the nanorods or theirspacingdistan veraltens of nanometers scale, orevenlarger.Thisundoubtedlyleads tc the fact thatwe cannotgetacces understandingtheunig SPR features of the nanorod/ceramic composites where both the diameter and spacing of the nanorod arrays are in ralnanometersscale, just limited by the template used. On the other hand, the large-scale fabrication on insulating substrates is also a challenge for the electrochemical deposition method,in which the conductive supporting material is a prerequisite. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this letter,we propose and develop a simple but effective method to prepare ultrafine and dense silver nanowire arrays/alumina composite films.The method is based on RF magnetron co-sputtering technique combining with substrate biasing. In detail, $\\mathrm { A g }$ nanowire arrays/ ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ composite films were deposited onto quartz glasses at room temperature by a multitarget magnetron sputtering system (Jsputter8ooo,manufactured by ULVACCo., Ltd.). Highly pure $\\mathrm { A g }$ (purity $= 9 9 . 9 9 \\%$ and ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ targets (purity $= 9 9 . 9 9 \\%$ )were used as the sputtering sources.Prior to deposition,the substrates were ultrasonically cleaned in an ultrasonic agitator by using alcohol and acetone.After loading the substrates into the vacuum chamber, the chamber was pumped down to a base pressure less than $2 \\times 1 0 ^ { - 4 } \\mathrm { P a }$ Both $\\operatorname { A g }$ and ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ targets were operated by two RF power supplies,and a RF self-bias was also loaded onto the substrate simultaneously. The sputtering pressure was kept at $0 . 2 2 \\mathrm { P a }$ 、With this method, it is tunable and controllable to modify the size and arrangement of silver nanowires in the composite films.Fox example,the average diameter and spacing distance of the nanowires can be as small as $2 \\mathrm { n m }$ ： Besides,compared with the electrodepositing method, the magnetron sputtering technique is cost-effective and easy scale up for mass production, independent of substrate materials.Moreover, the sputtering process is environmentally friendly, since no chemical additives are necessary.Based on the success in fabricating composite films with anisotropic microstructure,both the linear spectral response and nonlinear dynamic response can be delicately engineered by adjusting the nanowire aspect ratio and the separation between nanowires in the assembly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In our experiments，Ag nanowire arrays,with wellaligned arrangement in the alumina matrix,were deposited on quartz glasses in Ar atmosphere by radio frequency (RF) bias assisted sputtering deposition. Both $\\mathbf { A } \\mathbf { g }$ and $\\mathrm { { A l } } _ { 2 } \\mathrm { { O } } _ { 3 }$ targets were operated by RF power supplies,and a RF self-bias was loaded onto the substrate simultaneously.Figure 1(a) shows the transmission electron microscopy（TEM） image of the composite film,as schematically illustrated in figure 1(c). Figure 1(b） illustrates the high resolution TEM (HRTEM) image of a representative Ag nanowire.The TEM results indicate that during the co-sputtering process, the $\\operatorname { A g }$ clusters nucleate rapidly,and then preferentially grow along the [111] crystal direction $( d _ { 1 1 1 } = \\dot { 2 } . 3 5 9 \\mathrm { ~ \\AA ~ }$ ，PDF $\\# 6 5 \\substack { - 2 8 7 1 } ,$ to form well-aligned nanowires within the alumina host matrix.Of course,the appropriate self-bias condition ( $- 8 0 \\mathrm { V }$ in our case) is also indispensible to achieve such orientation growth of $\\operatorname { A g }$ nanowires,owing to the selective etching on the growing facets of $\\operatorname { A g }$ . This etching growth strategy is a dynamic progress actually,and the survival growth along the [111] crystal direction is maintained to the maximum,resulting in the so-called template-free fabrication of dense and ultrafine $\\mathrm { A g }$ nanowire arrays $/ \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ composite films eventually.Ion bombardment has been proved to be an effective way to regulate the microstructure of deposited films.As reported previously [18,19],suitable Ar ion bombardment can induce preferential growth of $\\mathrm { A g } ( 1 1 1 )$ and even facilitate the fabrication of densely distributed Si nanorods.Based upon the above microstructural characterization and some related discussions,the growth process for the $\\operatorname { A g }$ nanowire arrays in the ceramic matrix can be briefly illustrated as follows: during deposition processes,due to the low solubility of $\\mathrm { A g }$ in ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ ,the phase separation is thermodynamically favorable for the metallic $\\mathrm { A g }$ and ceramic ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ mixed phase.Meanwhile,with the aid of the RF self-bias,energetic ion bombardment could motivate the well-ordered separation between the $\\mathrm { A g }$ and $\\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ phase, resulting in the self-organized growth of $\\mathrm { A g }$ nanowire arrays in the composites.Actually, the growth mechanism is quite complicated and needs further clarification,which will be reported elsewhere inmore detail.The TEMobservationsalso demonstrate that this conventional PVD (physical vacuum deposition)-based deposition method, independent of template usage,is flexible to tune the microstructural features of the Ag nanowire arrays,as manifested in figure S1 (supporting information (stacks.iop.org/JPhysD/49/25LT02/mmedia)). In particular,for example,we are capable of making high density and ultrafine Ag nanowire arrays,in which both the diameter and spacing of the Ag nanowire arrays are less than $8 \\mathrm { n m }$ and the aspect ratio is larger than 3O,as shown in figure 1(a).In this case,it is beyond the capability for the template method to obtain sucha structure.Compared with the Ag nanorod arrays/ alumina films prepared by the anodic aluminum oxide (AAO) template method[2O], the microstructural anisotropic feature of our samples is more prominent, providing an opportunity to probe their as-expected anisotropic optical properties. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0624f916c34f30a0775ec379edd6c947c13f95b03a084655f87febac8feabfd.jpg",
+        "img_caption": [
+            "Figure1.(a) TEMand(b) HRTEMcross-section of $\\mathrm { A g }$ nanowire arrays $/ \\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ composite film.(c) Schematic diagram of the composite film.(d) Angle-dependent optical density spectra of the composite films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1(d) illustrates the linear (steady state） optical spectroscopy of the composite film,and the optical density (OD)is calculated by $\\mathrm { O D } = - \\mathrm { l o g } ( T )$ ，where $T$ is the transmittance.The transmission spectra were recorded at different incidence angles using an ellipsometer(Woollam M2o00DI, $0 . 2 5 \\mathrm { - } 1 . 7 ~ \\mu \\mathrm { m } )$ ,in which the probe source is $p$ -polarized light. The angle between the incident light and the nanowire was varied by rotating the sample.When the angle was $0 ^ { \\circ }$ ,the incident light was parallel to the normal of the sample surface.As the incident angle is changed,apart from the transverse $( T )$ （204号 resonance located at ${ \\sim } 3 7 0 \\mathrm { n m }$ ,a second peak assigned to the $L$ mode resonance is also observed,consistent with the previous reports [11,16]. For the oblique incidence of the $p$ -polarized light, the incident electric field has both a perpendicular component and a parallel one with respect to the axis direction of the $\\operatorname { A g }$ nanowire,which leads to anisotropic polarization and the presence of the $L$ mode resonance.The angular-sensitive optical property is naturally connected with the microstructure anisotropy of the composite film. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By means of appropriate in situ adjustment of some sputtering parameters (i.e.Ag target power and substrate bias), it is very convenient to precisely tailor the composite films' SPR spectral features,which is stemming from microstructural variations.Figure 2(a) depicts the SPR spectra of three typical composite films deposited under different conditions, with the same incident angle of $4 5 ^ { \\circ }$ for optical measurements. The Ag target power was changed ranging from 1O to 8W (i.e.10, 9, 8W),meanwhile the power of the ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ target and substrate bias was fixed at l2O and $4 5 \\mathrm { W }$ ，respectively.The deposition time was set to be $4 \\mathrm { h }$ ,in order to maintain almost the same film thickness (the length of nanowires).According to the statistics from the TEM observations (supporting information),as the power of the $\\mathrm { A g }$ target reduced from 10 to $8 \\mathrm { W }$ the variation of the nanowire length (kept at around $1 2 0 \\mathrm { n m } ,$ 1 could be ignored,while the average diameter of the nanowires and the center-to-center spacing between neighbouring nanowire arrays was tuned from $3 . 4 \\pm 0 . 4$ to $2 . 7 \\pm 0 . 4 \\mathrm { n m }$ (the aspect ratio was ranging from ${ \\sim } 3 0$ to ${ \\sim } 5 0 _ { . }$ ）and from 6 to $8 \\mathrm { n m }$ ,respectively.Although the variations in microstructure were in the nanoscale order of magnitude, the sensitive response (red-shift) from the longitudinal resonance can beclearlyidentified,as manifested in figure 2(a).Different from the negligible blue-shift of the $T$ mode resonance peak position, the $L$ mode resonance peaks underwent a conspicuous red-shift from 540 to $8 4 0 \\mathrm { n m }$ .Inaddition, the $L$ resonance peakintensity and half-width were also subjected to obvious change.More interestingly, the $L$ resonance peak position can even enter into the near-infrared region, ${ \\sim } 1 1 0 0 \\mathrm { n m }$ ,as seen in the inset to figure 2(a). The corresponding sample was fabricatedby increasing the substrate biasto etch silver clusters more efficiently during the deposition process.Based on the SPR spectral analysis,the $L$ resonance peak,as the characteristic anisotropic optical signal, could be tuned efficiently in a wide range from the visible to the near infrared region by our template-free depositionmethod. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/84b413cc39e363a57e76612d54323b8c085426ab7b74bf10375d9024605d3ef3.jpg",
+        "img_caption": [
+            "Figure 2.(a) Optical density spectra of the composite films prepared under different $\\mathrm { A g }$ target power. The inset shows a spectrum of the specimen deposited at a bias power of $6 5 \\mathrm { W } .$ (b)and (c) DDA-simulated extinction spectra of $\\mathbf { A } \\mathbf { g }$ nanowire array/alumina films with different structural characters $( L , D$ and $S$ represents the length,diameter and centre-to-centre spacing of nanowires, respectively).(d) and(e) Numerical simulationsof the electric field distribution around the nanowire $\\langle L = 1 2 0 \\mathrm { n m }$ $D = 3 { \\mathrm { n m } }$ $S = 8 \\mathrm { n m }$ ） at different incident angles: $0 ^ { \\circ }$ (d) and $4 5 ^ { \\circ }$ (e). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As reported previously [21],spectral aspects of the $L$ mode resonance is closely coupled with the aspect ratio and separation distance of the metal nanorods or nanowires.In order to gain insight into the resonance absorption shown in figure 2(a),a discrete dipole approximation (DDA) simulation was carried out to confirm the position of plasmon resonances and visualize the local electric field distribution around individual nanowires.The simulation was performed by using a free-available program DDSCAT7.3 developed by Draine and Flatau [22],which is regarded as a powerful tool for describing optical behavior of the particle systems with arbitrary geometry [23,24]. In the process of simulation, the effect of separation distance and aspect ratio on the resonant position is convenient to study separately,meanwhile the length of the nanowires is kept constant,which is consistent with our experiments.The calculated results for the arrays of Agnanowires embedded in the ${ \\mathrm { A l } } _ { 2 } { \\mathrm { O } } _ { 3 }$ matrix (refractive index $n = 1 . 6$ )are shown in figures 2(b) and (c). The incident angle of the $p$ -polarized light is set to be $4 5 ^ { \\circ }$ . The optical constants of $\\mathrm { A g }$ are adopted from the literature [25]. In figure 2(b), it is observed that the extinction peak of the $L$ -modeexperiences a remarkable red-shift with increasing the centre-to-centre spacing of $\\mathbf { A } \\mathbf { g }$ nanowires.An analogous red-shift is also present in figure 2(c),as reducing the diameter of the nanowire (the aspect ratio is increased from 3O-48).The numerical simulation is in line with the experimental results of the resonant peak shift shown in figure 2(a). For an isolated metallic nanorod, the increase in the aspect ratio can weaken the intrananorod restoring forces of the $L$ -resonance-mode, giving rise to a red-shift of its resonance peak [26].As the nanorods are in a close proximity environment, the coupling between metallic nanorods interacts via the Coulomb potential [27]. For the coupling between two side-by-side nanowires,the longitudinal excited-state levels of the monomer (isolated nanorod) would be split into two levels upon dimerization,owing to two possible configurations (symmetric and anti-symmetric) of the plasmonic dipole moments [21]. Usually,the anti-symmetric resonance peaks are situated at long wavelengths that are beyond the testing range.For the symmetric case,as the center-to-center spacing of nanowires decreases, the $L$ -mode resonance frequency would shift towards higher energy levels (blue-shift), because of the boosted restoring forces along the longitudinal direction generated by the plasmonic coupling. As shown in the theoretical simulations in figure 2(b),the $L$ -mode resonance peak position is shifted from 730 to $6 0 0 \\mathrm { n m }$ under the condition that the inter-nanorod spacing is reduced slightly from 8 to $6 \\mathrm { n m }$ ，reflecting that the energy level of $L$ -mode resonance is increased by $0 . 3 7 \\mathrm { e V } .$ This‘butterfly effect' implies that the high plasmonic coupling between adjacent nanowires significantly contributed to the high sensitivity of the $L$ resonance peak position upon their microstructure trimming. That is to say, the red-shift of the $L$ resonance peak depicted in figure 2(a) is due to the increase in the aspect ratio and the separation distance between nanowires. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It also should be noted that the $L$ -mode resonance isacollective behavior,in which several differentmodes are also involved [26]. Thus,the higher order multi-pole interactions can not be ruled out,especially when the coupling between the nanowires is intensive [21].In order to further explore the essence of the $L$ plasmonic resonance mode,the electric field distribution at the resonance wavelength for the $L$ mode around the primitive cell (single nanowire) in the assembly was numerically calculated.Different from the electric field localized at the two extremities of the nanowire (the incidence angle is $0 ^ { \\circ }$ ,as shown in figure 2(d)), the electric field distribution along the trunk of the nanowire is getting more conspicuous as the incidence angle is changed to $4 5 ^ { \\circ }$ (figure 2(e)). The above simulation demonstrates that the $L$ -mode resonance presents an obvious delocalized character under $p$ -polarized light irradiation. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As illustrated in figure 2(a), the half-width of the $L$ -mode peaks and their intensity are also sensitive to the deposition parameters.With decreasing the $\\mathrm { A g }$ target power, the intensity of the corresponding optical density monotonically dropped, owing to the reduction in the volume fraction of $\\operatorname { A g }$ ,i.e.the reduction in stimuli unit(Ag nanowire).In addition,when the power of $\\mathrm { A g }$ target was reduced to 8 W, the peak half-width of $L$ -mode was significantly increased (figure 2(a)).Generally, the broadening of half-width for plasmonic resonance peaks is mainly attributed to the electron scattering or/and radiation damping[5,28]. The small average diameter of the nanowires undoubtedly brings about high surface area and small electron mean free path,which inevitablyleads to enhanced electroninterface scattering. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to the related literatures [8], in comparison with the conventional nanoparticles with typical localized resonance features, the metal nanorod arrays under pump laser pulse irradiation always display different relaxation dynamics behaviors on account of their delocalized resonance nature. To explore the nonlinear optical response for our composite films, the femtosecond transient absorption spectroscopy was recorded with a pump wavelength of $3 5 0 \\mathrm { n m }$ and a power of $1 5 ~ \\mathrm { m W }$ ，Figure 3(a) is the transient absorption mapping measured with $p$ -polarized probe light at an incidence angle of $3 0 ^ { \\circ }$ .The sample is the same as the specimen shown in figure 1(c), with an $\\mathrm { A g }$ target power of $1 0 \\mathrm { W }$ and a substrate-bias of 42 W. In the absorption map, the optical density diference $\\Delta \\mathrm { O D } = - \\mathrm { l g } ( T _ { \\mathrm { o n } } / T _ { \\mathrm { o f f } } )$ ，where $T _ { \\mathrm { o n } }$ is the transmittance of the sample with pump excitation at a certain delay time,and $T _ { \\mathrm { o f f } }$ is the transmittance at the ground state.In general, the electrons can be selectively excited to higher energy states by the pump pulse，i.e. the electron thermalization process.The heated electron gas can give rise to the spectral broadening of the plasmon band, generating transient bleach centers (blue plage in figure 3(a)) at the vicinity of the plasmon absorption maximum and absorption regions (red yellow plage in figure 3(a)) at the right wing of the ‘blench centers’[29,3O]. The optical density difference spectra recorded at different delay times are shown in figure 3(b). The bleach maximum at $5 0 0 \\mathrm { n m }$ corresponds to the cross-section of the transient response map illustrated in figure 3(a). The bleach valley located around $5 0 0 \\mathrm { n m }$ in figure 3(b) coincides with the peak position of steady-state absorption shown in figure 1(d). In figure 3(b), the transient absorption peak around $5 3 8 \\mathrm { n m }$ is at the right side of the bleach valley. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The decay dynamics of the spectral response is demonstrated in figure 3(c),in which the sample is monitored at the bleach maximum of ${ 5 0 0 } \\mathrm { n m }$ .An exponential formula was found to fit well with the dynamic decay process, upon which a relaxation time of $1 . 4 5 \\mathrm { p s }$ was generated.As a result, it is an ultrafast optical response in this case with respect to metallic nanoparticles [31,32],as seen the switching frequency is in the terahertz range.Usually, the resonance of metal nanoparticles is a typical localized behavior. When the metallic nanoparticles are excited by a pump beam, three typical fast processes are usually involved: electron-electron (e-e) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/de0a5d3494ebe6568692babf15e6577f74b735703e4c854e74f6ed599d461103.jpg",
+        "img_caption": [
+            "Figure 3.(a) Transient extinction map measured for the specimen shown in figure 1.(b) Transient extinction spectra at various time delays between pump and probe beams.(c) The decay of the transient bleach maximum at ${ 5 0 0 } \\mathrm { n m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "scattering (femto-second scale),electron-phonon (e-ph) coupling (several pico-seconds)，and phonon-phonon (ph-ph) interactions (more than 5O ps)[33].In this study, the e-e (electron-electron） scattering after pump laser excitation can be negligible for the localized- and delocalized-mode resonance, since the pulse width utilized is 19O fs,which is larger than the characteristic time of e-e scattering.For the traditional localized resonance,the energy dissipation is mainly dominated by the e-ph (electron-photon) coupling and ph-ph (photonphoton） interaction processes,and the decay of the transient bleach follows a bi-exponential behavior [5].By contrast, in our case,the predominant relaxation mechanism for the delocalized mode should be the e-ph (electron-photon） scattering,due to the single exponential fitting shown in figure 3(c). The delocalized $L$ mode of the Au nanorod arrays displayed a similar ultrafast dynamics decay $( \\sim 1 . 2 \\mathrm { p s } )$ after laser illumination [8]. In that case,a pseudo-waveguide coupling process acting as an additional energy dissipation channel among Au nanorods was put forward,which was based on the nonlocality of electric field distribution around individual Au nanorods [8,34]. For the Ag nanowire arrays in this study,owing to the obviously nonlocal character of electric field distribution around individual Ag nanowires (see figure 2(e)),a similar waveguide mode mayalso be included,which needs further clarification. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary, we developed a controllable and easy scale-up method to prepare well-ordered $\\mathrm { A g }$ nanowires/alumina composite films,in which the diameter or the inter-wire spacing of nanowires can be regulated as small as $2 \\mathrm { n m }$ .It is found that the longitudinal-mode resonance peak position of the composite films is very sensitive to the geometrical parameters of the $\\mathrm { A g }$ nanowires,i.e.even if the spacing distance only changes by $2 \\mathrm { n m }$ ，the peak position of longitudinal-mode resonance could shift more than $1 0 0 \\mathrm { n m }$ .The remarkable plasmonic resonance in response to the microstructure variations can be attributed to the strong plasmonic coupling among nanowires. Besides,thefabricatedfilmsdemonstratedultrafastnonlinear optical response under femtosecond laser excitation,and the relaxation time of $L$ -mode resonance fell into a pico-second scale, ${ \\sim } 1 . 4 5 \\mathrm { p s }$ .Owing to the flexibility (including structure and composition modulation） of our deposition method,we can expect that it is convenient to acquire ultrafast optical signal processing in the visible light and near infrared region. By taking the advantages of the magnetron sputtering technique, in the near future,one can implement more flexible design and fabrication of versatile plasmonic and metamaterial based devices. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Detailed TEM observations of the Ag nanowire array/alumina films prepared under different sputtering parameters. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Weacknowledge the financial support from the National Nature Science Foundation of China (Grant No.51302277), the Chinese National Program on Key Basic Research Project (2012CB933003)， the Applied Research Funds for Public Welfare Project of Zhejiang Province (Grant No. 2014C31148),and the Project Funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Lu X,Rycenga M, Skrabalak SE,Wiley B and Xia Y 2009 Annu. Rev. Phys. Chem. 60167   \n[2] Shan D Z, Huang L Q,Li X, Zhang W W, Wang J, Cheng L, Feng X H,Liu Y,Zhu JP and Zhang Y 2014 J. Phys. Chem. B 118 23930   \n[3] Lumdee C, Yun BF and Kik PG 2014 ACS Photonics 11224   \n[4] Liu Z W,Hou WB,Pavaskar P,Aykol M and Cronin SB 2011 Nano Lett.111111   \n[5] Link S and El-Sayed M A 1999 J. Phys. Chem.B 103 8410 [6]PollardRJ,MurphyA,Hendren WR,EvansPR and Atkinson R 2009 Phys. Rev. Lett.102 127405   \n[7] Wurtz G A,Evans PR,Hendren W, Atkinson R,Dickson W, PollardRJ,Harrison W,BowerC and ZayatsAV2007 Nano Lett. 7 1297   \n[8] Wurtz G A,Pollard R,Hendren W, Wiederrecht G P, GosztolaDJ,Podolskiy VA and Zayats A V2011 Nat. Nanotechnol.6107 [9] Yao J,Liu Z W,Liu YM,Wang Y,Sun C,Bartal G, Stacy A M and Zhang X 2008 Science 321 930   \n[10] Elser J,WangbergR andPodolskiy VA 2006 Appl.Phys.Lett. 89 261102   \n[11] Atkinson R,Hendren WR,Wurtz G A,Dickson W, Zayats A V, Evans P and Pollard R J2006 Phys. Rev. B 73 235402   \n[12] Wurtz G A, Dickson W, O'Connor D,Atkinson R, Hendren W, Evans P, Pollard R and Zayats A V2008 Opt. Express 16 7460   \n[13] Hu M, Ghoshal A,Marquez M and Kik PG 2010 J. Phys. Chem. C114 7509   \n[14] CiraciC,Chen XS,MockJJ,McGuireF,Liu XJ,Oh SH and SmithDR 2014 Appl.Phys.Lett.104 023109   \n[15] Wu Z, Zhang Y W and DuK 2013 Appl. Surf. Sci. 265 149   \n[16]Evans PR,Wurtz GA,Atkinson R,Hendren W, O'Connor D, DicksonW,PollardRJand ZayatsAV2OO7 J.Phys. Chem. C11112522   \n[17] Yin A J,Li J, Jian W,Bennett A Jand Xu JM 2O01 Appl. Phys. Lett.79 1039   \n[18] Almtoft KP,Bpttiger Jand Chevallier J2005 J. Mater. Res. 20 1071   \n[19] Gao JH,Wu L,Tu CJ,Cao HT and Jin AP 2015 Phys. Status Solidi a 212 573   \n[20] Evans PP,Kullock R,Hendren WR,Atkinson R,Pollard R J and Eng L M 2008 Adv. Funct. Mater 18 1075   \n[21]Jain PK,EustisS and El-Sayed MA2OO6 J.Phys.Chem.B 110 18243   \n[22] Draine B T and Flatau P J 2013 DDSCAT7.3 (htp://rxiv.org/ abs/1305.6497)   \n[23] Funston A M,Novo C,Davis TJand Mulvaney P 2O09 Nano Lett. 9 1651   \n[24] Maidecchi G et al 2013 ACS Nano 7 5834   \n[25] Rakic AD,Djurisic AB,ElazarJMand Majewski ML 1998 Appl. Opt.37 5271   \n[26] Aizpurua J, Bryant G W,RichterL Jand Abajo FJG 2005 Phys. Rev. B 71 235420   \n[27] Halas NJ,Lal S,Chang W S,Link Sand Nordlander P 2011 Chem. Rev. 111 3913   \n[28] Weber WHand Ford G W 2004 Phys. Rev.B 70 125429   \n[29]Perner M,BostP,LemmerU,von Plessen G and Feldmann J 1997 Phys. Rev. Lett. 78 2192   \n[30] Logunov SL,Ahmadi T S and El-Sayed MA 1997 J.Phys. Chem.B1013713   \n[31] Kamat P V,Flumiani M and Hartland G V1998 J. Phys. Chem.B102 3123   \n[32]Link S,Burda C,Wang ZL and El-Sayed MA1999 J.Chem. Phys.1111255   \n[33] Ahmadi T S,Logunov SL and El-Sayed MA1996 J.Phys. Chem. 1008053   \n[34]KauranenMand ZayatsAV2O12 Nat.Photon. 6 737 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

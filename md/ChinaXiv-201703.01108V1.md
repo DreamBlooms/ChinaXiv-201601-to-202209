@@ -1,0 +1,115 @@
+# 热输入对1200MPa级HSLA钢焊缝组织性能的影响
+
+徐彬1,2 马成勇²李 莉」　肖晓明²　王剑锋1,2
+
+1昆明理工大学材料科学与工程学院昆明650093  
+2钢铁研究总院焊接研究所北京100081
+
+摘要为了研究焊接工艺条件对焊缝金属组织性能的影响，采用不同热输入对 $1 2 0 0 \mathrm { M P a }$ 级低合金高强钢进行熔化极气体保护焊，利用OM、SEM、TEM观察并分析不同焊接热输入对焊缝组织及力学性能的影响规律。结果显示，当热输入为 $1 6 . 2 0 . 2 5 \mathrm { k J / c m }$ 时，焊缝组织主要以针状铁素体为主，并含有少量M-A组元以及粒状贝氏体。随焊接热输入增大，针状铁素体组织有所增多且板条宽度逐渐增大，而粒状贝氏体组织减少。焊缝内非金属夹杂物类型多为促进针状铁素体形核的Ti-Mn-AI-O-S系复合氧化物夹杂。焊缝金属硬度、冲击韧性及焊接接头强度随热输入增大基本呈下降趋势，并且各焊接热输入条件下焊缝金属具有良好的强韧性匹配。随热输入增大，焊缝金属断裂特征由韧性、脆性混合型断裂向脆性断裂转变。热输入为 $2 0 \mathrm { k J / c m }$ 时，焊接接头综合性能最佳。
+
+关键词金属材料，低合金高强钢，热输入，焊缝金属，显微组织，力学性能中图分类号 TG142.7 文章编号1005-3093(2017)02-0129-07
+
+# Effect of Heat Input on Microstructure and Property of Weld Joints of a 120O MPa Grade HSLA Steel
+
+XU Bin'²,MA Chengyong²,LI Li', XIAO Xiaoming², WANG Jianfeng1,2 1 College of Materials Science and Engineering,Kunming University of Science and Technology, Kunming 650093,China 2Welding Institute,China Iron and Steel Research Institute Group,Beijing lOoo81,China :respondent: LILi,associate professor, Tel: 13386316813,E-mail: kmustlili@163.com sported by Defense Industrial Technology Development Program nuscript received 2016-06-19;in revised form 2016-09-09
+
+ABSTRACTA 1200 MPa grade high-strength low-ally (HSLA) steel was welded by metal active gas (MAG)welding method with filler material of GHS50NS welding wire by three diferent heat inputs.And then the effect of heat input on microstructure and property of the weld joints was investigated by means of optical microscopy，scanning electronmicroscopy，transmission electron microscopy and mechanical tests.The results indicate that the microstructure of weld joints consists mainly of acicular ferrte,a granular bainite and small amount of M-Aby diferent heat inputs.With the increasing heat input, the amount of acicular ferite was increased and its lath width was coarsened while the amount of granular bainite decreased,and the type of non metallic inclusions which promote the nucleation of acicular ferrite in weld joints was a complex oxide-sulfide Ti-Mn-Al-O-S.The strength and hardness of the welded joint decreases with the increase of heat input,but it has a good combination of strength and toughness.Along with the increase of heat input,the morphology of the impact fracture of the weld jointchanged from fracture with mixed mode to brittle fracture.When the heat input is $2 0 ~ \mathsf { k J / c m }$ , the comprehensive performance of the welded joint is the best.
+
+KEY WORDS metalic materials, HSLA steel,heat input, weld metal, microstructure,mechanical properties
+
+20世纪80年代以来，低合金高强钢因具有较高的强度、良好的强韧性匹配和较好的焊接性能，同时具备因比强度高而能够减轻质量的特点，在工程结构中得到高度重视，已被广泛应用于工程机械、海洋结构、压力容器、电力、军用机械装备等领域。其中，在工程机械结构上，焊接结构占比可达 $5 0 \% { \sim } 7 0 \%$ 焊接结构的优劣，直接影响产品的质量、性能及使用可靠性，而焊接性是影响低合金高强钢作为焊接结构件质量的关键因素，通常低合金高强钢的焊接性能随着强度的提高而变差，因此深入研究低合金高强钢的焊接性对其工程化应用具有重要意义[2]。
+
+国内对低合金高强钢焊接性能的研究，多集中在Q690、Q890及Q960等 $1 0 0 0 \mathrm { M P a }$ 级以下高强钢焊缝及通过热模拟技术在不同 $t _ { 8 / 5 }$ 条件下得到的焊接热影响区，而对强度更高钢种焊接并针对其焊缝金属组织性能研究报道较少[3]。本文采用的是屈服强度达 $1 2 0 0 \mathrm { M P a }$ 的回火态马氏体钢。当母材、焊接材料及方法一定时，焊接热循环特征主要取决于焊接热输入大小，同时焊接接头显微组织与力学性能主要取决于焊接工艺条件，而焊接工艺条件中的焊接热输入是集中反映焊接电流、电压和焊接速度的综合指标，即焊接热输入是决定接头组织性能的最重要因素之一。实验钢经历焊接热循环过程不均匀加热和冷却，加热过程中高的峰值温度会造成焊缝及热影响区晶粒粗化，冷却后接头区域易造成应力集中、焊接残余应力及缺陷等问题，严重恶化焊接接头的力学性能。此外，强度水平越高的钢种，对焊接热输入敏感性越大[4,5]。因而焊接低合金高强钢时通常合理控制焊接热输入以尽量减小热影响区及焊缝组织粗化对接头的不利影响。
+
+因此，实验采用16、20和 $2 5 \ \mathrm { k J / c m }$ 三种焊接热输入对 $1 2 0 0 \mathrm { M P a }$ 级HSLA钢进行熔化极气体保护焊焊接，重点研究了焊接热输入对焊缝金属显微组织及性能的影响，以期为 $1 2 0 0 \ \mathrm { M P a }$ 级HSLA钢的
+
+WPS(焊接工艺规程)制定和工程应用提供理论和实验依据。
+
+# 1实验方法
+
+实验用钢为国内某钢厂生产的低合金钢板，经钢铁研究总院复验，其主要化学成分见表1，供货状态为淬火-低温回火，规格为 $6 0 0 ~ \mathrm { m m } { \times } 2 0 0 ~ \mathrm { m m } { \times }$ $4 0 ~ \mathrm { m m }$ ,其金相组织照片见图1，该组织为回火马氏体组织。焊丝采用钢铁研究总院研发生产，直径为$\phi 1 . 2 \mathrm { m m }$ 的GHS50NS实心气体保护焊丝，保护气体为Ar $8 0 \% + \mathrm { C O } _ { 2 } 2 0 \%$ 。表1与表2分别为焊丝熔敷金属及母材的化学成分与力学性能。
+
+在16、20和 $2 5 \mathrm { k J / c m }$ 三种不同的热输入条件下进行实验钢的焊接，焊前将母材预热至 $6 0 ^ { \circ } \mathrm { C }$ ，控制道间温度在 $1 0 0 { \sim } 1 1 0 ^ { \circ } \mathrm { C }$ 。采用YM-751型气体保护焊焊机进行对接接头水平位置焊接，焊接接头型式如图2所示。在沿垂直焊缝方向的焊接接头横截面取金相试样并研磨、抛光，用 $4 \%$ 硝酸酒精腐蚀，在LeicaMEF-4M光学显微镜下观察并分析其显微组织。在后焊面平行于焊缝方向末道焊缝上取透射片，用砂纸将透射试样厚度磨至 $3 5 \sim 4 0 ~ \mu \mathrm { m }$ ，切片后经MTP-1A型双喷电解磁力减薄器进行双喷减薄，电解液为浓度 $6 \%$ 的高氯酸乙醇溶液，电解电流为
+
+![](images/ea027a588bd418390e9d3bb489a886533139cdc73e76d810d144a6d238388ddf.jpg)  
+图1母材显微组织Fig.1Microstructure of base metal
+
+表1实验钢及GHS50NS熔敷金属化学成分(质量分数 $\%$ Table 1 Composition of experimental steels and deposited metal of GHS5oNS (mass fraction $\%$ ）   
+
+<html><body><table><tr><td>Material</td><td>C</td><td>Si</td><td>Mn</td><td>Ni</td><td>Co</td><td>Cu</td><td>Mo</td><td>Cr</td></tr><tr><td>Steel</td><td>0.20</td><td>0.53</td><td>1.32</td><td>0.36</td><td>0.009</td><td>0.013</td><td>0.25</td><td>0.56</td></tr><tr><td>Deposited metal</td><td>0.083</td><td>0.49</td><td>1.00</td><td>0.35</td><td></td><td>0.34</td><td>0.13</td><td></td></tr></table></body></html>
+
+表2实验钢及GHS50NS熔敷金属力学性能  
+Table 2 Mechanical properties of experimental steels and deposited metal of GHS50NS   
+
+<html><body><table><tr><td>Material</td><td>Tensile strength Rm/MPa</td><td>Yield strength Rp0.2/MPa</td><td>Elongation A/%</td><td>Section shrinkage Z/%</td><td>Akv(-40℃) /J</td></tr><tr><td>Steel</td><td>1464</td><td>1246</td><td>12.5</td><td>60</td><td>24</td></tr><tr><td>Deposited metal</td><td>605</td><td>524</td><td>26.5</td><td>71</td><td>110</td></tr></table></body></html>
+
+![](images/f59580a4403e524f8225e5e9748af5b932294285fee0d325fb9247e5a8d6f55e.jpg)  
+图2坡口示意图 Fig.2 Groove size of the test plate (unit: mm)
+
+$6 0 ~ \mathrm { m A }$ ，电压 $2 5 \mathrm { V }$ 。通过H-800型透射电镜分析后焊面末道焊缝精细组织结构。采用MVK-E型显微硬度计对后焊面末道焊缝进行维氏硬度测试，载荷施加力为 $5 ~ \mathrm { k g }$ ，加载时间 $1 0 \mathrm { ~ s ~ }$ 。根据国标关于接头机械性能取样方法有关要求取样，分别采用WE-100和WE-300型液压式万能实验机进行接头室温板拉伸和焊缝金属棒拉伸实验。根据接头冲击实验相关标准取V型缺口焊缝金属冲击试样，缺口位置为沿焊缝截面方向，夏比冲击实验温度为 $- 4 0 ^ { \circ } \mathrm { C }$ ，所用冲击实验机为JBN-300B。在日立S-4300型冷场发射扫描电子显微镜上观察分析焊缝金属冲击断口形貌。
+
+# 2结果与分析
+
+# 2.1热输入对焊缝显微组织的影响
+
+由于焊接热输入不同，在焊接过程中焊缝区域的冷却速度不同，随着热输入升高，冷却速度降低，冷却时间 $t _ { 8 / 5 }$ 增大，这将对焊接接头组织与性能产生影响。图3为不同焊接热输入条件下后焊面焊缝金属的光学显微组织，由图3可看出，三种热输入条件下的焊缝组织类型基本相同，主要由大量晶内分布的针状铁素体(Acicularferrite，AF)和少量的粒状贝氏体(Granularbainite，GB)组成。对比三种焊缝金属组织发现，不同热输入条件下各组织占比及大小均不相同，随着焊接热输入的升高，焊缝中的针状铁素体逐渐增加，粒状贝氏体逐渐减少。这是因为随着冷却速度降低，焊接冷却过程中的焊缝过冷度减小，奥氏体转变在更高的温度区间开始，而针状铁素体转变开始温度比粒状贝氏体高，有利于针状铁素体的形成[7-9]。
+
+![](images/f0e85caba789e8f7ba1d8a1f3541cec3c7e816e366a0fbd31257da8ab66cbb6d.jpg)  
+图3不同焊接热输入下的焊缝微观组织Fig.3 Morphologies of welds with different heat inputs(a)$1 6 \mathrm { k J / c m }$ ,(b) 20 kJ/cm, (c) $2 5 \mathrm { k J / c m }$
+
+在H-800型透射电镜下进一步观察分析后焊面末道焊缝金属的精细显微组织，图4为不同热输入条件下焊缝金属的透射照片。可以看出，焊缝金属的精细组织主要由针状铁素体、粒状贝氏体以及针状铁素体板条之间的少量残余奥氏体(Residualaus-tenite,RA)组成，并且在针状铁素体板条内部分布着高密度位错。随着热输入的增加，针状铁素体板条粗化趋势明显增大。由于热输入较小时，焊后冷却速度大，过冷度较大，奥氏体相变开始温度降低，导致新相与母相自由能差较大，形核所需临界晶核尺寸降低，减小临界晶核形成功，从而形核率增加，内部组织得到细化，因而小热输入时针状铁素体板条更细小[10,11]。
+
+当焊接热输入为 $1 6 \mathrm { k J / c m }$ 时，此时焊缝冷却速度相对较快，焊缝组织以细长的针状铁素体为主，含有少量的粒状贝氏体，针状铁素体板条平均宽度不超过 $0 . 5 \ \mu \mathrm { m }$ ，位向相同的针状铁素体板条之间组成一个板条束,板条束或板条之间形成大角度晶界，板条束尺寸较小，且板条内部存在大量的高密度位错，如图4a所示。焊接热输入为 $2 0 \mathrm { k J / c m }$ 时，焊缝内针状铁素体板条有所粗化，其板条平均宽度增大为$0 . 8 \ \mu \mathrm { m }$ ，板条内部的高密度位错有所降低，如图4b。在较大热输入 $E { = } 2 5 \mathrm { ~ k J / c m }$ 条件下，在焊接热循环过程中焊缝冷却速度较小，焊缝组织中针状铁素体板条显著粗化，板条间的界面变得模糊，板条变得短而粗，且板条的方向性减弱，且板条内部的高密度位错显著减少，焊缝金属中的粒状贝氏体含量明显降低。
+
+由于焊接保护时熔池上方的氧化性气氛，焊缝内易形成大量非金属氧化物夹杂。如图5所示，经能谱分析，所形成的夹杂物主要为Ti-Mn-Al-O-S系复合氧化物。根据Younes等人研究的焊缝金属中诱导晶内针状铁素体形核的非金属夹杂物类型，结果显示，此类促进针状铁素体形核的非金属夹杂物为Ti-Mn-Al-O-S系复合氧化物夹杂。因而，焊缝内大量生成的夹杂物会促进针状铁素体的形成，细化晶粒。因为板条间为大角度晶界，裂纹扩展时，位错在通过铁素体板条间的大角度晶界时受到阻碍、塞积，改变位错滑移方向，阻碍裂纹扩展，从而能够表现出较好的强度和塑韧性[12]。
+
+![](images/833f071b693cb9b7fb6d5fb951d63b4c2f4f2a52fb981eb5ff1405c522c6d75f.jpg)  
+图4不同焊接热输入下的焊缝组织透射照片Fig.4TEM micrographs of welds with different heat in-puts (a) $1 6 \mathrm { k J / c m }$ (b) $2 0 \mathrm { k J / c m }$ (c） $2 5 \mathrm { k J / c m }$ （204号
+
+# 2.2热输入对焊缝力学性能的影响
+
+2.2.1热输入对接头强度和硬度的影响对三种焊接热输入条件下获得的焊接接头进行维氏硬度测试，测试点选择受焊道间焊接热循环影响最小的后焊面下 $2 \mathrm { m m }$ 处，载荷施加力为 $5 \mathrm { k g }$ ，加载时间 $1 0 \mathrm { ~ s ~ }$ 。硬度测试结果如图6所示，在不同热输入条件下三种焊接接头硬度曲线接近。对比母材硬度可以发现，焊接热影响区受热循环影响出现软化及轻微淬硬现象，随热输入增大，热影响区最高硬度值分别为$4 5 4 , 4 4 4 , 4 2 5 \mathrm { ~ H V } _ { 5 }$ ，最低硬度值分别为425、391、$3 3 2 \mathrm { H V } _ { 5 }$ 。焊缝金属的硬度平均值分别为234.86、$2 3 3 . 7 3 、 2 1 6 . 6 7 \mathrm { H V } _ { 5 } ,$ 。可以看出，不同热输入下的焊接接头热影响区及焊缝硬度随热输入的增大而呈逐渐降低趋势。从组织分析可知，随热输入的增大，焊缝组织硬度较低的针状铁素体有所增加，而粒状贝氏体减少，会降低焊缝金属的硬度，对比热输入为$1 6 ~ \mathrm { k J / c m }$ 和 $2 0 \ \mathrm { k J / c m }$ 时焊缝组织，其粒状贝氏体含量变化不大，焊缝硬度值没有显著变化。在焊接接头熔合区，由于低合金钢母材合金元素含量低，焊接过程中母材对熔合区附近焊缝金属产生稀释作用，母材中的碳元素也会扩散到焊缝金属中，化学成分不均匀导致熔合区组织不均匀，硬度值在熔合区附近相比热影响区和焊缝变化较大，在熔合区靠近母材一侧，由于此处母材并未熔化，在焊接热循环下位于过热区，因而晶粒往往粗大，冷却时形成淬硬组织，硬度值往往较高。另外，焊缝硬度值相比母材和热影响区低，因为焊接 $1 0 0 0 \mathrm { M P a }$ 级以上低合金高强钢时往往采用低匹配原则，即选用强度更低的焊接材料以防止焊接时过大的淬硬性和冷裂倾向而降低焊接接头质量。
+
+![](images/b79afb98b2be511ed9492b2a200f4f41c5995e05574485e3c9acf68c77d56643.jpg)  
+图5焊缝组织中的夹杂物能谱分析Fig.5 The energy spectrum analysis of inclusions in weldmetal
+
+![](images/cbc4f889e021e1a412d7ccd2ec04730c11b95b015a909c58689d926ebcb7ef2c.jpg)  
+图6不同热输入下焊接接头硬度变化Fig.6 The hardness distributionwith different heat inputs
+
+表4为不同焊接热输入条件下焊接接头板拉伸及焊缝金属棒拉伸实验结果。可以看到，随热输入增大，焊接接头强度逐渐降低，而焊缝金属棒拉伸强度则先增大后降低。母材强度很高，采用低匹配焊接材料，接头板拉伸断裂位置均在焊缝上。分析不同热输入下焊缝组织特征可知，随焊接热输入增大，虽然针状铁素体组织有所增加，粒状贝氏体减少，但焊缝针状铁素体板条宽度增大以及对焊接接头性能不利的焊道间热影响区面积随之增大而对接头强度带来的不利影响，且随着焊接热输入增加，焊缝冷却速度减小，将会使焊缝中生成淬硬组织程度降低，使得接头整体抗拉强度有所下降，但下降幅度不大，且焊缝金属具有良好的强韧性匹配。接头板拉伸表征的是焊接接头的整体性能，而棒拉伸表征的是后焊面下接近末道焊缝的性能，热输入为 $1 6 ~ \mathrm { k J / c m }$ 时所取棒拉伸的焊道间热影响区面积更大，对抗拉强度的下降带来的影响超过因热输入增大带来的影响，因而造成抗拉强度较热输入为 $2 0  { \mathrm { k J / c m } }$ 时更低。
+
+2.2.2不同热输入下接头冲击韧性及焊缝冲击断口形貌分析在 $- 4 0 ^ { \circ } \mathrm { C }$ 实验温度下对焊缝金属V型缺口冲击性能进行测试，热输入为16、20及 $2 5 \mathrm { k J / c m }$ 时，对应冲击吸收功分别为76J、80J、37J,不同热输入下焊缝金属及焊接热影响区低温冲击韧性均较好，针状铁素体板条间为大角度晶界，热输入较低时，焊缝组织为密集细小的针状铁素体板条，板条宽度越小，大角度晶界面积越大，裂纹扩展所需要消耗的能量越大，韧性越好。热输入较高时，针状铁素体板条粗化，裂纹在针状铁素体板条内可连续贯穿，降低裂纹扩展所需能量。对比焊缝金属冲击吸收功可以发现，热输入为 $1 6 ~ \mathrm { k J / c m }$ 和 $2 0 \ \mathrm { k J / c m }$ 时的焊缝冲击吸收功相差不大，而 $2 5 \mathrm { k J / c m }$ 时焊缝冲击韧性下降明显，这是因为热输入较低时焊缝中针状铁素体板条宽度增加对焊缝金属冲击韧性的不利影响与因针状铁素体增加而冲击韧性增大的影响相抵消，因此焊缝冲击吸收功差别不大；而热输入较大时，焊缝板条宽度增加对焊缝金属韧性的不利影响超过因针状铁素体增加及粒状贝氏体减少而韧性增大的影响，因而冲击吸收功下降相对较大[13]。
+
+表3不同热输入下焊接接头力学性能  
+Table 3 Mechanical properties of welded joints with different heat inputs   
+
+<html><body><table><tr><td rowspan="2">Heat input /(kJ/cm)</td><td colspan="4">Rod tensile test of weld metal</td><td colspan="2">Tensile test of welded joint</td></tr><tr><td>Tensile strength/MPa</td><td>Yield strength /MPa</td><td>Elongation 1%</td><td>Reduction of area/%</td><td>Tensile strength /MPa</td><td>Fracture location</td></tr><tr><td>16</td><td>658</td><td>580</td><td>26.5</td><td>76</td><td>823</td><td>Weld</td></tr><tr><td>20</td><td>698</td><td>591</td><td>27.5</td><td>78</td><td>788</td><td>Weld</td></tr><tr><td>25</td><td>629</td><td>515</td><td>29.5</td><td>74</td><td>755</td><td>Weld</td></tr></table></body></html>
+
+图 $7 a \mathrm { \sim } \mathrm { c }$ 为16、20和 $2 5 \ \mathrm { k J / c m }$ 三种热输入下对应焊缝金属的冲击断口裂纹扩展区微观形貌，由图7a和图7b可见，热输入较小 $( 1 6 \mathrm { k J } / \mathrm { c m } , 2 0 \mathrm { k J } / \mathrm { c m } )$ 时裂纹扩展区有较多的准解理或解理小刻面，并且在这些解理小刻面周围有韧窝以及由小韧窝形成的延性脊分布，韧窝为典型的韧性断裂形貌特征，断口韧窝形貌越多，尺寸越深，代表冲击韧性越好，延性脊的存在能够提高冲击韧性。热输入较大时，如图7c断口主要为准解理和解理形貌，裂纹扩展区形貌特征由河流纹花样、解理台阶以及极少量的撕裂棱组成。即随着焊接热输入的增大，焊缝裂纹扩展区形貌有所变化，热输入较大 $( 2 5 \mathrm { k J / c m } )$ 时，裂纹扩展区单元小刻面尺寸更大，断口表面形貌趋于平坦，裂纹扩展时所需能量更少，焊缝冲击韧性下降。根据断口形貌变化可以得出，随着热输入的增大，焊缝金属断口裂纹扩展区形貌由韧窝和准解理小刻面特征向准解理和解理小刻面特征转变，即断裂特征由韧性、脆性混合型断裂向脆性断裂转变。随着韧窝及延性脊的减少，裂纹扩展区表面趋于平坦，降低裂纹扩展所需能量，造成焊缝冲击韧性下降，其形貌的变化与焊缝冲击吸收功表现一致[4]。
+
+![](images/dc9b09559e95e349f00e8916b5f60483c4000c7beee0a54727c4124f3a607b91.jpg)  
+图7不同热输入下焊缝金属冲击断口形貌Fig.7 Impact fractograph of weld metal with different heatinputs (a) $1 6 \mathrm { k J / c m }$ (b) $2 0 \mathrm { k J / c m }$ (c) $2 5 \mathrm { k J / c m }$
+
+# 3结论
+
+(1)焊接热输入分别为16、20和 $2 5 \ \mathrm { k J / c m }$ 时，焊缝组织以针状铁素体为主，并含有少量M-A组元以及粒状贝氏体，针状铁素体板条内部含有高密度位错。随着焊接热输入增大，针状铁素体组织有所增多且板条宽度逐渐增大，而粒状贝氏体组织减少。焊缝内非金属夹杂物多为促进针状铁素体形核的Ti-Mn-Al-O-S系复合氧化物夹杂。
+
+(2)不同焊接热输入条件下，焊接接头热影响区及焊缝硬度基本随热输入的增大而呈逐渐降低趋势。其中热输入为 $1 6 \mathrm { k J } / \mathrm { c m } . 2 0 \mathrm { k J } / \mathrm { c m }$ 时，焊缝金属硬度变化不大。采用低匹配焊接材料，焊缝金属硬度相比母材和热影响区更低。随热输入的增大，焊接接头的强度呈下降趋势，而后焊面焊缝金属棒拉伸强度则先增大后降低，但下降幅度不大，且各热输入条件下焊缝金属具有良好的强韧性匹配。
+
+(3)不同焊接热输入条件下，焊缝金属均具有良好的低温冲击韧性。热输入为 $1 6 \mathrm { k J / c m }$ 和 $2 0 \mathrm { k J / c m }$ 时的焊缝冲击吸收功相差不大，而 $2 5 \mathrm { k J / c m }$ 时焊缝冲击韧性下降明显。随着热输入的增大，焊缝金属断裂特征由韧性、脆性混合型断裂向脆性断裂转变。热输入为 $2 0 \mathrm { k J / c m }$ 时，焊接接头综合性能最佳。
+
+# 参考文献
+
+[1] Zou Z D,LiYJ,Yin SK.Welding and Engineering Application of Low-Alloy $\mathrm { Q + A }$ High Strength Steel [M].Beijing: Chemical Industry Press,2000:1 (邹增大,李亚江,尹士科.低合金调质高强度钢焊接及工程应用 [M].北京:化学工业出版社,2000:1)   
+[2] Xu W Q,Ren Y F.Present situation of welding processes for construction machinery structural components and their developing trends [J].Construction Machinery and Equipment,2oo5,(1):50 (许文清,任宇飞.工程机械结构件的焊接工艺现状与发展趋势 [J].工程机械,2005,(1):50)   
+[3] Cao R, Zhu S S,Feng W,et al. Effects of weld metal property and fraction on the toughness of welding joints of a $8 \% \mathrm { { N i } }$ 980MPa high strength steel[J].J.Mater.Process.Tech.,2011,211:759   
+[4] Zhu S S,Cao R,FengW,etal. Study on weakest link of welding joint of a $9 8 0 \ \mathrm { M P a }$ high strength steel[J].Trans. China Weld. Inst., 2011,32(2): 77 (朱莎莎,曹 睿,冯 伟等. $9 8 0 \ \mathrm { M P a }$ 高强钢焊接接头薄弱环节的 确定[J].焊接学报,2011,32(3):77)   
+[5] Cao R,FengW,PengY, etal.Analysis on impact property of welded joint HAZ of 980 MPa high strength steel [J]. Trans.China Weld. Inst.,2010,31(8): 93 (曹睿,冯伟,彭云等. $9 8 0 \mathrm { M P a }$ 级高强钢焊接接头HAZ冲击性 能的分析[J].焊接学报,2010,31(8):93)   
+[6]Davis CL,King JE.Cleavage initiation in the intercritically reheated coarse- grained heat-affected zone:Part 1.Fractographic evidence [J].Metall.Mater. Trans.,1994,25A:563   
+[7] Du QB,Ma CY,PengY,et al.Effect of heat input on microstructure and performance of weld metal for Q89o high strength steel [J].Mater. Sci. Technol.,2013,21(5):143 (杜全斌,马成勇,彭云等.热输入对Q890高强钢焊缝组织及性 能的影响[J].材料科学与工艺,2013,21(5):143)   
+[8] Qiao Y,Argon A S. Cleavage crack resistance of high angle grain boundaries in Fe- $3 \% \mathrm { S i }$ alloy[J].Mech.Mater.,2003,35:313   
+[9]Qiao Y,Argon A S. Cleavage crack- growth-resistance of grain boundaries in polycrystalline Fe- $2 \% \mathrm { { S i } }$ alloy:experiments and modeling[J].Mech.Mater.,2003,35:129 [10] Diaz-Fuentes M, Iza-Mendia A,Gutiérrez I.Analysis of different acicular ferrite microstructures in low-carbon steels by electron backscattered diffraction.Study of their toughness behavior [J]. Metallurg.Mater. Trans.,2003,34A:2505 [11] Zhao M C,Hanamura T,Qiu H,et al.Lath boundary thin-film martensite in acicular ferrite ultralow carbon pipeline steels [J].Mater. Sci.Eng.,2005,395A:327 [12] Hanamura T, Yin F, Nagai K.Ductile-britle transition temperature of ultrafine ferrite/cementite microstructure in a low carbon steel controlled by effective grain size [J].ISIJ Int.,20O4,44:610 [13] Liu HJ.Welding Metallurgy and Welding Performance [M]. Beijing:China Machine Press,2007:410 (刘会杰.焊接冶金与焊接性[M].北京:机械工业出版社,2007:   
+410) [14] An TB,Shan JG,Wei JS,et al.Effect of heat input on microstructure and performance of welded joint in $1 0 0 0 \ \mathrm { M P a }$ grade steel for construction machinery[J].J.Mech.Eng.,2014,50(22): 42 (安同邦,单际国,魏金山等.热输入对 $1 0 0 0 \ \mathrm { M P a }$ 级工程机械 用钢接头组织性能的影响[J].机械工程学报,2014,50(22):   
+42)
+
+(责任编辑:吴 岩)

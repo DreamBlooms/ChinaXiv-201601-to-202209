@@ -1,0 +1,236 @@
+# DOI:10.5846/stxb201509231958
+
+张喆，王晓红，巩秀玉，刘永，廖秀丽，蔡文贵，黄洪辉.南海北部海域春季浮游细菌和病毒空间分布及其影响因素.生态学报,2017,37（5)：1639-1649.  
+Zhang Z,WangXogXuYiX,CaiW,agHolocalistibioofceroplaodoplakofSouth China Sea in spring.Acta Ecologica Sinica,2017,37(5）:1639-1649.
+
+# 南海北部海域春季浮游细菌和病毒空间分布及其影响因素
+
+张喆1,3,4，王晓红²，巩秀玉1,3,4，刘永1,3,4，廖秀丽1,3,4，蔡文贵1,3,4，黄洪辉1,3,4，\*
+
+1中国水产科学研究院南海水产研究所，广州510300  
+2中山大学生命科学学院生物学实验教学中心，广州510275  
+3广东省渔业生态环境重点实验室，广州510300  
+4农业部南海渔业资源开发利用重点实验室，广州510300
+
+摘要：应用流式细胞检测技术测定了2014年春季南海北部海域浮游细菌和病毒丰度,研究了其水平和垂直分布特征并对其与环境因子的相关性进行了分析。结果表明,调查海区浮游细菌和病毒丰度分别介于 $1 . 2 8 \times 1 0 ^ { 4 } - 9 . 9 6 \times 1 0 ^ { 5 }$ 个 $' _ { \mathrm { m L } }$ 和 $4 . 6 9 \times 1 0 ^ { 5 } -$ $5 . 3 9 \times 1 0 ^ { 7 }$ 个 $\mathrm { ^ { \prime } m L }$ 之间,二者丰度随水深的增加基本呈现逐渐下降的趋势,而水平分布趋势不明显。浮游细菌和病毒丰度与温度 $\mathrm { \nabla \cdot \ p H }$ 和溶解氧显著正相关,与水深、盐度、活性磷酸盐、硅酸盐、硝酸盐和总氮则呈显著负相关关系( $P { < } 0 . 0 1$ ),说明该海域细菌和病毒数量受到上述环境因子的共同调控。分析浮游细菌和病毒的相互关系发现,VBR(Virus to bacteria ratio)平均 32.23,最小值位于 S11站位 $2 5 \mathrm { m }$ 层,最大值则位于S7站位 $7 5 \mathrm { m }$ 层,分别为4.80和264.63,VBR值小于100 的站位占到调查站位总数的$9 5 . 6 \%$ 。VBR值除与细菌呈显著负相关关系外( $( P { < } 0 . 0 1 )$ ，与其它环境因子相关性不明显( $P { > } 0 . 0 5$ )，说明该海区细菌是病毒的主要寄主，病毒可能主要是以噬菌体的状态存在。
+
+关键词：微食物环;浮游病毒;浮游细菌;南海
+
+# Ecological distribution of bacterioplankton and virioplankton in the north of South China Sea in spring
+
+ZHANG Zhe1,3.4，WANG Xiaohong²，GONG Xiuyu $^ { 1 , 3 , 4 }$ ，LIU Yong $^ { 1 , 3 , 4 }$ ，LIAO Xiuli $^ { 1 , 3 , 4 }$ ，CAI Wengui $^ { 1 , 3 , 4 }$ HUANG Honghui1,3,4, \*
+
+1SouthChina SeaFisheries Research Institute,Chinese AcademyofFishery Sciences，Guangzhou 51O3O,China   
+2TeachingCenterof Biology Experiment，ScholofLife Sciences，SunYat-Sen University，Guangzhou510275，China   
+3Key Laboratory for Fishery Eco-Environment，Guangdong Province，Guangzhou 5103oo,China   
+4KeyLaboratoyfouthinaFryesouExpoitatio&Ulatiostrfrcuu,iagzoa
+
+Abstract：According totheconceptof MicrobialLoop,bacteriaand virus play importantrole inorganic materrecycling and energy flowing in marine ecosystem，and meanwhile influencemany biogeochemical and ecological proceses.Marine bacterialandviral ecologyhas become hotspotincurrentstudies.The South China Sea（SCS）isoneof thelargest marginal seas in Northwest Pacific，andhas already been proved tobeoligotrophic.The SCShasatracted greatatention due to its economicand strategic importance inrecent years.Although theabundanceanddiversityof bacterioplankton incoastal watersandnorthern upwellingregionsof SCSarewelldocumented,litleis knownabout bacterioplanktonand virioplankton distribution in the central and northern area，especially the area near $1 8 ^ { \circ } \mathrm { N }$ in SCS,and further investigations should be carriedontostudytheecologicalfunctionsof microbesin thisregion.Inorder to studytheecologicaldistributionand functionofbacteriaand virus inthis area,acruise was conducted during Spring 2O14and watersamples werecollected from 27 stations.Water column at each station was divided into five layers，which were 5，25，75，150 and $2 0 0 \mathrm { ~ m ~ }$ layers respectively.Watersamples werecollectedby Niskin botles，fixedwithglutaraldehydeand storedat liquidnitrogen immediately.Bacterioplanktonandvirioplanktonabundancesatdiferent waterlayersand stations were measuredbyflow cytometrymethod.Horizontalandverticaldistributionanditscorelation with environmental variables，suchastemperature, depth，salinity，disolvedoxygen，chlorophyllaand inorganicnutrients werealsoanalyzed.Theresultsshowed thatthe bacterioplankton and virioplankton abundances in the upper $2 0 0 \mathrm { ~ m ~ }$ of the water column were $1 . 2 8 \times 1 0 ^ { 4 } - 9 . 9 6 \times 1 0 ^ { 5 }$ cells/mL and $4 . 6 9 \times 1 0 ^ { 5 }$ 一 ${ 5 . 3 9 \times 1 0 } ^ { 7 }$ cells/mL,respectively. Their abundances were similar to the results in other oligotrophic oceans andlowerthan thatof thecoastal areas.With theincrease in water depth，theabundancesof both bacterioplanktonand virioplanktondecreasedgraduallintheverticaldirectionand incorelationwiththeeuphotic layer，butnosignificant distributionpatern wasdetected inthehorizontal direction.Thevariation inbacterioplanktonand virioplanktonabundance was significantly correlated with water temperature, $\mathrm { \ p H }$ ，and dissolved oxygen，but negatively correlated with water depth, salinity，active phosphorus，silicate，nitrate，and total nitrogen（ $P < 0 . 0 1$ ).We conclude that bacterioplankton and virioplanktonabundanceswereregulatedbymultipleenvironmental factors.Virus-to-bacteriaratio（VBR）reflects the relationship betwen bacteria and virus.The average VBR in this region was 32.23.The maximum value was 264.6 and it was observed at the $7 5 \mathrm { ~ m ~ }$ layer of S7 station. The minimum value was 4.8O and it was detected at the $2 5 \mathrm { ~ m ~ }$ layer of S11 station.A VBR value lower than 1OO was detected in $9 5 . 6 \%$ of the stations.No significant correlation was found between VBR and environmental variables（ $P > 0 . 0 5 \$ ），however，a significant negative correlation was observed between bacterioplankton and VBR（ $P { < } 0 . 0 1$ ).A strong correlation between bacterioplankton and virioplankton was detected ( $P <$ 0.01）,idicating thatbacterioplankton isprobablythe main hostof virioplankton，andthevirioplanktonprobably mainly existedintheformofbacteriophage.Relationships betweenorganiccarbonand bacterioplanktonneedtobefurther studied in order to illuminate growth and decline mechanism of microbes in SCS.
+
+Key Words:microbial food loop；virioplankton；bacterioplankton；South China Sea
+
+Azam[1]1983年提出海洋微生物环(或微生物食物环)的概念,引起国内外学者的广泛关注。研究表明，海洋浮游细菌和病毒不仅生物量巨大[2-3],且在海洋生态系统能量流动、物质循环和维持海洋生物多样性[46]中发挥着重要的作用。研究海洋浮游细菌和病毒的分布特征及其影响因素,对深人了解其在海洋生态系统中的功能具有重要意义[7]。南海(South China Sea，SCS)临近西太平洋暖池区,是世界第二大内陆海和亚洲三大边缘海之一，不仅蕴藏着丰富的生物资源,而且具有重要的战略地位[8-9]。因南海具有水温高、贫营养和浮游生物占主导地位等特点,微生物环可能是促进其碳循环和能量流动的主要途径[10],因此开展南海微生物环的相关研究具有重要意义。目前有关南海微生物方面的研究,大多集中在沉积物微生物多样性[1-12]和细菌生产力[13]等方面,围绕南海北部海域浮游细菌和病毒生态分布特征的研究较少;其次研究区域大多位于南海北部上升流区域，而 $1 8 ^ { \circ } \mathrm { N }$ 线以南海域浮游病毒生态分布的大范围调查研究尚未见公开报道。本文通过分析2014年春季南海北部海域浮游细菌和病毒丰度及其与环境因子的关系,旨在对以下问题进行初步了解：(1)南海北部海域浮游细菌和病毒的水平及垂直分布特征如何？（2)上述分布特征受到何种因素的影响？（3)该分布特征及其影响因子与其他海域比较有何异同？通过对上述问题的回答,为深入研究南海微食物环的功能提供理论依据。
+
+# 1材料与方法
+
+# 1.1 调查区域概况
+
+调查于2014年3—4月由中国水产科学研究院南海水产研究所“南锋号”调查船执行，调查海域为南海中西沙群岛及附近海域( $1 2 ^ { \circ } 3 0 ^ { \prime } - 1 7 ^ { \circ } 3 0 ^ { \prime } \mathrm { N }$ ， $1 1 0 ^ { \circ } 0 { } ^ { \prime } \ \$ 一$1 1 8 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } ^ { \cdot }$ )，自北向南设置6个断面，每个断面2一6个站位，共计27个采样站位（图1），各站位水深介于$2 2 2 . 0 { - } 4 3 5 2 . 0 \ \mathrm { m }$ 之间。
+
+# 1.2 研究方法
+
+# 1.2.1 样品采集
+
+使用尼斯金采样瓶（Niskinbottle）采集各站位水样，采样水层分别为 $5 、 2 5 、 7 5 、 1 5 0 、 2 0 0 \mathrm { ~ m ~ }$ ,样品采集后经 $0 . 4 5 ~ { \mu \mathrm { m } }$ 孔径 $, 4 7 \ \mathrm { m m }$ 直径的GF/F玻璃纤维滤膜过滤，取过滤后的水样 $2 0 ~ \mathrm { m L }$ 立即加入终浓度为 $0 . 5 \%$ 戊二醛溶液，室温条件下避光固定 $3 0 ~ \mathrm { m i n }$ 后放入液氮速冻，后于 $- 8 0 \%$ 冰箱保存直至分析。
+
+![](images/57e2beb6ce9f2a1159577ea4388437c592f37d66887453875165c127a5fdb3a4.jpg)  
+图1采样站位[14]   
+Fig.1Sampling Stations
+
+# 1.2.2 样品分析
+
+应用流式细胞仪对浮游细菌和病毒进行计数,具体方法参照文献[15]进行。样品由 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱取出后,于$3 7 \%$ 水浴锅中融化，将融化的水样分别经 $0 . 2 2 ~ \mu \mathrm { m }$ 和 $0 . 0 2 ~ \mu \mathrm { m }$ 滤膜过滤，将3份水样进行稀释后，各取 $1 ~ \mathrm { m L }$ 加入终浓度为 $1 \times 1 0 ^ { - 5 }$ SYBR Green I（Sigma）后于 $8 0 ^ { \circ } \mathrm { C }$ 避光染色 $1 0 ~ \mathrm { m i n }$ ,加入 $1 . 0 ~ \mu \mathrm { m }$ 荧光微球（Polysciences）作为内参,样品于流式细胞仪进行荧光信号采集分析（FACSCalibur,Becton-Dickson）。
+
+采样各水层温度、盐度由海鸟911型CTD（Sea-BirdElectronics)直接测出， $\mathrm { \ p H }$ 、溶解氧、叶绿素a和营养盐数据由中国水产科学研究院南海水产研究所渔业环境研究室提供,测定方法参照《海洋调查规范》[16]。
+
+# 1.3数据处理与分析
+
+运用 SPSS 13.0软件Correlate程序对浮游细菌、病毒丰度与环境因子之间的相关性进行分析;分别使用Surfer 8.0和 Sigmaplot11.0软件对浮游细菌和病毒丰度的水平和垂直分布作图;其他数据处理均通过 Excel完成。
+
+# 2结果与分析
+
+2.1浮游细菌的水平和垂直分布
+
+图2所示为南海北部海域2014年春季不同水层浮游细菌丰度分布情况。本次调查海域浮游细菌丰度介于 $1 . 2 8 { \times } 1 0 ^ { 4 } { \ - } 9 . 9 6 { \times } 1 0 ^ { 5 }$ 个 $\mathrm { \dot { \ m L } }$ ,平均 $( 4 . 8 6 \pm 7 . 2 3 ) \times 1 0 ^ { 5 }$ 个 $\mathrm { ^ { \prime } m L }$ 。 $5 \mathrm { ~ m ~ }$ 层浮游细菌丰度在调查区域西部和东南部较高,北部较低,最高值和最低值分别为 $5 . 4 8 \times 1 0 ^ { 4 }$ 个 $\mathrm { ^ { \prime } m L }$ 和 $9 . 8 9 \times 1 0 ^ { 5 }$ 个 $\mathrm { ^ { \prime } m L }$ $2 5 \mathrm { ~ m ~ }$ 和 $7 5 \mathrm { ~ m ~ }$ 水层浮游细菌分布与 $5 \mathrm { ~ m ~ }$ 水层相似,浮游细菌丰度均在S12站位达到最高,分别为 $9 . 9 6 \times 1 0 ^ { 5 }$ 个 $' _ { \mathrm { m L } }$ 和 $1 . 0 9 \times 1 0 ^ { 6 }$ 个 $\mathrm { ^ { \prime } m L }$ 。 $1 5 0 \mathrm { ~ m ~ }$ 和$2 0 0 \mathrm { ~ m ~ }$ 水层浮游细菌丰度分别介于 $1 . 7 2 \times 1 0 ^ { 4 }$ 一 ${ \cdot 3 . 9 3 \times 1 0 ^ { 5 } }$ 个 $\mathrm { ^ { \prime } m L }$ 和 $1 . 2 9 \times 1 0 ^ { 4 } - 1 . 5 5 \times 1 0 ^ { 5 }$ 个 $\mathrm { ^ { \prime } m L }$ 之间， $2 0 0 \mathrm { ~ m ~ }$ 水层各站位浮游细菌丰度差别较小。
+
+调查海域 $5 、 2 5 、 7 5 、 1 5 0 \mathrm { ~ m ~ }$ 和 $2 0 0 \mathrm { ~ m ~ }$ 水层浮游细菌丰度平均值分别为 $2 . 8 3 \ 、 2 . 5 9 \ 、 2 . 5 3 、 1 . 4 5 \times 1 0 ^ { 5 }$ 个/mL和$0 . 7 6 \times 1 0 ^ { 5 }$ 个 $\mathrm { ^ { \prime } m L }$ $2 0 0 \mathrm { m }$ 水层浮游细菌丰度， $2 5 \mathrm { ~ m ~ }$ 和 $7 5 \mathrm { ~ m ~ }$ 水层浮游细菌丰度较为接近，随着水深增加,浮游细菌丰度呈现下降的趋势。独立样本的均值 $\mathbf { \chi } _ { t }$ 检验结果显示（表1）， $5 \mathrm { ~ m ~ }$ 层与 $1 5 0 \mathrm { ~ m ~ }$ 层浮游细菌丰度差异显著（ $P { < } 0 . 0 5 )$ ，而与 $2 5 \mathrm { ~ m ~ }$ 和 $7 5 \mathrm { ~ m ~ }$ 层差异不显著( $P { < } 0 . 0 5 )$ ; $2 0 0 \mathrm { ~ m ~ }$ 层浮游细菌丰度与各采样水层均存在极显著差异 $( P { < } 0 . 0 1$ ）。
+
+http://www.ecologica.cn
+
+![](images/2aad5139c7c8de988cbe228357c18c4e644cb04188a4cf7122c431d2362bf77e.jpg)  
+图22014年春季南海北部浮游细菌丰度  
+Fig.2Bacterioplankton abundance in the north of South China Sea in the spring of 2014
+
+# 2.2浮游病毒的水平和垂直分布
+
+本次调查海域浮游病毒丰度介于 $4 . 6 9 \times 1 0 ^ { 5 }$ 一 ${ \cdot 5 . 3 9 \times 1 0 ^ { 7 } }$ 个 $\mathrm { ^ { \prime } m L }$ 之间,平均值为 $( 4 . 8 6 \pm 7 . 2 3 ) \times 1 0 ^ { 6 }$ 个 $\mathrm { ^ { \prime } m L }$ ，最低值和最高值分别出现在S5站位的 $2 0 0 \mathrm { ~ m ~ }$ 层和 S12 站位的 $5 \mathrm { ~ m ~ }$ 层。 $5 \mathrm { ~ m ~ }$ 层浮游病毒丰度在调查范围的中西沙海域出现高值区，其中S12和S23站位浮游病毒丰度分别达到 $5 . 3 9 \times 1 0 ^ { 7 }$ 个 $\mathrm { \Delta m L }$ 和 $2 . 7 4 \times 1 0 ^ { 7 }$ 个 $\mathrm { ^ { \prime } m L }$ ,而在调查海域的西部浮游病毒丰度较低，其中 S1和 S24站位丰度仅为 $1 . 0 7 \times 1 0 ^ { 6 }$ 个/ $\mathrm { \Delta m L }$ 和 $1 . 2 1 \times 1 0 ^ { 6 }$ 个 $\mathrm { ^ { \prime } m L }$ $2 5 \mathrm { ~ m ~ }$ 和$7 5 \mathrm { ~ m ~ }$ 层浮游病毒分布趋势与 $5 \mathrm { ~ m ~ }$ 层相似。 $1 5 0 \mathrm { ~ m ~ }$ 水层浮游病毒丰度在调查区域东南部呈现高值区，其中最高
+
+http://www.ecologica.cn
+
+值和最低值分别出现在 S23 和 S3 站位,分别为 $3 . 6 4 \times 1 0 ^ { 6 }$ 个 $\mathrm { \dot { m } L }$ 和 $5 . 7 6 \times 1 0 ^ { 5 }$ 个 $\mathrm { ^ { \prime } m L }$ 。 $2 0 0 \mathrm { ~ m ~ }$ 水层各站位浮游病毒丰度差异较小,在 S27站位丰度最高,为 $3 . 5 1 \times 1 0 ^ { 6 }$ 个 $\mathrm { \Delta m L }$ （图3）。
+
+Table1The $\mathbf { \Delta } _ { t }$ testof bacterioplankton abundance among diffrent water layers of the South China Sea in the spring of 2014   
+
+<html><body><table><tr><td>水深 Depth/m</td><td>5(n=27)</td><td>25(n=27)</td><td>75(n=27)</td><td>150(n=27)</td><td>200(n=27)</td></tr><tr><td>5</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>25</td><td>0.712</td><td></td><td></td><td></td><td></td></tr><tr><td>75</td><td>0.650</td><td>0.916</td><td>1</td><td></td><td></td></tr><tr><td>150</td><td>0.011*</td><td>0.017*</td><td>0.033 *</td><td>一</td><td></td></tr><tr><td>200</td><td>0.000 **</td><td>0.000**</td><td>0.000**</td><td>0.006 **</td><td></td></tr></table></body></html>
+
+$\ast$ 显著性差异( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ， $* *$ 极显著性差异( $_ { . } { \cal P } { < } 0 . 0 1$ ）
+
+调查区域 $5 、 2 5 、 7 5 、 1 5 0 \mathrm { ~ m ~ }$ 和 $2 0 0 \mathrm { ~ m ~ }$ 水层浮游病毒丰度平均值分别为 $8 . 2 2 、 7 . 1 2 、 5 . 0 2 、 2 . 4 9 \times 1 0 ^ { 6 }$ 个 $' _ { \mathrm { m L } }$ 和$1 . 4 6 \times 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ 。随着水深的增加,浮游病毒丰度呈现下降趋势。独立样本的均值 $\mathbf { \chi } _ { t }$ 检验发现(表1)，浮游病毒垂直分布与浮游细菌相似， $7 5 \mathrm { ~ m ~ }$ 以上水层直接浮游病毒丰度差异不明显( $\scriptstyle P < 0 . 0 5 )$ ; $1 5 0 \mathrm { ~ m ~ }$ 层浮游病毒丰度与其他水层均差异显著， $2 0 0 \mathrm { ~ m ~ }$ 层与各采样水层均存在极显著差异( $P { < } 0 . 0 1 \rangle$ 。
+
+表12014年春季南海浮游细菌丰度各水层间样本均值 $\textbf { \em t }$ 检验  
+表22014年春季南海浮游病毒丰度各水层间样本均值 $\textbf { \em t }$ 检验  
+
+<html><body><table><tr><td>水深 Depth/m</td><td>5(n=27)</td><td>25(n=27)</td><td>75(n=27)</td><td>150(n=27)</td><td>200(n= 27)</td></tr><tr><td>5</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>25</td><td>0.695</td><td>1</td><td></td><td></td><td></td></tr><tr><td>75</td><td>0.180</td><td>0.288</td><td>一</td><td></td><td></td></tr><tr><td>150</td><td>0.012*</td><td>0.012*</td><td>0.008**</td><td>1</td><td></td></tr><tr><td>200</td><td>0.003**</td><td>0.002**</td><td>0.000 **</td><td>0.004**</td><td></td></tr></table></body></html>
+
+$\ast$ 显著性差异( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ， $* *$ 极显著性差异( $_ { . } { \cal P } { < } 0 . 0 1$ ）
+
+# 2.3浮游细菌和病毒丰度与环境因子的相关性
+
+图4所示为不同水层病毒和细菌丰度比值（virus to bacteria ratio，VBR）。由图中可知,调查海域各站位VBR 值介于4.80—264.63之间,平均32.23。VBR最小值位于S11站位 $2 5 \mathrm { ~ m ~ }$ 层,而最大值则位于S7站位75$\mathrm { ~ m ~ }$ 层,最大值是最小值的55.13倍。由垂直分布看， $5 、 2 5 、 7 5 、 1 5 0 \mathrm { ~ m ~ }$ 和 $2 0 0 \mathrm { ~ m ~ }$ 水层VBR平均值分别为32.65、30.10、39.10、25.56 和33.74,其中 $7 5 \mathrm { ~ m ~ }$ 层各站位VBR值相差较大。本次调查区域的大部分站位VBR值介于10—90之间,其中VBR值小于100 的站位占到调查站位总数的 $9 5 . 5 6 \%$ 。
+
+Table2The $\mathbf { \Delta } _ { t }$ test of virioplankton abundance among different water layers of the South China Sea in the spring of 2014   
+表3浮游细菌和病毒与环境因子的相关性分析  
+Table3 Correlation between environmental factors,bacterioplankton and virioplankton   
+
+<html><body><table><tr><td>环境因子(n=135) Environmental factors</td><td>浮游病毒丰度 (n=135) Virioplankton</td><td>浮游细菌丰度 (n=135) Bacterioplankton</td><td>环境因子(n=135) Environmental factors</td><td>浮游病毒丰度 (n=135) Virioplankton</td><td>浮游细菌丰度 (n=135) Bacterioplankton</td></tr><tr><td>水温 Temperature</td><td>abundance 0.420 **</td><td>abundance 0.465 **</td><td>水深 Depth</td><td>abundance -0.357 **</td><td>abundance -0.384**</td></tr><tr><td>盐度 Salinity</td><td>-0.386 **</td><td>-0.428 **</td><td>pHPotential of hydrogen</td><td>0.267**</td><td>0.336 **</td></tr><tr><td>溶解氧 Dissolve oxygen</td><td>0.308 **</td><td>0.215 *</td><td>叶绿素 Chlorophyll a</td><td>0.022</td><td>-0.144</td></tr><tr><td>活性磷酸盐 Phosphate</td><td>-0.335 **</td><td>-0.366**</td><td>硅酸盐 Silicate</td><td>-0.272 **</td><td>-0.259 **</td></tr><tr><td>亚硝酸盐 Nitrite</td><td>-0.036</td><td>0.064</td><td>硝酸盐 Nitrate</td><td>-0.336**</td><td>-0.351**</td></tr><tr><td>铵盐Ammonium</td><td>-0.122</td><td>-0.057</td><td>总氮 Total nitrogen</td><td>-0.342 **</td><td>-0.350 **</td></tr></table></body></html>
+
+$\ast \ast P { < } 0 . 0 1$ 水平下非常显著相关； $* P { < } 0 . 0 5$ 水平下显著相关;其他均为 $P { > } 0 . 0 5$ ,相关性不明显
+
+表3所示为浮游细菌和病毒丰度与环境因子相关性分析结果。由表中可知,浮游细菌和病毒丰度的分布受到多种环境因子的影响。其中，浮游病毒与温度 $\mathrm { \nabla \cdot \ p H }$ 和溶解氧呈正相关，与水深、盐度、磷酸盐、硅酸盐、硝酸盐和总氮等营养盐呈显著负相关关系( $P { < } 0 . 0 1 \$ ),而与叶绿素a、亚硝酸盐和铵盐的相关性不明显 $( P { > } 0 . 0 5 )$ 。
+
+http://www.ecologica.cn
+
+![](images/69bbc0910bc19891d2a59bd7bd72e8ac57245faa93f1d61298c2a2419b26ae47.jpg)  
+图32014年春季南海浮游病毒丰度水平分布
+
+Fig.3Horizontal distribution of virioplankton abundance in South China Sea in spring of 2014
+
+# 3讨论
+
+# 3.1浮游细菌和病毒分布
+
+南海是西太平洋的边缘海,临近西太平洋暖池区,是我国面积最大的海域[11],研究南海浮游细菌和病毒的生态分布对了解其在南海海域的生态功能具有重要意义。本研究结果显示,调查海域浮游细菌丰度介于
+
+http://www.ecologica.cn
+
+$1 . 2 8 \times 1 0 ^ { 4 }$ 一 $9 . 9 6 \times 1 0 ^ { 5 }$ 个/ $\mathrm { \Delta m L }$ ,与以往在南海西北部[8]、加拿大海盆海域[的调查数据接近，低于南海北部近岸[8]珠江口[18]、大亚湾[19]和三亚湾海域[20]。南海属于贫营养海区，其浮游细菌丰度较之高营养水平海区要低[21]。本次调查结果显示,调查区域表层浮游细菌数量低于同季节高纬度海区和河口、海湾等近岸海域，这一分布特征在以往的研究中也屡次被证实[20,22]。就本调查区域而言，同一水层浮游细菌丰度的水平分布并未呈现明显的规律。
+
+海洋水环境中浮游病毒的含量通常在 $1 0 ^ { 5 }$ 一 $1 0 ^ { 8 }$ 个/mL，高生产力和营养状况较高的海区通常也具有较高的浮游病毒丰度[23]。本次调查结果显示,南海北部海域不同站位浮游病毒丰度差异较大，介于 $4 . 6 9 \times 1 0 ^ { 5 }$ 一
+
+![](images/e90de9beb7dff4d0d8dba6333b8504c8a0986861b674a3201c9ec7938d1b8db1.jpg)  
+图4不同水层VBR值  
+Fig.4Virus to bacteria ratio at water column
+
+$5 . 3 9 \times 1 0 ^ { 7 }$ 个 $\mathrm { ^ { \prime } m L }$ 之间。这一结果与以往在北冰洋[24]和中国北黄海[25]的调查结果接近,略高于西地中海[26]的调查结果。不同文献报道浮游病毒数量差别较大的原因主要有以下两个方面。其一,调查海区环境理化因子和营养状况的差异,是造成不同海区浮游病毒丰度差异较大的主要原因[27]。其二,计数方法的和染料的不同也可能造成浮游病毒计数结果的差异。研究表明,采用流式细胞仪的计数方法,获得的病毒数量要比采用荧光显微镜的方法高出 $1 0 \%$ 一 ${ - 3 0 \% } ^ { [ 2 8 ] }$ 。同时,应用SYBRGreenI染色的方法获得的病毒数量与透射电镜计数方法获得的数量相近[23],也高于传统的DAPI染色后荧光显微镜计数的方法[26]。当运用流式细胞仪对远洋水体[16]或浮游病毒丰度较低的水体( ${ < } 1 0 ^ { 8 }$ 个 $\mathrm { \Delta m L }$ )[29]进行计数时,SYBRGreenI的精度较高。不同航次采用的调查方法不可能完全一致,可能导致浮游病毒丰度的计数结果存在一定的差异。
+
+有关海洋浮游细菌和病毒的垂直分布研究较多。海水水深的增加,海水理化因子的变化可能引起浮游细菌和病毒数量上的改变。本次调查发现,浮游细菌和病毒丰度均值随着水深的增加基本呈现下降的趋势。表层浮游细菌丰度较高可能得益于光照刺激细菌生长,或表层浮游植物的生长释放了较多了颗粒有机物,有助于细菌的繁殖[30]。然而,在以往的研究中,底层浮游细菌丰度高于表层的现象也有发现[31]。Peierls 等[32]研究发现,底层水较高的盐度、缺氧的环境状况和衰亡藻类细胞的存在，可能是造成底层细菌生产力高于表层的原因。这一现象,在本次调查部分站位中也有发现(图5)。随着这些站位取样深度的增加,浮游细菌丰度呈现先升高后下降的趋势,在 $2 0 0 \mathrm { ~ m ~ }$ 水深处浮游细菌丰度最低,这一现象与之前南海[8.21]和其他海域的调查结果一致[30,33]。
+
+水体深度对浮游病毒丰度的影响主要体现在深海。在深海海域，浮游病毒的丰度的最高值往往出现在15— $1 5 0 \mathrm { ~ m ~ }$ 的水深[23],且其丰度在真光层以下快速下降。南海中西沙海域真光层水深普遍介于表层到 $1 0 0 \mathrm { ~ m ~ }$ 或 $1 1 0 \mathrm { ~ m ~ }$ 之间[34]。本研究即发现部分站位浮游病毒丰度随深度变化受到真光层的影响（图5）,浮游病毒丰度在 $7 5 \mathrm { ~ m ~ }$ 层高于表层和 $2 5 \mathrm { ~ m ~ }$ 层，而之后在 $1 5 0 \mathrm { ~ m ~ }$ 和 $2 0 0 \mathrm { ~ m ~ }$ 水层则显著下降。与此同时，紫外线的照射可以导致海洋噬菌体衰亡速率的上升,也可能是导致表层水体的病毒数量低于下层水体的原因之一[28,35]。
+
+# 3.2浮游细菌和病毒与环境因子相关性
+
+在海洋环境中,浮游细菌的丰度和生物量主要受到上行控制和下行控制效应两种机制的影响。其中,原生动物的摄食和病毒的裂解作用属于下行控制,而水体中营养盐含量和浮游植物的分解则属于上行控制[36-37]。温度是影响海洋细菌生长的重要因素。研究表明,随着水温升高,海洋浮游细菌生长显著增加[38-39]。在水温低于 $2 0 \%$ 的水域,温度是浮游细菌生长的主要调节因子[31]。本次调查区域虽表层水温均在$2 0 \%$ 以上，但随着取样深度的增加，水温逐渐下降， $1 5 0 \mathrm { ~ m ~ }$ 和 $2 0 0 \mathrm { ~ m ~ }$ 水层各站位水温均显著下降，较之表层水温普遍降低8- $1 2 \%$ ,此时温度通过影响浮游细菌的生长速率而成为浮游细菌和病毒分布的限制因子[30],这一现象在以往的研究中也有发现[40]。He等[17]发现浮游细菌丰度与水温相关性不明显,认为溶解有机物(DOM)和浮游植物生物量是控制加拿大海盆海域细菌生长的主要因素。与此同时,与温带水域相比,热带海洋全年水温较高,日照较长,因此相比温度而言,营养盐可能成为限制热带海洋浮游细菌生长的主要因素[41]。
+
+![](images/180b3a292ad03e1116e25a6f7c6e31f19ad53c6b27e06d9030678ce6829be545.jpg)  
+图5调查区域部分站位浮游细菌和病毒丰度垂直分布  
+Fig.5Vertical distribution of bacterioplankton and virioplankton abundances in part of the stations
+
+浮游细菌可以有效的吸收各种有机和无机营养物质,它对无机盐的吸收利用在营养盐的循环中起着非常重要的作用[42],海水中营养盐浓度的变化,会直接或间接的影响海洋浮游细菌和病毒的丰度。调查显示,春夏季西北地中海浮游细菌生物量受到明显的磷限制,同时受到溶解有机磷和有机碳的影响[43]。针对法国夏朗特河口区域的研究表明,浮游病毒和细菌与磷酸盐呈现显著的正相关关系[44]。较之高营养海区,贫营养海区微食物网在营养物质流动过程中发挥的作用更为明显[45]。有研究表明,南海南部海域异养细菌生长主要同时受到氮、磷和溶解有机碳的共同影响[46]。本研究结果显示,南海北部浮游细菌和病毒丰度与活性磷酸盐、硅酸盐和硝酸盐等营养盐含量及海水盐度呈显著的负相关关系,这主要是因为一方面,在 $2 0 0 \mathrm { ~ m ~ }$ 水深以内,随着深度的增加,南海海域营养盐整体呈现浓度增加的趋势[47-48],而颗粒有机碳含量则呈现逐渐下降的趋势[49]。另一方面,由于盐度的升高和光照强度的下降等其他因素的影响抑制了海洋浮游细菌的生长[50]，反而导致细菌丰度下降,使得随着水深和营养盐含量的增加,浮游细菌和病毒的数量并没有升高。上述现象在其他海区也有发现[23.51],可能是由于浮游植物的生长消耗营养盐的同时释放了溶解有机碳供浮游细菌的生长和繁殖,因此浮游细菌和病毒的数量可能更多受到颗粒有机碳和溶解有机碳的影响[52],但在南海中北部海域是否存在相关的影响机制需要更深入的研究。
+
+浮游细菌和病毒的丰度与水深均呈现显著的负相关关系，随着水深度增加，盐度梯度的变化可能造成水体温度、营养盐、浮游植物等含量的变化,进而影响着浮游细菌和病毒的分布。本研究发现南海北部海域浮游细菌和病毒与叶绿素a没有显著的相关性,类似的结果在以往南海海域和其他一些海域的研究中也有发现[17,26]。He等[22]在分析南海北部浮游病毒丰度时发现,病毒数量与细菌数量的相关性远远大于叶绿素a浓度,认为在贫营养的南海,细菌是海洋病毒主要的寄主。类似结果在淡水水体的研究中也有发现[53],本研究的结果也进一步证实了上述结论。
+
+# 3.3浮游细菌和病毒之间的相互关系
+
+浮游病毒是海洋微生物组成、营养动力学的重要决定因素和细菌死亡的主要推动者[54」,病毒裂解导致的海洋细菌死亡可能占到细菌死亡总数的 $1 0 \% { - } 2 0 \% ^ { [ 2 6 }$ ],在表层水体中这一比例甚至可以达到 $5 0 \% ^ { [ 5 5 ] }$ 。本研究表明浮游细菌和浮游病毒丰度呈显著正相关关系( $\mathit { \Pi } _ { r } = 0 . 7 5 5 , P { < } 0 . 0 1$ ， $n = 1 3 5$ )（图6）,这一现象在包括河口[]、半咸水环境[56]和其他海区中也有发现[57-58]。说明在贫营养海区中,浮游细菌是浮游病毒的主要宿主而影响着浮游病毒的丰度[26]。
+
+http://www.ecologica.cn
+
+VBR 值通常用于指示海洋浮游细菌和病毒之间的关系,VBR值的高低可以指示不同环境中海洋噬菌体对细菌的感染几率,高VBR值可能预示着较高的病毒感染。海洋环境中VBR值大多介于5—83之间,VBR较低则表明病毒较低的感染率、单个细菌宿主中病毒颗粒较少或病毒具有较高的衰亡速率[57]。Collins 等[24]发现波弗特海水VBR 值最高可以达到340,海冰中这一值更是高达846。Personnic 等[59]认为VBR 值较高可能与流式细胞仪的计数方法有关系,以往采用的荧光显微镜计数方法可能低估了VBR的参数。本研究结果与上述结果基本相符,本次调查VBR值大多介于10一40之间,占到总数的 $5 7 . 0 4 \%$ ,但也有较高VBR值$( > 1 0 0 )$ 的出现，占到总数的 $4 . 4 4 \%$ 。本研究不同取样点之间VBR值差别较大，可以相差55倍,类似的结果在其他的研究中也曾被报道[25,60],说明在本调查区域中细菌和病毒的生长速率差异较大。
+
+南海中北部海域VBR与浮游细菌丰度呈现显著的负相关关系( $r = - 0 . 2 4 5$ ， $P { < } 0 . 0 1$ ， $n = 1 3 5$ )（图7），而与浮游病毒的相关性不明显( $_ { r = 0 . 1 5 3 }$ ， $P { > } 0 . 0 5$ ， $n = 1 3 5$ ）。本研究发现， $2 0 0 \mathrm { ~ m ~ }$ 水层VBR值较之表层水要高，说明相对表层水而言,底层水浮游病毒对细菌丰度的影响更大,以往的研究结果也证实了这一结论[61]。细菌病毒之间的相关性和VBR 值的变化表明在中国南海北海域,病毒可能主要以噬菌体的形式存在[25]。
+
+![](images/f66d14d90b641f9b35f9a35f31a5a32175ec29ea8b7112b68549bbc365dcc51f.jpg)  
+图6浮游细菌和病毒相关性
+
+![](images/ac6836482b6a924e8600a63a684d969bdccc86b06f73411f1c4b9610bab53c29.jpg)  
+图7VBR值与浮游细菌丰度相关性  
+Fig.6Correlation between bacterioplankton and virioplankton   
+Fig.7 Correlation between VBR and bacterioplankton
+
+# 4结论
+
+南海中西沙海域浮游细菌和病毒丰度同时受到海水温度、溶解氧、盐度和营养盐的共同影响,浮游细菌作为浮游病毒主要的宿主,影响着该海区浮游病毒丰度的变化。该区域海洋浮游病毒可能主要是以噬菌体的形态存在,且细菌和病毒的生长速率存在较大差异。
+
+# 参考文献（References）：
+
+[1]AzamFcel,eldJG,Gra,eyerReil,gstadeeolgicalfaterolicobsineaoloProgress Series，1983，10：257-263.  
+[2]SutleCA.Marine viruses--major players intheglobalecosystem.NatureReviews Microbiology，2O07,5（10）：801-812.  
+[3] FenchelT.Themicrobialloop-25yearslater.JournalofExperimental MarineBiologyandEcology,2008,366(1/2）：99-103.  
+[4] AzamF,MalfatiF.Microbial structuringof marine ecosystems.Nature Reviews Microbiology,20O7,5（10)：782-791.  
+[5] 李洪波，杨青，周峰.海洋微食物环研究新进展.海洋环境科学，2012，31(6)：927-932.  
+[6] JiaoNZ,HerndlGJ,HansellDA,BenmerR,KatnerG，Wilhelm SW,Kirchman DL，WeinbauerMG,LuoTW,ChenF,AzamF.MicrobialproducofcalcitoedoaicategarbooaeineloblceanatureevisMcoboo8(8):593-599.  
+[7］卢龙飞，汪岷，梁彦韬，王芳，杨琳，王健，孙辉，汪俭.东海、黄海浮游病毒及异养细菌的分布研究.海洋与湖沼，2013，44（5)：1339-1346.  
+[8YuanXC,HeLnKDG,Hasctealstriiodtatiiefeterasistaland northwestern South China Sea in late summ Continental Shelf Research，2011,31（11）：1214-1223.  
+[9] 李涛，王鹏，汪品先.南海西沙海槽表层沉积物微生物多样性.生态学报，2008，28（3）：1166-1173.  
+[10] ChenBZ,LiuHB,WangZL.TropicinteractionswithinthemicrobialfoodwebintheSouthChinaSearevealedbyize-fractionatioethod.Journal of Experimental Marine Biology and Ecology，2009,368（1）：59-66.  
+[11] 白洁，刘小沙，侯瑞，赵阳国，高会旺.南海南部海域浮游细菌群落特征及影响因素研究.中国环境科学，2014，34（11）：2950-2957.  
+[12] 孙慧敏，戴世鲲，王广华，谢练武，李翔.南海北部巴士海峡深海沉积物中细菌多样性分析.热带海洋学报，2010,29（3)：41-56.  
+[13] 王生福，宋星宇，黄良民，谭烨辉，柯志新.南海北部夏季浮游细菌生长效率初步研究.热带海洋学报，2013，32（6)：73-79.  
+[14] 刘华雪，柯常亮，李纯厚，廖秀丽，黄洪辉．南海南部悬浮颗粒物脂肪酸组成.生态学报，2014，34（10)：2599-2607.  
+[15] MarieD,BrussardCD,hyaugR,ratbakG,VaulotD.EumeratioofmarieviusesinculureandnaturalsamplesbfowcetryApplied and Environmental Microbiology，1999,65(1）：45-52.  
+[16] 中华人民共和国国家质量监督检验检疫总局，中国国家标准化管理委员会.GB/T12763.4-2007 海洋调查规范 第4部分：海水化学要素调查.北京：中国标准出版社，2008.  
+[17] HeJF,ZhangFn,aYX,ChenJFcterioplaktodohopktoudance,oass，ndstrutioineWesteaBasin duri 8.Deep Sea Research Part II: Topical Studies in Oceanography，2012,81-84： 36-55.  
+[18] Zhou W H Jiang T,Chen SY,Huang L M,Huang H,Cai CH,Yan Y.Bacterioplankton dynamics along the gradient from highlyutrophicPe to oligotrophic northern South China Sea in wet season：implication for anthropogenic inputs.Marine PollutionBulletin, 26-733  
+[19] Ni Z X, K.Picoplankton and virioplankton abundance and community structure in Pearl River Estuary and Daya Bay，SouthChina. ciences，2015,32:146-154.  
+[20] ZhouWI ，Huang L M，Wang HK,Xu JR，Dong JD,Zhang S.Spatial and temporal dynamics of phytoplankton andoacteriop orthern South China Sea. Journal of Environmental Sciences，2009,21（5）：595-603.  
+[21] 何蕾，殷克东，林志芬，田甜，袁翔城.黄海春季海洋病毒的空间分布特征.海洋科学，2011，35(2)：10-16.  
+[22] HeL,Yin K D Yuan XC,LiDM,ZhangDR,HrisonPJ.Spatialdistributionofviuses,bacteriaandchlorophyllinthenorther SouthChinaSea.Aquatic Microbial Ecology，2009,54(2）:153-162.  
+[23] WommackKE,ColwellRR.Virioplanktoviusesiquaticosstes.robiolondMecularBologRevies，64（）14.  
+[24] ColinsRE,emngJWbndantisoldgeicatealincticeartIviraldasrtufrparolog，2011，34(12)：1831-1841.  
+[25] BaiX G,WangM,LiangYT,ZhangZF，WangF,JiangXJ.Distributionofmicrobialpopulationsandteirrelationshipwithenviroentalvariables in the North Yellw Sea,China.Jourmal of Ocean University of China,2O12,11(1)：75-85.  
+[26] AlonsoMCeFfiicet（Western Mediterranean）.Microbial Ecology，2001,42（3）:407-515.  
+[27] BoehmeJ,FrischerME,JiangSC,KeloggCA,ichardS,RoseJB,SteinwaC,PaulJH.Viruses,bacterioplanktonndphplaktothesoutheasternGulfof Mexico：distributionadcontributiontooceanicDNApolsMarineEcologyProgres Series，1993,97-10.  
+[28] MagiopoulosIiVussiplgtrosasalistbfasineideesfEastern Mediterranean Sea. Dp Sea Research Part I: Oceanographic Research Papers，2012,66:1-10.  
+[29] BetarelY,Sime-NgandoTAmblardCaveranH.AcomparsonofmetodsfcoutingvirusesinquaticsstesApiedandEnviotalMicrobiology，2000,66(6）: 2283-2289.  
+[30] ChenBZ,LiuHB,HuagBEviroetalotrolghasactealbndceinheouthinaSeaiferedfroaldadditive models（GAMs).Journal of Sea Research，2012,72：69-76.  
+[31ShishFKucHmpaueoferoccteipdouctidseifeiBay.Limnology and Oceanography，1994,39(6）：1243-1258.  
+32]PeirlselHialeptrtoofcteroplaooductitdeaedfcosimpatenCoastal and Shelf Science，2011,95(1)：207-215.  
+[33] DumontI,SchoeaVacqetSHasoFecuevortSacterialabudanceandproductiopipelagicndesoelgicaesintheSubantarcticandPolarFrontzonessouthofTasmania.DepSeaResearchPartIITopicalStudiesinOceanography，11，58（-22）：2212- 2221.  
+[34] ShangSL,LZP,WeiGMaractezatioofDdevedeuotcoeepthsultsforeCaSeaRemoteSesingfEiont,2011,115(1):180-186.  
+[35] Weinbauer M G.Ecology of prokaryotic viruses.FEMS Microbiology Reviews，2004,28(2）:127-181.  
+[36] TanakaT，RasoulzadeganFVerticalandsasonalvariationsofbacterialabundanceandproductioninhemesopelagiclayerofheNWMediterraneanSea:botom-upandtop-dowcontrols.DepSeaResearchPartI:OceanographicResearchPapers，004,51（4）：531-544.  
+[37] KobariT,FujiiobariYabanoASaoalrtiosibdnce，growhdortalityfterotroicacteiainKgosaBayJournal of Oceanography，2010,66(6）：845-853.  
+[38] MazuecosIPsteiJgE-ReaEsoJcheatureolfolsatidoficiencyntemesoelagiczoneoftheSuthAtlanticdIdianOceansDepSaResearchart:OceanogaicReseachPapers,9：131- 138.  
+[39] KritzbergES，AetaJuarteCM.TemperatureadposphorusregulatingcarbonfuxtroughbacteriinaoastalarinessteqaticMicrobial Ecology，2010,58(2）：141-151.  
+[40] 李洪波，肖天，丁涛，吕瑞华.浮游细菌在黄海冷水团中的分布.生态学报，2006，26(4)：1012-1020.  
+[41] CarlsonP,GaeliE,GeliWdgEG,ra,ruteark,deoffEcteldplakoutrinttropical marinewaters，andacoastallkeinBrazil.JouralofExperimentalMarineBiologyandEcology，O12,418-519：37-55.  
+[42] 姜发军，胡章立，胡超群.大鹏湾浮游细菌时空分布与环境因子的关系.热带海洋学报，2011,30(1)：96-100.  
+[43]PinasiJe-osaLlo-，alaidaldrs-lGJaalagscteripkolimitionadsctealioosieanatalo,）.  
+[44]AuguetJ,MotaniéH,eas,HaraH,HetVaicfiioplaktobdeditsvioetalotrolineEstuary（France）.Microbial Ecology，2005，50(3）：337-349.  
+[45]SolierstuloisiliGstaovitduljgibducutochangedenvironmentaltrophicstatus：acasestudyofthe VranjicBsin（AdriatcSea）MarineEnviromentalResearch，O1o，70（2）：239-249.  
+[46] 侯瑞，白洁，刘小沙，高会旺，赵阳国.南海南部海域异养浮游细菌生长对外源营养物的响应.中国海洋大学学报，2015，45（10)：103-108.  
+[47] MaWT,ChaiF,XiuP,XueHJ,ianJModelingtheg-tevarabityofptoplanktofuctioalgoupsdpriaryproductieSouth China Sea.Journal of Oceanography，2013,69(5）：527-544.  
+[48] Wong GTF,PanXJ,LiKY,ShiahF,HoTY,GuoXH.HydrographyandnutrientdynamicsintheNortherSouthChinaSeaSef-sea(NoSoCS）.Deep Sea Research Part II：Topical Studies in Oceanography，2015，117：23-50.  
+[49] MaWT,ChaiF,XiuP,XueHJ,TianJ.imuationofexportproductionandbiologicalpumpstructureintheSouthChinaSea.Geo-MarineLetters，2014，34(6):541-554.  
+[50] ZhangYJiotrellaoceocteasctthe South China Sea.Aquatic Microbial Ecology，2006,43(3）：233-241.  
+[51]ParvathiA,JasnaV,Jina,JayalakshyKV,llK,MaduNV,MuraledaranKR,KumarKR,BalachandranKKffectsfhydrographyonthedistributionof bacteriaand virus in Cochin estuary,India.Ecological Research,2015,30(1)：85-92.  
+[52] 高源，何剑锋，陈敏，林凌，张芳.北冰洋楚科奇海浮游细菌丰度和生产力及其分布特征.海洋学报，2015，37（8）：96-104.  
+[53] 孙小磊，赵以军，刘妮，邓敬轩，程凯.淡水湿地浮游病毒的空间分布.生态学报，2009,29（2）：1048-1054.  
+[54] Fuhrman JA.Marine viruses and their biogeochemicalandecological efects.Nature，1999,399(6736）：541-548.  
+[55]ZhangYYangCXYangJJiaZnteractosetweemaremicroganismsdthiragesseSieelti6(17)：1770-1777.  
+[56] VanuciS,BruniV,PulicandGSpatialandtemporaldistrbutionofiioplanktonndbacterioplanktoninabackisheviroent（akefGanzirri，Italy).Hydrobiologia，2005,539(1）：83-92.  
+[57] WeinbauerMG,FuksDPeduziP.DistributionofviusesanddisovedDalogacoastalropicgradientintheNorthAdrticSea.Applied and Environmental Microbiology，1993，59(12）：4074-5082.  
+[58]AlongiD,atnN,KionD,KsteroueDG,knRplaoacteroplaktodioplaktocurefunction across the southern Great Barrier Reef shelf.Journal of Marine Systems,2O15,142：25-39.  
+[59] PersonicS，DomaizonI，DorigoU，BerdebL，acquetS.Seasonalandspatialvariabilityofviri，bacterio，andpicophytoplanktoncabundances in three Peri-Alpine Lakes.Hydrobiologia,2009,627(1）：99-116.  
+[60]Almeid，antaraFsarbctevialifetdprdatioicodiiblo2001，42(4):562-571.  
+[61]ColmbetJ，CarpinM,obin，Porteli,AmbladC,CuchieH,e-NgandoTasoaldeptelatedgradientsivpostandingstockandrelationshipswithmicrobialcommunitiesinLakePavin（France).MicrobialEcology，O09,58(4）：728-736.

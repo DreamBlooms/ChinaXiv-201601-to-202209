@@ -1,0 +1,558 @@
+[
+    {
+        "type": "text",
+        "text": "长期监测与创新研究阐明森林生态系统功能形成过程与机理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/44cae8bd4cd6c33a7090610537eff9aa7ec1603e3573057d3a63a09207fc2ee8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周国逸 张德强 李跃林 张倩媚",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国科学院华南植物园 鼎湖山森林生态系统定位研究站 广州510650摘要创新是引领学科发展的动力源泉。在中科院、国家科技部、国家自然科学基金委和广东省的长期支持下，中科院华南植物园鼎湖山森林生态系统定位研究站（以下简称“鼎湖山站”）以长期监测与创新研究为手段，发现成熟森林土壤持续积累有机碳现象，从宏观到微观的不同尺度阐明森林土壤积累有机碳的机理及其驱动机制，引领森林生态系统碳氮水循环过程及其耦合对环境变化的响应与适应规律的研究，推动生态系统非平衡理论的建立；科学量化了全国森林生态系统碳汇现状与潜力，为国家环境外交提供了重要的科学支撑；提出森林与产水量的全球模式并精确给出了控制产水量气候与流域特征参数的临界值，为“森林与产水量”关系的争论提供了新的阐释；发现常绿阔叶林群落适应气候变化在过去30年向灌丛化方向演替并阐明其受主要环境因子影响的机理。研究成果为森林固碳与水资源效应的科学评估、自然保护区和生态环境建设的国家需求提供了理论支撑。鼎湖山站成为国内外无可替代的野外科技支撑平台和国际著名的森林生态系统科学研究基地,也是中科院和广东地区生态学人才培养基地。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词常绿阔叶林生态系统，长期监测与创新研究，碳汇功能，碳氮水耦合，森林与水 DOI 10.16418/j.issn.1000-3045.2017.09.014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "广东省肇庆市境东北部的鼎湖山地处北回归线附近，是中国第一个自然保护区（1956年建立）所在地，也是唯一隶属中科院的国家级自然保护区，保存有完好的南亚热带地带性森林——南亚热带季风常绿阔叶林以及丰富的过渡植被类型，为森林生态系统演替过程与格局研究及退化生态系统恢复与重建参照提供了天然的理想研究基地，是北回归线上当之无愧的“绿色明珠”。20世纪60—70年代，国际科学联合会（ICSU）组织的国际生物计划（IBP）和联合国教科文组织（UNESCO）人与生物圈（MAB）计划的实施，极大推动了国际生态学的发展。1978年全国科学大会的召开，更是迎来了中国科学的春天。在此背景下，基于MAB计划发起之初确定的14个领域中的第一项“日益增长的人类活动对热带和亚热带森林生态系统的生态影响”，中科院华南植物园（原华南植物所）何绍颐教授等老一辈生态学家在鼎湖山自然保护区建立了鼎湖山森林生态系统长期定位研究站（以下简称“鼎湖山站”），开启了热带亚热带森林生态系统长期定位研究工作，旨在通过对自然森林生态系统结构与功能、格局与过程及其对环境变化的响应与适应规律的揭示，为解决国家和地方生态环境保护与资源可持续利用的关键科学与技术问题提供科学支撑，为退化生态系统恢复与重建提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1发现成熟森林土壤可以持续积累有机碳发展了生态系统碳平衡理论，引领全球成熟森林碳汇功能研究热潮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20世纪80年代，世界气候研究计划（WCRP）和国际地圈生物圈计划（IGBP）相继实施，在世界范围内掀起了全球变化生态学研究的热潮。从1992年的《联合国气候变化框架公约》（UNFCCC）要求签约国提交温室气体排放量和转化量清单，到1997年《京都议定书》进一步强调减少温室气体排放，将温室气体尤其是 $\\mathrm { C O } _ { 2 }$ 排放与国家的经济发展联系起来，促使世界各国在准确评估温室气体排放的基础上，积极致力于寻求减少 $\\mathrm { C O } _ { 2 }$ 排放的各种措施和途径，以及增加 $\\mathrm { C O } _ { 2 }$ 吸存潜力的生态系统管理对策上来。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "森林作为陆地生态系统的主体，在减缓大气 $\\mathrm { C O } _ { 2 }$ 浓度升高方面起着至关重要的作用。然而，传统生态系统平衡理论认为，成熟森林生态系统尤其是热带亚热带成熟森林生态系统的碳库是基本平衡的，对全球碳汇的贡献不大[，这一传统理论主要基于陆地生态系统生物量增量基本是被呼吸作用所抵消。在这一理论的指导下，有关国际组织和条约以及全球碳平衡估算模型在估算全球碳平衡时，从没有考虑过成熟生态系统的固碳能力。我们认为这一理论可能存在缺陷，即传统理论对生态系统土壤部分的碳，尤其是土壤碳随水文学过程中的迁移、流失和沉积等过程并没有给予足够的重视，这可能是导致全球碳平衡研究存在未知“碳失汇”的原因之一。基于这一创新理念，在中科院重要方向性项目的支持下，通过整合分析鼎湖山站长期定位观测资料（1979—2003年）和实验结果，经过严密论证，获得“成熟森林土壤可以持续积累有机碳”这一重要发现并在国际顶级期刊Science上发表，引起巨大反响（图1）[2]。国际同行认为，该研究结果逐渐剥蚀掉几十年前建立的碳平衡随森林演替的旧理论，从根本上改变了人们对生态系统过程的看法，呼呼建立生态系统非平衡理论框架；该研究令人信服地证明了成熟森林是一个重要的碳汇，这是一个重要的原始创新。Nature杂志也因此采访了全球多个生态学家，其中瑞典著名生态学家GunterHoch认为，这个发现对整个生态学界是个很大的“惊喜”，将有利于发展中国家环境外交谈判，减轻履行《京都议定书》的压力；就成熟森林对缓解全球 $\\mathrm { C O } _ { 2 }$ 浓度升高作用的争议提供了新的解释，为“碳失汇”去向的揭示提供了新的思路，是一个重大的突破[3]。政府间气候变化专门委员会（IPCC）在2007年的报告中指出该论文是全球最不能忽视的9篇文章之一。该项成果被评为2006年度中国基础研究十大新闻，并引领了一波全球成熟森林碳汇功能研",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Old-GrowthForestsCanAccumulateCarboninSoils  \nGuoyi Zhou,etal.  \nScience314,1417(2006)；  \nDOI:10.1126/science.11301681.8 6000  \n2.5-. SOCSOC=0.035x-67.97 -1.6 Upper bound:  \n2.0- R²=0.90,p<0.0001 -1.4 06) y=0.50-13.001.2 ③  \n1.5- 重1.0 3000-  \n1.0 。 BuIk d=-0.0032x+741 0.8± 2000 y=wer7x-103829.2R²=0.90,p=0.01 -0.6 R²=0.87,p<0.00011000-19751980 1985 1990 1995 2000 2005 19751980 1985 1990 1995 2000 2005(年) (年)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "究的热潮[4.5] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正是由于研究工作的国际影响，促成了国际著名学术期刊New Phytologist编辑部选择与鼎湖山站于2009 年11月17—20日在广州共同主持召开“23rdNewPhytologistSymposium: Carbon Cycling in Tropical Ecosystems（NewPhytologist第23届国际学术研讨会：热带生态系统碳循环）”，这是该期刊首次在欧洲和北美以外的国家举办这样的学术研讨会，来自英国、美国、澳大利亚、加拿大、法国、意大利及中国等十多个国家和地区的150余位植物学、生态学专家和代表参加本次国际研讨会（图2）。会后，与会代表赴鼎湖山站进行了实地考察，并对鼎湖山站的长期定位监测和系统的长期实验予以高度赞赏，加深了国际同行对中国生态学研究工作的了解。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd313a1e4c9e484aedaec9793ab5c4a91ad737b6007c7e6734118757f672b7ed.jpg",
+        "img_caption": [
+            "图22009年与NewPhytologist 编辑部共同主办了“第 23届国际学术研讨会：热带生态系统碳循环”，周国逸代表组织委员会致辞"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主席台人员（左起）：RichNorby（美国橡树岭国家实验室教授）、任海（华南植物园副主任、党委书记）、杨晓（广州市科协主席）、方精云（中科院植物所）、IanAlexander教授（NewPhytologist主编）、周国逸（鼎湖山站站长）、AndrewSmith(澳大利亚国家科学院院士)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 锐意探索，揭示森林土壤碳积累机理及其驱动机制，为森林生态系统碳平衡及碳汇功能的科学评估提供理论依据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为探讨森林土壤有机碳积累过程和机理，鼎湖山站研究团队进一步提出2个假说：（1）酸化作用驱动机制假说一一土壤酸化影响土壤微生物活性，影响有机质的分解速率，活化盐基离子尤其是 ${ \\mathrm { A l } } ^ { 3 + }$ 的活性，刺激大分子有机物络合物的形成，有利于土壤碳的积累；（2）碳-氮耦合驱动机制假说一一氮沉降的增加，一方面可以加速土壤的酸化，另一方面则增加了土壤氮的有效性,刺激与碳的耦合，形成大分子有机化合物，降低土壤有效态有机碳的含量，减少有机碳的排放与流失，增加土壤的碳积累。为了验证这2个假说，鼎湖山站选后建立模拟酸沉降、模拟氮沉降、开顶箱 $\\mathrm { C O } _ { 2 }$ 倍增 $^ +$ 氮添加（碳-氮交互作用）、降水变率、全封闭集水区（准确控制输入输出）等系列长期控制实验，并得到了国家自然科学基金委、科技部和中科院的大力支持。集成分析长期监测资料和实验数据，在森林土壤有机碳积累机理方面取得了一系列的重要结论。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1模拟实验结果揭示森林土壤有机碳积累机理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模拟氮沉降控制实验表明，高氮处理显著降低了成熟森林土壤呼吸速率，降低作用主要发生在雨季（每年4—9月，也是植物生长最旺盛的季节）；由于土壤微生物活性和细根的生长也受到了抑制，使得土壤呼吸对温度敏感性（ $\\scriptstyle Q _ { 1 0 }$ ）的下降，最终导致成熟林土壤 $\\mathrm { C O } _ { 2 }$ 排放的下降（图3），这意味着氮沉降可以驱使成熟林土壤有机碳的积累，也表明在氮沉降背景下成熟林土壤在减缓大气 $\\mathrm { C O } _ { 2 }$ 浓度上升过程中将扮演重要的角色[。长期氮沉降可以导致土壤酸化、增加土壤吸附能力等物理化学控制机理（非生物学控制机制）降低根际区土壤可溶性有机碳（DOC）的输出，从而增加系统土壤的碳吸存量[7]。而磷添加实验表明，磷素的增加却能显著改善成熟林（氮饱和）土壤微生物组成并提高土壤 $\\mathrm { C O } _ { 2 }$ 的排放，这表明氮沉降可通过降低土壤磷的可利用性，限制土壤微生物对有机碳的分解，促进有机碳的积累[8]。然而，由于成熟林（演替后期）土壤比其他过渡类型森林（演替中期和早期）具有更高的磷酸酶活性，在一定程度上抵消了该森林群落容易受磷素限制的影响[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/360ba1d197d2d6e8bc185215878dfcb613f65d50e5e17790f64bed56a5b53111.jpg",
+        "img_caption": [
+            "图3不同氮添加处理条件下季风常绿阔叶林土壤呼吸(a）、细根生物量(b）和微生物活性（c)高氮、中氮和低氮处理喷施氮量分别为 $1 5 0 \\mathrm { \\ k g \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ 、 $1 0 0 \\mathrm { k g \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ 和 $5 0 \\mathrm { k g }$ ha'¹yr"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "碳-氮交互作用实验结果表明，高 $\\mathrm { C O } _ { 2 }$ ( $7 0 0 \\mathrm { p p m }$ ））和高氮（ $1 0 0 \\mathrm { { k g } \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ ）共同处理具有叠加的交互影响，比单独高 $\\mathrm { C O } _ { 2 }$ 和高氮处理更能促进土壤 $\\mathrm { C O } _ { 2 }$ 的排放[1]，并导致土壤无机碳流失的增加[11]，但由于交互作用显著促进植物的生长，提高生态系统净初级生产力（NPP）和水分利用效率[12]（图4），增加了土壤有机碳的来源（增加凋落物量、细根生物量及分泌物），促进土壤碳库的增加，表明碳的积累需要充足外源氮素的耦合。而在大气 $\\mathrm { C O } _ { 2 }$ 升高的条件下，外源氮素的增加促进土壤易氧化有机碳（ROC）和颗粒有机碳的积累（POC），最终有利于土壤总有机碳（TOC）的增加[13,14]（图5）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dfdbc795605ef7fce0143243759e425394aefd14b7d2a0cb56e2744a69d5497.jpg",
+        "img_caption": [
+            "图4森林生态系统净初级生产力 (NPP）和水分利用效率(WUE)对不同处理的响应"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模拟酸沉降处理加剧了森林土壤的进一步酸化，抑制了土壤微生物活性和植物细根生物量，降低了土壤的$\\mathrm { C O } _ { 2 }$ 排放，增加表层土壤有机碳的含量[15]，但促进了土壤离子的活化，显著增加了 $\\mathrm { N O } ^ { 3 - }$ 、 $\\mathrm { S O } _ { 4 } ^ { 2 \\cdot }$ 、 ${ \\mathrm { C a } } ^ { 2 + }$ 、 $\\boldsymbol { \\mathrm { K } } ^ { + }$ 、 $ { \\mathrm { M g } } ^ { 2 + }$ 等阴阳离子及溶解性有机碳（DOC）的淋溶，极显著增加 ${ \\mathrm { A l } } ^ { 3 + }$ 离子的淋溶[]，阳离子的活化将会促进大分子络合物的形成，有利于土壤有机碳的沉积。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "降水变率改变控制实验（无降水处理、对照和加倍降水处理）结果表明，干旱（无降水处理）降低了森林土壤磷的矿化，在雨季（每年4一9月），加倍降雨也将不利于成熟森林土壤磷的矿化，土壤磷素可获得性的降低，限制了土壤微生物对有机碳的分解[17]。在旱季（每年11月一次年2月），土壤呼吸及其温度敏感性随着降雨量的增加而升高；相反，其湿度敏感性则随降雨量的增加而降低。在湿季，无降水处理降低土壤呼吸及其温度敏感性，并提高其湿度敏感性；研究结果表明干旱将降低南亚热带森林土壤呼吸，但雨季降雨增加可能抑制土壤呼吸对气温升高的响应[18]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上结果从不同角度阐明了森林土壤积累有机碳的机理。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/58042e9fe8f87359696c9dacbe0ab4cb725bbd906d848531d9cd9079c996f2ab.jpg",
+        "img_caption": [
+            "图5碳-氮交互作用下的土壤各组分有机碳含量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HC、HN、HCHN和CK分别表示高 $\\mathrm { C O } _ { 2 }$ ( $7 0 0 ~ \\mathrm { p p m }$ ）、高氮（施N量 $1 0 0 \\ \\mathrm { k g \\ h a ^ { - 1 } \\ y r ^ { - 1 } }$ ）、高碳高氮处理和对照，TOC、POC、ROC和MBC分别表示总有机碳、颗粒有机碳、易氧化有机碳和微生物碳含量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2阐明了土壤有机碳积累的驱动机制",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于对鼎湖山长期的（水文过程）监测资料分析以及SWAT模型的模拟，1950—2009年，该地区年总降水量变化很小，但土壤水分含量明显降低。2000一2009年，每月最低7天的径流总量（monthly 7-day low flow）亦显著减少。然而，同期湿季最大日径流量以及潜水层地下水位却在显著增加（图6）。土壤水分含量以及径流最低流量的显著降低态势表明该流域正朝向干旱化方向发展。表明气候变化在该流域确实已经导致了更多极端水文事件（干旱和洪涝）的发生。土壤水分含量明显降低，将导致土壤呼吸下降，而雨季降雨量的增加也降低了土壤呼吸对气温上升的响应。显然，气候变化引起的水热环境改变降低了土壤有机碳的分解速率，延长了土壤有机碳的周转期，最终促进了土壤有机碳的积累[19]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "处于不同演替阶段森林生态系统碳平衡研究表明，随着森林群落正向演替，生物量碳的积累逐步转向土壤有机碳的积累，有机碳分配到土壤中的比例增加，土壤有机碳的来源越趋丰富，使得成熟森林土壤有机碳具有更高的积累速率[20-22]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前，有关成熟森林土壤持续积累有机碳的机制还在进一步深挖中，预计不久的将来会有一批新的成果涌现。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3承担中科院战略性先导科技专项课题，从点到面，阐述中国森林生态系统固碳现状与潜力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于在森林生态系统碳循环研究方面的丰富积累，鼎湖山站被选定为中科院战略性先导科技专项“应对气候变化的碳收支认证及相关问题”（2011一2015年，简称“碳专项”）之“中国森林生态系统固碳现状、速率、机制和潜力”（简称“森林课题”）课题牵头单位。课题涉及面广，研究对象复杂，鼎湖山站团队骨干克服种种困难，通过反复论证，在较短时间内圆满完成了课题相关片区划分、全国范围调查样地数量的确定、子课题设置及研究队伍的组织工作，并制定了详细的研究实施方案和统一操作规范，编制的课题及片区子课题(a) $\\scriptstyle 0 - 5 0 \\ c \\mathrm { m }$ 土层含水量月均值和土壤水势；(b)地下水位月均值;(c1）月径流量曲线；（c2）干季径流量与降雨量比值；（c3）每月7天径流量；（c4）每年5月和6月的最大10天径流量",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c2dd4e08af3ea64cf8a41cefcd28911a3a41770bed3dcb5083d5ce789daf586.jpg",
+        "img_caption": [
+            "图6 鼎湖山1999—2009 年土壤含水量、地下水位及相关径流变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "预算申报书也通过了中科院的审核，课题顺利启动。课题启动后，1000多名科研人员精诚合作，经过5年多的艰苦工作，完成了以下科学任务：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）符合IPCC规范的、能够满足森林生态系统碳库可测量、可报告、可核查的标准方法体系的构建，该体系涵盖了样点布设、样地调查、采样、实验室分析测试、数据计算等内容，为未来相关研究工作的开展提供了示范模板；圆满完成课题的预定目标，顺利通过项目验收。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）设置了一系列可以服务于长期生态研究的典型森林生态系统样地。在全面了解中国森林资源状况的基础上根据森林复杂程度，设置了7800个典型森林的代表性样地。这些样地能够较好地反映中国森林资源状况,可用于长期生态学研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）在广泛收集文献的基础上，结合课题获取的资料构建了适用于中国森林生物量估算的分种分器官生物量方程200余套。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（4）构建了国家尺度森林生态系统数据库，涉及数据表120余个，各类数据1000余万条。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（5）在国内外发表相关研究论文300余篇，向中央和地方各级政府提供咨询报告6份。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（6）摸清了我国森林生态系统固碳现状和固碳潜力，为国家环境外交谈判提供了具有充分说服力的科学数据；圆满完成了课题预定目标，顺利通过项目验收。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "课题首席科学家为此作为碳专项代表团成员之一获邀参加2015年12月在法国巴黎举行的世界气候大会（图7），并在巴黎气候大会中国角举行的以“追踪碳足迹—一中国科学家在行动”为主题的中科院碳专项边会专场作报告，向大会展示了中国森林生态系统碳汇的现状，阐述了中国科学家通过实施全国陆地碳汇现状和潜力的定量评估发现，我国现有和将执行的增汇措施已经并将继续发挥重要的固碳作用，得到国家发改委领导的高度赞赏。中央电视台新闻频道随后还专门制作了以《“共建人类命运共同体”2015年中国代表团巴黎气候大会纪实》为题的纪录片[23]，片长40多分钟，详细报道了碳专项边会全过程，高度肯定了边会的贡献：“这些声音增加了世界对中国的理解，为应对气候变化行动提供不竭动力”。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/95e72766e0c4108d759571e83b808d1a0226e56d08cc49885c616993b66e5c61.jpg",
+        "img_caption": [
+            "图72015年12月，参加巴黎气候大会的国家发改委领导与中科院碳专项代表团成员"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3创新思维造就开阔视野，大尺度揭示森林生态系统对水资源保护与碳汇功能的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植树造林是否导致水资源减少一直存在争议。在全面收集了广东全省近200个气象与水文监测站点前后50年的监测资料后，通过定量分析降雨量、潜在蒸散量、人为耗水量、水库截留量等因素，揭示了广东省大规模造林活动对产水量的影响。结果表明，近50年来，大规模的植树造林活动使广东全省森林覆盖率增加了1倍，但全省的总产水量并未出现显著变化（图8），而产水量格局却发生了改变，即干季产水量显著增加。这种雨量的再分配使全年的总产水量基本不变，而年内的变异性也显著下降，即全年时间的产水量变得更为均匀一致[24]。这一结论证实，在降雨量超过潜在蒸散量地区，大规模造林不会带来水资源供应的下降，换言之，森林固碳功能增加不会以牺牲水资源为代价。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对近百年来集水区“对比试验”所得出“造林意味着水资源损失”[25]的研究结果，在结合多年个例研究的基础上，阐述了“气候与土地覆盖对产水量作用的全球模式”，并用全球2600多个研究案例进行了检验。模式指出已在世界各地广泛开展近1个世纪的“对比试验”存在严重的设计缺陷、对其结果的解释也存在严重的“预先假定”问题；模式得出森林与产水量关系存在负作用、无作用和正作用的结论，并精确给出了控制这3个作用的气候与流域特征参数的临界值[2（图9）。从理论上阐明了气候和流域性质对产水量的影响机理，结束了100多年有关“森林与产水量关系”的争论。被认为“是一个具有重要价值的原创科学贡献，具有潜在的",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b1c6b29e96811a4b515e9b3b8be5ba13adb09cbe623b18bfb96b81acba6c4f2.jpg",
+        "img_caption": [
+            "图81956—2006年广东省旱季产水量与森林覆盖率、水库库容的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/36d332c19d3be4fc1a0e8d9cb8a3ecb1871339fd56f94d1b30a571d5697326a2.jpg",
+        "img_caption": [
+            "图9格局理论分布曲线及2个灵敏度函数",
+            "图101978—2010年鼎湖山季风常绿阔叶林群落相关指标结构动态(a）群落生物量；（b）单位面积植物个体数；（c）群落新增个体速率和个体死亡率；（d）群落大、小个体胸径增长速率"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a）分布格局，红线表示阈值；（b）和（c）灵敏度函数分布影响力”。在实践中，对如何根据气候条件和流域特征营造森林，提高森林覆盖、保持水资源供应并增加碳汇潜力方面具有重要的现实意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4坚持宏观与微观相结合，揭示热带亚热带地区常绿阔叶林结构与功能对气候变化的响应与适应规律，推动生态系统非平衡理论的构建",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "分析30多年来永久样地长期监测结果发现，鼎湖山季风常绿阔叶林（成熟森林）因群落新增个体速率大于死亡率，使得单位面积的植物个体数增加导致群落物种组成发生改变，而大个体胸径增长率、小个体增长率增加，群落个体总体胸径（或平均胸径）下降，最终导致群落生物量下降[27]（图10）。进一步利用分布在我国亚热带地区的20个常绿阔叶林永久样地长期监测结果，分析发现，近30年来，该植被群落活性有机碳库（叶、根系、小乔木、灌木和DBH（胸高直径） $< 1 0$ 的小个体组",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1≤D≤5.↓P<0.05 10<D≤20.↓P<0.015<D≤10.↓P<0.01 D>20.↓P<0.01Total.√P<0.01300  \n(1） 60 中402001978 1982 1992 199419992004 20082010(年)6000b 1≤D≤5.↑P<0.01 10<D≤20.P<0.015<D≤10.↑P<0.01 D>20.↓P<0.015000 Total. ↑ P<0.01  \n40001 8 交8  \n每100001978 1982 1992 1994 1999 2004 2008 2010(年)155 .• 1≤D≤5.↑P<0.01 D>20.P=0.61 ：0 5<D≤10.↑P<0.05 All. ↑P<0.01 810 10<D≤20.P=0.34。5 O 。X △：0-5 8 一 D & ▼10 O 5<Ds10.PP<0.01 10<D≤20.P<0.01 D>20.P=0.051992-1994 1994-1999 1999-2004 2004—20082008-2010(年)51 d 1≤D≤5.P<0.01 D>20.P=0.055<D≤10.P<0.05 ■All. P<0.054 10<D≤20.P=0.05?3亚2 T01992-1994 1994-1999 1999-2004 2004-20082008-2010(年",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "成的生物量碳库称活性碳库）积累速率远高于非活性碳库（ ${ \\mathrm { D B H } } { > } 1 0$ 的个体枝、干的生物量碳库）[28]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "常绿阔叶林的个体大小和种类组成正在向小型化和小乔木方向转化，这个转化将深刻地影响该生物群系对生物多样性的保育功能；同时，森林群落结构的改变导致了中国常绿阔叶林区域成熟森林的叶与根生物量比例上升，推动成熟森林碳收支进入一个新的非平衡状态，这个非平衡状态指向于一个较低的森林生物量碳平衡水平。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于鼎湖山常绿阔叶林永久样地32年（1978—2010年）来8次群落调查记录的物种个体数、植物胸径以及环境因子变化等数据，结合样地48个优势种（占样地个体总数的 $92 \\%$ ）一系列表征植物资源获取策略（光合速率、水分传导率、叶片氮磷含量等）和抗旱性（枝条抗空穴化能力、枝条安全系数、膨压丧失点等）等功能性状指标测定结果，集成分析发现，植物快速生长以及抗旱策略相关的功能性状与其丰富度（abundance）的变化显著相关，从机理上进一步解释了南亚热带季风常绿阔叶林植物群落结构的变化表现为对区域气候变化（温度升高、森林土壤变干等）的一种适应[29]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "鼎湖山站自1978年建站以来，始终围绕森林生态系统结构与功能、格局与过程之间的关系及其对环境变化响应与适应规律这一总体目标，系统开展长期监测、研究和示范工作，注重利用平台资源服务于各行业相关科研、科普教育、环境规划、生态旅游等方面工作的开展。通过承担大量国家、中科院及地方科研项目，揭示了热带亚热带森林生态系统有机碳积累机理及驱动机制，阐明了森林生态系统碳、氮、水循环等关键过程与耦合关系及其对环境变化响应与适应规律。知识创新工程启动以来，已发表SCI论文400多篇，包括在 Science、Nature Communication，Ecology LettersGlobal Change Biology，New Phytologist，Soil Biology &",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Biogeochemistry，Agricultural and Forest Meteorology,WaterResourceResearch等一区SCI期刊论文10o多篇，研究成果先后独立（获奖人员全部来自鼎湖山站）获得国家自然科学奖二等奖1项，中国基础研究十大新闻1次，广东省科技成果一等奖2项、二等奖1项，国家环保总局科技成果三等奖1项；作为主要成员参与的成果先后获得国家科技进步奖一等奖1项、二等奖1项，广东省科技成果奖一等奖2项，并培养了一批生态系统生态学研究的杰出人才。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "独特的区位优势、完善的研究设施、长期历史数据的积累和丰富的成果产出，鼎湖山站已成为国内外知名的生态系统生态学综合研究基地。在上级部门的大力支持下，相信鼎湖山站在生态系统生态学、森林水文学、全球变化生态学等长期生态学研究领域必将继续起着重要的示范和引领作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 Odum E P. Strategy of ecosystem development. Science,1969, 164: 262-270.   \n2 Zhou G Y,Liu SG,Li Z A,et al. Old-growth forests can accumulate carbon in soils. Science,2006,314:1417.   \n3Hopkin M.Forests keep active in old age.Nature,2006.DOI: 10.1038/news061127-13.   \n4Fontaine S,Barot S,Barré P,et al.Stability of organic carbon in deep soil layers controlled by fresh carbon supply.Nature,2007, 450: 277-280.   \n5Luyssaert S,Schulze E D,Bomer A,et al. Old-growth forests as global carbon sinks.Nature,2008,455:213-215.   \n6Mo JM, Zhang W, Zhu W X,et al.Nitrogen addition reduces soil respiration in a mature tropical forest in southern China.Global Change Biology,2008,14(2): 403-412.   \n7Lu X K, Gilliam F S,Yu G,et al. Long-term nitrogen addition decreases carbon leaching in a nitrogen-rich forest ecosystem. Biogeosciences,2013,10: 3963-3982. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8Liu L,Gundersen P, Zhang T,et al.Effects of phosphorus addition on soil microbial biomass and community composition in three forest types in tropical China.Soil Biology and Biochemistry, 2012,44:31-38. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9 Huang W J,Liu JX,Wang YP,et al.Increasing phosphorus limitation along three successional forests in southern China.Plant and Soil, 2013,364:181-191. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10 Deng Q, Zhou G Y,Liu J,et al. Responses of soil respiration to elevated carbon dioxide and nitrogen addition in subtropical forest ecosystems in China.Biogeosciences,2010,7(1):315-328. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "11 Liu JX,Xu ZL,Zhang D Q,et al.Effects of carbon dioxide enrichment and nitrogen addition on inorganic carbon leaching in subtropical model forest ecosystems.Ecosystems,2011,14:683- 697. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "12 Yan JH, Zhang D Q,Liu JX,et al.Interactions between $\\mathrm { C O } _ { 2 }$ enhancement and N addition on net primary productivity and water-use efficiency in a mesocosm with multiple subtropical tree species.Global Change Biology,2014,20(7):2230-2239. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "13Chen X M,Liu JX,Deng Q,et al.Effects of elevated $\\mathrm { C O } _ { 2 }$ and nitrogen addition on soil organic carbon fractions in a subtropical forest.Plant Soil,2012,357:25-34. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "14 Chen X M,LiYL, Otieno D,et al.Effects of nitrogen deposition on soil organic carbon fractions in the subtropical forest ecosystems of S China.Journal of Plant Nutrition and Soil Science,2012,175:947-953. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "15 Liang G H,Liu X Z,Chen XM,et al.Response of Soil Respiration to AcidRain in Forests ofDifferent Maturity in Southern China. Plos One,2013,8(4): e62207. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "16Qiu QY,WuJP,Liang GH,etal.Effects of simulated acid rain on soil and soil solution chemistry in a monsoon evergreen broadleaved forest in southern China.Environ Monit Assess,2015, 187(5): 1-13. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "17HuangWJ,LiuJX,Zhou GY,etal.Effects ofPrecipitation on Soil Acid Phosphatase Activity in Three Successional Forests in ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Southern China.Biogeosciences,2011,8(7):1901-1910. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "18Jiang H,Deng Q, Zhou G Y,et al.Responses of soil respiration and its temperature/moisture sensitivity to precipitation in three subtropical forests in southern China.Biogeosciences,2O13,10: 3963-3982. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "19 Zhou G Y,Wei X H,Wu YP,et al. Quantifying the hydrological responses to climate change in an intact forested small watershed in Southern China.Global Change Biology,2011,17:3736-3746. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20 Zhou G Y, Zhou C Y,Liu S G,et al.Belowground carbon balance and carbon accumulation rate in the successional series of monsoon evergreen broad-leaved forest.Science in China Ser.D Earth Sciences,2006,49(3):311-321. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "21 Huang Y H,Li YL,Yin X,et al.Controls of liter quality on the carbon sink in soils through partitioning the products of decomposing litter in a forest succession series in South China. Forest Ecology and Management,2011,261:1170-1177. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22 Tang XL,Wang Y P, Zhou G,et al.Different patterns of ecosystem carbon accumulation between a young and an oldgrowth subtropical forest in Southern China.Plant Ecology,2011, 212:1385-1395. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "23CCTV新闻频道．“共建人类命运共同体”2015年中国代表团巴黎气候大会纪实.[2016-04-23].http://news.cctv.com/2016/04/23/VIDEkhebugWGkaYvHKLJ7WbY160423.shtml.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "24Zhou G Y,Wei X H,Luo Y,et al.Forest Recovery and River Discharge at the Regional Scale of Guangdong Province, China. WaterResourcesResearch,2010,46:W09503. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "25 Jackson R B,Murray B C,et al. Trading Water for Carbon with Biological Carbon Sequestration. Science,2005,310:1944-1947. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "26 Zhou G Y,WeiXH, Chen X Z,et al.Global pattern for the effect of climate and land cover on water yield.Nature Communications, 2015,6:5918. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "27 Zhou G Y,Peng C H,LiYL,et al.A Climate Change Induced Threat to the Ecological Resilience of A Subtropical Monsoon ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Evergreen Broadleaved Forest in Southern China.Global Change Biology,2013,19:1197-1210. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "29 LiRH, Zhu S D,Chen HY H,et al.Are functional traits a good predictor of global change impacts on tree species abundance dynamics in a subtropical forest?Ecology Letters,2015,18(11): 1181-1189. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "28 Xiao Y, Zhou G Y, Zhang Q M,et al. Increasing active biomass carbon may lead to a breakdown of mature forest equilibrium. Scientific Reports,2014,4: 3681. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Long-term Monitoring and Innovative Research to Illustratethe Process and Mechanism of Forest Ecosystem Function ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zhou GuoyiZhang DeqiangLi Yuelin Zhang Qianmei ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（DinghushanorstEosteeseachtatioouthhinataicalGden,scadeyfiecesangzoua）",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbstractNowadays,iovationisbecomingapowerfuldrivingfocebeindthedisciplinedevelopment.Withthestronglongteuport oftheChineseAcademyofSiences,theMnistryfSieneandTecnologoftePeople'sRepublicofChna,teNationalaturaience FoundationofChina,andthelocal governmentofGuangdongprovince,bymeansoflong-termmonitoringandinnovativesearch, DinghushnForestEcosystemResearchStation(hreinafterreferredtoasthe“Dinghushan Station）foundthesientificphenomenonthat old-growthforestscaacclatecaboninsoils,lstratedteehansmofforestogicateracclationnditsivings frommacroscopictcooicsale,eadingthsearhorbn,rogen,dwatercyleproesesoffrestosteing theircouplinginesposetoteevironmentalchangesandtheadaptationoftecosystem,therefore,promotedthestablisntofthe ecologicalsystemsonequlibmtheory.Dinghushanstatioacquiedsientificquantificationonthecurentcarbonsequestrationcapacity andthepotentialofatioalforestosysteshichprovedaimporantsientificsupportfortheatioalenviomentaldiplomacyuch demonstrationofagloalpateofforestandwateryieldandaccuratelygivingthiticalalueofteparametersdscrbingwateryeld controllingfactoringatedatedractestisovidtepetoooroesalof‘telatioie forestandwateryield,itasfrreacingiplicatiosforsientificsearhdaturalrsoucemaagementAsiftiateiio couldresultinangsinespeisdistrbutionndforstomposition,iceasenverifdbyhattheevegnboad-edfrest communitiesinChinaarechangingtowardshrubtendencyuetotheadaptationtoclimatechangeinthepast3Oyears,suchadaptionwas dominatedbyteaieviomentalfctors,ndthemechanismasdemostratedTheseeseachcoclusiosprovideteoricalrtfor thescientificevauaoffrestarbsquestratiodatersouhtsteatioalndfohstruciftualee andecologicalevioentUtilow,ingushanStationasbcomeanieplacabletioalfeldsientificsuppringpatfodan interationalwelkoresearchbaseofforescologicalsystes.Meanhile,itislsoanologytalentcuiatiobasforteCie Academy of Sciences and the Guangdong region. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywordsevergenbroad-leaedforestecosystem,long-teoitongdiovatieeseacharbonsqusratinfuntioarbo nitrogen-water coupling,forest and water yield ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "周国逸中科院华南植物园“特聘核心骨干研究员”、学术委员会副主任、鼎湖山森林生态系统研究站站长，广东省生态学会理事长。国家自然科学基金委杰出青年基金、全国及广东省“五一”劳动奖章、广东省劳模、广东省“南粤百杰”、全国优秀科技工作者，广东省“十大”杰出青年获得者。主要研究领域包括生态系统生态学、全球变化生态学、森林及生态水文学、恢复生态学等。迄今已出版专著4部，在Science，NatureCommunications，Global ChangeBiology等期刊发表SCI收录论文180篇。以第一完成人先后获得国家自然科学奖二等奖1项，中国基础研究十大新闻1项，广东省科技成果奖一等奖2项、二等奖1项。E-mail: gyzhou@scib.ac.cn",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZhouGuoyiProfesorinSouth ChinaBotanicalGarden(SCBG)of theChineseAcademyofSciences(CAS),speciall-hiredsearher of“CASDistinguisedResearchFellowProgram”,vicedirectorofSCBGAcademicCommiteedirectrofngushanorestEostem Research Station,directorofEcological SocietyofGuangdongProvince.Hewonthenationalsciencefoundationfordistinguishedyoung scholars in2oo7.Hehas wonnationaland GuangdongprovincialMay-Daylabormedals,awardof tenoutstandingyouthbyGuangdong Province.Hiptisosolbagoltdlicadostoatobd books,and $1 8 0 ~ S C I$ papers intop joumals including Science,Nature Communication,and Global Change Biology.Hisscientific achievements havewonnescod-casswardofatioalatualSieesAard,teualtopeventsihina’sbsiceseachfortea, twfirstprizeofGuangdongprovincialscienceandtechnologawards,andonesecondprizeofGuangdongprovincialsienceadtechology award. E-mail: gyzhou@scib.ac.cn ",
+        "page_idx": 10
+    }
+]

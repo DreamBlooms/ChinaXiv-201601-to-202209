@@ -1,0 +1,172 @@
+[
+    {
+        "type": "text",
+        "text": "Boosting the voltage and specific energy of aqueous supercapacitors via Janus membrane ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Na Liang', Yongsheng $\\mathrm { J i } ^ { 1 }$ , Jing Xu, Danying Zuo, Dongzhi Chen & Hongwei Zhang\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "College of Materials Science and Engineering, Wuhan Textile University,WuHan,43o073,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "N. Liang and Y. Ji equally led the data curation. J. Xu led formal analysis, investigation and writing of the original draft, and provided supporting of fund. D. Zuo provided supporting in formal analysis and writing of the original draft. D. Chen provided supporting in formal analysis and review & editing. H. Zhang led conceptualization, project administration and validation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A compact Janus membrane, which consists of sulfonated polystyrene and quaternized polystyrene, is used as the separator to assemble a novel carbon-based supercapacitor. The aqueous acidic and alkaline electrolyte solutions can be simultaneously used in one supercapacitor device. The carbon-based aqueous supercapacitor can not only run at a high cell voltage of $2 . 2 ~ \\mathrm { V } ,$ but also deliver a specific energy of $2 0 . 0 6 ~ \\mathrm { W h \\ k g ^ { - 1 } }$ . Moreover, such a supercapacitor with specific energy of 40-50 Wh $\\mathbf { k g } ^ { - 1 }$ can be predicted after further optimization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Energy conversion, Membranes,Aqueous electrolyte, Specific energy, Voltage ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As a key enabler for modern society, energy storage is necessary for various energy applications, such as portable electronics, electric vehicles and grid storage. Supercapacitors and Li-ion batteries (LIBs) are two highly desirable energy storage devices at present. [1] Compare with LIBs, supercapacitors have a high specific power $( 1 0 \\mathrm { ~ k W ~ k g ^ { - 1 } } \\cdot$ ） and long cycle life but suffer from low specific energy (only $5 { \\cdot } 1 0 \\mathrm { ~ W ~ h ~ } \\mathrm { k g } ^ { - 1 } ,$ ). [2] As a result, there is a worldwide effort to resolve the specific energy issue of supercapacitors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the formula: $\\mathrm { E } { = } ^ { 1 } / _ { 2 } \\mathrm { C V } ^ { 2 }$ ， there are two strategies to boost the specific energy of supercapacitors.[3] One is to increase the capacitance of supercapacitors, including exploring new carbon-based materialswith large surface area and high N doping level,[4-6] adopting pseudocapacitive materials with high specific capacitance,[7] and adding redox species in the electrolyte.[8-1O] The other is to increase the voltage of supercapacitors,including using non-aqueous electrolytes to obtain a high operating voltage of above 3.O V,[11-13] assembling asymmetric supercapacitors with a capacitor-type electrode and a batery-type electrode [14-16],balancing the loading mass of two electrodes,[17] and adjusting the cutof potential for two electrodes.[18] However, these methods to increase the capacitance and/or enlarge the cell voltage have their respective disadvantages,such as flammability, low ionic mobility, time-consuming fabricating process or high cost. Consequently，a facile approach of boosting the specific energy and voltage of aqueous supercapacitors still remains a great challenge. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Janus membrane is a membrane with opposing properties (e.g. hydrophilicity/hydrophobicity and positive/negative charges)on each side,[19] which has a promising potential for various applications, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "such as nanofiltration, catalytic contactor, demulsification,emulsification, aeration, fog harvesting, Osmosis energy harvesting,battery. [20]   \nIt is well-known that a supercapacitor has three key components: electrode, electrolyte and separator. All methods mentioned above are based on the modification of electrode and electrolyte. Herein, we proposed a method based on the separator to increase the specific energy and the cell voltage.A compact Janus membrane as the separator, which consists of sulfonated polystyrene (SPS) on one side and quaternized polystyrene (QPS)on the other side, is employed to design a supercapacitor with novel configuration (Scheme 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd2baf38de7dddaba169ffca7ae8c4950354349765ae2ecaa149124dd802ac9c.jpg",
+        "img_caption": [
+            "Scheme 1. Schematic of the supercapacitor using a Janus membrane "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In such a supercapacitor, two activated carbon electrodes are separated by the compact Janus membrane.The spaces on the SPS side and the QPS side are filled with 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ and 2 M KOH aqueous solutions,respectively. It is obvious that the supercapacitor is still based on the electrical double layer mechanism and classified as an electrical double layer capacitor (EDLC).As shown in ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scheme 1, when it is charged, $\\mathrm { K } ^ { + }$ cations and $\\mathrm { S O _ { 4 } } ^ { 2 - }$ anions are accumulated at the surfaces of activated carbons on the negative electrode and the positive electrode,respectively.At the same time, OH and $\\boldsymbol { \\mathrm { H } } ^ { + }$ transfer towards the Janus membrane and meet in the interface of SPS and QPS to generate $\\mathrm { H } _ { 2 } \\mathrm { O }$ molecules. When it is discharged, the process is converse.   \nThe EDLC with such a configuration can utilize the different stable potential windows of positive and negative electrodes and their over-potentials, which results in a high operating voltage of up to $2 . 2 { \\mathrm { ~ V } } .$ （20 Consequently,its specific energy reaches 5 times as high as that of a conventional EDLC with sole 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ or 2 M KOH aqueous solution at least.   \nThe stable potential windows of an activated carbon electrode in 2 M KOH and 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ solutions are -1.2 -O V (vs. NHE) and O -1.O V (vs. NHE),respectively (Figure S1). For the assembly of an EDLC using a Janus membrane,it is worth mentioning that the electrodes of the EDLC on the SPS side and the QPS side can be only served as positive electrode and negative electrode,respectively. Otherwise the EDLC does not work well and has a very high voltage drop $( \\sim 1 ~ \\mathrm { ~ V ~ } )$ because the transference of $\\mathrm { K } ^ { + }$ cations and ${ \\mathrm { S O } _ { 4 } } ^ { 2 - }$ anions through the Janus membrane is blocked by the Janus membrane (Figure S2). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The capacitive performances of such an EDLC are displayed in Figure 1. Comparison of the cyclic voltammetry (CV) curves of the EDLC under different voltage windows at a scan rate of $5 0 \\mathrm { ~ m V ~ s ^ { - 1 } }$ demonstrates that the EDLC can harness the potential windows of activated carbon electrodes in $2 \\mathbf { M }$ KOH and 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ solutions to reach a high cell voltage of $2 . 4 \\mathrm { V }$ (Figure 1a). The EDLC exhibits a rectangle-like CV curves in a large cell voltage range from O to $2 . 2 ~ \\mathrm { V } ,$ ，which is twice as that of conventional carbon-based EDLCs using KOH or ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ solutions $( \\sim 1 \\mathrm { ~ V } )$ .However, the current of the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EDLC significantly increases when the cell voltage exceeds 2.3 V,which is related with the decomposition of water. [21] Galvanostatic charge-discharge (GCD） curves of the EDLC under different voltage windows at a specific current of $\\mathrm { ~ 1 ~ A ~ g ^ { - 1 } ~ }$ are also collected to further evaluate the electrochemical performance (Figure 1b). The discharge curves of the EDLC demonstrate a nearly linear relation of discharge/charge voltage versus time，suggesting a capacitor-like behavior. The absence of obvious voltage drop means the low internal resistance of the EDLC.Furthermore,all the specific capacitances of the EDLC calculated from these GCD curves are close to $3 4 \\mathrm { ~ F ~ g ^ { - 1 } }$ (based on the total weight of the anode and cathode active materials). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The CV curve at the scan rate of ${ 5 \\ \\mathrm { m V \\ s ^ { - 1 } } }$ is a rectangular shape without noticeable redox peaks, revealing an ideal capacitive behavior. In addition, the CV curve still remains a definite rectangular shape without obvious distortion even at the scan rate of $1 0 0 \\mathrm { m V s ^ { - 1 } }$ , implying an excellent reversibility and good rate performance. It is consistent with the nearly symmetric and linear GCD curves.The specific capacitances of the EDLC at various current densities under $2 . 2 \\mathrm { V }$ are plotted in Figure 1d. It can be found that the specific capacitance gradually decreases with the increase of the current densities because electrolyte ions has not enough time to access the interior parts of activated carbons and only the outer active surfaces of activated carbons are used for charge storage at high current densities. The specific capacitances are 45.8, 36.9, 34.4, 31.4 and $2 9 . 4 \\mathrm { F ~ g } ^ { - 1 }$ at the different current densities of O.1, 0.5,1, 2, and $3 \\mathrm { ~ A ~ g ^ { - 1 } }$ ，respectively. It illustrates the specific capacitance retains about $64 \\%$ of the original capacitance when the specific current increases from O.1 to $3 \\mathrm { ~ A ~ g ~ } ^ { - 1 }$ ， exhibiting a high rate capability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure le provides the Ragone plot of the EDLC under $2 . 2 { \\mathrm { ~ V } } .$ The EDLC displays specific energy of 12.65-28.07 Wh $\\mathbf { k g } ^ { - 1 }$ and specific power of $3 6 . 4 6 { \\cdot } 9 1 6 . 5 6 \\mathrm { W } \\mathrm { k g } ^ { - 1 }$ . At the specific current of $1 \\mathrm { A g } ^ { - 1 }$ ,the specific energy of the EDLC is 20.06 Wh $\\mathbf { k g } ^ { - 1 }$ ， which is more than 5 times as high as that of a conventional EDLC with sole 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ or $2 \\mathbf { M }$ KOH solution (Figure S3). The value is one of the highest specific energy of EDLCs based on carbon/carbon in literature (Table S1). One charged EDLC using a Janus membrane can light a green light-emiting diode (LED) for 8O s (inset of Figure 2e and Video S1) or drive a mini-fan for 39 s (Video S2). While one charged conventional EDLC with 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ can only drive the mini-fan for 14 s (Video S3). The long-term cycle stability of the EDLC is evaluated at the specific current of $\\mathrm { ~ 1 ~ A ~ g ^ { - 1 } ~ }$ in the voltage window of O-2.2 V (Figure 1f). Clearly, the specific capacitance reduces to $96 \\%$ of the initial specific capacitance in the first 1OO cycles,then the value still retains over $90 \\%$ of the initial specific capacitance after 15OO cycles. Thereafter, the specific capacitance shows considerable reduction and only $62 \\%$ of the initial specific capacitance after 2200 cycles. The reason may be mainly atributed to the degradation of quaternary-ammonium groups on the Janus membrane due to the Hofmann degradation or $S _ { \\mathrm { N } } 2$ substitution under strongly alkaline environments.[22] Nyquist plots of the EDLC before and after cycling test are obtained from electrochemical impedance spectroscopy (EIS） and displayed in the inset of Figure 1f. In the lowfrequency region,the straight line nearly paralel to the virtual axis represents the ideal capacitive behavior and the good ion diffusion. In the high-frequency region,the equivalent series resistance increases from 3.85 to $4 . 8 9 ~ \\Omega$ after cycling test. It may be also atributed to the degradation of quaternary-ammonium groups on the Janus membrane, which results in higher resistance. But the charge transfer resistance is almost unchanged $( 0 . 8 2 \\substack { - 0 . 8 4 \\Omega } )$ after cycling test, which indicates the retained high charge transfer rate between the electrolyte and active materials. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e51c534ef1cd503fa3d34a2ad031e3ac66bff89323d04de4ea173e12c093c93e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfaba88043f3831d32b704cddd94da4a61de74fa5f4e00c66da6cd862d1b645c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/acb37a9271b03d9930d437feb1a0b4db7c837c187c9d679be4ea08b8320990ed.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 1. (a) CV curves of the EDLC using a Janus membrane under different voltage windows at a scan rate of $5 0 \\mathrm { m V s } ^ { - 1 }$ . (b) GCD curves of the EDLC under different voltage windows at a specific current of $1 \\mathrm { A g } ^ { - 1 }$ . (c) CV curves of the EDLC at different scan rates. (d) Variation of specific capacitance with current densities of the EDLC (Inset: GCD curves of the EDLC at different current densities). (e)Ragone plot of the EDLC and inset: a green LED lighted by one EDLC device. (f) The cycling performance of the EDLC at a specific current of ${ \\mathrm { 1 ~ A g ^ { - 1 } } }$ (Inset: Nyquist plots of the EDLC ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "before and after cycling test). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It has been proved that the addition of redox-active mediators to electrolytes can boost the specific energy of supercapacitors.[9,1O] As a consequence, $p$ -phenylenediamine and hydroquinone are added in 2 M KOH and1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ of the EDLC using a Janus membrane in order to further increase the specific energy. This revised EDLC delivers an specific energy of $4 8 . 4 ~ \\mathrm { W h ~ k g ^ { - 1 } }$ at the specific current of $1 \\mathrm { A g } ^ { - 1 }$ in the voltage window of $0 { - } 2 . 2 \\mathrm { ~ V ~ }$ (Figure S4a) and can drive the mini-fan for 112 s (Video S4). Unfortunately, its capacitive performance seriously deteriorates and specific capacitance retention is less than $80 \\%$ after 70O cycles at the specific current of ${ \\mathrm { 1 ~ A g ^ { - 1 } } }$ (Figure S4b). In summary,the porous separator of the conventional EDLC is replaced by a compact Janus membrane. Accordingly, KOH and ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ electrolytic solutions can be simultaneously used in such an EDLC. This EDLC not only retains high ionic mobility of two electrolytic solutions, but also utilizes the different stable potential windows of positive and negative electrodes. It can be successfully operated at $2 . 2 \\mathrm { V }$ and delivers an specific energy of $2 0 . 0 6 \\mathrm { W h } \\mathrm { k g } ^ { - 1 }$ at the specific current of $1 \\mathrm { A g } ^ { - 1 }$ ,which is over 5 times as high as that of a conventional EDLC with sole 1 M ${ \\mathrm { H } } _ { 2 } { \\mathrm { S O } } _ { 4 }$ or $^ { 2 \\mathbf { M } }$ KOH aqueous solution. Therefore, this investigation provides a novel guideline for boosting the specific energy and voltage of aqueous supercapacitors based on active carbon electrodes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Hubei Provincial Natural Science Foundation of China (2O18CFB267). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reference [1] N.-S. Choi, Z. Chen, S.A. Freunberger, X. Ji, Y.-K. Sun, K. Amine, G. Yushin,L. F. Nazar, J. Cho P. G. Bruce, Angew. Chem. Int. Ed. 2012, 51, 9994-10024.   \n[2] Y. Ma, H. Chang, M. Zhang, Y. Chen, Adv. Mater. 2015,27, 5296-5308.   \n[3] Z. Huaping, L. Long, V. Ranjith,L. Yong, Advanced Science 2017, 4, 1700188.   \n[4] T. Lin, I.-W. Chen,F. Liu, C. Yang, H. Bi, F. Xu,F. Huang, Science 2015,350, 1508-1513.   \n[5] Y. Mei, Z. Zhen, Advanced Science 2017, 4, 1600408.   \n[6] Z. Chen, Y. Yuan, H. Zhou, X. Wang, Z. Gan,F. Wang, Y. Lu, Adv. Mater. 2014, 26,339-345.   \n[7] V. Augustyn, P. Simon, B. Dunn, Energy Environ. Sci. 2014, 7, 1597-1614.   \n[8] S.-E. Chun, B. Evanko, X. Wang, D. Vonlanthen, X. Ji, G. D. Stucky, S. W. Boettcher, Nature Communications 2015, 6, 7818.   \n[9] R. Silvia, B. Clara, G. Marcos, M. Rosa, S. Ricardo, Angew. Chem. Int. Ed. 2011, 50,1699-1701.   \n[10] J. Wu, H. Yu,L. Fan, G.Luo,J.Lin,M. Huang, J. Mater. Chem. 2012,22,19025-19030.   \n[11] E. Mourad,L. Coustan, P. Lannelongue, D. Zigah, A. Mehdi, A. Vioux, Stefan A. Freunberger,F.   \nFavier, O. Fontaine, Nat. Mater. 2016,16, 446.   \n[12] R. Na, C.-W. Su, Y.-H. Su, Y.-C. Chen, Y.-M. Chen, G. Wang, H. Teng, Journal of Materials Chemistry A 2017, 5, 19703-19713.   \n[13] H.-C. Huang, Y.-C. Yen, J.-C. Chang, C.-W. Su,P.-Y. Chang, I. W. Sun, C.-T. Hsieh, Y.-L. Lee, H. Teng, Journal of Materials Chemistry A 2016, 4,19160-19169.   \n[14] J. Yan, Z. Fan, W. Sun, G. Ning,T. Wei, Q. Zhang, R. Zhang,L. Zhi,F. Wei, Adv. Funct. Mater.   \n2012, 22, 2632-2641.   \n[15] K. Qingqing, G. Cao, Z. Xiao, Z. Minrui, Z. Yong-Wei, C. Yongqing, Z. Hua, W. John, Adv.   \nMater. 2017,29,1604164.   \n[16] N. Jabeen, A. Hussain, Q. Xia, S. Sun, J. Zhu,H. Xia, Adv. Mater. 2017, 29.   \n[17] J. H. Chae, G. Z. Chen, Electrochim. Acta 2012, 86, 248-254.   \n[18] M. Yu, D. Lin, H. Feng, Y. Zeng, Y. Tong, X. Lu, Angew. Chem. Int. Ed. 2017,56,5454-5459.   \n[19] Y.Hao-Cheng, H. Jingwei, C. Vicki, X. Zhi-Kang, Angew. Chem. Int. Ed. 2016,55,13398-13407 [20] Y.Hao-Cheng, X. Yunsong, H. Jingwei, C. A. K., C. Vicki, D. S. B., Adv. Mater. , 0,1801495.   \n[21] K. Fic,M. Meller,E. Frackowiak, J. Electrochem. Soc. 2015,162,A5140-A5147.   \n[22] G. Couture, A. Alaaeddine,F.Boschet, B. Ameduri, Prog. Polym. Sci. 2011,36,1521-1557. ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "type": "text",
+        "text": "Review article ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strategies for the production of cell wall-deconstructing enzymes in lignocellulosic biomass and their utilization for biofuel production ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sang-Hyuck Park1,\\*†， Rebecca Garlock Ong2,3,† and Mariam Sticklen1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DepartmentofPlant,SoilandMicrobialSciences,MichiganState University，EastLansing,Ml,USA   \nDepartetatertanteasi   \nDepartmentof Chemical Engineering,Michigan Technological University，Houghton,Ml,UA Received24 June 2015;   \nrevised 23 October 2015;   \naccepted2 November2015.   \n\\*Correspondence (Tel (662) 686-5355;fax (662) 686-5281;   \nemail sang.park@ars.usda.gov)   \n+S.-H.Park and R.G. Ong made an equal contribution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: cell wall-deconstructing enzymes,lignocellulosic biomass, biofuels,promoter,plant subcellular compartments,signal peptides. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Microbial cell wall-deconstructing enzymes are widely used in the food,wine,pulp and paper, textile,and detergent industriesand will be heavily utilized by cellulosic biorefineries in the production of fuels and chemicals. Due to their ability to use freely available solar energy, genetically engineered bioenergy crops provide anattractive alternative to microbial bioreactors for the production of cell wall-deconstructing enzymes.This review article summarizes the efforts made within the last decade on the production of cell wall-deconstructing enzymes in planta for use in the deconstruction of lignocellulosic biomass.A number of strategies have been employed to increase enzyme yields and limit negative impacts on plant growth and development including targeting heterologous enzymes into specific subcellular compartments using signal peptides,using tissue-specific or inducible promoters to limit the expression of enzymes to certain portions of the plant or certain times,and fusion of amplification sequences upstream of the coding region to enhance expression.We also summarize methods that have been used to access and maintain activity of plant-generated enzymes when used in conjunction with thermochemical pretreatments for the production of lignocellulosic biofuels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plant lignocellulosic biomass is mainly comprised of polymeric sugars (cellulose，hemicellulose and pectin)，and polyphenolics (lignin) that are found within the plant cell wall (Hu et al.,2012; Li et al.,2014). During the biochemical conversion of lignocellulosic biomass to fuels,cell wall-deconstructing enzymes are used to convert plant cell wall polysaccharides into fermentable sugars. In addition to their use in the bioethanol industry,these enzymes are alsowidely used inagricultural waste bioremediation,aswell as by the pulp and paper,cosmetics and textiles industries.In the pulp and paper industry,enzyme treatments are considered more cost-effective compared with mechanical processes,resulting in up to $2 0 \\% - 4 0 \\%$ energy savings (Kuhad et al.,2011). However, the costs associated with the production of microbial enzymes for use by the biofuel industry are expected to be high.These expected costs vary widely，ranging from ${ \\sim } \\$ 0.34$ to $\\$ 1.47$ per gallon of cellulosic ethanol produced,with enzyme companies stating $\\mathord { \\sim } \\$ 0 . 50 /$ gallon of ethanol (Hong etal.，2013；Humbird etal.，2011;Klein-Marcuschamer et al.,2012).Even at the low end,the enzyme cost is expected to account for $\\sim 1 5 \\%$ of the minimum ethanol selling price and $2 5 \\%$ of the total biorefinery processing costs (Humbird et al.,2011). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Producing enzymes in plants is one strategy to reduce the production and processing costs of cell wall-deconstructing enzymes. It has been estimated that the cost for producing heterologous proteins in plants is at least 1O-5O fold less compared with their production in microbes (Giddings et al., 2000).Currently，the USA is capable of generating between 500 million and 1.5 billion tons of lignocellulosic biomass every year，with 100-80o million tons of bioenergy crops and 150- 400 million tons of agricultural residues (Perlack and Stokes, 2011).Should $0 . 5 \\%$ of the herbaceous plants be directed for production of cell wall-deconstructing enzymes (Egelkrout et al., 2012),this could generate as much as 6 million tons of cell walldeconstructing enzymes every year. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This review article summarizes the efforts made within the last decade on the production of cell wall-deconstructing enzymes in planta,focusing on current strategies to increase the yield of enzymes in plant vegetative biomass.These strategies include targeting the heterologous enzymes into specific subcellular compartments via signal peptides， using tissue-specificor inducible promoters to limit the interference of enzymes with cellular function,and fusion of amplification sequences upstream of the coding region to enhance expression.We also address a number of issues that can occur during expression of enzymes in plant materials.Finally,we summarize various studies on the use of heterologously produced enzymes in conjunction with thermochemical pretreatment methods to increase the yields of fermentable sugars generated from lignocellulosic biomass. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Subcellular targeting of heterologous enzymes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant cells harbour several functionally specialized subcellular compartments including the endoplasmic reticulum (ER),chloroplast,mitochondria,Golgi, peroxisome and vacuole. It is possible to target recombinant cell wall-deconstructing enzymes for accumulation in specific subcellular compartments using a signal peptide,a short, transient peptide located at the N-terminus of a newly synthesized protein that directs the protein for secretion or toa specific organelle.Once delivered to its final destination,the signal peptide is usually cleaved off of the enzyme by a signal peptidase.Such targeting is valuable for a number of reasons. The organelles can be targeted based on their compatibility with the physical properties of the enzymes (e.g.pH stability).Also enzymes can be sequestered inside organelles until plant maturation in order to protect the plant cell walls from premature degradation.Many signal peptides have been identified that target different subcellular compartments,a number of which have been used to direct storage of heterologously produced microbial enzymes (Figure 1a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Targeting the cytosol for enzyme accumulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Targeting the cytosol for enzyme expression simply involves the removal of any signalling peptide from the gene construct (Ziegelhoffer et al.，1999). In one of the first studieson heterologous expression of enzymes in planta,a cellobiohydrolase (E2/Cel6A)and an endoglucanase (E3/Cel6B)from Thermobifida fusca (formerlyThermomonospora fusca) were targeted into the cytosol of tobacco and alfalfa,albeit at extremely low levels (Ziegelhoffer et al.，1999). Since then,a large number of scientific teams have examined the feasibility of producing a number of different enzymes in the cytosol (Table 1),with levels rangingfrom $0 \\%$ to $50 \\%$ TSP (Table S1). In spite of this，the cytosol may not be the best location for storing heterologous enzymes due to the presence of high levels of proteases and the lack of co-and post-translational modifications that are required for proper enzymatic functioning (Egelkrout et al.，2012).However,it is possible to use protease inhibitors to protect newly synthesized enzymes against degradation either when produced in the cytosol,or when they are migrating through the cytosol towards their targeted compartments (Goulet et al.，2010, 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Targeting the apoplast for enzyme accumulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The apoplast is a free diffusional space outside of the plasma membrane that includes the cell wall.A number of different signal peptides have been used to target cell wall-deconstructing enzymes to the apoplast (Table 1); however， the two most widely used are barley $\\mathfrak { a }$ -amylase (BAASS)and the pathogenesisrelated proteins (PR-S/Pr1a/Pr1b).BAASSis often usedin conjunction with a seed-specific promoter for protein accumulation in cereal seeds，although it has also been used with Arabidopsis and tobacco (Borkhardt et al.，201O; Hahn et al., 2014).Apoplast targeting using pathogenesis-related protein signal peptides has been successfully accomplished in tobacco (Dai et al.，2005;Mahadevan etal.，2011;Park et al.，2011b; Pereira et al.，2014)，maize (Biswas et al.，2006;Park et al., 2011b；Ransom et al.，2007)，rice (Chou et al.，2011；Oraby et al.，2007)and alfalfa (Badhan et al.，2014)，without disturbing cell wall integrity and with reasonable enzyme yields $( 1 . 2 \\% - 6 . 1 \\% )$ (Table S1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When expressed at low levels， heterologous enzymes targeted to the apoplast show no apparent negative impacts on plant growth and development (Ziegelhoffer et al.， 2001). However，at high levelsof expression，biologically activecell wall-deconstructing enzymes that are targeted to the apoplast can directly affect the plant cell wall，resulting in changes to cell wall composition (Pogorelko et al.，2011). In some cases, these changes are beneficial，reducing cell wall recalcitrance (Badhan et al.，2014;Brunecky etal.，2011；Buanafina et al., 2010；Pogorelko et al.，2011，2013)，and in others， the enzymes negatively impact plant growth and development (Buanafina et al.，2015;Chou et al.，2011;Klose et al.，2013, 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Targeting the ER for enzyme accumulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ER is a suitable location for the accumulation of heterologous enzymes because it contains a series of molecular chaperones, such as the ER luminal binding protein,that is needed during protein folding and assembly,and which prevents the transport of immature protein molecules (Valente et al.,2oo9). Targeting of heterologous enzymes into the ER is accomplished by adding a retention signal such as KDEL (Harholt et al.,2O10;Hood et al., 2007；Kloseetal.,2012,2015;Park etal.,2011b;Pereira et al., 2014),HDEL (Jiang et al.,2011),SEKDEL (Harrison et al.,2011), DIKDEL (Chatterjee et al.，201O) or LKDEL (Buanafina et al., 2010) to the C-terminal of the protein sequence.Nullification of ERretention can be accomplished byattachinga Frameshift KDEL (ETTEG)to the C-terminus,which allows the enzymes to be expressed in other compartments (Buanafina et al.,2oo6,2008, 2010).When E1 (AcCel5A) was targeted into the ER of maize stover，the yield was much higher than E1 targeted to the mitochondria (Mei et al.，2oo9).Another report confirms the suitability of ER targeting for high-level production of heterologous enzymes (E1/AcCel5A,CBHI/TrCel7A) in maize seeds (Hood et al.,2007). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Targeting the vacuole for enzyme accumulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Vacuoles are storage reservoirs for water and starch within the cell and account for ${ \\sim } 3 0 \\% { \\sim } 9 0 \\%$ of plant cell volume depending on plant maturity (Alberts et al.,2oo7).Although the number of vacuolesper plant cell is relatively low，the large volume potentially occupied by vacuoles within the cell is beneficial for high enzyme accumulation. Barley aleurain vacuole-targeting signal (ALE)，sweet potato sporamin A and vacuole-targeting signal peptide (VT) have all been used as signal peptides to accumulate endoglucanases，cellobiohydrolases, $\\beta$ -glucosidases and endoxylanases in plant vacuoles (Table 1).Vacuole targeting can also be facilitated by including，at the $3 ^ { \\prime }$ end of the construct,a vacuole sorting determinant such as DELKAEAK (Harrison et al.，2011，2014a,b) or a carboxyl-terminal propeptide (Badhan et al.，2014;Pereira et al.，2014). In general,the accumulation and retention of enzyme activity tends to be high within vacuoles.For both green and senescent tissues,synthetic CBHI/Cel7 and CBHl/Cel6 showed higher activitieswhen targeted to sugarcane leaf vacuoles compared to targeting to the ER (Harrison et al.,2011).And in maize seeds, the vacuole accumulated the highest amount of E1/AcCel5A of all the organelles (Hood et al.,2oo7).The exception is one case where the accumulation of enzymes within the vacuole was significantly lower compared to the ER,chloroplast and apoplast (Dai et al., 2005). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/21497663bcb586986c24c94702694236f4ddabf1f8e75adddca4bafb094946bf.jpg",
+        "img_caption": [
+            "Figure1aiatcllllisblpats;m cellal-degisodibod;cei signal; BAASS, Barley $\\mathfrak { a }$ -amylasesignalsequence;CAB,Chlorophyll-/b-bindingprotein;CALSP,tobaccocalreticulinsignalpeptide;CaMV3,double CaMV5p;t chitiasl;et Glub-4riceutGcteer;dpaietal; senescence-eaedepromoter;acybridflasidanopithetasepromotedauifoermosaicius3promoterce MMA,leadertioaibo;abisicrootebK-tf (RbcSK-1A) without negative regulatory region; OlexA-46, $\\beta$ -estradiol-inducible promoter;Pact2,Arabidopsis actin 2 promoter; PepC, phospeolbte PRa/PRbdscro StaGreos vacuole-targeting signal peptide; Zm-leg1A,maize legumin promoter. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/389c917261b1fdfc7352a0ee4fb52bcf7135167257344445bca2d7f40eb93394.jpg",
+        "table_caption": [
+            "ertleeg "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Targeting compartment</td><td>Signal peptide/ termination sequence</td><td>Host plants and promoters</td><td>Heterologous enzyme</td><td>References</td></tr><tr><td>Cytosol</td><td></td><td>Arabidopsis: RbcSK-1A, CaMV 35S Duckweed: CaMV 35S Potato: CaMV 35SS</td><td>Endo-1,4-β-glucanase (3.2.1.4) Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91) 1,4-β-glucosidase (3.2.1.21)</td><td>Bae et al. (2006,2008), Chatterjee et al. (2010), Dai et al. (2005),Fan and Yuan</td></tr><tr><td></td><td></td><td>Rice: CaMV 35S,Maize ubiquitin, Rice actin act1, Rice SGR, Ubiquitin</td><td>Endo-1,4-β-xylanase (3.2.1.8) Polygalacturonase (3.2.1.15)</td><td>(2010),Furukawa et al. (2014,2013), Hahnet al. (2014),Jiang et al. (2011), Jung et al. (2010,2013), Kimura et al.</td></tr><tr><td></td><td></td><td>Rice Seeds: Gt1</td><td>4-O-methyl-glucuronoyl methylesterase (3.2.1.73)</td><td>(2010),Mahadevan et al. (2011),</td></tr><tr><td></td><td></td><td>Tobacco: Mac, RbcSK-1A,</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td></td></tr><tr><td></td><td></td><td>MRbcSK-1A + aps,Pact2,</td><td></td><td>Nigorikawa et al. (2012),Pereira et al.</td></tr><tr><td></td><td></td><td></td><td>Feruloyl esterase (3.1.1.73)*</td><td>(2014),Sun et al. (20O7),Tsai et al.</td></tr><tr><td></td><td></td><td>CaMV 35S,CaMV 35SS,MMV</td><td>Laccase (1.10.3.2) + CBM</td><td>(2012), Weng et al. (2013),Yang et al.</td></tr><tr><td></td><td></td><td></td><td>Chimeric:</td><td>(2007)and Zhang et al. (2012)</td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td></td></tr><tr><td></td><td></td><td></td><td>Feruloyl esterase (3.1.1.73)</td><td></td></tr><tr><td>Apoplast</td><td>Mutated ALE; Mutated</td><td>Tall Fescue: Rice Actin 1,</td><td>α-arabinofuranosidase* (3.2.1.55)</td><td></td></tr><tr><td></td><td>ALE/Frameshift KDEL</td><td> Soya bean Heat Shock, LmSee1</td><td>Feruloyl esterase (3.1.1.73)</td><td>Buanafina et al. (2010)</td></tr><tr><td></td><td>Arabidopsis 2S2</td><td>Tobacco: MMV</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Chatterjee et al. (2010)</td></tr><tr><td></td><td></td><td></td><td>Feruloyl esterase (3.1.1.73)*</td><td></td></tr><tr><td></td><td>Arabidopsis β-expansin</td><td>Arabidopsis: CaMV 35S</td><td>Acetylxylan esterase (3.1.1.72)</td><td>Pogorelko et al. (2011,2013)</td></tr><tr><td></td><td></td><td></td><td>Rhamnogalacturonan acetyl esterase (3.1.1.86) Feruloyl esterase (3.1.1.73)</td><td></td></tr><tr><td></td><td>BAASS</td><td>Arabidopsis: CaMV 35S</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Borkhardt et al. (2010), Clough et al. (2006),</td></tr><tr><td></td><td></td><td>Maize: Rubi3</td><td>Cellulose 1,4-β-cellobiosidaseR (3.2.1.176)</td><td>Devaiah etal. (2013),Egelkrout et al. (2013),</td></tr><tr><td></td><td></td><td>Maize Seeds: Glb1,Glb2 +</td><td>Cellulose 1,4-β-celobiosidaseNR (3.2.1.91)</td><td>Gray et al. (2011b), Hahn et al. (2014),</td></tr><tr><td></td><td></td><td>Glb1 + pr26,Rice Glutelin,Rubi3 Tobacco: Pact2</td><td>Endo-1,4-β-xylanase (3.2.1.8) Feruloyl esterase (3.1.1.73)</td><td>Harholt et al. (2010), Hood et al.</td></tr><tr><td></td><td></td><td>Wheat Seeds: Wheat Glutenin 1DX5</td><td>Manganese peroxidase (1.11.1.13)</td><td>(2007),Shen et al. (2012)</td></tr><tr><td></td><td>CALSP</td><td>Tobacco:CaMV35SS</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Jiang et al. (2011)</td></tr><tr><td></td><td>Chitinase 1</td><td>Tobacco: CaMV35S</td><td>Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91)</td><td></td></tr><tr><td></td><td>Maize expansin B</td><td>Brachypodium: Maize Ubiquitin</td><td>Endo-1,4-β-mannosidase (3.2.1.78) Acetyl xylan esterase (3.1.1.72</td><td>Hoshikawa et al. (2012) Pogorelko et al. (2013)</td></tr><tr><td></td><td></td><td></td><td>Rhamnogalacturonan acetyl esterase (3.1.1.86)</td><td></td></tr><tr><td></td><td>MMA</td><td>Tobacco: CaMV 35SS,alcAmin35S</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Klose et al. (2013,2015,2012)</td></tr><tr><td></td><td>PPI</td><td>Potato:CaMV35SS</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Buanafina et al. (2015,2012,2010),</td></tr><tr><td></td><td></td><td>Tall Fescue: Rice Actin 1, LmSee1</td><td>Feruloyl esterase (3.1.1.73)</td><td>Yang et al. (2007)</td></tr><tr><td></td><td>PR-S; Pr1a; Pr1b</td><td>Alfalfa: tCUP4</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Badhan et al. (2014), Biswas et al.</td></tr><tr><td></td><td></td><td>Maize: CaMV 35S</td><td>Cellulose 1,4-β-cellobiosidaseR (3.2.1.176)</td><td>(2006),Chou et al. (2011), Dai et al.</td></tr><tr><td></td><td></td><td>Maize Seeds: Glb1</td><td>Polygalacturonase (3.2.1.15)</td><td>(2005),Mahadevan et al. (2011),</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Rice: CaMV 35S,Mac</td><td>Feruloyl esterase (3.1.1.73)</td><td>Oraby et al. (2007), Park et al.</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/649c984c6c4fb34881d8e6ef3e825a72338b724bc704ed7b5bd01d30cdcc4a91.jpg",
+        "table_caption": [
+            "prrgutrliqa "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Targeting compartment</td><td>Signal peptide/</td><td></td><td></td><td>References</td></tr><tr><td></td><td>termination sequence</td><td>Host plants and promoters Tobacco: Mac, RbcSK-1A,</td><td>Heterologous enzyme</td><td>(2011b),Pereira et al. (2014),</td></tr><tr><td></td><td></td><td>CaMV 35S,CaMV 35SS</td><td></td><td>Ransom et al. (2007)</td></tr><tr><td></td><td>PttCel9B3</td><td>Hybrid Aspen: CaMV 35S</td><td>4-O-methyl-glucuronoyl methylesterase (3.1.1.-)</td><td>Latha Gandla et al. (2015)</td></tr><tr><td></td><td>PvPGIP1</td><td>Arabidopsis: OlexA-46,SAG12</td><td>Polygalacturonase (3.2.1.15)</td><td>Tomassetti et al. (2015)</td></tr><tr><td></td><td>Rice αx-amylase;</td><td>Sunflower: CaMV 35S</td><td>Pectate Lyase (4.2.2.2) Endo-1,4-β-glucanase (3.2.1.4)</td><td>Hahn et al. (2014),Hwang et al. (2012)</td></tr><tr><td></td><td> Rice α-amylase 3A;</td><td>Tobacco: CaMV 35S; Pact2</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>and Jung et al. (2014)</td></tr><tr><td>Endoplasmic</td><td>Rice α-amylase 3D</td><td></td><td></td><td></td></tr><tr><td>reticulum</td><td>ALE/LKDEL</td><td>Tall Fescue: Rice Actin 1, Soya bean Heat Shock</td><td>Feruloyl esterase (3.1.1.73)</td><td>Buanafina et al. (2010)</td></tr><tr><td></td><td>Arabidopsis 2S2/DIKDEL</td><td>Tobacco: MMV</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Chatterjee et al. (2010)</td></tr><tr><td></td><td></td><td></td><td>Feruloyl esterase (3.1.1.73)*</td><td></td></tr><tr><td></td><td>BAASS/KDEL</td><td>Maize Seeds: Glb1 Tobacco: CaMV 35S</td><td>Endo-1,4-β-glucanase (3.2.1.4) Cellulose 1,4-β-cellobiosidaseR (3.2.1.176)</td><td>Harholt et al. (2010), Hood et al. (2007) and Llop-Tous et al. (2011)</td></tr><tr><td></td><td></td><td>Wheat Seeds: Wheat Glutenin 1DX5</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td></td></tr><tr><td></td><td></td><td></td><td>Feruloyl esterase (3.1.1.73)</td><td></td></tr><tr><td></td><td>CALSP/HDEL</td><td>Tobacco: CaMV 35SS</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Jiang et al. (2011)</td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91)</td><td></td></tr><tr><td></td><td>MMA/KDEL</td><td>Tobacco: CaMV 35SS</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Klose et al. (2015,2012)</td></tr><tr><td></td><td>Pr1b/KDEL</td><td>Alfalfa: tCUP4</td><td>Polygalacturonase (3.2.1.15)</td><td>Badhan et al. (2014) and Pereira et al. (2014)</td></tr><tr><td></td><td></td><td>Tobacco:CaMV35SS</td><td>Feruloyl esterase (3.1.1.73)</td><td></td></tr><tr><td></td><td>SPER/KDEL</td><td>Maize: RbcS1</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Dai et al. (2005),Mei et al. (2009) and</td></tr><tr><td></td><td></td><td>Tobacco: Mac</td><td></td><td>Park et al. (2011b)</td></tr><tr><td></td><td>γ-Zein/SEKDEL</td><td>Sugarcane: Maize PepC,Maize Ubiquitin 1</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Harrison et al. (2011,2014b)</td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseR (3.2.1.176)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91)</td><td></td></tr><tr><td>Chloroplast</td><td></td><td>Tobacco: Prrn,PpsbA,PpsbA + T7g10</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Agrawal et al. (2011), Espinoza-Sänchez</td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91)</td><td>et al. (2015), Gray et al. (2009),</td></tr><tr><td></td><td></td><td></td><td>1,4-β-glucosidase (3.2.1.21)</td><td>Gray et al. (2011c), Jin et al. (2011),</td></tr><tr><td></td><td></td><td></td><td>Xyloglucan-specific Endo-1,4-β-glucanase (3.2.1.151)</td><td>Kim et al. (2011), Kolotilin et al. (2013),</td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Nakahira et al. (2O13),Pantaleoni et al.</td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-mannosidase (3.2.1.78)</td><td>(2014),Petersen and Bock (2011),</td></tr><tr><td></td><td></td><td></td><td>Pectate lyase (4.2.2.2)</td><td>Verma et al. (2013,2010),Yu et al.</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Pectin lyase (4.2.2.10)</td><td>(2007) Ziegelhoffer et al. (2009)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c7fcef9d0e5855b5647cbc2acf6a2cd36a89e3ca2f0c645854bf0e31ef41ff2.jpg",
+        "table_caption": [
+            "plllgatrlligei "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Targeting compartment</td><td>Signal peptide/ termination sequence</td><td>Host plants and promoters</td><td> Heterologous enzyme</td><td>References</td></tr><tr><td></td><td></td><td></td><td>Acetyl xylan esterase (3.1.1.72) Lipase (3.1.1.3) Cutinase (3.1.1.74) Swollenin</td><td></td></tr><tr><td></td><td>CAB CTP Cyanophora paradoxa FNR</td><td>Tobacco: RbcSK-1A Tobacco: Pact2</td><td>Manganese peroxidase (1.11.1.13) Endo-1,4-β-glucanase (3.2.1.4) Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91)</td><td>Kim et al. (2010) Hahn et al. (2014)</td></tr><tr><td></td><td>RbcS;RbcS-2A</td><td>Sugarcane: Maize PepC Arabidopsis: CaMV 35S Tobacco: Mac, RbcS-3C,RbcSK-1A,</td><td>Endo-1,4-β-glucanase (3.2.1.4) Endo-1,4-β-glucanase (3.2.1.4) Cellulose1,4-βcellbiosidaseN (3..91)</td><td>Harrison et al. (2011,2014b) Dai et al. (2005), Jung et al. (2013), Kim et al. (2010),Lee et al. (2012),</td></tr><tr><td></td><td>Rubisco Activase</td><td>MRbcSK-1A,MRbcSK-1A + aps, CaMV 35S</td><td>1,4-β-glucosidase (3.2.1.21) Endo-1,4-β-xylanase (3.2.1.8) Polygalacturonase (3.2.1.15)</td><td>Pereira et al. (2014)</td></tr><tr><td></td><td></td><td>Alfalfa: tCUP4</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Badhan et al. (2014), Bae et al</td></tr><tr><td></td><td></td><td>Arabidopsis: RbcSK-1A, CaMV35S</td><td></td><td></td></tr><tr><td>Vacuole</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>1,4-β-glucosidase (3.2.1.21)</td><td>(2006,2008),Jung et al. (2010),</td></tr><tr><td></td><td></td><td>Tobacco:RbcSK-1A,CaMV 35S</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Kim et al. (2010), Lee et al. (2012) and</td></tr><tr><td></td><td></td><td></td><td>Feruloyl esterase (3.1.1.73)</td><td>Mahadevan et al. (2011)</td></tr><tr><td></td><td>ALE;ALE/Frameshift KDEL</td><td>Italian Ryegrass: Rice actin</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Buanafina et al. (2015,2012,2008,2006)</td></tr><tr><td></td><td></td><td>Tall Fescue: Rice actin 1,Maize</td><td></td><td></td></tr><tr><td></td><td></td><td>Ubiquitin,Soya bean Heat Shock,LmSee1</td><td>Feruloyl esterase (3.1.1.73)</td><td></td></tr><tr><td></td><td>Maize Proaleurain + VT</td><td>Maize Seeds: Zm-leg1A</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Endo-1,3(4)-β-glucanase (3.2.1.6)</td><td>Xu et al. (2013), Yang et al. (2015)</td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-mannosidase (3.2.1.78)</td><td>and Zhang et al. (2013)</td></tr><tr><td></td><td></td><td></td><td>α-Galactosidase (3.2.1.22)</td><td></td></tr><tr><td></td><td>Pr1b/CTPP</td><td>Alfalfa: tCUP4</td><td>Polygalacturonase (3.2.1.15)</td><td>Badhan et al. (2014) and Pereira et al. (2014)</td></tr><tr><td></td><td></td><td>Tobacco: CaMV 35SS</td><td>Feruloyl esterase (3.1.1.73)</td><td></td></tr><tr><td></td><td>Sweet Potato Sporamin A</td><td>Tobacco: Mac</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Dai et al. (2005)</td></tr><tr><td></td><td>VT</td><td>Maize: CaMV 35S</td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td>Hood et al. (2012,2007,2014)</td></tr><tr><td></td><td></td><td>Maize Seeds: Glb1</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseR (3.2.1.176)</td><td>and Park et al. (2011b)</td></tr><tr><td></td><td></td><td></td><td>1,4-β-glucosidase (3.2.1.21)</td><td></td></tr><tr><td></td><td>γ-Zein/DELKAEAK</td><td>Maize: Maize PepC</td><td></td><td>Harrison et a/. (2014a,2011,2014b)</td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td></td></tr><tr><td></td><td></td><td>Sugarcane: Maize PepC;</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseR (3.2.1.176)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Cellulose 1,4-β-cellobiosidaseNR (3.2.1.91)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mitochondria</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Cox IV</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Maize: RbcS1</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Mei et al. (2009)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Endo-1,4-β-glucanase (3.2.1.4)</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Golgi System</td><td>RST; RST/Frameshift KDEL</td><td>Tall Fescue: Rice Actin 1</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Buanafina et al. (2012,2010)</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Targeting chloroplasts for enzyme accumulation via nucleartransformation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The chloroplast is considered particularly suitable for production and sequestration of enzymes because of their large copy number within the cell and because their double-membrane provides added protection against interference by the sequestered enzymes with cellular growth and metabolic activity.For chloroplast targeting， the two most common signal peptides are Rubisco activase (RA)and Rubisco small subunit (RbcS). Production of endoglucanase TmCel5A in tobacco chloroplasts using the RbcS signal peptide gave much higher yields compared with other signal peptides including light-harvesting chlorophyll a-/b-binding protein (CAB) and RA (Kim et al.,201O). Cyanophora paradoxa ferredoxin- ${ \\mathsf { N A D P } } ^ { + }$ -oxidoreductase (FNR) has also been used for chloroplast targeting in sugarcane,though with very low yields $( < 0 . 0 5 \\%$ TSP)(Harrison et al.,2011,2014b). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Targeting chloroplasts for enzyme accumulation via plastidtransformation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Because chloroplasts contain their own genetic material,instead of using signal peptides it is also possible to insert the gene of interest directly into the plastid genome via homologous recombination.Plastid transformation has a number of distinct advantages over nuclear transformation.First,because individual cells contain many more copies of the plastid genome compared with the nuclear genome,it is possible to produce high copy numbers of the transgene and increase protein accumulation in transgenic plants (Hanson et al.，2013).Other advantages of plastid transformation include site-specific targeting of the transgene without disrupting essential codingand noncoding regions,the ability to express multiple proteins from polycistronic mRNA at high levels, the absence of gene silencing and more secure containment of the transgene due to maternal transfer of the plastid genome (Chen et al.，2014;Egelkrout etal.，2012；Heifetz，2000;Kim et al.,2011;Wani et al.,2010). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Accumulation of enzymes can be fairly high within the chloroplast,with a number of studies achieving over $10 \\%$ total soluble protein accumulation (Gray et al.，20o9；Gray et al., 2011c;Hahn etal.，2014;Kim et al.，2011;Ziegelhoffer et al., 2009),with the highest levels from plastid genome transformation.Within the same study,enzyme accumulation in chloroplasts isgenerally higher compared with accumulation in other organelles，including the apoplast，cytosol，vacuoles，ER and peroxisomes (Bae et al.，2006，2008； Harrison et al.，2011; Mahadevan et al.,2011). However,high expression of enzymes within chloroplasts can occasionally cause pigment and photosynthetic deficiencies (Agrawal et al.,2011;Kolotilin et al.,2013; Nakahira etal.，2013；Pogorelko etal.，2011；Verma et al., 2013)，although these deficiencies does not always result in negative impacts on growth or reproduction (Agrawal et al., 2011).These phenotypic and physiological defects can be partially overcome by generating heteroplasmic plants that contain a mix oftransgenic and nontransgenic plasmids (Pogorelko etal.,2011). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2c1df23ffd26b613f79c0e4f14769b5ff349e645aaf1156316c9d26b1dde161.jpg",
+        "table_caption": [
+            "pllgatrgliqbr ",
+            "rrreprnoiiollarraegrnes, "
+        ],
+        "table_footnote": [
+            "e ",
+            "wwra eriirninn "
+        ],
+        "table_body": "<html><body><table><tr><td>Targeting</td><td colspan=\"4\">Signal peptide/</td></tr><tr><td>compartment</td><td>termination sequence</td><td>Host plants and promoters</td><td>Heterologous enzyme</td><td>References</td></tr><tr><td>Peroxisome</td><td>-/SKL</td><td>Arabidopsis: RbcSK-1A</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Bae et al. (2006)</td></tr><tr><td>Endosperm</td><td>Glub-4</td><td>Maize Seeds: Glub-4</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Gray et al. (2011b)</td></tr><tr><td>Chloroplast &</td><td>RA/SKL</td><td>Arabidopsis: RbcSK-1A</td><td>Endo-1,4-β-xylanase (3.2.1.8)</td><td>Bae et al. (2006)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Targeting mitochondria for enzyme accumulation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mitochondria have the potential to be highly suitable compartments for enzyme production.This is because,like chloroplasts, mitochondria are present at high copy numbers within the cell andare surrounded bya double-layered membrane that increases the likelihood of enzyme containment,preventing premature cell wall degradation.However,although mitochondria also contain their own genetic material,plastid transformation is a demonstrated technology while mitochondrial genome transformation has never been successfully achieved in land plants (Colas des Francs-Small and Small,2014).Nuclear transformation coupled with the use of signal peptides is the only method currently available to target the mitochondria.A signal peptide derived from yeast cytochrome C oxidase subunit (Cox IV) has been used to target E1/AcCel5A into maize mitochondria (von Heijne,1986; Mei et al.,2oo9). However, the amount of enzyme accumulated within the mitochondria was on average lower than that obtained bytargeting into the ER，and more fermentable sugars were produced when the ER-targeted transgenic plant extract was used to deconstruct lignocellulosic biomass (Mei et al.，2009). Onlya single study has been conducted on the use of mitochondria for enzyme accumulation,and enzyme yields were quite low $( 0 . 2 \\%$ yield TSP of endoglucanase)，so it is unknown whether higher enzyme accumulation in mitochondria would significantly disrupt respiration,similar to how high enzyme accumulation in chloroplasts can disrupt photosynthesis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Targeting peroxisomes for enzyme accumulation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Peroxisomes are small,ubiquitous organelles that are involved in fatty acid degradation,carbon metabolism and pathogen defence within plant cells (Hu et al.,2012).A number of signal peptides areavailable that target peroxisomes (Lingner et al.，2011); however,it is also possible to accumulate enzymes in peroxisomes byattaching a peroxisome-targeting termination sequence,SKL, to the C-terminal.Using this sequence，endoxylanase (Xylll/ TrXyn11A) from Trichodermareesei wassuccessfullytargeted to and accumulated in peroxisomes of transgenic Arabidopsis (Bae et al., 2006). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Strategies to increase the expression of cell wall-deconstructing enzymes in plants ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Promoters for enhanced accumulation of enzymes ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A number of techniques have been employed in an attempt to boost the expression of cell wall-deconstructing enzymes in planta,and choice of promoter is particularly important. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A variety of promotersare available (Saunders et al.,2oo1)and have been used for heterologous enzyme production,including constitutive,tissue- and organelle-specific,time-regulated-based onthe developmental phase,or chemically inducible (Figure 1b). Promoters can be subdivided into two classes,those derived from monocot species and those derived from dicot species (or froma viral vector that targets monocot or dicot species).A promoter is generally more effective when expressed in the same class of plant from which it was derived (Jang et al.，2oo2;Park et al., 2010;Schäffner and Sheen，1991).One of the most common constitutive promoters is the cauliflower mosaic virus (CaMV)35S promoter.The 35S promoter has been used to produce a variety of enzymes in dicots:duckweed $0 . 2 4 \\%$ TSP),tobacco $( 0 \\% - 9 \\%$ TSP)，potato $5 \\%$ TSP)，Arabidopsis $1 . 4 \\% - 1 4 \\%$ TSP)，hybrid aspen (N/A) and sunflower $( 0 . 0 5 \\% - 0 . 0 7 \\%$ TSP);and monocots: rice $4 . 9 \\%$ TSP)and maize $( 0 . 9 \\% - 3 . 1 \\%$ TSP)(Tables 1 and S1). However，it is generally more effective in dicots (Park et al., 2010).Several efforts have been made to improve the activity of 35S in monocot species. One strategy involved modifying the 35s promoter by adding an intron between the promoter and the openreading frame of transgene，which improved promoter activity in monocots，including some grasses(Fischerand ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Schillberg,2006).The activity of the 35S promoter can be further enhanced by duplication or when combined with an enhancer region．One example is the Mac promoter，a hybrid ofa mannopine synthetase promoter and the CaMV35S promoter enhancer.Use of the Mac promoter increased the heterologous E1/AcCel5A yield in tobacco by 20-fold compared with other promoters (Chou et al.，2011).Although the CaMV 35S promoter has been used for enzyme expression in monocots,there area number of constitutive monocot-specific promoters that have also been used including maize ubiquitin，rice ubiquitin (rubi3)and rice actin (Figure 1b).For a thorough list of potential promoters for protein expression in plants,we refer the reader to the review by Egelkrout et al. (2012). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Promoters for tissue-and organ-specific accumulation of enzymes ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A few tissue-specific promoters have been investigated for the production of heterologous enzymes in plants,including leafspecific light-inducible promoters based on of Rubisco small subunit genes (dicot: RbcSK-1A， RbcS-3C； monocot: RbcS1) (Table 1 and Figure 1b).The rbcS1 promoter derived from chrysanthemum has been shown to be advantageous compared with other promoters because of its higher gene expression levels, asmuch as 7-8 fold higher than the commonly used constitutive 35S promoter (Outchkourov et al.,2003). Other monocot tissuespecific promoters that have been used include the maize mesophyll-specific promoter (phosphoenolpyruvate carboxylase orPepC)，and a variety of endosperm and embryo-specific promoters: maize globulin (Glb1 & Glb2),maize legumin (Zmleg1A),rice glutelin (rice glutelin & Glub-4) and wheat glutenin (1DX5).Seed-specific promoters in particular are highly effective and result in some of the highest levels of protein accumulation （20 $( 3 . 2 \\% - 3 0 \\%$ TSP)(Table S1).Enzymes can also be stored in seeds postharvest and still retain activity after long-term storage at room temperature (Zhang et al.，2012).High enzyme yieldsare alsoachieved usinga chloroplast-specific promoter，either tobacco 16S ribosomal ERNA promoter (Prrn) or PSll protein D1 promoter (PpsbA)in combination with flanking sequences (Agrawal et al.，2011；Gray et al.，2009;Jin et al.，2011；Kim et al.,2011; Kolotilin et al.,2013;Verma et al.,2010,2013;Yu et al.,2007;Ziegelhoffer et al.，2009).These promoters support targeted integration of the gene of interest into the chloroplast genome via homologous recombination，as described in the previous section. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Promoters for inducible expression of enzymes ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemical, temperature and senescence-inducible promoters are also of interest as they allow the production of enzymes just prior to biomass harvest,and avoid early production of enzymes that can cause negative phenotypic impacts.One study used an alcohol-inducible promoter that is based on of the CaMV 35S promoter (a/cAmin35S) and showed increased enzyme expression levels without any adverse effects on the plant (Klose et al., 2013).A $\\beta$ -estradiol-inducible promoter (OlexA-46)wasused to trigger expression of pectate lyase in Arabidopsis;however,high levels of the transgene caused reductions in growth even when no inducer was applied (Tomassetti et al.，2015).Senescenceinducible promoters that trigger enzyme accumulation immediately upon cessation of growth have been used to provide a great effect in a number of studies.The rice stay green promoter has been successfully used to induce expression of a cellobiohydrolase in rice straw at the onset of senescence and also successfully eliminated the negative phenotype observed in constitutively expressed plants (Furukawa et al.， 2014). The senescenceinducible promoter SAG12 expressed polygalacturonase (pga2) only during the late stages of Arabidopsis development with no negative impacts to plant growth (Tomassetti et al.，2015). LmSee1,similar to maize Psee1 (Robson et al.,2004),has been used to increase ferulic acid esterase and xylanase expression in tall fescue (Buanafina et al.,2008,2010,2012,2015).The use of this senescence-inducible promoter resulted in higher heterologous enzyme activity compared with the constitutive promoters: ubiquitin,CaMV 35S and rice actin (Buanafina et al.,2008). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Use of multi-organelle targeting ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Besides promoter selection,other strategies have been employed to increase the expression of heterologous enzymes in plants. Multi-organelle targeting can be accomplished by incorporating a signal peptide for one organelle with a C-terminal targeting sequence fora second organelle.Using this method,xylanase was targeted to both chloroplasts and peroxisomes，and enzyme accumulation was significantly higher than when it was targeted toeach organelle individually (Bae et al.，2oo6).Another means to achieve multi-organelle targeting is by taking advantage of alternative splicing,a regulated process that naturally occurs in eukaryotes where the exons from a single gene naturally recombine in different ways,producing different proteins.In this case, $5 ^ { \\prime }$ mRNA tags are used that can recombine to different acceptor sites duringalternative splicing events.When employed, thisstrategy successfully enabled a reporter protein tobe targeted to chloroplasts，peroxisomes and the cytosol (Voges et al.,2013).Another possibility is to embed the second targeting sequence within the first，which reduces the possibilityof expression in nontargeted compartments (Voges et al.，2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Attaching promoter amplification sequences and multiple copies of transcription units ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Increasing the copy number of the promoter $^ +$ transcription unit within a single gene cassette can also increase the yield of plantproduced enzymes.For all constructs tested, those with multiple copies of the enzyme coding region within the construct had consistently higher activity of Cel5A (E1) or CBHl than those with a single copy (Egelkrout et al.,2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In some cases，increased enzyme expression can also be obtainedby attachinga cis-actingelement amplification sequence upstream of the promoter.However，the success of this method in increasing enzyme yields is dependent on the amplification sequence being used,the enzyme being expressed, and the organelle that is being targeted for expression.Fusion of an amplification sequence upstream of a modified RbcsK-1A promoter increased $\\beta$ -glucosidase (TmBgl3) production in tobacco chloroplasts by $2 \\%$ compared with the nonamplified promoter (Jungetal.，2013).However，in another study on xylanase production in tobacco chloroplasts,the effect of the amplification sequence depended on the enzyme being expressed.Incorporation of the N-terminal enhancer T7g10 increased production of AnXyn11A (from $2 . 5 \\%$ to $6 . 0 \\%$ TSP),but decreased production of AnXyn10A (from $3 . 3 \\%$ to $0 . 2 \\%$ TSP) (Kolotilin et al.,2013). Another study observed an improvement only with certain amplification sequences in certain tobacco organelles.Fusion of certain proteins including elastin-like polypeptide (ELP) repeats or hydrophobin (HFBl) has the ability to both increase heterologous protein expression and facilitate their purification (Conley et al., 2009;Joensuu et al.，2o1O). Incorporation of an ELP repeat into the construct increased polygalacturonase expression in vacuoles, but not in the ER or apoplast,while fusion with HFBl impaired both accumulation and activity of the enzyme (Pereira et al., 2014).Two possibilities were given for the poor performance of HFBl in this study,in that its shape interfered with proper enzyme folding and led to ER-associated protein degradation,or that the linker between HFBl and the enzyme was not optimized,which could impact activity and yield (Pereira et al.,2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Chloroplast-specific strategies ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A number of strategies have been specifically developed to increase the heterologous enzyme yields in chloroplasts.One strategy，as mentioned previously，is to use a plastid-specific promoter to take advantage of the high plastid genome copy number.It is also possible to increase chloroplast enzyme expression by altering the sequence of the downstream box (DB)region.In one study, the level of endoglucanase expression in tobacco plastids showed a 1oo-fold difference in yield between three different DB regions (Gray et al.，20o9)，although the results are enzyme dependent and show a different pattern for $\\beta$ -glucosidase expression (Gray et al.,2011c). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Useand manipulation of high-yield germplasm ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Selection of an appropriate host species for genetic transformationisbased on anumber of factors including ease of transformation,availabilityand effectiveness of suitable promoters,stability of transformation within the species,and biomass yield of the crop plant. However,even within the same species biomass yields can vary widely based on field and environmental conditions and genetic background.Once a host species is selected,using appropriate genetic backgrounds for transformation is very important as it can significantly impact the accumulationof heterologous cell wall-deconstructing enzymes.By inserting the desired cell wall-deconstructing genes into high oil maize germplasm and targeting seeds for expression,the amount of enzymes produced increased dramatically,with AcCel5A (E1) increasing by $50 \\%$ ,manganese peroxidase by 2-fold,and CBHl by 5-fold compared with standard or elite genotypes (Clough et al., 2006；Hood et al.，2012).Using a high biomass cultivar for production of xylanases in tobacco also increased production by $60 \\%$ compared with a standard cultivar (Kolotilin et al.，2013). Hybridizing transgenic plants isanotherway to increase yields, and inan initial field study, there were no differences between a transgenic hybrid and a conventional wild-type hybrid (Garda et al., 2015). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Expanding the types and numbers of enzymes targeted for accumulation in planta ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Alarge set of enzymeactivitiesisneeded in orderto effectively deconstruct the variety of polymeric sugars within the plant cell wall (Supporting Information；Figures S1-S4)．These enzymes function synergistically in a mixture and the addition of even small amounts of minor enzyme components is known to significantly improve enzymatic hydrolysis yields (Banerjee etal.，2010;Gao et al.,2011;Jabbour et al.,2014).Prior to 2005,the expression of cell wall-degrading enzymes in plants was limited to a relatively small number of thermostable enzymes，with an even more limited range of enzyme activities: two endoglucanases and a cellobiohydrolase (Dai etal.，2000；Jin etal.，2003；Teymouri etal.,2004;Ziegelhofferetal.,1999,2001;Ziegleretal.,2000), a handful of endoxylanases (Herbers et al.，1995;Kimura et al., ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2003;Leelavathi et al.,2oo3)and a couple of accessory glycoside hydrolases (Montalvo-Rodriguez et al.，2ooo). Over the past 10 years，although the most commonly studied enzyme has remained a thermostable endoglucanase (E1/AcCel5A) from Acidothermus cellulolyticus,the number of enzymes that have been evaluated has expanded significantly，both in terms of activities covered and organism of origin.The list now includes, not just endoglucanases and endoxylanases,but also a large variety of backbone and side-chain cleaving glycoside hydrolases, carbohydrate esterases,and even laccasesand peroxidases,which target lignin and other polyphenolics (Tables 1 and S2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Expression of multiple enzyme activities within a single plant ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "One strategy to accommodate the required enzyme synergy is to generate individual enzymes in separate lines of transgenic plants and then recombine them or their extracts during hydrolysis (Vermaetal.,201O). Ultimately however,itmaybedesirableand more efficient to produce multiple enzyme activities within a single plant.There are a number of strategies that have been employedto accomplish this. One method is to perform sequential transformations on a single transformant and in this way incorporate the genes for more than one enzyme within the genome (Buanafina et al.，2015).A stack of genes for multiple enzymes can also be delivered into the plant genome at one time viaAgrobacterium-mediated transformation and biolistic bombardment (Que et al.,201O).Another successful approach linked two enzymes,each witha different signal peptide,via the 2A selfcleaving oligopeptide from foot-and-mouth disease virus (Lee et al.，2012).2A self-cleaves in vivo and then the separate enzymesare directed by theirappropriate signal peptides to their target compartments (Lee et al.，2012).This means that this method could potentially be used to target different enzymes to different subcellular compartments. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another option,instead of trait-stacking the genes for multiple enzymes,is to express multifunctional enzymes.While many cell wall-deconstructing enzymes are active on only one substrate, multifunctional enzymes,sometimes called‘chimaeras'，possess more than one enzymatic activity and can be either naturally occurring or synthetically produced.These enzymes have multiple activities either because they possess an active site that is able to accommodate more than one substrate,or they have multiple active sites，each of which has activity towards a different substrate (Cho et al.,2006; Elleuche,2015;Fan and Yuan,2010; Ferrer et al.，2o12).If the enzyme that is chosen for expression hasactivity towards multiple substrates, this reduces the number of genes needed and the complexity of the transformation (Fan and Yuan,2010). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Problems and pitfalls in enzyme expression ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Enzyme truncation due to the loss of carbohydrate binding modules ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Carbohydrate binding modules (CBMs) occur in many different types of enzymes and are small protein subunits thatare attached bya linkerto the catalytic domain of an enzymeand facilitate binding and movement of the enzyme along the polysaccharide. Many types of enzymes show enhanced activity when linked to a CBM (Hervé et al.,2010;Park et al.,2011a),even those that are not linked to one naturally (Reyes-Ortiz et al.,2013;Telke et al., 2012).Unfortunately,even though a full gene including the CBM is inserted into a plant genome,in many cases the enzymes that are produced are truncated to only include the catalytic domain orthe catalytic domain and the linker (Dai et al.,2oo5;Harrison et al.，2011；Hood et al.，2007；Klose et al.，2013，2015；Sun et al.，20o7).In order to avoid removal of the CBM by endogenous proteases,a number of different strategies have been employed.For endoglucanases,it is possible to simply avoid truncation by choosing an enzyme that is mono-domain and does not have a CBM (Harrison et al.,2011).Alternatively, targeting enzymes with CBMs to the ER and chloroplast can have a limited benefit with partial (though in many cases minor) retention of intact proteins (Dai etal.，2005;Klose etal.，2015;Mahadevan et al.,2O11).Another strategy that has successfully produced a fully intact enzyme in chloroplasts involved fusing an EG catalytic domain (TmCel5A) from Thermotogamaritimawith CBM6 from Clostridiumstercorarium (Mahadevan etal.,2011).However,it is not clear which characteristics of this fusion protein rendered it morestable to degradation by proteases. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic defects due to enzyme accumulation and interferencewith cellularfunction ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic abnormalities have been observed duringplant growth and development due to the accumulation of glycosyl hydrolases, largely occurring when enzymes are accumulated in the apoplast or cytosol.(Phenotypic defects specific to chloroplasts were discussed in the earlier section.）For instance,in one study cellobiohydrolase was constitutively expressed in rice,which resulted in cell wall defects that caused cracks in the leaf surface, and no viable plants were obtained with endoglucanase expression (Nigorikawa et al.，2012). In addition to leaf defects, overexpression of endoglucanase and cellobiohydrolase in the cytosol and apoplast in rice has also resulted in yield loss and germination reduction in seeds (Zhang et al.，2012)，shorter stature and early flowering (Chou et al.，2o11）and sterility (Nigorikawa et al.,2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "While no phenotypic defects have been shown to occur when xylanasesare targeted into the apoplast of dicotyledonous plants (Borkhardt et al.，2010;Chatterjee et al.，2010; Kimura et al., 2010； Yanget al.， 2oo7)， targetingxylan-deconstructing enzymes or ferulic acid esterases (FAE) into grass subcelllar compartments often,but not always (Xu et al.,2013),results in negative effects on plant phenotypes.This is likely due to the importance of xylan and ferulic ester linkages within the grass cell wall compared with dicots (Scheller and Ulvskov,201O). Significant biomass reduction was observed in wheat seeds that were genetically engineered to overexpress endoxylanase (Harholt et al.，2O1O). In tall fescue,xylanase production reduced plant growth and caused necrotic lesions on the leaves (Buanafina et al.,2012).Another study showed severe phenotypic defects in maize including stunting and sterility when overexpressing xylanase under the rice ubiquitin 3 promoter (rubi3) (Gray et al., 2011a).Endosperm tissue-specific expression of endoxylanases and FAE may cause a shrunken seed phenotype in cereals (Gray etal.,2011b;Harholt et al.,201O).And while FAE expression in grass vegetative tissues showed no phenotypic impact on plant seeds (Buanafina etal.,2006,2008,2010),this can cause severe reductions in plant growth (Buanafina et al.,2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Strategies to avoid enzyme-triggered phenotypic defects ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A couple of strategies have been successfully employed to avoid deleterious impacts of enzyme accumulation.Expressionof hyperthermophilic enzymes that have very high optimal temperatures and virtually no activity at ambient temperatures can prevent negative impacts to the cell wall (Borkhardt et al.,2010; Herbers et al.,1995;Klose et al.,2012).As mentioned earlier,it is possible to trigger enzyme expression immediately prior to harvest by using an ethanol- or senescence-inducible promoter (Furukawa et al.，2014;Klose et al.，2013;Tomassetti et al., 2015).Using a senescence-inducible promoter instead of the constitutive， the negative defects due to cellobiohydrolase expression were completely eliminated (Furukawa et al.，2014). Targeting expression to locations other than the cytosol and apoplast can also help prevent phenotypic defects.Constitutive expression of manganese peroxidase in vegetative tissues can cause severe negative phenotypic impacts including cell death andlesions (Clough et al.，2oo6); however， thiswasnot observed when the enzyme was targeted to the chloroplasts (Espinoza-Sánchez et al.，2015)，or produced in seeds (Clough et al.,2006). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Two methods have been reported for overcoming the deleterious impacts of xylanase accumulation in grasses.These methods include (i) removal of the signal portion of the xylanase gene prior to its transfer into a host plant (Kimura et al.，201O),and (i) incorporation of inteins into enzymes (Shen et al.,2012).Inteins are self-splicing peptides that can be engineered into cell walldeconstructing enzymes and used to disrupt proper enzyme function when produced in planta.At ambient conditions,the enzymes are inactive，however upon exposure to certain stimuli the protein self-splices,restoring enzyme function (Shen et al., 2012). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The production and use of heterologous enzymes for biofuel production ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Increasingdigestibility by altering cell wall composition ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "One of the biggest questions related to the production of heterologous cell wall-deconstructing enzymes in planta is how to effectivelyaccess them for biofuel production.Some studies have chosen to indirectly use heterologously produced enzymes to increase conversions by altering the biomass composition and cell wall characteristics (Badhan et al.,2014;Buanafina et al.,2006, 2008,2010,2015;Furukawa et al.,2013;Latha Gandla et al., 2015;Pogorelko et al.,2011,2013;Tsai et al.,2012). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Autohydrolysis of lignocellulosic biomass ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Another option is to autohydrolyse the plant biomass using internally generated enzymes (Buanafina et al.，2O15;Furukawa etal.,2014;Nigorikawa et al.,2012;Tomassetti et al.,2015).In this case，the biomass is ground with no further chemical treatment,and hydrolysed either only using the heterologous enzyme produced within the plant，or in combination with supplemental enzymes. In one study, this was attempted using Cel5A,although the yield was very low $( < 1 \\%$ glucose yields) (Mahadevan et al.，2011). However，endoglucanase by itself releases little glucose，and cellobiohydrolase and $\\beta$ -glucosidase are needed to deconstruct cellulose completely. Instead of using monomeric sugar yields that are a poor indicator of endoenzyme activity，it ispossible to measure the changein molecular weight of the polysaccharides.Autohydrolysis using heterologousthermophilicxylanases(Dictyoglomusthermophilum XynA/DtXyn10 and XynB/DtXyn11） lowered the average xylan molecular weight compared with wild-type plants, indicating increased activity compared with the wild type (Borkhardt et al.,2010). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Extraction of enzymes to avoid pretreatment degradation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cell wall-deconstructing enzymes by themselves are generally insufficient to obtain high yields of fermentable sugars,and a thermochemical pretreatment step is necessary to disrupt the cell wall structure and increase enzyme access to the polysaccharides. Many studies have attempted to macerate the biomass and extract the enzymes prior to the pretreatment, in order to prevent their denaturation,and then add them back during enzymatic hydrolysis (Agrawal et al.，2011； Harrison et al.，2014a; Hood et al.，2014; Jung et al.，2010;Oraby et al.，2007；Pogorelko et al.，2011； Ransom et al.，2007; Verma et al.，201O).However， the extraction of heterologous enzymes adds additional processing and capital costs，particularly if any concentration or filtration is required (Bals and Dale, 2011). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Direct pretreatment of enzyme-containing lignocellulosic biomass ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Analternative option is to leave the heterologous enzymes in the plant biomass through the pretreatment and utilize them directly during enzymatic hydrolysis.However，as most thermochemical pretreatments typically operate at upwards of $1 0 0 ^ { \\circ } \\mathsf C$ (Hu et al., 2012)，enzymes with high optimum temperatures (i.e.hyperthermal or thermotolerant enzymes) are needed in order to retain enzymatic activity following processing.Two hyperthermal endoglucanases that have been studied are A.cellulolyticus AcCel5A (E1)and Sulfolobus solfataricus SsCel12 (SSO1354), both of which have optimum temperatures of ${ \\sim } 8 0 { \\ - } 9 0 \\ ^ { \\circ } C$ (Huang et al.，2005;Klose et al.，2012;Tucker et al.，1989)．However, while thermal stability is important,pH stability of these enzymes and the interaction between pH and temperature are also important factors to consider (Sun et al.，2oo7;Verma et al., 2010).The optimum pH for AcCel5A (E1) is ${ \\sim } 5 . 0$ (Dai et al.,2000) and S.solfataricus SsCel12 (SSO1354) is ${ \\sim } 4 . 5$ (Klose et al.,2012), and extractions or pretreatments of the biomass that operate far from these values willikely lead to a loss of enzyme activity,even at temperatures below $8 0 ~ ^ { \\circ } C$ .Thisis likely the reason for the drop AcCel5A (E1) activity ( $3 5 \\%$ of the untreated) following lowseverity AFEX pretreatment $( 6 0 ~ ^ { \\circ } \\mathsf { C } , ~ \\mathsf { p H } > 8 )$ of transgenic tobacco (Teymouri et al.，2004)，and the complete loss of AcCel5A activity for dilute acid pretreated ( $1 1 0 - 1 7 0 ^ { \\circ } \\mathsf { C } ; \\mathsf { p H } < 3 )$ transgenic corn stover (Brunecky et al.，2011).For ionic liquid pretreatments，where the pretreatment solvent consists of an organic cation coupled with an organic or inorganic cation and actsby solvating a portion of the biomass (either polymeric sugars and/or lignin) (Mora-Pale et al.，2O11),salt tolerance of the enzymes may also be an issue that needs to be taken into consideration (Klose et al.，2012).Work has already been done to heterologously express alkali-tolerant thermophilic enzymes (optimum $\\mathsf { p } \\mathsf { H } = 8 \\mathsf { - } 9$ ，optimum temp. $= 6 0 { - } 7 0 ~ ^ { \\circ } \\mathsf { C } )$ (Hu and Ragauskas，2012； Leelavathi et al.，20o3）and acid-tolerant thermophilic enzymes (pH range $\\mathit { \\Theta } = \\mathit { 1 - 4 } .$ ，optimum temp. $= 6 0 -$ $7 0 ~ ^ { \\circ } C )$ inplanta $\\mathsf { X u }$ et al.,2013; Zhang et al.,2013). It is likely that thermotolerant enzymes from acidophiles，alkaliphiles or halophiles that are more tolerant of pH extremes and ionic strength would better handle the extreme pretreatment conditions needed for deconstruction of the plant cell wall. However given the diversity of pretreatment methods,the properties of the enzymes would need to be matched to the chosen pretreatment system. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Industrial activities towards the production and use of plant-generated enzymes ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In 2011，Syngenta began producing and distributing a corn hybrid，Enogen?，that producesa heterologous $\\mathfrak { a }$ -amylase in its seeds,eliminating the need toadd $\\mathfrak { a }$ -amylaseduring thedry grind corn ethanol process (Hood and Requesens,2012).Syngenta has also developed the CellerateTM technology to simultaneously convert corn starch and fibre,the lignocellulosic portion of corn grain,to ethanol (Lundy et al.，2015). In the future,they may expand to include other heterologous lignocellulolytic enzymes (Lebel et al.,2008,2010,2013;Miles,2012a,b).Agrivida is also attempting to heterologously express cellulases and hemicellulases in maize seeds.Their key technology centres around the use of bacterial inteins that are added internal to the enzyme and restrict activity while the plant is growing，but self-splice upon exposure to elevated temperatures during pretreatment $( > 5 9 ^ { \\circ } \\mathsf { C } )$ (Gray et al.，2011b; Shen et al.，2012).Using this technology, inteins were inserted into an endoxylanase (XynB),which resulted in higher glucose and xylose yields compared with the wild type (Shen et al.,2012). Xylanase activity was also retained following mild ammonium bisulfite pretreatment,with reduced need for external xylanase supplementation during hydrolysis (Zhang et al.,2011).Their heterologously produced endoglucanase was also able to completely replace EG in a synthetic enzyme cocktail (Zhang et al.，2011).Agrivida is also working on expressing multiple enzymes within the same plant and so far has successfully stacked two to three enzymes (Zhang et al.,2011). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A great deal of progress has been made in the past decade on the heterologous production of cell wall-degrading enzymesin planta.Research has moved beyond the much-studied endoglucanase,E1 (AcCel5A),to the expression of many different types of enzymes from a variety of microbial sources (Tables 1and S2). Using a combination of genetic tools and strategies,recombinant enzymes have also been accumulated at levels as high as $50 \\%$ total soluble protein (TSP) (Hahn et al.，2014) without compromising plant growth and biomass yields.It is expected that in the next decade，the heterologous enzyme yield in planta could consistently reach these levels or higher using a number of methods.Subcellular targeting in particular has been demonstrated as a successful strategy to both sequester large quantities ofheterologous cell wall-deconstructing enzymes away from plant cell walls,preventing possible deterioration,while limiting access to and degradation by cellular proteases.Other strategies may include using high biomass producing varieties for the host plant,targeting the chloroplast via homologous recombination and manipulation of DB regions to enhance expression,utilization of optimized regulatory sequences,optimizing promoter enhancers for both the enzyme and subcellular compartment, targeting multiple subcellular organelles for enzyme containment,stacking enzyme genes or utilizing alternative splicing for production of multiple enzymes within a single construct，and producing chimeric enzymes with multiple activities. Conventional breeding could also be investigated further as a means to achieve some of these goals.From an application standpoint, greater focus needs to be directed towards retention of CBMs in enzymes that require them for proper functionality，maintenance of enzyme activity during storage and heterologous production of enzymes that are tolerant to the high temperatures and extreme pH conditions found during conventional thermochemical pretreatment methods.Development of a sustainable enzyme production platform is still underway. However， successful production of cell walldeconstructing enzymes within bioenergy crops holds strong potential for helping to establish sustainable and profitable bioenergy production systems. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Dr Ong's work is funded by the DOE Great Lakes Bioenergy Research Center(DOE BER Office of Science DE-FC02- 07ER64494). The authors declare that they have no conflict of interest with respect to this publication. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Agrawal, P.,Verma, D.and Daniell, H.(2011) Expression of Trichoderma reesei $\\beta$ -mannanase in tobacco chloroplasts and its utilization in lignocellulosic woody biomass hydrolysis.PLoS ONE,6,e29302.   \nAlberts,B.,Johnson,A., Lewis,J.,Raff,M.,Roberts,K.and Walter,P.(2007) Molecular Biology of the Cell. New York: Garland Science.   \nBadhan,A.,Jin,L,Wang,Y., Han,S.,Kowalczys,K., Brown,D.,Ayala,C.et al. (2014) Expression of a fungal ferulic acid esterase in alfalfa modifies cell wall digestibility. Biotechnol. Biofuels,7,39.   \nBae，H.，Lee，D.-S.and Hwang,I.(20o6) Dual targeting of xylanase to chloroplasts and peroxisomes as a means to increase protein accumulation in plant cells.J. Exp. Bot.57,161-169.   \nBae,H.-J., Kim, H.J.and Kim, Y.S.(2008) Production of a recombinant xylanase inplants and its potential for pulp biobleaching applications.Bioresour. Technol. 99,3513-3519.   \nBals, B.and Dale,B.E.(2011) Economic comparison of multiple techniques for recovering leaf protein in biomass processing. Biotechnol. Bioeng.108,530- 537.   \nBanerjee,G., Car,S.,Scott-Craig,J., Borrusch,M.and Walton,J.(2010) Rapid optimization of enzyme mixtures for deconstruction of diverse pretreatment/ biomass feedstock combinations. Biotechnol. Biofuels,3,22.   \nBiswas,G.C.G.,Ransom,C.and Sticklen,M.(20o6) Expression of biologically active Acidothermus cellulolyticus endoglucanase in transgenic maize plants. Plant Sci.171,617-623.   \nBorkhardt,B.,Harholt,J.,Ulvskov,P.,Ahring,B.K., Jorgensen,B.and BrinchPedersen,H.(201O) Autohydrolysis of plant xylans by apoplastic expression of thermophilic bacterial endo-xylanases. Plant Biotechnol.J.8,363-374.   \nBrunecky,R.，Selig,M.J.,Vinzant,T.B.，Himmel,M.E.,Lee,D.,Blaylock,M.J. and Decker，S.R. (2011) In planta expression of A.cellulolyticus Cel5A endocellulase reduces cell wall recalcitrance in tobacco and maize. Biotechnol. Biofuels,4,1.   \nBuanafina,M.M.D.O.,Langdon,T.,Hauck,B.,Dalton,S.J.and Moris,P. (2006) Manipulating the phenolicacid content and digestibility of Italian ryegrass (Lolium multiflorum) by vacuolar-targeted expression of a fungal ferulic acid esterase.In Twenty-Seventh Symposium on Biotechnology for Fuels and Chemicals (McMillan,J.,Adney,W.,Mielenz,J.and Klasson,K.T.,eds)，pp. 416-426.New York: Humana Press.   \nBuanafina,M.M.D.O.,Langdon,T.,Hauck,B.,Dalton,S.and Morris,P.(2008) Expression of a fungal ferulic acid esterase increases cell wall digestibility of tall fescue (Festuca arundinacea).Plant Biotechnol.J.6,264-280.   \nBuanafina,M.M.D.O.,Langdon,T.,Hauck,B.,Dalton,S.,Timms-Taravella,E. and Morris, P.(2o1O) Targeting expression of a fungal ferulic acid esterase to the apoplast,endoplasmic reticulum or golgi can disrupt feruloylation of the growing cell wall and increase the biodegradability of tal fescue (Festuca arundinacea).Plant Biotechnol.J.8,316-331.   \nBuanafina,M.M.d.O.,Langdon,T.,Dalton,S.and Morris,P.(2012) Expression of a Trichoderma reesei β-1,4 endo-xylanase in tall fescue modifiescel wall structure and digestibility and elicits pathogen defence responses. Planta, 236,1757-1774.   \nBuanafina,M.M.d.O.,Dalton,S.，Langdon,T.，Timms-Taravella,E.，Shearer, E.A.and Morris,P. (2015) Functional co-expression of a fungal ferulic acid esterase and a $\\beta$ -1,4 endoxylanase in Festuca arundinacea (tall fescue) modifies post-harvest cell wall deconstruction. Planta,242,97-111.   \nChatterjee,A.,Das,N.C.，Raha,S.，Babbit,R.，Huang,Q.W.,Zaitlin,D.and Maiti,I.B.(2010)Production of xylanase in transgenic tobacco for industrial use in bioenergy and biofuel applications.In Vitro Cell.Dev. Biol.Plant,46, 198-209.   \nChen,P.J.,Senthilkumar,R., Jane,W.N.，He,Y.,，Tian,Z.H.and Yeh,K.W. (2014)Transplastomic Nicotiana benthamiana plants expressing multiple defence genes encoding protease inhibitors and chitinase display broadspectrum resistance against insects，pathogens and abiotic stresses.Plant Biotechnol. J. 12,503-515.   \nCho,K.M., Hong,S.Y., Lee,S.M., Kim,Y.H., Kahng,G.G., Kim, H.and Yun, H.D.(2006)A cel44C-man26A gene of endophytic Paenibacillus polymyxa GS01 has multi-glycosyl hydrolases in two catalytic domains.Appl.Microbiol. Biotechnol.73,618-630.   \nChou,H.，Dai,Z.Y.，Hsieh,C.and Ku,M.(2011） High level expression of Acidothermus cellulolyticus β-1,4-endoglucanase in transgenic rice enhances the hydrolysis of its straw by cultured cow gastric fluid.Biotechnol. Biofuels， 4,58.   \nClough,R.C.,Pappu,K.，Thompson,K.， Beifuss,K.，Lane,J.,Delaney，D.E., Harkey,R.et al. (2Oo6) Manganese peroxidase from the white-rot fungus Phanerochaete chrysosporium is enzymatically active and accumulates to high levels in transgenic maize seed.Plant Biotechnol.J.4, 53-62.   \nColas des Francs-Small,C.and Small,I. (2014) Surrogate mutants forstudying mitochondrially encoded functions. Biochimie,10o,234-242.   \nConley,A.J., Joensuu,J.J., Jevnikar,A.M.,Menassa,R.and Brandle,J.E.(2009) Optimizationofelastin-likepolypeptidefusionsforexpressionand purification of recombinant proteins in plants. Biotechnol. Bioeng.103, 562-573.   \nDai,Z.Y.，Hooker,B.S.,Anderson,D.B.and Thomas,S.R. (2OOO) Expression of Acidothermus cellulolyticusendoglucanase E1intransgenictobacco: biochemical characteristics and physiological effects.Transgenic Res.9, 43-54.   \nDai，Z.Y.，Hooker，B.S.，Quesenberry，R.D．and Thomas，S.R．(2005) Optimization of Acidothermus cellulolyticus endoglucanase (E1） production in transgenic tobacco plants by transcriptional,post-transcription and posttranslational modification.Transgenic Res.14,627-643.   \nDevaiah,S.P.，Requesens,D.V.,Chang,Y.-K.，Hood,K.R.,Flory,A.,Howard, J.A.and Hood,E.E.(2013) Heterologous expression of cellobiohydrolase Il (Cel6A) in maize endosperm.Transgenic Res.22, 477-488.   \nEgelkrout，E.，Rajan，V.and Howard，J.A.(2012） Overproductionof recombinant proteins in plants.Plant Sci.184,83-101.   \nEgelkrout,E.,McGaughey,K., Keener,T.,Ferleman,A.,Woodard,S.,Devaiah S.Nikolov,Z.et al. (2o13) Enhanced expression levels of cellulase enzymes using multiple transcription units. Bioenerg. Res.6, 699-710.   \nElleuche，S.(2015) Bringing functions together with fusion enzymes—from nature's inventionsto biotechnological applications.Appl.Microbiol. Biotechnol.99,1545-1556.   \nEspinoza-Sänchez,E.A.,Alvarez-Hernande,M.H.,Torres-Castilo,J.A,acnCruz,Q.，Gutiérrez-Diez,A.,Zavala-Garcia,F.and Sinagawa-Garcia，S.R. (2015)Stable expression and characterization of a fungal pectinase and bacterial peroxidase genes in tobacco chloroplast. Electron.J.Biotechnol.18, 161-168.   \nFan,Z.M.and Yuan,L.(2010) Production of multifunctional chimaeric enzymes in plants:a promising approach for degrading plant cell wall from within. Plant Biotechnol.J.8,308-315.   \nFerrer，M.，Ghazi，A.，Beloqui，A.，Vieites，J.M.，López-Cortés，N.，MarinNavarro,J., Nechitaylo,T.Y.et al. (2012) Functional metagenomics unveils a multifunctional glycosyl hydrolase from the family 43 catalysing the breakdown of plant polymers in the calf rumen. PLoS ONE,7,e38134.   \nFischer，R.and Schilberg，S.(2006)MolecularFarming:Plant-Made Pharmaceuticals and Technical Proteins.New Jersey:Wiley-Blackwell.   \nFurukawa,T.,Sawaguchi, C.,Watanabe,A.，Takahashi，M., Nigorikawa,M., Furukawa,K.,limura,Y.et al. (2013)Application of fungal laccase fused with   \ncelulose-bindingdomaintodeveloplowigninriceplants.JBiosciBiong 116, 616-619.   \nFurukawa，K.，Ichikawa,S.，Nigorikawa，M.，Sonoki，T.and Ito,Y.(2014) Enhanrad nradirtinn of radiiring ciani exo-glucanase under the control of a senescence-inducible promoter. Transgenic Res.23, 531-537.   \nGao,D.H.,Uppugundla,N.,Chundawat,S.,Yu,X.R.,Hermanson,S.,Gowda, K.，Brumm，P.et al.(2011）Hemicelllasesand auxiliary enzymes for improved conversionoflignocellulosicbiomass tomonosaccharides. Biotechnol. Biofuels,4,5.   \nGarda,M.，Devaiah,S.P.，Vicuna Requesens,D.，Chang,Y.-K.，Dabul,A., Hanson,C.，Hood,K.R.et al. (2015) Assessment of field-grown cellulaseexpressing corn.Transgenic Res.24,185-198.   \nGiddings,G.,Allison,G.,Brooks,D.and Carter,A.(20oo) Transgenic plants as factories for biopharmaceuticals. Nat. Biotechnol.18,1151-1155.   \nGoulet, C., Benchabane,M., Anguenot, R., Brunelle,F., Khalf, M.and Michaud, D.(2010)A companion protease inhibitor for the protection of cytosoltargeted recombinant proteins in plants.Plant Biotechnol.J.8,142-154.   \nGoulet,C., Khalf,M.,Sainsbury,F.,D'Aoust, M.A.and Michaud,D.(2012)A protease activity-depleted environment for heterologous proteins migrating towards the leaf cell apoplast. Plant Biotechnol.J.10,83-94.   \nGray,B.N.,Ahner,B.A.and Hanson,M.R.(2oo9) High-level bacterial cellulase accumulation in chloroplast-transformed tobacco mediated by downstream box fusions. Biotechnol. Bioeng.102,1045-1054.   \nGray, B.N., Bougri, O.,Carlson,A.R.,Meissner,J.,Pan,S.,Parker, M.H., Zhang D.et al.(2011a) Global and grain-specific accumulation of glycoside hydrolase family10 xylanasesin transgenic maize (Zea mays).Plant Biotechnol. J.9, 1100-1108.   \nGray，B.N.，Yang,H.J.，Ahner,B.A.and Hanson,M.R.(2011b)An efficient downstreamboxfusionallowshigh-levelaccumulationofactive bacterial beta-glucosidase in tobacco chloroplasts.Plant Mol. Biol.76,345- 355.   \nHahn,S.,Giritch,A.,Bartels,D.,Bortesi,L.and Gleba,Y.(2014)A novel and fullyscalable Agrobacteriumspray-based process formanufacturing cellulases and other cost-sensitive proteins in plants.Plant Biotechnol.J.13, 708-716.   \nHanson,M.R., Gray, B.N.and Ahner,B.A.(2013) Chloroplast transformation for engineering of photosynthesis.J.Exp.Bot. 64,731-742.   \nHarholt,J., Bach,I.C., Lind-Bouquin,S.，Nunan,K.J.，Madrid,S.M.，BrinchPedersen，H.，Holm，P.B.et al.(2010) Generation of transgenic wheat (Triticum aestivum L.）accumulating heterologous endo-xylanase or ferulic acid esterase in the endosperm. Plant Biotechnol.J.8,351-362.   \nHarrison,M.D., Geijskes,J., Coleman,H.D., Shand,K., Kinkema,M., Palupe,A., Hassall,R.et al. (2011)Accumulationof recombinant cellobiohydrolase and endoglucanase in the leaves of mature transgenic sugar cane.Plant Biotechnol. J.9,884-896.   \nHarrison,M.,Zhang,Z.Y.,Shand,K.,Chong,B.,Nichols,J.,Oeller,P.,O'Hara,I. et al. (2014a)The combination of plant-expressed cellobiohydrolase and low dosages of cellulases for the hydrolysis of sugar cane bagasse.Biotechnol. Biofuels, 7, 131.   \nHarrison,M.D.,Geijskes,R.J.,Lloyd,R.,Miles,S.,Palupe,A.,Sainz,M.B.and Dale,J.L. (2014b) Recombinant cellulase accumulation in the leaves of mature,vegetatively propagated transgenic sugarcane.Mol. Biotechnol.,56, 795-802.   \nHeifetz,P.B.(20oo) Genetic engineering of the chloroplast. Biochimie,82,655- 666.   \nvon Heijne,G.(1986) Mitochondrial targeting sequences may form amphiphilic helices.EMBO J.5,1335-1342.   \nHerbers,K.,Wilke,I.and Sonnewald,U.(1995)Athermostable xylanase from Clostridium thermocellum expressed at high levels in the apoplast of transgenic tobacco has no detrimental effects and is easily purified.Nat. Biotechnol. 13, 63-66.   \nHervé,C., Rogowski,A.,Blake,A.W.,Marcus,S.E.,Gilbert,H.J.and Knox,J.P. (2010)Carbohydrate-bindingmodulespromotetheenzymatic deconstruction of intact plant cell walls by targeting and proximity effects. Proc. Natl Acad.Sci. USA,107,15293-15298.   \nHong,Y., Nizami, A.-S.,Pour Bafrani, M.,Saville, B.A.and MacLean,H.L.(2013) Impact of cellulase production on environmental and financial metrics for lignocellulosic ethanol. BioFPR,7,303-313.   \nHood,E.E.and Requesens,D.V. (2O12) Production of industrial proteins in plants.In Molecular Farming in Plants: Recent Advances and Future Prospects (Wanq,A.and Ma,S.,eds),pp.161-181. Netherlands: Sprinqer.   \nHood,E.E.,Love,R.,Lane,J., Bray,J.,Clough,R.，Pappu,K.,Drees,C.et al. (2007) Subcellular targeting isa key condition for high-level accumulation of cellulase protein in transgenic maize seed.Plant Biotechnol.J.5, 709-719.   \nHood,E.E.,Devaiah,S.P.,Fake,G.,Egelkrout,E.,Teoh,K.T.,Requesens,DV., Hayden，C．et al.(2012） Manipulating corn germplasm to increase recombinant protein accumulation. Plant Biotechnol.J.10,20-30.   \nHood,N.C.，Hood,K.R.，Woodard,S..，Devaiah,S.P.， Jeoh,T.，Wilken,L., Nikolov,Z.et al.(2014) Purification and characterization of recombinant Cel7A from maize seed.Appl. Biochem. Biotechnol.174,2864-2874.   \nHoshikawa，K.，Endo，S.，Mizuniwa，S.，Makabe，S.，Takahashi，H.and   \nNakamura，i.(2012）Transgenictobacco plantsexpressingendo-β- mannanase gene from deep-sea Bacillus sp.JAMB-6o2 strain confer enhanced resistance against fungal pathogen (Fusarium oxysporum). Plant Biotechnol.Rep.6,243-250.   \nHu,F.and Ragauskas,A.(2O12) Pretreatment and lignocellulosic chemistry   \nBioenerg.Res.5,1043-1066.   \nHu,J.P.,Baker,A.,Bartel,B.,Linka,N., Mulen,R.T., Reumann,S.and Zolman, B.K.(2012) Plant peroxisomes: biogenesisand function.Plant Cell,24,2279 2303.   \nHuang,Y.W, Krauss,G.,Cotaz,S.,Driguez,H.and Lipps,G.(20o5)A highlyacid stable and thermostable endo-β-glucanase from the thermoacidophilic archaeon Sulfolobus solfataricus.Biochem.J.385,581-588.   \nHumbird,D., Davis,R.,Tao,L.,Kinchin,C., Hsu,D.,Aden,A.,Schoen,P.etal. (2011） \"Process design and economics for biochemical conversion of lignocellulosic biomass to ethanol.\" NREL/TP-5100-47764．Availableat: http://www.nrel.gov/biomass/pdfs/47764.pdf.   \nHwang,M.,Lindenmuth,B.，McDonald,K.and Falk,B.(2012) Bipartite and tripartite Cucumbermosaic virus-based vectorsforproducingthe Acidothermus cellulolyticus endo-1,4-beta-glucanase and other proteins in non-transgenic plants. BMC Biotechnol. 12, 66.   \nJabbour,D.,Angelos,E, Mukhopadhyay,A., Womboldt,A., Borrusch,M.and   \nWalton,J.(2014) Factors contributing to the recalcitrance of herbaceous dicotyledons (forbs) to enzymatic deconstruction. Biotechnol. Biofuels,7,52.   \nJang,l.-C.,Choi, W.-B., Lee, K.-H., Song, S.I., Nahm, B.H.and Kim,J.-K.(2002) High-level and ubiquitous expression of the rice cytochromec gene OsCc1 and its promoter activity in transgenic plants provides a useful promoter for transgenesis of monocots. Plant Physiol.129,1473-1481.   \nJiang，X.-R.，Zhou，X.-Y.， Jiang，W.-Y.，Gao，X.-R．and Li，W.-L.(2011) Expressions of thermostable bacterial cellulases in tobacco plant. Biotechnol. Lett. 33,1797-1803.   \nJin,R.G.,Richter,S.,Zhong,R.and Lamppa,G.K. (20o3) Expression and import   \nof an active celulase froma thermophilic bacterium into the chloroplast both in vitro and in vivo.Plant Mol.Biol.51,493-507.   \nJin,S.X., Kanagaraj,A., Verma,D.,Lange,T.and Daniel,H.(201) Release of hormones from conjugates: chloroplast expression of $\\beta$ -Glucosidase results in elevated phytohormone levels associated with significant increase in biomass and protection from aphids or whiteflies conferred by sucrose esters. Plant Physiol. 155,222-235.   \nJoensuu,J.J.，Conley，A.J.，Lienemann,M.，Brandle,J.E.，Linder，M.B．and Menassa，R.(201O) Hydrophobin fusions for high-level transient protein expression and purification in Nicotiana benthamiana.Plant Physiol.152, 622-633.   \nJung，S.，Kim，S.，Bae，H.,Lim，H.-S.and Bae，H.-J.(201O) Expression of thermostable bacterial beta-glucosidase (BglB) in transgenic tobacco plants. Bioresour. Technol.101,7144-7150.   \nJung，S.,Lee,D.-S.，Kim,Y.-O.，Joshi,C.P.and Bae,H.-J.(2013) Improved recombinant cellulase expression in chloroplast of tobacco through promoter engineering and $5 ^ { \\prime }$ amplification promoting sequence. Plant Mol. Biol.83, 317-328.   \nJung,S.-K,Lindenmuth,B.E.,McDonald, K.A.,Hwang,M.S.,Bui,M.Q.N.,Falk, B.W.， Uratsu,S.L.et al. (2014) Agrobacterium tumefaciens mediated transient expression of plant cell wall-degrading enzymes in detached sunflower leaves. Biotechnol. Prog.30, 905-915.   \nKim,S.,Lee,D.-S.，Choi,I.S.，Ahn,S.-J.，Kim,Y.-H.and Bae,H.-J.(2010) Arabidopsis thaliana Rubisco small subunit transit peptide increases the accumulation of Thermotoga maritima endoglucanase Cel5A in chloroplasts nf transnenir tnharrn nlants Transnenir Res 19 489_497   \nKim,J.Y.，Kavas,M.,Fouad,W.M.，Nong，G.，Preston,J.F.and Altpeter,F.   \n(2011）Production of hyperthermostable GH10xylanaseXyl10B from Thermotoga maritima in transplastomic plants enables complete hydrolysis of methylglucuronoxylan to fermentable sugars for biofuel production.Plant Mol. Biol.76,357-369.   \nKimura,T.,Mizutani,T.,Sakka,K.and Ohmiya,K.(2003) Stable expressionof a   \nthermostable xylanase of Clostridium thermocellum in cultured tobacco cels.   \nJ. Biosci. Bioeng.95,397-400.   \nKimura,T.,Mizutani,T.,Sun,J.-L., Kawazu,T., Karita,S.,Sakka,M., Kobayashi, Y.et al. (2010) Stable production of thermotolerant xylanase B of Clostridium stercorarium in transgenic tobacco and rice. Biosci. Biotechnol. Biochem.74, 954-960.   \nKlein-Marcuschamer，D.， Oleskowicz-Popiel，P.， Simmons，B.A.and Blanch,   \nH.W.(2012) The chalenge of enzyme cost in the production of lignocellulosic biofuels. Biotechnol. Bioeng.109,1083-1087.   \nKlose，H.，Roder,J.，Girfoglio,M.,Fischer，R.and Commandeur,U.(2012) Hyperthermophilic endoglucanase for in planta lignocellulose conversion. Biotechnol. Biofuels,5,63.   \nKlose,H.,Günl,M.,Usadel,B.,Fischer,R.and Commandeur,U.(2013)Ethanol inducible expression of a mesophilic cellulase avoids adverse effects on plant development. Biotechnol. Biofuels,6,53.   \nKlose,H.,Gunl,M.,Usadel,B.,Fischer,R.and Commandeur,U.(2015)Cellwall modificationintobaccobydifferentialtargetingofrecombinant endoglucanase from Trichoderma reesei. BMC Plant Biol.15,54.   \nKolotilin,I.，Kaldis，A.，Pereira,E.O.，Laberge，S.and Menassa，R.(2013) Optimization of transplastomic production of hemicellulases in tobacco: effects of expression cassette configuration and tobacco cultivar used as production platform on recombinant protein yields. Biotechnol. Biofuels, 6,65.   \nKuhad，R.C.，Gupta，R.and Singh，A.(2011) Microbial celulases and their industrial applications. Enzyme Res.2011,10.   \nLatha Gandla,M.，Derba-Maceluch，M.,Liu,X.K.，Gerber,L.，Master,，E.R.. Mellerowicz,E.J.and Jonsson,L.J.(2o15) Expressionof afungal glucuronoyl esterase in Populus:effects on wood properties and saccharification efficiency.Phytochemistry,112,210-220.   \nLebel,E.G.,Heifetz,P.B.,Ward,E.R.and Uknes,S.J.(2O08)Transgenic plants expressing a cellulase. United States Patent.Filed 9 July 2O01,Issued 22 April 2008.   \nLebel,E.G.,Heifetz,P.B.,Ward,E.R.and Uknes,S.J. (2010)Recombinant maize foruseas bioreactor forproductionof heat resistant endoglucanase;fuel ethanolproduction industry;catte feed enhancement; paper and textile treatment. United States Patent.Filed 9 October 2007,Issued 23 November 2010.   \nLebel,E.G.,Heifetz,P.B.,Ward,E.R.and Uknes,S.J.(2013)Transgenic plants expressing a cellulase. United States Patent.Filed 21 June 2Oo7,Issued 9 July 2013.   \nLee,D.-S.，Lee,K.-H.， Jung,S.，Jo,E.-J.，Han,K.-H.and Bae,H.-J.(2012) Synergistic effects of 2A-mediated polyproteins on the production of lignocellulose degradation enzymes in tobacco plants.J. Exp.Bot.63, 4797-4810.   \nLeelavathi，S.，Gupta，N.，Maiti，S.，Ghosh，A.and Reddy，V.S.(2003) Overproduction of an alkali-and thermo-stable xylanase in tobacco chloroplasts and eficient recovery of the enzyme.Mol. Breed.11,59-67.   \nLi,Q.Z.Song,J.,Peng,S.B.,Wang,J.P.,Qu,G.Z.,Sederoff,R.R.and Chiang,   \nV.L.(2014) Plant biotechnology for lignocelulosic biofuel production.Plant Biotechnol. J. 12, 1174-1192.   \nLingner,T., Kataya,A.R.,Antoniceli, G.E.,Benichou,A.,Nilssen,K., Chen,XY.，Siemsen，T.et al.(2011） Identification of novel plant peroxisomal targeting signals by a combination of machine learning methods and in vivo subcellular targeting analyses.Plant Cell,23,1556-1572.   \nLlop-Tous,I., Ortiz, M.,Torrent, M.and Ludevid,M.D.(2011) The expression of a xylanase targeted to ER-protein bodies providesa simple strategy to produce active insoluble enzyme polymers in tobacco plants. PLoS ONE，6, 1-11.   \nLundy,E.L.,Loy,D.D.and Hansen,S.L. (2015) \"Influence of distillers grains from a cellulosic ethanol process utilizing corn kernel fiber on nutrient digestibility of lambsand steer feedlot performance.\"Animal Industry Report:AS 661, ASL R2951.Available at: htp:/lib.dr.iastate.edu/ans_air/vol661/iss1/14.   \nMahadevan,S.A.,Wi,S.G., Kim,Y.O.,Lee,K.H.and Bae,H.-J. (2011) In planta differential targeting analysis of Thermotoga maritima Cel5A and CBM6- engineered Cel5A for autohydrolysis.Transgenic Res.20,877-886.   \nMei, C.S.,Park, S.-H.,Sabzikar,R., Ransom,C.,Qi, C.F.and Sticklen,M.(2009) Green tissue-specific production of a microbial endo-cellulase in maize (Zea mays L.）endoplasmic-reticulum and mitochondria converts celllose into fermentable sugars.J. Chem. Technol. Biotechnol.84,689-695.   \nMiles,S. (2012a) Methods foraccumulating heterologouspolypeptides in plant stoverutilizing a vacuole sorting signal. United States Patent.Filed26 January 2009,Issued 1 May 2012.   \nMiles，S.M.(2012b)Modification of multidomain enzyme for expresion in p/ants.United States Patent.Filed 4 Febraury 2010,Issued 2 Febraury 2012.   \nMontalvo-Rodriguez,R.,Haseltine,C., Clemente,T.,Soto,J.,Staswick,P.and Blum，P.(20oo) Autohydrolysis of plant polysaccharides using transgenic hyperthermophilic enzymes. Biotechnol. Bioeng.70,151-159.   \nMora-Pale,M.,Meli,L.,Doherty,T.V.,Linhardt,R.J.and Dordick,J.S.(2011) Room temperature ionic liquids as emerging solvents for the pretreatment of lignocellulosic biomass.Biotechnol. Bioeng.108,1229-1245.   \nNakahira，Y.，Ishikawa，K.，Tanaka，K.，Tozawa，Y.and Shiina，T.(2013) Overproduction ofhyperthermostableβ-1,4-endoglucanase fromthe archaeon Pyrococcus horikoshii by tobacco chloroplast engineering. Biosci. Biotechnol. Biochem.77,2140-2143.   \nNigorikawa,M.,Watanabe,A.，Furukawa,K.，Sonoki,T.and Ito,Y.(2012) Enhanced saccharification of rice straw by overexpression of rice exoglucanase. Rice,5,14.   \nOraby，H.,Venkatesh,B., Dale,B.,，Ahmad,R., Ransom,C.,Oehmke,J.and Sticklen,M. (20o7) Enhanced conversion of plant biomassinto glucose using transgenic rice-produced endoglucanase for cellulosic ethanol.Transgenic   \nRes. 16, 739-749.   \nOutchkourov,N.S.,Peters,J.,de Jong,J.,Rademakers,W.and Jongsma,M.A. (2003)The promoter-terminator of chrysanthemum rbcS1 directs very high expression levels in plants.Planta,216,1003-1012.   \nPantaleoni,L.,Longoni,P.,Ferroni,L.，Baldisserotto,C.,Leelavathi,S.,Reddy, V.S.，Pancaldi，S.et al. (2014)Chloroplast molecular farming:efficient production of a thermostable xylanase by Nicotiana tabacum plants and long-term conservation of the recombinant enzyme.Protoplasma，251, 639-648.   \nPark,S.H.,Yi, N., Kim,Y.S., Jeong,M.H.,Bang,S.W., Choi, Y.D.and Kim,J.K. (2010)Analysis of five novel putative constitutive gene promoters in transgenic rice plants.J.Exp. Bot. 61,2459-2467.   \nPark,J.I.,Kent, M.S.,Datta,S.,Holmes,B.M., Huang,Z.,Simmons, B.A., Sale, K.L.et al.(2011a) Enzymatic hydrolysis of cellulose by the cellobiohydrolase domain of CelB from the hyperthermophilic bacterium Caldicelllosiruptor saccharolyticus. Bioresour. Technol.102, 5988-5994.   \nPark,S.-H.,Ransom,C.,Mei, C.S., Sabzikar, R., Qi, C.F., Chundawat,S., Dale, B.et al. (2011b) The quest for alternatives to microbial cellulase mix production: corn stover-produced heterologousmulti-cellulases readily deconstruct lignocellulosic biomass into fermentable sugars.J.Chem. Technol. Biotechnol. 86,633-641.   \nPereira,E.，Kolotilin,I.，Conley，A.and Menassa，R.(2014) Production and characterization of in planta transiently produced polygalacturanase from Aspergillus niger and its fusions with hydrophobin or ELP tags.BMC Biotechnol. 14,59.   \nPerlack,R.D.and Stokes,B.J. (2011)\"U.S.Billon-Ton Update: Biomass Supply fora Bioenergy and Bioproducts Industry.\" ORNL/TM-2011/224，http:/ www.energy.gov/sites/prod/files/2015/01/f19/bilion_ton_update_0.pdf.   \nPetersen，K．and Bock，R.(2011）High-level expression of a suite of thermostable cell wall-degrading enzymes from the chloroplast genome. Plant Mol.Biol.76,311-321.   \nPogorelko,G.,Fursova,O.,Lin,M.,Pyle,E.,Jas,J.and Zabotina,O.A. (2011) Post-synthetic modification of plant cell walls by expression of microbial hydrolases in the apoplast. Plant Mol. Biol.77,433-445.   \nPogorelko,G., Lioneti,V.,Fursova,O.,Sundaram,R.M.,Qi,M.,Whitham,S.A., Bogdanove，A.J.et al.(2013) Arabidopsis and Brachypodium distachyon transgenic plantsexpressing Aspergillusnidulansacetylesteraseshave decreased degree of polysaccharide acetylation and increased resistance to pathogens.Plant Physiol.162, 9-23.   \nQue,Q.D.,Chilton,M.-D.M.,de Fontes,C.M.,He,C.K.,Nuccio,M., Zhu,T., Wu,Y.X.et al. (2010) Trait stacking in transgenic crops:challenges and opportunities.GM Crops,1,220-229.   \nRansom,C.,Balan,V., Biswas,G.,Dale,B.,Crocket,E.and Sticklen,M.(2007) Heterologous Acidothermus cellulolyticus 1,4-β-endoglucanase E1 produced within the corn biomass converts corn stover into glucose.Appl. Biochem. Biotechnol. 137-140,207-219.   \nReyes-Ortiz,V., Heins,R., Cheng,G., Kim,E., Vernon,B.,Elandt,R.,Adams,P. et al. (2013)Addition of a carbohydrate-binding module enhances cellulase penetration into cellulose substrates. Biotechnol. Biofuels,6,93.   \nRobson,P.R.H.,Donnison,I.S.,Wang,K.,Frame,B.,Pegg,S.E.,Thomas,A.and Thomas，H. (2oo4) Leaf senescence is delayed in maize expressing the Agrobacterium IPT gene under the control of a novel maize senescenceenhanced promoter.Plant Biotechnol.J.2,101-112.   \nSaunders，J.A.，Mattews，B.F．and Romeo，J.T.(2O01）Regulationof PhytochemicalsbyMolecularTechniques.RecentAdvances in Phytochemistry. Oxford, UK: Elsevier science Itd.   \nSchäffner,A.R.and Sheen,J.(1991) Maize rbcS promoter activity depends on sequence elements not found in dicot rbcS promoters.Plant Cell,3,997 1012.   \nScheller,H.V.and Ulvskov,P.(2010) Hemicelluloses.Ann. Rev.Plant Biol.61, 263-289.   \nShen,B.X.nXGuoli,AgrJo,Boul (2012)Engineering a thermoregulated intein-modified xylanase into maize for consolidated lignocellulosic biomass processing.Nat. Biotechnol.30, 1131-1136.   \nSun,Y., Cheng,J.J., Himmel, M.E.，Skory,C.D.,Adney,W.S.,Thomas,S.R., Tisserat，B.et al.(2O07) Expression and characterization of Acidothermus celulolyticus E1 endoglucanase in transgenic duckweed Lemna minor 8627. Bioresour.Technol. 98,2866-2872.   \nTelke,A.A.,Ghatge,S.S.,Kang,S.-H.,Thangapandian,S.,Lee, K.-W.,Shin,HD.，Um,Y.et al.(2012) Construction and characterization of chimeric celulases with enhanced catalytic activity towards insoluble celulosic substrates. Bioresour. Technol.112,10-17.   \nTeymouri,F.,Alizadeh,H.,Laureano-Pérez,L.,Dale,B.and Sticklen,M.(2004) Effects of ammonia fiber explosion treatment on activity of endoglucanase fromAcidothermus cellulolyticusin transgenic plant.Appl． Biochem. Biotechnol. 116,1183-1191.   \nTomasetioiggiaealcalBFrciF Cervone，F.et al. (2015） Controlled expression of pectic enzymes in Arabidopsis thaliana enhances biomass conversion without adverse effects on growth.Phytochemistry,112,221-230.   \nTsai,A.Y.L.，Canam,T., Gorzsas,A.，Melerowicz,E.J.，Campbell,M.M.and Master,E.R.(2o12) Constitutive expression of a fungal glucuronoyl esterase in Arabidopsis reveals altered cell wall composition and structure.Plant Biotechnol.J.10,1077-1087.   \nTucker,M.P.,Mohagheghi,A.,Grohmann, K.and Himmel, M.E.(1989) Ultrathermostable celulases from Acidothermus cellulolyticus:comparison of temperature optima with previously reported celulases. Biotechnology (NY). 7, 817-820.   \nValente,M.A.S.，Faria,J.A.Q.A.，Soares-Ramos,J.R.L.，Reis，P.A.B.，Pinheiro, G.L.,Piovesan,N.D., Morais,A.T.et al. (2oo9) The ER luminal binding protein (BiP)mediates anincrease in drought tolerance in soybean and delays drought-induced leaf senescence in soybean and tobacco.J.Exp. Bot.60, 533-546.   \nVerma,D.,Kanagaraj,A.,Jin,S.X.,Singh,N.D.,Kolattukudy,P.E.and Daniell, H.(2010） Chloroplast-derived enzyme cocktails hydrolyse lignocellulosic biomass and release fermentable sugars.Plant Biotechnol.J.8,332-350.   \nVerma,D.,Jin,S.X.，Kanagaraj,A.,Singh,N.D.,Daniel,J.,Kolattukudy，P.E., Miller,M.etal.(2013)Expressionoffungalcutinaseand swollenin in tobacco chloroplasts reveals novel enzyme functions and/or substrates.PLoS ONE,8, e57187.   \nVoges，M.J.， Silver，P.A.,Way，J.C.and Mattozzi，M.D.(2013) Targeting a heterologous protein to multiple plant organelles via rationally designed 5' mRNA tags.J.Biol. Eng.7,20.   \nWani，S.H.，Haider，N.，Kumar,H.and Singh，N.B.(2O1O）Plant plastid engineering. Cur. Genom. 11,500-512.   \nWeng，X.Y.，Huang，Y.Y.，Hou,C.X.and Jiang，D.(2013)Effects of an exogenous xylanase gene expression on the growth of transgenic rice and the expression level of endogenous xylanase inhibitor gene RiXl.J.Sci.Food Agric. 93,173-179.   \nXu,X.L., Zhang,Y.H.,Meng, Q.C.,Meng, K., Zhang,W., Zhou,X.J., Luo,H.Y. et al.(2013) Overexpression of a fungal $\\beta$ -mannanase from Bispora sp.MEY1 in maize seeds and enzyme characterization.PLoS ONE,8,e56146.   \nYang,P.L.,Wang,Y.R.,Bai,Y.G.,Meng,K.,Luo,H.Y.,Yuan,T.Z.,Fan,Y.L. et al.(2oo7） Expression of xylanase with high specific activity from Streptomyces olivaceoviridis A1in transgenic potato plants (Solanum tuberosum L.). Biotechnol. Lett.29,659-667.   \nYang,W.X., Zhang,Y.H.,Zhou,X.J., Zhang,W.,Xu,X.L., Chen,R.M.,Meng, Q.C.et al. (2015) Production of a highly protease-resistant fungal α- galactosidase in transgenic maize seeds for simplified feed processing. PLoS ONE,10,e0129294.   \nYu,L.-X.,Gray, B.N.,Rutzke,C.J.,Walker, L.P.,Wilson,D.B.and Hanson, M.R (2007) Expression of thermostable microbial cellulases in the chloroplasts of nicotine-free tobacco.J. Biotechnol.131,362-369.   \nZhang,D.C.,VanFossen,A.L.,Pagano,R.M.,Johnson,J.S.,Parker,M.H.,Pan, S.H.,Gray,B.N.et al. (2011) Consolidated pretreatment and hydrolysis of plant biomass expressing cell wall degrading enzymes. Bioenerg. Res.4, 276-286.   \nZhang, Q., Zhang,W., Lin,C.Y.,Xu,X.L.and Shen, Z.C.(2012) Expression of an Acidothermus cellulolyticus endoglucanase in transgenic rice seeds. Protein Expr.Purif.82,279-283.   \nZhang, Y.H.,Xu,X.L., Zhou,X.J., Chen,R.M.,Yang, P.L., Meng, Q.C.,Meng,K. et al. (2013) Overexpression of an acidic endo-β-1,3-1,4-glucanase in transgenic maize seed for direct utilization in animal feed. PLoS ONE,8,e81993.   \nZiegelhoffer,T.，Will, J.and Austin-Phillips,S.(1999) Expression of bacterial cellulase genes in transgenicalfalfa (Medicago sativa L.)，potato (Solanum tuberosum L.）and tobacco (Nicotiana tabacum L.).Mol. Breed.5，309- 318. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Ziegelhoffer,T.,Raasch,J.A.and Austin-Phillips,S. (2oo1) Dramatic effects of truncation and sub-cellular targeting on the accumulation of recombinant microbial cellulase in tobacco.Mol. Breed.8,147-158. Ziegelhoffer，T.，Raasch，J.A.and Austin-Philips，S.(2Oo9)Expressionof Acidothermus cellulolyticus E1 endo-beta-1,4-glucanase catalytic domain in transplastomic tobacco. Plant Biotechnol. J.7,527-536. Ziegler，M.T.，Thomas，S.R．and Danna，K.J.(20oO)Accumulation ofa thermostable endo-1,4-β-D-glucanase in the apoplast of Arabidopsis thaliana leaves.Mol. Breed.6,37-46. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Cellulose deconstructing and mixed-linkage glucandegradingenzymeactivities.   \nFigure S2 Xyloglucan- and glucuronoarabinoxylan-degrading enzyme activities.   \nFigure S3 Galactoglucomannan- and galacturonan-degrading enzyme activities.   \nFigure S4 Rhamnogalacturonan I- and Il-degrading enzyme activities.   \nTable S1 Full summary of subcellular targeting of cell walldegrading enzymes since 2oo5:arranged by subcellular compartment.   \nTable S2 Summary of heterologous production of cell walldegrading enzymes since 2oo5:arranged by enzyme.   \nAppendix S1 Microbial cell wall-deconstructing enzyme classification and mode of action. ",
+        "page_idx": 15
+    }
+]

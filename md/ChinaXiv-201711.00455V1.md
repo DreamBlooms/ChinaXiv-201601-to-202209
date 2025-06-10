@@ -1,0 +1,140 @@
+复合益生菌发酵液对哺乳母猪生产性能、血清生化及免疫指标的影响
+
+2 董佳琦 金三俊\* 汪晶晶任红立武洪志刁新平\*\*  
+3 （东北农业大学动物科学技术学院，哈尔滨150030）  
+4摘要：本试验旨在探讨在饲粮中添加复合益生菌发酵液对哺乳母猪生产性能、血清生化及  
+5 免疫指标的影响。选取60头妊娠 $1 0 8 \mathrm { d }$ 的长白母猪，随机分为4组，每组15个重复，每个  
+6 重复1头母猪。对照组饲喂基础饲粮，3个试验组分别在基础饲粮中添加 200、300、400 mL/d  
+7 复合益生菌发酵液，饲喂至哺乳 $2 1 \mathrm { d }$ 。结果表明：1）300mL/d复合益生菌发酵液组母猪的  
+8 平均日采食量显著高于对照组（ $( P { < } 0 . 0 5 )$ )，仔猪断奶窝重和平均日增重极显著高于对照组( $P$   
+9 <0.01)。2）300mL/d复合益生菌发酵液组的血清葡萄糖（GLU）含量显著高于对照组（ $P$ <0.05)，血清中三碘甲腺原氨酸（ ${ \bf \ddot { T } } _ { 3 }$ ）含量极显著高于对照组（ $P { < } 0 . 0 1$ )。3） $3 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清免疫球蛋白A(IgA)、免疫球蛋白 ${ \bf G } ( \mathrm { I g } { \bf G } )$ 、免疫球蛋白 ${ \bf { M } } ( { \bf { { I g } } } { \bf { { M } } } )$ 、白细胞介素-2（IL-2）、白细胞介素-6（IL-6）含量均极显著高于对照组（ $\cdot P { < } 0 . 0 1$ )。综合本试验结果认为：饲粮中添加 $3 0 0 \mathrm { m L } / \mathrm { d }$ 复合益生菌发酵液可以有效改善哺乳母猪的生产性能、血清生化及免疫指标。关键词：复合益生菌发酵液；哺乳母猪；生产性能；血清生化指标；血清免疫指标中图分类号：S816文献标识码：A文章编号：哺乳母猪的营养状况关系到后代的生长及免疫性能以及其本身的种用期[1]。抗生素和化学药物的滥用不仅杀死了动物体内的致病菌，有益菌也同样被消灭，致使母猪肠道处于亚健康状态[2]。因此，哺乳母猪的营养及肠道健康在生产中变的极为重要。乳酸菌和酵母菌是存在于动物体内的益生菌，有助于肠道健康，在防止消化道疾病产生的同时还能促进生长[3]。以有益菌为主要原料配合成的微生态制剂在猪生产中已有相关研究。尹清强等[4研究表明，在哺乳仔猪和断奶仔猪饲粮中分别加入 $0 . 1 0 \%$ 和 $0 . 0 5 \%$ 微生态制剂能让仔猪胃肠道微生物区系维持稳定，显著降低仔猪的腹泻率和死亡率，且效果优于抗生素。陈兴荣等[5研究表明，在哺乳母猪、哺乳仔猪饲粮中添加微生态制剂能够提高哺乳母猪哺乳期的平均采食量、降低便秘发生率；能够提高哺乳仔猪的日增重、成活率。楚青惠等[研究表明，对于妊娠后期和
+
+哺乳期母猪来说，每天每头饲喂 $2 5 0 { \sim } 3 0 0 ~ \mathrm { m L }$ 乳酸菌液对其生长性能、健康状况、血清抗氧化指标、粪便微生物数量等的改善效果较好。哺乳母猪是养猪生产中的重要环节，而有益菌在畜禽和仔猪上的应用较母猪多，且对哺乳母猪生产性能的影响方式和适宜添加水平还有待研究。因此，本试验将复合益生菌发酵液与湿拌料混合饲喂哺乳母猪，研究其对哺乳母猪生产性能、血清生化及免疫指标的影响，为有益菌在母猪生产中的合理应用提供依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+复合益生菌发酵液：益生菌粉购于深圳市百澳飞有限公司，其主要成分为乳酸菌和酵母菌及其代谢产物，复合益生菌发酵液是用该公司研发的自动发酵罐发酵系统发酵 $2 4 \mathrm { ~ h ~ }$ 制备而成。复合益生菌发酵液的pH是3.59，每毫升含乳酸菌 $1 . 0 { \times } 1 0 ^ { 8 }$ CFU，酵母菌 $8 \times 1 0 ^ { 7 }$ CFU。
+
+# 1.2 试验动物及饲粮
+
+试验母猪均从河南省鹿邑县天种猪场选取，为平均体重、预产期和健康状况都相近的 2胎长白母猪。试验从母猪妊娠 108d开始，至哺乳 21d时结束。参照 NRC(2012)母猪营养需要配制妊娠后期和哺乳期基础饲粮，其组成及营养水平见表1。
+
+# 表1妊娠后期和哺乳期基础饲粮组成及营养水平(风干基础)
+
+Table 1Composition and nutrient levels of diets in late pregnancy and lactation (as-fed   
+
+<html><body><table><tr><td colspan="3">basis)</td></tr><tr><td>项目Items</td><td>妊娠后期 Late pregnancy</td><td>哺乳期 Lactation period</td></tr><tr><td></td><td>period</td><td></td></tr><tr><td>原料Ingredients</td><td></td><td></td></tr><tr><td>玉米Corn</td><td>63.00</td><td>58.20</td></tr><tr><td>豆粕 Soybean meal</td><td>24.24</td><td>27.90</td></tr><tr><td>鱼粉 Fish meal</td><td>2.00</td><td>2.00</td></tr><tr><td>大豆油 Soybean oil</td><td>2.00</td><td>4.00</td></tr><tr><td>小麦麸Wheat bran</td><td>4.00</td><td>3.00</td></tr><tr><td>碳酸氢钙 CaHPO4</td><td>1.85</td><td>1.88</td></tr><tr><td>碳酸钙 CaCO3</td><td>0.97</td><td>0.92</td></tr><tr><td>食盐 NaCl</td><td>0.40</td><td>0.40</td></tr><tr><td>碳酸氢钠 NaHCO3</td><td>0.40</td><td>0.39</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">L-赖氨酸盐酸盐 L-Lys HCl</td><td>0.24</td></tr><tr><td>(78.8%)</td><td>0.08</td><td>0.11</td></tr><tr><td>DL-蛋氨酸DL-Met（89%）</td><td>0.25</td><td>0.14</td></tr><tr><td>L-氨酸L-Val (98%)</td><td>0.11</td><td>0.12</td></tr><tr><td>L-苏氨酸L-Thr (99%)</td><td>0.15</td><td>0.15</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.55</td><td>0.55</td></tr><tr><td>预混料 Premixl</td><td>100.00</td><td>100.00</td></tr><tr><td>合计 Total</td><td></td><td></td></tr><tr><td>营养水平 Nutrient levels2</td><td>17.50</td><td>18.50</td></tr><tr><td>粗蛋白质CP</td><td>13.37</td><td>13.81</td></tr><tr><td>消化能 DE/（MJ/kg）</td><td>0.95</td><td>0.95</td></tr><tr><td>钙Ca</td><td>0.75</td><td>0.75</td></tr><tr><td>磷TP</td><td>0.45</td><td>0.45</td></tr><tr><td>有效磷 AP</td><td>0.85</td><td>1.10</td></tr><tr><td>总赖氨酸 TLys</td><td></td><td></td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets: VA 25 000 IU, $\mathrm { V B } _ { 1 } \mathrm { ~ 1 ~ m g }$ ， $\mathrm { V B } _ { 2 } 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } 0 . 0 1 5 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 5 0 0 0$ IU，VK $2 . 5 \mathrm { m g }$ ，叶酸folic acid $0 . 2 5 \mathrm { m g }$ ， $D$ 泛酸 $D$ pantothenic acid $1 2 . 5 \mathrm { m g }$ ，烟酸 nicotinic acid $1 7 . 5 \mathrm { m g }$ ， Cu (as copper sulfate) $3 0 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate) $1 0 0 ~ \mathrm { { m g } }$ ，Mn (as manganese sulfate) $4 0 ~ \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $1 0 0 \mathrm { m g }$ ， I(as potassium iodide) $0 . 2 5 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 2 5 \mathrm { m g }$ 。   
+2’计算值 Calculated value。
+
+# 1.3 试验设计
+
+试验母猪于预产期前7d转入产房，饲养于同一栋双列式产房，由同一饲养员看管，单栏饲养，漏缝式高床，有自动饮水器和铁料槽。圈舍通风良好，舍内保持清洁干燥，环境温度保持在 $2 0 { \sim } 2 5$ ℃。试验母猪共60头，随机分配到4个组，每组15个重复，每个重复1头母猪。饲喂母猪时，在基础饲粮中添入适量的水，以湿拌料的方式饲喂，需要添加发酵液的母猪按剂量倒入湿拌料中。其中，对照组仅饲喂湿拌料，试验I组在湿拌料里添加 $2 0 0 \mathrm { m L } / \mathrm { d }$ 的发酵液，试验ⅡI组在湿拌料里添加 $3 0 0 \mathrm { m L / d }$ 的发酵液,IⅢ组在母猪湿拌料里添加 $4 0 0 \mathrm { m L / d }$ 的发酵液。产前 ${ \boldsymbol { 7 } } { \sim } \mathbf { d }$ 饲喂 $2 { \sim } 3 \ \mathrm { k g } / \mathrm { d }$ ，产前 $3 { \sim } 1 \mathrm { ~ d ~ }$ 饲喂 $1 { \sim } 2 \ \mathrm { k g } / \mathrm { d }$ ，分娩当天不喂料，哺乳第2天饲喂 $2 ~ \mathrm { k g / d }$ ，第3天饲喂 $3 ~ \mathrm { { k g / d } }$ ，第4天开始自由采食，每天喂 $4 . 5 { \sim } 7 . 0 \ \mathrm { k g / d }$ ，直到仔猪 21日龄断奶，每天喂3次，自由饮水，饲养管理和免疫程序均按猪场标准统一进行。
+
+# 1.4检测指标
+
+1.4.1哺乳母猪生产性能的测定
+
+哺乳仔猪生产性能：在分娩当天记录哺乳仔猪的初生窝重，在断奶当天称量哺乳仔猪断奶窝重，计算出哺乳仔猪的平均日增重。
+
+平均日采食量：每天记录哺乳母猪的采食量，计算平均日采食量。
+
+发情间隔：母猪下床后，观察断奶后母猪的发情情况（6d)，统计发情间隔，并作记录。
+
+1.4.2血清生化指标及免疫指标的测定
+
+于试验结束第2天07:00,每组随机抽取8头体况相近的哺乳母猪，耳静脉采血 $1 0 ~ \mathrm { m L }$ 置于促凝真空管，静置 $1 5 \mathrm { m i n }$ 后，用 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 0 ~ \mathrm { { m i n } }$ ，取上层血清， $- 2 0 \mathrm { ~ \textdegree C }$ 下保存待测。血清常规生化指标包括葡萄糖（GLU）、尿素氮（UN）、总蛋白（TP）、白蛋白（ALB）含量以及白球比（A/G)，由全自动生化分析仪测定。血清激素指标包括生长激素（GH)、三碘甲腺原氨酸 $( \mathbf { T } _ { 3 } )$ 、四碘甲腺原氨酸 $\left( \mathrm { { T _ { 4 } } } \right)$ )含量，血清免疫指标包括免疫球蛋白A（IgA）免疫球蛋白G（IgG）、免疫球蛋白 $\textbf { M } ( \mathrm { I g } \mathbf { M } )$ 、白细胞介素-2（IL-2）、白细胞介素-6（IL-6)含量，上述指标均采用酶联免疫吸附测定法检测，试剂盒均购自北京华英生物技术研究所。
+
+# 1.5 数据处理
+
+试验数据用Excel 2012软件进行初步处理后，采用 SPSS 22.0 软件的单因素方差分析（one-way ANOVA）程序进行方差分析，并采用LSD法进行组间多重比较，结果以“平均值±标准差”表示， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+2结果
+
+# 2.1复合益生菌发酵液对哺乳母猪生产性能的影响
+
+由表2可知，300和 $4 0 0 ~ \mathrm { m L / d }$ 复合益生菌发酵液组母猪的平均日采食量比对照组分别增加了 $9 . 7 5 \%$ 、 $9 . 0 3 \%$ ，差异显著（ $\lceil P { < } 0 . 0 5 \rangle$ 。仔猪断奶窝重比对照组分别增加了 $4 . 0 2 \%$ 、$12 . 6 9 \%$ 、 $9 . 9 0 \%$ ( $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ )。各试验组的仔猪平均日增重均极显著高于对照组（ $\scriptstyle \cdot < 0 . 0 1 )$ 。仔猪初生窝重和母猪断奶后发情间隔各组之间差异不显著（ $\cdot P { > } 0 . 0 5 )$ ）。
+
+# 表2复合益生菌发酵液对哺乳母猪生产性能的影响
+
+<html><body><table><tr><td>Items</td><td colspan="4">supplemental level/(mL/d)</td></tr><tr><td></td><td>0</td><td>200</td><td>300</td><td>400</td></tr><tr><td>平均日采食量</td><td>48.51±1.19b</td><td>50.55±0.82b</td><td>53.24±1.26a</td><td>52.89±1.85a</td></tr><tr><td>ADFI/(kg/d)</td><td></td><td></td><td></td><td></td></tr><tr><td>发情间隔</td><td>5.50±0.53</td><td>5.13±0.35</td><td>5.13±0.35</td><td>5.25±0.46</td></tr><tr><td>Oestrus interval/d</td><td></td><td></td><td></td><td></td></tr><tr><td>仔猪初生窝重</td><td>11.67±0.41</td><td>12.12±0.48</td><td>11.94±0.95</td><td>11.63±0.47</td></tr><tr><td>Initial litter weight of piglet/kg</td><td>43.04±4.38A</td><td>44.77±3.59B</td><td>48.50±4.38B</td><td></td></tr><tr><td>仔猪断奶窝重</td><td></td><td></td><td></td><td>47.30±2.53B</td></tr><tr><td>Weaning litter weight of piglet/kg</td><td>157.35±7.89A</td><td>171.67±5.01B</td><td>187.76±9.69B</td><td></td></tr><tr><td>仔猪平均日增重</td><td></td><td></td><td></td><td>176.07±7.74B</td></tr><tr><td>ADG of piglet/ (g/d)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标相同小写字母或无字母表示差异不显著( $( P { > } 0 . 0 5 )$ ),相邻小写字母表示差异显著( $\scriptstyle \cdot < 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $\scriptstyle P < 0 . 0 1$ )。下表同。
+
+In the same row, values with the same small or no lettr superscripts mean no significant diference ( $P { > } 0 . 0 5$ ）， while with adjacent small letter superscripts mean significant difference ( $\mathrm { \partial } P { < } 0 . 0 5 \mathrm { \partial }$ ),and with different capital letter superscripts mean significant difference ( $\scriptstyle \mathbf { \mathit { P } } < 0 . 0 1$ ). The same as below.
+
+2.2复合益生菌发酵液对哺乳母猪血清生化指标的影响
+
+由表3可知，300和 $4 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清GLU含量显著高于对照组（ $P$ $< 0 . 0 5 \dot$ 。 $3 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清 ${ \mathrm { T } } _ { 3 }$ 含量极显著高于对照组（ $\scriptstyle \cdot < 0 . 0 1 .$ ，200和 $4 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清 ${ \bf T } _ { 3 }$ 含量显著高于对照组（ $\scriptstyle P < 0 . 0 5 { \mathrm { , } }$ )。在饲粮中添加复合益生菌发酵液对哺乳母猪血清UN、TP、ALB、GH、 $ { \mathrm { ~ T ~ } } _ { 4 }$ 含量及A/G无显著影响（ $P >$ 0.05)。
+
+表3复合益生菌发酵液对哺乳母猪血清生化指标的影响  
+Table 3Effects of compound probiotics fermentation broth on serum biochemical indexes of   
+
+<html><body><table><tr><td colspan="4">lactating sows</td></tr><tr><td>项目</td><td colspan="3">复合益生菌发酵液添加水平 Compound probiotics fermentation broth</td></tr><tr><td>Items</td><td colspan="3">supplemental level/(mL/d)</td></tr><tr><td></td><td>0</td><td>200</td><td>400</td></tr></table></body></html>
+
+<html><body><table><tr><td>葡萄糖</td><td>4.85±0.29b</td><td>4.71±0.87b</td><td>5.41±0.47a</td><td>5.33±0.12a</td></tr><tr><td>GLU/(mmol/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>尿素氮</td><td>5.11±0.16</td><td>5.10±0.20</td><td>4.85±0.38</td><td>4.66±0.34</td></tr><tr><td>UN/ （mmol/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白</td><td>78.57±1.67</td><td>79.13±1.10</td><td>79.13±4.97</td><td>77.90±0.35</td></tr><tr><td>TP/ (g/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>白蛋白</td><td>43.20±2.08</td><td>44.53±0.92</td><td>44.80±2.94</td><td>43.97±0.75</td></tr><tr><td>ALB/ (g/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>白球比</td><td>1.23±0.58</td><td>1.30±0.00</td><td>1.30±0.00</td><td>1.27±0.58</td></tr><tr><td>A/G</td><td></td><td></td><td></td><td></td></tr><tr><td>生长激素</td><td>7.80±0.94</td><td>7.93±0.59</td><td>8.31±0.29</td><td>8.41±0.52</td></tr><tr><td>GH/ (ng/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>三碘甲腺原氨酸</td><td>1.34±0.20Aa</td><td>1.60±0.06ABb</td><td>1.66±0.31Bb</td><td>1.62±0.03Bb</td></tr><tr><td>T3/(ng/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>四碘甲腺原氨酸</td><td>3.25±0.35</td><td>3.27±0.35</td><td>3.28±0.21</td><td>3.26±0.18</td></tr><tr><td>T4/(ng/mL)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3复合益生菌发酵液对哺乳母猪血清免疫指标的影响
+
+由表4可知，各试验组的血清IgA、 $\mathrm { I g G }$ 和 $\mathrm { I g } \mathrm { M }$ 含量均极显著高于对照组（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ ）°$3 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清IL-2含量极显著高于对照组（ $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ ，200和400mL/d复合益生菌发酵液组的血清IL-2含量显著高于对照组（ $\scriptstyle P < 0 . 0 5$ 。 $3 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清IL-6含量极显著高于对照组（ $\scriptstyle P < 0 . 0 1 .$ ， $4 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清IL-6含量显著高于对照组（ $\scriptstyle \left( P < 0 . 0 5 \right)$ 。
+
+# 表4复合益生菌发酵液对哺乳母猪血清免疫指标的影响
+
+Table 4Effects of compound probiotics fermentation broth on serum immune indexes of   
+
+<html><body><table><tr><td colspan="5">lactating sows</td></tr><tr><td>项目</td><td colspan="4">复合益生菌发酵液添加水平 Compound probiotics fermentation broth</td></tr><tr><td>Items</td><td colspan="4">supplemental level/(mL/d)</td></tr><tr><td></td><td>0</td><td>200</td><td>300</td><td>400</td></tr><tr><td>免疫球蛋白A</td><td>1.14±0.03Aa</td><td>1.32±0.06Bb</td><td>1.41±0.80Bb</td><td>1.43±0.07Bb</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="5">IgA/(g/L)</td></tr><tr><td>免疫球蛋白G</td><td>19.57±0.74Aa</td><td>21.99±1.03Bb</td><td>23.20±0.39Bb</td><td>23.80±0.21Bb</td></tr><tr><td>IgG/(g/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>免疫球蛋白M</td><td>2.08±0.05Aa</td><td>2.25±0.05Bb</td><td>2.39±0.02Bb</td><td>2.46±0.06Bb</td></tr><tr><td>IgM/(g/L)</td><td></td><td></td><td></td><td></td></tr><tr><td>白细胞介素-2</td><td>39.05±3.67Aa</td><td>41.46±5.54ABb</td><td>49.09±1.51Bb</td><td>46.60±2.32ABb</td></tr><tr><td>IL-2/(pg/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>白细胞介素-6</td><td>162.55±2.91Aa</td><td>167.82±2.05ABa</td><td>174.69±2.76Bb</td><td>170.02±4.35ABb</td></tr><tr><td>IL-6/ (pg/mL)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+108 3讨论
+
+# 3.1复合益生菌发酵液对哺乳母猪生产性能的影响
+
+采食量是限制母猪生产性能及遗传潜力发挥的重要因素之一[7]。益生菌对哺乳母猪采食量影响的研究结果并不一致。尹华俊8试验表明，妊娠中后期和泌乳期饲粮中添加植物乳酸菌对母猪泌乳期采食量没有促进作用。唐明红等试验表明，在饲粮中添加不同剂量的乳酸菌酵母菌复合菌后妊娠90d至产仔后10d的母猪的采食量差异极显著。本试验中，300 mL/d复合益生菌发酵液组母猪的平均日采食量比对照组增加了 $9 . 7 5 \%$ 。这是由于乳酸菌和酵母菌可以降低母猪肠道pH，调节母猪肠道内环境平衡，提高消化酶活性，从而提高营养物质的代谢和吸收，进而提高了哺乳母猪的采食量。哺乳仔猪的生长和发育取决于母乳的好坏，母乳好的猪带出来的仔猪断奶重大，生长速度快，免疫能力强，距离上市体重的时间短，所以母猪泌乳量的提高可给猪场节约成本，带来经济效益。李秋艳等[10]研究报道，相比对照组，微生态制剂组母猪的仔猪初生窝重、仔猪平均个体重以及仔猪断奶窝重均有提高。龙广[]研究得出，母猪妊娠和泌乳期饲粮中添加布拉迪酵母菌显著提高了母猪泌乳期的采食量，显著提高了仔猪的平均日增重、平均窝增重和断奶窝重。本试验中， $3 0 0 ~ \mathrm { m L / d }$ 复合益生菌发酵液组21d泌乳量比对照组增加了 $1 8 . 1 7 \%$ ，且仔猪断奶窝重和仔猪平均日增重极显著高于对照组。复合益生菌发酵液的剂量关系到作用效果，从结果来看， $3 0 0 ~ \mathrm { m L / d }$ 复合益生菌发酵液组的21d泌乳量比200 和 $4 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组都高，这可能是由于添加水平较低时导致效菌数量达不到动物胃肠道所需的数量，其益生作用发挥不够完美；添加水平较高会扰乱微生物区系的平衡，达不到理想的效果[12]。
+
+3.2复合益生菌发酵液对哺乳母猪血清生化指标的影响
+
+血清的各项生化指标在一定程度上可以反映动物的生理状态和机体的整体代谢状况，从指标的异常可以推断出动物是否健康及其适应性和生产性能。GLU是动物进行生命活动的直接供能物质，是动物体所有细胞的直接能源供给库，与动物的日增重和饲粮营养水平相关联[2]。在正常范围内，血清GLU含量升高有助于提高动物的免疫力，减少动物的不良应激。在本试验中，300 和 $4 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组的血清GLU 含量显著高于对照组。血清GLU 含量能反映机体对糖类的消化吸收度，当机体GLU含量升高时会刺激胰岛素的分泌，同时胰岛素能影响细胞膜的转运，从而促进细胞对氨基酸和GLU 的摄取，增加体内蛋白质和糖原的合成[14]。甲状腺激素是广泛参与调节机体代谢的激素，包括 ${ \mathrm { T } } _ { 3 }$ 、 $\mathrm { T } _ { 4 }$ ，它们共同促进动物生长。其中 ${ \mathrm { T } } _ { 3 }$ 是甲状腺分泌的主要活性物质，生理效应比 $\mathrm { T } _ { 4 }$ 大，作用快[15]。Leung等[16]用促甲状腺激素释放激素滴服的方法处理肉鸡，被处理的肉鸡血浆中 ${ \mathrm { T } } _ { 3 }$ 和 $\mathrm { T } _ { 4 }$ 含量显著上升。King 等[17]认为， ${ \mathrm { T } } _ { 3 }$ 和 $\mathrm { T } _ { 4 }$ 为动物生长和发育所必需，适量的外源性甲状腺激素能促进畜禽的生长发育。本试验中， $3 0 0 \mathrm { m L / d }$ 复合益生菌发酵液组血清 ${ \mathrm { T } } _ { 3 }$ 含量极显著高于对照组，与上述研究结果一致。
+
+# 3.3复合益生菌发酵液对哺乳母猪血清免疫指标的影响
+
+血清免疫球蛋白是体液免疫系统的主要成分，IgG、IgM、IgA均具有免疫和防御功能，可与抗原发生结合反应，保护机体免受抗原侵入造成损伤[18]。在血清免疫球蛋白中，IgG 含量最高，约占其免疫球蛋白总量的 $7 5 \%$ ，能有效预防相应的感染性疾病，有增强机体免疫功能的趋势，IgG 含量是直接反映机体免疫力的指标[19]。韦明宇等[20]研究表明，在母猪妊娠期和泌乳期饲粮中添加NS 复合乳酸菌制剂后，母猪血清中免疫球蛋白含量显著提高，证实了乳酸菌能够提高母猪繁殖阶段的免疫力。本试验中，各试验组的血清IgA、IgG 和IgM 含量均极显著高于对照组，与上述研究结果相一致。IL-2是动员免疫系统抗感染和抗肿瘤所必需的细胞因子，可以促进T淋巴细胞、B淋巴细胞和自然杀伤性（NK）细胞等的增殖与分化，促进干扰素、肿瘤坏死因子等细胞因子的分泌，从而提高机体的抗病能力[21]。IL-6 是一种能刺激B 淋巴细胞分化成熟并分泌IgG 的多功能因子，可以维持机体内环境的稳定。外源性病原菌进入动物体后，诱导吞噬细胞释放IL-6，随后 IL-6 由血液进入肝脏并促使其产生甘露寡糖结合蛋白，然后触发机体多级免疫反应[22]。因此，IL-2、IL-6 都能较好地反映动物机体的免疫机能。本试验中， $3 0 0 ~ \mathrm { m L / d }$ 复合益生菌发酵液组的血清IL-2、IL-6 含量显著或极显著高于对照组。这可能是因为有益菌占据了母猪消化道的大部分定植位点，从而直接作用于宿主的免疫系统，诱发肠道免疫，使免疫球蛋白分泌增加，增强巨噬细胞、NK 细胞等免疫细胞的活性，从而提高动物机体的免疫性能。
+
+4结论  
+在哺乳母猪饲粮中添加复合益生菌发酵液对哺乳母猪的生产性能、血清生化及免疫指标均有不同程度的改善作用，其中以哺乳母猪平均日采食量、21d泌乳量、仔猪断奶窝重、仔猪平均日增重以及血清GLU、 ${ \mathrm { T } } _ { 3 }$ 、IgG、IgM、IgA、IL-2、IL-6 含量的变化最为明显，复合益生菌发酵液可以有效提高这些指标，且以添加水平为 $3 0 0 \mathrm { m L } / \mathrm { d }$ 时效果最好。  
+参考文献：  
+[1]张婧婧,刘庚寿,李伟,等.不同剂型酸化剂对哺乳母猪生产性能、初乳成分和肠道菌群结构的影响[J].动物营养学报,2017,29(6):2064-2070.  
+[2]SORUM H,SUNDE M.Resistance to antibiotics in the normal flora of animals[J].VeterinaryResearch,2001,32(3/4):227-241.  
+[3]SCHILLINGER U,LUCKE F K.Antibacterial activity of Lactobacillus sake isolated frommeat[J].Applied and Environmental Microbiology,1989,55(8):1901-1906.  
+[4]尹清强,李小飞,常娟,等.微生态制剂对哺乳和断奶仔猪生产性能的影响及作用机理研究[J].动物营养学报,2011,23(4):622-630.  
+[5]陈兴荣,洗文标.三种微生态制剂对哺乳母猪、哺乳仔猪及保育猪的应用效果研究[J].四川畜牧兽医,2010,37(12):22-24.  
+[6]楚青惠,汪官保,曾勇庆,等.饲喂乳酸菌对母猪和哺乳仔猪生长性能、血清生化指标及粪便微生物数量的影响[J].动物营养学报,2014,26(11):3362-3370.  
+[7]梁哲,范志勇,陈永辉,等.γ-氨基丁酸对哺乳母猪生产性能及血清激素水平的影响[J].动物营养学报,2009,21(4):592-597.  
+[8]尹华俊.饲粮中添加植物乳酸菌对母猪泌乳期采食量、繁殖性能及血液生化指标的影响[D].硕士学士论文.雅安:四川农业大学,2016:30.  
+[9]唐明红,王启军,凌华云.微生态制剂对繁殖母猪粪便形态、采食量及乳汁质量的影响[J].饲料工业,2014,35(7):29-32.  
+[10]李秋艳,夏先林,黄伟.日粮中添加微生态制剂对瘦肉型繁殖母猪生产性能的影响[J].贵州农业科学,2012,40(8):145-147,150.  
+[11]龙广.妊娠和泌乳日粮中添加布拉迪酵母菌对母猪及仔猪性能的影响[D].硕士学位论文]武汉:华中农业大学,2015:53.  
+[12]顾金,章世元,周维仁,等.复合微生态制剂对青脚麻鸡生长性能及部分血液生化指标的影响[J].中国家禽,2010,32(5)34-36.[13]ZHAO X J,LI L,LU O Q L,et al.Effects of mulberry (Morus alba L.) leaf polysaccharides ongrowthperformance,diarrhea,bloodparameters,andgutmicrobiotaofearly-weanlingpigs[J].Livestock Science,2015,177:88-94.  
+[14]GADHIA M M,MALISZEWSKI A M,O'MEARA M C,et al.Increased amino acid supplypotentiates glucose-stimulated insulin secretion but does not increase $\beta$ cell mass in fetalsheep[J].American Journal of Physiology-Endocrinology andMetabolism,2013,304(4):E352-E362.  
+[15]李方方,朱涛涛,张勇,等.大豆异黄酮对哺乳母猪生产性能、血液生理生化指标和粪便微生物菌群的影响[J].动物营养学报,2015,27(9):2803-2810.  
+[16]LEUNG F C,TAYLOR J E,VAN DERSTINE A,et al.Thyrotropin-releasing hormonestimulates body weight gain and increases thyroid hormones and growth hormone in plasma ofcockerels[J].Endocrinology,1984,115(2):736-740.  
+[17] KING D B,KING C R.Muscle growth and development in chick embryos-thyroidal influenceon ribosomal RNA metabolism[J].General and Comparative Endocrinology,1978,34(2):234-242.[18]柴建民,魏荣贵,刘希峰,等.植物乳杆菌和非淀粉多糖复合酶对断奶仔猪生长性能、粪便微生物菌群及血清指标的影响[J].动物营养学报,2016,28(6):1859-1866.  
+[19]穆会杰.湿态发酵豆粕对母猪繁殖性能、血清生化指标及粪中微生物菌群的影响[D].硕士学位论文.郑州:河南农业大学,2015:30.  
+[20]韦明宇,陆建明,赵武,等.NS 复合乳酸菌制剂对母猪生产性能和免疫水平的影响[J].安徽农业科学,2012,40(5):2728-2730,2732.  
+[21]MALEK T R.The main function of IL-2 is to promote the development of $\mathrm { \Delta T }$ regulatorycells[J].Journal of Leukocyte Biology,2003,74(6):961-965.  
+[22]JANEWAY C A,Jr.How the immune system recognizes invaders[J].Scientific American,1993,269(3):72-79.  
+Compound Probiotics Fermentation Broth: Effects on Performance, Serum Biochemical andImmune Indexes of Lactating Sows  
+DONG Jiaqi JIN Sanjun\* WANG Jingjing REN HongliWu Hongzhi DIAO Xinping\*\*
+
+(College of Animal Science and Technology, Northeast Agricultural University, Harbin 150030,
+
+# China)
+
+Abstract: This trial was conducted to investigate the effects of compound probiotics fermentation broth supplementation on performance, serum biochemical and immune indexes of lactating sows. A total of 60 Large White pregnant sows with 108 days were randomly arranged into 4 groups with 15 replicates per group and 1 sow per replicate. The sows in control group were fed a basal diet,and sows in three trial groups were fed the basal diet supplemented with 2Oo,3OO and 400 mL/d compound probiotics fermentation broth,respectively. We fed sows until the 21th days of breastfeeding. The results showed as follows: 1） the average daily feed intake of $3 0 0 ~ \mathrm { m L / d }$ （204号 compound probiotics fermentation broth group was significantly higher than that of the control group( $\scriptstyle P < 0 . 0 5 .$ ），the weaning litter weight and average daily gain of piglets of $3 0 0 ~ \mathrm { m L / d }$ （204号 compound probiotics fermentation broth group were significantly higher than those of the control group （ $\scriptstyle P < 0 . 0 1$ ）. 2) The serum glucose content of $3 0 0 ~ \mathrm { { m L / d } }$ compound probiotics fermentation broth group was significantly higher than that of the control group ( $\cdot P { < } 0 . 0 5$ ），and the serum triiodothyronine content of $3 0 0 ~ \mathrm { \ m L / d }$ compound probiotics fermentation broth group was significantly higher than that of the control group( $P { < } 0 . 0 1$ ）.3) The serum immunoglobulin A, immunoglobulin G，immunoglobulin M, interleukin-2 and interleukin-6 contents of $3 0 0 ~ \mathrm { m L / d }$ compound probiotics fermentation broth group were significantly higher than those of the control group( $. P { < } 0 . 0 1$ ）. All the results of this experiment show that supplementation of $3 0 0 ~ \mathrm { { m L / d } }$ （204号 compound probiotics fermentation broth in the diet can effectively improve the performance, serum biochemical and immune indexes of lactating sows.
+
+Key words: compound probiotics fermentation broth； lactating sows； performance； serumbiochemical indexes;serum immune indexes

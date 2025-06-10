@@ -1,0 +1,189 @@
+# 基于日尺度SPEI的黄淮海平原冬小麦生育阶段干旱特征分析
+
+魏堃，张勃，吴乾慧，马尚谦，马彬，崔艳强(西北师范大学地理与环境科学学院，甘肃兰州730070)
+
+摘要：黄淮海平原地处燕山以南、淮河以北，包含黄河、淮河和海河冲积平原及部分丘陵山区，属于半干旱、半湿润地区，年降水量 $5 0 0 \sim 9 0 0 ~ \mathrm { m m }$ ，是我国主要的冬小麦种植区。利用黄淮海平原49个农气站点1961—2017年日值气象数据，采用Penman-Monteith模型计算的日尺度SPEI指数，从气象干旱的角度分析了黄淮海平原近56a冬小麦主要生育阶段干旱持续时间和干旱强度的变化，并采用R/S方法对干旱未来变化趋势进行预测。结果表明：（1）从空间分布上来看，冬小麦的营养生长期和并进期,北部干旱持续时间较短，干旱强度较小，南部干旱持续时间较长，干旱强度较大，而冬小麦生殖生长期与前两个生育期干旱分布相反。（2）从各站点变化趋势来看，在冬小麦整个生育期内干旱持续时间与干旱强度呈相反趋势。（3）从时间变化趋势上来看，1961—2017年干旱有明显减缓趋势,除个别站点外,在冬小麦的营养生长期和并进期，干旱持续时间和干旱强度自2003年起干旱有逐渐减缓趋势，在生殖生长期则从2007年起干旱有逐渐减缓趋势。（4）从未来变化趋势来看，营养生长期干旱持续时间将缩短，干旱强度将减小，并进期的干旱持续时间和干旱强度的变化将和过去56a基本保持一致，生殖生长期干旱持续时间将有所增长，干旱强度将有所加重。本研究分析了黄淮海平原冬小麦生育阶段干旱特征，旨在认识分析和掌握冬小麦生育期干旱演变特征以及干旱发生规律，对保障粮食安全和防旱减灾提供了科学依据。
+
+关 键 词：日值 SPEI；黄淮海平原；冬小麦；生育阶段；干旱
+
+干旱是一定时间尺度上水分收支或供求不平衡形成的水分短缺现象，其发生频次高，持续时间长，影响范围广[1],是最常见、最复杂的自然灾害之一。随着全球增温，地表蒸散加强，干旱局部态势进一步加剧。据统计，我国气象灾害中的 $5 0 \%$ 为干旱灾害，旱灾不仅导致粮食减产、出现大范围饥荒，还会造成巨大的经济损失[2]。黄淮海平原是我国主要的冬小麦种植区[3],也是干旱发生频率较高的地区，近些年来干旱时有发生，例如，2001一2003年发生了春夏连旱、2008—2009 年发生了冬春连旱，给当地农业生产以及社会经济都造成了巨大损失。因此，研究黄淮海地区干旱演变特征以及干旱发展趋势，对保障国家的粮食生产安全及农业的可持续发展有重要的现实意义。
+
+国内外学者对表征干旱反映农业问题做了大量研究工作。主要集中于3个方面的研究：（1）基于站点观测数据的干旱监测。目前，应用于干旱研究的指数主要有PDSI指数[4]、SPI指数[5] $K$ 指数[6]等。（2）基于遥感观测数据的干旱监测。是通过对土壤和植被中的水分进行遥感监测反演，主要运用于干旱研究的指数主要有作物水分胁迫指数、植被健康指数[8]、温度植被干旱指数[9]等。（3）基于综合气象遥感数据的干旱监测。主要是将遥感与气象结合进行综合研究，目前主要运用的指数为植被干旱响应指数[10] 综合干旱监测指数[1]等。本文采用VICENTE SERRANO 等人在 SPI的基础上,结合降水和温度的变化，提出的标准化降水蒸散指数（SPEI），大量研究表明，SPEI适用于气候变暖背景下的中国干旱监测和研究[12]。国内外学者多采用月尺度的SPEI表征干旱，然而在农作物生长的关键期，连续几天的干旱就可能导致严重的后果，本文采用日尺度的SPEI对干旱进行每日监测，弥补了通用干旱监测指数不能反映日时间尺度干旱的空白[13]因此，本文以日值气象数据为基础，采用日值SPEI指标分析黄淮海平原冬小麦关键生育阶段的干旱特征，并探究该区冬小麦关键生育阶段的干旱发展趋势，旨在从关键生育阶段的角度为黄淮海平原干旱对冬小麦的生产和防灾减旱提供科学理论依据。
+
+# 1 研究区概况
+
+黄淮海平原地处燕山以南、淮河以北，是黄河、淮河和海河冲积平原及部分丘陵山区。属半干旱、半湿润地区，年降水量 $5 0 0 \sim 9 0 0 ~ \mathrm { \ m m }$ ,降水年变率高,季节分配不均,集中在夏季,秋、冬、春3季均为水分亏缺的干旱期，冬小麦生长期内缺水达 $1 5 0 \sim$ $2 0 0 ~ \mathrm { m m }$ ，全年水分支出大于收入，亏缺约400$\mathbf { m } \mathbf { m } ^ { [ 1 4 ] }$ 。水是制约该区农业发展的主要限制因子,尤其在冬小麦的生产过程中水分更是缺乏。冬小麦秋播夏收，整个生育过程是该区降水较少的季节，水对冬小麦的生产显得尤为重要。
+
+![](images/b8c1355c83e05c3fd0fda82467667cc666790cd36ee82effd6501eced4ef7eba.jpg)  
+图1研究区及农气站点分布  
+Fig.1Distributions diagram of location and agriculturemeteorological stations in the Huang-Huai-Hai Plain
+
+数据进行插补，且经过严格质量监控。研究区边界采用的是1：400万中国行政区划数据。
+
+# 2.2 研究方法
+
+# 2资料与方法
+
+# 2.1 资料选取
+
+图1为研究区及气象站点分布图。本文数据来源于中国气象数据网，选用黄淮海平原49个农气站点1991—2013年冬小麦生长发育数据以及1961—2017年气象数据，包括日最高气温、平均气温和日最低气温、平均相对湿度、平均风速、日照时数、日降水量，其中5个农气站点数据缺测，缺测时间为1967一1968年部分月数据，本文采用差值法对缺测
+
+2.2.1冬小麦生育期的划分黄淮海平原冬小麦主要生育时间参照中国气象数据网中国农作物生长发育和农田土壤湿度旬值数据集1991—2013 年冬小麦年平均生育时间，并根据中国农作制区划将黄淮海平原分为6个区[15],具体生育时间如表1所示。本文综合冬小麦栽培特性以及其生长发育所需的温度，将冬小麦的生育期划分为营养生长期（从播种到返青）、营养生长与生殖生长并进期（简称并进期，从返青到抽穗）、生殖生长期(从抽穗到成熟)3个阶段进行分析[16]
+
+2.2.2干旱指标的计算本文通过Matlab编程计算日尺度SPEI，采用如下步骤：第1步，用1998年
+
+表11991一2013年黄淮海平原各站点冬小麦年平均生育时间  
+Tab.1Average annual growth time of winter wheat in Huang-huai-Haihai Plain from 1991—20   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="4">营养生殖期(月－日)</td><td colspan="3">并进期(月－日)</td><td colspan="2">生殖生长期(月－日)</td></tr><tr><td>播种</td><td>出苗</td><td>分蘖</td><td>停止生长</td><td>返青</td><td>拔节</td><td>抽穗</td><td>乳熟</td><td>成熟</td></tr><tr><td>I</td><td>10-06</td><td>10-14</td><td>11-06</td><td>11 -28</td><td>03-09</td><td>04 -24</td><td>05-05</td><td>06-02</td><td>06-15</td></tr><tr><td>Ⅱ</td><td>10-09</td><td>10 -17</td><td>11 -11</td><td>11 -25</td><td>03-09</td><td>04-16</td><td>05-08</td><td>06-01</td><td>06-12</td></tr><tr><td>Ⅲ</td><td>10-09</td><td>10 -16</td><td>11-07</td><td>11 -21</td><td>03-14</td><td>04-18</td><td>05-11</td><td>05-29</td><td>06-14</td></tr><tr><td>V</td><td>10-21</td><td>11-01</td><td>11 -24</td><td>12-25</td><td>02-21</td><td>03-24</td><td>04-23</td><td>05-22</td><td>06-06</td></tr><tr><td>V</td><td>10 -11</td><td>10-19</td><td>11 -06</td><td>12-01</td><td>02-18</td><td>04-06</td><td>05-02</td><td>05-29</td><td>06-13</td></tr><tr><td>VI</td><td>10-21</td><td>10-29</td><td>11 -24</td><td>12 -27</td><td>02-21</td><td>03-07</td><td>04 -24</td><td>05-20</td><td>06-01</td></tr></table></body></html>
+
+FAO 推荐的Penman-Monteith 模型[17]来计算每日潜在蒸散量 $E T _ { 0 }$ ,计算公式为：
+
+$$
+E T _ { 0 } = \frac { 0 . 4 0 8 \Delta ( R _ { n } - G ) + \gamma \displaystyle \frac { 9 0 0 } { T + 2 7 3 } u _ { 2 } ( e _ { s } - e _ { a } ) } { \Delta + \gamma ( 1 + 0 . 3 4 U _ { 2 } ) }
+$$
+
+式中： $E T _ { 0 }$ 为潜在蒸散量( $\mathbf { \chi } _ { \mathrm { m m } } \cdot \mathbf { \chi } _ { \mathrm { d } } \cdot \mathbf { \chi } ^ { 1 }$ ）； $R _ { n }$ 为净辐射$( \mathbf { M J } \cdot \mathbf { m } ^ { - 2 } \cdot \mathbf { d } ^ { - 1 } )$ ; $G$ 为土壤热通量 $( \mathbf { \nabla } \mathbf { M } \mathbf { J } \cdot \mathbf { \nabla } \mathbf { m } ^ { - 2 }$ ：$\mathrm { ~ d ~ } ^ { - 1 }$ )（逐日计算可忽略）； $T$ 为日平均气温 $( \mathcal { C } ) : u _ { 2 }$ 为 $2 \mathrm { ~ m ~ }$ 高出风速( $\mathrm { ~ m ~ } \cdot \mathrm { ~ s ~ } ^ { - 1 }$ ）； $e _ { s }$ 为饱和水汽压 $\left( \mathrm { { k P a } } \right)$ ：$\boldsymbol { e } _ { a _ { } }$ 为实际水汽压 $( \mathrm { { k P a } } ) ; \Delta$ 为饱和水汽压一温度曲线斜率( $\mathrm { k P a } \cdot \mathcal { C } ^ { - 1 }$ ）； $\gamma$ 为干湿表常数。
+
+第2步，计算逐日降水量与蒸散量的差值：
+
+$$
+D _ { _ { i } } { = } P _ { _ { i } } { - } E T _ { _ { i } }
+$$
+
+式中： $D _ { i }$ 为降水与潜在蒸散量的差值； ${ \mathbf { } } P _ { i }$ 为逐日降水量； $E T _ { i }$ 为日潜在蒸散量。
+
+第3步，采用三参数的log-logistic 概率分布对$D _ { i }$ 数据序列进行正态化，计算每个数值对应的SPEI指数：
+
+$$
+F ( x ) = { \left[ 1 + { \left( \frac { \alpha } { x - \gamma } \right) } ^ { \beta } \right] } ^ { - 1 }
+$$
+
+式中： $\alpha$ 为尺度参数; $\beta$ 为形状参数; $\gamma$ 为origin参数； $F ( x )$ 为给定时间尺度的累积概率分布函数。
+
+第4步，对序列进行标准化正态处理：
+
+$$
+S P E I = w - \frac { c _ { 0 } + c _ { 1 } w + c _ { 2 } w ^ { 2 } } { 1 + d _ { 1 } w + d _ { 2 } w ^ { 2 } + d _ { 3 } w ^ { 3 } }
+$$
+
+$$
+w = \sqrt { - 2 \mathrm { l n } ( P ) }
+$$
+
+式中：当 $P \leqslant 0 . 5$ 时， $P = F ( x )$ ；当 $P > 0 . 5$ 时， $P =$ $1 - F ( x )$ ;其他参数分别为 $\begin{array} { r } { c _ { 0 } = 2 } \end{array}$ .515 517, $c _ { 1 } =$ 0. 802 853, $c _ { 2 } \ = 0$ .010 328, $d _ { 1 } = 1$ . 432 788, $d _ { 2 } \ =$ 0.189 269, $d _ { 3 } = 0 . 0 0 1 \ 3 0 8 _ { \circ }$ ）
+
+本文采用日尺度 $S P E I$ 分析黄淮海地区冬小麦生育期干旱持续时间以及干旱发生强度，干旱分类标准见表2，干旱标准见参考文献[18]。
+
+表2标准化降水蒸散指数干旱等级划分  
+Tab.2 Classification of meteorological drought for SPEI   
+
+<html><body><table><tr><td>干旱等级分类</td><td>SPEI</td></tr><tr><td>无旱</td><td>SPEI> -0.5</td></tr><tr><td>轻度干旱</td><td>-1.0<SPEI≤-0.5</td></tr><tr><td>中度干旱</td><td>-2.0<SPEI≤-1.0</td></tr><tr><td>极端干旱</td><td>SPEI≤-2.0</td></tr></table></body></html>
+
+2.2.3干旱特征的确定本文通过干旱发生时间与干旱强度表征黄淮海平原冬小麦主要生育阶段的干旱特征，当SPEI连续10d为轻旱以上等级，则确定为发生一次干旱过程，干旱过程的开始日期为第一天SPEI指数达到轻旱以上等级的日期。在干旱发生期，SPEI连续10d为无旱等级时干旱解除，干旱过程结束，结束日期为最后一次SPEI指数达到无旱等级的日期。干旱过程开始到结束的时间为干旱持续时间。干旱强度为干旱过程内所有天的SPEI指数为轻旱以上干旱等级之和，其值越小表明干旱过程越强。
+
+2.2.4Mann-Kendal趋势检验法采用Mann-Kendal（简称M-K)趋势检验方法来研究冬小麦各生育阶段干旱持续时间和干旱强度的变化趋势[19],M-K 检验法是一种非参数检验方法,其优点在于无需证明资料服从一定的分布且少受异常值的干扰[20]M-K趋势检验法通过统计量 $Z$ 值来确定变化趋势，当显著性水平为0.05时， $Z > 1 . 9 6$ 表示时间序列呈显著上升的趋势； $Z < - 1 . 9 6$ 表示时间序列呈显著下降的趋势[21] 。
+
+2.2.5基于 $\mathbf { R } / \mathbf { S }$ 分析法的未来趋势分析 $\mathrm { \ R { \it / s } }$ 分析法实际上就是“重标极差分析”，主要借助Hurst指数 $( H )$ 来判断时间序列暗示的系统化趋势。当$H = 0 . 5 , C = 0$ ，为随机序列，表明时间序列前后的变化无关；当 $H > 0 . 5 , C > 0$ ,表明时间序列是一个持续性序列，时间序列前后变化一致且为正相关; $H <$ $0 . 5 , C < 0$ ,表明时间序列的变化具有反持续性，时间序列前后变化相反且为负相关[22]。本文运用 $\mathrm { R }$ S 分析法来分析黄淮海平原冬小麦主要生育阶段干旱持续时间和干旱强度的未来变化趋势。
+
+# 3 结果分析
+
+# 3.1 干旱持续时间
+
+运用黄淮海平原49个站点的日值SPEI数据来识别研究区冬小麦3个生育阶段的干旱状况。采用Matlab软件pcolor图将站点按分区进行排列，图2显示了1961—2017年冬小麦不同生育阶段干旱持续时间一空间分布的干旱特征。
+
+由图2a可知，在冬小麦营养生长期，几乎所有的站点在1967年、1992 年、2000 年和2012 年发生了长时间的持续干旱过程，并且在持续干旱年的上一年或者下一年都伴随有长时间干旱现象的发生。
+
+I区的赣榆，IV区蒙城、宿县、睢宁、泗洪，V区泰安，VI区凤阳在研究时间内几乎每年都发生干旱。从整体来看，营养生长期黄淮海平原北部干旱持续时间较短、发生频率较低，南部持续时间较长、发生频率较高。由图2b可知，在冬小麦并进期，整个研究区干旱持续时间较短，干旱发生频率较低，只在1962年、1977年、2002年左右发生较长时间的持续干旱过程。V区泰安在研究时间段内发生持续性干旱，干旱最长持续时间为 $6 4 { \mathrm { ~ d ~ } }$ 。从整体来看，在并进期干旱持续时间存在南北差异，北部干旱持续时间短，南部干旱持续时间长。由图2c可知，在冬小麦生殖生长期，干旱持续时间较长，干旱发生频率较高，除极个别年份无明显持续干旱，其他年份均发生了干旱。从整体来看，该生育期的干旱持续时间北部干旱持续时间长于南部，且近56a干旱有逐年减少的趋势。
+
+![](images/62f8a8ed41d0b52272d4f61bd44f4d611ea1219e7c9861de553f8c1abe5effdd.jpg)  
+图2冬小麦各生育阶段干旱持续时间  
+Fig.2Drought duration of winter wheat at different growth stages
+
+# 3.2 干旱强度
+
+图3采用Matlab软件pcolor图显示了1961—2017年冬小麦不同生育阶段干旱强度时间一空间分布。由图3a可知，在营养生长期,研究区的北部干旱强度较小，南部干旱强度较大，特别是在1967年,发生了近56a最大强度的干旱现象。干旱强度在2003年以后有所减弱，个别站点个别年份出现较高值。由图3b可知，在并进期干旱强度相比较前一个生育阶段,干旱发生强度较小,空间上呈北部弱，南部较强的趋势，与前一生育期相同，干旱强度在2003年以后开始逐年减弱。由图3c可知，在生殖生长期干旱发生强度较强，从空间上来看北部干旱强度高于南部，除VI区，V区的临沂、泰安站，其余各站点在2007年干旱强度逐年递减。
+
+从各个生育阶段的干旱持续时间和强度来看，干旱持续时间和干旱强度在时间和空间上具有一定的相似性。总体来看，冬小麦的营养生长期和并进期干旱持续时间整体较短，南部干旱持续时间长于北部。而在生殖生长期，干旱持续发生，且强度较大，在空间上，相对于南部而言，表现为北部干旱持续时间较长，干旱强度较大。
+
+![](images/f64a8d3f16d4b342a46558b41edd2622e801833b53e4374b048728d6cb21b661.jpg)  
+魏堃等：基于日尺度 SPEI的黄淮海平原冬小麦生育阶段干旱特征分析  
+图3冬小麦各生育阶段的干旱强度  
+Fig.3Drought intensity of winter wheat at different growth stages
+
+# 3.3各生育阶段干旱的变化趋势
+
+使用Minitab软件编写M-K检验法计算1961—2017年黄淮海平原冬小麦不同生育阶段干旱持续时间的变化趋势以及不同生育阶段干旱强度的变化趋势，并在ArcGIS软件得出SPEI空间分布图（图4)。
+
+从图 $4 \mathrm { a } \sim 4 \mathrm { c }$ 可以看出黄淮海平原各站点不同生育期冬小麦干旱持续时间的变化趋势存在明显空间差异性。在营养生长期，干旱持续时间除了在平原中南部个别站点表现为上升趋势外，其余各站点均为下降趋势,其中I区、IV区邳县、沐阳通过了0.05的显著性检验，灌云、泗洪则通过了0.01的显著性检验，北部静海、中部菏泽也分别通过了0.05、0.01显著性检验。在并进期，干旱持续时间大致表现为中西部下降趋势，其余地区为上升趋势，其中
+
+IV区的济宁、曹县通过了0.05的显著性检验，西华通过了0.01的显著性检验。在生殖生长期，干旱持续时间在平原北部京津冀地区表现为下降趋势，其中霸州、河间通过了0.05的显著性检验，特别是德州通过了0.001的显著性检验，其余大部分站点表现为上升趋势，其中定州、滨县、徐州、凤阳通过了0.05的显著性检验。
+
+从图4d～4f可以看出黄淮海平原各站点不同生育期冬小麦干旱强度的变化趋势存在明显空间差异性。在营养生长期，干旱发生强度较高，即有38个站点表现为上升趋势，其中5个站点通过了0.05的显著性检验,述阳通过了0.01的显著性检验，有11个站点表现为下降趋势。在并进期，干旱强度趋势与干旱持续时间表现趋势相反，其中IV区的济宁、曹县通过了0.05的显著性检验，西华通过了0.01的显著性检验。在生殖生长期，干旱强度在中南部表现为下降趋势，其余站点表现为上升趋势。共有29个站点的干旱强度表现为上升趋势，其中4个站点通过了0.05的显著性检验，2个站点通过了0.01的显著性检验，德州通过了0.001的显著性检验，有20个站点表现为下降趋势，有2个站点通过了0.05的显著性检验
+
+![](images/76cf4c7ff526d77aac8928bc873671ade258c37a8d8eba3b32bc89a56810cfbd.jpg)  
+图4不同生育阶段干旱持续时间(a、b和c)和干旱强度(d、e和f)趋势检验  
+Fig.4Spatial trend testof droughtduration（a,bandc）and drought intensity（d,eandf）atdiferent growth stages
+
+# 3.4生育阶段未来干旱持续时间和干旱强度的分析
+
+采用Matlab进行编程R/S分析法对黄淮海平原冬小麦主要生育阶段干旱持续时间和干旱强度的未来变化趋势进行预测（表3）。营养生长期干旱持续时间 $H$ 指数 $0 . 6 3 > 0 . 5 , C > 0$ ，表明时间序列前后具有持续性，即在未来一段时间减小趋势仍将继续减小,该区营养生长期干旱持续时间变短；干旱强度$H$ 指数 $0 . 6 4 > 0 . 5 , C > 0$ ,表明干旱强度在未来一段时间将减小。在并进期，干旱持续时间 $H$ 指数$0 . 5 5 > 0 . 5 , C > 0$ ，说明时间序列前后也有持续性，但持续性不强，即该区干旱持续时间的变化趋势将和过去 $5 5 \mathrm { ~ a ~ }$ 基本一致,干旱强度 $H$ 指数 $0 . 5 7 > 0 . 5$ ，$C > 0$ ,也表明未来一段时间干旱强度的变化和过去基本保持一致。在生殖生长期，干旱持续时间 $H$ 指数 $0 . 3 3 < 0 . 5 , C < 0$ ，表明时间序列前后具有反持续性，即该区未来一段时间干旱持续时间有增加趋势，干旱强度 $H$ 指数 $0 . 3 9 < 0 . 5 , C < 0$ ,表明干旱强度也在未来一段时间有加重的趋势。
+
+表3R/S分析结果统计表  
+Tab.3Statistical results of $\mathbf { R } / \mathbf { S }$ analysis   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="2">干旱持续时间</td><td colspan="2">干旱强度</td></tr><tr><td>H</td><td>C</td><td>H</td><td>C</td></tr><tr><td>营养生长期</td><td>0.63</td><td>0.19</td><td>0.64</td><td>0.21</td></tr><tr><td>并进期</td><td>0.55</td><td>0.08</td><td>0.57</td><td>0.11</td></tr><tr><td>生殖生长期</td><td>0.33</td><td>-0.21</td><td>0.39</td><td>-0.14</td></tr></table></body></html>
+
+# 4讨论
+
+干旱灾害是我国最主要的自然灾害之一，具有发生频率高、影响范围广、后延影响大的特点[23]干旱对我国农业生产影响较大，平均每年干旱受灾面积占农作物总受灾面积的一半以上[24]。国内外学者基于不同指数表征农业干旱。李翔翔等[25 的研究表明基于Penman-Monteith蒸散模型的SPEI指数在黄淮海平原具有良好的适用性。本文采用Penman-Monteith蒸散模型的日值SPEI指数分析近56a来黄淮海平原主要生育阶段的干旱持续时间和干旱强度，得出1968年、1992年、2000年、2012年黄淮海平原冬小麦生育期发生了严重干旱,结果与中国气象灾害大典[24]中1968 年黄淮海地区发生春夏连旱，冬小麦生长受到较大的影响；1992年北方旱灾，其影响范围在河北、河南、山东、苏北等地，黄河、淮河下游河段一度断流，农业生产受到较大影响;2000 年春夏北方大旱，黄淮海等地干旱主要发生在2～5月，对该区农业生产影响较大的记录基本相符，表明日尺度的SPEI可以较好地反映黄淮海平原冬小麦生育期的干旱状况。黄淮海平原冬小麦在营养生长期和并进期的干旱持续时间与干旱强度均表现为北部弱，南部强的特点，在生殖生长期则表现为相反趋势。这主要是冬春季黄淮海平原南部纬度低、温度较高引起，夏季受东亚季风的影响，南部降水较北部地区多,北部光照比南部强[26]。本文主要从气象干旱的角度分析了黄淮海平原冬小麦不同生育阶段的干旱持续时间和干旱强度，并对干旱未来发生情况进行了预测，旨在分析干旱对农业的影响，对今后的农业生产提供科学的理论依据。但本文仅考虑自然因素对农业的影响，忽略了人为因素对农业的影响，因此，在今后的研究中应加入考虑人为影响因素。
+
+# 5结论
+
+（1）在冬小麦的营养生长期和并进期，北部干旱持续时间较短，发生频率较低，南部干旱持续时间较长，发生频率较高。而在生殖生长期，北部的干旱持续时间强于南部。干旱持续时间和干旱强度在时间和空间上具有一定的相似性，干旱持续时间越长，则干旱强度越强，长时间的持续干旱是发生高强度干旱的原因。
+
+（2）1961—2017年干旱有明显减缓趋势，在冬小麦的营养生长期和并进期，干旱持续时间和干旱强度除个别站点外其余站点从2003年起干旱有逐渐减缓趋势，而在生殖生长期，除个别站点外其余站点从2007年起干旱有逐渐减缓趋势。
+
+（3）营养生长期的干旱持续时间除个别站点外其余均呈下降趋势，干旱强度与之相反;并进期的干旱持续时间大致在西南部为下降趋势、东北部为上升趋势，干旱强度与之相反；生殖生长期，干旱持续时间除在西北部有部分站点表现为下降趋势外，其余为上升趋势，干旱强度与之相反，即干旱持续时间表现为下降趋势的站点干旱强度表现为上升趋势。
+
+（4）根据R/S分析法，黄淮海平原冬小麦营养生长期十旱持续时间将缩短，十旱强度将减小，即趋于湿润，并进期的干旱持续时间和干旱强度的变化将和过去56a基本保持一致，生殖生长期干旱持续时间将有所增长，干旱强度将有所加重。
+
+# 参考文献(References）
+
+[1］王劲松,李耀辉，王润元,等.我国气象干旱研究进展评述[J].
+
+干旱气象,2012,30(4）:497-508.[WANGJinsong,LIYaohui, WANG Ruiyuan,et al.Preliminary analysis on the demandand review of progress in the field of meteorological drought research[J]. Journal of Arid Meteorology,2012,30(4）:497-508.]   
+[2]NICHOLSON S E,TUCKER C J,BA M B.Desertification,drought, and surfacevegetation：An example from the WestAfrican Sahel [J].Bull Amer Meteor Soc,1998,79(5）:815 -829.   
+[3］田展,刘纪远,曹明奎.气候变化对中国黄淮海农业区小麦生产 影响模拟研究[J].自然资源学报,2007,27（4）：598－607. [TIAN Zhan,LIU Jiyuan,CAO Mingkui. Simulation of the impact of climate change on Chinese wheat production in Huang-Huai-Hai Plain[J]. Journal of Natural Resources,2007,27(4）:598-607.]   
+[4]BURKE E J,BROWN S J,CHRISTIDIS N. Modeling the recent evolution of global drought and projections for the twenty-first century with the Hadley centre climate model[J].Journal of Hydrometeorology,2006,7(5） :1113-1125.   
+[5］刘晓璐,周廷刚,温莉,等.基于VSWI和 SPI的2000—2016 年 河南省干旱特征研究［J].干旱区地理,2018,41(5）:86－93. [LIU Xiaolu,ZHOU Yangang,WEN Li,et al. Characteristics of drought in Henan Province from 20OO to 2016 based on VSWI and SPI[J].Arid Land Geography,2018,41(5) :86 -93.]   
+[6］王劲松,郭江勇,倾继祖.一种 $K$ 干旱指数在西北地区春旱分 析中的应用［J].自然资源学报,2007,22（5）：709－717. [WANG Jinsong,GUO Jiangyong,QING Jizu.Application of a kind of $K$ drought index in the spring drought analysis in Northwest China[J]. Jourmal of Natural Resources,2007,22（5）：709- 171.]   
+[7］崔晓,许利霞,袁国富,等.基于冠层温度的夏玉米水分胁迫指 数模型的试验研究[J].农业工程学报,2005,21（8)：22-24. [CUI Xiao,XULixia,YUANGuofu,etal. Crop water stress idex model for monitoring summer maize water stress based on canopy surface temperature[J]. Transactions of the CSAE,2005,21（8）: 22 -24.]   
+[8]KOGAN F,ADAMENKO T,GUO W. Global and regional drought dynamics in the climate warming era[J].Remote Sensing Leters, 2013,4(4): 364 -372.   
+[9]陈斌,张学霞,华开,等.温度植被干旱指数(TVDI)在草原干 旱监测中的应用研究[J].干旱区地理,2013,36（5）：930- 937.[CHEN Bin,ZHANG Xuexia,HUA Kai,et al.Application study of temperature vegetation drought index(TVDI) in grassland drought monitoring[J].Arid Land Geography,2013,36（5）: 930 -937. ]   
+[10]WU J,ZHOU L,MO X,et al. Drought monitoring and analysis in China based on the Integrated Surface Drought Index （ISDI)[J]. International Journal of Applied Earth Observation and Geoinformation,2015,41:23-33.   
+[11］杜灵通.基于多源空间信息的干旱监测模型构建及其应用研 究[D].南京:南京大学,2013.［DU Lingtong.Drought monitoring model based on multi-source spatial information and its application[D].Nanjing:Nanjing University,2013.]   
+[12］王素萍,张存杰,李耀辉,等.基于标准化降水指数的1960一 2011 年中国不同时间尺度干旱特征[J].中国沙漠,2014,34 (3）:827-834.[WANG Suping,ZHANG Cunjie,LI Yaohui,et al.Analysis of multi-timescale drought variation based on standardized precipitation index in China during 1960—2011[J]. Journal of Desert Research,2014,34(3）:827 -834.]   
+[13]LUE,CAI W,JIANG Z,etal.The day-to-day monitoring of the 2011 severe drought in China[J]. Climate Dynamics,2014,43 (1) :1-9.   
+[14］徐建文,居辉,刘勤,等.黄淮海地区干旱变化特征及其对气候 变化的响应[J].生态学报,2014,34（2）:460－470.[XU Jianwen,JU Hui,LIU Qin,etal.Variationof droughtand regional response to climate change in Huang-Huai-Hai Plain[J].Acta Ecologica Sinica,2014,34(2） :460-470.]   
+[15］刘巽浩,刘湘玲.中国耕作制度区划[M].北京:北京农业大学 出版社,1987.［LIU Xunhao,LIU Xiangling.Regionalization of farming system in China[M].Beijing:Beijing Agricultural University Press,1987.]   
+[16］王占彪,王猛,尹小刚,等.近50 年华北平原冬小麦主要生育 期水热时空变化特征分析［J].中国农业大学学报,2015,20 (5）:16-23.[WANG Zhanbiao,WANG Meng,YIN Xiaogang,et al. Spatiotemporal change characteristicsof heat andrainfall during the growth period of winter wheat in North China Plain from 1961—201O[J]. Journal of China Agricultural University,2015, 20(5) :16 -23.]   
+[17]RICHARD G A,LUIS S P,DIRK R,et al. Crop evapotranspiration: Guidelines for computing crop water requirements.FAO Irrigation and Drainage Paper No.56[M]. Rome:FAO-Food and Agriculture Organization Press:23-27,97 -134.   
+[18］贾艳青,张勃.基于日 SPEI的近55a西南地区极端干旱事件 时空演变特征[J].地理科学,2018,38（3）:474－483.［JIA Yanqing,ZHANG Bo.Spatial-temporal variability characteristics of extreme drought events based on daily SPEI in the South West China in recent 55 years[J].Scientia Geographica Sinica,2018,38 (3):474 -483.]   
+[19]LI Y,HE D,YE C.Spatial and temporal variation of runoff of Red River Basin in Yunnan[J]. Journal of Geographical Sciences,， 2008,18(3) :308 -318.   
+[20］魏凤英.现代气候统计诊断与预测技术［M].北京：气象出版 社,1999.[WEI Fengying. Modern climate statistics diagnosis and prediction technology[M].Beijing:China Meteorological Press,， 1999. ]   
+[21］李运刚,何娇楠,李雪.基于 SPEI和 SDI指数的云南红河流域 气象水文干旱演变分析[J].地理科学进展,2016,35（6)： 758-767.[LI Yungang,HE Jiaonan,LI Xue.Hydrological and meteorological droughts in the Red River Basin of Yunnan Province based on SPE and SDI Indices[J].Progress in Geography,2016, 35(6) :758 -767.]
+
+[22］陈彦光.基于Matlab 的地理数据分析［M].北京：高等教育出版社，2O12.［CHEN Yanguang.Analysis of geographical data
+
+based on Matlab[M].Beijing：Higher Education Press,2012.] [23］王东，张勃，安美玲，等.基于SPEI的西南地区近53a干旱时 空特征分析[J].自然资源学报，2014，29（6）：1003－1016. [WANG Dong,ZHANG Bo,AN Meiling,et al.Temporal and spatial distributions of drought in Southwest China over the past 53 years based on standardized precipitation evapotranspiration index [J].Journal of Matural Resources,2014,29(6）:1003-1016.] [24］温克刚，丁一汇.中国气象灾害大典(综合卷)[M].北京：气象 出版社,2OO8.［WEN Kegang,DING Yihui.Chinese meteorologi cal disaster statistics[M].Beijing:Meteorological Press,2008.] [25］李翔翔，居辉，刘勤，等.基于SPEI-PM指数的黄淮海平原干旱 特征分析[J].生态学报，2017，37（6）：2054-2066.[LIXiangxiang，JU Hui,LIUQin，etal.Analysisofdrought characters basedon the SPEI-PMindexin Huang-Huai-Hai Plain[J].Acta Ecologica Sinica,2017,37(6) :2054-2066.]
+
+[26］周丹.1961—2013年华北地区气象干旱时空变化及其成因分析[D].兰州：西北师范大学,2014［ZHOUDan.Spatial-tempo-ral changes and cause analysis of meteorological drought in NorthChina from1961 to 2013[D].Lanzhou：Northwest Normal Univer-sity,2014]
+
+# Drought characteristics of winter wheat in different growth stages in the Huang-Huai-Hai Plain of China based on the daily SPEI
+
+WEI Kun， ZHANG Bo， WU Qian-hui， MA Shang-qian， MA Bin， CUI Yan-qiangColege of Geographyand Environmental Science,Northwest Normal University,Lanzhou7307O,Gansu,China
+
+Abstract：Huang-Huai-HaiPlain is located in the southofYanshan Mountainsand northof HuaiheRiver,includingthe alluvial plainsof the Yellow River（Huanghe）,Huaihe Riverand Haihe River and some hilland mountainous areas.It belongs to semi-arid and semi-humid area with annual precipitation of $5 0 0 - 9 0 0 ~ \mathrm { m m }$ It is also the main winter wheat planting area in China.Based onthe daily meteorological data of 49 agriculture-meteorological stations in Huang-Huai-Hai Plain from1961to 2O17and the daily SPEI index calculatedbyPenman-Monteith model,the changes of drought durationand drought intensity in the main growth stages of winter wheat in theregion in recent 56 years were analyzed from the perspective of meteorological drought,and the future trend of drought was predicted byR/S method.The results show as follws:（1）The drought duration in the north is short,the drought intensityis weak,andthedroughtduration inthesouth is longand thedrought intensityis strong inthevegetative stage and thevegetative and reproductive stage of winter wheat,but in the reproductive growth period of winter wheat thedrought distribution iscontrary to that inthe firsttwo growth periods.（2）Analyzing thechange trend of each station,wecan see the duration ofdrought isoposite to the intensityof drought during the whole growth period of winter wheat.（3）Analyzing the change trend of each year,the drought had a significant slowdown trend from 1961to 2O17.Except for what's indicated byafew stations,the durationand intensityof droughthad agradual slowdown trend from 2O03 to 2O17 in the vegetative growth period and the progressive period of winter wheat,while in thereproductive growth period,drought had a gradual slowdown trend from 2007.（4）From the perspectiveof future trends,the durationof drought in vegetative growth period willbecomeshorter and the intensityof drought will become weaker.Theduration and intensityof drought in advanced period willbe basicallyconsistent with those inthe past 56 years.The duration of drought in reproductive growth period will become longer and the intensity of drought will become stronger.This study analyzed the drought characteristics of winter wheat in various growth stages inthe Huang-Huai-Hai Plain,aiming atunderstanding and grasping the evolution characteristics of drought and the occurrence law of drought during the growth stages of winter wheat,providing a scientific basis for ensuring food security and drought prevention and disaster reduction.
+
+Key Words: daily SPEI index；Huang-Huai-Hai Plain；winter wheat；growth stage；drought

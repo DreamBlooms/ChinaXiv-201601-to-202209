@@ -1,0 +1,374 @@
+[
+    {
+        "type": "text",
+        "text": "新疆荒漠类型特征及其保护利用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨发相，李生宇}，岳健，张志伟²，周杰'，雷加强'，尹惠妍²(1中国科学院新疆生态与地理研究所,新疆乌鲁木齐830011；2西藏农牧学院,西藏林芝 860000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新疆荒漠具有分布广泛、成因复杂、类型多样等特点。利用新疆数字地貌图结合Landsat卫星TM数据与GIS 制图技术，通过长期野外调查结合有关资料编制荒漠类型图,获得荒漠类型面积数据,据此探讨荒漠分布规律、结构特征、形成演变，并提出利用和保护荒漠的建议。结果显示：(1）新疆荒漠具有水平地带性分布与垂直地带性分布的规律及非地带性分布特点，荒漠多分布于干旱程度较高的南疆和东部吐鲁番及哈密地区，东部荒漠占新疆面积的 $4 5 . 8 6 \\%$ ，占东部区域面积的 $9 1 . 7 7 \\%$ 。（2）荒漠分布广，面积大，总面积达 $1 . 3 1 \\times 1 0 ^ { 6 } ~ \\mathrm { k m } ^ { 2 }$ ，占新疆面积的 $8 0 . 5 5 \\%$ 。荒漠类型面积最大的是沙漠为 $4 2 . 7 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ，占荒漠面积 $3 2 . 4 9 \\%$ ，泥漠面积仅 $1 . 0 6 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ，占$0 . 8 1 \\%$ 。（3）荒漠类型复杂多样,成因各异，有沙漠、砾漠、盐漠等11种类型，分别主要由气候、地貌、地表物质组成、人为作用等因素单独或共同作用所形成。（4）受自然环境变化与人为作用，荒漠类型之间、荒漠类型与其他地物之间可发生演变。（5）各种荒漠类型的要素特征不同，宜合理利用荒漠资源，划分荒漠环境退化敏感区，保护荒漠环境，针对不同荒漠类型采取适应保护措施，以保障区域可持续发展。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：荒漠；类型；特征；保护；新疆文章编号： $1 0 0 0 - 6 0 6 0 \\lfloor 2 0 1 9 \\rfloor 0 1 - 0 0 1 2 - 0 8 \\lfloor 0 0 1 2 \\sim 0 0 1 9 \\rfloor$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "荒漠和绿洲是干旱区的主要地理景观。不同类型的荒漠成因和过程不同，地貌条件、植被状况、土壤特性及开发利用也存在差异。荒漠地区日照充足，热能资源丰富，温差大，无霜期长，有利于植物营养物质和糖分积累。不同荒漠类型对农业发展方向、道路建设、矿产资源开发等的影响不同。迄今，有关学者对荒漠、沙漠、沙漠化、绿洲进行了较系统研究[1-12]。新疆约占中国陆地国土面积的1/6,为我国荒漠分布最广的区域。本文利用新疆数字地貌数据结合2000年卫星TM数据与GIS制图技术及野外调查，首次编制新疆荒漠类型图（图1），统计新疆荒漠面积数据，探讨新疆荒漠分布、结构、形成演变，并提出保护及利用建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1荒漠分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "区，随着山地气温以 $6 \\mathrm { ~ \\% ~ } \\cdot \\mathrm { ~ ( ~ 1 ~ } 0 0 0 \\mathrm { ~ m ~ ) ~ } ^ { - 1 }$ 降低,在年均气温 $0 \\ \\mathrm { { ^ circ C } }$ 左右的冻土地带形成高寒荒漠[10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e034e219d758508d703f9bb24144b3e7c14a4d732d544a317c981d0cb0192cd7.jpg",
+        "img_caption": [
+            "图1新疆一级荒漠类型及其他地物分布图 Fig.1Sketch map of the first grade of desert types and other objects in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "荒漠形成与气候条件有关。随着新疆区域降水自西往东减少和气温升高，干旱荒漠随之增多；在山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 荒漠空间分布",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆地域辽阔，有三大山系和两大盆地，地貌条件复杂，气候变化大，气候的水平和垂直地带性差异明显，地理景观多样（图1，边界据参考文献11的GS(2011)2000号，下图同），荒漠地域分布广，类型复杂,差异明显。新疆荒漠面积为 $1 . 3 1 \\times 1 0 ^ { 6 } \\ \\mathrm { k m } ^ { 2 }$ ，占新疆总面积 $1 . 6 3 \\times 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ 的 $8 0 . 5 5 \\%$ （图2），其他森林草原、湖泊水库、沼泽、冰川积雪和绿洲分别依次是 $1 3 . 4 2 \\times { 1 0 } ^ { 4 } . 0 . 7 8 \\times { 1 0 } ^ { 4 } . 0 . 2 0 \\times { 1 0 } ^ { 4 } . 5 . 7 6 \\times$ $1 0 ^ { 4 }$ 和 $1 1 . 5 7 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2荒漠水平地带性分布规律 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆南疆纬度较北疆低，加之受山、盆结构的影响,属于暖温带，由于气温高，降水稀少，可见流动性强的塔克拉玛干沙漠,塔里木盆地沙漠面积为$3 6 . 1 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,其中流动沙地、沙丘、沙垄、沙山达$2 6 . 8 2 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，可见植物稀疏或无植被的山麓砾漠，寸草不生的盐漠等;北疆属于温带，气温较低，降水较多，分布有固定或半固定的古尔班通古特沙漠，准噶尔盆地沙漠面积为 $5 . 4 7 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,流动沙丘、沙垄面积仅 $0 . 2 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,山麓砾漠植物生长较好,盐漠也大多可见稀疏植被。随着气温自南向北降低,荒漠具有自南向北减少的规律[10]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3荒漠垂直地带性分布规律",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受山地自然垂直地带性，与河流携带物质在山麓堆积物质自上游往下游逐渐变细的影响，在流域尺度，自下游往上游可见盐漠 $$ 泥漠 $$ 砾漠 $$ 岩漠$$ 寒漠等[10]。随着流域水分和热量自高往低变化与地貌侵蚀堆积和风蚀风积作用差异，形成不同荒漠类型，如策勒河流域荒漠类型具有自上游往下游依次为高山高寒荒漠、中低山黄土覆盖土漠或干燥剥蚀岩漠、丘陵岩漠或砾漠、冲洪积平原砾漠、冲积平原砾漠、冲积扇缘盐漠、沙漠等[8]",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/34d17fb24fe80cc747fcf881712c76ff1f884a34ac8e90dd1b441d12e00ff4f7.jpg",
+        "img_caption": [
+            "图2新疆荒漠与其他地理景观结构",
+            "Fig.2Desert and geographic landscape structure in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4荒漠非地带性分布特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆位于西风带内，对流层上部的西风气流常年通过新疆上空，从大西洋带来的水汽只能从山口和河谷进入新疆。由于北疆西部山体较南疆低，并且存在向西开口的伊犁河、塔城额敏河、额尔齐斯河等谷地,故降水北疆多于南疆,西部多于东部，山地多于平原,迎风坡多于背风坡,盆地边缘多于盆地中心，由此造成南疆、东部荒漠分布较北疆和西部广泛。以乌鲁木齐至策勒划一条直线，其东西部面积差不多（图3），西部荒漠占新疆面积的 $3 4 . 7 0 \\%$ ，占西部区域的 $6 9 . 3 5 \\%$ ；东部荒漠占新疆面积的$4 5 . 8 6 \\%$ ,占东部区域面积的 $9 1 . 7 7 \\%$ (表1)。山地西坡由于地处迎风坡，湿润汽流于西坡、北坡爬坡降温凝云致雨形成降水，气流翻山进入东坡、南坡时便增温发生“焚风效应”，致使西坡迎风坡如新源年平均降水量 $4 8 7 . 9 \\mathrm { m m }$ ，至天山积雪站达 $8 2 7 . 3 \\mathrm { m m }$ ，而",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d473564691610a472f08a294e6adecc376d41df0e5dd81f0e0c90f11d98e7b17.jpg",
+        "img_caption": [
+            "图3新疆以乌鲁木齐至策勒一线划分东西部荒漠分布差异",
+            "Fig.3Difference of the western and eastern desert divided with line from Urumqi to Qira in Xinjiang "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1新疆东部与西部荒漠面积占区域比例",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/65a3a93b1cc17091924cbaf8cfa325f9441b11711c31573b0858d84995654e17.jpg",
+        "table_caption": [
+            "Tab.1Desert area proportion in western and eastern Xinjiang "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>类型</td><td>面积／104km²</td><td>占全疆面积 比例/%</td><td>占东、西部面 积比例／%</td></tr><tr><td rowspan=\"3\">东部</td><td>荒漠</td><td>74.78</td><td>45.86</td><td>91.77</td></tr><tr><td>非荒漠</td><td>6.71</td><td>4.11</td><td>8.23</td></tr><tr><td>合计</td><td>81.49</td><td>49.97</td><td>100.00</td></tr><tr><td rowspan=\"3\">西部</td><td>荒漠</td><td>56.58</td><td>34.70</td><td>69.35</td></tr><tr><td>非荒漠</td><td>25.01</td><td>15.34</td><td>30.65</td></tr><tr><td>合计</td><td>81.59</td><td>50.03</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "东部背风坡托克逊仅 $7 . 1 \\ \\mathrm { m m }$ ,因此,伊犁盆地山区森林草原茂密，地貌外力以流水侵蚀和堆积占优，仅西部和高寒山区有少量荒漠，伊犁地区荒漠面积仅$1 . 6 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占区域面积的 $2 9 . 6 8 \\%$ ，冰缘作用高山植被覆盖岩漠面积最大为 $0 . 2 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 。而吐鲁番一哈密盆地山区大多裸露光秃，以干燥剥蚀和堆积为主，荒漠广布，吐鲁番地区荒漠面积达6.55$\\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占区域面积的 $9 4 . 5 1 \\%$ ,干燥剥蚀丘陵地表裸露岩漠面积最大达 $1 . 8 7 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 。阿尔泰山西段至东段、天山北坡较南坡及自西至东、昆仑山西段较东段干旱荒漠上限海拔增高，阿尔金山、库鲁克塔格山植被稀少，均为荒漠。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2荒漠类型及其结构特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "据新疆 $1 : 1 0 0$ 万数字荒漠类型图统计，荒漠类型面积最大的是干旱沙漠达 $4 2 . 6 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占荒漠面积 $3 2 . 4 9 \\%$ ；泥漠面积仅 $1 . 0 6 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ ，占$0 . 8 1 \\%$ 。各区域、各地州荒漠面积结构有所不同（表2中行政单位依据新疆2010年行政区划）。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4409d2bbca30401c086f6abb2f4739c32a989770885ba64c83ce793bd55ae94.jpg",
+        "table_caption": [
+            "表2新疆各地区荒漠二级类型面积结构／ $\\mathbf { k m } ^ { 2 }$ ",
+            "Tab.2Second grade desert area structure in Xinjiang/km² "
+        ],
+        "table_footnote": [
+            "注：省直辖单位 $*$ 包括阿拉尔布、图木舒克市、石河子市、五家渠市"
+        ],
+        "table_body": "<html><body><table><tr><td>单位</td><td>沙漠</td><td>砾漠</td><td>泥漠</td><td>土漠</td><td>盐漠</td><td>岩漠</td></tr><tr><td>阿勒泰</td><td>19 186.99</td><td>24 157.03</td><td>2 090.36</td><td>1 251.95</td><td>2 024.42</td><td>31 959.04</td></tr><tr><td>塔城</td><td>11 264.94</td><td>20 775.21</td><td>1 036.78</td><td>1 976.53</td><td>4 896.66</td><td>17 898.62</td></tr><tr><td>博州</td><td>1 237.44</td><td>5 302.88</td><td></td><td>96.95</td><td>2 297.62</td><td>4 848.01</td></tr><tr><td>伊犁州直</td><td>419.11</td><td>812.49</td><td>211.81</td><td>5 863.52</td><td>87.97</td><td>1 727.93</td></tr><tr><td>昌吉</td><td>19 426.06</td><td>11 414.49</td><td>1 925.17</td><td>1 673.99</td><td>4 481.21</td><td>10 167.75</td></tr><tr><td>吐鲁番</td><td>2 547.11</td><td>26 508.27</td><td>436.82</td><td></td><td>2 067.62</td><td>32 546.89</td></tr><tr><td>哈密</td><td>2 204.51</td><td>59 933.50</td><td>137.64</td><td></td><td>2 839.39</td><td>61 906.86</td></tr><tr><td>巴音郭楞</td><td>163 402.81</td><td>55 813.36</td><td>1 408.70</td><td></td><td>30 671.51</td><td>45 301.63</td></tr><tr><td>阿克苏</td><td>51 654.88</td><td>14 191.87</td><td>641.07</td><td></td><td>7 938.77</td><td>19 252.29</td></tr><tr><td>克孜勒苏</td><td>304.16</td><td>8 623.8</td><td>423.90</td><td>36.73</td><td>1 009.01</td><td>18 744.21</td></tr><tr><td>喀什</td><td>32 255.48</td><td>6 298.15</td><td>148.20</td><td>4 145.59</td><td>4 476.41</td><td>8 058.93</td></tr><tr><td>和田</td><td>115 148.33</td><td>11 211.04</td><td>1 052.19</td><td>6 074.41</td><td>217.82</td><td>11 118.05</td></tr><tr><td>克拉玛依</td><td>1 486.52</td><td>1 777.76</td><td>258.79</td><td></td><td>1 922.68</td><td>1 025.06</td></tr><tr><td>乌鲁木齐</td><td>2 067.79</td><td>2 364.72</td><td>62.42</td><td>526.87</td><td>120.76</td><td>2 305.59</td></tr><tr><td>省直辖单位*</td><td>1 947.18</td><td>481. 14</td><td>0.95</td><td>0.05</td><td>193.21</td><td>109.92</td></tr><tr><td>全疆合计</td><td>424 553.31</td><td>249 665.71</td><td>9 834.80</td><td>21 646.59</td><td>65 245.06</td><td>266 970.78</td></tr><tr><td>荒漠类型占／%</td><td>32.32</td><td>19</td><td>0.75</td><td>1.65</td><td>4.97</td><td>20.32</td></tr><tr><td>单位</td><td>高寒沙漠</td><td>高寒砾漠</td><td>高寒泥漠</td><td>高寒盐漠 高寒岩漠</td><td>地区合计</td><td>地区占／%</td></tr><tr><td>阿勒泰</td><td></td><td>21.28</td><td></td><td>7 225.86</td><td>87 916.93</td><td>6.69</td></tr><tr><td>塔城</td><td></td><td>7.62</td><td></td><td>3 124.80</td><td>60 981.16</td><td>4.64</td></tr><tr><td>博州</td><td></td><td></td><td></td><td>1 999.31</td><td>15 782.21</td><td>1.20</td></tr><tr><td>伊型州直</td><td></td><td>37.94</td><td></td><td>7 634.96</td><td>16 795.73</td><td>1.28</td></tr><tr><td>昌吉</td><td></td><td></td><td></td><td>3 049.79</td><td>52 138.46</td><td>3.97</td></tr><tr><td>吐鲁番</td><td></td><td>105.70</td><td></td><td>1 306.73</td><td>65 519.14</td><td>4.99</td></tr><tr><td>哈密</td><td></td><td></td><td></td><td>1 180.23</td><td>128 202.10</td><td>9.76</td></tr><tr><td>巴音郭楞</td><td>2 291.43</td><td>31 050.48</td><td>625.72</td><td>2 363.9 86 837.56</td><td>419 767.10</td><td>31.95</td></tr><tr><td>阿克苏</td><td></td><td>276.98</td><td></td><td>5 386.41</td><td>99 342.27</td><td>7.56</td></tr><tr><td>克孜勒苏</td><td></td><td>2 492. 35</td><td></td><td>19 056.11</td><td>50 690.27</td><td>3.86</td></tr><tr><td>喀什</td><td></td><td>1 846.20</td><td></td><td>19 423.55</td><td>76 652.51</td><td>5.83</td></tr><tr><td>和田</td><td></td><td>13 944.93</td><td>177.98</td><td>2 512.87 60 720.35</td><td>222 177.97</td><td>16.91</td></tr><tr><td>克拉玛依</td><td></td><td></td><td></td><td></td><td>6 470.81</td><td>0.49</td></tr><tr><td>乌鲁木齐</td><td></td><td></td><td></td><td>1 071.09</td><td>8 519.24</td><td>0.65</td></tr><tr><td>省直辖单位</td><td></td><td></td><td></td><td></td><td>2 732.45</td><td>0.21</td></tr><tr><td>全疆合计</td><td>2 291.43</td><td>49 783.48</td><td>803.70</td><td>4 876.77 218 016.75</td><td>1 313 688.38</td><td>100</td></tr><tr><td>荒漠类型占／%</td><td>0.17</td><td>3.79</td><td>0.06</td><td>0.37</td><td>16.60 100</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "沙漠：主要分布于塔里木和准噶尔盆地的腹部及部分河流下游地区。固定沙漠、半固定沙漠主要分布在绿洲外围，向外逐渐过渡为流动沙漠[9]。塔克拉玛干沙漠植物稀少,以流动沙漠为主，古尔班通古特沙漠植被覆盖度较高，为固定或半固定沙漠。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "砾漠：亦称戈壁。主要见于山麓冲积平原和冲一洪积平原的上、中部及洪积平原区。山地经过长期风化剥蚀产生的基岩碎屑物，经流水搬运堆积于山麓地带或平原形成砾漠。砾漠的地表经风蚀作用后的组成物质较粗大，往下以粗砂、砾石或卵石为主。砾漠砾质化强烈，土壤贫瘠，植被盖度低或荒芜。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "盐漠：又称为盐渍化荒漠或盐碱地。新疆山麓平原地区土壤含盐物质较多，加之气候干燥，土壤水分蒸发强烈。由于水分蒸发将土壤盐分带到地表，或湖泊水分蒸发干涸后在地表积盐碱形成盐碱地。盐漠土壤含盐碱物质丰富，植物稀少或贫乏。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "泥漠：集中在洼地、洪积扇下部地带，古、新近纪泥岩分布区，或干枯的湖沼洼地、水库库底及冲积扇的扇缘地势低洼处，呈零星分布，面积不大。泥漠主要由细粒粘土、粉沙等泥质沉积物组成。泥漠地表平坦裸露、光滑,表层有致密而坚硬的细土层,土体干燥，呈龟裂状，地表植物稀少或光秃。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土漠：包括风成和冰水黄土，植被覆盖度不高，故将其作为荒漠的一个类型，称之为土漠。主要位于天山、昆仑山北坡及西坡，塔城盆地内和伊犁谷地的黄土堆积区，多呈片状分布。昆仑山北坡土漠分布的海拔一般为 $2 \\ 0 0 0 \\sim 3 \\ 0 0 0 \\ \\mathrm { ~ m ~ }$ ，最高可达4400m。中昆仑山北坡自山麓至 $4 0 0 0 \\mathrm { ~ m ~ }$ 之间的低山带、中山带和亚高山带多由黄土状亚砂土覆盖。其多孔性并具有柱状节理,湿陷性强。由于土体结构疏松、多孔隙,极易渗水，易被流水侵蚀形成沟谷，造成沉陷和崩塌及滑坡，水土流失严重。在山区，随着海拔升高，黄土颗粒粒径变细。植被以蒿草、禾草等为主[1]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "岩漠：指荒漠中地表被岩石碎屑覆盖或基岩裸露地区，包括干旱岩漠和高寒岩漠。干旱岩漠主要分布于天山南坡、昆仑山北坡、吐鲁番和哈密南部，北塔山及准噶尔西部山地的丘陵区；高寒岩漠主要见于昆仑山及阿尔金山、阿尔泰山及天山的高海拔山区。植被稀少或贫乏。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3荒漠形成演变",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 荒漠形成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "新疆荒漠形成与区域气候变干旱有关[13-15] 。新近纪末至第四纪初，随着印度板块与亚欧板块的碰撞，青藏高原随之逐渐隆起，昆仑山、天山和阿尔泰山也大幅度隆起,塔里木盆地和准噶尔盆地则下沉更加封闭,气候干旱程度增加形成荒漠环境[10]第四纪以来，受区域气候条件差异及地貌外力不同影响，导致荒漠区域产生分异而形成不同荒漠类型。（1）新疆以天山山脊线为界，南疆气候属于暖温带，北疆是温带;随着山体海拔升高气温一般以 $6 ~ \\mathrm { { ^ \\circ C } }$ ：0 $( 1 ~ 0 0 0 ~ \\mathrm { ~ m ~ } ) ^ { \\mathrm { ~ - ~ } 1 }$ 降低,阿尔泰山海拔 $2 \\ 4 0 0 \\ \\mathrm { ~ m ~ }$ 、天山$2 7 0 0 \\sim 3 ~ 2 0 0 ~ \\mathrm { m }$ 、昆仑山 $3 ~ 5 0 0 \\sim 4 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 以上为寒带。故分别依次形成暖温带荒漠、温带荒漠与高寒荒漠。（2）在风口地区，如吐鲁番至哈密的三十里风区与百里风区，由于风力可达12级以上，风蚀作用强烈，地表细土物质被大风带走，形成冲积平原或冲－洪积平原砾漠。（3）山地、丘陵花岗岩广泛分布、新近纪地层含盐丰富,经流水及河流侵蚀搬运堆积于盆地低洼处的湖泊内，再经水面蒸发使盐分富集，一旦湖泊干枯便形成盐漠,如罗布泊、艾丁湖、玛纳斯湖等地的盐漠便是。近代，随着全球气候变暖，山区冰川退缩，冰川面积减少，高寒冰缘荒漠类型增加；平原区沙漠化加剧，沙漠面积扩大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着人类活动强度的不断增加、对自然环境的影响越来越大，人为作用也成为荒漠形成的一个重要因素。自20世纪50年代以来，随着区域人口的增加，人工修建水库或整治河道，导致如塔里木河改道引起老河道与河流下游断流河段地区风力作用加剧，沙漠化加强，在十河床上形成平沙地或沙丘；河滩草地的植物枯死，地表就地起沙形成平沙地、缓起伏流动沙地或沙丘;芦苇沼泽地的芦苇枯死形成盐漠或被流沙覆盖形成平沙地、沙包或沙丘;河岸冲积平原的植物枯死，地面起沙形成平沙地、缓起伏流动沙地或沙丘;固定或半固定沙丘的固沙植物枯死，沙丘复活形成流动沙丘；积水洼地干涸积盐碱形成盐漠[1]。随着河流入湖水量减少,河流尾间湖亦逐渐干涸形成湖底盐漠；在农垦区，如阿勒泰哈巴河、福海县因耕地土壤富含盐碱，加之多灌少排，土壤盐渍化加重弃耕形成盐漠。塔里木河下游各团场每年采挖甘草量达 $2 \\ 0 0 0 \\ \\mathrm { t }$ ，固沙植物遭受严重破坏,风沙作用加剧，林地沙化甚至演变为沙丘地而形成沙",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "漠[1] 0 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 荒漠类型演变 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "伴随荒漠环境的形成，受自然因素变化和人类活动的影响，荒漠类型之间或荒漠与绿洲之间亦发生演变。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1荒漠类型之间演变荒漠区受自然环境变化，如风蚀风积作用使沙丘移动，或人为作用，如草场过度放牧引起地表植被覆盖度降低，风沙活动加强，沙漠化加剧，致使泥漠、土漠、盐漠、砾漠、石漠和寒漠等转变为沙漠;沙漠、土漠、泥漠等经过开垦，随着地下水位升高，土壤盐渍化加重形成盐漠;基岩上覆盖的黄土、砾石经过流水侵蚀引起石质化形成石漠;在石漠地区进行矿山开发的碎石覆盖基岩形成砾漠。特别是在塔里木盆地南缘地区，土地沙漠化过程强烈，沙丘自西北往东南或东北往西南移动，覆盖了由冲积、洪积或冲-洪积作用形成的砾漠，发生由砾漠至沙漠的演变;罗布泊盐漠因风蚀风积作用而发生由盐漠至沙漠的演变；准噶尔盆地福海南部第三纪泥岩分布区的泥漠，受风积作用形成沙漠，发生由泥漠至沙漠的演变。在冲洪积扇下部、地势低洼平坦地区，由于土质粘重形成泥漠，若地下水位升高和盐碱物质丰富，经长期干旱蒸发形成盐漠，发生由泥漠至盐漠的演变，如在岳普湖县、伽师县、哈巴河县、阿勒泰市等地区均可见图4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2荒漠与绿洲及其它地物之间的演变在荒漠形成的同时，在水土条件较好、适应生物生存发展的地方形成绿洲[16-17]。绿洲是荒漠中的异质体,受自然或人为因素的影响，绿洲与荒漠之间将发生演变。如：克拉玛依过去是洪积平原砾漠，后因石油开发需要，建成了克拉玛依市，发生由砾漠至城镇绿洲的演变;塔里木盆地内历史上的楼兰、喀拉墩等23座古城镇绿洲已被沙漠包围或淹没，发生了绿洲城镇至沙漠的演变；塔里木河下游铁干里克垦区34团和35团开垦胡杨林或草灌丛沙地为耕地，后因耕地缺水弃耕面积达 $6 . 6 \\times 1 0 ^ { 3 } ~ \\mathrm { h m } ^ { 2 }$ ,耕地沙化致使部分耕地已被流沙吞没，致使沙地变为耕地后再演变为沙漠(图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fac9c438b8c479f28e42626d7769e5d28ae373368e1a67c54d0ee85f86a50327.jpg",
+        "img_caption": [
+            "图4荒漠类型之间的演变",
+            "Fig.4Evolution of the between desert types "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1bdfaafb17bb6173f8a9b47e81fdfac499a8fbc4543c888c2cbaf3d54375d2.jpg",
+        "img_caption": [
+            "图5荒漠类型与绿洲及其他地物之间的演变 Fig.5Evolution between desert types and oasis and other ground objects "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4荒漠类型保护与利用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "新疆荒漠地区蕴藏着丰富的光热、风能、太阳能资源以及油气、煤炭、铁矿等金属、非金属矿产资源，同时，也是野马、野骆驼等许多特有或珍稀濒危荒漠生物的繁衍栖息地以及采矿、交通、旅游等生产建设和社会经济活动的重要场所。如前所述，在自然与人类的综合作用下，荒漠类型可发生演变及荒漠环境退化。特别是在人类活动强烈的平原荒漠区，人为作用对荒漠影响大，易引起沙漠化、盐渍化和石漠化。平原砾漠区植被稀少或光秃，生态十分脆弱，地表的细土物质经过长期风蚀作用几乎消失殆尽，地面覆盖的砾石保护其下伏的细土物质免遭风蚀，对减少大气中沙尘物质及减轻风沙危害绿洲有重要作用，同时也可减轻土地荒漠化发生，如果不注意加以保护，使砾幂层遭受破坏，则必然会加剧风沙危害。如在荒漠区大量种植红枣、水果等，若因产品市场滞销而废弃果园，因垦殖已破坏了原有的荒漠植被，其恢复十分困难，也将引起环境退化及沙漠面积扩大，加重风沙危害绿洲。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "各种荒漠类型的地貌及其外力作用、物质组成、植被状况、环境退化方式等要素特征各有差异，在干旱区的荒漠开发中必须加强荒漠环境保护，根据各种荒漠类型的要素特点，合理开发利用荒漠资源，并采取适当的保护措施（表3），保护荒漠环境。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e16187599a0c362c46c9075896243c8c386b7b2e59cba280bb57c3d6df01d98.jpg",
+        "table_caption": [
+            "表3荒漠类型要素特征与保护及利用",
+            "Tab.3Characteristics of desert types and protection and utilization "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>地貌成因类型</td><td>外力作用</td><td>物质组成</td><td>植被状况</td><td>环境退化方式</td><td>主要保护措施</td><td>主要利用方向</td></tr><tr><td>沙漠</td><td>沙地、沙堆、 沙丘、沙山</td><td>风蚀、风积</td><td>粉砂土、细砂 土</td><td>荒漠植被。植被 覆盖度：固定沙漠 ≥45%，半固定沙 漠45%~15%，流 动沙漠15%。</td><td>沙漠化</td><td>保护荒漠植被和地 表荒漠结皮,防止 风沙活动加强及危 害沙漠边缘绿洲。</td><td>果园，草场、防风林 带建设，旅游开发， 建材</td></tr><tr><td></td><td>砾漠洪积平原、冲 积平原、冲洪 积平原</td><td>冲洪积</td><td>卵石</td><td>洪积、冲积、砂土、砾石、荒漠植被,草原植砾漠化 被,稀疏或贫乏。</td><td></td><td>减少地表扰动，特 别要限制车辆随意 行驶和人工挖采戈 壁玉石、风棱石及 破坏地表稳定，防</td><td>林果业发展,城镇 工矿建设，交通设 施建设,建材</td></tr><tr><td></td><td>盐漠湖积平原、冲 积平原、冲洪 积平原、冲湖 积平原、三角 洲</td><td>湖积、冲积、粘土、细砂 冲洪积</td><td>土、粗砂土、无。 砾石、盐、碱</td><td></td><td>荒漠植被,稀少或盐渍化或沙保护盐生植物，防 漠化</td><td>止风蚀加剧。 止地下水位升高。</td><td>盐土农业，矿产开 发</td></tr><tr><td>泥漠</td><td>冲积平原、冲 洪积平原、洼 地、水库</td><td>冲积、洪积、粘土、细土 湖积</td><td></td><td>荒漠植被，少或 无。</td><td>盐渍化</td><td>减少地表扰动，防 止风蚀加剧。</td><td>耕地、林果业发展， 黏土建材利用</td></tr><tr><td>土漠</td><td>黄土台地、黄 土丘陵、黄土 覆盖山地</td><td>风积、冰水堆 积、冲洪积</td><td>砾石、粗砂 土、基岩</td><td>荒漠植被或草原 植被,覆盖度各地 不一。</td><td>严重水土流 失，草场退 化。</td><td>止水土流失。</td><td>保护荒漠植被，防牧场建设，林果业 发展,建材利用</td></tr><tr><td></td><td>岩漠山足面、台 地、丘陵、山 地</td><td>干燥剥蚀作 用、洪水侵蚀 堆积作用、坡</td><td>黄土、砂砾 石、基岩</td><td>荒漠植被，稀少或石漠化或沙 无。</td><td>漠化,草场退 化。</td><td>化。</td><td>保护植被，防止沙牧场建设，矿产开 发</td></tr><tr><td></td><td>寒漠平原、台地、冰冻作用、冰 丘陵山地</td><td>面残积 川侵蚀与堆 积作用</td><td>粗骨土、砂砾高寒荒漠或草原 石、基岩</td><td>植被,高山植被，场退化 少量或无。</td><td>石漠化或草</td><td>适当放牧，防止草 场退化。</td><td>夏牧场发展，矿产 开发</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "荒漠区生态脆弱，环境退化恢复困难，建议：（1）研究划分荒漠环境退化敏感区，重视荒漠环境保护意义的宣传教育，提醒人们任意进入荒漠区活动有引起环境退化危险的教育，提高人们对减少人为干扰荒漠是保护区域环境的重要环节的认识。(2）研究划定风沙活动强烈的荒漠区，由县（市）领导负责，组织土地、环境保护、交通等部门负责阻止车辆和人员进入风沙活动强烈区采挖戈壁玉、风棱石等，保护区域荒漠环境，以免加剧荒漠化和加重风沙危害绿洲。（3）在切实对砾漠保护的同时,也应加强对其它荒漠如沙漠、盐漠、泥漠，岩漠等的保护，确定人为活动范围，限制人为干扰荒漠环境的活动，减少人为松动地表土壤，进行草畜平衡，确定区域载畜量，防止过度放牧，以免地表植被遭受破坏而引起土地荒漠化，切实保护荒漠环境。（4）荒漠区水资源有限，荒漠利用必须以水定地，不可过度开采地下水资源，以免引起荒漠植被衰败退化。（5）在道路建设、矿产开采中采取确定工程车辆行驶路线，减少对地表土壤结构的破坏，保护荒漠植被等措施，避免荒漠环境退化。只有加强荒漠环境保护与合理利用荒漠资源，才能保障区域可持续发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "新疆荒漠具有分布广泛，类型复杂等特点。其形成与区域气候差异、地貌过程有关。主要结论如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）荒漠分布地域分异显著，具有水平地带性分布与垂直地带性分布的规律。荒漠多分布于干旱",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "程度较高的南疆和东部吐鲁番及哈密地区，东部荒  \n漠占新疆面积的 $4 5 . ~ 8 6 \\%$ ，占东部区域面积的  \n$9 1 . 7 7 \\%$ 。自盆地低洼处往山区依次是盐漠 $$ 沙漠  \n$$ 砾漠 $$ 岩漠。（2）荒漠分布广，面积大，总面积达 $1 . 3 1 \\times 1 0 ^ { 6 }$   \n$\\mathrm { k m } ^ { 2 }$ ，占新疆面积的 $8 0 . 5 5 \\%$ 。荒漠类型面积最大的  \n是沙漠为 $4 2 . 6 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,占荒漠面积 $3 2 . 4 9 \\%$ ；泥  \n漠面积仅 $1 . 0 6 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ，占 $0 . 8 1 \\%$ 。（3）荒漠类型复杂多样，成因各异。有沙漠、砾  \n漠、盐漠等11种类型，分别主要由气候、地貌、地表  \n物质组成、人为作用等因素单独或共同作用所形成。（4）受自然环境变化与人为作用，荒漠类型之  \n间、荒漠类型与其它地物类型之间可发生演变。(5）各种荒漠类型要素特征不同，宜划分荒漠  \n环境退化敏感区，保护荒漠环境，针对不同荒漠类型  \n采取适应保护措施，合理利用荒漠资源，保障区域可  \n持续发展。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]王跃.荒漠区[J].干旱区地理,1985,8（2）:69-70.[WANG Yue.Desert region[J].Arid Land Geography,1985,8（2）:69 - 70.]   \n[2］陈昌笃,张立运.中国的极旱荒漠[J].干旱区研究,1986,3 (2）:6-8.[ CHEN Changdu,ZHANG Liyun.Extremely arid desert in China[J].Arid ZoneResearch,1986,3(2):6-8.]   \n[3］张煜星.论荒漠与荒漠化程度评价[J].干旱区研究，1996,13 (2）:77-8O.[ ZHANG Yuxing.A discussion on desert and evaluation of desertification[J].Arid Zone Research,1996,13（2）： 77 -80.]   \n[4] 王涛,陈广庭.中国的沙漠、戈壁[M].上海：上海科学技术文 献出版社,2OO8:3-6.[WANG Tao,CHEN Guangting.The desert and gobi in China[M].Shanghai：Shanghai Scientific and Technical Literature Publishing House,2Oo8:3-6.]   \n[5］穆桂金,刘嘉麒.绿洲演变及其调控因素初析[J].第四纪地 质,2000,20(6):539-547.[MUGuijin,LIUJiaqi.An analysis of the Oasis evolution and its control factors[J].Quaternary Sciences,2000,20(6):539 -547.]   \n[6] 杨发相,穆桂金，岳健,等.干旱区绿洲的成因类型及演变[J]. 干旱区地理,2006,29（1）:70-75.[YANG Faxiang,MUGuijin, YUE Jian,et al.Formation causes and evolution of oases in arid areas[J].AridLand Geography,2006,29（1）:70-75.]   \n[7］季方.塔里木盆地荒漠类型及抗风蚀特征初探[J].水土保持 学报,2001,15(1）:16-19.[JI Fang.Preliminary study on desert types and their anti-wind erosion characteristics in Tarim Basin J].Journal of Soil and Water Conservation,2O01,15（1）:16- 19.]   \n[8］吴吉龙,杨发相,周杰,等.策勒河流域荒漠类型特征研究[J]. 干旱区地理,2013,36（5）:803-811.[WU Jilong,YANG Faxiang,ZHOU Jie,et al. Desert types and characteristics in the Qira River Basin[J].Arid Land Geography,2013,36(5）:803-811.]   \n[9］张志伟,杨发相,吴吉龙,等.新疆沙漠空间分布格局与类型结 构[J].干旱区研究,2014,37（4）:763－770.[ZHANG Zhiwei, YANG Faxiang,WU Jilong,et al. Spatial distribution patterns and types structure of the deserts in Xinjiang[J].Arid Zone Research, 2014,37(4) :763 -770. ]   \n[10]杨发相,桂东伟,岳健,等.干旱区荒漠分类系统探讨一—以新 疆为例[J].干旱区资源与环境,2015,29（11)：145－151. [YANG Faxiang,GUI Dongwei,YUE Jian,et al.A discussion on clasification system of desert in arid land[J]. Journal of Arid Land Resources and Environment,2015,29(11）:145 -151.]   \n[11］杨发相.新疆地貌及其环境效应［M].北京：地质出版社, 2011:164 -170.[YANG Faxiang.The geomorphology and environmental effects in Xinjiang[M].Beijing:Geological Publishing House,2011:164 -170.]   \n[12]冯益明,智长贵,姚爱冬.基于决策树的戈壁信息提取研究 [J].干旱区地理,2013,36(1）:125-130.[FENG Yiming,ZHI Changgui,YAO Aidong.Gobi information extraction basedon decisiontree classfication method[J].AridLand Geography,013,36 （1) :125-130.]   \n[13］唐进年,苏志珠,丁峰.库姆塔格沙漠的形成时代与演化[J]. 干旱区地理,2010,33（3）：325－333.［TANGJinnian,SU Zhizhu,DING Feng.Formative age and evolution of Kumtagh Desert[J].Arid Land Geography,2010,33(3）:325 -333.]   \n[14］董光荣,申建友,金炯.试论全球气候变化与沙漠化的关系 [J].第四纪研究,1990,10（1）：91-98.[D0NG Guangrong， SHEN Jianyou,JIN Jiong. On the relationship between the global climate change and desertification[J]. Quaternary Research,1990, 10(1) :91-98.]   \n[15］徐贵青,魏文寿.新疆气候变化及其对生态环境的影响[J].干 旱区地理,2004,27（1）:14-18.[XU Guiqing,WEI Wenshou. Climate change of Xinjiang and its impact on eco-enviroment[J]. Arid Land Geography,2004,27(1):14-18.]   \n[16］陈隆亨.荒漠绿洲的形成条件和过程[J].干旱区资源与环境， 1995,9(3）:49 -57.[CHEN Longheng.Formation conditions and processes of desert oases[J]. Journal of Arid Land Resources and Environment,1995,9(3）:49 -57.]   \n[17］樊自立,马英杰,沈玉玲.试论中国荒漠区人工绿洲生态系统 的形成演变和可持续发展[J].中国沙漠,2004,24（1）：10- 16.[FAN Zili,MA Yingjie,SHEN Yuling.On formation,evolution and sustainable development of artificial oasis ecosystem in desert area in China[J]. Journal of Desert Research,2004,24（1）:10- 16.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Characteristics of desert types and their protection and utilization in Xinjiang ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "YANG Fa-xiang'，LI Sheng-yu1， YUE Jian’， ZHANG Zhi-wei² ZHOU Jie'，LEI Jia-qiangl，YIN Hui-yan²   \n(1Xinjiang Institute of Ecology and Geography,Chinese Academyof Sciences,Urumqi 830o11,Xinjiang,China;   \n2CollegeofAgriculturalandAnimal Husbandry College ofTibet University,Nyingchi 86oooo,Tibet,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The widely distributed deserts in Xinjiang,China are ofcomplex originandrich types.Inorder to come up with the desert classfication map and obtain the area of each desert type,Xinjiang digital geomorphologic map, Landsatsatelite TMdataand GIS graphicsaswellas thelong-term field investigation dataandother related information,were used.Acording to the map,the law of distribution,structural characteristics and development of the deserts were expounded.Meanwhile,the problem of desert utilization and protection were discussed.Resultsand conclusions areas folows:（1）The Xinjiang deserts are characterized by horizontal zonalityand vertical zonality, andare mainly distributed in the south of Xinjiang andtheeastof Turpan and Hami Prefecture wherea high degree of drought exists.The east desert area accounts for $4 5 . 8 6 \\%$ and $9 1 . 7 7 \\%$ of Xinjiang area and east Xinjiang,respectively.（2）The deserts are widely distributed in Xinjiang,with a total area of $1 . 3 1 \\times 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ which account for （204号 $8 0 . 5 5 \\%$ of Xinjiang area.From the view of the area of allclassified deserts,the sandy desert with an area of $4 . 2 7 \\times$ （204号 $1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ is the largest one accounting for $3 2 . 4 9 \\%$ of the desert areas,while the area of argillaceous desert is only $1 . 0 6 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 }$ occupying $0 . 8 1 \\%$ of the desert areas.(3） The desert types are various and their causes of formationarediferent from eachother.In total,there are11 typesof deserts suchassandydesert,gravellydesert,saline desert,etc.,which are mainly formed byasingle factor or multiple factors including the climate,terain,surficial substance,human impact and soon.（4）It happened during the evolution of a desert that the desert has been changed to a different desert type or having other surface features,due to the efect of natural environment changes and human impact.（5）The characteristics of desert types are diffrent,so the rational utilization of desert resources,the protection of desert environment basedonsensitivity zonalityof desert degradation,and theadoption of specific protective measures to different desert types are necessry to safeguard the regional sustainable development. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:desert；classification；characteristic ；protection； Xingjiang ",
+        "page_idx": 7
+    }
+]

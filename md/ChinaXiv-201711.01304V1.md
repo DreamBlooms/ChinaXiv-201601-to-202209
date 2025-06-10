@@ -1,0 +1,151 @@
+# 新疆天文台南山26米天线全息法测量系统
+
+裴鑫，李健，陈卯蒸，刘志勇，项斌斌（中国科学院新疆天文台，新疆 乌鲁木齐830011)
+
+摘要：南山 $2 5 \mathrm { ~ m ~ }$ 射电望远镜经过一年多的升级改造现已全面完成，主反射面直径增加至 $2 6 \mathrm { ~ m ~ }$ ，为保证Q波段( $\langle 3 0 \sim 5 0 ~ \mathrm { G H z } \rangle$ 接收机的工作效率，望远镜的表面精度需达到较高的水平，微波全息法可对天线面形进行精确测量和调整，是望远镜面形首次和定期精调的首选，基于新南山 $2 6 \mathrm { ~ m ~ }$ 天线建立了一套全息法测量系统。整个系统包括参考天线、接收机、相关机、传输链路、时频参考、扫描控制和全息法处理软件等几部分，采用带通采样技术直接采集中频信号，减少了基带信号转换环节；采用高性能外部本振并利用氢钟输出的参考信号进行锁相，达到了极高的相位稳定度。目前整个系统已通过测试并取得了初步的测量结果，经处理分析，该系统工作正常，已达到应用要求。
+
+关键词：全息法；天线测量；抛物面天线；相关机中图分类号：P111.44；P235.1 文献标识码：A 文章编号：1672-7673(2017)03-0288-09
+
+采用微波全息法进行射电望远镜面形测量始于20 世纪70年代[1]，由于该方法测量精度高、测量效果全面、测量花费较少，在美国喷气推进实验室（Jet Propulsion Laboratory，JPL）[2-3]、澳大利亚国家射电天文台（Australia Telescope National Facility，ATNF）[4]、意大利国家天文物理研究所[5]得到了快速发展和广泛应用，国内上海天文台近几年也做了较为出色的相关工作[6-7]。该方法根据天线孔径场分布和远场方向图是一对傅里叶变换关系，利用天线发射和接收互易性原理，通过测量天线的远场方向图即可反推孔径面相位分布，并采用光线追迹得到天线表面的误差信息。微波全息测量有两种类型，即相位恢复法和相位干涉法，两者基本原理相同，但相位恢复法不需要远场相位信息，通过测量远场幅度特性，利用相位恢复算法可导出相位特性，从而获知天线的表面误差。该方法可利用强射电源在任意天线姿态下测量，且测量速度较快，配合主动面系统可形成快速测量反馈。美国绿岸射电望远镜(Green Bank Telescope，GBT)已利用离焦全息法建立了准实时闭环主动面调节系统[8-9]，并取得了较好的效果。国内上海交通大学采用环形主动形变的 Misell恢复算法也获得了较好的仿真结果[10]。但该方法测量分辨率较低，仅适用于如由于重力、太阳照射等引起的大尺度面形形变的场合。
+
+相位干涉法需要较为精确的远场相位信息，一般采用一面参考天线跟踪信号源的变化，用互相关的方法获取相位信息，该方法可获得更高的测量精度和分辨率，是望远镜建设之初或定期精调的首选测量方法。
+
+南山 $2 5 \mathrm { ~ m ~ }$ 射电望远镜经过一年多的升级改造，对主幅反射体、馈源仓、轨道等进行了整体更换，主反射面直径增加至 $2 6 \mathrm { ~ m ~ }$ ，为补偿不同俯仰引起的重力形变，增加了幅面六联杆调节机构，升级后的望远镜需达到Q波段( $3 0 { \sim } 5 0 \mathrm { G H z } )$ 接收机的工作要求，为保证天线效率，需达到较高的表面精度，因此建立了一套相位干涉全息法测量系统，以利用该系统对望远镜面形进行高精度和高分辨率的测量、调整，达到Q波段的观测要求。
+
+# 1测量系统介绍
+
+相位干涉全息法测量时需在被测天线附近架设一架参考天线，观测时两天线同时接收一颗地球同步卫星的信标信号，参考天线固定指向信号源以提供相位参考，被测天线对信号源进行扫描以获取远场方向图，对两路信号进行互相关和傅里叶变换获得被测天线因表面不平整引起的波前相位变化，最后通过光程差计算，从而得到天线的面形误差。
+
+如图1，整个测量系统包括信号源、待测天线、参考天线、相关器、时频参考和用于天线控制与数据处理的计算机等。当前采用 $\mathrm { K u }$ 波段（信标频率为 $1 2 . 7 4 9 \ : \mathrm { G H z }$ )的亚洲7号地球同步卫星作为信号源，待测天线即 $2 6 \mathrm { ~ m ~ }$ 天线，参考天线为架设在实验室西北侧的 $2 . 4 \mathrm { ~ m ~ }$ 卫星接收天线（距 $2 6 \mathrm { ~ m ~ }$ 天线约$8 0 ~ \mathrm { m }$ )，相关机是基于ROACH2实验板开发的双通道实时数字相关机["]，时间和频率参考分别由全球定位系统接收器和氢原子钟提供，采用天线控制计算机进行天线扫描控制和天线状态记录，利用数据处理计算机记录相关机数据并运行全息法处理软件进行数据处理。
+
+![](images/340810e94c582982000bba69f81b17f06be294062a5c490744abf4e198566c49.jpg)  
+图1全息法测量系统  
+Fig.1System architecture of holograophy
+
+# 2系统详细介绍
+
+# 2.1 馈源安装与测试
+
+改造后的 $2 6 \mathrm { ~ m ~ }$ 天线通过幅面旋转进行换馈，馈源仓内的接收机位于圆周上，固定不动，幅面设计为非对称的椭球面，通过转动幅面可使卡式焦点以圆形轨迹移动，从而匹配不同的接收机相心进行换馈。由于馈源仓设计时未考虑 $\mathrm { K u }$ 波段接收机的安装位置，通过实际测量和计算，K波段( $2 2 \sim 2 4 . 4 ~ \mathrm { G H z }$ ）馈源窗口可容纳 $\mathrm { K u }$ 馈源，于是，采用便携式的安装方式挂载在K波段接收机的侧面， $\mathrm { K u }$ 馈源设计位置如图2。由于K波段接收机带有可上下、左右移动的背架，因此在 $\mathrm { K u }$ 馈源的背架上仅增加了前后移动的滑槽，即可实现3个自由度的移动，以便馈源焦点位置的调整，设计图如图3。
+
+![](images/019f35ac04a34976164f3db589adefb7fc7a3074a2cee09be5406d828b1f0b34.jpg)  
+图2Ku馈源位置图
+
+![](images/ce0dbf12cfac927c8a87c2f9f989c330c67576744a059328851c6a42d3bdf146.jpg)  
+图3 $\mathrm { K u }$ 馈源安装设计图
+
+# 2.2接收机
+
+$\mathrm { K u }$ 频段的卫星接收机成品很多，为了缩短研发周期，购买了一款可采用外部 $1 0 \mathrm { ~ M ~ }$ 参考对内部本振进行锁定的高频头，型号为Norsat1007XHBN，高频头实物如图4，输入射频为$1 2 . 2 5 \sim 1 2 . 7 5 ~ \mathrm { G H z }$ ，输出中频为 $9 5 0 { \sim } 1 4 5 0 \mathrm { M H z }$ ，增益为 $6 0 ~ \mathrm { d B }$ ，本振为 $1 1 . 3 \ : \mathrm { G H z }$ 。由于全息法测量对接收机的相位稳定性要求较高，可采用氢钟分频输出的 $1 0 \mathrm { ~ M ~ }$ 参考对两部接收机进行锁定，高频头原理如图5。
+
+![](images/3f7d7b635af3b74767f68af4d8571582dd5b4a9f82de0b83b6736869e529ad43.jpg)  
+Fig.2Position diagram of $\mathrm { K u }$ feed   
+图4Norsat 高频头实物图Fig.4Photo of Norsat LNB
+
+位受温度影响较大，如图6，经过近22小时的测试，高频头温度变化约 $4 . 5 ~ \mathrm { ^ { \circ } C }$ ，相位波动约 $2 4 0 ^ { \circ }$ ，尤其在高频头刚上电时，相位波动比较激烈，10小时后温度趋于恒定，相位波动变小，但依然在 ${ 1 0 } ^ { \circ }$ 以上。因此，这种采用内部本振并通过外部 $1 0 \mathrm { ~ M ~ }$ 参考进行锁定的方案不能满足测量要求，为了保证极高的相位稳定性，采用外部本振的方案，购买了KRATOS CTI高性能 PDRO 本振和 Atron SPL-5700高频头，并对内部电路进行了改造，将本振信号由外部高性能本振输入，如图7。对改造后的高频头进行了相位稳定性测试，如图8，经过2.5小时的测试，相位标准偏差为 $1 . 6 8 ^ { \circ }$ ，换算至对测量误差的影响仅为 $5 5 ~ { \mu \mathrm { m } }$ 。
+
+![](images/7aa304eb7287dd28dae55b78ba2ca4c4a6997e79b8495de807fdd4a4ac35d291.jpg)  
+图5Norsat高频头设计原理图Fig.5System architecture of Norsat LNB
+
+![](images/6c1e6fa13e761e1d3c8bec94e489a8c998205caaf99e422b450a694bc629f213.jpg)  
+Fig.3Installation design drawing of $\mathrm { K u }$ feed   
+图6Norsat高频头相位稳定性测试结果 Fig.6Phase stability test result of Norsat LNB
+
+![](images/61249655b9103d5eb36fa144897454d18ef961e3767cd1e0bcf43e93bb0fa7bb.jpg)  
+图7改造后高频头实物图 Fig.7Photo of LNB after upgrade
+
+![](images/d56f1650b26af76d3004bfee6d29404e61dd61c2703d2e340f306590ca6ec66e.jpg)  
+图8改造后高频头相位稳定性测量结果 Fig.8Phase stability test result of LNB after upgrade
+
+# 2.3 相关机
+
+相关机基于ROACH2开发平台设计，采用带通采样技术，无需对接收机输出的中频信号进行基带转换，减少了硬件链路环节，使整个系统更加简洁，从而提高了测量系统的精度，当前工作于第三奈奎斯特采样区间。采用数字混频和数字滤波技术，信号频率和带宽都极易调整，通过修改混频因子和滤波参数即可适应其他不同频率的卫星信标信号。由于卫星信标较强，对准和偏离时的信号幅度波动较大，特选用动态范围较大的采样芯片，当前动态范围可达65dB以上。
+
+相关机的设计原理如图9，亚洲7号的卫星信标经接收机放大、混频输出 $1 4 4 9 . 2 9 3 7 \mathrm { M H z }$ 的中频信号，为了调整信号强度以满足相关机的最佳动态范围，增加了60dB放大，并接入 $1 4 4 4 \sim 1 4 5 2 \ \mathrm { M H z }$ 的滤波器以防止带通采样时的混叠现象。信号采样频率为 $1 0 2 4 \mathrm { M H z }$ ，数字混频因子为 $2 6 / 6 4$ ，因此，本振 $L O = ( 2 6 / 6 4 ) \times 1 0 2 4 = 4 1 6 \mathrm { M H z }$ ，数字低通滤波的带宽为 $1 6 \mathrm { M H z }$ ，于是，采用第三奈奎斯特采样区间的信号通带为： $5 1 2 \mathrm { \ M H z } \times 2 + 4 1 6 \mathrm { \ M H z } \sim 5 1 2 \mathrm { \ M H z } \times 2 + 4 1 6 \mathrm { \ M H z } + 1 6 \mathrm { \ M H z }$ ，即 $1 4 4 0 { \sim } 1 4 5 6 \mathrm { M H z }$ 。采用4096点的复数快速傅里叶变换，信标信号频点通道为 $\mathrm { C h a n \_ s i g = (  { 1 } ~ 4 4 9 . 2 9 3 ~ 7 - 1 ~ 4 4 0 ) / 1 6 \times 4 ~ 0 9 6 = 2 ~ 3 7 9 } _ { \odot }$ 。
+
+![](images/46ee11e297b153e999ad1b2143d23417d01cf657813366ae8529ed1baaaeef96.jpg)  
+ROACH2相关机性能参数  
+图9相关机设计原理图 Fig.9System architecture of correlator
+
+动态范围：-70dBm\~-5dBm  
+带宽：16MHz  
+采样频率： $1 0 2 4 \mathrm { M H z }$   
+FFT点数：4096  
+采样位数：8bit  
+积分时间：1sec  
+频谱分辨率： $3 . 9 \mathrm { k H z }$   
+奈奎斯特区间：3(1024-1536MHz)  
+带通采样通带：1440-1456MHz
+
+# 2.4传输链路
+
+由于光纤具有信号衰减小、抗干扰能力强、受温度影响小等优势，因此在设计之初采用了光纤传输链路的方案，并购买了ViaLite 模拟光收发机。但经测试发现，光收发机受温度影响相位波动较大，温度变化约 $1 . 6 ^ { \circ } \mathrm { C }$ ，相位变化约 $1 . 4 ^ { \circ [ 1 2 ] }$ ，该变化率对测量误差影响较大，采用精确恒温控制成本较高,不宜实现。因此，改用了同轴电缆的传输方案，系统传输链路如图10。为了减少信号传输线路，在实验室端采用合路器（Bias Tee）将射频（Radio Frequency，RF）和直流电（Direct Current，DC)合为一路进行传输，高频头内部带有分路器，可将RF和DC信号自动分离，由于采用了单独的本振， $1 0 \mathrm { ~ M ~ }$ 参考需采用单独电缆传输。
+
+![](images/46902ea6391772ade664801728fe4d3a2b260e2f05daa649ae0317c93b7678b3.jpg)  
+Fig.10Architecture of transmission link
+
+# 2.5 天线扫描规划
+
+天线采用蝶形扫描方式，每次扫描方位先作一定的偏移，然后俯仰从低往高扫描，到达最高后天线指向卫星(用作校准)，扫描列数依次左右展开。如选用亚洲7号卫星，信标频率 $f { = } 1 2 . 7 4 9 \ \mathrm { G H z }$ 波长 $\lambda = 2 . 3 5 ~ \mathrm { c m }$ ， $2 6 \mathrm { ~ m ~ }$ 天线半功率波束宽度（HPBW）为 $3 . 1 ^ { \prime }$ 。蝶形扫描在方位上的间距 $\Delta A Z$ 一定要小于半功率波束宽度，否则因为欠采样导致成图时混叠，这里取 $\Delta A Z = 3 ^ { \prime }$ （在天线实际运行中还要除以 $\mathrm { c o s } E L$ )，同样取俯仰上的扫描间距 $\Delta E L = 3 ^ { \prime }$ 。天线口径面的分辨率 =N-1，假设N取51，则南山 $2 6 \mathrm { ~ m ~ }$ 天线的测量分辨率 $R = 0 . 5 2 ~ \mathrm { m }$ ，如此高的分辨率足够区分每一块面板。
+
+测量过程中还会用到十字扫描法搜寻卫星以及五点扫描法进行指向修正，由于篇幅所限，这里不再赘述。天线扫描记录文件的方位和俯仰提取后天线实际扫描图如图11。
+
+# 2.6 全息法处理软件
+
+全息法处理软件由澳大利亚天线测量专家MichaelKesteven于2005年对南山 $2 5 \mathrm { m }$ 天线进行全息法测量时开发和使用，处理流程如图12。主要包括5个子程序，urum_bbcalib 程序将天线记录的日志文件与相关机记录的bin文件按照时间合并，然后提取俯仰扫描时的信标信号，并根据天线校准时的数据对相位进行校准。holgr程序读取校准生成的.ASC文件，根据天线参数将远场方向图转换为孔径场分布，并生成面形误差、能量分布等文件。cgdisp程序可读取生成的.V_DEV和.V_AMP等文件绘制天线面形误差和能量分布等图。panel程序对面形误差进行统计并给出面形误差均方根值。panel_rms 根据面形分块信息给出每块面板的调整量。
+
+![](images/54a92ee5c84f8aff72cce65868c1b5e6205a263b7dc666d3401f22055f193f44.jpg)  
+图10传输链路设计图  
+图11天线实际扫描图Fig.11Antenna scan trajectory
+
+# 3系统测试
+
+整个系统所有子模块完成研发和测试后建立了全息法测量系统，对整个链路调试成功后进行了全息法试观测。观测时，首先采用十字扫描找星，根据 $2 6 \mathrm { m }$ 天线地理坐标和亚洲7号轨道位
+
+![](images/712f02c0ba0c94f506f34daa261be44a0feaa83e25c00438283fa077979453b1.jpg)  
+图12全息法软件处理流程图Fig.12Processing flow of holography software
+
+置计算出天线方位、俯仰理论值分别为 $1 5 4 . 6 ^ { \circ }$ 、 $3 7 ^ { \circ }$ 。然后采用五点法确定天线指向偏移量，实测的五点扫描天线幅度如图13，理论上2\~5点的幅度应大致相等，且较第1点下降 $3 ~ \mathrm { d B }$ ，但实际结果第2点和第5点偏差较大，这可能是由于幅面未调整到适应 $\mathrm { K u }$ 馈源的最佳姿态引起，由于 $2 6 \mathrm { ~ m ~ }$ 改造完成不久，还未加入幅面姿态调整补偿，后期将逐步完善。
+
+由于卫星信标较强，在测量之前需要调整信号强度以适应相关机的动态范围。测试受环境温度影响较大，为减小对相位的影响，一般可选择在夜晚11点至凌晨5点之间(不同地区时间不同)进行测量，但测量过程受接收系统、信号源和大气等的影响，相位依然会抖动或漂移，为减小影响，采用自校准的方法，每列俯仰扫描完后指向信号源进行相位定标，对相位定标时两点间的相位做线性内插，然后修正俯仰扫描时获得的相位。整个测量进行了51次俯仰扫描，加上末尾共52次相位定标信号，提取的相位如图14。整个测量过程中的相位为单方向的漂移，变化范围约从 $2 5 0 ^ { \circ }$ 至 $- 1 5 0 ^ { \circ }$ ，经多项式拟合后的残差均方根值为 $4 . 6 8 ^ { \circ }$ 左右，在可接受的范围内。
+
+![](images/a1969d1cdd7ed61262a85d04f919c9e9e3f05dee05b675e41f681f6a6942936a.jpg)  
+图13五点法扫描天线幅度Fig.13Amplitude of five point scan
+
+![](images/3d934a5ad6a2164ea73b55a91e2d6f39f889558a8fcdd407bc590f4d0cd32dad.jpg)  
+图14对准卫星时的相位测量数据与拟合曲线图 Fig.14Test and fitting diagram of boresight phase
+
+测量数据处理后获得的面形误差分布如图15，对误差的统计结果如图16，当前面形精度均方根为 $0 . 4 8 ~ \mathrm { m m }$ ，同时，软件也给出了调整后的预期结果，即如按照软件给出的调整量进行调节，面形精度均方根可达到 $0 . 1 5 ~ \mathrm { m m }$ ，面形误差服从高斯分布。
+
+![](images/2192965900f4fce33307333daf69a88b6da3b14d8067235c757f44f2d53fcdb6.jpg)  
+图15南山 $2 6 \mathrm { ~ m ~ }$ 面形误差分布图
+
+![](images/86aed4b7348c8b92ec5127bb49b0bc04ba8064ad25c4f6b28787ea0c86f7fe33.jpg)  
+Fig.15Surface error distribution of Nanshan $2 6 \mathrm { m }$ telescope   
+图16南山 $2 6 \mathrm { ~ m ~ }$ 面形误差统计  
+Fig.16Surface error statictic analysis of Nanshan $2 6 \mathrm { m }$ telescope
+
+# 4分析与总结
+
+经过近3年的研究、设计、研发与测试，南山 $2 6 \mathrm { ~ m ~ }$ 天线相位干涉全息法测量系统已基本建立,但由于幅面六联杆机构未调整到适合 $\mathrm { K u }$ 波段接收机的最佳位置，当前测量结果未能准确反应天线表面误差分布。但根据测量结果，当前系统的相位误差已能满足全息法的测量要求。相位稳定性与精确度是决定全息法测量精度的关键因素，而影响相位稳定性的因素较多，包括接收机、相关机、传输链路、天线指向、卫星信号源、天气等，为提高系统测量精度，未来将对这些因素进行详细的分析与研究。
+
+# 参考文献：
+
+[1] Baars JW M. Reduction of tropospheric noise fluctuations at centimeter wavelengths [J].Nature，1966，212(5061): 494-495.  
+[2] Rochblatt D J,Seidel B L.DSN microwave antenna holography ［J].Telecommunications $\&$ DataAcquisition Report，1984，40(6) :27-42.  
+[3] Rochblatt D J, Seidel B L. Performance improvement of DSS-13 34-meter beam-waveguide antennausing the JPL microwave holography methodology [C]// Jet propulsion Laboratory，Pasadena,California.TDA Progress Report 42-108，1991:253-270.  
+[4] Kesteven M. Parkes Holography [EB/OL].[2017-04-03]. http://www.atnf.csiro.au/people/Michael.Kesteven/PKS_HOLO/pks_holo.html.  
+[5] Serra G，Bolli P，Busonera G，et al. The microwave holography system for the Sardinia RadioTelescope [J]. Processing of SPIE，2012,8444:1-15.  
+[6] 王锦清，虞林峰，范庆元，等.抛物面天线微波全息测量及结果分析［J].中国科学院上海天文台年刊，2011(1)：136-146.Wang Jinqing，Yu Linfeng，Fan Qingyuan，et al. Holography measurement for parabolic antennaand the results analysis [J]. Annals of Shanghai Observatory Academia Sinica,2O11(1） : 136-146.  
+[7] 王锦清，范庆元，李斌.微波全息测量中相关机的实现［J].天文研究与技术——国家天文台台刊，2009，6(4)：280-291.Wang Jinqing，Fan Qingyuan，Li Bin.The implementation of a correlator for microwaveholographic measurement ［J]. Astronomical Research & Technology——Publications of NationalAstronomical Observatories of China，2009，6(4）：280-291.  
+[8] Nikolic B,Hills R E，Richer JS.Measurement of antenna surfaces from in- and out-of-focusbeam maps using astronomical sources [J]. Astronomy & Astrophysics，2007，465(2）: 679-683.  
+[9] Nikolic B,Prestage R M，Balser D S,et al. Out-of-focus holography at the Green Bank Telescope[J].Astronomy & Astrophysics，2007，465(2）:685-693.  
+[10] 刘抗抗，叶骞，裴鑫.相位恢复全息-基于远场幅值的天线表面精度检测［J].中国科学：物理学 力学 天文学，2017，47(5)：059513.Liu Kangkang，Ye Qian，Pei Xin.Phase retrieval holography-surface measurement based on theamplitude of the far field patterns [J].Scientia Sinica:Physica，Mechanica & Astronomica,2017，47(5) : 059513.  
+[11] 裴鑫，李健，陈卯蒸，等.基于ROACH的微波全息法相关机设计［J]．天文研究与技术，2015，12(1):54-62.Pei Xin，Li Jian，Chen Maozheng，et al.Design of a microwave holography correlator based onthe ROACH board [J]. Astronomical Research & Technology，2015，12(1）:54-62.  
+[12] 裴鑫，陈卯蒸，李健，等.基于相关机延迟测量法的VLBI时频信号光纤传输试验［J]．天文研究与技术，2015，12(3)：270-276.Pei Xin，Chen Maozheng，Li Jian，et al.An experiment of VLBI clock-signal distributionthrough optical fibers based on signal-delay measurement using a digital correlator [J].Astronomical Research& Technology，2015，12(3）：270-276.
+
+# Holographic Measurement System of Nanshan 26m Telescope in Xinjiang Astronomical Observatory
+
+Pei Xin，Li Jian，Chen Maozheng，Liu Zhiyong，Xiang Binbin (Xinjiang Astronomical Observatory,Chinese Academyof Sciences，Urumqi 83ool1,China,Email：peixin@xao.ac.cn）
+
+Abstract: The upgrade work of Nanshan $2 5 \mathrm { m }$ telescope has been completed after more than one year with great efforts.The diameter of main reflector is increased to 26 meter.And to ensure the high observational effciency of Q band receiver，we have to measure and adjustment the antenna penal elaborately. Microwave holography is the first choicefor initial and periodical measurement ofantennasurface due to the high precision of this method. So we build a holography system based on the new $2 6 \mathrm { m }$ antenna，which includes reference antenna，receiver，correlator，transmission link，time and frequency reference，antenna control software and holographic processing software.Some techniques have been used for simplify the hardware and promote the performance of this system.We use band pass sampling theorem for IF signal direct digitization，which can save the hardware device of baseband converter and decrease the phase fluctuation due to microwave signal mixing，filtering and amplification.To geta better phase stability of thesystem，we use a high performance Phase-locked Dielectric Resonator Oscilator（PDRO）for satelite signal mixing，which can support a very stable phase by lock the 1OMHz reference signal from a hydrogen mazer.All parts of this system have ben designed and tested,the result shows that the whole system works very welland meets the needs of application. Key words:Holography；Antenna measurement；Parabolic antenna；Correlator

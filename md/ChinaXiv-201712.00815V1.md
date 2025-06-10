@@ -1,0 +1,120 @@
+基础研究
+
+# CD45单抗介导的 $^ { 1 8 8 } \mathrm { { R e } } .$ 亲和素二步法预定位靶向淋巴瘤的实验研究
+
+李贵平,郑文莉²,黄宝丹1,杜丽],齐永帅,黄 凯',张 辉1  
+1南方医科大学南方医院核医学科,广东广州 510515；佛山市第二人民医院超声科，广东 佛山 528000
+
+摘要：目的建立CD45单抗介导的 $^ { 1 8 8 } \mathrm { R e } .$ 亲和素二步法预定位方法，观察其在荷瘤小鼠体内的生物学分布特点，评价其在淋巴瘤治疗应用中的可行性。方法CD45单抗及亲和素的 $^ { 1 8 8 } \mathrm { R e }$ 标记采用直接标记法，纸层析法测定标记率及放化纯度。取人Raji细胞移植瘤Nod-Scid小鼠6只，随机分为2组，实验组为二步法预定位组，对照组为 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗组。注药后0.5、1、6和 $2 3 \mathrm { h }$ 分别进行SPECT显像；同时于注药后 $2 4 \mathrm { h }$ 分别处死2组荷瘤小鼠,取脏器组织及肿瘤,称重，测量放射性计数,经放射性衰变校正后计算各脏器 $\% \mathrm { I D / g }$ 和靶/非靶(T/NT)比值。结果 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗的标记率( $8 2 . 5 2 { \pm } 2 . 9 2 ) \%$ ，放化纯度 $5 9 0 \%$ $^ { 1 8 8 } \mathrm { R e } .$ 亲和素标记率平均为 $( 8 0 . 8 3 { \scriptstyle \pm 3 . 4 8 } ) \%$ 。荷瘤小鼠SPECT显像及体内生物分布结果示:在实验组整个显像期间血池内放射性均较低,肝脏和脾脏内见较多放射性浓聚,注射后1h移植肿瘤见显影,随着时间的延长瘤内放射性分布增多，1\~6h肿瘤显影渐清晰，并持续到$2 3 \mathrm { h }$ ；注射标记物后 $2 4 \mathrm { h }$ ，肿瘤摄取 $ { \langle \mathcal { I } _ { o } \mathrm { I D } /  { \mathrm { g } } \rangle }$ 为 $( 1 . 3 4 \pm 0 . 5 2 ) \%$ ，肾脏和肝脏摄取( $ { \mathcal { I } _ { o } } \mathrm { I D } /  { \mathrm { g } } ,$ 分别为 $( 6 . 7 7 { \scriptstyle \pm 2 . 3 2 } ) \%$ 和 $( 2 . 8 1 { \pm } 1 . 2 5 ) \%$ ,其他脏器内的 $\% \mathrm { I D / g }$ 保持在较低水平，24h肿瘤/血液比值为 $( 4 . 2 8 { \pm } 0 . 8 2 ) \$ ，肿瘤/肌肉比值为（ $8 . 0 0 { \scriptstyle \pm 0 . 8 8 } ,$ 。而对照组则可见肝脏、脾脏和肾脏内有明显放射性聚集，肿瘤部位显影模糊， $2 0 \mathrm { h }$ 血池内仍见有较多放射性分布，肿瘤部位见少量放射性集聚;注射标记物后 $2 4 \mathrm { h }$ ，肿瘤/血液比值为 $\left( 0 . 5 8 { \pm } 0 . 0 6 \right)$ ,肿瘤/肌肉比值为 $( 3 . 2 1 \pm 0 . 2 4 )$ 。结论与 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗组相比较，CD45单抗介导的$^ { 1 8 8 } \mathrm { R e } .$ 亲和素二步法预定位组在淋巴瘤荷瘤小鼠体内具有较好的特异性和靶向性,明显提高肿瘤的T/NT比值,标记物注射后1h即可使肿瘤显影。
+
+关键词：预定位技术；亲和素；CD45单抗； $^ { 1 8 8 } \mathrm { R e }$ ；淋巴瘤
+
+# Radioimmunoimaging of lymphoma in mice with a two-step pretargeting strategy using biotinyled CD45 monoclonal antibody and $^ { 1 8 8 } \mathrm { R e }$ avidin
+
+LI Guiping',ZHENGWenli²,HUANG Baodan',DULi’, QI Yongshuai’,HUANG Kai’,ZHANGHui   
+Departmentfceaicslicalesityaoaetd   
+Foshan second people'sHospital,Foshan 5280oo,ina
+
+Abstract: Objective To establish a two-step pretargeting approach to lymphoma radioimmunoimaging in mice using biotinynaled CD45 monoclonal antibody (McAb) and $^ { 1 8 8 } \mathrm { R e }$ -avidin in a tumor-bearing mouse model. Methods Six Nod-Scid mice bearing lymphoma cell xenograft were randomized to receive either an intravenous injection of $5 0 ~ \mu \mathrm { g } / 2 0 0 ~ \mu \mathrm { L }$ biotinyled CD45 McAb followed $2 4 \mathrm { ~ h ~ }$ later by an intraperitoneal injection of $3 . 7 \mathrm { M B q }$ $( 5 0 ~ \mu \mathrm { g } / 1 0 0 ~ \mu \mathrm { L }$ $^ { 1 8 8 } \mathrm { R e }$ avidin (two-step pretargeting group), or a single intravenous injection of $3 . 7 \mathrm { M B q }$ $( 1 0 0 ~ \mu \mathrm { g } / 1 0 0 ~ \mu \mathrm { L } )$ $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ McAb (control group). SPECT was performed at 0.5, 1, 6 and $2 3 \mathrm { h }$ post-injection to characterize $^ { 1 8 8 } \mathrm { R e }$ isotope biodistribution. At $2 4 \mathrm { h }$ pos-injection, the mice were sacrificed for measurementofradioactivityuptakeinthe tumorand normal issuesandcalculationofthe tumor-to-non-tumor(T/NTratios. Results SPECT showed thatthe two-step pretargeting method resulted in a lowradioactivityin the blood pool during the imaging and a concentrated radioactivity in the liver and spleen. The transplanted tumor began to be displayed at $^ \mathrm { ~ 1 ~ h ~ }$ post-injection and was clearly displayed at $\mathsf { 1 } \mathrm { - } 6 \ \mathrm { h } ;$ the images were clear even at $2 3 \mathrm { ~ h ~ }$ . With the two-step pretargeting method, the radioactive uptake at $2 4 \mathrm { h }$ post-injection were $( 1 . 3 4 \pm 0 . 5 2 ) \%$ $( 6 . 7 7 { \scriptstyle \pm 2 . 3 2 } ) \%$ and $( 2 . 8 1 { \pm } 1 . 2 5 ) \%$ in the tumor,kidney and liver, respectively with low radioactivity levels in other organs and high tumor/blood and tumor/muscle ratios ( $4 . 2 8 { \scriptstyle \pm 0 . 8 2 }$ and $8 . 0 0 \pm$ 0.88,respectively).Inthecontrol group,SPECTrevealed intenseradioactivityintheliverspleen,andkidneys withobscure display of the tumor; at $2 0 \mathrm { h } ,$ the radioactivity in the blood pool remained high but that in the tumor was low, and the tumor/ blood and tumor/muscle ratios at $2 4 \mathrm { h }$ were only $0 . 5 8 { \scriptstyle \pm 0 . 0 6 }$ and $3 . 2 1 { \scriptstyle \pm 0 . 2 4 } ,$ respectively. Conclusion Compared with $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ McAb,the two-step pretargeting approach exhibits a good specificityin targeting lymphoma with an increased T/NTratio in mice and allows early tumor display at $^ { \textrm { 1 h } }$ post-injection.
+
+Key words: pretargeting technique; avidin; CD45 monoclonal antibody; $^ { 1 8 8 } \mathrm { R e } ;$ lymphoma
+
+目前，单克隆抗体在肿瘤学中已成功地将放射性核素传递至肿瘤细胞并用于肿瘤的诊断及治疗。放免治疗(RIT)是最令人期待的治疗形式之一，特别是在血液系统恶性肿瘤方面。但由于T/NT比值并非理想以及选择性转运至肿瘤内的辐射剂量较低，RIT并未得到满意的临床预期效果，使得其普遍应用受到限制。而预定位放免治疗(PRIT)[1-3]的应用可以克服上述不足，能提高直接传递至恶性肿瘤细胞上的放射性剂量，同时减轻正常组织细胞的非特异性辐射毒性作用。 $\mathrm { ^ { 1 8 8 } R e ( E _ { \beta } m a x = }$ $2 . 1 2 \mathrm { M e V } \mathrm { . E } \gamma { = } 1 5 5 \mathrm { k e V } \mathrm { . T } _ { 1 / 2 } { = } 1 7 . 0 \mathrm { h } ) ^ { [ 4 + 2 }$ 是近几年出现的一种较理想的核素，β射线能量较高，对肿瘤细胞有一定的杀伤力，γ射线又可用于显像，便于临床上估算吸收剂量和进行药代动力学研究，因此 $^ { 1 8 8 } \mathrm { R e }$ 具有良好的核物理与生物学特性。本文以CD45单抗作为特异性靶向载体，根据预定位技术的原理，以生物素化CD45单抗先定位于肿瘤， $2 4 \mathrm { h }$ 后注入 $^ { 1 8 8 } \mathrm { R e }$ 标记亲和素，利用亲和素与生物素间的高亲和力以及标记亲和素体内快速清除，达到降低本底，增大T/NT比值；以直接标记单抗作为对照，在淋巴瘤小鼠动物模型上实现二步法预定位放免显像的实验研究，观察相应的生物学分布，为进一步开展淋巴瘤预定位RIT研究提供实验基础。
+
+# 1 材料和方法
+
+# 1.1实验材料及仪器
+
+PD-10层析柱(GE公司)，抗人CD45单抗(上海生工生物工程有限公司)，亲和素(Avidin)、生物素活化酯和HABA/Avidin(4-羟基偶氮苯-2-羧酸/亲和素)试剂(Sigma公司)，丙酮和氯化亚锡 $\mathrm { ( } \mathrm { S n C l } _ { 2 } \mathrm { ) }$ （广东光华化学厂),2-巯基乙醇(广州达晖生物技术有限公司),BCA蛋白浓度测定试剂盒(碧云天生物技术研究所)，葡庚糖酸钠及牛血清白蛋白(上海伯奥生物科技有限公司）， $\mathrm { C O } _ { 2 }$ 恒温细胞培养箱(美国Thermo公司),ZD-3回旋振荡器(天津市欧诺仪器仪表有限公司)，FA604A电子天平（上海精天电子仪器有限公司)，SN-682型放射免疫y计数器(上海核福光电仪器有限公司)，M5多功能酶标仪(美国MolecularDevices公司）,KDC-2044低速冷冻离心机（科大创新股份有限公司中佳分公司），Galaxy $\mathrm { S } +$ 培养箱(英国RSBiotech公司)，倒置光学显微镜及照相系统（日本Olympus公司),HawkeyeMillenniumVH型双探头SPECT/CT显像仪(美国GE公司)。
+
+# 1.2B细胞淋巴瘤Raji细胞株
+
+B细胞淋巴瘤细胞株Raji细胞由南方医科大学南方医院血液科提供
+
+# 1.3实验动物
+
+Nod-Scid小鼠(非肥胖糖尿病重症联合免疫缺陷小鼠)4\~6周龄(雌性),体质量为 $_ { 1 9 \sim 2 1 \mathrm { ~ g ~ } }$ ，为T'B'NK细胞缺陷的严重联合免疫缺陷动物模型，购于北京华阜康生物科技股份有限公司。实验动物饲养于南方医科大学南方医院实验动物中心SPF级实验室。所有实验操作符合南方医科大学动物实验伦理委员会的要求。
+
+# 1.4淋巴瘤实验动物模型的构建
+
+Raji细胞用含 $10 \%$ 新生小牛血清的RPMI1640在$3 7 ~ \mathrm { ^ { 9 } C } \cdot 5 0 \mathrm { \ m L / L } \mathrm { C O } _ { 2 }$ ,体积分数 $5 \%$ 的培养箱中常规培养传代。将处于对数生长期的Raji淋巴瘤细胞经PBC洗涤后，以 $1 5 0 0 ~ \mathrm { r / \ m i n }$ 的速度离心 $3 \mathrm { m i n }$ ，收集Raji细胞，细胞计数后用无血清RPMI1640培养基将细胞浓度配成 $\mathrm { 1 } { \times } \mathrm { 1 0 ^ { 8 } / m L } , \mathrm { 0 . 2 ~ m L / }$ 只，接种于4\~6周龄雌性Nod-Scid小鼠右侧腋窝处皮下。接种后于动物实验中心无菌条件下饲养。观察肿瘤大小变化，待肿瘤长至 $1 . 0 { \sim } 1 . 5 ~ \mathrm { c m } ^ { 3 }$ 时，用于下一步体内分布和显像研究。
+
+# 1.5CD45单抗的生物素化及活性测定
+
+将CD45单抗与生物素活化酯的摩尔比为 $1 : 3 0 { \sim } 1$ :50取样,生物素活化酯/二甲基亚矾(DMSO)溶液滴加至CD45单抗的碳酸氢钠溶液中，室温振荡反应1h，PD-10柱离心纯化，采用ELISA法鉴定生物素化活性;采用HABA/Avidin试剂进行CD45单抗生物素化程度测定。
+
+# 1.6CD45单抗及Avidin的 $^ { 1 8 8 } \mathrm { R e }$ 标记方法和鉴定
+
+1.6.1CD45单抗及Avidin的还原取一定量的CD45单抗及Avidin溶液，分别加入2-ME(2-巯基乙醇),混合均匀后室温避光振荡反应 $3 0 \mathrm { m i n }$ ,混合物经PD-10柱离心纯化，收集反应液体。
+
+$1 . 6 . 2 ~ ^ { \mathrm { 1 8 8 } } \mathrm { R e }$ 标记CD45单抗及Avidin取充满氮气的已封闭的玻璃小瓶1支,依次加入 $\mathrm { { N a } ^ { \mathrm { { 1 8 8 } } } \mathrm { { R e O _ { 4 } } } }$ 溶液 $\mathrm { 5 9 . 2 M B q ) }$ 及 $2 \ \mathrm { m o l / L }$ 葡庚糖酸钠(GH)溶液，然后加入一定的$1 3 3 \mathrm { \ m o l / L }$ 含酒石酸的氯化亚锡溶液，反应 $1 5 \mathrm { m i n }$ 。最后加入还原的CD45单抗或Avidin溶液，混合均匀，室温放置 $2  { \mathrm { h _ { \circ } } }$ 纸层析法测定其标记率，固定相为新华1号滤纸，展开剂为混合物溶液(氨水：乙醇：水 $: = 1 : 2 : 5 \$ 和生理盐水。
+
+1.7淋巴瘤荷瘤小鼠二步法预定位SPECT显像及体内生物分布
+
+1.7.1动物分组取淋巴瘤荷瘤小鼠随机分为2组，每组3只。 $\textcircled{1}$ 实验组：先经小鼠尾静脉注射生物素化CD45单抗 $( 7 . 5 ~ \mathrm { m g } / 1 0 0 ~ \mu \mathrm { L } )$ ， $2 4 \mathrm { ~ h ~ }$ 后经腹腔注射$^ { 1 8 8 } \mathrm { R e } .$ Avidin( ${ 3 . 7 ~ \mathrm { M B q } } / { 1 0 0 } ~ \mu \mathrm { L }$ ） $\textcircled{2}$ 对照组： $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗静脉注药组 $\left. 3 . 7 \mathrm { M B q } / 1 0 0 \mu \right.$ 。
+
+1.7.2SPECT显像和体内生物分布各组荷瘤小鼠经尾静脉注射标记物，分别于注药后 $3 0 \operatorname* { m i n } . 1 \mathrm { h } . 6 \mathrm { h }$ 和 $2 3 \mathrm { ~ h ~ }$ 用SPECT仪进行γ显像,并于注药后 $2 4 \mathrm { h }$ 处死2组小鼠,收集血液、分离肿瘤和主要脏器,称重后并测量其放射性计数，经放射性衰变校正后计算各脏器每克组织百分注射剂量率 $( \% \mathrm { I D / g } )$ )和T/NT比值。所有荷瘤小鼠处死后，取小块移植肿瘤于 $10 \%$ 福尔马林溶液中固定，低温石蜡包埋， $5 \mathrm { m m }$ 连续切片，组织切片常规苏木精-伊红(HE)染色。
+
+# 1.8 统计学方法
+
+应用SPSS13.0软件进行统计学分析，数据采用均数 $\pm$ 标准差表示，两独立样本比较采用t检验，若 $P { < } 0 . 0 5$ 则表示差异具有统计学意义。
+
+# 2结果
+
+# 2.1标记化合物的质量控制
+
+采用HABA/Avidin试剂测定，平均每个CD45单抗分子可结合40个生物素分子；ELISA法测定生物素化CD45单抗（鼠源性)的免疫活性平均为！ $( 9 0 . 5 7 \pm$ $8 . 1 3 \%$ 。 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗标记率平均为 $( 8 2 . 5 2 { \pm } 2 . 9 2 ) \%$ ，$^ { 1 8 8 } \mathrm { R e }$ -Avidin标记率平均为 $( 8 0 . 8 3 { \pm } 3 . 4 8 ) \%$ ,经PD-10柱纯化后，放化纯度均大于 $90 \%$ ○
+
+# 2.2Raji细胞移植瘤小鼠动物模型的构建
+
+淋巴瘤小鼠模型采用Raji细胞系建立,Raji细胞是由人B细胞淋巴瘤筛选、传代得来，24只Nod-Scid小鼠有24只移植瘤成活，移植瘤成活率为 $100 \%$ 。成瘤组织HE病理切片示：瘤细胞弥漫浸润成分单一，大小形态一致，瘤细胞呈圆形，细胞核卵圆形或不规则形，核仁明显较大，核分离相多见，胞浆少或中等量(图1)。
+
+![](images/356a894fdde37bb232b6d759cb57322d3ea8f335c51d74e838b6815bd7893176.jpg)  
+图1Raji细胞移植瘤苏木精-伊红染色 Fig.1 HE staining of tumor tissue in nod-scid mice bearinghumanRajicellxenograft(Original magnification: $\times 4 0 0 ^ { \cdot }$ ）
+
+# 2.3淋巴瘤荷瘤小鼠二步法预定位放免显像
+
+二步法预定位组荷瘤小鼠于注药后0.5、1、6和 $2 3 \mathrm { ~ h ~ }$ 的SPECT显像结果见图2。如图所示，在整个显像期间血池内放射性均较低，肝脏和脾脏内见较多放射性浓聚；注药1h后肿瘤见显影，随时间延长肿瘤内的放射性摄取逐渐增多，1\~6h肿瘤显影渐清晰，并持续到 $2 3 \ : \mathrm { h _ { \circ } }$
+
+![](images/d8defc1ae1d325406694f206bafc3da80a67eba450881de3287f3c68150e5102.jpg)  
+图2二步法预定位组在Raji细胞移植瘤小鼠的放免显像 Fig.2Radioimmunoimagingwithtwo-steppretargetingof xenograftedtumorinmiceatdiferentimepointspost-injection
+
+而 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗对照组荷瘤小鼠的SPECT显像示：于肝脏和肾脏内见明显放射性聚集，肿瘤部位显影模糊， $2 0 \mathrm { h }$ 血池内仍见较多放射性分布，肿瘤部位见有少量放射性集聚。如图3所示。
+
+# 2.4淋巴瘤荷瘤小鼠二步法预定位体内生物分布
+
+二步法预定位组荷瘤小鼠体内的生物分布测定结果：注药后 $2 4 \mathrm { h }$ 肾脏和肝脏的摄取 $\% \mathrm { I D / g }$ 分别为 $( 6 . 7 7 \pm$ $2 . 3 2 ) \%$ 和 $( 2 . 8 1 { \pm } 1 . 2 5 ) \%$ ，其他脏器内的摄取 $\% \mathrm { I D / g }$ 保持在较低水平，而肿瘤的摄取 $\% \mathrm { I D / g }$ 为 $( 1 . 3 4 { \pm } 0 . 5 2 ) \%$ ；肿瘤/血液比值为 $( 4 . 2 8 { \pm } 0 . 8 2 ) \$ ,肿瘤/肌肉比值为 $( 8 . 0 0 \pm$ 0.88)。而 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗对照组荷瘤小鼠则在注药后
+
+$2 4 \mathrm { ~ h ~ }$ 肾脏、肝脏和血液的摄取 $\% \mathrm { I D / g }$ 分别为 $( 4 . 3 0 \pm$ $5 . 9 2 ) \%$ \~ $( 0 . 7 4 { \pm } 0 . 8 4 ) \%$ 和 $( 1 . 1 4 \pm 1 . 4 7 ) \%$ ，肿瘤的摄取 $\%$ $\mathrm { I D / g }$ 为 $( 0 . 6 2 { \pm } 0 . 7 9 ) \%$ ;肿瘤/血液比值为 $( 0 . 5 8 { \pm } 0 . 0 6 ) \$ ，肿瘤/肌肉比值为 $( 3 . 2 1 \pm 0 . 2 4 )$ 。注药后 $2 4 \mathrm { ~ h ~ }$ 肿瘤/血液比值在二步法预定位组和 $^ { 1 8 8 } { \mathrm { R e - C D } } 4 5$ 单抗对照组两组间有显著的统计学差异 $\stackrel { \prime } { \iota } = 6 . 3 3 1 , P = 0 . 0 2 4 \rangle$ 。二步法预定位组及 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗对照组注药后 $2 4 \mathrm { ~ h ~ }$ 的T/NT比值比较见图4。
+
+# 3讨论
+
+1987年Hnatowich等把生物素-亲和素系统用于放免显像，预定位技术的应用使放免显像有了快速发展。由于1个单抗分子可结合多个生物素(Biotin,Bt)分子，而每个亲和素(Avidin，Av)又可结合4个生物素，从而产生放大效应[7-8]。Paganelli等[9首先于荷瘤裸鼠腹腔注射生物素化单抗， $2 4 \mathrm { h }$ 后再腹腔注射 $^ { 1 3 1 } \mathrm { I } { \cdot } \mathrm { S A } , 4 \mathrm { h }$ 后处死动物，结果T/NT及肿瘤组织内的放射性活度均明显增高，但在肝脏、肾脏内也有明显的浓聚。二步法[4]在人体实验中也收到了很好的效果。Goodwin等[10]报道与直接标记单抗相比，采用抗CD45单抗-SA复合物及放射性标记生物素的二步法预定位实验结果表明，放射性选择性聚集于小鼠白血病组织，靶/非靶比值增加，预定位RIT显著地提高了治疗效果，降低了毒副反应，延长了小鼠生存时间。
+
+![](images/d996475b43dd21f23aa7581a45be15e00bb7bf7dcec574020ec8ce8747d7a9b6.jpg)  
+图3 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗在Raji细胞移植瘤小鼠的放免显像 Fig.3 Radioimmunoimaging with $^ { 1 8 8 } \mathrm { R e }$ -CD45 McAb in mice bearing xenografted tumors at diferent time points post-injection.
+
+![](images/44c9779ba7089ac08f7132fc08dce0a53697468c7dd1e7e8aa35125b73b81085.jpg)  
+图4二步法预定位组及 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗组注药后 $2 4 \mathrm { h }$ 的T/NT比值比较 Fig.4Comparison oftarget-to-normal tissue ratiosin two-step pretargeting group and 18Re-CD45 McAb group at $2 4 \mathrm { h }$ post-injection.
+
+目前国内报道的肿瘤预定位放免显像和治疗主要为实体瘤动物模型，而在血液系统恶性肿瘤动物模型中的研究报道很少[1-12]。本文选择人Raji细胞株以建立人B细胞淋巴瘤裸鼠皮下移植瘤模型。根据文献报道皮下接种的Raji细胞总数宜控制在 $1 0 ^ { 6 } { \sim } 1 0 ^ { 8 }$ ,细胞数目过少则建模成功率较低。因此，本实验增加了注射至裸鼠皮下的细胞总数，收集对数期生长的Raji细胞,用不含血清培养基制成Raji细胞悬液 $\mathrm { ( > 1 \times 1 0 ^ { 8 } / m L ) }$ ，每只裸鼠注射 $0 . 2 ~ \mathrm { m L } _ { \odot }$ 另外，实验动物种类的选择也至关重要，普通二联免疫裸鼠成瘤率较低且生存期短，预实验中在二联免疫裸鼠双侧臀部皮下均注入等量的Raji细胞，移植瘤成活率为 $67 \%$ 。为了提高移植瘤成活率选用了Nod-Scid小鼠，又称为非肥胖糖尿病重症联合免疫缺陷小鼠，4\~6周龄（雌性)，是T'B'NK细胞缺陷的严重联合免疫缺陷动物模型，是建立移植瘤较好的实验动物。实验中为避免注射标记物后膀胱放射性明显浓聚而影响接种于裸鼠后肢肿瘤显像的效果，本实验选择在Nod-Scid小鼠前肢腋窝皮下接种Raji细胞,移植瘤成活率为 $100 \%$ 。将Raji细胞接种于Nod-Scid小鼠前肢皮下方法简便，因为移植瘤具有来源细胞本身所固有的生物学特性，构建的肿瘤模型适合于人类肿瘤实验研究需要。
+
+目前有关血液系统恶性肿瘤的放免显像和RIT的研究国内文献报道较少，尤其是淋巴瘤。国外有关淋巴瘤的RIT研究成果表明针对CD20单抗的放射性靶向药物在临床试验中已证实其治疗的有效性[13]。本研究旨在通过预定位技术来提高肿瘤的T/NT比值，以达到更好的肿瘤显像与治疗。由于生物素化单抗的血管穿透和组织扩散能力较强以及标记亲和素在血中清除率较快的特点，预定位放免显像研究已证实它可有效地降低正常组织中放射性的聚集,使肿瘤/血比值明显提高[14]本实验以CD45单抗作为特异性靶向淋巴瘤细胞的靶向载体[15],根据二步法预定位技术的原理,先经静脉注入生物素化CD45单抗先预定位于肿瘤，24h后当生物化单抗在肿瘤内达到最大聚集时，腹腔注入 $^ { 1 8 8 } \mathrm { R e } -$ 亲和素,淋巴瘤动物模型体内的生物分布结果表明,注药后24h肿瘤/血液比值平均为4.28;而 $^ { 1 8 8 } \mathrm { R e - C D } 4 5$ 单抗组注药后 $2 4 \mathrm { h }$ 肿瘤/血液比值平均为0.58,两组间有显著的统计学差异,提示二步法预定位放射性血清除快,预定位的应用能够显著降低本底，提高肿瘤的T/NT比值，这样即可减少放射性对全身其它正常脏器的照射剂量，又可使放射性有效地聚集于肿瘤组织内，以利于达到更好的肿瘤显像与治疗。同时生物分布实验结果表明二步法的肾脏及肝脏内也有较多的放射性分布，其中肝脏的摄取考虑可能与标记亲和素和肝脏细胞表面的甘露糖受体结合有关，有研究证实当生物素化单抗引入动物体内后，标记的亲和素可与生物素结合，引起亲和素的结构发生改变，使其甘露糖侧链暴露而易与肝脏的相应受体结合，从而使18Re-Avidin聚集于肝脏内;而肾脏内的高摄取则可能与Avidin带有较多正电荷有关，可与肾细胞及肾小球基底膜上的负电荷相互作用而使$^ { 1 8 8 } \mathrm { R e }$ -Avidin聚集于肾脏。因此有必要对亲和素的结构进行改造，以减少在肝肾等部位的非特异摄取，提高亲和素-生物素系统预定位的诊断和治疗效能。初步研究结果表明CD45单抗介导的 $^ { 1 8 8 } \mathrm { R e } .$ 亲和素二步法预定位放免显像可特异性靶向于Raji细胞的淋巴瘤移植瘤中，有望成为一种新的肿瘤显像和治疗方法，但亲和素-生物素系统预定位在临床放免显像和RIT中的应用还存在许多需要解决的问题，诸如反复注射引起Avdin或链霉亲和素(SA)相关的免疫反应和序贯给药的最佳剂量和给药时相，以及对放射性标记的亲和素或生物素的改造,获得具有较优化的体内药代动力学,以提高肿瘤的T/NT比值，且延长放射性在肿瘤组织内的滞留时间，从而进一步提高预定位显像及治疗效果。
+
+# 参考文献：
+
+[1]Green DJ，Pagel JM，PanteliasA， et al.Pretargeted radioimmunotherapy for B-cell lymphomas[J].Clin Cancer Res, 2007,13(18 Pt2): 5598s-603s.   
+[2]Luitje S,Rijpkema M,Goldenberg DM,et al. Pretargeted dualmodality immuno-SPECT and near-infrared fluorescence imaging tor image-guided surgery ot prostate cancerLJ」.Cancer Kes,ZU14, 74(21):6216-23.   
+[3] Goldenberg DM, Chang CH, Rossi EA,et al.Pretargeted molecular imaging and radioimmunotherapy[J]. Theranostics,2012,2(5): 523-40.   
+[4]Iznaga-Escobar N,Ramirez IL,Izquierdo JC,et al. $^ { 1 8 8 } \mathrm { R e }$ -labeled anti-epidermal growth factor receptor humanized monoclonal antibody h-R3:labeling conditions,in vitro and in vivo stability[J]. Methods Find Exp Clin Pharmacol,2003,25(9): 703-11.   
+[5]Luo TY, Cheng PC, Chiang PF, et al. $^ { 1 8 8 } \mathrm { R e }$ -HYNIC-trastuzumab enhances the effect of apoptosis induced by trastuzumab in HER2-overexpressing breast cancer cells[J].Ann Nucl Med,2015, 29(1): 52-62.   
+[6]Hnatowich DJ, Virzi F,Rusckowski M. Investigations of avidin and biotin for imaging applications [J].JNucl Med,1987,28(8): 1294-302.   
+[7] Gestin JF, Loussouarn A, Bardies M, et al. Two-step targeting of xenografted colon carcinoma using a bispecific antibody and 18Re-labeled bivalent hapten: biodistribution and dosimetry studies [J].JNucl Med,2001,42(1): 146-53.   
+[8]Rosebrough SF. Two-step immunological approaches for imaging and therapy[J].QJNucl Med,1996,40(3): 234-51.   
+[9]Paganeli G.Pretargeted radioimmunotherapy[J]. Ernst Schering Res Found Workshop,2005,(49): 73-84.   
+[10]Goodwin DA, Meares CF.Advances in pretargeting biotechnology [J].Biotechnol Adv,2001,19(6): 435-50.   
+[11]李贵平,黄 凯,张 辉.8Re-Herceptin放免导向治疗鼻咽癌裸鼠模型 的实验研究[J].南方医科大学学报,2006,26(4):459-62.   
+[12]李贵平,汪 兵,黄宝丹,等.CD45单抗介导的淋巴瘤荷瘤裸鼠三步法 预定位放免显像[J].中山大学学报:医学科学版,2014,35(1): 127-31.   
+[13]Torres-Garcia E,Ferro-Flores G,Arteaga De Murphy C,et al. Biokinetics and dosimetry of $^ { 1 8 8 } \mathrm { R e }$ -anti-CD20 in patients with non-Hodgkin's lymphoma:preliminary experience [J].Arch Med Res,2008,39(1):100-9.   
+[14]Pagel JM，Matthews DC，Kenoyer A，et al．Pretargeted radioimmunotherapy using anti-CD45 monoclonal antibodies to deliver radiation to murine hematolymphoid tissues and human myeloid leukemia[J].Cancer Res,2009,69(1):185-92.   
+[15]郑文莉,李贵平,黄宝丹,等. $^ { 1 8 8 } \mathrm { R e }$ 直接法标记CD45单抗及其体内生 物分布研究[J].中华临床医师杂志:电子版,2013,7(18):8299-303. (编辑：经媛)

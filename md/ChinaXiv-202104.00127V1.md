@@ -1,0 +1,160 @@
+# 灰色系统GM(1,1)与三角函数耦合模型的研究
+
+倪嘉雨，叶林峰，高德宏，邓洋(成都理工大学工程技术学院，核工程与新能源技术系，四川乐山，614000)
+
+摘要：灰色系统模型由于其具有简便、数学背景清晰等特点，在数学建模与近似计算等领域都有着十分广泛的应用。灰色系统模型的原理可以概括为利用时间响应函数来模拟数据序列的演化，而其中GM(1,1)模型作为最基础、最能体现灰色建模思想的一个模型，应用最广泛。传统的GM(1,1)模型的时间响应函数是以自然常数e的指数构造的函数，也正是由于这个特点，所以GM(1,1)模型具有较强的局限性，在实际应用中人们往往会将GM(1,1)模型的时间响应函数做一定的修正。其中，最重要的一种修正方法就是将原本的时间响应函数与其他能够描述数据序列性质的函数进行耦合，例如对于具有一定周期性或准周期性的数据序列，就可将原本的时间响应函数与三角函数耦合，构成GM(1,1)-三角函数耦合模型。本文便深入探讨了这种模型的可行性，提出了耦合模型时间响应函数中参数的估计方法，以及误差分析。
+
+关键词：灰色系统，GM(1,1)模型，三角函数，数学建模
+
+# Study On The Coupling Model Of Grey System GM (1,1) And Trigonometric Function
+
+Jiayu NI, Linfeng YE, Dehong GAO, Yang Deng (Department of nuclear engineering and new energy technology, Collge of Engineering and Technology of Chengdu University of Technology,Leshan, Sichuan, 614000)
+
+Abstract: Grey system model is widely used in mathematical modeling and approximate calculation because of its simplicity and clear mathematical background. The principle of grey system model can be summarized as the use of time response function to simulate the evolution of data series. Among them, GM(1,1) model is the most basic and can reflect the idea of grey modeling most widely.The time response function of the traditional GM(1,1) model is constructed by the exponent of natural constant e.Also,for this characteristic, the GM(1,1) model has strong limitations.In practical application, people often modify the time response function of GM (1,1) model. One of the most important correction methods is to couple the original time response function with other functions that can describe the properties of data series.For example,for data series with certain periodicity or quasi periodicity， the original time response function can be coupled with trigonometric function to form GM(1,1) - trigonometric function coupling model. In this paper, the feasibility of this model is deeply discussed,and the estimation method of the parameters in the time response function of the coupled model and the error analysis are proposed.
+
+Keywords: Grey system, GM(1,1) model, Trigonometric function, Mathematical Modeling
+
+# 1引言
+
+自80 年代邓聚龙教授首次提出灰色系统理论以来，灰色系统理论在各大数学建模和控制论领域都逐渐占有一席之地。它不同于大数据这种处理大量数据的学科，而其诞生就伴有“对少量数据的模拟”的目标背景[1]。所以在掌握信息少，信息相对孤立的情况下，灰色系统理论成为了建模时出类拔萃的选择。
+
+但是，由于应用最广泛的GM模型的数学结构大量采用了指数函数，导致该类灰色模型对振荡序列的模拟始终不尽人意[2]。这主要是源于指数函数的函数性质带来很多限制。对此人们采取了很多办法，例如引入缓冲算子等数学技术[3]，但这些都不能从根本上解决函数单调性带来的建模限制。
+
+后来，人们发展出将传统灰色模型所用到的函数与工程数学中的一些函数耦合起来的技术，这起到了意想不到的效果[46]。这是一条弥补传统灰色系统模型缺陷的可行的路，本文也是基于这种思路将传统灰色系统模型和周期性函数结合起来，用于模拟具有周期性和准周期性的序列。
+
+为简便起见，本文就以最常用又最基础的GM(1,1)模型与三角函数进行耦合，所得到的模型称为GM(1,1)-三角函数耦合模型。本文首先根据灰色系统理论给出其时间响应函数，再利用一些数学知识给出了模型的参数估计技术。并结合一个应用实例对具体细节给予了说明。最后对模型进行了讨论。
+
+# 2GM(1,1)-三角函数耦合模型
+
+传统的GM(1,1)模型是将原始序列 $X _ { 0 } = \{ x _ { 1 } , x _ { 2 } , . . . , x _ { n } \}$ 进行1-AGO 生成操作，构造其 1-AGO序列 $X _ { 1 }$ 。之后利用一阶微分方程作为白化方程求解时间响应函数，得到对 $X _ { 1 }$ 序列的模拟，再还原到对 $X _ { 0 }$ 的模拟，从而实现建模与误差分析。但正是因为其采用线性的一阶微分方程作为其白化方程，才导致GM(1,1)模型的时间响应函数是 $\mathrm { e } ^ { \pmb { A } ( t ) }$ 型的，这种全局单调性的函数严重影响了GM(1,1)模型的适用范围，对于震荡序列和摆动序列的模拟显得无能为力。对于震荡序列，已经发展出了基于灰数理论的比较普遍的方法[7]，所以本文重点讨论对于周期或准周期摆动序列的修正模型。
+
+# 2.1时间响应函数
+
+我们直接对GM(1,1)的白化方程做出如下修正
+
+$$
+{ \frac { \mathrm { d } } { \mathrm { d } t } } X _ { 1 } ( t ) + a \cdot X _ { 1 } ( t ) = \lambda \sin ( \omega t + \varphi )
+$$
+
+也就是将原来等式右边的灰作用量 $b$ 替换成了三角函数。从微分方程的角度来讲，这样做的意义在于把原来解空间平直的超平面构造成弯曲的，使得方程的解函数具有周期性。由此也引出我们对于周期性和准周期性的定义：周期性序列是指(1)中 $\lambda$ 取定值的序列，而准周期序列是指(1)中 $\lambda$ 时间依赖的序列。下面以三幅示意图说明一下常见的三种周期性或准周期性序列。
+
+![](images/082c15d0c89168b22a3a7987059969f5c00ab48536cbb434ce12cd657956c9a6.jpg)
+
+图1．周期性与准周期性序列示意图从图中来看，周期性与准周期性序列比较直观的区别在于，周期性序列的周期是稳定的，而准周期序列的周期是随时间变化的。
+
+那么周期性序列在注意初值条件 $X _ { 1 } ( t ) \vert _ { t = 1 } = X _ { 1 } ( 1 )$ 的情况下，微分方程(1)有通解
+
+$$
+\begin{array} { r l } & { X _ { 1 } ( t ) = A \mathrm { e } ^ { - a t } + \lambda \big ( a \sin ( \omega t + \varphi ) - \omega \cos ( \omega t + \varphi ) \big ) } \\ & { \quad A = \left[ X _ { 1 } ( 1 ) - \lambda ( a \sin ( \omega + \varphi ) - \omega \cos ( \omega + \varphi ) ) \right] \mathrm { e } ^ { a } } \end{array}
+$$
+
+对于准周期性序列，则要结合 $\lambda = \lambda ( t )$ 具体的形式求解通解。如果 $\lambda ( t )$ 的线性的，那么求解并不是困难的事，与结果(2)没有本质上的区别，而如果 $\lambda ( t )$ 是非线性的，那么就需要采取微扰近似的思想，利用格林函数进行求解，这里不再赘述[8]。
+
+而利用灰导数的定义，我们有 $X _ { 0 } ( x ) = X _ { 1 } ( x ) - X _ { 1 } ( x - 1 )$ ，也就是说
+
+$$
+X _ { 0 } ( x ) = - A \mathrm { e } ^ { - a x } ( \mathrm { e } ^ { a } - 1 ) + 2 \lambda \mathrm { s i n } { \frac { \omega } { 2 } } \bigg ( a \mathrm { c o s } \bigg [ \varphi + \bigg ( x - { \frac { 1 } { 2 } } \bigg ) \omega \bigg ] + \omega \mathrm { s i n } \bigg [ \varphi + \bigg ( x - { \frac { 1 } { 2 } } \bigg ) \omega \bigg ] \bigg )
+$$
+
+这里一共有四个参数 $\{ a , \omega , \varphi , \lambda \}$ 。从数学形式上来看，这是两个函数耦合的问题，即(3)的两项，第一项为指数项，第二项为周期项。而各自的系数参数 $A$ 和 $\lambda$ 则代表着两个函数在整体中所占的比重，当 $A = A ( a , \omega , \varphi , \lambda )$ 较大时，函数的单调性更加显著，而 $\lambda$ 较大时函数的周期性更加显著。而剩下的参数 $\omega , \varphi$ 继承了三角函数中的数学意义，是序列的震动频率与相位。
+
+为了方便后续讨论，我们将(3)形式化地记为
+
+$$
+X _ { 0 } ( x ) = f ( x ) + 2 \lambda g ( x )
+$$
+
+其中 $f ( x )$ 代表指数项，决定着整个函数在 $x$ 域上的发展趋势。 $g ( x )$ 是周期项，决定着整个函数的振荡趋势。而 $2 \lambda$ 是两个项的耦合系数，在两个项构成函数的过程中有权重的数学意义。
+
+# 2.2参数估计技术
+
+在找到了GM(1,1)-三角函数耦合模型的时间响应函数后，下一步的工作便是对其参数的确定提供方法以便实际应用。
+
+根据(4)中两个部分的函数性质，周期项 $g ( x )$ 决定着整个时间响应函数的振荡趋势，可以考虑将周期或准周期理解为三个连续零点的区间长度。那么在一个比较特殊的条件$a , \varphi = 0$ 下， $g ( x )$ 的零点有如下表达式
+
+$$
+x = { \frac { 1 } { 2 } } + { \frac { n \pi } { \omega } } , n \in \mathbb { Z } ^ { + }
+$$
+
+这样，三个连续零点的区间长度仍然是我们所熟悉的周期 $T = 2 \pi / \omega$ 。对于条件 $a , \varphi = 0$ ，可以证明， $\mathbf { \Omega } _ { a }$ 和 $\varphi$ 对整个 $g ( x )$ 的影响仅仅在于图像的左右平移，并不会影响函数局域的性质。所以 $a , \varphi = 0$ 是在探究周期表达式时可以成立的条件。
+
+既然如此，对于给定的一组数据序列，可以根据其变化规律，找到周期或者平均周期 $T$ ，再利用 $T = 2 \pi / \omega$ 直接对 $\omega$ 做出估计。
+
+在平均周期和 $\omega$ 确定以后，考虑到 $\varphi$ 具有相位的意义，通过判断图像的平移情况就能对参数 $\varphi$ 做出估计。正如我们在三角函数中所做的一样。具体的操作将在后续的应用实例中给出。
+
+之后便是参数 $a$ 的确定。由于 $a$ 在灰色系统模型中是发展系数，决定着整个函数的发展趋势，所以它的确定可以按照极大值拟合的方法进行。也就是，取序列的各个波峰值进行传统的灰色系统建模，确定发展系数。至于传统的灰色系统模型，这里不再赘述，可查阅相关文献[9-11]。
+
+最后一个参数，也是耦合模型的灵魂所在，耦合参数 $\lambda$ 。由于指数模型的单调性是无法避免的问题，在一些反常数据区间(即不遵循指数律的数据区间)，需要耦合参数 $\lambda$ 让三角函数的占比增大，从而弥补指数模型单调性的缺陷。而它的确定也并不十分容易。在我们的工作中准备采取变分法来对其做出估计。
+
+当 $a , \omega , \varphi$ 都确定时， $X _ { 0 } ( x )$ 成为仅依赖于 $_ { x , \lambda }$ 的函数，不妨记为 $F ( x , \lambda )$ 。那么 $X _ { 0 }$ 作为灰色系统给出的模拟序列，我们希望它与原始序列 $X ( x )$ 的相对误差尽量地小，这可以归结为一个数学问题。假设原始数据序列有 $N$ 个数据，定义相对误差累积函数
+
+$$
+\sigma _ { e f f } = \sum _ { n = 1 } ^ { N } \biggl | \frac { F \bigl ( n , \lambda \bigr ) - X ( n ) } { X ( n ) } \biggr |
+$$
+
+虽然求和记号更加符合实际情况，但求和所定义的函数并不利于我们处理某些问题。所以也可以对原始数据做一次精度非常高的拟合后，以积分的形式将它推广成一个泛函
+
+$$
+\Omega _ { e f f } = \int _ { 1 } ^ { N } \Big | \frac { F \big ( x , \lambda \big ) - X \big ( x \big ) } { X \big ( x \big ) } \Big | \mathrm { d } x
+$$
+
+此时再应用变分原理 $\delta \Omega _ { e f f } / \delta x = 0$ 可以给出合适的 $\lambda$ ，具体的操作将在应用实例中给出。
+
+# 3应用实例
+
+任取一组具有准周期性的数据序列如下
+
+表1原始数据  
+
+<html><body><table><tr><td>2</td><td>4</td><td>7</td><td>6 3</td><td>5</td><td></td><td>8</td><td>11</td><td>9</td><td>6</td><td>10</td><td>14</td><td></td><td>12813</td><td></td><td>16</td><td>19</td><td>17</td><td>14</td></tr></table></body></html>
+
+根据局域极大值之间数据间隔可以判断，这个数据序列具有平均周期 $T = 1 4 / 3$ 。由此定出 $\omega = 2 \pi / T = 3 \pi / 7$ 。为方便起见，我们先对这组序列的发展系数 $a$ 进行确定。
+
+我们筛选出几个极大值进行灰色系统建模，即对
+
+$$
+X ( 3 ) = 7 , X ( 8 ) = 1 1 , X ( 1 2 ) = 1 4 , X ( 1 7 ) = 1 9
+$$
+
+进行GM(1,1)建模。最终结果如下表所示
+
+表2极大值的GM(1,1)模型  
+
+<html><body><table><tr><td>原始数据</td><td>模拟值</td><td>相对误差</td></tr><tr><td>7</td><td>一</td><td>一</td></tr><tr><td>11</td><td>10.724</td><td>2.51%</td></tr><tr><td>14</td><td>14.151</td><td>1.08%</td></tr><tr><td>19</td><td>18.672</td><td>1.72%</td></tr><tr><td colspan="3">发展系数a=-0.277</td></tr></table></body></html>
+
+之后，我们需要对 $\varphi$ 进行确定。根据三角函数的知识，数据序列的第一个极大值点出现的位置，在 $\varphi = 0$ 时理论上应当是 $x = 2 . 3 3$ （ $x$ 应当取正整数，但这里为了估计参数，所以先暂时取数值计算结果)，而实际上是 $x = 3$ ，相当于整个函数右移了。那么可以求解出$\varphi = - 0 . 6 7$ 。
+
+最后是耦合系数 $\lambda$ 的确定。我们绘制(6)式所定义的函数我们求解到最小值出现的点对应着 $\lambda = - 0 . 8 3 7$ 。自此，模型中所有的参数都已确定，我们带入具体的序数与原始数据序列做对比
+
+![](images/7d028ff896bdecbaa4ae709ebda48cacda3a38ef7c385bf884384f87cbbf9637.jpg)  
+图2.相对误差累积函数与耦合系数关系示意图
+
+表3耦合模型与原始数据比较  
+
+<html><body><table><tr><td rowspan="2">原始数据</td><td rowspan="2">2</td><td rowspan="2">4</td><td rowspan="2">7</td><td rowspan="2">6</td><td rowspan="2">3 ：</td><td rowspan="2"></td><td rowspan="2">：</td><td rowspan="2"></td><td rowspan="2">16</td><td rowspan="2">19</td><td rowspan="2">17</td><td rowspan="2">14</td></tr><tr><td></td></tr><tr><td>模拟值 相对误差</td><td></td><td>3.73</td><td>7.01</td><td>6.32</td><td>2.81</td><td>：</td><td>：</td><td></td><td>17.21</td><td>18.14</td><td>15.93</td><td>12.74</td></tr><tr><td></td><td></td><td>6.8%</td><td>0.1%</td><td>5.3%</td><td>6.3%</td><td>…</td><td>…</td><td></td><td>7.6%</td><td>4.5%</td><td>6.3%</td><td>9.0%</td></tr><tr><td colspan="5">平均相对误差</td><td></td><td>5.6%</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表3说明耦合模型得到了一个非常好的结果，平均相对误差在一个比较低的水平。而如果直接采用传统的灰色系统模型对原始序列建模，平均误差将达到 $4 8 . 3 \%$ 。这并不让人惊讶，因为传统的灰色系统模型本身在振荡序列的预测上就有很大的缺陷，属于建模机制问题。
+
+本节提供了一个具体的例子说明耦合模型中一些具体的细节步骤，特别是参数的确定。这样发展出来的模型弥补了传统的灰色系统模型对于振荡序列模拟和预测的不足，对于本文所定义的周期与准周期序列具有十分有效的建模机制。
+
+# 4讨论与改进
+
+即便本文所建立的耦合模型得到了一定程度的应用，但其所存在的不足仍然是很明显的。
+
+首先是在耦合系数的确定上，采用变分法得到的系数是一个定值，这会让本文建立的耦合模型仅仅起到了一种“缓解”的作用，而不能从根本上避免时间响应函数的单调性所带来的模拟限制。比如我们研究发现，当耦合系数取定值时，整个模拟函数的发展趋势仍然是单调的，即便在局域上具有很丰富的振荡结构。但是当耦合系数取成一个随时间发展而变化的函数时，事情发生了根本性的变化。由于耦合函数具有权重的意义，在那些违反数据序列发展总态势的区间里(例如股票整体是上涨的，但存在局域性、剧烈的下跌)，就需要一个很大的耦合系数并配合三角函数的升降性来模拟出这种区间，同时指数函数的参与可以保证发展总态势的模拟。
+
+其次，本文建立的耦合模型还可以发展出更加丰富的推广，例如可以引入对数函数来控制变化幅度，引入多项式函数来使得模型对局域极值的模拟更为准确等等。这些都是能够实现且能够得到广泛应用的推广模型。
+
+数学建模是一门深奥而又直观的学科，它与我们的日常生活息息相关，依赖着复杂而有趣的数学理论，它是我们认识自然规律和社会规律的一种方式。
+
+# 参考文献
+
+[1]邓聚龙.灰色系统综述[J].世界科学,1983(07):1-5.  
+[2]温丽华.灰色系统理论及其应用[D].哈尔滨工程大学,2003.  
+[3]张苗苗.基于缓冲算子的GM(1,1)模型的研究及其应用[D].西安建筑科技大学,2013.  
+[4] 高彩云,崔希民.滑坡变形预测灰色神经网络耦合模型的构建及适用性分析[J].大地测量与地球动力学，2015,35(05):835-839.  
+[5] 吴浩,董元锋,李奎,史文中,张建华.灰色系统和分形几何耦合的边坡变形预测模型研究与应用[J].测绘通报,2014(S2):46-49+57.  
+[6] 黄胜.灰色系统与多元逐步回归耦合模型在年用水量预测中的应用[J].节水灌溉,2007(05):38-40.[7] 崔立志．灰色预测技术及其应用研究[D].南京航空航天大学,2010.  
+[8]孙国耀,黄迺本.非线性振动方程的格林函数解[J].中山大学学报(自然科学版),2003(S2):165-167.[9]刘思峰,曾波,刘解放,谢乃明.GM(1,1)模型的几种基本形式及其适用范围研究[J.系统工程与电子技术,2014,36(03):501-508.  
+[10]王正新,党耀国,刘思峰,练郑伟.GM(1,1)幂模型求解方法及其解的性质[J].系统工程与电子技术,2009,31(10):2380-2383.  
+[11]谢辉.灰色系统GM(1,N)模型的建模新方法——贫信息方法[J].高校应用数学学报 A 辑(中文版),1991(03):317-322.

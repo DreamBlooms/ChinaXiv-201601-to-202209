@@ -1,0 +1,188 @@
+# 高浓度、高性能钯胶体的制备及其活化机理
+
+屈硕硕1祝清省²\*巩亚东」杨玉莹」李财富²高世安
+
+1东北大学机械工程与自动化学院沈阳1108192中国科学院金属研究所沈阳材料科学国家实验室沈阳110016
+
+摘 要 通过一种小体积、连续性还原反应方法，制备出Pd 浓度高手 $2 \%$ 的胶体活化液，并采用 SEM，TEM，XRD，XPS 表征其形貌、结构及元素组成特征，采用化学镀铜及其电化学测试研究胶体的催化性能。精果表明：该方法能够制备出平均粒径低于 $4 \mathrm { n m }$ 并且分布均匀的 Pd 胶核颗粒；S 节  
+在 Pd 含量低于 $2 5 \mathrm { m g / L }$ 时活化液仍具有化学镀催化性能.研究发现：Pd胶团的外壳结构对活化能力起着重要作用，胶团外壳由 $\mathrm { S n } ^ { 2 + }$ ， $S \mathrm { n } ^ { 4 + }$ 及CI等组成，可形成两种络合体结构，即[PdSn2]Cl和[PdSn3]Clg，由于[PdSn3]Clg在解胶中不能水解，可导致胶团丧失活性。该制备方法可减少[PdSn3]Clg胶团结构的发生，提高了Pd活化性能。
+
+关键词Pd胶体，化学镀子中图分类号 TG146.4文章编号 0412-1961(2017)00-0000-00
+
+Preparation and Activation Mechanism of Pd Colloid with High Concentration and
+
+QU Shuoshuo 1.2, ZHU QingshengGONG Yadeng 1, YANG Yuying 1,LI Caifu ², GAO Shian ²
+
+1SchoolofMechanical Engineering&Automation,Northeastern UniversityShenyang llO819,China 2 Instjtute ofMetal Reerch, Chinese AcademyofSciences,Shenyang 11oo16,China
+
+Correspondent: ZHU Qingsheng, associate professor, Tel: (024) 83978832, E-mail: qszhu@imr.ac.cn Supported by National Natural Science Foundation of China (No.5147118O) and Sence and Technology Program of Shenyang (No.F-16-205-1-18) Manuscript received 2016-08-26,in revised form 2016-10-28 学布
+
+ABSTRACT The non-conductive substrate is often metalized through electroless plating method.Prior to the electroless plating,the substrate surfaces need to be firstyPd activatiompre-treated. The traditional “two-step" activation process,i.e.，sensitization-activation,has been gradually obsoleted because of poor controllability and uniformity.A“one-step”activation processusing Pd collid has been widely used in industry, especially for the microvia metallzation treatment in PCB fabrication.The botleneck problem of this technology is the preparation of the Pd colloid solution with high concentration and excellent catalytic activity. In this study, it is med to develop a preparation method of the Pd colloid with high concentration and high quality.Pd coloid was prepared by a continuous reduction reaction with minor content. By mean of this process,the Pdconcentrationof the prepared colloid can exceed $2 \%$ . The morphology，microstructure，and composition of the Pd colloid were characterized by SEM,TEM, XRD,and XPS,respectively. The activate ability of this Pdoolloid was examined by electroless $\mathtt { C u }$ and electrochemical test. It was found that the average diameterof the Pd particles was less than 4 nm. Even if the concentration of Pd was less than $2 5 ~ \mathrm { m g / L }$ ，this Pd colloid still had good activation ability for electroless Cu. The study result demonstrated that the shell strueture of the Pd micelle played a key role for the activation ability. The shell of Pd micellewas consisted of $\mathrm { S n } ^ { 2 + }$ ， $S \mathrm { n } ^ { 4 + }$ and $\mathrm { C l } ^ { - }$ ， and generally formed two structures, $\mathrm { [ P d S n 2 ] C l _ { 6 } }$ and $\mathrm { [ P d S n 3 ] C l _ { 8 } }$ For the structure of $\mathrm { [ P d S n 3 ] C l _ { 8 } }$ ,the failure of the hydrolysis could lead to the loss of activation. The preparation method in this work can effectively avoid the occurrence of $\mathrm { [ P d S n 3 ] C l _ { 8 } }$ ，which greatly improved the activation ability of the Pd colloid.
+
+KEY WORDS Pd colloidal, electroless Cu, activation
+
+化学镀是非导电基体材料金属化的主要方式之一[I-4]，与物理沉积、化学气相沉积相比,化学镀能够不受基体类型及形貌的限制，具有价格低和效率高等优势，在电路板微孔金属化领域应用广泛[5-6].一般认为，表面活化工艺在很大程度上决定了化学镀效果7.目前，化学镀活化工艺主要使用 Pd、 $\mathbf { A } \mathbf { g } ^ { [ 8 ] }$ 、 $\mathrm { \ A u ^ { \left[ 9 \right] } }$ 等活化液，其催化能力 Pd>Ag>Au.其中，Pd 活化液由于工艺成熟，性能可靠[10-12]，占据主要市场份额
+
+最早的活化工艺采用敏化-活化两步法[13]：将基板在 $\mathrm { S n C l } _ { 2 }$ 溶液中进行敏化处理，吹干后浸入 $\mathrm { P d C l } _ { 2 }$ 溶液使其在表面还原产生纳米Pd活化中心.这种工艺方法易于操作，但纳米Pd粒径不受控制，均匀性极差，易造成浪费，已逐渐被淘汰[5.14,15].1961 年，Shipley 研制出敏化-活化一步法[16-18即 Pd胶体活化液.将处理后表面带有正电荷的基体浸入到带有负电荷的 Pd 胶体溶液中，通过电荷吸引，在基体表面形成一层均匀分布的纳米Pd活化中心.此活化过程只需一步处理，故也被称为一步法，是目前工业中最常用的方法.
+
+这些活化方法都是基于下面的氧化还原反应制备Pd纳米颗粒[13.19].
+
+$$
+\mathrm { P d ^ { 2 + } } + \mathrm { S n ^ { 2 + } } \mathrm { \to } \mathrm { P d } + \mathrm { S n ^ { 4 + } }
+$$
+
+通常将足量 $\mathrm { S n C l } _ { 2 }$ 溶液分步加入到 $\mathrm { P d C l } _ { 2 }$ 溶液中，在Pd颗粒形成的同时，通过包裹外壳形成胶团来制备Pd胶体.Meek等人[20]利用卢瑟福背散射方法发现胶团外壳一般由 $\mathrm { S n } ^ { 2 + } , \mathrm { S n } ^ { 4 + }$ 及CI等组成，但对这种胶团外壳吸附层的结构仍缺乏准确的认识.Pd胶体的稳定性在很大程度上取决于外壳的氧化防护功能，在使用中通常需要充足的游离态亚锡离子，以防止胶团聚沉.同时，使用时需要通过解胶处理去除胶团外壳，裸露出具有催化能力的Pd 核[21.
+
+商业化Pd胶体的制备过程通常分为两步：首先通过还原反应制备Pd纳米颗粒，然后及时加入充足的亚锡离子包裹Pd核，形成胶团.在还原反应过程中，当溶液体积较大、浓度较高时，相同时间内部分优先置换的Pd颗粒发生聚沉而部分离子未完成反应，工艺时间不易把握.利用传统方法制备的高浓度、大体积Pd胶体活化性能较差.本工作尝试使用一种连续性微量反应的制备方法，目的在于使还原反应由大体积转换为小体积的形式下进行，同时连续性反应能够保证活化液的生产效率.同时对此种方法制备韵Pd胶体微观结构以及化学沉积催化活性进行表征，探讨Pd胶体胶团外壳结构对催化活性的可能影响，建立基于相关机理的模型. 蘭淮化和爱
+
+1 实验方法
+
+![](images/aa99cae7bdf4957ee7bc14dae4df7aa0b2f51a8dbd2e3951fbfabbf439334753.jpg)  
+图1Pd胶体制备装置示意图
+
+Fig.1 Schematic of preparing Pd colloid (1-funnel, $2 { \cdot } \mathrm { S n C l } _ { 2 }$ solution, 3-PdClsolution, 4-valve, 5-U bend, 6-glass tube,7-bracket, 8-Pd colloid
+
+图1为高浓度 $\mathrm { P d }$ 胶体制备装置示意图．首先通过调整阀门4，控制U形管5两侧液体流速，使 $\mathrm { \ S n C l } _ { 2 }$ 溶液2和 $\mathrm { P d C l } _ { 2 }$ 溶液3按计算比例流出，混合后发生反应，然后经玻璃导管
+
+6流入另一 $\mathrm { S n C l } _ { 2 }$ 溶液槽中．反应时间由导管长度控制，计算约为5s，流入 $\mathrm { \ S n C l } _ { 2 }$ 、 ${ \mathrm { N a } } _ { 2 } { \mathrm { S n O } } _ { 3 }$ 溶液的混合液在 $5 5 \ \mathrm { ~ \textdegree C }$ 条件下保温 $\boldsymbol { 4 } \mathrm { h }$
+
+将所制备的Pd胶体滴到喷有无定型石墨的 $\mathtt { C u }$ 网上，晾干，利用JEM2010高分辨透射电镜(TEM)观察纳米Pd粒子的形貌；取适量的Pd胶体溶液滴到载玻片上，烘干，用X射线衍射仪(D/Max-2500PC，XRD)进行表征，Cu 靶，工作电压为 $3 6 \mathrm { { k V } }$ ， $\lambda$ 为 $0 . 1 5 \mathrm { n m }$
+
+对基体进行化学镀 $\mathtt { C u }$ 以测试Pd胶体的活化性能，工艺流程为：除油-粗化-活化-解胶-化学沉积铜.其中，粗化采用铬酸-硫酸粗化液，粗化温度为 $5 5 \mathrm { ^ \circ C }$ ；镀液组成为： $\mathrm { C u S O _ { 4 } }$ $5 \mathrm { H } _ { 2 } \mathrm { O }$ $\mathrm { 8 g / L }$ ， $\mathrm { N i _ { 2 } S O _ { 4 } { \cdot } 6 H _ { 2 } O 1 g / L }$ ， $\mathrm { N a _ { 3 } C _ { 6 } H _ { 5 } O _ { 7 } \cdot 2 H _ { 2 } O 2 \theta g / L }$ ， $\mathrm { N a H _ { 2 } P O _ { 2 } \cdot H _ { 2 } O 4 0 g / L }$ ， $\mathrm { H _ { 3 } B O _ { 3 } } 3 0 \mathrm { g / L }$ ，施镀温度为 $6 0 ^ { \circ } \mathrm { C }$ .结束后,冲洗并吹干样品，进行X射线光电子能谱分析(XPS)测试其镀层成分;通过Zeiss SUPPA 场发射扫描电镜(SEM观察化学镀层的表面及横截面形貌.镀层与基体之间的结合力通过带剥离法进行测定，
+
+通过Autolab204电化学工作站测定化学镀过程中的混合电位来衡量制备的Pd胶体活化液的催化活性，测量过程采用双电极体系，Pt为对电极，尺寸为 $1 0 \ \mathrm { m m } \times 5 0 \ \mathrm { m m }$ 的铜片作为工作电极.为子测定这种制备方法的高效性，需要将活化液稀释到不同的浓度：1000、100、0和 $2 5 \mathrm { m g } \ddot { \mathrm { / L } } .$ 其中， $1 0 \mathrm { m m } \times 5 0 \mathrm { m m }$ 的铜片作为工作电极，将工作电极浸入到镀液的同时进行测试，通过达到稳定混合电位的诱导时间来表征催化活性.
+
+# 2实验结果与讨论
+
+# 2.1微观结构
+
+![](images/57d422d54da96beec1cd2c26bdeae6cbb79a0f2e432f24f07ffc56325898113b.jpg)  
+图2Pd纳米颗粒的TEM图像及粒径分布图
+
+Fig.2 TEM images and size distribution of Pd nanoparticles particle: TEM image of prepared Pd nanoparticles (a), HR-TEM image and fourier transform (inset)of prepared Pd nanoparticles (b),and calculated size distribution(c)
+
+图2a和b为透射电镜下Pd胶体颗粒的形貌.可以观察到Pd颗粒分散性良好，无明显团聚现象.对颗粒尺寸进行测量，经统计后其粒径分布如图 2c 所示.其平均粒径约为 $3 . 1 7 4 \mathrm { n m }$ 通常认为Pd颗粒尺寸越小，其催化活性越强，相同催化能力所需的Pd量就越小.另一方面，通过如图2b高分辨图像测得颗粒的晶面间距为 $0 . 1 9 5 \mathrm { n m }$ ，与Pd(111)面间距相接近.Froment等[21曾报道所测到的颗粒面间距也接近 Pd-Sn，因为 Pd-Sn 合金(111)面间距与 Pd(111)面接近.
+
+![](images/272b9a2095263beb2d789411dec7df3c0b59c96a6db88e03cd86c665dc281238.jpg)
+
+图3Pd 胶体的XRD谱Fig.3 XRD spectra of Pd conoid
+
+通过X射线衍射分析，如图3所示。可以检测到Pd和 $\mathrm { P d } 3 \mathrm { S n }$ 峰，(111)晶面衍射峰最强，这与TEM结果吻合，证明所制备的胶体中还包含有 $\mathrm { P d } 3 \mathrm { S n }$ 纳米颗粒.此外，胶体中 $\mathrm { \ S n C l } _ { 2 }$ 峰尤为明显，为胶团提供充足的 $\sin ^ { 2 \Rightarrow }$ 起到防止胶团氧化、稳定胶体的作用[22-23].
+
+# 2.2电化学性能
+
+![](images/7522a0a355d9dd88d9a36b55bc10bafb13963c0314404db374249b0cf22edf16.jpg)  
+图4不同浓度Pd胶体活化后的混合电位-时间曲线
+
+Fig.4 Mixed potential-time curves of samples treated using Pd colloidWith different Concentrations图4是稀释至不同浓度的Pd胶体活化液的混合电位-时间曲线.根据Kondo等[24的吸附模  
+型，电极浸入镀液瞬间，化学沉积 $\mathtt { C u }$ 尚未进行，此时大量负电性的离子和少量正电性的离  
+子吸附到电极表面，初始电位呈现负值，即在图中 $\boldsymbol { \mathfrak { P } } \boldsymbol { \mathfrak { s } }$ 时，电位约为-0.1V.反应开始后， ${ \mathrm { C u } } ^ { 2 + }$   
+首先在工作电极上的Pd活性点处被催化发生还原反应，随后在自催化作用下使还原反应持续  
+进行．本镀液体系采用环保型 ${ \mathrm { N a H } } _ { 2 } { \mathrm { P O } } _ { 2 }$ 作为主还原剂，其氧化性相对于传统的HCHO较弱，  
+在铜的自催化过程中，需加入少量 $\mathrm { N i } ^ { 2 + }$ 作为再活化剂，能够显著提高 ${ \mathrm { N a H } } _ { 2 } { \mathrm { P O } } _ { 2 }$ 的氧化性.  
+${ \mathrm { N a H } } _ { 2 } { \mathrm { P O } } _ { 2 }$ 将 ${ \mathrm { C u } } ^ { 2 + }$ 还原为金属 $\mathtt { C u }$ ，并沉积在工作电极表面，与此同时， $\mathrm { H } _ { 2 } \mathrm { P O } _ { 2 } \cdot$ 在对电极聚集，  
+使电位不断负移.一般地，将混合电位曲线上从开始浸入至达到稳定电位的时间作为反应诱导  
+时间，Pd胶体活性越强，其反应诱导时间越短.以Pd浓度为 $0 \mathrm { m g / L }$ 作为参考，其电位不发生
+
+变化；当Pd浓度为 $1 0 0 0 \mathrm { m g / L }$ ， $1 0 0 \mathrm { { m g / L } }$ ， $5 0 \mathrm { m g / L }$ 时，反应能够迅速发生，诱导时间分别为3s、4s、5.5s，最终电位稳定在-1.1V.由此可知活化液的活性次序为： $1 0 0 0 \mathrm { m g / L } > 1 0 0 \mathrm { m g / L } >$ $5 0 \mathrm { m g / L } > 2 5 \mathrm { m g / L } .$ 当Pd浓度为 $2 5 \mathrm { m g / L }$ 时，电位需要较长时间达到稳定，可能是由于Pd浓度较低，沉积铜速率会大幅下降，最终电位稳定在-0.4V附近.
+
+# 2.3化学镀性能
+
+基体在经过粗化、活化及解胶处理后，其表面形貌如图5a所示，粗化处理能够形成大量微米尺度凹坑，为Pd颗粒吸附提供更多的附着点，以提高沉积层与基体的结合力.但是，这种仅有数个纳米大小的Pd颗粒在SEM难以观察.将活化后的基体浸入Cu化学镀液中，可以看到立刻有气泡冒出.图5b为基体浸入镀液10s形成的表面形貌.发现在基体表面出现大量分布均匀和密度较大的颗粒，其尺寸约为 $5 0 \mathrm { - } 1 3 0 \mathrm { n m }$ ，这些颗粒可视为Pd 活化中心催化还原形成的Cu晶核，随着沉积时间增加，这些晶核不断长大，连接(图5c)，最后形成铜膜层(图5d).在沉积初始阶段，时会在Cu膜表面出现析氢气孔等.
+
+![](images/2675f8aeb613fa76f05a1dd00430b78943ff07e1b5ef921d9f7a6151a51403af.jpg)  
+图5化学沉积不同时间后表面形貌SEM像  
+Fig.5 Surface SEM images after electroless plating: before plating (a), plating for 5s (b), plating for $\sqrt [ 3 ] { \frac { 3 } { 5 } } ( c )$ and plating for 2min(d)
+
+将制备的高浓度活化液稀释至 $2 0 \mathrm { { m g / L } }$ ，ABS 薄片样品经过这种稀释后的Pd胶体活化处理，然后进行化学沉积铜.图6为沉积铜后样品截面组织的 SEM像，可以观察到界面处无明显孔洞等缺陷，这说明该胶体在低浓度时仍具有较好的活化性能.带剥离测试结果也表明镀层与基体之间具有较好的结合力.总而言之，衡量Pd胶体优劣的美键指标是在相同催化能力下所需 Pd的含量.利用这种方法制备的Pd胶体，其化学镀催化活性的最低Pd浓度低于目前的商业化产品.当保持催化能力的Pd浓度越低，说明所制备的Pd胶体催化活性越强，处理相同试件所需Pd总量就越少，从而节省材料成本.
+
+![](images/9ef52754ac3df067f403f3769e9287630731a6860be01ed0558ff2804b57f51a.jpg)  
+图6化学沉积铜薄膜截面SEM像
+
+学
+
+Fig.6 Cross-section SEM images of electroless Cu film: the overall pattern after electroless plating (a), the details pattern after eleetroless platihg (b)
+
+# 3 分析讨论
+
+经过活化和化学镀处理后的表面XPS分析[25-26]，如图7所示，可以发现较强的 $\mathrm { { C u . N i . } }$ Cr 等峰，这是化学沉积层中的相关元素.在沉积层下的PdSn等元素，因其含量较低而峰强十分微弱，需通过分峰软件进行分峰处理.如图7b所示，在 $3 3 5 . 4 \mathrm { e V }$ 时可以检测到Pd(O)，这证明Pd粒子的存在.同时，如图7c所示，在484.6eV的个弱峰确定为 $\mathrm { S n } ( 0 )$ .通过XPS 能够确定此时的峰对应的是 $\mathrm { S n } ( 0 )$ ，其存在形式可能为 $\mathrm { S n }$ 单质、 $\mathrm { P d } 3 \mathrm { S n }$ 、PdSn2 等.Froment 等[21]认为可能以 PdSn2的形式存在通过对XRD谱与PDF 标准卡片比对，发现仅 $\mathrm { P d } 3 \mathrm { S n }$ 的衍射峰能够较好吻合．因此,可判断Sn(0)最接近以Pd3Sn合金的形式存在.然而,在 486.4-486.5eV 的峰可以鉴定为 $\operatorname { S n } ( \operatorname { I I } )$ 或考 $\operatorname { S n } ( \mathbb { N } )$ ，但由于两种峰很相近，并不能明显区分[27] $. S \mathrm { n } ( \mathrm { I V } )$ 和 Sn(O)的产生通常被归因于下的反应[13,19]
+
+$$
+2 \mathrm { S n } ^ { 2 + } {  } \ \mathrm { S n } + \mathrm { S n } ^ { 4 + }
+$$
+
+至今，虽然胶团外壳可确定为 $\mathrm { S n } ^ { 2 + }$ 和 $S \mathrm { n } ^ { 4 + }$ 等以络合离子形式存在，他对其结构排列仍然无法认识.不同的制备方法能够制备出活化性能差异显著的Pd胶体，除Rd胶核颗粒本身外，子 K胶团外壳结构对活化性能应该也具有一定的影响，
+
+![](images/c1f163191957875fb34ac7b06a0337f4c306db089e6f1323007df132c2b1056e.jpg)
+
+# 图7Pd 胶体的XPS图谱
+
+Fig.7 XPS patterns of Pdcolloid: XPS survey scan of the electrolesssurface(a), Sn 3d XPS core-level spectra (b),Pd 3d XPS core-level spectra (c)
+
+在研究中，设计一组试验：将 $\mathrm { P d C l } _ { 2 }$ 溶液直接加入到过量的 $\mathrm { S n C l } _ { 2 }$ 溶液中，待反应后，同样在 $5 5 \mathrm { ^ \circ C }$ 下保持 $\boldsymbol { 4 } \mathrm { h }$ ．发现制备的Pd胶体呈墨绿色，与本工作中连续性微量方法制备的棕黑色胶体差别较大.按照同上的处理方法，发现这种墨绿色的胶体几乎没有化学镀催化活性.对这种Pd胶体颗粒进行TEM观察，如图8所示.
+
+![](images/9a44c3024c6b19fc6d2e68377803e3fd3402842ac50a1f0a4e9ed1736c337d16.jpg)  
+图8墨绿色Pd 胶体中Pd颗粒的TEM 像
+
+Fig.8 TEM images of Pd particle in prepared palladiumlloidal withdark-gree color: TEM image and of prepared Pd nanoparticles (a), HR-TEM image and fourier transform (inset) of prepared Pd nanoparticles (b)
+
+该方法制备的胶核颗粒同样县有较小的尺寸和良好的均匀性，其平均尺度为 $3 . 3 \mathrm { n m }$ 因此，可以认为活化性能的差异跟Pd胶核颗粒关系不大.造成这种差异的主要原因在于Pd胶团形成过程中的胶核包裹的外壳不厨
+
+在还原反应时，当 $\mathsf { \tilde { S } n C l } _ { 2 }$ 与 ${ \dot { \mathsf { P d C l } } } _ { 2 }$ 完全反应生成Pd 和 $S \mathrm { n } ^ { 4 + }$ ，Pd 胶核外壳仅存在 $S \mathrm { n } ^ { 4 + }$ ，结合形式为 $\left[ \mathrm { P d } \mathrm { S n } 2 \right] ^ { 6 + }$ ，如式(3)所示；当将 $\mathrm { P d C l } _ { 2 }$ 加入到过量 $\mathrm { S n C l } _ { 2 }$ 时，Pd核外壳将同时被 $S \mathfrak { n } ^ { 4 + }$ 和 $\mathrm { S n } ^ { 2 + }$ 包裹，结合形式为 $\mathrm { [ P d S n 3 ] } ^ { 8 + }$ ，如式(4)所示.也就是说，2种胶团外壳具有完全不同的络合离子；在外观上，2种胶液也分别呈现棕黑色和墨绿色. 希
+
+$$
+\mathrm { P d } + \mathrm { S n } ^ { 4 + } + \mathrm { S n } ^ { 2 + } {  } { [ } \mathrm { P d } \mathrm { S n } 2 { ] } ^ { 6 + }
+$$
+
+$$
+\mathrm { P d } + \mathrm { S n } ^ { 4 + } + 2 \mathrm { S n } ^ { 2 + } {  } [ \mathrm { P d } \hat { \mathrm { S n } } 3 ] ^ { 8 + }
+$$
+
+2 种胶团在解胶前后的外壳结构变化如图9.在按比例混合 $\mathrm { { S n C l } } _ { 2 }$ 与 $\mathrm { P d C l } _ { 2 }$ 溶液时，溶液几乎不存在 $\mathrm { S n } ^ { 2 + }$ ， $\mathrm { S n } ^ { 4 + }$ 率先吸附在纳米Pd 颗粒外围.由于胶束电荷并没有达到平衡，当其流入到缓冲液中(包含有大量的 $\mathrm { S n } ^ { 2 + }$ ，胶团会吸收适量的 $\mathrm { S n } ^ { 2 + }$ 与 $\mathrm { C l } ^ { - }$ ，以达到胶团电位的平衡，最终形成稳定的胶团，即 $\mathrm { [ P d S n 2 ] C l _ { 6 } }$ .在解胶时，靠近 $\mathrm { P d }$ 核的 $S \mathrm { n } ^ { 4 + }$ 能够发生水解反应，使胶团外壳脱离，裸露出具有活化能力的Pd胶核.相对比，将 $\mathrm { P d C l } _ { 2 }$ 溶液与过量 $\mathrm { S n C l } _ { 2 }$ 混合时，溶液中含有大量的 $\mathrm { S n } ^ { 2 + }$ ，导致Pd 核同时吸附 $S \mathrm { n } ^ { 4 + }$ 与 $\mathrm { S n } ^ { 2 + }$ ，然后胶团外围吸附CI以达到电位平衡，最终形成的胶团为 $\mathrm { [ P d S n 3 ] C l _ { 8 } }$ .在这种胶团结构中，靠近Pd核外层为大量的 $ \mathfrak { \widehat { S } } \mathrm { n } ^ { 2 + }$ ，其在解胶中不能发生水解，包裹的胶团外壳无法脱离，不能裸露出具有催化能力的Pd核，从而丧失活化能力.由此可见，高性能的Pd胶体活化液不仅取决于胶核颗粒而且取决于胶团外壳结构.其制备工艺要防止 $\mathrm { [ P d S n 3 ] C l _ { 8 } }$ 胶团结构的发生.
+
+![](images/8c8d8211861a0efcb7dceb2eb807444ab952a5ceabac8a21107a49049a18a7d2.jpg)  
+Fig.9 Model schematic diagrams of the shellstructure evolution after acceleration: the Pd colloid with excellent activation ability (a), the Pd colloid wihtout activation ability(b)
+
+商亚化的Pd 胶体活化液一般浓度较高，经稀释后使用在高浓度Pd 胶体的批量生产中，常会形成[PdSn3]Clg胶团结构或颗粒聚沉现象，降低胶体的活化性能。在本研究中使用的这种小体积连续性化制备方法，获得了极佳的性能，其根本原因在于制备出颗粒尺度极小的Pd胶颗粒，降低了[PdSn3]Clg胶团结构发生的几率，提高了Pd的应用效率.
+
+# 4结论
+
+(1）混合电位-时间曲线测试结果表明这种小体积、连续性制备方法能够获得高活化能力、高浓度Pd 胶体活化液.所制备的胶核颗粒分布均匀，平均粒径低于 4nm；在 Pd 浓度低于$2 5 \mathrm { m g / L }$ 时，仍具有良好的活化能力. >
+
+(2）胶团由Pd和Pd锡纳米颗粒形成的胶核与离子形成的外壳组成其中，外壳结构包含$S \mathrm { n } ^ { 4 + }$ 、 $\mathrm { S n } ^ { 2 + }$ 、CI等离子，在不同工艺条件下这些离子可能形成2种胶团结构： $\mathrm { [ P d S n 2 ] C l _ { 6 } }$ 和$\mathrm { \Delta [ P d S n 3 ] C l _ { 8 } . [ P d S n 3 ] C l _ { 8 } }$ 胶团的外壳在解胶过程中不能通过水解后脱离人致使不能裸露出 Pd核，从而丧失活化能力.而[PdSn2]Cl6胶团具有良好的活化能力.
+
+(3）本制备方法将大体积改变为小体积连续性的反应过程，不仅避免大体积反应中部分发生团聚沉淀而部分未反应完全的现象，而且减少了[PdSn3]Clg胶团的发生，提高Pd 的利用效率，有利于制备出高浓度和高活性的Pd胶体活化液
+
+金
+
+# 参考文献
+
+报
+
+[1] Chang H,Hwang S, Kim SC, et al.Cu electroless deposition onto Ta substrates[J].ECSJSolid. Statel etters., 2006, 9: C157 子   
+[2] Lee CH,Lee SC, Kim JJ.Botom-up filling in Cu electrolessdeposition using bis-63sulfopropyl)-disulfide (SPS)[J].Electrochim. Acta., 2005, 50: 3563 A   
+[3] Smy T,Tan L,Dew SK,et al.Desilva M, Simulation of electroless deposition of Cu thin films for very large scale integration metallization[J].J. Electrochem. Soc., 199144: 2115)   
+[4] TorresJ,Advanced copper interconnections for silicon CMOS technologies[J].Appl. Surf. Sci.,1995,91: 112   
+[5] KimK,Jin S,KwonOJ.Effect of Pd precursor status on sonochemical surface activation in Cu electroless deposition[J].Appl. Surf. Sci., 2016, 364: 45   
+[6] Lee CL, Huang YC,Kuo LC. Catalytic effect of Pd nanoparticles on electrolesscopper deposition[J]. J.Solid. State.Electrochem., 2007,11: 639   
+[7] Zabetakis D,Dressick WJ. Selective electroless metallization of patterned polymeric films for lithography applications[J].ACS.Appl. Mater. Inte., 2009,1: 4   
+[8] Yang C C, Wan C C, Wang Y Y. Synthesis of $\mathrm { \sf A g / P d }$ nanoparticles via reactive micelles as templates and its application to electroless copper deposition[J]. J. Colloid. Interface. Sci., 2004, 279: 433   
+[9] Zhang Y H, Yan TT, Yu S Q,et al. Electroless copper deposition in the photographic gelatin layer[J].J. Electrochem. Soc., 1999,146: 1270   
+[10] LoSHY, Wang Y Y,Wan C C. Long-term stability of $\mathrm { C u / P d }$ nanoparticles and their feasibility for electroless copper deposition[J].Electrochim. Acta.,2008, 54: 727   
+[11] Yutaka F, YasuyukiK,Koji K, et al. Ag nanoparticle catalystfor electrolessCu depositionand promotion of its adsorption onto epoxy substrate[J].J. Electrochem Soc., 2008, 155: D377   
+[12] Hutchings G J. Nanocrystalline goldand gold palladium alloy catalysts for chemical synthesis[J]., Chem. Commun., 2008,1148 学布   
+[13] Nicolas-DebarnotD,PascuM, VasileC,et al. Influence of the polymer pre-treatment before its electroless metallization[J].Su Coat. Technol., 2006, 200: 4257   
+[14] Hsu HH,Teng CW,Lin SJ,et al. Sn/Pd catalyzation and electroless Cu deposition on TaN diffusion barrier layers[J].J. Electroche.Soc., 2002, 149: C143   
+[15] OkadaS, KamegaWa T,Mori K, et al. An electroless deposition technique for the synthesis of highly active and nano-sized Pd particles on silica nanosphere[J].Catal.Today.@L2,185:109   
+[16] Charbonnier M, Goepfert Y, Romand M,et al. Electroless plating of glass and silicon substrates through surface pretreatments involving plasma-polymerization and grafting processes[J].J.Adhes., 2O04, 80: 1103   
+[17]Osaka T,Takamatsu H,Nihei K. A Studyon activation and acceleration by mixed PdCl2/SnCl2 catalysts for electroless metal deposition[J].J. Electrochem. Soc 1980,127: 1021   
+[18] O'Sulivan E. J. M, Horkans J, Whe JR, et alCharacterization of PdSn catalysts for electroless metal deposition[J].IBM.J. RES. DEV., 1988, 32(5):591   
+[19] Cui X Y, Hutt D AScurr D JDal. The Evolution of Pd/Sn Catalytic Surfaces in Electroless Copper Deposition[J].J.Electrochem. Soc.,2011, 158: D172   
+[20]Svendsen LG,Osaka T, Sawai H.Behaviorof Pd/Snand Pd Catalysts for Electroless Plating on Different Substrates Investigated by Means of Rutherford Backscattering SpectroscopylJl.KElectrochem. Soc.,1983, 130: 2252 子 K   
+[21] FromentM, Queau E,Martin JR,et al. Structural and Analytical Characteristicsof Adsorbed Pd-Sn Colloids[J].J. Electrochem. Soc., 1995,142: 3373 友   
+[22] Chen LJ, Wan CC,Wang YY. Chemical preparation of Pd nanoparticles in room temperature ethylene glycol system and its application to electrolessCopper depdsitjoen[J].J.Collid. Interface. Sci., 2006, 297:143   
+[23] Harraz F A,El-Hout L E,Killa H M,et al. Palladium nanoparticles stabilized by polyethyleneglycol: Efficient,recyclable catalyst for hydrogenation of styrene and nitrobenzene[J].J. Catal.,2012,286: 184   
+[24]Kondo K,Ishida N,Ishikawa J,et al. Electroless Copper Plating in the Presenceof ExcessTriethanol Amine[J].J. Electrochem. Soc.,1992, 65:1313 K   
+[25] Dominique ND,Mihaela P,Cornelia V,et al. Influence of the polymer pre-treatment before its electroless metallization[J].Surf. Coat. Technol., 2006,200: 4257   
+[26]Elis A T.Energy-dispersive x-ray fluorescence analysis using x-ray tubeexcitationVersion 2, 2002   
+[27] Shukla S, Seal S,Akesson J, et al. Study of mechanism of electroles opper coating of fly-ash cenosphere particles[J].Appl. Surf. Sci, 2001, 181: 35

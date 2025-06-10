@@ -1,0 +1,347 @@
+# TeV scale horizontal gauge symmetry and its implications in $B$ -physics
+
+Seong Chan Park, $^ { 1 }$ Jing Shu, $^ { 1 , 2 }$ Kai Wang1 and Tsutomu T. Yanagida $\cdot ^ { 1 }$ （20 $^ { 1 }$ Institute for the Physics and Mathematics of the Universe, University of Tokyo， Kashiwa， Chiba 277-8568， JAPAN 2 INPAC, Department of Physics， Shanghai JiaoTong University， Shanghai， 200240， CHINA Abstract
+
+We propose a gauged $U ( 1 ) _ { H }$ horizontal symmetry around TeV scale that is a subgroup of a （20 $S U ( 3 ) _ { H }$ horizontal gauge symmetry broken at $\mathcal { O } ( 1 0 ^ { 1 4 } )$ GeV. The breaking generates right-handed Majorana neutrino masses through a $S U ( 3 ) _ { H }$ sextet scalar. A particular Majorana right-handed neutrino mass matrix explicitly determines the remnant $U ( 1 ) _ { H }$ at low energy which only couples to （204号 $b - s$ and $\mu - \tau$ in the gauge eigenstate. The dangerous $K - K$ ， $D - D$ mixing and $B _ { s } \to \mu ^ { + } \mu ^ { - }$ are kept to be safe because the relevant couplings are suppressed through high powers of small mixing angles in the fermion rotation matrix. Our analysis which applies to the general case shows that the Tevatron di-muon anomaly can be explained through the $B _ { s }$ and $B _ { d }$ mixing while keeping all the other experimental constraints within $9 0 \ \%$ C.L. For the $B$ meson decay, the $B _ { s } \to \mu ^ { \pm } \tau ^ { \mp }$ is the leading leptonic decay channel which is several orders of magnitude below current experimental bound.
+
+# I. INTRODUCTION
+
+Horizontal gauge symmetry was proposed as an extension of the SM gauge symmetries to unify allfamilies of quarks and leptons [1, 2]. Given the three families of quarks and leptons, $S U ( 3 ) _ { H }$ is the most natural choice for the horizontal gauge symmetry. Interestingly, if one assumes all the SM fermions transform under 3 of $S U ( 3 ) _ { H }$ , the anomaly free condition requires thregeneratiosofiganednetrino $n _ { R } ^ { i = 1 , 2 , 3 }$ [3] while theright-handed neutrinos also play important roles in explaining the origin of neutrino masses. Therefore, the （204号 $S U ( 3 ) _ { H }$ horizontal gauge symmetry model provides a natural scheme for the seesaw mechanism [4] generating small masses for light neutrinos [3]. The Majorana neutrino mass term for the right-handed neutrinos explicitly breaks the $S U ( 3 ) _ { H }$ , thus it is often believed that the horizontal gauge symmetry should be broken at a very high-energy scale $M _ { R } \sim \mathcal { O } ( 1 0 ^ { 1 4 } )$ （20 GeV. Then it seems impossible to test the $S U ( 3 ) _ { H }$ gauge interactions in low-energy experiments.However, it is not always the case as we will show in detail below. Even if some subgroup of the $S U ( 3 ) _ { H }$ remains unbroken, the right-handed neutrinos can still acquire large Majorana masses.
+
+Since $n _ { R } ^ { i }$ transform as 3 under $S U ( 3 ) _ { H }$ , the Majorana neutrino mass term can arise from the vacuum expectation value $( v e v )$ of an $S U ( 3 ) _ { H }$ sextet $\chi _ { 6 }$ ，
+
+$$
+\overline { { n _ { R } ^ { i c } } } \langle \chi _ { 6 } \rangle _ { i j } n _ { R } ^ { j } ,
+$$
+
+and $M _ { R } ~ = ~ \langle \chi _ { 6 } \rangle$ .The light neutrino mass is given by the seesaw mechanism as $m _ { \nu } \ =$ （204号 （204号 $m _ { D } ^ { \prime } ( M _ { R } ) ^ { - 1 } m _ { D }$ . In order to explain the the neutrino oscillation data, suitable $\left. \chi _ { 6 } \right.$ and $m _ { D }$ are required. For $m _ { D }$ and the other SM fermion masses, there must exist octet Higgs under $S U ( 3 ) _ { H }$ in order to accommodate the correct mass hierarchy in quarks and leptons. In addition, to minimize flavor changing effects induced by the octet Higgses， we employ a scenario with additional Higgses and singlet fermions [5] in which the $m _ { D }$ and quark mass matrices or lepton mass matrix are all independent. By taking a suitable gauge choice of horizontal symmetry, we always choose the $M _ { R }$ to be a diagonal matrix,
+
+$$
+M _ { R } = \left. \chi _ { 6 } \right. = \left( \begin{array} { l l l } { { A } } & { { 0 } } & { { 0 } } \\ { { 0 } } & { { B } } & { { 0 } } \\ { { 0 } } & { { 0 } } & { { C } } \end{array} \right)
+$$
+
+The $\left. \chi _ { 6 } \right.$ structure explicitly determines the symmetry breaking. The $S U ( 3 ) _ { H }$ is completely broken in a generic vacuum with $A \neq B \neq C ( \neq A )$ . However，with a specific vacuum of $A = B = C$ for instance, the vacuum $\left. \chi _ { 6 } \right.$ is invariant under a $S O ( 3 )$ symmetry and the breaking is $S U ( 3 ) _ { H }  S O ( 3 ) _ { H }$ . Being symmetric second rank tensor under $S U ( 3 ) _ { H }$ ， the sextet $\chi _ { 6 }$ transform as $\chi _ { 6 }  U ^ { T } \chi _ { 6 } U$ where $U = e ^ { i \epsilon _ { a } T _ { a } }$ and $T _ { a }$ is the generator of the horizontal symmetry. A general scheme to obtain the unbroken symmetry is derived from the condition that if $\{ T , \langle \chi _ { 6 } \rangle \} = 0$ ， $\left. \chi _ { 6 } \right.$ is invariant under transformation defined by $T$ To illustrate the feature of our proposal, we take a vacuum as $C = - B$ .This vacuum $\langle \chi _ { 6 } \rangle = \mathrm { d i a g } ( A , B , - B )$ is invariant under the $S U ( 3 )$ generator $\lambda _ { 6 }$ as
+
+$$
+T = \lambda _ { 6 } = { \left( \begin{array} { l l l } { 0 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 1 } \\ { 0 } & { 1 } & { 0 } \end{array} \right) } .
+$$
+
+Consequently, one can identify the unbroken $U ( 1 ) _ { H }$ gauge symmetry with generator $T$ 1 and it can survive to low energy, for instance $\mathcal { O } ( \mathrm { T e V } )$ which may lead to interesting predictions in flavor changing neutral current (FCNC） processes. It was also observed that if there exist horizontal gauge interactions, CP violation can be realized with only two generations. Explicit examples of CP violation due to $U ( 1 ) _ { H }$ and $S U ( 2 ) _ { H }$ was discussed in [1]. If the above $U ( 1 ) _ { H }$ is broken at the low energy, the horizontal gauge boson exchanges can induce additional CP violations [1] at low energies through quark and lepton mixings.
+
+In the last decades, huge experimental efforts had been made in improving the measurements on CP violation in the $B$ meson system. Very recently， the D $\varnothing$ Collaboration at Tevatron has reported a large charge asymmetry in like-sign di-muon $A _ { s \ell } ^ { b }$ in both $B _ { s }$ and $B _ { d }$ decays with $6 . 1 ~ \mathrm { { f b } ^ { - 1 } }$ ：
+
+$$
+A _ { s l } ^ { b } ( \mathrm { E x p } ) \equiv \frac { N ^ { + + } - N ^ { -- } } { N ^ { + + } - N ^ { -- } } = - 9 . 5 7 \pm 2 . 5 1 ( \mathrm { s t a t . } ) \pm 1 . 4 6 ( \mathrm { s y s t . } ) \times 1 0 ^ { - 3 } , \nonumber
+$$
+
+where $N ^ { + + } ( N ^ { -- } )$ is the event number for $b b \to \mu ^ { + } \mu ^ { + } X ( \mu ^ { - } \mu ^ { - } X )$ . Such a large di-muon charge asymmetry has a 3.2 $\sigma$ deviation from the SM prediction $A _ { s l } ^ { b } ( \mathrm { S M } ) = ( - 2 . 3 _ { - 0 . 6 } ^ { + 0 . 5 } ) \times 1 0 ^ { - 4 }$ （2 [8] and many models have been proposed to account for this anomaly [17-20]. The CDF has also measured $A _ { s l } ^ { b } = 8 . 0 \pm 9 . 0 \pm 6 . 8 \times 1 0 ^ { - 3 }$ [21],using $1 . 6 ~ \mathrm { f b ^ { - 1 } }$ of data, which has a positive value and large uncertainties. Combining the above two results in quadrature (include the systematic uncertainty)，we have
+
+$$
+A _ { s l } ^ { b } \simeq - 8 . 5 \pm 2 . 8 \times 1 0 ^ { - 3 } \ .
+$$
+
+At the Tevatron both $B _ { d }$ and $B _ { s }$ mesons are produced, hence $A _ { s l } ^ { b }$ is related to the charge asymmetries $a _ { s l } ^ { d , s }$ m $B _ { d }$ and $B _ { s }$ decays by 2
+
+$$
+A _ { s l } ^ { b } = ( 0 . 5 0 6 \pm 0 . 0 4 3 ) a _ { s l } ^ { d } + ( 0 . 4 9 4 \pm 0 . 0 4 3 ) a _ { s l } ^ { s } ~ .
+$$
+
+New physics (NP） contributions in $B _ { d }$ mixing are strictly constrained (we will show it more explicitly in the parameter ft later),so only large NP contributions to the $B _ { s }$ mixing (comparing to the other meson mixings) are allowed. For the NP contribution, if the mixing in the rotation matrix between mass eigenstate and gauge eigenstate is not huge, then one would naturally expect the $U ( 1 ) _ { H }$ that maximizes $b - s$ mixing as in Eq. (3). Indeed, for a CKM-like rotation matrix, the gauge boson coupling matrix at the tree level in the mass basis goes like
+
+$$
+G \sim \left( \begin{array} { c c c } { { \lambda ^ { 4 } } } & { { \lambda ^ { 3 } } } & { { - \lambda } } \\ { { \lambda ^ { 3 } } } & { { - \lambda ^ { 2 } } } & { { 1 } } \\ { { - \lambda } } & { { 1 } } & { { \lambda ^ { 2 } } } \end{array} \right) \ ,
+$$
+
+where $\lambda$ is the Wolfenstein parameter [22] around the order of the Cabibbo angle ( $\lambda \simeq 0 . 1$ ） Clearly, the meson mixings between the first two generation are highly suppressed. The NP also couples to leptons. However, their contributions to the $B$ meson decay branching ratio to electron and muon are highly suppressed (although $\lambda$ should be replaced by some small mixing of the lepton rotation matrix) ³. Therefore,we focus on the phenomenology in the $B$ meson mixing and decay.
+
+The paper is organized as follows: in section I, we propose the specific model in which we consider in the paper. In Section III we show phenomenological implications of our model on flavor physics which has subsection IIA related to meson mixing and subsection IIIB related to meson decay. Section IV contains our conclusions.
+
+# II. THE MODEL
+
+The model starts with a gauged $S U ( 3 ) _ { H }$ model at extremely high energy. By taking all the fermions as 3 under $S U ( 3 ) _ { H }$ . The particle contents under $S U ( 3 ) _ { H } \times S U ( 2 ) _ { L } \times U ( 1 ) _ { Y }$ is
+
+$$
+\begin{array} { c c } { { q _ { L } : ( 3 , 2 , \displaystyle \frac { 1 } { 3 } ) , ~ u _ { R } : ( 3 , 1 , \frac { 4 } { 3 } ) , ~ d _ { R } : ( 3 , 1 , - \displaystyle \frac { 2 } { 3 } ) } } \\ { { \ell _ { L } : ( 3 , 2 , - 1 ) , ~ e _ { R } : ( 3 , 1 , - 2 ) , ~ n _ { R } : ( 3 , 1 , 0 ) } } \end{array}
+$$
+
+which is exactly vectorial and the $S U ( 3 ) _ { H }$ is therefore anomaly free symmetry. It is crucial to haverigh-andedeutrinotriplets $n _ { R } ^ { i = 1 , 2 , 3 }$ ,foraomlyei] to the Pati-Salam unification [23] may be straightforward.
+
+As we have already discussed the sextet breaking in the introduction, here we focus on the Yukawa interactions for the other SM fermions and the Dirac neutrino mass matrix. In conventional $S U ( 3 ) _ { H }$ models, in order to break the $S U ( 3 ) _ { H }$ as well as the $S U ( 2 ) _ { L } \times U ( 1 )$ one usually introduces one $H : ( 1 , 2 , 1 )$ ， four $\Phi _ { 8 } : ( 8 , 2 , 1 )$ to generate all the SM fermion mass hierarchies 4. However， the $( 8 , 2 , 1 )$ Higgs will induce large FCNC [24] if the Higgs is light. To avoid the too large FCNC problem， another proposal is to introduce $( 8 , 1 , 0 )$
+
+$$
+G \sim \left( \begin{array} { c c c } { { 1 } } & { { a \lambda ^ { 5 } } } & { { ( a - 2 ) \lambda ^ { 3 } } } \\ { { a \lambda ^ { 5 } } } & { { 1 } } & { { ( a - 1 ) \lambda ^ { 2 } } } \\ { { ( a - 2 ) \lambda ^ { 3 } } } & { { ( a - 1 ) \lambda ^ { 2 } } } & { { a } } \end{array} \right)
+$$
+
+Higgs[5].
+
+$$
+\Phi _ { 8 } ^ { i } : ( 8 , 1 , 0 ) , H : ( 1 , 2 , 1 ) \quad ( i = u , d , e , \nu )
+$$
+
+In addition, to generate effective Yukawa couplings,a new set of $S U ( 2 ) _ { L }$ singlet fermions is introduced
+
+$$
+\begin{array} { l } { { { \displaystyle U _ { L } : ( 3 , 1 , \frac { 4 } { 3 } ) , ~ D _ { L } : ( 3 , 1 , - \frac { 2 } { 3 } ) , E _ { L } : ( 3 , 1 , - 2 ) , N _ { L } : ( 3 , 1 , 0 ) } } } \\ { { { \displaystyle U _ { R } : ( 3 , 1 , \frac { 4 } { 3 } ) , ~ D _ { R } : ( 3 , 1 , - \frac { 2 } { 3 } ) , E _ { R } : ( 3 , 1 , - 2 ) , N _ { R } : ( 3 , 1 , 0 ) ~ . } } } \end{array}
+$$
+
+These singlet fermions form invariant Dirac masses and act as messengers to generate the necessary Yukawa interactions. We take the up-type quark mass matrix as an example. Since the octet Higgs is no longer $S U ( 2 ) _ { L }$ doublet, $q _ { L } \bar { u } _ { R } \Phi$ is forbidden and the up-quark Yukawa interactions only arise as
+
+$$
+U _ { L } \Phi _ { 8 } ^ { ( u ) } \bar { u } _ { R } + M ^ { U } \bar { U } _ { L } U _ { R } + q _ { L } \bar { U } _ { R } H + \lambda _ { u } q _ { L } \bar { u } _ { R } H
+$$
+
+where $q _ { L } \bar { u } _ { R } H$ is universal. After integrating out the heavy fermion fields $U _ { L }$ ， $U _ { R }$ , the effective up-quark Yukawa coupling reduce to
+
+$$
+\bar { u } _ { R } ^ { i } ( \lambda _ { u } \delta _ { i j } + ( \langle \Phi _ { 8 } ^ { ( u ) } \rangle M _ { U } ^ { - 1 } ) _ { i j } ) q _ { L } ^ { j } H .
+$$
+
+The same mechanism also applies to the mass generation of down type quarks, charged leptons as well as Dirac neutrinos. By assigning the $\langle \Phi _ { 8 } ^ { ( i ) } \rangle$ independently， the mixings and masses in different fermion sectors are completely independent for each other and one can easily accommodate hierarchies and mixings in SM fermions and the Dirac neutrinos. This also enables us to choose the Dirac neutrino mass matrix other than nearly-diagonal structure.
+
+After electroweak symmetry breaking, the effective Yukawa coupling of $\Phi _ { 8 } ^ { ( u ) }$ also arises as
+
+$$
+\langle H \rangle M _ { U } ^ { - 1 } \bar { u } _ { R } \Phi _ { 8 } ^ { ( u ) } u _ { L } \ .
+$$
+
+Then, the $\Phi _ { 8 } ^ { ( i ) }$ exchanges induce FCNC's in general. We have checked that they satisfy the strongest constraint from K-K mixing, marginally 5. However, actual effects depends on the mass spectrum of the $\Phi _ { 8 } ^ { ( i ) }$ and hence we do not discuss them in this paper.
+
+Another consequence is that both up and down quark mass matrices become Hermitian
+
+$$
+m _ { u } ^ { \dagger } = m _ { u } , m _ { d } ^ { \dagger } = m _ { d }
+$$
+
+Thus， the CP violation in strong interactions due to quark mass matrices, （204号 $\mathrm { a r g } \{ \mathrm { d e t } ( m _ { u } ) \mathrm { d e t } ( m _ { d } ) \}$ is absent at least at the tree level[5]. In addition, the Hermit mass matrices also require the rotations $U _ { L } , U _ { R }$ in the mass diagonalization $U _ { L } ^ { \dagger } m _ { u } U _ { R }$ to be equal （204号 $U _ { L } = U _ { R }$ . In this case, the horizontal gauge boson couples to vector currents of quarks and leptons. As a consequence, pseudo-scalar bosons like $B _ { s }$ or $B _ { d }$ do not decay to a pair of leptons. However,this is only the result of our specific choice of mass generation model for quarks and leptons. In the following analyses, we assume more generic rotation matrices and $U _ { R }$ and $U _ { L }$ are taken independent for each other to estimate the prediction.
+
+# III.PHENOMENOLOGICAL IMPLICATIONS INFLAVORPHYSICS
+
+The horizontal gauge interaction is real but family dependent. After the mass diagonalization, the other favor violation entries as well as new CP violation can arise. The Lagrangian of gauge interactions is
+
+$$
+\begin{array} { r l } & { - \mathcal { L } _ { H } = g _ { H } \bar { q ^ { \prime } } _ { L } T \gamma ^ { \mu } q ^ { \prime } _ { L } Z _ { \mu } ^ { \prime } + L  R } \\ & { \qquad = g _ { H } \bar { q } _ { L } ^ { i } ( V _ { L } ^ { q \dagger } T V _ { L } ^ { q } ) _ { i j } \gamma ^ { \mu } q _ { L } ^ { j } Z _ { \mu } ^ { \prime } + L  R , } \end{array}
+$$
+
+where $V _ { L } ^ { q }$ stands for the rotation for left-handed $q$ -type quarks and $T$ is the generator of $U ( 1 ) _ { H }$ interaction given in Eq. (3).
+
+Flavor changing interactions in the SM can only be measured via electroweak charged current interactions.Therefore,for the SM fermion rotation matrixes,only the left-handed ones get constrained from the CKM matrix $V _ { L } ^ { u } ( V _ { L } ^ { d } ) ^ { \dagger } = V _ { C K M }$ and one cannot determine even $V _ { L } ^ { u }$ and $V _ { L } ^ { d }$ respectively. The other rotations are completely unknown. For simplicity of the discussion here, we will assume that all magnitudes of the left-handed mixings are CKM-like but the complex phases are $\mathcal { O } ( 1 )$ and unconstrained right-handed mixings have the similar structure. Therefore, we have the mixing matrix in the mass eigenstates as
+
+$$
+( G ^ { \prime } ) _ { L / R } ^ { u / d } = ( V _ { L / R } ^ { u / d } ) ^ { \dagger } T ( V _ { L / R } ^ { u / d } )  G ^ { \prime } \sim ( \begin{array} { l l l } { { \lambda ^ { 4 } } } & { { \lambda ^ { 3 } } } & { { - \lambda } } \\ { { \lambda ^ { 3 } } } & { { - \lambda ^ { 2 } } } & { { 1 } } \\ { { - \lambda } } & { { 1 } } & { { \lambda ^ { 2 } } } \end{array} )
+$$
+
+This $U ( 1 ) _ { H }$ gauge interaction maximizes the mixing in between second and third generations. Mixing magnitude in $B _ { s }$ ， $B _ { d }$ and $K ^ { 0 }$ is at the order of $( 1 : \lambda ^ { 2 } : \lambda ^ { 6 } )$ .The $D ^ { 0 } - D ^ { 0 }$ mixing is also at the order of $\lambda ^ { 6 }$ suppression comparing with $B _ { s }$ mixing. This $U ( 1 ) _ { H }$ is consistent with the phenomenological constraints among different meson mixings. If one assume the lepton doublet and right-handed singlet rotations are the similar to the quark sector 6, one can also compute the leptonic decay of mesons. For instance, $B _ { s } \to \mu ^ { + } \mu ^ { - }$ decay partial width has a $\lambda ^ { 4 }$ suppression.
+
+# A. Meson Mixing
+
+At the energy scale $m _ { b }$ , the effective Hamiltonian responsible for neutral meson mixing (and in particular $B _ { s } - B _ { s }$ mixing) through the tree-level exchange of $Z ^ { \prime }$ is
+
+$$
+{ \mathcal { H } } = C _ { L L } ^ { i j } ( m _ { b } ) O _ { L L } ^ { i j } + C _ { R R } ^ { i j } ( m _ { b } ) O _ { R R } ^ { i j } + C _ { L R } ^ { i j } ( m _ { b } ) O _ { L R } ^ { i j } + \widetilde { C } _ { L R } ^ { i j } ( m _ { b } ) \widetilde { O } _ { L R } ^ { i j } ,
+$$
+
+where the $\Delta F = 2$ operators are given by
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { O _ { L L } ^ { i j } = \bar { q } _ { i } \gamma ^ { \mu } P _ { L } q _ { j } \bar { q } _ { i } \gamma _ { \mu } P _ { L } q _ { j } , O _ { R R } ^ { i j } = \bar { q } _ { i } \gamma ^ { \mu } P _ { R } q _ { j } \bar { q } _ { i } \gamma _ { \mu } P _ { R } q _ { j } , } } \\ { { } } & { { } } & { { O _ { L R } ^ { i j } = \bar { q } _ { i } \gamma ^ { \mu } P _ { L } q _ { j } \bar { q } _ { i } \gamma _ { \mu } P _ { R } q _ { j } , \widetilde { O } _ { L R } ^ { i j } = \bar { q } _ { i } P _ { L } q _ { j } \bar { q } _ { i } P _ { R } q _ { j } . } } \end{array}
+$$
+
+and the Wilson coefficients at $M _ { Z ^ { \prime } }$ scale are $( \widetilde { C } _ { L R } ^ { i j } ( M _ { Z ^ { \prime } } ) = 0 \$ ）
+
+$$
+C _ { L L } ^ { i j } ( M _ { Z ^ { \prime } } ) = \frac { g _ { H } ^ { 2 } } { M _ { Z ^ { \prime } } ^ { 2 } } ( G _ { L } ^ { \prime i j } ) ^ { 2 } \quad C _ { R R } ^ { i j } ( M _ { Z ^ { \prime } } ) = \frac { g _ { H } ^ { 2 } } { M _ { Z ^ { \prime } } ^ { 2 } } ( G _ { R } ^ { \prime i j } ) ^ { 2 } \quad C _ { L L } ^ { i j } ( M _ { Z ^ { \prime } } ) = \frac { g _ { H } ^ { 2 } } { M _ { Z ^ { \prime } } ^ { 2 } } ( G _ { L } ^ { \prime i j } ) ^ { 2 }
+$$
+
+where $g H$ is the horizontal gauge coupling at $M _ { Z ^ { \prime } }$ scale and $M _ { Z ^ { \prime } }$ is the horizontal gauge boson mass.
+
+In order to calculate the $B$ physics observables, one has to take into account the running effects of the four operators above. The relation between these four operators at the $M _ { Z ^ { \prime } }$ and $m _ { b }$ scale is presented in Appendix A. After one obtains the Wilson coefficients at $m _ { b }$ （204
+
+scale,by using the relevant hadronic matrix elements [39]
+
+$$
+\begin{array} { c } { { \langle B _ { q } | { \cal O } _ { L L / R R } ^ { b q } | \bar { B } _ { q } \rangle ~ { \approx } ~ \displaystyle \frac { 1 } { 3 } m _ { B _ { q } } f _ { B _ { q } } ^ { 2 } B _ { L L / R R } ^ { b q } } } \\ { { \langle B _ { q } | { \cal O } _ { L R } ^ { b q } | \bar { B } _ { q } \rangle ~ { \approx } ~ - \displaystyle \frac { 1 } { 6 } m _ { B _ { q } } f _ { B _ { q } } ^ { 2 } B _ { L R } ^ { b q } } } \\ { { \langle B _ { q } | \widetilde { { \cal O } } _ { L L } ^ { b q } | \bar { B } _ { q } \rangle ~ { \approx } ~ \displaystyle \frac { 1 } { 4 } m _ { B _ { q } } f _ { B _ { q } } ^ { 2 } \widetilde { B } _ { L R } ^ { b q } } } \end{array}
+$$
+
+Here we use $m _ { B _ { q } } ^ { 2 } / ( m _ { b } + m _ { q } ) ^ { 2 } \approx 1$ and assume $B _ { L R } ^ { b q } \simeq \widetilde { B } _ { L R } ^ { b q } \simeq B _ { R R } ^ { b q } = B _ { L L } ^ { b q } \equiv B _ { B _ { q } }$ . Then weobtain $M _ { 1 2 } ^ { q }$ （204号
+
+$$
+M _ { 1 2 } ^ { q } \equiv \langle B _ { q } | \mathcal { H } | \bar { B } _ { q } \rangle = - \frac { 1 } { 3 } f _ { B _ { q } } ^ { 2 } m _ { B _ { q } } B _ { B _ { q } } \left[ C _ { L L } ^ { b q } ( \mu ) + C _ { R R } ^ { b q } ( \mu ) - \frac { C _ { L R } ^ { b q } ( \mu ) } { 2 } + \frac { 3 \tilde { C } _ { L R } ^ { b q } ( \mu ) } { 4 } \right] \ .
+$$
+
+From the discussion above, the flavor off diagonal coupling between the horizontal gauge boson $Z ^ { \prime }$ and the first two generation quarks are highly suppressed (For the CKM like rotation matrix, it is at least $\lambda ^ { 3 }$ suppressed), so we will neglect the new physics contributions to the $K - K$ 7 and $D - D$ mixing. The $Z ^ { \prime }$ $b$ $s$ and $Z ^ { \prime }$ -b $d$ couplings,on the other hand, is either unsuppressed or $\lambda$ suppressed, hence we expect large new physics contributions to modify the magnitudes andthephaseof $M _ { 1 2 } ^ { d / s }$ , where $M _ { 1 2 } ^ { d / s }$ are off-iagonal mixing matrix elements in Eq.23. We can parametrize such effects by 8
+
+$$
+M _ { 1 2 } ^ { d / s } \equiv ( M _ { 1 2 } ^ { d / s } ) ^ { \mathrm { S M } } \Delta _ { d / s } \qquad \Delta _ { s } \equiv | \Delta _ { d / s } | e ^ { i \phi _ { d , s } ^ { \Delta } } .
+$$
+
+The experimental measured observables are summarized as follows, $\Delta m _ { d / s }$ and $\Delta \Gamma _ { d / s }$ （20 measures the mass and decay width difference between the heavy and light mass eigenstates of the $B _ { d / s }$ mesons 9. $a _ { S L } ^ { d / s }$ is thecharge asmetry inleptoic $B _ { d / s }$ decays. $\beta _ { d }$ α $\beta _ { s }$ measure the time-dependent CP violating phases in the hadronic $B$ decay channel $B _ { d } $
+
+![](images/cce9da6083d398881965a91dcdc6793926f021961021e9d0df4956f79ec3ec41.jpg)  
+FIG. 1: The $\mathrm { A b s } ( G _ { b s } ^ { \prime } )$ versus $\mathrm { A r g } ( G _ { b s } ^ { \prime } )$ region plot for $M _ { Z ^ { \prime } } = 1$ TeV and $g _ { H } = 0 . 0 2$ . In the left panel， we choose $\mathrm { A b s } ( G _ { b d } ^ { \prime } ) / \mathrm { A b s } ( G _ { b s } ^ { \prime } ) = 0 . 1$ and $\mathrm { A r g } ( G _ { b d } ^ { \prime } ) = \mathrm { A r g } ( G _ { b s } ^ { \prime } )$ while in the right panel, we choose $\mathrm { A b s } ( G _ { b d } ^ { \prime } ) / \mathrm { A b s } ( G _ { b s } ^ { \prime } ) = 0 . 0 5$ and $\mathrm { A r g } ( G _ { b d } ^ { \prime } ) = \mathrm { A r g } ( G _ { b s } ^ { \prime } )$ . The magenta, green, and yellow region with dashed, dot-dashed and dotted boundary stands for the alowed parameter space at 90% C. L. for $\Delta m _ { s / d }$ ， $\Delta \Gamma _ { s }$ and $S _ { \psi K } / \beta _ { s }$
+
+![](images/08ad7bc6f35cf1173d33188cfd4ca2998e0f11472becf2aa054890d2975a7f42.jpg)  
+FIG.2: The similar plots as FIG.1 but combine both the $B _ { d }$ and $B _ { s }$ experimental constraints. The small overlapped region labeled with “All” is the parameter space that fits for allexperimental constraints at 90% C.L.
+
+$J / \psi \ K _ { S }$ or $B _ { s } \to J / \psi \phi$ . They are shifted by the CPV phases in $B _ { d }$ or $B _ { s }$ mixing.
+
+$$
+\begin{array} { r l } & { \Delta m _ { d / s } = \Delta m _ { d / s } ^ { \mathrm { S M } }  \Delta _ { d / s }  , } \\ & { \quad \Delta \Gamma _ { s } = \Delta \Gamma _ { s } ^ { \mathrm { S M } } \cos ( \phi _ { s } ^ { \mathrm { S M } } + \phi _ { s } ^ { \Delta } ) , } \\ & { \quad a _ { \mathrm { S L } } ^ { d / s } = \frac { \Delta \Gamma _ { d / s } ^ { \mathrm { S M } } } { \Delta m _ { d / s } ^ { \mathrm { S M } } } \frac { \sin ( \phi _ { d / s } ^ { \mathrm { S M } } + \phi _ { d / s } ^ { \Delta } ) } {  \Delta _ { d / s }  } , } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad   ( \beta _ { d } + \phi _ { d } ^ { \Delta } ) ,  } \\ & { \quad \quad \quad \quad 2 \beta _ { s } ^ { \mathrm { E x p } } = 2 \beta _ { s } - \phi _ { s } ^ { \Delta } . } \end{array}
+$$
+
+The theoretical inputs are listed in the Table I. All the decay constants and bag parameters are used from Ref. [37]. Notice that we use the calculations for $\Delta m _ { B _ { s } } = 2 | M _ { 1 2 } ^ { s } | ^ { S M }$ （204 $\Delta m _ { B _ { s } } = 2 | M _ { 1 2 } ^ { s } | ^ { S M }$ and $\phi ^ { s }$ in Ref. [36] which uses the more recent decay constants and bag parameters with much smaller uncertainties. All of the rest SM inputs are either from [8] or [6]
+
+All experimental measurements which are used to compare with our model outputs are listed in Table II. For the like-sign dimuon charge asymmetry, we use $A _ { S L } ^ { b } \simeq - ( 8 . 5 \pm 2 . 8 ) \times$ $1 0 ^ { - 3 }$ which combine the DD measurements with the CDF measurements. For $\beta _ { s } ^ { \mathrm { E x p } }$ and $\Gamma _ { s }$ （204号 measured by both CDF and D $\varnothing$ [12-15], we use the combined results with each measurements in 2.8 fb $^ - 1$ [14] where do not add the most recent CDF results [15] since it is difficult for us to extrapolated their contributions between $2 . 8 \mathrm { ~ - ~ } 5 . 2 ~ \mathrm { f b ^ { - 1 } }$ . Nevertheless, we find that our conclusion in the paper does not change if we use the combined results in Ref. [20] 10.
+
+TABLE I: The theoretical input parameters [8]   
+
+<html><body><table><tr><td>βd</td><td>βs</td><td>mBd</td><td>mBs</td></tr><tr><td>0.38 ± 0.01 [9]</td><td>0.018 ± 0.001</td><td>5.28 GeV</td><td>5.37 GeV</td></tr><tr><td>fBdBd</td><td>fB√Bs</td><td>fBd</td><td>fBs</td></tr><tr><td>(216 ± 15) MeV</td><td>(275±13) MeV</td><td>192.8 ± 9.9 MeV</td><td>238.8± 9.5MeV</td></tr><tr><td>SM</td><td>SM</td><td>(△mBd)SM</td><td>(△mBs)SM</td></tr><tr><td>-0.091-0.026</td><td>(4.2 ± 1.4) × 10-3</td><td>0.53 ± 0.12 ps-1</td><td>19.30 ± 2.2 ps-1</td></tr><tr><td>(△Γd)Exp</td><td>(△Γs)Exp</td><td></td><td></td></tr><tr><td>(2.67+0.58) × 10-3 ps-1</td><td>0.098 ± 0.024 ps-1</td><td></td><td></td></tr></table></body></html>
+
+The experimental constraints on the parameter space of our model are presented in Fig 1 and 2. The parameter $\mathrm { A b s } ( G _ { b s } ^ { \prime } )$ and $\mathrm { A r g } ( G _ { b s } ^ { \prime } )$ are quite similar as the parameter $h _ { s } ^ { 2 }$ and $\sigma _ { s }$ in Ref. [25] except for a overall factor with very small phase related to the $( M _ { 1 2 } ^ { s } ) ^ { \mathrm { S M } }$ , therefore our results here can be used as the model independent analysis after some re-parametrization. For illustration, we choose parameter for $B _ { d }$ couplings A $\mathrm { b s } ( G _ { b d } ^ { \prime } ) = \mathrm { A b s } ( G _ { b s } ^ { \prime } ) / 1 0$ , Arg(Gbd) = （204 $\mathrm { A r g } ( G _ { b s } ^ { \prime } )$ in which there are sizable contribution to $A _ { s l } ^ { b }$ from $B _ { d }$ and $\mathrm { A b s } ( G _ { b d } ^ { \prime } ) = \mathrm { A b s } ( G _ { b s } ^ { \prime } ) / 2 0$ ， （204号 $\mathrm { A r g } ( G _ { b d } ^ { \prime } ) = \mathrm { A r g } ( G _ { b s } ^ { \prime } )$ in which the $a _ { s l } ^ { d }$ contribution to $A _ { s l } ^ { b }$ is negligible. In contrast to the paper [18], it is clearly that from the upper right plot in FIG 1, there is no region allowed by all experimental constraints within the $1 ~ \sigma$ 11． The best fitted region for the phase （204号 $\mathrm { A r g } ( G _ { b s } ^ { \prime } ) \subset ( \pi / 2 , 3 \pi / 4 )$ are quite consistent with the one found in Ref. [25]. However, since the Ref. [25] essentially marginalize over $\Gamma _ { q } ^ { \mathrm { 1 2 } }$ in the range $0 - 0 . 2 5 ~ \mathrm { p s } ^ { - 1 }$ and use the best fit points in which $\Delta \Gamma _ { s }$ is about 2.5 times larger than the prediction, the goodness of fit in our result here is reduced significantly comparing to the one in Ref. [25]
+
+TABLE II: The experimental data.   
+
+<html><body><table><tr><td>s/s</td><td>（β)Exp</td><td>(△mBd)Exp</td><td>(△mBs)Exp</td><td>(△rs)Exp</td></tr><tr><td>0.655±0.024 [10]</td><td>0.44+8.17</td><td>0.507 ±0.005 ps-1 17.77 ± 0.12 ps-1</td><td></td><td>0.154±0054 pg-1</td></tr><tr><td>A</td><td></td><td>BExP(B；→ e+e−) BExP(B;→ μ+μ-) BExP(B；→ e±μ+) BExP(B°→ μ±T+)</td><td></td><td></td></tr><tr><td>-(8.5±2.8)×10-3 ps-1</td><td>< 5.4 × 10-5</td><td><4.7×10-8</td><td>< 6.1 × 10-6</td><td><3.8 × 10-5</td></tr></table></body></html>
+
+# B. Meson Decays
+
+The new horizontal gauge boson can also mediate meson hadronic decay or leptonic decays at tree level. In this session， we choose to discuss the two leading processes, $b $ （204 $s c c$ and $b \to s \mu ^ { \pm } \tau ^ { \mp }$ respectively to illustrate how meson decays constrain the horizontal gauge interaction. The other transitions are always with additional factors of power of $\lambda$ （20 suppressions.
+
+The effective $\Delta F = 1$ Hamiltonian responsible for neutral meson decay is
+
+$$
+\mathcal { H } _ { \mathrm { e f f } } ^ { \Delta F = 1 } = C _ { 3 } Q _ { 3 } + C _ { 5 } Q _ { 5 } + \tilde { C } _ { 3 } \tilde { Q } _ { 3 } + \tilde { C } _ { 5 } \tilde { Q } _ { 5 }
+$$
+
+and the leptonic decay like $B _ { d , s } ^ { 0 }  \ell ^ { + } \ell ^ { - }$
+
+$$
+\mathcal { H } _ { \mathrm { e f f } } ^ { \ell } = C _ { 9 } Q _ { 9 } + C _ { 1 0 } Q _ { 1 0 } + \tilde { C } _ { 9 } \tilde { Q } _ { 9 } + \tilde { C } _ { 1 0 } \tilde { Q } _ { 1 0 }
+$$
+
+where $i , j = e , \mu , \tau$ as lepton flavor indices.
+
+In the case of $b \ \to \ s c { \bar { c } }$ transition，SM contribution at tree level is induced via weak charged current with a CKM factor $V _ { b c } V _ { s c } ^ { * } \sim \lambda ^ { 2 }$ . Reading from the effective couplings, the horizontal gauge boson mediated $b  s c \bar { c }$ has a factor of $G _ { b s } G _ { c c } \sim \lambda ^ { 2 }$ . The SM and horizontal gauge interaction contributions are at the same order of $\lambda$ and the one can simply compare their couplings and gauge boson masses to estimate the ratio. As we discuss in previous section， the $U ( 1 ) _ { H }$ is broken at $\mathcal { O } ( \mathrm { T e V } )$ which results in a suppression due to （204号 $( g _ { H } / g ) ^ { 4 } ( m _ { W } ^ { 4 } / M _ { Z ^ { \prime } } ^ { 4 } ) \sim 1 0 ^ { - 8 }$ . Consequently, the contribution to $b \to s c \bar { c }$ from new horizontal gauge boson is completely negligible. In the case of neutral meson mixing， SM leading contribution is from box-diagram while the horizontal gauge boson contribution is at tree level.Therefore, even if the new horizontal gauge boson is of order TeV, it is still possible to change the $\Delta M$ significantly. For decay process, if there exists SM tree level, the above argument then always applies. We won't discuss any constraint from such decays.
+
+Since the horizontal gauge boson also couples to the leptons, there is again tree level contribution to the meson leptonic decay. Within the framework of SM, $B _ { s }$ pure leptonic decays are realized via the electroweak penguin diagrams with $Z / \gamma ^ { * } \to \ell ^ { + } \ell ^ { - }$ and therefore, there is no lepton flavor violation at all. The constraints on leptonic decay are mostly on leptons directly decaying from $B$ meson. If there exists a $\tau$ in the final state, $\tau$ decay will complicate the search due to the $D ^ { \pm }$ decays. Therefore, the leading constraints are
+
+$$
+\begin{array} { c } { { \mathrm { B r } ( B _ { s } \to \mu ^ { + } \mu ^ { - } ) < 4 . 7 \times 1 0 ^ { - 8 } } } \\ { { { } } } \\ { { \mathrm { B r } ( B _ { s } \to e ^ { + } e ^ { - } ) < 5 . 4 \times 1 0 ^ { - 5 } } } \\ { { { } } } \\ { { \mathrm { B r } ( B _ { s } \to e ^ { \pm } \mu ^ { \mp } ) < 6 . 1 \times 1 0 ^ { - 6 } } } \end{array}
+$$
+
+In our model, the horizontal gauge boson has maximal coupling to $b , s$ and $\mu , \tau$ and the leading leptonic decay constraint is from $B _ { s } \to \mu ^ { \pm } \tau ^ { \mp }$ . But as we mentioned, $B _ { s } \to \mu ^ { \pm } \tau ^ { \mp }$ （204号 does not exist in SM physics at leading order and it is only from the new physics contribution. （204号 ${ \mathrm { U s i n g } } \langle 0 \mid \bar { s } \gamma ^ { \mu } \gamma _ { 5 } b \mid \bar { B } ^ { 0 } \rangle = \ i f _ { B } p _ { B } ^ { \mu }$ , one can compute the decay BR as
+
+$$
+\mathrm { B r } ( B _ { s } \to \mu ^ { \pm } \tau ^ { \mp } ) = \tau _ { B } \Gamma ( B ^ { 0 } \to \mu ^ { \pm } \tau ^ { \mp } ) = f _ { B _ { s } } ^ { 2 } \tau _ { B } \frac { m _ { B } ^ { 3 } } { 6 4 \pi } \biggl ( 1 - \frac { m _ { \tau } ^ { 2 } } { m _ { B } ^ { 2 } } \biggr ) ^ { 3 } \biggl ( \frac { m _ { \tau } } { m _ { B } } \biggr ) ^ { 2 } C _ { 9 , 1 0 } ^ { \mu \tau \ 2 }
+$$
+
+where the Wilson coefficients $C _ { 9 , 1 0 } = g _ { H } ^ { 2 } ( m _ { b } ) / m _ { Z ^ { \prime } } ^ { 2 }$ . To estimate the decay BR,we take （204号 $M _ { Z ^ { \prime } } \simeq 1 0 ^ { 3 }$ GeV, $g _ { H } \simeq 0 . 0 2$ and substitute $m _ { b } = 4 . 7$ GeV, $m _ { \tau } = 1 . 7 7 7$ GeV, $f _ { B _ { s } } = 2 3 0$ MeV, （204 $m _ { B } = 5 . 3$ GeV, $\tau _ { B } = 1 . 6$ ps,we obtain
+
+$$
+\mathrm { B r } ( B _ { s } \to \mu ^ { \pm } \tau ^ { \mp } ) \simeq 1 . 2 \times 1 0 ^ { - 9 } .
+$$
+
+12 The only relevant search is from CLEO as of $B _ { d } \to \mu ^ { \pm } \tau ^ { \mp }$ [30],
+
+$$
+\mathrm { B r } ( B _ { d } \to \mu ^ { \pm } \tau ^ { \mp } ) < 3 . 8 \times 1 0 ^ { - 5 } ~ .
+$$
+
+Due to horizontal gauge boson given， the $B _ { d }$ decay partial width has an additional $\lambda ^ { 2 }$ （204号 suppression so the bound is prediction well below the experimental bound. One can also
+
+estimate the $B _ { s } \to \mu ^ { + } \mu ^ { - }$ using the above result. The $B _ { s } \to \mu ^ { + } \mu ^ { - }$ has a factor of $\lambda ^ { 4 }$ （204号 suppression then the prediction is about two orders lower than the current experimental bound.
+
+The other possble rare decay which can be induced by the horizontal gauge boson is the FCNC decay in top quark, for instance, $t \to c / u + \mu ^ { \pm } \tau ^ { \mp }$ . However, given the large $M _ { Z ^ { \prime } }$ ，the three body decay is highly suppressed.
+
+$$
+\Gamma ( t  c / u + \mu ^ { \pm } \tau ^ { \mp } ) = \frac { G _ { F } ^ { 2 } m _ { t } ^ { 5 } } { 1 9 2 \pi ^ { 3 } } ( \frac { m _ { W } } { M _ { Z ^ { \prime } } } ) ^ { 4 } ( \frac { g _ { H } } { g } ) ^ { 4 } \sim 1 . 7 \times 1 0 ^ { - 1 3 }
+$$
+
+Even at the top factory like Large Hadron Collider, it is impossible to observe such rare decay event.
+
+# IV. CONCLUSION
+
+The dimuon asymmetry reported by D0 Collaboration is much larger than the SM prediction which suggests new sources for CP violation. In this paper, we propose the possibility to explain such an anomaly through a tree level exchange of a gauged $U ( 1 ) _ { H }$ horizontal symmetry in $B$ meson mixing. The $U ( 1 ) _ { H }$ horizontal symmetry is a remnant symmetry of （204号 $S U ( 3 ) _ { H }$ broken at $M _ { R } \sim \mathcal { O } ( 1 0 ^ { 1 4 } )$ GeV through a sextet scalar which gives the neutrino mass. Such a $U ( 1 ) _ { H }$ gauge boson only couples to $b - s$ and $\mu - \tau$ in the gauge eigenstate which suppresses all other dangerous meson mixings and $B$ meson decays after the flavor rotation. For a general flavor rotation matrix we consider there is a parameter region around the phase $\mathrm { A r g } ( G _ { b s } ^ { \prime } ) \subset ( \pi / 2 , 3 \pi / 4 )$ which fits the data at 90% C.L. For the $B$ decay, the dominate enhanced channel is the $B _ { s } \to \mu ^ { \pm } \tau ^ { \mp }$ . Nevertheless, such a enhanced decay channel is still one order of magnitude smaller than the current experimental bound.
+
+# V. ACKNOWLEDGEMENTS
+
+We would like to thank Tao Liu, Hitoshi Murayama, Bai Yang and Guohuai Zhu for useful discussions. The work is partially supported by the World Premier International Research Center Initiative (WPI initiative) MEXT, Japan. S.C.P., J.S.and K.W. are also supported by the Grant-in-Aid for scientific research (Young Scientists (B) 21740172), (Young Scientists (B) 21740169) and (Young Scientists (B) 22740143) from JSPS, respectively. J.S. would like to acknowledge the hospitality of Institute of Nuclear, Particle, Astronomy and Cosmology (INPAC), Shanghai Jiao Tong University while the work was initiated.
+
+# Appendix A: RG Running of the $\Delta B = 2$ Operators
+
+In the previous section, the Wilson coeffcients are given at the $M _ { S }$ scale while to calculate the physics processes involving low energy mesons, one will need to calculate relevant Wilson coefficients at the low energy scale. The running contains two steps,the first step is from $M _ { Z ^ { \prime } }$ scale to $m _ { t }$ where six flavors contribute to the running of $\alpha _ { s }$ , the second step is from $m _ { t }$ （204号 to $m _ { b }$ ， where only five flavors contribute. We summarize the running effects of the relevant （204号 $\Delta F = 2$ operators below [39].
+
+The operators belonging to the LL/RR, LR sectors read
+
+$$
+\begin{array} { r l } & { Q _ { L L } = ( \bar { s } ^ { \alpha } \gamma _ { \mu } P _ { L } b ^ { \alpha } ) ( \bar { s } ^ { \beta } \gamma ^ { \mu } P _ { L } b ^ { \beta } ) , } \\ & { Q _ { R R } = ( \bar { s } ^ { \alpha } \gamma _ { \mu } P _ { L } b ^ { \alpha } ) ( \bar { s } ^ { \beta } \gamma ^ { \mu } P _ { L } b ^ { \beta } ) , } \\ & { Q _ { L R } = ( \bar { s } ^ { \alpha } \gamma _ { \mu } P _ { L } b ^ { \alpha } ) ( \bar { s } ^ { \beta } \gamma ^ { \mu } P _ { R } b ^ { \beta } ) . } \\ & { \tilde { Q } _ { L R } = ( \bar { s } ^ { \alpha } P _ { L } b ^ { \alpha } ) ( \bar { s } ^ { \beta } P _ { R } b ^ { \beta } ) . } \end{array}
+$$
+
+$$
+\begin{array} { c } { { C _ { L L } ( \mu _ { b } ) ~ = ~ [ \eta ( \mu _ { b } ) ] C _ { L L } ( \mu _ { t } ) , } } \\ { { C _ { R R } ( \mu _ { b } ) ~ = ~ [ \eta ( \mu _ { b } ) ] C _ { R R } ( \mu _ { t } ) , } } \\ { { \left( C _ { L R } ( \mu _ { b } ) \right) ~ = ~ \left( \begin{array} { l l } { { \left[ \eta _ { 1 1 } ( \mu _ { b } ) \right] ~ \left[ \eta _ { 1 2 } ( \mu _ { b } ) \right] } } \\ { { \left[ \eta _ { 2 1 } ( \mu _ { b } ) \right] ~ \left[ \eta _ { 2 2 } ( \mu _ { b } ) \right] } } \end{array} \right) \cdot \left( C _ { L R } ( \mu _ { t } ) \right) } } \end{array}
+$$
+
+The variables $\eta _ { i }$ is defined as ratio between strong coupling constant at different scales. Given the $U ( 1 ) _ { H }$ gauge boson is around 1O TeV, we have two different running of $\alpha _ { s }$ taking into account the threshold correction due to top quark. For the running between the $B$ （20 physics scale and top quark, we have
+
+$$
+\eta _ { 5 } \equiv \frac { \alpha _ { s } ^ { ( 5 ) } ( \mu _ { t } ) } { \alpha _ { s } ^ { ( 5 ) } ( \mu _ { b } ) }
+$$
+
+For the explicit form of $\eta$ ，we list both the expression at the LO (with subscript (O)） and
+
+NLO (with subscript (1))
+
+$$
+\begin{array} { r l } & { \quad \quad \forall ^ { \mathrm { S C } } ( p _ { \mathrm { S } } ^ { \prime } ) = - \frac { \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } \lambda _ { \mathrm { S } } } { \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } } , } \\ & { \quad \quad \forall ^ { \mathrm { S T } } ( p _ { \mathrm { S } } ^ { \prime } ) = - 1 6 ^ { \mathrm { T } } \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } ( 1 \quad \forall \mathrm { S } ) \ : \ : \ : \ : \forall ^ { \mathrm { S G } } \ : , } \\ & { \quad \quad \forall ^ { \mathrm { S G } } ( p _ { \mathrm { S } } ^ { \prime } ) = \frac { \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } \lambda _ { \mathrm { S } } } { \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } \lambda _ { \mathrm { S } } ^ { \mathrm { C D } } } , } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad }  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad }  \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \frac { \lambda _ { \mathrm { S } } ^ { \mathrm { S C } } } { \lambda _ { \mathrm { S } } ^ { \mathrm { S C } } \lambda _ { \mathrm { S } } ^ { \mathrm { S D } } } ( p _ { \mathrm { S } } ^ { \prime } ) = \frac { \lambda _ { \mathrm { S } } ^ { \mathrm { S G } } \lambda _ { \mathrm { S } } ^ { \mathrm { S G } } } { \lambda _ { \mathrm { S } } ^ { \mathrm { S G } } \lambda _ { \mathrm { S } } ^ { \mathrm { S G } } } , } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ & { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \times \quad \quad \quad \quad \quad \quad \quad \quad \times \quad } \\ &  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \times \quad \mathrm { S G } ( p _ { \mathrm { S } } ^ { \prime } ) = \frac  \lambda _  \end{array}
+$$
+
+Similarly, for the running between the top quark mass scale and the horizontal gauge boson scale, one can replace all the $\mu _ { b } , \mu _ { t }$ by $\mu _ { t }$ ， $\mu _ { M _ { Z ^ { \prime } } }$ in Eq. (34), where all the ns are
+
+$$
+\begin{array} { r l } & { \mathcal { N } ^ { 0 , \{ i \} } ( \rho _ { 0 } ) = \ b \delta ^ { ( 2 ) } , } \\ & { \mathcal { N } ^ { 1 1 } ( \rho _ { 1 } ) = \ \mathrm { i } \lambda ^ { ( 2 ) } I \widetilde { \eta } ( \mathrm { I } ^ { ( 2 ) } ( 1 - \mathrm { i } \lambda ) \eta \widetilde { \eta } \widetilde { \eta } ^ { \mathrm { i } 2 } , } \\ & { \mathcal { N } ^ { 1 1 } ( \rho _ { 0 } ) = \ \mathrm { i } \lambda ^ { ( 2 ) / 2 0 } , } \\ & { \mathcal { N } ^ { 1 2 } ( \rho _ { 0 } ) = \ - \ \partial _ { \eta } ^ { ( 2 ) / 2 1 } , } \\ & { \mathcal { N } ^ { 1 2 } ( \rho _ { 0 } ) = \ \mathrm { i } \lambda ^ { ( 2 ) / 2 0 } , } \\ & { \mathcal { N } ^ { 2 1 } ( \rho _ { 0 } ) = \ ( \partial _ { \eta } \widetilde { \eta } ^ { \mathrm { i } 2 } ) ^ { 2 } , } \\ & { \mathcal { N } ^ { 3 2 } ( \rho _ { 0 } ) = \ ( \partial _ { \eta } \widetilde { \eta } ^ { \mathrm { i } 2 } ) ^ { 2 } , } \\ & { \mathcal { N } ^ { 3 3 } ( \rho _ { 0 } ) = \ \ \mathrm { i } \lambda ^ { ( 2 ) / 2 1 } , } \\ & { \mathcal { N } ^ { 1 1 } ( \rho _ { 0 } ) = \ 0 . 9 2 2 \ \mathrm { i } \lambda ^ { ( 3 ) / 2 1 } + \gamma \widetilde { \eta } ^ { \mathrm { i } 2 2 1 } ( - 2 2 1 \lambda ^ { ( 2 ) / 2 1 } + 1 2 9 7 \widetilde { \eta } \rho _ { 0 } ) , } \\ & { \mathcal { N } ^ { 1 2 } ( \rho _ { 0 } ) = \ - 1 . 8 8 8 \bigotimes _ { 0 } ^ { ( 2 ) / 2 1 } - \gamma \widetilde { \eta } ^ { \mathrm { i } 2 4 } \big \rangle , } \\ & { \mathcal { N } ^ { 2 1 } ( \rho _ { 0 } ) = \ - \ 0 . 9 2 1 \lambda ^ { ( 4 ) / 3 } + \ \mathrm { i } \lambda ^ { ( 4 ) / 3 / 2 1 } \rho _ { 0 } ^ { ( 3 ) } = \ \mathrm { i } \lambda ^ { ( 4 ) / 4 } , } \\ & { \mathcal { N } ^ { 1 3 } ( \rho _ { 0 } ) = \ \mathrm { i } \lambda ^ { ( 2 ) / 2 1 } , } \\ &  \mathcal { N } ^ { 1 3 } ( \rho _ { 0 } ) = \ \mathrm { i } \lambda ^ { ( 2 ) / 2 1 } \rho _ { 0 } ^ { ( 3 ) } = \ \mathrm { i } \lambda ^ { ( 2 ) / 2 1 } + \mathrm { i } \lambda ^ { ( 2 ) / 2 1 } ( - 6 4 0 \mathrm { i } \lambda ^ { ( 3 ) } + 1 5 7 4 1 \widetilde { \eta } \rho \end{array}
+$$
+
+and
+
+$$
+\eta _ { 6 } \equiv { \frac { \alpha _ { s } ^ { ( 6 ) } ( \mu _ { h } ) } { \alpha _ { s } ^ { ( 6 ) } ( \mu _ { t } ) } } \ .
+$$
+
+[1] T. Maehara and T. Yanagida, Prog. Theor. Phys. 60,822 (1978). T. Maehara and T. Yanagida, Prog. Theor.Phys.61,1434 (1979).   
+[2] F. Wilczek and A. Zee, Phys. Rev. Lett. 42, 421 (1979).   
+[3] T. Yanagida, Phys. Rev. D 20, 2986 (1979).   
+[4] T.Yanagida, in Proc. of the Workshop on ”The Unified Theory and Baryon Number in the Universe”, Tsukuba, Japan (1979) p.95; M. Gell-Mann, P. Ramond and R. Slansky, in Supergravity, eds. P. van Nieuwenhuizen et al., (North-Hollnd,1979),p. 315. P. Minkowski, Phys. Lett.B 67(1977) 421.   
+[5] A. Masiero and T. Yanagida, arXiv:hep-ph/9812225.   
+[6] C. Amsler et al. [Particle Data Group], Phys. Lett. B667,1 (2008).   
+[7] V. M. Abazov et al. [The Dβ Collaboration], arXiv:1005.2757 [hep-ex].   
+[8] A. Lenz and U. Nierste, JHEP 0706, 072 (2007) [arXiv:hep-ph/0612167].   
+[9] M. Bona et al., arXiv:0906.0953 [hep-ph].   
+[10] E. Barberio et al. [Heavy Flavor Averaging Group], arXiv:0808.1297.   
+[11] V. M. Abazov et al. [D0 Collaboration], arXiv:0904.3907.   
+[12] V. M. Abazov et al.[D0 Collaboration],Phys.Rev.Lett.101,241801(2008)[arXiv:0802.2255]; DD Note 5933-CONF， http://www-d0.fnal.gov/Run2Physics/Ww/results/prelim/B/ B58/.   
+[13] T. Aaltonen et al. [CDF Collaboration]， CDF Public Note 9458， August 7， 2008, http://www-cdf .fnal.gov/physics/new/bottom/080724.blessed-tagged_BsJPsiPhi_ update_prelim/public_note.pdf.   
+[14] CDF and D0 Collaborations， CDF note 9787， D0 Note 5928-CONF， http: //www-cdf.fnal.gov/physics/new/bottom/090721.blessed-betas_combination2.8/ DONote5928_CDFNote9787.pdf.   
+[15] L.Oakes (CDF Collaboration),talk at FPCP 2010,May 25-29, Torino,Italy, http://agenda. infn.it/getFile.py/access?contribId=12&resId $\ c =$ O&materialId $\ c =$ slides&confId=2635   
+[16] M. Kobayashi and T. Maskawa, Prog. Theor. Phys. 49, 652 (1973).   
+[17] A.Dighe,A. Kundu and S. Nandi， Phys. Rev.D 82，031502 (2010) [arXiv:1005.4051 [hep-phl. B.A. Dobrescu,P. J. Fox and A. Martin, Phys. Rev. Lett.105,041801 (2010) [arXiv:1005.4238 [hep-ph]]. C. H. Chen and G. Faisel, arXiv:1005.4582 [hep-ph]. C.W. Bauer and N. D. Dunn, arXiv:1006.1629 [hep-ph]. D. Choudhury and D. K. Ghosh,arXiv:1006.2171 [hep-ph]. J. K. Parry, arXiv:1006.5331 [hep-ph]. S. F. King,arXiv:1006.5895 [hep-ph].   
+[18] N. G. Deshpande, X. G. He and G. Valencia, arXiv:1006.1682 [hep-ph].   
+[19] C. H. Chen, C. Q. Geng and W. Wang,arXiv:1006.5216 [hep-ph].   
+[20] Y. Bai and A. E. Nelson, arXiv:1007.0596 [hep-ph].   
+[21] CDF Collboration， Measurement of CP asymmetry in semileptonic B decays， Note 9015, Oct. 2007.   
+[22] L. Wolfenstein, Phys. Rev. Lett. 51, 1945 (1983).   
+[23] J. C. Pati and A. Salam, Phys. Rev.D 10, 275 (1974) [Erratum-ibid. D 11, 703 (1975)].   
+[24] S.L. Glashow and S. Weinberg, Phys. Rev. D 15, 1958 (1977).   
+[25] Z. Ligeti, M. Papucci, G. Perez and J. Zupan,arXiv:1006.0432 [hep-ph].   
+[26] V. Barger, L. L. Everett, J. Jiang, P. Langacker, T. Liu and C. E. M. Wagner, JHEP 0912, 048(2009) [arXiv:0906.3745 [hep-phl]. V. Barger, L.L. Everett, J. Jiang, P. Langacker,T.Liu and C. E. M. Wagner, JHEP 0912, 048 (2009) [arXiv:0906.3745 [hep-ph].   
+[27] G. Cacciapaglia, C. Csaki, J. Galloway, G. Marandella, J. Terning and A. Weiler, JHEP 0804, 006 （2008）[arXiv:0709.1714 [hep-ph]].   
+[28] M. Bona et al.[UTft Collaboration], JHEP 0803,049 (2008) [arXiv:0707.0636 [hep-ph].   
+[29] E. Barberio et al. [Heavy Flavor Averaging Group], arXiv:0808.1297 [hep-ex].   
+[30] J. E. Duboscq,Nucl. Phys. Proc. Suppl. 144, 265 (2005) [arXiv:hep-ex/0412022].   
+[31] G. Ecker and W. Grimus, Z. Phys. C 30, 293 (1986).   
+[32] V. Barger， C. W. Chiang, P. Langacker and H. S. Lee,Phys. Lett.B 580,186 (2004) [arXiv:hep-ph/0310073].   
+[33] J. Charles et al. [CKMfitter Group],Eur. Phys. J. C 41,1 (2005)[arXiv:hep-ph/0406184]. Updated results used in this paper are from htp://ckmfitter.in2p3.fr/ “Results as of FPCP 2006, Vancouver, Canada.   
+[34] E. Barberio et al. [The Heavy Flavor Averaging Group], arXiv:hep-ex/0603003.   
+[35] G.Buchalla, A. J. Buras and M. E.Lautenbacher, Rev. Mod. Phys.68,1125 (1996)[arXiv:hepph/9512380].   
+[36] C. W. Bauer and N. D. Dunn, arXiv:1006.1629 [hep-ph].   
+[37] J. Laiho, E. Lunghi and R. S. Van de Water, Phys. Rev. D 81, 034503 (2010) [arXiv:0910.2928
+
+[hep-ph]]. For a web version, see www.latticeaverage.org [38] A. J. Buras,arXiv:hep-ph/9806471 [39] A. J. Buras,S. Jager and J. Urban,Nucl. Phys. B 605,600 (2001) [arXiv:hep-ph/0102316].

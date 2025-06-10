@@ -1,0 +1,119 @@
+# 基础研究
+
+# 天门冬酰胺酶自组装空心纳米囊的药代动力学及生物等效性
+
+晏子俊，谢江川，何丹，胡雪原，张景勍重庆医科大学药学院重庆高校药物工程研究中心，重庆400016摘要：目的 研究载带天门冬酰胺酶(AN)的自组装透明质酸-聚乙二醇(HA-g-PEG)/磺丁基-β-环糊精(S-CD)纳米囊(AHSPs)在雄性SD大鼠体内的药代动力学和生物等效性。方法考察了AHSPs的透射电镜、粒径和Zeta电位，并分别测定大鼠静脉给予AHSPs和游离AN后,不同时间点大鼠血浆样品中AN的活性。采用DAS 2.1.1软件计算药动学参数,对AHSPs和游离AN进行生物等效性评价。结果 经计算,AHSPs的平均粒径为 $4 1 3 . 8 0 { \pm } 1 0 . 9 7 \ : \mathrm { n m }$ ,Zeta电位为 $2 0 . 3 7 { \pm } 2 . 3 8 ~ \mathrm { m V _ { \mathrm { o } } }$ AHSPs和游离AN的主要药动学参数 $\mathrm { A U C } _ { ( 0 \sim 4 8 \mathrm { h } ) }$ 分别为 $1 3 7 . 3 4 { \pm } 1 . 8 2 \ \mathrm { U / m L }$ 和 $4 6 . 3 8 { \pm } 1 . 9 8 ~ \mathrm { U / m L }$ $\mathrm { A U C } _ { ( 0 \sim \infty ) }$ 分别为 $1 6 4 . 6 6 { \pm } 6 . 8 8 \ \mathrm { U / m L }$ 和 $5 1 . 4 4 { \scriptstyle \pm 3 . 0 1 \ \mathrm { U / m L } }$ ，$t _ { 1 / 2 }$ 分别为 $4 . 6 2 { \scriptstyle \pm 0 . 6 0 \mathrm { ~ h ~ } }$ 和 $1 . 8 6 { \pm } 0 . 3 8 \ \mathrm { h } _ { \circ }$ 与游离AN比较,AHSPs的AUC $( 0 { \sim } 4 8 \ \mathrm { h } )$ ） $\mathrm { A U C } _ { ( 0 \sim \infty ) }$ 和 $t _ { 1 / 2 }$ 分别提高了2.96、3.20和2.48倍。$\mathrm { A U C } _ { ( 0 \sim 4 8 \mathrm { h } ) }$ ） $\mathrm { A U C } _ { ( 0 \sim \infty ) }$ 和 $\mathrm { \mathbf { C } } _ { \mathrm { m a x } }$ 的 $90 \%$ 可置信区间分别为 $7 5 . 0 \% \sim 7 6 . 5 \% . 7 4 . 3 \% \sim 7 6 . 1 \% . 9 5 . 1 \% \sim 9 6 . 7 \%$ 。结论AHSPs延长了AN在大鼠体内的生物半衰期,提高了AN在大鼠体内的生物利用度,且AHSPs与游离AN不具有生物等效性。
+
+关键词：门冬酰胺酶;纳米囊；药代动力学；生物等效性
+
+# Pharmacokinetics and bioequivalence assessment of a self-assembled asparaginase nanocapsule in rats
+
+YAN Zijun, XIE Jiangchuan,HE Dan,HU Xueyuan, ZHANG Jingqing   
+ChongqingReseachCenterforarmaceuticalngineeringColegeofarmacyChongqingedicalUnierstyongqi1   
+China
+
+Abstract: Objective: To studythepharmacokinetics and bioequivalence of asparaginase loaded in hyaluronic acid-graft-poly (ethylene glycol)/ sulfobutylether- $\cdot \{ \beta$ cyclodextrin nanocapsules (AHSP) in SD rats. Methods The morphology of AHSP was observed underthe transmision electronmicroscopeand the particle sizeand zeta potential were measured.AHSPand free asparaginase were intravenously injected inrats,andthe plasma asparaginase activitywas measuredat diferentime points afterthe injections.The pharmacokinetic parameters werecalculatedusingthesoftware DAS2.1.1 toassessthebioequivalence of AHSP and free asparaginase. Results AHSP had an average particle size of $4 1 3 . 8 0 { \pm } 1 0 . 9 7 \mathrm { n m }$ with a zeta potential of $- 2 0 . 3 7 \pm$ $2 . 3 8 ~ \mathrm { m V } .$ The $\mathrm { \ A U C _ { ( 0 + 4 8 \ h ) } }$ of AHSP and free asparaginase was $1 3 7 . 3 4 { \pm } 1 . 8 2 \ \mathrm { U / m L }$ and $4 6 . 3 8 \pm 1 . 9 8 ~ \mathrm { U / m L } ,$ and their $\mathrm { A U C } _ { ( 0 = \infty ) }$ was $1 6 4 . 6 6 { \pm } 6 . 8 8 ~ \mathrm { U / m L }$ and $5 1 . 4 4 { \scriptstyle \pm 3 . 0 1 \ \mathrm { U / m L } }$ with half-lives of $4 . 6 2 { \scriptstyle \pm 0 . 6 0 \mathrm { ~ h ~ } }$ and $1 . 8 6 { \pm } 0 . 3 8 \ \mathrm { h } ,$ respectively. Compared with free AN, AHSP exhibited increased $\scriptstyle \mathrm { A U C } _ { ( 0 \to 1 8 \ h ) } ,$ $\mathrm { A U C } _ { ( 0 = \infty ) } ,$ and half-life by 2.24, 2.55 and 2.32 folds,respectively. The $9 0 \%$ confidential intervals of $\mathrm { { A U C } _ { ( 0 . 4 8 ~ \mathrm { { h } } ) } , }$ ${ \mathrm { A U C } } ( 0 - \infty )$ and $C _ { \mathrm { m a x } }$ of the tested formulation were $7 5 . 0 \% - 7 6 . 5 \%$ ， $7 4 . 3 \% - 7 6 . 1 \%$ ，and $9 5 . 1 \% 9 6 . 7 \%$ ， respectively.Conclusion AHSPcanimprove the bioavailabilityand extendthebiologicalhalf-lifeofasparaginaseinrats,and AHSP and free asparaginase are not bioequivalent.
+
+Keywords:asparaginase; nanocapsules; pharmacokinetics; bioequivalence
+
+天门冬酰胺酶(AN)是一种具有显著抗肿瘤作用的酶制剂[1。AN通过降解天门冬酰胺来抑制肿瘤细胞中蛋白质的正常合成,从而使肿瘤细胞死亡[2。但AN在临床应用上存在着生物半衰期短、易被降解、稳定性差等缺点[3]，一定程度上限制了AN的临床应用。
+
+目前，文献[4-5]报道的自组装空心纳米囊是一种新型的药物载体，其空心结构可封装酶、小分子药物、基因等，它具有生物膜的相似性，能提高封装药物的稳定性，延长被封装药物的生物半衰期，提高封装药物的生物利用度以及降低毒副作用等特点。
+
+透明质酸(HA)与mPEG可通过酰胺键相互连接，形成透明质酸-聚乙二醇(HA-g-PEG)分子链;磺丁基-b-环糊精(SCD)分子可呈棒状嵌入HA链并在HA链上平行堆积；SCD分子链与mPEG链形成空心纳米囊，从而将AN封装在其空心结构中[5-7]。本实验依据上述思路,制备了AHSPs,并考察了AHSPs的透射电镜、粒径、Zeta电位以及AHSPs在大鼠体内的药代动力学和生物等效性。另外，本文作者尚未见任何关于AHSPs的研究报道。
+
+# 1材料和方法
+
+# 1.1材料和仪器
+
+1.1.1主要材料、试剂 AN(以色列Prospec);AHSPs(实验室自制，批号：20141013；20141017；20141022）；Tris-HC1缓冲液,50mmol/L,pH7.3(实验室自配);其它试剂均为分析纯。
+
+1.1.2主要仪器与动物Milli-Q超纯水系统（美国Millipore)；pH计（上海精密科学仪器有限公司）；RE-52AA旋转蒸发器（上海亚荣生化仪器厂）；85-2型恒温磁力搅拌器(上海司乐仪器有限公司)；ZetasizerNano zs90激光粒度电位仪(英国马尔文公司)；UV-7504PC紫外分光光度计(上海欣茂仪器有限公司）。
+
+清洁级健康SD大鼠，雄性，体质量 $2 5 0 { \pm } 2 0 \ \mathrm { g }$ （由重庆医科大学实验动物中心提供，许可证号：SCXK-（渝）2014-0001)。
+
+# 1.2试验方法
+
+1.2.1 AHSPs 的制备 称取HA-g-PEG $\lvert . 0 \ \mathrm { g }$ 和 SCD$6 . 0 \ \mathrm { g }$ ，分别加Tris-HCl缓冲液 $\left( \mathrm { p H } \ 7 . 3 \right)$ 溶解并定容至$1 0 0 ~ \mathrm { { m L } }$ 。将 $5 ~ \mathrm { m g }$ 的AN溶于HA- $\mathrm { g }$ -PEG溶液后，于搅拌条件下缓慢加至SCD溶液 $3 0 ~ \mathrm { m L }$ 中，搅拌 $2 \mathrm { ~ h ~ }$ ，即得AHSPs[5-7],批号(20141013;20141017;20141022)。
+
+1.2.2AHSPs的透射电镜取AHSPs $0 . 5 ~ \mathrm { m L }$ ，用Tris-HCl缓冲液稀释10倍后，在透射电镜下观察AHSPs的形态。1.2.3AHSPs粒径和Zeta电位的测定使用马尔文粒度仪检测AHSPs的粒径和Zeta电位。取AHSPs溶液$0 . 5 ~ \mathrm { m L }$ ,加入Tris-HC1缓冲液稀释10倍后，测其粒径和电位。
+
+1.2.4 AN活性的测定 参照马斯本-利斯通法[68测定AN的活性。改进：实验前样品预热 $2 \mathrm { m i n }$
+
+1.2.5动物的分组和给药[9-0]将12只雄性SD大鼠随机分为2组，每组6只。分别尾静脉注射给予AHSPs和游离AN,剂量均为 $2 . 0 \mathrm { k U / k g }$ 。给药前禁食 $2 4 \mathrm { h } _ { \odot }$
+
+1.2.6样品的采集和处理分别在给药后0.08、0.17、$0 . 2 5 , 0 . 5 0 , \ 0 . 7 5 , 1 , 1 . 5 , 2 , 3 , 4 , 6 , 8 , 1 0 , 1 2 , 2 4 , 4 8 \ \mathrm { h }$ 眼底静脉丛取血。采血置于肝素化后的试管，以 $3 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 后分离血浆样品，按"1.2.4AN活性的测定”项下方法进行活性测定，计算血浆样品中AN的活性，进行AHRPs的药动学研究。
+
+1.2.7实验数据处理方法根据所测结果,绘制平均血药浓度-时间曲线。用DAS2.1.1软件计算药代动力学参数。
+
+1.2.8统计学处理将AHSPs和游离AN的主要药代动力学参数 $\mathrm { A U C } _ { ( 0 \sim 4 8 \mathrm { h } ) \setminus } \mathrm { A U C } _ { ( 0 \sim \infty ) }$ 及 $\mathrm { { C } _ { \mathrm { { m a x } } } }$ 进行方差分析，再采用双向单侧 $\mathbf { \Psi } _ { t }$ 检验(显著性水平 $\scriptstyle P = 0 . 0 5$ ）， $90 \%$ 可信限考察，Tmax采用非参数统计Wilcoxon检验。评价AHSPs和游离AN是否具有生物等效性( $\scriptstyle \mathrm { ( a = 0 . 0 5 }$ 。
+
+# 2结果
+
+2.1AHSPs在透射电镜下的形态
+
+如图1所示，透射电镜下观察到AHSPs呈均匀分布的圆形或椭圆形，分散均匀，无黏连，且AHSPs粒径约为 $4 0 0 \ \mathrm { n m }$ 。
+
+![](images/48a2157a47ac6c855e8bd8c24e9d262b85cd271985c0aa525c85d3d0dc8bee19.jpg)  
+图1AHSPs的透射电镜图Fig.1 Transmission electron microscopy ofAHSPs $( \times 2 5 0 0 0 0 )$ 1：
+
+# 2.2AHSPs的粒径和Zeta电位
+
+测得AHSPs的平均粒径为 $4 1 3 . 8 0 { \pm } 1 0 . 9 7 \ : \mathrm { n m }$ ，电位为 $2 0 . 3 7 { \pm } 2 . 3 8 ~ \mathrm { m V } _ { \odot }$ 。AHSPs的粒径分布和电位见图2。
+
+![](images/d352560c59cd6e79aa9be3d38e3c48caaad6efb9dc7c29494b625bd03fa51b0c.jpg)  
+图2AHSPs的粒径分布图 $( A )$ 和zeta点位分布图(B) Fig.2 Size distribution $( A )$ and zeta potential (B) of AHSPs.
+
+# 2.3药时曲线和药动学参数
+
+以时间为横坐标，平均血药浓度为纵坐标，建立AN在大鼠体内AHSPs和游离AN的药-时曲线见图3。AHSPs和游离AN在SD大鼠体内的药代动力学参数见表1。
+
+表1SD大鼠静脉注射AHSPs和游离AN后的主要药动学参数 Tab.1 Main pharmacoinetic parameters of intravenously injected AHSPs and free AN in rats (Mean±SD,n=6)   
+
+<html><body><table><tr><td>Parameter</td><td>AHSPs</td><td>AN</td></tr><tr><td>AUC(0-48h) (U/mL*h)</td><td>137.34±1.82</td><td>46.38±1.98</td></tr><tr><td>AUC(0-) (U/mL*h)</td><td>164.66±6.88</td><td>51.44±3.01</td></tr><tr><td>Cmax (U/mL)</td><td>29.95±0.24</td><td>26.06±0.88</td></tr><tr><td>t1/2(h)</td><td>4.62±0.60</td><td>1.86±0.38</td></tr></table></body></html>
+
+如图3所示，大鼠静脉注射游离AN后，AN失活较快，6h时几乎完全失活， $8 \textup { h }$ 时完全失活，活性降为0。而同等条件下，大鼠静脉注射AHSPs后，由于AHSPs的包裹，AN失活较慢， $6 \mathrm { n }$ 时仍有较高活性， $2 0 \mathrm { h }$ 时仍有一定活性，直至 $2 4 \mathrm { ~ h ~ }$ 时活性才完全消失。结果表明，AHSPs不仅延长了AN在大鼠体内的滞留时间，还提高了AN在大鼠体内的稳定性。
+
+![](images/b996c48ca187632e591aa540cf0e933001efdc43b78e9e3028e21a53ebe965cd.jpg)  
+图3大鼠静脉给予AHSPs和游离AN后的平均血药浓度-时间 曲线 Fig.3 Mean concentration-time curve of AHSPs and free asparaginase (AN) after intravenous administration in rats $( n { = } 6 )$
+
+由表2参数可以看出：(1)AHSPs的半衰期 $t _ { 1 / 2 }$ 为$4 . 6 2 { \scriptstyle \pm 0 . 6 0 \mathrm { ~ h ~ } }$ ，游离AN的为 $1 . 8 6 { \pm } 0 . 3 8 \mathrm { ~ h ~ }$ ,AHSPs的 $t _ { 1 / 2 }$ 为游离AN的2.48倍，说明AHSPs消除较慢，能有效延长AN在大鼠体内生物半衰期;(2)AHSPs的 $\mathrm { A U C } _ { ( 0 \sim 4 8 \mathrm { ~ h } ) }$ （204为 $1 6 4 . 6 6 { \pm } 6 . 8 8 \ \mathrm { U / m L ^ { \ast } h }$ ，游离AN的为 $4 6 . 3 8 { \pm } 1 . 9 8 \ \mathrm { U } /$ mL $^ { * \mathrm { h } }$ ,AHSPs的 $\mathrm { A U C } _ { ( 0 \sim 4 8 \ \mathrm { h } ) }$ 是游离AN的2.96倍，说明AHSPs显著提高了游离AN的生物利用度;(3)AHSPs的 $\mathrm { A U C } _ { ( 0 \sim \infty ) }$ 为 $1 6 4 . 6 6 \pm 6 . 8 8 \mathrm { \ U / m L ^ { \ast } h }$ ，游离AN的为$5 1 . 4 4 { \pm } 3 . 0 1 \ \mathrm { U / m L ^ { \ast } h }$ ,AHSPs的 $\mathrm { \bf A U C } _ { ( 0 \sim \infty ) }$ 是游离AN的3.20倍，说明AHSPs显著提高了游离AN的生物利用度。
+
+# 2.4生物等效性评价结果
+
+DAS2.1.1软件处理，得出AHSPs与游离AN的$\mathrm { A U C } _ { ( 0 \sim 4 8 \mathrm { h } ) }$ 的 $90 \%$ 可置信区间为 $7 5 . 0 \% { \sim } 7 6 . 5 \%$ ,生物等效性标准区间为 $8 0 \% { \sim } 1 2 5 \%$ $\mathrm { A U C } _ { ( 0 \sim \infty ) }$ 的 $90 \%$ 可置信区间为 $7 4 . 3 \% { \sim } 7 6 . 1 \%$ ,生物等效性标准区间为 $8 0 \% { \sim } 1 2 5 \%$ $\mathrm { C } _ { \mathrm { m a x } } 9 0 \%$ 可置信区间为 $9 5 . 1 \% { \sim } 9 6 . 7 \%$ ;生物等效性标准区间为 $70 \% \sim 1 4 3 \%$ 。由实验结果可以看出,AHSPs与游离AN的 $\mathrm { A U C } _ { ( 0 \sim 4 8 \mathrm { h } ) \setminus } \mathrm { A U C } _ { ( 0 \sim \infty ) }$ 和 $\mathbf { C } _ { \mathrm { m a x } }$ 三个参数的 $90 \%$ 可置信区间均不在生物等效性标准区间范围内，因此AHSPs与游离AN不具有生物等效性。另外，对 $T _ { \mathrm { m a x } }$ 进行非参数法检验，结果显示AHSPs和游离AN的 $T _ { \mathrm { m a x } }$ 具有显著性差异 $( P { < } 0 . 0 5 )$ 。按照生物等效性的判定标准，AHSPs与游离AN不具有生物等效性。
+
+# 3讨论
+
+AN在临床应用上存在生物半衰期短、稳定性差和毒副作用等缺点。目前，针对AN的缺点，国内外已进行了下列研究：(1)聚乙二醇对AN进行物理包埋或修饰[1-12];(2)制备纳米结构AN脂肪酸生物共轭体[13]；(3)将AN共价结合固定化于丝素纳米颗粒[4等。而郭青龙等[15-16报道的将游离AN制备成前体脂质体包裹，可明显降低AN对小鼠的急性毒性和副作用。但以上对AN的改善方法都不能使AN发挥其最优的催化活性，且大都会存在较低的生物相容性、较差的稳定性及AN易脱落等缺点。
+
+長2大鼠静注注射(2kU/kg,i.v.)AHSPs和游离AN后生物等效性的比较 Tab.2Assessment of bioequivalence between intravenously injected AHSPs and $2 \mathrm { \ k U / k g }$ free AN $( n { = } 6 )$ （204   
+
+<html><body><table><tr><td>Parameter</td><td>90% Confidence interval</td><td>Bioequivalence standard</td><td>P</td></tr><tr><td>AUC(0-48 8)</td><td>75.0%-76.5%</td><td>80%-125%</td><td>-</td></tr><tr><td>AUC(0-)</td><td>74.3%-76.1%</td><td>80%-125%</td><td>-</td></tr><tr><td>Cmax</td><td>95.1%-96.7%</td><td>70%-143%</td><td></td></tr><tr><td>Tmax</td><td></td><td></td><td><0.05</td></tr></table></body></html>
+
+故本实验首次采用自组装法成功制备了AHSPs,并对AHSPs在大鼠体内的药代动力学和生物等效性进行了研究，以期能提高AN在大鼠体内的稳定性，延长AN的生物半衰期，并提高其生物利用度。实验结果显示，将AN制成AHSPs,与游离AN比较，AHSPs的$\mathrm { A U C } _ { ( 0 \sim 4 8 \textrm { h } ) \setminus } \mathrm { A U C } _ { ( 0 \sim \infty ) }$ 和 $t _ { 1 / 2 }$ 分别提高了2.96、3.20和2.48倍。说明AHSPs提高了AN在体内的生物利用度和稳定性，并延长了AN在体内的生物半衰期。可能的原因是：(1)该纳米囊材料具有生物相似性，能有效提高AN的吸收；(2)空心纳米囊结构，能阻挡抗胰蛋白水解酶及抗原与AN的接触，使AN不易被体内蛋白酶水解和吞噬细胞消除，因此在一定程度上能增强AN的稳定性;(3)HA-g-PEG中链接的mPEG分子在改善载体材料的特性的同时,还避免了载体被网状内皮系统摄取[17-18],增加AN在体内的循环时间，提高AN在体内的生物利用度。
+
+且根据生物等效性判断标准，AHSPs与游离AN具有生物不等效性，即AHSPs的药效学标准明显比游离AN的高。本文首次制备AHSPs,且对其在大鼠体内的药代动力学和生物等效性进行了研究，故具有一定的前瞻性，也为AN在临床上的进一步应用奠定了基础。
+
+# 参考文献：
+
+[1]周纪宁,金 浩,李永丰,等.抗肿瘤酶制剂L-天冬酰胺酶治疗白血病 的研究进展[J].生物医学工程学杂志,2000,17(3):343-5.   
+[2」李晓媛,陈建华,吴梧桐.PEG-天门冬酰胺酶的临床研究近况[J].药 学进展,2009,33(11):503-10.   
+[3]Hafsa KE,吴梧桐,刘景晶,等.右旋糖苷及PEG-2对大肠杆菌天门冬 酰胺酶的化学修饰[J].药物生物技术,1997,4(2):118-21.   
+[4]Aravind A,Jeyamohan P,Nair R,et al.AS141l aptamer tagged PLGA-lecithin-PEG nanocapsules for tumor cell targeting and drug delivery[J].Biotechnol Bioeng,2012,109(11):2920-31.   
+[5]Ha W,Fan MM,Zhang S,et al. Self-assembly of chitosan-g-PEG and alpha-cyclodextrin into hollow spheres in aqueous solution[J]. J ControlRelease,2011,152(1):E204-5.   
+[6]Ha W,Meng XW,Li Q,etal.Self-assembly hollow nanosphere for enzyme encapsulationlJl. Soft Matter, 2010(6):1405-8.   
+[7］谢江川,何 丹,晏子俊,等.载门冬酰胺酶的自组装聚乙二醇-透明质 酸/二甲基-β-环糊精纳米粒体外稳定性的初步考察[J].中国医药工业 杂志,2015,46(7): 716-21.   
+[8]施特尔马赫.酶的测定方法[M].北京:中国轻工业出版社,1992: 85-8.   
+[9]Konecna P,Klejdus B,Hrstkova H. Monitoring the asparaginase activity and asparagine levels in children with acute lymphoblastic leukaemia treated with different asparaginase preparations[J]. Scr Med (Brno),2004,77(2): 55-62.   
+[10]陈建华,吴梧桐,平野和行.抗体夹心酶联免疫吸附法测定重组E.coli L-天冬酰胺酶及药代动力学研究[J].药学学报,2003,38(8):613-6.   
+[11]Molineux G. Engineering improved biopharmaceuticals for oncology[J].Pharmacotherapy,2003,23(8PAAS): 3S-8S.   
+[12]Aaronson SA.Cancer Medicine [M].5th ed.H amilton: B.C. DeckerInc.2000:2140.   
+[13]Ashrafi H,Amini M,Mohammadi-Samani S.Nanostructure AASaraginase-fatty acid bioconjugate: Synthesis,preformulation study and biological assessment[J]. Int JBiol Macromol,2013,62C: 180-7.   
+[14]张雨青,相入丽,阎海波,等.丝素纳米颗粒的制备及应用于L-天冬酰 胺酶的固定化[J].高等学校化学学报,2008,29(3):628-33.   
+[15]郭青龙,陈 真,丁启龙.L-门冬酰胺酶前体脂质体对小鼠毒性及对实 验性肿瘤作用[J].中国药科大学学报,2001,32(1):69-71.   
+[16]王弘,吴梧桐,顾学裘,等.重组L-门冬酰胺酶前体脂质体对急性淋 巴白血病小鼠的治疗作用和毒性考察[J].中国医院药学杂志,2001, 21(4): 24-6.   
+[17]Choi KY,Min KH, Yoon HY,et al. PEGylation of hyaluronic acid nanoparticles improves tumor targetability in vivo[J].Biomaterials, 2011,32(7):1880-9.   
+[18]Choi KY,Yoon HY,Kim JH,et al. Smart nanocarrier based on PEGylated Hyaluronic acid for cancer therapy[J].ACS Nano, 2011,5(11): 8591-9.
+
+(编辑：孙昌朋)

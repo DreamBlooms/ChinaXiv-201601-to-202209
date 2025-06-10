@@ -1,0 +1,223 @@
+# 不同时间尺度环境因子对黑河下游胡杨（Populuseuphratica)径向生长的影响
+
+马玉祥¹，张永利²，李玉灵¹，吉川贤³，李晓刚（1．河北农业大学,河北 保定071000；2．额济纳旗水务局,内蒙古 阿拉善735400;3．冈山大学，日本国 冈山7008530)
+
+摘要：本研究以黑河下游额济纳旗成熟的河岸胡杨林为对象,分析不同年龄胡杨（Populus euphratica)的年轮宽度序列与不同时间尺度环境因子的关系。结果表明： $\textcircled{1}$ 在年尺度上，气温是影响胡杨径向生长的主要因子，但不同年龄胡杨对气温的响应有所不同。 $\textcircled{2}$ 在季节尺度上,休眠季气温越高越有利于壮龄胡杨的径向生长，而生长季气温越高越不利于老龄胡杨的径向生长。 $\textcircled{3}$ 在月尺度上，前一年3月和当年9月的平均气温越高,对壮龄胡杨的径向生长越有利,而当年10月平均气温越高,对老龄胡杨的径向生长越不利;前一年7月径流量的增加对老龄胡杨的径向生长有利,而当年2月径流量的增加对壮龄胡杨径向生长有利。综上所述,在季节和年等相对较长的时间尺度上，气温是影响胡杨径向生长量的主要因素,随着时间尺度的缩小,胡杨对环境因子的响应更为细化，并且表现出一定的滞后效应。径流量作为重要的环境因子在月尺度上才突显出来,前一年7月和当年2月的径流补给对胡杨径向生长有极大的促进作用。因此,在黑河统一调度管理过程中,可通过适度调增2月和7月洪水的下泄量来满足胡杨径向生长对水分的需求。
+
+关键词：不同年龄；年轮宽度；时间尺度；气温；径流；额济纳旗
+
+植物生长会受到各环境因子的影响，然而不同时间尺度下环境因子的表现却存在一定的差异，如河流流量在以月尺度观测时有旱涝之分，然而在以年尺度观测时变化幅度却较小，如果以年代为尺度时，则流量变化有可能呈增大或减小的趋势。特定的问题必然对应着特定的尺度，一般在大尺度上综合反映各环境因子的特点，在小尺度上揭示问题的成因，但在一定尺度上得出的研究结果不能简单的推广到其他的尺度上(1-2]。因此,研究不同时间尺度环境因子对植物生长的影响，对明确各环境因子在植物生长过程中的具体作用具有重要意义。
+
+地处黑河下游的额济纳绿洲，年均降水量不足$5 0 ~ \mathrm { m m }$ ,潜在蒸发量却高达 $4 ~ 0 0 0 ~ \mathrm { m m }$ ,是典型的极端干旱地区,境内分布着大片以胡杨(Populuseuphrati-ca)为主的荒漠河岸林，是我国天然胡杨林主要分布区之一。黑河是额济纳绿洲的主要水分来源,然而，近几十年来由于黑河上中游地区的建坝拦蓄，对水资源的过度利用等原因，到达额济纳绿洲的水量逐年减少，以致出现河流断流、湖泊干涸、土地沙漠化等现象[3]，直接导致胡杨林生长不良，面积萎缩。从2000年开始，以黑河分水方案为依据，实施了干流水量的统一管理和调度，以保证额济纳地区的来水量[4],恢复当地受损的生态环境。但是，黑河的水量调度是以控制年总量为主要依据[4],对年内不同时间段的水量控制缺乏考虑，由于过水量严重受人为控制，黑河完全失去了自然河流的节律动态特征，毋庸置疑，这对分布于河流两岸的植被会产生潜在的影响。众所周知，胡杨作为高大落叶乔木，一年内有明显的休眠季（11一3月）和生长季（4—10月）,生长季内又有从萌动到落叶的季相变化[5]，由于胡杨的蒸腾失水在7月最大,10月最小[6，所以,胡杨对水分的需求有明显的季节性。黑河的统一调水虽然暂时解决了黑河下游植被继续退化问题，但是只考虑年放水总量会导致放水时间和需水时间不一致的情况出现，造成水资源的浪费。如何配置黑河水资源依然没有明确的理论依据，这主要是没有明确不同时间尺度各环境条件对胡杨生长的影响。因此,研究月、季节和年不同时间尺度下胡杨生长与主要环境因子的关系尤为必要。
+
+本研究在黑河下游的代表性地段，以天然成熟胡杨林为研究对象，分析不同年龄胡杨的年轮宽度序列与不同时间尺度气温和径流量的关系，明确胡杨对不同时间尺度环境因子的响应特征，对促进黑河下游胡杨林生态保护，恢复绿洲环境具有重要的现实意义和参考价值，也能为黑河下游合理配置水资源提供一定的理论依据。
+
+# 1 材料与方法
+
+# 1.1 研究区概况
+
+研究区位于黑河下游的额济纳旗（图1），该地区深居内陆，距海遥远，属于温带大陆性极端干旱气候，年平均气温为 $9 . 1 0 \ \mathrm { { ^ { 9 C } } }$ ,最高气温和最低气温分别出现在7月和1月，极端高温和极端低温分别可达 $4 3 . 7 0 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ }$ 和 $- 3 5 . 3 0 \mathrm { ~ \mathcal ~ { C } ~ } ^ { [ 7 ] }$ ;年平均降水量为42$\mathbf { m } \mathbf { m }$ ,年最大降雨量 $1 0 3 ~ \mathrm { { m m } }$ ,最小仅为 $7 ~ \mathrm { m m } ^ { ( 8 ) }$ ;年平均潜在蒸发量为 $3 7 5 5 \ \mathrm { \ m m }$ ，是年均降水量的 89倍9],最高潜在蒸发量可高达 $4 ~ 0 3 5 ~ \mathrm { m m }$ 。黑河是额济纳绿洲水分补给的最主要来源，黑河自狼心山水文站进入额济纳旗后，分为东、西两大支流，称为东、西额济纳河（图1），自然条件下，额济纳河历史上形成的年度内水量季节变化中，洪峰主要出现在4—6月和7—9月[10],而实行统一管理调度后,洪水主要集中在7—11月下泄[4]。额济纳绿洲植物以胡杨为优势种，灌木主要为怪柳（Tamarixramosissima），草本主要有苦豆子（Sophoraalopecuroides）骆驼刺（Al-hagisparsifolia）花花柴（Kareliniacaspica）等，由于该地区降水稀少，额济纳绿洲的植物主要依靠河水补给生长，因此，额济纳绿洲的植被集中分布在河岸[7]。
+
+# 1.2 研究方法
+
+1.2.1样地的设置2016年8月，在黑河下游额济纳旗境内胡杨分布最广、最集中的赛汉淖尔嘎查，从河岸开始到远离河道的林缘结束，随机设立3条垂直于主河道 $1 0 \mathrm { ~ m ~ }$ 宽的样带，对样带内所有胡杨每木检尺（树高 $H$ 直径 $D$ ：树高 $> 2 \mathrm { ~ m ~ }$ 测胸径，树高 $\leqslant$ $2 \mathrm { ~ m ~ }$ 测基径）,并确定其相对坐标位置。根据样带内胡杨直径的分布情况（图2），将样地内胡杨分为幼苗胡杨( $0 \ \mathrm { c m } < D \leqslant 4 \ \mathrm { c m }$ 、壮龄胡杨( $4 \ \mathrm { c m } < D \leqslant 2 8$ cm)和老龄胡杨 $\langle D > 2 8 { \mathrm { ~ c m } } ) 3 $ 个龄级，由于幼苗包含的年轮信息较少，老龄和壮龄胡杨包含年轮信息大，因此，本研究主要以壮、老龄胡杨为研究对象。
+
+![](images/8c253fbc857f209745e4ab72daea2eb56dfd42cd42e5f08fcea3644e587310c7.jpg)  
+图1研究区位置  
+Fig.1Geographical location of the study area
+
+![](images/0295e2756e93de31d599a30eb4c5df4401ba5b25f879a7ee24ade0d2a5b29684.jpg)  
+Fig.2Diameters of the Populus euphratica trees in the sample plots
+
+1.2.2年轮宽度测定根据对3条样带每木检尺的结果计算壮龄和老龄胡杨的平均直径（表1）。
+
+依据平均直径选取壮龄胡杨48株，老龄胡杨24株。然后用生长锥在每株标准木树干的 $1 \sim 1 . 5$ m 处用十字交叉法在东西和南北2个方向各钻取树芯1个，总计钻取树芯144个，将其装入塑料吸管内带回实验室，阴干，粘入定做的木槽后将树芯表面打磨光滑平整。然后，根据年轮间界限的清晰程度，从壮龄胡杨中选取树芯68个，老龄胡杨中选取树芯36个，用EPSON扫描仪扫描制成清晰图片，利用WinDENDROTM树木年轮分析软件测定其年轮宽度，运用交叉定年法准确定年[11],并求出各龄级胡杨每年年轮的平均宽度。
+
+1.2.3气温、水文数据获取从额济纳旗气象局和水务局分别获取2000—2016年每月的平均气温数据和2000—2013年每月的径流量数据。
+
+1.2.4数据处理与分析将气温和径流量数据分别按年、季节(休眠季、生长季)和月3个时间尺度进行统计分析，其中休眠季为前一年11月至当年3月,生长季为当年4—10月[6]。数据整理和计算在Excel2016中完成，用SPSS23将前一年和当年不同时间尺度上年平均气温和年径流量数据分别与不同
+
+# 表1各龄组胡杨平均直径
+
+Tab.1Average ABH valuesof Populus euphratica tress with different ages   
+
+<html><body><table><tr><td>龄级</td><td>直径/cm</td><td>数量/个</td></tr><tr><td>壮龄胡杨</td><td>12.91 ±4.65</td><td>221</td></tr><tr><td>老龄胡杨</td><td>48.02 ±10.75</td><td>52</td></tr></table></body></html>
+
+龄级胡杨年轮宽度序列做Pearson相关性分析( $P <$ 0.05），确定不同尺度环境因子对不同年龄胡杨径向生长的影响。
+
+# 2结果与分析
+
+# 2.1 不同年龄胡杨年轮宽度序列特征
+
+图3显示壮龄胡杨和老龄胡杨与所采集气象和径流数据具有公共区间的年轮宽度序列平均值（2000—2016年）。从图3a可看出，壮龄胡杨年轮较宽的年份出现在2014年，为 $2 . 7 2 \ \mathrm { m m }$ ,最小值出现在2006年，为 $1 . 2 7 \mathrm { m m }$ ,年轮的平均宽度为1.91$\mathbf { m } \mathbf { m }$ ,年轮宽度波动幅度为 $0 . 7 1 \ \mathrm { m m }$ 。从图3b可以看出，老龄树年轮较宽的年份出现在2004年，为$1 . 5 3 ~ \mathrm { m m }$ ,最小值也出现在2006年,年轮宽度为$0 . 8 2 ~ \mathrm { m m }$ ,年轮的平均宽度为 $1 . 0 5 \ \mathrm { m m }$ ，宽度波动幅度为 $0 . 5 9 \ \mathrm { m m }$ 。老龄胡杨每一年的年轮宽度均较壮龄胡杨要小，说明随着年龄变大，胡杨的径向生长量减小;并且随着年龄的增长，胡杨径向生长的变幅也会变小，特别是2008年以后，老龄胡杨年轮宽度相差不大。
+
+![](images/fe7180bb1b021ec1bc65f47138d7fbe4ec0920316c20684df9470961f5746026.jpg)  
+图2样地内胡杨直径分布  
+图3胡杨平均年轮宽度序列 Fig.3Average annual tree ring width sequences of Populus euphratica trees
+
+# 2.2年、季、月尺度环境因子变化特征
+
+2.2.1年尺度环境因子变化特征由图4可知,2000一2016年，研究区的年平均气温相对比较平稳，没有持续增高或下降的趋势，但年际间波动较大。2002年、2004年、2007年、2009年、2013—2016年的年均气温相对较高，最高年平均气温出现在2013年，为 $1 0 . 6 2 \mathrm { ~ \textcircled { C } } ; 2 0 0 3$ 年和2012年年平均气温相对较低，其中2003年的气温最低，为 $9 . 3 0 ~ \mathrm { ^ { \circ } C }$ 。
+
+由图5可知，实施生态调水的前4a径流量的波动比较大，其中前2a径流量都比较小,2003年的年径流量达到这 $1 4 \mathrm { ~ a ~ }$ 的最大值 $7 . 4 6 \times 1 0 ^ { 8 } \mathrm { m } ^ { 3 }$ 。2005
+
+![](images/f9d07fbc587efeb893bff5bf6d82b43054b1afc8cf21925b779b10dbee7fc381.jpg)  
+图42000—2016年年平均气温变化
+
+![](images/8add14d0306ba8c68c041725b7d6d9e4e009805d46cb17783610bb6036ab3a1a.jpg)  
+Fig.4Variation of annual air temperature from 2OOO to 2016
+
+年后，径流量趋于稳定。
+
+2.2.2季节尺度环境因子变化特征由图6可知,2000一2016年生长季气温变化不大，基本稳定。生长季最高平均气温出现在2009 年，为 $2 0 . 7 6 ~ \mathrm { ^ { \circ } C }$ ，最低气温出现在2003年，为 $1 9 . 2 7 \ \mathrm { ^ { \circ } C }$ ；休眠季平均气温的变化趋势与年均气温更为接近，2002年、2007年、2009年、2013—2016年的气温较高，2000年、2003年、2004年、2005年的气温较低，其中最高平均气温出现在2014年，为 $- 2 . 7 2 \mathrm { ~ } \mathrm { ~ } \mathrm { ~ C ~ }$ ,最低气温出现在2005年，为 $- 5 . 4 6 \mathrm { ~ } \mathrm { ^ { \circ } C }$ 。
+
+由图7可知，生长季径流量年际波动较大，趋势与总径流量相似,2000—2001年生长季径流量最小,2003 年最大，为 $5 . 4 7 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,2005 年以后趋于稳定。休眠季径流量年际波动较小，平均为 $2 . 4 1 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ ,最小值出现在2005 年,为 $1 . 2 9 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ ,最大值出现在 2008 年,为 $3 . 2 0 \times 1 0 ^ { 8 } \ \mathrm { m } ^ { 3 }$ 。
+
+2.2.3月尺度环境因子变化特征由图8可知，相同月份的气温在不同年份相对比较稳定，最高气温都出现在7月，其中2010年7月的平均气温最高，达到 $3 0 . 8 0 \mathrm { ~ \textdegree C }$ ；由图9可知，在实施调水初期（2000一2002年），各月径流量还相对较小，从2002年开始,调水量有明显增加,但各月径流量的波动较大,其中2009年9月的径流量达到最大的 $2 . 8 2 \times$ $1 0 ^ { 8 } ~ \mathrm { m } ^ { 3 }$ 。
+
+![](images/db481e6e197e13c40816930a202c3a6ff3ecad1bcaf84f6f2dabd186c4ab64a4.jpg)  
+图62000—2016年季节气温变化
+
+![](images/006a722d8f81379f99b5865f63d1289d5e4945ba16ac8a06f5711626ddd4bce2.jpg)  
+图52000—2013年狼心山水文站各年径流量变化Fig.5 Variation of annual runoff volume at LangxinshanHydrometric Station from 200O to 2013  
+Fig.6Change of seasonal temperature from 2OoO to 2016   
+图72000—2013 年狼心山水文站季节的径流量变化 Fig.7Change of seasonal runoff volume at Langxinshan Hydrometric Station from 200O to 2013
+
+![](images/8912964f41659320ee57274daa6dd4408ca906a3ae57cb6530f661eb6e68e1ec.jpg)  
+图82000—2016年月平均气温变化
+
+# 2.3不同龄级胡杨径向生长与不同尺度环境因子的关系
+
+2.3.1不同龄级胡杨径向生长与年尺度环境因子的关系图10 显示壮龄胡杨和老龄胡杨的径向生长量与前一年及当年的年径流量和年平均气温的关系。壮龄胡杨的径向生长量与当年年平均气温之间呈显著正相关关系( $\textstyle P < 0 . 0 5 )$ ，与径流量无显著相关关系，而老龄胡杨与各检验环境因子之间的相关性均不显著，说明在年尺度上气温是影响壮龄胡杨径向生长的环境因子。
+
+2.3.2不同龄级胡杨径向生长与季节尺度环境因子的关系图11 显示壮龄胡杨和老龄胡杨的径向生长量与前一年休眠季、前一年生长季、当年休眠季、当年生长季的径流量和平均气温之间的关系。壮龄胡杨的径向生长量与当年休眠季的平均气温之间呈极显著正相关关系( $\textstyle P < 0 . 0 1 { \big . }$ ），老龄胡杨的径向生长量与当年生长季的平均气温之间呈极显著负相关关系( $P < 0 . 0 1$ )，2个龄级胡杨的径向生长量与其他时期各因素间关系不显著。说明休眠季气温越高越有利于壮龄胡杨的径向生长，而生长季气温越高越不利于老龄胡杨的径向生长。
+
+2.3.3不同龄级胡杨径向生长与月尺度环境因子的关系图12 显示壮龄胡杨和老龄胡杨的径向生长量与前一年及当年各月份环境因子之间的关系，由于胡杨10月末已经进入下一年的休眠季，所以对当年11月、12月这2个月的环境因子不做考虑。壮龄胡杨的径向生长量与前一年3月和当年9月平均气温、当年2月的径流量之间均呈显著的正相关
+
+![](images/0292781ba2653f2ea62bdf1c404824ed87590c84f3cf465dd79442d47ac36d8d.jpg)  
+Fig.8Change of monthly temperature from 2OoO to 2016   
+图92000—2013 年狼心山水文站月径流量变化
+
+![](images/bcf416b836e71236b229d1f1c7c53867e61ddca5f7fdabe21afe895ad6a79469.jpg)  
+Fig.9Change of monthly runoff volume at Langxinshan Hydrometric Station from 2OOO to 2013   
+图10胡杨年轮宽度序列与年尺度环境因子的相关性
+
+Fig.1OCorelation between theannualtreering widthof Populus euphraticaandtheenvironmental factorsonannual scale
+
+![](images/1fc343489a2a1ec987be421c69a6db084e4dc6775034c4e407978c91d6087ddd.jpg)  
+图11胡杨年轮宽度与季节尺度环境因子的相关性
+
+注： $* *$ 表示 $P < 0 . 0 1$ □
+
+Fig.11Corelation between the anual tree ring widthof Populus euphraticaand the environmental factorson growing season and dormancy season scales
+
+![](images/faf1daadf6adf644f68b8d7946e6e7b6fa8c1e2c4a8490517c810945c03d5f0b.jpg)  
+注：P1\~P12表示前一年各月份，1\~10表示当年各月份； $*$ 表示 $P < 0 . 0 5$ ， $* *$ 表示 $P < 0 . 0 1$ 。  
+图12胡杨年轮宽度与月尺度环境因子的相关性  
+Fig.12Corelationbetween theannual treering widthof Populuseuphraticaandtheenvironmental factorsonmonthlyscale
+
+关系( $\textstyle P < 0 . 0 5 )$ ；老龄胡杨的径向生长量与前一年7月的径流量相关性达到极显著相关水平（ $\boldsymbol { P } <$ 0.01)，与当年10月平均气温之间呈极显著负相关关系( $P < 0 . 0 1 { \mathrm { ~ ; } }$ 。可见，在月尺度上，气温、径流量都与胡杨径向生长密切相关，在月尺度上径流的影响才开始显现，尤其是对老龄胡杨的影响较为突出。
+
+综合以上结果来看，某些环境因子在某年某个月份对胡杨径向生长的影响较为突出，但是从长时间来看，这些因子却并不能成为影响胡杨径向生长的影响因子，而某些环境因子对胡杨径向生长的影响每年每月都不突出，但是从长时间来看，这些因素却有可能成为影响胡杨径向生长的影响因子。由此可以看出，在一定的时间尺度上得出的研究结果不能简单的推广到其他的尺度上。
+
+# 3讨论
+
+# 3.1年尺度环境条件对胡杨径向生长的影响
+
+气温是影响植物生长的最直接和重要的环境因子之一[12],任何植物都生活在具有一定气温的外界环境中并受气温变化的影响。虽然气温在年内表现出季节变化的特征，但在年尺度上却相对稳定，年平均气温影响着植物的分布，是划分气候带的重要依据[13]。本研究中,在年尺度上只有气温与壮龄胡杨的径向生长之间呈现出显著正相关关系（图10），说明年均气温是影响胡杨径向生长的主要因子，壮龄与老龄胡杨对气温的响应存在差异
+
+低龄植物处于生长旺盛时期，体内水分大，对光、热、水、养分等因子的响应比较敏感， ${ { \mathbb { W } } _ { \mathbf { u } } }$ 等[14]对天山不同年龄雪岭云杉（Piceaschrenkiana）年轮生长对气候响应的研究也表明，年龄较小的树木气候敏感性更高。而老龄植物适应当地环境的时间更长，与环境的协调性更高，对环境综合变化的反应敏感程度较低龄植物弱;张芬等[15]的研究也指出，随着树龄增长树木生长对环境变化响应有减小的特点。因此，不同生长阶段生理特征的变化是壮龄和老龄胡杨对年均气温有不同反应的主要原因。
+
+# 3.2季节尺度环境条件对胡杨径向生长的影响
+
+在季节尺度上，仍然只有气温与胡杨径向生长之间具有显著的相关性(图11）。与年尺度不同，在季节尺度上，老龄胡杨对气温的响应也显现出来。2个龄级胡杨对气温的响应表现为壮龄胡杨与当年休眠季气温之间呈极显著正相关关系，而老龄胡杨与当年生长季气温之间呈极显著负相关关系。可见，在季节尺度上，虽然2个龄级胡杨对气温均有响应，但是响应的机制应该有所不同。
+
+胡杨的休眠季正处在额济纳旗寒冷的冬春季节，此时气温对植物的影响主要表现为冻害，低龄植物因为体内细胞水分多，细胞液浓度小，可溶性蛋白和可溶性糖含量低等特点[16]。所以，其细胞液冰点温度高，更易受到冻害的影响。因此，冬春季气温相对升高可以有效的避免植物组织受到低温的伤害，从而保证其正常的代谢活动[17],这对壮龄胡杨的生长十分有利。相对于壮龄胡杨而言，老龄胡杨抵御严寒的能力比较强，但是，由于老龄胡杨大都拥有庞大的树冠，在气温较高的生长季，庞大的树冠会增加老龄胡杨的蒸腾失水量，造成体内缺水而产生干旱胁迫，导致叶面气孔关闭，从而使光合作用减弱。但此时呼吸作用并未停止，仍然会不断地消耗营养物质，从而导致老龄胡杨径向生长受阻[16,18]。此时,如果水分仍未得到及时补充，光合作用会继续降低，老龄胡杨将出现生理饥饿甚至死亡的现象[19-20]。因此,生长季的高温不利于老龄胡杨的生长（图11b）。
+
+# 3.3月尺度环境条件对胡杨径向生长的影响
+
+年轮生长对环境因子的响应具有一定的滞后效应，如果前一年环境比较湿润，树木在体内有足够多的养分，即使当年偏旱，树木也能形成中等宽度的年轮[21-22]。壮龄胡杨的径向生长量与前一年3月的平均气温,老龄胡杨的径向生长量与前一年7月的径流量之间都呈显著正相关关系（图12b)也说明了这一问题。一般情况下，胡杨每年从3月下旬到4月上旬开始萌动[,此时气温升高可以促使其体内的树液提前开始流动，从而打破树木休眠、促进形成层细胞分裂,使树木的起始生长时间提前[16,21,23] 。因为低龄植物对环境的响应较为敏感，所以3月气温升高可以促使壮龄胡杨提前结束休眠，延长壮龄胡杨生长季[16,24-28],使壮龄胡杨能够积累充足的养分，供下一年生长。老龄胡杨主要依靠地下水生长[29-33],径流是额济纳旗地下水的主要补充来源。7月是胡杨生长最为旺盛月份，此时，径流量的增加会为老龄胡杨的生长创造较好的水热条件，从而能够促进其营养物质的积累[21],为下一年的生长提供物质基础。
+
+当年2月径流量与壮龄胡杨呈现出显著的正相关（图12a),壮龄胡杨生长主要利用土壤水[9，且壮龄胡杨与老龄胡杨相比根系活力更强(34]。2 月径流量的增加可使土壤温度升高，促进封冻的土壤解冻，增加土壤可利用水分，从而促进壮龄胡杨形成层细胞提前分裂[16],有利于其年轮宽度的增加[35 -36] O当年9月的平均气温与壮龄胡杨径向生长呈现出显著的正相关(图12a），主要是因为进入9月，额济纳旗气温逐渐降低，胡杨的新陈代谢放缓，但此时的胡杨尚未落叶，若气温升高壮龄胡杨叶片仍可继续进行光合作用，从而延长生长时间，利于形成较宽年轮[21]。而老龄植物的气孔导度、叶光合能力弱[37]，因此，老龄胡杨没有对9月的升温做出响应。老龄胡杨径向生长与10月的气温呈极显著负相关（图12b），主要因为胡杨在10月已进入落叶期，叶片光合作用停止，加之老龄胡杨对环境适应能力强，呼吸作用相对停止较晚，所以当年10月气温升高会增加老龄胡杨的呼吸,进而延长其生理消耗时间[16],使生长受阻。
+
+# 4结论
+
+（1）在年尺度上，气温是影响壮龄胡杨生长的最主要因素，但不同年龄胡杨对气温的响应有所不同。
+
+（2）在季节尺度上，休眠季气温越高越有利于壮龄胡杨的径向生长，而生长季气温越高越不利于老龄胡杨的径向生长。
+
+（3）在月尺度上，前一年3月和当年9月平均气温越高对壮龄胡杨的径向生长越有利；但当年10月平均气温越高，对老龄胡杨径向生长越不利;当年2 月径流量的增加对壮龄胡杨径向生长有利，而前一年7月径流量的增加对老龄胡杨的径向生长有利。
+
+通过月径流与胡杨年轮宽度相关关系可知，前一年7月和当年2月的径流补给对胡杨径向生长有重要作用，因此，在黑河统一调度管理过程中，可适度调增2月和7月洪水下泄量，以满足胡杨生长对水分的需求。
+
+# 参考文献（References）:
+
+[1]郭晋平.景观生态学[M].北京：中国林业出版社,2007：40-   
+41.[Guo Jinping.Landscape Ecology[M].Beijing:China Forestry Publishing House,2007:40 -41. [2] Castagneri D,Battipaglia G,Arx GV,etal.Tree-ring anatomy and carbon isotope ratio show both direct and legacy effects of climate on bimodal xylem formation in Pinus pinea[J].Tree Physiology,   
+2018,38(8):1098-1 109. [3］冯起.黑河下游生态水需求与生态水量调控[M].北京：科学 出版社,2015:15-16.[Feng Qi.Ecological Water Demand and EcologicalWaterRegulationintheLowerReachesofHeiheRiver [M].Beijing:Science Press,2015:15-16.] [4] 司建华,冯起,席海洋，等.黑河下游额济纳绿洲生态需水关键 期及需水量[J].中国沙漠，2013，33（2）：560-567.［SiJianhua,Feng Qi,Xi Haiyang,et al.Determination of critical period and requirement of ecological water demanded in the Ejina Oasis in lower reaches of the Heihe River[J].Journal of Desert Research,   
+2013,33(2):560-567.] [5]张昊,李俊清,李景文,等.额济纳绿洲胡杨种群繁殖物候节律 特征的研究[J].内蒙古农业大学学报（自然科学版），2007，28 (2）:60-66.[Zhang Hao,Li Junqing,Li Jingwen,et al.The reproductive phenological rhythm characteristics of Populus euphratica Oliv.population in the Ejina Oasis of Inner Mongolia[J].Journal of Inner Mongolia Agricultural University（Natural Science Edition）,2007,28(2):60 -66.] [6]席海洋,冯起,程玉菲,等.额济纳绿洲土壤入渗特征与土壤状 况的关系研究[J].冰川冻土,2008,30（6)：976-982.［Xi Haiyang,Feng Qi,Cheng Yufei,etal.Permeability characteristics of soils and their dependence on soil conditions in Ejina Oasis[J].
+
+Journal of Glaciology and Geocryology,2008,30(6）:976-982.]
+
+[7］李亚飞,于静洁,陆凯,等.额济纳三角洲胡杨和多枝怪柳水分 来源解析〔J].植物生态学报,2017,41（5）:519-528.［Li Yafei,Yu Jingjie,LuKai,etal. WatersourcesofPopulus euprati ca and Tamarix ramosissima in Ejina Delta,the lower reaches of the HeiheRiver,China[J].ChineseJournalof PlantEcology, 2017,41(5) :519 -528. ]   
+[8］赵良菊,肖洪浪,程国栋,等.黑河下游河岸林植物水分来源初 步研究[J].地球学报,2008,29（6）:709-718.[Zhao Liangju, Xiao Hongliang,Cheng Guodong,et al.A preliminary study of water sources of riparian plants in the lower reaches of the Heihe Basin[J].Acta Geoscientica Sinica,2008,29(6）:709 -718.]   
+[9]刘树宝,陈亚宁，李卫红,等.黑河下游不同林龄胡杨水分来源 的D、 $^ { 1 8 } 0$ 同位素示踪[J].干旱区地理,2014,37（5）：988- 995.[Liu Shubao,Chen Yaning,Li Weihong,et al. Application of D and $^ { 1 8 } 0$ stable isotopes in analyzing the water sources of diffrent ages of Populus euphratica in the lower reaches of the Heihe River [J].Arid Land Geography,2014,37(5）:988-995.]   
+[10］李俊清.额济纳绿洲胡杨林研究［M].北京:科学出版社, 2009:45-5O.[LiJunqing.Study onPopulus euphratica Forest in Ejina Oasis[M].Beijing:Science Press,2009:45-50.]   
+[11］何海.使用WinDENDRO 测量树轮宽度及交叉定年方法［J]. 重庆师范大学学报（自然科学版）,2005,22（4）:39－44.［He Hai.Measurement of tree-ring width with WinDENDRO and crossdating methods[J]. Journal of Chongqing Normal University（Natural Science Edition）,2005,22(4）:39-44.]   
+[12]吕国红,李荣平,温日红,等.森林凋落物组分的气象影响分析 [J].中国农学通报,2014,30（19）：1-6.[LvGuohong，Li Rongping,Wen Rihong,et al.Analysisof climatic efects on the components of forest litter fall production[J]. Chinese Agricultural Science Bulletin,2014,30(19）:1-6.]   
+[13]丘宝剑.中国的热带、亚热带和温带[J].河南大学学报（自然 科学版）,1993,23（4）:12,11.[Qiu Baojian.Tropical,subtropical and temperate zones of China[J].Journal of Henan University （Natural Science Edition）,1993,23(4）:12,11.]   
+[14]Wu G,Xu G,Chen T,et al. Age-dependent tree-ring growth responses of Schrenk spruce (Picea schrenkiana） to climate :A case study in the Tianshan Mountain,China[J].Dendrochronologia, 2013,31(4) :318 - 326.   
+[15]张芬,勾晓华,苏军德,等.祁连山东部不同树龄油松径向生长 对气候的响应[J].冰川冻土,2011,33（3）:634-639.[Zhang Fen,Gou Xiaohua,Su Junde,et al.Age-dependent responses of treeredial growth of Pinus tabuliformis to climate in eastern section of the Qilian Mountains[J].Journal of Glaciology and Geocryolo gy,2011,33(3) :634-639.]   
+[16］苏瑾,王迪海.黄土区不同林龄刺槐人工林细根的衰老生理特 征[J].生态学报,2016,36（14）:4423-4 429.[Su Jin,Wang Dihai.Physiological characteristics and senescence of fine roots in Robinia pseudoacacia plantations of different forest ages in the Loess Plateau[J].Acta Ecologica Sinica,2016,36(14）:4 423 - 4 429. ]
+
+[17」吕姗娜.东北主要树种径向生长对异常气候变化的响应规律 研究[D].哈尔滨：东北林业大学,2017.［Lv Shanna.Response Regimes of Radial Growth for Main Tree Species to the Abnormal Climate Change in Northeast China[D].Harbin:Northeast Forestry University,2017.]
+
+[18］郭滨德.川西高原不同坡向和海拔云冷杉树轮对气候变化的 响应差异［D].哈尔滨：东北林业大学，2016.［Guo Binde. Differences in Response to Climate Change of Picea purpurea and Abies faxoniana at Different Elevations and Slopes in Western Sichuan Plateau,China[D].Harbin;Northeast Forestry University, 2016.]
+
+[19]曹仪植，宋占午.植物生理学[M].北京：科学出版社，1998：33-45.[Cao Yizhi,Song Zhanwu.Plant Physiology[D]. Beijing:SciencePress,1998:33-45.]
+
+[20]萧浪涛.植物生理学[M].北京：中国农业出版社，2004：75-86.[Xiao Langtao.Plant Physiology[D].Beijing: Science Press,2004:75 -86.]
+
+[21］曹受金.南岭山地松科树种径向生长与气候因子关系及气候 重建研究[D].长沙：中南林业科技大学,2015.[Cao Shoujin. TheStudy on the Response of Tree Ring Width of Pinaceae Tree Species to Climate Factors and Climate Reconstruction in Nanling Region[D].Changsha:Central South University of Forestry and Technology,2015.]
+
+[22]白学平.兴安落叶松径向生长对气候响应的滞后性研究[D].沈阳：沈阳农业大学,2016.[Bai Xueping.Study on the Lag Responses of Dahurian Larch Radial Growth to Climate Change[D].Shenyang:Shenyang Agricultural University,2016.]
+
+[23]杨旭.川西南柳杉人工林径向生长与气候因子的关系[D].成 都：四川农业大学,2014.［YangXu.Cryptomeria fortunei TreeRingWidth Index with Responses to Climate Change in the Southwestern of Sichuan[D].Chengdu:Sichuan Agricultural University, 2014.]
+
+[24]勾晓华，陈发虎,杨梅学，等.青藏高原东北部树木年轮记录揭示的最高最低温的非对称变化〔J].中国科学（地球科学），2007,37(11）:1 480-1 492.[Gou Xiaohua,Chen Fahu,YangMeixue,et al. The highest and lowest temperature asymmetricchanges revealed by tree ring records in the Northeastern TibetanPlateau[J].Scientia Sinica(Terrae）,2007,37（11）:1 480 -1492.]
+
+[25]袁玉江，李江风.天山乌鲁木齐河源450a冬季气温序列的重建 与分析[J].冰川冻土,1999,21(1):64-70.[Yuan Yujiang,Li Jiangfeng.Reconstruction and analysis of 45O years'winter temperature series in the Urumqi River source of Tianshan Mountains[J]. JournalofGlaciology and Geocryology,1999,21（1）:64-70.]
+
+[26]黄荣凤,张国盛,王林和,等.影响毛乌素沙地臭柏年轮宽度变化的主要气候因子分析[J].干旱区资源与环境，2004，18（6)：164-169.［Huang Rongfeng,Zhang Guosheng,Wang Linhe,etal.Analysis on main climatic factors affecting ring-width varianceofSabina vulgaris grown in Mu Us Sandland[J].Journal ofAridLand Resources and Environment,2004,18(6):164-169.]
+
+[27]覃鑫浩，何友均,许娜子.长白山沿海拔梯度臭冷杉径向生长 对气候变化的响应[J].中南林业科技大学学报，2016，36 (11）:92-96.[Tan Xinhao,He Youjun,Xu Nazi.Response of radial growth of Abies nephrolepistoclimatechangealongan elevational gradientin Changbai Mountain[J].Journal of Central South UniversityofForestry& Technology,2016,36（11）:92-96.]
+
+[28］方强恩.紫花苜蓿根颈芽发育成枝及越冬休眠特性研究[D]. 兰州：甘肃农业大学,2016.[Fang Qiang'en.Study on the Rules of Alfalfa Crown Bud Developing into Shoot and Its Winter Hardiness in the State of Dormancy[D].Lanzhou:Gansu Agricultural University,2016.]
+
+[29]刘普幸.额济纳旗胡杨径向生长的水文气候因子研究[D].兰 州：兰州大学,2OO7.[LiuPuxing.Study onHydroclimatic Factors of Radial Growth of Populus euphratica Oliv.in the Ejin Banner, Inner Mongolia,Arid China［D].Lanzhou：Lanzhou University, 2007.]
+
+[30]王勇，赵成义，王丹丹，等.塔里木河流域不同林龄胡杨与怪柳的水分利用策略研究[J].水土保持学报，2017，31（6）：157-163.[Wang Yong,Zhao Chengyi,Wang Dandan,et al.Water usestrategiesofPopulus euphratica and Tamarixramosissimaatdiffer-entages in Tarim River Basin[J].Journal of Soil and Water Con-servation,2017,31(6):157-163.]
+
+[31]张江，李桂芳，贺亚玲，等.基于稳定同位素技术的塔里木河下游不同林龄胡杨的水分利用来源[J].生物多样性，2018，26(6):564-571.[ZhangJiang,LiGuifang,HeYaling,etal.Waterutilization sources of Populus euphratica trees of different ages inthe lower reaches of Tarim River[J].Biodiversity Science,2018,26(6):564 -571.]
+
+[32]周天河,赵成义，吴桂林,等.塔里木河上游胡杨(Populus euphratica）怪柳（Tamarixramosissima）水分来源的稳定素[J].中 国沙漠,2017,37（1）:124-131.[Zhou Tianhe,Zhao Chengyi, Wu Guilin,et al.Application of stable isotopes in analyzing the water sources of Populus euphratica and Tamarix ramosissima in the upstream of Tarim River[J]. Journal of Desert Research,2017,37 （1):124-131.]
+
+[33]刘树宝，陈亚宁，陈亚鹏，等.基于稳定同位素技术的黑河下游 不同林龄胡杨的吸水深度研究[J].生态学报,2016,36（3）： 729-739.[Liu Shubao,Chen Yaning,Chen Yapeng,et al. Study on the depth of water uptake byPopulus euphratica trees of different ages in the lower reaches of the Heihe River,based on the stable isotope techniques[J].Acta Ecologica Sinica,2016,36（3）: 729 - 739.]
+
+[34］黄晶晶,井家林,曹德昌,等.不同林龄胡杨克隆繁殖根系分布特征及其构型[J].生态学报，2013，33（14）：4331-4342.[Huang Jingjing,Jing Jialin,Cao Dechang,etal. Cloning root sys-tem distribution and architecture of different forestage Populus eu-phratica inEjina Oasis[J].Acta Ecologica Sinica,2013,33（14）：4 331-4 342.]
+
+[35]Deslauriers A,Giovannelli A,Rossi S,et al.Intra-annual cambial activity and carbon availability in stem of poplar[J].Tree Physiol
+
+ogy,2009,29(10):1 223-1 235.
+
+[36]Rossi S,Deslauriers A,Anfodillo T.Assessment of cambial activity and xylogenesis by microsampling tree species:An example at the Alpine timberline[J].IAWA Journal,2006,27(4） :383-394.
+
+[37]左力翔，李秧秧，陈佳村.陕北沙地高龄小叶杨光合速率下降 的水力限制[J].应用生态学报，2014,25（6)：1607-1614. [Zuo Lixiang,Li Yangyang,Chen Jiacun.Hydraulic limitation on photosynthetic rate of old Populus simonii trees in sandy soil of North Shaanxi Province[J].Chinese Journal of Applied Ecology, 2014,25(6):1607-1614.]
+
+# Effects of Environmental Factors on Radial Growth of Populus euphratica at Different Time Scales in the Lower Reaches of the Heihe River
+
+MA Yu-xiang'， ZHANG Yong-li²，LI Yu-ling'，Yoshikawa Ken³，LI Xiao-gang1 (1．Hebei Agricultural University,Baoding O71oOo,Hebei,China; 2.Ejina Bureau of Water Affirs,Alashan 7354Oo,Inner Mongolia,China ; 3.Okayama University,Okayama 70o8530,Japan)
+
+Abstract：In this study,a mature riparian Populus euphratica forest in Ejina Banner inthe lower reaches of he Heihe River was selected to analyze the relationship between the annual tree ring width series of $P$ .euphratica with diferent ages and the environmental factors on different time scales.The results showed that: $\textcircled{1}$ On the annual scale,temperature was the main factor affecting the radial growth of $P$ . euphratica,but the response of $P$ . euphratica with different ages to temperature was different ; $\textcircled{2}$ On the seasonal scale,the higher the temperature during the dormancy was,the better the radial growth of adult $P$ . euphratica would be,however,the higher the temperature in growing season was,the worse the radial growth of old $P$ . euphratica would be; $\textcircled{3}$ On the monthly scale,the higher the average temperature in March of previous year and in September every year was,the more favorablethe conditions to the radial growth of adult $P$ . euphratica would be ;the higher the average temperature in October every year, the more disadvantageous the conditions to the radial growth of old $P$ .euphratica would be.The increase of runoff volume in February every year was beneficial to the radial growth of adult $P$ . euphratica,while that in July of previous year was beneficial to the radial growth of old $P$ . euphratica.In summary,on relatively long time scales,such as seasonal and annual scales,temperature was the main factor afecting the radial growth of $P$ .euphratica.With the contraction of time scale,the response of $P$ . euphratica to environmental factors became more detailed,and a certain hysteresis occurred.Asan important environmental factor,runoffvolume was prominent just on the monthly scale, therunoff recharge in July of previous year and February every year was very important for the radial growth of $P$ ： euphratica.Therefore,Inthe processof unifieddispatchingand managementofthe HeiheRiver,anappropriate flood discharge in February and July could meet the water demand of the radial growth of $P$ .euphratica.
+
+Key words:tree age； tree ring width； time scale； temperature ; runoff volume； Ejina Banner

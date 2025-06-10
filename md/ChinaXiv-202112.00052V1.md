@@ -1,0 +1,197 @@
+# 生态移民区“三生”用地变化对生态系统服务的影响以宁夏红寺堡区为例
+
+安斯文¹，马彩虹}²，袁倩颖¹，滑雨琪1（1.宁夏大学资源环境学院,宁夏 银川750021;2.宁夏(中阿)旱区资源评价与环境调控重点实验室，宁夏 银川 750021)
+
+摘要：土地系统运行以土地可持续利用与人类福祉为准绳。以全国最大的生态移民区红寺堡区为例，基于不同计量方法和GIS空间分析法，对红寺堡区2000—2018年的“三生”用地转型及生态服务变化进行定量研究。结果表明：(1)红寺堡区基本形成以中部灌区生活生产、生产生态空间为主，周边为生态空间的“三生"格局，国土开发格局逐渐优化。(2）生产生态用地减少 $3 . 4 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，生态用地增加 $1 . 2 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，生态生产用地增加 $0 . 1 6 { \times } 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ ，生活生产用地增加 $2 . 0 2 { \times } 1 0 ^ { 4 } \ : \mathrm { h m } ^ { 2 }$ (3)生态系统服务价值共增加 $1 1 . 1 8 \times 1 0 ^ { 8 }$ 元。植被恢复是生态系统服务价值增加的主因，而建设用地对其他用地的侵占则是导致生态系统服务价值降低的主因。(4）协同推进山水林田湖草治理,做好已有生态用地的质量提升和绿地生态网络建设，通过优化生态系统服务结构提升区域生态系统的服务功能，从而实现生产空间的集约化发展、生态空间的提质增效及生活空间的优美宜居。
+
+关键词：“三生"用地；土地利用转型；生态系统服务价值；红寺堡区
+
+# 文章编号：
+
+由于我国社会经济发展快速，导致土地利用变化快速[1],土地生态功能退化严重[2-3]。土地利用转型这一概念最早由英国慈利大学Grainger[4教授提出，并于21世纪初由龙花楼等5学者引入中国，作为研究土地利用/覆被变化(LUCC)的新途径[,它的引入开启了研究土地利用变化的新视角[7]。国内学者就土地利用转型展开了大量的研究，包括其理论、假说和研究框架[8]、样带、横向比较等研究模型[-10]空间格局[1]、动力机制[12]、生态环境效应[13-7]、土地转型与城乡融合发展的机理机制[18]等，很大程度上丰富了土地变化科学的理论基础。土地利用转型旨在研究与经济社会发展相对应的土地利用形态的转变过程[19],其表现之一就是研究土地的三大主导功能，即生产、生态、生活(简称"三生")用地之间的转化[20]。党的十八大提出了“构建生产空间集约高效、生活空间宜居适度、生态空间山清水秀"国土空间发展目标，使得基于“三生"视角开展土地利用转型及其生态效应研究成为该学科的热点[21-24]。杨清可等[20]、龚亚男等[21]、戴文远等[22]、刘永强等[25]基于土地的“三生"主导功能，从不同尺度分析了土地利用转型及其生态系统服务价值时空演变响应；宋家鹏等2对福建省各区县为研究对象展开土地利用转型功能及生态安全耦合性协调研究;高星等[27]对雄安新区“三生空间"时空演变特征和生态环境变化趋势展开分析。从已有的研究来看，研究区域大都为热门区域,如长江三角洲[25]、经济发达区[26]、生态敏感区[28],研究单元侧重于流域单元[29]或城市单元,研究尺度上多以区域、省域等宏观尺度为主。
+
+为解决贫困人口稳定脱贫和发展问题，中国的生态移民最早于1983年开始，主要以甘肃定西、河西和宁夏西海固为主[30]。截止至"十三五"时期，我国已完成 $1 0 0 0 { \times } 1 0 ^ { 4 }$ 个建档立卡贫困户和600多万搬迁户的搬迁安置工作。随着搬迁工程的不断推进及大量人口的持续迁入，迁入区的土地利用方式和生态环境也发生了重大变化。学界就生态移民的政策、效益评估、生态风险、安置模式、战略意义等方面展开了较多研究[31-33],但对生态移民区的土地利用转型及其生态系统服务的响应研究仍然偏少。宁夏红寺堡区是国家大型水利枢纽工程—宁夏扶贫扬黄灌溉工程(“1236"工程)的主战场，也是全国最大的单体生态移民迁入区。1998年底首批移民的迁入开启了红寺堡区绿洲开发的新篇章。截止2015年近 $2 3 { \times } 1 0 ^ { 4 }$ 人的迁入，使得该地区的土地利用方式和生态环境发生了巨大变化。本文选用宁夏红寺堡区为研究区域，基于“三生"用地视角，结合GIS空间分析方法，探究该区域自移民开发以来土地利用转型特征及其生态系统服务响应，以期为生态移民区土地利用和生态建设提供一定的决策参考。
+
+# 1 研究区概况
+
+宁夏红寺堡区位于 $1 0 5 ^ { \circ } 4 3 ^ { \prime } { \sim } 1 0 6 ^ { \circ } 4 2 ^ { \prime } \mathrm { E } , 3 7 ^ { \circ } 2 8 ^ { \prime } { \sim }$ $3 7 ^ { \circ } 3 7 ^ { \prime } \mathrm { N }$ ,地处黄河上游,属于温带大陆性气候,常年干旱少雨,平均降水量约 $2 5 1 ~ \mathrm { m m }$ ,年均蒸发量2387$\mathbf { m } \mathbf { m }$ ,干燥度3.5左右，干旱、沙暴、热干风等灾害性天气较多。植被以干草原和荒漠草原为主,植物群落结构较简单，旱生生态物种显著，草原退化和沙化严重，生态环境十分脆弱。自1998年底来自宁夏南部山区的第一批移民1172户6190人搬迁至红寺堡，累计开发水浇地 $5 { \times } 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ ,搬迁安置宁夏南部贫困县(区)群众 $2 3 \times 1 0 ^ { 4 }$ 人。部分群众因难以适应移民区的生活而返回原籍，到2018年底，该移民区常住人口为 $2 0 . 3 9 \times 1 0 ^ { 4 }$ 人。现辖红寺堡镇、太阳山镇、柳泉乡、新庄集乡和大河乡5个乡镇(图1)，64个行政村(街道/社区)。
+
+# 2数据与方法
+
+# 2.1数据来源
+
+本文数据主要包括土地利用、高程(DEM）、行政矢量及社会经济数据。其中2000年土地利用数据源为2000年6月27日的Landsat $7 ~ \mathrm { E T M + }$ 影像，空间分辨率为 $3 0 ~ \mathrm { m } ; 2 0 0 9$ 年土地利用数据来自国土二调成果，影像数据为SPOT,其全色波段空间分辨率为 $2 . 5 \mathrm { ~ m ~ }$ ,单色波段为 $1 0 \ \mathrm { m } ; 2 0 1 8$ 年数据为GF-2号影像，共13幅景(表1)，其中GF-2号影像的全色波段空间分辨率为 $1 \mathrm { m }$ ,多光谱波段含4个波段，空间分辨率为 $4 ~ \mathrm { m }$ 。为提高解译精度，本文选取OLT影像数据与GF-2数据配合使用[34]，因此2018年数据还包含LandsatOLT数据，其全色波段空间分辨率为$8 \mathrm { ~ m ~ }$ ，多光谱波段包含7个波段，空间分辨率为30
+
+![](images/8fd8e1b718cc89b90ca4b60310d3141ff0212d608b5cd8ab55c64c41ebded9f5.jpg)  
+图1研究区范围  
+Fig.1 Scope of the study area
+
+# 干旱区地理
+
+# 表1GF-2号数据基本情况
+
+Tab.1 Information of GF-2 data  
+
+<html><body><table><tr><td>传感器</td><td>产品级别</td><td>采集时间(年-月-日)</td><td>景数</td><td>景中心经纬度</td></tr><tr><td>PMS2</td><td>LEVEL1A</td><td>2018-04-17</td><td>3</td><td>(106.32°E,37.54N);(106.27°E,37.36N);(106.23E,37.19N)</td></tr><tr><td>PMS2</td><td>LEVEL1A</td><td>2018-04-22</td><td>1</td><td>(106.71E,37.36N)</td></tr><tr><td>PMS1</td><td>LEVEL1A</td><td>2018-04-22</td><td>2</td><td>(106.46E,37.41°N);(106.41E,37.23N)</td></tr><tr><td>PMS2</td><td>LEVEL1A</td><td>2018-05-07</td><td>3</td><td>(106.05°E,37.54N);(106.00°E,37.36N);(105.95E,37.10N)</td></tr><tr><td>PMS1</td><td>LEVEL1A</td><td>2018-05-07</td><td>2</td><td>(105.76E,37.41N)；(105.71°E,37.23N)</td></tr><tr><td>PMS2</td><td>LEVEL1A</td><td>2018-07-15</td><td>2</td><td>(106.48E,37.54N);(106.33E,37.01N)</td></tr></table></body></html>
+
+m。选取日期为2018年5月4日。
+
+通过ENVI5.5软件对影像数据进行几何校正、图像配准等预处理，利用人机交互方式解译，Land-sat7ETM $^ +$ 分类精度 $8 5 \%$ ,Kappa系数0.88;GF-2数据分类精度 $9 2 \%$ ,Kappa系数 $0 . 9 2$ 。参照《土地利用现状分类》（GB/T21010—2017)[35]和刘纪远等[36]的分类方法，将土地利用分为林地、耕地、草地、建设用地、未利用地、水域6大一级地类，二级地类以红寺堡区国土二调数据为依据，共涉及14个二级地类；DEM数据来源于地理空间数据云，分辨率为30$\mathrm { m } { \times } 3 0 \mathrm { m }$ ;矢量数据来源于中科院资源环境科学数据中心。
+
+# 2.2 研究方法
+
+2.2.1“三生”用地分类体系参照吕立刚等[16]、杨清可等[20]、朱媛媛等[37]拟定的“三生空间"分类方案，以突出主体功能为原则，对基础地类进行二次划分，建立红寺堡区“三生"用地分类体系(表2）。
+
+2.2.2生态系统服务价值评价方法参照谢高地等[38]当量因子法，结合红寺堡区实际情况进行当量因子微调。其中，旱地粮食单产较同期全国粮食单产低，其当量因子因此按产量比例下调，园地以葡萄园和枸杞园为主，按经济产值比例调高;红寺堡区的园地和水浇地均为低平的同类地形，都位于坡度小于1°的滩区，故而将园地的水土保持当量因子调整为和水浇地相同；建设用地和未利用地按照一级地类进行生态系统服务价值变化分析。按照生态系统服务价值折算通用方法[38]，以红寺堡区主导作物玉米和小麦的粮食单产市场价值的1/7作为1个生态服务价值当量经济价值[22]，为了可比性，选择中间年份2010年为基准年，计算得出红寺堡区1个生态服务当量因子的经济价值为1969.27元· $\mathrm { h m } ^ { - 2 }$ 。红寺堡区不同地类的单位面积生态系统服务价值，如表3所示。
+
+依据Costanza等[39]提出的生态系统服务价值计量模型，计算区域生态系统服务价值。公式如下：
+
+$$
+\mathrm { E S V } = \sum ( A _ { \boldsymbol { k } } \times \mathrm { V C } _ { \boldsymbol { k } } )
+$$
+
+式中：ESV为生态系统服务总价值； $A _ { k }$ 为 $k$ 地类的面积； $\mathrm { V C } _ { k }$ 为 $k$ 地类单位面积生态系统服务价值。
+
+# 3 结果与分析
+
+# 3.1“三生"用地数量变化特征
+
+研究时段内，红寺堡区生产生态用地呈先减少后增加的趋势（表4），2000一2009年减少 $4 . 9 7 \times 1 0 ^ { 4 }$
+
+表2红寺堡区"三生"用地分类体系  
+Tab.2 Classification system of "ecological-production-living" land in Hongsibu District   
+
+<html><body><table><tr><td colspan="2">“三生"用地分类</td><td colspan="2">土地利用类型</td></tr><tr><td>大类(代码)</td><td>亚类(代码)</td><td>-级地类(代码)</td><td>二级地类(代码)</td></tr><tr><td>生产生态用地(I)</td><td></td><td>耕地(1)</td><td>旱地(11)、水浇地(12)、园地(13)</td></tr><tr><td rowspan="3">生态用地(II)</td><td>重点生态用地(Ia)</td><td>林地(2)</td><td>其他林地(21)、灌木林地(22)</td></tr><tr><td>一般生态用地(IIb)</td><td>草地(3)</td><td>其他草地(31)</td></tr><tr><td>生态容纳地(IIc)</td><td>未利用地(6)</td><td>沙地(61)、裸土地(62)盐碱地(63)</td></tr><tr><td rowspan="2">生态生产用地(II)</td><td></td><td>草地(3)</td><td>人工牧草地(32)</td></tr><tr><td></td><td>水域(4)</td><td>水域 (41)</td></tr><tr><td>生活生产用地(IV)</td><td></td><td>建设用地(5)</td><td>城镇用地(51)、乡村居民点(52)、工矿交通用地(53)</td></tr></table></body></html>
+
+/元·hm-2
+
+Tab.3 Ecosystem service equivalent value per unit area   
+
+<html><body><table><tr><td>类型</td><td>旱田</td><td>水田</td><td>园地</td><td>其他林地</td><td>灌木林</td><td>其他草地</td><td>水域</td><td>建设用地</td><td>未利用地</td></tr><tr><td>食物生产</td><td>1260.33</td><td>2678.21</td><td>12426.09</td><td>177.23</td><td>157.54</td><td>19.69</td><td>196.93</td><td>0.00</td><td>0.00</td></tr><tr><td>原材料生产</td><td>590.78</td><td>157.54</td><td>354.47</td><td>905.86</td><td>433.24</td><td>59.08</td><td>98.46</td><td>0.00</td><td>0.00</td></tr><tr><td>水资源供给</td><td>39.39</td><td>-2067.73</td><td>-1240.64</td><td>-196.93</td><td>374.16</td><td>39.39</td><td>512.01</td><td>-787.71</td><td>19.69</td></tr><tr><td>气体调节</td><td>393.85</td><td>433.24</td><td>1299.72</td><td>3426.53</td><td>2363.12</td><td>216.62</td><td>984.64</td><td>118.16</td><td>39.39</td></tr><tr><td>气候调节</td><td>216.62</td><td>334.78</td><td>2441.89</td><td>10240.20</td><td>7089.37</td><td>196.93</td><td>2934.21</td><td>19.69</td><td>216.62</td></tr><tr><td>净化环境</td><td>59.08</td><td>98.46</td><td>728.63</td><td>3032.68</td><td>2146.50</td><td>610.47</td><td>4608.09</td><td>19.69</td><td>196.93</td></tr><tr><td>水文调节</td><td>157.54</td><td>433.24</td><td>2146.50</td><td>7463.53</td><td>5612.42</td><td>413.55</td><td>31016.00</td><td>39.39</td><td>59.08</td></tr><tr><td>土壤保持</td><td>413.55</td><td>846.79</td><td>846.79</td><td>1772.34</td><td>2875.13</td><td>256.01</td><td>1181.56</td><td>19.69</td><td>39.39</td></tr><tr><td>维持养分循环</td><td>137.85</td><td>216.62</td><td>157.54</td><td>334.78</td><td>216.62</td><td>19.69</td><td>236.31</td><td>19.69</td><td>19.69</td></tr><tr><td>生物多样性</td><td>157.54</td><td>354.47</td><td>728.63</td><td>4037.00</td><td>2619.13</td><td>236.31</td><td>3268.99</td><td>19.69</td><td>39.39</td></tr><tr><td>美学景观</td><td>78.77</td><td>98.46</td><td>315.08</td><td>2087.43</td><td>1161.87</td><td>98.46</td><td>2422.20</td><td>39.39</td><td>19.69</td></tr></table></body></html>
+
+表3单位面积生态系统服务价值  
+表42000—2018年红寺堡区各地类面积及其占比  
+Tab.4Area and proportion of each land type in Hongsibu District from 2ooo to 2018   
+
+<html><body><table><tr><td rowspan="2">“三生"类型</td><td colspan="2">2000年</td><td colspan="2">2009年</td><td colspan="2">2018年</td></tr><tr><td>面积/10 hm²</td><td>比例/%</td><td>面积/10 hm²</td><td>比例/%</td><td>面积/10 hm²</td><td>比例/%</td></tr><tr><td>生产生态用地</td><td>9.21</td><td>33.30</td><td>4.24</td><td>15.33</td><td>5.79</td><td>20.93</td></tr><tr><td>旱地</td><td>8.48</td><td>30.66</td><td>0.64</td><td>2.31</td><td>0.62</td><td>2.24</td></tr><tr><td>水浇地</td><td>0.73</td><td>2.64</td><td>3.40</td><td>12.29</td><td>4.42</td><td>15.98</td></tr><tr><td>园地</td><td>0.00</td><td>0.00</td><td>0.20</td><td>0.72</td><td>0.75</td><td>2.71</td></tr><tr><td>生态用地</td><td>18.19</td><td>65.76</td><td>22.12</td><td>79.97</td><td>19.43</td><td>70.25</td></tr><tr><td>其他林地</td><td>0.00</td><td>0.00</td><td>0.13</td><td>0.47</td><td>0.49</td><td>1.77</td></tr><tr><td>灌木林地</td><td>0.33</td><td>1.19</td><td>4.34</td><td>15.69</td><td>4.18</td><td>15.11</td></tr><tr><td>其他草地</td><td>16.08</td><td>58.13</td><td>16.31</td><td>58.97</td><td>14.50</td><td>52.42</td></tr><tr><td>未利用地</td><td>1.78</td><td>6.44</td><td>1.34</td><td>4.84</td><td>0.26</td><td>0.94</td></tr><tr><td>生态生产用地</td><td>0.15</td><td>0.54</td><td>0.28</td><td>1.01</td><td>0.31</td><td>1.12</td></tr><tr><td>人工牧草地</td><td>0.00</td><td>0.00</td><td>0.10</td><td>0.36</td><td>0.04</td><td>0.14</td></tr><tr><td>水域</td><td>0.15</td><td>0.54</td><td>0.18</td><td>0.65</td><td>0.27</td><td>0.98</td></tr><tr><td>生活生产用地</td><td>0.11</td><td>0.40</td><td>1.02</td><td>3.69</td><td>2.13</td><td>7.70</td></tr><tr><td>城镇用地</td><td>0.00</td><td>0.00</td><td>0.10</td><td>0.36</td><td>0.14</td><td>0.51</td></tr><tr><td>乡村居民点</td><td>0.11</td><td>0.40</td><td>0.60</td><td>2.17</td><td>0.65</td><td>2.35</td></tr><tr><td>工矿交通用地</td><td>0.00</td><td>0.00</td><td>0.32</td><td>1.16</td><td>1.34</td><td>4.84</td></tr><tr><td>合计</td><td>27.66</td><td>100.00</td><td>27.66</td><td>100.00</td><td>27.66</td><td>100.00</td></tr></table></body></html>
+
+注：表中"三生"用地分类见表2。
+
+$\mathbf { h } \mathbf { m } ^ { 2 }$ ,2009—2018年增加 $1 . 5 5 \times 1 0 ^ { 4 } \ : \mathrm { h m } ^ { 2 }$ 。2000年以旱地为主，随着灌区持续开发，水浇地快速增加，逐渐成为该类用地的主体地类，至2018年其面积达到$4 . 4 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，占生产生态用地的 $7 6 . 3 4 \%$ ，年均增加$7 . 5 0 \%$ 。生态用地呈先增加后减少的趋势，2000一2009年增加 $3 . 9 3 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,2009—2018年减少 $2 . 6 9 \times$ $1 0 ^ { 4 } \mathrm { ~ h m } ^ { 2 }$ ,其中重点生态用地(其他林地、灌木林地)逐年增加,过去 $1 8 \mathrm { ~ a ~ }$ 内增加了 $4 . 3 4 \times 1 0 ^ { 4 } \ : \mathrm { h m } ^ { 2 }$ ，一般生态用地(其他草地)与未利用地(沙地、裸土地、盐碱地)逐年减少，分别减少了 $1 . 5 8 \times 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 } \cdot 1 . 5 2 \times 1 0 ^ { 4 }$ $\mathrm { { h m } } ^ { 2 }$ 。生态生产用地与生活生产用地面积在研究时段内均增加，特别是生活生产用地受城镇化进程影响增速最为明显，年均增加 $7 3 . 4 6 \%$ ,城镇用地与公矿交通用地从最初占比不足 $1 . 0 0 \%$ 增加至2018年的 $5 . 3 5 \%$ 。从各地类整体变化来看，灌木林地面积增加最多，达 $3 . 8 5 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,旱地面积减少最为显著，
+
+# 干吴区地理
+
+达 $7 . 8 6 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 。
+
+# 3.2“三生"用地时空变化特征
+
+红寺堡区的“三生空间”分布格局如图2所示，2000年以旱地为主的生产生态用地和以荒漠草原为主的生态用地交错分布，生活生产用地以乡村居民点为主且分布较为零散，没有建制镇的存在；随着移民规模扩大，红寺堡区开展了行政办公场所、教育、医疗卫生、道路、移民新村、土地整理与生态等一系列建设，“三生"格局发生了显著变化，截止到2009年，基本形成生产用地和城乡聚落集中于灌区、生态用地环绕周边的“三生"格局。其中灌区聚集在中部，呈“蝴蝶型”；乡村居民点向灌区和东部太阳山镇集中，聚集度增强。2009—2018年红寺堡区进人快速发展时期，得益于中心城镇红寺堡的带动作用，以中部灌区为中心，生产生态与生活生产用地均向周边扩张，涵盖大河乡北部、柳泉乡及太阳山镇东部;生态用地在中部有所收缩，生态生产用地未发生明显变化，
+
+对占地比例较高的生产生态用地、生态用地和生活生产用地单独作图进行比较(图3)，发现生态用地中生态容纳地(图中表示为未利用地)缩减明显，重点生态用地（图中表示为灌木林地、其他林地)范围扩张显著。移民开发以来，红寺堡区在东南黄土丘陵沟壑区、罗山山麓以及东部风沙草滩区等区域栽种了大量的灌木林，在中部灌区开展了广泛的城区绿化及道旁绿化带的建设，生态建设成效显著；到2018年，南部沟壑区的灌木林向沟谷边缘区延伸,灌区绿地路网进一步完善，草地逐渐萎缩;同时土地开发趋向合理规范，诸如沙地、裸地等未利用地仅零散分布于红寺堡区的西南和东北区域。除此之外生产生态用地面积减少，旱地大幅缩减，但随着灌区扩张，集约度较高的水浇地和园地大范围增加。2000年，中部戈壁滩开发了 $0 . 7 3 \times 1 0 ^ { 4 }$ $\mathrm { { h m } } ^ { 2 }$ 水浇地，2018年其面积已经达到 $4 . 4 2 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ 并先后建立桑园、枸杞园、葡萄园等，园地面积共计增加 $0 . 7 5 { \times } 1 0 ^ { 4 } \ \mathrm { h m } ^ { 2 }$ ，土地利用的集约度进一步提升。生活生产空间在研究时段内也形成了以红寺堡镇城区为核心、宏德工业园区和太阳山工业园区为两翼，移民新村聚集的格局体系。2000年生活生产用地面积相对较少，且聚集性不强，城镇尚未形成;至2018年，城镇建成区有所扩张，移民新村的规模和数量进一步增加且更为集中。整体上，中部灌区的生活空间变化比其他区域更为明显一些,这主要由于红寺堡镇的中心城镇在中部，人口密度、基础设施建设、经济发展都为最高，而其他乡镇受基础条件限制，发展较为缓慢。除此之外由于红寺堡重要的工业园区位于太阳山镇，因此东部工矿用地增长也最为明显。
+
+# 3.3生态系统服务价值对“三生"用地转型的响应
+
+$2 0 0 0 , 2 0 0 9 , 2 0 1 8$ 年的生态服务价值分别为$1 1 . 4 9 \times 1 0 ^ { 8 }$ 元、 $2 0 . 9 5 \times 1 0 ^ { 8 }$ 元和 $2 2 . 6 7 \times 1 0 ^ { 8 }$ 元，其中生态用地对生态服务价值的贡献最大(表5)。生产生态用地中的水浇地、园地的生态服务价值持续增加，2000—2018年间各增加了 $1 . 3 3 \times 1 0 ^ { 8 }$ 元和 $1 . 5 2 \times 1 0 ^ { 8 }$ 元，二者占生产生态空间的比重逐渐增大，减弱了旱地对生态服务价值损耗的影响。生态用地所占面积最大，2000一2018年林地增加致使区域生态服务价值增加了 $1 1 . 2 6 \times 1 0 ^ { 8 }$ 元，对总量的贡献率达$5 3 . 0 0 \%$ 以上。但生活生产用地的增加加快了对生态环境的损耗，到2018年其生态服务价值减少了$0 . 0 9 \times 1 0 ^ { 8 }$ 元。
+
+红寺堡区生态服务价值提高的主要原因是部分生态用地功能保持不变，使得区域生态环境质量保持稳中求上的状态，这部分生态用地对生态系统服务价值的提升贡献率达 $4 5 . 0 1 \%$ (表6);其次是生产生态用地向生态用地的转移，其中旱地转向生态用地转移对生态系统服务价值的提升贡献率达
+
+![](images/8c30878aac5dfac464ce400527388faea78e6e37f63a14602f5ac93ad51c0bef.jpg)  
+图2红寺堡区"三生空间"格局  
+Fig.2Distributions of"ecological-production-living"in Hongsibu District
+
+![](images/ddf9dfd2176bb8731a195b8f52c9135e2b5f719266ad582a468bddd1c02e67be.jpg)  
+图3红寺堡区"三生"用地分布格局  
+Fig.3Distributions of“ecological-production-living"land in Hongsibu District
+
+表5红寺堡区"三生"用地生态服务价值(ESV)变化 Tab.5Changes inecologicalservicevalue (ESV)of"ecological-production-living"land in Hongsibu District   
+
+<html><body><table><tr><td rowspan="2">土地类型</td><td colspan="2">2000年</td><td colspan="2">2009年</td><td colspan="2">2018年</td></tr><tr><td>ESV/10元</td><td>比例/%</td><td>ESV/10元</td><td>比例/%</td><td>ESV/10元</td><td>比例/%</td></tr><tr><td>生产生态用地</td><td>3.21</td><td>27.94</td><td>1.84</td><td>8.78</td><td>3.32</td><td>14.64</td></tr><tr><td>旱地</td><td>2.95</td><td>25.67</td><td>0.22</td><td>1.05</td><td>0.21</td><td>0.93</td></tr><tr><td>水浇地</td><td>0.26</td><td>2.26</td><td>1.22</td><td>5.82</td><td>1.59</td><td>7.01</td></tr><tr><td>园地</td><td>0.00</td><td>0.00</td><td>0.40</td><td>1.91</td><td>1.52</td><td>6.70</td></tr><tr><td>生态用地</td><td>7.58</td><td>65.97</td><td>18.12</td><td>86.49</td><td>18.08</td><td>79.75</td></tr><tr><td>其他林地</td><td>0.00</td><td>0.00</td><td>0.44</td><td>2.10</td><td>1.63</td><td>7.19</td></tr><tr><td>灌木林地</td><td>0.83</td><td>7.22</td><td>10.87</td><td>51.89</td><td>10.46</td><td>46.14</td></tr><tr><td>其他草地</td><td>6.63</td><td>57.70</td><td>6.72</td><td>32.08</td><td>5.97</td><td>26.33</td></tr><tr><td>未利用地</td><td>0.12</td><td>1.04</td><td>0.09</td><td>0.43</td><td>0.02</td><td>0.09</td></tr><tr><td>生态生产用地</td><td>0.71</td><td>6.18</td><td>1.04</td><td>4.96</td><td>1.37</td><td>6.04</td></tr><tr><td>人工牧草地</td><td>0.00</td><td>0.00</td><td>0.19</td><td>0.91</td><td>0.07</td><td>0.31</td></tr><tr><td>水域</td><td>0.71</td><td>6.18</td><td>0.85</td><td>4.06</td><td>1.30</td><td>5.73</td></tr><tr><td>生活生产用地</td><td>-0.01</td><td>-0.09</td><td>-0.05</td><td>-0.24</td><td>-0.10</td><td>-0.44</td></tr><tr><td>建设用地</td><td>-0.01</td><td>-0.09</td><td>-0.05</td><td>-0.24</td><td>-0.10</td><td>-0.44</td></tr><tr><td>合计</td><td>11.49</td><td>100.00</td><td>20.95</td><td>100.00</td><td>22.67</td><td>100.00</td></tr></table></body></html>
+
+注：ESV为生态系统服务价值;在计算生态系统服务价值时，建设用地包含城镇用地、乡村居民点及工矿交通用地。下同。
+
+$3 0 . 7 8 \%$ ,可见退耕还林、禁牧造林等政策对生态环境质量提高起显著作用。此外，受农业结构转型影响，部分旱地转为园地，促进了当地农户生计及生态效益的提升，生产生态用地对生态系统服务价值的贡献率提升至 $1 0 . 4 1 \%$ 。总体来说红寺堡区主要
+
+# 干辛区地理
+
+表62000—2018年红寺堡区主要土地利用功能转型方式及其贡献率  
+Tab.6Main land use function transformations and contribution rates in Hongsibu District from 2000 to 20   
+
+<html><body><table><tr><td>“三生"类型变化</td><td>地类</td><td>地类转型(代码)</td><td>面积/10hm²</td><td>ESV/10元</td><td>贡献率/%</td></tr><tr><td>生产生态用地一生态用地</td><td>旱地转灌木林地</td><td>11转22</td><td>2.37</td><td>5.11</td><td>30.78</td></tr><tr><td rowspan="4">生态用地未变</td><td>旱地转其他林地</td><td>11转21</td><td>0.15</td><td>0.43</td><td>2.61</td></tr><tr><td>其他草地转灌木林地</td><td>31转22</td><td>1.69</td><td>3.87</td><td>23.30</td></tr><tr><td>其他草地转其他林地</td><td>31转21</td><td>0.23</td><td>0.72</td><td>4.30</td></tr><tr><td>未利用地转其他林地</td><td>6转21</td><td>0.10</td><td>0.32</td><td>1.91</td></tr><tr><td rowspan="4">生态用地一生产生态用地</td><td>未利用地转灌木林地</td><td>6转22</td><td>0.08</td><td>0.19</td><td>1.15</td></tr><tr><td>其他草地未转</td><td>31未转</td><td>11.01</td><td>2.38</td><td>14.35</td></tr><tr><td>其他草地转园地</td><td>31转13</td><td>0.26</td><td>0.48</td><td>2.87</td></tr><tr><td>未利用地转园地</td><td>6转13</td><td>0.11</td><td>0.21</td><td>1.28</td></tr><tr><td rowspan="3">生产生态用地一生产生态用地</td><td>其他草地转水浇地</td><td>31转12</td><td>1.39</td><td>0.20</td><td>1.19</td></tr><tr><td>旱地转园地</td><td>11转13</td><td>0.36</td><td>0.60</td><td>3.63</td></tr><tr><td>旱地未转</td><td>11未转</td><td>0.67</td><td>0.24</td><td>1.44</td></tr><tr><td>生态用地一生态生产用地</td><td>其他草地转水域</td><td>31转4</td><td>0.10</td><td>0.45</td><td>2.73</td></tr><tr><td>生产生态用地一生态生产用地</td><td>园地转水域</td><td>13转4</td><td>0.08</td><td>0.35</td><td>2.12</td></tr><tr><td>生态生产用地未变</td><td>水域未转</td><td>4未转</td><td>0.07</td><td>0.31</td><td>1.86</td></tr><tr><td>增加小计 生产生态用地一生态生产用地</td><td></td><td></td><td>18.67</td><td>15.87</td><td>95.54</td></tr><tr><td></td><td>旱地转其他草地</td><td>11转31</td><td>2.50</td><td>-0.33</td><td>16.61</td></tr><tr><td>生产生态用地一生活生产用地</td><td>旱地转建设用地</td><td>11转5</td><td>0.75</td><td>-0.30</td><td>14.82</td></tr><tr><td>生态用地一生产生态用地</td><td>灌木林地转水浇地</td><td>22转12</td><td>0.13</td><td>-0.27</td><td>13.53</td></tr><tr><td>生态用地未变</td><td>灌木林地转其他草地</td><td>22转31</td><td>0.13</td><td>-0.29</td><td>14.49</td></tr><tr><td rowspan="2">生态用地一生活生产用地</td><td>其他草地转建设用地</td><td>31转5</td><td>1.04</td><td>-0.28</td><td>13.68</td></tr><tr><td>灌木林地转建设用地</td><td>22转5</td><td>0.02</td><td>-0.05</td><td>2.59</td></tr><tr><td>生态生产用地未变</td><td>水域转其他草地</td><td>4转31</td><td>0.06</td><td>-0.27</td><td>13.53</td></tr><tr><td rowspan="2">生态生产用地一生产生态用地 减少小计</td><td>水域转水浇地</td><td>4转12</td><td>0.01</td><td>-0.04</td><td>1.81</td></tr><tr><td></td><td></td><td>4.62</td><td>-1.83</td><td>91.05</td></tr></table></body></html>
+
+通过植被恢复、农业空间结构转型用以提高生态系统服务价值。生态系统服务价值有所提高的同时，部分措施也对当地生态环境产生了损耗。一方面生活生产用地对其他用地的侵入，降低了生态环境质量，对生态系统价值的损耗为 $3 1 . 0 9 \%$ ,尤其是生活生产用地对生态用地的侵入影响最大，中部、东部开展大量的城镇基础建设直接损耗了 $0 . 3 3 \times 1 0 ^ { 8 }$ 元，其次是生产生态用地向生活生产用地的转移导致 $0 . 3 0 \times 1 0 ^ { 8 }$ 元的衰减;另一方面生态用地内部的转换，对区域生态系统服务价值降低也有影响，灌木林地向其他草地转移时发生了 $0 . 2 9 \times 1 0 ^ { 8 }$ 元的减少。总体生态服务价值的降低主要由于建设用地对其他用地的侵占所致。
+
+# 4讨论
+
+国土空间生产、生活、生态三大主导功能间权衡/协同关系受制于地域分异规律并随土地利用方式和发展阶段不同而不断演化[4%，特别是生态移民区人类活动对生态系统结构及土地功能转型影响极大。红寺堡灌区作为宁夏扶贫扬黄工程的主战场，规模最大，从1998年底首批移民迁人，到2015年最后一批宁夏“十三五"劳务移民 $3 \times 1 0 ^ { 4 }$ 余人迁入，大规模的有组织的移民活动基本完成。2000年，红寺堡区正处开发初期，生态环境敏感脆弱，国土空间布局不均衡，以生产生态空间和生态空间为主，生活生产空间规模较小且布局分散，移民的主要生计仍是以传统种植业为主，随后通过建设绿洲生活空间的模式，合理规划黄河水资源和黄河两岸宜农荒地，加快现代化灌区的发展，加快推进滴管、喷灌等集约、节约的现代化灌溉体系的建设，很大程度解决了“三生”用地的用水需求，并且通过退耕还林、封山育林等措施，采用中部区域进行绿洲开发、周边缓坡丘陵大力植树造林的模式，使得红寺堡区生态环境得到很大改善，极大改善了当地的人地关系，生产-生态-生活用地空间布局逐渐优化。今后的发展中，一方面，践行习近平总书记的"生命共同体"理论，推进山水林田湖草协同治理，做好已有生态用地的质量提升、绿地生态网络优化的"绣花"功夫，从而优化生态系统服务结构，提升生态系统的服务功能。另一方面，积极践行“两山论”，通过推进生态产业化促进生态要素向生产要素、资源禀赋向物质财富转变，让生态系统提供更多优质生态产品和服务；同时，还要积极推进生产方式和生活方式的绿色转型，通过农药化肥减量化降低对产业发展及生态环境的负面影响。通过多措并举，促进一二三产业的融合发展，提升生产空间的集约度、生态空间的生态服务功能、生活空间的宜居性，以推动生态移民区的生态环境保护和高质量发展。
+
+# 5结论
+
+（1）2000一2018年，红寺堡区形成以中部灌区生活生产、生产生态空间为主，周边为生态空间“三生"格局。其中受退耕还林及引黄灌溉工程影响，生产生态空间逐渐减小，灌区范围逐渐扩张；生活生产空间扩张范围最广，由最初分布零散逐渐形成以红寺堡镇城区为核心区、宏德工业园区和太阳山工业园区为两翼，乡村居民点的规模和数量明显增加的生活生产空间格局体系；生态空间中重点生态用地向罗山周围及东南区域集中，一般生态用地和生态容纳地面积萎缩。
+
+(2）生产生态用地面积呈先减少后增加的趋势，2000—2009年减少 $4 . 9 7 \times 1 0 ^ { 4 } \ : \mathrm { h m } ^ { 2 }$ ,2009—2018年增加 $1 . 5 5 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，共减少 $3 . 4 2 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，主要表现为旱地减少，水浇地和园地增加，土地利用集约度提高；生态用地呈先增加后减少的趋势，主要表现为重点生态用地增加、生态容纳地减少；乡村居民点数量增加，城镇用地范围扩增，使得生活生产用地显著增加,共增加 $2 . 0 2 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ ,生态生产空间共计增加 $0 . 1 6 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 。
+
+（3）生态系统服务价值从2000年的 $1 1 . 4 9 \times 1 0 ^ { 8 }$ 元增加至2018年的 $2 2 . 6 7 \times 1 0 ^ { 8 }$ 元，其中生态用地对生态服务价值总量的贡献最大。生态系统服务价值提高主要通过植被恢复、农作物种植结构转型来实现，主导因素来自生产生态空间向生态空间的转移，贡献率达 $1 0 . 4 1 \%$ ，生态系统服务价值降低主要由于生产、生活功能的增强，加快了建设用地对其他用地的侵占。
+
+（4）协同推进山水林田湖草协同治理，做好已有生态用地的质量提升和绿地生态网络建设，优化生态系统服务结构，提升生态系统的服务功能；积极推进生态产业化和产业生态化,促进一二三产业融合发展，从而达到生产空间的集约化发展、生态空间的提质增效以及生活空间的优美宜居。
+
+# 参考文献(References)
+
+[1]王权,李阳兵,黄娟,等.喀斯特槽谷区土地利用转型过程对生 态系统服务价值的影响[J].水土保持研究,2019,26(3):192- 198.[Wang Quan,Li Yangbing,Huang Juan,et al.Effect of land use transformation process on ecosystem service value in Karst Trough Valley area[J].Soil and Water Conservation Research, 2019,26(3): 192-198.]   
+[2]龙花楼.论土地利用转型与土地资源管理[J].地理研究,2015, 34(9):16O7-1618.[Long Hualou. Land use transition and land management[J]. Geographical Research,2015,34(9): 1607-1618.]   
+[3]Walker R T,Solecki W D, Harwell C.Land use dynamics and ecological: The case of south Florida[J]. Urban Ecosystems,1997,1 (1): 37-47.   
+[4]Grainger A. National land use morphology: Patterns and possibilities[J]. Geography,1995, 80(3): 235-245.   
+[5]龙花楼,李秀彬.区域土地利用转型分析:以长江沿线样带为例 [J].自然资源学报,2002,17(2):144-149.[Long Hualou, Li Xiubin.Analysis on regional land use transition: A case study in transect of the Yangtze River[J]. Journal of Natural Resources,2002, 17(2): 144-149. ]   
+[6]龙花楼.土地利用转型——土地利用/覆被变化综合研究的新 途径[J].地理与地理信息科学,2003,19(1):87-90.[Long Hualou.Land use transition: A new integrated approach of land use/ cover change study[J]. Geography and Geo-Information Science, 2003,19(1):87-90.]   
+[7]陈龙,周生路,周兵兵,等.基于主导功能的江苏省土地利用转 型特征与驱动力[J].经济地理,2015,35(2):155-162.[Chen Long,Zhou Shenglu, Zhou Bingbing,et al. Characteristics and driving forces of regional land use transition based on the leading function classification: A case study of Jiangsu Province[J]. Economic Geography,2015,35(2): 155-162.]   
+[8]宋小青,李心怡.区域耕地利用功能转型的理论解释与实证[J]. 地理学报,2019,74(5): 992-1010.[Song Xiaoqing,Li Xinyi. Theoretical explanation and case study of regional cultivated land use function transition[J].Acta Geographica Sinica, 2019,74(5): 992-
+
+# 干旱区地理
+
+1010.]   
+[9]龙花楼,陈坤秋.基于土地系统科学的土地利用转型与城乡融 合发展[J].地理学报,2021,76(2):295-309.[Long Hualou,Chen Kunqiu. Urban-rural integrated development and land use transitions: A perspective of land system science[J]. Acta Geographica Sinica,2021,76(2): 295-309.]   
+[10]Long HL, Qu Y,Tu S S,et al.Development of land use transitions research in China[J]. Journal of Geographical Sciences,2020,30 (7): 1195-1214.   
+[11] 刘芳,闫慧敏,刘纪远,等.21世纪初中国土地利用强度的空间 分布格局[J].地理学报,2016,71(7):1130-1143.[Liu Fang,Yan Huimin,Liu Jiyuan,et al.Spatial pattern of land use intensity in China in 2000[J].Acta Geographica Sinica,2016,71(7):1130- 1143.]   
+[12]Liu YQ, Long HL.Land use transitions and their dynamic mechanism: The case of the Huang-Huai-Hai Plain[J]. Journal of Geographical Sciences,2016,26(5): 515 -530.   
+[13]Qu Y,Long HL. The economic and environmental effects of land use transitions under rapid urbanization and the implications for land use management[J]. Habitat International,2O18,82:113- 121.   
+[14] 龙花楼,曲艺,屠爽爽,等.城镇化背景下中国农区土地利用转 型及其环境效应研究:进展与展望[J].地球科学进展,2018,33 (5): 455-463.[Long Hualou, Qu Yi,Tu Shuangshuang,et al. Land use transitions under urbanization and their environmental effects in the farming areas of China: Research progress and prospect[J]. Advances in Earth Science,2018,33(5): 455-463.]   
+[15] 刘永强,廖柳文,龙花楼,等.土地利用转型的生态系统服务价 值效应分析——以湖南省为例[J].地理研究,2015,34(4):691- 700.[Liu Yongqiang,Liao Liuwen, Long Hualou, et al.Effects of land use transitions on ecosystem services value: A case study of Hunan Province[J]. Geographical Research,2015,34(4): 691- 700.]   
+[16]吕立刚,周生路,周兵兵,等.区域发展过程中土地利用转型及 其生态环境响应研究——以江苏省为例[J].地理科学,2013, 33(12): 1442-1449.[Lu Ligang, Zhou Shenglu, Zhou Bingbing,et al. Land use transition and its eco-environmental response in process of the regional development:A case study of Jiangsu Province [J]. Geographical Science,2013,33(12): 1442-1449.]   
+[17] 苑韶峰,唐奕钰,申屠楚宁.土地利用转型时空演变及其生态环 境效应——基于长江经济带127个地级市的实证研究[J].经济 地理,2019,39(9):174-181.[Yuan Shaofeng,Tang Yiyu, Shentu Chuning. Spatiotemporal change of land-use transformation and its eco-environmental response: A case of 127 counties in Yangtze River Economic Belt[J]. Economic Geography, 2019,39(9):174- 181.]   
+[18]张佰林,高江波,高阳,等.中国山区农村土地利用转型解析[J] 地理学报,2018,73(3): 503-517.[Zhang Bailin,Gao Jiangbo, Gao Yang,et al. Land use transition of mountainous rural areas in
+
+China[J].Acta Geographica Sinica,2018,73(3): 503-517.]
+
+[19]龙花楼,戈大专,王介勇.土地利用转型与乡村转型发展耦合研 究进展及展望[J].地理学报,2019,74(12): 2547-2559.[Long Hualou,Ge Dazhuan,Wang Jieyong.Progress and prospects of the coupling research on land use transitions and rural transformation development[J].Acta Geographica Sinica, 2019,74(12): 2547- 2559.]   
+[20] 杨清可,段学军,王磊,等.基于"三生空间"的土地利用转型与 生态环境效应——以长江三角洲核心区为例[J].地理科学, 2018,38(1): 97-106.[Yang Qingke,Duan Xuejun,Wang Lei,et al. Land use transformation based on ecological-production-living spaces and associated eco-environment effects:A case study in theYangtze River Delta[J].Scientia Geographica Sinica,2018,38 (1): 97-106.]   
+[21] 龚亚男,韩书成,时晓标,等.广东省"三生空间"用地转型的时 空演变及其生态环境效应[J].水土保持研究,2020,27(3):203- 209.[Gong Ya'nan,Han Shucheng,Shi Xiaobiao,et al. Temporal and spatial evolution and associated eco-environment effects of the land usetransformation of ecological-production-living spaces in Guangdong Province[J]. Soil and Water Conservation Research, 2020,27(3): 203-209.]   
+[22] 戴文远,江方奇,黄万里,等.基于"三生空间"的土地利用功能 转型及生态服务价值研究——以福州新区为例[J].自然资源 学报,2018,33(12):2098-2109.[Dai Wenyuan,Jiang Fangqi, Huang Wanli,et al. Study on transition of land use function and ecosystem service value based on the conception of production, living and ecological space: A case study of the Fuzhou New Area[J]. Journal of Natural Resources,2018,33(12): 2098-2109.]   
+[23]Long HL,Liu Y Q,Hou XG,et al.Effects of land use transitions due to rapid urbanization on ecosystem services: Implications for urban planning in the new developing area of China[J]. Habitat International, 2014,44: 536-544.   
+[24]Estoque R C, Murayama Y. Landscape pattern and ecosystem service value changes: Implications for environmental sustainability planning for the rapidly urbanizing summer capital of the Philippines[J]. Landscape and Urban Planning,2013,116(4): 60-72.   
+[25]刘永强,龙花楼,李加林.长江中游经济带土地利用转型及其生 态服务功能交叉敏感性研究[J].地理研究,2018,37(5):1009- 1022.[Liu Yongqiang,Long Hualou,Li Jialin.Study on the land use transition and its cross-sensitivity of ecological service function in the middleof Yangtze River Economic Belt[J]. Geographical Research,2018,37(5): 1009-1022.]   
+[26]宋家鹏,陈松林.福建省土地利用隐性形态与土地生态安全耦 合协调分析[J].水土保持研究,2020,27(4):301-307.[Song Jiapeng,Chen Songlin. Coupling relationship and coordination between recessive land use morphology and land eco-security in Fujian Province[J].Soil and Water Conservation Research,2020,27 (4): 301-307.]   
+[27] 高星,刘泽伟,李晨曦,等.基于"三生空间"的雄安新区土地利 用功能转型与生态环境效应研究[J].生态学报,2020,40(20): 7113-7122.[Gao Xing,Liu Zewei,Li Chenxi,et al.Land use function transformation in the Xiong'an New Area based on ecologicalproduction- living spaces and associated eco-environment effects [J].Acta Ecologica Sinica,2020,40(20): 7113-7122.]   
+[28] 罗刚,廖和平,李强,等.基于"三生空间"的土地利用主导功能 转型及其生态环境响应——以重庆市巴南区为例[J]. 西南大 学学报（自然科学版),2018,40(4):105-112.[Luo Gang,Liao Heping,Li Qiang,et al.A study of land use function transformation based on ecological- production-living spaces and associated eco-environment response: A case study of Banan Districts[J]. Journal of Southwest University (Natural Science Edition),2O18,40(4): 105-112.]   
+[29] 黄木易,方斌,岳文泽,等.近20a来巢湖流域生态服务价值空 间分异机制的地理探测[J].地理研究,2019,38(11):2790- 2802.[Huang Muyi,Fang Bin, Yue Wenze,et al.Spatial diferentiation of ecosystem service values and its geographical detection in ChaohuBasin during 1995—2017[J]. Geographical Research, 2019,38(11):2790-2802.]   
+[30] 王亚娟,王鹏,韩文文,等.宁夏中部干旱带生态移民过程生态 风险时空分异—以红寺堡区为例[J].干旱区地理,2018,41 (4):817-825.[Wang Yajuan,Wang Peng,Han Wenwen, et al. Spatial and temporal variation of ecological risk in the process of ecological immigration in the arid zone of central Ningxia: A case of Hongsibu District[J]. Arid Land Geography,2018,41(4): 817- 825.]   
+[31] 杨显明,米文宝,齐拓野,等.宁夏生态移民效益评价研究[J].干 旱区资源与环境,2013,27(4):16-23.[Yang Xianming,Mi Wenbao,Qi Tuoye,et al.The benefit evaluation of ecological immigration in Ningxia[J].Arid Land Resources and Environment, 2013, 27(4): 16-23. ]   
+[32] 郃秀军,畅冬妮,郭颖.宁夏生态移民居住安置方式的减贫效果 分析[J].干旱区资源与环境,2017,31(4):47-53.[Tai Xiujun, Chang Dongni,Guo Ying.Poverty reduction effects of ecological migrants resettlement ways for Ningxia[J].Arid Land Resources and Environment,2017,31(4): 47-53.]   
+[33] 苗红,贾菲,耿一睿,等.宁夏生态移民安置区人地耦合系统脆 弱性分析[J].干旱区地理,2020,43(3):796-806.[Miao Hong, JiaFei,Geng Yirui,et al.Vulnerability analysis of man-land cou
+
+pling system in Ningxia ecological resettlement area[J].Arid Land
+
+Geography,2020,43(3): 796-806.]   
+[34] 潘玥,金利娇,陈竹安,等.协同GF-2号和OLI影像的土地利用 模糊分类方法[J].地理空间信息,2020,18(11):26-31.[Pan Yue,Jin Lijiao,Chen Zhu'an,et al.Fuzzy classification method of land use based on remote sensing data of GF-2 and OLI[J]. Geospatial Information,2020,18(11): 26-31.]   
+[35]陈百明,周小萍.《土地利用现状分类》国家标准的解读[J].自然 资源学报,2007,22(6): 994-1003.[Chen Baiming,Zhou Xiaoping.Explanation of “current land use condition classification” for national standard of the People's Republic of China[J]. Journal of Natural Resources,2007,22(6): 994-1003.]   
+[36] 刘纪远,宁佳,匡文慧,等.2010—2015年中国土地利用变化的 时空格局与新特征[J].地理学报,2018,73(5):789-802.[Liu Jiyuan,Ning Jia, Kuang Wenhui, et al. Spatio-temporal patterns and characteristics of land-use change in China during 2O1O—2015[J]. Acta Geographica Sinica,2018,73(5): 789-802.]   
+[37] 朱媛媛,余斌,曾菊新,等.国家限制开发区"生产-生活-生态” 空间的优化——以湖北省五峰县为例[J].经济地理,2015,35 (4): 26-32.[Zhu Yuanyuan,Yu Bin, Zeng Juxin,et al. Spatial optimization from three spaces of production,living and ecology in national restricted zones:A case study of Wufeng County in Hubei Province[J]. Economic Geography,2015,35(4): 26-32.]   
+[38] 谢高地,张彩霞,张雷明,等.基于单位面积价值当量因子的生 态系统服务价值化方法改进[J].自然资源学报,2015,30(8): 1243-1254.[Xie Gaodi, Zhang Caixia, Zhang Leiming,et al. Improvement of the evaluation method for ecosystem service value based on per unit area[J]. Journal of Natural Resources,2O15,30 (8): 1243-1254.]   
+[39] Costanza R,d'Arge R,de Groot R,et al. The value of the world's ecosystem services and natural capital[J]. Nature,1997,387(15): 253-260.   
+[40] 李欣,方斌,殷如梦,等.村域尺度"三生"功能与生活质量感知 空间格局及其关联——以江苏省扬中市为例[J].地理科学, 2020,40(4): 599-607.[Li Xin,Fang Bin,Yin Rumeng,et al. Spatial pattern and association of production-living-ecological function and life quality on the village scale:A case of Yangzhong City, Jiangsu Province[J]. Scientia Geographica Sinica,2020,40(4): 599- 607.]
+
+# Effects of "ecological-production-living" land changes on ecosystem services in ecological migration area: A case of Hongsibu District in Ningxia
+
+AN Siwen'， MA Caihong1²，YUAN Qianying'，HUA Yuqi' (1.School of Resourcesand Environment,Ningxia University,Yinchuan 75oo21,Ningxia,China; 2.Key Laboratory of Resource Evaluation and Environmental Control in Ningxia (China and Arab)Arid Areas, Yinchuan 750021, Ningxia, China)
+
+Abstract: The field of land use transformation aims to study the transformation process of land use forms corresponding to economic and social development. One of its manifestations is to study the transformation among the three leading functions of land,captured by the term ecological-production-living.The Eighteenth National Congress of the Communist Party of China put forward the national space development goal of "building intensive and eficient production space,livable and moderate living space,and ecological space with clear mountains and beautiful waters”,which has made land use transformation and its ecological efect from the perspective of ecological-production-living a hottopic in the field. Human activities have a significant impact on land use and the ecological environment in ecologically immigrated areas with large population changes. Hongsibu District in Ningxia, China is the main batlefield of a large-scale national water conservation project (the Ningxia PovertyAlleviation and Yellow River Irrigation Project),and it is also the largest single ecological migration area in China.Therefore,the impact of land use transition on the value of ecosystem services from the perspective of production-living land use can not only enrich the research content of this aspect at the county level but also provide a reference for decision-making regarding land use and ecological construction in arid ecological migrant areas.In this paper, image data from 2000,2009,and 2018 were processed using the ArcGIS 10.6 software and a land distribution map. Various measurement methods and GIS spatial analysis tools were adopted to conduct a quantitative study on the transformation of production-living land and the changes in ecological services in the Hongsibu District from 2000 to 2018.The results are as follows: (1)From 1990 to 2018,production of ecological land decreased by $3 . 4 2 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ in Hongsibu District, whereas that of ecological land increased by $1 . 2 4 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ . The ecological production space also increased by $0 . 1 6 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，whereas the land for living and production was increased by $2 . 0 2 \times 1 0 ^ { 4 } ~ \mathrm { h m } ^ { 2 }$ .(2)From 1990 to 2018, the ecosystem service value of Hongsibu District increased by $1 1 . 1 8 \times 1 0 ^ { 8 }$ yuan. Vegetation restoration greatly improves regional ecosystem service value,but the encroachment of construction land on other lands will reduce the regional ecosystem service value. (3)Hongsibu District has formed a basic pattern including living, production,and ecological land in the central irrigation area, with the surounding ecological space also being ecological-production-living land, and the land development patern has been gradually optimized. (4) In future development, we should jointly promote the coordinated management of mountains,rivers,forests,farmland,lakes,and grasslands;improve the quality ofexisting ecological land; construct an ecological network of green space; and optimize and improve the structure and function ofecosystem services.Additionally，we should actively promote ecological industrializationand industrial ecology.Through the integrated development of primary,secondary,and tertiary industries,we can realize an effective combination of intensive development of production space,quality and efficiency improvement of ecological space，and beautiful and livable living space,to promote ecological environmental protection and high-quality development.
+
+Key words:“ecological-production-living”land; land use transition; ecosystem service value；Hongsibu District

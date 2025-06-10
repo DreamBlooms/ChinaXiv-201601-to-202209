@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "极端干旱与氮添加对半干旱沙质草地物种多样性、叶性状和生产力的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙一梅¹，田青¹，吕朋2，郭爱霞34，张森溪34，左小安24(1.甘肃农业大学林学院,甘肃 兰州730070；2.中国科学院西北生态环境资源研究院奈曼沙漠化研究站,甘肃兰州730000；3.中国科学院大学,北京100049；4.中国科学院西北生态环境资源研究院，乌拉特荒漠草原研究站，甘肃 兰州 730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以科尔沁沙质草地为研究对象,研究了短期内极端干旱(减雨 $6 0 \\%$ 和干旱60d)和氮添加 $( 2 0 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 } )$ 对植物群落物种多样性、叶性状和生物量的影响。结果表明：水、氮变化改变了群落中优势物种的重要值,其中优势物种砂蓝刺头和黄蒿的重要值在短期极端干旱和氮添加处理下明显增加。短期内极端干旱对植株高度(Hight,H）、叶片氮含量(Leaf Nitrogen Content,LNC)及地上生物量有显著影响,减雨 $6 0 \\%$ 降低了H,而增加了LNC,生物量在减雨 $6 0 \\%$ 和干旱 $6 0 \\mathrm { ~ d ~ }$ 处理下均显著降低,物种多样性、比叶面积(Specific Leaf Area,SLA）、叶干物质含量(LeafDry Mattr Content,LDMC)及叶碳含量(Leaf Carbon Content,LCC)在不同干旱处理间均无显著差异。短期氮添加对植物叶性状及地上生物量有显著影响,H、SLA和LNC在氮添加处理下增加,而LDMC降低,植物多样性无显著变化。极端干旱与氮添加两者交互作用对物种多样性、叶性状及生物量均无显著影响。相关回归分析表明,物种多样性、SLA、LDMC、LCC及LNC与生物量无显著相关关系,而H与生物量显著正相关。半干旱沙质草地一年生为主的植物群落通过改变优势物种关键性状来适应极端干旱和氮沉降，其中H对草地生产力的维持有较大的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：极端干旱；氮添加；物种多样性；叶性状；生产力",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "草地是陆地生态系统的重要组成部分，占全球陆地总面积的 $2 5 \\% ^ { [ 1 ] }$ ,其年均净初级生产力占全球陆地总生产力的 $1 6 \\% ^ { [ 2 ] }$ 。过去几十年,由于人类活动及全球变化导致草地生态系统严重退化，其中极端十旱和氮沉降是影响草地生产力和生态系统稳定性的重要因素。降雨量及降雨格局变化会影响草地植物群落组成、功能性状、物候期及生产力，尤其在干旱一半干旱生态系统[3-5]。据统计,我国由于干旱造成的损失占气候灾害损失总量的一半以上[6。内蒙古地区一直是绿色农畜产品的重要生产加工基地，也是中国13个主要粮食产区之一，研究发现内蒙古草原干旱呈现多发趋势，势必对我国社会经济发展产生深远的影响[。同时，由于含氮化肥的使用、化石燃料的燃烧及生物固氮使得生态系统中氮素不断累积，进而改变养分限制，影响全球氮循环及生态系统过程[8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "物种多样性作为指示生态系统功能的基础指标，利于阐明植物群落结构特征的发展阶段及稳定性问题，草地生态系统的稳定性及生产力的维持在很大程度上依赖于物种多样性[10]。国内外关于水、氮变化对陆地生态系统物种多样性、群落结构及生产力影响的研究已有很多报道[5I]。模拟极端干旱实验发现，干旱会降低植物群落生产力、盖度和多样性[5.12],长期模拟氮沉降增加显著降低物种丰富度,增加叶片大小、植株高度及群落生产力[13-15]同时，研究发现水氮耦合对植物生长存在相互补偿机制[16]。然而,也有研究发现极端干旱和氮添加对生态系统生产力和多样性无明显影响[17-18],这可能是由于研究周期、研究方法及研究区不同造成的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植物的功能性状是植物与所处环境进行连接的桥梁，在发展过程中植物与环境相互作用，为了减少不利环境对植物自身的伤害，植物逐渐在形态及生理上形成了一些适应策略，这些适应策略即为植物功能性状[19-20]。区域环境因子被认为是筛选性状的过滤器，特别是降水和土壤养分等都会对植物功能性状变化产生一定的影响[2]。具有不同功能性状的物种可能会对环境变化作出不同的反应，从而影响生态系统过程[22]。Naeem[23]认为生态系统的稳定性不仅取决于物种多样性，还依赖于植物性状，Haifa等24人也发现与植物资源竞争相关的性状，如比叶面积、叶干物质含量及株高等，有利于植物群落在气候变暖的情况下保持稳定。在全球变化的大背景下，极端干旱能够降低植物群落叶面积，增加比叶面积,氮添加能够增加株高、比叶面积和叶氮含量，降低叶干物质含量，极端干旱与氮添加交互处理可影响植物光合作用，显著增加比叶面积,降低叶片单位面积的氮含量[25-27]。因此,全球变化背景下功能性状的研究可以提高对生态系统稳定性相关机理的认识。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "科尔沁沙地处于我国北方半干旱农牧交错区生态脆弱带，对全球变化较为敏感，且人类活动频繁，土壤侵蚀严重，致使科尔沁沙质草地植被严重退化。目前，大部分研究主要集中在单独讨论全球变化及人类活动对草地生态系统植物群落组成和结构、物种多样性、功能性状及生产力的影响上[3.11.28]，有关极端干旱和氮沉降二者交互作用对半干旱沙质草地物种多样性、叶性状及生产力影响方面的综合研究相对较少。因此，本研究以科尔沁半干旱沙质草地植物群落为研究对象，通过野外控制实验，探究极端干旱和氮添加对半干旱沙质草地植物群落物种多样性、叶性状及生产力的影响，旨在揭示半干旱沙质草地植物群落对极端气候和氮沉降的响应与适应，从而为半干旱沙质草地生态系统退化植被的恢复及其可持续管理提供理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区 $\\langle 4 2 ^ { \\circ } 5 5 ^ { \\prime } { \\sim } 4 2 ^ { \\circ } 5 7 ^ { \\prime } \\mathrm { N } , 1 2 0 ^ { \\circ } 4 0 ^ { \\prime } { \\sim } 1 2 0 ^ { \\circ } 4 3 ^ { \\prime } \\mathrm { E } \\rangle$ 位于内蒙古通辽市奈曼旗境内，地处科尔沁沙地中南部,属温带大陆性半干旱季风气候,海拔约 $3 6 0 \\mathrm { ~ m ~ }$ ，年均气温约 $6 . 4 ~ \\mathrm { { ^ { \\circ } C } }$ ,其中1月最低温 $- 1 3 . 1 \\ \\mathrm { { ^ { \\circ } C } } , 7$ 月最高温 $2 3 . 7 ~ \\mathrm { \\textdegree C }$ ，全年 $\\mathrm { \\geqslant } 1 0 ~ \\mathrm { \\leqslant C }$ 的有效积温在 $3 0 0 0 ~ \\mathrm { { ^ { \\circ } C } }$ 以上，无霜期 $1 5 0 \\mathrm { d }$ ,年均降水量约 $3 6 0 ~ \\mathrm { m m }$ ,其中 $7 0 \\sim$ $8 0 \\%$ 的降水集中在6\\~8月，年均蒸发量约1972.8$\\mathrm { m m }$ 。年均风速 $3 . 2 { \\sim } 4 . 1 ~ \\mathrm { m } \\cdot \\mathrm { s } ^ { - 1 }$ ,春冬两季盛行西北风,夏秋两季为西南风[29]。该研究区流动沙丘、半固定沙丘、固定沙丘、丘间低地等各种沙丘类型交错分布，土壤类型以风沙土、沙质栗钙土为主。沙质草地主要植物种有糙隐子草（Cleistogenes squarrosa）、白草(Pennisetum centrasiaticum）黄蒿(Artemisia sco-paria）砂蓝刺头（Echinopsgmelini）尖头叶藜(Che-nopodium acuminatum）狗尾草(Setaria viridis)等[30]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究依托中国科学院西北生态环境资源研究院奈曼沙漠化研究站。为避免空间异质性和家畜及人为活动等对实验结果的影响，于2019年4月底，选取地势相对较为平坦、环境条件相对均质的沙质草地进行围栏。在围栏中共设置36个小区，其中极端干旱处理包括自然降雨(W0）、减雨 $6 0 \\%$ （ $- 6 0 \\%$ ,5—7月)和干旱60d(5—6月);氮处理包括不施氮(NO)和添加氮 $( \\Nu + )$ ，采用完全随机区组设计，共6个处理，每个处理6个重复。模拟极端干旱实验采用搭建遮雨棚的方法进行，其中凹槽遮雨板的材质为高透光聚碳酸酯，透光率达 $9 0 \\%$ 。每个实验小区的遮雨棚面积为 $6 \\mathrm { m } { \\times } 6 \\mathrm { m }$ ，相邻实验小区间设置 $2 \\mathrm { m }$ 的缓冲带，生长季结束后拆除遮雨板。为保证空气畅通将遮雨棚四面敞开。模拟氮沉降时使用尿素进行氮添加处理,氮添加量为 $2 0 \\mathrm { g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 }$ ，分两次施,每次 $1 0 \\ \\mathrm { g \\cdot m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 }$ （参考国际上常用的氮素添加水平)[\"。施肥时间选择5月和7月，氮肥施用量根据小区面积和尿素含氮量（ $4 6 \\%$ 计算。选择在5一7月进行处理主要是因为，内蒙古地区大部分降雨主要集中在5一8月，其中7月份的降雨对植物群落生产力影响最大[3.14]。为减小水分和氮素侧向干扰，在每个实验小区的四周挖 $1 \\mathrm { m }$ 深，用包有塑料纸的金属隔板隔开。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3调查方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "于2019年8月生物量高峰期进行调查取样，采样时为了避免边缘效应，限制采样点离边界至少1m。在每个样地内随机设置3个 $1 \\mathrm { m } { \\times } 1 \\mathrm { m }$ 的样方，调查样方中植物群落物种组成、高度 $\\operatorname { \\Pi } ( \\operatorname { H } , \\operatorname { c m } )$ 、盖度和密度，并采用齐地面刈割法分物种收获每种植物，同时收取地上的调落物，装入信封袋带回实验室，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$7 0 \\ \\%$ 烘干至恒重后称重。选择每个样方中的优势物种，参照Cornelissen等22的《植物功能性状标准测定手册》,测定并计算每个样方内优势物种的比叶面积（SpecificLeafArea,SLA）和叶干物质含量(LeafDryMatterContent,LDMC）,利用元素分析仪(CostechECS4010)测定叶碳含量(LeafCarbonCon-tent, $\\operatorname { L C C } , \\%$ ）和叶氮含量（Leaf NitrogenContent,$\\mathrm { L N C } , \\% )$ 。SLA和LDMC计算公式分别为： $\\operatorname { S L A } ( \\mathbf { m } ^ { 2 }$ .$\\mathbf { k g } ^ { - 1 } ) =$ 叶面积/叶干质量; $\\mathrm { L D M C } ( \\mathbf { g } \\cdot \\mathbf { g } ^ { - 1 } ) =$ 叶干质量/叶鲜质量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "群落水平植物叶性状值用植物群落功能性状(CWM)表示[31]，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C W M } = \\sum _ { i = 1 } ^ { n } { P _ { i } \\times { t r a i t _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { i }$ 是物种 $i$ 在群落内的相对生物量; $t r a i t _ { i }$ 是物种 $i$ 的性状值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4物种多样性测度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重要值 $\\ c =$ （相对高度 $+$ 相对盖度 $^ +$ 相对生物量）/3。式中：相对高度为某一物种的高度占样方内全部物种高度之和的百分比；相对盖度为某一物种的盖度占样方内全部物种盖度之和的百分比;相对生物量为某一物种的生物量占样方内全部物种生物量之和的百分比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物种多样性选取物种丰富度指数 $( S )$ 、Simpson优势度指数 $( D )$ 、Shannon-Wiener多样性指数 $( H )$ 和Pielou均匀度指数 $( J )$ 进行多样性测度[32]。其中物种丰富度指数用 $1 ~ \\mathrm { m } ^ { 2 }$ 样方内出现的物种数表示，其他指数计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simpson优势度指数 $( D )$ · ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = \\sum _ { i = 1 } ^ { s } { N } _ { i } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Shannon-Wiener多样性指数 $( H )$ · ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\sum _ { i = 1 } ^ { s } ( N _ { i } \\ln { N _ { i } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pielou均匀度指数 $( J )$ · ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ { = } H / \\ln S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $N _ { i }$ 为种 $i$ 的相对重要值； $s$ 为群落物种数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数据整理、统计分析与制图分别利用Excel2010、SPSS20.0与Sigmaplot10.0软件。采用双因素方差分析比较极端干旱、氮添加及二者交互作用对半干旱沙质草地物种多样性、叶性状及生物量的影响，单因素方差分析比较同一氮素水平下，不同干旱处理间物种多样性、叶性状及生物量的差异，采用T检验分析比较同一干旱条件下，不同氮素处理对物种多样性、叶性状及生物量的影响。采用皮尔逊相关分析及线性回归分析不同氮处理下植株高度与地上生物量间的关系。显著性水平均为 $P =$ 0.05。文中数据均为平均值 $\\pm$ 标准误。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1短期水、氮变化对半干旱沙质草地植物重要值的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WONO处理下，糙隐子草、砂蓝刺头和黄蒿为优势种，其重要值分别为 $2 6 . 6 1 \\%$ / $2 3 . 1 9 \\%$ 和 $2 0 . 1 1 \\%$ (表1)，重要值之和占总重要值的 $6 9 . 9 1 \\%$ · $\\mathrm { W O N + }$ 处理下，砂蓝刺头、白草和糙隐子草的重要值位居前3位,其重要值分别为 $2 6 . 5 9 \\%$ ） $2 3 . 0 8 \\%$ 和 $2 2 . 4 2 \\%$ ，重要值之和占总重要值的 $7 2 . 0 9 \\%$ ；只进行减雨 $6 0 \\%$ 处理下，黄蒿、砂蓝刺头和糙隐子草为优势物种，其重要值分别为 $2 5 . 8 6 \\% . 2 0 . 4 7 \\%$ 和 $1 5 . 7 2 \\%$ ,重要值之和占总重要值的 $6 2 . 0 5 \\%$ ;减雨 $6 0 \\%$ 与 ${ \\mathrm { N } } +$ 交互处理下优势物种为砂蓝刺头、白草和黄蒿，重要值分别为$2 2 . 4 3 \\%$ ） $2 1 . 7 3 \\%$ 和 $1 9 . 9 0 \\%$ ，重要值之和占总重要值的 $6 4 . 0 6 \\%$ ;只进行干旱 $6 0 \\mathrm { d }$ 处理下，黄蒿、砂蓝刺头和糙隐子草为优势种，其重要值分别为 $2 6 . 5 3 \\%$ 、$2 5 . 3 4 \\%$ 和 $1 6 . 8 1 \\%$ ，重要值之和占总重要值的$6 8 . 6 8 \\%$ ;干旱60d与 ${ \\mathrm { N } } +$ 交互处理下的优势种为砂蓝刺头、黄蒿和白草,其重要值分别为 $2 8 . 2 3 \\% . 2 7 . 9 7 \\%$ 和 $1 5 . 4 8 \\%$ ，重要值之和占总重要值的 $7 1 . 6 8 \\%$ 。另外,极端干旱条件下,黄蒿重要值增加,而糙隐子草重要值降低，随着氮素的添加，白草和砂蓝刺头重要值增加。大果虫实只在短期极端干旱处理下的群落中出现，而大麻则在此处理下消失。以上结果说明，不同物种对水、氮资源的竞争能力和响应策略不同，因此极端干旱和氮添加对半千旱沙质草地群落中优势物种的重要值及群落物种组成有明显的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2短期水、氮变化对半干旱沙质草地物种多样性 和生产力的影响 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物种多样性和群落生产力是植物群落结构的重要参数。不同水、氮处理对物种丰富度指数、Simpson优势度指数、Shannon-Wiener多样性指数和Pielou均匀度指数均无显著影响( $\\mathrm { \\Delta } P > 0 . 0 5$ ，表2，图",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "/% ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/593150f4be6ea028c455675677f6edccf5028c8cfa204c891ee24af1578e8ce3.jpg",
+        "table_caption": [
+            "Tab.1 Changes of important values of vegetation in semi-arid sandy grassland under different water and nitrogen treatment "
+        ],
+        "table_footnote": [
+            "注：W0表示自然降雨；N0表示不施氮； ${ \\mathrm { N } } +$ 表示氮添加。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">物种</td><td colspan=\"6\">重要值</td></tr><tr><td colspan=\"2\">自然降雨(WO)</td><td colspan=\"2\">减雨60%</td><td colspan=\"2\">干旱60d</td></tr><tr><td>不施氮(NO)</td><td>氮添加(N+)</td><td>不施氮(NO)</td><td>氮添加(N+)</td><td>不施氮(NO)</td><td>氮添加(N+)</td></tr><tr><td>白草(Pennisetum centrasiaticum)</td><td>10.41±0.68</td><td>23.08±10.39</td><td>7.70±0.03</td><td>21.73±0.06</td><td>2.89±0.01</td><td>15.48±0.08</td></tr><tr><td>糙隐子草(Cleistogenes squarrosa)</td><td>26.61±1.29</td><td>22.42±6.66</td><td>15.72±0.04</td><td>13.85±0.04</td><td>16.81±0.04</td><td>12.70±0.03</td></tr><tr><td>大果虫实(Corispermum maorocarpum)</td><td>1</td><td>1</td><td>5.37</td><td>一</td><td>1.32</td><td>一</td></tr><tr><td>达乌里胡枝子(Lespedeza davurica)</td><td>5.21±1.94</td><td>4.46</td><td>1.79±0.02</td><td>5.73</td><td>5.74±0.04</td><td>5.59±0.01</td></tr><tr><td>大麻(Cannabis sativa)</td><td>9.43</td><td>一</td><td>1</td><td>一</td><td>一</td><td>1</td></tr><tr><td>地梢瓜(Cynanchum thesioides)</td><td>5.96</td><td>3.40</td><td>4.05</td><td>2.99</td><td>3.14±0.01</td><td>2.32±0.02</td></tr><tr><td>锋芒草(Tragus racemosus)</td><td>0.94</td><td>1</td><td>1</td><td>1.42</td><td>1</td><td>3.03</td></tr><tr><td>狗尾草(Setaria viridis)</td><td>8.86±3.20</td><td>4.56±0.98</td><td>9.89±0.02</td><td>2.99</td><td>4.04±0.01</td><td>5.31±0.01</td></tr><tr><td>画眉草(Eragrostis pilosa)</td><td>2.90</td><td>5.85</td><td>1</td><td>4.44±0.10</td><td>2.49±0.01</td><td>4.35±0.01</td></tr><tr><td>黄蒿(Artemisia scoparia)</td><td>20.11±2.19</td><td>19.81±4.23</td><td>25.86±0.07</td><td>19.90±0.05</td><td>26.53±0.06</td><td>27.97±0.05</td></tr><tr><td>蒺藜(Tribulus terrester)</td><td>3.53</td><td>4.31±1.51</td><td>4.56±0.02</td><td>5.00±0.03</td><td>6.16±0.02</td><td>6.45±0.01</td></tr><tr><td>尖头叶藜(Chenopodium acuminatum)</td><td>3.97±0.032</td><td>5.83±5.05</td><td>5.82±0.02</td><td>6.98±0.04</td><td>2.93±0.02</td><td>4.48±0.01</td></tr><tr><td>沙葱(Allium mongolicum)</td><td>、</td><td>1</td><td>1</td><td>1</td><td>1</td><td>9.93</td></tr><tr><td>砂蓝刺头(Echinops gmelini)</td><td>23.19±2.73</td><td>26.59±2.91</td><td>20.47±0.03</td><td>22.43±0.02</td><td>25.34±0.03</td><td>28.23±0.06</td></tr><tr><td>雾冰藜(Bassia dasyphylla)</td><td>1.32</td><td>4.18</td><td>6.18</td><td>6.65</td><td>2.97±0.02</td><td>2.28</td></tr><tr><td>猪毛菜(Salsola collina)</td><td>3.73±1.13</td><td>3.83±1.55</td><td>10.79±0.05</td><td>3.67±0.01</td><td>5.01±0.03</td><td>4.56</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0218e0488a80fad8181a7dcb1ee9485b2b733d9a8c18dc56aefbafdd2e3a9c81.jpg",
+        "table_caption": [
+            "表1不同水、氮处理间半干旱沙质草地植被重要值的变化",
+            "表2极端干旱和氮添加及其交互作用对物种多样性和生物量的影响",
+            "[ab.2Effects of extreme precipitation,nitrogen addition and their interactions on species diversity and bio "
+        ],
+        "table_footnote": [
+            "注：\\*表示 $P < 0 . 0 5$ ;\\*\\*表示 $P < 0 . 0 1$ $\\ast \\ast \\ast$ 表示 $P { < } 0 . 0 0 1$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>物种丰富度</td><td>Simpson 优势度指数</td><td>Shannon-Wiener 多样性指数</td><td>Pielou 均匀度指数</td><td>地上生物量</td><td>凋落物量</td></tr><tr><td>干旱</td><td>0.937</td><td>0.053</td><td>0.016</td><td>1.485</td><td>28.56***</td><td>6.62**</td></tr><tr><td>氮添加</td><td>0.601</td><td>0.572</td><td>0.241</td><td>0.043</td><td>5.212*</td><td>1.161</td></tr><tr><td>干旱×氮添加</td><td>0.745</td><td>0.185</td><td>0.037</td><td>0.588</td><td>0.573</td><td>0.683</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)，但极端干旱处理对植物群落地上生物量和调落物量有极显著影响 $( P < 0 . 0 1$ ,表2)。对于地上生物量，与自然降雨相比，极端干旱显著降低了植物群落地上生物量( $\\left( P < 0 . 0 5 \\right)$ ，自然降雨条件下，氮添加处理使地上生物量显著增加( $\\scriptstyle \\left( P < 0 . 0 5 \\right)$ ),而极端干旱处理下氮添加对其影响不显著( $\\cdot P { > } 0 . 0 5$ ，图 $2 \\mathrm { a }$ )。同样地,极端干旱使得凋落物显著减少( $\\stackrel { \\triangledown } { \\cdot } { \\cal P } { < } 0 . 0 1 \\stackrel { \\triangledown } { , }$ ，只进行氮添加处理及极端干旱和氮添加交互处理对其影响不显著( $P > 0 . 0 5$ ,图2b)。说明短期内极端干旱和氮添加对物种多样性影响较小，但对群落生物量影响较大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3短期水、氮变化对半干旱沙质草地植物群落叶性状的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "方差分析表明，短期极端十旱对H和LNC有显著影响 $( P < 0 . 0 5 ) \\$ ，氮添加对H、SLA和LDMC有显著影响 $\\left( P < 0 . 0 5 \\right)$ ，对LNC有极显著影响 $( P { < } 0 . 0 0 1 )$ ，两者交互对植物群落叶性状均无显著影响( $\\mathbf { \\nabla } \\cdot \\mathbf { P } >$ 0.05，表3)。具体来看，相同氮处理下，极端干旱使得H有所降低，其中在只进行减雨 $6 0 \\%$ 处理下达到显著水平( $\\lceil P < 0 . 0 5$ ，图 $3 \\mathrm { a }$ )，同时，减雨 $6 0 \\%$ 处理下，氮添加使得H显著增加( $\\left( P < 0 . 0 5 \\right)$ ；就SLA而言，氮添加处理下极端干旱对其无显著影响 $\\cdot P { > } 0 . 0 5$ ，图3b)，而减雨 $6 0 \\%$ 和十旱 $6 0 \\textup d$ 处理下氮添加使其显著增加( $( P < 0 . 0 5 ) \\$ ;就LDMC而言，相同氮处理下，极端干旱对其无显著影响（ $\\cdot P { > } 0 . 0 5$ 图3c），自然降雨和减雨 $6 0 \\%$ 处理下氮添加使得LDMC显著降低( $P <$ 0.05)；就LNC而言，相同氮处理下，减雨 $6 0 \\%$ 使其显著增加( $\\cdot P < 0 . 0 5$ ，图3e)，而干旱 $6 0 \\textup { d }$ 对其影响不显注：不同小写字母表示同一氮水平不同干旱处理间差异显著。下同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/606178dbe25e9bb9e1e0213e62442d34c616eccaa1a73f7de6fe26e9f7341cf4.jpg",
+        "img_caption": [
+            "Fig.1Effect of extreme precipitation and nitrogen addition on species diversity in Horqin Sandy Land "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4844d44703cf78704ea70e0029e4cf45f4d1bb47d7474a0e5814b34299257a7e.jpg",
+        "img_caption": [
+            "图1极端干旱和氮添加对物种多样性的影响",
+            "注：\\*表示同一干旱水平不同氮处理间差异显著 $( P < 0 . 0 5 )$ 。下同。",
+            "图2极端干旱和氮添加对生物量的影响",
+            "Fig.2Effect of extreme precipitation and nitrogen addition on biomass in Horqin Sandy Land "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e83632590ac107d88b47db37c167f1d00198cdbdc4920905e91fc64e8a880c29.jpg",
+        "table_caption": [
+            "表3极端干旱和氮添加及其交互作用对叶性状的影响",
+            "Tab.3Efects of extreme precipitation,nitrogen addition and their interactions on leaf functional ti "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>高度(H)</td><td>比叶面积(SLA)</td><td>叶干物质含量(LDMC)</td><td>叶碳含量(LCC)</td><td>叶氮含量(LNC)</td></tr><tr><td>干旱</td><td>4.997°</td><td>2.052</td><td>2.809</td><td>1.746</td><td>6.432**</td></tr><tr><td>氮添加</td><td>5.319*</td><td>6.485*</td><td>5.009*</td><td>0.281</td><td>35.279***</td></tr><tr><td>干旱×氮添加</td><td>0.291</td><td>0.184</td><td>0.307</td><td>0.514</td><td>0.648</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f49ee1f770d2af4a2a51a0f4eba26020db8842d54dd18b5b7245dcdf5659771b.jpg",
+        "img_caption": [
+            "图3极端干旱和氮添加对叶性状的影响",
+            "Fig.3Effect of extreme precipitationand nitrogen additionon leaffunctional traits in Horqin Sandy Land "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "著 $\\left( P > 0 . 0 5 \\right)$ ；相同降雨处理下，氮添加使得LNC显著增加( $P < 0 . 0 5$ ,图3d);LCC在不同水、氮处理间均无显著变化 $\\left( P > 0 . 0 5 \\right)$ 。说明短期极端干旱和氮素增加对半干旱沙质草地植物群落中优势物种的关键叶性状有明显的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4物种多样性和叶性状对群落生产力的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "皮尔逊相关分析及线性回归分析结果表明，物种丰富度、Simpson优势度指数、Shannon-Wiener多样性指数、Pielou均匀度指数、SLA、LDMC、LCC及LNC与地上生物量均不存在显著相关性，但植株高度与地上生物量存在显著相关关系(表4)。不施氮处理下，植物高度与地上生物量相关性不显著( $R ^ { 2 } { = }$ $0 . 0 7 , P { = } 0 . 2 8$ ，图 $\\mathrm { 4 a }$ ),而氮添加处理后两者间显著正相关 $( R ^ { 2 } { = } 0 . 2 9 , P { < } 0 . 0 5 )$ ,整体来看，半干旱沙质草地植物高度与生物量间存在显著正相关关系（ $R ^ { 2 } =$ 0.15, $P < 0 . 0 5$ ,图4b)。这说明氮添加增加了植物高度，提高植物光合竞争能力，从而促进生物量的累积。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/72dfb053f1abff3311d95f39578a88d49ba01c09ad6c443f3be1b90ef51d2ea9.jpg",
+        "table_caption": [
+            "表4物种多样性和叶性状与生物量之间的关系",
+            "Tab.4 Relationship between species diversity and leaf traits and biomass "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>多样性指数</td><td>R</td><td>P</td><td>叶性状</td><td>R</td><td>P</td></tr><tr><td>物种丰富度</td><td>0.012</td><td>0.520</td><td>高度(H)</td><td>0.15</td><td><0.05</td></tr><tr><td>Simpson优势度指数</td><td>0.009</td><td>0.584</td><td>比叶面积(SLA)</td><td>0.019</td><td>0.419</td></tr><tr><td>Shannon-Wiener多样性指数</td><td>0.017</td><td>0.443</td><td>叶干物质含量(LDMC)</td><td>0.004</td><td>0.703</td></tr><tr><td>Pielou均匀度指数</td><td>0.006</td><td>0.648</td><td>叶片碳含量(LCC)</td><td>0.048</td><td>0.198</td></tr><tr><td></td><td></td><td></td><td>叶片氮含量(LNC)</td><td>0.003</td><td>0.764</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e36288d3e851338f389d96b47d5b3fa981088f10d2b777ab04e886de7d078a5a.jpg",
+        "img_caption": [
+            "图4半干旱沙质草地植物高度与地上生物量间的关系",
+            "Fig 4Relationship between plant height and aboveground biomass in semiarid sandy land "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "重要值表示植物在群落中的优势地位和作用，重要值越大说明物种在群落中的地位越高，反之则越低[33]。本研究中，不同水、氮处理对半干旱沙质草地不同植物种的重要值具有一定的影响，其中极端干旱降低了群落中多年生植物白草的重要值，但氮添加明显增加了白草的重要值，极端干旱和氮添加交互处理提高了群落中砂蓝刺头和黄蒿的优势地位，这说明水分亏缺会阻碍白草的生长，但氮素添加在一定程度上缓解了干旱对白草生长造成的影响，而一年生植物砂蓝刺头和黄蒿在极端干旱条件下对氮素添加也较为敏感，说明砂蓝刺头和黄蒿即使在很少降雨甚至无降雨的情况下也具有较高的养分利用效率，能快速完成资源的累积，在很短的时间内完成生活史，因此，对干旱的适应能力和对氮的竞争能力较强。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "大部分研究表明极端干旱和氮沉降会显著影响物种多样性[14.34.35],但本研究中随着短期极端干旱的发生及氮素的添加,物种丰富度指数、Simpson优势度指数、Shannon-Wiener多样性指数和Pielou均匀度指数均无显著变化。可能是由于科尔沁地区长期降雨较少，土壤养分含量较低，质地疏松，持水能力和保肥能力较弱，使群落中大部分沙生植物已经适应了局地气候，而且某一物种在目标空间内建立种群会受时间累积效应的影响[36],但本研究中极端干旱和氮添加处理时间相对较短，不足以为新物种的定居、繁殖和建立提供充足的时间，因此物种多样性在短期处理下变化不大。此外，不同生活型的植物对水氮变化具有不同的响应策略，一年生植物对水分及养分利用效率较高，在不利环境中能抓住一切机会快速萌芽和生根，而多年生植物种子萌芽条件较为苛刻，资源竞争能力较低[37]，本研究区以一年生植物为主,多年生植物所占比例较低[38],短期极端干旱和氮添加处理虽然使得多年生植物有所减少，但并没有完全消失，因此，物种多样性无显著变化。因此，今后需要进一步研究长期内极端气候变化和氮沉降对半干旱沙质草地植物群落物种多样性的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状的改变往往是植物响应和适应环境的一种重要策略，特别是叶性状对环境变化更为敏感，能更有效地反映植物对环境的响应和适应机制[39]。半干旱沙质草地通常会受到水分和养分的共同限制，植物也会通常调节自身形态及生理性状来响应环境变化。通常情况下，植株高度反映植物对光资源竞争能力的强弱[22]，且具有高SLA和LNC、低LDMC的植物具有快速资源利用策略40],另外,LNC对植物适应干旱环境具有重要作用[41]。本研究中，不施氮处理下减雨 $6 0 \\%$ 显著降低了H,相反，减雨 $6 0 \\%$ 处理下氮添加使得H显著增加，此外，极端干旱处理下氮添加使得SLA显著增加，自然降雨和减雨 $6 0 \\%$ 处理下氮添加使得LDMC显著降低，减雨 $6 0 \\%$ 和氮添加均使得LNC显著增加。这说明半干旱沙质草地植物群落通过改变与资源竞争相关的叶性状来响应极端干旱和氮沉降，如增加比叶面积和叶氮含量，降低叶干物质含量，与大部分研究结果基本一致[42-43]。Wright等[44]通过建立叶经济型谱发现气候因子对植物6个关键叶性状影响不显著，与本研究结果不一致，可能是由于研究尺度不同造成的，很多学者也认为功能性状具有较强的尺度依赖性[45-46] O",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "群落生物量是表征草地生态系统恢复进程最直接的指标[47]。气候条件和土壤资源状况是影响群落生产力的重要因子[48-49],关于降雨变化和氮添加对植物群落生产力影响的研究结果不尽一致[3.50]。有学者认为氮添加能缓解干旱对植物造成的影响，但同时干旱可以减弱甚至抑制氮对植物生长的促进作用[16.51]。本研究发现极端干旱条件下氮添加使得生物量稍有增加，但未达到显著水平，这进一步证明了这种相互补偿机制的存在。由气候变化或人类干扰导致的植物性状变化在维持生态系统生产力和稳定性方面具有重要作用[24.52-53]。相关回归分析结果表明，物种多样性与生物量无显著相关关系，可能是由于实验周期较短，物种多样性无明显变化，进而对生产力影响不显著。另外，半干旱沙质草地植株高度与群落地上生物量在不施氮处理下无显著相关性，而氮添加处理下两者呈显著正相关关系，因为氮添加在一定程度上能提高土壤养分含量，减缓养分对沙地植物生长的限制，同时也能缓解干旱对植物生长造成的影响，促进植物对光资源的竞争[51.54],增加地上生物量的累积,进而间接提高氮素利用效率[55，维持群落较高的生产力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "总之，通过对上述实验结果的分析和讨论可以发现，不同水、氮处理下物种优势度会发生明显变化，短期极端干旱和氮添加更有利于养分快速投资利用型植物的生长，如一年生草本砂蓝刺头和黄蒿。短期极端干旱和氮添加对半干旱沙质草地物种丰富度和多样性无显著影响，但对群落生物量有显著影响。极端干旱显著降低了地上生物量，而极端干旱条件下添加氮素对生物量的影响未达到显著水平，说明干旱降低了植物对氮素的吸收和利用效率。短期极端干旱对植株高度和叶片氮含量影响较为显著，氮添加能够显著影响植株高度、比叶面积、叶干物质含量和叶片氮含量。具体表现为植株高度在只进行减雨 $6 0 \\%$ 处理下显著降低，而减雨$6 0 \\%$ 处理下氮添加使其显著增加;极端干旱条件下氮添加使得比叶面积显著增加，而自然降雨和减雨$6 0 \\%$ 处理下氮添加使得叶干物质含量显著降低；相同氮处理下，减雨 $6 0 \\%$ 使叶氮含量显著增加，相同降雨处理下，氮添加使叶氮含量也显著增加；而叶碳含量在不同水、氮处理间均无显著变化，这些性状的变化都有利于提高植物对资源的竞争能力。回归分析表明，不施氮处理下植株高度与地上生物量无显著相关性，而氮添加处理下两者显著正相关,整体上植株高度与地上生物量间也存在显著正相关关系，说明半干旱沙质草地植物群落中植株高度的增加对生物量的维持具有一定的贡献。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]白永飞,黄建辉,郑淑霞,等.草地和荒漠生态系统服务功能的 形成与调控机制[J].植物生态学报,2014,38(2):93-102.[Bai Yongfei, Huang Jianhui, Zheng Shuxia,et al. Drivers and regulating mechanisms of grassland and desert ecosystem services[J]. Chinese Journal of Plant Ecology,2014,38(2): 93-102.]   \n[2]Zhou G, Wang Y, Wang S. Responses of grassland ecosystems to precipitation and land use along the Northeast China transect[J]. Journal of Vegetation Science,2002,13(3): 361-368.   \n[3]Bai YF,Wu JG,Qi X,et al.Primary production and rain use fficiency across a precipitation gradient on the Mongolia plateau[J]. Ecology,2008,89(8): 2140-2153.   \n[4]Yue X Y,Zuo X A, Yu Q,et al. Response of plant functional traits of Leymus chinensis to extreme drought in Inner Mongolia grasslands[J]. Plant Ecology,2019,220(2):141-149.   \n[5]张彬,朱建军,刘华民,等.极端降水和极端干旱事件对草原生 态系统的影响[J].植物生态学报,2014,38(9):1008-1018.[Zhang Bin, Zhu Jianjun,Liu Huamin,et al.Effects of extreme rainfall and drought events on grassland ecosystems[J]. Chinese Journal of Plant Ecol0gy,2014,38(9): 1008-1018.]   \n[6]Gong DY,Wang JA,Han H. Trends of summer dry spells in China during the late twentieth century[J]. Meteorology and Atmospheric Physics,2005,88(3-4): 203-214.   \n[7]Huang J, Xue Y, Sun S L,et al. Spatial and temporal variability of drought during 196O-2012 in Inner Mongolia,north China[J]. Quaternary International, 2015,355(12): 134-144.   \n[8]Willem K,Arthur FM.The vegetation N: Pratio: a new tool to detect the nature of nutrient limitation[J].Journal of Applied Ecology,1996,33(6): 1441-1450.   \n[9] Roscher C,Schumacherb J,Annett L,et al.A functional traitbased approach to understand community assembly and diversityproductivity relationships over 7 years in experimental grasslands [J].Perspectives in Plant Ecology,Evolution and Systematics, 2013,15(3): 139-149.   \n[10] Tilman D,Downing JA. Biodiversity and stability in grasslands[J]. Nature,1994,367(6461): 363-365.   \n[11]Bobbink R, Hicks K, Galloway J,etal. Global assessment of nitrogen deposition effects on terrestrial plant diversity: A synthesis[J]. Ecological Applications,2010,20(1): 30-59.   \n[12] Miranda JDD,Padilla F M,Lzaro R,et al.Do changes in rainfall patternsaffctsemiaridannual plant communities?[J]. Jounal of Vegetation Science,2009,20(2): 269-276.   \n[13] Stevens C J, Dise NB,Mountford JO,et al.Impact of nitrogen deposition on the species richness of grasslands[J]. Science,2004, 303(5665): 1876-1879.   \n[14]Bai Y,Jianguo W U, Clark C M, et al. Tradeofs and thresholds in the effects of nitrogen addition on biodiversity and ecosystem functioning: Evidence from Inner Mongolia Grasslands[J]. Global Change Biology,2010,16(1): 358-372.   \n[15] Clark C M,Tilman D. Loss of plant species after chronic low-level nitrogen deposition toprairie grasslands[J].Nature，2008,451 (7179): 712-715.   \n[16] 黄彩变,曾凡江,雷加强.骆驼刺幼苗生长和功能性状对不同水 氮添加的响应[J].草业学报,2016,25(12):150-160.[Huang Caibian, Zeng Fanjiang,Le Jiaqiang. Growth and functional trait responses of Alhagi sparsifolia seedlings to water and nitrogen addition[J]. Acta Prataculturae Sinica,2016,25(12): 150-160.]   \n[17]Jentsch A,Kreyling J,Elmer M,et al.Climate extremes initiate ecosystem-regulating functions while maintaining productivity[J]. Journal of Ecology,2011,99(3): 689-702.   \n[18] Goldberg D E,Miller TE.Effects of different resource additions of species diversity in an annual plant community[J]. Ecology,1990, 71(1): 213-225.   \n[19] 邢小青,张璐,宝音陶格涛,等.放牧对糙隐子草地上个体功能 性状的影响[J].中国草地学报,2019,41(6):116-122. [Xing Xiaoqing, Zhang Lu, Baoyin Taogetao,et al. Effect of grazing on the aboveground functional traits of Cleistogenes squarosa[J]. Chinese Journal of Grassland,2019,41(6): 116-122.]   \n[20]Violle C,Navas ML, Vile D,et al.Let the concept of trait be func tional![J]. Oikos,2007,116(5): 882-892.   \n[21] Sandra Diaz,Casanoves C F.Plant functional traits and environmental filters at a regional scale[J]. Journal of Vegetation Science, 1998, 9(1): 113-122.   \n[22] Cornelissen JH C,Lavorel S, Garnier E,et al.A handbook protocol for standardised and easy measurement of plant functional traits[J]. Australian Journal of Botany,20O3,51(4): 335-380.   \n[23] Naeem S. Ecosystem consequences of biodiversity loss: The evolution of a Paradigm[J]. Ecology,2002,83(6): 1537-1552.   \n[24]Haifa D,Francesco D B, Sebastia M T,et al. Functional trait changes,productivity shifts and vegetation stability in mountain grasslands during a short- term warming[J]. Plos One,2015,10 (10): e0141899.   \n[25] 万宏伟,杨阳,白世勤,等.羊草草原群落6种植物叶片功能特 性对氮素添加的响应[J].植物生态学报,2008,32(3):611-621. [Wan Hongwei,Yang Yang,Bai Shiqin,et al. Variations in leaf functional traits of six species along a nitrogen addition gradient in Leymus chinensis steepe in Inner Mongolia[J]. Chinese Journal of Plant Ecology,2008,32(3): 611-621.]   \n[26] 杨浩,罗亚晨.糙隐子草功能性状对氮添加和干旱的响应[J].植 物生态学报,2015,39(1): 32-42.[Yang Hao,Luo Yachen. Responses of the functional traits in Cleistogenes squarrosa to nitrogenadditionand drought[J].ChineseJournal of PlantEcology, 2015,39(1): 32-42.]   \n[27]La Pierre KJ,Smith M D.Functional trait expression of grassland species shift with short-and long-term nutrient additions [J]. Plant Ecology,2015,216(2): 307-318.   \n[28] Zheng S X,Ren HY,Lan Z C,et al.Efects of grazing on leaf traits and ecosystem functioning in Inner Mongolia grasslands: scaling from species to community[J]. Biogeosciences Discussions, 2009,6: 9945-9975.   \n[29] 赵哈林,张铜会,崔建垣,等.近40a我国北方农牧交错区气候 变化及其与土地沙漠化的关系——以科尔沁沙地为例[J].中 国沙漠,200,20(增):2-7.[Zhao Halin,Zhang Tonghi,Cui jianyuan,et al.Effect of climatic changes on environment and agriculture in the past 4O years in interlaced agro-pasturing areas of north China: A case study in Horqin Sandy Land[J]. Journal of Desert Research, 2000, 20(Suppl.): 2-7.]   \n[30] 吕朋,左小安,岳喜元,等.科尔沁沙地封育过程中植被特征的 动态变化[J].生态学杂志,2018,37(10): 2880-2888.[Lyu Peng, Zuo Xiao'an, Yue Xiyuan,et al. Temporal changes of vegetation characteristics during the long-term grazing exclusion in Horqin Sandy Land[J]. Chinese Journal of Ecology,2018,37(10): 2880- 2888.]   \n[31]Naeem S,Li S. Biodiversity enhances ecosystem reliability[J]. Nature International Weekly Journal of Science,1997,390(6659): 507-509.   \n[32] 左小安,赵学勇,赵哈林,等.科尔沁沙质草地群落物种多样性、 生产力与土壤特性的关系[J].环境科学,2007,28(5): 945-951. [Zuo Xiao’an,Zhao Xueyong, Zhao Halin, et al.Changes of species diversity and productivity in relation to soil properties in sandygrassland in Horqin Sandy Land[J]. Environmental Science, 2007,28(5): 945-951.]   \n[33] 贾乐,赵萌莉,韩国栋,等.载畜率对荒漠草原植物群落影响的 研究[J].中国草地学报,2011,33(4):111-116.[Jia Le, Zhao Mengli,Han Guodong,et al. Effects of different stocking rate on plant community in desert steppe[J]. Chinese Journal of Grassland,2011,33(4): 111-116.]   \n[34] 白春利,阿拉塔,陈海军,等.氮素和水分添加对短花针茅荒漠 草原植物群落特征的影响[J].中国草地学报,2013,35(2):69- 75.[Bai Chunli,ALata, Chen Haijun,etal.Efectsof aditionof nitrogen and water on plant community characteristics of Stipa breviflora desertsteppeJ].ieseJoualofGrassand,013,3 (2): 69-75.]   \n[35] 李禄军,曾德慧,于占源,等.氮素添加对科尔沁沙质草地物种 多样性和生产力的影响[J].应用生态学报,2009,20(8):1838- 1844.[Li Lujun, Zeng Dehui, Yu Zhanyuan,et al. Effects of nitro gen addition on grassand species diversity and productivity in Horqin Sandy Land[J]. Chinese Journal of Applied Ecology,2009, 20(8): 1838-1844.]   \n[36] 王明明,刘新平,何玉惠,等.科尔沁沙地封育恢复过程中植物 群落特征变化及影响因素[J].植物生态学报,2020,43(8):672- 684.[Wang Mingming,Liu Xinping,He Yuhui,et al. How enclosure influences restored plant community changes of different initial types in Horqin Sandy Land[J].Chinese Journal of Plant Ecology,2020,43(8): 672-684.]   \n[37] 梁存柱,刘钟龄,朱宗元,等.阿拉善荒漠区一年生植物层片物 种多样性及其分布特征[J].应用生态学报,2003,14(6):897- 903.[Liang Cunzhu,Liu Zhongling, Zhu Zongyuan,et al. Specific diversity and distribution characteristics of annual synusia in Alashan Desert[J]. Chinese Journal of Applied Ecology,2003,14 (6): 897-903.]   \n[38] 吕朋,左小安,张婧,等.放牧强度对科尔沁沙地沙质草地植被 的影响[J].中国沙漠,2016,36(1):34-39.[Lyu Peng, Zuo Xiao' an, Zhang Jing,et al.Effects of grazing intensity on vegetation in sandy grassland of Horqin[J]. Journal of Desert Research,2016,36 (1): 34-39.]   \n[39]Wright IJ,Reich PB,Cornelissen JHC,et al. Modulation of leaf economic traits and trait relationships by climate[J]. Global Ecology and Biogeography,2005,14(5): 411-421.   \n[40]Wilson PJ,Thompson K,Hodgson JG.Specific leaf area and leaf dry matter content as alternative predictors of plant strategies[J]. New Phytologist,1999,143(1): 155-162.   \n[41] 苗艳明,吕金枝,毕润成.不同功能型植物叶氮含量与光合特性 的关系研究[J].植物研究,2012,32(4):425-529.[Miao Yanming,Lyu Jinzhi, Bi Runcheng.Relationships between leaf nitrogen content and photosynthetic characteristics in different plant functional types[J]. Bulletin of Botanical Research,2012,32(4): 425-529.]   \n[42] 岳喜元,左小安,庾强,等.降水量和短期极端干旱对典型草原 植物群落及优势种羊草(Leymus chinensis)叶性状的影响[J].中 国沙漠,2018,38(5):1009-1016.[Yue Xiyuan, Zuo Xiao'an,Yu Qiang, et al.Effcts of precipitation and short term extreme drought on leaf traits in Inner Mongolia typical steppe[J].Journal of Desert Research,2018,38(5): 1009-1016.]   \n[43] 郑婧,佘维维,白宇轩,等.氮素和水分添加对毛乌素沙地油蒿 群落优势植物叶片性状的影响[J].林业科学,2018,54(10): 167-174.[Zheng Jing, She Weiwei, Bai Yuxuan,et al. Effects of nitrogen and water addition on leaf traits of dominant plant species in Artemisia ordosica community of the Mu Us Desert[J]. Scientia Silvae Sinicae,2018,54(10): 167-174.]   \n[44]Wright IJ,Reich PB,Westoby M,et al.The worldwide leaf eco nomics spectrum[J]. Nature,2004,428(6985): 821-827.   \n[45] MunSkemuller T, Gallien L,Lavergne S,et al. Scale decisions can reverse conclusions on community assembly processes[J]. Global Ecology and Biogeography,2014,23(6): 620-632.   \n[46] Zuo X A,Wang S K, Zhao X Y, et al. Scale dependence of plant species richness and vegetation-environment relationship along a gradient of dune stabilization in Horqin Sandy Land,Northern China[J]. Journal of AridLand,2014,6(3):334-342.   \n[47] 闫宝龙,王占文,王悦骅,等.短期降雨改变对荒漠草原植物群 落特征的影响[J].草业科学,2018,35(5):1004-1012.[Yan Baolong,Wang Zhanwen,Wang Yuehua,et al.Effect of shortterm rainfall change on plant community characteristics in desert steppe[J]. Pratacultural Science,2018,35(5): 1004-1012.]   \n[48] 高亚敏.气候因素对科尔沁草地北部牧草生长发育的影响[J] 干旱区研究,2019,36(2): 412-419.[Gao Yamin.Effects of climatic factors on herbage growth in the north Horqin grassland[J]. Arid Zone Research,2019,36(2): 412-419.]   \n[49] 刘雪佳,董璐,赵杰,等.我国荒漠植被生产力动态及其与水热 因子的关系[J].干旱区研究,2019,36(2):459-466.[Liu Xuejia, Dong Lu, Zhao Jie,et al. Dynamic state of desert vegetation productivity and its relationship with water-heat factors in China[J]. Arid Zone Research,2019,36(2): 459-466.]   \n[50] Liu X, Duan L,Mo J,et al. Nitrogen deposition and its ecological impact in China:An overview[J]. Environmental Polltion, 2011, 159(10): 2251-2264.   \n[51] 周晓兵,张元明,王莎莎,等.模拟氮沉降和干旱对准噶尔盆地 两种一年生荒漠植物生长和光合生理的影响[J].植物生态学 报,2010,34(12): 1394-1403.[Zhou Xiaobing, Zhang Yuanming, Wang Shasha, et al. Combined effcts of simulated nitrogen deposition and drought stress on growth and photo-synthetic physiological responses of two annual desert plants in Junggar Basin, China [J]. Chinese Journal of Plant Ecology,2010,34(12): 1394-1403.]   \n[52] 刘思洋,李雪华,骆永明,等.围封和放牧草地植物多样性对氮 添加的响应差异[J].生态学杂志,2019,38(12):3635-3641.[Liu Siyang,Li Xuehua,Luo Yongming,et al. Divergent response of plant diversity to nitrogen addition in enclosedand grazing grasslands[J]. Chinese Journal of Ecology,2019,38(12): 3635-3641.]   \n[53] 李禄军,曾德慧.物种多样性与生态系统功能的关系研究进展 [J].生态学杂志,2008,27(11): 178-185.[Li Lujun,Zeng Dehui. Relationships between species diversityand ecosystem functioning: A review[J]. Chinese Journal of Ecology,2008,27(11): 178-185.]   \n[54] Mao R, Zhang X H,Song C C.Effects of nitrogen addition on plant functional traits in freshwater wetlandof Sanjiang Plain,Northeast China[J]. Chinese Geographical Science,2014,24(6): 674-681.   \n[55]Zuo XA, Zhang J,LyuP,etal.Plant functional diversity mediates the effects of vegetation and soil properties on community-level plant nitrogen use in the restoration of semiarid sandy grassland [J]. Ecological Indicators,2016,64: 272-280. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of extreme drought and nitrogen addition on species diversity, leaf trait, and productivity in a semiarid sandy grassland ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SUN Yi-mei'， TIAN Qing'， LYU Peng²³， GUO Ai-xia³4,ZHANG Sen-xi4, ZUO Xiao-an2,4",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(1. CollegeofForestry,Gansu Agricultural University,Lanzhou 73o0,Gansu,China;2.NamanDesertification Research Station,Northwest Institute of Eco-Environment and Resource,Chinese Academy of Sciences, Lanzhou 73oo00,Gansu,China; 3. University of Chinese Academy ofSciences,Beijing 100049, China;4.UratDesert-grassland Research Station,Northwest Institute ofEco-Environment andResources,Lanzhou 73oooo,Gansu,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: We examined the effects of extreme drought (rain reduction by $60 \\%$ and drought for 6O days） and nitrogen addition $( 2 0 \\mathrm { ~ g } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { a } ^ { - 1 } )$ on species diversity,productivity,and leaf trait in Horqin Sandy Land.Results show that changes in water and nitrogen altered important values of dominant species,such that which the important values of Echinops gmelini and Artemisia scoparia increased significantly under short-term extreme drought and nitrogenaddition treatment.Short-term extreme drought had a significant effect on plant height (H),leaf nitrogen content (LNC),and aboveground biomass.Following rain reduction by $60 \\%$ ，H decreased,while LNC increased. Aboveground biomass decreased, following rain reduction by $60 \\%$ and drought for 6O days. There was no significant diffrence in species diversity,specific leaf area (SLA),leaf day mater content (LDMC),and leaf carbon content (LCC)between drought treatments.Short-term nitrogenaddition significantly changed theleaf traitsand aboveground biomass.Following the addition nitrogen， SLA，and LNC increased, while LDMC decreased. There was no significant diference in plant diversity.Interaction between extreme drought and nitrogen addition had no significant effct onspecies diversity,leaf traits,and aboveground biomass.Correlation and regression analysis showed that species diversity,SLA,LDMC,LCC,and LNCdid not significantly corelate with biomasswhile H was positively correlated with aboveground biomassfolowing nitrogen adition.The annual dominant plantcommunities in semiarid sandy grassland adapt to extreme drought and nitrogen deposition by changing key traits of dominant species, in which H has a greater impact on grassland productivity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: extreme drought; nitrogen addition; species diversity; leaf functional trait; productivity ",
+        "page_idx": 10
+    }
+]

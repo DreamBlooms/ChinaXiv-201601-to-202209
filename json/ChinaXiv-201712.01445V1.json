@@ -1,0 +1,432 @@
+[
+    {
+        "type": "text",
+        "text": "武汉绿地BIM技术+网络互联应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑承红 徐汉涛 唐新原 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中建三局第二建设工程有限责任公司，武汉430023）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】利用BIM技术和多网络互联的优点，结合总承包管理的需求,搭建面向所有参建单位开放的BIM综合信息管理平台;统一BIM信息标准，结合总承包管理机制，制定BIM信息提供与使用流程,优化项目公共资源调度、多专业协同管理、生产计划统筹协作等;利用提高信息化、网络化、智能化方式与手段,针对性应用于总承包管理工作中，以信息效率提升助力管理效率提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM综合信息管理平台；多网络互联；总承包管理；需求；管理效率【中图分类号】TU17【文献标识码】A【文章编号】1674－7461(2017)01-0056-04【DOI】10.16670/j.cnki.cn11-5823/tu.2017.01.10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1工程概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ".项目简介",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "武汉绿地国际金融城A01地块总建筑面积$7 2 . 8 \\times 1 0 ^ { 4 } \\mathrm { m } ^ { 2 }$ ,建筑高度为 $6 3 6 \\mathrm { m }$ ,由一栋超高层塔楼 栋办公辅楼，一栋 SOHO 辅楼及地上裙楼组成。如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/25572935f6316ca8886aa197811ec5ef04d86d44ffaa7bb5805f3ca8c4f4ae5c.jpg",
+        "img_caption": [
+            "图1武汉绿地中心项目效果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 工程特点和难点",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "武汉绿地中心项目结构复杂、功能多，具有“五超特点”，决定了施工总承包过程中，面临诸多施工难点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1)施工工艺复杂，交叉立体作业大量存在，施工现场的组织安排十分困难;(2)参与施工的单位多，涉及130多家分包单位，施工总承包方的协调解决工作量大；(3)施工周期长，设计图纸不能一次到位，因此施工过程中常常出现返工、变更增加的情况，图纸、变更的收发清理工作是否及时有效，也会给施工总承包单位的成本控制和工期控制造成直接影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 BIM组织与应用环境",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 BIM应用目标",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "建立施工BIM模型，编制项目的BIM相关标准并完成各专项应用，大幅降低施工过程中的管理风险源，提高项目整体管理水平，为工程建设的顺利实施提供有力的技术保障，并为后期BIM运维奠定坚实基础。建立基于BIM模型数据的项目管理平台，实现BIM资源的规范、有序管理,在工程建设全过程对多参与方的BIM应用进行协同管控，提高整体协作效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【作者简介】郑承红(1970-)男,高级工程师,主要研究方向：项目管理、系统架构、BIM;徐汉涛(1975-)男,高级工程师,主要研究方向：BIM、技术管理、大数据分析应用;唐新原(1992-)男，助理工程师，主要研究方向：BIM技术研究与应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2 实施方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "施工的对象为工程，其推进应围绕施工问题，发挥信息化处理的优势，利用预演、探索的手段，找出最优的解决措施和方法，供施工组织者选择、决策并在施工中实施。真正指导、促进施工，才是施工生存和发展的基础",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于对信息的理解，以“聚合信息、为我所用”为核心，“脚踏实地、应为项目施工、技术、管理需求”为导向，“服务、辅助项目施工”为原则,确定项目应用探索、研发方向。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)项目级应用的第一步基础工作是对项目各业务版块和分包需求进行逐项调研，从而确定具体工作对的需求。为此，我们采取“需求调查一软件研发——试用反馈——软件更新”的工作探索应用模式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)运用第二步基础，应发挥总承包统筹管理模式的优势，结合我局“441”计划，做到信息采集聚合，信息共享。项目组建立服务器及网络,研发客户端,形成了人人需提供信息、人人可共享信息的提供——共享机制”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 (3)充分发挥各不同专业施工特点和分包技术能力,兼蓄并用,指导、鼓励分包商发挥专业技术能力以及专业应用经验，形成服务于施工的全专业应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. 团队组织",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目采用“两级分离”的总承包管理模式，由总承包组建固定的BIM总体架构，根据工程进展不断扩展、调整专业分包BIM小组，总包和分包共同形成完整的BIM实施架构。如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4e1497bc979cf4a6e09536a7a376f2e0d130629f68386bc9d0bf376fdc62230.jpg",
+        "img_caption": [
+            "图2 组织架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 应用措施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了更好地发挥BIM技术 $^ +$ 网络互联在信息化处理、共享的先进特性，提高总承包服务于工程、服务于分包的能力，我们采取了以下措施：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)在BIM综合平台系统软件研发时，设置流程管理模块，按总包业务管理流程，对各项工作设置流程顺序与反馈机制，根据分包报送并审核通过的BIM应用人员权限名单，确定各业务流程、数据共享的权限和范围，使各项工作与权限对应精确到人，并通过多种网络发送数据、指令共享处理提醒、催促信息，达到事事有人管、有跟踪、有反馈。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)统一BIM信息管理制度、标准，实现信息共享与流转，减少分包重复建模工作，增加专业间信息共享深度和范围，避免专业间、业务系统间因信息、指令、数据的误解、不同步引起的执行与配合的不协调，从而提升总承包为各分包单位服务的能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3)将软硬件平台、多重互通网络以及集中存放于本地BIM服务器里的多种工程信息，作为重要的公共资源，供所有参建单位使用，增加总承包资源供应的种类和渠道，减小各单位重复建模、输入信息、软硬件投入的费用成本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(4)紧町行业BIM技术深度应用的前沿发展，组织局、公司相关专家对分包单位进行系统性培训与指导，并采用3D打印、3D出图及视频交底等输出手段，将BIM深度优化处理后的技术方案、计划调度等信息化数据在施工中加以实施，提升施工可行性，达到节约成本、节省工期，提高施工效率的目的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5 软硬件环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本项目主要应用软件为Revit、Tekla、CAD等，如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bec9d337234b791dc044d92e3625a53fbd533f3eac17ef7eecbc22e7d00b78a.jpg",
+        "img_caption": [
+            "图3数据架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目配备BIM服务器和图形工作站，用于模型建立、数据处理等操作主要硬件配置详见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 BIM应用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 BIM建模 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目采取总承包统一管理、整合、协调，分包实体",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/489b5a7257c415d7a6bf406e48ead291970f1bc181d97a9cfb5cce55d91c0ef0.jpg",
+        "table_caption": [
+            "表1BIM网络硬件配置"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>名称</td><td>配置</td><td>备注</td></tr><tr><td>1</td><td>交换机</td><td>华为AR2200-S Series</td><td>网络分配</td></tr><tr><td>2</td><td>路由器</td><td>BDCOM S2224E</td><td>保障网络环境</td></tr><tr><td>3</td><td>服务器</td><td>Intel(R)Xeon（R)CPUE5-用以存储数据几 26700 @ 2.60GHz 2.60GHz 个阶段模型信息 (2处理器），32G，Matrox</td><td></td></tr><tr><td>4</td><td>图形 工作站</td><td>G200eR Intel(R)Xeon（R)CPUE5-用以图形动画制 26700@2.60GHz 2.60GHz 图，大模型渲染 (2处理器），48G,NVIDIA</td><td></td></tr><tr><td>5</td><td>专业电脑</td><td>Quadro K4000 Intel（R）Core（TM）i7－用以各专业建模 4790K CPU @ 4.00GHz 4.00GHz，32G，NVIDIA Quadro K2000</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工程谁施工谁建模的方式,组织施工BIM三维模型的建模工作。整体模型精细程度需达到LOD200，细部节点模型精细程度需达到LOD300及以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "BIM应用情况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)公共资源协调管理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用技术协调管理公共资源,进行三维场布模拟、塔吊调度安排等,对公共资源使用分配进行分析，有针对性的加以应用,提高公共资源的使用效率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)图纸、变更、模型等技术资料动态管理",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设置不同的功能模块，对模型、图纸、变更、方案、计划等进行分类归档，保障信息数据的分类管理。设置图纸、变更、模型等不同模块之间的相互关联，在图纸、变更、模型等数据录入时，利用图纸模型编号进行信息、版本识别，同时利用平台进行关联处理。项目人员浏览图纸时可直接选择查看对应的设计变更、模型等信息数据，节省大量查找时间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)多专业高拓展性应用的深化协同工作综合管理平台对各专业的协调管理，利用先进的技术、云技术、移动互联网技术，实现参建各方的联动、协同。如：巨柱钢筋的精确放样，钢构提供巨柱的钢结构模型，结构专业在模型上进行钢筋的排布放样，通过预先模拟深化，减少材料浪费和返工工期延误。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)生产计划统筹协作",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据生产部门需要，在平台上开发进度管理模块，将进度计划、深化设计计划、设备进场计划、合同计划等纳入网络管理；从总包节点计划的下达、分包各类计划的编制、总包对分包各类计划的审批、分包计划的实际填报及总包对实际填报审批、计划的过程执行动态比较等全过程全生命周期的管控；各分包与总承包共同参与，实现了总包对项目施工进度以及各分包施工进度的及时动态监控监管；为有效地预防和控制施工进度滞后、工期延后提供依据和保障，提高总承包的综合管控能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)辅助商务成本管控 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用技术，提取模型构件字段，分楼层对不同构件进行工程量统计，并与清单项进行匹配,在满足施工现场材料用量规划的同时，更贴合成本控制维度，为成本控制提供依据，提高总承包的成本管控能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)轻量化移动办公",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用软件进行信息数据的轻量化处理，降低图纸、模型等对硬件的需求。研发手机APP、PC软件等客户端，项目人员可以通过自己的电脑或手机随时查阅浏览方案、图纸、模型等数据,在手机APP上处理质量问题、安全问题、进行远程验收等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 应用效果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "项目利用BIM技术 $^ +$ 网络互联，在公共资源的",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/41b7cc404ff9d7ef85fb3e0c0c06bdb5dbf778605da6650ccb62a581ec2dbe0b.jpg",
+        "table_caption": [
+            "表2 BIM应用效益统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别</td><td>应用项</td><td>效益分析</td></tr><tr><td rowspan=\"6\"></td><td></td><td>技术管理图纸、变更管理通过 BIM平台辅助图纸、变更管理,提高图纸传输效率和管理效率,减少图纸传递过程中的错误及偏差。</td></tr><tr><td>深化设计</td><td>发现各类问题256条，优化现场施工深化效率和质量,减少现场返工可统计时间超过140天。</td></tr><tr><td>碰撞检查</td><td>通过同专业、不同专业间BIM模型碰撞检查，共生成冲突报告23420处，提前处理，避免了后期风险。</td></tr><tr><td>方案模拟</td><td>模拟顶模安装、脚手架、高支模搭设、缓冲区支撑施工、二次结构施工工艺等,确定最符合现场的施工方案。</td></tr><tr><td>技术交底</td><td>完成三维交底38次，促进现场施工质量管理和安全管理。</td></tr><tr><td>推演吊装计划</td><td>利用BIM技术推演塔吊吊装计划，结合人工经验调整，优化吊装，提高吊装效率20%。</td></tr><tr><td rowspan=\"4\">生产管理</td><td>三维场布</td><td>通过可视化的总平面管理,优化施工现场总平面布置，减少材料转运次数,提高施工效率。</td></tr><tr><td>计划管理</td><td>跟踪进度计划管理，提供实时预警，调高对施工进度的管控能力。</td></tr><tr><td>劳动力监控</td><td>实时监控现场劳动力情况，提高综合管控能力，同时也为施工安全提供了一份保障。</td></tr><tr><td>BIM算量</td><td>提取模型构件字段,统计工程量，辅助商务算量。</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "协调管理、图模等技术资料的动态管理、多专业深化协同管理等各个方面进行了深度应用，如表2所示，为项目创造了巨大的效益。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5总结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1 创新点",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)需求引领发展的产学研新模式",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用PDCA的概念进行平台各功能板块的调研数据采集、功能开发及持续完善。以具体工作要求为导向，调研的方式，由各业务系统工作人员，对工作中可能、需要通过软件来解决问题和提升效率方面提要求，通过逐步自行研发功能、兼容第三方软件功能的方式，拓展平台功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)多渠道信息共享",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设置BIM服务器,并以服务器数据库为核心，以项目统一设置交换机为中心转输枢纽，以局域网现场快速性） $^ +$ 广域网(远程便利性) $^ +$ WIFI（现场全范围) $^ +$ 移动通信网(灵活及时性) $^ +$ 帐号权限分配(共享安全性)的方式，为施工各方共享和深度应用BIM,提供了必要的保障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3)BIM信息输入与输出的研究",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2统一BIM信息标准,对所有施工参与方人员分配使用账户，设置严格的数据审核流程，为信息数据的准确可靠、有效共享提供保障。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2 经验教训 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "经过近三年来的探索与应用，利用技术的可视化、协调性和模拟性，结合互联网的高速传递，能有效提升总承包的综合协调管控能力。相信只要我们能以工作需求为出发点，以实事求是的态度，以积跬步不惧路远的信念去探索与实践，施工应用的高效、先进、广泛性，将会得到更大的支持与发展，成为施工企业提升生产的新的推动技术。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "［1］杨震卿,张莉莉，张晓玲等.BIM技术在超高层建筑工程深化设计中的应用[J].建筑技术,2014,45（2）：115-118.  \n［2］聂文华.大数据及互联网 $^ +$ 在工程领域应用探讨[J].建筑工程技术与设计，2016，（11）：2769.  \n［3］王婷，肖莉萍.基于BIM的施工资料管理系统平台架构研究[J].工程管理学报，2015，（3）：50-54.  \n[4］陈远,李洪欣.基于移动计算的BIM协同工作平台理论框架研究？［J].施工技术，2015，（18）：40-43.  \n［5］叶浩文，邹俊，孙晖等.基于BIM的施工总承包管理系统研发与应用[J].施工技术，2016，45（12）：29-33.  \n［6］黄锰钢,王鹏翊.BIM在施工总承包项目管理中的应用价值探索[J].土木建筑工程信息技术，2013,5（5）：88-91.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Application of BIM Technology and Network Interconnection in Wuhan Green Center Project ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Zheng Chenghong,Xu Hantao,Tang Xinyuan (The second construction engineering limited company of China construction third engineering bureau,Wuhan 43O023，China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Used the advantages of BIM technology and network interconnection,and combined with the demand of the general contracting management,setup the BIM integrated information management platformopen to all the contractors.Unified information standards,plus combined with general contracting management mechanism for BIM information flow process,to optimize the public resource scheduling,multi profesional collaborative management, production planning,co-ordination and soon.With theimprovementof information,networking,inteligent methods and means,targeted at the general contract management,improved the eficiency of management by improving the efficiency of information. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM Integrated Information Management Platform；Multi Network Interconnection；General Contract Management；Requirement；The Efficiency of Management ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,176 @@
+DOI:10.13930/j.cnki.cjea.160788
+
+殷文，陈桂平，柴强，郭瑶，冯福学，赵财，于爱忠，刘畅．河西灌区不同耕作与秸秆还田方式对春小麦出苗及产量的影 响[J]．中国生态农业学报,2017,25(2):180-187 Yin W, Chen GP, ChaiQ, Guo Y,FengFX,Zhao C,Yu A Z,Liu C.Efectof tilage and straw retention modeonseedling emergence andyieldof spring wheat inthe Hexi IrigationArea[J]. Chinese JournalofEco-Agriculture,2O17,25(2):180-187
+
+# 河西灌区不同耕作与秸秆还田方式对春小麦出苗及产量的影响
+
+殷文¹†，陈桂平¹†，柴强1\*\*，郭 瑶，冯福学², 赵财¹，于爱忠¹，刘畅l
+
+(1．甘肃省干旱生境作物学重点实验室/甘肃农业大学农学院兰州 730070;2.甘肃农业大学工学院 兰州 730070)
+
+摘要：出苗率及出苗整齐度在很大程度上决定了作物生长状况和产量丰欠，针对不同耕作措施结合秸秆还田对绿洲灌区小麦出苗及群体动态影响研究薄弱问题，研究不同秸秆还田与耕作方式对小麦出苗与产量的影响，以及二者的相关关系，对于优化耕作措施具有重要指导意义。 $2 0 1 4 - 2 0 1 5$ 年，在甘肃河西绿洲灌区，通过田间定位试验，研究了不同秸秆还田和耕作措施[少耕 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆立茬还田(NTSS)、少耕 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆覆盖还田(NTS)、翻耕 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆还田(TS)和不留茬翻耕(CT)]对小麦出苗状况及产量、产量构成因素的影响，以期为优化试区小麦栽培技术提供依据。结果显示，与CT相比,NTSS、NTS降低了小麦出苗率以及出苗整齐度,TS则提高了小麦出苗率以及出苗整齐度。NTSS、NTS较CT的分藥数分别高$7 . 4 \% { \sim } 1 0 . 5 \%$ 、 $1 4 . 6 \% { \sim } 1 9 . 1 \%$ ，分藥成穗率分别高 $1 3 . 5 \% { \sim } 2 0 . 1 \%$ 、 $3 3 . 0 \% { \sim } 3 4 . 7 \%$ ，有效穗数分别高 $7 . 5 \% { \sim } 9 . 3 \%$ 、$1 0 . 3 \% { \sim } 1 1 . 2 \%$ ，穗粒数分别高 $1 5 . 7 \% { \sim } 1 6 . 1 \%$ 、 $1 8 . 5 \% { \sim } 2 2 . 6 \%$ ，千粒重分别高 $7 . 2 \% { \sim } 8 . 9 \%$ 、 $1 3 . 9 \% { \sim } 1 4 . 2 \%$ ，但TS与 CT在以上指标间没有显著差异。NTSS、NTS与CT相比较，分别增产 $1 6 . 6 \% { \sim } 1 7 . 4 \%$ 、 $1 8 . 6 \% { \sim } 2 1 . 4 \%$ ，以NTS增产幅度较大，比TS高 $1 0 . 3 \% { \sim } 1 1 . 0 \%$ 。穗数和穗粒数的增加是少耕秸秆还田获得高产的主要原因，出苗率及整齐度对产量影响不显著。同时 NTSS 和 NTS 均获得较高的收获指数，提高比例分别为 $9 . 4 \% { \sim } 1 0 . 7 \%$ 与$1 0 . 5 \% { \sim } 1 1 . 1 \%$ ，说明少耕秸秆还田提高籽粒产量的另一原因是提高了光合产物向籽粒中的转化。本研究表明，少耕秸秆还田是适用于试区小麦高产的理想耕作措施。
+
+关键词：春小麦；秸秆还田；耕作方式；出苗；产量中图分类号：S341; S141 文献标识码：A 文章编号:1671-3990(2017)02-0180-08
+
+# Effect of tillage and straw retention mode on seedling emergence and yield of spring wheat in the Hexi Irrigation Area
+
+YIN Wen1†, CHEN Guiping1†, CHAI Qiang1\*\*, GUO Yao1, FENG Fuxue², ZHAO Cai', YU Aizhong', LIU Chang' (1.Gansu Provincial KeyLaboratory of Arid Land Crop Science/Facultyof Agronomy, Gansu Agricultural University, Lanzhou 730070,China; 2.Collge of Engineering,Gansu Agricultural University,Lanzhou 73o070,China)
+
+Abstract:Seedling emergencerateanduniformityof crops determine their growth and yield performance，while straw retention andtillage mode play an importantroleon seedling emergence and growth of corps.To exploretheresponses of sedling emergenceand yieldofcropsto strawretentionand tilage practices,afield experiment wascariedoutinatypical oasis irrigationregion,Wuwei,Gansu Province,in2014and2015,todetermine theefectsof treatmentsof strawretention combined with tillage pattrns onseding emergence,yield,and yieldcomponentsofspring wheat.The treatments included reduced tillage with 25 to $3 0 ~ \mathrm { c m }$ high straw standing (NTSS),reduced tillage with 25 to $3 0 \ \mathrm { c m }$ long straw covering (NTS), tillage with 25 to $3 0 ~ \mathrm { c m }$ long straw incorporation(TS),and conventional tillage without straw retention (CT,the control).The results showed that，compared with CT,reduced tilagecombined with strawretention treatments(NTSS,NTS） significantly decreased seedling emergence evenness ofwheat,whileTS increased seedling emergence evenness.NTSSandNTS increased spring wheat tiller number by $7 . 4 \%$ to $1 0 . 5 \%$ and $1 4 . 6 \%$ to $1 9 . 1 \%$ , effective spike rate of tiller by $1 3 . 5 \%$ to $20 . 1 \%$ and $3 3 . 0 \%$ to $34 . 7 \%$ ， spike number by $7 . 5 \%$ to $9 . 3 \%$ and $1 0 . 3 \%$ to $1 1 . 2 \%$ ,kernel number per spike by $1 5 . 7 \%$ to $1 6 . 1 \%$ and $1 8 . 5 \%$ to $2 2 . 6 \%$ ，and thousand-kernel weight by $7 . 2 \%$ to $8 . 9 \%$ and $1 3 . 9 \%$ to $1 4 . 2 \%$ ，compared with CT, respectively. There was no significant difference between TS and CT treatments in the above parameters.NTSS and NTS treatments had $1 6 . 6 \%$ to $1 7 . 4 \%$ and $1 8 . 6 \%$ to $2 1 . 4 \%$ higher grain yield than CT. NTS had the highest increasing effect on wheat grain yield, which was $10 . 3 \%$ to $1 1 . 0 \%$ higher under NTS than under TS.The increase of spike number and kernel number per spike was the main reason for yield increase under reduced tilage with straw retention treatments.However,emergence rate and uniformity had no significant impact on wheat production. Meanwhile, NTSS,NTS treatments were $9 . 4 \%$ to $1 0 . 7 \%$ and $1 0 . 5 \%$ to $1 1 . 1 \%$ greater in harvestindex than CTtreatment,indicating higherconversionrateof photoasimilatesin wheatunder thetwo treatments. Therefore,our results showed that reduced tillage in combination with 25 to $3 0 \ \mathrm { c m }$ high straw retention was the feasible technology of wheat production in the oasis irrigation region.
+
+Keywords:Spring wheat; Straw retention; Tillage pattern; Seedling emergence; Yield
+
+作物高产是产量构成因素相互补偿协调的结果[1]。在挖掘产量潜力提高过程中，作物出苗率、出苗均匀与整齐度通过影响作物群体动态生长而影响产量[2]，研究高产小麦(Triticum aestivum L.)出苗率、出苗整齐度及其影响机制，对于优化小麦管理技术具有重要理论和技术指导价值。在影响小麦出苗及产量的诸多因子中，土壤水热特性[3]、播种密度[4]、播种期[5-6]等直接因子，以及种植方式[7]、播种方式[8]、覆盖方式[9]、耕作措施[10-11]、茬口特性[12]等间接因子倍受关注，并已证明，创造适宜的土壤水热环境，并配以相应的耕作措施、播种器械、播种密度、播种期可作为优化小麦出苗率及整齐度的调控措施[13-14]。研究表明，以少免耕作和秸秆还田为主要措施的保护性耕作技术主要通过保持水土、提高作物产量、降低风蚀、水蚀，温室气体排放等环境问题而应用于农业生产[15-16]，但因较低的出苗率与整齐度影响了其规模化应用，因此，亟待研发减弱作物出苗率与整齐度对作物产量影响的适宜耕作措施。然而，有关基于少免耕、秸秆还田于一体的保护性耕作技术体系，能否通过优化作物秸秆还田方式而弱化小麦出苗率及出苗整齐均匀度对产量的影响少见报道，使得生产实践中缺乏通过优化耕作制度，降低作物出苗率及出苗整齐度与增产的矛盾。甘肃河西绿洲灌区光热资源丰富，小麦为主栽作物，但因小麦收获后土壤水分无效蒸发耗水严重，高茬收割秸秆还田技术备受关注，但仍缺乏集成应用少免耕及秸秆还田保水技术的小麦高产模式与理论。为此，本研究以优化利用小麦茬口为突破口，在不同耕作措施和秆还田方式下，探讨降低小麦产量风险的可行性，为提高作物增产潜力，降低作物生产风险，优化试区高产高效小麦种植制度提供理论依据。
+
+# 1材料与方法
+
+# 1.1 试验区概况
+
+田间试验于 2013—2015 年度在甘肃省武威市凉州区黄羊镇新镇路甘肃农业大学绿洲农业科研教学基地 $( 3 7 ^ { \circ } 3 0 ^ { \prime } \mathrm { N }$ ， $1 0 3 ^ { \circ } 5 ^ { \prime } \mathrm { E } \rangle$ 进行。试验区位于河西走廊东端，属寒温带干旱气候区，干燥度5.85，土壤容重 $1 . 5 7 \ \mathrm { g } { \cdot } \mathrm { c m } ^ { - 3 }$ ，土层厚约 $1 2 0 ~ \mathrm { { c m } }$ ，多年平均降雨量约 $1 5 6 ~ \mathrm { m m }$ ，年潜在蒸发量约 $2 4 0 0 \mathrm { m m }$ ，灌溉水资源有限。该区年平均气温 $7 . 2 \ \mathrm { ^ { \circ } C } , \ \geqslant 0 \ \mathrm { ^ { \circ } C }$ 和 $\geqslant 1 0 ~ \mathrm { ^ { \circ } C }$ 的积温分别为 $3 5 1 3 \mathrm { ~ } \mathrm { ~ } ^ { \circ } \mathrm { C }$ 和 $2 9 8 5 \ \mathrm { ^ \circ C }$ ，春季温度低，易对作物出苗产生影响。小麦是该区的主要粮食作物，耕作以传统深翻耕为主，秸秆移出农田。
+
+# 1.2 试验设计
+
+2013年布置预备试验，为次年种植小麦建立不同耕作及秸秆还田方式，即小麦秸秆 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆立茬免耕、 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆覆盖免耕、 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆翻耕、传统低茬收割翻耕，次年施肥旋耕(少耕)后播种小麦，形成 4个处理分别是少耕 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆立茬还田(NTSS)、少耕 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆覆盖还田(NTS)、翻耕 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆还田(TS)及对照传统低茬收割翻耕(CT)。各处理3次重复，小区面积 $4 8 ~ \mathrm { m } ^ { 2 }$ 随机区组排列。2014年与2015年度系统测定不同耕作和秸秆处理方式种植小麦的相关指标。
+
+供试小麦品种为‘宁春2号’。小麦播种日期分别为2014年3月21日与2015年3月29日，收获日期分别为2014年7月24日与2015年7月28日。播种密度为675万粒 $\cdot \mathrm { h m } ^ { - 2 }$ 。
+
+采用统一施肥水平，施纯氮 $2 2 5 ~ \mathrm { \ k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，施$\mathrm { P } _ { 2 } \mathrm { O } _ { 5 } 1 5 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，全作基肥。另外，采用地方统一灌水水平，冬储灌 $1 \ : 2 0 0 \ : \mathrm { \ m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ，小麦生育期内，按苗期、孕穗期、灌浆期分别灌水 $7 5 0 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ / $9 0 0 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ /$7 5 0 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ 。
+
+# 1.3 测定指标和计算方法
+
+小麦出苗20d后采用对角线法选取5个点，每点在 $1 . 2 \mathrm { ~ m } { \times } 1 \mathrm { ~ m ~ }$ 范围内调查小麦出苗率、整齐度、均匀性。
+
+# 1.3.1 出苗率及出苗变异系数
+
+# 出苗率 $\vdots =$ 苗数/播种量
+
+出苗变异系数用于判断出苗的均匀度，其计算公式如下:
+
+变异系数 $\scriptstyle : =$ （标准偏差/平均值） $1 \times 1 0 0 \%$
+
+# 1.3.2 苗龄
+
+小麦播种后20d，分别统计一叶、二叶、三叶时的小麦株数，判断不同耕作措施下出苗整齐度。
+
+# 1.3.3分蘖数、分蘖成穗数及成穗率
+
+小麦分蘖期之后，调查每公顷基本苗数和每公顷总茎数；小麦收获期统计穗数，作为该小区的收获穗数，并计算分蘖成穗数及分蘖成穗率。
+
+每公顷分数 $: =$ 每公顷分蘖数总茎数-每公顷分蘖数基本苗数 (3)
+
+分蘖成穗数 $: =$ 收获穗数-基本苗
+
+分蘗成穗率 $\vdots =$ 分蘗成穗数/分蘖数
+
+# 1.3.4产量、产量性状及收获指数
+
+成熟后按小区收获，测定其籽粒产量(GY)与生物产量(BY)，并计算收获指数(HI)。 $_ \mathrm { H I = G Y / B Y }$ ；随机选取小麦20株，统计穗粒数。用PM-8188型谷物水分测定仪测定籽粒含水率，重复5次，取其平均值。另外，计算 $14 \%$ 含水量下的千粒重。
+
+# 1.4 数据统计分析
+
+使用MicrosoftExcel2007进行数据处理，利用
+
+SPSS17.0软件，采用Duncan方法进行统计分析,采用Linearcorrelation 方法进行相关分析，采用Correlation与Regression方法进行通径分析。
+
+# 2 结果与分析
+
+# 2.1不同耕作及秸秆还田方式对小麦出苗率、出苗均匀度及整齐度的影响
+
+与传统低茬收割翻耕处理(CT)相比，少耕秸秆覆盖还田(NTS)降低了小麦出苗率，低 $5 . 4 \% { \sim } 6 . 0 \%$ 相反，翻耕秸秆还田处理(TS)提高了小麦出苗率，高 $4 . 1 \% { \sim } 5 . 4 \%$ ，均达到显著差异(表1)。秸秆还田处理中，以TS小麦出苗率最高，较NTS小麦出苗率显著高 $1 0 . 0 \% { \sim } 1 2 . 1 \% ( P { < } 0 . 0 5 ) .$ 。通过计算小麦出苗变异系数，得出少耕秸秆还田条件下，小麦出苗均匀性均差于传统不留茬翻耕处理，但TS处理小麦出苗均匀性优于 $\mathrm { C T } ,$ 0
+
+进一步调查播种后 $2 0 \mathrm { ~ d ~ }$ 苗龄表明，不同处理麦苗苗龄主要集中在三叶阶段(表1)。三叶阶段，以TS和CT株数最多，其中TS较少耕高茬收割秸秆立茬还田(NTSS)和 NTS 株数分别多 $1 3 . 3 \% { \sim } 1 5 . 3 \%$ 和$2 3 . 6 \% { \sim } 3 0 . 6 \%$ ,CT较NTSS和NTS株数分别多 $8 . 5 \% \sim$ $1 1 . 6 \%$ 和 $1 8 . 3 \% { \sim } 2 6 . 5 \% ( P { < } 0 . 0 5 )$ ，但TS与CT间无显著性差异。二叶阶段，少耕秸秆还田 NTSS 和 NTS株数较多，比CT分别多 $3 . 9 \% { \sim } 8 . 2 \%$ 和 $1 1 . 9 \% { \sim } 2 2 . 4 \%$ 以NTS处理二叶期株数较多，比TS多 $7 . 3 \% { \sim } 1 4 . 0 \%$ 其差异达到显著水平 $( P { < } 0 . 0 5 )$ 。一叶阶段，NTSS和NTS株数较多。总之，少耕秸秆还田NTSS和TS整齐度较低，以NTS整齐度最低，翻耕秸秆还田TS整齐度最高。
+
+# 2.2 不同耕作及秸秆还田方式对小麦群体生长的影响
+
+翻耕秸秆还田TS可提高小麦的基本苗，反而少耕秸秆覆盖还田 NTS 降低了小麦的基本苗(表 2)。与CT相比，TS提高小麦苗数 $4 . 1 \% { \sim } 5 . 4 \%$ ,NTS降低$5 . 4 \% { \sim } 6 . 0 \% ( P { < } 0 . 0 5 )$ ，NTSS、NTS较TS小麦苗数分别低 $3 . 2 \% { \sim } 4 . 1 \%$ 、 $9 . 1 \% { \sim } 1 0 . 8 \% ( P { < } 0 . 0 5 )$ ，以 NTS降低小麦苗数幅度较大。然而，NTSS和NTS提高了小麦的分蘖数，较CT分别提高 $7 . 4 \% { \sim } 1 0 . 5 \%$ 和 $1 4 . 6 \% \sim$ $1 9 . 1 \%$ ，较TS分别提高 $4 . 3 \% { \sim } 9 . 8 \%$ 和 $1 1 . 3 \% { \sim } 1 8 . 3 \%$ 提高作用显著 $( P { < } 0 . 0 5 )$ 。
+
+与分蘖数相似，NTSS和NTS也可提高小麦的分蘖成穗数与成穗率(表2)。与CT相比,NTSS和NTS处理小麦分蘖成穗数分别高 $2 5 . 4 \% \sim 2 9 . 0 \%$ 和 $5 4 . 3 \% \sim$ $5 8 . 4 \%$ ，NTSS和NTS较TS分别高 $1 3 . 4 \% { \sim } 1 8 . 5 \%$ 和$4 1 . 8 \% { \sim } 4 3 . 3 \% ( P { < } 0 . 0 5 )$ 。NTSS和NTS小麦分蘖成穗率较CT分别高 $1 3 . 5 \% { \sim } 2 0 . 1 \%$ 和 $3 3 . 0 \% { \sim } 3 4 . 7 \%$ ，较TS分别高 $3 . 3 \% { \sim } 1 3 . 6 \%$ 和 $2 1 . 1 \% { \sim } 2 7 . 3 \%$ ，作用显著$( P { < } 0 . 0 5 )$ 。总之，NTS提高小麦分蘗成穗数与成穗率的作用最大，是小麦获得高产的基础
+
+表1不同耕作及秸秆还田处理下小麦出苗率、均匀度及整齐度调查 le 1Seedling rates,emergence evenness,and uniformities of wheat under different tr   
+
+<html><body><table><tr><td rowspan="2">年份 Year</td><td rowspan="2">处理 Treatment</td><td rowspan="2">出苗率 Seedligrate</td><td rowspan="2">出苗均匀度 Emergencevenmess</td><td colspan="3">麦苗整齐度 Seedling uniformity (104-hm-2)</td></tr><tr><td>三叶 Three leaf</td><td>二叶Two-leaf</td><td>一叶One-leaf</td></tr><tr><td>2014</td><td>NTSS</td><td>90.8±1.4b</td><td>1.513±0.37a</td><td>375±5.9bc</td><td>207±13.7b</td><td>31±2.4a</td></tr><tr><td rowspan="6"></td><td>NTS</td><td>86.1±1.2c</td><td>1.440±0.24a</td><td>343±11.2c</td><td>216±6.2a</td><td>21±1.6b</td></tr><tr><td>TS</td><td>94.7±0.8a</td><td>0.792±0.11c</td><td>424±16.3a</td><td>208±12.3b</td><td>6±0.8c</td></tr><tr><td>CT</td><td>91.0±1.1b</td><td>1.224±0.36b</td><td>406±15.6ab</td><td>193±11.4c</td><td>14±3.7bc</td></tr><tr><td>NTSS</td><td>90.4±1.0ab</td><td>1.123±0.28b</td><td>358±13.5bc</td><td>214±12.6ab</td><td>39±3.3a</td></tr><tr><td>NTS</td><td>83.3±1.1c</td><td>1.317±0.10a</td><td>316±13.5c</td><td>222±8.2a</td><td>25±1.6b</td></tr><tr><td>TS</td><td>93.3±0.8a</td><td>0.826±0.09c</td><td>412±19.0a</td><td>205±12.4b</td><td>13±0.8c</td></tr><tr><td></td><td>CT</td><td>88.6±0.9b</td><td>1.064±0.18b</td><td>399±15.1a</td><td>181±13.6c</td><td>18±2.4bc</td></tr></table></body></html>
+
+NTSS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割立茬少耕还田；NTS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬等量秸秆覆盖少耕还田；TS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬等量秸秆翻耕还田；CT：传统低 茬收割翻耕。不同字母表示处理间在 0.05 水平差异显著。NTSS:reduced tillge with 25 to $3 0 \ \mathrm { c m }$ high straw standing; NTS: reduced tillage with 25 to $3 0 \ \mathrm { c m }$ long straw covering; TS: tillage with 25 to $3 0 ~ \mathrm { c m }$ long straw incorporation; CT: conventional tillage without straw retention. Different letters indicate significant difference among treatments at 0.05 probability level.
+
+表2不同耕作及秸秆还田处理的小麦群体变化及成穗率le 2Population change and spike rates of wheat under different treatmer  
+
+<html><body><table><tr><td>年份 Year</td><td>处理 Treatment</td><td>苗数 Seedling number (104-hm-2)</td><td>分蘖数 Tiller number (104-hm-2)</td><td>分蘖成穗数 Spike number of tiller (104-hm-2)</td><td>分蘖成穗率 Effective spike rate of tiller (%)</td></tr><tr><td>2014</td><td>NTSS</td><td>613±9.3b</td><td>438.4±20.9b</td><td>282.3±11.9b</td><td>64.4±3.6ab</td></tr><tr><td></td><td>NTS</td><td>581±8.4c</td><td>467.8±15.4a</td><td>337.8±10.1a</td><td>72.2±9.7a</td></tr><tr><td></td><td>TS</td><td>639±5.1a</td><td>420.2±16.3bc</td><td>238.2±13.2bc</td><td>56.7±15.2bc</td></tr><tr><td></td><td>CT</td><td>614±7.5b</td><td>408.3±14.1c</td><td>218.9±14.8c</td><td>53.6±18.1c</td></tr><tr><td>2015</td><td>NTSS</td><td>610±6.9ab</td><td>415.6±12.4a</td><td>272.6±12.6b</td><td>65.6±10.8b</td></tr><tr><td></td><td>NTS</td><td>562±7.4c</td><td>447.8±11.5a</td><td>344.4±10.7a</td><td>76.9±3.8a</td></tr><tr><td></td><td>TS</td><td>630±5.2a</td><td>378.6±10.1b</td><td>240.4±12.4bc</td><td>63.5±4.9bc</td></tr><tr><td></td><td>CT</td><td>598±6.4b</td><td>376.0±14.0b</td><td>217.4±13.1c</td><td>57.8±13.3c</td></tr></table></body></html>
+
+NTSS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割立茬少耕还田；NTS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬等量秸秆覆盖少耕还田；TS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬等量秸秆翻耕还田；CT：传统低 茬收割翻耕。不同字母表示处理间在 0.05水平差异显著。NTSS:reduced tillage with 25 to $3 0 \ \mathrm { c m }$ high straw standing; NTS: reduced tillage with 25 to $3 0 \ \mathrm { c m }$ long straw covering; TS: tillage with 25 to $3 0 ~ \mathrm { c m }$ long straw incorporation; CT: conventional tillage without straw retention.Different letters indicate significant difference among treatments at 0.05 probability level.
+
+# 2.3 不同耕作及秸秆还田方式对小麦产量以及产量性状的影响
+
+# 2.3.1 小麦产量及收获指数
+
+与传统低茬收割翻耕相比，秸秆还田显著提高了小麦的籽粒产量(表3)。两个试验年度，少耕秸秆还田NTSS、NTS分别高 $1 6 . 6 \% { \sim } 1 7 . 4 \%$ / $1 8 . 6 \% { \sim } 2 1 . 4 \%$ $( P { < } 0 . 0 5 )$ ,TS显著高 $1 0 . 2 \% { \sim } 1 0 . 9 \%$ ，少耕秸秆还田增产效果明显。NTSS和NTS较TS分别高 $5 . 8 \% { \sim } 6 . 0 \%$ 和 $7 . 7 \% { \sim } 9 . 5 \%$ ，以NTS增产幅度较大，产量分别达到$7 6 1 8 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 与 $7 2 0 3 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 。由此说明， $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆覆盖还田结合少耕有利于提高小麦籽粒产量。秸秆还田提高了小麦的生物产量，与CT相比，
+
+NTSS、NTS和TS的生物产量分别提高 $6 . 0 \% { \sim } 6 . 6 \%$ $7 . 3 \% { \sim } 9 . 3 \%$ 和 $5 . 9 \% { \sim } 6 . 1 \% ( P { < } 0 . 0 5 )$ 。耕作方式配合秸秆还田对小麦生物产量没有显著影响。
+
+少耕秸秆还田的NTSS和NTS可提高小麦光合产物的转化效率(表3)。与CT相比，NTSS 和NTS的收获指数分别高 $9 . 4 \% { \sim } 1 0 . 7 \%$ 和 $1 0 . 5 \% { \sim } 1 1 . 1 \%$ ，较TS分别高 $5 . 3 \% 5 . 9 \%$ 和 $6 . 1 \% { \sim } 6 . 3 \%$ ，提高作用显著$( P { < } 0 . 0 5 )$ 。少耕秸秆还田中均以NTS 提高小麦光合产物向籽粒的转化效率最大，说明 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 秸秆覆盖结合少耕(NTS)是提高小麦光合产物转化的适宜秸秆管理措施。
+
+# 2.3.2 小麦产量性状
+
+少耕秸秆还田明显提高了小麦单位面积的成穗数(SN)、穗粒数(KNS)及千粒重(TKW)(表3)。与CT相比，NTSS 和NTS成穗数分别提高了 $7 . 5 \% { \sim } 9 . 3 \%$ 和$1 0 . 3 \% { \sim } 1 1 . 2 \%$ ，以NTS提高SN作用较大，比秸秆翻耕还田TS高 $4 . 1 \% { \sim } 4 . 7 \% ( P { < } 0 . 0 5 ) _ { \odot }$ 。NTSS和NTS穗粒数较CT分别高 $1 5 . 7 \% { \sim } 1 6 . 1 \%$ 和 $1 8 . 5 \% { \sim } 2 2 . 6 \%$ ，以NTS提高KNS幅度较大，比TIS高 $1 2 . 0 \% { \sim } 1 2 . 8 \%$ $( P { < } 0 . 0 5 )$ 。NTSS和NTS千粒重较CT分别提高 $7 . 2 \% { \sim } 8 . 9 \%$ 和$1 3 . 9 \% { \sim } 1 4 . 2 \%$ ，以NTS 提高TKW作用较大，比TS高$1 0 . 3 \% { \sim } 1 1 . 0 \% ( P { < } 0 . 0 5 ) _ { \odot }$ 。总之,3种秸秆还田处理中，均以少耕配合 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬收割秸秆覆盖处理(NTS)产量构成因素最高，是小麦获得高产的基础。
+
+<html><body><table><tr><td rowspan="2">年份r</td><td rowspan="2">Tre理ent</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">H收获ti数ex</td><td colspan="3">产量构成因素 Yield component</td></tr><tr><td>Spike number (104·hm-2)</td><td>Kernelnumber per spike</td><td>10-l weight (g)</td></tr><tr><td>2014</td><td>NTSS</td><td>7 369 ±640a</td><td>17 387±682ab</td><td>0.424±0.014a</td><td>895±74ab</td><td>29.2±1.2ab</td><td>43.0±0.7b</td></tr><tr><td rowspan="6">2015</td><td>NTS</td><td>7 618±408a</td><td>17 915±907a</td><td>0.425±0.024a</td><td>919±52a</td><td>31.1±1.7a</td><td>45.8±2.5a</td></tr><tr><td>TS</td><td>6 957±512b</td><td>17 377±112ab</td><td>0.400±0.022b</td><td>877±44bc</td><td>27.6±0.5b</td><td>41.5±0.6bc</td></tr><tr><td>CT</td><td>6 275±490c</td><td>16 398±763c</td><td>0.383±0.012c</td><td>833±73c</td><td>25.4±1.1c</td><td>40.1±0.7c</td></tr><tr><td>NTSS</td><td>7 079±850a</td><td>16 677±840a</td><td>0.424±0.037a</td><td>883±81ab</td><td>28.4±0.6a</td><td>42.6±1.0ab</td></tr><tr><td>NTS</td><td>7 203±211a</td><td>16 800±927a</td><td>0.429±0.030a</td><td>906±41a</td><td>29.0±1.9a</td><td>44.6±3.4a</td></tr><tr><td>TS</td><td>6 690±285b</td><td>16 593±382a</td><td>0.403±0.013bc</td><td>870±69b</td><td>25.9±0.7b</td><td>40.2±0.9bc</td></tr><tr><td></td><td>CT</td><td>6 071±648c</td><td>15 651±548b</td><td>0.388±0.025c</td><td>815±72c</td><td>24.5±0.8b</td><td>39.2±3.3c</td></tr></table></body></html>
+
+NTSS:25\~30cm高茬收割立茬少耕还田；N $\mathrm { T S } \colon 2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬等量秸秆覆盖少耕还田；TS: $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 高茬等量秸秆翻耕还田；CT：传统低 茬收割翻耕。不同字母表示处理间在 0.05水平差异显著。NTSS:reduced tillage with 25 to $3 0 \ \mathrm { c m }$ high straw standing; NTS: reduced tillage with 25 10 $3 0 \ \mathrm { c m }$ long straw covering; TS: tillage with 25 to $3 0 ~ \mathrm { c m }$ long straw incorporation; CT: conventional tillage without straw retention. Different letters indicate significant difference among treatments at 0.05 probability level.
+
+# 2.4小麦籽粒产量与产量因素、出苗率及出苗变异 系数的相关性 小麦产量构成因素(穗数、穗粒数、千粒重)与籽
+
+粒产量呈极显著正相关性(表4)，而其出苗率、出苗均匀度与籽粒产量无显著相关性，说明少耕秸秆还田通过增加小麦产量构成因素而提高籽粒产量。特别是，小麦穗数、穗粒数与千粒重呈极显著正相关性，说明在少耕小麦秸秆还田方式下，可通过小麦产量构成因素的同步提高而增产，可作为未来研究的主攻方向。
+
+# 2.5产量构成因素间的效益机制分析
+
+通过小麦籽粒产量与其产量构成的直接通径系数可以看出(表5)，穗数和穗粒数对小麦籽粒产量的直接通径系数均为正，穗数对小麦籽粒产量的贡献最大，说明只有在一定单位面积穗数(包括有效分蘖)基础上，才能获得较高籽粒产量。通过籽粒产量与其产量构成的间接通径系数可以看出，穗数通过提高穗粒数对产量的贡献率最大，穗粒数通过提高穗数对产量的贡献最大。由此说明，适宜的耕作及小麦秸秆还田方式主要是通过提高小麦的成穗数来提高籽粒产量。
+
+表3不同耕作及秸秆还田处理小麦产量及产量构成ible 3Yield and yield components of wheat under different treatments  
+
+<html><body><table><tr><td></td><td>穗粒数</td><td>千粒重</td><td>出苗率</td><td>出苗均匀度</td><td>产量</td></tr><tr><td>穗数 SN</td><td>KNS 0.460</td><td>TKW 0.736**</td><td>SR 0.549</td><td>EE</td><td>Yield 0.862**</td></tr><tr><td>穗粒数KNS</td><td></td><td>0.780**</td><td>0.095</td><td>-0.260</td><td>0.763**</td></tr><tr><td>千粒重TKW</td><td></td><td></td><td>0.275</td><td>0.238 0.133</td><td>0.734**</td></tr><tr><td>出苗率 SR</td><td></td><td></td><td></td><td>-0.685**</td><td>0.392</td></tr><tr><td>出苗均匀度 EE</td><td></td><td></td><td></td><td></td><td>-0.049</td></tr></table></body></html>
+
+\*\*与\*分别表示与.0概率水平下显著。\*and\*oelationissignifiatathe.and.probablityevelespecivelyspike iumber; KNS: kernel number per spike; TKW: thousand-kernel weight; SR: seedling rate;EE:emergence eveness.
+
+表4小麦籽粒产量与产量构成因素、出苗率、出苗均匀度的相关系数 ible4Correlation coeficients among yield,yield components,seedling rate,and emergence evenness of wh   
+表5小麦籽粒产量构成的通径分析Table 5Path analysis on yield components of wheat  
+
+<html><body><table><tr><td rowspan="2">指标 Parameter</td><td rowspan="2">直接通径系数 Direct path coefficient</td><td colspan="3">间接通径系数 Indirect path coefficient</td></tr><tr><td>穗数 SN</td><td>穗粒数KNS</td><td>千粒重TKW</td></tr><tr><td>穗数SN</td><td>0.888</td><td>1</td><td>0.342</td><td>-0.368</td></tr><tr><td>穗粒数KNS</td><td>0.744</td><td>0.408</td><td></td><td>-0.390</td></tr><tr><td>千粒重TKW</td><td>-0.500</td><td>0.654</td><td>0.580</td><td></td></tr></table></body></html>
+
+SN: spike number; KNS:kernel number per spike; TKW: thousand-kernel weight
+
+# 3讨论
+
+前茬作物收获后采用秸秆还田保护性耕作播种后茬作物，常因保苗率低、作物出苗质量不高，导致产量下降[17]，成为制约这项技术推广的重要原因之一。关于秸秆还田保护性耕作技术的研究，以往多集中于不同耕作方式与土壤理化性质[18]、土壤水热特性[19]、土壤培肥地力[20]、保水防水蚀风蚀[15]、病虫与杂草危害与防治[14]、产量表现[21-22]等方面，而有关不同秸秆还田方式对作物出苗率影响的系统研究少见报道。因此，本文主要研究不同小麦秸秆还田与耕作方式对小麦出苗率及产量的影响。相关研究表明，影响小麦出苗率的主要因素有土壤水分分布不均或水分不足、秸秆(或根茬)阻碍、播种过深或过浅、种子霉烂等[17]。本研究表明，与传统无秸秆还田处理相比，少耕秸秆还田降低了小麦出苗率，而秸秆翻耕还田则提高了小麦出苗率。这是因为无秸秆还田翻耕使土壤水分丧失较多，引起土壤水分不足或干湿不均，从而影响小麦出苗。而秸秆少耕还田降低小麦出苗率主要因为秸秆还田分布不均，部分秸秆堆积，播种质量低，阻碍小麦种子芽苗的良好生长，甚至造成死苗等现象。秸秆翻耕还田提高小麦出苗率主要因为翻耕利于播种，提高播种质量，秸秆还田的保水作用利于小麦发芽、出苗，从而提高出苗率。说明本研究中小麦秸秆还田处理秸秆阻碍播种出苗的影响率随翻耕而减弱，说明翻耕能降低土壤中秸秆密度，可减少秸秆对小麦出苗的阻碍。
+
+生产中针对各个影响作物产量的因素应采取相应措施，尤其是从作物生产源头保苗对作物增产的影响谈起，从而为作物高产栽培奠定基础。少耕秸秆还田技术降低小麦出苗率，对于土壤水分分布不均或水分不足的问题可从秸秆处理与水分管理上入手，播种后及时根据田间土壤水分状况，加强水分管理，保苗促苗。针对秸秆影响播种质量及出苗的问题，首先，尽可能使秸秆分布均匀；其次，优化秸秆还田后的耕作方式，降低土壤中秸秆密度，这样可以解决秸秆阻碍与由于秸秆引起的土壤水分不足或干湿不均问题。对于播种深浅不一致的问题，可以通过改进播种机械，或改进播种方法，如采用机械代替人工播种。也有研究表明，播种量明显影响小麦出苗率与产量[8]，因此，对于秸秆免耕还田降低作物出苗率，可通过机械操作或者改进秸秆抛散机械，使粉碎的秸秆在田间分布较均匀，也可通过增加播种量、选用分蘖性强、分蘖成穗率高的品种米孙补桔杆还田起小友出田率降的不艮影啊。
+
+大量研究表明，出苗率低、出苗均匀性差导致作物减产，出苗率和出苗变异系数是影响小麦产量的主要因素，小麦出苗率与有效穗数显著正相关,与千粒重呈负相关性，与每穗粒数显著正相关[2]。免耕秸秆还田后小麦出苗率变低、均匀性变差，通过影响小麦千粒重、有效穗数、每穗粒数而影响小麦产量[2]。而本研究表明，在河西绿洲灌区，采用少耕配合秸秆还田虽然降低了小麦出苗率，提高了小麦出苗变异系数，反而增加了小麦产量。相关分析表明，小麦出苗率及出苗变异系数与其籽粒产量无明显相关性，这与秸秆还田降低作物出苗率与产量不同的是，播种前旋耕增加了秸秆还田的均匀度，较免耕秸秆还田提高了播种质量。本研究中，少耕秸秆还田下小麦高产的主要原因是综合少耕及秸秆还田等保护性耕作技术具有较好的保水效应及适宜的土壤温度[19，通过提高了分蘖数、分蘖成穗数，从而提高有效穗数。同时，少耕秸秆还田提高了小麦的穗粒数及粒重，特别是提高了光合产物向籽粒的转移，可能因为秸秆少耕还田明显提高了土壤水分含量，优化了作物前后生育时期的养分、水分需求规律，为满足小麦旺盛生长期的养分、水分需求奠定了基础，从而提高了光合产物转化效率。然而，传统耕作处理的穗数明显低于秸秆还田，是传统耕作分蘖数及分蘖成穗率较低所致。传统耕作生育前期温度高、生长快，水分、养分消耗多，以致于小麦开花吐丝期较低的土壤水分与养分，降低了生育后期的生长发育，减弱光合速率，从而降低成穗率、穗粒数与粒重。最重要的是，少耕秸秆还田增加小麦籽粒产量，可能因为少耕秸秆还田出苗率低，且生育前期低温利于作物根系生长，不利于地上部生长发育[23],小麦生育前期生长缓慢，养分消耗少，而生育后期随着气温的回升，少耕秸秆还田后期适宜的土壤温度与水分及前期剩余的养分，通过实现养分“错期分配”，满足小麦生育后期(灌浆期)旺盛生长的养分需求，说明少耕秸秆还田小麦增产主要发生在生育后期。通过籽粒产量与其产量构成因素的相关分析表明，少耕秸秆还田提高小麦产量主要因为穗数、穗粒数的提高。 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ 小麦秸秆少耕还田可以作为
+
+# 区域小麦高产栽培技术。
+
+# 4结论
+
+少耕秸秆还田降低了小麦出苗率与出苗整齐度翻耕秸秆还田提高了小麦出苗率与出苗整齐度。秸秆还田利于小麦籽粒产量与收获指数的提高，较传统耕作分别增产 $1 0 . 2 \% { \sim } 2 1 . 4 \%$ 与 $4 . 4 \% { \sim } 1 1 . 1 \%$ ，其中秸秆还田配合少耕技术对小麦的增产作用及光合产物向籽粒的转移效应更高，其高产主要归功于穗数(较高的分蘖数及分蘖成穗率)、穗粒数的提高，出苗率及整齐度对产量影响不显著。小麦秸秆还田是本试区小麦可持续生产的可行模式，其中少耕秸秆还田可作为调控绿洲灌区小麦产量构成因素、弱化出苗对产量影响而获得高产的可行耕作措施。
+
+# 参考文献 References
+
+[1]赵明，李建国，张宾，等．论作物高产挖潜的补偿机制[J]. 作物学报,2006,32(10):1566-1573 Zhao M,LiJG, Zhang B,et al. The compensatory mechanism in exploring crop production potential[J].Acta Agronomica Sinica,2006,32(10):1566-1573   
+[2]李波，魏亚凤，季桦，等．稻草还田与不同耕作方式对小麦 出苗以及产量的影响[J]．中国农学通报，2012，28(24): 122-126 Li B,Wei YF, Ji H,et al.Effects of rice straw returned to the field and different tillage methods on seeding emergence and yield of winter wheat[J].Chinese Agricultural Science Bulletin,2012,28(24): 122-126   
+[3]马树庆，王琪，吕厚荃，等．水分和温度对春玉米出苗速度 和出苗率的影响[J].生态学报,2012,32(11):3378-3385 Ma S Q，Wang Q,Lv H Q，et al.Impact of water and temperature on spring maize emergence speed and emergence rate[J].Acta Ecologica Sinica,2012,32(11): 3378-3385   
+[4]周萍萍，赵军，颜红海，等．播期，播种量与施肥量对裸燕 麦籽粒产量及农艺性状的影响[J]．草业科学，2015，32(3): 433-441 Zhou P P, Zhao J, Yan H H,et al. Effects of sowing date, sowing rate and fertilizer rate on grain yield and agronomic characteristics of Avena sativa[J].Pratacultural Science,2015, 32(3):433-441   
+[5]张谋草，赵玮，邓振镛，等．分期播种对陇东地区玉米产量 的影响及适宜播期分析[J]．中国农学通报，2011，27(33): 28-33 Zhang M C,Zhao W,Deng Z Y,et al. Analysis about the effect of stage sowing on maize yield and optimum sowing time in Longdong region[J]. Chinese Agricultural Science Bulletin,2011,27(33): 28-33   
+[6]林洪鑫，刘仁根，肖运萍，等．不同种植时期地膜覆盖对木 薯出苗率和产量的影响[J]．中国农学通报，2015，31(3): 144-148 Lin H X,Liu RG,Xiao Y P,et al.Effects of plastic film mulching on germination rate and yield of cassava planting 米前期水热及出苗效应[J]．灌溉排水学报，2014，33(3): 119-121 Kong W P,Cheng Z Y, Zhang R,et al.Effects of different covers modes and cropping patterns on water and heat in early stage and seeding rates of maize in dry land[J]. Journal of Irrigation and Drainage,2014,33(3): 119-121 [8] 贾春林，郭洪海，袁奎明，等．玉米秸秆机械还田及播种方 式对小麦出苗和产量的影响[J]．中国农学通报，2010, 26(22): 149-154 Jia C L,Guo H H, Yuan K M,et al. Effects of different seeding manner on the seedling emergence,over-winter and yield of wheat under maize stalk full returned to the field[J]. Chinese Agricultural Science Bulletin,2010,26(22): 149-154   
+[9] 何长征，刘明月，龙华,等．不同覆盖方式对冬闲稻田马铃薯 生长及产量的影响[J].中国农学通报,2007,23(11):249-252 He C Z, Liu MY,Long H,et al. Effects of mulching methods on the growth and yield of potatoes grown in winter fallow rice fields[J]. Chinese Agricultural Science Bulletin,2007, 23(11): 249-252   
+[10]Beyaert R P, Schott JW,White P H. Tillage effects on corn production in a coarse-textured soil in southern Ontario[J]. Agronomy Journal, 2002,94(4): 767-774   
+[11] Rahman M A,Chikushi J, Saifizzaman M,et al. Rice straw mulching and nitrogen response of no-till wheat following rice in Bangladesh[J].Field Crops Research,2005,91(1): 71-81   
+[12]薛庆喜，杨思平，张玉春，等．不同作物茬口对连作大豆产 量及农艺性状的影响[J]．大豆科学,2009,28(1):72-75 Xue Q X, Yang S P, Zhang Y C, et al. Effects of different crop stubbles on yield and agronomic characters of continuous cropping soybean[J]. Soybean Science,2009,28(1): 72-75   
+[13]贾延明，尚长青，张振国．保护性耕作适应性试验及关键 技术研究[J]．农业工程学报,2002,18(1):78-81 Jia Y M, Shang C Q, Zhang Z G. Adaptability test and key technology research on conservation tillage[J]. Transactions of the CSAE,2002,18(1): 78-81   
+[14] McMaster G S,Palic D B,Dunn G H. Soil management alters seedling emergence and subsequent autumn growth and yield in dryland winter wheat-fallow systems in the central Great Plains on a clay loam soil[J]. Soil and Tilage Research,2002, 65(2): 193-206   
+[15] Monneveux P, Quillérou E, Sanchez C,et al. Effect of zero tillage and residues conservation on continuous maize cropping in a subtropical environment (Mexico)[J]. Plant and Soil,2006,279(1/2): 95-105   
+[16] 殷文，史倩倩，郭瑶，等．秸秆还田、一膜两年用及间作对 农田碳排放的短期效应[J]．中国生态农业学报,2016,24(6): 716-724 Yin W,Shi Q Q,Guo Y,et al． Short-term response of farmland carbon emission to straw return,two-year plastic film mulching and intercropping[J]. Chinese Journal of EcoAgriculture,2016,24(6): 716-724   
+[17]李少昆，王克如，冯聚凯，等．玉米秸秆还田与不同耕 作方式下影响小麦出苗的因素[J].作物学报，2006，32(3): 463-465 Li S K,Wang K R,Feng JK,et al. Factors affecting seeding emergence in winter wheat under different tillage patterns with maize stalk mulching returned to the field[J].Acta Agronomica Sinica,2006,32(3):463-465   
+[18]李凤博，牛永志，高文玲，等．耕作方式和秸秆还田对直播 稻田土壤理化性质及其产量的影响[J]．土壤通报，2008, 39(3):549-552 LiFB,Niu Y Z,Gao WL,et al.Effects of tillage styles and straw return on soil properties and crop yields in direct seeding rice[J].Chinese Journal of Soil Science,2oo8,39(3): 549-552   
+[19]殷文，陈桂平，柴强，等．前茬小麦秸秆处理方式对河西走 廊地膜覆盖玉米农田土壤水热特性的影响[J].中国农业科 学,2016,49(15):2898-2908 YinW,Chen GP,Chai Q,et al.Responses of soil water and temperature to previous wheat straw treatments in plastic film mulching maize field at Hexi Corridor[J].Scientia Agricultura Sinica,2016,49(15):2898-2908   
+[20]赵士诚，曹彩云，李科江，等．长期秸秆还田对华北潮土肥 力、氮库组分及作物产量的影响[J]．植物营养与肥料学报, 2014,20(6):1441-1449 Zhao SC,Cao CY,Li KJ,et al.Effects of long-term straw return on soil fertility,nitrogen pool fractions and crop yields on a fluvo-aquic soil in North China[J].Journal of Plant Nutrition and Fertilizer,2014,20(6):1441-1449   
+[21]殷文，冯福学，赵财，等．小麦秸秆还田方式对轮作玉米干 物质累积分配及产量的影响[J]．作物学报，2016，42(5): 751-757 Yin W,Feng F X,Zhao C,et al.Effects of wheat straw returningpatternsoncharacteristicsofdrymatter accumulation,distribution and yield of rotation maize[J]. Acta Agronomica Sinica,2016,42(5):751-757   
+[22] Yin W,Yu A Z,Chai Q,et al.Wheat and maize relay-planting with straw covering increases water use efficiency up to $4 6 \% [ \mathrm { J } ]$ .Agronomy for Sustainable Development, 2015,35(5): 815-825   
+[23]刘立晶，高焕文，李洪文．玉米-小麦一年两熟保护性耕作 体系试验研究[J]．农业工程学报,2004,20(3):70-73 Liu L J,Gao H W,Li H W. Conservation tillage for cornwheat two crops a year region[J]. Transactions of the CSAE, 2004,20(3): 70-73

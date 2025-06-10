@@ -1,0 +1,368 @@
+[
+    {
+        "type": "text",
+        "text": "3-硝基酯-1-丙醇抑制反刍动物瘤胃甲烷排放的机理及对动物的影响！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高健」冯　丹」　王梦芝1\\* 倪俊芬²陈前岭 ²（1.扬州大学动物科学与技术学院，扬州 225009;2.江苏省泗阳县畜牧兽医站，泗阳 223700）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：反刍动物甲烷的排放既造成饲料能量的浪费，也会加剧全球变暖作用。在反刍动物瘤胃中，产甲烷菌主要利用二氧化碳转化产生甲烷。产甲烷菌转化二氧化碳的最后一步反应需要甲基辅酶 M还原酶参与，3-硝基酯-1-丙醇（3-nitrooxypropanol，3-NOP）是一种甲基辅酶M类似物，能与辅酶B结合，从而减少甲基辅酶M与辅酶B结合生成甲烷，因此3-NOP能有效地降低瘤胃甲烷的产生。本文旨在阐明3-NOP 抑制反刍动物瘤胃甲烷产生的机制以及对反刍动物生产的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：3-NOP；瘤胃甲烷；甲烷排放；抑制；机理中图分类号：S823；S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "反刍动物胃肠道内微生物发酵产生并排放的甲烷（ $\\mathrm { C H } _ { 4 }$ )，是人类农业生产过程中主要的甲烷来源，每年全球反刍动物胃肠道甲烷的排放量能达到9.19千万t1l，约占农业领域总甲烷排放量的 $5 8 \\% [ 2 ]$ ，而占世界总甲烷排放量可高达 $2 8 \\% ^ { [ 3 ] }$ 。对我国而言，由动物胃肠道发酵排放的甲烷量占甲烷总排放的 $2 9 . 7 \\% [ 4 ]$ 。研究表明，反刍动物瘤胃内发酵产生的气体通常包括约 $6 5 . 5 \\%$ 的二氧化碳（ $\\mathrm { C O } _ { 2 }$ ， $2 8 . 8 \\%$ 的甲烷，以及很少量的氮气、氢气与氧气[5]，其中，甲烷能排放量约占总能摄入量的 $5 \\%$ ，最高可达总能摄入量的 $1 0 \\% ^ { [ 6 ] }$ 。由于甲烷使得全球变暖的温室效应是 $\\mathrm { C O } _ { 2 }$ 的 21倍[7]，其排放对于环境的影响不言而喻。因此可见，甲烷排放不仅造成饲料能量的浪费，同时也具有温室气体效应[。所以，加强对反刍动物瘤胃内甲烷产生的调控至关重要。目前，使用合成的化合物作为甲烷的特异性抑制剂是当下的一个研究热点[9]。目前通过筛选已经确定了几种化合物可作为甲基辅酶M（ $\\mathrm { C H } _ { 3 }$ -S-CoM）还原酶的潜在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2015-12-15  \n基金项目：产学研协同创新项目（XT20140012)；江苏省高校研究生创新工程项目  \n（KYLX15_1377)；江苏省农业三新项目（SXGC[2015]281)  \n作者简介：高健（1992一)，男，江苏南京人，硕士研究生，从事反刍动物营养研究。E-mail:  \ngaojianyzu $@$ 126.com  \n\\*通信作者：王梦芝，副教授，硕士生导师，E-mail: mengzhiwangyz@126.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抑制剂，能减少产甲烷菌转化 $\\mathrm { C O } _ { 2 }$ 到甲烷的最后一步[10]。3-硝基酯-1-丙醇(3-nitrooxypropanol,3-NOP）就是其中一种。最近的研究还证实,它能在体外培养条件下和饲喂绵羊30d内有效地抑制甲烷的产生[1]。因此，本文主要目的是阐述 3-NOP 对反刍动物甲烷排放抑制机理以及对反刍动物生产的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13-NOP的分子结构与代谢特性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "甲基辅酶M类似物3-NOP 由Duval等[10]设计发明，荷兰帝斯曼(DSM)集团公司合成。每 50.1 mmol 3-溴-1-丙醇可以与 $1 2 5 . 2 5 \\ \\mathrm { m m o l }$ 硝酸银反应，经提纯后生成38.8mol3-NOP。其化学式为 $\\mathrm { C _ { 3 } H _ { 7 } N O _ { 4 } }$ ，相对分子质量为121.1，分子结构及其化学合成方程式见图1[12]。该物质的主要作用是从根本上减少甲烷生成，而不以危害反刍动物健康的方式影响瘤胃内微生物发酵，同时促进动物生产性能。与过去生产的甲烷抑制剂相比，3-NOP更为稳定、安全，而且不会影响饲粮的适口性，将其混合到饲粮中并不影响反刍动物的采食量。更重要的是，3-NOP 能够以非常低的浓度在瘤胃内产生活性作用，如成年羊每日添加 $1 0 0 \\mathrm { m g }$ 3-NOP能降低每千克干物质采食量甲烷产量的 $23 \\%$ 以上[11]。同时，在宿主动物生产的牛奶和肉产品中都没有3-NOP及其代谢物的蓄积[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c344776d2004ae1d66456830a1c17d185cd3ac8651c3100fa43aca3189921265.jpg",
+        "img_caption": [
+            "Fig.1The molecular structure and chemical synthesis equation of 3-nitrooxypropanol[12] "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图13-NOP的分子结构及其化学合成方程式"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2甲烷产生的机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "产甲烷菌均为严格厌氧细菌，属于古细菌。在反刍动物的瘤胃内，常见的产甲烷菌包括甲烷杆菌目、甲烷球菌目、甲烷微菌目、八叠球菌目和甲烷火菌目，而产甲烷杆菌是瘤胃内发现的主要产甲烷菌[13-14]，产甲烷杆菌通常使用 $\\mathrm { C O } _ { 2 }$ 作为电子受体，氢气作为电子供体以产生甲烷。相比于甲烷杆菌，甲烷球菌不仅可以利用氢气作为电子供体，也可以利用甲酸作",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "46 为电子供体。八叠球菌、甲烷火菌均利用 $\\mathrm { C O } _ { 2 }$ 产生甲烷，而甲烷微菌则可以利用更多的底  \n47 物，可见 $\\mathrm { C O } _ { 2 }$ 是瘤胃产甲烷菌产甲烷过程中的主要发酵底物。  \n48 产甲烷菌可以利用 $\\mathrm { C O } _ { 2 }$ 、甲酸、乙酸和甲醇作为底物生成甲烷。可能存在4种产生甲烷  \n49 的通路，包括 $\\mathrm { C O } _ { 2 }$ 还原通路、乙酸异化通路、甲酸氧化通路和甲醇不成比例分化通路[15]。  \n50 其中，氢气和 $\\mathrm { C O } _ { 2 }$ 是产甲烷菌的主要发酵底物，瘤胃内 $82 \\%$ 的甲烷由 $\\mathrm { C O } _ { 2 }$ 还原通路反应产  \n51 生；甲酸是重要的反应底物，但其反应后生成的甲烷较少，仅有 $3 \\% { \\sim } 5 \\%$ 甲烷通过甲酸反应  \n52 形成[16-17]。  \n53 产甲烷菌生成甲烷的过程包括7步酶促还原反应（图2)，分别是： $1 ) \\mathrm { C O } _ { 2 }$ 与甲烷呋喃  \n54 （methanofuran,MFR）结合2个电子，形成甲酸甲烷呋喃（formyl-MFR)。2)甲酸甲烷呋喃  \n55 的甲酸基团转移至四氢甲烷喋呤（tetrahydromethanopterin $\\mathrm { . H _ { 4 } M P T }$ ）形成甲酸四氢甲烷喋呤  \n56 (formyl-H4MPT)。3)甲酸四氢甲烷喋呤在甲川四氢甲酸蝶呤环化脱水酶的作用下，形成甲  \n57 川四氢甲烷喋呤（methenyl- ${ \\bf \\cdot H _ { 4 } M P T }$ )。4)氢甲烷喋呤作为氯离子基团的载体，还原生成甲叉  \n58 四氢甲烷喋呤（methylene- $\\mathbf { \\cdot H _ { 4 } M P T }$ )。5)甲叉四氢甲烷喋呤反应生成甲基四氢甲烷喋呤  \n59 (methyl- $\\mathbf { \\cdot H _ { 4 } M P T }$ )。6)甲基基团从N5-甲酰四氢甲烷喋呤转移到辅酶M(HS-CoM)，生成甲  \n60 基辅酶M。7)甲基辅酶M在甲基辅酶M还原酶I（MRI）和甲基辅酶M还原酶II（MR  \n61 ⅡI）的催化下最终形成甲烷。在这7步反应过程中，参与的辅酶主要是 $\\mathrm { F } _ { 4 2 0 }$ 、F430、辅酶B  \n62 和辅酶M。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9fff9ec6723e16bb95aef5eb61bb6e6764832455827481768554a30b9482a26f.jpg",
+        "img_caption": [
+            "图2瘤胃产甲烷菌的甲烷生成通路",
+            "Fig.2Methanogenesis pathways of ruminal methanogenus[17] "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "33-NOP对甲烷产生的抑制机理",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "早期对于甲烷抑制，主要有物理方法、使用添加剂等方法。改变饲粮组成，提高饲粮精粗比能够降低瘤胃内pH，并持续影响原虫区系，从而降低甲烷产量[18]。但是，饲粮较高的精粗比例对反刍动物的健康不利，易导致如酸中毒、蹄叶炎等疾病[19]。同样地，在饲粮中添加有机酸、油脂等均能降低反刍动物甲烷的产量[20-21]，也有研究表明，部分化学制剂能大大降低甲烷的产生，如离子载体、硫酸盐、硝酸盐、延胡索酸、卤代甲烷类似物[9,2-24]，然而，这些化合物的实际使用受到其瞬时效应、生产成本、化合物的可用性或者不利的毒性作用所局限[25]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来，许多国外研究者把兴趣转向了甲烷生成通路的特异性抑制，甲基辅酶M还原酶能够促进 $\\mathrm { C O } _ { 2 }$ 还原通路中产甲烷菌还原 $\\mathrm { C O } _ { 2 }$ 到甲烷的最后一步反应（图3）[26-27]。通过筛选已经确定了某些硝基酯类化合物能够影响甲基辅酶M还原酶的活性位点[28]，3-NOP 作为甲基辅酶M类似物，能替代甲基辅酶M结合辅酶B，从而减少甲基辅酶M转换生成甲烷的过程，最后达到减少产甲烷菌转化 $\\mathrm { C O } _ { 2 }$ 到甲烷数量[12]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CH3-S-CoM：甲基辅酶M；CoB-S-H:辅酶B； $\\mathrm { C H } _ { 4 }$ ：甲烷。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b97b19e6fbed5f410df6a5a55d73adf87b24f3edc4c05f70397312c38de5f6.jpg",
+        "img_caption": [
+            "图3甲烷合成过程中 $\\mathrm { C O } _ { 2 }$ 还原通路的最后一步反应",
+            "Fig.3The last step of reduction pathway of $\\mathrm { C O } _ { 2 }$ in process of methane synthesis[27] "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "43-NOP抑制反刍动物甲烷产生",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.13-NOP 对甲烷产生的抑制效应",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Soliva 等[9]通过体外模拟瘤胃试验，对比 3-NOP 和溴乙烷磺酸（bromoethanesulfonate）发现，相比于溴乙烷磺酸，3-NOP 能显著降低甲烷产量。溴乙烷磺酸是一种辅酶M类似物[29]，对甲烷产生具有特异性活性，且在甲烷产生过程的最后一步反应中能抑制甲基辅酶 M转变成甲烷的反应[30]，其作用与3-NOP 类似。据报道，在体外培养条件下和绵羊饲养过程中添加3-NOP 均能有效抑制甲烷的产生[1]。3-NOP 对奶牛的效果与绵羊基本一致，饲粮添加3-NOP能降低泌乳奶牛的甲烷产量，添加 $5 0 0 \\ \\mathrm { m g / d }$ 的 3-NOP 能降低 $6 . 6 \\%$ 的甲烷产量，而添加 $2 5 0 0 \\mathrm { m g / d }$ 时甲烷产量下降 $9 . 8 \\% ^ { [ 3 1 ] }$ 。Haisan 等[32]验证了 $2 5 0 0 \\mathrm { { m g / d } }$ 的 3-NOP 对泌乳奶牛甲烷产量的影响，发现甲烷产量从每千克干物质采食量产 $ { 1 7 . 8 \\mathrm { ~ g ~ } }$ 降低至 $7 . 1 8 \\ \\mathrm { g }$ 。上述2个试验添加量相同，但是甲烷产量降低的效果存在差异，这可能由于该化合物在瘤胃内的稳定性与其在瘤胃内吸收代谢与瘤胃内容物的外排有关，Reynolds 等[31l仅在 2 次饲喂后将3-NOP由瘤胃瘘管添加到瘤胃内，虽然在添加后 $1 { \\sim } 2 \\mathrm { ~ h ~ }$ 内对甲烷产量有短暂的强抑制效果，但3-NOP 在瘤胃内的代谢与瘤胃内容物流入后消化道会影响其在瘤胃内的作用；而 Haisan等[32]将3-NOP 混合在饲粮内饲喂给动物则对甲烷产量有持续抑制的作用。因此，将 3-NOP与饲料混合或者持续饲喂可能是一个更有效的投喂方法。对于肉牛，3-NOP 也同样存在甲烷抑制效果，且甲烷产量在一定程度上随添加水平的上升而呈线性下降[33]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.23-NOP对瘤胃发酵代谢的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.1对瘤胃液pH及氨氮浓度的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "肉牛每千克体重添加2.25和 $4 . 5 ~ \\mathrm { m g }$ 3-NOP时瘤胃液 $\\mathsf { p H }$ 的最低值分别为6.04和6.06,均显著高于对照组（5.83)。但是，用连续酸度计测定的每日瘤胃液pH的平均值并无差异，且这2种剂量对氨氮浓度也无显著影响[34]。Martinez-Fermandez 等[1]也报道，绵羊每日饲喂100 mg 3-NOP对瘤胃液氨氮浓度的影响不显著。这是因为3-NOP作为甲基辅酶M类似物，能够替代甲基辅酶M与辅酶B结合，减少甲烷生成，但对瘤胃菌群并无明显的影响。虽然瘤胃发酵模式改变为丙酸发酵，但3-NOP的添加并未改变总挥发性脂肪酸(volatile fatty acids，VFA）浓度，所以3-NOP 的添加及其作用过程中的产物对瘤胃液pH没有显著的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.2对瘤胃液挥发性脂肪酸浓度的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲喂 $2 \\ 5 0 0 \\ \\mathrm { m g / d }$ 的3-NOP不会改变总挥发性脂肪酸浓度，但是显著降低乙酸摩尔百分比（每 $1 0 0 \\mathrm { m o l }$ 总挥发性脂肪酸含52.1vs.55.5mol)，而丙酸摩尔百分比有上升的趋势，从而显著降低乙酸/丙酸，改变了瘤胃发酵模式。而并不会改变其他挥发性脂肪酸的浓度，如丁酸、异丁酸、戊酸[32]。Martinez-Fernandez 等[1]在体外发酵瘤胃液试验中也发现了类似的结果。而在体内试验，当饲喂绵羊3-NOP $1 0 0 ~ \\mathrm { { m g / d } }$ 时，乙酸摩尔百分比显著降低，丙酸摩尔百分比显著提高。很多试验发现了相同的结果，这说明饲喂 3-NOP 能使得瘤胃发酵模式转换成丙酸型发酵[31,35]。瘤胃甲烷产量和丙酸浓度呈负相关，两者之间存在氢竞争[36-37],丙酸的产生可以在某种程度上作为氢沉积的替代通路，当甲烷产量减少时，更多的氢被利用，这对于丙酸的产生和乙酸化的还原过程更有利[38-39]。从图4可知，瘤胃内的主要发酵通路中丙酸的产生过程需要利用氢离子，由于甲烷合成的减少而造成氢离子被用于合成甲烷的量减少，更多的氢离子可以用于丙酸的合成，所以当甲烷合成减少时，对丙酸合成更有利。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "acetate：乙酸；acetyl-CoA：乙酰辅酶A；acetoacetyl-CoA：乙酰乙酰辅酶A； $\\beta$ -hydroxybutyryl-CoA: β-羟丁酰辅酶A；crotonyl-CoA：巴豆酰辅酶A；butyrate：丁酸；hexose：已糖；pyruvate：丙酮酸；lactate： 乳酸；acrylyl-CoA：丙烯酰辅酶A；propionate：丙酸；oxaloacetate：草酰乙酸；malate：苹果酸；fumarate： 延胡索酸；succinate：琥珀酸；methanogenesis：甲烷合成。 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dad4784c254050b5f1a4e8600a8cce55d737e030181e558a8b3cf8504b25649b.jpg",
+        "img_caption": [
+            "图4瘤胃内的主要发酵通路",
+            "Fig.4The main fermentation pathway in the rumen[40] "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.3对瘤胃微生物区系的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Haisan 等[32]发现，产甲烷菌数量和甲烷产量存在正相关的趋势，饲喂3-NOP 造成甲烷产量减少时，产甲烷菌数量从每克瘤胃食糜 $2 . 6 9 \\times 1 0 ^ { 8 }$ 个下降到 $0 . 9 5 \\times 1 0 ^ { 8 }$ 个，产甲烷菌的数量极显著地减少,总细菌和原虫的数量并不受影响。但是Martinez-Fermandez 等[,35]报道，投喂3-NOP 给绵羊后未改变微生物区系；同样地，Romero-Perez 等[33]也发现，产甲烷菌的总量未受到3-NOP 的影响。这可能与饲粮精粗比不同有关，3-NOP 对甲烷排放的抑制效果可能受到饲粮组成的影响。Haisan 等[32]的报道中，饲粮粗饲料比例为 $3 8 \\%$ ，饲粮精粗比也可以影响瘤胃甲烷产量。当提高饲粮精粗比时，会改变瘤胃微生物区系，从而减少瘤胃甲烷产量[18]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.33-NOP对反刍动物生产性能的影响及其残留效应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "有研究表明，3-NOP的添加不会影响泌乳中期奶牛的干物质采食量，对照组和 3-NOP组的 $4 \\%$ 校正乳产量分别为31.5和 $3 2 . 3 \\mathrm { k g / d }$ ，2组并不存在显著差异，且各乳成分的产量也无显著差异，饲喂3-NOP 的泌乳中期奶牛日增重显著高于对照组（ $1 . 0 6 \\mathrm { k g / d }$ vs. $0 . 3 9 \\mathrm { k g / d }$ ）[32]。Hristov 等[39]报道，高产奶牛饲粮添加3-NOP 能显著提高日增重，饲喂每千克饲粮干物质60 mg 3-NOP后日增重从 $2 1 0 \\ \\mathrm { g / d }$ 提高到 $4 5 1 \\ \\mathrm { g / d } .$ 。这可能由于饲粮能量已经能满足泌乳的营养需要，通过降低甲烷产生而避免损失的能量则用以提高奶牛的日增重。而对采食量、产奶量、纤维消化能力并没有副作用，且能提高乳蛋白（ $1 . 4 5 \\mathrm { k g / d }$ Vs. $1 . 3 7 \\mathrm { k g / d } ^ { \\cdot }$ ）和乳糖（2.25kg/d vs.2.16 kg/d）的产量[39]。Romero-Perez 等[34]进行112 d的3-NOP 饲喂试验，在其后16d 的恢复期中，除乙酸摩尔百分比、异戊酸摩尔百分比、最低pH等少量指标外，对照组和3-NOP 组的大多数瘤胃发酵指标无显著差异。相比乙酸或异戊酸在恢复期的恢复速度，甲烷产生的速度更快，这说明产甲烷菌能比产乙酸和异戊酸的瘤胃微生物更能适应新的瘤胃环境。3-NOP 能持续减少甲烷合成，并未出现微生物适应其作用的现象，在停止添加后反刍动物会很快恢复，对瘤胃发酵以及宿主健康并没有出现不利影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3-NOP 能有效地降低反刍动物瘤胃甲烷的排放，而且不会引起畜产品中其代谢物的残留，且能利用减少甲烷排放损失的能量来提高日增重。但在生产实践中，3-NOP 的作用效果也可能受使用方法的影响。比如，将3-NOP 混合到饲粮中让动物自由采食对于甲烷排放的抑制效果相比一次性投喂好；添加3-NOP 能使瘤胃发酵类型转变为丙酸型发酵，且并未减少瘤胃产甲烷微生物的数量及其发酵，但添加量过高也会对瘤胃发酵不利；等等。3-NOP可通过降低瘤胃甲烷的排放来减少宿主所摄入饲料能量的浪费，进而提高反刍动物的生产性能，既可提高饲料能量的利用效率，又可减少瘤胃甲烷的排放量。目前，3-NOP 仍处在试验研究阶段，尚未商品化。但是其通过低剂量添加就可达到显著降低的目的，且不会对反刍动物本身和环境有负面影响。在日益重视环保与节能减排的21世纪，3-NOP不失为一种使用前景良好的添加剂。因此对其生产应用技术的深入研究，可为反刍动物生产实践中饲料资源的高效利用和畜牧业对全球变暖温室效应的缓解提供新思路。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]O'MARA F P.The significance of livestock as a contributor to global greenhouse gas emissionstodayandin the near future[J].AnimalFeed Science and Technol0gy,2011,166/167:7-15.   \n[2] KNAPP J R,LAUR G L,VADAS P A,et al.Invited review:enteric methane in dairy cattle production:quantifying the opportunities and impact of reducing emissions[J].Journal of Dairy Science,2014,97(6):3231-3261. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]YUSUF R O,NOOR Z Z,ABBA A H,et al.Methane emission by sectors:a comprehensive review of emission sources and mitigation methods[J].Renewable and Sustainable Energy ΛCVICWS,∠UI∠,IU(/).JUJ>-JU/U. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]娜仁花.不同日粮对奶牛瘤胃甲烷及氮排放的影响研究[D].博士学位论文.北京:中国农 业科学院,2010.   \n[5]FAICHNEY G J.Rumen physiology:the key to understanding the conversion of plants into animal products[J].Australian Journal of Agricultural Research,1996,47(2):163-174.   \n[6]HOLTER JB,YOUNG A J.Methane production in dry and lactating Holstein cows[J].Journal of Dairy Science,1992,75(8):2165-2175.   \n[7] UnitedNations.Frameworkconventiononclimatechange.Global warming potentials[EB/OL].(2013-11-18).http://unfcc.int/ghg_data/items/3825.php.   \n[8] TAKAHASHIJ.Nutritionalmanipulationofmethanogenesis in ruminants[J].Asian-Australasian Journal of Animal Science,2001,14:131-135.   \n[9]SOLIVA C R,AMELCHANKA S L,DUVAL S M,et al.Ruminal methane inhibition potential of various pure compounds in comparison with garlic oil as determined with a rumen simulation technique (Rusitec)[J].British Journal of Nutrition,2011,106(1):114-122.   \n[10]DUVAL S,KINDERMANN M.Nitrooxy alkanoic acids and derivatives thereof in feed for reducingmethaneemissioninruminants,and/ortoimprove ruminant performance:US,20120315339A1[P].2012-12-13.   \n[11]MARTINEZ-FERNANDEZ G,ABECIA L,ARCO A,et al.Efects of ethyl-3-nitro0xy propionate and 3-nitrooxypropanol on ruminal fermentation,microbial abundance,and methane emissions in sheep[J].Journal of Dairy Science,2014,97(6):3790-3799.   \n[12]DUVAL S,KINDERMANN M.Use of nitrooxy organic molecules in feed for reducing methane emission in ruminants,and/or to improve ruminant performance:US,20140147529A1[P].2014-05-29.   \n[13]KING E E,SMITH R P,ST-PIERRE B,et al.Differences in the rumen methanogen populations of lactating Jersey and Holstein dairy cows under the same diet regimen[J].Applied and Environmental Microbiology,2011,77(16):5682-5687.   \n[14]ST-PIERRE B,WRIGHT A D G.Diversity ofgut methanogens in herbivorous animals[J].Animal,2013,7(S1):49-56.   \n[15]乔生民,乔君毅,谭支良.反刍动物瘤胃甲烷生成机制及调控措施研究进展[J].中国草食 动物科学,2014,34(1):44-48.   \n[16]冯仰廉.反刍动物营养学[M].北京:科学出版社,2004.   \n[17]ROUVIERE P E,WOLFE R S.Novel biochemistry of methanogenesis[J].The Journal of Biological Chemistry,1988,263(17):7913-7916.   \n[18]KUMAR S,DAGAR S S,SIROHI S K,et al.Microbial profiles,in vitro gas production and dry matter digestibility based on various ratios of roughage to concentrate[J].Annals of Microbiology,2013,63(2):541-545.   \n[19] GANDRA J R,GIL P C N,CONSOLO N R B,et al.Addition of increasing doses of ricinoleic acid from castor oil (Ricinus communis L.） in diets of Nellore steers in feedlots[J].Journal of Animal and Feed Sciences,2012,21(4):566-576.   \n[20]UNGERFELD E M,KOHN R A,WALLACE R J,et al.A meta-analysis of fumarate effects onmethaneproductioninruminalbatchcultures[J].JournalofAnimal Science,2007,85(10):2556-2563.   \n[21]GRAINGER C,BEAUCHEMIN K A.Can enteric methane emissons from ruminants be loweredwithoutloweringtheirproduction[J].AnimalFeedScience and Technol0gy,2011,166-167:308-320.   \n[22]WOOD T A,WALLACE R J,ROWE A,et al.Encapsulated fumaric acid as a feed ingredient to decrease ruminalmethaneemissions[J].Animal Feed Science and Technology,2009,152(1/2):62-71.   \n[23]VAN ZIJDERVELD S M,GERRITS W J J,APAJALAHTI J A,et al.Nitrate and sulfate:effective alternative hydrogen sinks for mitigation of ruminal methane production in sheep[J].Journal of Dairy Science,2010,93(12):5856-5866.   \n[24]ABECIA L,TORAL P G,MARTIN-GARCIA A I,et al.Effect of bromochloromethane on ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "methane emission,rumen fermentation pattern,milk yield,and fatty acid profile in lactating dairy goats[J].Journal of Dairy Science,2012,95(4):2027-2036. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25]HRISTOV A N,OH J,FIRKINS JL,et al.Special Topics-mitigation of methane and nitrous oxide emissions from animal operations: I .A review of enteric methane mitigation options[J].Journal of Animal Science,2013,91(11):5045-5069. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26]ATTWOOD G,MCSWEENEY C.Methanogen genomics to discover targets for methane mitigation technologies and options for alternative $\\mathrm { H } _ { 2 }$ utilisation in the rumen[J].Animal Production Science,2008,48(2):28-37. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[27]ERMLER U,GRABARSE W,SHIMA S,et al.Crystal structure of methyl-coenzyme M reductase:the key enzyme of biological methane formation[J].Science,1997,278(5342):1457- 1462. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28] HALGREN T A,MURPHY R B,FRIESNER R A,et al.Glide:a neW approach for rapid,accurate docking and scoring.2.Enrichment factors in database screening[J].Journal of Medicinal Chemistry,2004,47(7):1750-1759. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[29]GUNSALUS R P,ROMESSER J A,WOLFE R S.Preparation of coenzyme M analogs and their activity in the methyl coenzyme M reductase system of Methanobacterium thermoautotrophicum[J].Biochemistry,1978,17(12):2374-2377. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[30]IMMIG I.The rumen and hindgut as source of ruminant methanogenesis[J].Environmental Monitoring and Assessment,1996,42(1/2):57-72. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[31]REYNOLDS C K,HUMPHRIES D J,KIRTON P,et al.Effects of 3-nitrooXypropanol on methaneemission,digestion,and energyand nitrogen balanceoflactatingdairy cows[J].Journal of Dairy Science,2014,97(6):3777-3789. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[32]HAISAN J,SUN Y,GUAN L L,et al.The effects of feeding 3-nitrooxypropanol on methane emissions and productivity of Holstein cows in mid lactation[J].Journal of Dairy Science,2014,97(5):3110-3119. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[33] ROMERO-PEREZ A,OKINE E K,MCGINN S M,et al.The potential of 3-nitrooxypropanol to lower enteric methane emissions from beef cattle[J].Journal ofAnimal Science,2014,92(10):4682-4693. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34]ROMERO-PEREZ A,OKINE E K,MCGINN S M,et al.Sustained reduction in methane production from long-term addition of 3-nitrooxypropanol to a beef cattle diet[J].Journal of Animal Science,2015,93(4):1780-1791. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35]MARTiNEZ-FERNANDEZ G,ARCO A,ABECIA L,et al.The addition of ethyl-3-nitrooxy propionate and 3-nitrooxypropanol in the diet of sheep substantially reduces methane emissions and the effect persists over amonth[J].AdvancesinAnimal Biosciences,2013,4(2):368. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36]MATHISON G W,OKINE E K,MCALLISTER T A,et al.Reducing methane emissions from ruminant animals[J].Journal of Applied Animal Research,1998,14(1):1-28. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[37]HUNGATE R E.Hydrogen as an intermediate in the rumen fermentation[J].Archiv Fur Mikrobiologie,1967,59(1/2/3):158-164. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[38]MORGAVI D P,FORANO E,MARTIN C,et al.Microbial ecosystem and methanogenesis in ruminants[J].Animal,2010,4(7):1024-1036. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[39]HRISTOV A N,OH J,GIALLONGO F,et al.An inhibitor persistently decreased enteric methane emission from dairy cows with no negative effect on milk production[J].Proceedings of the National Academy of Sciences of the United States of America,2015,112(34):10663- 10668. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[40]UNGERFELD E M,FORSTER R J.A meta-analysis of malate effects on methanogenesis in ruminal batch cultures[J].Animal Feed Science and Technology,2011,166-167:282-290. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3-Nitrooxypropanol: Inhibitory Mechanism of Ruminal Methane Emission in Ruminants and Effects on Animals ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GAO Jian1 FENG DanlWANG Mengzhi1\\* NI Junfen² CHEN Qianling² (1. College of Animal Science and Technology, Yangzhou University, Yangzhou 225009, China; 2. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ruminal methane $\\mathrm { ( C H _ { 4 } ) }$ emission not only causes energy waste of diets,but also contributes to global warming. The methanogens mainly utilize carbon dioxide $\\left( \\mathrm { C O } _ { 2 } \\right)$ to produce $\\mathrm { C H } _ { 4 }$ in rumen of ruminants. Methyl coenzyme M reductase takes a part in the last step of reduction pathway of $\\mathrm { C O } _ { 2 }$ in the process of $\\mathrm { C H } _ { 4 }$ synthesis,while 3-nitrooxypropanol (3-NOP) has the similar structure with methyl coenzyme M, which can combine with coenzyme B,and then reduce the combination between methyl coenzyme M and coenzyme B to produce $\\mathrm { C H } _ { 4 }$ Thus, 3-NOP can effectively reduce the ruminal $\\mathrm { C H } _ { 4 }$ production. This paper reviewed the inhibitory mechanism of 3-NOP on ruminal $\\mathrm { C H } _ { 4 }$ emission，as well as the effects on performance of ruminants. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words: 3-nitrooxypropanol; ruminal methane; methane emission; inhibition; mechanism ",
+        "page_idx": 12
+    }
+]

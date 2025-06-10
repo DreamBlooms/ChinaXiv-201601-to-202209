@@ -1,0 +1,869 @@
+[
+    {
+        "type": "text",
+        "text": "Strengthened change point detection model for weak mean ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "difference data ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shaoqian HUANG $^ 1 \\ P ,$ Qi $Z _ { \\mathrm { H O U } ^ { 2 } } \\ P$ & Hongqing WANGl\\* 1 Department of Mathematics,Beijing Forestry University,Beijing, China 2 Department of Mathematics,Beijing Jiaotong University,Beijing, China $\\ P$ These authors contributed equally to this work. Conceptualization: Qi ZHOU Data curation: Shaoqian HUANG. Methodology: Qi ZHOU, Shaoqian HUANG, Project administration: Hongqing WANG. Software: Shaoqian HUANG Supervision: Hongqing WANG. Validation: Shaoqian HUANG, Qi ZHOU. Writing-original draft: Qi ZHOU. Writing-review & editing: Shaoqian HUANG,Qi ZHOU. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Objective:The lifetime diffrence in adjacent parallelstructure components becomessmallas the number ofcomponents belonging to the same paralll structure increases.To infer the system structure,we must clarify the components that belong to the same parallel structure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods: A strengthened change point detection model (SCPDM) for weak mean diference data(WMDD) is established, which usually indicates that,as affcted byalarge variance,themean diffrence in two subsignals forone data sequence becomes nonsignificant.Forrepeatedlyretrievable WMDD,we performed two enhanced operations that doubledthe mean diference by using the variance informationand analyzed the asymptotic properties of the enhanced data.Then,we proposed an SCPDM based on the asymptotic results. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results:Finally，we compared the SCPDM with two other main change point detection models and verified that the SCPDM is superior to other models using WMDD change point detection by the simulation method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Limitations: This paper also have several limitations. First, we only discussed that $y _ { 1 } , . . . , y _ { T }$ are independent with normal distribution and single change point. Second, the reason why the relationship between $\\mid \\mu _ { 1 } \\ : - \\mu _ { 2 } \\mid$ and $\\sigma$ has an important influence on the accuracy of change point detection is not discussed in depth.Weonly defined theratio boundary of WMDD by experience and simulation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusions:Traditional change point detection models may become insensitive or ineffctive for WMDD.We gave some asymptotic analysis and established a enhanced change point detection model (SCPDM) based on the asymptotic results. Compared with the traditional method, SCPDM can effectively detect the change point. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: single change point detection; weak mean difference; large variance; enhanced operations; simulation ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Weak mean difference data (WMDD) are a type of data in which the information of the mean difference is reduced by a large variance.For example,as is shown in Fig 1, when the mean difference and the standard deviation ，the location of the change point is easily detected. If the standard deviation ，the accuracy of change point detection may be decreased.However,if the standard deviation ,the location of the change point is hardly detected by most current models. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An important example of WMDD comes from the reliability field. Assume that the resistance values of allof the components in Fig 2. are equal. Jin et al.[46] pointed out that components which are tested in a laboratory environment differ in significant ways from those which have experienced operations in fielded systems where the homogeneous components will suffer different degrees of damage. As is shown below, the voltages of components belonging to adjacent parallel structures become more similar as the number of components belonging to the same parallel structure increases, which means that the lifetime diffrence in components belonging to adjacent parallel structures becomes small too. To infer the system structure, we must clarify the components belonging to the same parallel structure. As we all know, components in the same parallel structure have homogeneous life data. Hence, detecting the small lifetime difference in components is extremely important to distinguish whether components belong to the same parallel structure or not and is beneficial to establish a topology diagram of the system structure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The difficulty of detecting change points for WMDD is how to capture the small differences between subsignals.To solve this problem, we performed two enhanced operations which increased the mean difference between subsignals by utilizing the information of the variance. In addition, we then analyzed the asymptotic property of the enhanced data. Next, we proposed a strengthened change point detection model (SCPDM) according to the asymptotic results. Finally，we compared the SCPDM with two current main models and verified that the SCPDM has a higher efficiency than those of the other models in the WMDD change point detection by the simulation method. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Literaturereview ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "tr suddenly changes [1]. The change point often represents a qualitative change for our object of focus. Historically,Page [2-3] first proposed the study of change points in sample testing. To detect the change points in a signal sample,,the process roughly involves the follwing several steps. First, select an associated cost function [4] to measure the homogeneity in each subsignal. Second, according to whether the number of change points is fixed, compute a discrete optimal problem to obtain the estimations of the locations of the change points. In diffrent change point detection models,establishing a suitable cost function for a specific sequence is the first and most important step [5]. Many classical change point detection models have been proposed for various kinds of signals, mainly including the following three types. For piecewise independent identically distributed (i.i.d.) signals,the mean shift model was first established for normal random signal samples which had a piecewise constant mean and constant variance [3, 6-9]. Second, certain signals may have their means shift along with shifts of their variances.For example,the mean shift and scale shift models were established for normal random signal samples with piecewise constant means and variances by certain predecessors [10-11]. Except for normal random samples, the rate shift model has been studied for Poisson distribution signals with piecewise constant rate parameters [12-13]. The second type of change point model is appropriate for a signal with a linear dependency between the variables along with changes happening at certain unknown instances, which are also calld structural changes [14- 16]. In this situation, several well-known models were established,such as the autoregressive model [1,17] and multiple regression models [16,18]. Other commonly used change point detection models include kernel change point detection [19-22] and the Mahalanobis-type metric 23]. Kernel change point detection can be operated on the high-dimensional mapping of the original signal that is implicitly defined by a kernel function. Certain machine learning techniques may be involved in this kind of method, such as a support vector machine or clustering [24-25]. In addition, in certain clustering methods,the Mahalanobis-type metric is usually used to replace the cost function in the mean shift model [26-28]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Except for the models mentioned above,several classical models based on algorithms have been proposed about inferring change points, mainly including the following four types [10]. The first model is based on the likelihood ratio. Csorgo and Horvath [29] established a change point detection model under the assumption of a multivariate Gaussian distribution. This model is mainly used in analyzing the change points in time series data. The second model is based on the Bayes model. A number of researchers have focused on this method. Kander and Zacks [30] aimed at the exponential family to establish a change point detection model, while Gardner [31] established a model based on the normal distribution. Later, the model was extended to the large sample distribution theory, multivariate normal distribution and general linear regression field [9,32-33]. The third model is based on the maximum likelihood. This kind of method has the mature large sample theory. For example，Fotopoulos et al. [34-35] established the exact computable expressions，bounds and approximations for certain analysis results.The last model is based on samples.This kind of method focused on the nonparametric method which has the advantage of being distribution free. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Among the subdirections of change point detection, signal samples with mean shifts have always been a research hot spot. Hawkins et al. [36] used the sample variance without degrees of freedom to determine the change point. In [37],the maximum likelihood estimation method was utilized to analyze the change point under the premise of verifying the type of population distribution. Later, prior knowledge was incorporated in establishing the change point detection model in [38]. In [39], the change point location was determined by analyzing the local information near a point, which involved complex distribution information usually substituted for by certain approximate results. In recent years, certain new methods also have been discussed regarding change point detection. As indicated in [40],an optimal algorithm was introduced to determine the location of a change point. In [41],an adapted algorithm was established by the polynomial maximization method. In [42], partition models were set up for testing the existence of a mean shift and estimating the location of the change point. In addition, lasso methods were established and improved by many authors [43-45]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Methodology (Design/Approach) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Two enhanced operations ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because the standard deviation is far larger than the mean difference, it is unwise and inefficient to perform change point detection on WMDD using traditional models. In fact, compared with the information of the mean difference，the variance is very remarkable which may supply more information. Therefore,we considered utilizing the variance that belongs to a kind of disturbance information in analyzing change points by performing the following two enhancements. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now, we believe that ${ t ^ { * } } ( { t ^ { * } } \\in \\{ 2 , . . . , T \\} )$ is the only abrupt location in sequence $y _ { 1 } , . . . , y _ { T }$ .For $y _ { 1 } , . . . , y _ { T }$ ，we first conducted the first operation called enhanced-l at $t$ 0 $\\mathbf { \\chi } _ { t } \\in \\{ 2 , . . . , T \\} \\ .$ ）and obtained the enhanced-l sequence $y _ { 1 } , . . . , y _ { T }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\dot { y _ { 1 } ^ { ' } } = y _ { 1 } , \\dot { y _ { i } ^ { ' } } = \\operatorname* { m i n } ( y _ { i - 1 } , y _ { i } ) , i = 1 , . . . , t - 1 , } \\\\ & { \\dot { y _ { t } ^ { ' } } = y _ { t } , \\dot { y _ { i } ^ { ' } } = \\operatorname* { m a x } ( y _ { i - 1 } , y _ { i } ) , i = t + 1 , . . . , T . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Then,we conducted the second operation called enhanced- $\\cdot \\|$ at $t$ $( t \\in \\{ 2 , . . . , T \\}$ ） and obtained the enhanced-ll sequence $y _ { 1 } , . . . , y _ { T }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { y _ { 1 } ^ { \" } = y _ { 1 } , y _ { i } ^ { \" } = \\operatorname* { m a x } ( y _ { i - 1 } , y _ { i } ) , i = 1 , . . . , t - 1 , } \\\\ & { } \\\\ & { y _ { t } ^ { \" } = y _ { t } , y _ { i } ^ { \" } = \\operatorname* { m i n } ( y _ { i - 1 } , y _ { i } ) , i = t + 1 , . . . , T . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Intuitively, these kinds of enhancements utilize the variance information directly through taking large or one smaller between adjacent samples. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now,we provide several symbolic explanations.For a signal sample $y _ { 1 } , . . . , y _ { T }$ ，we performed the above two operations at location $t$ $( t \\in \\{ 2 , . . . , T \\} .$ ), where $\\mu _ { 1 } ^ { ' } ( t , y ^ { ' } )$ indicates the sample mean of $y _ { 1 } ^ { ' } , . . . , y _ { t - 1 } ^ { ' } ; \\mu _ { 2 } ^ { ' } ( t , y ^ { ' } )$ indicates the sample mean of $y _ { t } ^ { ' } { , } . . . , y _ { T } ^ { ' } ; \\mu _ { 1 } ^ { \" } ( t , y ^ { \" } )$ indicates the sample mean of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$y _ { 1 } , . . . , y _ { t - 1 }$ ; and $\\mu _ { 2 } ^ { \" } ( t , y ^ { \" } )$ indicates the sample mean of $y _ { t } , . . . , y _ { T }$ ; $\\mu _ { 1 } ^ { \" } ( t , y ^ { \" } )$ indicates the sample mean of $y _ { 1 } , . . . , y _ { { t - 1 } }$ . In addition, $v$ and · represent operations on the homogeneous signal sample and the signal sample containing a change point, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Asymptotic property of the enhanced sequence ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We considered establishing a certain asymptotic property of the enhanced sequence in the following theorem. First, we will explain several symbols. Assume that $Y _ { _ t }$ ，with ( ${ \\bf \\Psi } _ { t } = 1 , . . . , T { \\bf \\Psi } _ { . }$ ，are independent random variables，with probability distribution $f ( y _ { t } \\mid \\theta )$ ，and $\\theta$ is a vector-valued parameter. $y _ { 1 } , . . . , y _ { T }$ is a set of samples of $Y _ { 1 } , . . . , Y _ { { T } }$ . For a signal sample that has one change location a $t ^ { * }$ $\\left( t ^ { * } \\in \\{ 2 , . . . , T \\} \\right)$ ， $\\mu _ { \\scriptscriptstyle 1 }$ indicates the population mean of the first subsignal and $\\textstyle \\mu _ { _ 2 }$ indicates the population mean of the second subsignal. $\\sigma ^ { 2 }$ indicates the constant population variance. Generally, WMDD indicate that $\\frac { | \\mu _ { 1 } - \\mu _ { 2 } | } { \\sigma } \\leq 1$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theorem 1.Assume that $y _ { 1 } , . . . , y _ { T }$ is i.i.d., i.e., homogeneous with a constant variance $\\sigma ^ { 2 }$ . The above two operations are performed $n _ { c }$ times independently at location $t ( t \\in \\{ 2 , . . . , T \\} ) ,$ ). Then,we have the following asymptotic property: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( \\operatorname* { l i m } _ { n _ { c } , t , T - t  \\infty } \\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } ( | \\tilde { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { ' } ) - \\tilde { \\mu } _ { 2 i } ^ { \\cdot } ( t , y ^ { ' } ) | - | \\tilde { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { ' } ) - \\tilde { \\mu } _ { 2 i } ^ { \\cdot \\ast } ( t , y ^ { ' } ) | ) = 0 ) = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Proof. $y _ { 1 } , . . . , y _ { T }$ is i.i.d. According to the law of large numbers, we have the following: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu _ { 1 i } ^ { \\setminus } ( t , y ^ { \\setminus } ) \\to \\mu _ { \\mathrm { m i n } } \\quad a . s . \\quad t \\to \\infty , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu _ { \\mathrm { m i n } }$ is the smaller population mean of the enhanced sequence. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Likewise, we have the following: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mu _ { 2 i } ^ { \\quad } ( t , y ^ { \\cdot } ) \\to \\mu _ { \\operatorname* { m a x } } \\quad a . s . \\quad T - t \\to \\infty } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\mu _ { \\mathrm { m a x } }$ is the larger population mean of the enhanced sequence.As a result，we have the following: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { \\scriptscriptstyle { 1 i } } ( t , y ^ { \\prime } ) - \\mu _ { \\scriptscriptstyle { 2 i } } ( t , y ^ { \\prime } ) \\to \\mu _ { \\scriptscriptstyle { \\operatorname* { m i n } } } - \\mu _ { \\scriptscriptstyle { \\operatorname* { m a x } } } \\quad a . s . \\quad t , T - t \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On the other hand: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 1 i } ^ { \\textrm { * } } ( t , y ^ { \\textrm { * } } ) \\to \\mu _ { \\mathrm { m a x } } \\quad a . s . \\quad t \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { 2 i } ^ { \" } ( t , y ^ { \" } ) \\to \\mu _ { \\mathrm { m i n } } \\quad a . s . \\quad T - t \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Consequently: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overset { \\circ } { \\mu _ { 1 i } } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\overset { \\circ } { \\mu _ { 2 i } } ^ { \\cdot } ( t , y ^ { \\cdot } )  \\mu _ { \\mathrm { m a x } } - \\mu _ { \\mathrm { m i n } } \\quad a . s . \\quad t , T - t  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition, $f { \\big ( } x , y { \\big ) } = | x | - | y |$ is acontinuousfunction,sothe $a . s .$ converge can be preserved under the transformation of this function, so we have the following: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\mu _ { 1 i } ^ { \\circ } ( t , y ^ { \\prime } ) - \\mu _ { 2 i } ^ { \\circ } ( t , y ^ { \\prime } ) | - | \\mu _ { 1 i } ^ { \\circ } ( t , y ^ { \\prime } ) - \\mu _ { 2 i } ^ { \\circ } ( t , y ^ { \\prime } ) |  | \\mu _ { \\mathrm { m i n } } - \\mu _ { \\mathrm { m a x } } | - | \\mu _ { \\mathrm { m a x } } - \\mu _ { \\mathrm { m i n } } | = 0 \\quad a . s . \\ t , T - t  0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thus, because the process is independently performed $n _ { c }$ times, ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "μ1i(t,y')-μ2i (t,y') μ\"(t,y\")-μ2i(t,y\") (i = 1,.,.n）can be viewed as independently and identically distributed. According to the law of large number, we have the following: ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { \\iota _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left| \\mu _ { 1 i } ^ { \\circ } ( t , y ^ { ' } ) - \\mu _ { 1 i } ^ { \\circ } ( t , y ^ { ' } ) \\right| - \\left| \\mu _ { 1 i } ^ { \\circ } ( t , y ^ { ' } ) - \\mu _ { 1 i } ^ { \\circ } ( t , y ^ { ' } ) \\right| \\right) \\to 0 \\quad a . s . ~ t , T - t \\to \\infty , n _ { c } \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Remark 1. Theorem 1 demonstrates that when $y _ { 1 } , . . . , y _ { T }$ is homogeneous and the above two operations are performed $n _ { c }$ times independently at any location $t$ 1 $( t \\in \\{ 2 , . . . , T \\} ) .$ ),the value of $\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left| { \\mu } _ { 1 i } ^ { \\mathrm { ~ \\prime ~ } } ( t , y ^ { \\prime } ) - { \\mu } _ { 2 i } ^ { \\mathrm { ~ \\prime ~ } } ( t , y ^ { \\prime } ) \\right| - \\left| { \\mu } _ { 1 i } ^ { \\mathrm { ~ \\prime ~ } } ( t , y ^ { \\prime } ) - { \\mu } _ { 2 i } ^ { \\mathrm { ~ \\prime ~ } } ( t , y ^ { \\prime } ) \\right| \\right) \\mathrm { ~ f l u c t u a t e s ~ a t ~ a p p r o x i m a t e l y ~ 0 . }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Next, we will give the asymptotic property when there is only one change point among the signal samples. We will present the asymptotic results at the position of the change point. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.Assume that the independent $y _ { 1 } , . . . , y _ { T }$ only has one change point $t ^ { * }$ with a constant variance $\\sigma ^ { 2 }$ . At $t ^ { * }$ , the above two enhanced operations are independently performed $n _ { c }$ times. Then, we have the following asymptotic property: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)If $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } > 1$ >1, we then have: 1 $\\operatorname* { i m } _ { T _ { N ^ { \\prime } } \\to \\infty } \\frac { 1 } { n _ { c } ! } \\biggl [ \\biggl \\| \\hat { \\mu } _ { \\tilde { \\eta } } ^ { * } ( t ^ { * } , y ^ { \\prime } ) - \\hat { \\mu } _ { \\tilde { \\eta } ^ { \\prime } } ^ { * } ( t ^ { * } , y ^ { \\prime } ) \\biggr \\| - \\biggl | \\hat { \\mu } _ { \\tilde { \\eta } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\hat { \\mu } _ { \\tilde { \\eta } ^ { \\prime } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | - \\biggl ( \\biggl | \\hat { \\mu } _ { \\tilde { \\eta } ^ { \\prime } } ^ { * } ( t ^ { * } , y ^ { \\prime } ) - \\hat { \\mu } _ { \\tilde { \\eta } ^ { \\prime } } ( t ^ { * } , y ^ { * } ) \\biggr | + \\biggl | \\hat { \\mu } _ { \\tilde { \\eta } ^ { \\prime } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\hat { \\mu } _ { \\tilde { \\eta } ^ { \\prime } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | \\biggr ) \\biggr ) = 0 \\biggr ] - 1$ The meanings of $\\mu _ { 1 i } ^ { \\cdot } ( t ^ { \\cdot } , y ^ { \\cdot } ) , \\mu _ { 2 i } ^ { \\cdot } ( t ^ { \\ast } , y ^ { \\cdot } ) , \\mu _ { 1 i } ^ { \\cdot } ( t ^ { \\ast } , y ^ { \\cdot } )$ and $\\mu _ { 2 i } ^ { \\phantom { * } } ( t ^ { * } , y ^ { * } )$ are the same as in Theorem ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2) If $\\frac { | \\mu _ { 1 } - \\mu _ { 2 } | } { \\sigma } \\leq 1$ ≤1, we then have: $\\left( \\operatorname* { l i m } _ { n _ { c } , i ^ { \\prime } , T ^ { \\prime } \\to \\infty } \\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\boldsymbol { \\dot { \\mu } } _ { 1 _ { i } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\boldsymbol { \\dot { \\mu } } _ { 1 _ { i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\right\\| - \\left| \\boldsymbol { \\dot { \\mu } } _ { 1 _ { i } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\boldsymbol { \\dot { \\mu } } _ { 1 _ { i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\right| \\right) = 2 \\left| \\boldsymbol { \\mu } _ { 2 } - \\boldsymbol { \\mu } _ { 1 } \\right| \\right) = 1$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Proof.(1) First, we prove the first part. The following formula is clear when $\\mu _ { 1 } < \\mu _ { 2 }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left| \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { 2 i } ^ { * } ( t ^ { * } , y ^ { * } ) \\right| - \\left| \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { 2 i } ^ { * } ( t ^ { * } , y ^ { * } ) \\right| \\to \\left( \\mu _ { 2 } - \\mu _ { 1 } \\right) \\quad a . s . \\quad t ^ { * } , T - t ^ { * } \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Because $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } > 1$ l>1,an incorrect enhanced operation cannot reverse the direction ofthe mean difference, so we have the following: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ t _ { 1 } } ^ { * } ( t ^ { * } , y ^ { * } ) - { \\tilde { \\mu } _ { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\bigg | + | { \\tilde { \\mu } _ { 1 i } } ^ { * } ( t ^ { * } , y ^ { * } ) - { \\tilde { \\mu } _ { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) |  ( \\mu _ { 2 } - \\mu _ { 1 } ) \\quad a . s . \\quad t ^ { * } , T - t ^ { * }  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Likewise, when $\\mu _ { 1 } > \\mu _ { 2 }$ ,we have the following two relationships: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\dot { \\bar { \\mu } } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\dot { \\bar { \\mu } } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) | + | \\dot { \\bar { \\mu } } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\dot { \\bar { \\mu } } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) |  ( \\mu _ { 1 } - \\mu _ { 2 } ) \\quad a . s . \\quad t ^ { * } , T - t ^ { * }  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ t _ { 1 i } } ^ { * } ( t ^ { * } , y ^ { * } ) - { \\tilde { \\mu } _ { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggl | - \\biggl | { \\mu _ { 1 i } } ^ { * } ( t ^ { * } , y ^ { * } ) - { \\mu _ { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr |  ( \\mu _ { 1 } - \\mu _ { 2 } ) \\quad a . s . \\quad t ^ { * } , T - t ^ { * }  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have the following: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big \\| \\dot { \\mu } _ { \\mathfrak { u } _ { 1 } } ^ { \\cdot } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { \\mathfrak { u } _ { 2 } } ^ { \\cdot } ( t ^ { * } , y ^ { * } ) \\Big \\| - \\Big | \\dot { \\mu } _ { \\mathfrak { u } _ { 1 } } ^ { \\cdot } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { \\mathfrak { u } _ { 2 } ^ { \\prime } } ( t ^ { * } , y ^ { * } ) \\Big \\| - \\Big ( \\Big | \\dot { \\mu } _ { \\mathfrak { u } _ { 1 } ^ { \\prime } } ^ { \\cdot } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { \\mathfrak { u } _ { 2 } ^ { \\prime } } ( t ^ { * } , y ^ { * } ) \\Big | + \\Big | \\dot { \\mu } _ { \\mathfrak { u } _ { 1 } } ^ { \\cdot } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { \\mathfrak { u } _ { 2 } ^ { \\prime } } ( t ^ { * } , y ^ { * } ) \\Big | \\Big ) \\lesssim 0 \\ a s \\ \\cdot \\ t ^ { * } , T - t ^ { * } - \\frac { 1 } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thus, because the process is independently performed nc times, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\dot { u } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { 2 i } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) \\Big \\{ - \\Big | \\dot { \\mu _ { \\mathrm { t i } } } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { 2 i } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) \\Big \\| - \\Big ( \\Big | \\mu _ { \\mathrm { t i } } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { 2 i } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) \\Big | + \\Big | \\mu _ { \\mathrm { t i } } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) - \\mu _ { 2 i } ^ { \\mathrm { ~ \\ i ~ } } ( t ^ { * } , y ^ { * } ) \\Big | \\Big ) \\quad ( i = 1 , . . . , n _ { c } ) \\in \\Omega _ { \\mathrm { ~ o ~ } } ^ { \\mathrm { ~ \\ i ~ } } \\times \\mathbb { R } ^ { 3 } .$ can be viewed as being independent and identically distributed. According to the law of large numbers, we have the following: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Big \\| \\dot { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { 2 , i } ^ { * } ( t ^ { * } , y ^ { * } ) \\Big \\| - \\Big | \\dot { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) \\Big \\| - \\Big ( \\Big \\| \\dot { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { 2 } ^ { * } ( t ^ { * } , y ^ { * } ) \\Big \\| + \\Big | \\dot { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\dot { \\mu } _ { 2 , i } ^ { * } ( t ^ { * } , y ^ { * } ) \\Big | \\Big ) \\Big ) \\Big | \\to 0 \\ a , s \\ t ^ { * } , T - t ^ { * } , n _ { c } \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Proof.(2) The following formula is clear when $\\mu _ { 1 } < \\mu _ { 2 }$ ， ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\dot { \\overline { { \\mu } } } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\dot { \\overline { { \\mu } } } _ { 2 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) | - | \\dot { \\overline { { \\mu } } } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\dot { \\overline { { \\mu } } } _ { 2 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) |  ( \\mu _ { 2 } - \\mu _ { 1 } ) \\quad a . s . \\quad t ^ { \\ast } , T - t ^ { \\ast }  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Due to $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } \\leq 1$ , the enhanced- $\\cdot \\|$ operationcanrevesetadie,ehaethe following: ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\frac { \\bullet } { \\mu _ { 1 i } } ( t ^ { * } , y ^ { * } ) - \\bullet \\bullet _ { 2 i } ( t ^ { * } , y ^ { * } ) | - | \\mu _ { 1 i } ^ { * } ( t ^ { * } , y ^ { * } ) - \\mu _ { 2 i } ^ { * } ( t ^ { * } , y ^ { * } ) |  - ( \\mu _ { 2 } - \\mu _ { 1 } ) \\quad a . s . \\quad t ^ { * } , T - t ^ { * } \n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Likewise, when $\\mu _ { 1 } > \\mu _ { 2 }$ ,we have the following two relationships: ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overset { * } { u _ { 1 i } } ( t ^ { * } , y ^ { * } ) - \\overset { * } { \\mu } _ { 2 i } ( t ^ { * } , y ^ { * } ) \\bigg | - \\bigg | \\overset { * } { \\mu } _ { 1 i } ( t ^ { * } , y ^ { * } ) - \\overset { \\circ } { \\mu } _ { 2 i } ( t ^ { * } , y ^ { * } ) \\bigg | \\to - \\left( \\mu _ { 1 } - \\mu _ { 2 } \\right) \\quad a . s . \\quad t ^ { * } , T - t ^ { * } \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ t _ { 1 } } ^ { * } ( t ^ { * } , y ^ { * } ) - { \\tilde { \\mu } _ { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggl | - \\biggl | { \\mu _ { 1 i } } ^ { * } ( t ^ { * } , y ^ { * } ) - { \\tilde { \\mu } _ { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | \\to \\left( \\mu _ { 1 } - \\mu _ { 2 } \\right) \\quad a . s . \\quad t ^ { * } , T - t ^ { * } \\to \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thus, ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| \\overset { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\overset { * } { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) | - | \\overset { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\overset { * } { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) |  2 | \\mu _ { 2 } - \\mu _ { 1 } | \\ a . s . \\ t ^ { * } , T - t ^ { * }  \\infty\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Because the process is independently performed $n _ { c }$ （20 times, ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\left\\| \\stackrel { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\stackrel { * } { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right\\| - \\left| \\stackrel { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\stackrel { * } { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right\\| ( \\ O _ { i } = 1 , . . . , n _ { c } )$ can be viewed as being independently and identically distributed. Therefore, we have the following: ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\sum _ { c } ^ { n _ { c } } \\left( \\left\\| \\dot { \\bar { \\mu } } _ { 1 i } ^ { \\cdot } ( t ^ { \\star } , y ^ { \\star } ) - \\dot { \\bar { \\mu } } _ { 2 i } ^ { \\cdot } ( t ^ { \\star } , y ^ { \\star } ) \\right\\| - \\left| \\dot { \\bar { \\mu } } _ { 1 i } ^ { \\cdot \\circ } ( t ^ { \\star } , y ^ { \\star } ) - \\dot { \\bar { \\mu } } _ { 2 i } ^ { \\cdot \\cdot } ( t ^ { \\star } , y ^ { \\star } ) \\right| \\right) \\to 2 \\left| \\mu _ { 2 } - \\mu _ { 1 } \\right| \\ a s . \\ b _ { c } , t , T - t - \\frac { 1 } { 2 } | \\mu _ { 1 i } ^ { \\cdot \\circ } ( t ^ { \\star } , y ^ { \\star } ) | .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Remark.2.For WMDD，theorem 2 demonstrates that when $y _ { 1 } , . . . , y _ { T }$ has a change at $t ^ { * }$ （ $t ^ { * } \\in \\{ 2 , . . . , T \\} .$ ）and if the above two operations are performed $n _ { c }$ times independently at $t ^ { * }$ （ ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "t\\* ∈{2,..,.T})）， the value of $\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\dot { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right\\| - \\left| \\dot { \\mu } _ { 1 i } ^ { \\cdot \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\dot { \\mu } _ { 1 i } ^ { \\cdot \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right\\| \\right) \\mathrm { w i l l }$ reach the maximum value $2 | \\mu _ { 2 } - \\mu _ { 1 } |$ ； if the above two operations areperformed $n _ { c }$ timesindependently at any nonchange location, the value of",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left| \\left| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { \\ast } , y ^ { \\cdot } ) - \\dot { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { \\ast } , y ^ { \\cdot } ) \\right| - \\left| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { \\ast } , y ^ { \\cdot } ) - \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { \\ast } , y ^ { \\cdot } ) \\right| \\right) \\right.$ will be less than the maximum value $2 | \\mu _ { 2 } - \\mu _ { 1 } |$ .The latter findingisverified inSection3indetail. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3 SCPDM ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For WMDD, the different asymptotic properties in theorem 1 and theorem 2 are important information for judging whether there is a change point and the location of the point. Consequently, we proposed a model to detect the change point in WMDD by sampling repeatedly in this section. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Assume that there is only one change point whose location is $t ^ { * }$ （ $1 < t ^ { * } \\leq T$ in $y _ { 1 } , . . . , y _ { T }$ . To obtain a better estimate of $t ^ { * }$ ,we should establish a contrast function [5] to measure the goodness-offit of the signal. First,at the location of $t$ $\\scriptstyle ( t = 2 , \\ldots , T )$ ), the above two enhanced operations are performed $n _ { c }$ times. The following contrast function is established: ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { t } ^ { * } ( y ) = \\arg \\operatorname* { m a x } \\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\dot { \\mu } _ { 1 i } ^ { * } ( t , y ^ { * } ) - \\dot { \\mu } _ { 2 i } ^ { * } ( t , y ^ { * } ) \\right\\| - \\left| \\dot { \\mu } _ { 1 i } ^ { * } ( t , y ^ { * } ) - \\dot { \\mu } _ { 1 i } ^ { * } ( t , y ^ { * } ) \\right\\| \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "According to theorem 2 and theorem 3, the value of $\\left\\| \\dot { \\mu _ { 1 } ^ { ' } } - \\dot { \\mu _ { 2 } ^ { ' } } \\right| - \\left| \\dot { \\mu _ { 1 } ^ { ' } } - \\dot { \\mu _ { 2 } ^ { ' } } \\right|$ is expected to be large when $\\hat { t } ^ { * } = t ^ { * }$ and small when $t ^ { * }$ is not well-estimated. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Throughout the establishment process of the SCPDM, how to solve this discrete optimization problem becomes clear. We only need to calculate ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\overset { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\overset { * } { \\mu } _ { 2 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) \\right\\| - \\left| \\overset { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\overset { * } { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) \\right\\| \\right) \\quad \\mathrm { ~ a t ~ } \\quad ( \\mathbf { \\Phi } _ { t = 2 , . . . , T } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\hat { t } ^ { * } ( y ) = \\arg \\operatorname* { m a x } \\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\dot { \\mu } _ { 1 i } ^ { * } ( t , y ^ { ' } ) - \\dot { \\mu } _ { 2 i } ^ { * } ( t , y ^ { ' } ) \\right\\| - \\left| \\dot { \\mu } _ { 1 i } ^ { * } ( t , y ^ { ' } ) - \\dot { \\mu } _ { 1 i } ^ { * } ( t , y ^ { ' } ) \\right\\| \\right) .$ Details can be seen in the next section. In the next section, we performed several simulation studies to estimate $t ^ { * }$ under a normal distribution with various kinds of parameters. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. Results ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this section,we will perform simulations in two parts. In the first part, we will verify the correctness of theorem 2 and remark 2. In the second part, we performed several simulation studies to estimate $t ^ { * }$ under a normal distribution with different parameters and compared the SCPDM with two current main models,verifying that the SCPDM has a higher efficiency than those of the other models for WMDD. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1 Verifying the correctness of the theorem ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To verify the correctness of theorem 2，we generated random numbers based on the normal distribution,and the parameter setings are shown in the caption of each figure.For the public parameters, we set T =1000,t\\* = 501,and nc = 1000. For $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } > 1$ , asisoiigtts. To verify the correctness of remark 2，when $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } \\leq 1$ ，at the location of $\\begin{array}{c} t = 4 0 0 , . . . , 6 0 0  \\end{array} ) , \\ \\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left. \\tilde { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\tilde { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right. - \\left. \\tilde { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\tilde { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right. \\right)$ is calculated and the results are shown in Fig 5. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It can be seen from Fig. 5 that when t is near $t ^ { * } = 5 0 1$ ， $\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\dot { \\mu } _ { 2 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) \\right\\| - \\left| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) - \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t , y ^ { \\cdot } ) \\right\\| \\right)$ reaches a maximum value,which is approximately $2 | \\mu _ { 2 } - \\mu _ { 1 } |$ . The simulation result is consistent with theorem 2. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5. Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "When $\\frac { | \\mu _ { 1 } - \\mu _ { 2 } | } { \\sigma } \\leq 1$ ,in order to verifythat the SCPDM's estimationof\\*is beterthanthose of the other models,we present certain simulated results based on traditional models,including the least squares model [47] and Bayes method [48]. We generated random samples $y _ { 1 } , . . . , y _ { T }$ based on the normal distribution, and the parameter setings are shown in the corresponding figure; we set the public parameters, namely, $T = 1 0 0 0$ ， $t ^ { * } = 5 0 0$ ， and $n _ { c } = 1 0 0 0$ . For the three models with the same parameter settings, we repeated the same operation 10oo times, counted the estimation results of $t ^ { * }$ and regarded the frequency of each $\\hat { t } ^ { * }$ as the probability of becoming a real change point, which reflected the accuracy of each model. The results are shown in Fig 6, Fig 7 and Fig 8. By setting different parameters， the detection accuracies of the change point interval, i.e., （20 $\\mathrm { P r } ( \\hat { t } ^ { * } \\in [ 4 9 9 , 5 0 3 ] )$ ， and change point location, i.e., $\\mathrm { P r } ( \\hat { t } ^ { * } = 5 0 1 )$ ，of the three models were compared in Table 1 and Table 2,respectively. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "When $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } > 1$ >1，i.e.，the parameters were set to σ = 0.5 and |μ -μ|=1 for 1000 repeated tests, the Bayes model resulted in $\\operatorname* { P r } ( \\hat { t } ^ { * } \\in [ 4 9 9 , 5 0 3 ] ) = 0 . 8 7$ and $\\operatorname* { P r } ( \\hat { t } ^ { * } = 5 0 1 ) = 0 . 6 1$ ， ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and the least squares model resulted in $\\operatorname* { P r } ( \\hat { t } ^ { * } \\in [ 4 9 9 , 5 0 3 ] ) = 0 . 9 4 2$ and $\\operatorname* { P r } ( \\hat { t } ^ { * } = 5 0 1 ) = 0 . 5 6 1$ ： Both methods had a high accuracy for change point detection.   \nWhen |μisi When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 1$ , the accuracy of the SCPDM is $31 \\%$ higher than the accuracy of the least squares model and $4 1 . 1 \\%$ higher than the accuracy of the Bayes model. When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { \\scriptscriptstyle 1 } \\cdot \\mu _ { \\scriptscriptstyle 2 } \\mid = 0 . 7$ , the accuracy of the SCPDM is $54 \\%$ higher than that of the least squares model and $60 . 7 \\%$ higher than that of the Bayes model. When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 4$ , the accuracy of the SCPDM is $6 2 . 6 \\%$ higher than the accuracy of the least squares model and $70 . 1 \\%$ higher than the accuracy of the Bayes model. When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 1$ , the accuracy of the SCPDM is $42 \\%$ higher than that of the least squares model and $43 \\%$ higher than that of the Bayes model. When the parameters are set to $\\sigma = 1 0$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 1$ , the accuracy of the SCPDM is $31 \\%$ higher than the accuracy of the least squares model and $4 1 . 1 \\%$ higher than the accuracy of the Bayes model.   \nWhen $\\frac { \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid } { \\sigma } \\leq 1$ $\\mathrm { P r } ( \\hat { t } ^ { * } = t ^ { * } )$ $\\sigma = 1$ ，and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 1$ , the accuracy of the SCPDM is $2 5 \\%$ higher than the accuracy of the least squares model and $3 3 . 6 \\%$ higher than the accuracy of the Bayes model. When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 7$ , the accuracy of the SCPDM is $2 7 . 7 \\%$ higher than that of the least squares model and （20 $3 2 . 1 \\%$ higher than that of the Bayes model. When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 4$ （20 , the accuracy of the SCPDM is $23 . 2 \\%$ higher than the accuracy of the least squares model and $2 8 . 8 \\%$ （204号 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "higher than the accuracy of the Bayes model. When the parameters are set to $\\sigma = 1$ and $\\mid \\mu _ { \\scriptscriptstyle 1 } \\cdot \\mu _ { \\scriptscriptstyle 2 } \\mid = 0 . 1$ , the accuracy of the SCPDM is $9 . 1 \\%$ higher than that of the least squares model and $9 . 5 \\%$ higher than that of the Bayes model. When the parameters are set to $\\sigma = 1 0$ and $\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 1$ 5 the accuracy of the SCPDM is $9 . 2 \\%$ higher than the accuracy of the least squares model and $9 . 5 \\%$ higher than the accuracy of the Bayes model. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6. Conclusion ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This paper focused on detecting the change points of WMDD.We conducted a certain asymptotic analysis and established an enhanced change point detection model (the SCPDM) based on the asymptotic results. According to theorem 2 (2),the enhanced sequence uses the significant variance information so that the weak mean difference increases from $\\left| \\mu _ { 1 } - \\mu _ { 2 } \\right|$ to $2 \\big | \\mu _ { 1 } - \\mu _ { 2 } \\big |$ ， which makes the change point easier to detect and increases the accuracy of change point detection. In addition,for WMDD,the traditional methods may be improved by purely adding the sample capacity to the sequence. While under the premise of having the same amount of data, the SCPDM greatly increases the eficiency of change point detection by repeatedly detecting sequences with the same data structure. In addition,repeated measurements are possible for the life data of components at the same location. Hence, compared with traditional methods, the SCPDM can effectively detect change points. Although the accuracy of change point detection has been improved,this paper also has several limitations. First, we only discussed that $y _ { 1 } , . . . , y _ { T }$ is independent with a normal distribution and a single change point. Second, the reason why the relationship between $\\mid \\mu _ { 1 } ^ { \\phantom { } } - \\mu _ { 2 } ^ { \\phantom { } } \\mid$ and $\\sigma$ has an important influence on the accuracy of change point detection is not discussed in depth. We defined the ratio boundary of WMDD only by experience and simulations. In a future study, we will extend the SCPDM to other distribution types and multiple point detection.In addition, for theorem 2,we will reprove the theorem by introducing the relationship between $\\mid \\mu _ { 1 } ^ { \\phantom { } } - \\mu _ { 2 } ^ { \\phantom { } } \\mid$ and $\\sigma$ ： ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The authors extend their heartfelt thanks to the reviewers for their valuable suggestions for improving this article. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[1] Angelosante D，Giannakis GB. Group lassoing change-points piece-constant AR processes. EURASIP Journal on Advances in Signal Processing. 2012; doi: 10.1186/1687-6180-2012- 70.   \n[2] Page ES. Continuous inspection schemes. Biometrika. 1954; 41(1/2): 100-115.   \n[3] Page ES. A test for a change in a parameter occurring at an unknown point. Biometrika. 1955; 42(3/4): 523-527.   \n[4] Bai J,Perron P. Computation and analysis of multiple structural change models. Journal of applied econometrics. 2003; 18(1): 1-22.   \n[5] Truong C, Oudre L, Vayatis, N. A review of change point detection methods. 2018; E-prints. Available from: arXiv:1801.00718. Cited 28 February 2019.   \n[6] Chernof H, Zacks S. Estimating the current mean of a normal distribution which is subjected to changes in time. The Annals of Mathematical Statistics.1964; 35(3): 999-1018.   \n[7] Lorden G. Procedures for reacting to a change in distribution. The Annals of Mathematical Statistics.1971; 42(6): 1897-1908.   \n[8] Mallows CL. Some comments on Cp. Technometrics. 1972; 15(4): 661-675.   \n[9] Sen A, Srivastava MS. On tests for detecting change in mean. The Annals of Statistics. 1975; 3(1): 98-108.   \n[10] Jandhyala V, Fotopoulos S, MacneillI, Liu P. Inference for single and multiple change-points in time series. Journal of Time Series Analysis. 2013; 34(4): 423-446.   \n[11] Lavielle M. Detection of multiples changes in a sequence of dependant variables. Stochastic Processes and their Applications.1999; 83(1): 79-102.   \n[12] Chib S. Estimation and comparison of multiple change-point models. Journal of Econometrics. 1998; 86(2): 221-241.   \n[13] Ko, SIM, Chong TTL, Ghosh P. Dirichlet process hidden Markov multiple change-point model. Bayesian Analysis. 2015; 10(2): 275-296. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[14] Bai J. Least squares estimation of a shift in linear processes. Journal of Time Series Analysis. 1994; 15(5): 453-472. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[15] Bai J.Least absolute deviation of a shift. Econometric Theory. 1995;11(3); 403-436.   \n[16]Bai, J. Testing for parameter constancy in linear regressions: an empirical distribution function approach. Econometrica. 1996; 64(3): 597-622.   \n[17] Bai J. Vector autoregressive models with structural changes in regression coefcients and in variance-covariance matrices. Annals of Economics and Finance. 20oo; 1(2): 301-336.   \n[18] Bai, J. Estimation of a change-point in multiple regression models. Review of Economic and Statistics. 1997; 79(4): 551-563.   \n[19] Arlot S, Celisse A, Harchaoui Z. A Kernel multiple change-point algorithm via model selection. 2012; Preprint. Available from: arXiv:1202.3878. Cited 25 February 2019.   \n[20] Desobry F,Davy M,Doncarli C. An online kernel change detection algorithm. IEEE Transactions on Signal Processing. 2005; 53(8): 2961-2974.   \n[21] Harchaoui Z，Cappé O. Retrospective multiple change-point estimation with kernels. In Proceedings of the IEEE/SP Workshop on Statistical Signal Processing. 2007; pp. 768-772.   \n[22] Harchaoui Z,Moulines E, Bach FR. Kernel change-point analysis. In Advances in Neural Information Processing Systems. 2009; pp. 609-616.   \n[23] Lajugie R, Bach F, Arlot S. Large-margin Metric learning for constrained partitioning problems. In Proceedings of the 31st International Conference on Machine Learning (ICML). 2014; pp. 297-395.   \n[24] Greton A, Borgwardt K, Rasch MJ, Scholkopf B, Smola AJ. (2008). A kernel method for the two-sample problem.2008; Preprint. Available from: arXiv:0805.2368. Cited 23 February 2019.   \n[25] Scholkopf B, Smola AJ. Learning with kernels. Cambridge: MIT Press; 2002.   \n[26] Davis JV，Kulis B, Jain P, Sra S,Dhillon, IS. Information-theoretic metric learning. In Proceedings of the 24th International Conference on Machine Learning (ICML). 2007; pp. 209-216.   \n[27] Friedman J,Hastie T,Tibshirani R.The elements of statistical learning (Vol.1,No.10). New York: Springer series in statistics; 2001.   \n[28] Xing EP, Jordan MI, Russell SJ. Distance metric learning, with application to clustering with side-Information. In Advances in Neural Information Processing Systems. 2003; pp. 521- 528.   \n[29] Csorgö M, Horvath L. Limit theorems in change-point analysis (Vol. 18). New York: John Wiley & Sons Inc; 1997.   \n[30] Kander Z, Zacks S. Test procedures for possible changes in parameters of statistical distributions occurring at unknown time points. Annals of Mathematical Statistics.1996; 37: 1196-210.   \n[31] Gardner LA. On detecting changes in the mean of normal variates. Annals of Mathematical Statistics. 1969; 40: 116-26.   \n[32] Jandhyala VK， Minogue CD. Distributions of Bayes-type change-point statistics under polynomial regression. Journal of Statistical Planning and Inference. 1993; 37: 271-90.   \n[33] Jandhyala VK, MacNeil IB. Iterated partial sum sequences of regression residuals and tests for change-points with continuity constraints. Journal of Royal Statistical Society B. 1997; 59: 147-56.   \n[34] Fotopoulos SB,Jandhyala VK, Khapalova E. Exact asymptotic distribution of the change-point MLE for change in the mean of Gaussian sequences. Annals of Applied Statistics. 2010; 4: 1081-104.   \n[35] Fotopoulos SB, Jandhyala VK, Khapalova E. Change-point MLE in the rate of exponential sequences with application to Indonesian seismological data. Journal of Statistical Planning and Inference. 2011; 141: 220-34.   \n[36] Hawkins DL, Gallant AR,Fuller W.A simple least squares method for estimating a change in mean. Communications in Statistics - Simulation and Computation. 1986; 15(3): 523-530.   \n[37] Yao YC. Approximating the distribution of the maximum likelihood estimate of the change-point in a sequence of independent random variables. The Annals of Statistics. 1987; 15(3): 1321- 1328. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "[38] Petitt AN. A simple cumulative sum type statistic for the change-point problem with zero-one observations.Biometrika.1980; 67(1): 79-84. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[39] Gombay,E. Comparison of U-statistics in the change-point problem and in sequential change detection. Periodica Mathematica Hungarica. 20o0; 41(1-2): 157-166.   \n[40] Killick R，Fearnhead P，Eckley IA.Optimal detection of change points with a linear computational cost. Journal of the American Statistical Association. 2012； 107(500): 1590- 1598.   \n[41] Zabolotnii SW,Warsza ZL. Semi-parametric estimation of the change-point of parameters of non-Gaussian sequences by polynomial maximization method. In Challenges in Automation, Robotics and Measurement Techniques. 2016; pp. 903-919.   \n[42] Garcia EC, Gutierrez-Pena E. (2018). Nonparametric product partition models for multiple change-points analysis. Communications in Statistics-Simulation and Computation. 2018; pp. 1-26.   \n[43] Tibshirani,R. Regression shrinkage and selection via the LASSO. Journal of the Royal Statistical Society B. 1996; 73(1): 273-282.   \n[44] Tibshirani R, Saunders M,Rosset S, Zhu J, Knight K. Sparsity and smoothness via the fused lasso. Journal of the Royal Statistical Society B. 2005; 67(1): 91-108.   \n[45] Tibshirani R, Wang P. Spatial smoothing and hot spot detection for CGH data using the fused lasso. Biostatistics. 2008; 9(1): 18-29.   \n[46] Jin Y,Hall PG, Jiang J, Samaniego FJ. Estimating component reliability based on failure time data from a system of unknown design. Statistica Sinica, 2017; pp. 479-499.   \n[47] Chen XR. A brief introduction to statistical analysis of change point. Journal of applied statistics and management (China). 1991; (01): 55-58.   \n[48] Erdman C, Emerson JW. bcp: an R package for performing a Bayesian analysis of change point problems. Journal of Statistical Software. 2007; 23(3): 1-13. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTINGINFORMASTION ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "[Insert supporting information here] ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "请提供研究身份识别材料，可通过另外的附件上传，具体详见附件《论文责任者（论文作者)研究身份识别材料》",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure Legends ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 1. Diagram of the accuracy of change point detection influenced by the variance. (A) $\\sigma = 0 . 1$ ， ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid \\mu _ { { \\scriptscriptstyle 1 } } - \\mu _ { { \\scriptscriptstyle 2 } } \\mid = 1 . \\left( { \\bf B } \\right) \\sigma = 1 , \\mid \\mu _ { { \\scriptscriptstyle 1 } } - \\mu _ { { \\scriptscriptstyle 2 } } \\mid = 1 . \\left( { \\bf C } \\right) \\sigma = 1 0 , \\mid \\mu _ { { \\scriptscriptstyle 1 } } - \\mu _ { { \\scriptscriptstyle 2 } } \\mid = 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 2. Variation in the difference between adjacent parallel structural components. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 3. The value of ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n } \\biggl ( \\biggl | \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { z : i } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | - \\biggl | \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | - \\biggl ( \\biggl | \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { z : i } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | + \\biggl | \\tilde { \\mu } _ { u } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { z : i } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | \\biggr ) \\biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 4. The value of $\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\dot { \\mu } _ { 2 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right\\| - \\left| \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) - \\dot { \\mu } _ { 1 i } ^ { \\cdot } ( t ^ { * } , y ^ { \\cdot } ) \\right| \\right)$ for 500 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "repetitions. (A) $\\sigma = 1 , \\mid \\mu _ { 1 } \\mid - \\mu _ { 2 } \\mid = 0 . 1 . \\mathrm { ( B ) } \\sigma = 1 , \\mid \\mu _ { 1 } \\mid - \\mu _ { 2 } \\mid = 0 . 7 . \\mathrm { ( C ) } \\sigma = 1 , \\mid \\mu _ { 1 } \\mid - \\mu _ { 2 } \\mid = 1 .$ (D) $\\sigma = 1 0 , | \\mu _ { 1 } - \\mu _ { 2 } | = 1 .$ ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 5. The value of $\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n _ { c } } \\left( \\left\\| \\dot { \\bar { \\mu } } _ { 1 i } { } ^ { \\cdot } ( t , y ^ { ' } ) - \\dot { \\bar { \\mu } } _ { 2 i } { } ^ { \\cdot } ( t , y ^ { ' } ) \\right| - \\left| \\dot { \\bar { \\mu } } _ { 1 i } { } ^ { \\cdot } ( t , y ^ { ' } ) - \\dot { \\bar { \\mu } } _ { 1 i } { } ^ { \\cdot } ( t , y ^ { ' } ) \\right| \\right) \\mathrm { ~ a t ~ l o c a t i o n ~ } \\ _ t .$ (A) ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = 1 , \\mathrm { ~ | ~ } \\mu _ { 1 } \\cdot \\mu _ { 2 } | = 0 . 1 . \\mathrm { ~ \\tiny ~ ( B ) } \\sigma = 1 , \\mathrm { ~ | ~ } \\mu _ { 1 } \\cdot \\mu _ { 2 } | = 0 . 7 . \\mathrm { ~ \\tiny ~ ( C ) ~ } \\sigma = 1 , \\mathrm { ~ | ~ } \\mu _ { 1 } \\cdot \\mu _ { 2 } | = 1 . \\mathrm { ~ \\tiny ~ ( D ) ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 1 . \\left( \\mathrm { E } \\right) \\sigma = 1 , \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 4 .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 6. Probability of each location becoming a change point in the least squares model. (A) $\\sigma = 0 . 5$ ， ",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 1 . { \\mathrm { \\bf ~ ( B ) } } \\sigma = 1 , \\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 1 . { \\mathrm { \\bf ~ ( C ) } } \\sigma = 1 0 , \\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 1 . { \\mathrm { \\bf ~ ( D ) } } \\sigma = 1 , \\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = 1 , \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 7 . ( \\mathrm { F } ) \\ \\sigma = 1 , \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Fig 7.Probability of each location becoming a change point in the Bayes model.(A) $\\sigma = 0 . 5$ ， ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "$\\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 1 . { \\mathrm { \\bf ~ ( B ) } } \\sigma = 1 , \\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 1 . { \\mathrm { \\bf ~ ( C ) } } \\sigma = 1 0 , \\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 1 . { \\mathrm { \\bf ~ ( D ) } } \\sigma = 1 , \\mid \\mu _ { 1 } \\cdot \\mu _ { 2 } \\mid = 0 .$ 0.4. (E) $\\sigma = 1 , \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 7 . ( \\mathrm { F } ) \\ \\sigma = 1 , \\mid \\mu _ { 1 } - \\mu _ { 2 } \\mid = 0 . 1 .$ ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Fig 8.Probability of each location becoming a change point in the SCPDM.（A） $\\sigma = 1$ ，",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| = 0 . 1 \\ \\mathrm { . } \\ \\mathrm { ( B ) } \\ \\sigma = 1 , \\ | \\ \\mu _ { 1 } - \\mu _ { 2 } | = 0 . 7 \\ \\mathrm { . } \\ \\mathrm { ( C ) } \\ \\sigma = 1 , \\ | \\ \\mu _ { 1 } - \\mu _ { 2 } | = 1 \\ \\mathrm { . } \\ \\mathrm { ( D ) } \\ \\sigma = 1 0 , \\ | \\ \\mu _ { 1 } - \\mu _ { 2 } | = 1 \\ \\mathrm { . } \\ \\mathrm { . } \\ \\mathrm { ( D ) } \\ \\mathrm { . }\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma = 1 , | \\mu _ { 1 } - \\mu _ { 2 } | = 0 . 4 .\n$$",
+        "text_format": "latex",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/30bf15a4bac2a79c233db5ee4adf476a2bd72f436bf6d249f5c910c0b03d2461.jpg",
+        "img_caption": [
+            "Figures "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab1f600e7c6eb038952eba6d12e775d8cf12e231c1d45e6446732d9ae472fdc6.jpg",
+        "img_caption": [
+            "Fig.1 Diagram of the accuracy of change point detection influenced by variance. "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a8f1b8e9b95565800b0a7d9d68da8111257a61b5d38ee9434480a0d45be471e.jpg",
+        "img_caption": [
+            "Fig.2. Varieties in difference between adjacent parallel structural components "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { n _ { c } } \\sum _ { i = 1 } ^ { n } \\biggl ( \\biggl | \\tilde { \\mu } _ { \\mathrm { i n } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { \\mathrm { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | - \\biggl | \\tilde { \\mu } _ { \\mathrm { i n } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { \\mathrm { i n } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | - \\biggl ( \\biggl | \\tilde { \\mu } _ { \\mathrm { i n } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { \\mathrm { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | + \\biggl | \\tilde { \\mu } _ { \\mathrm { i n } } ^ { * } ( t ^ { * } , y ^ { * } ) - \\tilde { \\mu } _ { \\mathrm { 2 i } } ^ { * } ( t ^ { * } , y ^ { * } ) \\biggr | \\biggr ) \\biggr )\n$$",
+        "text_format": "latex",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/572e102babad03df9f41dad571b4d2728a24aead0a10338b2678d96899fc4296.jpg",
+        "img_caption": [
+            "Fig. 4.Under 500 repetitions, value of "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/20951ad3a18a15d83a654ba5a66fda03a24706a8cb1b49669aea3b80002071ae.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a93e2b05f8e1461c2c2ed6800496030e1482557de2a8c34eb892886a9528242.jpg",
+        "img_caption": [
+            "Fig. 5. The value of .(t. atn"
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "location. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab12e7697ebbf4c8e8135e5071f4fa0d8e53cdbe3405492500010f95d57e031c.jpg",
+        "img_caption": [
+            "Fig.6.Probability of the each location becoming a change in Least Square Model "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5c443569643775857d0dd5074a5508e10d23cd6402c87f3b460e2a30adc49d4.jpg",
+        "img_caption": [
+            "Fig. Probability of the each location becoming a change in SCPDM "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "格式要求：",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "图字、表字；图题、表题；图注和表注：TNR，8 pt。  \n图表尺寸：单栏最大： $1 8 5 \\ : \\mathrm { m m } \\times 1 2 0 \\ : \\mathrm { m m }$ ；双栏最大：宽不超过 $6 0 \\mathrm { m m }$ 。图清晰度：300dpi或以上。若图中有多个图表，用A、B、C等分别表示。  \n注明图（横纵坐标）表的度量衡单位及其说明。  \n按照正文中引用的顺序升序排列；每个图单独占据一页，不同图之间用分页符。",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "公式：",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "公式放在正文中，需用公式编辑器进行编辑。",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Tables ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/24e49a47291e842640948f3ed97691a9f6f4fe17b51d098bee9f79f7723a1ced.jpg",
+        "table_caption": [
+            "Table.1 Estimate probability of a change in certain intervals of three models. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Model</td><td rowspan=\"2\">|μ -μ2l</td><td rowspan=\"2\">9</td><td colspan=\"7\">494-498499int3a504-508</td></tr><tr><td>484-488</td><td>489-493</td><td></td><td></td><td></td><td>509-513</td><td>514-518</td></tr><tr><td rowspan=\"2\">Least</td><td>1</td><td>0.5</td><td>0</td><td>0.001</td><td>0.028</td><td>0.942</td><td>0.029</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0.010</td><td>0.031</td><td>0.113</td><td>0.681</td><td>0.113</td><td>0.021</td><td>0.013</td></tr><tr><td rowspan=\"2\">Squared</td><td>1</td><td>10</td><td>0.006</td><td>0.008</td><td>0.010</td><td>0.019</td><td>0.013</td><td>0.007</td><td>0.012</td></tr><tr><td>0.4</td><td>1</td><td>0.054</td><td>0.075</td><td>0.113</td><td>0.215</td><td>0.107</td><td>0.055</td><td>0.043</td></tr><tr><td rowspan=\"2\">Method</td><td>0.7</td><td>1</td><td>0.039</td><td>0.048</td><td>0.166</td><td>0.417</td><td>0.148</td><td>0.048</td><td>0.034</td></tr><tr><td>0.1</td><td>1</td><td>0.009</td><td>0.014</td><td>0.015</td><td>0.010</td><td>0.015</td><td>0.011</td><td>0.009</td></tr><tr><td rowspan=\"5\">Bayes</td><td>1</td><td>0.5</td><td>0</td><td>0</td><td>0.07</td><td>0.87</td><td>0.06</td><td>0</td><td>0</td></tr><tr><td>1</td><td>10</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0</td><td>0</td><td>0.01</td></tr><tr><td>1</td><td>1</td><td>0.01</td><td>0.02</td><td>0.11</td><td>0.58</td><td>0.13</td><td>0.07</td><td>0.03</td></tr><tr><td>0.7</td><td>1</td><td>0.06</td><td>0.06</td><td>0.18</td><td>0.35</td><td>0.18</td><td>0.07</td><td>0.01</td></tr><tr><td>0.1</td><td>1</td><td>0.01</td><td>0.03</td><td>0.01</td><td>0</td><td>0.02</td><td>0</td><td>0</td></tr><tr><td rowspan=\"2\"></td><td>0.4</td><td>1</td><td>0.02</td><td>0.04</td><td>0.08</td><td>0.14</td><td>0.10</td><td>0.06</td><td>0.02</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>0.001</td><td>0.991</td><td>0.008</td><td>0</td><td>0</td></tr><tr><td rowspan=\"2\">SCPDM</td><td>1</td><td>10</td><td>0.019</td><td>0.065</td><td>0.171</td><td>0.430</td><td>0.201</td><td>0.073</td><td>0.023</td></tr><tr><td>0.7</td><td>1</td><td>0</td><td>0</td><td>0.010</td><td>0.957</td><td>0.033</td><td>0</td><td>0</td></tr><tr><td rowspan=\"2\">Method</td><td>0.1</td><td>1</td><td>0.019</td><td>0.065</td><td>0.171</td><td>0.430</td><td>0.201</td><td>0.073</td><td>0.023</td></tr><tr><td>0.4</td><td>1</td><td>0</td><td>0</td><td>0.040</td><td>0.841</td><td>0.118</td><td>0.001</td><td>0</td></tr></table></body></html>",
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/68b53e7576609c0e79fe642b297a456d79284e83eab840ee124efb6e4f419c01.jpg",
+        "table_caption": [
+            "Table.2.Estimate probability of $\\hat { t } ^ { * } = t ^ { * }$ of three models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>MD</td><td>SD</td><td>Least Squared Method</td><td>BayesMethod</td><td>SCPAM</td></tr><tr><td>1</td><td>0.5</td><td>0.651</td><td>0.61</td><td>---</td></tr><tr><td>1</td><td>1</td><td>0.286</td><td>0.2</td><td>0.536</td></tr><tr><td>1</td><td>10</td><td>0.003</td><td>0</td><td>0.095</td></tr><tr><td>0.4</td><td>1</td><td>0.066</td><td>0.01</td><td>0.298</td></tr><tr><td>0.7</td><td>1</td><td>0.164</td><td>0.12</td><td>0.441</td></tr><tr><td>0.1</td><td>1</td><td>0.004</td><td>0</td><td>0.095</td></tr></table></body></html>",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "要求：表头、表题和表均放置在此处。不同表占据不同页码，表之间用分页符分开。  \n采用三线表。要求简洁、自明性强。  \n图字、表字；图题、表题；图注和表注：TNR，8 pt。",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "图表尺寸：单栏最大： $1 8 5 \\ : \\mathrm { m m } \\times 1 2 0 \\ : \\mathrm { m m }$ ；双栏最大：宽不超过 $6 0 \\mathrm { m m }$ 。",
+        "page_idx": 29
+    }
+]

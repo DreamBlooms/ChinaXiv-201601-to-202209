@@ -1,0 +1,411 @@
+# 适用于多密级环境的移动存储设备互认证与密钥协商协议
+
+冯力1，郁 滨¹，龚碧²，周伟伟1(1．信息工程大学，郑州 450004;2．中国人民解放军 65012部队，沈阳 110100)
+
+摘要：针对多密级环境特点，提出一个能够离线认证、可识别密级的移动存储设备、主机终端互认证与密钥协商协议。协议基于TTP（trusted third party）的数字签名不可伪造特性和计算离散对数问题(discrete logarithm problem)的困难性，通过验证协商密钥加密所得密文的正确性实现移动存储设备和主机终端的互认证。对协议进行非形式化和形式化分析，分析结果表明与同类协议相比，协议安全性较高，存储开销小，预共享认证参数次数少，实用性强。协议能够有效解决多密级环境下移动存储设备密级识别、身份认证问题，对移动存储设备安全管理具有重要意义。
+
+关键词：互认证；移动存储设备；多密级；SVO逻辑 中图分类号：TP309.2 doi:10.3969/j.issn.1001-3695.2017.11.1003
+
+# Mutual authentication and key negotiation protocol for removable storage devices applicable to multi-level environment
+
+Feng $\mathrm { L i } ^ { 1 }$ , Yu Bin1, Gong $\mathrm { B i } ^ { 2 }$ , Zhou Weiweil (1.InformationEnginering University,Zhengzhou 45004,China;2.PLA 65012Troops,Shenyang110100,China)
+
+Abstract: Considering the characteristics of multi-level environment,this paper proposes a mutual authentication and key negotiation protocolbetweenremovable storage devicesand host terminals.There is noonline authentication centerand the protocolcanbeabletoidentifytheconfidentialitylevel.Basedontheunforgeabilityof thedigitalsignaturefromTTP(rusted ThirdParty)andthedificultyofcalculatingtheDLP(DiscreteLogarithmProblem),theprotocolachievesmutualauthentication between removable storage devicesand host terminals through verifying the corectnessof ciphertext encrypted by the negotiation key.Informaland formalanalyses are putonthe protocol.Theanalysisresultsshow that theprotocolhas high security,smallstorage cost,low numberof pre-shared authentication parameters and strong practicability compared with the similarprotocols.Thisprotocolcanefectivelysolve theproblemof confidentiality level identificationand identity authenticationofremovable storage devices inmulti-levelenvironment.Andit'sofgreatimportance to thesecurity management of removable storage devices.
+
+Key Words: mutual authentication; removable storage device; multi-level; SVO logic
+
+# 0 引言
+
+USB（universalserialbus）移动存储设备[l]因其使用方便、通用性好等优点广泛应用于数据存储与信息交互场合。然而由于缺乏必要的安全机制，USB移动存储设备成为信息泄露的重要渠道[2-4]。特别是在多密级环境中，不同密级的信息系统通常采用物理隔离保证信息安全，而移动存储设备能轻易地打破安全边界，造成泄密[5]。因此需要对移动存储设备采取有效的技术手段进行管控，对其进行身份认证是实现管控的前提和基础[6]。
+
+USB 移动存储设备认证协议可按有无在线认证中心分为两类，其中有在线认证中心的认证协议采用C/S模式，通过在线的认证服务器与客户端通信实现认证。Yang等[7首先提出一种基于Schnorr 数字签名方案的移动存储设备认证协议，实现了用户和认证服务器互认证。Chen 等人[8分析了文献[7]方案的弱点，提出了改进方案。Lee等人[9认为文献[8]的方案计算效率低，进而提出一种基于ECC的以用户口令、指纹、智能卡作为认证因子的三因子认证协议。He 等人[0]分析出文献[9]有容易遭到重放攻击等弱点，基于此进行了安全性改进。Giri等人[1提出一种基于用户指纹和口令的互认证方案，提高了指纹认证的安全性。文献[12]提出一种用于创建三因子安全协议的系统架构，提高了认证的效率，减少了通信和计算开销。Amin等人[13]提出一种互认证和密钥协商协议，该协议仅通过注册服务器提供存储在设备上的机密信息的授权访问。上述协议利用在线的认证服务器对用户进行认证，未考虑设备和主机终端的合法性。由于多密级环境下不同密级终端相互隔离，无法建立在线的认证中心；并且攻击者可能使用伪造的设备或终端进行攻击，需要对其身份进行认证；因而此类协议只适用于网络互联的单一密级环境，无法满足多密级环境中移动存储设备认证需求。
+
+无在线认证中心的协议通常基于预共享密钥、秘密参数、身份证书等方式实现移动存储设备与主机终端的身份认证。其中文献[14]实现了主机终端对移动存储设备的单向认证，但因未对主机终端认证，无法阻止非法主机访问移动存储设备。文献[15]提出一种基于ECC的USB认证密钥协商协议UAKA，实现了USB移动存储设备与终端的互认证，但该协议无法抵抗中间人攻击。文献[16]通过共享认证因子实现USB设备与主机的双向认证，但该协议并不区分设备和主机的硬件特征，容易遭受介质伪造攻击。文献[17]提出一种基于安全芯片的可信移动存储设备的认证机制实现互认证。文献[18]利用混合密码体制设计能够识别安全等级的双向认证方案。然而由于文献[17,18]预共享的认证参数与主机终端身份有关，导致存储开销与主机终端数量成正比，且移动存储设备需要分别与所有终端一一预共享认证参数，不适用于终端数量较多的情形。文献[19]设计了一种用无线认证终端授权认证U盘的方法，由于需要引入新设备，提高了生产成本和管理成本。
+
+本文旨在针对多密级环境的特点，设计一个无在线认证中心，可以识别密级的移动存储设备、主机终端互认证与密钥协商协议，从而有效地解决多密级环境中移动存储设备密级识别、身份认证问题。
+
+# 1 预备知识
+
+# 1.1应用场景
+
+多密级环境中，相同密级信息系统内信息可以自由传递，不同密级信息系统间物理隔离，信息只能从低密级向高密级传递。当使用移动存储设备在不同密级信息系统间交换数据时，由于其通用性和匿名性，移动存储设备能够破坏多密级环境中信息系统边界，极易导致信息无序地在信息系统间传递，造成泄密，如图1所示。
+
+![](images/81cba6b6b401017387d42f4ef8762479869e7f8c126c48955d2a247e0a83028e.jpg)  
+图1移动存储设备破坏安全边界示意图
+
+针对上述问题，多密级环境下对移动存储设备的认证需要满足以下需求：a）能够标志移动存储设备密级，以确定其存储信息最高密级能力和传递数据的安全边界；b）能够标志主机终端密级，为确定主机访问移动存储设备权限提供依据，即主机对同密级的设备可读可写，对低密级设备只读；c）认证时无须认证服务器，能够离线认证；d）能够对主机和移动存储设备互认证，确保双向安全可靠。
+
+# 1.2总体结构
+
+为方便描述，对协议使用到的符号及其含义进行说明，如表1所示。
+
+表1协议符号说明表  
+
+<html><body><table><tr><td>D：移动存储设备（简称设备） UIDD :设备的唯一硬件特征</td><td>H：主机终端(简称终端) UIDH：终端的唯一硬件特征</td></tr><tr><td>LD：设备分配的密级</td><td>LH：终端分配的密级</td></tr><tr><td>Cert(D)：设备的证书</td><td>Cert(H)：终端的证书</td></tr><tr><td></td><td></td></tr><tr><td></td><td>y：设备申请证书选取的秘密参数x：终端申请证书选取的秘密参数</td></tr><tr><td>y：设备认证时的新鲜因子</td><td>x：终端认证时的新鲜因子</td></tr><tr><td>sk：设备和终端协商的会话密钥</td><td>T:可信第三方（TTP)</td></tr><tr><td>K：可信第三方的公钥</td><td>K可信第三方的私钥</td></tr><tr><td></td><td>{m}：用公钥K,对证书进行验证</td></tr><tr><td>{m}k1：用私钥 K,1对消息签名</td><td>签名</td></tr><tr><td>{m}sk：用密钥sk对消息m加密</td><td>：连接符</td></tr><tr><td>α：Z的生成元</td><td>h(·)：哈希函数</td></tr><tr><td></td><td></td></tr><tr><td>P：选取的大素数，p≥2512，在Z上计算离散对数问题是困难的</td><td></td></tr></table></body></html>
+
+协议的总体结构如图2所示。由管理部门根据实际需求将终端和设备划分为不同密级，密级用非负整数表示，密级越高，数字越大，密级相同，数字相等。TTP（Trusted ThirdParty）是权威、可信赖的第三方，是认证协议信任的源头，主要作用是为移动存储设备和主机终端发放密级标识。密级标识确定了移动存储设备（或主机终端）在多密级环境中存储信息的边界，即移动存储设备（或主机终端）所能存储信息的最高密级。对TTP的通信环境进行保护，因而信道可视为安全信道。攻击者的攻击手段有：窃听、阻止、截获、存储USB总线上的消息，发送消息给移动存储设备或主机终端。移动存储设备和终端通过在USB总线上运行认证协议，防止攻击者利用上述攻击手段使认证主体获得错误的密级。
+
+![](images/64646e686265bd3ffbf94caa107a0392db6116fc007e821953d516d06bff0149.jpg)  
+图2协议总体结构示意图
+
+# 1.3离散对数问题
+
+离散对数问题可以描述为：给定一个素数 $\boldsymbol { p }$ 和 $G F ( p )$ 上的一个本原元 $\alpha$ ，对 $y \in G F ( p ) \backslash \{ 0 \}$ ，找唯一的整数 $x$ ， $0 \leq x \leq p - 2$ ，使得 $y = \alpha ^ { x } { \bmod { p } }$ 成立。一般的，如果仔细选择 $p$ ，那么认为该问题是困难的，即在计算上是不可行的。
+
+# 2 协议设计
+
+根据多密级环境下认证需求，对协议进行设计，协议分为初始化和互认证两个阶段。
+
+# 2.1 协议初始化
+
+协议初始化是指设备和终端申请证书，为实现互认证预共享认证参数的过程，初始化示意图如图3所示。
+
+终端选择一个随机数！ $\overline { { { x } } } \ : \mathrm { ~ ( ~ } 0 \leq \overline { { { x } } } \leq p - 2 \mathrm { ~ ) ~ }$ ，并计算 $V _ { H } { = } \alpha ^ { \stackrel { \_ } { x } } ( { \mathrm { m o d } } p )$ ，发送 $U I D _ { H }$ 、 $\textstyle V _ { H }$ 至 TTP。TTP为其分配密级 $L _ { \scriptscriptstyle H }$ ，用自己私钥 $\boldsymbol { K } _ { t } ^ { - 1 }$ 签名，生成证书 $C e r t ( H )$ 并发送至终端，其中：
+
+$$
+C e r t ( H ) = L _ { H } \parallel V _ { H } \parallel \{ h ( U I D _ { H } \parallel L _ { H } \parallel V _ { H } ) \} _ { K _ { t } ^ { - 1 } }
+$$
+
+同样地，设备选择一个随机数 $\overline { { y } }$ （ $0 \le \overline { { y } } \le p - 2 \ \cdot$ ，并计算$V _ { D } { = } \alpha ^ { \bar { y } } ( { \mathrm { m o d } } p )$ ，发送 $U I D _ { D }$ 、 $V _ { D }$ 至TTP。TTP为其分配密级 $L _ { D }$ ，用自己私钥 $K _ { t } ^ { - 1 }$ 签名，生成证书 $C e r t ( D )$ 并发送至设备，其中：
+
+$$
+C e r t ( D ) = L _ { D } \| V _ { D } \| \{ h ( U I D _ { D } , ~ L _ { D } , ~ V _ { D } ) \} _ { K _ { t } ^ { - 1 } }
+$$
+
+Host Terminate Trusted Third Party Removable Storage Device vn=a(modp） UIDH V UID，VD co=0\*( man bom $\overline { y }$ （204号 →assign security level，< creat signatures , Cert(H) $\mathit { C e r t } ( D )$ （202 store Cert(H) generate certifications 木 store Cert(D)
+
+# 2.2 互认证
+
+互认证流程如图4所示。
+
+a)终端发起认证请求REQ，选择一个随机整数 $x$ （ $( 0 \leq x \leq p - 2 )$ 并计算 $\gamma _ { H } { = } \alpha ^ { x } ( \mathbf { m o d } p )$ ，将证书 $C e r t ( H )$ 、新鲜的临时值 $\gamma _ { H }$ 和唯一硬件特征 $U I D _ { H }$ 发送至设备。
+
+b)设备计算 $\{ \{ h ( U I D _ { H } \parallel L _ { H } \parallel V _ { H } ) \} _ { K _ { t } ^ { - 1 } } \} _ { K _ { t } }$ 是否等于$h ( U I D _ { H } \parallel L _ { H } \parallel V _ { H } )$ 以验证证书 $C e r t ( H )$ 是否是TTP签发的合法证书，如果不是，协议终止，否则，协议转下一步。
+
+c)设备选择一个随机整数 $y \ ( 0 \leq y \leq p - 2 )$ 并计算（204号 $\scriptstyle \gamma _ { D } = \alpha ^ { y } ( { \mathrm { m o d } } p )$ ，计算会话密钥 $s k = { V _ { H } } ^ { y } \cdot { \gamma _ { H } } ^ { \bar { y } } { \bmod { p } }$ ，并用会话密钥加密 $U I D _ { D } \| L _ { D } \| \gamma _ { H } \| \gamma _ { D }$ ，将证书 $C e r t ( D )$ 、新鲜的临时值 $\gamma _ { D }$ 、唯一硬件特征 $U I D _ { D }$ 和密文 $\{ U I D _ { D } \| L _ { D } \| \gamma _ { H } \| \gamma _ { D } \} _ { s k }$ 发送至终端。
+
+d)终端计算 $\{ \{ h ( U I D _ { D } , ~ L _ { D } , ~ V _ { D } ) \} _ { { } _ { K _ { t } ^ { - 1 } } } \} _ { { K _ { t } } }$ 是否等于$h ( U I D _ { D } , ~ L _ { D } , ~ V _ { D } )$ 以验证证书 $C e r t ( D )$ 是否是TTP签发的合法证书，如果不是，协议终止，否则，协议转入下一步。
+
+e)终端计算会话密钥 $s k = { V _ { D } } ^ { x } \cdot { \gamma _ { D } } ^ { \frac { \tau } { x } } { \bmod { p } }$ ，并用会话密钥 $s k$ 加密 $U I D _ { M } \| L _ { M } \| \gamma _ { C } \| \gamma _ { M }$ 得到 $\{ U I D _ { M } \| L _ { M } \| \gamma _ { C } \| \gamma _ { M } \} _ { s k }$ ，如果与接收到的密文不一致，协议终止，否则，协议转入下一步。
+
+f)终端用会话密钥 $s k$ 加密 $U I D _ { H } \| L _ { H } \| \gamma _ { D }$ ，得到密文$\{ U I D _ { H } \| L _ { H } \| \gamma _ { D } \} _ { s k }$ ，并发送至设备。
+
+g)设备用会话密钥加密 $U I D _ { H } \| L _ { H } \| \gamma _ { D }$ 得到 $\{ U I D _ { H } \| L _ { H } \| \gamma _ { D } \} _ { s k }$ ，如果与接收到的密文不一致，认证失败、协议终止，否则，互认证通过。
+
+需要说明的是，协议中可以采用任何一种计算上安全的签名和验证签名算法，签名和验证签名前须用散列函数对签名或验证签名内容进行散列。
+
+Host Terminate
+
+Removable Storage Device
+
+![](images/fb715ef86820f8ed44fdc48d09da16a7d2e1bacb9b04b9302daa3b81b0129e35.jpg)  
+图3协议初始化示意图  
+图4互认证流程示意图密钥协商
+
+互认证通过后，终端获得协商密钥$s k = { V _ { D } } ^ { x } \cdot { \gamma _ { D } } ^ { \frac { \pi } { x } } \mathrm { m o d } p { = } { \alpha } ^ { \bar { x } \cdot y } \cdot { \alpha } ^ { x \cdot \bar { y } } \mathrm { m o d } p$ ，设备端获得协商密钥$s k = V _ { H } { } ^ { y } \cdot \gamma _ { H } { } ^ { \overline { { y } } } \bmod p = \alpha ^ { \overline { { x } } \cdot y } \cdot \alpha ^ { x \cdot \overline { { y } } } \bmod p$ ，两者相等。因而双方可以使用协商密钥进行加密传输，保证USB总线上信息传输的安全。
+
+# 3 协议性能效能分析
+
+# 3.1 协议性能分析
+
+协议基于TTP的数字签名不可伪造特性和计算离散对数问题的困难性，在认证过程中，随机产生的新鲜因子密文传送，具有较好的安全特性，分析如下：
+
+1）抗介质伪造攻击（media forgeryattack）
+
+介质伪造攻击是指攻击者使用未认证的存储介质代替已认证的存储介质，通过更换存储介质的手段达到窃取秘密信息的目的。在协议初始化阶段，移动存储设备将唯一硬件信息（例如存储介质的全球唯一序列号GUID）发送给TTP，TTP对包含上述信息的内容进行签名。认证时，移动存储设备须将唯一硬件信息 $U I D _ { D }$ 发送至主机，如果攻击者更换介质，会导致当前介质 $U I D _ { D }$ '与设备申请证书时的 $U I D _ { D }$ 不一致，从而主机在验证设备证书时不通过，因此协议可以抵抗介质伪造攻击。
+
+2）抗盗窃证书攻击（stolen-verifierattack）
+
+攻击者即使盗取了合法设备的证书也无法仿冒合法设备通过认证。这是因为每个证书与设备申请证书时的秘密参数是一一对应的，攻击者仅仅盗窃合法设备的证书，只能通过互认证中第 $\textcircled{4}$ 步，即验证证书合法性的一步，然而由于攻击者无法得知设备的秘密参数，也就无法计算出正确的会话密钥 $s k$ ，从而无法通过认证。类似地，攻击者即使盗取合法终端的证书，由于无法得知秘密参数 $\overline { { x } }$ ，也就无法计算正确的sk，也就无法通过认证。综上，协议可以抵抗盗窃证书攻击。
+
+# 3）抗重放攻击（replay attack）
+
+协议采用挑战应答机制，在通信过程中，主机终端生成随机数 $x$ ，移动存储设备生成随机数 $y$ 作为新鲜因子，并将新鲜因子加密为 $\gamma _ { H }$ 和 $\gamma _ { D }$ 再传送。假设攻击者通过侦听信道可以获得信道上所有消息：REQ、ACK1、ACK2并进行重放攻击，由于仅知道 $\gamma _ { H }$ 或 $\gamma _ { D }$ ，计算得到 $x$ 或 $y$ 是困难的，从而无法计算正确的会话密钥sk，导致无法通过认证。同时由于每一回合生成的随机数都是新鲜的，因而攻击者也无法通过重放以往回合中侦听到的陈旧的消息实施重放攻击。
+
+4）抗中间人攻击（man-in-the-middle attack）
+
+通信双方通过协商会话密钥 $s k$ ，并利用 $s k$ 加密新鲜的临时值 $\gamma _ { D }$ 、 $\gamma _ { H }$ 得到握手消息ACK1、ACK2，通过独立地验证握手消息的正确性来确认对方身份。中间人仿冒终端或设备发起攻击时，由于没有秘密参数 $\overline { { x } }$ 或 $\overline { { y } }$ ，无法计算得到正确的会话密钥，也就无法加密临时值 $\gamma _ { D \mathrm { ~ } \setminus \mathrm { ~ } } \gamma _ { H }$ 获得正确的密文，无法通过认证，因此攻击者无法作为中间人冒充合法设备或终端。
+
+# 5）前向安全性（forward secrecy）
+
+协议通过协商会话密钥 $s k = V _ { H } { } ^ { y } \cdot \gamma _ { H } { } ^ { \overline { { y } } } \bmod p = V _ { D } { } ^ { x } \cdot \gamma _ { D } { } ^ { \overline { { x } } } \bmod p$ 保护认证和通信安全，每一次认证，生成的临时值 $x$ 、 $y$ 都是新鲜的，并且每一次会话密钥只在一次认证中使用，因而每一次认证的会话密钥都是不同的。即使攻击者获得了主机或设备的秘密参数，也无法计算出之前所生成的会话密钥，保证了前向安全性。
+
+# 6）离线认证
+
+认证时，只有设备和终端参与认证，无须在线的认证中心，适用于多密级环境下不同密级信息系统间物理隔离的情形。
+
+# 7）可识别密级
+
+为适应多密级环境，在协议初始化时，为设备和终端分配了密级标识。如果通过互认证，终端和设备都能获取对方可信的密级标志，从而识别密级，为访问控制奠定基础。
+
+协议主要安全特性与相关文献对比如表2所示。
+
+# 3.2 协议效能分析
+
+设定 $U I D _ { D }$ 、 $U I D _ { H }$ 为80bit, $L _ { D }$ 、 $L _ { { \scriptscriptstyle H } }$ 为8bit，公钥为512 bit,私钥为 $1 4 0 ~ \mathrm { b i t }$ ，公钥加密、签名结果为 $\boldsymbol { 1 0 2 4 } ~ \mathrm { b i t }$ ，哈希结果为
+
+128bit，随机数为140bit，M为多密级环境中主机终端数量，N为移动存储设备数量。 $T _ { e n c } / T _ { d e c }$ 表示一次对称加解密运算所需时间， $T _ { p e n c } / T _ { p d e c }$ 表示一次公钥加解密运算所需时间， ${ T _ { s i g } } ~ / { T _ { \nu e r } }$ 表示一次签名或验证签名操作所需时间， $T _ { h a s h }$ 表示一次散列运算所需时间， $T _ { m e }$ 表示一次模幂运算所需时间， $T _ { x o r }$ 表示一次异或运算所需时间。
+
+文献[17，18]都采用了无在线认证中心的结构，应用领域与本文相同，与之进行对比分析。如表3所示，本文协议存储开销为1764bit，优于文献[17，18]，原因在于文献[17，18]没有设立可信第三方，导致存储开销与终端数量成正比，当终端数量很大时，存储开销将变得难以接受。为保证环境中所有移动存储设备和主机终端能够互认证，文献[17，18]中移动存储设备需与主机终端一一预共享认证参数，共计 $\mathbf { M } ^ { * } \mathbf { N }$ 次，而本文协议只需 $\mathbf { M } { + } \mathbf { N }$ 次，大大减少了预共享认证参数次数，实用性更强。
+
+表3协议存储开销和预共享参数次数对比  
+
+<html><body><table><tr><td></td><td>文献[17]</td><td>文献[18]</td><td>本文</td></tr><tr><td>存储开销 (bit)</td><td>1056*M</td><td>1224*M</td><td>1764</td></tr><tr><td>预共享认证参数次数</td><td>M*N</td><td>M*N</td><td>M+N</td></tr></table></body></html>
+
+如表4所示,本文协议计算开销为 $2 T _ { h a s h } + 4 T _ { m e } + 2 T _ { v e r } + 4 T _ { e n c }$ ，明显低于文献[17],与文献[18]持平，高于文献[11，12]。文献[11，12]虽然计算开销较小，但因采用认证服务器实现认证，不适用于多密级环境。
+
+# 4 协议形式化分析
+
+SVO逻辑是目前分析认证协议最有力的形式化推理方法之一，应用SVO逻辑对提出的互认证协议进行形式化分析。
+
+# 4.1公理及规则
+
+SVO 逻辑遵从两条推理规则和20条公理，将需要使用的列举如下：
+
+MP 规则：由 $\psi$ 和 $\varphi \supset \psi$ 可以推出 $\psi$ 。
+
+Nec 规则：由 $\vdash \varphi$ 可以推导出 $\left. - P \right. \equiv \varphi$ □
+
+$$
+\operatorname { A } _ { 1 } { \mathrm { : } } P { \big | } \equiv \varphi \wedge P { \big | } \equiv ( \varphi \supset \psi ) \supset P { \big | } \equiv \psi
+$$
+
+$$
+\mathrm { A } _ { 3 } : P \longleftrightarrow Q \wedge R \triangle \{ X ^ { Q } \} _ { K } \supset ( Q | - X \wedge Q \supset K )
+$$
+
+$$
+\mathrm { A } _ { 4 } : P K _ { \sigma } ( Q , K ) \wedge R \triangle X \wedge S V ( X , K , Y ) \supset Q | \sim Y
+$$
+
+$$
+\mathrm { A } _ { 5 } : P K _ { \delta } ( P , K _ { P } ) \wedge P K _ { \delta } ( Q , K _ { q } ) \supset P \longleftrightarrow Q
+$$
+
+$$
+\operatorname { A } _ { 7 } : P \triangleleft ( X _ { 1 } , \cdot \cdot \cdot , X _ { n } ) { \supset } P \triangleleft X _ { i }
+$$
+
+应用公理 $\mathbf { A } _ { 1 }$ 和MP规则，可以得到以下常用结论：
+
+$$
+\mathbf { A } _ { 1 } + \mathbf { M } \mathbf { P } : ( P | \equiv \varphi \land P | \equiv ( \varphi \supset \psi ) \vdash P | \equiv \psi )
+$$
+
+# 4.2 初始假设集合
+
+协议中的消息 $U I D _ { D }$ 、 $L _ { D }$ 是移动存储设备的待认证信息，用D表示，同样的，消息 $U I D _ { H }$ 、 $L _ { \scriptscriptstyle H }$ 用 $\mathrm { ~ H ~ }$ 表示。主机终端 $\mathrm { ~ H ~ }$ 的初始假设集合为：
+
+$$
+P _ { 1 } : H \mid \equiv P K _ { \sigma } ( T , K _ { t } )
+$$
+
+$$
+P _ { 2 } : H \left| \equiv S V ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , K _ { t } , ( D , V _ { D } ) ) \right.
+$$
+
+$$
+P _ { 3 } : H | \equiv E V ( ( D , \gamma _ { H } , ^ { * } d ) , s k , \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } )
+$$
+
+$$
+P _ { 4 } : H | \equiv ( ( T \vert - P K _ { \delta } ( D , V _ { D } ) \wedge H \ A ( ( D , V _ { D } ) , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , ^ { \ast } d , \{ D , \gamma _ { H } ,
+$$
+
+$$
+\ ^ { * } d \} _ { s k } ) \wedge E V ( ( D , \gamma _ { H } , ^ { * } d ) , s k , \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } ) ) \supset P K _ { \delta } ( D , ( V _ { D } , ^ { * } d ) ) )
+$$
+
+$$
+P _ { 5 } : H \mid \equiv P K _ { \delta } ( H , ( V _ { H } , \gamma _ { H } ) )
+$$
+
+$$
+P _ { 6 } : H \triangleleft ( D , V _ { D } , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , \gamma _ { D } , \{ D , \gamma _ { H } , \gamma _ { D } \} _ { s k } )
+$$
+
+$$
+P _ { 7 } : H \vert \equiv H \triangleleft ( D , V _ { D } , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , ^ { * } d , \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } )
+$$
+
+$$
+P _ { 8 } : H \mid \equiv ( T \mid { - ( D , V _ { D } ) \supset T } \mid { - P K _ { \delta } ( D , V _ { D } ) } )
+$$
+
+$P _ { 1 } \sim P _ { 5 }$ 反映了主机终端H的初始信念，其中 $P _ { 1 }$ 表明 $\mathrm { ~ H ~ }$ 相信$K _ { t }$ 是可信第三方 $\mathrm { ~ T ~ }$ 的公开签名验证密钥； $P _ { 2 }$ 表明H相信密钥$K _ { \iota }$ 可以验证 $\{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } }$ 是 $( D , V _ { D } )$ 的签名； $P _ { 3 }$ 引入符号 $E V ( X , K , Y )$ 表示用密钥 $K$ 加密 $\boldsymbol { \cal X }$ 得到 $Y$ ，即 $\{ X \} _ { K } = Y$ ，用于验证密钥的正确性，表明H相信 $s k$ 加密 $( D , \gamma _ { H } , ^ { * } d )$ 得到 $\{ D , \gamma _ { H } , ^ { * } d \} _ { s k }$ ； $P _ { 4 }$ 表明H相信如果T发送过 $P K _ { \delta } ( D , V _ { d } )$ 且H接收到消息：$( ( D , V _ { D } ) , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , ^ { * } d , ( D , \gamma _ { H } , ^ { * } d ) _ { s k } ) \wedge E V ( ( D , \gamma _ { H } , ^ { * } d ) , s k , ( D , \gamma _ { H } , ^ { * } d ) _ { s k } ) )$ ，则 $V _ { D ^ { \star } } { } ^ { \ast } d$ 是设备 $\mathrm { ~ D ~ }$ 的公开协商参数。 $P _ { 5 }$ 表明 $\mathrm { ~ H ~ }$ 相信 $V _ { H }$ ， $\gamma _ { H }$ 是H的公开协商参数。 $P _ { 6 }$ 是接收消息，表明 $\mathrm { ~ H ~ }$ 接收到消息$( D , V _ { D } , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , \gamma _ { D } , \{ D , \gamma _ { H } , \gamma _ { D } \} _ { s k } )$ 。 $P _ { 7 }$ 是理解消息，表明 $\gamma _ { D }$ 是 $\mathrm { ~ H ~ }$ 收到的不可识别的消息。 $P _ { 8 }$ 是解释消息，表明H相信如果 $\mathrm { \Delta T }$ 发送过 $\boldsymbol { D } , ~ V _ { D }$ ，则 $V _ { D }$ 是 $\mathrm { ~ D ~ }$ 的公开协商参数。对于移动存储设备的初始假设集合，除以下2条外，其余可以对称得到：
+
+$$
+P _ { 6 } ^ { \prime } \colon D \triangleleft ( H , V _ { H } , \{ H , V _ { H } \} _ { K _ { t } ^ { - 1 } } , \gamma _ { H } ) , D \triangleleft ( \{ H , \gamma _ { D } \} _ { s k } )
+$$
+
+$$
+P _ { 7 } " : D \models D \uplus ( H , V _ { H } , \{ H , V _ { H } \} _ { K _ { t } ^ { - 1 } } , ^ { * } h )
+$$
+
+表2协议安全特性对比  
+
+<html><body><table><tr><td></td><td>文献[7]</td><td>文献[9]</td><td>文献[10]</td><td>文献[11]</td><td>文献[15]</td><td>文献[16]</td><td>文献[17]</td><td>文献[18]</td><td>本文</td></tr><tr><td>抗介质伪造攻击</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>√</td><td>×</td><td>√</td></tr><tr><td>抗重放攻击</td><td>×</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>抗中间人攻击</td><td>√</td><td>√</td><td>√</td><td>√</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>离线认证</td><td>×</td><td>×</td><td>×</td><td>×</td><td>√</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>可识别密级</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>×</td><td>√</td><td>√</td></tr></table></body></html>
+
+表4协议计算开销对比  
+
+<html><body><table><tr><td rowspan="2">协议初始化</td><td colspan="2">认证</td><td rowspan="2">总计</td></tr><tr><td>移动存储设备</td><td>主机终端</td></tr><tr><td>文献[11] 5Thash +1Tdec</td><td>1 Thash +1 Tme</td><td>4 Thash +1 Tme</td><td>10 Thash +2 Tme +1 Tdec</td></tr><tr><td>文献[12] 5Thash +1 Tenc</td><td>2 Thash</td><td>4 Thash +1 Tenc</td><td>11 Thash +2 Tenc</td></tr><tr><td>文献[17] 2Tme</td><td>2Tsig +2Tpenc+1Tpdec+1Tver+3Tash2Tpdec +2Tver+1Tsig+1Tpencash</td><td></td><td>6Thash +3Tsig +3 Tver +3 Tpenc +3Tpdec +2Tme</td></tr><tr><td>文献[18]1Txor+1Tpenc1Tpenc+1Tpdec+1Txor+1Tdec+1Thash</td><td></td><td>1 Tpenc +1Tpdec +1 Tenc +1 Thash</td><td>2Thash+3Tpenc+2Tpdec+2Txor+1Tenc+1Tdec</td></tr><tr><td>本文 1Tme</td><td>1 Thash +1Tver +2Tme +2Tenc</td><td>1 Thash +1Tver +2Tme +2 Tenc</td><td>2 Thash +4Tme+2Tver +4 Tenc</td></tr></table></body></html>
+
+# 4.3安全性证明
+
+假设1第三方T是可信的，其数字签名方案是安全的，攻击者无法伪造其签名。
+
+假设2求解离散对数问题是困难的，计算上不可行。
+
+结论1如果证书是由第三方T签名，并且移动存储设备拥有秘密参数 $y$ 和，那么可以唯一确认移动存储设备的合法身份。
+
+协议通过验证移动存储设备证书的数字签名和协商密钥加密临时值所得密文的正确性确认移动存储设备身份合法性。如果通过验证签名算法计算得到移动存储设备的证书是第三方T签名，根据假设1，由于攻击者无法伪造其签名，则可认定该证书是值得信任的。攻击者即使截获总线上可信的证书，为验证通过协商密钥加密临时值所得密文的正确性，攻击者必须获得协商密钥；由于协商密钥 $s k = { V _ { C } } ^ { y } \cdot { \gamma _ { C } } ^ { \bar { y } } { \bmod { p } }$ ，攻击者必须获得秘密参数 $y$ 和y；然而由于假设2，根据总线上的消息 $\alpha ^ { \bar { y } }$ 或 $\alpha ^ { y }$ ，计算 $y$ 和 $\overline { { y } }$ 是困难的，攻击者无法仿冒，因此可以唯一确认移动存储设备的合法身份。
+
+类似地，可以证明结论2。
+
+结论2如果证书由可信第三方签名，并且主机终端拥有秘密参数 $x$ 和 $\overline { { x } }$ ，那么可以唯一确认主机终端的合法身份。
+
+根据结论1、2，协议目标可用SVO逻辑表达为
+
+$$
+\begin{array} { l l } { { H \left| = T \right| \sim ( D , V _ { D } ) } } & { { ~ H \left| \equiv D \ni ( \overline { { y } } , y ) \right. } } \\ { { \left. D \right| \equiv T \left| \sim ( H , V _ { H } ) \right. } } & { { ~ D \left| \equiv H \ni ( \overline { { x } } , x ) \right. } } \end{array}
+$$
+
+形式化证明如下：
+
+由 $\mathbf { A } _ { 7 }$ 和Nec规则可得：
+
+$$
+H | \equiv ( H \triangleleft ( D , V _ { D } , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , ^ { * } d , \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } ) \supset H  | \equiv H \triangleleft ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } ) ) 
+$$
+
+由 $P _ { 7 }$ 和式(1)，应用结论 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+H \models ( H \vartriangle A ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } ) )
+$$
+
+由 $P _ { 1 }$ 、式（2）、 $P _ { 2 }$ 可得：
+
+$$
+H \left| \equiv P K _ { \sigma } ( T , K _ { t } ) \wedge H \odot ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } ) \wedge S V ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , K _ { t } , ( D , V _ { D } ) ) \right.
+$$
+
+将公理 ${ \bf A } _ { 4 }$ 实例化，并应用Nec 规则可得：
+
+$$
+\begin{array} { r l } & { H \left| \equiv ( P K _ { \sigma } ( T , K _ { t } ) \wedge H \triangleleft ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } ) \wedge S V ( \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , K _ { t } , ( D , V _ { D } ) ) \right. \right. } \\ & { \qquad \left. \left. \qquad \qquad \quad \supset T \right| _ { - } ( D , V _ { D } ) ) \qquad } \end{array}
+$$
+
+由式（3）（4)，应用 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+H \mid \equiv T \mid _ { \sim ( D , V _ { D } ) }
+$$
+
+由式（5）和 $P _ { 8 }$ ，应用 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+H \mid \equiv T \mid _ { \sim P K _ { \delta } ( H , V _ { H } ) }
+$$
+
+由式（6）、 $P _ { 7 }$ 、 $P _ { 3 }$ 可得：
+
+$$
+\begin{array} { c } { { H | = T | \sim P K _ { \delta } ( D , V _ { D } ) \wedge H \preccurlyeq ( D , V _ { D } , \{ D , V _ { D } \} _ { K _ { t } ^ { - 1 } } , ^ { * } d , \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } } } \\ { { \wedge E V ( ( D , \gamma _ { H } , ^ { * } d ) , s k , \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } ) \qquad ( 7 ) \qquad } } \end{array}
+$$
+
+由式（7）、 $P _ { 4 }$ ，应用 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+H \mid \equiv P K _ { \delta } ( D , ( V _ { D } , ^ { * } d ) )
+$$
+
+由 $P _ { 5 }$ 和式（8）可得：
+
+$$
+H \left| \equiv ( P K _ { \delta } ( H , ( V _ { H } , \gamma _ { H } ) ) \wedge P K _ { \delta } ( D , ( V _ { D } , ^ { * } d ) ) ) \right.
+$$
+
+将公理 ${ \bf A } _ { 5 }$ 实例化，应用Nec规则可得：
+
+$$
+H | \equiv ( P K _ { \delta } ( H , ( V _ { H } , \gamma _ { H } ) ) \wedge P K _ { \delta } ( D , ( V _ { D } , ^ { * } d ) ) \supset H \longleftrightarrow ^ { s k }   D )
+$$
+
+其中 $s k$ 如式（11)：
+
+$$
+s k = F _ { 0 } ( V _ { H } , \gamma _ { H } , V _ { D } , ^ { * } d ) = ( V _ { D } ) ^ { x } \cdot ( \gamma _ { D } ) ^ { \overline { { x } } } = ( V _ { H } ) ^ { y } \cdot ( \gamma _ { H } ) ^ { \overline { { y } } } = \alpha ^ { \overline { { x } } y + { x } \overline { { y } } }
+$$
+
+由式（9）（10)，应用 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+\boldsymbol { H } \mid \equiv \boldsymbol { H } \longleftrightarrow \boldsymbol { \operatorname { \ r { s g } } } ~ ,
+$$
+
+由式（12）、 $P _ { 7 }$ ，将公理 ${ \bf A } _ { 7 }$ 实例化，应用Nec 规则和 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+H \vert \equiv ( H \left. ) \xrightarrow { s k } D \wedge H \triangleleft \{ D , \gamma _ { H } , ^ { * } d \} _ { s k } \right)
+$$
+
+由式（13)，将公理 ${ \bf A } _ { 3 }$ 实例化，应用Nec 规则和 $\mathbf { A } _ { 1 } + M P$ 可得：
+
+$$
+H \mid \equiv ( D \mid \sim ( D , \gamma _ { H } , ^ { \ast } d ) \land D \ni s k )
+$$
+
+由式（14）可得：
+
+$$
+H \mid \equiv D \ni s k
+$$
+
+由式（15）、 $s k$ 定义式（11）以及 $\overline { { x } }$ 、 $\overline { { y } }$ 、 $x$ 、 $y$ 的定义可得：
+
+$$
+\boldsymbol { H } \left| \equiv \boldsymbol { D } \right. \ u { \Game } ( \overline { { \boldsymbol { y } } } , \boldsymbol { y } )
+$$
+
+由式（5）（16）构成了主机终端的信念集合。
+
+同样地，对移动存储设备 $\mathrm { ~ D ~ }$ 也可以做类似的分析，得到以下结果：
+
+$$
+D \vert \equiv T \vert - ( H , V _ { H } )
+$$
+
+$$
+D | \equiv H \ni ( { \overline { { x } } } , x )
+$$
+
+这一结果表明，协议能够达到预期目标：安全地实现主机终端和移动存储设备互认证。
+
+# 5 结束语
+
+在分析多密级环境特点基础上，提出了一个能够离线认证，可识别设备和终端密级的互认证与密钥协商协议。协议的安全性基于可信第三方数字签名不可伪造特性和计算离散对数问题的困难性，经过分析证明协议安全性较高，存储开销小，预共享认证参数次数少，实用性强，能够有效地解决多密级环境下移动存储设备的密级识别、安全认证问题，为其访问控制奠定安全基础。
+
+# 参考文献：
+
+[1]IEEE B E.1667-2006 IEEE standard protocol for authentication in hosl
+
+attachments of transient storage devices [S]. 2010: 1-125.  
+[2]Pham D V, Syed A,Halgamuge MN. Universal serial bus based softwareattacks and protectionsolutions [J]. Digital Investigation,2011,7 (3-4):172-184.  
+[3]张慧敏.USB 存储设备安全机制的研究与实现[D]．成都：电子科技大学,2016.  
+[4]吕志强，刘喆，常子敬，等．恶意 USB 设备攻击与防护技术研究[J].信息安全研究,2016,2(2):150-158.  
+[5] 刘一．对我军移动存储介质安全保密管理的思考[J].信息安全与技术，2012, 3 (10): 8-9.  
+[6]赵松银，郁滨.USB安全连接方案设计与实现[J]．系统仿真学报,2016(6): 1400-1405.  
+[7]Yang FY, WuTD,Chiu S H.Asecure controlprotocol forUSB masstoragedevices [J].IEEE Trans on Consumer Electronics,2011,56 (4): 2239-2343  
+[8] Chen B, Qin C, Yu L.A secure access authentication scheme for removablestorage media [J]. Journal of Information & Computational Science,2012.9 (15): 4353-4363,  
+[9]Lee C C,Chen C T,Wu PH, et al. Three-factor control protocol based oneliptic curve cryptosystem for universal serial bus mass storage devices [J].Iet Computers & Digital Techniques,2013,7(1): 48-56.  
+[10] He D,Kumar N,Lee JH,et al. Enhanced three-factor security protocol forconsumer USB mass storage devices[J]. IEEE Trans on ConsumerElectronics,2014,60 (1): 30-37.  
+[11] Giri D,SherrattRS,Maitra T,etal.Efficientbiometricand password basedmutual authentication for consumer USB mass storage devices [J]. IEEETrans on Consumer Electronics,2016,61 (4): 491-499.  
+[12] Giri D,SherrattRS, Maitra T.A novel andefficient session spanningbiometric and password based three-factor authentication protocol forconsumer USB Mass Storage Devices [J]. IEEE Trans on ConsumerElectronics,2016,62 (3): 283-291.  
+[13] Amin R,Sherratt R S,Giri D,et al. Asoftware agent enabled biometricsecurity algorithm for secure file access in consumer storage devices [J].IEEE Trans on Consumer Electronics,2017,63(1): 53-61.  
+[14]王黎，蔡皖东．移动存储介质安全管理系统设计与实现[J].信息安全与通信保密,2007,25(2):119-121.  
+[15]杨先文，李峰，王安，等．密码安全USB设备控制器IP的系统设计[J].华中科技大学学报：自然科学版,2010(9):59-62.  
+[16]李翠，郁滨．一种具有身份认证功能的 USBIP 核设计与实现[C]/计算机技术与应用学术会议论文集.2012:580-585.  
+[17]王冠，李天亮．一种基于安全芯片的可信移动存储设备的双向认证机制[J].计算机与应用化学,2013(5):15-18.  
+[18]张学思，基于移动存储设备的多密级安全交互系统设计与实现[D].郑州：信息工程大学,2015.  
+[19]丁贤根．用无线认证终端授权认证及加解密的安全U 盘设计方法：中国,103366797B [P]. 2016.

@@ -1,0 +1,179 @@
+1 饲粮中金针菇菌渣水平对山羊屠宰性能及肉品质的影响
+
+2 孟梅娟涂远璐白云峰高立鹏严少华刘建宋谦(江苏省农业科学院六合动物科学基地，南京210014)
+
+4 摘要;本试验旨在研究饲粮中金针菇菌渣水平对山羊屠宰性能及肉品质的影响。试验选用  
+5 28只体重为（ $2 3 . 3 5 { \scriptstyle \pm 2 . 4 5 }$ ）kg的波杂羊（波尔山羊 $\times$ 徐淮山羊），随机分成4组（每组7  
+6 只），分别饲喂含0（A组，作为对照组） $1 5 \%$ （B组）、 $2 5 \%$ （C组）、 $40 \%$ 金针菇菌渣（D  
+7 组）的试验饲粮。试验羊单独饲喂，在试验结束时（饲喂45d后）进行屠宰，分别测定山  
+8 羊的屠宰率、眼肌面积以及背最长肌的 $\mathfrak { p H }$ 、色度、剪切力、蒸煮损失率和滴水损失率。结  
+9 果表明：1）C 组的屠宰率与B组差异不显著（ $P { > } 0 . 0 5 \$ ，但显著高于A和D组（ $_ { ( P < 0 . 0 5 ) }$ ·  
+10 C 组的屠宰率分别比A、B 和 $\mathrm { ~ D ~ }$ 组提高了 $2 . 4 6 \%$ 、 $1 . 3 5 \%$ 和 $8 . 3 2 \%$ 。B 和C组的眼肌面积与  
+11 A组差异不显著（ $_ { P > 0 . 0 5 }$ ，但显著高于D组（ $P { < } 0 . 0 5 \mathrm { : }$ )。2）C组山羊的背最长肌的滴水损  
+12 失率与B和D组差异不显著（ $_ { . P > 0 . 0 5 } )$ ，但显著低于A组（ $P { < } 0 . 0 5 )$ ；与A、B和D组相比，  
+13 C 组山羊的背最长肌的蒸煮损失率显著降低（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ；B、C和D组的剪切力差异不显著  
+14 （ $P { > } 0 . 0 5 )$ ，但均显著低于A组（ $P { < } 0 . 0 5 \rangle$ 。饲粮中添加不同水平的金针菇菌渣对山羊背最  
+15 长肌宰后 $4 5 \ : \mathrm { { m i n } \ : \mathrm { { p H } \ : \left( \mathrm { { p H } _ { 4 5 \ : \mathrm { { m i n } } } } \right) } }$ 、宰后 $2 4 \mathrm { { h } \ p H \ ( p H _ { 2 4 h } ) }$ 、红度 $\left( { \bf a } ^ { * } \right)$ ）值和黄度（ $\left. \mathbf { b } ^ { * } \right.$ ）值无显  
+16 著影响（ $. P { > } 0 . 0 5 )$ ，但能显著降低背最长肌亮度 $\langle \mathrm { L } ^ { * }$ ）值。由此可见，饲粮中添加不同水平  
+17 的金针菇菌渣对山羊的屠宰性能以及肉品质产生不同程度的影响，饲粮中金针菇菌渣水平为  
+18 $2 5 \%$ 时对提高山羊的屠宰性能以及改善肉品质方面具有较好的效果。
+
+关键词：山羊；金针菇菌渣；屠宰率；肉品质中图分类号：S963 文献标识码：A 文章编号：
+
+随着人们生活水平的提高，消费者对肉品质的要求也越来越高[1-3]。羊肉因其具有蛋白质高、胆固醇低、脂肪少、容易消化吸收等优点，越来越受到国内外消费者的欢迎[4。我国是食用菌生产大国，随着食用菌的大量生产，食用菌的下脚料——菌渣也越来越多[5]，这些菌渣不仅来源广、价钱低且具有较高的营养价值，因此，如何利用这些下脚料越来越受到人们的关注。研究表明，将金针菇菌渣饲喂奶牛[]、肉牛[7]和肉羊[8-10]，在降低饲料成本的同时，对其日增重均有不同程度的提高。盛清凯等8用金针菇菌渣饲喂肉羊后发现试验组肉羊平均日增重比对照组高 $1 6 . 5 8 \%$ ，表明金针菇菌渣提高了肉羊的产肉性能。李进杰等在饲粮中添加平菇菌糠后发现试验组比对照组日增重提高 $34 . 5 \%$ 。由此可见，菌渣可以很好的用作动物饲料，这不仅可以解决目前粗饲料匮乏的现状，还可以降低饲料成本、促进菌渣的循环利用[11-13]。但是目前关于菌渣在山羊屠宰性能以及肉品质方面的研究相对较少。因此，本试验以波杂山羊为研究对象，用金针菇菌渣替代山羊饲粮中的稻草，旨在研究饲粮中金针菇菌渣水平对山羊屠宰性能以及肉品质的影响，对其在山羊生产当中的应用效果进行评价，为研究开发山羊菌渣饲料、缓解饲料不足、提高养殖经济效益提供理论基础。
+
+1材料与方法
+
+1.1试验设计
+
+本试验于2016年3月在江苏省农业科学院六合基地羊场进行。挑选健康、年龄接近、体重为（ $2 3 . 3 5 { \scriptstyle \pm 2 . 4 5 }$ ） $\mathbf { k g }$ 的波杂山羊（波尔山羊 $\cdot \times$ 徐淮山羊）28只，随机分成4组（每组7只），分别饲喂含0（A组，作为对照组）、 $1 5 \%$ （B组）、 $2 5 \%$ （C组）、 $40 \%$ （D组）金针菇菌渣的试验饲粮。在正试期前先预饲7d，正试期 $4 5 \mathrm { d } _ { \circ }$ 在试验开始时空腹称重，并随机进行分组，各组试验动物初始体重差异不显著（ $P { > } 0 . 0 5 \mathrm { ; }$ )。在试验结束当日对所有羊只禁食（自由饮水）24h后进行屠宰，测定屠宰性能以及肉品质。
+
+1.2金针菇菌渣的来源及营养成分
+
+将由玉米芯、米糠、棉籽壳、大豆皮等栽培原料发酵后的金针菇收获后，去掉外层塑料袋，用手将菌糟掰成小块，晾晒，将干燥且无污染的金针菇菌渣作为供试材料。经测定，金针菇菌渣的干物质、粗蛋白质、中性洗涤纤维、酸性洗涤纤维和粗灰分含量分别为 $9 4 . 4 1 \%$ ，$12 . 9 1 \%$ 、 $5 5 . 0 3 \%$ 、 $34 . 2 8 \%$ 和 $9 . 9 4 \%$ 。
+
+1.3饲养管理和试验饲粮
+
+根据试验设计，并参考NRC（1985）[14]山羊营养需要配制试验饲粮，其组成及营养水平见表1。本试验中试验羊采用单栏饲喂，每天分别于08:00和17:00各饲喂1次，自由饮水。
+
+表1试验饲粮组成及营养水平(干物质基础)  
+Table 1Composition and nutrient levels of experimental diets (DM basis)   
+
+<html><body><table><tr><td>项目Items</td><td colspan="4">组别 Groups</td></tr><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>原料 Ingredients</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>玉米 Maize</td><td>28.07</td><td>28.50</td><td>28.34</td><td>28.19</td></tr><tr><td>豆粕 Soybean meal</td><td>8.90</td><td>7.26</td><td>5.80</td><td>4.30</td></tr><tr><td>麸皮Wheat bran</td><td>8.80</td><td>8.00</td><td>8.80</td><td>7.49</td></tr><tr><td>小麦Wheat</td><td>3.30</td><td>3.50</td><td>4.34</td><td>5.90</td></tr><tr><td>金针菇菌渣 Enoki mushroom residue</td><td>0.00</td><td>15.00</td><td>25.00</td><td>40.00</td></tr><tr><td>稻草 Straw</td><td>48.00</td><td>34.92</td><td>25.00</td><td>11.50</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.24</td><td>1.10</td><td>1.02</td><td>0.91</td></tr><tr><td>石粉 Limestone</td><td>0.69</td><td>0.72</td><td>0.70</td><td>0.71</td></tr><tr><td>预混料 Premix1)</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00.</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>10.99</td><td>11.05</td><td>11.16</td><td>11.34</td></tr><tr><td>中性洗涤纤维 Neutral detergent fiber</td><td>36.98</td><td>36.92</td><td>36.58</td><td>36.29</td></tr><tr><td>消化能 Digestible energy/(MJ/kg)</td><td>10.84</td><td>10.52</td><td>10.35</td><td>10.14</td></tr><tr><td>钙Ca</td><td>0.65</td><td>0.65</td><td>0.65</td><td>0.65</td></tr><tr><td>磷P</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr></table></body></html>
+
+1预混料为每千克饲粮提供 The premix provided the following per kg of diets:VA 66 000 IU, $\mathrm { V D } _ { 3 } 8 0 0 0 0$ （204号 IU，VE 1 490 IU, $\mathrm { F e S O _ { 4 } } 3 4 5 . 1 5 \mathrm { m g }$ ， $\mathrm { C u S O _ { 4 } 8 8 m g }$ ， $\mathrm { K _ { 2 } S O _ { 4 } } 2 5 3 . 6 \mathrm { m g }$ ， $\mathrm { Z n S O _ { 4 } 2 8 5 . 7 \ m g }$ ， $\mathrm { M n S O _ { 4 } } 2 2 0 . 1 5 \mathrm { m g }$ $\mathrm { C o C l } _ { 2 } 1 . 2 5 \ : \mathrm { m g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } } 4 4 . 7 5 \mathrm { m g }$ ，莫能菌素 monensin $3 0 . 0 0 \mathrm { m g }$ ， $\mathrm { N a H C O _ { 3 } } 3 7 0 4 . 5 5 \mathrm { m g }$ 2 消化能为估测值，其余为实测值。DE was a estimated value,while the others were measured values.
+
+1.4屠宰性能指标的测定
+
+按常规屠宰方法去头、蹄、尾及内脏（保留肾和板油）[15]，测量胴体重、眼肌高和宽，计算屠宰率和眼肌面积。宰前活重：绝食24h后山羊实际体重，即用秤分别称取每只试验羊的体重。胴体重：指屠宰放血后，去皮、头、内脏及前肢膝关节和后肢趾关节以下部分后，整个躯体（包括肾脏及其周围脂肪）静置 $3 0 \mathrm { m i n }$ 后的重量。屠宰率：指胴体重占宰前活重的百分比。屠宰率 $( \% ) =$ [胴体重（kg）/宰前活重（kg） $] \times 1 0 0$ 眼肌面积：测量第12\~13肋之间脊椎上眼肌的横切面积。先用硫酸绘图纸描绘出眼肌横切面的轮廓，再计算出眼肌面积。眼肌面积采用格子法计算，即将硫酸纸上的眼肌面积轮廓复写在座标纸上，数格计算眼肌面积。1.5肉品质指标的测定
+
+9 宰后1h内取胴体左侧背最长肌约 $2 0 0 \ \mathrm { g }$ 装入样品袋中，4℃保存。
+
+# 1.5.1 pH的测定
+
+在测定 $\mathfrak { p H }$ 之前，对pH计（HANNA，HI9125）进行校正（ $\mathrm { p H } { = } 4 . 0 1$ ， $\mathrm { \ p H { = } } 6 . 8 6 \dot { . }$ ，将校正好的pH计插入宰后 $4 5 \mathrm { m i n }$ 和4°℃冷藏 $2 4 \mathrm { h }$ 的背最长肌中，分别测定宰后 $4 5 \mathrm { \ m i n ( p H _ { 4 5 \mathrm { \ m i n } } , }$ 和 $2 4 \mathrm { h }$ 的背最长肌pH $ { \mathrm { ( p H } } _ { 2 4 \mathrm { h } } )$ ，每个样品测定3次，最后取平均值[16]。
+
+# 1.5.2 色度的测定
+
+利用CR-400 色差计进行背最长肌色度的测定。测定前，先用白色校正板进行校正[17]。测定4℃冷藏 $2 4 \mathrm { h }$ 的背最长肌的色度，在每块背最长肌的3个不同位置重复测定3次，取平均值。结果用CIE色度系统的亮度 $( \mathrm { L } ^ { * }$ ）值、红度（ $\cdot \mathtt { a } ^ { * }$ ）值和黄度 $( 6 ^ { * }$ ）值表示。
+
+1.5.3滴水损失率的测定
+
+滴水损失率的测定参照孟梅娟等[18]的方法略作修改。宰后 $2 4 \mathrm { h }$ ，取背最长肌肉样，去除肉面的筋膜，顺着肌纤维的方向将肉样修剪成 $2 \mathrm { c m } { \times } 3 \mathrm { c m } { \times } 5 \mathrm { c m }$ 的肉块、称重，将肉样用金属钩吊起。然后在4℃冰箱中悬挂 $2 4 \mathrm { h }$ ，取出肉样，用滤纸吸去肉样表面水分，称重。滴水损失率计算公式如下：
+
+滴水损失率 $( \% ) = [$ （始重-末重）／始重 $] \times 1 0 0 \text{‰}$
+
+1.5.4蒸煮损失率的测定
+
+宰后 $^ { 4 8 \mathrm { ~ h ~ } }$ ，取约 $_ { ( 4 0 \pm 0 . 5 ) \mathrm { g } }$ 的背最长肌肉块，称重，放入自封袋中，然后将肉样在 $7 5 \mathrm { ~ ~ } ^ { \circ } \mathrm { ~ C ~ }$ 水浴锅中蒸煮 $1 0 \mathrm { m i n }$ ，蒸煮后冷却到室温，用吸水纸吸干肉羊表面的汁液，称重[19]。蒸煮损失率计算公式如下：
+
+蒸煮损失率 $( \%$ ）=[（始重-末重）／始重 $] \times 1 0 0 \text{‰}$ （20
+
+1.5.5剪切力的测定
+
+剪切力的测定参照 Bouton 等[20]的方法略作修改。将测定完蒸煮损失率后的肉样顺着肌纤维方向用剪刀修成直径为 $1 . 2 7 \mathrm { c m }$ 、长度为 $3 { \sim } 5 ~ \mathrm { c m }$ 的肉样，每组3个重复，用沃布氏嫩度仪沿肌纤维垂直方向剪切肉柱，测定剪切力。每个样品测定3次，取平均值。
+
+1.6统计分析
+
+所有数据均用Excel2010建立数据库，利用SASV8软件包对试验数据进行单因素方差分析，并进行Duncan氏法多重比较和Pearson相关性分析。 $P { < } 0 . 0 5$ 表示差异显著。
+
+2结果
+
+972.1 饲粮中金针菇菌渣水平对山羊屠宰性能的影响  
+98 由表2可知，A、B、C组的空腹重、胴体重差异不显著（ $_ { , P > 0 . 0 5 ) }$ ，A和C组的空腹重、
+
+胴体重显著高于D组（ $_ { . P < 0 . 0 5 ) }$ ，B组的空腹重、胴体重与D组差异不显著（ $P { > } 0 . 0 5 \$ ；C组的屠宰率分别比A、B 和 $\mathrm { ~ D ~ }$ 组提高了 $2 . 4 6 \%$ （ $P { < } 0 . 0 5 \$ ） $1 . 3 5 \%$ （ $P { > } 0 . 0 5 \$ 和 $8 . 3 2 \%$ $( P { < } 0 . 0 5 )$ 。B 和C组的眼肌面积与A组差异不显著（ $P { > } 0 . 0 5 \rangle$ ，但均显著高于D组（ $P { < } 0 . 0 5 )$ 。
+
+Table 2Effects of dietary enoki mushroom residue level on slaughter performance of goats   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>空腹重Body weight/kg</td><td>33.74±2.74a</td><td>30.66±4.93ab</td><td>32.89±1.89a</td><td>30.07±1.25b</td></tr><tr><td>胴体重 Carcass weight/kg</td><td>16.61±1.34a</td><td>15.25±1.22ab</td><td>16.57±1.12a</td><td>13.99±0.81b</td></tr><tr><td>屠宰率Dressing percentage/%</td><td>49.18±0.81b</td><td>49.72±0.97ab</td><td>50.39±0.65a</td><td>46.52±0.81c</td></tr><tr><td>眼肌面积 Loin-eye area/cm²</td><td>11.85±0.87ab</td><td>12.70±1.62a</td><td>12.87±0.55a</td><td>10.77±1.52b</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $_ { . P > 0 . 0 5 } )$ ，不同小写字母表示差异显者（ $P { < } 0 . 0 5 )$ 。下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant diference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ .The same as below.
+
+表2饲粮中金针菇菌渣水平对山羊屠宰性能的影响  
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="4">组别 Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>pH45min</td><td>6.66±0.08</td><td>6.53±0.20</td><td>6.55±0.20</td><td>6.57±0.17</td></tr><tr><td>pH24h</td><td>5.56±0.25</td><td>5.58±0.28</td><td>5.58±0.26</td><td>5.66±0.12</td></tr></table></body></html>
+
+2.2饲粮中金针菇菌渣水平对山羊肉品质的影响
+
+2.2.1饲粮中金针菇菌渣水平对背最长肌pH的影响
+
+由表3可知，4组试验羊背最长肌的 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 差异不显著（ $_ { , P > 0 . 0 5 } )$ ，且4组的 $\mathrm { \ p H } _ { 4 5 \mathrm { \ m i n } }$ 在 $6 . 5 3 \sim 6 . 6 6$ 之间；此外，4组试验羊背最长肌的 $\mathrm { p H } _ { 2 4 \mathrm { h } }$ 差异也不显著（ $P { > } 0 . 0 5 \$ ）°
+
+表3饲粮中金针菇菌渣水平对山羊背最长肌pH的影响
+
+2.2.2饲粮中金针菇菌渣水平对山羊背最长肌滴水损失率、蒸煮损失率和剪切力的影响由表4可知，A组试验羊背最长肌的滴水损失率、蒸煮损失率与B和D组差异不显著1 $P { > } 0 . 0 5 )$ ，但显著高于C组（ $. P { < } 0 . 0 5 )$ ；B、C和D组试验羊背最长肌的剪切力差异不显著中 $_ { ( P > 0 . 0 5 ) }$ ，但均显著低于A组（ $_ { , P < 0 . 0 5 ) }$ 。
+
+Table 3Effects of dietary enoki mushroom residue level on pH of longissimus dorsi muscle of goats   
+表4饲粮中金针菇菌渣水平对山羊背最长肌滴水损失率、蒸煮损失率和剪切力的影响 Table 4Efects of dietary enoki mushroom residuE level on drip loss rate,cooking loss rate and shear force of longissimus dorsi muscle in goats   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>滴水损失率 Drip loss rate/%</td><td>3.73±0.92a</td><td>3.38±0.05ab</td><td>2.70±0.45b</td><td>3.46±0.28ab</td></tr><tr><td>蒸煮损失率 Cooking loss rate/%</td><td>26.50±1.67a</td><td>24.55±0.99a</td><td>22.17±1.98b</td><td>24.79±0.87a</td></tr><tr><td>剪切力 Shear force/N</td><td>48.16±1.33a</td><td>43.23±1.87b</td><td>42.12±0.93b</td><td>43.92±1.13b</td></tr></table></body></html>
+
+# 2.2.3饲粮中金针菇菌渣水平对山羊背最长肌色度的影响
+
+由表5可知，A组试验羊背最长肌的 ${ \mathrm { L } } ^ { * }$ 值显著高于B、C和 $\mathrm { ~ D ~ }$ 组（ $_ { , P < 0 . 0 5 ) }$ ，但B、C和D组间差异不显著（ $P { > } 0 . 0 5 \$ ；4组试验羊背最长肌的 $\mathtt { a } ^ { * }$ 值和 ${ \mathfrak { b } } ^ { * }$ 值差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表5饲粮中金针菇菌渣水平对山羊背最长肌色度的影响  
+Table 5Effects of dietary enoki mushroom residue level on color scale of longissimus dorsi muscle of goats   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">组别Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>亮度L*</td><td>38.29±1.07a</td><td>36.21±1.92b</td><td>35.32±1.94b</td><td>35.76±1.19b</td></tr><tr><td>红度a*</td><td>15.40±1.77</td><td>14.69±1.60</td><td>15.63±1.00</td><td>14.48±0.85</td></tr><tr><td>黄度b*</td><td>6.82±1.12</td><td>6.49±0.97</td><td>6.82±1.11</td><td>6.10±1.38</td></tr></table></body></html>
+
+3讨论
+
+3.1饲粮中金针菇菌渣水平对山羊屠宰性能的影响
+
+屠宰性能是反映动物生产性能的重要指标，也是判断饲粮合理性的重要依据。山羊的屠宰性能代表山羊的产肉能力，是决定养殖效益的关键指标之一。随着饲粮中金针菇菌渣水平的增加，山羊的屠宰率呈现先升高后降低的趋势。这说明饲粮中添加金针菇菌渣可提高山羊的屠宰率，但过量添加金针菇菌渣则会降低山羊的屠宰率，所以饲粮中金针菇菌渣的添加量应适宜。这可能是由于金针菇菌渣中含有的生物活性物质会改善瘤胃发酵环境，促进粗纤维在瘤胃中的消化，从而提高营养物质的表观消化率，或者是金针菇菌渣在瘤胃中被微生物分解的某些代谢产物促进了某些营养成分的吸收，使蛋白质沉积增加，促进动物生长，进而使屠宰率升高[]；而过量的金针菇菌渣降低了山羊的屠宰率，则可能是因为随着饲粮中金针菇菌渣水平的增加，金针菇菌渣中含有的棉籽壳的量逐渐的积累，刺激瘤胃蠕动，加快了食糜的流通速度，降低了食糜在消化道内的停留时间，使养分不能充分消化和吸收，食糜中营养成分没有充分吸收便被排出，进而降低了营养物质的表观消化率[21]，从而使屠宰率下降。眼肌面积与家畜产肉性能具有相关性，一般眼肌面积越大，瘦肉率就会越高。本试验中C组山羊的眼肌面积与B组差异不显著，但显著高于A和D组。因此，B和C组山羊表现出良好的产肉性能。
+
+# 3.2饲粮中金针菇菌渣水平对山羊肉品质的影响
+
+羊肉的pH反映了羊屠宰后肌糖原的酵解速度和强度[22]，其高低直接影响羊肉的嫩度、色度、贮藏和蒸煮损失率等指标[23-26]。宰后 $4 5 { \sim } 6 0 \ \mathrm { m i n }$ 的 pH 是区分生理正常和异常肉质的重要指标[27]，屠宰时的pH在6.0\~7.0 为正常肉质[28]。本研究中，4组山羊背最长肌的 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 在
+
+$6 . 5 3 \sim 6 . 6 6$ 之间，都符合正常肉质标准。与 $\mathrm { p H } _ { 4 5 \mathrm { m i n } }$ 相比较，各组山羊背最长肌的 $\mathfrak { p H } _ { 2 4 \mathrm { h } }$ 均出现了下降的现象，动物屠宰后 $\mathfrak { p H }$ 下降是由于动物屠宰后血液循环停止，肌肉细胞由有氧化呼吸变为无氧呼吸，动员大量肌糖原产生乳酸，使肌肉pH下降。韩晓雷等[29研究表明，pH在 $5 . 9 { \sim } 6 . 4$ 间为新鲜肉； $6 . 4 \sim 6 . 6$ 间为次鲜肉； $\mathfrak { p H }$ 大于6.7则为变质腐败肉。本试验中，与对照组相比， $1 5 \% . 2 5 \%$ 和 $40 \%$ 金针菇菌渣添加组山羊背最长肌的 $\mathfrak { p H } _ { 2 4 \mathrm { h } }$ 未出现显著变化，并且在新鲜肉范围内。
+
+# 删除的内容：pH
+
+蒸煮损失率反映了肉品烹调加工过程中水分损失的程度。一般来说，肌肉的蒸煮损失率越小，其保水性就越好，肉品质也就越好此外，肌肉蒸煮损失率与系水力也紧密相关。本试验中，A组山羊背最长肌的蒸煮损失率最高，这可能与A组的pH较其余组低有关，因为低pH 可使肌肉内膜受损，从而使肌肉内的水分流失，导致蒸煮时损失增加；B、C 和D 组山羊背最长肌的蒸煮损失率低于A组，其中以C组的蒸煮损失率最低，这说明饲粮中添加金针菇菌渣有降低羊肉蒸煮损失率的作用，其中以25%金针菇菌渣添加组的降低作用最明显。肉品的嫩度是评价食用品质的性状之一[30]，它决定了肉在食用时的口感。羊肉的嫩度是指羊肉煮熟后易于被嚼烂的程度，或者说是羊肉对撕裂和碎裂的抵抗程度[22]，在一定程度上反映了肌肉中肌原纤维、结缔组织以及肌肉脂肪的含量、分布和化学结构[31-34]。剪切力是反映嫩度的重要指标，剪切力越小，表明肌纤维越细、肉质越好，则口感越好；剪切力越大，表明嫩度越差[35]。本试验中，B、C 和D 组山羊背最长肌的剪切力均显著低于A组，且以C组降幅最大，这表明饲粮中添加金针菇菌渣可以提高羊肉的嫩度，其中以 $2 5 \%$ 金针菇菌渣添加组的效果最为明显。
+
+系水力是影响肉品质的一个重要指标，对肉的滋味、香气、营养成分、多汁性、嫩度、色泽等有很大的影响[36-39]，一般用滴水损失率来评价系水力。滴水损失率越低，系水力越高，系水力高表示保水性能强，肉质柔嫩，肉品质好。肌肉的系水力直接受pH的影响。当pH升高时，蛋白质分子间静电荷增多，系水力提高。在一定范围内， $\mathfrak { p H }$ 高的肌肉，其嫩度也高。肉色是评价羊肉色泽的感官指标之一，是判断羊肉好坏的重要指标，鲜肉的颜色是消费者对肉的购买欲望的决定性因素之一[40-41]。滴水损失率与肉色有显著的相关性，滴水损失率越高，肉质表面水分越多，水分损失就会越大， ${ \mathrm { L } } ^ { * }$ 值越大，肉质越差。本试验中，A组山羊背最长肌的滴水损失率最高，其L\*值亦最大；C 组山羊背最长肌的滴水损失率最低，其L\*值最低。与A组相比，B、C和D组山羊背最长肌的滴水损失率和 ${ \mathrm { L } } ^ { * }$ 值都有不同程度是下降。这说明在饲粮中添加金针菇菌渣可降低羊肉的滴水损失率，改善肉色，其中以 $2 5 \%$
+
+'6金针菇菌渣添加组的效果最为明显。本试验中，在饲粮中添加不同水平的金针菇菌渣对山羊7 背最长肌的 $\mathbf { a } ^ { * }$ 值和 ${ \mathfrak { b } } ^ { * }$ 值未产生显著影响。  
+'8 4结论  
+9 饲粮中添加不同水平的金针菇菌渣对山羊背最长肌的 $\mathrm { \ p H } _ { 4 5 \mathrm { m i n } } .$ ， $\mathsf { p H } _ { 2 4 \mathrm { h } }$ 、 $\mathbf { a } ^ { * }$ 值和 ${ \mathfrak { b } } ^ { * }$ 值无显:0 著影响，但可有效提高山羊的屠宰率、眼肌面积，降低背最长肌的 ${ \mathrm { L } } ^ { * }$ 值、滴水损失率、蒸11 煮损失率和剪切力，其中以 $2 5 \%$ 添加量的效果最为明显。  
+:2 参考文献  
+3 [1]郭健.世界肉羊业现状与甘肃肉羊产业化发展对策[J].中国草食动物,2004(S1):62-63.i4 [2]钱勇,钟声,张俊,等.南方农区不同饲养方式和类群羔羊胴体品质及肉质比较[J].家畜生态:5 学报,2015,36(4):29-34.  
+6 [3]肖西山.中国肉羊业的发展现状与对策[J].中国草食动物,2001,3(1):33-35.  
+：7 [4] 王锋,孙永成,王子玉,等.营养水平对波杂羔羊产肉性能和羊肉品质的影响[J].江苏农业学18 报,2010,26(6):1288-1292.  
+19 [5]戴和珍.食用菌菌渣利用研究现状[J].农业开发与装备,2015(11):57.  
+0 [6]蒋明琴.食用菌糠替代部分精料饲喂奶牛效果好[J].中国农村科技 2006(5):30-31.1 [7]姜殿文,宫志远,盛清凯.金针菇菌渣日粮对肉牛生产性能的影响[J].中国草食动12 物,2011,31(5):32-34.  
+13 [8]盛清凯,宫志远,陶海英.金针菇菌渣在肉羊育肥中的应用[J].饲料博览,2011(3):1-3.14 [9] 李进杰,焦镭,李鹏伟.平菇菌糠在肉羊育肥中的应用[J].河南畜牧兽医,2005,26(3):5.15 [10]刘志芳,王建武,杨瑞基,等.杏鲍菇菌糠对奶牛、肉牛、肉羊饲喂效果研究[J].饲料工16 业,2013,34(9):33-37.  
+17 [11]Shehata S M,Shimi SAE,Elkattan MH,etal.Integrated waste management for rural18 development in Egypt[J].Journalof Environmental Scienceand Health PartA：Toxic/hazardous19 Substances and Environmental Engineering,2004,39(2):341-349.  
+10 [12]成娟丽,张福元.新型饲料资源——菌糠饲料的开发应用进展[J].饲料博  
+11 览,2006(7):35–37.  
+12 [13]潘军,刘博,廉红霞,等.菌糠在饲料中的应用研究[J].家畜生态学报,2010,31(3):88-94.13 [14]NRC.Nutrient requirements of sheep[S].6th ed.Washington,D.C.:National Academy of14 Sciences,1985:45-73.  
+15 [15]张英杰,刘月琴,孙占鹏.[M].北京:中国农业大学出版社,2010.
+
+[16]STRAADTI K,RASMUSSEN M,ANDERSEN H J,et al.Aging-induced changes in microstructure and water distribution in fresh and cooked pork in relation to water-holding capacity and cooking loss-A combined confocal laser scanning microscopy (CLSM) and low-field nuclear magnetic resonance relaxation study[J].Meat Science,2oo7,75(4):687-695. [17]GAO T,LI JL,ZHANG L,et al.Effect of different tumbling marination treatments on the quality characteristics of prepared pork chops[J].Asian-Australasian Journal of Animal Sciences,2015,28(2):260-267. [18]孟梅娟,高峰,高立鹏,等.不同粗饲料来源的饲粮对山羊屠宰性能及肉品质的影响[J].动 物营养学报,2015,27(8):2572-2579. [19]YUSOP S M,O'SULLIVAN M G,KERRY JF,et al.Influence of processing method and holding time on the physical and sensory qualities of cooked marinated chicken breast fillets[J].LWT-Food Science and Technology,2012,46(1):363-370. [20]BOUTON PE,HARRIS P V,SHORTHOSE W R.Effect of ultimate pH upon the water-holding capacity and tenderness of muton[J].Journal of Food Science,2oo6,36(3):435-439. [21]于家丰,刘显军,边连全.不同品种及其杂交组合育肥猪肉pH值和滴水损失的比较研究 [J].当代畜牧,2006(2):46-48. [22]孙金娟,刘凯.识别PSE肉与DFD肉的"慧眼"[J].食品安全导刊,2009(2):44-45. [23]王丽.日粮白酒糟水平对山羊生产性能和营养物质表观消化率影响[D].硕士学位论文. 保定：河北农业大学,2014. [24]陈艳珍.羊肉品质的评定指标及影响因素[J].黑龙江畜牧兽医,2011(14):53-54. [25]高爱琴,陶晓臣,王贵应,等.乌拉特羊肉品质特性研究[J].黑龙江畜牧兽医,2011(4):31-33. [26]GAULT NF.The relationship between water-holding capacity and cooked meat tenderness in some beef muscles as influenced by acidic conditions below the ultimate pH[J].Meat Science,1985,15(1):15-30. [27]石风华.非常规饲料替代玉米饲喂肉牛对瘤胃发酵、养分消化率、生产性能和胴体品质 的影响[D].博士学位论文.北京:中国农业大学,2014. [28]WATANABE A,DALY C C,DEVINE C E.The effects of the ultimate pH of meat on tenderness changes during ageing[J].Meat Science,1996,42(1):67-78. [29]韩晓雷,杨增.测定牛肉pH值对其新鲜度判定应用研究[J].养殖技术顾问,1998(3):1. [30] 曾勇庆,孙玉民,王慧,等.青山羊肉品理化性状及其食用品质的研究[J].山东农业大学学 报:自然科学版,1999,30(4):384-389. 37 [31]夏安琪.宰前管理对宰后羊肉品质的影响[D].硕士学位论文.北京:中国农业科学
+
+院,2014.   
+[32]戴瑞彤,杨龙江,吴国强.肉类质量的研究进展[J].肉类研究,2000(2):11-13.   
+[33]曾勇庆,王慧,储明星.小尾寒羊肉品理化性状及食用品质的研究[J].中国畜牧杂 志,2000,36(3):6-8.   
+[34]ILIANMA,MORTON JD,KENT MP,et al.Intermuscular variation in   
+tenderness:association with the ubiquitous and muscle-specific calpains[J].Journal of Animal Science,2001,79(1):122-132.   
+[35]刘兴余,金邦荃.影响肉嫩度的因素及其作用机理[J].食品研究与开   
+发,2005,26(5):177-180.   
+[36]郭建凤,王彦平,王继英,等.大约克、杜洛克及长白猪生长性能及胴体肉品质比较[J].养 猪,2013(4):41-44.   
+[37]杨富民.肉用杂种一代羊肉品质特性研究[D].博士学位论文.兰州:甘肃农业大学,2004. [38]万发春,张幸开,张丽萍,等.牛肉品质评定的主要指标[J].中国畜牧兽   
+医,2004,31(12):17-19.   
+[39]HUFF-LONERGAN E,LONERGAN S M.Mechanisms of water-holding capacity of meat:the role of postmortem biochemical and structural changes[J].Meat   
+Science,2005,71(1):194-204.   
+[40]吴桂苹.肉的颜色变化机理及肉色稳定性因素研究进展[J].肉类工业,2006(6):32-34. [41]KHLIJI S,VAN DER VEN R V D,LAMB TA,et al.Relationship between consumer ranking of lamb colour and objective measures of colour[J].Meat Science,2010,85(2):224-229.   
+Effects of Dietary Enoki Mushroom Residue Level on Slaughter Performance and Meat Quality of Goats²   
+MENG MeijuanTU Yuanlu BAI Yunfeng\*GAO LipengYAN Shaohua LIU Jian SONG Qian   
+(Liuhe Animal Science Base of Jiangsu Academy of Agricultural Science, Nanjing 210014, China)   
+Abstract: The experiment was conducted to investigate the effects of dietary enoki mushroom residue level on slaughter performance and meat quality of goats.A total of 28 healthy Boer hybrid goats (Boer goatsxXuhuai goats) with an average body weight of $( 2 3 . 3 5 { \pm } 2 . 4 5 ) \$ kgwere
+
+randomly allotted to 4 groups with 7 goats per group.Goats in the 4 groups were fed 4 experiment diets,which contained O (group A), $1 5 \%$ (group B), $2 5 \%$ (group C) and $40 \%$ enoki mushroom residue (group D),respectively. Goats were fed individually and slaughtered at the end of the experiment (after feeding 45 days).Respectively,the dressing percentage,loin-eye area of goats and the pH,color scale,share force,cooking loss rate and dropping lossrate of longissimus dorsi muscle were measured. The results showed as follows: 1) the dressing percentage of group C was not significant different with group B $( P { > } 0 . 0 5 )$ ,but significantly higher than that of groupsA and D $( P { < } 0 . 0 5 )$ ； the dressing percentage of group C was increased by $2 . 4 6 \%$ ， $1 . 3 5 \%$ and $8 . 3 2 \%$ （204 compared with groups A,B and D,respectively. The loin-eye area of groups B and C was not significant different with group A $( P { > } 0 . 0 5 )$ ,but it was significantly higher than that of group D $_ { ( P < 0 . 0 5 ) }$ .The drip loss rate of longissimus dorsi muscle of group C was not significant different with groups B and D $( P { > } 0 . 0 5 )$ ，but it was significantly lower than that of group A $( P { < } 0 . 0 5 )$ Compared with groups A,B and D,the cooking loss rate of longissimus dorsi muscle of group C wassignificantly decreased $( P { < } 0 . 0 5 )$ .Diets adding different levels of enoki mushroom residue had no effects on the $\mathfrak { p H }$ of $4 5 ~ \mathrm { { m i n } }$ after slaughter $\mathrm { ( p H _ { 4 5 \operatorname* { m i n } } ) }$ ， $\mathsf { p H }$ of $2 4 \mathrm { ~ h ~ }$ after slaughter $\mathrm { ( p H } _ { 2 4 \mathrm { h } } )$ redness $( \mathfrak { a } ^ { * } )$ value and yellowness $( \mathsf { b } ^ { * } )$ value of longissimus dorsi muscle $( P { > } 0 . 0 5 )$ , but it could significantly reduce the lightness $( \mathrm { L } ^ { * } )$ value.It is concluded that diets adding different levels of enoki mushroom residue have different efects on slaughter performance and meat quality of goats, and the effect of the $2 5 \%$ enoki mushroom residue on improving slaughter performance and meat quality is better. Key words: goats; enoki mushroom residue; dressing percentage; meat quality

@@ -1,0 +1,190 @@
+# 沙漠腹地醉鱼草(Buddlejaalternifolia)栽培苗对水盐胁迫的响应
+
+张静1,4，常青134，柴朝晖5，范文鹏，徐新文1,34，范敬龙1.3.4，李生宇2.34，彭慧清
+
+(1中国科学院新疆生态与地理研究所塔克拉玛干沙漠研究站，新疆 库尔勒 841000；2中国科学院新疆生态与地理研究所莫索湾沙漠研究站,新疆 石河子832000；3国家荒漠-绿洲生态建设工程技术研究中心,新疆乌鲁木齐830011；4中国科学院大学,北京100049；5亿利阿拉尔生态科技有限公司,新疆 阿拉尔843300；6四川省仪陇中学校,四川 南充637000；7 中国石油塔里木油田公司,新疆 库尔勒 841000)
+
+摘要：为了研究盐、旱及其交互胁迫下植物生长和生理特性的变化，了解沙漠腹地极端生境下互叶醉鱼草(Buddleja altermifolia)幼苗的适应性,确定合理的灌溉方式，为沙漠腹地醉鱼草的引种提供理论依据。通过大田控制实验，设计了3个水分梯度和4个盐分梯度随机结合实验，定位测量生长量和生化指标，最后基于隶属函数法综合评价醉鱼草的抗旱耐盐性。结果表明：(1)在干旱胁迫或低浓度盐胁迫下,醉鱼草的地径、新枝和冠幅生长量均呈上升趋势，而在高盐浓度胁迫下均降低;水盐交互胁迫下,不同的盐浓度与干旱交互胁迫效果不同,低盐浓度与干旱交互胁迫时( $\mathrm { W } _ { 1 } \mathrm { S } _ { 1 }$ 、$\mathrm { W } _ { 2 } \mathrm { S } _ { 1 } \mathrm { \hbar } .$ ),植物生长量均上升，高盐浓度与干旱交互胁迫时 $\left( \mathbb { W } _ { 1 } \mathbf { S } _ { 3 } \setminus \mathbb { W } _ { 2 } \mathbf { S } _ { 3 } \right)$ ，植物生长量均降低。（2）无论是盐胁迫、干旱胁迫还是盐、旱交互胁迫，醉鱼草游离脯氨酸( $\scriptstyle \left( \operatorname* { P r o } \right)$ 含量随着胁迫程度的增加均呈显著上升的趋势。(3）醉鱼草的超氧化物歧化酶(SOD)活性和过氧化物酶(POD)活性变化相对复杂，除了在干旱胁迫时,SOD活性和POD活性都显著下降外,在盐胁迫和交互胁迫时它们各自的变化并不一致。醉鱼草在盐胁迫、交叉胁迫和干旱胁迫时,渗透调节物质和酶活性各自对应的发生了变化，没有明显的同步性,存在相互协调的可能，同时植物细胞的敏感性远远强于表型生长的变化，高盐浓度的伤害并没有表现在植物外部形态上，但酶活性及渗透调节物质却有显著变化。通过隶属函数分析显示，醉鱼草最佳的生长水盐条件是盐浓度为 $8 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 、灌水量为 $2 5 \mathrm { L }$ ·次-，对水盐胁迫的抗旱耐盐性为：干旱胁迫 $>$ 交互胁迫 $>$ 盐胁迫。
+
+关 键 词：干旱胁迫；盐胁迫；交互胁迫；互叶醉鱼草；生理特征文章编号：
+
+互叶醉鱼草(Buddlejaalternifolia)别名紫花醉鱼木，为马钱科醉鱼草属植物，是西北干旱半干旱区典型的乡土树种，园林绿化、生态恢复的优良灌木，株型优美、花朵芳香，极具观赏价值。原生环境为宁夏贺兰山东麓半荒漠地带，具有耐旱、耐寒、耐贫瘠、抗盐碱、生长迅速、无病虫害和适应性极强等特点,对土壤无特殊要求,在沙土、沙壤土及壤土上生长良好，可与干旱区荒漠林业生态建设结合，营造大面积生态园林景观。不同植物在逆境条件下响应机制和适应能力不同，同种植物在不同程度的胁迫下其形态生长及生理代谢不同，针对特定环境引种恰当植物种，可以丰富植物多样性分布范围，改善局部生态环境。目前醉鱼草的研究主要集中于引种、繁殖、栽培技术[1-5]、生物化学成分[6-8]、叶解剖特征[9-10]等方面，而在逆境胁迫下对环境的响应及适应性研究少。
+
+本文研究靶区位于塔克拉玛干沙漠腹心的中科院塔克拉玛干沙漠研究站，是国内唯一深人流动沙漠腹地的特殊环境监测和研究基地，也是研究特殊环境下植物适应性、植物与环境相互作用极佳的场所[]。沙漠腹地气候极端干旱，,降水稀少，无地表径流，主要灌溉水源为高矿化度的地下水[12]，所以，水分和盐分成为植物生长面临的主要威胁。严重的干旱和高浓度盐分使植物内部产生极为复杂的响应过程，会导致植物代谢紊乱，抑制植物的生长甚至死亡，许多植物在此环境下生长，均表现出与外界迥异的适应性特点。本文研究醉鱼草在干旱、盐分及旱、盐交互胁迫条件下植物的表型生长特征，以及细胞内抗氧化酶系统和渗透调节物质的变化，了解植物的抗旱抗盐机理，确定合理的灌溉水量和耐盐范围，为极端条件下植物的引种提供合理的依据，为荒漠植物观赏性的功能延伸，起到极强的推动作用。
+
+# 1试验区概况
+
+塔克拉玛干沙漠研究站塔中植物园["位于塔克拉玛干沙漠腹地 $( 3 9 ^ { \circ } 0 0 ^ { \prime } \mathrm { N } , 8 3 ^ { \circ } 4 0 ^ { \prime } \mathrm { E } )$ ,海拔 $1 ~ 1 0 0 \mathrm { m }$ ，年均气温 $1 2 . 4 ~ \mathrm { { ^ { \circ } C } }$ ，最热月7月份平均气温 $2 8 . 2 ~ \mathrm { ^ { \circ } C }$ 极端最高气温 $4 5 . 6 ~ \mathrm { { ‰} }$ ，极端最低气温 $- 2 2 . 2 \mathrm { ~ \textdegree C }$ ，年降水量 $3 6 . 6 \mathrm { m m }$ ,年日照时数 $2 5 7 1 . 3 \mathrm { h }$ ,平均相对湿度 $2 9 . 4 \%$ 。年潜在蒸发量 $3 6 3 8 . 6 \ \mathrm { m m }$ ,平均风速$2 . 5 \ \mathrm { m \cdot s ^ { - 1 } }$ 最大瞬时风速 $2 4 . 0 \ \mathrm { m \cdot s ^ { - 1 } }$ ，风沙活动强烈园内土壤绝大部分为流动风沙土，结构松散，土壤水分含量不足 $0 . 5 \%$ ,盐分含量 $1 . 2 6 \sim 1 . 6 3 ~ \mathrm { g \cdot k g ^ { - 1 } }$ ，地下水矿化度达 $4 . 0 4 \ \mathrm { g \cdot L ^ { - 1 } }$ 。园内从各地引种多种能够适应干旱环境的植物，其中以多种属的怪柳和梭梭沙拐枣为主，利用地下水进行灌溉，灌水定额为$1 6 5 \mathrm { m } ^ { 3 } { \cdot } \mathrm { h m } ^ { - 2 }$ ,灌溉周期平均 $1 2 \mathrm { d }$ O
+
+# 2材料与方法
+
+# 2.1 实验材料
+
+选取园内生长状况一致的醉鱼草实生苗木作为供试材料，于当年4月移栽至实验小区内缓苗，至次年6月进行控制实验。苗木平均株高47.6cm，平均地径 $0 . 6 6 2 \mathrm { m m }$ ,种植株行距 $\boldsymbol { 1 } \mathrm { m } { \times } \boldsymbol { 1 } \mathrm { m }$ ,种植深度 $5 0 \mathrm { c m }$ 。
+
+# 2.2 实验方法
+
+采用双因素等重复试验方法，根据塔中地下水多种矿化度情况以及常规灌水措施的特点，选用工业盐(成分详见表1)根据所需比例配置4种浓度的灌溉咸水，分别为： $0 . 8 0 0 0 { \cdot } 1 3 0 0 0 { \cdot } 1 7 0 0 0 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ ，标记为 $\mathrm { S } _ { 0 } , \mathrm { S } _ { 1 } , \mathrm { S } _ { 2 } , \mathrm { S } _ { 3 }$ 。以及3个干旱胁迫梯度，分别为：$4 0 \mathrm { L } , 2 5 \mathrm { L } , 1 5 \mathrm { L }$ ，标记为 $\mathbb { W } _ { 0 } , \mathbb { W } _ { 1 } , \mathbb { W } _ { 2 }$ O
+
+共计12个处理，每个处理5个重复，以淡水、塔中正常灌水措施 $4 0 \mathrm { L }$ ·次-为对照(表2)。相邻处理之间埋设防渗膜隔离，用以防止灌溉水分和盐分的相互渗透对实验的影响，防渗膜埋深 $1 . 2 \mathrm { m }$ 。缓苗期间，依据塔中灌水措施充分灌溉，待苗木恢复正常生长后，于6月进行灌溉控制实验直至9月，灌水周期12d，灌水方式为滴灌。
+
+2.2.1生长指标的测定每次在灌水周期结束后，用卷尺测定醉鱼草的标定枝、冠幅；用游标卡尺测定地径。
+
+2.2.2生理指标的测定在控制实验结束后进行采样，叶片取样在早晨 $8 { : } 0 0 \sim 1 0 { : } 0 0$ 进行，每个处理取样3份，分别测定其相关指标。超氧化物歧化酶(SOD)活性采用氮蓝四唑法测定，过氧化物酶(POD)含量采用愈创木酚法[13-14]测定、脯氨酸(Pro)含量采用芘三酮比色法[15-16]测定。
+
+# 2.3数据处理
+
+实验结果采用SPSS19.0软件进行一般线性模
+
+# 表1工业盐成分分析
+
+Tab.1 Analysis of industrial salt composition   
+
+<html><body><table><tr><td rowspan="2">盐梯度</td><td colspan="8">化学成分/g·L</td></tr><tr><td>CO-</td><td>HCO3</td><td>Cl-</td><td>SO42-</td><td>Ca²</td><td>Mg2+</td><td>K+</td><td>Na+</td></tr><tr><td>S</td><td>0.000</td><td>0.021</td><td>1.417</td><td>0.063</td><td>0.013</td><td>0.008</td><td>0.005</td><td>1.141</td></tr><tr><td>S</td><td>0.000</td><td>0.013</td><td>3.129</td><td>0.073</td><td>0.022</td><td>0.005</td><td>0.005</td><td>1.839</td></tr><tr><td>S</td><td>0.000</td><td>0.017</td><td>6.111</td><td>0.083</td><td>0.030</td><td>0.008</td><td>0.006</td><td>3.899</td></tr></table></body></html>
+
+注：地下水中盐的化学成分主要是CI、 $\mathrm { . S O _ { 4 } } ^ { 2 - }$ 、Na",经检测工业盐中化学成分虽类型较多，但其主要成分还是以上3种
+
+# 干旱区地理
+
+# 表2实验设计方案
+
+Tab.2 Experimental design   
+
+<html><body><table><tr><td rowspan="2">干旱处理/ L·次-</td><td colspan="4">盐处理/mg·L-1</td></tr><tr><td>0 (CK)</td><td>8000</td><td>13 000</td><td>17 000</td></tr><tr><td>40 (CK)</td><td>WoS (CK)</td><td>S</td><td>S</td><td>S</td></tr><tr><td>25</td><td>W1</td><td>WS1</td><td>WS2</td><td>WS3</td></tr><tr><td>15</td><td>W2</td><td>W2S</td><td>W2S</td><td>W2S3</td></tr></table></body></html>
+
+型双变量分析和Duncan多重比较法进行差异显著性检验,显著性水平 $\scriptstyle a = 0 . 0 5$ 。采用Sigmaplot12.5与Excel2013进行图表绘制。
+
+# 3结果与分析
+
+# 3.1水盐胁迫下醉鱼草表型生长特征的变化
+
+由表3可以看出，在盐胁迫下，低盐浓度时植物各表型增长量均上升，在中盐浓度时开始降低，高盐浓度时降至最低。不同的处理下各个指标的差异性不同，低盐胁迫时，与对照(CK)相比，地径、冠幅增长量增加了 $8 4 . 0 8 \%$ 和 $3 7 . 4 3 \%$ ，差异显著( $\scriptstyle { \mathcal { P } } <$ 0.05),新枝增长量不显著;高盐胁迫时，各生长量均低于对照，且新枝、冠幅增长量与对照差异显著$( P < 0 . 0 5 )$ ，分别比对照降低了 $6 3 . 1 3 \%$ 和 $6 4 . 5 4 \%$ ，地径增长量虽明显降低，但与对照无显著差异（ $\mathbf { \nabla } \cdot P >$ 0.05)。表明盐胁迫对植物生长有明显刺激作用，低盐胁迫显著促进植物生长，而随着盐浓度的增加，促进作用减弱，至高盐胁迫时又显著抑制生长，说明醉鱼草是有一定耐盐性的,但耐盐能力是有限的，存在一定的耐盐阈值。
+
+在干旱胁迫下，各处理表型生长量均呈先增后减的趋势，但均高于对照。在 $\mathbb { W } _ { 1 }$ 时各生长量均显著升高（ $\left( P < 0 . 0 5 \right)$ ,地径、新枝和冠幅增长量分别比对照增加了 $1 3 2 . 1 8 \%$ ） $4 4 . 5 5 \%$ 和 $5 5 . 7 5 \%$ ，随着干旱程度的增加而降低。与对照相比，在 $\mathbb { W } _ { 2 }$ 时地径和冠幅增长量仍然增加了 $7 1 . 6 3 \%$ 和 $4 6 . 9 8 \%$ ,并差异性显著中 $\left( P < 0 . 0 5 \right)$ ,表明水分胁迫刺激植物生长[17],醉鱼草对干旱有较强的适应能力。
+
+干旱与不同盐分交叉胁迫下，随着盐浓度的增加，各表型增长量均呈先增后减的趋势。同等干旱条件下，与低浓度盐分交互时均有所上升，但无显著差异( $\lceil P > 0 . 0 5 \rceil$ ；与高浓度盐交互时，均降低，且基本上都与对照存在显著差异( $\left( P < 0 . 0 5 \right)$ ，地径、新枝、冠幅增长量分别降低了 $5 1 . 5 6 \%$ / $6 5 . 9 9 \%$ 和 $6 2 . 5 7 \%$ 0 $\mathbb { W } _ { 1 } \mathbf { S } _ { 3 }$ 时）， $6 9 . 5 5 \%$ ） $3 3 . 9 8 \%$ 和 $4 0 . 4 3 \%$ ( ${ \mathbb { W } } _ { 2 } { \mathbf { S } } _ { 3 }$ 时）。低浓度盐分的胁迫对干旱胁迫时的植物的耐盐性有一定提高;中度、重度浓度的盐分对干旱胁迫时植物的耐盐性有所减弱，且干旱程度越大，减弱能力就越强。说明在盐、旱交互胁迫时，植物表现出交叉适应性，其中盐胁迫起主要影响作用，由一般线性模型双变量分析显示，不同盐浓度及盐、旱交互胁迫对植物地径 $( F _ { \mathrm { \Pi _ { m i n } ^ { \pm \mathrm { h } } } } = 2 2 . 4 8 ^ { \ast \ast }$ $F _ { \ast } { = } 1 . 7 6$ ， $F _ { \frac { + \hbar } { \mathrm { m } } + \frac { \hbar } { \hbar } } =$ $3 . 5 8 ^ { * * }$ ）、新枝 $( F _ { \ 明 } = 3 4 . 1 8 ^ { * * } , F _ { \sharp } = 0 . 2 2 , F _ { \sharp \ast \ast \ast } = 4 . 3 1 ^ { * * } )$ 和冠幅 $( F _ { \ 明 } = 5 7 . 0 9 ^ { \ast \ast } , F _ { \sharp } { = } 1 . 2 5 , F _ { \ddagger + \sharp } { = } 5 . 1 8 ^ { \ast \ast } )$ 增长量都有极显著作用 $\left( P < 0 . 0 1 \right)$ )，而干旱胁迫对植物生长无显著影响。
+
+表3盐、旱及盐旱交互胁迫下醉鱼草生长指标的变化  
+Tab.3 Changes in growth indexes of Buddleja alternifolia under drought,salt stress and interaction stress   
+
+<html><body><table><tr><td>项目</td><td>处理</td><td>基径生长量/cm</td><td>新枝生长量/cm</td><td>冠幅生长量/cm</td></tr><tr><td>对照</td><td>CK</td><td>0.289±0.117cd</td><td>35.34±8.51bc</td><td>53.48±9.17b</td></tr><tr><td>盐胁迫</td><td>S</td><td>0.532±0.276ab</td><td>44.00±6.55ab</td><td>73.46±13.57a</td></tr><tr><td rowspan="3"></td><td>S</td><td>0.184±0.046de</td><td>43.30±9.11ab</td><td>55.84±10.03b</td></tr><tr><td>S</td><td>0.179±0.176de</td><td>16.22±4.20ef</td><td>26.06±6.94c</td></tr><tr><td>W</td><td>0.671±0.110a</td><td>50.16±7.67a</td><td>83.28±11.79a</td></tr><tr><td rowspan="6">干旱胁迫 交互胁迫</td><td>W2</td><td>0.496±0.110a</td><td>41.24±10.31bac</td><td>78.58±9.28a</td></tr><tr><td>WS</td><td>0.532±0.276bc</td><td>42.96±5.65ab</td><td>70.66±9.59a</td></tr><tr><td>WS2</td><td>0.273±0.067cde</td><td>31.80±8.24cd</td><td>56.00±3.22b</td></tr><tr><td>WiS3</td><td>0.140±0.047de</td><td>12.02±1.91f</td><td>20.02±7.16c</td></tr><tr><td>W2S</td><td>0.406±0.203bc</td><td>34.70±8.79bc</td><td>57.08±14.58b</td></tr><tr><td>W2S2</td><td>0.242±0.137cde</td><td>33.30±10.96bcd</td><td>52.30±15.91b</td></tr><tr><td></td><td>W2S3</td><td>0.088±0.081e</td><td>23.33±4.12de</td><td>31.86±8.55c</td></tr></table></body></html>
+
+注：相同字母表示各处理的差异不显著，不同字母表示差异显著( $\cdot P < 0 . 0 5$ ）
+
+# 3.2水盐胁迫对醉鱼生理特性的影响
+
+3.2.1水盐胁迫对超氧化物歧化酶活性的影响由图1可以看出，在单一盐胁迫下，SOD活性随着盐分的增加呈先降后升趋势，但仍显著低于对照( $\scriptstyle ( P <$ 0.05)，与对照相比，在低盐、中度、重度盐浓度下分别降低了 $4 1 . 5 0 \% , 1 4 . 3 4 \%$ 和 $1 3 . 3 2 \%$ 。
+
+在单一干旱胁迫下，SOD活性随着干旱胁迫的增强而逐渐降低。与对照相比，在 $\mathbb { W } _ { 2 }$ 时降低了$2 4 . 1 1 \%$ ,差异显著 $( P < 0 . 0 5 )$ ， $\mathbb { W } _ { 1 }$ 和 $\mathbb { W } _ { 2 }$ 之间差异不显著 $\mathrm { \Phi } ( P > 0 . 0 5 ) \mathrm { \Phi } ,$ )。另外，对照的灌水量是最大的，由图1可知,无论是在单一盐胁迫下还是单一干旱胁迫下，对照显著高于处理组，表明此时植物受到的水分胁迫的危害程度大于盐胁迫和干旱胁迫。虽然在植物表型上未出现明显的伤害症状，但细胞内对此胁迫很敏感,需要更多的酶清除有害物质[18]SOD是主要酶类物质之一。
+
+$\mathbb { W } _ { 1 }$ 干旱胁迫时，SOD活性随着盐浓度的增大先升后降，在与低浓度盐分交互时，与对照无显著差异 $( P > 0 . 0 5 )$ ，在与高浓度盐分交互时显著降低中 $\left( P < 0 . 0 5 \right)$ ，比对照降低了 $1 8 . 4 0 \%$ 。 $\mathbb { W } _ { 2 }$ 干旱胁迫时随着盐浓度的增大先升高再降低，在与中浓度盐分交互胁迫时，增加了 $2 . 9 2 \%$ ,与高浓度盐分交互时显著降低 $( P < 0 . 0 5 )$ ，比对照降低了 $2 4 . 1 1 \%$ 。说明中、低浓度盐胁迫对干旱胁迫起到缓解作用有关，交叉胁迫时无显著变化，而重度盐胁迫时，酶保护系统可能受到破坏，酶活性受到抑制，不足以清除氧自由基，对细胞膜产生伤害。在同等盐分胁迫下，不同的干旱胁迫和盐分交叉胁迫，SOD活性无明显的变化，低浓度盐分时SOD活性最低，说明干旱胁迫主要对植物受到盐胁迫起缓解作用。
+
+3.2.2水盐胁迫对过氧化物酶活性的影响由图2可以看出,在盐胁迫下，POD活性随着盐分的增加呈先降后升趋势。在 $\mathrm { S } _ { 2 }$ 时最小，与对照相比降低了$2 7 . 5 5 \%$ ，差异显著( $\left( P < 0 . 0 5 \right)$ ，在 $\mathrm { S } _ { 3 }$ 时虽与对照无显著差异，但与中低盐胁迫相比显著升高。说明在高盐胁迫时植物通过维持较高的POD酶活性，去有效地清除活性氧自由基，减少了膜结构和功能的损失，保持了一定的耐盐性。在干旱胁迫下，随着干旱程度的增强先升高后降低，但均高于对照，与对照相比，在 $\mathbb { W } _ { 1 }$ 时增加了 $5 5 . 1 0 \%$ ,且差异显著( $\scriptstyle ( P <$ 0.05)；在 $\mathbb { W } _ { 2 }$ 时增加了 $1 7 . 3 4 \%$ ，但差异却不显著( $\mathbf { \nabla } P >$ 0.05)。
+
+![](images/573d8718abbaee4796a0493fd28ad34f70e1740cb8365dd5ad656f815b389e63.jpg)  
+  
+图1单一胁迫及交互胁迫下超氧化歧化酶(SOD)活性的变化 Fig.1 Changes in SOD activity under single stress and interaction stress   
+图2单一胁迫及交互胁迫下过氧化物酶(POD)含量的变化  
+Fig.2Changes in POD content under single stress and interaction stress
+
+2001(@） ar 3001(b) a 2501 (c)   
+10 a 00 ab a工 a b工 b b b   
+DP DPP 100 C 100 C 50 50 50 0 0 0 CK S S S CK W1 W2 么 SSSSSS 盐胁迫 干旱胁迫 交互胁迫
+
+同等干旱条件下，POD活性随着盐浓度的增加先降后升，在与低盐、中浓度盐分交互时显著降低1 $\left( P < 0 . 0 5 \right)$ ，分别降低了 $1 3 . 2 9 \%$ 、 $4 6 . 8 2 \%$ （ $\mathrm { \widehat { S } } _ { 1 } \mathrm { W } _ { 1 }$ 和$\mathbf { S } _ { 2 } \mathbb { W } _ { 1 }$ 时）， $1 0 . 6 0 \% . 6 0 . 3 1 \% ( \mathrm { S } _ { 1 } \mathrm { W } _ { 2 }$ 和 $\mathrm { S } _ { 2 } \mathrm { W } _ { 2 }$ 时)；在与高浓度盐分交互时，与中低盐相比明显上升，但是与对照相比无显著差异 $\mathrm { \langle } P > 0 . 0 5 \mathrm { \rangle }$ )。在同等盐分胁迫下，不同的干旱程度和盐分交叉胁迫，POD活性无明显的变化。
+
+3.2.3水盐胁迫对脯氨酸含量的影响由图3可见，在单一盐胁迫下，随着盐浓度的增加，所有处理下叶片脯氨酸含量都明显增加，其增幅分别为$2 7 . 2 9 \%$ ） $3 8 . 5 8 \%$ 和 $2 9 . 8 1 \%$ ,且与对照存在显著差异中 $\left( P < 0 . 0 5 \right)$ ，同时高盐胁迫与中度盐胁迫相比稍有降低，说明盐浓度过高超过了脯氨酸的调节能力。在干旱胁迫下，脯氨酸含量也逐渐上升，在 $\mathbb { W } _ { 1 }$ 时增幅不显著( $\left( P > 0 . 0 5 \right)$ ，在 $\mathbb { W } _ { 2 }$ 时增幅达 $3 2 . 3 9 \%$ ,与对照存在显著差异( $\left( P < 0 . 0 5 \right)$ ，说明脯氨酸含量随着干旱胁迫的加深而积累。
+
+水盐交互作用下，随着胁迫程度的增强脯氨酸含量显著增加 $( P < 0 . 0 5 )$ 。所有处理与对照相比均差异显著( $\left( P < 0 . 0 5 \right)$ ，且 $\mathrm { S } _ { 3 } \mathrm { W } _ { 2 }$ 与其它处理相比也差异显著 $( P < 0 . 0 5 )$ ，比对照增加 $9 5 . 9 2 \%$ 。说明脯氨酸对外界胁迫非常敏感，尤其是盐胁迫，它是重要的渗透调节物质，在逆境过程中出现脯氨酸的大量积累，来调节植物细胞内部的渗透平衡，从而防止细胞的损伤，提高醉鱼草的抗逆能力。同时， $\mathbb { W } _ { 1 }$ 干旱与盐胁迫交互时，与单一干旱胁迫时不同的是脯氨酸含量的增加与对照有显著性差异，说明盐胁迫能够提高干旱胁迫对脯氨酸含量的积累。
+
+# 3.3醉鱼草在盐、旱及盐旱交互胁迫下的抗旱耐盐性综合评价
+
+采用隶属函数法[19-20]对单一胁迫以及交互胁迫
+
+的醉鱼草进行抗旱耐盐性评价，以确定各不同处理对醉鱼草的影响。隶属函数具体计算公式为：
+
+$$
+U { \big ( } X _ { i } { \big ) } = { \frac { X _ { i } - X _ { \operatorname* { m i n } } } { X _ { \operatorname* { m a x } } - X _ { \operatorname* { m i n } } } }
+$$
+
+式中： $X _ { i }$ 为参试样品某一指标的测定值; $X _ { \operatorname* { m a x } \setminus X _ { \operatorname* { m i n } } }$ 分别为所有试样中该指标的最大值和最小值。将每个试样的各项指标隶属函数值进行累加，求其平均值后，进行排序。平均值越大，代表醉鱼草在该处理下的适应性越强。
+
+由表4隶属函数综合评价发现：在盐胁迫下，隶属函数均值在CK时最大，盐浓度为 $8 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \big ( \mathrm { S } _ { 1 } \big )$ 次之,盐浓度为 $1 7 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } ( \mathrm { S } _ { 3 } )$ 时最小;在干旱胁迫下，隶属函数均值在灌水量为 $2 5 \mathrm { L }$ ·次 $^ { - 1 } ( \mathbb { W } _ { 1 } )$ 时最大，灌水量为 $1 5 \mathrm { ~ L ~ }$ ·次 $^ { - 1 } ( \mathbb { W } _ { 2 } )$ 时最小;在盐旱交互胁迫下，各处理的隶属函数均值大小依次为： $\mathrm { W } _ { 1 } \mathrm { S } _ { 1 } > \mathrm { C K } >$ $\mathrm { W } _ { 2 } \mathrm { S } _ { 1 } > \mathrm { W } _ { 2 } \mathrm { S } _ { 2 } > \mathrm { W } _ { 2 } \mathrm { S } _ { 3 } > \mathrm { W } _ { 1 } \mathrm { S } _ { 2 } > \mathrm { W } _ { 1 } \mathrm { S } _ { 3 }$ ，即在( $2 5 { \mathrm { ~ L } } \cdot$ 次 $^ { - 1 } +$ $8 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 } ) \mathrm { W } _ { 1 } \mathrm { S } _ { 1 }$ 最为突出。综上可知,在单一胁迫下盐浓度为 $\mathrm { S } _ { 1 }$ 、灌溉水量 $\mathbb { W } _ { 1 }$ 和交互胁迫浓度为 $\mathbb { W } _ { 1 } \mathbf { S } _ { 1 }$ 时，醉鱼草的抗旱耐盐性最为敏感，同时，单一盐胁迫、单一干旱胁迫和交互胁迫的隶属函数平均值的最大值相比较，干旱最突出，其次为交互胁迫和盐胁迫。
+
+# 4讨论
+
+植物地径、新枝长和冠幅是表征植物生长状态最常用的指标，其外部形态特征的变化是其逆境胁迫响应策略的综合体现，也是对植物逆境耐受能力的直接衡量指标[21]。胁迫对植物产生影响，植物的生长量与相对生长量可以直观地体现植物的耐逆性强弱，生长量和相对生长量越大者其抗逆性越强[22-24]。研究表明,在盐胁迫条件下植物的生长往往会受到抑制[25-26],但适度的盐胁迫对抗盐植物的生长具有促进作用[27-28],随着盐浓度的增加，抑制种子萌发和植物的营养生长和生殖生长，改变植物的形态和解剖学结构,甚至是死亡[29]。本实验研究发现，无论是单一胁迫还是交叉胁迫，不同的水盐处理下，醉鱼草地径、新枝、冠幅生长量不同，低盐胁迫时显著促进生长，中度盐胁迫时各有异同，而在高盐胁迫时又显著抑制，使其影响的大小又因灌溉水量的不同而不同，随着盐胁迫浓度的增加及灌溉水量的减少，醉鱼草各个生长量也随着减小，表明在干旱胁迫程度比较高的条件下，醉鱼草不仅受到盐胁迫，还受到干旱胁迫的影响，水盐双重胁迫严重抑制了生长。这主要是因为同样的土壤含盐量因为土壤含水量的不同导致土壤溶液的差异所致[30]。当土壤水分含量高，土壤溶液盐分浓度低，土壤水势高，植物不会产生水分亏缺，也就不会造成生理干旱，低盐浓度减轻了对苗木的离子毒害，因而对醉鱼草生长发育影响较小。而土壤水分含量过低，土壤溶液盐分浓度过高，造成土壤水势低，植物吸水困难及过量吸收盐害导致离子毒害，因而植物生长发育受到限制，生长量就小。干旱胁迫对植物生长有促进作用，当然干旱程度不同刺激的效果不同，干旱程度较低时，增长量显著，干旱程度较高时，增长不明显。综上盐胁迫和干旱胁迫都影响醉鱼草的生长，同时盐胁迫影响显著高于干旱
+
+![](images/7c63a6203ff61411e5e4ab572289cbfefa426104b1b106c5dcde6913ecc175a7.jpg)  
+图3单一胁迫及交互胁迫下脯氨酸(Pro)含量的变化  
+Fig.3Changes in Pro content under single stress and interaction stress
+
+表4单一胁迫及交互胁迫下醉鱼草的抗旱耐盐性综合评价  
+Tab.4ComprehensiveevaluationofdroughtandsalttoleranceofBuddlejaalternifoliaundersinglestressandinteractionstre   
+
+<html><body><table><tr><td rowspan="2">项目</td><td rowspan="2">处理</td><td colspan="7">隶属函数值U(xi)</td><td rowspan="2">排序</td></tr><tr><td>地径生长量</td><td>新枝生长量</td><td>冠幅生长量</td><td>SOD活性</td><td>POD含量</td><td>Pro含量</td><td>平均值</td></tr><tr><td>盐胁迫</td><td>CK</td><td>0.29</td><td>0.47</td><td>0.48</td><td>0.88</td><td>0.53</td><td>0.377</td><td>0.505</td><td>1</td></tr><tr><td rowspan="5"></td><td>S1</td><td>0.53</td><td>0.64</td><td>0.71</td><td>0.17</td><td>0.46</td><td>0.481</td><td>0.498</td><td>2</td></tr><tr><td>S</td><td>0.18</td><td>0.63</td><td>0.51</td><td>0.63</td><td>0.32</td><td>0.524</td><td>0.466</td><td>3</td></tr><tr><td>S</td><td>0.18</td><td>0.12</td><td>0.18</td><td>0.65</td><td>0.55</td><td>0.490</td><td>0.362</td><td>4</td></tr><tr><td>CK</td><td>0.29</td><td>0.47</td><td>0.48</td><td>0.88</td><td>0.53</td><td>0.377</td><td>0.505</td><td>2</td></tr><tr><td>W</td><td>0.67</td><td>0.76</td><td>0.82</td><td>0.57</td><td>0.94</td><td>0.005</td><td>0.627</td><td>1</td></tr><tr><td rowspan="7">交互胁迫</td><td>W2</td><td>0.49</td><td>0.59</td><td>0.77</td><td>0.48</td><td>0.66</td><td>0.002</td><td>0.498</td><td>3</td></tr><tr><td>CK</td><td>0.29</td><td>0.47</td><td>0.48</td><td>0.88</td><td>0.53</td><td>0.377</td><td>0.505</td><td>2</td></tr><tr><td>WiS</td><td>0.53</td><td>0.62</td><td>0.68</td><td>0.08</td><td>0.43</td><td>0.951</td><td>0.549</td><td>1</td></tr><tr><td>WiS2</td><td>0.27</td><td>0.41</td><td>0.51</td><td>0.20</td><td>0.17</td><td>0.754</td><td>0.386</td><td>6</td></tr><tr><td>W.S3</td><td>0.14</td><td>0.04</td><td>0.11</td><td>0.19</td><td>0.56</td><td>0.751</td><td>0.298</td><td>7</td></tr><tr><td>W2S</td><td>0.40</td><td>0.48</td><td>0.53</td><td>0.26</td><td>0.45</td><td>0.900</td><td>0.503</td><td>3</td></tr><tr><td>W2S2</td><td>0.24</td><td>0.44</td><td>0.47</td><td>0.28</td><td>0.07</td><td>0.948</td><td>0.408</td><td>4</td></tr><tr><td></td><td>W2S3</td><td>0.08</td><td>0.25</td><td>0.24</td><td>0.55</td><td>0.56</td><td>0.699</td><td>0.396</td><td>5</td></tr></table></body></html>
+
+胁迫。
+
+植物在逆境条件下，细胞会产生大量的 $\mathrm { O } _ { 2 }$ 和$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 等自由基，破坏细胞膜，干扰细胞的新陈代谢，使细胞膜丧失保护功能，引发膜脂过氧化作用，造成膜系统的伤害。不过，在生物系统进化过程中，细胞也形成了清除这些自由基和活胜氧的保护体系[31]。过氧化氢酶(CAT),POD,SOD,抗坏血酸过氧化物酶(APX)和谷胱甘肽还原酶(GR)等是重要的酶保护物质，在植物体内协同作用，可清除体内过量的活性氧，维持活性氧的代谢平衡，保护膜结构，从而使植物在一定程度上忍耐或抵御逆境胁迫的伤害3本文研究表明，SOD和POD活性在盐胁迫和交叉胁迫时，并没有随着盐浓度的增加出现先增加后降低的普遍规律，并且这两种酶也并没有明显的同步性;而在单一干旱胁迫下，随着干旱胁迫程度的增强，SOD活性显著降低，而POD活性却显著增加。其中，无论是在单一盐胁迫还是交叉胁下，在重度盐胁迫时，SOD活性显著降低，而POD活性明显上升；在低盐胁迫时两者均稍有降低，而在中盐胁迫时基本上都显著降低。在交叉胁迫时的干旱程度对它在盐浓度的影响并没有明显的缓解作用。但是这表明在干旱和盐胁迫时，植物在交叉适应的过程中可能存在相互协调的关系，并且POD和SOD在抗旱耐盐机制上有一定的差异性，并且盐胁迫是打破醉鱼草细胞代谢平衡的主要因素。
+
+脯氨酸( $\scriptstyle \operatorname* { P r o } ,$ 是一种常见的渗透调节物质，逆境条件下,植物细胞内会大量积累这些物质，以调节细胞内的渗透势,维持水分平衡[33]。目前有关干旱、盐渍等逆境下脯氨酸的生理机制存在不同的观点，其中，李合生[34]认为植物体内大量积累脯氨酸是对逆境的一种积极适应，脯氨酸作为渗透调节物质来降低细胞的渗透势，增强植物抗逆性。本研究发现,在盐胁迫、干旱胁迫及旱盐交互胁迫下，随着盐浓度和干旱程度的增强，醉鱼草脯氨酸含量持续增加，并显著高于对照。可见脯氨酸时重要的渗透调节物质，它对外界环境胁迫有很强的敏感性，醉鱼草会积累大量的脯氨酸来适应盐胁迫和干旱胁迫，是对逆境胁迫而采取的一种重要的保护性调节措施。
+
+# 5结论
+
+（1）醉鱼草生长对盐胁迫的响应具有层次性：低盐胁迫（ $\left( 8 \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \right)$ 促进生长，植物地径、新枝和冠幅生长量达到最大值;高盐胁迫( $\left. 1 7 \ \mathrm { g } \cdot \mathrm { L } ^ { - 1 } \right.$ 抑制生长，各生长指标增长量显著降低，但是植株依然能够存活，说明醉鱼草对盐胁迫有较强的耐受性。同时，干旱胁迫促进了醉鱼草生长，干旱程度越低，刺激生长的效果越明显，不适在水分过多的条件下生长。因此本地种植醉鱼草，采用地下咸水灌溉时，应当降低灌溉量至25L左右，更符合当地生态建设的实践需要。
+
+（2）醉鱼草叶片中的SOD活性、POD活性和Pro含量在不同胁迫条件下响应次序不同，SOD活性对盐胁迫响应最敏感;POD活性对干旱胁迫最敏感，Pro含量对植物交互胁迫最为敏感，其次是盐胁迫。(3）醉鱼草适应性强,并且在一定盐胁迫环境下可以很好生长，同时对不同胁迫有不同的响应机制，适度的交互胁迫还可以提高植物对逆境的适应性，因此醉鱼草可以作为沙漠腹地植物引种的备选树种。
+
+# 参考文献(References)
+
+[1]王军辉,张建国,许洋,等.耐旱灌木互叶醉鱼草的生物学特性 研究[J].中国野生植物资源,2007,26(6):23-25.[WANG Junhui, ZHANG Jianguo,XU Yang,et al. Study on biology characteristics of drought enduring shrub Buddleja alternifolia[J].Wild Plant Resources of China,2007,26(6): 23-25.]
+
+[2]邓莹,杨曦.紫花醉鱼草、香茶藨子在哈密石油基地种植技术研
+
+究[J].国土绿化,2018,(4): 53-54.[DENG Ying, YANG Xi. Study on the planting technology of Buddleja alternifolia and Ribes odoratum in Hami Oil Base[J].Land Greening,2018,(4): 53-54.] [3]季蒙,童成仁,莎仁.互叶醉鱼草引种及繁殖栽培技术研究[J]. 辽宁林业科技,1996,(4): 5-7.[JI Meng,TONG Chengren,SHA Ren. Study on introduction and reproductive cultivation techniques of Buddleja alternifolia[J].Liaoning Forestry Science and Technology,1996, (4): 5-7.] [4]桂炳中,高惠茹,刘雪云.华北地区大叶醉鱼草栽培管理[J].中 国花卉园艺,2015,(22):49-49.[GUI Bingzhong,GAO Huiru, LIU Xueyun. Cultivation and management of Buddleja alternifolia in north China[J]. China Flower Horticulture,2015,(22): 49-49.] [5]沈素莲,王丽琴,祁美丽,等.互叶醉鱼草的繁殖及栽培技术[J]. 现代农业,2012,(7):15-15.[SHEN Sulian,WANG Liqin,QI Meili,et al.Reproduction and cultivation techniques of Buddleja alternifolia[J]. Modern Agriculture,2012,(7): 15-15.] [6]詹寿发,陈晔,樊有赋.醉鱼草的化学成分与生物活性[J].生物 学教学,2011,36(10): 2-4.[ZHAN Shoufa,CHEN Ye,FAN Youfu.Chemical constituents and biological activities of Buddleja alternifolia[J]. Biology Teaching,2011,36(10): 2-4.] [7]张映华,李冲,张承忠,等.甘肃醉鱼草化学成分研究[J].中药 材,2005,28(11): 994-995.[ZHANG Yinghua,LI Chong,ZHANG Chengzhong,et al. Study on the terpenoids of chemical constituentsof Buddleja alternifolia[J]. Chinese Medicinal Materials,   
+2005,28(11): 994-995.] [8]蔡鲁,李彬,肖艳华,等.醉鱼草径叶的化学成分研究[J].国际药 学研究杂志,2015,42(5): 634-636.[CAI Lu,LI Bin,XIAO Yanhua,et al. Chemical constituents from stems and leaves of Buddleja lindleyana Fort[J]. International Journal of Pharmaceutical Research,2015, 42(5): 634-636.] [9]李爱平,王晓江,杨小玉,等.库布齐沙漠几种沙生灌木叶解剖 结构耐旱特征研究[J].中国沙漠,2010,30(6):1405-1410.[LI Aiping,WANG Xiaojiang,YANG Xiaoyu,et al.Evaluation of drought resistance capacity of desert shrubs in Hobq Desert based on characteristics of leaf anatomical structure[J]. Journal of Desert Research,2010,30(6): 1405-1410.] [10] 田英,倪细炉,于海宁,等.6种抗旱灌木叶片形态解剖学特征 [J].中国农学通报,2010,26(22):113-117.[TIAN Ying,NI Xilu, YU Haining,et al. Studies on drought resistance on morphology anatomical structure of leave of six species shrubs[J]. Bulletin of Chinese Agronomy,2010,26(22): 113-117.] [11]孙聪,徐新文,范敬龙,等.塔中沙漠植物园土壤水盐空间变异 性及合理取样数研究[J].中国生态农业学报,2010,18(3):514-   
+520.[SUN Cong,XU Xinwen,FAN Jinglong, et al. Spatial variability and rational sample number of soil water and salt in the Central Taklimakan Desert Botanical Garden[J]. Chinese Journal of Ecoagriculture,2010,18(3): 514-520.] [12] 李丙文,张洪江,邱永志,等.咸水灌溉对塔里木沙漠公路防护 林植物生长的影响[J].干旱区地理,2011,34(2):215-221.[LI
+
+Bingwen.ZHANG Hongjiang,QIU Yongzhi,et al.Effects of saline
+
+water irrigation on plant growth of shelterbelt along Tarim Desert highway[J].Arid Land Geography,2011,34(2): 215-221.]   
+[13]李合生.植物生理生化实验原理和技术[M].北京:高等教育出 版社,200o.[LI Hesheng.Principles and techniques of plant physiology and biochemistry[M]. Beijing: Higher Education Press,2000.]   
+[14]赵世杰,史国安,董新纯.植物生理学实验指导[M].北京:中国 农业科学技术出版社,2002.[ZHAO Shijie,SHI Guoan,DONG Xinchun.Experimental guidanceof plant physiologyM].Beijing: China Agricultural Science and Technology Press,2002.]   
+[15]王学奎,黄见良.植物生理生化实验原理与技术[M].北京:高等 教育出版社,2015.[WANG Xuekui,HUANG Jianliang.Principles and techniques of plant physiology and biochemistry experiment[M]. Beijing: Higher Education Press,2015.]   
+[16]高俊凤.植物生理学实验指导[M].北京:高等教育出版社, 2006.[GAO Junfeng.Experimental guidance of plant physiology [M]. Beijing: Higher Education Press,2006.]   
+[17] 刘璐,蒋进,宋春武.不同防护措施对梭梭幼苗生长和土壤水分 的影响[J].干旱区地理,2018,41(3):564-571.[LIU Lu, JIANG Jin,SONG Chunwu.Effectsof diferent protective measureson seeding growth and soil moisture of Haloxylon ammodendron[J]. Arid Land Geography,2018,41(3): 564-571.]   
+[18] 曹昀,纪欣圣,国志昌,等.土壤水分含量对草幼苗保护酶与 渗透调节物质的影响[J].干旱区地理,2018,41(4):780-785. [CAO Yun, JI Xinsheng, GUO Zhichang,et al. Effects of soil moisture content on protective enzymes and osmoregulation substances of Carex japonica seedlings[J].Arid Land Geography,2018, 41(4): 780-785.]   
+[19] 郭郁频,任永霞,刘贵河,等.外源钙和赤霉素对干旱胁迫下首 蓿幼苗生理特性的影响[J].草业学报,2015,24(7):89-96. [GUO Yupin,REN Yongxia, LIU Guihe,et al. Effects of calcium (CaCl2), GA3 and complex liquid on the physiological characteristics of alfalfaseedlingsunderdroughtstress[J].JoualofGassIn dustry,2015,24(7): 89-96.]   
+[20] 韩瑞宏,卢欣石,高桂娟,等.紫花苜蓿抗旱性主成分及隶属函 数分析[J].草地学报,2006,14(2): 142-146.[HAN Ruihong,LU Xinshi, GAO Guijuan, et al. Analysis of the principal components and the subordinate function of alfalfa drought resistance[J]. Journal of Grassland, 2006,14(2): 142-146.]   
+[21]SLAMA I, GHNAYA T, MESSEDI D,et al. Efct of sodium chloride on the response of the halophyte species Sesuvium portulacastrum grown in mannitol-induced water stress[J]. Journal of Plant Research,2007,120(2): 291.   
+[22] 史云光,宋刚,朱艳,等.6种园林彩叶植物的耐盐性评价[J].贵 州农业科学,2016,44(5):109-111.[SHI Yunguang,SONG Gang,ZHU Yan,et al.Evaluation on salt tolerance of six colorleafed garden plants[J]. GuizhouAgricultural Sciences，201644 (5): 109-111. ]   
+[23] 骆建霞,张会军,高菊红,等.两种地被植物生长及生理指标对 盐胁迫的响应[J].天津农学院学报,2012,19(4):1-4.[LUO Jianxia, ZHANG Huijun, GAO Juhong,et al. Responses of two groundcover plants to salt-stress in their growth and physiological characteristics[J]. Journal of Tianjin Agricultural College,2012,19 (4): 1-4.]   
+[24] 杨升,刘正祥,张华新,等.3个树种苗期耐盐性综合评价及指 标筛选[J].林业科学,2013,49(1):91-98.[YANG Sheng,LIU Zhengxiang, ZHANG Huaxin, et al. Comprehensive evaluation of salt tolerance and screening identification indexes for three tree species[J]. Forestry Science,2013,49(1): 91-98.]   
+[25] 李菊艳,赵成义,闫映宇,等.盐分对胡杨(Populus euphratica)幼 苗生长和离子平衡的影响[J].干旱区地理,2016,39(3):613- 620.[LI Juyan,ZHAO Chengyi,YANYingyu,etal.Efectfsalinityon growth,ionic homeostasis in organs of Populus euphratica seedlings[J].Arid Land Geography,2016,39(3): 613-620.]   
+[26] 周琦,祝遵凌,施曼.盐胁迫对鹅耳沥生长及生理生化特性的影 响[J].南京林业大学学报(自然科学版),2015,(6):56-60. [ZHOU Qi, ZHU Zunling,SHI Man. Effects of salt stress on growth,physiological and biochemical characteristics of Carpinus turczaninowii seedlings[J]. Journal of Nanjing Forestry University (Natural Science Edition),2015,(6): 56-60.]   
+[27]VICENTE O, BOSCAIU M, NARANJO MA, et al. Responses to salt stress in the halophyte Plantago crasifolia (Plantaginaceae) [J]. Journal of Arid Environments,2004,58(4): 463-481.   
+[28] 王树凤,胡韵雪,李志兰,等.盐胁迫对弗吉尼亚栎生长及矿质 离子吸收、运输和分配的影响[J].生态学报,2010,(17)：4609- 4616.[WANG Shufeng,HU Yunxue,LI Zhilan,et al. Effects of NaCl stresson growth, mineralionuptake,transport anddistribution of Quercus variabilis[J].Acta Ecologica Sinica,2010,(17): 4609-4616.]   
+[29] 张华新,刘正祥,刘秋芳.盐胁迫下树种幼苗生长及其耐盐性 [J].生态学报,2009,29(5): 2263-2271.[ZHANG Huaxin,LIU Zhengxiang,LIU Qiufang. Seedling growth and salt tolerance of tree species under NaCl stress[J].Acta Ecologica Sinica, 2009,29 (5): 2263-2271.]   
+[30] 王旭,田长彦,赵振勇,等.滴灌条件下盐地碱蓬(Suaeda salsa) 种植年限对盐碱地土壤盐分离子分布的影响[J].干旱区地理, 2020,43(1): 211-217.[WANG Xu,TIAN Changyan, ZHAO Zhenyong,et al.Efect of Suaeda salsa planting years onsoil salt ion distributionunderdripirrgation[J].AridLandGeography,020, 43(1): 211-217.]   
+[31] 陈辉蓉,吴振斌,贺锋,等.植物抗逆性研究进展[J].环境工程学 报,2001,2(3):7-13.[CHEN Huirong,WU Zhenbin,HEFeng,et al.Theresearch progressof plant stressresistance[J]. Jouralof Environmental Engineering,2001,2(3): 7-13.]   
+[32]LIANG Y, CHENQ,LIUQ,et al. Exogenous silicon (Si) increases antioxidant enzyme activity and reduces lipid peroxidation in roots of salt-stressed barley (Hordeum vulgareL.)[J].Journal of Plant Physiology,2003,160(10): 1157-1164.   
+[33] 刘正鲁,朱月林,胡春梅,等.氯化钠胁迫对嫁接茄子生长、抗氧
+
+# 干旱区地理
+
+化酶活性和活性氧代谢的影响[J].应用生态学报,2007,18(3): 537-541.[LIU Zhenglu,ZHU Yuelin,HU Chunmei,et al.Effects of NaCl stress on the growth,antioxidant enzyme activity and active oxygen metabolism of grafted eggplant[J]. Journal of Applied
+
+Ecology,2007,18(3): 537-541.][34]李合生.现代植物生理学[M].北京:高等教育出版社,2006.[LIHesheng.Modern plant physiology[M].Beijing:Higher EducationPress,2006.]
+
+# Response of Buddleja alternifolia seedlings to salinity and water stress in desert hinterland
+
+ZHANG Jing14， CHANG Qing1,34， CHAI Zhao-hui’， FAN Wen-peng6,XU Xin-wen13.4，FANJing-long1,34，LI Sheng-yu2²34，PENG Hui-qing
+
+(1TaklimakanesertResearchation,XijiangIstituteofcologyndGeographyhineseAcademyofiences,Krla 841000,Xinjiang,China;2MosuowanDesertResearchStation,XinjiangInstituteofEcologyandGeographyChinese   
+AcademyofScienceshihezi32o,Xinjang,China；3NationalEngineeingTechnologyResearchCenterforDeertOsis   
+EcologicalConstuctionUrumqiol1,Xinjang,China；4UniversityofineseAcademyofceneseijing0049, China；5YiliAlarEcologicalTechnologyCo.,Ltd,Alar84330o,Xinjiang,China;6YilongMiddleSchoolofSichuan Province,Nanchong637,ichuan,China;7PetroChinaTarimOilfieldCompany,Korla841o0,Xinjiang,hina)
+
+Abstract:This paper providesa theoreticalbasis forthe introductionof plant in the desert hinterland to study the changes of plant growth and physiological characteristics under salt,drought,and their interaction stress，to understand theadaptabilityof Buddleja alternifolia seedlings,anddetermine thereasonable irigation method in he extreme habitat of the desert hinterland,Xinjiang,China.Experimentsof randomcombinations of three field moisture gradients and four salt gradients were designed to controlthe growth and biochemical indicators.Finally, thedrought resistance and salt tolerance of Buddleja alternifolia were evaluated based onthe membership function method.The results showed as follows: (1) Under drought stressor low-salt stress,the growth of ground diameter, new shoots,and crownwidth of Buddeja alternifolia increased,but decreased under high salt stress；Under interaction stress,thesalt concentration was diferent from the drought stress.With low salt concentration and drought interaction （ $\mathsf { W } _ { 1 } \mathsf { S } _ { 1 }$ ，W2Si),the plant growth increased,while with high salt concentration and drought interaction ( $\mathbb { W } _ { 1 } \mathrm { S } _ { 3 }$ ，W ${ } _ { 2 } \mathrm { S } ;$ ), the plant growth decreased. (2) Regardless of the type of stress,the content of free proline (Pro)content of Buddeja alternifolia increased significantly with the increaseof stress.(3)The changes of superoxide dismutase (SOD)and peroxidase (POD) activities were relatively complex.Except for the drought stress, the SOD activityand POD activity are significantly decreased. Inconsistent changes were observed under salt stress and salt-drought interaction stress.This indicated that under salt stress,cross stress,anddrought stress,change in the corresponding osmotic adjustment substances and enzyme activities were observed,no obvious synchronization was found,a possibilityofcoordination exists,and the sensitivityof plantcells wasfound tobefar stronger han the phenotypic growth.Changes in the phenotypic growth under high salt concentration damage did not appear in the external morphologyof the plant.However,theenzyme activityand osmotic adjustment substances have significant changes.Finaly,the analysis of the membership functionshowed that the most suitable water and salt conditions for the Buddleja alternifolia were: salt concentration of $8 ~ \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ ,irrigation amount of $2 5 ~ \mathrm { L } \cdot \mathrm { t i m e s } ^ { - 1 }$ ,and drought and salt tolerance to water and salt stress: drought stress $>$ interaction stress $>$ salt stress.
+
+Key words: drought stress;salt stress; interaction stress； Buddleja alternifolia; physiological characteristic

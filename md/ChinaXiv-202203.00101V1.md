@@ -1,0 +1,228 @@
+# 天山科其喀尔冰川末端降水化学特征及控制因素
+
+王建¹，韩海东²，许君利'，颜伟³(1.盐城师范学院苏北农业农村现代化研究院,江苏 盐城224007；2.中国科学院西北生态环境资源研究院冰冻圈科学国家重点实验室，甘肃 兰州730000；3.信阳师范学院地理科学学院,河南 信阳464000)
+
+摘要：对内陆高寒山区的天山南坡科其喀尔冰川末端夏季降水进行采样,在分析各离子浓度、电导率和pH值的基础上,利用因子分析、富集因子及后向轨迹法,探讨区域降水的溶质来源及控制因素。结果表明：(1)科其喀尔冰川末端大气降水的 $\mathrm { \ p H }$ 值介于7.15\~8.52,整体偏弱碱性，阴、阳离子分别受 $\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\mathrm { C a } ^ { 2 + }$ 支配,属于典型 $\mathrm { H C O _ { 3 } } – \mathrm { C a }$ 型。白天降水的电导率和总离子浓度较夜间分别偏高 $1 1 . 5 6 \%$ 和 $9 . 4 0 \%$ ，这可能是在山谷风或冰川风作用下，塔里木盆地内气溶胶物质随近地层风从山麓地带与平原区迁移到研究区后湿沉降所致。（2）降水离子主要来自地壳源物质补给，占总离子量的 $8 5 . 5 4 \%$ 。其中 $\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\mathrm { C a } ^ { 2 + }$ 和 $\mathrm { M g ^ { 2 + } }$ 主要受侏罗系沉积层和第四系黄土沉积层中碳酸盐岩中 $\mathrm { \ C a _ { x } M g _ { 1 - x } C O _ { 3 } } ,$ 风化补给， $\mathrm { C l ^ { - } }$ 、 $\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\mathrm { N a ^ { + } }$ 和 $\mathrm { K ^ { + } }$ 主要受中亚与塔里木盆地因干旱而发育的盐湖(咸水湖)蒸发或冲积/洪积作用形成的盐土风化补给。降水中仅有 $4 1 . 5 2 \%$ 的 $\mathrm { N a } ^ { + }$ 和 $9 6 . 2 2 \%$ 的CI源自海洋源，且二者浓度之比为2.13:1，表明海洋源气团在长距离输送过程中明显地受到降水再蒸发作用和地表物质风蚀等因素的影响，导致海洋源补给量仅占降水总离子的 $4 . 8 7 \%$ 。源自人类活动补给的溶质约是海洋源的2倍，以 $\mathrm { N H } _ { 4 } ^ { + }$ 、 $\mathrm { N O } _ { 3 } ^ { - }$ 和 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 为主,可为高寒山区土壤形成和植被生长提供必要的氮、硫元素。（3）气团后向轨迹追踪表明,西风环流对天山南坡降水及化学组成影响非常显著，形成降水的频次和降水量平均分别占 $6 4 . 3 5 \%$ 和 $5 3 . 0 4 \%$ ，其降水的离子总浓度虽然仅为局地环流的$6 9 . 9 1 \%$ ，但 $\mathrm { N O } _ { 3 } ^ { - }$ 浓度平均为局地环流降水的1.42倍，间接表明塔里木盆地空气与水源质量可能受到中亚人类活动的影响。
+
+关键词：大气降水；溶质来源；人类活动；水汽输送；高寒山区
+
+大气降水物质组成的研究可以促进对土壤、水和空气质量等环境条件的了解。降水化学组成在区域尺度上受化合物的来源与量级，以及大气传输过程中气团内物质的化学反应和沉降过程等多因素的控制[1-3]。通过降水化学组成的富集因子分析及气团运动轨迹研究，有助于了解污染物来源及其对生态系统的作用[4-5]。若大气物质在转移过程中受到人类活动影响，沉降后，可能是有毒物质的来源,也可能是生态系统的营养源[6。在干旱半干旱地区，风蚀常强于水蚀，地表含氮、硫、钾等物质的粉尘，经远距离输送后受降水作用沉降，可以促进高寒地区植被生长，促进畜牧业发展和降低生态环境脆弱性[7]
+
+高寒山区作为我国西北干旱半干旱区的重要组成部分，不仅是内陆河流的发源地，也是众多天然牧场、林场的集聚中心。山区降水物质组成不仅影响冰雪的形成、积累和消融过程[8-9],也为山区土壤的形成及植被生长提供基础条件。已有高寒山区降水化学的研究集中于湿沉降物质对雪冰消融与水化学侵蚀强度的影响[10-11],以及现代降水和历史时期降水(冰芯记录)化学组成差异的对比分析等[12]。鲜有高寒山区降水的溶质来源与控制因素研究的报道[5]。
+
+近年来，位于“一路一带”重要节点的天山地区，区域经济飞速发展，工农(牧)业活动显著增强。在此期间，污染物经大气环流已扩散到内陆偏远的高寒山区[13-14],影响到降水水化学组成及高山植被发育。为此，本研究于2013—2014年6—9月对天山托木尔峰南坡科其喀尔冰川末端的大气降水进行系统采样，利用离子关系、因子分析、富集因子及后向轨迹法，分析高寒内陆山区降水化学特征及溶质来源，探讨海洋源和人类活动的贡献强度，为区域水环境安全发展提供参考。
+
+# 1研究区概况与方法
+
+# 1.1 研究区概况
+
+内陆高寒山区的降水采样点位于塔里木盆地北缘，距天山托木尔峰南坡科其喀尔冰川末端约1$\mathrm { k m }$ 的高山天然牧场内，与阿克苏市区直线距离约$4 5 \ \mathrm { k m }$ (图1)。采样点附近年平均气温约 $0 . 7 7 ^ { \circ } \mathrm { C }$ ，多年平均降水量约 $6 0 0 ~ \mathrm { m m }$ ,其中 $8 0 \%$ 发生在5\~10月的冰川消融及植被生长期[15]。天山冰川作用区作为塔里木河可靠的水源地，仅支流昆马力克河源区发育冰川面积达 $3 2 0 0 \mathrm { k m } ^ { 2 [ 1 6 ] }$ ，而广泛发育的现代冰川是冰川风形成的关键因素。
+
+天山冰川消融区覆盖大量松散表物[]，内含的可溶性物质是影响出山径流水质的重要因素[0]但受山区降水及冰面消融渗侵的影响，常处于湿润或冻结状态的表碛物较山麓与平原区松散物质而言，对降水化学组成的影响可以忽略。研究区南侧塔里木盆地内戈壁与荒漠分布广泛，发育的塔克拉玛干沙漠在多年平均降水量不足 $1 0 0 \mathrm { m m }$ ，蒸发量超过 $1 1 0 0 \mathrm { m m }$ ,年均风速 $1 . 7 { \sim } 1 . 8 \ \mathrm { m } { \cdot } \mathrm { s } ^ { - 1 }$ 的条件下[18],可为区域降水提供丰富的可溶性物质补给。同时，在西风环流作用下，托木尔峰西(北)侧中亚地区的松散物质和咸水湖(如伊塞克湖)蒸发物质，也可能成为塔里木地区风积物和气溶胶物质的重要补给源[13.19]。
+
+# 1.2数据采集与分析
+
+降水采样点设立在天山托木尔峰南坡科其喀尔冰川末端约 $1 ~ \mathrm { k m }$ 的气象观测场 $( 4 1 ^ { \circ } 4 2 ^ { \prime } \mathrm { N } , 8 0 ^ { \circ } 1 0 ^ { \prime } \mathrm { E }$ 海拔 $2 9 9 6 \mathrm { ~ m }$ ），于2013—2014年的6—9月（冰川消融和高山牧场的植被生长期)进行系统采样。降水开始后立即将已用去离子水洗净的镀瓷盆(直径30$\mathrm { c m }$ 。因区域内6月中旬以前和8月中旬以后降水多为雪、雨夹雪或冰雹等，故未采用降水采样器)放置于高约 $0 . 8 \mathrm { ~ m ~ }$ 的柱子上，降水结束后，随即用降水清洗已由去离子水洗过的聚乙烯样品瓶3遍后，装满封口（如果为固态降水，则先收集于密封袋中，压实
+
+![](images/c433334e7acb5d67d1de5f29ffd37438199f3ee79a1a203cacfc09ad41c39893.jpg)  
+图1天山科其喀尔冰川末端采样点位置
+
+Fig.1Location of atmospheric precipitation sampling points at theend oftheKoxkar Glacier,Tianshan Mountains排气后，待其在室温下自然融化后重复上述步骤）。之后，低温密封避光保存。本研究共收集降水样144个，从野外运回中国科学院冰冻圈科学重点实验室后，采用上海雷磁DDS-307A型电导率仪和PHSJ-3F型 $\mathrm { \ p H }$ 计分别测定电导率(EC)和 $\mathrm { \ p H }$ 值，采用Dinex-300离子色谱仪和Dinex $- 6 0 0$ 离子色谱仪测定阴离子( $\mathrm { C l ^ { - } }$ 、 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 和 $\mathrm { N O } _ { 3 } ^ { - }$ )和阳离子 $\mathrm { \langle N a ^ { + } , K ^ { + } }$ 、$\mathrm { M g } ^ { 2 + }$ ） $\mathrm { C a } ^ { 2 + }$ 和 $\mathrm { N H } _ { 4 } ^ { + }$ )。阴、阳离子测定浓度单位为 $\mu \mathrm { g }$ ${ \mathrm { L } } ^ { - 1 }$ ，误差在 $\pm 5 \%$ 之内[20]
+
+此外，为了便于验证数据可靠性及分析离子之间的关系，浓度单位 $\mu \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 换算成 $\boldsymbol { \mu } \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ ,换算公式为：
+
+$$
+C _ { _ i } { = } \frac { ( C _ { _ i } ^ { ' } \times 1 0 ^ { - 6 } ) \times e _ { i } } { M _ { i } } \times 1 0 ^ { 6 }
+$$
+
+式中： $C _ { i }$ 为降水中第 $i$ 离子的当量浓度 $( \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 } ) ; C _ { i } ^ { ' }$ 为第 $i$ 离子的质量浓度 $( \mu \mathrm { g } \cdot \mathrm { L } ^ { - 1 } )$ ； $e _ { i }$ 为第 $i$ 离子的电荷； $M _ { i }$ 为第 $i$ 离子的摩尔质量 $( \mathbf { g } \bullet \mathbf { m } \mathbf { o } ^ { - 1 } )$ ）
+
+同时，涉及的 $\mathrm { p H } \mathrm { , E C }$ 和离子浓度的平均值均为以降水量为权重的加权平均值，计算公式为：
+
+$$
+A _ { i } = \frac { \displaystyle \sum _ { j = 1 } ^ { n } \left( a _ { i , j } \times P _ { j } \right) } { \displaystyle \sum _ { j = 1 } ^ { n } P _ { j } }
+$$
+
+式中： $A _ { i }$ 为第 $i$ 离子的平均浓度 $\left( \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 } \right)$ ，或 $\mathrm { \ p H }$ 值,或 $\mathrm { E C } \left( \mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 } \right)$ ; $a _ { i , j }$ 为历次降水的各离子浓度，或$\mathrm { \ p H }$ 值,或EC; $P _ { j }$ 为历次降水事件的降水量 $( \mathbf { m m } ) : n$ 为降水事件的数量。
+
+# 1.3数据质量控制
+
+水体中阴、阳离子电荷通常处于1:1状态，但科其喀尔冰川末端降水中测定的总阴 $\big [ \mathrm { ~ \sum ~ } ( \mathrm { C l ^ { - } } { + } \mathrm { S O } _ { 4 } ^ { 2 - } +$ $\mathrm { N O } _ { 3 } ^ { - }$ )］、阳离子 $\mathrm { \small { [ ~ \sum ~ ( N a ^ { + } + K ^ { + } + M g ^ { 2 + } + C a ^ { 2 + } + N H _ { 4 } ^ { + } } }$ ）的电荷之比为1:6.34，说明测定的阴离子种类存在缺失。西北地区乌鲁木齐市[21]、伊宁市[22]、阿拉善右旗[23]等绿洲区降水，以及祁连山东段黑松驿[14]、哈密榆树沟[24和乌鲁木齐河源区[25等高寒地区降水的化学组成研究表明，因区域地表广泛分布的第四系松散堆积物中，富含大量碳酸盐岩的海/陆相沉积物及风积物等[26],降水中缺测的离子多为 $\mathrm { H C O } _ { 3 } ^ { - } /$ $\mathrm { C O } _ { 3 } ^ { 2 }$ 。考虑降水样品的 $\mathrm { \ p H }$ 值多小于8.5, $\mathrm { C O } _ { 3 } ^ { 2 - }$ 含量较少，因此,利用电荷平衡原理,降水中 $\mathrm { H C O } _ { 3 } ^ { - } =$ $\sum \left( \mathrm { N a ^ { + } + K ^ { + } + M g ^ { 2 + } + C a ^ { 2 + } + N H _ { 4 } ^ { + } } \right) - \sum \left( \mathrm { C l ^ { - } + S O _ { 4 } ^ { 2 - } + N O _ { 3 } ^ { - } } \right)$ ，（单位为 $\boldsymbol { \mu } \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ ,表1)[23.25]。计算的 $\mathrm { H C O } _ { 3 } ^ { - }$ 浓度与$\mathrm { C a } ^ { 2 + }$ 浓度的相关性为 $0 . 9 9 ( \mathrm { S i g . } { < } 0 . 0 1 )$ ,完全符合碳酸盐岩地区降水化学的特点[14.25],也说明数据质量整体上可靠。
+
+样品野外收集过程中可能受到沙尘、鸟粪和蒸发作用等不确定性因素的影响，对降水化学数据进行质量控制。在保证仪器测量方法正确与精度的前提下，剔除：（1）单次降水量 ${ < } 2 ~ \mathrm { m m }$ 的水化学数据组；(2)单次降水过程中，水面蒸发量超过降水量$5 \%$ 的水化学数据组；（3）各参数介于 $c _ { i } { \pm } 3 \Delta S _ { i }$ 之外的数据组，其中 $\boldsymbol { \mathbf { \mathit { c } } }$ 为各化学参数平均值， $i$ 为各主要离子、EC和 $\mathrm { \ p H }$ $\Delta S$ 为各化学参数的标准偏差[27]。剔除后，剩余134个样品数据。
+
+# 1.4富集因子
+
+在Keene等28提出定量化降水化学物质来源的基础上，肖辉等[29]对海洋源指示剂进行修正，富集因子法(EnrichmentFactor，EF)广泛应用于海洋源补给物质的辨别和补给强度的确定[14.30-31];同时,结合亲石元素Ca作为地壳源的参考元素，用于评估降水中地壳源的溶质富集过程及补给强度[5.14.32]。海洋源的参考元素浓度数据来自全球降水化学计划和大西洋西部实验测量[28]，地壳源的参考元素浓度/丰度数据来自黎彤[33等关于塔里木一华北板块的地壳和岩石圈元素丰度的研究结果。当EF值接近1时，评估离子/元素与参考源有类似的补给源；当$1 { < } \mathrm { E F } { \leqslant } 1 0$ 时，参考源是评估离子/元素的重要补给源之一；当 $\mathrm { E F } { > } 1 0$ 时，评估离子/元素浓度较参考源显著偏高，较参考源显著富集，参考源为非主要补给源；反之，EF值显著小于1时，该离子/元素被消耗或稀释[32.34]。鉴于研究区降水中 $\mathrm { N a ^ { + } / C l ^ { - } }$ 和 $\mathrm { M g ^ { 2 + } / C l ^ { - } }$ 的浓度比分别为2.13和2.09，均高于海水的相应值( $\mathrm { \Delta N a ^ { + } / }$ $\mathrm { C l \bar { \it { = } } } 0 . 8 5 9$ $\mathrm { M g ^ { 2 + } / C l ^ { - } { = } } 0 . 1 9 5 ,$ )，为此，本研究选用 $\mathrm { C l ^ { - } }$ 作为海洋源指示剂进行分析[29]。富集因子计算方程如下：
+
+表1不同时期降水化学组成的降水量加权平均值  
+Tab.1 Chemical composition of precipitation in different periods   
+
+<html><body><table><tr><td rowspan="2">时期</td><td rowspan="2">样品数</td><td colspan="10">离子浓度/(μeq·L-1)</td><td rowspan="2">电导率/(μS·cm-1)</td><td rowspan="2">pH</td></tr><tr><td>Cl-</td><td>SO-</td><td>NO3</td><td>HCO3</td><td>Na+</td><td>NH4</td><td>K+</td><td>Mg2</td><td>Ca2+</td><td>总离子</td></tr><tr><td>6月</td><td>45</td><td>17.38</td><td>24.77</td><td>18.97</td><td>383.28</td><td>40.70</td><td>43.81</td><td>3.07</td><td>43.06</td><td>313.77</td><td>888.81</td><td>49.54</td><td>7.97</td></tr><tr><td>7月</td><td>44</td><td>18.79</td><td>32.30</td><td>46.09</td><td>496.76</td><td>40.89</td><td>61.70</td><td>6.25</td><td>52.95</td><td>432.15</td><td>1187.88</td><td>64.70</td><td>7.74</td></tr><tr><td>8月</td><td>30</td><td>34.12</td><td>43.46</td><td>29.79</td><td>539.54</td><td>68.48</td><td>53.82</td><td>5.67</td><td>55.56</td><td>463.37</td><td>1293.81</td><td>67.71</td><td>7.75</td></tr><tr><td>9月</td><td>15</td><td>39.57</td><td>49.09</td><td>20.06</td><td>544.23</td><td>79.94</td><td>56.76</td><td>6.12</td><td>53.92</td><td>456.20</td><td>1305.89</td><td>68.84</td><td>7.70</td></tr><tr><td>白天</td><td>99</td><td>25.38</td><td>34.14</td><td>25.51</td><td>490.07</td><td>54.42</td><td>50.03</td><td>4.56</td><td>51.57</td><td>414.50</td><td>1150.18</td><td>62.44</td><td>7.84</td></tr><tr><td>夜里</td><td>35</td><td>20.38</td><td>34.18</td><td>44.32</td><td>426.80</td><td>42.76</td><td>62.83</td><td>6.38</td><td>46.78</td><td>366.94</td><td>1051.38</td><td>55.97</td><td>7.74</td></tr><tr><td>观测期</td><td>134</td><td>24.07</td><td>34.15</td><td>30.42</td><td>473.54</td><td>51.38</td><td>53.38</td><td>5.04</td><td>50.32</td><td>402.07</td><td>1124.37</td><td>60.75</td><td>7.81</td></tr></table></body></html>
+
+相对于海水： $\mathrm { E F } _ { _ { i , \backslash \forall i \neq \forall i \neq i \neq s } } = \frac { C _ { i } / [ \mathrm { C I } ^ { - } ] _ { \mathbb { R } \neq x } } { [ X _ { i } ] / [ \mathrm { C I } ^ { - } ] _ { \mathbb { H } \neq \mathbb { R } } }$ 相对于地壳： $\mathrm { E F } _ { _ { i , \mathrm { \scriptsize { d } } \equiv \pi \ll 3 \| \mathrm { \scriptsize { E } } } } = \frac { C _ { i } / [ \mathrm { C a } ^ { 2 + } ] _ { \tt { \tt d } \equiv \jmath _ { \tt K } } } { [ Y _ { i } ] / [ \mathrm { C a } ^ { 2 + } ] _ { \tt { \tt d } \equiv \jmath _ { \tt K } } }$ 式中： $\mathrm { E F } _ { i , \ i \sharp \sharp \sharp } \sharp \sharp \sharp$ 和 $\mathrm { E F } _ { i , \ddag \sharp , \ddag \sharp , \mathstrut }$ 分别为第 $i$ 离子相对于海洋源和地壳源的富集因子; $[ \mathrm { C l ^ { - } } ] _ { \mathrm { \uparrow \downarrow \uparrow \uparrow } }$ 和 $[ \mathrm { C l } ^ { - } ]$ 海洋源分别为降水和海洋中 $\mathrm { C l } ^ { - }$ 的浓度, $\mathrm { [ C a ^ { 2 + } ] }$ 降水和 $[ \mathrm { C a } ^ { 2 + } ] _ { \mathrm { f f } \perp \perp }$ 分别为降水和地壳中 $\mathrm { C a } ^ { 2 + }$ 的浓度； $\left[ X _ { i } \right]$ 和 $\left[ Y _ { i } \right]$ 分别指海洋和地壳中第 $i$ 离子或元素的浓度。
+
+在溶质来源定性分析的基础上，对降水溶质受海洋源、地壳源和人类活动部分的输入进行定量化[31-32],具体的计算公式为：
+
+海洋源输入：
+
+$$
+M S F _ { \mathrm { { } _ { i } } } = \frac { [ X _ { \mathrm { { i } } } ] / [ \mathrm { C l ^ { - } } ] _ { \ast \ast \ast \ast \ast \ast \mathrm { { \scriptsize { K } } } } } { C _ { \mathrm { { * } } } / [ \mathrm { C l ^ { - } } ] _ { \ast \ast \mathrm { { * } } } } \times 1 0 0 \% = \frac { 1 } { \mathrm { E F } _ { \ast , \ast \ast \ast \ast \mathrm { { * } } } } \times 1 0 0 \%
+$$
+
+地壳源输入：
+
+$$
+C F _ { \mathrm { { } _ { i } } } = \frac  [ Y _ { i } ] / [ \mathrm { { C a } ^ { 2 + } ] _ { \mathrm { { i } [ \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } ] } } }  C _ { i } \big / [ \mathrm { { C a } ^ { 2 + } } ] _  \mathrm  { F a } ^ { 2 } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it { W } } \times \vec { \it \it { W } } \times \vec { \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it \it { W } } \times \vec { \it \it { W } } \times \vec { \it \it \it { W } } \times \frac  \vec \it { W } \times \vec \it { \it \it { W } \it } \times \vec  \it \it \it { W } \times \vec \it { W } \times \vec \it \it  W \it \it \it { W } \times \vec \it \it  W \it \it \it \it  W \it \it \it \it { W } \nu \times \ s \ s \ s i f \ a \ s \ s \ s i \ s \ m \ s i \ s \ s i \ s \ s \ s i f \ s \ s \ s i f \ s \ s \ s \ s i f \ s \ s \ s \ s \ s i f \ s \ s \ s \ s \ s i f \ s \ s \ s \ s \ s \ s \ s i f \ s \ s \ s \ s \ s \ s \ s \ s \ s i f \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \ s \
+$$
+
+人类活动输入：
+
+$$
+A F _ { \scriptscriptstyle i } = ( 1 - M S F _ { \scriptscriptstyle i } - C F _ { \scriptscriptstyle i } ) \times 1 0 0 \%
+$$
+
+式中： $M S F _ { i \setminus } C F _ { i }$ 和 $A F _ { i }$ 分别为第 $i$ 离子源于海洋源、地壳源和人类活动部分的输入比例。
+
+# 1.5Hysplit聚类后向轨迹模式
+
+受可溶性物质来源及气溶胶组成的影响，气团源区、输送路径和输送过程中温湿度变化及降水再蒸发作用等均可能影响大气降水的化学组成[24]。运用美国国家海洋大气研究中心空气资源实验室开发的Hysplit聚类后向轨迹模式来追踪研究区降水的气团来源(https://www.arl.noaa.gov/hysplit-2/) [5.35]因研究区位于海拔约 $3 0 0 0 \mathrm { m }$ 的山区，致雨云层高度相对较低，且具有“一天一小下及三天一大下"的特点[7],为此，运算选择的起始高度为 $1 0 0 \mathrm { m } \hphantom { 0 0 0 0 } \sqrt { 5 0 0 \mathrm { m } }$ 和$1 0 0 0 \mathrm { m }$ ,时间为 $1 2 0 \mathrm { h }$ ,聚类分析采用 $3 6 \mathrm { ~ h ~ }$ 的聚类时间 $+ 1 \mathrm { ~ h ~ }$ 的聚类时间间隔。
+
+# 2结果与分析
+
+# 2.1大气降水的化学组成
+
+2.1.1降水化学组成特征研究区134个有效降水事件的单次雨量范围为 $0 . 2 { \sim } 2 1 . 6 ~ \mathrm { m m }$ ，降水总量为$6 9 0 . 4 ~ \mathrm { m m }$ ,占采样期降水总量的 $7 6 . 0 5 \%$ 。降水 $\mathrm { \ p H }$ 值介于7.15\~8.52，整体偏弱碱性，EC介于 $3 . 5 1 \sim$ $2 3 7 . 6 7 ~ \mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 }$ ,平均为 $6 0 . 7 5 ~ \mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 }$ (表1)。降水阴、阳离子分别受 $\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\mathrm { C a } ^ { 2 + }$ 支配,浓度平均分别为 $4 7 3 . 5 4 \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ 和 $4 0 2 . 0 7 ~ \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ ,占到阴、阳离子总浓度的 $8 4 . 2 3 \%$ 和 $7 1 . 5 2 \%$ ，依据舒卡列夫水化学类型划分方法，区域降水基本属于 $\mathrm { H C O } _ { 3 } – \mathrm { C a }$ 型。其他阴、阳离子平均浓度顺序依次分别为： $\mathrm { S O } _ { 4 } ^ { 2 - } > \mathrm { N O } _ { 3 } ^ { - } >$ $\mathrm { C l } ^ { - }$ 和 $\mathrm { N H _ { 4 } ^ { + } > N a ^ { + } > M g ^ { 2 + } > K ^ { + } }$ ，但不同时期存在显著差异。
+
+与我国中东部植被覆盖度较大、人类活动较强的天津市27和商洛市[30降水相比，研究区人类工农业活动相对较弱，但广泛分布海陆相沉积/冲积物风化形成的地表松散物质富含以碳酸盐岩为主的碱性物质[36]，因而降水 $\mathrm { \ p H }$ 值偏大,且 $\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\mathrm { C a } ^ { 2 + }$ 浓度占比显著偏高，而 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 和 $\mathrm { N H } _ { 4 } ^ { + }$ 占比明显偏小（图2)。与西北干旱区阿拉善右旗23的降水相比，研究区牧业活动较强，但远离工业活动区，因而 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 占比显著地偏低。与人类活动较弱的青藏高原冬克玛底冰川5及瓦里关大气本底观测站37的降水相比，研究区降水总离子浓度和EC显著偏高，这是因为西北干旱区地表植被覆盖较差，松散的地表物质容易为大气气溶胶提供丰足的可溶性物质源。与同为西北高寒地区祁连山东段黑松驿降水相比，研究区降水中EC和总离子浓度几乎是黑松驿地区的一半,原因是研究区降水量约 $6 0 0 ~ \mathrm { { m m } ^ { [ 1 5 ] } }$ ,近似黑松驿 $2 9 0 \mathrm { m m }$ 的2倍[14]
+
+2.1.2不同时期降水组成差异位于科其喀尔冰川末端近似东西走向的冰川槽谷内采样点的近地层（ $1 0 \mathrm { m }$ 高)风向主要以W风为主，辅以NW和SW风,三者占比达 $7 6 . 3 2 \%$ ,而E、NE和SE风占比很小，尤其是在21:00至翌日10:00的夜间（图3a)。进一步
+
+Fig.2Comparisonofmean weightedconcentrationsofmajorions inprecipitationat theendofteKoxkarGlacierwithotheareas
+
+![](images/e6fd7b90b0527690fab5a482858a2147e5dbb80876db5de53f969b58e1402a92.jpg)  
+图2天山科其喀尔冰川末端降水化学组成与其他区域对比  
+图3科其喀尔冰川末端近地层风向与风频的分布状况  
+Fig.3Wind direction and wind frequencydistribution in the near-surface layer at the end of the Koxkar Glacier
+
+风向NNE E SE 风速/(m·s-)0\~22\~44\~6>6 SSW W NW (a)观测期 (b)夜间降水 (c)白天降水 100 22 24/0h 2 100 NNW N NNE 100 NNW N NNE NW NE NW NE %/回区 50 20 WNW ENE WNW ENE L 5018 6 5。 ww ESE 0 ww ESE 8 SW SE SW SE 100L 14 12 10 100 SSW S SSE 100L SSW S SSE
+
+地，白天降水时，研究区SW、WSW、W、WNW和NW向的风频合计为 $5 8 . 1 9 \%$ （图3c），显著低于夜间降水时的 $8 3 . 7 9 \%$ （图3b)，且白天降水时，存在显著的ESE和E向风。这表明研究区显著受西风环流控制[38],但受高山地貌及大面积分布的冰川作用，可能存在山谷风或冰川风的局地环流现象[9.17.39]。夜间在山风和冰川风作用下，可能提高途径冰川分布区的偏西风的风频和风速，而白天反之，降低偏西风的风频和风速，并促使发源塔里木盆地内的E风和ESE风形成(图3c)。因此，在山谷风或冰川风作用下，白天塔里木盆地内气溶胶物质随近地层风从山麓地带与平原区迁移到研究区后湿沉降，促使降水的EC和总离子浓度较夜间降水偏高 $1 1 . 5 6 \%$ 和$9 . 4 0 \%$ 。可是，夜间降水中表征人类活动的 $\mathrm { N H } _ { 4 } ^ { + }$ 和$\mathrm { N O } _ { 3 } ^ { - }$ 浓度分别较白天偏高 $2 5 . 5 8 \%$ 和 $7 3 . 7 4 \%$ ,所占比例较白天偏高 $3 7 . 3 9 \%$ 和 $9 0 . 0 6 \%$ ，表明西风环流携带中亚地区人类活动排放的污染物对研究区降水溶质的贡献显著，这与塔里木盆地 $< 2 ~ \mu \mathrm { m }$ 沉积物多来自中亚，及 $2 { \sim } 1 6 ~ \mu \mathrm { m }$ 沉积物也可能受中亚尘埃影响相一致[19]。而 $\mathrm { N H } _ { 4 } ^ { + }$ 一般源于生物体燃烧或粪便排放，也符合农牧业为主的中亚地区产业发展现状。
+
+此外，降水的EC均值从6月 $4 9 . 5 4 ~ \mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 }$ 上升至9月的 $6 8 . 8 4 ~ \mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 }$ ,增加了 $3 8 . 9 6 \%$ ,总离子浓度均值也由 $8 8 8 . 8 1 ~ \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ 增加到 $1 3 0 5 . 8 9 ~ \mathrm { \mu e q \cdot L ^ { - 1 } }$ ,增加高达 $4 6 . 9 3 \%$ ，而同期 $\mathrm { \ p H }$ 均值由7.97下降到7.70(表1)。降水过程中气温、总辐射和风速值与各离子浓度之间相关性较差，表明采样过程可靠，离子浓度未明显受蒸发作用的影响。除了物质来源因素外，一般认为降水中离子浓度的变化，主要受到降水量的控制24,这种现象在本区非常显著，降水中EC和总离子浓度与降水量之间存在显著的幂指数关系(图4a)。但降水量对溶质的稀释作用在月尺度上并不显著(图4b，图4c)，根本原因是区域性降水中可溶性物质浓度与水化学组成类型主要受溶质来源及其补给强度的支配[40（图2)。中亚地区及塔里木盆地夏季不断升高的气温和蒸发强度，是增强粉尘进入大气而形成降水溶质的直接原因[9]；
+
+其次，随大陆高压减弱至消失的过程中，西风环流季节性地增强,从中亚输送的粉尘物质增多[26.38],也可能是改变区域降水化学组成的重要因素。
+
+# 2.2溶质的来源
+
+2.2.1降水中溶质的来源对研究区降水的溶质化学参数进行因子分析5，并经最大方差法旋转，取得因子载荷矩阵(表2)，其3个主成分解释了总方差的$8 8 . 2 9 \%$ ，基本涵盖了可溶性离子的基本信息。EOF1主要荷载于 $\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\mathrm { C a } ^ { 2 + }$ 和 $\mathbf { M } \mathbf { g } ^ { 2 + }$ ，且 $\mathrm { H C O } _ { 3 } ^ { - }$ 与( $\mathrm { { C a } ^ { 2 + } + }$ $\mathbf { M } \mathbf { g } ^ { 2 + }$ )的浓度相关系数高达 $0 . 9 9 ( P { < } 0 . 0 1 )$ ，表明这3种离子的补给源相同，即碳酸盐岩( $\mathbf { \tilde { \Gamma } } _ { \mathrm { C a } _ { \mathrm { X } } \mathbf { M } \mathbf { g } _ { 1 - \mathrm { x } } } \mathbf { C } \mathbf { O } _ { 3 } ,$ 风化的粉尘颗粒经大气输送后在降水区的湿沉降过程中发生碳酸化作用而补给[14]。该主成分对总离子浓度和EC也显著荷载，暗示降水化学组成主要受这3种离子控制，印证了区域降水化学以 $\mathrm { H C O _ { 3 } } – \mathrm { C a }$ 型为主的观点(表1)。研究区山间盆地中生界侏罗系沉积层的含煤碎屑广泛分布[41],且毗邻的塔里木盆地及中亚地区显著发育新生界的黄土沉积层[26]这些富含碳酸盐岩的地表物质风化，可能是造成降水化学受碳酸盐岩碳酸化主导的根本原因。EOF2解释方差贡献率为 $1 5 . 6 7 \%$ ,主要荷载于 $\mathrm { C l } ^ { - }$ 、 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 、$\mathrm { \Delta N a } ^ { + }$ 和 $\mathrm { K } ^ { + }$ ，且 $( \mathrm { C l } ^ { - } + \mathrm { S O } _ { 4 } ^ { 2 - }$ ）与（ $\mathrm { \cdot } \mathrm { N a } ^ { + } { + } \mathrm { K } ^ { + }$ )的浓度之比为1.03:1，二者的相关系数为（ $) . 9 8 \left( P { < } 0 . 0 1 \right)$ ，表明这4种离子来源可能基本一致。在远离现代海洋的欧亚大陆腹部，降水 $\mathrm { { C l } ^ { - } , N a ^ { + } }$ 和 $\mathrm { K } ^ { + }$ 主要与区域盐湖蒸发或古海洋残留物质风化补给有关[40],或受到第四纪以来冲积/洪积作用形成的盐土风化物影响[36]。EOF3荷载主要体现在 $\mathrm { N O } _ { 3 } ^ { - }$ 和 $\mathrm { N H } _ { 4 } ^ { + }$ 方面，解释方差贡献率为 $9 . 7 1 \%$ 。降水中 $\mathrm { N O } _ { 3 } ^ { - }$ 来源复杂，源于气溶胶含氮物质硝化，也可能源于人类工业活动的污染物排放等[42], $\mathrm { N H } _ { 4 } ^ { + }$ 一般源于农业生产、动物排泄物分解等，并在大气环境中以悬浮颗粒形式存在[30]。结合采样点周围高山牧场分布及环天山地区农牧产业为主的现状[43],EOF3应表征生物体燃烧或动物粪便分解等人类活动排放的贡献。
+
+![](images/f170342a81c584e5a1e774db1f2b272225e03b62e0396dd5261fe1e0aa5cdf07.jpg)  
+图4降水中总离子浓度和EC对降水量变化的响应  
+Fig.4Response of total ion concentration and conductivity to changes in precipitation
+
+表2降水中主要溶质参数的因子分析(样本数 $\scriptstyle n = 1 3 4$ ）  
+Tab.2 Factor analysis of main solute parameters in precipitation(Number of samples $\scriptstyle n = 1 3 4$   
+
+<html><body><table><tr><td>主成分</td><td>Cl-</td><td>SO-</td><td>NO3</td><td>HCO3</td><td>Na+</td><td>NH4</td><td>K+</td><td>Mg2+</td><td>Ca²+</td><td>总离子浓度</td><td>EC</td><td>pH</td><td>解释方差/%</td></tr><tr><td>EOF1</td><td>0.31</td><td>0.38</td><td>0.31</td><td>0.91</td><td>0.34</td><td>-0.18</td><td>0.37</td><td>0.90</td><td>0.91</td><td>0.86</td><td>0.87</td><td>-0.30</td><td>62.91</td></tr><tr><td>EOF2</td><td>0.93</td><td>0.87</td><td>0.11</td><td>0.38</td><td>0.91</td><td>0.02</td><td>0.84</td><td>0.23</td><td>0.39</td><td>0.48</td><td>0.45</td><td>-0.55</td><td>15.67</td></tr><tr><td>EOF3</td><td>0.08</td><td>0.24</td><td>0.89</td><td>-0.01</td><td>0.04</td><td>0.78</td><td>0.26</td><td>0.27</td><td>0.08</td><td>0.17</td><td>0.10</td><td>-0.13</td><td>9.71</td></tr></table></body></html>
+
+2.2.2 海洋与人类活动的贡献天山科其喀尔冰川末端降水中各离子的EF海洋源显著大于1(表3)，且除了 $\mathrm { N a } ^ { + }$ 外，均大于10,表明降水溶质相对于海洋富集，主要以非海源补给为主，符合研究区位于欧亚大陆腹部降水化学组成受限于地表松散物质广泛分布的区位地理环境。相对于地壳源, $\mathrm { S O } _ { 4 } ^ { 2 - }$ 和 $\mathrm { N O } _ { 3 } ^ { - }$ 的EF 地壳源分别为17.23和17.11,结合相应的EF海洋源值，表明这两者主要受海洋源和地壳源之外的人类活动输入控制。CI的EF地壳源值为47.63,相对于地壳源处于显著的富集状态，也印证了其作为海盐源参考元素的可行性。 $\mathrm { \Delta N a ^ { + } , K ^ { + } }$ 和 $\mathrm { M g } ^ { 2 + }$ 的EF地壳源值分别为0.16、0.05和0.14，显著小于1，而相应的EF海洋源值明显大于1,表明三者较地壳源亏损而较海洋源富集的状态[34]
+
+降水中的 $\mathrm { N a ^ { + } }$ 与Cl通常源于海洋[32]。但研究区源于海洋源输入的 $\mathrm { { N a } ^ { + } }$ 与CI仅占 $4 1 . 5 2 \%$ 和 $9 6 . 2 2 \%$ (表4)，且二者浓度比为2.13:1，表明源于北大西洋/北冰洋的水汽，在长距离输送过程中，存在沿途地壳源风化物质进入气溶胶的现象[26],显著降低了海洋源物质补给强度，导致总离子源于海洋源输入仅为 $4 . 8 7 \%$ （以离子当量浓度为权重，算术平均值为$2 0 . 7 7 \%$ ），这可能是导致表2因子分析仅解释$8 8 . 2 9 \%$ ,而有 $1 1 . 7 1 \%$ 方差未解释的主要成因。地壳源输人的溶质平均占 $8 5 . 5 4 \%$ （以离子当量浓度为权重），其中，涉及碳酸盐岩风化物补给的 $\mathrm { C a } ^ { 2 + } , \mathrm { M g } ^ { 2 + }$ 和$\mathrm { H C O } _ { 3 } ^ { - }$ 分别高达 $9 9 . 7 7 \% . 8 9 . 6 1 \%$ 和 $9 9 . 9 8 \%$ ,整体与因子分析中EOF1对应；涉及蒸发盐岩风化补给的$\mathrm { N a ^ { + } , K ^ { + } , C l ^ { - } }$ 和 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 分别为 $5 8 . 4 8 \% . 9 1 . 3 8 \% . 3 . 7 8 \%$ 和$9 . 0 7 \%$ ，也整体与解释方差总量 $1 5 . 6 7 \%$ 的EOF2对应。中国新疆及中亚地区虽然地广人稀，但以第一产业，尤其畜牧业为主的人类活动较为显著，因此，人类活动输入占降水总离子的 $9 . 5 9 \%$ （以离子当量浓度为权重),几乎是海洋源输入的2倍,并以 $\mathrm { N H } _ { 4 } ^ { + }$ 、$\mathrm { N O } _ { 3 } ^ { - }$ 和 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 为主，分别占各离子总量的 $9 7 . 5 6 \%$ 、$8 8 . 6 5 \%$ 和 $8 4 . 2 3 \%$ ○
+
+Tab.3 The enrichment factor of ion concentration in precipitation at the end of the KoxkarGlacierrelative to oceanandcrustal sources   
+表4不同来源对研究区降水主要离子的贡献比例  
+
+<html><body><table><tr><td>来源</td><td>SO² /CI-</td><td>NO3 /CI-</td><td>Ca²+/Cl-</td><td>Na+/Cl-</td><td>Mg²/Cl</td><td>K+/CI-</td><td>HCO3 /CI-</td><td>NH4 /CI-</td></tr><tr><td>海水</td><td>0.104</td><td>0.000017</td><td>0.038</td><td>0.86</td><td>0.195</td><td>0.019</td><td>0.0043</td><td>0.016</td></tr><tr><td>降水</td><td>1.419</td><td>1.264</td><td>16.704</td><td>2.134</td><td>2.091</td><td>0.209</td><td>19.674</td><td>2.218</td></tr><tr><td>EF海洋源</td><td>13.64</td><td>74346.56</td><td>439.59</td><td>2.48</td><td>10.72</td><td>11.02</td><td>4531.11</td><td>134.54</td></tr><tr><td>来源</td><td>SO /Ca²+</td><td>NO3 /Ca²+</td><td>Cl-/Ca2+</td><td>Na+/Ca²</td><td>Mg2+/Ca²+</td><td>K+/Ca²+</td><td>二</td><td>一</td></tr><tr><td>地壳</td><td>0.005</td><td>0.004</td><td>0.001</td><td>0.821</td><td>0.876</td><td>0.272</td><td></td><td>一</td></tr><tr><td>降水</td><td>0.085</td><td>0.076</td><td>0.060</td><td>0.128</td><td>0.125</td><td>0.013</td><td>一</td><td>一</td></tr><tr><td>EF地壳源</td><td>17.23</td><td>17.11</td><td>47.63</td><td>0.16</td><td>0.14</td><td>0.05</td><td>二</td><td></td></tr></table></body></html>
+
+表3科其喀尔冰川末端降水中离子组分相对于海洋和地壳源的富集因子  
+Tab.4Thecontributionratioof diffrent sources to the mainions in precipitationat the endofthe Koxkar Glacier $1 \%$   
+
+<html><body><table><tr><td rowspan="2">时间</td><td colspan="7">海洋源</td><td colspan="10"></td><td colspan="3">人类活动</td></tr><tr><td>Cl-</td><td>SO</td><td>HCO3</td><td>Na+</td><td>NH4</td><td>K</td><td>Mg2</td><td>Ca²</td><td>Cl-</td><td>SO</td><td>NO3</td><td>HCO3</td><td>Na+</td><td>K+</td><td>Mg2</td><td>Ca²</td><td></td><td>SO NO3</td><td>NH4</td></tr><tr><td>白天</td><td>96.30</td><td>6.87</td><td>0.02</td><td>40.25</td><td>2.37</td><td>8.81</td><td>10.68</td><td>0.24</td><td>3.70</td><td>8.74</td><td>10.84</td><td>99.98</td><td>59.75</td><td>91.19</td><td>89.32</td><td>99.76</td><td>84.39</td><td>89.15</td><td>97.63</td></tr><tr><td>夜里</td><td>96.02</td><td>6.24</td><td>0.02</td><td>45.10</td><td>2.61</td><td>8.08</td><td></td><td>9.58 0.21</td><td>3.98</td><td>9.98</td><td></td><td>12.78 99.98</td><td></td><td></td><td></td><td>54.90 91.92 90.42 99.79</td><td>83.78</td><td></td><td>87.22 97.39</td></tr><tr><td>观测期96.22</td><td></td><td>6.70</td><td>0.02</td><td>41.52</td><td>2.44</td><td>8.62</td><td>10.39</td><td>0.23</td><td>3.78</td><td>9.07</td><td>11.35</td><td>99.98</td><td>58.48</td><td>91.38</td><td>89.61</td><td>99.77</td><td>84.23</td><td>88.65</td><td>97.56</td></tr></table></body></html>
+
+# 2.3水汽的后向轨迹追踪分析
+
+因区域蒸散发较强及水汽输送距离短，沿海地区降水的溶质多受局地物质源的控制[27.32]。而内陆地区水汽多经长距离输送，存在沿途降水再蒸(散)发及地壳源和人类活动排放的物质补给气溶胶的现象[14]。图5是Hysplit聚类后向轨迹模式分析的天山科其喀尔冰川末端水汽来源路径，西风环流作用十分显著[44],与2.1.2节近地层风以偏西向为主的结果一致。其中路径1支流相对稳定存在，是研究区水汽补给重要通道之一，2013年与2014年以此路径补给水汽的降水频次分别占当年观测期总频次的$5 8 . 4 6 \%$ 和 $4 6 . 3 8 \%$ ,降水量占比为 $5 3 . 4 2 \%$ 和 $4 4 . 1 5 \%$ (表5)。2013年以路径2（自伊塞克湖经昆马力克河河谷)补给水汽的降水频次和降水量分别占 $1 2 . 3 1 \%$ 和 $5 . 1 8 \%$ ,2014年以路径 $2 ^ { \prime }$ （自昆格山北侧经科其喀尔峰附近的雪冰分布区)补给水汽的降水频次和降水量分别占 $1 1 . 5 9 \%$ 和 $3 . 3 8 \%$ ,以路径 $4 ^ { \prime }$ （自帕米尔高原经昆马力克河河谷)补给水汽的降水频次和降水量分别占 $1 . 4 5 \%$ 和 $0 . 0 5 \%$ ，相比路径1而言，这些路径的水汽来源并不稳定，但均因天山冰雪表面可溶性物质匮乏和沿途地形雨洗刷气溶胶等因素作用，形成降水的总离子浓度低于局地源降水(路径3）。总体而言，西风环流对我国南疆降水及其化学组成作用十分显著，补给水汽形成降水的频次和降水(量)平均分别占观测期的 $6 5 . 0 8 \%$ （以降水量为权重)和 $5 3 . 0 7 \%$ ，而平均总离子浓度虽然仅为局地环流(路径3)的 $6 9 . 9 1 \%$ (表5),但仍高达 $1 0 1 7 . 8 1 ~ \mu \mathrm { e q }$ ：$\mathrm { L } ^ { - 1 }$ ,尤其是 $\mathrm { N O } _ { 3 } ^ { - }$ 浓度平均为局地环流降水的1.42倍，间接表明塔里木盆地空气与水源质量可能受到中亚人类活动的影响[26.44]
+
+![](images/41a342fa905e5c8d10b035fab15739bee424cb86a1c168d60f9ad5fb989dd3fd.jpg)  
+图5基于Hysplit后向轨迹模式的降水气团来源  
+Fig.5Sources of precipitation air masses based on Hysplit backward-trajectory model
+
+表5不同来源的降水及各离子雨量加权的平均浓度  
+Tab.5 Percentage of different source trajectories and mean weighted concentrations of major ions in precipitationatthe end of theKoxkarGlacier   
+
+<html><body><table><tr><td rowspan="2">年份</td><td rowspan="2">来源路径</td><td rowspan="2">降水频次 占比/%</td><td rowspan="2">降水比率 1%</td><td colspan="10">离子浓度(μeq·L1)</td></tr><tr><td>Cl-</td><td>SO</td><td>NO3</td><td>HCO3</td><td>Na+</td><td>NH4</td><td>K</td><td>Mg2+</td><td>Ca2+</td><td>总离子</td></tr><tr><td>2013</td><td>1</td><td>58.46</td><td>53.42</td><td>32.64</td><td>34.33</td><td>40.05</td><td>310.16</td><td>55.40</td><td>48.34</td><td>4.07</td><td>35.24</td><td>274.12</td><td>834.36</td></tr><tr><td></td><td>2</td><td>12.31</td><td>5.18</td><td>38.22</td><td>53.07</td><td>63.56</td><td>371.99</td><td>62.66</td><td>59.57</td><td>10.66</td><td>47.91</td><td>345.84</td><td>1053.48</td></tr><tr><td></td><td>3</td><td>26.15</td><td>34.34</td><td>20.35</td><td>39.58</td><td>30.91</td><td>658.05</td><td>36.32</td><td>71.56</td><td>9.56</td><td>42.23</td><td>589.27</td><td>1497.83</td></tr><tr><td></td><td>4</td><td>3.08</td><td>7.06</td><td>12.43</td><td>27.94</td><td>31.76</td><td>379.02</td><td>60.44</td><td>85.96</td><td>3.69</td><td>35.65</td><td>265.41</td><td>902.30</td></tr><tr><td>2014</td><td>均值</td><td></td><td>49.83(3)</td><td>27.23</td><td>36.68</td><td>37.54</td><td>371.07</td><td>49.50</td><td>59.59</td><td>6.22</td><td>38.22</td><td>318.40</td><td>944.46</td></tr><tr><td></td><td>1</td><td>11.59</td><td>3.38</td><td>42.89</td><td>31.12</td><td>34.72</td><td>346.92</td><td>56.81</td><td>49.33</td><td>3.49</td><td>44.93</td><td>301.10</td><td>911.31</td></tr><tr><td></td><td>2</td><td>46.38</td><td>44.15</td><td>25.71</td><td>26.54</td><td>27.85</td><td>520.63</td><td>56.71</td><td>32.70</td><td>3.79</td><td>65.66</td><td>441.88</td><td>1201.46</td></tr><tr><td></td><td>3</td><td>40.58</td><td>52.43</td><td>16.16</td><td>35.80</td><td>18.87</td><td>636.20</td><td>49.91</td><td>59.37</td><td>3.95</td><td>60.80</td><td>533.10</td><td>1414.16</td></tr><tr><td></td><td>4</td><td>1.45</td><td>0.05</td><td>24.16</td><td>35.56</td><td>37.21</td><td>476.56</td><td>36.69</td><td>48.30</td><td>4.32</td><td>54.64</td><td>429.53</td><td>1146.98</td></tr><tr><td>采样期</td><td>均值</td><td></td><td>50.17(4)</td><td>20.94</td><td>31.64</td><td>23.35</td><td>575.32</td><td>53.24</td><td>47.20</td><td>3.86</td><td>62.34</td><td>485.18</td><td>1303.07</td></tr><tr><td></td><td>西风环流()</td><td>65.08</td><td>53.07</td><td>30.02</td><td>31.41</td><td>35.21</td><td>412.26</td><td>56.37</td><td>41.59</td><td>4.21</td><td>50.32</td><td>356.42</td><td>1017.81</td></tr><tr><td></td><td>局地环流(2)</td><td>33.39</td><td>43.42</td><td>18.25</td><td>37.69</td><td>24.87</td><td>647.09</td><td>43.14</td><td>65.44</td><td>6.75</td><td>51.55</td><td>561.09</td><td>1455.85</td></tr><tr><td></td><td>其他源</td><td>2.26</td><td>3.54</td><td>12.43</td><td>27.94</td><td>31.76</td><td>379.02</td><td>60.44</td><td>85.96</td><td>3.69</td><td>35.65</td><td>265.41</td><td>902.30</td></tr></table></body></html>
+
+注：(1)为来源路径 $1 , 2 , 2 ^ { \prime }$ 和4'合并，（2)为来源路径3,（3）、(4)分别为2013年和2014年有效采样的降水量占总有效采样降水量的比例。
+
+局地环流(路径3)补给水汽的降水频次和降水(量)分别占采样期的 $3 3 . 3 9 \%$ 和 $4 3 . 4 2 \%$ ，但2014年夏季补给水汽的降水频次和降水(量)分别占当年的 $4 0 . 5 8 \%$ 和 $5 2 . 4 3 \%$ ，约是2013年的1.55倍和1.53倍(表5)。然而，虽然二者的降水中各离子平均浓度略有差异，但总离子平均浓度相近，分别为$1 4 1 4 . 1 6 ~ \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ 和 $1 4 9 7 . 8 3 ~ \mu \mathrm { e q } \cdot \mathrm { L } ^ { - 1 }$ ,相差不足 $6 \%$ 。另外，2013年表征水汽来源路径4支流可能是东亚季风的结果，即“春风偶度玉门关"所致[45],也有可能是塔里木盆地内部地表蒸散发补给所致，但是补给水汽而形成降水的频次和降水量分别占2013年的 $3 . 0 8 \%$ 和 $7 . 0 6 \%$ (表5)，与2014年自帕米尔高原经昆马力克河河谷的路径 $4 ^ { \prime }$ 补给平均，二者的降水频次和降水量(以降水量为权重)仅占研究期的 $2 . 2 6 \%$ 和 $3 . 5 4 \%$ ,基本可以忽略
+
+# 3结论
+
+（1）天山托木尔峰南坡科其喀尔冰川末端降水$\mathrm { \ p H }$ 值介于 $7 . 1 5 { \sim } 8 . 5 2$ ,整体偏弱碱性，EC介于 $3 . 5 1 \sim$ $2 3 7 . 6 7 ~ \mu \mathrm { S } \cdot \mathrm { c m } ^ { - 1 }$ ,阴、阳离子分别受 $\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\mathrm { C a } ^ { 2 + }$ 支配,属于典型 ${ \mathrm { C a } } { \mathrm { - H C O } } _ { 3 }$ 型。其他阴阳离子浓度顺序分别依次为： $\mathrm { S O } _ { 4 } ^ { 2 - } > \mathrm { N O } _ { 3 } ^ { - } > \mathrm { C l } ^ { - }$ 和 $\mathrm { N H _ { 4 } ^ { + } { > } N a ^ { + } { > } M g ^ { 2 + } { > } K ^ { + } } .$ 0(2）因子分析表明侏罗系沉积层和第四系黄土沉积层中碳酸盐岩 $\mathrm { ( C a x M g _ { 1 - x } C O _ { 3 } ) }$ 风化物是区域降水离子的主要补给源，主要贡献为 $\mathrm { H C O } _ { 3 } ^ { - }$ 、 $\mathrm { C a } ^ { 2 + }$ 和$\mathrm { M g } ^ { 2 + }$ 。中亚与塔里木盆地因干旱而发育的盐湖（咸水湖)或冲积/洪积作用形成的盐土对降水化学也具有一定影响,主要补给 $\mathrm { C l ^ { - } }$ 、 $\mathrm { S O } _ { 4 } ^ { 2 - }$ ） $\mathrm { { N a } ^ { + } }$ 和 $\mathrm { K ^ { + } }$ 。另外，周边牧场及环天山地区农牧产业是降水中 $\mathrm { N O } _ { 3 } ^ { - }$ 和$\mathrm { N H } _ { 4 } ^ { + }$ 的重要补给源，可为高寒植被生长提供必要的
+
+营养元素。
+
+(3）富集因子计算表明地壳源物质输入对降水离子浓度起支配作用，约占总离子的 $8 5 . 5 4 \%$ 。海洋源气团经西风环流长距离输送过程中，显著地受降水再蒸发作用及地表风化物质补给作用的影响，致使降水总离子仅约 $4 . 8 7 \%$ 源自海洋源。人类活动输入的溶质约占降水总离子的 $9 . 9 5 \%$ ,几乎是海洋源的2倍，以 $\mathrm { N H } _ { 4 } ^ { + }$ 、 $\mathrm { N O } _ { 3 } ^ { - }$ 和 $\mathrm { S O } _ { 4 } ^ { 2 - }$ 为主。
+
+（4）气团后向轨迹追踪表明，经西风环流输送的水汽与可溶性物质对研究区降水化学的影响十分显著，形成降水离子的总浓度虽然仅为局地环流的 $6 9 . 9 1 \%$ ，但 $\mathrm { N O } _ { 3 } ^ { - }$ 平均浓度为局地环流降水的1.42倍，间接表明塔里木盆地空气与水源质量可能受到中亚人类活动的影响。
+
+# 参考文献(References)：
+
+[1]Laouali D,Delon C,Adon M,et al.Source contributions in precipitation chemistry and analysis of atmospheric nitrogen deposition in a Sahelian dry savanna site in West Africa[J].Atmospheric Research,2021,251:105423.   
+[2] Vet R,Artz R S, Carou S,et al.A global assessment of precipitation chemistry and deposition of sulfur,nitrogen, sea salt,base cations,organic acids,acidity and pH,and phosphorus[J].Atmospheric Environment,2014,93: 3-100.   
+[3] 马珊,夏敦胜,李忠勤,等.沙尘暴对天山托木尔峰青冰滩72号 冰川环境的影响[J].冰川冻土,2018,40(4):685-694.[Ma Shan, Xia Dunsheng,Li Zhongqin,et al. Impact of sandstorm events on the environment of the Qingbingtan Glacier No.72 in the Mt. Tumur,Tianshan Mountains[J]. Journal of Glaciology and Geocryology,2018,40(4): 685-694.]   
+[4] Akpo A, Galy-Lacaux C,Laouali D,et al.Precipitation chemistry and wet deposition in a remote wet savanna site in West Africa: Djougou (Benin) [J].Atmospheric Environment,2015,115:110- 123.   
+[5] 汪少勇,何晓波,吴锦奎,等.长江源区大气降水化学特征及离 子来源[J].环境科学,2019,40(10):4431-4438.[Wang Shaoyong,He Xiaobo,Wu Jinkui,et al. Chemical characteristics and ionic sources of precipitation in the source region of the Yangtze River[J]. Environmental Science,2019,40(10): 4431-4438.]   
+[6] Galy-Lacaux C,Laouali D, Descroix L,et al. Long term precipitation chemistry and wet deposition in a remote dry savanna site in Africa (Niger)[J]. Atmospheric Chemistry and Physics,2009,9: 1579-1595.   
+[7] Cook E M, Sponseller R,Grimm N B,et al. Mixed method approach to assess atmospheric nitrogen deposition in arid and semiarid ecosystems[J]. Environmental Pollution,2018,239: 617-630.   
+[8]Xiao J,Jin Z D,Hu D,et al. Geochemistry and solute sources of surface watersofthe Tarim River Basinin theextreme aridregion, NW Tibetan Plateau[J]. Journal of Asian Earth Sciences,2012, 54-55: 162-173.   
+[9]Wu G J, Zhang X L, Zhang C L,etal. Concentration and composition of dust particles in surface snow atUrumqi Glacier No.1,Eastern Tien Shan[J]. Global and Planetary Change,2010,74: 34-42.   
+[10]Wang J,Han H D, Zhao Q D,et al.Hydrochemical denudation and transient carbon dioxide drawdown in the highly glacierized, shrinking Koxkar basin, China[J].Advances in Meteorology,2016, 1: 1-11.   
+[11]Wu HW,Wu JL,Li J,et al.Spatial variations of hydrochemistry and stable isotopes in mountainous river water from the Central Asian headwatersof the Tajikistan Pamirs[J]. Catena,2020,193: 104639.   
+[12]Li Y F,Huang J, Li Z,et al. Atmospheric polltion revealed by trace elements in recent snow from the central to the northern Tibetan Plateau[J]. Environmental Pollution,2O2O,263(Part A): 114459.   
+[13] 刘小康,饶志国,张肖剑,等.天山地区大气降水氧同位素的影 响因素及其对西风环流变化的指示意义[J].地理学报,2015, 70(1): 97-109.[Liu Xiaokang,Rao Zhiguo, Zhang Xiaojian, et al. Variations in the oxygen isotopic composition of precipitation in the Tianshan Mountains region and their significance for the Westerlycirculation[J]. Acta Geographica Sinica,2015,7O(1):97- 109.]   
+[14]贾文雄,李宗省.祁连山东段降水的水化学特征及离子来源研 究[J].环境科学,2016,37(9):3322-3332.[Jia Wenxiong,Li Zongxing.Hydrochemical characteristics and sources of ions in precipitation at the East Qilian Mountains[J]. Environmental Science,2016,37(9): 3322-3332.]   
+[15] Han HD,Wang J,WeiJF,et al. Backwasting rate on debris-covered Koxkar glacier,Tuomuer mountain,China[J]. Journal of Glaciology,2010,56: 287-296.   
+[16] 赵求东,叶柏生,丁永建,等.典型寒区流域水文过程模拟及分 析[J].冰川冻土,2011,33(3): 595-605.[Zhao Qiudong,Ye Baisheng,Ding Yongjian,etal.Hydrological processof a typical catchment in cold region: simulation and analysis[J]. Journal of Glaciology and Geocryology,2011,33(3): 595-605.]   
+[17] 韩海东,刘时银,丁永建,等.科其喀尔巴西冰川的近地层基本 气象特征[J].冰川冻土,2008,30(6): 967-975.[Han Haidong, Liu Shiyin,Ding Yongjian,etal.Near-surface meteorological characteristics on the Koxkar Baxi Glacier,Tianshan[J].Journal of Glaciology and Geocryology,2008,30(6): 967-975.]   
+[18]谢姆斯叶·艾尼瓦尔,塔西甫拉提·特依拜,买买提·沙吾提,等. 近50年来塔里木盆地南、北缘干湿状况变化趋势分析[J].干旱 区资源与环境,2013,21(3): 40-46.[Shamsiya Anwar,TashpolatTiyip,Mamat Sawut,etal. The variation trend of surface dry-wet conditions in recent 5O years in the southern and northern edge of Tarim Basin[J]. Journal of Arid Land Resources and Environment, 2013,21(3): 40-46.]   
+[19]Chen XL, Song YG,Li Y,et al. Provenance of sub-aerial surface sediments in the Tarim Basin,Western China[J]. Catena,2021, 198: 105014.   
+[20] 董志文,任贾文,秦大河,等.祁连山老虎沟12号冰川积雪化学 特征及环境意义[J].冰川冻土,2013,3(2):327-335.[Dong Zhiwen,Ren Jiawen,Qin Dahe,et al. Chemistry characteristics and environmental significance of snow deposited on the Laohugou GlacierNo.12,Qilian Mountains[J].Journal of Glaciologyand Geocryology,2013,3(2): 327-335.]   
+[21] 钟玉婷,刘新春,范子昂,等.乌鲁木齐降水化学成分及来源分 析[J].沙漠与绿洲气象,2016,10(6):81-87.[Zhong Yuting, Liu Xinchun,Fan Ziang,et al. Chemical characteristics and source assessment of atmospheric precipitation in Urumqi[J]. Desert and Oasis Meteorology,2016,10(6): 81-87.]   
+[22] 钟玉婷,刘新春,何清,等.伊宁市降水化学成分及来源分析[J]. 沙漠与绿洲气象,2016,10(3):77-82.[Zhong Yuting,Liu Xinchun,He Qing,et al. Chemical characteristics and source assessment of atmospheric precipitation at Yining,Xinjiang[J].Desert and Oasis Meteorology,2016,10(3): 77-82.]   
+[23] 陈堂清,饶文波,金可,等.阿拉善沙漠高原降水化学特征与离 子来源判别[J].环境科学研究,2018,31(12):2083-2093.[Chen Tangqing,Rao Wenbo,Jin Ke,et al. Chemical characteristics and major ion sources of precipitation in the Alxa Desert Plateau[J]. Research of Environmental Sciences,2018,31(12): 2083-2093.]   
+[24] 王晓艳,蒋缠文.东天山哈密榆树沟流域夏季降水的化学特征 [J].干旱区研究,2018,35(2):277-286.[Wang Xiaoyan,Jiang Chanwen.Chemical properties of summer precipitation in the Yushugou River Basin in the East Tianshan Mountains[J].Arid Zone Research,2018,35(2): 277-286.]   
+[25] 孙俊英,秦大河,任贾文,等.乌鲁木齐河源区水体和大气气溶 胶化学成分研究[J].冰川冻土,2002,24(2):186-191.[Sun Junying, Qin Dahe,Ren Jiawen,et al.A study of water chemistry and aerosol at the headwaters of the Urumqi River in the Tianshan Mountains[J]. Journal of Glaciology and Geocryology,2002,24(2): 186-191.]   
+[26] 宋友桂,宗秀兰,李越,等.中亚黄土沉积与西风区末次冰期快 速气候变化[J].第四纪研究,2019,39(3):535-548.[Song Yougui, Zong Xiulan,Li Yue,et al.Loess sediments and rapid climate oscillation during the last glacial period in the westerlies-dominated central Asia[J]. Quaternary Sciences,2019,39(3): 535-548.]   
+[27] 肖致美,李鹏,陈魁,等.天津市大气降水化学组成特征及来源 分析[J].环境科学研究,2015,28(7):1025-1030.[Xiao Zhimei, LiPeng,Chen Kui, et al. Characteristics and sources of chemical composition of atmospheric precipitation in Tianjin[J]. Research of Environmental Sciences,2015,28(7): 1025-1030.]   
+[28]Keene W C,Pszenny A, Galloway JN,et al. Sea-salt corrections and interpretation of constituent ratios in marine precipitation[J].
+
+Journal of Geophysical Research: Atmospheres,1986,91(D6):
+
+6647-6658.   
+[29] 肖辉,沈志来,黄美元.西太平洋热带海域降水化学特征[J].环 境科学学报,1993,13(2):143-149.[Xiao Hui,Shen Zhilai, Huang Meiyuan. Chemical characteristics of tropical Western Pacific precipitation[J].Acta Scientiae Circumstantiae,1993,13(2): 143-149.]   
+[30] 李晓刚,赵良菊,刘琼,等.秦岭山区商洛市大气降水化学组成 特征及来源分析[J].水资源与水工程学报,2020,31(4):24-30. [Li Xiaogang, Zhao Liangju, Liu Qiong,et al. Chemical composition of precipitation and itssources in Shangluo City of Qinling mountainous area[J]. Journal of Water Resources & Water Engineering,2020,31(4): 24-30.]   
+[31] Zhang L Y, Qiao B Q,Wang HB,et al. Chemical characteristics of precipitation in a typical urban site of the Hinterland in Three Gorges Reservoir,China[J].Journal of Chemistry，2018,2018: 2914313.   
+[32]Cerqueira MR,Pinto MF,Derossi IN,et al. Chemical characteristics of rainwater at a southeastern site of Brazil[J].Atmospheric Pollution Research,2014,5: 253-261.   
+[33] 黎彤,倪守斌.塔里木—华北板块的地壳和岩石圈元素丰度[J]. 地质与勘探,1998,34(1):20-24.[Li Tong,Ni Shoubin.Element abundances of the crust and lithosphere in Tarim-N.China plate [J]. Geology and Prospecting,1998,34(1): 20-24.]   
+[34]Marrugo- Negrete J, Pinedo- Hernández J, Diez S. Assessment of heavy metal pollution,spatial distribution and origin in agricultural soils along the Sinu River Basin, Colombia[J]. Environmental Research,2017,154: 380-388.   
+[35] Kumar A,Tiwari S,Verma A et al. Tracing isotopic signatures (8D and $\ S ^ { 1 8 } \mathrm { O }$ ) in precipitation and glacier melt over Chorabari GlacierHydroclimatic inferences for the Upper Ganga Basin (UGB), Garhwal Himalaya[J]. Journal of Hydrology:Regional Studies,2018, 15: 68-89.   
+[36] 王建,韩海东,许君利,等.塔里木河流域出山径流水化学特征 研究[J].中国环境科学,2021,41(4):1576-1587.[Wang Jian, Han Haidong,Xu Junli,et al.Hydrochemical characteristics of the mountain runoff in Tarim River Basin,China[J]. China Environmental Science,2021,41(4): 1576-1587.]   
+[37] 汤洁,薛虎圣,于晓岚,等.瓦里关山降水化学特征的初步分析 [J].环境科学学报,2000,20(4):420-425.[Tang Jie,Xue Husheng,Yu Xiaoluan,et al.The preliminary study on chemical characteristics of precipitation at Mt.Waliguan[J].Acta Scientiae Circumstantiae,2000,20(4): 420-425.]   
+[38]Du Z H, Xiao C D, Wang Y Z,et al. Dust provenance in Pan-third pole modern glacierized regions:What is the regional source?[J]. Environmental Pollution, 2019,250: 762-772.   
+[39]Wang X,Carrapa B, Sun Y,et al.The role of the westerlies and orography in Asian hydroclimate since the late Oligocene[J]. Geology,2020,48: 1-5.   
+[40] 侯书贵.乌鲁木齐河源区大气降水的化学特征[J].冰川冻土, 2001,23(1): 80-84.[Hou Shugui. Chemical characteristics of precipitation at the headwaters of the Urumqi River in the Tianshan Mountains[J]. Journal of Glaciologyand Geocryology,2001,23(1): 80-84.]   
+[41]中国科学院登山科学考察队.天山托木尔峰地区的地质与古生 物[M].乌鲁木齐:新疆人民出版社,1985.[Mountainering expedition team of the Chinese Academy of Sciences.Geology and paleontologyof Tuomuerfengarea in Tianshan Mountains[M]. Urumqi: Xinjiang People's Publishing House,1985.]   
+[42] 张东,黄兴宇,李成杰.自然与人为控制下河流水化学组成演变 过程[J].干旱区资源与环境,2012,26(12):75-80.[Zhang Dong, Huang Xingyu,Li Chengjie.Natural and anthropogenic factors controlling river water hydrochemical evolution[J]. Journal of Arid Land Resources and Environment, 2012,26(12): 75-80.]   
+[43]Huang S C,Wortmann M,Duethmann D,et al.Adaptation strategies of agriculture and water management to climate change in the Upper Tarim River basin,NW China[J].Agricultural Water Management,2018,203:207-224.   
+[44] 陶辉,毛炜峰,黄金龙,等.塔里木河流域干湿变化与大气环流 关系[J].水科学进展,2014,25(1):45-52.[Tao Hui,Mao Weiyi, Huang Jinlong,et al. Drought and wetness variability in the Tarim river basin and possible associations with large scale circulation [J].Advances in Water Science,2014,25(1): 45-52.]   
+[45]Du W T,Kang S C,Qin X,et al. Can summer monsoon moisture invade the Jade Pass in Northwestern China?[J]. Climate Dynamics, 2020,55: 3101-3115.
+
+# Chemical characteristics and their influencing factors of precipitation at the end of the Koxkar Glacier, Tianshan Mountains
+
+WANG Jian'， HAN Haidong²， XU Junli'， YAN Wei³ (1.North Jiangsu Research Institute of Agricultural and Rural Modernization, Yancheng Teachers University, Yancheng 224007,Jiangsu,China; 2.State Key Laboratory of Cryospheric Science,Northwest Institute of Eco-Environment and Resources,Chinese Academy of Sciences,Lanzhou 73oooo, Gansu, China; 3.School of Geographic Sciences,Xinyang Normal University,Xinyang 464Ooo,Henan, China)
+
+Abstract: Atmospheric precipitation was sampled in the summer at the end of the Koxkar Glacier,Tianshan Mountains, China.Basedon analyses of the ion concentration,conductivity,and pH characteristics,we explored the solute sources and control factors for regional precipitation using factor analysis,enrichment factors,and backward trajectory tracking. Atmospheric precipitation was slightly alkaline,with a $\mathfrak { p H }$ between 7.15 and 8.52, and their anions and cations were dominated by $\mathrm { H C O } _ { 3 } ^ { - }$ and $\mathrm { C a } ^ { 2 + }$ ,respectively, which belong to the typical $\mathrm { H C O } _ { 3 } – \mathrm { C a }$ （204号 type.The conductivity and total ion concentration of precipitation during the daytime were $1 1 . 5 6 \%$ and $9 . 4 0 \%$ （204 higher,respectively,than those of the nightime;this maybe caused by the wet deposition of aerosol materials from the piedmont and plain areas with the near-surface wind under the action of valley wind or glacial wind during the daytime. Precipitation ions mainly originated from the supply of crustal source materials,accounting for $8 5 . 5 4 \%$ of the total ion content; among them, $\mathrm { H C O } _ { 3 } ^ { - }$ ， $\mathrm { C a } ^ { 2 + }$ ,and $\mathrm { M g ^ { 2 + } }$ were mainly supplied by carbonate rock weathering $( \mathrm { C a } _ { \mathrm { x } } \mathrm { M g } _ { 1 - \mathrm { x } } \mathrm { C O } _ { 3 } )$ in the Jurassic sedimentary layer and Quaternary loess sedimentary layer, whereas $\mathrm { C l ^ { - } }$ ， $\mathrm { S O } _ { 4 } ^ { 2 - }$ ， $\mathrm { \Delta N a } ^ { + }$ ,and $\mathrm { K } ^ { + }$ were mainly supplied by the evaporation of salt lakes caused by drought or the weathering of saline soil formed by alluvial/proluvial processes in Central Asia and the Tarim Basin. Only $4 1 . 5 2 \%$ of $\mathrm { { N a } ^ { + } }$ and $9 6 . 2 2 \%$ of $\mathrm { C l } ^ { - }$ in precipitation originated from ocean sources and salt lakes,and their concentration ratio was 2.13:1, indicating that ocean source air masses were affcted by the precipitation reevaporation and wind erosion of surface materials during long-distance transportation;this resulted in ocean source recharge only accounting for $4 . 8 7 \%$ of the total precipitation ions. The solute supplied by human activities was approximately twice that of ocean sources,mainly $\mathrm { N H } _ { 4 } ^ { + }$ ， $\mathrm { N O } _ { 3 } ^ { - }$ ，and $\mathrm { S O } _ { 4 } ^ { 2 - }$ ，which could provide the necessary nitrogen and sulfur for soil formation and alpine vegetation growth in the study area. Air mass backward trajectory tracking showed that westerly circulation had a significant impact on the precipitation and chemical composition in southern Xinjiang. The average proportion due to a water vapor source path and precipitation was $6 4 . 3 5 \%$ and $5 3 . 0 4 \%$ respectively. Although the total ion concentration in precipitation formed by westerly circulation accounted for only $6 9 . 9 1 \%$ of the local circulation, the average $\mathrm { N O } _ { 3 } ^ { - }$ concentration was 1.42 times that of the local circulation precipitation, indicating that the air and water quality in the Tarim Basin may be affected by human activities in Central Asia.
+
+Keywords: atmospheric precipitation; solute source； human activity； water vapor transportation； cold alpine re-gions

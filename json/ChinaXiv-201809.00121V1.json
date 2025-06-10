@@ -1,0 +1,342 @@
+[
+    {
+        "type": "text",
+        "text": "敲低ACTL6A通过Notch1信号通路促进早幼粒细胞分化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钟鹏强²刘北忠‘²姚娟娟1² 刘冬冬²袁桢²刘俊梅」陈敏」² 钟梁2\\*  \n1重庆医科大学附属永川医院中心实验室，重庆,402160;2 重庆医科大学临床检验诊断学教育部重点实验室，重庆市重  \n点实验室，重庆,400016  \n\\*通讯作者,liubeizhong@cqmu.edu.cn摘要探讨ACTL6A在人类白血病NB4细胞分化中的作用及其相关机制。我们用ATRA人为诱导 NB4 细胞分化，Western blotting 检测ACTL6A和CD11b 的表达水平变化；敲低 ACTL6A,通过瑞氏染色观察 NB4细胞的形态学改变，Western blotting 检测 ACTL6A和CD11b的表达水平变化及其相关蛋白的表达水平；敲低同时用ATRA处理NB4细胞，用流式细胞术检测分化标志物CD11b的阳性率；免疫荧光检测ACTL6A在NB4细胞中的空间定位；结果显示NB4经敲低 ACTL6A后，CD11b 的蛋白水平表达升高；瑞氏染色观察到分化改变；免疫荧光检测到ACTL6A主要分布于细胞核；Westernblotting检测到Notch1,Hes1,Sox2蛋白表达水平明显下调。本研究表明，敲低ACTL6A可以促进人类白血病NB4细胞分化；其机制涉及Notch1信号通路的抑制。  \n关键词 ACTL6A,NB4 细胞，分化,Notch1信号通路",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Knock-down of ACTL6A promote differentiation of NB4 cells via the Notch1 signaling pathway ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peng-Qiang Zhong1,2, Bei-Zhong Liu1², Juan-Juan Yao1,2, Dong-Dong Liu², Zhen Yuan², ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jun-Mei Liu1², Min Chen12, Liang Zhong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 CentralLaboratory,Yongchuan Hospitalof Chongqing Medical University，Chongqing,40216O;2KeyLaboratoryof Chongqing，Key Laboratoryof Medical Diagnosticsof Ministryof Education，Department of Laboratory Medicine, Chongqing Medical University, Chongqing, 400016   \n\\* Corresponding author, liubeizhong@cqmu.edu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract To explore the role of ACTL6A in NB4 cell differentiation and its related mechanisms. When we used ATRA to induce differentiation of NB4， the expression levels of ACTL6A and CD1lb were detected by Western blotting. Morphological changes of NB4 cells were observed by Wright staining. The positive rate of CDilb was detected by flow cytometry. Immunofluorescence was used to detect location of ACTL6A in NB4 cells; The results showed that the protein expression of CD11b increased after ACTL6A was knocked down. Differentiation changes were observed by Wright staining. Immunofluorescence detection showed that ACTL6A was mainly distributed in the nucleus. The expression levels of Notchl， Hesl and Sox2 proteins were significantly down-regulated, analysed by Western blotting. Therefore， the knockdown ofACTL6A can promote the differentiation of NB4 cells; The mechanism is involved in the inhibition of Notch1 signaling pathway. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords ACTL6A， NB4 cells， differentiation， Notch1 signal pathway",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "急性早幼粒细胞白血病（APL）是骨髓中的一种恶性肿瘤，在国际公认的Fab 分型中称为 $\\mathtt { M 3 } ^ { [ 1 ] }$ 。APL 的特征是t（15;17)突变，这是由染色体15 和17 之间易位造成的[2,3]。药物剂量全反式视黄酸（ATRA）的通过诱导早幼粒细胞的成熟和PML/RARα融合蛋白的降解，使APL 患者的临床缓解[4]。尽管如此，ATRA并没有消除 APL中的恶性髓系克隆，而且大多数复发的APL 患者都对这种药物的进一步治疗有耐药性[56]。因此，对 APL 的发病机理进行研究是非常重要的。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "粒细胞的分化是造血功能的重要组成部分。它是由一个由各种各样的调控因子组成的复杂网络控制的，包括细胞因子[7]、转录因子[8和非编码RNA[9]。任何这些重要因素的变化都可能导致对分化的解除管制，并导致严重后果，包括造血系统恶性肿瘤。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Actinlike6A（ACTL6A），一种类似于肌动蛋白的蛋白质，也被广泛地称为BAF53a/Arp4/INO80K。它是一种依赖于ATP/SNF 的BAF 染色质重塑复合物的成员，它编码了一组与肌动蛋白相关的蛋白质[1。i1]。有文章报道显示，ACTL6A 参与了不同的细胞过程，包括染色质重塑、转录调节、囊泡运输和核移植[12，13]。最近的研究表明，ACTL6A在多种肿瘤和组织中和分化相关，比如神经祖细胞分化[14]，表皮和鳞状细胞癌的分化[15]。然而，ACTL6A在APL中所扮演的角色还没有被报道。本研究主要探讨ACTL6A在APL 分化过程中的作用及其相关机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "miR-302a的mimic，敲低ACTL6A慢病毒和阴性对照来自上海吉玛；NB4细胞株来自本实验室；RPMI1640（Gibco 公司)；胎牛血清（Gimini公司)；流式检测 CD11b 的试剂(Invitrogen 公司)；ACTL6A、CD11b、Notch1 抗体(Abcam 公司)；Hes1抗体(CST 公司);β-Actin 抗体(武汉博士德生物)；二抗(北京中杉金桥公司)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2NB4细胞复苏及培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将液氮保存的 NB4 细胞复苏。用含 $1 0 \\%$ 胎牛血清和 $1 \\%$ 双抗的1640 培养基培养， $3 7 ^ { \\circ } \\mathrm { C }$ ，$5 \\%$ CO2 进行无菌培养。取处在对数增殖期的 NB4 细胞为本研究的实验对象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3瑞氏染色",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集NB4 细胞悬液，预冷的PBS 洗3 遍，用适量的PBS 重悬细胞。吸取 $5 \\mu \\mathrm { L }$ 细胞悬液均匀涂抹于载玻片约1cm 直径大小，待自然晾干后，瑞氏染液染色，晾干后镜下观察细胞形态。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4流式细胞术检测CD11b阳性率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将敲低ACTL6A的NB4和空载 NB4用ATRA处理72小时后，收集细胞，预冷的PBS 洗3遍，用 $1 0 0 \\mu \\mathrm { L }$ 的PBS 重悬;加入 $5 \\mu \\mathrm { L }$ 的CD11b 流式抗体，冰上避光30min;洗净后的 NB4细胞，PBS 重悬，上机检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5间接免疫荧光技术检测细胞中ACTL6A分布情况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取适量ATRA 处理72h 和正常 NB4 细胞悬液均匀涂于小盖玻片上，自然晾干,用 $4 \\%$ 的甲醛室温固定 $2 2 \\mathrm { \\ m i n }$ ；再用PBS清洗3遍, $0 . 1 \\%$ Triton 透膜 $1 8 \\mathrm { \\ m i n }$ ；用 $1 0 \\%$ 山羊血清室温封闭 $3 0 \\ \\operatorname { m i n }$ ;孵育兔抗人ACTL6A(1：200)单克隆抗体 $\\mathrm { 4 ^ { \\circ } C }$ 过夜;滴入 TRITC 标记",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的山羊抗兔IgG（1：200）， $3 7 ^ { \\circ } \\mathrm { C }$ 避光孵育 $^ \\mathrm { ~ 1 ~ h ~ }$ ；DAPI避光染色5min后， $7 0 \\%$ 的甘油封片，荧光显微镜下观察 ACTL6A 在细胞内的表达情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6 Western blotting 实验 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "收集处理后的细胞洗净并裂解，提取总蛋白。电泳分离转膜后，加入一抗 $4 ^ { \\circ } \\mathrm { C } ~ 1 6 ^ { \\sim } 1 8 \\mathrm { h }$ 。  \n用 TBST 和 TBS 洗膜，室温孵育二抗1.5h。ECL 化学发光成像分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7统计学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用 $\\mathrm { ~ x \\pm s ~ }$ 表示本实验所得的数据，统计学分析用 SPSS17.0 软件，所有实验重复3 次以上， $\\mathrm { p } { < } 0 . 0 5$ 表示有统计学意义 (差异显著)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1ACTL6A在ATRA诱导NB4细胞分化过程中表达下调 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用ATRA（ $\\mathrm { ~ \\stackrel { ~ 1 ~ } { ~ \\textmu ~ m o l / L } ~ }$ ）处理NB4细胞 $\\mathrm { 7 2 h }$ ，通过Westernblotting 检测ACTL6A和CD11b的表达水平变化。结果显示，ATRA 诱导NB4 细胞的分化过程中，ACTL6A表达下调（图1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b2da9d7f1cf3cb8144191a63fee81dba06268dce5fedb0565839dd18e1432ae.jpg",
+        "img_caption": [
+            "图1ACTL6A在ATRA 诱导 NB4 细胞分化过程中表达下调 注：ATRA（1 μ mol/L）处理 NB4细胞 $7 2 \\mathrm { h }$ ，Western blotting 检测 ACTL6A 和CD11b 的蛋白表达水平 Figure 1 The expression levels of ACTL6A during ATRA-induced granulocytic differentiation of NB4 Note: Western blotting analysis the protein expression levels of ACTL6A and CD11b in NB4 and HL-6O cells treated with ATRA ( $1 \\mu \\mathrm { m o l / L } )$ for 72 hours. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2敲低ACTL6A促进NB4细胞分化。",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们用慢病毒作为载体，构建ACTL6A敲低的NB4细胞株，通过瑞氏染色观察 NB4细胞的形态学改变。结果显示，敲低ACTL6A后，NB4呈现分化的形态学改变（图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5a56d45c63f12b454ce233743756278d430ce88ed79f124c78f1a4896ac43ec.jpg",
+        "img_caption": [
+            "图2敲低ACTL6A促进NB4细胞分化注：慢病毒作为载体，构建 ACTL6A 敲低的NB4 细胞株。A:qRT-PCR 检测 ACTL6A的 mRNA 水平的表达；B:瑞氏染色观察NB4细胞的形态学改变",
+            "Figure 2 The knockdown of ACTL6A promotes granulocytic differentiation of NB4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note: A: The mRNA expression level of ACTL6A were detected by qRT-PCR; B: morphological observation of shAcTL6A cells analysis by Wright staining experience. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3敲低ACTL6A增强ATRA诱导的NB4细胞的分化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在成功构建敲低 ACTL6A的 NB4 细胞株后，用空载 NB4作为对照，ATRA（1μmol/L）处理72h，通过流式细胞术检测分化标志物CD11b 的改变。结果显示，CD11b 相较对照组表达升高，说明敲低 ACTL6A可以促进ACTL6A诱导的NB4 细胞的分化（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/abccdeffb94a1dc2dfa9bac350167645293bb69ccb08e5da3c9ed9a805d7b0f6.jpg",
+        "img_caption": [
+            "图3敲低ACTL6A增强ATRA诱导的NB4细胞的分化 注：构建敲低 ACTL6A的NB4 细胞株后，用空载 NB4作为对照，ATRA（1μmol/L）处理72h，通过流式细 胞术检测分化标志物CD11b的改变 Figure 3 The knock down of ACTL6A promote differentiation of NB4 induced by ATRA Note: Flow cytometry was used to detect the level of CD11b positive rate in NB4 cells "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4ACTL6A在细胞内的定位",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ATRA（1μmol/L）处理NB4 细胞72h后，免疫荧光检测ACTL6A的空间定位。结果显示，在 NB4细胞中，ACTL6A主要分布于细胞核，少量分布于细胞质。ATRA处理并不会改变ACTL6A的空间定位，但是会下调ACTL6A的荧光表达（图4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5995c7da44142edab89b7b3a88f1ec0f5a1a53c3f897871f7acc2240d63abef2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4ACTL6A在细胞内的定位  \n注：ATRA（1μmol/L）处理 NB4 细胞72h 后，免疫荧光检测ACTL6A的空间定位  \nFigure 4 Immunofluorescence analysis ( $\\langle \\times 4 O O \\rangle$ of endogenous ACTL6A (red) localizations inNB4 cells after treated with ATRA for 72 hours.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5miR-302a可以下调ACTL6A的表达",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用 mimic 过表达miR-302a，通过Western blotting 检测ACTL6A和CD11b 的表达水平变化。结果显示，过表达miR-302a后，ACTL6A表达下降，但是CD11b 没有明显变化（图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff25e52b5a1ccdc8e64cdafab8f2db110910df91ccf6ced9e7755d5b44ae31f8.jpg",
+        "img_caption": [
+            "图 $5 \\ \\mathrm { \\ m i R - 3 0 2 a }$ 可以下调ACTL6A的表达注：使用mimic 过表达 miR-302a，Western blotting 检测 ACTL6A 和CD11b 的表达水平变化Figure 5 Western blotting was used to detect the level of ACTL6A and CD11b"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6敲低ACTL6A抑制Notch1信号通路，促进NB4细胞分化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "构建敲低ACTL6A的 NB4 细胞株后，通过Westernblotting检测ACTL6A,CD11b,Notch1,Hes1的表达水平变化。结果显示，ACTL6A被成功敲低后，Notchl信号通路活性下降，CD11b表达升高（图6)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eaeeff4b82054dd485ea6b8cc457f9ecd3a3944c14abbb9ed728694f6eae15b.jpg",
+        "img_caption": [
+            "",
+            "图6 敬低ACIL6A抑制NotChI信亏通路，促进NB4细胞分化 注：敲低 ACTL6A，Western blotting 检测 ACTL6A,CD11b,Notch1,Hes1 的表达水平变化 Figure 6 Western blotting was used to detect the level of ACTL6A， CD11b， Notch1 and Hes1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "APL 作为骨髓中的一种恶性肿瘤，具有发病急，病情凶险，早期死亡率高等临床特征。虽然药物剂量ATRA可以使APL 患者病情缓解。但是，ATRA所起到的副作用仍然没有得到很好的解决。因此，对APL的发病机理进行研究或许可以为此提供更好的解决思路和方法。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ACTL6A是一种多功能蛋白质，可通过染色质重塑起到转录激活和抑制特定基因的作用[。ACTL6A与某些疾病的联系是由其在不同疾病中异常的调节所表现出来的，这些疾病是由许多与细胞分化有关的基因调控的。然而，ACTL6A在APL发生发展中所扮演的角色还没有被报道。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "我们的研究发现，敲低ACTL6A之后，髓系分化标志物CD11b表达升高，并且通过瑞氏染色可以观察到分化的形态学改变。在ATRA处理后，敲低ACTL6A的NB4细胞相较对照组分化更明显。同时，我们还通过Westernblotting检测到Notch1信号通路的下调。接下来，我们还分析了ACTL6A在NB4细胞中的分布情况，发现ACTL6A主要分布与细胞核，并少量分布于细胞质，ATRA的处理并不会改变ACTL6A的空间分布特点，提示我们ATRA的分化可能和ACTL6A的空间分布并无直接关系。值得注意的是，miR-302a的 mimic 虽然并没有引起CD11b 的升高，但是其在APL 细胞增殖中的作用仍值得进一步研究。以上结果证实，敲低 ACTL6A可以促进APL的分化，并且可能是通过Notch1信号通路实现的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作者贡献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "钟鹏强是本研究的实验设计和实验研究的执行人，完成数据分析，论文初稿的写作；姚娟娟和刘冬冬参与实验设计、实验结果分析；袁桢和刘俊梅参与实验数据的记录；刘北忠和陈敏参与指导实验设计；钟梁是项目的构思者及负责人，指导数据分析、论文写作与修改。全体作者都阅读并同意最终的文本。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究由国家自然科学基金(81772280)资助。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Lcs T，Pombodeoliveira M S. Acute promyelocytic leukaemia is highly frequent among acute myeloid leukaemias in Brazil: a hospital-based cancer registry study from 2001 to 2012. Annals of Hematology，2016，96(3):1-8.   \n[2] Lafagepochitaloff M, Alcalay M, Brunel V,et al. Acute promyelocytic leukemia cases with nonreciprocal PML/RARa or RARa/PML fusion genes. Blood，1995，85(5):1169-1174. [3] Mozziconacci M-J， Liberatore C, Brunel V,et al. In vitro response to all-trans retinoic acid of acute promyelocytic leukemias with nonreciprocal PML/RARA or RARA/PML fusion genes. Genes Chromosomes & Cancer，1998，22(22) :241-250.   \n[4] Gianni M, Fratelli M, Bolis M, et al. RARalpha2 and PML-RAR similarities in the control of basal and retinoic acid induced myeloid maturation of acute myeloid leukemia cells. 0ncotarget， 2017，8(23) :37041-37060.   \n[5] Marasca R, Zucchini P,Galimberti S,et al. Missense mutations in the PML/RARalpha ligand binding domain in ATRA-resistant As(2)o(3) sensitive relapsed acute promyelocytic leukemia. Haematologica，1999，84(11) :963-968.   \n[6] Roussel M J，Lanotte M. Maturation sensitive and resistant t(15;17) NB4 cell lines as tools for APL physiopathology: nomenclature of cells and repertory of their known genetic alterations and phenotypes. Oncogene， 2001， 20(49):7287-7291.   \n[7] Metcalf D. Hematopoietic cytokines. Blood， 2008，111(2):485-491.   \n[8] Friedman A D. Transcriptional control of granulocyte and monocyte development. Oncogene，2007，21(21) :3377-3390.   \n[9] Lee S, Seo H H, Lee C Y，et al． Human Long Noncoding RNA Regulation of Stem Cell Potency and Differentiation. Stem CellsInternational,2017,(2017-8-30)， 2017, 2017(5) :1-10.   \n[10]Nishimoto N, Watanabe M, Watanabe S,et al. Heterocomplex formation by Arp4 and β -actin is involved in the integrity of the Brgl chromatin remodeling complex. Journal of Cell Science，2012，125(16):3870-3882.   \n[11] Wu J I. Diverse functions of ATP-dependent chromatin remodeling complexes in development and cancer．生物化学与生物物理学报(英文)，2012，44(1):54-69.   \n[12]Prasad P,Ronnerblad M, Arner E,et al. High-throughput transcription profiling identifies putative epigenetic regulators of hematopoiesis. Blood, 20l4,123(17) :46-57. [13] Vogelciernia A, Matheos D P, Barrett R M, et al. The neuron-specific chromatin regulatory subunit BAF53b is necessary for synaptic plasticity and memory. Nature Neuroscience，2015，16(5) :552-561.   \n[14] Krasteva V， Buscarlet M, Diaztellez A,et al. The BAF53a subunit of SWI/SNF-like BAF complexes is essential for hemopoietic stem cell function. Blood， 2012, 120(24) :4720-4732.   \n[15] Saladi S V, Ross K, Karaayvaz M, et al. ACTL6A is co-Amplified with p63 in Squamous Cell Carcinoma to Drive YAP Activation, Regenerative Proliferation and Poor Prognosis. Cancer Ce1l，2016，31(1) :35-49.   \n[16] Wade S L,Langer L F, Ward J M, et al. MiRNA-mediated regulation of the SWI/SNF chromatin remodeling complex controls pluripotency and endodermal differentiation in human ES cells. Stem Cells，2015，33(10):2925-2935. ",
+        "page_idx": 6
+    }
+]

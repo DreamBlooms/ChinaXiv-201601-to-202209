@@ -1,0 +1,247 @@
+# Cu的析出及其对FeCrMoCu合金阻尼性能和力学性能的影响\*
+
+胡小锋」 杜瑜宾 1,2 闫德胜’戎利建‘
+
+1 中国科学院核用材料与安全评价重点实验室(中国科学院金属研究所)，沈阳110016
+
+2 中国科学技术大学材料科学与工程学院，沈阳 110016
+
+摘要采用扫射电镜(STEM)和动态机械分析仪(DMA)研究了FeCrMoCu 合金(Cu 添加量为 $1 . 0 \%$ 和 $2 . 0 \%$ ，质量分数)  
+在不同冷速条件下Cu的析出行为及其对阻尼性能和力学性能的影响。结果表明： $1 . 0 \mathrm { C u }$ 合金中 $\mathtt { C u }$ 主要以过饱和的形式固溶在页  
+基体，当冷速较慢冷)时会析出少量的富Cu相，该相尺寸较小 $( < 5 \mathrm { { n m } } )$ ，Cu含量较低 $( 3 . 7 \% )$ ；Cu增加到 $2 . 0 \%$ 后，随着冷速的  
+下降(从水冷到空冷，最后到炉冷)，合金中先析出数量较少、尺寸较小的富 $\mathrm { c u }$ 想随后析出数量较多、尺寸稍大的球状第二相报  
+$( 1 0 - 1 5 \mathrm { n m } )$ ，最后析出相粗化成圆棒状( $1 0 0 { \sim } 4 0 0 \mathrm { n m }$ 但数量显著减少，后两种析出相的 $\mathrm { c u }$ 含量明显增加 $( 3 0 { \sim } 4 0 \%$ 。含 $\mathrm { c u }$ 第二相  
+的析出，明显增加合金平均内应力，使合金的阻尼性能显著下降，因此有第二相析出的 $2 . 0 \mathrm { C u }$ 合金阻尼性能明显低于 $1 . 0 \mathrm { C u }$ 合金。X  
+与此同时，合金的强度随着富 $\mathtt { C u }$ 相的析出而明显提高，其中反较小的富Cu相析出强化效果较好，且对塑韧性的影响相对较  
+小。含 $1 . 0 \% \mathrm { C u }$ 的FeCrMoCu合金可以同时获得较好的阻尼性能和力学性能。
+
+发关键词 FeCrMoCu合金，Cu，冷却速，析出相，阻尼性能文章编号 0412-1961(2017)00-0000-00
+
+# Cu Precipitation and Its Effect on Damping Capacity and A Mechanical Properties of FeCrMoCu Alloy
+
+版 HU Xiaofeng1,DUYubin12,YANDesheng,RONGLiian 1 CAS Key Laboratory ofNuclear Materialsand Safety Asessment, Institute of Metal Research, Chinese Academy of Sciences, Shenyang i10016, China 2 School of Materials Scienceand Engineering,University of Science and Technologyof China,Shenyang 10016 China Correspondent: HU Xiaofeng， associate professor, Tel: (O24)83978883，Em xfhu @imr.ac.cn Supported by National Natural Science Foundation of China (No. 51301170) Manuscript received 2016-11-11, in revised form 2017-02-15
+
+ABSTRACT Fe-Cr based damping alloys have high mechanical properties and good corrosion resistance, which have been applied to reduce vibrati6n and noise. THeir high damping behavior is
+
+primarily attributed to the stress-induced irreversible movement of $9 0 \textdegree$ magnetic domain walls. Most researches mainly focused on the damping behavior of this kind alloys.However, litle attention has been paid to the mechanical properties,which are the important consideration for engineering applications. Recently, a FeCrMo damping alloy with $\mathtt { C u }$ addition was found to possess higher damping capacity and higher mechanical properties. In this work, scanning transmission electron microscopy (STEM) and dynamic mechanical analyzer (DMA) were used to   
+in FeCmMo h $\mathtt { C u }$ py $1 . 0 \%$ $2 . 0 \%$   
+results show that the Cu element in $1 . 0 \mathrm { C u }$ alloy is fully dissolved in the matrix. When the cooling   
+rate is slow (Furnace cooling)here will predipitate a small amount of scond phases, which are small in size ( $( < 5 \ \mathrm { n m } )$ and contain relatively few $\mathtt { C u }$ atoms $( 3 . 7 \% )$ . As for $2 . 0 \mathrm { C u }$ alloy，with   
+decreasingcoelgrate (Frbywater cooling toaircooling,andtofurmace cooling）there will firstly precipitate a small amount of second phase with small size ( $( < 5 \ \mathrm { n m } )$ ； Subsequently, the particles grow into a spherical shape $( 1 0 { \sim } 1 5 ~ \mathrm { n m } )$ and their number increases; At last, the particles transform into round bar with coarse size of $1 0 0 { \sim } 4 0 0 ~ \mathrm { n m }$ and_the precipitate number decreases   
+obviously. The Cu content of the latter two precipitates increased obviously (About $3 0 { \sim } 4 0 \%$ ） These precipitates will significantly increase the average internal stress of the experimental   
+FeCrMoCu alloy, which will obviously decreasthe dampigcapacity. Therefore, the damping capacity of $2 . 0 \mathrm { C u }$ alloy is much lower than that of $1 . 0 \mathrm { C u }$ alloy. Meanwhile, the precipitate will obviously improve strength. Compared with coarsen Cu-riched phase, the finer second phase has better hardening effect and its fluence on'ductility and toughness is relatively small. The   
+FeCrMoCu alloy with addition of $1 . 0 \%$ Cu can obtain better damping capacity and mechanical properties at the same time.
+
+KEY WORDS FeCrMoCu alloy, Cu, cooling rate, precipitate, damping capacit
+
+i报
+
+FeCr 系合金是一种铁磁型阻尼合金，其阻尼性能产生于力诱导下金内磁畴壁的不可逆运动。该合金的特点是阻尼性能较高，尤其是在一定温度 $( < 3 5 0 \ \mathrm { ~ } ^ { \circ } \mathrm { C } )$ 下阻尼性能基本稳发定[1-4]。该合金中Cr含量(质量分数)一般为13\~1，也是一种组织为单一铁素体的不锈钢,具有一定的合金强度和耐腐蚀性能。因此该阻尼合金综合性能良好，具有较好的工业金应用前景[7]。典型的铁磁型阻尼合金有FeCrMo 和FeCrAl等，合金中适量添加Mo、Al元X素后，合金的磁滞饱和系数λ增加，阻尼性能提高[8-1]。该系阻尼合金一般要经高温退火处学 布理，以消除内应力、增加磁畴壁的可移动性，从而提高阻尼性能[8,12]。然而，高温退火处理使合金的晶粒明显粗化，严重降低合金的强度，直接影响合金工程应用前关于如何17提高FeCrAl(Mo)合金强度的研究鲜有报道，多数集中于阻尼机制方面。林仁荣等[13,14]研究孤发现在Fe-13Cr-6Al合金中添加少量的Cu 后，可时提高阻扈性能和强度，但对其影响机理缺乏系统的研究。
+
+近期，胡小锋等[15]研究了Cu对Fe-16Cr-2.5Mo 合金组织和性能的影响，结果显示少量$\mathrm { C u } ( 0 . 5 { \sim } 1 . 0 \% )$ 的加入可以起到明显细化晶粒作用，Cu以过饱和的形式固溶在铁素体基体，从而利用固溶强化提高强度，同时因Cu未发生析出不降低阻尼性能，反而因磁畴结构的改善而提高了阻尼性能。本研究将在上述工作的基础上，通过改变退火后的冷却速率，研究Cu 在Fe-16Cr-2.5Mo 合金中的析出行为及其对力学性能和阻尼性能的影响规律，以期对开发综合性能良好的工程用FeCr系阻尼合金具有理论指导意义。
+
+# 1 实验方法
+
+报
+
+实验用FeCrMoCu阻尼合金的名义成分(质量分数， $\%$ ）为：Cr16,Mo 2.5， $\mathtt { C u }$ 含量分别当 X为1.0和 2.0，其中杂质元素名量控制较低，如 $\mathrm { ~ \cal ~ C ~ }$ 低于 $6 0 \times { { 1 0 } ^ { - 6 } }$ ，0、 $\mathbf { N }$ 均低于 $3 0 \times { { 1 0 } ^ { - 6 } }$ ,S、P含量均低于60× ${ { 1 0 } ^ { - 6 } }$ ，Fe余量。2种 $\mathtt { C u }$ 含量的阻尼合金分别记为 $1 . 0 \mathrm { C u }$ 和 $2 . 0 \mathrm { C u }$ 。合金采Y 庆用真空感应炉冶炼，原材料为工业纯 Fe 和 $9 9 . 9 \%$ 的高纯金属Cr、Mo 和 $\mathtt { C u }$ 。先冶炼预16Cr-2.5M海合金，然后再冶炼2种 $\mathtt { C u }$ 含量的合金。合金锭经锻造、热轧后制成 $1 2 \mathrm { m m }$ 厚的板材。退火工艺采用1000℃保温 $^ \textrm { \scriptsize 1 h }$ ，随后分别采用水冷(WC)、空冷(AC)和炉冷(FC)等 3 种冷却方式来改变冷却速率(从水冷到炉冷的冷速逐渐下降)，以研究不同冷速处理后XCu 的析出行为及其对合金性能的影响。
+
+热处理后的板材分别加工成同实验需要的试样。阻尼测试样品尺寸为 $6 0 ~ \mathrm { { m m } } \times 8 ~ \mathrm { { m m } }$ $\times 0 . 8 ~ \mathrm { m m }$ ，表面磨平见光。采TAQ800型动态机械分析仪(DMA)的双悬臂振动模式测量合金的阻尼 $( \boldsymbol { Q } ^ { - 1 }$ ：品质因素的倒数)应变振幅曲线，测试温度为 $3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，测试频率为 $1 \ : \mathrm { H z }$ 。冲击试样采用标准的Charpy-V 型缺口冲击试样 $( 5 5 ~ \mathrm { m m } { \times } 1 0 ~ \mathrm { m m } { \times } 1 0 ~ \mathrm { m m } )$ ，常温冲击实验在RKP450 冲击试验机上进行。拉伸试样采用棒状拉伸试样(试样的行段直径为 X $\mathfrak { S } _ { \mathrm { m m } } ^ { \mathrm { ( ) } }$ ，室温拉伸实验在 AK-1000 KNG 拉伸机上进行。 最 发
+
+金相组织观察试样经 $\mathrm { 5 ~ g ~ C u _ { 2 } S O _ { 4 } + 2 0 ~ m l ~ H C l + 2 0 ~ m l ~ H _ { 2 } O }$ 溶液腐刻后，采用GX51型光预学显微镜(OM)观察试样组织。扫播透射电镜释器分别从不同冷速处理后的试样上切取，经研磨后通过双喷电解减薄制得，电解液为 $10 \%$ (体积比)的高氯酸酒精溶液。双喷电压为12V温度为-20C。利用 JEM-2100F 扫描透射电镜(STEM)观察样品中析出相的形及分布，子时利用其附带的EDS分析析出相的成分。
+
+# 2实验结果与讨论
+
+# 2.1 Cu的析出行为
+
+属发金预
+
+图1所示为2种合金经不同冷速处理后的微观组织。由图可见，合金组织由铁素体晶粒组成，以多边形的较大晶粒为主，分布着少量尺寸较小的晶粒，存在小晶粒可能是由于保温时间较短，还没完全被长大的粗晶粒吞并。金相组织中不同晶粒呈现不同的颜色，可能是各晶粒的取向不同造成的。同一种合金随着冷速的下降，其晶粒尺寸呈现单调递增的趋势。图
+
+2 所示为2种合金经不同冷速处理后的平均晶粒大小。由图可见，水冷的 $1 . 0 \mathrm { C u }$ 合金晶粒尺寸为 $5 8 ~ { \mu \mathrm { m } }$ ，而炉冷处理后合金的晶粒尺寸增加到 $9 2 \mu \mathrm { m }$ 。类似地，水冷 $2 . 0 \mathrm { C u }$ 合金晶粒尺寸为 $1 9 3 ~ { \mu \mathrm { m } }$ ，长大到了炉冷的 $3 3 5 ~ { \mu \mathrm { m } }$ 。总体上， $1 . 0 \mathrm { C u }$ 合金的晶粒尺寸明显小于 $2 . 0 \mathrm { C u }$ 合金，Nakashima等[1]在Fe-Cu二元合金中也观察到类似的结果。有研究[17]认为在Fe-Cu 二元系中 $\mathtt { C u }$ 的扩散速率低于晶界的移动长大速率。本实验合金固溶在基体中的 $\mathtt { C u }$ 将阻碍晶粒的长大，因此Cu 加入合金后有细化晶粒的作用。但Cu 加入量较多 $( 2 . 0 \% )$ 时，较高含量的Cu 使合金的晶格畸变加剧，而有利于散传质的进行，造成Cu 的细化晶粒效果变差。而随着冷速的下降，合金在高温区停留的时间延长，合金元素的扩散更充分，晶粒尺寸也随庆  
+P  
+之长大。
+
+![](images/24b474f4cc59247385b8f9fe0d7e2cc64033bb514eac5260a88174e0be090fa3.jpg)  
+图12种合金经不同冷却速率处理后的显微组织
+
+Fig.1 Microstructures of $1 . 0 \mathrm { C u }$ alloy (a\~c) and 2.0Cu alloy (d\~f) under WC (a, d),AC (b, e)
+
+FC (c, f) (WC - Water ooling, AC - Air cooling,FC - Furnace cooling)
+
+![](images/e71fbcdf5952b535ae90b11bac03cf6b763a2796d7095ece8fed096dd8715c43.jpg)  
+图22种合金经不同冷却速率处理后的晶粒大小
+
+Fig.2 Grain size of two FeCrMoCu alloys under different cooling rates
+
+图3所示为2种合金在不同热处理状态下的TEM像。由图可见， $1 . 0 \mathrm { C u }$ 合金经水冷和空冷处理后，晶粒内部较干净，没有观察到析出相存在(图3a 和b)。随着冷速的进一步降低，在炉冷的 $1 . 0 \mathrm { C u }$ 合金中发现有第二相析出，其尺寸细小，数量较少。这说明在 $1 . 0 \mathrm { C u }$ 合金中，Cu主要以过饱和固溶的形式存在于基体中。与1.0Cu合金不同，3种冷速的 $2 . 0 \mathrm { C u }$ 合金均有第二相析出，且随着冷速的下降，析出相的尽寸逐步长大粗化，其中析出数量最多的是空冷X合金，而炉冷合金第二相尺寸最粗大，但数量最少。此外，在炉冷 $2 . 0 \mathrm { C u }$ 合金中除了粗大的尚 茶第二相外，还有尺寸较小的第二相，数量较少。表1所示为各析出相的尺寸和 EDS 成分分析结果。由表可知，上述实验合金中析出的均是含Cu颗粒，按Cu颗粒的尺寸可分为三类，A第一类尺寸小 $( \breve { < } 5 \mathrm { ~ n m } )$ ，其外形呈小条状或近球状，该类析出相的Cu含量最低，为 $3 . 7 { \sim } 4 . 5 \%$ 。预该析出相颗粒小，在进行能谱分析时易受到基体成分的影响，因此实际Cu 含量应高于上机述分析值，说明该析出相是富 $\mathtt { C u }$ 第二相。如在炉冷的1.0u合金和水冷的 $2 . 0 \mathrm { C u }$ 合金中均析出此类颗粒。第二类尺寸较大，为10-15，其外形球状，该类析出物的Cu 含量约$32 \%$ ，如空冷的 $2 . 0 \mathrm { C u }$ 合金的析出相即属于此类，而在炉冷 $2 . 0 \mathrm { C u }$ 合金中也存在少量的该类出析出相；第三类 $\mathtt { C u }$ 颗粒的尺寸最大，外形里圆棒状，其长度为 $1 0 0 { \sim } 4 0 0 \mathrm { n m }$ ，该类析出相的Cu含量接近 $4 0 \%$ 本实验中只有炉冷的 $2 . 0 \mathrm { C u }$ 合金出现此类颗粒。三类析出相的Cu 含量生均不超过 $5 0 \%$ ，统称为富 $\mathtt { C u }$ 相，不同尺寸的富Cu 相对应着不同的Cu含尺寸越大Cu报含量越高。
+
+由图3还可以看出，2 种合金中均未观察到有碳化物存在而且晶内也未观察到位错。对 $1 . 0 \mathrm { C u }$ 合金而言，在冷速更慢的炉冷合金中出现数量不多的位错(图3c)，其可能原因是在A透射样品制备过程中，样品发生了变形从而引入的位错。需要指出的是，对合金的晶界也进预行了观察，但未发现有富Cu相和碳化物存在为了提高阻尼性能，FeCrMoCu合金在制备过程中首先要严格控制冶炼时杂质元素的引入，然后需要采用高温退火处理消除合金中的位错和内应力。本实验中合金的C 含量小于 ${ { 6 0 \times 1 0 } ^ { - 6 } }$ ，含量较低，因此在合金中没有观察到碳子化物的析出。而轧制态板材经1000℃高温退火处理后，晶粒得到完全回复、长大，使晶内位错充分消除。 属发
+
+金预
+
+![](images/9aafa4119c1fb20090ca1c4bd6a36c366bbd93572ecfaed6ace098e8c56e45e4.jpg)  
+图32种合金经不同冷速处理后的TEM像
+
+Fg3 TEM idges of 1.0Cu alloy (a \~ c) and $2 . 0 \mathrm { C u }$ alloy (d\~ f) annealed with different coling rates: (a, d) WC, (b, e) AC, (c, 枫
+
+# 表1实验合金中析出相的尺寸和EDS成分分析结果
+
+Table 1 Precipitate size and compositions by EDS analysis for FeCrMoCu damping alloys
+
+<html><body><table><tr><td rowspan="2">Alloy</td><td rowspan="2">method Coe</td><td rowspan="2">Predipilate size (nm)</td><td colspan="4">Mass fraction, %</td></tr><tr><td>Cu</td><td>Cr</td><td>Mo</td><td>Fe</td></tr><tr><td>1.0</td><td></td><td><5</td><td>3.7</td><td>18.6</td><td>2.6</td><td>Bal.</td></tr><tr><td rowspan="3">2.0Cu</td><td>WC</td><td><5</td><td>4.5</td><td>18.3</td><td>2.5</td><td>Bal.</td></tr><tr><td>AC</td><td>10~15</td><td>31.4</td><td>14.1</td><td>1.7</td><td>Bal.</td></tr><tr><td rowspan="2">FC</td><td>10~15</td><td>32.9</td><td>12.6</td><td>1.8</td><td>Bal.</td></tr><tr><td></td><td>100~400</td><td>39.3</td><td></td><td>1.6 KVBal.</td><td></td></tr></table></body></html>
+
+2 种合金因 $\mathtt { C u }$ 的加入量及冷速的不同，微观组织存在较大差别。实验合金在高温退火F  
+时 $\mathtt { C u }$ 完全固溶在基体里，而室温下Cu 在铁素体中的固溶度低，不到 $0 . 0 2 \ \% ^ { [ 1 8 ] }$ ，说明 $\mathrm { c } _ { \mathrm { u } }$   
+将在退火后的冷却过程中发生析 然而实验结果表明，本实验FeCrMoCu合金中即使 $\mathtt { C u }$ >  
+含量为 $1 . 0 \%$ ，也并不一定发生析出(图3a-b)。Cu 脱溶析出的驱动力是自由能的降低，但新  
+相的析出会增加界面能从而对析出产生一定的阻力[19]，这说明脱溶析出过程并不完全按平X 布  
+衡过程进行。本实验中Cu的析出主要与Cu含量和冷速的快慢有关。实验FeCrMoCu合金  
+在高温退火时， $\mathtt { C u }$ 完全固溶在基体中，随着温度的逐渐下降，固溶度逐渐降，则可能  
+发生析出。 $2 . 0 \mathrm { C u }$ 合金因Cu含量较高，退火后冷却过程中具有较高的过饱和度，脱溶析出X  
+的驱动力较大。因此，本实验中 $2 . 0 \mathrm { C u }$ 合金都析出了 $\mathtt { C u }$ 颗粒，但不同冷速下析出的Cu颗  
+粒数量和尺寸都不相同。水冷处理时合金在高温保持的时间少， $\mathtt { C u }$ 虽有析出，但数量较少  
+而且来不及长大，该析出相尺寸较小(图3d)，且 $\mathtt { C u }$ 含量较低 $( 4 . 5 \% )$ ，属于第一类富Cu 相。  
+研究表明[18.20.211，这种析出相与基体共格，是因为共格界面的界面能低，第二相更容易形核  
+长大。随着析出相的长大，其 $\mathtt { C u }$ 含量逐渐提高，并最终转变成与基体非共格的富 $\mathtt { C u }$ 相[19]。  
+如本实验中的空冷时冷速相对较慢，因高温处停留的时间较长，则析出第二类富Cu相，其  
+尺寸长大到 $1 0 { \sim } 1 5 \mathrm { n m }$ ，且数量增加，外形呈球状(图3e)，其 $\mathtt { C u }$ 含量增加到 $30 \%$ 以上；随着  
+冷速的进一步降低，高温保温时间长，基体中Cu的析出基本完成，根据Ostwald 熟化过程  
+[22]，为了降低界面能，较小的Cu颗粒将发生溶解，而较大的 $\mathtt { C u }$ 颗粒将长大粗化，并最终X  
+呈棒状(图 3f)。因此，在该合金中存在少量未溶解的小尺寸第二类富Cu 相，而多数的圆棒兴 茶  
+状颗粒长度达到100\~400 nm此为第三类富Cu相。与 $2 . 0 \mathrm { C u }$ 合金不同， $1 . 0 \mathrm { C u }$ 合金中Cu  
+含量较低，Cu哲出的驱动下降，因此在冷速较快的水冷和空冷合金中，没有发生Cu 相蜀 庆  
+析出(图 3a-b)。仅在冷速较慢的炉冷合金中析出了数量较少的富Cu 相(图3c)，其尺寸小于 5  
+且Cu含仅为 $3 . 7 \%$ ,为第一类富 Cu 相。需要指出的是，根据上述实验结果可知， $2 . 0 \mathrm { C u }$ （204号  
+合金在炉冷到空冷的不同冷速条件下均析出了Cu颗粒，可以推测 $2 . 0 \mathrm { C u }$ 合金在热轧降温过  
+程中(轧后空冷至室温)，Cu将发生析出，即轧制态2.0Cu金存在富Cu相。相反因冷速较子  
+快，在轧制态1.0Cu合金中应没有富Cu 相的析出。
+
+# 2.2 合金的阻尼性能
+
+属发
+
+图4所示为2种合金在不同冷速处理后的阻尼-应变振幅曲线。由图可见，轧制态合金生的阻尼性能均较低，其阻尼曲线先呈缓慢上升趋势，在达到一个较低的平台后维持不变，最X大阻尼值 $\boldsymbol { Q } _ { \mathrm { ~ \tiny ~ m a x ~ } } ^ { - 1 }$ 不超过0.013。轧制态合金的阻尼曲线不具备铁磁合金“上升快、下降慢”当 ?的特点[5]，因此轧制态FeCrMoCu阻尼合金基本不具有铁磁性阻尼。其原因在于FeCrMoCu合金经历大变形后，合金内分布着高密度位错和较大的内应，这些因素限制了磁畴结构的寓 A移动，使合金的磁阻尼性能表现不出来。
+
+轧制合金经高温退火随后不冷速处理后哈金的阻尼性能均有不同程度的提高，且呈现出典型的铁磁阻尼性能特征，但2种合金阻尼性能大小不同，并且随冷速的变化规律也不同。如 $1 . 0 \mathrm { C u }$ 合金，阻尼性能最好的是空冷合金，其 $\mathcal { Q } _ { \mathrm { ~ \tiny ~ m a x } } ^ { - 1 } { = } 0 . 0 5 0$ ，最低的是炉冷合金子$( \boldsymbol { Q } ^ { - 1 } , \mathrm { m a x } ^ { = 0 . 0 3 0 ) }$ ，水冷合金 $\scriptstyle Q ^ { - 1 } { \mathrm { ~ } } _ { \mathrm { m a x } } = 0 . 0 4 4$ ，略低于空冷合金(图4a)。与 $1 . 0 \mathrm { C u }$ 合金相比， $2 . 0 \mathrm { C u }$ 合金的阻尼性能均较低，其阻尼性能最好的是水冷合金 $( \boldsymbol { Q } ^ { - 1 } , \sin \alpha = \stackrel { \widehat { \alpha } } { \theta \theta 2 } 8 )$ ，比1.合金最差的阻尼性能(0.030)还低。随着冷速的降低，空冷、炉涂的 $2 . 0 \mathrm { C u }$ 阻尼性能逐步下降，其中最低的是炉冷合金，其最大阻尼值 $\boldsymbol { Q } _ { \mathrm { ~ \tiny ~ m a x ~ } } ^ { 1 }$ 仅为 $0 . 0 \widetilde { 2 0 }$ 。
+
+![](images/b54c76ebab496659e7d66e7a3f82579539dc7cba13f4fdb38111e7e52cbf210e.jpg)  
+图42种合金经不同冷速处理后的阻尼-应变振幅曲线
+
+Fig.4 Variation of damping capacity $Q ^ { - 1 }$ with strain amplitude $\varepsilon$ for two FeCrMoCu alloys + with different cooling rates 预 (a) $1 . 0 \mathrm { C u }$ alloy, (b) $2 . 0 \mathrm { C u }$ alloy
+
+》轧制态 FeCrMoCu 合金在高温退火过程中，晶粒得到完全回复并长大，此时合金内的K  
+位错密度和内应力得到了较大程度的消除，因此磁畴结构移动能力提高，阻尼会得到较大幅  
+度的提高。但不同冷速处理的样品其阻尼性能有较大差这主要与合金的第二相有关[23]。  
+根据 Smith-Birchak 内应力理论模型[24,25](简移S-B 模型)，在低应变振幅区 $( \leq \mathcal { E } _ { \operatorname* { m a x } }$ ， $\boldsymbol { Q } _ { \mathrm { ~ \tiny ~ m a x ~ } } ^ { 1 }$ 对物 沃  
+应的应变振幅)，铁磁型合金的最大阻尼 $\boldsymbol { Q } _ { \mathrm { ~ \tiny ~ m a x ~ } } ^ { - 1 }$ 可表示为：
+
+金
+
+$$
+Q _ { \mathrm { ~ \ m a x } } ^ { - 1 } = \frac { 0 . 3 4 K E \lambda _ { \mathrm { s } } } { \pi \sigma _ { \mathrm { i } } }
+$$
+
+报
+
+式中， $K$ 是无量纲常数， $E$ 是 Young's 模量， $\lambda _ { \mathrm { s } }$ 是饱和磁致伸缩系数，是平均内应力。  
+由上式可知，铁磁合金的阻尼值 $\boldsymbol { Q } _ { \mathrm { ~ \tiny ~ m a x ~ } } ^ { - 1 }$ 与 $\sigma _ { \mathrm { i } }$ 成反比例关系， $\sigma _ { \mathrm { i } }$ 越大，磁畴结构阻力越大，则中  
+$\boldsymbol { Q } _ { \mathrm { ~ \tiny ~ m a x ~ } } ^ { - 1 }$ 越小。合金经水冷处理时因冷速较快，会提高合金的 $\it { \Delta } \theta _ { \mathrm { i } }$ ，而合金中析出第二相后也会  
+提高 $\sigma _ { \mathrm { i } } ^ { [ 2 3 - 2 5 ] }$ 。不同冷速处理后的合金将获得不的内应力状态，从而对阻尼性能产生不同的V  
+影响。对 $1 . 0 \mathrm { C u }$ 合金而言，水冷和空冷处理后没有 $\mathtt { C u }$ 颗粒析出，其阻尼性能较高，但水冷X  
+处理会提高 $\sigma _ { \mathrm { i } }$ ，因此水冷合金的阻尼性能稍低。而炉冷处理的合金中因析出了少量的第一类学 布  
+富 $\mathtt { C u }$ 相(图3c)，增加了 $\sigma _ { \mathrm { i } }$ ，其阻尼性能下降(图4a)。比较可以发现，炉冷合金阻尼性能下  
+降较多，由空冷合金的0.050下降到了0.030。而水冷合金则仍保持较高水平为0.044。这  
+一结果说明，对本实验FeCrMoCu 合金而言，析出相对合金阻尼性能的影响明显大于冷却  
+速率。与 $1 . 0 \mathrm { C u }$ 合金相比，3种冷速的 $2 . 0 \mathrm { C u }$ 合金都析出了数量较多的第二相，明显增加合  
+金的 $\sigma _ { \mathrm { i } }$ ，从而显著降低阻尼性能。随着冷速的下降，合金阻尼性能逐渐下降。水冷处理后合  
+金中析出的是小尺寸的第一类富Cu 相(图 3d)，该相与基体共格，共格界面的界面能较低，  
+引起的平均内应力较小[20]，其阻尼性能相对较高。空冷处理后第二相数量增加，且颗粒长
+
+大，与基体也失去了共格关系，引起的平均内应力增加，合金阻尼性能下降。而炉冷 $2 . 0 \mathrm { C u }$ 合金，虽然颗粒数量有所减少，但尺寸粗大的Cu析出相会严重提高 $\sigma _ { \mathrm { i } }$ ，造成其阻尼性能最差(图 4b)。与 $1 . 0 \mathrm { C u }$ 阻尼性能最低的炉冷合金相比，水冷 $2 . 0 \mathrm { C u }$ 合金不仅析出相数量较多，而且水冷也增加 $\sigma _ { \mathrm { i } }$ ，所以 $2 . 0 \mathrm { C u }$ 合金阻尼性能最好的水冷合金，其阻尼 $\left( \boldsymbol { Q } ^ { - 1 } , \frac { 1 } { \mathrm { m a x } } = 0 . 0 2 8 \right)$ 要低于$1 . 0 \mathrm { C u }$ 合金的最差阻尼(炉冷 $1 . 0 \mathrm { C u }$ 合金=0.030)。
+
+# 2.3 合金的力学性能
+
+图5 所示为2种合金经同冷速处理后的强度对比图。由图可见，两种合金在轧制态都具有较高的强度。轧制变形合金位错密度高、晶界数量多，因此具有较高的强度，如轧制态庆$1 . 0 \mathrm { C u }$ 和2.0Cu合金的抗拉强度分别为571MPa、641MPa。高温退火后，随着位错密度的显降，合金的强度则明显下降。随着冷速的不同，两种合金的强度变化趋势则有不同。其 孤报中 $1 . 0 \mathrm { C u }$ 合金经水冷和空冷处理后抗拉强度相当，分别为4MPa和 $4 6 7 \mathrm { M P a }$ ，而炉冷 $1 . 0 \mathrm { C u }$ 合金的抗拉强度则有增加，提高到518MPa图5a)。与10Cu合金类似，水冷和空冷 $2 . 0 \mathrm { C u }$ X合金的抗拉强度相当，分别为586MPa和 $5 8 3 \mathrm { \bar { M P a } }$ ，不同的是随着冷速的下降，炉冷 $2 . 0 \mathrm { C u }$ 中合金的抗拉强度下降为541MP图5b)。总体而言， $2 . 0 \mathrm { C u }$ 合金的强度要高于 $1 . 0 \mathrm { C u }$ 合金，但经炉冷处理后2种合金的抗拉强度较为接近。
+
+图6所示为2种合金经不同冷速处理后的延伸率和冲击功对比图。由图6a可见，轧制X态 $1 . 0 \mathrm { C u }$ 合金的延伸率为 $2 8 \%$ ，高于 $2 . 0 \mathrm { C u }$ 合金的延伸率 $( 2 1 \% )$ 。经不同冷速处理后，两种尚 X合金的延伸率变化规律不同。 $1 . 0 \mathrm { C u }$ 合金在水冷和空冷处理后延伸率相当，分别为 $3 3 \%$ 和 $3 5 \%$ 而炉冷合金的延伸率则下降到 $2 6 \%$ 。这一变化规律与1.0Cu合金的强度变化规律正好相反。A与 $1 . 0 \mathrm { C u }$ 合金不同， $2 . 0 \mathrm { C u }$ 合金经水冷处理后延伸率最高，为 $2 6 \%$ 。随着冷速的下降，延伸率逐渐下降，炉冷合金延伸率最低为 $1 8 \%$ 总体而言， $1 . 0 \mathrm { C u }$ 合金的延伸率要高于 $2 . 0 \mathrm { C u }$ 合金，但水冷 $2 . 0 \mathrm { C u }$ 合金的延伸率与炉冷 $1 . 0 \mathrm { C u }$ 具有相当的延伸率。由图6b 可知，2.0Cu合金的冲击功除水冷合金外均较低，不超过30 J，而水冷合金冲击功达到 $2 5 5 W$ 。与2.00gX A合金相比，1.0Cu合金的冲击功相对较稳定，且数值较高。如 $1 . 0 \mathrm { C u }$ 合金冲击功最高的空冷合金为357J，最低的炉冷合金为282。与延伸率类似，水冷 2.0C金的冲击场与炉冷 $1 . 0 \mathrm { C u }$ （20较为接近。 风 预
+
+![](images/6936812d2ac5704f6a70f5d2f182532dcee1d98595c3de56e98d34a791707aff.jpg)  
+图52种合金经不同冷速处理后的强度对比
+
+Fig.5 Valafion of strength with different cooling rates for two FeCrMoCu damping alloys
+
+![](images/6756fb1ed731c9de941013077d938e9b5a74e57b39ae0ff99f9ec6597538e4bc.jpg)  
+图62种合金经不同冷速处理后的延伸率和冲击功对比
+
+Fig.6 Variation of elongation (a) and impact energy (b) with different cooling rates for two
+
+FeCrMoCudang aloys
+
+随 Cu 含量的不同以及冷速的改变，FeCrMoCu合金中Cu的存在形式各有不同，从而对合金的力学性能产生不同的影本实验合釜中Cu主要以固溶和沉淀析出2种形式存在。与固溶强化相比，Cu 的纳米析出强化对合金的强度贡献起主要作用。除此之外，合金的晶粒尺寸相差较大，其中2.0Cu 合金的晶粒尺寸是1.0Cu合金的1倍多，对合金强度会有同的影响。然而，有研究[1表明在 Fe-Cu 二元合金中，与析出强化相比，晶粒尺寸的差别对强度的影响相对较小，因此在讨论强度变化时，有富Cu第的合金主要考虑Cu析出对强度的影响。本工作的实验结果也证实，虽然 $1 . 0 \mathrm { C u }$ 合金的晶粒尺寸明显更细，但因 $2 . 0 \mathrm { C u }$ 無  
+合金中均析出数量较多的第二相，因此 $2 . 0 \mathrm { C u }$ 合金的强度相对更高，也说明析出强化对FeCrMoCu合金的强度影响更大。 $1 . 0 \mathrm { C u }$ 合金经水冷和空冷处理后，合金中的Cu并未析出，而是固溶在基体，合金微观组织和晶粒尺寸相近，因此两者的强度相当。而炉冷处理后，在合金中有小尺寸的第一类富Cu 相析出，虽然其晶粒尺寸有一定的长大(图2)，但纳米析出  
+强化效果较强，其强度提高明显，并高于水冷和空冷合金(图5)。与 $1 . 0 \mathrm { C u }$ 合金相比，3 种  
+冷速下的 $2 . 0 \mathrm { C u }$ 合金都析出了富Cu第二相，因此 $2 . 0 \mathrm { C u }$ 合金的强度都高于 $1 . 0 \mathrm { C u }$ 合金。一  
+方面，水冷 $2 . 0 \mathrm { C u }$ 合金因冷速快，析出的第一类富Cu相尺寸更细，其强化效果显著高于尺  
+寸较大的第二类富 Cu 相[26,27]；另一方面，空冷 $2 . 0 \mathrm { C u }$ 合金析出相的数量更多。综合来看，  
+水冷和空冷 $2 . 0 \mathrm { C u }$ 合金具有相当的强度，实验结果也证实了这一点(图5b)。与空冷合金相比，芝  
+炉冷 $2 . 0 \mathrm { C u }$ 合金中析出相数量减少但尺寸变得粗大，2种合金的析出相均与基体非共格。根当 东  
+据 Orowan 析出强化机理[茹，非共格第二相的析出强化效果与第二相粒子的尺寸 $d$ 成正  
+比，与第二相粒子的体积分数 $f$ 成反比。炉冷合金的第二相体积分数与空冷合金相当，但析庆  
+出相的尺寸严重粗化，其强化效果显然不如空冷合金，因此炉冷合金的强度下降。  
+本实验合金的延伸率和冲击功主要与晶粒尺寸和第二相析出特征有关。轧制大变形后合  
+金虽然晶粒细小，但因存在大量的位错，合金的延伸率和冲击功相对较低，其中 $2 . 0 \mathrm { C u }$ 合金  
+中因有含富Cu 第二相，其塑韧性更低(图6经完全退灰后，位错充分消除，但晶粒长大X  
+且有些合金出现了第二相，根据Hall-Petch 公式可知晶粒长大对合金的塑韧性不利，而第二牛  
+相的析出会引起位错的塞积而容易诱发裂纹萌生，对塑韧性同样不利。水冷和空冷 $1 . 0 \mathrm { C u }$ 合  
+金的微观组织结构相近，因此两者的延伸率和冲击功相当，又因晶粒尺寸较细，且没有第二金  
+相析出，所以塑韧性保持较高水平。而空冷和炉冷 $2 . 0 \mathrm { C u }$ 合金因析出了大最第二相，且晶粒  
+尺寸较大，使合金的延伸率和冲击功变低。需要注意的是，在炉冷的1.0Cu合金和水冷 2.0Cu当 交  
+合金中同样有第二相析出，但其延伸率和冲击功要优于空冷和炉冷2.0Cu含 金，尤其是水冷  
+$2 . 0 \mathrm { C u }$ 冲击功仍有 255J。其可能原因是在这两种状态合金屯，析出的第二相均为尺寸细小分 庆  
+的第一类富Cu相，而这种与基体共格的纳米析出相在强化合金的同时，对合金塑韧性的影X  
+响相对较小[18.28]。由此可见，含有尺寸的第类富Cu 相的 FeCrMoCu合金可以有较好的  
+强韧性匹配。
+
+# 3结论
+
+学
+
+（1）含 $1 . 0 \% \mathrm { C u }$ 的 FeCrMoCu合金在冷速较快(水冷和空冷)时，Cu是以过饱和的形式固溶在铁素体基体；随着冷速的放缓(炉冷)，合金中开始析出数量较少、尺寸细小( $\cdot < 5 \mathrm { n m } )$ 、与基体共格的富 $\mathtt { C u }$ 相，其 $\mathtt { C u }$ 含量为 $3 . 7 \% _ { P }$ 而含 $2 . 0 \%$ 的FeCrMoCu合金均发生生 领了 $\mathtt { C u }$ 的脱溶析出，冷速较快(水冷)时，析出数量较少、尺寸较细的富Cu相，随着冷速的下降，析出相开始长大，且结构转变成了与基体非共格的富Cu相，其Cu含量为$30 \% { \sim } 4 0 \%$ ，其中空冷合金析出相数量较多，而炉冷合金析出相的尺寸粗化严重$( 1 0 0 { \sim } 4 0 0 \mathrm { n m } )$
+
+（2）没有第二相析出的FeCrMoCu合金具有较高的阻尼性能，如空冷的 $1 . 0 \mathrm { C u }$ 合金最大阻尼性能为0.050；随着含Cu第二相的析出，合金的阻尼性能显著下降，如炉冷的 $1 . 0 \mathrm { C u }$ 合金最大阻尼值降到0.030。而 $2 . 0 \mathrm { C u }$ 合金均析出了第二相，所以其阻尼性能都较低。  
+（3）Cu 的析出可以明显提高FeCrMoCu合金的强度，其中小尺寸 $\cdot < 5 \ \mathrm { n m } )$ 的富 $\mathtt { C u }$ 相对合金的强度提高较明显，且对塑韧性的影响相对较小，因此炉冷的 $1 . 0 \mathrm { C u }$ 合金和水冷的孤$2 . 0 \mathrm { C u }$ 合金具有较好的强韧性匹配。
+
+# 参考文献
+
+学布
+
+[1] Hu X F, Li X Y, Zhang B,et al. Magnetic domain structure and damping capacity of Fe-13Cr-2Mo alloy[J].Mater. Sci. Eng.B,2010,171: 40   
+[2]Pulino-Sagradi D, Sagradi M, Karimi A, et al. Damping capacity of Fe-Cr-X high-damping   
+alloys andrs dependence on magnetic domain structure [J]. Scripta Mater.,1998, 39: 131   
+[3] Zhou Z C, Wei J N, Han F S. Influences of heat treatmeht and grain size on the damping capacity of an Fe-Cr-Al alloy [J].Phys. Status Solidi A,2O02,191: 89   
+[4]Wang H, Wang F, Xiao J, et al. Efect of cooling rate Qrdamping capacity of Fe-Cr based ferromagnetic metal alloy [J]. Mater. Sci. Eng.A,2016, 650: 382   
+[5]Hu X F,Li X Y, Zhang B,et al. Influences of additions of Nb, Ti and Cu on damping capacity and corrosion resistance ofF 13Cr-2.5MaHoy [J]. Acta Metall Sin.,2009,45: 717 (胡小锋，李秀艳，张波等.Nb,Ti和Cu对Fe--13Cr--2.5Mo 合金阻尼与腐蚀性能的影响 [J].金属学报2009,45:   
+[6]Wang H. WangF, Liu H T, et al. Influence of alloy elements (Mo, Nb, Ti) onthe strength and dampingcapacityofFe-Crbased ally. Mater Sci.Eng.A,2016,667:26   
+[7]Hu X F, Liu S W,Li X Y, et al. Influence of static stress on damping behayior in Fe-15Cr and Fe-8Al ferromagnetic alloys [J]. Mater. Sci. Eng. A,2011,528& 5491 布   
+[8] Karimi A, Giauque P H, Martin J L. Magnetomechanical damping in plasma sprayed iron-chromium based coatings [J]. J. Appl. Phy 1996, 79:1670   
+[9]Azcoitia C, Karimi A. Magnetomechanical damping in Fe-Cr alloys and effect of Al and Mo addition [J]. J. Alloy Compd.,2000,310: 160   
+[10] Karimi A, Azcoitia C, DegauqgeJ. Relationships between magnetomechanical damping and magnetic properties of Fe-Cr(Al,Mo) alloys [J]. J. Magn. Magn. Mater., 200O,215: 601 +   
+[11] Karimi A, Giauque P H, Martin JL. Magneto-mechanical damping in plasma sprayed Fe-Cr-X alloys [J]. Mater. Sci. Forum,1995,179: 679 学在   
+[12] Xu Y G, Chen X G. On relationship between annealing treatment and magnetostriction behavior of Fe-16Cr-2.5Mo damping alloy[J]. J. Alloy Compd2014, 582:364   
+[13] Lin R R,Liu F, Cao M Z, et al. Influence of annealing and subslution elements on damping capacity and strength of Fe-Cr-Al based alloys [J]. Acta Metall. Sin., 2O05, 41: 958 （林仁荣，刘芳，曹名洲等．退火及置换元素对Fe-Cr-Al 塞否金阻尼性能及强度的影响 [J]，金属学报,2005,41:958)   
+[14] Lin R R, Cao M Z, Yang R. Damping capacity of the Fe-Cr-Al based alloys [J]. Mater. Sci. Forum, 2005,475-479: 261   
+[15] Hu X F, Du L B, Yan D S, et al. Effect of Cu content on microstructure and properties of E16C25M   
+[16] Nakashima K, Futamura Y, Tsuchiyama T, et al. Interaction between dislocation and copper particles in Fe-Cu alloys [J]. Isij Int.,2002, 42: 1541   
+[17] Kimura Y, Takaki S.Phase transformation mechanism of Fe-Cu alloys [J]. Isij Int.,1997, 37: 290   
+[18] Zhang Z W. Research development of high strength low alloy（HSLA） steels [J]. Mater. China, 2016,35: 141 (张中武．高强度低合金钢(HSLA）的研究进展[J]．中国材料进展,2016,35:141)   
+[19] Xu Z, Zhao L C. Principle of Solid PhaSe Transformation of Metals [M]. Beijing: Science Press,2004:150 (徐洲，赵连城.金属固 相变原理[M北京：科学出版社,2004:150)   
+[20] Deschamps A，Militzer_M, Poole W J. Precipitation kinetics and strengthening of a Fe-0.8wt%u alloy [J].sj Int.,2001,41: 196   
+[21] Takaki S,Fujioka M,Aihara S,et al. Effect of copper on tensile properties and grain-refine ement of steel and its relation to precipitation behavior [J]. Mater. Trans., 2O04,45: 2239   
+[22] Xiao JM. Alloy Phase and Phase Transformation [M]. B g: Metallurgical Industry Press, 2004: 307 (肖纪美．合金相与相[M].北京：冶金工出版社,20307)   
+[23] Wang W G, Zhou B X. The correlation of damping capacity with grain-boundary precipitates in Fe-Cr-based damping alloys annealedat high temperature [J]. Mater. Sci. Eng. A,2004, 366: 45 A   
+[24] Smith G W,Birchak J_R Internal Stress Distribution Theory of Magnetomechanical Hysteresis-AnExtension to Ihclude Effects of Magnetic Field and Applied Stress [J]. J. Appl. Phys.,1969,40: 5174 报   
+[25] Smith G W,Birchak J R.Efect of Internal stress distribution on magnetomechanical damping [J]. J. Appl. Phys.,1968,39: 2311   
+[26] Goodman S R, Brenner S S,Low JR.An FIM-atom probe study of the precipitation of copper from lron-1.4 at. pct copper. Part II: Atom probe analyses [J]. Metall. Trans.,1973, 4: 2371 发   
+[27] Goodman S R,Brenner S S,Low JR.An FIM-atom probe study of the precipitation of copper from lron-1.4 at. pct copper. Part I: Rd-ion microscopy [J]. Metall Trans.,1973,4: 2363 戈   
+[28] Li Z, He Z Q, Jin JJ, et al. Development of Aerospace Super Strength Steel [M]. Beijing:S National Defense Industry Press.2O12: 45 (李志，贺自强，金建军等．航空超强度钢的发展[M].北京：国防工业出版社.2012:45)

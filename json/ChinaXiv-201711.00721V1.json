@@ -1,0 +1,650 @@
+[
+    {
+        "type": "text",
+        "text": "不同微生物添加剂组合固态发酵对木薯渣品质的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "唐庆凤 彭开屏 韦升菊　梁辛李丽莉 邹彩霞\\*（中国农业科学院广西水牛研究所，南宁530001）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究布氏乳杆菌(LAB)、黑曲霉(AN)、热带假丝酵母(CT)、枯草芽孢杆菌(BS)与植物乳杆菌(LAP)组合对木薯渣品质的影响，筛选出发酵效果最优的混合菌组合。试验以木薯渣为发酵原料，对LAB、AN、CT、BS与LAP 进行不同菌种的菌液以1:1体积比组合，共设5个不同组合，组合1：] $\\scriptstyle \\mathtt { L A B + A N + C T + L A P }$ ；组合2： $\\mathrm { L A B + A N + B S + L A P }$ ；组合3： $\\scriptstyle \\mathrm { L A B + C T + B S + L A P }$ ；组合4： $\\mathrm { A N + C T + B S + L A P }$ ；组合5： $\\mathrm { L A B + A N + C T + B S + L A P }$ ；各组合分别添加 $1 \\%$ 尿素或者 $1 \\%$ 尿素 $+ 0 . 6 \\%$ 红糖，空白组不添加任何添加剂，对照组I添加 $1 \\%$ 尿素；对照组ⅡI添加 $1 \\%$ 尿素 $+ 0 . 6 \\%$ 红糖，各组均用生理盐水调制含水量为 $6 5 \\%$ 左右，于聚乙烯薄膜袋中真空发酵 $1 0 \\mathrm { ~ d ~ }$ 。结果表明：1）不同微生物添加剂组合发酵木薯渣对木薯渣营养成分改善效果5菌组合优于4菌组合。其中，组合5发酵木薯渣效果最好，与空白组相比显著降低了发酵木薯渣 $\\mathsf { p H }$ （ $. P { < } 0 . 0 5 \\rangle$ ，提高了乙酸和丙酸含量；中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量均为最低，显著低于空白组和对照组（ $. P { < } 0 . 0 5 )$ ；粗蛋白质（CP）含量最高，显著高于空白组和对照组（ $. P { < } 0 . 0 5 ^ { \\cdot }$ )。2）添加相应的菌种 $^ { 1 + }$ 尿素 $^ +$ 红糖发酵木薯渣有利于产生丙酸。3）在发酵培养基中添加尿素能显著提高木薯渣CP含量（ $. P { < } 0 . 0 5$ )。4)在木薯渣发酵过程中添加尿素 $^ +$ 红糖比只添加尿素对木薯渣营养成分改善效果好。综上所述，LAB、AN、CT、BS 与LAP 组合添加尿素和红糖固态发酵木薯渣，可以有效改善木薯渣品质。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：木薯渣；混合菌种；固态发酵",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S816.5 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "木薯渣是生产木薯淀粉和酒精后的副产物，目前主要用作动物饲料，主要成分是纤维素，含有少量的蛋白质，是常用的粗饲料之一，但因木质化程度高，适口性差，动物消化利用率低，而且新鲜木薯渣水分含量高，在储存过程中容易变黑、发酸变质，现在仍有大量的木薯渣被丢弃，既是一种资源浪费，也会对环境造成一定程度的污染破坏，随着木薯渣产量的不断增加，木薯渣的处理和利用已成为一个亟需解决的问题。微生物发酵处理木薯渣不仅可以提高木薯渣的营养价值如提高粗蛋白质（CP）含量，降低纤维含量，改善适口性，同时还有利于解决贮存时发霉变质等问题[1-2]。赵华等[3]利用曲霉类、木霉类、芽孢杆菌类和酵母类共4类菌株对木薯渣进行发酵，研究发现4类菌株混合发酵效果优于其他发酵组合，当发酵温度 $3 8 ^ { \\circ } \\mathrm { C }$ 、料水比1:1.3、发酵时间4.5d、接种比例黑曲霉（Aspergillus niger，AN)：里氏木霉：枯草芽孢杆菌（Bacillus subtilis,BS)：酿酒酵母 $\\mathbf { \\Psi } = \\mathbf { \\dot { \\Psi } }$ 1:1:2:1时发酵效果最佳，以干物质（DM）为基础，木薯渣CP含量从 $6 . 3 7 \\%$ 提高至 $9 . 7 5 \\%$ ，粗脂肪含量从 $2 . 7 1 \\%$ 提高至 $4 . 9 2 \\%$ 还原糖含量达到 $8 . 2 2 \\%$ ，滤纸酶、羧甲基纤维素酶、淀粉酶和 $\\beta$ -葡萄糖苷酶活性分别为3.29、4.26、5.15 和 $3 . 7 5 \\mathrm { U / g }$ DM，其原因可能为多菌组合发酵发挥了各个菌种相互之间的协同效应。Kumar 等[4研究报道，黑曲霉与里氏木霉混合发酵可以弥补里氏木霉生产 ${ \\mathfrak { \\beta } }$ -葡萄糖苷酶活性比较低的不足，可以提高酶解的效率，让基质得到充分发酵。汤小朋等[5开展了黑曲霉固态发酵改善木薯渣品质的研究，结果显示：当黑曲霉接种量为 $3 { \\times } 1 0 ^ { 6 }$ 个 $/ \\mathrm { { g } }$ 、发酵时间为4d、发酵温度 $3 6 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 、添加菜籽粕 $1 5 \\%$ 、料水比1:1.5时发酵效果最好，与对照组相比，CP含量由 $8 . 6 7 \\%$ 提高至 $1 3 . 4 8 \\%$ ，粗纤维（CF）含量由 $2 2 . 2 6 \\%$ 降低到 $1 7 . 7 1 \\%$ 。许多研究表明,采用单一菌种处理木薯渣，使其营养价值提高不多，实际应用不理想，混合菌发酵可以利用菌种之间的协调互作关系，扩大对发酵底物的适应性和生产菌的防杂菌能力，处理效果较为理想。混合菌发酵木薯渣选择菌种是关键，有益微生物菌种品种繁多但是目前研究的品种及搭配非常有限，黑曲霉降解淀粉、纤维素的能力比较强，可产淀粉酶、糖化酶、纤维素酶、植酸酶、果胶酶等复合酶系，能很好的利用培养料中的纤维素、淀粉等生成糖，热带假丝酵母（Candida tropicalis,CT）可利用发酵底物中的糖进行生长代谢，产生饲料酵母，可以提高发酵饲料的蛋白质含量，枯草芽孢杆菌能够分泌碱性蛋白酶、脂肪酶、淀粉酶、糖化酶、纤维素酶等多种酶系，它与黑曲霉等有很好的协同发酵作用，另外，布氏乳杆菌（Lactobasillusbuchneri,LAB）和植物乳杆菌（Lactobacillus plantarum,LAP）在发酵过程中会产生乳酸，降低 pH，提高饲料的适口性，但布氏乳杆菌、植物乳杆菌、黑曲霉、热带假丝酵母和枯草芽孢杆菌这5种菌之间组合处理木薯渣的研究尚未见报道。本试验以木薯渣为发酵原料，由于木薯渣含氮量较低，而微生物生长需要充足的氮源，因此，添加 $1 \\%$ 尿素作为氮源，同时，木薯渣可溶性糖浓度低，但木薯渣发酵时乳酸菌迅速增殖又需要一定浓度的可溶性糖，因此添加 $0 . 6 \\%$ 红糖调节木薯渣可溶性糖浓度，用不同组合的混合菌发酵，通过测定发酵料的CP、中性洗涤纤维（DNF）、酸性洗涤纤维（ADF）和干物质回收率（DMR）等研究布氏乳杆菌、黑曲霉、热带假丝酵母、枯草芽孢杆菌与植物乳杆菌组合添加尿素和红糖对木薯渣品质的影响，以筛选出发酵效果最优的混合菌组合，旨在改善木薯渣品质，提高其适口性，为木薯渣的开发及利用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "新鲜木薯渣由广西水牛研究所水牛种畜场提供，营养成分如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1木薯渣营养成分 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/033818910acd57f0a721fb27840617c62a654948c75358bc5bc6838b7fe8dabe.jpg",
+        "table_caption": [
+            "Table1 The nutrient composition of cassava residue (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>干物质 DM</td><td>粗蛋白质CP</td><td>中性洗涤纤维 NDF</td><td>酸性洗涤纤维 ADF</td></tr><tr><td>木薯渣 Cassava residue</td><td>25.95</td><td>2.59</td><td>24.29</td><td>20.04</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "热带假丝酵母、黑曲霉、枯草芽孢杆菌、植物乳杆菌、布氏乳杆菌购自中国工业微生物菌种保藏管理中心；尿素购自四川美丰化工股份有限公司，总氮(以干基计) $\\geqslant 4 6 . 4 \\%$ ，缩二脲 $\\leqslant 0 . 9 \\%$ ，水分 ${ \\leqslant } 0 . 4 \\%$ ，粒度 $( \\Phi 1 . 1 8 { \\sim } 3 . 3 5 \\mathrm { m m } ) { \\geq } 9 3$ ；红糖购自广西农垦糖业集团股份有限公司，营养素含量为每 $1 0 0 ~ \\mathrm { g }$ 含：能量 $1 . 6 3 ~ \\mathrm { M J }$ ，碳水化合物 $9 6 . 6 ~ \\mathrm { g }$ ，蛋白质 $0 . 7 \\ \\mathrm { g }$ ，水分$1 . 9 \\ : \\mathrm { g }$ ，粗灰分 $0 . 8 \\ \\mathrm { g }$ 9",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乳酸细菌(MRS)液体培养基用于植物乳杆菌、布氏乳杆菌活化和菌液培养；MRS 固体培养基用于植物乳杆菌和布氏乳杆菌涂板计数；麦芽浸粉肉汤(MEB)液体培养基用于黑曲霉和热带假丝酵母的活化和菌液培养；MEB 固体培养基用于黑曲霉和热带假丝酵母涂板计数；葡萄糖营养液体使用于枯草芽孢杆菌的菌种活化和菌液培养；葡萄糖营养琼脂使用于枯草芽孢杆菌的涂板计数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1试验菌种的活化及扩培 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "安瓿管冻干菌种 $$ 活化 $$ 按 $5 \\%$ 添加量接种到相应的液体培养基中，热带假丝酵母、黑曲霉和枯草芽孢杆菌的培养条件为温度 $3 0 \\ \\mathrm { ^ { \\circ } C }$ ， $1 5 0 ~ \\mathrm { r / m i n }$ 摇床培养，植物乳杆菌和布氏乳杆",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "菌的培养条件为温度 $3 7 \\ \\mathrm { { ^ circ C } }$ ，静态厌氧培养。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接种液计数：采用涂板对各菌种接种液进行计数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2试验设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对布氏乳杆菌、植物乳杆菌、黑曲霉、热带假丝酵母和枯草芽孢杆菌进行不同菌种的菌液以1:1体积比组合。共设5个不同组合，分别为组合1:布氏乳杆菌 $^ +$ 黑曲霉 $^ +$ 热带假丝酵母$^ +$ 植物乳杆菌；组合2:布氏乳杆菌 $^ +$ 黑曲霉 $^ +$ 枯草芽孢杆菌 $^ +$ 植物乳杆菌；组合3:布氏乳杆菌 $^ +$ 热带假丝酵母 $^ +$ 枯草芽孢杆菌 $^ +$ 植物乳杆菌；组合4:黑曲霉 $^ +$ 热带假丝酵母 $^ +$ 枯草芽孢杆菌 $+$ 植物乳杆菌；组合5:布氏乳杆菌 $^ +$ 黑曲霉 $^ +$ 热带假丝酵母 $^ +$ 枯草芽孢杆菌 $^ +$ 植物乳杆菌。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验除对照组设4个重复（其中2个重复用于测定发酵前木薯渣混合料的 DM含量）外，其他每个组设2个重复，每个重复以 $\\mathrm { 1 0 0 ~ g }$ 干木薯渣为发酵原料，红糖添加量为 $0 . 6 \\%$ （占木薯渣DM的质量百分比）调节木薯渣的可溶性糖浓度，尿素添加量为 $1 \\%$ （占木薯渣DM的质量百分比）作为氮源，各混菌组分别以木薯渣DM的 $5 \\%$ 的量进行添加；分组情况如下。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "空白组：木薯渣;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对照组I：木薯渣 $^ +$ 尿素；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对照组ⅡI：木薯渣 $^ +$ 尿素 $^ +$ 红糖；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验组I：I1：木薯渣 $^ { + }$ 尿素 $^ +$ 组合1混合菌； $\\mathrm { ~ I ~ }$ 2：木薯渣 $\\cdot +$ 尿素 $^ +$ 组合2混合菌；I3：木薯渣 $^ +$ 尿素 $+$ 组合3混合菌；I4：木薯渣 $^ +$ 尿素 $^ +$ 组合4混合菌；I5：木薯渣 $^ +$ 尿素 $+$ 组合5混合菌；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验组ⅡI：Ⅱ1：木薯渣 $^ +$ 尿素 $^ { \\cdot } +$ 红糖 $^ +$ 组合1混合菌；ⅡI2：木薯渣 $^ +$ 尿素 $^ +$ 红糖 $^ +$ 组合2混合菌；ⅡI3：木薯渣 $\\cdot +$ 尿素 $^ +$ 红糖 $^ +$ 组合3混合菌；ⅡI4：木薯渣 $^ +$ 尿素 $^ +$ 红糖 $+$ 组合4混合菌；ⅡI5：木薯渣 $^ +$ 尿素 $+$ 红糖 $^ +$ 组合5混合菌。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "各组均用生理盐水调制含水量为 $6 5 \\%$ 左右，混合均匀，装入聚乙烯薄膜袋中，用真空泵抽出袋内的空气至真空状态，密封，置于室温下贮藏。从开始发酵之日算起，第10天对每组各开封2袋。进行感官评定、pH、DMR及CP、NDF、ADF 含量等测定，以评价混合菌种发酵的效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2各组微生物添加剂菌落单位",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a53912c4cc5bf40aff4c12045dc82c6303cbb3bed63e1447e3501bffcaba7356.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Table 2</td><td colspan=\"4\">The microbial population of microbial inoculants</td><td rowspan=\"2\">CFU/g 黑曲霉</td></tr><tr><td>热带假丝酵</td><td>枯草芽孢</td><td>植物乳杆菌</td><td>布氏乳杆菌</td></tr><tr><td>项目Items</td><td>母CT</td><td>杆菌 BS</td><td>LAP</td><td>LAB</td><td>AN</td></tr><tr><td>空白组 Blank group</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>对照组I Control group I</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>对照组II Control group II</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>I1</td><td>1.2×106</td><td></td><td>1.6x105</td><td>1.0×105</td><td>7.3×10²</td></tr><tr><td>试验组I I2</td><td></td><td>4.8×104</td><td>1.6x105</td><td>1.0×105</td><td>7.3×102</td></tr><tr><td>Experimental</td><td>I3 1.2x106</td><td>4.8×104</td><td>1.6×105</td><td>1.0×105</td><td></td></tr><tr><td>group I</td><td>I4 1.2×106</td><td>4.8×104</td><td>1.6×105</td><td></td><td>7.3×10²</td></tr><tr><td>I5</td><td>9.2×105</td><td>3.8×104</td><td>1.3×105</td><td>8.0×104</td><td>5.8×10²</td></tr><tr><td>I1</td><td>1.2×106</td><td></td><td>1.6×105</td><td>1.0×105</td><td>7.3x10²</td></tr><tr><td>试验组ⅡI</td><td>I2</td><td>4.8x104</td><td>1.6×105</td><td>1.0×105</td><td>7.3×102</td></tr><tr><td>Experimental</td><td>II3</td><td>1.2×106 4.8×104</td><td>1.6×105</td><td>1.0×105</td><td></td></tr><tr><td>group II</td><td>I4</td><td>1.2×106 4.8x104</td><td>1.6x105</td><td></td><td>7.3×10²</td></tr><tr><td></td><td>I 5</td><td>9.2×105 3.8x104</td><td>1.3x105</td><td>8.0×104</td><td>5.8×10²</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上数值为平板计数有效值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The microbial populations above were determined by pour plating ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3测定项目及方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1常规项目评定采用常规测定方法测定样品中的DM、CP、DNF和ADF含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2木薯渣发酵料感官评定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "感官评定参考我国农业部1996年发布的《青贮饲料质量评定标准（试行)》进行，通过气味、色泽、质地和霉变等情况进行评定，再以乙酸和丁酸的含量来评价发酵饲料等级[7]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3木薯渣发酵料 $\\mathsf { p H }$ 及品质项目分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.1样品预处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "开袋后，每袋取出 $3 5 \\mathrm { ~ g ~ }$ 样品，放至 $2 5 0 ~ \\mathrm { m L }$ 广口瓶中，再添加 $1 5 0 ~ \\mathrm { m L }$ 的超纯水，放于$4 \\mathrm { { ^ \\circ C } }$ 冰箱提取 $2 4 \\mathrm { h }$ ，然后用2层纱布进行过滤，滤液用于木薯渣发酵料pH和挥发性脂肪酸（VFA）含量的测定。剩余的木薯渣在 $6 5 ^ { \\circ } \\mathrm { C }$ 下烘干、粉碎（过40目筛）制成风干样，用于常规营养成分的测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.2木薯渣发酵料pH的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用 $\\mathsf { p H }$ 计进行测定， $\\mathsf { p H }$ 计型号：HANNAHI-8424。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.3VFA含量的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取1.3.3.1获得的滤液 $0 . 5 ~ \\mathrm { m L }$ ，加入 $0 . 5 \\mathrm { \\ m L } 8 . 2 \\%$ 偏磷酸， $1 3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 ~ \\mathrm { m i n }$ ，再取上清液加入巴豆酸后，用Agilent-7890A型气相色谱仪测定样品中乙、丙、丁酸的含量。毛细管柱：HP-INNOWAX(19091N-133)，毛细管的柱规格为： $3 0 \\mathrm { m } { \\times } 0 . 2 5 \\mathrm { m m } { \\times } 0 . 2 5$ $\\mu \\mathrm { m }$ ，柱温箱升温程序：起始柱温 $8 0 ~ \\mathrm { ^ { \\circ } C }$ 保持 $1 \\mathrm { m i n }$ ，然后以 $1 5 \\ \\mathrm { { ^ circ C / m i n } }$ 的速度升至 $1 7 0 \\ \\mathrm { ^ { \\circ } C }$ ，保持 $2 \\mathrm { m i n }$ 载气为氮气 $( \\mathbf { N } _ { 2 } ^ { \\cdot }$ )，载气压力程序：压力 $1 4 \\mathrm { \\ p s i }$ ，流速 $1 . 1 9 \\mathrm { \\ m L / m i n }$ ，平均速率 $3 1 \\ \\mathrm { c m / s }$ ，保持时间 $9 \\mathrm { m i n }$ ；燃气为氢气，流量为 $4 0 \\mathrm { m L / m i n }$ ；辅助燃气为空气，流量为 $4 0 0 ~ \\mathrm { { m L / m i n } }$ ；尾吹气 $( \\Nu _ { 2 }$ ）流量为 $2 5 ~ \\mathrm { m L / m i n }$ 。进样口温度为 $2 0 0 \\mathrm { ^ \\circ C }$ ，进样方式为分流进样，分流比为50:1;火焰离子化检测器（FID）氢火焰检测器：温度为 $2 2 0 \\mathrm { ~ \\textdegree C }$ ；进样量为 $2 ~ \\mu \\mathrm { L }$ 0",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.4DMR的测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DMR $( \\% ) =$ （开封时木薯渣质量 $\\times$ 木薯渣DM率）／（装袋时装入木薯渣的质量 $\\times$ 木薯渣原料DM率） $\\times 1 0 0$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据先使用ExceL软件进行处理，单因子方差分析和Duncan氏法多重比较检验使用 SPSS17.0软件，试验结果差异显著性以 $P { < } 0 . 0 5$ 作为判断标准，试验数据采用平均值±标准误的方法来表示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1不同微生物添加剂组合对木薯渣发酵pH的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，各试验组的 $\\mathsf { p H }$ 均低于空白组、对照组I和对照组ⅡI。其中，I5组pH最低，与空白组、对照组I和对照组Ⅱ相比，分别降低了 $1 1 . 1 7 \\%$ （ $P { < } 0 . 0 5$ 、 $1 0 . 4 0 \\%$ （ $. P { < } 0 . 0 5$ ）和 $1 0 . 1 4 \\%$ （ $P { < } 0 . 0 5$ )。另外，5 菌组合的pH均低于相应试验组的4 菌组合各组，说明5菌组合比4菌组合更能降低发酵底物的 $\\mathsf { p H }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2不同微生物添加剂组合对木薯渣发酵VFA含量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，II5组乙酸含量最高，与空白组、对照组I和对照组Ⅱ相比，分别升高了$2 5 . 2 8 \\%$ ( $P { < } 0 . 0 5 \\$ ）、 $2 6 . 9 6 \\%$ ( $P { < } 0 . 0 5$ ）和 $3 4 . 8 3 \\%$ ( $\\scriptstyle \\cdot P < 0 . 0 5 )$ )。空白组、对照组I、对照组ⅡI和试验组I均未检出丙酸，但试验组ⅡI均检出丙酸，且II5 组丙酸含量最高（ $_ { \\cdot P > 0 . 0 5 } )$ ，说明同时添加相应的菌种、尿素和红糖有利于产生丙酸。试验组II的丁酸含量普遍高于空白组、对照组和试验组I，I5组的丁酸含量最低，但与空白组、对照组I和对照组Ⅱ相比差异不",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "显著( $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3不同微生物添加剂对木薯渣发酵品质的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 3Effects of different microbial inoculants on fermentation quality of cassava residue ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d89aafdc3b23b63e4b4cee47221b1e4859e4f02bc901a525e5e47e68701af3dd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">项目Items</td><td rowspan=\"5\"></td><td colspan=\"2\">乙酸 Acetic</td><td>丁酸 Butyric</td></tr><tr><td></td><td>pH</td><td>acid/(mmol/kg)</td><td>acid/(mmol/</td><td>acid/(mmol/kg)</td></tr><tr><td>空白组 Blank group</td><td></td><td>18.91±0.06abc</td><td>kg)</td><td>4.83±0.32abc</td></tr><tr><td>对照组I Control group I</td><td></td><td>18.66±0.36abc</td><td>1</td><td>5.44±0.74abcd</td></tr><tr><td>对照组II Control group II</td><td></td><td>17.57±0.13a</td><td>1</td><td>4.42±0.10ab</td></tr><tr><td></td><td>I1</td><td>3.13±0.01abc</td><td>18.75±0.22abc</td><td>1</td><td>4.56±0.05ab</td></tr><tr><td></td><td>12</td><td>3.15±0.01bc</td><td></td><td></td><td>4.80±0.04abc</td></tr><tr><td>试验组I</td><td></td><td></td><td>19.81±0.24abcd</td><td>1</td><td></td></tr><tr><td>Experimental group I</td><td>13</td><td>3.15±0.01c</td><td>21.74±2.78cde</td><td>一</td><td>5.36±0.69abcd</td></tr><tr><td></td><td>I4 15</td><td>3.14±0.01abc</td><td>18.35±0.04ab</td><td></td><td>4.52±0.03ab</td></tr><tr><td></td><td>I1</td><td>3.10±0.02a 3.14±0.01abc</td><td>17.88±0.23a</td><td>1 4.38±0.23</td><td>4.27±0.01a</td></tr><tr><td>试验组ⅡI</td><td>II2</td><td>3.14±0.01abc</td><td>21.45±0.23bcde 22.46±0.20de</td><td>4.39±0.20</td><td>5.79±0.23cd</td></tr><tr><td></td><td></td><td>3.13±0.01abc</td><td>23.68±1.17e</td><td>4.64±1.17</td><td>5.56±0.08bcd</td></tr><tr><td>Experimental</td><td>1I13</td><td></td><td></td><td>4.30±0.90</td><td>6.15±0.36d</td></tr><tr><td>group II</td><td>I4 I5</td><td>3.16±0.01c 3.11±0.01ab</td><td>21.27±0.90bcde 23.69±0.70e</td><td>4.71±0.70</td><td>5.31±0.42abcd 6.09±0.17d</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 )$ 。“_”表示未检出。下表同。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with different small leter superscripts mean significant difference （204号 $( P { < } 0 . 0 5 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ mean undetected.The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3不同微生物添加剂组合对木薯渣营养成分的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，各试验组的DMR均显著低于空白组、对照组I和对照组ⅡI（ $_ { . } { \\cal P } { < } 0 . 0 5 )$ ，其中，II5 组的DMR最低，与空白组、对照组I和对照组ⅡI相比，分别降低了 $5 . 9 3 \\% ( P { < } 0 . 0 5 )$ 、$5 . 0 8 \\%$ ( $_ { \\cdot \\cdot P < 0 . 0 5 }$ ）和 $4 . 7 3 \\%$ ( $P { < } 0 . 0 5 )$ 。说明II5组在发酵过程中DM损失相对较多。对照组II的DMR显著低于对照组I（ $P { < } 0 . 0 5 )$ ，降低了 $0 . 3 6 \\%$ ，可见在木薯渣发酵过程中添加尿素$^ +$ 红糖比只添加尿素DM损失稍多。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NDF和ADF含量各试验组的组间差异不显著（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { . } }$ )，但各试验组的NDF和ADF含量均显著低于空白组、对照组I和对照组Ⅱ（ $P { < } 0 . 0 5 \\$ )，其中，II5 组的 NDF 和 ADF含量均最低，其NDF含量与空白组、对照组I和对照组Ⅱ相比，分别降低了 $2 0 . 1 2 \\%$ （ $P { < } 0 . 0 5$ ）$1 9 . 3 1 \\%$ ( $P { < } 0 . 0 5$ ）和 $1 8 . 6 0 \\%$ ( $P { < } 0 . 0 5 \\$ )。ADF含量与空白组、对照组I和对照组ⅡI相比，分别降低了 $2 3 . 1 0 \\%$ ( $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ）、 $2 1 . 7 3 \\%$ ( $P { < } 0 . 0 5$ ）和 $2 2 . 2 8 \\%$ （ $\\scriptstyle \\cdot { P < 0 . 0 5 }$ )。从表4中还可知，5菌组合的 NDF 和 ADF 含量均低于相应试验组的4 菌组合各组，说明5 菌组合降解木薯渣NDF 和 ADF的效果比4菌组合好。另外，对照组ⅡI的NDF 含量低于对照组I，而且试验组ⅡI各组的ADF 含量也均低于试验组I的各组，试验组II的各组NDF含量在总体上也呈现出相同的趋势，表明尿素 $^ +$ 红糖降解木薯渣 NDF 和 ADF 的效果优于只添加尿素。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "试验组、对照组I和对照组ⅡI的CP含量均显著高于空白组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } { \\cdot } { \\cdot } ^ { } \\ .$ )，为空白组CP含量的1.7\\~2.0倍，说明添加尿素能显著提高发酵木薯渣蛋白质含量。各试验组的CP含量也均显著高于对照组Ⅰ（ $P { < } 0 . 0 5 )$ ，其中，II5 组的CP含量最高，与空白组、对照组I和对照组Ⅱ相比，分别提高了 $1 0 2 . 3 3 \\%$ （ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 { \\ : } .$ ）、 $1 5 . 7 4 \\%$ （ $P { < } 0 . 0 5$ ）和 $1 2 . 7 4 \\%$ （ $P { < } 0 . 0 5 \\$ )。对照组ⅡI的CP含量显著高于对照组Ⅰ（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ )，与对照组I相比升高了 $2 . 6 6 \\%$ ，可见，在木薯渣发酵过程中添加尿素 $^ +$ 红糖比只添加尿素更容易提高蛋白质含量。另外，5菌组合的CP含量均高于相应试验组的4菌组合各组，说明5菌组合提高木渣CP含量的效果比4菌组合好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合分析，在木薯渣发酵过程中添加尿素 $^ +$ 红糖比只添加尿素对木薯渣营养成分改善效果好，5菌组合 $^ +$ 尿素 $^ { \\cdot } +$ 红糖对木薯渣营养成分的改善效果最好，另外，4菌组合能有效改善木薯渣营养成分，5菌组合效果又优于4菌组合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4不同微生物添加剂对木薯渣营养成分的影响(风干基础)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/84dd2b3e23acd576baf180dc9c6810f8a3693a60d1afdd6a2b94d9fdeb85e3e0.jpg",
+        "table_caption": [
+            "Table 4Effects of different microbial inoculants on nutrition composition of cassava residue "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td colspan=\"4\">（air-dry basis ） %</td></tr><tr><td colspan=\"2\">项目Items</td><td>干物质回收</td><td>中性洗涤纤</td><td>酸性洗涤纤</td><td>粗蛋白质</td></tr><tr><td colspan=\"2\"></td><td>率</td><td>维</td><td>维</td><td></td></tr><tr><td colspan=\"2\"></td><td>DMR</td><td>NDF</td><td>ADF</td><td>CP</td></tr><tr><td colspan=\"2\">空白组Blank group</td><td>99.61±0.15j</td><td>24.11±0.23b</td><td>20.00±0.15b</td><td>2.58±0.09a</td></tr><tr><td colspan=\"2\">对照组I Control group I</td><td>98.71±0.05i</td><td>23.87±1.76b</td><td>19.65±1.12b</td><td>4.51±0.01b</td></tr><tr><td colspan=\"2\">对照组II Control group II</td><td>98.35±0.01h</td><td>23.66±0.99b</td><td>19.79±1.07b</td><td>4.63±0.01c</td></tr><tr><td colspan=\"2\">I1</td><td>95.24±0.01f</td><td>19.47±0.12a</td><td>15.72±0.11a</td><td>4.86±0.01d</td></tr><tr><td colspan=\"2\">试验组I 12</td><td>95.84±0.018</td><td>19.47±0.05a</td><td>15.74±0.03a</td><td>4.84±0.03d</td></tr><tr><td colspan=\"2\">Experimental 13</td><td>94.74±0.01e</td><td>19.51±0.17a</td><td>15.75±0.13a</td><td>4.92±0.03d</td></tr><tr><td colspan=\"2\">group I I4</td><td>94.07±0.01bc</td><td>19.46±0.81a</td><td>15.71±0.05a</td><td>4.89±0.02d</td></tr><tr><td colspan=\"2\">15</td><td>94.48±0.01d</td><td>19.37±0.13a</td><td>15.69±0.13a</td><td>5.10±0.02e</td></tr><tr><td colspan=\"2\">试验组ⅡI II1</td><td>94.22±0.06c</td><td>19.38±0.09a</td><td>15.64±0.01a</td><td>4.85±0.04d</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e843ce6b215787b7dd5b6cf0df56118cda71c574dfded42e56495126d017a2c2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Experimental</td><td>I 2</td><td>94.90±0.01e</td><td>19.41±0.23a</td><td>15.65±0.19a</td><td>4.87±0.04d</td></tr><tr><td rowspan=\"3\">group II</td><td>I3</td><td>93.90±0.02b</td><td>19.34±0.17a</td><td>15.57±0.11a</td><td>4.92±0.02d</td></tr><tr><td>I4</td><td>93.97±0.02b</td><td>19.33±0.37a</td><td>15.48±0.20a</td><td>4.94±0.04d</td></tr><tr><td>I1 5</td><td>93.70±0.09a</td><td>19.26±0.03a</td><td>15.38±0.03a</td><td>5.22±0.01f</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4木薯渣发酵品质的评定",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，发酵10d后，空白组感官质量最差，开袋时有刺鼻酒酸味，色泽偏褐黄色，质量评分为28分，其他各组感官评分均高于空白组，且开袋时均有甘酸香味，呈亮黄色，结构良好，但各试验组感官评分均比对照组Ⅰ和对照组Ⅱ高，且评分均为49分。从表6 得出的评定来看，各组发酵木薯渣品质均达到1级水平。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5不同微生物添加剂处理木薯渣发酵品质的感官评定",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 5Sensory evaluation on fermentation qualities of cassava residue with different microbial ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d670279a41c02404f0439d0b9861ecf92b06b3771d1b74dd92793ca3ae795e2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">inoculants</td></tr><tr><td rowspan=\"4\">项目Items</td><td>气味</td><td>得分</td><td>色泽 Colour</td><td>得分</td><td>质地</td><td>得分</td><td>总分</td></tr><tr><td>Odour</td><td>Score</td><td>and</td><td>Score</td><td>Quality</td><td>Score</td><td>Total score</td></tr><tr><td>刺鼻</td><td></td><td>lustre 褐黄</td><td></td><td>松散软</td><td></td><td></td></tr><tr><td>酒酸</td><td>7</td><td>色</td><td>13</td><td>弱，不 粘手</td><td>8</td><td>28</td></tr><tr><td>空白组 Blank group</td><td></td><td>味 甘酸</td><td>亮黄</td><td></td><td>松散软</td><td></td><td></td></tr><tr><td>对照组I Control group I</td><td></td><td>20 香味</td><td>色</td><td>17</td><td>弱，不 粘手 松散软</td><td>8</td><td>45</td></tr><tr><td>对照组II Control group II</td><td></td><td>甘酸 20 香味</td><td>亮黄 色</td><td>16</td><td>弱，不 粘手</td><td>8</td><td>44</td></tr><tr><td></td><td>I1</td><td>甘酸 23 香味</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td><td>8</td><td>49</td></tr><tr><td>试验组I</td><td>I2</td><td>甘酸 23 香味</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td><td>8</td><td>49</td></tr><tr><td>Experimental group I</td><td>I3</td><td>甘酸 香味</td><td>23 色</td><td>亮黄</td><td>18 弱，不 粘手</td><td>松散软 8</td><td>49</td></tr><tr><td></td><td>I4</td><td>甘酸 香味</td><td>亮黄 23 色</td><td></td><td>松散软 18 弱，不 粘手</td><td>8</td><td>49</td></tr><tr><td>I5</td><td></td><td>甘酸 23 香味</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不</td><td>8</td><td>49</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a734386214c1e94767b186e50994f72b20e445a2788591e8c51e0dc5f5f93c99.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"6\"></td><td rowspan=\"2\">8</td><td rowspan=\"2\">49</td></tr><tr><td>II 1</td><td>甘酸 香味</td><td>23</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td></tr><tr><td>试验组Ⅱ</td><td>I2</td><td>甘酸 香味</td><td>23</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td><td>8</td><td>49</td></tr><tr><td>Experimental group II</td><td>I3</td><td>甘酸 香味</td><td>23</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td><td>8</td><td>49</td></tr><tr><td></td><td>I4</td><td>甘酸 香味</td><td>23</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td><td>8</td><td>49</td></tr><tr><td></td><td>I 5</td><td>甘酸 香味</td><td>23</td><td>亮黄 色</td><td>18</td><td>松散软 弱，不 粘手</td><td>8</td><td>49</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表6以乙酸和丁酸含量评价木薯渣品质",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/98e0b3a20cd180acf9b1ef82ffd50658401ace179d3da207b78e56f9e75d93ef.jpg",
+        "table_caption": [
+            "Table 6Evalution for the quality of cassava residue by butyric acid and acetic acid "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">contents</td></tr><tr><td rowspan=\"5\">项目Items</td><td>丁酸</td><td></td><td>乙酸</td><td>得分</td><td>总分</td><td>等级</td></tr><tr><td>Butyric</td><td>得分</td><td>Acetic</td><td></td><td>Total</td><td></td></tr><tr><td>acid/%</td><td>Score</td><td>acid/%</td><td>Score</td><td>score</td><td>Grade</td></tr><tr><td>DM</td><td></td><td>DM</td><td></td><td></td><td></td></tr><tr><td>0.13</td><td>100</td><td>0.34</td><td>0</td><td>100</td><td>1</td></tr><tr><td>对照组I Control group I</td><td>0.14</td><td>100</td><td>0.33</td><td>0</td><td>100</td><td>1</td></tr><tr><td>对照组II Control group II I1</td><td>0.12</td><td>100</td><td>0.32</td><td>0</td><td>100</td><td>1</td></tr><tr><td></td><td>0.12</td><td>100</td><td>0.35</td><td>0</td><td>100</td><td>1</td></tr><tr><td>试验组I 12</td><td>0.13</td><td>100</td><td>0.36</td><td>0</td><td>100</td><td>1</td></tr><tr><td>Experimental 13</td><td>0.15</td><td>100</td><td>0.40</td><td>0</td><td>100</td><td>1</td></tr><tr><td>group I I4 15</td><td>0.12</td><td>100</td><td>0.34</td><td>0</td><td>100</td><td>1</td></tr><tr><td></td><td>0.12</td><td>100</td><td>0.33</td><td>0</td><td>100</td><td>1</td></tr><tr><td>II1</td><td>0.16</td><td>100</td><td>0.41</td><td>0</td><td>100</td><td>1</td></tr><tr><td>试验组ⅡI</td><td>I2</td><td>0.15 100</td><td>0.42</td><td>0</td><td>100</td><td>1</td></tr><tr><td>Experimental</td><td>I3</td><td>0.17 100</td><td>0.45</td><td>0</td><td>100</td><td>1</td></tr><tr><td>group II</td><td>I4</td><td>0.15 100</td><td>0.40</td><td>0</td><td>100</td><td>1</td></tr><tr><td>I 5</td><td></td><td>0.17 100</td><td>0.45</td><td>0</td><td>100</td><td>1</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1不同微生物添加剂组合对木薯渣发酵产物的影响在饲料发酵过程中，pH 是决定发酵饲料是否成功的关键性因素之一，低 pH 能抑制其他有害微生物的繁殖，降低蛋白质等营养物质的分解，使养分的损失尽可能的减少，从而保证发酵饲料的品质[8]，一般优质发酵饲料的 pH小于 $4 . 2 ^ { [ 9 ] }$ ，在本试验中，各组 pH均为 4.2以下，均达到优质发酵饲料的标准，单从pH下降来看，添加尿素、红糖和不添加尿素、红糖，接种和不接种微生物各组的pH均能达到发酵饲料的要求，只是添加尿素、红糖和菌种更有利于降低发酵木薯渣的 $\\mathrm { \\ p H }$ ，而且5菌组合比4菌组合更能降低发酵底物的pH。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "试验中添加5菌组合 $^ +$ 尿素 $+$ 红糖发酵木薯渣时乙酸和丙酸含量均最高，可能因为这些菌类在发酵过程中大量生长繁殖且分泌出相应的水解酶系，导致发酵底物中产生较多的VFA，张涛等[10]也表明异型发酵乳杆菌如布氏乳杆菌在发酵过程中，除生成乳酸外，还生成乙酸、二氧化碳（ $\\mathrm { C O } _ { 2 }$ )、乙醇，乙酸有利于降低发酵底物的pH，提高有氧稳定性，对防止饲料有氧变质有至关重要的作用。马静静等[2在木薯渣中接种乳酸菌复合系SFC-2，同时添加不同浓度的蔗糖进行发酵，结果表明可以提高木薯渣中乳酸的含量，降低丁酸、甲胺和氰化物等有害物质的含量，从而改善木薯渣的适口性，提高其饲料转化率，与本试验结果不一致，本试验中试验组 $\\mathrm { I I }$ 的丁酸含量普遍高于空白组、对照组I、对照组ⅡI和试验I组，但含量均不高，不影响整体品质，可能因为添加的菌种不同及发酵条件不同等原因造成。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2不同微生物添加剂组合对木薯渣营养成分的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "木薯渣蛋白质含量低，纤维含量高，适口性差，因此，要改善木薯渣的品质首先要提高木薯渣的蛋白质含量，降低其纤维含量。黄金华等[I用黑曲霉、酿酒酵母、米曲霉、益生素（由枯草芽孢杆菌、地衣芽孢杆菌、植物乳杆菌和蜡样芽孢杆菌组成）的不同组合发酵木薯渣，结果表明，以黑曲霉、酿酒酵母、米曲霉、益生素组成的混合菌发酵木薯渣效果最好，CP 含量显著高于其他组，CF 含量和 pH均为最低。Hang 等[12]和Okpako 等[13]也有同样的研究结果。本试验结果也表明：添加5菌组合 $+$ 尿素 $^ +$ 红糖发酵木薯渣效果最好，CP含量显著高于其他组，NDF 和 ADF 含量均最低，本试验揭示布氏乳杆菌、黑曲霉、热带假丝酵母、枯草芽孢杆菌与植物乳杆菌具有优势互补、协同提高木薯渣发酵效果的作用。因为黑曲霉降解淀粉及纤维素的能力比较强，可产生糖化酶、淀粉酶、植酸酶、纤维素酶等复合酶系，另外，黑曲霉也能产酸降低饲料的 pH，而该 pH 范围有利于酵母菌的生长[14]。热带假丝酵母在固态发酵饲料中能产生饲料酵母，有利于提高发酵饲料的CP含量。枯草芽孢杆菌能够分泌纤维素酶、淀粉酶、脂肪酶、碱性蛋白酶、糖化酶等多种酶系，它与黑曲霉等有很好的协同发酵的作用[15]。布氏乳杆菌在发酵过程中会产生醋酸菌和异型乳酸，有利于减低饲料 pH和提高有氧稳定性。植物乳杆菌为厌氧或兼性厌氧菌，能够产生乳酸和乳酸杆菌素，降低pH，提高饲料的适口性，而乳酸杆菌素是一种生物型的防腐剂，有利于避免饲料变质，因此，布氏乳杆菌、黑曲霉、热带假丝酵母、枯草芽孢杆菌与植物乳杆菌混合发酵木薯渣，不但能降低NDF和ADF含量，还能通过相互之间所产生的营养物质合成菌体蛋白，从而提高木薯渣的CP含量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "管军军等[16]选用酵母菌单菌种、霉菌单菌种及二者混菌种为试验菌种，添加 $7 \\%$ 的尿素，对木薯渣进行发酵，发酵后木薯渣的蛋白质含量与试验用木薯渣原料蛋白质含量相比，分别提高了4.94倍、4.32 倍和5.72倍，混菌种发酵效果要优于单菌种发酵，此外，木薯渣含氮量较低，而微生物的生长则需要充足的氮源，在发酵的培养基中添加无机氮源，能显著提高产物中蛋白质含量。本试验结果显示，5菌组合改善木薯渣营养成分的效果优于4菌组合;试验组和对照组的CP含量均显著高于空白组，为空白组CP含量的1.7\\~2.0倍，该试验结果与上述结果基本一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Yang 等[17]试验结果表明，在饲料发酵时乳酸菌迅速增殖需要可溶性糖的浓度达到一定的水平。要通过接种微生物的方式加快木薯渣发酵进程，从而改善其发酵品质时，保证一定浓度的可溶性糖对获得优质发酵饲料非常重要。本试验研究结果也表明在木薯渣发酵时添加$1 \\%$ 尿素 $+ 0 . 6 \\%$ 红糖比只添加 $1 \\%$ 尿素发酵效果好。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本试验中II5 组的DMR 最低，在发酵过程中DM损失相对较多。这与黄金华等[研究结果一致。主要原因是微生物在发酵过程中，会使用发酵底物所提供的碳源和氮源进行生长和繁殖，消耗掉部分底物，所以会导致底物DMR 降低，从而使CP、粗灰分及粗脂肪等含量相对提高，微生物生长、繁殖越旺盛，发酵效果越好，消耗的底物相应就会越多。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.3木薯渣发酵品质评定研究",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "黄金华等[18]以啤酒酵母、黑曲霉和产皖假丝酵母的不同组合对木薯渣进行发酵试验，发酵 30d后进行品质评定，各组的发酵木薯渣从色泽、气味及质地来看均为优等。这表明适当添加相关微生物有利于提高木薯渣的酸度。马静静等[2报道，只接种 SFC-2的木薯渣发酵后感官评定得9分，接种 SFC-2同时又添加合适浓度的蔗糖时，能够获得较佳的品质，本试验除空白组外，其他各组发酵木薯渣从色泽、气味及质地来看也均为优等，对照组和试验组得分均高于空白组说明添加有关微生物、尿素和红糖有利于改善木薯渣发酵感官品质。本试验的感官评定是参照我国农业部1996年发布的《青贮饲料质量评定标准（试行)》来进行，该参考具有很大的局限性，且主观因素较强，而Kaiser等7提出按照乙酸和丁酸的含量来评价发酵饲料品质的标准，该标准不考虑 pH、乳酸及氨态氮含量，因为pH不仅与青贮的牧草品种和化学成分有关，还与青贮发酵过程有关系。因此，该标准的提出对于不同青贮饲料添加剂的研究具有一定的意义。本试验通过乙酸和丁酸含量评价木薯渣品质，得出各组发酵木薯渣品质均达到1级水平，表明各组虽然均检测出丁酸含量，但因含量低，不影响木薯渣品质。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 当底物含水量为 $6 5 \\%$ 左右、尿素比例为 $1 \\%$ 、红糖比例为 $0 . 6 \\%$ 、混合菌接种比例为$5 \\%$ 、发酵时间为 $1 0 \\mathrm { d }$ 时，发酵木薯渣效果最好，能显著降低发酵木薯渣 $\\mathrm { \\ p H }$ ，提高乙酸和丙酸含量，显著降低 NDF和 ADF含量，显著提高CP含量。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 添加相应的菌种 $^ +$ 尿素 $^ { \\cdot } +$ 红糖发酵木薯渣有利于产生丙酸。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 不同微生物添加剂组合发酵木薯渣，对木薯渣营养成分改善效果5菌组合优于4菌组合。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 添加尿素能显著提高发酵木薯渣CP含量。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 在木薯渣发酵过程中添加尿素 $^ +$ 红糖比只添加尿素对木薯渣营养成分改善效果好。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]邹彩霞,吴健平,韦升菊,等.微生物制剂和糖蜜对木薯渣营养价值的影响[J].饲料研究,2011(4):1-3.  \n[2]马静静,王小芬,程序,等.乳酸菌发酵使木薯淀粉残渣饲料化研究[J].农业工程学报,2008,24(6):267-272.  \n[3] 赵华,王雪涛,汤加勇,等.复合益生菌固态发酵改善甘薯渣营养价值的研究[J].动物营养学报,2015,27(4):1191-1198.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[4] KUMAR R,SINGH R P.Semi-solid-state fermentation of Eicchornia crassipes biomass as lignocellulosic biopolymer for cellulase and $\\beta$ -glucosidase production by cocultivation of Aspergillus niger RK3 and Trichoderma reesei MTCC164[J].Applied Biochemistry and Biotechnology,2001,96(1/2/3):71-82. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[5] 汤小朋,赵华,汤加勇,等.黑曲霉固态发酵改善木薯渣品质的研究[J].动物营养学报,2014,26(7):2026-2034.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[6]杨胜.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,1993.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[7] KAISER E,WEI K.A new system for the evaluation of the fermentation quality of silages[C]//Proceedings of the 14th international silage conference,a satellite workshop of the 2Oth international grassland congress.Bellast, Northern Ireland:Wageningen Academic Pub. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8] WANG X F,HARUTA S,WANG P,et al.Diversity of a stable enrichment culture which is useful forsilage inoculant and itssuccession in alfalfa silage[J].FEMSMicrobiology Ecology,2006,57(1):106-115. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[9] 杨洁彬,凌代文,郭兴华,等.乳酸菌—一生物学基础及应用[M].北京:中国轻工社,1996:187-191.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[10] 张涛,崔宗均,李建平,等.不同发酵类型青贮菌制剂对青贮发酵的影响[J].草业学报,2005,14(3):67-71.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[11] 黄金华,王士长,梁珠民.多菌种混合发酵木薯渣饲料的工艺条件研究[J].试验研究,2014,35(11):22-25.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[12] HANGYD.Improvementofthenutritionalvalueofcassava-residua by fermentation[J].Nutrition Report International,1998,38(1):2O7-210. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[13] OKPAKO C E,NTUI V O,OSUAGWU A N,et a1.Proximate composition and cyanide content of cassava peels fermented with Aspergillus niger and Lactobacillus rhamnosus[J].Journal of Food,Agriculture & Environment,20o8,6(2):251-255. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[14] 龚仁.混合发酵葵花盘(粉)生产生物蛋白饲料的研究及应用[D].硕士学位论文.西安:西北大学,2009:14-17.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[15] 吴宝昌.枯草芽孢杆菌混合发酵制备豆粕饲料的研究[D].硕士学位论文.济南:山东轻工业学院,2010:9-10.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[16] 管军军,张同斌,崔九红,等.木薯渣生产菌体蛋白的研究[J].安徽农业科学,2008,36(22):9556-9558,9596.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[17] YANG H Y,WANG X F,LIU JB,et al.Effects of water-soluble carbohydrate content on silage fermentation of wheat straw[J].Journal of Bioscience and Bioengineering,2006,101(3):232-237. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[18] 黄金华,王士长,梁珠民,等.不同处理对木薯渣饲料营养价值的比较[J].广西农业科学,2009,40(6):768-771.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Effects of Solid-State Fermentation with Different Combinations of Mixed Strains on Quality of ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "CassavaResidue ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "TANG QingfengPENG KaipingWEI Shengju LIANG Xin LI Lili ZOU Caixia\\* (Buffalo Research Institute, Chinese Academy of Agricultural Sciences,Nanning 53ooo1, China) Abstract: The current experiment was carried out to investigate effects of combinations of Lactobasillus buchneri (LAB),Aspergillus niger (AN), Candida tropicalis (CT), Bacillus subtilis (BS) and Lactobacillus plantarum (LAP) on quality of cassava residue,and to find the best strains combination. In this study，cassava residue were used for fermentative raw material, LAB，AN, CT，BS and LAP were combined in accordance with different strains by 1:1, there were five different combinations in this experiment. Combination $1 \\colon \\mathrm { L A B } { + } \\mathrm { A N } { + } \\mathrm { C T } { + } \\mathrm { L A P }$ ； combination 2: $\\mathrm { L A B + A N + B S + L A P }$ ；combination $3 \\colon \\mathrm { L A B + C T + B S + L A P }$ ; combination $4 : \\mathrm { A N + C T + B S + L A P }$ ：， combination 5: $\\mathrm { L A B + A N + C T + B S + L A P }$ ； $1 \\%$ urea or $1 \\%$ urea $+ 0 . 6 \\%$ brown sugar was added to each combination, the blank group without any additives, $1 \\%$ urea was added to the control group I, $1 \\%$ urea $+ 0 . 6 \\%$ brown sugar was added to the control group $\\mathrm { I I }$ , water content in each group was about $65 \\%$ by modulating with physiological saline, each group was fermented in the vacuum of polyethylene film bag for 1O days.The results showed as follows: 1） the effects of different microbial inoculants on the nutrition composition of cassava residue,the result showed five strains combination was superior to the four strains combination.The combination 5 get a best quality improvement of cassava residue, compared with the blank group, the pH was significantly reduced （ $. P { < } 0 . 0 5 )$ , the acetic acid and propionic acid contents were significantly improved( $_ { ( P < 0 . 0 5 ) }$ ， the neutral detergent fiber (NDF) and acid detergent fiber (ADF) contents were the lowest, and significantly lower than those in blank group and control groups $( P { < } 0 . 0 5 )$ ，the crude protein content was the highest, and significantly higher than those in blank group and control groups $( P { < } 0 . 0 5 )$ . 2） It was favorable to propionic acid production by adding the corresponding strains+urea+brown sugar to the cassava residue fermented by the mixed strains.3） When the urea was added into the fermentation medium,the crude protein content in cassava residue was significantly increased（ $( P { < } 0 . 0 5 )$ ）.4） Urea and brown sugar were added into cassava residue for improving the nutrition composition during the fermentation process of cassava residue was better than that only urea was added into cassava residue. In conclusion, solid-state fermentation using LAB,AN, CT,BS,LAP,urea and brown sugar can offer an effective alternative to improve the quality of cassava residue. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: cassava residue;mixed microbe strains;solid-state fermentation ",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,140 @@
+# DOI: 10.5846/stxb201608081628
+
+陈绍栓,许建伟,吴载璋,陈彬,李晨燕.不同强度疏伐改造对马尾松林分水源涵养功能时空格局的影响.生态学报,2017,37（20):6753-6760.CheSS,XuJuZe,isiftesialdaialteseomassoniana.Acta Ecologica Sinica,2017,37(20):6753-6760.
+
+# 不同强度疏伐改造对马尾松林分水源涵养功能时空格局的影响
+
+陈绍栓1，许建伟²,\*，吴载璋¹，陈 彬²，李晨燕
+
+1福建省三明市林业科技推广中心，三明365000  
+2 福建省三明市国有林场管理处，三明365000  
+3三明市速生丰产用材林基地办公室，三明365000
+
+摘要：为了解马尾松林分改造过程中水源涵养功能的动态变化,提升林分的生态服务功能,1994年在福建省尤溪国有林场城镇景观林中选择22年生的马尾松林,通过方差分析分析 $2 0 \%$ 强度疏伐改造 $, 3 5 \%$ 强度疏伐改造、 $5 0 \%$ 强度疏伐改造和对照4种处理间林分持水量的变化,结果表明;随着改造时间的推移,各处理林分水源涵养量显著升高( ${ \tilde { P } } < 0 . 0 5 )$ ,疏伐改造强度越大林分水源涵养量增加越明显。土壤层持水量占林分总持水量的 $9 5 . 8 9 \% - 9 7 . 1 8 \%$ ,改造前5a不同处理间土壤层 $0 { - } 2 0 ~ \mathrm { c m }$ 和土壤层$2 0 { - } 4 0 ~ \mathrm { c m }$ 持水量差异均不显著( $\textstyle P > 0 . 0 5 )$ ,改造10a后改造林分土壤层 $0 { \stackrel { \textstyle  } { - } } 2 0 ~ \mathrm { c m }$ 和土壤层 $2 0 { - } 4 0 ~ \mathrm { c m }$ 持水量均显著高于对照林分( $\lceil P < 0 . 0 5 \}$ 。林分地上部分持水量仅占林分水源涵养量的 $2 . 8 2 \% ( 4 5 . 6 4 ~ \mathrm { V h m } ^ { 2 } )$ 一 $4 . 1 1 \% ( 7 6 . 8 1 \mathrm { ~ t } / \mathrm { h m } ^ { 2 } )$ ,但改造后存在显著变化( $\left. P < 0 . 0 5 \right.$ 。林冠层在林分改造10a后持水量显著高于对照林分( $P < 0 . 0 5 )$ ,但疏伐改造强度越大其持水量越小;林下植被层在林分改造5a后持水量显著低于对照林分( $\begin{array} { r } { P < 0 . 0 5 , } \end{array}$ ,同样疏伐改造强度越大其持水量越小;调落物层在林分改造5a后持水量显著高于对照林分( $\begin{array} { r } { P < 0 . 0 5 \ ' } \end{array}$ ,持水量随疏伐改造强度增大而增大。林冠层和凋落物层持水量比重随着改造时间的推移呈显著增加趋势( $\textstyle P < 0 . 0 5 { \mathrm { . } }$ ),林下植被层则呈显著下降趋势( $\stackrel { \cdot } { P } < 0 . 0 5$ )。以上结果表明,改造初期林分持水量变化强烈,疏伐改造强度越大林分持水量越低;但长期来看,改造林分更有利于林分水源涵养功能的提升。
+
+关键词：马尾松；林分改造；疏伐强度；水源涵养;时空动态
+
+# Effects of different thinning intensities on temporal and spatial patterns of water conservation of Pinus massoniana
+
+CHEN Shaoshuan’,XU Jianwei2 \* ,WU Zaizhang',CHEN Bin²,LI Chenyan³ 1Forestry Science and Technology Promotion Centerof SanmingCityFujian Province，Sanming 365ooo,China 2 The Management of State-owend Tree Farm of Sanming City Fujian Province，Sanming 365ooo,China 3Fast-Growingand High-Yielding Timber Base Office of Sanming City，Sanming 36500o,China
+
+Abstract:Thisstudy aimedtounderstand thechanges in spatialand temporal dynamicsof water conservation intheprocess of stand improvement of Pinus masoniana，inorder to improve the forest ecological service function.Weanalyzedthe changesin stand water holding capacity between thecontrol standand improved standusing thinning intensities of approximately $20 \%$ ， $3 5 \%$ ，and $50 \%$ ,in a 22-year-old $P$ . massoniana forest of the Youxi Forest Farm in Fujian Province. The results showed that forest water conservation by stand improvement significantly increased with time ( $P < 0 . 0 5$ ），and forestwaterconservationincreasedsignificantlywiththeincrease inthinning intensityafter1Oyears.Waterholdingcapacity of the soil layer accounted for $9 5 . 8 9 \% - 9 7 . 1 8 \%$ of the stand water holding capacity.Water holding capacity of the O一 $2 0 \mathrm { c m }$ and 20—4Ocmsoillayers was notsignificantlydifferentbetween thecontrolstandand improved stand duringfirstfive years of stand improvement ( $P > 0 . 0 5$ ）；however，after 1O years of stand improvement，water holding capacity of both O—20 cm and 20—4O cm soil layers of the improved stand was significantly higher than the control stand ( $P < 0 . 0 5$ ).Water holding capacity of the canopy，vegetation，and litter layers accounted for $2 . 8 2 \%$ （ $4 5 . 6 4 ~ \mathrm { t / h m } ^ { 2 }$ )一 $4 . 1 1 \%$ （ $. 7 6 . 8 1 ~ \mathrm { t / h m } ^ { 2 }$ ）ofthe stand waterholdingcapacity.Inthecanopylayer，waterholdingcapacityoftheimproved standwas significantly higher than the control stand when stand improvement was $> 1 0$ years ( $P < 0 . 0 5$ ）；water holding capacity decreased with increasing thinning intensity.Incontrast,inthevegetationlayer，waterholdingcapacityof theimprovedstand wassignificantlylower than that of the control stand when stand improvement was ${ > } 5$ years ( $\ P < 0 . 0 5$ ）；water holding capacity decreased with increasing thining intensity.Inthe literlayer，water holdingcapacityofthe improved stand wassignificantly higher than that of the control stand when stand improvement was $> 5$ years ( $P \ < \ 0 . 0 5 ^ { \cdot }$ ）；water holding capacity increased with increasing thining intensity.The water holding ratioof thecanopyand liter layers increased significantlywith time( $P <$ （204号 0.05），but the waterholdingratioof thevegetation layer decreased significantly with timeinthe improvedstand( $\boldsymbol { P } <$ （204号 0.05).Theseresults indicate that the stand water holding capacitychanged dramaticall in theearlystageof the improved stand，and the water holding capacity decreased with increasing thinning intensity.Thus，the improved stand was more beneficial for water conservation over a longer period of time.
+
+KeyWords：Pinus masoniana;stand improvement;thinning intensity;water conservation;spatialand temporal dynamics
+
+水源涵养功能是森林最重要的生态功能之一[1-2]。在干旱地区,森林水源涵养功能可能突出表现为森林的蓄水、保水能力;在雨水充沛地区,森林水源涵养功能的重要作用则表现在持水和固沙保土方面[2-4]。经过长期植树造林,我国南方8省红壤区水土流失面积从1986年25.0 万 $\mathrm { k m } ^ { 2 }$ 减少到2002年19.6万 $ { \mathrm { k m } } ^ { 2 }$ ,但形势依然严峻,特别是坡度 $1 5 ^ { \circ }$ 以上的山地水土流失面积约占总流失面积的 $7 0 \% ^ { [ 5 - 7 ] }$ 。已有研究表明,马尾松（Pinus massoniana)纯林持水能力明显低于常绿阔叶林或针阔混交林[4.8],可是南方早期造林绿化树种主要以马尾松为主[9]。近年来,由于马尾松林分的水土流失问题和松材线虫病问题,很多地区开展了马尾松的林分改造[10-1]。林分改造过程中疏伐强度是关键。疏伐强度过低,套种阔叶树在林下难以生长或成林;疏伐强度过高,林分持水和保土能力骤变,溜方或水土流失等灾害发生的几率增大[12-14]。目前,国内关于马尾松纯林改造过程中林分持水量动态变化的研究极少,导致生产上在马尾松纯林改造工作中存在较大的盲目性。有鉴于此,本试验选在福建省尤溪国有林场的马尾松城镇景观林基地,通过研究不同疏伐强度套种阔叶树[细柄阿丁枫（Altingia gracilipes）]后林分持水量和土壤持水量的动态变化,探索马尾松林分改造过程中水源涵养功能时空格局的动态变化，以期从水土保持方面为今后马尾松林分改造提供经验参考及理论依据。
+
+# 1试验地概况
+
+试验地位于福建省尤溪县的福建省尤溪国有林场,尤溪县地处闽中、戴云山脉以北( $1 1 7 ^ { \circ } 8 0 ^ { \prime } - 1 1 8 ^ { \circ } 6 0 ^ { \prime } \mathrm { E }$ ，$2 5 ^ { \circ } 8 0 ^ { \prime } { \mathrm { - } } 2 6 ^ { \circ } 4 0 ^ { \prime } \mathrm { N } )$ ,属中亚热带海洋性季风气候,年均气温为 $1 9 . 2 \%$ ,年平均降水量为 $1 6 2 0 ~ \mathrm { m m }$ 。试验地土壤为红壤，海拔300— ${ \it 6 0 0 } \mathrm { m }$ ,土层 $5 0 { - } 7 0 ~ \mathrm { c m }$ ,坡度 $2 8 ^ { \circ }$ 。试验林为1973年植苗造林的马尾松林，初植密度为2400 株 $/ \mathrm { h m } ^ { 2 }$ ,种植 2a 后保存密度1800—2000 株/ $\cdot \mathrm { h m } ^ { 2 }$ ,1985 年进行一次透光伐抚育，保留密度1000—1200株 $/ \mathrm { h m } ^ { 2 }$ 。改造前林分为单层同龄林(部分山脊有3—4行木荷),林冠层为马尾松;林下植被层中灌木有冬青（Ilex chinensis Sims）、毛冬青(Iex pubescens Hook）、山矾（Symplocos sumuntia）、微毛柃（Eurya hebeclados Ling）、赤楠（Syzygium buxifolium Hook）、木荷幼苗（Schima superba）等,草本有芒萁（Dicranopteris dichotoma）、地念（Melastoma dodecandrum）、中华里白（Diplopterygium chinense）等,另外还有苦竹（Pleioblastus amarus）、刚竹（Phyllostachys viridis）茶杆竹（Pseudosasa amabilis）等竹类。植被层高度80— $1 0 0 ~ \mathrm { c m }$ ,盖度 $8 0 \%$ 1 $9 0 \%$ 。
+
+http://www.ecologica.cn
+
+1994 年进行疏伐改造,改造前林分密度为960 株 $/ \mathrm { h m } ^ { 2 }$ ,平均胸径 $1 6 . 2 ~ \mathrm { c m }$ 、平均树高 $1 3 . 4 \mathrm { ~ m ~ }$ 、郁闭度0.8—0.9。疏伐原则为总体控制林分均匀度、局部去小留大,伐后林分顶层空间保持均匀。疏伐强度分别为 $5 0 \%$ 、$3 5 \%$ $. 2 0 \%$ ,不疏伐林分作为对照（强度为 $0 \%$ )。疏伐后套种细柄阿丁枫(细柄阿丁枫是当地乡土树种,种植面积广、林农接受度高），套种密度均为1500 株 $\langle \mathrm { h m } ^ { 2 }$ 。1995年和1996年，每年在5—6月份和9—10月份各进行1次块状锄草抚育;之后3a每年7—8月份再进行1次劈草抚育。改造林分情况见表1。
+
+表1林分改造前后生长情况  
+Table 1 Growth conditions of stand improvement   
+
+<html><body><table><tr><td rowspan="3">间伐强度/% intensity Thinning</td><td rowspan="3">面积/hm² Area</td><td rowspan="3">坡度/(°) Slope</td><td colspan="4">Canpyensty</td><td colspan="4">DBH马Pm径/cmang</td><td colspan="3">DBH ot阿丁枫胸/ces</td></tr><tr><td colspan="4"></td><td colspan="4"></td><td colspan="2"></td></tr><tr><td>1994</td><td>1999</td><td>2004</td><td>2014</td><td>1994</td><td>1999</td><td>2004</td><td>2014</td><td>1999</td><td>2004</td></tr><tr><td>0</td><td>5.2</td><td>27</td><td>0.8</td><td>0.8</td><td>0.9</td><td>0.9</td><td>18.5</td><td>19.3 20.0</td><td>21.7</td><td></td><td></td><td>2014 1</td></tr><tr><td>20</td><td>4.8</td><td>25</td><td>0.6</td><td>0.7</td><td>0.8</td><td>0.9 20.5</td><td>22.0</td><td>23.7</td><td>26.4</td><td>3.2</td><td>6.6</td><td>12.9</td></tr><tr><td>35</td><td>5.6</td><td>28</td><td>0.5</td><td>0.7</td><td>0.8</td><td>0.9 22.6</td><td>24.6</td><td>26.4</td><td>29.2</td><td>3.8</td><td>7.5</td><td>13.4</td></tr><tr><td>50</td><td>4.6</td><td>25</td><td>0.4</td><td>0.6</td><td>0.8</td><td>0.9</td><td>24.6 27.1</td><td>29.4</td><td>32.6</td><td>4.5</td><td>9.1</td><td>15.0</td></tr></table></body></html>
+
+# 2研究方法
+
+# 2.1 样地设置
+
+样地设置采用完全随机区组设计，每个处理4次重复，标准地面积为 $2 0 ~ \mathrm { m } \times 2 0 ~ \mathrm { m }$ ,共布设16块标准地。分别于改造当年(1994年）、改造后第5年(1999年）、改造后第10年(2004年)和改造后第20年(2014年)对标准地进行每木调查（见表1）。
+
+# 2.2持水量测定与计算
+
+# 2.2.1 乔木层持水量测定
+
+参考陈绍栓[15]乔木层持水量测定方法。在标准地内调查树高、胸径,每块标准地确定标准木,伐倒标准木,分树种对其叶、枝称重,并取样带回试验室测定含水率和最大持水率,分别计算各树种的叶、枝持水量。公式为： Y
+
+$$
+W { = } w \big (  1 { - } p \big ) P N
+$$
+
+式中,W为持水量( $\mathbf { \Delta t } / \mathbf { h } \mathbf { \hat { m } } ^ { 2 }$ ） $\hat { \mathcal { w } }$ 为标准木枝或叶的鲜重(t）， $p$ 为含水率 $( \% ) , P$ 为最大持水率 $( \% )$ ， $N$ 为每公顷株数。 /
+
+2.2.2林下植被层和凋落物层持水量测定
+
+参考黎燕琼等[12] 巍强等[16]灌草层和凋落物层持水量测定方法。在每个标准地沿对角线设4个 $1 \ \mathrm { m } \times 1$ （204号$\mathbf { m }$ 的小样方,称取样方内的林下植被层和凋落物层重量,取样带回试验室测定含水率和最大持水率,分别计算林下植被层和凋落物层的生物量和持水量。公式为：
+
+$$
+W { = } 1 0 0 0 0 w ( 1 { - } p ) P
+$$
+
+式中,W为持水量( $\lfloor \sqrt { \mathrm { h m } ^ { 2 } }$ ) $w$ 为标准地 $\mathrm { ~ 1 ~ m } ^ { 2 }$ 林下植被层或凋落物层的鲜重 $\mathbf { \Pi } ( \mathfrak { t } ) \mathbf { \Pi } , p$ 为含水率 $( \% ) , P$ 为最大持水率 $( \% )$ 。
+
+# 2.2.3 土壤层持水量测定
+
+在每个标准地按 S型设置5个取样点,通过挖掘土壤剖面进行取样,取样时分为土壤层 $1 ( 0 { - } 2 0 \ \mathrm { c m } )$ 和土壤层 $2 ( 2 0 - 4 0 ~ \mathrm { c m } )$ 两层收集样品,样品带回试验室测定土壤孔隙度和土壤最大含水率,分别计算土壤层1及土壤层2的持水量。公式为：
+
+$$
+W = 1 0 0 H Q _ { \scriptscriptstyle V } d
+$$
+
+式中， $W$ 为土壤层持水量( $\cdot / \mathrm { h m } ^ { 2 }$ ） $H$ 为土层厚度( $\mathbf { \bar { \rho } } _ { \mathrm { ~ c ~ m ~ } } ,$ ）’ $Q _ { \scriptscriptstyle V }$ 为土壤重最大持水率 $( \% ) , d$ 为水的比重 $\mathrm { ( g / c m } ^ { 3 }$ ）
+
+# 2.3 数据处理
+
+采用 Spss17.0单因素方差分析,差异显著性用LSD 检验,结果以平均值 $\pm$ 标准误表示。所有插图均采用SigmaPlot10.0 进行绘制。
+
+# 3结果与分析
+
+3.1不同强度疏伐改造后马尾松林分水源涵养量的时间动态
+
+马尾松林分疏伐改造后,林分水源涵养量随时间的推移呈增加趋势(图1)。对照林分水源涵养量从1994年( $1 6 5 7 . 1 6 { \scriptstyle \pm 2 9 . 1 7 }$ ） $\nu \mathrm { h m } ^ { 2 }$ 升高到2014年的( $1 6 9 0 . 8 9 { \scriptstyle \pm 1 8 . 7 5 }$ ） $\lfloor \nearrow \mathrm { h m } ^ { 2 }$ ,但差异不显著( $\ P > 0 . 0 5 )$ ;疏伐改造后的林分，无论是 $2 0 \%$ 疏伐强度还是 $3 5 \%$ 和 $5 0 \%$ 疏伐强度，林分水源涵养量均是随林分改造后时间的推移而增加,改造后第5年(1999 年)与改造当年(1994年)差异不显著( $\textstyle P > 0 . 0 5 )$ ，改造后第10年（2004年）、改造后第20年(2014年)显著提升 $^ { \prime } P < 0 . 0 5 )$ 。比如 $5 0 \%$ 疏伐强度改造的林分，林分水源涵养量从1994年的（ $1 6 2 4 . 5 2 { \scriptstyle \pm 2 4 . 4 2 }$ ） $\mathrm { t } / \mathrm { h m } ^ { 2 }$ 显著提高到2014年的( $1 8 9 2 . 1 9 { \scriptstyle \pm 2 1 . 0 5 }$ ） $\mathrm { t / h m } ^ { 2 } ( P { < } 0 . 0 5 )$ ,提高 $1 6 . 4 8 \%$ 。
+
+林分改造当年（1994年），基本上是疏伐强度越大林分水源涵养量越低，虽然差异不显著( $P { > } 0 . 0 5 )$ ，但是不同疏伐强度样地间最大差异达到 $8 . 9 6 \%$ 。林分改造后第5年（1999年），林分水源涵养量随疏伐强度增加呈上升趋势，同样未达到显著差异( $\ P > 0 . 0 5 )$ 。林分改造后第10年（2004年），对照林分水源涵养量显著低于改造林分( $\begin{array} { r } { P < 0 . 0 5 , } \end{array}$ ; $5 0 \%$ 强度疏伐改造林分水源涵养量略高于 $20 \%$ 和 $3 5 \%$ 强度疏伐改造林分，但差异不显著 $( P > 0 . 0 5 )$ 。林分改造后第20年（2014年），不同强度疏伐改造林分水源涵养量变化趋势同改造后第10 年趋势基本类似。
+
+# 3.2不同强度疏伐改造后马尾松林分水源涵养量的空间动态
+
+本研究中,林分水源涵养量由林冠层、林下植被层、凋落物层、土壤层1和土壤层2的持水量构成，不同层次持水量间存在显著差异( $P < 0 . 0 5$ ,图2）。改造当年（1994年）,4种处理林分的持水量分布均是土壤层 $1 >$ 土壤层 $2 >$ 林下植被层>林冠层 $>$ 凋落物层,其中土壤层1显著高于其它层( $\textstyle P < 0 . 0 5 ,$ ,土壤层2显著高于林冠层、林下植被层和凋落物层( $\left. P < 0 . 0 5 \right)$ ,林冠层、林下植被层和凋落物层3个层次间无显著差异( $P > 0 . 0 5$ ，图2）。改造后第5年（1999 年），各层次的持水量同样是土壤层1显著高于其它层( $\ P < 0 . 0 5 )$ ,土壤层2显著高于林冠层、林下植被层和凋落物层( $P < 0 . 0 5 )$ ,林冠层、林下植被层和调落物层间无显著差异( $\lceil P > 0 . 0 5$ ，图2);但是此时3种改造处理的林分持水量是林冠层 $\cdot >$ 林下植被层 $>$ 调落物层( $\ P > 0 . 0 5 ,$ ）,对照林分持水量仍是林下植被层 $\cdot >$ 林冠层 $\cdot >$ 调落物层( $\begin{array} { r } { P > 0 . 0 5 , } \end{array}$ )。改造后第10年（2004年），各层次的持水量也是土壤层1显著高于其它层( $\left. P < 0 . 0 5 \right)$ ,土壤层2显著高于林冠层、林下植被层和凋落物层( $\ P < 0 . 0 5 )$ ;但是此时3种改造处理林分持水量又变化为林冠层 $\cdot >$ 调落物层 $>$ 林下植被层,并且 $20 \%$ 和 $3 5 \%$ 强度疏伐改造林分的林冠层与林下植被层间的差异达到显著性( $P < 0 . 0 5 )$ ，对照林分持水量则变成林冠层 $\cdot >$ 林下植被层 $>$ 调落物层( $\left| P > 0 . 0 5 \right)$ 。改造后第20年（2014年）,不同处理林分各层次持水量变化和改造后第10年类似，只是林冠层持水量显著高于林下植被层和凋落物层( $\textstyle P < 0 . 0 5 )$ 0
+
+![](images/522e1761e20561b9fe92d9da092b9cffe20af8a36d89b2d85379b2691f3b141a.jpg)  
+图1不同强度疏伐改造后马尾松林分水源涵养量的时间动态Fig.1Time dynamics of forest water conservation of Pinusmassoniana with different thinning intensity不同大写字母表示相同疏伐强度不同时间上的显著差异( $\boldsymbol { P } <$ 0.05);不同小写字母表示相同年度不同疏伐强度间的显著差异（ $\cdot P < 0 . 0 5$ ）
+
+同一层次不同处理间持水量也存在差异(图2)。林冠层在改造当年(1994年)随疏伐强度的增加显著降低（ $\ P < 0 . 0 5 )$ ;改造后第5年（1999 年）,对照林分林冠层持水量仍高于改造的林分,并且与 $3 5 \%$ 和 $5 0 \%$ 强度疏伐改造林分形成显著差异( $P < 0 . 0 5 )$ ;改造后第10年(2004年)和改造后第20年(2014年），林冠层持水量是 $2 0 \%$ 强度疏伐改造林分 $5 3 5 \%$ 强度疏伐改造林分 $5 5 0 \%$ 强度疏伐改造林分 $\mathrm { > }$ 对照林分（ $\left( P < 0 . 0 5 \right)$ 。林下植被层在改造当年(1994年)4种处理间未表现出显著差异( $P > 0 . 0 5 )$ ；改造后第5年（1999年）、第10年（2004年)和第20年（2014年），林下植被层持水量是对照林分 $> 2 0 \%$ 强度疏伐改造林分 $> 3 5 \%$ 强度疏伐改造林分>$5 0 \%$ 强度疏伐改造林分（ $( P < 0 . 0 5 )$ 。凋落物层在改造当年(1994 年)4 种处理间未表现出显著差异( $P >$ 0.05）;改造后第5年(1999年）、第10年(2004年)和第20年(2014年）,凋落物层与林下植被层正好相反,持水量是 $5 0 \%$ 强度疏伐改造林分 $5 3 5 \%$ 强度疏伐改造林分 $> 2 0 \%$ 强度疏伐改造林分 $\mathrm { > }$ 对照林分( $\ P < 0 . 0 5 )$ 。无论是土壤层1还是土壤层2,在改造当年(1994年)和改造后第5年(1999 年),不同处理间持水量无显著差异（ $\ P > 0 . 0 5 ) ,$ ;改造后第10年（2004 年)和改造后第20年（2014年）,对照林分持水量均显著低于改造的林分0 $\ P < 0 . 0 5 ,$ 。
+
+林冠层 3888881 林下植被层 调落物层 土壤层1 土壤层21100 11001994年 1999年1000 3000 888888 8 Ca 888888 C 88888 L 100 800 l 8888888 L B8 8888888888 8H BH888888 L无 （)/reeeetgae 302010 60 5040 H 汇 8 T 1 0 302010 60 5040 T 8888888888 1 ： AbAc EE88 . AE ACAC 二 30 00 20 35 50 0 20 35 501100 2004年 1100 2014年 Cb Cb Cb103030 8 103030700 1 囍 · D 7006050 1 60 A586000000 路 e 000000000 140 1 Ab ? Ac Ad 40 Aa 888888888 ，，302010 Aa Aa Ab 302010 Ba ..： ： 中 Ba B Bb Bb B F0 00 20 35 50 0 20 35 50疏伐强度Thinning intensity/%
+
+Fig.2) Spatial variations offorest water conservation of Pinus massoniana with diferent thinning intensity不同大写字母表示相同疏伐强度不同层次间的显著差异( $\begin{array} { r }  P < 0 . 0 5 \ \end{array}$ );不同小写字母表示相同层次不同疏伐强度间的显著差异( $\begin{array} { r }  P < 0 . 0 5 \dot  \ \end{array}$
+
+3.3不同强度疏伐改造后马尾松林分水源涵养量的时空动态格局
+
+随着改造时间的推移,马尾松林分各层持水量比重呈现动态变化。从表2可以看出,马尾松林分持水量主要分布在土壤层1和土壤层2,两者所占比重一直在 $9 5 \%$ 以上;其它各层次比重一直在 $5 \%$ 以下。马尾松林分改造后,持水量变化最明显的层次是林冠层和林下植被层。林冠层持水量比重随时间的推移均显著增加1 $P < 0 . 0 5 )$ ，改造20a后，对照林分增加了 $5 1 . 2 2 \%$ ） $2 0 \%$ 强度疏伐改造林分增加了 $2 0 4 . 1 2 \%$ ） $3 5 \%$ 强度疏伐改造林分增加了 $2 2 5 . 5 6 \%$ ） $5 0 \%$ 强度疏伐改造林分增加了 $2 7 5 . 0 0 \%$ 。相反,林下植被层持水量比重随时间的推移均减小,对照林分20a后减小了 $4 . 1 7 \% ( P > 0 . 0 5 )$ ： $2 0 \%$ 强度疏伐改造林分减少了 $7 5 . 0 0 \% ( P < 0 . 0 5 ) : 3 .$ $3 5 \%$ 强度疏伐改造林分减少了 $7 7 . 6 2 \% ( P < 0 . 0 5 )$ ： $5 0 \%$ 强度疏伐改造林分减少了 $7 9 . 4 5 \% ( \textit { P } < 0 . 0 5 )$ 。凋落物层持水量比重变化趋势与林冠层类似，疏伐改造林分是随时间推移显著增长( $\ P < 0 . 0 5 )$ ，改造 $2 0 \mathrm { a }$ 后， $20 \%$ 强度疏伐改造林分增加了 $3 5 . 5 9 \%$ ） $3 5 \%$ 强度疏伐改造林分增加了 $4 2 . 3 7 \%$ ） $5 0 \%$ 强度疏伐改造林分增加了 $4 3 . 3 3 \%$ ；对照林分变化趋势不明显。各种处理的林分,土壤层2持水量比重未随时间呈显著变化趋势( $\left( P > 0 . 0 5 \right)$ 。土壤层1持水量比重, $2 0 \%$ 强度疏伐改造林分和 $3 5 \%$ 强度疏伐改造林分在改造10a后显著降低( $\ : \ : P < 0 . 0 5 \ : , \ :$ 。
+
+表2马尾松林分各层持水量比重的时空动态格局  
+Table2Temporal and spatial dynamic pattern of water holding ratio in layers of Pinus massonial   
+
+<html><body><table><tr><td rowspan="2">间伐强度/% Thinning intensity</td><td rowspan="2">层次 Layer</td><td colspan="4">不同年份持水比重Water holding ratio in different years</td></tr><tr><td>1994</td><td>1999</td><td>2004</td><td>2014</td></tr><tr><td>0</td><td>林冠层</td><td>1.23±0.02a</td><td>1.34±0.02b</td><td>1.48±0.02c</td><td>1.86±0.04d</td></tr><tr><td></td><td>林下植被层</td><td>1.44±0.02a</td><td>1.44±0.02a</td><td>1.36±0.03a</td><td>1.38±0.02a</td></tr><tr><td></td><td>调落物层</td><td>0.57±0.00a</td><td>0.58±0.00a</td><td>0.58±0.02a</td><td>0.55±0.02a</td></tr><tr><td></td><td>土壤层1</td><td>54.22±0.37a</td><td>54.16±0.29a</td><td>53.99±0.23a</td><td>53.88±0.19a</td></tr><tr><td></td><td>土壤层2</td><td>42.55±0.38a</td><td>42.49±0.32a</td><td>42.61±0.29a</td><td>42.34±0.24a</td></tr><tr><td>20</td><td>林冠层</td><td>0.97±0.03a</td><td>1.31±0.03b</td><td>1.78±0.02c</td><td>2.95±0.05d</td></tr><tr><td></td><td>林下植被层</td><td>1.44±0.02a</td><td>0.98±0.02b</td><td>0.62±0.01c</td><td>0.36±0.00d</td></tr><tr><td></td><td>调落物层</td><td>0.59±0.01a</td><td>0.70±0.02b</td><td>0.79±0.00c</td><td>0.80±0.01c</td></tr><tr><td></td><td>土壤层1</td><td>54.65±0.15a</td><td>54.73±0.20a</td><td>53.82±0.11b</td><td>53.39±0.39b</td></tr><tr><td>35</td><td>土壤层2</td><td>42.35±0.19a</td><td>42.30±0.25a</td><td>43.00±0.09a</td><td>42.51±0.36a</td></tr><tr><td></td><td>林冠层</td><td>0.90±0.02a</td><td>1.25±0.03b</td><td>1.73±0.03c</td><td>2.93±0.03d</td></tr><tr><td></td><td>林下植被层</td><td>1.43±0.03a</td><td>0.93±0.01b</td><td>0.59±0.01c</td><td>0.32±0.01d</td></tr><tr><td></td><td>调落物层</td><td>0.59±0.02a</td><td>0.72±0.02b</td><td>0.80±0.01c</td><td>0.84±0.01c</td></tr><tr><td></td><td>土壤层1</td><td>55.21±0.21a</td><td>55.17±0.20a</td><td>54.31±0.32b</td><td>53.22±0.30c</td></tr><tr><td>50</td><td>土壤层2</td><td>41.88±0.20a</td><td>41.93±0.24a</td><td>42.57±0.33a</td><td>42.70±0.30a</td></tr><tr><td></td><td>林冠层</td><td>0.76±0.01a</td><td>1.16±0.01b</td><td>1.64±0.03c</td><td>2.85±0.03d</td></tr><tr><td></td><td>林下植被层</td><td>1.46±0.03a</td><td>0.92±0.01b</td><td>0.57±0.01c</td><td>0.30±0.01d</td></tr><tr><td></td><td>调落物层</td><td>0.60±0.03a</td><td>0.74±0.02b</td><td>0.82±0.00c</td><td>0.86±0.00c</td></tr><tr><td></td><td>土壤层1</td><td>54.04±0.04a</td><td>54.10±0.10a</td><td>54.16±0.52a</td><td>53.65±0.20a</td></tr><tr><td></td><td>土壤层2</td><td>43.15±0.05a</td><td>43.08±0.12a</td><td>42.82±0.53a</td><td>42.36±0.21a</td></tr></table></body></html>
+
+同行不同小写字母表示数据存在显著差异( $P < 0 . 0 5 )$ （204
+
+# 4讨论与结论
+
+森林通过林冠截留、凋落物阻延吸收、土壤渗透等调节、转化和再分配降水,发挥水土保持和水源涵养功能[3,7-9]。而森林植被改变会使林冠层的叶面积、林下植被层的组成、凋落物的数量和土壤的孔隙度发生变化[3,20-21],进而使森林的持水能力发生改变[14.22]。因此,在林分改造过程中也应重视改造林分持水量的时空动态格局,减少林分改造过程中的水土流失。
+
+本研究发现,每种处理的林分总持水量随着时间的推移呈上升趋势,且在改造5a后疏伐改造林分总持水量开始高于对照林分总持水量,特别是改造10a后疏伐改造林分总持水量显著高于对照林分总持水量( $P <$ 0.05）,说明马尾松林分采用 $2 0 \%$ ） $3 5 \%$ 和 $5 0 \% 3$ 种强度疏伐改造后（本文改造指套种细柄阿丁枫）,林分最大持水量不会降低、反而会提高,改造后林分的水源涵养功能总体得到提升。但在改造初期(特别改造当年)，疏伐强度越大林分总持水量较对照减少越多,如用 $5 0 \%$ 强度疏伐时,林分总持水量较对照林分减少 $1 . 9 7 \%$ （即$3 2 . 6 4 ~ \mathrm { t / h m } ^ { 2 }$ ),相当于当年对照林分地上部分持水量的 $6 0 . 9 6 \%$ 。因此,从水土保持角度考虑，在马尾松林分改造时一次疏伐强度不宜过大,也应避免采用带状或块状采伐方式改造。
+
+有研究表明,森林土壤作为森林涵养水源的主要载体,持水量占林分总持水量的 $8 5 \%$ 以上[3]。从表2中可以看出,土壤层1持水量占总持水量比重的 $\{ 5 3 . 2 2 { \pm } 0 . 3 0 \} \%$ 一 $( 5 5 . 2 1 \pm 0 . 2 1 ) \%$ 、土壤层2持水量占总持水量比重的 $( 4 1 . 8 8 \pm 0 . 2 0 ) \% - ( 4 3 . 1 5 \pm 0 . 0 5 ) \%$ ,在时间上土壤层持水量比重相对稳定、差异变化较小（除土壤层1在 $20 \%$ 和 $3 5 \%$ 强度疏伐改造外， $\begin{array} { r } { P > 0 . 0 5 , } \end{array}$ 。因为混交林的根系对空间的高效利用更利于土壤水分的入渗和保持[2-25],所以改造10a后（图2）,对照林分无论是土壤层1还是土壤层2持水量均显著低于疏伐改造林分（ $\begin{array} { r } { P < 0 . 0 5 \ ' } \end{array}$ ，表明改造 $1 0 \mathrm { ~ a ~ }$ 后的林分土壤层蓄水和保水能力增强。综上两点说明林分改造后土壤层的水源涵养功能能够维持一个整体稳定并朝向好趋势发展,并保证林分水源涵养功能的稳定发挥。
+
+林分地上部分持水量的大小对森林生态系统水源涵养功能的发挥具有积极作用[2]。在本研究中,所有监测样地林分地上部分持水量仅占林分水源涵养量的 $2 . 8 2 \% ( 4 5 . 6 4 ~ \mathrm { t / h m } ^ { 2 } )$ 一 $4 . 1 1 \%$ （76.81t/hm²），但是大量研究证明,高效空间配置和合理稳定的林分结构是森林充分发挥水土保持功能的关键[13.26]。林冠层和林下植被层不仅拦截储留降水还通过附加截留量的形式将部分雨水直接蒸发返回到大气[2,4],同时灌木和草本的发达根系会改善土壤结构和理化性质提高土壤蓄水和抗侵蚀能力[12,2-28],而凋落物层的吸持水量一般可达自身重量的2—5倍[4]。马尾松林分经过不同强度疏伐改造后,林分地上部分持水量会发生显著变化( $\boldsymbol { P } <$ 0.05）。改造当年(1994年）,林冠层持水量由于受疏伐的影响随着疏伐强度的加大显著降低( $\ P < 0 . 0 5 )$ ，林下植被层和凋落物层持水量基本持平,此时期出现了整个试验被监测过程中林分地上部分持水量的最低值，即疏伐强度为 $5 0 \%$ 的改造林分。随着改造林分的不断生长，改造 $1 0 \mathrm { ~ a ~ }$ 后，林分地上部分持水量( $20 \%$ 强度疏伐改造林分为 $5 5 . 7 6 ~ \mathrm { t / h m } ^ { 2 } ,$ $3 5 \%$ 强度疏伐改造林分为 $5 4 . 6 5 ~ \mathrm { t / h m } ^ { 2 }$ ） $5 0 \%$ 强度疏伐改造林分为 $5 3 . 3 4 ~ \mathrm { t / h m } ^ { 2 }$ 、)逐步恢复或超过改造前的水平( $5 3 . 5 3 ~ \mathrm { t / h m } ^ { 2 }$ )。同时，由于套种阔叶树水源涵养功能的显现[29],疏伐改造林分林冠层和凋落物层水源涵养功能显著高于对照林分( $P < 0 . 0 5 )$ 。特别是改造 $\overset { } { 2 } 0 \mathrm { a }$ 后凋落物层,明显由于改造后林分枯枝落叶数量的增加使其持水量表现出随疏伐强度的增加呈明显升高的趋势 $^ { [ 4 , 1 3 , 3 0 ] } ( P < 0 . 0 5 )$ 。而随林分生长郁闭度的增加和高强度疏伐套种阔叶树后郁闭度的增加,林下植被层数量、种类减少,持水量及比重也相应下降,但这并不会影响改造林分地上部分总的持水量的增加，改造 $2 0 \mathrm { a }$ 后无论哪种疏伐强调改造的林分地上部分持水量均高于对照林分。
+
+因此,可以得出:1)改造前期是林分持水量发生改变的时期,此时期林分持水量随改造林分疏伐强度增大而降低,林分改造过程中存在水土流失的风险;2)土壤层持水量占林分总持水量的 $9 5 . 8 9 \% - 9 7 . 1 8 \%$ ,是林分涵养水源的主要载体,也是维持林分改造过程中持水稳定的根本;3)改造5a后林分总持水量超过改造前水平,改造10a后林分地上部分持水量达到改造前水平,改造 20a后林分地上部分持水量超过对照林分,因此改造林分持水量稳定并充分发挥混交林水源涵养功能至少需要5— $2 0 \mathrm { a }$ 。
+
+# 参考文献（References）:
+
+[1］时忠杰，王彦辉，于彭涛，熊伟，郭浩，郭明春.宁夏六盘山林区几种主要森林植被生态水文功能研究.水土保持学报，2005，19（3)：134-138. ：  
+[2］贺淑霞，李叙勇，莫菲，周彬，高广磊.中国东部森林样带典型森林水源涵养功能.生态学报，2011,31（12)：3285-3295.  
+[3］杞金华，章永江，张一平，刘玉洪，杨秋云，宋亮，巩合德，鲁志云.哀牢山常绿阔叶林水源涵养功能及其在应对西南干旱中的作用.生态学报，2012，32(6)：1692-1702.  
+[4］）陈东立，余新晓，廖邦洪.中国森林生态系统水源涵养功能分析.世界林业研究，2005，18（1）：49-54.  
+[5］梁音，张斌，潘贤章，李德成，史德明，穆欢，杨轩.南方红壤区水土流失动态演变趋势分析.土壤，2009,41（4)：534-539.  
+6］梁音，杨轩，潘贤章，张斌，史德明.南方红壤丘陵区水土流失特点及防治对策.中国水土保持，2008，（12）：50-53.  
+7]WangB，anagLtsoosialalropesaoioalWater Conservation，2017,72(1）：36-44.  
+[8］何圣嘉，谢锦升，杨智杰，尹云锋，李德成，杨玉盛.南方红壤丘陵区马尾松林下水土流失现状、成因及防治.中国水土保持科学，2011,9(6) : 65-70.  
+［9］赵其国.我国南方当前水土流失与生态安全中值得重视的问题.水土保持通报，2006，26(2）：1-8.  
+[10］罗应华，孙冬婧，林建勇，郭文福，卢立华，温远光.马尾松人工林近自然化改造对植物自然更新及物种多样性的影响.生态学报，2013，33(19):6154-6162.  
+[11］何友均，梁星云，覃林，李智勇，邵梅香，谭玲.南亚热带人工针叶纯林近自然改造早期对群落特征和土壤性质的影响.生态学报，
+
+2013，33(8)：2484-2495.[12］黎燕琼，龚固堂，郑绍伟，陈俊华，慕长龙，朱志芳，吴雪仙，牛牧.低效柏木纯林不同改造措施对水土保持功能的影响.生态学报，2013，33(3)：934-943.[13］储双双，张兵，莫罗坚，曾曙才，李年生，韩博，王向前，刘颂颂.林分改造对马占相思林水土和养分保持效能的影响.水土保持学报，2014,28(3): 72-77,97-97.[14］饶良懿，王玉杰，朱金兆，卢建表.森林植被变化（采伐)对小流域水文化学循环过程的影响.生态学报，2008，28（8)：3981-3990.[15] 陈绍栓.杉木细柄阿丁枫混交林涵养水源功能和土壤肥力的研究.生态学报，2002，22(6)：957-961.[16] 巍强，张秋良，代海燕，郭鑫．大青山不同林地类型土壤特性及其水源涵养功能.水土保持学报，2008，22（2）：111-115.[17] 黄明斌，刘贤赵.黄土高原森林植被对流域径流的调节作用.应用生态学报，2002，13（9)：1057-1060.[18]MiuraSProposalforanwdefinitiontoevaluatethetatusofforestforcoverandflorcoverpercentage（FCP）froteviewointfteprotectionagainstraindropsplash.NihonRingakkai Shi/jourmalof the JapaneseForestry Society,2Oo,82(2）：132-140.[19]ParkHaoiSaaaTevelontofmecalodelforeaaietfltereovapoatioJouaforetResearch，1998，3（1)：25-33.[20］刘洋，刘荣高，陈镜明，程晓，郑光.叶面积指数遥感反演研究进展与展望.地球信息科学学报，2013,15(5）：734-743.[21］唐洪辉，张卫强，严峻，盘李军，陈伟光，洗杆标.南亚热带杉木林改造对土壤及调落物持水能力的影响.水土保持研究,2014,21（6)：47-53.22]BeaslellroteuaettstaJlofladteoe,40(4):379-382.[23］樊后保，李燕燕，苏兵强，林德喜，刘春华，蒋宗恺.马尾松-阔叶树混交异龄林生物量与生产力分配格局.生态学报，2006，26（8)：2463-2473.[24]赵洋毅，王玉杰，王云琦，赵占军，吴云，陈林.渝北水源区水源涵养林构建模式对土壤渗透性的影响.生态学报，2010，30（15）：4162-4172.[25］郭梓娟，宋西德，赵宏刚.沙棘—侧柏混交林生物量、林地土壤特性及其根系分布特征的研究.水土保持通报，2007,27（3）：18-23.[26] 孙艳红，张洪江，杜士才，李根平.四面山不同林地类型土壤特性及其水源涵养功能.水土保持学报，2009,23（5）：109-12，117-117.[27] 王伟，张洪江，杜士才，李根平，古德洪，韩西远.重庆市四面山人工林土壤持水与入渗特性.水土保持通报，2009,29(3)：113-117.[28］曹成有，朱丽辉，蒋德明，富徭，高菲菲.科尔沁沙地不同人工植物群落对土壤养分和生物活性的影响.水土保持学报，2007，21（1)：168-171.29Satoiuipllofltlleaf shapes.Hydrological Processes，2004,18(16):3007-3018.[30］周东雄.杉木乳源木莲混交林调落物研究.生态学杂志，2005，24(6)：595-598.

@@ -1,0 +1,332 @@
+# 全淬透圆柱件淬火应力的有限元模拟及实验验证
+
+刘 玉」秦盛伟」　左训伟」陈乃录² 戎咏华1
+
+1上海交通大学材料科学与工程学院上海 2002402 上海交通大学材料科学与工程学院上海市激光制造与材料改性重点实验室上海 200240
+
+布
+
+摘 要淬火应力规律的认识对于淬火过程中工件变形、开裂及工件最终残余应力分布的控制十分重要。在对直径 $6 0 \ \mathrm { m m }$ 的 40CrNiMo 水淬圆  
+棒的研究中，有限元模拟的淬火应力及其分布与X射线衍射测量的结果很好的符合，由此论证了所运用的温度场、组织场和应力场相互耦合的数学福 X  
+模型(包括我们建立的相变塑性函数)的正确性。通计算机模拟分离了淬火马氏体钢中的热应力和组织应力，揭示了不同直径淬透圆棒试样的应力分1  
+布规律及其起因以及不同淬火介质对淬火应力的影响规律，为工程中工件淬火开裂的分析提供了理论指导。
+
+# 关键词
+
+圆柱件，泽应力，热应力，组织应力，有限元模拟
+
+中图分类号 TG156.34
+
+# 文章编号
+
+# Finite Element Simulation and Experimental Verification of Quenching Stress in 中 Fully Through-Hardened Cylinders
+
+LIU Yu ', QIN Shengwei, ZUO Xunwei ', CHEN Nailu ², RONG yonghua 1 1 School of Materials Science and Engineering, Shanghai Jiao Tong University, Shangha2Qo240,China 2Shanghai KeyLaboratoryofMaterialsLaserProcessingand Modification,SchoolofMaterialsScienceandEngiering,Sanghi Jiao Tong University, Shanghai 200240, Chna 布 Correspondent: CHEN Nailu, professor, Tel: (021)34203742, E-mail: nlchen @ sjtu.edu.cn Supported by National Natural Science Foundation Of China (N 51371117) 7 Manuscript received 2016-11-14, in revised form 2017-01-18
+
+ABSTRACT Quenching is one of the most important heat-treatment processes for improving the mechanical properties of stee components in manufactdre industry.The quenching stress is a source of cracking， which is frequently detrimental to steel properties.Therefore,the investigationof quenching stress is very importahor the control of distortion,cracking and residual stress distributions of components.In the study of quenching stress,the measurement of stress distribution is necessry to the stressanalysis and design of quenchig process:However, in most cases,the cracking of a quenched component is caused by transient stress during quenching，while experiment canonly measures the final internal stress (residual stress),ratherthan transient stress.As aresult, the measurement of residual stress associated with finite element simulation (FEShas been amainstream direction in investigation of quenching stress. In this work, a full through-hardened 40CrNiMo cylinder with $6 0 ~ \mathrm { m m }$ diameter was water-quenched,and cooling curves at three positions alog the radiusofcylinder were first measured. Then, an optimized heat transfer coefficient as a function of surface temperature was obtained by fiting with the measured cooling curves using the trial and error method.Based on an exponent-modified (Ex-Modified)
+
+normalized function describing transformation plasticity kinetics proposed,the thermo-elasto-plastic constitutive equations were deduced.The commercial finite element software,Abaqus/Standard, was used to solve the coupled temperature field, microstructure fieldand stress(strain)field.The results indicate that the quenching stres and its distribution predicted byFES is wellconsistent with those measured by X-ray diffraction,which verified that models employed in coupling of thermal field,phase transformation field and stressfield including transformation plasticity function proposed are correct. Meanwhile,the features of residual stress distribution were revealed that compressive stress exists in the core and surface ofinder and the maximum tensile stress exists at subsurface. The separated calculation of thermal stress and phase transformation stressby FES reveals the origin of residual stress distribution feature in quenchedcylinders,at is,the relative higher phase transformation compressive stress and lower tensile termal stressat the core of cylinder makes the residual stress to becompressive, while at the surface ofcylinderte compressVstressis predominantly from thermal stress,because it is much larger than the tensile stress causedby phase transformation stress.The tangential residual stress distributions in cylinders with several diameters from 3 mm to $1 0 0 ~ \mathrm { { m m } }$ were predicted by FES,and the results indicate that when diameter is less thanJ5 mm, the tehsile stress at the surface increases with increasing diameter until to $5 \mathrm { m m }$ ,then decreases with increasing diameter to $2 0 ~ \mathrm { m m }$ ，finally the tensile stress becomes compressive stress. Besides, with the increase of diameter,maximum tensile stress shifts from the surface to the location of O.6 radius.The effcts of diferent quenching media on quenching stress were-also investigdted by FES. The results demonstrated that although there is compressive stress at surface of cylinder quenched in water or salt solution,the maximum stress locates the subsurface, meaning that cracking easily ogcurs at the subsurface, which is consistent with cracking in practical components.This work is helpffor the analySis of cracking from quenching stressin components with different sizes and under different quenching media.
+
+金
+
+KEY WORDS fully through-hardened cylinder, quenching stress,thermal stress，phae transformation stress, finite element simulation
+
+经淬火加高温回火的中碳合金钢具有优良的综合力学性能，因此淬火工艺被广泛应用于机械制造行业。淬火一般需要快冷以获得马氏体组织，工件表面与心部的温差较大，而且奥氏体向马氏体的转变体膨胀系数较高，使得淬火后的工件具有较大的变形，较高残余应力及开裂倾向。科研人员估计有 $20 \%$ 的热处理问题与加热有关，而 $80 \%$ 的问题是冷却不当造成的。因此，对于淬火冷却过程中的应力及变形的控制极其重要。康大韬等[2.3]利用X射线应力分析法及层法研究了调质大轴残余热应力分布规律和柱形件残余组织应力(相变应力)的分布规律。张海使用同样方法测量了直径 $6 0 \mathrm { m m }$ 和 $1 0 0 \mathrm { m m }$ 的 $1 8 \mathrm { C r } 2 \mathrm { N i } 4 \mathrm { W }$ 柱形件中残余应力沿截面的分布。Wang 等[5通过X射线方法测量了1080圆棒试样在水和两种有机物率火介质分别淬火后的残余应力截面分布。尽管可以通过实验方法测量简单形状试样的应力分布，但其具有以下几个限制：1)实验测量耗时耗资，若想找出规律，需要测量诸多试样，工作量较大；复杂形状试样截面应力分布的测量较为困难；3)实验测得的简单小试样的结果无法直接应用至实际大型复杂工件；4)根据目前实验手段，尚无法测量出淬火过程的瞬时应力(过程应力)，而很多情工件的开裂(如边角开裂)是在冷却过程中发生的[；5)通常情况下，无法通过实验分别确定淬火过程中同时存在的热应力和组织应力，但其分离在有限元模拟中可以很容易实现。比如，可以通过分别计算热应力和组织应力，找出造成某一开裂位置处最大拉应力的原因，从而可以有针对性地采取工艺措施(如控制冷却、调整工件尺寸结构或材料成分等)降低该位置最大应力，避免工件开裂。基于以上原因，计算机模拟广泛地被应用于淬火应力的研究[9]。通过计算机模拟，可以预测出任何形状及任意大小工件的温度、组织及应力的变化过程。Simsir等[]使用了有限元方法模拟了三维C60偏心圆环的温度场、组织场和应力场的变化，并与实验结果进行了比较，结果表明，建立的有限元模型能够预测出三维非对称工件残余应力分布趋势。Arimoto 等[11/通过使用有限元方法分析了偏心圆环件开裂的原因，计算的最大主应力位置与开裂位置相同。Jung 等[2提出了一种新的确定临界温度变量(贝氏体开始转变温度 $( B _ { \mathrm { s } } )$ 和马氏体开始转变温度 $( M _ { \mathrm { s } } )$ 的方法)，该改进的方法提高了相变及应力计算精度。Lee 等[13]提出了一种计算 $M _ { \mathrm { s } }$ 和马氏体相变动力学的新方程。Ariza 等[14模拟了三种不同淬透性的中碳调质钢淬火应力及组织分布，表面应力的计算结果与XRD 测量结果吻合较好。在淬火应力的计算机模拟中，仍有很多问题尚未得到较好解决，其中相变塑性是阻碍热处理模拟技术发展的较为棘手的难点之一。相变塑性是在应力及相变同时存在的情况下产生的可被观察到的塑性应变，即使其等效应力低于母相屈服强度也会产生相变塑性。在描述工件淬火过程中的应力及应变状态时，相变塑性应该被考虑已成共识[15-17]。本课题组在 Taleb[18的实验测定的相变塑性的基础上，提出了一种指数形式修正的相变塑性归一化函数(exponent-modified (Ex-Modified) normazed function)，比 Abrassarts 和 Desalo 提出的相变塑性函数[18]更好地拟合了Taleb的实验曲线，以致更精确地预测了两个不同直径42CrMo 圆柱件的淬火应力[19]。经过 40 多年的发展，尽管热处理模拟技术在不断完善，并且已开发出若干商业软件[20.21]，由于影响热处理模拟精度的因素如相变塑性[22231、应力对相变的影响[24]等目前尚未得到较好的解决，热处理模拟技术仍待进一步提高。 啦
+
+在生产中，纵向袭纹较为常见，孙盛玉等将其看成是淬透件内的独有淬裂形式，并以淬火应力为分析淬火裂纹的基本思路或出发点[25]。因此对全淬透件 $( 9 0 \%$ 以上为马氏体组织)淬火应力规律的研究对于淬火纵向裂纹的控制意义重大。尽管对于淬透件应力的分布的测量早有报导[4,26]，但该方面的研究较少[25]。通过分离热应力及组织应力对于淬透性件淬火应力规律的研究目前鲜见被其他学者报导。本工作中综合运用温度场、组织场和应力场相互耦合的数学模型，然后通过测量 $6 \dot { 0 } \dot { \mathrm { m m } }$ 直径的40CrNiMo的轴向和切向残余应力，对模型的可靠性(包括相变塑性函数)进行验证，最后通过模拟对全淬透件应力分布的特点及影响因素进行分析。
+
+# 1 实验方法
+
+实验所用材料为40CrNiMo，其成分为Fe-0.38C-0.27Si-0.62Mn-0.81Cr-1.35Ni-0.18Mo(质量分数， $\%$ ）圆棒试样直径为 $6 0 \mathrm { m m }$ 度为240m
+
+淬火时，首先将试样放入温度为850的井式炉中，保温 $1 0 0 ~ \mathrm { { m i n } }$ 使样品温度均匀一致，然后将其取出，预冷 $3 0 \mathrm { ~ s ~ }$ 后迅速垂直放入水温为室温 $( 3 2 ^ { \circ } \mathsf { C } )$ 的水槽中，冷却150s后取出空冷。共处理2个试样，其中一个用来进行组织及硬度分析，另一个用于应力测量。 山 大
+
+使用线切割将其中一个试样沿着中截面切开，在1/2 半径位置和心位置取释。试样经粗磨精磨后进行抛光，抛光后将样品分别在 $2 \% ( 2 \ \mathrm { m l } \ \mathrm { H N O } _ { 3 } { + } 9 8 \$ ml C 硝酸酒精容液和Vilella 试剂 $( 0 . 5 \mathrm { ~ g ~ }$ （204号$\mathrm { C _ { 6 } H _ { 3 } N _ { 3 } O _ { 7 } } + 2 . 5 \ \mathrm { m l } \ \mathrm { H C l } + 5 0 \ \mathrm { m l } \ \mathrm { C }$ 中腐蚀 $1 0 5 \bigcirc \mathsf { F H D } \bigotimes _ { \mathsf { e } } \mathsf { S p } ^ { [ 1 4 ] }$ 。腐蚀后依次用清水和酒精清洗，最后用冷风吹干试样。将处理好的样品放置于金相显微镜(OM，蔡司，Imager A1m)中进行观察。首先使用 Photoshop软件中的快速选择工具勾选出金相图片中先于马氏体形成的少量贝氏体组织并计算其所占像素量；贝氏体所占像素量除以整张图片的像素量即近视为贝氏体体积分数，剩余的为马氏体组织。Vickers 硬度测量在HVS-30P硬度仪下进行，加载载荷 $3 0 \mathrm { k g }$ ，保持时间 $1 5 \mathrm { ~ s ~ }$ ，每个位置重复测量3次。 报
+
+使用iXRD comboX射线应力分析仪(Proto 公司，加拿大)对试样进行应力测量，测量方法为 sin²y 法(y为试样表面法线与衍射晶面法线之间的夹角)，测量执行 EN15305-2008 标准[27]。使用窗倾法进行测量，Cr靶 $\mathrm { K a }$ 辐射 $( \lambda { = } 0 . 2 2 9 1 ~ \mathrm { n m } )$ ，光栅直径为 $2 \mathrm { m m }$ ,Fe{211}衍射面， $\psi$ 角设置为±0°、±12°、±24°、 $\pm 3 0 ^ { \circ }$ 、$\pm 3 7 ^ { \circ }$ 和 $\pm 4 3 ^ { \circ }$ 。残余应力的计算公式为：
+
+$$
+\sigma = \frac { \left( \frac { \partial \varepsilon _ { \psi } ^ { \{ 2 1 \} } } { \partial \sin ^ { 2 } \angle \psi \varphi } \right) } { \frac { 1 } { 2 } \mathrm { S } _ { \circ } ^ { \{ 2 1 \} } }
+$$
+
+厦发
+
+式中 $\mathcal { E } _ { \psi } ^ { \{ 2 1 \} }$ 为与试样表面法线之间的夹角为 $\psi$ 的(211)衍射面的法向应变; $1 / 2 S _ { 2 } ^ { \{ 2 1 1 \} } { = } 5 . 9 2 { \times } 1 0 ^ { - 6 } \mathrm { M P a } ^ { - 1 }$ 腐蚀后每个半径位置在圆周的相对位置各测一次。
+
+X射线仅能测量试样表面残余应力，若测试样沿截面应力分布，须对试样进行剥层。为了提高剥层效率，先使用车床车去 $0 . 5 \mathrm { m m }$ 深度，然后再用化学腐蚀方法去除车床加工引起的附加应力层，为完全去除附加应力层，每次腐蚀的深度大于 $0 . 5 \mathrm { m m }$ 。所使用的化学腐蚀剂配比为： $1 5 0 \ \mathrm { m l \ H N O _ { 3 } } + 5 0 \ \mathrm { m l \ H _ { 2 } O _ { 2 } } + 2 0 \ \mathrm { g }$ $\mathrm { C } _ { 2 } \mathrm { H } _ { 2 } \mathrm { O } _ { 4 }$ ，加水至 $5 0 0 ~ \mathrm { m l } ^ { [ 2 8 ] }$ 。剥层后，试样残余应力会重新分布，为了考虑去除材料部分对所测位置残余应力的影响，使用下列公式对其进行修正[28：
+
+$$
+\begin{array} { l } { { \displaystyle \sigma _ { \mathrm { t } } \left( r \right) = \sigma _ { \mathrm { t , m } } \left( r \right) - \int _ { r } ^ { R } \sigma _ { \mathrm { t , m } } \left( \xi \right) \cdot \frac { d \xi } { \xi } \ ~ } } \\ { { \displaystyle \qquad \big \langle \bigotimes _ { z } \big ( r \big ) = \sigma _ { \mathrm { z , m } } \big ( r \big ) - 2 \int _ { r } ^ { R } \sigma _ { \mathrm { z , m } } \left( \xi \right) \cdot \frac { d \xi } { \xi } } \ ~ } \\ { { \displaystyle \langle \frac { \partial \xi } { \partial t } \big ( \xi \big ) = \big ( \frac { r } { 1 + \xi } \big ) \big | _ { r } \big \langle \big ( \xi \big ) + \big ( \xi \big ) \cdot \frac { d \xi } { \xi } \big \rangle } } \end{array}
+$$
+
+式中， $\sigma _ { \mathrm { t } } ( r )$ 和 $\sigma _ { \mathrm { z } } ( \boldsymbol { r } )$ 分别为半径为 $\boldsymbol { r }$ 处修正后的切向应力和轴向应力； $\sigma _ { \mathrm { t , m } } ( r )$ 和 $\sigma _ { \mathrm { z , m } } ( r )$ 分别为修正前的切向应力和轴向应力； $R$ 为试样初始半径 $1 3 9 \mathrm { m m } )$ 。每个半径位置分别在圆棒的相对位置各测一次。
+
+# 2模拟方法及过程
+
+淬是温度、组织、应力(应变)相互耦合的复杂过程，关于该耦合关系的详细描述可参考文献[29]。尽管应力对相变动力学有影响[24],因缺少相关可靠的数学模型及材料参数，在本工作中暂不考虑该交互作用。文献[29指出在淬火过程中因工件变形而引起的温度变化不超过 $2 ~ \mathrm { ^ { * } C }$ ，因此，为了简化，该影响在本工作中亦不考虑。第三个简化是假设材料成分均匀。根据以上简化，温度场、组织场和应力场之间的全耦合关系X可简化为顺序耦合关系(如图1所示)。
+
+![](images/cb92ba0ce2e24f961f87d10892736a2ed5ca2bcdfd4f876a87fa32797216b192.jpg)  
+图1淬火过程简化后的耦合关  
+Fig.1 Simplified coupling of quenching process T
+
+# 2.1 温度场计算
+
+因不考虑塑性变形对温度的影响，整个温度场计算的支配方程可写成[30]：
+
+报
+
+$$
+\rho C _ { \mathrm { p } } \left( \varphi _ { k } , T \right) \dot { T } = \nabla \left( k \left( \varphi _ { k } , T \right) \cdot \nabla T \right) + \dot { Q }
+$$
+
+学布
+
+式中， $\rho _ { \setminus } \ C _ { \mathfrak { p } }$ 和 $k$ 分别为混合组织的密度、比热容和热导率； $T$ 为温度；T为温度对时间的偏导；V为梯度算子； $\dot { Q }$ 为单位时间内相变潜热释放量，其表达式为： 属 血度爱
+
+$$
+\dot { Q } = \sum _ { k = 2 } ^ { 3 } \Delta H _ { \frac { \sqrt { 3 } } { 2 } }
+$$
+
+式中, $\Delta H _ { k }$ 为相变焓; $\varphi _ { k }$ 为 $k$ 组织 $\scriptstyle ( k = 1 , 2 , 3$ 分别代表奥氏体、贝氏体和马氏体)的体积分数; $\dot { \varphi } _ { k }$ 为 $k$ 组织(贝氏体或马氏体)的相变速率。严格来说， $\rho$ 是组织和温度的函数，因其微小变化对温度场计算的结果影响较小，因此在温度场计算过程中 $\rho$ 取一恒定值： $7 8 5 0 \mathrm { k g / m } ^ { 3 }$ 。 $C _ { \mathfrak { p } }$ 和 $k$ 的值取自文献[31提供的数据。奥氏体向贝氏体或马氏体转变的相变焓分别为 $\cdot 5 . 1 2 \times 1 0 ^ { 8 } \mathrm { J } / \mathrm { m } ^ { 3 }$ 或 $- 3 . 1 4 \times 1 0 ^ { 8 } \mathrm { J / m } ^ { 3 [ 1 3 ] }$ 。
+
+工件的初始温度设置为 $8 5 0 ^ { \circ } \mathrm { C }$ 。工件表面换热的边界条件为：
+
+$$
+- k \big ( \varphi _ { k } , T \big ) \nabla T = h \big ( T \big ) \big ( T _ { \mathrm { s } } - T _ { \mathrm { w } } \big )
+$$
+
+式中， $h ( T )$ 为水的换热系数，其值是工件表面温度的函数； $T _ { \mathrm { s } }$ 和 $T _ { \mathrm { w } }$ 分别是工件表面和水的温度。
+
+由于影响水的换热系数的因素较多(如水温、水槽大小、搅拌速率和材料表面状态等)，因此不同文献所测得的水的换热系数值均有差异。为了降低因温度计算误差对应力计算结果的影响，本工作对直径 60mm的42CrMo圆棒离表面 $5 \mathrm { m m }$ 位置、1/2半径位置和中心位置的水冷温度进行了测量。根据所测得的冷却曲线拟合，对水的换热系数进行了估算。换热紧数采用拟合法，具体步骤如下：1)将换热系数离散为若干温度点，两个相邻温度点之间的换热系数采用线性内插法计算；2)对这些离散温度点设初始值，其初始值可从相关文献中查到[32l;3)采用精群优化方法particle swarm optimizing method)对这些温度点的换热系数值进行优化，在该方法中目标函数为计算得到的冷却曲线与实测冷却曲线围成的面积；3)根据目标函数修改换热系数，直至目标函数最小优化后的换热系数及计算冷却曲线与实测冷却曲线的比较如图2所示。
+
+![](images/1632c56a00ae84a90c92255da72826004c233327b7824490b82eeb6fe78a0c27.jpg)  
+图2 试样不同位置的冷却曲线测量结果与计算结果的比较及修改后的换热系数与文献文献[32]换热系数的比较 报
+
+Fig.2 Comparison of measured and calculated cooling curves (a),and comparison of thé modified heat transfer coefficientand that from Ref.33(b)S
+
+# 2.2 组织场计算
+
+40CrNiMo属高淬透性钢，对于 $6 0 \mathrm { m m }$ 直径的圆棒水淬来说，并无铁素体或珠光体转变，因此本工作仅考虑贝氏体和马氏体转变。对于马氏体相变，其转变量仅与温度有关，通过K-M公式[3]对其进行计算：
+
+$$
+{ { \varphi } _ { \mathrm { { M } } } } = 1 - \exp \Bigl [ - \alpha \bigl ( { { M } _ { \mathrm { { s } } } } - { { T } _ { \mathrm { { q } } } } \bigr ) \Bigr ]
+$$
+
+报
+
+式中， $\varphi _ { \mathrm { { M } } }$ 为马氏体体积分数； $M _ { \mathrm { s } }$ 为马氏体开始转变温度，其值通过文献[34]中神经网络法得到。Tq为淬火时最低冷却温度； $\alpha$ 为一系数，其数值取决于钢中化学成分[35]. 学么而到帮
+
+$$
+\alpha = 0 . 0 2 2 4 - 0 . 0 1 0 7 x _ { \mathrm { c } } - 0 . 0 0 0 7 x _ { \mathrm { M n } } - 0 . 0 0 0 0 5 x _ { \mathrm { N i } } - 0 . 0 0 0 1 2 x _ { \mathrm { c r } } - 0 . 0 0 9 1 x _ { \mathrm { M o } }
+$$
+
+贝氏体相变具有扩散型相变特征，在恒温情况下，其相变量通过JMA方程[3计算：
+
+$$
+\varphi _ { \mathrm { B } } = 1 - \exp \left[ { \frac { \sqrt { \mathscr { E } _ { \mathrm { L } } ^ { \prime } } } { \tau } } \right] ^ { n }
+$$
+
+式中， $\varphi _ { \mathrm { { B } } }$ 为贝氏体体积分数； $\tau$ 为转变 $6 3 . 2 \%$ 贝氏体所需时间； $n$ 为指数因子。为了将公式(8)应用在连续冷却情况下，使用 Scheil叠加法则[37的方法进行计算，其具体计算过程可参考文献[38]。
+
+# 2.3 应力场/应变场计算
+
+因本工作中所研究的工件尺寸较小，淬火持续时间短，在此不考虑蠕变影响，故而工件中任意位置的
+
+总应变增量 $\Delta \varepsilon _ { i j }$ 可分解为：
+
+$$
+\Delta \mathcal { E } _ { i j } = \Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { e l } } + \Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { p l } } + \Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { t h } } + \Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { t r } } + \Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { t p } }
+$$
+
+式中， $\Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { e l } }$ 、 $\Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { p l } }$ 、 $\Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { t h } }$ 、 $\Delta \mathcal { E } _ { _ { i j } } ^ { \mathrm { t r } }$ 和 $\Delta \mathcal { E } _ { _ { i j } } ^ { ^ { \mathrm { t p } } }$ 分别为弹性应变增量、塑性应变增量、热应变增量、相变应变增量和相变塑性应变增量。
+
+热应变和组织应变属于各向同性应变，其计算过程如下：
+
+$$
+\begin{array} { r l } {  { \Delta \varepsilon _ { i j } ^ { \mathrm { t h } } = \overline { { \delta } } _ { i j } \sum _ { k = 1 } ^ { 3 } \varphi _ { k } [ \overset { \mathrm { i } \mathrm { \backslash } } { \varepsilon } _ { k } ( T + \Delta T ) - \varepsilon _ { k } ( T ) ] } } \\ { \operatorname* { d } _ { \Delta \varepsilon _ { i j } ^ { \mathrm { t h } } } ^ { \sharp } = \delta _ { i j } \sum _ { k = 2 } ^ { 3 } \Delta \varphi _ { k } [ \varepsilon _ { k } ( T + \Delta T ) - \varepsilon _ { 1 } ( T + \Delta T ) ] } \end{array}
+$$
+
+式中，k,2,3)分别表示奥氏体、贝氏体和马氏体； $\boldsymbol { \varepsilon _ { k } }$ 为 $k$ 组织的相对应变。假设奥氏体在 $0 ^ { \circ } \mathsf { C }$ 时的热应变为0，根据文献[39所提供的热膨胀系数及我们所测量的膨胀曲线可计算出不同温度下奥氏体、贝氏体和马氏体各自的膨胀曲线，如图3所示。
+
+学布0.020 属 发0.015金0 预Austenite 报- Bainite0.005 e学 布0.0000 100 200 300 400500 600 700800 900葡发
+
+Fig.3 Thermal expansion curvesof austenite, bainite and martensite
+
+当相变在应力(即使低于母相屈服强度)作用下发生时，材料会产生异常塑性，该塑性被称为相变塑性[23]。相变塑性增量的表达式采用本课题组提出的相变塑性函数[18,19]： 报
+
+$$
+\Delta \varepsilon _ { _ { i j } } ^ { ^ { \mathrm { t p } } } = \frac { 3 } { 2 } \mathrm { A m n } K \big ( \sigma \big ) \exp \big ( \mathrm { m } \varphi ^ { \mathrm { n } } \big ) \varphi ^ { \mathrm { n } - 1 } \Delta \varphi s _ { _ { i j } }
+$$
+
+学
+
+布
+
+式中，A、 $\mathbf { m }$ 和 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 均为拟合常数，其数值分别为1.105、-0.0994 和-0.91； $K ( \sigma )$ 为相变塑性系数，其值通过拟合文献[40]中实验数据得到； $s _ { \mathrm { i j } }$ 为偏应力张量。 属发
+
+根据应变增量，可以求出应力增量：
+
+$$
+\begin{array} { l } { \displaystyle \Delta \sigma _ { i j } = \left[ \frac { 2 G } { l } \Delta \varepsilon _ { i j } + \left( B - \frac { 2 G } { 3 l } \right) \Delta \varepsilon _ { k k } ^ { e l } \delta _ { i j } \right] + \left[ \frac { 2 \Delta G \overline { { \sum _ { i } ^ { \prime } } } \overline { { \sum _ { i j } ^ { \prime } } } } { l } + \left( \Delta B - \frac { \gamma \overline { { \sum _ { i } ^ { \prime } } } \overline { { \sum _ { i j } ^ { \prime } } } } { 3 l } \right) \varepsilon _ { k k } ^ { e l } \delta _ { i j } \right] - \frac { 2 G } { l } \chi s _ { i j } \Big | _ { n } } \\ { \displaystyle \chi = \frac { 3 } { 2 } \mathrm { A m n } K \left( \sigma \right) \exp \left( \mathrm { m } \varphi ^ { \mathrm { n } } \right) \varphi ^ { \mathrm { n } - 1 } \Delta \varphi } \\ { \displaystyle l = 1 + 2 G \chi } \end{array}
+$$
+
+式中， $\sigma _ { i j }$ 为 Cauchy 应力张量； $B$ 为体积模量； $G$ 为剪切模量； $\chi$ 和 $l$ 均为变量。
+
+混合组织的屈服函数 $\Phi$ 为：
+
+$$
+\Phi { = } \sqrt { \frac { 3 } { 2 } \Big ( { s } _ { i j } - { \alpha } _ { i j } \Big ) \Big ( { s } _ { i j } - { \alpha } _ { i j } \Big ) } - { \sigma } _ { y }
+$$
+
+式中， $a _ { \mathrm { i j } }$ 是加载曲面的中心在应力空间内的移动张量。当 $\Phi { > } 0$ 时，材料产生屈服，使用 Euler 回退算法[41]对其进行塑性修正。混合组织的屈服强度表达式为：
+
+$$
+\sigma _ { \mathrm { y } } = g \left( \varphi _ { \mathrm { A } } \right) \sigma _ { \mathrm { y , A } } + \left[ 1 - g \left( \varphi _ { \mathrm { A } } \right) \right] \sigma _ { \mathrm { y , B M } }
+$$
+
+式中， $\sigma _ { \mathrm { y } }$ 是混合组织的屈服强度; $\sigma _ { \mathrm { y , A } }$ 为奥氏体的屈服强度； $\sigma _ { \mathrm { y , B M } }$ 为贝氏体和马氏体的平均屈服强度; $g ( \varphi _ { \mathrm { A } } )$ （204为奥氏体体积分数的归一化函数，洪函数关系见文献[42].
+
+# 2.4模拟过程
+
+本工作中的温度及应力场通过Abaqus/Standard 求解器进行求解，组织场通过修改子程序进行加入。相变潜热在子程序UMATHT中加入；相变及相变塑性在子程序UMAT中加入。因本工作所涉及的样品形状均为柱淬火时也是迅速垂直入水，因此其满足轴对称条件，故而为了提高计算效率，温度场和应力场计算单元分别选择DCAX4和CAX4轴对称单元。由于试样表面附近温度梯度较高，划分网格时对表面附近的网格进行了细化。
+
+# 3实验和模拟结果
+
+# 3.1 组织和硬度分布
+
+学属 发
+
+图4为40CrNiMo直径为 $6 0 \mathrm { m m }$ 的圆棒试样经水淬后的1/2半径和中心位置的组织OM像。从图中可以看出，在心部及1/2半径位置基体组织为马氏体，基体上分布有少量的贝氏体组织：心部贝氏体体积分数约 $8 \%$ ；1/2位置处的贝氏体体积分数约 $2 \%$ 。心部位置贝氏体含量高于1/2半径位置的原因是心部位置的平均冷速(约 ${ } ^ { - 1 3 } \mathrm { ~  { ~ \mathsf { { C } } } / s ) }$ 低于 1/2 半径位置的平均冷速(约 $. 1 5 ^ { \circ } \mathrm { C } / \mathrm { s } )$ 。因心部贝氏体舍量较少，且该位置维氏硬度与表面位置维氏硬度相差甚小，因此可以认为该试样被完全淬透。图5中计算后的组织分布与实测结果具有相同趋势。图5中硬度的分布结果表明，钢在淬火后次表面附进硬度最高心部位置附近硬度低于Y表面附近硬度的原因是心部附近含有相对多的贝氏体组织。
+
+![](images/f38c80289eabe0a37b182ddf6e49b28d76a17fd6cb94d9fd0158e7affac878aa.jpg)  
+图 $4 6 0 \mathrm { m m }$ 直径的40CrNiMo圆柱件水淬后1/2半径和心部的显微组织OM像 Fig.4 OM images of the quenched $6 0 \mathrm { m m }$ diameter cylindevthe locatiof1/2R (a)and core (b)respectively
+
+![](images/4629ba00e5647eed959af895eb3ecee821bd3e047a054dd378b4ccb2b7698be9.jpg)  
+图540CNiMo 圆柱件水淬后组织体积分数(计算和测量)和硬度(测量)的截面分布 F1g parison between the calculated and measured microstructure fraction distribution,and measured HV distribution along radius of 40CNiMo
+
+# 3.2 残余应力分布
+
+学布
+
+为了验证模型的适用性，比较了直径 $6 0 \ \mathrm { m m }$ 的 40CrNiMo 圆棒试样水淬后的轴向、切向残余应力的XRD 测量与计算结果，如图6所示。可以看到，残余应力的计算结果与模拟结果符合较好，两者均具有相同的应力分布特点：1)切向最高残余投力高于轴同最高残余拉应力；2)轴向和切向残余拉应力的最大值均处于工件的次表层位置，并非处于工件表面位置；3)工件表面位置为残余压应力，且切向残余压应力的绝对值高于轴向残余压的绝对)在心部位置，工件的轴向及切向残余应力均为压应力。应力分布与文献[4,26,43,44]所提供的全淬透件应力分布特征相同。 报
+
+![](images/f4c5d0cbcbac0566a9ab18e0fd0c854d1cd6ebba16ccc5c1cc20b3598ca29ed2.jpg)  
+图 $6 6 0 \mathrm { m m }$ 直径的40CrNiMo圆棒水淬后轴向及切向力的截面分布
+
+Fig.6 Axial and tangential stress distribution curves of $6 0 \mathrm { m m }$ diameter 40CrNiMo bar after water quenchint
+
+# 4分析讨论
+
+金预
+
+# 4.1直径 ${ \bf 6 0 m m }$ 的40CrNiMo圆棒水淬后应力分布特征分析
+
+从图6中残余应力的分布可以看出，切向残余应力与轴向残余应力的分布特征基本相同，但切向最高残余拉应力高于轴向最高残余拉应力，因此全淬透柱状工件易于产生纵向裂纹[25]。故而对于全淬透性件，其切向应力的讨论较轴向应力更具有实际意义。为了找出造成最大残余切向应力的原因，通过模拟绘出了最大残余切向应力位置(距表面 $1 0 \mathrm { m m }$ 处)、表面和心部位置切向应力随冷却时间的变化过程，如图7所示。在空冷阶段的30s内，表面为拉应力，心部为压应力，这是由于空冷阶段表面温度的降低引起的收缩使得工件表面为拉应力，由于空冷较为缓和，工件截面温差小，此时的应力较小。当工件入水瞬间，因表面温度的迅速降低使得表面拉应力迅速增加，而心部的压应力增加较为平缓，这是因为心部温度较高，奥氏体在高温状态下屈服强度较低。当工件表面温度降低至 $M _ { \mathrm { s } }$ 温度以下时，由于表面马氏体相变产生膨胀，且其膨胀受到心部的约束，造成表面的拉应力反向变为压应力，而心部及距表面 $1 0 \mathrm { m m }$ 位置因表面的马氏体膨胀而处于拉应力状态。当距表面 $1 0 ~ \mathrm { m m }$ 位置处的温度降低至 $M _ { \mathrm { s } }$ 时，其拉应力降低的同时引起心部拉应力的增加及表面压应力的降低。继续冷却，当心部位置的温度降低至 $M _ { \mathrm { s } }$ 温度以下时，心部拉应力降低逐步转变为压应力，同时引起距表面 $1 0 \mathrm { m m }$ 位置处应力的增加及表面压应力的降低。当心部位置马氏体相变结束后继续冷却时，因心部温度的继续降低，引起表面压应力的增加及距表面 $1 0 \mathrm { m m }$ 位置处拉应力的降低。从图7中还可以看出，距表面mm位置处的最大切向拉应力所对应的时间是心部马氏体完全转变的时间。
+
+![](images/d1cd60e85a4fabfefb6f6b7fb75fb9fd19fd3104cf93e565512f0df5c154cd80.jpg)  
+图7直径 $6 0 \mathrm { m m }$ 的 40CrNiMo 圆棒水淬时心部、表面及距表面 $1 0 \mathrm { m m }$ 位置处的切向应力变化过程 Fig 7 Evolution of tangential stress with time at the location of core, surface and $1 0 \mathrm { m m } ^ { \circ }$ below surface of $6 0 \mathrm { m m }$ diameter cylinder of 40CrNiMo during quenching in waterK
+
+由于淬火残余应力是热应力和组织应力两者相互叠加的结果，因低分别计算了工件的热应力、组织应力，如图8所示。热应力截面分布的特点是：表面压应力，心部拉应力；组织应力截面分布的特点是：心部压应力，表面拉应力。最终残余应力的分布特点取决这两者应万的相对大小。从图8中可以很清楚地看到工件表面及心部的压应力分别是由热应力和组织应力引起。而距离表面 $1 0 \mathrm { m m }$ 处最大切向拉应力主要是由组织应力引起。 原领
+
+![](images/c381c1dd9c691253022f1a2ef3e86b533e7f747943df3b03c5669edbda6363af.jpg)  
+图8直径 $6 0 \mathrm { m m }$ 的40CrNiMo圆棒水淬热应力、组织应力及残余应力计算结果的比较 Fig.8 Thermal stress,transformation stress and residual stress of $6 0 \mathrm { m m }$ diameter cylinder of 40CrNiMo after water quenching (transformation plasticity was included during all the calculations)
+
+# 4.1直径对全淬透圆柱工件应力分布的影响
+
+为了研究圆棒直径对水淬残余应力的影响，通过软件计算直径 $3 \mathrm { m m }$ 、 $5 \mathrm { m m }$ 、 $1 0 \mathrm { m m }$ 、 $2 0 \mathrm { m m }$ 、 $4 0 \mathrm { m m }$ $7 0 \mathrm { m m }$ 和 $1 0 0 \mathrm { m m }$ 的全淬透性试样水淬后的切向残余应力、切向热应力和切向组织应力分布，如图9所示。从图9(a)可以看出以下几个规律：1)在直径小于 $5 \ \mathrm { m m }$ 时，随着直径的增加，表面残余拉应力逐渐增加，当直径大于 $5 \mathrm { m m }$ 时，表面残余拉应力开始降低，当直径增加至 $2 0 \mathrm { m m }$ 时，表面残余应力已转变为压应力，其压应力数值随直径的增加而逐渐增加；2)随着件直径的增加，最大拉应力从表面逐渐过渡至0.6 倍半径位置；3)截面最大拉应力数值随直径的增加具脊先增加( $\cdot < 5 ~ \mathrm { m m } )$ 后减 $\langle 5 ~ \mathrm { m m }$ 至 $2 0 ~ \mathrm { m m } ,$ 最后逐渐增加的趋势。图9(b)和图9(c)表明，热应力和组织应力均随着工件直径的增加而增加，但因工件热应力随直径的增加增幅高于组织应力，因此，随着王纤直径的增加，表面压应力值逐渐增加。在0.6半径位置附近的热应力和组织应力均为拉应力，并且该数值均随着直径的增加而增大，因此，随着工件直径的增加，最大拉应力逐渐过渡至0.6半行置且
+
+![](images/64d2a7739666421ee4566d4e6b120f781915902edfacdf755da1b39e5e5277e7.jpg)  
+图9不同直径全淬透圆棒工件水淬火后的切向残余应力、热应力和组织应力分布
+
+Fig.9 Distributions of residual tangential stress(a),thermal stress(b),phase transformatio stress(c)of the fully + harden cylinders with various diameters after quenchng in water
+
+# 4.3淬火介质对全淬透圆柱工件应力分布的影响
+
+金预
+
+选择4种不同的冷却介质进行计算对比研究，按照换热系数大小从高至低依次为 $1 0 \% \mathrm { { N a C l } }$ 水溶液、清水、 $8 0 ^ { \circ } \mathrm { C }$ 淬火油和空气。除水的换热系数取自图2(b)外，其他三者的换热系数取自文献[1]。假设材料能够完全淬透。图10为直径 $5 0 \mathrm { m m }$ 圆棒试样分别在 $1 0 \% \mathrm { { N a C l } }$ 水溶液、清水、 $8 0 ^ { \circ } \mathrm { C }$ 淬火油和空气中淬火后的切向残余应力、热和组织应力模拟结果。可以看出，淬火介质对淬火残余应力的影响极大：不同的淬火介质淬火后的应力分布及最大拉应力大小及位置完全不同。空冷后的残余应力最小，在 $1 0 \mathbf { M P a }$ 以内，这是由于空冷较为缓和，热应力和组织应力均较小的缘故(图 10b)。对于油冷，由于冷却较为缓慢，表面与心部的温差较小，因此因温度梯度造成的热应力也较小(图 10b)，又由于马氏体相变膨胀引起的组织应力高于热应力(图10(b)，因此其合成应力具有组织应力分布特点(图10a)。模拟结果与文献[45]所提供的实测结果相符。清水和 $1 0 \% \mathrm { { N a C l } }$ 水溶液因冷速较高，表里温差较大，热应力和组织应力均较高，淬火后均具有较高的残余应力，其中因 $1 0 \% \mathrm { { N a C l } }$ 水溶液冷速高于清水的冷速，因此其表面具有更高的残余压应力。结合图10a和b可以看出最大残余拉应力位于 $1 6 \mathrm { m m }$ 半径位置处，该位置的热应力和组织应力均为拉应力，因$1 0 \% \mathrm { { N a C l } }$ 水溶液热应力较高，因此其叠加后的总的拉应力峰值高于水淬后的拉应力峰值。尽管水淬和盐水淬火后其表面为压应力，但其最大拉应力远高于油淬后的拉应力，这与文献[26]提供的水淬裂纹经常发生在表面为压应力的工件的次表层的实验现象相符
+
+![](images/56a14187c7d102a9b854abeeaaf42b0bddb983a8c41e748e817e27e841d75f6d.jpg)
+
+图10直径 $5 0 \mathrm { m m }$ 的全淬透试样分别在空气、 $\boldsymbol { \mathfrak {8 0 } } ^ { \circ } \mathrm { C }$ 淬火油、水和 $1 0 \% \mathrm { { N a C l } }$ 水溶液淬火后的切向残余应力分布和热组织应力分布
+
+Fig.10 Tangential residual stressdribution (a) and thermal, phase transformation stress distribution (b)of $5 0 \mathrm { m m }$ diameter fully hardening cylinders after quenching in air, $8 0 \ \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ oil, water and $10 \%$ NaCl solution
+
+# 5结论
+
+金
+
+预
+
+圾
+
+(1）有限元模拟的淬火应力与 40CrNiMo 水淬圆棒的残余应力分布的测量结果很好地符合，证明了本研究运用的温度场、组织场和应力场相互耦合的数学模型(包括建立的相变塑性函数)的正确性;
+
+(2）对于直径 $6 0 ~ \mathrm { m m }$ 的 40CrNiMo圆棒，其水淬后表面和心部为压应力，最大拉应力位于其次表层，且切向拉应力峰值高于轴向拉应力峰值，其最大拉应力是由工件心部马氏体相变膨胀引起的;
+
+(3）根据工件直径的不同，淬透件水淬后最大拉应分布在工件表层或次表层位置，随着工件直径的1增加，拉应力峰值逐渐过渡至0.6半径位置；
+
+(4)直径 $5 0 \mathrm { m m }$ 全淬透件在油中淬火后表层为拉应力，其数值小于水和盐水淬火后的应力；通过增加淬火介质的冷却强度，可使工件表面的应力状态逐渐由拉应力状态过渡至压应力，而且冷却强度越高，其表面压应力越高，但在次表层容易引起开裂的拉应力也越高。 报
+
+(5）对于大直径工件、冷却强度高的热应力状态下，最高拉应力位置处于0.6 半径位置，由于该位置热应力和组织应力均为拉应力，因此，在该情况下不能借助热应力抵消组织应力，热应力和组织应力均是促进工件开裂的原因。
+
+# 参考文献
+
+属发预
+
+[1]Howes M,otenGIoueTHandbookofResdual StressandefmationofSteel[M].America:AIteatoal: 249
+
+[2]KangDT,ZhangHInvestigationof heresidualstressdistributionofthehardeningandtemperinglargeshaft[J].Transactiof Metal Heat Treatment,1983,4(2): 61
+
+(康大韬，张海．调质大轴中残余应力沿工件截面分布规律的研究[J].金属热处理学报,1983,4(2):61)
+
+[3]KangDT,NanYInvestigationofthephasetransformationrsidualstressofcylindricalpart[J].TransactionsofMetalHeat Treatment,1985,6(1): 33
+
+(康大韬，南云．柱形件中残余组织应力的研究 [J]．金属热处理学报,1985,6(1):33)
+
+[4] Zhang H.Measurement and research ofhardening residual stressof heavy forging[J].Phys.Exam.Test.,2Oo1,(3): 26 (张海．大锻件淬火残余应力的测定及研究 [J]．物理测试,2001,(3):26)   
+[5] Wang KF,Chandrasekar S,Yang HTYExperimentalandcomputational studyof thequenchingofcarbonsteel[J].JManuf. Sci. Eng.,1997,119: 257   
+[6] Chen NL,ZuoXW,XuJ,etal.Researchandaplicationofigital timed quenching procesandequipment[J].Heat TeatMet, 2009,34(3): 37 报   
+(陈乃录，左训伟，徐骏等．数字化控时淬火冷却工艺及设备的研究与应用 [J]．金属热处理,2009,34(3):37)   
+[7]InoueT,NgkiS,KisT,etal.eioftrationietis,atcodctiodlasticsticsrssio of quenching and tempering of some steels [J]. Ing. Arch.,1981,50(5): 315.   
+[8] Denis S,Sjostrom S,imn A.Coupledemperature,stress,phase tranformationcalculationmodelnumerical ilustratioof th internal stresses evolution dpring cooling of aeutectoid carbon stelcylinder[J].Metall.Trans.A,1986,18(7):1203   
+[9]RohdeJJeppssnratureeviewofhattreatmentsiulations withespect tohase tranformationresualtred distortion Scand. J. Mtall,200o, 29(2): 47   
+[10] Simsir C, Gur C H. 3D FEM simulation of steel quenching and investigation the effect of asymmetric geometry on residual stress distribution [J]. J. Mater.Process.Tech.,2008,207(1-3): 211   
+[11] Arimoto K,LambertD,Lee K,etal.Predictionofquencheracking bydomputer simulation[A].19th ASM HeatTreating SocietyConfereneroceedngsIludingSteeHeatTeatingintheNewillmC.Cincinnati,Iteratioal9:45 [12]Jung M,KangM,L YK.Finite-elementsimulationofenching incorporatingimprovedtransformation kineticsinaplain medium-carbon steel [J]. Acta. Mater., 2012, 60:525   
+[13]LeeSJ,LeeYK.Finiteelementsimulationofquenchdistortioninalow-alloysteel incorporatingtransformationKinetics[J]. Acta. Mater.,2008,56(7): 148 预   
+[14]ArizaEA,Martorano MA,de Lima NB,etal.Numerical Simulation with Thorough Experimenal ValidationtoPredictthe Build-up of Residual Stresss during Quenching of Carbon and Low-Alloy Steels [J]. ISIJ Int.,2014, 546): 1396   
+[15] Yao X, Zhu L H,Li M V.A fully coupled material constitutive model for steel quench analysis ].Int.J.Microstructure and Materials Properties,2010,5(6): 501 X   
+[16]YamanakaS,SaanoueT,YoshiiT,etal.TransformationPlasticit-TeEfecon Metall-er-MechanicalSiulatioof Carburized Quenching Process [J]. Journal of Shanghai Jiaotong Unsity,2o,E54):185   
+[17]Denis S.Considering Stres-Phase TransformationInteractionsintheCalculationof Heat Treatment ResidualStresses[J].J. Phys. IV,1996,6: 159 R   
+[18]TalebL,CavallN,WaeckelFExperimentalaaysisftrasfrmatioplasticit[J].Int.J.lasticit,O,():1 [19]LiuY,QinSW,HaoQG,etal.Finite element simulatioandexperimentalverificationof interal stressofquenchedA 4140 Cylinders [J].Metall.Mater.Trans.A,doi: 10.1007/s11661-016-3916-6   
+[20]Ferguson BL,Li Z,Freborg A M. Modeling heat treatment of steel parts [J]. Comp. Mater.Sci.,2005 34(3): 274   
+[21]JuDY,MukaiR,akamakiT.DevelopmenandaplcationofcomputersimulatiocodeCOMAPoninductiohatratment process [J]. International Heat Treatment and Surface Engineering,2O1, 5(2): 65 发   
+[22]FischerFD,Sun QP,Tanaka K.Transformation-induced plasticity (TRIP)[J].Appl.Mech.Rev.,1996,49(6): 317   
+[23] Fischer FD,Reisner G,Werner E.A new view on transformation jnduced plastieit (TRIP)[J]. Int.J.Plasticity,2000,16(7-8): 723 金   
+[24] Hsu TY.Effect of stress on bainitic transformation in steel[J],Acta.Metall Sin.,20O4,40(2): 113   
+(徐祖耀．应力对钢中贝氏体相变的影响 [J]．金属学报,2004,40(2):113)   
+[25] Sun S Y,Dai YK.Analytic Atlas of Heat Treatment Cracking [M].Dalian: Dalian Publishing House,2002: 20   
+(孙盛玉，戴雅康．热处理裂纹分析图谱 [M]．大连：大连出版社,2002:1)   
+[26] IsomuraR,SatoH.Onquench-cracking phenomenaas viewed fromtheaspect ofquenchingstreses[J].JJapan Inst.Metals, 1961, 25(5): 360 [27] European Standard: Non-destructive Testing-Test Method for Residual Stress analysis by $\mathrm { \Delta } X$ -rayDiffraction.In EN15305,2008 [28]YuanFR,Wu SL.MeasurementandCalculationofResidual Stress[M].Changsha: HunanUniversityPres,1987:212 (袁发荣，伍尚礼．残余应力测试与计算 [M]．长沙：湖南大学出版社,1987:212)   
+[29]LeblondJB,otetG,evauxJathematicalmodelsofisothealpasetrasformatiosinseelsndpredictedplastic behavior [J].Mater. Sci.Tech.,1985,1(10): 815   
+[30] Bejan A,Kraus AD.Heat Transfer Handbook [M]. New Jersey: John Wiley & Sons, Inc.,2003: 165   
+[31]JanzenIP.Modelingofhat reatingproceesfortransngearsD].Worester:WorcesterPoltechncIstitute2009 [32]ArimotoK,LiG,ArvindA,etalThemodelingofhat reating process[A].Proceedingsofthe18thHeatTeatingConerence [C]. Rosemont: AMInternational,998:3 2学 布   
+[33]Koistinen D,MarburgerRE.Ageneral equationprescribingtheextentoftheaustenite-martensite transformationinpure iron-carbon alloys and plainearbon steels [Acta Metall.,1959,7(1): 59   
+?   
+[34] Sourmail T, Garcia-Mateo C. Critical assessment of models for predicting the $M _ { \mathrm { s } }$ temperature of steels [J]. Comp.Mater. Sci., 2005,34(4): 323   
+[35] van Hemen SMSietsmaJ.Effect ofcomposition on Kineticsof athermal martensite formation in plain carbon steels [J]. Mater. Sci. Tech.,2009,25(8): 1009   
+[36]Fanfoni M,TomeliniM.TheJohnson-Mehl-Avrami-Kohnogorovmodel:Abriefreview[J].ILNuovoCimento，1998, 20D(7-8): 1171 尚 布   
+[37] Scheil VE,Anlaufzeit der Austenitumwandlung [J].Arch.Eisenhuttenwes.,1935,12: 565   
+[38]Cheng HM,FanJ, Wang HG.Estimationof themechanical propertiesofa42CrMo steel cylinderwithphase transformation during quenching [J].J.Mater. Process. Tech., 97,63(1-3): 568   
+[39]NagasakaYimacobeJK,Hawbolt,ealathmaticalodelfsetraforatiosdelastoplasticsrsieater 1   
+spray quenching of steel bars [J Metall. Trans A1993,24(4): 795   
+[40] Liu C C,Yao KF, Xu X J, et al.Models for transformation plasticity in loaded steels subject o bainitic and martensitic transformation [J].Mater. Sci. Tech.,2001,17(8): 983   
+[41] Yu H S.Plasticity and Geotechnics [M]. Boston: Springer, 2006: 23   
+[42] Leblond JB,Mottet G,Devaux JC.A theoretical and numerical approach te She plastic behaviour of steels during phase transformations-I. Studyofclassical plasticity for ideal-plastic phases [M].J.Mech.Phys.Solids,1986,34(4): 411   
+H   
+[43] Arimoto K, Yamanaka S,Narazaki M,et al. Explanation of the ginofquench tistortion and residual stress in specimens using computer simulation [J].Int.J.Microstructure and Materials Properties,2Oo9,4(2):168   
+[44] Lambert D,Wu W T,Arimoto K. Finite element analysis ol nal stresses in quenched steel cylinders [A].19th ASM Heat Treating SocietyConferenceProceeings IncludingStel Heat Treating intheNewMilenumC].Cincinnati,ASMIntetioal, 1999: 425   
+[45]Yonetani S,translatedbyZhuJP,ShaoHM.GenerationandTackleofResidual Stress[M].Beijing:China MachinePress,98: 127 学 子 (YonetaniS著，朱荆璞，邵会孟译．残余应力的产生和对策 [M]．北京：机械工业出版社,1983:127)   
+属发
+
+金预

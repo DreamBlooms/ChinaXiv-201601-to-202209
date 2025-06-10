@@ -1,0 +1,252 @@
+# 羽毛球运动重塑成年早期的大脑灰质和白质结构
+
+白学军」邵梦灵」刘婷」尹建忠²金花1
+
+(1天津师范大学心理学部，天津 300387)( 天津市第一中心医院放射科，天津 300192)
+
+摘要以往研究发现，球类运动员视知觉脑区的结构不同于非运动员，但这些脑区结构的差异是训练经历引起还是天生结构不同所导致的，尚未可知。本研究拟采用纵向设计，以处于成年早期的成人非运动员为被试（23\~27岁)，随机分成实验组和对照组，实验组参加12周的羽毛球运动训练，对照组在此期间不进行任何有规律的运动训练，采集干预实验前后所有被试的结构像和弥散张量成像数据。结果发现，实验组训练后左下枕叶、颞中回、颞下回灰质体积增加，双侧内囊后肢、上放射冠各向异性分数（FA）增加，进一步分析发现，FA 增加的原因是径向扩散系数（RD）下降。提示羽毛球运动可增加成人与视运动知觉有关脑区的灰质容量，增加纤维束的髓鞘厚度。
+
+关键词羽毛球训练；成年早期；脑可塑性
+
+# 1引言
+
+脑可塑性是指在环境或经验作用下，脑结构或功能发生变化。脑可塑性已广泛应用在神经康复、延缓老年人脑衰老、促进青少年脑发育等领域，并成为近年来的研究热点。研究已表明音乐家、专业运动员、电子游戏玩家等，具有某种专业技能的专家的脑结构或功能不同于非专业人员或新手（Abreu et al.,2012; Bishop,Wright, Jackson,& Abernethy,2013; Gaser &Schlaug,2003; Gong et al.,2016; 2017; Luo et al.,2012; Park,Lee, Kwon, Lee,& Rhyu, 2015;Wang et al., 2013; Zhang et al.,2013）。
+
+对成人进行运动训练引起脑可塑性改变的研究发现，对成人进行3个月的杂耍训练（Draganski et al.,2004）、射击训练（Baeck et al.,2012）或平衡训练（Rogge,Roder, Zech,&Hotting，2018）能够改变成人脑结构或功能。如Rogge等人（2018）对成人分别进行12周平衡训练和放松训练发现，与放松训练组比较，平衡训练组训练后平衡能力提高，且与视觉、前庭和自我运动知觉相关的脑区（如视觉联合皮层、颞上皮层、后扣带皮层、额上沟和中央前回等脑区）的皮层厚度增加，壳核体积下降。这表明生活中的运动经历会改变成人脑可塑性，但是，拍类运动训练是否改变成人脑结构可塑性仍然不清楚。
+
+然而，对拍类运动的横向研究结果提示，拍类运动也可能重塑成人脑结构或功能。如静息态功能研究发现，羽毛球运动员的小脑低频振幅（amplitude of low-frequency fluctuationALFF)大于新手，左上顶叶ALFF 小于新手，左上顶叶和额叶FC大于新手(Dietal.,2012)。电生理研究发现在观看羽毛球比赛视频时，羽毛球运动员枕叶的C1成分（被认为反映了初级视觉皮层电位活动）波幅显著大于非运动员（Jinet al.,2010)。当观看径向运动刺激时，羽毛球运动员诱发的颞中回的N2潜伏期小于非运动员（作者认为他们所选的电极代表了颞中回）（Hulsdunker,Struder,&Mierau,2017)。任务态功能研究发现在视觉预期任务中，羽毛球运动员不仅正确率高于非运动员，且颞中回激活也高于非运动员（Wright, Bishop,Jackson,& Abernethy,2011）。
+
+在结构方面，Di等人（2012）发现羽毛球运动员的小脑灰质密度大于新手。而吴殷、张剑、曾雨雯和沈城（2015）发现羽毛球运动员主要在右侧中央前回、右侧眶额回、左侧额上回、左侧顶下小叶和左侧楔前叶的灰质体积大于非运动员。沈国华等人（2014）比较了篮球运动员和非运动员的脑白质差异，发现篮球运动员枕中回的各向异性分数（fractionalanisotropy,FA）显著大于非运动员。
+
+但是，上述研究均为横向研究，但这些脑区功能或结构的差异是训练经历引起还是天生不同所导致的，尚未可知。因此，已有横向研究结果虽为纵向干预研究的可行性提供了一定的依据，但拍类运动训练是否能改变成人脑结构的可塑性仍然不清楚。
+
+最新基于120万被试的大数据研究发现，拍类运动是综合价值最高的体育活动方式，对于促进心理健康、减少各种致命疾病的患病风险非常有效（Chekroud etal.,2018）。而羽毛球运动是最受国人欢迎的健身运动之一，羽毛球运动人口达到2亿以上，仅次于跑步人口数（艾瑞咨询,2015；刘凌云,2018)；其次，相对于其它拍类运动，羽毛球运动对场地、个体的技术或身体素质要求较低，可行性较强。因此以羽毛球运动为模型探讨生活中的运动经历对成人脑可塑性的影响具有较好的普遍性、社会意义和生态效应。
+
+在此，本研究旨在以羽毛球运动为例考察短时拍类运动训练是否可以改变成年早期的大脑结构。在干预研究中，干预时长的设置非常关键，干预时间过短可能观察不到干预的效果;而干预时间过长可能导致数据脱落率增加也不利于得到可靠的实验结果，另外还可能使干预方案的可行性下降。本研究将干预时长设置为12周，一是先前研究发现12周的训练能引发训练相关脑区的结构变化（如Draganski et al.,2004; Rogge et al.,2018)，二是12 周的时长可以最大限度地避免因开学和复习考试而可能产生的被试参与度降低及数据脱落等现象，也增加了干预方案的可行性。研究以无运动健身习惯的大学生为被试，随机分成实验组和对照组，实验组进行12周的羽毛球运动训练，对照组在此期间不进行任何规律性的体育运动，保持原有生活习惯，采集干预实验前后所有被试的结构像和弥散张量成像（difusion tensorimaging,DTI）数据。使用形态学测量（voxel-based morphometry,VBM）和基于追踪的空间统计（tract-based spatial statistics,TBSS）方法分别考察羽毛球运动经历引起的脑灰质体积和白质纤维FA的变化。根据上述研究，运动员的灰质体积或白质FA均大于非运动员，我们假设：实验组羽毛球训练后，脑灰质体积和白质FA会增加。由于羽毛球运动伴随着对复杂动态视觉信息的知觉训练（Hulsdunkeretal.,2017)，因此，羽毛球运动很可能使和视运动知觉有关的脑区发生结构变化。枕叶和颞中回是视运动知觉加工的关键脑区，而且羽毛球运动员的这两个脑区的功能显著不同于非运动员（Jinet al.,2010; Hulsdunker et al.,2017;Wrightet al.,2011)。此外，研究表明运动诱导的脑功能可塑性的变化伴随着脑结构的变化（Wei&Luo,2010;Wei,Luo,&Li,2009;Wei,Zhang,Jiang,& Luo,2011)。据此，我们假设：实验组羽毛球训练后，结构发生变化的脑区可能位于枕叶和颞中回。
+
+# 2方法
+
+# 2.1被试
+
+44 名大学生有偿志愿参加实验，随机分成两组，实验组：原有22名，其中1名被试由于自身原因未能参加后测，剩余有效被试21名（男生9名，女生12名，平均年龄为 $2 4 . 4 8 \pm$ 1.17岁，范围 23岁\~27岁)，对照组：原有 22名，其中4名被试未能参加后测，剩余有效被试18名（男生7名，女生11名，平均年龄 $2 4 . 0 6 \pm 0 . 7 3$ 岁，范围 23 岁\~26岁）。
+
+两组被试的男女比例、年龄（ $_ { \cdot p > 0 . 0 5 } )$ 、受教育程度相匹配，无显著差异。所有被试经爱丁堡问卷测定后均为右利手（Oldfield，1971)，视力正常或矫正正常且不是色盲或色弱，所有被试身体健康，无脑外伤史、药物依赖病史、精神病史、神经病史及家族史，所有被试均没有任何体育项目专业或业余的训练史，没有业余时间进行球类项目活动的习惯，没有业余时间观看球类项目比赛的习惯。所有被试均在实验前签署了《知情同意书》，并在实验结束后获得一定报酬。本研究通过天津师范大学心理与行为研究院伦理委员会、天津市第一中心医院伦理委员会批准。
+
+# 2.2实验设计
+
+采用 $2 { \times } 2$ 的实验组、对照组前后测设计。其中组别（实验组/对照组）是被试间变量，测试时间（前测/后测）是被试内变量。本实验包括三个流程：前测、羽毛球训练、后测。前测和后测的内容一样，均为脑结构扫描。只有实验组参加连续12周的羽毛球训练，对照
+
+组在此期间不进行任何有规律的体育运动。
+
+# 2.3羽毛球训练
+
+羽毛球训练在某大学体育馆的羽毛球训练馆举行，在本研究中，羽毛球训练的干预时间为每周三次（周一、周三、周五)，每次一小时，连续12周。每次的羽毛球训练包括三个部分，具体安排如下：第一部分，老师讲解并演示。羽毛球老师讲解并演示某个或某些正确的羽毛球运动动作（如，发球、杀球）或技能（如，根据对手肢体动作预期球路轨迹，根据对手所在位置，将球反击到左半场或右半场，前半场或后半场)。这一部分大约持续10 分钟。第二部分，练习。两人一组，练习第一部分讲解的动作或技能，在此期间，老师观察每个被试的动作和姿势，如有不正确的，就前去指导。这一部分大约持续 30分钟。第三部分，自由打球。两人一组打羽毛球。这一部分大约持续 20分钟。在最后一周的运动中，老师组织小组赛，两人一组，进行单打比赛。
+
+# 2.4脑结构扫描
+
+所有被试使用天津市第一中心医院西门子3.0T磁共振成像系统进行扫描。T1加权结构像由梯度回波序列（gradient recalled echo sequence,GRE)获得，扫描参数如下： $\mathrm { T R } = 1 9 0 0 \mathrm { m s }$ $\mathrm { T E } = 2 . 5 2 \mathrm { m s }$ ，反转角为 $9 ^ { \circ }$ ， $\mathrm { F O V } = 2 4 0 \mathrm { m m } \times 2 5 6 \mathrm { m m }$ ，成像矩阵为 $2 4 0 \times 2 5 6$ ，扫描层数176层，取层方向从右到左，连续扫描，层厚 $1 \mathrm { m m }$ ，间隔 $0 . 5 \mathrm { m m }$ ，体素 $\mathbf { \tau } = 1 \mathrm { m m } \times 1 \mathrm { m m } \times 1 \mathrm { m m }$ 每个被试的扫描时间为4分10 秒。
+
+DTI 由平面回波成像序列（echo-planar imaging sequence,EPI）获得，扫描参数如下：$\mathrm { T R } = 4 2 0 0 \mathrm { m s }$ ， $\mathrm { T E } = 0 . 4 \mathrm { m s }$ ，反转角为 $9 0 ^ { \circ }$ ， $\mathrm { F O V } = 2 3 0 \times 2 3 0$ ，成像矩阵 $= 1 2 8 \times 1 2 8$ ，扫描层数 $= 3 2$ ，取层方向由下到上，间隔扫描，先扫单层，层厚 $\sp { } = 4 \mathrm { m m }$ ，间隔 $\mathrm { \Omega } = 0 . 4 \mathrm { m m }$ ，体素$= 1 . 8 \mathrm { m m } \times 1 . 8 \mathrm { m m } \times 4 \mathrm { m m }$ ，扩散梯度编码方向64个， $\mathbf { B } _ { 1 } = 0 \mathrm { m m } ^ { 2 } / \mathrm { s }$ 、 $\mathrm { B } _ { 2 } = 1 0 0 0 \mathrm { m m } ^ { 2 } / \mathrm { s }$ ，扫描时间4分47秒。
+
+# 2.5VBM分析
+
+结构数据预处理在基于MATLABR2013a（www.mathworks.com/trademarks）的CAT12.5（http://www.neuro.uni-jena.de）中完成。预处理之前，首先将T1原始数据转化成 TINF 格式的数据；然后将每名被试的两次时间点的结构像通过 inverse-consistent realignment 配准到平均像上；使用组织概率图(tissue probability maps,TPM)将每名被试的平均像分割成灰质、白质、脑脊液，通过使用DARTEL方法达到空间标准化，将标准化的参数应用到每名被试的每个时间点的结构像中，得到每名被试每个时间点的标准化的灰质分割图，然后进行调制;检查标准化的图像的质量；将调制后的灰质分割图进行 ${ 8 \times 8 \times 8 \mathrm { m m } ^ { 3 } }$ 的空间平滑，用于接下
+
+来的统计分析。
+
+在spml2（http://www.fil.ion.ucl.ac.uk/spm/）中进行组水平的统计分析，把颅内体积（intracranial volume,ICV）加入协变量，进行 $2 \times 2$ 重复测量方差分析，组别是被试间变量，测试时间是被试内变量，显著水平定义为体素水平上的FWE（family wise error rate,FWE）矫正后 $p < 0 . 0 5$ $k > 5 0$ （Everts etal.,2009)。将交互作用显著的脑区的灰质体积值提取出来，在 spss22.0 中进行事后分析（即配对样本t检验）。
+
+# 2.6TBSS分析
+
+首先将原始的DTI数据转换成压缩的FSL格式的数据，将原始的T1数据转换成NIFTI格式的数据。然后在FSL v5.0工具包（https://fsl.fmrib.ox.ac.uk/fsl/）中进行DTI数据的预处理，步骤包括：涡流矫正，用来矫正在数据采集过程中，由头动和涡流引起的图像形变；剥头皮，去除头皮等非脑组织结构，阈值设置为0.2；指标结算，计算出FA、L1、L2、L3指标。最后在虚拟机的终端进行TBSS数据分析，步骤包括：使用"tbss_1_preproc_\*.nii.gz"命令去除预处理得到的FA中的异常值；使用"tbss_2_reg-T"命令，将每个被试的FA图非线性配准到标准的FA模板FMRIB58_FA_1mm中；使用"tbss_3_postreg $- S ^ { , }$ 命令，生成所有被试的平均FA图和平均FA骨架；使用"tbss_4_prestat 0.2"命令，生成一个平均的FA骨架的mask，并将这个mask投射到每个被试的个体空间，每个被试均生成一个FA骨架。
+
+将所有被试的FA骨架在FSLv5.0里进行 $2 \times 2$ 重复测量方差分析的非参数统计分析，进行置换检验500o次，显著水平设置为无阈限的团块增强（Threshold-free cluster enhancement,TFCE）水平矫正 $\cdot p < 0 . 0 5$ 。统计结果图被定位到JHUICBM-DTI-81白质模板中。将有显著交互作用的FA值提取出来，在SPSS22.0中进行事后分析（即配对样本t检验）。
+
+# 2.7ROI分析
+
+FA反映了水分子在白质纤维中轴向和径向扩散的比例。为了进一步分析导致FA变化的原因，将TBSS结果中交互作用显著的FA对应的脑区作为感兴趣区（regions of interest,ROIs），提取每个ROI的轴向扩散系数(axial diffusivity,AD)和径向扩散系数(radial diffusivity,RD），然后在SPSS22.0中对AD和RD进行重复测量方差分析。
+
+# 3结果
+
+因本研究主要关注组别和测试时间的交互作用，即训练干预是否引发了脑结构的变化，因此仅报道交互作用结果。
+
+# 3.1灰质体积结果
+
+组别和测试时间交互作用显著的脑区有：左颞下回、左下枕叶、左颞中回（见图 1)。事后检验结果显示，实验组训练后，上述脑区的灰质体积显著增加 $( p s < 0 . 0 0 1 )$ ；对照组左颞下回、左下枕叶前后测无显著差异 $( p s > 0 . 0 5 )$ ，左颞中回灰质体积下降（ ${ \cdot } p < 0 . 0 0 1 )$ 。见图2、表1。此外，将两组被试在前测的上述脑区的灰质体积进行独立样本 $\mathbf { \rho } _ { \mathbf { t } }$ 检验，结果显示，两组被试的上述脑区在前测均无显著差异 $( p s > 0 . 0 5 )$ 。左下枕叶： $t ( 3 7 ) = 1 . 3 3$ $p = 0 . 1 9 1 >$ 0.05。左颞下回： $t ( 3 7 ) = 1 . 9 1$ $p = 0 . 0 6 5 > 0 . 0 5$ 。左颞中回： $t ( 3 7 ) = 0 . 9 1$ $p = 0 . 3 6 9 > 0 . 0 5$ 。
+
+![](images/33629fc7866542af753dd5ed903b340b8cf7fb014365d4e2ce6137f933a2fe03.jpg)  
+图1交互作用显著的灰质体积脑区
+
+注：该图为MNI空间下的轴状图，图中左为右半球，右为左半球。A：左下枕叶（ $\cdot x = - 3 3$ $y = - 7 8$ $z = - 6$ $k = 1 1 1$ $F = 6 0 . 5 0 \$ PFWE$\phantom { - } < 0 . 0 0 1 \rangle$ ，B：左下回（ $\cdot x = - 4 4$ $y = - 5 0$ $z = - 9$ $k = 1 2 7$ $F = 5 6 . 1 8$ $p _ { \mathrm { F W E } } = 0 . 0 0 1 \$ ，C：左题中回（ $\dot { \boldsymbol { \cdot } } \boldsymbol { x } = - 5 1$ $y = - 3 9$ $z = 8$ $k = 7 9$ $F =$ 51.08, $p _ { \mathrm { F W E } } = 0 . 0 0 2$ ）
+
+![](images/e647cb796473205410bef004362747617dace7af4bfa43964ad1d407d3324487.jpg)  
+图2灰质体积变化图
+
+表1两组被试交互作用显著脑区的灰质体积值 $( M \pm S D )$   
+
+<html><body><table><tr><td></td><td colspan="2">对照组</td><td colspan="2">实验组</td></tr><tr><td>脑区</td><td>前测</td><td>后测</td><td>前测</td><td>后测</td></tr><tr><td>左下枕叶</td><td>0.243 ± 0.042</td><td>0.243 ± 0.043</td><td>0.227 ± 0.034</td><td>0.252 ± 0.039</td></tr><tr><td>左颞下回</td><td>0.323 ± 0.073</td><td>0.321 ± 0.074</td><td>0.286± 0.048</td><td>0.310 ±0.045</td></tr><tr><td>左颞中回</td><td>0.390 ± 0.089</td><td>0.379 ± 0.091</td><td>0.368 ± 0.067</td><td>0.382 ±0.068</td></tr></table></body></html>
+
+# 3.2白质结果
+
+组别和测试时间交互作用显著的脑区有：双侧内囊后肢、双侧上放射冠（见图3）。将这4个脑区的FA信号值提取出来，在SPSS中进行事后检验分析，结果显示，实验组训练后上述脑区的FA均显著增加 $( p s < 0 . 0 5 )$ ），对照组上述脑区的FA显著下降 $( p s < 0 . 0 5$ ），见表2。
+
+![](images/2d1857ab6969887369d186d75ea189c4ebdbc0409ae46c5bab921aba113d7eaa.jpg)  
+图3FA交互作用显著的脑区
+
+注：该图为MNI空间下的轴状图，图中的左为右半球，右为左半球。A：左内囊后肢 $\ ( x = - 2 4$ $y = - 1 1$ $z = 1 5$ $k = 3 2$ $p _ { \mathrm { T F C E } } = 0 . 0 4 5$ ），B：右内囊后肢（ $x = 2 5$ $y = - 1 3$ $z = 1 5$ $k = 2 5 3$ $p _ { \mathrm { T F C E } } = 0 . 0 1 9$ ），C：左上放射冠（ $\cdot x = - 2 7$ $y = - 1 8$ $z = 2 1$ $k = 7 9$ $p _ { \mathrm { T F C E } } = 0 . 0 4 0 \rangle$ ），D:右上放射冠( $x = 2 9$ $y = - 1 7$ $z = 2 1$ $k = 2 2$ $p _ { \mathrm { T F C E } } = 0 . 0 4 9$ $x = 2 7$ $y = - 2 0$ $z = 2 5$ $k = 6$ $p _ { \mathrm { T F C E } } = 0 . 0 5 0$ $x = 2 1$ $y = - 1 7$ $z = 3 9$ $k = 1 2 6$ $p _ { \mathrm { T F C E } } = 0 . 0 4 4$ ）。绿色：平均FA骨架。底图：标准空间MNI152图。
+
+表2两组被试的FA值 $( M \pm S D )$   
+
+<html><body><table><tr><td></td><td colspan="2">对照组</td><td colspan="2">实验组</td></tr><tr><td>脑区</td><td>前测</td><td>后测</td><td>前测</td><td>后测</td></tr><tr><td>左内囊后肢</td><td>0.664 ± 3.64×10-2</td><td>0.645 ± 3.25×10-²</td><td>0.638 ± 3.24×10-2</td><td>0.656 ± 3.41×10-2</td></tr><tr><td>右内囊后肢</td><td>0.686 ± 3.16x10-2</td><td>0.673 ± 2.85×10-²</td><td>0.659 ± 3.20×10-²</td><td>0.676 ± 2.48x10-2</td></tr><tr><td>左上放射冠</td><td>0.642 ± 2.80×10-2</td><td>0.627 ± 2.89x10-2</td><td>0.617 ± 2.54×10-²</td><td>0.629 ± 2.69×10-²</td></tr><tr><td>右上放射冠</td><td>0.601 ± 3.42x10-2</td><td>0.59 ± 3.63×10-2</td><td>0.561 ± 2.80×10-²</td><td>0.576 ± 2.66x10-2</td></tr></table></body></html>
+
+FA增加可能是AD增加、RD减少、或两种结合，为了进一步证明FA增加的原因，以交互作用显著的脑区为ROIs，分析每个ROI的AD和RD的变化。共4个ROIs：左内囊后肢、右内囊后肢、左上放射冠、右上放射冠。结果显示，在AD方面，4个ROIs的交互作用均不显著 $( p s > 0 . 0 5 )$ ）。在RD方面，双侧内囊后肢（左： $F \left( 1 , 3 7 \right) = 1 9 . 1 3 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 3 4$ ；右：$F \left( 1 , 3 7 \right) = 2 9 . 0 1 \$ $p < 0 . 0 0 1$ ， $\boldsymbol { \eta } ^ { 2 } = 0 . 4 4 \dot { }$ ）、双侧上放射冠（左： $F \left( 1 , 3 7 \right) = 1 5 . 6 8$ $p < 0 . 0 0 1$ ， $\ \eta ^ { 2 } =$ 0.30；右： $F \left( 1 , 3 7 \right) = 3 4 . 7 0 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 4 8 \times$ ）交互作用均显著。简单效应结果显示，实验组训练后，双侧内囊后肢、右上放射冠显著下降了 $( p s < 0 . 0 1$ ），左上放射冠前后测无显著差异 $( p > 0 . 0 5 )$ ）；对照组后测的双侧内囊后肢、双侧上放射冠显著增加了！ $( p s < 0 . 0 1$ ）。见图4、表3。
+
+![](images/87e1e21b344a3a7b107fa75c74e97cb72b2fc056855f407456582496db4b7f3b.jpg)  
+图44个ROIs脑区的RD变化图
+
+表3两组被试4个ROIs脑区的RD值 $( M \pm S D )$   
+
+<html><body><table><tr><td colspan="4">对照组</td><td colspan="3">实验组</td></tr><tr><td>脑区</td><td>前测</td><td>后测</td><td>n</td><td>前测</td><td>后测</td><td>n</td></tr><tr><td>左内囊 后肢</td><td>3.83 × 10-4± 8.56×106</td><td>4.10 × 10-4±8.23 × 10-6</td><td>0.34</td><td>4.17 × 10-4± 7.93 ×106</td><td>3.98 × 10-4± 7.62 × 10-6</td><td>0.24</td></tr><tr><td>右内囊 后肢</td><td>3.68 × 10-4± 7.96 × 106</td><td>3.84 × 10-4± 6.37 × 10-6</td><td>0.23</td><td>4.04 ×10-4± 7.37 × 106</td><td>3.83 × 10-4±5.89 ×106</td><td>0.34</td></tr><tr><td>左上放 射冠</td><td>4.28 × 10-4± 8.83 × 106</td><td>4.55 × 10-4± 8.94 × 10-6</td><td>0.29</td><td>4.71 × 10-4± 8.18 × 106</td><td>4.60 × 10-4±8.27 × 10-6</td><td></td></tr><tr><td>右上放 射冠</td><td>4.36 ×10-4± 6.21× 106</td><td>4.54× 104±6.79 × 106</td><td>0.35</td><td>4.84 × 10-4± 5.75 × 106</td><td>4.69 × 10-4± 6.29 × 106</td><td>0.30</td></tr></table></body></html>
+
+# 4讨论
+
+本研究考察了羽毛球运动对成年早期脑结构可塑性的影响，灰质体积方面，结果显示实验组训练后左侧下枕叶、颞中回、颞下回灰质体积增加；而对照组颞中回灰质体积减小，表明羽毛球运动可增加成人与视运动知觉加工有关脑区的灰质容量。白质方面，实验组训练后双侧内囊后肢、上放射冠表现为RD下降引起的FA增加，而对照组这些脑区表现为RD增加引起的FA下降，表明羽毛球运动可能增加了成人白质纤维的髓鞘厚度。
+
+研究发现实验组训练后左下枕叶灰质体积增加的结果与我们假设一致。下枕叶是纹外视觉皮层的一部分，最近研究（Huetal.,2018)表明纹外视觉皮层有编码运动信息的神经元（方向选择神经元），这类神经元对运动对比非常敏感，这在图形-背景分离中起重要作用。有行为学研究表明，在随机点阵范式中，羽毛球运动员的连贯性运动判断能力优于非运动员（孔丽娜等人，2012），下枕叶灰质体积增加可能与羽毛球运动过程反复在静态的场地和动态的球及对手间进行运动信息编码有关。在羽毛球运动场景中，对手的动作与飞行的羽毛球和静正的背景环境，构成了运动对比刺激。
+
+颞中回和加工生物运动（Grezes et al.,20o1; Peuskens,Vanrie,Verfaillie,& Orban,2005）及理解他人动作意图有关（Lestou,Pollick,&Kourtzi，2008；Pelphrey，Morris,&McCarthy,2004）。如，让被试观看由点光源组成的人体做生物运动（如，走路）比观看刚体运动能够引起双侧颞中回更大的激活（Grezes etal.,2001）。让被试观看两个不同运动目的的行为比观看两个相同目的行为的点光源运动，引起颞上沟更大的激活（Lestou etal.,2008）。更直接地，研究发现该脑区参与运动过程中的视知觉任务（Abreu et al.,2012;Bishop et al.,2013;Wright etal.,2011）。如，在观看打羽毛球视频片段进行视觉预期时，羽毛球运动员颞中回激活高于非运动员（Wright etal.,2011）。一定持续时间的羽毛球训练后成人颞中回灰质体积的增加很可能与羽毛球运动过程伴随丰富的动态信息和准确的视知觉预期需求有关。羽毛球运动是一项有高度时间制约的对抗性运动，视觉预期球的落地点对赢得比赛非常关键，而视觉分析对手的生物运动、理解对手动作意图对正确判断球的落地点（进行视觉预期）非常重要。行为实验已证明，专业羽毛球运动员的视觉预期能力优于非运动员或新手（Abermethy& Zawi,2007; Alder,Ford,Causer,&Williams,2014; Jin et al.,2011），本实验所属项目下的另一个实验确实发现，被试进行3个月的羽毛球训练后，对羽毛球的视觉预期能力显著提高（Liu et al., 2017）。
+
+本实验观察到实验组训练后颞下回灰质体积增加可能与羽毛球运动改变了成人对羽毛球动作模式的再认有关。研究发现，颞下回和专家的专业领域的模式再认有关（Bilalic,Langner,Erb,&Grodd,2010）。Bilalic等人（2010）比较了象棋专家和新手在象棋有关的视觉搜索任务中的表现及其神经机制，发现专家对摆放正常的棋局的视觉搜索优于新手，表明专家的专业领域的模式再认能力优于新手；脑成像结果发现象棋专家在模式再认任务中，颞下回激活高于新手，作者认为颞下回参与象棋中的模式再认。大量研究表明特定领域的专家比普通人有较好的专业领域内的模式再认能力（Bilalic et al.,2010; Hohmann,Troje,Olmos,&Munzert,2011; Smeeton,Ward,&Williams,2004）。如，篮球运动员、足球运动员、冰球运动员对特定动作、队友和对手的位置的回忆和再认优于非运动员或新手。专家具有专业领域的模式再认优势，这和专家储藏了大量的专业领域的模式，并且能够快速区分和比较观察到的模式和储藏的模式有关（Abernethy,1996）。在本研究中，实验组进行多次重复的羽毛球练习，可能获得了一些专业知识，如特定的羽毛球动作结构，这些知识有助于模式再认，即将看到的对手的动作信息和已有的模式进行比较，做出预期判断。
+
+白质方面，FA反映了水分子在白质纤维中轴向和径向扩散的比例，FA越大说明水分子在轴向的扩散程度大于在径向的扩散程度。FA增加有三种可能：AD增加、RD下降或AD增加结合RD下降。而本实验研究结果发现实验组训练后双侧内囊后肢、上放射冠FA增加，是由RD下降导致的。FA变化受多种因素影响，如神经元数量、密度、直径、髓鞘厚度（Beaulieu,2002;Blumenfeld-Katzir,Pasternak,Dagan,& Assaf,2011）。已有研究表明，AD对轴突损伤敏感（Sun,Liang,Cross,& Song,2008; Zhang et al.,2009）；而RD对髓鞘损伤敏感，RD下降和髓鞘增加有关（Kim et al.,2007; Song et al.,2002; Zhang et al.,2009）。如,Zhang等人（2009）以白鼠为被试，对白鼠的脊髓进行人为损坏，结果发现，RD增加和髓鞘解体成正相关。Song等人（2002）比较了颤抖鼠和健康鼠的多个纤维束的髓鞘厚度、AD和RD，结果发现，颤抖鼠表现出髓鞘损失，且RD大于健康鼠，但是AD和健康鼠无差异。因此，本实验发现实验组羽毛球训练后呈现出RD下降引起的FA增加的生理基础可能和羽毛球训练引起的纤维束髓鞘厚度增加有关。
+
+上放射冠向上投射到大脑皮层的运动区、前运动区，向下到达内囊后肢和大脑脚。内囊是由联系大脑皮层和脑干、脊髓的上、下行纤维组成的白质板。而内囊后肢包含的皮质脊髓束，更是运动、感觉传导纤维高度集中的部位。本实验观察到短期羽毛球运动后内囊后肢和上放射冠发生FA变化，提示该部分白质具有较强的结构可塑性，这一结果和文献相符。先前研究发现，不同类型的短期训练（3周的视空间运动训练，Wang，Casadio，Weber,Mussa-Ivaldi,& Parrsh,2014; 4 周的左手序列运动训练,Reid,Sale,Cunnington,Mattigley,&Rose，2017）均可引发这部分白质FA的增加。如Wang等人（2014）发现3周的视空间训练后，成人被试内囊后肢、上放射冠FA 增加，RD 减少。短期训练后发生的FA变化被认为是反复进行某项运动或运动学习的结果，和个体在该活动项目上的行为改善有关（Reidetal.,2017;Wang et al.,2014）。综合起来，我们推测，本实验中实验组训练后由RD下降导致的FA 增加也可能是由于神经元髓鞘厚度增加引起的，是羽毛球运动学习的结果，这可以使白质在运动过程中更好更快地完成中枢和外周神经系统间的信息传递。
+
+但是，本实验结果和以有长期（十年以上)训练经历的专家（音乐家,Schmithorst＆Wilke2002；高尔夫运动员，Jancke,Koeneke,Hoppe,Rominger,&Hanggi,2009）为对象的研究结果并不一致。这些研究发现，从幼年开始接受音乐训练的音乐家比非音乐家的内囊和放射冠的FA更低；高技能高尔夫运动员比低技能高尔夫运动员和非运动员的内囊后肢有更低的FA。这些作者认为下降的FA和更熟练的、自动化的动作有关。结果不一致的可能性很多，有可能运动诱发的白质FA变化具有项目特异性，羽毛球是一项对抗性球类运动，运动过程中与他人的互动较多，且对视运动知觉有较高要求，而音乐训练、高尔夫运动是非对抗性训练且对视运动知觉没有较高需求。也可能运动诱发的FA变化是非线性的。也或者，是实验设计上的差异引起的，和本研究结果一致的研究均为纵向研究，而以专业选手为对象的研究均为横向研究。这些可能性需要在将来的研究中，设计更为严谨的实验设计来分离和确定。
+
+出乎我们的预期，实验还观察到了对照组脑结构的变化，实验后对照组颞中回灰质体积的下降、白质FA下降。这一现象可能符合大脑毕生发展的规律。大量研究发现，个体大脑的灰质体积在儿童期甚至更早的发育期就开始了下降（Ge et al.,2002; Kalpouzos et al.,2009;Pfefferbaum et al.,1994; Sowell et al.,2003; Tamnes et al.,2013）。如Pfefferbaum等人（1994)以161名年龄在3个月到70岁的健康人为被试，测量脑容量，发现灰质体积在4岁时达到峰值，之后开始下降。Tamnes等人（2013）对处于发育期的8\~19岁被试的灰质体积进行了2.6年的追踪，也得到了类似的结果。他们发现许多皮层的年下降率超过 $1 \%$ ，在20岁时，下降最多的脑区在额叶、外侧颞叶。一项考察白质纤维在生命全程中变化的研究表明，大部分白质较早达到成熟，如枕叶、额叶的白质FA在青少年后期达到最大值， $5 0 \%$ 的皮质脊髓束体素在20岁左右达到峰值，然后呈下降趋势（Westlye et al.,2010）。更值得注意的是，有干预研究表明，在短时间跨度内，对照组的脑容量下降达到统计学显著水平，如，Lovden等人（2012）以年轻人（20\~30岁）为实验对象，实验组参加4个月（42天，每天50分钟）的导航训练（在虚拟的动物园中寻找动物），对应的对照组执行和实验组相同运动量的走路任务。结果发现实验组的海马（与导航有关）灰质体积增加了，而对照组的海马体积下降了，该作者认为这是正常的与年龄相关的下降现象。Thomas等人（2009）对平均32.5岁的健康被试，进行了三次结构像扫描，第一次与第二次扫描间隔2周，在此期间，没有对被试进行任何干预；第二次与第三次扫描间隔2周，在此期间，对被试进行一项每次25分钟，共6次的视运动训练（操纵杆任务)。结果发现，在无干预阶段，双侧海马旁回、右脑岛、右楔前叶的灰质密度显著下降了。因此，我们推测，本实验观察到的对照组颞中回灰质体积下降属于大脑毕生发展的正常现象。
+
+但是，如果以“非拍类运动”如室内跑步为对照组，是否可能观察不到颞中回下降的现象？或者说，对照组颞中回的变化是因为没有进行运动而非没有进行羽毛球运动引起的？虽然本研究因为没有设置活动对照组而无法直接排除这种可能性，但间接的文献综合提示这种可能性存在的概率很低。首先，已有研究发现颞中回和视运动知觉有关(Peuskens et al.,2005);而Sumiyoshi等人（2014）对小鼠进行7天的跑笼运动训练发现，运动皮层和视觉皮层灰质体积增加，该作者认为运动区的变化和运动量有关，视觉脑区的变化和环境的丰富度有关。这提示，即使本研究设置了“室内跑步”这样的活动对照组，跑步组和羽毛球运动组也只能是在运动量上匹配，但无法经历如羽毛球组那样丰富的视觉动态环境，二组可能在运动皮层的变化上差异不显著，但难以推断二组在视知觉相关脑区的变化上差异不显著。其次，我们另一个横断研究比较了羽毛球运动员、短跑运动员和普通成人的运动知觉，结果发现羽毛球运动员的知觉敏感性显著高于短跑运动员和普通成人，但后二者间的差异不显著；具体到径向运动，羽毛球运动员的知觉敏感性显著高于短跑运动员和普通成人，普通成人的显著高于短跑运动员（Liang,Yin,Liu,Zhu,Lin,&Jin，审稿中)。这证明单纯的跑步可能不易引起个体运动知觉的行为变化，提示单纯的跑步可能也不易引发个体与视运动知觉相关脑区的结构或功能变化。无论如何，更直接的有力证据需要未来更严谨的实验设计结合单变量、多变量模式分析方法来考察该问题。
+
+本实验采用干预研究得出了一些结论，扩展了以往横向研究的结果。但是本研究也存在一些问题，需要进一步研究，第一，已有研究表明灰质体积和白质FA在训练过程中是呈非线性变化的（Draganski et al.,2004; Scholz,Klein,Behrens,& Johansen-Berg,2009），而本实验仅采集了训练前后的两个时间点的数据，难以考察脑可塑性变化和训练时间的关系，未来研究可以在训练过程中采集多个时间点的数据。第二，本实验的干预时间较短（12 周），结果和以接受过十几年运动训练经历的被试为对象的研究结果的可比性较差。今后的研究中可延长训练时间、加强训练强度。第三，本实验没有应用如随机点阵等范式直接分析比较被试在羽毛球训练前后视运动知觉敏感性的变化，难以推断本研究观察到的脑结构的变化与个体视运动知觉行为表现上的变化之间的关系。未来研究可以增加行为测量，以更直接地揭示脑功能区结构变化与行为变化间的关系。第四，虽然本实验将被试随机分成了两组，但是不能完全控制视力水平的基线差异。虽然还没有研究发现，非盲人的视力水平与脑可塑性存在相关；以往研究也没有考虑视力水平在运动引发脑结构可塑性中的作用（Bezzola,MerilatGaser,& Jancke, 2011; Draganski et al.,2004; Hamzei, Glauche, Schwarzwald,& May, 2012;Jonasson et al.,2017; Lakhani et al., 2016; Reid et al.,2017; Rogge et al.,2018; Taubert et al,2010; Tavor,Botvinik-Nezer, Bernstein-Eliav,Tsarfaty,& Assaf,2019）。但是，我们不能完全排除基线视力水平在运动训练引发脑结构变化中的作用，因此，未来的干预实验应该控制被试的基线视力。第五，本研究的对照组为“不进行任何体育运动训练”，虽然使用这种设置得出的结果能够说明羽毛球作为一种运动训练，能够改变成人脑结构；但是，不能直接有力地证明这种脑结构变化是羽毛球运动训练的特异性结果。因此，未来研究可以以非拍类运动训练，如室内跑步为活动对照组，进一步研究该问题。
+
+# 5结论
+
+短期羽毛球训练可增加成人与视运动知觉有关的脑功能区的灰质容量，增加成人内囊后肢和上放射冠这两个纤维束的髓鞘厚度。总之，成年早期的脑灰质和白质均具有一定的可塑性。
+
+# 参考文献
+
+Abernethy,B.(996).Trainigtheual-perepalskilsofthletes.Isightsfrotestudyofotorexpertise.TeAmericnJoual of Sports Medicine,24,S89-S92.   
+Abermethy,B.&Zawi,K. o).Picupofssntialinematicsunderpinsexprt perceptionof ovementpates.Joualfotor Behavior,39,353-367.   
+Abreu,A.M.,Macaluso,E.,AzevedoR.T.,Cesari,P.Urgesi,C.&AgliotiS..(ol2).Actionanticipationbeyondtheaction observation network:Afunctionalmagneticresonanceimaging studyinexpertbasketballplayers.EuropeanJournalof Neuroscience, 35(10),1-9.   
+Alder,D.,Ford,P.R.,Causer,J.，&Williams,A.M.(214).Thecouplingbetweengazebehaviorandopponent kinematicsduring anticipation of badminton shots.Human Movement Science,37,167-179.   
+Baeck,J.Ki,Y.oJ,H,e,J,o.g.).iiaiootgep changes associated with intensive shooting training. Behavioural Brain Research,234,26-32.   
+Beaulieu,C.(2OO2).Thebasisofanisotropic waterdifusioninthenervoussystem-atechnicalreview.NMRinBiomedicine,15, 435-455.   
+Bezzola,L.erilat,sr,C,&cke,L.().aiininducedneralplasticitinonovces.eJourlfe 31,12444-12448.   
+Bilalic,M.,Langner,RErb,&rodd,W.().echanismsadneuralbsisofjectandpatecogitionsdih chess experts.Journal of Experimental Psychology: General,139,728-742.   
+Bishop,D.T.,Wight,M.J.Jackson,R.C,&Abernethy,B.(013).Neuralbasesfornticipationskillinsoccer:AnfMIStudy Journal of Sport &ExercisePsychology,35,98-109.   
+Blumenfeld-Katzir,T.,asteak,O.,Dga,M,&Assaf,Y.(l1).Difusionofstructuralrainplasicityiducedyaing and memory task. PLoS One,6(6),e20678.   
+Chekroud,S.RGueorgieva,R,Zeutlin,.,Paus,.KrumolzH.,Krystal,J.H,&ekrod,..(8).io between physical exerciseandmentalealthin1.2milionindividuals intheUSAbetween 2011and2015:Acro-sectionalstudy. The Lancet Psychiatry,5,739-746.   
+Di,X.,Zhu,S.,Jin,H,Wang,P.,Ye,Z,ZouK,.Rao,H.(2).Alteredrestigbrainfunctionandtructureinrooal badminton players.Brain Connectivity,2,225-233.   
+Draganski,B.,ser,Cush,VhererGogda,U.,&ay.(4).Neropsticiy:Changesinreyaeruedy training. Nature,427,311-312.   
+Everts,R.ibKeeCdshohGtei).regoealiba visuospatial functions during childhood and adolescence. Human Brain Mapping,30,473-483.   
+Gaser,C.,& Schlaug,G.(Oo3).Brain structures differ betwee musiciansand non-musicians.The Journalof Neuroscience，23, 9240-9245.   
+Ge,Y.,Grosman.bJ.bin.L,onL,&soD.L).Agerelatetalgraaede changes in normal adult brain.PartI:VolumetricMRimaging analysis.AmericanJournalof Neuroradiology,23,1327-1333.   
+Gong,D.He,H,aWLiuuang,ongLaoD.().Functioalintegatiobetweensalieceadcentraleetie networks: A role for action video game experience.Neural Plasticity,2o16,1-9.   
+Gong,D.,MaWong,J.,H,Hong,LZang,D.ao.(7).Actiovideoameeperencrelatedtolteredlarale white matter networks.Neural Plasticity,2Ol7,1-7.   
+Grezes,J.,Ft,rteal,lotCbrthC,ty).spepicao specific brainregions?Neuroimage,13,775-785.   
+Hamzei,F.,Glache,V.hwarald,,&ayA.(l2).aicateragesitcortendftetto skill trainingareassociated with their increased functional interaction.Neuroimage,59,3364-3372.   
+Hohmann,T.,Troje,N.F.,OlmosA.,& Munzert,J. (Ol).Theifluenceofmotorexpertiseandmotorexperienceonactionandactor recognition. Journal of Cognitive Psychology,23,403-415.   
+Hu,J.,Ma,Hu,.,i,u,HFg,..,.).ValoresiacqeV.ept.   
+Hulsdunker,T.,der,H.K,&ruA().Visalmotiproinbeefstervsuomotreactiodtoa Medicine and Science in Sports and Exercise,49,1097-10.   
+iReaerch. (2015). China internet $^ +$ sports report.RetrievedFebruary11,2019,from htp://report.iresearch.cn/report_pdf.aspx?id=2423   
+[艾瑞咨询.(2015).中国互联网+体育报告.2019-02-11取自htp:/report.iresearch.cn/report_pdf.aspx?id=2423]   
+Jancke,.,Koeeke,.,oe,,onger,C,angi,J.(9).echitetureothegoer'sainOne,4(3),75.   
+Jin,H.Xu.,,eteos professional badminton players. Neuroscience Letters,492,139-144.   
+Jin,H.Xu,G,ag,.Xe,Wng.,aoL..,L.).Atheicraigindionpemodlatesly componentofvisual evokedpotentials:Apreliminary investigation.InternationalJournalofPsyhophysiology,78,308-314.   
+Jonasson,..,st,.,KbC)obesete performance,andbrain structure:Resultsfromthephysical influencesonbrain inaging (PHBRA）study.Frontiersin Aging Neuroscience,8,115.   
+Kalpouzos,G,teatnJCeael,duCgs.)Voebdan gray matter volume and glucose metabolism profiles in normal aging.Neurobiology of Aging,30,112-124.   
+Kim,J.,Loy,igHusK,hdt.E.,og,..osivedisiosinliie mater pathology in a mouse modelof acute spinal cord injury. Magnetic Resonance in Medicine,58,253-260.   
+Kong,L.,,H,gPn,,i.n.().eocgaoad withhigheractioanticipatoryskill.JouralofanjingstituteofysicalEducation(Socialcience),26109.   
+[孔丽娜，王树芳，高宏巍，王品，林慧妍，白利华,.金花.(2012).高球路预期能力的羽毛球运动员能更好地加工动态信息．南 京体育学院学报(社会科学版),26,105-109.]   
+Lakhani,Ke.d promotes human brain myelin plasticity. Neural Plasticity,2Ol6,1-7.   
+Lestou,V.ollckE,ou,Z.).raratectiodedgatnttsin brain.Journal ofCognitive Neuroscience,20,324-341.   
+Liang,Z.,Yin,D,Liu,T.Zu,,in,H.,&Ji,H.(9).Highperceptualsensitivitytolobalmotioninbadmintonpla International Journal of Sport Psychology,under review   
+Liu,L.(2018).AnalsisonthedevelopmentstatusofbadmintoandtabletenisindustriesinO18Domesticcompetionstregthis strong.Retrieved February11,2019,from htps://www.sohu.com/a/221173517_99900941   
+[刘凌云．(2018).2018年羽毛球、乒乓球行业发展现状分析国内竞争实力强．2019-02-11取自 https://www.sohu.com/a/221173517_99900941]   
+Liu,T.,Sao,n,n,.og,.).otorghe action anticipation for adult novices: Evidence from behavior and ERPs. Neuroscience Letters,66o,6-11.   
+Lovden,M.,er,ack,odaer.CKun,.eine,H.J.debergerU.().atiaaigati protectsthehippocampusagainstage-relatedchangesduringearlyndlatedulthood.NurobiologyfAging33(3),60.e9e.   
+Luo,C.,Guo,Z.W.,LaiY.X,LiaoW,iu,Q.,Kendrick,K.M,&Li,H.().Musicaltraininginducesfuctionalplasicityn perceptual and motor networks: Insights from resting-state FMRI.PLoS One,7(5),e36568.   
+Oldfield,R.C.(1971).Theassssment and analysis ofandedness: Theedinburgh inventory.Neuropsychologia,9,97-113.   
+Park,IS.L,Y.Ko,.,,J.).easebsb Anatomy&Cell Biology,48,262-267.   
+Pelphrey,K.A.,Moris,J.P.,&McCarthyG.(o).Grasingheitentiosofothrs:Teperceivedintentionalityfaactio influencesactivityinthesuperiortemporalsulcusduringsocialperception.JournalofCognitiveeuroscience,6,7061716   
+Peuskens,H.,Vie,JVerfaille,K,&Oba,G.A.).SpifiyfrgiospressggicaoEroJolf Neuroscience,21,2864-2875.   
+Pfeferbaum,A.,Mathalon,D.H,Sulivan,E.V.,Rawles,J..,Zipursky,R.B.,&Lim,K.O.(994).Aquantitativemagnetic resonanceimagingstudyofchanges inbrainmorphologyfrominfancytolateadulthood.ArchivesofNeurology,5174887.   
+Reid,L.B.,Sale,.V,uigton,R.,atingley,..&ose,S.E.(7).rainhangesfollowingfourweeksofual motor training: Evidence from fMRI-guided diffsion MRI tractography. Human Brain Mapping,38,4302-4312.   
+Roge,A.K.,de,,h,tig,K).Eeiseuedeoplasicitycergieasotia in visualand vestibularcortical regions.Neuroimage,179,471-479.   
+Schmithorst,V.J,&Wilke,M.(O2).Dierencesinwhitematerarchitecturebetweemusiciansndon-musicians:Adifusion tensor imaging study. Neuroscience Letters,321,57-60.   
+Scholz,J.,Kein,.Ches,.E.s-Ber,H.().iingiduchagesinite-atrarchiteture.aue Neuroscience,12,1370-1371.   
+Shen,G.,Zhang,J,Wang,H,Wu,Y.,Zeng,Y.&Du,X.(14).Aereditematerarchitectureamongollgtletes:Ausion tensor imaging study. Journal of East China Normal University (Natural Science)(4),94-101.   
+[沈国华，张剑，王慧，吴殷，曾雨雯，杜小霞.(2014).大学生运动员脑白质的变化：基于磁共振扩散张量成像研究．华东师范大 学学报(自然科学版)(4),94-101.]   
+Smeton,N.Jd,s).loaso of Sports Sciences,22,205-213.   
+Song,S.K.,un.W.amsbotom,.J,hang,C.,usel,J.,CossA.H.().myeliaorevealedthrogh increased radial (but unchanged axial) difusion of water. Neuroimage,17,1429-1436.   
+Sowell,E.R.terson,B.omon,P..eome,.E.keusA.Lga,..).grialge across the human life span. Nature Neuroscience,6,309-315.   
+Sumiyoshi,A.Taki,Y.Nonaka,H.Takeuchi,H.,&Kawashima,R. (o4).Regionalgraymatervoumeincreasefowingdasof voluntary wheel running exercise: A longitudinal VBMstudy in rats.Neuroimage,98,82-90.   
+Sun,S.W.,LingH.Fos,A.og,..8).vinglaeatioterasteale characterized by diffusion tensor imaging. Neuroimage,40,1-10.   
+Tamnes,C.K.,Waovd,K..,Dle,A.,OstbyY.,Gydeland,H.,RichardsonG,..Fjell,A..(13).Braindevelopntd aging: Overlapping and unique patterns of change. Neuroimage,68,63-74.   
+Taubert,M.,asideArKr,,Vng.g,.).acrorso brainstructure:Learning-relatedchangesincorticalareasandasociatedfiberconnections.TheJournalofNeuroscience，30 11670-11677.   
+Tavor,1,Botvink-Nezer,R.,Bestein-Elia,M.,TsafatyG.,&Assf,Y.(19).Sort-termplasticityfollowingmotorqence learning revealed by difusion MRI. bioRxiv,553628.   
+Thomas,A.G.,Marret,S.,aad,Z.S.uff,D.A.,MartiA.&Bdetini,P.A.(09).Fuctionalbutnotstructurahang asociated with learning:An exploration of longitudinal voxel-based morphometry (VBM).Neurolmage,48,117-125.   
+Wang,B.,Fan,Y.Lu,,Li,S.,ong,Z.eng,X,.uangR. (3).rainanatocalnetworksinworldclassgyas: tractography study. Neuroimage,65,476-487.   
+Wang,X.,Casado,M.,Weber,K.N.,ussa-valdi,F.A,&Parrsh,T..(14).Whitematermicrosructurechangesinducedby motor skill learning utilizing a body machine interface.Neuroimage,88,32-40.   
+Wei,G.,&LuoJ.().Stertsotorgeryucalaingfrofiolotorsildeoto Research,1341,52-62.   
+Wei,G.,Luo,J,&L,Y.(9).BrainstrctureinvingplaersoMimagingsudiedithoxel-basedmorphometryresin Natural Science,19,1397-1402.   
+Wei,G.,Zh,Yag,TuoJ(l)eadialsiosxp:sofgi controls.PLoS One,6(2),e17112.   
+Westlye,L.Tod,.ale,.odAeonPgig,.el,.)es the human brain white matter: Difusion tensor imaging(DTI) and volumetry.Cerebral Cortex,20,2055-2068.   
+Wright,M.J.,shop,D.ackson,R.C&AberethyB.(2l1).CorticalfIactivationtopponents'bodyinaticsin sport-relatedanticipation:Expert-novicediferenceswithormalandpoint-lightvieo.NeurocienceLettrs,5O,16221.   
+Wu,Y.,Zhang,eng,&eC.O).truturalblasicitygeitleteocadiretsorts.t Science,35,52-57.   
+[吴殷，张剑，曾雨雯，沈城.(2015).不同类型运动项目对运动员大脑结构可塑性变化研究．体育科学,35,52-57.]   
+Zhang,J,Jy.eichel.onabsi,..)sieo resonancimagingofwalerian degenerationinratspinalcordafterdorsalrotaxotomy.TheJournalof Neuroscience,29, 3160-3171.   
+Zhang,Y.,WeiGZuoJ,Li,YYe,W,&ang,.().Regioaliationofthealamusadglobuspausindiing Medicine and Science in Sports and Exercise,45,1O77-1082.
+
+# Altered Structural Plasticity in early adulthood after Badminton
+
+# Training
+
+BAI Xuejun1; SHAO Menglingl; LIU Tingl; YIN Jianzhong²; JIN Hual (Faculty ofpsychology,TianjinNormal University,Tianjin30o387,China)(DepartmentofRadiology,Tiajin First CenterHospital,Tianjin300192,China)
+
+# Abstract
+
+Brain imaging studies have found that the athletes engaged in racquet sports showed different brain structure and function based on expert-novice paradigm. However, the present findings cannot fully interpret the role of sport experience in brain plasticity. For example,it is still not clear whether such differences in brain structure are due to training experience or innate differences. The aim of the present study was to investigate whether young adults' brain structures are influenced by a short period of badminton training experience.
+
+A group of young adults (23 \~ 27 years) without any professional or amateur sports training were recruited to take part in the experiment. They were randomly divided into either the experimental group (21 non-athletes) or the control group (17 non-athletes). Participants in the experimental group were trained for l2 weeks (one hour each time and three times each week), and participants in the control group did not attend any regular sport trainings during this period. Structure imaging and diffusion tensor imaging (DTI) techniques were used to assess the effects of badminton training on the brain structural plasticity in young adults. T1 images and DTI data for all participants were collected before and after the intervention. Voxel-based morphometry (VBM) and Tract-based spatial statistics (TBSS）were used to perform a whole-brain analysis of the T1 and DTI data respectively. A 2 (participant group: experimental group, control group) $\times 2$ (test time: pretest, posttest) repeated measure ANOVA was used to perform statistical analysis.
+
+The results showed that there were significant interactions between participant group and test time for the gray matter volume in the left inferior occipital lobe,middle temporal gyrus and inferior temporal gyrus.Specifically，participants in the experiment group exhibited increased gray matter volume in the above brain regions after the training, whilst participants in the control group showed decreased gray matter volume in the left middle temporal gyrus at posttst as compared to pretest.Furthermore，for the participants in the control group,there were no significant differences between pretest and posttest in the volume of left inferior occipital lobe and inferior temporal gyrus. In relation with the white matter microstructures,the experiment group had increased fractional anisotropy (FA) in the bilateral posterior limb of internal capsule and the superior corona radiate in postest as compared to pretest. And the increased FA was induced by decreased radial diffusivity (RD). In contrast, the control group had decreased FA and increased RD in the above fibers at posttest relative to pretest.
+
+Taken together, these results suggest that badminton training increased the gray matter volume in the brain regions related to visual motion perception processng and increased the myelin sheath thickness of the fibers associated with motor learning. These results imply that in early adulthood,the gray matter and white matter of the brain might have plasticity to some extent.
+
+Key words badminton training; early adulthood; brain plasticity
+
+# 附件1：协方差分析结果
+
+将前测作为协变量，对后测进行统计检验，该结果和重复测量结果一致，具体描述如下：
+
+（1）灰质体积的协方差分析结果：
+
+分别将左下枕叶、左颞下回、左颞中回的前测体积作为协变量，对实验组、对照组的这些脑区的后测体积进行协方差分析，结果显示，左下枕叶：两组后测差异显著‘ $( F \left( 1 , 3 7 \right) =$ 45.59, $p = 0 . 0 0 0$ $\mathfrak { \eta } ^ { 2 } = 0 . 5 6 \$ ，实验组（ $0 . 2 6 0 { \scriptstyle \pm 0 . 0 0 3 }$ ）显著高于对照组（ $\left( 0 . 2 3 4 \pm 0 . 0 0 3 \right)$ 。左颞下回：两组后测差异显著 $( F \left( 1 , 3 7 \right) = 4 6 . 1 8 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 5 6 )$ ，实验组（ $0 . 3 2 7 { \scriptstyle \pm 0 . 0 0 3 }$ ）显著高于对照组（ $\left( 0 . 3 0 1 { \scriptstyle \pm 0 . 0 0 3 } \right)$ 。左颞中回：两组后测差异显著 $( F \left( 1 , 3 7 \right) = 4 9 . 9 1 \$ ， $p < 0 . 0 0 1$ ， $\ \eta ^ { 2 } =$ 0.58)，实验组（ $\langle 0 . 3 9 3 { \scriptstyle \pm 0 . 0 0 3 }$ ）显著高于对照组（ $\cdot 0 . 2 6 6 { \pm } 0 . 0 0 3 \rangle$ ）°
+
+该结果说明，在控制了前测差异后，实验组羽毛球训练后，左下枕叶、左颞下回、左颞中回灰质体积显著高于对照组。该结果和重复测量方差分析结果一致，说明羽毛球训练干预有效。
+
+（2）白质FA的协方差分析结果：
+
+分别将双侧内囊后肢、双侧上放射冠的前测FA作为协变量，对实验组、对照组的这些脑区的后测FA进行协方差分析,结果显示,左内囊后肢：两组后测差异显著 $( F \left( 1 , 3 7 \right) = 2 1 . 0 7$ $p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 3 7 )$ ，实验组（ $0 . 6 6 5 { \scriptstyle \pm 0 . 0 0 4 }$ ）显著高于对照组（ $\cdot 0 . 6 3 4 { \pm } 0 . 0 0 5 \$ )。右内囊后肢：两组后测差异显著 $\left( F \left( 1 , 3 7 \right) = 2 2 . 5 3 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 3 9 \right)$ ，实验组（ $0 . 6 8 5 { \scriptstyle \pm 0 . 0 0 3 }$ ）显著高于对照组 $\left( 0 . 6 6 2 { \scriptstyle \pm 0 . 0 0 3 } \right)$ )。左上放射冠：两组后测差异显著 $( F ( 1 , 3 7 ) = 1 7 . 6 2 , p < 0 . 0 0 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 3 3 \mathrm { ~ , ~ }$ ，实验组（ $\langle 0 . 6 3 9 { \scriptstyle \pm 0 . 0 0 4 }$ ）显著高于对照组（ $\cdot 0 . 6 1 5 { \scriptstyle \pm 0 . 0 0 4 } )$ 。右上放射冠：两组后测差异显著（ $F$ （204号 $( 1 , 3 7 ) = 3 0 . 1 0 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 4 6 )$ ，实验组 $\left( 0 . 5 9 3 { \scriptstyle \pm 0 . 0 0 3 } \right)$ )显著高于对照组（ $( 0 . 5 7 0 { \scriptstyle \pm 0 . 0 0 3 } )$ 。
+
+（3）白质RD的协方差分析结果：
+
+分别将双侧内囊后肢、双侧上放射冠的前测RD作为协变量，对实验组、对照组的这些脑区的后测RD进行协方差分析,结果显示,左内囊后肢：两组后测差异显著 $( F ( 1 , 3 7 ) = 1 7 . 7 2 \$ $p < 0 . 0 0 1$ ， $\mathfrak { n } ^ { 2 } = 0 . 3 3 \mathrm { ~ ; ~ }$ ，实验组（ $\cdot 3 . 8 7 { \times } 1 0 ^ { - 4 } { \pm } 6 { \times } 1 0 ^ { - 6 } \rangle$ ）显著低于对照组 $( 4 . 2 3 \times 1 0 ^ { - 4 } \pm 6 { \times } 1 0 ^ { - 6 } )$ 。右内囊后肢：两组后测差异显著 $\left( F \left( 1 , 3 7 \right) = 1 3 . 6 2 , p = 0 . 0 0 1 , \eta ^ { 2 } = 0 . 2 7 \right)$ ，实验组 $( 3 . 7 3 { \times } 1 0 ^ { - 4 } { \pm } 4 { \times } 1 0 ^ { - 6 } )$ 显著低于对照组（ $( 3 . 9 6 { \times } 1 0 ^ { - 4 } { \pm } 4 { \times } 1 0 ^ { - 6 } )$ 。左上放射冠：两组后测差异显著 $( F ( 1 , 3 7 ) = 5 . 9 3 , p =$ 0.02, $\eta ^ { 2 } = 0 . 1 4 )$ ，实验组（ $\cdot 4 . 4 7 { \times } 1 0 ^ { - 4 } { \pm } 6 { \times } 1 0 ^ { - 6 } \rangle$ ）显著低于对照组（ $( 4 . 7 1 { \times } 1 0 ^ { - 4 } { \pm } 7 { \times } 1 0 ^ { - 6 } )$ 。右上放射冠：两组后测差异显著 $\left( F \left( 1 , 3 7 \right) = 1 2 . 6 4 \right.$ $p = 0 . 0 0 1$ $\mathfrak { \eta } ^ { 2 } = 0 . 2 6 \$ ），实验组（ $4 . 5 0 { \times } 1 0 ^ { - 4 } { \pm } 4 { \times } 1 0 ^ { - 6 } )$ （20显著低于对照组（ $( 4 . 7 7 \times 1 0 ^ { - 4 } \pm 5 \times 1 0 ^ { - 6 } )$ 。
+
+（4）白质AD的协方差分析结果：
+
+分别将双侧内囊后肢、双侧上放射冠的前测AD作为协变量，对实验组、对照组的这些脑区的后测AD进行协方差分析，结果显示，在这些脑区中，两组被试的后测均无显著差异（左内囊后肢： $p = 0 . 1 . 6$ ；右内囊后肢： $p = 0 . 1 4 0$ ；左上放射冠： $p = 0 . 2 2 8$ ；右上放射冠： $p$ （204号$= 0 . 1 6 5 \mathrm { ; }$ °
+
+该结果表明，在控制了前测差异后，实验组羽毛球训练后双侧内囊后肢、双侧上放射冠的 FA 显著高于对照组。进一步的结果显示，在控制了前测差异后，实验组羽毛球训练后双侧内囊后肢、双侧上放射冠的RD 显著低于对照组、AD 和对照组无显著差异，表明，实验组双侧内囊后肢、双侧上放射冠FA 增加是由RD下降引起的。该结果和重复测量方差分析结果一致，说明羽毛球训练干预有效。

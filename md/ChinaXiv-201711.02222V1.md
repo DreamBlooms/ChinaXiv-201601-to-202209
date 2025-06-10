@@ -1,0 +1,138 @@
+# DOI: 10.5846/stxb201608181686
+
+朱慧，王德利,任炳忠.放牧对草地昆虫多样性的影响研究进展.生态学报,2017,37(21)：7368-7374.ZhuH,Wanentsfgbossesiasdctalcca）
+
+# 放牧对草地昆虫多样性的影响研究进展
+
+朱慧1,2,\*，王德利²，任炳忠
+
+1东北师范大学生命科学学院，长春130024  
+2东北师范大学草地科学研究所，植被生态科学教育部重点实验室，长春130024
+
+摘要;在草地生态系统中,大型草食动物放牧是重要的管理方式之一,对草地生物多样性起着关键的驱动作用。昆虫是草地生态系统中生物多样性的重要组成成分,对生态系统的食物网结构以及其功能与稳定性起着关键作用。已有研究结果表明,大型草食动物与昆虫存在密切联系,放牧对草地昆虫多样性或有正向、或负向、或无明显作用,这依赖于放牧管理方式、昆虫类群以及草地类型。放牧必然通过直接(采食、践踏或粪尿)或间接(植物群落组成或植被结构)作用对昆虫多样性产生显著的影响。当前,关于大型草食动物放牧对草地昆虫多样性影响研究较多,但是,从研究系统性、深入性和延续性来说还存在一定问题。本文在综述国内外对放牧对草地昆虫多样性的影响研究基础上,提出了今后的研究方向,对于理解放牧管理的草地昆虫多样性变化规律,以及为积极探索维持草地昆虫多样性的长期有效的科学管理措施提供理论指导。
+
+关键词：大型草食动物；放牧；草地;昆虫多样性；作用机制
+
+# Effects of grazing by large herbivores on insect diversity in grasslands
+
+ZHU Hui1,2,\*，WANG Deli²，REN Bingzhong1   
+1School of Life Sciences，Northeast Normal University，Changchun 130024，China   
+2KeyLborofsl
+
+Abstract:In grasslandecosystems，grazingbylarge herbivores isanimportant managementtool,and playsacentralrolein driving biodiversity.Insectsare importantcomponentsof biodiversityin grassands，and stronglyafect food-web structure, as well as ecosystem functioningandstability.Many studies have shown that thereare closerelationships between large herbivores and insects.Theefectsof large herbivores on grasshopper species richness and abundance in grazed grassland ecosystems are inconsistent（positiveefects，negative effects，and neutral effects），and theeffectstrongly dependon grazing management,，insect guild，and grasland type.Grazing afects insectdiversity both directly（foraging，trampling， and fecesand urine）and indirectly（altered vegetation structure and plant communitycomposition）.Although a growing number of studies have shown that large herbivores can strongly afect insect diversityand abundance，greater aditional eforts regardingtheresearch onthesystematisms，depth，and continuityoftheresponseof insect diversityto grazingare still eeded.This paperreviews the known effectsof large herbivore grazingon insect diversity，and identifiesanumberof issues thatremain poorly understodand require further research.Theresultsof thesestudies could improve our understanding of changes in insect diversity，and provide theoretical supprtfortheplannng of management strategies aimed to conserve of insect diversity in grazed grassland ecosystems.
+
+Key Words: large herbivores；grazing；grassland； insect diversity；mechanisms
+
+昆虫是草地生态系统中动物多样性与生物量的重要组成部分，是食物链的关键环节,在维持草地生态系统功能与稳定性方面起着重要的作用[1]。然而,由于全球气候变化、人类活动和草地资源不合理利用,昆虫多样性面临着部分昆虫种类丧失,导致昆虫多样性减少[2],并且昆虫多样性减少的速度远远高于植物与脊椎动物[3]。全球草地面积约为 $3 . 4 2 \times 1 0 ^ { 9 } ~ \mathrm { h m } ^ { 2 }$ ,约占陆地面积的 $4 0 \%$ ,是地球上分布最为广泛的陆地生态系统[4]。草地是被管理的生态系统,大型草食动物放牧是重要的管理方式之一。已有大量研究表明,放牧对草地生态系动态有强烈的作用,例如改变植物多样性、生产力等[5-6]。由于草地昆虫群落与植物群落密切联系[7-8],因此,放牧导致的植被变化必然引起昆虫群落发生改变[9-11]。目前,草地昆虫多样性如何响应大型草食动物放牧研究一直是生态学家和昆虫学家关注的热点问题,在昆虫生态学中被日益强调。尽管对于放牧是如何影响昆虫多样性已有一定的认识,但对昆虫多样性如何响应放牧的相关途径与内在机制仍然缺乏深入理解。本文结合已有的相关研究,对放牧影响草地昆虫多样性及其作用途径进行总结,对于理解放牧干扰下草地昆虫多样性变化规律,以及维持草地生态系统的健康与可持续发展有重要的科学价值,同时为积极探索维持草地昆虫多样性的长期有效的科学管理措施提供理论指导。
+
+# 1放牧对草地昆虫多样性的作用
+
+根据目前的文献报道，许多研究已经证实，大型草食动物的放牧活动对昆虫产生重要作用[12-13],且作用结果存在不一致的研究结论（图1)。一些研究工作表明，与无牧相比，昆虫多样性和数量在放牧样地较小[14-16]。而另一些研究结果显示,放牧增加昆虫多样性和数量[17-18]。研究者们已经逐渐意识到这些研究结果之所以有明显差异，可能是受到放牧强度限制。在放牧对昆虫多样性的影响研究中，更多研究都集中在放牧强度对昆虫多样性的作用[19],且多数研究结果证明，随着放牧强度增加，昆虫多样性与数量逐渐增加[20-22]，并且在适度放牧强度下维持较高的昆虫物种丰富度[23]放牧对草地昆虫多样性影响的另一个方面集中在放牧方式上。实验性研究发现,与单一大型草食动物种类放牧相比,两种或两种以上大型草食动物混合放牧能够促进昆虫多样性[10],并且不同分类群的昆虫数量在单一放牧和混合放牧条件下响应也是存在明显差异的[11]。同时,还有研究结果表明,在进行轮牧的放牧样地中蝗虫的物种丰富度最高,而在持续放牧的样地中最低[24]。放牧对昆虫多样性的影响不仅仅限制在放牧强度和放牧方式上,放牧季节变化也能够改变昆虫多样性对放牧的响应。春季放牧时蝗虫数量显著低于秋季放牧[25],这可能与蝗虫的生物学与生态学特性有关。
+
+![](images/639514a6d828e29934916ccf212f6cb0b01db7581e3ecd67cb7a18999277f645.jpg)  
+图1大型草食动物对草地昆虫多样性的作用结果及其影响因素 Fig.1Effects of large herbivore grazing on grassland insect diversity，and these effects strongly depends on different factors
+
+放牧对草地昆虫多样性的影响依赖于研究的昆虫类群,即研究的昆虫类群不同,也能使研究结论不一致[26]。例如,在放牧样地,蝗虫[27]、蛾类[28]、蝴蝶[29]多样性减少,而甲虫[30]和蝇类[31]的多样性则增加。一般来说,蝗虫、鳞翅目昆虫的幼虫为植食性昆虫,大型草食动物的采食后使这些昆虫的食物资源受到严重影响,致使昆虫因缺少充足的食物或无高质量的食物而降低昆虫生产性能,特别是生存率和繁殖能力降低[32]。由于昆虫生产性能密切联系着昆虫种类和数量,从而减少这一类群昆虫多样性。在昆虫群落中,甲虫类群(更多为地面甲虫)和蝇类昆虫属于腐生性昆虫,在放牧草地生态系统中,主要以放牧动物粪便和血液为食物。当草地进行放牧管理时,由于放牧家畜的粪尿,必然能够吸引部分粪食性甲虫和吸食动物血液的蝇类昆虫,因此增加该类群的昆虫种类及数量[33]。另外,还有研究证据表明,大型草食动物的出现能够增加壁虱数量[34],但是却减少跳蚤数量[35]。
+
+此外,草地昆虫多样性对放牧的响应存在差异还可能由于草地类型不同。放牧影响蝗虫多样性的研究在不同草地类型中开展相应的研究工作,但对研究结论进行比较发现,放牧对蝗虫多样性有或增加或减少的作用。例如,在典型草原中,放牧减少蝗虫物种丰富度,而在荒漠草原中,放牧则使蝗虫物种丰富度增加[27]。在美国高草草原(tallgrass prairie）和中国的草甸草原(meadow steppe）上的研究表明,放牧增加蝗虫的物种多样性和数量[11,14],但是在美国半干旱草地研究结果认为放牧并没有影响蝗虫多样性[13]。导致不一致研究结果的原因可能是不同的草地类型的植物群落存在较大差异,同时气候条件(包括温度和降水)也有不同程度的改变,蝗虫对生境的长期适应使在不同草地类型中多样性变化存在不一致性,放牧可能是蝗虫多样性响应的不一致性变得更为复杂,因此使研究结论存在差异。
+
+# 2放牧对昆虫多样性的作用途径
+
+大型草食动物放牧对草地昆虫多样性有着显著作用,为了深入理解这种影响,放牧对昆虫多样性的作用途径及其机制已经成为本领域的另一重要科学问题。作为草地重要管理方式之一，放牧能够通过采食（foraging）、践踏（trampling）和粪尿排泄（faecesandurine)等途径直接影响昆虫多样性，也能够改变植物群落组成或者结构间接作用于昆虫多样性（图2）。
+
+# 2.1放牧对昆虫多样性的直接作用途径
+
+大型草食动物对草地植物进行采食，这种采食无意识地对生活在植物茎、叶上或者内部的昆虫多样性产生影响。一般来说，一部分昆虫易在植物的茎、叶上产卵或栖息，当大型草食动物采食时,不能迅速移动的昆虫则会被大型草食动物采食，从而减少该昆虫数量减少[37-38]。若在放牧生境中这种昆虫数量极少或较少,草食动物的采食则导致这种昆虫种类消失,从而减少放牧样地的昆虫多样性。但是这一相关结论并未被通过实验性研究验证,只是通过模拟采食(例如刈割)实验得出大型草食动物放牧能够引起昆虫较高的死亡率[39],从而降低昆虫多样性。因此,放牧动物的采食对昆虫多样性的无意识地潜在作用需要更多的实验检验。大型草食动物放牧除了采食之外,践踏对昆虫多样性也有着重要影响。放牧动物在草地上采食的同时,对草地也实施了践踏作用,致使土壤容重、土壤含水量等受到严重影响[40],进而改变昆虫产卵选择,特别是对把卵产在土壤中的昆虫(如蝗虫)。另外,由于践踏作用使植物叶片容易凋落,把卵产在叶片的昆虫因为没有合适的产卵位置也会另寻合适的生境及寄主繁殖后代。大型草食动物践踏通过对昆虫生存、产卵等行为有着强烈影响[4142],进而改变昆虫多样性。但是,有关大型草食动物践踏对昆虫多样性的影响以及清晰的作用机制的研究较少。由于采食和践踏作用实施野外控制实验较为困难,同时对昆虫观察方法（一些潜叶类昆虫和一些土壤昆虫)存在限制性因素,导致这方面的相关研究只停留在理论方面,并未进行控制和野外实验进行验证。
+
+![](images/73eb3ce27344b4a7473b5e49d4fec6d4f7c6fc142cde7b0daa65c32e21bbe73b.jpg)  
+图2大型草食动物放牧对昆虫多样性影响的直接和间接途径的 概念框架[36] Fig.2A conceptual framework of the mechanistic pathways by which large herbivore grazing directly and indirectly affect insect diversity[36]
+
+除采食和践踏,大型草食动物对昆虫多样性的直接作用途径的另一重要方面是放牧动物粪便的影响。在草地昆虫群落中,有一部分昆虫处于分解者地位,属于腐食性昆虫,即以动物的尸体和粪便作为食物，因此，大型草食动物粪便对这部分昆虫有着潜在作用。已有研究表明,放牧对粪食性甲虫多样性和数量有明显的促进作用[43-44],但是,较高的放牧强度仍然对粪甲虫昆虫多样性和数量有负作用[45-46]。尽管这些研究是研究放牧对粪食性甲虫的作用,但都从改变植物群落结构影响甲虫多样性,而没有从大型草食动物粪便角度进行分析。从理论上可以表明,大型草食动物能够通过粪便提高腐蚀性昆虫多样性,但通过野外实验证明这一结论却较少,其原因如下;第一,放牧动物在采食过程是随机的,致使粪便在草地上的分布有较大的异质性,粪食性甲虫多样性的变化是否是因为粪便的作用是很难分辨的。第二,应用常规的地面粪食性甲虫取样方法（陷阱法trap-netting)存在一定弊端,不能较为准确衡量甲虫数量的变化,使实验的可操作性受到限制。因此,需要对取样方法进行改进，才能更好地理解放牧对粪食性昆虫多样性影响。
+
+# 2.2放牧对昆虫多样性的间接作用途径
+
+# 2.2.1 植物群落组成
+
+生态学家关于放牧影响植物多样性研究已经有较长的研究历史[5,47-49],相应的结论表明,大型草食动物对植物多样性或者有正向作用、或负向作用、或者无明显作用,这依赖于不同的立地条件、不同的草地类型等因素。昆虫属于消费者,必然与植物(生产者)有着紧密联系[7],已有研究报道,随着植物多样性增加,昆虫多样性也随之增大[8.50-51],这一结论不仅体现在植食性昆虫上,对于捕食性昆虫和寄生性昆虫也是适用的[8.52]。鉴于昆虫与植物的紧密关系,大型草食动物能够通过改变植物群落组成,特别是多样性影响昆虫多样性和数量（图2)。Joem在高草草原的研究表明,放牧可以通过改变植物物种丰富度从而增加蝗虫的物种多样性和数量[14]。Zhu等人在草甸草原的研究结果显示,大型草食动物对植物多样性无影响,但是昆虫多样性却发生较大变化[1]。因此,该研究认为植物多样性对放牧的响应似乎不能作为昆虫多样性变化的一个合理的作用途径。到目前为止,关于放牧通过改变植物多样性影响昆虫多样性的研究并不多,可能是因为在放牧条件下,植物多样性要经过长期的作用才能发生变化,进而影响昆虫多样性,因此,若要验证这个途径需要长期放牧的实验性研究。
+
+大型草食动物也可以通过调节植物群落组成改变而影响昆虫多样性和数量。在温带的草地生态系统中研究发现,大型草食动物放牧使禾本科植物盖度增加,由于食物资源增加,导致与禾本科植物密切联系的植食性昆虫物种丰富度增大[53]。在放牧条件下,如果放牧动物偏食杂类草,放牧使开花的杂类草植物种类及盖度减少,进而对访花昆虫有负向作用[54]。这些结论表明,放牧能够改变与昆虫密切相关的植物功能群变化从而对昆虫多样性有着重要作用。此外,通过对不同放牧强度对蝗虫数量研究发现,在重度放牧强度下,蝗虫数量显著增加[22],这是由于大型草食动物采食后蝗虫的食物(植物)营养含量(N 含量)降低,并且通过室内试验得出植物营养含量增加,蝗虫的生存率降低。但是也有相反的结论,研究认为放牧使植物营养含量增加,从而引起昆虫数量增大[55]。因此,大型草食动物也能通过改变植物的特性(plant trait)——营养含量也能够影响昆虫的数量和多样性。放牧通过影响植物群落组成改变草地昆虫多样性,更多由于影响了昆虫的食物资源，包括食物数量和食物质量。
+
+# 2.2.2 植物群落结构
+
+大型草食动物对植物有强烈的采食作用,由此改变植被高度和结构的复杂性,这必然改变昆虫的生境条件进而作用于草地昆虫多样性(图2)。对于昆虫来说,生境结构是影响其多样性和数量的一个重要因素。由于大型草食动物的选择性采食,放牧能够改变生境[56],特别昆虫微生境的气候条件。一方面,对于昆虫来说，高和矮的植物群落提供的生境环境存在显著差异,因此影响昆虫多样性和数量。例如,放牧后,植被变得较矮甚至暴露地表,这就使昆虫的微生境变暖,特别是有较高的土壤温度,有利于一些蝗虫和蝴蝶的幼虫发育[57-58],这样的生境有利于把卵产在土壤中的昆虫种类以及那些幼虫喜好光照的昆虫种类。另一方面,高的和密度大的植被也可以使昆虫遇到低温时作为一个温度缓冲场所[59],或者也能作为昆虫遇到极端环境（如干旱和洪水)的庇护所[60]。同时,较高的植被能够提供更多的食物资源以及较低被捕获机率[61-62],因此,较高植被会比低矮植被容纳更多的昆虫种类。
+
+在草地生态系统中,植物群落常常是异质性分布的,其空间异质性变化能够影响昆虫多样性和数量。一方面,大型草食动物由于食性选择可以增加植被异质性[11],同时也有相反的结论,即放牧也能使植被异质性降低[63]。近期的研究表明,大型草食动物放牧能够通过改变植物高度异质性进而调节昆虫多样性[1],因此,关于昆虫多样性的驱动因素研究中,除了关注植物多样性与群落组成，应对植被空间异质性给予更多的认识。Jerrentrup 等人通过长期的实验也证明在放牧影响昆虫多样性的因素中,植物群落异质性是非常重要的[64]。
+
+但是,放牧引起的植被结构异质性将强烈影响昆虫多样性的实验性证据较少[65]。同时,放牧对植被异质性的作用是尺度依赖的[63]。例如,在小尺度范围下,放牧能够使植被同质性增强,而在大尺度范围,则异质性增强。然而,放牧对草地昆虫多样性的影响是否是尺度依赖的还未有相关研究证明,因此,要加深在不同空间尺度上放牧对植被异质性的作用以及变化的异质性与昆虫多样性关系研究,才能够有更助于理解大型草食动物对草地昆虫多样性的影响。
+
+# 3讨论
+
+第一,尽管大型草食动物放牧对草地昆虫多样性的作用已有一定的理解和认识,但是由于放牧强度、放牧方式以及研究的昆虫类群等方面,致使结果存在一定差异。同时,关于放牧对草地昆虫多样性的影响都是在局域尺度上进行,不同地区的植被类型、气候以及地形等因素也会引起研究结果不一致。为了更好地、更深入的理解昆虫多样性对放牧的响应,需要在一个较大的尺度上(如区域尺度和全球尺度)进行实验性或观察性研究,使研究结论更为真实可靠。
+
+第二,研究者更多是关注“大型草食动物放牧是否对昆虫多样性产生作用"以及“作用结果如何”等问题，而对于放牧究竟如何调节昆虫多样性,即“大型草食动物对草地昆虫多样性的作用途径是什么"等问题迄今仍没有一致性的结论,仍然需要更多的实验性研究工作进行检验。尽管很多研究都已经证明,放牧可以通过植物物种组成、结构以及空间异质性间接改变昆虫多样性,但哪个因素起着主导作用却缺乏相应的研究工作，也就是,通过哪个途径影响草地昆虫多样性的强度更大一些。同时,有关放牧对昆虫多样性的直接作用研究较少,特别是大型草食动物的采食、践踏以及粪便如何影响昆虫多样性的具体机制并不清楚。
+
+第三,在草地生态系统中关于食物网研究成为最近的科研工作者关注的焦点之一,昆虫在食物网结构中起着重要作用。大型草食动物对草地生态系统中食物网研究还处于起步阶段,放牧如何通过影响昆虫多样性改变草地生态系统食物网？是上行控制效应还是下行控制效应？因此,放牧条件下昆虫多样性变化对食物网结构影响以及昆虫发挥的重要作用将成为重要的研究方向。
+
+# 参考文献（References）:
+
+1]BelosGadesbeeaestespauroceof the United States of America,2000,97(26)：14412-14417.  
+2]olin  
+[3]TomsJrGresodJshJkewJaratieoefriiseds，and plants and the global extinction crisis.Science，2004,303(5665）：1879-1881.  
+4]Conantttetaltedadbalgs90-9.  
+[5]BakerEiceEOlffH,isG,KosJHrboactogsdplantitepedsobiatructiiherbivore size.Ecology Letters,2006,9（7）：780-788.  
+[6]KoeerSE，ollnsSIteraciefsofgrangroughtndfirograssandplaouiieinrthmeandhrica.Ecology，2014,95(1): 98-109.  
+[7］）朱慧，彭媛媛,王德利.植物对昆虫多样性的影响.生态学杂志，2008，27（12)：2215-2221.HaddadNM,rutsingerGrossK,arstadJ,KosJHnD.Plantspeiesscreasearthooddiverstdssrocstructure.Ecology Lettrs，2009，12（10）：1029-1039.DavidsonAD,PoceE,LightfotDC,redricksonEL，BrownJH,CruzadoJ,BrantleySL,Siera-CoronaR,ListR,ToledoD.Rapidresponseofagassndcosystemtanexperimentalmanipulationofakeystonerodentanddomestclivestock.Ecology0l，9（1）：3189-3200.  
+[10]ZhuH,WanguoF,LuJWngLteractitsfgerbvoesdpldersityosendceidoeeChina.Agriculture，Ecosystems & Environment，2015，212：245-252.  
+[11] ZhuH，WangWangiYG,FgJ,iuJeectsofrgehbeggoeadowstepeplantdtiesioalfApplied Ecology，2012，49(5）：1075-1083.  
+[12] 康乐.放牧干扰下的蝗虫-植物相互作用关系.生态学报，1995，15(1)：1-11.  
+[13] DebanoJEfectsoflivestockgazingonabovegroundinsectcommuntiesinsemi-aridgrassandsofsoutheasteArizonaiodivesity&Conservation，2006，15（8）:2547-2564.  
+[14]JeAuccooaeesilas  
+[15]O'NeillKOoB，lder,olstG,ebertCEfectsfivestograngograsserauaceoigedMontana.Environmental Entomology，2010,39(3）：775-786.  
+[16]SpalingerLC，sAGtschACIpcofigaeagoOpteacedityibaliInsect Conservation and Diversity,2012,5(6）：444-452.  
+[17]WeisschHicheetsofgrassdaagtadsporoteradesindbdae：sitdeimportant as management.Biodiversity and Conservation，2013，22（10）:2167-217.  
+[18]Zhong ZW，WangDL，ZhuH，WangL，FengC，WangZNPosiveinteractionsbetwenlargeherbivoresandgrashopers，andtherconsequences for grassland plant diversity. Ecology，2014,95(4）：1055-1064.  
+[19］董玮，张璞进，常虹，晔薷罕，张晶晶.不同放牧强度对荒漠草原蝗虫群落的影响.环境昆虫学报，2013，35(5）：572-577.  
+[20]KagLfeoedeasieglaet,2(3): 265-281.  
+[21]JuregB-G,rcUWalisdesOKelaRfetsfoesiyefgoatsagrasshopper occurrence in heathlands.Agriculture，Ecosystems & Environment，2008,123（1/3）：219-224.  
+[22]CeaseAJlserFordCF，HaoSG,KangL，HarionJF.Heavlivesokgrazingprooteslocustoutbreakbyoweringplarogncontent. Science，2012，335(6067）:467-469.  
+23]Kruessesidtoetise2002,16(6):1570-1580.  
+24]BransondGepetalalyisfgaoisestofredliokgaingiprairie.Environmental Entomology，2010,39（5）：1441-1446.  
+[25]FondercesadeuretAalaishatBepctofangmagoOroterabdansehsoMediterranean steppe-like grassland.Acta Oecologia，2014,60：7-16.  
+[26］朱耿平，邢杏，刘琳，陈亦彤，伊文博，刘强.典型草原放牧活动对蝽类昆虫多样性的影响.天津师范大学学报：自然科学版，2014，34(3): 66-70.  
+27]HaoSGanSeaseKangLdapelevepesofaeoiieiergliteractisckgrazing and a precipitation gradient.Landscape Ecology，2015，30(9）：1657-1668.  
+2]Litleocsideoi160.  
+[29]VogelJsfod,ilelsposortiooredgrangal2007,140(1/2): 78-90.  
+[30] BaragnF，MoreoCE，EscobarF，Bueno-VillgasJ，HarfferG.Theimpactofgrazingondungbetlediversitydependsonbothbiogeographical and ecological context. Journalof Biogeography，2014，41（10）:1991-2002.  
+[31]Yadamsuren O,Hayford B,Gelhaus ] Ariuntsetseg L，Goulden C，Podenas S，Podeniene V.Declines in diversity of crane flies（Diptera:Tipuloidea）idcateacfroragockinliofogJoalfstseatio9）.  
+[32]SpechtJerbertC，UsicerSB，KerG，WeiserW.Diverstdo:plantfuctialientiteteishrbofc.Journal of Animal Ecology，2008,77(5）:1047-1055.  
+33]LoboJrtalbedRegialdlaliueefgagctitohersityfaidgityDiversity and Distributions，2006，12(1)：11-123  
+[34]eesinaBOefofiftcbatraElaAls,23(6): 1410-1418.  
+[35] McCauleyDJKeesingF,oun,itarK.ectsoftereovalofargehrborsofleasofallamalsJoualofVetorolog2008, 33（(2): 263-268.36] VanKlinkR,vanderlasF，vanNoordjkGGE，WalisDeesMF,OlffEfetsoflareerbivoresongrassandarthodivstyBiological Reviews，2015,90(2）: 347-366.37]BnalR,MunozA.Multi-tropiceectsofunglateintraguildpredationonacoweevils.Oecologia,200,52(3）：5-540.  
+[38]VanNoodijkCGE,lieanDE,emkeE，WaleVsMFergMPImactofrazingmagemntobeatigcateilsoftebutterfly Melitaea cinxia in calcareous grasslands.Journal of Insect Conservation，2O12，16(6）：909-920.  
+[39] HumbertJ-Y，GhazoulJ，WalterT.Meadowharvestingtechniquesandteirimpactsonfieldfauna.AgricultureEcosystems&Enviont,2009,130(1/2): 1-8.  
+[40]SchraaM,HeingP,akkerJP,vanWinHJ,er,OlfH.Hrbivoretrapgaalteativeathfrexplaigicin nitrogen mineralization in moist grasslands.Oecologia,2013，172(1）：231-243.  
+[41]CummingDungGUlateutrucuredalpresodsidapgina.Oecologia，2003，134(4）:560-568.  
+[42]Hobbsgebofsubo/ellgr,asteblEcosystem Dynamicsand Conservation.Cambridge：Cambridge University Press,2O06：261-288.  
+[43]VerduJR,MoreCEche-RojasG,NumC，lanteE，HalferGGgprootesngbtldiversitineericndsaefMexican Biosphere Reserve.Biological Conservation，2007,140(3/4）：308-317.  
+[44]JankielsolCHuetofiaasfoatib：asooutereserve and neighboring farms.Environmental Entomology，2001,30(3）：474-483.  
+[45]grodasctegesiaailoal2011,40(5)：1081-1092.  
+[46]BartonPS，CuingamSA，LidenaerDB，MaingAD.Teoleofaroninaintainingbiodiversityandologicalpresiterrestrial ecosystems. Oecologia，2013，171(4）：761-772.  
+[47] OlfH,Ritchie ME.Efectsof herbivoreson grassand plantdiversity.TrendsinEcology&Evolution，998，13（7)：26-265.  
+[48] WilsonJB,etgerJrtel.antspissseodsJalfVgeatiS)68.  
+[49] LezamaF，BaezaS，AltesorA，CesaA，ChanetonEJ，ParueloJM.Varaionofgrazing-inducedvegetationchangesacrossalarge-caleproductivity gradient.Journal of Vegetation Science，2014,25(1）：8-21.  
+[50]SieaEadaltfepefditit1998，152(5):738-750.  
+[51]ScherberC,EseerN,WeserWW,hdBVgtWcher,huleE-Doscr,WeigelA,aE,eerH,oowskiM,BuchmannN,BscotF,lementLW,EbelingA,EngelsC,HallS,KertscherI,KlinAKlrR,KnigS,KowalskiE,rV,KuA,Lange ,LuterbachD,MdeloffC,gunovaVD,MiuA,llrR,PartshS,eteranRenkerC，Rotstock,absA,ScheuS，hmachrJ，empertoVschakeTottom-upetsofpantdiversitoultropicinteractiosindivesityexperiment.Nature，2010，468（7323）：553-556.  
+[52]Eelinle-ecitit，and their parasitoids. Oecologia,2012,169(2）：453-465.  
+[53]Nickelebthuasfeisssaptereflood plains（northern Germany）.Agriculture,Ecosystems & Environment,2003，98（1/3）：183-199.  
+[54]PttsSG,WodocB,bertsS,hlinESroVKlonJREaigpoliatorbodversitvgrasslands. Journal of Applied Ecology，2009,46(2）：369-379.  
+[55] MoraMDisogeasddeesiyalsotalEtoo,）14  
+[56] 颜忠诚，陈永林.放牧对蝗虫栖境结构的改变及其对蝗虫栖境选择的影响.生态学报，1998，18（3)：278-282.  
+[57]BouDosJ.gofosegdsatsofergialse,104(3):285-292.  
+[58]RoyDasalaibialilitdlatfuatsofotiorange margin.Oecologia，2003，134（3）：439-444．  
+[59]Desaotrucuauredeeteniepredators. Journal of Applied Eeology，1994，31(2): 361-370.  
+[60]PetloJogesA，ardAefeeJCakkersnelFIfuefotfactososiderdgrounteoiidifferent salt-marsh systems. Basic and Applied Ecology，2008,9(6): 743-751.  
+[61]LawtonJH.Plantarchitectureandthediversityof phytophagousinsects.AnnualReviewofEntomology，1983,28（1)：23-39.  
+[62]Belovs,deofsebiltrfotopeexptals）：624-634.  
+[63] AdlerPB，RaffDA,eothWK.eectof graingonthesatialheterogeityofvegeatioOcologia8（4）:46-479.  
+[64] Jeentupeeesiideiexperiment. Journal of Applied Ecology,2014,51(4) : 968-977.  
+[65] Jay-RobertPoissslei,reJelaifesiemanagementforunglonseatioiheterogeeouslndsapefroSoutEurope（Scarabeia，AhoieGeotrupi）icalConservation，2008，141（11）:2879-2887.

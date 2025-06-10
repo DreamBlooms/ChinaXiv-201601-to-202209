@@ -1,0 +1,356 @@
+[
+    {
+        "type": "text",
+        "text": "Psychological responses to the Coronavirus Disease (COVID-19) outbreak ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zheng $\\mathrm { J I N ^ { 1 ^ { * } } }$ ,Kaibin ZHAOl, Yanyu XIA1,2, Ruijun CHEN1, Huan YU', Timothy TAMUNANG TAMUTANA1, Jeffrey SHERMAN1,3, Christina BERMEITINGER1.4 Pamela BAESS4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Zhengzhou Normal University, Zhengzhou, Henan, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.ShanghaiNormalUniversity, Shanghai, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.UniversityofCaliforniaatDavis,Davis,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. University of Hildesheim,Hildesheim, Germany ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Aims. The novel coronavirus (COVID-19) has infected more than 90,0OO people in at least 69 countries by Feb 29,2020. Medical interest in COVID-19 has been considerable.Mental health issues that coincide with the epidemics are rarely examined.There is a strong need for public health officials to consider how psychological effects vary at each phase of a crisis and how they relate to people to better support them in these shifting states of mind. The present study examines temporal relationships among behavioral and emotional responses towards COVID-19 and attitudinal responses to crisis management. Methods. 846 adults were invited to complete a set of Internet-based questionnaires at two time points with a range of 14 to 18 days' intervals covered by the ascending phase of the outbreak. At the baseline assessment 788 adults completed the questionnaires. At the Wave 2 survey, 318 adults from Wave 1 were retained. Results. Results from cross-lagged models demonstrated reciprocal negative associations between anxiety and crisis management appraise. In addition, the higher evaluation of crisis management in the initial period of outbreak predicted adoption of preventive behaviors and susceptibility to emotional contagion to a greater extend in a later period. Susceptibility to emotional contagion also positively predicted preventive behaviors taken. Furthermore, multiple group structural equation modeling revealed that evaluation of crisis management is more likely to affect the susceptibility to emotional contagion of people on the frontline of the outbreak (i.e., Wuhan) compared to people living in moderate risk areas (i.e., Outside of Hubei). Conclusions. These data provide experimental evidence regarding mental health during the COVID-19 outbreak, and over the course of a pandemic, which will direct governments and health authorities during disease outbreaks through their attempts to communicate with the public. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: COVID-19; emotion; anxiety; preventive measures; management; epidemic; mental health ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A new coronavirus (COVID-19,also called SARS-CoV-2 or 2019-nCoV) was recently detected in Wuhan, China and is causing an outbreak. Chinese health oficials have reported tens of thousands of infections in China, including thousands of deaths.Although China has made considerable efforts and sacrifices to control the epidemic,additional cases are being identified in a growing number of other international locations. The World Health Organization declared the outbreak of a novel coronavirus a Global Health Emergency (World Health Organization [WHO],2020, January 30), thereby activating the emergence of enhancing capacity of Public Health Emergency Management (PHEM) at the global level. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Viral disease infections usually come from ordinary contact with people,and outbreaks can trigger severe public panic. In particular, novel, exotic threats raise anxiety levels higher than more familiar threats do (e.g., Wong, 2007 on SARS, for review, Coughlin, 2012). Moreover, emotions among individuals are extremely vulnerable during public health emergencies, and the fear of a vague and terrifying new illness might spiral into dangerous skepticism. It was predicted in 2018 that the next major outbreak might not be due to a lack of preventive technologies but emotional contagion, which could erode trust in government, causing serious economic and social disruption (Larson, 2O18). The international threat posed by COVID-19 calls for a necessary pooling of international data, both in medical realms and in the mental realm. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Medical interest in COVID-19 has been considerable (e.g., Zou et al.,202O). Mental health issues that coincide with emerging epidemics and the appropriate behaviors to adopt to avoid infection are rarely examined. During a crisis,affected people receive information, process information and acting on information differently than in times of non-crisis. Effective, timely and credible PHEM is essential to containing fear and public threat as well as promoting preventive behaviors (Bao et al.,2020). On the other hand, psychological traits may in turn give rise to bias against the local PHEM system. Governments have the hard job of explaining danger and advising people how to act without raising alarms. For example, people with higher levels of anxiety may be more likely to overreact to policies. In addition, individuals who are susceptible to negative emotional contagion may more easily follow societal beliefs that conflict with government advice or regulations, thus jeopardizing public health measures (e.g.,Aral, S.,& Walker, 2012; Ferrara,E.,& Yang,2015). Similarly, it is unclear whether preventive behaviors are increased as a means to cope with negative emotion (e.g.,Qian et., 20o5) or by the disclosure of epidemic information (e.g., Xue,& Zeng, 2019). Thus, the need for monitoring mental health information in the event of an actual pandemic by public health authorities is high. The uncertain relation between crisis management and psychological response needs to be investigated. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To improve our understanding of public reaction to epidemic outbreaks, the present study examined temporal relationships among behavioral and emotional responses towards COVID-19 and attudinal responses to crisis management. A 2-Wave longitudinal design was employed. It is hypothesized that the adoption of preventive behaviors,anxiety level and susceptibility to catch emotions are associated with crisis management appraisal under pandemic development. The present study will increase public awareness regarding psychiatric events and ofer support with making quick and effective decisions to reduce panic. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sampling and data collection ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nine investigators who are affiliated with the International Joint Laboratory of Behavior and Cognitive Science, three research assistants and five residential community staff members participated in the survey distribution. They invited community residents to participate by using their social network. Invitations containing links to the Internet-based survey and Quick Response Codes were sent to local communities in Wuhan City and outside of Hubei Province for convenient sampling via social media, moments posting and messenger apps. Attempts were made to be objective when distributing questionnaires by giving everyone in those communities equal opportunity to fill out the questionnaires. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data were collected from 26th Jan 202O (at which time 30 Provinces launched the firstlevel response to major public health emergencies in China, 56 deaths has occurred,and 2,014 cases were confirmed worldwide) until 17th February 2020 (1,775 deaths and 71,429 confirmed cases worldwide) (Extracted from Coronavirus disease 2019 (COVID-19) Situation Report - 28 at https://www.who.int/emergencies/diseases/novel-coronavirus2019/situation-reports). The mean test-retest interval was 16 days ( $\\underbrace { S D } _ { \\phantom { \\theta } \\mathcal { N } } = \\underbrace { 8 2 } _ { \\phantom { \\theta } \\mathcal { N } }$ with a range of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "14 to 18 days. The surveys of data collection were covered by the ascending phase of the outbreak (Viboud, Simonsen, & Chowell, 2016) (Figure 1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d058f801ead6aa425e10c1aa43c07c5165d45e33009eff98d770952d05fd80d.jpg",
+        "img_caption": [
+            "Figure 1: Epidemic curve of cumulative COVID-19 cases identified in China. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The questionnaire used a Force Response mode that requires respondents to answer all the questions before submission, but respondents could withdraw from the study at any time. This study protocol, including a questionnaire, was reviewed by the relevant Institutional Review Boards.Participants completed the questionnaires after receiving online informed consent. The last six digits of the participant's phone number was used as their unique ID. We used the phone numbers, IP addresses recorded by Network Server, and manual verification as the means of data matching. To ensure participant confidentiality, we purposely analyzed the data only in aggregate and did not perform individual program analyses. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At the baseline assessment (Wave 1), 846 adults participated, 58 withdrew from the study,and 788 adults (433 females, $M _ { \\mathrm { a g e } } = 3 4 . 8 6$ $S D = 7 . 4 9$ ） completed the questionnaires.At the Wave 2 survey, 318 (185 females) adults from Wave 1 were retained. Of these respondents, 4 participants gave arbitrary answers on age for both Waves (e.g. 888); 1 case diagnosed with novel coronavirus was reported in Wave 2; and 1 suspected case was also reported in Wave 2.9 were in the medical profession. Those whom we were unable to retrospectively follow up with fell into attrition. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As is common in many longitudinal studies, observations across waves can be missing for various reasons, and the atrition rate for web-based surveys is especially high (e.g., Hochheimer et., 2016). Comparisons between participants who participated in Wave 1 testing only and those who successfully completed two waves revealed significant age differences $( p$ $< 0 . 0 1 \\dot$ ). Higher age may be regarded as a predictor of withdrawal due to less frequent Internet usage (e.g., Burnett et al.,2011; c.f., Adams, Stubbs,& Woods,2005). Nonresponse analysis through independent t-tests also revealed that participants in the study at both time points had slightly lower levels of anxiety at Wave 1 $( p < 0 . 0 5 )$ . However, this effect was small (Cohen's d was O.17) and unlikely to seriously bias the results. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Measures ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Adoption of preventive behaviors (APB) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Eight questions based on recommendations from the China Center for Disease Control and Prevention (CDC) guidelines were developed. Sample items of preventive measures included “Did you wash your hands after sneezing, coughing, or cleaning your nose in the past three days?” All 8 behavior items were rated on a 4-point scale, ranging from 1 “Not at all\" to 4“Always\". The total frequency of APB was calculated by summing the scores of all 8 items. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of crisis management (ECM) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A 6-item scale was used to assess appraisal of PHEM. It was designed to reflect opinions on information distribution and openness of information (Quah & Lee,20o4). The items are scored on a 7-point scale, with higher scores indicating more positive appraisal. The questionnaire was shown to have acceptable validity and high internal consistency. Cronbach alpha values in our sample were O.87 for both Waves. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Anxiety level ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Anxiety were assessed using the Zung Self-Rating Anxiety Scale (SAS) (Zung, 1971), which consists of 20 items. Questions 1-5 represent the emotional symptoms of anxiety while questions 6-20 represent the physical symptoms of anxiety (Zung,1971). Responses to each item range from 1 to 4 with higher scores indicating increased levels of anxiety. Emotional symptoms of anxiety were the main concern in this study. Reliability coefficients were good for both Wave 1 (Cronbach's $\\alpha = 0 . 8 2$ ）and Wave2(Cronbach's $\\alpha = 0 . 8 3$ ） samples in the current study. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Susceptibility to emotional contagion (SEC) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Emotional Contagion Scale for Public Emergency (ECS-PE) (Song et al.,2017) is a self-report scale for assessing the susceptibility to catch emotions, especially generated in public emergency events. It is a revised version of the Emotional Contagion Scale (ECS, Doherty,1997) and consists of 15 items that a person endorses on a 5-point scale. Scores are generated by adding the item scores.This scale had Cronbach's alpha values of O.90 and 0.91 for the Wave 1 and Wave 2 data, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Descriptive statistics and bivariate correlations ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Inspection ofMahalanobis $d 2$ values indicated that there were 6 outliers in the sample. Omitting the outliers gave the same results as not. Repeated measures ANOVA revealed a significant main effect of time on APB, $F \\left( 1 , 3 1 6 \\right) = 4 8 . 6 7 , p < . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = . 1 3$ and a significant main effect of region on APB, $F ( 1 , 3 1 6 ) = 1 0 . 8 3 , p < . 0 1$ ， ${ \\eta _ { p } } ^ { 2 } \\mathrm { = } . 0 3$ ,and on anxiety level, $F \\left( 1 , 3 1 6 \\right) = 3 1 . 9 4 , p < . 0 0 1$ ， ${ \\eta _ { p } } ^ { 2 } = . 1 0 .$ A significant Region $\\times$ Time interaction on SEC was found, $F ( 1 , 3 1 6 ) = 7 . 2 6 , p < . 0 1$ ， ${ \\eta _ { p } } ^ { 2 } \\mathrm { = } \\mathrm { . 0 2 }$ . Simple effect analyses revealed that SEC decreased significantly for participants outside of Hubei, $F ( 1 , 3 1 7 ) =$ 4.34, $p < . 0 5$ ， ${ \\eta _ { p } } ^ { 2 } \\mathrm { = } \\mathrm { . 0 2 }$ , but did not change with the development of the epidemic for participants in Wuhan. Table 1 presents bivariate correlations among Wave 1 and Wave 2 variables, which indicated considerable stability in autoregressive correlation between all studied variables,and revealed cross-lag relations between ECM and anxiety. The crosssectional inter-correlations among all variables were similar across Wave l and Wave 2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f52aea7f209e20ba2e1742aa8291d1693f7bb2b2ee77894615630e76c6d65780.jpg",
+        "table_caption": [
+            "Table1.Bivariate correlations betweenmeasured variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td></td><td>1 T1APB</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2 T1ECM</td><td>.375**</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3 T1Anxiety</td><td>-.298**</td><td>-.246**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8ca04fbd4f787aa88fca3e790e6dabd5f2556726f3d38f8c91312bf1234f300.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note.T1 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Wave 1; $\\mathrm { T } 2 = \\mathrm { W a v e } 2$ "
+        ],
+        "table_body": "<html><body><table><tr><td>4</td><td>T1SEC</td><td>.264**</td><td>0.04</td><td>-.215**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>5</td><td>T2APB</td><td>.675**</td><td>.371**</td><td>-.267**</td><td>.269**</td><td>1</td><td></td><td></td></tr><tr><td>6</td><td>T2ECM</td><td>.354**</td><td>.675**</td><td>-.288**</td><td>0.08</td><td>.394**</td><td>1</td><td></td></tr><tr><td>7</td><td>T2Anxiety</td><td>-.286**</td><td>-.278**</td><td>.683**</td><td>-.223**</td><td>-.306**</td><td>-.289**</td><td>1</td></tr><tr><td>8</td><td>T2SEC</td><td>.180**</td><td>-.246**</td><td>-.215**</td><td>.269**</td><td>.394**</td><td>-0.01</td><td>.-.167** 1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Longitudinal Cross-LagModel ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Temporal relationships between adoption of preventive behaviors (APB), anxiety, susceptibility (SEC) and evaluation of crisis management (ECM) were tested by structural equation models with the robust maximum likelihood estimation. The model with full crosslagged paths demonstrated an acceptable fit to the data, $X 2 ~ / d f { = } 3 . 5 9$ $p < 0 . 0 1$ ·， $C F I = 0 . 9 7$ $T L I = 0 . 9 0$ ,RMSEA $( 9 0 \\% \\mathrm { C I } ) = 0 . 0 9$ (0.06 - 0.13), $S R M R = 0 . 0 5$ , The autoregressive paths between Wave 1 and Wave 2 for APB, $\\beta { = } 0 . 5 8$ ， $S E { = } 0 . 0 6$ ,ECM, $\\beta { = } 0 . 6 5$ ， $S E { = } 0 . 0 5$ ， $p { < } 0 . 0 1$ anxiety, $\\beta { = } 0 . 6 5$ $S E { = } 0 . 0 4$ , and SEC, $\\scriptstyle { \\beta = 0 . 8 1 }$ ， $S E { = } 0 . 0 2$ , were all significant, $p s { < } 0 . 0 1$ . After controlling for demographic variables, two positive cascade pathways from ECM to later APB and another from Wave 1 SEC to Wave 2 APB,and one negative path from Wave 1 ECM to Wave 2 SEC, were revealed. Reciprocal associations between ECM and anxiety were also detected. Thus, we removed the nonsignificant paths and tested the model again. The final model also demonstrated good fit to the data, $X 2 ~ / d f { = } 1 . 2 9 , p = 0 . 2 5 ; { \\mathit { C F I } } = 1 . 0 0 , { \\mathit { T L I } } = 0 . 9 9$ RMSEA $( 9 0 \\% \\mathrm { C I } ) = 0 . 0 3$ (0.00 - 0.079), $S R M R = 0 . 0 3$ . The standardized path coefficients for the final model are presented in Figure 2. The whole model accounted for $4 7 . 2 \\% , 4 7 . 1 \\%$ $4 7 . 7 \\%$ and $67 . 1 \\%$ of the total variance in Wave 2 APB,anxiety, ECM and SEC, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dad6ca129a15555cbc62cf2083a418787d18706f2182bee3c221ca78950621f.jpg",
+        "img_caption": [
+            "Figure 2. Final two-wave cross-lag model. The values reported are the standardized coefficients.The pathways that were non-significant remained in the model, but for the simplicity of interpretation, they are not presented in the figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Multiple group structural equation modeling was used to assess whether the cross-lagged associations varied by region. A significant difference in chi-square indicates non-equivalence across groups, $T R d = 4 0 . 9 2 , p < . 0 5 .$ .Wald test to examine differences among the 5 cross lagged paths between the two groups revealed that the coefcient of the paths from Wave 1 ECM to Wave 2 SEC was significantly higher for Wuhan than those outside of Hubei, Wald $( 1 ) = 5 . 3 2 , p < . 0 5$ . The prediction of ECM on SEC reached a significant level for Wuhan, $\\beta =$ -0.20, but not for outside Hubei, $\\beta = . . 0 3$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This study sought to gather a snapshot of the attitudinal and behavioral responses during the early stages of COVID-19 epidemic. It is not surprising that with the development of the epidemic, respondents have adopted more preventive measures, and people in high-risk epidemic area will also adopt preventive measures to a greater extent. Not as expected, the evaluation of the management had not changed over time. In the early stage of the epidemic, the public management official faced many challenges, such as a lack of treatment technology, litle understanding about the virus, and an inability to properly respond to the concerns of the public. Although the level and quality of management therefore gradually improved, the negative effects brought by the rapid deterioration of the outbreak may undermine the improved capabilities of public health management. The results of repeated measurement ANOVA also showed that the level of anxiety of people in high risk epidemic areas is significantly higher than that in moderate risk areas. Viruses that are easily accessible, lockdown control, and disturbances in people's living conditions are all factors that cause mental problems in epidemic areas in the short term. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Without information, people may start speculating and filling in blanks.This often results in increased susceptibility to emotional contagion which is a catalyzer that accelerates the spread of rumors (Na, Garrett,& Slater, 2O18). The finding that the susceptibility was significantly reduced in low-risk areas, to some extent suggests that the increased susceptibility caused by the emergency may be changed vary by period with the gradually disclosed information, even though participants living in high-risk areas did not change in any way. This suggestion has been further verified by cross lagged panel analysis. Our results showed that initial appraisal of management were predictive of later susceptibility to emotional contagion and such prediction exhibited greater impact on people of the frontline of the outbreak (i.e., Wuhan). A large number of studies have pointed out that effective management can mitigate susceptibility and is also an important means to relieve public anxiety (e.g., Liu et al., 2O19 ). However, this study demonstrated a reciprocal prediction between anxiety and management evaluation, reflecting that anxiety, in turn, may lead to mistrust and dissatisfaction against the management. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Some previous research focused on responses toward other respiratory infectious disease epidemics (RIDEs) and factors that motivate people to adopt preventive measures. For example, Lee-Baggley and colleagues found that people high in empathic responding (e.g., listening to other's feeling about SARS) were more likely to take health precautions (Lee",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Baggley et al., 2Oo4). Consistent with these finding from cross-sectional studies, individuals who held more susceptibility to emotion contagion at the first time point were more able to take preventive behaviors at the subsequent measurement. However, not all mood states affect behavior. Compared with susceptibility, initial anxiety did not predict later adoption of preventative measures.Possible explanation is that in the early epidemic stage when threat is highly uncertain, cognitive risk responses may be optimal for increasingly driving behavior as the epidemic evolves (Liao et al., 2014). Anxiety generally involve less intense cognitive components compared with susceptibility to emotional contagion and thereby are less likely to predict behavioral change. The respondents' appraisal of crisis management predicts the extent to which they will engage in preventive behaviors, which indicates that preventive measures are undoubtedly closely related to the effective and timely transmission of epidemic and virus-related information. In addition, we did not find support for causal relation between anxiety and susceptibility to emotional contagion. It is evident from mixed findings that anxious individuals tend to catch negative emotions from others (e.g., Dijk et al., 2018 ). Given the evidence presented in this study, however, it seems clear that anxiety was unrelated to susceptibility to emotion contagion resulted from a bipolar scale measures reactions to both positive and negative emotions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A few limitations to this study are worth noting.First, with regard to the measurements we used, a set of questions measuring the extent to which a respondent adopts preventive behavior may not fully reflect all the preventive measures required to prevent infections. In addition, we extracted emotional symptom of anxiety from a more general Zung Self-Rating Anxiety Scale (SAS) for screening anxiety, which is different from the State Trait Anxiety Inventory (STAI) used in some of the previous studies in the epidemic (e.g., Cowling et al., 2010).In line with these studies, the anxiety level remained low throughout the pandemic, suggesting that a low level of anxiety has little effect on behavioral and emotional responses towards COVID-19. Second, generalization of the results may be limited because this community sample was limited in its diversity, with a majority of the sample consisting of middle-aged and healthy people. Furthermore, females were slightly over-represented in the analysis sample. Nevertheless, to our knowledge, these data provide some of the first experimental evidence regarding mental health during the COVID-19 outbreak, and over the ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "course of a pandemic ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Ministry of Science and Technology of China recently suggested that research work in the epidemic situation needs to be targeted to address the epidemic situation (The State Council the People's Republic of China,2020, January 26).As mentioned above, the concerns on mental issues raised by COVID-19 are indispensable. During the public health emergency, people can experience a variety of emotions. Psychological barriers may affect public cooperation and response. Administrations should anticipate these patterns and recognize that they influence communication. For empirical-based psychological research, one of the greatest contributions to the epidemic is to understand psychological responses and their dynamic changes, which are the prerequisites for psychological intervention, improving emergency management, relieving public anxiety and fear. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As of the completion of this study, China has shown new signs of success in its fight to control the coronavirus outbreak, with a decrease in the rate of new infections. But this news is overcome by the unbridled spread of the pandemics in Japan, South Korea, Iran, Europe, the United States and other regions,underscoring the possibility of out-of-control global pandemic racing. We hereby emphasized the need to strengthen global public health management and the importance of information campaigns aimed at encouraging appropriate countermeasures against virus outbreaks in both psychological and medical (physical) realms. Officials seeking to avoid chaos by withholding information or over-reassuring the public do more harm than the public acting irrationally in a crisis. Pre-crisis preparation will presume that an open and honest information flow will be created. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The project Psychological Approaches to Understanding Public Emergency Preparedness （推 进突发公共卫生事件下应急管理能力现代化的心理学路径研究）ispartly supported by Chinese Minister of Science and Technology awarded to one of the PIs in this study. A longitudinal data collection at a global level is underway. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dataavailability ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The data that support the findings of this study are available from the corresponding author upon reasonable request. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References   \nAdams,N., Stubbs, D.,& Woods, V. (20o5). Psychological barriers to Internet usage among older adults in the UK. Medical informatics and the Internet in medicine, 30(1),3-17.   \nAral, S., & Walker, D. (2012). Identifying influential and susceptible members of social networks. Science, 337(6092),337-341.   \nBao, Y., Sun, Y., Meng, S., Shi, J., & Lu,L. (2020). 2019-nCoV epidemic: address mental health care to empower society. The Lancet, 395,37-38.   \nBurnett, J. S., Mitzner, T. L., Charness, N., & Rogers, W. A. (2011). Understanding predictors of computer communication technology use by older adults. In， Vol. 55(1). Proceedings of the human factors and ergonomics society annual meeting (pp. 172-176). SAGE Publications.   \nCoughlin, S. S. (2012). Anxiety and depresson: linkages with viral diseases. Public health reviews, 34(2), 7.   \nCowling, B.J.,Ng,D. M. W., Ip,D. K. M.,Liao, Q.,Lam, W. W.T., Wu,J. T.,..Fielding,R. (2010). Community psychological and behavioral responses through the first wave of the 2009 influenza a(hln1) pandemic in hong kong. The Journal of Infectious Diseases, 202(6), 867- 876.   \nDijk, C., Fischer, A. H., Morina, N., van Eeuwijk, C.,& van Kleef, G.A. (2018). Effects of social anxiety on emotional mimicry and contagion: Feeling negative, but smiling politely. Journal of nonverbal behavior, 42(1), 81-99.   \nDoherty,R. W. (1997). The emotional contagion scale: A measure ofindividual diferences. Journal of nonverbal Behavior, 21(2),131-154.   \nFerrara, E., & Yang, Z. (2015). Measuring emotional contagion in social media. PloS one, 10(11), e0142390.   \nGlik, D. C. (2oo7). Risk communication for public health emergencies. Annual Review of Public Health, 28(1), 33-54.   \nHochheimer, C.J., Sabo,R. T., Krist,A. H., Day,T., Cyrus,J.,& Woolf, S.H. (2016). Methods for Evaluating Respondent Atrition in Web-Based Surveys. Journal of medical internet research, 18(11), e301.   \nHornsveld, R. H., Kraaimaat, F. W., & Van Dam-Baggen, R. M. (1979). Anxiety/discomfort and ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "handwashing in obsessive-compulsive and psychiatric control patients. Behaviour Research ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "and Therapy, 17(3), 223-228.   \nLarson, H. J. (2018). The biggest pandemic risk? Viral misinformation. Nature, 562(7726), 309- 310.   \nLee-Baggley, D., DeLongis, A., Voorhoeave, P., & GreenglassE. (2004). Coping with the threat of severe acute respiratory syndrome: Role of threat appraisals and coping responses in health behaviors. Asian Journal of Social Psychology, 7(1), 9-23.   \nLiao, Q., Cowling, B. J., Lam, W. W., Ng, D. M., & Fielding, R. (2014). Anxiety, worry and cognitive risk estimate in relation to protective behaviors during the 2O09 influenza A/H1N1 pandemic in Hong Kong: ten cross-sectional surveys. BMC infectious diseases, 14(1), 169.   \nLiu, W., Wu, X., Yang, W., Zhu, X. & Zhong, S. (2019). Modeling cyber rumor spreading over mobile social networks: A compartment approach. Applied Mathematics and Computation 343, 214-229.   \nNa,K., Garrett, R. K. & Slater, M. D. (2018). Rumor acceptance during public health crises: Testing the emotional congruence hypothesis. Journal of Health Communication 23(8), 791-799.   \nQian,M., Ye, D., Zhong, J.， Xu, K.， Zhang, L., Huang, Z.，...Wang, C. (2005). Behavioural, cognitive and emotional responses to SARS: differences between college students in Beijing and Suzhou. Stress and Health: Journal of the International Society for the Investigation of Stress, 21(2), 87-98.   \nQuah, S.R., & Lee, H. (20o4). Crisis prevention and management during SARS outbreak, Singapore. Emerging Infectious Diseases, 10(2), 364.   \nViboud,C., Simonsen,L.,& Chowell, G. (2016). A generalized-growth model to characterize the early ascending phase of infectious disease outbreaks. Epidemics, 15,27-37.   \nWong, T. W., Gao, Y., & Tam, W. W. S. (2007). Anxiety among university students during the SARS epidemic in Hong Kong. Stress and Health: Journal of the International Society for the Investigation of Stress, 23(1), 31-35.   \nWorld Health Organization. (202O). Statement on the second meeting of the International Health Regulations (2oo5) Emergency Committee regarding the outbreak of novel coronavirus (2019- nCoV). Retrieved January 30, 2020, from https://www.who.int/news-room/detail/30-01-2020- statement-on-the-second-meeting-of-the-international-health-regulations-(20o5)-emergency",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Song,Z., Shi,R.,& Wang, X. Guo,Y.P.,& Zang, G.S.(2017). Development of emotional contagion scale for public emergency. China Journal of Health Psychology， 25(1), 38-43.   \nXue, L., & Zeng, G. (2019). Evaluations from different parties on influenza a (H1N1) prevention and control. In A comprehensive evaluation on emergency response in China (pp. 179-222). Springer, Singapore.   \nZou,L., Ruan,F., Huang, M.,Liang,L., Huang, H.,Hong, Z.,.. Wu, J. (202O). SARS-CoV-2 viral load in upper respiratory specimens of infected patients. The New England Journal ofMedicine (In press).   \nZung,W. W. (1971). A rating instrument for anxiety disorders. Psychosomatics: Journal of Consultation and Liaison Psychiatry, 12(6),371-379. ",
+        "page_idx": 15
+    }
+]

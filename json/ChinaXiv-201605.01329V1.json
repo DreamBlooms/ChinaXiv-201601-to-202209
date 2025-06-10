@@ -1,0 +1,567 @@
+[
+    {
+        "type": "text",
+        "text": "A near-infrared phthalocyanine dye-labeled agent for integrin αvβ6-targeted theranostics of pancreatic cancer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Duo Gao ä, Liquan Gao ä, Chenran Zhangä, Hao Liuä, Bing Jia ä, Zhaohui Zhu b, Fan Wang a, c, Zhaofei Liu a, \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Medicalsothtermtftodicolsidicalcsekinesit   \nbDepartmentofucearedicine,ekingUnionMdicalCollegeHospital,jingin   \n‘Interdisciplinary Laboratory,Instituteof Biophysics,Chinese Academy of ciences,Beijing10o101,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 2 December 2014   \nReceived in revised form   \n17 February 2015   \nAccepted 21 February 2015   \nAvailable online 14 March 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Molecular imaging Intraoperative imaging Molecular probe Image-guided surgery Photodynamic therapy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Integrin αvβ6 is widely upregulated in variant malignant cancers but is undetectable in normal organs, making it a promising target forcancer diagnostic imaging and therapy.Using streptavidin-biotin chemistry,we synthesized an integrin &vβ6-targeted near-infrared phthalocyanine dye-labeled agent, termed Dye-SA-B-HK,and investigated whether it could be used for cancer imaging,optical imagingguided surgery,and phototherapy in pancreatic cancer mouse models. Dye-SA-B-HK specifically bound to integrin ${ \\tt o v } \\beta 6$ in vitro and in vivo with high receptor binding affinity. Using small-animal optical imaging,we detected subcutaneous and orthotopic BxPC-3 human pancreatic cancer xenografts in vivo. Upon optical image-guidance,the orthotopically growing pancreatic cancer lesions could be successfully removed by surgery. Using light irradiation,Dye-SA-B-HK manifested remarkable antitumor effects both in vitro and in vivo. $^ { 1 8 } \\mathrm { F } .$ -FDG positron emission tomography (PET） imaging and ex vivo fluorescence staining validated the observed decrease in proliferation of treated tumors by Dye-DA-B-HK phototherapy.Tissue microarray results revealed overexpression of integrin αvβ6 in over $9 5 \\%$ cases of human pancreatic cancer,indicating that theranostic application of Dye-DA-B-HK has clear translational potential.Overall,the results of this study demonstrated that integrin αvβ6-specific Dye-SA-B-HK is a promising theranostic agent for the management of pancreatic cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ 2015 Elsevier Ltd.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pancreatic cancer ranks as the fourth most common cause of cancer-related deaths in developed countries and is characterized by resistance to conventional therapies such as chemo- and radiotherapy [1,2].Systemic therapies are nearly ineffective in advanced pancreatic cancer,and prognosis for patients is extremely poor,with a five-year survival rate generally below $5 \\%$ [1,3]. Because of the high mortality and rapid progression associated with pancreatic cancer,the bestapproach fordisease management involves early detection and accurate staging. Currently,most pancreatic cancer patients are diagnosed at advanced stages,and the standard care (surgical resection followed by adjuvant therapy) is onlypartially effective in patients diagnosed at early stages [2]. Therefore,early diagnosis,accurate staging,and the development of more effective strategies to treat pancreatic cancer are critical for improving patient care. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Advances in molecular imaging approaches including positron emission tomography (PET)，single-photon emission computed tomography (SPECT),molecular magnetic resonance (mMRI),optical imaging,and targeted ultrasound imaging have offered opportunitiesforsignificantlyimprovingcancer management through early detection of lesions,patient stratification for therapies,treatment monitoring,image-guided therapy,and surgical guidance during tumor resection. Among the imaging modalities, optical imaging has the advantages of non-requirement of ionizing radiation and low cost.Importantly, optical imaging can be tumorspecific and offers superior resolution and sensitivity,an inherent advantage for surgical inspection and practice.Recently,the first human application of intraoperative tumor-specific optical imaging for real-time visualization of tumor lesions in ovarian cancer patients has been reported [4]. Accurate real-time imaging using tumor-specific fluorescent agents(probes） enables localization of tumor lesions that are difficult or impossible to be detected by gross observation,which allows for more accurate excision of tumor lesions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Near-infrared (NIR） fluorescence imaging takes advantage of NIR dye-labeled agentswith wavelengths of $7 0 0 { - } 9 0 0 ~ \\mathrm { n m }$ range, a range in which tissue autofluorescence is minimal,allowing for favorable tissue penetration and high target-to-background contrast [5,6].Moreover,certain NIR dyes,such as the phthalocyanine dye IRDye7oo,can also serve as photosensitizers for potential cancerphotodynamic therapy(PDT)[7].PDT,which is a minor invasive treatment strategy that has potential use for various diseases,can destroyabnormal tissuebyadministration ofaphotosensitizer followed by irradiation with light at a wavelength corresponding to the absorbance band of the sensitizer [8,9]. Although a promising approach,PDT has limited use in cancer therapy because non-targeted photosensitizers can also nonspecifically accumulate in normal organs,producing severe side effects [1O]. To increase the selectivity of photosensitizers in tumors,pioneering work has been done by the Kobayashi group, which developed a series of antibody-photosensitizer conjugates for cancer antigen targeted PDT that has been called photoimmunotherapy(PIT) [11-13]. The antibody-photosensitizer conjugate-based tumor PIT showed significantly improved antitumor effect compared with the non-specific PDT,demonstrating that the specific delivery of photosensitizers can significantly increase tumor selectivity and improve therapy efficacy. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PIT using a monoclonal antibody as the delivery vehicle for pancreatic cancer may have limitations.These include high accumulation of intact antibody in the liver,which isadjacent to the pancreas,due to hepatic clearance of large molecular weight molecules [14]. The results may lead to severe liver toxicity following light irradiation.In contrast to antibody, peptide has low molecular weight,fast blood clearance,and rapid tissue penetration. Recently, we have developed a $^ { 9 9 \\mathrm { m } } \\mathrm { T c }$ radiolabeled linear peptide( $\\mathrm { \\cdot ^ { 9 9 m } \\mathrm { \\bar { T } c - } }$ labeled HK peptide; ${ \\mathfrak { s o m } } _ { \\mathrm { T c - H H K } } ,$ for SPECT detection of pancreatic cancer by targeting integrin ${ \\tt o v \\beta 6 }$ [15],which is overexpressed in pancreatic cancer but is negligibly expressed in normal tissues [16,17]. $^ { 9 9 \\mathrm { m } } \\mathrm { T c - H H K }$ exhibited high ${ \\tt o v \\beta 6 }$ selectivity and could specifically detect liver metastatic lesions of integrin $\\mathsf { \\alpha } \\mathsf { v } \\beta 6$ -positive tumors [15]. However,a major drawback of $^ { 9 9 \\mathrm { m } } \\mathrm { T c - H H K }$ is its relatively low tumor uptake,which could be partly due to its low integrin αvβ6-binding affinity,as it isa linear peptide that is monovalent with respect to receptor binding. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we prepared an integrin αvβ6-targeting agent using streptavidin-biotin chemistry,which is expected to be multivalent for receptor targeting. The targeting agent was labeled with an NIR photosensitizer IRDye7OO and tested in animal models forintegrin αvβ6-targeted optical imaging of pancreatic cancer, image-guided surgery of orthotopic pancreatic cancer tissue,and tumor-targeted phototherapy (PT). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. General remarks ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All commercially obtained chemicals were of analytic grade and used without furtherpurification.The integrinαvβ6-specific peptidesFmoc-protected RGDLATLRQLAQEDGVVGVRK (Fmoc-HK;H means H2009.1, the denoted name of the underlined peptide sequence [18]） and RGDLATLRQLAQEDGVVGVRYK(HYK) were synthesized as previously described [15]. $\\overline { { { \\mathrm { N a } } ^ { 1 2 5 } { \\mathrm { I } } } }$ was purchased from Perkin-Elmer (Waltham,MA,USA).The reversed-phase high-performance liquid chromatography (HPLC) system was the same as previously reported [15]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Synthesis of phthalocyanine dye-labeled agent dye-SA-B-HK ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A solution of $2 \\ \\mu \\mathrm { m o l }$ Fmoc-HK was mixed with $3 \\ \\mathrm { \\mu m o l }$ of biotin-X-NHS ester (water-soluble,Millipore,Billerica,MA,USA) in $5 0 0 ~  { \\mu \\mathrm { L } }$ of $0 . 1 \\mathrm { ~ M ~ }$ sodium bicarbonate buffer $\\left( \\mathrm { p H } 8 . 5 \\right)$ .After stirring for $^ { 2 \\mathrm { ~ h ~ } }$ at room temperature,Fmoc-HK-biotin-X was isolated by semi-preparative HPLC. The fraction containing the product was collected and lyophilized.Fmoc-HK-biotin-X was obtained in $4 3 \\%$ yield with ${ > } 9 5 \\%$ purity. After removal of the Fmoc group with $20 \\%$ piperidine in dimethylformamide, the final HK-biotin-X(B-HK) product was generated.Analytical HPLC and mass spectrometry analyses were performed to identify the product. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dye-labeled streptavidin was generated using a previously described method [19,20]. Briefly, $5 ~ \\mathrm { m g }$ streptavidin was mixed with the IRDye70ODX $N$ -hydroxysuccinimide ester(LI-COR,Inc.Lincoln,NE,USA)ata mole ratio of 1:7 in $0 . 1 \\mathrm { ~ m ~ }$ sodium bicarbonate buffer $\\mathrm { ( p H ~ 8 . 3 ) }$ .After $^ \\mathrm { ~ 1 ~ h ~ }$ incubation at room temperature, IRDye70O-streptavidin (Dye-SA) product was purified using a PD-1O desalting column(GE Healthcare,Piscataway,NJ,USA） and concentrated by Centricon filter (Millipore,Bedford,MA,USA).The degree of labeling(dye/protein ratio) for Dye-SA was calculated to be approximately 3.8 based on UV measurements.A solution of Dye-SA was then mixed with excess amounts of B-HK to occupy all streptavidin binding sites.After stirring for $2 0 ~ \\mathrm { m i n }$ at room temperature,unbound B-HK was removed using a PD-10 desalting column with phosphate-buffered saline (PBS)as the mobile phase and the final product termed Dye-SA-B-HK(Fig.1A) was obtained. The control agent Dye-streptavidin-biotin (Dye-SA-B) without the targeting peptide wasalso prepared using similar procedure. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Cell culture and animal models ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The BxPC-3 human pancreatic cancer cell line was obtained from American Type Culture Collection. Tumor cells were grown in RPMI-1640 medium supplemented with $1 0 \\%$ fetal bovine serum (FBS) at $3 7 ^ { \\circ } \\mathsf { C }$ in humidified atmosphere containing $5 \\%$ $\\mathsf { C O } _ { 2 }$ ， ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All animal experiments were performed in accordance with the guidelines of Peking University Animal Care and Use Committee.To establish the BxPC-3 subcutaneous tumor model, BxPC-3 cells $\\mathrm { ~  ~ \\cdot ~ } ^ { \\mathrm { ~ \\scriptsize ~ 1 ~ } } \\times \\mathrm { ~ \\ o ~ } 1 0 ^ { 7 }$ in $1 0 0 ~  { \\mu \\mathrm { L } }$ of PBS) were inoculated subcutaneously into the upper right (for imaging studies)or both right and left (for therapeutic studies） upper flanks of male $\\mathsf { B A L B / c }$ nude mice (5-6 weeks of age; Department of Laboratory Animal Science,Peking University,Beijing,China).For the establishment of an orthotopic human pancreatic cancer mouse model,mice were anesthetized by inhalation of $2 \\%$ isoflurane in oxygen.A small incision was made in the left abdomen of each mouse and the spleen was carefully exposed by a gentle pull. BxPC-3 cells $( 5 \\times 1 0 ^ { 6 } )$ in $5 0 ~ \\mu \\mathrm { L }$ of PBS were then slowly injected into the pancreas tissue in an area adjacent to the spleen. Upon completion,the spleen was returned to the abdomen and the incision was closed using sutures.Mice were used for small-animal fluorescence imaging studies approximately 30 days after cell injection (based on our pilot data). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4. Cell competitive binding assay ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The in vitro integrin αvβ6-binding affinity of Dye-SA-B-HK was compared with the HK peptide under exactly the same experimental conditions via a cellular displacement assay using $^ { 1 2 5 } \\mathrm { I }$ -HYK as the integrin αvβ6-specific radioligand. $^ { 1 2 5 } \\mathrm { I } .$ HYK was prepared by labeling the HYK peptide with $\\mathsf { N a } ^ { 1 2 5 } \\mathsf { I }$ using the Iodogen method [21].The experiments were performed on BxPC-3 cells using a previously described method [15]. The best-fit $5 0 \\%$ inhibitory concentration $( \\mathrm { I C } _ { 5 0 } )$ values were calculated by fitting the data with nonlinear regression using Prism software (version 5.0;GraphPad Software,Inc.San Diego,CA,USA).Experiments were performed twice using quadruple samples. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.Cell staining ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The BxPC-3 cells grown on $3 5 ~ \\mathrm { m m }$ MatTek glass-bottom culture dishes were incubated with Dye-SA-B-HK or Dye-SA-B $\\mathrm { \\langle 1 0 0 ~ n m o l / L }$ in PBS)for $^ \\mathrm { ~ 1 ~ h ~ }$ at room temperature. Integrin ${ \\tt o u v \\beta 6 }$ -binding specificity of Dye-SA-B-HK was verified by incubating BxPC-3 cells with a blocking dose of the non-fluorescent HK peptide （204号 $( 1 0 ~ \\mathrm { \\textmu m o l / L } )$ .Post incubation,cells were washed with PBS and visualized using a confocal microscope. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6.In vivo optical imaging ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The in vivo behavior of Dye-SA-B-HK was evaluated in five BxPC-3 tumorbearing nude mice.Each animal was injected via the tail vein with O.5 nmol of DyeSA-B-HK.At 1,2,4,8,and $2 4 \\mathrm { ~ h ~ }$ postinjection (p.i.), the mice were anesthetized by inhalation of $2 \\%$ isoflurane in oxygen and then subjected to optical imaging using a Maestro In-Vivo Imaging System (CRI,Woburn,MA,USA).For each scan,aliquots containing a known amount of injectate were placed on the black papers and were subjected to optical imaging together with the mice.Identical illumination settings were used to obtain all scans.Images were acquired and analyzed using Maestro 2.4 software (CRI,Woburn,MA, USA).The fluorescence intensity was presented as the average radiant efficiency in the unit of $[ \\mathrm { p } / \\mathrm { s e c } / \\mathrm { c m } ^ { 2 } / \\mathrm { s r } ] / [ \\mu \\mathrm { W } / \\mathrm { c m } ^ { 2 } ]$ .Tumor uptake was calculated by normalizing the tumor fluorescence intensity by the total injection dose.To determine the tumor targeting specificity of Dye-SA-B-HK,three groups of mice $\\mathbf { \\dot { n } } = 5$ per group) were intravenously (i.v.) injected with O.5 nmol Dye-SA-BHK,the mixture composed of $5 0 0 ~ { \\mu \\mathrm { g } }$ HK peptide and O.5 nmol Dye-SA-B-HK,and 0.5 nmol Dye-SA-B,respectively. At 2 h p.i., mice were subjected to optical imaging using the same protocol. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the optical imaging-guided surgery,mice bearing orthotopic BxPC-3 pancreatic cancer xenografts were i.v. injected with $0 . 5 \\ \\mathrm { n m o l }$ Dye-SA-B-HK.Mice were anesthetized and optical imaging was performed at2 h p.i.using an IVIS smallanimal imaging system (Xenogen,Alameda,CA,USA). After in vivo imaging,mice were sacrificed and surgery was performed to resect the tumor nodules.Optical imaging was subsequently repeated to check the residual tumor tissues.For further confirmation of the orthotopic tumor lesions in the pancreas,surgically excised tumor lesions were fixed in $5 \\%$ buffered formalin,embedded in paraffin,cut into sections,and subjected to hematoxylin and eosin (H&E) staining. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/801fe48804983557aab106d5fa2cb49ce28431ef7020cd50b8c60867be410aff.jpg",
+        "img_caption": [
+            "Fig.1. (A)Schematicdrawing ofthe integrin $\\mathsf { \\Omega } \\propto \\mathsf { v } \\beta 6$ targeting near-infraredfluorescenceagent,DyeSA-B-HK. (B)Inibitionof $^ { 1 2 5 } \\mathrm { I }$ HYK bindingtointegrinαv6onBxPC-3tmor cells by Dye-SA-B-HK,HK peptide,and Dye-SA-B.Data eshow $\\pm \\mathsf { S D }$ 1 $\\mathbf { \\tilde { n } = 4 } )$ .(C)Fluorescence staining of the integrin αvβ6-positive BxPC-3 tumor cells using Dye-SA-BHK (with or without a blocking concentration of the HK peptide) or Dye-SA-B. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7.Intratumoral distribution of dye-SA-B-HK ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the intratumoral microdistribution of Dye-SA-B-HK,a subset of surgically removed orthotopic tumors were immediately frozen in OCT medium and cutinto5- $\\cdot \\mu \\mathrm { m }$ -thick slices.After fixation with ice-cold acetone,rinsingwith PBS and blocking with $1 0 \\%$ FBS for $3 0 ~ \\mathrm { { m i n } }$ at room temperature,tumor sections were incubated with mouse anti-human integrin ${ \\tt o u v \\beta 6 }$ monoclonal antibody(Millipore,Billerica,MA,USA) for1 h at room temperature and visualized using FITC-conjugated secondary antibody (Jackson ImmunoResearch Laboratories,Inc.,West Grove,CA, USA) using a confocal microscope. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.In vitro and in vivo PTstudies ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The BxPC-3 cells were seeded in $3 5 ~ \\mathrm { m m }$ MatTek glass-bottom culture dishes ${ \\mathit { 1 } } \\times { \\mathit { 1 0 } } ^ { 4 }$ per dish） and incubated overnight at $3 7 ^ { \\circ } C$ to allow adherence.After changing with fresh culture medium,cells were incubated with PBS,Dye-SA-B $\\mathrm { \\langle 1 0 0 ~ n m o l / L }$ in PBS),or Dye-SA-B-HK( $\\mathrm { \\cdot 1 0 0 ~ n m o l / L }$ in PBS) for $^ { 2 \\mathrm { ~ h ~ } }$ at $3 7 ^ { \\circ } \\mathsf C$ Afterward,cells were washed with PBS and then either untreated or exposed to $6 9 0 \\mathrm { n m }$ light irradiation under the calculated doses of 2and $4 \\ \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ ，respectively.After treatment,cells were stained with a Necrosis Detection Kit (Abcam Inc., Cambridge, MA,USA) and analyzed using a confocal microscope.Experiments were performed twice using five parallel samples. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To assess the therapeutic eficacy of integrin αvβ6-targeted PTin vivo,nude mice bearing BxPC-3 cancer xenografts in both right and left front flanks with a uniform tumor size of $\\sim 1 0 0 \\mathrm { m m } ^ { 3 }$ were chosen and segregated into three groups:PBS control, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dye-SA-B,and Dye-SA-B-HK groups( $\\mathbf { \\dot { n } } = 1 5$ per group).Each mouse was injected via tail veinwith four dosesofPBS,Dye-SA-B ( $1 . 0 \\ : \\mathrm { n m o l } ;$ ,orDye-SA-B-HK(1.0 nmol) on days O,3,7,and 10,respectively.Light irradiation $( 3 5 \\mathrm { J } / \\mathrm { c m } ^ { 2 } )$ was conducted exclusively on the right side of the tumor of all mice from the Dye-SA-B and Dye-SA-B-HK groups $^ { 2 \\mathrm { ~ h ~ } }$ after each injection.Tumor size and body weight were measured every otherday.Thetumorvolumewascalculatedusingtheformula volume $= \\mathrm { { l e n g t h } } \\times { \\mathsf { w i d t h } } ^ { 2 } / 2$ .Five mice from each group were subjected to smallanimal $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging on day 11 (see timeline of the PTand PET imaging experiments in Fig. 4C). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.9.Small-animal PET imaging ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Small-animal $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging Was performed using a microPET R4 rodent model scanner (Siemens Medical Solutions,Erlangen,Germany).Mice were injectedi.v.with 3.7 MBq ${ \\bf \\chi } _ { 1 0 0 \\ \\mu \\mathrm { C i } ) }$ of $^ { 1 8 } \\mathrm { F }$ -FDG.Five-min static PET scans were acquired at $^ { 1 \\mathrm { ~ h ~ } }$ p.i.The images were reconstructed bya two-dimensional orderedsubsets expectation maximum (OSEM）algorithm，and the region-of-interests-derived $\\% \\mathrm { I D } / \\mathrm { g }$ values were calculated as previously described [15,22]. Immediately after the PET scans,mice were sacrificed,and tumors were excised and frozen in OCT medium,then cut into $5 \\mathrm { - } \\mu \\mathrm { m }$ -thick slices for immunofluorescence staining. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.10.Immunofluorescence staining ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescence staining studies were performed to quantify GLUT-1 and Ki67 in tumor tissues with or without the treatment of Dye-SA-B or Dye-SA-B-HK PT. Tumor slices were incubated with anti-GLUT-1 and anti-Ki67(Millipore,Billerica, MA,USA） primary antibodies,respectively.The slices were then visualized using Cy3-conjugated secondary antibodies (Jackson ImmunoResearch Laboratories,West Grove,PA, USA) under a confocal microscope. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.11.Tissue microarray of human pancreatic cancers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine whether integrin αvβ6 is widely expressed in human pancreatic cancer,a tissue microarray(TMA) experiment was performed.Tumor tissue specimens randomly obtained from 90 patients with pancreatic cancer were selected for TMA construction (collaborated with the Shanghai Biochip Company Ltd., Shanghai, China)using a well-established method [23].The TMA slide was next subjected to standard immunohistochemistry using an anti-integrin ${ \\tt o u v \\beta 6 }$ primary antibody(1: 500;Bioss,Inc. Beijing,China).Staining results were quantified from tumor TMA cores,using a four-value membrane score by an experienced pathologist who was blinded.Scores of O and 1 were considered negative for integrin αvβ6,whereas scores of 2 and 3 were considered positive [24]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.12.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Quantitative data are expressed as means $\\pm \\mathsf { S D }$ .Means were compared using one-way analysis of variance (ANOVA)and Student's t test. $P$ values $< 0 . 0 5$ were considered statistically significant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Synthesis and in vitro characterization of dye-SA-B-Hk ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The integrin $\\mathsf { \\alpha v } \\beta 6 .$ -targeting fluorescence imaging agent DyeSA-B-HK wassynthesized usingstreptavidin-biotin binding chemistry (Fig.1A).The identity of biotinylated HK peptide(B-HK) was confirmed by both analytical HPLC( $\\mathrm { ' R t } = 1 6 . 8 7 \\ \\mathrm { m i n }$ )andmass spectrometry (MALDI-TOF-MS: $\\mathrm { m } / z$ ,2620.20)analyses. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The receptor-binding affinity of Dye-SA-B-HK was compared with that of the HK peptide by performing a competitive displacement assay with ${ } ^ { 1 2 5 } \\mathrm { I }$ -HYK (integrin αvβ6 specific) as the radioligand.Dye-SA-B was also added for comparison.As_shown in Fig.1B,Dye-SA-B-HK and HK inhibited binding of $^ { 1 2 5 } \\mathrm { I }$ -HYK to integrin $\\mathsf { \\alpha } \\mathsf { v } \\beta 6$ -positive BxPC-3 cells in a concentration-dependent manner. The $\\mathsf { I C } _ { 5 0 }$ values for Dye-SA-B-HK and HK were determined to be $( 2 . 4 5 \\pm 1 . 6 8 ) \\times 1 0 ^ { - 8 } \\mathrm { { M } }$ and $( 5 . 8 4 \\pm 1 . 5 2 ) \\times 1 0 ^ { - 8 } \\mathrm { { M } , }$ respectively.Dye-SA-B did not show significant binding inhibition of ${ \\bar { 1 } } 2 5 _ { \\mathrm { { I } } }$ -HYK. The $\\mathrm { I C } _ { 5 0 }$ values of the compounds suggest that the streptavidin-biotinstrategysignificantlyincreasedreceptorbinding affinity of Dye-SA-B-HK compared with HK peptide （204号 $( P < 0 . 0 5 ) \\$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Direct staining of BxPC-3 tumor cells using Dye-SA-B-HKwas performed to further determine in vitro tumor specificity.As shown inFig.1C,BxPC-3 cells incubated with Dye-SA-B-HK exhibited strong staining whereas the Dye-SA-B conjugate without the targeting peptide did not bind the BxPC-3 cells.In the presence of an excess dose of non-fluorescent HK peptide,BxPC-3 cells incubated with Dye-SA-B-HK exhibited no staining (Fig.1C)， further confirming integrin avβ6-binding specificity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.In vivo integrin αvβ6-targeting of dye-SA-B-HK ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The in vivo tumor-targeting efficacy of Dye-SA-B-HK was investigated in BxPC-3 tumor-bearing nude mice using the smallanimal in vivo optical imaging system.The tumor accumulation of Dye-SA-B-HK was clearly visualized from 1 to $2 4 \\mathrm { h }$ p.i. (Fig. 2A). The region of interest (ROl) was drawn for each tumor or muscle over time,and the total signal was normalized by the exposure time and tumor size.Dye-SA-B-HK showed the highest $\\%$ fluorescence intensity in the tumor at $^ \\textrm { \\scriptsize 1 h }$ p.i. $( 2 . 9 1 \\pm 0 . 3 4 \\% )$ ,and then significantlydecreased at4 $( 2 . 2 8 \\pm 0 . 2 5 \\%$ ： $P < 0 . 0 5 ^ { \\cdot }$ ，8 $( 2 . 2 6 \\pm 0 . 3 9 \\%$ $P < 0 . 0 5$ ，and24( $1 . 6 2 \\pm 0 . 2 8 \\%$ ： $P < 0 . 0 1$ ）p.i.(Fig.2B).The light intensity ratios between the tumor and muscle (tumor/muscle ratio) forDye-SA-B-HKwere calculated at each time point.As shown in Fig. 2C,Dye-SA-B-HK had significantly increased tumor-tomuscle ratios from1 to $^ { 8 \\mathrm { ~ h ~ } }$ 0 $2 . 4 3 \\pm 0 . 4 2$ VS. $2 . 9 6 \\pm 0 . 3 7$ ： $P < 0 . 0 5$ ） and then maintained the high level up to $2 4 \\mathrm { h }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The tumor-targeting specificity of Dye-SA-B-HK in vivo was confirmed bya blocking study.As shown in Fig.2D and E,the tumor uptake of Dye-SA-B-HK at $^ { 2 \\mathrm { h } }$ p.i.was significantly inhibited by coinjection of an excess dose of HK peptide $( 2 . 7 2 ~ \\pm ~ 0 . 1 7 \\%$ VS. $0 . 5 6 \\pm 0 . 0 4 \\%$ $P < 0 . 0 0 1 \\$ ).The tumor uptake ( $( 1 . 4 5 \\pm 0 . 2 1 \\% )$ ofDyeSA-B at $^ { 2 \\mathrm { ~ h ~ } }$ p.i.was also significantly lower than that of Dye-SAB-HK ${ \\mathit { T } } < 0 . 0 1$ ).These results demonstrated the specific in vivo targeting ofDye-SA-B-HK in BxPC-3 tumors. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Dye-SA-B-HK optical imaging-guided surgery ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Preoperative optical imaging using Dye-SA-B-HK was performed to investigate whether the technique could be used for fluorescence image-guided surgery on mice bearing orthotopically growing pancreatic cancer xenografts.After whole body optical imaging，strong fluorescence signal was detected in the left abdominal region.Under the guidance of optical imaging,the tumorswere successfully removed by surgery. Optical imaging after surgery confirmed complete removal of the tumor lesions (Fig.3A). The removed tumor tissues were subjected to histology examination.The H&E staining results of the dissected tumor lesion further confirmed the presence of tumor lesions adjacent to the normal pancreatic tissues (Fig.3B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.Intratumoral microdistribution of dye-SA-B-HK ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tocharacterize the microdistribution of Dye-SA-B-HK in orthotopically growing BxPC-3 tumors,the surgically-removed tumor tissue was frozen cut,and tumor sections were stained usingananti-human integrin ${ \\tt o u v \\beta 6 }$ antibodyto localize the integrin ${ \\tt o v } \\beta 6$ expression.As shown in Fig.3C,BxPC-3 tumor tissues stained positively for human integrin $\\mathsf { \\alpha } \\mathsf { a v } \\beta 6$ .Overlying imagingrevealed that most of the Dye-SA-B-HK positive area co-expressed human integrin αvβ6(Fig.3D),demonstrating the integrin αvβ6-specific localization of Dye-SA-B-HK in BxPC-3 tumor tissues. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5.In vitro and in vivo PTusing dye-SA-B-HK ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine the PTeffect ofDye-SA-B-HK,we first investigated its cell killing capacity in vitro.Live and necrotic cell fluorescence staining showed integrin αvβ6-specific induction of cell necrosis (Fig.4A).Compared with control groups，PT of Dye-SA-B-HK demonstrated evident tumor cell toxicity.PT also showed light irradiation dose dependence,as evidenced by a significantly increased tumor necrosis fraction in the $4 \\ : \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ group compared with the $2 \\ : \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ group ( $1 7 . 8 9 \\pm 1 . 8 3 \\%$ Vs. $1 0 . 8 5 \\pm 0 . 7 8 \\%$ ： $P < 0 . 0 1 \\$ ） (Fig. 4B). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We next investigated the in vivo tumor therapy efficacy of DyeSA-B-HK-based PT in the integrin αvβ6-positive BxPC-3 tumor model.As shown in Fig.4C,a time-dependent increase in tumor volume Was observed in the PBS and non-irradiated groups(DyeSA-B and Dye-SA-B-HK). In contrast,four doses of Dye-SA-B-HK irradiation significantly inhibited tumor growth on day 24 compared with control groups.On day 34,the average volumes were $1 9 1 4 . 6 3 ~ \\pm ~ 2 9 1 . 6 4$ ： $1 5 5 9 . 2 7 ~ \\pm ~ 5 0 0 . 5 4$ ， $1 1 0 7 . 7 0 ~ \\pm ~ 1 8 9 . 1 1$ $1 4 1 8 . 0 6 \\pm 1 2 2 . 6 8$ ,and $5 9 0 . 5 4 \\pm 3 0 0 . 0 2 ~ \\mathrm { m m } ^ { 3 }$ for the PBS,Dye-A-B, Dye-A-B PT,Dye-A-B-HK,and Dye-A-B-HKPT groups,respectively. Although the Dye-SA-B-HK phototherapy group exhibited evident antitumor effect,we observed neither mortality nor noticeable bodyweight loss among the treated mice (Fig.4D).These results suggest Dye-SA-B-HK-based PT had no over toxicity in mice. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.6.Therapy response monitoringusing PET ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine the tumor therapy response of Dye-SA-B-HK PT in the BxPC-3 tumors,we performed $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging studies to quantify tumor cell glucose metabolism.As shown in Fig.5A,the ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/46fb7a7b911d9401e0b081e18614c58bbf254aebddcce77222f31a076e7f26a6.jpg",
+        "img_caption": [
+            "Fig.2.(AReprsentatiear-ifraredfuoresencesagitaliagsofe--B-inPC-3tumor-baringueiceatd $2 4 \\mathrm { ~ h ~ }$ postinjection. (B-C) Quantified invivotumoruptake(B)andtumor-to-muscleratios(C)ofDye-SA-B-HKinBC-3tumorbearingnudemice.Resultsareexpresedasmean $\\pm \\mathsf { S D }$ 一 ${ \\bf \\dot { n } } = 5 \\mathbf { \\dot { \\theta } } ,$ .(D-E)In vivo nearinfrared fluorescence sagital imaging(D)andquantified tumor uptake(E)of BxPC-3 tumor-bearing nudemice at $^ { 2 \\mathrm { ~ h ~ } }$ after intravenous injection of Dye-SA-B-HK (with or without the blocking of an excess dose of the HK peptide) or Dye-SA-B.Results are expressed as mean $\\pm \\mathsf { S D }$ 1 $\\mathbf { \\dot { n } } = 5$ per group).\\*\\*, $P < 0 . 0 1 \\$ ；\\*\\*\\*, $P < 0 . 0 0 1 \\$ Arrows indicate the tumors in all cases. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BxPC-3 tumors were clearly visualized with good tumor-tobackground ratio for the PBS and non-phototherapy groups. The uptake in the tumor was measured from the ROl analysis.The quantified tumor uptake of $^ { 1 8 } \\mathrm { F } .$ -FDG in the Dye-SA-B-HK PT group Was significantly lower than PBS,Dye-SA-B only,Dye-SA-B PT,or theDye-SA-B-HK-only group ( $\\stackrel { \\cdot } { P } < 0 . 0 1$ ) (Fig.5B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.7. Immunofluorescence staining ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the in vivo PET imaging results,we also performed ex vivo immunofluorescence staining to determine the tumor GLUT-1 and Ki67 levels,markers reflecting tumor glucose metabolism and cell DNA synthesis,respectively.As shown in Fig.5C and D,tumor tissue fluorescence staining showed decreased GLUT-1 and Ki67 expression in the Dye-SA-B-HK PT-treated tumors,whereas BxPC-3 tumors in other groups had similar glucose metabolic activity and an equivalent cell proliferation index. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.8.Human pancreatic cancer TMA ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Weperformed a human pancreatic cancer TMA to determine whether integrin αvβ6 is overexpressed in human pancreatic cancerlesions.Tumor tissue specimens were randomly obtained from 90 pancreatic cancer patients and immunohistochemistry studies were performed to determine the integrin αvβ6 expression.After microscopic examination by an experienced pathologist,six sampleswere excluded from the analysis because they were either detached or contained mostly normal pancreatic tissues.Representative immunohistochemistry staining images of the positive and negative stainings are shown in Fig.6A.By blinded analysis,it was observed that in the remaining 84 samples,8O were integrin αvβ6-positive whereas 4 samples were integrin αvβ6-negative, resulting ina positivity ratio exceeding $9 5 \\%$ (Fig. 6B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3a775fc5a628925d81fb55393f5d19b47d611f2a3f5712a66308e270196311e.jpg",
+        "img_caption": [
+            "Fg surgicallymovedtuors.（C)munouorescetaigfhumanitegiin3tumortissestedfrotmobgice $^ { 2 \\mathrm { ~ h ~ } }$ postinjection of Dye-SA-BRdol are "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cancer-targeted therapy relies on the restricted expression of tumor-specific biomarkers for the selective deliveryof therapeutic agents to tumors while sparing normal organs for reduction of the side effects [25].As one of the most aggressive and extremely malignant tumor types with very poor prognosis,surgical intervention for pancreatic cancer is only possible in $1 0 \\%$ of cases,and targeted therapiesare generally limited [26].Previous studies have demonstrated that strong up-regulation of integrin αvβ6 is observed inapproximately $100 \\%$ of pancreatic cancers,whereas it is undetectable or is not expressed in the corresponding normal tissues [16,27]. These findings suggested that integrin $\\mathsf { \\alpha } \\mathsf { o v } \\beta 6$ isa promising biomarker of pancreatic cancer and potential therapeutic target itself.To validate the overexpression of integrin $\\boldsymbol { \\alpha } \\boldsymbol { \\mathrm { v } } \\beta \\boldsymbol { 6 }$ in tumor tissues of pancreatic cancer patients,we performed a TMA study,which clearly demonstrated that indeed integrin αvβ6 is highly expressed in over $9 5 \\%$ cases of a random selected of patient samples (Fig.6).Thus,overexpression of integrin $\\mathsf { \\alpha } \\mathsf { o v } \\beta 6$ in pancreatic cancer provides an encouraging rationale for development of integrin αvβ6-targeted agents for potential theranostic application in pancreatic cancer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study,we designed and synthesized an integrin $a v \\beta 6 -$ targeted near-infrared fluorescence agent (Dye-SA-B-HK）and investigated it for possible pancreatic cancer-targeted theranostics.The integrin αvβ6-specific peptide HK has been previously demonstrated to be highly specific for integrin αvβ6 and radiolabeled HK peptide can specifically detect integrin αvβ6- expressing tumors[15].The streptavidin-biotin strategy was used to increase the receptor binding affinity of Dye-SA-B-HK. Although we did not determine the exact binding valence for integrin αvβ6,our cell-competition binding assay clearly demonstrated that the receptor binding affinity of the imaging agent Dye-SA-B-HK was significantly higher than that of the monovalent HK peptide (Fig.1B). The in vitro high receptor binding affinity of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A Live Necrotic Merge Live Necrotic Merge Dye-SA-B-HK PBS (2 J/cm²) Dye-SA-B-HK Dye-SA-B (4 J/cm²) B \\*\\*\\*   \nDye-SA-B-HK 25 (%) eleeeitieeess 20 \\*\\* PBS D2J-SA-B 15- \\*\\*\\* Dye-SA-B-HK 10- ? Dye-SA-B (2J/cm²) Dye-SA-B (4J/cm²) Dye-SA-B 5- 2 Dye-SA-B-HK (2J/cm²) (4 J/cm²) 丙兩丙 Dye-SA-B-HK (4J/cm²) 0   \nC 2500 Time (d)_ 3 7 10 11 D 1251 1 PT 8FPEDG 厂 IIIII 虫中 中 100 + PBS 中Dye-SA-B uhiee 1500- 口Dye-SA-B-HK R 75 PBS Dye-SA-B (PT) 母Dye-SA-B/Dye-SA-B (PT) Dye-SA-B-HK (PT) 1000- Kpog 50 母Dye-SA-B-HK/Dye-SA-B-HK(PT) \\*\\* 500- 中中 II \\* 25 0+ 0+ 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 Time (d) Time (d) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dye-SA-B-HK supported the in vivo application of the NIR fluorescence agent. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The in vivo integrin $\\mathsf { \\alpha } \\mathsf { v } \\beta 6$ -targeting efficacy of Dye-SA-B-HKwas validated using in vivo whole-body fluorescence imaging in the BxPC-3 subcutaneous model. High-contrast tumor targeting of Dye-SA-B-HK was observed and the blocking study and control study using non-targeted Dye-SA-B confirmed the specificity for integrin αvβ6-targeting in vivo. Optical imaging may have limitations in deep tissue imaging and image reconstruction and quantification.However,it can be easily adapted for intraoperative or endoscopic imaging.Therefore，we established an orthotopic pancreatic model that is more clinically relevant.H&E histological examination verified the successful establishment of this mouse model (Fig.3B). In clinical practice,accurate removal of tumor lesions is crucial for better management of pancreatic cancer to avoid tumor relapse.By using Dye-SA-B-HK optical imaging-guided surgery,tumor lesions can be completely removed,as evidenced by post-surgery optical imaging (Fig.3A). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Aside from providing guidance for tumor surgery,molecular imaging techniques also playan increasingly important role in the guidance of cancer therapy, including cancer PT[28-3O]. The high and specific accumulation of Dye-SA-B-HK suggested its additional application as a cancer phototherapy agent.Thus,we evaluated its potential both in vitro and in vivo.Ideal PT agents should have minimal dark toxicityand are effective in killing cancercells/tissues under light irradiation [3O].Both in vitro and in vivo data suggested that Dye-SA-B-HK is well tolerated by tumor cells and tumorbearing nude mice without light irradiation.However,upon light irradiation,effective antitumor effectwas observed for Dye-SA-HK, clearly demonstrating the light irradiation-specificity of the PT effect of Dye-SA-HK.BxPC-3 tumor cells treated with Dye-SA-HK phototherapy in vitro had a significantly increased necrosis fraction (Fig.4A and B),which suggested that the slow tumor growth in the Dye-SA-HK phototherapy group in vivo was caused,at least in part,by tumor cell necrosis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We used four doses of Dye-SA-B-HK for phototherapy of BxPC-3 tumors and did not observe evident weight loss during the therapy period,suggesting only minor toxicity of this well-tolerated treatment strategy.In previous studies [11,31], the tumor growth curves in the vehicle control groups with or without $6 9 0 \\ \\mathrm { n m }$ light irradiation were almost identical,demonstrating that light irradiation only with NIR at $6 9 0 ~ \\mathrm { { n m } }$ had no effect on tumor growth.In this study,we observed an effective antitumor effect in the Dye-SA-BHK PT group but not in the non-irradiated groups or the Dye-SABPT group.Cancer photodynamic therapy relies on the reactive oxygen species(ROS) for tumor destruction,especially the singlet oxygen (SO）produced by the light irradiated photosensitizer [10,32].However,SO can only diffusea very short distance and has a short half-life [33,34].Therefore, the receptor recognition in the tumor tissues is needed to effect delivery of the photosensitizer to the tumor cell surface,thereby generating effective antitumor effect.This may explain that although Dye-SA-B had non-specific uptake in the tumor(Fig.2D and E) due to the enhanced permeability and retention (EPR) effect[35],we did not observed evident tumor suppression effect for Dye-SA-B upon light irradiation (Fig. 4C). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d60ea781f4f6ffed6b46f4e80a4e489b535ae2620981c3d3e263e443cd7e379.jpg",
+        "img_caption": [
+            "Fig.5.(A)Decay-correctedwhole-bodycoronalandtransaxialsmallanimalPETimagesofBxPC-3 tumor-bearing mice1hafter $^ { 1 8 } \\mathrm { F } .$ -FDG injection on day 11 after treatment with PBS,Dye-SA-B (with or without $3 5 \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ phototherapy),or Dye-SA-B-HK (with or without $3 5 \\ : \\mathrm { J } / \\mathrm { c m } ^ { 2 }$ phototherapy). Red and white arrows indicate the tumors with and without phototherapy(PT),respectively.(B) Quantification of tumor uptake from A. Results are expressed as mean $\\pm \\mathsf { S D }$ （ $( \\mathtt { n } = 5 ) ^ { \\cdot }$ ).\\*\\*， $\\textstyle P < 0 . 0 1 .$ (C-D) Immunofluorescence staining of GLUT-1 ( of this article.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Our in vivo small-animal whole body $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging manifested a remarkable decrease in $^ { 1 8 } \\mathrm { F } .$ -FDG tumor uptake in the Dye-SA-B-HK PT group compared with the control groups on day 11 after treatment (Fig.5A and B). Note that at this time point,no change in tumor size was observed (Fig.4C).The visualized tumor responses by $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging preceded the statistically significant decrease observed in tumor size (day 24; Fig.4C) by at least 13 days.These results demonstrate the sensitivity of $^ { 1 8 } \\mathrm { F } .$ -FDGPET imaging in the identification of early tumor responses to Dye-SA-BHK phototherapy. To validate the results of $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging in vivo,we performed ex vivo immunofluorescence staining of GLUT-1,a marker reflecting tumor glucose metabolism. Since Ki67 level reflects cell proliferation index,we also stained the tumor tissues for Ki67 to validate the in vivo antitumor effect of Dye-SA-BHK phototherapy.Ex vivo staining results revealed decreased glucose activityand a lower proliferative index in Dye-SA-B-HKPTtreated tumors, which confirmed the in vivo $^ { 1 8 } \\mathrm { F } .$ -FDG PET imaging results. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This study demonstrated the potential use of streptavidin-biotin chemistrywith easily self-assembly forthe generation of atumortargeting agent for simultaneously theranostic application for cancer treatment. Streptavidin modification for labeling of imaging tags (e.g.,radioisotopes for PET and SPECT;fluorescence dyes for optical imaging) did not affect the tumor-targeting efficacy of the imaging agents(the targeting motif of the imaging agents was conjugated to biotin but not streptavidin).Therefore,a dual or multi-functional molecular imaging agent composed of both a radioisotopeanda near-infrared phthalocyanine dye labeled on the streptavidin could also be easily synthesized without affecting receptor binding.With this imaging agent,the location of primary and metastatic tumor lesions can be identified by initial wholebody PET or SPECT scan. Subsequently the tumor surgery and phototherapy can then be performed under optical imaging guidance.Note that in the present study,we used human pancreatic cancer xenograft mouse models established by inoculating human cancer cells into the mice,which cannot fully mimic the clinical situation.Future studies using a patient derived xenograft (PDX) model or a transgenic pancreatic cancer model may be needed to further illustrate the potential of Dye-SA-B-HK for clinical use. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/232088c3455c35f49102607803e1c4e9f58d3fcd947ce30288b7c09fb89ad221.jpg",
+        "img_caption": [
+            "Fig（i graphshowedthatinthe84mpleseamedeteginpositiveeas4mpleseitegiegativeaiieatiof $9 5 . 2 4 \\%$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We prepared and evaluated an integrin αvβ6-targeting nearinfrared agent Dye-SA-B-HK for in vivo imaging,guided surgery and phototherapy in pancreatic cancer mouse models.Dye-SA-BHK exhibited specific integrin αvβ6-targeting both in vitro and in vivo. In an orthotopic pancreatic mouse model,Dye-SA-B-HK was successfully applied for optical image-guided removal of tumorlesions.By external light irradiation,aremarkableantitumor effect of Dye-SA-B-HK was observed and the tumor therapy responses were validated by small-animal PET imaging and ex vivo fluorescence staining.Taken together,Dye-SA-B-HK isa promising agent for theranostics of integrin αvβ6-expressing malignances, including pancreatic cancer. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported,in part,by National Natural Science Foundation of China(NSFC） projects (81471712，81222019, 81125011，and 81371614)，“973” pr0jects (2013CB733802 and 2011CB7077o5),grants from the Ministry of Science and Technology of China（2011YQ030114，2012ZX09102301， and 2012BAK25BO3)，grants from Beijing Natural Science Foundation (7132131 and 7132123),and a grant from the Beijing Nova Program (Z121107002512010). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Vincent A,Herman J, Schulick R, Hruban RH, Goggins M.Pancreatic cancer. Lancet 2011;378:607-20.   \n[2] Stathis A, Moore MJ. Advanced pancreatic carcinoma: current treatment and future challenges. Nat Rev Clin Oncol 2010;7:163-72.   \n[3]Hidalgo M. Pancreatic cancer. N Engl J Med 2010;362:1605-17.   \n[4]van Dam GM,Themelis G, Crane LM, Harlaar NJ,Pleijhuis RG,Kelder W, et al. Intraoperative tumor-specific fluorescence imaging in ovarian cancer by folate receptor-alpha targeting: first in-human results. Nat Med 2011;17: 1315-9.   \n[5] Weissleder R, Ntziachristos V.Shedding light onto live molecular targets. Nat Med 2003;9:123-8.   \n[6] Ntziachristos V, Bremer C,Weissleder R. Fluorescence imaging with nearinfrared light: new technological advances that enable in vivo molecular imaging. Eur Radiol 2003;13:195-208.   \n[7] Yuan A, Wu J, Tang X, Zhao L, Xu F, Hu Y. Application of near-infrared dyes for tumor imaging，photothermal,and photodynamic therapies. JPharm Sci 2013;102:6-28.   \n[8] Agostinis P,Berg K, Cengel KA,Foster TH,Girotti AW,Gollnick SO,et al. Photodynamic therapy of cancer: an update. CA Cancer J Clin 2011;61: 250-81.   \n[9] Cheng L, Wang C, Feng L, Yang K, Liu Z. Functional nanomaterials for phototherapies of cancer. Chem Rev 2014;114:10869-939.   \n10] Triesscheijn M, Baas P, Schellens JH, Stewart FA. Photodynamic therapy in oncology. Oncologist 2006;11:1034-44.   \n11] Mitsunaga M, Ogawa M, Kosaka N, Rosenblum LT, Choyke PL, Kobayashi H. Cancer cell-selective in vivo near infrared photoimmunotherapy targeting specific membrane molecules. Nat Med 2011;17:1685-91.   \n12] Nakajima T, Sano K, Choyke PL, Kobayashi H. Improving the efficacy of Photoimmunotherapy (PIT) using a cocktail of antibody conjugates in a multiple antigen tumor model. Theranostics 2013;3:357-65.   \n13] Sano K,Mitsunaga M, Nakajima T, Choyke PL, Kobayashi H. Acute cytotoxic effects of photoimmunotherapy assessed by 18F-FDG PET.J Nucl Med 2013;54:770-5.   \n[14] Wu AM, Olafsen T. Antibodies for molecular imaging of cancer. Cancer J 2008;14:191-7.   \n[15] Liu Z,LiuH,Ma T, Sun X,Shi J, Jia B, et al. Integrin alphavbeta6-targeted SPECT imaging for pancreatic cancer detection. J Nucl Med 2014;55:989-94.   \n[16] Bandyopadhyay A, Raghavan S. Defining the role of integrin alphavbeta6 in cancer. Curr Drug Targets 2009;10:645-52.   \n[17] Liu H,Wu Y,Wang F, Liu Z. Molecular imaging of integrin alphavbeta6 expression in living subjects. Am JNucl Med Mol Imaging 2014;4:333-45.   \n[18] Oyama T, Sykes KF, Samli KN, Minna JD, Johnston SA, Brown KC. Isolation of lung tumor specific peptides from a random peptide library: generation of diagnostic and cell-targeting reagents. Cancer Lett 20o3;202:219-30.   \n[19] Liu Z, Sun X, Liu H, Ma T,Shi J, Jia B,et al. Early assessment of tumor response to gefitinib treatment by noninvasive optical imaging of tumor vascular endothelial growth factor expression in animal models. J Nucl Med 2014;55: 818-23.   \n[20] Sun X, Ma T,Liu H, Yu X,Wu Y, Shi J, et al. Longitudinal monitoring of tumor antiangiogenic therapy with near-infrared fluorophore-labeled agents targeted to integrin alphavbeta3 and vascular endothelial growth factor. Eur J Nucl Med Mol Imaging 2014;41:1428-39.   \n[21] Liu Z, Yu Z, He W,Ma S, Sun L,Wang F. In-vitro internalization and in-vivo tumor uptake of anti-EGFR monoclonal antibody LA22 in A549 lung cancer cells and animal model. Cancer Biother Radiopharm 2oo9;24:15-24.   \n[22] Liu Z, Huang J, Dong C, Cui L, Jin X,Jia B,et al. 99mTc-labeled RGD-BBN peptide for small-animal SPECT/CT of lung carcinoma. Mol Pharmacol 2012;9: 1409-17.   \n[23] Zhu XD,Zhang JB, Zhuang PY, Zhu HG, Zhang W,Xiong YQ,et al. High expression of macrophage colony-stimulating factor in peritumoral liver tissue is associated with poor survival after curative resection of hepatocellular carcinoma. J Clin Oncol 2008;26:2707-16.   \n[24]Elayadi AN, Samli KN,Prudkin L,Liu YH, Bian A, Xie XJ,et al.A peptide selected bybiopanning identifies the integrin alphavbeta6 as a prognostic biomarker for nonsmall cell lung cancer. Cancer Res 2o07;67:5889-95.   \n[25] Ersahin D, Doddamane I, Cheng D. Targeted radionuclide therapy. Cancers - Basel 2011;3:3838-55.   \n[26] Singh P, Srinivasan R,Wig JD.Major molecular markers in pancreatic ductal adenocarcinoma and their roles in screening， diagnosis， prognosis,and treatment. Pancreas 2011;40:644-52.   \n[27] Sipos B, Hahn D, Carceller A, Piulats J, Hedderich J, Kalthoff H,et al. Immunohistochemical screening for beta6-integrin subunit expression in adenocarcinomas using a novel monoclonal antibody reveals strong up-regulation in pancreatic ductal adenocarcinomas in vivo and in vitro. Histopathology 2004;45:226-36.   \n[28] Guo M, Mao H, Li Y, Zhu A, He H, Yang H,et al. Dual imaging-guided photothermal/photodynamic therapy using micelles. Biomaterials2014;35: 4656-66.   \n[29]Haedicke K, Grafe S,Lehmann F,Hilger I. Multiplexed in vivo fluorescence optical imaging of the therapeutic efficacy of photodynamic therapy. Biomaterials 2013;34:10075-83.   \n[30] Rong P,Yang K, Srivastan A,Kiesewetter DO, Yue X,Wang F,etal.Photosensitizer loaded nano-graphene for multimodality imaging guided tumor photodynamic therapy. Theranostics 2014;4:229-39.   \n[31] Mitsunaga M, Nakajima T, Sano K, Choyke PL, Kobayashi H. Near-infrared theranostic photoimmunotherapy (PIT): repeated exposure of light enhances the effect of immunoconjugate. Bioconj Chem 2012;23:604-9.   \n[32] Dolmans DE, Fukumura D, Jain RK. Photodynamic therapy for cancer. Nat Rev Cancer 2003;3:380-7.   \n[33] Yoo JO, Ha KS.New insights into the mechanisms for photodynamic therapyinduced cancer cell death. Int Rev Cell Mol Biol 2012;295:139-74.   \n[34] Shirasu N, Yamada H, Shibaguchi H, Kuroki M, Kuroki M. Potent and specific antitumor effect of CEA-targeted photoimmunotherapy. Int J Cancer 2014;135:2697-710.   \n[35] Maeda H, Fang J, Inutsuka T, Kitamoto Y. Vascular permeability enhancement in solid tumor: various factors,mechanisms involved and its implications. Int Immunopharmacol 2003;3:319-28. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

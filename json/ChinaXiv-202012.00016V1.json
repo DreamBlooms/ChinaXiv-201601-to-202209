@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "多巴胺 ${ \\bf D } _ { 2 }$ 受体参与调节感觉门控的机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "欧华星 陈伟海",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（认知与人格教育部重点实验室，重庆） （西南大学心理学部，重庆400715)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 精神分裂症是一种常见的病因不明的精神疾病。大量文献表明精神分裂症患者所表现出来的认知紊乱和思维异常等症状与感觉门控功能的缺失有密切的关系，感觉门控是指在充满刺激的环境中，从外界的感觉信息中过滤无关的感觉信息然后执行与注意力相关的认知过程，以对显著的刺激做出反应。研究感觉门控的经典范式是震惊反射的前脉冲抑制。研究发现多巴胺 $\\cdot$ 受体可以参与调控前脉冲抑制的过程，但是多巴胺 ${ \\bf D } _ { 2 }$ 受体参与调控前脉冲抑制的机制仍不清楚。探讨多巴胺 ${ \\bf D } _ { 2 }$ 受体参与调控感觉门控即前脉冲抑制的关键脑区、神经环路及分子机制，有利于促进对精神分裂症感觉门控功能的深入研究。关键词 多巴胺，感觉门控，多巴胺 ${ \\bf D } _ { 2 }$ 受体，前脉冲抑制，精神分裂症",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "精神分裂症是一种常见的病因不明的精神疾病，终生患病率为 $0 . 3 { \\sim } 0 . 6 6 \\%$ (Sauve,Lavigne,Pochiet, Brodeur,&Lepage,2020)，对患者的身心健康造成严重的伤害。对患者而言，精神分裂症的症状可以分为阳性症状、阴性症状以及认知障碍三个方面。具体而言，阳性症状主要表现为妄想（妄想是一种非理性的、与现实不符且不可能实现的，但仍被患者坚信的错误信念）和幻觉（幻觉是指在没有外部刺激的情况下却能感知到外部刺激，如听到并不存在的声音或看到并不存在的物体等），这些症状在急性精神分裂症患者上的表现尤为明显；阴性症状则表现为情感迟钝（缺乏情感表达）、空虚（缺乏动力）和社交退缩等；认知症状是指在学习、记忆、注意力和执行功能上存在障碍(Kesby,Eyles,McGrath,& Scott,2018;Valton, Romaniuk, Douglas Steele, Lawrie, & Series, 2017)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大量文献表明精神分裂症患者所表现出来的认知紊乱和思维异常等症状与感觉门控功能的缺失有着密切的关系(K,2020)。感觉门控是指在充满感觉刺激的环境中，从显著的感觉信息中过滤无关的感觉信息然后执行与注意力相关的认知过程，以对显著的刺激做出反应(Rohleder et al.,2016; Swerdlow, Braff,& Geyer,2016)。如果感觉门控功能受到损伤，正常的认知活动就会因为受到大量无关信息的干扰而不能有效地完成。多项研究表明精神分裂症患者存在感觉门控功能的缺失，从而表现出了认知紊乱、注意缺陷和思维障碍等症状(Swerdlow",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "et al.,2018)。研究感觉门控功能的经典范式是震惊反射的前脉冲抑制（Prepulse Inhibition,PPI）(Khoja,Asatryan,Jakowec,&Davies,2019)。震惊反射是指在突发的强刺激（如声、光等）下，人或动物产生全身肌肉屈曲伸直的反射，在行为上表现为震惊反应(Mao et al.,2019)。PPI是指在出现较强的刺激（脉冲）之前的30\\~500 ms 先呈现一个较弱的刺激（前脉冲），从而抑制了对较强刺激的震惊反应(Azzopardi,Louttit,DeOliveira,Laviolette,&Schmid,2018)。PPI的缺陷反映了患者无法筛选无关信息的症状。Braff等人首次报告精神分裂症患者出现PPI缺失的现象(Braff et al.,1978)，进一步的临床研究发现，精神分裂症患者的PPI缺失与临床上多种重要的阳性和阴性症状有着密切的关系，例如PPI的异常与精神分裂症患者的精神涣散和思维障碍有着一定的关系，并且抗精神病药物在缓解精神分裂症症状的同时，也在一定程度上改善了PPI的缺失(Braff,2010)。结合PPI现象，Graham 提出了加工保护理论(Graham,1975)，认为前脉冲刺激除了引发对该刺激的中枢加工外,同时也引发了一个门控过程以削弱对随后的强干扰刺激的加工，以此来保护对前脉冲刺激信号的早期知觉编码。因此，PPI实际上是通过人或动物运动系统的活动来反映感觉门控过程，是一种衡量感觉运动门控功能的实验模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于PPI具有较高的跨物种效度，啮齿类动物的PPI缺失模型被广泛应用于筛选抗精神病药物。研究表明，多巴胺受体激动剂可以破坏正常的PPI，如直接性多巴胺受体激动剂阿扑吗啡（直接作用于多巴胺受体）和间接性多巴胺受体激动剂安非它命（通过增加突触间的多巴胺间接地激活多巴胺受体）都可以导致PPI缺失(Brosda et al.,2011;Frau et al,2016;M.Li,He,& Chen,2011)。研究表明，安非它命通过阻断多巴胺转运体的功能，从而提高突触间隙中的多巴胺含量(van der Elst,Wunderink,Ellenbroek,& Cools,2007; Wang et al.2010），而阿扑吗啡则和多巴胺类似，直接作用于多巴胺受体(Auffret,Drapier,&Vérin,2018)。之后，许多研究都证实多巴胺受体激动剂可以破坏PPI，而多巴胺受体拮抗剂如氟哌啶醇、氯氮平等可以逆转PPI的缺失，从而确立了多巴胺受体在PPI缺失调控中的重要作用(Maple, Call, Kimmel, & Hammer, 2017; Swerdlow et al., 2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多巴胺受体主要包括两大类： $\\mathbf { D } _ { 1 }$ 类受体，包括多巴胺 $\\mathbf { D } _ { 1 }$ 受体和 ${ \\bf D } _ { 5 }$ 受体； ${ \\bf D } _ { 2 }$ 类受体，包括多巴胺 $\\mathbf { D } _ { 2 } \\ 、 \\mathbf { D } _ { 3 }$ 和 $\\mathrm { D } _ { 4 }$ 受体。大量研究表明，多巴胺受体激动剂引起的PPI缺失主要由多巴胺 $\\mathbf { D } _ { 1 }$ 受体和 ${ \\bf D } _ { 2 }$ 受体共同介导，但是研究发现多巴胺受体在不同啮齿类动物的PPI模型中所起作用不同，多巴胺 $\\cdot$ 受体主要参与调控大鼠的PPI功能，而多巴胺 $\\cdot$ 受体则更多地参与调控小鼠的PPI功能(Frau et al.,2016; Khoja et al.,2019; Mosher et al.,2019)。例如，研究人员发现安非它命破坏大鼠PPI的作用由多巴胺 $\\cdot$ 受体介导而不是 $\\mathbf { D } _ { 1 }$ 受体， $\\cdot$ 受体的存在对于安非它命发挥对大鼠 PPI的破坏作用并非必要(Doherty et al.,2008)。并且有研究表明多巴胺 $\\mathrm { D } _ { 2 }$ 受体激动剂喹吡罗和7-OH-DPAT可以破坏大鼠 PPI，而多巴胺 $\\mathrm { D } _ { 2 }$ 受体拮抗剂可以恢复喹吡罗诱发的大鼠 PPI缺失(Mosher et al.,2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但是相较于大鼠，多巴胺 $\\cdot$ 受体在参与调节小鼠PPI的作用上并不明显。小鼠腹腔注射多巴胺受体激动剂的实验表明，多巴胺 $\\mathbf { D } _ { 1 }$ 受体而非多巴胺 ${ \\bf D } _ { 2 }$ 受体在调节小鼠 PPI中发挥主要作用，如腹腔注射多巴胺受体非特异性激动剂阿扑吗啡后，多巴胺 $\\mathbf { D } _ { 1 }$ 受体敲除的小鼠的 PPI不受影响，而多巴胺 ${ \\bf D } _ { 2 }$ 受体敲除的小鼠和野生小鼠的PPI受到破坏(Khoja et al.,2019)。并且，虽然有研究发现多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂依替必利可以恢复多巴胺 $\\mathrm { D } _ { 1 }$ 受体激动剂导致的小鼠PPI的缺失，但是该研究同时发现多巴胺 $\\mathrm { D } _ { 2 }$ 受体激动剂喹吡罗对小鼠的PPI没有影响(Ralph&Caine,2005)。然而，之后Ralph等研究人员发现多巴胺 $\\mathrm { D } _ { 2 }$ 受体激动剂可以破坏部分小鼠品系（C3H/HeJ，SPRET/EiJ,，和CAST/EiJ）的 PPI(Ralph& Caine,2007)。多巴胺 $\\mathrm { D } _ { 2 }$ 受体在调控大鼠和小鼠PPI上的不同表现说明了多巴胺 $\\mathrm { D } _ { 2 }$ 受体的功能存在物种差异，并且这种差异可能是由于大鼠和小鼠的多巴胺 ${ \\bf D } _ { 2 }$ 受体在突触前和突触后的分布密度存在差异(Ralph & Caine, 2007).",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PPI的缺失作为精神分裂症的一种表型，在一定程度上反映了精神分裂症的认知障碍，对PPI调控机制的探索可以促进精神分裂症认知障碍的研究。多巴胺 $\\mathrm { D } _ { 2 }$ 受体是治疗精神分裂症的主要靶点，精神分裂症患者表现出的 PPI缺陷可以通过在啮齿类动物注射多巴胺 $\\mathbf { D } _ { 2 }$ 受体激动剂模拟，并且典型的和非典型的抗精神病药都可以通过抑制啮齿类动物多巴胺 $\\cdot$ 受体的功能从而改善PPI缺失。因此本文主要以PPI模型为主探讨多巴胺 ${ \\bf D } _ { 2 }$ 受体参与调控动物感觉门控的机制，并通过对PPI这一模型更清晰的认识来了解精神分裂症认知症状的具体机制，从而更好地服务于精神分裂症的治疗。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.前脉冲抑制的神经环路",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "神经环路是脑行使功能的基础，明确介导与调节PPI的神经环路的构成和工作原理，对于进一步研究PPI的机制非常重要。对于PPI来说，主要有两个环路参与了PPI的调控，即介导PPI的初级环路和调节PPI的高级中枢构成的环路。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1前脉冲抑制的初级环路",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "介导PPI的初级神经环路位于脑干，主要参与PPI的发生过程。研究发现，通过手术切除大鼠的前脑仍然可以观察到PPI现象，表明介导PPI的初级回路位于脑干(Li& Frost,2000;Rohleder et al.,2016)，主要包括下丘（inferiorcolliculus,IC）、上丘（superiorcolliculus，SC）、脑桥脚被盖核（pedunculopontine tegmental nucleus，PPTg）以及脑桥网状核（pontine reticular nuclei，PnC）四个区域，因此PPI又被认为是一个自动化的过程(Azzopardi,Louttit,DeOliveira,Laviolette,& Schmid,2018)。研究表明，以上核团组成了PPI的初级神经环路(Kohl,Heekeren,Klosterkotter,&Kuhn,2013)，且初级神经环路包括震惊反应的兴奋环路和介导 PPI的抑制环路(Larrauri＆ Schmajuk,2006)。具体而言，震惊反应的兴奋环路为听觉刺激经听觉感受器传入蜗神经核，蜗神经核发出神经纤维投射传入到脑桥网状核，再由脑桥网状核发出的神经纤维支配脑和脊髓中运动神经元，进而引起震惊反应;而介导PPI的抑制环路为听觉前脉冲刺激经过听觉上行传导通路传递至中脑的下丘，中脑上丘的深层接受下丘发出的投射纤维传递，并向上传递到脑桥脚被盖核，脑桥脚被盖核接收到听觉前脉冲刺激的信号激活位于其中的胆碱能神经元，并向下投射至位于脑桥中部至脑桥中上部的脑桥网状核，通过作用于脑桥网状核中的M型胆碱能受体从而实现听觉前脉冲刺激对震惊刺激的抑制(Azzopardi et al.,2018)（图1）。脑桥网状核既可以接受来自听感觉神经元和脑桥脚被盖核的投射，也可以发出神经纤维投射至脑或脊髓中的运动神经元(Azzopardi et al., 2018; Ding, Xu, Gao, Wu,& Li,2019; Larrauri & Schmajuk, 2006)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5272fb0d438887e916a1fd0873e34b3969a55419639ff00e62786e64a36fe2e9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "出神经纤维，投射到震惊反射中枢的尾侧脑桥网状核并发挥对震惊反射抑制性的调节作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2调节前脉冲抑制的高级中枢 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "完整的PPI过程可以在脑干中进行，不需要前脑的参与，但是PPI会接受前脑区域自上而下的调控(Du,Wu,&Li,2011; Swerdlow,Breier,& Saint Marie,2011)。在动物试验中，通过特异性脑损伤、定位注射特异性受体激动剂、拮抗剂或神经毒素、电刺激等方式对前脑进行操纵，可以探讨前脑调控PPI的神经环路机制。研究发现，前脑参与PPI调控的区域主要包括伏隔核（nucleus accumben， NAc）(Arenas, Navarro-Francés,Montagud-Romero,Minarro,& Manzanedo,2018; Fitzgerald& Pickel,2018; Y.P.Liu, Yang,Wan,& Tung,2018)、腹侧被盖区（ventral tegmental area，VTA）(Xue et al.,2020)、海马（hippocampus，HPC）(Issy,Fonseca,Pardo, Stuhmer,& Del Bel, 2014)、杏仁核（amygdala）(Forceli, West, Murnen,&Malkova,2012)、前额叶等（prefrontal cortex，PFC）(Tapias-Espinosa et al.,2019)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Swerdlow 等提出调控 PPI的 CSPP 回路（图 2）(Azzopardi et al.,2018; Fendt,Li,&Yeomans,2001)，即中脑边缘皮质-纹状体-腹侧苍白球-脑桥回路（limbic cortex-striatum-pallidum-pontine tegmentum）(Braff,2010; Tapias-Espinosa et al.,2019)。伏隔核除了接受来自中脑腹侧被盖区的多巴胺能投射以外，还接受来自边缘皮质（边缘皮质主要包括前额叶、海马以及杏仁核）的谷氨酸能投射，并且发出 $\\gamma \\cdot$ 氨基丁酸（ $\\gamma$ aminobutyric acid，GABA）能神经投射到腹侧苍白球和脑桥脚被盖核(Bills et al.,2020)，即前额叶、杏仁核、海马通过伏隔核实现对PPI的调控，而伏隔核则通过位于其下游的腹侧苍白球和脑桥脚被盖核实现对 PPI的调控(杨阳，司天梅,2007)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "许多研究证实，位于前脑和脑干的多个区域参与了PPI的调控，而这些区域对PPI的调控主要是通过多巴胺能神经递质系统发挥作用。多巴胺能神经元主要位于腹侧被盖区和黑质致密部，并向其他脑区发出投射，主要形成四条通路，即（1）黑质纹状体通路，神经纤维起源于黑质致密部，终止于纹状体；（2）中脑边缘通路，神经纤维起源于中脑腹侧被盖区，终止于边缘系统；（3）中脑皮质通路，神经纤维起源于中脑腹侧被盖区，终止于前额叶；（4）结节-漏斗通路，神经纤维起源于弓状核，终止于正中隆起的门脉。结合CSPP回路，本文主要探讨前额叶、海马、杏仁核以及纹状体四个脑区在调节PPI过程中发挥的作用，其中前额叶、海马、杏仁核以及腹侧纹状体主要接受来自腹侧被盖区的多巴胺能神经元的投射，而背侧纹状体主要接受来自黑质致密部的多巴胺能神经元投射，许多研究表明多巴胺$\\cdot$ 受体在前脑对 PPI的调控过程中发挥了重要的作用(Qu,Swerdlow,Weber, Stouffer,&Parsons,2008)。根据多巴胺受体在不同脑区的分布，本文主要探讨前额叶、海马、杏仁核以及纹状体四个脑区中多巴胺 ${ \\bf D } _ { 2 }$ 受体调控PPI的机制。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1e9b7490cb5c3b6118272fb5b7a45b53168a180574e54ff36beffb63f8604a9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图2中脑边缘皮质-纹状体-腹侧苍白球-脑桥回路（CSPP）回路。腹侧被盖区向边缘皮质（前额叶、杏仁核、海马）发出多巴胺能神经纤维，而纹状体接受来自边缘皮质的谷氨酸能神经投射和腹侧被盖区的多巴胺能神经投射，并发出GABA能神经投射到腹侧苍白球、脑桥脚被盖核以及腹侧被盖区，从而实现对PPI的调控。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.调控PPI的关键脑区中多巴胺 $\\mathbf { D } _ { 2 }$ 受体的作用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1前额叶 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "前额叶作为调节认知功能的重要脑区，参与了注意、动机、学习、记忆等多种高级认知功能的调节。大量的研究证明，前额叶接受腹侧被盖区（ventral tegmental area,VTA）多巴胺能神经元发出的投射纤维调节，并通过谷氨酸能的输出调节皮质下脑区，进而参与了PPI的调控。前额叶中的多巴胺突触传递过程被抑制或过度激活都有可能会破坏动物的PPI。例如，在前额叶局部注射6-羟基多巴胺（6-OHDA），可以导致前额叶的多巴胺水平下降大约 $90 \\%$ ，进而引起PPI的破坏(Koch&Bubser,1994)。但是也有研究得出了不一致的结论，采用兴奋性神经毒素鹅膏蕈氨酸（ibotenic acid）损毁前额叶并未影响 PPI，但能增强阿扑吗啡对 PPI的破坏效应。而在内侧前额叶局部注射多巴胺 $\\mathrm { D } _ { 1 } / \\mathrm { D } _ { 2 }$ 受体阻断剂 cis-flupenthixol也未能破坏 Wistar大鼠的 PPI(Lacroix,Spinelli,White,&Feldon,2000)，这可能是由于这两项研究对前额叶的损毁没有达到破坏PPI所需要的程度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "虽然已有研究证实，通过激动或抑制前额叶的多巴胺受体可以调节啮齿类动物的PPI，但前额叶中多巴胺 ${ \\bf D } _ { 2 }$ 受体参与调控PPI的机制尚不清楚。研究发现，在大鼠内侧前额叶皮质注射多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂舒必利可以破坏PPI，且只有舒必利的剂量很大时才能降低所有分贝前脉冲刺激下的 PPI(Ellenbroek,Budde,&Cools,1996)。而前额叶局部注射多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂氟哌啶醇却可以逆转多巴胺受体激动剂阿扑吗啡诱发的PPI缺失(Hart,Zreik,Carper,& Swerdlow,1998)，表明多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂也可以逆转PPI缺失。综上所述，在前额叶，多巴胺 ${ \\bf D } _ { 2 }$ 受体的拮抗或激动都可以破坏PPI，多巴胺 ${ \\bf D } _ { 2 }$ 受体适度的兴奋性有助于维持正常的PPI，而典型性抗精神病药氟哌啶醇在前额叶的应用可以使PPI恢复正常，表明前额叶可能是多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂逆转精神分裂症PPI缺失的关键脑区。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "早期的研究发现，前额叶中多巴胺受体的激动或抑制可以调节PPI，而最新的一些研究则在神经环路水平对前额叶的多巴胺受体参与PPI调控的机制进行了研究。结果表明，腹侧被盖区的多巴胺能神经元轴突与前额叶的谷氨酸能神经元形成突触联系，通过激活多巴胺受体，调节前额叶中的谷氨酸能神经元的兴奋性，进而调节皮质下的脑区功能(AquinoMiranda etal.,2019)。前额叶中的谷氨酸能神经元投射到伏隔核和腹侧被盖区，而有研究表明多巴胺 ${ \\bf D } _ { 2 }$ 受体主要位于前额叶中的锥体神经元(Santana＆Artigas,2017)，因此多巴胺通过作用于谷氨酸能神经元上的多巴胺 ${ \\bf D } _ { 2 }$ 受体来抑制前额叶中的兴奋性投射，进而增强伏隔核中的多巴胺能输入(Ellenbroek et al.,1996; Liu& Steketee,2011)，从而导致大鼠PPI缺失。总之，目前的研究表明多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂在大鼠前额叶皮质的局部注射可以破坏PPI,支持了前额叶多巴胺能不足会导致感觉门控缺陷的观点，并且前额叶皮质对PPI的调控可能是通过对伏隔核的调控来实现的。但是，前额叶中的多巴胺的功能的降低对PPI的影响有待于进一步的研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有趣的是，前额叶局部注射多巴胺受体激动剂也可以导致PPI缺失。例如，前额叶局部注射阿扑吗啡后会导致 PPI缺失(Lacroix et al.,2000)，该结果表明前额叶中的多巴胺突触传递亢进也会破坏PPI。研究发现在大鼠前额叶注射安非它命和阿扑吗啡对PPI的作用不一致，表现为安非它命并不能破坏 PPI而阿扑吗啡可以破坏 PPI(Lacroix et al.,2000)。出现该结果的原因可能是因为这两种多巴胺受体激动剂的作用方式不同，直接型多巴胺受体激动剂阿扑吗啡可作用于突触后的多巴胺 ${ \\bf D } _ { 2 }$ 受体，而间接性激动剂安非它命则是通过提高突触前多巴胺的释放发挥作用。直接激动剂对受体的刺激水平可能高于间接激动剂的刺激水平，而安非它命促进多巴胺释放的突触后效应可能与正常情况一致(Lacroix etal.,2000)。在上述研究中，非选择性的多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂在研究中的应用会产生多巴胺多种受体的互相作用，使多巴胺参与调节PPI的机制研究困难而复杂。而随着多巴胺受体激动剂特异性的提升，研究单个受体在调节PPI中发挥的作用成为了可能。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2海马",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "作为调控选择性注意的关键脑区，海马区域也参与了PPI过程的调节。但海马对PPI的调控可能更多的通过间接途径发挥作用(Wang etal.,2015)。对海马神经环路的研究发现，海马接受来自腹侧被盖区中的多巴胺能神经元的投射，多项研究表明海马毁损的大鼠不会表现出PPI的缺失，但是会导致大鼠对多巴胺受体激动剂引起的PPI缺失更为敏感。例如，研究人员在腹侧海马注射兴奋性神经毒素鹅膏蕈氨酸（ibotenic acid）损毁该脑区后，大鼠对阿扑吗啡诱发的PPI缺失表现得更加敏感(Swerdlow etal.,2016)。与该结果一致的研究发现，兴奋性毒素毁损海马的新生大鼠，青春期后动物的PPI功能下降，并且对阿扑吗啡诱发的PPI缺失更为敏感(Lipska et al.,1995)，因此腹侧海马的损伤增强了多巴胺受体激活破坏 PPI的效应。而在背侧海马区域，研究发现，SD大鼠背侧海马损伤会增强动物的PPI，并且不改变大鼠对阿扑吗啡产生的 PPI缺失的敏感性(Swerdlow et al.,2000)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上所述，PPI受到海马多巴胺突触传递的调控，但是关于多巴胺 ${ \\bf D } _ { 2 }$ 受体在该过程中的作用仍有待讨论。比如研究发现，多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂喹吡罗（quinpirole）以及安非它命局部注射于Wistar大鼠背侧海马CA1区时，可以明显地导致PPI的缺失，但是安非它命对PPI的破坏作用只能被多巴胺 ${ \\bf D } _ { 1 }$ 受体拮抗剂 SCH23390 而不是多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂舒必利所恢复(Ellenbroek,Lubbers,& Cools,2002)。并且研究发现，腹侧海马受损的动物的PPI相较于正常动物更容易受到多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂喹吡罗的破坏(Swerdlow et al.,2000)。除此之外，出生后经历母婴分离的幼鼠（产后第1天至21天）在青春期后的PPI功能较差(Ellenbroek et al.,2002)，且伏隔核和海马中的多巴胺 ${ \\bf D } _ { 2 }$ 受体表达下降(Li, Xue,Shao, Shao,& Wang,2013)。总之，海马中的多巴胺 ${ \\bf D } _ { 2 }$ 受体在调控PPI这一行为中发挥了重要的作用，随着化学遗传学和光遗传学技术的发展以及特异性多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂或拮抗剂的研发，将会更有助于了解海马中的多巴胺 ${ \\bf D } _ { 2 }$ 受体对PPI的调控作用的机制。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3杏仁核 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "杏仁核这一脑区在精神分裂症的病因学研究中得到相当多的关注，并且杏仁核中的多巴胺也参与了PPI的调控(Forceli et al.,2012)。关于杏仁核调控 PPI的研究大多集中于在基底外侧杏仁核，研究发现，多巴胺局部注射到基底外侧杏仁核后将导致PPI缺失(Swerdlow,Caine,&Geyer,1992)，表明基底外侧杏仁核中的多巴胺受体可能参与了PPI的调节。进一步研究发现在基底外侧杏仁核中注射非竞争性的GABAA受体拮抗剂印防己毒素（picrotoxin）和NMDA受体拮抗剂MK-801会破坏PPI，但是这种破坏作用可以被多巴胺${ \\bf D } _ { 2 }$ 受体拮抗剂氟哌啶醇所逆转(Vinkers et al.,2010)，表明印防己毒素和MK-801在基底外侧杏仁核对PPI的破坏作用可能是通过多巴胺 ${ \\bf D } _ { 2 }$ 受体介导的。而对多巴胺受体的研究发现，多巴胺 $\\mathbf { D } _ { 1 }$ 受体和 ${ \\bf D } _ { 2 }$ 受体参与了基底外侧杏仁核调控PPI的过程，Stevenson 和Gratton 的研究证明了在基底外侧杏仁核中注射多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂雷氯必利（raclopride）后，大鼠的PPI水平降低，并且雷氯必利的剂量越大，其对 PPI的破坏效果越明显(Stevenson& Gratton,2004)。之后，研究人员在大鼠的基底外侧杏仁核注射多巴胺受体直接激动剂阿扑吗啡、多巴胺受体间接激动剂安非它命以及多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂喹吡罗都导致了PPI的降低(Salum,Issy, Brandao,Guimaraes,& Bel,2011)。Stevenson 和 Graton 的研究结果和 Salum 的研究结果的不一致可能是因为喹吡罗对多巴胺 $\\mathrm { D } _ { 4 }$ 受体的亲和力高于雷氯必利对多巴胺 ${ \\mathrm { D } } _ { 4 }$ 受体的亲和力，但是这种可能性有待于检验。杏仁核调控PPI的研究大多集中于在基底外侧杏仁核，而杏仁核还包括中央杏仁核以及内侧杏仁核等区域，而关于杏仁核其他亚区中多巴胺 ${ \\bf D } _ { 2 }$ 受体对PPI的调控有待于进一步运用新技术去探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4纹状体",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "纹状体分为腹侧纹状体和背侧纹状体，腹侧纹状体主要为伏隔核（nucleusaccumben，NAc），伏隔核主要接受来自腹侧被盖区的多巴胺能神经元的纤维投射，而背侧纹状体则主要接受来自黑质致密部的多巴胺能神经元纤维投射。研究证明，腹侧纹状体和背侧纹状体都在啮齿类动物PPI的调控中发挥了重要的作用。在正常小鼠的研究中发现PPI功能较差的小鼠，尤其是雌性小鼠，纹状体中的多巴胺含量及多巴胺 ${ \\bf D } _ { 2 }$ 受体的表达量都高于 PPI正常的动物(Arenas et al.,2018)。而在转基因动物的研究中，多巴胺转运体敲除小鼠的纹状体（尾状核和伏隔核）中高水平的多巴胺可导致PPI的显著缺失(Shen et al.,2004)，而腹腔注射多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂雷氯必利（raclopride）可以逆转这种由于纹状体多巴胺含量增多诱发的PPI缺失(Ralph,Paulus,& Geyer, 2001)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "腹侧纹状体参与PPI的调控主要由伏隔核介导。伏隔核不仅会接受腹侧被盖区发出的多巴胺能神经投射的调控，也会接受海马、前额叶以及杏仁核三个脑区传出的谷氨酸能神经纤维投射，这些投射的相互作用可调节伏隔核神经元的兴奋性，进而发挥对PPI的调控作用(Bills et al.,2020)。因此，伏隔核似乎是一个关键的皮质下整合“中枢”，连接着控制认知和行为的前脑和边缘结构，其中从腹侧被盖区到伏隔核的多巴胺投射被认为是调节PPI的关键通路(Doherty et al.,2008;Rohleder et al.,2016)。一些关于伏隔核的研究发现，伏隔核中的多巴胺 $\\mathrm { D } _ { 1 } / \\mathrm { D } _ { 2 }$ 受体激活会诱发PPI的缺失。比如将多巴胺直接注射到伏隔核会导致PPI降低(Geyer,Swerdlow,Mansbach,&Braff,1990)，将多巴胺受体激动剂阿扑吗啡注射到伏隔核也会导致 PPI缺失，但是提前向伏隔核注射 6-OHDA可以缓解 PPI的缺失(Mansbach,Braff,& Geyer,1989)，说明了伏隔核中多巴胺的正常含量可能对于维持正常的PPI水平至关重要。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "大多数研究结果表明伏隔核的多巴胺调控PPI主要是通过多巴胺 ${ \\bf D } _ { 2 }$ 受体发挥作用(Osterbog etal.,2020)，研究人员将多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂喹吡罗注射到伏隔核，发现大鼠的PPI降低，而全身注射多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂氟哌啶醇可以逆转喹吡罗导致的PPI损伤，表明在大鼠伏隔核激动多巴胺 ${ \\bf D } _ { 2 }$ 受体可以破坏 PPI(Wan& Swerdlow,1993)。关于多巴胺 $\\mathbf { D } _ { 1 }$ 受体在伏隔核调控PPI的研究发现在大鼠伏隔核中注射多巴胺 ${ \\bf D } _ { 1 }$ 受体拮抗剂 SCH23390不影响PPI(Wan& Swerdlow,1993)。而在小鼠的PPI动物模型上，多巴胺 ${ \\bf D } _ { 2 }$ 受体的兴奋性对PPI的调控作用仍存在争议。Mohr等人向C3H小鼠的伏隔核注射喹吡罗后反而增加了小鼠的PPI，而注射多巴胺 $\\mathbf { D } _ { 1 }$ 受体激动剂DAR-0100（dihydrexidine）则不影响小鼠的PPI(Mohr,Pilz,Plappert, & Fendt, 2007)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "一些研究已经证实了，伏隔核接受来自前额叶、海马以及杏仁核等脑区的投射，而伏隔核可能通过直接途径或间接途径发挥对PPI的调节作用。伏隔核调控PPI的下一级中枢可能位于腹侧苍白球（VP）(Forcelli et al.,2012)，而这一调控机制可能是由从伏隔核投射到腹侧苍白球的 GABA 能神经投射环路所介导(Bills et al.,2020; Khoja et al.,2019)。比如有研究发现腹侧苍白球局部注射GABAA受体激动剂蝇蕈醇（muscimol），可以逆转由于伏隔核内注射多巴胺后导致的PPI缺失(Forcelli et al.,2012)。与该结果一致的研究发现，在伏隔核局部注射NMDA受体激动剂喹啉酸（quinolinic acid）可以诱导大鼠的PPI缺失，而在腹侧苍白球局部注射蝇蕈醇（muscimol）可以逆转大鼠的 PPI缺失(Kodsi& Swerdlow,1994)。然而Kretschmer 和Koch 则认为伏隔核是通过单突触直接投射脑桥脚被盖核发挥对PPI的调控(Kretschmer&Koch,1998)。据推测，这种直接影响可能是通过脑桥脚被盖核内部的GABA释放来调节的，因为用蝇蕈醇（muscimol）功能性抑制脑桥脚被盖核的兴奋性可以导致大鼠的PPI缺失。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "而在由黑质致密部向背侧纹状体的通路中，Rodrigues S等人发现使用蝇蕈醇（muscimol）功能性抑制背侧纹状体兴奋性并不影响PPI(Rodrigues,Salum,&Ferreira,2017)，该结果和 Kodsi and Swerdlow的研究结果一致(Kodsi& Swerdlow,1995)，表示抑制背侧纹状体的功能不会影响PPI。但是，同时该研究发现在背侧纹状体注射多巴胺 ${ \\bf D } _ { 2 }$ 受体拮抗剂舒必利不会影响动物PPI(Rodrigues et al.,2017)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.多巴胺 $\\mathbf { D } _ { 2 }$ 受体调控PPI的分子机制",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "多巴胺受体具有多条信号转导通路，多巴胺 $\\mathbf { D } _ { 1 }$ 受体的激活主要是通过 $\\mathbf { G } _ { \\mathfrak { a } }$ 蛋白激活腺苷酸环化酶进而产生cAMP（环磷酸腺苷），cAMP可以通过激活PKA（蛋白激酶A）发挥具体作用。相反，多巴胺 ${ \\bf D } _ { 2 }$ 受体的激活主要是通过多巴胺与 $\\mathrm { { G } _ { i / o } }$ 蛋白偶联，抑制cAMP的产生，并随之抑制 PKA 的活性(Beaulieu,Gainetdinov,& Caron,2009)。除此之外，多巴胺 ${ \\bf D } _ { 2 }$ 受体的激活还可以通过非典型的信号通路降低Akt（蛋白激酶B）及其下游的GSK3（糖原合成激酶3）的磷酸化水平。而多巴胺 ${ \\bf D } _ { 2 }$ 受体发挥对行为的调节作用离不开具体信号转导通路的参与。在纹状体缺乏多巴胺转运体的转基因小鼠因为突触间隙持续存在高水平的多巴胺，导致 Akt的磷酸化水平降低，从而间接地导致GSK3的磷酸化水平降低，活性上升(Beaulieu et al., 2009; Beaulieu et al., 2004)。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1AKT/GSK3通路对PPI的调控 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Akt也称为蛋白激酶B（PKB），是一种可以引起丝/苏氨酸磷酸化的蛋白激酶，Akt的磷酸化主要是通过苏氨酸308 和丝氨酸473这两个位点，而调控Akt的上游信号通路主要是磷脂酰肌醇（phosphatidylinositol）信号通路。磷酸化的 PIP3可以使 Akt聚集到细胞膜，而且PKD1（phosphatidylinositol-dependent kinase1）蛋白可以作用于Akt引起苏氨酸308的磷酸化，另一位点（丝氨酸473）的磷酸化由PDK2/rictor-mTOR复合体引起(Beaulieu etal.,2009)。GSK3 有GSK3α 和 $\\mathrm { G S K } 3 \\beta$ 两种亚型，GSK3α 和GSK3β是两个相互联系的丝/苏氨酸蛋白激酶，最初发现是与胰岛素调控糖原合成有关。GSK3α和GSK3β在没有被磷酸化时，具有内在的活性，一旦丝氨酸21（GSK3α）或丝氨酸9（GSK3β）被磷酸化，这两个蛋白就会失活。Akt可以通过使 $\\mathrm { G S K } 3 \\mathrm { a }$ 和 $\\mathrm { G S K } 3 \\beta$ 磷酸化，从而使其失活(Beaulieu et al.,2009)。已有的研究证实多巴胺 ${ \\bf D } _ { 2 }$ 受体的激活能够通过激活下游信号通路对PPI过程发挥调控作用。并且，多巴胺 ${ \\bf D } _ { 2 }$ 受体的激活会诱导 $\\beta$ -arrestin2、Akt和糖原合成酶激酶3(GSK-3)信号复合物的形成。研究人员给小鼠注射安非它命后，Akt1敲除小鼠的PPI相较于野生小鼠明显降低 (Emamian, Hall,Birmbaum, Karayiorgou,& Gogos,2004)。该结果表明 Akt1 在多巴胺影响PPI的过程中发挥着一定的作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "一些研究也证明GSK3参与了PPI的调控。慢性的抗精神病药物（氯氮平和利培酮等）暴露增加了大鼠脑区中GSK3表达，相反，安非它命等药物可以破坏PPI并且抑制GSK3 的活性(Petal.,2003)。之后，研究人员使用GSK3 抑制剂 SB216763 注射到小鼠的内侧前额叶皮质，发现小鼠的PPI被破坏，该结果支持了GSK3在调节PPI中的作用(Det al.,2010)。但是有研究报告DISC1（Disrupted-in-Schizophrenia-1）小鼠的PPI受到损伤，而 GSK3β 抑制剂 TDZD-8 可以恢复DISC1小鼠的 PPI(TV et al.,2011)。此外，有研究报告使用GSK3抑制剂 SB216763可以降低5-羟色胺1型受体激动剂RU24969和谷氨酸的NMDA受体拮抗剂氯胺酮所导致的PPI破坏(MH,PH,CY,&HH,2012; SL& SC,2019)。总之，GSK3在调节PPI中发挥了作用，但是关于GSK3的活性上升是破坏PPI还是逆转被破坏的PPI存在一定争议。并且，以上研究只是针对GSK3在小鼠PPI发挥的作用，而GSK3在大鼠PPI中发挥的作用暂时未知。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$4 . 2 \\ : \\mathbf { G }$ 蛋白/cAMP/PKA途径",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "多巴胺 ${ \\bf D } _ { 2 }$ 受体的Gi//cAMP/PKA途径在PPI中的作用得到了一定的研究(Taura et al.,2018)。Culm及其同事向 SD大鼠的NAc 中注射百日咳毒素（Pertussis toxin）抑制 $\\mathrm { G } _ { \\mathrm { i } / \\mathrm { o } }$ 蛋白的功能后，多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂喹吡罗对动物PPI的破坏降低，并且百日咳毒素不影响正常动物的PPI(KE,AM,JA,&RP,2003)。因此研究者认为多巴胺 ${ \\bf D } _ { 2 }$ 受体的激活导致的PPI破坏效应是通过伏隔核的 $\\mathrm { { G } _ { i / o } }$ 通路，表明腺苷酸环化酶和 PKA在其中发挥了重要作用(KE etal.,2003)。随后，Culm 发现伏隔核局部注射 PKA激动剂 Sp-cAMPS可以逆转系统给药多巴胺 ${ \\bf D } _ { 2 }$ 受体激动剂喹吡罗引起的 PPI 缺失(Culm,Lugo-Escobar,Hope,& Hammer,2004)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "根据以上研究的发现，在多巴胺 ${ \\bf D } _ { 2 }$ 受体调控PPI模型的信号通路中，PKA和PKB这两条信号转导通路可能同时发挥了一定的作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.总结与展望 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PPI作为一种测量感觉门控的经典模型，是一种跨物种现象，容易量化，在精神分裂症等一系列疾病的研究中得到广泛的应用。虽然介导PPI的初级中枢位于脑干，但其受到边缘皮质和纹状体等前脑结构的调控，并且涉及到包括多巴胺、谷氨酸、γ-氨基丁酸等不同的神经递质。前脑对PPI的调控主要包括前额叶、海马、杏仁核、纹状体等脑区，这些脑区组成CSPP 回路(Tapias-Espinosa et al.,2019)，多巴胺是CSPP 回路调控PPI过程中的重要神经递质，但是多巴胺 $\\cdot$ 受体在CSPP神经环路是如何发挥调控PPI的作用有待研究，并且多巴胺 $\\cdot$ 受体调控PPI的分子机制仍然没有定论。虽然有实验证明了G蛋白/cAMP/PKA途径和AKT/GSK3通路都在其中发挥了重要的作用，但是具体的调节机制仍然未知。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "基于以上，关于多巴胺 ${ \\bf D } _ { 2 }$ 受体调控PPI的机制仍然存在许多问题。首先，关于多巴胺$\\cdot$ 受体调控PPI的脑区已经得到了广泛的研究，并且研究人员提出了CSPP回路，但是关于多巴胺在调控PPI的回路中所起的作用仍存在问题，随着病毒示踪技术、化学遗传学技术和光遗传学技术的发展，关于调控PPI的脑区之间的神经环路可以被更透彻地解析。并且，由于不同种系动物的基因或结构存在差异，因此在大鼠中得到的实验结果不能直接应用于人，因此进一步的研究需要采取功能性核磁共振技术和脑电技术，去更好地探索人或非人灵长类动物中感觉门控这一模型的机制，并将其研究成果应用于治疗精神分裂症患者中。其次，多巴胺 ${ \\bf D } _ { 2 }$ 受体调节PPI的信号通路虽然得到了一系列的研究，但仍然存在争议，因此在之后的研究中可以采取注射工具药、使用转基因技术或者注射病毒阻断G蛋白/cAMP/PKA途径和AKT/GSK3通路中某一条通路去观察动物的PPI表现，从而探索G蛋白/cAMP/PKA途径和AKT/GSK3通路在多巴胺 ${ \\bf D } _ { 2 }$ 受体调节PPI中发挥的作用。最后，多巴胺 ${ \\bf D } _ { 2 }$ 受体在调节大鼠和小鼠PPI的过程中受到种系的影响，且有研究表明该影响是由于多巴胺 ${ \\bf D } _ { 2 }$ 受体在大鼠和小鼠脑区的分布密度不同，因此需要更多地应用转基因技术去探讨突触后多巴胺 ${ \\bf D } _ { 2 }$ 受体分布密度的不同对PPI的影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考义",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "杨阳,司天梅.(2007).震惊反射的前脉冲抑制与精神分裂症.国际精神病学杂志,034(002),85-88.   \nAquino-Miranda,G.，Rivera-Ramirez,N.,Marquez-Gómez,R.,Escamilla-Sanchez,J., Gonzalez-Pantoja,R, Ramos-Languren, L., ． Arias-Montano,J. (2019). Histamine H receptor activation reduces the impairment in prepulse inhibition (PPI) of the acoustic startle response and Akt phosphorylation induced by MK-801 (dizocilpine),antagonist at N-Methyl-d-Aspartate (NMDA) receptors. Progress in neuropsychopharmacology & biological psychiatry, 94,109653.doi:10.1016/j.pnpbp.2019.109653   \nArenas,M. C.，Navarro-Francés,C.I.,Montagud-Romero,S.，Minaro,J.,& Manzanedo,C.(2018).Baseline prepulse inhibition of the startle reflex predicts the sensitivity to the conditioned rewarding effects of cocaine in male and female mice.Psychopharmacology (Berl),235(9),2651-2663.doi:10.1007/s00213- 018-4959-8   \nAuffret,M.,Drapier,S.，& Vérin,M. (2018).The Many Faces of Apomorphine: Lessons from the past and challenges for the future.Drugs R D,18(2),91-107. doi:10.1007/s40268-018-0230-3   \nAzzopardi,E.,Loutit,A.,DeOliveira,C.,Laviolete,S.,&Schmid,S. (2018).The Roleof Cholinergic Midbrain Neurons in Startle and Prepulse Inhibition.The Journal of neuroscience : the Official Journal of the Society for Neuroscience,38(41), 8798-8808.doi:10.1523/jneurosci.0984-18.2018   \nBeaulieu, J. M., Gainetdinov,R.R.,& Caron, M.G.(2009). Akt/GSK3 signaling in the action of psychotropic drugs. Annu Rev Pharmacol Toxicol, 49,327-347. doi:10.1146/annurev.pharmtox.011008.145634   \nBeaulieu,J. M.,Sotnikova,T.D.,Yao, W.D.,Kockeritz,L.,Woodgett,J.R., Gainetdinov,R.R,& Caron,M. G. (2004).Lithium antagonizes dopamine-dependent behaviors mediated by an AKT/glycogen synthase kinase 3signaling cascade. ProcNatl AcadSciU S A， 101(14)， 5099-5104. doi:10.1073/pnas.0307921101   \nBills,K.，Obray，J.， Clarke,T.，Parsons,M.，Brundage,J.，Yang,C.，.．.Steffensen,S.(202O).Mechanical stimulation of cervical vertebrae modulates the discharge activity of ventral tegmental area neurons and dopaminereleaseinthenucleusaccumbens.Brainstimulation,13(2)， 403-411. doi:10.1016/j.brs.2019.11.012   \nBraff,D.,Stone,C.,Callaway,E., Geyer, M., Glick,I.,& Bali,L. (1978). Prestimulus effects on human startle reflexin normals and schizophrenics. Psychophysiology， 15(4)，339-343． doi:10.111/j.1469- 8986.1978.tb01390.x   \nBraff,D.L. (2Ol0).Prepulse inhibition of the startle reflex: a window on the brain in schizophrenia. Curr Top Behav Neurosci,4,349-371. doi:10.1007/7854_2010_61   \nBrosda,J.,Hayn,L.,Klein,C.,Koch,M.,Meyer,C.Schallhorn,R.,&Wegener,N. (211).Pharmacologicaland parametrical investigation of prepulse inhibition of startle and prepulse elicited reactions in Wistar rats. Pharmacol Biochem Behav, 99(1),22-28. doi:10.1016/j.pbb.2011.03.017   \nCulm,K.E,Lugo-Escobar,N., Hope,B.T.,& Hammer,R.P.,Jr. (2004).Repeated quinpirole treatment increases cAMP-dependent protein kinase activity and CREB phosphorylation in nucleus accumbens and reverses quinpirole-induced sensorimotor gating deficits in rats. Neuropsychopharmacology, 29(10),1823-1830. doi:10.1038/sj.npp.1300483   \nD,K.,KH,B.,FW,H.,T,S.,V,K.,A,B.,& U,H. (201). Protein Phosphatase 2a and glycogen synthase kinase 3 signaling modulate prepulse inhibition of the acoustic startle response by altering cortical M-Type potassium channel activity. The Journal of neuroscience : The offcial journal of the Society for Neuroscience, 30(26), 8830-8840. doi:10.1523/jneurosci.1292-10.2010   \nDing,Y., Xu,N., Gao,Y., Wu, Z.,&Li,L. (2019).The role of the deeper layers of the superior collculus in attentionalmodulationsofprepulseinhibition.BehavBrainRes，364，106-113. doi:10.1016/j.br.2019.01.052   \nDoherty,J.M.，Masten,V.L.，Powell,S.B.,Ralph,R.J.,Klamer,D.,Low, M.J.，& Geyer,M.A.(2008). Contributions of dopamine D1, D2,and D3 receptor subtypes to the disruptive effects of cocaine on prepulse inhibition in mice. Neuropsychopharmacology, 33(11),2648-2656. doi:10.1038/sj.npp.1301657   \nDu, Y.,Wu, X.,&Li,L. (2011). Diferentially organized top-down modulation of prepulse inhibition of startle. J Neurosci, 31(38),13644-13653. doi:10.1523/JNEUROSCI.1292-11.2011   \nEllenbroek,B.,Budde,S.,& Cools,A. (1996).Prepulse inhibition and latent inhibition: The roleof dopamine in the medial prefrontal cortex. Neuroscience, 75(2),535-542. doi:10.1016/0306-4522(96)00307-7   \nEllenbroek, B.A., Lubbers,L. J.,& Cools,A.R. (2002). The role of hippocampal dopamine receptors in prepulse inhibition. Eur J Neurosci,15(7),1237-1243. doi:10.1046/j.1460-9568.2002.01948.x   \nEmamian,E.S., Hall, D., Birnbaum, M. J., Karayiorgou, M.,& Gogos, J.A. (2004). Convergent evidence for impaired AKT1-GSK3beta signaling in schizophrenia. Nat Genet, 36(2),131-137.doi:10.1038/ng1296   \nFendt,M.,Li,L.,& Yeomans,J.S.(Ool). Brain stem circuits mediating prepulse inhibitionof the startlereflex. Psychopharmacology (Berl),156(2-3),216-224. doi:10.1007/s002130100794   \nFitzgerald,M.,& Pickel,V. (2O18). Adolescent isolation rearing produces a prepulse inhibition deficit correlated with expresson of the NMDA GluN1 subunit in the nucleus accumbens. Brain structure & function, 223(7),3169-3181. doi:10.1007/s00429-018-1673-6   \nForceli, P.A. West,E.A., Murnen,A. T.,& Malkova,L. (2012). Ventral palldum mediatesamygdala-evoked deficits in prepulse inhibition. Behav Neurosci,126(2),290-300.doi:10.1037/a0026898   \nFrau,R.,Mosher,L.J.,Bini,V.,Pilolla,G.Pes,R.,Saba,P.,..Bortolato,. (2016).The neurosteroidogenic enzyme 5α-reductase modulates the role of Dl dopamine receptors in rat sensorimotor gating. Psychoneuroendocrinology,63,59-67.doi:10.1016/j.psyneuen.2015.09.014   \nGeyer,M.A.,Swerdlow,N.R.,Mansbach,R.S.,& Braf,D.L. (1990). Startle response models of sensorimotor gating and habituation deficits in schizophrenia. Brain Res Bull,25(3),485-498.doi:10.1016/0361- 9230(90)90241-q   \nGraham, F.K. (1975). Presidential Address，1974.The more or less startling effcts of weak prestimulation. Psychophysiology, 12(3),238-248. doi:10.1111/j.1469-8986.1975.tb01284.x   \nHart, S., Zreik,M., Carper,R.,& Swerdlow, N.R.(1998).Localizing haloperidoleffcts onsensorimotor gating in apredictive model of antipsychotic potency. Pharmacol Biochem Behav, 61(1)，113-119. doi:10.1016/s0091-3057(98)00079-3   \nIssy, A.C.,Fonseca,J.R.,Pardo,L.A.，Stuhmer,W.,& Del Bel,E.A. (2014). Hippocampal ether-a-go-gol potassium channels blockade: Efects in the startle reflex and prepulse inhibition. Neurosci Let, 559,13- 17. doi:10.1016/j.neulet.2013.11.026   \nK,S.(2020).Why is prepulse inhibition disrupted in schizophrenia? Medical hypotheses，143，109901. doi:10.1016/j.mehy.2020.109901   \nKE, C.,AM,L., JA, O., & RP, H. (2003). Reduced G(i) and G(o) protein function in the rat nucleus accumbens attenuatessensorimotorgating deficits. Brain research, 982(1)， 12-18. doi:10.1016/s0006- 8993(03)02880-4   \nKesby, J.P.,Eyles,D.W.,McGrath,J.J.，&Scot, J.G.(2018). Dopamie,psychosis and schizophrenia:The widening gap between basic and clinical neuroscience. Transl Psychiatry,8(1),30. doi:10.1038/s41398- 017-0071-9   \nKhoja,S.,Asatryan,L., Jakowec,M. W.,& Davies,D.L. (2019). Dopamine Receptor Blockade Attenuates Purinergic P2X4 Receptor-Mediated Prepulse Inhibition Deficits and Underlying Molecular Mechanisms. Front Cell Neurosci,13,331. doi:10.3389/fncel.2019.00331   \nKoch,M.,& Bubser, M. (1994). Deficient sensorimotor gating after 6-hydroxydopamine lesion of the rat medial prefrontal cortex is reversed by haloperidol. Eur J Neurosci, 6(12),1837-1845.doi:10.111/j.1460- 9568.1994.tb00576.x   \nKodsi,M.H.,& Swerdlow, N. R.(1994). Quinolinic acid lesions of the ventral striatum reduce sensorimotor gating of acoustic startle in rats.Brain Res, 643(1-2),59-65.doi:10.1016/0006-8993(94)90008-6   \nKodsi,M.H.,& Swerdlow,N.R.(1995). Prepulse inhibition in the rat is regulated by ventral and caudodorsal striato-pallidal circuitry. Behav Neurosci,109(5),912-928. doi:10.1037//0735-7044.109.5.912   \nKohl, S.,Heekeren,K.,Klosterkotter,J.,&Kuhn,J. (2O13).Prepulse inhibition in psychiatricdisorders--apart from schizophrenia.JPsychiatr Res,47(4), 445-452. doi:10.1016/j.jpsychires.2012.11.018   \nKretschmer, B.D.,& Koch, M.(1998).The ventral palidum mediates disruption of prepulse inhibition of the acoustic startle response induced by dopamine agonists,but not by NMDA antagonists. Brain Res,798(1- 2),204-210. doi:10.1016/s0006-8993(98)00424-7   \nLacroix,L.,Spineli,S.，White,W.,&Feldon,J. (2oo0).The effectsof ibotenic acid lesionsofthe medial and lateral prefrontal cortex on latent inhibition，prepulse inhibition and amphetamine-induced hyperlocomotion. Neuroscience, 97(3), 459-468.doi:10.1016/s0306-4522(00)00013-0   \nLarrauri,J.,& Schmajuk,N.(2006). Prepulse inhibition mechanisms and cognitive processs:A review and model.EXS, 98,245-278.doi:10.1007/978-3-7643-7772-4_12   \nLi,L.,&Frost, B.J. (2Ooo).Azimuthal directional sensitivityof prepulse inhibition of the pinna startle reflex in decerebrate rats. Brain Res Bull, 51(1),95-100.doi:10.1016/s0361-9230(99)00215-4   \nLi,M.,He,W.,& Chen,J. (2011).Time course of prepulse inhibition disruption induced by dopamine agonists and NMDA antagonists: effects of drug administration regimen. Pharmacol Biochem Behav, 99(3), 509-518. doi:10.1016/j.pbb.2011.05.001   \nLi,M.,Xue, X.，Shao,S., Shao,F.，& Wang,W.(2013). Cognitive,emotional and neurochemical effects of repeated maternal separationinadolescentrats.BrainRes，1518，82-90. doi:10.1016/j.brainres.2013.04.026   \nLipska,B.K.,Swerdlow,N.R.,Geyer,M.A.,Jaskiw,G.E.,Braf,D.L.,& Weinberger,D.R.(1995).Neonatal excitotoxic hippocampal damage in rats causes post-pubertal changes in prepulse inhibition of startle and its disruption by apomorphine.Psychopharmacology (Berl),122(1),35-43. doi:10.1007/bf02246439   \nLiu,K.,& Steketee, J. D. (2011). Repeated exposure to cocaine alters medial prefrontal cortex dopamine D2-like receptor modulation of glutamate and dopamine neurotransmission within the mesocorticolimbic system. J Neurochem,119(2),332-341. doi:10.111j.1471-4159.2011.07362.x   \nLiu,Y.P.,Yang, Y.Y.,Wan,F.J.,& Tung, C.S. (2018). Importance of intervention timing in the effectivenessof antipsychotics. Prog Neuropsychopharmacol Biol Psychiatry, 81, 493-500. doi:10.1016/j.pnpbp.2017.02.003   \nMansbach,R.S.，Braff,D.L.,& Geyer, M. A.(1989). Prepulse inhibition of the acoustic startle response is disrupted by N-ethyl-3,4-methylenedioxyamphetamine (MDEA) in the rat. Eur JPharmacol,167(1), 49- 55. doi:10.1016/0014-2999(89)90746-2   \nMao, Z.,Bo, Q.,Li, W., Wang,Z.，Ma,X.，& Wang,C. (2019).Prepulse inhibition in patients with bipolar disorder: a systematic review and meta-analysis. BMC Psychiatry,19(1),282. doi:10.1186/s12888-019- 2271-8   \nMaple,A. M.,Call T., Kimmel, P.C.,& Hammer,R.P.,Jr. (2017).Effcts of repeated ropinirole treatment on phencyclidine-induced hyperlocomotion,prepulse inhibition deficits,and social avoidance in rats. $J$ Pharmacol Exp Ther; 361(1),109-114. doi:10.1124/jpet.116.238634   \nMH, C.,PH, C., CY,L.,& HH, C. (2012). Inhibition of glycogen synthase kinase-3 atenuates psychotomimetic effects of ketamine. Schizophrenia research,136,96-103. doi:10.1016/j.schres.2012.01.024   \nMohr,D.,Pilz,P.K.,Plappert, C.F.,& Fendt,M. (2007).Accumbal dopamine D2 receptors are important for sensorimotor gating inC3H mice. Neuroreport, 18(14), 1493-1497. doi:10.1097/WNR.0b013e3282e9a863   \nMosher,L.，Cadeddu，R.，Yen，S.，Staudinger，J.，Traccis，F.，Fowler，S.，．．.Bortolato，M.(2019). Allpregnanolone is required for prepulse inhibition deficits induced by D dopamine receptor activation. Psychoneuroendocrinology, 108,53-61. doi:10.1016/j.psyneuen.2019.06.009   \nMosher,L.J.,Frau,R.，Pardu,A.,Pes,R., Devoto,P.，& Bortolato,M. (2016). Selective activation of D1 dopamine receptors impairs sensorimotor gating in Long-Evans rats. Br J Pharmacol, 173(13),2122- 2134.doi:10.111/bph.13232   \nOsterbog,T.B.,On,D.M.,Oliveras,1.,Rio-Alamos, C.,Sanchez-Gonzalez,A.,Tapias-Espinosa,C.,...Aznar,S. (2020).Metabotropic Glutamate Receptor 2 and Dopamine Receptor 2 Gene Expression Predict Sensorimotor Gating Response in the Genetically Heterogeneous NIH-HS Rat Strain. Mol Neurobiol, 57(3),1516-1528.doi:10.1007/s12035-019-01829-w   \nP, S.,ET,T.,R,C.,I, R.,S,W.,M,N,..P,G.(). Diverse psychotomimetics act through acommonsignaling pathway. Science (New York, N.Y.),302(5649),1412-1415. doi:10.1126/science.1089681   \nQu, Y.,Swerdlow, N.R.，Weber, M., Stoufer,D.,& Parsons,L.H. (20o8). Quinelorane,a dopamine D3/D2 receptor agonist, reduces prepulse inhibition of startle and ventral pallidal GABA efflux: Time course studies.Pharmacol Biochem Behav, 90(4), 686-690. doi:10.1016/j.pbb.2008.05.012   \nRalph,R.,& Caine,S. (2005). Dopamine Dl and D2 agonist effects on prepulse inhibition and locomotion: comparison of Sprague-Dawley rats to Swiss-Webster, 129X1/SvJ, C57BL/6J,and DBA/2J mice. The Journal ofpharmacology and experimental therapeutics, 312(2),733-741. doi:10.1124/jpet.104.074468   \nRalph,R.,& Caine,S.(2007). Efects of selective dopamine D1-like and D2-like agonists on prepulse inhibition of startle in inbred C3H/HeJ, SPRET/EiJ,and CAST/EiJ mice. Psychopharmacology,191(3),731-739. doi:10.1007/s00213-006-0511-3   \nRalph,R.J.,Paulus,M.P.,& Geyer, M.A. (20ol1).Strain-specific efects ofamphetamine on prepulse inhibition and patterns of locomotor behavior in mice.JPharmacol Exp Ther; 298(1),148-155.Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/11408536   \nRodrigues, S.， Salum, C.，& Ferreira, T.L. (2017). Dorsal striatum D1-expressing neurons are involved with sensorimotorgatingonprepulseinhibitiontest. $J$ Psychopharmacol, 31(4)， 505-513. doi:10.1177/0269881116686879   \nRohleder, C., Wiedermann,D., Neumaier,B., Drzezga,A.,Timmermann,L., Graf,R.. Endepols,H. (2016). The Functional Networks of Prepulse Inhibition: Neuronal Connectivity Analysis Based on FDG-PET in Awake and Unrestrained Rats.Front Behav Neurosci,10,148. doi:10.3389/fnbeh.2016.00148   \nSalum, C.,Issy,A.C.,Brandao,M.L., Guimaraes,F.S.,&Bel,E.A. (2011). Nitric oxide modulates dopaminergic regulation of prepulse inhibition in the basolateral amygdala. JPsychopharmacol, 25(12),1639-1648. doi:10.1177/0269881110379282   \nSantana,N.,& Artigas,F. (2017). Laminar and Celular Distribution of Monoamine Receptors in Rat Medial Prefrontal Cortex. Front Neuroanat,11,87. doi:10.3389/fnana.2017.00087   \nSauve,G., Lavigne，K. M.，Pochiet,G.，Brodeur,M. B.，& Lepage,M. (2020). Efficacy of psychological interventions targeting cognitive biases in schizophrenia: A systematic review and meta-analysis. Clin   \nShen,H.W.,Hagino,Y.,Kobayashi,H.,Shinohara-Tanaka,K.,Ikeda,K.,Yamamoto,H.,..Sora,I. (2004). Regional diferences in extracellular dopamine and serotonin assessed by in vivo microdialysis in mice lacking dopamine and/or serotonin transporters. Neuropsychopharmacology， 29(10)， 1790-1799. doi:10.1038/sj.npp.1300476   \nSL,T.，& SC,D. (2019). Dissecting the roles of $\\beta$ -arrestin2 and GSK-3 signaling in 5-HT1BR-mediated perseverative behavior and prepulse inhibition deficits in mice. PLoS One,14(2)，e0211239. doi:10.1371/journal.pone.0211239   \nStevenson, C. W.,& Gratton,A. (2004). Role of basolateral amygdala dopamine in modulating prepulse inhibition and latent inhibition in therat. Psychopharmacology (Berl)，176(2),139-145.doi:10.1007/s00213-004- 1879-6   \nSwerdlow, N., Braff,D., & Geyer, M. (2016). Sensorimotor gating of the startle reflex: What we said 25 years ago, what has happened since then, and what comes next. Journal of psychopharmacology (Oxford, England), 30(11),1072-1081. doi:10.1177/0269881116661075   \nSwerdlow,N.,Breier,M.,& Saint Marie,R. (2011).Probing the molecular basis for an inherited sensitivity to the startle-gating disruptive effects of apomorphine in rats. Psychopharmacology， 216(3)， 401-410. doi:10.1007/s00213-011-2228-1   \nSwerdlow, N.R., Caine,S.B.,& Geyer, M.A.(1992).Regionally selective effects of intracerebral dopamine infusion on sensorimotor gating of the startle reflex in rats.Psychopharmacology (Berl)，108(1-2),189- 195. doi:10.1007/bf02245306   \nSwerdlow, N.R.,Light, G.A.,Thomas,M.L.,Sprock,J.,Calkins,M.E., Green,M.F.,..Braff,D.L. (2018). Deficient prepulse inhibition in schizophrenia in a multi-site cohort: Internal replication and extension. Schizophr Res,198,6-15. doi:10.1016/j.schres.2017.05.013   \nSwerdlow,N.R.,Taaid,N.,Halim,N.,Randolph,E.,Kim,Y.K.,& Auerbach,P.(2ooo).Hippocampal lesions enhance startle gating-disruptive effects of apomorphine in rats: A parametric assessment. Neuroscience, 96(3),523-536.doi:10.1016/s0306-4522(99)00528-x   \nTapias-Espinosa,C.,Rio-Alamos,C.,Snchez-Gonzalez,A.,Oliveras,I.,Sampedro-Viana,D., Castilo-Ruiz,M,. ..Fernandez-Teruel,A. (2019). Schizophrenia-like reduced sensorimotor gating in intact inbred and outbred rats isassociated with decreased medial prefrontal cortex activityand volume. Neuropsychopharmacology $\\therefore$ official publication of the American College of Neuropsychopharmacology, 44(11),1975-1984. doi:10.1038/s41386-019-0392-x   \nTaura,J.,Vale-Leon,M.,Sahlholm,K., Watanabe,M.,Van Craenenbroeck,K.,Fernandez-Duenas,V.,.Ciruela, F. (2018). Behavioral control by striatal adenosine A2A -dopamine D2 receptor heteromers. Genes Brain Behav, 17(4), e12432. doi:10.1111/gbb.12432   \nTV,L.,O, K.-B., S,P.， M,W.，SJ,C.,F,L.,... JC,R. (2011). Genetic and pharmacological evidence for schizophrenia-related Disc1 interaction with GSK-3. Synapse (New York, N.Y.)， 65(3)， 234-248. doi:10.1002/syn.20839   \nValton，V.，Romaniuk，L.，Douglas Steele，J.，Lawrie，S.，& Series，P.(2017). Comprehensive review: Computationalmodellingofschizophrenia.NeurosciBiobehavRev，83，631-646. doi:10.1016/j.neubiorev.2017.08.022   \nvan der Elst,M.，Wunderink,Y.,Ellenbroek,B.，& Cools,A.(2007).Diferences in the cellular mechanism underlying the effects of amphetamine on prepulse inhibition in apomorphine-susceptible and apomorphine-unsusceptible rats. Psychopharmacology,190(1),93-102.doi:10.1007/s00213-006-0587-9   \nVinkers,C.H., Bijlsma,E.Y.，Houtepen,L.C., Westphal, K.G.,Veening,J.G., Groenink,L.，& Olivier,B. (2010).Medial amygdala lesions diffrentially influence stress responsivity and sensorimotor gating in rats.Physiol Behav, 99(3),395-401. doi:10.1016/j.physbeh.2009.12.006   \nWan,F.J.,& Swerdlow, N.R.(1993). Intra-accumbens infusion of quinpirole impairs sensorimotor gating of acoustic startle in rats.Psychopharmacology (Berl),113(1),103-109.doi:10.1007/bf02244341   \nWang, J.,Li, G.,Xu,Y.,& Zhang, W.N. (2O15). Hyperactivity and disruption of prepulse inhibition induced by NMDA infusion of the rat ventral hippocampus: Comparison of uni- and bilateral stimulation. Neurosci Lett, 594,150-154.doi:10.1016/j.neulet.2015.03.066   \nWang,M.,Pei,L.,Fletcher,P.J.,Kapur,S.,Seeman,P.,&Liu,F.(O1).Schizophrenia,amphetamine-induced sensitized state and acute amphetamine exposure all show a common alteration: increased dopamine D2 receptor dimerization.Mol Brain,3,25.doi:10.1186/1756-6606-3-25   \nXue, C.,Li, X.H.,Liu, M. Q., Yang, X. C.,Li, G. H., Xu,R.J... Zhang, W. N. (202O). Enhancing excitatory projections from the ventral subiculum to the nucleus accumbens shellcontribute to the MK-8O1-induced impairment of prepulse inhibition.Neurosci Lett 731,135024.doi:10.1016/j.neulet.2020.135024 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Mechanisms underlying the role of ${ \\bf D } _ { 2 }$ receptors in regulating sensory gating ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Schizophrenia is a common psychotic disease whose etiology and mechanism are not well defined. It has been shown that the symptoms of cognitive disorder and abnormal thoughts of schizophrenics are associated with the deficit of sensory gating. Sensory gating refers to filter irrelevant sensory information from the external ones and then implement the cognitive process related to attention, so as to respond to prominent stimuli. The pre-pulse inhibition (PPI) paradigm is always used to study sensory gating. It has been found that dopamine ${ \\bf D } _ { 2 }$ receptors play a critical role in regulating PPI, but the mechanisms underlying the role of dopamine ${ \\bf D } _ { 2 }$ receptors in regulating PPI remain largely elusive. The review focuses on molecular mechanisms underlying the regulating effect of dopamine D2 receptors on sensory gating, so as to promote the in-depth study of sensory gating function in schizophrenia. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Keywords: dopamine, sensory gating, dopamine ${ \\bf D } _ { 2 }$ receptor, pre-pulse inhibition, schizophrenia ",
+        "page_idx": 20
+    }
+]

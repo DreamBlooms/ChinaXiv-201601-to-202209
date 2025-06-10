@@ -1,0 +1,223 @@
+L 地顶孢霉培养物对大鼠生长性能、血清与肝脏抗氧化及免疫指标的影响李　洋　林 聪　许文斌 　张幸怡 王一臻 　高 红 　窦秀静 　郝小燕　张永根\*（东北农业大学动物科学技术学院，哈尔滨150030）
+
+摘要：本试验旨在研究地顶孢霉培养物对大鼠生长性能、血清与肝脏抗氧化以及免疫指标的影响。选用体重相近的 SD大鼠40只，随机分成5组，每组8个重复，每个重复1只大鼠。5 组分别是对照组和4个不同地顶孢霉培养物剂量组(10、50、250 和 $1 ~ 2 5 0 ~ \mathrm { m g / k g }$ BW组)，连续灌胃 21d。结果表明：地顶孢霉培养物极显著提高大鼠的平均日增重（ $_ { . } P { < } 0 . 0 1 \rangle$ ；提高了大鼠肝脏指数、胸腺指数；提高了大鼠血清中总蛋白（TP）、白蛋白（ALB）、球蛋白（GLB）和葡萄糖（GLU）含量，降低了谷丙转氨酶（ALT）、谷草转氨酶（AST）活力和低密度脂蛋白（LDL）含量；提高了血清和肝脏中谷胱甘肽过氧化物酶（GSH-Px）活力和总抗氧化能力（T-AOC)，降低丙二醛（MDA）含量，同时提高了肝脏中的总超氧化物歧化酶（T-SOD）含量；提高了血清免疫球蛋白A、免疫球蛋白G 和免疫球蛋白M含量，同时提高血清和肝脏中白介素-4（IL-4）含量，降低白介素-1β（IL-1β）和白介素-17（IL-17）含量。综合各项指标，地顶孢霉培养物能够提高 SD大鼠平均日增重，改善血清生化指标，提高大鼠机体抗氧化能力和免疫能力，其中以 $2 5 0 \mathrm { m g / k g \ B W }$ 的添加量为最佳。
+
+关键词：地顶孢霉培养物；SD大鼠；生长性能；抗氧化；免疫中图分类号：S816.7 文献标识码： 文章编号：
+
+古尼虫草是我国稀有的虫草类药材，含有同冬虫夏草相似的药理成分，具有提高睡眠，调节免疫，提高记忆力，镇静和止痛等作用[I-2]。古尼虫草中存在很多重要的次级代谢产物，如虫草酸、虫草素、虫草多糖和抗紫外线成分等[3]。古尼虫草具有优秀的药理功能，但是昂贵的价格限制了其在动物生产中的应用和发展。因此，替代古尼虫草的人工培养物应运而生。地顶孢霉培养物是由从古尼虫草分离的地顶孢霉菌经人工发酵而得到的产品，拥有虫草素、虫草酸、多糖、甾醇和氨基酸等与古尼虫草相似的功能性成分。如果能够合理地将地顶孢霉培养物应用到动物生产中，使其活性成分或作用转移到肉蛋奶等家畜产品上，将具有重大的
+
+意义。
+
+前人已经证明添加地顶孢霉培养物能够提高仔猪增重[4]，提高蛋鸭的体重和产蛋率，改善蛋品质[5]。同时，地顶孢霉菌丝体能够显著提高肝纤维化大鼠的免疫能力[，顶孢霉发酵液提取物具有优于维生素E的自由基清除能力]。另外，许多研究也发现地顶孢霉培养物所含有的功能性成分能够提高白虾的生产性能和免疫能力[8]。具有相似功能性成分的虫草类产品也能够改善小鼠的抗氧化能力和免疫能力9。以上研究已经证明，地顶孢霉培养物在改善动物免疫机能方面具有很大的潜力。但是目前，对于地顶孢霉培养物的研究只局限于对家畜生产性能的改善和抗体免疫效价的提高上，缺乏对动物以及抗氧化和免疫能力的综合研究。因此，本试验旨在系统地研究地顶孢霉培养物对大鼠生长性能、血清与肝脏抗氧化和免疫指标的影响，为地顶孢霉培养物在未来的生产应用提供理论基础和数据支持。
+
+1材料与方法
+
+# 1.1 试验动物与材料
+
+共选择40只7周龄、体重 $1 6 0 ~ \mathrm { g }$ 左右的雄性清洁级 SD大鼠。大鼠和鼠粮均购自吉林大学试验动物中心。每笼4只鼠，自由采食，饮水。每天维持 $1 2 \mathrm { h }$ 光照，温度( $2 5 { \pm } 0 . 5$ ）℃，相对湿度（ $5 5 { \pm } 5 \$ ） $\%$ 。
+
+地顶孢霉培养物（Acremoniumterricolaculture，ATC）来自合肥迈可罗生物工程有限公司，是由古尼虫草中提取的地顶孢霉菌经人工发酵得到的灭活的虫草类真菌饲料添加剂，含有 $2 6 . 8 4 \%$ 粗蛋白质， $5 . 0 0 \%$ 粗纤维， $3 . 0 6 \%$ 粗脂肪， $4 . 0 4 \%$ 粗灰分和 $6 1 . 0 6 \%$ 无氮浸出物（干物质基础)。其中功能性成分含量分别是：虫草酸 $8 4 . 5 0 ~ \mathrm { g / k g }$ ，虫草多糖 $4 4 . 6 0 ~ \mathrm { g / k g }$ ，虫草素$0 . 4 3 2 { \mathrm { g / k g } }$ ，甾醇 $0 . 5 9 7 { \mathrm { g / k g } }$ ，总氨基酸 $2 1 8 . 1 \ \mathrm { g / k g }$ 。
+
+# 1.2 试验分组
+
+7周龄的 SD大鼠分为5组，每组8只，每只大鼠作为1个重复。分别为对照组，地顶孢霉培养物 $1 0 \mathrm { m g / k g }$ BW 组、 $5 0 \mathrm { m g / k g }$ BW 组、 $2 5 0 \mathrm { m g / k g \ B W }$ 组和 $1 2 5 0 \mathrm { m g / k g }$ BW组。地顶孢霉培养物连续灌胃 $2 1 \mathrm { d }$ ，对照组灌胃生理盐水。
+
+# 1.3样品采集和处理
+
+灌胃结束后，禁食 $2 4 \mathrm { h }$ ，称重记录，计算平均日增重。摘眼球采血后立刻颈椎脱白处死，采集心脏、肝脏、脾脏、肺脏、肾脏、胸腺、胃和睾丸，并称重，计算脏器指数，公式脏器指数（%）=（脏器里/体里）×I0U。 。
+
+采用意大利 Fully 全自动生化分析仪测定以下血清生化指标：总蛋白（TP）、白蛋白（ALB）、球蛋白（GLB）、谷丙转氨酶（ALT）、谷草转氨酶（AST）、甘油三酯（TG）、胆固醇（CHOL）、高密度脂蛋白（HDL）、低密度脂蛋白（LDL）、尿素氮（UN）和葡萄糖（GLU)。以上试剂盒均购自北京中生北控生物科技股份有限公司，具体测定方法参见试剂盒说明书。将分离的肝脏按照1:9（m/V）的比例，加入生理盐水制成 $10 \%$ 的匀浆。大鼠血清和肝脏匀浆测定过氧化氢酶（CAT）、总超氧化物歧化酶（T-SOD）和谷胱甘肽过氧化物酶（GSH-Px）的活力，总抗氧化能力（T-AOC）及丙二醛（MDA）含量。试剂盒均购自南京建成生物工程有限公司，具体测定方法参见试剂盒说明书。肝脏和血清的免疫指标采用酶联免疫分析（ELISA）法检测。免疫指标包括白介素-1β（IL-1β）、白介素-2（IL-2）、白介素-4（IL-4）、白介素-6（IL-6）、白介素-10（IL-10）、白介素-17（IL-17）、肿瘤坏死因子 $\mathbf { \sigma } \cdot \mathbf { \alpha } \mathbf { \cdot } \mathbf { \alpha } \mathbf { \cdot } \mathbf { \alpha } \mathbf { \cdot } \mathbf { \alpha }$ (TNF- $\mathbf { \nabla } \cdot \mathbf { a }$ )，以及免疫球蛋白A（IgA）、免疫球蛋白G（IgG)和免疫球蛋白 M（IgM)。试剂盒均购自武汉博士德生物工程有限公司，具体测定方法参见试剂盒说明书。
+
+# 1.4数据处理与分析
+
+数据采用SAS9.1.2软件进行分析，多重比较采用Duncan氏法，数据以平均值 $\cdot \pm { }$ 标准误的形式表示， $P { < } 0 . 0 5$ 代表差异显著， $P { < } 0 . 0 1$ 代表差异极显著， $0 . 0 5 { \leqslant } P { < } 0 . 1 0$ 代表有趋势。
+
+2结果与分析
+
+2.1地顶孢霉培养物对SD大鼠生长性能的影响
+
+由表1可见，各组初体重没有显著差异（ $( P { > } 0 . 0 5 )$ ；连续灌胃21d后，试验组末体重极显著高于对照组（ $. P { < } 0 . 0 1 \ \mathrm { \cdot }$ )。试验组中， $1 \ 2 5 0 \ \mathrm { m g / k g \ E }$ 3W组极显著高于 $1 0 ~ \mathrm { m g / k g }$ BW组（ $P { < } 0 . 0 1 \$ )，与其他2组差异不显著（ $( P { > } 0 . 0 5 )$ ； $1 0 \mathrm { m g / k g }$ BW 组末体重与 $5 0 \mathrm { m g / k g \ B W }$ 组、$1 0 0 \mathrm { m g / k g \ B W }$ 组之间差异也不显著（ $. P { > } 0 . 0 5 )$ ；与对照组相比，试验组平均日增重极显著升高（ $_ { . P < 0 . 0 1 }$ )，且各试验组间差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+# 表1地顶孢霉培养物对SD大鼠生长性能的影响
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td rowspan="2">Items</td><td rowspan="2">对照Control</td><td>10 mg/kg</td><td>50 mg/kg</td><td>250 mg/kg</td><td>1 250 g/kg</td><td></td><td rowspan="2">P-value</td></tr><tr><td>BW</td><td>BW</td><td>BW</td><td>BW</td><td></td></tr><tr><td>初体重 Initial body weight</td><td>166.25</td><td>161.00</td><td>161.50</td><td>160.25</td><td>163.00</td><td>1.85</td><td>0.18</td></tr><tr><td>末体重 Final body weight</td><td>329.00Cc</td><td>343.00Bb</td><td>347.00ABab</td><td>351.50ABab</td><td>357.25Aa</td><td>3.50</td><td><0.01</td></tr><tr><td>平均日增重 Average daily gain</td><td>7.75Bb</td><td>8.64Aa</td><td>8.90Aa</td><td>9.07Aa</td><td>9.25Aa</td><td>0.20</td><td><0.01</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital lettersuperscripts mean significant difference ( $( P { < } 0 . 0 5 )$ ).The sameasbelow.
+
+# 2.2地顶孢霉培养物对 SD大鼠脏器指数的影响
+
+由表2可知，试验组的肝脏指数极显著高于对照组（ $_ { \scriptstyle P < 0 . 0 1 }$ )，试验组间差异不显著（ $( P { > } 0 . 0 5 )$ ；与对照组和 $1 0 \mathrm { m g / k g }$ BW 组相比， $2 5 0 \mathrm { m g / k g \ B W }$ 组和 $1 2 5 0 \mathrm { m g / k g } \cdot$ BW组的胸腺指数极显著升高（ $P { < } 0 . 0 1 \rangle$ ，且 $5 0 \mathrm { m g / k g \ B W }$ 组、 $2 5 0 ~ \mathrm { m g / k g }$ BW组和 $1 \ : 2 5 0 \ : \mathrm { m g / k g }$ BW组间差异不显著（ ${ \cdot } P { > } 0 . 0 5 { \mathrm { ) } }$ ，对照组和 $1 0 \mathrm { m g / k g \ B W }$ 组间差异不显著（ $( P { > } 0 . 0 5 )$ ；地顶孢霉培养物对大鼠其他器官的脏器指数没有显著影响（ $P { > } 0 . 0 5 \rangle$ ）°
+
+表2地顶孢霉培养物对SD大鼠脏器指数的影响  
+Table 2Effects of Acremonium terricola culture on organ coeficient in Sprague Dawley rats   
+组别 Groups   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2"></td><td rowspan="2">对照Control</td><td rowspan="2">10 mg/kg</td><td colspan="3"> 50 mg/kg</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td></td><td>250 mg/kg</td><td>1 250 mg/kg</td></tr><tr><td></td><td></td><td></td><td>BW</td><td>BW</td><td>BW</td><td>BW</td><td></td><td></td></tr><tr><td>心脏Heart 肝脏Liver</td><td></td><td>0.39 3.40Bb</td><td>0.40 3.60Aa</td><td>0.43</td><td>0.43</td><td>0.43</td><td>0.02</td><td>0.38</td></tr><tr><td>脾脏 Spleen</td><td></td><td></td><td>0.24</td><td>3.57Aa</td><td>3.67Aa</td><td>3.68Aa</td><td>0.06</td><td><0.01</td></tr><tr><td>肺脏Lung</td><td></td><td>0.24</td><td>0.44</td><td>0.25</td><td>0.28</td><td>0.22</td><td>0.01</td><td>0.06</td></tr><tr><td>肾脏Kidney</td><td></td><td>0.44</td><td></td><td>0.43</td><td>0.47</td><td>0.42</td><td>0.02</td><td>0.37</td></tr><tr><td>胸腺Thymus</td><td></td><td>0.79 0.23Bb</td><td>0.78 0.24Bb</td><td>0.86 0.25ABab</td><td>0.78</td><td>0.77</td><td>0.03</td><td>0.11</td></tr><tr><td>胃Stomach</td><td></td><td>0.66</td><td>0.79</td><td>0.63</td><td>0.28Aa 0.73</td><td>0.28Aa</td><td>0.01</td><td><0.01</td></tr><tr><td>睾丸Testis</td><td></td><td>0.91</td><td>0.90</td><td>0.91</td><td>0.93</td><td>0.73 0.92</td><td>0.06 0.02</td><td>0.34 0.90</td></tr></table></body></html>
+
+92 2.3地顶孢霉培养物对SD大鼠血清生化指标的影响
+
+由表3可见，与对照组相比，灌胃地顶孢霉培养物提高了大鼠血清 TP、ALB、GLB和 GLU 的含量，降低了ALT、AST 活力和LDL 的含量。其中，10 mg/kg BW 组、 $5 0 \mathrm { m g / k g }$ BW组和 $2 5 0 ~ \mathrm { m g / k g }$ BW 组的 TP含量之间差异不显著（ $P { > } 0 . 0 5$ )，但极显著高于对照组（ $P { < } 0 . 0 1$ ),1250 mg/kgBW 组的TP含量与对照组相比差异不显著( $. P { > } 0 . 0 5$ ) $2 5 0 \mathrm { m g / k g }$ BW组的血清 ALB 含量极显著高于对照组（ $_ { \scriptstyle P < 0 . 0 1 }$ ，而 $1 \ 2 5 0 \ \mathrm { m g / k g }$ BW 组却极显著低于10mg/kg BW 组、 $5 0 \ \mathrm { m g / k g }$ BW组和 $2 5 0 ~ \mathrm { m g / k g }$ BW组（ $_ { \scriptstyle P < 0 . 0 1 }$ )，其他各组间差异不显著（ $( P { > } 0 . 0 5 )$ ；对照组的血清GLB 和GLU 含量极显著低于试验组（ $P { < } 0 . 0 1 \ \mathrm { \cdot }$ )，试验组中GLB含量间差异不显著（ $. P { > } 0 . 0 5 )$ ， $2 5 0 ~ \mathrm { m g / k g }$ BW 组的GLU 含量最高，极显著高于其他试验组（ $_ { | P < 0 . 0 1 \rangle }$ ；大鼠血清的 ALT、AST 活力和 LDL 的含量随地顶孢霉培养物灌胃量增加而降低。 $5 0 ~ \mathrm { m g / k g }$ BW 组、 $2 5 0 ~ \mathrm { m g / k g }$ BW组和 $1 \ 2 5 0 \ \mathrm { m g / k g \ B ^ { \prime } }$ W 组之间的ALT活力差异不显著（ $. P { > } 0 . 0 5 \ '$ )，但均极显著低于对照组和 $1 0 ~ \mathrm { m g / k g }$ BW组（ $_ { ( P < 0 . 0 1 ) }$ ，对照组与 $1 0 ~ \mathrm { m g / k g }$ BW组差异也不显著( $( P { > } 0 . 0 5 )$ ;对照组血清 AST 活力极显著高于 $5 0 \mathrm { m g / k g }$ BW组、 $2 5 0 \mathrm { m g / k g }$ BW组 $. P { < } 0 . 0 1 \ \cdot$ )， $1 ~ 2 5 0 ~ \mathrm { m g / k g } \mathrm { I }$ 3W 组极显著低于对照组和 $1 0 \mathrm { m g / k g \ B W }$ 组 $( P { < } 0 . 0 1 ) ; 1 2 5 0 \ \mathrm { m g / k g }$ BW 组的血清LDL含量最低，且差异极显著低于其他各组（ $_ { . } P { < } 0 . 0 1 \$ ， $2 5 0 ~ \mathrm { m g / k g }$ BW组极显著低于对照组和 $1 0 \mathrm { m g / k g \ B W }$ 组（ $_ { . } P { < } 0 . 0 1 \$ )，对照组、 $1 0 \mathrm { m g / k g \ B W }$ 组、 $5 0 \mathrm { m g / k g \ B W }$ 组之间差异不显著（ $. P { > } 0 . 0 5 )$ ；随着地顶孢霉培养物的灌胃量增加， $5 0 ~ \mathrm { m g / k g }$ BW组的高密度脂蛋白含量有升高趋势（ $\scriptstyle \cdot P = 0 . 0 5 )$ ，而对其他血清生化指标没有影响。
+
+表3地顶孢霉培养物对SD大鼠血清生化指标的影响  
+Table 3Effects of Acremonium terricola culture on serum biochemical indexes in Sprague Dawley rats   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">组别Groups</td><td rowspan="2">P值</td></tr><tr><td>对照</td><td>10 mg/kg</td><td> 50 mg/kg</td><td>250 mg/kg</td><td>1 250 mg/kg</td><td>SEM</td></tr><tr><td>Items</td><td>Control</td><td>BW</td><td>BW</td><td>BW</td><td>BW</td><td></td><td>P-value</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>64.00Cc</td><td>68.25ABab</td><td>68.50ABab</td><td>70.25Aa</td><td>65.75BCbc</td><td>1.26</td><td>0.01</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>44.75BCbc</td><td>45.25ABab</td><td>45.75ABab</td><td>46.75Aa</td><td>43.75Cc</td><td>0.56</td><td>0.01</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>19.25Bb</td><td>21.00Aa</td><td>22.00Aa</td><td>21.00Aa</td><td>22.00Aa</td><td>0.40</td><td><0.01</td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>54.25Aa</td><td>54.00Aa</td><td>44.75Bb</td><td>43.88Bb</td><td>34.00Bb</td><td>0.12</td><td><0.01</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>185.25Aa</td><td>176.75ABab</td><td>168.25BCbc</td><td>165.25BCbc</td><td>155.75Cc</td><td>4.67</td><td><0.01</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.91</td><td>0.94</td><td>1.00</td><td>1.02</td><td>1.01</td><td>0.06</td><td>0.65</td></tr><tr><td>胆固醇 CHOL/(mmol/L)</td><td>1.65</td><td>1.57</td><td>1.87</td><td>1.75</td><td>1.57</td><td>0.09</td><td>0.19</td></tr><tr><td>高密度脂蛋白 HDL/(mmol/L)</td><td>0.67</td><td>0.67</td><td>0.73</td><td>0.65</td><td>0.61</td><td>0.03</td><td>0.05</td></tr><tr><td>低密度脂蛋白LDL/(mmol/L)</td><td>0.39Aa</td><td>0.40Aa</td><td>0.34ABab</td><td>0.33Bb</td><td>0.27Cc</td><td>0.02</td><td><0.01</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>6.18</td><td>6.55</td><td>6.78</td><td>6.48</td><td>6.55</td><td>0.20</td><td>0.35</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.51Cc</td><td>8.35Bb</td><td>8.19Bb</td><td>9.15Aa</td><td>7.86Bb</td><td>0.27</td><td><0.01</td></tr></table></body></html>
+
+112 2.4地顶孢霉培养物对 SD大鼠血清抗氧化指标的影响
+
+113 由表4 可见，试验组的血清GSH-Px 活力和 T-AOC 极显著高于对照组（ ${ \cal P } { < } 0 . 0 1$ ）；试  
+114 验组中 $1 2 5 0 \mathrm { m g / k g \ B W }$ 组的GSH-Px 活力极显著高于其他组（ ${ \cdot } P { < } 0 . 0 1$ )，50 mg/kgBW组和
+
+$2 5 0 \mathrm { m g / k g }$ BW 组间差异不显著（ $( P { > } 0 . 0 5 )$ ，10 mg/kgBW组最低； $1 \ : 2 5 0 \ : \mathrm { m g / k g }$ BW组和250$\mathrm { m g / k g \ B W }$ 组的 T-AOC之间差异不显著( $( P { > } 0 . 0 5 )$ ),但极显著高于另外3组( $P { < } 0 . 0 1$ ）, 10 mg/kgBW组和 $5 0 \mathrm { m g / k g }$ BW 组差异不显著（ $. P { > } 0 . 0 5 \$ )，但极显著高于对照组（ $P { < } 0 . 0 1 \ \cdot$ ；对照组的血清 MDA 含量极显著高于 $5 0 \ \mathrm { m g / k g }$ BW 组、 $2 5 0 \mathrm { \ m g / k g }$ BW 组和 $1 ~ 2 5 0 ~ \mathrm { m g / k g }$ BW组（ $P { < } 0 . 0 1 \$ ，但与 $1 0 ~ \mathrm { m g / k g }$ BW 组差异不显著（ $_ { \cdot \cdot P > 0 . 0 5 } )$ ， $2 5 0 ~ \mathrm { m g / k g }$ BW 组的 MDA含量最低；地顶孢霉培养物对大鼠血清CAT 和 T-SOD 活力没有显著影响（ $. P { > } 0 . 0 5 )$ ）
+
+表4地顶孢霉培养物对SD大鼠血清抗氧化指标的影响  
+Table 4Effects of Acremonium terricola culture on serum antioxidant indexes in Sprague Dawley rats   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">组别Groups</td><td rowspan="2">P值</td></tr><tr><td>对照</td><td>10 mg/kg</td><td> 50 mg/kg</td><td>250 mg/kg</td><td>1 250 mg/kg</td><td>SEM</td></tr><tr><td> Items</td><td>Control</td><td>BW</td><td>BW</td><td>BW</td><td>BW</td><td></td><td>P-value</td></tr><tr><td>过氧化氢酶 CAT/(U/mL)</td><td>7.40</td><td>8.21</td><td>8.52</td><td>9.31</td><td>8.05</td><td>0.82</td><td>0.58</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mL)</td><td>2 609.65Dd</td><td>3 568.73Cc</td><td>4 004.83Bb</td><td>4 027.41Bb</td><td>4 447.88Aa</td><td>142.02</td><td><0.01</td></tr><tr><td>总超氧化物歧化酶 T-SOD/(U/mL)</td><td>322.58</td><td>362.30</td><td>334.37</td><td>331.14</td><td>337.88</td><td>9.94</td><td>0.08</td></tr><tr><td>总抗氧化能力 T-AOC/(U/mL)</td><td>5.12Dd</td><td>5.95Cc</td><td>6.97Cc</td><td>7.31ABab</td><td>7.96Aa</td><td>0.24</td><td><0.01</td></tr><tr><td>丙二醛 MDA/(nmol/mL)</td><td>7.92Aa</td><td>7.82ABab</td><td>7.50Bb</td><td>4.21Dd</td><td>5.74Cc</td><td>0.12</td><td><0.01</td></tr></table></body></html>
+
+123 2.5地顶孢霉培养物对 SD大鼠血清免疫指标的影响
+
+124 由表5可见， $2 5 0 \mathrm { m g / k g \ B W }$ 组的血清 $\mathrm { I L } { - } 1 \beta$ 含量极显著低于其他组（ $_ { . } { \cal P } { < } 0 . 0 1$ )，对照组  
+125 极显著高于其他组（ $_ { . } P { < } 0 . 0 1 \$ )，剩余3组间差异不显著（ $. P { > } 0 . 0 5 )$ )；与对照组和 $1 0 \mathrm { m g / k g }$ BW  
+126 组相比, $5 0 \mathrm { m g / k g \ B W }$ 组、 $2 5 0 \mathrm { m g / k g \ B W }$ 组和 $1 2 5 0 \mathrm { m g / k g \ B W }$ 组的血清 IL-4 含量极显著升  
+127 高 $( P { < } 0 . 0 1 )$ )，其中对照组和 $1 0 \mathrm { m g / k g \ B W }$ 组相比差异不显著（ $( P { > } 0 . 0 5 )$ ，其余组间差异不显  
+128 著（ $. P { > } 0 . 0 5 \$ ； $2 5 0 \mathrm { m g / k g }$ BW 组的血清IL-17含量极显著低于其他各组（ ${ \scriptstyle \cdot } { \cal P } { \scriptstyle < } 0 . 0 1$ )，且各试验  
+129 组间差异不显著（ $( P { > } 0 . 0 5 )$ )，对照组与 $1 0 \ \mathrm { m g / k g }$ BW组和 $1 \ 2 5 0 \ \mathrm { m g / k g }$ BW 组差异不显著  
+130 （ $( P { > } 0 . 0 5 )$ ，但极显著低于 $5 0 \mathrm { m g / k g }$ BW组（ $_ { _ { P < 0 . 0 1 } }$ ；血清IgA、IgG 和 $\mathrm { I g } \mathrm { M }$ 的含量随着灌  
+131 胃量的增加而提高，其中， $1 ~ 2 5 0 ~ \mathrm { m g / k g ~ B W }$ 组的血清IgA含量最高，且极显著高于其他各  
+132 组（ $_ { . } P { < } 0 . 0 1 \$ ， $2 5 0 \mathrm { \ m g / k g }$ BW 组极显著高于对照组、 $1 0 \ \mathrm { m g / k g }$ BW 组、 $5 0 \ \mathrm { m g / k g }$ BW组  
+133 （ $P { < } 0 . 0 1$ )，对照组与 $1 0 \mathrm { m g / k g \ B W }$ 组差异不显著 $( P { > } 0 . 0 5 ) ; 2 5 0 \ \mathrm { m g / k g \ B W }$ 组和 $1 2 5 0 \mathrm { m g / k g }$   
+134 BW 组间的血清IgG 含量差异不显著 $( P { > } 0 . 0 5 )$ )，但极显著高于其他3组( ${ \cdot } P { < } 0 . 0 1$ )， $5 0 \mathrm { m g / k g }$   
+135 BW 组极显著高于对照组和 $1 0 \mathrm { m g / k g \ B W }$ 组（ $_ { \cdot } P { < } 0 . 0 1 \rangle$ ，这2组间差异不显著（ $P { > } 0 . 0 5 \$ ；50  
+136 mg/kg BW 组、 $2 5 0 \mathrm { \ m g / k g }$ BW组和 $1 \ 2 5 0 \ \mathrm { m g / k g }$ BW组血清 $\mathrm { I g } \mathrm { M }$ 含量极显著高于对照组
+
+（ $P { < } 0 . 0 1 \ \mathrm { \cdot }$ ， $1 0 \mathrm { m g / k g }$ BW 组与对照组差异不显著（ $. P { > } 0 . 0 5 \ '$ ，与50 mg/kgBW 组差异也不显著（ $( P { > } 0 . 0 5 )$ ， $5 0 ~ \mathrm { m g / k g }$ BW组与 $1 \ 2 5 0 \ \mathrm { m g / k g }$ BW组差异不显著（ $. P { > } 0 . 0 5 \$ ；地顶孢霉培养物对大鼠血清中其他炎性因子没有显著影响（ $P { > } 0 . 0 5 \rangle$ ）
+
+Table 5Effects of Acremonium terricola culture on serum immune indexes in Sprague Dawley rats   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">组别Groups</td><td rowspan="2">P值</td></tr><tr><td>对照</td><td>10 mg/kg</td><td>50 mg/kg</td><td>250 mg/kg</td><td>1 250 mg/kg</td><td>SEM</td></tr><tr><td>Items</td><td>Control</td><td>BW</td><td>BW</td><td>BW</td><td>BW</td><td></td><td>P-value</td></tr><tr><td>白介素-1β IL-1β/(ng/L)</td><td>41.13Aa</td><td>35.67Bb</td><td>36.37Bb</td><td>32.45Cc</td><td>37.32Bb</td><td>0.93</td><td><0.01</td></tr><tr><td>白介素-2 IL-2/(ng/L)</td><td>1 494.02</td><td>1 388.27</td><td>1 407.07</td><td>1 415.26</td><td>1 405.91</td><td>30.05</td><td>0.13</td></tr><tr><td>白介素-4 IL-4/(ng/L)</td><td>125.87Bb</td><td>120.18Bb</td><td>135.95Aa</td><td>143.32Aa</td><td>135.94Aa</td><td>2.68</td><td><0.01</td></tr><tr><td>白介素-6 IL-6/(ng/L)</td><td>155.42</td><td>151.37</td><td>159.80</td><td>156.06</td><td>151.22</td><td>2.63</td><td>0.14</td></tr><tr><td>白介素-10 IL-10/(ng/L)</td><td>60.29</td><td>62.01</td><td>61.80</td><td>62.11</td><td>61.26</td><td>1.90</td><td>0.96</td></tr><tr><td>白介素-17 IL-17/(ng/L)</td><td>23.34Aa</td><td>22.35ABab</td><td>21.61Bb</td><td>19.75Cc</td><td>22.54ABab</td><td>0.36</td><td><0.01</td></tr><tr><td>肿瘤坏死因子-α TNF-α/(ng/L)</td><td>279.57</td><td>273.45</td><td>270.50</td><td>279.67</td><td>277.81</td><td>6.70</td><td>0.83</td></tr><tr><td>免疫球蛋白AIgA/(g/L)</td><td>27.40Dd</td><td>27.09Dd</td><td>30.93Cc</td><td>35.13Bb</td><td>37.95Aa</td><td>0.75</td><td><0.01</td></tr><tr><td>免疫球蛋白GIgG/(g/L)</td><td>287.36Cc</td><td>281.84Cc</td><td>311.34Bb</td><td>365.27Aa</td><td>368.88Aa</td><td>6.52</td><td><0.01</td></tr><tr><td>免疫球蛋白MIgM/(g/L)</td><td>7.64Dd</td><td>7.76CDcd</td><td>8.41BCbc</td><td>10.31Aa</td><td>8.77Bb</td><td>0.23</td><td><0.01</td></tr></table></body></html>
+
+142 2.6地顶孢霉培养物对SD大鼠肝脏抗氧化指标的影响
+
+143 由表6可见,灌胃地顶孢霉培养物对肝脏CAT活力没有影响，但是提高了肝脏GSH-Px、  
+144 T-SOD 活力和 T-AOC，降低了MDA的含量。 $1 ~ 2 5 0 ~ \mathrm { m g / k g }$ BW组GSH $\mathbf { \cdot P x }$ 活力极显著高于  
+145 $2 5 0 \mathrm { m g / k g \ B W }$ 组（ $P { < } 0 . 0 1 \rangle$ ， $2 5 0 \mathrm { m g / k g }$ BW 组极显著高于其他各组（ $_ { \scriptstyle P < 0 . 0 1 }$ )，且其他各组  
+146 间不存在显著差异（ $. P { > } 0 . 0 5 )$ ；与对照组相比，试验组的T-SOD活力极显著升高（ $P { < } 0 . 0 1 \rangle$ )，  
+147 且 $1 ~ 2 5 0 ~ \mathrm { m g / k g }$ BW 组显极著高于其他3个试验组（ $_ { . } { \cal P } { < } 0 . 0 1 \$ )，这3个试验组间差异不显著  
+148 （ $( P { > } 0 . 0 5 )$ ；试验组的 MDA 含量极显著低于对照组( $( P { < } 0 . 0 1 )$ ，且 $1 0 \mathrm { m g / k g \ B W }$ 组、 $2 5 0 \mathrm { m g / k g }$   
+149 BW组和 $1 2 5 0 \mathrm { m g / k g B W }$ 组间差异不显著( $( P { > } 0 . 0 5 )$ ， $1 0 \mathrm { m g / k g }$ BW 组和 $1 2 5 0 \mathrm { m g / k g \ B ^ { \prime } }$ W组  
+150 极显著高于 $5 0 \mathrm { m g / k g \ B W }$ 组（ $P { < } 0 . 0 1 \$ ）
+
+表5地顶孢霉培养物对大鼠血清免疫指标的影响  
+表6地顶孢霉培养物对SD大鼠肝脏抗氧化指标的影响  
+Table 6 Effects of Acremonium terricola culture on liver antioxidant indexes in Sprague Dawley rats   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">组别Groups</td><td rowspan="2">P值</td></tr><tr><td>对照</td><td>10 mg/kg</td><td>50 mg/kg</td><td>250 mg/kg</td><td>1250</td><td>SEM</td></tr><tr><td>Items</td><td>Control</td><td>BW</td><td>BW</td><td>BW</td><td>mg/kg BW</td><td></td><td>P-value</td></tr><tr><td>过氧化氢酶 CAT/(U/mg)</td><td>19.12</td><td>17.52</td><td>16.22</td><td>14.42</td><td>15.51</td><td>1.39</td><td>0.17</td></tr><tr><td>谷胱甘肽过氧化物酶 GSH-Px/(U/mg)</td><td>246.26Cc</td><td>222.03Cc</td><td>221.67Cc</td><td>313.38Bb</td><td>423.74Aa</td><td>10.24</td><td><0.01</td></tr><tr><td>总超氧化物歧化酶 T-SOD/(U/mg)</td><td>246.93Cc</td><td>268.31Bb</td><td>270.93Bb</td><td>281.58Bb</td><td>309.41Aa</td><td>6.85</td><td><0.01</td></tr></table></body></html>
+
+<html><body><table><tr><td>总抗氧化能力 T-AOC/(U/mg)</td><td>12.65Bb</td><td>11.64Bb</td><td>11.20Bb</td><td>18.95Aa</td><td>11.80Bb</td><td>0.66</td><td><0.01</td></tr><tr><td>丙二醛 MDA/(nmol/mg)</td><td>19.75Aa</td><td>16.74Bb</td><td>14.50Cc</td><td>14.85BCbc</td><td>16.92Bb</td><td>0.71</td><td><0.01</td></tr></table></body></html>
+
+2.7地顶孢霉培养物对大鼠肝脏免疫指标的影响
+
+由表7可见， $2 5 0 \mathrm { m g / k g }$ BW组和 $1 \ 2 5 0 \ \mathrm { m g / k g \ B V }$ V组的肝脏 $\mathrm { I L } { - } 1 \beta$ 含量显著低于对照组（ $_ { _ { P < 0 . 0 5 ) } }$ ，且这2组间差异不显著（ $( P { > } 0 . 0 5 )$ ，而对照组与 $1 0 \mathrm { m g / k g \ B W }$ 组和 $5 0 \mathrm { m g / k g }$ BW组间无显著差异( $( P { > } 0 . 0 5 )$ $5 0 \mathrm { m g / k g }$ BW 组的肝脏IL-4 含量极显著高于其他各组( $_ { , P < 0 . 0 1 } )$ ，对照组与 $1 0 \mathrm { m g / k g }$ 间差异不显著（ $P { > } 0 . 0 5 )$ ， $2 5 0 \mathrm { m g / k g }$ BW组和 $1 2 5 0 \mathrm { m g / k g } 1$ BW组间差异不显著（ $P { > } 0 . 0 5 )$ ；与对照组相比，试验组的肝脏IL-17含量极显著降低（ $P { < } 0 . 0 1 \$ )，且试验组中， $5 0 \mathrm { m g / k g \ B W }$ 组极显著高于 $1 0 \mathrm { m g / k g }$ BW 组和 $1 2 5 0 \mathrm { m g / k g \ B W }$ 组 $( P { < } 0 . 0 1 )$ )， $1 0 \mathrm { m g / k g }$ 极显著高于 $2 5 0 \mathrm { m g / k g \ B W }$ 组和 $1 2 5 0 \mathrm { m g / k g B W }$ 组（ $_ { . } { \cal P } { < } 0 . 0 1$ )；地顶孢霉培养物对肝脏中其他炎性因子没有显著影响（ $( P { > } 0 . 0 5 )$ ）。
+
+表7地顶孢霉培养物对大鼠肝脏免疫指标的影响  
+Table 7Effects of Acremonium terricola culture on liver immune indexes in Sprague Dawley rats   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">组别Groups</td><td rowspan="2">P值</td></tr><tr><td>对照</td><td>10 mg/kg</td><td>50 mg/kg</td><td>250 mg/kg</td><td>1 250 mg/kg</td><td>SEM</td></tr><tr><td>Items</td><td>Control</td><td>BW</td><td>BW</td><td>BW</td><td>BW</td><td></td><td>P-value</td></tr><tr><td>白介素-1β IL-1β/(ng/g)</td><td>37.87a</td><td>35.4ab</td><td>35.05ab</td><td>30.52b</td><td>31.15b</td><td>1.70</td><td>0.02</td></tr><tr><td>白介素-2IL-2/(ng/g)</td><td>1 266.89</td><td>1 201.00</td><td>1 135.09</td><td>1 194.43</td><td>1 160.65</td><td>94.74</td><td>0.89</td></tr><tr><td>白介素-4 IL-4/(ng/g)</td><td>5 153.62Cc</td><td>5 150.32Cc</td><td>8 999.71Aa</td><td>6 929.27Bb</td><td>7 082.37Bb</td><td>208.32</td><td><0.01</td></tr><tr><td>白介素-6 IL-6/(ng/g)</td><td>32 416.31</td><td>30 192.44</td><td>33 161.48</td><td>31 200.73</td><td>30 932.18</td><td>1098.21</td><td>0.34</td></tr><tr><td>白介素-10 IL-10/(ng/g)</td><td>7 292.77</td><td>7 258.79</td><td>7 078.13</td><td>8 290.78</td><td>8 245.50</td><td>449.24</td><td>0.17</td></tr><tr><td>白介素-17 IL-17/(ng/g)</td><td>4 857.01Aa</td><td>4 072.05Bb</td><td>3 120.53Dd</td><td>3 208.79CDcd</td><td>3 560.34Cc</td><td>134.46</td><td><0.01</td></tr><tr><td>肿瘤坏死因子-α TNF-α/(ng/g)</td><td>237.72</td><td>225.48</td><td>238.70</td><td>242.69</td><td>230.95</td><td>10.21</td><td>0.77</td></tr></table></body></html>
+
+3讨论
+
+# 3.1地顶孢霉培养物对大鼠生长性能的影响
+
+前人试验表明，虫草类物质及其活性成分具有改善生产性能的能力。蛹虫草发酵产品[10]和虫草副产物[I对肉鸡和蛋鸡生产性能的改善以及蛹虫草多糖对白对虾体增重和饲料转化率的提高8都证明了虫草类物质及其活性成分在畜牧业中应用存在可行性。魏建忠等[4通过保育仔猪饲喂试验证明了地顶孢霉培养物具有促进仔猪生长和提高免疫力的作用，而孙汉巨等[5也表明地顶孢霉培养物能够增加蛋鸭的体重，与本试验的结果相似。地顶孢霉培养物提高生产性能的原因可能是提高了饲料转化率[4,8]。而虫草活性成分抑菌作用可能也是提高体增重的原因之一。Koh等[12]通过虫草提取物替代抗生素生长促进剂的研究表明，虫草提取物能够改善肉鸡肠道微生物菌群状态，控制肠道致病菌数量，从而提高肉鸡生长性能。健康猪的肠道乳酸菌数量大于大肠杆菌，而腹泻猪肠道内菌群数量则出现相反的情况[13]。因此，地顶孢霉培养物中的功能性成分的抗菌益生作用是其提高大鼠生长性能的关键所在。
+
+# 3.2地顶孢霉培养物对大鼠脏器指数的影响
+
+脏器指数是动物重要的生物学指标之一，能够一定程度上反映器官功能强弱[14]，其中胸腺指数和脾脏指数能够反应动物机体的免疫功能。本试验中，地顶孢霉培养物提高了大鼠的肝脏指数和胸腺指数。孙连海等[15]通过连续灌胃小鼠试验，发现蛹虫草物质能够显著提高小鼠胸腺指数和脾脏指数。虫草产品[]和虫草多糖[16]对免疫抑制小鼠的脾脏指数和胸腺指数也有明显的提高作用，与本试验研究结果类似。但本试验中并没发现地顶孢霉培养物对大鼠脾脏指数有影响，可能与产品的作用方式以及加工工艺不同有关。本试验中，大鼠的肝脏指数提高，说明地顶孢霉培养物对大鼠的肝脏功能存在影响[14]，可能是由于地顶孢霉培养物经肝脏分解代谢后作用于机体，并对肝脏产生作用。胸腺指数和肝脏指数的提高表明地顶孢霉培养物对大鼠的免疫机能和肝脏功能有积极影响。
+
+# 3.3地顶孢霉培养物对大鼠血清生化指标的影响
+
+血清生化指标是反映机体代谢情况最敏感的指标。TP、ALB和GLB含量不仅能够反映机体蛋白质的吸收、合成和分解情况，还能够体现免疫能力的高低[17]。本试验中，地顶孢霉培养物提高了SD大鼠血清TP，ALB和GLB含量，说明地顶孢霉培养物能够提高机体的免疫能力。ALT和AST是机体2种主要的转氨酶，正常情况下，这2种酶在肝脏中含量较高，当肝脏受损伤时会释放到血液中，导致血液中含量升高[I8]。本试验中，血清AST和ALT含量降低，证明地顶孢霉培养物对肝脏组织无不良影响。LDL是富含胆固醇的脂蛋白，把胆固醇从肝脏运送到全身组织，血清中LDL含量过高易引起动脉硬化和冠心病等疾病。一直以来，生姜、姜黄素和黄芪等中草药都被应用于降低LDL的含量研究[19-21]。本试验中，地顶孢霉培养物对LDL的明显降低作用证明其在胆固醇代谢中的积极作用。而本试验中试验组血清GLU含量的升高则证明了地顶孢霉培养物对糖代谢的促进作用，具体代谢途径还有待进一步研究。
+
+3.4地顶孢霉培养物对大鼠血清和肝脏组织抗氧化指标的影响本试验中，由于地顶孢霉培养物显著提高了大鼠的肝脏指数，并对肝脏的血清生化指标有明显的改善作用，因此可以推测地顶孢霉培养物对肝脏组织的抗氧化和免疫能力有积极影响。本试验通过对血清和肝脏的抗氧化指标的测定，全面地了解地顶孢霉培养物对大鼠机体抗氧化能力的影响。
+
+作为动物机体细胞氧化代谢的产物，活性氧（ROS）能够引起机体一系列氧化应激疾病。T-AOC 是描述血液中氧化与抗氧化动态平衡的一个相对独立的指标。而脂质代谢也是氧化应激的一个重要结果，MDA就是脂质氧化反应的产物之一，经常被用作氧化应激的检测指标。SOD、CAT 和GSH-Px在维持氧化与抗氧化、修复氧化应激所带来的损伤中扮演重要角色[22-23]。这些酶的活性直接反应机体抗氧化的过程。本试验研究结果证明了，地顶孢霉培养物能够显著提高血清和肝脏中 T-AOC、T-SOD 和GSH-Px 活力，降低 MDA 的含量，且所有值均在正常范围内。基于本试验结果可以推测，地顶孢霉培养物能够通过降低大鼠血清和肝脏的氧化应激和提高其抗氧化酶活性来改善机体免疫能力。前人研究也证明了虫草物质及功能性成分拥有潜在的抗氧化和抗脂质氧化的活性[24]，能够提高正常小鼠[15]、免疫抑制小鼠[9,16]和白对虾[8lSOD 和GSH-Px 活力，并显著降低 MDA 含量，与本试验研究结果一致。
+
+3.5地顶孢霉培养物对大鼠血清和肝脏组织免疫指标的影响
+
+已有研究报道，通过摄入抗氧化物质能够影响机体免疫反应与免疫状况[25-26]。虫草类物质能够提高动物机体抗氧化能力，调节炎性因子水平，从而调节免疫功能[16.27]。炎性因子涉及到免疫和氧化的各个方面，包括免疫功能的发展与功能化、细胞增殖与分化、细胞活化、细胞内外基质蛋白质的调控增殖等[28]。IL-4 是传统的抗炎因子[29]，而 IL- $1 \beta$ 、IL-2、IL-6、IL-17 和 TNF- $\mathbf { \alpha } _ { \cdot \mathbf { \alpha } \mathbf { \alpha } _ { \mathbf { \alpha } } } \mathbf { \alpha } _ { \cdot \mathbf { \alpha } \mathbf { \alpha } _ { \mathbf { \alpha } } }$ 则属于促炎因子[30-33]，降低促炎因子的含量能够保护组织免于过度的炎症反应[34]。本试验中，灌胃地顶孢霉培养物能够下调大鼠血清和肝脏中促炎因子 IL-1β和 IL-17的含量，证明其具有免疫调节功能。免疫球蛋白能够与细菌和病毒等外援物质结合，帮助机体清除这些抗原物质。本试验中，地顶孢霉培养物显著提高了大鼠血清中IgA、IgG 和 IgM的含量，也证明其具有免疫提高能力。朴美子等9通过饲喂试验证明了蛹虫草黄豆能够显著提高免疫抑制小鼠血液和肝脏的IgG、IgM和IL-4 含量；Zhang 等[28l通过 BALB/c 免疫抑制小鼠试验，也证明了蛹虫草多糖能通过减少氧化损伤，调节炎性因子来提高小鼠的免疫能力，均与本试验结果一致。
+
+灌胃地顶孢霉培养物能够提高大鼠免疫能力可能是由于功能性成分的摄入。地顶孢霉培养物是由古尼虫草提取的地顶孢霉菌经人工发酵制得，其中活性成分（甾醇和腺苷）与天然虫草相似。大量研究已经证明，这些活性成分具有免疫调节和药理作用[35-38]。另外，在其他种类虫草中，大量的活性成分也有报道，这些成分包括虫草素、甘露糖醇、糖蛋白、肽和多糖等[39]。然而，关于地顶孢霉培养物提高免疫能力的机理还需要进一步研究。
+
+综合整个试验期间地顶孢霉培养物的给药量小（每只鼠 $4 0 { \sim } 1 0 0 \ \mathrm { m g }$ ）和自身物理特性（固体粉末状）等特点，并参照其他虫草类物质相关试验[15-16]，我们选择灌胃法进行给药。而针对虫草素等提取物纯品，也有试验采用腹腔注射等方法进行给药[40]。其他文献也报道过，当试验材料给药量比较大时，可以选择饲粮给药法[16.28]，这样不仅可以减少捕捉和灌注造成的应激刺激，而且可以减少工作量。同样，在未来生产与应用中，地顶孢霉培养物可以在进行预混后添加到饲粮中，便于实际生产中操作。
+
+4结论$\textcircled{1}$ 地顶孢霉培养物能够提高 SD 大鼠平均日增重，改善血清生化指标，提高大鼠机体  
+抗氧化能力和免疫能力。$\textcircled{2}$ 综合以上试验结果和经济成本等因素，SD大鼠地顶孢霉培养物的最适添加量为250  
+mg/kg BW。  
+参考文献:  
+[1]梁宗琦.我国虫草属真菌研究开发的现状及思考[J].食用菌学报,2001,8(2):53-62.  
+[2]肖建辉,方宁,肖瑜,等.古尼拟青霉胞外多糖的免疫抑制活性[J].中药材,2004,27(3):192-195.  
+[3]黄建忠,梁宗琦,刘爱英.粉被虫草(Cordycepspruinosa Petch)无性型对苏云金杆菌(Bacillus thuringiensis subsp．galleria Heimpel)抗紫外辐射的保护效应[J].西南农业学报,1992,5(2):63-67.  
+[4]魏建忠,张玮,李郁,等.地顶孢霉培养物对保育仔猪生产性能及免疫水平的影响[J].中国畜牧兽医,2009,36(2):33-35.  
+[5]孙汉巨,李晓祥,丁琦,等.虫草饲料添加剂对蛋鸭生产性能及鸭蛋品质的影响[J].安徽农业科学,2011,39(6):3618-3620.  
+[6]李侠,黄欢,田小朋,等.地顶孢霉菌丝体对免疫性肝纤维化大鼠的保护作用及其可能机
+
+制的研究[J].安徽医科大学学报,2012,47(2):145-149.
+
+[7]程洁,陈双林.顶孢霉发酵液提取物清除自由基能力的研究[J].食品工业科技,2010,31(11):155-157.
+
+[8]DENG B,WANG Z P,TAO W J,et al.Effects of polysaccharides from mycelia of Cordyceps sinensis on growth performance,immunity and antioxidant indicators of the white shrimp Litopenaeus vannamei[J].Aquaculture Nutrition,2015,21(2):173-179.   
+[9]朴美子,王晓东.蛹虫草黄豆对小鼠的抗氧化及免疫作用[J].中国食品学 报,2014,14(5):32-37.   
+[10]HAN J C,QU H X,WANG J G,et al.Effects of fermentation products of Cordyceps militaris on growth performance and bone mineralization of broiler chicks[J].Journal of Applied Animal Research,2015,43(2):236-241.   
+[11]WANG C L,CHIANG C J,CHAO Y P,et al.Effect of Cordyceps militaris waster medium on production performance,egg traits and egg yolk cholesterol of laying hens[J].The Journal of Poultry Science,2015,52(3):188-196.   
+[12]KOH J H,SUH H J,AHN T S.Hot-water extract from mycelia of Cordyceps sinensis as a substitute for antibiotic growth promoters[J].Biotechnology Letters,2003,25(7):585-590.   
+[13] KWON N H,KIM S H,BAE W K,et al.Antimicrobial activity of Lactobacillus reuteri against majorfood-bornepathogens[J].JournalofFood Hygieneand Safety,2001,16:264-273.   
+[14]孔祥峰,尹富贵,刘合军,等.早期断奶仔猪生理生化参数和脏器指数的变化[J].中国实验 动物学报,2006,14(4):298-302.   
+[15]孙连海,郭明月.蛹虫草发酵乳饮料对小鼠免疫力的影响[J].中国食物与营 养,2014,20(6):67-69.   
+[16]WANG M,MENG X Y,YANG R L,et al.Cordyceps militaris polysaccharides can enhance theimmunity and antioxidation activity in immunosuppressed mice[J].Carbohydrate Polymers,2012,89(2):461-466.   
+[17] 夏新山,袁书林,杨元青,等.中草药添加剂及不同饲粮类型对生长育肥猪血液生化指标
+
+的影响[J].动物科学与动物医学,2003,20(12):38-39.
+
+[18]李洋,潘春方,李春雷,等.不同比例的湿玉米纤维饲料对奶牛瘤胃发酵特性和血液生化 指标的影响[J].中国畜牧杂志,2014,50(1):44-48.   
+[19]李宁军,李惊子,辛岗.黄芪当归合剂对肾病综合征大鼠脂蛋白脂酶和卵磷脂胆固醇酰 基转移酶的影响[J].中国中西医结合杂志,1999,19(8):484-486.   
+[20]沃兴德,崔小强,唐利华.姜黄素对食饵性高脂血症大鼠血浆脂蛋白代谢相关酶活性的 影响[J].中国动脉硬化杂志,2003,11(3):223-226.   
+[21]倪淑华,李秀花,刘雪枫,等.生姜对大鼠血脂代谢影响的研究[J].中国老年学杂 志,2006,26(1):98-99.   
+[22]YOUNG I S,WOODSIDE J V.Antioxidants in health and disease[J].Journal of Clinical Pathology,2001,54(3):176-186.   
+[23]DONG C H,ZHAO J M,SONG L S,et al.The immune responses in Chinese mitten crab Eriocheirsinensischallengedwithdouble-strandedRNA[J].Fish&Shelfish Immunology,2009,26(3):438-442.   
+[24]YAMAGUCHI Y,KAGOTA S,NAKAMURA K,et al.Antioxidant activity of the extracts from fruiting bodies of cultured Cordyceps sinensis[J].Phytotherapy Research,2000,14(8):647-649.   
+[25]GRASSO P J,SCHOLZ R W,ERSKINE R J,et al.Phagocytosis,bactericidal activity,and oxidative metabolism of milk neutrophils from dairy cows fed selenium-supplemented and selenium-deficient diets[J].American Journal of Veterinary Research,1990,51(2):269-274.   
+[26]POLITIS I,HIDIROGLOU M,BATRA T R,et al.Effects of vitamin E on immune function of dairy cows[J].American Journal of Veterinary Research,1995,56(2):179-184.   
+[27]KOH JH,YU K W,SUH H J,et al.Activation of macrophages and the intestinal immune system by an orally administered decoction from cultured mycelia of Cordyceps sinensis[J].Bioscience,Biotechnology,and Biochemistry,2002,66(2):407-411.   
+[28]ZHANG JL,YU Y C,ZHANG Z F,et al.Effect of polysaccharide from cultured Cordyceps sinensison immune function and anti-oxidation activityofmice exposed to 60Co[J].International Immunopharmacology,2011,11(12):2251-2257.   
+[29]ROCKEN M,RACKE M,SHEVACH E M.IL-4-induced immune deviationas antigen-specifictherapyforinflammatoryautoimmunedisease[J].Immunology Today,1996,17(5):225-231.   
+[30]KANDA T,TAKAHASHI T.Interleukin-6 and cardiovascular diseases[J].Japanese Heart Journal,2004,45(2):183-193.   
+[31]DE RHAM C,FERRARI-LACRAZ S,JENDLY S,et al.The proinflammatory cytokines IL-2,IL-15 and IL-21 modulate the repertoire of mature human natural killer cell receptors[J].Arthritis Research & Therapy,2007,9(6):R125.   
+[32]HUANG X L,WANG Y J,YAN JW,et al.Role of anti-inflammatory cytokines IL-4 and IL-13 in systemic sclerosis[J].Inflammation Research,2015,64(3/4):151-159.   
+[33]AMORNRIT W,SANTIYANONT R.Effect of amaranthus on advanced glycation end-products induced cytotoxicity and proinflammatory cytokine gene expression in SH-SY5Y cells[J].Molecules,2015,20(9):17288-17308.   
+[34]MOORE E E,PRESNELL S,GARRIGUES U,et al.Expression of IL-17B in neurons and evaluation of its possble role in the chromosome 5q-linked form of Charcot-Marie-Tooth disease[J].Neuromuscular Disorders,2002,12(2):141-150.   
+[35]CHEN JR,YEN J H,LIN C C,et al.The effects of Chinese herbs on improving survival and inhibiting anti-ds DNA antibody production in lupus mice[J].The American Journal of Chinese Medicine,1993,21(3/4):257-262.   
+[36]KUO Y C,TSAI W J,SHIAO M S,et al.Cordyceps sinensis as an immunomodulatory agent[J].The American Journal of Chinese Medicine,1996,24(2):111-125.   
+[37]KUO Y C,TSAI W J,WANG J Y,et al.Regulation of bronchoalveolar lavage fluids cell functionbytheimmunomodulatoryagentsfromCordycepssinensis[J].Life Sciences,2001,68(9):1067-1082.   
+[38]WU Y L,SUN H X,QIN F,et al.Efect of various extracts and a polysaccharide from the edible mycelia of Cordyceps sinensis on celllar and humoral immune response against ovalbumin in mice[J].Phytotherapy Research,2006,20(8):646-652.   
+[39]NG T B,WANG H X.Pharmacological actionsof Cordyceps,a prized folk medicine[J].Journal of Pharmacy and Pharmacology,2005,57(12):1509-1519.   
+[40]董佳亮,张蕾.虫草素对环磷酰胺所致骨髓抑制小鼠CenpB表达的影响[J].山东大学学 报:医学版,2015,53(7):24-28. Effects of Acremonium terricola Culture on Growth Performance, Antioxidant and Immune Indexes of Serum and Liver in Sprague Dawley Rats LI Yang LIN Cong XU Wenbin ZHANG Xingyi WANG Yizhen GAO Hong DOU Xiujing HAO Xiaoyan ZHANG Yonggen\* (College of Animal Science and Technology， Northeast Agricultural University， Harbin 150030，China）   
+Abstract: This study was aimed to investigate the effects of Acremonium terricola culture on   
+growth performance, antioxidant and immune indexes of serum and liver in Sprague Dawley rats.   
+Fourty Sprague Dawley rats with near weight were randomly divided into 5 groups with 8   
+replicates per group and 1 rat per replicate. One was control group and others were experimental   
+groups with diferent doses of 10,50,250 and $1 ~ 2 5 0 ~ \mathrm { m g / k g }$ BW, respectively. Acremonium   
+terricola culture was given corresponding medicines for 21 days via gavage. The results showed   
+as follows: Acremonium terricola culture significantly improved average daily gain of rats   
+（20 $( P { < } 0 . 0 1 )$ ; improved liver and thymus indexes; improved serum total protein (TP),albumin (ALB),   
+globulin (GLB） and glucose (GLU) contents, decreased serum activities of alanine transaminase   
+(ALT)and aspertate transaminase (AST),and serum content of low-density lipoprotein (LDL);   
+improved glutathione peroxidase (GSH-Px） activity and total antioxidant capacity (T-AOC),   
+decreased malondialdehyde (MDA） content of serum and liver,and improved superoxide   
+dismutase (T-SOD) activity of liver; increased serum contents of immunoglobulins A,M and $\mathbf { G }$ （204   
+increased interleukin-4 (IL-4) content of serum and liver, and decreased contents of interleukin- $1 \beta$ （204号   
+(IL-1β） and interleukin-17 (IL-17) of serum and liver. In conclusion， Acremonium terricola
+
+culture can improve average daily gain, biochemical indexes,antioxidant and immunity of serum and liver in Sprague Dawley rats,and the optimal supplemental level is $2 5 0 \mathrm { m g / k g }$ body weight. Key words: Acremonium terricola culture; Sprague Dawley rats; performance; antioxidant; immunity

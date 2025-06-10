@@ -1,0 +1,201 @@
+# 主动控制感在大脑表征中的时空标记
+
+赵科²顾晶金1²黄冠华1²郑爽1²傅小兰 1,2(1 中国科学院心理研究所，脑与认知科学国家重点实验室，北京100101)
+
+(2 中国科学院大学心理学系，北京100049）
+
+摘要主动控制感是主动动作过程中产生的控制自身动作，进而控制外部环境的主观体验。构成动作主动控制感的核心要素是主观意图与结果反馈。本研究试图通过操控这两个核心要素的不同属性，借助脑磁图等技术，探寻主动控制感在大脑额-顶为主的脑网络中前-后馈的作用方式及时空特异性标记，并建构新的认知神经理论模型。这将有利于理解人类动作的产生及后效、为相关精神类疾病的临床诊断提供更加客观的参照标准。
+
+关键词 主动控制感，主观意图，结果反馈，时间压缩分类号 B842
+
+# 1问题提出
+
+人类通过有意图且能预期结果的主动动作与外界交互从而适应和改变环境(Elsner&Hommel,2004; Reznik & Mukamel,2019; Ziessler et al.,2004)。主动控制感(sense of agency,SoA)是人类控制自身动作、进而控制外部环境的主观体验(Haggard,2017;Reznik&Mukamel,2019；张淼 等,2018；吴迪 等,2019)。作为自我意识的重要概念，感觉“我”是造成结果的原因是一种重要的意识体验，直接影响个体行为的界定(顾晶金 等,2020)。主动控制感也是心理健康的重要指标，其异常与许多精神类疾病关联，如精神分裂症、抑郁症、自闭症、强迫症等(Frith et al.,2000; Lindner et al.,2005; Msetfi et al.,2012; Oren et al.,2019; Sperduti et al,2014; Voss et al., 2010)。
+
+![](images/19a2902c4566ab77ef47245b9373ccd4f5a2fb7bb607ec567b8efc19616a5d90.jpg)  
+图1.2000-2019 年心理学与认知神经科学领域中主动控制感(SoA)的文献数量（图1A）及引文数量（图1B）。数据来自 Web ofScience 的引文分析报告。检索时间为 2020年4月12日，关键词为“sense of agency”。
+
+近二十年来，主动控制感才逐渐引起研究者的广泛关注(Kalogeras etal.,2002;Li et al.,2019; Schwarz et al.,2018; Stephenson et al.,2018；图1)，其产生的认知神经机制仍然是该领域的前沿科学问题。本项目将围绕主动控制感的认知神经机制这一主题，提炼主观意图与结果反馈两个核心要素，并基于内在比较器模型和认知神经机制的已有证据，提出前馈和后馈的作用方式，进而借助高时空分辨率的脑磁图等技术探讨主动控制感的特异性标记。该机制的阐明将有助于理解个体动作的产生及后效，同时也为主动控制感在临床、道德和司法等领域中的应用提供可能的客观标准。
+
+# 2研究现状
+
+主动控制感的测量有两种方式，个体主观报告的控制感程度（外显测量）和感知觉差异（内隐测量）。外显测量通常要求被试回答“这个结果是否是你引发的？”、“你对动作结果的控制程度如何？”等问题。由于主动动作通常伴随动作-结果时间压缩和结果感觉衰减两种感知觉效应，因此可将这两者作为测量主动控制感的内隐指标。Kalogeras 等人(2002)发现，在主动动作引发声音结果的条件下，被试报告的动作发生时刻点比控制条件延后，而声音结果出现的时刻点提前，即被试对动作到结果之间的时间间隔感知出现了主观压缩。主动动作-结果时间压缩效应与外显报告的主动控制感测量结果之间具有一定相关性(Imaizumi& Tanno,2019)，被认为是测量主动控制感主要的内隐指标(Buehner,2012;Ebert &Wegner,2010; Zhao etal.,2013)。感觉衰减效应则指人们对自己引发的结果知觉强度降低的现象(Blakemore,Frith&Wolpert,1999)。典型的例子是“别人挠感觉痒，自己挠却不痒”(Blakemore,Wolpert＆Frith,1999;Schafer&Marcus,1973)。研究发现主动动作会引起大脑感觉皮层脑电成分 N100 波幅下降，皮层激活减少(Blakemore,Wolpert&Frith,1999)，感觉衰减效应也被当做主动控制感的内隐测量指标(Burin et al.,2017; Dewey &Knoblich,2014)。
+
+外显测量简便易行，但被试的主观报告容易受到认知因素的影响。例如，被试倾向于在报告中夸大自身的主动控制感(Haggard,2017)。内隐测量相对隐蔽、客观，但容易出现与外显测量之间的分离(Dewey& Knoblich,2014; Saito et al.,2015; Schwarz et al.,2019)。因此，有研究者提出对主动控制感的测量需要结合内隐和外显两种指标(Pfister et al.,2021)。在主动控制感的两个内隐测量指标中，主动动作-结果时间压缩效应测量关注动作和结果之间的时间偏移，侧重动作-结果之间的认知过程；感觉衰减效应测量关注被试对结果的知觉强度，侧重对结果反馈的认知加工。
+
+# 2.1动作主动控制感的构成要素
+
+主动控制感中的主观意图。主观意图是想要做出动作的意识体验(Vinding,etal.,2013)。人们是否做、什么时候做无不体现意图的作用。有意图参与的条件下，个体将动作和结果在时间维度上进行“捆绑”，产生动作-结果时间压缩效应(Kalogeras etal.,2002; Zhao et al.,2016)。意图缺失、减少或终止均会造成主动控制感的改变。无主观意图的被动按键、抬键动作均不会引发动作-结果时间压缩效应(Zhao etal.,2016)。由于意图减少，催眠引发的动作会降低动作-结果时间压缩效应(Lush etal.,2017)。意图减少的胁迫条件下执行电击动作相比非胁迫条件会产生更小的时间压缩效应(Caspar et al.,2016)。意图的终止同样会降低动作-结果的时间压缩效应，例如当主观意图产生后又有意抑制这些动作(Haggard etal.,2009)。
+
+主动控制感中的结果反馈。动作结果的效价、结果-动作的因果关联性和结果呈现的通道特征都会影响主动控制感。Yoshie 和 Haggard(2013,2017)采用不同情绪效价的声音刺激（正性、中性、负性）作为结果反馈，研究发现动作结果为负性声音刺激时，被试产生了更小的动作-结果时间压缩效应。Barlas 等人(2018)也发现动作结果为负性声音刺激时被试主观报告的主动控制感比正性声音作为结果时更弱。给被试连续呈现两个声音刺激（T1和 T2），因果关系条件下T2的发生由主动动作引起，结果产生了更强的动作-结果时间压缩效应(Buehner&Humphreys,2009)。结果呈现的通道特征也会影响主动控制感，只有少量研究考察了单模态与多模态结果如何影响主动控制感，结论也不尽一致。Kawabe 等人(2013)和 vanKemenade 等人(2017)发现当多模态刺激作为动作结果时被试的主动控制感比单模态结果时更低。相反，Thanopoulos 等人(2018)却发现多模态结果的一致性可以提高主动控制感。
+
+# 2.2动作主动控制感的理论模型
+
+该领域最有影响力的解释理论是比较器模型(the comparator model; Frith et al.,2000)。该模型提出当感知到的结果与在感知运动过程中产生的预测结果相匹配时会产生主动控制感。
+
+这种把动作系统看作内部比较过程的思想可以追溯到赫尔姆霍兹(Helmholtz,1866)。动作控制系统的比较器模型有助于理解主动控制感的产生(Kawato,1999;Synofzik et al.,2008;Wolpert et al.,1995)。在动作发生前，主观意图包含的动作副本会预测动作的结果。将预测的感觉反馈输入与实际的结果反馈进行比较时会产生预测误差(predictive error,PE)。如果一个事件是由主动动作引起（对感觉输入的预测是正确的），则实际反馈与预测完全对应，预测误差为零；否则，预测误差非零。根据动作比较器理论模型，动作的主动控制感在预测的结果和实际的感觉反馈匹配时产生(Haggard,2017;Moore&Obhi,2012)。人们将动作副本预测的结果反馈与实际的感觉反馈进行比较，这种比较中的任何不匹配都意味着主动控制感的减少或缺失。比较器模型能成功地解释“主动控制感缺失”的现象，例如当操作失败并产生预测误差时，会产生“我没有那么做，出了什么问题”的感觉。
+
+# 2.3动作主动控制感的脑机制
+
+# 2.3.1大脑加工动作主动控制感的空间特征
+
+主动控制感认知神经机制的直接研究相对较少。已有研究发现辅助运动区和前辅助运动区(supplementary motor area, SMA; pre-supplementary motor area, pre-SMA)、顶叶皮层(parietalcortex)、脑岛(insular)及背外侧前额叶(dorsolateral prefrontal cortex,DLPFC)等脑区在主动控制感的产生中起了重要作用(Crivelli& Balconi,2017)。因此，本文也试图从主观意图与结果反馈两个角度分别总结主动控制感的脑机制。
+
+首先，主观意图可能与辅助运动区和前辅助运动区的活动密切相关。一项早期的研究发现，让被试计划和想象他们在执行一系列的手部动作时，预先选定的254个区域中只有辅助运动区显著激活(Roland etal.,1980)。相比于被动动作，猴子在做出主动动作时辅助运动区和前辅助运动区显著激活(Halsband etal.,1994; Picard& Strick,2003)。该区域切除后，猴子的主动动作减少，出现动作的发起障碍(Thaler etal.,1995)。这说明辅助运动区和前辅助运动区可能参与编码主动动作之前的一系列动作指令(Goldberg,1985;Orgogozo&Larsen,1979)。Fried 等人(1991)以弱电流刺激癫痫病人辅助运动区的不同部位，结果发现，刺激前辅助运动区时，被试会产生想要做出动作的意图；刺激辅助运动区时，被试则会不由自主地做出一些简单的动作。使用经颅直流电刺激(transcranial direct current stimulation,tDCS)的阴极和阳极刺激被试的前辅助运动区，被试均表现出动作-结果时间压缩效应的下降(Cavazzana et al,2015)。Moore 等人(2010)使用 theta 频率干扰局部脑功能，结果发现前辅助运动区的功能紊乱会降低主动按键和随后的皮电刺激之间间隔的时间压缩效应，而刺激感觉运动区尤其是感觉运动手部脑区则不会产生这种效应。脑疾病研究结果也表明前辅助运动区受损的基底综合征病人更多地将动作向结果压缩，而且症状越严重压缩程度越大(Wolpe et al.,2014)。另一个与主观意图有关的脑区是背外侧前额叶皮层(DLPFC)，这一脑区主要参与主观意图选择。研究发现，和 pre-SMA 的功能一样，DLPFC 也参与主动动作的计划和执行过程(Teuchies et al.,
+
+2016)。Frith(2000)提出，包括 DLPFC 在内的前额叶区域与反应选择过程密切相关。通过建构一个“反应空间(response space)”，包括对正确反应的选择和其他反应的抑制，这一脑区参与到对非自动化反应的正确选择过程中。
+
+其次，结果反馈则可能与后侧顶叶皮层(posterior parietal cortex,PPC)及脑岛(insular)活动有关。Farrer 和Frith(2002)要求被试操控圆环通过一个T型路线，并事先告知被试圆环的移动是被试自己或是别人操控的。当被试认为是自己控制着圆环的移动时，其脑岛会明显激活。而当被试认为移动与自己的行为无关时，顶下小叶(inferior parietal lobe)会被激活。另一项研究中，研究者操控了被试对屏幕中虚拟手的控制程度，结果表明被试报告的控制感水平与右侧顶下小叶尤其是角回的激活程度显著负相关，与脑岛的激活程度显著正相关(Farrer et al,2003)。脑岛同时还是多模态感觉信息整合的重要脑区，并且负责监控动作的内部预期和结果的外部反馈过程(Farrer et al.,2003; Farrer& Frith,2002; Fink et al.,1999)。
+
+顶叶皮层尤其是顶下小叶的角回也负责结果反馈加工。Blanke等人(2002)的研究发现，给开颅后的癫痫病人的右侧角回施加电刺激，病人会产生一种动作不属于自己的体验。另外有研究发现外显的控制感判断任务中，如果被试把视觉的反馈归结为不是由自身动作造成的，其角回会明显激活(Farrer& Frith,20o2)。应用经颅磁刺激(transcranial magnetic stimulation,TMS)抑制角回，被试会报告更低的主动控制感(Chambon etal.,2015)。另外一项研究也发现角回在主动控制感评分低的情况下产生更强的激活(Chambon etal.,2013)。元分析的结果同样发现颞-顶交接处（含角回）是产生主动控制感的基础(Sperduti etal.,2011)。精神分裂症患者的主动控制感比正常人强，产生更大的动作-结果时间压缩效应。磁共振成像结果也表明线索和动作不匹配时，患者前额叶和角回的功能连接异常(Voss etal.,2017)。在一项针对顶叶皮层受损的失用症患者(apraxic patients)的研究中，被试做出按键动作时可以通过屏幕看到自己的手部动作或者另一个人的手部动作，并在每个试次中报告屏幕上做动作的手是自己的还是别人的。当别人的手势和自己的手势不一致时，患者和正常人都能正确识别。但是当实验者的手势和自己的手势一致时，患者的识别正确率明显下降。研究者认为这是由于顶叶受损的患者不能有效评估内、外在的动作反馈(Sirigu et al.,1999)。MacDonald 和 Paus(2003)使用TMS刺激被试的后侧顶叶皮层，结果表明应用TMS对左后侧顶叶皮层的功能进行抑制时，主动动作条件下的动作-结果时间压缩效应显著减弱。
+
+# 2.3.2大脑加工动作主动控制感的时间特征
+
+采用脑电图(Electroencephalogram,EEG)或脑磁图(Magnetoencephalography,MEG)技术解码主动控制感加工中时间特征的研究则更少。在动作-结果时间窗内，对动作的监测过程主要涉及的成分可能包括正确反馈负波(Correct-related negativity,CRN)和刺激前负波(Stimulus-preceding negativity,SPN)。正确反馈负波发生在动作反应后100毫秒左右，反映了个体动作主观上的自信程度(Boldt& Yeung,2015; Scheffers& Coles,2000)或客观上的结果不确定程度及任务的难度等(Endrass et al.,2012; Pailing& Segalowitz,2004)。Sidarus 等人(2017)的研究发现,CRN 的波幅和主动控制感负相关，越低的控制感评分对应其越大的波幅。刺激前负波(SPN)也是发生在动作后、结果前的皮层慢波(Bocker et al.,1994;Damen& Brunia,1987; Seidel etal.,2015; Simons et al.,1979)。SPN一般被认为出现在有意义的结果反馈之前(Chwilla & Brunia,1991)，尤其是高唤醒度的结果之前(Damen& Brunia,1994)，如金钱奖励、色情图片、电击等(Brunia etal.,2010)。在学习初期，由于结果反馈的重要性，SPN的波幅较大。当任务逐渐被掌握，结果反馈的重要性下降，SPN 的波幅也随之降低(Hirao etal.,2017;Moris et al.,2013;Ren et al.,2017)。而且，高奖励和复杂反馈信息条件比没有奖励、单一反馈信息条件引发的 SPN 波幅更高(Kotani etal.,2003)。Kotani等人(2001)研究了由奖励引发积极情绪和由噪音引发消极情绪的条件下SPN的变化，结果发现在奖励或噪声作为动作结果时 SPN 波幅比控制条件更大。此外，Bocker 等人(2001)记录了电击之前由恐惧情绪诱发的 SPN，发现 SPN反映了对情绪性刺激的期待。主动控制感往往产生于被试可以自由选择的情境下，可选择的范围越大，主动控制感水平越高(Barlas etal.,2017)。相应地，与不能自由选择的条件相比，被试认为自己可以选择动作时 SPN 波幅更大(Masaki et al.,2010)。Zhao等人(2014)的研究发现,在时间感知阶段的空白时间间隔中,主动按键条件比主动抬键条件产生了更大的脑电前中头皮分布的P1成分，并且对应了delta-theta 频率成分，而这个时频成分被认为与时间压缩效应成反比；两种条件下都产生了相同的P2成分。
+
+对于结果时间窗，主要的脑电/脑磁成分为N100/M100 和反馈负波(fedback-relatednegativity,FRN)。听觉N100 成分出现在刺激呈现后100 毫秒左右，一般产生于初级感觉皮层(Godey et al.,2001; Näatänen& Michie,1979; Zouridakis et al.,1998)或额叶皮层(Näatänen& Picton,1987)。与外部生成的声音刺激相比，主动动作引发的声音产生的 N100 波幅会降低(Ford etal.,2001; Horvath,2015;Klaffehn et al.,2019)。同时，当听觉反馈和预期的结果不匹配时，N100 的波幅会增加(Behroozmand et al.,2009; Behroozmand & Larson,2011)。当要求被试每5秒按一次键引发一个声音，或者听相同时间间隔的声音序列时，自己按键引发声音的条件下听觉皮层的 N100 波幅显著低于无动作条件(Martikainen etal.,2005)。FRN 发生在结果反馈后 250-300 毫秒左右(Dehaene et al.,1994; Miltner et al.,1997)，当结果和预期不一致时 FRN 的波幅更大。Sidarus 等人(2017)也发现，FRN 波幅与主动控制感评分负相关。
+
+综上所述，在动作-结果时间窗内，对动作的监测过程主要涉及的成分包括正确反馈负波(CRN)和刺激前负波(SPN)。CRN 发生在动作反应后100毫秒左右，与主动控制感呈负相关；SPN 出现在有意义的结果反馈之前，主动控制感越强，SPN 波幅越强。在结果呈现时间窗中，已有研究主要发现的脑电/脑磁成分是N100/M100 和FRN。但是，这些成分与主观意图和结果反馈间是否存在一一对应的关系有待进一步探讨。
+
+# 3研究构想
+
+综上所述，关于主动控制感认知神经机制的已有研究较少且存在不足。对于主动控制感的影响因素的探讨比较分散，忽视了主观意图和结果反馈的系统研究视角；其次，已有的解释模型重视认知过程的解读，缺少相应的认知神经实证证据支持；同时，现有研究更多地从空间角度进行探索，需要更全面、深入的解读主动控制感产生的时空特异性指标。
+
+针对这些问题，本项目将围绕动作主动控制感的认知神经机制这一主题，通过操控主观意图及结果反馈两个核心要素的不同属性，考察意图的前馈和结果的后馈作用方式。同时，借助高时空分辨率的脑磁图等技术重点探讨主动控制感在大脑额—顶为主的脑网络中，以及动作一结果间隔时间窗和结果时间窗内的特异性标记。
+
+本项目的主要内容可以分为主观意图对主动控制感的前馈影响及结果反馈对主动控制感的后馈影响两个方面。意图是动作的指南针，影响发起动作前对动作和结果的预期，它对主动控制感的作用往往是前馈式的。通过操控主观意图以及意图的类型，我们将系统探讨意图对于主动控制感的作用，揭示主动控制感中意图前馈作用的认知神经机制（研究一）。结果反馈发生在动作完成后，并后馈地影响主动控制感的产生和强弱。我们将通过操控结果反馈的效价、动作-结果因果关联性、结果呈现通道特征，系统考察结果反馈对于主动控制感的影响，揭示主动控制感中后馈作用的认知神经机制（研究二）。通过主动控制感主观评分、时间压缩效应、脑磁时域和时频成分等指标，探明动作主动控制感的特异性标记，并区分意图的前馈和结果的后馈作用的神经加工过程。
+
+# 3.1研究一：主观意图对主动控制感的影响
+
+研究一将通过两个实验，考察主观意图影响主动控制感的前馈作用方式及其认知神经机制。在行为指标上，本研究主要考察意图有无（主动、被动，实验1）和意图类型（出现意图、消失意图，实验2）变量下，被试报告的动作-结果时间间隔和主动控制感主观评分的差异。由于此时结果反馈恒定，我们可以单纯考察主观意图的变化对主动控制感的前馈调节作用。同时，采用脑磁图技术考察在动作-结果时间窗的脑磁成分（CRN、SPN等）和结果反馈时间窗的脑磁成分（M100、FRN等）。重点探讨（前）辅助运动区、背外侧前额叶等额-顶为主的脑网络中的脑磁时域、时频成分及其脑功能连接。
+
+实验1主要通过操控主观意图有无，探讨主观意图在主动控制感中的作用方式及其在额-顶为主的脑网络中，动作-结果时间窗和结果时间窗内脑功能指标上的具体表现。实验2主要通过操控主观意图类型，探讨不同类型主观意图在主动控制感中的作用方式及其在额-顶为主的脑网络中，动作-结果时间窗和结果时间窗内脑功能指标上的具体表现。
+
+# 3.2研究二：结果反馈对主动控制感的影响
+
+研究二将通过三个实验从结果-动作的因果关联性、结果的呈现通道、结果的效价三个方面考察结果反馈特征影响主动控制感的后馈作用方式及其认知神经机制。在行为指标上，本研究将主要考察因果关联性（高、低关联性，实验3）、结果呈现通道（单、多模态结果，实验4）和结果效价（正性、中性、负性，实验5）变量下，被试报告的动作-结果间时间间隔和主动控制感主观评分的差异。以有意图和无意图条件的差值作为主动控制感的内隐指标，考察结果反馈的变化对主动控制感的后馈调节作用。同时，采用脑磁图技术，以有意图和无意图情况下神经活动的差异作为指标，考察在不同的结果反馈条件下在结果反馈时间窗产生的脑磁成分（M100、FRN等）以及动作-结果时间窗的脑磁成分（CRN、SPN等）。重点探讨顶叶的角回、脑岛、前额叶的前辅助运动区和背外侧前额叶等额-顶为主的脑网络中的脑磁时域、时频成分及其脑功能连接。
+
+实验3主要通过操控结果反馈的因果关联性，探讨其对主动控制感的影响及其在动作-结果时间窗和结果时间窗的行为与脑功能指标上的具体表现。实验4通过操控结果反馈的单/多模态特征探讨呈现通道对于主动控制感的影响及其在动作-结果时间窗和结果时间窗的行为与脑功能指标上的具体表现。实验5通过操控结果的效价（正负性），探讨其对主动控制感的作用方式及其在动作-结果时间窗和结果时间窗的行为与脑功能指标上的具体表现。
+
+# 4理论构建与创新
+
+主动控制感的认知神经机制仍然是本领域中一个亟待研究的科学问题。本项目提炼出主动控制感关联的主观意图与结果反馈两个核心要素，并基于比较器模型的框架，试图从两个要素发挥作用的前馈-后馈的角度探讨主动控制的时空特异性标记。结合已有的研究，额-顶网络可能在主动控制感中发挥重要作用。辅助运动区和前辅助运动区、背外侧前额叶皮层等脑区可能与主观意图的发起和选择相关，脑岛和顶叶的角回等脑区则负责预期状态和实际反馈之间的比较。前额叶皮层产生动作的选择、意图和启动信号(Desmurget& Sirigu,2009),顶叶皮层则负责监测这些信号，并将意图信号与感觉反馈信号进行比较(Haggard,2017)。额叶前中部区域前馈地发挥作用—一选择并启动主动动作（在动作之前），随后信息被传递给监视意图、行动和结果的顶叶皮层，从而后馈地发挥作用—一监视动作是否已达到预期结果（图2）。以往的研究尚不清楚前馈和后馈作用是如何进行的，以及两种方式是如何联系的。
+
+本项目的最大特色在于探寻意图对于主动控制感的前馈作用以及结果的后馈作用机制，并系统探讨在额-顶为主的脑网络中，主动控制感在动作-结果时间窗和结果时间窗内的特异性标记。高时空分辨率的脑磁图技术能够实时、无创地测量大脑磁场信号的变化，适合测量不同脑区之间的相关性和皮层网络中的群体神经元活动的同步性。我们将综合运用时域、时频分析及格兰杰因果分析等方法系统探讨主动控制感在额-顶网络之间的信号传递。同时，该领域需要一个更全面的认知神经理论来解释在主观意图、感觉运动控制和监测以及识别水平的主动控制感。本项目也将通过一系列实验的研究结果来完善主动控制感的认知神经理论模型构建。
+
+![](images/4bd2e1768e139822cfc3447f595c51db245cb874d626192bbdd88041d6dfd82d.jpg)  
+图2.动作主动控制感的前-后馈脑网络示意图（红色为参与前馈作用的脑区，蓝色为参与后馈作用的脑区）
+
+# 参考文献
+
+顾晶金，赵科，傅小兰.(2020).行为中的主动控制感与责任归属．科学通报,65(19),1902－1911. doi:10.1360/TB-2019-0715   
+吴迪，顾晶金，李明，张淼，张明，赵科，傅小兰.(2019).动作的主动控制感与因果关系的主动控 制感：主动动作时间压缩效应的产生机制．心理科学进展，27(5),804-810. doi:10.3724/SP.J.1042.2019.00804   
+张淼，吴迪，李明，凌懿白，张明,赵科.(2018).主动控制感的测量及认知神经机制．心理科学进 展,26(10),1787-1793.doi:10.3724/SP.J.1042.2018.01787   
+Barlas,Z, Hockley,W.E.,& Obhi, S.S.(2017).The effects of freedom of choice in action selection on perceived mental effort and the sense of agency. Acta Psychologica， 180,122-129. doi:10.1016/j.actpsy.2017.09.004   
+Barlas,Z., Hockley, W.E.,& Obhi, S.S. (2018). Effects of free choice and outcome valence on the sense of agency: Evidence from measures of intentional binding and feelings of control. Experimental Brain Research,236(1),129-139. doi:10.1007/s00221-017-5112-3a   
+Behroozmand,R., Karvelis,L.,Liu,H.,& Larson, C.R.(2oo9). Vocalization-induced enhancementof the auditory cortex responsiveness during voice FO feedback perturbation. Clinical Neurophysiology, 120(7),1303-1312. doi:10.1016/j.clinph.2009.04.022   
+Behroozmand, R.，& Larson, C.R. (2011). Error-dependent modulation of speech-induced auditory suppression for pitch-shifted voice feedback. BMCNeuroscience， 12(1)， 54-54. doi:10.1186/1471-2202-12-54   
+Blakemore, S.-J., Frith, C.D.,& Wolpert, D.M. (1999). Spatio-temporal prediction modulates the perception of self-produced stimuli. Journal of Cognitive Neuroscience, 11(5), 551-559. doi:10.1162/089892999563607   
+Blakemore, S.-J., Wolpert, D. M., & Frith, C. D.(1999). The cerebelum contributes to somatosensory cortical activity during self-produced tactile stimulation. Neuroimage， 10(4)， 448-459. doi:10.1006/nimg.1999.0478   
+Blanke, O., Ortigue， S., Landis,T.，& Seeck，M. (2002). Neuropsychology: Stimulating illusory own-body perceptions - the part of the brain that can induce out-of-body experiences has been located. Nature, 419(6904),269-270. doi:10.1038/419269a   
+Böcker, K. B.E., Baas, J. M.P., Kenemans, J.L.,& Verbaten, M. N. (2001). Stimulus-preceding negativity induced by fear: A manifestation of affective anticipation. International Journal of Psychophysiology, 43(1),77-90. doi:10.1016/S0167-8760(01)00180-5   
+Bocker,K. B.E., Brunia, C.H. M.,& van den Berg-Lenssen, M. M. C.(1994). A spatiotemporal dipole model of the Stimulus Preceding Negativity (SPN） prior to feedback stimuli. Brain Topography, 7(1),71-88. doi:10.1007/BF01184839   
+Boldt,A.,& Yeung,N. (2O15). Shared neural markers of decision confidence and error detection. Journal of Neuroscience, 35(8),3478-3484. doi:10.1523/JNEUROSC1.0797-14.2015   
+Brunia, C. H. M., Hackley, S.A., van Boxtel, G. J. M., Kotani, Y.,& Ohgami, Y. (2010). Waiting to perceive:Rewardorpunishment?ClinicalNeurophysiology， 122(5)， 858-868. doi:10.1016/j.clinph.2010.12.039   
+Buehner, M. J. (2012). Understanding the past, predicting the future: Causation, not intentional action, isthe root of temporal binding. Psychological Science, 23(12)， 1490-1497. doi:10.1177/0956797612444612   
+Buehner, M. J.,& Humphreys, G.R. (2009). Causal binding of actions to their efects.Psychological Science, 20(10), 1221-1228. doi:10.1111/j.1467-9280.2009.02435.x   
+Burin,D.,Pyasik, M.， Salatino,A.,& Pia,L. (2017). That's my hand! Therefore,that's my wiled action: How body ownership acts upon conscious awareness of willed actions. Cognition, 166, 164-173. doi:10.1016/j.cognition.2017.05.035   
+Caspar,Emilie A., Christensen, Julia F., Cleeremans,A.,& Haggard, P. (2016). Coercion changes the senseofagencyin thehumanbrain. CurrentBiology， 26(5)， 585-592. doi:10.1016/j.cub.2015.12.067   
+Cavazzana, A., Penolazzi, B., Begliomini, C.,& Bisiacchi, P. S. (2015). Neural underpinnings of the ‘agent brain': New evidence from transcranial direct current stimulation. European Journal of Neuroscience, 42(3),1889-1894. doi:10.111/ejn.12937   
+Chambon,V., Moore,J.W.,& Haggard, P. (2015). TMS stimulation over the inferior parietal cortex disrupts prospective sense of agency. Brain Structure & Function， 220(6)， 3627-3639. doi:10.1007/s00429-014-0878-6   
+Chambon, V., Wenke,D.,Fleming,S.M.,Prinz, W.,& Haggard,P. (2013). An online neural substrate for sense of agency. Cerebral Cortex, 23(5),1031-1037. doi:10.1093/cercor/bhs059   
+Chwilla, D. J., & Brunia, C. H. M. (1991). Event-related potential correlates of non-motor anticipation. Biological Psychology, 32(2-3),125-141. doi:10.1016/0301-0511(91)90005-2   
+Crivell, D.,& Balconi, M. (2O17). The agent brain: Areview of non-invasive brain stimulation studies onsensingagency.FrontiersinBehavioralNeuroscience， 11， 229-229. doi:10.3389/fnbeh.2017.00229   
+Damen,E.J. P.,& Brunia, C.H. M.(1987). Changes in heart rate and slow brain potentials related to motor preparation and stimulus anticipation in a time estimation task. Psychophysiology, 24(6), 700-713. doi:10.111/j.1469-8986.1987.tb00353.x   
+Damen, E. J. P.,& Brunia, C. H. M. (1994). Is a stimulus conveying task -relevant information a sufficient condition to elicit a stimulus - preceding negativity? Psychophysiology, 31(2),129- 139.doi:10.1111/j.1469-8986.1994.tb01033.x   
+Dehaene, S.,Posner, M. I.,& Tucker, D.M.(1994). Localization of a neural system for error detection and compensation. Psychological Science, 5(5), 303-305. doi:10.111/j.1467-9280.1994.tb00630.x   
+Desmurget, M., & Sirigu, A. (2009). A parietal-premotor network for movement intention and motor awareness. Trends in Cognitive Sciences,13(10), 411-419. doi:10.1016/j.tics.2009.08.001   
+Dewey, J. A., & Knoblich, G. (2014). Do implicit and explicit measures of the sense of agency measure the same thing? PloS One, 9(10), e110118-e110118. doi:10.1371/journal.pone.0110118   
+Ebert, J. P.,& Wegner, D. M. (2010). Time warp: Authorship shapes the perceived timing of actions and events. Consciousness and Cognition, 19(1), 481-489.doi:10.1016/j.concog.2009.10.002   
+Elsner,B.,& Hommel, B. (2004). Contiguity and contingency in action-effect learning. Psychological Research, 68(2),138-154. doi:10.1007/s00426-003-0151-8   
+Endrass,T., Klawohn,J., Gruetzmann,R.,Ischebeck, M.,& Kathmann, N. (2012). Response -related negativities following correct and incorrect responses: Evidence from a temporospatial principal component analysis. Psychophysiology, 49(6), 733-743. doi:10.111/j.1469-8986.2012.01365.x   
+Farrer, C.,Franck,N., Georgieff,N.,Frith, C.D., Decety, J.,&Jeannerod,M. (2003). Modulating the experience of agency: A positron emission tomography study. Neurolmage, 18(2), 324-333. doi:10.1016/S1053-8119(02)00041-1   
+Farrer, C.，& Frith, C. D. (2002). Experiencing oneself vs another person as being the cause of an action: The neural correlates of the experience of agency. Neurolmage，15(3)， 596-603. doi:10.1006/nimg.2001.1009   
+Fink, G. R., MarshallJ. C.,Haligan,P.W.,Frith, C.D., Driver,J.,Frackowiak, R. S.J.,& Dolan, R. J. (1999). The neural consequences of conflict between intention and the senses. Brain,122(3), 497-512. doi:10.1093/brain/122.3.497   
+Ford, J. M., Mathalon,D.H., Kalba,S.,Whitfield, S.,Faustman, W. O.,& Roth,W.T. (20o1). Cortical responsiveness during talking and listening in schizophrenia: An event-related brain potential study. Biological Psychiatry (1969), 50(7), 540-549.doi:10.1016/S0006-3223(01)01166-0   
+Fried,1., Katz,A., McCarthy, G., Sass, K. J., Williamson,P., Spencer, S. S.,& Spencer, D.D.(1991). Functional organization of human supplementary motor cortex studied by electrical stimulation. JournalofNeuroscience, 11(11), 3656-3666. doi:10.1523/JNEUROSCI.11-11-03656.1991   
+Frith,C. (20oo). The role of dorsolateral prefrontal cortex in the selection of action as revealed by functional imaging. In: Monsell S, Driver J (Eds). Control of Cognitive Processes: Attention and Performance XVII. Cambridge, MA: MIT Press (pp.549-565).   
+Frith, C. D., Blakemore, S.-J.,& Wolpert, D. M. (20o0). Explaining the symptoms of schizophrenia: Abnormalities in the awareness of action. Brain Research Reviews， 31(2)，357-363. doi:10.1016/S0165-0173(99)00052-1   
+Godey,B., Schwartz, D., de Graaf, J. B., Chauvel, P.,& Liegeois-Chauvel, C.(2001). Neuromagnetic source localization of auditory evoked fields and intracerebral evoked potentials: A comparison of data in the same patients. Clinical Neurophysiology， 1l2(10),1850-1859. doi:10.1016/S1388-2457(01)00636-8   
+Goldberg, G. (1985). Supplementary motor area structure and function: Review and hypotheses. Behavioral and Brain Sciences, 8(4),567-588. doi:10.1017/S0140525X00045167   
+Haggard, P. (2017). Sense of agency in the human brain. Nature reviews Neuroscience,18(4),197-208. doi:10.1038/nrn.2017.14   
+Haggard,P.,Poonian, S.,& Walsh,E. (2O09).Representing the consequences of intentionally inhibited actions. Brain Research,1286,106-113. doi:10.1016/j.brainres.2009.06.020   
+Halsband, U.，Matsuzaka, Y.，& Tanji, J. (1994). Neuronal activity in the primate supplementary, pre-supplementary and premotor cortex during externally and internally instructed sequential movements. Neuroscience Research, 20(2),149-155. doi:10.1016/0168-0102(94)90032-9   
+Helmholtz, H. V. (1866). Concerning the perceptions in general. Treatise on physiological optics.   
+Hirao,T., Murphy,T.I.,& Masaki, H.(2017).Brain activities associated with learning of the Monty Hall Dilemma task. Psychophysiology, 54(9),1359-1369. doi:10.1111/psyp.12883   
+Horvath，J. (2015).Action-related auditory ERP attenuation: Paradigms and hypotheses. Brain Research,1626,54-65. doi:10.1016/j.brainres.2015.03.038   
+Imaizumi, S.，& Tanno,Y. (2019). Intentional binding coincides with explicit sense of agency. Consciousness and Cognition, 67,1-15. doi:10.1016/j.concog.2018.11.005   
+Kalogeras,J.， Clark， S.，& Haggard, P. (2O02). Voluntary action and conscious awareness. Nature Neuroscience, 5(4),382-385. doi:10.1038/nn827   
+Kawabe,T.， Roseboom, W.，& Nishida, S. (2013). The sense of agency is action-effect causality perception based on cross-modal grouping. Proceedings of the Royal Society B-Biological sciences,280(1763),20130991-20130991. doi:10.1098/rspb.2013.0991   
+Kawato,M. (1999). Internal models for motor control and trajectory planning. Current Opinion in Neurobiology, 9(6),718-727. doi:10.1016/S0959-4388(99)00028-8   
+Klaffehn，A. L.， Baess,P.，Kunde,W.，& Pfister, R. (2019). Sensory attenuation prevails when controllingfortemporal predictabilityofself-and externallygenerated tones. Neuropsychologia, 132,107145-107145. doi:10.1016/j.neuropsychologia.2019.107145   
+Kotani, Y., Hiraku, S., Suda, K.,& Aihara, Y. (20o1). Eect of positive and negative emotion on stimulus - preceding negativity prior to feedback stimuli. Psychophysiology， 38(6), 873-878. doi:10.111/1469-8986.3860873   
+Kotani,Y., Kishida, S., Hiraku,S., Suda,K., Ishii, M.,& Aihara, Y. (20o3). Effects of information and reward on stimulus - preceding negativity prior to fedback stimuli. Psychophysiology， 40(5), 818-826. doi:10.111/1469-8986.00082   
+Li, M.,Li, L. M. W., Zhao, K.,& Gao, D. (2019). Cultural group perception enhances sense of agency in a multicultural society. Scandinavian Journal of Psychology, 60(4)， 394-403. doi:10.1111/sjop.12552   
+Lindner,A., Thier,P., Kircher, T. T. J., Haarmeier, T.,& Leube, D.T. (2005). Disorders of agency in schizophrenia correlate with an inability to compensate for the sensory consequences of actions. Current Biology, 15(12),1119-1124. doi:10.1016/j.cub.2005.05.049   
+Lush,P., Caspar,E.A., Cleeremans,A., Haggard,P.,Magalhaes De Saldanha da Gama, P.A.,& Dienes, Z.(2017). The power of suggestion: Posthypnotically induced changes in the temporal binding of intentional action outcomes. Psychological Science, 28(5)， 661-669. doi:10.1177/0956797616687015   
+MacDonald,P.A.，& Paus, T. (2003). The role of parietal cortex in awareness of self-generated movements: A transcranial magnetic stimulation study. Cerebral Cortex, 13(9), 962-967. doi:10.1093/cercor/13.9.962   
+Martikainen, M. H., Kaneko, K.-1.,& Hari, R. (2005). Suppressed responses to self-triggered sounds in the human auditory cortex. Cerebral Cortex, 15(3),299-302. doi:10.1093/cercor/bhh131   
+Masaki, H., Yamazaki, K., & Hackley, S. A. (2010). Stimulus-preceding negativity is modulated by action-outcome contingency. Neuroreport, 21(4), 277-281. doi:10.1097/WNR.0b013e3283360bc3   
+Msetfi,R.M.,Murphy,R.A., Kornbrot D.E.(2012). Dysphoric mood states are related to sensitivity totemporal changesincontingency. FrontiersinPsychology.3， 368-368. doi:10.3389/fpsyg.2012.00368.   
+Miltner, W. H. R., Braun, C. H.,& Coles, M. G. H. (1997). Event-related brain potentials following incorrect feedback in a time-estimation task: Evidence for a "generic" neural system for error detection. Journal of Cognitive Neuroscience, 9(6),788-798. doi:10.1162/jocn.1997.9.6.788   
+Moore,J.W.，& Obhi， S. S. (2012). Intentional binding and the sense of agency: A review. Consciousness and Cognition, 21(1), 546-561. doi:10.1016/j.concog.2011.12.002   
+Moore,J. W., Ruge, D., Wenke, D., Rothwel, J., & Haggard, P. (2010). Disrupting the experience of control in the human brain: Pre-supplementary motor area contributes to the sense of agency. Proceedingsof the Royal Society B-Biological Sciences， 277(1693)， 2503-2509. doi:10.1098/rspb.2010.0404   
+Moris,J.,Luque, D.,& Rodriguez-Fornells,A. (2013). Learning-induced modulations of the stimulus -preceding negativity. Psychophysiology, 50(9), 931-939. doi:10.1111/psyp.12073   
+Näätänen，R.，& Michie,P. T.(1979).Early selective-atention effects on the evoked potential: A criticalreviewandreinterpretation.BiologicalPsychology，8(2)，81-136. doi:10.1016/0301-0511(79)90053-X   
+Näatänen, R.,& Picton, T. (1987). The N1 wave of the human electric and magnetic response to sound: A review and an analysis of the component structure. Psychophysiology， 24(4), 375-425. doi:10.1111/j.1469-8986.1987.tb00311.x   
+Oren,E., Eitam, B.,& Dar, R. (2019). Intentional binding and obsessive-compulsive tendencies: A dissociation between indirect and direct measures of the sense of agency. Journal of Obsessive-compulsive and Related Disorders, 20, 59-65. doi:10.1016/j.jocrd.2017.11.002   
+Orgogozo, J. M., & Larsen, B. (1979). Activation of the supplementary motor area during voluntary movement in man suggests it works as a supramotor area. Science, 206(4420), 847-850. doi:10.1126/science.493986   
+Pailing,P. E.,& Segalowitz, S. J. (2004). The error-related negativity as a state and trait measure: Motivation, personality， and ERPs in response to errors. Psychophysiology， 41(1), 84-95. doi:10.1111/1469-8986.00124   
+Pfister,R.,Tonn, S.，Weller,L.,Kunde, W.,& Schwarz, K.A. (2021). To prevent means to know: Explicit but no implicit agency for prevention behavior. Cognition，206,104489-104489. doi:10.1016/j.cognition.2020.104489   
+Picard,N.，& Strick， P. L. (2003). Activation of the supplementary motor area (SMA） during performance of visually guided movements. Cerebral Cortex, 13(9)， 977-986. doi:10.1093/cercor/13.9.977   
+Ren, X., Valle- Inclan, F., Tukaiev, S.,& Hackley, S. A. (2017). Changes in the stimulus - preceding negativity and lateralized readiness potential during reinforcement learning. Psychophysiology, 54(7), 969-981. doi:10.111/psyp.12859   
+Reznik,D., & Mukamel, R. (2019). Motor output, neural states and auditory perception. Neuroscience and Biobehavioral Reviews, 96,116-126. doi:10.1016/j.neubiorev.2018.10.021   
+Roland, P.E., Larsen, B., Lassen, N.A.,& Skinhoj, E.(1980). Supplementary motor area and other cortical areas in organization of voluntary movements in man. Journal of Neurophysiology 43(1),118-136. doi:10.1152/jn.1980.43.1.118   
+Saito,N.,Takahata, K., Murai, T.,& Takahashi, H. (2015). Discrepancy between explicit judgement of agency and implicit feeling of agency: Implications for sense of agency and its disorders. Consciousness and Cognition, 37,1-7. doi:10.1016/j. concog.2015.07.011   
+Schafer, E. W.P.,& Marcus, M. M. (1973). Self-stimulation alters human sensory brain responses. Science,181(4095),175-177. doi:10.1126/science.181.4095.175   
+Scheffers,M. K.，& Coles，M. G. H. (2000). Performance monitoring in a confusing world: Error-related brain activity, judgments of response accuracy, and types of errors. Journal of Experimental Psychology: Human Perception and Performance, 26(1)， 141-151. doi:10.1037/0096-1523.26.1.141   
+Schwarz, K.A., Pfister, R., Kluge,M., Weler, L.,& Kunde,W (2018). Do we see it or not? Sensory attenuation in the visual domain. Journal of Experimental Psychology-General, 147(3), 418-430.doi:10.1037/xge0000353   
+Schwarz,K.A.， Weller,L.，Klaffehn,A.L.，& Pfister,R. (2019). The effects of action choice on temporal binding， agency ratings, and their correlation. Consciousness and Cognition， 75, 102807. doi:10.1016/j.concog.2019.102807   
+Seidel,E.-M., Pfabigan, D. M., Hahn,A.， Sladky,R., Grahl, A., Paul, K.,... Lamm, C. (2015). Uncertainty during pain anticipation: The adaptive value of preparatory processes: Uncertainty during pain anticipation. Human Brain Mapping, 36(2)， 744-755. doi:10.1002/hbm.22661   
+Sidarus, N., Vuorre, M., & Haggard, P. (2o17). How action selection influences the sense of agency: An ERP study. NeuroImage, 150,1-13. doi:10.1016/j.neuroimage.2017.02.015   
+Simons, R. F., OHman, A., & Lang, P. J. (1979). Anticipation and response set: Cortical, cardiac, and electrodermal correlates. Psychophysiology, 16(3), 222-233. doi:10.111/j.1469-8986.1979.tb02982.x   
+Sirigu,A.，Daprati，E.，Pradat-Diehl，P.，Franck，N.，& Jeannerod，M.(1999). Perception of self-generated movement following left parietal lesion. Brain， 122(10)，1867-1874. doi:10.1093/brain/122.10.1867   
+Sperduti, M.,Delaveau,P.,Fossati,P.,& Nadel,J. (2011). Different brain structures related to self-and external-agency attribution: A brief review and meta-analysis. Brain Structure & Function, 216(2),151-157. doi:10.1007/s00429-010-0298-1   
+Sperduti, M., Pieron, M., Leboyer, M.,& Zalla, T. (2014). Altered pre-reflective sense of agency in autism spectrum disorders as revealed by reduced intentional binding. Journal of Autism and Developmental Disorders, 44(2),343-352. doi:10.1007/s10803-013-1891-y   
+Stephenson, L.，Edwards,S., Howard, E.，& Bayliss,A. (2017). Eyes that bind us: Gaze leading induces an implicitsense of agency. Cognition, 172. 124-133. doi:10.1016/j.cognition.2017.12.011.   
+Synofzik, M.， Vosgerau, G.，& Newen,A. (20o8). Beyond the comparator model: A multifactorial two-step account of agency. Consciousnessand Cognition, 17(1)， 219-239. doi:10.1016/j.concog.2007.03.010   
+Teuchies, M., Demanet, J. Sidarus, N., Haggard,P., Stevens, M. A., & Brass, M. (2016). Influences of unconscious priming on voluntary actions: Role of the rostral cingulate zone. Neurolmage, 135,243-252. doi:10.1016/j.neuroimage.2016.04.036   
+Thaler,D., Chen, Y. -C., Nixon,P.D.,Stern, C.E.,& Passingham,R.E.(1995). The functions of the medial premotor cortex - I. Simple learned movements. Experimental Brain Research, 102(3), 445-460. doi:10.1007/BF00230649   
+Thanopoulos,V.， Psarou,E.，& Vatakis,A. (2018). Robust intentional binding for causally-linked sequences of naturalistic events but not for abstract event sequences. Acta Psychologica, 190, 159-173. doi:10.1016/j.actpsy.2018.08.001   
+van Kemenade, B. M., Arikan, B. E., Kircher, T.，& Straube,B. (2017). The angular gyrus is a supramodal comparator area in action-outcome monitoring. Brain Structure & Function, 222(8), 3691-3703. doi:10.1007/s00429-017-1428-9   
+Vinding,M. C.，Pedersen, M. N.,& Overgaard, M. (2013). Unraveling intention: Distal intentions increase the subjective sense of agency. Consciousness and Cognition， 22(3)， 810-815. doi:10.1016/j.concog.2013.05.003   
+Voss,M.， Chambon, V.,Wenke,D., Kühn, S.，& Haggard, P. (2017). In and out of control: Brain mechanisms linking fluency of action selection to self-agency in patients with schizophrenia. Brain,140(8),2226-2239. doi:10.1093/brain/awx136   
+Voss,M., Moore, J., Hauser, M., Gallinat, J., Heinz, A.,& Haggard, P. (2010). Altered awareness of action in schizophrenia: A specific deficit in predicting action consequences. Brain, 133(10), 3104-3112. doi:10.1093/brain/awq152   
+Wolpe,N., Moore, J. W., Rae, C.L., Rittman, T.,Altena, E., Haggard, P.,& Rowe, J.B. (2014). The medial frontal-prefrontal network for altered awareness and control of action in corticobasal syndrome.Brain, 137(1),208-220. doi:10.1093/brain/awt302   
+Wolpert,D.M.,Ghahramani, Z.，& Jordan，M.I.(1995).An internal model for sensorimotor untegration. Science, 269(5232),1880-1882. doi:10.1126/science.7569931   
+Yoshie， M.，& Haggard, P. (2013). Negative emotional outcomes attenuate sense of agency over voluntary actions. Current Biology, 23(20),2028-2032. doi:10.1016/j.cub.2013.08.034   
+Yoshie, M., & Haggard, P. (2017). Effects of emotional valence on sense of agency require a predictive model. Scientific Reports, 7(1),8733-8733. doi:10.1038/s41598-017-08803-3   
+Zhao,K., Chen, Y.-H., Yan, W.-J.,& Fu, X. (2013). To bind or not to bind? diferent temporal binding effects from voluntary pressing and releasing actions. PloS One,8(5)，e64819-e64819. doi:10.1371/journal.pone.0064819   
+Zhao, K., Gu, R., Wang, L., Xiao, P., Chen, Y., Liang, J.,.. Fu, X. (2014). Voluntary pressing and releasing actions induce different senses of time: Evidence from event-related brain responses. Scientific Rep0rts, 4(1), 6047-6047. doi:10.1038/srep06047   
+Zhao,K., Hu,L., Qu,F., Cui, Q., Piao,Q.， Xu, H.,...Fu, X. (2016). Voluntary action and tactile sensory feedback in the intentional binding effect. Experimental Brain Research, 234(8), 2283-2292. doi:10.1007/s00221-016-4633-5   
+Ziessler,M., Nattkemper,D.,& Frensch,P.A. (2004). The role of anticipation and intention in the learning of effects of self-performed actions. Psychological Research， 68(2)，163-175. doi:10.1007/s00426-003-0153-6   
+Zouridakis, G., Simos, P. G.,& Papanicolaou,A. C. (1998). Multiple bilaterally asymmetric cortical sources account for the auditory N1m component. Brain Topography， 10(3)，183-189. doi:10.1023/A:1022246825461
+
+# The spatiotemporal markers for the sense of agency in the human brain
+
+ZHAO ${ \bf K } { \bf e } ^ { 1 , 2 }$ , GU Jingjin1,2, HUANG Guanhua1,2, ZHENG Shuang1,², FU Xiaolan1,2 (StateKeyLboratoryofradCogiieece,Isttefyoloinsecadeofienesega) (² Department of Psychology, University of Chinese Academy of Sciences, Beijing 10o049,China)
+
+Abstract: Sense of agency (SoA) refers to the feling of controlling one's own actions and, through them, events in the external world when performing voluntary actions. Intention of action and sensory fedback are two core components that constitute the sense of agency. However, the cognitive neural mechanism underlying the influence of these two components on SoA is unclear. We propose to explore the feedforward effect of action intention and the feedback effect of sensory feedback on SoA. The magnetoencephalography technology,which is of high temporal and spatial resolution, is employed to extract the time-space characteristics of sense of agency at the fronto-parietal network in both the time windows of action-outcome and after-outcome. The elucidation of this cognitive neural mechanism of SoA will contribute to our understanding of the generation and aftereffects of human actions; furthermore, it will provide implications for the demarcation of behavioral responsibilities in moral and legal settings，and for the clinical diagnoses of related mental diseases.
+
+Keywords: sense of agency, action intention, outcome feedback, time compression

@@ -1,0 +1,688 @@
+[
+    {
+        "type": "text",
+        "text": "改进滑模模型参考自适应的PMSM无传感控制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈威，董秀成，周单，冯禹铭(西华大学 信号与信息处理重点实验室，成都 610039)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对MRAS（模型参考自适应）观测器对PMSM（永磁同步电机）参数变化和外部干扰敏感的缺点，设计了一种用于PMSM无传感控制的软开关滑模模型参考自适应观测器。该观测器将滑模控制与 MRAS 相结合，并构造了边界层可变的正弦饱和函数，以抑制由于滑模控制引起的系统抖动，增强系统鲁棒性。同时引入 sigmoid 函数，以提高滑模软切换速度控制器的稳定性。实验仿真结果表明：软开关滑模模型参考自适应控制不仅可以实现边界层内的快速收敛、弱化抖动，而且跟踪能力强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：永磁同步电机；滑模软切换；滑模模型参考自适应；正弦饱和函数 中图分类号：TP391.9 doi: 10.3969/j.issn.1001-3695.2018.07.0421 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sensorless control of PMSM based on improved sliding-mode model reference adaptive system method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiucheng Dong, Wei Chen, Dan Zhou, Yuming Feng (Signal &Information ProcessingLaboratory,Xihua University,Chengdu 61oo39,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Due to the disadvantage that Model Reference Adaptive Observer (MARS)is sensitive to parameter variations of PMSM (Permanent Magnet Synchronous Motor)and external disturbances,this paper developed a soft-switched sliding mode modelreference adaptiveobserver forPMSMsensorlesscontrol.Theobservercombinedthe sliding mode control with MRAS. Andconstructinga variable sinusoidalsaturationfunction was to enhance the robustnessof thesystem and efectively reduce thechatteringphenomenon.Atthesame time,introducing thesigmoidfunction was toimprove the stabilityoftheslidingmode soft switching speed controler.The simulationresults show that the soft-switching sliding mode model reference adaptive control can achieve convergence faster,reduce the chattering phenomenon and improve the tracking performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:PMSM; sliding mode soft switch; sliding-mode MRAS; saturation function ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "永磁同步 电机（Permanent Magnet Synchronous Motor,PMSM）具有体积小、重量轻、运行可靠、调速性能好、单位功率密度高等优点，被广泛应用在工业机器人、风力发电、航空航天等各个领域[1-3]。永磁同步电机的高性能控制依赖于精确的转子位置信息，然而通常使用的光电编码器或旋转变压器等机械式位置传感器成本高，抗干扰能力差，极大的限制了PMSM的发展与应用。无传感器控制技术可以省略机械式位置传感器，简化变频器和电机之间的连接线路，缩小系统体积，提高系统可靠性。因此，无传感器控制技术成为电机控制领域的研究热点[4-5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "永磁同步电机无传感器控制方法可分为基于高频信号注入的低速方法和基于反电动势及磁链估计的中高速方法。高频注入法利用电机结构凸极或饱和凸极特性，注入旋转或脉动的高频信号，得到电机静止和极低速运行时的转子位置信息。观测器方法是一种广泛使用的中高速估计方法，通过建立反电动势或磁链观测器，获得转子位置与转速信息，如扩展卡尔曼滤波法[6]、模型参考自适应法（ModelReferenceAdaptiveSystem,MRAS）[7-9]、滑模观测器法[10-11]、扰动观测器法[12-13]和非线性观测器法[14]等。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对无传感器控制技术进行了大量研究，取得了很多研究成果。文献[7]基于传统的MRAS控制对电机的内部参数变化非常敏感，鲁棒性差;文献[8]在模型参考自适应的基础上加入了变结构控制，系统的鲁棒性得到了明显的改善，但同时也增大了系统的抖动；文献[9]将变结构控制中的开关函数用双曲正切型饱和函数替换，系统抖动减弱，但是算法计算时间长，不利于工程应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文设计了一种软开关滑模模型参考自适应观测器，该观测器将滑模控制与MRAS相结合，以提高速度估计精度并增强系统鲁棒性。构造了一种边界层可变的正弦饱和函数来替换开关函数，以抑制滑模控制引起的系统抖动。同时引入sigmoid 函数，以增强滑模软切换速度控制器的稳定性。为将本文所提方法与滑模MRAS、MRAS控制进行比，对位置和速度跟踪误差作了测量和比较。仿真结果表明，该方法不仅极大的抑制了由于滑模控制引起的系统抖动，增强了系统的鲁棒性，且跟踪精度高，算法计算简单，工程应用强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 PMSM的数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同步旋转坐标系d-q下三相表贴式PMSM数学模型如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Bigg [ \\frac { d } { d t } i _ { d } \\Bigg ] = \\Bigg [ \\frac { R } { L _ { s } } \\ \\omega _ { e }  \\\\ { \\frac { d } { d t } i _ { q } \\Bigg ] ^ { - } = \\omega _ { e } - \\frac { R } { L _ { s } } \\Bigg [ \\Big [ i _ { q } \\Big ] + \\frac { I } { L _ { s } } \\Big [ u _ { q } \\Big ] + \\frac { I } { L _ { s } } \\Big [ - \\psi _ { f } \\omega _ { e } \\Big ] } \\\\  \\frac { d } { d t } i _ { q } \\Bigg ] ^ { - } = \\Bigg [ - \\omega _ { e } - \\frac { R } { L _ { s } } \\Bigg ] \\Bigg [ i _ { q } \\Big ] + \\frac { I } { L _ { s } } \\Big [ u _ { q } \\Big ] + \\frac { I } { L _ { s } } \\Big [ - \\psi _ { f } \\omega _ { e } \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $u _ { d } \\ 、 u _ { q }$ 分别为 ${ \\mathsf { d } } , { \\mathsf { q } }$ 轴电压； $i _ { d }$ 、 $i _ { _ q }$ 分别为 ${ \\mathsf { d } } , { \\mathsf { q } }$ 轴电流;  \n$L _ { d }$ 、 $L _ { q }$ 分别为d、q轴电感（ ${ \\cal L } _ { d } = { \\cal L } _ { q } = { \\cal L } _ { s }$ ）； $\\mathrm { ~ \\tt ~ R ~ }$ 为定子电阻； $\\omega _ { e }$   \n为电角速度； $\\psi _ { f }$ 是转子永磁体磁链。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "机械运动方程为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { J } \\frac { d \\omega _ { m } } { d t } = \\boldsymbol { T _ { e } } - \\boldsymbol { T _ { L } } - \\boldsymbol { B } \\omega _ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $T _ { _ L }$ 一负载转矩； $T _ { e }$ 一电磁转矩； $\\omega _ { { } _ { m } }$ 一电机的机械角速度；  \n$J$ 、 $B$ 一转动惯量、阻尼系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进滑模MRAS观测器设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 MRAS观测器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型参考自适应观测器的观测值对参考模型的参数变化及系统扰动非常敏感。为此本文在模型参考自适应的基础上引入滑模控制，增强了系统鲁棒性。式（1）可写成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\frac { d } { d t } ( i _ { d } + \\frac { \\psi _ { f } } { L _ { s } } ) \\right] = \\left[ \\begin{array} { c c } { \\displaystyle - \\frac { R } { L _ { s } } } & { \\displaystyle \\omega _ { e } } \\\\ { \\displaystyle - \\omega _ { e } } & { \\displaystyle - \\frac { R } { L _ { s } } } \\end{array} \\right] \\left[ i _ { d } + \\frac { \\psi _ { f } } { L _ { s } } \\right] + \\frac { 1 } { L _ { s } } \\left[ u _ { d } + \\frac { R \\psi _ { f } } { L _ { s } } \\right] \\left[ \\begin{array} { c } { \\displaystyle - \\frac { R } { L _ { s } } } \\\\ { \\displaystyle - \\frac { d } { d t } i _ { d } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\begin{array} { l } { i _ { d } ^ { \\prime } } \\\\ { i _ { q } ^ { \\prime } } \\\\ { u _ { d } ^ { \\prime } } \\\\ { u _ { q } ^ { \\prime } } \\end{array} \\right] = \\left[ \\begin{array} { c } { i _ { d } + \\frac { \\psi _ { f } } { L _ { s } } } \\\\ { i _ { q } } \\\\ { u _ { d } + \\frac { R \\psi _ { f } } { L _ { s } } } \\\\ { u _ { q } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）参考模型为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d } { d t } i ^ { \\prime } = A i ^ { \\prime } + B u ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni ^ { \\prime } = \\left[ \\dot { l } _ { d } ^ { \\prime } \\right] , \\quad u ^ { \\prime } = \\left[ \\begin{array} { c } { { u _ { d } ^ { \\prime } } } \\\\ { { u _ { \\ast } ^ { \\prime } } } \\end{array} \\right] , \\quad A = \\left[ \\begin{array} { c c } { { \\displaystyle - { \\frac { R } { L _ { s } } } } } & { { \\omega _ { e } } } \\\\ { { \\displaystyle - { \\omega _ { e } } } } & { { \\displaystyle - { \\frac { R } { L _ { s } } } } } \\end{array} \\right] , \\quad B = \\left[ \\begin{array} { c c } { { \\displaystyle { \\frac { 1 } { L _ { s } } } } } & { { 0 } } \\\\ { { 0 } } & { { \\displaystyle { \\frac { 1 } { L _ { s } } } } } \\end{array} \\right] \\circ \\left[ \\begin{array} { c } { { \\displaystyle { \\frac { 1 } { L _ { s } } } } } \\\\ { { \\displaystyle { \\frac { 1 } { L _ { s } } } } } \\end{array} \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）可调模型为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d } { d t } \\hat { i } ^ { \\prime } = \\hat { A } \\hat { i } ^ { \\prime } + B { u } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\begin{array} { r } { i ^ { \\prime } = \\left[ \\begin{array} { l } { \\hat { i } _ { d } ^ { \\prime } } \\\\ { \\hat { i } _ { q } ^ { \\prime } } \\end{array} \\right] } \\end{array}$ $[ \\begin{array} { l l } { \\displaystyle \\int } \\\\ { \\displaystyle } \\end{array} \\hat { A } = [ \\begin{array} { l l } { \\displaystyle - \\frac { R } { L _ { s } } } & { \\displaystyle \\hat { \\omega } _ { e } } \\\\ { \\displaystyle - \\hat { \\omega } _ { e } } & { \\displaystyle - \\frac { R } { L _ { s } } } \\end{array} ] ;$ ：且式中 $\\hat { i } _ { d } ^ { \\prime }$ 、 $\\hat { i } _ { q } ^ { \\prime }$ 、 $\\hat { \\omega } _ { e }$ 为 $i _ { d } ^ { \\prime }$ 、 $i _ { _ q } ^ { \\prime }$ 、$\\omega _ { e }$ 的估计值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3）误差方程；定义误差为 $e = i ^ { \\prime } - \\hat { i } ^ { \\prime }$ ，那么式（5）减式（6）得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d } { d t } e = A e + C \\hat { i } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $e = \\left[ e _ { d } \\atop e _ { q } \\right] , C = \\left[ \\begin{array} { c c } { { 0 } } & { { - \\tilde { \\omega } _ { e } } } \\\\ { { \\tilde { \\omega } _ { e } } } & { { 0 } } \\end{array} \\right]$ ：且 $\\tilde { \\omega } _ { e } = \\omega _ { e } - \\hat { \\omega } _ { e }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "构造如下李雅普诺夫能量函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = \\frac { 1 } { 2 } ( e _ { d } ^ { 2 } + e _ { q } ^ { 2 } + \\frac { \\tilde { \\omega } _ { e } ^ { 2 } } { k } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $k$ 是正数；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "转速自适应律为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\hat { \\omega } _ { e } = k \\int ( \\hat { i } _ { d } ^ { \\prime } { \\boldsymbol { e } } _ { q } - \\hat { i } _ { q } ^ { \\prime } { \\boldsymbol { e } } _ { d } ) } } } \\\\ { { \\displaystyle ~ = k \\int [ \\hat { i } _ { d } \\hat { i } _ { q } - \\hat { i } _ { d } \\hat { i } _ { q } - \\frac { \\psi _ { f } } { L _ { s } } ( \\dot { i } _ { q } - \\hat { i } _ { q } ) ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "满足 $\\dot { V } \\leq 0$ ，动态误差系统（7）稳定。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为提高转速估计精度，特采用基于比例积分作用的MRAS观测器",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\omega } _ { \\mathrm { e } } = ( k _ { \\mathrm { } _ { p } } + \\frac { k _ { i } } { s } ) [ i _ { d } \\hat { i } _ { q } - \\hat { i } _ { d } \\ : i _ { q } - \\frac { \\psi _ { f } } { L _ { s } } ( i _ { q } - \\hat { i } _ { q } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2正弦饱和函数设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为抑制滑模控制引起的抖振，在此引入“边界层”概念，采用边界层为线性的初等饱和函数、非线性的终端滑模型饱和函数或非线性的双曲正切型饱和函数代替传统的开关函数；边界层厚度越大，对抖振的抑制效果越是明显，但如果边界层厚度过大时，将会影响滑模控制的鲁棒性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从文献[15]可知，在边界层厚度相同的情况下，初等、终端滑模型（ $\\scriptstyle \\mathbf { a } = 5 / 7$ ）饱和函数的等效收敛时间较长，双曲正切型饱和函数的等效收敛时间虽然大大降低，但是算法计算时间长，不利于工程应用，本文设计了等效收敛时间短且计算简单的正弦型饱和函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设0.0001相对于1可忽略不计，则正弦型饱和函数如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF ( s ) = { \\frac { e ^ { h ( { \\frac { \\pi } { 2 } } - \\left| a s \\right| ) } } { 0 . 0 0 0 1 + e ^ { h ( { \\frac { \\pi } { 2 } } - \\left| a s \\right| ) } } } \\sin ( a s ) + { \\frac { 0 . 0 0 0 1 } { 0 . 0 0 0 1 + e ^ { h ( { \\frac { \\pi } { 2 } } - \\left| a s \\right| ) } } } { \\frac { a s } { \\left| a s \\right| } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\scriptstyle a = \\pi / 2 \\varepsilon$ ， $\\varepsilon$ 为边界层厚度， $h$ 为无穷大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "正弦饱和函数曲线如图1所示，当 $\\varepsilon$ 值为0时饱和函数就变成了传统的开关函数，增大 $\\varepsilon$ ，可减小由于滑模控制引起的抖动，但如果 $\\varepsilon$ 值过大，则会降低系统鲁棒性，减慢收敛速度，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此应在抑制抖振的前提下，尽可能减少边界层厚度。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a658e99d50b95950ead58f5a06ee148ded344218593722df5274dfc09c74ba13.jpg",
+        "img_caption": [
+            "图1正弦型饱和函数"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3改进滑模MRAS观测器设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据滑模变结构理论，选取转速自适应率所得转速为滑模面：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = ( k _ { p } + { \\frac { k _ { i } } { s } } ) [ i _ { d } \\hat { i } _ { q } - \\hat { i } _ { d } i _ { q } - { \\frac { \\psi _ { f } } { L _ { s } } } ( i _ { q } - \\hat { i } _ { q } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "那么传统滑模MRAS观测器为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\omega } _ { e } = \\lambda s i g n ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\lambda { > } 0$ ；signO为符号函数，在传统开关函数的作用下，将在滑模面附近呈现出固有的抖振现象，使得估计结果在实际值上下震荡，对估计精度产生直接的影响。本文构造了一种边界层可变的正弦饱和函数来替换开关函数，以抑制抖振。系统结构框图如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进（软开关）滑模模型参考自适应观测器为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\omega } _ { e } = \\lambda F ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为保证观测器稳定，构造如下Lyapunov 函数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = { \\frac { l } { 2 } } S ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义变量 $g$ 、 $g _ { I }$ 、 $g _ { 2 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng = i _ { d } \\hat { i } _ { q } - \\hat { i } _ { d } i _ { q } - \\frac { \\psi _ { f } } { L _ { s } } ( i _ { q } - \\hat { i } _ { q } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\dot { \\displaystyle \\dot { g } } = - \\hat { \\omega } _ { e } [ i _ { d } { \\hat { i } _ { d } } + i _ { q } { \\hat { i } _ { q } } + \\frac { \\psi _ { f } } { L } ( i _ { d } + \\hat { i } _ { d } ) + ( \\frac { \\psi _ { f } } { L } ) ^ { 2 } ] } \\\\ & { \\quad \\quad + { \\omega } _ { e } [ i _ { d } { \\hat { i } _ { d } } + i _ { q } { \\hat { i } _ { q } } + \\frac { \\psi _ { f } } { L } ( i _ { d } + \\hat { i } _ { d } ) + ( \\frac { \\psi _ { f } } { L } ) ^ { 2 } ] } \\\\ & { \\quad \\quad + [ - \\frac { 2 R } { L } i _ { d } { \\hat { i } _ { q } } + \\frac { 2 R } { L } { \\hat { i } _ { d } } i _ { q } + \\frac { u _ { q } } { L } ( i _ { d } - \\hat { i } _ { d } ) + ( \\frac { R \\psi _ { f } } { L ^ { 2 } } - \\frac { u _ { d } } { L } ) ( i _ { q } - \\hat { i } _ { q } ) ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { I } = i _ { d } \\hat { i } _ { d } + i _ { q } \\hat { i } _ { q } + \\frac { \\psi _ { f } } { L } ( i _ { d } + \\hat { i } _ { d } ) + ( \\frac { \\psi _ { f } } { L } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle g _ { 2 } = \\omega _ { e } [ i _ { d } \\hat { i } _ { d } + i _ { q } \\hat { i } _ { q } + \\frac { \\psi _ { f } } { L } ( i _ { d } + \\hat { i } _ { d } ) + ( \\frac { \\psi _ { f } } { L } ) ^ { 2 } ] } } \\\\ { { \\displaystyle ~ + [ - \\frac { 2 R } { L } i _ { d } \\hat { i } _ { q } + \\frac { 2 R } { L } \\hat { i } _ { d } i _ { q } + \\frac { u _ { q } } { L } ( i _ { d } - \\hat { i } _ { d } ) + ( \\frac { R \\psi _ { f } } { L ^ { 2 } } - \\frac { u _ { d } } { L } ) ( i _ { q } - \\hat { i } _ { q } ) ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对式（15）求导得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\dot { V } = S \\dot { S } = S ( k _ { p } \\dot { g } + k _ { i } g ) } \\\\ & { \\quad = S ( k _ { p } ( - \\hat { \\omega } _ { e } \\dot { g } _ { I } + \\dot { g } _ { 2 } ) + k _ { i } g ) } \\\\ & { \\quad = - \\lambda k _ { p } \\big | S F ( s ) \\big | \\dot { g } _ { I } + S ( k _ { p } \\dot { g } _ { 2 } + k _ { i } g ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为确保观测器（14）稳定，需满足： ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { V } \\le 0\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若足够大，则 $\\lambda k _ { p } \\big | S F ( s ) \\big | \\dot { g } _ { I } \\geq S ( k _ { p } \\dot { g } _ { 2 } + k _ { i } g )$ ，那么 $\\dot { V } \\le 0$ 。改进（软开关）滑模模型参考自适应观测器大范围渐近稳定。当观测器进入滑模面时， $S = { \\dot { S } } = O$ ,则等效速度收敛于实际速度，系统稳定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "位置观测值为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { \\theta } = \\int _ { 0 } ^ { t } \\hat { \\omega } _ { e } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f918e3707681eaa0d1a0c58bbd62a6b222ceff2997b31a3207ddbf815662f61.jpg",
+        "img_caption": [
+            "图2改进滑模MRAS控制的系统结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 滑模软切换速度控制器设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义速度跟踪误差 $E ( t ) = \\hat { \\omega } _ { e } - \\omega _ { r } ^ { * }$ （ $\\hat { \\omega } _ { e }$ 为估计速度， $\\omega _ { r } ^ { * }$ 为给定的参考速度），选取 $E ( t )$ 的积分项为滑模面：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = E + k \\intop _ { 0 } ^ { t } E ( \\tau ) d \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "令 $\\dot { s } = 0$ ，将式（2）代入式（23）可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { e q } = \\frac { J } { p _ { n } \\psi _ { f } } [ ( \\frac { B } { J } - k ) E + \\frac { T _ { L } } { J } + \\dot { \\omega } _ { r } ^ { \\ast } + \\frac { B } { J } \\omega _ { r } ^ { \\ast } ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当电机参数变化或受到外部干扰时，系统状态将会偏离滑模面，通常加入切换补偿 $u _ { b c } = m \\mathrm { s g n } ( s )$ ，抑制系统状态的偏离，但同时也加剧了系统的抖动[16-20]；因此本文采用 sigmoid 的函数代替开关函数，不仅可抑制系统状态的偏离，而且系统抖振也得到了明显改善。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { b c } = - m ( \\frac { 2 } { 1 + e ^ { - b s } } - 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $m > 0$ ， $b > 0$ ；由式（24）、式（25）得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu = i _ { q } ^ { * } = u _ { e q } + u _ { b c }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 仿真结果 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在MATLAB/Simulink中搭建了仿真系统，结构如图2所示，系统所用PMSM电机参数为：电子电阻 $(  { R } )$ 为 $2 . 8 7 5 \\Omega$ ，$^ d$ 轴和 $q$ 轴定子电感（ $L _ { d }$ ， $L _ { \\boldsymbol { q } } ^ { \\mathrm { ~ \\scriptsize ~ . ~ } }$ 为 $8 . 5 \\ : m H$ ，极对数（ $\\boldsymbol { p } _ { n }$ ）为4,磁链（ $\\cdot \\psi _ { f }$ ）为 $0 . 1 7 5 W b$ ，转动惯量（」）为 $4 \\times 1 0 ^ { - 6 } k g \\cdot m ^ { 2 }$ ，阻尼系数（ $B$ ）为 $0 N \\cdot m \\cdot s$ ，直流母线电压（ $V _ { d c }$ ）为 $3 1 1 ~ \\nu$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$q$ 轴上的PI参数为: $K _ { \\mathrm { p } } { = } L _ { \\mathrm { s } } { \\mathrm { ~ } } ^ { * } 3 8 0$ ， $K _ { i } { = } \\mathsf { R } ^ { * } \\mathsf { 1 } 7 0 0$ 。$d$ 轴上的PI参数为: $K _ { \\mathrm { p } } { = } L _ { \\mathrm { s } } { \\mathrm { ^ * } } 1 9 0 0$ ， $K _ { i } { = } \\mathbf { R } ^ { * } \\boldsymbol { 1 } 7 0 0$ □MRAS 观测器中的PI参数为： $K _ { \\mathrm { p } } { = } 1 . 1$ ， $K _ { i } { = } 1 . 8$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（13）中 $\\lambda = 4 2 0$ □ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为验证本文所设计系统具有较强的鲁棒性。在外部负载变化和电机内部参数变化时，对MRAS控制、滑模MRAS控制及改进滑模MRAS控制的速度和位置跟踪误差进行了测量和比较。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 变负载分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "给定转速（ $\\omega _ { r } ^ { * }$ ）为 $1 0 0 0 ~ r / \\mathrm { { m i n } }$ ，电机空载启动。在 $\\scriptstyle t = 0 . 2 s$ 时，负载（ $T _ { _ L }$ )由 $0 N \\cdot m$ 突变为 $0 . 6 N \\cdot m$ ，MRAS控制、滑模MRAS控制及改进滑模MRAS控制的转矩响应曲线如图3、转速响应曲线如图4、位置响应曲线如图5、跟踪误差如图6。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/124069072e39952ddbb119f2a74b0ff032398ae3ee1e792857e48f2e08b58492.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3可以看出，负载突变的情况下，MRAS控制所产生的电磁转矩需经过5ms 趋于收敛，滑模MRAS所产生的电磁转矩抖动剧烈、收敛速度慢，而改进滑模MRAS所产生的电磁转矩能快速收敛至设定值。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a44a4fbfbc7d68b322ec5b3b714eccf7d90a006d685d88e87f91e0f4160fbe7d.jpg",
+        "img_caption": [
+            "图3负载在 $\\scriptstyle t = 0 . 2 s$ 由0突变为 $0 . 6 N \\cdot m$ 的转矩响应曲线",
+            "图4负载在 $t = 0 . 2 s$ 由0突变为 $0 . 6 N \\cdot m$ 的转速响应曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5991f8a9e3408fe2eb451bddeb263726b1a5f8743a0639b4d63ef383c1a846e9.jpg",
+        "img_caption": [
+            "图5负载在 $\\scriptstyle t = 0 . 2 s$ 由0突变为 $0 . 6 N \\cdot m$ 的位置响应曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fdfce88d3ac34d512fc8d1acfb94a757499232ff8c11f70938d96febee2b5e8c.jpg",
+        "img_caption": [
+            "图6负载在 $\\scriptstyle t = 0 . 2 s$ 由0突变为 $0 . 6 N \\cdot m$ 的跟踪误差曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图4-图6可看出，负载突增时，MRAS控制的实际转速偏离给定转速 $2 5 0 ~ r / \\operatorname* { m i n }$ ，观测转速对实际转速的跟踪误差为$2 0 0 ~ r / \\mathrm { { m i n } }$ ，经过大约18ms趋于稳定，稳态时，速度跟踪误差为 $1 0 ~ r / \\mathrm { { m i n } }$ ，位置跟踪误差为0.1rad；滑模MRAS的转速波动大，抖动明显，且实际转速严重偏离给定转速，观测转速失去了对实际转速的准确跟踪能力；改进滑模MRAS极大的弱化了滑模变结构所引起的抖动，观测转速对实际转速的跟踪误差控制在 $1 0 0 ~ r / \\mathrm { { m i n } }$ 以内，仅经过 $1 0 \\mathrm { m s }$ 的响应时间即达到稳态，稳态时，速度跟踪误差控制在 $6 r / \\mathrm { { m i n } }$ 以内，位置跟踪误差为0.02rad。仿真结果表明，在负载突变时，改进滑模MRAS控制不仅能够有效抑制滑模控制引起的抖动，而且跟踪能力强、鲁棒性好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 变参数分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "给定转速（ $\\omega _ { r } ^ { * }$ ）仍为 $1 0 0 0 ~ r / \\mathrm { { m i n } }$ ，负载转矩恒为 $0 N \\cdot m$ ，假设电感不变，电机定子电阻由 $R$ 变为 $2 R$ ，MRAS控制、滑模MRAS控制和改进滑膜MRAS 控制的跟踪误差变化曲线如图7；若电机定子电阻不变，电感由 $L _ { s }$ 变为 $2 L _ { s }$ ，MRAS控制、滑模MRAS控制和改进滑膜MRAS控制的跟踪误差变化曲线如图8。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/067fad8f81252adeba52b5d7472962e0f8af6eb5c1c7c99eada99867628b7e16.jpg",
+        "img_caption": [
+            "图7电机电阻由 $R$ 变为 $2 R$ 的跟踪误差曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图7可看出，当电机定子电阻由 $R$ 变为 $2 R$ 时，MRAS控制的观测转速对实际转速的跟踪误差为 $3 0 0 ~ r / \\mathrm { { m i n } }$ ，位置跟踪误差为 $0 . 2 3 \\mathrm { r a d }$ ，经过大约16ms趋于稳定，稳态时，速度跟踪误差为 $8 r / \\mathrm { { m i n } }$ ；滑模MRAS控制的启动超调量极大，达到了$1 6 5 0 ~ r / \\mathrm { { m i n } }$ ，经过大约 $2 5 \\mathrm { m s }$ 趋于稳定，稳态时仍有大约100$r / \\operatorname* { m i n }$ 的偏差；改进滑模MRAS的观测转速能够准确的跟踪转子实际转速，跟踪误差控制在 $5 r / \\mathrm { { m i n } }$ 以内，位置误差几乎为Orad。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/33c88b9341b1e5b9cfb88364d39330dae31b396dbacbac4bfa0f731dfac508f6.jpg",
+        "img_caption": [
+            "图8电机电感由 $L _ { s }$ 变为 $2 L _ { s }$ 的跟踪误差曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图8可看出，当电机电感由 $L _ { s }$ 变为 $2 L _ { s }$ 时，MRAS控制系统需经过0.05s达到稳态，稳态时，跟踪误差均较小；滑模MRAS控制启动超调大，转速波动剧烈，经过 $0 . 0 7 \\mathrm { s }$ 达到稳态，稳态时，速度跟踪误差为 $2 0 0 ~ r / \\mathrm { { m i n } }$ ，位置跟踪误差为 $0 . 0 5 \\mathrm { r a d }$ 改进滑模MRAS控制的实际转速经过短暂小幅偏离后，迅速趋于稳定，稳态时，速度跟踪误差控制在 $3 r / \\mathrm { { m i n } }$ ，位置跟踪误差为0rad。因此，当电机内部参数变化时，改进滑模MRAS的观测值仍能快速、准确跟踪转子的实际值，系统鲁棒性强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文设计了一种改进滑模模型参考自适应观测器。该观测器将滑模控制与MRAS相结合，提高了系统的跟踪精度和抗干扰能力。采用边界层可变的正弦饱和函数替换开关函数，改善并抑制了系统抖动。在负载扰动和参数变化的情况下，对MRAS、滑模MRAS及改进滑模MRAS控制进行了对比仿真实验，仿真结果表明：改进滑膜MRAS控制抑制外部扰动能力强、对电机内部参数变化不敏感、跟踪精度高、抖动弱化明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]Guo Qing，Yin Jingmin，Yu Tian. Saturated Adaptive Control of Electrohydraulic Actuator with Parametric Uncertainty and Load Disturbance [J]. IEEE International Workshop on Intelligent Systems and Applications,2017,10(1):77-795.   \n[2]张学典，孙俊峰，秦晓飞，等．基于飞蛾火焰优化算法的PMSM分数 PI入阶研究[J].计算机应用研究,2019,36(5).(Zhang Xuedian,Sun Junfeng, Qing Xiaofei, etal. Research of fractionalorder $\\mathrm { P I } ^ { \\wedge } \\lambda$ for PMSM based on moths fire optimization algorithm [J].Application Research of Computers,2019,36 (5).)   \n[3] 刘云龙，高存臣，任启峰，等．水下机器人基于 sigmoid 函数的软变结 构控制[J].电机与控制学报,2014,16 (2):90-95.(Liu Yunlong,Gao CunChen, Ren QiFeng,etal. Soft variable structure control based on sigmoid functions for autonomous underwater vehicles [J].Electric Machines and Control,2014,16 (2): 90-95.)   \n[4] 张相胜，田佳文，潘丰，等．无传感器 PMSM 中基于 IGSO 优化 EKF 的速度估计方法[J].计算机应用研究,2019,36(4).(Zhang Xiangsheng,Tian Jiawen,PanFeng,etal. Method of EKF speed estimation for sensorless pmsm based on IGSO optimizing [J].Application Research of Computers,2019,36 (4).)   \n[5]HU J, ZOU J,XUF.An improved PMSM rotor position sensor based onlinear Hall sensors [J].IEEE Transactions on Magnetics,2015,48(11): 3591—3594.   \n[6]Quang NK, Hieu N T,Ha QP.FPGA-based sensorless PMSM speed control using reduced-order extended kalman filters [J].IEEE Transactions on Industrial Electronics,2014,61(12): 6574-6582.   \n[7]Xu Hua zhong.Xie Jun.A vector-control system based on the improved MRAS for PMSM[J]. IEEE International Workshop on Intelligent Systems and Applications,2009,13 (5): 1-5.   \n[8]王庆龙，张崇巍．基于变结构模型参考自适应系统的永磁同步电机转 速辨识[J].中国电机工程报,2008,28(9):71-75.(WangQinglong, Zhang Chongwei,etal. Variable-structure MRAS Speed Identification for Permanent Magnet Synchronous Motor [J].Proceedings of the CSEE,2008, 28 (9): 71-75.)   \n[9] 林茂，李颖晖，吴辰，等．基于滑模模型参考自适应系统观测器的永磁 同步电机预测控制[J]．电工技术学报,2017,32(6):156-163.(Lin Mao, Li Yinghui,Wu Chen,et al.A Model Reference Adaptive System Based Sliding Mode Observer for Model Predictive Controlled Permanent Magnet SynchronousMotorDrive[J].TRANSACTIONSOFCHINA ELECTROTECHNICAL SOCIETY,2017,32(6): 156-163. )   \n[10] Mahmoud M.Gaballah，Mohammad El Bardini,Mohammad Sharaf. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chattering-free sliding mode observer for speed sensorless control ofPMSM [J].Applied Computing and Informatics,2017,13 (6): 169-174. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[11]K.Hongryel, S.Jubum,L.Jangmyung,Highspeed sliding-mode observer for the sensorless speed control of a PMSM[J].IEEE Trans.Ind.Electr, 2011,58 (9): 4069-4077. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[12]陆媲泉，林鹤云，韩俊林，等．永磁同步电机的扰动观测器无位置传感 器控制[J].中国电机工程学报,2016,36(5):1387-1394.(LUXiaoquan, LIN Heyun,HAN Junlin,etal.Position Sensorless Control of Permanent Magnet Synchronous Machine Using a Disturbance Observer[J]. Proceedings of the CSEE,2016,36 (5): 1387-1394.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[13]刘旭东，李珂，张奇，等．基于非线性扰动观测器的永磁同步电机单环 预测控制 [J].中国电机工程学报,2018,38(7):2153-2161.(LIUXudong, LIKe,ZHANG Qi,etal. Single-loop Predictive Control ofPMSMBased on Nonlinear Disturbance Observers [J].Proceedings of the CSEE,2018,38 (7): 2153-2161.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[14]毛永乐，杨家强，赵寿华，等．带负载转矩估算的非线性观测器内嵌式 永磁同步电机无位置传感器控制策略[J]．中国电机工程学报,2016,36 (8):2252-2259.(MAO Yongle,YANG Jiaqiang，ZHAO Shouhua,etal. Nonlinear Observer With Load-Torque Estimation for Sensorless Control Strategy of Interior Permanent Magnet Synchronous Motor [J]. Proceedings of the CSEE,2016,36(8):2252-2259.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[15]陆泉，林鹤云，冯奕，等．永磁同步电机无传感控制的软开关滑模观 测器[J].电工技术学报,2015,30(2):106-113.(Lu Xiaoquan Lin Heyun Feng Yi,etal. Soft Switching Sliding Mode Observer for PMSM Sensorless Control[J].TRANSACTIONSOF CHINA ELECTROTECHNICAL SOCIETY,2015,30(2):106-113.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[16]腾青芳，柏建勇，朱建国，等．基于滑模模型参考自适应观测器的无速度传感器三相永磁同步电机模型预测转矩控制[J].控制理论与应用，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2015,32(2):150-161.(TengQingfang，BaiJianyong，ZhuJianguo,etal. Sensorless model predictive torque control using sliding-mode model reference adaptive system observer for permanent magnet synchronous motor drive systems [J].Control Theory& Applications,2015,32(2):150- 161.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[17]李旭春，王倩，马少康．带离线参数辨识的降阶观测器PMSM无位置 传感器控制 [J].电机与控制学报,2017,21(1):91-98.(LiXuchun Wang Qian Ma Shaokang,etal.Reduced order observer based PMSM sensorless control algorithm with parameters identification at standstillis [J].Electric Machines and Control,2017,21(1): 91-98.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[18]孙佃升，章跃进等．自抗扰控制和高频信注入的内嵌式永磁同步电无 位置感器控[J].控制理论与应用，2017,34(4):508—514. (SunDiansheng，ZhangYUejing，etal．Sensorless control for interior permanent magnet synchronous motor based on active disturbance rejection control and high frequency signal injection technique[J]. Control Theory & Applications,2017,34(4): 508—514.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[19]侯利民，张化光，王强，等．自适应模糊滑模软切换的PMSM无速度传 感器鲁棒无源控制[J]．控制与决策,2010,25(5):686-694.(HouLimin, ZhangHuaguang,WangQiang,etal.Adaptive fuzzy sliding mode soft switch of speed sensorless for PMSM based on robust passivity-based control [J] Control and Decision,2010,25 (5): 686-694.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[20]杜博超，韩守亮，张超，等．基于自抗扰控制器的内置式永磁同步电机无位置传感器控制[J].电工技术学报，2017,32(3):105-112.(DuBochao,HanShouliang,Zhangchao,etal. Sensorless Control of InteriorPermanent Magnet Synchronous Motor Based on Active DisturbanceRejectionController[J]. TRANSACTIONS OF CHINAELECTROTECHNICAL SOCIETY,2017,32 (3): 105-112. )",
+        "page_idx": 5
+    }
+]

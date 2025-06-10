@@ -1,0 +1,461 @@
+[
+    {
+        "type": "text",
+        "text": "西北干旱荒漠区边界范围及变化分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祖力卡尔·海力力，赵廷宁，姜群鸥(北京林业大学水土保持学院，北京100083)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：选取青海省、甘肃省、宁夏回族自治区、新疆维吾尔自治区、内蒙古自治区和西藏自治区1980—1995年和2010—2019年两段时间的逐日地面气象要素和逐月降水量等要素确定西北干旱荒漠区理论范围，基于该区域逐月降水量估算多年平均降水量，通过Penman-Monteith公式计算潜在蒸散量，获得湿润指数空间分布;最后将多年平均降水量与湿润指数进行叠加分析，识别西北干旱荒漠区的边界。结果表明：形成了南起昆仑山脉，北至阿尔泰山脉，西至贺兰山的西北干旱荒漠区范围，但天山北麓、乌鲁木齐绿洲、伊犁河谷和塔城部分地区除外；通过对研究区2个时间段数据的对比，明确了西北干旱荒漠区范围变化是由于降水量及潜在蒸散量低的地区明显减少和湿润指数高的地区明显增多导致的，发现干旱区分界线明显北移，半干旱区面积明显增大；区划结果与山系相结合将西北干旱荒漠区范围划分到区县级，为西北干旱荒漠区的资源开采利用、因地制宜的生态修复提供了一定的数据支撑。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Penman-Monteith公式；边界识别；变化分析；西北干旱荒漠区文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "区划是表达地理现象与特征区域分布规律的一种方法[1],其作用主要是可以更加清晰的辨别研究对象，在区划图的引导下能够把地理特征上具有相同因素的地区有机结合[2],是合理利用自然资源、因地制宜进行生态修复和制定各种规划方案的基础。区划的经典方法主要包括“自上而下\"和“自下而上\"两部分，随着科学技术的发展，区划的主要技术手段也渐渐发展出叠置法[3]、聚类分析法[4]和地理信息系统(GIS)等[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "西北干旱荒漠区位于中国西北部的内陆深处，其宏观地貌格局是高山环绕大盆地，山地与平原盆地相间分布，具有面积广大、干旱缺水、风蚀强烈和沙漠分布广等特点，所以对于该区域的保育、恢复和可持续管理要基于西北干旱荒漠区自身环境特点,有别于我国其他地区[6。工业革命以来,全球气候变暖影响大气环流过程,进而导致西北地区气象条件显著变异，西北干旱荒漠区边界也发生了改变[7-8]。但是，目前对西北干旱荒漠区区划边界范围进行精确界定的研究较少，有碍西北干旱荒漠区生态修复的整体调控，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以往研究中普遍认为西北干旱荒漠区指年降水量 $P { < } 2 0 0 ~ \\mathrm { m m }$ ，干燥度 $K { > } 4 . 0$ 的西北内陆广大地区，包括新疆准噶尔盆地、塔里木盆地、东疆盆地、甘肃河西走廊、青海柴达木盆地和内蒙古西部的阿拉善高原等[9-1]。武磊等[1]在对西北干旱荒漠一绿洲体系的研究中指出西北干旱荒漠区范围是包括甘肃河西走廊、新疆和内蒙古西部的广大地带;郭兵等[\"3在研究中指出西北干旱荒漠区以贺兰山为界，东西降水量差异显著。这些研究都是通过定性描述来确定西北干旱荒漠区范围的，有些将新疆全境包含在内，有些是通过地形来确定边界，没有考虑到气候因素导致的非地带性。虽然在他们的研究中不会构成影响，但在进行西北干旱荒漠区区域细化、因地制宜的生态修复上会造成一些不便。鉴于此，本研究选取青海省、甘肃省、宁夏回族自治区、新疆维吾尔自治区和内蒙古自治区为研究区，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "收集整理了该区域月降水量、逐日平均气压、相对湿度、日照时数、气温和风速资料，通过降水量与干燥指数空间分布叠加，定量分析了西北干旱荒漠区边界范围，为整个西北干旱荒漠区区域细化、资源的开采利用和因地制宜的生态恢复提供一定的数据支撑，对发展西北经济，开展科学研究具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究选用青海省、甘肃省、宁夏回族自治区、新疆维吾尔自治区、内蒙古自治区和西藏自治区1980—1995年和2010—2019年2个时间段的323个气象站点逐月降水量、逐日平均气压、相对湿度、日照时数、气温、风速资料、站点海拔高度(图1)。为了防止周边地区对空间内插预测性造成的误差，增加了西藏藏族自治区的气象站作为空间内插数据的补充，2个时间段逐月降水量均通过Excel处理形成多年平均降水量。气象数据来自中国气象数据网(http://data.cma.cn/）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2020)4632号的标准地图制作。下同。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a08dce7fe6036a59f49667886331bde6ff5245eba92e04abe9e2545456e27e8c.jpg",
+        "img_caption": [
+            "图1 气象站点分布",
+            "Fig.1 Distribution of meteorological stations "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取全国 $3 0 \\mathrm { ~ m ~ D E M }$ 数据，通过裁剪、提取山脊线形成青海省、甘肃省、宁夏回族自治区、新疆维吾尔自治区和内蒙古自治区的DEM分布。DEM数据来自地理空间数据云(http://www.gscloud.cn/）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1潜在蒸散量及湿润指数1994年10月联合国防治荒漠化公约从全球角度给出了荒漠化的新定义，并表示其中的干旱地区指年降水量与潜在蒸散量之比小于0.2的大陆地区[14]。关于潜在蒸散量$\\mathrm { E T _ { 0 } }$ 的计算,国内外有很多方法如Thormthwaite法[15]、Hargreaves法[16]和Penman-Monteith公式[7]等。本研究选用1998年联合国粮食及农业组织(简称FAO)推荐计算潜在蒸散量的Penman-Monteith公式，近年来，国内外学者在Penman-Monteith公式的应用方面取得了一些成果，表明Penman-Monteith公式适合在中国应用，且比其他方法更符合中国的实际情况[18-20]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于较早的干燥度计算方法的不全面性和研究区本身范围广袤的原因，为了得到更加严谨的结果，通过计算潜在蒸散量的方法来得到干燥度 $K >$ 4.0即湿润指数 $I _ { \\mathrm { m } } { < } 0 . 2$ 的地区(表1)，湿润指数的计算公式如 $( 1 ) ^ { [ 2 1 - 2 2 ] }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { \\mathrm { { m } } } = { \\frac { R } { \\mathrm { E T _ { \\mathrm { { 0 } } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { E T _ { 0 } }$ 为潜在蒸散量 $\\left( \\mathrm { m m } \\right) ; R$ 为降水量 $\\left( { \\bf m } \\mathbf { m } \\right)$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FAO推荐Penman-Monteith公式具体计算方法如 $( 2 ) ^ { [ 2 3 - 2 4 ] }$ ·",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T } _ { \\mathrm { { 0 } } } = \\frac { 0 . 4 0 8 \\Delta \\big ( R _ { \\mathrm { n } } - G \\big ) + \\gamma \\frac { 9 0 0 } { T + 2 7 3 } u _ { \\mathrm { 2 } } \\big ( e _ { \\mathrm { s } } - e _ { \\mathrm { a } } \\big ) } { \\Delta + \\gamma \\big ( 1 + 0 . 3 4 u _ { \\mathrm { 2 } } \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { E T _ { 0 } }$ 为校正的潜在蒸散量( $\\cdot \\mathrm { m m } \\cdot \\mathrm { d } ^ { - 1 } ,$ ） $R _ { \\mathfrak { n } }$ 为作物 表层净辐射 $\\left( \\mathbf { M J \\cdot m } ^ { - 2 } { \\boldsymbol { \\cdot } } \\mathbf { d } ^ { - 1 } \\right) ;$ $G$ 为土壤热通量 $( \\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 }$ . $\\mathbf { d } ^ { - 1 } .$ （计算日潜在蒸散量时 $G { \\approx } 0$ ）； $T$ 为 $2 \\mathrm { m }$ 高度处平 均气温 $( \\operatorname { \\mathrm { ‰ } }$ $u _ { 2 }$ 为 $2 \\mathrm { m }$ 高度处风速 $( \\boldsymbol { \\mathrm { m } } \\cdot \\boldsymbol { \\mathrm { s } } ^ { - 1 } ) : e _ { \\mathrm { s } }$ 为饱和 水汽压（ $\\mathrm { { ( k P a ) } }$ ; $e _ { \\mathrm { a } }$ 为实际水汽压（ $\\left( \\mathrm { k P a } \\right)$ ； $\\Delta$ 为饱和水汽 压曲线斜率 $\\left( \\mathrm { k P a } \\cdot \\mathrm { ^ { \\circ } C ^ { - 1 } } \\right) ; \\gamma$ 为干湿表常数 $\\left( \\mathrm { { k P a } } \\cdot \\mathrm { { ^ { c ^ { - 1 } } } } \\right)$ O ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2空间叠置法空间叠置法具有降低随意性和主观性的特点，且有利于表征自然现象之间的关联和属性，以相重合的界限或平均位置作为新区划的界限[25]。本研究以年降水量 $P { < } 2 0 0 ~ \\mathrm { m m }$ ,湿润指数$I _ { \\mathrm { m } } { < } 0 . 2 \\ 2$ 种空间分布作为叠置的专题图层，通过叠加得到西北干旱荒漠区定性范围。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1气候区划分标准",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/53e3fff17c4a557ecf682e88be78ae5323fe382f3b21c5590c793bda3213969e.jpg",
+        "table_caption": [
+            "Tab.1 Criteria forclimatic division "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气候区</td><td>干燥度(K)</td><td>湿润指数(Im)</td></tr><tr><td>极干旱区</td><td>K≥ 16.0</td><td>Im≤0.05</td></tr><tr><td>干旱区</td><td>16.0>K≥ 4.0</td><td>0.05<Im≤0.20</td></tr><tr><td>半干旱区</td><td>4.0>K≥ 1.5</td><td>0.20<Im≤0.50</td></tr><tr><td>干旱亚湿润区</td><td>1.5>K≥ 1.0</td><td>0.50<Im≤0.65</td></tr><tr><td>湿润区</td><td>K<1.0</td><td>Im>0.65</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同时间段指标变化分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1降水量变化考虑降水量与海拔呈正相关，为防止数据的突变，以站点海拔高度作为第二数据集，采用协同克里金法(Kriging)，由于我国降水分布由东南往西北有递减趋势[26],对降水量数据集采取一次趋势的移除阶数,消除趋势影响而形成研究区内1980—1995年和2010—2019年多年平均降水量分布，并表示出降水量 $P { < } 2 0 0 ~ \\mathrm { m m }$ 的地区(图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2a，研究区多年平均降水量约为236.03$\\mathbf { m } \\mathbf { m }$ ，呈现西北往东南递增的趋势;其中年均最大降水量主要出现在青海南部的久治县，约在 $7 0 0 \\mathrm { m m }$ 以上；最小降水量出现在新疆的托克逊县和喀什地区，约在 $0 { \\sim } 5 0 ~ \\mathrm { m m }$ ;降水量分界现象明显，东西以贺兰山为界,贺兰山以西平均降水量约为 $1 0 2 . 3 1 ~ \\mathrm { m m }$ ，以东约为 $3 1 1 . 9 7 ~ \\mathrm { m m }$ ;在新疆地区没有表现出明显的非地带性区域，包括乌鲁木齐绿洲、伊犁河谷等平均降水量均在 $2 0 0 \\mathrm { m m }$ 以下。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2b，研究区多年平均降水量约为278.27$\\mathbf { m } \\mathbf { m }$ ,由西北往东南呈现出递增的趋势;其中年均最大降水量主要出现在甘肃最南端的的康县、文县等地区和青海南部的久治县、班玛县等地区，约在700$\\mathbf { m } \\mathbf { m }$ 以上；最小降水量出现在新疆的若羌县和托克逊县，约在 $5 0 \\mathrm { m m }$ 以下;降水量也出现了明显的分界现象，东西以贺兰山为界，贺兰山以西平均降水量约为 $1 4 1 . 3 6 ~ \\mathrm { m m }$ ,以东约为 $3 3 3 . 5 6 ~ \\mathrm { m m }$ ;在新疆地区出现了明显的非地带性区域，主要分布在新疆天山北麓的乌鲁木齐绿洲、伊犁河谷和塔城等地区，平",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "均降水量约为 $2 5 4 . 0 9 \\mathrm { { m m } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2010—2019年多年平均降水量相比于1980—1995年增加了大约 $5 0 ~ \\mathrm { m m }$ ，降水量 $P { < } 2 0 0 ~ \\mathrm { m m }$ 的范围变化不大，但是属于干旱区的降水量分界线北移，表明随着时间变化，研究区内的降水量是逐渐增长的，尤其是20世纪80年代开始，降水量距平值主要为正值，降水量一直呈上升趋势，且天山地区降水量发生突变，这也与近些年研究新疆降水时空变化的研究相符[27-30];即便如此,贺兰山的降雨量分界线也无明显变化，只是东西两侧平均降水量都有了一定程度的增大，该位置既是荒漠区和荒漠草原区的分界线，又是干旱区和半干旱区的分界线，属于我国东西部气候的分界，也是 $2 0 0 \\mathrm { m m }$ 降水量等值线所经过的地区[31-32]；青海及其西部地区降水量略微减少，这与许洁等[33对青藏高原降水的研究相符；同时，出现了明显的非地带性特征，伊犁河谷、乌鲁木齐绿洲等地区降水量都大于 $2 0 0 \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2潜在蒸散量变化通过处理形成研究区内1980—1995年和2010—2019年多年平均潜在蒸散量分布(图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3a,研究区内多年平均潜在蒸散量约为$1 2 3 3 . 9 3 ~ \\mathrm { m m }$ ,东北地区及青海、甘肃南部属于低值区，约在 $8 0 0 ~ \\mathrm { m m }$ 左右;内蒙古、新疆、甘肃交界地区和新疆西南部出现高值区，约在 $1 0 0 0 { \\sim } 1 3 0 0 ~ \\mathrm { m m }$ 之间;最大平均潜在蒸散量出现在新疆的和田、皮山县等地区，约在 $1 5 0 0 \\mathrm { m m }$ 以上;最小平均潜在蒸散量出现在东北和青海的南部地区,约在 $8 0 0 \\mathrm { m m }$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图3b，研究区内多年平均潜在蒸散量约为$1 1 9 8 . 8 4 \\mathrm { ~ m m }$ ,东北地区及青海、甘肃、宁夏的南部属于低值区，约在 $6 0 0 { \\sim } 8 0 0 ~ \\mathrm { m m }$ 之间；内蒙古西部、新疆东北部、青海西北部属于高值区，约在1200\\~1500$\\mathbf { m } \\mathbf { m }$ 之间;最大平均潜在蒸散量出现在甘肃肃北县和新疆伊吾县，约在 $1 5 0 0 \\mathrm { m m }$ 以上;最小平均潜在蒸散量出现在东北地区,约在 $6 0 0 \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/18361c3bb4611d1029da00cde9af6f476f19923c6b8d2ea37155189c809861a0.jpg",
+        "img_caption": [
+            "图2降水量空间分布",
+            "Fig.2Spatial distribution of precipitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2bdf5655944ddd7e5732cea020e1f51b55769d7cbfd40049a367b9d04d39c35e.jpg",
+        "img_caption": [
+            "干旱区地理",
+            "图3潜在蒸散量空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2010—2019年多年平均潜在蒸散量相比于1980—1995年减少了 $2 0 0 ~ \\mathrm { { m m } }$ 左右，且潜在蒸散量低的地区发生了北移，新疆伊犁河谷区域出现较低的潜在蒸散量分布，这也与降水量和湿润指数的分布相符，新疆南疆和田地区有明显的潜在蒸散量的减少；新疆东部、甘肃北部和内蒙古西北部潜在蒸散量有明显的增大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3湿润指数变化通过处理形成研究区内1980—1995年和2010—2019年多年平均湿润指数分布(图4)，并表示出湿润指数 $I _ { \\mathrm { m } } { < } 0 . 2$ 的地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4a，研究区多年平均湿润指数约为0.19，总体呈现出西北往东南方向递增的趋势;其中最大平均湿润指数主要出现在青海的久治县、班玛县和甘肃的玛曲县，约在0.65以上，属于湿润区；最小平均湿润指数主要出现在新疆、青海北部和甘肃的河西走廊一带，约在0.05以下，属于极干旱区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4b，研究区多年平均湿润指数约为0.26,由西北往东南方向呈现上升趋势，其中最大平均湿润指数主要出现在青海的久治县、班玛县、清水河和宁夏的六盘山地带，约在0.65以上，属于湿润区；最小平均湿润指数主要出现在新疆的吐鲁番、淖毛湖、且末地区和青海的冷湖、小灶火地区，约在0.2以下，属于干旱区；同时，湿润指数也表现出了一定的非地带性特征，主要出现在乌鲁木齐、阜康等地区，平均湿润指数在0.5左右，属于干旱亚湿润地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2010—2019年多年平均湿润指数相比于1980—1995年减少了0.07；干旱区分界也发生了明显北移，半干旱区明显增大;在新疆乌鲁木齐绿洲、奇台县等地区出现了非地带性的半干旱地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2西北干旱荒漠区范围界定及验证",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据2010—2019年的气象数据对降水量 $P <$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffc36fe7bf85f9e11033f52675e1affb15487f6fbf34a4304cd6462a55dbbff3.jpg",
+        "img_caption": [
+            "Fig.3Spatial distribution of potential evapotranspiration ",
+            "图4湿润指数空间分布",
+            "Fig.4 Spatial distribution of moisture index "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 0 0 \\mathrm { m m }$ ，湿润指数 $I _ { \\mathrm { m } } { < } 0 . 2$ 的空间分布数据叠加，形成西北干旱荒漠区范围，并通过全国 $3 0 \\mathrm { ~ m ~ }$ DEM提取山脊线形成我国主要山系分布来验证范围的正确性(图5)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究划分的西北干旱荒漠区范围，南起昆仑山脉，北至阿尔泰山脉，西至贺兰山，主要范围是以天山为界的新疆南部及阿尔泰山南麓、准噶尔盆地，贺兰山以西的内蒙古地区、宁夏北部、甘肃西北部和青海的北部区域，包括了塔里木盆地、东疆盆地、河西走廊、柴达木盆地和阿拉善高原,这与李晓文[34]、张军英等35对西北干旱荒漠区主要地形的研究是相符的，但天山北麓、乌鲁木齐绿洲、伊犁河谷和塔城部分地区是不包含在西北干旱荒漠区范围内的，这主要是由于新疆地区的各种地形河流因素影响的，如环绕着准噶尔盆地形成的绿洲地貌、伊犁河谷优良的气候因素和天山北麓诸多河流如玛纳斯河、奎屯河、呼图壁河、头屯河、乌鲁木齐河、博尔塔拉河和精河等流域，所以才表现出了这种不属于西北干旱荒漠区的区域性特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec62ade329be5d460e5fabe58f6cbea545d1cdf619a86ca11b72be5b370aaad4.jpg",
+        "img_caption": [
+            "图5西北干旱荒漠区边界范围"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将获得的2010—2019年西北干旱荒漠区范围按照行政区划细化到市县级，可以看出：图6a新疆维吾尔自治区西北干旱荒漠区的范围主要包括天山以南的南疆地区、塔城地区的部分地区、伊犁哈萨克自治州所在伊犁河谷和天山北麓的乌鲁木齐绿洲环绕的昌吉等地区；如图6b内蒙古自治区西北干旱荒漠区范围主要分布在内蒙古西部阿拉善盟、巴彦淖尔市、乌海市等，包括额济纳旗、阿拉善左旗、阿拉善右旗、乌拉特后旗和乌拉特中旗的部分地区；如图6c青海省西北干旱荒漠区的范围主要分布在青海省西北部的海西蒙古族藏族自治州，包括格尔木市和德令哈市、乌兰县和都兰县的部分地区；如图6d宁夏回族自治区西北干旱荒漠区主要分",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/359ef92184bb2a95819782519fd69171bc80b7df056cecd0cd972ef0a1b07f0f.jpg",
+        "img_caption": [
+            "Fig.5Boundary range of northwest arid desert area ",
+            "图6西北干旱荒漠区区县范围",
+            "Fig.6Ranges of counties in northwest arid desert area "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "布在靠近西北方向的石嘴山市、银川市，包括贺兰县、西夏区、永宁县和青铜峡市等地区;如图6e甘肃省西北干旱荒漠区主要分布在河西走廊的广大地区，避开了祁连山的北麓部分县区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3西北干旱荒漠区边界变化分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据1980—1995年的气象数据得到了西北干旱荒漠区在当时的范围，通过提取该范围的矢量边界与2010—2019年气象数据获取的西北干旱荒漠区矢量边界做对比并分析其变化(图7)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/90b0a52b94c8a768b0152872d8b84d15fd8008414839896101a2cc0b368f90c1.jpg",
+        "img_caption": [
+            "西北干旱荒漠区边界线",
+            "图7西北干旱荒漠区范围变化情况",
+            "Fig.7Changes of arid desert area in northwest China "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体来说，西北干旱荒漠区面积呈现减少趋势；南部边界线北移，主要是祁连山南麓和青海湖周边这2个地区气候条件有了较大的改变，从原来的西北干旱荒漠区变成了非西北干旱荒漠区；东部边界几乎无变化，只有宁夏地区略有西移；最大变化发生在新疆的伊犁河谷、天山北麓和乌鲁木齐绿洲等，这种范围的变化和近年来的气候变化是相关的，由于20世纪80年以来西北地区降水量增长、新疆地区的潜在蒸散量降低和湿润指数的总体增长，导致了半干旱、亚湿润干旱地区面积增长，干旱区面积减少，出现了明显干旱分界线北移和非地带性区域，表现出不属于西北干旱荒漠区气候特点的地区。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）研究区2010—2019年多年平均降水量和湿润指数由西北向东南都呈现出递增的趋势;潜在蒸散量在青海和甘肃南部出现低值区，在内蒙古、新疆、甘肃交界地区和新疆西南部出现高值区，以东侧贺兰山脉和南侧昆仑山脉为界呈显著差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过与1980一1995年的数据分布对比分析，研究区在降水量方面增长显著，干旱区分界线北移，干旱面积减少，且在新疆地区伊犁河谷、乌鲁木齐等地区出现了明显的非地带性特征；潜在蒸散量的分布也符合干旱分界线北移的趋势，新疆伊犁河谷出现明显的潜在蒸散量较低的地区;湿润指数方面相比也有一定的增长，主要是半干旱区和干旱亚湿润区面积增大，在新疆乌鲁木齐地区出现了半干旱的非地带性区域。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）通过降水量和湿润指数空间分布叠加、结合我国山系分布和前人定性描述的研究资料相验证，形成了细化到区县范围的西北干旱荒漠区边界：新疆天山以南的南疆地区、塔城地区的部分地区、伊犁哈萨克自治州所在伊犁河谷和天山北麓的乌鲁木齐绿洲环绕的昌吉等地区；内蒙古自治区西部的阿拉善盟、巴彦淖尔市和乌海市等;青海省西北部的海西蒙古族藏族自治州；宁夏回族自治区西北方向的石嘴山市、银川市等；甘肃省河西走廊的广大地区。这对于深人研究西北干旱荒漠区区域细化、资源开采利用和因地制宜的生态修复提供了一定的数据支持。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）在青海、甘肃的交界处和新疆的伊犁、乌鲁木齐地区降水量、潜在蒸散量和湿润指数发生了改变，导致了西北干旱荒漠区范围改变也主要发生在这些地区。这主要是因为青甘交界处潜在蒸散量的降低和降水量的升高；伊犁、乌鲁木齐地区形成了河谷和绿洲地貌，降水量增长，湿润指数升高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 郑度,欧阳,周成虎.对自然地理区划方法的认识与思考[J].地 理学报,2008,63(6): 563-573.[Zheng Du,Ou Yang,Zhou Chenghu.Understanding of and thinking over geographical regionalization methodology[J]. Acta Geographica Sinica,2008,63(6): 563- 573.]   \n[2] 叶海峰.自然地理区划方法的认识与思考[J].旅游纵览,2015 (8):276.[Ye Haifeng.Understanding of and thinking over geographical regionalization methodology[J]. Tourism Overview,2015 (8): 276.]   \n[3] Babita K,Shahfahad,Mohammad T,et al.Land use/land cover (LU/LC) change dynamics using indices overlay method in Gautam Buddha Nagar District-India[J].GeoJoural,2O21, doi:10.1007/ s10708-021-10374-w.   \n[4] 冯家豪,赵广举，穆兴民,等.黄河中游泥沙输移特性及机理研 究[J].泥沙研究,2020,45(5):34-41.[Feng Jiahao,Zhao Guangju, Mu Xingmin,et al. Characteristics and mechanism of sediment transport in the middle Yellow River[J].Journal of Sediment Research, 2020,45(5): 34-41.] [5]郑度,葛全胜,张雪芹,等.中国区划工作的回顾与展望[J].地理 研究,2005,24(3):330-344.[Zheng Du,Ge Quansheng, Zhang Xueqin,et al. Regionalization in China: Retrospect and prospect [J]. Geographical Research,2005,24(3): 330-344.] [6]陈亚宁,陈亚鹏,朱成刚,等.西北干旱荒漠区生态系统可持续 管理理念与模式[J].生态学报,2019,39(2):7410-7417.[Chen Yaning,Chen Yapeng, Zhu Chenggang,et al. The concept and mode of ecosystem sustainable management in arid desert areas in northwest China[J]. Acta Ecologica Sinica,2019,39(2):7410-   \n7417.] [7]Zhang Q, VijayP S,Li JF,et al.Analysis of the periods of maximum consecutive wet days in China[J]. Journal of Geophysical Research-atmospheres,2011,116(23): 1-18. [8]曹丽君,孙慧兰,兰小丽,等.新疆天山地区极端干湿事件时空 演变特征[J/OL].干旱区研究.[2021-01-30]. htp://ns.cnki.net/ kcms/detail/65.1095.X.20201130.1402.008.html.[Cao Lijun,Sun Huilan,Lan Xiaoli,etal.Spatio-temporal evolution of the extreme dry and weteventsin Tianshan Mountains,Xinjiang[J/OL].Arid Zone Research.[2021-01-30]. http://kns.cnki.net/kcms/detail/65.   \n1095.X.20201130.1402.008.html.] [9]党荣理,潘晓玲,顾峰雪.西北干旱荒漠区植物属的区系分析 [J].广西植物,2002,22(2): 121-128.[Dang Rongli,Pan Xiaoling, Gu Fengxue.Floristic analysis of spermatophyte genera in the arid deserts area in north-west China[J].Guihaia,2002,22(2): 121-128.] [10] 赵建民,陈海滨,李景侠.西北干旱荒漠区植物多样性的保护与 可持续发展[J].西北林学院学报,2003,18(1):29-31,34.[Zhao Jianmin, Chen Haibin,Li Jingxia. Conservation and sustainable development of plant diversity in northwest drought desert area[J]. Journal of Northwest Forestry University,2003,18(1):29-31,34.] [11] 顾峰雪,潘晓玲.中国西北干旱荒漠区盐生植物资源与开发利 用[J].干旱区研究,2002,19(4):17-20.[Gu Fengxue,Pan Xiaoling.Halophyte resources and their exploitation and utilization in the arid desert regions of northwest China[J].Arid Zone Research,   \n2002, 19(4): 17-20.] [12] 武磊,李常斌,王刘明,等.基于ESA-LUC 和MODIS-NDVI的西 北干旱荒漠-绿洲体系分类阈值及应用[J].中国沙漠,2020,40 (6): 139-150.[Wu Lei,Li Changbin,Wang Liuming,et al.Division and application of desert-oasis system in arid northwest China based on ESA-LUC and MODIS-NDVI[J]. Journal of Desert Research, 2020,40(6): 139-150.] [13] 郭兵,孔维华,姜琳.西北干旱荒漠生态区脆弱性动态监测及驱 动因子定量分析[J].自然资源学报,2018,33(3):412-424.[Guo Bing,Kong Weihua, Jiang Lin.Dynamic monitoring of ecological vulnerability in arid desert ecological region of northwest China and the quantitativa analysis of its driving forces[J]. Journal of Natural Resources,2018,33(3): 412-424.]   \n[14]中国人民代表大会常务委员会.联合国关于在发生严重干旱 和/或荒漠化的国家特别是在非洲防治荒漠化的公约[J].中华 人民共和国全国人民代表大会常务委员会公报,1996(9):15- 61.[The NPC Standing Committee. United Nations convention to combat desertification in those countries experiencing serious drought and/or desertification,particularly in Africa[J]. Gazete of the State Council of the People's Republic of China,1996(9): 15- 61.]   \n[15]Slavisa T. Temperature-based approaches for estimating reference evapotranspiration[J]. Journal of Irrigation and Drainage Engineering,2005,131(4): 316-323.   \n[16]George H, Hargreaves,Richard G A. History and evaluation of Hargreaves evapotranspiration equation[J]. Journal of Irrigation and Drainage Engineering,2003,129(1): 53-63.   \n[17]Penman H L.Natural evaporation from open water,bare soil and grass[J]. Proceedings of the Royal Society of London,Series A, Mathematical and Physical Sciences,1948,193(1032): 120-145.   \n[18] Jensen M E,Allen R G. Evaporation,evapotranspiration,andirrigation waterrequirements[M].American Societyof Civil Engineers,2016,doi: 10.1061/9780784414057.   \n[19]Allen R G, WalterI A,Ellott RL,et al. The ASCE standardized reference evapotranspiration equation[M]. American Society of Civil Engineers,2005,doi: 10.1061/9780784408056.   \n[20] 毛飞,张光智,徐祥德.参考作物蒸散量的多种计算方法及其结 果的比较[J].应用气象学报,2000,11(增刊1):128-136.[Mao Fei, Zhang Guangzhi, Xu Xiangde.Several methods of calculating the reference evapotranspiration and comparison of their results [J]. Journal of Applied Meteorological Science,2000,11(Suppl.1): 128-136.]   \n[21] 赵俊芳,郭建平,徐精文,等.基于湿润指数的中国干湿状况变 化趋势[J].农业工程学报,2010,26(8):18-24,386-387.[Zhao Junfang,Guo Jianping,Xu Jingwen, et al. Trends of Chinese drywet condition based on wetness index[J]. Transactions of the Chinese Society of Agricultural Engineering,2010,26(8):18-24,386-387.]   \n[22] 罗青红,宁虎森,陈启民.基于湿润指数的新疆甘家湖地表干湿 状况变化趋势[J].干旱区研究,2016,33(5):921-926.[Luo Qinghong, Ning Husen, Chen Qimin.Trends of surface dry-wet state of Ganjiahu in Xinjiang based on humid index[J].Arid Zone Research,2016,33(5): 921-926.]   \n[23] 刘德坤,王军邦,齐述华.基于湿润指数的近35年青海省干湿 状况变化分析[J].水土保持研究,2014,21(2):246-250,256, 335.[Liu Dekun,Wang Junbang,Qi Shuhua.Analysis on dry trend based on moisture index in Qinghai Province in the recent 35 years[J]. Research of Soil and Water Conservation,2O14,1(2): 246-250,256,335.]   \n[24] 黄小燕,张明军,贾文雄,等.中国西北地区地表干湿变化及影 响因素[J].水科学进展,2011,2(2):151-159.[Huang Xiaoyan, Zhang Mingjun,Jia Wenxiong,et al. Variations of surface humidityand its influential factors in northwest China[J].Advances in ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Water Science,2011,22(2): 151-159.]   \n[25] 王晶晶,王文杰,郎海鸥,等.三峡库区小江流域水环境综合区 划[J].地球信息科学学报,2011,13(1):38-47.[Wang Jingjing, Wang Wenjie,Lang Haiou,et al.Integrated water environment regionalization in Xiaojiang Watershed in the Three Gorges Reservoir Area, China[J]. Journal of Geo-information Scinence,2O11,13 (1): 38-47.]   \n[26]魏凤英.中国降水的主要分布特征[C]/中国气象学会.中国科 协2002年减轻自然灾害研讨会论文汇编之一.北京：中国气象 学会,2002: 2-4.[Wei Fengying. Main distribution characteristics of precipitation in China[C]//Chinese Meteorological Society.A Collection of Papers on the 2OO2 Symposium on Natural Disaster Mitigation of China Association for Science and Technology. Beijing: Chinese Meteorological Society,20O2: 2-4.]   \n[27]康丽娟,巴特尔·巴克,罗那那,等.1961—2013年新疆气温和 降水的时空变化特征分析[J].新疆农业科学,2018,55(1):123- 133.[Kang Lijuan,Bake Batur,Luo Nana,et al. Spatial temporal variations of temperature and precipitation in Xinjiang from 1961 to 2013[J]. Xinjiang Agricultural Sciences,2018,55(1): 123-133.]   \n[28] 张音,古丽贤·吐尔逊拜,苏里坦,等.近60a来新疆不同海拔气 候变化的时空特征分析[J].干旱区地理,2019,42(4):822-829. [Zhang Yin,Tuerxunbai Gulixian,Su Litan,et al. Spatial and temporal characteristics of climate change at different altitudes in Xinjiang in the past 6O years[J].Arid Land Geography,2019,42(4): 822-829.]   \n[29] 张扬,楚新正,杨少敏,等.近56a新疆北部地区气候变化特征 [J].干旱区研究,2019,36(1):212-219.[Zhang Yang,Chu Xinzheng,Yang Shaomin,et al. Climate change in north Xinjiang in recent 56 years[J].Arid Zone Research,2019,36(1): 212-219.]   \n[30] 田亚林,李雪梅,李珍,等.1980—2017年天山山区不同降水形 态的时空变化[J].干旱区地理,2020,43(2):308-318.[Tian Yalin,Li Xuemei,Li Zhen,et al. Spatial and temporal variations of different precipitation types in the Tianshan Mountains from 1980 to 2017[J]. Arid Land Geography,2020,43(2): 308-318.]   \n[31] 刘胜涛,牛香,王兵,等.宁夏贺兰山自然保护区森林生态系统 净化大气环境功能[J].生态学杂志,2019,38(2):420-426.[Liu Shengtao,Niu Xiang,Wang Bing,et al.Air purification function of forest ecosystem in Helanshan Nature Reserve of Ningxia[J]. Chinese Journal of Ecology,2019,38(2): 420-426.]   \n[32] 李婷婷,马超,郭增长.2004—2015年贺兰山自然保护区植被 NPP时空变化与气候响应[J].水土保持研究,2020,27(6):254- 261.[Li Tingting,Ma Chao,Guo Zengzhang.Response of spatiotemporal change of NPP to climate in Helanshan Mountain Nature Reserve from 2OO4 to 2015[J].Research of Soil and Water Conservation,2020,27(6): 254-261.]   \n[33] 许洁,陈惠玲,商沙沙,等.2000—2014年青藏高原植被净初级 生产力时空变化及对气候变化的响应[J].干旱区地理,2020, 43(3):592-601.[Xu Jie,Chen Huiling,Shang Shasha,et al.Response of net primary productivity of Tibetan Plateau vegetation to climate change based on CEVSA model[J]. Arid Land Geography, 2020,43(3): 592-601.]   \n[34] 李晓文,方创琳,黄金川,等.西北干旱区城市土地利用变化及 其区域生态环境效应——以甘肃河西地区为例[J].第四纪研 究,2003,23(3):280-290,348-349.[Li Xiaowen,Fang Chuanglin,Huang Jinchuan,et al.The urban land use transformations and associated efects on eco-environment in northwest China arid region: A case study in Hexi Region, Gansu Province[J]. Quaternary Sciences,2003,23(3): 280-290,348-349.]   \n[35]张军英,邓永怀.干旱区有色矿山复垦技术研究[C]/中国环境 科学学会.2015年中国环境科学学会学术年会论文集.深圳: 中国环境科学学会,2015:5.[Zhang Junying,Deng Yonghuai. Study on reclamation technology of nonferrous mines in arid area [C]//Chinese Society for Environmental Sciences.Proceedings of the 2O15 Annual Meeting of Chinese Society for Environmental Sciences.Shenzhen: Chinese Society for Environmental Sciences, 2015: 5.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Boundary scope and change of arid desert area in northwest China ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Zulkar HAILIL， ZHAO Tingning， JIANG Qun'ou (College of Soil and Water Conservation,Beijing Forestry University,Beijing 1Ooo83,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Starting from the qualitative description of arid desert areas in northwest China,a quantitative and precise boundary is formed based on the daily surface meteorological elements and monthly precipitation in Qinghai Province, Gansu Province, Ningxia Hui Autonomous Region, Xinjiang Uygur Autonomous Region, Inner Mongolia Autonomous Region,and Tibet Autonomous Region in 1980—1995 and 2010—2019.The arid desert area in northwest China was determined,the potential evapotranspiration was calculated using the PenmanMonteith equation,and the spatial distribution of the wettability index wasobtained.Finally，theaverage precipitation and wettability indexes were superimposed,and the boundaries of arid desert areas in the northwest were identified.The results showed that the arid desert areas range from Kunlun Mountains in the south to Altay Mountains in the north and the Helan Mountains in the west,except for the northern foot of Tianshan Mountains, Urumqi Oasis,Ii River Valley,and parts of Tacheng Prefecture.Acomparison of the data of the two periods in the studied area clarified that the change in the scope of the arid desert area in northwest China is due to the obvious decrease in precipitation and potential evapotranspiration and the obvious increase in the area with a high humidity index.The dividing line of the arid region moved northward and the semiarid region increased evidently,and the arid desert region in northwest China was divided into districtsand counties based on the results of the division and mountain system,providing data support for the exploitation and the utilization of resources and ecological restoration in the arid desert area of northwest China.This work is of great significance forregional refinement,exploitation,and utilization of resources;；ecological restoration according to local conditions; the development of the northwest economy; and scientific research. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: Penman-Monteith formula;boundary identification； change analysis；arid desert region of northwest China ",
+        "page_idx": 8
+    }
+]

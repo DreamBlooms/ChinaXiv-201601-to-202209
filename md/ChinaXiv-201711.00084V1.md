@@ -1,0 +1,200 @@
+# DOI: 10.5846/stxb201608051612
+
+严涛,韩帅帅,王建军,林和山,曹文浩.污损性海鞘的生态特点研究展望.生态学报,2017,37（20):647-6655.   
+YanT,HanS,WangJJ,LinHS,CaoWH.Anoverviewoffoulingascidians.ActaEcologicaSinica,20l7,37(2O):664-6655.
+
+# 污损性海鞘的生态特点研究展望
+
+严涛1,2,3，\*，韩帅帅1,²,王建军4,林和山4,曹文浩1,3
+
+1中国科学院南海海洋研究所热带海洋生物资源与生态重点实验室，广州510301  
+2中国科学院大学，北京100049  
+3中国科学院海洋环境腐蚀与生物污损重点实验室，青岛266071  
+4国家海洋局第三海洋研究所，厦门361005
+
+摘要;海鞘生长快,繁殖迅速,能产生大量在短时间内附着的幼虫,是海洋污损生物群落中的重要成员,对海上人工设施会产生严重危害。污损性海鞘主要由悉尼海鞘（Ascidia sydneiensis）、史氏菊海鞘（Botryllus schlosseri）、米氏小叶鞘（Diplosomalisterianum）、柄瘤海鞘（Styela claua）、红贺海鞘（Herdmania momus）等9科29属103种组成,其中在太平洋海域64种、印度洋23种、大西洋44种,而北冰洋海域仅3种;另外,其附着污损具有明显的地域性和季节特点,并与深度有关。今后应加强污损性海鞘的生态调查和分类研究，阐明深海及两极海域附着污损特点，揭示幼虫附着变态过程的分子调控机理,完善幼虫采集培养技术,以期更好地掌握海鞘生物学特性与生态特点,丰富和发展海洋生态学内容,并为海洋污损生物的防除奠定基础,促进海洋经济产业的发展。 ?
+
+关键词：污损性海鞘；种类组成;分布；附着
+
+# An overview of fouling ascidians
+
+YAN Tao 1,2,3,\* ,HAN Shuaishuai 1.2,WANG Jianjun4,LIN Heshan 4,CAO Wenhao1, 3
+
+1KeyLboratorfoiclarinreoedoluthineastiutefOeecadefece   
+510301,China   
+2 University of Chinese Academy of Sciences,Beijing10oo49,China   
+3KeyLboratorfitalsodsteofee，i   
+4 Third Institute of Oceanography,State Oceanic Administration,Xiamen 3610o5,China
+
+Abstract：Ascidians with rapid growth rate and sexual maturation are important benthic organisms in marine ecosystems and are alsoone of the major fouling groups.Folowing colonization on aquaculture facilities，ascidians causea seriesof problems suchascompetingfoodand setlementsubstrata with thecultivated species，blocking netting holes,increasing the weight of cagesand retarding water flow,leading to the deterioration oftheaquaculture environment. Growth and qualityof those cultivated species willthereforebenegativelyaffected.Todate，atotalof103ascidianspecieswithin 29 generaand9 families（Ascididae，Cionidae，Clavelinidae，Didemnidae，Molgulidae，Perophoridae，Polyclinidae，Pyuridaeand Styelidae）are identified from foulingcommunitiesworldwide.Of them，the dominant speciesarethesolitaryascidians Ascidiasydneiensis，Phalusianigra，Botryllusshlosseri，Diplosomalisterianum，Styelaclaa，Symplegmabrakenielmi, Herdmania momus，Microcosmus exasperates，Molgula manhatensis，as wellas thecompound species Ciona intestinalis.The distributionoffouling ascidians is highlyrelevant togeographic locations.Ofthem，64specieswere found inthePacific Ocean,23 in the Indian Ocean，44inthe Atlantic Ocean and 3 in the Arctic Ocean.In the Pacific Ocean，the most commonspeciesare Styela plicata，S.canopus，Ciona intestinalis，Microcosmus exasperatus，Diplosoma listerianum, MolgulamanhatensisndAscidialongistriara.Moreover，thespeciesA.sydneiensis，Phallusianiga，Botrylusshlosseri, Diplosomalisterianumand Symplegmabrakenhielmi arefound inthe IndianandAtlantic Oceans，whereas，Styelarusticais the dominant fouling species in the Arctic Ocean.Season isa major factor affectingascidian fouling.Summer is the settlement peak inthe Pacific Ocean，however,inthe Indian Ocean the highestascidian fouling biomass ocurs in spring andautumn.Inaddition，larval setlement of diferent ascidians presents distinct preferences forsubstrata.Onfloating units，Phalusia nigra and Ascidia cannelata were generally abundant，whereas Herdmania momus preferred to setleon horizontal surfaces ofsubmerged objects.Currnt methods for foulingcontrol moreorlesshavesomelimitations in practical applications.Understanding generegulationontheascidian larval metamorphosis process mayprovide an effective way to develop novelantifouling technology.Moreover，bystudying foulingcommunitiescolonizing variousartificialfacilities，the influencesof alienascidians on local biodiversitycanalsobeelucidated.Compared with traditional morphological identification，DNA-based methodologymightsolve the problems on taxonomyofrelated ascidians.Biofoulingcan alter the substratum surface microenvironmentandaffect thecorosion proceses of materials.Thus，the efects offouling ascidians, particularlycompound species，on material corosion deserve further study.At present，most work on fouling ascidian investigations islimited totropicaland temperatezones，particularlyinshallw waters.Tothoroughlyelucidatespecies compositions，biodiversity，distribution，population dynamicsandroleof ascidians in fouling communities，further studies should be extended to the polar regions and even deep water.
+
+Key Words:fouling ascidians ; species composition; distribution;settlement
+
+海鞘为脊索动物门尾索动物亚门中最主要的类群,其浮游幼虫阶段不进食，成体则营固着滤食生活[1]，是海洋污损生物重要组成部分。该类生物生长快,繁殖迅速,具备良好的环境适应能力和强大的空间竞争力，通过产生大量在短时间内附着的幼虫[2],能迅速占据人工基质[3],甚至会改变原有底栖生物群落的多样性及其结构特点[4-5],因此,在海洋环境中,海鞘不仅是底栖生态系统中极为重要的成员[6-7],也是海洋污损生物群落中人们需要重点关注的对象。
+
+对水产养殖产业而言,除了与贻贝、扇贝、珍珠贝和牡蛎等经济贝类竞争饵料[8]和栖息空间[9],海鞘还会捕食其幼虫和排挤稚贝[10],干扰足丝分泌,妨碍贝壳的张开,影响摄食和呼吸等生理活动的正常进行[1-12],导致养殖对象生长减缓,死亡率增加,产量下降,而且伴随养殖海区的扩展,还可能成为有害藻类扩散的载体[13]。再有,海鞘的附着必然会堵塞养殖网笼的网孔或笼目,致使内外环境水体交换量减少,降低水体中的溶解 氧含量，甚至损坏养殖器具,污染当地水环境[14]。因此,分析和研究污损性海鞘具有重要的理论和现实意义。
+
+世界各海区的环境状况复杂多样,污损性海鞘的种类组成及数量也会随之相应变化。开展污损性海鞘研究不仅有助于丰富海洋生物学知识,而且也是有效防治海洋污损生物危害的基础。本文根据以往文献资料，从种类组成、分布状况和附着特点等方面，综合分析了世界各大洋污损性海鞘的生态特点,并对潜在的研究重点进行了探讨,以期更好地掌握海鞘生物学特性与生态特点,丰富和发展海洋生物学研究内容,并为海洋污损生物防除提供数据资料,促进海洋经济产业的发展。
+
+# 1种类组成与分布
+
+对已有文献资料分析可以看出,污损性海鞘种类繁多,分布广泛,共有9科29属103种出现在全球各海区人工设施上,其中太平洋海域64种、印度洋海域 23种、大西洋海域44种、北冰洋海域3种,以悉尼海鞘（Ascidia sydneiensis）、史氏菊海鞘（Botrylus schlosseri）、米氏小叶鞘（Diplosoma listerianum）、柄瘤海鞘（Styelaclava）红贺海鞘(Herdmania momus）等种类为主,且主要分布在热带和温带海域。表1列出了主要污损性海鞘类在世界各大洋的分布状况。
+
+http ://www.ecologica.cn
+
+表1各大洋污损性海鞘名录  
+Table1 List of fouling sedentary ascidians around the world   
+
+<html><body><table><tr><td rowspan="13">种类 Species</td><td colspan="6">海域(包括属海)</td><td colspan="5"></td></tr><tr><td colspan="5">Waters(including marginal seas）</td><td colspan="5">种类</td></tr><tr><td colspan="5"></td><td colspan="5">太平洋印度洋 大西洋 北冰洋 Arctic</td></tr><tr><td></td><td>Pacific</td><td>Indian</td><td>Atlantic</td><td></td><td>Species</td><td></td><td>Pacific</td><td>太平洋印度洋 大西洋</td></tr><tr><td></td><td></td><td>Ocean</td><td>Ocean</td><td>Ocean</td><td>Ocean</td><td></td><td>Ocean</td><td>IndianAtlantic Ocean Ocean</td></tr><tr><td>长纹海鞘科 Ascidiidae</td><td></td><td></td><td></td><td></td><td>智利海鞘(Paramolgula chilensis）</td><td></td><td>+</td><td></td></tr><tr><td>海鞘(Ascidia cannelata)</td><td></td><td></td><td></td><td></td><td>连茎海鞘科 Perophoridae</td><td></td><td></td><td></td></tr><tr><td>海鞘（A.ceratodes）</td><td></td><td></td><td></td><td></td><td>日本连茎海鞘（Perophora japonica） 连茎海鞘（P.listeri)</td><td></td><td></td><td></td></tr><tr><td>海鞘(A.curvata)</td><td></td><td></td><td></td><td></td><td>连茎海鞘（P.viridis)</td><td></td><td></td><td></td></tr><tr><td>蓓蕾海鞘(A.gemmata)</td><td></td><td></td><td></td><td></td><td>三段海鞘科 Polyclinidae</td><td></td><td></td><td></td></tr><tr><td>海鞘(A.incrassata) 海鞘(A.indica)</td><td></td><td></td><td></td><td></td><td>星座美洲海鞘(Amaroucium constellatum）</td><td></td><td></td><td>1C</td></tr><tr><td>海鞘(A.interrupta)</td><td></td><td></td><td></td><td></td><td>短腹海鞘（Aplidium accarense）</td><td></td><td></td><td></td></tr><tr><td>长纹海鞘（A. longistriata)</td><td></td><td></td><td></td><td></td><td>星座三段海鞘（Polyclinum constellatum）</td><td></td><td></td><td></td></tr><tr><td>海鞘（A.panamensis)</td><td></td><td></td><td></td><td>+</td><td>脓海鞘科 Pyuridae</td><td></td><td></td><td></td></tr><tr><td>悉尼海鞘(A.sydneiensis)</td><td></td><td></td><td></td><td></td><td>波海鞘（Boltenia echinata)</td><td></td><td></td><td></td></tr><tr><td>海鞘(A. zara)</td><td></td><td></td><td></td><td></td><td>真海鞘（Halocynthia papillosa)</td><td></td><td></td><td></td></tr><tr><td>拟海鞘（Ascidiella aspersa）</td><td></td><td></td><td></td><td></td><td>真海鞘（H. spinoso</td><td></td><td></td><td></td></tr><tr><td>次口海鞘(Phallusia arabica)</td><td></td><td>+</td><td>+</td><td></td><td>红贺海鞘(Herdmanid momus)</td><td></td><td></td><td></td></tr><tr><td>次口海鞘（P.nigra)</td><td></td><td>+</td><td></td><td></td><td>赫海鞘(H.pallida)</td><td></td><td>+</td><td></td></tr><tr><td>次口海鞘（P.philippinensis)</td><td></td><td>+</td><td>+</td><td></td><td>澳洲小齐海鞘(Microcosmus australis）</td><td></td><td>+ +</td><td></td></tr><tr><td>玻璃海鞘科 Cionidae</td><td></td><td></td><td></td><td></td><td>硬突小齐海鞘（M.exasperatus)</td><td></td><td>+</td><td></td></tr><tr><td>玻璃海鞘(Ciona intestinalis)</td><td></td><td>+</td><td></td><td></td><td>小齐海鞘（M.squamiger）</td><td></td><td>+</td><td></td></tr><tr><td>萨氏海鞘（C.savignyi)</td><td></td><td></td><td></td><td></td><td>智利脓海鞘（Pyura chilensi）</td><td></td><td>+</td><td></td></tr><tr><td>棒鞘科 Clavelinidae</td><td></td><td></td><td></td><td></td><td>曲腺脓海鞘（P.curvigona）</td><td></td><td>+</td><td></td></tr><tr><td>线海鞘（Clavelina oblonga）</td><td></td><td></td><td></td><td></td><td>脓海鞘（P.gangelion）</td><td></td><td></td><td></td></tr><tr><td>长带海鞘（Distaplia bermudensis ）</td><td></td><td></td><td></td><td></td><td>木质脓海鞘(P.lignosa)</td><td></td><td></td><td></td></tr><tr><td>二段海鞘科Didemnidae</td><td></td><td></td><td>VW</td><td></td><td>脓海鞘（P.praeputialis）</td><td></td><td></td><td></td></tr><tr><td>段海鞘（D.commune）</td><td>二段海鞘(Didemnum candidum)</td><td></td><td></td><td></td><td>脓海鞘（P.torpida) 色条脓海鞘（P.vittata）</td><td></td><td></td><td></td></tr><tr><td>粪丸二段海鞘(D.fuscum)</td><td></td><td></td><td></td><td></td><td>瘤海鞘科 Styelidae</td><td></td><td></td><td></td></tr><tr><td>颗粒二段海鞘（D.granulatum）</td><td></td><td></td><td></td><td></td><td></td><td>拟菊海鞘（Botrylloides chevalense)</td><td></td><td></td></tr><tr><td>二段海鞘（D.perlucidum）O</td><td></td><td></td><td></td><td>+</td><td></td><td>拟菊海鞘（B.giganteum）</td><td></td><td></td></tr><tr><td>二段海鞘（D.psammatodes）</td><td></td><td></td><td></td><td>+</td><td>拟菊海鞘(B.leachii)</td><td></td><td></td><td></td></tr><tr><td>二段海鞘(D.s 二段海鞘(D.vexillum)</td><td>eciosum)</td><td></td><td></td><td>+ +</td><td>拟菊海鞘（B.magnicoecum）</td><td></td><td></td><td></td></tr><tr><td>米氏小叶鞘（Diplosoma listerianum）</td><td></td><td></td><td></td><td></td><td>拟菊海鞘(B.nigrum) 西门登拟菊海鞘(B.simodensis)</td><td></td><td>+</td><td></td></tr><tr><td>皖骨海鞘（Lssoclinum fragile)）</td><td></td><td>+</td><td></td><td>+</td><td>紫拟菊海鞘（B.violaceus)</td><td></td><td>+ +</td><td></td></tr><tr><td>皖骨海鞘(L. notti)</td><td></td><td></td><td></td><td>+</td><td>菊海鞘（Botryllus eilatensis）</td><td></td><td></td><td></td></tr><tr><td>网纹二段海鞘（Trididemnum areolatum）</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>+</td><td></td><td>大菊海鞘（B.magnicoecus）</td><td>+</td><td></td></tr><tr><td>膜海鞘（T.orbiculatum）</td><td></td><td>+</td><td></td><td></td><td>菊海鞘(B.niger)</td><td></td><td></td><td></td></tr><tr><td>皮海鞘科 Molgulidae</td><td></td><td></td><td></td><td></td><td>菊海鞘（B.planus）</td><td></td><td>+</td><td></td></tr><tr><td>皮海鞘(Molgula citrina)</td><td></td><td></td><td></td><td>+</td><td>史氏菊海鞘(B.schlosseri)</td><td></td><td>+</td><td></td></tr><tr><td>皮海鞘(M.ficus)</td><td></td><td></td><td></td><td>+</td><td>青岛菊海鞘（B.tsingtaoensis）</td><td></td><td>+ +</td><td></td></tr><tr><td>乳突皮海鞘（M.manhattensis）</td><td></td><td></td><td>+</td><td></td><td>瘤状菊海鞘（B.tuberatus)</td><td></td><td></td><td></td></tr><tr><td>皮海鞘（M.socialis）</td><td></td><td></td><td>+</td><td></td><td>豆海鞘（Cnemidocarpa bicornuta)</td><td>+</td><td></td><td></td></tr></table></body></html>
+
+续表  
+
+<html><body><table><tr><td></td><td colspan="4">海域(包括属海) Waters（including marginal seas）</td><td colspan="2">种类 Species</td><td colspan="4">海域(包括属海) Waters (including marginal seas）</td></tr><tr><td>种类 Species</td><td rowspan="2">太平洋</td><td rowspan="2"></td><td rowspan="2">印度洋大西洋 北冰洋 Atlantic</td><td rowspan="2">Ocean</td><td rowspan="2">Arctic</td><td rowspan="2"></td><td rowspan="2">Pacific Ocean</td><td rowspan="2">太平洋印度洋大西洋 Indian Ocean</td><td rowspan="2">Atlantic Ocean</td><td rowspan="2">北冰洋 Arctic</td></tr><tr><td>Pacific Ocean</td><td>Indian Ocean</td></tr><tr><td>豆海鞘(C.hemprichi)</td><td>+</td><td></td><td></td><td></td><td>Ocean</td><td>多果海鞘（P.spongiabilis)</td><td></td><td></td><td>+</td><td>Ocean</td></tr><tr><td>豆海鞘(C.robinsoni)</td><td></td><td></td><td></td><td>+</td><td></td><td>瘤海鞘(Styela bicolor)</td><td></td><td>+</td><td></td><td></td></tr><tr><td>胶海鞘（Corella eumyota)</td><td>+</td><td></td><td></td><td>+</td><td></td><td>冠瘤海鞘（S.canopus)</td><td>+</td><td></td><td>+</td><td></td></tr><tr><td>日本胶海鞘（C.japonica)</td><td>+</td><td></td><td></td><td></td><td></td><td>柄瘤海鞘(S.clava)</td><td>+</td><td></td><td>+</td><td></td></tr><tr><td>胶海鞘（C.parallelogramma)</td><td></td><td></td><td></td><td>+</td><td></td><td>堆柄海鞘(S.partita)</td><td>+</td><td></td><td></td><td></td></tr><tr><td>精囊海鞘(Polyandrocarpa anguinea)</td><td></td><td></td><td></td><td>+</td><td></td><td>皱瘤海鞘(S.plicata)</td><td>+ og1ca</td><td></td><td></td><td></td></tr><tr><td>瓦二精囊海鞘(P.latericus)</td><td>+</td><td></td><td></td><td></td><td></td><td>长方胃海鞘(S.rectangularis)</td><td>+</td><td></td><td></td><td></td></tr><tr><td>相模多精囊海鞘(P.sagamiensis)</td><td>+</td><td></td><td></td><td>+</td><td></td><td>瘤海鞘(S.rustica)</td><td></td><td></td><td></td><td></td></tr><tr><td>精囊海鞘(P.zorritensis)</td><td>+</td><td></td><td></td><td></td><td></td><td>纵列海鞘(Symplegma brakenhielmi)</td><td></td><td></td><td></td><td></td></tr><tr><td>多果海鞘（Polycarpa argentata)</td><td>+</td><td></td><td></td><td></td><td></td><td>纵列海鞘(S.ciride)</td><td></td><td></td><td></td><td></td></tr><tr><td>多果海鞘(P.aurita)</td><td>+</td><td></td><td></td><td></td><td></td><td>大洋纵列海鞘(S.oceania)</td><td>1</td><td></td><td></td><td></td></tr><tr><td>多果海鞘（P.captiosa)</td><td>+</td><td></td><td></td><td></td><td></td><td>匍匐纵列海鞘（S.reptans）</td><td></td><td></td><td></td><td></td></tr><tr><td>多果海鞘(P.indicum)</td><td></td><td>+</td><td></td><td></td><td></td><td>纵列海鞘(S.rubra)</td><td>+</td><td></td><td>+</td><td></td></tr><tr><td>多果海鞘（P.mytilegra)</td><td></td><td>+</td><td></td><td></td><td></td><td>绿鳃纵列海鞘(S.viride)</td><td>+</td><td>+</td><td></td><td></td></tr><tr><td>多果海鞘(P.olitoria)</td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>多果海鞘（P.papillata)</td><td>+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 1.1太平洋海域
+
+在北美洲沿岸,不列颠哥伦比亚西南部海域的污损性海鞘以柄瘤海鞘为优势种,其次为史氏菊海鞘和紫拟菊海鞘（Botrylloides violaceus）[15],而加州南部海域,污损性海鞘优势种为皱瘤海鞘（Styela plicata）,其次为柄瘤海鞘、小齐海鞘（Microcosmus squamiger）玻璃海鞘（Ciona intestinalis）等种类,常见种则为萨氏海鞘（C.savignyi)和精囊海鞘(Polyandrocarpa zortensis）[16]。
+
+在中美洲的巴拿马运河入口,污损性海鞘优势种为纵列海鞘（Symplegma brakenhielmi 和 S.rubra）、星座三段海鞘（Polyclinum constellatum）拟菊海鞘（Botrylloides nigrum）,其次为悉尼海鞘、硬突小齐海鞘（Microcosmusexasperatus）和精囊海鞘（Polyandrocarpa zorrtensis ）[17]；南美洲的东南部海域,则以智利脓海鞘（Pyurachilensis）为优势[18-19]。
+
+至于西太平洋海域，日本海域的污损性海鞘优势种为紫拟菊海鞘和米氏小叶鞘,其次为玻璃海鞘、皱瘤海鞘和柄瘤海鞘,日本连茎海鞘（Perophora japonica）和日本胶海鞘（Corell japonica）则为污损性海鞘罕见种,且只出现在位于日本东部的清水町海域[20-21]。而日本广岛海域的污损性海鞘以玻璃海鞘为优势种[20]。
+
+在黄渤海海域,污损性海鞘主要为玻璃海鞘、乳突皮海鞘（Molgula manhattensis）和柄瘤海鞘,其次为米氏小叶鞘、史氏菊海鞘和青岛菊海鞘（Botryllus tsingtaoensis）,至于紫拟菊海鞘、冠瘤海鞘（Styela canopus）和长纹海鞘（Ascidia longistriata)等种类,则是污损生物群落中的常见种[22-26]。
+
+东海污损性海鞘优势种以冠瘤海鞘、皱瘤海鞘、网纹二段海鞘(Trididemnum areolatum）、星座三段海鞘、乳突皮海鞘为主,其次为长纹海鞘、硬突小齐海鞘、紫拟菊海鞘,常见种为米氏小叶鞘、玻璃海鞘、澳洲小齐海鞘（Microcosmus australis）等种类,此外还有木质脓海鞘（Pyura lignosa）、悉尼海鞘等罕见种[27-33]。
+
+南海海区污损性海鞘以冠瘤海鞘、大洋纵列海鞘（Symplegma oceania）、硬突小齐海鞘、悉尼海鞘、米氏小叶鞘居绝对优势,其次为皱瘤海鞘、绿鳃纵列海鞘（S.viride）、赫海鞘（Herdmania pallida）、长方胃海鞘（Styelarectangularis）、史氏菊海鞘,常见的种类为玻璃海鞘、乳突皮海鞘、长纹海鞘、多果海鞘（Polycarpa papillata）和次口海鞘(Phallusia arabica)等种类[34-49]。
+
+http://www.ecologica.cn
+
+位于太平洋西南的新西兰海域,污损性海鞘优势种为玻璃海鞘,其次为柄瘤海鞘和二段海鞘(Didemnumvexillum）,此外,还有米氏小叶鞘、拟菊海鞘（Botrylloides leachii）、史氏菊海鞘、髋骨海鞘（Lissclinum notti）、胶海鞘（Corella eumyota）、豆海鞘（Cnemidocarpa bicornuta)等种类出现[50-52]。
+
+# 1.2 印度洋海域
+
+在阿拉伯海东部沿岸,东北部的孟买港海鞘优势种为匍匐纵列海鞘（Symplegma reptans）、悉尼海鞘和拟菊海鞘（Botryllides magnicoecum）,常见种则为拟菊海鞘（B.chevalense）、绿鳃纵列海鞘[53]。在中部的新芒格洛尔港口,绿鳃纵列海鞘为污损性海鞘优势种,更偏向于附着在两块相对垂直悬挂的污损生物调查板的内部，能够覆盖整个板[54]。而在东南部的 Kollam 湾,珍珠贝养殖场内发现海鞘类4种，占污损生物总量的$2 6 . 6 \%$ [12]。
+
+在红海北部的亚喀巴湾埃拉特海域,污损性海鞘以红贺海鞘和颗粒二段海鞘（Didemnum granulatum）为优势种,常见的种类则有真海鞘（Halocynthia spinosa）、次口海鞘（Phallusia nigra）、海鞘（Ascidid cannelata）、二段海鞘（Didemnum candidum)和菊海鞘(Botryllus eilatensis）[55-56]。
+
+# 1.3 大西洋海域
+
+在欧洲大陆西北的北海,污损近岸人工设施的海鞘以胶海鞘（Corella parallelogramma）、玻璃海鞘、拟海鞘（Ascidiella aspersa）、史氏菊海鞘和紫拟菊海鞘等种类为优势种[5-59],而近海离岸设施则被拟海鞘和玻璃海鞘污损[60]。至于北美洲东北部沿岸海域,贝类养殖设施主要被皮海鞘（Molgula citrina）、史氏菊海鞘、玻璃海鞘和柄瘤海鞘污损[61-62]
+
+在加勒比海海域,巴拿马运河入口的污损性海鞘以硬突小齐海鞘和色条脓海鞘（Pyura vittata）为优势种，其次为冠瘤海鞘和赫海鞘等种类[17];而处在其东南端的帕里亚湾,污损游艇船体的海鞘优势种为冠瘤海鞘和硬突小齐海鞘,常见的种类则是线海鞘（Clavelina oblonga）[63]。
+
+至于南美洲沿岸海域,污损性海鞘主要为二段海鞘(Didemnum speciosum 和D.perlucidum）、线海鞘、米氏小叶鞘、菊海鞘（Botryllus niger）、纵列海鞘（Symplegma brakenhielmi）、皱瘤海鞘和拟海鞘,从北往南优势种依次为二段海鞘（Didemnum speciosum）、线海鞘,皱瘤海鞘、二段海鞘（D.perlucidum）、拟海鞘和乳突皮海鞘等种类[64-69]
+
+# 1.4北冰洋海域
+
+白海处在北冰洋最南端，在 $_ { 0 - 5 \mathrm { m } }$ 水层温度介于-0.98— $1 4 . 7 8 \mathrm { ^ { \circ } C }$ ,其中7月份水温最高;盐度则随深度增加,处在14.99—26.74 之间,且以12月份盐度最高。该海域水产养殖设施上的污损性海鞘以瘤海鞘（Styelarustica)为优势种,常见的种类则为皮海鞘（Molgula citrina）,波海鞘（Boltenia echinata）偶而出现[70-72]。
+
+# 2附着特点
+
+污损性海鞘的分布具有明显的地域性,多数喜欢生活在水温较高的海域,即热带海区的多样性明显高于温带及寒带海域。在太平洋黄渤海海域,污损性海鞘的优势种为柄瘤海鞘[25-26],而东海和南海则以冠瘤海鞘为主[29.45];悉尼海鞘虽为南海的优势种,但在东海其数量显著减少,而在纬度更高的黄、渤海没有发现[29,45]。线海鞘和长带海鞘（Distaplia bermudensis）为大西洋海域污损性海鞘特有种[63],而波海鞘只出现在北冰洋海域[70]。
+
+季节的变化是影响海鞘附着污损的另一关键因素,且不同海域存在差异。在太平洋海域,海鞘的附着高峰期主要集中在夏季,其中柄瘤海鞘和乳突皮海鞘的附着高峰期分别在6月和9月份[26]。然而,春、秋季则是印度洋海域海鞘的附着高峰,如红海北部埃拉特海域,海鞘优势种红贺海鞘最大附着量出现在春季,而颗粒二段海鞘则在秋季[56]。至于大西洋东北部沿岸海域,本地种海鞘的附着期出现在3一6月,而外来种为6—12月[58]
+
+沿海港口码头和水产养殖设施的污损生物群落中通常都有海鞘出现,基于码头多处在突堤和防波堤所包围的小水域中,而传统的养殖器具也都布设在内湾,再结合航标等设施被海鞘附着污损的程度内湾高于外海[41],故可以推断,海鞘青睐栖息附着在近岸及半封闭水体中的人工设施,诸如布设在遮蔽水域的浮标、码头、养殖器具等应是其附着污损的首选,随着离岸距离增加,水体开阔程度增大,海鞘的种类和污损程度下降。
+
+人工设施浸海时间的长短会对污损生物群落中海鞘的种类及地位产生影响,如智利脓海鞘可逐渐成为污损群落的优势种[19],瘤海鞘（Styela rustica)的附着量在5年的污损生物群落中占 $7 4 \% ^ { [ 7 0 ] }$ ,拟海鞘和玻璃海鞘则在北海近海石油平台建成第4年成为优势种[60]。然而,某些种类却似乎为群落的先驱者,如占优势的米氏小叶鞘会逐渐被水取代[68],而史氏菊海鞘和紫拟菊海鞘主要出现在新投放的人工物体上[59]。
+
+再有,附着基质的差异也可能造成其上栖息附着的污损性海鞘出现变化。如玻璃海鞘似乎在金属表面的附着量更多,而胶海鞘(Corella paralelogramma）和拟海鞘更青睐水泥桩柱[73],海鞘（Styela sp.)在塑料网衣的附着面积大于木质试板[74],智利脓海鞘主要附着于绳索[11]。红贺海鞘更偏向于污损物体的水平表面,次口海鞘(Phallusia nigra）和海鞘(Ascidia cannelata)多附着在漂浮的人工设施组件上[56]。
+
+深度是影响海鞘污损状况的又一关键因素,不同种类的污损区间会出现明显变化。在水下1一 ${ \cdot } 5 \mathrm { m }$ 的深度范围内,引发生物污损的海鞘优势种通常为智利脓海鞘[18]、瘤海鞘（Styela rustica）[70]等种类;颗粒二段海鞘的污损范围则介于13— ${ \cdot 3 0 } \mathrm { m }$ 水层[55],而拟海鞘和玻璃海鞘可成为平台水下部位 $3 6 \mathrm { m }$ 深处污损生物群落的优势种[60]。
+
+# 3研究展望
+
+远洋航运和水产养殖往往是将污损性海鞘引到新栖息环境的载体。海鞘这类生物可耐受温度、盐度的大幅变化甚至污染,且生长速度快,成熟时间短,能产生大量的不摄食浮游幼虫,在波浪较小、营养物丰富的港湾里,可迅速附着于浮码头、木桩、浮标和船舶底部等处生长[75]。因此,伴随着海洋经济活动的迅猛发展,需要着重关注人工设施污损生物群落的变化状况,防范和研究外来海鞘对当地生物多样性及生产活动的影响。
+
+基于海洋污损生物的附着会改变附着基表面微环境,从而影响材料腐蚀行为,改变腐蚀过程。已有研究表明,藤壶可对某些金属材料产生“藤壶开花"的腐蚀现象[7」,牡蛎在物体表面附着时分泌的一种粘液可腐蚀附着基[7]。作为大型污损生物重要类群的海鞘,其附着(尤其复海鞘大面积附着)与材料腐蚀之间的关系,目前尚未见有关报道,故今后要加大相关领域的研究,阐明海鞘大量附着对人工设施材料腐蚀行为的影响。 C
+
+能否有效控制海鞘幼虫的附着是避免其污损危害的关键,故利用幼虫开展防除研究有助于迅速了解相关技术的成效,为进一步的应用研究提供参考。然而,出于统计分析的考虑,需要足够数量的幼虫作为实验测试对象,基于目前海鞘幼虫的来源仍依靠野外采集成熟个体和室内阴干刺激的方法来获取这一途径,因此,今后应加强对海鞘幼虫采集\培养和储存等方面的研究,以更好地保障大批量实验测试对象的供给。
+
+目前,常规的污损生物防除手段主要为人工清除、防污漆涂装、电解海水、添加杀生剂等途径,但这些方法各自都具有一定的局限性。基于基因调控在海鞘幼虫变态过程中起到了重要作用[78],因此,在加强相关分子调控机理研究的前提下,可以探讨各种处理技术对幼虫附着变态过程相关基因表达的影响,从转录组和蛋白组水平上探究其抗附着机制,促进新型、环保、高效、广谱污损生物防除技术的发展。
+
+生物分类主要是依据生物体所具备的形态特征和结构特点,然而,在实际的分析鉴定过程中,某些海鞘由于形态十分相似,往往会被归为一类,如玻璃海鞘鞘和萨氏海鞘长期以来都被认为是同一物种[79];另外,由于栖息环境的差异,同种海鞘的形态特征偶尔也会出现一些变化。因此,单纯依赖传统手段进行分类研究可能会导致争议或出现误判,此时分子生物学研究手段将可从分子水平提供有力证据。
+
+目前污损生物的生态研究主要集中在热带和温带沿岸海域，有关深海及两极等极端环境的研究仍局限于个别海域[80-82]。因此,下一阶段的工作除了继续对热点海域进行深人系统地研究外,还需加强未知海域和极端环境的探讨,以期彻底阐明污损性海鞘种群的动态变化规律及发展趋势,揭示其与污损生物群落中其它生物之间的关系，构建生态数学模型，从而更好地为海洋污损生物防除工作提供科学依据,并为海洋生态科学发展积累数据资料。
+
+# 参考文献（References）：
+
+[1]Lambert G.Nonindigenous Ascidians in Tropical Waters.Pacific Science,2002,56(3）：291-298.  
+[2]ShenkarrostenOYoplaioaicsofcoalfdnineterioigviontarineEologree2008，367:163-171.  
+[3]RuizGbaiedsubstrateandartificial structure//WahlM,ed.Marine Hard Botom Communities.Berlin Heidelberg：Springer,2O9：321-332.  
+[4]Castill,g，edeosggaapreputiisdtertiyoEcology Progress Series，2004，268(1）：119-130.  
+[5]BlumJC,hngA,LilsthmM,kE,ebrgMKuzG.o-nativesoltaryanCotestalis（）species richness.Journal of Experimental Marine Biology and Ecology,2007,342(1）： 5-14.  
+[6]BakRPM,LambrehtsDYM,JoenjeM，NieuwlandG,Van VeghelMLJ.Long-termchangesoncoralrefsinboomingpopulationsofacompetitive colonial ascidian.Marine Ecology Progress Series，1996,133(1/3）：303-306.  
+[7]Bullrd SG,Carman MR,Rocha R M,Dijkstra JA,Goodwin A M.Abundance and diversity of aseidians in the s outhern Gulf of Chiriquf,PacificPanama.Aquatic Invasions，2011,6(4）：381-390.  
+[8]PetersenJK.Ascidian suspensionfeding.Journal of Experimental MarineBiologyandEcology,2Oo7,342(1)：127-137.  
+[9]UribeEepafolinetiisospedueopeupuuiesthe Aquaculture Association of Canada,2002,102：93-95.  
+[10]OsmanRWiachR，ZajacNfesofresidentspeeuitintcuityLarvalelmetverssos-tmortality in the oyster Crassostrea virginica. Marine Ecology Progress Series，1989,54(1/2）: 61-73.  
+11]LuYlaeurehodtaacuetetioal)450.  
+[12]Kripa V, Mohamed K S,Velayudhan T S. Seasonal Fouling Stre ss on the Farmed Pearl Oyster，Pinctada fucata，from Southeastern Arabian Sea.Journal of the World Aquaculture Society，2012,43(4): 514-525.  
+[13]Rosa M,HoloanB,SumwaySE,BllrdSG,WiforsGH,ortonSL,GtchisT.Biofoulingascidiansonaquaculturegearsotetialvectors of harmful algal introductions.HarmfulAlgae,2O13,23:1-7.  
+[14]AldredN，lareAS.Mini-rveImpactanddynamicsofsurfacefoulingbysoltaryandcompoundascidiansiofouling，2014，30（）:259-270.  
+[15] MurrayCC,PoElWeceaoalatingeelatedvtorrasprtingaeiasivesisDisitDistributions,2011,17(6) : 1161-1172.  
+[16] Lambert C C,Lambert( .Non-indigenous ascidians in southern California harborsand marinas.Marine Biology，1998，13O(4）：675-688.  
+[17] Carman MR,BullrdSG,Rocha RM,Lambert G,DijkstraJA，RoperJJ,Goodin A,Carman MM,VailEM.Ascidians at hePacificandAtlantic entrances to the Panama Canal. Aquatic Invasions,2011,6(4）： 371-380.  
+18]Vivaaolitasalrfeaaleand Fouling. Barcelona: Northwestern University Press，1980: 69-74.  
+[19]Cfuentaeliubesin northern-central Chile.Journal of Experimental Marine Biology and Ecology，2007,352(2）:280-294.20 ArakawaKYCompetitsdfouligoraithangnguefthacifcterCrasostreigsunbergarieeiouPhysiology，1990,17(2): 67-94.  
+[21] YamaguchiM.GrowthndreproductivecylesoftemarinefoulingascidansConaintestinalis，tyelaplicata，Botrylidesdaceus，adLeptoclinum mitsukuri at Aburatsubo-Moroiso Inlet（central Japan).Marine Biology，1975,29(3）：253-259.  
+[22] 郑成兴.黄、渤海沿岸污损生物中的海鞘类.动物学报，1988，34(2)：180-188.  
+[23] 张连震.河北扇贝养殖区污损生物调查.河北渔业，2007，（3)：52-57.  
+[24］黄修明，尹建德，刘建军，彭树杰，郑国安，刘书攻，王旭，刘万山，曹静.渤海石油平台附着生物生态的研究.海洋科学集刊，1994,(35)：131-141.  
+[25］冷宇,李继业，刘一霆，赵升，刘旭东．烟台市龙口港污损生物生态研究.海洋通报,2012，31(4)：454-459.  
+[26］李传燕，黄宗国，王建军，郑成兴，林盛．烟台港附着生物生态研究.海洋学报，1990,12（1）：107-114.  
+[27] 蔡如星，陈树庆，薛俊增，卢建平.舟山枸杞水域的污损生物生态.东海海洋，1994，12（3)：42-56.  
+[28] 周时强，柯才焕，林大鹏.罗源湾大官坂围垦区附着生物生态研究.海洋通报，2001，20(3）：29-35.  
+[29] 黄宗国，陈丽淑.台湾省两个港湾污损生物初步研究.海洋学报，2002，24(6)：92-98.  
+[30] 黄宗国，蔡如星，许由焰.平潭附着生物生态研究.台湾海峡，1982，1(1)：87-92.  
+[31] 李传燕，黄宗国，郑成兴，王建军．湄洲湾附着生物与油污染生态学研究.台湾海峡，1996，15(4)：387-393.  
+[32] 王建军，黄宗国，李传燕，郑成兴，林娜，严颂凯.厦门港网箱养殖场污损生物的研究.海洋学报，1996，18（5）：93-102.  
+[33] 林和山，王建军，郑成兴,李荣冠，郑凤武，林俊辉，黄雅琴，何雪宝，江锦祥．东山湾污损生物生态研究.海洋学报，2012，34（6)：160-169.  
+[34] 郑东强，黄宗国.大亚湾海水养殖箱、笼上附着的污损生物.水产学报，1990，14（1)：15-24.  
+[35] 严颂凯，黄宗国.大亚湾码头桩柱的污损生物群落.海洋学报，1992，14（3)：114-120.  
+[36] 张汉华，梁超愉，吴进峰，郭根喜，张湛才，贾晓平.大鹏湾深水网箱养殖区的污损生物研究.中国水产科学，2003，10（5)：414-418.  
+[37] 黄玉山，黄宗国，刘培生，刘文华.香港维多利亚港码头的附着生物群落.海洋学报，1999,21（2)：86-92.  
+[38] 徐志斌，高阳.珠江口深圳湾污损生物的生态研究.海洋通报，2010，29(5)：509-513.  
+[39]HuangZG,ZhengCX,LinS,WangJJ,YanSK.FoulingorganismsatDayBaynuclearpowerstaton,China//MortonB,ed.The MarineBiology of the South China Sea.Hong Kong:Hong Kong University Press，1993：121-130.  
+[40]LinS，HuangZG,LiCY,ZengCX,WangJStudyocolgoffoulersobuoysinDianbai,Gangdog,China.ActaOceaolgicca,1990,9(4) : 618-621.  
+[41] 黄宗国,蔡如星，江锦祥，蔡尔西，吴启泉.琼州海峡及雷州半岛沿岸浮标的污损生物.海洋与湖沼，1982，13（3)：259-266.  
+[42] 黄宗国，蔡尔西，蔡如星.清澜港的附着生物.海洋学报，1982，4(2)：215-222.  
+[43] 郑成兴，黄宗国，张良兴，李传燕，李福荣.琅玡湾附着生物和钻孔生物的初步研究.海洋学报，1984,6(1)：81-89.  
+[44] 李恒翔，严岩，何伟宏，邹晓理.北部湾白龙半岛邻近海域污损生物生态研究.热带海洋学报，2010,29(3)：108-113.  
+[45] 黄宗国，王建军，林盛，李传燕，郑成兴.北部湾污损生物生态研究.1992，14(4)：94-104.  
+[46] 栗志民，刘志刚，黄文庆，庄汉城.北部湾江洪扇贝养殖区的污损生物.广东海洋大学学报，2010，30(1)：1-6.  
+[47] WangJJ,HuangZG,LinSAneoloicaludyfuingganissinBeiaiHarboureibuBayCina//MortonB,ederineolyof the South China Sea. Hong Kong: Hong Kong University Press，1993：167-180.  
+[48]ZhangLX,uangZG,LiCYZengCX.AnologicalstdyofungossinXishasctaOcanologicaSinca4(4)547-558.  
+49]LeSSmbertGwoofliarfilucuresingapoewatesaroiversitos,6:e93.  
+[50]WoodsCC，eraenJiofoulingoGrehelmuel（Peacnaliculus）farsaprelinarysessntdotentialimplications for sustainable aquaculture practices.Aquaculture International,2012,20(3)： 537-557.  
+[51]Wong,laryeelleeprdiveolofasiveantnclabudBiology，2010,158(12): 2775-2785.  
+[52]FletchslctsftieeiueeNew Zealand. Aquaculture Environment Interactions，2013,4(1）：17-30.  
+[53]SwamiBS，ChapgaBFSelementpaeofsansinarbouwatersofMmbi，wstoastofIdia.danJoualofMaineSciences,2002，31(3):207-212.  
+[54]VenkatKAnlACaepakerDosheScoloofdasinacofolingoityfeagaloeortdalof Marine Sciences，1995,24(1) : 41-43.  
+55] OrenU,BenayauYDidemnidascidans:apidolonzersofarifiialrefsinEilat（RedSea)BuletinofMarineSience，998,63（）:199-206.  
+[56]ShenkarN,ZelanYyaY.AsdaeutmentpaesoaartfalefinEilat（ReSea）iofouling8,242)：198.  
+[57]LangeDriflpacsooeeosddyEstuarine，Coastal and Shelf Science，2009,82(3）：426-432.  
+[58]LndeyerF，GiebergerA.Ascidiansinthesucessionofmarinefoulingcommunities.Aquatic Invasions，Ol1,6(4):4-434.  
+[59]GiebergerA，anSelRCArtiflrucuresinarbsandeiroatedsanfa.uatiIasios，l1,（):4.  
+[60]PickenGB.MorayFirthmarinefoulingcommunities.Proceedingsof theRoyal Societyof Edinburgh，986,91（8）:213-220.  
+61]lldGiliiot Shelltish Kesearch，2013，32(2）：255-264.  
+62]ArsealtGvioasapalndialevelopetoffestaooftyelouelfsilpceEdward Island,Canada. Aquatic Invasions，2009,4（1）：189-194.  
+[63]JuteAHobinJFoch.Apreliarystaforsdofad,Wstsaeodeitecd,,6：e62.  
+[64]RochaRReplcentfompoudsidasiesisoutheasterazliafoulingounityetdostitutOcfi1991,39(2): 141-153.  
+65]ErreraCosoutiRShiuldillafoasotetilotasstoctioalstaResearch，2006，39：1340-1345.  
+66]MarriRG，Reisfolingirliaeialulitioofpuslreii（Dty）Dotyex.Ci.JuadPhycology，2016,28（3）：1803-1813  
+[67]RchaeLtitaetriRaleuesideiatfootcesiourlatiis,4(1):195-205.  
+[68]RicoA，eralaJesoiubalcofoligebagesofatanbr（rgetiatMarine Research，2012,66(4)：577-584.  
+[69]SchwindtE,GppJLafoP,Tatin,ortousA,resanzJlosoG,DiezME,DotiB,GenzanG,LaerC,ochG,izML，MendezMM，SavoyaV，SueiroC.MarinefoulinginvasionsinportsofPatagonia（Argentina）withimplicationsforlegislationndmonitoring programs. Marine Environmental Research,2014,99：60-68.  
+[70]KalaaVFouiofueqacueslliosiiteuanJoalofineol4)：227-237.  
+[71]Khalaman VV.Regularandiregularevents infoulingcommunitiesintheWhiteSea.Hydrobiologia,2013，706(1)：205-219.  
+[72]KhalanVVKomdntovSructureoffolingouitifodyHlicodriapicea（orfea:Deospogae）ineiteea.Russian Journal of Ecology，2011,42(6): 493.  
+[73]AndessDCEtclofoceedlplioleatefield experiment.Helgoland Marine Research，2009,63（3):249-260.  
+[74]EzeriGtslofasoouo&lManagement，2002，6(1）：29-33.  
+[75]MarinsFovsLoch,JueiaOdigeodasiortdaturalevioetsiropicallbaZoologia（Curitiba），2010,27(2）：213-221  
+[76］马士德，谢肖勃，黄修明，李言涛，尹建德，彭树杰.藤壶附着对海水中金属腐蚀的影响.中国腐蚀与防护学报，1995，15(1)：74-78.  
+[77］梁金禄，蔡成翔，尹艳镇，焦淑菲.牡蛎腐蚀与防护技术研究进展.钦州学院学报，2012，27(3):61-65.  
+[78]ChmbonJP,akyaaA，aauraK，McDougallA,SthNERK-andJNK-sigallngregulategenenetoksthattiulateeaosisand apoptosis in tail tissues of ascidian tadpoles.Development，2007,134(6）：1203-1219.  
+[79］马洪明，张俊丽，姚子昂，刘利平，金松君，相建海.中国玻璃海鞘属一新纪录种——萨氏海鞘 Ciona savignyi.水生生物学报，2010,34(5): 1056-1059.  
+80]DePaJAsuef/iofndeaalCod:Technical Chamber of Greece，1968：595-600.  
+[81] Zhang H,CaoWH,WuZW,SongXK,WangJJ,YanT.Biofoulingondep-seasubmersiblebuoysystemsof XishaandDongshaIsands ithenorthern South China Sea.International Biodeterioration & Biodegradation，2015，104：92-96.  
+[82]BlancoR,hesJoAacofoligofesreatieyas6eptlfacte,mid-Atlanticridge,withemphasisonhdrods（Cidaria：Hydroza)DepeaReseachartII:TopicalStudiesinOceanogap1,98:370-373.

@@ -1,0 +1,508 @@
+[
+    {
+        "type": "text",
+        "text": "Meteorological impacts on evapotranspiration in different climatic zones of Pakistan ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shahzada ADNAN1,2\\*, Kalim ULLAH1, Azmat H KHAN², GAO Shouting³ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Meteorology, COMSATS Institute of Information Technology,Islamabad 4400,Pakistan;   \n2 Pakistan Meteorological Department, Islamabad 440o0, Pakistan;   \n3 State keyLaboratoryofCloud-Precipitation Physicsand Severe Storms,InstituteofAtmospheric Physics,ChineseAcademy of Sciences,Beijing100029,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Arid regions are highly vulnerable and sensitive to drought. The crops cultivated in arid zones are at high risk due to the high evapotranspiration and water demands. This study analyzed the changes in seasonal and annual evapotranspiration (ET) during 1951-2016 at 50 meteorological stations located in the extremely arid, arid,and semi-arid zones of Pakistan using the Penman Monteith (PM) method. The results show that ET is highly sensitive and positively correlated to temperature, solar radiation,and wind speed whereas vapor pressure is negatively correlated to ET. The study also identifies the relationship of ET with the meteorological parameters in different climatic zones of Pakistan. The significant trend analysis of precipitation and temperature (maximum and minimum) are conducted at $9 5 \\%$ confidence level to determine the behaviors of these parameters in the extremely arid,arid,and semi-arid zones.The mean annual precipitation and annual mean maximum temperature significantly increased by $0 . 8 2 8 ~ \\mathrm { m m / a }$ and $0 . 0 1 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the arid and extremely arid zones, respectively. The annual mean minimum temperature increased by $0 . 0 1 7 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the extremely arid zone and $0 . 0 1 9 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the arid zone, whereas a significant decrease of $0 . 0 0 7 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ was observed in the semi-arid zone. This study provides probabilistic future scenarios that would be helpful for policy-makers, agriculturists to plan efective irrigation measures towards the sustainable development in Pakistan. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: evapotranspiration; meteorological parameters; climatic zone; Penman Monteith method; Pakistan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The evapotranspiration (ET) is one of the most important climatic parameter determining the crop water requirements, water balance, and climatic features of a region. It is difficult to directly measure ET and models have been therefore widely used to calculate it (Gad and El-Gayar, 2010). The ET is generally affected by four major weather parameters including temperature, solar radiation, vapor pressure/humidity, and wind speed (Isikwue et al., 2O14). The chaotic climatic conditions have significant impacts on hydrological factors like evapotranspiration, soil moisture, ground water, and runoff (Bultot et al., 1988). The global annual mean temperature is rising and significant warming trends have been observed spatially and in terms of intensity (Hansen et al., 2O12). The increase of greenhouse gas concentration is considered as one of the major reasons of global warming (IPCC, 2014). Studies identified the spatial and temporal effects of global warming on the water resources and hydrological cycle around the world (Iglesias et al., 1994; Feddema, 1999; Held and Soden, 2006; IPCC, 2007, 2014). The precipitation and ET are the main components of water cycle to quantify the available water (Sabziparvar and Tabari, 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Increase in temperature can enhance the water vapor holding capacity of air and therefore affects evapotranspiration. Moreover, the saturation pressure increases exponentially with the increase in temperature as well. By keeping all the other meteorological factors constant, the increase of temperature can cause dryness and enhance ET. Furthermore, the ET also increases with the increase in solar radiation and decreases in cloudiness and vapor pressure (Gong et al., 2006). Dry and warm wind increases ET, while moist and cold wind decreases ET. Hot and dry wind blows in summer, while cold and dry wind is observed in winter in most of the arid regions of Central South Asia, unless the monsoon and western disturbances (winter) brings rainfall to the region (Adnan et al., 2O16). The ET is less sensitive to temperature in winter than in summer. Increase in wind speed enhances the concentration of dust particles in the atmosphere which lowers the incoming solar radiation. The sensitivity of ET depends upon the climatic factors, including temperature, sunshine hours, wind speed, especially humidity and the characteristics of plants and resistance of their stomata in diferent climatic zones (Mamassis et al.,2014). Importantly, both high temperature and low humidity increase the ET, which exacerbate the drought condition in both arid and humid regions (Le Houerou, 1993; Smakhtin and Schipper, 2008). Moreover, the increase in evapotranspiration rate generates high irrigation water demand. In any country having both arid and humid regions, increasing evapotranspiration rate may lead to a severe shortage of irrigation water. For Pakistan, a developing country with economy mainly depending on irgated agriculture, the problem is even more important. The climate of Pakistan is diversified as that two-thirds of total area is in arid and semi-arid areas, and $19 \\%$ of the area is dominated by humid climate (Chaudhary and Rasul, 2O03; Adnan, 2OO9; Haider and Adnan, 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A proper water management policy is required in Pakistan to avoid severe water shortage in the near future. The agricultural activities are carried out by proper irigation in the extremely arid and ard regions whereas the supplementary irrigation is required in the semi-arid and humid regions. The ET remains very high in most time of a year in Pakistan. However, monsoon brings rainfall to ease the moisture stress in these regions and helpful to fulfillthe crop water demand to some extent. Therefore， comprehensive information is required about the future climatic conditions in view of changing climatic scenarios. Kruss et al. (1992) identified a cooling trend due to increase in cloudiness and rainfall over northern and southeastern Pakistan during monsoon season. Singh and Sontakke (1996) observed large variability in temperature in the country by employing a long-term reconstructed time series temperature data from 1876 to 1993. Moreover, a warming trend was also detected with a total change of $0 . 2 ^ { \\circ } \\mathrm { C }$ at the beginning of the $2 0 ^ { \\mathrm { t h } }$ century. Afzaal et al. (2009) observed $0 . 0 6 ^ { \\circ } \\mathrm { C } / 1 0 \\mathrm { a }$ increase in temperature with a total change of $0 . 6 4 ^ { \\circ } \\mathrm { C }$ in last 127 years, showing the warming trend in Pakistan. This study is motivated by the above mentioned considerations to assess sensitivity of the evapotranspiration due to $\\pm 2 0 \\%$ change in several meteorological parameters. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The variation in ET directly influences the crop water requirements and irrigation schedule. The crops in arid regions always remain at risk due to high evapotranspiration and crop water demands. It is necessary to evaluate the impacts of meteorological parameters on the sensitivity of ET against the global warming in arid regions of Pakistan. This study provides a range of changes in each of the parameters, i.e., temperature, solar radiation, vapor pressure,and wind speed that likely to affect both in seasonal and annual ET. Furthermore, the results of annual future trends analysis (temperature and precipitation) will help to understand the drought conditions, ET demands, and water balance in extremely arid, arid,and semi-arid regions of Pakistan. This study will be helpful for key stakeholders i.e., agriculturist, agronomist disaster agencies to develop future contingency plan for sustainable development towards agriculture in different climatic ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "zones in Pakistan. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pakistan is located in South Asia $( 2 3 ^ { \\circ } 3 9 ^ { \\prime } - 3 7 ^ { \\circ } 0 1 ^ { \\prime } \\mathrm { N }$ ， $6 0 ^ { \\circ } 4 9 ^ { \\prime } { - } 7 7 ^ { \\circ } 4 0 ^ { \\prime } \\mathrm { E } )$ with a total area of $0 . 7 9 6 \\times 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ (Fig. 1). The mean annual precipitation ranges from 20 to $8 0 0 ~ \\mathrm { { m m } }$ . The annual mean maximum temperature is $2 7 . 5 ^ { \\circ } \\mathrm { C } - 3 4 . 3 ^ { \\circ } \\mathrm { C }$ and the annual mean minimum temperature is $1 2 . 3 ^ { \\circ } \\mathrm { C } - 1 7 . 3 ^ { \\circ } \\mathrm { C } .$ . Two main weather systems, southwestern monsoon during summer and western disturbance system during winter, approach Pakistan and contribute about $45 \\%$ and $20 \\%$ of annual precipitation during July to September (monsoon) and December to February (winter), respectively. July is the month with the maximum rainfalland June is the hottest month of a year. There are considerable precipitation falling in the crop seasons of Kharif from May to September and Rabi from October to the succeeding April (Adnan and Khan, 2009). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pakistan can be divided into extremely arid, arid, semi-arid, and humid climatic zones, which accounted for $2 5 \\%$ ， $2 5 \\%$ ， $31 \\%$ ，and $19 \\%$ of the total area of the country, respectively (Adnan et al., 2017). The two-thirds of the country is dominated by the arid climate (Haider and Adnan, 2014),most of which lies in southern Pakistan where the topography is characterized by a slow-lying plains. The elevation of western Pakistan is below $1 5 0 0 \\mathrm { ~ m ~ }$ with barren mountains. This research selected the extremely arid, arid, and semi-arid zones to analyze the sensitivity of ET against the meteorological parameters. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the characteristics of precipitation and temperature, Shamshad (1988), Khan et al. (2010),and Zahid and Rasool (O11) divided a year into five seasons including spring (March and April), dry summer (May and June), monsoon season (wet summer; July to September), autumn (October and November),and winter (December to the following February) in Pakistan. The summer starts from May and ends in September consisting of dry and wet months. The temperature is very high in the dry months and drops down during wet months. The monsoon season is very wet and contributes $44 \\%$ of the annual precipitation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8b6307a8cfd380cb1987236b4c5259972393ec0b5161ff1a2541f7494c57b59.jpg",
+        "img_caption": [
+            "Fig.1Location of Pakistan and distributions of climatic zones and meteorological stations in Pakistan "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data used in this research were obtained from Pakistan Meteorological Department. Observational monthly temperature, solar radiation, humidity, and wind speed from 5O stations (Fig. 1) for the period 1981-2010 were used for climatic zone classification. A long-term (1951- ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2016) data series of precipitation and temperature (maximum, minimum) was used to determine the time series trends ( $9 5 \\%$ confidence level) on annual basis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Martin et al. (1989) demonstrated the impacts of temperature, solar radiation, humidity, and wind speed on evapotranspiration in this study area. Liu et al. (2O1O) also pointed out that ET changes are driven by the combination of these climatic variables. The behavior of these parameters is quite different in each month and season and they influence the evapotranspiration in different manners. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The solar radiation and humidity data are used to calculate the net solar radiation and vapor pressure. Penman Monteith (PM) method, defined by Food and Agriculture Organization of the United Nations (FAO), is used to calculate the annual and seasonal ET. The sensitivity of ET is identified by meteorological parameters within a possible range of $\\pm 2 0 \\%$ ，which is an approach applied in a dry region of India by Goyal (2004). The IPCC (2007) report suggests that in case of carbon dioxide emission doubled in the $2 1 ^ { \\mathrm { s t } }$ century, the average global temperature would rise from $2 . 0 ^ { \\circ } \\mathrm { C }$ to $4 . 5 ^ { \\circ } \\mathrm { C }$ with the best assessment of $3 . 0 ^ { \\circ } \\mathrm { C }$ ， but it would not be uniform throughout the world. Future scenarios are generated by these parameters to identify the meteorological impacts on ET. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FAO-PM method is considered to be the best model for estimating ET in any climatic zones (Monteith, 1965; Allen et al., 1998) although several models have been used for calculating reference evapotranspiration $( \\mathrm { E T _ { 0 } } )$ by Doorenbos and Wilson (1974)，Wilson (1974)， Pruitt (1977), Viessman et al. (1977), Eagleson (1978), Subramanya (1984), Mavi (1986), Michael (1986); and PM method was used to determine the impact of meteorological parameters on ET in sub-tropical semi-humid region of Bangladesh (Ali et al., 2OO9) and in a desert transition zone of Heihe River Basin in northwestern China (Zhao and Zhao,2O14). The modified FAO-PM method (Allen et al., 1998) is as Equation 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T _ { 0 } = \\frac { 0 . 4 0 8 \\Delta ( R _ { n } - G ) + \\gamma \\bigg [ 9 0 0 \\big ( T + 2 7 3 \\big ) \\bigg ] u _ { 2 } \\left( e _ { s } - e _ { a } \\right) } { \\Delta + \\gamma \\big ( 1 . 0 . 3 4 u _ { 2 } \\big ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $E T _ { 0 }$ represents reference evapotranspiration $\\mathrm { ( m m / d a y ) }$ ： $\\Delta$ is the slope of the saturation vapor pressure at air temperature $T \\left( { \\bf { k P a } } / { ^ \\circ } { \\bf { C } } \\right)$ ： $G$ is the soil heat flux density $\\mathbf { ( M J / ( d { \\cdot } m ^ { 2 } ) } )$ ： $R _ { n }$ is the net solar radiation $\\left( \\mathbf { M J } / ( \\mathbf { d } { \\cdot } \\mathbf { m } ^ { 2 } ) \\right)$ ： $T$ is the mean daily air temperature ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ ： $u _ { 2 }$ is the average daily wind speed $\\mathrm { { ( m / s ) } }$ ： $\\boldsymbol { e } _ { s }$ and $e _ { a }$ are vapor pressure deficits $\\left( \\mathrm { { k P a } } \\right)$ ; and $\\boldsymbol { \\gamma }$ is the psychrometric constant $( \\mathrm { { k P a } / { } ^ { \\circ } C ) }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The water vapor pressure is directly associated with water quantity in the air and can be measured by Equation 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { s } = \\Bigg [ \\frac { e ^ { \\mathrm { { \\mathrm { { o } } } } } \\left( T _ { \\mathrm { m a x } } \\right) + e ^ { \\mathrm { { \\mathrm { { o } } } } } \\left( T _ { \\mathrm { m i n } } \\right) } { 2 } \\Bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ^ { \\mathrm { { o } } } \\left( T \\right) = 0 . 6 1 0 8 { \\left[ \\frac { 1 7 . 2 7 T } { T + 2 3 7 . 3 } \\right] } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta = 4 0 9 8 \\Bigg [ \\frac { 0 . 6 1 0 8 _ { \\mathrm { e x p } } \\left( 1 7 . 2 7 T \\right) / \\left( T + 2 3 7 . 3 \\right) } { \\left( T + 2 3 7 . 3 \\right) ^ { 2 } } \\Bigg ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { e } _ { s }$ is the mean saturation vapor pressure $\\left( \\mathrm { { k P a } } \\right)$ ： $e ^ { \\mathrm { o } }$ is the saturation vapor pressure $\\left( \\mathrm { { k P a } } \\right)$ $T _ { \\mathrm { m a x } }$ is the maximum temperature $( ^ { \\circ } \\mathrm { C } )$ ; and $T _ { \\mathrm { m i n } }$ is the minimum temperature $( ^ { \\circ } \\mathrm { C } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mean air temperature is used to measure the slope curve of saturation vapor pressure. The pressure exerted by the water in air is called actual vapor pressure and is denoted by $e _ { a }$ (Eq. 5). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { a } = \\left[ \\frac { e ^ { \\circ } \\left( T _ { \\mathrm { m i n } } \\right) \\left( R H _ { \\mathrm { m a x } } / 1 0 0 \\right) + e ^ { \\circ } \\left( T _ { \\mathrm { m a x } } \\right) \\left( R H _ { \\mathrm { m i n } } / 1 0 0 \\right) } { 2 } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where, $e _ { a }$ is the actual vapor pressure; $e ^ { \\mathrm { o } } ( T _ { \\mathrm { m i n } } )$ and $e ^ { \\mathrm { o } } ( T _ { \\mathrm { m a x } } )$ are the saturation vapor pressures $\\left( \\mathrm { { k P a } } \\right)$ at daily minimum and maximum temperatures ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ ; and $R H _ { \\operatorname* { m a x } }$ and $R H _ { \\operatorname* { m i n } }$ are the maximum and minimum relative humidities. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The net solar radiation $R _ { n }$ is the difference between the incoming solar radiation $( R _ { n s } )$ and outgoing solar radiation ( ${ \\mathrm { ~ \\cal { R } } } _ { n l }$ ；Eqs.6and7). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R _ { n } = R _ { n s } - R _ { n l } , } \\\\ { R _ { n s } = ( 1 - \\alpha ) R _ { s } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $a$ is the surface albedo and $R _ { s }$ is the incoming shortwave solar radiation $\\scriptstyle ( \\mathbf { M J } / ( \\mathbf { d } \\cdot \\mathbf { m } ^ { 2 } ) )$ and can be calculated by the Angstrom's formula (Eq. 8; Doorenbos and Pruitt, 1977). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } = ( 0 . 2 5 + 0 . 5 0 \\frac n N ) R _ { a } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where n/N is the ratio of observed sunshine hours and the maximum possible sunshine hours; ${ \\cal R } _ { a }$ is the extraterrestrial radiation $\\left( \\mathbf { M J } / ( \\mathbf { d } { \\cdot } \\mathbf { m } ^ { 2 } ) \\right)$ ; Allen et al., 1998). The net long wave radiation can be expressed by Equation 9. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { n l } = \\sigma \\Bigg [ \\frac { T _ { \\mathrm { m a x } } K ^ { 4 } + T _ { \\mathrm { m i n } } K ^ { 4 } } { 2 } \\Bigg ] ( 0 . 3 4 - 0 . 1 4 \\sqrt { e _ { a } } ) \\Bigg \\{ 1 . 3 5 \\frac { R _ { s } } { R _ { s o } } - 0 . 3 5 \\Bigg \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { n l }$ is the net long-wave radiation $\\left( \\mathbf { M J } / ( \\mathbf { d } { \\cdot } \\mathbf { m } ^ { 2 } ) \\right)$ ； $T _ { \\mathrm { m a x } }$ and $T _ { \\mathrm { m i n } }$ are the maximum and minimum absolute temperatures ${ \\mathrm { ( } } ^ { \\circ } { \\mathrm { C ) } }$ $K$ is the absolute mean temperature ( $( ^ { \\circ } \\mathrm { C } )$ ： $\\mathrm { K } { = } ^ { \\circ } \\mathrm { C } { + } 2 7 3 . 1 6$ (Allen et. al., 1998)); $\\sigma$ is the Stefan Boltzmann constant; $R _ { s o }$ is the clear sky shortwave solar radiation $\\left( \\mathbf { M J } / ( \\mathbf { d } { \\cdot } \\mathbf { m } ^ { 2 } ) \\right)$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sensitivity of ET is calculated by changing one meteorological parameter between the rangesof $\\pm 2 0 \\%$ with keeping the other three parameters constant. This method will determine the percentage change in ET (increase/decrease) with respect to the changes in temperature, vapor pressure, net radiations, and wind speed during each season in each climatic zone. Similarly, a hypothetical future scenario ( $( \\pm 1 0 \\%$ change) is generated to estimate the total demand of ET by taking consideration of various combinations of meteorological parameters. The percentage change in ET is calculated over the normal period 1981-201O for each combination of the meteorological parameters. The annual time series (1951-2016) analysis of temperature (maximum and minimum) and precipitation are conducted to identify the future trends. The Mann-Kendall and Sen's Slope methods are used to identify the trend and trend magnitude at $9 5 \\%$ confidence level, respectively (Mann, 1945; Sen, 1968; Kendal, 1975). The same methods were used to calculate the significant trend and related magnitude for South Central Asia (Adnan et al., 2016). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Historical data analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The impact of meteorological parameters on ET is not easy to predict. The probability of scenario for different seasons and the respective sensitivity of ET demands expected under such assumed futuristic meteorological conditions are estimated in different climatic zones of Pakistan. The seasonal impacts on total ET with respect to the changes in meteorological parameters for the extremely arid region are identified (Table 1). The results show that ET has seasonal variations of 9.75-111.05, 7.64-76.38, 8.31-77.00, 4.47-34.74 mm and annual variations of 329.59, 236.11, 212.99, $1 2 5 . 7 ~ \\mathrm { m m }$ due to the changes $( \\pm 2 0 \\% )$ in temperature, net radiation, vapors pressure, and wind speed, respectively. The maximum changes in ET are observed in dry summer, monsoon, autumn, and winter; and the minimum changes in ET are observed in spring. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figures 2a-d illustrate seasonal and annual relative percentage changes in ET due to the relative changes in temperature, vapor pressure, net radiations and wind speed in the extremely arid region. The percentage variation of ET ranged from $- 1 5 . 7 8 \\%$ to $1 6 . 8 8 \\%$ annually in responses to $\\pm 2 0 \\%$ changes in temperature. The minimum effect in temperature on ET is observed during spring $( - 1 4 . 4 2 \\%$ to $1 5 . 0 5 \\%$ ） and the maximum during monsoon season ( $- 1 6 . 8 0 \\%$ to $1 8 . 1 7 \\%$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the extremely arid zone, the percentage changes $( \\pm 2 0 \\% )$ of net solar radiation caused annual variations of $- 1 2 . 0 9 \\%$ to $1 2 . 0 3 \\%$ in ET. The maximum effects of net solar radiation on ET, with percentage variations of $- 1 3 . 2 1 \\%$ to $1 3 . 2 5 \\%$ were observed in autumn and the minimum appeared in summer $( - 1 1 . 2 2 \\%$ to $1 1 . 2 4 \\%$ ). The annual percentage change in ET was $\\pm 1 0 . 8 \\%$ due to the changes in vapor pressure, with the maximum percentage change in winter ( $- 1 3 . 0 \\%$ to $1 3 . 2 \\% )$ and the minimum appeared in spring $( - 9 . 1 \\%$ to $9 . 3 \\%$ ).The $\\pm 2 0 \\%$ changes in wind speed caused annual percentage changes of $- 6 . 4 4 \\%$ to $6 . 0 9 \\%$ in ET, with the maximum percentage changes in summer $( - 7 . 0 4 \\%$ to $6 . 6 \\dot { 6 } \\%$ ）and the minimum in monsoon season ( $( - 5 . 6 9 \\%$ to $5 . 3 6 \\%$ ) ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c987a50581e2cde0575cdd6503bb2b31d8a171c85618b4091753f1a11edcf71.jpg",
+        "table_caption": [
+            "Table 1 Impacts of seasonal percentage changes in meteorological parameters on evaportranspiration (ET) in the extremely arid region of Pakistan "
+        ],
+        "table_footnote": [
+            "Note: MP, meteorological parameters; T, temperature (Tmax, $\\mathrm { T } _ { \\mathrm { m i n } } \\mathrm { \\dot { \\Omega } } ,$ ; Rn, net solar radiation; ea,vapor pressure;u2, wind speed. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">MP</td><td rowspan=\"3\">Season</td><td colspan=\"9\">Changes in total ET (mm) due to percentage changes in meteorological parameters</td></tr><tr><td>-20%</td><td>-15%</td><td>-10%</td><td>-5%</td><td>0%</td><td>+5%</td><td>+10%</td><td>+15%</td><td>+20%</td></tr><tr><td></td><td>225.91</td><td>234.99</td><td>244.30</td><td>253.84</td><td>263.59</td><td>273.54</td><td>283.69</td><td>294.01</td><td>304.50</td></tr><tr><td rowspan=\"6\">T</td><td>Winter</td><td>286.92</td><td>298.79</td><td>310.82</td><td>322.98</td><td>335.28</td><td>347.71</td><td>360.26</td><td>372.93</td><td>385.72</td></tr><tr><td>Spring</td><td>411.35</td><td>430.98</td><td>450.87</td><td>471.00</td><td>491.40</td><td>512.06</td><td>533.01</td><td>554.25</td><td>575.83</td></tr><tr><td>Summer Monsoon</td><td>508.34</td><td>533.27</td><td>558.69</td><td>584.60</td><td>611.01</td><td>637.94</td><td>665.40</td><td>693.44</td><td>722.06</td></tr><tr><td>Autumn</td><td>212.22</td><td>221.78</td><td>231.55</td><td>241.53</td><td>251.71</td><td>262.10</td><td>272.69</td><td>283.47</td><td>294.46</td></tr><tr><td>Annual</td><td>1644.74</td><td>1719.82</td><td>1796.23</td><td>1873.96</td><td>1952.99</td><td>2033.35</td><td>2115.04</td><td>2198.10</td><td>2282.58</td></tr><tr><td>Winter</td><td>231.49</td><td>239.44</td><td>247.39</td><td>255.33</td><td>263.59</td><td>271.23</td><td>279.18</td><td>287.12</td><td>295.07</td></tr><tr><td rowspan=\"7\">Rn</td><td>Spring</td><td>295.44</td><td>305.35</td><td>315.26</td><td>325.17</td><td>335.28</td><td>345.00</td><td>354.91</td><td>364.82</td><td>374.74</td></tr><tr><td>Summer</td><td>436.25</td><td>449.92</td><td>463.59</td><td>477.26</td><td>491.40</td><td>504.61</td><td>518.28</td><td>531.95</td><td>545.63</td></tr><tr><td>Monsoon</td><td>535.25</td><td>554.27</td><td>573.29</td><td>592.31</td><td>611.01</td><td>630.34</td><td>649.36</td><td>668.38</td><td>687.39</td></tr><tr><td>Autumn</td><td>218.46</td><td>226.78</td><td>235.11</td><td>243.43</td><td>251.71</td><td>260.09</td><td>268.41</td><td>276.74</td><td>285.06</td></tr><tr><td>Annual</td><td>1716.88</td><td>1775.76</td><td>1834.63</td><td>1893.51</td><td>1952.99</td><td>2011.26</td><td>2070.14</td><td>2129.02</td><td>2187.89</td></tr><tr><td>Winter</td><td>297.76</td><td>289.14</td><td>280.52</td><td>271.90</td><td>263.59</td><td>254.66</td><td>246.04</td><td>237.42</td><td>228.80</td></tr><tr><td>Spring</td><td>365.91</td><td>358.21</td><td>350.50</td><td>342.79</td><td>335.28</td><td>327.38</td><td>319.67</td><td>311.96</td><td>304.26</td></tr><tr><td rowspan=\"8\">ea u2</td><td> Summer</td><td>536.88</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Monsoon</td><td>688.01</td><td>525.40</td><td>513.91</td><td>502.42</td><td>491.40</td><td>479.45</td><td>467.96</td><td>456.48</td><td>444.99</td></tr><tr><td>Autumn</td><td>276.21</td><td>668.84 270.10</td><td>649.67</td><td>630.50</td><td>611.01</td><td>592.15</td><td>572.98</td><td>553.81</td><td>534.64</td></tr><tr><td>Annual</td><td>2164.77</td><td>2111.68</td><td>263.98 2058.58</td><td>257.87 2005.48</td><td>251.71 1952.99</td><td>245.65 1899.29</td><td>239.54 1846.20</td><td>233.42 1793.10</td><td>227.31</td></tr><tr><td>Winter</td><td>245.04</td><td>249.79</td><td>254.46</td><td>259.06</td><td>263.59</td><td>268.06</td><td>272.46</td><td>276.79</td><td>1740.00 281.07</td></tr><tr><td>Spring</td><td>312.86</td><td>318.58</td><td>324.22</td><td>329.79</td><td>335.28</td><td>340.70</td><td>346.04</td><td>351.32</td><td>356.52</td></tr><tr><td>Summer</td><td>456.79</td><td>465.63</td><td>474.34</td><td>482.93</td><td>491.40</td><td>499.75</td><td>507.98</td><td>516.10</td><td>524.11</td></tr><tr><td>Monsoon</td><td>576.27</td><td>585.15</td><td>593.90</td><td>602.52</td><td>611.01</td><td>619.38</td><td>627.63</td><td>635.75</td><td>643.77</td></tr><tr><td></td><td> Autumn</td><td>236.32</td><td>240.23</td><td>244.10</td><td>247.93</td><td>251.71</td><td>255.46</td><td>259.17</td><td>262.85</td><td>266.49</td></tr><tr><td></td><td>Annual</td><td>1827.30</td><td>1859.39</td><td>1891.02</td><td>1922.22</td><td>1952.99</td><td>1983.34</td><td>2013.28</td><td>2042.81</td><td>2071.95</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the arid zone, the $\\pm 2 0 \\%$ changes in temperature, net radiation, vapor pressure,and wind speed caused seasonal changes in ET of 5.90-90.83, 6.63-71.32, 5.02-53.52, and 2.79-100.62 mm and annual changes of 245.21, 208.79, 142.75, and $1 0 0 . 6 2 \\ \\mathrm { m m }$ (Table 2), respectively. The maximum changes in ET appeared in dry summer, monsoon, autumn, and winter; and the minimum appeared in spring. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb7464f58de5b63704188f15345039ca7a0ca919c334d7a48adf510c10470fc6.jpg",
+        "img_caption": [
+            "Fig.2Impacts of percentage changes in temperature (a), net radiations (b), vapor pressure (c),and wind speed (d) on evapotranspiration (ET) in the extremely arid region of Pakistan. W, winter; S,spring; Su,dry summer; M, monsoon; At, autumn; An, annual. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf9d7bdc80f6566e57fc556d86254ed55a1105340b80d878381222a3c60c745b.jpg",
+        "table_caption": [
+            "Table 2Impacts ofseasonal percentage changes in meteorological parameters on total ETin the arid zone ofPakistan "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">MP</td><td rowspan=\"2\">Season</td><td colspan=\"8\">Changes in total ET (mm) due to percentage changes in meteorological parameters</td></tr><tr><td>-20%</td><td>-15%</td><td>-10%</td><td>-5%</td><td>0%</td><td>+5%</td><td>+10%</td><td>+15%</td><td>+20%</td></tr><tr><td rowspan=\"6\">T</td><td>Winter</td><td>176.55</td><td>182.10</td><td>187.77</td><td>193.56</td><td>199.46</td><td>205.47</td><td>211.58</td><td>217.78</td><td>224.06</td></tr><tr><td>Spring</td><td>243.76</td><td>252.44</td><td>261.22</td><td>270.07</td><td>279.00</td><td>288.00</td><td>297.06</td><td>306.18</td><td>315.36</td></tr><tr><td> Summer</td><td>367.13</td><td>382.61</td><td>398.20</td><td>413.89</td><td>429.69</td><td>445.60</td><td>461.62</td><td>477.77</td><td>494.05</td></tr><tr><td>Monsoon</td><td>476.07</td><td>497.01</td><td>518.24</td><td>539.78</td><td>561.64</td><td>583.81</td><td>606.33</td><td>629.20</td><td>652.46</td></tr><tr><td>Autumn</td><td>175.94</td><td>182.68</td><td>189.52</td><td>196.47</td><td>203.51</td><td>210.65</td><td>217.87</td><td>225.18</td><td>232.58</td></tr><tr><td>Annual</td><td>1439.45</td><td>1496.83</td><td>1554.95</td><td>1613.77</td><td>1673.30</td><td>1733.53</td><td>1794.46</td><td>1856.11</td><td>1918.51</td></tr><tr><td rowspan=\"8\">Rn</td><td>Winter</td><td>172.73</td><td>179.43</td><td>186.13</td><td>192.83</td><td>199.46</td><td>206.23</td><td>212.93</td><td>219.63</td><td>226.33</td></tr><tr><td>Spring</td><td>244.50</td><td>253.05</td><td>261.61</td><td>270.16</td><td>279.00</td><td>287.27</td><td>295.82</td><td>304.38</td><td>312.93</td></tr><tr><td>Summer</td><td>382.54</td><td>394.34</td><td>406.14</td><td>417.94</td><td>429.69</td><td>441.54</td><td>453.34</td><td>465.14</td><td>476.94</td></tr><tr><td>Monsoon</td><td>490.32</td><td>508.11</td><td>525.90</td><td>543.69</td><td>561.64</td><td>579.27</td><td>597.06</td><td>614.85</td><td>632.64</td></tr><tr><td> Autumn</td><td>174.71</td><td>182.03</td><td>189.34</td><td>196.66</td><td>203.51</td><td>211.30</td><td>218.62</td><td>225.93</td><td>233.25</td></tr><tr><td>Annual</td><td>1464.79</td><td>1516.96</td><td>1569.12</td><td>1621.28</td><td>1673.30</td><td>1725.61</td><td>1777.77</td><td>1829.93</td><td>1882.09</td></tr><tr><td>Winter</td><td>219.88</td><td>214.80</td><td>209.71</td><td>204.62</td><td>199.46</td><td>194.44</td><td>189.35</td><td>184.26</td><td>179.17</td></tr><tr><td>Spring</td><td>301.45</td><td>295.77</td><td>290.08</td><td>284.40</td><td>279.00</td><td>273.03</td><td>267.35</td><td>261.66</td><td>255.98</td></tr><tr><td rowspan=\"6\">ea</td><td>Summer</td><td>461.86</td><td>453.83</td><td>445.80</td><td>437.77</td><td>429.69</td><td>421.71</td><td>413.68</td><td>405.65</td><td>397.62</td></tr><tr><td>Monsoon</td><td>614.84</td><td>601.50</td><td>588.16</td><td>574.82</td><td>561.64</td><td>548.14</td><td>534.79</td><td>521.45</td><td>508.11</td></tr><tr><td>Autumn</td><td>218.01</td><td>214.51</td><td>211.00</td><td>207.49</td><td>203.51</td><td>200.47</td><td>196.96</td><td>193.45</td><td>189.95</td></tr><tr><td>Annual</td><td>1816.05</td><td>1780.40</td><td>1744.75</td><td>1709.10</td><td>1673.30</td><td>1637.79</td><td>1602.14</td><td>1566.48</td><td>1530.83</td></tr><tr><td>Winter</td><td>187.96</td><td>190.88</td><td>193.78</td><td>196.64</td><td>199.46</td><td>202.25</td><td>205.01</td><td>207.74</td><td>210.44</td></tr><tr><td>Spring</td><td>262.08</td><td>266.40</td><td>270.66</td><td>274.86</td><td>279.00</td><td>283.10</td><td>287.14</td><td>291.13</td><td>295.07</td></tr><tr><td rowspan=\"5\">u2</td><td>Summer</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>399.46</td><td>407.18</td><td>414.78</td><td>422.29</td><td>429.69</td><td>437.00</td><td>444.21</td><td>451.33</td><td>458.35</td></tr><tr><td>Monsoon</td><td>530.04</td><td>538.09</td><td>546.04</td><td>553.89</td><td>561.64</td><td>569.29</td><td>576.85</td><td>584.33</td><td>591.71</td></tr><tr><td>Autumn</td><td>193.14</td><td>195.76</td><td>198.36</td><td>200.95</td><td>203.51</td><td>206.05</td><td>208.58</td><td>211.08</td><td>213.57</td></tr><tr><td>Annual</td><td>1572.68</td><td>1598.31</td><td>1623.61</td><td>1648.61</td><td>1673.30</td><td>1697.69</td><td>1721.79</td><td>1745.61</td><td>1769.13</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The impacts of the percentage changes in meteorological parameters on ET are presented in Figure 3. The $\\pm 2 0 \\%$ change temperature caused seasonal percentage changes of $- 1 3 . 9 8 \\%$ to $1 4 . 6 5 \\%$ in ET (Fig. 3a), with the smallest influence in winter ( $- 1 1 . 4 9 \\%$ to $12 . 3 4 \\%$ dueto the cold climate. The maximum percentage changes of ET appeared in the monsoon season $( - 1 5 . 2 4 \\%$ to $1 6 . 1 7 \\% )$ as the soil moisture was lost under the high temperature. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The percentage changes of net solar radiation $( \\pm 2 0 \\% )$ caused annual percentage changes in ET of $- 1 2 . 4 6 \\%$ to $12 . 4 8 \\%$ ，with the maximum effects on ET $( - 1 4 . 1 5 \\%$ to $1 4 . 6 2 \\% )$ ）observed in autumn, and the minimum $( - 1 0 . 9 7 \\%$ to $1 1 . 0 0 \\% )$ appeared in summer. The percentage changes in vapor pressure result in an annual percentage change of $8 . 5 \\%$ in ET, with the maximum of $1 0 . 2 \\%$ appeared in winter and the minimum ( $- 6 . 7 \\%$ to $7 . 1 \\%$ ) in autumn. The percentage changes $( \\pm 2 0 \\% )$ in wind speed caused an annual percentage changes in ET of $- 6 . 0 1 \\%$ to $5 . 7 3 \\%$ , with the maximum percentage changes in ET being $- 7 . 0 3 \\%$ to $6 . 6 7 \\%$ appeared in summer and the minimum $( - 5 . 1 0 \\%$ to $4 . 9 4 \\%$ ） in autumn. The maximum increase in ET is caused by the hot and dry climatology where dry wind causes more ET. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d32ca964c1a399cc48437d18ed73ed77ce855edf4f1a4eb034c6b312a7f39b7.jpg",
+        "img_caption": [
+            "Fig.3Impacts of percentage changes in temperature (a), net radiations (b), vapor pressure (c),and wind speed (d) on ET in the arid zone of Pakistan "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the semi-arid zone of Pakistan, the $\\pm 2 0 \\%$ changes in temperature,net radiation, vapor pressure and wind speed caused seasonal changes in ET of 4.30-72.23,5.08-70.21, 1.87-29.16, $2 . 1 1 - 2 2 . 6 2 \\ \\mathrm { m m }$ and annual variations of 189.60, 189.66, 77.68, $7 2 . 3 9 \\mathrm { m m }$ (Table 3), respectively. The maximum changes caused by temperature and net radiation appeared in monsoon season while the maximum changes in ET caused by the vapor pressure and wind speed appeared in winter and dry summer, respectively. The minimum changes in ET caused by temperature and net radiation occurred in winter while the minimum changes caused by vapor pressure and wind speed occurred in dry summer and monsoon season, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The seasonal and annual percentage changes in ET caused by the percentage changes of the meteorological parameters in the semi-arid zone of Pakistan are shown in Figures 4. The annual ET had percentage changes of $- 1 2 . 9 2 \\%$ to $1 3 . 5 6 \\%$ under the $\\pm 2 0 \\%$ changes in temperature. The temperature has less effects on ET $( - 1 0 . 6 7 \\%$ to $1 1 . 6 6 \\%$ during winter. The maximum percentage changes in ET $( - 1 4 . 2 4 \\%$ to $1 5 . 1 7 \\%$ is observed in the monsoon season as abundant moisture of the season and the high ET in this area. The percentage change $( \\pm 2 0 \\% )$ in net solar radiation caused an annual percentage changes in ET of $- 1 3 . 5 0 \\%$ to $1 3 . 5 3 \\%$ , with the maximum percentage changes $( - 1 4 . 7 5 \\%$ to $1 4 . 6 6 \\% )$ in ET observed in monsoon season and the minimum ( $( - 1 2 . 1 6 \\%$ to $1 2 . 2 6 \\% )$ in summer. The result also shows that the net solar radiation has significant affects in the semi-arid zone as the vegetative cover, moisture convergence and cloud cover enhancing or reducing the ET, which agree with Claussen (1997). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $\\pm 2 0 \\%$ changes of vapor pressure caused annual percentage changes of $- 5 . 6 \\%$ to $5 . 3 \\ \\%$ in ET, with the maximum changes in winter ( $- 1 0 . 3 \\%$ to $1 0 . 1 \\% )$ and the minimum in summer $( - 2 . 8 \\%$ to $2 . 6 \\% )$ . The $\\pm 2 0 \\%$ changes of wind speed caused annual percentage changes of $- 5 . 1 8 \\%$ to $4 . 9 6 \\%$ on ET, with the maximum percentage changes in summer $( - 6 . 1 0 \\%$ to $5 . 8 4 \\%$ ）and the minimum in monsoon ( $( - 4 . 0 6 \\%$ to $3 . 9 1 \\%$ ) ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ee21209a93ea4ef4623fd494320c517ca4c1877d642ad2bfff6137fbacb23b5.jpg",
+        "table_caption": [
+            "Table 3Impact of seasonal percentage changes in meteorological parameters on total ET in the semi-arid zone of Pakistan "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">MP</td><td rowspan=\"2\">Season</td><td colspan=\"8\">Changes in total ET (mm) due to percentage changes in meteorological parameters</td></tr><tr><td>-20%</td><td>-15%</td><td>-10%</td><td>-5%</td><td>0%</td><td>+5%</td><td>+10%</td><td>+15%</td><td>+20%</td></tr><tr><td rowspan=\"6\">T</td><td>Winter</td><td>138.85</td><td>143.14</td><td>146.93</td><td>151.13</td><td>155.43</td><td>159.83</td><td>164.31</td><td>168.89</td><td>173.55</td></tr><tr><td>Spring</td><td>201.34</td><td>207.95</td><td>214.20</td><td>220.73</td><td>227.32</td><td>233.96</td><td>240.65</td><td>247.38</td><td>254.16</td></tr><tr><td>Summer</td><td>322.91</td><td>334.59</td><td>346.83</td><td>358.85</td><td>370.90</td><td>382.98</td><td>395.11</td><td>407.30</td><td>419.54</td></tr><tr><td>Monsoon</td><td>408.39</td><td>425.37</td><td>441.79</td><td>458.86</td><td>476.19</td><td>493.79</td><td>511.68</td><td>529.89</td><td>548.42</td></tr><tr><td>Autumn</td><td>146.41</td><td>152.08</td><td>157.40</td><td>163.04</td><td>168.77</td><td>174.59</td><td>180.49</td><td>186.47</td><td>192.53</td></tr><tr><td>Annual</td><td>1217.91</td><td>1263.13</td><td>1307.16</td><td>1352.61</td><td>1398.60</td><td>1445.15</td><td>1492.25</td><td>1539.93</td><td>1588.21</td></tr><tr><td rowspan=\"8\">Rn</td><td>Winter</td><td>135.08</td><td>140.16</td><td>145.25</td><td>150.34</td><td>155.43</td><td>160.51</td><td>165.60</td><td>170.69</td><td>175.77</td></tr><tr><td>Spring</td><td>198.33</td><td>205.62</td><td>212.90</td><td>220.18</td><td>227.32</td><td>234.74</td><td>242.02</td><td>249.31</td><td>256.59</td></tr><tr><td>Summer</td><td>325.76</td><td>337.08</td><td>348.41</td><td>359.73</td><td>370.90</td><td>382.37</td><td>393.70</td><td>405.02</td><td>416.34</td></tr><tr><td>Monsoon</td><td>406.23</td><td>423.75</td><td>441.27</td><td>458.79</td><td>476.19</td><td>493.83</td><td>511.35</td><td>528.87</td><td>546.39</td></tr><tr><td>Autumn</td><td>144.77</td><td>150.82</td><td>156.87</td><td>162.92</td><td>168.77</td><td>175.02</td><td>181.07</td><td>187.12</td><td>193.17</td></tr><tr><td>Annual</td><td>1210.18</td><td>1257.44</td><td>1304.70</td><td>1351.96</td><td>1398.60</td><td>1446.49</td><td>1493.75</td><td>1541.01</td><td>1588.27</td></tr><tr><td>Winter</td><td>171.05</td><td>167.18</td><td>163.29</td><td>159.37</td><td>155.43</td><td>151.46</td><td>147.48</td><td>143.48</td><td>139.46</td></tr><tr><td>Spring</td><td>240.84</td><td>237.57</td><td>234.24</td><td>230.87</td><td>227.32</td><td>224.01</td><td>220.53</td><td>217.01</td><td>213.47</td></tr><tr><td rowspan=\"6\">ea</td><td>Summer</td><td>380.41</td><td>378.21</td><td>375.91</td><td>373.52</td><td>370.90</td><td>368.50</td><td>365.88</td><td>363.19</td><td>360.44</td></tr><tr><td>Monsoon</td><td>504.36</td><td>497.49</td><td>490.52</td><td>483.46</td><td>476.19</td><td>469.09</td><td>461.80</td><td>454.44</td><td>447.02</td></tr><tr><td> Autumn</td><td>176.94</td><td>175.00</td><td>173.02</td><td>171.01</td><td>168.77</td><td>166.90</td><td>164.80</td><td>162.68</td><td>160.53</td></tr><tr><td>Annual</td><td>1473.60</td><td>1455.44</td><td>1436.98</td><td>1418.23</td><td>1398.60</td><td>1379.97</td><td>1360.50</td><td>1340.81</td><td>1320.92</td></tr><tr><td>Winter</td><td>146.11</td><td>148.48</td><td>150.83</td><td>153.15</td><td>155.43</td><td>157.69</td><td>159.92</td><td>162.12</td><td>164.29</td></tr><tr><td>Spring</td><td>214.79</td><td>217.99</td><td>221.14</td><td>224.25</td><td>227.32</td><td>230.35</td><td>233.34</td><td>236.29</td><td>239.21</td></tr><tr><td rowspan=\"5\">u2</td><td>Summer</td><td>348.28</td><td>354.02</td><td>359.71</td><td>365.33</td><td>370.90</td><td>376.40</td><td>381.85</td><td>387.24</td><td>392.57</td></tr><tr><td>Monsoon</td><td>456.85</td><td>461.75</td><td>466.61</td><td>471.42</td><td>476.19</td><td>480.91</td><td>485.58</td><td>490.22</td><td>494.81</td></tr><tr><td> Autumn</td><td>160.18</td><td>162.35</td><td>164.51</td><td>166.65</td><td>168.77</td><td>170.88</td><td>172.97</td><td>175.04</td><td>177.10</td></tr><tr><td>Annual</td><td>1326.21</td><td>1344.60</td><td>1362.80</td><td>1380.80</td><td>1398.60</td><td>1416.22</td><td>1433.66</td><td>1450.91</td><td>1467.98</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results show that ET is highly sensitive to temperature and vapor pressure in the study area in monsoon season and winter, respectively. The solar radiation influences ET more in the extremely arid and arid zones in autumn and the semi-arid zone during monsoon season. Wind speed affects ET more in summer. ET is less sensitive to temperature decrease in comparison to the increase temperature that makes temperature a key triggering factor among these parameters irrespective of season (Xu et al., 2006). The high wind speed is associated with low humidity whereas the low wind speed is associated with high humidity. ET has fewer changes in dry summer when the wind is hot and dry (Allen et al., 1998). The wind speed has the minimum effects on annual ET and the maximum effects on ET appeared in winter because dry and cool winds cause more ET from the ground surface (Subramanya, 2008). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on seasonal and annual analysis, we measured the sensitivity of ET to temperature, solar radiation, vapor pressure and wind speed. The results show that ET is most sensitive to temperature in monsoon season and least sensitive to temperature in winter in the study area. The temperature is the main triggering factor enhancing the ET regardless the season. The changes of ET in monsoon season depict that abundant of moisture goes into atmosphere during the process of ET. The temperature and solar radiation cause the maximum change in ET in all the extremely arid, arid, and semi-arid zones during monsoon season. The maximum changes in ET caused by the winter vapor pressure and summer wind speed are observed in all the zones as well. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2Scenario analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A scenario was developed to measure how ET will respond to the changes of the meteorological parameters in the extremely arid, arid, and semi-arid zones based on observational data (1981- 2010). The scenario set the temperature at a $10 \\%$ increase and the other three parameters, vapor pressure, wind speed, and net solar radiation, with $\\pm 1 0 \\%$ fluctuation (Table 4). Fourteen cases generated in the scenario are presented in Table 4. In Case 9, the ET in extremely arid zone varied from a marginal increase of $0 . 2 7 \\%$ （ $- 1 0 \\%$ ${ \\bf R } _ { \\mathrm { n } }$ $10 \\%$ $\\mathbf { e _ { a } }$ ,and $- 1 0 \\% \\mathrm { u } _ { 2 } ,$ ） to the maximum of $2 9 . 9 3 \\%$ （ $10 \\%$ $\\mathrm { R } _ { \\mathrm { n } } \\mathrm { , - } 1 0 \\%$ $\\mathbf { e } _ { \\mathrm { a } }$ ，and $10 \\%$ u2). ET slightly decreased by $1 . 5 1 \\%$ and $2 . 7 1 \\%$ ，and increased by $2 5 . 9 7 \\%$ and $2 4 . 6 8 \\%$ in ET was observed in the arid and semi-arid zones in Case 9 and 12, respectively. The reduction in ET is due to the $10 \\%$ decrease of net solar radiation and wind speed, and $10 \\%$ increase of vapor pressure. The results also depict that increasing in net solar radiation and wind speed by $10 \\%$ over normal period with $10 \\%$ decrease actual vapor pressure could increase ET in the entire study area. In different climatic zones, ET could increase by $4 . 1 9 \\%$ to $9 . 2 3 \\%$ with increasing in temperature by $10 \\%$ and decreasing in the other parameters by $10 \\%$ . These results are based on the assumption of percentage changes in meteorological parameters and their sensitivities to ET. The changes in ET can have profound efects on agriculture, water, and forest resources in Pakistan. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3b7f8f5ff2241cc4e47a12ae788eddb009f2a1ecef68bd232778a1b3ffe6bf2.jpg",
+        "img_caption": [
+            "Fig. 4Impacts of percentage change in temperature (a), net radiations (b), vapor pressure (c), and wind speed (d) on ET in the semi-arid zone of Pakistan "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results depict that the maximum increases in annual ET are observed under $10 \\%$ increase of solar radiation and wind speed, and $10 \\%$ decrease of vapor pressure (Case 9) in the study area. The maximum decreases in annual ET are observed under $10 \\%$ decrease of solar radiation and wind speed, and $10 \\%$ increase of vapor pressure but the changes are marginal. So, we may infer that increase in solar radiation and wind speed and decrease in vapor pressure are triggering factors to accelerate the ET process in the study area irrespective of the climatology. Furthermore, the results show that ET is directly proportional to the temperature, net solar radiation,and wind speed; and inversely proportional to the vapor pressure. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3Trend analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mean annual precipitation data calculated for the extremely arid, arid and semi-arid zones are 150, 250, and $5 5 0 ~ \\mathrm { m m }$ , respectively. The annual precipitation shows a decreasing trend in the extremely arid zone and increasing trend in both the arid and semi-arid zones (Fig. 5). However, the significant increasing trend ( $( 0 . 8 2 8 ~ \\mathrm { m m / a } )$ of annual precipitation is observed only in the arid zone at $9 5 \\%$ confidence level. The annual precipitation variability in the arid zone is higher than those in the extremely arid and semi-arid zones. The increase in annual precipitation may help to reduce the moisture and water stresses in the arid zone and would benefit the agricultural activities. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The annual mean maximum temperatures are $3 3 . 2 5 ^ { \\circ } \\mathrm { C }$ $3 0 . 1 1 ^ { \\circ } \\mathrm { C }$ ，and $2 6 . 4 1 ^ { \\circ } \\mathrm { C }$ in the extremely arid, arid, and semi-arid zones, respectively. The mean annual maximum temperature shows an increasing trend over the entire study area (Fig. 6). The significant increasing trend $( 0 . 0 1 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a } )$ in annual mean maximum temperature $\\left( \\mathrm { T } _ { \\operatorname* { m a x } } \\right)$ is observed only in the extremely arid zone at $9 5 \\%$ confidence level, which will enhance ET and aridity in the extremely arid zone and put pressures on water resources and agricultural activities. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/cff6d6aa159d5da5342279186ad1848875f93eb59c994774b803be04a947103a.jpg",
+        "table_caption": [
+            "Table 4 Annual changes in total estimated ET $\\left( \\mathrm { E T _ { 0 } } \\right)$ with respect to change in meteorological parameters in differentclimatic zonesofPakistan "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Case</td><td colspan=\"3\">Percentage change (%)</td><td rowspan=\"2\"></td><td colspan=\"4\">Value change and percentage change in ETo</td></tr><tr><td rowspan=\"2\">Rn</td><td rowspan=\"2\">ea u2</td><td colspan=\"2\">Extremely arid zone</td><td colspan=\"2\">Arid zone</td><td colspan=\"2\">Semi-arid zone</td></tr><tr><td>(mm)</td><td>(%)</td><td>(mm)</td><td>(%)</td><td>(mm)</td><td>(%)</td></tr><tr><td>1</td><td>+10</td><td>0</td><td>0</td><td>2186.2</td><td>11.94</td><td>1911.6</td><td>18.51</td><td>1647.3</td><td>17.78</td></tr><tr><td>2</td><td>-10</td><td>0</td><td>0</td><td>2119.0</td><td>8.50</td><td>1706.9</td><td>5.50</td><td>1450.6</td><td>3.72</td></tr><tr><td>3</td><td>+10</td><td>+10</td><td>0</td><td>2269.6</td><td>16.21</td><td>1846.7</td><td>14.63</td><td>1594.2</td><td>13.99</td></tr><tr><td>4</td><td>+10</td><td>-10</td><td>0</td><td>2461.3</td><td>26.03</td><td>1976.5</td><td>22.39</td><td>1700.4</td><td>21.58</td></tr><tr><td>5</td><td>-10</td><td>-10</td><td>0</td><td>2214.8</td><td>13.41</td><td>1771.8</td><td>9.38</td><td>1503.6</td><td>7.51</td></tr><tr><td>6</td><td>-10</td><td>+10</td><td>0</td><td>2023.1</td><td>3.59</td><td>1642.0</td><td>1.62</td><td>1397.5</td><td>-0.08</td></tr><tr><td>7</td><td>+10</td><td>+10</td><td>+10</td><td>2329.5</td><td>19.28</td><td>1896.0</td><td>17.54</td><td>1628.3</td><td>16.42</td></tr><tr><td>8</td><td>+10</td><td>+10</td><td>-10</td><td>2208.1</td><td>13.06</td><td>1796.2</td><td>11.66</td><td>1559.5</td><td>11.50</td></tr><tr><td>9</td><td>+10</td><td>-10</td><td>+10</td><td>2537.5</td><td>29.93</td><td>2037.1</td><td>25.97</td><td>1743.7</td><td>24.68</td></tr><tr><td>10</td><td>+10</td><td>-10</td><td>-10</td><td>2383.0</td><td>22.02</td><td>1914.5</td><td>18.73</td><td>1656.0</td><td>18.41</td></tr><tr><td>11</td><td>-10</td><td>+10</td><td>+10</td><td>2086.3</td><td>6.83</td><td>1693.7</td><td>4.68</td><td>1433.6</td><td>2.50</td></tr><tr><td>12</td><td>-10</td><td>+10</td><td>-10</td><td>1958.2</td><td>0.27</td><td>1589.0</td><td>-1.51</td><td>1360.7</td><td>-2.71</td></tr><tr><td>13</td><td>-10</td><td>-10</td><td>+10</td><td>2294.3</td><td>17.48</td><td>1834.8</td><td>13.11</td><td>1549.1</td><td>10.76</td></tr><tr><td>14</td><td>-10</td><td>-10</td><td>-10</td><td>2133.2</td><td>9.23</td><td>1707.3</td><td>5.56</td><td>1457.2</td><td>4.19</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/7176f046ea6b3ed4aad80d7076adf77abac5faf914186668fbf11e2947d9e0c0.jpg",
+        "img_caption": [
+            "Fig. 5Time series trend of annual precipitation in different climatic zones of Pakistan during 1951-2016. Zmk, M-K $\\mathbf { z }$ -value; Q, Sen's slope estimator. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ad2d75acb19862e432077d62622015554b65b148776200cf57b3469120645f4.jpg",
+        "img_caption": [
+            "Fig. 6 Time series trend of annual mean maximum temperature in diferent climatic zones of Pakistan during 1951-2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The annual mean minimum temperatures are $1 8 . 3 7 ^ { \\circ } \\mathrm { C }$ $1 5 . 5 3 ^ { \\circ } \\mathrm { C }$ ,and $1 2 . 9 5 ^ { \\circ } \\mathrm { C }$ in the extremely arid, arid and semi-arid zones, respectively. Likewise the maximum temperature, the long-term mean minimum temperature shows an increasing trend over the entire study area (Fig. 7). The significant increase in annual mean minimum temperature $\\left( \\mathrm { { T } _ { \\mathrm { { m i n } } } } \\right)$ observed in the extremely arid zone is $0 . 0 1 7 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ and $0 . 0 1 9 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the arid zone,whereas it significantly decreases in the semi-arid zone by $0 . 0 0 7 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ at $9 5 \\%$ confidence level. The decrease in annual $ \\mathrm { T } _ { \\mathrm { m i n } }$ will lessen the moisture stress, crop water demands, and water loss from the ground surface and helpful for sustainable agriculture in the semi-arid zone. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The significant increase in temperature is an indication of global warming, which influences the climate in Pakistan, and will increase the ET and precipitation in the study area. The rise in temperature will enhance the convective activity that will increase the frequency and intensity of extreme rainfall events over these regions. The recent study shows that there is a strong relationship between global warming and increase in rainfall and arid areas will receive more rainfall around the world (Donat et al., 2017). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The study is conducted in the light of IPCC report (2O14) for the $2 1 ^ { \\mathrm { s t } }$ century in view of that global warming offers overview of future water demands in different climatic zones. This study describes and quantifies the impacts of meteorological parameters on seasonal and annual ET based on the climate changes in the extremely arid, arid, and semi-arid zones of Pakistan. The results show that temperature and vapor pressure are the most important meteorological factors affecting ET. The maximum changes in ET under the influences of temperature and vapor pressure are observed in the entire study area in monsoon season and winter, respectively. The maximum change in ET caused by solar radiation is observed in autumn in the extremely arid and arid zones and in monsoon season in the semi-arid zone whereas the maximum change in ET caused by wind speed is observed in summer in the extremely arid and arid zones and in winter in the semi-arid zone. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/baec4be7eccf92332e2525d0f8c0af137666665423d162e68dc1ea6efbf7ac80.jpg",
+        "img_caption": [
+            "Fig.7 Time series trend of annual mean minimum temperature in diferent climatic zones of Pakistan during 1951-2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A significant increase in temperature, solar radiation, wind speed, and decrease in vapor pressure can enhance ET and put pressures on agricultural water demands, soil moisture and water resources of the study area. The increase in ET may enhance the risk of drought which ultimately would convert the agriculture land to barren land. The mean annual precipitation and annual mean maximum temperature significantly increase (at $9 5 \\%$ confidence level) by $0 . 0 1 4 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the extremely arid zone and $0 . 8 2 8 \\ \\mathrm { \\ m m / a }$ in the arid zone. The mean annual minimum temperature increases $0 . 0 1 7 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the extremely arid zone and $0 . 0 1 9 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the arid zone, and decreases by $0 . 0 0 7 ^ { \\circ } \\mathrm { C } / \\mathrm { a }$ in the semi-arid zone at $9 5 \\%$ confidence level. The study concludes that the increase in temperature can trigger the increase of ET over the extremely arid, arid, and semi-arid zones and will enhance the water demands for agriculture and create water scarcity problem for the region. These estimated results are important and would be helpful for future management of regional water resources and the irrigation system for sustainable development in Pakistan. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank two anonymous reviewers for their valuable comments and suggestions. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Adnan S.2o09.Agro-climaticclasificationofPakistan.MSc Thesis.Islamabad,Pakistan: COMSATSInstituteof Information Technology(CIT).[2014-10-29].https://www.researchgate.net/publication/261700354_Agroclimatic_Classification_of Pakistan.   \nAdnan S,KhanAH.2o9.Efectivernfallforgatedagricultureplainsofakistan.akistanJoualofMeteorology6(1): 61-72.   \nAdnan S,Ulah K,Gao S.2016.Investigations into precipitation and droughtclimatology in South CentralAsia with special focus on Pakistan over the period 1951-2010.Journal of Climate,29(16): 6019-6035.   \nAdnan S,Ullah K,GaoS,et al.2O17. Shifting of agro-climatic zones,their drought vulnerabilityand precipitatioand temperature trends in Pakistan. International Journal of Climatology, 37(Suppl.): 529-543.   \nAfzaal M,HaroonMA,Zaman QU.2O09.Interdecadal oscilationsandthe warming trendinthearea-weighted anualmean temperature of Pakistan. Pakistan Journal of Meteorology, 6(11): 13-19.   \nAli MH,Adham AKM,Rahman MM,etal.2O09.Sensitivityof Penman-Monteith estimates ofreference evapotranspiration to errors in input climatic data. Journal of Agrometeorology, 11(1): 1-8.   \nAllen R G, Pereira L S,Raes D,et al.1998.Cropevapotranspiration-guidelines forcomputingcrop water requirements.In: FAO Irrigation and Drainage Paper 56. Rome, Italy: FAO, 300(9): D05109.   \nBultotF,Dupriez GL,Gellns D.1988.Estimatedannual regimeof energy-balance components,evapotranspirationand soil moisture for a drainage basin in the case of a $\\mathrm { C O } _ { 2 }$ doubling. Climatic Change, 12(1): 39-56.   \nChaudhary Q Z,Rasul G.2003. Agro-climatic classification of Pakistan. Science Vision, 9(1-2): 59-66.   \nClausen M.1997. Modeling bio-geophysical feedback in the African and Indian monsoon region.Climate Dynamics,13(4): 247-257.   \nDonat MG,LowryAL,AlexanderL V,etal.2O17. Addendum: Moreextreme precipitationin the world'sdryand wetregions. Nature Climate Change, 7(2): 154-158.   \nDoorenbos J,ruit, WO.1977.Crop waterrequirements. In: FAO Irigationand DrainagePaper24.Rome,Italy: FAO,144.   \nEaglesonPS.1978.Climate,soil,andvegetation:1.Itroductiontowaterblancedyamics.WaterResouresReseach4(5): 705-712.   \nFeddemaJJ.1999.Future African waterresources: interactions between soildegradationand global warming.ClimaticChange, 42(3): 561-596.   \nGad H E,El-Gayar S M. 2O10. Effect of solar radiation on the crops evapotranspiration in Egypt. In: The $1 4 ^ { \\mathrm { u h } }$ International Water Technology Conference. Cairo, Egypt: IWTC, 769-783.   \nGongLB,Xu CY,ChenDL,etal.2O6.Sensitivityof thePenman-Monteith reference evapotranspiration tokeyclimatic variables in the Changjiang (Yangtze River) basin. Journal of Hydrology, 329(3-4): 620-629.   \nGoyal R K. 2O04. Sensitivity of evapotranspiration to global warming: a case study of arid zone of Rajasthan (India). Agricultural Water Management, 69(1): 1-11.   \nHaider S,Adnan S.014.Classificationandassessment of aridityoverPakistan provinces (196-209).International Journal of Environment, 3(4): 24-35.   \nHansen J,Sato M,RuedyR.2012.Perceptionof climatechange.Proceedings of the National Academyof Sciences of the United States of America,109(37): E2415-E2423.   \nHeldIM,Soden BJ.206.Robust responsesof the hydrologicalcycle to global warming.Journalof Climate,19(21):5686- 5699.   \nIglesias A,Lopez CorcolesH,Canadas W,etal.994.Currenandfuture strategiesforwateruseoptimiationincohyrids of different growth durations under climate change scenarios. In: Proceedings of the $3 ^ { \\mathrm { r d } }$ Congress of the European Society for Agronomy. Abano-Padova: Padova University, 374-375.   \nIntergovernmental Panelon Climate Change (IPCC).207.Summary for policymakers.In: Solomon S,Qin D,Manning M,et al. Climate Change 2007: the Physical Science Basis-Contributionof Working Group ItotheFourth Assssment Reportof the Intergovernmental Panel on Climate Change. Cambridge: Cambridge University Press, 996.   \nIntergovernmental Panel on Climate Change (IPCC).2014. Climate Change 2014: Synthesis Report. Contribution of Working Groups I,IIand IItotheFifthAssessmentReportof theIntergovermentalPanelonClimateChange.Geneva,Switzerland: IPCC, 151.   \nIsikwue CB, Audu OM,Isikwue OM. 2014. Evaluation of evapotranspiration using FAO penman-monteith method in Kano Nigeria. International Journal of Science and Technology, 3(11): 698-703.   \nKendall MG. 1975. Rank Correlation Measures.London: Charles Griffin, 202.   \nKhanJA.1993. The Climate ofPakistan. Karachi: Rehber Publishers,79.   \nKhan S U, Hassn M, Khan F K,et al. 2O10. Climate Classification of Pakistan. Ohrid: Balwois,1-47.   \nKruss PO, Khan K A Y, Malik F M Q, et al. 1992. Cooling over monsoonal Pakistan. In: Proceedings of the ${ 5 ^ { \\mathrm { u h } } }$ International Meeting on Statistical Climatology. Toronto: Environment Canada, 27.   \nLe Houerou HN. 1993. Climate change and drought desertifisation. Revue Sécheresse, 4(2): 95-111.   \nLiu Q,Yang ZF,CuiB S,et al.2O10. The temporal trends of reference evapotranspirationand its sensitivity to key meteorological variables in the Yellow River Basin, China.Hydrological Processes,24(15): 2171-2181.   \nMamasis N,Panagoulia D,Novcovic A.2014. Sensitivityanalysis of Penman evaporation method. Global Network for Environmental Science and Technology, 16(4): 628-639.   \nMann HB. 1945. Non-parametric tests against trend. Econometrica,13: 245-259.   \nMartin P,Rosenberg NJ,McKenneyMS.1989.Sensitivityofevapotranspirationina wheatfield,aforest,anda grassladto changes in climate and direct effects of carbon dioxide. Climatic Change,14(2): 117-151.   \nMavi HS.1986. Introduction to Agrometeorology. New Delhi: Oxford and IBH Publishing Co.,82-97.   \nMichael AM. 1986. Irigation Theory and Practice. Sahibabad: Vani Educational Books,512-537.   \nMonteith JL.1965.Evaporation and environment.In: Fogg GE. The State and Movement of Water in Living Organisms.New York: Academic Press,205-234.   \nSabziparvar AA,Tabari H.20l0.Regional estimationof reference evapotranspiration inaridand semiaridregions.Jounalof Irigation and Drainage Engineering,136(1O): 724-731.   \nSenPK.1968.Estimatesoftheregressioncoeicientbasedon Kendall's tau.Journalof theAmericanStatistical Asociation, 63(324): 1379-1389.   \nShamshad K M.1988.The Meteorology of Pakistan: Climate and Weather of Pakistan. Karachi: Royal Book Company Publishers, 313.   \nSingh N,SontakkeNA.1996.Climate variabilityover Pakistan andits relationship tovariations over theIndianregion. In: Abrol YP, Gadgil S,Pant GB. Climate Variability and Agriculture.New Delhi: Narosa Publishing House, 67-95.   \nSmakhtin VU,SchipperELF.2008.Droughts: The impactof semantics and perceptions. Water Policy,10(2):131-143.   \nSubramanya K.1984. Engineering Hydrology. New Delhi: Tata McGraw-Hill Publishing Company, 48-82.   \nSubramanya K.2Oo8. Engineering Hydrology $( 3 ^ { \\mathrm { r d } } { \\mathrm { e d } } .$ ). New Delhi: Tata McGraw-Hill Publishing Company,60-80.   \nViessman W Jr, Knapp W J, Lewis L G, et al. 1977. Introduction to Hydrology( $2 ^ { \\mathrm { n d } }$ ed.). New York: IEP, Dun-Donnelley Publishing Corporation, 704.   \nWilson E M. 1974. Engineering Hydrology. Hampshir: MacMillan Education Ltd, 34-52.   \nXu C Y,Gong L B,Jiang T,etal.2O6.Decreasing reference evapotranspirationin a warming climate-acaseof Changjiang (Yangtze) River catchment during 1970-2000.Advances in Atmospheric Sciences,23(4): 513-520.   \nZahid M,Rasul G.2011.Thermal classificationof Pakistan. Atmospheric and Climate Sciences,1(4): 206-213.   \nZhao L W, Zhao W Z.2O14.Evapotranspiration of an oasis-deserttransition zone in the midle streamof Heihe River, Northwest China. Journal of Arid Land, 6(5): 529-539. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

@@ -1,0 +1,753 @@
+[
+    {
+        "type": "text",
+        "text": "Competition and Coexistence of Order Parameters in Holographic Multi-Band Superconductors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rong-Gen Cai $^ { 1 * }$ ，Li Lilt，Li-Fang Li $^ { 1 2 \\ddagger }$ ， Yong-Qiang Wang3\\$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 100190, China. （204 $^ 2$ State Key Laboratory of Space Weather,   \nCenter for Space Science and Applied Research, Chinese Academy of Science, Beijing 100190, China.   \n$^ 3$ Institute of Theoretical Physics, Lanzhou University, Lanzhou, 730000, China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "July 17,2013 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We construct a holographic multi-band superconductor model with each complex scalar field in the bulk minimally coupled to a same gauge field. Taking into account the back reaction of matter fields on the background geometry and focusing on the two band case with two scalar order parameters, we find that depending on the strength of the back reaction and the charge ratio of the two bulk scalars, five different superconducting phases exist, and three of five phases exhibit some region where both orders coexist and are thermodynamically favored. The other two superconducting phases have only one scalar order. The model exhibits rich phase structure and we construct the full diagram for the five superconducting phases. Our analysis indicates that the equivalent attractive interaction mediated by gravity between the two order parameters tends to make the coexistence of two orders much more easy rather than more difficult. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contents ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Introduction 2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 The Holographic Model 5   \n2.1The ansatz and equations of motion 6   \n2.2Boundary conditions 7 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3Thermodynamics and Phase Transition 8 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ə.1 Ineroaynacs 1U 3.2Superconducting Phase Transition 12 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 Conductivity 14 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5Parameter Space and Phase Diagram 15 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ";Conclusion and further discussions 20 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The AdS/CFT correspondence [1, 2, 3] provides us a useful tool to study strongly coupled systems holographically in a dual framework through an appropriate gravity theory living in a higher dimensional space-time. One of the most studied objects is the so-called holographic superconductor. The first holographic model was constructed in refs. [4， 5]. Since the condensed field is a scalar field dual to a scalar operator in the field theory side, it is a s-wave model. Such holographic approach was also generalized to the p-wave case [6] and d-wave case [7, 8]. The basic idea is as follows. Some matter fields, such as gauge fields and/or scalar fields,are added into the bulk. One of them considered as“hair” of the background solution plays the role of order parameter in the dual boundary system. As one tunes some parameters, such as temperature and chemical potential, the background solution without hair wil become unstable and new stable solution with “hair” appears. This process in the bulk mimics the superconducting phase transition in the condensed matter theory. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Such simple holographic setups indeed uncover some basic properties of the real high $T _ { c }$ superconducting materials. Nevertheless,most of studies existing in the literature have been based on a specific setup where the dynamics in the bulk involves only one order parameter. It is desirable to generalize the single order parameter case to multi order parameter case. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The high $T _ { c }$ superconducting systems, which are thought to be controlled by strongly coupled interactions, indeed involve various orders, such as magnetic ordering and superconductivity， see for example, ref. [9]. The holographic correspondence provides us a convenient way to investigate the interaction for these orders by simply introducing dual fields in the bulk as well as appropriate couplings among them. The authors of ref. [10] studied the competition between diferent orders in the holographic approach. They described a superconducting order by a charged scalar field and a magnetic order by a neutral scalar. It was showed that the appearance of one order inhibits the other one. But when the interactions between the bulk fields are repulsive enough both orders can coexist and even enhance each other. The authors of ref.[11] focused on the unbalanced holographic model by introducing two scalars charged under two $\\mathrm { U } ( 1 )$ gauge fields respectively. One accounts for the electrically superconducting order and the other indicates the electrically neutral magnetization. It was shown that the competition and enhancement between the two orders correspond to the attractive and repulsive interaction between the two scalar fields. In addition, the competition between superconducting and spatially modulated phases was exhibited in ref. [12]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, some new high $T _ { c }$ materials such as Magnesium diboride $( M g B _ { 2 } )$ and the iron pnictides $( L a F e A s O _ { 1 - x } F _ { x }$ $L i F e A s$ ， $F e _ { 1 + x } S e$ , etc.） are characterized by multi Fermi surfaces and theoretical investigations have been based on multi-band models initiated from refs. [13, 14,15]. Such multi-band case can be phenomenologically described by the Ginzburg-Landau (GL) theory with several complex scalar fields minimally coupled to one gauge field. Within this framework, some significant properties of multi-band superconductors have been revealed, such as fractional fux vortices and vortex bound states (see, for example,refs.[16,17, 18]). One can build a holographic superconductor model involving more than one order parameters by straightforwardly generalizing the GL theory to the gravity side. Concretely, one can consider a gravity theory with a negative cosmological constant, a gauge field as well as some complex scalar fields. The latter's condensates trigger the superconducting phase transition. In this setup,al scalar fields in the bulk are charged under a same U(1) gauge field. Of course, there also exist other ways constructing holographic superconductor models with more than one order parameter. Treating three bulk scalars as the fundamental representation of SO(3) group, the authors of ref. [19] studied a multi-band superconductor model, while regarding two bulk scalar fields as the fundamental representation of U(2） group, the authors of ref. [20] investigated a $S ^ { + / - }$ （204 two-band superconductor model, where the AC conductivity exhibits a mid-infrared peak which is argued to be related to the inter-band interaction in iron-based superconductors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The holographic model involving two competing scalar fields coupled to a single gauge field was first discussed in ref. [10],where the bulk scalar fields carry different charges and masses, but have no direct interaction between them. The authors of ref.[10] worked in the probe limit. Namely, they neglected the back reaction of matter fields on the background geometry, the planar Schwarzschild-AdS black hole. It was found that once a scalar field condenses, it will hinder the condensation of the other one.1 Depending on model parameters,there are two different cases. The first case is that once a scalar condenses, the second one will never condense. The second case is more interesting. One scalar feld first condenses,there the superconducting transition happens. When one lowers temperature, the second scalar begins to condense,resulting in a phase where the both scalar fields condense. When one further lowers temperature, the first condensation quickly goes to zero at a certain temperature and the second condensation goes to a finite value. In the superconducting phases,there exist three diferent cases: first scalar condenses only, the second scalar condenses only and both condense. One has to determine which case is thermodynamically favored. This can be done by comparing the free energy for each case. In addition, the probe limit is expected to be valid only near the critical point.² In order to reach a more persuasive conclusion, one needs to consider the back reaction of matter fields on the bulk geometry. It was argued in ref.[10] that once the back reaction of matter fields is taken into account, the coexistence region of the two orders will shrink. However, our study below shows that the back reaction will reveal more rich phase structure of the model. In addition,let us mention here that in a similar model with same mass and charge for two scalar felds,it was found [22] that in the probe limit, there is an unexpected gapless excitation with quadratic dispersion in the quasinormal mode spectrum. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We will construct a holographic multi-band superconductor model involving some scalar hairs in (3+1) dimensional anti-de Sitter space-time in a rather succinct way by generalizing multi-band GL theories to the gravity side. The back reaction of matter fields will be considered. As a concrete example, we will consider the two band case. The direct coupling between the two scalar felds, in some sense,can be effectively accountable with a simple shift of the effective mass of bulk scalars, which would not change the system very much [11]. However, the situation is much more complicated by including the back reaction,since the effect of gravitational interaction can not be simply considered as only a shift of the effective mass for each bulk scalar. Therefore, we will ignore the direct coupling between two scalar fields. Of course,one of motivations of this simple setup is to compare with the results in [10l and to see clearly the effect of the back reaction of matter fields. Here it is worth pointing out that the two scalars have an effective attractive interaction through gravity and this attractive interaction becomes stronger and stronger as one increases the strength of the back reaction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our study, we can indeed find the coexistence region of two order parameters similar to the one studied in the probe limit [10]. Nevertheless,we also find two additional new phases in which the two order parameters always coexist once they appear inside the superconducting phase. As we increase the strength of the back reaction, our numerical calculation reveals that， for suitable parameters, the region of coexistence phases will enlarge,rather than shrink,and finally the two order parameters always coexist as one increases the back reaction. For both new phases, one of the scalar orders first condenses inducing the superconducting phase transition. Then the other order emerges at a lower temperature, which triggers a new phase transition within the superconducting phase. The similar new phase was also observed in a top down setting in ref. [23]. The calculations of the conductivity and free energy uncover that the phase with two order parameters coexisting is indeed a superconducting phase and is thermodynamically favored. Adopting an eigenvalue method similar to the one in ref. [24], we construct the parameter space for the coexistence phases. The system exhibits rich phase structure. Apart from the normal phase,we have totally five different superconducting phases. It is clear that including the back reaction is important to complete the full phases of the two band model. The full phase diagram for the five superconducting phases is constructed in figure 11. Depending on the model parameters, i.e.， the strength of the back reaction and the charge ratio between the two bulk scalars, each phase is the most thermodynamically stable phase in some region of the parameter space. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows. In section 2, we introduce the holographic model, obtain the equations of motion of the system and specify the boundary conditions to be satisfied. In section 3,we discuss the details of the phase transitions and study thermodynamic properties of the system. We calculate the optical conductivity in section 4 to make sure that the new phases indeed describe superconducting state. We study, in section 5, the parameter space from which one can know the existence range of the coexistence phases, and construct the full phase diagram for all superconducting phases. The conclusion and further discussions are included in section 6. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 The Holographic Model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we will study a holographic superconductor model with $N$ scalar hairs in $( 3 + 1 )$ dimensional anti-de Sitter space-time. The action reads ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle { \\mathrm { \\Pi } ^ { \\mathrm { * } } } = \\frac { 1 } { 2 \\kappa ^ { 2 } } \\displaystyle { \\int } d ^ { 4 } x \\sqrt { - g } [ \\mathcal { R } + \\frac { 6 } { L ^ { 2 } } - \\frac { 1 } { 4 } F _ { \\mu \\nu } F ^ { \\mu \\nu } + \\sum _ { k = 1 } ^ { N } ( - | \\nabla \\psi _ { k } - i e _ { k } A \\psi _ { k } | ^ { 2 } - m _ { k } ^ { 2 } | \\psi _ { k } | ^ { 2 } ) - \\mathcal { V } _ { i n } F _ { \\mu \\nu } F ^ { \\mu \\nu } ] ^ { \\mathrm { \\Upsilon } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $L$ is the AdS radius, $\\kappa ^ { 2 } \\equiv 8 \\pi G$ is related to the gravitational constant in the bulk. $e _ { k }$ and $m _ { k }$ 0 $k = 1 , 2 , . . . , N )$ are the charge and mass of the scalar field $\\psi _ { k }$ , respectively. The term $\\nu _ { i n t a c t }$ denotes the possible interaction among bulk matter fields. $F _ { \\mu \\nu } = \\nabla _ { \\mu } A _ { \\nu } - \\nabla _ { \\nu } A _ { \\mu }$ （204号 is field strength for the $\\mathrm { U } ( 1 )$ potential $A _ { \\mu }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We can see that the system depends on the mass $m _ { k }$ and charge $e _ { k }$ of each scalar field （204号 $\\psi _ { k }$ . However, one can perform a rescaling of the type $A _ { \\mu } \\to { \\textstyle \\frac { 1 } { e _ { 2 } } } A _ { \\mu } , \\psi _ { k } \\to { \\textstyle \\frac { 1 } { e _ { 2 } } } \\psi _ { k }$ to set the charge of the scalar field $\\psi _ { 2 }$ to unity. Although we have $N$ scalar fields corresponding to $N$ order parameters in the dual boundary theory, the superconducting phase appears as long as one of the scalars has a nontrivial configuration. We are interested in the dynamics and mutual interaction among different orders. As a concrete example,we limit ourselves to the case with $N = 2$ . The model we will study in this paper is described by the following action ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { S = \\displaystyle \\frac { 1 } { 2 \\kappa ^ { 2 } } \\int d ^ { 4 } x \\sqrt { - g } [ \\mathcal { R } + \\frac { 6 } { L ^ { 2 } } + \\frac { 1 } { e _ { 2 } ^ { 2 } } \\mathcal { L } _ { m } ] , } \\\\ { \\mathcal { L } _ { m } = - \\displaystyle \\frac { 1 } { 4 } F _ { \\mu \\nu } F ^ { \\mu \\nu } - | D 1 \\psi _ { 1 } | ^ { 2 } - m _ { 1 } ^ { 2 } | \\psi _ { 1 } | ^ { 2 } - | D 2 \\psi _ { 2 } | ^ { 2 } - m _ { 2 } ^ { 2 } | \\psi _ { 2 } | ^ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where we have defined $\\begin{array} { r } { D 1 _ { \\mu } = \\nabla _ { \\mu } - i \\frac { \\epsilon _ { 1 } } { e _ { 2 } } A _ { \\mu } } \\end{array}$ and $D 2 _ { \\mu } = \\nabla _ { \\mu } - i A _ { \\mu }$ . The parameter $e _ { 2 }$ controls the strength of the back reaction and $e _ { 1 } / e _ { 2 }$ is the effective charge of $\\psi _ { 1 }$ or the ratio of two scalar charges. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The equations of motion for the action(2） read ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { D 1 ^ { \\mu } D 1 _ { \\mu } \\psi _ { 1 } - m _ { 1 } ^ { 2 } \\psi _ { 1 } } \\\\ & { } & { D 2 ^ { \\mu } D 2 _ { \\mu } \\psi _ { 1 } - m _ { 2 } ^ { 2 } \\psi _ { 2 } } \\\\ & { } & { \\nabla ^ { \\mu } F _ { \\mu \\nu } = i \\displaystyle \\frac { e _ { 1 } } { e _ { 2 } } [ \\psi _ { 1 } ^ { * } D 1 _ { \\mu } \\psi _ { 1 } - \\psi _ { 1 } D 1 _ { \\mu } ^ { * } \\psi _ { 1 } ^ { * } ] + i [ \\psi _ { 2 } ^ { * } D 2 _ { \\mu } \\psi _ { 2 } - \\psi _ { 2 } D 2 _ { \\mu } \\psi _ { 2 } - \\psi _ { 2 } ] } \\\\ & { } & { g _ { \\mu \\nu } - \\displaystyle \\frac { 3 } { L ^ { 2 } } g _ { \\mu \\nu } = \\displaystyle \\frac { 1 } { 2 e _ { 2 } ^ { 2 } } F _ { \\mu \\lambda } F _ { \\nu } ^ { \\lambda } + \\displaystyle \\frac { 1 } { 2 e _ { 2 } ^ { 2 } } [ ( D 1 _ { \\mu } \\psi _ { 1 } D 1 _ { \\nu } ^ { * } \\psi _ { 1 } ^ { * } + D 2 _ { \\mu } \\psi _ { 2 } D 2 _ { \\nu } ^ { * } \\psi _ { 2 } ^ { * } ) + \\mu  \\nu ] + \\displaystyle \\frac { g _ { \\mu \\nu } } { 2 e _ { 2 } ^ { 2 } } [ ( D 1 _ { \\mu } \\psi _ { 1 } - \\psi _ { 1 } ) ( D 1 _ { \\mu } ^ { * } \\psi _ { 1 } ^ { * } + D 2 _ { \\mu } \\psi _ { 2 } + D 2 _ { \\nu } \\psi _ { 2 } ^ { * } \\psi _ { 2 } ^ { * } ) ] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We would like to find static hairy black hole solutions to these equations, which mimic the superconducting phase. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 The ansatz and equations of motion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The hairy black hole solution is assumed to take the following metric form ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = - f ( r ) e ^ { - \\chi ( r ) } d t ^ { 2 } + \\frac { d r ^ { 2 } } { f ( r ) } + r ^ { 2 } ( d x ^ { 2 } + d y ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "together with homogeneous matter fields ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\psi _ { 1 } = \\psi _ { 1 } ( r ) , \\quad \\psi _ { 2 } = \\psi _ { 2 } ( r ) , \\quad A = \\phi ( r ) d t .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The horizon $r _ { h }$ is determined by $f ( r _ { h } ) = 0$ and the temperature of the black hole is given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\frac { f ^ { \\prime } ( r _ { h } ) e ^ { - \\chi ( r _ { h } ) / 2 } } { 4 \\pi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One can use the $\\mathrm { U } ( 1 )$ gauge symmetry to set $\\psi _ { 1 }$ to be real. After using the $r$ component of Maxwell's equations we can also safely choose $\\psi _ { 2 }$ to be real. We will work in the unites where $L = 1$ . Then, the independent equations of motion in terms of the above ansatz are deduced as follows ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\psi _ { 1 } ^ { \\prime \\prime } + ( \\frac { f ^ { \\prime } } { f } - \\frac { \\chi ^ { \\prime } } { 2 } + \\frac { 2 } { r } ) \\psi _ { 1 } ^ { \\prime } + ( \\frac { c _ { 1 } ^ { 2 } } { c _ { 2 } ^ { 2 } } \\frac { \\phi ^ { 2 } c ^ { 3 } } { f ^ { 2 } } - \\frac { m _ { 1 } ^ { 2 } } { f } ) \\psi _ { 1 } = } \\\\ { \\psi _ { 2 } ^ { \\prime \\prime } + ( \\frac { f ^ { \\prime } } { f } - \\frac { \\chi ^ { \\prime } } { 2 } + \\frac { 2 } { r } ) \\psi _ { 2 } ^ { \\prime } + ( \\frac { \\phi ^ { 2 } c ^ { 3 } } { f ^ { 2 } } - \\frac { m _ { 2 } ^ { 2 } } { f } ) \\psi _ { 2 } = } \\\\ { \\phi ^ { \\prime \\prime } + ( \\frac { \\chi ^ { \\prime } } { 2 } + \\frac { 2 } { r } ) \\phi ^ { \\prime \\prime } - \\frac { 2 } { f } ( \\frac { e _ { 1 } ^ { 2 } } { e _ { 2 } ^ { 2 } } \\psi _ { 1 } ^ { 2 } + \\psi _ { 2 } ^ { 2 } ) \\phi = } \\\\ { \\frac { e ^ { \\prime } } { c _ { 2 } ^ { 2 } } ( \\psi _ { 1 } ^ { \\prime 2 } + \\psi _ { 2 } ^ { \\prime 2 } ) + \\frac { r e ^ { 2 } c _ { 3 } \\phi ^ { 2 } } { 4 e _ { 2 } ^ { 2 } f } + \\frac { r } { 2 e _ { 2 } ^ { 2 } f } ( m _ { 1 } ^ { 2 } \\psi _ { 1 } ^ { 2 } + m _ { 2 } ^ { 2 } \\psi _ { 2 } ^ { 2 } ) + \\frac { r e ^ { 2 } c _ { 3 } ^ { 2 } } { 2 e _ { 2 } ^ { 2 } f ^ { 2 } } ( \\frac { e _ { 1 } ^ { 2 } } { e _ { 2 } ^ { 2 } } \\psi _ { 1 } ^ { 2 } + \\psi _ { 2 } ^ { 2 } ) - \\frac { 3 r } { f } + \\frac { 1 } { r } = } \\\\ { \\chi ^ { \\prime } + \\frac { r } { e _ { 2 } ^ { 2 } } ( \\psi _ { 1 } ^ { \\prime 2 } + \\psi _ { 2 } ^ { \\prime 2 } ) + \\frac { r e ^ { 2 } c _ { 3 } ^ { 2 } } { e _ { 2 } ^ { 2 } f ^ { 2 } } ( \\frac { e _ { 1 } ^ { 2 } } { e _ { 2 } ^ { 2 } } \\psi _ { 1 } ^ { 2 } + \\psi _ { 2 } ^ { \\prime } ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where a prime denotes the derivative with respect to $r$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 Boundary conditions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to find the solutions for all the five functions $\\mathcal { F } = \\{ \\psi _ { 1 } , \\psi _ { 2 } , \\phi , f , \\chi \\}$ one must specify suitable boundary conditions at both AdS boundary $r  \\infty$ and at the horizon $r = r _ { h }$ . In addition to $f ( r _ { h } ) = 0$ , one must require $\\phi ( \\boldsymbol { r } _ { h } ) = 0$ in order for $g ^ { \\mu \\nu } A _ { \\mu } A _ { \\nu }$ to be finite at the horizon. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to match the asymptotical AdS boundary, the general falloff of the matter and metric fields near the boundary $r  \\infty$ should behave as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\phi = \\mu - \\frac { \\rho } { r } + \\ldots , \\quad \\psi _ { 1 } = \\frac { \\psi _ { 1 - } } { r ^ { \\Delta _ { 1 - } } } + \\frac { \\psi _ { 1 + } } { r ^ { \\Delta _ { 1 + } } } + \\ldots , \\quad \\psi _ { 2 } = \\frac { \\psi _ { 2 - } } { r ^ { \\Delta _ { 2 - } } } + \\frac { \\psi _ { 2 + } } { r ^ { \\Delta _ { 2 + } } } + \\ldots , } \\\\ { \\displaystyle f = r ^ { 2 } + \\frac { \\epsilon } { r } + \\ldots , \\quad \\chi = 0 + \\ldots , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where△i± = 3±√9+4m² $\\displaystyle i = 1 , 2$ ). According to the AdS/CFT correspondence, we impose （20 $\\psi _ { i - } = 0$ ，since we want the $\\mathrm { U } ( 1 )$ symmetry to be broken spontaneously. Following the AdS/CFT dictionary, up to a normalization, the coefficients $\\mu$ ， $\\rho$ and $\\psi _ { i + }$ are interpreted as chemical potential, charge density and the expectation value of the scalar operator $\\mathcal { O } _ { i }$ in the dual field theory, respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regularity of the solution at the horizon $ { \\boldsymbol { r } } =  { \\boldsymbol { r } } _ { h }$ requires that all our functions have finite values and admit a Taylor series expansion in terms of $\\left( r - r _ { h } \\right)$ as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal F = \\mathcal F ( r _ { h } ) + \\mathcal F ^ { \\prime } ( r _ { h } ) ( r - r _ { h } ) + \\cdots .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "By plugging the expansion (9) into (7),one can find that there are five independent parameters at the horizon $\\{ r _ { h } , \\psi _ { 1 } ( r _ { h } ) , \\psi _ { 2 } ( r _ { h } ) , \\phi ^ { \\prime } ( r _ { h } ) , \\chi ( r _ { h } ) \\}$ . Note that the equations of motion (7) have two scaling symmetries ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ^ { - \\chi }  \\lambda ^ { 2 } e ^ { - \\chi } , \\phi  \\lambda \\phi , t  \\lambda ^ { - 1 } t ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr \\to \\lambda r , \\quad ( t , x , y ) \\to \\lambda ^ { - 1 } ( t , x , y ) , \\quad f \\to \\lambda ^ { 2 } f , \\quad \\phi \\to \\lambda \\phi .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Taking advantage of the two scaling symmetries, we can first set $\\{ r _ { h } = 1 , \\chi ( r _ { h } ) = 0 \\}$ for performing numerics. After solving the coupled differential equations, we should use the first symmetry again to satisfy the asymptotic condition $\\chi ( \\infty ) = 0$ .Thus we have three independent parameters $\\{ \\psi _ { 1 } ( r _ { h } ) , \\psi _ { 2 } ( r _ { h } ) , \\phi ^ { \\prime } ( r _ { h } ) \\}$ , where two of them will be chosen as shooting parameters to match the source free conditions, i.e, $\\psi _ { 1 - } = 0$ and $\\psi _ { 2 - } = 0$ . After solving the set of equations,we can obtain the condensate $\\langle { \\mathcal { O } } _ { i } \\rangle$ , chemical potential $\\mu$ and charge density $\\rho$ by reading off the corresponding coefficients in (8)， respectively.3 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The normal phase in the dual field theory is characterized by the vanishing vacuum expectation value of both condensates $\\mathcal { O } _ { 1 }$ and $\\mathrm { \\mathcal { O } _ { 2 } }$ ， which corresponds to vanishing scalar fields $\\psi _ { 1 }$ and $\\psi _ { 2 }$ in the bulk. The gravity background describing the normal phase is just the Reissner-Nordstrom-AdS black hole with planar symmetry ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi ( r ) = \\mu ( 1 - \\frac { r _ { h } } { r } ) , \\quad \\psi _ { 1 } ( r ) = \\psi _ { 2 } ( r ) = 0 , \\quad f ( r ) = r ^ { 2 } ( 1 - \\frac { r _ { h } ^ { 3 } } { r ^ { 3 } } ) + \\frac { r _ { h } ^ { 2 } } { 4 r ^ { 2 } } \\frac { \\mu ^ { 2 } } { e _ { 2 } ^ { 2 } } ( 1 - \\frac { r } { r _ { h } } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { h }$ is the black hole horizon and $\\mu$ is the chemical potential of the black hole. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3 Thermodynamics and Phase Transition ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As we can see from (2),the two band model is controlled by four model parameters, i.e., $m _ { 1 } ^ { 2 }$ ， $m _ { 2 } ^ { 2 }$ ， $e _ { 2 }$ ，and $e _ { 1 } / e _ { 2 }$ .We will choose $m _ { 1 } ^ { 2 } = 0$ and $m _ { 2 } ^ { 2 } = - 2$ in this paper.4 Following the study in [10], one may expect that the model admits three different superconducting phases. The first superconducting phase corresponds to the case with $\\psi _ { 1 } \\neq 0$ and $\\psi _ { 2 } = 0$ （204号 (Phase-I). The second superconducting phase corresponds to the case with $\\psi _ { 2 } \\neq 0$ and （204号 $\\psi _ { 1 } = 0$ (Phase-II). The third superconducting phase admits the region where both of the scalars condense. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The first two cases with only one scalar condensing were discussed in ref.[5]. The condensate for a single scalar hair as a function of temperature with a fixed chemical potential for such two cases is drawn in figure 1. The condensate curves are very similar to each other for different parameters. As we lower temperature, the normal phase becomes unstable to developing scalar hair at a certain critical temperature $T _ { c }$ . The critical temperature $T _ { c }$ will decrease if we increase the strength of the back reaction. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c85088de30bc0f4922b1c845585cb2eb6f979b4562213dc47dd85672c1611df1.jpg",
+        "img_caption": [
+            "Figure 1: The condensate as a function of temperature for Phase-I with $m _ { 1 } ^ { 2 } = 0$ in the left plot and Phase-II with $m _ { 2 } ^ { 2 } = - 2$ in the right plot,respectively. The green curves correspond to $e _ { 1 } / e _ { 2 } = 2$ and $e _ { 2 } = 4$ ，and the purple lines correspond to $e _ { 1 } / e _ { 2 } = 2$ and $e _ { 2 } = 2$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/08a5724e4f4d445189d9ff1b01d4fc6bd0d63cabc4a4f17b32268fcd0dd65bfa.jpg",
+        "img_caption": [
+            "Figure 2: The condensate as a function of temperature for Phase-C. The red curve is for （204号 $\\psi _ { 1 }$ ,while the blue one is for $\\psi _ { 2 }$ . We set $e _ { 1 } / e _ { 2 } = 1 . 9 5$ and $e _ { 2 } = 4$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Except for these two cases with a single scalar condensate,we find other three kinds of condensate behaviors where the model admits the coexistence region of two scalar condensates.The first one is the case uncovered in the probe limit in ref.[10l. This superconducting phase denoted by Phase-C is drawn in figure 2. One can see clearly from the figure that as we lower temperature, the scalar $\\psi _ { 1 }$ first condenses at $T _ { c }$ where the superconducting phase transition happens; when we continue lowering temperature to a certain value, say （204 $T _ { 2 }$ ，the scalar $\\psi _ { 2 }$ begins to condense，while the condensate of $\\psi _ { 1 }$ decreases,resulting in the phase with both orders; if one further lowers temperature,the first condensate quickly goes to zero at a temperature, say, $' _ { 3 }$ ； when temperature is lower than $T _ { 3 }$ ，there exists only the condensate of $\\psi _ { 2 }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The second case is presented in the left plot of figure 3. We can see from the plot that the condensate of $\\psi _ { 1 }$ first happens at the critical temperature $T _ { c }$ ； when one lowers temperature, the condensate of $\\psi _ { 2 }$ emerges at a temperature,say $' 2$ ；if one continues lowering temperature, the condensate of $\\psi _ { 2 }$ increases while $\\psi _ { 1 }$ decreases,but the latter will never go to zero. In this case,when temperature is less than $T _ { 2 }$ ， both orders always coexist. We denote this case by Phase-A. Depending on the back reaction, the inverse is also true: the condensate of $\\psi _ { 1 }$ emerges following the condensate of $\\psi _ { 2 }$ ，and then both orders are always present. This case is labeled as Phase-B drawn in the right plot of figure 3. Whether these three coexistence phases make physical sense depends on whether they are thermodynamically favored in their own parameter spaces. Here let us mention that in our setup,for a given $e _ { 2 }$ , the critical temperature $T _ { c }$ for Phase-B is fixed,while the critical temperature $T _ { c }$ for Phase-A increases as one increases the value of $e _ { 1 } / e _ { 2 }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab77e0663643bd17e945902990d5877ba04d0b7508dd82a8d602d5c1064e02d0.jpg",
+        "img_caption": [
+            "Figure 3: The condensate as a function of temperature for Phase-A with $e _ { 1 } / e _ { 2 } = 1 . 9 5$ （20 and $e _ { 2 } = 2$ in the left plot and Phase-B with $e _ { 1 } / e _ { 2 } = 1 . 9$ and $e _ { 2 } = 1 . 5$ in the right plot, respectively. The red curves correspond to $\\psi _ { 1 }$ , and the blue curves correspond to $\\psi _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1 Thermodynamics ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Thus we have totally five different superconducting phases in our model. In order to determine which phase is the thermodynamically favored phase in some parameter space, we should calculate free energy of the system for each phase. We will work in grand canonical ensemble in this paper, where the chemical potential is fixed. In gauge/gravity duality the grand potential $\\Omega$ of the boundary thermal state is identified with temperature times the on-shell bulk action with Euclidean signature. The Euclidean action must include the Gibbons-Hawking boundary term for a well-defined Dirichlet variational principle and further a surface counter term for removing divergence ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { 2 \\kappa ^ { 2 } S _ { E u c l i d e a n } = - \\displaystyle \\int d ^ { 4 } x \\sqrt { g } [ \\mathcal { R } + \\frac { 6 } { L ^ { 2 } } - \\frac { 1 } { e _ { 2 } ^ { 2 } } \\mathcal { L } _ { m } ] + \\displaystyle \\int _ { r \\to \\infty } d ^ { 3 } x \\sqrt { h } ( - 2 \\mathcal { K } + \\frac { 4 } { L } ) } \\\\ { + \\displaystyle \\frac { 1 } { e _ { 2 } ^ { 2 } } \\displaystyle \\int _ { r \\to \\infty } d ^ { 3 } x \\sqrt { h } ( \\frac { \\bigtriangleup _ { 1 + } - 3 } { L } \\psi _ { 1 } ^ { 2 } + \\frac { \\bigtriangleup _ { 2 + } - 3 } { L } \\psi _ { 2 } ^ { 2 } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "where $h$ is the induced metric on the boundary $r  \\infty$ ,and $\\mathcal { K }$ is the trace of the extrinsic curvature. By using of the equations of motion (7) and the asymptotical expansion of matter and metric functions near the AdS boundary, the grand potential $\\Omega$ can be expressed as ",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 2 \\kappa ^ { 2 } \\Omega } { V _ { 2 } } = \\epsilon ,\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "with $V _ { \\mathrm { 2 } } = \\int d x d y$ . More specifically, for the normal phase shown in (12)，one has $\\epsilon =$ $\\begin{array} { r } { - r _ { h } ^ { 3 } - \\frac { r _ { h } } { 4 } \\frac { \\mu ^ { 2 } } { e _ { 2 } ^ { 2 } } } \\end{array}$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The free energy corresponding to phase-A is drawn in figure 4. Since in this case, we has three additional solutions from our equations of motion (7), corresponding to the normal phase, Phase-I and Phase-II. In order to make sure whether phase-A is the most thermodynamically stable phase,we also plot the free energy of these three phases in the same figure. Indeed, the three superconducting phases have lower free energy than the normal phase. Furthermore,Phase-A does have the lowest free energy among the three superconducting phases, indicating that once Phase-A appears, it is thermodynamically favored. Comparing Phase-B with Phase-A, the only difference is that $\\psi _ { 2 }$ condenses before （204号 $\\psi _ { 1 }$ . Therefore, the free energy of Phase-B also dominates once it appears. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The free energy corresponding to Phase-C is schematically drawn in figure 5. Similar to the above discussion,we also present free energy for other allowable solutions in the same figure. As we know, in Phase-C, there is only a narrow window admitting the two orders to coexist. Outside this region,it reduces to phases with only a single order. More specifically, at the beginning of the superconducting transition, there is no condensate of $\\psi _ { 2 }$ ， so PhaseC coincides with Phase-I. As $\\psi _ { 2 }$ begins to condense at a lower temperature, the free energy of Phase-C becomes lower than Phase-I as well as Phase-II. For a much lower temperature, （20 $\\psi _ { 1 }$ vanishes and Phase-C coincides with Phase-II then. All in all, Phase-C is the most thermodynamically favored phase over other possble phases including the normal phase, Phase-I and Phase-II. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa0c95f90a1f66f98bee05cb6e3db185687869e64b6ad4b5207936782566e47d.jpg",
+        "img_caption": [
+            "Figure 4: The free energy as a function of temperature for Phase-A, denoted by solid red curve. We also plot other possible phases in the same figure.The black dotted line is from the normal phase and the green dashed one corresponds to Phase-I. The curve in the insert is the difference of free energy between Phase-A and Phase-II. We choose $e _ { 1 } / e _ { 2 } = 2$ and $e _ { 2 } = 2$ . The critical superconducting temperature where Phase-A appears in this case is （204号 $T _ { c } \\simeq 0 . 0 4 6 9 \\mu$ ,which is also the critical temperature of Phase-I. The temperature where $\\psi _ { 2 }$ begins to condense for Phase-A is about $0 . 0 3 0 7 \\mu$ ，and the critical temperature of Phase-II is about $0 . 0 4 5 1 \\mu$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/1375db63777051604351d86dc187104077d6bbd7e898107412b8831e50b7fece.jpg",
+        "img_caption": [
+            "Figure 5: The typical configuration for the free energy as a function of temperature for Phase-C labeled as the solid red curve. In this case,the equations of motion also admit other three types of solutions,i.e., the normal phase (dotted black curve), Phase-I (dashed green curve) and Phase-II (solid blue curve). There are four special temperature denoted as $T _ { c }$ ， $T _ { 1 }$ ， $T _ { 2 }$ and $T _ { 3 }$ ， corresponding to the critical temperature for the superconducting transition, the critical temperature for Phase-I, the temperature at which $\\psi _ { 2 }$ begins to appear in Phase-C,and the temperature where $\\psi _ { 1 }$ goes to zero in Phase-C, respectively. Phase-C and Phase-I coincide as ${ \\mathit { I } } _ { 2 } ^ { \\prime } < { \\mathit { I } } ^ { \\prime } < { \\mathit { I } } _ { c } ^ { \\prime }$ , so do Phase-C and Phase-II as $T < T _ { 3 } ^ { \\prime }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2 Superconducting Phase Transition ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As we have seen, for suitable parameters, the solutions with coexisting $\\psi _ { 1 }$ and $\\psi _ { 2 }$ appear, including Phase-A, Phase-B and Phase-C. Furthermore, such phases are thermodynamically favored, compared to the superconducting phases with a single order parameter, i.e., Phase-I and Phase-I. We now give a further discussion for such three thermodynamically stable phases. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Phase-C is similar to the case found in ref.[1O], where the emergency of the scalar $\\psi _ { 2 }$ suppresses the condensate of the scalar $\\psi _ { 1 }$ even although $\\psi _ { 1 }$ condenses before $\\psi _ { 2 }$ . Phase-C exhibits three continuous phase transitions. It can be seen clearly from figure 6,where the charge density versus temperature is plotted, there exist three particular points at which the derivative of the charge density with respect to temperature is discontinuous, indicating a second order transition. The one with the highest special temperature is the critical point for the superconducting phase transition，while the remaining two points inside the superconducting phase. We have checked that the entropy of the black hole solution as a function of temperature also exhibits the same discontinuity at these special points. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f951cd7cbdcd141e5711178183568f8420d9da4bd546be3e14d9cdb4753447f.jpg",
+        "img_caption": [
+            "Figure 6: The charge density as a function of temperature for Phase-C. The red curve is for the normal phase, while the blue one corresponds to the superconducting phase. We set $e _ { 1 } / e _ { 2 } = 1 . 9 5$ and $e _ { 2 } = 4$ . There are three special temperatures at which the derivative of charge density with the temperature is discontinuous. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The condensate behaviors and other thermodynamical properties are similar for PhaseA and Phase-B. There exist two transition points in both cases. One is the critical superconducting phase transition and the other within the superconducting phase,which indicates the fact that our system is multi-band. In order to see this clearly, we define the total condensate as $\\langle { \\mathcal O } \\rangle = \\langle { O _ { 1 + } } \\rangle ^ { 1 / \\Delta _ { 1 + } } + \\langle { O _ { 2 + } } \\rangle ^ { 1 / \\Delta _ { 2 + } }$ , and draw $\\langle { \\mathcal { O } } \\rangle$ as a function of temperature in figure 7. As one lowers temperature, $\\langle { \\mathcal { O } } \\rangle$ emerges at the critical superconducting phase transition point， then at a certain temperature inside the superconducting phase it has a sudden increase,where the condensate of the other $\\psi$ appears. Such behavior is very reminiscent of the one in the real multi-band superconductor, see, for example, the figure 3 or figure 12 in ref. [17]. Our discussion can be straightforwardly generalized to the case with $N \\geq 3$ order parameters. For suitable parameters,we believe that the total condensate as a function of temperature would exhibit as many as $N$ sudden increases, indicating appearance of a new order parameter there. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It was argued in ref.[10] that as one considers the back reaction, the coexistence region for two order parameters in Phase-C will shrink. Surprisedly, comparing the two plots in figure 2 and figure 3,one can clearly see that if one increases the strength of the back reaction，the region of coexistence phases will enlarge, rather than shrink and the two order parameters finally always coexist as the back reaction is strong enough. Phase-A and Phase-B are new phases which are not found in the probe limit [10]. In particular, the probe limit analysis uncovered that for the chosen masses,i.e., $m _ { 1 } ^ { 2 } = 0$ and $m _ { 2 } ^ { 2 } = - 2$ ， （204号 $\\psi _ { 1 }$ will never condense if $\\psi _ { 2 }$ condenses firstly. Nevertheless, our results show that it is not the case once the back reaction is taken into account. One can indeed find the Phase-B in the right plot of figure 3,where $\\psi _ { 1 }$ condenses following $\\psi _ { 2 }$ and then both coexist. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In some regions of parameter space, the equations of motion do not admit black hole solutions corresponding to Phase-A， Phase-B and Phase-C, instead what we can obtain is the case with only one scalar condensate,i.e., either Phase-I or Phase-II. For a given temperature, the thermodynamically favored phase is obtained by comparing the free energy of Phase-I and Phase-II. One might expect that either Phase-I or Phase-II is always thermodynamically favored over the other. However,there might be an interesting possiblity that one of the two phases is thermodynamically favored at the beginning,and as we lower temperature, the other phase might become more thermodynamically stable. Thus, the physical state is the competition between Phase-I and Phase-I,and the charge density as well as the entropy will be discontinuous at a certain point inside the superconducting phase,indicating a first order phase transition. In our calculations we have not found such a possibility. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/817e47fece28e11deb63586949665ab8a1443102d01f228a127028705bd41214.jpg",
+        "img_caption": [
+            "Figure 7: The total condensate as a function of temperature for Phase-A. We set $e _ { 1 } / e _ { 2 } = 2$ （204号 and $e _ { 2 } = 2$ . The two special points at $\\begin{array} { r } { T _ { c } ^ { ' } \\simeq 0 . 0 4 8 8 \\mu } \\end{array}$ and $T \\simeq 0 . 0 2 9 8 \\mu$ correspond to the superconducting critical point and the point at which $\\psi _ { 2 }$ begins to emerge in Phase-A, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4 Conductivity ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We have found that there exist five superconducting phases in the holographic two-band model. In order to ensure the system is indeed in a superconducting state and to see whether there are any new phenomena occurring in such a two-band model， we would like to calculate the conductivity $\\sigma$ . Since we move away from the probe limit， we have to consider the fluctuations of $A _ { x }$ and $y _ { t x }$ . Assuming both perturbations have a time dependence of the form $e ^ { - i \\omega t }$ ， we can obtain the equations of motion for $A _ { x }$ and $y _ { t x }$ by linearizing the full equations of motion (7),which read ",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { x } ^ { \\prime \\prime } + ( \\frac { f ^ { \\prime } } { f } - \\frac { \\chi ^ { \\prime } } { 2 } ) A _ { x } ^ { \\prime } + [ \\frac { \\omega ^ { 2 } } { f ^ { 2 } } e ^ { \\chi } - \\frac { 2 } { f } ( \\frac { e _ { 1 } ^ { 2 } } { e _ { 2 } ^ { 2 } } \\psi _ { 1 } ^ { 2 } + \\psi _ { 2 } ^ { 2 } ) ] A _ { x } + \\frac { \\phi ^ { \\prime } } { f } e ^ { \\chi } ( g _ { t x } ^ { \\prime } - \\frac { 2 } { r } g _ { t x } ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { t x } ^ { \\prime } - \\frac { 2 } { r } g _ { t x } + \\frac { A _ { x } } { e _ { 2 } ^ { 2 } } \\phi ^ { \\prime } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Substituting (16) into (15)，we obtain the final equation of motion to calculate the conductivity ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { x } ^ { \\prime \\prime } + ( { \\frac { f ^ { \\prime } } { f } } - { \\frac { \\chi ^ { \\prime } } { 2 } } ) A _ { x } ^ { \\prime } + [ ( { \\frac { \\omega ^ { 2 } } { f ^ { 2 } } } - { \\frac { \\phi ^ { \\prime 2 } } { e _ { 2 } ^ { 2 } f } } ) e ^ { \\chi } - { \\frac { 2 } { f } } ( { \\frac { e _ { 1 } ^ { 2 } } { e _ { 2 } ^ { 2 } } } \\psi _ { 1 } ^ { 2 } + \\psi _ { 2 } ^ { 2 } ) ] A _ { x } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Since the conductivity is related to the retarded two-point function of the $\\mathrm { U } ( 1 )$ current, i.e, $\\begin{array} { r } { \\sigma = \\frac { 1 } { i \\omega } G ^ { R } ( \\omega , \\boldsymbol { k } = 0 ) } \\end{array}$ , we impose the ingoing boundary condition near the horizon ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { x } = ( r - r _ { h } ) ^ { - \\frac { i \\omega } { 4 \\pi T } } [ a _ { 0 } + a _ { 1 } ( r - r _ { h } ) + a _ { 2 } ( r - r _ { h } ) ^ { 2 } + \\cdots ] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "with $u _ { 0 } , u _ { 1 } , u _ { 2 }$ being constants. The gauge field $A _ { x }$ near the boundary $r  \\infty$ falls off as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { x } = A ^ { ( 0 ) } + \\frac { A ^ { ( 1 ) } } { r } + \\cdot \\cdot \\cdot .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "According to the AdS/CFT dictionary, the retarded Green function can be read as $G ^ { R } =$ 2K²A,from which one can obtain the conductivity ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( \\omega ) = \\frac { 1 } { i \\omega } G ^ { R } ( \\omega , k = 0 ) = \\frac { 1 } { 2 \\kappa ^ { 2 } e _ { 2 } ^ { 2 } } \\frac { A ^ { ( 1 ) } } { i \\omega A ^ { ( 0 ) } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The optical conductivity as a function of frequency in the region with two order parameters is presented in the left plot of figure 8. For a comparison, we also draw the conductivity for the case with only one order in the right plot of figure 8. We can see clearly that the optical conductivity in two band model behaves qualitatively similar to the model with only one scalar order [5]. In addition, from the Kramers-Kronig relations, one can conclude that the real part of the conductivity has a Dirac delta function at $\\omega = 0$ since the imaginary part has a pole, i.e., $\\operatorname { I m } [ \\sigma ( \\omega ) ] \\sim { \\frac { 1 } { \\omega } }$ ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Parameter Space and Phase Diagram ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The calculations of the free energy and conductivity reveal that the phase with coexistence of two order parameters is indeed a superconducting phase and is thermodynamically stable. More specifically, depending on the model parameters, one gets two kinds of condensate behaviors. One is the case that the order parameter emerging at lower temperature suppresses the condensate of the first scalar, the latter will go to zero quickly (Phase-C). The other is the case that once the two orders appear, they always coexist, including Phase-A and Phase-B. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "It is helpful to construct the parameter space form which one can learn in which region the superconducting orders can coexist. However, to numerically find the solution space where the two superconducting orders coexist is a little difficult. By our shooting method, it is more easy to find the single order phase rather than the phase with two orders. Nevertheless,one can complete this task by just turning the problem around. Focus on the concrete model discussed in our paper, i.e., $m _ { 1 } ^ { 2 } = 0$ and $m _ { 2 } ^ { 2 } = - 2$ , a good starting point is to find the critical valve of the ratio $e _ { 1 } / e _ { 2 }$ such that $T$ is a critical temperature at which （204 $\\psi _ { 1 }$ begins to vanish or emerge. At such a temperature, $\\psi _ { 1 }$ is very small and can be treated as a perturbation on the background where only $\\psi _ { 2 }$ condenses ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/46f4c5d85f9c8157620702a3147d6aa77fbb1693070916930ce6441fed50c6c7.jpg",
+        "img_caption": [
+            "Figure 8: The optical conductivity as a function of frequency at temperature $T = 0 . 0 2 7 3 \\mu$ （204号 for Phase-A (left plot) and Phase-I (right plot),respectively. The red solid line is the real part of the conductivity, while the blue dashed line is the imaginary part of the conductivity. We choose the parameter $e _ { 1 } / e _ { 2 } = 1 . 9 5$ and $e _ { 2 } = 2$ and the critical temperature of Phase-A is $T _ { c } \\simeq 0 . 0 4 6 9 \\mu$ . There is a delta function at the origin for the real part of the conductivity in both cases. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- \\psi _ { 1 } ^ { \\prime \\prime } - ( \\frac { f ^ { \\prime } } { f } - \\frac { \\chi ^ { \\prime } } { 2 } + \\frac { 2 } { r } ) \\psi _ { 1 } ^ { \\prime } + \\frac { m _ { 1 } ^ { 2 } } { f } \\psi _ { 1 } = \\frac { e _ { 1 } ^ { 2 } } { e _ { 2 } ^ { 2 } } \\frac { \\phi ^ { 2 } e ^ { \\chi } } { f ^ { 2 } } \\psi _ { 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "where $\\{ \\phi , f , \\chi \\}$ are functions describing the hairy AdS black hole with only $\\psi _ { 2 }$ nonvanishing. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We demand $\\psi _ { 1 }$ to be regular at the horizon and to fall off as in (8） near the AdS boundary. Then this equation can be considered as an eigenvalue problem with positive eigenvalue $e _ { 1 } ^ { 2 } / e _ { 2 } ^ { 2 }$ . 5The parameter space is presented in figure 9 and figure 10, where different curves correspond to different strengths of back reaction $1 / e _ { 2 } ^ { 2 }$ . Comparing the two figures,we can find that the ratio $e _ { 1 } / e _ { 2 }$ versus the critical temperature at which the solutions with a single scalar $\\psi _ { 2 }$ become unstable to developing new scalar hair behaves differently for large and small back reactions. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 corresponds to the case with large $e _ { 2 }$ , i.e.,small back reaction. The critical ratio $e _ { 1 } / e _ { 2 }$ on the curve for a given $e _ { 2 }$ decreases with respect to temperature,and there is a one-to-one correspondence between each point on the curve and Phase-C. Concretely, in Phase-C, the temperature below which the order $\\psi _ { 1 }$ vanishes is just the temperature given here with the corresponding value of $e _ { 1 } / e _ { 2 }$ that can be read on the curve. One can further find that each curve has a maximum $( e _ { 1 } / e _ { 2 } ) _ { m a x }$ at $T \\approx 0$ as well as a minimum $( e _ { 1 } / e _ { 2 } ) _ { m i n }$ at $T ^ { \\prime } = T _ { m a x } ^ { \\prime }$ ,which means that Phase-C can appear only when the ratio $e _ { 1 } / e _ { 2 }$ （20 is in between them, i.e., $e _ { 1 } / e _ { 2 } \\in [ ( e _ { 1 } / e _ { 2 } ) _ { m i n } , ( e _ { 1 } / e _ { 2 } ) _ { m a x } ]$ For the case $e _ { 1 } / e _ { 2 } > ( e _ { 1 } / e _ { 2 } ) _ { m a x }$ ， Phase-A appears and dominates the system. If we decrease the value $e _ { 1 } / e _ { 2 }$ ， $\\psi _ { 2 }$ will condense before $\\psi _ { 1 }$ . Our eigenvalue method tells us that the superconducting background with $\\psi _ { 2 }$ （20 hair only does not become unstable under the perturbation imposed by $\\psi _ { 1 }$ ，which means $\\psi _ { 1 }$ can never appear inside the condensate of $\\psi _ { 2 }$ . This is just the case denoted as Phase-II. Nevertheless, the case with $\\psi _ { 1 } \\neq 0$ and $\\psi _ { 2 } = 0$ labeled as Phase-I is also the possible phase. Thus,we have two simple phases with only a single order,i.e., Phase-I and Phase-I when $e _ { 1 } / e _ { 2 } < ( e _ { 1 } / e _ { 2 } ) _ { m i n }$ . For a given temperature, the thermodynamically favored state is the consequence of the competition between Phase-I and Phase-II. As we discussed earlier, one of the two phases would always be thermodynamically preferred to the other. And the other possibility is that one of the two phases is firstly thermodynamically favored, then the other phase becomes more thermodynamically favored， which indicates a first order phase transition. However, our numerical calculation rules out the later possibility and the thermodynamically favored state is Phase-II. As one can see, as the strength of the back reaction increases, the value of $( e _ { 1 } / e _ { 2 } ) _ { m i n }$ and $( e _ { 1 } / e _ { 2 } ) _ { m a x }$ for each curve increases and decreases, respectively, which indicates that the attractive interaction mediated by gravity reduces the parameter space of Phase-C, but enlargers the parameter space of Phase-A. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/04fef55a238d04c5266b88112339202fcc114161a5d9f7bc86125a756dd78e35.jpg",
+        "img_caption": [
+            "Figure 9: The parameter space for small back reaction. For each $e _ { 2 }$ ，we plot the ratio （20 $e _ { 1 } / e _ { 2 }$ as a function of the critical temperature at which the solutions with a single $\\psi _ { 2 }$ become unstable to developing new scalar hair. Every point gives the value of $e _ { 1 } / e _ { 2 }$ and the corresponding temperature below which the order $\\psi _ { 1 }$ tends to vanish. The curves from up to down correspond to $e _ { 2 } = 8 . 0 , 4 . 0 , 2 . 6 , 2 . 0$ ， respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Let us now move to the case with large back reaction, which is presented in figure 10. In contrary to the small back reaction case, for a given $e _ { 2 }$ , the critical ratio $e _ { 1 } / e _ { 2 }$ on the curve increases with respect to temperature and has a maximum $( T _ { m a x } , ( e _ { 1 } / e _ { 2 } ) _ { m a x } )$ and a minimum $( T \\approx 0 , ( e _ { 1 } / e _ { 2 } ) _ { m i n } )$ . In figure 9, the point located in the range $[ ( e _ { 1 } / e _ { 2 } ) _ { m i n } , ( e _ { 1 } / e _ { 2 } ) _ { m a x } ]$ （204号 is related to Phase-C，while the point in figure 1O here corresponds to Phase-B.For （204 $e _ { 1 } / e _ { 2 } < ( e _ { 1 } / e _ { 2 } ) _ { m i n }$ and $e _ { 1 } / e _ { 2 } > ( e _ { 1 } / e _ { 2 } ) _ { m a x }$ ， one can obtain phases with only one order parameter. The physical state might be in Phase-I, Phase-II or the combination of both. Nevertheless,by comparing the free energy between Phase-I and Phase-II,we find that Phase-I is thermodynamically favored for $e _ { 1 } / e _ { 2 } > ( e _ { 1 } / e _ { 2 } ) _ { m a x }$ and Phase-II is thermodynamically favored for $e _ { 1 } / e _ { 2 } < ( e _ { 1 } / e _ { 2 } ) _ { m i n }$ . We does not find any suitable values for $e _ { 1 } / e _ { 2 }$ （20 and $e _ { 2 }$ for which one can have a phase similar to Phase-C. In contrary to the small back reaction case, we find that,as one strengthens the back reaction, $( e _ { 1 } / e _ { 2 } ) _ { m i n }$ decreases and （204 $\\left( e _ { 1 } / e _ { 2 } \\right) _ { m a x }$ increases，respectively. Therefore, the attractive interaction between the two bulk scalar fields mediated by gravity enhances the parameter space of Phase-B. Comparing the two figures, it is clear that there must be a certain value of at whichthecurvebecomes paralel toorzontalaisAt $e _ { 2 } ^ { c r i t i c a l }$ ）， $\\left( { { e _ { 1 } } / { { e _ { 2 } } } } \\right) _ { m a x }$ $e _ { 2 }$ denoted by has the same $e _ { 2 } ^ { c r i t i c a l }$ value of $( e _ { 1 } / e _ { 2 } ) _ { m i n }$ , thus there is no region for the Phase-C in figure 9 as well as Phase-B in figure 10 to survive. In our model discussed in this paper $e _ { 2 } ^ { c r i t i c a l } \\simeq 1 . 7 6 2$ ： ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8a56752018480d0655df22cafbe453a71ae17f9c54795d256b8e77f00018f6c.jpg",
+        "img_caption": [
+            "Figure 1O: The parameter space for large back reaction. For each $e _ { 2 }$ , we plot the ratio $e _ { 1 } / e _ { 2 }$ （204号 with respect to the critical temperature at which the solutions with a single $\\psi _ { 2 }$ become unstable to developing hair $\\psi _ { 1 }$ . Each point gives the value of $e _ { 1 } / e _ { 2 }$ and the corresponding temperature below which the order $\\psi _ { 1 }$ begins to appear. From the up to down in the leftmost the curves correspond to $e _ { 2 } = 1 . 5 , 1 . 3 , 1 . 1$ ， respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "To summarize, apart from the normal phase, we obtain as many as five superconducting phases in our model. Depending on the model parameters $e _ { 1 } / e _ { 2 }$ and $e _ { 2 }$ ,each phase can be most thermodynamically stable in some region of parameter space. The full phase diagram for the five superconducting phases is constructed in figure 1l which is divided into five parts by five boundaries. The corresponding phase we named in each region is the most thermodynamically stable phase. The solid red line between Phase-C and Phase-II and the dashed red line between Phase-B and Phase-I is obtained by finding the value of $e _ { 1 } / e _ { 2 }$ at which the two critical temperatures for the phases with only $\\psi _ { 1 }$ or $\\psi _ { 2 }$ condensate are the same for each given $e _ { 2 }$ . The solid green curve separating Phase-C from Phase-A and the dashed green curve separating Phase-B from Phase-II correspond to the leftmost points in figure 9 and figure 10. The vertical blue line dividing Phase-A from Phase-I is given by the critical line at $e _ { 2 } ^ { c r i t i c a l }$ . We see from figure 11 that when the value of $e _ { 2 }$ increases, the upper bound of Phase-C (solid green curve) increases, but finally it arrives at a finite one around 2.164. In contrast, the lower bound of Phase-C (solid red curve) decreases,and finally it arrives at a finite one around 1.867. 6 ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/02199a089ef096473973a337bcac223ec6e74f9392eebefade6519937b377a4e.jpg",
+        "img_caption": [
+            "Figure 11: The full phase diagram for the five superconducting phases. Depending on $e _ { 1 } / e _ { 2 }$ and $e _ { 2 }$ , the phase diagram is divided into five parts. We label the most thermodynamically favored phase in each part. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "As we increase the strength of the back reaction, the region for Phase-C with the coexisting behavior of two order parameters only in a narrow window is gradually forced to shrink and finally vanishes at $e _ { 2 } ^ { c r i t i c a l }$ , while the regions for Phase-A and Phase-B where both order parameters always present enlarge. In this sense,we can conclude that the gravity which provides an equivalent attractive interaction between the holographic order parameters tends to make the coexistence of two orders much more easy rather than more difficult. The other way to see this is to compare different curves for given ratio $e _ { 1 } / e _ { 2 }$ .We can find from figure 9 that increasing the strength of the back reaction lowers the temperature at which $\\psi _ { 1 }$ vanishes. Thus the coexistence region in Phase-C can survive at much lower temperature. On the other hand,in the case with not very small $e _ { 1 } / e _ { 2 }$ in figure 10, we can see that increasing the strength of the back reaction uplifts the temperature where （204号 $\\psi _ { 2 }$ background becomes unstable to forming $\\psi _ { 1 }$ hair,resulting in a much wider region where both order parameters can coexist. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusion and further discussions ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "We have investigated a holographic superconductor model with more than one order parameter in four dimensions, where each complex scalar feld in the bulk is minimally coupled to a same U(1) gauge field. This can be interpreted as a holographic multi-band superconductor model. We have studied the interplay among different macroscopic orders in this model, where the back reaction of matters on the background geometry has been taken into account. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Concretely, we have discussed the two-band case with mass squares $m _ { 1 } ^ { 2 } = 0$ and $m _ { 2 } ^ { 2 } =$ $- 2$ for two bulk scalar felds $\\psi _ { 1 }$ and $\\psi _ { 2 }$ ， respectively. Depending on the strength of the back reaction $1 / e _ { 2 } ^ { 2 }$ and the relative charge ratio $e _ { 1 } / e _ { 2 }$ of the two scalar fields, the model admits as many as five different superconducting phases. Three of them, denoted by PhaseA，Phase-B and Phase-C,exhibit the coexistence region of two order parameters. More specifically, for Phase-C, as we lower temperature, the second scalar $\\psi _ { 2 }$ condenses following （204号 $\\psi _ { 1 }$ will completely suppress the condensate of the first order, i.e., $\\psi _ { 1 }$ will go to zero finally. The condensate behaviors in Phase-A and Phase-B are similar. One of the two orders condenses first，and once the other begins to condense，both always coexist. Other two superconducting phases, labeled as Phase-I and Phase-II, have only one order parameter. For details, see figure 1, figure 2 and figure 3, respectively. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "For given parameters, i.e., $e _ { 1 } / e _ { 2 }$ and $e _ { 2 }$ , Phase-A, Phase-B and Phase-C can not appear at the same time, while Phase-I and Phase-II are always alowable. Therefore, once we have a phase with coexisting orders, we can also have the two phases which have only one order. We have calculated the free energy for each possible phase and found that the three phases with coexisting orders are thermodynamically favored than Phase-I and Phase-II. For each $e _ { 2 }$ , we plot the ratio $e _ { 1 } / e _ { 2 }$ as a function of the temperature at which the solutions with only $\\psi _ { 2 }$ condensate become unstable to developing new scalar hair $\\psi _ { 1 }$ in figure 9 and figure 10. The behavior of $e _ { 1 } / e _ { 2 }$ versus temperature is exactly opposite for small and large back reaction cases. The model shows rich phases structure and we construct the full phase diagram in figure 11. From such three figures, we can conclude that the gravity providing an equivalent attractive interaction between the holographic order parameters in some sense will enhance the coexistence region and tend to make the coexistence of two orders much more easy rather than more diffcult. It also implies that to reveal a full phase structure for a holographic model, the back reaction of matter fields in the bulk has to be taken into account. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we have considered in some detail the case with $m _ { 1 } ^ { 2 } = 0$ and $m _ { 2 } ^ { 2 } = - 2$ .We expect that the whole picture will not be qualitatively changed for other choices of mass parameters if one always regards the scalar with larger mass as $\\psi _ { 1 }$ and the scalar with smaller mass as $\\psi _ { 2 }$ . A special case is that the two scalars have equal mass. In this case, both condensates can appear at the same temperature for some parameters, for example, （204号 $e _ { 1 } / e _ { 2 } = 1$ even with no direct coupling between two scalar fields. One may worry that in the region which only admits the solutions corresponding to Phase-I or Phase-II, there might be a first order phase transition between Phase-I and Phase-I by comparing their free energy. We have checked a lot of parameter values and found that either Phase-I or PhaseII is always dominant. Nevertheless,even although such a first order transition might exist, the full phase diagram does not change. It is interesting to understand whether this first order phase transition could appear or not for other possible values of mass. In addition, in our discussions,we have turned off the direct coupling between two bulk scalars, it is also interesting to study the case with a direct interaction between the two scalars. Of course, our study can also be straightforwardly generalized to the case with more than two order parameters. In that case we expect much richer phase structure will appear. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "According to the symmetry of the macroscopic wave function or condensate of Cooper pairs in the real superconducting materials, the superconductor can be classified by s-wave, p-wave, d-wave and so on. The holographic s-wave, p-wave and d-wave superconductor models are already available in the literature,it is therefore quite interesting to study the holographic models with superconducting order parameters with different spins. Furthermore, we may study the holographic multi-band superconductor model by including the effect of lattice [24]. In our present study, the gravity background is chosen to be black holes, which corresponds to the superconductor/conductor phase transition at finite temperature. Note that the holographic superconductor/insulator phase transition at zero temperature has been studied in ref. [25] by choosing the so called AdS soliton background with one spatial direction compactified to a circle and the complete phase diagram for such a system was constructed in ref. [26]. Certainly it is very interesting to investigate the holographic superconductor/insulator phase transition with more than one order parameter. We leave these issues for further study. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by the National Natural Science Foundation of China (No.10821504, No.10975168, No.11035008,No.11205226, No.11175019 and No.41231066), and in part by the Ministry of Science and Technology of China under Grant No.2010CB833004. L.F.L would like to appreciate the National Basic Research Program of China (973 Program)Grant No.2011CB811404 and the Specialized Research Fund for State Key Laboratories. Y.Q.W was supported by the National Natural Science Foundation of China (No.11005054). L.L would like to thank Yan Liu and Ya-Wen Sun for useful discussions. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "[1] J. M. Maldacena,“The large N limit of superconformal field theories and supergravity,” Adv. Theor. Math. Phys. 2,231 (1998)[Int.J. Theor.Phys.38,1113(1999)] [arXiv:hep-th/9711200].   \n[2] S. S.Gubser, I. R. Klebanov and A. M. Polyakov，“Gauge theory correlators from non-critical string theory,” Phys. Lett. B 428,105 (1998) [arXiv:hep-th/9802109].   \n[3] E. Witten，“Anti-de Sitter space and holography,” Adv. Theor. Math. Phys. 2, 253 (1998）[arXiv:hep-th/9802150].   \n[4] S. A. Hartnoll, C. P. Herzog and G. T. Horowitz, “Building a Holographic Superconductor,” Phys.Rev.Lett.101,031601 (2008)[arXiv:0803.3295 [hep-th].   \n[5] S.A. Hartnoll, C. P. Herzog and G. T. Horowitz,“Holographic Superconductors,” JHEP 0812, 015 （2008)[arXiv:0810.1563 [hep-th].   \n[6] S. S. Gubser and S. S. Pufu, “The Gravity dual of a p-wave superconductor,” JHEP 0811,033 (2008)[arXiv:0805.2960 [hep-th]].   \n[7] J.-W. Chen， Y. -J. Kao, D. Maity, W. -Y. Wen and C. -P. Yeh，“Towards A Holographic Model of D-Wave Superconductors,” Phys. Rev. D 81， 106008 (2010) [arXiv:1003.2991 [hep-th].   \n[8] F. Benini, C.P. Herzog, R. Rahman and A. Yarom,“Gauge gravity duality for d-wave superconductors: prospects and challenges,” JHEP 1011,137 (2010) [arXiv:1007.1981 [hep-th]].   \n[9] E. Berg, E. Fradkin and S. A. Kivelson, and J. Tranquada,“Striped superconductors: How the cuprates intertwine spin, charge and superconducting orders,” New J. Phys 11,115004 (2009) [arXiv:0901.4826 [cond-mat.supr-con].   \n[10] P. Basu, J. He,A. Mukherjee, M. Rozali and H. -H. Shieh,“Competing Holographic Orders,” JHEP 1010,092 (2010)[arXiv:1007.3480 [hep-th]].   \n[11] D.Musso，“Competition/Enhancement of Two Probe Order Parameters in the Unbalanced Holographic Superconductor,” arXiv:1302.7205 [hep-th].   \n[12] A. Donos, J. P. Gauntlett, J. Sonner and B. Withers,“Competing orders in M-theory: superfuids, stripes and metamagnetism,” JHEP 1303,108 (2013) [arXiv:1212.0871 [hep-th]].   \n[13] J. Kondo: Prog. Theor. Phys. 29(1963）1.   \n[14] H. Suhl, B. T. Mattis and L. W. Walker,“Bardeen-Cooper-Schrieffer Theory of Superconductivity in the Case of Overlapping Bands,” Phys. Rev. Lett 3, 552 (1959).   \n[15] A. J. Leggett， “Number-phase Fluctuations in Two-Band Superconductors,” Prog. Theor. Phys 36, 5 (1966).   \n[16] E. Babaev,“Vortices with Fractional Flux in Two-Gap Superconductors and in Extended Faddeev Model,” Phys. Rev. Lett.89，067001 (2002) [arXiv:condmat/0111192].   \n[17] J. Smiseth， E. Smorgrav, E. Babaev，A. Sudbo，“Field- and temperature-induced topological phase transitions in the three-dimensional N -component London superconductor,” Phys. Rev. B 71, 214509 (2005) [arXiv:cond-mat/0411761].   \n[18] Yanagisawa, T., Tanaka, Y., Hase, I., Yamaji, K. 2012, Journal of the Physical Society of Japan, 81, 024712   \n[19] C.-Y. Huang, F. -L. Lin and D. Maity, “Holographic Multi-Band Superconductor,” Phys.Lett. B 703,633 (2011) [arXiv:1102.0977 [hep-th].   \n[20] A. Krikun, V. P. Kirilin and A. V. Sadofyev,“Holographic model of $S ^ { + / - }$ multiband superconductor,” arXiv:1210.6074 [hep-th].   \n[21] P. Basu, J. He, A. Mukherjee and H. -H. Shieh， “Superconductivity from D3/D7: Holographic Pion Superfluid,” JHEP 0911, 070 (2009) [arXiv:0810.3970 [hep-th]].   \n[22] I. Amado, D. Arean,A. Jimenez-Alba, K. Landsteiner, L. Melgar and I. S. Landea, “Holographic Type II Goldstone bosons,” arXiv:1302.5641 [hep-th].   \n[23] A. Donos and J. P. Gauntlett,“Superfluid black branes in $A d S _ { 4 } \\times S ^ { 7 }$ ,” JHEP 1106, 053 (2011） [arXiv:1104.4478 [hep-th].   \n[24] G. T. Horowitz and J. E. Santos， “General Relativity and the Cuprates,” arXiv:1302.6586 [hep-th].   \n[25] T. Nishioka, S. Ryu and T. Takayanagi, “Holographic Superconductor/Insulator Transition at Zero Temperature,” JHEP 1003,131 (2010) [arXiv:0911.0962 [hep-th]].   \n[26] G. T. Horowitz and B. Way,“Complete Phase Diagrams for a Holographic Superconductor/Insulator System,” JHEP 1011, 011 (2010) [arXiv:1007.3714 [hep-th]. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    }
+]

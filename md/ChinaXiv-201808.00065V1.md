@@ -1,0 +1,246 @@
+# 混合信道下译码转发中继系统性能研究
+
+王豪，董增寿，康琳，王珍妮(太原科技大学 电子信息工程学院，太原 030024)
+
+摘要：针对中继协作系统，研究瑞利信道和Nakagami- $. m$ 信道的混合信道下解码转发（decode-and-forward）中继系统性能。结合信息传输过程中可能发生的数据平均误包率，推导出以源节点和中继节点的调制等级为设计变量的双中继端到端频谱效率表达式以及系统稳定性表达式，同时还分析了不同信道参数 $m$ 对于链路频谱效率以及系统稳定性的影响，对表达式进行高阶变量推导演变可得出多中继频谱效率表达式及系统稳定性表达式，最后通过仿真验证了端到端表达式所得结果优于传统的自适应算法。
+
+关键词：混合信道；数据平均误包率；频谱效率；系统稳定性中图分类号：TN929.5 doi:10.3969/j.issn.1001-3695.2018.05.0322
+
+# Performance analysis of decode-and-forward relay system in mixed channels
+
+Wang Hao, Dong Zengshou, Kang Lin, Wang Zhenni (School ofElectronic Information Engineering,Taiyuan UniversityofScience &Technology,Taiyuan O30024,China)
+
+Abstract:Inthis paper thesystem performanceof decode-and-forwardrelaycoorperative systemunder Rayleigh channel and Nakagami-mchannelare investigated.combingwith theaverage data packet errorrate,formulas forend-to-endspectrum eficiencyexpresionandthe stabilityof systemare deduced indouble relays systembasedonsource-relay modulationlevels. Meanwhile, the effects of different channel parameters $m$ on link spectrum efficiency and system stability are analyzed then thehigherorder variables offormulas forspectrumeficiencyand stabilityofsystemunder multiple relays systemare deduced. Numericalresults show that the proposed formulas has better performance than some of the traditional adaptivealgorithm. Key words: mixed channels; average data packet error rate; spectral efficiency; system stability
+
+# 0 引言
+
+近年来，无线通信设备飞速发展，人们更加追求高效率，高质量的通信体验，但无线通信过程中的衰落因素很大程度影响了传输过程中数据的准确性，进而影响整个系统的性能。基于正交中继的协作通信在近几年中成为研究的热点，利用中继的协作通信技术能够有效的削弱通信过程中的信道衰落，提高链路的可靠性，此外利用协作分集技术也能很好的实现空间分集增益，未来5G通信将运用更先进的协作通信技术[1。但是在半双工模式下，源端和中继之间的正交协作通信是以时间和频率为代价的，这样会降低频谱效率[2]，特别是在多个中继协作通信时这个问题会更加明显，因此研究系统的端到端频谱效率就变得非常重要。网络编码技术能减少数据包传播次数，提高系统的吞吐量，文献[3,4]在多中继系统中，结合源和中继的调制等级，以系统误码率最小化为目标得到了系统的端到端误码率表达式。文献[5.6]联合网络编码的中继协作提出了最小化系统误码率的渐进式，明显优于无协作时的性能。
+
+蜂窝网络是非常复杂的，会出现各种各样的信道环境，对不同的信道环境进行分析对指导实际有很大的意义。文献[7]将信号空间分集（SSD）引入到解码转发（DF）协作系统，重点考虑了比特错误率（BEP）对系统的影响。文献[8]在瑞利信道环境下，结合节点的调制等级得到了端到端平均误差和频谱效率表达式。相比与瑞利信道，Nakagami-m信道因为信道参数 $m$ 的多变性将更加与实际环境相吻合，文献[9]针对硬件损伤系统，考虑了源节点到目的节点有无直接传输的两种情况，推导出两种情况的中断概率表达式。文献[10,11,12]在多中继解码转发系统中，基于最低中断概率准则得到了最佳中继中断概率表达式。但在实际环境中，源节点到中继以及中继到目的端的信道环境往往是不同的，研究混合信道模型更能反映视距传输与非视距传输的混合特性，文献[13]在混合瑞利和莱斯信道下研究双跳译码转发中继系统性能，推导了最佳中继的中断概率及误码率表达式。文献[14]研究了两跳的多中继译码转发网络，其中一条是瑞利信道环境，一跳是莱斯信道环境，得到了中断概率与信噪比的表达式。
+
+在错综复杂的信道环境中，传统的经典信道模型在应用上往往有很多局限性，因此需要针对具体环境问题具体分析，提高信道的精度就变得非常重要。为了更好的与实际的信道模型结合，本文选取瑞利信道与Nakagami-m信道混合模型作为分析对象，针对于不同调制的源和中继给出了一种新颖的译码转发中继选择方案，本文先分析单个中继在不同信道衰落下信息的传输，结合可能发生的数据包错误率推导了双中继频谱效率的最优表达式及系统稳定性表达式，通过最优表达式可以选择出最优中继进而最大化系统的频谱效率，最后多中继的端到端频谱效率及稳定性方案可以通过双中继频谱效率表达式进行更高阶的变量推导而得出，最后通过matlab仿真验证了方案的合理性。
+
+# 1 系统模型
+
+无线通信的双跳多中继网络系统模型包含一个源节点 $s$ ，$L$ 个中继节点 $R \ = R _ { 1 } , R _ { 2 } , . . . . . . R _ { L }$ ，一个目的节点 $D$ 。如图1,数据的传输经过两个时隙，第一时隙是源节点 $s$ 将信息传送给中继节点 $R$ ，第二时隙是所选中继对数据进行处理后发送给目的节点 $D$ 。数据在传输过程中没有考虑信息直接从源节点 $s$ 到目的节点 $D$ ，这是因为当进行庞大数据的远距离传输时，可能会出现信息堵塞，从而使源端到目的端直接传输的信道质量会变得很差，因此必须引入中继传输技术。这里假设源端 $s$ ，中继 $R$ ，目的端 $D$ 都有独立的单个天线且它们都工作在半双工模式下。
+
+![](images/572ac78e480a3493b61bdb5041961c036f9834568ba9a8862ffc5d25f9862665.jpg)  
+图1系统模型
+
+从传输模型中可以得到中继 $R _ { i }$ 接收到的数据和目的端 $D$ 接收到的数据分别可以表示成
+
+$$
+y _ { R _ { i } } = \sqrt { P _ { S } } h _ { S R _ { i } } x _ { s } + n _ { S R _ { i } } , i = 1 , . . . , j
+$$
+
+$$
+y _ { D } = \sqrt { P _ { R _ { i } } } h _ { R _ { i } D } x _ { R _ { i } } + n _ { R _ { i } D } , i = 1 , . . . , j
+$$
+
+其中： $P _ { s }$ 和 $P _ { R _ { i } }$ 表示源和中继的传输功率， $j$ 表示在 $L$ 个中继中能够正确通过循环冗余码检测的中继个数， $R _ { i }$ 表示为选择传输的中继， $h _ { S R _ { i } }$ 和 $h _ { R _ { i } D }$ 分别表示链路 $S - R _ { i }$ 和 $R _ { i } - D$ 的信道衰落系数， $n _ { S R _ { i } }$ 和 $n _ { R _ { i } D }$ 分别表示为链路 $S - R _ { i }$ 和 $R _ { i } - D$ 的均值为0方差为 $N _ { 0 }$ 的高斯白噪声。混合信道模型能反映信息传输过程的特殊性，Nakagami- $m$ 信道模型能更好的与实际环境相匹配，因此本文研究在此情况下的系统性能，假设链路 $S - R _ { i }$ 的信道为瑞利信道， $R _ { i } - D$ 的信道为 Nakagami- $m _ { R _ { i } D }$ 并且两者互相独立，互不影响，其中 $m _ { R _ { i } D }$ 为正整数， $\gamma _ { S R _ { i } }$ 和 $\gamma _ { R _ { i } D }$ 为两个链路的瞬时信噪比（SNR）， $\overline { { \gamma _ { S R _ { i } } } }$ 和 $\gamma _ { R _ { i } D }$ 为链路的平均信噪比。
+
+本文中链路 $R _ { i } - D$ 经历了Nakagami- $m$ 信道，其瞬时信噪比的概率密度函数为
+
+$$
+f _ { m _ { i } } \left( \gamma _ { i } \right) = \frac { \left( m _ { i } / \overline { { \gamma _ { i } } } \right) } { \Gamma \left( m _ { i } \right) } \gamma _ { i } ^ { ~ m _ { i } - 1 } e ^ { - \frac { m _ { i } \gamma _ { i } } { \gamma _ { i } } }
+$$
+
+$$
+\Gamma ( m ) = \int _ { 0 } ^ { \infty } t ^ { m - 1 } e ^ { - t } d t
+$$
+
+# 2 端到端频谱效率表达式
+
+# 2.1基于频谱效率的中继选择
+
+对于相同的调制等级的中继节点，传统的中继选择方案是基于最小信噪比（SNR）的链路上的中继常常被选择作为最佳传输中继，但是当各个中继节点具有不同调制等级时这个方法是不成立的，这是因为对于不同调制等级中继处理符号的抗误码性能不同，即传输一组数据的错误概率不同，因此常用的方法是结合瞬时信噪比和平均信噪比去计算链路的BER，最小BER的链路即为最佳链路[3]，也就是说若 $R _ { i }$ 为最佳中继，则在$R _ { i } - D$ 链路上有
+
+$$
+\gamma _ { _ { R _ { i } D } } = { \bf m a x } \left( \frac { 1 } { \beta _ { i 1 } } \gamma _ { _ { R _ { 1 } D } } , \frac { 1 } { \beta _ { i 2 } } \gamma _ { _ { R _ { 2 } D } } , . . . , \frac { 1 } { \beta _ { i j } } \gamma _ { _ { R _ { j } D } } \right)
+$$
+
+其中： $\beta _ { i j } = \frac { d _ { M _ { R _ { i } } } } { d _ { M _ { R _ { j } } } }$ 参照Nakagami- $m$ 信道模型下的$M \ - Q A M$ 灰度编码方式,BER 表达式和文献[3]一样近似表示为
+
+$$
+\begin{array} { r } { \mathbf { B E R } _ { M i } \left( \gamma _ { i D } \right) \approx c _ { M _ { i } } Q \left( \sqrt { 2 { d ^ { 2 } } _ { M _ { i } } \gamma _ { i D } } \right) } \end{array}
+$$
+
+$$
+\big ( c _ { M _ { i } } , d _ { M _ { i } } \big ) = \left\{ \left( \frac { ( 1 , 1 ) , } { \log _ { 2 } \sqrt { M _ { i } } } , \sqrt { \frac { 3 } { 2 \big ( M _ { i } - 1 \big ) } } \right) , M _ { i } = 2 , \right.
+$$
+
+与误码率的中继选择方式类似，本文结合基于频谱效率的中继选择方式[2，频谱效率定义为每赫兹的平均数据传输速率，用 $\eta ^ { i }$ 来表示选用中继 $R _ { i }$ 传输下链路的频谱效率，最后具有最大频谱效率 $\eta ^ { r }$ 的链路上的中继 $R _ { r }$ 即为最优中继用如下公式表示：
+
+$$
+\eta ^ { r } = \operatorname* { m a x } \bigl ( \eta ^ { 1 } , \eta ^ { 2 } , . . . , \eta ^ { L } \bigr )
+$$
+
+频谱效率计算方法：假设有 $N$ 比特的数据进行传输，对于 $M \ - Q A M$ 调制等级中继来说，符号传输的总时间可以表示为 ${ T _ { t o t a l } = T _ { s } N _ { M } }$ ,其中 $N _ { \scriptscriptstyle M } = N / k _ { \scriptscriptstyle M }$ 单位为符号，每符号的比特数为 $k _ { \scriptscriptstyle M } = \log _ { 2 } ( M )$ ，通过第一零点定理的奈奎斯特带宽可以得到 $B = 1 / T _ { s }$ ，因此链路的频谱效率可以表示为$\eta = N / \big ( B T _ { t o t a l } \big ) = k _ { \scriptscriptstyle M }$ 。
+
+在实际的环境中数据包在源和中继中传输时可能因为其它一些原因而发生错误，尽管中继能正确的解码但也会使结果出现偏差，所以在为了使分析结果更接近实际的情况在这里也考虑数据发生错误的可能性，参考文献[6」可以得到瑞利信道下$S - R _ { i }$ 链路的平均数据包错误概率被定义为
+
+$$
+\mathrm { P } _ { S R _ { i } } \approx \sum _ { w = 1 } ^ { N _ { S } } \sum _ { z = 0 } ^ { w } \binom { N _ { S } } { w } \binom { w } { z } \frac { ( - 1 ) ^ { ( w + 1 ) } \big ( k _ { s } c _ { M _ { s } } \big ) ^ { w } { A _ { 1 } } ^ { w - z } { A _ { 2 } } ^ { z } } { 1 + 2 d _ { M _ { s } } \big ( a _ { 1 } \big ( w - z \big ) + a _ { 2 } z \big ) \overline { { \gamma _ { S R _ { i } } } } }
+$$
+
+$N _ { s } = N / k _ { s } , A _ { 1 } = 0 . 2 0 4 ,$ 其中$A _ { 2 } = 0 . 1 4 7 , a _ { 1 } = 0 . 9 7 1 , a _ { 2 } = 0 . 5 2 5$
+
+假设选取 $R _ { \mathrm { 1 } }$ 为传输中继，系统模型中有源 $s$ 和中继 $R _ { \mathrm { 1 } }$ 并且两者分别采用 $M _ { s } - Q A M$ 和 $M _ { R _ { 1 } } - Q A M$ 调制方式那么对于这个简单的模型可以得出整体的频谱效率为$\eta ^ { 1 } = \left( 1 - \mathrm { P } _ { { S R } _ { i } } \right) \times N / \left( B T _ { \iota o t a l } \right) = \left( 1 - \mathrm { P } _ { { S R } _ { i } } \right) \times k _ { S } k _ { R _ { 1 } } / \left( k _ { S } + k _ { R _ { 1 } } \right)$ ，其中$T _ { t o t a l } = T _ { 1 } + T _ { 2 }$ ， $T _ { 1 }$ 表示符号在第一时隙传输的时间， $T _ { 2 }$ 表示符号在第二时隙传输的时间，所以 ${ T _ { 1 } = T _ { s } N / k _ { s } }$ ， $T _ { \scriptscriptstyle 2 } = T _ { { R _ { \scriptscriptstyle 1 } } } N / k _ { { R _ { \scriptscriptstyle 1 } } }$ 。
+
+# 2.2多中继系统频谱效率表达式
+
+双中继端到端频谱效率表达式：假设系统模型中有源 $s$ 和中继 $R _ { \mathrm { 1 } }$ ，中继 $R _ { 2 }$ ，并且三者分别采用 $M _ { s } - Q A M$ 和$M _ { R _ { 1 } } - Q A M$ 以及 $M _ { R _ { 2 } } - Q A M$ 调制方式。因为这里存在一个中继选择的问题，需要将这种选择性体现在公式中用 $\eta ^ { 1 , 2 }$ 表示。
+
+$$
+\begin{array} { r l } & { \eta ^ { 1 , 2 } = N / \big ( B \big ( T _ { 1 } + T _ { t o t a l 2 } \big ) \big ) } \\ & { \mathrm { ~ } = \left( \displaystyle \frac { 1 } { k _ { s } } + \frac { \mathrm { P r } \big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { R _ { 1 } } \big ) } { k _ { R _ { 1 } } } + \frac { \mathrm { P r } \big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { R _ { 2 } } \big ) } { k _ { R _ { 2 } } } \right) ^ { - 1 } } \end{array}
+$$
+
+其中： $\mathbf { P r } \Big ( \mathbf { P } _ { \mathrm { s e l e c t } } ^ { } \Big .$ ， $\mathrm { P r } \Big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { } \Big . ^ { R _ { 2 } } \Big )$ 分别表示用中继 $R _ { \mathrm { { \scriptscriptstyle 1 } } }$ 和用中继 $R _ { 2 }$ 进行传输的可能性。
+
+其中 $\operatorname* { P r } \left( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { } { } ^ { R _ { 2 } } \right) = 1 - \operatorname* { P r } \left( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { } { } ^ { R _ { 1 } } \right)$
+
+$$
+\begin{array} { r l } & { T _ { \mathit { t o t a l 2 } } = \mathrm { P r } \big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { } R _ { 1 } ^ { } \big ) \times T _ { 2 ( R _ { 1 } ) } + \mathrm { P r } \big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { } R _ { 2 } ^ { } \big ) \times T _ { 2 ( R _ { 2 } ) } } \\ & { T _ { 2 ( R _ { i } ) } = T _ { s } N / k _ { R _ { i } } \circ } \end{array}
+$$
+
+结合链路的平均信噪比，可以得出
+
+$$
+\begin{array} { l } { \mathrm { P r } \big ( \mathsf { P } _ { \mathrm { s e c a t } } ^ { \mathsf { R } _ { i } } \big ) = \mathrm { P r } \big ( d _ { M _ { R _ { 1 } } } \gamma _ { R , D } \ge d _ { M _ { R _ { 2 } } } \gamma _ { R , D } \big ) } \\ { = \displaystyle \int _ { \gamma _ { R _ { 1 } D } - \gamma _ { R _ { 2 } D } = 0 } ^ { \infty } \int _ { f _ { m _ { R _ { 1 } D } } } \gamma _ { R _ { 1 } D } \jmath _ { m _ { R _ { 2 } D } } \big ( \gamma _ { R _ { 2 } D } \big ) d _ { \gamma _ { R _ { 1 } D } } d _ { \gamma _ { R _ { 2 } D } } } \\ { = 1 - \displaystyle \frac { \big ( m _ { R _ { i D } } \jmath _ { m } \big ) ^ { m _ { R _ { 1 } D } } m _ { R _ { 2 } D } } { \Gamma \big ( m _ { R _ { i D } } \big ) } \displaystyle \sum _ { t = 0 } ^ { m _ { R _ { 2 } } - 1 } \frac { \big ( \beta _ { 1 2 } \big ) ^ { t } } { t ! } \Bigg ( \displaystyle \frac { m _ { R _ { 2 } D } } { \gamma _ { R , D } } \Bigg ) ^ { t } \displaystyle \frac { \big ( m _ { R _ { i D } } + t - 1 \big ) } { \Big ( m _ { R _ { i D } } + \beta _ { 1 2 } \frac { m _ { R _ { i D } } } { \gamma _ { R , D } } \Big ) ^ { m _ { R _ { 1 } D } + t } } } \end{array}
+$$
+
+在计算式（11）需要用到式（12）（13）。
+
+$$
+\begin{array} { l } { \displaystyle \int _ { 0 } ^ { a } { x ^ { n } e ^ { - u x } d x } = \frac { n ! } { u ^ { n + 1 } } - e ^ { - u a } \sum _ { t = 0 } ^ { n } { \frac { n ! } { t ! } \frac { a ^ { t } } { u ^ { n - t + 1 } } } = u ^ { - n - 1 } \gamma \big ( n + 1 , u a \big ) } \\ { \displaystyle \left[ u > 0 , n = 1 , 2 , . . . n \right] } \end{array}
+$$
+
+$$
+\begin{array} { l } { { \displaystyle \int _ { x = 0 } ^ { \infty } } \displaystyle \int _ { c = 0 } ^ { a } e ^ { - b x } \gamma ( c , d x ) d x = ( c - 1 ) \Biggl [ a ! b ^ { ( - a - 1 ) } - \sum _ { m = 0 } ^ { c - 1 } \frac { d ^ { m } } { m ! } \left( m + a \right) ! \left( b + d \right) ^ { - ( m + a + 1 ) } \Biggr ] }  \\ { { \displaystyle \left[ b > 0 , c = 1 , 2 , . . . , b + d > 0 \right] } } \end{array}
+$$
+
+所以在双中继情况下的整体频谱效率为
+
+$$
+\begin{array} { r l } & { \eta = \left( 1 - { \bf P } _ { S R _ { 1 } } \right) \left( { \bf P } _ { S R _ { 2 } } \right) \cfrac { k _ { s } k _ { R _ { 1 } } } { \left( k _ { s } + k _ { R _ { 1 } } \right) } } \\ & { + \left( 1 - { \bf P } _ { S R _ { 2 } } \right) \left( { \bf P } _ { S R _ { 2 } } \right) \cfrac { k _ { s } k _ { R _ { 2 } } } { \left( k _ { s } + k _ { R _ { 2 } } \right) } } \\ & { + \left( 1 - { \bf P } _ { S R _ { 1 } } \right) \left( 1 - { \bf P } _ { S R _ { 2 } } \right) \eta ^ { 1 , 2 } } \end{array}
+$$
+
+在选择时若 $d _ { { \scriptscriptstyle M R _ { 1 } } } \gamma _ { { \scriptscriptstyle R _ { 1 } } D } > d _ { { \scriptscriptstyle M R _ { 2 } } } \gamma _ { { \scriptscriptstyle R _ { 2 } } D }$ ，则必须有$\mathrm { P r } \Big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { { \cal R } _ { 1 } } \Big ) > \mathrm { P r } \Big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { { \cal R } _ { 2 } } \Big ) _ { \circ }$
+
+参考双中继频谱效率表达式可以得到多中继的端到端频谱效率表达式：
+
+$$
+\begin{array} { l } { \displaystyle \eta = \sum _ { i = 1 } ^ { W } \left( 1 - \mathrm { P } _ { { S R } _ { i } } \right) \times \left( \prod _ { e } ^ { H } \mathrm { P } _ { { S R } _ { e } } \right) \times \eta ^ { i } } \\ { + \displaystyle \prod _ { i = 1 } ^ { W } \left( 1 - \mathrm { P } _ { { S R } _ { i } } \right) \eta ^ { 1 , 2 . . . W } } \end{array}
+$$
+
+其中： $W$ 为 $L$ 个中继中传输不发生数据错误的中继范围， $H$ 为除过 $W$ 以外的中继范围，同样需要计算 $\eta ^ { 1 , 2 , \dots , \ W }$ 下面给出计算表达式如下：
+
+$$
+\begin{array} { r l } & { \eta ^ { 1 , 2 , \dots , \ W } = N / \big ( B \big ( T _ { 1 } + T _ { t o t a l 2 } \big ) \big ) } \\ & { = \left( \frac { 1 } { k _ { s } } + \frac { \operatorname* { P r } \big ( \mathbf { P } _ { \mathrm { s e l e c t } } R _ { 1 } } { k _ { R _ { 1 } } } + \frac { \operatorname* { P r } \big ( \mathbf { P } _ { \mathrm { s e l e c t } } R _ { 2 } } { k _ { R _ { 2 } } } \big ) + \dots + \frac { \operatorname* { P r } \big ( \mathbf { P } _ { \mathrm { s e l e c t } } R _ { w } } { k _ { R _ { w } } } \big ) \right) ^ { - 1 } } \end{array}
+$$
+
+# 3 系统传输可靠性研究
+
+这个过程主要研究从源发出信号到目的端能正确接收到信号，系统不发生中断即系统传输可靠性 $P _ { o p e n }$ ，在此假设信号在
+
+$R - D$ 链路的数据传输的速率阈值为 $R _ { t h }$ ， $I _ { R _ { 1 } D } , I _ { R _ { 2 } D }$ 分别表示$R _ { 1 } - D , R _ { 2 } - D$ 链路的数据传输速率，基于信号能正确传输定义了如下三种情况：
+
+情况1只经过中继 $R _ { \mathrm { 1 } }$ 传输信号时，数据包在 $S - R _ { \mathrm { 1 } }$ 链路中传输即数据不发生错误，同时经过 $S - R _ { 2 }$ 链路数据包发生错误，经过中继 $R _ { \mathrm { 1 } }$ 解码转发后，数据在 $R _ { 1 } - D$ 链路传输速率要大于阈值，此时目的端能正确接收到信号，系统能可靠传输。此时的传输可靠性表示为：
+
+$$
+P _ { o p e n 1 } = \left( 1 - \mathrm { P } _ { \mathrm { { S R } _ { 1 } } } \right) \times \mathrm { P } _ { \mathrm { { S R } _ { 2 } } } \times \mathrm { P } \left( I _ { R _ { 1 } D } \ge R _ { t h } \right)
+$$
+
+情况2只经过中继 $R _ { 2 }$ 传输信号时，数据包在 $S - R _ { 2 }$ 链路中传输即数据不发生错误，同时经过 $S - R _ { \mathrm { 1 } }$ 链路数据包发生错误，经过中继 $R _ { 2 }$ 解码转发后，数据在 $R _ { 2 } ^ { { \bf \Phi } } - D$ 链路传输速率要大于阈值，此时目的端能正确接收到信号，系统能可靠传输。此时的传输可靠性表示为
+
+$$
+P _ { o p e n 2 } = \mathrm { P } _ { \scriptscriptstyle \mathrm { S R } _ { 1 } } \times \left( 1 - \mathrm { P } _ { \scriptscriptstyle \mathrm { S R } _ { 2 } } \right) \times \mathrm { P } \left( I _ { _ { R _ { 2 } D } } \geq R _ { _ { t h } } \right)
+$$
+
+情况3经过中继 $R _ { 1 } , R _ { 2 }$ 传输信号时，数据包在$S - R _ { 1 } , S - R _ { 2 }$ 链路中都能正确传输即数据都不发生错误,经过中继解码转发后，数据在 $R - D$ 链路传输速率只要有一条要大于阈值，此时目的端能正确接收到信号，系统能可靠传输。此时的传输可靠性表示为
+
+$$
+\begin{array} { r l } & { P _ { o p e n 1 , 2 } = \left( 1 - \mathrm { P } _ { \mathrm { S R } _ { 1 } } \right) \times \left( 1 - \mathrm { P } _ { \mathrm { S R } _ { 2 } } \right) } \\ & { \times \left( 1 - \mathrm { P } \left( I _ { R _ { 2 } D } < R _ { t h } \right) \times \mathrm { P } \left( I _ { R _ { 2 } D } < R _ { t h } \right) \right) } \end{array}
+$$
+
+总体的系统传输可靠性可以用以上三种情况来表示：
+
+$$
+\begin{array} { r l } & { P _ { o p e n } = \left( 1 - \mathrm { P } _ { \mathrm { { S R } _ { 1 } } } \right) \times \mathrm { P } _ { \mathrm { { S R } _ { 2 } } } \times \mathrm { P } \bigl ( I _ { R _ { 1 } D } \geq R \bigr ) } \\ & { + \left( 1 - \mathrm { P } _ { \mathrm { { S R } _ { 2 } } } \right) \times \mathrm { P } _ { \mathrm { { S R } _ { 1 } } } \times \mathrm { P } \bigl ( I _ { R _ { 2 } D } \geq R \bigr ) } \\ & { + \left( 1 - \mathrm { P } _ { \mathrm { { S R } _ { 1 } } } \right) \times \left( 1 - \mathrm { P } _ { \mathrm { { S R } _ { 1 } } } \right) } \\ & { \times \left( 1 - \mathrm { P } \bigl ( I _ { R _ { 1 } D } < R \bigr ) \times \mathrm { P } \bigl ( I _ { R _ { 2 } D } < R \bigr ) \right) } \end{array}
+$$
+
+以下分别给出可靠传输的概率项表达式：
+
+$$
+\begin{array} { r l } & { \mathrm { P } \big ( I _ { R _ { 1 } D } \geq R \big ) = \mathrm { P } \big ( \gamma _ { R _ { 1 } D } \geq \gamma _ { \iota h 1 } \big ) } \\ & { = \displaystyle \int _ { \gamma _ { t h } } ^ { \infty } f _ { m _ { R _ { 1 } D } } \Big ( \gamma _ { R _ { 1 } D } \Big ) d _ { \gamma _ { \kappa _ { 1 } D } } } \\ & { = e ^ { - \frac { m _ { R _ { 1 } D } \times \gamma _ { t h 1 } } { \tilde { \gamma } _ { R _ { 1 } D } } } \displaystyle \sum _ { k = 0 } ^ { \infty } \frac { 1 } { k ! } \Bigg ( \frac { m _ { R _ { 1 } D } \times \gamma _ { \iota h 1 } } { \gamma _ { R _ { 1 } D } } \Bigg ) ^ { k } } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { \mathrm { P } \big ( I _ { R _ { 2 } D } \geq R \big ) = \mathrm { P } \big ( \gamma _ { R _ { 2 } D } \geq \gamma _ { \mathit { t h 2 } } \big ) } \\ & { = \displaystyle \int _ { \gamma _ { R _ { 2 } D } } ^ { \infty } \big ( \gamma _ { R _ { 2 } D } \big ) d _ { \gamma _ { R _ { 2 } D } } } \\ & { = e ^ { - \frac { m _ { R _ { 2 } D } \times \gamma _ { \mathit { t h 2 } } } { \gamma _ { R _ { 2 } D } } \displaystyle \sum _ { n = 0 } ^ { m _ { R _ { 2 } D } - 1 } \frac { 1 } { n ! } \left( \frac { m _ { R _ { 2 } D } \times \gamma _ { \mathit { t h 2 } } } { \gamma _ { R _ { 2 } D } } \right) ^ { n } } } \end{array}
+$$
+
+$$
+I _ { _ { R _ { 2 } D } } = k _ { _ { R _ { 2 } } } \times \frac { 1 } { 2 } \log _ { 2 } \bigl ( 1 + \gamma _ { _ { R _ { 2 } D } } \bigr ) , \gamma _ { _ { t h 2 } } = 2 ^ { \frac { 2 R } { k _ { _ { R _ { 2 } } } } - 1 } \circ
+$$
+
+将式（21）（22）代入式（20）就可得到传输可靠性 $P _ { o p e n }$ 最终表达式。
+
+参考双中继系统稳定性表达式可以得到多中继的端到端稳定性效率表达式：
+
+$$
+\begin{array} { l } { { \displaystyle P _ { o p e n } = \sum _ { i = 1 } ^ { W } \Big ( 1 - { \bf P } _ { S R _ { i } } \Big ) \times \left( \prod _ { e } ^ { H } { \bf P } _ { S R _ { e } } \right) \times { \bf P } \Big ( I _ { R _ { i } D } \ge R \Big ) } } \\ { { \displaystyle \times \prod _ { i = 1 } ^ { W } \Big ( 1 - { \bf P } _ { S R _ { i } } \Big ) \left( 1 - \prod _ { i = 1 } ^ { W } { \bf P } \Big ( I _ { R _ { i } D } < R \Big ) \right) } } \end{array}
+$$
+
+# 4仿真
+
+本章主要利用MATLAB对所得结果进行仿真，并分析源端调制等级 $M _ { s }$ 和中继的调制等级 $\boldsymbol { M } _ { \scriptscriptstyle R }$ ， $S - R _ { i }$ 链路的平均数据包错误率 $\bf { P } _ { S R _ { i } }$ ，及链路 $R _ { i } - D$ 的信道参数 $m _ { R _ { i } D }$ 的大小对系统性能的影响，给定数值大小 $\overline { { \gamma _ { S R } } } = \overline { { \gamma _ { R D } } } + 1 0 \$ ，平均信噪比 $\overline { { \gamma _ { R D } } }$ 为横坐标变量因子，具体的仿真参数如表1所示。
+
+表1仿真参数  
+
+<html><body><table><tr><td>参数</td><td>数值</td></tr><tr><td>N</td><td>96bit</td></tr><tr><td>Rth</td><td>4bit/s/hz</td></tr><tr><td>Ms</td><td>16.64</td></tr><tr><td>M R</td><td>16，64，256</td></tr><tr><td>Y RD</td><td>0dB≤Y RD ≤20dB</td></tr><tr><td>mRiD</td><td>1≤mRiD ≤4</td></tr><tr><td>PsRi</td><td>0.08≤PsRi ≤0.5</td></tr></table></body></html>
+
+图2和3为当 $R _ { i } - D$ 链路的信道参数 $m$ 的大小不变（ $m _ { R _ { 1 } D } = 1 , m _ { R _ { 2 } D } = 2$ ）的系统频谱效率与不同源和中继的调制等级变化情况仿真图。通过公式 $\eta ^ { 1 }$ 以及式（9）（14）（16)可得到不同中继个数，源和中继调制等级的系统频谱效率大小。分析图3各条线可得，随着平均信噪比SNR的增大系统频谱效率提升。在平均信噪比 SNR 和源 $M _ { s }$ 一定的条件下，随着 $\boldsymbol { M } _ { \boldsymbol { R } _ { 1 } }$ 和 $\boldsymbol { M } _ { \boldsymbol { R } _ { 2 } }$ 的增大系统频谱效率提升，以及在 $\boldsymbol { M } _ { \boldsymbol { R } _ { 1 } }$ 和 $\boldsymbol { M } _ { \boldsymbol { R } _ { 2 } }$ 相同， $M _ { s }$ 越大系统频谱效率越大，这是因为调制等级越大，系统吞吐量越大频谱效率越高。通过比较图2和3可得，在调制等级一定的情况下，提升中继节点数量可以增大系统的频谱效率。另外在图3中，还比较了传统的自适应调制算法CM（源端和中继的调制等级相同）和本文的分析方法PM。可以看出PM得到的频谱效率相比CM都有不同程度的提升。
+
+![](images/4257c53b99b3a439fd64327f29306ed53bfad1562a620e3ec5e5d861994e1c98.jpg)  
+图2单中继传输频谱效率对比
+
+![](images/2e366fb420755bd2be3c59537f5c9f5db12d08f392d65a4879bc014eb6785c7d.jpg)  
+图3频谱效率与调制等级变化情况
+
+图4反映了当源端和中继的调制等级为
+
+$M _ { s } = 6 4 , M _ { R _ { 1 } } = 6 4 , M _ { R _ { 2 } } = 1 6$ 系统频谱效率随链路信道参数的变化情况。通过式（9）（14）可得到图4中不同信道参数下的频谱效率大小，信道参数 $m$ 反映了信道的好坏，其值越大表明信道环境越好。通过式（10）（11）可以发现信道参数 $m _ { R _ { 1 } D }$ 与中继选择可能性 $\mathrm { \mathbf { P r } } \Big ( \mathbf { P } _ { \mathrm { s e l e c t } } ^ { \mathrm { } } \Big )$ 成正比， $\mathrm { P r } \Big ( \mathrm { P } _ { \mathrm { s e l e c t } } ^ { } \Big )$ 与系统频谱效率$\eta ^ { 1 , 2 }$ 成正比,当链路平均信噪比 SNR一定的情况下随着 $m _ { R _ { 1 } D }$ 的增大，链路 $R _ { 1 } - D$ 信道环境越好 $\mathbf { P r } \Big ( \mathbf { P } _ { \mathrm { s e l e c t } } ^ { \mathrm { \phantom { * } } } \Big )$ 变大进而系统的频谱效率提升。
+
+![](images/eb1e269d316ee293d4375cb8a8d7049b562b85a3a238e38c47ce98c0038efc61.jpg)  
+图4频谱效率与信道参数的变化情况
+
+图5为当信道参数 $m$ 的大小相等（ $m _ { R _ { 1 } D } = 1 , m _ { R _ { 2 } D } = 1$ ）系统稳定性与不同源和中继的调制等级变化情况仿真图。通过式（9）（20）可以得到图5的各条线，分析可知系统稳定性随着平均信噪比SNR的增大而增大。在传输速率阈值 $R _ { t h }$ ，平均信噪比SNR和源 $M _ { s }$ 一定的情况下，PM方法优于CM方法，这是因为中继的调制等级增大，系统实际传输速率越大，系统稳定性提高。另外在中继调制等级 $\boldsymbol { M } _ { \scriptscriptstyle R _ { 1 } }$ 和 $\boldsymbol { M } _ { \boldsymbol { R } _ { 2 } }$ 相同的情况下，源端调制等级 $M _ { s }$ 与链路 $S - R _ { i }$ 的平均数据包错误率 $\bf { P } _ { S R _ { i } }$ 成正比，随着 $M _ { s }$ 的增大， $\bf { P } _ { S R _ { i } }$ 增大，进而系统稳定性减小。
+
+![](images/208e1c4ff36a497ea44abef4bfbc372172a5e2ec16399d46cd57b83583e2765a.jpg)  
+图5系统稳定性与调制等级的变化情况
+
+图U反映」当源端和中继时调制守级为$M _ { s } = 4 , M _ { R _ { 1 } } = 1 6 , M _ { R _ { 2 } } = 1 6$ 系统稳定性与信道参数的变化情况。在平均信噪比 SNR 和链路 $R _ { 2 } ^ { { \bf \Phi } } - D$ 的信道参数 $m _ { R _ { 2 } D }$ 一定的情况下，随着链路 $R _ { 1 } - D$ 的信道参数 $m _ { R _ { 1 } D }$ 的增大此链路环境变优，由式（21）可得 $\mathrm { P } { \big ( } I _ { R _ { 1 } D } > R { \big ) }$ 的概率变大，进而系统稳定性提升，同理可得随着 $m _ { R _ { 2 } D }$ 的增大， $\mathrm { P } \big ( I _ { R _ { 2 } D } > R \big )$ 的概率变大,系统稳定性提升。因而系统稳定性随着链路的信道参数增大而增大。
+
+![](images/0d5638c5adb488fa27a017bbf8f2e684824b32e02ec9afe4289a5783824f9afd.jpg)  
+图6系统稳定性与信道参数的变化情况
+
+# 5 结束语
+
+本文分析了基于译码转发中继的混合瑞利信道和Nakagami-m信道的系统性能，首先给出了基于频谱效率大小的中继选择方法，而后推导了双中继端到端频谱效率表达式及系统稳定性表达式，并引申到多中继情况进而得到多中继表达式，研究表明系统频谱效率及系统稳定性受源端和中继调制等级，信道平均数据包错误率以及信道的信道参数 $m$ 的影响，分析与仿真结果表明，系统频谱效率随着中继调制等级的增大而增大，系统稳定性随着信道参数 $m$ 的增大而增大，并且所得结果明显好于传统的自适应调制方法。
+
+# 参考文献：
+
+[1]BoccardiF,HeathJrR W,Lozano A.Five disruptive technology directions for 5G[J]. IEEE Communications Magazine,2014,52 (2):74-80.   
+[2]Ma Y, Tafazolli R,Zhang Y Y,et al.Adaptive modulation for opportunistic decode-and-forward relaying [J].IEEE Trans on Wireless Communications, 2011,10(7):2017-2022.   
+[3]Sokun H U, Sedip AB,Ikki S,et al. Selective DF relaying in multi-relay networks with different modulation levels [C]//Proc of IEEE International Conference on Communications.2014: 5035-5041.   
+[4]Sedip AB, Yanikomeroglu H. Selection combining of signals with different modulation levels in Nakagami-m fading [J]. IEEE Communications Letters,2012,16 (5): 752-755.   
+[5]Dubey A，Kundu C,Ngatched T M N. incremental selective decode-and-forward relaying for power line communication [C]// Proc of Vehicular Technology Conference.2018:1-6.   
+[6]冀保峰，宋康，王毅.联合网络编码和中继选择的协作传输方案及其性 能分析[J].通信学报,2015,36(3）.(Ji Baofeng,Song Kang,Wang Yi. Cooperative transmission scheme of relay selection combined with networkcodinganditsperformanceanalysis[J].Journalof Communications,2015,36 (3).)   
+[7]Lu Tao,Ge Jianhua,Yang Ye.BEP analysis for DF coorperative systems combined with signal space diversity [J].IEEE Communications Letters, 2012,16 (4): 486-489.   
+[8]Sokun H U,Yanikomeroglu H.On the spectral effciency of selective decode-and-forward relaying [J]. IEEE Trans on Vehicular Technology, 2017,66 (5): 4500-4506.   
+[9]李兴旺，李静静，靳进，等．Nakagami-m 衰落下中继系统性能分析[J]. 西安电子科技大学学报，2018，45(3):135-140.(Li，XingWang,Li Jingjing，Jin Jin.Performance analysisof relaying systemsover Nakagami-m fading with transceiver hardware impairments [J]. Journal of Xidian University,2018,45 (3):135-140.)   
+[10] AI-Zoubi S,Mohaisen R,AI-Mistrrihi MF.On the outage probability in DF relay selection cooperative wireless networks over Nakagami-m fading channels [C]// Proc of IEEE International Conference on Information and Communication Systems.2016:186-189.   
+[11]张南，葛建华，宫丰奎.Nakagami-m 衰落信道下机会中继系统的性能 [J]．华南理工大学学报：自然科学版,2010,38(6):24-28.(Zhang Nan, Ge Jianhua,Gong Fengkui. Performances of opportunistic relaying system in Nakagami-m fading channels [J]. Journal of South China University of Technology: Natural Science Edition,2010,38 (6): 24-28.)   
+[12] 钱涛，辜方林，李为，等．非一致Nakagami-m信道下DF协同通信的中 断性能[J] 军事通信技术,2015,36(1):28-34.(Qian Tao,GuFanglin,Li wei,et al. Out performance of DF relaying in Non-identical Nakagami-m fading channels [J].Military communication technology,2O15,36(1): 28-34.)   
+[13]蔡春晓，杨炜伟，蔡跃明．混合衰落信道下选择中继译码转发的性能分 析[J]．电子与信息学报,2010,32(1):2582-2586.(Cai Xiaochun,Yang Weiwei，Cai Yueming.Performance analysis of Decode-and-forward Transmission with Relay selection in mixed fading channels [J].Journal of electronics and information,2010,32(11): 2582-2586.)   
+[14] YangChangqing，WangWenbo， ZhaoShuang.Opportunistic decode-and-forward cooperation in mixed Rayleigh and Rician fading channels [J].ETRIJournal,2011,33 (2): 287-290.

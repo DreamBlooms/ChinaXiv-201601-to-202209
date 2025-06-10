@@ -1,0 +1,282 @@
+# 发酵底物锰含量对牦牛体外瘤胃发酵的影响
+
+刘慧丽1,2.3 薛艳锋1,2.3\* 郝力壮 $^ { 1 , 2 , 3 ^ { * * } }$ （ 刘书杰1,2.3\*\* 柴沙驼1,2,3张晓卫1,2.3
+
+3 （1.省部共建三江源生态与高原农牧业国家重点实验室，青海省高原放牧家畜动物营养与饲  
+4 料科学重点实验室，西宁810016；2.青海高原牦牛研究中心，西宁810016；3.青海大学畜  
+5 牧兽医科学院，西宁 810016)  
+6 摘要：为确定耗牛微量元素锰的需要量，本试验以甘氨酸锰为添加形式，研究不同发酵底  
+7 物锰含量对耗牛体外瘤胃发酵的影响。共设定5个发酵底物锰含量，分别为35.00、40.00、  
+8 50.00、60.00和 $7 0 . 0 0 \mathrm { m g / k g }$ ，采用体外瘤胃发酵技术进行 $4 8 \mathrm { { h } }$ 发酵，结束后测定产气量、  
+9 瘤胃发酵特性以及消化酶活力。结果表明：1）当锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时，发酵液氨态氮、  
+10 微生物蛋白质、乙酸、丙酸、异丁酸、丁酸、异戊酸、戊酸和总挥发性脂肪酸含量均达到最  
+11 大值，分别为 $1 0 . 6 0 \mathrm { \ m g / d L _ { \cdot } 3 . 9 0 \ g / L _ { \cdot } 4 7 . 1 2 \ m m o l / L _ { \cdot } 1 9 . 4 5 \ m m o l / L _ { \cdot } 0 . 3 5 \ m m o l / L _ { \cdot } 5 . 4 1 \ m m o l / L _ { \cdot } } $ （204号  
+12 0.96 mmol/L、 $0 . 5 0 \mathrm { m m o l / L }$ 和 $7 2 . 2 4 \ : \mathrm { m m o l / L }$ ；2）当锰含量为 $5 0 . 0 0 \mathrm { m g / k g }$ 时，发酵液脂肪酶  
+13 活力达最大值，为 $0 . 5 0 \mathrm { U / m L }$ ，乙酸/丙酸最低，为2.05。综合可得，出对于生长期牦牛，若  
+14 以甘氨酸锰作为锰元素添加形式，推荐牦牛饲粮锰含量在 $4 0 . 0 0 { \sim } 5 0 . 0 0 \mathrm { m g / k g }$ ，有利于瘤胃  
+15 发酵和饲草料降解。
+
+16 关键词：牦牛；甘氨酸锰；体外瘤胃发酵；消化酶活力
+
+# 17 中图分类号：S823
+
+18 牦牛作为高原的特有物种，在严酷的自然环境下具有高免疫性、抗逆性和快速适应性等  
+19 特点[，其绒、乳、肉等为牧民提供了主要的物质生活资料。一直以来，牦牛的生存主要依  
+20 靠于天然草场，低产特率、低生长速率、冷季掉膘严重等问题严重制约着牦牛产业的发展。  
+21 因此近些年来，牦牛的冷季补饲越来越受到研究者和牧民的关注，科学配制牦牛饲粮也显得  
+22 尤为重要。关于牦牛能量和蛋白质营养方面已经有一定量的研究[2-3]，但是关于耗牛微量元  
+23 素锰方面的研究基本上处于空白状态。锰作为微量元素的一种，是动物生命活动中所必需的  
+24 微量元素之一。锰能促进骨骼发育[4-5]，参与造血[，增强细胞免疫功能[7-8]，是很多酶类的  
+25 组成成分[9]。郗丽兰[10]报道，牛对饲粮锰的需要量为 $4 6 . 4 0 { \sim } 4 8 . 4 0 \mathrm { m g / k g } .$ 。庄怀飞等[]研究  
+26 了不同饲粮锰、铜含量下荷斯坦公牛抗氧化指标的变化，结果表明饲粮锰的适宜含量为50.00  
+27 $\mathrm { m g / k g }$ 。纪守坤等[12]的研究表明，公羔羊和母羔羊对锰的维持需要量分别为0.29 和 $0 . 2 2 ~ \mathrm { g / d }$   
+28 折算成每千克饲粮干物质大约分别为116和 $8 8 ~ \mathrm { m g / k g }$ 。本研究通过体外瘤胃发酵技术探究  
+29 $3 5 { \sim } 7 0 ~ \mathrm { m g / k g }$ 的甘氨酸锰对生长期牦牛瘤胃发酵的影响，旨在得出生长期牦牛饲粮中锰微量  
+30 元素的适宜含量，进而完善牦牛饲养标准，为科学地配制牦牛补饲饲粮提供理论依据，促进  
+31 牦牛产业的发展。
+
+21材料与方法
+
+# ；1.1 试验动物与饲养管理
+
+选择3头健康、体况接近、装有永久性瘤胃瘘管的大通阉耗牛作为试验动物。试验饲粮包括精料和粗料（燕麦青干草），精粗比60:40，单头饲喂，每日2次（08:00、18:00），自由饮水。预饲15d之后，清晨空腹采集瘤胃液。
+
+# 1.2 发酵底物
+
+参考我国《肉牛饲养标准》（NY/T815-2004）和文献[13]，按照 $1 5 0 \mathrm { k g }$ 耗牛日增重500g 设计牦牛基础饲粮，以燕麦青干草作为粗料，精粗比为60:40，以此饲粮为发酵底物，发酵底物组成及营养水平见表1。
+
+Table 1Composition and nutrient levels of fermented substrate (DM basis) $\%$ （204号   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量Content</td><td>营养水平 Nutrient level</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>36.00</td><td>干物质 DM</td><td>90.98</td></tr><tr><td>小麦麸 Wheat bran</td><td>12.00</td><td>粗蛋白质 CP</td><td>11.03</td></tr><tr><td>大豆粕 Soybean meal</td><td>6.60</td><td>酸性洗涤纤维ADF</td><td>17.60</td></tr><tr><td>菜籽粕 Rapeseed meal</td><td>2.13</td><td>中性洗涤纤维 NDF</td><td>31.12</td></tr><tr><td>石粉 Limestone</td><td>0.90</td><td>钙Calcium</td><td>0.88</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.17</td><td>磷 Phosphorus</td><td>0.19</td></tr><tr><td>食盐 NaCl</td><td>0.58</td><td>锰 Manganese/(mg/kg)</td><td>33.82</td></tr><tr><td>燕麦青干草 Dried oat green hay</td><td>40.00</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+# 1.3 试验设计
+
+采用单因素试验设计，共5个处理，每个处理设3个重复。以甘氨酸锰（由长沙兴嘉生物工程有限公司提供，纯度为 $21 \%$ ，产品编号2015071810）形式在发酵底物中添加锰，使锰含量分别达到35.00、40.00、50.00、60.00、 $7 0 . 0 0 \mathrm { m g / k g }$ （干物质基础），其他微量元素铁、锌、硒、铜和碘的含量一致，分别为5.26、6.27、0.04、4.40 和 $0 . 0 0 \mathrm { m g / k g }$ （干物质基础）。
+
+# 1.4体外瘤胃发酵
+
+按照 Menke等[14]的方法制备人工瘤胃液，按照表2中各溶液的配方分别配制微量元素溶液（A液），缓冲液（B液），常量元素溶液（C液），指示剂和还原液。按照顺序依次向 $2 \mathrm { L }$ 的玻璃广口瓶中加入 $6 6 7 ~ \mathrm { m L }$ 的超纯水， $0 . 1 7 \mathrm { m L }$ 的A液， $3 3 3 ~ \mathrm { m L }$ 的B液， $3 3 3 ~ \mathrm { m L }$ 的C液， $1 . 7 0 \mathrm { m L }$ 的指示剂, $6 7 ~ \mathrm { m L }$ 的还原液，配制人工瘤胃液。 $3 0 ~ \mathrm { m L }$ 人工瘤胃液和 $2 0 0 ~ \mathrm { { m g } }$ 发酵底物共同装入发酵管中，放入人工瘤胃培养箱，（ $\cdot 3 9 \pm 0 . 5 \rangle$ ） $\mathrm { { ^ \circ C } }$ 开始发酵[15-16]，分别在培养2、4、6、8、12、14、16、24、30、36、 $4 8 \mathrm { h }$ 读取每个发酵培养管的刻度并记录。
+
+表1发酵底物组成及营养水平(干物质基础)  
+表2人工瘤胃液各单一溶液的配方  
+Table 2Each single solution's formula of artificial rumen buffer   
+
+<html><body><table><tr><td colspan="4">微量元素溶液(A液)</td></tr><tr><td>Micro-element</td><td>缓冲液 (B液)</td><td>常量元素溶液(C 液)</td><td>指示剂</td><td>还原液 Deoxidizer</td></tr><tr><td>solution （solution</td><td>Buffer</td><td>Macro-element</td><td>Indicator</td><td>solution</td></tr><tr><td>A）</td><td>（solution B)</td><td>solution（solution C)</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>CaCl2-2H2O 6.60 g、</td><td>NH4HCO 0.80 g、</td><td>Na2HPO4 1.14 g、</td><td>刃天青100 mg</td><td>NaOH 0.16 g、</td></tr><tr><td>CoCl:6H2O 0.50 g</td><td>NaHCO37.00 g,</td><td>KH2PO4 1.24 g、</td><td>加超纯水至100</td><td>NazS:9HO 625.00</td></tr><tr><td>FeCl:6HO 4.00 g,</td><td>加超纯水至200</td><td>MgSO4:7H2O 0.12 g,</td><td>mL，避光保存</td><td>mg，加超纯水至</td></tr><tr><td>加超纯水至50 mL</td><td>mL</td><td>加超纯水至200mL</td><td></td><td>100 mL，现用现配</td></tr></table></body></html>
+
+# 1.5 测定指标与测定方法
+
+1.5.1 锰含量的测定
+
+锰含量参考GB/T13885-2003[17测定，使用TAS-990原子吸收分光光度计测定发酵底物中微量元素锰含量。锰含量标准曲线为：
+
+$$
+A b s = 0 . 1 8 2 ~ 9 0 C o n c . + 0 . 0 0 3 ~ 1 4 0 ~ 0 ( r = 0 . 9 9 9 ~ 7 , ~ n = 4 ) ,
+$$
+
+式中：Conc.为锰含量 $( \mu \mathrm { g / m L } )$ ， $A b s$ 为吸光度值。
+
+1.5.2产气量、 $\mathfrak { p H }$ 、干物质消失率（DMD）及微生物蛋白质（MCP）和氨态氮（ $\mathrm { N H } _ { 3 }$ -N)含量的测定
+
+发酵底物产气量和DMD采用以下公式计算：
+
+产气量（mL） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 某时间点培养管产气量（mL）-对应时间点空白管产气量（mL）；DMD $( \% ) = [$ （样本DM重-残渣DM重 $\cdot ^ { + }$ 空白管DM重）/样本DM重1 $\lvert \times 1 0 0$ 。
+
+发酵液 $\mathsf { p H }$ 的测定使用HANNA-HI221高精密酸度计进行。发酵液MCP含量用南京建成生物研究所提供的试剂盒测定。发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 含量采用冯宗慈等[18]改进的比色法测定。
+
+# 1.5.3 甲烷产量、VFA含量的测定
+
+甲烷产量参考文献[19-20]测定，使用气相色谱仪（GC-2014，日本岛津公司）测定体外  
+瘤胃发酵所产生的气体中的甲烷含量，进而计算甲烷产量。测定条件：火焰氢离子检测器  
+（FID），色谱柱为毛细管柱（ $\mathrm { \cdot F F A P } , 3 0 . 0 0 \mathrm { m } { \times } 0 . 3 2 \mathrm { m m } , 0 . 5 0 \mathrm { \textmu m } )$ ；色谱柱温度为 $1 0 0 ^ { \circ } \mathrm { C }$ ，  
+恒温模式；汽化室温度 $1 0 0 ^ { \circ } \mathrm { C }$ ；FID 温度 $1 1 0 ^ { \circ } \mathrm { C }$ ；进样量 $1 0 0 \mu \mathrm { L }$ ；载气为高纯氮气 $( 9 9 . 9 9 \%$ )，  
+压力 $0 . 7 \mathrm { M P a }$ ；氢气压力 $0 . 4 \mathrm { M P a }$ ，空气压力 $0 . 4 \mathrm { M P a }$ ；毛细管柱压力 $6 5 \mathrm { { k P a } }$ ，分流比 $4 0 : 1$ 。本试验所使用的甲烷标准气体委托兰州华特化工供应站生产，气体成分如表3所示。
+
+表3甲烷标准气体成分  
+Table 3Composition of methane standard gas $\%$   
+
+<html><body><table><tr><td>编号No.</td><td>二氧化碳 CO2</td><td>甲烷CH4</td><td>氢气H</td><td>氧气O2</td><td>氮气N2</td></tr><tr><td>1</td><td>75.30</td><td>20.65</td><td>1.98</td><td>2.07</td><td>0.00</td></tr><tr><td>2</td><td>49.28</td><td>10.67</td><td>0.51</td><td>0.50</td><td>39.03</td></tr><tr><td>3</td><td>19.80</td><td>4.91</td><td>0.10</td><td>0.10</td><td>75.08</td></tr></table></body></html>
+
+本试验所拟合的甲烷标准曲线为 $Y { = } 2 4 9 8 3 3 X { + } 7 8 2 2 5 . 5$ （ $\scriptstyle . r = 0 . 9 9 9$ ）[Y为进样的峰面积，$X$ 为甲烷含量（mmol/L）]。
+
+VFA含量参考文献[21-22]测定。样品的前处理：发酵液经4层纱布过滤后，取 $5 \mathrm { m L }$ 于干净的离心管中， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液 $2 \mathrm { m L }$ 于离心管中，准确加入 $0 . 2 \mathrm { m L }$ 、$2 5 \%$ 的偏磷酸溶液，混匀之后，静置 $1 0 \mathrm { m i n }$ 充分反应，之后在 $1 2 0 0 0 \mathrm { r / m i n }$ 、 $4 ^ { \circ } \mathrm { C }$ 的条件下离心 $1 0 \mathrm { m i n }$ ，转移上清到新的离心管中， $- 8 0 { } ^ { \circ } \mathrm { C } .$ 冻存，备用。
+
+用气相色谱仪测定VFA含量。测定条件：FID，色谱柱为毛细管柱（FFAP， $3 0 . 0 0 \mathrm { m } { \times } 0 . 3 2$ $\mathrm { m m }$ ， $0 . 5 0 ~ \mathrm { ~ \textmu ~ m ~ } )$ ；色谱柱升温程序，初始 $6 0 ^ { \circ } \mathrm { C }$ ，以 $1 0 \ \mathrm { { ^ circ C / m i n } }$ 升温至 $1 2 0 ^ { \circ } \mathrm { C }$ ，保留 $2 \mathrm { m i n }$ ，以 $1 5 ~ \mathrm { { ^ { \circ } C / m i n } }$ 升温至 $1 8 0 ^ { \circ } \mathrm { C }$ ，保留 $5 \mathrm { m i n }$ ；汽化室温度 $2 5 0 ^ { \circ } \mathrm { C }$ ；FID 温度 $2 5 0 ^ { \circ } \mathrm { C }$ ；进样量 $1 ~ \mu \mathrm { L }$ 载气为高纯氮气（ $9 9 . 9 9 \%$ ），压力 $0 . 7 \mathrm { M P a }$ ；氢气压力 $0 . 4 \mathrm { M P a }$ ，空气压力 $0 . 4 \mathrm { M P a }$ ，毛细管柱压力 $0 . 6 { \sim } 0 . 8 \mathrm { M P a }$ ，分流比 $4 0 : 1$ 。本试验所拟合的VFA含量标准曲线见表4。
+
+# 表4VFA含量标准曲线
+
+<html><body><table><tr><td>项目Items</td><td>标准曲线 Standard curve</td><td>相关系数r</td></tr><tr><td>乙酸 ACE</td><td>Y=5 786.42X+2 033.80</td><td>0.99</td></tr><tr><td>丙酸 PRO</td><td>Y=10 963.30X+8 405.98</td><td>0.99</td></tr><tr><td>异丁酸ISOB</td><td>Y=27 051.50X+2 576.41</td><td>0.99</td></tr><tr><td>丁酸BUTY</td><td>Y=16 064.80X+8 525.77</td><td>0.99</td></tr><tr><td>异戊酸ISOV</td><td>Y=25 745.30X+3 052.60</td><td>0.99</td></tr><tr><td>戊酸 VAL</td><td>Y=22 200.90X+4 885.26</td><td>0.99</td></tr></table></body></html>
+
+Y为进样的峰面积， $X$ 为组分含量（mmol/L）。
+
+1.5.4 淀粉酶（AMS）、脂肪酶(LPS)、胰蛋白酶(TYS)和纤维素酶(CLS)活力的测定
+
+AMS、LPS、TYS和CLS活力测定用南京建成生物研究所提供的试剂盒。单位定义：每毫升含酶溶液在 $3 7 ^ { \circ } \mathrm { C }$ 下与底物作用 $3 0 \mathrm { m i n }$ ，水解 $1 0 \mathrm { m g }$ 淀粉定义为1个AMS 活力单位；每毫升含酶溶液在 $3 7 ^ { \circ } \mathrm { C }$ 下与底物反应 $1 \mathrm { m i n }$ ，每消耗 $1 \ \mathrm { \mu m o l }$ 底物定义为1个LPS 活力单位；每毫升含酶溶液在 $\mathtt { p H 8 . 0 }$ 、 $3 7 ^ { \circ } \mathrm { C }$ 的条件下，每分钟使反应体系的吸光度值变化0.003定义为1个 TYS 活力单位;每毫升含酶溶液每分钟催化产生 $1 \mu \ g$ 葡萄糖定义为1个CLS 活力单位。
+
+# 1.6 统计分析
+
+采用 Excel2007进行数据的初步整理，采用 SAS9.1.3软件中ANOVA程序进行单因素方差分析，采用Duncan 氏法进行多重比较。试验数据均以平均值±标准差表示。
+
+# 2结果与分析
+
+2.1产气量、甲烷产量、DMD及发酵液pH
+
+从表5中可以看出，随着锰含量的升高，产气量呈现降低趋势，发酵液 $\mathsf { p H }$ 呈现升高趋势,DMD呈现先上升后下降的趋势。产气量在锰含量为 $3 5 . 0 0 \mathrm { m g / k g }$ 时处于最高值 $7 3 . 8 0 \mathrm { m L }$ ，在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时处于次高值 $7 2 . 8 0 \mathrm { m L }$ ，锰含量为 $3 5 . 0 0 { \cdot } 4 0 . 0 0 { \cdot } 5 0 . 0 0$ 和 $6 0 . 0 0 \mathrm { m g / k g }$ 时产气量差异不显著( ${ ( P { > } 0 . 0 5 ) }$ ，但这4个处理均显著高于锰含量为 $7 0 . 0 0 \mathrm { m g / k g }$ 时 $( P { < } 0 . 0 5 )$ 。甲烷产量在锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $8 . 0 1 ~ \mathrm { m L }$ ，显著高于锰含量为35.00、40.00和 $5 0 . 0 0 \mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 \$ ），但与锰含量为 $7 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $P { > } 0 . 0 5 \$ ）。DMD在锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $6 8 . 7 3 \%$ ，显著高于锰含量为35.00 和 $7 0 . 0 0 \mathrm { m g / k g }$ 时中 $( P { < } 0 . 0 5 )$ ），但与锰含量为40.00和 $5 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $\cdot P { > } 0 . 0 5$ ）。发酵液 $\mathfrak { p H }$ 在锰含量为 $7 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值7.49（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ），显著高于锰含量为35.00 和 $4 0 . 0 0 \mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 .$ ），但与锰含量为50.00和 $6 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $. P { > } 0 . 0 5 )$ 。
+
+表5发酵底物锰含量对体外瘤胃发酵产气量、甲烷产量、DMD及发酵液 $\mathsf { p H }$ 的影响  
+Table 5Efects of manganese content offermentation substrate on gas production, methane production,DMD and fermentation fluid pH of in vitro rumen fermentation   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">锰含量 Manganese content/(mg/kg)</td><td rowspan="2">P值 P-value</td></tr><tr><td>35.00</td><td>40.00</td><td>50.00</td><td>60.00</td><td>70.00</td></tr><tr><td>产气量 Gas production/mL</td><td>73.80±6.20a</td><td>72.80±3.30a</td><td>71.00±4.00a</td><td>72.20±4.40a</td><td>57.70±9.80b</td><td>0.04</td></tr><tr><td>甲烷产量 Methane production/mL</td><td>6.52±0.29ab</td><td>5.43±0.62a</td><td>5.85±1.17ab</td><td>8.01±1.32c</td><td>7.12±1.60bc</td><td><0.01</td></tr><tr><td>干物质消失率 DMD/%</td><td>45.23±1.03a</td><td>63.86±10.28bc</td><td>60.35±7.50abc</td><td>68.73±12.66c</td><td>50.81±6.32ab</td><td>0.04</td></tr><tr><td>pH</td><td>7.03±0.03a</td><td>7.04±0.21a</td><td>7.23±0.09ab</td><td>7.30±0.19b</td><td>7.49±0.04b</td><td>0.01</td></tr></table></body></html>
+
+Y was peak area of sample， and $X$ was component content（mmol/L）.   
+119 同行数据肩标不同小写字母表示差异显著（ $\cdot P { < } 0 . 0 5$ ），相同或无小写字母表示差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。120 下表同。121 In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，while122 with the same small or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+# 2.2 发酵液 $\mathrm { N H } _ { 3 } { \cdot } \mathrm { N }$ 和MCP含量
+
+从表6中可以看出，随着锰含量的升高，发酵液 $\mathrm { N H } _ { 3 } – \mathrm { N }$ 和 MCP含量呈现先上升后下降的趋势。发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 含量在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $1 0 . 6 0 \mathrm { m g / d L }$ ，显著高于锰含量为50.00、60.00 和 $7 0 . 0 0 \mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 )$ ），但与锰含量为 $3 5 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $_ { \cdot \textcircled { P > } 0 . 0 5 }$ ）。发酵液 MCP含量在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $3 . 9 0 ~ \mathrm { g / L }$ ，显著高于锰含量为35.00、60.00 和 $7 0 . 0 0 \mathrm { m g / k g }$ 时（ $( P { < } 0 . 0 5 )$ ），但与锰含量为 $5 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $\scriptstyle \cdot { \cal P } \gamma \geqslant 0 . 0 5 ,$ ）。
+
+Table 6Effects of manganese content of fermentation substrate on $\mathrm { N H } _ { 3 }$ -N and MCP contents of fermentation fluid of in vitro rumen fermentation   
+
+<html><body><table><tr><td>项目</td><td colspan="5">锰含量 Manganese content/(mg/kg)</td><td>P值</td></tr><tr><td>Items</td><td>35.00</td><td>40.00</td><td>50.00</td><td>60.00</td><td>70.00</td><td>P-value</td></tr><tr><td>氨态氮 NH3-N/(mg/dL)</td><td>10.25±1.39b</td><td>10.60±0.95b</td><td>7.70±0.91a</td><td>7.49±0.79a</td><td>6.42±1.09a</td><td><0.01</td></tr><tr><td>微生物蛋白质 MCP/(g/L)</td><td>1.17±0.551a</td><td>3.90±1.103c</td><td>3.51±0.55bc</td><td>2.73±0.55b</td><td>1.17±0.55a</td><td><0.01</td></tr></table></body></html>
+
+.33 2.3 发酵液消化酶活力
+
+134 从表7中可以看出，随着锰含量的升高，发酵液AMS、LPS、TYS 活力呈现先上升后  
+135 下降的趋势，发酵液CLS 活力呈现上升趋势。发酵液 AMS 活力在锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$ 时  
+136 达到最大值 $0 . 5 1 \mathrm { \ U / m L }$ ，显著高于锰含量为35.00、40.00 和 $5 0 . 0 0 \mathrm { m g / k g }$ 时（ $\scriptstyle P < 0 . 0 5 .$ ），但  
+137 与锰含量为 $7 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $_ { ( P > 0 . 0 5 ) }$ ；发酵液LPS 活力在锰含量为 $5 0 . 0 0 \mathrm { m g / k g }$   
+138 时达到最大值 $0 . 5 0 \mathrm { U / m L }$ ,显著高于其他处理( $_ { ( P < 0 . 0 5 ) }$ ,锰含量为 $4 0 . 0 0 , 6 0 . 0 0$ 和 $7 0 . 0 0 \mathrm { m g / k g }$ （204号  
+139 时差异不显著（ $. P { > } 0 . 0 5 )$ ），但显著高于锰含量为 $3 5 . 0 0 \mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 )$ ）；发酵液TYS 活  
+140 力在锰含量 $6 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $6 5 . 4 6 ~ \mathrm { U / m L }$ ，显著高于锰含量为 $3 5 . 0 0 \mathrm { m g / k g }$ 、70.00  
+141 $\mathrm { m g / k g }$ 时（ $. P { < } 0 . 0 5 )$ ），但与锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 、 $5 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $. { \cal P } { > } 0 . 0 5$ ）。  
+142 发酵液CLS 活力各处理间差异不显著（ $_ { \cdot \textcircled { P > } 0 . 0 5 }$ ），在锰含量为 $7 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值  
+143 $8 1 . 1 2 \mathrm { U / m L }$ 。  
+148 从表8中可以看出，随着锰含量的升高，发酵液乙酸、丙酸、异丁酸、丁酸、异戊酸、  
+149 戊酸、总挥发性脂肪酸的含量都呈现先上升后下降的趋势。发酵液乙酸含量在锰含量为40.00  
+150 $\mathrm { m g / k g }$ 时达到最大值 $4 7 . 1 2 \ \mathrm { m m o l / L }$ ，显著高于锰含量为50.00、60.00 和 $7 0 . 0 0 ~ \mathrm { m g / k g }$ 时  
+151 （ $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ），但与锰含量为 $3 5 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 )$ ）；发酵液丙酸含量各处理  
+152 间差异不显著（ $P { > } 0 . 0 5 )$ ），在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $1 9 . 4 5 \ \mathrm { m m o l / L }$ ；发酵液异  
+153 丁酸含量各处理间差异不显著（ $P { > } 0 . 0 5$ ），在锰含量为 $4 0 . 0 0 ~ \mathrm { m g / k g }$ 时达到最大值0.35  
+154 mmol/L；发酵液丁酸含量各处理间差异不显著（ $. P { > } 0 . 0 5 \ '$ ），在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到  
+155 最大值 $5 . 4 1 \ \mathrm { m m o l / L }$ ；发酵液异戊酸含量各处理间差异不显著（ $\cdot P { > } 0 . 0 5 \$ ），在锰含量为40.00  
+156 $\mathrm { m g / k g }$ 时达到最大值 $0 . 9 6 \mathrm { m m o l / L }$ ；发酵液戊酸含量各处理间差异不显著（ $P { > } 0 . 0 5$ ），在锰  
+157 含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $0 . 5 0 \mathrm { m m o l / L }$ ;发酵液总挥发性脂肪酸含量在锰含量为40.00  
+158 $\mathrm { m g / k g }$ 时达到最大值 $7 2 . 2 4 \ \mathrm { m m o l / L }$ ，显著高于锰含量为60.00 和 $7 0 . 0 0 \mathrm { m g / k g }$ 时（ $_ { , P < 0 . 0 5 ) }$ ），  
+159 但与锰含量为35.00 和 $5 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $P { > } 0 . 0 5 \$ ）；发酵液乙酸/丙酸在锰含量为  
+160 $5 0 . 0 0 \mathrm { m g / k g }$ 时达到最小值2.05，显著低于锰含量为35.00、40.00 和 $6 0 . 0 0 \mathrm { m g / k g }$ 时 $_ { ( P < 0 . 0 5 ) }$ ，  
+161 但与锰含量为 $7 0 . 0 0 \mathrm { m g / k g }$ 时差异不显著（ $P { > } 0 . 0 5 \$ ）。
+
+表6发酵底物锰含量对体外瘤胃发酵发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 和MCP含量的影响  
+表7发酵底物锰含量对体外瘤胃发酵发酵液消化酶活力的影响  
+Table 7Efects of manganese content of fermentation substrate on activities of digestive enzymes of fermentation fluid of in vitro rumen fermentation U/mL   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">锰含量 Manganese content/(mg/kg)</td><td rowspan="2">P值</td></tr><tr><td>35.00</td><td>40.00</td><td>50.00</td><td>60.00</td><td>70.00</td></tr><tr><td>淀粉酶 AMS</td><td>0.29±0.01a</td><td>0.31±0.10a</td><td>0.23±0.08a</td><td>0.51±0.09b</td><td>0.50±0.02b</td><td><0.01</td></tr><tr><td>脂肪酶LPS</td><td>0.42±0.02a</td><td>0.47±0.02b</td><td>0.50±0.02c</td><td>0.46±0.03b</td><td>0.46±0.00b</td><td><0.01</td></tr><tr><td>胰蛋白酶 TYS</td><td>32.71±8.10a</td><td>60.79±8.10bc</td><td>51.44±8.10bc</td><td>65.46±8.10c</td><td>46.76±8.10ab</td><td><0.01</td></tr><tr><td>纤维素酶 CLS</td><td>55.62±3.48</td><td>78.80±16.43</td><td>76.48±3.48</td><td>77.64±17.84</td><td>81.12±4.01</td><td>0.10</td></tr></table></body></html>
+
+147 2.4发酵液VFA含量
+
+表8发酵底物锰含量对体外瘤胃发酵发酵液VFA含量的影响  
+Table8Effects of manganese content offermentation substrate on VFAcontents offermentation fluid of in vitro rumen fermentation   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">锰含量 Manganese content/(mg/kg)</td><td rowspan="2">P值</td></tr><tr><td>35.00</td><td>40.00</td><td>50.00</td><td>60.00</td><td>70.00</td></tr><tr><td>乙酸 ACE/(mmol/L)</td><td>44.20±4.98bc</td><td>47.12±6.77c</td><td>34.28±6.59ab</td><td>31.41±8.95a</td><td>27.42±6.64a</td><td>0.02</td></tr><tr><td>丙酸 PRO/(mmol/L)</td><td>14.79±0.86</td><td>19.45±3.77</td><td>14.77±3.12</td><td>12.71±1.19</td><td>13.04±3.13</td><td>0.07</td></tr><tr><td>异丁酸 ISOB/(mmol/L)</td><td>0.25±0.03</td><td>0.35±0.10</td><td>0.26±0.07</td><td>0.24±0.08</td><td>0.20±0.05</td><td>0.18</td></tr><tr><td>丁酸 BUTY/(mmol/L)</td><td>4.11±0.03</td><td>5.41±0.97</td><td>4.15±0.84</td><td>3.39±0.39</td><td>3.43±1.04</td><td>0.05</td></tr><tr><td>异戊酸 ISOV/(mmol/L)</td><td>0.69±0.07</td><td>0.96±0.24</td><td>0.71±0.16</td><td>0.60±0.08</td><td>0.59±0.11</td><td>0.06</td></tr><tr><td>戊酸 VAL/(mmol/L)</td><td>0.31±0.02</td><td>0.50±0.15</td><td>0.32±0.11</td><td>0.26±0.04</td><td>0.26±0.09</td><td>0.06</td></tr><tr><td>总挥发性脂肪酸 TVFA/(mmol/L)</td><td>63.18±7.42ab</td><td>72.24±13.06b</td><td>54.48±10.79ab</td><td>48.62±10.25a</td><td>44.96±10.99a</td><td>0.03</td></tr><tr><td>乙酸/丙酸 ACE/PRO</td><td>2.61±0.02b</td><td>2.59±0.08b</td><td>2.05±0.20a</td><td>2.87±0.58b</td><td>2.56±0.03ab</td><td>0.03</td></tr></table></body></html>
+
+165 3讨论
+
+166 瘤胃发酵产气量的多少反映饲粮的降解程度[23]，产气量越高，表明饲粮发酵越充分，  
+167 为机体提供的能量越多，越有利于动物的生长。本试验中产气量在锰含量为 $3 5 . 0 0 \mathrm { m g / k g }$ 时  
+168 处于最高值，随着锰含量的增加，产气量逐渐降低，说明锰含量越高，越不利于瘤胃发酵。  
+169 甲烷产量在锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$ 时达到最高值。产气量降低，甲烷产量反而升高，意味着  
+170 能量损失增大。在锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$ 时，甲烷产量达到最高，为 $8 . 0 1 ~ \mathrm { m L }$ ，高效酸丙酸  
+171 的含量达到最低，为 $1 2 . 7 1 \ \mathrm { m m o l / L }$ ，乙酸/丙酸达到最大,为2.87，表明锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$   
+172 时不利于动物生长。从发酵液MCP含量结果来看，也恰恰证明了这一点，在锰含量为 60.00  
+173 $\mathrm { m g / k g }$ 时，发酵液 MCP含量较低，此时瘤胃微生物活力低。 $\mathfrak { p H }$ 是瘤胃发酵的综合反映，受  
+174 发酵底物类型、有机酸沉淀等各种因素的影响[24]，只有当 $\mathsf { p H }$ 处于正常范围之内，才能够保  
+175 证瘤胃发酵、饲料降解的正常进行。本试验不同锰含量下体外瘤胃发酵后的发酵液pH在  
+176 $7 . 0 3 \sim 7 . 4 9$ ，属正常范围（ $5 . 6 0 { \sim } 7 . 5 0 \rangle$ ）。
+
+DMD 直接反映饲粮在瘤胃中的降解程度。本试验中，DMD 随锰含量的升高呈现先上升后下降的趋势，在锰含量为 $6 0 . 0 0 \mathrm { m g / k g }$ 时达到最大值 $6 8 . 7 3 \%$ 。由此可见，锰含量为60.00$\mathrm { m g / k g }$ 时最有利于饲料的降解。锰可以显著促进瘤胃微生物对纤维素的降解。Martinez 等[25]研究表明，底物中锰含量为 $5 . 0 0 { \sim } 3 0 . 0 0 \mathrm { m g / L }$ 时，都能促进瘤胃微生物降解纤维素，而其中锰含量为 $1 5 . 0 0 \mathrm { m g / L }$ 时效果最佳。黄静龙[26]研究表明， $4 0 . 0 0 \mathrm { m g / k g }$ 锰组的饲粮表观消化率显著高于 $1 2 0 . 0 0 \mathrm { m g / k g }$ 锰组和 $1 6 0 . 0 0 \mathrm { m g / k g }$ 锰组。DMD 的结果与瘤胃消化道酶活力的测定结果基本吻合，发酵液AMS、LPS、TYS 活力随锰含量的升高呈现先上升后下降的趋势，只有发酵液CLS活力随锰含量的升高呈现持续升高的趋势，并且都在锰含量为 $4 0 . 0 0 { \sim } 6 0 . 0 0$ $\mathrm { m g / k g }$ 时处于较高水平。因此从瘤胃消化酶活力和DMD 的角度看，当锰的含量在 $4 0 . 0 0 \sim$ $6 0 . 0 0 \mathrm { m g / k g }$ 时，最有利于饲粮的降解。
+
+$\mathrm { N H } _ { 3 } – \mathrm { N }$ 来源于饲粮中蛋白质的降解，主要用于微生物合成 $\mathbf { M C P ^ { [ 2 7 ] } }$ ，在瘤胃中基本处于动态平衡。本试验中的发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 含量在 $6 . 4 2 { \sim } 1 0 . 6 0 \ \mathrm { m g / d L }$ ，都处于正常范围 $( 0 . 3 5 \sim 2 9 . 0 0$ $\mathrm { m g / d L ^ { [ 2 8 - 2 9 ] } }$ ）。发酵液 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 含量随着锰含量的升高呈现先上升后下降的趋势，并且在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到最高值。MCP提供了反刍动物机体 $4 0 \% \sim 6 0 \%$ 的蛋白质需要量。发
+
+酵液 MCP含量随着锰含量的升高呈现先上升后下降的趋势，且在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时：达到最大值。由此可见，锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时，最有利于 $\mathrm { N H } _ { 3 ^ { - } } \mathrm { N }$ 和 MCP 的形成。
+
+VFA 是反刍动物重要的能量物质，提供了反刍动物 $6 0 \% \sim 8 0 \%$ 的消化能 $[ 3 0 - 3 1 ]$ 。乙酸、丙酸、异丁酸、丁酸、异戊酸、戊酸、总挥发性脂肪酸的含量都随着锰含量的升高呈现先上升后下降的趋势，都在锰含量为 $4 0 . 0 0 \mathrm { m g / k g }$ 时达到最高值，并且都在锰含量为 $3 5 . 0 0 { \sim } 5 0 . 0 0$ $\mathrm { m g / k g }$ 时处于较高水平。同时，对于反刍动物来说，为机体提供能量的物质主要是来源于肝脏组织中糖异生作用产生的葡萄糖，而丙酸是糖异生作用的重要前体物质，是一种高效酸，乙酸/丙酸越低，表明丙酸所占比例也越大，越利于反刍动物的生长。本试验中乙酸/丙酸在锰含量为 $5 0 . 0 0 \mathrm { m g / k g }$ 时达到最低值2.05，最有利于瘤胃发酵过程中高效酸丙酸的生成。因此，从挥发性脂肪酸的角度看，当锰含量为 $3 5 . 0 0 { \sim } 5 0 . 0 0 \mathrm { m g / k g }$ 时，有利于瘤胃发酵能量物质的生成。
+
+4结论
+
+$\textcircled{1}$ 对于生长期牦牛，若以甘氨酸锰作为锰元素添加形式，推荐牦牛饲粮锰含量在 $4 0 . 0 0 \sim$ $5 0 . 0 0 \mathrm { m g / k g }$ ，有利于瘤胃发酵和饲草料降解。
+
+$\textcircled{2}$ 根据现有资料设定的牦牛饲粮中锰含量只有 $3 3 . 8 2 \mathrm { m g / k g }$ ，远低于耗牛对锰的需要量$4 0 . 0 0 { \sim } 5 0 . 0 0 \mathrm { m g / k g }$ ，处于极度缺乏状态，必须额外补充微量元素锰，才能改善牦牛瘤胃发酵，提高生长性能。
+
+参考文献:
+
+[1]朱国兴,张云玲.浅谈我国牦牛业生产现状及发展思路[J].中国畜牧杂  
+志,2005,41(1):63-65.  
+211 [2]韩兴泰,胡令浩.生长牦牛能量代谢的研究[J].青海畜牧兽医杂志,1993(1):13-16.  
+212 [3]薛白,柴沙驼,刘书杰,等.生长期牦牛蛋白质需要量的研究[J].青海畜牧兽医杂  
+213 志,1994,24(4):1-4.  
+214 [4] LEACH R M Jr,MUENSTER A M.Studies on the role of manganese in bone formation:  
+215 I.Effect upon the mucopolysaccharide content of chick bone[J].The Journalof  
+216 Nutrition,1962,78(1):51-56.  
+217 [5]LEACH R M Jr,MUENSTER A M,WIEN E W.Studies on the role of manganese in bone  
+218 formation: I .Effect upon chondroitin sulfate synthesis in chick epiphyseal cartilage[J].Archives of  
+219 Biochemistry and Biophysics,1969,133(1):22-28.  
+220 [6]陈晓超,柯李晶,陈躬瑞,等.鹿茸粗提取液对大鼠成骨肉瘤细胞增殖的调节作用[J].中国中  
+221 药杂志,2004,29(1):74-77.  
+222 [7]李克强,郑洪新,朱辉,等.鹿茸复方提取物对骨质疏松症干预作用[J].中国公共卫  
+223 生,2011,27(8):1016-1017.  
+224 [8]贺文彬,张俊龙,薛薇,等.鹿茸醇提取物对大鼠海马长时程增强的易化作用[J].中药新药与  
+225 临床药,2009,20(5):401-403.  
+226 [9]吴爱芝,王晓琴,卢文彪,等.生物体系中含锰金属酶模型配合物的结构研究进展[J].广州化  
+227 学,2005,30(2):57-61.  
+228 [10]郗丽兰.微量元素锰的生理功能[J].陕西粮油科技,1990(2):28-31.  
+229 [11]庄怀飞,侯明海,李彦芹,等.不同铜、锰水平对荷斯坦种公牛血清抗氧化指标的影响[J].  
+230 中国农学通报,2009,25(4):1-5.  
+231 [12]纪守坤,许贵善,刁其玉,等.不同饲喂水平对肉用羔羊矿物质消化代谢的影响[J].饲料工  
+232 业,2012,33(11):43-47.  
+233 [13] 胡令浩.牦牛营养研究论文集[M].西宁:青海人民出版社,1997.  
+234 [14] MENKE K H,RAAB L,SALEWSKI A,et al.The estimation of the digestibility and  
+236 incubated with rumen liquor in vitro[J].The Journal of Agriculture Science,1979,93(1):217-225.  
+237 [15]郝力壮,柴沙驼,崔占鸿,等.应用体外产气法评定青海省青稞营养价值[J].西北农业学  
+238 报,2009,18(6):70-72.  
+239 [16]张晓卫,郝力壮,王万邦,等.体外产气法评定燕麦营养价值[J].饲料研究,2012(9):61-64.  
+240 [17]中华人民共和国国家质量监督检验检疫总局.GB/T13885-2003 动物饲料中钙、铜、铁、  
+241 锰、镁、钾、钠和锌含量的测定原子吸收光谱法[S].北京:中国标准出版社,2003.  
+242 [18]冯宗慈,高民.通过比色测定瘤胃液氨氮含量方法的改进[J].畜牧与饲料科  
+243 学,2010,31(6/7):40-41.  
+244 [19]丁学智.单宁酸对瘤胃发酵特性及甲烷产量的影响[D].硕士学位论文.兰州:甘肃农业大  
+245 学,2006.  
+246 [20] 郭雪峰.内蒙古白绒山羊甲烷产生量估测模型的建立及其影响因素的研究[D].硕士学  
+247 位论文.呼和浩特:内蒙古农业大学,2008.  
+248 [21] 曹庆云,周武艺,朱贵钊,等.气相色谱测定羊瘤胃液中挥发性脂肪酸方法研究[J].中国饲  
+249 料,2006(24):26-28.  
+250 [22]王加启.反刍动物营养学研究方法[M].北京:现代教育出版社,2011:139-141.  
+251 [23]哈斯花.体外发酵产气技术在饲料营养价值评定中的作用[J].当代畜禽养殖  
+252 业,2013(1):15-19.  
+253 [24] 高天爽,孙海霞,谢小来,等.日粮中高梁替代玉米对绵羊瘤胃发酵的影响[J].黑龙江畜牧  
+254 兽医,2014(9):7-10.  
+255 [25]MARTINEZ A,CHURCH D C.Effect of various mineral elements on in vitro rumen  
+256 cellulose digestion[J].Journal of Animal Science,1970,31(5):982-990.  
+257 [26]黄静龙.不同硒、锰水平对奶牛乳品质、血液生化指标的影响及消化代谢规律的研究[D].  
+258 硕士学位论文.泰安:山东农业大学,2005.  
+259 [27] LENG R A,NOLAN J Y.Nitrogen metabolism in the rumen[J].Journal of Dairy  
+260 Science,1984,67(5):1072-1089.  
+261 [28]SLYTER L L.Monensin and dichloroacetamide influences on methane and volatile Fatty  
+262 Acid production byrumenbacteriainvitro[J].AppliedandEnvironmental  
+263 Microbiol0gy,1979,37(2):283-288.  
+264 [29]COLEMAN G S,SANDFORD D C.The uptake and utilization of bacteria,amino acids and  
+265 nucleic acid components by the rumen ciliate Eudiplodinium maggii[J].Journal of Applied  
+266 Bacteriology,1979,47(3):409-419.  
+267 [30] GRAY G M.Starch digestion and absorption in nonruminants[J].The Journal of  
+268 Nutrition,1992,122(1):172-177.  
+269 [31]赵国琦,贾亚红,陈小连,等.不同 NDF/NFE 比的日粮对山羊瘤胃发酵参数影响的研究[J].  
+270 中国畜牧杂志,2006,42(13):29-33.  
+271 Effects of Manganese Content in Fermentation Substrate on in Vitro Rumen Fermentation of Yaks  
+272 LIU Huilil.2.3XUE Yanfeng $^ { . 1 , 2 , 3 ^ { * } }$ HAO Lizhuang $^ { . 1 , 2 , 3 ^ { * * } }$ LIU Shujie1,2,3\*\*CHAI Shatuo1,2,.3  
+273 ZHANG Xiaowei1,2.3  
+274 (1. State Key Laboratory of Plateau Ecology and Agriculture, Key Laboratory of Plateau Grazing  
+275 Animal Nutrition and Feed Science ofQinghai Province, Xining 810016, China; 2. Qinghai
+
+Plateau Yak Research Center, Xining 810016, China; 3.Academy of Science and Veterinary Medicine of Qinghai University, Xining 810016, China)
+
+Abstract: In order to find manganese requirement of yaks, manganese bisglycinate was used as additive in this experiment to investigate the effects of different contents of manganese in fermentation substrate on in vitro rumen fermentation of yaks. Five manganese contents in fermentation substrate were designed, which were 35.00, 40.00, 50.00, 60.00 and $7 0 . 0 0 ~ \mathrm { m g / k g }$ respectively. The fermentation lasted for $4 8 \mathrm { ~ h ~ }$ using in vitro rumen fermentation method.After fermentation, gas production, rumen fermentation characteristics and digestive enzyme activities were measured. The results showed as follows: 1) when the content of manganese was $4 0 . 0 \mathrm { m g / k g }$ the contents of ammonia nitrogen, microbial protein,acetic acid, propionic acid, isobutyric acid, butyric acid, isovaloric acid, valeric acid and total volatile fatty acids in fermentation fluid reached the highest,which were $1 0 . 6 0 \mathrm { m g / d L }$ ， $3 . 9 0 ~ \mathrm { g / L }$ ， $4 7 . 1 2 \ \mathrm { m m o l / L }$ ， $1 9 . 4 5 \ \mathrm { m m o l / L }$ ， $0 . 3 5 \mathrm { m m o l / L }$ , 5.41 mmol/L, $0 . 9 6 \mathrm { \ m m o l / L }$ ， $0 . 5 0 \ \mathrm { m m o l / L }$ and $7 2 . 2 4 \ \mathrm { m m o l / L }$ ，respectively; 2） when the content of manganese was $5 0 . 0 0 ~ \mathrm { m g / k g } ,$ lipidase activity in fermentation fluid reached the highest as 0.50 $\mathrm { U } / \mathrm { m L }$ ,and acetic acid/propionic acid in fermentation fluid reached the lowest, as 2.05. Therefore, the manganese content recommended in diet for growing yaks is between 40.00 and $5 0 . 0 0 \mathrm { m g / k g }$ ， when usingmanganese bisglycinate as additive，which is help to rumen fermentation and forage degradation. 294 Key words: yak; manganese bisglycinate; in vitro rumen fermentation; digestive enzyme activity

@@ -1,0 +1,460 @@
+[
+    {
+        "type": "text",
+        "text": "柠条引入对沙化草地土壤颗粒组分的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹媛²，杨新国¹²，陈林¹²，王兴¹²，宋乃平1²，王磊1.2(1.宁夏大学西北退化生态系统恢复与重建教育部重点实验室,宁夏 银川750021;2.宁夏大学西北土地退化与生态系统恢复省部共建国家重点实验室培育基地,宁夏 银川 750021)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在干旱地区通过人工灌木的引人治理沙化草地是一种广泛存在的生态治理措施。人工灌木可以通过其防风固沙作用,稳定地表环境，从而促进沙化草地的修复。柠条是荒漠草原常见的一种治沙用灌木,其引入多年后对沙化草地土壤修复的效果到底如何,依然缺乏区域性的总结分析。采用经典统计学与地统计学相结合的方法，通过对宁夏中部人工柠条林地和沙化草地的土壤颗粒含量以及灌丛和斑块尺度土壤黏粒的相对富集能力分析,探讨了柠条引入对沙化草地土壤颗粒组分的影响,以期为同类地区沙化土地的恢复提供决策参考。初步研究结果表明,人工柠条林和沙化草地间土壤颗粒含量差异均不显著。在灌丛尺度上,阴坡土壤黏粒的富集能力相对较强,平均富集率为0.11,最大值达到1.09,整体以正效应为主,尤其以研究区北部的阴坡最为显著,南部土壤黏粒的富集能力显著减弱;阳坡土壤黏粒的富集能力整体以负效应为主,平均富集率为-0.08;在斑块尺度上，土壤黏粒的富集能力整体显著低于灌丛尺度，阴坡仍以正效应为主,但富集率显著降低;阳坡仍以负效应为主，但负效应程度显著增强,平均富集率为-0.17。综上，柠条引人作为荒漠草原沙化草地治理的一个重要工程措施，其效果与土壤沙化本底情况有关，同时又受到微生境(坡向)的影响。就本研究区域而言,柠条引入后只是推动了土壤黏粒物质在局域尺度的空间再分配，并未导致黏粒物质总量的显著改善，甚至在一定程度上体现出灌丛入侵的负面效应，同时这种效应随草地本底沙化程度的增强而增强。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：柠条；沙化草地；土壤颗粒组分；富集率；荒漠草原 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土地沙漠化是由于气候变化、人类活动等原因导致的干旱、半干旱、亚湿润干旱地区土地退化[1],是当今世界面临的最严重的环境问题之一[2]。我国土地沙漠化面积大、分布广，根据中国林业网发布的第五次全国荒漠化和沙化土地监测结果，截止2014年，我国沙化土地总面积为 $1 7 2 . 1 2 { \\times } 1 0 ^ { 4 } \\mathrm { k m } ^ { 2 }$ ，占国土总面积的 $1 7 . 9 3 \\%$ 。宁夏中部干旱带是我国土地沙漠化最严重的地区之一，是典型的由干旱向半干旱过渡区域，自然条件恶劣，土壤贫瘠，植被覆盖度极低。土地沙漠化造成自然灾害频发，土地生产力下降，水土严重流失3等问题。在国家“退耕还林\"政策下，为恢复自然植被和生态环境，实施了封山绿化、禁牧[4等措施，取得了一定的成效。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在干旱地区进行大规模人工植被建设会导致土壤物理性质和结构变化5，影响土壤性质和土壤颗粒组分[6。因此,研究人工植被引入后对土壤颗粒组分的影响具有重要意义。很多学者对此进行了研究，结果表明，人工植被对沙化土地的恢复主要体现在细粒物质的增加及粗粒物质的减少[7-8]然而，人工植被引入后对土壤颗粒组分的影响会随着恢复时间的不同而不同，贾晓红等比较了干旱沙漠地区6个不同年代恢复区植被恢复过程中土壤颗粒组成特征，结果表明土壤颗粒组成随植被恢复时间延长而变细;李裕元等研究了典型水蚀风蚀交错带植被恢复过程中土壤颗粒组成特征，结果表明植被恢复在短期内( $< 3 0 \\mathrm { ~ a } ,$ 对土壤颗粒组成不会产生显著的影响。此外，人工植被引入后对土壤颗粒组分的影响随着立地条件的不同而不同，齐雁冰等[]选取了6个不同典型沙漠化逆转类样地进行研究,结果表明人工植被恢复过程中流动沙丘土壤砂粒含量恢复接近正常土壤水平，而农田的土壤黏粒含量变化并不显著；王月玲等研究了天然草地、人工草地、鱼鳞坑、水平沟4种不同立地类型生态恢复过程中的土壤颗粒组成，结果表明不同立地类型土壤颗粒组成有所不同，有措施地(人工草地、鱼鳞坑、水平沟)的粗砂粒和中砂粒平均含量基本高于无措施地(天然草地)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前，在宁夏地区进行人工植被恢复对于土壤养分、土壤性质、土壤水分和土壤微生物的影响已被广泛的研究[13-14]。研究人工植被引入后对土壤性质的影响将为生态环境修复提供重要指导，因此对其土壤颗粒组分变化的研究具有重要意义。然而，大多数研究集中在不同植被恢复措施下土壤颗粒组分的变化，很少涉及不同尺度下土壤颗粒组分特征研究。因此，本文通过对比在沙化草地和相邻沙化草地上建植人工柠条林的土壤颗粒分布特征，以及灌丛和斑块尺度土壤黏粒的相对富集能力分析，探讨柠条引入后对土壤颗粒组分的影响，评价其恢复作用，以期为同类地区沙化土地的恢复提供决策参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区域与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "宁夏中部干旱带地处我国西北内陆，位于宁夏回族自治区中部，包括灵武市、利通区、沙坡头区、红寺堡区、盐池县、同心县、海原县、中宁县等县区，是典型的环境敏感区和生态脆弱区。地理位置为$1 0 4 ^ { \\circ } 1 7 ^ { \\prime } { \\sim } 1 0 7 ^ { \\circ } 3 9 ^ { \\prime } \\mathrm { E } , 3 6 ^ { \\circ } 5 4 ^ { \\prime } { \\sim } 3 8 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { N } \\mathrm { \\Omega } _ { \\circ }$ 。西部与腾格里沙漠接壤，东部毗邻毛乌素沙地，南部与黄土高原相连。主要气候带属于典型温带大陆性干旱半干旱气候，年平均气温 $1 0 . 4 ~ \\mathrm { { ^ { \\circ } C } }$ ,常年干旱少雨,年平均降水量 $1 8 9 . 5 ~ \\mathrm { m m }$ ，日照充足，蒸发强烈，年日照时长$3 0 0 0 \\mathrm { ~ h ~ }$ 。缓坡丘陵地貌为主，平均海拔1100\\~1600$\\mathrm { ~ m ~ }$ 。植被稀疏，风沙灾害频繁，年大风天数 $2 4 { \\sim } 4 4 \\mathrm { d }$ ，平均风速 $3 . 4 \\ \\mathrm { m \\cdot s ^ { - 1 } } , \\geq 5 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 大风天数年均 $8 0 \\mathrm { d }$ 。主要天然植物种包括猪毛蒿(Artemisiascoparia）、甘草(Glycyrrhizauralensis）胡枝子(Lespedeza bicolor）、针茅（Stipacapillata）、银灰旋花（Convolvulusamman-nii）、山苦卖(Ixerisdenticulata)等。主要土地类型包括耕地、林地、草地等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 采样及分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 空间取样方法与土壤样品采集2018年8月在研究区进行了野外土壤样品采集工作(图1)，将研究区划分了 $2 0  { \\mathrm { k m } } \\times 2 0  { \\mathrm { k m } }$ 的栅格共37个，以覆被(林草)和生境(坡向)两个关键因子作为样地选取的依据，同时在选取过程中保证人工柠条林引入前和相邻沙化草地样地的土壤类型相同且土壤性质相近。据此在每个栅格内，按人工柠条林(阴坡、阳坡）、沙化草地(阴坡、阳坡)选取了4类调查样地，构成了区域尺度的调查样地体系，人工柠条林和沙化草地各74个样地。其中人工柠条林样地分灌丛内、灌丛外进行取样，共计148个取样点，相邻草地共计74个取样点。每个取样点重复取样3次，取样深度为 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层,并均匀混合，作为一个土壤样品，编号后装入自封袋密封保存。共采集到土壤样品222个。采样点位置均用手持GPS精确定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a7417fb2d071fb6e10f1c1927327b1e6472c55bf59466870de3e3858fcaef4e.jpg",
+        "img_caption": [
+            "图1研究区位置及调查点分布示意图",
+            "Fig.1Location of study area and distribution of survey points "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2样品处理与分析将野外采集的222个土壤样品自然风干，剔除其中较大的石块等。将土壤样品过 $2 \\mathrm { m m }$ 筛后，使用激光粒度仪(Mastersizer3000)测定土壤粒径。土壤颗粒分级采用美国制土壤颗粒组分分级标准[15]，分为黏粒( ${ < 0 . 0 0 2 \\ \\mathrm { m m } }$ ）、粉粒中 $0 . 0 0 2 { \\sim } 0 . 0 5 ~ \\mathrm { m m }$ ）、砂粒 $\\left( 0 . 0 5 { \\sim } 2 \\mathrm { m m } \\right)$ 3个等级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3数据处理利用SPSS22.0进行土壤颗粒组分统计分析，采用K-S法进行正态分布检验，显著性水平为0.05;利用ArcGIS10.7进行Kriging插值，获得土壤颗粒空间分布图；利用ArcGIS10.7进行反距离权重插值，获得土壤黏粒富集率空间分布图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "柠条引入沙化草地，生态作用主要体现在灌丛尺度和斑块尺度对土壤细颗粒物质的富集，用相对富集率 $E$ (EnrichmentRatio)表示[14]。为综合衡量这两种尺度的作用，以土壤黏粒为对象，参照灌丛沃岛效应计算公式构建了灌丛尺度土壤黏粒相对富集率 $\\left( E _ { 1 } \\right)$ 和斑块尺度土壤黏粒相对富集率 $\\left( E _ { 2 } \\right)$ 公式，分别表示灌丛尺度和斑块尺度柠条引人的相对作用。计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\scriptscriptstyle 1 } = ( C _ { \\scriptscriptstyle  { \\textmu } } - C _ { \\scriptscriptstyle  { \\textmu } } ) / C _ { \\scriptscriptstyle  { \\textmu } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ E _ { \\mathrm { \\ell _ { 2 } } } } = ( C _ { \\mathrm { \\ell _ { 1 } } } - C _ { \\sharp \\mathrm { \\sharp \\sharp \\sharp } } ) / C _  \\sharp \\mathrm  \\sharp \\sharp \\sharp \\mathrm  \\sharp \\mathrm  \\ell _  \\cdot \\sharp \\sharp \\mathrm  \\sharp \\cdot \\sharp \\mathrm  \\xi \\xi \\xi \\mathrm { \\xi \\xi \\xi \\mathrm { \\xi \\xi \\cdot \\xi \\mathrm { \\xi \\xi \\xi \\mathrm { \\xi \\xi \\cdot \\xi \\mathrm \\xi \\xi \\mathrm { \\xi \\xi \\xi \\mathrm { \\xi \\xi \\cdot \\xi \\mathrm \\xi \\xi \\mathrm { \\xi \\xi \\xi \\mathrm { \\xi \\xi \\cdot \\xi \\mathrm \\xi \\xi \\mathrm { \\xi \\xi \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\cdot \\xi \\mathrm \\xi \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm { \\xi \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm \\xi \\mathrm } } } } } } } } } } } } } } } } } } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { 1 } = C _ { \\mathrm { * * } } \\times 8 5 \\% + C _ { \\mathrm { * * } } \\times 1 5 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C$ 表示土壤颗粒含量 $( \\% ) { : } C _ { \\sharp }$ 表示柠条灌丛内土壤颗粒含量; $C _ { \\delta \\vdash }$ 表示柠条灌丛外土壤颗粒含量； $C _ { \\sharp , \\sharp \\sharp }$ 表示沙化草地土壤颗粒含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "草地沙化程度与上述富集效应的关系分析，选",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取沙化草地表层砂粒含量作为土壤沙化程度的表征参数，利用线性回归法对沙化草地砂粒含量 $( \\% )$ 与 $E$ 值进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1沙化草地土壤颗粒组成 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 统计特征阴、阳坡沙化草地土壤颗粒含量平均值均为黏粒最大(表1)，其次为砂粒，粉粒含量最小，但平均值差别不大。沙化草地土壤黏粒、粉粒、砂粒含量的变异系数 $( C v )$ ,阴坡分别为 $5 3 . 1 5 \\%$ 、$2 7 . 6 3 \\%$ 、 $6 5 . 0 9 \\%$ ，阳坡分别为 $56 . 5 3 \\%$ ！ $1 6 . 8 5 \\%$ 、$5 3 . 7 2 \\%$ ,变异系数在 $1 6 . 8 5 \\% { \\sim } 6 5 . 0 9 \\%$ 之间，表明均具有中等变异性。阴坡沙化草地土壤砂粒变异性大于阳坡。阴、阳坡沙化草地土壤黏粒、粉粒、砂粒 $\\mathrm { K } -$ S检验 $P$ 值均大于0.05，表明均符合正态分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 沙化草地土壤颗粒空间分布特征阴坡沙化草地土壤黏粒含量南部最高(图2),基本在 $4 3 . 9 2 \\% .$ ）$7 0 . 2 6 \\%$ 之间，由南向北呈显著降低的趋势；粉粒含量呈现出南北低中部高的分布特征；砂粒含量呈带状分布，由东北向西南方向呈显著的递减趋势，东北部最高。阳坡沙化草地土壤黏粒含量分布基本与阴坡黏粒含量变化规律一致(图3),呈现出由南向北显著降低的趋势，南部黏粒含量主要在 $5 2 . 9 4 \\% \\sim$ $7 1 . 9 9 \\%$ 之间；粉粒含量未表现出显著的南北带状变化趋势，而是沿东北向西南方向形成了一条低值通道，通道两侧粉粒含量相对较高;砂粒含量由北向南整体呈显著的带状递减的趋势，西北部含量最高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2人工柠条林地土壤颗粒组成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阴坡灌丛外和阳坡灌丛内、外土壤颗粒含量平均值均为砂粒最大(表2)，其次为黏粒，粉粒含量最小。阴、阳坡人工柠条林灌丛内、外土壤颗粒变异系数为 $2 0 . 5 7 \\% { \\sim } 7 4 . 2 9 \\%$ 之间，均具有中等变异性。阴、阳坡灌丛内、外土壤颗粒变异系数均为黏粒最大，其次是砂粒，粉粒最小。K-S检验 $P$ 值均大于0.05，表明均符合正态分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a30eaf0184cf0204218ad1e6d618ea6b854e53ed714a20e0ed8e3545cea6904d.jpg",
+        "table_caption": [
+            "表1沙化草地土壤颗粒含量统计特征 ",
+            "Tab.1 Statistical characteristics of soil particles in desertified grassland "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>坡向</td><td>粒级</td><td>最小值/%</td><td>最大值/%</td><td>平均值/%</td><td>标准差/%</td><td>方差/%</td><td>偏度/%</td><td>峰度/%</td><td>变异系数(Cv)/%</td><td>P值</td></tr><tr><td rowspan=\"3\">阴坡</td><td>黏粒</td><td>0.62</td><td>70.26</td><td>37.70</td><td>20.04</td><td>401.56</td><td>-0.18</td><td>-0.83</td><td>53.15</td><td>0.99</td></tr><tr><td>粉粒</td><td>5.77</td><td>42.04</td><td>28.93</td><td>7.71</td><td>59.38</td><td>-1.05</td><td>2.02</td><td>27.63</td><td>0.91</td></tr><tr><td>砂粒</td><td>6.87</td><td>94.22</td><td>35.52</td><td>23.12</td><td>534.59</td><td>0.91</td><td>0.38</td><td>65.09</td><td>0.64</td></tr><tr><td rowspan=\"3\">阳坡</td><td>黏粒</td><td>0.92</td><td>71.99</td><td>34.58</td><td>19.20</td><td>368.65</td><td>0.04</td><td>-0.74</td><td>56.53</td><td>0.99</td></tr><tr><td>粉粒</td><td>22.00</td><td>43.34</td><td>31.34</td><td>4.97</td><td>24.69</td><td>0.50</td><td>0.40</td><td>16.85</td><td>0.98</td></tr><tr><td>砂粒</td><td>6.01</td><td>71.64</td><td>34.08</td><td>17.97</td><td>322.88</td><td>0.17</td><td>-0.85</td><td>53.72</td><td>0.99</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7ce8c48e6f1a66af4412346d091c542ad256271ef7fe4648f012ee399cc3e8e.jpg",
+        "img_caption": [
+            "Fig.2Spatial distribution of soil particles at northern slope "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c226dd379cd42942dae473966c07c33d58bd032951f51e8298c964d1f855e31.jpg",
+        "img_caption": [
+            "图2阴坡土壤颗粒空间分布",
+            "图3阳坡土壤颗粒空间分布",
+            "Fig.3Spatial distribution of soil particles at southern slope "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ba7b6293c6e7ddc28be8c0b919c222fea829a3431b385f3054625b55dc1a608.jpg",
+        "table_caption": [
+            "表2人工柠条林地土壤颗粒统计特征",
+            "Tab.2 Statistical characteristics of soil particles in artificial C.intermedia plantations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>坡向</td><td>取样部位</td><td>粒级</td><td>最小值/%</td><td>最大值/%</td><td>平均值/%</td><td>标准差/%</td><td>方差/%</td><td>偏度/%</td><td>峰度/%</td><td>变异系数(Cu)/%</td><td>P值</td></tr><tr><td rowspan=\"6\">阴坡</td><td rowspan=\"3\">灌丛内</td><td>黏粒</td><td>1.81</td><td>66.07</td><td>35.15</td><td>20.85</td><td>434.88</td><td>0.11</td><td>-1.44</td><td>59.33</td><td>0.39</td></tr><tr><td>粉粒</td><td>15.94</td><td>49.75</td><td>29.99</td><td>6.43</td><td>41.32</td><td>0.77</td><td>2.16</td><td>21.43</td><td>0.79</td></tr><tr><td>砂粒</td><td>6.53</td><td>64.29</td><td>34.85</td><td>19.31</td><td>372.77</td><td>-0.05</td><td>-1.50</td><td>55.40</td><td>0.33</td></tr><tr><td rowspan=\"3\">灌丛外</td><td>黏粒</td><td>1.08</td><td>65.83</td><td>33.47</td><td>21.57</td><td>465.43</td><td>0.20</td><td>-1.53</td><td>64.45</td><td>0.29</td></tr><tr><td>粉粒</td><td>12.46</td><td>45.71</td><td>29.51</td><td>5.77</td><td>33.35</td><td>0.03</td><td>2.41</td><td>20.57</td><td>0.72</td></tr><tr><td>砂粒</td><td>8.25</td><td>77.39</td><td>37.01</td><td>21.12</td><td>446.17</td><td>0.08</td><td>-1.35</td><td>57.07</td><td>0.39</td></tr><tr><td rowspan=\"5\">阳坡</td><td rowspan=\"3\">灌丛内</td><td>黏粒</td><td>0.46</td><td>68.65</td><td>29.65</td><td>22.03</td><td>485.23</td><td>0.35</td><td>-1.26</td><td>74.29</td><td>0.51</td></tr><tr><td>粉粒</td><td>10.21</td><td>46.10</td><td>29.62</td><td>7.54</td><td>56.79</td><td>-0.36</td><td>1.15</td><td>25.44</td><td>0.73</td></tr><tr><td>砂粒</td><td>7.37</td><td>89.78</td><td>41.35</td><td>23.08</td><td>532.63</td><td>0.17</td><td>-0.84</td><td>56.81</td><td>0.72</td></tr><tr><td rowspan=\"3\">灌丛外</td><td>黏粒</td><td>0.40</td><td>68.12</td><td>31.13</td><td>21.26</td><td>452.03</td><td>0.33</td><td>-1.25</td><td>68.29</td><td>0.33</td></tr><tr><td>粉粒</td><td>6.98</td><td>44.08</td><td>29.81</td><td>7.53</td><td>56.70</td><td>-0.84</td><td>2.38</td><td>25.26</td><td>0.40</td></tr><tr><td>砂粒</td><td>7.31</td><td>93.02</td><td>39.90</td><td>22.88</td><td>523.41</td><td>0.29</td><td>-0.49</td><td>57.34</td><td>0.60</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3灌丛尺度土壤颗粒富集能力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 统计特征灌丛尺度阴坡灌丛内土壤黏粒富集率平均值明显大于粉粒和砂粒(表3)，粉粒富集率平均值较小，仅为0.02，砂粒富集率平均值小于0;阳坡灌丛内土壤砂粒富集率平均值均大于黏粒和粉粒，土壤粉粒和砂粒富集率平均值较小，分别仅为0.01和0.05，土壤黏粒富集率平均值小于0。K-S检验 $P$ 值均大于0.05，均符合正态分布。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 灌丛尺度土壤黏粒富集率空间分布特征灌丛尺度人工柠条林土壤黏粒富集率空间分布图（图4)表明阴坡灌丛内土壤黏粒富集分布整体以正效应为主，北部高而南部低，中南部地区局部出现负值；阳坡灌丛内土壤黏粒富集分布整体以负效应为主，北部低而南部略高，正效应区域主要分布在西部地区，但富集率较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3土壤黏粒富集率与砂粒含量的关系阴坡沙化草地土壤砂粒含量与灌丛尺度土壤黏粒富集能力的空间分布存在较显著的相关关系，土壤砂粒含量越高，土壤黏粒富集能力越强，并且存在明显的南北分区格局，北部富集土壤黏粒较多，土壤富集能力较强，南部对土壤黏粒富集为负，基本无土壤黏粒富集能力；阳坡沙化草地土壤砂粒含量与灌丛尺度土壤黏粒富集能力的空间分布无显著的对应关系，阳坡灌丛内土壤黏粒富集显示出负效应，富集土壤黏粒较少，整体来看，阳坡土壤黏粒富集能力较弱。灌丛尺度上，阴坡随砂粒含量的增加，土壤黏粒富集率增加，而在阳坡随砂粒含量的增加，土壤黏粒富集率减少(图5)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff7b39d59abd6d147f6c9e3d6f4730fdbddd315b0d4bf798e7d4228d27b95ff1.jpg",
+        "table_caption": [
+            "表3灌丛内土壤颗粒富集率统计特征",
+            "Tab.3Statistical characteristics of soil particles enrichment ratio in shrub "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>坡向</td><td>粒级</td><td>最小值</td><td>最大值</td><td>平均值</td><td>标准差</td><td>方差</td><td>偏度</td><td>峰度</td><td>P值</td></tr><tr><td rowspan=\"3\">阴坡</td><td>黏粒</td><td>-0.67</td><td>1.09</td><td>0.11</td><td>0.37</td><td>0.14</td><td>0.71</td><td>1.66</td><td>0.26</td></tr><tr><td>粉粒</td><td>-0.23</td><td>0.36</td><td>0.02</td><td>0.11</td><td>0.01</td><td>0.57</td><td>3.14</td><td>0.31</td></tr><tr><td>砂粒</td><td>-0.37</td><td>0.39</td><td>-0.04</td><td>0.15</td><td>0.02</td><td>0.56</td><td>1.49</td><td>0.60</td></tr><tr><td rowspan=\"3\">阳坡</td><td>黏粒</td><td>-0.79</td><td>0.42</td><td>-0.08</td><td>0.22</td><td>0.05</td><td>-1.40</td><td>3.40</td><td>0.10</td></tr><tr><td>粉粒</td><td>-0.30</td><td>0.46</td><td>0.01</td><td>0.13</td><td>0.02</td><td>1.11</td><td>4.21</td><td>0.37</td></tr><tr><td>砂粒</td><td>-0.18</td><td>0.52</td><td>0.05</td><td>0.13</td><td>0.02</td><td>1.39</td><td>4.05</td><td>0.32</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b2ccec1f541e3130ed31bfcb961d400fcbd32c87c97994908b9b302243f8c8d.jpg",
+        "img_caption": [
+            "图4灌丛内土壤黏粒富集率空间分布",
+            "Fig.4Spatial distribution of clay enrichment ratio in shrub "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3252e0577f3538f8216f0b2dd9b29f4f380166a4bf11cff971e0aecdaab6777.jpg",
+        "img_caption": [
+            "Fig.5Regression analysis of sand content and clay enrichment ratio of desertified grassland "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4斑块尺度土壤颗粒富集能力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 统计特征斑块尺度阴、阳坡土壤颗粒富集率平均值大小均表现为砂粒 $>$ 粉粒 $>$ 黏粒(表4)，阴坡土壤黏粒富集率平均值小于0,粉粒富集率平均值较小，仅为0.03;阳坡土壤黏粒、粉粒富集率均小于0。K-S检验 $P$ 值均大于0.05，均符合正态分布。2.4.2斑块尺度土壤黏粒富集率空间分布特征斑块尺度土壤黏粒富集率空间分布图(图6)表明阴坡土壤黏粒富集分布整体呈现出三个分区的格局，负效应集中分布在东西向的中部地区，贯穿南北，东西两侧以正效应为主；阳坡灌丛内土壤黏粒富集分布整体以负效应为主，仅局部地区呈现出正效应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2d154ff66863eb24ca86f7bd4ddc37e828e77ec158017f3de18de7d3372237d.jpg",
+        "table_caption": [
+            "表4土壤颗粒富集率统计特征",
+            "Tab.4Statisticalcharacteristics of soil particles enrichment ratio "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>坡向</td><td>粒级</td><td>最小值</td><td>最大值</td><td>平均值</td><td>标准差</td><td>方差</td><td>偏度</td><td>峰度</td><td>P值</td></tr><tr><td>阴坡</td><td>黏粒</td><td>-0.92</td><td>0.92</td><td>-0.14</td><td>0.45</td><td>0.20</td><td>0.43</td><td>0.42</td><td>0.10</td></tr><tr><td></td><td>粉粒</td><td>-0.34</td><td>0.50</td><td>0.03</td><td>0.21</td><td>0.04</td><td>0.29</td><td>-0.02</td><td>0.11</td></tr><tr><td></td><td>砂粒</td><td>-0.74</td><td>0.98</td><td>0.08</td><td>0.44</td><td>0.19</td><td>0.29</td><td>-0.30</td><td>0.09</td></tr><tr><td>阳坡</td><td>黏粒</td><td>-0.99</td><td>0.99</td><td>-0.17</td><td>0.43</td><td>0.19</td><td>0.06</td><td>0.52</td><td>0.14</td></tr><tr><td></td><td>粉粒</td><td>-0.69</td><td>0.48</td><td>-0.06</td><td>0.23</td><td>0.06</td><td>-0.70</td><td>2.07</td><td>0.11</td></tr><tr><td></td><td>砂粒</td><td>-0.37</td><td>0.76</td><td>0.14</td><td>0.33</td><td>0.11</td><td>0.45</td><td>-0.93</td><td>0.13</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/600544fa19298c0d4f6f7bac379515f1d89eba1337fb463279a6b6dc369cb956.jpg",
+        "img_caption": [
+            "图5沙化草地土壤砂粒含量与黏粒富集率回归分析",
+            "图6土壤黏粒富集率空间分布图",
+            "Fig.6 Spatial distribution of clay enrichment ratio "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.3土壤黏粒富集率与砂粒含量的关系阴坡沙化草地土壤砂粒含量与斑块尺度土壤黏粒富集能力的空间分布存在一定对应关系，土壤砂粒含量越高，土壤黏粒富集能力越弱;阳坡沙化草地土壤砂粒含量与斑块尺度土壤黏粒富集能力的空间分布无明显对应关系，阳坡灌丛内土壤黏粒富集显示出负效应，富集土壤黏粒较少。整体来看，斑块尺度阴、阳坡土壤黏粒富集能力明显弱于灌丛尺度，且阳坡土壤黏粒富集能力以负效应为主。斑块尺度上阴、阳坡均随沙化草地土壤砂粒含量的增加，土壤黏粒富集率减少(图7)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 (a)阴坡 y==07301428 0004 (b)阳坡 . y=R01001274   \n南事胃鞋 0 0 -20 30 40 ·50 南胃 20 .   \n-0.2 ： 0 20 40· 60 80 -0.2   \n-0.4 . . -0.4 -0.6 . . -0.6 . ：· ·   \n-0.8 -0.8 · · .   \n-1.0 -1.0 沙化草地砂粒含量/% 沙化草地砂粒含量/% ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "柠条作为干旱半干旱地区的先锋物种，被广泛用于植被恢复和生态环境治理，土壤颗粒组分的变化是生态恢复的结果，也是生态系统后续演替的驱动因素，因此研究柠条引入后对土壤颗粒组分的影响具有重要意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1柠条引入后土壤颗粒组分的变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对沙化草地的统计分析结果表明，阴坡土壤砂粒变异系数大于阳坡，变异系数大小表明土壤颗粒组分在空间上的变异程度，变异系数越大，空间异质性越强。由于研究区盛行西北风，阴坡为迎风坡，受风蚀作用影响较强，造成了空间分布的不均匀性，土壤砂粒变异性较大。研究区沙化草地砂粒含量空间分布由东北向西南方向呈显著的递减趋势，这可能由于研究区东北部与灵盐台地、鄂尔多斯台地、毛乌素沙地相连，土壤风蚀严重，地下水矿化度高[17],土壤颗粒组分缺乏水分凝集作用，土壤沙化现象严重，导致砂粒含量最高，而东南部处于黄土丘陵区北缘，水蚀与风蚀并存[18],土壤沙化程度较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "局域尺度的研究发现人工植被引入后，通常土壤砂粒含量减少,黏粒、粉粒等细颗粒组分增加[7.9.19-21]。在本研究中，人工柠条林地与沙化草地土壤黏粒、粉粒、砂粒含量差异并不显著，人工柠条林地土壤砂粒含量占比与沙化草地相比增加，土壤细颗粒组分没有明显的增加。究其原因，可能是因为土壤沙化本底的不同[16.22]；另外，作为一种外来物种，灌木进入草地也会引起草地灌丛化问题23，反而导致土壤的进一步退化[5]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2土壤黏粒富集的尺度效应和生境约束",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "富集率的变化反映了表层土壤颗粒组分的积累过程。土壤细颗粒组分富集率的增加可以提高土壤的抗风蚀能力，促进土壤-植被系统的生态功能[24]，同时细颗粒物质的沉积是评价柠条引入贡献的一个重要指标[]。本研究中灌丛尺度土壤黏粒富集能力高于斑块尺度，存在明显的尺度效应。植被覆盖会减少土壤侵蚀[25],柠条引入后，由于柠条树冠的保护作用，灌丛内土壤受风蚀的影响较小，一定程度保护了土壤中的细颗粒组分，灌丛外裸露在土壤表面的细颗粒物质被风搬运的距离减小[21],在外界风沙环境条件下，大量的细颗粒物质在灌丛附近堆积[23],同时柠条树冠对自然界风、尘等的截留，导致灌丛内部细颗粒物质沉积[2I-22]。但是由于黏粒物质总量并未显著增加，灌丛尺度黏粒物质在灌丛内部的富集，反而导致更大面积上草地黏粒物质的下降，这是导致斑块尺度相对富集效应进一步弱化的直接原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "黏粒的富集在阴坡和阳坡生境也表现出明显的差异。在本研究中对于土壤黏粒的显著富集作用仅在阴坡有所体现，尤其以研究区北部的阴坡生境为主。阳坡对土壤黏粒富集能力整体呈现为负效应，与阴坡呈现相反的趋势，其对土壤黏粒富集能力较弱，反而对于土壤砂粒具有一定的富集。这与灌丛尺度引起黏粒富集的风蚀因素直接相关[9]。一般情况下，研究区盛行西北一东南风向，土壤侵蚀和局部迁移通常在阴坡更为显著，在柠条行带的干预下，灌丛尺度的黏粒富集效应凸显，相对而言，阳坡由于风蚀动力和更为恶劣的生长环境[26],这种效应更弱一些。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "柠条的引入，一定程度上体现出灌木入侵的现象，即草地灌丛化。从沙化草地向灌木化草地(Shrub-EncroachedGrasslands,SEG)的转变通常是不可逆转的[27]，会引起生态系统退化[28]，促进生物多样性的丧失,对草地的生态结构和功能有显著影响[29]。尤其在干旱半干旱地区，干旱程度的增加也会导致灌木入侵的负面影响加剧[30-31],给缺水严重的地区带来更多的负面后果[32]。因此,柠条引入后对研究区带来的这种潜在影响还需进一步研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "柠条引入作为荒漠草原沙化草地治理的一个重要生态工程措施，其效果与土壤沙化本底情况有关，同时又受到微生境(坡向)的影响。就本研究区域而言，柠条引入后只是推动了土壤黏粒物质在局域尺度的空间再分配，并未导致黏粒物质总量的显著改善，甚至在一定程度上体现出灌丛入侵的负面效应，同时这种效应随草地本底沙化程度的增强而增强。但是作为一种空间的静态比较结果，依然需要进一步的研究，以深人分析这种现象出现的真实原因与生态机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Reynolds JF,SmithDM S,Lambin EF.Global desertification: building a science for dryland development[J]. Science,2O07,316 (5826): 847-851. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]Cao S,Tian T,Chen L,et al. Damage caused to the environment by reforestation policies in arid and semi-arid areas of China[J]. Ambio,2010,39(4): 279-283.   \n[3]Wang T,Zhu ZD,Wu W.Sandy desertification in the north of China[J]. Science in China Series D,2002,45(1): 23-34.   \n[4]陈晓光,李剑萍,韩颖娟,等.宁夏近20年来植被覆盖度及其与 气温降水的关系[J].生态学杂志,2007,26(9):1375-1383. [Chen Xiaoguang,Li Jianping,Han Yingjuan,et al.Vegetation coverage and its relationships with temperature and precipitation in Ningxia in 1981-2004[J]. Chinese Journal of Ecology,2007,26 (9): 1375-1383.]   \n[5]王占军,蒋齐,刘华,等.宁夏干旱风沙区林药间作生态恢复措 施与土壤环境效应响应的研究[J].水土保持学报,2007,21(4): 90-93.[Wang Zhanjun, Jiang Qi, Liu Hua, et al. Research on respond of ecological restoration measure of forest medicine intercropping and environmental effect of soil in arid wind-desert region of Ningxia[J]. Journal of Soil and Water Conservation,2007, 21(4): 90-93.]   \n[6]Li Qingxue,Jia Zhiqing,Liu Tao,etal.Effects of different plantation types on soil properties after vegetation restoration in an alpine sandy land on the Tibetan Plateau,China[J]. Journal of Arid Land,2017,9(2): 200-209.   \n[7]Zhang JY, GuPF,LiL Y,et al. Changes of soil particle size fraction along a chrono sequence in sandy desertified land: A fundamental process for ecosystem succession and ecological restoration [J]. Journal of Soils & Sediments,2016,16(12): 2651-2656.   \n[8]李尝君,曾凡江,郭京衡,等.植被恢复程度与沙地土壤性质 -以塔克拉玛干沙漠南缘为例[J].干旱区研究,2015,32(6): 1061-1O67.[Li Changjun,Zeng Fanjiang,Guo Jingheng,et al. Soil properties of different sandy lands under different vegetation recovering levels:A case in southern Taklimakan Desert[J].Arid Zone Research,2015,32(6): 1061-1067.]   \n[9]贾晓红,李新荣,李元寿.干旱沙区植被恢复过程中土壤颗粒分 形特征[J].地理研究,2007,26(3):518-525.[Jia Xiaohong,Li Xinrong,Li Yuanshou. Fractal dimension of soil particle size distribution during the process of vegetation restoration in arid sand dune area[J]. Geographical Research, 2007,26(3): 518-525.]   \n[10] 李裕元,邵明安,陈洪松,等.水蚀风蚀交错带植被恢复对土壤 物理性质的影响[J].生态学报,2010,30(16):4306-4316.[Li Yuyuan, Shao Ming'an, Chen Hongsong, et al. Impacts of vegetation recovery on soil physical properties in the cross area of windwater erosion[J].Acta Ecologica Sinica,2010,30(16): 4306-4316.]   \n[11] 齐雁冰,常庆瑞,惠泱河.人工植被恢复荒漠化逆转过程中土壤 颗粒分形特征[J].土壤学报,2007,44(3):566-570.[Qi Yanbing, Chang Qingrui,Hui Yanghe.Fractal fratures of soil particles in desertification reversing processby artificial vegetation[J].Acta Pedologica Sinica,2007,44(3): 566-570.]   \n[12]王月玲,蔡进军,张源润,等.半干旱退化山区不同生态恢复与 重建措施下土壤理化性质的特征分析[J].水土保持研究,2007, 14(1):11-14.[Wang Yueling, Cai Jinjun, Zhang Yuanrun, et al. Soil physical and chemical properties during different ecological restoration or reconstruction in semi-arid degraded mountain area [J]. Research of Soil and Water Conservation, 2007,14(1): 11-14.]   \n[13]Chen Xiaohong,Duan Zhenghu. Changes in soil physical and chemical properties during reversal of desertification in Yanchi County of Ningxia Hui autonomous region, China[J]. Environmental Geology,2009,57(5): 975-985.   \n[14] 成毅,安韶山,李国辉,等.宁夏黄土丘陵区植被恢复对土壤养 分和微生物生物量的影响[J].中国生态农业学报,2010,18(2): 261-266.[Cheng Yi,An Shaoshan,Li Guohui,et al.Soil nutrient and microbial biomass in the Loess Hilly area of Ningxia under different plant rehabilitation patterns[J]. Chinese Journal of Eco-Agriculture,2010,18(2): 261-266.]   \n[15]黄昌勇.土壤学[M].北京:中国农业出版社,2000.[Huang Changyong. Soil Science[M]. Beijing: China Agriculture Press,2000.]   \n[16] 刘耘华,盛建东,武红旗,等.干旱区三种荒漠植被\"肥岛\"土壤 颗粒变异特征研究[J].土壤,2011,43(6):975-980.[Liu Yunhua, Sheng Jiandong,Wu Hongqi,et al. Study on variation features of soil particlesin‘Fertile Islands’ofthree desert vegetations in arid region[J]. Soils,2011,43(6): 975-980.]   \n[17]王梅梅,朱志玲,吴咏梅.宁夏中部干旱带土地沙漠化评价[J]. 中国沙漠,2013,33(2):320-324.[Wang Meimei,Zhu Zhiling, Wu Yongmei. Assessment on the sensitivity to aeolian desertification and importance of controlling aeolian desertification in the middle arid region of Ningxia[J]. Journal of Desert Research, 2013,33(2): 320-324.]   \n[18] 程淑杰,朱志玲,白林波.基于GIS的人居环境生态适宜性评价 一以宁夏中部干旱带为例[J].干旱区研究,2015,32(1):176- 183.[Cheng Shujie,Zhu Zhiling,Bai Linbo. GIS-based assessment on ecological suitability for human settlement: A case study in the central arid zone in Ningxia[J].Arid Zone Research,2015, 32(1): 176-183.]   \n[19] 王新平,李新荣,肖洪浪,等.干旱半干旱地区人工固沙灌木林 生态系统演变特征[J].生态学报,2005,25(8):1974-1980. [Wang Xinping,Li Xinrong, Xiao Honglang,etal.Evolution characteristics of the artificially re-vegetated shrub ecosystem of arid and semi-arid sand dune area[J]. Acta Ecologica Sinica,2005,25 (8): 1974-1980.]   \n[20] 杜海燕,周智彬,刘凤山,等.绿洲化过程中阿拉尔垦区土壤粒 径分形变化特征[J].干旱区研究,2013,30(4):615-622.[Du Haiyan, Zhou Zhibin,Liu Fengshan,et al.Variation of fractal dimension of soil particle size distribution in the Aral reclamation area in oasis development[J]. Arid Zone Research, 2013,30(4): 615- ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "622.] ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[21]Wezel A,Rajot JL,Herbrig C.Influence of shrubs on soil characteristics and their function in Sahelian agro-ecosystems in semiarid Niger[J]. Journal of Arid Environments,200,44(4): 383-398.   \n[22] Parsons A J, Abrahams A D, Simanton JR. Microtopography and soil-surface materials on semi-arid piedmont hillslopes,southern Arizona[J]. Journal of Arid Environments,1992,22(2): 107-115.   \n[23] Cao S,Wang G,Chen L. Questionable value of planting thirsty trees in dry regions[J]. Nature,2010,465(7294): 31-31.   \n[24] 张继义,赵哈林.退化沙质草地恢复过程土壤颗粒组成变化对 土壤-植被系统稳定性的影响[J].生态环境学报,2009,18(4): 1395-1401.[Zhang Jiyi,Zhao Halin.Changesinsoilparticles frac tion and their effects on stability of soil-vegetation system in restoration processes of degraded sandy grassland[J]. Ecology and Environmental Sciences,2009,18(4): 1395-1401.]   \n[25]Rathore V S,Singh JP,Bhardwaj S.Potential of native shrubs Haloxylon salicornicum and Calligonum polygonoides for restoration of degraded lands inarid western Rajasthan,India[J].Environmental Management,2015,55(1): 205-216.   \n[26]Parizek B,Rostagno C M, Sottini R. Soil erosion as affected by shrub encroachment in northeastern Patagonia[J]. Journal of Range Management,2002,55(1): 43-48.   \n[27] Li H,Shen H,Chen L,et al. Effects of shrub encroachment on soil organic carbon in global grasslands[J]. Scientific Reports, 2016,6 (1): 28974.   \n[28] Chen L,Li H, Zhang P. Climate and native grassland vegetation as drivers of the community structures of shrub-encroached grasslands in Inner Mongolia, China[J]. Landscape Ecology,2015,30 (9): 1627-1641.   \n[29] 李宗超,胡霞.小叶锦鸡儿灌丛化对退化沙质草地土壤孔隙特 征的影响[J].土壤学报,2015,52(1): 242-248.[Li Zongchao, Hu Xia.Effects of shrub (Caragana microphylla Lam) encroachment on soil porosity of degraded sandy grassland[J].Acta Pedologica Sinica,2015,52(1): 242-248.   \n[30]Belay TA,Totland, Moe S R.Ecosystem responses to woody plant encroachment in a semiarid savanna rangeland[J]. Plant Ecology, 2013,214(10): 1211-1222.   \n[31] Zhou L H, Shen H H, Chen L Y,et al. Ecological consequences of shrub encroachment in the grasslands of northern China[J]. Landscape Ecology,2019,34(1): 119-130.   \n[32]Knapp A K, Briggs JM, Collins S L,et al. Shrub encroachment in north American grassands: shifts in growth form dominance rapidlyalters control of ecosystem carbon inputs[J].Global Change Biology,2008,14(3): 615-623. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Effects of Caragana intermedia on soil particles in desertified grassland ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CAO Yuan1²， YANG Xin-guo1²， CHEN Lin1²， WANG Xing1,2, SONG Nai-pingl²， WANG Lei1²   \n(1.KeyLaboratoryfor Degenerated Ecosystem in Northwest China under the MinistryofEducation,Ningxia   \nUniversity,Yinchuan750021,Ningxia,China;2.BreedingBaseforStateKeyLaboratoryofLandDegradation and Ecological Restoration inNorthwest China,Ningxia University,Yinchuan 75o21,Ningxia,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Introduction of artificial shrubs in aridarea isa common ecological restoration measure.Artificial shrubs canstabilize soil surface environment and promoterestorationof desertified land through its functionof warding of windand fixingsand.Caragana intermedia isatypical xericshrub forsandcontrolindesertifiedland.However,the effect of $\\boldsymbol { C }$ .intermedia on desertified grassland after years of introduction isstill lacking in terms of regional summary and analysis.Byadopting methods of classical statistics and geostatistics,we divided the typical desert steppe located in central Ningxia into 37 spatial grids,sizing 20 km $\\times$ 20 km each and selecting 4 sample plots in each grid,which totals upto 148 sample plots,in accordance with different varieties of vegetation (C.intermedia and desertified grassland) and slope direction (northern and southern slope).With these data,we compared the desertified grassland and grassland with $\\boldsymbol { C }$ .intermedia (artificial $C$ ，intermedia plantations) in terms of soil particle composition.We then analyzed theefect on soil particle composition and clay enrichment capacity both in desertified grassland and artificial $\\boldsymbol { C }$ .intermedia plantations in designated area,with the aim of providing decisionmaking reference forrestorationof desertified landofsimilar type.Preliminary research result shows that there is no significant difference in soil particle composition between artificial $\\boldsymbol { C }$ .intermedia plantations and desertified grassland.Onthe shrub scale,theenrichment capacityof clay isrelatively higher atthe northern slopeof artificial C.intermedia plantations,with a rate of O.11onaverage and maximum rate of 1.O9 and with northern slope in the north partof thestudyarea; whereas,therate inthesouth partgraduallydescendsand,bycontrast,its enrichment capacity at southern slope is mostly in the negative, with an average of $- 0 . 0 8$ .Compared with shrub scale,enrichment capacity ofclay is significantlyloweron the patch scale; ratioatthe northern slope isstillinpositive,butdecreases sharply,while that of the southern slope is in the negative with an enhancing tendency and an average of $- 0 . 1 7$ .In conclusion,the introduction of $\\boldsymbol { C }$ .intermedia is an important engineering measure for restoring desertified grassland in desertsteppeand itsefectnotonlyrelates todesertifieddegreeof thesoil,butalsorelates tomicro-habitat (slope direction).So,far,as theareaunder study isconcerned,C.intermedia's effect after its introduction,insteadof significantly enhancing the area’s clay content,it spatialypromoted clayredistribution.Toacertain extent,it demonstrated a negative effect as a result of the shrub encroachment;and such negative effect would be strengthened with increases in desertified degree of the soil in desert steppe. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Caragana intermedia; desertified grassand; soil particles; enrichment ratio; desert steppe ",
+        "page_idx": 9
+    }
+]

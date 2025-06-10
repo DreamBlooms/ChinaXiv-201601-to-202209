@@ -1,0 +1,555 @@
+[
+    {
+        "type": "text",
+        "text": "月球均匀模型阶跃感应磁场模拟计算",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张翔宇1,2 赵华",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(中国科学院国家空间科学中心 北京 100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2(中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3(北京卫星环境工程研究所北京 100094)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对月球均匀模型，利用电磁感应理论，对行星际磁场阶跃扰动产生的感应磁场进行了模拟计算．设磁导率恒为 $\\mu _ { 0 }$ ，对于一些特定的电导率值，给出了月表磁场分量和总场从跃变到重新达到稳态的变化过程；在一条经线上的赤道附近、中纬地区和极区各选取一个测点，利用 Laplace 逆变换的数值公式给出了磁场瞬变响应函数和磁场分量及总场在不同电导率情况下的变化趋势.计算结果表明，此研究方法可行，结果合理.经过足够长的时间，与外磁场跃变方向垂直的磁场分量将会消失，而与之平行的磁场分量将与外场趋于一致.在外场发生跃变的时刻，赤道附近能够测到的最大磁场分量值约为 $\\mathrm { 1 3 . 6 5 n T }$ ，极区附近能测到约 $2 . 7 1 \\mathrm { n T }$ ；在中低纬度和极区，平行分量变化的过程显著不同，反映出实际探测中，选取在月表不同位置的磁强计将可能监测到完全不同的磁场变化曲线形态",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词正演,球模型，电磁感应,Laplace 逆变换 中图分类号P353 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Simulation of Induced Step-transient Magnetic Field with a Lunar Homogeneous Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Xiangyu $_ { . } ^ { 1 , 2 }$ （204号 ZHAO Hua ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1(National Space Science Center,Chinese Academy of Sciences,Beijing 100190) 2(University of Chinese Academy of Sciences,Beijing 100049) 3(Beijing Institute of Spacecraft Environment Engineering,Beijing 100094) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract With a homogeneous model of the Moon, the induced magnetic field caused by steptransient disturbation of interplanetary magnetic field is simulated by the electromagnetic induction theory. As the range of conductivity asigned,the variation from step to calm of both the vectors and magnitudes can be obtained with a fixed permeability $\\mu _ { 0 }$ . Then the magnetic characteristic transient response function,the field components and total field at 3 different points selected in a longitude line can all be given in diferent conductivities by numerical inverse Laplace transformation. The calculation provides a reasonable result that components perpendicular to the external step-transient field will disappear in a long-enough time, whereas the parallel component will become unity with it. When the external field step varies,the maximum field value which can be detected in the vicinity of the equator and the polar region are $1 3 . 6 5 \\mathrm { n T }$ and $2 . 7 1 \\mathrm { n } \\mathrm { } ^ { \\prime } \\mathrm { l } ^ { \\prime }$ , respectively. The processes of parallel component change are remarkably diferent in low latitude and polar region. This phenomenon reflects that magnetometers in different sites of lunar surface may lead to different field curves. Key wordsForward modeling, Spherical model, Electromagnetic induction, Inverse Laplace transformation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "月球磁场是当前空间探测的研究热点，而行星际空间的扰动磁场是很好的研究工具．月球没有全球性的偶极磁场，因此行星际磁场一旦发生变化，再经过足够长的时间，就可以完全穿透月球内部.这一过程中，在月表监测到的磁场大小和方向变化数据携带有月球的分层结构、各层厚度、磁导率、电导率、横向或纵向可能存在的非均匀性变化以及由此反映出的可能的岩石分布和组成成分、地质特点、物理化学性质等一系列深部信息．因此通过在月表测量的相关数据,再利用某些方法和手段即可对这些信息进行深入分析与研究",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1969年美国 Apollo 12 和 Explorer 35 磁强计分别在月面和环月轨道对几个行星际磁场阶跃扰动事件进行观测，同时记录了磁场三分量的变化．这是首次在月表对磁场进行的直接探测，随后Apollo14，15，16和俄罗斯Lunokhod2磁强计也对月表进行了磁场测量．探测结果表明，月球可能存在两种结构．一种为两层结构，内层半径为 $0 . 9 5 R _ { \\mathrm { m } }$ （月球半径)，外部壳层电导率极低，几乎为零，可忽略不计，外磁场若发生变化瞬间即可穿透月壳；用两层模型与取得的数据反演结果进行最小二乘法理论对比，得到的最佳电导率匹配值为 $1 . 5 { \\times } 1 0 ^ { - 4 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ ．另一种为近似三层结构，由内向外月核、月幔、月壳的厚度分别为 $0 . 6 R _ { \\mathrm { m } }$ ， $0 . 3 7 R _ { \\mathrm { m } }$ ， $0 . 0 3 R _ { \\mathrm { m } }$ ；电导率分别为 $1 0 ^ { - 9 }$ ， $1 0 ^ { - 4 }$ 和 $1 0 ^ { - 2 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ ；部分研究得到的一维剖面不完全一样，但基本上电导率的变化范围都在 $1 0 ^ { - 7 } { \\sim } 1 0 ^ { - 6 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ 到 $1 0 ^ { - 2 } \\sim 1 \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 [ 2 - 4 ] }$ ；通过数据分析得到月球平均磁导率为 $( 1 . 0 3 { \\pm } 0 . 1 3 ) \\mu _ { 0 }$ ，如果内核居里温度高于 $8 0 0 ^ { \\circ } \\mathrm { C }$ ，则推断得到的核外磁导率为 $( 1 . 0 5 { \\pm } 0 . 1 4 ) \\mu _ { 0 } \\mathrm { ^ { [ 1 , 4 , 6 - 7 ] } }$ ．由此可见，与真空磁导率 $\\mu _ { 0 }$ 相比，全月磁导率没有太大变化，故文中的计算设月球磁导率恒为 $\\mu _ { 0 }$ ；但对于目前推断出的这两种分层结构而言，各层电导率可能存在几个数量级的差别．由于本文只研究均匀模型，所以将电导率范围设定为 $1 0 ^ { - 7 } \\sim 1 0 ^ { - 5 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ ，接近中间层的值；行星际磁场的变化幅值一般不超过 $1 0 \\mathrm { n T }$ ，因此本文计算设定外磁场在 $t = 0$ 时有 $1 0 \\mathrm { n T }$ 的跃变.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Apollo系列磁强计均只在月表进行了单点探测未来在技术手段可靠的前提下可以在月表进行多点联测，本文即是针对不同均一模型，通过计算给出部分测点的磁场变化值．更进一步的目标应该是能够通过月表不同测区实测数据的对比和联合反演得到更高精度的月球模型，而本文的正演计算可为反演提供一些前期的理论验证",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1原理及研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "月球与地球和太阳的相对位置是随时间而变化的.为简单起见，本文忽略这种变化，研究全空间磁场跃变作用于月球的情况，通过计算得出月表磁场的变化过程.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据电磁感应理论，外部磁场的变化可以在球体内部激发涡电流，从而产生二次感应磁场，其幅值和相位与外源磁场相比会发生一定偏差．实际探测过程中，在球体表面上测到的值是外源磁场和感应磁场的叠加值;由于二次场会随着时间的推移逐渐衰减直至最终消失，所以经过足够长的时间之后，球体表面得到的磁场最终会与外源场趋于一致[8].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 模型假设 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用如下模型假设，即月球是一个各向同性的不分层均匀介质球体，不考虑电导率的横向变化和不同区域地形高差变化；月球具有单一电导率 $\\sigma$ 和单一磁导率 $\\mu$ ：这样从Maxwell基本电磁方程组出发，能够推导出磁场 $B$ 和磁矢势 $A$ 所满足的方程，再加入定",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "解条件，即可求解该方程",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用Laplace变换对磁场扩散方程进行求解，并对第三类边界条件进行同样处理，在保证精度的前提下，通过数值方法给出不同电导率情况下月表磁场三分量的变化过程，进而得到具体部分测点的分量变化，并进行分析和解释",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 球体电磁感应理论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "描述球体对任意外磁场输入的响应 (见图1)，定义磁矢势 $A$ ，其满足 $\\nabla \\times \\pmb { A } = \\pmb { B }$ 和 $\\nabla \\cdot \\pmb { A } = 0$ 寻求 $\\Delta B _ { \\mathrm { e } } b ( t )$ 这样一个阶跃变化的响应．其中 $b ( t )$ 满足下列条件： $b ( t ) = 0$ 0 $\\mathit { \\Omega } ^ { ' } t \\ < \\ 0 )$ 且 $b ( t )$ 是一个定值 $( t \\geqslant 0 )$ ；对于阶跃磁场，有 $b ( t ) = 1 ( t > 0 )$ .由于控制方程是线性的，因此一般的输入响应亦可通过叠加求得[4].",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\Delta B _ { \\mathrm { e } }$ 方向设定为球坐标系 $( r , \\theta , \\varphi )$ 的轴线,即Descartes 坐标系的 $z$ 轴方向．当电导率呈球对称时，瞬变磁场响应没有 $\\varphi$ 分量,因此 $\\pmb { A } = A \\pmb { e } _ { \\varphi }$ ，并且对所有分量均有 $\\partial / \\partial \\varphi = 0$ ，在这些假定条件下（忽略位移电流),Faraday电磁感应定律、Ampere 定律和Ohm 定律共同给出了静磁场中的Maxwell电磁方程组及本构关系，消项后可以得到如下无源磁场扩散方程:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla ^ { 2 } { \\boldsymbol { A } } ( r , \\theta , t ) = \\mu \\sigma { \\frac { \\partial { \\boldsymbol { A } } ( r , \\theta , t ) } { \\partial t } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\mu$ 和 $\\sigma$ 分别为球内介质的磁导率和电导率.在外加激励磁场的情况下，介质内的感应磁矢势应当满足此方程.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在上文已经假定在全空间中磁导率满足 $\\mu \\equiv \\mu _ { 0 }$ 这样，当 $t > 0$ 时，磁场在球体表面边界上应当保持连续，即 $A$ 和 $\\frac { \\partial A } { \\partial r }$ 在 $r \\ = \\ R _ { \\mathrm { m } }$ 处连续；球心满足 $A ( 0 , 0 , t ) = 0$ ；球内满足初始条件 $A ( r , \\theta , 0 ) = 0$ 在球外由于是真空,故 $\\sigma = 0$ ．对Laplace方程取分离变量解，可以得到",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3f8b3fc8730834d9e8e86f72f507b7a21795c6a6a16c9489e3c5af8545799cf.jpg",
+        "img_caption": [
+            "图1外磁场 $\\Delta B _ { \\mathrm { e } } b ( t )$ Fig.1Exterior magnetic field $\\Delta B _ { \\mathrm { e } } b ( t )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { A = \\Delta B _ { \\mathrm { e } } \\displaystyle \\bigg ( \\frac { r } { 2 } \\bigg ) b ( t ) \\sin \\theta + } } \\\\ { { \\displaystyle \\frac { \\Delta B _ { \\mathrm { e } } } { r ^ { 2 } } f ( t ) \\sin \\theta . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（2）右边第一项由给定的外部磁场变化函数 $b ( t )$ 决定;第二项即所求的外场瞬态响应函数，当 $r \\to \\infty$ 和 $t \\to \\infty$ 时将会消失",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $\\boldsymbol { r }$ 归一化后对公式进行整理和变换，可以得到",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\pmb { A } } { \\partial r } = - 2 \\pmb { A } + \\frac { 3 } { 2 } [ \\Delta B _ { \\mathrm { e } } \\mathrm { s i n } \\theta b ( t ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由于磁场在 $r = R _ { \\mathrm { m } }$ 处连续，式 (3)即是对球体内部磁场进行计算时的边界条件,其形式为第三类混合边界条件.令",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( r , t ) = A / \\Delta B _ { \\mathrm { e } } \\sin \\theta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "并用 $\\boldsymbol { G } ( \\boldsymbol { r } , \\boldsymbol { s } )$ 表示 $g ( r , t )$ 的Laplace变换,则式（1）可以写为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { 1 } { r } \\Big [ \\frac { \\partial ^ { 2 } } { \\partial r ^ { 2 } } ( r G ) - \\frac { 2 } { r } G \\Big ] = \\mu \\sigma s G .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "边界条件式(3）可以转换为如下形式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial G } { \\partial r } = - 2 G + \\frac { 3 } { 2 } b ( s ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(5)在 $r = R _ { \\mathrm { m } }$ 处成立,其中, $b ( s )$ 为 $b ( t )$ 的Laplace变换.在球心处还有另一边界条件，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这样,在给定电导率 $\\sigma$ 和函数 $b ( t )$ 之后，即可通过数值积分获得球体任意区域（含球面）的 $\\boldsymbol { G } ( \\boldsymbol { r } , \\boldsymbol { s } )$ 用数值方法求解方程Laplace 逆变换，即可研究系统的特征瞬态响应函数 $f ( t )$ 及其性质.求出磁矢势 $A$ 后,将其用 $\\boldsymbol { B } = \\nabla \\times \\boldsymbol { A }$ 转化为磁场值即可.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Laplace 逆变换",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在计算过程中给定二维函数Laplace变换的生成函数 $\\boldsymbol { G } ( \\boldsymbol { r } , \\boldsymbol { s } )$ ，需求出与之相对应的决定函数 $g ( r , t )$ =但实际上大部分函数的 Laplace 逆变换都只能求数值解 (包括本例)．在Laplace 逆变换的定义中，生成函数在解析半平面一致收敛，而积分是沿着这个半平面内某条与虚轴平行的直线进行的，因此对于其数值积分不能完全按照常规的实数积分域进行处理，而需要在此基础上进行一些修正．参照Dubner和Abate[9]及Durbin[10]的方法进行如下变换",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于本文的生成函数，Laplace 逆变换的定义公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( r , t ) = { \\frac { 1 } { 2 \\pi \\mathrm { i } } } { \\int _ { a - \\mathrm { i } \\infty } ^ { a + \\mathrm { i } \\infty } \\ \\mathrm { e } ^ { s t } } G ( r , s ) \\mathrm { d } s .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,复变量 $s = a \\mathrm { + i } \\omega , g ( r , t )$ 的Laplace 变换在半平面 $\\operatorname { R e } ( s ) > c$ 上一定存在,这里 $\\mid c \\mid$ 由生成函数 $\\boldsymbol { G } ( \\boldsymbol { r } , \\boldsymbol { s } )$ 决定，且在此平面内 $\\boldsymbol { G } ( \\boldsymbol { r } , \\boldsymbol { s } )$ 为解析函数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将式(7)变换为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( r , t ) = \\frac { 2 \\mathrm { e } ^ { a t } } { \\pi } \\int _ { 0 } ^ { \\infty } \\mathrm { R e } \\{ G ( r , s ) \\} \\cos \\omega t \\mathrm { d } \\omega .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $\\boldsymbol { a }$ 为大于 $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 的任意实数.Dubner 和Abate[9] 对式（8）应用梯形近似公式得到生成函数的数值反演近似公式，并对反演误差进行讨论，Durbin[10]还对文献[9]的算法进行了一些改进.采用文献[9]的公式并用在式(8)的二维函数中，得到如下反演公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { g ( r , t ) = \\displaystyle \\frac { 2 \\mathrm { e } ^ { a t } } \\pi \\left\\{ \\frac 1 2 G ( r , a ) + \\right. } } \\\\ { { \\left. \\sum _ { k = 1 } ^ { \\infty } \\mathrm { R e } \\left[ G \\Big ( r , a + \\displaystyle \\frac { k \\pi \\mathrm { i } } T \\Big ) \\right] \\mathrm { c o s } \\left( \\displaystyle \\frac { k \\pi t } T \\right) \\right\\} + E _ { \\mathrm { r } } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,i为虚数单位， $T$ 为需要计算的数据 $\\mathbf { \\Psi } _ { t }$ 的长度;$E _ { \\mathrm { r } }$ 为误差,其表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { r } } = \\sum _ { n = 1 } ^ { \\infty } \\mathrm { e } ^ { - 2 a n T } [ g ( r , 2 n T + t ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { e } ^ { 2 a t } g ( r , 2 n T - t ) ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中,参数 $\\vert a > c$ ， $T > t _ { \\mathrm { m a x } }$ .式(10)中一旦确定了 $T$ 5利用梯形公式中的步长 $\\pi / T$ 可以近似求得 $g ( r , t )$ ，这样通过选取合适的 $\\boldsymbol { a }$ 代入计算,可以使得误差达到预设精度.为了确定误差的大小，需要研究当 $\\mathbf { \\Psi } _ { t }$ 较大时函数 $g ( r , t )$ 的性质.上文已假定生成函数在一致收敛平面 $\\operatorname { R e } ( s ) > c$ 内无奇点，故有",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng ( r , t ) \\leqslant C t ^ { m } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $C$ 为常数, $m$ 为任意非负整数",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "假定对任意 $\\mathbf { \\Psi } _ { t }$ 均满足 $g ( r , t ) \\leqslant C$ ，则式（10）可 以改写为 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { r } } \\leqslant C \\mathrm { e } ^ { a ( t - T ) } \\frac { \\cosh ( a t ) } { \\sinh ( a T ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由式(11）可知，当 $t \\to T$ 时，误差可能会达到不可控的程度，因此计算的有效范围为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 \\leqslant t < T / 2 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于数值公式 (11)，误差限为 $C \\mathrm { e } ^ { - a T }$ ．选定 $T$ 后再指定 $\\mathbf { \\Omega } _ { a }$ ，则对于 $( 0 , T / 2 )$ 范围内的反演，误差可以控制在 $C \\times 4 . 5 4 \\times 1 0 ^ { - 5 }$ 以内.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3计算结果及分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本计算采取的模型参数设置为，月球磁导率 $\\mu =$ $\\mu _ { 0 } = 4 \\pi \\times 1 0 ^ { - 7 } \\mathrm { H { \\cdot } m ^ { - 1 } }$ ；月球电导率 $\\sigma = 1 0 ^ { - 7 } \\sim$ $1 0 ^ { - 5 } \\mathrm { { S } \\cdot \\mathrm { { m } ^ { - 1 } } }$ ；月球半径 $R _ { \\mathrm { m } } = 1 7 3 8 \\mathrm { k m }$ ；计算时长 $t =$ $2 0 \\mathrm { s }$ ．对于阶跃变化的外磁场，在球面（ ${ \\bf \\Phi } ( r = 1 )$ 上，频域内满足定解条件式(4)的解为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { G _ { 1 } ( s ) = } & { } & { } \\\\ { \\displaystyle } & { } & { } \\\\ { \\displaystyle \\frac { 3 } { k ^ { 2 } s ( e ^ { k } - e ^ { - k } ) } [ k \\cosh ( k ) - \\sinh ( k ) ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $k = { \\sqrt { \\mu \\sigma s } }$ ，由于 $T > 2 t _ { \\mathrm { m a x } }$ ，设 $T = 5 0 0 0 0$ $a T = 1 2$ ，则 $a = 2 . 4 \\times 1 0 ^ { - 4 }$ ，误差 $E _ { \\mathrm { r } } < 5 . 1 1 2 5 \\times$ $\\times 1 0 ^ { - 1 0 }$ ．式（9）截断项取到 $k = 3 0 0$ ．给定这些参数能够保证计算达到预定精度.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图 $2 { \\sim } 5$ 分别给出了球面测量磁场的三分量及总场随时间的变化趋势，球内电导率均为 $\\begin{array} { r l } { \\sigma } & { { } = } \\end{array}$ $1 0 ^ { - 5 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ ．可以看出,在外磁场发生跃变的瞬间,球面立即产生响应,计算得到最大的 $B _ { x }$ 分量响应值约为 $5 . 4 4 \\mathrm { n T }$ ，出现在 $\\ O x z$ 面与球体相交的两条经线南北中纬度地区;最小的 $B _ { x }$ 分量响应值约为 $- 5 . 4 4 \\mathrm { n T }$ 出现在与两条经线对称的南北中纬度地区;最大 $B _ { y }$ 分量响应值和最小分量响应值与 $B _ { x }$ 相同，且出现的区域与 $B _ { x }$ 相应区域的纬度相同，但经度向东偏移了 $\\pi / 2$ ；随着时间的推移，月表磁场与月内地质体相互作用，导致 $B _ { x }$ 和 $B _ { y }$ 分量显著衰减，最大响应值到11.4s左右已降至约 $0 . 2 4 \\mathrm { n T }$ ，到 $\\mathrm { 1 9 s }$ 时更是仅有不到 $0 . 0 4 \\mathrm { n T }$ ，经历足够长的时间后将衰减殆尽．赤道上的 $B _ { x }$ 和 $B _ { y }$ 分量始终为零.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于假定的阶跃磁场沿轴线 $z$ 的方向变化，所以 $B _ { z }$ 分量的变化与 $B _ { x }$ 和 $B _ { y }$ 显著不同．这种差异不仅体现在场值的大小,还体现在分量在球面的对称性上.从图 $4 ( \\mathrm { a } ) \\mathrm { \\sim ( f ) }$ 可以看出， $B _ { z }$ 分量在极区的初值仅为 $2 . 7 1 \\mathrm { n T }$ ，而在赤道附近初值可达 $1 3 . 6 5 \\mathrm { n T }$ ，随着时间推移，极区附近的值逐渐增加，中低纬处的值逐渐减少，但最终其值在外源场均能够达到 $1 0 \\mathrm { n T }$ 且 $B _ { z }$ 分量与 $\\varphi$ 无关,其分布关于赤道南北对称",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bf16b1d637dd01633706c33c986c920562c763f2368377a808f35199774b03a.jpg",
+        "img_caption": [
+            "张翔宇等：月球均匀模型阶跃感应磁场模拟计算",
+            "图2 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ 时月表 $B _ { x }$ 分量的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/42074a01fcc079fa410158b6c85562255a6eac110646ec08bc7e02515250fd53.jpg",
+        "img_caption": [
+            "Fig.2 $B _ { x }$ at the lunar surface when $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } { \\cdot } \\mathrm { { m } ^ { - 1 } } }$ ",
+            "图3 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ 时月表 $B _ { y }$ 分量的变化Fig.3 $B _ { y }$ at the lunar surface when $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } { \\cdot } \\mathrm { { m } ^ { - 1 } } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图 $2 { \\sim } 5$ 都是在电导率 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ 的情况下得到的，但对于其他电导率，球面分量变化的总趋势是一致的.由于磁场在岩石中的衰减速率依赖于岩石特性，因此低电导率条件下磁场衰减快，高电导率条件下磁场衰减慢，对于同样的外源场，高电导率下测量磁场重新达到稳态所需时间将会比低电导率下长得多.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这种变化在图 $6 { \\sim } 7$ 中反映得相当明显.在球面上选择一条经线 $( \\varphi ~ = ~ \\pi / 3 )$ ）上的位于北半球的三个测点，分别位于北半球的低纬 $( \\theta ~ = ~ 3 \\pi / 7 )$ 、中纬 $\\textstyle \\left( \\theta = 2 \\pi / 5 \\right)$ )和高纬地区 $( \\theta = \\pi / 1 5 ^ { \\cdot }$ .图 $6 ( \\mathrm { a } ) \\sim ( \\mathrm { c } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac4a6caf553b8517b0140a85c2151a1497fe06867568f2aecf34afb6a678eac7.jpg",
+        "img_caption": [
+            "图4 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ 时月表 $B _ { z }$ 分量的变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a6f16bbf145e5fee073dc56c13358a41deb85c893cc65c10fe56eea04d9feaa.jpg",
+        "img_caption": [
+            "Fig.4 $B _ { z }$ at the lunar surface when $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ ",
+            "图5 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ 时月表总磁场 $B _ { \\mathrm { t } }$ 的变化",
+            "Fig.5Total field $B _ { \\mathrm { t } }$ at the lunar surface when $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } { \\cdot } \\mathrm { { m } ^ { - 1 } } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "反映了各个测点的三分量及总场的变化，图 $\\mathrm { 7 ( a ) } \\mathrm { \\sim ( c ) }$ 反映了轴向磁场的差值变化．可以看到, $\\sigma = 1 0 ^ { - 7 } \\sim$ $1 0 ^ { - 6 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ 时，三分量仅需不到2s甚至1s 即可重新达到稳态，但是当 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } { \\cdot } \\mathrm { { m } ^ { - 1 } } }$ 时,这个时段将会达到 $8 { \\sim } 1 0 \\mathrm { s }$ 甚至更长. $B _ { z }$ 分量经足够长时间后将完全等同于外磁场，但极区与中低纬的变化趋势也不一样,极区是从 $2 { \\sim } 3 \\mathrm { n T }$ 逐渐增加到 $1 0 \\mathrm { n T }$ ，而中低纬和赤道是在 $t = 0$ 时刻先突增至某个峰值，然后再逐渐减小至 $1 0 \\mathrm { n T }$ .该实验结果与文献[1]中Apollo 地面实验结果是一致的，说明本文采取的理论算法是合理的.但是当 $\\sigma$ 较小时, $B _ { z }$ 分量的变化经过一定振荡才逐渐达到外场值，表明其与原函数奇点有关,这会对Laplace数值逆变换的公式精度产生一定影响为了压制这种振荡，保证磁场平稳变化，需要控制变换公式和误差公式的参数范围并进行合理选择",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec678645ac12cd30120a8de55a38d8996f5458c324b660745645e932e57333c0.jpg",
+        "img_caption": [
+            "图6球面测量磁场三分量及总场 (单位nT)随时间的变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图 8 描述了不同 $\\sigma$ 条件下球面控制函数 $g ( t )$ 及外场特征瞬态响应函数 $f ( t )$ 的变化过程．根据 Laplace 逆变换的数值反演公式 (9), $g ( t )$ 和 $f ( t )$ 除与时间有关外，还与球半径 $\\boldsymbol { r }$ 有关.而实际的测量不可能深入到月球内部，因此在球面有 $r \\equiv 1$ ，两个函数均不受测点位置的经纬度影响，",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3fb11e058a2faba2bd4a55f4ffc5997b025c4f62dbb5f92a552a331fcecb227.jpg",
+        "img_caption": [
+            "图7轴向 $z$ 磁场差值随时间的变化 Fig.7Variation of the magnetic field in $z$ -axis direction with time "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d00cb5d5325f1addafaffba1205c8c0b8346652ca1af194c5a3fe73eba4be75.jpg",
+        "img_caption": [
+            "Fig.6Three components and total field (Unit nT) variations with time ",
+            "图8不同电导率下球面控制函数 $g ( t )$ 及外场特征 瞬态响应函数 $f ( t )$ 随时间的变化 Fig.8Surface regulating function $g ( t )$ and characteristic transient response function $f ( t )$ with time under various conductivities "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "假定月球为一个均匀模型，在球外空间的行星际磁场发生阶跃变化时，对月表部分位置的磁场变化进行了模拟计算，得到如下结论.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）月表磁场包含行星际磁场和月球内部物性参数激发的变化磁场.假定磁导率 $\\mu$ 不变,则球电导率$\\sigma$ 越小，变化磁场衰减越快，例如 $\\sigma = 1 0 ^ { - 7 } \\mathrm { S } { \\cdot } \\mathrm { m } ^ { - 1 }$ 时仅需2s外磁场即基本衰减殆尽；电导率越大，变化磁场衰减越慢，例如 $\\sigma = 1 0 ^ { - 5 } \\mathrm { { S } } { \\cdot } \\mathrm { { m } } ^ { - 1 }$ 时需约20s 外磁场才基本衰减殆尽；但最终变化磁场都会消失，球面各点的总磁场均将无限趋近于跃变后的外部磁场，这符合电磁感应定律，也说明了Laplace逆变换数值反演方法的合理性和有效性",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）对于球对称模型，南北半球的磁场变化呈反对称情形，即一个点的磁场变化和经度与其相差 $1 8 0 ^ { \\circ }$ ，纬度相同但方向相反的点的磁场变化趋势相同.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)对于均一电导率模型，与外源场方向垂直的磁场分量 $B _ { x }$ 和 $B _ { y }$ 最终都将消失，而与之方向相同的分量 $B _ { z }$ 最终将与外源场达到一致.但是平行分量在中低纬度地区和高纬度地区趋向于外源场的变化过程显著不同，因此在实际测量中，不同测点位置的选取将有可能监测到完全不同的磁场变化形态．这个形态差异的分界点大致出现在南北纬 $3 8 ^ { \\circ }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4)本文方程求解过程采用的是Laplace逆变换数值反演方法．已有文献[9-10]提到的数值算法大多研究一元函数，由于用到了复数，因此由精确解到近似解的转化需要条件，误差限的控制依赖于积分函数的收敛域，故对积分函数性质的分析和讨论需要谨慎对待；本计算中的方程虽然是二元函数，但在计算过程中仅对一个宗量 $\\mathbf { \\Psi } _ { t }$ 进行Laplace 变换,不涉及二维情形，因此对一元函数的变换过程完全适用于本计算，对计算精度和收敛条件的讨论亦可类比进行",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于许多研究均证明月球存在多层结构，因此本文计算与实际探测结果可能会存在一定偏差．利用简单均匀对称模型达到预期目标,证明布设月表磁强计阵列的可行性，可以在未来的研究中改变模型结构和参数设置，例如采用分层、偏心模型或加入规则、不规则结构的电磁异常体，考虑地层结构的横向或纵向不均匀性等，以期获得更接近实际，具有更高应用价值的成果，推进不同测点差值与垂向分层厚度之间的关系及反演异常体位置和尺度等方面的研究，为月球探测提供算法的理论依据和物理过程分析",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] Dyal P,Parkin C W.The Apollo 12 magnetometer experiment:Internal lunar properties from transient and steady magnetic field measurements [J].Proc.Lun.Sci. Conf., 1971,3:2391-2413   \n[2] Schubert G,Schwartz K.A Theory for the interpretation of lunar surface magnetometer data[J].Moon,1969, 1(1):106-117   \n[3] Schubert G.High frequency electromagnetic response of the moon[J]. J.Geophys.Res.,1972,77(1):76-83   \n[4] GrimmR E,Delory G T.Next-generation Lunar Electromagnetic Sounding of the lunar interior [C]//NLSI Lunar Science Conference.California:Lunar and Planetary Institute,2008:2075   \n[5] Dyal P,Parkin C W, Sonett CP.Apollo 12 magnetometer: Measurement of a steady magnetic field on the surface of the moon [J]. Science,1970,169(3947):762   \n[6] Dyal P, Parkin C W,Cassen P. Surface magnetometer experiments:Internal lunar properties and lunar field interactions with the solar plasma [C]//Proceeding of the 3rd Lunar Science Conference.Houston TX:NASA1972: 2287-2307   \n[7] Dyal P,Parkin C W.Magnetism and the interior of the Moon[J].Rev. Geophys.Space Phys.,1974,12(4):568- 591   \n[8] Parkinson W D.Introduction to Geomagnetism [M].London:Scottish Academic Press,1983:308-312   \n[9] Dubner H,Abate J.Numerical inversion of Laplace transforms by relating them to the finite Fourier cosine transform[J].J.Assoc.Comp.Mach.,1968,15(1):115-123   \n10] Durbin F.Numerical inversion of Laplace transforms: An efficient improvement to Dubner and Abate's method [J]. Comp.J.,1974,17(4):371-376 ",
+        "page_idx": 7
+    }
+]

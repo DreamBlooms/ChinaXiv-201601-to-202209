@@ -1,0 +1,153 @@
+# 细鳞鲑幼鱼对饲料中维生素E的需求量
+
+常‧杰 牛化欣" 胡宗福 于建华 李树国(内蒙古民族大学动物科学技术学院，通辽028000)
+
+摘要：本试验旨在研究饲料中不同水平的维生素 E 对细鳞鲑幼鱼生长性能、血清生化指标和机体维生素E 积累量的影响，并确定细鳞鲑幼鱼对饲料中维生素E 的需求量。选取初均质量为 $( 4 0 . 2 \pm 3 . 6 ) \mathrm { \ g }$ 的细鳞鲑幼鱼270尾，随机分成6个组，每组3个重复，每个重复15尾。各组分别投喂不同维生素E水平(实测值分别为16.6、64.9、165.5、316.2、615.5和1214.7$\mathrm { m g / k g ) }$ 的6种等氮等能的试验饲料。试验期 $1 2 0 { \mathrm { d } }$ 。结果表明：1）细鳞鲑的末均质量(FW)、增重率(WGR)和特定生长率(SGR)均随着饲料维生素E水平的升高呈先升高后降低的趋势，$1 6 5 . 5 ~ \mathrm { m g / k g }$ 组细鳞鲑的FW 显著高于其他各组 $( P { < } 0 . 0 5 )$ ， $1 6 5 . 5 \mathrm { \ m g / k g }$ 组细鳞鲑的WGR 和SGR 显著高于16.6 和 $1 \ 2 1 4 . 7 \ \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ 。各组间细鳞鲑的摄食率、饲料系数和蛋白质效率没有显著差异 $( P { > } 0 . 0 5 )$ 。2）随着饲料维生素 E 水平的升高，血清甘油三酯(TG)和总胆固醇(TC)含量均呈逐渐降低的趋势，且615.5和 $1 2 1 4 . 5 \mathrm { \ m g / k g }$ 组显著低于其他各组 $( P <$ 0.05)。随着饲料维生素E水平的升高，血清高密度脂蛋白胆固醇(HDL-C)含量呈先升高后降低的趋势，且 $1 6 5 . 5 ~ \mathrm { m g / k g }$ 组显著高于其他各组 $( P { < } 0 . 0 5 )$ ，64.9 和 $3 1 6 . 2 ~ \mathrm { m g / k g }$ 组显著高于16.6、615.5 和 $1 \ 2 1 4 . 5 \ \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ ;而血清低密度脂蛋白胆固醇(LDL-C)含量与HDL-C含量呈相反的趋势，且165.5和 $3 1 6 . 2 \ \mathrm { m g / k g }$ 组显著低于其他各组 $( P { < } 0 . 0 5 )$ 。各组间血清谷丙转氨酶(ALT)和谷草转氨酶(AST)活性没有显著差异 $( P { > } 0 . 0 5 )$ 。3）随着饲料维生素E 水平的升高，细鳞鲑肝脏维生素E积累量除 615.5 与 $1 \ 2 1 4 . 5 \ \mathrm { m g / k g }$ 组间无显著差异 $( P { > } 0 . 0 5 )$ 外，呈显著升高的趋势 $_ { ( P < 0 . 0 5 ) }$ ；肌肉维生素E积累量也呈升高的趋势，在饲料维生素E水平大于 $1 6 5 . 5 \mathrm { m g / k g }$ 时恒定在一个水平，且165.5、316.2、615.5和 $1 \ 2 1 4 . 5 \ \mathrm { m g / k g }$ 组肌肉维生素E沉积量显著高于16.6 和 $6 4 . 9 \mathrm { \ m g / k g }$ 组 $( P { < } 0 . 0 5 )$ 。由此可见，饲料中添加适宜水平的维生素 E可以改善细鳞鲑的生长性能和血清生化指标，增加肝脏和肌肉维生素E 积累量。以增重率和肌肉维生素E积累量为评价指标，根据折线模型得出，细鳞鲑对饲料中维生素E的适宜需求量分别为145.87 和 $1 8 0 . 9 8 \mathrm { m g / k g }$ 。
+
+关键词：细鳞鲑；维生素E；生长性能；血清生化指标；需求量中图分类号：S963 文献标志码：A 文章编号：
+
+维生素E是动物机体所需较为重要的一种脂溶性维生素，具有保护细胞膜免受过氧化损害[1、防止活性细胞膜磷脂过氧化物生成[2]、抗氧化以及增强体液[3]、细胞免疫[4]和调节免疫系统等诸多生物学功能[5]。同时，为阐明维生素E对动物血脂代谢和脂肪沉积的调节作用、研究发掘其生物功能具有重要的生物学意义。Li等研究表明，饲粮中添加适宜水平维生素E 能够提高肉鸡胸肌和腿肌肌内脂肪含量，降低腹脂含量。张敏等研究表明，饲粮中添加维生素E 能够提高肉鸡血脂代谢，降低血清中甘油三酯（TG）、总胆固醇（TC）和低密度脂蛋白胆固醇（LDL-C）含量，提高血清中高密度脂蛋白胆固醇（HDL-C）含量，改善血脂代谢。本课题组前期研究表明，在高脂饲料中添 $1 2 4 { \sim } 2 4 3 ~ \mathrm { m g / k g }$ 维生素E能改善大菱鲆（Scophthalmusmaximus）生长性能、饲料利用效率、鱼肝体指数、脏体指数，调节和改善血脂代谢，调控机体脂肪代谢酶活性，提高机体组织维生素E积累量和免疫功能[4,8]。
+
+细鳞鲑(Brachymystax lenok Pallas)，属鲑科，细鳞鱼属，主要分布于我国黑龙江、吉林、辽宁、河北、内蒙古、新疆和秦岭一带溪流、河流、湖泊中，为一种具有较高经济价值和营养价值的冷水性名贵鱼类，已将其列入中国国家二级重点保护水生野生动物[9-10]。近年来，我国各地如东北、秦岭汉中、河北、山东等地区已相继将细鳞鲑人工繁殖、苗种培育成功，并人工放流和大面积养殖[1-12]，但在其养殖过程中，因对细鳞鲑营养需求的研究报道较少[9,13]，且有关细鳞鲑维生素需求量方面的研究还未有报道，所以没有生产出其精准的配合饲料，而是投喂的虹鱼商品饲料和小杂鱼。研究细鳞鲑营养生理，为配制营养全面、优质高效的配合饲料对其健康精准养殖具有重要的作用。因此，本试验旨在研究饲料中添加不同水平的维生素E对细鳞鲑生长性能、血清生化指标和机体维生素E 积累量的影响，以期为确定细鳞鲑饲料中维生素E的适宜需求量提供理论参考。
+
+# 1材料与方法
+
+# 1.1 试验饲料
+
+细鳞鲑幼鱼基础饲料组成及营养水平见表1，在基础饲料中以微晶纤维素调整维生素E的添加水平，其添加水平参考大西洋鲑维生素E 需求量设计[14]，分别添加 $0 , 1 0 0 , 3 0 0 , 1 2 0 0$ 和2400$\mathrm { m g / k g }$ 的 $D L - \mathbf { \vec { a } } .$ -生育酚醋酸酯(维生素E含量 $50 \%$ ，制成6种等氮等能的试验饲料，实测饲料维生素E水平分别为16.6、64.9、165.5、316.2、615.5和 $1 \ 2 1 4 . 7 \ \mathrm { m g / k g }$ 。将各原料粉碎过80 目筛进行混合，微量成分采取逐级扩大法添加，与各原料混合均匀后，用DS32-II型双螺杆制粒机(济南赛信膨化机械有限公司)挤压成颗粒饲料(直径 $2 . 5 { \sim } 4 . 0 \ \mathrm { \ m m }$ ，长 $3 . 0 \ \mathrm { m m }$ ， $6 5 ^ { \circ } \mathrm { ~ \mathcal ~ { C } ~ }$ 风干后放入-20℃冰箱中冷冻备用。
+
+Table1Composition and nutrient levels of the basal diet (dry weight basis) %
+
+表1基础饲料组成及营养水平(干重基础)   
+
+<html><body><table><tr><td>项目Items</td><td>含量Contents</td></tr><tr><td></td><td></td></tr><tr><td></td><td>2</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>原料 Ingredients</td><td></td></tr><tr><td>鱼粉 Fish meal</td><td>32.00</td></tr><tr><td>豆粕 Soybean meal</td><td>16.00</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>6.00</td></tr><tr><td>明胶Gelatin</td><td>6.00</td></tr><tr><td>酪蛋白 Casein</td><td>6.00</td></tr><tr><td>面粉Wheat flour</td><td>10.0</td></tr><tr><td>大豆卵磷脂 Soy lecithin</td><td>2.00</td></tr><tr><td>氯化胆碱 Cholinechloride</td><td>0.50</td></tr><tr><td>鱼油Fish oil</td><td>6.00</td></tr><tr><td>亚麻油 Linseed oil</td><td>5.00</td></tr><tr><td>猪油 Lard</td><td>5.00</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>1.50</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>1.50</td></tr><tr><td>磷酸二氢钙 Ca(HPO3)2</td><td>0.50</td></tr><tr><td>维生素C 磷酸酯 Vitamin</td><td>C 1.00</td></tr><tr><td>phosphate</td><td></td></tr><tr><td>微晶纤维素 Cellulose</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td></tr><tr><td>水分Moisture</td><td>6.00</td></tr><tr><td>粗脂肪Crude lipid</td><td>17.76</td></tr><tr><td>维生素E Vitamin E/(mg/kg)</td><td>16.60</td></tr><tr><td>粗蛋白质 Crude protein</td><td>42.85</td></tr><tr><td>灰分 Ash</td><td>11.61</td></tr><tr><td>多不饱和脂肪酸 PUFA</td><td>46.58</td></tr></table></body></html>
+
+D维生素预混料为每千克饲料提供 Vitamin premix provided the following per kilogram of the diet: ${ \mathrm { V B } } _ { 1 } \ 2 5$ mg， $\mathrm { V B } _ { 2 } 4 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 1 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 0 \mathrm { m g }$ ，肌醇inositol $8 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { V B } _ { 3 } 6 0 ~ \mathrm { m g }$ ，烟酸niacin acid $2 0 0 ~ \mathrm { { m g } }$ ，叶酸 folic acid $2 0 ~ \mathrm { m g }$ ，生物素biotin $1 . 2 0 ~ \mathrm { m g }$ ，VA $3 2 ~ \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } 5  { \mathrm { m g } }$ ，VC 2150 mg，乙氧基喹啉 ethoxyquin $1 5 0 ~ \mathrm { m g }$ ，次粉wheat middling $1 6 5 1 0 ~ \mathrm { m g }$ 。
+
+2矿物质预混料为每千克饲料提供 Mineral premix provided the folowing per kilogram of the diet:NaF$2 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { K I 8 0 m g }$ ， $\mathrm { C o C l } _ { 2 } { \cdot } 6 \mathrm { H } _ { 2 } \mathrm { O }$ 0 $1 \%$ 0 $5 0 0 0 \mathrm { m g }$ ， $\mathrm { C u S O _ { 4 } }$ ·5HO1000 mg， $\mathrm { F e S O _ { 4 } { \cdot } H _ { 2 } O \ 8 \ 0 0 0 \ m g }$ ， $\mathrm { Z n S O _ { 4 } }$ ·H2O$5 0 0 0 \mathrm { m g }$ ， $\mathrm { M n S O _ { 4 } { \cdot } H _ { 2 } O 6 0 0 0 m g }$ ， $\mathrm { M g S O _ { 4 } { \cdot } 7 H _ { 2 } O }$ 120 000 mg，Ca $( \mathrm { H } _ { 2 } \mathrm { P O } _ { 4 } ) _ { 2 } { \cdot } \mathrm { H } _ { 2 } \mathrm { O } 7 5 0 0 0 0 \mathrm { m g }$ ， $\mathrm { N a C l ~ 1 ~ 0 0 0 ~ m g }$ 沸石粉 zoelite powder $9 4 2 7 0 \mathrm { m g }$ 。
+
+# 1.2试验设计与饲养管理
+
+试验鱼取自中国水产科学研究院黑龙江水产研究所实验基地(辽宁凤城)，在内蒙古民族大学实验楼室内冷水鱼循环水养殖系统内(设有制冷机)驯化暂养 $1 2 \mathrm { d }$ 。选取规格均匀的细鳞鲑幼鱼270尾，初均质量为（ $4 0 . 2 { \pm } 3 . 6 \$ ）g，随机分成6个组，每组3个重复，每个重复15尾，分别饲喂6种试验饲料。试验鱼均放养在水体为 $1 5 0 \mathrm { L }$ 循环水系统养殖桶内，系统水流速度为 $8 0 { \sim } 1 0 0 \mathrm { L } / \mathrm { h }$ 。养殖用水为经曝气、消毒、制冷后的饮用自来水，水温 $( 1 5 { \pm } 1 ) ^ { \circ } \mathrm { C } ,$ 溶解氧含量 ${ > } 7 . 5 ~ \mathrm { m g / L }$ ，氨氮浓度 $< 0 . 2 5 \ \mathrm { m g / L }$ ， $\mathfrak { p H }$ 为 $7 . 6 { \pm } 0 . 2$ ，每3d换水或补水1/3 的量。试验期为 $1 2 0 { \mathrm { d } }$ 。每天投喂3次(08:00、13:30、18:30)，投饵量以饱食为度。
+
+# 1.3取样及分析
+
+试验结束停喂 $2 4 \mathrm { h }$ 后，对鱼计数、量体长和称重；每桶随机取5尾鱼采用MS-222麻醉，$2 . 5 ~ \mathrm { m L }$ 注射器尾静脉取血，然后解剖，分别剥离出各自肌肉，放在标号的封口袋中，置于 $- 2 0 \mathrm { { ^ { \circ } C } }$ 冰箱保存，以备营养成分含量的测定。
+
+# 1.3.1 生长性能
+
+增重率(weight growth rate,WGR, $\%$ )=[(末均重-初均重)/初均重 $] \times 1 0 0$ 特定生长率(specific growth rate, SGR, $\% \%$ ） $\vDash$ [(ln末均重-ln初均重) $| \times 1 0 0 ]$ /饲养天数;   
+摄食率(feed intake rate,FIR, $\% ( \mathrm { d } ) { = } 1 0 0 \times [$ 饲料摄入量/饲养天数 $\times$ (初均重 $+$ 末均重)/2];   
+饲料系数(feed conversion rate,FCR) $\scriptstyle 1 =$ 饲料摄食量/(末均重-初均重);   
+蛋白质效率(protein efficiency rate,PER) $\vDash$ [(末均重-初均重)/蛋白质摄取量 $] { \times } 1 0 0$ 。
+
+# 1.3.2 血清样品制备和指标测定
+
+鱼尾静脉取血后，室温静置 $2 \mathrm { h }$ ，再在 $4 \ : \mathrm { ~ \textdegree ~ . ~ } 4 0 0 0 \ : \mathrm { r / m i n }$ 条件下离心 $1 0 \mathrm { m i n }$ ，制备血清。血清生化指标测定采用 Pronto-E全自动生化分析仪(BPC 公司，意大利)测定，指标包括 TC、TG、HDL-C、LDL-C 含量及谷丙转氨酶(ALT)、谷草转氨酶(AST)活性。
+
+# 1.3.3饲料营养成分和鱼机体维生素E含量测定
+
+饲料水分、粗蛋白质、粗脂肪和粗灰分含量按国际标准 AOAC(2000)[15]方法分析测定。饲料和鱼机体(肌肉和肝脏)维生素E 含量测定，分别参照 Xue 等[16]和 Salo-Väänänen 等[17],采用高效液相色谱法测定。
+
+# 1.4数据处理
+
+结果以平均值 $\pm$ 标准差(mean $\mathsf { \Pi } _ { \mathsf { I } \pm \mathsf { S D } } \cdot$ 表示，数据处理与分析采用SPSS19.0分析软件进行单因素方差分析(one-way ANOVA)和采用 $t$ 检验进行显著性检验，采用Duncan氏法进行多重比较分析，以 $P { < } 0 . 0 5$ 作为差异显著性判断标准，同时采用折线模型来确定细鳞鲑幼鱼对饲料中维生素E的需求量。
+
+# 2结果
+
+# 2.1饲料维生素 $\mathbf { E }$ 水平对细鳞鲑幼鱼生长性能的影响
+
+由表2可知，细鳞鲑的末均质量(FW)、WGR 和 SGR均随着饲料维生素E水平的升高呈先升高后降低的趋势。 $1 6 5 . 5 ~ \mathrm { m g / k g }$ 组细鳞鲑的 FW 显著高于其他各组 $( P { < } 0 . 0 5 )$ 。165.5$\mathrm { m g / k g }$ 组细鳞鲑的WGR 和 SGR 显著高于16.6 和 $\mathrm { 1 ~ 2 1 4 . 7 ~ m g / k g }$ 组 $( P { < } 0 . 0 5 )$ ，但与其他各组差异不显著 $( P { > } 0 . 0 5 )$ 。饲料维生素E水平的对细鳞鲑的摄食率、饲料系数和蛋白质效率没有显著影响 $( P { > } 0 . 0 5 )$ 。通过分析饲料维生素E水平与细鳞鲑增重率之间的关系，采用折线模型评估得到细鳞鲑饲料中维生素E适宜需求量为 $1 4 5 . 8 7 ~ \mathrm { m g / k g ( }$ 图1)。
+
+表2饲料维生素E水平对细鳞鲑幼鱼生长性能的影响  
+
+<html><body><table><tr><td colspan="7">Table 饲料维生素E水平Dietary vitaminE level/(mg/kg)</td></tr><tr><td>项目 Items</td><td>16.6</td><td>64.9</td><td>165.5</td><td>316.2</td><td>615.5</td><td>1 214.7</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>初均质量 IW/g</td><td>39.87±0.68</td><td>39.10±0.79</td><td>39.00±0.96</td><td>39.20±1.39</td><td>39.60±0.70</td><td>39.90±0.79</td></tr><tr><td>末均质量</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FW/g</td><td>161.92±1.68d</td><td>170.20±1.77℃</td><td>176.79±0.94a</td><td>173.14±3.14b</td><td>173.60±0.63b</td><td>169.03±2.05c</td></tr><tr><td>增重率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WGR/%</td><td>306.19±4.19c</td><td>335.38±7.81ab</td><td>353.47±8.72a</td><td>342.10±19.02ab</td><td>338.48±8.14ab</td><td>323.68±3.70b</td></tr><tr><td>特定生长率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1.17±0.01c</td><td>1.23±0.02ab</td><td>1.26±0.02a</td><td>1.24±0.04ab</td><td></td><td></td></tr><tr><td>SGR/(%/d)</td><td>1.30±0.01</td><td></td><td></td><td></td><td>1.23±0.02ab</td><td>1.20±0.01b</td></tr><tr><td>摄食率</td><td></td><td>1.32±0.03</td><td>1.33±0.01</td><td>1.33±0.02</td><td>1.32±0.00</td><td>1.33±0.02</td></tr><tr><td>FIR/ (%/d)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>饲料系数</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FCR</td><td>1.29±0.01</td><td>1.26±0.02</td><td>1.24±0.02</td><td>1.27±0.04</td><td>1.26±0.01</td><td>1.28±0.02</td></tr><tr><td>蛋白质效率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>PER</td><td>1.80±0.02</td><td>1.84±0.03</td><td>1.87±0.03</td><td>1.84±0.05</td><td>1.85±0.02</td><td>1.82±0.05</td></tr></table></body></html>
+
+![](images/46740af7c2057e8bd2d07f9cdb477737f9917008834cb06bc18863c96c01f3ff.jpg)  
+图1饲料维生素E水平对细鳞鲑幼鱼增重率的影响  
+Fig.1Effects of dietary vitamin E level on weight gain rate of juvenile Brachymystax lenok
+
+2.2饲料维生素 $\mathbf { E }$ 水平对细鳞鲑幼鱼血清生化指标的影响
+
+由表3可知，随着饲料维生素E水平的升高，血清TG 和TC含量均呈逐渐降低的趋势，且615.5和 $1 \ : 2 1 4 . 5 \ : \mathrm { m g / k g }$ 组血清 TG 和TC 含量显著低于其他各组 $( P { < } 0 . 0 5 )$ 。随着饲料维生素 E 水平的升高，血清HDL-C 含量呈先升高后降低的趋势，且 $1 6 5 . 5 \mathrm { m g / k g }$ 组显著高于其他各组 $( P { < } 0 . 0 5 )$ ，64.9 和 $3 1 6 . 2 \mathrm { m g / k g }$ 组显著高于16.6、615.5 和 $1 \ 2 1 4 . 5 \ \mathrm { m g / k g }$ 组 $( P { < } 0 . 0 5 )$ 而血清 LDL-C 含量与HDL-C 含量呈相反的趋势，且165.5和 $3 1 6 . 2 \mathrm { m g / k g }$ 组显著低于其他各组 $( P { < } 0 . 0 5 )$ 。血清 ALT和AST活性随着饲料维生素E水平的升高均呈现略有降低的趋势，但各组间差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+表3饲料维生素E水平对细鳞鲑幼鱼血清生化指标的影响 Table 3Effects of dietary vitaminE level on serum biochemical indicators of juvenile Br   
+
+<html><body><table><tr><td rowspan="2">项目</td><td colspan="6">饲料维生素E水平 Dietary vitaminElevel/(mg/kg)</td></tr><tr><td>16.6</td><td>64.9</td><td>165.5</td><td>316.2</td><td>615.5</td><td>1 214.7</td></tr><tr><td>Items 甘油三脂 TG/(mmol/L)</td><td>4.75±0.03a</td><td>4.75±0.05a</td><td>4.60±0.03b</td><td>4.52±0.16b</td><td>4.29±0.03</td><td>4.17±0.03</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>5.18±0.04a</td><td>5.06±0.04b</td><td>4.87±0.07℃</td><td>4.56±0.05d</td><td>4.10±0.03e</td><td>4.14±0.04e</td></tr><tr><td>高密度脂蛋白胆固醇</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>HDL-C/(mmol/L)</td><td>3.28±0.05</td><td>3.68±0.05b</td><td>3.87±0.04a</td><td>3.70±0.04b</td><td>3.27±0.02℃</td><td>3.24±0.03</td></tr><tr><td>低密度脂蛋白胆固醇</td><td>1.61±0.03a</td><td>1.43±0.07℃</td><td>1.35±0.01d</td><td>1.33±0.03d</td><td>1.51±0.03b</td><td>1.58±0.04ab</td></tr><tr><td>LDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷丙转氨酶 ALT/(U/L)</td><td>32.60±1.77</td><td>33.43±4.43</td><td>28.28±3.04</td><td>29.74±2.78</td><td>27.70±5.16</td><td>27.95±3.03</td></tr><tr><td>谷草转氨酶 AST/(U/L)</td><td>59.26±3.35</td><td>55.87±1.80</td><td>53.92±4.14</td><td>53.35±4.36</td><td>52.82±4.67</td><td>53.67±2.45</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/1606d0bc07b293c674accc7adc4b94a57395134466d1a637fd324d7b3c96bf40.jpg)  
+2.3饲料维生素E水平对细鳞鲑幼鱼机体维生素E积累量的影响  
+图2饲料维生素E水平对细鳞鲑幼鱼肝脏和肌肉维生素E积累量的影响
+
+Fig.2Efects of dietary vitamin E level on accumulation of vitamin E in liver and muscle of juvenile
+
+# Brachymystaxlenok
+
+由图2可知，随着饲料维生素E水平的增加，细鳞鲑肝脏维生素E积累量除 $6 1 5 . 5 ~ \mathrm { m g / k g }$ 与 $1 \ 2 1 4 . 5 \ \mathrm { m g / k g }$ 组无显著差异 $( P > 0 . 0 5 )$ ，呈显著升高的趋势 $( P { < } 0 . 0 5 )$ ；细鳞鲑肌肉维生素E积累量先升高后稳定在一个水平，在饲料维生素E水平大于 $1 6 5 . 5 \mathrm { m g / k g }$ 时恒定一个水平(占肌肉湿质量约 $4 3 \mu \mathrm { g / g ) }$ ，且165.5、316.2、615.5和 $1 \ 2 1 4 . 5 \ \mathrm { m g / k g }$ 组肌肉维生素E积累量显著高于16.6 和 $6 4 . 9 \mathrm { \ m g / k g }$ 组 $( P { < } 0 . 0 5 )$ 。
+
+由图3可知，通过分析饲料维生素E水平与细鳞鲑肌肉维生素E积累量的关系，采用折线模型评估得到细鳞鲑饲料维生素E适宜需求量为 $1 8 0 . 9 8 ~ \mathrm { m g / k g }$
+
+![](images/62e1146724e019efb0b642eb1a80d99fd3d324e1629d5ba7799ea4a1dc7927d9.jpg)  
+图3饲料中维生素E水平对细鳞鲑幼鱼肌肉维生素E积累量的影响
+
+Fig.3Efcts of dietary vitamin E level on muscle vitamin E accumulation of juvenile Brachymystax lenok
+
+# 3讨论
+
+# 3.1细鳞鲑对饲料中维生素E的需求量
+
+在水产动物对维生素E 需求量的诸多研究中表明，饲料中添加适宜水平的维生素 E 可明显改善水产动物的生长性能，缺乏或过量均会减弱其免疫力和抗应激能力，抑制其生长，且过量添加还会降低体内高密度脂蛋白的合成，不利于脂代谢，导致肝脏大量沉积维生素E而产生毒副作用[18-21]。Pan 等[18]饲料中添加 $0 { \sim } 2 2 5 ~ \mathrm { m g / k g }$ 维生素E，投喂均初重为 $2 6 6 { \mathrm { ~ g ~ } }$ 的草鱼10 周，取得最佳生长性能的适宜维生素E 需求量为 $1 1 6 . 2 \mathrm { m g / k g }$ ，缺乏维生素E可抑制其生长，降低成活率，增加皮肤损伤。Lin等[19]报道，饲料添加 $1 0 0 \mathrm { m g / k g }$ 维生素E可显著提高点带石斑鱼（Epinephelus malabaricus）的生长，显著高于饲料中添加 25 和 $5 0 \mathrm { \ m g / k g }$ 维生素 E。张志强等[20研究表明，饲料中添加适宜水平的维生素E可以提高胭脂鱼幼鱼的生长性能，过量添加会抑制胭脂鱼幼鱼的生长。本试验结果显示，饲料中添加适宜水平的维生素 $\mathrm { E } ( 1 4 5 . 8 7 { \sim } 1 8 0 . 9 8 ~ \mathrm { m g / k g } )$ 可以提高细鳞鲑幼鱼的生长性能，过量的维生素E会抑制幼鱼的生长，这一结论与上述研究结果基本一致。在整个养殖期间，没有观察到细鳞鲑明显的缺乏症和过量的中毒症，只是观察到 $1 6 . 6 ~ \mathrm { m g / k g }$ 组在养殖后期出现1尾鱼有畸形、歪尾的症状，还有1尾鱼腹部向上游的现象，维生素E最高水平的 $\boldsymbol { 1 } 2 1 4 . 7 ~ \mathrm { g / k g }$ 组没有出现中毒现象。然而，维生素E对动物生长的影响存在种属和含量上的差异，不同水产动物对维生素E 的需求不同，同一种水产动物在不同生长阶段对维生素 E 的需求也有存在差异[3.7,21]。此外，维生素E需求量还与饲料营养成分(多不饱和脂肪酸、维生素A、维生素C、微量元素等)、养殖环境因子等多种因素有关[22-24]。
+
+动物机体组织中维生素E含量受饲料中维生素E含量的影响，在一定范围内，饲料中维生素E与组织中维生素E具有明显的正相关性，但随摄入维生素E水平的增加，机体组织如肌肉、肝脏中维生素 E 的积累量将趋于饱和而到达一定水平，且不同的组织其积累量也有差异。在水产动物维生素营养研究中，肝脏和肌肉中维生素E 积累量也是一个衡量维生素 E 需要量的重指标[1,25]。本研究表明，通过饲料维生素E水平与细鳞鲑肌肉维生素 E 积累量的关系，采用折线模型评估得到细鳞鲑维生素E的适宜需求量为 $1 8 0 . 9 8 ~ \mathrm { m g / k g }$ ，且肝脏中维生素E的积累量较肌肉高，两者维生素E积累量均随着饲料中维生素E的增加而升高，但当其达到一定阈值时，肌肉组织将不再随饲料中维生素E的增加而上升，此结果提示细鳞鲑机体维生素E 吸收、代谢主要在肝脏中进行，可能存在一个"维生素E库”，若饲料维生素 E 添加水平与鱼体代谢需求量平衡，饲料中维生素E水平与鱼体组织维生素E 积累量呈正相关，若饲料生素E 添加添加水平超过鱼体代谢需求量，就会在一定范围内可能沉积在肝脏中，也可通过血液循环从肝脏把 $\scriptstyle { \mathfrak { a } } .$ 生育酚运往各个组织[1,5,25]。
+
+# 3.2饲料中维生素E水平对细鳞鲑血清生化指标的影响
+
+动物血清生化指标可以反映机体生长发育、健康状况和免疫功能等的改变，其变化是机体一些组织和器官是否损害的前导信号，从而反映机体是否发生疾病的诊断依据[26]。目前，影响鱼类的血清生化指标变化的因素较多，如环境条件[27]、饲料成分[28]、应激水平[29]等。血清 TG 和TC 含量是反映机体血脂和脂肪代谢的重要生理指标，饲料能量过剩可使血液 TC和 TG 含量升高，其含量升高可促使肝脏脂肪过度积累[30]。本研究表明，适宜的维生素 E水平可降低细鳞鲑血清TG 和TC 含量，改善血脂代谢。这与长期投喂高脂饲料的大菱鲆养殖中添加适宜水平维生素E 可改善血脂代谢[8]、何敏[28]添加适宜的维生素E水平可减少黑鲷血液的TG 和 TC 含量以及张敏等在饲粮中添加维生素E改善肉鸡血脂代谢的研究结果一致。其原因可能是饲料中适宜的维生素E水平能提高鱼类和动物血液中TG 和TC 分解代谢酶的活性，有利于二者的转运和排泄，降低其含量，对血脂具有改善作用。本试验中饲料中适宜的维生素 E 水平可提高细鳞鲑血清 HDL-C 含量，减少血清 LDL-C 含量，表明适宜的维生素E水平对细鳞鲑的血液和肝功能产生了一定的影响。这与 Anwar 等[31报道的维生素 E 经由小肠内运输至乳糜微粒，再通过蛋白质介导转运至高密度脂蛋白，提高血清 HDL-C含量的结论一致。临床认为血清 HDL-C 含量的升高具有极积作用，而血清 HDL-C 含量的降低可能预示肝功能异常或其他代谢问题，对今后脂溶性维生素 E不同水平对鱼类血液生化指标与肝脏脂类代谢之间的关系有待进一步的分析与研究。本研究发现，饲料中添加适宜水平的维生素E相对于不添加组，在一定程度下略微降低了细鳞鲑血清ALT 和AST 活性，这与 El-Demerdash 等[32]和 Li 等[33]研究结果一致。本试验条件下，饲料维生素 E 水平大于$1 6 5 . 5 ~ \mathrm { m g / k g }$ 能降低细鳞鲑血清 TC、TG、LDL-C 含量及ALT 和 AST 活性，增加 HDL-C 含量，原因可能是维生素E 的添加提高了细鳞鲑血清维生素E的含量，降低了体内脂质过氧化的程度，一定程度上减少了对细胞结构的破坏。有关维生素E对鱼类的血清生化指标的影响报道较少[8.2-33],维生素 E能降低草鱼[33和氧化鱼油损伤下黑鲷血清 TC 和 TG 含量[34],但其影响机制有待进一步探索。
+
+# 4结论
+
+饲料中添加适宜水平的维生素 E可改善细鳞鲑的生长性能和血清生化指标，增加肝脏和肌肉维生素E的积累量。以增重率和肌肉维生素E 沉积量为评价指标，根据折线模型，细鳞鲑对饲料中维生素E的适宜需求量分别为145.87 和 $1 8 0 . 9 8 ~ \mathrm { m g / k g }$ 0
+
+# 参考文献:
+
+[1] GALLI F,AZZI A,BIRRINGER M,et al.Vitamin E:emerging aspectsand new directions[J].Free Radical Biology and Medicine,2017,102:16-36.   
+[2] MULLER L,THEILE K,BOHM V.In vitro antioxidant activity of tocopherols and tocotrienols and comparison of vitamin E concentration and lipophilic antioxidant capacity in human plasma[J].Molecular Nutrition and Food Research,2010,54(5):731-742.   
+[3] LU Y,LIANG X P,MIN J,et al.Effects of dietary vitamin E on the growth performance,antioxidant status and innate immune response in juvenile yellow catfish (Pelteobagrus fulvidraco)[J].Aquaculture,2016,464:609-617.   
+[4]NIU H X,JIA Y D,HU P,et al.Effect of dietary vitamin E on the growth performance and nonspecific immunity in sub-adult turbot (Scophthalmus maximus)[J].Fish & Shellfish Immunology,2014,41(2):501-506.   
+[5] SCHMOLZ L,BIRRINGER M,LORKOWSKI S,et al.Complexity of vitamin E metabolism[J].World Journal of Biological Chemistry,2016,7(1):14-43   
+[6]LI W J,ZHAO G P,CHEN JL,et al.Influence of dietary vitamin E supplementation on meat quality traits and gene expression related to lipid metabolism in the Beijing-you chicken[J].British Poultry Science,2009,50(2):188-198.   
+[7]张敏,黄藏宇,孙艳发,等.日粮维生素E水平对肉鸡屠宰性能和血脂代谢的影响[J].湖北农 业科学,2016,55(8):2049-2052.   
+[8]牛化欣,雷霁霖,常杰,等.维生素 E 对高脂饲料养殖大菱鲆生长、脂类代谢和抗氧化性能 的影响[J].中国水产科学,2014,21(2):291-299.   
+[9]常杰.冷水鱼养殖与营养调控研究[M].北京:中国农业科学技术出版社,2015.   
+[10]祁保霞,高庆全,徐革锋,等.贝尔湖野生细鳞鱼和养殖细鳞鱼主要营养成分比较[J].营养 学报,2016,38(4):414-416.   
+[11]牟振波,李永发,徐革锋,等.细鳞鱼全人工繁育技术的研究[J].水产学杂 志,2013,26(1):15-18.   
+[12] 常杰,徐革锋,李树国,等.温度与盐度对细鳞鲑仔、稚鱼存活和生长的影响[J].水生态学杂 志,2016,37(5):87-91.   
+[13]XU G F,WANG Y Y,HAN Y,et al.Growth,feed utilization and body composition of juvenile Manchurian trout,Brachymystax lenok (Pallas） fed different dietary protein and lipid levels[J].Aquaculture Nutrition,2015,21(3):332-340.   
+[14] HARDIE L J,FLETCHER T C,SECOMBES C J.The effect of vitamin E on the immune response of the Atlantic salmon (Salmo salar L.)[J].Aquaculture,1990,87(1):1-13.   
+[15]AOAC.Official Methods of Analysis[S].16th ed.Arlington,VA:Association of Official Analytical Chemists,1995:1-45.   
+[16]XUE X P,YOU JM,HE PL.Simultaneous determination of five fat-soluble vitamins in feed by high-performance liquid chromatography following solid-phase extraction[J].Journal of Chromatographic Science,2008,46(4):345-350.   
+[17]SALO-VAANANEN P,OLLILAINEN V,MATTILA P,et al.Simultaneous HPLC analysis of fat-soluble vitamins in selected animal products after small-scale extraction[J].Food Chemistry,2000,71(4):535-543.   
+[18]PAN J H FENG L,JIANG W D,et al.Vitamin E deficiency depressed fish growth,disease resistance,and the immunity and structural integrity of immune organs in grass carp (Ctenopharyngodon idella):referring to NF-kB,TOR and Nrf2 signaling[J].Fish & Shellfish Immunology,2017,60:219-236.   
+[19]LIN Y H,SHIAU S Y.Dietary vitamin E requirement of grouper,Epinephelus malabaricus,at two lipid levels,and their effects on immune responses[J].Aquaculture,2005,248(1/2/3/4):235-244.   
+[20]张志强,蒋明,文华,等.胭脂鱼幼鱼对饲料中维生素 E 需要量的研究[J].西北农林科技大 学学报：自然科学版,2017,45(2):23-30,36.   
+[21] 伍曦,罗辉,冯琳,等.高水平维生素 E 对幼建鲤生长性能和消化吸收功能的影响[J].动物 营养学报,2011,23(11):1938-1945.   
+[22]RAEDERSTORFF D,WYSS A,CALDER P C,et al.Vitamin E function and requirements in relation to PUFA[J].British Journal of Nutrition,2015,114(8):1113-1122.   
+[23]GAO J,KOSHIO S,ISHIKAWA M,et al.Interactive effects of vitamin C and E supplementation on growth performance,fatty acid composition and reduction of oxidative stress in juvenile Japanese flounder Paralichthys olivaceus fed dietary oxidized fish oil[J].Aquaculture,2014,422-423:84-90.   
+[24]黄云,胡毅,文华,等.维生素 E 对青鱼幼鱼生长、免疫及抗氨氮胁迫能力的影响[J].水生 生物学报,2013,37(3):507-514.   
+[25]HAMRE K.Metabolism,interactions,requirements and functions of vitamin E in fish[J].Aquaculture Nutrition,2011,17(1):98-115.   
+[26]BORDIN D M,BETTIM B B,PERDONA G C,et al.Understanding alterations on blood and biochemical parametersin athletes that use dietary supplements,steroids and illicit drugs[J].Toxicology,2017,376:75-82.   
+[27]BERENT D,SCHMIDT H,WAHLI T,et al.Effluent from a sewage treatment works causes changes in serum chemistry of brown trout (Salmo trutta L.)[J].Ecotoxicology and Environmental Safety,2001,48(2):140-147.   
+[28]何敏.维生素E 对斑点叉尾生长性能、免疫功能及肉质影响的机理研究[D].成都:四川 农业大学博士论文,2009.   
+[29]徐浩,张东玲,陈庆凯,等.低温下饥饿胁迫对大黄鱼血清生化指标的影响[J].生物技术通 报,2015,31(6):195-199.   
+[30]程汉良,夏德全,吴婷婷.鱼类脂类代谢调控与脂肪肝[J].动物营养学 报,2006,18(4):294-298.   
+[31]ANWAR K,KAYDEN H J,HUSSAIN M M.Transport of vitamin E by differentiated Caco-2 cells[J].Journal of Lipid Research,2006,47(6):1261 - 1273.   
+[32]EL-DEMERDASH F M.Antioxidant effect of vitamin E and selenium on lipid peroxidation,enzymeactivitiesandbiochemicalparametersin ratsexposedto aluminium[J].Journal of Trace Elements in Medicine and Biology,2004,18(1):113-121.   
+[33]LI J,LIANG X F,TAN Q S,et al.Effects of vitamin E on growth performance and antioxidant status in juvenile grass carp Ctenopharyngodon idellus[J].Aquaculture,2014,430:21-27.   
+[34]PENG S M,CHEN L Q,QIN J G,et al.Effects of dietary vitamin E supplementation on growth performance,lipid peroxidation and tissue fatty acid composition of black sea bream (Acanthopagrus schlegeli) fed oxidized fish oil[J].Aquaculture Nutrition,2009,15(3):329-337. Requirement of Dietary Vitamin E for Juvenile Manchurian Trout (Brachymystax lenok) CHANG Jie NIU Huaxin’HU Zongfu YU Jianhua Li Shuguo\* (College of Animal Science and Technology, Inner Mongolia University for Nationalities, Tongliao 028000, China)   
+Abstract: This study was conducted to investigate the effects of dietary different levels of vitamin
+
+E on growth performance, serum biochemical indicators and vitamin E accumulation in body, and to determine the vitamin E requirements of manchurian trout (Brachymystax lenok). A total of 600 juvenile manchurian trout with an initial body weight of $( 4 0 . 2 \pm 3 . 6 ) \$ g were randomly divided into 6 groups with 3 replicates per group and 15 fish per replicate. The fish were fed six isonitrogenous and isoenergetic diets containing different levels (measured values were 16.6, 64.9,165.5,316.2, 615.5 and $1 2 1 4 . 7 \mathrm { \ m g / k g }$ ，respectively）of vitamin E. The experiment lasted for l20 days. The results showed as follows: 1) the final weight (FW), weight gain rate (WGR) and specie growth rate (SGR) of manchurian trout were firstly increased and then decreased with dietary vitamin E level increased. The FW of manchurian trout in $1 6 5 . 5 ~ \mathrm { m g / k g }$ group was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ . The WGR and SGR of manchurian trout $1 6 5 . 5 ~ \mathrm { m g / k g }$ group were significantly higher than those in 16.6 and $\mathrm { 1 } 2 1 4 . 7 \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ . There were no significant differences on feed intake rate, feed conversion rate and protein efficiency rate of manchurian trout among all groups ( $_ { ( P > 0 . 0 5 ) }$ . 2）With the dietary vitamin E level increased, the serum triglyceride (TG) and total cholesterol (TC) contents were gradually decreased, which in 615.5 and $1 ~ 2 1 4 . 5 ~ \mathrm { m g / k g }$ groups were significantly lower than those in the other groups $( P { < } 0 . 0 5 )$ ： With the dietary vitamin E level increased, the serum high density lipoprotein cholesterol (HDL-C) content firstly increased and then decreased, which in $1 6 5 . 5 ~ \mathrm { m g / k g }$ group was significantly higher than that in other groups $( P { < } 0 . 0 5 )$ , while which in 64.9 and $6 1 5 . 5 ~ \mathrm { m g / k g }$ groups was significantly higher than that in 16.6,615.5 and $\mathrm { 1 } 2 1 4 . 5 \mathrm { \ m g / k g }$ groups $( P { < } 0 . 0 5 )$ . The serum low density lipoprotein cholesterol content （LDL-C） had the opposite trend with HDL-C content, which in 165.5 and $3 1 6 . 2 ~ \mathrm { m g / k g }$ groups was significantly lower than that in other groups $( P { < } 0 . 0 5 )$ . There were no significant differences on activities of alanine aminotransferase (ALT） and aspartate aminotransferase (AST) in serum among all groups $( P { > } 0 . 0 5 )$ ). 3)With the dietary vitamin E level increased, the liver vitamin E accumulation was significantly increased $( P { < } 0 . 0 5 )$ ）except that in 15.5 and $1 ~ 2 1 4 . 5 ~ \mathrm { m g / k g }$ groups $( P { > } 0 . 0 5 )$ . The muscle vitamin E accumulation was increased with the dietary vitamin E level increased,which constant on a level when dietary vitamin E level exceeded $1 6 5 . 5 ~ \mathrm { m g / k g }$ ,and the muscle vitamin E accumulation in 165.5, 316.2, 615.5 and 1 214.5 $\mathrm { m g / k g }$ was significantly higher than that in 16.6 and $6 4 . 9 ~ \mathrm { m g / k g }$ groups $( P { < } 0 . 0 5 )$ . Therefore, dietary appropriate vitamin E supplemental level can improve the growth performance and serum biochemical indicators of manchurian trout, and increase the accumulation of vitamin E in liver and muscle. According to the line type, weight gain rate and muscle vitamin E accumulation are used as evaluation indexes, the appropriate requirement of vitamin E is 145.87 and $1 8 0 . 9 8 ~ \mathrm { m g / k g }$ respectively.
+
+Key words: Brachymystax lenok; vitamin E; growth performance; serum biochemical indicators; requirement

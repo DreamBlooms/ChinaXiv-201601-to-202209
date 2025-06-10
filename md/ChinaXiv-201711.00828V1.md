@@ -1,0 +1,184 @@
+原培强 车炼强 冯 斌李 健 林 燕　徐盛玉 吴　德 方正锋\*（四川农业大学动物营养研究所，教育部动物抗病营养重点实验室，成都611130）
+
+摘要：随着现代育种技术的发展，母猪的产仔数不断提高，然而，初生仔猪窝内体重变异也随之增大，导致断奶前死亡率增加，断奶后体重差异大，成为现代养猪生产中影响营养精准供给、管理效率提高和生产效益增加的主要限制因素。本文综述了初生仔猪窝内体重变异的影响因素，探讨了能量来源、蛋白质与氨基酸水平以及功能性添加物对降低初生仔猪窝内体重变异的调控作用及可能机制，为通过营养途径提高窝内整齐度提供参考依据。
+
+） 关键词：初生仔猪；窝内体重变异；营养调控
+
+10 中图分类号：S816文献标识码：A文章编号：  
+11 产仔数一直是衡量母猪繁殖效率的一个核心生产指标[]，然而，随着现代育种技术的发  
+12 展和养猪生产水平的提高，母猪的产仔数也在不断增加，从1996年的11.9头，提高到 2006  
+13 年的13.8头[2]。研究表明，母猪产仔数与仔猪断奶存活率、断奶前日增重和断奶时的平均体  
+14 重呈负相关关系[3-4]，并且仔猪初生重低，上市时间明显延长[5]。同窝仔猪内，低初生重仔  
+15 猪竞争力较差，难以抢到泌乳力好的乳头，导致获得较少的被动免疫，对应激和疾病的抵抗  
+16 能力下降，并且摄入的营养物质不足，对它们的生存产生不利影响。  
+17 据报道,窝产 $^ { 1 1 }$ 头仔猪和窝产15头仔猪相比,每头猪平均体重从 $1 . 6 5 \mathrm { k g }$ 下降到 $1 . 4 2 \mathrm { k g }$   
+18 窝内体重变异系数从0.160 增加到0.187，断奶前的存活率从 $9 1 . 8 \%$ 降到 $7 4 . 5 \%$ （表1）[7]。  
+19 而且，随着窝产仔数的增加，体重小的仔猪所占比例也在不断增加，而初生重低于 $1 ~ \mathrm { k g }$ 的  
+20 仔猪，从出生到断奶期间，存活的可能性很小。与此同时，初生仔猪整齐度低导致断奶后  
+21 体重差异大，对营养精准供给、管理效率提高和生产效益提升均造成极为不利的影响。因此，  
+22 深入分析初生仔猪窝内体重变异的影响因素，研究揭示营养物质、营养源和营养水平对仔猪  
+23 初生重和窝内整齐度的作用及机制，对提高现代养猪生产水平和效益具有极为重要的意义。
+
+:4表1根据窝产仔数分类的平均初生重、初生重变异系数、平均断奶体重、断奶体重变异系数和断奶存活率
+
+Table 1Least squares means by litter size categories for mean birth weight, birth weight CV,mean weaning   
+
+<html><body><table><tr><td colspan="7">weight,weaningweight andpercentsurvivaltoweaning</td></tr><tr><td>窝产仔数 Litter size</td><td>窝数(n=2 737)</td><td>平均初生重 Mean birth weight/kg</td><td>初生重变异系 数 Birth weight CV</td><td>断奶平均 体重 Mean weaning</td><td>断奶体重变 异系数 Weaning weight CV</td><td>断奶存活率 Percent survival to weaning/%</td></tr><tr><td>≤5</td><td>43</td><td>1.85±0.03a</td><td>0.137±0.009ab</td><td>weight/kg 8.03±0.14a</td><td>0.157±0.007</td><td>95.6±0.0a</td></tr><tr><td>6</td><td>37</td><td>1.74±0.03abc d</td><td>0.146±0.010ab C</td><td>7.84±0.14ab</td><td>0.139±0.008</td><td>94.5±0.0a</td></tr><tr><td>7</td><td>67</td><td>1.80±0.03ab</td><td>C 0.149±0.007ab</td><td>7.43±0.11bc</td><td>0.137±0.006</td><td>93.5±0.0a</td></tr><tr><td>8</td><td>139</td><td>1.73±0.02bc</td><td>0.145±0.005a</td><td>7.27±0.07cd</td><td>0.141±0.004</td><td>93.4±0.0a</td></tr><tr><td>9</td><td>244</td><td>1.71±0.01cd</td><td>0.158 ± 0.004abc</td><td>7.27±0.06cd</td><td>0.142±0.003</td><td>92.9±0.0a</td></tr><tr><td>10</td><td>443</td><td>1.68±0.01cd</td><td>0.153±0.003ab</td><td>7.22±0.04cd</td><td>0.134±0.002</td><td>92.1±0.0a</td></tr><tr><td>11</td><td>533</td><td>1.65±0.01d</td><td>0.160±0.003ab C</td><td>7.15±0.03cd</td><td>0.142±0.002</td><td>91.8±0.0a</td></tr><tr><td>12</td><td>553</td><td>1.59±0.01e</td><td>0.160±0.003ab</td><td>7.13±0.04cd</td><td>0.140±0.002</td><td>90.5±0.0a</td></tr><tr><td>13</td><td>371</td><td>1.55±0.01e</td><td>C 0.170±0.003cd</td><td>7.14±0.05cd</td><td>0.140±0.002</td><td>87.8±0.0b</td></tr><tr><td>14</td><td>189</td><td>1.49±0.02f</td><td>0.170±0.004bc</td><td>7.10±0.06cd</td><td>0.144±0.003</td><td>84.7±0.0c</td></tr><tr><td></td><td></td><td></td><td>d</td><td></td><td></td><td></td></tr><tr><td>≥15</td><td>118</td><td>1.42±0.02f</td><td>0.187±0.006d</td><td>6.98±0.08d</td><td>0.140±0.004</td><td>74.5±0.0d</td></tr></table></body></html>
+
+同列最小二乘均值肩标不同小写字母表示差异显著（ $_ { _ { P < 0 . 0 5 ) } }$ 。
+
+Least squares means in the same column with diferent small letter superscripts are significantly diferent $( P { < } 0 . 0 5 )$
+
+1初生仔猪窝内体重变异的影响因素
+
+1.1遗传因素
+
+梅山猪作为我国的地方猪种，以高产著名于世，然而，值得注意的是，梅山猪在具有高产仔数的同时，初生仔猪窝内体重变异较小，这与其胎盘效率较高和子宫容积较大相关，而且梅山母猪可通过自身代谢的调节，抑制部分胎儿的过快生长，提高胎儿的同质性[8]。通过对不同品种的母猪进行比较发现，妊娠 70\~110d后，约克猪胎盘表面积、重量和长度增加$40 \%$ ，而梅山猪的胎盘尺寸在这一时期变化较小，但是，梅山猪胎盘血管数目和直径增加，随之血管密度增加1倍，而约克猪血管密度呈下降趋势，以致妊娠110d的梅山猪子宫有较高的胎儿重与胎盘重比例，表现出较高的胎盘效率9。以上研究结果表明，不同品种间，胎盘效率对初生仔猪窝内体重变异有决定性的影响，而胎盘血管的生成和分布可能是影响胎盘效率的重要因素。这为深入研究营养与血管生成和胎盘效率的关系，进而为建立提高初生仔猪整齐度的营养调控理论和技术提供了重要的理论依据。
+
+# 1.2子宫位置
+
+研究发现，妊娠 $3 0 \mathrm { d }$ ，胎儿的重量与子宫的位置无关；妊娠70d，体重较轻的胎儿集中在子宫颈端，体重较重的胎儿集中在输卵管端；妊娠104d，体重较轻胎儿集中在子宫颈端，体重较重胎儿集中在输卵管端。值得注意的是，妊娠期胎盘血管密度从子宫颈到子宫角呈逐渐增加的趋势，胎盘血管是母体和胎盘胎儿之间进行物质和信息交换的枢纽，胎盘血管密度分布的不同可能是导致不同子宫位置胎儿体重差异的重要原因[10]。因此，深入研究母体营养与胎盘血管生成的关系，有望为建立提高初生仔猪整齐度的营养理论和技术提供重要依据。
+
+# 1.3 母猪胎次
+
+研究表明，仔猪平均初生重不受胎次的影响，但是初生仔猪窝内体重变异和初生重小于$8 0 0 ~ \mathrm { g }$ 的仔猪比例则随胎次的增加而逐渐变大，2胎、3\~4 胎、5胎的初生仔猪窝内体重变异系数分别为 $2 1 . 3 \%$ 、 $2 3 . 2 \%$ 和 $2 4 . 8 \%$ ，小于 $8 0 0 \ \mathrm { g }$ 的仔猪比例分别为 $6 . 2 \%$ 、 $8 . 7 \%$ 和 $1 3 . 6 \% ^ { [ 1 1 ] }$ 。进一步研究发现，随着母猪年龄的增加，尤其是5胎以后，初生仔猪整齐度的下降可能与卵泡发育的变化和卵泡质量有关[12]。
+
+通过以上分析发现，品种和子宫位置对仔猪初生整齐度的影响可能在根本上取决于胎盘血管生成和分布密度的不同，而胎次对初生整齐度的影响则可能与卵泡发育和卵母细胞质量有关。卵泡发育、胎盘血管生成均离不开营养物质的合理供给，因此，为通过营养手段提高初生仔猪整齐度提供了潜在的理论基础。
+
+2营养对高产母猪窝内体重变异的营养调控
+
+营养是动物赖以生存和繁殖的基础。目前，关于降低高产母猪窝内体重变异的营养研究主要集中在能量来源、蛋白质与氨基酸水平、功能性添加物3个方面。
+
+# 2.1 能量来源
+
+目前研究能量对初生仔猪窝内体重变异的影响主要集中在能量来源部分，所以，本文重点讨论能量来源对初生仔猪窝内体重变异的影响。
+
+有研究表明，在卵子形成期，影响猪胚胎存活和发育，因为卵母细胞成熟对胚胎发育的整齐度以及随后初生重变异可能起着决定性作用[13]。因此，在母猪配种前，对母猪进行营养调控，对降低窝内初生体重变异有很大作用[14]。
+
+研究发现，从断奶到发情阶段，在第 $1 { \sim } 5$ 胎母猪（长白 $\times$ 大白）饲粮中[对照组采食基础饲粮，断奶后采食量为 $3 . 5 \mathrm { k g / d }$ ，基础饲粮中净能（NE）水平为 $9 . 4 \mathrm { M J / k g }$ ，粗蛋白质（CP)水平为 $1 5 6 ~ \mathrm { g / k g }$ ，可消化赖氨酸水平为 $6 . 8 ~ \mathrm { g / k g } ]$ 添加 $1 5 0 ~ \mathrm { g / d }$ 的葡萄糖后显著降低初生重变异[15]。又有研究发现，在妊娠最后1周到断奶前阶段，根据等能等氮原则，在多胎母猪（Topigs20 和 Topigs 30）饲粮中，泌乳期添加 $2 5 ~ \mathrm { g / d }$ 葡萄糖 $+ 2 5 ~ \mathrm { g / d }$ 乳糖，断奶后添加 $1 5 0 ~ \mathrm { g / d }$ 葡萄糖 $+ 1 5 0 \ \mathrm { g / d }$ 乳糖（泌乳期NE水平为 $9 . 5 \ \mathrm { M J / k g }$ ，CP水平为 $1 6 . 5 \%$ ；断奶发情期NE 水平为$9 . 4 ~ \mathrm { M J / k g }$ ，CP水平为 $1 5 . 8 \%$ ，采食量为 $3 . 6 ~ \mathrm { k g / d } )$ ，结果显示，试验组初生仔猪窝内体重变异显著降低[16]。这上述研究结果说明，饲粮中添加葡萄糖有利于降低初生仔猪窝内体重变异。
+
+另有研究表明，根据等能等氮原则，给后备母猪（长白 $\times$ 大白）分别饲喂含有淀粉、葡萄糖、动物脂肪的饲粮，饲喂过 $3 6 ~ \mathrm { m i n }$ 后，葡萄糖组血浆胰岛素水平高于脂肪组，淀粉组血浆胰岛素水平处于两者中间[分别为( $( 6 2 . 0 { \pm } 1 2 . 2 ) \$ ） $\mu \mathrm { { I U / m L } }$ 、 $( 9 . 1 \pm 9 . 1 ) \$ ） $\mu \mathrm { I U / m L }$ 和 $( 4 3 . 5 { \pm } 1 0 . 1 ) \$ μIU/mL]，3个组血浆胰岛素水平最大值分别为（ $6 5 . 6 { \pm } 5 . 4 \rangle$ ） $\mu \mathrm { I U / m L }$ 、 $4 2 . 2 { \pm } 6 . 4 \$ ） $\mu \mathrm { I U / m L }$ 、（57.7±6.3） $\mu \mathrm { I U / m L ^ { [ 1 7 ] } }$ 。同样，后备母猪（长白 $\times$ 大白）在发情周期内，在等能等氮条件下饲喂玉米-豆粕型基础饲粮，与大豆油组相比，淀粉组（含 $20 \%$ 玉米淀粉）发情周期第14天和第21天餐后 $3 0 \mathrm { m i n }$ 的血浆胰岛素水平较高，且在妊娠第 28天有更高的排卵率、胚胎数、胚胎重和胎盘重[18]。这些结果表明，在发情周期内，饲喂含有葡萄糖或部分淀粉替代饲粮，可以调节血清胰岛素水平，从而促进胚胎整齐度的提高。  
+然而，又有研究表明，在断奶发情期，经产母猪（胎次平均为4.7胎，Topigs 20）根据等能等氮原则分别饲喂葡萄糖 $^ { \cdot } +$ 玉米淀粉、葡萄糖 $+$ 玉米淀粉 $^ +$ 动物油脂、动物油脂3种饲粮，结果表明，断奶发情期间血浆胰岛素和胰岛素样生长因子I（IGF-I）水平无显著变化，但是
+
+进一步分析显示，断奶后2\~3d，各组间血浆胰岛素水平有分离趋势。因此，断奶后胰岛素刺激饲粮（添加淀粉、葡萄糖）具有潜在刺激胰岛素分泌的可能，但是断奶发情间隔太短可能不能有效刺激胰岛素的产生[19]，所以对于胰岛素刺激饲粮的应用可将关注点放在泌乳后期。
+
+研究表明，处于分解代谢状态的母体，胰岛素刺激饲粮可能通过提高肝脏生长激素的结合，刺激IGF-I的产生[20]。在泌乳期，通过饲喂高能脂肪、高能淀粉、低能脂肪、低能淀粉4种饲粮，母猪饲喂富含淀粉饲粮与饲喂富脂饲粮对比发现，饲喂富含淀粉饲粮的母猪血浆IGF-I水平在第7天、第21天、第 22天较高，并且在断奶后第3天有增高趋势（ $2 3 4 ~ \mathrm { n g / m L }$ vs.205ng/mL）；同时发现，第21天血浆IGF-I水平与第22天（断奶）血浆促黄体素（LH)的脉动性和LH浓度升高有正相关趋势，而第 22天血浆IGF-I水平与第 22天（断奶）血浆LH的脉动性和LH浓度的升高有正相关关系[21l；此外，第 22天（断奶）血浆LH的脉动性与卵泡的尺寸存在正相关关系[22]。因此，在现代商业化生产中，配种前饲喂胰岛素刺激饲粮（ $20 \%$ 淀粉替代饲粮、添加150g/d葡萄糖饲粮），并降低油脂的使用，可通过调节胰岛素水平，刺激IGF-I的产生，提高大卵泡的数量，进而促进早期胚胎发育，降低窝内体重变异系数。
+
+# 2.2 蛋白质与氨基酸水平
+
+蛋白质具有多种功能和生物活性，包括分子结构、营养生理、酶的催化、分子运输、机体防御和其他相关功能。因此，蛋白质在母体和胎儿的生长中同样有着至关重要的作用[7]。
+
+# 2.2.1 蛋白质水平
+
+研究表明，后备母猪在配种后，饲粮中只含有 $0 . 5 \%$ CP与含有 $1 3 \%$ CP 相比，在妊娠第40 天或第60 天时，胎盘和子宫内膜精氨酸（Arg）、赖氨酸（Lys）、鸟氨酸（ $\mathrm { { O r n } }$ ）等碱性氨基酸的浓度降低，丙氨酸（Ala）、谷氨酰胺（Gln）、甘氨酸（Gly）、支链氨基酸（BCAAs）、脯氨酸（Pro）、丝氨酸（Ser）和苏氨酸（Thr）等中性氨基酸的浓度降低 $1 6 \% \sim 3 0 \%$ ；同时，限制饲粮蛋白质水平可降低胎盘和子宫内膜中一氧化氮合酶（NOS）的活性、瓜氨酸的合成和Om 的浓度，这些均可能降低母体运输营养物质和氧气到胎儿的能力，对胎儿整齐度产生负面影响[23]。在妊娠早期（0\~63d)，与饲喂含 $1 3 \%$ CP 饲粮的母猪相比，饲喂含 $0 . 5 \%$ CP 饲粮的母猪胎盘重显著降低，胎儿的生长受阻[24]。因此，降低饲粮蛋白质水平可能降低了母体将营养物质和氧气运输到胎儿的能力，对初生仔猪窝内体重变异产生负面影响。
+
+# 2.2.2 Arg
+
+研究表明，Arg 家族在胎盘血管再生和发育过程中起到重要作用，特别是在妊娠前期[25]。妊娠35\~40d，在猪尿囊液中发现有较多的Arg 和 $\mathrm { { o r n } }$ ，而这个时期正是胎盘快速生长阶段[26]。
+
+妊娠 $3 0 \mathrm { d }$ 时，在后备母猪（Camborough 22）玉米-豆粕型饲粮[代谢能（ME)：13 MJ/kg，CP: $1 2 . 2 \%$ ，采食量： $2 ~ \mathrm { { k g / d } ] }$ 中根据等氮原则分别添加 $1 . 0 \%$ Arg 和 $1 . 7 \%$ Ala，作为Arg组和对照组，结果显示，与对照组相比，Arg 组活仔数增加，仔猪初生窝重显著增加[27]。妊娠77天d时，在母猪（长白 $\times$ 大白）大麦-小麦型饲粮（NE：9MJ/kg，CP： $1 3 . 1 \%$ ，采食量：$3 . 3 \mathrm { k g / d } \dot { }$ ）中额外添加25.5g/d（ $0 . 7 7 \%$ ）的 Arg，结果显示，与对照组相比，Arg 组初生重变异显著降低[28]。杨慧等[29]从配种当天开始给母猪（长白 $\times$ 大白，2胎）饲喂玉米-豆粕型基础饲粮[消化能（DE）： $1 3 . 1 4 ~ \mathrm { M J / k g }$ ，CP: $1 4 . 1 7 \%$ ，采食量： $2 . 6 ~ \mathrm { k g } / \mathrm { d } )$ ），并根据等氮原则分别添加 $1 . 0 \%$ 的 Arg 和 $1 . 7 \%$ 的 Ala，作为 Arg 组和对照组，结果显示，与对照组相比，Arg组窝产活仔数、初生仔猪窝重显著增加。在妊娠30\~144d，在后备母猪（长白 $\times$ 大白）饲粮(ME:13 MJ/kg， CP: $1 2 . 2 \%$ ，采食量： $2 \mathrm { k g / d }$ ）中，根据等氮原则，试验组添加8g/d Arg和12 g/dGln（饲粮总含有 $1 . 1 \%$ Arg 和 $1 . 8 \%$ Gln），对照组添加 $3 1 \ \mathrm { g / d \ A l a }$ ，结果显示，与对照组相比，试验组母体血浆氨氮和尿氮含量降低，活仔数增加，活仔重增加 $1 5 \%$ ，仔猪出生重变异降低[30]。这些结果均表明母猪饲粮中 Arg 的添加有利于降低高产母猪窝内体重变异。
+
+# 2.2.3 BCAAs
+
+BCAAs 包括亮氨酸（Leu）、异亮氨酸（Iso）和缬氨酸（Val)，这些氨基酸是合成谷氨酸(Glu)和Arg 的底物[31]Zheng 等选[32]用900只小鼠，妊娠期限饲条件下饲喂添加BCAAs的纯化饲粮，添加Arg 和Ala 分别作为正、负对照组，结果显示，窝产仔数、胚胎重和窝重均显著增加；进一步分析发现，BCAAs 组通过增加胚胎肝脏中糖异生功能，上调胚胎肝脏IGF-I、子宫雌激素受体-α(ER-α)和孕激素受体（PR）以及胎盘胰岛素样生长因子II（IGF-ⅡI）的表达水平，从而实现母体子宫和胎盘功能的提高，这保证了胎儿的营养供给，促进了胎儿整齐度的提高。
+
+2.2.4Arg和BCAAs对窝内体重变异调控的可能机制
+
+Arg 在胎儿生长发育过程中的重要作用已经被认知,Arg 的添加可以增加一氧化氮（NO）和多胺的合成，NO 和多胺在妊娠期起到关键作用，其中包括胎盘血管的再生、胚胎形成等[33-34]。
+
+猪胎盘中功能性氨基酸对调节蛋白质的合成起到重要作用。Arg在胎盘外组织中代谢为Orm 和Pro。在胎盘内，Pro 降解为Orm，它通过鸟氨酸脱羧酶（ODC）合成多胺。ODC 的表达需要GIn的作用。除此之外，蛋白质的合成受哺乳动物雷帕霉素靶蛋白（mTOR）信号通路的调节，Arg、Gln、Leu 和Pro 刺激mTOR 信号通路。另外，Arg 通过提高三磷酸鸟苷酸环化水解酶I的表达，刺激胎盘产生 NO，这是 NO 合成的关键步骤[30]。NO 是重要的内源性舒张因子，它对子宫和胎盘-胎儿血流起到重要调节作用，有研究指出，NO 和血管再生因子具有协同作用，促进胎盘血管再生和提高血流速度，这对于胎盘血管的生成和胎儿的生长是非常重要的[35]。
+
+同时，Arg 作为多胺和 NO的合成前体[7]，在胎儿肌肉发育中起到重要作用。妊娠早期饲粮添加Arg可以增加妊娠70d时次级纤维与初级纤维的比例[36]。NO 阻止脂肪的产生，刺激肌肉中脂肪酸和葡萄糖的氧化[37-38]。多胺在细胞增殖和分化中同样起到重要作用，调节胎儿肌纤维和脂肪细胞生长和发育[39-40]。NO 和多胺、Arg 和其他功能性氨基酸，也通过mTOR 信号通路，调节胚胎和胎儿肌肉生长和发育[30]，这些对于保证胎儿的整齐度均起到一定的作用。
+
+3功能性添加物
+
+3.1菊粉
+
+菊粉，来源于菊苣的块茎和洋姜，是一种可溶性纤维的混合物，可将其作为试验的纯化可溶性纤维。研究发现，2\~3胎的母猪（长白 $\times$ 大白），在等能等氮条件下，饲粮中添加 $1 . 5 \%$ 的菊粉，结果显示，初生仔猪窝内体重变异显著降低，并且增加了 $1 . 0 { \sim } 1 . 5 ~ \mathrm { k g }$ 仔猪的比例;进一步分析发现，在母猪和仔猪中，添加菊粉饲粮显著增加了血清中超氧化物酶(T-SOD)和谷胱甘肽过氧化物酶(GSH-Px)活性，显著降低了丙二醛（MDA）水平[41]。而 Richter 等[42]对大鼠的研究中，在低营养处理的雌性怀孕鼠的饲粮中添加褪黑素（具有清除自由基和调节氧化通路的功能)后血清中锰超氧化物歧化酶和GSH ${ . P x }$ 表达水平增加，胎盘效率明显提高。
+
+这说明通过抗氧化剂处理妊娠母体，可能提高胎盘的功能，降低宫内发育迟缓（IUGR）的发生。是否可以通过提高母体的抗氧化状态，提高胎盘效率，保证初生仔猪整齐度，还需要进一步的研究。
+
+# 3.2 $\beta$ -羟基 $\cdot \beta$ -丁酸甲脂（HMB）
+
+HMB 作为Leu的代谢物，可以促进骨骼肌中蛋白质的合成，从而提高动物的生产性能[43-44]。研究发现，从母猪（长白 $\times$ 大白，3胎）妊娠35d开始直到分娩前，在玉米-豆粕型饲粮中添加 $4 ~ \mathrm { g / d }$ 的 HMB，分娩后总产仔数和活仔数没有显著变化，但死胎数显著降低，除此之外，仔猪初生窝重有增加趋势（ $\scriptstyle \cdot = 0 . 0 8 )$ ，并且低初生重仔猪（小于 $1 \mathrm { k g } \dot { }$ ）比例从 $1 1 . 5 9 \%$ 降到 $5 . 6 0 \% ^ { [ 4 5 ] }$ 。进一步分析发现，HMB 组肌生成因子mRNA的水平增加了，包括肌肉调节因子4、肌生成分化因子和IGF-I，这些均可调节肌细胞的生成和增加仔猪次级纤维的比例[46-47]，从而促进胎儿肌肉的发育，这为胎儿的进一步发育奠定了良好基础，有利于胎儿整齐度的提高。
+
+# 3.3N-氨甲酰-L-谷氨酰胺（NCG）
+
+NCG 作为尿素循环中鸟氨酸生成瓜氨酸的中间体 N-乙酰谷氨酸(NAG)的代谢稳定类似，「你敞母，」口-н川，コ。
+
+妊娠 $9 0 \mathrm { d }$ 母猪（大白 $\times$ 长白，胎次为 $3 . 2 { \pm } 0 . 7 .$ ），在玉米-豆粕型饲粮（ME：13.5MJ/kg，CP: $1 4 . 7 \%$ ，采食量： $2 \mathrm { k g / d }$ ）中添加 $0 . 1 \%$ 的 NCG，可以显著增加仔猪初生窝重[49]。同样，在江雪梅等[50]研究中，母猪（长白 $\times$ 大白，胎次为3\~4胎）从配种开始，在玉米-豆粕型饲粮(DE: 12.55 MJ/kg，CP: $1 3 . 6 8 \%$ ，采食量： $2 . 4 \mathrm { k g / d } \$ ）中，根据等氮原则，NCG 组添加 $0 . 1 \%$ 的 NCG，对照组添加 $1 . 7 \%$ 的Ala，结果显示，与对照组相比，NCG 组窝产活仔数提高0.55头，仔猪初生窝重提高 $1 . 3 9 ~ \mathrm { k g }$ ，初生仔猪个体重提高了 $7 0 \ \mathrm { g }$ ；进一步分析发现，在妊娠第30天、第60天、第90天，血浆中NO浓度显著增高，在妊娠第90天，血浆中总一氧化氮合酶和诱导型一氧化氮合酶活性显著增加。正如上文所述，NO 对调节子宫和胎盘-胎儿血流起到重要作用，同时，NO 和血管再生因子具有协同作用，可促进胎盘血管再生和加快血流速度，这对于胎盘血管的生成和胎儿的生长是非常重要的。因此，NCG 通过加快血流速度和提高胎盘效率，从而为胎儿提供足够的营养[51-52]，胎儿间营养物质供应变化较小，仔猪初生窝内体重变异相应减少[13]。
+
+4小结
+
+卵泡发育、胎盘效率是胎儿整齐度的重要因素，可通过营养措施进行调控。高产母猪配种前饲喂部分淀粉替代饲粮有利于提高血浆IGF-I水平，促进卵泡发育；妊娠期饲粮添加 Arg或 NCG 有利于提高NO产量，促进血管生成和养分运输，提高胎盘效率；部分功能性添加物也具有提高初生仔猪窝内整齐度的作用，但其机制并不十分清楚。总之，提高胎儿整齐度对提升现代养猪生产水平和效益具有至关重要的意义，通过营养手段提高胎儿整齐度具有可行性，但如何实现科学合理的营养策略还有待深入研究。
+
+参考文献：   
+[1] ZINDOVE T J,DZOMBA E F,KANENGONI A T,et al.Effects of within-litter birth weight variation of piglets on performance at 3 weeks of age and at weaning in a Large WhitexLandrace sow herd[J].Livestock Science,2013,155(2/3):348-354.   
+[2] BOULOT S,QUESNEL H,QUINIOU N.Advances in pork production:proceedings of 2008 Banff Pork Seminar[C].Banff:[s.n.],2008.   
+[3] DAMGAARD L H,RYDHMER L,LOVENDAHL P,et al.Genetic parameters for within-litter variation in piglet birth weight and change in within-litter variation during suckling[J].Journal of Animal Science,2003,81(3):604-610.   
+[4] MILLIGAN B N,FRASER D,KRAMER D L.Within-litter birth weight variation in the domestic pig and its relation to pre-weaning survival,weight gain,and variation in weaning weights[J].Livestock Production Science,2002,76(1/2):181-191.   
+[5] BEAULIEU A D,AALHUS J L,WILLIAMS N H,et al.Impact of piglet birth weight,birth order,and litter size on subsequent growth performance,carcass quality,muscle composition,and eating quality of pork[J].Journal of Animal Science,2010,88(8):2767-2778.   
+[6] QUINIOU N,DAGORN J,GAUDRE D.Variation of piglets’ birth weight and consequences on subsequent performance[J].Livestock Production Science,2002,78(1):63-70.   
+[7] KRAHN G T.Comparison of piglet birth weight classes,parity of the dam,number born alive and the relationship with litter variation and piglet survival until weaning[D].Master Thesis.Ames:Iowa State University,2015:48-56.
+
+[8] WILSON M E,BIENSEN N J,YOUNGS C R,et al.Development of Meishan and Yorkshire littermate conceptuses in either a Meishan or Yorkshire uterine environment to day 90 of gestation and to term[J].Biology of Reproduction,1998,58(4):905-910.
+
+[9] BIENSEN N J,WILSON M E,FORD S P.The impact of either a Meishan or Yorkshire uterus on Meishan or Yorkshire fetal and placental development to days 70,90,and 10 of gestation[J].Journal of Animal Science,1998,76(8):2169-2176.   
+[10] WISE T,ROBERTS A J,CHRISTENSON R K.Relationships of light and heavy fetuses to uterine position,placental weight,gestational age,and fetal cholesterol concentrations[J].Journal of Animal Science,1997,75(8):2197-2207.   
+[11] WIENTJES JG M,SOEDE N M,VAN DER PEET-SCHWERING C M C,et al.Piglet uniformity and mortality in large organic litters:effects of parity and premating diet composition[J].Livestock Science,2012,144(3):218-229.   
+[12] BROEKMANS F J,SOULES M R,FAUSER B C.Ovarian aging:mechanisms and clinical consequences[J].Endocrine Reviews,2009,30(5):465-493.   
+[13] VAN DER LENDE T,HAZELEGER W,DE JAGER D,et al.Weight distribution within litters at the early foetal stage and at birth in relation to embryonic mortality in the pig[J].Livestock Production Science,1990,26(1):53-65.   
+[14] YUAN TL,ZHU YH,SHI M,et al.Within-liter variation in birth weight:impact of nutritional status in the sow[J].Journal of Zhejiang University Science B,2015,16(6):417-435.   
+[15] VAN DEN BRAND H,SOEDE N M,KEMP B.Supplementation of dextrose to the diet during the weaning to estrus interval affects subsequent variation in within-litter piglet birth weight[J].Animal Reproduction Science,2006,91(3/4):353-358.   
+[16] VAN DEN BRAND H,VAN ENCKEVORT L C M,VAN DER HOEVEN E M,et al.Effects of dextrose plus lactose in the sows diet on subsequent reproductive performance and within litter birth weight variation[J].Reproduction in Domestic Animals,2009,44(6):884-888.   
+[17] VAN DEN BRAND H,SOEDE N M,SCHRAMA J W,et al.Effects of dietary energy source on plasma glucose and insulin concentration in gilts[J].Journal of Animal Physiology and Animal
+
+Nutrition,1998,79(1/2/3/4/5):27-32.
+
+[18] ALMEIDA F R C L,MACHADO G S,BORGES A L C C,et al.Consequences of diferent dietary energy sources during follcular development on subsequent fertility of cyclic gilts[J].Animal,2014,8(2):293-298.   
+[19] WIENTJES JG M,SOEDE N M,LAURENSSEN B F A,et al.Insulin-stimulating diets during the weaning-to-estrus interval do not improve fetal and placental development and uniformity in high-prolific multiparous sows[J].Animal,2013,7(8):1307-1316.   
+[20] WIENTJES JG M,SOEDE N M,AARSSE F,et al.Effects of dietary carbohydrate sources on plasma glucose,insulin and IGF- I levels in multiparous sows[J].Journal of Animal Physiology and Animal Nutrition,2012,96(3):494-505.   
+[21] VAN DEN BRAND H,PRUNIER A,SOEDE N M,et al.In primiparous sOWs,plasma insulin-like growth factor- I can be affected by lactational feed intake and dietary energy source and is associated with luteinizing hormone[J].Reproduction Nutrition Development,2001,41(1):27-39.   
+[22] VAN DEN BRAND H,DIELEMAN S J,SOEDE N M,et al.Dietary energy SOurce at two feding levels during lactation of primiparous sows: I .Effects on glucose,insulin,and luteinizing hormone and on follicle development,weaning-to-estrus interval,and ovulation rate[J].Journal of Animal Science,2000,78(2):396-404.   
+[23] WU G Y,POND W G,FLYNN S P,et al.Maternal dietary protein deficiency decreases nitric oxide synthase and ornithine decarboxylase activities in placenta and endometrium of pigs during early gestation[J].The Journal of Nutrition,1998,128(12):2395-2402.   
+[24] SCHOKNECHT P A,NEWTON G R,WEISE D E,et al.Protein restriction in early pre gnancy alters fetal and placental growth and allantoic fluid proteins in swine[J].Theriogenol ogy,1994,42(2):217-226.   
+[25] WU G Y,BAZER F W,DAVIS T A,et al.Important roles for the arginine family of a mino acids in swine nutrition and production[J].Livestock Science,2007,112(1/2):8-22. [26] WU G Y,BAZER F W,TUO W B,et al.Unusual abundance of arginine and ornithine in porcine allantoic fluid[J].Biology of Reproduction,1996,54(6):1261-1265.   
+[27] MATEO R D,WU G Y,BAZER F W,et al.Dietary $L$ -arginine supplementation enhances the reproductive performance of gilts[J].The Journal of Nutrition,2007,137(3):652-656.   
+[28] QUESNEL H,QUINIOU N,ROY H,et al.Supplying dextrose before insemination and $L$ -arginine during the last third of pregnancy in sow diets:efects on within-liter variation of piglet birth weight[J].Journal of Animal Science,2014,92(4):1445-1450.   
+[29] 杨慧,林登峰,王恬,等.饲粮中添加不同水平 $L$ -精氨酸对妊娠母猪繁殖性能及血液生化指 标的影响[J].动物营养学报,2012,24(10):2013-2020.   
+[30] WU G,BAZER F W,BURGHARDT R C,et al.Impacts of amino acid nutrition on pregnancy outcome in pigs:mechanisms and implications for swine production[J].Journal of Animal Science,2010,88(3):E195-E204.   
+[31] REZAEI R,WANG W W,WU Z L,et al.Biochemical and physiological bases for utilization of dietary amino acids by young pigs[J].Journal of Animal Science and Biotechnology,2O13,4(1):7. [32] ZHENG C,HUANG C F,CAO Y H,et al.Branched-chain amino acids reverse the growth of intrauterine growth retardation rats in a malnutrition model[J].Asian-Australasian Journal of Animal Sciences,2009,22(11):1495-1503.   
+[33] FLYNN N E,MEININGER C J,HAYNES T E,et al.The metabolic basis of arginine nutrition and pharmacotherapy[J].Biomedicine & Pharmacotherapy,2002,56(9):427-438.   
+[34] WU G,BAZER F W,WALLACE J M,et al.BOARD-INVITED REVIEW:intrauterine growth retardation:implications for the animal sciences[J].Journal of Animal Science,2006,84(9):2316-2337.   
+[35]REYNOLDS L P,REDMER DA.Angiogenesisin theplacenta[J].Biologyof Reproducti0n,2001,64(4):1033-1040.   
+[36] BERARD J,KREUZER M,BEE G.Efect of dietary arginine supplementation to sows on liter size,fetal weight and myogenesis at d 75 of gestation[J].Journal of Animal Science,2009,87:30. [37] FU W J,HAYNES T E,KOHLI R,et al.Dietary $L$ -arginine supplementation reduces fat mass in Zucker diabetic fatty rats[J].The Journal of Nutrition,2005,135(4):714-721. [38] JOBGEN W S,FRIED S K,FU W J,et al.Regulatory role for the arginine-nitric oxide pathway in metabolism of energy substrates[J].The Journal of Nutritional Biochemistry,2006,17(9):571-588.   
+[39] FLYNN N E,BIRD J G,GUTHRIE A S.Glucocorticoid regulation of amino acid and polyamine metabolism in the small intestine[J].Amino Acids,2009,37(1):123-129.   
+[40] MONTANEZ R,RODRIGUEZ-CASO C,SANCHEZ-JIMENEZ F,et al.In silico analysis of arginine catabolism as a source of nitric oxide or polyamines in endothelial cels[J].Amino Acids,2008,34(2):223-229.   
+[41] WANG Y S,ZHOU P,LIU H,et al.Effects of inulin supplementation in low- or high-fat diets on reproductive performance of sows and antioxidant defence capacity in sows and offspring[J].Reproduction in Domestic Animals,2016,51(4):492-500.   
+[42] RICHTER H G,HANSELL J A,RAUT S,et al.Melatonin improves placental efficiency and birth weight and increases the placental expression of antioxidant enzymes in undernourished pregnancy[J].Journal of Pineal Research,2009,46(4):357-364.   
+[43] WHEATLEY S M,EL-KADI S W,SURYAWAN A,et al.Protein synthesis in skeletal muscle of neonatal pigs is enhanced by administration of $\beta$ -hydroxy- $\cdot \beta$ -methylbutyrate[J].American Journal of Physiology Endocrinology and Metabolism,2014,306(1):91-99.   
+[44] WILKINSON D J,HOSSAIN T,HILL D S,et al.Effects of leucine and its metabolite （204号 $\beta$ -hydroxy- $\cdot \beta$ -methylbutyrate on human skeletal muscle protein metabolism[J].The Journal of Physiology,2013,591(11):2911-2923.   
+[45]WANH F,ZHUJ T,SHEN Y,etal.Effectsof dietarysupplementationof $\beta$ -hydroxy- $\beta$ -methylbutyrate on sow performance and mRNA expression of myogenic markers in skeletal muscle of neonatal piglets[J].Reproduction in Domestic Animals,2016,51(1):135-142. [46] CHRISTENSEN M,OKSBJERG N,HENCKEL P,et al.Immunohistochemical examination of myogenesis and expression pattrn of myogenic regulatory proteins (myogenin and myf-3） in pigs[J].Livestock Production Science,2000,66(2):189-195.   
+[47] ZHANG W,BEHRINGER R R,OLSON E N.Inactivation of the myogenic bHLH gene MRF4   
+results in up-regulation of myogenin and rib anomalies[J].Genes &   
+Development,1995,9(11):1388-1399.   
+[48]杨平,吴德,车炼强,等.饲粮添加 $L$ -精氨酸或 $\underline { { N } }$ -氨甲酰谷氨酸对感染PRRSV 妊娠母猪繁   
+殖性能及免疫功能的影响[J].动物营养学报,2011,23(8):1351-1360.   
+[49] LIU X D,WU X,YIN Y L,et al.Effects of dietary $L$ -arginine or N-carbamylglutamate   
+supplementation during late gestation of sows on the miR-15b/16,miR-221/222,VEGFA and   
+eNOS expression in umbilical vein[J].Amino Acids,2012,42(6):211-2119.   
+[50] 江雪梅,吴德,方正锋,等.饲粮添加 $L .$ -精氨酸或N-氨甲酰谷氨酸对经产母猪繁殖性能及血   
+液参数的影响[J].动物营养学报,2011,23(7):1185-1193.   
+[51] GARDNER D S,POWLSON A S,GIUSSANI D A.An in vivo nitric oxide clamp to   
+investigate the influence of nitric oxide on continuous umbilical blood flow during acute   
+hypoxaemia in the sheep fetus[J].The Journal of Physiology,2001,537(2):587-596.   
+[52] MCGRABB G J,HARDING R.Role of nitric oxide in the regulation of cerebral blood flow in   
+the ovine foetus[J].Clinical and Experimental Pharmacology and   
+Physiology,1996,23(10/11):855-860. Nutritional Regulation of Within-Litter Weight Variation for Hyperprolific Sows YUAN Peiqiang CHE LianqiangFENG BinLI Jian LIN Yan XU ShengyuWU De FANG Zhengfeng\* (Institute ofAnimal Nutrition, Sichuan Agricultural University, Key laboratory for Animal Disease-Resistance Nutrition of Ministry of Education, Chengdu 611130, China)   
+Abstract: With the development of modern breeding technology, the live liter size of sows is   
+increasing. However, it is accompanied by a larger variance of birth weight within a litter,   
+resulting in increased before-weaning mortality and larger discrepancy of body weight at weaning.   
+These consequences make it difficult to achieve higher nutritional and management efficiency and   
+more economic benefits. In this paper， we summarized the primary factors affecting the
+
+within-liter variance of birth weight, discussthe efects and related mechanisms of dietary energy source,protein and amino acid levels and functional additives in order to reducing the within-litter variance of birth weight, which may provide a reference for improving the uniformity of newborn pigs through nutritional manipulation. Key words: newborn pigs; within-litter weight variation; nutritional regulation

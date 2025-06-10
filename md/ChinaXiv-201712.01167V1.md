@@ -1,0 +1,116 @@
+临床研究
+
+# 基于3D打印技术的复杂胫骨平台骨折内固定手术数字化设计
+
+黄华军,张国栋,欧阳汉斌,杨洋,吴章林,许靖,谢普生，黄文华南方医科大学基础医学院解剖教研室//广东省生物力学重点实验室，广东广州510515摘要：目的 探讨3D打印技术结合数字化技术在复杂腔骨平台内固定植入方案设计中的应用价值。方法 收集临床复杂胫骨平台骨折病例以及常用胫骨平台钢板的CT数据，在Mimics中进行骨折三维重建、虚拟复位以及建立钢板三维模型库，然后进行内固定方案的数字化设计。3D打印出骨折复位模型以及钢板模型,在3D模型上按照数字化设计内固定方案进行模拟手术。比较数字化虚拟手术与3D模型模拟手术的内固定植入效果。结果 3D模型模拟手术的手术效果与内固定数字化设计方案的手术效果一致，二者螺钉长度无明显差异( $\scriptstyle { \bf \chi } _ { t = - 1 . 5 9 4 }$ $\scriptstyle v = 1 2$ ${ \cal P } { = } 0 . 1 3 7$ )。结论3D打印技术结合数字化设计能有效的提高复杂胫骨平台骨折内固定植入效果。
+
+关键词：胫骨平台骨折;内固定手术;3D打印;数字化设计，计算机辅助，术前规划
+
+# Internal fixation surgery planning for complex tibial plateau fracture based on digital design and 3D printing
+
+HUANG Huajun,ZHANGGuodong,OUYANGHanbin,YANGYang,WU Zhanglin,XUJing,XIEPusheng,HUANG Wenhua DepartmentofAnatomyuangdongProincialKeyLaboratoryfedicaliomechanicsScholofBasicedicalciencesouthe Medical University, Guangzhou 510515,China
+
+Abstract: Objective To investigate the application of 3D printingand digital technology in preoperative assessment and planning of internal fixation surgery for complex tibial plateau fracture. Methods Complex tibial plateau fractures and commonly used plates for tibial plateau were imaged using computed tomography (CT) to reconstruct the3D fracture and plate models. The 3D models were used to perform virtual reduction and preoperative planning of internal fixation surgery withthe most appropriate plates asisted bythe3Dlibraryof plates.Acording to theoptimal plan,the3Dphysicalmodels of tibial plateaufracturesand plates were3Dprintedtosimulateinternalfixationoperation.Theefectsof interalfixation were compared between the virtual surgeryand thesimulated surgery basedon the 3Dmodels.Results The effectsof internal fixationin the simulated surgery based onthe 3D models were consistent with those of the virtual surgery.No significant difference was foundinthe screw length between the two surgeries. Conclusion Thecombination of3D printing and digital design can improve the efects of internal fixation for complex tibial plateau fractures.
+
+Key words: tibial plateau fracture; internal fixation; 3Dprinting;digital design,computer-asisted, preoperative planning
+
+复杂胫骨平台骨折是一种常见的高能量复杂关节内骨折，内固定手术难度较大且术后常伴有疼痛、关节不稳及创伤性关节炎[1-3]。其内固定要求不仅体现在要获得良好的生物力学性能，还必须实现关节面的解剖复位[2.4-5]
+
+骨折手术的内固定效果很大程度上决定于钢板的外形匹配程度，钢板与骨面良好的匹配无疑能够获得更好的固定效果及生物力学性能。由于个体化差异，每一例骨折情况都不相同，而且不同厂家接骨板规格、型号都不尽相同，常常导致钢板与骨面不匹配或者钉道分布不理想[8]。因此,术中常常面临没有合适的钢板可供选择的窘境，勉强植人效果不理想，导致复杂胫骨平台骨折内固定植人效果参差不齐。因此，详尽合适的术前手术方案设计显得尤为重要，但传统手术方式术前设计主要关注手术入路、术式选择、骨折以及骨缺损等情况[12]，往往忽视内固定植入所需的接骨板和螺钉的规格、植入位置、螺钉植入方向等重要因素[67]。
+
+传统的胫骨平台骨折手术，医生通常采用二维图像资料如X线、CT、MRI进行手术方案的术前设计，然后根据医生在大脑中形成的三维印象进行手术，经验与手术熟练程度决定了手术的成败[13-14]。数字化技术[15-16]可以精确设计手术方案，使手术更加精确，提升手术质量和可靠性。但是虚拟的手术方案设计如何指导现实手术实施，如何缩小虚拟与现实之间的差距是数字化技术应用的重要问题。3D打印技术的发展，可以将任何形状的虚拟模型打印成实体模型[17-18],而且其成本的降低、打印精度与速度的提高以及打印模型力学强度的增加，都为解决上述难题提供了难得的契机。
+
+本研究基于现有的内固定器械及设备的前提下，针对复杂胫骨平台骨折的关键的内固定植入步骤进行数字化设计，以期达到最大限度的内固定植人效果，结合3D打印技术验证数字化设计的合理性以及可靠性。
+
+# 1材料
+
+# 1.1实验数据
+
+(1)采集2012年1月\~2013年12月广西贵港市人民医院、南方医科大学第三附属医院复杂胫骨平台骨折（双柱/三柱骨折)临床病例CT扫描数据20例，其中双柱骨折9,三柱骨折11例;(2)采集临床常用的胫骨平台全规格钢板CT扫描数据6套，包括捷迈、施乐辉、辛迪斯、威高、大博、史塞克。CT机型为东芝64拍螺旋CT，其中骨折CT扫描层厚 $0 . 5 { \sim } 1 ~ \mathrm { m m }$ ,钢板CT扫描层厚 $0 . 3 ~ \mathrm { m m }$ ，扫描数据以Dicom格式刻录DVD光盘的形式输出。
+
+# 1.2软件环境
+
+操作系统Windows7Ultimate64bit;医学三维重建软件Mimics14.0,3D打印机(MakerBotReplicator2X)。（由南方医科大学基础医学院人体解剖与组织胚胎学教研室提供)。
+
+# 1.3 硬件设备
+
+DellT7500、DellM6600图形工作站。
+
+# 2 实验方法
+
+所有的钢板、骨折CT数据都经过三维重建，并且3D打印出骨折复位模型以及钢板模型，按数字化内固定设计方案在3D打印模型上进行模拟手术。比较3D模型模拟内固定手术与数字化设计内固定虚拟手术的内固定效果，主要通过同一病例的两组手术中相对应的螺钉长度比较,我们假设同一块钢板在同一病例中相对应的每颗螺钉的长度无差异，那么其钢板的植入效果是一致的。
+
+# 2.1胫骨平台钢板三维模型库的建立
+
+将钢板CT扫描数据导入Mimics14.0,调整阈值指导显示出完整钢板，然后进行三维重建以及简单光滑处理，以STL格式输出，按照不同厂家、型号、规格分别命名,整理成库(图1)。
+
+# 2.2胫骨平台骨折内固定手术方案数字化设计
+
+2.2.1基于"EditMaskin3D"的骨折三维模型重建(图2）Mimics14.0的"EditMaskin3D"具有在三维空间编辑三维蒙版的功能，避免了在二维图像上层层编辑，提供了一种快速简单的三维模型重建方法。编辑过程包括Select、Deselect、Hide、Show、Invert、Grow、Separate及Remove等,整个过程可归纳为"先选择，再修正”。通dn lln Ilmtl(n) shun drfimFFFFET过上述步骤，可将相邻骨骼分离为独立Mask，实施三维重建(Calculate 3D)。
+
+2.2.2虚拟骨折复位交替使用"Reposition"中的MovewithMouse和RotatewithMouse功能将骨块逐一复位。复位原则：取主舍次，恢复力线长度，关节面解剖复位。2.2.3内固定方案设计(图3）（1)确定固定范围：根据骨折复位三维模型确定需要固定的关键骨折块以及固定范围；(2)钢板优化选择：钢板选取原则：骨骼表面与钢板良好匹配，螺钉良好固定关键骨折块。仔细观察骨折类型以及复位效果，从钢板三维模型库中选取合适的钢板模型导入Mimics中进行钢板与骨面的匹配，最终确定钢板型号、规格、植入位置及螺钉方向，并测量螺钉长度；(3)简易套筒的设计：以带钉锁定钢板为蓝图，利用Mimics中“MedCAd"模块根据锁定钉的方向，设计出简易的套筒指导锁定钉的植入。
+
+2.2.4基于3D打印的模拟手术（图3）3D打印出每个骨折块、钢板以及简易套筒的模型，根据数字化设计的手术方案，把所有的骨折块进行复位，用强力胶水固定，形成骨折复位模型，在复位模型上确定钢板植入位置，借助锁定钢板套筒按照螺钉方向植入克氏针，以此模拟锁定钉植入固定钢板，测量植入克氏针的长度。
+
+# 3统计学分析
+
+以SPSS18软件对实验数据进行统计学处理，螺钉长度比较采用配对样本t检验，把每个病例的数字化设计中的螺钉长度与3D模型模拟手术中的相对应的螺钉长度进行一对一配对比较，以 $P { < } 0 . 0 5$ 为差异有显著性意义。
+
+# 4结果
+
+3D模型模拟手术实验中螺钉的长度与数字化设计实验中相对应的螺钉长度无明显差异( $\stackrel { \cdot } { t } = - 1 . 5 9 4$ $\mathrm { v } { = } 1 2$ ${ \cal P } { = } 0 . 1 3 7 .$ ),二者螺钉长度差值为 $\cdot 0 . 5 2 { \pm } 1 . 1 8 0 ~ \mathrm { m m }$ ,二者螺钉长度相关系数 $\scriptstyle { r = 0 . 9 9 4 }$ 。3D模型模拟内固定手术效果大体观察在钢板匹配程度、钢板植入位置、螺钉方向上与数字化设计内固定方案相一致(图4)。
+
+![](images/ce6d52cc7040ff1f7aadd2ae82624c3da118502644fd89b9313a65fbe8c3fe3b.jpg)  
+图2胫骨平台骨折三维重建 Fig.2 3D reconstruction of tibial plateau fracture using“Edit Mask in 3D".A: Selection of the target region;B: Separation of the tibia; C: Separation of the fragments; $D$ ：Establishment of the 3D fracture models.
+
+![](images/fa1d6417f83d0078ad97f33ddd23533d898af9f150e7d364fab494de85ba032e.jpg)  
+图3内固定方案数字化设计及3D打印模型模拟手术  
+Fig.3 Digital design and surgical simulation of internal fixation surgery based on 3D printed models.A,B: Digital design of internal fixation surgery; C: Simple threaded drill guide; D: Surgical simulation based on 3D printed models.
+
+# 5讨论
+
+本研究针对复杂胫骨平台骨折内固定手术中的重要环节钢板的选择及钢板植入进行了术前详尽的评估及规划，运用数字化技术优化选择钢板以及设计钢板植入位置和螺钉方向，结合3D打印技术实施虚拟手术方案的现实再现。从钢板植人效果大体观察对比以及螺钉长度无明显差异两方面显示了3D模型模拟手术能很好的再现虚拟的设计方案，获得了良好的手术效果，提高了内固定手术成功率。
+
+![](images/1a3ba85549a818d2fdc32c19240d640123f367ed55c03cc7057ae064ae654fe5.jpg)  
+图4数字化设计与3D打印模型模拟手术的内固定方案效果比较  
+Fig.4 Comparison of internal fixation effects between digital design and surgical simulation based on 3D printed models.A:Anterior view of digital design of internal fixation;B:Dorsal view of digital design of internal fixation; C:Anterior view of surgical simulation of internal fixation; $D$ Dorsal view of surgical simulation of internal fixation.
+
+# 5.1“EditMaskin3D"实现骨折三维模型的快速重建
+
+“EditMaskin3D"功能特点是受干扰小、快速、错误率低。可以在三维空间里选择很小范围的Mask在任意角度进行编辑修饰，避免了在每层Dicom格式原始二维图像中编辑[9-10.12],有效的减少编辑工作量，因此大大减少了三维重建的时间及错误率。
+
+# 5.2基于内固定植入物三维模型库的虚拟手术方案设计是提高手术质量的保障
+
+5.2.1内固定植入物三维模型库有利于实现优化手术目前医疗市场充斥着众多厂家各式各样的内固定植入物，而且，不同品牌的植入物规格类型都不尽相同，根据经验选择内固定植入物常常导致内固定植入物与骨面不匹配，增加了术前内固定植入物选择的困难。涵括众多厂家不同类型全套的内固定植入物三维模型库的建立无疑提供了一种快速、合理选择内固定植入物的方法及标准。在模型库的帮助下，术前可以随心所欲的挑选内固定植入物，随意虚拟植入及更换，直到满意。术前可以“目标明确"的指定某一块钢板供手术使用，从而避免了杂乱无章的"海选"以及术中钢板折弯，大大缩短了手术时间及提高手术成功率，从而达到手术优化的目的。5.2.2虚拟内固定植入方案设计是实现优化手术的有效途径钢板植入位置的选择要求不仅要与骨面有良好的贴附性，还要使其钉道兼顾主要骨折块，尤其是锁定钢板，其钉道的位置、方向具有对主要骨折块有良好固定效果[19-21]。本研究对钢板植入的位置、螺钉方向进行虚拟的设计，包括单钢板精确固定复杂骨折、简易套筒指导锁定钉植入、锁定钉与非锁定钉的结合应用，使手术过程更精细化，提高了手术固定效果。
+
+# 5.33D打印架起虚拟与现实之间的桥梁
+
+虚拟的内固定方案能否指导现实手术达到虚拟设计的手术效果，这是数字医学亟待解决的难题。3D打印技术可以把虚拟的手术设计方案转化为现实手术的实施过程，提供了一种虚拟向现实转化的有效途径。本研究用钢板以及骨折复位的3D打印模型模拟钢板植入手术，优化选择的钢板与骨面达到良好匹配，而且钢板模拟植入的位置与虚拟设计方案一致，验证了虚拟方案的准确性以及可靠性。内固定植入物三维模型库有着巨大的临床应用价值，我们希望且致力于完善扩大模型库，而且还要发展内固定植入物有限元模型库，最终形成骨科内固定植入物标准件库，推动数字骨科发展。
+
+本研究尚未实现内固定植入数字化方案精确指导现实手术的实施，3D打印技术的应用在本研究中仅仅是冰山一角，其在骨科手术的应用价值无可限量，例如骨科导航系统的研发、个性化假体的制作、新型骨科器械的研发等等。数字化技术结合3D打印技术在医学各个领域都应该得到深入的研究以及广泛的应用，这对手术的标准化起着积极的推动意义。
+
+# 参考文献：
+
+[1]Thomas CH,Athanasiov A,Wullschleger M,et al. Current concepts in tibial plateau fractures [J].Acta Chir Orthop Traumatol Cech, 2009,76(5): 363-73.   
+[2]Zhang CC.Diagnosis and therapy of tibial plateau fractures and pilon fractures[J]. Zhongguo Gu Shang,2010, 23(2): 81-3.   
+[3]Gardner MJ, Schmidt AH. Tibial plateau fractures[J].JKnee Surg, 2014,27(1): 3-4.   
+[4]Song QZ,Li T. Operative treatment for complex tibial plateau fractures[J]. Zhongguo Gu Shang,2012,25(3): 202-4.   
+[5]Kandemir U,Maclean J. Surgical approaches for tibial plateau fractures[J].JKnee Surg,2014,27(1): 21-30.   
+[6]Shen G,Zhou J.Open reduction,internal fixation for schatzker types ii[J]. Zhongguo Xiu Fu chong Jian Wai Ke Za Zhi,2011,25 (10): 1201-4.   
+[7]Uruela AM,Davidovitch R,Karia R,et al. Results following operative treatment of tibial plateau fractures[J].JKnee Surg,2013, 26(3): 161-5.   
+[8]Vasanad GH,Antin SM,Akkimaradi RC,et al. Surgical management of tibial plateau fractures-a clinical study[J].J Clin Diagn Res,2013,7(12): 3128-30.   
+[9］陈 羽,宋 烜,张海兵.三维重建及虚拟手术在复杂胫骨平台骨折治疗 中的应用[J].中国组织工程研究,2013(39):6940-5.   
+[10]付鑫,马信龙,马剑雄,等.Mimics软件在胫骨平台骨折分类及术前 计划的初步应用[J].中国中西医结合外科杂志,2009,15(4):463-7.   
+[11]黄 恺,丁亮华,胡新宇,等.计算机辅助设计数字化个体钢板内固定治 疗复杂胫骨平台骨折短期临床疗效分析[J].中国骨与关节损伤杂志, 2013(4): 324-6.   
+[12]章 莹,夏远军,万磊,等.计算机三维仿真技术与常规手术治疗胫骨 平台骨折的疗效对比分析[J].中国骨与关节损伤杂志,2010,25(8): 686-8.   
+[13]Hall JA,Beuerlein MJ,Mckee MD.Open reduction and internal fixation compared with circular fixator application for bicondylar tibial plateau fractures.Surgical technique [J].J Bone Joint Surg Am,2009: 74-88.   
+[14] Zhong FH,Zhang XW,Ma GP,et al. Case-control studies on therapeutic effects for the treatments of tibial plateau fractures between arthroscopic technique in minimally invasion surgery and minimally invasive internal fixation with plates and screws [J]. Zhongguo Gu Shang,2011,24(9): 732-6.   
+[15]Miller EA,West DM.Where's the revolution? digital technology and health care in the Internet age[J].JHealth Polit Policy Law, 2009,34(2): 261-84.   
+[16]Demartini TL,Beck AF,Klein MD,et al.Access to digital technology among families coming to urban pediatric primary care clinics[J].Pediatrics,2013,132(1): e142-8.   
+[17]Hoy MB.3d printing:Making things at the library[J].Med Ref Serv Q,2013,32(1): 94-9.   
+[18]Ebert LC,Thali MJ,Ross S.Getting in touch-3D printing in Forensic Imaging[J].Forensic Sci Int,2011,211(1/3): E1-6.   
+[19]Chakraverty JK, Weaver MJ, Smith RM,et al. Surgical management of tibial tubercle fractures in association with tibial plateau fractures fixed by direct wiring to a locking plate[J].J Orthop Trauma,2009,23(3): 221-5.   
+[20] Liu CW,Zhang MG,Zhao Y. Polyaxial locking plate for the treatment of tibial plateau fractures[J]. Zhongguo Gu Shang,2009, 22(3): 226-7.   
+[21] Yan YJ, Cheng ZW,Feng K,et al. Treatment of complex tibial plateau fractures with bilateral locking plate and bone graft [J]. Zhongguo Gu Shang,2012,25(7): 557-60.
+
+(编辑：孙昌朋)

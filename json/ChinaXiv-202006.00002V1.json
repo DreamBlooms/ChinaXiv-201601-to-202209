@@ -1,0 +1,544 @@
+[
+    {
+        "type": "text",
+        "text": "基于PCA-TOPSIS的重庆市县域经济密度综合测度及时空演变",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张彬，谢贤健，杨联安²，郭金铭(1内江师范学院地理与资源科学学院,四川内江 641100；2 西北大学城市与环境学院,陕西 西安710127）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：经济密度是衡量区域经济发展水平和聚集程度的重要指标之一。以重庆市38个县（区）所辖范围为研究区，建立了人均和地均相结合的综合测度指标体系，采用主成分分析确定指标权重，将PCA-TOPSIS评价法运用到经济密度综合测度中，依据测度对象与最优值的相对接近程度，综合测度1997年、2001年、2006年和2013年重庆市县域经济密度，获得各个时间断面经济密度综合指数及其排名。通过利用ArcGIS制图功能绘制重庆市经济密度等级分布图，揭示其空间分异演变规律,利用Moran'sI,LISA和热点分析分别探索了县域经济密度的全局和局部空间自相关及其时空演变规律，并讨论影响经济密度高低的主要因素。通过对县域经济密度的综合测度及时空演变的探究，为实现城市科学定位和制定中长期发展战略提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：经济密度；综合测度；时空演变；PCA-TOPSIS；县域文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经济密度是指单位量纲的经济发展水平和经济聚集程度，反映地区经济发展实力、集约化程度和区域空间结构等[1-2]。经济密度的精确测度可为土地市场管理、经济区划分、空间格局发展规划提供重要依据，总的来说，经济密度研究可为区域经济的协调、可持续发展和政府政策制定提供理论和实践依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外学者对经济密度理论模型及实证分析做了大量研究，从不同尺度研究经济密度对区域经济发展的影响。冯科等[3]学者基于省域的土地经济密度数据，利用库兹涅茨曲线模拟了土地经济密度的变化率与经济增长之间的内在规律;罗文斌等[4]学者利用GIS空间分析、变差系数及泰尔指数等方法，以地级市为单位研究了城市土地经济密度的时空分异规律，并揭示影响其密度的内在机理;何邕健等[5]采用因子分析和聚类分析,研究了江西省91个地理单元经济密度的空间分布格局，并划分4类经济区。总的来说，学者们从省域、地级市和县级等地理单元研究了经济密度的时空分异规律和空间分布格局，及其与经济增长的关系和对经济区划的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "同时，学者对经济密度的评价指标体系和评价方法也做了一些研究，在评价指标方面，经济密度主要包括人口经济密度和土地经济密度，采用单一指标或者综合指标，根据数据的可获取性和当地实际情况，学者们采用不同经济密度指标对经济密度进行定量评价[6-8]。在评价方法方面,灰色关联[1],泰尔指数[9-10]、因子分析[5]，空间计量模型[]和ESDA[12-13]等方法用于研究经济密度的综合测度和时空演变。综上所述，学者们从不同评价指标体系、时空尺度和评价模型或方法，定量研究了经济密度的时空分异规律及动力机制等，但经济密度综合测度指标、权重确定和评价方法或模型对准确、客观测度区域经济密度仍存在不一致性和不确定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参考前人经济密度研究成果，针对经济密度研究过程中存在的不确定性，有必要对经济密度的综合测度和时空演变作进一步探讨。本文以重庆市38个区县为研究区，采用地均和人均相结合的综合性指标，利用主成分分析确定单一指标权重，运用TOPSIS测度各区县经济密度综合指数并排序，探讨1997一2013年经济密度时间演变，同时，采用GIS和空间探索性分析，探究研究区的空间分异和空间自相关规律，并探讨其影响因素，为重庆市各区县城市的科学定位、经济区的划分和未来城市发展规划提供科学参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "重庆市，简称\"渝”，地处 $1 0 5 ^ { \\circ } 1 1 ^ { \\prime } \\sim 1 1 0 ^ { \\circ } 1 1 ^ { \\prime } \\mathrm { E }$ 和$2 8 ^ { \\circ } 1 0 ^ { \\prime } \\sim 3 2 ^ { \\circ } 1 3 ^ { \\prime } \\mathrm { N }$ 之间,位于中国大陆西南部,介于青藏高原和长江中下游平原的过渡地带，处于长江上游地区，渝东北连接陕西省，渝南接贵州，东北部和西部与四川接壤，渝东南抵湖北省。该市辖区面积为 $8 . 2 4 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,主要包括渝中区、万州区、开县和武隆县等38个县（区）（图1）。该市2013年年末总人口数为 $2 ~ 9 7 0 \\times 1 0 ^ { 4 }$ 人，GDP总量为12656.69$\\times 1 0 ^ { 8 }$ 元,城镇化率 $5 8 . 3 4 \\%$ 。重庆市人力资源丰富，农业基础较好，工业以重工业为主，金融业和商业较发达。从经济区位来看，重庆是川渝经济圈的重要组成部分，东部与中部五省经济区相邻，联合四川实现区域经济共同发展，充分利用本市的水路和陆路交通优势、在国家西部大开发战略背景下，实现其区域经济的快速发展，同时，具有巨大的经济吸引力和发展潜力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文数据来源于1998—2014年《重庆统计年鉴》、《中国县（市)社会经济统计年鉴》的统计数据。时间断面的选取，依据直辖市的成立时间和国家经济发展五年规划，分别为1997年、“十五”和“十一五\"计划的起始年2001年和2006年，“十二五”计划的2013年。经过多年的行政区划变动，2013年重庆市下辖19个区、15个县和4个自治县，总计38个区县。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1指标体系的构建在一般意义层面,经济密度是指反映单位面积土地上的经济发展水平，经济集中程度及其经济发展潜力，仅用GDP/区域面积",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2acb15a050f010943dbaf20cbee814c38490abd098f0ff3af4a86c188e52a529.jpg",
+        "img_caption": [
+            "图1重庆市县域区位图",
+            "Fig.1Location map of county cities in Chongqing "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1经济密度综合测度指标体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/22bdecbb644c191f35abd720015215a6e4a0c1416368930c51420e6cf05d3962.jpg",
+        "table_caption": [
+            "Tab.1 Comprehensive measure indices of economic density "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">指标层</td><td colspan=\"2\">具体指标</td></tr><tr><td>人均</td><td>第一产业增加 值(x1)</td><td>财政收入（x4)</td><td>城乡居民储蓄余 额(x7)</td></tr><tr><td rowspan=\"5\">地均</td><td>第二产业增加 值(x2)</td><td>消费品零售总额 (x5）</td><td></td></tr><tr><td>第三产业增加 值(x3)</td><td>固定资产投资 (x6)</td><td></td></tr><tr><td>第一产业增加 值(x8)</td><td>财政收入(x11)</td><td>城乡居民储蓄余 额(x14)</td></tr><tr><td>第二产业增加 值(x9)</td><td>消费品零售总额 (x12)</td><td></td></tr><tr><td>第三产业增加 值(x10)</td><td>固定资产投资 (x13)</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "的比值度量其经济密度[2]。但人口密度及其人均层面的经济发展水平也能表征某个地域的经济密度状况。因此，采用人均和地均相结合的综合测度方法,参考前人研究成果[14]并依据系统性、有效性和数据的可获取性，选取了14个具体指标作为综合测度指标（表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2主成分分析主成分分析是指将多个具有相关性的变量，通过数据的降维处理，在保证数据的主要信息量丢较少的情况下，转化成几个综合指标的数据分析方法[15-16]。其分析方法的实质是将繁多的原始指标转化为几个能够代表该经济现象的综合性指标，提高其研究的实际效率。同时，通过主成分分析方法确定其综合测度指标的权重，符合数理统计规律,提高其指标权重确定的客观性[17]。主成分分析的数学模型如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { z _ { 1 } = l _ { 1 1 } x _ { 1 } + l _ { 1 2 } x _ { 2 } + \\cdots + l _ { 1 p } x _ { p } } } \\\\ { { \\ } } \\\\ { { z _ { 2 } = l _ { 2 1 } x _ { 1 } + l _ { 2 2 } x _ { 2 } + \\cdots + l _ { 2 p } x _ { p } } } \\\\ { { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } } \\\\ { { \\ } } \\\\ { { z _ { m } = l _ { m 1 } x _ { 1 } + l _ { m 2 } x _ { 2 } + \\cdots + l _ { m p } x _ { p } } } \\\\ { { \\ \\ } } \\\\ { { \\omega _ { 1 } = \\displaystyle \\sum _ { j = 1 } ^ { k } f _ { i j } ^ { 2 } { \\Bigg / } \\sum _ { i = 1 } ^ { n } \\sum _ { j = 1 } ^ { k } f _ { i j } ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $z _ { 1 } , z _ { 2 } , \\cdots , z _ { m }$ 分别代表原变量指标的 $x _ { 1 } , x _ { 2 } , \\cdots$ ，$x _ { p }$ 的第一主成分,第二主成分,,第 $\\mid m \\mid$ 主成分; $l _ { i j }$ 表示原变量指标在每主成分中的载荷； $\\omega _ { i }$ 表征第 $\\mathbf { \\chi } _ { i }$ 个测度指标的权重； $k$ 表示主成分数目； $n$ 为测度指标数目 ${ \\bf { \\sigma } } ; f _ { i j }$ 为通过 $l _ { i j }$ 计算获得的因子载荷矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3TOPSIS 综合测度法TOPSIS（TechniqueforOrderPreference by Similarity to an Ideal Solution)综合测度法是一种适用于多项指标或者多种方案进行综合测度,确定其排序或等级的测度方法[18-19]TOPSIS法的基本原理：基于归一化后的原始数据矩阵，选出所列方案中的最优值或最劣值，再计算测度指标分别与最优值或最劣值的欧式距离，进一步获得测度对象与最优值的相对接近度，以此测度其经济密度。本研究采用主成分分析确定其权重，计算测度指标分别与最优值或最劣值的加权欧式距离，提高其研究结果的客观性。基于主成分加权的TOPSIS的计算步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)判断矩阵的数据标准化",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi { ^ \\prime } _ { i j } = \\frac { X _ { i j } } { X _ { i j } ( \\operatorname* { m a x } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）主成分加权矩阵的构建 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = ( \\mathbf { \\nabla } V _ { i j } ) _ { m \\times n } , \\mathbf { \\nabla } V _ { i j } = \\omega _ { i } \\times X _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)计算最优值 $V ^ { + }$ 和最劣值 $V ^ { - }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { V ^ { + } = \\operatorname* { m a x } ( \\ : V _ { 1 j } , \\ : V _ { 2 j } , \\cdots , V _ { n j } ) } } \\\\ { { \\nonumber } } \\\\ { { V ^ { - } = \\operatorname* { m i n } ( \\ : V _ { 1 j } , \\ : V _ { 2 j } , \\cdots , V _ { n j } ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)测度对象与最优值、最劣值的欧式距离 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { s e p _ { i } ^ { + } } & { = \\sqrt { \\displaystyle \\sum _ { j = 1 } ^ { n } \\left( V ^ { + } - V _ { i j } \\right) ^ { 2 } } } \\\\ { s e p _ { i } ^ { - } } & { = \\sqrt { \\displaystyle \\sum _ { j = 1 } ^ { n } \\left( V ^ { - } - V _ { i j } \\right) ^ { 2 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)综合测度指数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { i } = \\frac { s e p _ { i } ^ { - } } { s e p _ { i } ^ { + } + s e p _ { i } ^ { - } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E _ { i }$ 为经济密度的综合测度指数，其值在 $0 \\sim 1$ 之间，越接近1表示其经济密度越大，越接近0表示其经济密度越低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2县域经济密度综合测度及时间演变",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1主成分的界定及权重计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过SPSS17.0计算重庆市38个县（区）在4个时间断面的经济密度测度指标，选取特征根 $> 1$ 的主成分因子，主成分因子均可以代表原始指标信息的 $87 \\%$ 以上的信息，4个年份主成分累积贡献率依次分别为90. $6 6 5 \\%$ 、87. $68 5 \\%$ 、88. $1 8 6 \\%$ 和$9 4 . 5 2 3 \\%$ ,依据因子载荷矩阵和碎石图，除了2013年界定为3个主成分，其余时间断面均界定为2个主成分。依据因子载荷矩阵，通过公式(2)计算每个综合测度指标权重，用于加权TOPSIS 进行综合测度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2TOPSIS综合测度结果及时间演变",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于主成分加权的TOPSIS综合测度重庆市县域4个时间断面的经济密度，其经济密度综合测度值及排名（表2）。从表2、表3数据看出，1997年综合测度值范围为 $0 . 0 1 5 \\ 1 \\sim 0 . 8 6 0 \\ 0$ ，均值0.0933，变异系数为 $1 4 9 . 6 7 2 \\%$ ;2001年的数值在 $0 . 0 1 9 2 \\sim$ 0.8081，均值0.0949，变异系数 $1 4 3 . 0 3 2 \\%$ ;2006年测度值在 $0 . 0 1 4 \\mathrm { ~ 8 ~ } \\sim 0 . 8 2 0 \\mathrm { ~ 7 ~ }$ 之间，均值0.1143,变异系数 $1 2 3 . 4 0 2 \\%$ ;2013年测度值在 $0 . 0 4 3 \\mathrm { ~ 8 ~ } \\sim$ 0.8327，均值0.1311，变异系数 $1 0 1 . 0 4 4 \\%$ 。表明1997—2013年重庆市县域经济密度总体变大，其经济发展总量获得快速发展，每个时间断面的测度值范围在变小，其区域内部的经济密度差异也在变小，这与市政府的经济协调发展政策有关，同时，4个时间断面的经济密度变异系数均大于 $100 \\%$ ,表明其呈强变异，但其变异系数逐年缩小，其内部经济密度差异减小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随着重庆市经济的飞速发展，重庆市县域总体经济密度明显提升，但其内部经济密度差异也较大。从表2可知，17a以来重庆市县域经济密度发生如下变化：（1）从整体层面，渝中区经济密度一直处于第一位，其测度值有缩小趋势，与其经济密度内部差异和算法有关，大渡口区在1997年和 2001年位于第二位，在2006年和2013年分别下降到第三位和第七位，江北区在2006年提升到第二位，并保持至2013年。（2）经济密度发生明显变化集中在以下城市，大渡口区从1997年的第二位下降到2013年的第七位，长寿区和江津区分别从1997年第八位和第九位下降到第十四位和十六位，江北区和渝北区的经济密度明显变大，江北区从2001年的第五位提升到第二位，渝北区从1997年的第十位提升至2013年的第六位，特别地，綦江区和大足区在2001一2013年的经济密度变化呈现变小一变大的趋势，且变化幅度大。（3）酉阳县、巫山县、巫溪县和云阳县等经济密度一直处于市内最后几位，经济",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1dfdfcf39eb4ad0d5297d79f3111748632abddcc515f5beef4e7738b449b9da.jpg",
+        "table_caption": [
+            "表21997—2013年重庆市县域经济密度综合测度值及排名",
+            "Tab.2County economic density and ranking "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">of Chongqing City in 1997 -2013</td></tr><tr><td>地区</td><td>1997年</td><td>排名</td><td>2001年</td><td>排名 2006年</td><td>排名</td><td>2013年</td><td>排名</td></tr><tr><td>渝中区</td><td>0.860 0</td><td>1</td><td>0.808 1</td><td>1 0.820 7</td><td>1</td><td>0.832 7</td><td>1</td></tr><tr><td>大渡口区</td><td>0.243 4</td><td>2</td><td>0.3109</td><td>2 0.2909</td><td>3</td><td>0.173 1</td><td></td></tr><tr><td>江北区</td><td>0.209 9</td><td>3</td><td>0.200 5</td><td>5 0.298 4</td><td>2</td><td>0.2875</td><td></td></tr><tr><td>沙坪坝区</td><td>0.170 9</td><td>6</td><td>0.178 9</td><td>6 0.242 3</td><td>6</td><td>0. 229 4</td><td></td></tr><tr><td>九龙坡区</td><td>0.202 0</td><td>4</td><td>0. 224 3</td><td>3 0.277 2</td><td>4</td><td>0.239 3</td><td></td></tr><tr><td>南岸区</td><td>0.182 7</td><td>5</td><td>0.2131</td><td>4 0.2563</td><td>5</td><td>0.268 0</td><td>4 3</td></tr><tr><td>北碚区</td><td>0.110 5</td><td>7</td><td>0.099 9</td><td>8 0.119 8</td><td>8</td><td>0.153 6</td><td>8</td></tr><tr><td>渝北区</td><td>0.078 7</td><td>10</td><td>0.109 0</td><td>7 0.179 3</td><td>7</td><td>0.185 9</td><td>6</td></tr><tr><td>巴南区</td><td>0.076 9</td><td>11</td><td>0.079 0</td><td>10 0.1161</td><td>9</td><td>0.141 8</td><td>10</td></tr><tr><td>涪陵区</td><td>0.068 617</td><td></td><td>0.088 9</td><td>9 0.094 4</td><td>13</td><td>0.128 3</td><td>12</td></tr><tr><td>长寿区</td><td>0.086 5</td><td>8</td><td>0.073 9</td><td>13 0.097 0</td><td>12</td><td>0.119 6</td><td>14</td></tr><tr><td>江津区</td><td>0.082 2</td><td>9</td><td>0.068 5</td><td>15 0.086 2</td><td>16</td><td>0.109 9</td><td>16</td></tr><tr><td>合川区</td><td>0.0748</td><td>13</td><td>0.074 5</td><td>12 0.086 0</td><td>17</td><td>0.103 6</td><td>18</td></tr><tr><td>永川区</td><td>0.073 4</td><td>15</td><td>0.078 9</td><td>11 0.102 7</td><td>11</td><td>0.127 7</td><td>13</td></tr><tr><td>南川区</td><td>0.0622 20</td><td></td><td>0.058 9</td><td>19 0.074 2</td><td>19</td><td>0.099 7</td><td>20</td></tr><tr><td>綦江区</td><td>0.067518</td><td></td><td>0.054 0</td><td>22 0.014 8</td><td>38</td><td>0.091 2</td><td>22</td></tr><tr><td>大足区</td><td>0.066519</td><td></td><td>0.071 7</td><td>14 0.0232</td><td>37</td><td>0.102 9</td><td>19</td></tr><tr><td>潼南县</td><td>0.053 5</td><td>22</td><td>0.056 0</td><td>21 0.071 4</td><td>20</td><td>0.107 1</td><td>17</td></tr><tr><td>铜梁县</td><td></td><td></td><td>0.0710 16 0.065 6</td><td>17 0.0878</td><td>15</td><td>0.112 4</td><td>15</td></tr><tr><td>荣昌县</td><td>0.0761</td><td>12</td><td>0.065 0</td><td>18 0.090 5</td><td>14</td><td>0.140 1</td><td>11</td></tr><tr><td>璧山县</td><td>0.074314</td><td></td><td>0.067 2</td><td>160.104 1</td><td>10</td><td>0.142 8</td><td>9</td></tr><tr><td>万州区</td><td>0.056021</td><td></td><td>0.0568</td><td>20 0.0760</td><td>18</td><td>0.095 7</td><td>21</td></tr><tr><td>梁平县</td><td></td><td></td><td></td><td>0.0389270.0361 260.0570</td><td>24</td><td>0.079426</td><td></td></tr><tr><td>城口县</td><td></td><td></td><td>0.0214360.028 4 31</td><td>0.040 6</td><td>30</td><td>0.050 0</td><td>35</td></tr><tr><td>丰都县</td><td></td><td></td><td></td><td>0.0423250.0314 28 0.0441 29</td><td></td><td>0.060630</td><td></td></tr><tr><td>垫江县</td><td></td><td></td><td></td><td>0.0393260.0404 250.0608</td><td>23</td><td>0.085 5</td><td>23</td></tr><tr><td>忠县</td><td></td><td></td><td></td><td>0.0361 280.0320 270.0532</td><td>25</td><td>0.070327</td><td></td></tr><tr><td>开县</td><td>0.034129</td><td></td><td></td><td>0.0308 290.0471</td><td>28</td><td>0.0608</td><td>29</td></tr><tr><td>云阳县</td><td></td><td></td><td></td><td>0.0247340.0231 360.0377</td><td>32</td><td>0.053632</td><td></td></tr><tr><td>奉节县</td><td></td><td></td><td>0.0260330.029 0</td><td>300.0375</td><td>33</td><td>0.056731</td><td></td></tr><tr><td>巫山县</td><td>0.0241 35</td><td></td><td>0.024435</td><td>0.034 8</td><td>34</td><td>0.049 0</td><td>36</td></tr><tr><td>巫溪县</td><td>0.0151 38</td><td></td><td>0.019 2</td><td>37 0.0280</td><td>36</td><td>0.0438</td><td>38</td></tr><tr><td>黔江区</td><td>0.042 624</td><td></td><td>0.053 2</td><td>240.062 0</td><td>22</td><td>0.080924</td><td></td></tr><tr><td>武隆县</td><td>0.050 6</td><td>23</td><td>0.054 0</td><td>23 0.064 8</td><td>21</td><td>0.080525</td><td></td></tr><tr><td>石柱县</td><td>0.029 0</td><td>30</td><td>0.0260</td><td>34 0.049 0</td><td>26</td><td>0.069 2</td><td>28</td></tr><tr><td>秀山县</td><td>0.026432</td><td></td><td>0.028 1</td><td>32 0.038 9</td><td>31</td><td>0.053033</td><td></td></tr><tr><td>酉阳县</td><td>0.019037</td><td></td><td>0.019 2</td><td>38 0.029 1</td><td>35</td><td>0.044 6</td><td>37</td></tr><tr><td>彭水县</td><td>0.028931</td><td></td><td></td><td>0.0271 330.0476 27 0.050934</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b87d766a1ecad5f7c94f57ce7015018f7c2007f6d2a352caa6a24ba960a62505.jpg",
+        "table_caption": [
+            "表31997—2013年经济密度综合测度值的一般性统计",
+            "Tab.3 Statistical results of economic density in 1997-2013 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份</td><td>最小值</td><td>最大值</td><td>均值</td><td>标准差</td><td>变异系数 /%</td></tr><tr><td>1997</td><td>0.0151</td><td>0.860 0</td><td>0.0933</td><td>0.139 7</td><td>149.672</td></tr><tr><td>2001</td><td>0.0192</td><td>0.8081</td><td>0.0949</td><td>0.135 7</td><td>143.032</td></tr><tr><td>2006</td><td>0.0148</td><td>0.820 7</td><td>0.114 3</td><td>0.141 0</td><td>123.402</td></tr><tr><td>2013</td><td>0.0438</td><td>0.832 7</td><td>0.1311</td><td>0.132 5</td><td>101.044</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "密度一直很小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3县域经济密度空间演变及探索性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1经济密度的空间分异演变",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据重庆市经济密度综合测度值的计算结果，利用Jenks自然断裂分级法，划分重庆市经济密度为4个等级，并利用ArcGIS10.1的制图功能，绘制了4个时间断面的经济密度等级分布图（图2）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图2分析可知，重庆市经济密度的等级分布空间格局总体没有发生巨大变化，大多数城市区域位于三级和四级，其中二级和三级的城市区域在2006 年和2013 年明显扩大。1997—2013 年渝中区经济密度在市内一直稳居第一等级，且在东西方向延伸。在空间分布上，第二等级经济密度区域集中在重庆市都市经济发达圈内，2006年渝北区从第三等级上升为第二等级，呈东北西南方向延伸。1997—2001年，第三等级密度区域主要分布在重庆市的西南部，仅綦江区从第三等级下降为第四等级，从2006年开始，第三等级密度区域逐年增加，其区域面积占总面积的一半以上，开县、梁平和忠县等区域在2013年均提升为第三等级。第四等级密度区域的空间格局没有发生颠覆性变化，集中分布在重庆市的东北角和东南角，城口、巫溪、巫山、酉阳和秀山县等城市区域一直属于第四等级密度区域，这跟当地的自然环境和交通条件有关。总的来说，重庆市经济密度由高至底的总体格局由中部和西北部的低谷和低山丘陵向东北部和东南部的山区递减，重庆市中部经济密度高的地区与其周围密度低地区的密度差异显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6958fd28a62a616aa4bea8151f62656372763e4a77934e31e365a68b4fc4908.jpg",
+        "img_caption": [
+            "图2重庆市经济密度等级分布图",
+            "Fig.2Distribution map of economic density in Chongqing City "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 经济密度的空间探索性分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1空间自相关分析基于GeoDa软件探索重庆市经济密度的空间自相关规律，创建queen邻接的空间权重矩阵，分别计算4个时间断面 $E i$ 的莫兰指数(Moran'sI)，通过蒙特卡罗检验其显著性，其 $P$ 值均为0.001，表明其在 $9 9 . 9 \\%$ 置信度下呈显著空间自相关性，1997年、2001年、2006年和2013年的Moran's $I$ 值分别为 $0 . 2 7 5 1 . 0 . 3 2 1 0 . 0 . 4 2 3 6$ 和0.3714，其值均 $> 0$ ，表示研究区经济密度均呈正空间自相关，经济密度区域趋于空间集聚。通过观察Moran 散点图(图3)可知，其4个年份点均集中分布在第一象限和第三象限，第一象限代表高测度值区域被同为高值区域所包围的空间联系形式，第三象限代表低测度值区域被低值区域所包围的空间形式，表明重庆市经济密度呈现空间集聚，并且第三象限点多于第一象限，表示重庆市经济密度低的县级区域远大于经济密度高的区域，呈现两级分化现象。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究采用局部空间联系指标（LISA）表征其经济密度的局部空间聚集程度，弥补其Moran散点图描述自相关缺乏统计含义。通过GeoDa软件分别绘制4个年份重庆市经济密度空间聚集LISA图（图4），并使其在0.05水平显著性。从图4分析可知，重庆市经济密度综合测度指数的空间自相关有4种类型：高—高(HH）、低—高(LH）、低—低(LL)和不显著。从空间分布格局角度，1997年和2001年 HH型主要分布在重庆市西南部的中部,即经济最发达的都市经济圈，主要包括渝中区、九龙坡区和沙坪坝区，2006年和2013年的HH型城市数目增加并有向外扩展的趋势，增加了渝北区、巴南区和璧山县等，表示随着经济发展，重庆市经济密度高区域增加和其外部高值区域联系增强。LL型城市主要分布在重庆市的东北部和东南部，除2006年因为不显著区域增多，LL型城市数目减少以外，LL型城市区域的空间分布基本没有发生变化，这与当地区域的经济发展程度相对低有关。LH型城市数目随着时间的推移在不断减少，2013年研究区不存在这种空间自相关类型，表明其经济相对密集区存在空间极化现象。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f8c7cce842dd12956d9aeac6487d59fb3a87c24971c67a88643189f831e21a10.jpg",
+        "img_caption": [
+            "图3县域经济密度综合测度指数散点图",
+            "Fig.3Scatter map of comprehensive measure index of county economic density "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/efbec057aa9a5d2289b229e4652edfcd822747dd7160e162035e0ba2b26a0e64.jpg",
+        "img_caption": [
+            "图4重庆市县域经济密度的LISA图",
+            "Fig.4LISA map of economic density in Chongqing City "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2热点分析热点分析是通过计算每个要素Getis-Ord的统计值，表征其要素高值或低值在空间上发生的聚集位置[20]。通过对重庆市经济密度综合指数的热点分析，获得经济密度热点和冷点的地理位置。利用ArcGIS10.1空间统计工具中的热点分析，采用Jenks自然断裂分级法分为4级：热点、次热点、次冷点和冷点，绘制了4个时间断面的重庆市经济密度热点图。从图5分析可知，在冷热点的整体空间分布上，经济密度热点和次热点主要分布在重庆市的西部，次冷点和冷点主要分在重庆市的东部，这与西部经济发展速度快、东部经济发展滞后",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "106°35'00\"E 108°05'30\"E 109°36'00\"E 106°35'00\"E 10805'30\"E 109°36'00\"E  \n8.00.010 (a)1997年 N 800.0000 8.00.01.00 (b)2001年 N 800.0170图例 城口县 A 图例 城口县 A冷点 冷点次冷点 巫溪县 次冷点 巫溪县次热点 开县 次热点 开县  \n2.00.0000 热点 云阳县 巫山县 2.00.0000 2.00.0000 1 热点 云阳县 巫山县 2.00.0000梁平县万州区 奉节县 梁平县万州区 奉节县垫江县忠县 江县忠县南与北碚 石柱县 叶 石柱县渝北区 丰都县 心 中 渝北区 丰都县 格  \n2.08.60.6N 菜昌足区 沙坪坝 龙坡 涪陵区 2.08.60.6N 2.08.60.67 足区 壁山县坪坝区 涪陵区 2.08.60.67永川 武隆县彭水县黔江区 永川区 南 武隆县 彭水县黔江区江津区 南川区 江津区 南川区江区 酉阳县 蔡江区 酉阳县秀山县 秀山县0 50 100 150 200 0 50 100 150 200 3km km106°35'00\"E 108°05'30\"E 109°36'00\"E 106°35'00\"E 108°05'30\"E 109°36'00\"E106°35'00\"E 108°05'30\"E 109°36'00\"E 106°35'00\"E 108°05'30\"E 109°36'00\"E  \n8.00.0100 (c) 200年 城口县 NA 8.00.0170 800.0100 (d) 2013年 城口县 NΛ 800.010冷点 冷点次冷点 巫溪县 次冷点 巫溪县次热点 开县 次热点 开县  \n2.00.0000 热点 云阳县 巫山县 2.00.0000 2.00.0000 热点 云阳县 巫山县 2.00.0000梁平县万州区 奉节县 梁平县万州区 奉节县江县忠县 热江县忠县北碚区 寿区 石柱县 寿区 石柱县渝北区 丰都县 渝北区 丰都县 金  \n2.08.60.6N 荣昌足区 少坪坝 涪陵区 武隆县彭水县黔江区 2.08.60.6 2.08.60.6N 菜日 K 山县沙坪坝 涪陵区 武隆县 彭水县黔江区 2.08.60.67南川区 工津区 南川区江区 酉阳县 禁江区 酉阳县秀山县 秀山县0 50 100 150 200 0 50 100 150 200 3km km106°35'00\"E 108°05'30\"E 109°36'00\"E 106°35'00\"E 108°05'30\"E 109°36'00\"E",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "等因素有关。热点和次热点的空间分布在1997—2013年基本没有发生变化，表明重庆市经济发展两级分化现象严重和经济发展的重点和热点地域没有发生改变，在2001年涪陵区由次冷点升级为次热点，表明经济密度热点地区对其周围地区经济发展的带动作用。次冷点和冷点在这期间的空间分布有很大变动，从2001年以来，城口、梁平、垫江和武隆县等地区，由冷点提高为次冷点，表明这些地区经济密度在逐年提高，这可能跟国家政策扶持和基础设施的逐步完善有关,其中，黔江区、秀山县和石柱县等一些地区出现经济密度降低情况，这可能与政府政策、区位优势和经济内部竞争等因素有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）基于主成分加权的TOPSIS综合测度重庆市38个区县的经济密度综合指数，并根据其指数值进行排序。1997—2013 年重庆市县域经济密度总体变大，其指数的变异系数逐年变小，表明其内部经济差异逐渐减小。其中，2013年各区县经济密度排名如下：渝中区、江北区、南岸区、九龙坡区、沙坪坝区、渝北区、大渡口区、北碚区、璧山县、巴南区、荣昌县、涪陵区、永川区、长寿区、铜梁县、江津区、潼南县、合川区、大足区、南川区、万州区、綦江区、垫江县、黔江区、武隆县、梁平县、忠县、石柱县、开县、丰都县、奉节县、云阳县、秀山县、彭水县、城口县、巫山",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "县、酉阳县和巫溪县。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）从整体层面，渝中区经济密度一直处于第一位,江北区和渝北区等经济密度呈波动式发展，总体趋势是经济密度变大，但大渡口区、长寿区和江津区等区域经济密度总体为下降趋势。在经济密度等级空间分异上，重庆市总体空间分布格局没有发生明显变化，大部分城市位于第三级和第四级，其中第二等级区域主要分布在重庆市都市经济发达圈内，呈东北西南方向延伸，第三等级主要分布在重庆市的西南部并向中部扩展,第四等级城市主要分布在重庆市的东北角和东南角，总体空间分异格局为重庆市经济密度由高至底的总体格局由中部和西北部的低谷和低山丘陵向东北部和东南部的山区递减，中部经济密度高的地区与其周围密度低地区的密度差异显著。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）从空间探索性分析来看，Moran'sI指数值$> 0$ ,表明重庆市经济密度综合指数呈正空间自相关，经济密度区域趋于空间集聚，经济密度低的县级区域远大于经济密度高的区域，呈现两级分化现象;HH型城市区域在2006年向四周有所扩展，主要分布于重庆市都市经济圈，LH型城市区域从1997年开始逐年减少，到2013年该类型相关不存在，表明研究区经济密度逐渐空间极化；同时，经济密度热点和次热点主要分布在重庆市的西部，次冷点和冷点主要分布在重庆市的东部，这与西部经济发展速度快、东部经济发展滞后等因素有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "该研究采用人均和地均相结合的复合指标体系，能够更加准确地综合测度县域经济密度，但由于数据的可获取性和实际情况，具体的评价指标层还有待进一步完善，采用主成分分析确定经济密度评价指标权重，减少了主观因素对其研究结果的精度影响，同时采用TOPSIS对县域经济密度进行综合测度，客观、准确地定量表征重庆市县域经济密度高低及其时空演变。但是，由于不同的权重确定和综合评价方法对其不同的综合评价指标体系和区域具有不同的适应性，因此应对经济密度的主、客观评价方法进行实证研究。重庆市从1997—2013年，总体县域经济密度差异呈现减小趋势，这与重庆市政府长期坚持区域协调发展战略有关，经济密度大小的空间分布与重庆市划分的三大经济区空间分布具有一致性，经济密度较大区域主要分布在都市发达经济圈，总体分异格局与重庆市的“一圈两翼”格局走势大致吻合，同时，重庆市县域经济密度具有空间集聚现象，东西部呈现两极分化，这主要与区域的自然地理条件、经济基础和交通区位因素等有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］张改素,丁志伟,王发曾.我国中部地区经济密度的时空分异 研究[J].经济地理,2013,33（5）:15-23.［ZHANGGaisu, DING Zhiwei,WANG Fazeng. Study on spatial-temporal variation of economic density of central China[J].Economic Geography, 2013,33(5) :15-23.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]沈体雁,劳昕,张晓欢.经济密度：区域经济研究的新视角[J].经济学动态，2012，（7)：15-19.[SHENTiyan，TAOXin，ZHANGXiaohuan.Economic density:A new perspective of regional economicresearch[J].Economics Dynamics,2012,（7） :15-19.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3]冯科,吴次芳，陆张维,等.中国土地经济密度分布的时空特征及规律——来自省际面板数据的分析[J].经济地理，2008，28(5）:817-820.[FENGKe,WU Cifang,LU Zhangwei,et al.Dis-cussions about spatial-temporal characters and the law ofland eco-nomic density distribution evidence from provincial panel data inChina[J].Economic Geography,2008,28(5）:817-820.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4］罗文斌,吴次芳,冯科.城市土地经济密度的时空差异及其影响机理——基于湖南省城市面板数据的实证分析[J].城市发展研究，2010，17(6）:68-74.[LUOWenbin，WUCifang，FENGKe.Temporal-spatial features and influence mechanism of urbanland economic density:An empirical study based on city panel datain Hunan Province[J].Urban Studies,2010,17(6):68-74.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5］何邕健，胡丽.基于经济密度差异特征的区域空间结构研 究——以江西省为例[J].规划师,2008,24（10)：68-72.[HE Yongjian,HULi.Defining regional spatial structure with economic density measures:A case study of Jiangxi Province[J].Planners, 2008,24(10):68-72.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6] GRUBLERA,O'NEILLB,RIAHIK,etal.Regional,national,and spatially explicit scenarios of demographic and economic change based on SRES[J].Technological Forecasting & Social Change, 2007,74(7):980-1029. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7］曹广忠,白晓.中国城镇建设用地经济密度的区位差异及影响 因素——基于273个地级及以上城市的分析[J].中国人口· 资源与环境,2010,20（2）:12-18.[CAOGuangzhong,BAI Xiao.On the location difference and influencing factors of the economic density of urban construction land in China:Evidence from 273 prefecture-level cities［J].China Population Resources and Environment,2010,20(2):12-18.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]贝涵璐,吴次芳,冯科,等.土地经济密度的区域差异特征及动 态演变格局——基于长江三角洲地区的实证分析[J].自然资 源学报,2009,24（11）:1952-1962.［BEI Hanlu,WU Cifang, FENG Ke,et al.Regional disparity and dynamic evolution of land economic density：Evidence from the Yangtze River Delta area [J].Journal of Natural Resources,2009,24(11）:1952-1962.] [9］谢保鹏,陈英,张文斌,等.甘肃省县区单元城镇工矿用地经济 密度区域差异及动态演变特征分析[J].干旱区资源与环境， 2012,26(11）:12-19.[XIE Baopeng,CHEN Yin,ZHANWenbin,et al.Analysis on regional disparity and dynamic evolution characteristics of land economic density for town-industry in Gansu [J].Journal of Arid Land Resources and Environment,2O12,26 (11):12-19.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[10］马淑燕,杨德刚,霍金炜，等.和田地区人口与经济发展时空演变与分布差异研究[J].干旱区地理，2017，40（3）：647-654.[MA Shuyan,YANG Degang,HUO Jinwei,et al. Space-time evolu-tion and distribution disparities of population and economic devel-opment in Hotan Prefecture[J].Arid Land Geography,2017,40(3):647 -654.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11］龙剑,朱海宁,曹邦宇.基于标准差椭圆模型的贵州省经济密度空间差异分析［J].当代经济，2014，（13）：114－117.［LONGJian,ZHU Haining,CAO Bangyu.Spatial difference analysis of eco-nomic density in Guizhou Province based on standard deviation el-lipse model[J].Contemporary Economics,2014,（13）:114-117.][12］王海燕,濮励杰,张健,等.城镇建设用地经济密度时空分异的实证分析[J].中国土地科学，2012，26（4）：47-53.［WANGHaiyan,PULijie,ZHANG Jian,etal. Spatial-temporal variation analysis of the economic density of urban construction land[J].Chi-na Land Sciences,2012,26(4):47-53.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13］张志斌,李书娟，何伟,等.基于ESDA的兰州一西宁城镇密集 区经济空间差异分析[J].干旱区地理，2011，34（5）：809- 819.［ZHANG Zhibin,LI Shujuan,HE Wei,et al.Economic spatial disparities in Lanzhou-Xining CCA based on ESDA[J].Arid Land Geography,2011,34(5):809-819.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14］张改素，丁志伟,赵萌，等.中原经济区县域经济密度的空间分 异及影响因素[J].经济地理，2014，34（9）：19-26.［ZHANG Gaisu,DING Zhiwei,ZHAO Meng,et al. Spatial variation and its influencing factors of economic density in CPER at county level [J].Economic Geography,2014,34(9）:19-26.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15］王鹏,况福民，邓育武，等.基于主成分分析的衡阳市土地生态安全评价[J].经济地理，2015，35（1）：168－172.［WANGPeng,KUANGFumin,DENG Yuwu,etal.Assesment of land eco-security of the Hengyang City on the principal component[J]. Eco-nomic Geography,2015,35（1）:168-172.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16］杜忠潮，黄波，陈佳丽.关中一天水经济区城市群人口经济与资源环境发展耦合协调性分析[J].干旱区地理,2015,38（1）：135-147.[DU Zhongchao,HUANG Bo,CHEN Jiali. Coordinatingdevelopment of population economy and resources environment ofthe city group in Guanzhong-Tianshui[J].Arid Land Geography,2015,38(1):135-147.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17］张彬,杨联安,冯武焕,等.基于改进TOPSIS 和COK的土壤养分综合评价[J].干旱区资源与环境，2016，30（7）：180-185.[ZHANGBin,YANGLian'an,FENGWuhuan,etal.Comprehen-sive evaluation of soil nutrients based on improved TOPSIS andCOK[J].Journal of Arid Land Resources and Environment,2016,30(7):180-185.]",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18］洪惠坤，廖和平,魏朝富，等.基于改进TOPSIS方法的三峡库 区生态敏感区土地利用系统健康评价［J].生态学报，2015，35 (24）:8016-8027.[HONG Huikun,LIAO Heping,WEI Zhaofu, et al.Health assessment of a land use system used in the ecologically sensitive area of the three gorges reservoir area,based on the improved TOPSIS method［J].Acta Ecologica Sinica,2015,35 (24):8016-8027.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19］谢贤健，张彬.四川省城市竞争力的评价及时空演变[J].干旱 区地理,2016,39（4）:877-885.[XIEXianjian，ZHANGBin.Evaluation and spatial-temporal evolvement of the city competitiveness of Sichuan Province[J].Arid Land Geography,2O16,39（4）: 877 -885.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20］杨晓明，戴小杰，田思泉，等.中西太平洋鲤鱼围网渔业资源的热 点分析和空间异质性[J].生态学报，2014,34（13)：3771-3778. [YANG Xiaoming,DAI Xiaojie,TIAN Siquan,etal.Hot spot analysisand spatial heterogeneity of skipjack tuna（Katsuwonus pelamis ) purse seine resources in the western and central Pacific Ocean[J]. Acta Ecologica Sinica,2014,34(13）:3771-3778.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Comprehensive measurements and principle component analysis of the spatiotemporal evolution of economic density in Chongqing City,China ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Bin1， XIE Xian-jian1，YANG Lian-an²， GUO Jin-mingl (1School of Geographyand Resources Science of Neijiang Normal University,Neijiang 6411oo,Sichuan,China; 2College of Urban and Environmental Science,Northwest University,Xi'an71O127,Shaanxi,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Economic density isone of the most important indicators of regional economic development and agglomeration.We studied 38 counties in Chongqing City,China and developed a model for a comprehensive measure based on per capita and land factors.The weights of measure indicators were determined by principal component analysis.Principlecomponent analysis with the technique fororder preference by similarity to ideal solution was applied to measure economic density.Our metric of economic density was based onthe Euclidean distancebetween the object value and its optimal value and worst value.The economic density composite index and ranking were obtained for each object.We used GIS to generate maps of economic density distributions in Chongqing City,which revealed changes in the spatial paterns of economic densityover time.We used therule of spatiotemporal variationof global andlocal spatial autocorrelation on county economic density as anopportunity to discuss the main factors affecting thelevels of economic density.We identified three major findings:（1）the comprehensive economic density indices were calculated and ranked for 38 counties during four time periods.Economic density generally increased over time,while internal differences graduallydecreased.（2）Intermsof itsoveralldistribution,economicdensityin Chongqing decreased from thecenter and northwest to the northeast and southeast.The distributions in areas with high economic densityinthe central region were significantly diffrent from those with low density inthe surrounding areas.（3） From the perspective of spatial autocorrelation,the Moran 's $I$ index was greater than O,showing a positive corelation,suggesting that economicdensity tended to gather in space.Moreover,theurban areas characterized byLH-type graduallydecreased,andeconomic density became more spatially polarized.Hotspotsand subhotspots of economicdensity were mainly distributed inthe western partof Chongqing,whilethe secondary coldspots and sub-coldspots were mainly distributed in theeast.Theresultsof this study providea scientific basis forthe city' s strategies for long-term development. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words:economic density； comprehensive measure；spatiotemporal evolution； PCA-TOPSIS；county",
+        "page_idx": 10
+    }
+]

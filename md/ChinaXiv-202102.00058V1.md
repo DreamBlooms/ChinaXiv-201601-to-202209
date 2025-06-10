@@ -1,0 +1,195 @@
+# 基于MODIS和CloudSat的京津冀降水冰云季节分布特征
+
+郑倩²，郑有飞²，王立稳²，高雅²（1浙江省衢州市气象局,浙江 衢州324000；2 南京信息工程大学大气物理学院，江苏 南京210044；3无锡太湖学院,江苏 无锡214000)
+
+摘要：利用2008年9月 ${ \sim } 2 0 1 6$ 年8月AquaMODIS和CloudSat卫星数据，筛选出京津冀地区的降水冰云，同时将其分为4个区域讨论，得到关于该地区降水冰云4个季节的分布特征，为该地区的人工影响天气提供依据。结果表明：京津冀整个地区的降水冰云在夏季的发生率都较高，且发生率有上升的趋势。从整个地区看来，京津冀地区的降水冰云的云顶高度在冬季最低、夏季最高，云顶温度的最小值在冬季最高、夏季最低;京津冀地区的降水冰云在春夏秋3季均以单层云为主，而在冬季则以双层云为主；京津冀地区的降水冰云的类型按春夏秋冬分别为7种、7种、6种和5种，且在夏季该地区的降水冰云以深对流云为主（占 $4 8 . 3 \%$ )，而其他季节以雨层云为主；京津冀地区降水冰云微物理量(包括冰水含量、粒子数浓度、粒子有效半径)主要分布高度分别为 $0 { \sim } 1 3 . 5 \ \mathrm { k m }$ （春季）、$3 . 5 { \sim } 1 7 . 0 \mathrm { k m }$ （夏季） $\phantom { - } . 1 . 0 { \sim } 1 4 . 0 \mathrm { k m }$ （秋季） $\cdot 0 { \sim } 1 1 . 0 \mathrm { k m }$ （冬季）。冰水含量、粒子有效半径和粒子数浓度的分布高度和最大值均在夏季最高，但粒子有效半径在秋季最低，冰水含量和粒子数浓度在冬季最低。这3种微物理量随高度的分布特征夏季在京津冀各分区较为一致，都呈单峰结构，在其他季节差异较大。
+
+关键词：京津冀；降水；冰云；季节特征；CloudSat文章编号：
+
+云的结构特征同云辐射特征、降水的机制、条件和降水效率还有人工影响天气的可能性都密切相关[]。再加上冰相态的云与降水的密切关系[2],所以研究某一地区的降水冰云对于深人了解该地区的降水机制及人工增雨潜力具有重要的意义。
+
+然而由于冰云的光学厚度较薄而且云顶高度较高，局地探测较为困难，常常需要借助卫星探测手段对其开展全面深入研究[3]。目前，已有一些学者利用MODIS对冰云的季节变化特征作了研究。如MEYER等[4利用MODIS得到了北半球热带地区冬季和夏季的冰水路径分布特征；李特等3和曹亚楠等[5]分别利用MODIS对中国地区和北京地区冰云特性的概率分布和季节变化进行统计。但是，MO-DIS只能探测冰云的水平特征，而CloudSat具有较高的垂直分辨率，还可以深人云层内部，这对于冰云垂直结构的研究具有重要意义[。不少国内外学者已经利用CloudSat研究冰云的垂直结构和物理量的分布。如STEIN等[7]和KUEHNLEIN等[8]分别利用CloudSat多种卫星对冰云特征的检索方法进行比较研究；HONG等[联合CloudSat和CALIPSO分析全球冰水发生率等冰云特性，结果表明，全球冰云的发生率还取决于昼夜周期；赵宇等利用CloudSat资料分析了2次暴雪过程中北上江淮气旋暴雪云系结构特征;刘屹岷等[1]利用CloudSat和CALIPSO对青藏高原上空的云的宏观和微观结构特征及云与降水相关性都做了研究。而且关于利用卫星资料对降水云的研究也已展开[12-16],主要针对不同研究区域分析降水云的垂直结构特征等
+
+相关研究资料表明，京津冀是一个水资源较为缺乏的地区[17]。显然，降水冰云季节特征的研究十分有利于京津冀地区开展人工影响天气，再加上MODIS和CloudSat这两种卫星资料对于研究冰云也非常靠谱，然而在降水冰云的分析方面，当前的研究仍然较少而且研究的时长不足。基于以上这些，本文统计了2008年9月～2016年8月京津冀4个地区的降水冰云数据，基于此，本文利用2008年9月$\sim 2 0 1 6$ 年8月Aqua MODIS 和CloudSat卫星数据,筛选出京津冀地区的降水冰云，同时将其分为4个区域讨论，得到关于该地区降水冰云4个季节的分布特征，为该地区的人工影响天气提供依据，
+
+# 1资料和方法
+
+本文选取的是来自Aqua卫星所搭载的MODIS的云产品MYD06_L2资料、CloudSat卫星的2B-CLDCLASS和2B-CWC-RO资料。MODIS所采用的数据包括经纬度信息、云相、云顶高度和云顶温度，空间分辨率为 $5 \ \mathrm { k m } \times 5 \ \mathrm { k m }$ 。其中云相信息来自MYDO6_L2中的Cloud_Phase_Infrared(O表示无云，1表示水云，2表示冰云，3表示混合云，6表示未确定相云）。根据周著华等[18],MODIS高分辨率、多光谱的特点有助于利用光谱数据识别云的相态，在简单的一层云和复杂的多层云下其都能进行较好的云相态识别。CloudSat所采用的数据来自R05版本，包括经纬度信息、高度、云类型及降水指标、云层数、冰云粒子数浓度、冰云粒子有效半径、冰水含量，空间分辨率是 $2 . 5 \mathrm { k m } { \times } 1 . 4 \mathrm { k m }$ （沿轨 $\times$ 横轨)，垂直方向上含125层，每层 $2 4 0 \mathrm { m }$ ，产品的时间为2006年6月2日～2016年10月29日。其中，云类型及降水指 标 来自CloudSat的 2B-CLDCLASS中的cloud_scenario一值。云层数来自Cloudsat资料的2B-CWC-RO这一产品中的IO_RO_status值，IO_RO_status值是16位的数值，其中第10和11位数表示云层数(00表示单云类型，01表示两种云类型，10表示三种云类型，11表示超过三种云类型）。
+
+本文所采用的时间是2008年9月～2016年8月，用3月、4月和5月的平均结果表示春季，6月、7月和8月表示夏季，9月、10月和11月表示秋季，12月、1月和2月表示冬季。Cloudsat的2B-CLDCLASS产品中有一个指标可以判定采样点是否产生降水，在此之前刘肠等[13]已在研究东北云系时对这个指标的合理性进行了验证。所以，本文先筛选出该期间所有通过这个区域的Cloudsat轨道路径，再利用Cloudsat卫星的2B-CLDCLASS产品判断轨道内的全部采样点是否有降水产生，若有则联合MODIS云产品判断这些有降水的采样点是否是冰云，由此选出京津冀的非降水冰云和降水冰云为本文的研究对象[19]。
+
+此外，根据CloudSat卫星的轨道路径，将京津冀地区 $( 3 6 . 0 2 ^ { \circ } \sim 4 2 . 6 2 ^ { \circ } \mathrm { N } , 1 1 3 . 0 6 ^ { \circ } \sim 1 1 9 . 8 8 ^ { \circ } \mathrm { E } )$ 自西向东分为4个区域（图1），I区 $( 3 6 . 1 0 ^ { \circ } \sim 3 9 . 0 5 ^ { \circ } \mathrm { N }$ $1 1 4 . 1 2 ^ { \circ } \sim 1 1 5 . 6 9 ^ { \circ } \mathrm { E } )$ 沿邯郸、邢台、石家庄，ⅡI区$( 3 7 . 3 7 ^ { \circ } \sim 4 2 . 1 1 ^ { \circ } \mathrm { N }$ ,114.63\~116.12°E)沿衡水、保定、张家口，IⅢ区 $( 3 7 . 9 8 ^ { \circ } \sim 4 1 . 9 5 ^ { \circ } \mathrm { N }$ ， $1 1 6 . 2 6 ^ { \circ }$ \~$1 1 7 . 5 2 ^ { \circ } \mathrm { E }$ )沿沧州、天津、廊坊、北京，IV区 $( 3 9 . 1 9 ^ { \circ }$ \~$4 2 . 6 0 ^ { \circ } \mathrm { N } , 1 1 7 . 5 6 ^ { \circ } \sim 1 1 8 . 6 6 ^ { \circ } \mathrm { E }$ 沿唐山、承德。
+
+![](images/ecfebd40b03afd44520eaec22a8be6d66599691cc4271723ecebbfc364b6a74b.jpg)  
+图1京津冀地区CloudSat轨道区域划分图 Fig.1Regional division of Beijing-Tianjin-Hebei
+
+# 2结果分析
+
+此次总计得到非降水冰云与降水冰云的样本数量分别为34214和5735。由表1可见，这次统计所选取的样本数量中，降水样本相对冰云样本数量较少。
+
+# 2.1非降水冰云与降水冰云的发生率
+
+本文参照李特等[3]对冰云发生率的定义，将降水冰云的发生率 $F _ { p }$ 公式定义为：
+
+$$
+F _ { _ p } { } = \Biggl ( \frac { N _ { i c e } } { N _ { c l e a r } + N _ { l i q u i d } + N _ { i c e } + N _ { _ { m i x } } } \Biggr ) { } _ { p } \times 1 0 0 \%
+$$
+
+# 干旱区地理
+
+Tab.1Quantity of nonprecipitating and precipitating ice clouds in Beijing-Tianjin-Hebei and its four subdivisionsforfourseasons   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="5">非降水冰云</td><td colspan="5">降水冰云</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td><td>总数</td><td>1</td><td>II</td><td>IⅢI</td><td>IV</td><td>总数</td></tr><tr><td>春</td><td>2263</td><td>3460</td><td>2 562</td><td>2 595</td><td>10 880</td><td>555</td><td>341</td><td>133</td><td>502</td><td>1531</td></tr><tr><td>夏</td><td>1 598</td><td>3381</td><td>3183</td><td>2380</td><td>10 542</td><td>208</td><td>1021</td><td>520</td><td>311</td><td>2 060</td></tr><tr><td>秋</td><td>1548</td><td>1602</td><td>1 654</td><td>2091</td><td>6895</td><td>65</td><td>185</td><td>269</td><td>697</td><td>1216</td></tr><tr><td>冬</td><td>1513</td><td>1993</td><td>1216</td><td>1175</td><td>5250</td><td>8</td><td>515</td><td>335</td><td>70</td><td>928</td></tr></table></body></html>
+
+式中：Nclear为晴空像元数；Nice为冰云像元数；Nliquid为水云像元数； $N _ { m i x }$ 为不确定相态和混合态云的像元数； $p$ 为所有情况是在降水条件下发生。
+
+非降水冰云的发生率 $F _ { n }$ 公式定义为：
+
+$$
+F _ { _ n } { = } \Bigg ( \frac { N _ { i c e } } { N _ { c l e a r } + N _ { l i q u i d } + N _ { i c e } + N _ { _ { m i x } } } \Bigg ) _ { n } \times 1 0 0 \%
+$$
+
+式中： $n$ 为所有情况是在非降水条件下发生。
+
+表2是京津冀及其4个分区四个季节非降水云发生率和降水云发生率的分布。一方面，京津冀非降水冰云的发生率整体呈现的特征是冬季最低、春季最高。ⅡI区在春季最高，其余区域在春季也相对较高。除I区外，其余区域均是在冬季最低。另一方面，降水冰云的发生率整体呈现的特征是冬季最低、夏季最高，但4个分区内非降水云和降水云的发生率情况有所差异。其中ⅡI区、IⅢ区在春秋较低、冬夏较高，IV区则在冬季较低、秋季较高，而I区四季的差异比较明显。曹亚楠等[5根据MODIS云产品对北京卷云发生率研究表明该地区冰云发生率的特点是春夏高、冬季低，这个研究结果与本文相对一致。冰云较易发生在对流旺盛的区域和水汽丰富的风暴带[20],而京津冀地区降水主要发生在夏季,因此降水的时空分布受地形影响明显[21]。总而言之，夏季京津冀地区降水冰云的发生率较高，4个分区的差异较大。
+
+由图2可以看出，降水冰云的发生率随四季浮动，其中2012年秋（ $1 2 \%$ ）、冬（ $10 \%$ )偏高，这和我国在2012年发生的强降水较多相关[22]。而2008年至2012年和2012一2016年降水冰云的发生率的差异表明京津冀降水冰云的发生率有较大变化。
+
+# 2.2降水冰云的云顶高度和云顶温度
+
+探索云系的云顶高度和云顶温度等云的宏观结构特征对于分析云系的人工作业的条件十分重要[23]。表3是京津冀及其4个分区云顶温度和云顶高度的平均值、最小值与最大值。总体而言，降水冰云云顶温度分布在 $2 0 5 \sim 2 7 3 \mathrm { K }$ ,云顶高度在 $1 . 4 \sim$ $1 7 . 2 \mathrm { k m }$ 。云顶温度在平均值上是冬季最低、夏季最高，在最小值上是冬季最高(216K）、夏季最低(205K);而云顶高度在冬季最低( $1 . 4 \sim 1 0 . 1 \mathrm { k m }$ ）、夏季最高 $( 5 . 2 \sim 1 7 . 2 \mathrm { k m } )$ ),这一特点在最值和均值方面均有体现。对各分区来说，云顶温度的差异较大，而除IV区云顶高度的最大值是在春季最高，其余各区平均值、最小值与最大值都是在夏季最高。在均值上，I区、II区在冬季最低、秋季最高，IⅢ区春季最低、秋季最高，而IV区秋季最低、冬季最高。在最小值上，II区、IⅢI区在夏季最高，I区和IV区在春季最低。
+
+# 2.3降水冰云的云层数
+
+WangandRossow利用在戈达德空间研究所的大气环流模式中的试验表明了云层数是云垂直方
+
+# 表2京津冀及其4个分区四季非降水冰云与降水冰云的发生率统计
+
+表1京津冀及其4个分区四季非降水冰云与降水冰云样本数量  
+Tab.2Nonprecipitating and precipitating ice clouds occurrence probability in Beijing-Tianjin-Hebei and its four subdivisions for four seasons   
+1%   
+
+<html><body><table><tr><td rowspan="2"></td><td colspan="5">非降水冰云</td><td colspan="5">降水冰云</td></tr><tr><td>I</td><td>II</td><td>IⅢI</td><td>IV</td><td>总数</td><td>I</td><td>II</td><td>IⅢI</td><td>IV</td><td>总数</td></tr><tr><td>春</td><td>29.1</td><td>29.4</td><td>28.1</td><td>30.1</td><td>29.2</td><td>7.1</td><td>2.9</td><td>1.5</td><td>5.8</td><td>4.1</td></tr><tr><td>夏</td><td>32.4</td><td>22.1</td><td>28.5</td><td>31.5</td><td>27.1</td><td>4.2</td><td>6.7</td><td>4.7</td><td>4.1</td><td>5.3</td></tr><tr><td>秋</td><td>31.0</td><td>25.1</td><td>23.4</td><td>30.6</td><td>27.3</td><td>1.3</td><td>2.9</td><td>3.8</td><td>10.2</td><td>4.8</td></tr><tr><td>冬</td><td>34.5</td><td>20.1</td><td>21.1</td><td>17.2</td><td>19.5</td><td>0.2</td><td>5.1</td><td>5.8</td><td>1.0</td><td>3.5</td></tr></table></body></html>
+
+![](images/9b75b3f3212130f1480805061603df69597d07edf07432f4e397eea17ba95322.jpg)  
+图2京津冀降水冰云的发生率分布趋势 Fig.2Occurrence probability of precipitating ice clouds in various regions in Beijing-Tianjin-Hebei
+
+向上一个重要的结构参数[24]。CloudSat卫星资料把云层数分为单层、双层、三层和三层以上。从不难看出，京津冀及其4个分区三层以上降水冰云在四个季节都极少，甚至为0。总体而言，京津冀整个地区降水冰云中(图3)，三层云的概率分别是 $3 . 3 \%$ （春季） $0 . 8 \%$ （夏季） $. 2 . 1 \%$ （秋季） $. 2 . 9 \%$ （冬季），双层云的概率分别是 $2 9 . 7 \%$ （春季） $1 9 . 3 \%$ （夏季） $3 0 . 1 \%$ （秋季）、 $56 . 1 \%$ （冬季），单层云的概率按分别是$6 7 . 0 \%$ （春季） $. 7 9 . 9 \%$ （夏季） $6 7 . 8 \%$ （秋季） $4 0 . 9 \%$ (冬季）。显然，京津冀的降水冰云春夏秋三季都以单层云为主，而在冬季则是以双层云为主。从4个分区看来，降水冰云除了I区春季、IⅢI区秋冬两季、IV区冬季是双层云占比较高，其余各区其余季节都是单层云占比较高。除此之外，京津冀及其4个分区的降水冰云三层云在夏季的比例最低。在1990s,单层云就是河北省数次人工作业的目标云[25]。因此,冷云人工作业时主要选取降水冰云单层云。
+
+# 2.4降水冰云的云类型
+
+云类及其发展状况不同是降水量分布不均的最直接原因[26]。2B-CLDCLASS云分类产品将云区分为深对流云、雨层云、积云、层积云、层云、高积云、高层云、卷云等8类[27]。由于层云是水云，因此本文不作考虑。图4是京津冀及其4个分区降水冰云云类型四季的分布情况。整体而言，京津冀各个地区降水冰云在春夏两季的类型较多，有7种，而秋季和冬季的类型相对较少，为6种和5种。夏季深对流云类型的降水冰云在总地区占比 $4 8 . 3 \%$ ,春季小于 $5 \%$ ,秋冬则为0。京津冀各地区除夏季外的其他季节雨层云所占的比例都是最高的，分别为春
+
+# 表3京津冀及其4个分区降水冰云的云顶温度和云顶高度的四季分布
+
+Tab.3 Nonprecipitating and precipitating ice clouds cloud top temperature and cloud top height in BeijingTianjin-Hebei and its foursubdivisions forfour seasons   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="4">I区</td></tr><tr><td>春</td><td>夏</td><td>秋</td><td>冬</td></tr><tr><td rowspan="4">云顶高度 /km</td><td>平均值</td><td>10.2</td><td>11.2</td><td>9.5</td><td>5.5</td></tr><tr><td>最小值</td><td>4.4</td><td>8.0</td><td>4.2</td><td>5.5</td></tr><tr><td>最大值</td><td>12.0</td><td>13.7</td><td>11.9</td><td>5.5</td></tr><tr><td>平均值</td><td>230</td><td>231</td><td>236</td><td>256</td></tr><tr><td rowspan="2">云顶温度 /K</td><td>最小值</td><td>219</td><td>221</td><td>226</td><td>256</td></tr><tr><td>最大值</td><td>256</td><td>250</td><td>261</td><td>256</td></tr></table></body></html>
+
+Ⅱ区  
+
+<html><body><table><tr><td colspan="2"></td><td>春</td><td>夏</td><td>秋</td><td>冬</td></tr><tr><td rowspan="3">云顶高度 /km</td><td>平均值</td><td>8.6</td><td>10.3</td><td>8.1</td><td>8.4</td></tr><tr><td>最小值</td><td>1.9</td><td>5.3</td><td>2.7</td><td>1.8</td></tr><tr><td>最大值</td><td>10.8</td><td>14.8</td><td>8.8</td><td>9.8</td></tr><tr><td rowspan="3">云顶温度 /K</td><td>平均值</td><td>236</td><td>233</td><td>238</td><td>226</td></tr><tr><td>最小值</td><td>223</td><td>214</td><td>232</td><td>216</td></tr><tr><td>最大值</td><td>273</td><td>266</td><td>270</td><td>260</td></tr></table></body></html>
+
+IⅢ区  
+
+<html><body><table><tr><td></td><td></td><td>春</td><td>夏</td><td>秋</td><td>冬</td></tr><tr><td rowspan="3">云顶高度 /km</td><td>平均值</td><td>10.7</td><td>11.9</td><td>7.8</td><td>8.9</td></tr><tr><td>最小值</td><td>10.1</td><td>5.4</td><td>1.6</td><td>4.2</td></tr><tr><td>最大值</td><td>11.4</td><td>17.2</td><td>13.1</td><td>10.1</td></tr><tr><td rowspan="3">云顶温度 /K</td><td>平均值</td><td>223</td><td>228</td><td>233</td><td>232</td></tr><tr><td>最小值</td><td>217</td><td>205</td><td>217</td><td>224</td></tr><tr><td>最大值</td><td>230</td><td>269</td><td>269</td><td>244</td></tr></table></body></html>
+
+IV区  
+
+<html><body><table><tr><td colspan="2"></td><td>春</td><td>夏</td><td>秋</td><td>冬</td></tr><tr><td rowspan="3">云顶高度 /km</td><td>平均值</td><td>9.0</td><td>10.7</td><td>10.6</td><td>6.5</td></tr><tr><td>最小值</td><td>2.3</td><td>7.4</td><td>4.1</td><td>1.4</td></tr><tr><td>最大值</td><td>14.9</td><td>12.4</td><td>16.7</td><td>8.9</td></tr><tr><td rowspan="3">云顶温度 /K</td><td>平均值</td><td>236</td><td>235</td><td>229</td><td>240</td></tr><tr><td>最小值</td><td>214</td><td>218</td><td>214</td><td>227</td></tr><tr><td>最大值</td><td>261</td><td>254</td><td>254</td><td>263</td></tr></table></body></html>
+
+总计  
+
+<html><body><table><tr><td></td><td></td><td>春</td><td>夏</td><td>秋</td><td>冬</td></tr><tr><td rowspan="3">云顶高度 /km</td><td>平均值</td><td>9.5</td><td>10.9</td><td>9.6</td><td>8.4</td></tr><tr><td>最小值</td><td>1.9</td><td>5.2</td><td>1.6</td><td>1.4</td></tr><tr><td>最大值</td><td>14.9</td><td>17.2</td><td>16.7</td><td>10.1</td></tr><tr><td rowspan="3">云顶温度 /K</td><td>平均值</td><td>233</td><td>237</td><td>232</td><td>230</td></tr><tr><td>最小值</td><td>214</td><td>205</td><td>214</td><td>216</td></tr><tr><td>最大值</td><td>273</td><td>269</td><td>269</td><td>263</td></tr></table></body></html>
+
+$( 7 1 . 0 \% )$ ，夏 $( 7 7 . 5 \% )$ ，秋 $( 6 7 . 7 \%$ )。积云、层积云、高积云、高层云、卷云型的降水冰云占比不多。其中，积云和高积云夏高冬低，层积云和卷云则完全相反，高层云则是春秋较高，冬夏较低。早前李晨蕊等[15]在研究东亚和南亚降水云时的结论印证了本文的结果。
+
+![](images/09dd362d02da40162325eda20d84689bc4a944919d655f4e2d7c108918fe06d9.jpg)  
+图3京津冀及其4个分区降水冰云云层数的四季分布
+
+就4个分区而言，春季各分区雨层云占比最高，其中I区雨层云的占比相对较低，II区、IⅢI区的云类型较少，仅为5种，II区、IV区都为7种；夏季在III区、IV区都以深对流云为主，而在I区、ⅡI区雨层云占比较高，IV区仅有6种云类型，I、II、III区都为7种；秋季在I、II、IV区雨层云占比最高，而IⅢI区是以高层云为主，但4个区域的云类型相对较少，分别为3种、4种、6种和6种；冬季各分区均是雨层云占比最高，其中I区的比例最高 $( 9 8 . 9 \%$ )，但是I区的云类型最少，仅为2种，其余分别为ⅡI区(5种）I区（4种)和IV(5种）。
+
+# 2.5降水冰云微物理量的垂直分布
+
+2B-CWC-RO云产品提供了云水含量信息[28]]为了探索冰云粒子在降水发生与发展过程中的分布规律，本文分析了这3种云水含量信息在海拔高度上的变化。
+
+![](images/2f2b57fcc7a4e28a15dc3e8167e5f67e0f84531bfd2532794086e35eb02bbf43.jpg)  
+Fig.3SeasonaldistributionofprecipitatingicecloudsindiferentlayersinBeijing-Tianjin-Hebeianditsfoursubdivisions   
+图4京津冀及其4个分区地区降水冰云云类型的四季分布
+
+Fig.4Seasonal distributionof precipitating iceclouds cloudtypes in Beijing-Tianjin-Hebei and itsfoursubdivisions
+
+2.5.1降水冰云粒子数浓度粒子数浓度是发生降水的判断依据，可以很好地反映降水的发生与发展[29]。整体而言，京津冀降水冰云粒子数浓度的分布高度分别为 $0 \sim 1 3 . 5 \mathrm { k m }$ （春季） $, 3 . 5 \sim 1 7 . 0 ~ \mathrm { k m }$ （夏季） $. 1 . 0 \sim 1 4 . 0 \mathrm { k m }$ （秋季） $0 \sim 1 1 . 0 \mathrm { k m }$ (冬季）;最大值分别为 $1 0 3 . 3 \mathrm { L } ^ { - 1 }$ （春季） $1 7 1 . 8 \mathrm { L } ^ { - 1 }$ （夏季） $1 1 4 . 3 \mathrm { L } ^ { - 1 }$ （秋季） $\cdot 6 7 . 6 \mathrm { L } ^ { - 1 }$ （冬季），最大值所在的海拔高度分别为 $9 . 6 \mathrm { k m }$ （春季） $9 . 8 \mathrm { k m }$ （夏季） $. 8 . 6 \mathrm { k m }$ （秋季），8.8$\mathrm { k m }$ (冬季)（图5)。张华等[30]对东亚云特征分布的研究印证了我们的结果，影响粒子数浓度变化的因素主要是水汽条件和温度，由于夏季对流较多再加上温度较高，有利于垂直高度上的水汽输送，因此海拔高度越高，粒子数浓度的值越大。
+
+就4个分区而言，春季粒子数浓度在IⅢ区的分布高度及值明显高于其他区域,其最大值的差值达$9 0 { \mathrm { ~ L } } ^ { - 1 }$ ;夏季4个区域随高度分布无较大差异，均为单峰结构，最大值的差值为 $7 0 \mathrm { L } ^ { - 1 }$ 左右；秋季粒子数浓度在IV区的分布高度和值相对较大，是明显的单峰结构，而其他3个区域则有多个峰值，最大值的差值为 $9 0 { \mathrm { L } } ^ { - 1 }$ 左右;冬季其在4个分区随高度分布都有多个峰值，I区是最大的，但所在海拔高度却较低，最大值的差值为 $4 5 \mathrm { L } ^ { - 1 }$ 左右。
+
+2.5.2降水冰云冰水含量冰水含量体现了冰云中含有的冰晶质量[31]。整体而言,该地区降水冰云的冰水含量的海拔高度与粒子数浓度大体一致，分别为 $0 \sim 1 3 . 5 ~ \mathrm { k m }$ （春季） $3 . 5 \sim 1 7 . 0 ~ \mathrm { k m }$ （夏季） $1 . 0 \sim$ $1 4 . 0 \mathrm { k m }$ （秋季） $. 0 \sim 1 1 . 0 ~ \mathrm { k m }$ （冬季）；最大值分别为$1 3 9 . 1 \mathrm { m g } \cdot \mathrm { m } ^ { - 3 }$ （春季） $. 2 9 7 . 8 ~ \mathrm { m g } \cdot \mathrm { m } ^ { - 3 }$ （夏季） $1 4 2 . 1 \mathrm { m g }$ $\mathrm { m } ^ { - 3 }$ （秋季） $. 5 2 . 1 ~ \mathrm { m g } \cdot \mathrm { m } ^ { - 3 }$ （冬季）,最大值所在的海拔高度分别为 $6 . 7 \mathrm { k m }$ （春季） $\ 、 8 . 3 \mathrm { k m }$ （夏季） $\phantom { 0 } { . 6 . 0 } \mathrm { k m }$ （秋季） $. 3 . 6 \mathrm { k m }$ (冬季）(图6)。夏季冰水含量的分布高度、最大值及其所在高度均为最大，这一点和夏季温度较高、水汽较为充足是紧密相关的。
+
+就4个分区而言，春季冰水含量在I区、IⅢI区随高度分布是单峰结构,在II区、IV区则是多峰结构,其中II区的主要的海拔高度和最大值明显大于其他区域，最大值和其他3个分区的差值可达 $1 3 5 \mathrm { m g } { \cdot } \mathrm { m } ^ { - 3 }$ ；夏季冰水含量在4个分区随高度变化无较大差异，均为单峰结构,最大值的差值为 $1 4 0 \mathrm { m g } \cdot \mathrm { m } ^ { - 3 }$ ;秋季冰水含量在IV区的主要分布高度和最大值相对较大，最大值的差值可达 $1 4 0 \mathrm { m g } \cdot \mathrm { m } ^ { - 3 }$ ;冬季冰水含量在I区远远大于其他区域,最大值的差值可达 $1 4 0 \mathrm { m g } { \cdot } \mathrm { m } ^ { - 3 }$ 。
+
+2.5.3 降水冰云粒子有效半径云微物理过程可以受粒子有效半径的影响，因此粒子有效半径能够影响降水过程[32]。整体而言，京津冀降水冰云粒子有效半径的分布高度与冰水含量和粒子数浓度的分布高度大体一致，分别为 $0 \sim 1 3 . 5 ~ \mathrm { k m }$ （春季） $. 3 . 5 \sim$ $1 7 . 0 \mathrm { k m }$ （夏季） $. 1 . 0 \sim 1 4 . 0 \mathrm { k m }$ （秋季） $\ 、 0 \sim 1 1 . 0 \mathrm { k m }$ （冬季);最大值按分别为 $9 2 . 0 ~ \mu \mathrm { m }$ （春季） $1 0 3 . 1 ~ { \mu \mathrm { m } }$ （夏季） $8 5 . 9 \mu \mathrm { m }$ （秋季） $8 8 . 1 ~ \mu \mathrm { m }$ （冬季），最大值所在的海拔高度分别为 $4 . 1 ~ \mathrm { k m }$ （春季） $5 . 2 \mathrm { k m }$ （夏季）、4.3$\mathrm { k m }$ （秋季） $. 3 . 1 \ \mathrm { k m }$ (冬季）(图7)。夏季粒子有效半径的分布高度、最大值及其所在高度均为最大。
+
+![](images/3b9159ef32079b9b5b7c711a41ea2198e6f61f690017cb61646847e49938da94.jpg)  
+图5京津冀及其4个分区降水冰云粒子数浓度随高度变化的四季分布  
+Fig.5Seasonal distribution of precipitating ice clouds particle number concentration with altitude in Beijing-Tianjin-Hebei and its four subdivisions
+
+![](images/60d621dae2cfc307b03c3334d8f3b3b89d55bece25297c594d722793bbad5cab.jpg)  
+图6京津冀及其4个分区降水冰云冰水含量随高度变化的四季分布 Fig.6Seasonal distribution of precipitating ice clouds ice water content with altitude in Beijing-Tianjin-Hebei and its four subdivisions
+
+就4个分区而言，春季粒子有效半径在IⅢ区的海拔高度和值也大于其他3个分区，是单峰结构，最大值的差值在 $4 0 ~ \mu \mathrm { m }$ 左右；夏季粒子有效半径在4个分区随高度变化也无较大差异，均为单峰结构，最大值的差值在 $2 0 ~ \mu \mathrm { m }$ 左右;秋季其在4个分区的最大值差异较小， $1 0 ~ \mu \mathrm { m }$ 左右，对应高度仅为2\~6$\mathrm { k m }$ ;冬季其在I区和III区的最大值相对大于ⅡI区和IV区,最大值的差值是 $2 5 ~ { \mu \mathrm { m } }$ 左右。
+
+# 3结论
+
+利用2008年9月\~2016年8月CloudSat和MO-
+
+![](images/705371a0ff903b0278af1b623c3fab56f7768a380f499b17db5f063b2179fbdb.jpg)  
+图7京津冀及其4个分区降水冰云粒子有效半径随高度变化的四季分布  
+Fig.7Seasonal distributionof precipitating iceclouds particle effectiveradius with altitudein Beijing-Tianjin-Hebei and its four subdivisions
+
+DIS云产品资料，把京津冀地区分为4个分区，研究了降水冰云的发生率、云顶高度与云顶温度、云层数、云类型、云微物理量(冰水含量、粒子数浓度及粒子有效半径)随四季变化的特征，对于降水天气预报和冷云人工催化具有一定的应用价值和研究意义，结论如下：
+
+（1）京津冀整个地区降水冰云发生率在夏季最高，2012年尤其偏高，这一年前后降水冰云的发生率差异较大。（2）京津冀整个地区降水冰云的云顶温度的最小值在冬季最高、夏季最低;云顶高度在冬季最低、夏季最高，但IV区最大值在春季，而4个分区云顶温度和云顶高度有较大差异。（3）京津冀整个地区降水冰云春夏秋三季都以单层云为主，而冬季以双层云为主。（4）京津冀整个地区降水冰云的类型在春夏两季较多，有7种，而秋季和冬季的类型较少，为6种和5种。降水冰云在夏季深对流云占比最高（占$4 8 . 3 \%$ ),春秋冬三季雨层云占比最高。(5）降水冰云微观物理量(冰水含量、粒子数浓度、粒子有效半径)主要海拔高度均在 $0 \sim 1 3 . 5 ~ \mathrm { k m }$ （春季） $3 . 5 \sim 1 7 . 0 \mathrm { k m }$ （夏季） $1 . 0 \sim 1 4 . 0 \mathrm { k m }$ （秋季）、$0 \sim 1 1 . 0 \mathrm { k m }$ （冬季）。其中，冰水含量和粒子数浓度的主要海拔高度和最大值都是冬季最低、春季较低、秋季较高、夏季最高，最大值的海拔高度仍是冬季最低、夏季最高，但秋季低于春季；在最大值方面粒子有效半径则是秋季最低、冬季较低、春季较高、夏季最高。除此之外，这三种微物理量随高度的分布特征夏季在京津冀各分区较为一致，都呈单峰结构，在其他季节差异较大。
+
+# 参考文献(References）
+
+[1]周毓荃,蔡淼,欧建军,等.云特征参数与降水相关性的研究[J] 大气科学学报,2011,34(6):641-652.[ZHOU Yuquan,CAI Miao,OUJianjun,et al.Correlation between cloud characteristic parameters and precipitation[J]. Transactions of Atmospheric Sciences,2011,34(6): 641-652.]   
+[2]刘健,董超华,朱元竞,等.FY-1C资料在云顶粒子热力学相态 分析中的应用研究[J].大气科学,2003,27(5):901-908.[LIU Jian,DONG Chaohua,ZHU Yuanjing,et a1.Thermodynamic phase analysis of cloud particleswithFY-1C data[J]. Chinese Journal of Atmospheric Sciences,2003,27(5): 901-908.]   
+[3]李特,郑有飞,王立稳,等.基于MODIS产品的中国陆地冰云季 节变化特征[J].应用气象学报,2017,(6):724-736.[LITe, ZHENG Youfei, WANG Liwen,et al. Ice cloud distribution and seasonal migration over land area of China based on MODIS data[J]. Journal of Applied Meterological Science,2017, (6): 724-736.]   
+[4]MEYER K, YANG P, GAO B C. Tropical ice cloud optical depth, ice water path,and frequency fields inferred from the MODIS level-3 data[J]. Atmospheric Research,2007,85(2): 171-182.   
+[5]曹亚楠,魏合理,徐青山.基于MODIS 云产品的北京地区卷云 特性统计分析[J].大气与环境光学学报,2013,8(4):271-281. [CAO Yanan,WEI Heli,XU Qingshan.Statistics analysis of cirrus properties in Beijing region based on MODIS cloud products[J]. Journal of Atmospheric and Environmental Optics,2013,8(4): 271-281.]   
+[6]赵姝慧.利用 TRMM卫星和CloudSat卫星对不同类型云系的 中微尺度结构的研究分析[D].南京:南京信息工程大学,2008. [ZHAO Shuhui.A study on the mesoscale and microscale structure in different types of clouds by TRMM satellite and Cloudsat satelite[D]. Nanjing:Nanjing University of Information Science and Technology,2008.]   
+[7]STEIN TH M, DELANE J, HOGAN R, et al. A comparison among four different retrieval methods for ice-cloud properties using data from CloudSat, CALIPSO,and MODIS[J]. Journal of Applied Meteorology and Climatology,2011,50(9): 1952-1969   
+[8]KUEHNLEIN M,APPELHANS T, THIES B,et al. An evaluation of a semi-analytical cloud property retrieval using MSG SEVIRI, MODISandCloudSat[J].Atmospheric Research，2013，122 (MAR.): 111-135.   
+[9]HONG Y,LIUG.Global ice cloud properties based on CALIPSO and CloudSat measurements and their radiative effect[C]//AGU Fall Meeting Abstracts,2013.   
+[10] 赵宇,朱皓清,蓝欣,等.基于CloudSat资料的北上江淮气旋暴 雪云系结构特征[J].地球物理学报,61(12):4789-4804.[ZHAO Yu, ZHU Haoqing,LAN Xin,etal. Structure of the snowstorm cloud associated with northward Jiang-Huai cyclone based on Cloudsat satellite data[J]. Chinese Journal of Geophysics,2018,61(12): 4789- 4804.]   
+[11] 刘屹岷,燕亚菲,吕建华,等.基于CloudSat/CALIPSO卫星资料 的青藏高原云辐射及降水的研究进展[J].大气科学,2018,42 (4): 847-858.[LIU Yimin, YAN Yafei,LYU Jianhua,et al.Review of current investigations of cloud,radiation and rainfall over the Tibetan Plateau with the CloudSat/CALIPSO dataset[J].Chinese Journal of Atmospheric Sciences, 2018,42(4): 847-858.]   
+[12] 尚博.利用CloudSat对华北、江淮云垂直结构及降水云特征的 研究[D].南京:南京信息工程大学,2011.[SHANG Bo. Research on vertical structure of cloud and precipitation feature of CloudSat data innorthChinaandJianghuaiD.Nanjing:Nanjing University of Information Science and Technology,2011.]   
+[13] 刘肠,赵姝慧,蔡波,等.基于CloudSat资料的东北地区降水云 及非降水云垂直结构特征对比分析[J].气象,2017,43(11): 1374-1382.[LIU Wei, ZHAO Shuhui, CAI Bo,et al. Comparison of vertical structure between precipitation cloud and non-precipita
+
+# 干吴区地理
+
+tion cloud based on CloudSat data over northeast China[J]. Meteorology,2017,43(11): 1374-1382.]   
+[14]ROSS A,HOLZ R E,ACKERMAN S A. Correlations of oriented ice and precipitation in marine midlatitude low clouds using collocated CloudSat, CALIOP,and MODIS observations[J]. Journal of Geophysical Research: Atmospheres,2017,122(15): 8056-8070.   
+[15] 李晨蕊,王天河,吕巧谊,等.基于CloudSat的东亚和南亚季风 区降水云特征分析[J].兰州大学学报(自然科学版),2018,54 (3): 345-355.[LI Chenrui,WANG Tianhe,LYU Qiaoyi,et al. Characteristics of precipitating cloud over East and South Asian monsoon region based on CloudSat[J]. Journal of Lanzhou University: Natural Sciences,2018,54(3): 345-355.]   
+[16] 郑倩,郑有飞,王立稳,等.京津冀夏季强降水下冰云宏微观特 征[J].干旱区地理,2019,42(1): 67-76.[ZHENG Qian, ZHENG Youfei,WANG Liwen,et al. The macrophysical and microphysical properties of ice clouds during heavy rainfals in Beijing-Tianjin-Hebei region in summer[J].Arid Land Geography,2O19,42(1): 67-76.]   
+[17]鲍超,贺东梅.京津冀城市群水资源开发利用的时空特征与政 策启示[J].地理科学进展,2017,36(1):58-67.[BAO Chao,HE Dongmei. Spatiotemporal characteristics of water resources exploitation and policyimplications in the Beijing-Tianjin-Hebei urban agglomeration[J].Progress in Geography,2017,36(1): 58-67.]   
+[18] 周著华,白洁,刘健文,等.MODIS 多光谱云相态识别技术的应 用研究[J].应用气象学报，2005,16(5):678-684.[ZHOU Zhuhua,BAI Jie,LIU Jianwen,et al. The application of cloud phase recognition by MODIS spectral data[J]. Journal of Applied Meterological Science,2005,16(5): 678-684.]   
+[19] 郑倩,郑有飞,王立稳,等.京津冀地区夏季降水冰云和非降水 冰云云特征对比分析[J].气候与环境研究,2020,25(1):77-89. [ZHENG Qian,ZHENG Youfei,WANG Liwen,et al.Comparative analysis of the features of precipitating and nonprecipitating ice clouds in the Beijing-Tianjin-Hebei region in summer[J]. Climatic and Environmental Research,2020,25(1): 77-89.]   
+[20] 林彤,郑有飞,李特,等.基于卫星资料的中国西北地区冰云特 征分析[J].高原气象,2018,37(4):1051-1060.[LIN Tong, ZHENG Youfei,LI Te,et al. The characteristics of ice cloud propertiesderived from satellite data in northwest China[J].Plateau Meteorology,2018,37(4): 1051-1060.]   
+[21] 温煦.京津冀地区暖季降水特征分析[D].兰州:兰州大学, 2016.[WEN Xu. Characteristics of warm-season precipitation over Beijing-Tianjin-Hebei [D]. Lanzhou: Lanzhou University,2016.]   
+[22] 梁苏洁,程善俊,郝立生,等.1970—2015 年京津冀地区暖季小 时降水变化特征[J].暴雨灾害,2018,37(2):105-114.[LIANG Sujie, CHENG Shanjun,HAO Lisheng,et al. Analysis on the characteristics of hourly precipitation variations in Beijing-Tianjin-Hebei region during 197O—2015 [J]. Torrential Rain and Disasters   
+2018,37(2): 105-114.] [23] 尚博,周毓荃,刘建朝,等.基于Cloudsat 的降水云和非降水云 垂直特征[J].应用气象学报,2012,23(1):1-9.[SHANG Bo, ZHOU Yuquan, LIU Jianchao,et al. Comparing vertical structure of precipitation cloud and non-precipitation cloud using Cloudsat [J]. Journal of Applied Meterological Science,2012,23(1): 1-9.] [24] WANG JH, ROSSOW WB. Effects of cloud vertical structure on atmospheric circulation in the GISS GCM[J]. Journal of Climate,   
+1998,11: 3010-3029. [25]游景炎,段英,游来光.云降水物理和人工增雨技术研究[M]. 北京：气象出版社,1994.[YOU Jingyan,DUAN Ying,YOU Laiguang. The research of cloud and precipitation physics and weather modification[M]. Beijing: China Meteorological Press,1994.] [26] 邓军英.云卫星在降水云研究中的应用[D].上海:东华大学,   
+2014.[DENG Junying.Application of CloudSat in the study of precipitation clouds[D]. Shanghai: Donghua University,2014.] [27]SASSEN K,WANG Z. Classifying clouds around the globe with the CloudSat radar: 1 year of results[J]. Geophysical Research Letters,2008,35(4): L04805,doi: 10.1029/2007GL032591. [28]AUSTIN R T,HEYMSFIELD A J, STEPHENS G L. Retrieval of ice cloud microphysical parameters using the CloudSat millimeter wave radar and temperature[J]. Journal of Geophysical Research: Atmospheres,2009,114(D8),doi:10.1029/2008JD010049. [29]光莹,邓军英,陈勇航,等.层状云微物理属性垂直分布的季节 变化———以新疆地区为例[J].干旱区地理,2017,40(4):754-   
+761.[GUANG Ying,DENG Junying,CHEN Yonghang,et al. Vertical distributionand its seasonal variationof microphysical properties of stratiform clouds in Xinjiang[J].Arid Land Geography,   
+2017, 40(4): 754-761.] [30] 张华,杨冰韵,彭杰,等.东亚地区云微物理量分布特征的 CloudSat卫星观测研究[J].大气科学,2015,39(2):235-248. [ZHANG Hua,YANG Bingyun,PENG Jie,et al. The characteristics of cloud microphysical properties in East Asia with the CloudSat dataset[J]. Chinese Journal of Atmospheric Sciences,2015,39 (2): 235-248.] [31] 杨冰韵,张华,彭杰,等.利用CloudSat卫星资料分析云微物理 和光学性质的分布特征[J].高原气象,2014,33(4):1105-1118. [YANG Bingyun, ZHANG Hua,PENG Jie, et al. Analysis on global distribution characteristics of cloud microphysical and optical properties based on the CloudSat data[J]. Plateau Meteorology,   
+2014,33(4): 1105-1118.] [32]HEYMSFIELD A J,PROTAT A, BOUNIOL D,et al. Testing IWC retrieval methods using radar and ancillary measurements with in situ data[J].Journal ofAppliedMeteorologyandClimatology,   
+2008,47(1): 135- 163.
+
+# Seasonal distribution characteristics of precipitating ice clouds in BeijingTianjin-Hebei region based on MODIS and CloudSat
+
+ZHENG Qian1²， ZHENG You-fei2³， WANG Li-wen²， Gao Ya² (1Meteorological Bureau ofQuzhou City,Quzhou 3240oo,Zhejiang,China；2 Taihu Universityof Wuxi, Wuxi 21oo44,Jiangsu,China;3SchoolofAtmospheric Physics,Nanjing University of InformationScience&Technology,Nanjing 214oo0,Jiangsu,China)
+
+Abstract: Beijing-Tianjin-Hebei is aregion where water resourcesare scarce.Studying nonprecipitating and precipitating ice clouds is helpful forunderstanding theartificial precipitation enhancement potential and precipitation mechanism. Using the cloud product of CloudSat and Aqua MODIS from September 2O08 to August 2016,the Beijing-Tianjin-Hebei region was divided into four sub-areas to studythe distribution of precipitating ice clouds, including theoccurrence probability,cloud top heightand cloud top temperature,the numberof cloud layers,cloud type,ice water content,particle concentration,and particle efective radius in the Beijing-Tianjin-Hebei region. Results showthat the occurrence probabilityof precipitating ice clouds in Beijing-Tianjin-Hebei region is higher in summer with increasing incidencerate.The occurrnce probabilityof precipitating ice clouds in 2O12 is observed to bethe highest,while theoccurrnce probability of precipitating ice clouds after 2O12 is higher than that of the precipitating ice clouds before 2012.The cloud top height of the precipitating ice clouds cloud top in BeijingTianjin-Hebei is lowest in winter and the highest in summer.The minimum clout top temperature of the precipitating ice clouds in Beijing-Tianjin-Hebei is the highest in winter and the lowest in summer.The types of precipitation iceclouds in the Beijing-Tianjin-Hebei area are7,6,6,and5 inspring,summer,autumn,and winter, respectively.The precipitating ice clouds in this area are mainly deep convective clouds in summer (48.3 $\%$ ),while others aredominanted by nimbostratus.The main distribution height of the precipitating ice clouds’microphysical quantities (including ice water content,particle concentration,and particle effctive radius)are O-13.5 km, $3 . 5 \mathrm { - }$ （20 $1 7 . 0 \ \mathrm { k m }$ ,1.0-14.O km,and O-11.O km according to the four seasons.The distribution height and the maximum value of ice water content and particle concentration are the lowest in winterand the highest in summer.The maximum height is the lowest in winter and highest in summer,and the maximum particle efective radius is he lowest in autumnandthe highest in summer.Inaddition,insummer,thedistribution characteristicsof these three microphysical quantities with height are relatively consistent in Beijing-Tianjin-Hebei in summer with allhaving a single-peak structure.
+
+Key Words: Beijing-Tianjin-Hebei; precipitation; ice clouds; seasonal characteristics; CloudSat

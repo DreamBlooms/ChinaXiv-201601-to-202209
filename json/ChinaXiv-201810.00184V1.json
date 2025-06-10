@@ -1,0 +1,523 @@
+[
+    {
+        "type": "text",
+        "text": "Simulating hydrological responses to climate change using dynamic and statistical downscaling methods: a case study in the Kaidu River Basin, Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BA Wulong1,2, DU Pengfei1\\*, LIU Tie², BAO Anming², LUO Min2,3， Mujtaba HASSAN4,QIN Chengxin1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State KeyLaboratoryofEnvironmental SimulationandPolutionControl,ScholofEnvironment,Tsinghua University Beijing 100084, China;   \n2 State KeyLaboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecologyand Geography,Chinese Academyof Sciences, Urumqi 830011,China;   \n3 University of Chinese Academy of Sciences,Beijing 10o049, China;   \n4 Department of Space Sciences, Institute of Space Technology, Islamabad 440oo, Pakistan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Climate change may affect water resources by altering various processes in natural ecosystems. Dynamic and statistical downscaling methods are commonly used to assess the impacts of climate change on water resources. Objectively, both methods have their own advantages and disadvantages. In the present study, we assessed the impacts of climate change on water resources during the future periods (2020-2029 and 2040-2049) in the upper reaches of the Kaidu River Basin, Xinjiang, China,and discussd the uncertainties in the research processes by integrating dynamic and statistical downscaling methods (regional climate models (RCMs) and general circulation modes (GCMs)) and utilizing these outputs. The reference period for this study is 1990-1999. The climate change trend is represented by three bias-corrected RCMs (i.., Hadley Centre Global Environmental Model version 3 regional climate model (HadGEM3-RA), Regional Climate Model version 4 (RegCM4), and Seoul National University Meso-scale Model version 5 (SUN-MM5) and an ensemble of GCMs on the basis of delta change method under two future scenarios ( $\\mathrm { R C P 4 } . 5$ and RCP8.5). We applied the hydrological SWAT (Soil and Water Assessment Tool) model which uses the RCMs/GCMs outputs as input to analyze the impacts of climate change on the stream flow and peak flow of the upper reaches of the Kaidu River Basin. The simulation of climate factors under future scenarios indicates that both temperature and precipitation in the study area will increase in the future compared with the reference period, with the largest increase of annual mean temperature and largest percentage increase of mean annual precipitation being of $2 . 4 ^ { \\circ } \\mathrm { C }$ and $3 8 . 4 \\%$ , respectively. Based on the results from bias correction of climate model outputs, we conclude that the accuracy of RCM (regional climate model) simulation is much better for temperature than for precipitation. The percentage increase in precipitation simulated by the three RCMs is generally higher than that simulated by the ensemble of GCMs.As for the changes in seasonal precipitation,RCMs exhibit a large percentage increase in seasonal precipitation in the wet season, while the ensemble of GCMs shows alarge percentage increase in the dry season. Most of the hydrological simulations indicate that the total stream flow will decrease in the future due to the increase of evaporation, and the maximum percentage decrease can reach up to $2 2 . 3 \\%$ . The possibility of peak flow increasing in the future is expected to higher than $9 9 \\%$ . These results indicate that less water is likely to be available in the upper reaches of the Kaidu River Basin in the future,and that the temporal distribution of flow may become more concentrated. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords: RCM; GCM; climate change; downscaling; bias correction; SWAT; Tianshan Mountains ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Global climate change may affect water resources worldwide by altering various processes in natural ecosystems (Xu and Singh, 2004; Mupenzi et al., 2011). Landman (2007) estimated that greenhouse gas emissions are expected to cause global warming to continue throughout the $2 1 ^ { \\mathrm { s t } }$ century. However, the impacts of climate change will vary between regions because of variations in the circulation of the atmosphere and the related moisture (Lana et al., 2016). Therefore, having reliable information related to climate change at regional scales is crucial to providing effective adaption and mitigation measures to climate change. Currently, studies on the impacts of climate change primarily concentrates on using general circulation models (GCMs). The coarse resolution of GCMs makes it difficult to provide precise information at a regional scale. Statistical downscaling method (SDM) and dynamic downscaling method (DDM) are two approaches that have been developed for downscaling the climate variables from GCMs (Mearns et al., 1999; Busuioc et al., 2006). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SDM and DDM use different techniques to extract climate change signals. The SDM predicts future regional climate by establishing a statistical relationship between GCM (general circulation model) outputs and multi-year observational climate data at large and regional scales. However, this approach does not produce detailed spatial information (Christensen and Christensen， 2007; Zhang and Huang， 2013). In contrast， the DDM can produce climate projections with higher spatial resolution using a regional climate model (RCM) coupled to GCM. This approach is heavily influenced by the boundary conditions provided by GCMs. The SDM has the primary advantages of being computationally inexpensive and easy to apply, whereas running an RCM requires a large amount of computational resources and extensive knowledge of computing. Therefore, SDMs are commonly considered as complementary to DDMs (Sachindra et al., 2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To date， several RCM-coordinated projects have been developed, including Prediction of Regional Scenarios and Uncertainties for Defining European Climate Change Risks and Effects (PRUDENCE; Christensen et al., 2007), ENSEMBLES (Hewitt, 2004), Regional Climate Model Intercomparison Project (RMIP； Fu et al.， 2O05)， and Coordinated Regional Downscaling Experiment (CORDEX; Giorgi et al.， 2009)， etc. However, most of the domain covered by RCM-coordinated projects is European and American continents, and only a few outputs are available in East Asia (Coordinated Regional Downscaling Experiment-East Asia (CORDEX-EA) being one of them). The CORDEX project (http://www.cordex.org/)， sponsored by the World Climate Research Programme， aims to overcome the deficiencies of Coupled Model Inter-comparison Project Phase 5 (CMIP5) GCMs by using different RCMs at a high resolution over twelve different domains (Giorgi et al.， 2O09). The domain of CORDEX-EA covers East Asia, India, western Pacific Ocean, and northern Australia. The number of grid points is 233 (west-east) by 197 (north-south) horizontal grids centering at $2 2 ^ { \\circ } 0 2 ^ { \\prime } \\mathrm { N }$ and $1 1 8 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ with a nominal horizontal resolution of $5 0 ~ \\mathrm { k m }$ . The Met Office Hadley Centre developed the Hadley Centre Global Environmental Model, version 2-Atmosphere-Ocean (HadGEM2-AO) GCM, and the GCM was provided by the National Institute of Meteorological Research，Korea Meteorological Administration. All RCMs used the HadGEM2-AO GCM as boundary conditions under two scenarios (RCP4.5 and RCP8.5) from the Intergovernmental Panel on Climate Change (Bellouin et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In arid and semi-arid mountainous areas with fragile ecological conditions, water resources mainly come from glaciers, snowmelt and precipitation, and are vulnerable to the negative impacts of climate change. The Tarim River is situated in the south of the Tianshan Mountains and is the longest inland river in China. The Kaidu River, located in Bayingol Mongolian Autonomous Prefecture, Xinjiang of China, serves as a main tributary of the Tarim River. The source region of the Kaidu River connects the Bayanbulak Swan Nature Reserve and eventually flows into the Bosten Lake, the largest inland freshwater lake in China. The surrounding alpine mountains provide abundant water sources to the grassland and irrigation land in the downstream region. Therefore, the Kaidu River is important for maintaining the stability of the environment as well as the productivity and livelihood of the local residents. Due to arid and semi-arid environment, the ecosystem in the Kaidu River Basin is especially fragile and sensitive to climate change and human activities.Thus, it is necessary to determine the hydrological responses of the Kaidu River Basin within the context of climate change. Numerous studies have been conducted to analyze the impacts of climate change on water resources in the Kaidu River Basin (Yang and Cui, 2005; Xu et al., 2008; Jiang et al., 2011; Liu et al.,2011; Wang et al., 2013). These studies utilized the outputs of GCMs coupled with hydrological models, and analyzed the hydrological responses of the river basin based on the predicted climate change. For example, Liu et al. (2011) analyzed the outputs from 36 GCMs in two hydrological models,and revealed that the snowmelt rate increases and the snowmelt period willbe pushed forward in time via changes in temperature. Fang et al. (2O15) compared the application of five precipitation and three temperature correction methods for downscaling RCM simulations over the Kaidu River Basin, and pointed out that different correction methods for precipitation could create large differences in the results, while correction methods for temperature showed relatively consistent results. Xu et al. (2O16) used two SDMs to downscale the Hadley Centre Coupled Model version 3 (HadCM3) outputs in order to project the future climate scenarios in the Kaidu River Basin. Under scenarios A2 and B2, they found that the basin would experience an increasing trend in temperature as well as an indistinct change trend in precipitation during 2O11-2040. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the above studies, we can see that the impacts of climate change on water resources in the Kaidu River Basin at different temporal and spatial scales remain an open research question. Selecting appropriate and optimal climate and hydrological models is the key to solving this problem. Conducting a comprehensive assessment of hydrological responses to climate change using statistical or dynamical downscaling GCM outputs in conjunction with hydrological models has been attempted in some previous studies (Wilby et al., 200O; Fu et al., 2011). In the present study, outputs from different dynamic downscaling methods under the same boundary conditions were used to assess the impacts of climate change on water resources in the upper reaches of the Kaidu River Basin. It should be noted that we used the multi-GCM set averaging approach as a complement to avoid the systematic bias that originates from the single boundary condition. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Reducing the uncertainties associated with the downscaling methods and determining the structure of hydrological models are the major issues that to be addressed to accurately estimate the impacts of climate change on water resources. DDMs can produce high-resolution climate projections by nesting a GCM and an RCM. However, previous applications of RCMs have mainly obtained initial boundary conditions from a single GCM. It is possible that the use of a single GCM amplifies the uncertainty. Moreover, a large number of the uncertainties introduced in RCMs are caused by the internal dynamics of RCMs as well as by external forcing. Thus, applying the outputs from a single RCM in a hydrological model may potentially amplify the uncertainty (Foley, 2010; Wehner, 2013). With regard to the structure of hydrological models, the distributed hydrological models have more advantages when compared with lumped conceptual models. First， a distributed hydrological model can reflect the physical mechanisms of hydrological processes. This produces less uncertainty than a lumped conceptual model. Second, a distributed hydrological model that has been validated is applicable to areas lacking meteorological data. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For this study, one of our goals is to reduce the uncertainty associated with the use of a single downscaling method in hydrological modeling. Therefore, we used three RCMs (i.e.， Hadley Centre Global Environmental Model version 3 regional climate model (HadGEM3-RA), Regional ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Climate Model version 4 (RegCM4), and Seoul National University Meso-scale Model version 5 (SUN-MM5)) and an ensemble of GCMs under two scenarios (RCP4.5 and RCP8.5) to project the trends of climate change in the upper reaches of the Kaidu River Basin. A distributed hydrological model was then used to analyze the hydrological responses of the Kaidu River Basin to climate change during future period (2020-2049). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Kaidu River Basin is located in Xinjiang, China and lies along the central and southern slopes of the Tianshan Mountains in Xinjiang $( 4 2 ^ { \\circ } 1 4 ^ { \\prime } \\mathrm { N } - 4 3 ^ { \\circ } 2 1 ^ { \\prime } \\mathrm { N }$ ， $8 2 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E } { - } 8 6 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E }$ ; Fig. 1). The basin covers an area of $1 8 . 9 { \\times } 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 2 }$ above the Dashankou hydrological station (namely the upper reaches of the Kaidu River Basin). The Kaidu River has a total length of $5 6 0 \\mathrm { k m }$ . The origin of the river is in Yilianhabierga Mountain. The river flows through the Yulduz and Yanqi basins, and eventually enters into the Bosten Lake. The Kaidu River at the Dashankou hydrological station contributes $3 5 . 1 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ in annual runoff volume or $8 5 \\%$ of the annual inflow into the Bosten Lake (Zhang et al., 2O14). The elevation of the upper reaches of the Kaidu River Basin ranges from 1293 to $4 7 9 6 \\mathrm { m }$ a.s.l. (Fig. 1), with an average elevation of $3 1 0 0 \\mathrm { m }$ a.s.l. (Liu et al., 2017). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study， one meteorological station (Bayanbulak) and two hydrological stations (Bayanbulak and Dashankou) were utilized to document climate conditions in the upper reaches of the Kaidu River Basin. Data from another meteorological station (i.e., Baluntai) near this basin were also employed in this research (Fig. 1). The upper reaches of the Kaidu River Basin features a temperate continental arid climate, with mean annual precipitation of approximately $2 7 0 ~ \\mathrm { m m }$ The study area has a long winter that lasts from November to March next year. Annual mean temperature and the extreme minimum temperatures are $- 3 . 8 5 ^ { \\circ } \\mathrm { C }$ and $- 4 8 . 1 ^ { \\circ } \\mathrm { C }$ ,respectively (Xue et al., 2016). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88e263699a04816b942c50a46410b93e4e0b54b62def97234d3218b1a24cb65.jpg",
+        "img_caption": [
+            "Fig.1 Overview and the location of the upper reaches of the Kaidu River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Climate model outputs and bias correction ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this study, both dynamic and statistical downscaling outputs were used to explore the impacts of climate change on water resources. The outputs of three dynamic downscaling models were obtained from RCMs that were used in the CORDEX-EA project. In order to obtain more representative statistical downscaling outputs, we used the delta change method to calculate the relative change in variables (Onyutha et al., 2O16). First, we examined the outputs of all GCMs from Coupled Model Inter-comparison Project Phase 5 (CMIP5） by comparing the GCM historical data with observed records in the study area. Moreover, we then excluded the simulated temperature and precipitation data with the standard deviations (between GCM runs and observed data) being larger than 1. Eventually, 30 GCMs were selected and the relative change in variables was calculated. The daily temperatures for future scenarios were obtained by adding the observed daily series (1990-1999) to the differences in mean monthly temperature between GCM scenario series and reference series. The simulations for daily precipitation were generated via multiplying the observed daily series (1990-1999) by the rate of increase in the mean monthly precipitation in two future periods (2020-2029 and 2040-2049). A summary of RCMs and GCMs used in the present study is given in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4977f80a3ee8cfe0022374d35aa8a13bd530badfa693b12385384eeb2cc7eaa4.jpg",
+        "table_caption": [
+            "Table 1 Regional climate models (RCMs)and general circulation models (GCMs) used in the present study "
+        ],
+        "table_footnote": [
+            "Note:RCMRegioalclimatemodel;GCM,generaliculationodel;HadGE-RA,HadleyCentreGloalEnviroentaldel version3regionalclimatemodel;RegCM4,egionalCimateodelversion4;UN-5,eoulNationalUnversityMeale Modelersio5;HadGE-OHadeyCentreGlobalEviroetalodel,esi-AtmosperOcean;Pre,precipitatio;a, daily maximum near-surface air temperature; Tmin, daily minimum near-surface air temperature. "
+        ],
+        "table_body": "<html><body><table><tr><td>RCM/GCM</td><td>Resolution</td><td>GCM</td><td>Scenario</td><td>Variable</td><td>Time period</td><td>Reference</td></tr><tr><td>HadGEM3-RA</td><td>0.44°</td><td>HadGEM2-AO</td><td>RCP4.5</td><td>Pre, Tmax,Tmin</td><td>19050-2105 (Cutunt)</td><td>Davies et al. (2005)</td></tr><tr><td>RegCM4</td><td> 50 km</td><td>HadGEM2-AO</td><td>RCP4.5 RCP8.5</td><td>Pre, Tmax, Tmin</td><td>1979-2005 (Current) 2006-2050 (Future)</td><td>Giorgi et al. (2012)</td></tr><tr><td>SUN-MM5</td><td> 50 km</td><td>HadGEM2-AO</td><td>RCP4.5 RCP8.5</td><td>Pre, Tmax, Tmin</td><td>1980-2005 (Current) 2006-2049 (Future)</td><td>Cha and Lee (2014)</td></tr><tr><td>GCMs</td><td>1.4°-5.0°</td><td>CMIP5</td><td>RCP4.5 RCP8.5</td><td>Pre, Tmax, Tmin</td><td>1990-1999 (Current) 2020-2049 (Future)</td><td>Taylorer et al. (2011)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "When using the delta change method, we removed the GCM with a large bias in temperature and precipitation simulation; therefore, we did not consider the bias in SDMs in this study. Directly utilizing the outputs of RCMs in a hydrological model is not recommended because the raw RCM data have systematic errors (Wilby et al., 2Oo0). Therefore, we used two methods to correct the outputs of RCMs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The local intensity scaling (LOCI) method was used for precipitation correction, and the linear scaling (LS) method was applied for temperature correction. The correction of precipitation data by using LOCI method involves three steps (Schmidli et al., 2OO6). First, we calculated a wet-day threshold from the raw precipitation series by ensuring that the threshold exceedance matches the wet-day frequency of observed precipitation series. Second, a scaling factor was calculated and then used to ensure that the mean of simulated precipitation is equal to that of observed precipitation. Third, we employed these thresholds and scaling factors based on the reference period (1990-1999) to adjust precipitation for the future (2020-2029 and 2040-2049) predictions. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The LS method assumes that biases are time-invariant (Lenderink et al., 2OO7). Moreover, the method also assumes that the monthly mean of raw temperature data is the same as that of observed data. We adjusted temperature data via monthly correction values based on the differences between observed and raw data for reference (1990-1999) and future (2020-2029 and 2040-2049) periods. These adjustments were done with the following equations: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT ( \\mathrm { c o r } ) _ { i } ^ { \\mathrm { r e f } } = T _ { i } ^ { \\mathrm { r e f } } + ( \\overline { { T _ { m } ^ { \\mathrm { o b s } } } } - \\overline { { T _ { m } ^ { \\mathrm { r e f } } } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { T ( \\mathrm { c o r } ) _ { i } ^ { \\mathrm { f u t } } = T _ { i } ^ { \\mathrm { f u t } } + ( \\overline { { T _ { m } ^ { \\mathrm { o b s } } } } - \\overline { { T _ { m } ^ { \\mathrm { r e f } } } } ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where, $T ( \\mathrm { c o r } ) _ { i } ^ { \\mathrm { r e f } }$ and $T ( \\mathrm { c o r } ) _ { i } ^ { \\mathrm { f u t } }$ are the corrected temperatures on the $i ^ { \\mathrm { t h } }$ day of the reference period and future period ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ , respectively; $T _ { i } ^ { \\mathrm { { e f } } }$ and $T _ { i } ^ { \\mathrm { { f u t } } }$ are the simulated temperatures on the $i ^ { \\mathrm { t h } }$ day of the reference period and future period $( ^ { \\circ } \\mathrm { C } )$ , respectively; and $\\overline { { T _ { m } ^ { \\mathrm { o b s } } } }$ and $\\overline { { T _ { m } ^ { \\mathrm { r e f } } } }$ represent the mean value of observed and simulated temperatures ${ \\mathrm { ( } } ^ { \\circ } \\mathrm { C } { \\mathrm { ) } }$ ， respectively, during the reference period at a given month $m$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "After bias correction, the outputs from RCMs can be used to analyze the impacts of climate change on water resources and extreme events. The present study did not apply the outputs of SDMs to extreme events. This is because the delta change method only accounts for change in the mean while ignores other possible types of change in the distribution of the variables. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the future (2020-2029 and 2040-2049) change of peak flow in the upper reaches of the Kaidu River Basin by comparing reference period (1990-1999) to the outputs of three RCMs that were used to simulate future stream flow. The P-II frequency curve (Geng, 2002) and percentile value method (Dimitropoulos et al., 2Oo9) were used to produce the frequency curve for peak flow of the upper reaches of the Kaidu River Basin under RCP4.5 and RCP8.5 scenarios during the periods 2020-2029 and 2040-2049. The modeling time of SUN-MM5 under RCP8.5 scenario was from 2020 to 2035. Therefore, only the period 2020-2029 was considered in the frequency curve of peak flow in the upper reaches of the Kaidu River Basin under RCP8.5 scenario. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 Hydrologicalassessment ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We assessed the impacts of climate change on water resources in the upper reaches of the Kaidu River Basin by using outputs from three RCMs and an ensemble of GCMs to drive a hydrological model. Instead of directly applying the outputs of RCMs, we used the historical simulation data and the observational data to find the bias scaling factors,and then corrected the bias of future outputs from RCMs accordingly. In addition, we extracted the climate change signals of GCM data based on its historical data and future simulations. After input data processing and hydrological model constructing， the impacts of climate change on water resources were investigated during a reference period (1990-1999) and two future periods (2020-2029 and 2040-2049) under RCP4.5 and RCP8.5 scenarios in the upper reaches of the Kaidu River Basin. Detailed steps are shown in Figure 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2e6b93fd5054ea6ec0817ff4822fe44f9ed7386e4b217390906c75b25778464.jpg",
+        "img_caption": [
+            "Fig.2Framework of the research methodology for hydrological assessment of the impacts of climate change on water resources in the upper reaches of the Kaidu River Basin.RCM,Regional climate model; GCM, general circulation model; SWAT, Soil and Water Assessment Tool. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A physically based, semi-distributed, and temporally continuous watershed model called the Soil and Water Assessment Tool (SWAT) was used for stream flow simulation in the present study. The key processes of hydrological simulation in SWAT consist of precipitation， vegetation interception, discharge， groundwater, snowmelt, actual/potential evapotranspiration and so on. More details on the hydrological processes and model information can be found in SWAT manuals (htp://www.brc.tamus.edu/). The processes of snowmelt and evapotranspiration are especially important to the local hydrological cycle and dominate the spatial and temporal variations of water resources. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, the SWAT model was established using topographical, land use, soil map and weather data. A set of $9 0 \\mathrm { ~ m } { \\times } 9 0 \\mathrm { ~ m }$ topographical maps was obtained from the Shuttle Radar Topography Mission (SRTM) of the United States Geological Survey. Land use data were obtained from the Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences. Soil map data at a scale of 1:1,0oo,00O were derived from the Harmonized World Soil Database. Daily weather data, including precipitation and maximum/minimum temperature at Bayanbulak and Baluntai meteorological stations, were obtained from the China Meteorological Data Sharing Service System (http://cdc.cma.gov.cn/). Daily streamflow dataset from the Dashankou hydrological station was provided by the Xinjiang Tarim River Basin Management Bureau. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4SWAT model performance evaluation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We employed Nash and Sutcliffe efficiency (NS)， percent bias (PBIAS) and correlation coefficient $( R ^ { 2 } )$ as hydrological model evaluation statistics (Eqs. 3-5, respectively; Moriasi et al., 2007; Rahman et al., 2014): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N S } = 1 - \\frac { \\sum _ { t = 1 } ^ { T } ( \\boldsymbol { Q } _ { o , t } - \\boldsymbol { Q } _ { s , t } ) ^ { 2 } } { \\sum _ { t = 1 } ^ { T } ( \\boldsymbol { Q } _ { o , t } - \\overline { { \\boldsymbol { Q } _ { o } } } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P B I A S } ( \\mathcal { U } ) = \\left[ \\frac { \\sum _ { t = 1 } ^ { T } ( Q _ { s , t } - Q _ { o , t } ) ^ { 2 } } { \\sum _ { t = 1 } ^ { T } \\mathcal { Q } _ { o , t } } \\right] \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\left[ \\frac { \\sum _ { t = 1 } ^ { T } ( Q _ { o , t } - \\overline { { Q _ { o } } } ) ( Q _ { s , t } - \\overline { { Q _ { o } } } ) } { \\sum _ { t = 1 } ^ { T } \\left[ ( Q _ { o , t } - \\overline { { Q _ { o } } } ) ^ { 2 } \\right] ^ { 0 . 5 } \\sum _ { t = 1 } ^ { T } \\left[ ( Q _ { s , t } - \\overline { { Q _ { o } } } ) ^ { 2 } \\right] ^ { 0 . 5 } } \\right] ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where, $Q _ { o , t }$ and $Q _ { s , t }$ are the observed and simulated variables at time $t$ and $\\overline { { Q } } _ { o }$ is the mean of observed variables. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "NS indicates the strength of the relationship between observation and simulation, with the values ranging from $- \\infty$ to 1.O. The higher the value (closer to 1.O)， the better the model performance. PBIAS indicates the average tendency of simulated data compared with observed data. Positive and negative values indicate an overestimation and an underestimation of observation, respectively. $R ^ { 2 }$ represents the proportion of total variance in the observed data that can be explained by the simulated data. The performance of model is considered to be improved as $R ^ { 2 }$ approaches to 1.0. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 Hydrological modeling performance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hydrological modeling provides critical information for the assessment of water resources (Sivapalan et al., 2OO3). The use of unreasonable parameter sets might modify model responses in the future scenarios. Our SWAT model was calibrated and validated via the daily observed flow data at the Dashankou hydrological station. Sequential Uncertainty Fitting (SUFI-2) was used for model parameter sensitivity analysis. Twenty-seven hydrological parameters were evaluated, but only ten parameters were selected to avoid the problems related to over-parameterization. The three most sensitive parameters were the base flow alpha factor, the precipitation lapse rate, and the temperature lapse rate. This means that the base flow, elevation band of precipitation and temperature had the greatest impact on stream flow. The parameters were then manually calibrated. The base flow alpha factor was adjusted to 0.78 from the default value of 1.00. The temperature and precipitation lapse rates were adjusted to $- 1 . 4 5 ^ { \\circ } \\mathrm { C } / \\mathrm { k m }$ and $1 3 7 \\ \\mathrm { \\ m m / k m }$ respectively. Figure 3 shows the performance of SWAT model during calibration (1986-1995) and validation (1996-2005) periods,and a summary of the results is shown in Table 2. The results of NS, PBIAS, and $R ^ { 2 }$ indicate that the model exhibits a good performance during calibration and validation periods. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "600 (a)Calibration .Simulated 500 Observed   \n(s/em)moaans unakk 1986 1987 1988 1988 1989 1990 1991 1992 1993 1994 1995 900 (b)Validation   \n(s/u)mo ueans wwws ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ac6ccdc04c670bba1ea6a8178b6f10e6a7ddc23527e3610a2f1f1073fbfcdb5.jpg",
+        "table_caption": [
+            "Table 2 Model performance rating based on Moriasi et al. (2Oo7) and Rahman et al. (2014) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Period</td><td>NS</td><td>PBIAS (%)</td><td>R²</td></tr><tr><td>Calibration (1986-1995)</td><td>0.69</td><td>1.20</td><td>0.72</td></tr><tr><td>Validation (1996-2005)</td><td>0.65</td><td>1.43</td><td>0.67</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2Bias correction of climate model ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this study, three RCM-generated variables were corrected via bias correction during the reference period (1990-1999) using observed data from two meteorological stations (Baluntai and Bayanbulak). The LOCI and LS bias correction methods were applied to the output variables of temperature and precipitation. After correcting the historical period, the same correction factors were applied to the RCP4.5 and RCP8.5 future scenarios. We evaluated the correction performance by generating Taylor diagrams that compared the raw and corrected RCM variables with the observations. The performances of bias corrections compared with observations are presented in terms of $R ^ { 2 }$ ， standard deviation (SD),and RMSE (root mean square error). The Taylor diagram has three axes: $R ^ { 2 }$ (azimuthal position), SD ( $\\overset { \\cdot } { x }$ and $y$ axes）and centered RMSE (Fig. 4). The observed value as a reference (expressed as REF) intersects the $x$ axis. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Originally, the $R ^ { 2 }$ values of raw precipitation ranged from O.14 to O.94. RegCM4 and SUN-MM5 exhibited the highest and lowest coefficient values, respectively. The $R ^ { 2 }$ values of the maximum and minimum temperatures were similar, with the values ranging from 0.94 to 0.97. RegCM4 presented the best SD performance for raw precipitation, while HadGEM3-RA had the largest SD value. From the results shown in Figure 4, we can infer that the accuracy of RCM simulation is much better for temperature than for precipitation. The bias correction results during the reference period (1990-1999) for RCM outputs were satisfactory. All coefficient values of corrected variables were higher than O.99. The $R ^ { 2 }$ and RMSE values of corrected RCMs were also very close to those of field observations. These results suggest that the effect of bias correction is efficient and acceptable. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20 0. 6 R 1.5 R 1.5 6 R 1 2.0 5 RMSE 10.6 Y 7 0.80 10 Y 1.0 y 7 10.80 10 1.0 Y T 0.80 RMSE RMSE   \nsD 90 s .90 s 90 0 1:0 40. 4o: 4o.9 0.95 0.5 0.95 0.5 0.95 s0 0.5 A A B ·B 00 BY PE 0.99 00 DE C 0.99 0 A DE 0.99 0.0 0.5 REF 1.5 2.0 0.0 0.5 REF 1.5 0.0 0.5 REF 1.5 SD SD SD   \n●A(HadGEM3-RA) B(RegCM4) C(SUN-MM5) ●D (corrected HadGEM3-RA) ●E(corrected RegCM4) F (corrected SUN-MM5) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3Future trends of climate change ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.1Changes in seasonal temperature and precipitation ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To investigate climate change in different seasons， we compared the changes of seasonal temperature and precipitation (percentage change) from the ensemble of GCMs and three RCMs during the reference period (1990-1999) and future periods (2020-2029 and 2040-2049) under RCP4.5 and RCP8.5 scenarios (Fig. 5). In the present study, we defined the wet (from April to September) and dry (from October to March) seasons to analyze the impacts of seasonal climate change. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All the outputs from the three RCMs and the ensemble of GCMs show that the temperature in the studied region (i.e., the upper reaches of the Kaidu River Basin) will continue to rise during 2020-2049 under both scenarios (RCP4.5 and RCP8.5). The increase in temperature will be more prominent under RCP8.5 scenario than under RCP4.5 scenario. The results confirm that the greenhouse gas emission level directly affects the temperature change (Solomon et al., 2007). Figure 5 clearly depicts that the incremental changes in the maximum and minimum temperatures of three RCMs and the ensemble of GCMs are similar within each individual season. However, the variation in the maximum and minimum temperatures varies between seasons for different models. The maximum temperature changes of RegCM4, SUN-MM5 and ensemble of GCMs wil increase more significantly in the dry season than in the wet season, excluding values from HadGEM3-RA. The minimum temperature changes in RegCM4 and SUN-MM5 will also increase more dramatically in the dry season then in the wet season. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The simulation of precipitation by the three RCMs and the ensemble of GCMs shows that percentage changes of precipitation in the dry and wet seasons are obviously increasing under the two climate change scenarios (RCP4.5 and RCP8.5)， with the exceptions of SUN-MM5 under RCP4.5 and HadGEM3-RA under RCP8.5 (Fig. 5). It should be noted that the precipitation increases modeled by the three RCMs are more pronounced in the wet season than in the dry season. In contrast with RCMs, the increments of precipitation from the ensemble of GCMs are smaller in the wet season than in the dry season. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/39948dc4f96a9caca1258fbfef2dcfdc3f79dbbb9bcb325dd417229286fd4e1b.jpg",
+        "img_caption": [
+            "Fig.5Changes in temperature (a-d) and percentage changes in precipitation (e-f) in the dry and wet seasons from the ensemble of GCMs and three RCMs during the future periods (2020-2029 and 2040-2049) under RCP4.5 and RCP8.5 scenarios compared with the reference period (1990-1999) "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Changes in annual temperature and precipitation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Relative to the reference period (1990-1999), the simulated outputs from all models show a continuous increase in annual mean temperature for the future periods (2O2O-2O29 and 2040-2049） under both ${ \\tt R C P 4 . 5 }$ and RCP8.5 scenarios (Fig. 6a). The simulated changes in magnitude of annual mean temperature under RCP8.5 scenario reach up to $2 . 4 ^ { \\circ } \\mathrm { C }$ by the mid- $2 1 ^ { \\mathrm { s t } }$ century. The simulated percentage changes in mean annual precipitation also show an upward trend during the future periods compared with the reference period (Fig. 6b). The result is consistent with Chen et al. (2O14) that the climate in northwestern China is gradually changing from warm dry to warm wet in the future. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In contrast to the results of annual mean temperature simulations, the mean annual precipitation values simulated by the three RCMs and the ensemble of GCMs exhibit obvious variations. The percentage increase in mean annual precipitation from the three RCMs is larger than that from the ensemble of GCMs. For example, the simulated percentage change in precipitation from $\\mathrm { R e g C M 4 }$ reaches up to $3 8 . 4 \\%$ under RCP8.5 scenario, while the value is only $5 . 0 \\%$ from the ensemble of GCMs. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/465d1c7510029fdf74d5d3718db68f42c89fb23db95ad806974aa584746cea07.jpg",
+        "img_caption": [
+            "Fig. 6 Changes in annual mean temperature (a) and percentage changes in mean annual precipitation (b) from the ensemble of GCMs and three RCMs under RCP4.5 and $\\mathrm { R C P 8 . 5 }$ scenarios during the future periods (2020-2029 and 2040-2049) ",
+            "Fig. 7 Interannual variation trends of extreme precipitation from the three RCMs under $\\mathrm { R C P 4 . 5 }$ and RCP8.5 scenarios during the future period 2020-2049 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3.3Inter-annual variation trends of extreme precipitation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In the context of human-caused global warming， water circulation is predicted to accelerate (Handel and Risbey, 1992). Extreme precipitation, floods, and other natural disasters have serious impacts on regional economic development and the lives of local residents. In this study， we compared the extreme precipitation data calculated by the percentile value method (Dimitropoulos et al., 2009) for three RCMs under RCP4.5 and $\\mathsf { R C P 8 . 5 }$ scenarios during the future period 2020-2049 (Fig. 7). The threshold percentile value for extreme precipitation was defined as $9 5 \\%$ . Figure 7 illustrates that under both $\\mathsf { R C P 4 . 5 }$ and RCP 8.5 scenarios, the inter-annual variation trends for all simulated extreme precipitation data from the three RCMs show a slight upward trend, with the exception of SUN-MM5 under RCP8.5 scenario. This means that the risk of flood disasters in the upper reaches of the Kaidu River Basin is likely to rise in the next 30 years. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "r riinrnrrernm 600 500 y=1.0026x-1816.6 400 300 y=0.9548x-1737.2 300   \n400 200   \n300 200   \n200 100   \neng 100 y=0.4197x-679.4   \n100   \n(a)RegCM4(RCP4.5) (b) SUN-MM5 (RCP4.5) (c) HadGEM3-RA (RCP4.5)   \n0 0   \n2020 2025 2030 2035 2040 2045 2050 2020 2025 2030 2035 2040 2045 2050 2020202520302035204020452050 400 300 y=0.9179x-1607.5 y=0.1013x-12.8 y=0.4104x-652.5   \n400 300 200   \n300 200   \n200 100   \n100 100   \n(d) RegCM4 (RCP8.5) 0(e) SUN-MM5 (RCP8.5) (f) HadGEM3-RA (RCP8.5)   \n0 0   \n2020 2025 2030 2035 2040 2045 2050 2020 2025 2030 2035 2020202520302035204020452050 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4 Hydrological responses to climate change ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 Changes in annual stream flow under different scenarios ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the percentage changes of annual stream flow in the upper reaches of the Kaidu River Basin as simulated by hydrological models according to bias corrected outputs of three RCMs and the ensemble of GCMs under RCP4.5 and RCP8.5 scenarios during the two future periods (2020-2029 and 2040-2049). The results of simulations from the three RCMs and ensemble of GCMs indicate that the annual stream flow will tend to decrease during 2O20-2049 under the two scenarios, with the exceptions of $\\mathrm { R e g C M 4 }$ under RCP8.5 scenario and SUN-MM5 under both scenarios. The simulations from HadGEM3 and the ensemble of GCMs show a higher annual stream flow under RCP4.5 scenario than under RCP8.5, while $\\mathrm { R e g C M 4 }$ and SUN-MM5 simulate less annual stream flow under RCP4.5 scenario than under RCP8.5. As shown in Figure 8, the largest percentage decrease in annual stream flow is $2 0 . 1 \\%$ and $2 2 . 3 \\%$ during the period 2040-2049 under RCP4.5 and RCP8.5 scenarios， respectively， which are simulated by the ensemble of GCMs. From the abovementioned results, we can conclude that the changes in temperature and precipitation could lead to a remarkable change in snowmelt and evaporation, ultimately affecting stream flow in the upper reaches of the Kaidu River Basin. First, as the temperature rises, the amount of evaporation will inevitably rise, causing a large change in runoff. Second, in the long run, glacial reserves will decrease as the temperature rises. After the river of glacial meltwater reaches the maximum stream flow, there will be a gradual declining trend. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/212c3eea9dda8f4a3db54bd1491be4c5d4a48037fc18f6a0b2d163c89f5816d4.jpg",
+        "img_caption": [
+            "Fig.8Percentage changes in annual stream flow in the upper reaches of the Kaidu River Basin from the ensemble of GCMs and three RCMsunder ${ \\mathrm { R C P } } 4 . 5$ and RCP8.5 scenarios during the future periods (2O2O-2029 and 2040-2049) "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 Frequency curves of peak flow in the upper reaches of the Kaidu River Basin During the future periods (2020-2029 and 2040-2049), among the 11 frequency curves of peak flow in the upper reaches of the Kaidu River Basin that were plotted from the three RCMs under ${ \\tt R C P 4 . 5 }$ and RCP8.5 scenarios, only one curve in HadGEM3-RA under RCP8.5 scenario during the period 2040-2049 suggests a potential decrease in peak flow compared with the reference period (Fig. 9). Eight frequency curves ploted by HadGEM3-RA, SUN-MM5, and RegCM4 simulations indicate that the peak flow has a greater than $9 9 \\%$ probability of increasing in the future. The other two frequency curves plotted by $\\mathrm { R e g C M 4 }$ simulations show that the peak flow has $70 \\%$ and $8 5 \\%$ probability of increasing under RCP4.5 scenario during 202O-2029 and 2040-2049, respectively. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The frequency curves of peak flow indicate that the peak flow will not decrease despite the fact that the stream flow in the upper reaches of the Kaidu River Basin is expected to decline. In other words, the temporal distribution of flow becomes more concentrated. The analysis shows that the continuous rise in temperature has exacerbated the occurrence of extreme hydrological events in the study area, leading to the redistribution of water resources. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/270ae5756c03ebb8efecab4144968462b9a403dcfae25baebffb8ffcd4a79645.jpg",
+        "img_caption": [
+            "Fig.9 Frequency curves of peak flow in the upper reaches of the Kaidu River Basin from the three RCMs during the reference period (1990-1999)and the future periods (2020-2029 and 2040-2049) under RCP4.5 and $\\mathsf { R C P 8 . 5 }$ scenarios "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4Uncertainties analysis ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It is obvious that many uncertainties exist in the assessment of hydrological responses to climate change. They mainly include: (1) uncertainties to different GCMs; (2) uncertainties to different downscaling methods; (3) uncertainties about different future scenarios; (4) uncertainties to different bias correction methods; and (5) uncertainties of different hydrological models. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking, GCM is the largest source of uncertainties in the simulation of future hydrological predictions (Chen et al., 2O11). In the study of the impact of hydrological forecast uncertainties on decision-making, Buytaert et al. (2O1O) pointed out that the uncertainties of GCM accounted for $5 0 . 8 \\%$ of the total uncertainty. In this study, the three RCMs (i.e., HadGEM3-RA, SUN-MM5, and RegCM4) projected large differences in temperature and precipitation in the future. The increases in temperature during the future periods obtained from the three RCMs vary from $0 . 6 ^ { \\circ } \\mathrm { C }$ to $2 . 0 ^ { \\circ } \\mathrm { C }$ under RCP4.5 scenario and from $1 . 1 ^ { \\circ } \\mathrm { C }$ to $2 . 4 ^ { \\circ } \\mathrm { C }$ under RCP8.5 scenario. The simulated precipitation also has relative large differences among the three RCMs. Specifically, the simulated percentage changes of annual precipitation in the future range from $4 . 0 \\%$ to $2 9 . 5 \\%$ under ${ \\tt R C P 4 . 5 }$ scenario and from $4 . 3 \\%$ to $3 8 . 4 \\%$ under RCP8.5 scenario by using the three RCMs. We found that the downscaled outputs in different physical parametric methods are distinct even at the same boundary condition. Moreover, the raw RCM data usually deviate from the observed data. Thus, we conclude that it is necessary to correct the data before hydrological modeling, which confirms the results of Ouyang et al. (2014, 2015) regarding the uncertainties to different downscaling methods. In this study, we used more confident GCM ensembles as a benchmark to avoid the systematic bias. In addition, although SWAT can generally capture the hydrological processes in the study area, only 1O most sensitive parameters were selected for calibrating. The neglected parameters might potentially relate to the climate change factors, such as the spatial heterogeneity of temperature/precipitation lapse rate, the temporal heterogeneity of channel conductivity and so on. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The outputs of RCMs and GCMs provide consistent results,and the results indicate that the temperature and precipitation will increase in the upper reaches of the Kaidu River Basin during the future periods (2020-2029 and 2040-2049) when compared with the reference period (1990-1999). However, according to the hydrological simulation results generated by RCMs and GCMs, the Kaidu River Basin will likely experience a period of less water availability and may suffer extensive flood risks in the middle of this century due to the increase of evaporation in the future. In contrast with the RCMs, the percentage increases in precipitation from the ensemble of GCMs are more pronounced in the dry season than in the wet season. The probability of occurrence of peak flow in the future will increase despite the fact that the stream flow in the upper reaches of the Kaidu River Basin is expected to decline, which means that the temporal distribution of flow becomes more concentrated. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Our results suggest that the existence of uncertainties in the assessment of hydrological responses to climate change likely relates to the uncertainty of the input data, the uncertainty of the future climate scenarios, and the uncertainty in the hydrological models. By properly applying the bias correction， the confidence of scenario data can be improved. Since the potential uncertainties originate from multiple sources, we would like to extend our future study on quantifying the uncertainties based on the entire impact analysis procedures. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the Natural Science Foundation of Xinjiang Uygur Autonomous Region (2015211BO31). We wish to thank the Xinjiang Tarim River Basin Management Bureau and the Xinjiang Meteorological Administration for providing the necessary data to build the Soil and Water Assessment Tool (SWAT) model. We also grateful for the Coordinated Regional Downscaling Experiment-East Asia (CORDEX-EA) project and the Coupled Model Inter-comparison Project Phase 5 (CMIP5) project for providing dynamic downscaling RCMs and GCMs data free of charge. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BellouinN,Collins WJ,CulverwellID,etal.2011.TheHadGEM2familyofmetofficeunifiedmodelcimateconiguratios. Geoscientific Model Development, 4: 723-757.   \nBusuioc A,GorgiF,Bi X,etal.2O6.Comparisonofregional climate modelandstatisticaldownscaling simulationsof diferent winter precipitationchange scenarios overRomania.Theoreticaland Applied Climatology,86(1-4):101-123.   \nBuytaert W,Vuille M,Dewulf A,etal.20l0.Uncertainties inclimatechange projectionsandregionaldownscaling inthe tropical Andes:implications for water resources management. Hydrology and Earth System Sciences Discusions,14: 1247-1258.   \nCha DH,LeeDK.2O14.Reductionof systematic errors inregionalclimate simulations ofthe summer monsoonoverEastAsia and the western North Pacific by appying the spectral nudging technique.Journal of Geophysical Research Atmospheres, 114(D14): 14108, doi: 10.1029/2008JD011176.   \nChen J,BriseteFP,Leconte R.2011. Uncertaintyofdownscaling method inquantifyingtheimpactof climate changeon hydrology. Journal of Hydrology, 401(3-4): 190-202.   \nChen YN,LiZ,FanY,etal.2014.Research progressontheimpactof climatechangeonwaterresources inthearidrgionof Northwest China. Acta Geographica Sinica, 69(9): 1295-1304. (in Chinese)   \nChristensen JH,Carter TR,Rummukainen M,etal.2Oo7.Evaluating the performanceandutilityofregionalclimatemodels: the PRUDENCE project. Climatic Change,81:1-6.   \nChristensenJH,ChristensenOB.2007.AsummaryofthePRUDENCE model projectionsofchanges inEuropeanclimate by the end of this century. Climatic Change,81: 7-30.   \nDavies T,Culln MJP,Malcolm AJ,et al.20o5.Anewdyamicalcorefor theMetOfice's globalandregional modellingof the atmosphere. Quarterly Journal of the Royal Meteorological Society, 131: 1759-1782. Passive and Active Network Measurement.PAM 2009.Lecture Notes in Computer Science,vol. 5448.Berlin: Springer, 207-216.   \nFang GH,YangJ,ChenYN,et al.215.Comparing bias correctionmethods indownscaling meteorological variables fora hydrologic impact study inanarid area in China.Hydrologyand Earth System Sciences,19: 2547-2559.   \nFoley AM.2010.Uncertainty inregionalclimate modeling: areview. Progress in Physical Geography,34(5): 647-670.   \nFu C,Wang S, Xiong Z,etal.20o5.Regional climate model intercomparisonprojectforAsia.Buletinof the American Meteorological Society, 86(2): 257-266.   \nFu G,Charles SP,ChiewFH,etal.2O11.Statisticalof griddedrainfallandtheir impactsonhydrologicalresponseanalysis. AGU FallMeeting. Washington, D.C.: American Geophysical Union.   \nGeng HJ.2002.StudyandappicationofExcelinP-distributionfrequencycalculation.Hydroelectric Energ,20(3): 41-43. (in Chinese)   \nGiorgi F,Jones C,Asrar G R.2009.Addressing climate information needs at theregional level: the CORDEXframework. World Meteorological Organization Bulletin,58(3): 175-183.   \nGiorgi F,Coppola E,SolmonF,etal.2012.RegCM4: Modeldescriptionand preliminarytests over multipleCORDEXdomains. Climate Research,52: 7-29.   \nHandel MD,RisbeyJS.1992. Anannotated bibliographyon the greenhouse effect and climate change. Climatic Change,21(2): 97-255.   \nHewitCD.2004.Ensembles-based predictions of climate changes andtheir impacts.Eos Transactions American Geophysical Union, 85(52): 566-566.   \nJiang S,RenL,Yong B,etal.2011. Quantifyingtheefectsof climate variabilityandhumanactivitiesonrunoffromthe Laohahe basin in northern China using three diferent methods.Hydrological Processes,25(16): 2492-2505.   \nLana M A,EulensteinF,Schlindwei S,etal.2016.Regionalizationofclimate senariosimpacts onmaize productionad the role of cultivar and planting date as an adaptation strategy. Regional Environmental Change,16(5): 1319-1331.   \nLandman W. 2007. Climate change 20o7: the physical science basis. South African Geographical Journal,92(1): 86-87.   \nLenderink G, BuishandA,van Deursen W.2Oo7.Estimatesoffuturedischargesof theriver Rhine using two scenario methodologies: direct versus delta approach. Hydrology and Earth System Sciences,11: 1145-1159.   \nLiu T,Willems P,Pan XL,etal.2011.Cimatechange impacton waterresource extremes inaheadwaterregionoftheTarim basin in China. Hydrology and Earth System Sciences,15: 3511-3527.   \nLiu X,Shen Y,Li H,etal.2O17.Estimationof landsurface evapotranspirationovercomplex terain based onmulti-spectral remote sensing data. Hydrological Processes, 31(2): 446-461.   \nMearns LO,Bogardi I, Giorgi F,et al.199.Comparisonofclimate change scenarios generated fromregional climate model experiments and statistical downscaling. Journal of Geophysical Research Atmospheres,104(D6): 6603-6621.   \nMupenzi JDLP,LiL. 2011. Impacts of global warming perturbation on water resources in arid zone: Case studyof Kaidu River Basin in Northwest China. Journal of Mountain Science,8: 704-710.   \nOnyuthaC,Tabari H,RutkowskaA,etal.2016.Comparisonof diferentstatistical downscaling methods forclimatechange rainfallprojectionsover theLake Victoria basinconsidering CMIP3 and CMIP5.Journal of Hydro-environment Research,12: 31-45.   \nOuyangF,LuHS,ZhuYH,etal.2014.Uncertaintyanalysisofdownscaling methods inassessingtheinfluenceof climate change on hydrology. Stochastic Environmental Research and Risk Assessment,28(4): 991-1010.   \nOuyang F, Zhu Y,Fu G B,et al.2O15.Impacts of climate change under CMIP5 RCP scenarios on streamflow in the Huangnizhuang catchment. Stochastic Environmental Research and Risk Assessment, 29(7): 1781-1795.   \nRahman K,EtienneC,Gago-SilvaA,etal.2014.Streamflowresponsetoregionalclimate modeloutputinthe mountainous watershed: a case study from the Swiss Alps. Environmental Earth Sciences,72(11): 4357-4369.   \nSachindra DA, Huang F,Barton A F,et al.2O14. Multi-model ensemble approach for statistically downscaling general circulation modeloutputs to precipitation. Quarterly Journal of the Royal Meteorological Society,140:1161-1178.   \nSchmidli J,Frei C, VidalePL.2006.Downscaling from GCM precipitation:a benchmark fordynamical and statistical downscaling methods. International Journal of Climatology, 26(5): 679-689.   \nSivapalan M,Takeuchi K,Franks SW,et al.2003.IAHS Decadeon Predictions inUngauged Basins (PUB),2003-2012: Shaping an exciting future for the hydrological sciences. Hydrological Sciences Journal, 48(6): 857-880.   \nSolomon S,Qin D, Manning M,et al.2007.The Physical Science Basis.Contribution of Working Group Ito the Fourth Assessment Reportof the Intergovernmental Panel on Climate Change.Cambridge: Cambridge University Pres,95-123.   \nTaylor K E,StouferR J, Meehl G A. 2011. An overviewof CMIP5 and the experiment design. Buletin of the American Meteorological Society, 93(4): 485-498.   \nWangWX,Wang XJ,JiangFQ,etal.2013.Responseofrunoff volume toclimatechange inthe KaiduRiverBasininrecent 30 years. Arid Zone Research,30(4): 743-748. (in Chinese)   \nWehner MF.2013.Very extreme seasonal precipitation in the NARCCAP ensemble: model performanceand projections. Climate Dynamics, 40(1-2): 59-80.   \nWilbyRL,HayLE,Gutowski WJ,etal.2o.Hydrologicalrsponsestdynamicallandstatisticallydownscaledcliate model output. Geophysical Research Letters,27(8): 1199-1202.   \nXu CC,ZhaoJ,Deng HJ,etal.2016.Scenario-basedrunoffpredictionforthe KaiduRiverbasinofthe Tanshan Mountains, Northwest China. Environmental Earth Sciences,75: 1126,doi: 10.1007/s12665-016-5930-9.   \nXu CY,Singh VP.204.Reviewonregional waterresouresasessment modelsunderstationaryandchangingclimate.Water Resources Management, 18(6): 591-612.   \nXu J, Chen YN,JiM,etal.2O08.Climatechangeand itsefectsonrunoffof KaiduRiver,Xinjiang,China:Amultiple time-scale analysis. Chinese Geographical Science, 18(4): 331-339.   \nXue J, LeiJQ,Gui DW,et al.2016.Synchronismof runof response tocimatechangein Kaidu River Basin in Xinjiang, Northwest China. Sciences in Cold and Arid Regions,8(1): 82-94.   \nYang Q,Cui C.2005.Impact ofclimate change on the surface waterof Kaidu River Basin.Journal of Geographical Sciences, 15(1): 20-28.   \nZhang H,Huang G H.2013.Development of climate change projections for smallwatersheds using multi-model ensemble simulation and stochastic weather generation. Climate Dynamics, 4O(3-4): 805-821.   \nZhang YN,XuCC,Li WH,etal.2O14. Climatechangecharacteristicsandimpacts onsurfacerunoff intheKaidu RiverBasin. Science of Soil and Water Conservation,12(1): 81-89. (in Chinese) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "type": "text",
+        "text": "线上施工图纸审查管理系统设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈威1 刘新亮袁言 周文利² 沈耀军² ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．北京工商大学，北京 100048;2．北京构力科技有限公司，北京 100030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】随着互联网 $^ +$ 时代的到来,为了针对目前全国各地施工图审查环节采用纸质文件模式数字化业务改造需求,开发了一种基于web的线上施工图纸审查管理系统。本文介绍了施工图纸审查的业务流程、系统的功能设计与实现、关键技术等。该系统实现了审查流程的系统化、标准化，对图纸进行科学化管理，提升了图纸审查流程的管理水平和服务效率与质量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】无纸化办公；施工图纸；Web；管理系统  \n【中图分类号】TU17;TU71【文献标识码】A【文章编号】1674－7461(2017)05－0075-04  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.13",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着电子信息技术和互联网技术的不断发展，以及“互联网 $^ +$ ”战略的大背景下，互联网和信息技建筑审图领域的应用逐步开展，线上数字化审图应运而生[1]。线上数字化审图是基于施工图审图业务流程,通过相关技术，使用数字媒体代替纸质文件进行图纸资料的网络传输、存储、审查和管理，将图纸审查与监管集于一体的施工图审图过程,基于信息技术和互联网技术,在网络上进行。主要线上数字化审图流程涉及项目各参与方有：建设单位、勘察设计单位、审查机构、主管部门等。传统审图项目资料以及图纸的管理模式以纸张为载体，以人工管理为主，已经不能满足企业项目资料以及图纸管理和敏捷服务的运营要求。采用线上审图可避免审查和接审的人员与建设、设计方的直接接触，审图专家也可摆脱堆积如山的图纸，做到程序公开、操作规范、流程高效。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本系统根据标准审图流程和审图参与方企业的实际需求设计审图流程，采用MVC模式，利用ASP.NET以及其他Web技术，构建了一个高效的线上审图管理系统。系统以标准、统一的信息化存储模式对项目资料和图纸文件进行管理，不仅保证收录的图纸资料的完整性和安全性以及保密性，同时方便图纸的打印下载，以及对图纸相关项目信息的查询，对相关企业进行规范高效的审图流程具有重大意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 系统总体设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. 1 系统开发与运行环境",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "开发环境：系统开发硬件PC机，内存4GB，CPU$\\mathrm { P 4 ~ 1 . 7 ~ G H z }$ ,硬盘100GB以上；开发软件平台为VS2015,数据库MicrosoftSQL Server $2 0 0 8 ~ \\mathrm { R } 2$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "运行环境：服务器操作系统WindowsServer2003，内存8G以上，Web服务器IIS6以上；客户端运行浏览器IE11。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2 系统业务流程",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "通过调研审图流程的业务需求，确定以下流程：首先建设单位进行项目立项，和审图单位确立合同之后，勘察单位、设计单位可以上传备审资料，建设单位复核资料无误后发起初审请求，审查机构即可开始审图，其中图纸审查包括pdf格式的图纸和AutoCAD的dwg格式图纸，所有图纸合格通过即可颁发书面文件，若审查完成有图纸不通过，由审查单位填写意见，所有意见被审核负责人复核后，进入初审不通过待复审状态。待复审状态卜，勘察设计单位需要对审查意见进行回复并且重新上传修改后的图纸，经建设单位检查后发起复审请求，直到全部图纸通过，审查机构开出证明。项目竣工并归档。具体流程如图1所示。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f7f92bd41e3ac7cb906a251fa514a37b7fafb381d76f206111e3ab99cc6b2ce.jpg",
+        "img_caption": [
+            "图1线上审图管理系统流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C 权限状态以及各企业部门可进行的操作见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3系统功能设计与实现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本系统采用B/S架构，使得所有企业办公都只用在一个平台上即可完成，系统架构如图2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本系统根据不同单位不同的业务流程，主要包括以下几大功能模块：流程控制功能模块、图纸管理功能模块、图纸审查功能模块；还有其他用户功能模块，如注册登陆、消息功能等等。本文主要介绍审图相关的三个功能模块。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)流程控制功能模块",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "整个审图流程控制，从项目发起到审查结束办理合格证，不同单位在不同项目的不同时刻能进行不同的操作，使审图流程按一定规范进行下去。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e847bc2e9d70ddf3e931b09bcc2e757a3ff7393b4d09f7e767389de754db7f44.jpg",
+        "table_caption": [
+            "表1线上审图管理系统流程说明"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">审图状 态</td><td rowspan=\"2\">描述</td><td rowspan=\"2\">设计单位</td><td rowspan=\"2\">审查</td><td rowspan=\"2\">建设单 位</td></tr><tr><td>单位</td></tr><tr><td>待初审 发起初</td><td>设计单位可以上传图纸 进入发起初审请求状</td><td>上传图纸 只能查看</td><td>NULL NULL</td><td>NULL 发起初</td></tr><tr><td>审请求 初审请</td><td>态,等待审图单位受理 进入进行已受理态</td><td></td><td></td><td>审请求</td></tr><tr><td>求已受 理</td><td>断(资料不全,进行初 审) 资料不全状态,等待设</td><td>只能查看</td><td>NULL</td><td>只能查 看</td></tr><tr><td>初审资 料不全</td><td>计单位修改上传资料, 等待建设单位复核并发 起初审请求</td><td>上传图纸</td><td>NULL 可以添</td><td>只能查 看</td></tr><tr><td>初审中</td><td>图纸上传完成,进入初 审中,可以添加意见，以纸,不能查 及进行意见复核</td><td>可以查看图 看意见</td><td>加意复 核人可 以复核 意见</td><td>只能查 看</td></tr><tr><td>初审通 过 初审未</td><td>初审通过,单体审查结 束 初审未通过,可以上传</td><td>只能查看图 只能查只能查 纸 可以回复意</td><td>看</td><td>看</td></tr><tr><td>通过待 复审</td><td>下一版次图纸,并回复 意见</td><td>见,设计负 责人可以复</td><td>只能查 看 只能查</td><td>只能查 看</td></tr><tr><td>发起复 审请求</td><td>进入发起复审请求状 态,等待审图单位受理</td><td>只能查看前 看前版 版本图纸及 本图纸 意见和回复 及意见</td><td>和回复</td><td>发起复 审请求</td></tr><tr><td>复审请 理</td><td>可料进入复 审)</td><td>上传复审看只能查 次)</td><td>只能查 及意见 和回复</td><td>看</td></tr><tr><td>复审资 料不全</td><td>资料不全，等待设， 等待建设单位复核并发 起复审请求</td><td>能看只能查 意见和回复及意见</td><td>只能查 和回复</td><td>看</td></tr><tr><td>复审中</td><td>纸，上传完成，进入纸本 及进行意见复核</td><td>能查看当前意见以 图纸及意见</td><td>可以查 看历史 纸意 现人复 核当前 意见</td><td>及添只能查 看</td></tr><tr><td>复审通 过</td><td>复审通过,单体审查结 只能查看图 看图纸 只能查 束</td><td>纸及意见</td><td>只能查 及旧版 次意见</td><td>看</td></tr><tr><td>复审未 通过待 审</td><td></td><td>可以回复意只能查 核回复</td><td>次意见</td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f02d597e94f9916aa62c17bf7033eac4d564df7beb457c06ea9876edc81fefc.jpg",
+        "img_caption": [
+            "图2线上审图管理系统架构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)备审资料文件图纸上传功能模块在待初审、初审资料不全、审核未通过待复审、复审资料不全,这几个状态下设计单位可以修改待审资料，并上传相应文件以及图纸，并且在审核未通过状态下可以对图纸的意见进行回复，在其他状态下只能查看图纸信息，根据不同人员权限可以下载打印该人员负责的专业的图纸，不能进行修改。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)图纸审查审查功能模块 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在初审中，复审中这两个状态下,审查单位可Y以对图纸进行批注审查，并提出意见,或者给予合格图纸通过审核，在其他状态下只能查看图纸和意见，还有设计单位的回复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)其他功能页面",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "管理员页面、用户注册登陆页面、消息中心、平台主页等常规页面，是平台基础的信息化办公功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)信息安全部分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统根据权限限制上传和下载图纸，保障图纸不会轻易外泄。加密用户信息保障用户信息在传输过程中的安全，而且在审图流程中，在关键步骤采用短信验证的方式保证审图的有效性和安全性。而且在上传下载时都进行了文件的加密处理，确保了图纸在传输过程中的保密性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主流的无纸化办公功能和基于这些之上的审图功能，集合成完整的线上施工图纸审查管理系统，使得传统的线下审图业务能够在线上规范高效的完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4系统主要关键技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本系统主要采用ASP.NET框架技术，使用C#语言进行开发，采用MVC开发模式，使用AJAX技术进行数据交换。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 1 ASP.NET框架与AJAX技术",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASP.NET是微软提出的用于创建动态Web 内容的一种强大的服务器端技术。ASP技术仅仅是微软在IIS的框架结构上进行的一个扩展，而ASE.NET与ASP相比可以说是一个质的飞跃[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ASP.NET与其底层框架.NET紧密结合，为动态的Web开发技术提供了丰富而强大的类库资源。.NET是微软推出的一个跨操作系统、跨平台的应用体系框架，由于.NET提供了跨平台的机制，因此随着.NET架构移植到其他操作系统中，在.NET框架上开发的所有应用程序，包括应用ASP.NET技术的Web应用程序，也将一并移植过去而不需要做任何改动。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AJAX技术在Web应用中已被广泛引用，其理念是按需取数，能避免客户端程序加载大量冗余数据。通过异步请求机制,实现页面局部刷新[3],提升用户体验效果和系统性能[4] 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2基于MVC模式的Web开发",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MVC设计模式是模型、视图以及控制器的简称，MVC模式在原先的视窗的计算机上管理和用户之间进行交互，随着.NET平台操作技术的成熟，MVC设计模式的娴熟运用，使得逐渐成为当前设计交互式运用上的标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "视图是包含基于BootStrap框架的html页面，用于接收用户输入数据和显示数据，为用户提供一种交互式操作的界面；控制器是ASP.NET的后台CS文件和WebServices，封装相应的业务逻辑控制方法，仅向外界提供统一的访问接口，视图界面与用户的交互操作反馈给控制器，从而实现系统的业务逻辑处理，在这个过程中，用户并不需要了解业务逻辑的具体技术实现；模型封装了系统的数据模型与访问的实现,可以供控制器调用基于不同数据库平台",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MVC模式的应用明晰了应用系统的结构，构建了低耦合、高内聚、易扩展的应用系统，能够适应复杂的业务需求，同时MVC模式进一步减少页面依赖性，有效提升代码复用，系统结构的设计更加清晰，系统效率进一步提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "线上施工图纸审查管理系统是审图相关企业部门无纸化办公的重要部分，也是企业信息化的重要内容。系统的建立依照传统的审图流程模式，规范了图纸文件的存储方式，方便各企业对图纸的管理，减少了纸张的使用，促进了图纸文件的科学化管理。系统的使用节省了人力资源和经济成本，提高了审图的效率以及规范了审图的流程。本系统还在和合作审图单位联合完善当中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "［1］卢春峰，陆文俊.上海数字化审图应用探讨[J].山西建筑，2017，43（1)：30-31.  \n[2］李峻屹.ASP与ASP.NET技术的比对测试与分析[J/OL].宝鸡文理学院学报（自然科学版），2013，33(1):39-42.  \n［3］郑迪文，沈立炜，彭鑫等.基于AJAX的Web应用构件组装技术及工具［J].计算机科学，2014，41（11）：152-156.  \n［4］仰燕兰，金晓雪，叶桦.ASP.NETAJAX 框架研究及其在Web开发中的应用[J].计算机应用与软件，2011，28(6):195-198.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Design and Implementation of Online Construction Drawings Review Management System ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chen Wei'，Liu Xinliang'，Yuan Yan'， Zhou Wenli²， Shen Yaojun² (1.Beijing Technology and Business University，Beijing 1OoO48,China ; 2.Beijing Glory PKPM Technology Co.，Ltd.，Beijing 100013,China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the arrival of the Internet plus era,we developed a web-based online construction drawings reviewing and managing system,to meet the digitization transformationrequirements of construction drawing reviewing work from traditional paper document mode all over the country.This paper introduces the business process of the construction drawing review,the function design and implementationof the system,the key technologies,and etc. The system realizes the systematization and standardization ofthe reviewing process,which scientificall manages the drawings and improves the management level and the service eficiency and quality of the drawing review process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Key Words:Paperless Office；Construction Drawings；Web；Management System ",
+        "page_idx": 3
+    }
+]

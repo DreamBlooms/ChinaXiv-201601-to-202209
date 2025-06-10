@@ -1,0 +1,317 @@
+[
+    {
+        "type": "text",
+        "text": "蒸汽爆破技术对棉籽粕中游离棉酚脱毒效果研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王清华 贺永惠\\* 鲁红伟 刘兴友",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（河南科技学院动物科学学院，畜禽智能化清洁生产河南省工程实验室，新乡453003）摘要：本试验旨在研究蒸汽爆破技术对棉籽粕中游离棉酚的脱毒效果。采用市售棉籽粕，对其进行7种不同的蒸汽爆破处理，蒸汽压强均固定为 $1 2 . 0  { \\mathrm { M P a } }$ ，以水料比为0时进行维压30s的蒸汽爆破处理为对照，水料比为 $30 \\%$ 、 $5 0 \\%$ 时分别进行维压10、20、30s的爆破处理，每处理重复3次，以游离棉酚含量、蛋白质溶解度为指标，筛选出较佳的处理测定氨基酸含量和营养物质猪仿生消化率数据。结果表明：固定蒸汽压强时，游离棉酚的脱毒率与蛋白质溶解度随着蒸汽维压时间延长而增加，随着水料比的增加先增大后减少。以游离棉酚的脱毒效果与蛋白质溶解度为指标，筛选出的适宜蒸汽爆破处理为蒸汽压强 $2 . 0 \\mathrm { M P a }$ ，水料比 $30 \\%$ ，维压时间 $3 0 ~ \\mathrm { s }$ 。此时棉籽粕中游离棉酚含量达 $8 5 . 0 \\mathrm { m g / k g }$ ，脱毒率达 $8 7 . 0 \\%$ ，蛋白质溶解度为 $4 2 . 3 \\%$ 。与对照组相比，蒸汽爆破可极显著降低棉籽粕中赖氨酸含量和精氨酸含量（ $\\cdot P { < } 0 . 0 1$ ），对体外干物质消化率和总能消化率无显著影响 （ $( P { > } 0 . 0 5 )$ ，极显著降低体外粗蛋白质消化率和赖氨酸消化率（ $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ )。由此可见，蒸汽爆破处理可降低棉籽粕游离棉酚含量、蛋白质溶解度、赖氨酸含量、精氨酸含量、体外粗蛋白质消化率和赖氨酸消化率。筛选出的适宜蒸汽爆破处理为蒸汽压强 $2 . 0 \\mathrm { M P a }$ ，水料比 $30 \\%$ ，维压时间 $3 0 \\mathrm { ~ s ~ }$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：蒸汽爆破；棉籽粕；游离棉酚；蛋白质溶解度；仿生消化系统中图分类号：S816.34 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蛋白质饲料资源短缺是我国畜牧业及饲料工业发展面临的主要问题，供求缺口大，需大量进口。我国年产棉籽饼粕达600 万t以上，但长期以来得到高效利用的饼粕资源不足总量的 $30 \\%$ 。这一状况与饲料行业、养殖业乃至农业发展的实际需求存在很大差距。限制棉籽粕广泛利用的原因是棉籽粕含有游离棉酚这一有毒有害成分。游离棉酚可直接对单胄动物产生毒害作用，严重时还会使心肌受损，降低动物的生产性能，严重制约了棉籽粕在动物饲料上的应用[。游离棉酚的脱毒方法可分为物理脱毒方法、化学脱毒方法和生物脱毒方法。物理脱毒方法主要包括螺旋压榨法、热处理法和膨化处理技术；化学脱毒方法主要包括硫酸亚铁法、碱处理法；生物脱毒方法主要包括微生物发酵法、酶解法、遗传学等方法。然而传统的挤压脱毒法脱毒率低；碱处理之类的化学钝化法对设备的抗腐蚀要求高，会降低饲料的适口性；溶剂浸出法会造成溶剂残留等缺点；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微生物发酵法的处理时间长，而且优良菌种难以培育、保种困难。本领域迫切需要一种克服上述缺点的快速去除棉籽粕中游离棉酚含量的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破技术是一种广泛应用于生物质原料高效利用的蒸汽热裂解的物理化学反应，因成本低、能耗少、无污染而备受研究者的青睐。该技术基于短时间的高温高压蒸气蒸煮 $( 2 0 0 { \\sim } 2 6 0 \\ \\mathrm { ~ \\textdegree ~ }$ $2 . 0 { \\sim } 5 . 0 \\ \\mathrm { M P a } ) ^ { [ 2 ] }$ ，然后在毫秒级[3]的时间范围内将容器内的全部原料炸散出来。因作用时间短、能量密度高而且集中，可引起物料物理化学结构的改变，部分的半纤维素、木质素被降解[4]。蒸汽爆破技术广泛应用于造纸、生物质能源利用等低质原料高效利用的预处理过程中，在饲料行业的应用主要集中在小麦、黑麦、燕麦等麦类秸秆[5]及玉米秸秆[6-9]的粗饲料资源开发方面，目前还没有对常规饲料原料开发利用的研究。宋晓旻等[10]报道，膨化加工技术可使棉籽粕的游离棉酚含量低到 $1 2 0 { \\sim } 1 4 0 \\ \\mathrm { m g / k g }$ 。蒸汽爆破技术与膨化技术处理的相同点是它们都是通过高温高压发挥作用，因此本研究的理论假设是蒸汽爆破技术也可以降低棉籽粕游离棉酚含量，起到脱毒作用。本试验的目的是利用蒸汽爆破技术开展棉籽粕游离棉酚脱毒效果的研究，以期开发棉籽粕脱毒新技术，为棉籽粕的高效利用提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料试验选用的市售棉籽粕的游离棉酚含量为 $6 4 2 ~ \\mathrm { m g / k g }$ ，粗蛋白质含量 $3 3 . 2 \\%$ ，蛋白质溶解度为$6 0 . 2 \\%$ 。  \n1.2试验设备蒸汽爆破试验台QBS-80B（中国鹤壁）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "市售棉籽粕过10目筛备用。按重量在棉籽粕中加入一定量的蒸馏水调整为一定的水料比，搅拌均匀后于自封袋中密封保存 $8 \\sim 1 0 \\mathrm { h }$ ，至充分湿润。预热蒸汽爆破仪，调节至一定的蒸汽压强，把棉籽粕加入料仓，维压一定时间，进行蒸汽爆破处理，如表1所示。每个处理爆破3次，收集样品， $6 5 ~ \\mathrm { ^ { \\circ } C }$ 的烘箱中烘至恒重，粉碎，过40目筛的样品用以测定游离棉酚含量、粗蛋白质含量、蛋白质溶解度与猪营养物质仿生消化率；过60目筛的样品用以测定氨基酸酸水解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1蒸汽爆破处理设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/65f5f8ce4ea0c9e05eb96c88f23fe3372fabf9990a9f81d17854a62f4639dffd.jpg",
+        "table_caption": [
+            "Table1The design of steam explosion treatments "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>蒸汽压强Steam pressure/MPa</td><td>水料比 Water material ratio/%</td><td>维压时间 Retention time/s</td></tr><tr><td rowspan=\"4\">2.0</td><td>0</td><td>30</td></tr><tr><td></td><td>10</td></tr><tr><td>30</td><td>20</td></tr><tr><td>50</td><td>30 10</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "游离棉酚含量按国标GB13086-91\"饲料中游离棉酚的测定方法\"进行测定，粗蛋白质、蛋白质溶解度（ $0 . 2 \\%$ 氢氧化钾溶液法）利用FOSSKJELTEC8000凯氏定氮系统测定（丹麦)，氨基酸酸水解（ $\\mathrm { \\Delta } 6 \\mathrm { m o l / L }$ 盐酸在 $1 1 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 水解 $2 4 \\mathrm { h }$ ）利用HitachiL-8800氨基酸自动分析仪（日本）测定，以上测定均参照张丽英[]《饲料分析及饲料质量检测技术》的方法检测。猪体外消化率测定采用的是中国农业科学院北京畜牧兽医研究所研发的\"SDS-II单胃动物仿生消化系统\"和方法[12]，其中消化前后样品的能量依据ISO9831:1998采用PARR1281全自动氧弹式能量测定仪进行分析（美国），氮采用DUMAS法（AOAC，990.03）使用RapidNIII燃烧法快速定氮仪（德国）进行测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5统计方法数据采用SAS9.2统计软件进行统计分析， $P { < } 0 . 0 1$ 时为差异极显著， $P { < } 0 . 0 5$ 时为差异显著。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1蒸汽爆破对棉籽粕中游离棉酚含量与蛋白质溶解度的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，与未蒸汽爆破的对照组（游离棉酚含量为 $6 4 2 \\mathrm { m g / k g }$ ）相比，蒸汽爆破处理均可明显降低棉籽粕中游离棉酚含量（游离棉酚含量在 $8 5 . 0 { \\sim } 2 9 3 . 6 \\mathrm { m g } / \\mathrm { k g } )$ ，降幅在 $5 4 \\% \\sim 8 7 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本试验的维压时间范围内，游离棉酚脱毒效果与蛋白质溶解度从高到低的顺序为： $3 0 \\mathrm { s } { > } 2 0$ $\\mathrm { s } { > } 1 0 \\mathrm { ~ s ~ }$ 。随着维压时间的延长，脱毒效果越好。在本试验的蒸汽爆破水料比范围内，游离棉酚脱毒效果与蛋白质溶解度从高到低的顺序为： $30 \\%$ 水料比 $> 5 0 \\%$ 水料比 $> 0$ 水料比。与0水料比的蒸汽爆破相比，添加水的蒸汽爆破均可明显缓解蛋白质溶解度的下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破处理在降低棉籽粕中游离棉酚含量的同时，也可明显降低棉籽粕的蛋白质溶解度。未处理棉籽粕的蛋白质溶解度为 $6 0 . 1 8 \\%$ ，蒸汽爆破处理后的蛋白质溶解度是 $2 3 . 8 \\% { \\sim } 4 2 . 3 \\%$ 。不同处理均表现为蛋白质溶解度随着维压时间延长而提高，随着水料比的增加而增加，但水料比为$5 0 \\%$ 时，蒸汽爆破处理的蛋白质溶解度反而下降。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合评价游离棉酚含量与蛋白质溶解度2项指标，在固定蒸汽爆破压强为 $2 . 0  { \\mathrm { M P a } }$ 时，适合的水料比为 $30 \\%$ ，维压时间为 $3 0 \\mathrm { ~ s ~ }$ ，此时，棉籽粕中游离棉酚含量可达 $8 5 . 0 ~ \\mathrm { m g / k g }$ ，脱毒率达$8 7 . 0 \\%$ ，蛋白质溶解度为 $4 2 . 3 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/76cdf4046b4f093a6ad453d9486c204b35dde23b470b4a0db19b4d76fb63236d.jpg",
+        "img_caption": [
+            "图1蒸汽爆破处理对棉籽粕中游离棉酚含量和蛋白质溶解度的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Effects of steam explosion treated on free gossypol content and protein solubility in ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "cottonseed meal ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2蒸汽爆破处理对棉籽粕氨基酸含量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，与对照组相比，蒸汽爆破处理（水料比 $30 \\%$ 、压强 $2 . 0 \\mathrm { M P a }$ 、维压时间 $3 0 ~ \\mathrm { s } \\dot { }$ ）可极显著降低棉籽粕中赖氨酸含量（ $\\scriptstyle P < 0 . 0 1 { \\mathrm { . } }$ )，降幅高达 $3 8 . 7 7 \\%$ ；精氨酸其次（ $\\scriptstyle \\cdot < 0 . 0 1 { \\dot { } }$ ，降幅达$2 8 . 8 1 \\%$ ，对其他氨基酸含量影响不显著（ $. P { > } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6d69c54bf7692ab8df6775031c73238a6eb46da28e29773dcc6801a0549e449.jpg",
+        "table_caption": [
+            "表2蒸汽爆破处理对棉籽粕氨基酸含量的影响",
+            "Table 2 Effects of steam explosive treated on amino acids content in cottonseed meal %DM "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氨基酸</td><td>对照组</td><td>蒸汽爆破处理组 Steam explosion treated group</td><td>变化率 Variability</td></tr><tr><td>Amino acids 天冬氨酸 Asp</td><td>Control group 4.16±0.35</td><td>3.85±0.34</td><td>- 7.47</td></tr><tr><td>苏氨酸 Thr</td><td>1.56±0.22</td><td>1.51±0.21</td><td>- 3.34</td></tr><tr><td>丝氨酸 Ser</td><td>1.89±0.28</td><td>1.81±0.12</td><td>- 4.19</td></tr><tr><td>谷氨酸Glu</td><td>8.91±0.52</td><td>9.27±0.63</td><td>4.10</td></tr><tr><td>甘氨酸 Gly</td><td>1.83±0.20</td><td>1.89±0.19</td><td>3.38</td></tr><tr><td>丙氨酸 Ala</td><td>1.68±0.17</td><td>1.76±0.23</td><td>4.38</td></tr><tr><td>缬氨酸Val</td><td>1.97±0.25</td><td>2.06±0.31</td><td>4.78</td></tr><tr><td>异亮氨酸 Ile</td><td>1.35±0.21</td><td>1.39±0.23</td><td>2.49</td></tr><tr><td>亮氨酸 Leu</td><td>2.70±0.26</td><td>2.83±0.32</td><td>4.76</td></tr><tr><td>酪氨酸Tyr</td><td></td><td>1.02±0.12</td><td></td></tr><tr><td>苯丙氨酸 Phe</td><td>1.01±0.11</td><td>2.56±0.28</td><td>0.32</td></tr><tr><td>赖氨酸Lys</td><td>2.42±0.23 1.98±0.24Aa</td><td>1.21±0.19Bb</td><td>5.78</td></tr><tr><td>组氨酸His</td><td></td><td></td><td>- 38.77</td></tr><tr><td>精氨酸Arg</td><td>1.29±0.12 5.26±0.41Aa</td><td>1.26±0.24 3.74±0.35Bb</td><td>- 2.39 - 28.81</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ $P { < } 0 . 0 1 \\rangle$ ，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5$ )。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3蒸汽爆破处理对棉籽粕营养物质体外营养物质消化率的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3猪仿生消化试验可知，与对照组相比，蒸汽爆破处理（水料比 $30 \\%$ 、压强 $2 . 0  { \\mathrm { M P a } }$ ，维压时间 $3 0 \\mathrm { ~ s ~ } ;$ ）对棉籽粕体外干物质消化率、总能消化率的影响不显著（ $( P { > } 0 . 0 5 )$ ，但可极显著降低棉籽粕体外粗蛋白质消化率和赖氨酸消化率（ $\\cdot P { < } 0 . 0 1$ ），降幅分别达 $2 0 . 9 9 \\%$ 和 $1 1 . 2 4 \\%$ ，对其他氨基酸的体外消化率无显著影响 （ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/452132a1ef93d7a9216ee661da74f73a152dc3bb0e46edee712373580d57c121.jpg",
+        "table_caption": [
+            "表3蒸汽爆破处理对棉籽粕体外营养物质消化率的影响",
+            "Table 3Effects of steam explosive treated on nutrient digestibility in vitro in cottonseed "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">meal</td><td colspan=\"2\">%DM</td></tr><tr><td>项目 Items</td><td>对照组</td><td>蒸汽爆破处理组</td><td>变化率Variability</td></tr><tr><td>干物质 DM</td><td>Control group</td><td>Steam explosion treated group</td><td>1.93</td></tr><tr><td>总能GE</td><td>50.22±0.71</td><td>51.20±0.58</td><td>- 0.25</td></tr><tr><td>粗蛋白质CP</td><td>62.00±0.10</td><td>61.84±0.19</td><td></td></tr><tr><td></td><td>82.66±5.11Aa</td><td>65.31±5.01Bb</td><td>- 20.99</td></tr><tr><td>天冬氨酸 Asp</td><td>79.33±3.90</td><td>73.58±2.77</td><td>- 7.25</td></tr><tr><td>苏氨酸Thr</td><td>69.98±2.91</td><td>64.45±3.31</td><td>- 7.91</td></tr><tr><td>丝氨酸 Ser</td><td>75.89±3.71</td><td>69.34±3.21</td><td>- 8.64</td></tr><tr><td>谷氨酸Glu</td><td>86.61±4.31</td><td>78.47±4.11</td><td>- 9.40</td></tr><tr><td>甘氨酸 Gly</td><td>71.37±3.21</td><td>66.00±4.08</td><td>- 7.52</td></tr><tr><td>丙氨酸 Ala</td><td>66.57±2.01</td><td>63.10±2.85</td><td>- 5.21</td></tr><tr><td>氨酸Val</td><td>72.92±1.29</td><td>68.15±2.67</td><td>- 6.55</td></tr><tr><td>异亮氨酸Ile</td><td>72.29±2.74</td><td>68.90±3.81</td><td>- 4.69</td></tr><tr><td>亮氨酸Leu</td><td>74.20±2.67</td><td>71.97±2.94</td><td>- 3.00</td></tr><tr><td>酪氨酸Tyr</td><td>78.34±4.08</td><td>71.02±3.57</td><td>- 9.34</td></tr><tr><td>苯丙氨酸 Phe</td><td>81.98±3.08</td><td>75.38±2.79</td><td>- 8.06</td></tr><tr><td>赖氨酸Lys</td><td>62.22±1.20Aa</td><td>55.23±1.18Bb</td><td>- 11.24</td></tr><tr><td>组氨酸 His</td><td>77.37±3.28</td><td>69.93±3.43</td><td>- 9.61</td></tr><tr><td>精氨酸Arg</td><td>89.87±4.05</td><td>81.63±4.82</td><td>- 9.16</td></tr><tr><td>脯氨酸Pro</td><td>77.32±2.48</td><td>72.72±2.03</td><td>- 5.94</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "棉籽粕是养殖业的一种非常规蛋白质饲料资源，棉酚含量是限制其广泛应用的瓶颈。本试验适宜蒸汽爆破处理棉籽粕的游离棉酚含量为 $8 5 . 0 \\mathrm { m g / k g }$ ，脱毒率达 $8 7 . 0 \\%$ ，该脱毒效果与朱德伟等[13]的生物脱毒效果相当（可使棉籽粕中游离棉酚含量降低到 $8 5 . 9 \\mathrm { \\ m g / k g } \\dot { . }$ )。远远高于邱良伟等[14]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（固态发酵棉籽粕中游离棉酚降低到1 $9 7 . 6 8 \\mathrm { \\ m g / k g } \\rangle$ 、马丽等[15]（发酵棉籽粕中游离棉酚含量降低到 $6 4 0 \\mathrm { m g / k g } \\cdot$ 、汤江武等[16](发酵棉籽粕中游离棉酚含量降低到 $2 5 0 \\mathrm { m g / k g ) }$ 和聂蓬勃等[17]（游离棉酚的降解率达 $4 3 . 0 \\%$ ）生物发酵棉籽粕的脱毒效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破技术属物理加工技术，其对棉籽粕中游离棉酚的脱毒效果高于宋晓旻等[10]报道的膨化加工处理效果（棉籽粕的游离棉酚含量为 $1 2 0 { \\sim } 1 4 0 \\mathrm { m g } / \\mathrm { k g } )$ ，也高于姚忠等[18]的硫酸亚铁与高速粉碎（游离棉酚含量为 $3 2 4 . 5 ~ \\mathrm { m g / k g }$ ）与赛买提·艾买提等[19]的硫酸亚铁（脱毒率为 $8 2 . 0 8 \\%$ ）对棉籽粕的脱毒效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "棉籽粕中棉酚含量随生产工艺而异，一般来说螺旋压榨制得棉籽粕的游离棉酚含量最低，预压浸提法次之，直接浸提法最高[20]。本研究结果证明在传统的加工工艺基础上，增加蒸汽爆破技术就可起到在高效脱毒（30s脱毒效率达 $87 \\%$ ）的目的。与现有脱毒技术相比，本试验利用蒸汽爆破技术处理，只需要用水来调整棉籽粕水料比，在室温进行充分水化处理，不存在污染与腐蚀，不影响饲料的适口性，不需要控制发酵温度，蒸汽爆破处理设备需要一次性投入资金，能耗只需要水、电、液化气，只需要几十秒的处理时间，可以快速、高效地去除棉籽粕中 $87 \\%$ 的游离棉酚，处理后的棉籽粕中游离棉酚含量可低至 $8 5 . 0 \\mathrm { m g / k g }$ ，远远低于世界卫生组织（规定棉籽粕中棉酚含量应小于 $0 . 0 4 \\%$ ）和我国饲料卫生国家标准（棉籽饼粕中游离棉酚含量应低于1200mg/kg）的要求。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "蒸汽爆破的效果受原料中的湿度（水料比）、蒸汽压强、维压时间3个因素的影响。高温高压的水蒸汽可软化原料，并渗透入原料结构中，削弱分子间的黏结。毫秒级的时间范围内的突然减压，原料的急速膨胀产生的爆破作用，可引起原料物理化学结构的改变，从而导致游离棉酚的离解或结合棉酚的形成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，固定蒸汽压强时，游离棉酚的脱毒率与蛋白质溶解度随着维压时间延长而增加，这是因为随着维压时间的适当延长，反应室的蒸汽渗入原料组织内部越充分，蒸汽爆破时对原料化学结构的调整达到比较适宜的范围内，在提高脱毒效率的基础上对蛋白质的溶解度也起到了促进作用，从而说明本试验的维压时间仍处于提高脱毒效果的上升期，还未达到反应的平台期。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在本试验条件下，游离棉酚的脱毒率与蛋白质溶解度随着水料比的增加而加大，但水料比达$5 0 \\%$ 时，脱毒效果与蛋白质溶解度反而下降。这是因为适当增加原料湿度（水料比)，有利于原料的充分溶胀，保证原料受热均匀，提高蒸汽爆破的处理效果，同时缓解高温对蛋白质溶解度的不良影响。但湿度过高，会阻碍水蒸汽对原料的渗透作用，反而会降低蒸汽爆破的效果，这与王鑫[21]报道的结果相似。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "与未处理的对照组相比，蒸汽爆破处理可降低棉籽粕的蛋白质溶解度、赖氨酸含量、精氨酸含量、粗蛋白质体外消化率和赖氨酸消化率。这是因为高温高压条件可促进蛋白质原料中美拉德反应的进行，过热处理使原料中的还原糖与氨基酸的N-末端，尤其是赖氨酸的ε-侧链结合，破坏赖氨酸的结构，使其丧失生物学活性，从而显著降低原料的蛋白质溶解度、赖氨酸含量和动物的蛋白质消化率，过度的蒸汽爆破可使相当多的可消化氨基酸转变成了“人造纤维”。因此，确立适宜的蒸汽爆破参数具有非常重要的意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "蛋白质在 $0 . 2 \\%$ 氢氧化钾溶液中的溶解度是一种评价蛋白质饲料原料过度加热的体外检测指标，其与动物的体外消化率呈强相关关系[22]，可作为反映体内法蛋白质利用效率，尤其是反映豆粕、菜籽粕过度加热的较精确的评价指标。虽然蛋白质溶解度评价棉籽粕时不是一个灵敏的指标[23]，但蛋白质溶解度指标可以间接反映动物对蛋白质原料的利用效率，有助于综合衡量蒸汽爆破这一物理脱毒方法对棉籽粕的脱毒效果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "按蛋白质溶解度与脱毒率筛选出的适宜蒸汽爆破条件为水料比 $30 \\%$ 、压强 $2 . 0 \\mathrm { M P a }$ 、维压处理 $3 0 \\mathrm { ~ s ~ }$ 。此蒸汽爆破条件对棉籽粕干物质消化率、总能消化率的影响变化较小，对粗蛋白质体外消化率（降幅达 $2 0 . 9 9 \\%$ )、赖氨酸消化率（降幅达 $1 1 . 2 4 \\%$ ）的影响较大。导致赖氨酸消化率的降低的原因与蒸汽爆破后棉籽粕中赖氨酸含量减少（降幅达 $3 8 . 7 7 \\%$ ）有关，也与爆破后残存的赖氨酸消化率（降幅达 $1 1 . 2 4 \\%$ ）降低有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "体外仿生试验显示蒸汽爆破对氨基酸消化率的影响与氨基酸含量的变化趋势并不一致，说明蛋白质溶解度、氨基酸含量与营养物质的消化率有一定的相关，只可作为饲料加工作用的一个评价依据，并不能替代动物的消化率试验，需要进一步开展动物试验进行养分消化率的评定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合评价结果为在固定蒸汽爆破压强为 $2 . 0  { \\mathrm { M P a } }$ 时，适宜的水料比为 $30 \\%$ ，适宜维压时间为$3 0 \\mathrm { ~ s ~ }$ ，此时棉籽粕中游离棉酚含量达 $8 5 . 0 ~ \\mathrm { m g / k g }$ ，脱毒率达 $8 7 . 0 \\%$ ，蛋白质溶解度为 $4 2 . 3 \\%$ ，赖氨酸含量为 $1 . 2 1 \\%$ ，体外干物质消化率为 $5 1 . 2 0 \\%$ ，总能消化率为 $6 1 . 8 4 \\%$ ，粗蛋白质消化率为$6 5 . 3 1 \\%$ ，赖氨酸消化率为 $5 5 . 2 3 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 蒸汽爆破处理可降低棉籽粕游离棉酚含量、蛋白质溶解度、赖氨酸和精氨酸含量、粗蛋白质和赖氨酸的体外消化率。$\\textcircled{2}$ 筛选出的适宜蒸汽爆破处理条件为蒸汽压强 $2 . 0 \\mathrm { M P a }$ ，水料比 $30 \\%$ ，维压时间 $3 0 ~ \\mathrm { s }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李爱科,郝淑红,伍松陵.植物蛋白质饲料资源开发利用新技术研究进展[J].饲料与畜牧,2006(10):5-9.  \n[2]TOUSSAINT B,EXCOFFIER G,VIGNON M R.Effect of steam explosion treatment on thephysico-chemicalcharacteristicsandenzymichydrolysisofpoplarcellwallcomponents[J].Animal Feed Science and Technology,1991,32(1/2/3):235-242.  \n[3]YU Z D,ZHANG B L,YU F Q,et al.A real explosion:the requirement of steam explosionpretreatment[J].Bioresource Technology,2012,121:335-341.  \n[4]朱均均,勇强,陈尚,等.玉米秸秆蒸汽爆破降解产物的分析[J].林产化学与工业,2009,29(2):22-26.  \n[5]VIOLA E,ZIMBARDI F,CARDINALE M,et al.Processing cereal straws by steam explosion in apilot plant to enhance digestibility in ruminants[J].Bioresource Technology,20o8,99(4):681-689.  \n[6]杨雪霞,陈洪章,李佐虎.汽爆玉米秸秆固态发酵生产饲料的研究[J].粮食与饲料工业,2001(2):27-29.  \n[7] 刘东波,王秀然,陈珊,等.蒸汽爆破处理的玉米秸秆饲料饲用安全性的研究[J].吉林农业大学学报,2003,25(6):657-660.  \n[8]常娟,尹清强,任天宝,等.蒸汽爆破预处理和微生物发酵对玉米秸秆降解率的影响[J].农业工程学报,2011,27(4):277-280.  \n[9]常娟,尹清强,姜义宝,等.生物秸秆对肉鸡表观代谢能的影响及替代玉米适宜比例的研究[J].动物营养学报,2012,24(8):1557-1563.  \n[10]宋晓昱,吴德胜.棉粕膨化加工试验工艺及机理分析[J].粮油加工,2006(8):47-49.  \n[11]张丽英.饲料分析及饲料质量检测技术[M].北京:中国农业大学出版社,2007.  \n[12]庄晓峰,张宏福,陈亮.不同透析袋对仿生消化法评定猪饲料原料干物质和磷体外消化率的影  \n响[J].动物营养学报,2012,24(8):1527-1533.  \n[13]朱德伟,刘志鹏,蔡国林,等.高效降解棉酚菌种的筛选及棉粕发酵脱毒工艺研究[J].中国油脂,2010,35(2):24-28.  \n[14]邱良伟,李爱科,程茂基,等.两种不同发酵工艺的棉籽粕营养价值的研究[J].饲料工业,2012,33(13):32-36.  \n[15]马丽,张日俊,陈福水,等.发酵棉粕替代部分豆粕对生长猪生产性能的影响试验[J].浙江畜牧兽医,2012(4):28-30.  \n[16]汤江武,吴逸飞,孙宏,等.发酵棉粕对肉鸡生长性能、血清生化指标及免疫功能的影响[J].中国畜牧杂志,2011,47(5):29-34.  \n[17]聂蓬勃,汤江武,梁运祥.棉粕脱毒菌株的筛选及发酵条件的研究[J].浙江农业科  \n学,2009(1):120-122.  \n[18]姚忠,谭鹤群.游离棉酚在棉粕高速粉碎过程中的机械力化学效应[J].饲料研究,2007(4):39-41.  \n[19]赛买提·艾买提,欧阳宏飞,赵丽,等.五种不同方法对棉副产品棉酚脱毒效果的比较研究[J].饲料工业,2008,29(1):27-30.  \n[20]王安平,吕云峰,张军民,等.我国棉粕和棉籽蛋白营养成分和棉酚含量调研[J].华北农学报,2010,25(增刊):301-304.  \n[21]王鑫.蒸汽爆破预处理技术及其对纤维乙醇生物转化的研究进展[J].林产化学与工业,2010,30(4):119-121.  \n[22]ANDERSON-HAFERMANN J C,ZHANG Y,PARSONS C M.Effcts of processing on the",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "nutritional quality of canola meal[J].Poultry Science,1993,72(2):326-333. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[23]周岩民,吴迪,刘峰,等.蛋白质溶解度法评价几种主要油料饼粕品质的研究[J].粮食与饲料工业,1996(6):36-39.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Detoxification Effect of Steam Explosion Technology on Free Gossypol Content of Cottonseed Meal WANG Qinghua HE Yonghui\\*LU Hongwei LIU Xingyou (Intelligent Cleaner Production of Livestock and Poultry in Henan Province Engineering Laboratory, Department of Animal Science, Henan Institute of Science and Technology, Xinxiang 453003, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to study the detoxification effect of steam explosion technology on free gossypol content of cottonseed meal. Seven treatments were exploded to commercially available cottonseed meal, which water material ratio was O, $30 \\%$ and $50 \\%$ and retention time was 10, 20 and 30 s per ratio of water to material, except only $3 0 \\mathrm { ~ s ~ }$ was exploded on O water material ratio, the steam pressure was kept at $2 . 0 \\ \\mathrm { M P a }$ for all treated cottonseed meal. Each treatment had three replicates. The content of free gossypol and protein solubility were analyzed for choosing a better steam exploded treatment,then the amino acid content,and nutrient digestibility in vitro by simulative digestion system of pig were analyzed. The results showed that the detoxification efficient of free gossypol and protein solubility were increased with steam retention time increased, and they were firstly increased then decreased with the water material ratio increased. So according to free gossypol content and protein solubility, water material ratio of $30 \\%$ ，steam pressure of $2 . 0 \\mathrm { M P a }$ for $3 0 ~ \\mathrm { s }$ was the better steam explosion treatment,which could remove $8 7 . 0 \\%$ of free gossypol content to 85.0 $\\mathrm { m g / k g }$ in cottonseed meal, and decrease protein solubility to $4 2 . 3 \\%$ . Compared with the control group, steam explosion significantly decreased lysine content and arginine content( $P < 0 . 0 1$ )，and significantly decreased the digestibility of crude protein and lysine in vitro ( $\\scriptstyle \\overbrace { P } < 0 . 0 1 )$ ),but had no significant effect on the digestibility of dry matter and gross energy in vitro ( $\\mathrm { \\langle } P { > } 0 . 0 5 \\mathrm { \\rangle }$ . In conclusion, steam explosion treatment can decrease the content of free gossypol, protein solubility, lysine content, arginine content, crude protein digestibility and lysine digestibility in vitro.Water material ratio of $30 \\%$ steam pressure of $2 . 0  { \\mathrm { M P a } }$ for $3 0 \\mathrm { ~ s ~ }$ is chosen as the bettr steam explosion treatment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: steam explosion；cottonseed meal； free gossypol； protein solubility； simulative digestionsystem",
+        "page_idx": 8
+    }
+]

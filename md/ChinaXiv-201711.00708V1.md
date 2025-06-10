@@ -1,0 +1,200 @@
+# 直线形围栏陷阱系统对玉米地鼠情的监测效果
+
+戴爱梅 欧阳春华1 郭永旺² 赵志强³古丽扎提(1．博州农业技术推广中心 博乐833400;2.全国农业技术推广中心 北京 100026;3．温泉县农业技术推广中心温泉833505)
+
+摘要围栏陷阱(trap-barrier system,TBS)技术自 2008年起在我国许多省市进行应用性试验和推广，已有的研究多是注重防治效果，虽有多位作者设想该技术还可用于鼠情监测，但尚少见针对性试验和全面的数据支持。为研究直线形围栏陷阱系统(linear trap-barrier system,L-TBS)用于农田鼠情监测的科学依据，探索L-TBS所获鼠情资料与常规性夹夜法的对应关系，2015年5—10月在新疆博乐市玉米地进行了两种方法监测效果的对比试验。通过同一区域、不同地点、操作方式一致的3组重复试验,L-TBS 监测的农田害鼠种类、种群数量动态与繁殖特征，皆与夹夜法结果吻合：鼠种组成百分比卡方检验，小家鼠 $x ^ { 2 } { = } 1 . 5 0$ ，灰仓鼠 $\scriptstyle x ^ { 2 } = 0 . 5 4$ ，均小于$\boldsymbol { X } _ { 0 . 0 1 } ^ { 2 }$ ；两种方法的繁殖特征相关性检测，性比 $r { = } 0 . 7 1 0 \ 0$ ，怀孕率 $r { = } 0 . 9 2 6 \mathrm { ~ } 8$ ，睾丸下降率 $r { = } 0 . 8 6 9 \ 2$ ，繁殖指数$r { = } 0 . 9 4 0 \ 0$ ，均显著正相关。而L-TBS 因能捕获幼体而更全面反映种群年龄结构;L-TBS 还能捕获夹夜法难以捕获的鼩，可用于防疫监测。由L-TBS法 $( X )$ 与夹夜法(Y获得的优势种小家鼠捕获率极显著正相关，回归方程$y = 0 . 1 4 3 \ 1 + 0 . 1 4 6 \ 5 x$ $( d . f . = 4 2 \$ ， $r = 0 . 7 0 7 \ 7$ ， $P = 0 . 0 0 0 \ 0$ )，展示了其与夹夜法的关联性。研究证明：在 $6 . 6 7 ~ \mathrm { h m } ^ { 2 }$ 农田边设置 $6 0 \mathrm { ~ m ~ }$ 长的L-TBS可以达到鼠害防治与监测的目的，比常规夹夜法具更省工、省力、安全，具有可操作性强的优点；而L-TBS比矩形TBS 更便于机械化农事操作，适于农田推广应用。
+
+关键词　农田鼠害监测　直线形 TBS 技术　夹夜法　鼠密度　鼠种组成　年龄结构　繁殖特征中图分类号： $\mathrm { S } 4 4 3 . + \mathrm { S } 4 7 5 . 3$ （20 文献标识码：A 文章编号:1671-3990(2016)07-0918-08
+
+# Monitoring rodents with linear trap-barrier system in corn fields
+
+DAI Aimei', OUYANG Chunhua', GUO Yongwang², ZHAO Zhiqiang³, GULIZHATI3   
+(1.Agro-tech ExtensionandServiceCenterofBolertala MongoliaAutonomous CityBole833400,China;2.NationalAgro-tech   
+ExtensionandServiceCenter,Beijingl0o26,China;3.Agro-tech ExtensionandServiceStationofWenquanCountyWenquan 833505, China)
+
+AbstractThe trap-barier system (TBS)method has been used extensively in agricultural systems for trapping rodents in China because itis highly effective inpreventingandcontrollng rodents with highcapturerate,longandconsistentcontrol period and poses no harm to people andlivestock as wellas predators.Many researchers also have recommended the use of TBS in monitoringrodents duetoitsability tocapturerodents.Inorder to test theefectsofTBSrodent monitoring,we set linetrap-bariersystem(L-TBS)and nightsnap-trap(NST,national industrystandardofNY/T1481—2007）systemsfrom May to October 2015to taprodents inthecorfieldsofBoertala MongoliaAutonomousCounty,Xinjiang UygurAutonomous Region. Thepurposeofthisstudywas to investigatethescientificevidenceoftheapplicationofL-TBS infieldrodentsurveillnceand to explore the corresponding relations between rodentcommunitycolectedbyL-TBSand byNST.Three replications were carriedout atdifferent sites inthe sameregion using the same operation mode.Therodentcommunity structureand population structure of dominant rodent species，including population dynamicsand reproduction characteristics of captured rodent species were analyzed.Theresults certified the relevance of rodent species,and population structure and reproduction characters of rodentcommunity between two methods.Firstly,Chi-Square testonrodent species compositioncaptured bythe L-TBS and NTS showed no statistically significant differences $( \chi ^ { 2 } = 3 . 3 1$ ， $P = 0 . 3 5$ ). The percentage of dominant species of rodent composition was also not statistically significantly different (Mus musculus: $\chi ^ { 2 } = 1 . 5 0$ $P = 0 . 4 4$ ; Cricetulus migratorius: $\chi ^ { 2 } = 0 . 5 4$ $P = 0 . 6 3$ ).Secondly,there was a statistically significant positive correlation between the abundance of the dominant species house mouse (Mus musculus) captured by L-TBS and NST $( y ~ = ~ 0 . 1 4 3 ~ 1 ~ + ~ 0 . 1 4 6 ~ 5 x$ ， $r = 0 . 7 0 7 \ 7$ ， $P = 0 . 0 0 0 \ 0$ ） Meanwhile,thereproduction parametersof dominant species (Mus musculus)trapped bythetwo methods also hadstatistically significant positive correlation (sex ratio, $r = 0 . 7 1$ ; pregnancy rate, $r = 0 . 9 2 6 \mathrm { ~ 8 ~ }$ ; percent male with prominent testicle, $r = 0 . 8 6 9 ~ 2$ · reproduction index, $r = 0 . 9 4 _ { _ ☉ }$ ). What is more,analysis of the age structure of the capture rodent species showed that L-TBS trapped more juvenilerodents than NST.L-TBS captured five groups ofrodents with diferent ageclasss (juvenile,sub-adult, adult I,adult Iandold-ageclasses),which fullyreflected theage structureofrodent population intheregion.ThusL-TBS moreaccurately reflected the population dynamics of field rodents in the studyarea.L-TBScaptured some species of Soricidae(e.g.，Sorexminutus）which were demanded to bemonitored bythe Epidemic Prevention Department of the government,but were hardlycaptured by NST method.Therefore,it was concluded thatL-TBS method was aplicable in preventing, controlling and monitoring over-ground rodent communities. It was necessary to set up $6 0 \mathrm { ~ m ~ }$ long L-TBS system in the farm field of $6 . 6 7 \mathrm { h m } ^ { 2 }$ . Compared with NST method,L-TBS method saved time and labor cost. It was also safer and easier to operate,particularlyapplicableinremote areas thatlacked monitoring personnelandtrafic.Inaddition,itwas poible to arrange L-TBS alongside fields,which was suitable for mechanized farming operations.Therefore,L-TBShada promising prospectfor wilder applications in monitoring field rodents.However,L-TBS method captured less proportionof Rattus norvegicus than NST method $( \chi ^ { 2 } = 9 . 5 4 > \chi _ { \ : 0 . 0 1 } ^ { 2 } = 9 . 2 1$ $P = 0 . 0 0 4 \ 5$ ). This was because Rattus norvegicus shied away from new objects and jumped over trapsdue to their larger size.There was therefore need for improvement ofthe traps of L-TBS.
+
+KeywordsFarmland rodent monitoring;Linear trap-barrier system;Night snap-trap；Rodent population density；Rodent species composition; Age structure; Reproduction characteristic
+
+围栏陷阱系统(trap-barrier system，TBS)是近年来国际上兴起的一项无害化控制农田害鼠技术，利用鼠类喜靠边走、沿障碍物边缘活动的习性，在围栏内放置捕鼠器灭鼠[1-2]。因其完全不使用杀鼠剂和其他药物，故也称绿色防控技术，可以作为生态农业的一项改革措施。该技术在马来西亚、印度尼西亚、越南等东南亚国家的水稻田中已较广泛应用，我国自2008 年起，先后在新疆[1,3-4]、安徽[5]、四川[6]、吉林[7-8]、辽宁[9]、青海[10-11]、贵州[2,12]及天津[13]等省区进行了应用性试验，普遍认为该技术对旱作物地的鼠害控制效果尤好，捕获率高，防效期长，对人畜及鼠的天敌无害，对环境无污染，并且设施材料可以重复利用，单位面积成本较低，具有安全、高效、环保等优点，有利于维护农区的生态平衡。其中多位作者[2-3,5.9-12]基于 TBS 能持续捕到完整的鼠体可供解剖观察，设想该技术还可用于鼠情监测。
+
+农田鼠情监测，我国以往主要采用夹夜法(或夹日法)，由农业部于2007年12月颁布为农业行业标准NY/T1481—2007《农区鼠害监测技术规范》[14]。规定的监测内容包括鼠的种类组成、鼠密度、年龄结构、繁殖特征(包括性比、怀孕率、平均胎仔数、睾丸下降率)等。TBS所获得数据能否同样提供上述行业标准规定的“监测内容"准确信息，与夹夜法调查结果的关联性如何，都需要进一步试验获取切实的科学数据支持。
+
+往年我国各地的TBS试验多采用封闭式围栏(即矩形围栏 rectangle trap-barrier system,R-TBS)[15]。但新疆农村现在已经普遍实施大规模的机械化操作，封闭式围栏置于田中，不便于机械化农事操作。为此，本试验依据现实需要，改用直线形TBS技术(L-TBS，即开放式围栏)[15]，以常规夹夜法作为对照,检验两者的监测效果及其关联性，以期为农田鼠情监测提供适宜现代机械化农业生产的有效技术。
+
+# 1材料与方法
+
+# 1.1 试验地点
+
+试验于2015年在新疆维吾尔族自治区博乐市小营盘镇进行。试验区域地势平坦，试验点均为玉米(Zeamays)地，每点连片面积大于 $3 3 . 3 \ \mathrm { h m } ^ { 2 }$ 。玉米品种均为 $\cdot _ { \mathrm { k w s 2 5 6 4 } } ,$ ，播种日期为4月15—20日，均采用地膜栽培技术，渠水淹灌，生育期共浇6\~7次水；5月中旬一6月中旬为农田机械化操作时期，对玉米田进行中耕、施药。四周方圆 $1 \mathrm { k m }$ 种植少量小麦(Triticum aestivum)、马铃薯(Solanum tuberosum)、蔬菜等作物。
+
+# 1.2试验设置和试验方法
+
+试验设置 L-TBS 法和夹夜法(NST)两种处理，以 NST作为L-TBS 监测效果的对照。
+
+L-TBS设置3个重复,3试验区分别相距 $1 2 0 0 \mathrm { m }$ 以上，以保证试验效果的独立性。安装围栏时间同为4月30日，并于5月1日同步开始检测，但重复Ⅱ因监测人员短缺，于8月31日结束调查，另2组重复则随着玉米收割与茬地翻耕，于10 月 10日结束。
+
+NST也设置3个重复，皆与各L-TBS试验区临近，选择田间环境相似、且鼠密度相当的玉米田。每天在3试验区各放置100个鼠夹，沿渠边或田埂一线摆放，每隔 $5 \mathrm { ~ m ~ }$ 放置1夹，每5d更换一次路线。各重复的试验与对应的L-TBS组同步开始、同步结束。
+
+6个试验区基本情况见表1。
+
+表12015年直线围栏陷阱(L-TBS)法与夹夜法(NST)鼠情监测试验区组设置Table1Experiment design of the linear trap-barrier system (L-TBS) and the night snap-traps (NST  
+
+<html><body><table><tr><td colspan="2">试验区 Plot</td><td>试验地点 Site</td><td>海拔 Elevation (m)</td><td>作物种类 Crop</td><td>耕作方式 Irrigation method</td><td>监测日期(月-日) Monitoring date (month-day)</td></tr><tr><td rowspan="2">重复I Repeat I</td><td>L-TBS</td><td>小营盘镇基建队 Jijiandui of Xiaoyingpan Town</td><td>705</td><td>玉米 Corn</td><td>淹灌 Basin irrigation</td><td rowspan="2">05-01—10-10</td></tr><tr><td>NST</td><td>小营盘镇基建队 Jijiandui ofXiaoyingpan Town</td><td>705</td><td>玉米 Corn</td><td>淹灌 Basin irigation</td></tr><tr><td rowspan="3">重复Ⅱ Repeat Ⅱ</td><td>L-TBS</td><td>小营盘镇基建队 Jijiandui of Xiaoyingpan Town</td><td>727</td><td>玉米 Corn</td><td>淹灌 Basin irrigation</td><td rowspan="2">05-01—08-31</td></tr><tr><td>NST</td><td>小营盘镇基建队 Jijiandui ofXiaoyingpan Town</td><td>727</td><td>玉米 Corn</td><td>淹灌</td></tr><tr><td>重复Ⅲ</td><td>L-TBS</td><td>小营盘镇一乡二村</td><td>745</td><td>玉米</td><td>Basin irigation 淹灌 05-01—10-10</td></tr><tr><td rowspan="2">Repeat Ⅲ</td><td>NST</td><td>Yixiang'er Village of Xiaoyingpan Town 小营盘镇一乡二村</td><td></td><td>Corn 玉米</td><td>Basin irrigation 淹灌</td><td rowspan="2"></td></tr><tr><td></td><td>Yixiang'er Village of Xiaoyingpan Town</td><td>745</td><td>Corn</td><td>Basin irigation</td></tr></table></body></html>
+
+# 1.3试验材料和安装方法
+
+# 1.3.1 直线形围栏陷阱系统(L-TBS)
+
+捕鼠筒：筒呈半圆形，高 $5 0 { \sim } 5 5 ~ \ \mathrm { c m }$ ，上口径 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ ，下底径 $3 0 { \sim } 3 5 ~ \mathrm { c m }$ (图1a)，用厚约 $0 . 5 ~ \mathrm { m m }$ 铝铁皮制成。筒底开4个直径 $_ { < 0 . 5 \mathrm { c m } }$ 的圆孔，备渗 漏雨水。每个L-TBS 需捕鼠筒12个。
+
+围栏及固定杆：围栏为孔径 ${ \leqslant } 0 . 5 ~ \mathrm { c m }$ 金属筛网，网高 $> 5 0 \ \mathrm { c m }$ ；固定杆为长 $1 0 0 ~ \mathrm { { c m } }$ 的钢筋，用以固定围栏(图 1b)。每个L-TBS 需筛网 $6 0 ~ \mathrm { ~ m ~ }$ ，固定杆
+
+16根。
+
+安装方法：每个L-TBS长 $6 0 \mathrm { ~ m ~ }$ ，安置在农田边上，便于农事机械操作(图1c)。围栏地上部分高$3 0 { \sim } 4 0 ~ \mathrm { c m }$ ，埋入地下的深度约为 $2 0 \ \mathrm { c m }$ ，用固定杆固定，固定杆间距 $4 { \sim } 5 ~ \mathrm { m } _ { \circ }$ 沿围栏边缘每间隔 $4 { \sim } 5 \mathrm { m }$ 竖直埋设1个捕鼠筒， $6 0 \mathrm { ~ m ~ }$ 共布置12个捕鼠桶。捕鼠筒的平面侧紧贴围栏，上沿与地面平齐；在紧靠筒□的围栏筛网上剪一个宽 $1 5 \ \mathrm { c m }$ 、高 $1 0 \ \mathrm { c m }$ 的方形开□，供鼠类进入。
+
+![](images/eb0df5ab3c68c98779e18b61ec3fdd81e4089c714fea1d4855ce75cdb70de621.jpg)  
+图1直线形围栏陷阱系统(L-TBS)的捕鼠筒结构(a)、围栏样式(b)和农田捕鼠筒与围栏安装(c)示意图Fig.1Ratbareltrapstructure (a),styleoffence(b)andinstalltionsetchoflinetrap-barrersysem(L-TBS)inthefield(c)
+
+http://www.ecoagri.ac.cn
+
+# 1.3.2 夹夜法(NST)
+
+捕鼠工具一律用 $1 2 ~ \mathrm { c m } { \times 6 . 5 } ~ \mathrm { c m }$ 塑料鼠夹，夹上放置花生米作诱饵。
+
+捕鼠筒、围栏、固定杆及鼠夹，均由北京市隆化新业卫生杀虫剂有限公司生产提供。
+
+# 1.4 调查内容及方法
+
+L-TBS围栏建成后，每天早晨检查每个捕鼠筒的捕获情况，逐一记载捕获鼠的种类、性别，测量体重、体长，解剖观察雌鼠怀孕、胎仔数及雄鼠睾丸下降情况，并将捕鼠筒内淤泥和积水清除。
+
+夹夜法每天下午后半响支夹，翌晨收夹，按收回的有效夹数计算捕获率，并对鼠作同样的剖检与记录。
+
+计量使用常规直尺、电子天平(精度为 $\mathbf { \sigma } _ { 0 . 0 1 \ \mathrm { g } ) }$ 。调查用具为长柄铁钳(从捕鼠筒中取鼠用)、盛鼠袋和医用解剖刀、剪，医用橡胶手套及消毒剂等。
+
+# 1.5 数据分析方法
+
+本研究着重分析行业标准NY/T1481—2007规定的监测内容一一鼠种组成、鼠密度、年龄结构、繁殖特征4个主要方面，对两种捕鼠方法的效果作比较。
+
+各项生物学指标的算式，因不同的分析需要而设定，放在下文交待。
+
+所有数据处理采用MicrosoftExcel和DPS数据处理系统软件[16]，进行求和、平均、显著性、相关性等项统计分析以及制图。
+
+# 2 结果与分析
+
+在2015年试验期163d(重复Ⅱ为123d)内，L-TBS在3个试验区共捕获鼠类297只，NST捕获324只,由此获得各项观察、解剖数据。现就各项主要指标，对两方法的监测效果作对比分析。
+
+# 2.1 鼠种组成
+
+5—10月整个试验期，在博乐市小营盘镇玉米田捕获的鼠类共有小家鼠(Musmusculus)、灰仓鼠(Cricetulus migratorius)和褐家鼠(Rattus norvegicus)3种。其中，小家鼠为优势种，各试验区捕到的数量均较多，分别占各区总捕鼠数 $6 9 . 8 6 \% \sim 1 0 0 . 0 0 \%$ ；其次为褐家鼠，有个试验区占到总捕鼠数的 $3 0 . 1 3 \%$ 。L-TBS和NST3个重复合计的动物种类与只数列于表2。
+
+表2直线形围栏陷阱(L-TBS)法与夹夜法(NST)捕获的玉米田动物种类和数量统计 Table2Statisticsofspeciesandnumberoftrappedanimalsincofieldbylinetrap-bariersystem(L-TBS)andnightsap-traps (NST   
+
+<html><body><table><tr><td rowspan="2">种类 Group</td><td rowspan="2">种 Species</td><td rowspan="2">项目 Item</td><td colspan="2">L-TBS</td><td colspan="2">NST</td><td rowspan="2">P值 P value</td><td rowspan="2">x</td></tr><tr><td>总计Total</td><td>平均 Mean</td><td>总计Total</td><td>平均 Mean</td></tr><tr><td>鼠类</td><td>捕获总鼠数 Total</td><td></td><td>297</td><td>99.00±16.50a</td><td>324</td><td>108.00±17.69a</td><td></td><td></td></tr><tr><td>Rodent</td><td>小家鼠</td><td>数量 Amount</td><td>281</td><td>93.67±13.86a</td><td>250</td><td>83.30±16.23a</td><td>0.440</td><td>X2=1.50</td></tr><tr><td rowspan="10">其他动物 Othal</td><td>Mus musculus</td><td>占比 Proportion (%)</td><td>(94.61)</td><td>95.38±2.37a</td><td>(77.61)*</td><td>76.26±4.25a</td><td>>0.05</td><td><X20.01</td></tr><tr><td>灰仓鼠</td><td>数量Amount</td><td>8</td><td>2.67±1.45a</td><td>11</td><td>3.67±2.33a</td><td>0.630</td><td>x2=0.54</td></tr><tr><td>Cricetus</td><td>占比 Proportion (%)</td><td>(2.69)</td><td>2.31±1.25a</td><td>(4.58)*</td><td>2.88±1.78a</td><td>>0.05</td><td><x20.01</td></tr><tr><td>褐家鼠</td><td>数量Amount</td><td>8</td><td>2.67±1.76a</td><td>63</td><td>21.00±2.65b</td><td>0.005</td><td>x2=9.54</td></tr><tr><td>Rattus norvegicus</td><td>占比 Proportion (%)</td><td>(2.69)</td><td>2.31±1.54a</td><td>(19.44)*</td><td>20.86±4.95b</td><td><0.05</td><td>>x20.01</td></tr><tr><td>鼩 Sorex minutus</td><td>数量Amount</td><td>30</td><td>1</td><td>0</td><td></td><td>1</td><td>1</td></tr><tr><td>蟾蜍 Bufo sp.</td><td>数量Amount</td><td>28</td><td>1</td><td>14</td><td></td><td>1</td><td>一</td></tr><tr><td>Laceria vigara</td><td>数量 Amount</td><td>47</td><td></td><td>0</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>1</td><td></td><td>一</td><td></td><td></td></tr><tr><td>小鸟Bird</td><td>数量Amount</td><td>0</td><td></td><td>64</td><td></td><td>一</td><td>二</td></tr></table></body></html>
+
+括号内百分比是按3区总鼠数计算的鼠种组成。平均值后字母不同表示两种方法间差异显著。The valuesin parenthesisare percentages of thetotalamoutofspecesofrepeats.Dintttrsfowingmeansiicatesigncantdierecebtwntwoeodslevel.
+
+从表2可看出，L-TBS和NST对3种害鼠的诱捕总量无显著差异，但是诱捕效果因鼠种不同而有差别。L-TBS 对小家鼠的诱捕效果好于 NST，对褐家鼠的效果不如NST，对灰仓鼠的效果两方法无显著差异。褐家鼠身大、强壮、机灵，有较强的“新物回避"反应和跳跃能力，据现场观察，它常会绕开筒口走，即使落入筒内也能跳出逃脱，因而L-TBS法实际上对于捕获褐家鼠有难度。
+
+以卡方检验两种方法提供的鼠种组成(表2)，小家鼠和灰仓鼠比例都无显著差异。褐家鼠则差异极显著，主要是因为L-TBS难以捕获它，所反映的该鼠种组成比例同实际差距很大。
+
+褐家鼠在博尔塔拉州属于新入侵物种，它随着铁路及货物的运输，自1992年零星传入阿拉山口，2011年笔者在博乐市郊区零星监测到褐家鼠，2013年开始在博州迅速繁殖，自前已成为农舍的优势鼠种，但农田的捕获率尚少。在未遭受该鼠干扰之前，笔者2008—2013年在温泉县作的矩形围栏陷阱(R-TBS)与NST对比试验(表3)显示，虽然该地常见鼠种较多，在鼠种组成百分率上两法所得却很接近，卡方检验无显著差异，可见对于体型较小的鼠种，两种方法捕获机率相同，L-TBS同样能可靠地监测鼠种组成。
+
+表32008—2013年在博尔塔拉州温泉县的矩形围栏陷阱系统(R-TBS)与夹夜法(NST)捕获的鼠种组成Table3Species compositionofrodentcapturedbyrectangle trap-bariersystem (R-TBS)and night snap-traps (NST)in WenquanCounty,Boertala from 2008 to 2013  
+
+<html><body><table><tr><td>Tretment</td><td>项目</td><td>鼠类合计</td><td></td><td></td><td></td><td></td><td>卡方分析</td><td></td><td></td><td></td><td>鸟</td></tr><tr><td>R-TBS</td><td>数量Amount</td><td>657</td><td>435</td><td>107</td><td>107</td><td>8</td><td>x²=3.31 P=0.35</td><td>102</td><td>33</td><td>21</td><td>0</td></tr><tr><td rowspan="3">NST</td><td>占比 Proportion (%)</td><td></td><td>66.21</td><td>16.29</td><td>16.29</td><td>1.22</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>数量Amount</td><td>195</td><td>118</td><td>39</td><td>37</td><td>1</td><td></td><td>0</td><td>11</td><td>0</td><td>34</td></tr><tr><td>占比 Proportion (%)</td><td></td><td>60.51</td><td>20.00</td><td>18.97</td><td>0.51</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+试验中R-TBS设2个矩形围栏，共有 $1 2 \times 2$ 个捕鼠筒，且天天在捕；夹夜法仅在每月上旬放置100夹，故捕获鼠数相对较少。In this test, R-TBS were set up with two rectangular enclosure,a total of $1 2 \times 2$ trap barrels were set and trapped animals every day.1OO snap-traps were set only in the beginning of each month.Therefore,there was less animals trapped by NST than by R-TBS.
+
+此外，无论是 2015 年试验(表 2)还是 2008—2013年试验(表3)，TBS 都会捕获较多鼩(Sorexminutus)、蟾蜍(Bufo sp.)和蜥蜴(Lacerta vivipara),NST则较易打到小型鸟类。鼩鼱为劳氏食虫自(Eulipotyphla)鼩科(Soricidae)动物，主食虫类，鼠夹难以捕获，因它能携带多种自然疫源性疾病病原体，是防疫部门的重要监测对象，TBS能捕到鼩，这就比鼠夹法多了一项功能。而掉进捕鼠筒的蟾蜍和蜥蜴等有益动物，一般不会死亡，及时捡出仍能生还。鼠夹打着小鸟则大多死亡。从这几点看,TBS法在维护生态环境上优于鼠夹法。
+
+因灰仓鼠捕获数太少，L-TBS捕获的褐家鼠亦明显偏少，下面各项分析仅以优势种小家鼠作代表。
+
+# 2.2 优势种的种群密度
+
+鼠密度是考查害鼠数量动态的指标，现以优势种小家鼠的捕获率作分析。因各重复组每日捕得的鼠数不多，为便于比较，先将5—8月的3个重复和9—10月的2个重复合并计算旬总捕获率，其算式为：
+
+旬计百夹夜捕获率 $\vdots =$ 旬合计小家鼠只数/该旬各 夜的3或2重复合计夹数 $\times 1 0 0 \%$ (1)
+
+旬计百筒日捕获率 $\vdots =$ 旬合计小家鼠只数/(12筒 $\dot { \mathbf { \Omega } } \times \mathbf { \Omega }$ 3或2重复 $\times 1 0$ 或 $1 1 ) \times 1 0 0 \%$ (2)
+
+依此绘制小家鼠种群数量消长曲线图。由图 2可知，虽然两法捕获率有所不同，但消长动态大体一致。仅5月下旬因褐家鼠大量进入农田而抢占了鼠夹，同时它的强势又排挤了小家鼠活动，后者靠边躲避就会更多地掉进L-TBS陷阱，致该旬小家鼠捕获率L-TBS偏高，夜夹法则显著偏低，异常扩大了差距。
+
+![](images/cc7b86664b6a9d054ff9883910aeae46b1fb403f5c3b0692df5a1ca5866cf22c.jpg)  
+图2直线形围栏陷阱系统(L-TBS)与夹夜法(NST)反映的小家鼠种群数量消长曲线  
+Fig.2Population dynamics of Mus musculus monitored by line trap-barrier system (L-TBS)and night snap-traps(NST)
+
+再将全试验期(5—10月)每旬的各重复组数据分开统计，以L-TBS百筒日捕获率为自变数 $( \boldsymbol { X } )$ ，百夹夜捕获率为因变数 $( Y )$ ，作回归分析，得回归方程为： $y = 0 . 1 4 3 1 + 0 . 1 4 6 5 x .$ 。正相关关系极显著 $( n { = } 4 4$ $r { = } 0 . 7 0 7 \ 7$ ， $P { = } 0 . 0 0 0 \ 0 \$ )。由图3可见，除1个点在外，所有点都落在 $9 5 \%$ 置信带之内，表明 $Y$ 对 $X$ 的回归关系十分密切。这就证明两种方法都可以很好地监测优势种的数量消长动态，可望再经多年数据积累建立更成熟的回归式，就有可能利用两者的关联性，以L-TBS 捕获率推算出对应的夹夜法捕获率。
+
+# 2.3 优势种的年龄结构
+
+基于北疆小家鼠的具体生物学资料[17及笔者多年记录的解剖资料，采用表4设定的体重标准，将试验期内捕获的全部小家鼠作年龄分组，然后汇总成图4。
+
+![](images/b7c9e2c2909939d028d195981bc1bb187870389eecc44552b1791c758e5dbe78.jpg)  
+图3直线形围栏陷阱系统(L-TBS)与夹夜法(NST)捕获 率的回归关系图(示回归直线及其 $9 5 \%$ 置信区间) Fig.3Correlation of trap success ofMus musculus by line trap-barrier system(L-TBS) and night snap-trap(NST),with the regression lines and $9 5 \%$ confidence interval
+
+由图4可见，L-TBS捕获的小家鼠包含幼体、亚成体、成体1、成体2和老体5个年龄组，并且总体日龄偏低，而鼠夹法所获只有亚成体、成体1、成体2和老体4个年龄组，且日龄偏高者多。这是由于活动能力强、体重大些的鼠较易寻着并触发鼠夹, $\leqslant 7 . 5 \ \mathrm { g }$ 的幼鼠活动能力差，少上夹取食或因太轻而不能踏发鼠夹，而L-TBS捕鼠筒的筒口与地面平齐，沿围栏走的幼鼠容易跌入。因此，L-TBS捕获的鼠类年龄组较全，可以为监测研究提供更全面的分析材料。
+
+# 2.4 优势种的繁殖特征
+
+试验年度小家鼠发生量偏低，各月捕获数都不多。雌雄繁殖特征须分性别各自统计，还要撇开不具繁殖能力的幼体，因而有些重复组样本数不够数理计算要求，本节只好将3重复组的样本合并做总的动态分析。
+
+表4小家鼠不同年龄分组的体重标准Table 4Body weight of each age class of Mus musculus  
+
+<html><body><table><tr><td>性别 Sex</td><td>I组(幼体，15~30 日龄) Immature (15-30 days age)</td><td>Ⅱ组(亚成体,30~70 日龄) Subadult (30-70 days age)</td><td>Ⅲ组(成体1,70~90 日龄) Adult 1(70-90 days age)</td><td>IV组(成体2,>90 日龄) Adult 2 (>90 days age)</td><td>V组(老体,1~1.5年) Old (1-1.5 years age)</td></tr><tr><td>8</td><td>≤7.5</td><td>7.6~11.0</td><td>11.1~13.5</td><td>13.6~17.5</td><td>≥17.6</td></tr><tr><td></td><td>≤7.5</td><td>7.6~12.0</td><td>12.1~14.5 孕Pregnancy:≤18.5</td><td>14.6~20.5 孕Pregnancy:18.6~25.5</td><td>≥20.6 孕Pregnancy: ≥25.6</td></tr></table></body></html>
+
+本表参考文献[17]，结合笔者历年记录的解剖资料拟定。小家鼠体重与实际日龄并不很对应，各组变幅互有重叠,90日龄后基本停止生长； 表中所列各年龄组日龄按对应的生长发育进程标注。Thebody weightofageclassofMus musculus wasdeterminedacordingtothereference[17] combinedwithtbservatiofauthoroerteyearsMususlu’sodyightsotompleelyespoingithteactualteae rangoverlapsbtweeneigburaesAfter9dsageM.mususceasestogo.hageofachlasslisdtheableismakedithte corresponding age-based growth and development process.
+
+![](images/988f3c29c6b3cc03beffb982e37351ba3f64de936f14c9188f26f442e6914d46.jpg)  
+图4直线形围栏陷阱系统(L-TBS)与夹夜法(NST)捕获的小家鼠年龄结构对比图  
+Fig.4Age structure of Mus musculus trapped by line trapbarrier system (L-TBS) and night snap-trap (NST)
+
+# 2.4.1 性比
+
+性别结构在不同发育阶段，如出生前后、性成熟前后差别很大。结合种群数量和繁殖动态分析时，通常着重观察成年鼠的性比。对5—10月L-TBS、NST 捕获的小家鼠成体雌鼠(体重 $\geqslant 1 2 . 1$ g)与雄鼠（体重 $\geqslant 1 1 . 1 \ \mathrm { \ g } )$ 只数，依“/"计算其性比并绘成图$5 \mathrm { a } _ { \circ }$ 由图可知两法测得的性比值都在10月达到最高，最低值出现的月份则略有差别，但整体变化趋势基本一致。两者反映的动态，相关系数 $r { = } 0 . 7 1 { > } r _ { 0 . 0 5 }$ ，显著正相关。卡方检验, $X ^ { 2 } { = } 0 . 2 7$ ，达显著水平 $\scriptstyle ( P = 0 . 9 9 8 2 >$ 0.05)，两方法无显著差异。
+
+# 2.4.2 怀孕率
+
+幼体和亚成体基本无生育能力，而L-TBS法捕获这2年龄段的鼠数远比鼠夹法多，为排除两套捕获样本这一年龄结构(成幼比)因素对繁殖状况分析的干扰，采用“成体怀孕率 $\vdots =$ 怀孕鼠数/雌成体鼠数"算式，即仅考查体重 $\geqslant 1 2 . 1 \ \mathrm { g }$ 的雌性成体怀孕率，将算得的结果制成图 $5 6$ 。两法测得的小家鼠怀孕率最高值均在5月和10月份，最低值均出现在7月，反映的动态与多年监测结果一致。两方法的相关系数为 $r { = } 0 . 9 2 6 \mathrm { ~ } 8$ ， $\scriptstyle P = 0 . 0 0 7 \ 8$ ，表明L-TBS与鼠夹法一样可以监测害鼠雌性繁殖动态。
+
+# 2.4.3 睾丸下降率
+
+同理，采用“成体辜丸下降率 $\vdots =$ 辜丸下降鼠数/雄成体鼠数”，算得雄性成体(体重 $\hat { \mathcal { S } } \mathcal { \gtrsim } 1 1 . 1 \mathrm { ~ g } )$ 睾丸下降率，由图5c可知，两法测得的辜丸下降率皆在5月和10月达最高点 $( 1 0 0 . 0 0 \% )$ ，最低点皆在7月份。两方法的相关系数为 $r { = } 0 . 8 6 9 \ 2 { > } r _ { 0 . 0 5 }$ ， $P { = } 0 . 0 2 4 ~ 5$ ，同样表明L-TBS可以监测害鼠的雄性繁殖动态。
+
+![](images/7cbf64871be4e4f03b85dc2856dafbb8c0f4909b2c76d373b5f1a38eca6dac18.jpg)  
+图5直线形围栏陷阱系统(L-TBS)与夹夜法(NST)捕获的小家鼠性比(a)、怀孕率(b)、睾丸下降率(c)和繁殖指数(d) Fig.5Saxratio (a),pregnancyate (b),rateof testis insrotumofmale (c)andreproductiveindex(d)ofMus musculustrappedby line trap-barrier system (L-TBS) and night snap-trap (NST)
+
+# 2.4.4 繁殖指数
+
+小家鼠各月平均胎仔数通常变幅较小，与怀孕率有相辅相成关系，结合怀孕率因素计算繁殖指数 $\mathit { \Psi } = \mathit { \Psi }$ 每胎平均胎仔数 $\times$ 怀孕率 $\mathbf { \sigma } = \mathbf { \sigma }$ 怀有的胎仔总数雌成鼠总数)能更综合性地反映种群繁殖力水平[17]。将两种监测方式测得的5—10 月繁殖指数作图5d,繁殖指数最高峰皆在5月份，10月份为第2高峰，7月份皆为最低点；两法获得的5—10月份繁殖指数相关系数为 $r { = } 0 . 9 4 0 \ 0 { > } r _ { 0 . 0 5 }$ ， $P { = } 0 . 0 0 5 \ 2$ ，两动态显著正相关。
+
+综观以上4项指标的分析，可以认定对于害鼠繁殖特征的监测，通过L-TBS捕获鼠的解剖观察完全可以获得与夹夜法监测相同的效果。
+
+# 3结论与讨论
+
+围栏陷阱灭鼠技术2008年以来在我国的应用性试验，多是着重其防治效果的研究[1-13]，虽有多位学者设想该技术还可用于鼠情监测，但尚少见针对性试验和全面的数据支持。本试验以现行标准夹夜法(NST)为对照，通过在新疆玉米地5个月连续监测，探讨了直线型陷阱灭鼠系统(L-TBS)所获鼠情资料与NST法的对应关系，结果表明：1)L-TBS技术同样能准确反映本地区农田害鼠发生动态，可明显地监测到危害高峰期。L-TBS法与夹夜法获得的捕获率数据极显著正相关，能够建立回归关系极密切的回归方程，此结果提示可望通过L-TBS所获数据的转换代替夹夜法进行鼠密度监测。2)L-TBS同夹夜法一样能捕获各种鼠类，并且还能捕到鼠夹难以捕获的食虫目鼩供防疫检测。结合2008—2013年的试验数据，可知TBS对于一般体型较小的鼠种，能和夹夜法一样确切反映其在群落组成中的比例。3)L-TBS 捕获优势鼠种的年龄组齐全，可弥补鼠夹法难以捕获幼体的缺陷。4)本试验年度小家鼠发生量偏低，各雌雄繁殖特征系将3个重复组的样本合并，一起做总的动态比较。其相关性检验显示，各列数据反映的种群繁殖特征，包括成体怀孕率与辜丸下降率、平均胎仔数与繁殖指数以及性比,L-TBS法都同夹夜法监测所得动态吻合。
+
+综合这4方面结果，可以有力地证明L-TBS具有与夹夜法相当的鼠情监测效果；通过建立L-TBS捕获率对夹夜法捕获率高度相关的回归方程，首次解答了两技术监测鼠密度数据的关联性问题，为L-TBS用于农田鼠情监测提供了科学依据。
+
+农区鼠害监测现行业标准是夹夜法，它耗费人力和工时多，且容易损耗、丢失，尤其如新疆地阔人稀，农田分布广使置夹路程远，晚放晨收在某些地带人员甚至有安全风险。因此探索替代方法在新疆更具紧迫性。本试验以全套数据证明L-TBS具有鼠害防治和监测双重功能，不仅省工、省力、安全、便于操作，一次安装能长期使用，而且可全期数月完整记录农田害鼠在田间活动状况、数量消长和发生趋势等信息，监测数据不间断，在时间和空间上弥补了夹夜法的局限性。同时由本试验还可见，直线形L-TBS对害鼠的防治和监测与已知的矩形TBS效果[1-4]基本相同，而它放置于田边，不影响机械化农事操作，每 $6 . 6 7 \ \mathrm { h m } ^ { 2 }$ 地块放置 $6 0 \mathrm { ~ m ~ }$ 长的直线形TBS即可，解决了以往封闭式围栏置于农田内影响农事操作的弊端。但在整个耕作区应设置多少个、多长L-TBS，才能有效控制并准确监测鼠害?L-TBS放置农田的不同位置(如农田中、农田边)，其监测效果是否一致？这些问题尚需进一步研究解决。
+
+此外，本次试验中发现，对于近年才侵入博州，体型较大的褐家鼠，因善跳跃能从捕鼠筒中逃脱，L-TBS 对其较难捕获，使L-TBS捕获样本反映的褐家鼠所占组成比例明显低于鼠夹法记录的真实百分率，这对及时歼灭这一新入侵的全球头号害鼠乃是不容忽视的缺陷，亟需作出技术改进。
+
+致谢本文的写作在中国科学院亚热带农业生态研究所陈安国研究员和张美文研究员悉心指导和帮助下完成，特此表示衷心感谢！
+
+# 参考文献 References
+
+[1]王振坤，戴爱梅，郭永旺，等．TBS技术在小麦田的控鼠试 验[J]．中国植保导刊,2009,29(9):29-30 Wang ZK,DaiAM,Guo YW,et al.Experiments of control rodent by TBS in wheat field[J].China PlantProtection,2009, 29(9): 29-30   
+[2]杨再学，郭永旺，金星，等．TBS技术监测及控制农田害鼠 效果初报[J]．山地农业生物学报,2012,31(4):301-306 Yang Z X,Guo Y W,Jin X,et al.Preliminary report on trap-barried system for monitoring and control effects of farmland rodents[J].Journal of Mountain Agriculture and Biology,2012,31(4): 301-306   
+[3]李广华，伊力亚尔，魏新政，等．新疆 TBS灭鼠技术示范 应用效果初报[J]．中国植保导刊,2011,31(8):27-29 Li G H,Yiliya'er,Wei X Z,et al.Preliminary report of application demonstration on effect of control rodent by TBS in Xinjiang [J].China Plant Protection,2011,31(8): 27-29   
+[4]何玲，穆龙.TBS灭鼠技术在新疆的应用[J]．新疆农垦科技, 2012(2):21-22 He L,Mu L.TBS rodent control technology in Xinjiang[J]. Xinjiang Farm Research of Science and Technology,2012(2):21-22   
+[5]陈昊．TBS技术农田控鼠效果研究[J]．现代农业科技, 2010(6):138-139 Chen H. Study on effect of rodent control by TBS technology in farmland[J]. Modern Agricultural Science and Technology, ZU10(0):1 [6] 王显报，郭永旺，蒋凡,等．TBS 技术在农田鼠害长期控制中的 应用研究[J].中国媒介生物学及控制杂志,2011,22(1):57-58 Wang XB,Guo Y W, Jiang F,et al.Application of trap barrier system (TBS） technology in long-term farmland rodent control[J]. Chinese Journal of Vector Biology & Control, 2011,22(1): 57-58 [7]郭永旺，张振铎，李国忠，等．围栏陷阱(TBS)捕鼠技术对 玉米田害鼠的防治效果及鼠害产量损失研究初报[J]．中国 植保导刊,2011,31(10):20-22 Guo Y W, Zhang Z D, LiG Z,et al. Preliminary report on rodent control effect by TBS and yield loss in cornfield[J]. China Plant Protection,2011,31(10): 20-22 [8]李国忠，张敬德，郑凯，等．TBS控鼠技术在玉米田应用效 果初报[J]．植物保护,2012,38(1):174-176 Li G Z, Zhang JD, Zheng K,et al. A preliminary study on application of the technique of trap-barrier system in maize fields[J].Plant Protection,2012,38(1): 174-176 [9] 杨海波，林文忠.TBS 灭鼠试验[J]．新农业,2011(1):21-22 Yang HB,Lin W Z. Experiment of control rodent by TBS[J]. Modern Agriculture,201l(1): 21-22   
+[10]张可田．乌兰县麦田鼠害 TBS 防控技术应用效果初报[J]. 青海大学学报：自然科学版,2012,30(2):85-87 Zhang K T. Application effect of monitoring and controlling technology of TBS in the wheat field of Wulan County[J]. Journal of Qinghai University: Nature Science Edition,2012, 30(2): 85-87   
+[11]张宇卫，祁生源，吴玉栋，等．TBS 技术在青海省鼠情监测 中的应用试验[J].中国植保导刊,2012,32(9):44-46 Zhang Y W, Qi S Y, Wu YD,et al. Rodent monitoring experiment to apply TBS in Qinghai[J].China Plant Protection,2012,32(9): 44-46   
+[12] 艾祯仙，周朝霞，陆晓欢，等.TBS灭鼠技术的效果分析[J]. 山地农业生物学报,2015,34(3):82-85 Ai Z X, Zhou Z X,Lu X H, et al. Effect analysis of TBS deratization technique[J]. Journal of Mountain Agriculture and Biology,2015,34(3): 82-85   
+[13]梁红春，兰璞，郭永旺．围栏捕鼠技术在天津地区应用研 究[J]．中国媒介生物学及控制杂志,2014,25(2):145-147 Liang H C,Lan P,Guo Y W. Application of trap-barrier system in controlling rodents in Tianjin,China[J].Chinese Journal of Vector Biology & Control,2014,25(2):145-147   
+[14]中华人民共和国农业部.NY/T 1481-2007 农区鼠害监测技 术规范[S]．北京：中国农业出版社,2008 The Ministry of Agriculture of the People's Republic of China. NY/T 1481—2007 Specification of Monitoring on Rodent Pest in Rural Areas[S]. Beijing: China Agriculture Press, 2008   
+[15] 潘世昌，李梅，宋致书，等．不同安装方式 TBS 围栏控制 农田害鼠效果比较[J]．中国植保导刊,2015,35(5):27-30 Pan S C,Li M, Song Z S,et al. Comparison of control effect on rodents in farmland using different installation TBS fence[J]. China Plant Protection,2015,35(5): 27-30   
+[16]唐启义，冯明光.实用统计分析及其 DPS 数据处理系统[M]. 北京：科学出版社,2002:43-74 Tang Q Y, Feng M G. DPS Data Processing System for Practical Statistics[M]. Beijing: Science Press,2002: 43-74   
+[17]朱盛侃，陈安国．小家鼠生态特性与预测[M]．北京：科学 出版社,1993 Zhu S K,Chen A G. Ecological Characteristics and Population Prediction of Mus musculus[M]. Beijing: Science Press,1993

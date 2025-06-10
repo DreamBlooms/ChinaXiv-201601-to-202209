@@ -1,0 +1,211 @@
+# 静态图像中采用混合卷积结构进行人群密度估计\*
+
+范绿源，仝明磊，李敏，南昊(上海电力学院 电子与信息工程学院，上海 200090)
+
+摘要：提出了一种混合卷积神经网络用于人群数量的感知计算，在高度密集的场景中可以准确地预测人群密度图。模型仅由两个部分组成：前端为扩张卷积神经网络提取二维特征；后端采用分数步长卷积神经网络降低下采样中的信息损失。为了验证和分析算法性能，模型设计基于当前较为流行的 ShanghaiTech 数据集，使用回归问题的评价指标，即平均绝对误差（MAE）和均方误差（MSE）作为评估算法性能的标准。并且在Shanghai Tech( $\mathrm { M A E } { = } 1 0 0 . 8 )$ ，UCF_CC_50(MAE=305.3）与WorldExpo'10数据集上进行测试，实验表明模型在密集场景下较以往的方法有效降低了MAE和MSE，提高了密集人群计数的准确率。
+
+关键词：密集场景；扩张卷积；分数步长卷积；密度估计；人群计数 中图分类号：TP391 doi: 10.19734/j.issn.1001-3695.2018.06.0661
+
+Crowd density estimation using hybrid convolution structure in static images
+
+Fan Lyuyuan, Tong Minglei†, Li Min, Nan Hao (SchoolofElectronics &InformationEngineering,Shanghai UniversityofElectric Power,Shanghai 2Ooo90,China)
+
+Abstract:This paper developedahybridconvolutionneuralnetwork for perceptual crowd counting,whichcouldaccurately predictdensity maps in extremelycrowded scenes.Itconsists of merelytwocomponents:the front-end is a dilated convolutionalneuralnetworktoextract two-dimensionalfeatures;theback-enddeployedafractionallstridedconvolution to lower the loss of image information caused bydown-sampling.This paper designed the model structure basedon the dataset Shanghai Tech,then inan atempt toacknowledgeand analyze the performance of thealgorithm,,andafterwards made use of the evaluation indicators of the regresion problem,the average absolute error (MAE)and the mean-square error(MSE)as the criteria.Additionally,testing the method on Shanghai Tech $\mathrm { M A E } { = } 1 0 0 . 8 )$ ,UCF_CC_50(MAE $\scriptstyle : = 3 0 5 . 3$ ） and WorldExpo'10 datasets whilethe experiment results reveal thatthe proposed model can efectively reduce MAE and MSE when compared with previous methods.
+
+Keywords:denselycrowded scenes；dilatedconvolution；fractionallystridedconvolution；density estimation；crowd counting
+
+# 0 引言
+
+作为一种人群控制和管理的重要手段，人群密度的精确统计，是当前视频监控领域的一个重要研究方向。某些特定场景人群数量的信息统计，在社会安全、交通流控制方面具有广泛的应用价值。由于人群相互遮挡以及所处环境复杂，现有的方法在实际应用中很难满足要求。卷积神经网络在特征学习中具有显著的性能，可以自动、可靠地获取监测人数或人群密度，报警和预测人群的某些异常行为，而且可以用于人群模拟，人群行为心理学与群体心理学研究。
+
+早期的研究方法I往往采用行人检测的方法间接进行，如采用HOG(histograms oforiented gradients)特征，当人群比较稀疏、人与人之间不存在较大的重叠时，能得到一个比较准确的人数；但当人群变得比较密集时，这种方法得出的结果将不可信。文献[2]提出组合HOG特征和颜色直方图特征的检测方法，通过联合两种特征的SVM（supportvectormachine）计算结果进行目标判定，消除HOG特征检测产生的部分误检。还有一些基于回归的方法，一般通过回归模型如高斯处理回归、线性回归、SVM回归等求出人群特征与人数之间的函数。该类方法中像素统计特征[3]与人群密度之间的关系较简单，训练后的分类器泛化能力强。但此类方法依赖于提取前景，若前景提取不好则估计效果较差，且密集场景下正确率较低；而基于图像纹理特征[4.5]的人群数量估计方法虽在一定程度上解决了在密集人群中预测效果差的问题，但此方法对稀疏人群估计性能不佳。另外，由于直接在原始图像上提取纹理特征，容易受背景纹理干扰。综上所述传统方法在预测密集人群密度的表现远未达到预期。在卷积神经网络CNN（convolutionalneuralnetwork）出色完成各种计算机视觉任务的启发下，许多基于CNN的方法得到快速发展，并在人群计数[67方面取得了很大进步，某些基于CNN方法如MCNN（multi-column convolutional neural network）设计多列结构利用不同尺度的感受野提取特征[8]，级联多任务学习Cascaded-MTL网络中通过反卷积恢复空间分辨率[9]，极端密集人群图像中利用多源信息[10]回归的人群计数等。但是在感受野限制和图片细节丢失问题方面，算法仍有一定的局限性，虽然在拥挤的环境中通过回归计数是可靠的，但没有对象位置的信息，它们对于低密度人群的预测往往被高估。此类方法的鲁棒性取决于统计数据的稳定性，而在高密度场景中，样本数量往往比较小，不能帮助探索其内在的统计原理。因此，Lempitsky 等人[11提出了一种在局部通道特征与对应的目标密度图之间进行线性映射的新方法，将图像中存在的空间信息结合起来。最近，Sam等人[12]提出了一种利用密度等级分类器对特定输入块而选择不同回归函数的可切换式CNN。这两种解决方案目前达到了最先进的性能，并且两者都使用基于多列的体系结构（MCNN)和密度级分类器[13]。然而以上方法的主要不足体现在：a)多列CNN网络较宽，这种扩张的网络结构需要更多的时间进行训练；b)上述的两种解决方案均用到密度级分类器，因为对象数量的大范围变化，在实时拥挤场景分析中，密度水平的粒度难以定义；c)使用分类器意味着需要实现更多的列，这使得设计更加复杂。
+
+考虑到上述存在的问题，本文提出一种在集群场景下编码更广、更深特征的新方法，并生成高品质的密度图。模型通过扩张卷积来增加感受野，同时减少网络参数的数量，并且最终利用分数步长（转置）卷积层来尽可能地恢复细节丢失。
+
+# 1 密度图生成算法
+
+训练数据中密度图质量决定了人数统计算法的性能。首先将带有标签的人头像转换为人群密度图。如果在像素 $x _ { i }$ 处存在头部，将其表示为 $\delta$ 函数 $\delta \big ( x - x _ { i } \big )$ 。因此，具有 $N$ 个头标的图像可以表示为一个函数：
+
+$$
+f \left( x \right) = \sum _ { i = 1 } ^ { \mathrm { { N } } } \delta \left( x - x _ { i } \right)
+$$
+
+为了将其转换为连续密度函数，使用高斯核 $[ 1 1 ] _ { G _ { \delta } }$ 来卷积该函数，使得密度为 $\rho ( x ) = f ( x ) * G _ { \delta } ( x )$ 。事实上，每个 $x _ { i }$ 是3D场景中地面人群密度的样本，并且由于透视失真，像素与不同样本相关的 $x _ { i }$ 对应于场景中不同大小的区域。因此，为了准确估计人群密度 $\rho$ ，需要考虑由地平面与图像平面之间的单应性引起的失真。假设在每个头部周围，人群相对均匀分布，那么头部和其最近的 $k$ 个头部（在图像中）之间的平均距离给出几何失真的合理估计（由透视效应引起）。因此，应该根据图像内每个人的头部大小来确定扩散参数 $\sigma$ 。
+
+很多情况下由于遮挡而难以精确地获得头部的大小，找到头部大小与密度图之间的基本关系也非常困难。通常头部大小与拥挤场景中两个相邻头部中心之间的距离有关，所以根据其与最近邻的平均距离自适应地确定每个人的参数。对于给定图像中的每个头 $x _ { i }$ ，将到它的 $k$ 个最近邻的距离表示为 $\{ d _ { 1 i } , d _ { 2 i } , . . . , d _ { k i } \}$ 。平均距离为
+
+$$
+\overline { { d } } _ { i } = 1 / k \textstyle \sum _ { j = 1 } ^ { k } d _ { j i }
+$$
+
+因此，与 $x _ { i }$ 相关的像素对应于 $x _ { i }$ 上的区域。为了估计像素 $x _ { i }$ 周围的人群密度，需要将 $\delta \big ( x - x _ { i } \big )$ 与具有与 $d _ { i }$ 成比例的方差 $\sigma _ { i }$ 的高斯核进行卷积，更确切地说，密度 $\rho$ 应该是
+
+$$
+\rho ( x ) = \sum _ { i = 1 } ^ { N } \delta ( x - x _ { i } ) * G _ { \sigma _ { i } } \left( x \right) , \quad w i t h \ \sigma _ { i } = \beta \overline { { d } } _ { i }
+$$
+
+对于某些参数 $\beta$ ，将标签 $f$ 与密度内核进行卷积，该密度内核适应于每个数据点周围的局部几何分布，称为几何自适应内核。文献[8]中的经验值 $\beta = 0 . 3$ 给出了最好的结果。模型生成的密度估计图需要与数据集的真实密度图作比较，产生的误差损失反向传播给网络，使训练向损失减小的梯度方向进行，标签密度图的准确率很大程度上影响模型的可行性，效果如图1所示。其中图1（a）为原始图片；（b）为相应的原始密度图，密度图左上角为标签人数。
+
+![](images/3e1dd83ea1eb4ee41d489e3708f72055061c9c480471d5ab265f7d1e1b1fe576.jpg)  
+Fig.1Image to density map
+
+# 2 网络结构
+
+首先网络整体配置为，输入一张图像，输出对应的人群密度图（如每平方米有多少人）；然后通过积分获得人数。设计的基本思想是部署双列扩张卷积，用于捕获具有较大感受野的高级别特征，并且生成高质量的密度图而不是粗略地扩展网络复杂度。在本章中首先介绍了提出的体系结构，然后给出了相应的训练方法。
+
+# 2.1多元卷积结构配置
+
+在文献[14]中，其模型的前端输出图片大小是原始输入的1/8；继续堆叠更多的卷积层和池化层，输出大小将进一步缩小，并且很难生成高质量的密度图，所以模型后端采用扩张卷积层，用于提取更深的显著性信息以及提高输出分辨率。受该文献的启发，本文模型采用扩张卷积作为网络的前端，因其可以通过增大感受野获取更丰富的特征，文献[14]是在分辨率已经降到很低的情况下再使用扩张卷积捕捉更多特征，本文则是先利用扩张卷积获取更多的图像信息。再利用转置卷积将图像尺寸增大为原来的2倍。由于设计的模型层数少、结构简单，经过前端网络（含两个池化层）后仅为原始输入的1/4，再经过转置卷积恢复为原图大小的1/2。
+
+先将图像样本下采样降低分辨率，然后再用上采样还原回来。该过程使下采样的样本分辨率降低，再上采样后分辨率虽不会得到提升，但是这样可以将小目标分辨率低和面积小的问题还原。因此应用分数步长卷积层作为后端对前端输出层进行上采样，可以从一定程度上补充下采样造成的图片细节损失。模型前端基于MCNN[8的分支结构，并在卷积核中加入扩张率参数以此来加大感受野。为了减少网络参数，选取效果最好的模型，将四种类型的双列卷积组合作为实验对象，测试将在第3章给出详细讨论，最终选择一个相对较好的模型，考虑到模型的稳定性，即选择MSE最低的模型（MAE非最小值）。网络的整体结构如图2所示。
+
+为了简化网络，除了卷积核的大小和数量，对所有卷积列使用相同的结构（conv-pool-conv-pool）。最大池化作用于每个 $2 { \times } 2$ 区域，并且采用整流线性单元（parametricrectifiedlinearunit，PReLU）作为激活函数。
+
+![](images/ca0024a0905f81aea3f478fb63087f672f310262e1a2e0558f8e1ebe39c3167e.jpg)  
+图2多元卷积网络结构
+
+由于透视失真，图像通常包含尺寸相异的头部，具有相同尺寸感受野的卷积核不可能捕获不同尺度的人群密度特征。因此使用具有不同大小的局部感受野的卷积核来学习从原始图像到密度图的映射，即具有较大感受野的卷积核在较大头部对应的密度图上进行建模更有效；同时为了减少计算复杂度（要被优化的参数的数目），使用较少数量的卷积核用于具有较大卷积核的卷积层。例如，网络前端扩张率为 2的卷积列， $9 \times 9$ 大小的卷积核取16个，而 $7 \times 7$ 的取32个。后端结合前端卷积层的输出，通过转置卷积层还原图片大小，并采用大小为 $1 { \times } 1$ 的卷积核进行卷积用于生成高质量密度图。网络配置的详细介绍见表1。所有的卷积层都使用填充（padding）来保持以前的大小不变。卷积层的参数表示为"conv(kernel size) $@$ (numberoffilters)”，最大池化层在步长2的 $2 { \times } 2$ 像素窗口上进行，转置（分数步长）卷积层表示为"ConvTransposed(kernel size) $@$ (number of filters)”，PReLU被用作非线性激活层。
+
+然后使用欧氏距离测量真实值与预测密度之间的差异。损失函数定义如下：
+
+$$
+L ( \theta ) { = } \frac { 1 } { 2 N } { \sum _ { i = 1 } ^ { N } } { \lVert { Y ( X _ { i } ; \theta ) - Y _ { i } ^ { G T } } \rVert } _ { 2 } ^ { 2 }
+$$
+
+其中： $\theta$ 是网络中一组可学习参数； $N$ 是训练图像的数量； $X _ { i }$ 是输入图像； $Y _ { i }$ 是图像的真实密度； $Y ( X _ { i } ; \theta )$ 代表由模型预测密度，其随样本与参数而变化； $\textbf { \em L }$ 是预测密度与真实密度之
+
+间的损失。
+
+表1网络参数配置  
+Table 1Parameters of network configuration   
+
+<html><body><table><tr><td colspan="2">Front-end(double-column)</td><td>Back-end(No Dilation)</td></tr><tr><td>Dilation rate =2</td><td>Dilation rate =3</td><td>Conv3x3 @ 24</td></tr><tr><td>Conv9x9 @ 16</td><td>Conv7x7 @ 20</td><td>Conv3x3 @ 32</td></tr><tr><td>Max-pooling</td><td>Max-pooling</td><td>ConvTranspose4x4@16</td></tr><tr><td>Conv7x7 @ 32</td><td>Conv5x5 @ 40</td><td>PReLU</td></tr><tr><td>Max-pooling</td><td>Max-pooling</td><td>Max-pooling</td></tr><tr><td>Conv7x7 @ 16</td><td>Conv5x5 @ 20</td><td>Convlx1 @1</td></tr><tr><td>Conv7x7 @ 8</td><td>Conv5x5 @ 10</td><td>Max-polling</td></tr></table></body></html>
+
+模型最终生成密度估计图的效果如图3（c）所示。每列图由上到下分别是原始图片、对应人群密度图、预测人群密度图（输入图片来自Shanghaitech数据集[8]）。图3（a）左的原始图像尺寸为 $1 0 2 4 \mathrm { x } 7 6 8$ ，相对应的标计人数（gt_count）817，估计人数（et_count）834；图3（a）右的原始图像尺寸为 $1 0 2 4 \mathrm { x } 6 8 7$ ，对应的标记人数361，估计人数355。
+
+![](images/4b6737b6baff6584eb3e2abddfac9dc541088cf5feaa2bf94365b84b080ed22e.jpg)  
+Fig.2Hybrid convolution network structure   
+图3原始密度图与生成密度图对比   
+Fig.3Comparison of original and generated density maps
+
+本文设计了一个易于训练的基于深度卷积神经网络的密度图管理器。模型使用纯卷积层作为核心，支持灵活分辨率的图像输入。模型利用空洞（扩张）卷积层作为前端以增大感受野而分数步长卷积层作为后端，以恢复其空间分辨率。利用这种简单的结构，降低了网络参数的数量，方便了模型的训练。此外，在 Shanghai tech 数据集 part_A和 part_B上,计数结果优于之前人群计数解决方案中的MAE。
+
+# 2.2扩张卷积和转置卷积
+
+模型输入为任意大小图片，输出为人群密度图。网络结构由两个主要部分组成：第一部分学习大尺度特征，第二部分恢复图像大小。网络层越高，单位像素中原始图像所包含的信息越多，也就是感受野越大，通过池化合并完成，代价是原始图像中的信息的减少和丢失。由于池化的存在，后层中的特征映射的大小会越来越小，采用分数步长卷积（转置卷积）将特征图的尺寸变大，一定程度上补充池化层造成的图片细节损失，如图4（a）所示。扩张卷积是一种卷积的思想，在不增加参数数量或计算量的情况下扩大感受野。在扩张卷积中，具有 $\mathbf { k } \times \mathbf { k }$ 的小尺寸核被扩大为 $\mathbf { k } { + } ( \mathbf { k } { - } 1 ) ( \mathbf { r } { - } 1 )$ ，扩张率为r，它允许灵活聚合多尺度信息并保持相同的分辨率，如图4（b）所示。如果正常卷积核（扩张率 $= 1$ )尺寸是 $3 { \times } 3$ ，则其感受野也是3x3大小，卷积核尺寸为3x3扩张卷积（扩张率 $= 2$ ），则有相当于 $5 { \times } 5$ 大小的感受野。
+
+![](images/dd43376044d3adbce5b86d1b4d6bf6a812c894eeff65be7f63591d11ddc92c05.jpg)  
+图4两种卷积方式
+
+通过对以下定义的每个人的位置为中心的2D高斯内核进行求和来计算与第 $i$ 个训练图像块对应的真实密度图：
+
+$$
+D _ { i } \left( x \right) = \sum _ { x _ { g } \in P } G \big ( x - x _ { g } , \delta \big )
+$$
+
+其中： $\sigma$ 是二维高斯核的尺度参数； $P$ 是人群位置的所有点的集合。模型使用Torch框架[15]在NVIDIATITAN-XGPU上进行训练和评估。其中Adam学习率为0.00001，momentum（动量）为0.9。
+
+# 3 实验结果
+
+本文分别在三个公开可用的数据集Shanghai tech、UCF_CC_50[16]以及WorldExpo'10[进行实验。评价指标使用了许多现有人群计数方法所使用的标准，平均绝对误差（mean absolute error，MAE）与均方误差（mean-square error,MSE）度量。标准定义如下：
+
+$$
+\ M A E = \frac { 1 } { N } \sum _ { 1 } ^ { N } \left( \left| y _ { i } - \hat { y } _ { i } \right| \right)
+$$
+
+$$
+M S E = \sqrt { \frac { 1 } { N } \sum _ { 1 } ^ { N } \left( \left| y _ { i } - \hat { y } _ { i } \right| \right) { } ^ { 2 } }
+$$
+
+其中： $N$ 是测试样本数； $y _ { i }$ 是数据集图片中实际标记人数；$\hat { y } _ { i }$ 相应的估计人数。粗略地说，MAE表示估计的准确性，MSE表示估计的鲁棒性。
+
+本文将具用不同扩张率的四种组合进行比较。Type1 为第1列（扩张率 $= 2$ ）与第2列（扩张率 $\AA = 3$ ）的组合；Type2为第2列与第3列（扩张率 $= 4$ ）的组合；Type3组合了第1列与第3列。Type4组合了所有列。四种组合方式结构如图5所示。
+
+实验将四种组合方式的模型进行分别训练，最终测试结果如表2所示。其中Type3在Part_A部分表现出最好的预测能力，但模型稳定性略低于Type1。分析原因如下：Type3与Type1配置区别仅在于第2列（7x7，5x5）与第3列（5x5，3x3）的卷积核尺寸，Type3中卷积核尺寸小，对于提取较小目标的特征效果好，适于某些人群极端密集，人头部较小的图片，因此MAE 相对低，但Type1更具广泛适用性，对整个数据集的预测估计均表现良好。考虑到模型鲁棒性的重要意义，最终选择较稳定的模型。测试结果如表2所示。
+
+![](images/5d35b4bad3ae4b0d9f69c224055dbd306ca69df690139f59f20a6a0ffc3f2c41.jpg)  
+Fig.4Two types of convolution   
+图5四种结构组合  
+Fig.5Four types of configuration
+
+表2不同组合在 Shanghaitech 数据集上实验结果对比  
+Table 2Comparison of experiments results on Shanghai tech dataset   
+
+<html><body><table><tr><td>Type</td><td colspan="2">Part_A</td><td colspan="2">Part_B</td></tr><tr><td></td><td>MAE</td><td>MSE</td><td>MAE</td><td>MSE</td></tr><tr><td>Tpye1</td><td>100.87</td><td>152.31</td><td>21.55</td><td>38.07</td></tr><tr><td>Tpye2</td><td>103.01</td><td>161.98</td><td>24.82</td><td>45.81</td></tr><tr><td>Tpye3</td><td>99.66</td><td>155.0</td><td>28.35</td><td>48.78</td></tr><tr><td>Tpye4</td><td>101.19</td><td>160.53</td><td>24.15</td><td>45.76</td></tr></table></body></html>
+
+# 3.1Shanghai tech 数据集
+
+该数据集包含1198图片，共330165人。数据集由两部分组成：Part_A部分中有482幅图从互联网上随机获取，Part_B部分中716幅图从上海大都市地区的繁忙街道拍摄。人群密度在两个子集之间变化很大，使得在人数估计上比大多数现有数据集更具挑战性。
+
+A和B部分均包括训练和测试集：A部分的300张图片用于训练，剩下的182张图片用于测试；B部分的400张图片用于训练，316张用于测试。其中训练集是由每张图像选取不同位置的九个图像块共同组成，尺寸为原始图像的1/4大小。前四个图像块包含四个不重叠的图像，而其他五个图像块从输入图像中随机裁剪。模型测试结果如表3所示。
+
+表3Shanghaitech数据集密度估计误差对比
+
+Table 3Comparison of estimation errors on Shanghai tech dataset.   
+
+<html><body><table><tr><td rowspan="2">Method</td><td rowspan="2">Part_A MAE</td><td colspan="3">Part_B</td></tr><tr><td>MSE</td><td>MAE</td><td>MSE</td></tr><tr><td>Zhang et al[6]</td><td>181.8</td><td>277.7</td><td>32.0</td><td>49.8</td></tr><tr><td>Marsden et al. [18]</td><td>126.5</td><td>173.5</td><td>23.8</td><td>33.1</td></tr><tr><td>MCNN[8]</td><td>110.2</td><td>173.2</td><td>26.4</td><td>41.3</td></tr><tr><td>Switching-CNN[12]</td><td>90.4</td><td>135.0</td><td>21.6</td><td>33.4</td></tr><tr><td>Cascaded-MTL[9]</td><td>101.3</td><td>152.4</td><td>20.0</td><td>31.1</td></tr><tr><td>FMFCNN[19]</td><td>105.4</td><td>168.5</td><td>21.7</td><td>32.4</td></tr><tr><td>本文</td><td>100.8</td><td>152.3</td><td>21.5</td><td>33.4</td></tr></table></body></html>
+
+3.2UCF_CC_50数据集
+
+UCF_CC_50数据集包括50个具有不同视角和分辨率的图像。每幅图像的标记人数从94到4543，平均人数为1280。按照文献[18]中的标准设置执行5折交叉验证。测试结果如表4所示。
+
+表4UCF_CC_50数据集密度估计误差对比  
+
+<html><body><table><tr><td>Method</td><td>MAE</td><td>MSE</td></tr><tr><td>Zhang et al.</td><td>467.0</td><td>498.5</td></tr><tr><td>MCNN</td><td>377.6</td><td>509.1</td></tr><tr><td>Marsden et al.</td><td>338.6</td><td>424.5</td></tr><tr><td>Cascaded-MTL</td><td>322.8</td><td>397.9</td></tr><tr><td>Switching-CNN</td><td>318.1</td><td>439.2</td></tr><tr><td>本文</td><td>305.3</td><td>429.4</td></tr></table></body></html>
+
+# 3.3WorldExpo'10 数据集
+
+WorldExpo'10人群统计数据集首次由Zhang等人引入。该数据集包含1132个带标签的视频序列，视频均来自2010年上海世博会。作者提供了总计199923名行人标签，其中训练集有3380帧，共103个场景，每个场景有相应的透视图数据；测试集包括五个不同的视频序列，每个视频序列包含120个标注的帧，并为测试场景提供了五个不同的感兴趣区域（ROI）。与前两个数据集不同的是，该数据集提供透视图集，且人群密度分布核函数包含两个项，头部为标准化的 2D 高斯核表示，其余身体部分为二元正态分布函数。按照文献[6]的工作根据透视图与 $\sigma = 0 . 2 * m ( x )$ 的关系来生成密度图， $m ( x )$ 表示图片中代表该位置一平方米的像素数量。选取其中两个场景进行测试，结果见表5。
+
+Table 4 Compariosn of estimation errors on UCF_CC_50 datase   
+表5WorldExpo'10 数据集密度估计误差对比  
+Table 5Compariosn of estimation errors on worldexpo'lO dataset   
+
+<html><body><table><tr><td>Method</td><td>Sce1</td><td>Sce5</td></tr><tr><td>Zhang et al.</td><td>9.8</td><td>3.7</td></tr><tr><td>Shang et al.[17]</td><td>7.8</td><td>5.8</td></tr><tr><td>MCNN</td><td>3.4</td><td>8.1</td></tr><tr><td>Switching-CNN</td><td>4.4</td><td>5.9</td></tr><tr><td>CP-CNN[20]</td><td>2.9</td><td>5.8</td></tr><tr><td>本文</td><td>3.3</td><td>4.2</td></tr></table></body></html>
+
+# 3.4实验总结
+
+如表6所示，将三个基准数据库的参数进行比较总结，Num是图片的数量，Max是最大人数，Min是最少人数，Ave是平均人数，Total是已标记人员的总数。
+
+在第2章中已经给出Shanghaitech数据集高中密度人群的图片测试结果，这里进一步给出其他两个数据集的检测效果。从UCF_CC_50数据集测试结果中选取高中低密度人群图片及其检测效果，如图6所示，三列图片从左至右依次为原图片、真实密度图及预测密度图，图片最下方对应给出标计人数（gt_count）、估计人数（et_count）。
+
+表6基准数据库参数  
+Table 6Parameters of benchmark   
+
+<html><body><table><tr><td colspan="2">数据集</td><td>Num</td><td>Max</td><td>Min</td><td>Ave</td><td>Total</td></tr><tr><td colspan="2">UCF_CC_50</td><td>50</td><td>4543</td><td>94</td><td>1280</td><td>63974</td></tr><tr><td colspan="2">WorldExpo'10</td><td>3980</td><td>253</td><td>1</td><td>50</td><td>199923</td></tr><tr><td>Shanghai tech</td><td>Part_A</td><td>482</td><td>3139</td><td>33</td><td>501</td><td>241677</td></tr><tr><td>FMFCNN</td><td>Part_B</td><td>716</td><td>578</td><td>9</td><td>124</td><td>88488</td></tr></table></body></html>
+
+从WorldExpo'10数据集测试结果中选取高中低密度人群图片及其检测效果如图7所示。由于该数据集生成密度图中人不只是用一点标记头部，还包括躯体部分。与其他数据集生成密度图略有不同，但训练与测试参数完全相同。图7中三列图片从左至右依次为原图片（来源于WorldExpo'10的sce1与sce5）、真实密度图及预测密度图，图片最下方对应给出标计人数（gt_count）、估计人数（et_count）。
+
+![](images/46c718e507880deda56f5823a7ff1ed7e26b54eef529d6fe59ea84ef20a0bd7d.jpg)  
+图6UCF_CC_50数据集检测效果
+
+![](images/c5f1b5679173f72b1aaa1267c6a569bc6d999bd5bef960189f2270e4b03a4b22.jpg)  
+Fig.6Estimation performance on UCF_CC_5O dataset   
+图7WorldExpo'10 数据集检测效果Fig.7Estimation performance on worldexpo'1O dataset
+
+# 4 结束语
+
+本文提出一个扩张卷积与分数步长卷积相结合的多元卷积神经网络。扩张卷积致力于扩大感受野将丰富的特性纳入网络，使其能够更好地学习全局特征，从而统计数据集中的大计数变化。此外，采用分数步长卷积层作为后端，以恢复在前期阶段经过最大池化层造成的图片细节损失。通过在多个数据集上的测试，本文模型在密集人群的密度估计上具有较好的密度估计性能，模型结构复杂程度适中且泛化能力强，具有普遍适用性。
+
+# 参考文献：
+
+[1]张君军，石志广，李吉成．人数统计与人群密度估计技术研究现状 与趋势[J].计算机工程与科学,2018,40(2):282-291.(Zhang Junjun, Shi Zhiguang,Li Jicheng.Current researches and future perspectives of crowd counting and crowd density estimation technology [J]. Computer engineering and science,2018,40 (2): 282-291.)   
+[2] 高静伟．通济桥高密度人群计数方法研究与实现[D]．广州：中山 大学，2013.(Gao Jingwei. Research and implementation of people counting in high crowd scenes of Tongji Bridge [D]. Guangzhou: Sun Yat-sen University,2013.)   
+[3]王强，孙红．基于像素统计和纹理特征的人群密度估计[J]．电子科 技,2015,28(7):129-132.(Wang Qiang，Sun Hong.Crowd density estimation based on pixel and texture [J].Electronic Science and Technol0gy,2015,28(7):129-132.)   
+[4]Marana A,Costa L D,Lotufo R,et al.On the efficacy of texture analysis for crowd monitoring [C]// Proc of IEEE International Symposium on Computer Graphics,Image Processing,and Vision.1998: 354-361.   
+[5]Rahmalan H,Nixon M S,Carter JN.On crowd density estimation for surveillance [C]// Proc of Institution of Engineering and Technology Conference on Crime and Security. 2007: 540-545.   
+[6] Zhang Cong，Li Hongsheng，Wang X，et al.Cross-scene crowd counting via deep convolutional neural networks [C]// Proc of Computer Vision and Pattern Recognition.2015: 833-841.   
+[7]Boominathan L,Kruthiventi S S S,Babu R V.CrowdNet:a deep convolutional network for dense crowd counting [C]//Proc of ACM on Multimedia Conference.2016: 640-644.   
+[8]Zhang Yingying,Zhou Desen, Chen Siqi,et al. Single-image crowd counting via multi-column convolutional neural network [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. [S.l.]:IEEE Computer Society,2016: 589-597.   
+[9]Sindagi VA,Patel V M.CNN-based cascaded multi-task learning of high-level prior and density estimation for crowd counting [C]// Proc of IEEE International Conference on Advanced Video and Signal Based Surveillance.2017:1-6.   
+[10] Idrees H, Saleemi I, Seibert C,et al. Multi-source multi-scale counting in extremely dense crowd images [Cl// Proc of IEEE Conference on Computer Vision and Pattern Recognition.[S.l.]:IEEE Computer Society,2013: 2547-2554.   
+[11] Lempitsky V S,Zisserman A.Learning to count objects in images [C]// Proc of International Conference on Neural Information Processing Systems.[S.l.]:Curran Associates Inc,2010:1324-1332.   
+[12] SamDB,Surya S,Babu R V. Switching convolutional neural network for crowd counting [C]// Proc of IEEE International Conference on Computer Vision and Pattern Recognition.[S.l.]:IEEE Computer Society,2017: 5744-5752.   
+[13]薛翠红，于洋，张朝，等．融合LBP与GLCM的人群密度分类算法 [J]．电视技术,2015,39 (24):7-10.(Xue Cuihong，Yu Yang,Zhang Zhao,et al.Fusing LBP and GLCM for crowd density classification algorithm [J].Tv Engineering,2015,39 (24): 7-10.）   
+[14] Li Yuhong，Zhang Xiaofan，Chen Deming.CSRNet:dilated convolutional neural networks for understanding the highly conge sted scenes [C]// Proc of IEEE International Conference on Computer Vision and Pattern Recognition. 2018.   
+[15] Collobert R,Kavukcuoglu K，Farabet C.Torch7:a matlab-like environment for machine learning [C]// Proc of NIPS Workshop.2011.   
+[16] Idrees H, Saleemi I, Seibert C,et al. Multi-source multi-scale counting in extremely dense crowd images [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.[S.l.J:IEEE Computer Society,2013:2547-2554.   
+[17] Shang Chong,Ai Haizhou,Bai Bo.End-to-end crowd counting via joint learning local and global count [C]// Proc of IEEE International Conference on Image Processing.2016:1215-1219.   
+[18] Marsden M,McGuiness K,Little S,et al.Fully convolutional crowd counting on highly congested scenes[J]. arXiv preprint arXiv: 1612. 00220,2016.   
+[19]唐斯琪，陶蔚，张梁梁，等．一种多列特征图融合的深度人群计数算 法[J].郑州大学学报：理学版,2018,50(2):69-74.(Tang Siqi,Tao Wei, Zhang Liangliang,et al.A deep crowd counting algorithm based onmulti-column feature map fusion [J].Journal of Zhengzhou University :Natural Science Edition,2018,50 (2): 69-74.)   
+[20] Sindagi VA,Patel VM.Generating high quality crowd density maps using contextual pyramid CNNs [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition. 2017: 1861-1870.

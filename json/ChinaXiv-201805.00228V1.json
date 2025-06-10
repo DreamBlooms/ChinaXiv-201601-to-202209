@@ -1,0 +1,650 @@
+[
+    {
+        "type": "text",
+        "text": "基于跳数修正与LM优化的DV-Hop改进算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高清源，徐曾春，胡平(南京工业大学 计算机科学与技术学院，南京 211816)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对DV-Hop 定位算法在节点分布不均匀的传感器网络拓扑环境下，跳数与跳距估计存在误差的问题，提出了一种名为ILDV-Hop的改进算法。首先基于信标节点间估计距离与真实距离的差值,提出了一种全网络的有效跳距。其次在信标节点与未知节点间多跳计算过程中增添了修正值，同时利用接收信号强度指示(RSSI)值优化单跳值的大小。最后采用列文伯格-马夸尔特算法估计未知节点的最优位置。仿真结果表明，与传统DV-Hop算法以及基于拟牛顿迭代的DV-Hop 算法相比，ILDV-Hop 算法的定位误差分别减小了 $23 \\%$ 与 $10 \\%$ 左右，定位精度有了显著的提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：DV-Hop 算法；有效跳距；跳数；列文伯格-马夸尔特算法 中图分类号：TP393 doi:10.3969/j.issn.1001-3695.2017.07.0664 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved DV-Hop algorithm based on hop correction and LM optimization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gao Qingyuan, Xu Zengchun, Hu Ping (Nanjing Tech University,School ofComputer Science& Technology,Nanjing 211816,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Insensor networktopology environment with uneven node distribution,runing the DV-Hoplocalization algorithm oftencauses large errors ofhop value.Considering the problemabove,this paper proposedan improved localization algorithm named ILDV-Hop.Firstly,forthewhole network,thisalgorithmcalculatedanefectivehopsizebasedondiferenceofactual andestimated distance betweenreferencenodes.Then,withaddingacorrctionvalue tothe hops betweenunknownnodesand referencenodes,italsousedthereceivedsignal strength indcator (RSSI)value tocorrct thedistanceofasinglehop.Finaly theLevenberg-Marquardt algorithm wasappliedto estimateanoptimize position foreach sensor.Simulationresults indicate that,compared with the DV-Hopalgorithmand the DV-Hop algorithm based on Quasi-Newton,the ILDV-Hopalgorithm has reduced the errors by about $23 \\%$ and $10 \\%$ respectively,and the localization performance has increased visibly. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words:DV-Hop algorithm; effective hop size; hop count; Levenberg-Marquardt algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "无线传感器网络通常由大量微型传感器节点组成，这些节点一般具有计算、通信、存储的能力[1]。传感器节点的主要任务为收集与聚合大量传感器网络环境下的遥感数据，并且将作为基站的汇聚节点作进一步处理[2]。倘若缺少由节点产生的包含于消息报告中的传感器位置信息，传感器网络则不能够正常工作，所以定位问题对于传感器网络的研究而言是一项巨大的挑战。许多定位方案假定只有小部分信标节点可通过手动布置或者自身携带GPS模块，使得拥有位置信息。但是这种方法不适合传感器网络，原因在于GPS系统有着功耗大、设备昂贵等缺陷[3]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "无线传感器网络的定位算法大致根据是否要进行测量距离可分为两种类型：基于测距的定位算法与无须测距的定位算法，前者最常用的是基于到达时间（TOA）的定位[4]、基于到达角度（AOA）的定位[5]、基于接收信号强度指示（RSSI）的定位[6]，此类方法有利有弊，在提高了定位精度的同时却增加了硬件与人力的消耗。后者常用的为质心算法、DV-Hop 算法[7]、APIT 算法和Amorphous 算法。此类算法无须使用外界设备，有着成本低等优势。其中DV-Hop算法是目前应用最为广泛的定位算法之一，其利用与未知节点最临近的信标节点的平均跳距进行未知节点的自定位，具有实现简单，成本低等优势。但是随着节点间跳数的累积，算法定位精度会大大降低，这是该算法主要存在的缺点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对DV-Hop 算法在定位精度上出现的不足，国内外的学者们提出了各种改进方法：Kumar[8]等人提出了一种基于加权最小平方法的DV-Hop 改进算法，将DV-Hop定位算法第三阶段，未知节点自定位过程中的计算方法改为先相减再平方并加权，通过误差修正项的比较可以得到该改进算法精度更高。但是此改进算法由于忽略了前阶段不同信标节点对未知节点的影响，使得定位优化效果不明显。Wen[9等人提出了一种基于接收信号强度指示的改进算法，通过节点间收到的RSSI值对单跳数进行离散化处理，并且通过将节点间的距离作为权值来修正节点间跳数以达到减少定位误差的效果。该方法的弊端在于过多地增添了硬件功耗导致成本大幅度增加。Qiao 等人[0]提出了改进的CNDV-Hop算法，首先设定跳数阈值，对传感器网络中信标节点优选的同时对节点平均跳距进行修正，最后拟牛顿法通过迭代方式估算未知节点坐标。Yu等人[1利用改进后的粒子群算法进行未知节点坐标自定位。但由于改进粒子群算法的复杂度偏大，使得该改进算法的计算量上升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上的研究工作在一定程度上都减小了定位误差，但是各自存在弊端。本文在传统DV-Hop 定位算法基础上从误差的根源出发，提出了ILDV-Hop 算法。首先重新定义全网平均跳距值，并用增添系数值的方法修正未知节点与信标节点跳数值，同时对节点间的单跳值进行离散化处理，最后阶段改用LM最优化算法通过迭代的方式进行未知节点自定位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 DV-Hop 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DV-Hop作为一种典型的免测距型分布式算法，其定位过程大致可分为三个阶段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)每一个信标节点 $i$ 利用距离矢量交换协议发送广播消息，广播的数据包中包含信标节点自身ID（编号），坐标以及被初始化为0的跳数。这样网路中任意两个信标节点间的最小跳数值可被记录下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)在信标节点 $i$ 获得其他信标节点的坐标和跳数值信息，可求得与其他信标节点间的平均每跳距离，这里表示为HopSize。信标节点平均跳距的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH o p S i z e _ { i } = \\frac { \\displaystyle \\sum _ { j = 1 , i \\neq j } ^ { M } \\sqrt { ( x _ { i } - x _ { j } ) ^ { 2 } + ( y _ { i } - y _ { j } ) ^ { 2 } } } { \\displaystyle \\sum _ { j = 1 , i \\neq j } ^ { M } h o p _ { i j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $M$ 是信标节点的数量， $h o p _ { _ { i j } }$ 是信标节点 $i$ 与 $j$ 间的跳数值， $( x _ { i } , y _ { i } )$ 与 $( x _ { j } , y _ { j } )$ 分别代表信标节点 $i$ 与 $j$ 的坐标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一旦跳距值 $H o p S i z e _ { i }$ 被计算出，信标节点会将其广播至整个网络。未知节点接收到所有信标节点的平均跳距值，再选取离其最近的信标节点的平均跳距值作为其计算标准。未知节点$s$ 与各信标节点 $i$ 间的距离计算如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { _ { s i } } = H o p S i z e _ { _ i } \\times h o p _ { _ { s i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)未知节点利用信标节点的坐标与距离信息，并采用极大似然估计法来进行自定位。假设有 $M$ 个信标节点被用于估计未知节点 $s$ 的位置，可由第2阶段估算出的节点间距离得出以下系统方程：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c } { { ( x _ { s } - x _ { 1 } ) ^ { 2 } + ( { \\bf y } _ { s } - y _ { 1 } ) ^ { 2 } = d _ { s 1 } ^ { 2 } } } \\\\ { { ( x _ { s } - x _ { 2 } ) ^ { 2 } + ( { \\bf y } _ { s } - y _ { 2 } ) ^ { 2 } = d _ { s 2 } ^ { 2 } } } \\\\ { { { \\bf M } } } \\\\ { { ( x _ { s } - x _ { M } ) ^ { 2 } + ( { \\bf y } _ { s } - y _ { M } ) ^ { 2 } = d _ { s M } ^ { 2 } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $( x _ { s } , y _ { s } )$ 为未知节点 $s$ 的坐标。由于平方项的存在，式(3)属于非线性方程组。为使之线性化，用前 $M - 1$ 个等式分别减去第$M$ 个等式，结果可重新写为 $A X = B$ 的形式。根据最小二乘法，未知节点 $s$ 的坐标可由式(4)得到。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\hat { X } } = ( A ^ { \\prime } A ) ^ { - 1 } A ^ { \\prime } B\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = - 2 \\left[ \\begin{array} { c c } { x _ { 1 } - x _ { \\scriptscriptstyle M } } & { y _ { 1 } - y _ { \\scriptscriptstyle M } } \\\\ { \\textbf { M } } & { \\textbf { M } } \\\\ { x _ { \\scriptscriptstyle M - 1 } - x _ { \\scriptscriptstyle M } } & { y _ { \\scriptscriptstyle M - 1 } - y _ { \\scriptscriptstyle M } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB = \\left[ \\begin{array} { c } { { d _ { _ { s ^ { 1 } } } ^ { _ { 2 } } - d _ { _ { s M } } ^ { _ { 2 } } - x _ { _ { 1 } } ^ { _ { 2 } } + x _ { _ { M } } ^ { _ { 2 } } - y _ { _ { 1 } } ^ { _ { 2 } } + y _ { _ { M } } ^ { _ { 2 } } } } \\\\ { { { \\bf M } } } \\\\ { { d _ { _ { s ( M - 1 ) } } ^ { _ { 2 } } - d _ { _ { s M } } ^ { _ { 2 } } - x _ { _ { M - 1 } } ^ { _ { 2 } } + x _ { _ { M } } ^ { _ { 2 } } - y _ { _ { M - 1 } } ^ { _ { 2 } } + y _ { _ { M } } ^ { _ { 2 } } } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = \\left[ x _ { _ { s } } \\mathrm { ~  ~ \\nabla ~ } y _ { s } \\right] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 DV-Hop算法误差分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过上述DV-Hop算法定位过程的分析，可以得出该算法是通过网络中节点的连通度与距离矢量协议对未知节点进行定位，误差的产生主要有以下几个方面。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，在DV-Hop算法中，节点都是随机分布于传感器网络中的，一般由于网络拓扑结构导致节点分布的不均匀，所以信标节点间用曲折的斜线来计算平均跳距会使得误差存在，同时节点间跳数越多，误差越大。其次，原始算法中未知节点只将最邻近其自身的信标节点的平均跳距值作为其平均跳距计算的估计值，参照性十分有限。且若未知节点与多个信标节点间跳数值为1跳时，虽然远近相异，但是节点间估算的距离都是按照1跳来处理[12]，这往往会与真实情况不符。最后在未知节点自定位的计算中，一种非线性方程系统（如式(3)）被强行转换成了线性最小二乘问题。它将某一信标节点视为线性化工具，再利用例如求解正规方程组的直接法求解坐标，此计算过程忽略了线性化所带来的影响[13]，必然导致未知节点自定位会产生较大的迭代误差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 ILDV-Hop 定位算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本章在传统DV-Hop 定位算法的基础上，提出了名为ILDV-Hop 的改进定位算法，主要针对DV-Hop定位算法第a)b)阶段存在的误差进行改良。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1信标节点间跳数修正",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DV-Hop算法的主要缺点是定位精度会受未知节点与信标节点间跳数的影响，当节点间的跳数增加或者出现节点分布不均匀的网络拓扑结构时，定位误差会增加。本节重新定义了信标节点每跳的平均距离值，具体步骤如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "每一个信标节点首先利用已得到的跳数值与跳距值估算到其他信标节点的距离值，如式(5)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne s t \\_ d i s t _ { i j } = H o p S i z e _ { i } \\times h o p _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $h o p _ { \\scriptscriptstyle i j }$ 为信标节点 $i$ 与 $j$ 间的跳数值。然后信标节点通过式(6)计算出与其他信标节点间的真实距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nt r u e \\_ d i s t _ { _ { i j } } = \\sqrt { ( x _ { { i } } - x _ { { j } } ) ^ { 2 } + ( y _ { { i } } - y _ { { j } } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "接下来，每个信标节点利用得到的估计距离与真实距离，计算出距离误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne r r o r _ { _ { i j } } = t r u e \\_ d i s t _ { _ { i j } } - e s t \\_ d i s t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：error表示信标节点 $i$ 与 $j$ 间针对计算距离的误差估计。现提出一种利用误差估计得到的平均跳距有效值的概念，其用$H o p S i z e _ { \\it e f f } ^ { i }$ 来表示，计算方法如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH o p S i z e _ { \\it \\phi _ { \\it \\it \\phi } } ^ { i } = H o p S i z e _ { \\it \\phi } - ( ( \\sum _ { j = 1 , i \\neq j } ^ { M } e r r o r / M ) / \\sum _ { j = 1 , i \\neq j } ^ { M } h o p _ { i j } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，每一个信标节点将此有效跳距值随着洪泛过程广播至全网络。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2未知节点跳数修正",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1单跳分级处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当未知节点与信标节点间为1跳时，它们间估算出的距离值往往会出现较大误差。如图1所示，假设未知节点 $A$ 的通信半径为 $R$ ,在其通信范围中包含两个节点 $B$ 与 $c$ 。由于未知节点 $A$ 在计算到节点 $B$ 与 $c$ 的距离时统一认为其相距的跳数皆为1，这样导致距离估计不精确。图1中显然节点 $c$ 距离 $A$ 更近，未知节点 $A$ 用全网平均跳距值计算出的与节点 $c$ 的距离值会远大于它们的真实距离。因此本节提出一种基于RSSI值的节点间单跳修正方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "比较。（其中本方法只包含比较信号强度的值，不考虑信号传播的范围。）若 $P _ { r } ( d ) _ { \\scriptscriptstyle d B }$ 的值大于 $P _ { r } ( \\frac { R } { 2 } ) _ { \\it d B }$ 的值，则将未知节点与信标节点间跳数值记为0.5跳，否则将跳数值记为1跳。该方法将相隔为1跳的节点做跳数值分级处理，使得某些未知节点与信标节点间跳数值不再为整数，这种离散化过程有效地提高了跳数的可信性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2多跳加权处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对未知节点与信标节点间跳数值大于1跳的情况，为了控制通信功耗，不再使用RSSI值估算法，而是引入一定量修正值来优化跳数。权值计算方法如式(10)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw e i g h t = k \\cdot \\frac { h o p _ { i j } } { H o p S i z e _ { _ { e f f } } ^ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $h o p _ { { } _ { i j } }$ 为未知节点 $i$ 与信标节点 $j$ 间的跳数值， $H o p S i z e _ { \\it e f f } ^ { i }$ 为前阶段计算出的信标节点平均跳距有效值， $k$ 为调整系数。当 $h o p _ { { i j } }$ 值越大时，节点间计算出的距离值误差越大，证明修正值需要被设置得更大。未知节点与信标节点间的修正距离由式(11)表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc o r r \\_ d i s t _ { _ i j } = H o p S i z e _ { _ { e f f } } ^ { i } \\cdot ( h o p _ { _ i j } + k \\frac { h o p _ { _ i j } } { H o p S i z e _ { _ { e f f } } ^ { i } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据实验仿真数据，改进算法的定位误差与 $k$ 值大小有着密切联系。例如,在节点通信半径在 $2 5 \\mathrm { m }$ ，节点总数量为100,且信标节点数量占总节点数量比例在 $20 \\%$ 的条件下，参数 $k$ 与定位误差值的关系图如图2所示。从图中可以得出，当 $k$ 的值接近1.2时，节点定位误差降至最低点。在实际定位过程中，$k$ 值大小可根据应用场景不同做特定选择。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f8a9411785773551d86f064dd8ff8e5b35dafa99757ca11784b5aecb88ccfd9.jpg",
+        "img_caption": [
+            "图1节点间位置关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RSSI是一种通过信号传播过程中不断衰减的信号强度来估计节点间距离的技术[14],其在无线传感器网络中较为常见的为 Shadowing 模型，表达式如式(9)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { r } ( d ) = P _ { r } ( d _ { \\mathrm { 0 } } ) - 1 0 n \\log ( \\frac { d } { d _ { \\mathrm { 0 } } } ) + X _ { \\sigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $d$ 为两节点间的待估计距离， $d _ { \\mathrm { o } }$ 为参照距离， $n$ 为可随外界因素改变的路径损耗指数。显然，节点间相距越远，接收到的信号强度值越小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ILDV-Hop改进算法中未知节点将接收到的信标节点的无 线信号强度 $P _ { r } ( d ) _ { _ { d B } }$ 与其相距 $\\frac { R } { 2 }$ 信标节点的信号强度 $P _ { r } ( \\frac { R } { 2 } ) _ { \\it d B }$ 相 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ae8eecad8e60ec05ce652fa6753b67b673edcad5b1bade6c365e983268a83f7.jpg",
+        "img_caption": [
+            "图2 $k$ 值大小与定位误差的关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 未知节点定位",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在经典DV-Hop定位算法中，未知节点在接收到与信标节点跳段距离后，采用三边测量法或者极大似然估计法进行自定位。在此过程，一种非线性方程系统被强行转换成了线性最小二乘问题，导致计算误差存在。为了控制误差，必须改用非线性方法解决非线性问题，因此，ILDV-Hop 算法中引入优化概念，用列文伯格-马夸尔特（Levenberg-Marquardt，LM）优化算法[15]解决未知节点定位时非线性问题。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LM优化算法是利用梯度求解最值的一种算法，其可用于解决非线性最小二乘得问题。LM算法同时具有最优化算法中梯度下降法和高斯-牛顿法的特点，利用方向搜索的方式解决问题的最优解。本文ILDV-Hop 算法中未知节点坐标确定过程如下：首先，根据所有信标节点的坐标得到未知节点迭代初始坐标。再根据改进的LM算法初始值对未知节点坐标进行逐步迭代，最后得出满足要求的未知节点坐标最优解。每一次迭代中，非线性最小二乘法问题新的矢量方向会通过类似于梯度法的数学推导过程而被重新选择出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在这里用 $s _ { i }$ 代表未知节点，其坐标为 $s _ { i } = ( x _ { i } , y _ { i } )$ ， $a _ { _ j }$ 代表信标节点，其坐标为 $a _ { _ j } = ( x _ { _ j } , y _ { _ j } )$ 。同时用 $d _ { { \\scriptscriptstyle i j } }$ 表示未知节点与信标节点间的距离，则残差向量可由式(12)来表示：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( \\boldsymbol { s } _ { i } ) = \\left[ \\begin{array} { c } { d _ { i 1 } - \\left\\| \\boldsymbol { s } _ { i } - \\boldsymbol { a } _ { 1 } \\right\\| } \\\\ { d _ { i 2 } - \\left\\| \\boldsymbol { s } _ { i } - \\boldsymbol { a } _ { 2 } \\right\\| } \\\\ { \\mathbf { M } } \\\\ { d _ { i M } - \\left\\| \\boldsymbol { s } _ { i } - \\boldsymbol { a } _ { M } \\right\\| } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，整个未知节点的自定位求解过程转换成为下式非线性最小二乘的问题[16]。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } _ { s _ { i } } f ( s _ { i } ) = \\operatorname* { m i n } _ { s _ { i } } ( { \\frac { 1 } { 2 } } d ( s _ { i } ) ^ { r } d ( s _ { i } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现令LM改进算法中未知节点初始估计值为 $s _ { \\scriptscriptstyle 0 }$ ，且迭代过程中阻尼系数值为 $\\mu _ { \\scriptscriptstyle k }$ ，第 $k$ 次迭代的增量正规方程中 $d ( s _ { \\boldsymbol { k } } )$ 的雅可比矩阵为 $J ( s _ { \\boldsymbol { \\imath } _ { k } } )$ 。 $s _ { \\mathrm { o } } , \\mu _ { \\boldsymbol { k } }$ 与 $J ( s _ { \\boldsymbol { \\imath } _ { k } } )$ 值的计算公式分别由式(14)\\~(16)表示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns _ { \\scriptscriptstyle 0 } = \\frac { 1 } { M } \\sum _ { j = 1 } ^ { M } a _ { { \\scriptscriptstyle j } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { \\ k } = \\rho \\big \\| J ^ { \\tau } ( s _ { \\ k } ) d ( s _ { \\ k } ) \\big \\| \\qquad \\rho \\in ( 0 , 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c)首先求解步长 $\\delta _ { _ k }$ 的值， $\\left( \\delta _ { _ k } = \\overline { { N _ { _ k } } } ^ { - 1 } J _ { _ k } ^ { _ T } d ( s _ { _ k } ) \\right) ,$ ），再做以下循环判断步骤：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(a)检验条件：当 $f ( s _ { \\ k } + \\delta _ { \\ k } ) - f ( s _ { \\ k } ) < 0$ ，此时若 $\\left\\| \\delta _ { \\boldsymbol { k } } \\right\\| < \\varepsilon$ ，停正整个迭代过程并输出结果，此结果为未知节点最优坐标值；则若不满足，令 $s _ { \\scriptscriptstyle k + 1 } = s _ { \\scriptscriptstyle k } - \\delta _ { \\scriptscriptstyle k }$ ，且 $\\mu _ { _ { k + 1 } } = \\mu _ { _ k } / \\nu$ ，并且转到步骤2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(b）如果 $f ( s _ { \\boldsymbol { k } } + \\delta _ { \\boldsymbol { k } } ) - f ( s _ { \\boldsymbol { k } } ) > 0$ ，则令 $\\mu _ { _ { k + 1 } } = \\mu _ { _ { k } } \\cdot \\nu$ ，转到步骤 1重新进行迭代至满足迭代的终止条件。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在此步骤中设置 $\\left\\| \\delta _ { \\boldsymbol { k } } \\right\\| < \\varepsilon$ 为满足迭代的终止条件，且ILDV-Hop 算法实验中的目标误差 $\\boldsymbol { \\varepsilon }$ 的设定值为0.5。每次的迭代过程都是需要寻找一个合适的阻尼因子 $\\mu$ ，使得目标函数的值为下降的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4ILDV-Hop 定位算法过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.5ILDV-Hop 算法总体流程如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ( s _ { k } ) = \\left[ \\begin{array} { c c } { \\displaystyle \\frac { \\partial d ( s _ { 1 } ^ { ( k ) } ) } { \\partial s _ { 1 } } } & { \\Lambda } & { \\displaystyle \\frac { \\partial d ( s _ { 1 } ^ { ( k ) } ) } { \\partial s _ { M } } } \\\\ { \\mathbf { M } } & { \\mathbf { M } } \\\\ { \\displaystyle \\frac { \\partial d ( s _ { n } ^ { ( k ) } ) } { \\partial s _ { 1 } } } & { \\Lambda } & { \\displaystyle \\frac { \\partial d ( s _ { n } ^ { ( k ) } ) } { \\partial s _ { M } } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "这里选取迭代初始点的值为所有信标节点坐标值的算数平均值。LM优化的独特之处在于增添了阻尼系数，对于ILDV-Hop 算法中的阻尼系数 $\\mu _ { \\ast }$ ：当 $\\rho$ 值比较小趋于0时，LM算法蜕变为高斯-牛顿法；相反当 $\\rho$ 值趋于1时，LM算法则近似为梯度下降法。通常先设置一个比较小的 $\\mu$ 值，当发现目标函数值反而增大时，将 $\\mu$ 值增大使用梯度下降法快速寻找，然后再将 $\\mu$ 值减小使用高斯-牛顿法进行寻找。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对ILDV-Hop中针对未知节点自定位的LM算法，具体步骤如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a)计算未知节点迭代初始点 $s _ { \\scriptscriptstyle 0 }$ ，设定目标误差 $\\mathbf { \\sigma } _ { \\varepsilon }$ ，（ $\\mathbf { \\sigma } _ { \\varepsilon }$ 根据定位精度需求不同做相应设定)，且令迭代次数 $k : = 0$ ,步长因子$\\nu = 1 0$ 。选取阻尼系数 $\\mu$ 的初始迭代值 $\\mu _ { \\mathrm { o } }$ ，本方法开始时的 $\\mu _ { \\mathrm { o } }$ 值需设定为较小，对应公式(14)中取 ${ \\rho = } 0 . 1$ 进行计算，即$\\mu _ { \\mathrm { o } } = 0 . 1 \\Big \\| J ^ { \\tau } ( s _ { \\mathrm { \\scriptscriptstyle 0 } } ) d ( s _ { \\mathrm { \\scriptscriptstyle 0 } } ) \\Big \\| \\mathrm {  ~ c ~ }$ （204号",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)计算在第 $k$ 次迭代中， $d ( s _ { k } )$ 的雅可比矩阵 $J ( s _ { \\boldsymbol { \\imath } _ { k } } )$ ，计算N=JJk+μI（I为单位矩阵)，然后构造增量正规方程$\\overline { { N _ { \\ k } } } \\cdot \\delta _ { \\ k } = J _ { \\ k } ^ { \\ T } d ( s _ { \\ k } )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/be4bcf6a48b3a20df9a2b5c27ddb4e7e8e85c82feffc57accb76acf3d0c8fe85.jpg",
+        "img_caption": [
+            "图3ILDV-Hop 定位算法流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验分析与仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本节对ILDV-Hop算法与其他定位算法的性能进行分析对比。通过设置不同的场景，考察不同参数对于定位误差的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1仿真参数设定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证算法的性能，本节使用Matlab2014b软件对各算法进行仿真对比。在仿真实验中，所有节点被随机部署于 $1 0 0 \\mathrm { m }$ $\\times 1 0 0 \\mathrm { m }$ 不含障碍干涉物（如空洞）的仿真区域内。所有信标节点被选择出随机分布于此区域内。节点的总数量设定为在50\\~300的范围内，节点的通信半径设置在 $2 0 { \\sim } 4 0 \\mathrm { m }$ 的范围内，信标节点的数量设置在10\\~40的范围内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其余网络模型或仿真参数设置如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)所有节点都静止（不存在移动锚节点)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)无线传输处于正常模式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)传感器节点具有同质性：节点在其通信与存储的能力上相似。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "d)通信信道具有双向性。节点可以接收并且转发其他节点的信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了获得最优结果，实验在相同网络环境下进行100次仿真，最终结果是100次仿真的平均定位误差。未知节点的归一化平均定位误差（NALE）由式(17)表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ N A L E } = \\frac { \\displaystyle \\sum _ { j = 1 } ^ { K } \\sum _ { i = 1 } ^ { N } d i s t ( e s t _ { i } , t r u e _ { i } ) } { K \\times N \\times R }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 为未知节点的数目， $K$ 为仿真次数，取100。$d i s t ( e s t _ { i } , t r u e _ { i } )$ 为传感器节点 $i$ 的真实位置与估计位置的欧式距离， $R$ 表示传感器节点的通信半径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2定位效果及误差分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4(a)(b)分别仿真了当信标节点数目为20，节点通信半径为 $2 5 \\mathrm { m }$ 时，DV-Hop 算法与ILDV-Hop 算法未知节点的真实位置与估计位置。此时信标节点数目占总节点的比例为 $20 \\%$ ，未知节点的个数为50。图中，“ $\\gamma$ ”表示未知节点的真实位置，“\\*”表示未知节点的定位位置，“ $\\Delta$ ”表示分布于网络中的信标节点。从ILDV-Hop 算法定位效果图中可得其未知节点的真实位置与估计位置连线更短，即定位性能更优。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/38d8b2e1c4a884bfd236fe3b8cf59a0cd0a48e9e55a8f30154522b73d2d83697.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面三组仿真将在设有不同参数的场景中进行，将ILDV-Hop 算法的定位误差进行分析并与DV-Hop传统定位算法以及文献[10]中的CNDV-Hop 改进算法相对比，使得三种算法的定位性能的优良更加明显。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "场景1信标节点数量占总节点的比例恒定设置为 $20 \\%$ 节点的通信半径设置为 $2 5 \\mathrm { m }$ ，总节点数量在50到300范围内变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dfbadadb38e82161b170a5ed79ab4800d1ec73170ad333744df086241db7803.jpg",
+        "img_caption": [
+            "图5不同节点数量下算法定位误差比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图5可得到，随着节点总体数量的不断增加，节点间的连通度也相应增加，由于跳数与跳距信息估计更加准确，三种算法定位误差在减小。在节点总数量相同的条件下，ILDV-Hop算法的定位误差要比DV-Hop算法与CNDV-Hop算法分别平均减小 $2 4 . 5 \\%$ 和 $1 0 . 2 \\%$ 左右。当节点总数目大于200时，ILDV-Hop 算法定位效果开始变得不显著，误差变化幅度相应减小。由于节点总数目的增加会引起网络结构变化，再加上算法局限性与仿真实验偶然性等多种复杂原因的存在，三种算法的定位误差折线不是理想状态下的单调下降，在节点数目增加的情况过程中出现了小幅度的上下波动，但从宏观上来看都呈不断减小并趋于稳定趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "场景2节点总数量恒定设置为200，节点的通信半径设置为 $2 5 \\mathrm { m }$ ，信标节点数量在10到40范围内变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/503a0599b70f52d0c18248bb223736bc6cb5ff0f5ae2ef730a0c9e24ac18fba0.jpg",
+        "img_caption": [
+            "图4算法定位效果图",
+            "图6不同信标节点数量下算法定位误差比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图6可得到，当信标节点数量较少为10时，ILDV-Hop算法的定位误差与CNDV-Hop 算法差异不大，优势未能体现出。随着信标节点数目的增加，ILDV-Hop 算法的定位误差陡然减小，定位性能也都得到优化。当信标节点数目逐渐增多时，由于未知节点会获得更多的参照信息，三种算法的定位误差大致成不断减小趋势。在信标节点数目相同的条件下，ILDV-Hop 算法的定位性能始终为最优的，其误差相比DV-Hop 算法与CNDV-Hop算法分别平均减小 $2 2 . 5 \\%$ 和 $1 1 . 7 \\%$ 左右。同时，DV-Hop 算法误差折线由于其算法自身定位受干扰因素多，出现一定程度上下波动。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "场景3节点总数量恒定设置为200，信标节点数量占总节点数量的比例恒定设置为 $20 \\%$ 。节点的通信半径在 $2 0 \\mathrm { m }$ 到$4 0 \\mathrm { m }$ 范围内均匀增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/634f741aa3c8c362f790bf8a77d510b59c75eb00414e11ec56140a7dc946101e.jpg",
+        "img_caption": [
+            "图7不同通信半径下算法定位误差比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图7可得到，随着节点通信半径不断增加，节点间的连通度受到影响，三种算法的误差都在小幅度减小且趋于稳定。在通信半径相同的条件下，ILDV-Hop算法的定位误差始终为最小的，其相比DV-Hop 算法与CNDV-Hop 算法分别平均减小$23 . 6 \\%$ 和 $8 . 8 \\%$ 左右。当节点通信半径大于 $3 0 \\mathrm { m }$ 时，三种算法的定位效果变得不显著，误差降低的幅度相应减小，且ILDV-Hop算法的定位精度受节点通信半径的影响最小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文针对传统DV-Hop定位算法在跳数依赖、线性化位置估计、跳距同一性等方面存在的问题，提出了名为ILDV-Hop 的改进算法。该算法较传统定位算法做了以下改进：首先引入一种全网络的有效跳距，同时对信标节点与未知节点间的跳数值通过增添权值的方法进行修正，并且利用接收信号强度指示(RSSI)值对单跳值进行离散化处理，最后采用LM最优化算法代替极大似然法解决未知节点自定位过程中的非线性最小二乘问题。通过仿真结果可知，与传统DV-Hop定位算法相比，ILDV-Hop 算法在增加少量硬件功率消耗与算法计算量的情况下，很大程度提升了算法的精度。当然，如何进一步减小算法复杂度，同时提高在含空洞各向异性传感器网络的定位精度是本改进算法日后需要研究的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]曾园园．无线传感器网络技术与应用[M].北京：清华大学出版社, 2014: 16-28.   \n[2] 钱志鸿，王义君．面向物联网的无线传感器网络综述[J].电子与信息 学报,2013,35 (1):215-227.   \n[3] 潘琢金，刘文春，罗振，等．无线传感器网络 DV-Hop 定位算法的改进 [J]．计算机工程与设计,2016,37(7):1701-1704.   \n[4]Oguejiofor O S,Aniedu A N,Ejiofor H C,etal.Trilateration based localization algorithm for wireless sensor network[J]. International Journal of Science and Modern Engineering,2013,1(10): 356-368.   \n[5]Naeimi S, Chow C O,Ishii H. Directional multi-hop clustering routing protocol for wireless sensor networks [J]. International Journal ofAd Hoc & Ubiquitous Computing,2013,14 (2): 123-134.   \n[6]Yang Xiang,Liu Meifeng,Deng Dengteng.An improved DV-Hop algorithm based on RSSI for WSN [C]/ Proc of IEEE International Conference on Signal Processing, Communications and Computing. 2015: 1-5.   \n[7]Niculescu D,Nath B.DV based positioning in Ad hoc networks [J]. Telecommunication Systems,2003,22(1): 267-280.   \n[8]Kumar S,Lobiyal D K.An advanced DV-hop localization algorithm for wireless sensor networks [J]. WirelessPersonal Communications,2013,71 (2): 1365-1385.   \n[9]温江涛，范学敏，吴希军．基于RSSI跳数修正的DV-Hop改进算法[J]. 传感技术学报,2014,27(1):113-117.   \n[10]乔欣，常飞，丁恩杰，等．基于跳距修正的 WSN 拟牛顿迭代定位算法 [J]．传感技术学报,2014,27(6):797-801.   \n[11]于泉，孙顺远，徐保国，等．基于改进粒子群算法的无线传感器网络节 点定位[J].计算机应用,2015,35(6):1519-1522.   \n[12]潘琢金，刘文春，罗振，等．无线传感器网络DV-Hop 定位算法的改进 [J]．计算机工程与设计,2016,37(7):1701-1704.   \n[13] Kaur A,Kumar P,Gupta G P.A novel DV-Hop algorithm based on GaussNewton method [C]//Proc of the 4th International Conference on Parallel, Distributed and Grid Computing.2016: 625-629.   \n[14] Zhang Dengyin,Cui Guodong.A Union Node Localization Algorithm Based on RSSIand DV-Hop for WSNs [C]// Proc of International Conference on Instrumentation. 2013: 1094-1098.   \n[15] Dennis JE J，Schnabel R B.Numerical methods for unconstrained optimization and nonlinear equations [M].北京：科学出版社,2009:162- 173.   \n[16]祝强，李少康，徐臻.LM算法求解大残差非线性最小二乘问题研究[J]. 中国测试,2016,42 (3):12-16. ",
+        "page_idx": 5
+    }
+]

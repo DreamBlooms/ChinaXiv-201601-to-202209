@@ -1,0 +1,452 @@
+[
+    {
+        "type": "text",
+        "text": "Exact Solution of Quantum Rabi Model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Degang Zhang1,2,3 $^ { 1 }$ Colege of Physics and Electronic Engineering， Sichuan Normal University， Chengdu 610101， China （204号 $\\mathcal { Z }$ Institute of Solid State Physics， Sichuan Normal University， Chengdu 610101， China （20 $^ 3$ Texas Center for Superconductivity and Department of Physics, University of Houston，Houston，Texas 77204，USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quantum Rabi model is exactly solved by employing the parameter-dependent unitary transformation method in the Bargmann space.The complete energy spectrum consists of two double-fold sub-energy spectra.The eigenvalue is determined by the parameter in the unitary transformation, which satisfies a highly nonlinear equation.Such the energy spectrum completely coincides with that obtained in the occupation number representation [D. Zhang,chinaXiv:201708.00168]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:03.65.Ge,02.30.Ik,42.50.Pq ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quantum Rabi model describes the response of a twolevel atom to an applied bosonic field [1]. The simplest light-matter interacting model has been widely applied in atomic physics [2],quantum optics [3],quantum information and quantum technology [4],and etc.. Its Hamiltonian reads ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = \\omega a ^ { \\dagger } a + g ( a ^ { \\dagger } + a ) \\sigma _ { x } + \\lambda \\sigma _ { z } + \\epsilon \\sigma _ { x } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { x }$ and $\\sigma _ { z }$ are the Pauli matrices, $a ^ { + }$ and $a$ are the creation and annihilation operators for the single bosonic mode with frequency $\\omega$ ，respectively, $2 \\lambda$ is the level splitting for the two-level system, $g$ is the light-matter interaction strength,and the last term $\\epsilon \\sigma _ { x }$ is the driving term，which leads to tunnelling between the two levels. The ratio between $g$ and $\\omega$ divides three experimental regimes: (a) the weak coupling regime $( g / \\omega < \\sim 0 . 1 )$ ，(b) the ultrastrong coupling regime ( $\\sim 0 . 1 < g / \\omega < \\sim 1 . 0 )$ ， and (c) the deep strong coupling regime $( g / \\omega > \\sim 1 . 0 )$ ： We note that most experiments have been performed in the the weak coupling regime,where the quantum Rabi model(1) with $\\epsilon = 0$ is equivalent to the exactly solvable Jaynes-Cummings model in the rotating-wave approximation [5].Recently more and more attention has been focused on the strong regimes due to their fundamental characteristics and the potential applications in quantum devices [4]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is known that exact solution of quantum Rabi model (1）has been a long-standing problem in Physics. Such the analytical solution is expected to explore accurately the light-matter interaction from weak to extreme strong regime.In Ref. [6],Braak presented an analytical solution of the Rabi model by employing the representation of bosonic operators in the Bargmann space of analytical functions. The energy spectrum consists of two parts, i.e. the regular and the exceptional spectrum.However,it has been proved that the Braak's analytical solution is incorrect due to the derivation error in solving the time-independent Schrodinger equation in the positive and negative parity parts [7]. In Ref. [8],we obtained the exact solution of the Hamiltonian (1） in the whole range of the physical parameters by using the parameterdependent unitary transformation technique in the occupation number representation.Such a direct and powerful approach has also been used to solve successfully the complex two-dimensional electron gas in the presence of both Rashba and Dresselhaus spin-orbit interactions undera perpendicular magnetic field [9,1O]. The complete energy spectrum of the quantum Rabi model consists of two double-fold sub-energy spectra. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,we reinvestigate the eigenvalue problem for the Hamiltonian (1） in the Bargmann space,where the bosonic creation and anihilation operators in terms of a complex variable $z$ can be transformed as $a ^ { \\dagger }  z$ （204号 and $a  \\partial / \\partial z$ ，respectively. In this representation,the state $\\Psi ( z )$ can be normalized according to ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< \\Psi | \\Psi > = \\frac { 1 } { \\pi } \\int d z d \\overline { { { z } } } e ^ { - z \\overline { { { z } } } } \\Psi ^ { + } ( z ) \\Psi ( z ) \\equiv 1 .\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We shall see below that the energy spectrum is complete ly consistent with that in the occupation number repre sentation [8]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the Bargmann space, the two-component eigenstate of the Hamiltonian(1) for the $n$ th energy level with quantum number $s$ has the general form ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { n s } = \\sum _ { i = 0 } ^ { + \\infty } \\frac { 1 } { \\sqrt { 1 + \\Delta _ { n s } ^ { 2 } } } \\left( \\begin{array} { c c } { 1 } & { \\Delta _ { n s } } \\\\ { - \\Delta _ { n s } } & { 1 } \\end{array} \\right) \\left( \\begin{array} { c c } { A _ { i } ^ { n s } z ^ { i } } \\\\ { B _ { i } ^ { n s } z ^ { i } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $s = \\pm 1$ ， $\\Delta _ { n s }$ is a real parameter in the unitary matrix to be determined below by requiring the coefficients $A _ { i } ^ { n s }$ and $B _ { i } ^ { n s }$ to be nonzero.When $i  + \\infty$ ， $A _ { i } ^ { n s }  0$ and $B _ { i } ^ { n s }  0$ . Substituting the eigenfunction (3） into the eigen-equation $H \\Psi _ { n s } \\ = \\ E _ { n s } \\Psi _ { n s }$ and requiring the coefficients of $z ^ { i }$ to be zero,we obtain the infinite system of homogeneous linear equations with the variables $A _ { i } ^ { n s }$ and Bns ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\frac { 2 g \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { i - 1 } ^ { n s } + [ E _ { n s } - i \\omega - \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } ] A _ { i } ^ { n s } } & { { } } \\\\ { + \\frac { 2 g \\Delta _ { n s } ( i + 1 ) } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { i + 1 } ^ { n s } - \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { i - 1 } ^ { n s } } & { { } } \\\\ { - \\frac { 2 \\lambda \\Delta _ { n s } + \\epsilon ( 1 - \\Delta _ { n s } ^ { 2 } ) } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { i } ^ { n s } - \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) ( i + 1 ) } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { i + 1 } ^ { n s } \\ = \\ 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\frac { 2 g \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { i - 1 } ^ { n s } - [ E _ { n s } - i \\omega + \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } ] B _ { i } ^ { n s } } & { } \\\\ { + \\frac { 2 g \\Delta _ { n s } ( i + 1 ) } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { i + 1 } ^ { n s } + \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { i - 1 } ^ { n s } } & { } \\\\ { + \\frac { 2 \\lambda \\Delta _ { n s } + \\epsilon ( 1 - \\Delta _ { n s } ^ { 2 } ) } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { i } ^ { n s } + \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) ( i + 1 ) } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { i + 1 } ^ { n s } } & { = ~ 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $i = 0 , 1 , 2 , \\cdots , \\infty , A _ { m } ^ { n s } = B _ { m } ^ { n s } = 0$ for $m \\ < \\ 0$ ： It seems very hard to solve Eqs. (4) and (5).However,we can acquire all the physical eigenvalues and the corresponding eigenfunctions by using a special trick. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The sub-energy spectrum $I$ .In order to get the analytical solution of the Hamiltonian(1) in the whole parameter space,we first choose ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ \\omega ( n + 1 ) + \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } - E _ { n s } ] A _ { n + 1 } ^ { n s } } \\\\ & { \\quad \\quad \\quad \\quad \\quad + \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { n } ^ { n s } = 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { [ \\omega n - \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } - E _ { n s } ] B _ { n } ^ { n s } } \\\\ & { \\qquad + \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) ( n + 1 ) } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { n + 1 } ^ { n s } \\ = \\ 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in the eigen-equations (4） and (5). Eqs. (6) and (7) come from the vanishing of thetwo termsabout $A _ { n + 1 } ^ { n s }$ and $B _ { n } ^ { n s }$ in Eq. (4) with $i = n + 1$ and Eq.(5) with $i = n$ ， respectively. Such a choice is based on the observation of exact solution of the Hamiltonian (1) for the $n$ th energy level with quantum number $s$ when $g = 0$ . Then the nonzero eigenfunction associated with the eigenvalue $E _ { n s }$ is solely fixed by requiring ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ 2 \\lambda \\Delta _ { n s } + \\epsilon ( 1 - \\Delta _ { n s } ^ { 2 } ) ] B _ { n } ^ { n s } - 2 g \\Delta _ { n s } ( n + 1 ) A _ { n + 1 } ^ { n s } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "or ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 g \\Delta _ { n s } B _ { n } ^ { n s } + [ 2 \\lambda \\Delta _ { n s } + \\epsilon ( 1 - \\Delta _ { n s } ^ { 2 } ) ] A _ { n + 1 } ^ { n s } = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We solve the homogenous linear equations (6） and （7) about $A _ { n + 1 } ^ { n s }$ and $B _ { n } ^ { n s }$ by vanishing the coefficient determinant.Then the eigenvalue for the nth eigenstate with $s$ has the analytical expression ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { E _ { n s } = ( n + \\frac { 1 } { 2 } ) \\omega + s \\Xi _ { n s } , } \\\\ & { \\Xi _ { n s } = \\sqrt { ( \\frac { \\omega } { 2 } + \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } ) ^ { 2 } + ( n + 1 ) g ^ { 2 } ( \\frac { 1 - \\Delta _ { n s } ^ { 2 } } { 1 + \\Delta _ { n s } ^ { 2 } } ) ^ { 2 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note that the quasiparticle energy $E _ { n s }$ must be larger than zero. Combining Eqs. (6)-(1O),the parameter $\\Delta _ { n s }$ is determined by the constraint ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( 1 + \\Delta _ { n s } ^ { 2 } ) - 2 \\Delta _ { n s } ( E _ { n s } - \\omega n ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "or ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( 1 + \\Delta _ { n s } ^ { 2 } ) + 2 \\Delta _ { n s } [ E _ { n s } - \\omega ( n + 1 ) ] = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After analysing carefully，we find that Eq.(11） with （204号 $s = - 1 ( 1 )$ coincides with Eq.（12） with $s = 1 ( - 1 )$ . So we have ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( 1 + \\Delta _ { n s } ^ { 2 } ) + \\Delta _ { n s } ( 2 \\sigma \\Xi _ { n s } - \\omega ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5d7ecf6baa8ca2802d31cb19d4fd54edd4989f270caa9e136fa3363ded40bc6.jpg",
+        "img_caption": [
+            "FIG.1: (Color online) The low-lying energy levels of the subenergy spectrum Iin unit of $\\omega$ as a function of the coupling parameter $g$ when $\\lambda = 0 . 4 \\omega$ and $\\epsilon = 0$ . The solid lines denote $n = 0 , 1 , \\cdots , 5$ and $s ~ = ~ 1$ while the dash lines mean $n =$ $1 , 2 , \\cdots { } , 5$ and $s = - 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma = \\pm 1$ . It is absolutely surprising that such the analytical expression （10) of $E _ { n s }$ with the parameter constraint (13) has been obtained in the occupation number representation [8]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Obviously, $\\Delta _ { n s }$ is independent of $s$ in Eq. (13).When $\\epsilon = 0$ ，then $\\Delta _ { n s } = 0$ .Therefore,the eigenvalue $E _ { n s }$ has a simple form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { n s } = ( n + \\frac { 1 } { 2 } ) \\omega + s \\sqrt { ( \\frac { \\omega } { 2 } + \\lambda ) ^ { 2 } + ( n + 1 ) g ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in the absence of the driving term.It is easy to conclude from Eq.(13) that the analytical solution(1O)of $E _ { n s }$ is physical if and only if it must satisfy the limit $\\Delta _ { n s }  0$ （204号 when $\\epsilon  0$ .In order to compare conveniently with the energy spectrum presented by Braak，here we use the physical parameters in Ref. [6]. Fig. 1 plots the lowlying energy levels as a function of $g$ at $\\lambda = 0 . 4 \\omega$ and $\\epsilon = 0$ . We can see that this energy spectrum possesses the level crossings between the neighboring eigenstates, which is dramatically different from that in Ref. [6]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When $\\epsilon \\neq 0$ ， $\\Delta _ { n s }$ in Eq.(13）with $\\sigma = 1$ has an $\\omega$ 1 dependent solution. The corresponding eigenvalues $E _ { n s }$ （20 $n = 0 , 1 , 2 , \\cdot \\cdot \\cdot , \\infty , s = \\pm 1$ ）form the sub-energy spectrum I. In Fig. 2，we show the low-lying energy levels and the corresponding parameter $\\Delta _ { n s }$ of the subenergy spectrum I as a function of $g$ at $\\lambda = 0 . 7 \\omega$ and $\\epsilon = 0 . 2 \\omega$ .When $g = 0$ ，the sub-energy spectrum I recovers the exact eigenvalues for the interactionless case, i.e. $E _ { n s } = \\omega n + s \\sqrt { \\lambda ^ { 2 } + \\epsilon ^ { 2 } }$ with $\\Delta _ { n s } = ( \\lambda - \\sqrt { \\lambda ^ { 2 } + \\epsilon ^ { 2 } } ) / \\epsilon$ 业 Obviously, if $\\epsilon  0$ ， $\\Delta _ { n s }  0$ .We note that another $\\omega$ -dependent solution $\\Delta _ { n s }$ in Eq.(13)with $\\sigma = - 1$ is nothing but the sub-energy spectrum $\\mathrm { I I }$ (see below). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the eigenstate associated with the eigenvalue (10), ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "from Eq. (7),we have ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal A } _ { n + 1 } ^ { n s } = \\frac { ( 1 + \\Delta _ { n s } ^ { 2 } ) ( E _ { n s } - n \\omega ) + \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { g ( 1 - \\Delta _ { n s } ^ { 2 } ) ( n + 1 ) } { \\cal B } _ { n } ^ { n s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { n } ^ { n s }$ is a constant to be determined by the normalized condition (2). The coefficients $\\alpha _ { i } ^ { n s }$ and $\\beta _ { i } ^ { n s }$ ,proportional to $B _ { n } ^ { n s }$ , are uniquely obtained by the recursion relations ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { A _ { i - 1 } ^ { n s } } \\\\ { B _ { i - 1 } ^ { n s } } \\end{array} \\right) = - \\mathcal { M } _ { n s } ^ { - 1 } \\mathcal { N } _ { i } ^ { n s } \\left( \\begin{array} { l } { A _ { i } ^ { n s } } \\\\ { B _ { i } ^ { n s } } \\end{array} \\right) - ( i + 1 ) \\left( \\begin{array} { l } { A _ { i + 1 } ^ { n s } } \\\\ { B _ { i + 1 } ^ { n s } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for $i = 0 , 1 , 2 , \\cdots , n$ ，and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { l } { A _ { i + 1 } ^ { n s } } \\\\ { B _ { i + 1 } ^ { n s } } \\end{array} \\right) = - \\frac { \\mathcal { M } _ { n s } ^ { - 1 } \\mathcal { N } _ { i } ^ { n s } } { i + 1 } \\left( \\begin{array} { l } { A _ { i } ^ { n s } } \\\\ { B _ { i } ^ { n s } } \\end{array} \\right) - \\frac { 1 } { i + 1 } \\left( \\begin{array} { l } { A _ { i - 1 } ^ { n s } } \\\\ { B _ { i - 1 } ^ { n s } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for $i = n + 1 , n + 2 , \\cdots , + \\infty$ .Here we have defined ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\mathcal { M } _ { n s } } & { = } & { \\frac { g } { 1 + \\Delta _ { n s } ^ { 2 } } \\big [ \\big ( 1 - \\Delta _ { n s } ^ { 2 } \\big ) \\sigma _ { x } - 2 \\Delta _ { n s } \\sigma _ { z } \\big ] , } \\\\ { \\mathcal { N } _ { i } ^ { n s } } & { = } & { \\big ( \\omega i - E _ { n s } \\big ) I + \\frac { 2 \\lambda \\Delta _ { n s } + \\epsilon \\big ( 1 - \\Delta _ { n s } ^ { 2 } \\big ) } { 1 + \\Delta _ { n s } ^ { 2 } } \\sigma _ { x } } \\\\ & { } & { + \\frac { \\lambda \\big ( 1 - \\Delta _ { n s } ^ { 2 } \\big ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } \\sigma _ { z } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $I$ is the $2 \\times 2$ unit matrix ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sub-energy spectrum $I I$ .Now we use another choice ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { ( \\omega n + \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } - E _ { n s } ) A _ { n } ^ { n s } } \\\\ & { \\qquad + \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) ( n + 1 ) } { 1 + \\Delta _ { n s } ^ { 2 } } B _ { n + 1 } ^ { n s } \\ = \\ 0 , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { [ \\omega ( n + 1 ) - \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } \\lambda - E _ { n s } ] B _ { n + 1 } ^ { n s } } & { { } } \\\\ { + \\frac { g ( 1 - \\Delta _ { n s } ^ { 2 } ) } { 1 + \\Delta _ { n s } ^ { 2 } } A _ { n } ^ { n s } = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in the eigen-equations (4) and (5). Eqs. (19) and (20) originate in the vanishing of the two terms about $A _ { n } ^ { n s }$ and $B _ { n + 1 } ^ { n s }$ in Eq. (4) with $i \\ = \\ n$ and Eq.(5) with $i =$ （204号 $n + 1$ ，respectively. The corresponding eigenfunction is uniquely determined by letting ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ 2 \\lambda \\Delta _ { n s } + \\epsilon ( 1 - \\Delta _ { n s } ^ { 2 } ) ] A _ { n } ^ { n s } + 2 g \\Delta _ { n s } ( n + 1 ) B _ { n + 1 } ^ { n s } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "or ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 2 g \\Delta _ { n s } A _ { n } ^ { n s } + [ 2 \\lambda \\Delta _ { n s } + \\epsilon ( 1 - \\Delta _ { n s } ^ { 2 } ) ] B _ { n + 1 } ^ { n s } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Solving Eqs.(19) and (2O)，we have the eigenvalue for the nth eigenstate with $s$ （20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { E _ { n s } = ( n + \\frac { 1 } { 2 } ) \\omega + s \\Theta _ { n s } , } \\\\ & { \\Theta _ { n s } = \\sqrt { ( \\frac { \\omega } { 2 } - \\frac { \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) - 2 \\epsilon \\Delta _ { n s } } { 1 + \\Delta _ { n s } ^ { 2 } } ) ^ { 2 } + ( n + 1 ) g ^ { 2 } ( \\frac { 1 - \\Delta _ { n s } ^ { 2 } } { 1 + \\Delta _ { n s } ^ { 2 } } ) ^ { 2 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here $\\Delta _ { n s }$ satisfies the nonlinear equation ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( 1 + \\Delta _ { n s } ^ { 2 } ) + 2 \\Delta _ { n s } ( E _ { n s } - \\omega n ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7c814e3daaed5a9cf8d9f16b923a42d17f6ea58a58c3597b31fb5bd4b9b301e.jpg",
+        "img_caption": [
+            "FIG.2: (Color online) The low-lying energy levels of the subenergy spectrum Iin unit of $\\omega$ as a function of the coupling parameter $g$ when $\\lambda = 0 . 7 \\omega$ and $\\epsilon = 0 . 2 \\omega$ ,shown in (a).The solid lines denote $n = 0 , 1 , \\cdots , 5$ and $s = 1$ while the dash lines mean $n = 1 , 2 , \\cdots , 5$ and $s = - 1$ .The corresponding $\\Delta _ { n s }$ are displayed in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "or ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( 1 + \\Delta _ { n s } ^ { 2 } ) - 2 \\Delta _ { n s } [ E _ { n s } - \\omega ( n + 1 ) ] = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which is derived from Eqs. (19)-(22). Similar to Eqs. (11) and (12),Eq.(24) with $s = - 1 ( 1 )$ is also consistent with Eq.(25)with $s = 1 ( - 1 )$ . Therefore,we obtain ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\epsilon ( 1 + \\Delta _ { n s } ^ { 2 } ) + \\Delta _ { n s } ( 2 \\tau \\Theta _ { n s } + \\omega ) = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau = \\pm 1$ .We note that the analytical expression (23)of $E _ { n s }$ and the parameter equation (26） are also consistent fully with those presented in the occupation number representation [8]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If $\\epsilon = 0$ , then $\\Delta _ { n s } = 0$ from Eq. (26). So the eigenvalue (23）also has an explicit expression ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { n s } = ( n + \\frac { 1 } { 2 } ) \\omega + s \\sqrt { ( \\frac { \\omega } { 2 } - \\lambda ) ^ { 2 } + ( n + 1 ) g ^ { 2 } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bdb17d62f49677ea201ea5b0457e81f64fc4dd05eb6867da5fd7359ec74ccc1.jpg",
+        "img_caption": [
+            "FIG.3:(Color online) The low-lying energy levels of the subenergy spectrum II in unit of $\\omega$ as a function of the coupling parameter $g$ when $\\lambda = 0 . 4 \\omega$ and $\\epsilon = 0$ . The solid lines denote （204号 $n = 0 , 1 , \\cdots , 5$ and $s \\ = \\ 1$ while the dash lines mean $n =$ $0 , 1 , \\cdots , 5$ and $s = - 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We depict the low-lying energy levels as a function of $g$ at $\\lambda = 0 . 4 \\omega$ and $\\epsilon = 0$ in Fig. 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If $\\epsilon \\neq 0$ ， $\\Delta _ { n s }$ in Eq.(26)with $\\tau = 1$ also has an $\\omega$ dependent solution. The corresponding eigenvalues constitute the sub-energy spectrum II.Fig. 4 exhibits the low-lying energy levels of the sub-energy spectrum $\\mathrm { I I }$ as a function of $g$ at $\\lambda = 0 . 7 \\omega$ and $\\epsilon = 0 . 2 \\omega$ and the corresponding parameter $\\Delta _ { n s }$ .When $g = 0$ ， the sub-energy spectrum II also recovers the exact eigenvalues for the interactionless two-level system, i.e. $E _ { n s } = \\omega n + s \\sqrt { \\lambda ^ { 2 } + \\epsilon ^ { 2 } }$ with $\\Delta _ { n s } = ( \\lambda - \\sqrt { \\lambda ^ { 2 } + \\epsilon ^ { 2 } } ) / \\epsilon$ .We note that after taking the transformation $\\Delta _ { n s }  - 1 / \\Delta _ { n s }$ ，the eigenvalue (23）with $\\tau = 1 ( - 1 )$ becomes the eigenvalue（1O）with （204 $\\sigma = - 1 ( 1 )$ . Therefore,both the sub-energy spectrum I andII are double degenerate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the nth eigenstate with $s$ in the sub-energy spectrum $\\mathrm { I I }$ ,from Eq. (18),we have ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { n + 1 } ^ { n s } = \\frac { ( 1 + \\Delta _ { n s } ^ { 2 } ) ( E _ { n s } - n \\omega ) - \\lambda ( 1 - \\Delta _ { n s } ^ { 2 } ) + 2 \\epsilon \\Delta _ { n s } } { g ( 1 - \\Delta _ { n s } ^ { 2 } ) ( n + 1 ) } A _ { n } ^ { n s } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { n } ^ { n s }$ is the normalized constant. The coefficients （204号 $A _ { i } ^ { n s }$ and $B _ { i } ^ { n s }$ , proportional to $A _ { n } ^ { n s }$ , obey the same recursion relations (16） and（17） in the sub-energy spectrum I. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary, we have exactly solved the quantum Rabi model (1） in the Bargmann space. The complete energy spectrum is comprised of two double-fold degenerate sub-energy spectrum I and II. Such the exact solution can help us to deeply understand the light-matter interaction，especially in strong coupling regimes. Because the eigenvalue $E _ { n s }$ has the same analytical expression in both the Bargmann space and the occupation number representation, this guarantees the correctness of the exact solution for the quantum Rabi model. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b711398efd64ee51b12162a43ef5f53ee50f4a4a6c23a0827bfb38c534928209.jpg",
+        "img_caption": [
+            "FIG.4:(Color online) The low-lying energy levels of the subenergy spectrum II in unit of $\\omega$ as a function of the coupling parameter $g$ when $\\lambda = 0 . 7 \\omega$ and $\\epsilon = 0 . 2 \\omega$ ,shown in (a).The solid lines denote $n = 0 , 1 , \\cdots , 5$ and $s = 1$ while the dash lines mean $n = 0 , 1 , \\cdots , 5$ and $s = - 1$ .The corresponding $\\Delta _ { n s }$ are displayed in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Sichuan Normal University, the \"Thousand Talents Program”of Sichuan Province,China,the Texas Center for Superconductivityat theUniversity ofHouston,and the Robert A.Welch Foundation under grant No. E-1146. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] I. I. Rabi,Phys. Rev. 49,324 (1936); Phys. Rev. 51,652 (1937).   \n[2] S.Haroche and J.-M. Raimond, Exploring the Quantum: Atoms,Cavities,and Photons (Oxford University Press, Oxford,2006).   \n[3] V.Vedral,Modern Foundations of Quantum Optics (Imperial College Press,London,2006).   \n[4] M.A.Nielsen and I.L.Chuang,Quantum Computation and Quantum Information (Cambridge University Press, ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cambridge,2004). [5]E.T.Jaynes and F.W.Cummings,Proc.IEEE,51,89 (1963). [6]D.Braak,Phys.Rev.Lett.107,100401 (2011). [7] Degang Zhang, chinaXiv:201804.01458. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[8] Degang Zhang, chinaXiv:201708.00168. [9]Degang Zhang,J.Phys.A: Math.Gen.39,L477 (2006). [10]Fu-Chun Zhang and Shun-Qing Shen，IJMP B 22，94 (2008). ",
+        "page_idx": 4
+    }
+]

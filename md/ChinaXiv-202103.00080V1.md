@@ -1,0 +1,194 @@
+# 干旱胁迫对小胡杨2号幼苗光合及生理特征的影响
+
+齐容镰¹²，莎仁图雅²，李钢铁¹，李佳陶²，何亮¹²，杨文斌³(1.内蒙古农业大学沙漠治理学院,内蒙古 呼和浩特010010；2.内蒙古自治区林业科学研究院，内蒙古 呼和浩特010010；3.中国林业科学研究院荒漠化研究所，北京100091)
+
+摘要：本文以2a生小胡杨2号幼苗为研究对象,采用盆栽持续干旱的方法探究其光合及生理特征对干旱逆境的响应,结果表明：(1)随干旱胁迫程度加剧，小胡杨2号主动调节自身光合机制以适应逆境条件，其净光合速率$( P _ { n } )$ 等参数日变化曲线均由双峰型变为单峰型;同时,小胡杨2号积极调整水分利用策略,维持高水分利用效率以应对干旱环境。(2)轻度及中度干旱胁迫提升了小胡杨2号对强光的利用效率;重度干旱胁迫下苗木降低呼吸消耗保存光合产物、提高对弱光的利用能力以抵御干旱逆境。(3)经回归拟合，小胡杨2号 $P _ { n }$ 蒸腾速率 $( T _ { r } )$ 、水分利用效率(WUE)与土壤含水量存在相应数学关系，确定适宜小胡杨2号幼苗生长的最优土壤水分范围为 $7 . 3 \% \sim 1 1 . 0 \%$ 。(4）小胡杨2号通过积累渗透调节物质与提高抗氧化酶活性来减轻干旱胁迫的伤害作用,但重度干旱也会使其保护酶活性受到抑制，最终使膜脂过氧化程度加深。综上，小胡杨2号作为抗旱性良好的喜光树种,可广泛用于固沙造林、植被恢复等,在干旱半干旱地区林业建设中具有良好的推广前景。
+
+关键词：干旱胁迫；小胡杨2号；光合特性；生理指标
+
+干旱胁迫是影响植物生命活动和生长代谢最常见的非生物胁迫类型之一[],一些抗旱性强的植物在面临干旱逆境时能积极启动自身的响应机制，以减少因水分亏缺造成的各种损伤。我国干旱半干旱地区由于自然条件的限制，植物在生长过程中极易受到干旱逆境的威胁，导致部分植被出现退化衰败的现象，因此选择抗旱性优良的树种并对其抗旱机理进行研究，对于该地区植被恢复及重建等具有重要意义。
+
+小胡杨2号（Populus simonii $\times P$ ，euphratica‘Xiaohuyang2'）是以小叶杨(Populussimonii)为母本，胡杨(Populuseuphratica)为父本进行杂交选优得到的品种，兼有其双亲的优点，即比小叶杨更耐盐碱，比胡杨更易繁殖、生长迅速，同时具有抗旱、抗寒等优良特性。小胡杨2号在内蒙古大部分地区、宁夏和甘肃敦煌等地的推广造林都已取得了良好效果，并先后申报成为内蒙古及国家良种，可见其在干旱半干旱区林业建设及推广造林中具有重要地位和良好应用前景。目前，国内对小胡杨2号的研究主要在硬枝扦插技术、引种驯化与组培无菌快繁技术[2-4]及抗旱性[5-6]等方面。有关学者对小胡杨2号抗旱能力的分析仅从光合及水势单方面开展，未涉及其生理特征且没有将各指标与土壤含水量结合起来。研究表明，干旱胁迫下植物光合能力强弱关系到其生长发育、产量形成以及次生代谢物质的合成积累[7-8],同时植物抗氧化酶的表达量及渗透调节物质的积累量[9-10]也与其自身的抗旱性密切相关。因此，为进一步探究干旱胁迫下小胡杨2号光合特性与生理特征对逆境条件的响应机制，本文选用小胡杨2号为试验材料，通过持续干旱的方式进行水分胁迫，探究该杂交树种在不同土壤含水量下光合及生理特征的变化，系统阐述小胡杨2号对干旱胁迫的响应机制，为后期的优化栽培、抚育管理及确定推广造林范围等提供理论依据，丰富干旱半干旱区造林树种。
+
+# 1材料与方法
+
+# 1.1试验材料与设计
+
+试验材料为磴口县实验林场提供的2a生无病虫害小胡杨2号扦插苗，2019年4月将苗木移栽于内蒙古林业科学研究院树木园内，移栽时使用规格为 $2 8 \ \mathrm { c m } { \times } 2 0 \ \mathrm { c m }$ 的塑料花盆，每盆一株,栽培基质为风沙土，在胁迫试验开始前所有苗木进行正常水肥管护。
+
+试验于8月连续晴朗的天气完成，选择长势较好的15株，其中6株用于光合特性测定，其余用于叶片取样，采用自然干旱的方式进行胁迫处理，即试验前一天对苗木充分灌水后不再进行水分补充，随土壤水分蒸发等过程，土壤含水量持续降低以获得不同胁迫水平。根据土壤含水量的变化，将胁迫过程分为5个程度(表1)。试验期间搭设防雨棚，避免降雨对试验过程的影响。胁迫开始后每隔1d分别测定小胡杨2号光响应曲线与光合作用日进程，土壤含水量采用烘干称重法测定。植物叶片在胁迫开始后每隔3d进行一次取样，取样时间为08：00—10:00，取好的叶样保存在 $- 8 0 \mathrm { { ^ circ C } }$ 的超低温冰箱中用于生理指标的测定。
+
+表1干旱胁迫发生阶段  
+Tab.1 Stage of drought stress   
+
+<html><body><table><tr><td>胁迫程度</td><td>土壤含水量/%</td><td>胁迫等级</td></tr><tr><td>水分适宜</td><td>>12.7</td><td>CK</td></tr><tr><td>轻度干旱</td><td>10.3~12.7</td><td>T1</td></tr><tr><td>中度干旱</td><td>5.9~10.3</td><td>T2</td></tr><tr><td>重度干旱</td><td>2.4~5.9</td><td>T3</td></tr><tr><td>极重度干旱</td><td><2.4</td><td>T4</td></tr></table></body></html>
+
+# 1.2光合特征指标测定
+
+1.2.1光合作用日变化测定小胡杨2号光合日变化使用LI-6400便携式光合仪测定，测定时间为08:00—18:00,每隔 $2 \mathrm { { h } }$ 测定一次。测定时每棵苗木选择3片生长在中上部叶型完整且生长良好的叶片并做好标记，待各参数稳定后记录净光合速率 $( P _ { n } )$ 、气孔导度 $( G _ { s } )$ 、胞间 $\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ 、蒸腾速率 $( T _ { r } )$ 等数据，每个叶片重复记录5次。水分利用效率（WUE)根据公式 $W U E { = } P _ { n } / T _ { r }$ 求得。
+
+1.2.2光响应曲线测定光响应曲线测定时间为上午9:00—11:30之间，使用自动测量程序，将气体流速稳定在 $5 0 0 \ \mathrm { m m o l \cdot s ^ { - 1 } }$ ， $\mathrm { C O } _ { 2 }$ 浓度稳定在 $4 0 0 ~ \mu \mathrm { m o l }$ .$\mathrm { m o l ^ { - 1 } }$ 的范围内，试验共设置17个光强梯度，分别为$1 8 0 0 , 1 6 0 0 , 1 4 0 0 , 1 2 0 0 , 1 0 0 0 , 8 0 0 , 7 0 0 , 6 0 0 , 5 0 0$ /$4 0 0 , 3 0 0 , 2 5 0 , 2 0 0 , 1 5 0 , 1 0 0 , 5 0 , 0 ~ \mathrm { \textmu m o l \cdot m ^ { - 2 } \cdot s ^ { - 1 } } ,$ 当光强梯度改变时，设置最小等待时间为 $^ { 1 2 0 \mathrm { ~ s ~ } , 3 }$ 次测量结果取平均值。
+
+1.2.3光响应参数值模型拟合本文光响应特征参数值的拟合采用 $\mathrm { Y e } ^ { [ 1 1 ] }$ 等学者提出的直角双曲线修正模型，模型表达式如下：
+
+$$
+P _ { n } = \alpha \frac { 1 - \beta I } { 1 + \gamma I } I - R d
+$$
+
+式中： $P _ { n }$ 为净光合速率 $\left( \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \bullet \mathrm { s } ^ { - 1 } \right) ; \alpha$ 为初始量子效率； $I$ 为光合有效辐射 $( \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 } )$ $R d$ 为暗呼吸速率( $\mathrm { ( \mu m o l \cdot m ^ { - 2 } \cdot s ^ { - 1 } ) }$ ： $\beta$ 为修正系数，表示光抑制项； $\gamma$ 为光饱和项[12]。根据模型拟合出的 $\alpha \mathcal { \beta } _ { \cdot } \gamma$ 与 $R d$ 值可直接求得光饱和点 $( L S P )$ 、光补偿点 $( L C P )$ 及最大净光合速率 $( P _ { n \operatorname* { m a x } } )$ 。计算公式如下：
+
+$$
+P _ { _ { n \mathrm { m a x } } } = \alpha { \left( \frac { \sqrt { \left( \beta + \gamma \right) } - \sqrt { \beta } } { \gamma } \right) } ^ { 2 } - R d
+$$
+
+$$
+L S P = \frac { \sqrt { ( \beta + \gamma ) / \beta } - 1 } { \gamma }
+$$
+
+$$
+L C P = { \frac { R d } { \alpha } } 
+$$
+
+# 1.3生理指标测定
+
+丙二醛(MDA)含量测定采用硫代巴比妥酸法[3]；过氧化氢酶(CAT)活性测定采用紫外分光光度法，以 $1 \mathrm { m i n }$ 内 $\mathrm { A } _ { 2 4 0 }$ 减少0.01的酶量为一个酶活单位（U）4；脯氨酸 $\scriptstyle \left( \operatorname* { P r o } \right)$ )含量测定采用酸性芘三酮显色法[14]。
+
+# 1.4数据处理
+
+本文采用Excel2010进行数据统计处理，SPSS24.0对光响应数据进行模型拟合， $0 \mathrm { r i g i n } \ : 2 0 1 7$ 对光合特征与土壤含水量关系进行多项式拟合并绘图。
+
+# 2结果与分析
+
+# 2.1干旱胁迫对小胡杨2号光合特征的影响
+
+2.1.1干旱胁迫下小胡杨2号光合指标日变化小胡杨2号净光合速率日变化随胁迫程度的增加呈现不同的规律。由图1a可以看出水分适宜及轻度干旱胁迫下，苗木 $P _ { n }$ 日变化均为双峰型曲线，且T1第二次峰值出现的时间与CK相比有延后；中度、重度和极重度胁迫下， $P _ { n }$ 日变化均为单峰型曲线，峰值出现的时间各有不同。随胁迫程度的加剧，土攘含水量不断降低，小胡杨2号 $P _ { n }$ 日均值呈下降趋势。$P _ { n }$ 日进程峰值大小为： $\mathrm { T } 2 > \mathrm { T } 1 > \mathrm { C K } > \mathrm { T } 3 > \mathrm { T } 4$ ，可见适度的干旱可以提高小胡杨2号净光合速率的峰值。
+
+![](images/8ddd05166ff3c1469875f5ed569b600d916da058f878ae31728de472c27ed8ed.jpg)  
+图1干旱胁迫下小胡杨2号光合指标日变化特征   
+Fig.1Diurnal variation characteristics of photosynthetic indexes under drought stress
+
+气孔导度表示气孔张开的程度，对植物的光合、呼吸及蒸腾作用具有明显影响[15-16]。由图1b可知,轻度干旱胁迫下 $G _ { s }$ 日变化为双峰型曲线，植物为避免高温和强光的伤害而降低气孔张开程度导致 $G _ { s }$ 出现低谷段;中度、重度和极重度干旱胁迫下，$G _ { s }$ 日变化为单峰型曲线。小胡杨2号 $G _ { s }$ 日变化的均值随土壤含水量的降低而减小。随胁迫天数的增加，胞间 $\mathrm { C O } _ { 2 }$ 浓度日进程变化具有一定差异（图1c)。CK与轻度胁迫下， $C _ { i }$ 日进程大致呈“W"型，其变化与 $P _ { n } , G _ { s }$ 存在密切的联系。中度、重度、极重度干旱下 $C _ { i }$ 日进程大致呈"V"形变化。重度、极重度干旱胁迫下，小胡杨2号净光合速率在8:00达到最高水平，对 $\mathrm { C O } _ { 2 }$ 需求量的增大导致该时段 $C _ { i }$ 处于较低的水平，此后随着 $P _ { n }$ 的降低，细胞间 $\mathrm { C O } _ { 2 }$ 得到补充，$C _ { i }$ 值逐步回升。 $C _ { i }$ 日均值随干旱胁迫的加重整体呈下降趋势,变化范围在 $2 3 7 . 5 9 \sim 2 5 0 . 4 1 ~ \mathrm { \mu m o l { \cdot } m o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \cdot } l n o l { \ - } }$ 。
+
+不同土壤水分条件下小胡杨2号蒸腾速率日进程变化具有一定差异(图1d)。水分适宜与轻度干旱胁迫下， $T _ { r }$ 日变化规律为双峰型曲线，这是由于早晨温度上升且空气湿度不断降低，叶片蒸腾作用逐渐增强；中午时段植物叶片为暂时避免高温和强光的损伤降低气孔导度，其蒸腾作用随之下降；而午后随气孔导度的增大，叶片蒸腾作用再次增强。中重度、极重度干旱胁迫 $T _ { r }$ 日变化规律均为单峰型曲线。小胡杨2号蒸腾速率日均值随土壤含水量降低呈现先升高后下降的趋势。
+
+水分利用效率是反映植物水分消耗与物质积累关系的综合指标，水分利用效率大，叶片持水力强[17]。由图2可以看出,不同土壤水分条件下小胡杨2号水分利用效率日变化整体呈先下降后上升的趋势。清晨由于叶片的蒸腾作用小，水分散失少，WUE值较大；中午时段随光合有效辐射的增强，叶片的蒸散作用强烈导致水分利用效率降低；此后随温度及光强的减弱，WUE开始回升。随着胁迫天数的增加土壤含水量不断下降，小胡杨2号会通过调节自身的光合特性，提高水分利用能力以主动适应逆境条件。
+
+![](images/dfe77d14845e424ac06f50debdc8d82362f1da9a03edd6f890cbadac986b9d15.jpg)  
+图2干旱胁迫下小胡杨2号水分利用效率日变化特征Fig.2 Diurnal variation characteristics of water use efficiencyunder drought stress
+
+2.1.2干旱胁迫下小胡杨2号光响应曲线植物的光响应曲线反映了净光合速率随着光照强度变化的特性[18],选择适当的模型对该曲线进行拟合可以求出最大净光合速率( $\left( P _ { n \operatorname* { m a x } { } } \right)$ 、光饱和点 $( L S P )$ 及光补偿点 $( L C P )$ 等光合参数，对于研究植物光合能力与光强之间的关系具有重要的价值。由图3a可以看出，不同水分条件下小胡杨2号净光合速率随光合有效辐射的变化规律基本一致。水分适宜、轻度及中度干旱胁迫时，当光合有效辐射 $( P A R )$ 为 $0 \sim 8 0 0$ $\mathrm { \mu } \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 } , P _ { n }$ 随光强变化明显，曲线较陡; $P A R$ 为$8 0 0 \sim 1 4 0 0 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 } , P _ { n }$ 增加幅度缓慢。
+
+$P A R$ 为 $1 4 0 0 \sim 1 8 0 0 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ ,曲线趋于平缓，上升趋势不再明显。重度和极重度干旱胁迫下，当 $P A R$ 为 $2 5 0 \ \mathrm { \mu m o l \cdot m ^ { - 2 } \cdot s ^ { - 1 } }$ 时， $\boldsymbol { P } _ { n }$ 的上升幅度就明显减缓。当 $P A R$ 的范围在 $1 0 0 0 \sim 1 8 0 0 ~ { \mu \mathrm { m o l } } { \cdot } \mathrm { m } ^ { - 2 }$ ：$\mathrm { ~ s ~ } ^ { - 1 }$ 时， $P _ { n }$ 变化整体表现为： $\mathrm { T 1 } > \mathrm { T 2 } > \mathrm { C K } > \mathrm { T 3 } > \mathrm { T 4 }$ ，说明土壤水分过高或过低时，都会影响小胡杨2号对强光的利用效率，且更容易受到强光抑制。
+
+不同水分条件下气孔导度对 $P A R$ 的响应变化基本一致(图3b)。水分适宜、轻度及中度干旱胁迫下， $G _ { s }$ 随 $P A R$ 的增强上升幅度较大;重度、极重度干旱胁迫下， $G _ { s }$ 随 $P A R$ 的增强上升则较为缓慢。如图3c所示， $P A R$ 为 $0 \sim 3 0 0 ~ { \mu \mathrm { m o l } } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 时，由于净光合速率增长幅度较大，各胁迫水平下小胡杨2号细胞间 $\mathrm { C O } _ { 2 }$ 被很快消耗且此时气孔导度较低，细胞间的$\mathrm { C O } _ { 2 }$ 不能得到迅速的补充， $C _ { i }$ 随 $P A R$ 的增加直线下降；之后随 $P A R$ 的增加， $\boldsymbol { P } _ { n }$ 增长幅度较之前减缓， $G _ { s }$ 不断增大， $C _ { i }$ 处于相对平衡的状态，变化幅度缓慢，
+
+![](images/dbd223af68dc0200626d2d0ceef2bcd9d9a21bed70b7d9b7e81547c24882ec2c.jpg)  
+图3干旱胁迫下小胡杨2号光响应曲线变化特征   
+Fig.3Variation characteristics of light response curves under drought stress
+
+维持在较稳定的数值。
+
+随 $P A R$ 的增强，各胁迫程度下小胡杨2号蒸腾速率稳步上升(图3d)，这与强光下小胡杨2号叶片依旧维持较高的气孔导度有关，气孔开放的程度越大，植物叶片中的水分蒸散到外界环境的作用越明显。当 $P A R$ 大于 $4 0 0 \ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 时， $T _ { r }$ 随 $P A R$ 的增大整体表现为： $\mathrm { T } 2 > \mathrm { T } 1 > \mathrm { C K } > \mathrm { T } 3 > \mathrm { T } 4$ 0
+
+干旱胁迫下小胡杨2号各光响应参数拟合值如表2所示。光饱和点 $( L S P )$ 和光补偿点 $( L C P )$ 能反映出植物对光能的利用效率。小胡杨2号 $L S P$ 与$L C P$ 随土壤含水量的降低均呈先升高后下降的趋势(表2)，说明轻度的水分胁迫可以提升小胡杨2号对强光的利用能力，而重度干旱胁迫下苗木提高了对弱光的利用能力。最大净光合速率( $\left( P _ { n \operatorname* { m a x } { } } \right)$ 可以反映植物的最大光合能力，其变化规律与 $L S P$ 一致，在轻度胁迫达到最大值，之后随十旱程度的进一步加剧而降低。暗呼吸速率 $( R d )$ 是植物在无光条件下的呼吸速率，植物在受到严重的干旱胁迫时会减小呼吸消耗进行物质积累，该参数同样呈先增加后降低
+
+的趋势。
+
+2.1.3光合指标与土壤含水量关系由图4a可以看出，当土壤含水量(SWC)较低时，小胡杨2号净光合速率随SWC的增加呈直线上升的趋势，当土壤含水量到达一定范围时 $P _ { n }$ 增加缓慢，此后随土壤含水量的继续增加， $P _ { n }$ 呈下降趋势。通过回归分析， $P _ { n }$ 与SWC之间的关系符合二次三项式(表3），拟合程度较好。对方程求导，可求出 $\boldsymbol { P } _ { n }$ 最高时( $\cdot 1 4 . 6 8 ~ \mathrm { \mu m o l }$ .$\mathbf { m } ^ { - 2 } { \boldsymbol { \cdot } } \mathbf { s } ^ { - 1 } )$ 对应的SWC为 $1 0 . 2 0 \%$ $P _ { n }$ 为0时对应的SWC为 $0 . 9 8 \%$ 。
+
+小胡杨2号蒸腾速率与土壤含水量关系如图4b所示，随土壤含水量的增大，蒸腾速率先以较大增幅上升，当土壤含水量达到一个临界值后 $T _ { r }$ 开始下降，说明 $T _ { r }$ 对土壤含水量具有一定的阈值响应。通过回归拟合， $T _ { r }$ 与 $S W C$ 的关系符合三次四项式（表3)，对方程求导计算出 $T _ { r }$ 最大时对应的SWC为$6 . 3 9 \%$ 。
+
+植物的水分利用效率是 $P _ { n }$ 与 $T _ { r }$ 的比值，体现了植物对吸收水分的利用能力。由图4c可以看出，随
+
+表2干旱胁迫下小胡杨2号光响应参数拟合值   
+Tab.2 Fitted values of light response parameters under drought stress   
+
+<html><body><table><tr><td rowspan="2">胁迫等级</td><td colspan="4">光响应参数</td><td rowspan="2">R</td></tr><tr><td>光饱和点LSP /(μmol·m-2·s-1)</td><td>光补偿点LCP /(μmol·m-2·s−1)</td><td>最大净光合速率Pmax /(μmol·m²·s-1)</td><td>暗呼吸速率Rd /(μmol·m−2·s-1)</td></tr><tr><td>CK</td><td>1501.99</td><td>18.33</td><td>11.86</td><td>1.27</td><td>0.995</td></tr><tr><td>T1</td><td>2278.92</td><td>24.37</td><td>13.65</td><td>1.41</td><td>0.999</td></tr><tr><td>T2</td><td>2203.04</td><td>33.13</td><td>13.04</td><td>2.06</td><td>0.999</td></tr><tr><td>T3</td><td>1749.71</td><td>46.61</td><td>4.98</td><td>2.18</td><td>0.986</td></tr><tr><td>T4</td><td>1239.48</td><td>22.96</td><td>3.73</td><td>1.59</td><td>0.978</td></tr></table></body></html>
+
+![](images/9842324830d2f63b6bd867ec28f380844333c988d5656786139dd89e480305ae.jpg)  
+图4 干旱胁迫下小胡杨2号净光合速率、蒸腾速率、水分利用效率与土壤含水量关系 Fig.4Relationship between $\boldsymbol { P } _ { n }$ $T _ { r }$ $W U E$ and soil water content under drought stress
+
+# 表3光合指标与土壤含水量关系的数学拟合方程 2.2干旱胁迫对小胡杨2号生理特征的影响
+
+Tab.3Mathematical equation fitting of the relationship between photosynthetic indexs and soil water content   
+
+<html><body><table><tr><td>光合指标</td><td>拟合方程</td><td>调整后R</td></tr><tr><td>P</td><td>Pn=-0.1729SWC²+3.5264SWC-3.2978</td><td>0.926</td></tr><tr><td>T</td><td>T=0.0208SWC-0.6726SWC+</td><td>0.901</td></tr><tr><td>WUE</td><td>6.0497SWC-8.6842 WUE=-0.0095SWC+0.2273SWC- 1.5502SWC+4.4449</td><td>0.916</td></tr></table></body></html>
+
+注： $P _ { n }$ 为净光合速率， $T _ { r }$ 为蒸腾速率， $W U E$ 为水分利用效率，SWC为土壤含水量。
+
+土壤含水量增加WUE呈“S"型变化，经回归拟合，WUE与SWC的关系同样符合三次四项式(表3)，对方程求导即可算得WUE最大时对应的SWC为$1 0 . 9 9 \%$ 。在土壤含水量较低时，小胡杨2号最大限度降低气孔导度有效减小蒸腾速率，使其对水分的利用效率处在较高的水平，这种抗旱机制有利于小胡杨2号幼苗在极端干旱的条件下保存实力达到存活的目的。
+
+脯氨酸(Pro)是水溶性最大的氨基酸，具有较强的水合能力[19],当植物遭受逆境胁迫时，其含量的增加可以降低细胞水势有利于细胞或组织持水，提高植物的抗逆能力。由图5a可以看出，随着胁迫程度的增加，小胡杨2号叶片内脯氨酸含量持续上升，与适宜水分处理相比，轻度、重度与极重度胁迫程度下Pro含量分别增加了 $9 . 6 5 \% , 2 1 . 3 3 \% , 2 5 . 0 6 \%$ 0
+
+过氧化氢酶(CAT)能消除植物体内由光呼吸等生理过程形成累积的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 } ^ { [ 2 0 ] }$ ,使植物体内活性氧处于较低水平。由图5b可知，胁迫开始后，CAT活性持续上升至重度干旱胁迫，最高达373.33［U·（g·$\operatorname* { m i n } \bigr ) ^ { - 1 } .$ ，说明一定程度的干旱胁迫会使小胡杨2号CAT活性提高；而极重度干旱胁迫时，其活性便受到抑制，开始下降。
+
+丙二醛(MDA)是脂质过氧化的最终产物[21],其含量变化反映了植物膜脂过氧化的水平和对细胞膜的伤害程度[22]。如图5c所示，丙二醛含量随干旱的加剧而增加，各胁迫程度下MDA含量分别为CK的 $1 0 0 . 6 4 \% , 1 0 2 . 7 8 \% , 1 0 7 . 4 9 \%$ ，可以看出MDA虽然一直处于上升趋势,但不同胁迫水平下其上升的幅度存在差异。
+
+![](images/c2a1c2bd71b016723bbd8551aecbbfad328bc05d94193b49e7c763bd4caa8672.jpg)  
+图5干旱胁迫下小胡杨2号脯氨酸含量、过氧化氢酶活性和丙二醛含量变化 Fig.5Changes of Pro content, CAT activity,MDA content and under drought stress
+
+# 3讨论
+
+叶片光合作用日变化能反映一天中植物进行物质积累与生理代谢的持续能力[23]，有研究表明，植物净光合速率的日变化有单峰型[24]和双峰型[25-26]两种变化类型。本研究中，小胡杨2号净光合速率日变化在水分适宜及轻度胁迫下为双峰型曲线，中度、重度和极重度干旱胁迫下为单峰型曲线，可见同一种植物在不同干旱水平下其光合速率日变化可以有两种发生形态，有学者在探究干旱胁迫下多花怪柳光合日变化时也得出相似结论[27]。分析认为，小胡杨2号在水分适宜或轻度干旱胁迫下光合能力较强，在面临强光高温等不利条件能启动自我保护机制主动调节气孔降低蒸腾速率达到保水目的，等待不利条件过去之后植物会再次增大气孔导度来积累光合物质;而在中度或重度干旱胁迫下，其光合过程受到抑制作用，因此只在最适宜进行光合的时段保持较高的净光合速率来积累更多物质满足自身需求。此外，小胡杨2号在水分适宜及轻度干旱胁迫下出现光合“午休”，可以看出 $\boldsymbol { P _ { n } }$ 下降时，胞间 $\mathrm { C O } _ { 2 }$ 浓度与气孔导度均为下降状态，所以判断此时 $P _ { n }$ 降低主要受气孔因素主导。水分利用效率不仅能体现植物自身光合能力的大小，也能反映植物有效利用水分的能力[28]。本研究中各胁迫程度下小胡杨2号水分利用效率日进程表现出不同的变化规律，说明其在土壤水分匮乏的状态下可以调整水分利用策略，维持高水分利用效率以应对干旱的环境。
+
+植物光合作用模型被广泛应用于模拟植物光合作用过程与确定光响应特征参数中[29],而直角修正模型可以同时较为准确的拟合植物在弱光及光抑制条件下的光响应曲线[1]。本文小胡杨2号光合特征参数 $L S P , P _ { n \mathrm { m a x } } , L C P , R d$ 随干旱程度加剧的变化具有一致性，均随土壤含水量的降低呈先上升后下降的趋势。在胁迫初期适当的土壤水分亏缺提高了小胡杨2号对强光的适应能力，使其不易受光抑制作用，光合能力升高，而对弱光的利用能力会随胁迫程度的加剧而下降；当干旱胁迫达到一定程度后，小胡杨2号对强光的利用能力减弱，光合能力降低，但其 $L C P$ 和 $R d$ 开始下降，说明该树种提升了对弱光的利用能力，同时降低呼吸消耗保存光合产物来抵御干旱逆境。
+
+土壤水分是影响植物光合生理过程的重要因子[30]。土壤水合补偿点是林木耐旱性的一个重要参数，其表示净光合速率为零时的临界土壤水势值或临界土壤含水量[31]。通常认为土壤水合补偿点越低的植物，对干旱逆境的忍耐能力越强。本研究中，计算出小胡杨2号的土壤水合补偿点为 $0 . 9 8 \%$ ，与秦景[32]等人研究库布齐沙漠的怪柳、小叶锦鸡儿和杨柴3种植物土壤水合补偿点（分别为 $1 . 1 \%$ 、$0 . 8 \% . 0 . 9 \%$ )相比，小胡杨2号对干旱逆境具有较强的忍耐力。我国干旱半干旱地区，由于降水量少，蒸发强烈且土壤供水不足，水分成为限制植物正常生长的关键因子，因此生产力高同时水分利用效率也高的植物在该地区就更具有生存优势。本文以小胡杨2号达到 $9 0 \%$ 最高 $\boldsymbol { P } _ { n }$ 的 $S W C$ 与维持最高WUE的 $S W C$ 作为适宜其生长的最优土壤水分范围$( 7 . 3 \% \sim 1 1 . 0 \%$ ),这与其他沙生植物[32]所适宜的土壤水分范围相比，小胡杨2号苗木在干旱条件下更具生长优势。
+
+渗透调节是植物抵抗干旱逆境的一种重要生理机制，脯氨酸作为细胞内重要的有机渗透调节物质，对于维持细胞渗透压平衡和稳定蛋白具有重要作用[33]。有研究表明,植物在干旱逆境下，会积累大量Pro等渗透调节物质，以提高自身的抗逆能力[34-35]。本研究随土壤含水量不断降低导致干旱胁迫加剧，小胡杨2号叶片内Pro含量持续上升，这说明小胡杨2号在干旱胁迫下，会通过积累自身的渗透调节物质来维持细胞膨压，保证细胞正常的生理活动，提高抗旱能力。干旱胁迫下植物会产生大量对自身有害的活性氧自由基，但同时也会调节自己的活性氧清除系统及时清除有害物质，使活性氧代谢处于平衡状态，其中保护酶防御系统发挥着不可或缺的作用。研究发现，CAT活性随干旱胁迫程度的加剧呈先上升后下降的趋势，分析认为胁迫初期小胡杨2号叶片会启动自身保护体系，通过提高保护酶活性，增加清除过氧化物的能力，使叶片免受太大伤害；后期胁迫程度较重时，干旱逆境与积累的过量 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 使保护酶的清除能力受到抑制，CAT酶活性达到最大阈值后缓慢下降。前人在研究干旱胁迫下黑果枸杞[36]、杨树[35]等叶片保护酶活性的变化时，也得到了相似的结果。MDA是细胞膜脂过氧化作用的产物，它的产生会加剧膜的损伤[37]。通常认为植物体内MDA含量越高，细胞膜受到的伤害作用越大。胁迫初期由于小胡杨2号叶片保护酶活性的增强，一定程度上可以抑制膜脂过氧化作用，MDA的上升幅度较小;胁迫后期土壤含水量较低时，保护酶活性受到抑制，叶片细胞膜脂过氧化程度加重，质膜受到损害，MDA上升幅度较大。
+
+# 4结论
+
+（1）不同程度干旱胁迫下小胡杨2号的光合特征存在一定差异，轻度及中度干旱胁迫可以提高其积累光合物质的速率以及对强光的利用能力，重度干旱胁迫会对其光合能力产生抑制作用，但同时小胡杨2号通过调节自身光合机制及调整水分利用策略以应对土壤水分匮乏抵御干旱逆境，提高自身的抗旱性。
+
+(2）干旱胁迫下小胡杨2号可以发挥自身渗透调节作用同时启动抗氧化酶防御系统以保护细胞不受逆境损伤，维持细胞膜的正常功能。但这种保护机制也存在一定局限，因此在苗木生长过程中不能让其处于过度干旱的状态。
+
+(3）以维持较高净光合速率与水分利用效率为目标，确定适宜小胡杨2号幼苗生长最优的土壤水分范围为 $7 . 3 \% \sim 1 1 . 0 \%$ ，与一些抗旱性较好的植物相比，小胡杨2号幼苗在干旱环境下同样具有生长优势。
+
+# 参考文献(References)
+
+[1]Farooq M,Wahid A,Kobayashi N,et al. Plant drought stress: effects,mechanisms and management[J].Agronomy for Sustainable Development, 2009,29(1): 185-212.   
+[2]王芳琳,柴成武,尉秋实,等.小叶杨 $\boldsymbol { \cdot } \times$ 胡杨杂交种(小×胡杨)无 菌培养体系初步研究[J].干旱区资源与环境,2018,32(11): 176-181.[Wang Fanglin,Chai Chengwu,Yu Qiushi,et al. The preliminary study on aseptic culture system of Populus simonit $\times P$ euph[J]. Journal of Arid Land Resources and Environment,2018, 32(11): 176-181.]   
+[3]季蒙,张博文,任建民.小×胡杨硬枝扦插试验初报[J].内蒙古林 业科技,2005(3): 6-7.[Ji Meng,Zhang Bowen,Ren Jianmin.Experiment on cuttage by hard branch of Populus simoniiXPopulus diversifolia[J]. Inner Mongolia Forestry Science,20o5(3): 6-7.]   
+[4]杜少林,康春凤,吕林军,等.小胡系杨树引种及硬枝扦插育苗 技术研究[J].内蒙古林业调查设计,2006,29(4):27-28.[Du Shaolin,Kang Chunfeng,Lyu Linjun,et al. Study on introduction and hard branch cuttings of Populus simoniiXP.euphratica varieties[J]. Inner Mongolia Forestry Investigation and Design,2006,29 (4): 27-28.]   
+[5]冯伟,孟和,杨文斌,等.小叶杨与胡杨杂交种(小×胡)幼苗抗旱 性初步研究[J].干旱区资源与环境,2014,28(7):166-170. [Feng Wei,Meng He, Yang Wenbin,et al. Study on drought resistance of species Populus simonii×P.euphratica[J]. Journal of Arid Land Resources and Environment, 2014,28(7): 166-170.]   
+[6]莎仁图雅,齐容镰,何亮.小胡杨2号光合日变化及光响应曲线 研究[J].安徽农业科学,2019,47(15):112-115.[Sharen Tuya, QiRonglian,He Liang. Study on diurnal variation of photosynthesis and light response curve of Populus simonii $\times P$ .euphratica[J]. Journal of Anhui Agricultural Sciences,2019,47(15): 112-115.]   
+[7]蔡海霞,吴福忠,杨万勤.干旱胁迫对高山柳和沙棘幼苗光合生 理特征的影响[J].生态学报,2011,31(9):2430-2436.[Cai Haixia,Wu Fuzhong,Yang Wanqin.Effects of drought stress on the photosynthesis of Salix Paraqplesia and Hippophae rhamnoides seedlings[J].Acta Ecologica Sinica,2011,31(9): 2430-2436.]   
+[8]TurnbullMH,Murthy R,Griffn KL.The relative impacts of daytime and night-time warming on photosynthetic capacity in Populus deltoides[J].Plant,Celland Environment,2002,25(12):1729- 1737.   
+[9]罗青红,宁虎森,何苗,等.5种沙地灌木对干旱胁迫的生理生 态响应[J].林业科学,2017,53(11): 29-42.[Luo Qinghong,Ning Husen,He Miao,et al.Ecophysiological responses of five sandy shrubs to drought stres[J].Scientia Silvae Sinicae,2017,53(11): 29-42.]   
+[10] 黄海霞,连转红,王亮,等.裸果木渗透调节物质和抗氧化酶活 性对干旱的响应[J].干旱区研究,2020,37(1):227-235.[Huang Haixia, Lian Zhuanhong, Wang Liang,et al. Response ofosmotic regulation substances and antioxidant enzyme activity in leaves of Gymnocarpos przewalski to drought[J]. Arid Zone Research,2020, 37(1): 227-235.]   
+[11]Ye Z P.A new model for relationship between light intensity and the rate of photosynthesis in Oryza sativa[J].Photosynthetica, 2007,45(4): 637-640.   
+[12]叶子飘,康华靖.植物光响应修正模型中系数的生物学意义研 究[J].扬州大学学报(农业与生命科学版),2012,33(2):51-56. [Ye Zipiao,Kang Huajing. Study on biological significance of coefficients in modified model of photosynthesis-irradiance[J]. Journal of Yangzhou University(Agricultural and Life Science Edition), 2012,33(2): 51-56.]   
+[13]李合生,孙群,赵世杰,等.植物生理生化实验原理和技术[M]. 北京：高等教育出版社,2000:192-197.[Li Hesheng,Sun Qun, Zhao Shijie,et al.Plant Physiological and Biochemical Principles and Experimental Techniques[M]. Beijing: Higher Education Press, 2000: 192-197.]   
+[14]吴强盛.植物生理学实验指导[M].北京:中国农业出版社, 2018:127-129,133-135.[Wu Qiangsheng. Experimental Guidelines in Plant Physiology[M].Beijing:China Agriculture Press, 2018: 127-129,133-135.]   
+[15] 左继林,龚春,黄建建,等.夏旱期不同管理措施下高产油茶的 光合特性[J].南京林业大学学报(自然科学版),2013,37(2):37- 42.[Zuo Jilin, Gong Chun,Huang Jianjian,et al.Photosynthetic characteristics of high yield Camellia oleifera during summer drought periodunderdiferent teatment[J]JoualofjigForestry University(Natural Sciences Edition),2013,37(2): 37-42.   
+[16] 韩永伟,拓学森,高馨婷,等.阿拉善荒漠草原梭梭与白刺光合 特征比较研究[J].草地学报,2010,18(3):314-319.[Han Yongwei, TuoXuesen,Gao Xinting,et al.A comparative study on photosynthetic characteristics of Haloxylon ammodendronand Nitraria tangutorum on temperate steppa subdesert in Alashan[J].Acta Agrestia Sinica,2010,18(3): 314-319.]   
+[17] 陈健妙,郑青松,刘兆普,等.麻疯树(Jatropha curcas L.)幼苗生 长和光合作用对盐胁迫的响应[J].生态学报,2009,29(3):1356- 1365.[Chen Jianmiao,Zheng Qingsong, Liu Zhaopu,et al. Growing and photosynthetic response of Jatropha curcas L.seedlings to salt stress[J].Acta Ecologica Sinica,2009,29(3): 1356-1365.]   
+[18] 杨司睿,范井伟,孙永强,等.罗布泊腹地人工植被梭梭的光学 特性及其对干旱胁迫的响应[J].干旱区研究,2018,35(2):379- 386.[Yang Sirui,Fan Jingwei,Sun Yongqiang,etal.Photosyntheticcharacteristics and response of Haloxylon ammodendron to drought stress in hinterland of the Lop Nur[J].Arid Zone Research, 2018,35(2): 379-386.]   
+[19] 罗大庆,薛会英,权红,等.干旱胁迫下砂生槐、锦鸡儿的生理生 化特性与抗旱性[J].干旱区资源与环境,2011,25(9):125-130. [Luo Daoqing,Xue Huiying, Quan Hong,et al. Physio-biochemical characteristics and drought resistance of Sophora moorcroftiana and Caragana maximovicziana under drought stressJ]. Journal of Arid Land Resources and Environment,2011,25(9): 125-130.]   
+[20] 马剑,刘贤德,孟好军,等.水分胁迫对文冠果幼苗生长及生理 特性的影响[J].干旱区资源与环境,2018,32(1):128-132.[Ma Jian,Liu Xiande,Meng Haojun,et al.Effects of water stress on growth and physiological characteristics of seedlings of the Xanthoceras sorbifolia[J]. Journal of Arid Land Resources and Environment,2018,32(1): 128-132.]   
+[21] 杨育苗,蒋志荣,安力.干旱胁迫下旱砂地籽瓜生理响应及其抗 旱性评[J].干旱区研究,2018,35(3):735-742.[Yang Yumiao,Jiang Zhirong,An Li.Physiological response and drought resistance of Seed Watermelons in dry sandy land[J].Arid Zone Research, 2018,35(3): 735-742.]   
+[22] 萧浪涛,王三根.植物生理学实验技术[M].北京:中国农业出版 社,2005. [Xiao Langtao,Wang Sangen. Experimental Techniques in Plant Physiology[M]. Beijing: China Agriculture Press,2005.]   
+[23] 姬慧娟,贾会霞,章小铃,等.干旱胁迫对红皮柳光合特性日变 化及生长的影响[J].南京林业大学学报(自然科学版),2016,40 (6): 41-46.[Ji Huijuan,Jia Huixia,Zhang Xiaoling,et al. Effect of drought stress on photosynthetic diurnal course and growth of Salix purpurea[J]. Journal of Nanjing Forestry University(Natural Sciences Edition),2016,40(6): 41-46.]   
+[24] 杨淑琴,周瑞莲,梁慧敏,等.沙漠植物抗氧化酶活性及渗透调 节物质含量与光合作用的关系[J].中国沙漠,2015,35(6): 1557-1564.[Yang Shuqin, Zhou Ruilian,Liang Huimin,et al. Relationship of antioxidant enzyme and osmoregulation substance to photosynthese in several desert plants[J].Journal of Desert Research,2015,35(6): 1557-1564.]   
+[25] 包永志,刘廷玺,段利民,等.科尔沁沙地混生小叶锦鸡儿和人 工杨树光合特性及其对气候的响应[J].干旱区研究,2019,36 (2): 155-164.[Bao Yongzhi,Liu Tingxi,Duan Limin,et al.Photosynthetic traits of Caragana microphylla and Populus spp.and their responses to climate in the Horqinsandy land[J].Arid Zone Research,2019,36(2): 155-164.]   
+[26] 党晓宏,蒙仲举,高永,等.西鄂尔多斯天然荒漠灌丛光合生态 适应性[J].干旱区研究,2020,37(2): 435-443.[Dang Xiaohong, Meng Zhongju,Gao Yong,et al.Photosynthetic characteristics and
+
+ecological adaptability of desert shrubs in western Ordos[J].Arid Zone Research,2020,37(2): 435-443.]
+
+[27] 孙龙,彭祚登,王冲,等.干旱胁迫对两种沙地灌木能源树种光 合特性的影响[J].南京林业大学学报(自然科学版),2014,38 (2): 99-104.[Sun Long,Peng Zuodeng,Wang Chong,et al. Effect of drought stress on photosynthetic characteristics of two energy resource sandy shrubs[J]. Journal of Nanjing Forestry University(Natural Sciences Edition),2014,38(2): 99-104.] [28] 闫海龙,张希明,许浩,等.塔里木沙漠公路防护林3种植物光 合特性对干旱胁迫的响应[J].生态学报,2010,30(10):2519-   
+2528.[Yan Hailong, Zhang Ximing,Xu Hao,et al. Photosynthetic characteristics responses of three plants to drought stress in Tarim Desert Highway shelter belt[J].Acta Ecologica Sinica,2010,30 (10): 2519-2528.] [29] 王海珍,韩路,徐雅丽,等.干旱胁迫下胡杨光合光响应过程模 拟与模型比较[J].生态学报,2017,37(7):2315-2324.[Wang Haizhen,Han Lu, Xu Yali,et al. Simulated photosynthetic responses of Populus euphratica during drought stress using light-response model[J].Acta Ecologica Sinica,2017,37(7): 2315-2324.] [30]Sofo A,Dichio B, Montanaro G,et al.Photosynthetic performanceand light response of two olive cultivars under different water and light regimes[J]. Photosynthetica, 2009,47(4): 602-608. [31]李吉跃.太行山主要树种耐旱特性的研究(IV)：蒸腾作用与气 孔调节[J].北京林业大学学报,1991,13(增刊2):240-245.[Li Jiyue. Studies on drought tolerance of some main trees in Taihang montain region(IV): Transpirationandstomatal regulation[J].Journal of Beijing Forestry University,1991,13(Suppl.2): 240-245.] [32] 秦景,贺康宁,朱艳艳.库布齐沙漠几种常见灌木光合生理特征 与土壤含水量的关系[J].北京林业大学学报,2009,31(1):37-   
+43.[Qin Jing,He Kangning, Zhu Yanyan.Relationship between photosynthetic physiological characteristics of several common shrub species and soil water content in Hobq Desert of Inner Mongolia,northern China[J]. Journal of Beijing Forestry University,   
+2009,31(1): 37-43.] [33] Silva EN,Ferreira-Silva SL, ViegasR A,et al. The role oforganic and inorganic solutes in the osmotic adjustment of droughtstressed Jatropha curcas plants[J]. Environmental and Experimental Botany,2010,69(3): 279-285. [34] 宋士伟,焦德志,陈旭,等.野大麦对干旱胁迫的生理响应与转 录组分析[J].干旱区研究,2019,36(4):909-915.[Song Shiwei, Jiao Dezhi, Chen Xu,et al. Physiological response and transcriptome of Hordeum brevisubulatum to drought stress[J].Arid Zone Research,2019,36(4): 909-915.] [35]井大炜,邢尚军,马海林,等.水分胁迫对欧美I-107杨树苗生 理生化特性的影响[J].干旱区资源与环境,2015,29(1):56-61. [Jing Dawei, Xing Shangjun,Ma Hailin,et al.Effects of water stress on physiological and biochemical characteristics of PopulusX euramericana cv.‘Neva’seedlings[J]. Journal of Arid Land Resources and Environment,2015,29(1): 56-61.]
+
+[36] 李永洁,李进,徐萍,等.黑果枸杞幼苗对干旱胁迫的生理响应 [J].干旱区研究,2014,36(4): 756-762.[Li Yongjie,Li Jin,Xu Ping, etal.Physiological responses of Lycium ruthenicum Murr.seedlings to drought stress[J].Arid Zone Research,2014,36(4): 756-762.]
+
+[37]赵燕,王辉,李吉跃.水分胁迫对沙地樟子松和紫穗槐生理特性 的影响[J].福建林业科技,2014,41(4):7-11.[Zhao Yan,Wang Hui,Li Jiyue.Effect of water stress on physiological characteristics of sandPinussylvestrisVar.Mongolica and Amorpha fruticosa [J].Journal of Fujian Forestry Science and Technology,2O14,41 (4): 7-11.]
+
+# Effects of drought stress on photosynthesis and physiological characteristics of Populus simonii $\times P .$ euphratica ‘Xiaohuyang 2
+
+QI Rong-lian'²，Sharen Tuya²，LI Gang-tie'，LI Jia-tao²，HE Liang1,²，YANG Wen-bin³ (1.CollegeofDesertControlScienceandEngineering,InnerMongoliaAgricultural University,Hohhot010010, Inner Mongolia,China; 2.Inner MongoliaAcademy ofForestry Science,Hohhot O10o10,InnerMongolia,China; 3.Institute of Desertification Studies,Chinese Academy ofForestry,Beijing 10oo91, China)
+
+Abstract: In this study,the response mechanism of photosynthetic and physiological characteristics to drought stress of2 year-old Populus simoniiXP.euphratica‘Xiaohuyang 2’seedlings were studied by poted continuous drought.The results showed that (1）with drought stress aggravation,the photosynthetic mechanism of Populus simonii×P.euphratica‘Xiaohuyang $2 ^ { \prime }$ actively adjusted with the adverse conditions.The diurnal variation curves of net photosynthetic rate ( $P _ { n }$ ) and other parameters all changed from bimodal to unimodal. In response to drought, the seedlings actively adjusted their water use strategies to maintain high water use efficiency.(2) Under mild and moderate drought stress,Populus simonii $\times P$ .euphratica‘Xiaohuyang 2’has improved strong light utilization effciency.The seedlings under severe drought stress have reduced respiratory consumption to preserve their photosynthetic products.They have improved weak light utilization to resist drought. (3) Through regression fiting, there were corresponding mathematical relationships between $P _ { n }$ ， $T _ { r }$ ， $W U E$ ，and soil water content of Populus simoniiXP.euphratica‘Xiaohuyang 2'; the optimal range of soil moisture suitable for their growth was determined to be 7. 29 $\% - 1 0$ .99 $\%$ .(4) Populus simoni $\times P$ .euphratica‘Xiaohuyang $2 ^ { \prime }$ reduced the harmful effects of drought stress by accumulating osmotic adjustment substances and increasing antioxidant enzyme activity.Severe drought would inhibit its protective enzymeactivityand eventually worsen the degree of membrane lipid peroxidation.The results demonstrated that Populus simonii $\times P$ . euphratica‘Xiaohuyang $2 ^ { \prime }$ is a heliophilous species with good drought resistance,whichcan be widely used for sand-fixing affrestationand vegetation restoration,and has a good promotion prospect in forestry construction in arid and semi-arid areas.
+
+Keywords: drought stress; Populus simoniiXP. euphratica ‘Xiaohuyang $2 ^ { \prime }$ ；photosynthetic characteristics； physiological indexes

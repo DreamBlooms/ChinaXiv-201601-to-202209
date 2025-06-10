@@ -1,0 +1,433 @@
+[
+    {
+        "type": "text",
+        "text": "围产期母猪饲粮中添加壳寡糖对母猪、仔猪免疫功能及母猪肠道微生物的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 柒启恩」肖俊峰」张　军」赵　海」刘　霜」温庆琪²\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （1.福建傲农生物科技集团股份有限公司，厦门361008；2.江西农业大学动物科技学院，南昌 330045）4 摘要：本试验旨在研究围产期母猪饲粮中添加壳寡糖（COS）对母猪、仔猪免疫功能和母猪肠道微生5 物的影响。选用体重、背膘厚度、胎次和预产期接近的40头健康大约克妊娠母猪，随机分为2个组，6 每组 20 个重复,每个重复1头母猪。对照组饲喂基础饲粮，试验组饲喂在基础饲粮中添加 $3 0 \\mathrm { m g / k g }$ COS7 的试验饲粮。试验期为母猪妊娠第90天至分娩后第7天。结果显示：1）围产期母猪饲粮中添加COS8 对母猪产程、总产仔数、产活仔数、仔猪初生窝重、仔猪平均初生重均无显著影响 ${ ( P { > } 0 . 0 5 ) }$ 。2）围产9 期母猪饲粮中添加COS 显著提高了母猪血清中免疫球蛋白 $\\mathrm { G } ( \\mathrm { I g G } )$ 、免疫球蛋白 $\\mathrm { A ( I g A ) }$ 和白细胞介素-610 (IL-6)含量（ $\\cdot P { < } 0 . 0 5 \\$ )，对血清中免疫球蛋白 $\\mathbf { M } ( \\mathrm { { g } M ) }$ 、白细胞介素-2（IL-2）和肿瘤坏死因子 $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ (TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）l1 含量无显著影响 $( P { > } 0 . 0 5 )$ 。3）围产期母猪饲粮中添加COS 显著提高了母猪初乳中 IgG、IL-2 和 IL-6[2 含量（ $( P { < } 0 . 0 5 )$ ，对IgA、 $\\mathrm { I g M }$ 和TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量无显著影响 $( P { > } 0 . 0 5 )$ 。4）围产期母猪饲粮中添加COS 显13 著提高了初生仔猪血清中IL-2 和IL-6含量（ $\\cdot P { < } 0 . 0 5 \\$ )，并显著降低血清中IgA的含量（ $\\cdot P { < } 0 . 0 5$ 。5)l4 围产期母猪饲粮中添加COS 显著降低了母猪粪便中沙门氏菌的数量（ $P { < } 0 . 0 5 )$ ，并有降低粪便中大肠[5 杆菌数量的趋势（ $\\cdot P { < } 0 . 1 0 \\rangle$ )。由此可见，围产期母猪饲粮中添加COS 能够改善母猪肠道健康，一定程16 度上提高产活仔数，显著增强母猪及初生仔猪的免疫功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：壳寡糖；免疫；围产期；母猪；仔猪中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "围产期是母猪繁殖周期中一段相当特殊而且关键的时期，其特点表现在2个方面：一是母猪在分娩过程中和产后一段时间内，体力消耗过大、产生剧烈疼痛；二是母猪分娩前后皮质醇和雌激素水平的剧烈波动，淋巴细胞和活跃单核细胞数量减少，对机体的免疫功能产生了较大影响，导致其抵抗力下降[1-5]。同时，围产期也是造成仔猪死亡的主要时期，由于各组织、器官及免疫系统发育不完全，机体适应性差，大部分断奶前仔猪在产后前3天内死亡。初生重、出生顺序、初乳的摄入时间、产后1h内的体温下降是造成新生仔猪死亡的主要因素[。新生仔猪免疫系统尚未发育，需要通过吸收初乳中的免疫球蛋白G(IgG)来获得被动免疫[7]。母乳是哺乳仔猪生存和生长发育的决定性因素，直接影响仔猪生存、生长、",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2018-03-05  \n作者简介：柒启恩（1987—），男，江西高安人，博士，动物营养与饲料科学专业。E-mail:  \nqiqien1987@163.com  \n\\*通信作者：温庆琪，副教授，硕士生导师，E-mail:wenqingqi08@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "发育和机体的组成[8]。初乳是母猪在怀孕最后阶段和产后数小时内分泌的乳汁。它所富含的天然生长因子对于大脑、心脏、胰腺、肝脏、肾脏和未成熟的肠道正常发育至关重要；它所富含的免疫球蛋白在分娩后数小时内可以被仔猪空肠和回肠完整的吸收，为哺乳仔猪构建被动免疫[910]。生产数小时之后，母乳组成发生显著变化，初乳转变为常乳。在这个过程中，乳中固形物和蛋白质的含量降低，乳糖和脂肪含量增加，同时免疫球蛋白的含量也显著降低。因而，常乳的主要作用是提供营养，其次是提供免疫保护[9-10]。围产期母猪的营养对仔猪的健康有重要影响，增强母猪的免疫力，提高母乳质量，是减少哺乳仔猪死亡、维护哺乳仔猪健康状况、改善哺乳仔猪生产性能以及提高母猪繁殖效率的重要途径之一[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "壳寡糖（COS）是氨基葡萄糖的天然碱性聚合物，由壳聚糖通过化学和酶水解得到[12]。COS 易吸收，功效是壳聚糖的数十倍，饲粮中添加COS 能促进动物生长、提高免疫力等，对动物具有免疫调节、降血脂、抗癌等多种生理功能[13]。COS 已被证实可以提高断奶仔猪的生产性能，这可能与它的免疫增强、肠道菌群调节和肠道形态功能改善有关[1-18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前关于COS 的研究主要集中在对断奶仔猪的研究中，对围产期母猪免疫功能的研究未见报道。本研究的目的旨在探讨COS 能否调节围产期母猪的免疫状态，进一步提高哺乳仔猪的免疫力，从而提高哺乳仔猪成活率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COS 为水溶性COS[寡聚β-（1-4）-2-氨基-2-脱氧 $. D .$ -葡萄糖]，聚合度在 $2 \\mathord { \\sim } 1 0$ 之间，纯度为 $10 \\%$ 由大连中科格莱克生物科技有限公司提供。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物与试验设计",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取胎次(第3、4胎)、体重 $[ ( 3 0 0 { \\pm } 1 5 ) \\mathrm { k g } ]$ 接近的妊娠 $9 0 \\mathrm { d }$ 大约克母猪40头，随机分为2组，每组20 个重复，每个重复1头。基础饲粮为玉米-豆粕型饲粮，参照 NRC(2012)[19]设计，基础饲粮组成及营养水平见表1。对照组饲喂基础饲粮，试验组饲喂在基础饲粮中添加 $3 0 \\mathrm { m g / k g \\ C O S }$ （按 $10 \\%$ 纯度COS折算成纯品的添加量）的试验饲粮。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验期间，每天07:30、15:00 饲喂母猪，怀孕 $9 0 \\mathrm { d }$ 至产前第1\\~2天每头母猪饲喂 $3 . 0 \\mathrm { k g / d }$ 。母猪产前第3天转入产房，母猪生活区和仔猪活动区均为漏缝地板，栏内设仔猪保温箱。产前第1\\~2天饲喂$2 . 0 \\mathrm { k g / d }$ ，产仔当天不饲喂，产后第1天饲喂 $1 . 0 \\mathrm { k g / d }$ ，第2天饲喂 $2 . 0 \\mathrm { k g / d }$ ，第3天饲喂 $3 . 0 \\mathrm { k g / d }$ ，第4\\~7天饲喂 $4 . 0 \\mathrm { k g / d }$ ，自由饮水。试验从母猪妊娠第90 天开始至分娩后第7天结束，在福建省漳州傲农现代农业开发有限公司进行。严格按照猪场防疫和饲养管理制度进行操作。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目Items 含量Content 原料Ingredients 玉米Corn 60.20 麸皮 Wheat bran 25.00 豆粕 Soybean meal 11.52 食盐 NaCl 0.40 碳酸钙 $\\mathrm { C a C O } _ { 3 }$ 1.26 磷酸氢钙 $\\mathrm { C a H P O _ { 4 } }$ （20 1.30 氯化胆碱 Choline chloride 0.10 矿物质预混料 Mineral premix1) 0.20 维生素预混料 Vitamin premix2) 0.02 合计 Total 100.00 营养水平 Nutrient levels3) 消化能 DE/(MJ/kg) 12.76 粗蛋白质 CP 13.73 钙Ca 0.88 总磷TP 0.70   \n1矿物质预混料为每千克饲粮提供 Mineral premix provided the following per $\\mathrm { k g }$ of the diet: Fe (as ferrous sulfate) $1 5 0 \\mathrm { m g }$ ， $\\mathrm { c u }$ (as copper sulfate) $2 0 \\mathrm { m g }$ ， $Z \\mathrm { n }$ (as zinc sulfate) $1 5 0 \\mathrm { m g }$ ， Mn (as manganese sulfate) $3 0 ~ \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 4 \\mathrm { m g }$ ， I (as potassium idide) $0 . 3 ~ \\mathrm { m g }$ 。   \n2)维生素预混料为每千克饲粮提供 Vitamin premix provided the following per $\\mathrm { k g }$ of the diet: VA 17 800 IU， $\\mathrm { V D } _ { 3 } \\thinspace 5 \\thinspace 0 0 0 \\mathrm { I U }$ ，VE 44 IU，VK $5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } 8 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } ~ 1 5 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 8 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 5 \\ : \\mathrm { m g }$ ，烟酰 胺 nicotinamide $6 0 ~ \\mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $2 5 ~ \\mathrm { m g }$ ，叶酸 folic acid $2 . 5 \\mathrm { m g }$ 。   \n3)营养水平为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 母猪生产性能指标采集",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "母猪分娩时，记录每头仔猪的出生时间、初生个体重 $( \\mathbf { k g } )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 母猪初乳采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "母猪分娩后 $2 \\mathrm { h }$ ，分别从前、中、后3个乳区的乳头采集混合乳样，每头母猪采集初乳 $1 5 ~ \\mathrm { m L }$ 于灭菌的 EP 管中， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 保存待测。检测前经过 $1 2 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 去除乳脂。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3仔猪、母猪血液采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分娩当天，采集每头母猪所产9头仔猪的脐带血[2]，以初生时间相近的3头仔猪脐带血进行等体积混合作为1个样本，共采集3个样本(每头 $3 ~ \\mathrm { m L }$ ，每个样本 $9 \\mathrm { m L }$ )；分娩后第8天09:00对空腹的试验母猪经前腔静脉采血 $1 0 ~ \\mathrm { m L }$ 。将所采集的血液样品于 $4 ^ { \\circ } \\mathrm { C }$ 静置 $3 0 \\mathrm { m i n }$ ， $3 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，收集上清液即血清，将所收集血清分装在 $1 . 5 ~ \\mathrm { m L }$ 离心管中， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 保存待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 母猪粪便采集",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "母猪分娩后第8天07:00至09:00收集新鲜母猪粪便，分装在无菌封口袋中， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 保存待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4指标检测 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 母猪繁殖性能指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "母猪的产程（第1头仔猪产出到胎衣排出的时间间隔）、总产仔数、产活仔数、仔猪初生窝重（每头活仔初生个体重之和）和仔猪平均初生重（仔猪初生窝重/产活仔数）由母猪分娩时所记录每头仔猪的出生时间、初生个体重计算得出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2母猪血清、初乳以及仔猪血清免疫功能相关指标测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用酶联免疫吸附试验（ELISA）法检测母猪血清及初乳、仔猪血清中IgG、免疫球蛋白 ${ \\bf M } ( { \\bf { \\mathrm { I g } } } { \\bf { M } } ) \\cdot { \\bf { \\Lambda } }$ 免疫球蛋白A(IgA)、白细胞介素-2（IL-2）、白细胞介素-6（IL-6）和肿瘤坏死因子- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）含量，试剂盒购自南京建成生物工程研究所，方法按说明书进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 母猪粪便pH测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取5g新鲜粪样用 $4 5 ~ \\mathrm { m L }$ 无菌生理盐水稀释后，用酸度计测定其 $\\mathfrak { p H }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.4母猪粪便微生物计数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "粪样稀释：于超净台内取约 $\\mathfrak { 4 } \\mathfrak { g }$ 粪样于无菌锥形瓶中，加入相应量的无菌生理盐水进行10倍稀释，用磁力振荡器振荡 $1 0 \\mathrm { m i n }$ 至混合均匀，得到 $1 0 ^ { - 1 }$ 倍稀释液，再取 $0 . 5 ~ \\mathrm { m L }$ 待测 $1 0 ^ { - 1 }$ 倍稀释液加入装有4.5mL 无菌生理盐水的试管中，振荡混匀，得到 $1 0 ^ { - 2 }$ 倍稀释液，重复以上操作将菌液分别稀释至 $1 0 ^ { - 3 }$ 、 $1 0 ^ { - 4 }$ 和 $1 0 ^ { - 5 }$ 倍。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "接种及培养：乳酸菌（Lactobacillus）计数时取粪样稀释液中 $1 0 ^ { - 2 } { \\sim } 1 0 ^ { - 4 }$ 倍稀释液 $0 . 0 1 \\mathrm { m L }$ 接种于MRS培养基平皿上，每个稀释浓度做2个重复， $3 7 ^ { \\circ } \\mathrm { C }$ 厌氧培养 $4 8 \\mathrm { { h } }$ 后进行菌落计数；大肠杆菌（Escherichiacoli）计数时取粪样稀释液中 $1 0 ^ { - 3 } { \\sim } 1 0 ^ { - 5 }$ 倍稀释液 $\\boldsymbol { 0 . 0 1 \\mathrm { m L } }$ 接种于麦康凯培养基平皿上，每个稀释浓度做2个重复， $3 7 ^ { \\circ } \\mathrm { C }$ 有氧培养 $2 4 \\mathrm { h }$ 后进行菌落计数；沙门氏菌（Salmonella）计数时取粪样稀释液中 $1 0 ^ { - 3 } { \\sim } 1 0 ^ { - 5 }$ 倍稀释液 $0 . 0 1 ~ \\mathrm { m L }$ 接种于SS 琼脂培养基平血上，每个稀释浓度做2个重复， $3 7 ^ { \\circ } \\mathrm { C }$ 有氧培养 $2 4 \\mathrm { h }$ 后进行菌落计数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.5母猪粪便乙酸和丙酸含量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "样品的制备：称取大约 $1 0 \\mathrm { { g } }$ 的粪便样品，放入1个 $1 0 0 ~ \\mathrm { { m L } }$ 烧杯中，加入 $4 0 ~ \\mathrm { m L }$ 水和 $2 \\mathrm { m L } 5 0 \\%$ 氢氧化钠溶液。将上述溶液在蒸气浴上加热 $1 0 \\mathrm { m i n }$ ，冷却后采用1:1硫酸将溶液的 $\\mathsf { p H }$ 调整到2。将上述溶液移入 $1 0 0 ~ \\mathrm { { m L } }$ 容量瓶中，采用Milli-Q超纯水稀释到刻度。采用 Spartan $3 0 / \\mathrm { A } 0 . 2 \\mu \\mathrm { m }$ 一次性过滤器将溶液进行过滤，将过滤液收集在螺旋盖样品瓶里。进样 $1 0 \\mu \\mathrm { L }$ ，通过Agilent 1260 Infinity 液相色谱仪检测乙酸和丙酸含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "标准物的制备：称取 $0 . 0 5 \\mathrm { g }$ 乙酸和 $0 . 0 5 \\mathrm { \\ g }$ 丙酸，精确到 $0 . 0 1 \\ \\mathrm { g }$ ，放入1个 $1 0 0 ~ \\mathrm { { m L } }$ 烧杯中，加入40mL 水和 $2 \\mathrm { m L } 5 0 \\%$ 氢氧化钠溶液。将溶液在蒸气浴上加热 $1 0 \\mathrm { m i n }$ ，冷却后采用1:1硫酸将溶液的 $\\mathfrak { p H }$ 调整到2。将上述溶液移入 $1 0 0 ~ \\mathrm { m L }$ 容量瓶中，采用Milli-Q超纯水稀释到刻度。采用 Spartan $3 0 / \\mathrm { A } 0 . 2 \\mu \\mathrm { m }$ 一次性过滤器将溶液进行过滤，将过滤液收集在螺旋盖样品瓶里。进样 $1 0 ~ \\mu \\mathrm { L }$ ，通过Agilent 1260 Infinity液相色谱仪检测乙酸和丙酸含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据经Excel2010初步整理后，采用SPSS19.0统计软件的 $t$ 检验进行组间差异显著性比较，以 $P { < } 0 . 0 5$ 为差异显著， $\\scriptstyle P < 0 . 1 0$ 为差异有显著趋势，结果以平均值 $\\boldsymbol { \\perp }$ 标准误表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1围产期母猪饲粮中添加COS对母猪繁殖性能的影响 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，围产期母猪饲粮中添加COS 对母猪产程、总产仔数、产活仔数、仔猪初生窝重、仔猪平均初生重均无显著影响（ $P { > } 0 . 0 5 )$ 。与对照组相比，围产期饲粮中添加COS母猪产程增加 $5 . 9 \\%$ 总产仔数提高 $4 . 7 \\%$ ，产活仔数提高 $2 . 7 \\%$ ，仔猪初生窝重提高 $3 . 3 \\%$ ，仔猪平均初生重无变化。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5cfd21dc43e9cabcb487c4c76e90a6449b652d836ce63fc95ff09af571c4a853.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table 2Effects of dietary COS for perinatal sows on reproductive performance of sows (n=20)</td></tr><tr><td>项目Items</td><td></td><td>对照组 Control group试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>产程Labor course/h</td><td>4.39±0.41</td><td>4.65±0.60</td><td>0.718</td></tr><tr><td>总产仔数 Total number of piglets born/头</td><td>16.47±1.09</td><td>17.24±1.11</td><td>0.628</td></tr><tr><td>产活仔数 Number of piglets born alive/头</td><td>14.89±0.95</td><td>15.29±0.99</td><td>0.773</td></tr><tr><td>仔猪初生窝重 Live born litter weight of piglets/kg</td><td>17.51±0.95</td><td>18.08±1.17</td><td>0.703</td></tr><tr><td>仔猪平均初生重Born individualweight of</td><td></td><td></td><td>0.960</td></tr><tr><td>piglets/kg</td><td>1.20±0.04</td><td>1.20±0.05</td><td></td></tr><tr><td>同行数据肩标不同小写字母表示差异显著(P<0.05)，无小写字母表示差异不显著(P>0.05)。下表</td><td></td><td></td><td></td></tr><tr><td>同。</td><td></td><td></td><td></td></tr><tr><td></td><td>In the same row, values with different small letter superscripts mean significant diference (P<0.05),</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>while with no leter superscripts mean no significant difference (P>0.O5).The same as below.</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2围产期母猪饲粮中添加COS 对母猪血清免疫指标的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，围产期母猪饲粮中添加COS显著提高了母猪血清中 $\\mathrm { I g G }$ 、IgA和IL-6含量（ $P$ $< 0 . 0 5 )$ ，对血清中IgM、IL-2和TNF-血含量无显著影响（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0127833c813c203649a17cfe5f1c783468ec2dbaed92528a9abb5a993edcd4e.jpg",
+        "table_caption": [
+            "表2围产期母猪饲粮中添加COS 对母猪繁殖性能的影响",
+            "表3围产期母猪饲粮中添加COS对母猪血清免疫指标的影响",
+            "Table 3 Effects of dietary COS for perinatal sows on serum immune indicators of sows $\\scriptstyle ( n = 2 0 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>免疫球蛋白GIgG/(mg/mL)</td><td>8.96±1.00a</td><td>13.62±1.60b</td><td>0.019</td></tr><tr><td>免疫球蛋白AIgA/(mg/mL)</td><td>1.93±0.23a</td><td>3.01±0.26b</td><td>0.003</td></tr><tr><td>免疫球蛋白MIgM/(mg/mL)</td><td>4.18±0.37</td><td>4.71±0.50</td><td>0.395</td></tr><tr><td>白细胞介素-2IL-2/(ng/L)</td><td>30.74±2.73</td><td>33.13±3.22</td><td>0.577</td></tr><tr><td>白细胞介素-6 IL-6/(ng/L)</td><td>34.28±3.58a</td><td>54.33±6.09b</td><td>0.008</td></tr><tr><td>肿瘤坏死因子-α TNF-α/(ng/L)</td><td>64.70±6.03</td><td>72.74±8.09</td><td>0.429</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "129 2.3围产期母猪饲粮中添加COS对母猪初乳免疫指标的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4 可知，围产期母猪饲粮中添加COS 显著提高了母猪初乳中IgG、IL-2 和 IL-6 含量( $\\cdot P { < } 0 . 0 5 )$ ，对初乳中IgA、IgM和TNF-低含量无显著影响（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/03ab0cbf09b491f9853ce90b46419959fec47667b5176806e2225819929560a8.jpg",
+        "table_caption": [
+            "4Effects of dietary COS for perinatal sows on colostrum immune indicators of sows $\\scriptstyle ( n = 2 0 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">项目Items 对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>免疫球蛋白GIgG/(mg/mL)</td><td>2.73±0.37a</td><td>8.92±1.99b</td><td>0.015</td></tr><tr><td>免疫球蛋白AIgA/(mg/mL)</td><td>0.87±0.12</td><td>1.12±0.18</td><td>0.276</td></tr><tr><td>免疫球蛋白MIgM/(mg/mL)</td><td>2.39±0.49</td><td>1.80±0.27</td><td>0.309</td></tr><tr><td>白细胞介素-2IL-2/(ng/L)</td><td>9.75±1.43a</td><td>16.27±2.57b</td><td>0.036</td></tr><tr><td>白细胞介素-6IL-6/(ng/L)</td><td>32.27±3.41a</td><td>43.05±3.73b</td><td>0.047</td></tr><tr><td>肿瘤坏死因子-α TNF-α/(ng/L)</td><td>32.16±5.33</td><td>31.55±4.41</td><td>0.931</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4围产期母猪饲粮中添加COS对初生仔猪血清免疫指标的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，围产期母猪饲粮中添加COS 显著提高了初生仔猪血清中IL-2 和 IL-6 含量( $\\cdot P { < } 0 . 0 5 )$ ，显著降低了血清中IgA含量（ $\\scriptstyle ( P < 0 . 0 5 )$ ，对血清中IgG、IgM 和 TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ 含量无显著影响（ $( P { > } 0 . 0 5 )$ °",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表5围产期母猪饲粮中添加COS 对初生仔猪血清免疫指标的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4270b8249d25adea1f3929b3e8539acefea6c08324bf429e8ef9a599dcefcc62.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table 5Eects of dietary COS for perinatal sows on serum immune indicators of neonatal piglets (n=20)</td></tr><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental groupP值P-value</td><td></td></tr><tr><td>免疫球蛋白GIgG/(mg/mL)</td><td>1.87±0.26</td><td>1.86±0.13</td><td>0.975</td></tr><tr><td>免疫球蛋白AIgA/(mg/mL)</td><td>0.35±0.06b</td><td>0.18±0.04a</td><td>0.022</td></tr><tr><td>免疫球蛋白MIgM/(mg/mL)</td><td>1.20±0.22</td><td>1.06±0.08</td><td>0.606</td></tr><tr><td>白细胞介素-2IL-2/(ng/L)</td><td>5.31±0.75a</td><td>8.07±0.66b</td><td>0.014</td></tr><tr><td>白细胞介素-6 IL-6/(ng/L)</td><td>6.88±0.78a</td><td>9.54±0.38b</td><td>0.007</td></tr><tr><td>肿瘤坏死因子-αTNF-α/(ng/L)</td><td>12.91±2.41</td><td>14.34±1.90</td><td>0.649</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5围产期母猪饲粮中添加COS 对母猪粪便pH及微生物数量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，围产期母猪饲粮中添加COS 显著降低了母猪粪便沙门氏菌数量（ $\\scriptstyle ( P < 0 . 0 5 )$ ，并有降低粪便大肠杆菌数量的趋势（ $\\scriptstyle \\phantom { + } P < 0 . 1 0 )$ ，对粪便pH及乳酸杆菌数量无显著影响（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表6围产期母猪饲粮中添加COS 对母猪粪便pH及微生物数量的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e79a83b2ce4b075fe13c056012116edf56a271105f7b97d09a39187a9930491e.jpg",
+        "table_caption": [
+            "表4围产期母猪饲粮中添加COS对母猪初乳免疫指标的影响",
+            "Table 6Effects of dietary COS for perinatal sows on fecal pH and microbial population of sows $( n { = } 2 0 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验组 Experimental group</td><td>P值P-value</td></tr><tr><td>pH</td><td>6.67±0.09</td><td>6.59±0.08</td><td>0.530</td></tr><tr><td>乳酸杆菌 Lactobacilli/lg(CFU/g)</td><td>6.13±0.17</td><td>5.85±0.22</td><td>0.321</td></tr><tr><td>大肠杆菌 Escherichia coli/lg(CFU/g)</td><td>7.14±0.15</td><td>6.80±0.10</td><td>0.062</td></tr><tr><td>沙门氏菌 Salmonella/lg(CFU/g)</td><td>6.44±0.18b</td><td>5.91±0.11a</td><td>0.016</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "442.6围产期母猪饲粮中添加COS 对母猪粪便乙酸和丙酸含量的影响由表7可知，围产期母猪饲粮中添加COS 对母猪粪便乙酸和丙酸含量无显著影响（ $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表7围产期母猪饲粮中添加COS 对母猪粪便乙酸和丙酸含量的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 7Effects of dietary COS in perinatal sows on fecal acetate and propionate contents of sows $\\scriptstyle ( n = 2 0 )$ ug/g 项目Items 对照组 Control group试验组 Experimental group $P$ 值 $P$ -value 乙酸 Acetate $1 1 . 6 8 { \\scriptstyle \\pm 0 . 4 0 } \\$ $1 1 . 4 9 { \\scriptstyle \\pm 0 . 4 8 } \\$ 0.769 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究结果显示，围产期（妊娠第90天开始至产后第7天结束）母猪饲粮中添加 $3 0 \\mathrm { m g / k g }$ COS对母猪产程、总产仔数、产活仔数、仔猪初生窝重、仔猪平均初生重均无显著影响。龙次民等[21研究结果显示，妊娠后期（妊娠第85天开始至产仔结束）母猪饲粮中添加 $3 0 \\mathrm { m g / k g } \\mathrm { C O S }$ 对母猪繁殖性能无显著影响，但是在一定程度上可以缩短母猪产程。但Cheng 等[22]的研究显示，繁殖期（配种后开始至产后 21d断奶结束）母猪饲粮中添加 $4 0 \\mathrm { m g / k g }$ COS 显著改善了母猪总产仔数、产活仔数、仔猪初生窝重和仔猪平均初生重。对于母猪繁殖性能，上述3个研究得到了不同的结果。本研究的饲喂过程及结果与龙次民等[21]的研究结果相近，而与Cheng 等[22]的研究结果有一定的差异，这可能与饲喂期有关。据报道，妊娠母猪 $40 \\%$ 的胚胎死亡发生于妊娠第 20 天前[23]，这是决定窝产仔数最重要的原因。龙次民等[21]及本试验的研究从母猪妊娠后期（妊娠第 85\\~90天）开始饲喂COS，而Cheng 等[22]的研究从母猪配种后开始饲喂COS。因此，妊娠前期饲喂COS 具有提高母猪繁殖性能的功能，而仅在妊娠后期饲喂则无显著效果。COS 对母猪繁殖性能的影响可能与免疫增强有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "母猪分娩受复杂的生理和内分泌活动控制，是一个极度疲劳、剧烈疼痛和各种代谢紊乱的过程[23]。在围产期，大多数动物的发病率都有所增加，这很可能是机体对病原体的敏感性增加，从而使免疫力下降所致。研究已证实，分娩前后皮质醇和雌激素的水平发生剧烈的波动，对机体的免疫系统产生影响。分娩时后备母猪血液中单核细胞数量和产生免疫球蛋白的单核细胞数量显著下降，免疫球蛋白含量与皮质醇水平呈现出高度的相关性[4,24]。因此，围产期母猪的免疫力显著降低。研究表明，寡糖可调节血液中免疫球蛋白含量[25]。Huang 等[26]研究了COS 对肉鸡的影响，发现饲粮中添加 $1 0 0 \\mathrm { m g / k g }$ COS 促进了肉鸡免疫器官的发育，同时显著提高了肉鸡血液中免疫球蛋白含量，说明COS 对提高肉鸡的免疫力有一定的作用。党国旗等[27]研究了COS 对断奶仔猪的影响，发现饲粮中添加 $5 0 \\mathrm { m g / k g } \\mathrm { C O S }$ 显著提高了断奶仔猪血液中 IgG、IgA、IgM 和 TNF- $\\mathbf { \\alpha } \\cdot \\mathbf { a }$ 的含量，IL-6的含量有所降低。体内外研究结果表明，COS 通过激活巨噬细胞的 Toll样受体-4（TLR4）表现出强有力的免疫激活性能[28]。本试验结果显示，围产期母猪饲粮中添加 $3 0 \\mathrm { m g / k g \\ C O S }$ 显著提高了母猪血清中IL-6 含量。结果表明，COS 激活了母猪体内的巨噬细胞，使得细胞因子分泌增加。巨噬细胞可以通过辅助细胞激活B细胞，产生响应[2]。本试验结果显示，围产期母猪饲粮中添加 $3 0 \\mathrm { m g / k g }$ COS 显著提高了母猪血清中IgG 和 IgA 含量，这可能是 COS通过巨噬细胞进而激活了B细胞的结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Brambell30的报告指出：新生牛、山羊、绵羊、马、驴和猪体内的母源抗体水平很低甚至没有，它们主要通过吸吮产后几个小时内的初乳获得母源抗体。本试验中，各项免疫指标的含量在母猪血清中最高，其次是初乳中，在仔猪脐带血中最低，约为母猪血清中含量的1/5。母猪和仔猪之间的免疫球蛋白很少通过胎盘传递，而只能在泌乳启动期大量通过乳腺屏障进入初乳中传递。本试验中，饲粮中添加",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$3 0 \\mathrm { m g / k g }$ COS 改善了母猪血清中各项免疫指标；初乳中也得到了相同的结果（初乳中IgM和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量略有下降，但差异不显著)，与母猪血清中的变化趋势相一致；仔猪脐带血中IL-2、IL-6 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量与母猪血清及初乳中变化趋势一致，然而IgG、IgA 和 IgM含量均有下降。母猪血清、母猪初乳和仔猪脐带血中免疫球蛋白含量对COS 的不同响应再次说明了母猪和仔猪之间的免疫球蛋白主要通过初乳传递，而且COS对母猪免疫力的提高也可以通过初乳传递。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Kong 等[31]在断奶仔猪饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g } \\mathrm { C O S }$ 显著增加了回肠和结肠中乳酸菌的数量，同时降低了结肠中大肠杆菌的数量。Yang 等[15]在断奶仔猪饲粮中添加 $2 0 0 { \\sim } 6 0 0 ~ \\mathrm { m g / k g } ~ \\mathrm { C O S }$ 显著增加了试验后第7天盲肠中乳酸菌的数量，同时降低了大肠杆菌的数量。本试验结果显示，围产期母猪饲粮中添加$3 0 \\mathrm { m g / k g }$ COS 显著降低了母猪粪便沙门氏菌数量，有降低大肠杆菌数量的趋势，对粪便pH及乳酸杆菌数量无显著影响。本研究结果与前人结果的差异可能与COS 添加量及试验动物有关。整体来看，COS具有改善动物肠道菌群的效果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "围产期（妊娠第90 天至分娩后第7天）母猪饲粮中添加COS 能改善母猪肠道健康，一定程度上提高产活仔数，显著增强母猪及初生仔猪的免疫功能。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]MCCAULEY I,HARTMANN P E.A longitudinal study of the changes in lymphocyte populations and theirrelationshiptoplasma cortisol levelsin theperinatal sow[J].Journal ofReproductive Immunol0gy,1983,5(4):229-237.   \n[2] BALDWIN D M,STABENFELDT G H.Endocrine changes in the pig during late pregnancy,parturition and lactation[J].Biology of Reproduction,1975,12(4):508-515.   \n[3] MOLOKWU E C 1,WAGNER W X.Endocrine physiology of the puerperal sow[J].Journal of Animal Science,1973,36(6):1158-1163.   \n[4] MAGNUSSON U,FOSSUM C.Numerical variations among blood mononuclear cells during the peripartal period in the gilt[J].Journal of Veterinary Medicine,1990,37(1/2/3/4/5/6/7/8/9/10):459-467. [5] MAGNUSSON U,FOSSUM C.Variations in number and functional capacity of blood mononuclear cells during the peripartal period in the gilt[J].Journal of Veterinary Medicine,1988,35(1/2/3/4/5/6/7/8/9/10):570-578.   \n[6] TUCHSCHERER M,PUPPE B,TUCHSCHERER A,et al.Early identification of neonates at risk:traits of newborn piglets with respect to survival[J].Theriogenology,2000,54(3):371-388.   \n[7] ROOKE J A,CARRANCA C,BLAND I M,et al.Relationships between passive absorption of ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "immunoglobulin G by the piglet and plasma concentrations of immunoglobulin G at weaning[J].Livestock Production Science,2003,81(2/3):223-234. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8]NOBLE M S,RODRIGUEZ-ZAS S,COOK J B,et al.Lactational performance of first-parity transgenic gilts expressing bovine alpha-lactalbumin in their milk[J].Journal of Animal Science,2002,80(4):1090-1096. [9]MACHARIA K A.Sow lactation:colostrum and milk yield:a review[J].Journal of Animal Science Advances,2012,2(6):525-533.   \n[10]马永喜,马小红.母乳与仔猪生长发育[J].猪业科学,2008,25(5):84-87.   \n[11]张金枝.日粮能量结构对母猪繁殖和泌乳性能的影响研究[D].博士学位论文.杭州:浙江大 学,2009:25-43.   \n[12]XIA W S,LIU P,ZHANG JL,et al.Biological activities of chitosan and chitooligosaccharides[J].Food Hydrocolloids,2011,25(2):170-179.   \n[13]侯玉洁，徐俊，周瑶敏,等.壳聚糖的生物学活性及其在动物生产中的应用[J].饲料工业,2015(增刊 2):5-13.   \n[14]LIU P,PIAO X S,THACKER P A,et al.Chito-oligosaccharide reduces diarrhea incidence and attenuates theimmune response of weaned pigs challenged with Escherichia coli K88[J].Journal of Animal Science,2010,88(12):3871-3879.   \n[15]YANG C M,FERKET P R,HONG Q H,et al.Effect of chito-oligosaccharide on growth performance,intestinal barrier function,intestinal morphology and cecal microflora in weaned pigs[J].Journal of Animal Science,2012,90(8):2671-2676.   \n[16] XIE C Y,XIN W,LONG C M,et al.Chitosan oligosaccharide affects antioxidant defense capacity and placental amino acids transport of sows[J].BMC Veterinary Research,2016,12:243.   \n[17] XIE C Y,GUO X Y,LONG C M,et al.Supplementation of the sow diet with chitosan oligosaccharide during late gestation and lactation aects hepatic gluconeogenesis of suckling piglets[J].Animal Reproduction Science,2015,159:109-117.   \n[18] XIE C Y,WU X,GUO X Y,et al.Maternal chitosan oligosaccharide supplementation affecting expression of circadian clock genes,and posible association with hepatic cholesterol accumulation in suckling piglets[J].Biological Rhythm Research,2016(2):253-265.   \n[19] NRC.Nutrient requirements of swine[S].Washington,D.C.:National Academy Press1977:373-381. [20]罗嘉.宫内发育迟缓(IUGR)猪脐带动静脉血Exosome 中 microRNA 转录组的鉴定和表达谱分析[D]. 硕士学位论文.雅安:四川农业大学,2016:11. [21] 龙次民,谢春艳,吴信,等.妊娠后期母猪饲粮中添加壳寡糖对新生仔猪抗氧化能力的影响[J].动物营 养学报,2015,27(4):1207-1213.   \n[22]CHENG L K,WANG L X,XU Q S,et al.Chitooligosaccharide supplementation improves the reproductive performance and milk composition of sows[J].Livestock Science,2015,174:74-81.   \n[23]TUR i.General reproductive properties in pigs[J].Turkish Journal of Veterinary & Animal Sciences,2013,37(1):1-5.   \n[24] 刘永祥,朱宽佑,李婉涛,等.围产期母猪的免疫状态及与皮质醇的关系[J].西北农林科技大学学报(自 然科学版),2015,43(4):12-16.   \n[25]段绪东.饲粮添加甘露寡糖对母猪繁殖性能、免疫功能及后代生长、免疫和肠道微生物的影响[D]. 硕士学位论文.雅安:四川农业大学,2013:24-29.   \n[26]HUANG R L,DENG Z Y,YANG C B,et al.Dietary oligochitosan supplementation enhances immune status of broilers[J].Journal of the Science of Food and Agriculture,2007,87(1):153-159.   \n[27] 党国旗,杨新宇,许晴,等.壳寡糖对断奶仔猪免疫力及相关理化指标的影响[J].动物营养学 报,2017,29(11):3980-3986.   \n[28]ZHANG P,LIU W Z,PENG Y F,et al.Tollike receptor 4 (TLR4) mediates the stimulating activities of chitosan oligosaccharide on macrophages[J].International Immunopharmacology,2014,23(1):254-261. [29] BOSWELL H S,SHARROW S O,SINGER A.Role of accessory cells in B cellactivation. I .Macrophage presentationofTNP-Ficol:evidenceformacrophage-Bcellinteraction[J].Journal of Immunol0gy,1980,124(2):989-996.   \n[30]BRAMBELL F W R.The transmission of immune globulins from the mother to the foetal and newborn young[J].Proceedings of the Nutrition Society,1969,28(1):35-41.   \n[31]KONG X F,ZHOU X L,LIAN G Q,et al.Dietary supplementation with chitooligosaccharides alters gut microbiota and modifies intestinal luminal metabolites in weaned Huanjiang mini-piglets[J].Livestock Science,2014,160:97-101.   \nEffects of Dietary Chito-Oligosaccharide for Perinatal Sows on Immune Function of Sows and Newborn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Piglets, Intestinal Microorganisms of Sows² QI Qien1XIAO Junfeng1ZHANG Jun1ZHAO Hai1 LIU Shuang1WENQingqi2\\* (1.Fujian Aonong Bio-Technology Group Co.,Ltd., Xiamen 361008, China; 2. Collge ofAnimal Science, ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This experiment was conducted to study the effects of dietary chito-oligosaccharide(COS） for perinatal sows on immune function of sows and newborn piglets, intestinal microorganisms of sows. Forty Yorkshire sows with the similar body weight, back-fat, parity and expected date of confinement were assigned into 2 groups with 20 replicates per group and 1 sow per replicate.Sows in control group were fed a basal diet, and those in experimental group were fed the basal diet supplemented with $3 0 ~ \\mathrm { m g / k g }$ COS.The experiment lasted from 90th dayof gestation to the 7th day after farrowing.The results showed as folows: 1) dietary COS for pernatal sows had no significant effects on labor course,total number of piglets born, number of piglets born alive,live born litter weight of piglets, born individual weight of piglets $( P { > } 0 . 0 5 )$ .2)Dietary COS for perinatal sows significantly increased serum immunoglobulin G (IgG)， immunoglobulin A (IgA） and interleukin-6（IL-6） contents of sows $( P { < } 0 . 0 5 )$ ,and had no significant effects on serum immunoglobulin M (IgM),interleukin-2 （IL-2） and tumor necrosis factor- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ (TNF- $\\mathfrak { a }$ ） contents of sows( $\\scriptstyle \\overbrace { P \\mathrm { > } 0 . 0 5 } \\$ ). 3) Dietary COS for perinatal sows significantly increased colostrum IgG, IL-2 and IL-6 contents $( P { < } 0 . 0 5 )$ ，and had no significant effects on colostrum IgA, IgM and TNF- $\\mathfrak { a }$ contents $( P { > } 0 . 0 5 )$ . 4) Dietary COS for perinatal sows significantly increased serum IL-2 and IL-6 contents of newborn piglets $( P { < } 0 . 0 5 )$ , and significantly decreased IgA content ( $( P { < } 0 . 0 5 )$ . 5) Dietary COS for perinatal sows significantly decreased fecal Salmonella population （204号 $( P { < } 0 . 0 5 )$ and tended to decreased fecal Escherichia coli population of sows $( P { < } 0 . 1 0 )$ . In conclusion, dietary COS for perinatal sows can improve intestinal health of sows,increased the born alive number of piglets to a certain extent, and enhance immune function of both sows and newborn piglets.   \nKey words: chito-oligosaccharide; immune; perinatal period; sows; piglets ",
+        "page_idx": 10
+    }
+]

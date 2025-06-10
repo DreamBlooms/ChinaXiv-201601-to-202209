@@ -1,0 +1,403 @@
+[
+    {
+        "type": "text",
+        "text": "陕A群、陕B群选育的玉米自交系氮效率评价 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李亚楠 刘雪艳 师亚琴 李艺博 王亚辉 陈朋飞刘建超 张仁和 徐淑兔 薛吉全\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西北农林科技大学农学院/农业部西北旱区玉米生物学与遗传育种重点实验室/陕西省玉米工程技术研究中心杨凌712100)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为阐明不同类型玉米自交系氮效率差异特征，筛选氮高效的玉米自交系，以陕A群、陕B群选育的33份玉米自交系为材料，以4份骨干自交系（郑 ${ 5 8 } ^ { \\circ }$ 、‘昌7-2'、‘PH6WC'和‘PH4CV)为对照，调查了2种施肥条件下 $\\mathrm { [ 0 ~ k g ( N ) \\cdot h m ^ { - 2 } }$ 、 $1 8 0 \\mathrm { \\ k g ( N ) ^ { . } h m } ^ { - 2 } ]$ 玉米自交系的穗位叶 SPAD值、叶面积、干物质积累量、叶片、茎秆和籽粒氮含量等生理指标。利用主成分分析和模糊隶属函数，采用逐步回归分析方法建立最优回归方程，筛选耐低氮性综合评价指标。结果表明：穗位叶 SPAD值、吐丝期绿叶面积、吐丝期茎干重、吐丝期叶干重和籽粒氮含量，可作为玉米自交系耐低氮能力的第2性状筛选指标。以产量作为第1性状指标，可将37份玉米自交系划分为14份高产氮高效型,5份低产氮高效型，15份低产氮低效型和3份高产氮低效型。以耐低氮能力综合值 $D$ 值筛选，将37份玉米自交系可分成3种类型，其中耐低氮能力较强的15份 $( D$ 值 ${ \\geqslant } 0 . 5$ ，耐低氮能力中等的15份 $( 0 . 3 5 \\leqslant D$ 值 $_ { < 0 . 5 \\ ' }$ ，耐低氮能力较差的7份 $( D$ 值 ${ < } 0 . 3 5$ )。综合分析，2种施氮条件下，‘KB215’、‘KB417'、‘KA225'、‘KB081'和 $\\cdot \\mathrm { L } 1 2 3 0 9 8 { - } 2 ^ { \\cdot } \\ 5$ 份玉米自交系具有吐丝期绿叶面积大，吐丝期茎叶干重、籽粒氮含量高和籽粒产量高，耐低氮能力强的特点。因此，强化育种环境的选择压力，实施低氮选择策略，可有效提高玉米种质对氮肥的利用效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词　玉米　自交系　氮效率　主成分分析　隶属函数中图分类号：S513 文献标识码：A 文章编号:1671-3990(2016)11-1521-08",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of nitrogen efficiency for selected Shaan A and B maize inbred lines ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yanan,LIU Xueyan, SHI Yaqin,LI Yibo, WANG Yahui, CHEN Pengfei, LIU Jianchao, ZHANG Renhe, XU Shutu, XUE Jiquan\\*\\* (KeyLaboratoryof Biological and Genetic ImprovementofMaize inArid Northwest Region,Ministryof Agriculture/Corn Enginering Technology Research Center/CollegeofAgronomy,NorthwestA&FUniversity,Yangling71210o,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThis study wassetup to explore thecharacteristicsof nitrogen (N)use eficiency (NUE)of diferent groups (Shaan A groupand Shann B group)of maize inbred lines,andto screen high N-efficient maize inbred lines.Atotalof 33 maize inbredlies fromthe Shaan Band ShanAgroups wereused along with 4elite inbred lines(zheng58,chang7-2'PH6WC, ‘PH4CV'）asthe control.The study analyzed SPAD value,green leafarea,dry matteraccumulationas wellasNuptake instem, leaf and grain of maize inbred lines under no nitrogen $[ \\mathrm { N } 0 , 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ and normal N [N180, $1 8 0 \\mathrm { k g } ( \\mathrm { N } ) { \\cdot } \\mathrm { h m } ^ { - 2 } ]$ levels. Based on principal component analysis (PCA)，fuzzy membership function (FRF)，stepwise regresionanalysis and theoptimal regression equation,evaluation indexes for low $\\mathrm { \\Delta N }$ tolerance of maize inbred lines was established.The results indicated that SPAD value,green leaf area, stem dry weight and leaf dry weight at silking and grain $\\mathrm { ~ N ~ }$ uptake were reliable secondary indicators for comprehensive evaluation of low $\\mathrm { \\Delta N }$ resistant ability of maize inbred lines. Using yield as primary index, among ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "37 maize inbred lines,15 lines were determined as high yield with high $\\mathrm { ~ N ~ }$ efficiency,5 lines as low yields with high N efficiency,15 lines as low yields with low $\\mathrm { ~  ~ N ~ }$ efficiency and 2 lines as high yields with low $\\mathrm { ~  ~ N ~ }$ efficiency.According to the integrated value of low $\\mathrm { \\Delta N }$ resistance $( D )$ calculated using the secondary indexes,37 maize inbred lines were also divided into three types — 15 lines of strongest resistance to low $\\mathrm { \\Delta N }$ with $D \\geqslant 0 . 5$ ,15 lines of stronger resistance to low $\\mathrm { \\Delta N }$ with $0 . 3 5 \\leqslant D <$ 0.5,and 7 lines of poor resistant to low $\\mathrm { ~ N ~ }$ with $D < 0 . 3 5$ . Comprehensive analysis of two $\\mathrm { ~ N ~ }$ levels showed that‘KB215', ‘KB417,KA225’,‘KB081'and‘L123098-2'had higher green area and stemand leaf dry materatsilking stage,greater grain Ncontent and higher yield,andthe strongest resistance to low N.Thus strengthening selection process of breeding environment and low N use effectively improved the utilization eficiency of N fertilizer of maize germplasm. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsMaize; Inbred line; Nitrogen efficiency; Principal component analysis; Membership function ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "氮素作为植物生长所必需的大量元素，对植物生长发育十分重要。我国已成为世界最大的氮肥生产国和使用国，2012年消费量占世界的 $1 / 3 ^ { [ 1 ] }$ ，且氮肥利用率仅有 $30 \\% { \\sim } 4 0 \\%$ ，远低于 $50 \\%$ 的世界水平[2]。氮素过量施用导致玉米(Zeamays)生产成本增加、环境污染加剧[3和氮肥利用率降低。因此，降低氮肥的使用量、提高氮肥利用率成为关注的重点。研究表明，不同玉米品种间氮肥利用效率存在明显差异[4-5]。Duvick[认为美国玉米产量提高的主要原因是增强了品种抵抗环境胁迫的能力，一定意义上产量就是抗逆性。玉米产量的改良归功于其忍耐胁迫能力的改善和提高[7]。玉米杂交种的抗逆性来源于亲本自交系的抗逆性[8]。因此，进行玉米种质氮效率基因型差异上的评价，挖掘玉米氮高效种质资源，进而培育玉米氮高效品种是提高氮素利用率的有效途径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前人应用多种评价指标进行了不同氮效率类型的划分。刘建安等9以氮效率和氮响应度为指标将不同氮效率品种划分为4种类型：双高效型、低氮高效型、高氮高效型、双低效型。张兴华等[10]以千粒重、穗长和穗粒数为指标对30个玉米品种的耐低氮能力进行分析，筛选出‘郑单 $9 5 8 ^ { \\circ }$ 、陕单8815、‘京科28'等较耐低氮品种。崔文芳等[11]利用高氮下产量及耐低氮胁迫指数将自交系材料分为4种类型，双高效型、高产氮低效型、低产氮高效型、低产氮低效型。王晓慧等[12]以粒重和氮素籽粒生产效率为指标进行不同氮效率类型的划分。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本课题组以增加适应性为主线，构建了陕A群、陕B群2个杂种优势群，通过多地点、高密度、少施肥和少灌水的技术路线选育了KA和KB系列玉米自交系。本文以选育的33份玉米自交系为材料，以4份骨干自交系为对照，结合各种形态生理指标进行不同基因型玉米自交系氮效率的评价分析，阐明不同类型玉米自交系氮效率差异的生理基础，选择可靠的指标并筛选出氮高效的玉米自交系，为进一步优化升级陕A群、陕B群杂种优势群，开展氮高效玉米育种提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以陕A群、陕B群选育的33份玉米自交系为材料，以4 份骨干玉米自交系(郑58'、‘昌7-2'、‘PH6WC'和‘PH4CV')为对照。33份玉米自交系来源于西北农林科技大学构建的陕A群、陕B群2个杂种优势群体，简化杂优模式，强化逆境人工选择，通过实施多地点、高密度、少施肥和少灌水的技术路线,2009—2013年开展5轮的30点联合改良。以单穗粒重 $( > 1 0 0 \\ \\mathrm { g } )$ 、出籽率 $( > 8 7 \\% )$ 和穗行果穗入选数$( > 3$ 个)为指标，经陕西、海南(每年2代)连续自交选育而成。材料的具体来源见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验于2014年和2015年在西北农林科技大学杨凌玉米试验基地 $( 3 4 ^ { \\circ } 5 4 ^ { \\prime } \\mathrm { N } , 1 0 8 ^ { \\circ } 7 ^ { \\prime } \\mathrm { E } )$ 进行。试验地为壤土，从2003年开始进行低氮胁迫，地力均匀一致。$0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层含有机质 $1 0 . 2 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ ，全氮 $1 . 0 6 ~ \\mathrm { g { \\cdot k g } ^ { - 1 } }$ 碱解氮 $3 5 . 4 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效磷 $1 4 . 2 7 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ ，速效钾$1 5 1 . 4 ~ \\mathrm { m g ^ { . } k g ^ { - 1 } }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验施氮水平设置2个处理： $0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ （低氮，NO)、 $1 8 0 \\ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ (正常氮，N180)。采取裂区设计小区，以氮肥处理为主区，材料为副区，3次重复。每个自交系种植2行，行长 $5 \\mathrm { ~ m ~ }$ ，行距 $6 0 ~ \\mathrm { c m }$ ，小区面积 $6 ~ \\mathrm { m } ^ { 2 }$ ，种植密度60000株 $\\cdot \\mathrm { h m } ^ { - 2 }$ 。 $40 \\%$ 氮肥作为底肥， $60 \\%$ 氮肥在7叶展时作为追肥追施。其他管理措施同一般大田。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定项目与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在拔节期(7叶展)选择生长一致的10 株玉米植株挂牌标记叶龄和植株，按照生育进程进行调查。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在吐丝期选择天气晴朗的上午9:00—10:00，用SPDA-502plus测定每份材料穗位叶叶绿素含量，每份测量10株，取平均值。于吐丝期测量5株绿叶面积，叶面积 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ 叶长 $\\times$ 叶宽 $\\times 0 . 7 5 .$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "吐丝期和成熟期，选取有代表性的自交系3株调查干物质积累量，分成茎、叶、苞叶、穗轴和籽粒，在 $1 0 5 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 杀青 $3 0 ~ \\mathrm { m i n }$ ， $8 0 \\ \\mathrm { ^ \\circ C }$ 烘至恒重，计算干物质重。烘干后的样品粉碎后，取0.5g用Kjeltec8200全自动凯氏定氮仪测定各器官的氮含量。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0ab5becab501ae11ea2ebdeeb0f13a0c9f122c558800f73013898948781184d.jpg",
+        "table_caption": [
+            "表1供试玉米自交系编号及来源",
+            "Table1 Codes of the tested corn inbred lines and their origins "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号Code</td><td>名称Name</td><td>来源Origin</td><td>编号Code</td><td>名称 Name</td><td>来源Origin</td></tr><tr><td>1</td><td>KA008</td><td>A群 A group</td><td>20</td><td>KB417</td><td>B群B group</td></tr><tr><td>2</td><td>KA666-1</td><td>A群 A group</td><td>21</td><td>KB215</td><td>B群 B group</td></tr><tr><td>3</td><td>KA101</td><td>A群A group</td><td>22</td><td>KB107</td><td>B群 B group</td></tr><tr><td>4</td><td>KA064</td><td>A群A group</td><td>23</td><td>KB020</td><td>B群 B group</td></tr><tr><td>5</td><td>KA105</td><td>A群 A group</td><td>24</td><td>L123094-4</td><td>B群 B group</td></tr><tr><td>6</td><td>KA103</td><td>A群A group</td><td>25</td><td>L123098-2</td><td>B群B group</td></tr><tr><td>7</td><td>KA203</td><td>A群 A group</td><td>26</td><td>2013KB-37</td><td>B群 B group</td></tr><tr><td>8</td><td>L123084-4</td><td>A群 A group</td><td>27</td><td>2013KB-47</td><td>B群B group</td></tr><tr><td>9</td><td>2013KA-34</td><td>A群Agroup</td><td>28</td><td>KB043</td><td>B群B group</td></tr><tr><td>10</td><td>2014YLKA-58</td><td>A群 A group</td><td>29</td><td>KB204</td><td>B群 B group</td></tr><tr><td>11</td><td>KA227</td><td>A群 A group</td><td>30</td><td>KB280</td><td>B群 B group</td></tr><tr><td>12</td><td>KA059</td><td>A群A group</td><td>31</td><td>2013HXB1-4</td><td>B群B group</td></tr><tr><td>13</td><td>KA225</td><td>A群 A group</td><td>32</td><td>KB106</td><td>B群B group</td></tr><tr><td>14</td><td>2013XCA1-1</td><td>A群 A group</td><td>33</td><td>2014KB-54</td><td>B群B group</td></tr><tr><td>15</td><td>2013YLD3A1-5</td><td>A群 A group</td><td>34</td><td>郑 58 Zheng 58</td><td>对照Control</td></tr><tr><td>16</td><td>2014KA-60</td><td>A群 A group</td><td>35</td><td>昌 7-2 Chang 7-2</td><td>对照 Control</td></tr><tr><td>17</td><td>KB081</td><td>B群B group</td><td>36</td><td>PH6WC</td><td>对照 Control</td></tr><tr><td>18</td><td>KB080</td><td>B群 B group</td><td>37</td><td>PH4CV</td><td>对照Control</td></tr><tr><td>19</td><td>2011KB-14</td><td>B群B group</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "收获期收获小区全部果穗进行称重计产，用PM-8188测定玉米籽粒含水量，按照标准含水量$14 \\%$ 计算产量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "耐低氮指数 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } =$ （低氮水平下测定值/正常水平下测 定值 $1 \\times 1 0 0 \\%$ (1) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照胡标林等[13]的方法进行隶属函数、主成分权重及耐低氮性综合值分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米自交系的隶属函数值计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mu ( x _ { i } ) { = } ( x _ { i } { - } x _ { i \\mathrm { m i n } } ) / ( x _ { i \\mathrm { m a x } } { - } x _ { i \\mathrm { m i n } } ) ~ ( i { = } 1 , 2 , 3 , ~ \\ldots , n )$ (2)式中： $\\mu ( x _ { i } )$ 为玉米自交系第 $i$ 个主成分的隶属函数值，$x _ { i }$ 为各材料某一主成分得分值， $x _ { i \\operatorname* { m a x } } , x _ { i \\operatorname* { m i n } }$ 分别为所有玉米自交系中第 $i$ 个主成分的最大值和最小值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各主成分的权重 $( W _ { i } )$ 计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle W _ { i } = P _ { i } / \\sum _ { i = 1 } ^ { n } P _ { i } \\quad ( i = 1 , 2 , 3 , \\ \\dotsc , n )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\textstyle \\mathcal { W } _ { i }$ 为第 $i$ 个主成分在所有主成分中的重要程度;  \n$P _ { i }$ 为玉米自交系第 $i$ 个主成分贡献率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米自交系的耐低氮能力综合值 $( D )$ 计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { D / = \\sum _ { i = 1 } ^ { n } \\left[ \\mu ( x _ { i } ) \\cdot W _ { i } \\right] } & { { } ( i = 1 , 2 , 3 , \\ \\dots , n ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2007进行数据整理并计算",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各性状的平均值，Origin9.0软件作图。SPASS 20.0软件进行统计分析，相关系数、主成分分析和逐步回归分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同施氮水平对玉米自交系产量的影响",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图1可以看出，不同施氮水平下各玉米自交系的产量存在较大差异，以所有玉米自交系在2种施氮条件下的产量平均值为纵横坐标轴，可将玉米自交系分为4种类型，2种施肥水平下玉米自交系产量均高于平均值的‘KB081'、‘KA225'、‘KB215'、",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7000 2014YLKA-58 KA105 KB081 KA225 chang72L123098-2 1 KB215 L1230944 2013KB-47 5000 1P152018 ■ 喜 == KB106 4000 ■ 1 2013YLD3A1-5 ■2014KA-50 KB043 . 2011KB-14 ■ 3000 PH4CV KB080 ■ = 2000 3000 4000 5000 6000 7000 8000 正常氮产量 Yield of normal $\\mathrm { { N } } \\left( \\mathrm { { k g } } { \\cdot } \\mathrm { { h m } } ^ { - 2 } \\right)$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "‘KB417'等14份玉米自交系，处于第1象限，属于高产氮高效型；低氮条件下高于平均值的‘L123094-4'、\\*2014KB-54'等5份玉米自交系，处于第2象限，属于低产氮高效型；2种施肥水平玉米自交系产量均低于平均值的‘KB080'、‘2011KB-14'、‘2014KA-60'等15份玉米自交系，处于第3象限，属于低产氮低效型；正常氮条件下高于平均值的‘KB106'、‘KB204'、‘2013YLD3A1-5'共3份玉米自交系，处于第4象限，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "属于高产氮低效型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同施氮水平对玉米自交系生理指标的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SPAD值、叶面积、干物质积累量和氮积累量等生理指标，在处理间和自交系间的方差均达到显著、极显著水平(表2)，不同施氮水平下各性状的变异系数除绿叶面积外，其他各性状均大于 $1 5 \\%$ ，表明自交系间差异较大，有利于对玉米自交系的性状进行评价和筛选。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f9861db5b7dcbce495045be697d930e3d373cce99dc9a2c0a7545d47b410db1.jpg",
+        "table_caption": [
+            "表2不同施氮水平下玉米自交系各性状的均值、变异系数及方差分析 Table2The averages,variationcoefficients andvariance analysisabout various characters ofmaize inbredlines underdifere nitrogen levels "
+        ],
+        "table_footnote": [
+            "NO：低氮，施氮量为 $\\overline { { { 0 \\mathrm { \\ k g } \\cdot \\mathrm { h m } ^ { - 2 } } } }$ · $ { \\mathrm { N } } 1 8 0$ ：正常氮，施氮量为 $1 8 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ ；\\*和 $^ { * * }$ 分别表示在0.05和0.01水平上差异显著。下同。N0:low N supply; N180: normal N supply with N application rate of $1 8 0 ~ \\mathrm { k g } { \\cdot } \\mathrm { h m } ^ { - 2 }$ .\\* and \\*\\* denote significant differences at 0.05 and 0.01 levels,respectively. The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">性状 Trait</td><td colspan=\"2\">N0</td><td colspan=\"2\">N180</td><td colspan=\"2\">F值Fvalue</td></tr><tr><td>均值 Mean</td><td>变异系数 CV (%)</td><td>均值 Mean</td><td>变异系数 CV (%)</td><td>施氮量N application</td><td>自交系 Inbred lines</td></tr><tr><td>SPAD (X1)</td><td>49.84</td><td>15.18</td><td>53.37</td><td>15.04</td><td>8.85**</td><td>3.66**</td></tr><tr><td>吐丝期绿叶面积 Green leaf area at silking (X2,cm²)</td><td>4 197.13</td><td>12.42</td><td>4 393.16</td><td>11.34</td><td>16.33**</td><td>10.94**</td></tr><tr><td>吐丝期茎干重 Stem dry weight at silking (X3,g·plant-1)</td><td>40.11</td><td>23.77</td><td>43.85</td><td>20.75</td><td>12.11**</td><td>7.12**</td></tr><tr><td>吐丝期叶干重 Leaf dry weight at silking (X4,g·plant-1)</td><td>23.44</td><td>19.35</td><td>25.41</td><td>22.19</td><td>9.38**</td><td>5.84**</td></tr><tr><td>吐丝期干重 Plant dry weight at silking (X5,g:plant-1)</td><td>72.67</td><td>20.80</td><td>80.75</td><td>18.75</td><td>19.84**</td><td>6.51**</td></tr><tr><td>花后干物质积累量 Post-silking dry matter accumulation (X6,g:plant-1)</td><td>92.82</td><td>37.06</td><td>113.23</td><td>30.52</td><td>27.36**</td><td>7.44**</td></tr><tr><td>吐丝期叶氮含量 Leaf N content at silking (X7,g:plant-1)</td><td>0.51</td><td>21.35</td><td>0.68</td><td>24.60</td><td>35.46**</td><td>1.84*</td></tr><tr><td>吐丝期氮含量 N content at silking (X8,g·plant-1)</td><td>0.91</td><td>25.70</td><td>1.33</td><td>19.94</td><td>71.10**</td><td>1.76*</td></tr><tr><td>花后氮积累量 Post-silking N uptake (Xg,g·plant-1)</td><td>0.99</td><td>48.86</td><td>1.28</td><td>37.82</td><td>12.93**</td><td>3.14**</td></tr><tr><td>籽粒氮含量 Nuptake in grain (Xio,g·plant-1)</td><td>1.22</td><td>33.33</td><td>1.49</td><td>30.76</td><td>12.24**</td><td>2.39**</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以正常施氮水平下的性状值为横坐标，低氮水平下的性状值为纵坐标，以它们的均值为中心线进行分析(图2)，依据不同性状均值可将玉米自交系分成4种类型。综合分析，‘2013KB-47'、‘2013XCA1-1'、‘KB081'、‘2014YLKA-58'、‘PH6WC'等5份玉米自交系在穗位叶SPAD值、吐丝期绿叶面积、吐丝期茎干重、吐丝期叶干重、花后干物质积累量和籽粒氮含量等指标中出现的频率较高，表现为2种施氮条件下均高于平均值，处于第1象限，为高氮高效型;而‘KB043’、‘KB204'、‘2013KA-34'、‘KB106'、‘PH4CV'等5份玉米自交系在各性状的第3象限出现的频率较高，表现为2种施氮条件下均低于平均值，为低氮低效型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 玉米自交系氮效率相关性状的主成分分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于各性状相对值间存在着或大或小的相关性从而影响到耐低氮性的评价。为了消除不同基因型间遗传学特性的差异，采用性状相对值(耐低氮指数)进行耐低氮性综合评价。从表3相关性分析可以看出，6对性状相对值达极显著相关 $( P { < } 0 . 0 1 )$ ，5对性状相对值达显著相关 $( P { < } 0 . 0 5 )$ ，其中除吐丝期氮总含量与花后氮积累量达显著负相关(-0.366)外，吐丝期茎干重与吐丝期叶干重、吐丝期叶氮含量和籽粒氮含量、吐丝期叶干重与吐丝期总干重、吐丝期叶氮含量和籽粒氮含量、花后干物质积累量与花后氮积累量和籽粒氮含量、吐丝期叶氮含量与吐丝期氮总含量、花后氮积累量与籽粒氮含量均呈显著正相关，其相关系数为 $0 . 3 3 1 { \\sim } 0 . 5 1 2$ 。表明所有表型性状相对值间均存在不同程度的相关，有些性状相对值间呈显著相关，使得它们提供的信息发生重叠。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了消除影响，对10个性状的相对值进行主成分分析，综合评价不同自交系间的耐低氮能力。由表4得知，前4个主成分的累积贡献率为 $72 . 2 8 8 \\%$ ，表明这4个主成分代表了各性状 $7 2 . 2 8 8 \\%$ 的信息量。而主成分矩阵反映了各性状对此主成分负荷相对大小和作用的方向，即其对主成分的影响程度。根据前4个主成分向量特征值荷载来解释其实际意义：第1主成分的贡献率为 $2 2 . 7 8 0 \\%$ ，花后干物质积累量、花后氮积累量和籽粒氮含量的相对值特征量大于其他",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "U A 6605504 a KB081 2014YLKA-58 13XCA2013KB-47 三 b 2014YLK2013XCA1-1 PIOWC Kp 2013KB-47 L · PH4CV KB2042013KA-34 KB106 35 ■ KB043 30 3000 PH4CV · 35 40 45 50 55 60 65 70 3000 3500 4000 4500 _5000 5500 正常氮 SPAD值 正常氮吐丝期绿叶面积 SPAD of normal N Green leaf area at silking of normal N (cm²) c d 2013KB-47 PH6WC 2014YLKA-58 40 KB08 353025 KR106 KB043 KB204 · 16 PH4CV PH4CV 2013KA-34 12 KB043 KB204 20 8 8 12 1620242832 3640 202530 35404550 556065 正常氮吐丝期叶干重 正常氮吐丝期茎干重 Leaf dry weight at silking of normal N (g·plant-1) Stem dry weight at silking of normal N(g·plant-1) 110 180 e 8 f ： PHGW KB081 90 80 0SBDA 2014YLKA-58 earearette 2138-4/B41 70 2013KA-344 6050 K5g0 1 PH4CY 2013KA-34 PH4CVKB204 KB043 KB043 50 60 70 80 90100110120 20 2040 6080 100120140160180 200 220 正常氮吐丝期总干重 正常氮花后干物质积累量 Silking total dry weight of normal N(g·plant-1) Post-silkingdrymatteraccumulation of normal N(g:plant-1) 0.8 g h 2013XCA 2018-47WC KB081 0.5 KB10601KA . 2013KB-47 1.0 0.8 KB043 KB106 4 KR043 0.4 : 0.3 1 044 PH4CV 20.20.30.40.50.60.70.80.91.01.1 1.2 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 正常氮吐丝期叶氮含量 正常氮吐丝期氮积累 Leaf N content at silking of normal N(g·plant-1) N total content at silking of normal N(g:plant-1) 2.00 2.2 1.75 i KB081 2.0 1 2013XCA1-1 2013KB-47 KB081 1.25 · 1.6 2014YLKA-58 · 1.4 1.00 2013KA-34 110 □ 2013XCA1-1 1 0.50 043 0.8 ■ : 0.25 PH4CV KB204 0.6 PH4CV KBQ43 201 0.00 0.4 0 0.4 0.8 1.2 1.6 2.0 2.4 2.8 0 0.4 0.8 1.2 1.6 2.0 2.4 2.8 正常氮花后氮积累量 正常氮籽粒氮含量 Post-silking N uptake of normal N(g'plant-1) N uptake in grain of normal N (g:plant-1) ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4eecbe512ccf612a207f78bbb86cca7e319f5060401b813a119efcfd44a434f9.jpg",
+        "table_caption": [
+            "表310个玉米自交系表型性状相对值的相关分析[able 3 Correlation analysis of the relative values of phenotypic traits about maize inbred lin"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>X1</td><td>X</td><td>X</td><td>X4</td><td>X5</td><td>X6</td><td>X7</td><td>X8</td><td>X9</td></tr><tr><td>X</td><td>0.267</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X</td><td>0.010</td><td>0.046</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X4</td><td>0.176</td><td>-0.014</td><td>0.381*</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X5</td><td>0.170</td><td>-0.135</td><td>-0.198</td><td>0.437**</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>X6</td><td>-0.041</td><td>-0.083</td><td>0.088</td><td>-0.026</td><td>-0.309</td><td></td><td></td><td></td><td></td></tr><tr><td>X7</td><td>0.143</td><td>-0.009</td><td>0.444**</td><td>0.341*</td><td>0.059</td><td>-0.008</td><td></td><td></td><td></td></tr><tr><td>X8</td><td>-0.175</td><td>-0.228</td><td>0.193</td><td>0.025</td><td>-0.001</td><td>-0.108</td><td>0.443**</td><td></td><td></td></tr><tr><td>X</td><td>-0.010</td><td>-0.010</td><td>-0.020</td><td>-0.147</td><td>-0.134</td><td>0.600**</td><td>-0.057</td><td>-0.336*</td><td></td></tr><tr><td>X10</td><td>0.092</td><td>0.027</td><td>0.377*</td><td>0.331*</td><td>0.040</td><td>0.471**</td><td>0.102</td><td>-0.249</td><td>0.512**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表410个玉米自交系表型性状相对值的前4个主成分的特征向量、主成分特征值、贡献率及累积贡献率",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/accc290e5cfb4c1f2fda928ce3047334f5025d0e236f4449c1037e2111b68f80.jpg",
+        "table_caption": [
+            "Table 4Eigenvector,eigenvalues,contribution rate,and cumulative contribution rate of first four principal components based on the relative values of ten phenotypic traits of maize inbred lines "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数 Parameter</td><td colspan=\"4\">主成分 Principal component</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>特征值Eigenvalue</td><td>2.278</td><td>2.114</td><td>1.580</td><td>1.257</td></tr><tr><td>贡献率 Contribution rate (%)</td><td>22.780</td><td>21.142</td><td>15.796</td><td>12.517</td></tr><tr><td>累计贡献率 Cumulative</td><td>22.780</td><td>43.922</td><td>59.718</td><td>72.288</td></tr><tr><td>contribution rate (%) X1</td><td>0.086</td><td>0.228</td><td>0.611</td><td>0.337</td></tr><tr><td>X</td><td>0.087</td><td>-0.042</td><td>0.403</td><td>0.760</td></tr><tr><td>X</td><td>0.295</td><td>0.675</td><td>-0.287</td><td>0.296</td></tr><tr><td>X4</td><td>0.106</td><td>0.761</td><td>0.336</td><td></td></tr><tr><td>X5</td><td>-0.256</td><td>0.329</td><td>0.574</td><td>-0.231 -0.584</td></tr><tr><td>X6</td><td>0.785</td><td>-0.111</td><td>-0.277</td><td>-0.097</td></tr><tr><td>X7</td><td>0.008</td><td>0.759</td><td>-0.252</td><td>0.170</td></tr><tr><td>X8</td><td>-0.415</td><td>0.425</td><td>-0.603</td><td>-0.025</td></tr><tr><td>X9</td><td>0.810</td><td>-0.242</td><td>-0.028</td><td>-0.154</td></tr><tr><td>X10</td><td>0.809</td><td>-0.300</td><td>0.125</td><td>-0.146</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4不同玉米自交系的氮效率分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用上述各性状相对值的4个主成分贡献率计算4个主成分权重系数(0.315，0.292，0.219，0.174),结合各主成分因子得分计算各自交系耐低氮能力综合值 ${ \\mathbf { } } _ { . D }$ ，某一玉米自交系的 $D$ 值越高，表明该玉米自交系耐低氮性越强。为此，以 $D$ 值为标准，将玉米自交系分为3级： $D \\geqslant 0 . 5$ 为Ⅰ级，属于耐低氮能力较强的玉米自交系； $0 . 3 5 { \\leqslant } D { < } 0 . 5$ 为ⅡI级，属于耐低氮能力中等的玉米自交系； $D { < } 0 . 3 5$ 为IⅢ级，属于耐低氮能力较差的玉米自交系。依次，可将37份玉米自交系分成3种类型,‘KB417'、‘L123098-2'、‘2013HXB1-4'、‘KB106'等15份自交系的 $D$ 值大于0.5，属于耐低氮能力较强的玉米自交系(表5)，而‘2014KA-60'、‘2013KA-34'、‘KB043'等7份玉米自交系耐低氮能力较差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用已求得的耐低氮能力综合值D和表型性状相对值构建最优回归方程，筛选耐低氮指标。以 $D$ 值为因变量 $( y )$ ，10个表型性状相对值为自变量，通过逐步回归分析构建的最优回归方程为：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d027fb79389d144e7f51dd77915faadce9142d17e794dc9203c0a9185cea362c.jpg",
+        "table_caption": [
+            "表5不同玉米自交系的耐低氮能力分类Table 5The classification of low nitrogen tolerance ability of different maize inbred lines"
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td>自交系 Inbred line</td><td>D值 D value</td><td>类型 Type</td><td>自交系 Inbred line</td><td>D值 D value</td><td>类型 Type</td><td>自交系 Inbred line</td><td>D值 D value</td><td>类型</td></tr><tr><td>KA203</td><td>0.553</td><td>I</td><td>KA008</td><td>0.449</td><td>Ⅱ</td><td>2013KA-34</td><td>0.329</td><td>Type Ⅲ</td></tr><tr><td>KA227</td><td>0.566</td><td>I</td><td>KA666-1</td><td>0.404</td><td>Ⅱ</td><td>2014KA-60</td><td>0.287</td><td>Ⅲ</td></tr><tr><td>KA225</td><td>0.529</td><td>I</td><td>KA101</td><td>0.368</td><td>Ⅱ</td><td>2013KB-37</td><td>0.343</td><td>Ⅲ</td></tr><tr><td>KB081</td><td>0.505</td><td>I</td><td>KA064</td><td>0.404</td><td>Ⅱ</td><td>KB043</td><td>0.315</td><td>Ⅲ</td></tr><tr><td>2011KB-14</td><td>0.554</td><td>I</td><td>KA105</td><td>0.384</td><td>Ⅱ</td><td>KB204</td><td>0.208</td><td>Ⅱ</td></tr><tr><td>KB417</td><td>0.576</td><td>I</td><td>KA103</td><td>0.460</td><td>Ⅱ</td><td>2014KB-54</td><td>0.295</td><td>Ⅱ</td></tr><tr><td>KB215</td><td>0.567</td><td>I</td><td>L123084-4</td><td>0.494</td><td>Ⅱ</td><td>郑 58 Zheng 58</td><td>0.345</td><td>Ⅱ</td></tr><tr><td>KB020</td><td>0.506</td><td>I</td><td>2014YLKA-58</td><td>0.424</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>L123094-4</td><td>0.570</td><td>I</td><td>KA059</td><td>0.350</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>L123098-2</td><td>0.640</td><td>I</td><td>2013XCA1-1</td><td>0.362</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>2013HXB1-4</td><td>0.615</td><td>I</td><td>2013YLD3A1-5</td><td>0.430</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>KB106</td><td>0.579</td><td>I</td><td>KB080</td><td>0.360</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>昌7-2 Chang 7-2</td><td>0.581</td><td>I</td><td>KB107</td><td>0.472</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>PH6WC</td><td>0.582</td><td>I</td><td>2013KB-47</td><td>0.458</td><td>Ⅱ</td><td></td><td></td><td></td></tr><tr><td>PH4CV</td><td>0.764</td><td>I</td><td>KB280</td><td>0.409</td><td>Ⅱ</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$y = - 0 . 9 6 6 + 0 . 3 5 8 X _ { 1 } + 0 . 5 6 9 X _ { 2 } + 0 . 2 1 2 X _ { 3 } + 0 . 1 9 7 X _ { 4 } + 0 . 1 6$ 50X10 (5)式中: $X _ { 1 }$ 、 $X _ { 2 }$ 、 $X _ { 3 }$ 、 $X _ { 4 }$ 和 $\\vert { X } _ { 1 0 }$ 分别为SPAD值、吐丝期绿叶面积、吐丝期茎干重、吐丝期叶干重和籽粒氮含量性对值，方程决定系数 $R ^ { 2 }$ 为0.977，说明这5个性状可决定总变异的 $9 7 . 7 \\% _ { \\circ } F$ 值为132.89，方程显著$( P { = } 0 . 0 0 0 \\ 1 )$ 。由以上回归方程可知，10个性状相对值中，吐丝期SPAD值、吐丝期绿叶面积、吐丝期茎干重、吐丝期叶干重和籽粒氮含量相对值可显著影响玉米自交系耐低氮能力综合值 $D$ ，可作为玉米自交系耐低氮能力的第2性状筛选指标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以产量作为第1性状指标，筛选出12份高产氮高效玉米自交系(图1)，结合以耐低氮能力综合值 $D$ 筛选的12份耐低氮能力较强的玉米自交系(表5),‘KB215'、‘KB417'、‘KA225'、‘KB081'、‘L123098-2'等5份玉米自交系表现为2种施氮条件下产量水平高，吐丝期SPAD值、吐丝期绿叶面积、吐丝期茎叶干重和籽粒氮含量高，具有较强的耐低氮能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "张兴华等[10以耐低氮胁迫指数为玉米表型性状的相对值，通过分析不同施氮水平下相关性状的变化，探讨玉米品种耐低氮能力鉴定指标，筛选耐低氮玉米品种。冯云超等[14以变异系数最大的氮胁迫下性状相对值为指标，通过隶属函数值进行不同类型氮效率玉米品种的筛选。陈范骏等[15]以高氮和低氮下的产量为指标进行不同氮效率玉米自交系的划分，结果表明骨干玉米自交系‘PH6WC'和‘昌7-2'属于双高效型，‘郑58'属于低氮高效型，‘PH4CV'属于双低效型。崔文芳[11]利用高氮下产量及耐低氮胁迫指数对自交系的划分结果表明，‘郑58'和‘PH6WC'属于双高类型，‘昌7-2'和‘PH4CV'为低产氮高效型。本研究以课题组构建的陕A群、陕B群为基础材料，通过多地点、高密度、低氮和干旱环境下多代自交选育的33份玉米自交系为试验材料，通过2种施氮水平，以第2性状的耐低氮能力综合值D筛选出15份耐低氮能力较强的玉米自交系，与以产量作为第1性状指标筛选结果基本一致，其中对照骨干玉米自交系‘昌7-2’、‘PH6WC'属于高产氮高效型，‘郑58'属于低产氮高效型，‘PH4CV'属于低产氮低效型，与陈范骏等[15的研究结果一致，进一步说明依据耐低氮能力综合值D进行玉米自交系耐低氮能力评价的可靠性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前，关于玉米耐低氮指标体系的建立与评估一直是国内外学者研究的热点[16-17]。刘建安等[18]提出将产量性状作为玉米自交系耐低氮筛选指标。低氮对玉米植株的影响是多方面的，单一地以产量作为筛选指标可能会因为环境和气候等因素造成偏差，而综合考虑所有相关性状会增加鉴定、筛选难度，有必要筛选评价耐低氮指标[14]。Lafitte和Edmeades[19]研究认为，在低氮和高氮条件下，穗位叶叶绿素浓度和叶面积、植株高度等可作为改良玉米氮效率的选择指标。崔文芳等[11]研究表明，籽粒吸氮量、吐丝期茎叶总氮可作为氮高效基因型筛选的重要指标。本研究以在施氮处理间和玉米自交系间存在显著性差异的性状为指标进行分析(更有利于玉米自交系间差异的比较)，求得耐低氮综合值 $D$ ，以 $D$ 值和10个性状的相对值进行回归分析，得到SPAD值、吐丝期绿叶面积、吐丝期茎干重、吐丝期叶干重和籽粒氮含量对 $D$ 的影响较大，可作为玉米自交系耐低氮能力的第2性状筛选指标。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在环境适宜的条件下，植株间性状接近，表现都较好，差异不明显。而在逆境条件下，个体间差异扩大，增加了选择效率[20]。要构建对生态环境(光、温、水和 $\\mathrm { C O } _ { 2 }$ 等)、资源供给(水肥等营养)高效的玉米群体，应是一个弱的竞争群体，具有良好的逆境适应性，即对环境和资源供给的适应性，不但在匮乏的环境中能高效利用资源，而且对作物群体中的相邻植株影响较少，植株间资源的竞争小。在现代玉米品种改良中要改进育种选择方式，强化逆境选择，实施低氮选择策略，是提高品种对逆境适应性的重要途径。通过2种施氮水平的试验，阐明了33份玉米自交系氮效率差异特征，筛选氮高效的玉米自交系，证实了通过低氮胁迫选择氮高效玉米的可行性。本试验仅从玉米籽粒产量和一些相关生理指标进行分析，玉米自交系氮效率受遗传、育种、生理和生态等方面的综合影响，应通过多年多点的系统研究，从不同角度、层次和水平，综合进行评价分析，进一步阐明逆境选择的重要性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Good AG,Beatty PH.Fertilizing nature:A tragedy of excess in the commons[J].PLoS Biology,2011,9(8): e1001124   \n[2]Liu X J,Zhang Y,Han W X,et al.Enhanced nitrogen deposition over China[J].Nature,2013,494(7438):459-462   \n[3] Fan M S,Shen JB,Yuan L X,et al. Improving crop productivity and resource use efficiency to ensure food security and environmental quality in China[J].Journal of Experimental Botany,2012,63(1):13-24   \n[4]Chen YL,Xiao C X,Chen X C,et al.Characterization of the plant traits contributed to high grain yield and high grain nitrogen concentration in maize[J].Field Crops Research, 2014,159:1-9   \n[5] Chen YL,Xiao C X,Wu D L,et al. Effects of nitrogen applicationrateongrain yield andgrainnitrogen concentration in two maize hybrids with contrasting nitrogen remobilization efficiency[J]. European Journal of Agronomy, 2015,62:79-89   \n[6] Duvick D N. What is yield?[C]/Proceedings of Developing Drought and Low N-Tolerant Maize.El Batan，Mexico: CIMMYT,1996:332-335   \n[7] Tollenaar M. Seeking the upper limit of corn production[J]. Batter Crops,1986:6-8   \n[8]杨晓钦，张仁和，薛吉全，等．非生物胁迫对玉米杂交种及 其亲本自交系产量性状的影响[J]．作物学报，2013，39(7): 1325-1329 Yang XQ,Zhang RH,Xue JQ,et al.Effects of abiotic stress on yield traits of maize hybrids and their parental inbred lines[J].Acta Agronomica Sinica,2013,39(7): 1325-1329   \n[9]刘建安，米国华，张福锁．不同基因型玉米氮效率差异的 比较研究[J]．农业生物技术学报,1999,7:248-254 Liu JA,Mi G H, Zhang F S.Difference in nitrogen efficiency among maize genotypes[J]. Journal of Agricultural Biotechnology, 1999, 7: 248-254   \n[10]张兴华，薛吉全，刘万锋，等．不同玉米品种耐低氮能力鉴 定与评价[J]．西北农业学报,2010,19(8):65-68 Zhang X H,Xue JQ,Liu W F,et al. Screening and identification of low nitrogen tolerance in different maize hybrids[J].Acta Agriculturae Boreali-Occidentalis Sinica, 2010,19(8): 65-68   \n[11]崔文芳，高聚林，王志刚，等．玉米自交系氮效率基因型差 异分析[J].玉米科学,2013,21(3):6-12 Cui W F, Gao JL,Wang Z G, et al. Analysis on genotypic difference in nitrogen efficiency of maize inbred lines[J]. Journal of Maize Sciences,2013,21(3):6-12   \n[12]王晓慧，曹玉军，魏雯雯，等．我国北方37个高产春玉米 品种干物质生产及氮素利用特性[J]．植物营养与肥料学报, 2012,18(1): 60-68 Wang X H, Cao Y J,Wei W W. Characteristics of dry matter production and nitrogen use eficiency of 37 spring maize hybrids with high-yielding potential north of China[J].Plant Nutrition and Fertilizer Science,2012,18(1): 60-68   \n[13]胡标林，李霞，万勇，等．东乡野生稻 BILs 群体耐低氮性 表型性状指标筛选及其综合评价[J]．应用生态学报，2015, 26(8): 2346-2352 Hu B L，Li X,Wan Y,et al． Index screening and comprehensive evaluation of phenotypic traits of low nitrogen tolerance using BILs population derived from Dongxiang wild rice (Oryza rufipogon Griff.)[J]. Chinese Journal of Applied Ecology,2015,26(8):2346-2352   \n[14]冯云超，余志江，霍仕平，等.37个玉米品种耐低氮能力潜 势分析[J]．华北农学报,2014,29(S1):310-317 Feng Y C,Yu Z J,Huo S P,et al.Analyse for low nitrogentolerance potential of 37 maize varieties[J].Acta Agriculturae Boreali-Sinica,2014,29(S1): 310-317   \n[15] 陈范骏，陈新平．2014 年国家玉米产业技术体系科企学术 研讨会论文集[C].广州,2015 Chen F J,Chen X P.Proceedings of the Academic Seminar about Corn Industry Technology System in 2014[C]. Guangzhou, 2015   \n[16]王玲敏，叶优良，陈范骏，等．施氮对不同品种玉米产量、 氮效率的影响[J]．中国生态农业学报,2012,20(5):529-535 Wang L M, Ye Y L,Chen F J,et al. Effect of nitrogen fertilization on maize yield and nitrogen efficiency of different maize varieties[J]. Chinese Journal of EcoAgriculture,2012,20(5):529-535   \n[17]黄高宝，张恩和，胡恒觉．不同玉米品种氮素营养效率差 异的生态生理机制[J]．植物营养与肥料学报，2001，7(3): 293-297 Huang G B, Zhang E H, Hu HJ. Eco-physiological mechanism on nitrogen use efficiency difference of corn varieties[J]. Plant Nutrition and Fertilizer Science,2001,7(3):293-297   \n[18]刘建安，米国华，陈范骏，等．玉米杂交种氮效率基因型差 异[J]．植物营养与肥料学报,2002,8(3):276-281 Liu JA,Mi G H,Chen F J,et al. Genotype differences on nitrogen use efficiency among maize hybrids[J].Plant Nutrition and Fertilizer Science,2002,8(3): 276-281   \n[19] Lafitte H R,Edmeades G O.Association between traits in tropical maize inbred lines and their hybrids under high and low soil nitrogen[J]. Maydica,1995,40(3): 259-267   \n[20]张铭堂，张国良，才卓．玉米自交系选育的理论基础与实 践经验[J]．玉米科学,2010,18(2):1-4 Zhang M T,Zhang G L,Cai Z.Theoretical foundation and practice experience of breeding for maize inbred lines[J]. Journal of Maize Sciences,2010,18(2): 1-4 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

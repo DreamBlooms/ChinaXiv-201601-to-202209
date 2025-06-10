@@ -1,0 +1,130 @@
+# 临床研究
+
+# 胚胎移植术后9和11d血清β-HCG值对妊娠结局的预测价值
+
+陈彩蓉1,²,全 松¹，王秋香²,李艳红²,邱佩嫦²,赵晓英²，周林荣²，郭海燕²  
+1南方医科大学南方医院妇产科生殖医学中心,广东广州 510515;清远市人民医院//广州医科大学附属第六  
+医院生殖医学中心，广东 清远511518
+
+摘要：目的探讨胚胎移植术后9d和11d血清β人绒毛膜促性腺激素(β-HCG)水平对体外受精/胚胎移植(IVF-ET)或冻融复苏胚胎移植(FET)术后妊娠结局早期诊断的预测价值。方法 选择2012年12月\~2014年2月清远市人民医院生殖医学中心227个胚胎移植周期，胚胎移植后9d和11d检测血清 $\mathsf { \beta }$ -HCG,并追踪妊娠结局，应用ROC曲线确定移植后9d和11d具有预测各种妊娠结局的最佳血清β-HCG界值。结果(1)将患者妊娠结局分为：未孕组(A）、生化妊娠组(B)和临床妊娠组(C);A、B、C3组移植后9d和11d血清 $\beta$ -HCG值组间比较差异显著 $\scriptstyle - { P < 0 . 0 1 }$ );(2)C组内分为单胎妊娠组(C1）双胎妊娠组(C2）、早孕流产组(C3）、宫外孕组(C4）、宫内合并宫外孕组(C5);C1\~C5五组9d和11d血清 $\beta$ -HCG值组间比较差异显著( $P { < } 0 . 0 1 \rangle$ ；(3)移植后9d，预测临床妊娠和双胎妊娠的β-HCG最佳阈值分别为 $4 9 . 0 5 \mathrm { U / L }$ 和 $1 0 5 . 1 5 \mathrm { U / L }$ ;移植后11d,预测临床妊娠和双胎妊娠的β-HCG最佳阈值分别为 $5 1 . 2 \mathrm { U / L }$ 和 $2 4 1 . 7 5 \mathrm { U } / \mathrm { L }$ 。结论 胚胎移植后9d及11d的血清 $\mathsf { \cdot } \mathsf { \beta }$ -HCG定量可准确诊断是否妊娠,并可以预测生化妊娠、临床妊娠，及单双胎妊娠等不同妊娠结局。
+
+关键词：血清 $\mathsf { \cdot \{ \beta \} }$ -HCG；胚胎移植；妊娠结局
+
+# Value of serum beta-human chorionic gonadotropin on day 9 and 11 after embryc transfer in predicting pregnancy outcomes
+
+CHENCairong2QuANSong,WANGQiuxiang,Ynong，QPeichang²,ZHAOXiaoying,ZHOuLinrong,G CenterofReproductive Medicine,Department of Gynecology $\mathcal { E }$ Obstetrics,Nanfang Hospital,Southern Medical University,Guangzhou 510515,Cinateofeputeciegple'sialithfledHialfagocali Qingyuan 511518, China
+
+Abstract: Objective To investigate the value of serum beta-human chorionic gonadotropin ( $\mathrm { | \beta | }$ -HCG) on days 9 (d9) and 11 (d11)after fresh embryo transfer (ET)and frozen-thawed embryo transfer (FET)in predicting the pregnancy outcomes. Methods A total of 227 fresh ETandFET cycles performed at the Center of Reproductive Medicine, Qingyuan People's Hospital between Dec, 2012 and Feb,2014 were analyzed. The data of serum $\beta$ -HCG levels on d9 and d11 after fresh ET and FET cycles and the pregnancy outcomes were reviewed,and the ROCcurve was constructed todetermine the optimalcut-off level of serum $\beta$ -HCG level for predicting pregnancy outcomes. Results According to pregnancy outcomes, the cycles were divided into non-pregnancy group (group A),biochemical pregnancy group (groupB),and clinical pregnancy group (group C). Significant differences were found between the mean serum $\beta$ -HCG levels measured on d9 and d11 in all the 3 groups $\scriptstyle { \mathrm { : } } P <$ 0.01).The cycles in group C were further divided into 5subgroups with single pregnancy (C1),twin pregnancy (C2),early abortion (C3),ectopic pregnancy (C4),or intrauterinepregnancyomplicated with etopic pregnancy group(C5),adlthe 5 subgroups showed significant differences in $\beta$ -HCG measurements between d9 and d11 $( P { < } 0 . 0 1 )$ . On d9 after ET and FET, the optimal cut-off level of serum $\beta$ -HCG was $4 9 . 0 5 \ : \mathrm { I U / L }$ for predicting for clinical pregnancy, and was $1 0 5 . 1 5 ~ \mathrm { I U / L }$ for predicting twin pregnancy; the two corresponding cut-off levels of serum $\beta$ -HCG on d11 was $5 1 . 2 ~ \mathrm { I U / L }$ and $2 4 1 . 7 5 ~ \mathrm { I U / L } ,$ respectively. Conclusion The absolute serum $\beta$ HCG level on d9 and d11 after fresh ET and FET allows an accurate diagnosis of pregnancy and helps in the prediction of the pregnancy outcomes.
+
+Key words: serum beta-human chorionic gonadotropin; embryo transfer; pregnancy outcome
+
+自1978年首例试管婴儿出生至今，体外受精胚胎移植技术(IVF-ET)已取得了巨大的进展，被认为是不孕症夫妇最终的治疗手段。临床上IVF-ET患者的治疗结局主要包括：未孕、生化妊娠、临床妊娠(包括单胎、双胎及以上多胎、宫外孕、宫内外同时妊娠、流产等）。然而，接受IVF-ET技术治疗的妇女妊娠并发症的发生率却远高于自然妊娠，其中，流产率为 $7 . 1 1 \% \sim$ $8 . 1 4 \% ^ { [ 1 ] }$ ,宫外孕发生率为 $0 . 3 \% { \sim } 7 . 7 \% ^ { [ 2 . 4 ] }$ ,而多胎率可高达 $1 6 . 7 \% { \sim } 6 1 . 3 \% ^ { [ 5 . 7 ] }$ ,这些并发症严重者可能危及患者健康和生命。对IVF-ET治疗结局的早期准确预测，一方面可以缓解患者精神压力和减少不必要的医疗费用，另一方面更有助于医生对患者进行后续监测和管理及早干预及治疗妊娠并发症，最大程度降低严重并发症对患者造成的身心危害。因此，探索胚胎移植术后对妊娠结局有预测价值的可靠指标具有重要的临床价值。
+
+血清 $\mathsf { \cdot \{ \beta \} }$ -HCG测定和阴道B超检查是早期妊娠常用的检测方法，但阴道B超在妊娠5\~6周前的作用有限，血清 $\beta$ -HCG是胚胎移植术后临床用来确定早期妊娠和预测治疗结局的有用指标。目前，国内普遍采用在胚胎移植术后14\~16d通过测血 $\beta$ -HCG的方法来诊断妊娠和判断预后[8-9]。那么,这个时间点是否可以前移及最早可以前移到什么时候呢？本研究将测血β-HCG的时间点前移至胚胎移植术后9d,探讨胚胎移植术后9d和11d血清 $\beta$ -HCG值对妊娠结局的预测价值。
+
+# 1资料与方法
+
+# 1.1研究对象
+
+选择2012年12月\~2014年2月在清远市人民医院生殖医学中心行常规体外受精(IVF)或单精子卵胞浆内注射(ICSI)并行胚胎移植术的患者，纳人标准： $\textcircled{1}$ 接受新鲜或冻融胚胎移植术； $\textcircled{2}$ 所有移植胚胎均为受精后72h卵裂期胚胎； $\textcircled{3}$ 胚胎移植后9d和11d在本中心进行血清 $\mathsf { \beta }$ -HCG检测以确诊是否妊娠； $\textcircled{4}$ 对于已妊娠者，胚胎移植后 $2 8 ~ \mathrm { d B }$ 超检查确定是否临床妊娠，并至少随访至孕12周。共纳入210例患者，累计接受227个移植周期，年龄 $3 1 . 0 7 { \scriptstyle \pm 4 . 3 8 }$ 岁，其中新鲜胚胎移植周期127个，冻融胚胎移植周期100个，平均每周期移植胚胎数为1.9个(1\~2个)。
+
+# 1.2 方法
+
+# 1.2.1 治疗方案
+
+1.2.1.1 新鲜胚胎移植周期所有患者均采用短效长方案：于月经第21天使用达菲林(促性腺激素释放激素激动剂，GnRHa) $0 . 0 5 { \sim } 0 . 1 \ \mathrm { m g }$ 皮下注射15d降调节，降调达标后，采用FSH/HMG/HCG方案促超排卵，期间通过阴道B超和监测血清激素水平(LH、P、E2)监测卵泡发育情况，当1个优势卵泡直径 ${ \geq } 1 9 ~ \mathrm { m m }$ ，或2\~3个优势卵泡 $\mathrm { \gtrsim } 1 7 ~ \mathrm { m m }$ ,血E达到平均每个优势卵泡 $\mathrm { \langle { \geqslant } 1 4 ~ m m }$ 卵泡 $1 2 5 0 { \sim } 3 0 0 ~ \mathrm { p g / m L }$ 时，停用Gn,当晚注射HCG5000\~$1 0 0 0 0 \mathrm { I U } , 3 6 \mathrm { h }$ 后B超引导下经阴道取卵，根据患者情况进行IVF或ICSI受精， $7 2 \mathrm { ~ h ~ }$ 选取优质胚胎进行移植（移植胚胎数目 ${ \leqslant } 2$ 枚),取卵后常规予黄体酮 $6 0 { \sim } 8 0 ~ \mathrm { m g }$ 支持至妊娠10周，部分患者于移植日、移植后3d和6d采用HCG2000U肌注。
+
+1.2.1.2冻融胚胎移植周期自然周期冻融胚胎移植：在自然月经周期第10天开始B超和血清黄体生成激素(LH)监测排卵，至卵泡破裂。排卵后3d移植第3天胚胎(移植胚胎数目 ${ \leqslant } 2$ 枚)。自排卵后予黄体酮 $4 0 ~ \mathrm { m g \sim }$ $6 0 ~ \mathrm { m g / }$ 日支持至妊娠10周,部分患者于移植日、移植后3d和6d采用HCG2000U肌注。
+
+促排卵周期冻融胚胎移植：应用来曲唑/FSHHMG促排卵，卵泡发育到 $1 8 { \sim } 2 0 ~ \mathrm { m m }$ 时给予 $\mathrm { H C G 5 0 0 0 \sim }$ 10000U以诱发排卵。排卵后3d移植第3天胚胎(移植胚胎数目 ${ \leqslant } 2$ 枚)。自排卵后予黄体酮 $4 0 \mathrm { \ m g { \sim } } 6 0 \mathrm { \ m g / d }$ 支持至妊娠10周，部分患者于移植日、移植后3d和6d采用HCG2000U肌注。
+
+人工周期冻融胚胎移植：从月经或撤退性出血的第2\~3天起，戊酸雌二醇 $2 { \sim } 8 \ \mathrm { m g } / \mathrm { d } , 8 { \sim } 1 4 \ \mathrm { d }$ 后根据B超监测子宫内膜厚度，酌情调整戊酸雌二醇剂量；内膜${ \geqslant } 8 \ \mathrm { m m }$ 时，肌注黄体酮 $4 0 { \sim } 8 0 \ \mathrm { m g / d }$ ，在给黄体酮第4天移植第3天的胚胎(移植胚胎数目 ${ \leqslant } 2$ 枚);移植后继续予戊酸雌二醇和黄体酮支持至妊娠10\~12周。
+
+1.2.2 血清 $\beta$ -HCG测定于胚胎移植后第9天、第11天上午8\~9点空腹抽取静脉血 $2 { \mathrm { m L } }$ ,离心分离获得血清，测定血清 $\beta$ -HCG的浓度。测定方法采用化学发光法（美国贝克曼公司DIX80,试剂盒亦由该公司提供)，每天室内质控均在控。
+
+1.2.3妊娠结局的判定将患者妊娠结局分为：未孕(A组）、生化妊娠(B组)和临床妊娠(C组)，C组内分为单胎妊娠组(C1)、双胎妊娠组(C2）、早孕流产组(C3）、宫外孕组(C4)、宫内合并宫外孕组(C5)。各组判断标准如下：从胚胎移植后监测血β-HCG值 ${ < } 1 0 \mathrm { U / L }$ 为未孕(A组);从胚胎移植后监测至孕12周，血 $\beta$ -HCG值先暂时性升高( $\left( > 1 0 \mathrm { U / L } \right)$ ,但超声检查宫内及宫外未见孕囊者诊断为生化妊娠(B组);移植后 $\beta$ -HCG值升高且超声检查子宫内或宫外有孕囊者，诊断为临床妊娠(C组)，C组中一个孕囊位于宫内者为单胎妊娠组(C1组)，两个孕囊位于宫内者为双胎妊娠组(C2组)，经B超证实宫内有妊娠囊，但未及胎心搏动或虽有胎心搏动仍于孕12周内流产者为早孕流产组(C3组)，B超或手术和病理证实孕囊位于子宫以外部位者为宫外孕(C4组)，B超或手术和病理证实孕囊同时位于宫内及宫外称宫内合并宫外孕组(C5组)。
+
+1.2.4统计学处理数据用SPSS19.0软件包进行处理，计量资料采用均数 $\trianglerighteq$ 标准差表示，由于数据不符合正态分布，因此应用Kruska-Walis进行非参数检验比较各组之间的差异，并且应用ROC曲线计算出一个界值，以此界值反映出所测 $\beta$ -HCG的最大敏感度和特异度，预测妊娠结局。ROC 曲线下面积(Areas Under the Curve,AUC)的统计学意义如下： ${ \mathrm { A U C } } { < } 0 . 5$ 没有预测价值，$0 . 5 { \leqslant } \mathrm { A U C } { < } 0 . 7$ 具有较少的预测价值， $0 . 7 { \leqslant } \mathrm { A U C } { < } 0 . 9$ 具有中度预测价值， $0 . 9 { \leqslant } \mathrm { A U C } { < } 1$ 具有较高的预测价值，AUC $\scriptstyle : = 1$ 预测价值最佳。
+
+# 2结果
+
+2.1227个移植周期患者的基本情况患者的年龄为 $3 1 . 0 7 { \scriptstyle \pm 4 . 3 8 }$ 岁，体质量指数(BMI)为
+
+$2 1 . 4 8 { \pm } 3 . 0 2$ ,移植日子宫内膜厚度为 $1 0 . 8 0 { \scriptstyle \pm 2 . 5 5 ~ \mathrm { m m } }$ A、B、C1、C2、C3、C4、C5各组之间均无统计学差异( $P >$ 0.05,表1)。
+
+表1227个移植周期患者的基本情况 Tab.1 General demographic and clinical data of the cycles and pregnancy outcomes   
+
+<html><body><table><tr><td>Group</td><td>N (cycles)</td><td>Age (year)</td><td>BMI</td><td>Endometrium thickness (mm)</td></tr><tr><td>A</td><td>99</td><td>31.86±4.96</td><td>21.63±3.13</td><td>10.82±3.29</td></tr><tr><td>B</td><td>16</td><td>31.94±4.92</td><td>22.36±3.61</td><td>10.38±1.90</td></tr><tr><td>C</td><td>112</td><td>30.25±3.57</td><td>21.23±2.83</td><td>10.83±1.78</td></tr><tr><td>C1</td><td>63</td><td>30.41±3.89</td><td>21.06±2.60</td><td>11.12±1.72</td></tr><tr><td>C2</td><td>36</td><td>29.92±3.08</td><td>20.79±3.03</td><td>10.58±1.90</td></tr><tr><td>C3</td><td>5</td><td>31.80±4.87</td><td>24.24±3.40</td><td>9.86±1.48</td></tr><tr><td>C4</td><td>7</td><td>29.86±1.77</td><td>22.30±1.96</td><td>10.60±1.63</td></tr><tr><td>C5</td><td>1</td><td>27.00</td><td>25.20</td><td>8.50</td></tr><tr><td>Total</td><td>227</td><td>31.07±4.38</td><td>21.48±3.02</td><td>10.80±2.55</td></tr></table></body></html>
+
+A:Non-pregnancy group; B:Biochemical pregnancy group; C: Clinical pregnancy group; C1: Single pregnancy group; C2:Twin pregnancygroup;C3:Earlyabortion group; C4:Ectopic pregnancy group; C5:Intrauterine pregnancycomplicated with ectopic pregnancy group.
+
+# 2.2 胚胎移植术后不同治疗结局患者的血清9d和11d$\beta \mathrm { . }$ -HCG比较
+
+行胚胎移植周期227个，诊断为未孕(A组)的99周期，诊断为生化妊娠(B组)的16周期，诊断为临床妊娠(C组)的112周期。各组在移植后9d和11d $\beta$ -hCG值(表2)。
+
+表23种不同治疗结局患者血清后9和11d $\beta$ -HCG值比较 Tab.2 Serum $\beta$ -HCG levels on d9 and d11 in 3 groups with different pregnancy outcomes (Mean±SD,IU/L)   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>d9β-HCGa</td><td>d11β-HCGb</td><td>Ratio of d11/d9 β-HCG</td></tr><tr><td>A</td><td>99</td><td>7.49±5.54</td><td>2.71±2.36</td><td>0.30</td></tr><tr><td>B</td><td>16</td><td>35.89±25.25</td><td>45.54±49.43</td><td>1.05</td></tr><tr><td>C</td><td>112</td><td>81.27±48.04</td><td>228.09±157.15</td><td>2.74</td></tr></table></body></html>
+
+a: $\chi ^ { 2 } { = } 1 6 2 . 2 9$ $\scriptstyle P = 0 . 0 0 0$ ；b: $\chi ^ { 2 } { = } 1 7 7 . 4 5$ ， $\scriptstyle P = 0 . 0 0 0$ for comparison between the 3 groups.
+
+# 2.3临床妊娠组不同结局患者血清后9d和11d $\beta$ -HCG 值的比较
+
+临床妊娠中单胎妊娠(C1组)63周期，双胎妊娠(C2组)36周期，早期流产(C3组)5周期，宫外孕(C4组)7周期，宫内合并宫外孕(C5组)1周期，各组间在移植后第9天β-hCG与移植后第11天 $\mathbf { \boldsymbol { \cdot } } \mathbf { \boldsymbol { \beta } }$ -hCG见表3。C5组由于例数较少，未参与比较。
+
+表3临床妊娠不同结局患者血清后9d和11d $\beta$ -HCG比较 Tab.3 Comparison of serum $\beta$ -HCG levels ond9andd11between the subgroups of group $\mathrm { ~ C ~ } ( M e a n { \pm } S D ,$ IU/L)   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>d9β-HCGa</td><td>d11β-HCGb</td><td>Ratio of d11/d9 β-HCG</td></tr><tr><td>C1</td><td>63</td><td>62.95±31.55</td><td>166.43±89.46</td><td>2.72</td></tr><tr><td>C2</td><td>36</td><td>127.93±40.61</td><td>379.71±157.42</td><td>2.81</td></tr><tr><td>C3</td><td>5</td><td>42.76±22.00</td><td>89.54±22.99d</td><td>2.29</td></tr><tr><td>C4</td><td>7</td><td>27.09±24.10</td><td>80.47±45.00</td><td>3.15</td></tr></table></body></html>
+
+a: $\chi ^ { 2 } { = } 5 6 . 6 7$ ， ${ \cal P } { = } 0 . 0 0 0$ ;b: $\chi ^ { 2 } { = } 5 7 . 9 6$ 5 $\scriptstyle P = 0 . 0 0 0$ for comparison between the 4 groups; c, d, $P { > } 0 . 0 5$ between C3 and C4.
+
+# 2.4移植9d及11d血清 $\beta$ -HCG的ROC曲线可预测生 化妊娠和临床妊娠
+
+生化妊娠和临床妊娠以移植后9d $\beta$ J $\operatorname { I C G = } 4 9 . 0 5 \operatorname { U / L }$ 为界值时，预测临床妊娠的敏感度为 $7 3 . 2 \%$ ,特异度为 $8 7 . 5 \%$ ,阳性预测率为 $7 . 6 \% ( \mathrm { { \beta } . \mathrm { { H C G } = 4 9 . 0 5 \mathrm { { U } / L } } }$ 时提示为临床妊娠),阴性预测率为 $3 1 . 8 \% ( \beta \mathrm { - } \mathrm { H C G } < 4 9 . 0 5$ U/L时提示为生化妊娠);11d以 $\mathrm { \beta _ { \mathrm { B - H C G = 5 1 . 2 ~ U / L } } }$ 为界值时，预测临床妊娠的敏感度为 $9 8 . 2 \%$ ,特异度为$8 7 . 5 \%$ ,阳性预测率为 $9 8 . 2 \% \mathrm { ( \beta \mathrm { - } H C G \geqslant 5 1 . 2 \ U / L }$ 时提示为临床妊娠)，阴性预测率为 $8 7 . 5 \% ( \beta \mathrm { - } \mathrm { H C G } < 5 1 . 2 \ \mathrm { U / L }$ 时提示为生化妊娠)；移值后9及11d的ROC曲线下面积分别为0.815与0.948，具有预测价值(图1)。
+
+2.5移植9d及11d血清 $\beta$ -HCG的ROC曲线可预测单 胎和多胎妊娠
+
+![](images/9c61470f0cb8a4121a3b1a2365cd104e3840c5edbf9eb1b4916b743a00baa189.jpg)  
+图1预测生化妊娠及临床妊娠血清β-hCGROC曲线 Fig.1ROC Curve of $\mathsf { \beta { - } h C G }$ for predicting biochemical pregnancy and clinical pregnancy.
+
+单胎及双胎妊娠移植9d以 $\beta { \mathrm { - } } \mathrm { H C G } { = } 1 0 5 . 1 5 \ \mathrm { U / L }$ 为界值时，预测双胎妊娠的敏感度为 $8 1 . 1 \%$ ，特异度为$9 0 . 5 \%$ ，阳性预测率为 $8 2 . 9 \% ( \beta \mathrm { - } \mathrm { H C G } \geqslant 1 0 5 . 1 5 \mathrm { U / L }$ 时提示为双胎妊娠),阴性预测率为 $8 9 . 0 6 \% ( \beta \mathrm { - } \mathrm { H C G } < 1 0 5 . 1 5 \mathrm { U / L }$ 时提示为单胎妊娠);11d以 $\beta \mathrm { - } \mathrm { H C G } { = } 2 4 1 . 7 5 \mathrm { U / L }$ 为界值时，预测双胎妊娠的敏感度为 $8 3 . 8 \%$ ,特异度为 $8 7 . 3 \%$ ，阳性预测率为 $7 8 . 9 \% ( \beta \mathrm { - } \mathrm { H C G } \geqslant 2 4 1 . 7 5 \mathrm { U / L }$ 时提示为双胎妊娠),阴性预测率为 $9 0 . 1 6 \% ( \beta \mathrm { - } \mathrm { H C G } < 2 4 1 . 7 5 \mathrm { U / L }$ 时提示为单胎妊娠)。9d及11d的ROC曲线下面积较为接近(0.897与0.899)，具有预测价值(图2)。
+
+![](images/ddc79b413629bd853d7b250e50573491261d5e5c54c4a347e35eb2a809b67f4a.jpg)  
+图2预测单胎妊娠及双胎妊娠血清β-hCGROC曲线 Fig.2 ROC curve of $\beta$ hCG for predicting single pregnancy and twin pregnancy.
+
+# 3讨论
+
+3.1移植术后9和11d血清 $\mathbf { \nabla } \beta$ -hCG值对治疗结果的早期诊断作用
+
+不孕症患者普遍存在焦虑心理，胚胎移植术后希望尽早知晓治疗结果。目前国内生殖中心判断患者是否妊娠普遍选用的时间点是胚胎移植术后的 $1 4 { \sim } 1 6 \mathrm { d } ^ { [ 8 - 9 ] }$ U那么，这个时间点是否可以前移及最早可以前移到什么时候呢?
+
+Caroline等[1]通过对154例患者177个IVF周期的检测，发现ET后12d(即取卵后15d)血 $\beta$ -hCG值可准确诊断妊娠和预测妊娠结局。Legro等[12对77例胚胎移植后9d的供卵IVF周期使用放射免疫法测定 $\beta$ -hCG值，发现虽然受精后6d滋养层形成时开始分泌微量HCG，但胚胎移植后9d可能由于胚胎延迟着床，或滋养细胞的增殖还没有达到一定的数量时不能分泌足够量的HCG，因此胚胎移植后9d单纯进行 $\mathsf { \ddot { \rho } }$ -HCG的测定不能准确地预测妊娠结局。而黄仲英等3则采用微粒子酶免疫分析法(MEIA)对80例IVF-ET术后的患者于胚胎移植后2d隔日测血 $\beta$ -hCG，发现未孕组在移植后8d降至 $0 { \sim } 1 6 ( \mathrm { m U / m L }$ ),多数在10d降至0,宫内继续妊娠组在移植后8或10d开始有不同程度的回升，且从8d开始，妊娠组血 $\beta$ -hCG水平明显高于未孕组，差异有显著性，因此，作者认为IVF-ET妊娠的早期诊断，至少可提前到ET后12或10d,甚至可早至ET后 $8 \mathrm { d } _ { \circ }$
+
+鉴于以上报道，目前胚胎移植术后第9\~11天血清$\beta$ -hCG值对IVF治疗结局的判断和妊娠结局的预测尚无明确结论。因此，本文采用化学发光法对227名行胚胎移植术的患者在移植后9d和11d检测其血$\beta$ -hCG值对她们的治疗结局进行了早期诊断。本文结果表明,未孕组9d血 $\beta$ -hCG值为 $7 . 4 9 { \pm } 5 . 5 4 \mathrm { U } / \mathrm { L } ( 0 { - } 2 2$ （204号U/L),11 d血 $\beta$ -hCG值为 $2 . 7 1 { \scriptstyle \pm 2 . 3 6 } \mathrm { U } / \mathrm { L } ( 0 { \sim } 1 0 \mathrm { U } / \mathrm { L } )$ ，明显低于生化妊娠和临床妊娠组。大部分未孕组患者9d血 $\beta$ -hCG值已经降至诊断界值 $1 0 ~ \mathrm { U / L }$ 以下,但由于部分患者黄体支持时应用了外源性HCG的干扰，导致这部分未孕患者9d血 $\beta$ -hCG值高于诊断界值 $1 0 \mathrm { U / L }$ ，但所有未孕组患者11d血 $\beta$ -hCG值较9d均有进一步下降趋势，11d与9d $\beta$ -hCG比值为0.27，明显低于生化妊娠组(0.86)和临床妊娠组(2.63)。与Legro等²的结论一致，本文中单次检测移植9d血 $_ { \mathrm { \beta - h C G } }$ 值并不能准确判是否妊娠，但9d、11d血 $\beta$ -hCG值结合11d与9d $\beta$ -hCG比值则可准确诊断是否妊娠的治疗结局。对于这部分明确种植失败的患者，则可及时终止不必要的黄体酮注射，减少她们身体的痛苦和心理焦虑等待的时间。
+
+3.2移植后9d和11d血β-hCG值对妊娠结局的预测价值胚胎移植术后早期血 $\beta$ -hCG值不仅具有诊断患者是否妊娠的作用，而且具有预测患者妊娠结局(如：生化妊娠、流产、异位妊娠、多胎妊娠等)的功能[14-15]。
+
+本研究显示临床妊娠组IVF-ET后9d和11d血清 $\beta$ -hCG值高于生化妊娠组，且以移植9d $\scriptstyle { \mathrm { { \{ \beta - H C G = } } } $ $4 9 . 0 5 \mathrm { U / L }$ 为界值时，预测临床妊娠的敏感度为 $7 3 . 2 \%$ ，特异度为 $8 7 . 5 \%$ ，阳性预测率为 $9 7 . 6 \% ( \mathrm { H C G } { \geqslant } 4 9 . 0 5 \ \mathrm { U / L }$ 时提示为临床妊娠），阴性预测率为 $3 1 . 8 \%$ （ $\mathrm { H C G } <$ $4 9 . 0 5 ~ \mathrm { U / L }$ 时提示为生化妊娠);而以移植 $1 1 \mathrm { d } \beta \mathrm { - } \mathrm { H C G = }$ $5 1 . 2 ~ \mathrm { U / L }$ 为界值时，预测临床妊娠的敏感度可达到$9 8 . 2 \%$ ,特异度为 $8 7 . 5 \%$ ,阳性预测率 $9 8 . 2 \%$ （ $\mathrm { H C G } \geqslant$ $5 1 . 2 ~ \mathrm { U / L }$ 时提示为临床妊娠)，阴性预测率为 $8 7 . 5 \%$ $\mathrm { ( H C G < 5 1 . 2 U / L }$ 时提示为生化妊娠)；11d的ROC曲线下面积为0.948,提示 $1 1 { \mathrm { ~ d ~ } } \beta$ -HCG对于生化妊娠或临床妊娠的结局具有高度预测价值。
+
+IVF-ET后多胎妊娠的发生率远高于自然妊娠。本研究中双胎妊娠率为 $3 2 . 1 4 \% ( 3 6 / 1 1 2 )$ 。双胎妊娠组的9d和11d血清 $\beta$ -HCG水平显著高于单胎妊娠组（ $1 2 7 . 9 3 { \scriptstyle \pm 4 0 . 6 1 }$ vs $6 2 . 9 5 { \pm } 3 1 . 5 5 ~ \mathrm { I U / L } , 3 7 9 . 7 1 { \pm } 1 5 7 . 4 2 ~ v s$ （204号$1 6 6 . 4 3 { \pm } 8 9 . 4 6 \mathrm { I U / L } )$ ,而两组间 $1 1 \mathrm { d } / 9 \mathrm { d } \beta$ -HCG比值并无显著差异，这说明HCG绝对定量与胚胎着床数目有关，而HCG倍增速度则可能与滋养细胞的发育有关。本研究中，单胎及双胎妊娠以移植9（ $\mathrm { 1 \ \beta \beta \mathrm { - } H C G = }$ $1 0 5 . 1 5 ~ \mathrm { U / L }$ 为界值时，预测单胎妊娠的敏感度为$8 1 . 1 \%$ ,特异度为 $9 0 . 5 \%$ ,阳性预测率为 $8 2 . 9 \%$ ,阴性预测率为 $8 9 . 0 6 \%$ ;11d以 $\beta { \mathrm { - } } \mathrm { H C G } { = } 2 4 1 . 7 5 ~ \mathrm { U / L }$ 为界值时,预测单胎妊娠的敏感度为 $8 3 . 8 \%$ ,特异度为 $8 7 . 3 \%$ ，阳性预测率为 $7 8 . 9 \%$ ,阴性预测率为 $9 0 . 1 6 \%$ 。9d及11d的β-HCG值对单双胎具有相似的预测价值(9d及11d的ROC曲线下面积分别为0.897与0.899)。目前国内外文献关于单次血清 $\beta$ -HCG值预测多胎妊娠的最早时间为胚胎移植后 $1 2 \mathrm { d } ^ { [ 1 5 ] }$ ,本研究显示，预测多胎妊娠的时间点可提前至移植后 $9 \mathrm { d } _ { \circ }$
+
+本研究中，早期流产率为 $4 . 4 6 \% ( 5 / 1 1 2 )$ ，宫外孕发生率为 $6 . 2 5 \% ( 7 / 1 1 2 )$ ,宫内并宫外孕率为 $0 . 8 9 \% ( 1 / 1 1 2 )$ O胚胎移植后9d、11d流产组和宫外孕组血清 $\beta$ -HCG值均显著低于双胎和单胎妊娠组( $( P { < } 0 . 0 1 )$ ,但流产组和宫外孕组血清 $\beta$ -HCG值无统计学差异。在本研究中，胚胎移植后9d、11d血清 $\beta$ -HCG值预测流产和宫外孕的ROC曲线下面积分别为0.206和0.194,均小于0.5，提示9d、11d的血清 $\beta$ -HCG值均不能预测早期流产、宫外孕的发生。这可能与流产和宫外孕患者滋养细胞分泌的异常模式有关，也可能与本研究样本量偏少有关，以后尚需扩大样本量进一步验证。
+
+参考文献：   
+[1]Yang R,Yang S,Li R,et al. Biochemical pregnancy and spontaneousabortion in first IVF cyclesare negative predictors for subsequent cycles:an over 1O Ooo cases cohort study[J].Arch Gynecol Obstet,2015 Feb 8.[Epub ahead of print].   
+[2]Wang J, Wei Y,DiaoF, et al The assciation between polycystic ovary syndrome and ectopic pregnancy after in vitro fertilization and embryo transfer[J].Am J Obstet Gynecol,2013,209(2):139. e1-9.   
+[3]Huang B,Hu D,Qian K,et al. Is frozen embryo transfer cycle associated with a significantly lower incidence of ectopic pregnancy?An analysis of more than 30,0O cycles[J].Fertil Steril, 2014,102(5): 1345-9.   
+[4]Fang C,Huang R,Wei LN,et al. Frozen-thawed day 5 blastocyst transfer is associated with a lower risk of ectopic pregnancy than day 3 transfer and fresh transfer[J].Fertil Steril,2015,103(3): 655-61. e3.   
+[5]Sunderam S, Kissin DM, Crawford SB,et al. Assisted reproductive technology surveillance-United States，2011[J].MMWR Surveill Summ,2014,63(10): 1-28.   
+[6] Shen C,Shu D, Zhao X,et al. Comparison of clinical outcomes between fresh embryo transfers and frozen-thawed embryo transfers [J].Iran JReprod Med,2014,12(6): 409-14.   
+[7]Janicka A，Spaczyhski RZ,Kurzawa R. Assisted reproductive medicine in Poland,2011-SPiN PTG report[J].Ginekol Pol,2014, 85(7): 549-56.   
+[8］王爱利,刘 彬,关源源.检测双次血β-HCG及其倍数对胚胎移植后妊 娠结局的预测价值[J].实用妇产科杂志,2012,28(11):942-6.   
+[9］李炳法,刘永云,李 燕.检测双次β-hCG水平变化情况及与妊娠结局 的关系研究[J].中国妇幼保健,2015,30(8):1217-9.   
+[10]Aarts JW,Huppelschoten AG, Van Empel IW, et al. How patientcentred care relates to patients' quality of Life and distress: a study in 427 women experiencing infertility[J]. Hum Reprod,2012,27 (2): 488-95.   
+[11]Lawler CC,Budrys NM,Rodgers AK,et al. Serum beta human chorionic gonadotropin levels can inform outcome counseling after in vitro fertilization[J].Fertil Steril,2011,96(2):505-7.   
+[12]Legro RS,Paulson RJ,Lobo RA,et al. Association of early betahuman chorionic gonadotrophin values with pregnancy wastage and multiple implantation in a donor oocyte programme [J].Hum Reprod,1995,10(12): 3293-6.   
+[13]黄仲英,李尚为,谭宗建,等.血β-hCG对体外受精-胚胎移植后妊娠早 期诊断的预测价值[J].华西医学,2005,20(3):492-3.   
+[14]Reljic M, Knez J, Vlaisavljevic V. Human chorionic gonadotropin levels are equally predictive for pregnancy outcome after fresh and vitrified-warmed blastocyst transfer [J].J Assist Reprod Genet, 2013,30(11): 1459-63.   
+[15]Wu G,Yang J，Xu W,et al.Serum beta human chorionic gonadotropin levels on day 12 after in vitro fertilization in predicting final type of clinical pregnancy[J].JReprod Med, 2014, 59(3/4): 161-6.
+
+(编辑：吴锦雅）

@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "从Web2.0用户心智地图发展型人化信息服务一一自然观察法的实证研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国立台湾大学图书资讯系台北10617香港城市大学图书馆邵逸夫香港",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[摘要]透过追踪自然观察法，研究类型用户们在学习过程中的不同关注面向，以及讨论如何满足他们的信息需求。根据心智地图建立非正式信息交流渠道的功能、针对机、用户、社群的信息加工模式，以及型人化信息服务模型。结论是图书馆可以透过阅读心智地图来提升信息服务。建议未来综合结构方程式、因子分析、聚类分析、卡方检验、结构化访谈、自然观察法以及心智地图模型来创建与使用型人。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[关键词]用户研究 博客电子公告栏电子邮件用户服务[分类号]G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究背景与目的",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在Web2.0时代的图书馆服务，有别于传统图书馆定义下的信息服务，透过Web2.0服务可以大大扩展数字化服务的范围与深度[1[213]。然而，服务过多的可选性，也容易造成服务力度不集中、速度不即时、深度不显现等不如传统信息服务用户需求的缺点。为克服这类难题，数字图书馆针对不同终端用户需求的交互设计变得越来越重要。型人模型，一方面可以描绘典型用户群组的行为与需求，使得整体设计更合乎以用户为中心的理想；另一方面，即使不涉及实际的交互设计，型人也能在既有的服务系统基础上，对用户进行不同程度的推广[4]，从而解决大部分数字化服务的难题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创建型人对于心智地图的作用，在于可以为它收集不同类型数据。HLamberts（2002）认为以用户为中心而设计的型人，结合市场区隔、实地研究和市场研究，因此可以从中学习谁是我们的用户，他们的目标和核心任务是什么，以及他们的工作环境是如何等问题5。反之亦然，心智地图可以为型人描绘更为清楚的用户心理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "心智地图（mental map）一词是指用户内部创建的认知结构信息所显示的可观察图形布局6。在创造包括动态图形动画的过程中，算法设计人员需要考虑采取额外的“心智地图呈现”的审美标准[7]”。这就不断提升了对心智地图的要求。目前心理地图体现在多种功能，其中包括正交，集群和拓扑结构的呈现[8]。一个良好的心智地图可以帮助人们了解其应用，但是难以为用户保持一致的心智地图，就可能会引起误解[9]。因此，一个较为完善的心智地图是根据经验数据(Empirical data）建立起随情境变化的动态心智模型。以及，另一种可能的取向就是区分起不同的心智地图。后者可以透过现阶段的型人（Personas）研究达成，本研究即按此一思路进行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着Web2.0影响力的逐步扩大，近期JBooth等人（2008）设计型人来描述社交网站上的文本（text）与脉络（context）[10]。这表示了型人对Web2.0服务机制的具体贡献。不过，目前用户研究主要通过网络日志、网络问卷或电话调查的方式，较难深入解释用户心理与行为，从而深入诊断或提升用户端的服务效果。而就固定样本进行长期跟踪的型人模型、心智地图与自然观察法则适合此类难题的突破与创新。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 型人研究的最新进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在设计流程研发上，Z．Hussain等人（2009）在实践中体认到：型人应该在规划、发展或进行任何决策过程中，有意或无意地进入到团队成员的思考中去[11]。在设计团队中JRGoodall（2008）认为型人有利于团队逻辑地、连贯地设计实际的用户需求，通过一个难忘的故事而让所有团队成员对项目目标和优先事项有共同理解[2]。此外，G Zimmermann和GVanderheiden（2008）指出：型人的用途不只是了解背后指导方针的理由，方便将来避免错误，而且也增加在适当时机和有效方式实施修补程序的可能性[13]。他们形象地提供了创建与使用型人的过程如图1所示：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fab54eba79f19a2e42a3e6f584a769ce4d0191fb89004853b64421c52ece489.jpg",
+        "img_caption": [
+            "图1：创建与使用型人的过程（引自GZimmermann等人；笔者翻译）"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在设计技术研发上，RCasas等人（2008）透过创建与使用型人，结合正在进行的环境智能（AmI）与以用户为中心的设计，开发新一代用户建模方式（user modeling）[14]。经过界面设计后，A．Lindgren等人（2007）表明利用型人的方法论，使得个体差异性和驱动团体差异性等重要面向，逐渐浮现[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在设计创意研发上，冈本诚（2007年）等人证实：情境可以有效地支持参与者。他们区分两个小组——开发小组和用户小组-来共同创造具有生活方式和文化背景的型人[16]。区分D-team团队发展创意和假设，而U-team描述情境和需求，这样有助于跨文化间的沟通，以及更为确切地利用型人来解决产品设计的跨文化创意团队。另一方面，EJde Silva和S Sall-aume（2007）透过对每个文档的型人识别和建立，开发了线上社群网站的行销策略和工具[17]。说明了型人对Web2.0服务的具体应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比国外研究，国内的型人研究偏向介绍说明和借鉴应用，例如吴勘和陆长德的概念方法与系统研究[18]、易莉和莫伟平的手机通用设计[19]、昌琳的人物角色与情景分析方法[20]、周伟等人的可用性工程生命周期改进方法[21]，以及王先华的交互设计应用研究[22]等。但国内外的型人研究均是方兴未艾，有许多尚未拓展的创新空间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 研究问题与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，创建型人以区分起不同的心智地图，透过这些心智地图增进Web2.0服务，与型人研究的最新进展相符。本文拟定的研究框架如图2所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Web2.0 $+$ Personas $\\mathbf { \\tau } = \\mathbf { \\tau }$ Personas2.0 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/afd9edef19c8d4b62136602f8881601081197dcd339451f2d86a40eadf3911cb.jpg",
+        "img_caption": [
+            "图2Web2.0与Personas的研究结合概念图（来源：本研究绘图）"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据研究框架细分三类问题： $\\textcircled{1}$ ：用户的非正式信息交流渠道有哪些？ $\\textcircled{2}$ ：图书馆从这些渠道可以分析什么用户行为？ $\\textcircled{3}$ ：图书馆如何利用这些渠道发展信息服务？",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "追踪观察的数据采集以面访和电子邮件的方式进行。根据前期问卷调查[23]与访谈调查2的回复，过滤了代表性的用户。自2009年1月5日至2009年6月5日进行为期六个月的追踪观察：先进行面访，然后进行二次电子邮件，最后进行一次面访；共计追踪调查16人，实际完成8人。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在长期追踪的开放式问答结果下，受访者与作者共同完成了八份较为完整的心智地图手稿，其余八份或是访问中断或是无法再次查证，根据八份手稿整理如图3、图4、图5与图6所示的四类模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d841bf7289d911f32e7642470471aaa1fe91567eb8ddc9a242dd3bd5b7c5f903.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3第一类型人（来源：本研究绘图）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第一类型人在研究过程中，主要受到：指导教授、材料、专业技巧和职业生涯等影响。在此，对知识服务的要求不只是情报研究、书目计量或科学评价，而是“谁可以帮助我解决其他问题而让我专心工作”。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7620d57cdfaea5e848ddb4b1003f1e631d943355139846f81ed4563b869833fb.jpg",
+        "img_caption": [
+            "图4第二类型人（来源：本研究绘图）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第二类型人在研究过程中，主要受到：不同层次的目标、不同层次的工作环境、不同层次的工作要求、不同层次的工作条件和专业技巧等影响。在此，对知识服务的要求不只是文献查询、科技查新、网站或资源导航，而是“谁可以帮助我确认方向正确”。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3ef7524fd03edadbd546410ef02d46af782df4b5a498507e65d2c4fb9d8b295.jpg",
+        "img_caption": [
+            "图5第三类型人（来源：本研究绘图）"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第三类型人在研究过程中，主要受到：总体研究的计划、个人方法、组织给的条件、帮手、社会需求等影响。对知识服务的要求不只是科技新闻、会议或基金项目的消息，而是“谁可以告诉我其他人除了研究还做什么”。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee0c818b78ee41916bbcc1bfb4d8856ea99134b52683a2a41d8489c233b4eb91.jpg",
+        "img_caption": [
+            "图6 第四类型人（来源：本研究绘图）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "第四类型人在研究过程中，主要受到：产品、机构、实验室、文献等影响。在此，对知识服务的要求不只是智能检索、信息推荐、数据提供，而是“谁可以与我分享有用的实战经验”。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1非正式信息交流渠道的功能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "前期调查结果显示[23]：博客、电子公告栏、电子邮件等已经越来越突出地作为重要的学术交流渠道（见图7）。本次调查则进一步发现，用户使用这些渠道可获得：正在发展和逐渐演变为知识的即时信息、带有丰富附加价值的信息（例如：经常有评论或某一主题的大量讨论，反映出该网络社群对这个信息的响应度、关联度、正负评价，以及相关主题等）等“非正式交流”的前沿信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/75db2f02b68c08488d8d2b0619ad34f93a06498e8fe7f45cd1d4f49f7e244a9d.jpg",
+        "img_caption": [
+            "图7 前沿学术的交流渠道（来源：本研究绘图）"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用型人于数字图书馆设计的原因，在于它可以提供较好的分众服务：主要型人代表多数或重要的目标群体，次要型人（Subordinate Personas）代表需要额外要求的服务对象[25]。透过对前沿学术交流渠道的用户行为研究，心智地图可以深入分众服务的细节。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.2针对特殊机构、用户、社群的信息加工模式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "透过系统地、科学地、策略地收集与应用这些信息“原料（Stuff）”（见图8），创建型人可以将此类非正式交流信息生产为高附加价值产品（High value-added production，HVA Producation）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "电子邮件 博客 电子布告栏  \n·收集用户查询信息 ·收集各领域重点博客 ·收集具有品牌的BBS  \n·收集专业RSS信息 ·分析关联度、响应度 ·分析正负评价  \n·分析查询困难的原因 ·分析相关链接与博客 ·分析相关程度和内容  \n·利用计算机程序规范 群体关系 （文章·会议·经验）  \n和整理专业即时的信息 ·利用计算机程序，绘制关联图表，储存相关研究人员数据集针对特殊 针对特殊 针对特殊组织收集 用户收集 社群收集",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对电子邮件信息，可以利用计算机程序规范和整理整理，比如：收集专业RSS信息，以及用户疑问或要求信息、文件传递标题等信息，这些信息有助于丰富学术研究的参考资料，有助于分析查询困难或实际不存在于期刊文献、电子书、会议报告等信息类别的其他信息类别的匮乏程度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对博客信息，可以利用关联图表，储存与分析相关人员数据集的博客分析，不仅是汇整各个领域重点博客的内容和反馈、博客之间或博客与非博客之间的关联度、响应度等应用，更是为掌握研究者的人际关系网络和虚拟团队重组建立基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对电子布告栏信息相对容易分类、整理、组织。网络上已经具有品牌的BBS交流内容，均已形成相对固定的网络社群，用户们较为清楚该类空间是属于什么人和什么主题的网络空间。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.3发展型人化的信息服务",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "什么是型人？Alan Cooper的定义是：“型人不是真正的人，但他们代表着整个设计过程。他们是实际用户的假设原型”[26]。JConey和M Steehouder指出（200）透过型人可以使网站设计者和用户交流，而且成功的网站就取决于这些型人如何完整地说明网站设计和网站评价的关系[27]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "接受到用户信息之后，可根据型人模型识别用户实际所需信息，从已有情报产品中筛选不同部分，根据不同用户需要，组合情报产品，选择适合的渠道与方式传递。在用户接受并且消化讯息的同时，准备组合最优服务配对。根据服务用户的经验累积，逐步掌握服务对象的潜在需求，开发新产品，并向信息服务系统提出新的功能要求。如图9所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在稳固的信息资源建设和学科参考咨询上，进一步的情报用  \n户服务，着重在快速识别用户类型，以及更新信息“反”反馈用户行为 情报用户服务$\\textcircled { > }$ 接受用户行为的信息工匠型：持续集中探索某一技术识别不同类型用户区别不同类型信息·商人型：关注网络社群的主题 调动针对性产品调动不同服务机制·学者型：收集大量文献和数据 $\\textcircled { > }$ 组合最优服务配对推荐不同信息来源推荐不同信息素养教育材料冒险家型：探访不同类型资源 推荐学科态势分析的报告节录推荐相关课题与研究团队  \n不断地反馈、反反馈、反反反馈的过程中，通过试错法，逐步逼近用户行为与心理",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用户服务应该从型人们反映出来的一些根本行为趋势上去考虑，服务能够随着型人模型而灵活多变，那么数字图书馆服务就能与用户行为贴近。如同而Grudin和Pruitt（2002）强调增添姓名和照片有助于研发团队认识并且牢记型人，而且创建与使用型人应该在经验数据的基础上而不是少数“天才”的直觉上[28]。本文进一步认为型人模型不是单一固定的，而是不断发展的形态，如同生物进化，才是使用型人模型的最佳方式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6 结语 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.1研究意义",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "适当把各种不同服务对象的不同特性、行为、特征与需求，归纳在某些型人，而不是把复杂的用户行为捆绑到几个有限的类型上，可以透过心智地图的方式，不断细分与演化该模型。使用型人将使得图书馆更加清楚服务对象的区别和差异，比如，设计新一代数字图书馆时，就要考虑如何既想做大、做多、做全，实际上又只能做小、做少、做一部分的矛盾。使用型人将带来更细腻的思考和设计。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.2研究限制",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与问卷调查法不同，自然观察法不是追求样本的代表性，而是对某一模糊现象或概念在部分案例中的完整性；与结构化访谈不同，它是一系列针对同一对象的访谈，而这种访谈可以是发散式的问答；与深度访谈也不同，自然观察法是一种长期追踪调查。因此这种研究方法适合作为本研究的调查方式，但是它的缺点在于样本的局限性，所以进行研究结果推论时，需参考其它相关研究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6.3未来研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "未来研究可先用结构方程式，对用户的态度、行为与认知进行总体的计算与模型建立，然后再利用因子分析与聚类分析的方法，从中等模型的角度予以分类型人，最后，利用卡方分析对个别分类后的群组变量进行相关性的假设检验，以反身证明分类原则的可靠性，将会获得更加严谨和准确的模型。根据行为类型的区分，结合结构化访谈，以及本文利用自然观察法描绘心智地图以揭示用户心理与行为特征的模式，从而更加深入地解释行为原因与提出相应的服务实践。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://ww.techsource.ala.org/Itr/web-20-and-libraries-best-practices-for-social-software.html.   \n[2]刘炜，葛秋妍．从Web2.0到图书馆2.0：服务因用户而变．现代图书情报技术．2006（9）:8-12.   \n[3]Neuhaus W. Web2.0 und der Kampf der Begriffe.Blog Mediendidaktik（2007-04-20）．[2007-08-01].   \nhttp://mediendidaktik.port07.de/docs/neuhaus_2oo7_04.pdf.   \n[4]顾立平．基于Web2.0型人的数字图书馆交互界面设计．图书情报工作，2008，52（9）:130-133.   \n[5]Lamberts H.Case study:A PDA example of user centered design. Berlin，Springer-Verlag，2007:329-333.   \n[6]Diehl S，GoergC.Theyarechanging-dynamic graph drawing forasequenceof graphs.Procedingsof GraphDrawing.London: Springer-Verlag,2002:23-30.   \n[7]ColemanMK,ParkerDS.Aesthetics-basedgraphlayoutforhumanconsumption.Software PracticeExperience,196(26/12):1415 1438.   \n[8]LeeYY,Lin CC,Yen HC.Mentalmap preserving graph drawing using simulated annealing.ACM International Conference Proceeding Series,2006,164:179-188.   \n[9]Purchase HC,HogganE,Goerg C.Howimportantisthe mental map-anempirical investigationof adynamic graph layout algorithm. Berlin, Springer-Verlag,2007:184-195.   \n[10]Pooth P.Rereading fandom:MySpace characterpersonas and narativeidentification.Critical studiesinmediacommunication 2008(25/5) :514-539.   \n[11]Hussain Z,Milchrahm H,Shahzad S，etal.Integrationof Extreme programing anduser-centered design:lessons Learned.Berlin， Springer-Verlag，2009:174-179.   \n[12]GoodallJR，ContiG,Ma Kwan-Liu.Adapting Personas for Usein Security Visualization Design.Berlin，Springer-Verlag, 2008:39-52.   \n[13]ZimmermannG,Vanderheiden G.Accessibledesignand testingintheapplicationdevelopmentprocess:Consideratios foran integrated approach. Unioersal Access Information society,2008(7) :117-128.   \n[14]Casas R,Marin RB,RobinetA,etal.User modelinginambient intelligenceforelderlyanddisabled people.Berlin, Springer-Verlag， 2008:114-122.   \n[15]Lindgren A,Chen Fang，Amdahl P,et al. Using personas and scenarios asan interface design tool foradvanced driver assistance systems. Berlin， Springer-Verlag， 2007:460-469.   \n[16]0kamotoM,Komatsu H,Gyobu I，etal.Participatorydesignusing scenariosindifferentcultures.Berlin:Springer-Verlag, 2007: 223-231.   \n[17]SilvaEJ，SaaumeS.Onlinecommunitiesadministration:Definingtolsfordiferent profiles.Berlin:Springer-verlag, 2007: 353-356.   \n[18]吴勘,陆长德.基于角色分析的概念设计方法和系统研究.现代制造工程,2009,(6)：106-110.   \n[19]易莉,莫伟平.老年人手机与通用设计.上海第二工业大学学报,2008,(4):314-319.   \n[20]昌琳.通过使用人物角色和情景分析的方法来进行以用户为中心的设计.艺术与设计(理论),2008,(11):171-173.   \n[21]周伟,陆长德,余隋怀.角色模型的可用性工程生命周期的改进方法.现代制造工程,2008,（7)：5-8.   \n[22]王先华.浅谈人物角色在交互设计中的应用研究.艺术与设计(理论),2008,(6):171-173.   \n[23]顾立平.基于Web2.0用户信息检索行为的交互设计:后设分析与问卷调查研究.图书情报知识,2009,129(5):26-34.   \n[24]顾立平．在Web2.0数字化服务环境中创建与使用型人-访谈调查的实证研究.图书情报工作,2010,54(7):38-41.   \n[25]Safer D.Designing for interaction:creating smart applications and clever devices.Berkeley:New Riders,207:0-1. [26]CooperA.Theinmates arerunning theasylum:Why high tech products driveuscrazyand how torestore thesanity. Indianapolis: Sam publishing,2006:0-1.   \n[27]Coney J，Steehouder M.Roleplayingon the Web:Guidelines for designing andevaluating personas online.Technical communication,2000(47/3) :327-340.   \n[28]GrudnJ，Pruitt J.Personas，participatory designand product development:An infrastructure forengagement.The ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "participatory design conference’02，2002:144-161. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[作者简介] ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "顾立平,男，1978年生，博士后,发表论文15篇，",
+        "page_idx": 8
+    }
+]

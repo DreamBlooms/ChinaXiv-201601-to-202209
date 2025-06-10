@@ -1,0 +1,195 @@
+# 平谱射电类星体3C454.3的中长周期光变特性研究
+
+吴月承 张皓晶余莲 徐小林（云南师范大学物理与电子信息学院昆明650500）
+
+摘要耀变体具有明显的、剧烈的大幅度光变，中长时标的光变研究对于揭示耀变体的光变特征和光变机理有重要作用。通过选取平谱射电类星体3C454.3的光学B、V、R和红外J、K波段的2008年6月～2017年7月的原始光变数据，采用功率谱方法，研究 3C 454.3的中长周期光变特性，研究得出光变主周期为1.25 年，4.57 年的周期为1.25 年周期的叠加。3C 454.3在光学、红外以及射电波段的光变有一定的关系。研究显示出3C454.3的红外光度比光学波段更为明亮，红外光变比光学波段更为剧烈。
+
+关键词 平谱射电类星体，3C454.3，长周期光变，功率谱方法中图分类号：P157；文献标识码：A
+
+# 1引言
+
+3C 454.3(红移 $\mathrm { z } { = } 0 . 8 5 9 \AA$ )是一个低光度、低红移，而且有明显剧烈光变的平谱射电类星体。3C454.3是多个小组都很关注的类星体，它在光学波段的观测已经有了很长的历史，有许多小组对3C 454.3进行了大量的观测和理论研究。有研究表明3C454.3的光学波段存在越红越亮的趋势错误!未找到引用源。。3C 454.3在伽马波段、光学波段和红外波段都有强烈的光变[1[2][3]，其在红外波段的剧烈光变与伽马射线源有关[4]。3C 454.3 的光变曲线存在长周期光变，甚至有的耀变体存在十多年的长周期光变[6][6]，长期的观测数据对研究光变周期及其辐射模型有重要意义[7][8]。目前，功率谱方法常用于天体光变周期性的讨论，张皓晶[9等人曾经用功率谱方法计算 BLLac 天体 $\mathrm { S 5 } 0 7 1 6 { + } 7 1 4$ 的B、V、R、
+
+I波段数据得到了1.1年的长时标光变。Li等人[0]利用Jurkevich方法和功率谱方法研究了3C454.3 的射电22GHz 和37GHz 波段存在（ $1 . 5 7 \pm 0 . 1 2 ^ { \cdot }$ ）yr及（6.15±0.50）yr的周期。光变研究对于揭示耀变体的光变特征和光变机理有重要作用。
+
+# 23C454.3长期光变曲线
+
+通过 SMARTS数据库获取了2008年6月至 2017年7月3C 454.3的光学和红外波段接近10年的历史光变数据，其中包括了光学B、V、R和红外J、K波段，分别有 891、855、878、861和752个观测数据，共计有 4237个观测数据。如果每天均可以观测，则光学B、V、R和红外J、K波段的实际观测夜占理论观测夜的覆盖率分别为 $2 6 . 8 1 \% . 2 5 . 7 2 \% .$ 26.41%、 $2 5 . 9 0 \%$ 和 $2 2 . 6 2 \%$ ，平均为 $2 5 . 4 9 \%$ ，鲜有如此多波段密集观测的天体。若以天为采样单位，则采样频率约为0.25次/天，依据 Nyquist采样定理，采样周期要小于最小信号周期的一半，采样频率应该大于最大信号频率的两倍，Nyquist频率约为0.125次/天，可以得知，此观测数据用来计算该天体存在大于8天的光变周期符合 Nyquist采样定理。
+
+![](images/2912106ffd5931a2e7d0ede9b128f8f74023f5ae8208c1a3e3f7c0925ecbc888.jpg)
+
+Fig.1 Light curve in B,V,R,Jand K bands
+
+图1为10年间3C454.3的B、V、R、J、K波段光变曲线。在2008年6月至2017年7月期间，该天体B波段的星等平均值为16.108mag，星等最大值为17.337，星等最小值为13.964, $\Delta _ { \underline { { { \sf E } } } \underline { { { \sf x } } } } = 3 . 3 7 3 \mathrm { m a g } , \mathrm { V }$ 波段的星等平均值为15.537mag，星等最大值为16.756,星等最小值为13.448， $\Delta _ { \mathrm { \ : E \approx } } = 3 . 3 0 8 \mathrm { m a g }$ ；R 波段的星等平均值为15.122mag，星等最大值为 16.585，星等最小值为12.97， $\Delta _ { \mathrm { \underline { { { H } } } \underline { { { s } } } \underline { { { s } } } } } = 3 . 6 1 5 \mathrm { { m a } } \mathrm { { } }$ g；J波段的星等平均值为13.419mag，星等最大值为15.092，星等最小值为11.012， $\Delta _ { \mathrm { \underline { { { H } } } \underline { { { s } } } \underline { { { s } } } } } = 4 . 0 8 \mathrm { m a g }$ ；K 波段的星等平均值为11.594mag，星等最大值为15.017，星等最小值为9.188， $\Delta$ 星等=5.829mag。B、V、R、J、K 波段的变化量至少有3个星等。如表1。
+
+表1B、V、R、J、K波段星等变化情况  
+Tabel1 Variation of magnitude in B,V,R,Jand Kbands   
+
+<html><body><table><tr><td>波段</td><td>B</td><td>V</td><td>R</td><td>J</td><td>K</td></tr><tr><td>最大值 (mag)</td><td>17. 337</td><td>16.756</td><td>16.585</td><td>15.092</td><td>15.017</td></tr><tr><td>最小值 (mag)</td><td>13.964</td><td>13.448</td><td>12.970</td><td>11. 012</td><td>9.188</td></tr><tr><td>平均值 (mag)</td><td>16.108</td><td>15.537</td><td>15.122</td><td>13.419</td><td>11. 594</td></tr><tr><td>变化量 (mag)</td><td>3.373</td><td>3.308</td><td>3.615</td><td>4. 080</td><td>5.829</td></tr></table></body></html>
+
+![](images/4b6de701147f264e795226b7ea21d9d1a8addd4e2a94db78852af63e4688ce5d.jpg)  
+图2B、V、R、J、K波段星等最大值、最小值、平均值和差值  
+Fig.2 Maximum， minimum，average and difference of magnitude in B,V，R,J and K bands
+
+在光变曲线中，观测数据平均误差约为 $0 . 0 2 \mathrm { m a g }$ ，光变曲线测量值区间平均为 $\Delta$ 星等=4.041mag，信噪比为 $\mathrm { S } { = } 0 . 5 \%$ ，信噪比低，我们在光变曲线和周期分析中未考虑观测误差所带来的影响。
+
+从光变曲线可以看出3C454.3天体的光学和红外波段光度在十年间变化十分剧烈。我们用3C 454.3的B、V、R、J、K波段的中心波长来研究其于对应星等最大值、星等最小值、平均值和差值的关系。根据图2来看，显示出在B、V、R、J、K波段中的波长越长，对应的星等最大值、星等最小值和平均值有越低的趋势，然而对应的差值（星等变化量）有越大的趋势。图1中还显示出3C 454.3的B、V、R、J、K波段的光变曲线升降走势近乎一致。
+
+# 33C454.3的光变性质
+
+文中采用功率谱方法讨论3C454.3的周期。
+
+# 3.1功率谱分析方法
+
+在功率谱方法分析中，若存在一个平稳随机信号 $\mathbf { x ( t ) }$ 的自协方差函数为 $\gamma _ { \mathrm { { x } } } ( \tau )$ ，并满足
+
+$$
+\begin{array} { r } { \int _ { - \infty } ^ { \infty } \vert \gamma _ { \mathrm { \scriptscriptstyle x } } ( \tau ) \vert \mathrm { d } \tau < \infty } \end{array}
+$$
+
+定义x(t)的功率谱密度函数为 $\gamma ( \tau )$ 的傅里叶变换，即
+
+$$
+\begin{array} { r } { \mathrm { S } _ { \mathrm { x } } \big ( \omega \big ) = \int _ { - \infty } ^ { \infty } \gamma _ { \mathrm { \times } } ( \tau ) \mathrm { e } ^ { - \mathrm { i } \omega \tau } \mathrm { d } \tau , } \end{array}
+$$
+
+则逆傅里叶变换为
+
+$$
+\begin{array} { r } { \gamma _ { \mathrm { { s } } } ( \tau ) = \frac { 1 } { 2 \pi } \int _ { - \infty } ^ { \infty } { \mathrm { S } _ { \mathrm { { x } } } ( \omega ) \mathrm { e } ^ { - \mathrm { { i } } \omega \tau } \mathrm { d } \omega } . } \end{array}
+$$
+
+由自协方差函数的定义有
+
+$$
+\begin{array} { r } { \gamma _ { \mathrm { { x } } } ( \tau ) = \operatorname* { l i m } _ { x  \infty } \frac { 1 } { 2 T } \int _ { - T } ^ { T } [ x ( t ) - \mu _ { x } ] [ x ( t - \tau ) - \mu _ { x } ] \mathrm { { d } } \tau . } \end{array}
+$$
+
+由于 $\mathbf { S } _ { \mathrm { { x } } } ( \omega ) \mathrm { { d } } \omega$ 表示在 $\omega$ 与 $\omega + \mathrm { d } \omega$ 之间信号所提供的功率。故 $\operatorname { S x } ( \omega )$ 代表功率相对与频率的分布，则称为功率谱函数密度。
+
+对于平稳时间序列 $\{ \mathrm { X n } \}$ ，如它的协方差序列 $\gamma _ { \times } \left( \mathsf { k } \right) , \mathsf { k } \Longrightarrow 0 , 1 , 2 , \cdots$ 满足
+
+$$
+\scriptstyle \sum _ { k = - \infty } ^ { \infty } | \gamma _ { * } ( { \bf k } ) | < \infty
+$$
+
+则定义 $\{ { \mathrm { X } } _ { \mathrm { n } } \}$ 的自功率谱密度为
+
+$$
+\begin{array} { r } { S _ { \mathrm { x } } \mathopen { } \mathclose \bgroup \left( \omega \aftergroup \egroup \right) = \sum _ { k = - \infty } ^ { \infty } \gamma _ { \mathrm { \varepsilon } } ( k _ { \mathbf { \eta } } ) \mathrm { e } ^ { - \mathrm { i } k \Delta t \omega } , } \end{array}
+$$
+
+上式中 $\Delta$ t为数据采样间隔；自协方差序列 $\gamma _ { \mathrm { \scriptscriptstyle x ( k ) } }$ 定义为
+
+$$
+\begin{array} { r } { \gamma _ { \mathrm { { x } } } ( k ) = \operatorname* { l i m } _ { x \to \infty } \frac { 1 } { N } X _ { n } X _ { n - 1 } . } \end{array}
+$$
+
+功率谱密度函数也可以直接从数字序列的离散傅里叶 $X ( j )$ 利用
+
+$$
+\begin{array} { r } { I _ { n } ( \omega _ { \mathrm { i } } ) = ( \frac { 2 \Delta t } { N } ) | \mathrm { X } ( \omega _ { \mathrm { i } } ) | ^ { 2 } } \end{array}
+$$
+
+获得。
+
+因数字序列的离散傅里叶变换具有周期性，故 $I _ { n } ( \omega _ { \mathrm { i } } )$ 也具有周期性，所以称 $I _ { n } ( \omega _ { \mathrm { i } } )$ 为数字序列的周期图估计。
+
+可证[11]，对于一个随机信号
+
+$$
+Y _ { n } = a \mathrm { e } ^ { - \mathrm { i } n \omega _ { 0 } } + a _ { n }
+$$
+
+$a _ { n }$ 为平稳正态序列，其功率密度 $S _ { a } ( \omega )$ 在 $\omega _ { 0 }$ 处连续，所以 $Y _ { n }$ 的周期图 $I _ { n } ( \omega )$ 必在 $[ - \pi , \pi ]$ 上 $\omega _ { 0 }$ 附近的某一频率处达到最大值，并且当 $N$ 很大时有
+
+$$
+\operatorname* { l i m } _ { N \to \infty } I _ { n } \big ( \omega \big ) = \left\{ \begin{array} { l l } { \infty \ , \ \omega = \omega _ { 0 } , } \\ { 0 \ , \ \omega \ne \omega _ { 0 } , } \end{array} \right.
+$$
+
+（10）式中， $\omega _ { 0 }$ 是信号 $Y _ { n }$ 的固有频率。当 $N$ 较大时， $I _ { n } ( \omega )$ 在 $\omega _ { 0 }$ 附近形成一个突起的峰，在其他的频率处功率谱的密度值较小。根据这种特征，就可以寻找信号中的周期成分。当信号含有不止一个周期分量时， $I _ { n } ( \omega )$ 中会出现多个极大值。为了判别真伪周期，则需要根据周期图极大对应的频率值，利用最小二乘法求出相对应各频率的周期分量的振幅来比较大小。
+
+SMARTS数据中的采样数据并非均匀采样时间序列，用功率谱方法计算3C454.3的光变周期时对光变数据的空白处进行了相邻数据平均值插值处理。
+
+以上为功率谱方法测量周期的基本原理，其对于耀变体长周期光变研究可靠性的理论见论文[9]。
+
+# 3.2结果
+
+通过功率谱方法计算，得到了3C 454.3的B、V、R、J、K波段功率谱图，图中显示了2个主要的频率峰值。
+
+从B波段功率谱图来看，存在周期有454.5和1666.7天，分别对应1.25年和4.57年。峰值频率为0.00060（1/day）的半高宽为0.00035；峰值频率为0.00220（1/day）的半高宽为0.00030。如图3所示。
+
+![](images/2e7088167cc64305acdde7cc099fca703678c8e5c5b3d33d4787b5d3a3e223ad.jpg)  
+图3B波段功率谱图
+
+从V波段功率谱图来看，存在周期有454.5和1666.7天，分别对应1.25年和4.57年。峰值频率为0.00060（1/day）的半高宽为0.00038；峰值频率为0.00220（1/day）的半高宽为0.00032。如图4所示。
+
+![](images/1d351494977744f33a3d9c8ea17e31d42fda26e3b5d31d1a9608bcf65253ef1f.jpg)  
+Fig.3 The power spectrum figure in B band   
+图4V波段功率谱图
+
+从R波段功率谱图来看，存在周期有454.5和1666.7天，分别对应1.25年和4.57年。峰值频率为0.00060（1/day）的半高宽为0.00035；峰值频率为0.00220（1/day）的半高宽为0.00030。如图5所示。
+
+![](images/4db3ad4dbf018b990b49c1f73c3b84431653313d072850f59ee2193203700aba.jpg)  
+Fig.4 The power spectrum figure in V band   
+图5R波段功率谱图  
+Fig.5 The power spectrum figure in R band
+
+从J波段功率谱图来看，存在周期有 454.5和1666.7天，分别对应1.25年和4.57年。峰值频率为0.00060（1/day）的半高宽为0.00036；峰值频率为0.00220（1/day）的半高宽为0.00030。如图6所示。
+
+![](images/3535b941471de19cfa040f148a0f973492ffc53e38c461b4474bdf1d7d891adf.jpg)  
+图6J波段功率谱图
+
+从K波段功率谱图来看，存在周期有434.8天和1666.7天，分别对应1.19年和4.57年。峰值频率为0.00060（1/day）的半高宽为0.00038；峰值频率为0.00230（1/day）的半高宽为0.00033。如图7所示。
+
+![](images/d17bfda7ef4b7adfbedcf65e1b0ca4655052f9b35d3f3e6edf9a1f622975a8b9.jpg)  
+Fig.6 The power spectrum figure in J band   
+图7K波段功率谱图  
+Fig.7 The power spectrum figure in K band
+
+各个波段的功率谱图峰值频率及其半峰全宽依据表2所示。通过计算得到3C 454.3
+
+在光学和红外波段都存在2个光变周期，分别为1.25年和4.57年。
+
+表2B、V、R、J、K波段的功率谱图峰值频率及其半高宽 Tabel2 Peak frequency and FWHMof Power Spectrum in B,V,R,Jand K bands   
+
+<html><body><table><tr><td>波段</td><td>B</td><td>V</td><td>R</td><td>J</td><td>K</td></tr><tr><td>峰值频率1</td><td>0.00060</td><td>0.00060</td><td>0.00060</td><td>0.00060</td><td>0.00060</td></tr><tr><td>峰值频率1半高宽</td><td>0.00035</td><td>0.00038</td><td>0.00035</td><td>0.00036</td><td>0.00038</td></tr><tr><td>峰值频率2</td><td>0.00220</td><td>0.00220</td><td>0.00220</td><td>0.00220</td><td>0.00230</td></tr><tr><td>峰值频率2半高宽</td><td>0.00030</td><td>0.00032</td><td>0.00030</td><td>0.00030</td><td>0.00033</td></tr></table></body></html>
+
+# 4讨论
+
+从图1显示出，在3C454.3的B、V、R、J、K，5个波段中，历史光变曲线中变化近乎一致，图 $3 { \sim } 7$ 显示出功率谱图大致相同，这有可能产生于3C 454.3在光学和红外波段的光度的变化根本上有着一定的关系。
+
+根据图2来看，表现出在B、V、R、J、K 波段中的波长越长，对应的星等最大值、星等最小值和平均值有越低的趋势，然而对应的差值有变大的走势。星等越低，其光度也就越亮，这暗示出在大部分时间上，红外波段比光学波段更为明亮。3C 454.3光度变化时，红外波段比光学波段较为剧烈。Fan 错误!未找到引用源。错误!未找到引用源·等人研究了3C 454.3在 $2 0 0 6 { \sim } 2 0 1 1$ 年光学波段明显存在越红越亮的趋势，这个趋势到红外J、K波段也适用。
+
+依据表2所示，各波段都显示出2个显著周期，频率为0.00060（1/day）的周期在5 个波段是完全一致的。而K波段 434.8的周期不同于其余4个波段，通过计算并查表可得,各波段该周期均值为450.6天，周期置信度为0.95的置信区间为[442.9，458.3]天，即450.6±7.72天，区间可表述为[1.21，1.26]年。说明了1.25 年的周期具有较高的置信水平，可以作为3C454.3的主要周期。
+
+半高全宽较小的峰值对应的误差相对来说较小，因此峰值频率为0.0022（1/day）的周期比峰值频率为0.0006（1/day）的周期更为显著；前者对应的周期为1.25年，后者对应的周期为 4.57年。1.25 年的周期与Gorshkov[12]等人在射电波段 21.7GHz 计算得到的1.2年周期光变大致相符合，因此1.25年的周期可以辨认为3C454.3的显周期，其光变曲线主要由1.25年的周期导致。在光学波段、红外波段和射电波段的周期相同，可以认为3C 454.3的光度变化及其周期特征现象在光学、红外和射电波段具一定的关系。
+
+本文使用功率谱方法得到的周期有1.25 年和4.57年，其中4.57年的周期因为受观测时间和观测数据的影响，其半高宽略大，误差相对较大，与其真实周期可能会有偏差，视为1.25 年周期的叠加。
+
+# 5结论
+
+对 3C 454.3在B、V、R、J、K波段的光变比较分析，显示出3C 454.3的红外波段的光度比光学波段更为明亮，红外波段的光度变化比光学波段更为剧烈。
+
+我们用功率谱方法对 FSRQ 3C 454.3中B、V、R、J、K 波段的光变曲线进行研究，结果表明该天体在光学、红外波段存在光变主周期为1.25 年，4.57 年的周期为1.25年周期的叠加。由于相对以前的研究中，信号采样是中长周期光变的研究障碍而不可避免，本文在利用最新（ $2 0 0 8 { \sim } 2 0 1 7$ 年）SMARTS 计划的观测基础之上，首次利用功率谱方法计算3C 454.3的光学红外B、V、R、J、K 波段周期，获得了相对准确的结果。在光学波段、红外波段和射电波段的周期相同，可以认为3C454.3的光度变化及其周期特征现象在光学、红外和射电波段具有一定的关系。
+
+参考文献[1] Fan X L,Li S K,Liao N H,et al. Optical and Gamma-Ray Variability Behaviors of 3C 454.3 from  
+2006 to 2011 ［J]． The Astrophysical Journal，2018，856:80-88[2] Weaver ZR,Balonek TJ. The Dramatic June 2016 Optical Outburst and Micro-Variabilityof the Blazar  
+3C 454.3 [J]． American Astronomical Society，2017，229:250.33[3] Tachibana Y, Kawai N, Pike S,A Correlation Between Optical， X-ray，and Gamma-ray Variations inBlazar 3C 454.3[J]．arXiv，2015，arXiv:1502.03610[4] Carrasco L，Gonzalez R,Porras A，etal．NIR Flare of the Blazar 3C 454.3 ［J]. The Astronomer'sTelegram，2014，6213[5] Carrasco L，Porras A, Recillas E，et al.A Large very red NIR flare of the Blazar 3C 454.3[J].The Astronomer's Telegram，2018，11355[6] Zhang H J， Zhao G, Zhang X，et al．Long-Term Optical Spectra Variability of Quasar 3C 273 [J].Astronomical Society of the Pacific Conference Series， 2009, 408:388-390[7] 余莲，张雄，王文广，等．蝎虎天体PKS $0 7 3 5 \substack { + 1 7 8 }$ 的光变特性分析［J]．天文研究与技术，2018，15(1)：  
+10-16[8] Mi LG,CuiL,Hu KY.An analysis of periods of light variations of 59 blazars observed at 15.3GHz[J]．Astronomical Research & Technology，2015，12(4):410-416.[9] 张皓晶，张雄．BL Lac天体S50716+714的光变周期特性研究［J]．物理学报，2007，56(7)：4305-4311[10] Li HZ,XieG Z,ZhouSB,etal.A Periodicity Analysisof the Light Curve of 3C 454.3[J]. ChineseJournal of Astronomy and Astrophysics，2006,6:421-429[11] Ding YR, Zheng D W， The Date Processing of Astronomical Measurement [M]. Nanjing: Nanjing
+
+University Press，1980，320-327 (in Chinese)
+
+丁月蓉，郑大伟．天文测量数据的处理方法[M]．南京：南京大学出版社，1980，320-327[12] Gorshkov AG，Ipatov AV,Ipatova IA,etal.Long-Term and Rapid Radio Variabilityof the Blazar
+
+3C 454.3 in 2010-2017 [J] Astronomy Reports，2018，62:183-199
+
+# The medium and long period light variation characteristics of
+
+# FSRQ 3C 454.3
+
+Wu YueCheng， Zhang HaoJing， Yu Lian， Xu Xiaolin(College of Physics and Electronics， Yunnan Normal University， Kunming 650500，China)
+
+Abstract Blazars have obvious and intense large-scale light variations. The study of light variations on medium and long time scales plays an important role in revealing the characteristics and mechanism of light variations of Blazars. By selecting the original optical B, V, R and infrared J, K bands of the flat-spectrum radio quasar 3C 454.3 from June 2008 to July 2017, the medium and long period characteristics of 3C 454.3 are studied by power spectrum method. It is concluded that the main period of light variation is 1.25 years， and the period of 4.57 years is the superposition of 1.25 years. 3C 454.3 is related to the optical， infrared and radio variations. The results show that the infrared luminosity of 3C 454.3 is brighter than that of optical band， and the infrared light variation is more intense than that of optical band.
+
+Key words FSRQs，3C 454.3, long-term variability，method of power spectrum

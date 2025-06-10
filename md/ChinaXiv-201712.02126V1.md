@@ -1,0 +1,168 @@
+# 临床研究
+
+# 心血管疾病患者心脏康复前后腰围与器官损害的相关性
+
+雷洪强1²，徐 琳²,邱健²,马 骏²,招慧²  
+1第四军医大学,陕西 西安 710032;广州军区广州总医院心血管内科,广东广州 510010
+
+摘要：目的通过比较心血管疾病的中青年患者中心脏康复前后的肥胖指数腰围(WC)的不同作用,明确WC在这些患者治疗过程中的监测作用以及观察器官损害的预后价值。方法收集和随访147名住院患者并进行心脏康复程序，为期约4\~5周。采集心脏康复程序进行前后的基本医学信息、空腹抽血检验和超声心动图等内容。结果根据WC标准分组的室间隔厚度，左室舒张期后壁厚度与进行心脏康复程序前后的WC正相关。而高密度脂蛋白和进行心脏康复程序前后的WC负相关。在进行心脏康复程序之前，空腹血糖和血清尿酸与WC正相关，但是在进行心脏康复程序之后则没有这种关联性。结论WC能够准确地评估积极进行心脏康复程序的心血管疾病患者的器官损害，尤其是在评估心脏结构和功能方面。
+
+关键词：腰围；心血管疾病；心脏康复程序；心脏结构和功能
+
+# Correlation between waist circumference and organ damage in patients with cardiovascular disease after cardiac rehabilitation program
+
+LEI Hongqiang1²,XULin²,QIUJian,AJun²,ZHHui²   
+FourthMilitaryedicalesityXiaa;epartmentfadiologanguGenralHspitalofago   
+Region,Guangzhou 510010, China
+
+Abstract: ObjectiveToclarifythe roleof waistcircumference (WC)in estimating organ damage andasessing theprognosis in young ad middle-aged patients with cardiovascular disease undergoing cardiac rehabilitation program (CRP). Methods We recruited147 youngand middle-aged patients with cardiovascular disease to participate inthe CRPfor 4or 5 weeks.The baseline clinical dataand results ofroutine fasting blood test and ultrasoniccardiography were evaluated for thesepatients. Results WChadalinear corelationwiththe indicesreflecting cardiac structure alteration (LVSdandLVPWd)of the patients after CRP but showed anegative corelation with their HDL-Clevels.The fasting blood glucose (FBG)and serum uric acid (UA)levels showeda positivecorelation withWCbefore CRPbutnotafter CRP.Conclusion WC monitoring alows accurate assessment of organ damage in patients undergoing CRP after cardiovascular diseaseand has special value in evaluating the changes in cardiac structure and function.
+
+Key words: waist circumference; cardiovascular disease; cardiac rehabilitation program; cardiacstructure and function
+
+肥胖是心血管疾病危险因素之一，通常会引起心脏和血管发生一系列的结构和功能上的适应性改变，而这些改变通常是有害的。现在，心脏康复已经被公众所熟知,并发展成为心血管疾病患者临床康复的一种综合管理模式[2-4]。因此,心血管疾病患者进行心脏康复的目的之一就是要控制体质量,减少肥胖[5]。虽然身体质量指数(BMI)是一个评价个体超重或肥胖的重要参数，但是也有很多研究报道称BMI并不能真实地反应身体脂肪的分布情况[6-8]。Gruberg等[9-10]已经发现在心血管疾病患者中肥胖的病人似乎存活率更高的悖论现象。Migaj等发现肥胖悖论现象在急性冠脉综合征的男性患者中更常见。很多研究认为BMI不能准确地反映身体脂肪分布和去脂体重是导致肥胖悖论现象的原因[12-15]。通常情况下,代谢异常产生的过多的身体脂肪比去脂体重更容易引起心血管疾病[。腰围(WC)作为一个诊断向心性肥胖的常规指标,能够比BMI更好地反映体脂分布。也就是说，WC可以作为一个评估心血管疾病患者死亡风险的重要参数[6。此外,WC可能对心血管疾病的预后也有重要意义。Koning等[17报道了一个研究，这个研究包括了15923名心血管疾病患者，他们在治疗后平均随访跟踪2.3年。研究结果得出WC每增加 $1 \mathrm { c m }$ ，男性患心血管疾病的风险会增加 $2 \%$ ,而女性患心血管疾病的风险则增加 $5 \%$ ，也就是说WC与患者未来发生心血管事件的风险增加有关。近来，一些研究证明增高的WC是有可能预测机体发生的一些生理病理改变,包括内皮功能障碍、血管损伤和炎症反应[18-21]Miyazaki等跟踪随访98例急性冠脉综合症患者6个月后，发现降低的WC和血管内皮功能的进展密切相关。Lee等22报道称WC可以反映急性前壁心肌梗死后心肌细胞的重塑过程。但是,在评价进行心脏康复心血管疾病患者的预后指标中，关于WC对患者预后作用的报道却很少，比如类似于心血管结构或功能改变的器官损伤、死亡率和发病率等等。
+
+为了更好的长期预后，在心血管疾病患者进行心脏康复过程中，需要更加有效地监控肥胖。但是，在这之前，必须证实肥胖的严重程度和心血管疾病患者预后之间的相关关系。本研究就是在中青年心血管疾病患者中进行一套精心设计的心脏康复程序(CRP),通过比较心脏康复前后的肥胖指数WC的不同作用，明确WC在这些患者中监督和减少肥胖的预后价值，特别是在观察器官损害的部分。
+
+# 1 资料和方法
+
+# 1.1研究对象
+
+从2013年10月\~2014年11月，本研究收集了191名在中国广东省广州市广州军区广州总医院住院治疗的患者作为研究对象。在他们住院期间，我们都会教给他们一套心脏康复程序(CRP)并要求他们出院后严格执行1\~3个月。最终入选的合格的患者共147名。在不合格的研究对象中,29名没有严格执行CRP;15名没有回来复查。本研究得到医护和患者等多方同意，每一个研究对象都签署了知情同意书，并且被广州军区广州总医院伦理委员会批准。这147名研究对象的年龄是$5 1 . 8 { \pm } 9 . 1 \$ 岁，其中男性有111名，占到 $7 5 . 5 \%$ 。合格的研究对象必须满足下列入选标准：(1)行动方便，能够完成CRP;(2)确诊患有高血压病，伴或不伴糖尿病；(3)在参加实验研究之前没有服用任何减肥药物或手术。另外，入选的147名住院患者均未诊断为冠心病。除外冠心病的方法及标准是：(1)无发作性胸痛症状；(2)血清心肌损伤标志物未见异常；(3)静息心电图在正常范围内;(4)运动平板试验阴性(或不能耐受运动平板试验的行冠状动脉CTA时未发现狭窄病变)；(5)超声心动图未见明显异常。如果患者有严重的并发症，在执行CRP时会有潜在的麻烦和安全隐患，所以将会被排除掉。这里说的严重并发症包括：恶性心律失常,急性充血性心力衰竭,近期血栓形成,全身性炎症,严重的慢性疾病,恶病质等。
+
+# 1.2心脏康复程序(CRP)
+
+本研究为患者专门设计了一套心脏康复程序。它包括两个主要部分：一个是为期2\~3周住院期间的康复程序，一个是为期4\~5周出院后门诊随访期间的康复程序。住院阶段对患者进行CRP的宣教，危险因素管控，饮食和营养搭配，术后活动指导和心理咨询等。在住院期间尽早下床活动会有助于患者下一步的康复训练。门诊随访阶段康复内容包括： $5 \mathrm { m i n }$ 的热身活动(头部、扩胸、伸展，压腿等运动)， $2 0 ~ \mathrm { m i n }$ 的有氧运动(步行或者慢跑)， $1 0 \mathrm { m i n }$ 的阻抗运动(举哑铃或者对抗橡皮筋)和$5 \mathrm { m i n }$ 放松运动(拉伸运动)。患者每周进行3次这样的康复训练。运动强度是依据患者平时最大运动强度的$60 \%$ 或者患者的心率达到平时最大运动心率的 $60 \%$ 制定的。我们要求自愿入组的患者在出院进行CRP约 $4 \sim$ 5周后回来门诊复诊。复诊中，我们会再一次收集患者的基本医学信息、空腹血液检查、WC和超声心动图(UCG)。
+
+# 1.3测试指标和设备
+
+研究对象首次完成医疗信息记录包括：(1)人口统计特征：年龄、性别、体质量、吸烟情况、高血压、血脂异常和糖尿病等；(2)既往PCI或溶栓病史。还应包括心率、血压等生命体征。血压测量是用欧姆龙电子血压计测量患者左臂，测量时要求患者坐在椅子上休息 $5 \mathrm { m i n }$ 。1.3.1BMI和WC的测量BMI中文称为身体质量指数，与体内脂肪的多少密切相关，主要反映人群的肥胖情况，已经成为一个评估公众体型的指标。BMI是用体质量公斤数除以身高米数平方得出的数字[23]。WC是反映脂肪总量和脂肪分布的综合指标。测量方法是：被测者双脚分开 $2 5 { \sim } 3 0 ~ \mathrm { c m }$ ，身体直立，保持体质量分配均匀和身体平衡，将软尺经过髂前上嵴和第12肋下缘连线的中点和脐上 $0 . 5 { \sim } 1 . 0 \mathrm { c m }$ 处水平绕一周测量，肥胖者选腰部最粗处水平绕一周测腰围[24-25]。
+
+根据患者的WC将他们分成正常组和异常组。分组是根据美国国立卫生研究院肥胖实用指南和世界卫生组织在2008年颁布的国际糖尿病联合会的指导方针来进行的[26]。认定异常的标准： $\mathrm { w c } { > } 9 0 \ \mathrm { c m }$ 的男性或者$\mathrm { W C } { > } 8 0 ~ \mathrm { c m }$ 的女性。147名患者都严格的被分成正常组和异常组。而在分析BMI时， $\mathrm { B M I } { \geq } 2 5 \ \mathrm { k g } / \mathrm { m } ^ { 2 }$ 被认为异常的。
+
+1.3.2空腹血液检查常规血液检查都是由专业护理人员抽血在临床检验科进行。在研究中收集的抽血指标包括：空腹血糖(FBG)、血清尿酸(UA）总胆固醇(TC)甘油三酯)TG)低密度脂蛋白(LDL_C)和高密度脂蛋白 $\mathrm { \cdot H D L \_ C ) }$ 。一般来说,空腹血糖(FBG)、血脂和血清尿酸(UA)可以代表身体的代谢状态。所以，这些指标的异常提示身体代谢异常，而代谢异常又会引起动脉粥样硬化，进而导致脏器损害[27]
+
+1.3.3超声心动图（UCG）UCG是用超声心动图机(IE33S/N，飞利浦医疗系统，美国)做的。记录的参数如下：左室舒张末期内径(LVDd),室间隔厚度(IVSd)，左室舒张期后壁厚度(LVPWd),射血分数(EF),和短缩分数(FS)。其中，LVDd,IVSd和LVPWd是反映左心室结构的重要参数，而EF和FS是两个反映心脏射血功能的参数。左心室变大和射血功能下降都提示心脏受损。
+
+# 1.4 统计学分析
+
+本研究把患者的基本临床特征和重要的临床变量按照正常组和异常组统计分析。等级变量用百分比表示，连续变量用均数 $\stackrel { \cdot } { \pm }$ 标准差表示。亚组之间的差异性用独立样本t检验和检验检测。独立样本t检验检测连续变量的差异性， $\chi ^ { 2 }$ 检验检测等级变量的差异性。 $P$ 值 $< 0 . 0 5$ 代表差异性有统计学意义。评估肥胖的检测参数WC的临床变量用双尾Pearson检验。重要的临床变量包括：血压，评估身体代谢状态的指标(FBG、TC、TG、LDL_C、HDL_C和UA），测量心脏结构的变量(LVDd、IVSd和LVPWd)，和评估心脏功能的变量(EF和FS)。简单线性回归用来分析评价肥胖和心脏结构改变的变量。多元线性回归分析时采用向后逐步法分析肥胖评价参数WC对于心脏结构改变的影响。WC是独立的变量，简单线性回归和多元线性回归分析时 $P$ 值有统计学意义，分别是 $P { < } 0 . 1 { \sqrt { < } } 0 . 0 5$ 。在进行多元线性回归分析时变量都是经过年龄、吸烟、高血压、糖尿病等危险因素调整的。在患者进行CRP前后都进行了变量统计分析，分析软件是SPSS(IBM公司，美国)。
+
+# 2结果
+
+# 2.1研究对象基本临床特征
+
+147名研究对象的基本临床特征：年龄（岁） $5 1 . 8 \pm$ 9.1，其中男性112名，占 $7 6 . 2 \%$ 。根据WC标准分为正常组和异常组，其中正常组为52名，异常组为95名。两个亚组间，性别差异有统计学意义。另外,高血压和血脂两个危险因素在亚组之间差异有统计学意义（ $P <$ 0.05,表1)。
+
+表1研究对象的临床特征 Tab.1 Clinical characteristics of the patients stratified by waist circumference (WC)   
+
+<html><body><table><tr><td>Characteristics</td><td>Subjects (n=147)</td><td>Normal (n=52)</td><td>Abnormal (n=95)</td><td>P</td></tr><tr><td>Age (years)</td><td>51.8±9.1</td><td>50.4±9.7</td><td>52.5±8.7</td><td>0.168</td></tr><tr><td>Gender (male,%)</td><td>112 (76.2%)</td><td>46 (88.5%)</td><td>66 (69.5%)</td><td>0.010*</td></tr><tr><td>Smoking (%)</td><td>98 (66.7%)</td><td>40 (76.9%)</td><td>58 (61.1%)</td><td>0.051</td></tr><tr><td>Weight (kg)</td><td>69.4±11.2</td><td>67.0±10.1</td><td>70.7±11.7</td><td>0.059</td></tr><tr><td>BMI (kg/m²)</td><td>25.0±3.0</td><td>24.2±2.5</td><td>25.5±3.2</td><td>0.004**</td></tr><tr><td>WC (cm)</td><td>90.5±8.6</td><td>83.4±5.5</td><td>94.4±7.5</td><td>0.000**</td></tr><tr><td>Diabetes (%)</td><td>49 (33.3%)</td><td>13 (25.0%)</td><td>36 (37.9%)</td><td>0.113</td></tr><tr><td>Hypertension (%)</td><td>78 (53.1%)</td><td>21 (40.4%)</td><td>57 (60.0%)</td><td>0.023*</td></tr><tr><td>Dyslipidemia (%)</td><td>124 (84.4%)</td><td>39 (75.0%)</td><td>85 (89.5%)</td><td>0.021*</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1$
+
+# 2.2心脏康复程序进行前后重要临床变量改变结果
+
+在心脏康复程序进行前，根据WC分组的重要临床变量中：仅仅患者的心率差异有统计学意义 $( P { < } 0 . 0 5 )$ O其他临床变量如收缩压、舒张压、FBG、TC、TG、LDL_C、HDL_C、UA、LVDd、IVSd、LVPWd、EF和FS在正常组和异常组之间统计学上没有差异性(表2)。
+
+在心脏康复程序进行后，根据WC分组的重要临床变量在正常组和异常组之间都没有统计学上的差异(表3)。
+
+# $2 . 3 \ \cdots$ 脏康复程序进行前后重要临床变量之间的相关性结果
+
+在心脏康复程序进行前后，根据WC分组的重要临床变量之间的相关性：IVSd和LVPWd与心脏康复程序进行前后的WC正相关(在CRP之前，IVSd: $\scriptstyle \gamma =$ $0 . 2 0 9 , P { = } 0 . 0 1 1$ 和LVPWd: $\gamma { = } 0 . 2 5 0 , P { = } 0 . 0 0 2$ ;在CRP之后，IVSd: $\scriptstyle \gamma = 0 . 2 0 1$ ， $P { = } 0 . 0 1 5$ 和LVPWd: $\gamma { = } 0 . 0 . 1 6 5 , P { = }$ 0.045）。 $\mathrm { \Delta H D L \_ C }$ 和CRP进行前后的WC负相关（在CRP之前， $\gamma { = } { - } 0 . 2 4 3 , P { = } 0 . 0 0 3$ ；在CRP之后， $\scriptstyle \gamma = - 0 . 1 8 7$ $\scriptstyle P = 0 . 0 2 3 ,$ 。在CRP进行之前，FBG和UA与WC正相关，但是在CRP进行之后则没有（在CRP进行之前，FBG: $\gamma { = } 0 . 1 9 3 , P { = } 0 . 0 1 9$ ; UA: $\gamma { = } 0 . 2 5 7 , P { = } 0 . 0 0 2$ ，表4)。
+
+用简单线性相关分析方法分析患者进行CRP之后WC和IVSd,LVPWd的线性关系显示：WC和IVSd,LVPWd存在线性相关。（CRP后，IVSd: $_ { P = 0 . 0 1 5 }$ LVPWd: $P { = } 0 . 0 4 5$ ，表5)。
+
+表6显示在CRP后多元线性回归分析结果。在模型1中,IVSd作为因变量时，WC是自变量，与IVSd相关(调整 $R ^ { 2 } { = } 0 . 0 3 4 , P { = } 0 . 0 1 5 )$ 。在模型2中,经过年龄、吸烟、高血压和糖尿病等因子调整后，WC和高血压都与因变量IVSd显著相关(调整 $R ^ { 2 } { = } 0 . 0 6 2 , P { = } 0 . 0 0 4 \rangle$ 。在模型3中，WC与因变量LVPWd显著相关（调整 $R ^ { 2 } { = }$ 0.021， $P { = } 0 . 0 4 5 )$ 。在模型4中，经过年龄、吸烟、高血压和糖尿病等因子调整后，WC与因变量LVPWd失去相关性，而仅剩糖尿病与LVPWd显著相关（调整 $R ^ { 2 } { = }$ $2 0 . 0 7 8 , P { = } 0 . 0 0 0 \rangle$ 。
+
+表2在心脏康复程序进行前，根据WC分组的临床变量表Tab.2 Clinical variables of the patients stratified by WC before CRI  
+
+<html><body><table><tr><td>Variables</td><td>Subjects (n=147)</td><td>Normal (n=52)</td><td>Abnormal (n=95)</td><td>P</td></tr><tr><td>HR（bpm)</td><td>76.1±14.8</td><td>79.5±17.9</td><td>74.2±12.4</td><td>0.036*</td></tr><tr><td>SBP (mmHg)</td><td>131.0±19.4</td><td>130.2±19.9</td><td>131.4±19.1</td><td>0.708</td></tr><tr><td>DBP (mmHg)</td><td>77.6±12.7</td><td>77.5±13.4</td><td>77.6±12.2</td><td>0.959</td></tr><tr><td>FBG (mmol/L)</td><td>6.3±2.4</td><td>6.1±2.4</td><td>6.3±2.5</td><td>0.543</td></tr><tr><td>TC (mg/dL)</td><td>4.9±1.4</td><td>4.7±1.1</td><td>5.0±1.5</td><td>0.235</td></tr><tr><td>TG (mg/dL)</td><td>2.4±2.6</td><td>2.3±2.8</td><td>2.5±2.6</td><td>0.643</td></tr><tr><td>LDL_C (mg/dL)</td><td>3.1±1.1</td><td>2.9±1.0</td><td>3.1±1.1</td><td>0.271</td></tr><tr><td>HDL_C (mg/dL)</td><td>1.2±0.3</td><td>1.2±0.3</td><td>1.2±0.2</td><td>0.315</td></tr><tr><td>UA (μmol/L)</td><td>372.9±107.4</td><td>360.0±117.2</td><td>379.9±101.5</td><td>0.304</td></tr><tr><td>LVDd (mm)</td><td>49.1±4.9</td><td>48.9±6.1</td><td>49.1±4.1</td><td>0.846</td></tr><tr><td>IVSd (mm)</td><td>9.3±1.7</td><td>9.3±2.0</td><td>9.3±1.5</td><td>0.790</td></tr><tr><td>LVPWd (mm)</td><td>10.3±1.9</td><td>10.4±1.7</td><td>10.3±2.0</td><td>0.828</td></tr><tr><td>EF (%)</td><td>63.4±8.3</td><td>62.3±8.9</td><td>63.8±7.9</td><td>0.422</td></tr><tr><td>FS (%)</td><td>34.9±6.9</td><td>34.7±8.5</td><td>35.0±5.8</td><td>0.811</td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$ HR: Heart rate; SBP: Systolic blood pressure; DBP: Diastolic blood pressure; FBG:Fasting blood glucose; TC: Total cholesterol; TG:Triglycerides; $\mathrm { \ L D L _ { - } C }$ :Low density lipoprotein cholesterol; $\mathrm { \ H D L _ { - } C }$ ：High density lipoprotein cholesterol; UA:Serumuricacid;LVDd:Leftventricularanddiastolicdimension;IVSd:Interventricularseptal thickness at diastole; LVPWd: Left ventricular posterior wallatdiastole;EF:Ejection fraction;FS: Fractional shortening.
+
+表3在心脏康复程序进行后，根据WC分组的临床变量表Tab.3 Clinical variables of patients stratified by WC after CRP  
+
+<html><body><table><tr><td>Variables</td><td>Subjects (n=147)</td><td>Normal (n=46)</td><td>Abnormal (n=101)</td><td>P</td></tr><tr><td>HR（bpm)</td><td>70.5±11.5</td><td>73.0±13.4</td><td>69.4±10.4</td><td>0.105</td></tr><tr><td>SBP (mmHg)</td><td>126.5±15.8</td><td>124.9±17.7</td><td>127.2±14.9</td><td>0.422</td></tr><tr><td>DBP (mmHg)</td><td>75.8±12.3</td><td>75.0±13.7</td><td>76.2±11.6</td><td>0.608</td></tr><tr><td>FBG (mmol/L)</td><td>5.6±2.0</td><td>6.0±2.7</td><td>5.4±1.5</td><td>0.110</td></tr><tr><td>TC (mg/dL)</td><td>3.3±1.1</td><td>3.4±0.8</td><td>3.3±1.2</td><td>0.684</td></tr><tr><td>TG (mg/dL)</td><td>1.6±1.1</td><td>1.5±0.8</td><td>1.7±1.2</td><td>0.398</td></tr><tr><td>LDL_C (mg/dL)</td><td>2.0±0.6</td><td>2.0±0.5</td><td>2.0±0.7</td><td>0.783</td></tr><tr><td>HDL_C (mg/dL)</td><td>1.1±0.3</td><td>1.1±0.3</td><td>1.1±0.2</td><td>0.404</td></tr><tr><td>UA (μmol/L)</td><td>358.9±99.1</td><td>360.2±109.3</td><td>358.4±94.6</td><td>0.918</td></tr><tr><td>LVDd (mm)</td><td>47.9±5.0</td><td>48.2±6.3</td><td>47.8±4.3</td><td>0.694</td></tr><tr><td>IVSd (mm)</td><td>8.9±1.5</td><td>8.7±1.2</td><td>9.0±1.6</td><td>0.178</td></tr><tr><td>LVPWd (mm)</td><td>10.6±2.0</td><td>10.7±1.8</td><td>10.6±2.1</td><td>0.757</td></tr><tr><td>EF (%)</td><td>64.9±9.1</td><td>63.7±10.2</td><td>65.4±8.5</td><td>0.290</td></tr><tr><td>FS (%)</td><td>36.6±6.5</td><td>35.8±6.9</td><td>37.0±6.3</td><td>0.304</td></tr></table></body></html>
+
+# 3讨论
+
+本研究主要探讨在进行CRP的心血管疾病患者中，WC对脏器损害的监测和评估作用。而入选本研究的对象都是因心血管疾病住院治疗，出院后经过4\~5周的标准CRP的患者。本研究发现患者执行CRP后，较低水平的HDL_C、较高的IVSd、较高的LVPWd和WC的增加相关;反映心脏结构改变的参数和WC线性相关;经过年龄、吸烟、高血压、糖尿病分层调整后，WC依然和心脏结构改变保持相关性；在CRP进行之前，FBG和UA与WC正相关，但是在CRP进行之后则没有。
+
+表4在心脏康复程序进行前后，根据WC分组的临床变量之间的相关性 Tab.4 Correlation between clinical variablesand WC before and after CRP   
+
+<html><body><table><tr><td rowspan="2">Variables</td><td colspan="2">Before CRP</td><td colspan="2">After CRP</td></tr><tr><td>1</td><td>P</td><td>r</td><td>P</td></tr><tr><td>SBP (mmHg)</td><td>0.054</td><td>0.516</td><td>0.113</td><td>0.172</td></tr><tr><td>DBP (mmHg)</td><td>0.045</td><td>0.588</td><td>0.111</td><td>0.180</td></tr><tr><td>FBG (mmol/L)</td><td>0.193</td><td>0.019*</td><td>0.043</td><td>0.608</td></tr><tr><td>TC (mg/dL)</td><td>0.063</td><td>0.447</td><td>-0.002</td><td>0.982</td></tr><tr><td>TG (mg/dL)</td><td>0.072</td><td>0.389</td><td>0.104</td><td>0.209</td></tr><tr><td>LDL_C (mg/dL)</td><td>0.117</td><td>0.158</td><td>0.030</td><td>0.716</td></tr><tr><td>HDL_C (mg/dL)</td><td>-0.243</td><td>0.003**</td><td>-0.187</td><td>0.023*</td></tr><tr><td>UA (μmol/L)</td><td>0.257</td><td>0.002**</td><td>0.133</td><td>0.109</td></tr><tr><td>LVDd (mm)</td><td>0.153</td><td>0.064</td><td>0.080</td><td>0.336</td></tr><tr><td>IVSd (mm)</td><td>0.209</td><td>0.011*</td><td>0.201</td><td>0.015*</td></tr><tr><td>LVPWd (mm)</td><td>0.250</td><td>0.002**</td><td>0.165</td><td>0.045*</td></tr><tr><td>EF (%)</td><td>-0.119</td><td>0.151</td><td>-0.038</td><td>0.650</td></tr><tr><td>FS (%)</td><td>-0.118</td><td>0.155</td><td>-0.036</td><td>0.665</td></tr></table></body></html>
+
+\*P<0.05,\*\*P<0.01.
+
+表5在执行CRP后，WC和IVSd,LVPWd之间的线性关系 Tab.5 Simple linear correlation analysis of IVSd,LVPWd,and WC after CRP   
+
+<html><body><table><tr><td>Dependent factor Independent factor</td><td></td><td>Lower 95% CI</td><td>Upper 95% CI</td><td>P</td><td>R</td></tr><tr><td rowspan="2">IVSd (mm)</td><td>WC after CRP</td><td>0.007</td><td>0.063</td><td>0.015*</td><td>0.040</td></tr><tr><td>Constant</td><td>3.174</td><td>8.294</td><td>0.000</td><td></td></tr><tr><td rowspan="2">LVPWd (mm)</td><td>WC after CRP</td><td>0.001</td><td>0.078</td><td>0.045*</td><td>0.027</td></tr><tr><td>Constant</td><td>3.531</td><td>10.539</td><td>0.000</td><td></td></tr></table></body></html>
+
+$^ { * } P { < } 0 . 0 5$
+
+WC有可能引起人群特征发生差异性改变。在执行CRP前，根据WC标准分组的各亚组间，患者高血压和血脂两个危险因素差异有统计学意义(表1)。表2显示：在心脏康复程序进行前，根据WC分组的重要临床变量中，患者的心率差异有统计学意义 $( P { < } 0 . 0 5 )$ 。其他临床变量如收缩压、舒张压、FBG、TC、TG、LDL_C、HDL_C、UA、LVDd、IVSd、LVPWd、EF和FS在正常组和异常组之间统计学上没有差异性。同时，表3提示：在心脏康复程序进行后，根据WC分组的重要临床变量在正常组和异常组之间都没有统计学上的差异。综上所述,在心脏康复前后，用WC来评价预后，肥胖患者比不肥胖的患者预后差,特别是高血压和高血脂的发生。这主要是因为身体脂肪的长期慢性积累最终会导致一系列的病理生理改变，比如心输出量的增加、炎症、代谢异常和动脉粥样硬化。而这一系列的病理生理改变在器官损害中发挥着重要作用。例如，血压增高引起心脑肾等重要脏器的损害并发生心肌梗死、脑梗死等严重并发症28，而代谢异常特别是血脂异常也能引起的严重的器官损害[29-30]。这也就是现在临床处理中特别重视降压降脂的原因。
+
+表6在CRP后，IVSd、LVPWd和WC的多元线性回归分析Tab.6 Multiple linear correlation analysis of IVSd,LVPWd,and WC after CRP  
+
+<html><body><table><tr><td>Model</td><td>Variables</td><td>β</td><td>P</td><td>Adjusted R</td><td>P</td></tr><tr><td rowspan="2">Dependent factor: IVSd; Independent factor: WC</td><td>Constant</td><td></td><td>0.000</td><td rowspan="2">0.034</td><td rowspan="2">0.015*</td></tr><tr><td>WC after CRP</td><td>0.201</td><td>0.015</td></tr><tr><td rowspan="2">Dependent factor:IVSd; Independent factor: WC,Age,Smoking,Hypertension,Diabetes</td><td>Constant</td><td></td><td>0.000</td><td rowspan="2">0.062</td><td rowspan="2">0.004**</td></tr><tr><td>WCafter CRP</td><td>0.159</td><td>0.054</td></tr><tr><td rowspan="2">Dependent factor: LVPWd;</td><td>Hypertension</td><td>0.192</td><td>0.021</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>Constant</td><td></td><td>0.000</td></tr><tr><td rowspan="2">Independent factor: WC Dependent factor:LVPWd; Independent factor:</td><td>WC after CRP</td><td>0.165</td><td>0.045</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>Constant</td><td></td><td>0.000</td></tr><tr><td rowspan="2">WC,Age,Smoking,Hypertension,Diabetes</td><td>Diabetes</td><td>0.290</td><td>0.000</td><td rowspan="2">0.078</td><td rowspan="2">0.000**</td></tr><tr><td></td><td></td><td></td></tr></table></body></html>
+
+$^ { \mathrm { t } } P { < } 0 . 0 5$ $^ { * * } P { < } 0 . 0 1$
+
+WC和心脏机构改变有着密切的关系。首先，在本研究中增加的WC和降低的HDL_C，升高的LVSd,升高的LVPWd相关,结果也与之前的研究一致[31-32]。有实验证明肥胖或超重对血流动力学和心脏结构功能有不良的影响[33]。肥胖通常会引起心脏内部压力和体积的增加,进而增加心脏负荷导致左心室扩张和肥大。一般地，LVDd、IVSd和LVPWd是评估左心室结构早期变化的重要指标[34-35]。本研究发现在积极参与CRP的患者中左心室结构的改变是有意义的，尤其是在超重或者肥胖的患者中。结果也表明WC是评价肥胖的重要参数之一，在监测肥胖和提示预后上发挥着重要作用。其次，在本研究中患者进行CRP前后，IVSd和LVPWd与WC存在正相关关系，而HDLC与WC是负相关。WC和IVSd、LVPWd在用简单线性回归和多元线性回归分析中都是有统计学意义的(表5,6)。而IVSd和LVPWd的增大代表更加严重的左心室代偿性肥大，所以我们推测WC能反映积极进行CRP的心血管疾病患者的心脏结构变化。产生这种相关性的可能原因是WC能准确的评估身体脂肪分布情况[]。由于脂肪组织可以诱导代谢紊乱、炎症反应、内分泌紊乱和动脉粥样硬化等[3，所以慢慢累积的体脂是非常有害的，而且更易引起心血管疾病[37]。另外,WC反映的向心性肥胖通过增加心脏负担引起血流动力学紊乱、心脏和血管缺血缺氧,进而影响心脏结构和功能[38-39]。左心室扩张和肥大是主要的心脏结构变化，而肥大的左心室给心血管系统又增加了额外的负担,进而可能导致高血压、心律不齐和心衰等[38.40-41]。之前的研究与本研究的结果也是一致的。例如,Turkbey等42研究5098名参与者的左心室质量体积比和肥胖的关系，结果显示更大的左心室质量体积比与更高的肥胖指标线性相关。其中，肥胖指标就有WC和WHR（腰臀比）。同时Apridonidze等[43]也报道称左心室过度增大与WC的增大密切相关。综上所述,WC和积极进行CRP的心血管疾病患者的心脏结构保持良好的线性相关。最后，多元线性回归分析告诉我们,在心血管疾病患者积极进行CRP后，经年龄、高血压和糖尿病调整的WC和IVSd、LVPWd存在相关性。这就是说,WC和心脏结构改变独立相关[43]。WC代表向心性肥胖,可以真实地反映的体脂分布情况[12.14]。某些研究也报道称向心性肥胖者有更大的风险患上心血管疾病[445]。Despres等[4做了大量的文献回顾和分析得出：WC和腰臀比(WHR)在心血管疾病死亡风险分层中比BMI更可靠。也有研究表明人群总死亡率风险的增加和WC直接相关，而不是 $\mathbf { B M I } ^ { [ 4 7 ] }$ 。这就是说,WC在预测心血管疾病的器官损害中有价值。这一点可能在积极进行CRP的心血管疾病患者中同样适用。
+
+此外,本研究也显示在患者进行CRP之前，FBG、UA和WC正相关(见表4)。众所周知，肥胖、高血压、血脂异常、胰岛素抵抗和2型糖尿病等都是心血管疾病的危险因素,都与心血管疾病的发生发展密切相关[.30]所以，WC可以作为十分重要的心血管疾病临床评价指标。除此之外，年龄能够引起包括心血管疾病在内的整个身体机能的下降。这也可以解释我们的发现
+
+根据上述研究结果可以认为：WC能够准确地评估那些积极进行CRP心血管疾病患者的器官损害，尤其是在评估左心室结构方面。换句话说，我们认为WC越大，患者就越可能发生心肌肥大、心室扩张或动脉粥样硬化等病理变化。那么，WC是一个很重要的肥胖指标，应该考虑应用到我们日常的临床护理工作中。例如，WC可以用来评估心血管疾病患者的肥胖情况，尤其是接受并执行CRP的患者。在未来的临床医疗护理工作中，我相信WC能够为积极进行CRP的心血管疾病患者(尤其是超重或肥胖患者)提供早期诊断、准确评估器官损害和良好预后的作用。
+
+然而，本研究还是有很多不足。首先,研究对象共147人，样本量不够，跟踪随访所有研究对象时间较短，仅为1月。本研究收集这些患者执行CRP前后的不同数据，特别是根据WC评估器官损害的不同指标，采用了合适的统计学方法做分析。由于某些原因，本研究没有收集到其他肥胖指标的基本数据，如腰臀比(WHR)。本研究缺乏空白对照组。在分析过程中无法排除药物的影响。而且，由于时间、人力成本和患者依存性等困难，本研究制定的CRP周期较短，失去获得更好数据的机会。
+
+# 参考文献：
+
+[1]Bastien M,Poirier P,Lemieux I,et al. Overview of epidemiology and contribution of obesity to cardiovascular disease [J]. Prog Cardiovasc Dis,2014,56(4): 369-81.   
+[2]Leon AS,Franklin BA,Costa F,et al. Cardiac rehabilitation and secondary prevention of coronary heart disease-an american heart association scientific statement from the council on clinical cardiology (subcommittee on exercise,cardiac rehabilitation,and prevention）and the council on nutrition,physical activity,and metabolism (subcommittee on physical activity),in collaboration with the american association of cardiovascular and pulmonary rehabilitation[J].Circulation,2005,111(3):369-76.   
+[3]杜闻莹.冠心病患者心脏康复研究进展[J].中国心血管病研究,2015, 13(2): 106-9.   
+[4]Piepoli MF,Corra U,Adamopoulos S,et al. Secondary prevention in the clinical management of patients with cardiovascular diseases. core components,standards and outcome measures for referral and delivery:a policy statement from the cardiac rehabilitation section of the european association for cardiovascular prevention & rehabilitation.endorsed by the committee for practice guidelines of the european society of cardiology[J].Eur JPrev Cardiol,2014,21 (6): 664-81.   
+[5]Arena R,Guazzi M,Lianov L,et al. Healthy lifestyle interventions to combat noncommunicable Disease-A novel nonhierarchical connectivity model for key stakeholders:a policy statement from the American heart association,European society of cardiology, European association for cardiovascular prevention and rehabilitation,and American college of preventive medicine[J].Mayo Clin Proc,2015,90(8):1082-103.   
+[6]Mcauley PA,Beavers KM.Contribution of cardiorespiratory fitness to the obesity paradox[J].Prog Cardiovasc Dis,2014,56(4): 434-40.   
+[7]Arena R,Cahalin LP.Evaluation of cardiorespiratory fitness and respiratory muscle function in the obese population [J].Prog Cardiovasc Dis,2014,56(4): 457-64.   
+[8]De Schutter A,Lavie CJ,Milani RV. The impact of obesity on risk factors and prevalence and prognosis of coronary heart Disease-The obesity paradox[J].Prog Cardiovasc Dis,2014,56(4): 401-8.   
+[9]Gruberg L,Weissman NJ, Waksman R,et al. The impact of obesity on the short-term and long-term outcomes after percutaneous coronary intervention: The obesity paradox?[J].JAm Coll Cardiol, 2002, 39(4): 578-84.   
+[10]Poirier P. Adiposity and cardiovascular disease: are we using the right definition of obesity?[J].Eur Heart J,2007,28(17): 2047-8.   
+[11]Migaj J,Prokop E,Straburzynska-Migaj E,et al. Does the influence of obesity on prognosis differ in men and women?A study of obesity paradox in patients with acute coronary syndrome [J]. Kardiol Pol,2015,73(9): 761-7.   
+[12] Lavie CJ,Milani RV,Ventura HO. Obesity and cardiovascular disease risk factor,paradox,and impact of weight loss[J].JAm Coll Cardiol,2009,53(21): 1925-3.   
+[13]Lavie CJ, Milani RV, Ventura HO,et al. Bodycomposition and heart failure prevalence and prognosis:getting to the fat of the matr in the“obesity paradox"[J].Mayo Clin Proc,2010,85(7): 605-8.   
+[14]Lavie CJ,De Schutter A,Patel DA,et al. Body composition and coronary heart disease Mortality-An obesity or a lean paradox?[J]. Mayo Clin Proc,2011,86(9): 857-64.   
+[15]梁 春,伍 锋,吴宗贵.心血管疾病之肥胖悖论带来的新思考[J].上海 医学,2011,34(5): 337-40.   
+[16]Dagenais GR,Yi QL,Mann JF,et al. Prognostic impact of body weight and abdominal obesityinwomen and menwith cardiovascular disease[J].Am Heart J,2005,149(1): 54-60.   
+[17]De Koning L, Merchant AT,Pogue J,et al. Waist circumference and waist-to-hip ratio as predictors of cardiovascular events: metaregression analysis of prospective studies[J].Eur Heart J,2007,28 (7): 850-6.   
+[18]Nunes CN,Minicucci MF,Farah EA,et al. Impact of diferent obesity assessment methods after acute coronary syndromes[J].Arq Bras Cardiol,2014,103(1): 19-24.   
+[19]Miyazaki SI,Hiasa Y, Takahashi TA,et al.Waist circumference reduction ismore strongly correlated with the improvement in endothelial function after acute coronary syndrome than body mass index reduction[J].JCardiol,2010,55(2): 266-73.   
+[20]祝之明.代谢综合征的临床特征与发病机制[J].第三军医大学学报, 2009, 31(1): 17-20.   
+[21] Wang X,Yang F,Bots ML,et al.Prevalence of the metabolic syndrome among employees in Northeast China[J]. Chin Med J (Engl),2015,128(15): 1989-93.   
+[22]Lee MJ,Wu YY,Fried SK. Adipose tissue heterogeneity: Implication of depot differences in adipose tissue for obesity complications[J].Mol Aspects Med,2013,34(1,SI): 1-11.   
+[23]马冠生.腰围是健康的晴雨表[J].健康必读,2013(9):42.   
+[24]付 萍.基础性常规健康监测手段更需标准规范—《人群健康监测 人体测量方法》标准解读[J].中国卫生标准管理,2013(1):40-1.   
+[25]赫 鹏,孙文慧,马 翠,等.中青年体质指数、腰围及腰臀比与脑卒中发 生的相关性研究[J].中国全科医学,2012(17):1924-7,1931.   
+[26]Who EC.Waist Circumference and Waist-Hip Ratio[J]. Geneva, 2008: 8-11.   
+[27]Ades PA,SavageP.Potentialbenefitsof weight lossinoary heart disease[J]. Prog Cardiovasc Dis,2014,56(4): 448-56.   
+[28]齐建光,杜军保.儿童高血压的临床表现和靶器官损害[J].中国社区 医师,2006(18): 8.   
+[29]赵家军,杨利波.甲状腺功能减退与血脂异常[J].中国实用内科杂志, 2014(4): 340-3.   
+[30]杜江蕾,黄淑田.血脂异常与高血压及高血压合并冠状动脉粥样硬化 性心脏病的相关性分析[J].实用医技杂志,2015(4):408-9.   
+[31]Patel DA,Lavie CJ, Milani RV,etal.Association of left ventricular geometry with left atrial enlargement in patients with preserved ejection fraction[J]. Congest Heart Fail,2012,18(1): 4-8.   
+[32]Ravensbergen HC,Lear SA, Claydon VE.Waist circumference is the best index for Obesity-Related cardiovascular disease risk in individuals with spinal cord injury[J].JNeurotrauma,2O14,31(3): 292-300.   
+[33] Lavie CJ,Alpert MA,Arena R,et al. Impact of obesity and the obesity paradox on prevalence and prognosis in heart failure[J]. JACC Heart Fail,2013,1(2): 93-102.   
+[34] Krumholz HM,Larson M,Levy D.Prognosis of left ventricular geometric patterns in the Framingham Heart Study[J].JAm Coll Cardiol,1995,25(4): 879-84.   
+[35]Gerdts E,Cramariuc D,Wachtell K,et al. Impact of left ventricular geometry on prognosis in hypertensive patients with left ventricular hypertrophy (the Life study)[J]. Eur Heart J,2006,27(1): 298-9.   
+[36]Henry SL,Barzel B,Wood-Bradley RJ,et al.Developmental origins ofobesity-related hypertension ［J].Clinical and Experimental Pharmacology and Physiology,2012,39(9): 799-806.   
+[37]Mourmoura E,Chate V,Couturier KA,et al. Body adiposity dictates different mechanisms of increased coronary reactivity related to improved in vivo cardiac function[J]. Cardiovasc Diabetol,2014, 13: 54.   
+[38]Lavie CJ,McauleyPA,Church TS,et al. Obesity and cardiovascular diseases:implications regarding fitness,fatness,and severity in the obesity paradox[J]. JAm Coll Cardiol,2014,63(14): 1345-54.   
+[39]Bender SB,Laughlin MH.Modulationofendothelialcellpotpe by physical activity:impact on obesity-related endothelial dysfunction[J].Am JPhysiol Heart Circ Physiol,2015,309(1): H1-8.   
+[40]Klop B,Elte JW,CabezasMC.Dyslipidemia in obesity: mechanisms and potential targets[J]. Nutrients,2013,5(4): 1218-40.   
+[41] Rashid MA,Qureshi BA,Ahmed N,et al. Impact of body mass index on left ventricular mass[J].JAyub Med Coll Abbottabad, 2014,26(2): 167-9.   
+[42] Turkbey EB,Mcclelland RL,Kronmal RA,et al.The impact of obesity on the left ventricle the Multi-Ethnic study of atherosclerosis (Mesa)[J]. JACC Cardiovasc Imaging,2010,3(3): 266-74.   
+[43]Apridonidze T, Shaqra H, Ktaich N,et al. Relation of components of the metabolic syndrome to left ventricular geometry in Hispanic and non-hispanic black adults[J].Am J Cardiovasc Dis,2011,1(1): 84-91.   
+[44]Hsieh SD,Yoshinaga H. Abdominal fat distribution and coronary heart disease risk factors in men-waist/height ratio as a simple and useful predictor[J].Int J Obes Relat Metab Disord,1995,19(8): 585-9.   
+[45]Brietzke SA.A personalized approach to metabolic aspects of obesity[J]. Mount Sinai JMedi,2010,77(5): 499-510.   
+[46]Despres JP. Excess visceral adipose tissue/ectopic fat the missing Link in the obesity paradox?[J].JAm CollCardiol,2011,57(19): 1887-9.   
+[47] Lopez-Suarez A,Bascunana-Quirell A,Beltran-Robles M,et al. Metabolic syndrome does not improve the prediction of 5-year cardiovascular disease and total mortality over standard risk markers.Prospective population based study[J].Medicine (Baltimore), 2014, 93(27): e212.
+
+(编辑：经媛)

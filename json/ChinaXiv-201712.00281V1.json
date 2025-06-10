@@ -1,0 +1,533 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM+FM技术的应用及探讨一以中建广场项目应用为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张飞廷王承²梁铭吴伟汪浩²",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.上海中建东孚投资发展有限公司，上海200122；2.华东建筑设计研究院有限公司，上海200041)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】BIM技术作为目前建筑工程采用最多的新技术之一，其在设计及施工阶段所创造的价值已经被越来越多的为行业及企业所认同。但运维作为建筑设计施工阶段的延续和BIM的结合目前由于各种原因其价值并没有得到较好的诠释。本文研究了 $\\mathrm { B I M } + \\mathrm { F M }$ 技术在中建广场项目中的应用，着重研究了 $\\mathrm { B I M } + \\mathrm { F M }$ 的技术路线,及其在实际项目中空间管理、设备运维管理、智能化能耗集成等业务模块的实践。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】BIM；FM；定制运维；中建广场【中图分类号】TU17 【文献标识码】A 【文章编号】1674-7461(2017)04-0019-07【DO1】10.16670/j.cnki.cn11-5823/tu.2017.04.04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "12引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BIM技术作为目前建筑工程项目采用最多的新技术之一，由于其在设计施工阶段技术的不断成熟及其带来的实际收益让越来越多的建设企业或项目参与方投入至BIM技术的应用推广中。而作为建筑设计施工行业的延续，建筑的运维和BIM的结合目前却并无太多的成功案例。当然，其中的原因多种多样:数据标准的传递[1]、建造方和物业持有方并无利益交集、国内运维的人员相对于设计施工行业普遍专业技能不高、国内运维专业化程度远不及设计施工专业等。这些原因一方面造成了国内物业管理相对落后，另一方面也造成了新技术的诞生在物业运维领域内的推动阻碍重重。而 $\\mathrm { B I M } +$ FM技术在国外诸多建筑中的成功应用表明，基于建筑信息模型的运维，其带来的不仅仅是技术的变革，更重要的是精细化管理理念的变化。因此在国内应用及推进过程中，企业如果没有强制性的自上而下的推动， $\\mathrm { B I M } + \\mathrm { F M }$ 技术的应用在实际工程中推动必将是亦步亦趋、困难重重。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 项目背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中建广场项目临近上海世博园区，位于高科西路东明路交汇口处。项目总占地面积 $1 6 ~ 5 0 0 \\mathrm { m } ^ { 2 }$ ，建筑面积 $7 5 ~ 7 0 0 \\mathrm { m } ^ { 2 }$ ,其中地上 $5 0 \\ 0 0 0 \\mathrm { m } ^ { 2 }$ ,地下25700$\\mathbf { m } ^ { 2 }$ 。容积率3.0,绿地率 $20 \\%$ ,建筑密度 $4 4 . 3 \\%$ 。项目主要业态为商办综合体，建成后为知名央企办公总部，整体可分四部分，其中1号主楼为17层办公楼；2号辅楼为10层办公楼；3号裙楼为4层商业楼；地下室两层。规划初期项目制定了绿色三星及LEED金奖的绿色需求，单位建筑面积低能耗度的节能运营目标。为解决工程施工困难及高绿色性能需求,在项目全生命周期中引入BIM技术，辅助进行项目设计、施工及运营维护，力争将绿色设计、绿色施工和绿色生活的理念贯穿于建筑全过程，达到自然、建筑与人的和谐统一。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6a947847d09a9b7aba49515050ae6cd74e15197c6a3f4c29175878335e291fdb.jpg",
+        "img_caption": [
+            "图1 项目效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作为自持的高端物业，建设方对于 $\\mathrm { B I M } + \\mathrm { F M }$ 技术的应用充满期待，建设方也因此成立了以公司领导为组长，物业领导为副组长的推动小组，在项目建设期间着重推行BIM技术在项目设计及施工阶段的应用实施，项目竣工交付期着重推动 $\\mathrm { B I M } + \\mathrm { F M }$ 技术的应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 项目实施",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 需求调研 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "物业管理相对来讲为一个比较大的学科，其所涉及到业务范围非常广泛，包括房屋建筑主体的管理；房屋设备、设施的管理；环境卫生管理；绿化管理；安保管理；消防管理；车辆道路管理等[2]。BIM模型作为建筑信息集成体其所含有的信息量非常大 ，但这些数据信息尚还不足以支撑物业管理的所有需求。因此本项目运维阶段BIM技术应用时，以\"综合性、实用性、展示性及技术引领适当性”为项目总体定位原则,充分调研了 $\\mathrm { B I M } + \\mathrm { F M }$ 运维技术其对现有竣工模型影响，最终确定传统物业为主，BIM运维为辅的局部领先的新型物业管理模式，并最终确定空间管理、设备运维管理、智能化能耗集成等运维业务的BIM实践。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 平台调研",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FM管理作为相对成熟的专业在国外已经发展多年,并孕育了多个成熟的系统产品。2011年Gart-ner公司的IWMS（集成办公场所管理系统)魔力象限图从行业领导力、执行能力、产品完善度对各家主要FM产品做了分析对比（图2)[3]。但FM的概念在中国刚开始普及，大部分国际FM厂商并未进入中国，而进入中国的产品—ARCHIBUS、FM：Systems、IBM公司的TRIRIGA等，由于其对物业系统的理解相对于国内物业水平来讲有所差异[4]，同时由于对BIM数据标准支持性等问题，导致这些国际产品本土化应用的普适性较低，实施过程复杂，实施费用较高，在本项目中直接采用国外FM系统风险性较大。而国内CCDI、广州优比等公司基于AutodeskNaviswork开发了一些FM应用，主要是用于单个项目的局部应用，不具备产品的意义，总体来讲有以下缺陷：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)定位于设备管线维护，缺少空间规划、资产",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "管理等FM基本模块;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)针对项目开发，产品化程度较低；  \n(3)缺少BIM标准支持;  \n(4)缺少数据集成方案。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f046ebcdaf6e50029ffa126f828413ad3028369ffd066efdf7ee386eb10c319.jpg",
+        "img_caption": [
+            "图2主流FM管理系统"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，经过充分的市场调研后，我们选取了国内本土开发团队华建集团研发的ARC-PLUSFM系统进行本项目运维的实施。该系统具备以下特点[5]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）良好的BIM标准支持、开放的数据接口。充分支持中建广场在设计、建设过程中产生的BIM数据，使BIM向运维阶段延伸；(2)集成能耗监测系统，能实时采集能耗数据，为能耗分析提供基础信息；(3)统一的运维门户，提供文档管理(BIM模型文件、维护手册、规章制度）、通讯录、公文流转等协同功能，并集成主要FM功能入口。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "运维平台总体架构如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3 数据准备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 运维模型制作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多数情况下，竣工模型是可以直接作为运维模型进入运维平台的。但竣工模型所含的设计信息及施工信息量非常巨大，而诸如“设计做法”“钢筋信息”等信息其在运维阶段几乎属于无效信息，而运维比较关注“设备说明书”等信息其在竣工模型中却无法涵盖全面，所以竣工模型直接作为运维模型使用会带来比较多的问题。一般情况下，需对竣工模型进行必要的轻量化处理，去除对运维应用的“无效信息”，保证模型进入运维平台运行顺畅。同时需针对物业运维的实际需求情况检查模型中的属性情况及收集必要信息进行平台的外挂，如物业的空间管理需求则需要在模型中录入所有的“房间信息”；设备运维管理需求则需要制作设备清册表及设备点位图等，能耗管理则需要集成BMS系统。另外,在国内常规项目实施过程中，竣工模型般都依据竣工图纸完成,而竣工图纸和现场的吻合度并不高，因此如需要依据模型实现精细化的物业管理，需核查模型和实际施工的吻合度，并依据现场实际施工情况和物业运维需求复勘现场，并依据复勘报告修正运维模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c62ecec4e7441315723aa51c313fce45c2cc7477f497a421757c8fe44383b276.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. 设备分类编码制作",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设备分类编码是运维管理平台数据库建立的基础，只有在统一的数据编码标准下，才能将不同数据来源、不同格式的数据传递共享给平台，为具体的运维业务服务。中建广场项目运维管理平台的数据库建立过程中，创建了针对于中建广场项目独特的分类编码体系对设备类型进行了分类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型与构件的编号命名方式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[设备系统号] $^ +$ ［设备类别号］ $^ +$ ［规格序列号］ $^ +$ ［楼层号] $^ +$ ［楼宇号] $^ +$ ［序列号]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，设备系统号由两位数字组成，中建广场的设施总共分类为7个系统，包括暖通、强电、弱电、给水、排水、消防、卫浴、土建等系统。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设备类别号由两位数字组成，表示不同的设备类别，比如送排风系统下的送风机和排风机两种设备。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff8304766a39665c6cf06bc6925f3b4179a40f1a89fe1bd484918bf6dcc35cb2.jpg",
+        "img_caption": [
+            "图3ARCPLUSFM系统总体架构",
+            "图4设备系统编码"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "规格号由两位数字组成，表示同类别的设备不同规格的类型，比如同为送风机的S-1送风机和S-2送风机。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "楼层号用英文楼层的两位缩写表示，比如地下一层为B1F,一层为1F,顶层为RF。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "楼宇号代号为1，表示中建广场1号楼。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "序列号为同系统同类别同规格下的设备实例编号，为三位自增排序数字，比如有三台S-2送风机，那么编号为001，002，003。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 运维数据交互",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中建广场BIM运维建模的制作及维护过程中始终与ARCPLUSFM保持协同，以确保运维模型始终符合ARCPLUSFM的数据需求。作为BIM模型与ARCPLUSFM沟通的关键数据，模型中的每一个设备或家具都需要包含ARCPLUSFM提供的唯一的编码（即设备编码，利用Revit族的Mark参数存",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cfc4d93cc30c35b9f265cc9e5e31f1e8402d599dee0c30fb20a06a7d05b7bdc.jpg",
+        "img_caption": [
+            "图5设备规格簿"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "放）,同时还提供Revit共享参数Equipment Stand-.  \nard,存放ARCPLUSFM的设备规格编码。中建广场  \n的 BIM模型包括几何信息、对象名称、材料信息、系  \n统信息、型号信息、时间版本等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "运维配置 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在进行项目FM实践前，通过和专业物业团队的交流沟通，我们对常规物业业务（图6)及其对于引人三维运维所希望达到的要求进行了梳理（图7)通过对物业现有管理模式的探讨，我们发现基于实际工程的 $\\mathrm { B I M } + \\mathrm { F M }$ 技术应用对于部分物业业务尚没有达到非常高效的状态,如“行政人事管理”“日常报修维护”等,传统“日常报修维护”当发现楼栋中出现相对简单的问题时，业主会第一时间直接进行电话沟通，物业维护人员会依据业主的描述进行快速的响应和处理，后续再进行补充工单等其他程序。而如在目前阶段引入 $\\mathrm { B I M } + \\mathrm { F M }$ 系统，则需要业主在电脑客户端或手机APP端进行问题描述提交至前台，进行工单派发传送至物业主管进行批复方可进行维修处理，如描述不够详尽,还需物业人员联系业主对现场情况进行二次确认后才能采取下一步动作一去仓库领料换取配件还是直接上门维护。引入 $\\mathrm { B I M } + \\mathrm { F M }$ 系统对于物业的部分业务并没有产生优化，相反使得流程过于程序化而无法快速的为业主服务。无疑，在目前阶段利用 $\\mathrm { B I M } +$ FM技术进行运维管理需有针对性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，在本项目FM实施前，我们重点分析了本",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a33d20e41df22b835c43174c3b77347aa9d2391c5f9a3b3313dbc4e35d271a5.jpg",
+        "img_caption": [
+            "图6常规物业业务",
+            "图7三维运维物业要求"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "01 三维可视 高效管理 02新式物业管理手段希望可以三维 管理方法与模式效率高。可视化操作，更直观具体。D 四  \n03 快速响应 全局可控 04当客户保修或发生警报，物业可 物业可以掌控园区包括人事、设以马上收到通知并启动应急预 备、安保、清洁等的方方面面，案 日 品  \n05 智能集成 数据资料库 D6各功能通过智能手段，集成到统 国 运营维护的相关数据与资料收集一平台，方便操作。 士 保存，并可随时调用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "项目建成后利用三维技术能便利解决的运维难点：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)空间租赁管理：提供建筑空间基础数据，管  \n理自用、出租区域、租赁客户和租约；(2)设备资产管理：对楼宇设备、自有的办公设  \n备和家具与空间位置、使用及维护人员有机地结合  \n在一起进行管理；(3)运维管理：对建筑物相关设施设备进行日  \n常运营维护；(4)集成监控与报警：与楼宇弱电智能化系统  \n集成，通过整合的界面提供常用的设备运行数据和",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9ad89e7efe8fb73eb8ef1fed215d7dee476e4b894bcdad354044403f7bcbd22.jpg",
+        "img_caption": [
+            "图8中建广场FM管理平台首页"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "状态报警; ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5)绿色运营数据采集：监控楼宇能耗状态，有效降低能源消耗和运行成本，帮助采集绿色运营数据,协助通过绿色运营星级评定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "最终在本项目FM 运维实践中,我们依据物业的实际需求，以BIM模型作为中建广场运维管理的核心数据来源和操作载体，集成楼宇弱电智能化系统，配置空间管理、设备资产管理、运维管理、智能化集成等功能模块，实现中建广场部分运维难点的3D可视化、智能化、流程化。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5 运维实践 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.51 运维门户 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中建广场FM管理平台首页集成了中建广场的基本信息、整体模型查询浏览、重点数据监控等快捷模块。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)可快速查询、浏览中建楼宇楼层信息;  \n(2）可时时监控、查询能耗情况及报警系统;  \n(3)可随时查看当日或近期维保计划或安排。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 空间管理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "空间管理模块：将建筑物的空间数据与企业的组织架构、人力资源整合进行管理，随时掌握各个部门和人员的空间使用情况。合理规划设施空间的分配、租赁与使用，确保租约签订与履行，优化空间利用率，提高租赁收人，降低业务成本。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与BIM结合，图形化展示空间使用状况，如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)合理调整空间分配，提高空间使用效率；",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e9f6610808fc33fc78ef98b49156a485d87b7ebb2a0fe9911fd25f3d18e0687.jpg",
+        "img_caption": [
+            "图9中建广场B02空间管理模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)空间费用分摊自动化到部门，实现精细管理；(3)针对出租物业定义租赁单元、租约、租户，提供租约到期预警、房租/物业费收费管理;(4)企业自用物业按部门占用空间并分摊空间成本，计算空间效益，提供多种分析报表；（5）与EMS能源管理系统集成自动分摊水电费。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5.3 设备管理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设备管理模块：中建广场项目拥有大量复杂的设备资产，需要对建筑的设备、家具与空间位置、使",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/09ade243d98040eec92bc2f791699e2b868e0978726b8a2d4a457dc4cea285c3.jpg",
+        "img_caption": [
+            "图10 设备管理模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用及维护人员有机地结合在一起进行管理。实现资产盘点、分配、搬迁、折旧、报废等操作(图10）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2（1)从BIM模型导入设备信息，建立设备台账。满足设备零部件维修、保养、更换等工作的跟踪、记录的要求;",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2)通过BIM模型获取设备属性(三维尺寸、空间定位、材质、生产厂家、品牌、型号、编号等信息）、维护记录、文档；",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3)通过二维码跟踪设备的检查、维护、更换",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.\\$.4 运维管理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对各个建筑物及相关设施设备进行日常运营维护。包括应需维护、定期维护、设备大中修。鉴于前述分析,本项目中的 $\\mathrm { B I M } + \\mathrm { F M }$ 的运维管理仅涉及定期维护及设备大中修维护。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "定期维护（预防性维护）为设备日常维护工作建立全面的预防性维护程序。可以定义检查、校正、清洗、润滑、配件更换、测试等任务，然后安排工作在必要的时间间隔进行，防止故障,保持设备正常操作（图11）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1)定义维护计划后，可以指示系统自动生成工单执行任务；(2)通过自动化的预防性维护，可以最大限度地防止错过关键维护，避免事故。确保工单被高效及时地执行，资源得到合理调度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.5 能耗监控 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "能耗监控模块：通过BIM平台能够实现项目能耗监测及数据统计。通过精确或模糊搜索能快速定位到项目中的任何一个智能设备，并读取其实时或过往数据，并实现基于该设备三维模型的基本信息、逐时信息、能耗总览、用电用水总量控制以及用电用水分项占比组成等，达到监控楼宇能耗状态，有效降低能源消耗和运行成本的目的。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/385dc0abd959023faf016f243ec436141fe9d0e1fc183f9506d41589982605f3.jpg",
+        "img_caption": [
+            "图11 运维管理模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4总结 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { B I M } + \\mathrm { F M }$ 技术作为建筑设计施工阶段数字化技术的延伸，由于各种原因，其价值并没有得到太多的认可。当然经过近些年来不断的研究和实践,$\\mathrm { B I M } + \\mathrm { F M }$ 技术在建筑运营维护阶段的应用亦是大势所趋。 $\\mathrm { B I M } + \\mathrm { F M }$ 技术的在工程建设项目中的全面应用需要企业自上而下的推动，需和项目物业实际情况进行紧密沟通,细致分析后才可进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff1a620386ec6240a209d429c22b17adf63357132b2f372aed383d72ba611561.jpg",
+        "img_caption": [
+            "图12 能耗管理模块"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在中建广场项目中，我们基于国内本土运维平台ARCPLUSFM制定的 $\\mathrm { B I M } + \\mathrm { F M }$ 技术路线很大程度上解决了目前国外运维产品“水土不服”的状态，通过对物业最为关心的相关业务进行应用，验证了技术及数据标准的可行性。基于BIM的运维管理目前在本项目中尚处于调试阶段，但其对传统物业管理效率(资产精确定位、能耗实时监控等)在一定程度上有了较大的提升，相信随着使用的不断深入，BIM技术在FM中的运用其所带来的优势将更为明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］汪再军.BIM技术在建筑运维管理中的应用[J].建筑经济，2013(9)：94-97.  \n［2］陈光军，张慧君，吕冰冰.BIM技术在项目运维阶段的应用研究[J].中州大学报，2016，33（4）.  \n［3］冯延力．基于BIM的设施运维管理系统的开发与应用，第五届工程建设计算机应用创新论坛论文集.  \n[4]IFMA.（2OO9)International Facility Management Associa-tion(IFMA).  \n[5」施晨欢，王凯,李嘉军,等.基于BIM的FM运维管理平台研究－申都大厦运维管理平台应用实践[J].土木建筑工程信息技术，2014，6(6)：50-57.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Application and Discussion of BIM $^ +$ FM Technology -Taking the Zhongjian Square Project as Example ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zhang Feiting1，Wang Cheng²，Liang Ming1，Wu Wei¹，Wang Hao ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1. CSC Dongfu Group， Shanghai 200122， China;2.East China Architectural Design & Research Institute Co.， Ltd.， Shanghai 2OOO41， China)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract：BIM（Building information modeling） is one of the most advanced technologies in the building industry，whose value in the design and construction stages has been agreed by increasing number of companies. However,BIM is not widely applied during theoperation and maintenance phases，and the value has not been identified clearly due to various of reasons.This paper explores the $\\mathrm { B I M } + \\mathrm { F M }$ （facility management） technologies by studying Zhongjian Square project which applied $\\mathrm { B I M } + \\mathrm { F M }$ technologies such as space management， assets management and building systems analysis during operation and maintenance phases. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key Words:BIM；FM；Customized Maintenance；Zhongjian Square ",
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,523 @@
+# Co-positivity of tensors and bounded from below conditions of CP conserving two-Higgs-doublet potential
+
+Yisheng Song\*
+
+# Abstract
+
+In this paper, the analytic sufficient and necessary conditions are obtained for the CP conserving two-Higgs-doublet potential to be bounded from below by using the co-positivity of tensors. This is achieved by treating the potential as a quartic homogeneous polynomial about the moduli of the two Higgs doublet fields,where the‘angles’is described as the misalignment of the two doublets,then solving three minimum problems with respect to the misalignment.Finally, the analytic conditions are established with the help of the corresponding theory and methods of higher order tensors.
+
+Keywords: Co-positivity, Fourth order tensors,Homogeneous polynomial,2HDM
+
+# 1 Introduction
+
+The stability model of multi-Higgs potential is very noticeable in particle physics community, and such a model itself was first proposed by Lee[1] for the two-Higgs-doublet model (for short，2HDM) in 1973. Weinberg [2] gave a general model of multi-Higgs potential in 1976.It was studied in hundreds of papers since then,one of the simplest extensions of the standard model is the 2HDM. There are many studies on the bounded from below(for short,BFB） conditions of the 2HDM potential, including CP conservation and CP violation.These results are different kinds of analytic conditions of the BFB of such a potential, for examples,2HDM with CP conservation in Refs.[3-9],the most general 2HDM in Refs.[3,6],2HDM with CP conservation and CP violation in Ref. [5,6,9-15], 2HDM handled numerically [16] and others references that are no cited here.For the tree-level metastability bounds of the most general 2HDM see Ref. [17]. Recently, Bahl et al.[18] presented an analytically sufficient condition of the BFB of 2HDM with CP violation. However, there are not a simple analytic sufficient and necessary conditions even for 2HDM to be bounded from below until now. In this paper,we will try our best to give a argument technique to solve this problem，and provide a simple analytical expression(Theorem 1) of the bounded-from-below for 2HDM with CP conservation.
+
+It is well-known that for the 2HDM with explicit CP conservation, all couplings of the Higgs potential are real $\lfloor 1 , 3 , 1 4 , 1 7 \rfloor$ . The scalar potential of such a 2HDM with Higgs doublets $\Phi _ { 1 }$ and $\Phi _ { 2 }$ is
+
+$$
+\begin{array} { l } { { V _ { H } ( \Phi _ { 1 } , \Phi _ { 2 } ) = V _ { 2 } ( \Phi _ { 1 } , \Phi _ { 2 } ) + V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) } } \\ { { V _ { 2 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = m _ { 1 1 } ^ { 2 } | \Phi _ { 1 } | ^ { 2 } + m _ { 2 2 } ^ { 2 } | \Phi _ { 2 } | ^ { 2 } - m _ { 1 2 } ^ { 2 } ( \Phi _ { 1 } ^ { * } \Phi _ { 2 } + \Phi _ { 2 } ^ { * } \Phi _ { 1 } ) } } \\ { { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = \Lambda _ { 1 } | \Phi _ { 1 } | ^ { 4 } + \Lambda _ { 2 } | \Phi _ { 2 } | ^ { 4 } + \Lambda _ { 3 } | \Phi _ { 1 } | ^ { 2 } | \Phi _ { 2 } | ^ { 2 } } } \\ { { \phantom { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = V _ { 2 } ( \Phi _ { 1 } ^ { * } \Phi _ { 2 } ) } + \Lambda _ { 4 } ( \Phi _ { 1 } ^ { * } \Phi _ { 2 } ) ( \Phi _ { 2 } ^ { * } \Phi _ { 1 } ) + \frac { \Lambda _ { 5 } } { 2 } [ ( \Phi _ { 1 } ^ { * } \Phi _ { 2 } ) ^ { 2 } + ( \Phi _ { 2 } ^ { * } \Phi _ { 1 } ) ^ { 2 } ] } } \\ { { \phantom { V _ { 2 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = V _ { 1 } } + \Lambda _ { 6 } | \Phi _ { 1 } | ^ { 2 } ( \Phi _ { 1 } ^ { * } \Phi _ { 2 } + \Phi _ { 2 } ^ { * } \Phi _ { 1 } ) } } \\ { { \phantom { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = V _ { 2 } ( \Phi _ { 1 } ^ { * } \Phi _ { 2 } + \Phi _ { 2 } ^ { * } \Phi _ { 1 } ) } } , } \end{array}
+$$
+
+where $\Phi ^ { * }$ is Hermitian conjugate of $\Phi$ . The the BFB of the scalar potential in the 2HDM is considered only the non-negativity of the quartic part $V _ { 4 }$ [14], i.e., $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) \geq 0$ ：
+
+In this paper,with the help of the corresponding theory and methods of higher order tensors,we mainly present the sufficient and necessary conditions of the BFB for the 2HDM potential with explicit CP conservation. That is,our main result is the following:
+
+Theorem 1.Let $\Lambda _ { 1 } > 0$ ， $\Lambda _ { 2 } > 0$ . Then $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) \geq 0$ if and only if
+
+$$
+\begin{array} { r l } & { \Lambda _ { 6 } = \Lambda _ { 7 } = 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } - \vert \Lambda _ { 5 } \vert + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 ; } \\ & { \Delta \geq 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } - \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , } \\ & { \vert \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \vert \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } , } \\ & { ( i ) { \bf \beta } - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \leq \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \leq { \bf 6 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } , } \end{array}
+$$
+
+$$
+| \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } | \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } ,
+$$
+
+# 2 2HDM potential and Real tensors
+
+In order to show our main result,we need turn the polynomal $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } )$ about two complex variable into a 4th order symmetric real tensor,and then,use some conclusions of tensors to prove our conclusion.
+
+Let $\scriptstyle \phi _ { k } = | \Phi _ { k } |$ ,the modulus of $\Phi _ { k }$ for $k = 1 , 2$ . Then
+
+$$
+\Phi _ { 1 } ^ { * } \Phi _ { 2 } = \phi _ { 1 } \phi _ { 2 } \rho e ^ { i \theta } \mathrm { ~ a n d ~ } \Phi _ { 2 } ^ { * } \Phi _ { 1 } = \phi _ { 1 } \phi _ { 2 } \rho e ^ { - i \theta } ,
+$$
+
+here $i ^ { 2 } = - 1$ and $\rho \in [ 0 , 1 ]$ is the orbit space parameter [7,15]. So, we have
+
+$$
+\begin{array} { r l } & { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + \Lambda _ { 3 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } + \Lambda _ { 4 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \phantom { \frac { 1 } { 1 } } + \frac { \Lambda _ { 5 } } { 2 } ( \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \rho ^ { 2 } \epsilon ^ { 2 i \theta } + \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \rho ^ { 2 } \epsilon ^ { - 2 i \theta } ) } \\ & { \phantom { \frac { 1 } { 1 } } + \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } ( \phi _ { 1 } \phi _ { 2 } \rho e ^ { i \theta } + \phi _ { 1 } \phi _ { 2 } \rho e ^ { - i \theta } ) } \\ & { \phantom { \frac { 1 } { 1 } } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ( \phi _ { 1 } \phi _ { 2 } \rho e ^ { i \theta } + \phi _ { 1 } \phi _ { 2 } \rho e ^ { - i \theta } ) } \\ & { \phantom { \frac { 1 } { 1 } } = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + \Lambda _ { 3 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } + \Lambda _ { 4 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \phantom { \frac { 1 } { 1 } } + \Lambda _ { 5 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \cos 2 \theta + 2 \Lambda _ { 6 } \phi _ { 1 } ^ { 3 } \phi _ { 2 } \rho \cos \theta + 2 \Lambda _ { 7 } \phi _ { 2 } ^ { 3 } \phi _ { 1 } \rho \cos \theta } \\ & { \phantom { \frac { 1 } { 1 } } = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + ( \Lambda _ { 3 } + \Lambda _ { 4 } \rho ^ { 2 } - \Lambda _ { 5 } \rho ^ { 2 } ) \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \phantom { \frac { 1 } { 1 } } + 2 \Lambda _ { 5 } \rho ^ { 2 } \phi _ { 2 } ^ { 2 } \cos ^ { 2 } \theta + 2 \Lambda _ { 6 } \rho ^ { 3 } \phi _ { 2 } ^ { 2 } \phi _ { 1 } \cos \theta + 2 \Lambda _ { 7 } \rho \phi _ { 2 } ^ { 3 } \phi _ { 1 } \cos \theta . } \end{array}
+$$
+
+Let $x = \cos \theta$ . Then $x \in [ - 1 , 1 ]$ and
+
+$$
+\begin{array} { r l } & { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + ( \Lambda _ { 3 } + \Lambda _ { 4 } \rho ^ { 2 } - \Lambda _ { 5 } \rho ^ { 2 } ) \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \phantom { \frac { 1 } { 1 } } + 2 \Lambda _ { 5 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } x ^ { 2 } + 2 \rho ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ) \phi _ { 1 } \phi _ { 2 } x . } \end{array}
+$$
+
+This defines a 4th-order 2-dimensional symmetric tensor ${ \mathcal { A } } ( \rho , x ) =$ $( a _ { i j k l } )$ with a parameter $\rho$ and $x$ ：
+
+$$
+\begin{array} { l } { { a _ { 1 1 1 1 } = \Lambda _ { 1 } , a _ { 2 2 2 2 } = \Lambda _ { 2 } , } } \\ { { \displaystyle a _ { 1 1 2 2 } = \frac { 1 } { 6 } [ \Lambda _ { 3 } + \Lambda _ { 4 } \rho ^ { 2 } + \Lambda _ { 5 } \rho ^ { 2 } ( 2 x ^ { 2 } - 1 ) ] , } } \\ { { \displaystyle a _ { 1 1 1 2 } = \frac { 1 } { 2 } \Lambda _ { 6 } \rho x , a _ { 1 2 2 2 } = \frac { 1 } { 2 } \Lambda _ { 7 } \rho x . } } \end{array}
+$$
+
+So the the BFB of the system $V _ { H } ( \Phi _ { 1 } , \Phi _ { 2 } )$ may turn into the copositivity of a 4th-order tensor ${ \mathcal { A } } ( \rho , x )$ ：
+
+The positive definiteness and the co-positivity of a 4th order symmetric tensor are applied to deal with the BFB conditions of the particle physics model in Ref.[7]. Recently, In Refs.[19-23], the distinctly sufficient conditions were given for the co-positivity of 4th order 3- dimensional symmetric tensors,which may be used to the BFB conditions of scalar potential of the particle physics model.
+
+# 3 Co-positivity of Matrices and Tensors
+
+The co-positivity of a matrix $M = ( m _ { i j } )$ is used to verify the BFB of the particle physics model in Refs.[7,8]. A symmetric matrix （204号 $M \ = \ ( m _ { i j } )$ is co-positive if the quadratic form $x ^ { \top } M x \ge 0$ for all non-negative vectors $x \in \mathbb { R } ^ { n }$ .The co-positivity of a $2 \times 2$ symmetric matrix $M = ( m _ { i j } )$ was showed in Ref. [24,Lemma 2.1],also see Hadeler [25,Theorem 2] and Nadler [26,Lemma 1] for more details. A $2 \times 2$ symmetric matrix $M = ( m _ { i j } )$ is co-positive if and only if
+
+$$
+m _ { 1 1 } \geq 0 , m _ { 2 2 } \geq 0 \ \mathrm { a n d } \ m _ { 1 2 } + \sqrt { m _ { 1 1 } m _ { 2 2 } } \geq 0 .
+$$
+
+The co-positivity of a symmetric tensor is tried to test the BFB of the particle physical model in Ref.[7]. A mth-order $n$ -dimensional symmetric tensor $T = ( t _ { i _ { 1 } \cdots i _ { m } } ) ( i _ { j } = 1 , 2 , \ldots , n , j = 1 , 2 , \ldots , m )$ is copositive [28-32] if the $m$ -degree homogeneous polynomial $T \mathbf { x } ^ { m } \geq 0$ for all non-negative vectors $\mathbf { x } \in \mathbb { R } ^ { n }$ ，where $\mathbf { x } = ( x _ { 1 } , x _ { 2 } , \cdot \cdot \cdot x _ { n } ) ^ { \mid }$ and
+
+$$
+T \mathbf { x } ^ { m } = \mathbf { x } ^ { \top } ( T \mathbf { x } ^ { m - 1 } ) = \sum _ { i _ { 1 } \cdots i _ { m } = 1 } ^ { n } t _ { i _ { 1 } \cdots i _ { m } } x _ { i _ { 1 } } \cdot \cdot \cdot x _ { i _ { m } } ,
+$$
+
+（20 $T \mathbf { x } ^ { m - 1 } = ( y _ { 1 } , y _ { 2 } , \cdot \cdot \cdot , y _ { n } ) ^ { \top }$ is a vector with its entiries
+
+$$
+y _ { k } = ( T \mathbf { x } ^ { m - 1 } ) _ { k } = \sum _ { i _ { 2 } \cdots i _ { m } = 1 } ^ { n } t _ { k i _ { 2 } \cdots i _ { m } } x _ { i _ { 2 } } \cdot \cdot \cdot x _ { i _ { m } } .
+$$
+
+Let $f ( x , y )$ be a quartic homogeneous real polynomial about two variables $x , y$ ，
+
+$$
+f ( x , y ) = a _ { 0 } x ^ { 4 } + a _ { 1 } x ^ { 3 } y + a _ { 2 } x ^ { 2 } y ^ { 2 } + a _ { 3 } x y ^ { 3 } + a _ { 4 } y ^ { 4 } .
+$$
+
+Then it gives a 4th-order 2-dimensional symmetric tensor $T = \left( t _ { i j k l } \right)$ with its entires,
+
+$$
+{ t _ { 1 1 1 1 } } = a _ { 0 } , { t _ { 2 2 2 2 } } = a _ { 4 } , { t _ { 1 1 2 2 } } = \frac { 1 } { 6 } a _ { 2 } , { t _ { 1 1 1 2 } } = \frac { 1 } { 4 } a _ { 1 } , { t _ { 1 2 2 2 } } = \frac { 1 } { 4 } a _ { 3 } ,
+$$
+
+Assume that $a _ { 0 } > 0$ and $a _ { 4 } > 0$ . In Ref.[20], the co-positivity of the above tensor $T$ was proved (also see Refs.[33,34]).
+
+Lemma 1. [20, Lemma 3.1] Let $a _ { 0 } > 0$ and $a _ { 4 } > 0$ . Then $f ( x , y ) \geq 0$ for all $x \ge 0 , \ y \ge 0$ if and only if
+
+(1) $\Delta \le 0$ and $a _ { 1 } \sqrt { a _ { 4 } } + a _ { 3 } \sqrt { a _ { 0 } } > 0$ ；or
+
+(2) $a _ { 1 } \geq 0$ ， $a _ { 3 } \geq 0$ and $2 \sqrt { a _ { 0 } a _ { 4 } } + a _ { 2 } \geq 0$ ；or
+
+(ii) $a _ { 2 } > 6 \sqrt { a _ { 0 } a _ { 4 } }$ and
+
+$$
+a _ { 1 } \sqrt { a _ { 4 } } + a _ { 3 } \sqrt { a _ { 0 } } \geq - 4 \sqrt { a _ { 0 } a _ { 2 } a _ { 4 } - 2 a _ { 0 } a _ { 4 } \sqrt { a _ { 0 } a _ { 4 } } } ,
+$$
+
+where $\Delta = 4 ( 1 2 a _ { 0 } a _ { 4 } - 3 a _ { 1 } a _ { 3 } + a _ { 2 } ^ { 2 } ) ^ { 3 } - ( 7 2 a _ { 0 } a _ { 2 } a _ { 4 } + 9 a _ { 1 } a _ { 2 } a _ { 3 } - 2 a _ { 2 } ^ { 3 } -$ （204 $2 7 a _ { 0 } a _ { 3 } ^ { 2 } - 2 7 a _ { 1 } ^ { 2 } a _ { 4 } ) ^ { 2 }$ ：
+
+# 4Bounded-from-below conditions
+
+In this section,we mainly give the BFB conditions of the 2HDM with explicit CP conservation. That is,how to logically establish our main result,Theorem 1.
+
+The quartic part (2) of such a CP conserving two-Higgs-doublet potential may be rewritten as follow
+
+$$
+\begin{array} { r l } & { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = 2 \Lambda _ { 5 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } x ^ { 2 } + 2 \rho ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ) \phi _ { 1 } \phi _ { 2 } x } \\ & { \phantom { x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x } + \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + ( \Lambda _ { 3 } + \Lambda _ { 4 } \rho ^ { 2 } - \Lambda _ { 5 } \rho ^ { 2 } ) \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } . } \end{array}
+$$
+
+If $\phi _ { 1 } > 0 , \ \phi _ { 2 } = 0$ (or $\phi _ { 1 } = 0 , \ \phi _ { 2 } > 0 ,$ ，then $V _ { H } ( \Phi _ { 1 } , \Phi _ { 2 } ) = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 }$ (or $\Lambda _ { 2 } \phi _ { 2 } ^ { 4 } )$ . Without loss of generality, we may assume $\Lambda _ { 1 } > 0$ ， $\Lambda _ { 2 } ~ > ~ 0$ $\phi _ { 1 } > 0 , \ \phi _ { 2 } > 0$ in the sequel.Let
+
+$$
+\begin{array} { r } { A = 2 \Lambda _ { 5 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } , \ B = 2 \rho ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ) \phi _ { 1 } \phi _ { 2 } , } \\ { C = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + [ \Lambda _ { 3 } + ( \Lambda _ { 4 } - \Lambda _ { 5 } ) \rho ^ { 2 } ] \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } . } \end{array}
+$$
+
+Then, $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } )$ may be seen as a quadratic function $f ( x )$ about a variable $x \in [ - 1 , 1 ]$ ，
+
+$$
+f ( x ) = V _ { H } ( \Phi _ { 1 } , \Phi _ { 2 } ) = A x ^ { 2 } + B x + C .
+$$
+
+So,if $A > 0$ , then as you can see from the image below, the function （204号 $f ( x )$ attains its minimum $\frac { 4 A C - B ^ { 2 } } { 4 A }$ at a point $\textstyle x = - { \frac { B } { 2 A } } \in [ - 1 , 1 ]$ or attains its minimum $A + C \pm B$ at a point $x = \pm 1 \left( - { \textstyle { \frac { B } { 2 A } } } \notin [ - 1 , 1 ] \right)$ ： At that time,the graph-like of $f ( x )$ is as shown below:
+
+![](images/e1fc459916467277e1a5ef792d36af03f8288cdbd99b46d34f705c00e423cfd3.jpg)  
+Figure 1: Graph of $f ( x )$ ( $A > 0$ ）
+
+If $A \le 0$ ,then $f ( x )$ attains its minimum $A - B + C$ or $A + B + C$ ata point $x = - 1$ ( $B \geq 0$ or $x = 1$ ( $B < 0$ ).At that time,the graph-like of $f ( x )$ is as shown below:
+
+![](images/9f4fdea8740db61ab15e987417bada49beda7f07613c0d030cef6dc995df31c1.jpg)  
+Figure 2: Graph of $f ( x )$ ( $A < 0$
+
+So the following conclusions is easy to be obtained.
+
+Proposition 2. $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) \geq 0$ if and only if
+
+$$
+\left\{ { \begin{array} { l } { C \geq 0 , } \\ { A - B + C \geq 0 , } \\ { A + B + C \geq 0 . } \end{array} } \right.
+$$
+
+Proof. “Necessity”. $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) = f ( x ) \geq 0$ implies that
+
+$$
+f ( 0 ) = C \geq 0 , f ( 1 ) = A + B + C \geq 0 , f ( - 1 ) = A - B + C \geq 0 .
+$$
+
+“Sufficiency”. The quadratic function $f ( x )$ is non-negative in the interval $[ - 1 , 1 ]$ if and only if its minimum is non-negative in the interval $[ - 1 , 1 ]$ . The minimum of $f ( x )$ is the smallest of the three numbers,
+
+$$
+f ( - \frac { B } { 2 A } ) = \frac { 4 A C - B ^ { 2 } } { 4 A } , f ( 1 ) , f ( - 1 ) ,
+$$
+
+where $- { \frac { B } { 2 A } }$ is the unique extreme point $- \frac { B } { 2 A } \in [ - 1 , 1 ]$ Sinc-the point $- { \frac { B } { 2 A } }$ $A > 0$ ，then $- \frac { B } { 2 A } \in [ - 1 , 1 ]$ means
+
+$$
+- 2 A \leq B \leq 2 A .
+$$
+
+It follows from Proposition 3(2） that $B \ = \ 0$ .So， $C \geq 0$ implies （204号 $f ( - \frac { B } { 2 A } ) ~ = ~ C ~ \geq ~ 0$ ， and hence, $f ( x ) ~ \geq ~ 0$ if $C \ \geq \ 0$ ， $f ( - 1 ) ~ \geq ~ 0$ $f ( 1 ) \geq 0$ ： □
+
+The following conclusions is easy to be obtained. For detail proof, see Appendix.
+
+Proposition 3.(1) $C \geq 0$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$ if and only if
+
+$$
+\Lambda _ { 3 } + \Lambda _ { 4 } - \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 .
+$$
+
+(2)1 $f - 2 A \leq B \leq 2 A$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$ ，then
+
+$$
+\Lambda _ { 6 } = 0 , \ \Lambda _ { 7 } = 0 , \ \Lambda _ { 5 } \geq 0 , \ i . e . , \ B = 0 , A \geq 0 .
+$$
+
+It follows from the equations (5) and (6) that
+
+$$
+\begin{array} { r l } & { A \pm B + C = 2 \Lambda _ { 5 } \rho ^ { 2 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \pm 2 \rho ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ) \phi _ { 1 } \phi _ { 2 } } \\ & { \qquad + \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + [ \Lambda _ { 3 } + ( \Lambda _ { 4 } - \Lambda _ { 5 } ) \rho ^ { 2 } ] \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \qquad = ( \Lambda _ { 4 } + \Lambda _ { 5 } ) \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \rho ^ { 2 } \pm 2 ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ) \phi _ { 1 } \phi _ { 2 } \rho } \\ & { \qquad + \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + \Lambda _ { 3 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \qquad = a \rho ^ { 2 } \pm b \rho + c , } \end{array}
+$$
+
+where
+
+$$
+\begin{array} { c } { { a = ( \Lambda _ { 4 } + \Lambda _ { 5 } ) \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } , \ b = 2 ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } ) \phi _ { 1 } \phi _ { 2 } , } } \\ { { c = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + \Lambda _ { 3 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } . } } \end{array}
+$$
+
+For $\rho \in [ 0 , 1 ]$ ,Let
+
+$$
+s ( \rho ) = a \rho ^ { 2 } + b \rho + c { \mathrm { ~ a n d ~ } } t ( \rho ) = a \rho ^ { 2 } - b \rho + c .
+$$
+
+poit $a > 0$ foe tion $s ( \rho )$ reachesis $\textstyle { \frac { 4 a c - b ^ { 2 } } { 4 a } }$ ata $\rho = - { \frac { b } { 2 a } } \in [ 0 , 1 ]$ $c$ $a + c + b$ point $\rho = 0$ (or 1) $( - \frac { b } { 2 a } \notin [ 0 , 1 ] )$ . At that moment, the graph-like of quadratic function $s ( \rho )$ is illustrated by the following image:
+
+![](images/428a8f569e5392e7ee815f237ddb84e398263f3e0b757ea5bacfca9c53ccb2c9.jpg)  
+Figure 3: Graph of $s ( \rho )$ ( $a > 0$ ）
+
+If $a \leq 0$ ,then $s ( \rho )$ attains its minimum $c$ or $a + b + c$ at a point $\rho = 0$ （2 $\textstyle \left( - { \frac { b } { 2 a } } \geq { \frac { 1 } { 2 } } \right)$ or $\rho = 1$ （ $\textstyle - { \frac { b } { 2 a } } \leq { \frac { 1 } { 2 } } )$ ;if $a = 0$ ,then $s ( \rho )$ attains its minimum （204号 $c$ or $b + c$ at a point $\rho = 0$ ( $b \geq 0$ or $\rho = 1$ ( $b \leq 0$ ). The graph-like of $s ( \rho )$ is as shown below:
+
+![](images/dddc369d4170aa11b4ebb721a8f2a619cdc32042283ebe20ff8f3e396eceed29.jpg)  
+Figure 4: Graph of $s ( \rho )$ ( $a < 0$ ））
+
+Similarly, if $a \ > \ 0$ ，then the function $t ( \rho )$ reaches its minimum $\textstyle { \frac { 4 a c - b ^ { 2 } } { 4 a } }$ at apoint $\frac { b } { 2 a } \in [ 0 , 1 ]$ ,orataisitsminimom $c$ 9 $a + c + b$ at a point $\rho = 0$ (or 1) $( \frac { b } { 2 a } \notin [ 0 , 1 ] )$ . The graph-like of $t ( \rho )$ is the image below:
+
+![](images/51d6c21cb8704946305db5436d358a7e2d9531f7e75713c3659f84ad20cf5c89.jpg)  
+Figure 5: Graph of $t ( \rho )$ ( $a > 0$ ）
+
+if $a < 0$ ,then $t ( \rho )$ attains its minimum $c$ or $a - b + c$ at a point $\rho = 0$ （20号 $\textstyle { \left( { \frac { b } { 2 a } } \geq { \frac { 1 } { 2 } } \right) }$ or $\rho = 1$ （ $\textstyle { \frac { b } { 2 a } } \leq { \frac { 1 } { 2 } } ,$ ；if $a = 0$ ,then $t ( \rho )$ attains its minimum $c$ （20 or $- b + c$ at a point $\rho = 0$ ( $b \leq 0$ or $\rho = 1$ ( $b \geq 0$ ). The graph-like of （204号 $t ( \rho )$ is the following:
+
+![](images/ec418b561dda6278b2bfce009235318812498896d5e6e8175371a135d2b8e955.jpg)  
+Figure 6: Graph of $t ( \rho ) \ ( a < 0 )$
+
+Proposition 4.(1) $A + B + C \geq 0$ if and only if (2) $A - B + C \geq 0$ if and only if
+
+$$
+c \geq 0 \ a n d a - b + c \geq 0 .
+$$
+
+Proof.(1） “Necessity”. $A + B + C = s ( \rho ) \geq 0$ （ $\rho \in [ 0 , 1 ] ,$ implies that
+
+$$
+s ( 0 ) = c \geq 0 , s ( 1 ) = a + b + c \geq 0 .
+$$
+
+“Sufficiency”. The quadratic function $s ( \rho )$ is non-negative in the interval $[ 0 , 1 ]$ if and only if its minimum is non-negative in the interval $[ 0 , 1 ]$ . The minimum of $s ( \rho )$ is the smallest of the three numbers,
+
+$$
+s ( - \frac { b } { 2 a } ) = \frac { 4 a c - b ^ { 2 } } { 4 a } , s ( 0 ) , s ( 1 ) ,
+$$
+
+where-a i is the unique extreme point if $- \frac { b } { 2 a } \in [ 0 , 1 ]$ . Since the point $- { \frac { b } { 2 a } }$ is the minimum point when $a > 0$ ,then $- \frac { b } { 2 a } \in [ 0 , 1 ]$ means
+
+$$
+- 2 a \leq b \leq 0 .
+$$
+
+It follows from Proposition 5 (2) that $b = 0$ . So, $c \geq 0$ implies $s ( - \frac { b } { 2 a } ) =$ $c \geq 0$ ,and hence, $s ( \rho ) \geq 0$ if $c \geq 0$ ， $s ( 1 ) \geq 0$ ：
+
+Using the same proof,it is easy to show (2)
+
+So the following conclusions is easy to be obtained. For detail proof, see Appendix.
+
+Proposition 5.(1) $c \geq 0$ if and only if
+
+$$
+\begin{array} { r } { \Lambda _ { 1 } \geq 0 , \Lambda _ { 2 } \geq 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 . } \end{array}
+$$
+
+(2) $I f - 2 a \leq b \leq 0$ ，then $\Lambda _ { 6 } = 0 , \Lambda _ { 7 } = 0 , \Lambda _ { 4 } + \Lambda _ { 5 } \geq 0$ ，i.e.,
+
+$$
+b = 0 , a \geq 0 .
+$$
+
+(3)If $2 a \geq b \geq 0$ ，then $\Lambda _ { 6 } = 0 , \Lambda _ { 7 } = 0 , \Lambda _ { 4 } + \Lambda _ { 5 } \geq 0$ ，i.e.,
+
+$$
+b = 0 , a \geq 0 .
+$$
+
+Next we show $a \pm b + c \ge 0$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$
+
+Proposition 6. $a - b + c \geq 0$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$ if and only if
+
+(1) $\Delta \le 0$ ， $\Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } < 0$   
+(2) $\Lambda _ { 6 } \leq 0 , \Lambda _ { 7 } \leq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 ;$   
+(3) $\Delta \ge 0$   
+$| \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } | \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } }$ and （204号 $( i ) \ - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \leq \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \leq 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } ,$ (ii) $\Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } > 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } }$ and （20 $\Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } ,$   
+whe $r e ~ \Delta = 4 ( 1 2 \Lambda _ { 1 } \Lambda _ { 2 } - 1 2 \Lambda _ { 6 } \Lambda _ { 7 } + ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) ^ { 2 } ) ^ { 3 } - ( 7 2 \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) ^ { 6 } ) ^ { 5 }$ +   
+$\Lambda _ { 5 } ) + 3 6 \Lambda _ { 6 } \Lambda _ { 7 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) ^ { 3 } - 1 0 8 \Lambda _ { 1 } \Lambda _ { 7 } ^ { 2 } - 1 0 8 \Lambda _ { 6 } ^ { 2 } \Lambda _ { 2 } ) ^ { 2 } .$
+
+Proof.From the equations (8) and (9),it follows that
+
+$$
+\begin{array} { r l } & { a - b + c = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } } \\ & { \phantom { a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a } } \\ & { \phantom { a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a } } \\ & { \phantom { a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a } = f ( \phi _ { 1 } , \phi _ { 2 } ) = a _ { 0 } \phi _ { 1 } ^ { 4 } + a _ { 4 } \phi _ { 2 } ^ { 4 } , } \end{array}
+$$
+
+where $a _ { 0 } = \Lambda _ { 1 }$ ， $a _ { 1 } = - 2 \Lambda _ { 6 }$ ， $a _ { 2 } = \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 }$ ， $a _ { 3 } = - 2 \Lambda _ { 7 }$ ， $a _ { 4 } = \Lambda _ { 2 }$ Then an application of the co-positivity of quartic form (4) (Lemma 1) yields that the suffcient and necessary conditions of the inequality $a - b + c \geq 0$ is
+
+(1) $\begin{array} { r l } & { \Delta \le 0 , - 2 \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - 2 \Lambda _ { 7 } \sqrt { \Lambda _ { 2 } } > 0 ; } \\ & { } \\ & { - 2 \Lambda _ { 6 } \ge 0 , - 2 \Lambda _ { 7 } \ge 0 , \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \ge 0 ; } \end{array}$   
+(2)   
+(3) $\Delta \geq 0$ ，   
+${ | 2 \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - 2 \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } | } \le { 4 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } }$ and (i) $- 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \le \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \le 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } }$ (ii) $\Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } > 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } }$ and   
+$- 2 \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - 2 \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \geq - 4 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } .$
+
+The required conclusions follow.
+
+Similarly, the following conclusion is easy to be showed.
+
+Proposition 7. $a + b + c \geq 0$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$ if and only if
+
+(1) $\Delta \le 0$ ， $\Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } > 0$   
+(2) $\Lambda _ { 6 } \geq 0 , \Lambda _ { 7 } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 ;$   
+(3） $\Delta \geq 0$   
+$| \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } | \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } }$ and(i） $\begin{array} { r } { - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \le \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \le 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } , } \end{array}$ (ii) $\Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } > 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } }$ and$\Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \geq - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } .$
+
+Combining Propositions 4（1） with Propositions 5（1）and 7, the following results are easy to obtain.
+
+Proposition 8. $A + B + C \geq 0$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$ if and only if $\Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \ge 0$ and
+
+$$
+\begin{array} { r l } & { \Delta \leq 0 , \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } > 0 ; } \\ & { } \\ & { \Lambda _ { 6 } \geq 0 , \Lambda _ { 7 } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 ; } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { | \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } | \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } , } \\ & { ( i ) { \bf \delta } - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \leq \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \leq { \bf 6 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } , } \end{array}
+$$
+
+$$
+\Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \geq - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } .
+$$
+
+Simultaneously applying Proposition 5（1） and Proposition 6 to Propositions 4(2),the following results are easy to obtain.
+
+Proposition 9. $A - B + C \geq 0$ for all $\phi _ { 1 } \geq 0 , \ \phi _ { 2 } \geq 0$ if and only if $\Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \ge 0$ and
+
+(1) $\begin{array} { r l } & { \Delta \leq 0 , \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } < 0 ; } \\ & { } \\ & { \Lambda _ { 6 } \leq 0 , \Lambda _ { 7 } \leq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 ; } \end{array}$   
+(2) （204  
+(3) $\Delta \geq 0$ ，  
+$\begin{array} { r l } & { \big | \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \big | \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } \big ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \big ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } , } \\ & { ( i ) { \bf \delta } - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \leq \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } \leq 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } , } \end{array}$   
+(ii) $\Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } > 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } }$ and  
+$\Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } + \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \leq 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } } .$
+
+By combining Propositions 2 with Propositions 3,8 and 9,we easily showed our main result,Theorem 1.
+
+The proof of Theorem 1.It follows from Propositions 2 and 3 that $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) \geq 0$ if and only if
+
+$$
+\begin{array} { r l } & { \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \ \Lambda _ { 3 } + \Lambda _ { 4 } - \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , } \\ & { A - B + C \geq 0 , } \\ & { A + B + C \geq 0 . } \end{array}
+$$
+
+Propositions 8 (2)and 9 (2) mean that
+
+$$
+\begin{array} { r } { \Lambda _ { 6 } = \Lambda _ { 7 } = 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , } \end{array}
+$$
+
+The above several inequalities together is equivalent to
+
+$$
+\Lambda _ { 6 } = \Lambda _ { 7 } = 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } - | \Lambda _ { 5 } | + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 .
+$$
+
+This obtain（1) of Theorem 1.
+
+The two inqualities $A - B + C \geq 0$ and $A + B + C \geq 0$ imply that there is contradiction between Proposition 8(1） and Proposition 9(1), and so, it can not hold.
+
+By Propositions 8 (3) and 9 (3),(2) of Theorem 1 follows easily.
+
+# 5 Conclusions
+
+In summary, we prove the analytical sufficient and necessary conditions of the BFB conditions of 2HDM potential with explicit CP conservation.At the same time,fora 4th-order 2-dimensional symmetric tensor $\mathcal { A } ( \rho , x ) = \left( a _ { i j k l } \right)$ (3）with two parameters $\rho \in [ 0 , 1 ]$ and $x \in [ - 1 , 1 ]$ the co-positivity is proved.
+
+# 6 Some remarks
+
+(1)When $\Lambda _ { 6 } = \Lambda _ { 7 } = 0$ , Theorem1 coincides with the corresponding conclusion of Refs. [3,9-15]. That is, $V _ { 4 } ^ { \mathbb { Z } _ { 2 } } ( \Phi _ { 1 } , \Phi _ { 2 } ) \geq 0$ if and only if
+
+$$
+\Lambda _ { 1 } > 0 , \Lambda _ { 2 } > 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , \Lambda _ { 3 } + \Lambda _ { 4 } - | \Lambda _ { 5 } | + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 .
+$$
+
+(2) In terms of the eigenvalues of a $4 \times 4$ matrix,Ivanov [6] gave the sufficient and necessary conditions of the BFB of CP conserving 2HDM potential,but not analytic.It is not clear how to do this analytically, and this may be slow to implement numerically. Our conclusions is analytic for the CP conserving potential,which are easy to code up,and presumably faster to run,for the large scans of the 2HDM parameter space which often take place in the literature.
+
+(3） For the BFB of CP conserving 2HDM potential, Kannike [7] presented a sufficient condition (Eq. (88)) by means of Lagrange multiplier,which is not completely analytic.Recently, Bahl et al.[18] gave a stronger sufficient conditions(Eqs.(5.2O) and (5.21)） for the BFB of CP conserving 2HDM potential using Ulrich and Watson's result (Eq.(30)） [34].In this paper,we use the optimizing version (Lemma 1) of Ulrich and Watson's result to yield the analytic expression of the BFB (For the more details about Lemma 1 see Refs.[20,33]). For
+
+example,
+
+$$
+\begin{array} { r l } & { \Lambda _ { 3 } + \Lambda _ { 4 } - \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } = - 1 + 2 - ( - 1 ) + 2 > 0 , } \\ & { \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } = - 1 + 2 - 1 + 2 > 0 , } \\ & { \vert \Lambda _ { 6 } \sqrt { \Lambda _ { 2 } } - \Lambda _ { 7 } \sqrt { \Lambda _ { 1 } } \vert = 2 < 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \Lambda _ { 1 } \Lambda _ { 2 } \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } = 2 \sqrt { 2 } , } \\ & { - 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } = - 2 < \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } = 0 < 6 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } = 6 , } \\ & { \Delta = 4 ( 1 2 \Lambda _ { 1 } \Lambda _ { 2 } - 1 2 \Lambda _ { 6 } \Lambda _ { 7 } + ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) ^ { 2 } ) ^ { 3 } - ( 7 2 \Lambda _ { 1 } \Lambda _ { 2 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) } \\ & { + 3 6 \Lambda _ { 6 } \Lambda _ { 7 } ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) - 2 ( \Lambda _ { 3 } + \Lambda _ { 4 } + \Lambda _ { 5 } ) ^ { 3 } - 1 0 8 \Lambda _ { 1 } \Lambda _ { 7 } ^ { 2 } - 1 0 8 \Lambda _ { 6 } ^ { 2 } \Lambda _ { 2 } ) ^ { 2 } } \\ & { = 4 ( 1 2 + 1 2 + 0 ) ^ { 3 } - ( 0 - 1 0 8 - 1 0 8 ) ^ { 2 } > 0 . } \end{array}
+$$
+
+That is,these parameters meet Theorem 1(2),which means $V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } ) \geq$ 0.However, they can't satisfy the condition Eq.(5.2O) of Bahl et.al. [18], i.e.
+
+$$
+\begin{array} { r l } & { 3 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } - ( \Lambda _ { 3 } + \vert \Lambda _ { 4 } \vert + \vert \Lambda _ { 5 } \vert ) = 3 - 2 > 0 , } \\ & { \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } + \Lambda _ { 3 } - ( \vert \Lambda _ { 4 } \vert + \vert \Lambda _ { 5 } \vert + 4 \left| \Lambda _ { 6 } \sqrt { \cfrac { \Lambda _ { 2 } } { \Lambda _ { 1 } } } \right| ) = 1 - 1 - ( 2 + 1 + 4 ) < 0 , } \\ & { \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } + \Lambda _ { 3 } - ( \vert \Lambda _ { 4 } \vert + \vert \Lambda _ { 5 } \vert + 4 \left| \Lambda _ { 7 } \sqrt { \cfrac { \Lambda _ { 1 } } { \Lambda _ { 2 } } } \right| ) = 1 - 1 - ( 2 + 1 + 4 ) < 0 . } \end{array}
+$$
+
+(4) The quartic part of such a 2HDM potential is the following
+
+$$
+\begin{array} { r l } { V _ { 4 } ( \Phi _ { 1 } , \Phi _ { 2 } = \Delta _ { 1 } ( \Phi _ { 1 } ^ { * } \Phi _ { 1 } ^ { * } ) ^ { 2 } + \Delta _ { 2 } ( \Phi _ { 2 } ^ { * } \Phi _ { 2 } ) ^ { 2 } } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\ { \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad } \\  \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \end{array}
+$$
+
+Let $x = \cos \theta$ and $y = \sin \theta$ .Then the general 2HDM potential have three parameters about ‘angles', $( \rho , x , y )$ with $x ^ { 2 } + y ^ { 2 } = 1$ .So the argument approach of Theorem 1 may not be applied directly to the general 2HDM potential. How to revised this approach,which deserves further study and perfectness.
+
+# Data Availablity Statement
+
+This manuscript has no associated data or the data will not be deposited. [Authors'comment: This is a theoretical study and there are no external data associated with the manuscript.l
+
+# Acknowledgements
+
+The authors would like to express their sincere thanks to the editors and anonymous referees for his/her constructive comments and valuable suggestions,and to Professors Igor P. Ivanov,K.G.Klimenko, Garv Chauhan for useful discussions and for reading the manuscript. This work was supported by the National Natural Science Foundation of P.R. China (Grant No.12171064),by The team project of innovation leading talent in Chongqing(No.CQYC20210309536） and by the Foundation of Chongqing Normal University (2oXLB009).
+
+# Appendix
+
+The proof of Propositions 3. (1) $C \geq 0$ ，i.e
+
+$$
+C = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + [ \Lambda _ { 3 } + ( \Lambda _ { 4 } - \Lambda _ { 5 } ) \rho ^ { 2 } ] \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \geq 0 .
+$$
+
+which is equivalent to the co-positivity of $2 \times 2$ matrix $M = ( m _ { i j } )$ with its entries,
+
+$$
+m _ { 1 1 } = \Lambda _ { 1 } , \ m _ { 2 2 } = \Lambda _ { 2 } , \ m _ { 1 2 } = m _ { 2 1 } = \frac { 1 } { 2 } [ \Lambda _ { 3 } + ( \Lambda _ { 4 } - \Lambda _ { 5 } ) \rho ^ { 2 } ] .
+$$
+
+That is, $\Lambda _ { 3 } + { \left( \Lambda _ { 4 } - \Lambda _ { 5 } \right) } \rho ^ { 2 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0$ . Therefore,this is equivalent to
+
+$$
+\begin{array} { r } { \Lambda _ { 3 } + \Lambda _ { 4 } - \Lambda _ { 5 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 , } \\ { \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 . } \end{array}
+$$
+
+(2)From the equation (5),it follows that
+
+$$
+\begin{array} { r } { B - 2 A = 2 \big ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } - 2 \Lambda _ { 5 } \rho \phi _ { 1 } \phi _ { 2 } \big ) \rho \phi _ { 1 } \phi _ { 2 } , } \\ { B + 2 A = 2 \big ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } + 2 \Lambda _ { 5 } \rho \phi _ { 1 } \phi _ { 2 } \big ) \rho \phi _ { 1 } \phi _ { 2 } , } \end{array}
+$$
+
+and hence,
+
+$$
+\begin{array} { c } { { B - 2 A \leq 0 \Leftrightarrow - \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } - \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } + 2 \Lambda _ { 5 } \rho \phi _ { 1 } \phi _ { 2 } \geq 0 , } } \\ { { B + 2 A \geq 0 \Leftrightarrow \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } + 2 \Lambda _ { 5 } \rho \phi _ { 1 } \phi _ { 2 } \geq 0 . } } \end{array}
+$$
+
+Thus, $B - 2 A \leq 0$ is equivalent to the co-positivity of a matrix $M =$ $( m _ { i j } )$ with its entries $m _ { 1 1 } = - \Lambda _ { 6 } , m _ { 2 2 } = - \Lambda _ { 7 } , m _ { 1 2 } = m _ { 2 1 } = \Lambda _ { 5 } \rho$ From the co-positivity of $2 \times 2$ matrix,it follows that
+
+$$
+B - 2 A \leq 0 \Leftrightarrow \Lambda _ { 6 } \leq 0 , \Lambda _ { 7 } \leq 0 \ \mathrm { a n d } \ \Lambda _ { 5 } \rho + \sqrt { \Lambda _ { 6 } \Lambda _ { 7 } } \geq 0 .
+$$
+
+Similarly,wealso have
+
+$$
+B + 2 A \geq 0 \Leftrightarrow \Lambda _ { 6 } \geq 0 , \Lambda _ { 7 } \geq 0 \ \mathrm { a n d } \ \Lambda _ { 5 } \rho + \sqrt { \Lambda _ { 6 } \Lambda _ { 7 } } \geq 0 .
+$$
+
+Thus,the inequalities $- 2 A \leq B \leq 2 A$ imply that $\Lambda _ { 6 } = 0 , \Lambda _ { 7 } = 0 , \Lambda _ { 5 } \geq$ $0$ ,i.e., $B = 0 , A \geq 0$ . The required conclusion follows. □
+
+The proof of Propositions 5.(1) It is obvious that
+
+$$
+c = \Lambda _ { 1 } \phi _ { 1 } ^ { 4 } + \Lambda _ { 2 } \phi _ { 2 } ^ { 4 } + \Lambda _ { 3 } \phi _ { 1 } ^ { 2 } \phi _ { 2 } ^ { 2 } \geq 0 ,
+$$
+
+is equivalent to
+
+$$
+\begin{array} { r } { \Lambda _ { 1 } \geq 0 , \Lambda _ { 2 } \geq 0 , \Lambda _ { 3 } + 2 \sqrt { \Lambda _ { 1 } \Lambda _ { 2 } } \geq 0 . } \end{array}
+$$
+
+(2)It follows from the equations (8) that
+
+$$
+\begin{array} { c } { { b + 2 a = 2 ( \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } + ( \Lambda _ { 4 } + \Lambda _ { 5 } ) \phi _ { 1 } \phi _ { 2 } ) \phi _ { 1 } \phi _ { 2 } , } } \\ { { { } } } \\ { { 2 a - b = 2 ( - \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } - \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } + ( \Lambda _ { 4 } + \Lambda _ { 5 } ) \phi _ { 1 } \phi _ { 2 } ) \phi _ { 1 } \phi _ { 2 } , } } \end{array}
+$$
+
+and hence,
+
+$$
+\begin{array} { c } { b + 2 a \geq 0 \Leftrightarrow \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } + ( \Lambda _ { 4 } + \Lambda _ { 5 } ) \phi _ { 1 } \phi _ { 2 } \geq 0 , } \\ { b \leq 0 \Leftrightarrow \Lambda _ { 6 } \phi _ { 1 } ^ { 2 } + \Lambda _ { 7 } \phi _ { 2 } ^ { 2 } \leq 0 . } \end{array}
+$$
+
+So,we have
+
+$$
+\begin{array} { c } { b + 2 a \geq 0 \Leftrightarrow \Lambda _ { 6 } \geq 0 , \Lambda _ { 7 } \geq 0 , ( \Lambda _ { 4 } + \Lambda _ { 5 } ) + 2 \sqrt { \Lambda _ { 6 } \Lambda _ { 7 } } \geq 0 , } \\ { b \leq 0 \Leftrightarrow \Lambda _ { 6 } \leq 0 , \Lambda _ { 7 } \leq 0 , } \end{array}
+$$
+
+and hence, $\Lambda _ { 4 } + \Lambda _ { 5 } \geq 0$ ， $\Lambda _ { 6 } = 0 , \Lambda _ { 7 } = 0$ ,i.e., $b = 0 , a \geq 0$
+
+Similarly, (3) is also showed easily.
+
+# References
+
+[1] T.Lee,A Theory of Spontaneous T Violation，Phys.Rev.D 8, 1226(1973); CP nonconservation and spontaneous symmetry breaking,Physics Reports, 9(2) 143-177(1974)   
+[2] S.Weinberg，Gauge Theory of CP Nonconservation，Phys. Rev. Lett. 37, 657 (1976)   
+[3] N.G. Deshpande,E.Ma, Pattern of symmetry breaking with two Higgs doublets,Phys.Rev.D 18,2574-2576(1978)   
+[4] A.Barroso，P.M. Ferreira, I.P. Ivanov，R. Santos,Metastability bounds on the two Higgs doublet model, J. High Energy Phys. 06, 045(2013)   
+[5] G. Chauhan, Vacuum stability and symmetry breaking in left-right symmetric model. J. High Energ. Phys. 2019,137 (2019).   
+[6] I.P.Ivanov,Minkowski space structure of the Higgs potential in the two-Higgs-doublet model Phys. Rev. D 75, 035001; Erratum Phys. Rev.D 76,039902(2007)   
+[7] K.Kannike, Vacuum stability of a general scalar potential of a few fields. Eur. Phys. J. C,76,324(2016); Erratum. Eur. Phys. J. C,78, 355(2018)   
+[8] K.Kannike, Vacuum stability conditions from copositivity criteria. Eur. Phys. J. C, 72, 2093(2012)   
+[9] K.G.Klimenko, On Necessary and Sufficient Conditions for Some Higgs Potentials to Be Bounded From Below, Theor. Math. Phys. 62,58-65 (1985)   
+[10] M. Nebot, Bounded masses in two Higgs doublets models,spontaneous CP violation and $\mathbb { Z } _ { 2 }$ symmetry, Phys.Rev.D 102,115002 (2020).   
+[11] S.Nie,M. Sher, Vacuum stability bounds in the two-Higgs doublet model, Phys.Lett.B 449(1-2),89-92 (1999).   
+[12] S. Kanemura, T.Kasai, Y. Okada, Mass bounds of the lightest CP-even Higgs boson in the two-Higgs-doublet model,Phys.Lett. B 471(2-3),182-190 (1999).   
+[13] D.Eriksson，J.Rathsman,O. Stal, 2HDMC-two-Higgs-doublet model calculator, Comput.Phys.Commun.181(1),189-205 (2010); Erratum,Comput. Phys. Commun. 181(5), (2010).   
+[14]G.C.Branco,P.M.Ferreira,L.Lavoura,M.N.Rebelo,M. Sher, J.P. Silva, Theory and phenomenology of two-Higgs-doublet models, Phys. Rep.516,1(2012)   
+[15] I.F.Ginzburg,M. Krawczyk,Symmetries of two Higgs doublet model and CP violation, Phys. Rev. D 72, 115013(2005)   
+[16] M. Maniatisa，A. von Manteuffelb,O.Nachtmannc,F. Nagel, Stability and symmetry breaking in the general two-Higgs-doublet model, Eur. Phys. J. C 48,805-823 (2006)   
+[17] I. P. Ivanov and Joao P. Silva， Tree-level metastability bounds for the most general two Higgs doublet model. Phys.Rev. D 92, 055017(2015)   
+[18] H. Bahl, M. Carena, N. M. Coyle, A. Ireland, Carlos E.M. Wagner, New Tools for Dissecting the General 2HDM, J. High Energ. Phys. 2023,165 (2023)   
+[19] J. Liu, Y. Song, Copositivity for 3rd order symmetric tensors and applications.Bull. Malays.Math. Sci. Soc. 45(1),133-152(2022)   
+[20]Y. Song,X.Li, Copositivity for a class of fourth order symmetric tensors given by scalar dark matter， J. Optim Theory Appl. 195, 334A-346 (2022)   
+[21] Y. Song,L. Qi, Analytical expressions of copositivity for fourthorder symmetric tensors.Analy.Appl.,19(5),779-800(2021)   
+[22] Y. Song, L. Qi, A necessary and sufficient condition of positive definiteness for 4th order symmetric tensors defined in particle physics. arXiv: 2011.11262 (2020)   
+[23] Y. Song, Positive definiteness for 4th order symmetric tensors and applications.Anal. Math. Phys.11,10(2021)   
+[24] L.E. Andersson,G. Chang, T. Elfving, Criteria for copositive matrices using simplices and barycentric coordinates.Linear Algebra Appl. 5, 9-30(1995)   
+[25] K.P. Hadeler, On copositive matrices. Linear Algebra Appl. 49, 79-89(1983)   
+[26] E. Nadler, Nonnegativity of bivariate quadratic functions on a triangle. Comput.Aided Geom.D.9,195-205(1992)   
+[27] H. Ishimori, T.Kobayashi,H. Ohki, Y. Shimizu,H. Okada,M. Tanimoto,Non-Abelian Discrete Symmetries in Particle Physics, Prog. Theor. Phys. Suppl. 183, 1-163 (2010)   
+[28] L. Qi, Eigenvalues of a real supersymmetric tensor,J. Symbolic Comput., 40(6) 1302-1324(2005)   
+[29] L. Qi, Symmetric Nonnegative Tensors and Copositive Tensors, Linear Algebra Appl., 439,228-238(2013)   
+[30] Y. Song,L.Qi,Necessary and sufficient conditions for copositive tensors,Linear Multilinear A 63(1),120-131(2015).   
+[31] L. Qi, H. Chen, Y. Chen, Tensor Eigenvalues and Their Applications, Springer Singapore, 2018.   
+[32] L.Qi, Z. Luo,Tensor Analysis: Spectral Theory and Special Tensors,SIAM,Philadelpia 2017.   
+[33] L. Qi, Y. Song, X. Zhang,Positivity Conditions for Cubic, Quartic and Quintic Polynomials,J. Nonlinear Convex Anal. 23(2),191- 213(2022)   
+[34] G. Ulrich, L.T. Watson, Positivity conditions for quartic polynomials. SIAM J. Sci. Comput. 15, 528-544(1994)

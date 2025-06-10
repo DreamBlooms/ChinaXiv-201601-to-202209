@@ -1,0 +1,659 @@
+[
+    {
+        "type": "text",
+        "text": "2000—2015年三江平原主要作物需水量特征及影响因素分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "任修琳¹，李宏亮²，张玉虎'，蒲晓'，张立林³（1首都师范大学资源环境与旅游学院,北京100048；2广西壮族自治区水利电力勘测设计研究院,广西南宁530023；3北京师范大学地理科学部资源学院,北京100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：全生育期内作物需水量的研究是农业水资源有效利用和进行合理灌溉的重要依据。基于三江平原22个气象站点2000—2015年逐日气象观测资料及中国区域地面气象要素数据集，利用国际粮农组织（FAO)Penman-Monteith模型和分段单值平均作物系数法，分别对三江平原水稻、玉米和大豆的作物需水量进行计算，分析作物需水量年际变化特征，采用通径分析法研究作物需水量的变化成因。结果表明：(1)三江平原16a来年均参考作物蒸散量为 $5 3 7 . 4 ~ \\mathrm { m m }$ ，日均为 $3 . 5 \\ \\mathrm { m m }$ ，呈波动减少趋势。(2)生长季内，水稻在分蘖期需水量最大，为 $1 7 7 . 1 \\ \\mathrm { m m }$ ，玉米在七叶期需水量最大，为 $9 9 . 7 \\ \\mathrm { m m }$ ,大豆在结英期需水量最大，为 $9 6 . 1 \\ \\mathrm { m m }$ ;水稻、玉米和大豆的净灌溉需水量分别为$1 9 5 . 4 \\ \\mathrm { m m } \\ 、 1 3 0 . 8 \\ \\mathrm { m m }$ 和 $7 2 . 2 \\ \\mathrm { m m }$ ，对灌溉的依赖程度水稻 $>$ 玉米 $>$ 大豆。(3)由通径分析结果可知，三江平原作物需水量的主要影响因素为净辐射、气温和日照时数。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：三江平原；作物需水量；净灌溉需水量；Penman-Monteith 模型；通径分析文章编号： $1 0 0 0 - 6 0 6 0 \\big ( 2 0 1 9 \\big ) 0 4 - 0 8 5 4 - 1 3 \\big ( 0 8 5 4 \\sim 0 8 6 6 \\big )$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作物需水量既是农作物灌溉制度和种植管理的依据,也是农田水利工程设计的基本参数[1]。全面了解作物需水规律，明确作物灌溉需水量等的变化特征，对于合理利用水资源、提高农业水资源利用率[2]及模拟和预测作物产量等,均具有重要的意义和作用[3] r",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前国内外学者在作物需水量方面已取得较多成果。慕臣英等[4基于沈阳气象资料及玉米发育期资料，计算了春玉米不同生育阶段的需水量、有效降雨量及水分盈亏指数，并对变化特征进行了分析研究。邱美娟等[5]利用FAO Penman-Monteith 模型、参考作物蒸散量和降水量的比率法，基于吉林省50个气象站的气象资料及玉米生育期观测资料，计算得到该区玉米在不同生育阶段内的主要作物需水量和有效降雨量，并基于此计算了水分亏缺指数，分析研究了吉林省近56a来玉米有效降雨量、需水量和水分亏缺指数的时空变化趋势及特征。曹永强等[1]利用Penman-Monteith 模型与单作物系数法对河北省冬小麦、夏玉米和棉花的有效降雨量及需水量进行了估算，并通过M-K检验法对其趋势及突变进行了研究分析。MEHTAR等[运用Penman-Monteith模型，基于古吉拉特邦16个站点的日数据计算了长周期( $1 0 \\sim 2 0$ 年)的参考蒸散发，并利用校正过的作物系数，计算了古吉拉特邦不同地区的小麦和玉米的日需水量。KUMAR[7]利用Penman-Monteith方法和作物系数法，基于气象资料，估算了比哈尔邦Sabour和Patna两区1985—2015年日参考蒸散量及水稻、秋玉米、小麦、春玉米、绿豆、夏玉米的作物需水量，并根据生育期内有效降雨量计算分析了不同作物的灌溉需水量。近年来，一些学者对三江平原也进行了研究。杜嘉等利用MODIS产品（MOD11A1地表温度与地表比辐射率、MOD13A2归一化植被指数、MOD43B3地表反照率)和SEBAL模型估算了三江平原不同土地覆盖类型上的日蒸散量，并与涡度相关系统的实测数据进行了相关性分析。付强等[9]采用多变量自回归模型",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARV（n），基于三江平原富锦市1985—1999 年气象资料,建立了井灌水稻生育期内需水量预测模型，经模型拟合与预测，效果良好。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三江平原是全国的重要粮食生产基地，农业灌溉用水量较多，农灌区水资源供需矛盾突显，由于水稻多采用大水漫灌、井灌等方式，引起地下水位持续下降,严重影响着三江平原农业的可持续发展[10]。急迫需要做好农业灌溉用水的科学化、精细化管理，开展农田作物需水定量精细研究，可为农作物合理布局、制定灌溉方案、提高灌溉效率等提供科学依据[11]。但是,三江平原的作物需水量研究大多集中在较短时间内的估算预测和特征变化研究，对于10a以上较长时间序列的作物日需水量特征分析相对较少，且对作物需水量的变化成因分析大多采用传统的相关分析法，未能对各因素的影响程度进行定量分析。通径分析相较于相关分析与回归分析上能够全面反映多种自变量对因变量的作用效应及个影响因子之间的相互作用,在定性的基础上定量的研究各影响因子对作物需水量的影响程度。本研究基于长时间序列2000—2015年22个气象站点及遥感数据集的逐日资料，利用FAOPenman-Monteith模型,对三江平原种植面积较大且种植结构较为稳定的水稻、玉米和大豆[12]3种主要作物生长季内(5\\~9月)的日作物需水量和净灌溉需水量进行估算,分析三江平原主要作物需水量的变化趋势及其演变规律，并采用通径分析法研究三种主要作物需水量的变化成因，旨在为三江平原农作物的合理灌溉提供参考，以提高农业水资源的利用效率,实现三江平原水资源的优化配置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三江平原又称三江低地，位于中国黑龙江省的东北部，西起小兴安岭东南端，东至乌苏里江，北起黑龙江，南抵兴凯湖，地理坐标为 $4 3 ^ { \\circ } 4 9 ^ { \\prime } 5 5 \"$ \\~$4 8 ^ { \\circ } 2 7 ^ { \\prime } 5 6 ^ { \\prime \\prime } \\mathrm { N } , 1 2 9 ^ { \\circ } 1 1 ^ { \\prime } 2 0 ^ { \\prime \\prime } \\sim 1 3 5 ^ { \\circ } 0 5 ^ { \\prime } 1 0 ^ { \\prime \\prime } \\mathrm { E }$ ,是由松花江、黑龙江和乌苏里江冲积形成的低平平原,其总面积为 $1 0 . 8 9 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 。三江平原地势的总体特征表现为西南地区高东北地区低的特点（图1）。区域内的气候为温带湿润、半湿润大陆性季风气候，夏季炎热、多雨、潮湿，冬季寒冷，年降水量在 $5 0 0 \\sim 6 5 0 ~ \\mathrm { m m }$ 之间，降水主要集中于夏秋两季。1月份平均气温低于 $- 1 8 \\mathrm { ~ \\textdegree C }$ ，7月平均气温约为 $2 1 \\sim 2 2 ~ \\mathrm { \\textdegree C } \\mathrm { ~ , \\textgeq 1 0 ~ \\textdegree C }$ 积温为 $2 \\ 3 0 0 \\sim 2 \\ 7 0 0 \\ \\mathrm { ~ \\textdegree C }$ ,光照充足，雨热同季，且肥力较高，土壤主要以黑土、棕壤、白浆土、沼泽土和草甸土为主，适于农作物的生长，利于发展农业，尤其是优质水稻和高油大豆的生长。三江平原地势低平，河流较多，且中小河流多为平原沼泽型河流，径流较缓，降水集中，积水较多，土质粘重，形成了我国最大的沼泽分布区。三江平原因在20世纪50年代进行了大规模开垦，建设了许多大型的国营农场，成为我国最大的农垦区和重要的商品粮生产基地，耕地面积广阔。其主要农作物为水稻、玉米和大豆等，本研究中的水稻、玉米和大豆均为春水稻、春玉米和春大豆，生育期主要集中在5\\~9月。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/68828a80221f354a5560a9e7a7c7def9c141b77c4185126241a23b7a334093aa.jpg",
+        "img_caption": [
+            "图1研究区示意图Fig.1Research area"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所用数据为国家气象数据网所提供，选用三江平原22个气象站的逐日气候资料及中国区域地面气象要素数据集。中国区域地面气象要素数据集是以国际上现有的GLDAS资料、Princeton再分析资料、GEWEX-SRB辐射资料、TRMM降水资料为背景场，又结合中国气象局常规气象观测数据制作而成。其时间分辨率为 $^ 3 \\mathrm { ~ h ~ }$ ，空间分辨率为 $0 . 1 ^ { \\circ }$ ，该数据集包含了近地面气压、近地面气温、近地面全风速、近地面空气比湿、地面向下长波辐射、地面向下短波辐射、地面降水率，共7个要素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 计算方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）参考作物蒸散量计算通过国内外大量的分析研究表明，在以参考蒸散量为基础计算作物需水量的近20多种计算方法中，目前FAOPen-man-Monteith模型被认为是国际上计算参考作物蒸散量的标准方法[13-18],其计算结果在不同条件下都与实测值非常接近，精度较高，被广泛应用于区域参考作物蒸散量的估算[19-23]。基于该式和作物系数可进一步估算作物需水量[24-27],广泛应用于实际作物需水量的计算与预测当中[28]。因此，本文采用Penman-Monteith公式对参考作物蒸散量进行估算，计算也较为简单，经过多年的研究改进,公式如下[29]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T _ { 0 } = \\frac { 0 . 4 0 8 \\varDelta \\left( R _ { n } - G \\right) + \\gamma \\displaystyle \\frac { 9 0 0 } { T + 2 7 3 } u _ { 2 } \\left( e _ { s } - e _ { a } \\right) } { \\varDelta + \\gamma \\left( 1 + 0 . 3 4 u _ { 2 } \\right) } \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： ${ E T } _ { 0 }$ 是参考作物蒸散量( $\\mathbf { \\chi } _ { \\mathrm { m m } } \\cdot \\mathbf { \\ v { d } } ^ { - 1 }$ ）， $\\boldsymbol { R } _ { n }$ 是冠层表面净辐射 $( \\mathrm {  ~ M J ~ } \\cdot \\mathrm {  ~ m ~ } ^ { - 2 } \\cdot \\mathrm {  ~ d ~ } ^ { - 1 } \\cdot \\mathrm {  ~ \\Omega ~ } )$ ， $G$ 是土壤热通量（204 $( \\mathbf { M J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 } ,$ ）， $T$ 是日平均气温 $( \\mathrm { ^ { \\circ } C } )$ ， $u _ { 2 }$ 是风速 $( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 } )$ ， $\\boldsymbol { e } _ { a _ { } }$ 是实际水汽压( $\\mathrm { \\ k P a _ { \\ell } }$ ， $e _ { s }$ 是饱和水汽压( $\\left[ \\mathrm { k P a } \\right)$ ， $\\boldsymbol { e } _ { s } - \\boldsymbol { e } _ { a }$ 是饱和水汽压差( $\\mathrm { \\nabla  k P a } \\dot { }$ ）， $\\Delta$ 是水汽压曲线斜率( $\\mathrm { \\ k P a \\ \\cdot \\ ^ { \\circ } C \\ ^ { - 1 } }$ )， $\\gamma$ 是湿度计常数（ $\\mathbf { \\Psi } ( \\mathbf { k } \\mathbf { P a } \\cdot \\mathbf { \\mathcal { C } } ^ { \\mathbf { \\alpha } - 1 } ,$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（1)中参数计算方法为[28.30]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { R _ { n } } { S _ { n } } = a _ { 0 } + a _ { 1 } T _ { m i n } + a _ { 2 } D T R + a _ { 3 } V I + a _ { 4 } R H\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\mathnormal { n } } = S _ { 1 } \\left( 1 - \\alpha \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\begin{array} { r } { a _ { 0 } = 0 . 5 1 2 \\ 9 ; a _ { 1 } = 0 . 0 0 2 \\ 5 ; a _ { 2 } = 0 ; a _ { 3 } = 0 . 1 4 0 \\ 1 } \\end{array}$ $a _ { 4 } = 0 . 2 6 0 \\ 4 ; \\alpha$ 取 $0 . 2 3 ; T _ { m i n }$ 是日最低气温 $( \\mathcal { C } ) , W$ 是归一化植被指数， $S _ { n }$ 是地面净短波辐射（MJ·$\\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 }$ ), $D T R$ 是日气温阈值 $( { \\mathcal { C } } ) \\ , R H$ 是相对湿度， $S _ { \\downarrow }$ 是地面向下短波辐射 $( \\mathbf { M J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG = \\alpha _ { g } ( 1 - f _ { e } ) { \\cal R } _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { e } = \\frac { N D V I - N D V I _ { m i n } } { N D V I _ { m a x } - N D V I _ { m i n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN D V I _ { m a x } = 0 . 9 5 , N D V I _ { m i n } = 0 . 0 5 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne ^ { 0 } ( T ) = 0 . 6 1 0 8 \\mathrm { e x p } \\Big [ { \\frac { 1 7 . 2 7 T } { T + 2 3 7 . 3 } } \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { _ s } = { \\frac { e ^ { ^ { 0 } } ( T _ { _ { m a x } } ) + e ^ { ^ { 0 } } ( T _ { _ { m i n } } ) } { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { a } = \\frac { R H _ { m e a n } } { 1 0 0 } \\ \\Big [ \\frac { e ^ { 0 } ( \\ T _ { m a x } ) + e ^ { 0 } ( \\ T _ { m i n } ) } { 2 } \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $T _ { m i n }$ 是日最低气温 $( \\mathrm { ‰ }$ ， $T _ { m a x }$ 是日最高气温$( \\operatorname { \\mathcal { C } } ) \\operatorname { \\mathcal { I } } _ { e }$ 是植被覆盖度, ${ N D V } I _ { m i n }$ 是最小 $N D W$ ，$N D W _ { m a x }$ 是最大 $N D V I , R H _ { m e a n }$ 是日平均相对湿度。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta = \\frac { 4 \\ 0 9 8 \\Big [ 0 . 6 1 0 \\ 8 \\exp \\Big ( \\displaystyle \\frac { 1 7 . 2 7 T } { T + 2 3 7 . 3 } \\Big ) \\Big ] } { ( T + 2 3 7 . 3 ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = \\frac { c _ { p } P } { \\varepsilon \\lambda } = 0 . 6 6 5 \\times 1 0 ^ { - 3 } P\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = 1 0 1 . 3 \\left( { \\frac { 2 9 3 - 0 . 0 0 6 5 z } { 2 9 3 } } \\right) ^ { 5 . 2 6 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $z$ 是高程 $( { \\bf m } ) , T$ 是日平均气温 $( { \\mathcal { C } } ) , P$ 是大气压 $\\left( \\mathrm { { k P a } } \\right)$ ， $\\lambda$ 是蒸发潜热,取 $2 . 4 5 \\mathrm { \\ M J \\cdot \\ k g ^ { - 1 } } , \\varepsilon$ 是水汽分子量与干空气分子量之比,为 $0 . 6 2 2 , c _ { p }$ 是空气定压比热,取 $1 . 0 1 3 \\times { 1 0 } ^ { - 3 } \\ \\mathrm { M J } \\cdot \\ \\mathrm { k g } ^ { - 1 } \\ \\cdot \\ \\mathrm { ^ { 9 } C } \\ ^ { - 1 } .$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FAO 推荐的作物系数表规定在植物生长初期、中期和末期的作物系数均取为常数[31]。在充分灌溉的条件下，作物需水量就可以看做是参考作物蒸散量和作物系数的乘积[28]。其公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T _ { c } = K \\times E T _ { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $E T _ { 0 }$ 表示逐日参考作物蒸散量， $\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { d } ^ { - 1 }$ · $K _ { c }$ 表示作物系数； $E T _ { c }$ 表示逐日作物需水量， $\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { d } ^ { - 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但不同地区因其气候环境与下垫面不同对其作物系数有一定的影响[32],致使其与FAO 推荐的作物系数表中的值有所差异[26.33],存在日间变异现象[34]。因此,需要根据不同地区不同环境条件校正其作物系数[35] O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）有效降雨量计算有效降雨量是指用于满足作物蒸散发所需要的那部分降雨量，是自然降水中实际补充到作物根层土壤水分的部分。本研究所选用的有效降雨量计算方法为FAO推荐的降水量与作物需水量值的大小比较法，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { e i } } = { \\binom { P , P \\leqslant E T _ { c } } { E T _ { c } , P \\geqslant E T _ { c } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P _ { e } = \\sum _ { i = 1 } ^ { n } P _ { e i } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { e i }$ 是日有效降雨量 $\\left( \\mathrm { m m } \\right) , P _ { e }$ 是作物生育期内的有效降雨量( $\\mathbf { \\dot { m } } \\mathbf { m } ,$ ） $P$ 是日降雨量（mm）， $n$ 是生育期按日分组的数量 $( \\mathrm { ^ { \\circ } C } )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（3）灌溉需水量计算灌溉需水量又称作物缺水量，指作物在全生育期内各个生育阶段同期作物需水量减去有效降雨量之后的需水量[1]，公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = E T _ { c } - P _ { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "若 $\\scriptstyle { W = 0 }$ ,表示水分供需平衡；若 $W > 0$ ,表示作物缺水，需要补充灌溉；若 $W < 0$ ,表示作物不缺水。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2通径分析法通径分析方法是用于分析拥有多个自变量和因变量之间线性关系的一种重要统计方法，根据通径分析，可以获得各个自变量对因变量影响的直接作用和间接作用[36-37],该方法更具直观、精确的优点，能够全面分析反映出各个自变量对因变量的作用效应[38],揭示各因素对结果的相对重要性。本研究利用通径分析方法来研究各影响因子对三江平原三种主要作物需水量的作用效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于一个拥有多个自变量和因变量的相互关联的系统, $n$ 个自变量 $\\mathbf { \\Phi } _ { ( i } ^ { \\prime } = 1 , 2 , \\cdots , n )$ 和1个因变量 $y$ 之间的回归方程为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = b _ { 0 } + b _ { 1 } x _ { 1 } + b _ { 2 } x _ { 2 } + \\cdots b _ { n } x _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\gamma _ { x _ { i } x _ { j } } \\big ( i , j \\leqslant n \\big )$ 为 $n$ 个自变量间的简单相关系数， $\\gamma _ { x _ { i } y } ( i \\leqslant n )$ 为 $n$ 个自变量与因变量间的简单相关系数，根据式(16)通过数学变换建立正规矩阵方程为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c c c c l } { { 1 } } & { { \\gamma _ { { x _ { 1 } x _ { 2 } } } } } & { { \\cdots } } & { { \\gamma _ { { x _ { 1 } x _ { n } } } } } & { { { \\cal P } _ { { y _ { x _ { 1 } } } } } } & { { \\gamma _ { { x _ { 1 } y } } } } \\\\ { { } } & { { } } & { { } } & { { } } & { { } } & { { } } \\\\ { { \\gamma _ { { x _ { 2 } x _ { 1 } } } } } & { { 1 } } & { { \\cdots } } & { { \\gamma _ { { x _ { 2 } x _ { n } } } } } & { { { \\cal P } _ { { y _ { x _ { 2 } } } } } } & { { } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } \\\\ { { } } & { { } } & { { } } & { { } } & { { \\cdots } } & { { 1 } } & { { { \\cal P } _ { { y _ { x _ { n } } } } } } & { { \\gamma _ { { x _ { n } y } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "解矩阵方程(17)即可求：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "直接通径系数 $P _ { y x _ { i } }$ ,表示自变量 $x _ { i }$ 对因变量 $y$ 的直接作用,间接通径系数 $\\gamma _ { x _ { i } x _ { j } } P _ { y x _ { j } }$ ,表示自变量 $x _ { i }$ （204通过 $j$ 对因变量 $y$ 的间接作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "剩余项的通径系数 $P _ { y e }$ 的表示公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { _ { y e } } = \\sqrt { 1 - ( \\gamma _ { _ { x _ { 1 } y } } P _ { _ { y x _ { 2 } } } + \\gamma _ { _ { x _ { 2 } y } } P _ { _ { y x _ { 2 } } } + \\cdots \\gamma _ { _ { x _ { n } y } } P _ { _ { y x _ { n } } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$P _ { y e }$ 的大小反映了 $\\boldsymbol { x } _ { i }$ 对 $y$ 的综合决定能力，若剩余项的通径系数 $P _ { y e }$ 数值较小，说明已找到主要因素;若 $P _ { y e }$ 数值较大，则表明还有更重要的因素未被考虑在内。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 三江平原参考作物蒸散量年际变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于三江平原22个气象站点逐日数据及遥感数据集，利用FAOPenman-Monteith公式，通过站点算数平均计算得到2000—2015年三江平原年参考作物蒸散量，具体变化情况如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图2中可以看出，近16a来三江平原参考作物蒸散量年际之间变化波动不一，整体上呈现增减交替现象，但总体呈平缓下降趋势，参考作物蒸散量的倾向率为 $- 4 7 . 4 8 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { ~ \\ r ~ a ~ } ) \\ r ^ { - 1 }$ ，波动范围为$4 4 7 . 3 \\sim 6 0 2 . 8 ~ \\mathrm { \\ m m }$ ，多年平均参考作物蒸散量为$5 3 7 . 4 ~ \\mathrm { m m }$ 。参考作物蒸散量明显超出多年平均值的年份有5 $\\dot { \\mathrm { ~ \\scriptsize ~ ; ~ } } \\mathrm { ~ a ~ } ( 2 0 0 0 , 2 0 0 1 , 2 0 0 4 , 2 0 0 7 , 2 0 1 1$ 年），峰值出现在2011年，年蒸散量为 $6 0 2 . 8 1 ~ \\mathrm { { m m } }$ ,超出多年平均值 $6 5 . 4 3 ~ \\mathrm { m m }$ ;明显低于多年平均值的年份有4年(2009、2012、2013、2014年），2012年参考作物蒸散量最低，年蒸散量仅为 $4 4 7 . 3 \\ \\mathrm { m m }$ ,比多年平均值少 $9 0 . 5 ~ \\mathrm { m m }$ ,低于年际平均值的 $1 6 . 8 \\%$ 。根据参考作物蒸散量的计算因素分析，其与当年的气象因子等影响因素相关，参考作物蒸散量主要受净辐射、气温与日照时数影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2主要作物日需水量分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据FAO56资料提供的作物系数表，结合前人研究基础[39-44]及三江平原的气象条件,得出了水稻、玉米和大豆生育期划分及其对应作物系数表，如表1\\~3所示。基于FAOPenman-Monteith公式与作物系数法计算得到生育期内(5\\~9月)水稻、玉米和大豆日需水量，具体情况如图3、图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f810b0030c660e65b08223b5d36b51ec58f0c496a5bc64338fe8a3c114bbb96a.jpg",
+        "img_caption": [
+            "图3为三江平原三种主要农作物日需水量年际",
+            "图2三江平原2000—2015 年参考作物蒸散量年际变化 Fig.2Annual variation of reference crop evapotranspiration in Sanjiang Plain during 2OOO—2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "变化情况，从图中可以看出2000—2015 年水稻、玉米和大豆的需水量年际变化较为平缓，呈不显著下降趋势，与参考作物蒸散量变化趋势相似，作物日需水量大小排序为：水稻 $>$ 玉米 $>$ 大豆。因三种作物生育期及生长情况不同，作物日需水量在时间上呈现出较小的差异性：大豆晚于玉米晚于水稻。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出三种作物需水量在生育期内均呈现先增后减的趋势，水稻日需水量在6月与7月最高，日最高值出现在6月25号分蘖盛时期，为$6 . 1 \\ \\mathrm { m m }$ ,因处于快速生长阶段，分蘖期（分蘖初、分蘖盛、分蘖末)水稻需水量最大,总计达到 $1 7 7 \\ \\mathrm { m m }$ ，其次为拔节孕穗和乳熟期，分别为 $9 6 ~ \\mathrm { \\ m m }$ 和95$\\mathbf { m } \\mathbf { m }$ ,黄熟期水稻的蒸腾蒸发量最小。玉米需水量在全生育期内呈现先增后减的单峰趋势，7月份达到最高值，日蒸散最大值为 $4 . 7 \\ \\mathrm { m m }$ ,七叶期与拔节期玉米蒸散量最大,分别是 $1 0 0 ~ \\mathrm { { m m } }$ 和 $8 4 ~ \\mathrm { m m }$ ,生育初期与末期玉米的蒸腾蒸发量较小。大豆的蒸腾蒸发量在全生育期内与玉米变化趋势相近，7月与8月日蒸散相对较高，8月初期达到日最高蒸散量，各生育期内蒸散量结荚期蒸腾蒸发量最大，为 $9 6 ~ \\mathrm { m m }$ ，生育初期和末期大豆的蒸腾蒸发量最小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出三江平原各生育期水稻有效降雨量与灌溉需水量差异较大，其中拔节孕穗期水稻有效降雨量在最高，为 $7 7 . 7 \\ \\mathrm { m m }$ ,其次为乳熟期，返青期水稻有效降雨量最低，为 $1 1 . 2 \\ \\mathrm { m m }$ ;水稻灌溉需水量在分蘖盛期最高，为 $3 3 . 0 \\ \\mathrm { m m }$ ,其次为分藥初期,水稻灌溉需水量为 $3 0 . 2 \\ \\mathrm { m m }$ ,分蘖末期与抽穗开花期水稻灌溉需水量较少，分别为 $9 . 2 \\ \\mathrm { m m } \\ . 1 0 . 2$ $\\mathbf { m } \\mathbf { m }$ ;水稻多年平均有效降水量、需水量和缺水量分别为 $3 1 9 . 7 ~ \\mathrm { m m } \\ 、 4 9 0 ~ \\mathrm { m m } \\ 、 1 7 0 . 3 ~ \\mathrm { m m }$ ,各生育阶段的有效降水量均不能满足作物的需水量，其中分藥期（分蘖初、分蘖盛、分蘗末）缺水量最大，为72.5$\\mathbf { m } \\mathbf { m }$ 。玉米各生育期内有效降雨量在拔节期最高，为$7 1 . 6 ~ \\mathrm { m m }$ ,在出苗期最低，为 $1 9 . 2 \\ \\mathrm { m m }$ ;各生育期内玉米灌溉需水量在七叶期最高，为 $3 2 . 6 ~ \\mathrm { m m }$ ,在抽雄期最低， $6 . 7 ~ \\mathrm { m m }$ ;玉米多年平均有效降水量、需水量和缺水量分别为 $3 2 4 . 7 \\ \\mathrm { m m } \\mathrm { . 4 3 5 . 6 \\ m m } \\mathrm { . 1 1 0 . 8 \\ m m }$ ，各生育阶段的玉米有效降水量均不能满足作物的需水量，其中七叶期玉米缺水量最大。三江平原大豆各生育期有效降雨量在结荚期最高，为 $7 7 . 9 \\ \\mathrm { m m }$ ，成熟期最低，为 $7 . 0 ~ \\mathrm { m m }$ ;大豆灌溉需水量较水稻、玉米相对最少,其中结荚期大豆灌溉需水量最高，为$1 8 . 2 \\ \\mathrm { m m }$ ,其次为三叶期与鼓粒期,大豆灌溉需水量分别为 $1 1 . 4 \\ \\mathrm { m m } \\cdot 1 4 . 3 \\ \\mathrm { m m }$ ,而其他生育期灌溉需水量均较少，分枝期有效降雨量足够满足大豆生长发育所需水量。多年平均有效降水量、需水量和缺水量分别为 $2 5 9 . 6 \\ \\mathrm { m m } , 3 1 1 . 8 \\ \\mathrm { m m } , 5 2 . 2 \\ \\mathrm { m m }$ ,除分枝期能够满足其需水量外，其他阶段均不能满足。从图中可以看出水稻需水量最大,其次为玉米,大豆需水量相较最少;水韬、大豆有效降雨量集中在中后期，玉米有效降雨量在全生育期分布较为均匀。作物缺水量：水稻 $>$ 玉米 $>$ 大豆。在快速生长期水稻缺水量明显高于玉米和大豆,在生育中期水稻、玉米和大豆缺水量相近。快速生长期和开花一结实期是作物的快速生长阶段，充分供水对产量的形成有重要影响。三江平原玉米、大豆都多雨养,因此建议在该阶段根据不同作物的需水情况补充灌溉1\\~2次，每次约 $3 0 \\sim 5 0 ~ \\mathrm { m m }$ ,可缓解该生育阶段作物的缺水状况，提高其产量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a365099fe21a03fbd1c303182dfb49cd5ecec82cd5991dfbb8fbffab769eb171.jpg",
+        "table_caption": [
+            "Tab.1Rice growth period and crop coefficient ",
+            "表2玉米生育期及作物系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生育期</td><td>插秧期</td><td>返青期</td><td>分蘖初</td><td>分蘖盛</td><td>分蘖末</td><td>拔节孕穗</td><td>抽穗开花期</td><td>乳熟</td><td>黄熟</td></tr><tr><td>日期</td><td>5.20~5.29</td><td>5.30~6.5</td><td>6.6~6.21</td><td>6.22~7.01</td><td>7.02~7.11</td><td>7.12~8.1</td><td>8.2~8.14</td><td>8.15~9.13</td><td>9.14~9.28</td></tr><tr><td>K</td><td>1.1</td><td>1.2</td><td>1.2</td><td>1.2</td><td>1.3</td><td>1.3</td><td>1.1</td><td>1.1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c18c4bad70f51191427e14370a0d0e9e1e86a105d1e40072dfda0c41e06d4ae4.jpg",
+        "table_caption": [
+            "Tab.2Growth period and crop coefficient of maize ",
+            "表3大豆生育期及作物系数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生育期</td><td>播种期</td><td>出苗期</td><td>七叶期</td><td>拔节期</td><td>抽雄期</td><td>吐丝期</td><td>乳熟期</td><td>成熟期</td></tr><tr><td>日期</td><td>4月下旬</td><td>5.20~5.31</td><td>6.1~6.30</td><td>7.1~7.20</td><td>7.21~7.31</td><td>8.1~8.20</td><td>8.21~9.5</td><td>9.6~9.30</td></tr><tr><td>K</td><td>0.41</td><td>0.58</td><td>0.8</td><td>1.16</td><td>1.16</td><td>1.1</td><td>1.1</td><td>0.83</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6d1552b1263ed20228285ed77b21b75b668ed0ec3296517bc377ba1cf35ee86.jpg",
+        "table_caption": [
+            "表1水稻生育期及作物系数",
+            "Tab.3Soybean growth period and crop coefficient "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生育期</td><td>播种期</td><td>出苗期</td><td>三叶期</td><td>分枝期</td><td>开花期</td><td>结荚期</td><td>鼓粒期</td><td>成熟期</td></tr><tr><td>日期</td><td>5.10~5.29</td><td>5.30~6.8</td><td>6.9~6.28</td><td>6.29~7.8</td><td>7.9~7.28</td><td>7.29~8.27</td><td>8.28~9.25</td><td>9.26~10.5</td></tr><tr><td>K</td><td>0.32</td><td>0.32</td><td>0.6</td><td>0.62</td><td>0.75</td><td>0.96</td><td>0.71</td><td>0.32</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/01afeb540797d79866f3fc338a8442cb3b3d7f2668a4b62442ecd09e15e71e9d.jpg",
+        "img_caption": [
+            "图3三江平原主要作物日需水量年际变化情况",
+            "Fig.3Interannual variation of daily water requirement of main crops in Sanjiang Plain "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3作物需水量影响因素分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1相关性分析影响三江平原全生育期内参考作物蒸散量的主要因子有净辐射、日照、降水、气温、风速和相对湿度，通过计算作物全生育期内参考作物蒸散量与6个影响因子的相关系数，对各影响因子与三江平原参考作物蒸散量的相关性进行分析（图6)。根据计算结果与图6可以看出，参考作物蒸散量与日照、气温、净辐射的相关性较好，其平均相关系数分别为0.85、0.61和0.89，其变化趋势与参考作物蒸散量大体一致;参考作物蒸散量与相对湿度和降水呈负相关，其平均相关系数分别为-0.73和-0.53，其变化趋势与参考作物蒸散量大体相反。风度与三江平原参考作物蒸散量的相关系数不高。六个影响因子按照对参考作物蒸散发量的相关系数大小排序为：净辐射 $>$ 日照 $>$ 相对湿度 $>$ 气温 $>$ 降水 $>$ 风速。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2af4739723284798b2cb1b88ea2c86a1fef2627d6fe298f307b9b3aa33dc4914.jpg",
+        "img_caption": [
+            "图4三江平原水稻、玉米、大豆不同生育期作物需水量",
+            "Fig.4Water requirement of crops during different growth periods of rice,maizeand soybean in sanjiang plain "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2通径分析为进一步对三江平原作物需水量的影响因素进行定量分析，采用通径分析法研究主要作物需水量的变化成因。分别计算6个影响因子与水稻、玉米和大豆的通径系数,分析各影响因子对三江平原三种主要作物需水量的直接效应和间接效应，计算结果见表 $4 \\sim 6$ ○",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由各影响因子对水稻需水量的通径分析(表4)",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "可知,风速、气温、相对湿度、净辐射、降水、日照时数对水稻需水量的直接通径系数分别为0.17、0.56、$- 0 . 1 4 , 0 . 9 0 , 0 . 0 8 , 0 . 3 8$ 。其中净辐射对水稻需水量的通径系数在各项指标中最大，为极显著通径系数，气温、日照对水稻需水量的通径系数为显著通径系数，而降水、风速、相对湿度3个因素对水稻需水量的作用不明显。通过间接作用系数表可以看出风速通过气温对水稻需水量的抑制作用最大，间接作用系数为-0.33；气温通过净辐射对水稻需水量的贡献最大，间接作用系数为0.66;相对湿度通过气温对水稻需水量的贡献最大，间接作用系数为0.39；净辐射通过通过气温对水稻需水量的贡献作用最大，间接作用系数为0.41;降水通过气温对水稻需水量的贡献最大，通过日照时数对水稻需水量的抑制作用最大，间接作用系数分别为0.25、-0.22；日照时数通过净辐射对水稻需水量的贡献作用最大，间接作用系数为0.41。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/277ac86236ffd39efc73bb85be8bb44decbb65299277dfe025b22f73687de181.jpg",
+        "img_caption": [
+            "图5三江平原水稻、玉米、大豆江平原不同生育期作物需水量变化情况",
+            "Fig.5Changes of crop water requirement in rice,maize and soybean in Sanjiang Plain at diffrent growth periods "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由各影响因子对玉米需水量的通径分析(表5)可知，风速、气温、相对湿度、净辐射、降水、日照时数对玉米需水量的直接通径系数分别为0.18、0.61、$- 0 . 1 5 \\ 、 0 . 9 8 \\ 、 0 . 0 9 \\ 、 0 . 4 2$ ,其中净辐射对玉米需水量的通径系数各项指标中最大，是极显著通径系数，气温、日照对玉米需水量的通径系数为显著通径系数，而降水、风速、相对湿度3个因素对玉米需水量的作用不明显。通过间接作用系数表可以看出风速通过气温对玉米需水量的抑制作用最大，间接作用系数为-0.36;气温通过净辐射对玉米需水量的贡献最大，间接作用系数为0.71;相对湿度通过气温对玉米需水量的贡献最大，间接作用系数为0.42;净辐射通过通过气温对玉米需水量的贡献作用最大，间接作用系数为0.44；降水通过气温对玉米需水量的贡献最大，通过日照时数对玉米需水量的抑制作用最大，间接作用系数分别为 $0 . 2 8 , - 0 . 2 4$ ；日照时数通过净辐射对玉米需水量的贡献作用最大，间接作用系数为0.45。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由各影响因子对大豆需水量的通径分析(表6)可知，风速、气温、相对湿度、净辐射、降水、日照时数对大豆需水量的直接通径系数分别为0.21、0.70、-0.17、1.12、0.10、0.47，净辐射对大豆需水量的通径系数在各项指标中最大，为极显著通径系数，气温、日照对大豆需水量的通径系数为显著通径系数，而降水、风速、相对湿度3个因素对大豆需水量的作用不明显。根据通径分析可知，净辐射为作物需水量的最主要影响因子，而降水对各作物需水量的影响不大。通过间接作用系数表可以看出风速通过气温对大豆需水量的抑制作用最大，间接作用系数为-0.41;气温通过净辐射对大豆需水量的贡献最大，间接作用系数为0.82；相对湿度通过气温对大豆需水量的贡献最大，间接作用系数为0.49;净辐射通过气温对大豆需水量的贡献作用最大，间接作用系数为0.51;降水通过气温对大豆需水量的贡献最大，通过日照时数对大豆需水量的抑制作用最大，间接作用系数分别为0.32、-0.27；日照时数通过净辐射对大豆需水量的贡献作用最大，间接作用系数为0.51。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由直接通径系数结果可知，影响三江平原作物需水量的主要因素为净辐射、气温和日照时数。由间接通径系数可知，各影响因子之间相互制约、相互",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ET/mm 日数时数/h 8 y=0.295 9x+1.1778 15 R2=0.7824  \n1/ 64 H 州 WW A /L 642 +2V 生0 010-00 10-00 01-90 01-20 07-10 00-10 60-80 80-60 188 0 5 10 15日照时数/hET/mm RH 8 y=-8.383 8x+9.43478 1.0 R²=0.526 6  \n1/ 6 ： ： 淘 1/ 642 66442 42 中0 0.0 010-10 11-90 00-15 10-05 10 01-20 07-10 08-10 60-80 61-80 67-80 80-60 188 0.20 0.40 0.60 0.80 1.00相对湿度ETo/mm 风速/ $\\mathbf { \\bar { m } } \\cdot \\mathbf { s } ^ { - 1 }$ 8 y=-0.025x+3.146 28 8 R2=0.0003  \n1/L 64 2 店 a 64 2 -s.u/区 1/ 64 20 0 010-90 I1-90 0 08-90 1 0 2 4 6 88 风速 $/ \\mathbf { m } \\cdot \\mathbf { s } ^ { - 1 }$ （208 ET/mm R/MJ·m-²·d-1 8 y=0.3268x-0.1225  \n1/ 64 1 W = 中 心 1510 6/2人2 5 心0 0 010-90 11-10 01-90 01-20 60-80 61-80 67-80 80-60 81-60 87-60 0 5 10 15 20净辐射 $/ \\mathbf { M J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 }$ （20ET/mm 温度/℃ 8 0157430.1038 30  \n1/ 64 1/L 642 1050 20 010-90 81-60 87-60 0 10 20 30温度/℃8 ET/mm 降水/mm 30 8 y=-0.137 7x+3.5488  \n64 1 W 5 1/ 6 42 R²=0.280 90 A Y ： Y 海 0 012-90 10-90 01-90 07-90 00-90 00-10 60-80 61-80 67-80 80-60 81-60 87-60 0 5 10 15 20 25 30降水/mm",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4db514a2d51f6a8d14a3bd9d74c1ff04aa78c582c9b658d43c2ba2ad90a699b3.jpg",
+        "table_caption": [
+            "Tab.4Path analysis of impact factors on rice water requirement in Sanjiang Plain ",
+            "表5影响因子对三江平原玉米需水量的通径分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">影响因子</td><td rowspan=\"2\">通径系数</td><td colspan=\"7\">间接作用</td></tr><tr><td>风速</td><td>气温</td><td>相对湿度</td><td>净辐射</td><td>降水</td><td>日照时数</td><td>间接和</td></tr><tr><td>风速</td><td>0.17</td><td></td><td>-0.33</td><td>0.11</td><td>-0.12</td><td>-0.02</td><td>-0.03</td><td>-0.39</td></tr><tr><td>气温</td><td>0.56</td><td>-0.10</td><td></td><td>-0.10</td><td>0.66</td><td>0.04</td><td>0.06</td><td>0.56</td></tr><tr><td>相对湿度</td><td>-0.14</td><td>-0.13</td><td>0.39</td><td></td><td>0.10</td><td>0.05</td><td>-0.11</td><td>0.30</td></tr><tr><td>净辐射</td><td>0.90</td><td>-0.02</td><td>0.41</td><td>-0.01</td><td></td><td>0.01</td><td>0.17</td><td>0.56</td></tr><tr><td>降水</td><td>0.08</td><td>-0.05</td><td>0.25</td><td>-0.08</td><td>0.11</td><td></td><td>-0.22</td><td>0.01</td></tr><tr><td>日照时数</td><td>0.38</td><td>-0.02</td><td>0.088</td><td>0.04</td><td>0.41</td><td>-0.05</td><td></td><td>0.47</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/df38a51824b3f71b1acf87e1cc474c83cd9f794f3923ab820745481400083b84.jpg",
+        "table_caption": [
+            "表4影响因子对三江平原水稻需水量的通径分析",
+            "表6影响因子对三江平原大豆需水量的通径分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">影响因子</td><td rowspan=\"2\">通径系数</td><td colspan=\"7\">间接作用</td></tr><tr><td>风速</td><td>气温</td><td>相对湿度</td><td>净辐射</td><td>降水</td><td>日照时数</td><td>间接和</td></tr><tr><td>风速</td><td>0.18</td><td></td><td>-0.36</td><td>0.12</td><td>-0.13</td><td>-0.02</td><td>-0.04</td><td>-0.43</td></tr><tr><td>气温</td><td>0.61</td><td>-0.11</td><td></td><td>-0.10</td><td>0.71</td><td>0.04</td><td>0.07</td><td>0.61</td></tr><tr><td>相对湿度</td><td>-0.15</td><td>-0.14</td><td>0.42</td><td></td><td>0.11</td><td>0.05</td><td>-0.12</td><td>0.32</td></tr><tr><td>净辐射</td><td>0.98</td><td>-0.02</td><td>0.44</td><td>-0.02</td><td></td><td>0.01</td><td>0.19</td><td>0.60</td></tr><tr><td>降水</td><td>0.09</td><td>-0.05</td><td>0.28</td><td>-0.09</td><td>0.12</td><td></td><td>-0.24</td><td>0.02</td></tr><tr><td>日照时数</td><td>0.42</td><td>-0.02</td><td>0.10</td><td>0.04</td><td>0.45</td><td>-0.05</td><td></td><td>0.52</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/a49ec7fd4efa443fcb519172274f33cd8ac7d89d8c77b512a74b41b9413a4116.jpg",
+        "table_caption": [
+            "Tab.5Path analysis of impact factors on maize water requirement in Sanjiang Plain ",
+            "Tab.6Path analysis of impact factors on soybean water requirement in Sanjiang Plain "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">影响因子</td><td rowspan=\"2\">通径系数</td><td colspan=\"7\">间接作用</td></tr><tr><td>风速</td><td>气温</td><td>相对湿度</td><td>净辐射</td><td>降水</td><td>日照时数</td><td>间接和</td></tr><tr><td>风速</td><td>0.21</td><td></td><td>-0.41</td><td>0.13</td><td>-0.15</td><td>-0.03</td><td>-0.04</td><td>-0.50</td></tr><tr><td>气温</td><td>0.70</td><td>-0.12</td><td></td><td>-0.12</td><td>0.82</td><td>0.05</td><td>0.07</td><td>0.70</td></tr><tr><td>相对湿度</td><td>-0.17</td><td>-0.16</td><td>0.49</td><td></td><td>0.12</td><td>0.06</td><td>-0.13</td><td>0.38</td></tr><tr><td>净辐射</td><td>1.12</td><td>-0.03</td><td>0.51</td><td>-0.02</td><td></td><td>0.01</td><td>0.22</td><td>0.69</td></tr><tr><td>降水</td><td>0.10</td><td>-0.06</td><td>0.32</td><td>-0.1</td><td>0.14</td><td></td><td>-0.27</td><td>0.03</td></tr><tr><td>日照时数</td><td>0.47</td><td>-0.02</td><td>0.11</td><td>0.05</td><td>0.51</td><td>-0.06</td><td></td><td>0.59</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "影响，共同作用于三江平原主要作物需水量，因而三江平原水稻、玉米和大豆需水量变化受各影响因子共同作用影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究在FAOPenman-Monteith模型的基础上，估算了三江平原2000—2015年生长季(5\\~9月）的日作物需水量和净灌溉需水量，并通过相关分析与通径分析研究了三江平原作物需水量的影响因素，得出结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（1）近16a来(2000—2015年)三江平原年参考作物蒸散量总体呈下降趋势，波动范围为 $4 4 7 . 3 \\sim$ $6 0 2 . 8 ~ \\mathrm { m m }$ ,多年平均参考作物蒸散量为 $5 3 7 . 4 \\ \\mathrm { m m }$ 。峰值出现在2011年，年蒸散量为 $6 0 2 . 8 1 \\ \\mathrm { m m }$ ,2012年参考作物蒸散量最低,年蒸散量仅为 $4 4 7 . 3 ~ \\mathrm { m m }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(2）水稻、玉米和大豆的作物需水量在全生育期内一致呈现先增后减的单峰趋势，水稻分蘗期需水量最大，总计达到 $1 7 7 \\ \\mathrm { m m }$ ,其次为拔节孕穗和乳熟期，分别为 $9 6 ~ \\mathrm { m m }$ 和 $9 5 \\ \\mathrm { m m }$ ，生育初期与末期水稻的需水量最小。玉米需水量在7月份达到最高值，日需水最大值为 $4 . 7 \\ \\mathrm { m m }$ ,七叶期与拔节期玉米需水量最大，分别是 $1 0 0 ~ \\mathrm { { m m } }$ 和 $8 4 ~ \\mathrm { m m }$ ,生育初期与末期玉米的需水最小。大豆在7月与8月日需水量相对较高，8月初期达到日最高需水量，各生育期内大豆需水量在结荚期最大，为 $9 6 ~ \\mathrm { m m }$ ，生育初期和末期大豆的需水量最小。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）作物需水量情况为水稻 $>$ 玉米 $>$ 大豆;水稻、大豆有效降雨量主要集中在中后期，玉米有效降雨量在全生育期分布较为均匀。缺水量：水稻 $>$ 玉米 $>$ 大豆,快速生长期和开花一结实期是作物的快速生长阶段，该阶段充分供水对产量的形成有重要影响。因此建议在快速生长阶段补充灌溉1\\~2次，根据不同作物，每次约 $3 0 \\sim 5 0 ~ \\mathrm { m m }$ ，可缓解该阶段作物的缺水状况，提高农作物产量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（4）参考作物蒸散量受多种气象要素综合影响，三江平原参考作物蒸散量与日照、气温、净辐射的相关性较好，其平均相关系数分别为0.85、0.61、0.89;参考作物蒸散量与相对湿度和降水呈负相关，其平均相关系数分别为-0.73和-0.53。各影响因子按照对三江平原参考作物蒸散量的相关系数大小排序为：净辐射 $>$ 日照 $>$ 相对湿度 $>$ 气温 $>$ 降水$>$ 风速。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "（5）根据通径分析，由直接通径系数结果可知，影响三江平原作物需水量的主要因素为净辐射、气温和日照时数。而由各影响因子的间接通径系数可知，各影响因子之间相互制约、相互影响，共同作用于作物需水量。因而三江平原水稻、玉米和大豆需水量变化受各影响因子共同作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1］曹永强,朱明明,李维佳.河北省典型区主要作物有效降雨量 和需水量特征[J].生态学报，2018,38（2）：560-570.［CAO Yongqiang,ZHU Mingming,LI Weijia.Effective precipitation and water requirements of crops in Hebei Province over 6O years[J]. Acta Ecologica Sinica,2018,38(2）:560-570.] [2] 胡志桥,田霄鸿,张久东,等.石羊河流域主要作物的需水量及 需水规律的研究[J].干旱地区农业研究,2011,29(3)：1-6. [HU Zhiqiao,TIAN Xiaohong,ZHANG Jiudong,et al.Research on amount and low of water requirement in Shiyang River Basin [J].Agricultural Research in the Arid Areas,2011,29（3）:1-   \n6.] [3] WANG K,DICKINSONRE.A review of global terrestrial evapotranspiration:Observation,modeling,climatology,and climatic variability[J].Reviews of Geophysics.2012,50(2). [4] 慕臣英,梁红，纪瑞鹏,等.沈阳春玉米不同生育阶段需水量及 缺水量变化特征[J].干旱气象,2019，37（1)：127-133，[MU Chenying,LIANG Hong,JI Ruipeng,et al. Variation characteristics of spring maize water requirement and water deficit in different growth stages in Shenyang[J]. Journal of Arid Meteorology,2019,   \n37(1):127 -133] [5］邱美娟,郭春明,王冬妮,等.1960—2015年吉林省玉米生长季 有效降水和水分亏缺指数的变化特征［J].干旱地区农业研 究,2018,36（1）:237-243.[QIU Meijuan,GUO Chunming, WANG Dongni,et al.Variation of effective precipitation and water deficit index in maize growing season in Jilin Province during   \n1960—2015[J].Agricultural Research in the Arid Areas,2018,   \n36(1) :237 -243.] [6]MEHTA R,PANDEY V.Reference evapotranspiration ( $\\mathrm { E T _ { 0 } }$ ）and crop water requirement（ETC）of wheat and maize in Gujarat[J]. Journal of Agrometeorology,2015,17(1）:107 -113.   \n[7]KUMAR S. Reference evapotranspiration （ETo）and irrgation water requirement of different crops in Bihar[J]. Journal of Agrometeorology,2017,19(3） :238-241.]   \n[8］杜嘉,张柏,宋开山,等.基于 MODIS 产品和 SEBAL 模型的三 江平原日蒸散量估算[J].中国农业气象,2010,31（1)：104- 110.[DU Jia,ZHANG Bai,SONG Kaishan,et al. Study on daily evapotranspiration estimation of Sanjiang Plain based on MODIS product and SEBAL Model[J]. Chinese Journal of Agrometeorology,2010,31(1) :104 -110.]   \n[9]付强,王志良,梁川.多变量自回归模型在三江平原井灌水稻 需水量预测中的应用[J].水利学报,2002,33（8）：107-112. [FU Qiang,WANG Zhiliang,LIANG Chuan.Application of multivariate auto-regression model to forecast water demand of well irigated paddy[J]. Journal of Hydraulic Engineering,2002,33（8）： 107 -112.]   \n[10］冯飞,姚云军,张彦彬,等.基于 MOD16 产品的三江平原蒸散 量时空分布特征分析[J].生态环境学报.2015,24（11)：1858 -1864.[FENG Fei,YAO Yunjun,ZHANG Yanbin,et al. Spatiotemporal variations of evapotranspiration in Sanjiang Plain using MOD16 products[J].Ecology and Environmental Sciences,2015, 24(11) :1858 -1864.]   \n[11］姚本智.气候变化下作物需水量研究［D].北京：清华大学， 2009.［YAO Benzhi. Study on crop water requirement under climate change[D]. Beijing:Tsinghua University,2009.]   \n[12]贾志军,韩琳,王鸽,等.三江平原典型下垫面 FAO PenmanMonteith 模型适用性分析[J].应用生态学报,2014,25（5）： 1327-1334.[JIA Zhijun,HAN Lin,WANG Ge,et al. Adaptability analysis of FAO Penman-Monteith model over typical underlying surfaces in the Sanjiang Plain,Northeast China[J].Chinese Journal of Applied Ecology，2014,25(5）:1327-1334.]   \n[13]ZHANG YF,DENG JL,GUAN D X,et al. Spatiotemporal changes of potential evapotranspiration in Songnen Plain of Northeast China [J].Chinese Journal of Applied Ecology,2011,22（7）:1702 - 1710.   \n[14]LIU XF,PAN Y Z,ZHANG JS,et al. Spatiotemporal variation patterns of potential evapotranspiration in five provinces of Northwest China in 1960—2011[J].Chinese Journal of Applied Ecology,2013,24(9) :2564 -2570.   \n[15]SULEIMAN A A,HOOGENBOOMG.A comparison of ASCE and FAO -56 reference evapotranspiration for a 15 min time step in humid climate conditions[J].Journal of Hydrology,2009,375 (3):326 -333.   \n[16]SENTELHASPC,GILLESPIETJ,SANTOSEA.Evaluation of FAO Penman-Monteith and alternative methods for estimating reference evapotranspiration with missing data in Southern Ontario, Canada[J].Agricultural Water Management,2010,97（5）:635- 644.   \n[17］杜加强,熊珊珊,刘成程,等.黄河上游地区几种参考作物蒸散 量计算方法的适用性比较[J].干旱区地理,2013,36（5）： 831-840.[DU Jiaqiang,XIONG Shanshan,LIU Chengcheng,et al. Comparison of models for estimating reference crop evapotranspiration in the headwater catchment of the Yellow Riverbasin,China [J].Arid Land Geography,2013,36(5）:831 -840.]   \n[18］高飞,李新虎.塔里木盆地绿洲参考作物蒸散量计算方法比较 [J].干旱区地理,2016,39(1）:130-135.[GAO Fei,LI Xinhu. Comparison of methods for estimating reference evapotranspiration in oasis of Tarim Basin[J].Arid Land Geography,2016,39（1）： 130 -135.]   \n[19]SULEIMAN A A,SOLER C M T,HOOGENBOOM G.Evaluation of FAO -56 crop coefficient procedures for deficit irrigation management of coton in a humid climate[J].Agricultural Water Management,2007,91(1) :33 -42.   \n[20]TONG L,KANG S,ZHANG L.Temporal and spatial variations of evapotranspiration for spring wheat in the Shiyang River Basin in northwest China[J].Agricultural Water Management,2007,87 (3) :241 -250.   \n[21］卓玛兰草,刘普幸,张亚宁,等.甘肃黄土高原区潜在蒸散量时 空变化与成因研究[J].水土保持研究,2012,19（1)：70－75. [ ZHOU Malancao,LIU Puxing,ZHANG Yaning,et al. Study on temporal and spatial changes of the potential evapotranspiration and its impact factors in Loess Plateau of Gansu Province[J].Research of Soil and Water Conservation,2012,19(1):70-75.]   \n[22］侯兰功,肖洪浪,邹松兵,等.黑河流域水循环特征研究［J].水 土保持研究,2010,17（3）:254-258.[HOU Langong,XIAO Hongliang,ZOU Songbing,et al.Studyon the features of water cycle in Heihe River Basin[J].Research of Soil and Water Conservation,2010,17(3):254-258.]   \n[23］曾丽红,宋开山,张柏,等.松嫩平原参考作物蒸散量变化及其 影响因素分析[J].农业系统科学与综合研究,2010,26（1)： 41 -48.[ZENG Lihong,SONG Kaishan,ZHANG Bai,et al.Reference evapotranspiration change and its influencing factors in Songnen Plain[J].System Sciences and Comprehensive Studies in Agriculture,2010,26(1） :41-48.]   \n[24]VU S H,WATANABE H,TAKAGI K.Application of FAO -56 for evaluating evapotranspiration in simulation of pollutant runoff from paddy rice field in Japan[J].Agricultural Water Management, 2005,76(3):195-210.   \n[25]SULEIMAN,AYMAN A,HOOGENBOOM,et al.Determining FAO-56 crop coefficients for peanut under different water;stress levels[J]. Irrigation Science,2013,31(2）:169-178.   \n[26]BEZERRA B G,SILVA B B D,BEZERRA JR C,et al. Evapotranspiration and crop coefficient for sprinkler-irrigated cotton crop in Apodi Plateau semiarid lands of Brazil[J].Agricultural Water Management,2011,98（10）:86 -93.   \n[27]SUMNER D M,JACOBS JM.Utility of penman-monteith,priestley-taylor,reference evapotranspiration,and pan evaporation methods to estimate pasture evapotranspiration[J]. Journal of Hydrology,2005,308(1):81-104.   \n[28］张晓琳,熊立华,林琳,等.五种潜在蒸散发公式在汉江流域的 应用[J].干旱区地理,2012,35（2）:229-237.[ZHANG Xiaolin,XIONG Lihua,LINLin,et al.Application of five potential evapotranspiration equations in Hanjiang Basin[J].Arid Land Geography，2012,35(2):229-237.]   \n[29]RICHARD G.Crop evapotranspiration; Guidelines for computing crop water requirements[R].Fao Irrigation & Drainage Paper, 1998 :56.   \n[30]YAO Y,LIANG S,ZHAO S,et al. Validation and aplication of the modified satelite-based priestley-tayloralgorithm for mapping terrestrial evapotranspiration[J].Remote Sensing,2014,6（1）： 880 -904.   \n[31］ALLEN R G.Crop Evapotranspiration-Guidelines for computing crop water requirements[R].Fao Irrigation & Drainage Paper, 1998 :56.   \n[32]YANGF,ZHOUG.Characteristics and modeling ofevapotranspiration over a temperate desert steppe in Inner Mongolia,China[J]. Journal of Hydrology,2011,396(1):139-147.   \n[33]LI S,KANG S,LIF,et al. Evapotranspiration and crop coefficient of spring maize with plastic mulch using eddy covariance in northwest China[J]. Agricultural Water Management,2008,95（11）: 1214 - 1222.   \n[34] ZHANG Q,ZHANG Z,WEN X,et al. Comparisons of observational methods of land surface evapotranspiration and their influence factors[J]. Advances in Earth Science,2011,26(5）:538 -547.   \n[35]TYAGI N K,SHARMA D K,LUTHRA S K. Determination of evapotranspiration and crop coefficients of rice and sunflower with lysimeter[J].Agricultural Water Management,2000,45(1):41-54.   \n[36］冯禹，崔宁博,魏新平,等.川中丘陵区参考作物蒸散量时空变 化特征与成因分析[J].农业工程学报,2014,30（14）：78－86. [FENG Yu,CUI Ningbo,WEI Xinping,et al.Temporal-spatial distributio charactersticsandcauses analysisofreference crop evapotranspiration in hilly area of central Sichuan[J]．Transactions of the Chinese Society of Agricultural Engineering,2014,30（14）： 78-86.]   \n[37］刘小刚,符娜,李闯,等.河南省主粮作物需水量变化趋势与成 因分析[J]．农业机械学报,2015,46(9)：188-197.[LIU Xiaogang,FU Na,LI Chuang,et al. Trends and causes analysis of water requirement for main grain crops in Henan Province[J].Transactions of the Chinese Society for Agricultural Machinery,2015,46 (9) :188 -197.]   \n[38］蔡甲冰,刘钰,许迪,等.基于通径分析原理的冬小麦缺水诊断 指标敏感性分析[J].水利学报,2008,39（1）:83-90.［CAI Jiabing,LIU Yu,XUDi,etal.Sensitivity analysis on water deficit indicator of winter wheat based on path analysis theory[J]. Journal of Hydraulic Engineering,2008,39（1）:83-90.]   \n[39］罗新兰,安娟,刘新安,等.东北三省玉米生育热量指标与品种 熟型分布研究［J].沈阳农业大学学报,2000,31（4）：318- 323.[LUO Xinlan,AN Juan,LIU Xin'an,et al.Heat index of maize growth and development,and distributionof varietytypes [J].Jounal of Shenyang Agricultural University,20o,31（4）： 318 -323.]   \n[40］刘钰,谭军利,李王成,等.吉林四平地区玉米和大豆灌溉需水 量分析[J].南水北调与水利科技,2015,13(6)：1225－1228. [LIU Yu,TANJunli,LI Wangcheng,etal.Analysisofiigation water requirement for maize andsoybean in Siping region of Jilin Province[J]．South-to-North Water Transfers and Water Science & Technology,2015,13(6):1225-1228.]   \n[41］陈军武,吴锦奎.气候变化对黑河流域典型作物灌溉需水量的 影响[J].灌溉排水学报,2010,29（3）:69-73.[CHEN Junwu, WU Jinkui.Impactofclimatechangeon irigation waterrequirement of typical crops in arid irrigation areas in China[J]. Journal of Irrigation and Drainage,2010,29(3）:69-73.]   \n[42］孙爱华,朱士江,张忠学.三江平原水稻水分生态效益试验研 究[J].灌溉排水学报,2010,29（3）:109-111.[SUN Aihua, ZHU Shijiang,ZHANG Zhouxue.Comparison of experiments on some rice irrigation methods in Sanjiang Plain[J]．Journal of Irigation and Drainage,2010,29(3）:109 -11.]   \n[43］杨晓娟,刘园,白薇,等.黑龙江省大豆作物系数的确定[J].干 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "旱地区农业研究,2014,32(6）:53-56.［YANG Xiaojuan,LIU Yuan,BAI Wei,et al.Estimation of crop coeficients for soybean in Heilongjiang province[J].Agricultural Research in the Arid Areas,2014,32(6):53-56.] ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[44］尹海霞，张勃，王亚敏，等.黑河流域中游地区近43年来农作物需水量的变化趋势分析[J].资源科学，2012，34（3）：409-417.[YIN Haixia,ZHANG Bo,WANG Yamin,et al.Research onthe change trend of crop water requirement in the middle reaches ofHeihe River Basin in the recent 43 years[J].Resources Science,2012,34(3):409-417.]",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Water requirement characteristics and influencing factors of main crops in the Sanjiang Plain from 20oo to 2015 ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REN Xiu-lin’，LI Hong-liang²， ZHANG Yu-hu’，PU Xiao'， ZHANG Li-lin³ (1College of Resources Environment and Tourism,Capital Normal University,Beijing 1Oo048,China; 2Guangxi Water and Pouer Design Institute,Nanning 530023,Guangxi,China；3School of Resources,Departmentof Geographic Sciences,Beijing Normal University,Beijing1Oo875,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The study of crop water demand duringthe whole growing period is an important basis for rational irrigationandoptimal allocationof water resources.The Sanjiang Plain isanimportant grain production base in Heilongjiang Province,China,whichhasalotof waterfor agricultural irigation.Therefore,it isurgent tocarryoutaquantitativeand fineresearchon waterdemandoffarmlandcropssoas toprovideascientificbasis for improving irigation effciency.Basedon the daily data from 22 meteorological stationsand China'sregional surface meteorological factor datasetsduring from2OOO to2O15,thePenman-Monteith model,providedbythe internationalfoodandagricultureorganization（FAO）,andthe segmented single-value average crop coeffcient method were used to estimate the daily crop water demand and net irigation water demand in the growing seasons （from Mayto September）of rice,corn and soybean crops inthe Sanjiang Plain,and to analyze the change rulesof the water demand of main crops inthe Sanjiang Plain.The path analysis method was then used to study the change causes of the water demand of main crops. Theresults showed as folows:（1）The average annual reference crop evapotranspiration inthe Sanjiang Plain in the 16 years period was $5 3 7 . 4 \\ \\mathrm { m m }$ ,and the average daily was $3 . 5 ~ \\mathrm { m m }$ ,showing a fluctuation reduction trend,and the fluctuation range was $4 4 7 . 3 - 6 0 2 . 8 ~ \\mathrm { m m }$ . （2）The water demand of rice,corn and soybean during the whole growing periodshowed a single-peak trend of increasing first and decreasing later.The water demand ofriceat tilering stage was the largest with the amount being $1 7 7 . 1 \\ \\mathrm { m m }$ .The water demand of corn at seven-leaf stage was the largest with the amount being $9 9 . 7 ~ \\mathrm { m m }$ . The water demand of soybean at pod bearing stage was the largest with the amount being 96.1 mm.（3）For rich andsoybean,the effective rainfallmainly happened in the middleand late stages of their growth; whilefor maize,the efective rainfall was evenly distributed inthe whole growth period.Thenet irrigation waterrequirements of rice,corn and soybean are respectively $1 9 5 . 4 \\ \\mathrm { m m } , 1 3 0 . 8 \\ \\mathrm { m m }$ and $7 2 . 2 \\ \\mathrm { m m }$ ,and the degree of dependence on irrigation for the three crops formed a descending order as rice $> \\mathrm { c o r n } >$ soybean.（4） Reference crop evapotranspiration isinfluenced byvarious meteorological elements,and itscorelation withsunshinehours,airtemperature and netradiation isbetter,and itsmean correlationcoeffcientsareO.85,O.61andO.89respectively;thereference crop evapotranspiration was negatively corelated with relative humidityand precipitation,and theaveragecorrelation coeffcients were-0.73and-0.53,respectively.（5)According topathanalysis,thedirect path coefficientresults showthat the main factors affcting crop water demand in the Sanjiang Plain are net radiation,air temperature and sunshine hours.Itcan be seen fromthe indirect path coefficientof the influence factors that the influence factors restrict and influence eachother,so the changeof waterdemand of rice,comnand soybean inthe Sanjiang Plain isaffected bythe combinations of the influence factors.This study provides along time series analysis of dailycrop water demand characteristics inthe Sanjiang Plain,aiming to provide areference for rational irigation of crops in the Sanjiang Plain in order to realize optimal allocation and eficient utilization of water resources. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words：Sanjiang Plain；crop water requirement；net irrigation water requirement；Penman-Monteith model; path analysis ",
+        "page_idx": 12
+    }
+]

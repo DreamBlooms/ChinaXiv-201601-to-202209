@@ -1,0 +1,200 @@
+凝结芽孢杆菌微生态制剂对北京油鸡产蛋鸡抗脂质过氧化能力的影响李嘉懿」郭茜」张红星」谢远红 $^ 1$ 刘慧1\*连正兴²（1.北京农学院食品科学与工程学院，微生态制剂关键技术开发北京市工程实验室，食品质量与安全北京实验室，北京102206；2.中国农业大学动物科技学院，北京 100094)
+
+摘要：本试验旨在研究凝结芽孢杆菌（Bacilluscoagulans）微生态制剂对北京油鸡产蛋鸡抗脂质过氧化能力的影响。利用从传统干酪中筛选出产中性蛋白酶能力较强的凝结芽孢杆菌Liu-gl 菌株，经发酵制备微生态制剂。将120 只健康的14 周龄北京产蛋油鸡随机分为4个组，每组3个重复，每个重复10只。空白对照组饲喂基础饲粮，试验组分别饲喂在基础饲粮中添加10、100、 $1 0 0 0 \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1的试验饲粮。试验期10 周。测定血清甘油三酯含量、抗氧化指标，屠宰后测定肝脏粗脂肪含量，并观察肝脏组织切片。结果表明，与空白对照组相比， $1 0 , \ 1 0 0 , \ 1 \ 0 0 0 \ \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1组的血清甘油三酯含量均显著下降 ( $_ { \cdot P < 0 . 0 5 ) }$ ，肝脏粗脂肪含量均极显著降低（ $_ { \cdot } P { < } 0 . 0 1$ )。肝脏组织油红O染色切片结果显示，随凝结芽孢杆菌Liu-gl添加水平的增加，肝脏脂肪滴数量明显减少，其中 $1 0 0 \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1组效果最好。10 $\mathrm { . 1 0 0 m g / k g }$ 凝结芽孢杆菌Liu-g1组血清总抗氧化能力显著高于空白对照组（ $\scriptstyle \cdot < 0 . 0 5 .$ ），10、100、 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 凝结芽孢杆菌Liu-gl 组血清谷胱甘肽过氧化物酶活性均显著高于空白对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，且血清超氧化物歧化酶活性和丙二醛含量分别有一定程度的提高和降低（ $_ { . P > 0 . 0 5 ) }$ 。由此可见，饲粮中添加凝结芽孢杆菌Liu-gl可以明显减少产蛋鸡脂肪堆积，抑制脂肪肝的形成，并具有较好的抗脂质过氧化能力，适宜添加水平为 $1 0 0 \mathrm { m g / k g }$ 。
+
+关键词：凝结芽孢杆菌；北京油鸡；脂肪肝；脂质过氧化
+
+# 中图分类号：S831.5
+
+脂肪肝综合征（fattyliver syndrome，FLS）是由于肝脏内脂肪异常堆积代谢紊乱引起的一种代谢性疾病，常见于产蛋高峰期和后期蛋鸡[1-3]。Couch[4]于1954年首次在美国西南部的产蛋鸡上首次发现FLS。FLS 主要发生于笼养产蛋鸡，会导致产蛋鸡产蛋率明显下降，死亡率升高，给养殖业带来极大的经济损失[5]。生产实践中发现，多数由于FLS死亡的母鸡，主要原因是肝脏脂肪积累过多，肝脏破裂导致出血和死亡。多数母鸡产蛋后或产蛋率达不到高峰时才被发现患有FLS，因此饲养过程中可以微生态制剂预防为主，以提高母鸡的抗氧化能力[6]。徐鹏[7]研究发现，地衣芽孢杆菌 TS-01可以预防产蛋鸡FLS 的发生；Pan 等[8]研究发现，饲粮中添加益生菌可以增加产蛋鸡血清谷胱甘肽过氧化物酶(glutathioneperoxidase,GSH-Px)的活性。目前有关凝结芽孢杆菌(Bacillus coagulans)对北京产蛋油鸡 FLS的预防及其抗脂质过氧化能力的研究尚未见国内外报道。因此，本文以北京油鸡为试验对象，通过在基础饲粮中添加冻干菌粉形式的凝结芽孢杆菌Liu-g1，研究其对产蛋鸡脂质过氧化特征指标丙二醛(malondialdehyde,MDA)含量和抗脂质过氧化特征指标及血清甘油三酯(triglycerides,TG)含量的影响，并通过观察肝脏组织切片油红O染色和测定肝脏粗脂肪含量，研究凝结芽孢杆菌Liu-g1对FLS 的预防作用和抗氧化活性，旨在为开发具有抗氧化能力的凝结芽孢杆菌Liu-g1微生态制剂提供科学的理论依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+# 1.1.1 试验菌株
+
+凝结芽孢杆菌Liu-g1，筛选于传统干酪，经本课题组前期试验研究鉴定为产中性蛋白酶的菌株[9]。
+
+# 1.1.2 微生态制剂
+
+于优化发酵条件下对凝结芽孢杆菌Liu-g1进行发酵，经离心浓缩和真空冷冻干燥，得
+
+到活菌数为 $7 . 3 5 \times 1 0 ^ { 1 0 } \mathrm { C F U / g }$ 的冻干菌粉活菌制剂微生态制剂。
+
+# 1.1.3 培养基
+
+发酵培养基[9]：大豆粕 $1 . 0 \%$ 、玉米淀粉 $4 . 0 \%$ 、碳酸钙 $0 . 6 \%$ 。平板计数琼脂（PCA）培养基：胰蛋白陈 $5 . 0 \ \mathrm { g }$ ，酵母浸粉 $2 . 5 \ \mathrm { g }$ ，葡萄糖 $1 . 0 \ \mathrm { g }$ ，琼脂17.0g，蒸馏水 $1 0 0 0 \mathrm { m L }$ ， $\mathrm { p H } 7 . 0$ 。
+
+# 1.1.4 仪器与设备
+
+BT2202S电子天平(Electronic Balance，Sartorius 公司，德国)、真空冷冻干燥机(VacuumFreeze Dryer，Labconco 公司，美国)、TGL-20M型高速台式冷冻离心机(High SpeedRefrigerated Centrifuge，上海卢湘仪离心机仪器有限公司）、202-001电热恒温干燥箱(Electrothermal Constant-Temperature Dry Box，北京科伟永兴仪器有限公司)。
+
+# 1.2 试验设计与饲粮
+
+选择120只体重差异不显著（ $\cdot  { P } { > } 0 . 0 5 )$ 、健康的14周龄北京油鸡产蛋鸡，随机分为空白对照组、低剂量组、中剂量组和高剂量组4个组，每组3个重复，每个重复10只。空白对照组饲喂基础饲粮，试验组（低剂量组、中剂量组、高剂量组）分别饲喂在基础饲粮中添加10、100、 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 凝结芽孢杆菌Liu-g1的试验饲粮，使各试验组摄入活菌数量分别为 $1 0 ^ { 8 }$ 、 $1 0 ^ { 9 }$ 、 $1 0 ^ { 1 0 }$ CFU/kg。基础饲粮配制参考NRC（1994）标准，其组成及营养水平如表1所示。凝结芽孢杆菌Liu-g1微生态制剂由本实验室自制。试验用北京油鸡由北京市农林科学院畜牧兽医研究所提供，采用3层阶梯式笼养鸡舍，光照时间 $1 6 \mathrm { h }$ ，饲养温度 $2 0 { \sim } 2 3 \ \mathrm { ~ \textdegree ~ }$ ，人工喂料捡蛋，自由采食和采水，并按常规程序免疫。
+
+# 表1基础饲粮组成及营养水平(风干基础)
+
+Table 1 Composition and nutrient levels of basal diets (air-dry basis)   
+
+<html><body><table><tr><td>项目 含量Content</td></tr><tr><td>Items 14~18 周龄 14 to 18 weeks of age 19~24 周龄 19 to 24 weeks of age</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">原料Ingredients</td></tr><tr><td>玉米Com</td><td>61.03</td><td>64.23</td></tr><tr><td>豆粕 Soybean meal</td><td>30.80</td><td>27.80</td></tr><tr><td>鱼粉 Fish meal</td><td>1.50</td><td>1.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.40</td><td>1.40</td></tr><tr><td>石粉 Limestone</td><td>1.40</td><td>1.40</td></tr><tr><td>豆油 Soybean oil</td><td>2.50</td><td>2.80</td></tr><tr><td>食盐 NaCl</td><td>0.37</td><td>0.37</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.40</td><td>13.62</td></tr><tr><td>粗蛋白质CP</td><td>19.00</td><td>17.50</td></tr><tr><td>钙Ca</td><td>0.90</td><td>0.90</td></tr><tr><td>有效磷 AP</td><td>0.35</td><td>0.35</td></tr><tr><td>赖氨酸Lys</td><td>0.85</td><td>0.80</td></tr><tr><td>蛋氨酸Met</td><td>0.40</td><td>0.36</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.65</td><td>0.63</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per kg of diets：VA 9 500 IU， $\mathrm { V B } _ { 1 } 1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 9 . 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 \ : \mathrm { m g }$ ，VD3 2 375 IU，VE19 IU，VK3 1.40 mg，生物素 biotin $0 . 9 5 \mathrm { m g }$ ，叶酸 folic acid $0 . 9 3 \mathrm { m g }$ ， $D _ { \mathbf { \alpha } }$ 泛酸钙 $D$ -pantothenic acid $9 . 3 ~ \mathrm { m g }$ Cu (as copper sulfate) $1 5 ~ \mathrm { m g }$ ，Fe (as ferrous sulfate) $6 0 ~ \mathrm { m g }$ ， Mn (as manganese sulfate) $1 0 0 ~ \mathrm { { m g } }$ Zn (as zinc sulfate) $7 0 \mathrm { m g }$ ， I(as potassium iodide) $0 . 5 0 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 5 9 \mathrm { m g }$ 。
+
+2)营养水平均为计算值。Nutrient levels were calculated values.
+
+# 1.3样品采集与指标测定
+
+# 1.3.1 样品采集
+
+血清采集：试验第10周，每组按重复取10只鸡用无菌注射器翅下静脉采血，每只采血$2 { \sim } 3 ~ \mathrm { m L }$ ，37℃凝血约2h之后取出血清于 $2 \mathrm { m L }$ 离心管中，于 $4 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清液， $- 2 0 \mathrm { ~ \textdegree ~ }$ 冷冻保存备用。
+
+肝脏组织：试验第10周，每组按重复随机宰杀5只油鸡，摘取肝脏并剪取 $1 . 5 \mathrm { c m } { \times } 1 . 5$ $\mathrm { c m } { \times } 1 . 5 \mathrm { c m }$ 大小的肝脏分组浸泡于 $4 \%$ 多聚甲醛溶液中固定备用。
+
+# 1.3.2 测定方法及指标
+
+1.3.2.1肝脏组织显微镜观察肝脏组织油红O染色切片，显微镜下观察。
+
+# 1.3.2.2 肝脏组织粗脂肪含量测定
+
+取各组新鲜肝脏，分别冷冻干燥 $4 8 \mathrm { h }$ ，经过40目筛，称取 $2 . 0 0 { \sim } 5 . 0 0 ~ \mathrm { g }$ ，全部移入滤纸筒内，依据GB/T 5009.6-003《食品中脂肪的测定》的方法[10测定肝脏粗脂肪含量。
+
+# 1.3.2.3 血清抗氧化指标测定
+
+取1.3.1步骤冷冻的血清样品，送至北京中同蓝博临床检验所有限公司测定甘油三酯含量、总抗氧化能力(total antioxidant capacity,T-AOC)、超氧化物歧化酶(superoxidedismutase,SOD)活性、GSH- $\mathbf { \cdot P x }$ 活性、MDA含量。
+
+# 1.4数据统计分析
+
+试验数据用 SPSS22.0统计软件进行单因素方差分析，Duncan氏法多重比较检验。试验数据用平均值 $\cdot \pm$ 标准差表示， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2结果与分析
+
+2.1凝结芽孢杆菌Liu-g1对产蛋鸡血清甘油三酯含量的影响
+
+由图1可见，与空白对照组相比，10、100、 $1 0 0 0 \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1组的血清甘油三酯含量均显著下降 $( P { < } 0 . 0 5 )$ ，分别降低了 $1 8 . 9 1 \%$ 、 $5 7 . 5 5 \%$ 、 $56 . 0 5 \%$ 。100、1 000 mg/kg凝结芽孢杆菌Liu-g1 组血清甘油三酯含量显著低于 $1 0 ~ \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-gl 组1 $_ { , P < 0 . 0 5 ) }$ ，且 $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-g1组血清甘油三酯含量最低。
+
+![](images/b2fa024640efb084e1f80228474b8f118c8d38a6d6c6fe74ba4a09c1b21523f2.jpg)
+
+数据柱形标注不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ $_ { . P < 0 . 0 1 }$ )。图3同。
+
+Value columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letters mean significant difference $( P { < } 0 . 0 1 )$ ). The same as Fig.3。
+
+图1凝结芽孢杆菌Liu-g1对产蛋鸡血清甘油三酯含量的影响
+
+Fig.1 Effects of Bacillus coagulans Liu-gl on serum triglyceride content of laying hens $( n { = } 1 0 )$
+
+# 2.2 肝脏组织油红O染色切片
+
+经油红O染色后，肝脏细胞内脂肪滴呈红色，细胞核呈蓝色。由图2可见，空白对照组肝脏切片明显有大量的红色脂肪滴，而试验组肝脏组织切片中红色脂肪滴数量均明显少于空白对照组， $1 0 0 \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1组几乎没有。这说明饲粮添加 $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-gl 组效果最好。
+
+A：空白对照组；B： $1 0 \mathrm { m g / k g }$ 凝结芽孢杆菌组；C： $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌组；D：1000
+
+$\mathrm { m g / k g }$ 凝结芽孢杆菌组。
+
+A: blank control group; B: $1 0 \mathrm { m g / k g }$ Bacillus coagulans Liu-gl group; C $1 0 0 \mathrm { m g / k g }$ Bacillus coagulans Liu-gl group; D: $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ Bacillus coagulans Liu-gl group.
+
+![](images/b5749445bf9e6926ce3aa7408452258d85a1e7a98aee8b9fff78e180e647fc5e.jpg)  
+图2肝脏组织油红O染色切片  
+Fig.2Liver tissue sections with oil red O staining $( 4 0 0 \times )$ （204号
+
+2.3凝结芽孢杆菌Liu-g1对产蛋鸡肝脏粗脂肪含量的影响
+
+由图3可见，与空白对照组相比，10、100、 $1 0 0 0 \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1组蛋鸡肝脏粗脂肪含量均极显著降低（ $_ { . } { P } { < } 0 . 0 1$ )，分别降低了 $56 . 4 5 \%$ 、 $70 . 9 1 \%$ 、 $6 6 . 7 8 \%$ 。 $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-g1组肝脏粗脂肪含量极显著低于 $1 0 ~ \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-gl 组（ $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ )，降低了 $3 3 . 2 0 \%$ 。这进一步验证了未饲喂凝结芽孢杆菌Liu-g1时肝脏可能有脂肪堆积现象，而试验组结果表明凝结芽孢杆菌Liu-gl可以显著改善这一现象，具有较强抑制脂肪肝的作用。其中， $1 0 0 \mathrm { m g / k g }$ 凝结芽孢杆菌Liu-g1组效果最好。该结果与图2中肝脏组织油红O染色切片结果一致。
+
+![](images/762601325716652795bd5973b961008c97f59331c351617e86626d930e6f9ca8.jpg)  
+图3凝结芽孢杆菌Liu-g1对产蛋鸡肝脏粗脂肪含量的影响  
+Fig.3Effects of Bacillus coagulans Liu-gl on liver fat content of laying hens $( n { = } 5 )$ 号
+
+2.4凝结芽孢杆菌Liu-g1对产蛋鸡血清抗氧化指标的影响
+
+由表2可知，与空白对照组相比，10、 $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-g1 组的血清T-AOC分别显著提高了 $1 9 . 8 1 \%$ 、 $2 9 . 6 2 \%$ ( $\scriptstyle P < 0 . 0 5 .$ ）；10、100、 $1 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-g1 组的血清 GSH-Px 活性分别显著提高了 $3 9 . 1 5 \%$ ， $4 8 . 1 5 \%$ 、 $4 0 . 2 1 \%$ （ $P { < } 0 . 0 5$ ; 10、100、1000 mg/kg凝结芽孢杆菌Liu-g1组血清 SOD 活性均有一定程度的提高（ $. P { > } 0 . 0 5 \$ )，分别提高了 $1 . 3 8 \%$ ，$6 . 6 4 \%$ 、 $1 0 . 4 5 \%$ ；10、100、 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 凝结芽孢杆菌Liu-g1组的血清MDA含量均有一定程度的降低（ $\cdot P { > } 0 . 0 5 \$ )，分别降低了 $1 3 . 5 8 \%$ 、 $20 . 7 9 \%$ 、 $1 9 . 6 4 \%$ 。这说明凝结芽孢杆菌Liu-gl具有较好的脂质抗氧化能力。其中， $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-gl 组效果最佳。
+
+表2凝结芽孢杆菌Liu-g1对产蛋鸡血清抗氧化指标影响
+
+Table 2Effects of Bacillus coagulans Liu-gl on serum antioxidant indices of laying hens $\scriptstyle ( n = 1 0 )$   
+
+<html><body><table><tr><td></td><td colspan="4">凝结芽孢杆菌Liu-g1添加水平</td><td></td></tr><tr><td>项目</td><td colspan="4">Bacillus coagulans Liu-gl supplemental level/(mg/kg)</td><td>P值</td></tr><tr><td>Items</td><td>0</td><td>10</td><td>100</td><td>1000</td><td>P-value</td></tr><tr><td>总抗氧化能力</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>T-AOC/(U/mL)</td><td>5.03±0.43c</td><td>6.03±0.62ab</td><td>6.52±1.07a</td><td>5.50±0.88bc</td><td>0.001 5</td></tr></table></body></html>
+
+<html><body><table><tr><td>超氧化物歧化酶</td><td>89.31±9.27</td><td>90.54±9.86</td><td>98.64±8.85</td><td>95.24±9.74</td><td>0.1371</td></tr><tr><td>SOD/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷胱甘肽过氧化物酶</td><td>226.80±13.68b</td><td>315.60±22.69a</td><td>336.00±14.70a</td><td>318.00±24.49a</td><td><0.001 0</td></tr><tr><td>GSH-Px/(U/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛 MDA/(mmol/mL)</td><td>4.06±1.24</td><td>3.51±1.03</td><td>3.21±0.59</td><td>3.26±0.74</td><td>0.354 7</td></tr></table></body></html>
+
+同行数据肩标相同字母或无字母表示差异不显著！ $( P { > } 0 . 0 5 )$ ，肩标不同小写字母表示差异显著( $\scriptstyle P < 0 . 0 5 )$ 。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference ${ \mathit { P } } { > } 0 . 0 5 { \ ' }$ ,while with different small letter superscripts mean significant difference ( $P$ $< 0 . 0 5 )$ ：
+
+# 3讨论
+
+3.1凝结芽孢杆菌Liu-g1对产蛋鸡血清甘油三酯和肝脏粗脂肪含量的影响
+
+甘油三酯是脂肪酸和甘油合成的脂肪分子[I]。血液中高水平的甘油三酯与动脉粥样硬化和心脏病有关[12-15]，同时也是引发脂肪肝的可能原因。蛋鸡脂肪合成主要在肝脏中进行[16]。研究表明，肝脏脂质合成和分泌之间的平衡是调节蛋鸡肝脏内脂肪沉积的关键[17]。产蛋前期，肝脏大量合成脂肪以满足蛋黄沉积脂质的需要，当合成脂肪的速度大于向外转运的速度时，过量的脂肪就会沉积到肝脏中，最后导致肝脏脂质代谢紊乱，严重者导致肝内出血而死亡[1]。若血清甘油三酯含量高，可导致肝脏摄入的游离脂肪酸(free fatty acid,FFA)过多，促使肝脏合成甘油三酯过多，进而可能导致肝脏脂质代谢紊乱和脂肪肝的形成[18]。曹友德等[19]研究了高脂血症、FFA和脂肪肝的相关性发现，高甘油三酯组高脂血症、脂肪肝发病率和 FFA含量均显著高于正常血脂组，且脂肪肝组甘油三酯、FFA含量显著高于非脂肪肝组，因此甘油三酯含量高可能导致脂肪肝的形成。本试验选取北京油鸡产蛋鸡为研究对象，检测产蛋鸡血清甘油三酯的含量，结果发现未饲喂凝结芽孢杆菌Liu-g1的空白对照组血清甘油三酯含量偏高，有可能形成脂肪肝；而试验组血清甘油三酯含量显著降低，说明该菌有可能抑制脂肪肝形成，但需要进一步通过测定肝脏脂肪含量和血清抗氧化指标，证明凝结芽孢杆菌
+
+Liu-gl具有预防脂肪肝的作用和抗氧化活性。由图2和图3可知，进一步通过测定肝脏粗脂肪含量和观察肝脏组织油红O染色切片，发现未饲喂凝结芽孢杆菌Liu-gl的空白对照组产蛋鸡肝脏组织中粗脂肪含量偏高，且油红O染色切片脂肪滴数量最多，且随着饲粮凝结芽孢杆菌Liu-g1添加水平的增加，肝脏组织中粗脂肪含量降低，同时油红O染色脂肪堆积现象明显减少。这说明凝结芽孢杆菌Liu-g1能调节肝脏脂质合成和分泌之间的平衡，显著改善肝脏脂肪堆积，有效抑制蛋鸡脂肪肝的形成。其抑制机理可能与凝结芽孢杆菌Liu-gl 具有脂质抗氧化活性有关。
+
+# 3.2凝结芽孢杆菌Liu-g1对产蛋鸡血清抗氧化指标的影响
+
+Day 等[20]提出脂肪肝发病机制"二次打击"假说。该假说认为第一次打击即肝脏脂肪变性，第二次打击则是由氧化应激引发的脂质过氧化。研究表明，脂肪肝的形成与体内抗氧化系统损伤及脂质过氧化有关[2I]。机体在能量代谢过程中发生氧化还原反应所产生的电子传递过程中，氧不可避免的会发生不完全还原反应而产生活性氧(reactive oxygen species,ROS)[22]。ROS 可能会引发脂质过氧化，破坏DNA链，损伤生物膜和组织等[23]。正常情况下，机体可以通过抗氧化防御系统来保护自身免受ROS 带来的伤害。其中，SOD 和GSH-Px是机体抗氧化系统中重要的2种酶。SOD 能有效将超氧阴离子转化为过氧化氢，然后通过GSH-Px降解成水[24-25]。抗氧化系统不能消除的过量ROS 会攻击生物膜的不饱和脂肪酸，并引发脂质过氧化而产生氧化应激的标志性产物——MDA[26]。T-AOC 表示清除机体过剩的ROS 而使其在细胞内保持一定水平，其水平高低代表了机体的抗氧化能力[27]。
+
+本试验研究表明，与空白对照组相比， $1 0 0 ~ \mathrm { { m g / k g } }$ 凝结芽孢杆菌Liu-g1组蛋鸡血清T-AOC显著提高，3个试验组血清GSH-Px 活性均显著提高，血清 SOD 活性和 MDA含量分别有一定程度的提高和降低。宫秀燕等[28]研究发现，凝结芽孢杆菌显著提高了肉鸡血清T-AOC，极显著提高了血清 SOD 活性，显著降低了血清 MDA 含量，并且显著提高了血清GSH-Px活性，这与本试验结果相似。Kodali 等[29-30]从凝结芽孢杆菌 RK-02 发酵液中提取到了具有明显清除自由基和抗氧化活性的胞外多糖(exopolysaccharide,EPS)；袁建锋等[31]筛选到1株芽孢杆菌，发现其产生的EPS 具有强抗氧化活性，并且对脂质过氧化有抑制作用；梅秀明等[32]研究表明，乳酸菌 EPS 能极显著提高血清 SOD 活性，极显著降低血清 MDA含量，说明 EPS 能够增强机体抗氧化能力；李景艳[33]体外试验表明，EPS 能显著提高血清 T-AOC、SOD 活性，显著降低血清MDA含量，能清除自由基，增强抗氧化能力。本研究凝结芽孢杆菌Liu-g1提高蛋鸡脂质抗氧化能力是否由产生的EPS 的作用，有待后期试验研究。
+
+# 4结论
+
+饲粮添加10、100、 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 凝结芽孢杆菌Liu-g1 能降低蛋鸡血清甘油三酯含量，肝脏粗脂肪含量，并提高血清 T-AOC、GSH-Px、SOD 活性，降低血清 MDA 含量；综合考虑，凝结芽孢杆菌Liu-g1添加水平为 $1 0 0 \mathrm { m g / k g }$ 时效果最好。参考文献：
+
+[1] DIMITROV A,ANTONOV S,STOIANOV P,et al.Fatty liver syndrome in layinghens[J].Veterinarno-Meditsinski Nauki,1980,17(1):81-89.  
+[2] 赵芹.吡咯喹啉醌钠(PQQ.Na2)对蛋鸡脂肪肝的调控作用[D].硕士学位论文.北京:中国农业科学院,2014:5-6.  
+[3] 刘振.饲粮类型对鸡脂肪肝形成的影响及表观调控机制[D].硕士学位论文.北京:中国农业科学院,2016:13-14.  
+[4] COUCH J R.Fatty livers in laying hens—a condition which may occur as a result ofincreased strain[J].Feedstuffs,1956,28(47):46-51.  
+[5] 陈炳华.蛋鸡脂肪肝综合症的研究进展[J].畜牧兽医科技信息,2010(8):23-24.  
+[6] 李忠.鸡脂肪肝综合征的防治[J].畜牧兽医科技信息,2013(2):107-108.  
+[7] 徐鹏.地衣芽孢杆菌TS-01对蛋鸡脂肪肝出血综合征预防作用的研究[D].硕士学位论文.北京：中国农业科学院,2012:18-20.
+
+[8] PAN C L,ZHAO Y X,F LIAO S F,et al.Effect of selenium-enriched probiotics on laying performance,egg quality,egg selenium content,and egg glutathione peroxidase activity[J].Journal of Agricultural and Food Chemistry,2011,59(21):11424-11431.
+
+[9] 郭茜,张红星,谢远红,等.一种产中性蛋白酶的凝结芽孢杆菌Liu-g1活菌制剂的制备方法 [J].中国农学通报,2015,31(35):97-103.   
+[10] 卫生部食品卫生监督检验所.GB/T 5009.6-2003 食品中脂肪的测定[S].北京:中国标准出 版社,2003:3-4.   
+[11] LISTED N.The nomenclature of lipids[J].Biochemistry,1967,6(10):3287-3292.   
+[12] WONG V W S,WONG G L H,YIP G W K,et al.Coronary artery disease and cardiovascular outcomes in patients with non-alcoholic fatty liver disease[J].Gut,2011,60(12):1721-1727.   
+[13] DI SESSA A,UMANO G R,DEL GIUDICE E M,et al.From the liver to the heart:cardiac dysfunction in obese children with non-alcoholic fatty liver disease[J].World Journal Hepatology,2017,9(2):69-73.   
+[14] LEON A A,JAMES F L,JENNY S S,et al.The natural history of nonalcoholic fatty liver disease:a population-based cohort study[J].Gastroenterology,2005,129(1):113-121.   
+[15] YOUNOSSI Z M,GRAMLICH T,MATTEONI C A,et al.Nonalcoholic fatty liver disease in patients with type 2 diabetes[J].Clinical Gastroenterology and Hepatology,2004,2(3):262-265.   
+[16] JACK P.Some differences between avian and mammaeian biochemistry[J].International Journal of Biochemistry,1977,8(4):269-275.   
+[17] AGIM S.Fatty liver haemorrhagic syndrome in laying hens:field and Experimental Investigations[D].Ph.D.Thesis.Queensland:The University of Queensland,2014:2-6.   
+[18] FABBRINIE,SULLIVANS,KLEINS.Obesityandnonalcoholic fatty liver
+
+disease:biochemical,metabolic,and clinical implications[J].Hepatology,2010,51(2):679-689.
+
+[19] 曹友德,李桂生,李朝晖.高脂血症和游离脂肪酸与脂肪肝的相关性调查[J].中国现代医学杂志,2007,17(4):461-463.
+
+[20] DAY C P,JAMES 0 F W.Steatohepatitis:a tale of two "hits"?[J].Gastroenterology,1998,114(4):842-845.
+
+[21] 吴强.肉鸡脂肪肝综合征发病机理探讨及"禽肝泰"的治疗机理与效果研究[D].硕士学位论文.雅安:四川农业大学,2006:1-3.
+
+[22] LYKKESFELDT J,SVENDSEN O.Oxidants and antioxidants in disease:oxidative stress in farm animals[J].The Veterinary Journal,2007,173(3):502-511.
+
+[23] LI S,TAN H Y,WANG N,et al.The role of oxidative stress and antioxidants in liver diseases[J].International Journal of Molecular Sciences,2015,16(11):26087-26124.
+
+[24] COKAL B G,YURTDA\$ M,GULER S K,et al.Serum glutathione peroxidase,xanthine oxidase,and superoxide dismutase activities and malondialdehyde levels in patients with Parkinson's disease[J].Neurological Sciences,2017,38(3):425-431.
+
+[25] LI J M,SHAH A M.Endothelial cell superoxide generation:regulation and relevance for cardiovascular pathophysiology[J].American Journal of Physiol0gy,2004,56(5):R1014-R1030.
+
+[26] NIEDERNHOFER L J,DANIELS J S,ROUZER C A,et al.Malondialdehyde,a product of lipid peroxidation,is mutagenic in human cells[J].Journal of Biological Chemistry,2003,278(33):31426-31433.
+
+[27] MANAFIKHIA H,DRUMMENB G,PALMERYA M,et al.Total antioxidant capacity in beta-thalassemia:a systematic review and meta-analysis of case-control studies[J].Critical Reviews in Oncology/Hematology,2017,110:35-42.
+
+[28] 宫秀燕,韦明,蒋秋斐,等.凝结芽孢杆菌对肠炎沙门氏菌感染肉鸡生产性能和抗氧化功能的影响[J].中国畜牧杂志,2015,51(17):74-79,98.
+
+[29] KODALI V P,PERALI R S,SEN R.Purification and partial elucidation of the structure of an antioxidant carbohydrate biopolymer from the probiotic bacterium Bacillus coagulans RK-02[J].Journal of Natural Products,2011,74(8):1692-1697.   
+[30] KODALI V P,SEN R.Antioxidant and free radical scavenging activitiesof an exopolysaccharide from a probiotic bacterium[J]. Biotechnology,2008,3(2):245-251.   
+[31] 袁建锋,蔡恒,单咸肠,等.一株芽孢杆菌胞外多糖的分离纯化及其抗氧化性测定[J].微生物 学通报,2009,36(10):1466-1470.   
+[32] 梅秀明,潘道东.乳酸菌胞外多糖的纯化及对小鼠血清和肝组织抗氧化性的影响[J].食品 科学,2009,30(7):220-224.   
+[33] 李景艳.乳酸菌胞外多糖的抗氧化活性及其结构[D].硕士学位论文.无锡:江南大 学,2013:36-38.
+
+Effects on Microecological Preparation of Bacillus coagulans on Anti-Lipid Peroxidation Capability of Beijing-You Laying Hens
+
+LI JiayilGUO Qian1ZHANG Hongxing]XIE YuanhonglLIU Huil\*LIAN Zhengxing² (1. Beijing Laboratory of Food Quality and Safety,Beijing Engineering Laboratory of Key Technology Development of Microeconomics, College of Food Science and Engineering, Beijing University of Agriculture, Beijing 102206, China; 2. College of Animal Science and Technology, China Agricultural University,Beijing 10o094, China)
+
+Abstract: This experiment was conducted to study the effects on microecological preparation of Bacillus coagulans on anti-lipid peroxidation capability of Beijing-you laying hens. Bacillus coagulans Liu-g1,a strain with strong ability neutral protease isolated from the traditional cheese, made a microecological preparation by fermentation.A total of 120 healthy 14-week-old Beijing-you laying hens were divided into 4 groups with 3 replicates per group and 10 chicks per replicate.Laying hens in the blank control group were fed a basal diet, and the others in experimental groups were fed the basal diets supplemented with 10,100 and $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ Bacillus coagulans Liu-g1, respectively. The experiment lasted for 10 weeks. The serum triglyceride and antioxidant indices were measured,and the animals were slaughtered for the measurement of liver ether extract content and the liver tissue sections were observed. The results showed that compared with the blank control group, the serum triglyceride content of 10,100 and $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ （204 Bacillus coagulans Liu-gl groups was significantly decreased $( P { < } 0 . 0 5 )$ , and the liver ether extract content was significantly decreased $( P { < } 0 . 0 1 )$ . Oil red O straining of liver slices showed that Bacillus coagulans Liu-gl reduced the quantity of fat droplets in the liver in a dose-dependent manner, and the $1 0 0 ~ \mathrm { { m g / k g } }$ Bacillus coagulans Liu-gl group had the best effect. The serum total antioxidant capacity of 10 and $1 0 0 ~ \mathrm { { m g / k g } }$ Bacillus coagulans Liu-gl groups was significantly higher than that of blank control group $( P { < } 0 . 0 5 )$ , the serum glutathione peroxidase activity of 10, 100 and $1 ~ 0 0 0 ~ \mathrm { { m g / k g } }$ Bacillus coagulans Liu-gl groups was significantly higher than that of blank control group $( P { < } 0 . 0 5 )$ ， and the superoxide dismutase activity and malondialdehyde content in serum were increased and reduced to a certain extent（ $P { > } 0 . 0 5$ ），respectively. In conclusion, dietary Bacillus coagulans Liu-gl supplementation can strongly reduce the deposition of lipid of laying hens,and inhibit the formation of fatty live,and had preferable anti-lipid peroxidation capability. The optimum supplemental level is $1 0 0 \mathrm { m g / k g }$
+
+Key words: Bacillus coagulans; Beijing-you chickens; fatty liver; lipid peroxidation

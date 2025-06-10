@@ -1,0 +1,1048 @@
+[
+    {
+        "type": "text",
+        "text": "Some discussions on Hausdorff metric ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huan Huang Departmentof Mathematics,Jimei University，Xiamen 361021,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we discuss the properties of functions generated using Hausdorff metric. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Fuzzy sets; Hausdorff metric; $\\alpha$ -cut ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Let $( X , d _ { X } )$ be a metric space. For $u \\in F ( X )$ ，let $[ u ] _ { \\alpha }$ denote the $\\alpha$ -cut of $u$ ，i.e. ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ u ] _ { \\alpha } = \\left\\{ \\{ x \\in X : u ( x ) \\geq \\alpha \\} , \\quad \\alpha \\in ( 0 , 1 ] , \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $\\overline { S }$ denotes the closure of $S$ in $( X , d )$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The set of upper semi-continuous fuzzy sets in $( X , d _ { X } )$ is denoted by $F _ { U S C } ( X )$ ,i.e. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$F _ { U S C } ( X ) = \\{ u \\in F ( X ) : [ u ] _ { \\alpha }$ is closed in $( X , d _ { X } )$ for $\\alpha \\in ( 0 , 1 ] \\}$ （2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$F _ { U S C } ^ { 1 } ( X )$ is the set of normal fuzzy sets in $F _ { U S C } ( X )$ ,i.e. ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { U S C } ^ { 1 } ( X ) = \\{ u \\in F ( X ) : [ u ] _ { \\alpha } \\in C ( X ) { \\mathrm { ~ f o r ~ } } \\alpha \\in ( 0 , 1 ] \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $C ( X )$ is the set of nonempty closed sets of $( X , d _ { X } )$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { U S C G } ^ { 1 } ( X ) = \\{ u \\in F ( X ) : [ u ] _ { \\alpha } \\in K ( X ) { \\mathrm { ~ f o r ~ } } \\alpha \\in ( 0 , 1 ] \\} ,\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $K ( X )$ is the set of nonempty compact sets of $( X , d _ { X } )$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Let $( X , d _ { X } )$ be a metric space. We use $\\pmb { H }$ to denote the Hausdorff metric on $C ( X )$ induced by $d _ { X }$ ,i.e., ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( U , V ) = \\operatorname* { m a x } \\{ H ^ { * } ( U , V ) , \\ H ^ { * } ( V , U ) \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for arbitrary $U , V \\in C ( X )$ ，where ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { * } ( U , V ) = \\operatorname* { s u p } _ { u \\in U } d _ { X } ( u , V ) = \\operatorname* { s u p } _ { u \\in U } \\operatorname* { i n f } _ { v \\in V } d _ { X } ( u , v ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Remark 1.1. $\\rho$ is said to be a extended metric on $Y$ if $\\rho$ is a function from $Y \\times Y$ into $\\mathbb { R } \\cup \\{ + \\infty \\}$ satisfying positivity, symmetry and triangle inequality. The Hausdorff metric $H$ on $C ( X )$ induced by $d _ { X }$ on $X$ is a extended metric, but probably not a metric,because $H ( A , B )$ could be equal to $+ \\infty$ for some $A , B \\in C ( X )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following inequality should be a known result. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { * } ( U , W ) \\leq H ^ { * } ( U , V ) + H ^ { * } ( V , W )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for $U , V , W \\in C ( X )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let $\\mathbb { R } ^ { m }$ be the $m$ -dimensional Euclidean space. See [1] for the symbols in this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we uniformly use $H$ to denote the Hausdorff metric on $C ( X )$ induced by $d _ { X }$ ，where $( X , d _ { X } )$ is a certain metric space. The meaning of $H$ can be judged according to the context. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have obtained the following statements on the measurability of the function $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ (See [3],which was submitted on 2019.07.06). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For $u \\in F _ { U S C } ^ { 1 } ( X )$ and $x _ { 0 } \\in X$ ， $H ( [ u ] _ { \\alpha } , \\{ x _ { 0 } \\} )$ is a measurable function of $\\alpha$ on $\\lfloor 0 , 1 \\rfloor$ ：   \n· For $u , v \\in \\Lt F _ { U S C } ^ { 1 } ( \\mathbb { R } ^ { m } )$ ， $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on （204号 $[ 0 , 1 ]$ ：   \n·For $u , v \\in F _ { U S C G } ^ { 1 } ( X )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on （204号 $[ 0 , 1 ]$ ：   \nThere exists a metric space $X$ and $u , v \\in F _ { U S C } ^ { 1 } ( X )$ such that $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a non-measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In [6], we submitted the proofs of the first three statements. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The proofs of the first three statements and the example given in chinaXiv:202108.00116v1 which shows the last statement were recorded in a handwritten material before 2019.07.06. In this version, a very small change is made to the example. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Properties of $\\pmb { H } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section, we give the proofs of the first three statements and the example to show the last statement. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proposition 2.1. For $u \\in F _ { U S C } ^ { 1 } ( X )$ and $x _ { 0 } \\in X$ ， $H ( [ u ] _ { \\alpha } , \\{ x _ { 0 } \\} )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proof. We can see that for $0 \\leq \\alpha \\leq \\beta \\leq 1$ ， ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( [ u ] _ { \\alpha } , \\{ x _ { 0 } \\} ) = \\operatorname* { s u p } _ { x \\in [ u ] _ { \\alpha } } d ( x , x _ { 0 } ) \\geq \\operatorname* { s u p } _ { x \\in [ u ] _ { \\beta } } d ( x , x _ { 0 } ) = H ( [ u ] _ { \\beta } , \\{ x _ { 0 } \\} ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "So the desired result follows from the fact that $H ( [ u ] _ { \\alpha } , \\{ x _ { 0 } \\} )$ is a monotone function of $\\alpha$ on $[ 0 , 1 ]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For $u , v \\in F _ { U S C } ^ { 1 } ( X )$ and $r \\in \\mathbb { R }$ ，we use the symbol $\\{ H ( u , v ) > r \\}$ todenote the set $\\{ \\alpha \\in [ 0 , 1 ] : H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) > r \\}$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proposition 2.2. For $u , v \\in F _ { U S C } ^ { 1 } ( \\mathbb { R } ^ { m } )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ om $[ 0 , 1 ]$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proof. We only need to show that for each $r \\in \\mathbb { R }$ ， the set $\\{ H ( u , v ) > r \\}$ is measurable set. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step (i) For each $r \\in \\mathbb { R }$ ，if $\\alpha > 0$ and $\\alpha \\in \\{ H ( u , v ) > r \\}$ ， then there exists $\\delta ( \\alpha ) > 0$ such that $[ \\alpha - \\delta ( \\alpha ) , \\alpha ] \\subseteq \\{ H ( u , v ) > r \\}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We proceed by contradiction. If for each $\\delta > 0$ ， $[ \\alpha - \\delta , \\alpha ] \\not \\in \\{ H ( u , v ) > r \\}$ （2 Then there exists an increasing sequence $\\{ \\gamma _ { n } \\}$ such that $\\gamma _ { n }  \\alpha$ and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( [ u ] _ { \\gamma _ { n } } , [ v ] _ { \\gamma _ { n } } ) \\leq r .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given $x \\in [ u ] _ { \\alpha }$ ，then $d ( x , [ v ] _ { \\gamma _ { n } } ) \\leq H ( [ u ] _ { \\gamma _ { n } } , [ v ] _ { \\gamma _ { n } } ) \\leq r$ . Therefore there exist $y _ { n } \\in [ v ] _ { \\gamma _ { n } }$ such that $d ( x , y _ { n } ) = d ( x , [ v ] _ { \\gamma _ { n } } ) \\leq r$ . Hence there is a subsequence $\\{ y _ { n _ { i } } \\}$ of $\\left\\{ y _ { n } \\right\\}$ such that $\\left\\{ y _ { n _ { i } } \\right\\}$ converges to $y \\in \\mathbb { R } ^ { m }$ .Note that $d ( x , y ) \\leq r$ and $y \\in \\cap [ v ] _ { \\gamma _ { n _ { i } } } = [ v ] _ { \\alpha }$ ， so we have $d ( x , [ v ] _ { \\alpha } ) \\leq r$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From the arbitrariness of $x$ ， $H ^ { * } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\leq r$ . Similarly, we can deduce that $H ^ { * } ( [ v ] _ { \\alpha } , [ u ] _ { \\alpha } ) \\leq r$ . Thus $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\leq r$ ， which is a contradiction. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Step (ii) For each $r \\in \\mathbb { R }$ ,if $\\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\} \\ne \\emptyset$ ，then $\\{ H ( u , v ) >$ $r \\} \\backslash \\{ 0 \\}$ is a union of disjoint positive length intervals. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Suppose that $\\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\} \\ne \\emptyset$ .For $x \\in \\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\}$ ，let $\\widehat { \\textbf { \\textit { x } } } = \\bigcup \\{ [ a , b ] : x \\in [ a , b ] \\subseteq \\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\} \\}$ ,i.e. $\\frown$ is the largest interval in {H(u,u) > r}\\{0} which contains x. Then by step (i)，x is a positive length interval. Note that for $x , y \\in \\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\}$ ，if $\\widehat { \\textbf { \\textit { x } } } \\widehat { \\textbf { \\textit { y } } } \\neq \\boldsymbol { \\emptyset }$ then $\\overrightharpoon { x } = \\overrightharpoon { y }$ Thus $\\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\}$ is a union of disjoint positive length intervals. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Step (ii) For each $r \\in \\mathbb { R }$ ， $\\{ H ( u , v ) > r \\}$ is a measurable set ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Clearly, if positive length intervals are disjoint, then these positive length intervals are at most countable. Thus, from step (ii), $\\{ H ( u , v ) > r \\} \\setminus \\{ 0 \\}$ is a measurable set. So $\\{ H ( u , v ) > r \\}$ is a measurable set. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remark 2.3. Let $u , v \\in F _ { U S C } ^ { 1 } ( X )$ . For each $r \\in \\mathbb { R }$ ，if $0 \\in \\{ H ( u , v ) > r \\}$ then there exists $\\delta > 0$ such that $[ 0 , \\delta ] \\subseteq \\{ H ( u , v ) > r \\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The above fact is equivalent to the following fact ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let $u , v \\in F _ { U S C } ^ { 1 } ( X )$ . Then $\\begin{array} { r } { H ( [ u ] _ { 0 } , [ v ] _ { 0 } ) \\leq \\operatorname* { l i m } \\operatorname* { i n f } _ { \\alpha  0 + } H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) } \\end{array}$ ,here $\\begin{array} { r } { \\operatorname* { l i m } \\operatorname* { i n f } _ { \\alpha \\to 0 + } H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) = + \\infty } \\end{array}$ is possible. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Combined this fact with the proof of Proposition 2.2, we have the following conclusion ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let $u , v \\in \\mathsf { \\Gamma } F _ { U S C } ^ { 1 } ( \\mathbb { R } ^ { m } )$ and let $r ~ \\in ~ \\mathbb { R }$ If $\\{ H ( u , v ) \\ > \\ r \\} \\ \\ne \\ \\emptyset$ ，then $\\{ H ( u , v ) \\ > \\ r \\}$ is a union of disjoint positive length intervals (Obviously, $\\{ H ( u , v ) > r \\}$ could be an interval. It is easy to see that for fixed $r \\geq 0$ ， the possible forms of the maximal intervals in $\\{ H ( u , v ) > r \\}$ are as follows: $[ 0 , \\alpha ) , [ 0 , \\alpha ]$ ， $( \\beta , \\alpha )$ and $( \\beta , \\alpha ]$ ，where $\\alpha \\in ( 0 , 1 ]$ and $\\beta \\in \\lbrack 0 , 1 )$ ） ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remark 2.4. Let $u , v \\in F _ { U S C } ^ { 1 } ( X )$ and let $\\alpha > 0$ . The following two statements are equivalent.   \n(i)For each $r \\in \\mathbb { R }$ ，if $\\alpha \\in \\{ H ( u , v ) > r \\}$ ，then there exists $\\delta ( \\alpha ) > 0$ such that $[ \\alpha - \\delta ( \\alpha ) , \\alpha ] \\subseteq \\{ H ( u , v ) > r \\}$ ：   \n(ii) $\\begin{array} { r } { H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\leq \\operatorname* { l i m } \\operatorname* { i n f } _ { \\gamma \\to \\alpha - } H ( [ u ] _ { \\gamma } , [ v ] _ { \\gamma } ) \\ ( \\operatorname* { l i m } \\operatorname* { i n f } _ { \\gamma \\to \\alpha - } H ( [ u ] _ { \\gamma } , [ v ] _ { \\gamma } ) = + \\infty } \\end{array}$ is possible). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "So the statement‘ $\\begin{array} { r } { ^ { \\prime } H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\leq \\operatorname* { l i m } \\operatorname* { i n f } _ { \\gamma \\to \\alpha - } H ( [ u ] _ { \\gamma } , [ v ] _ { \\gamma } ) } \\end{array}$ for all $\\alpha \\in$ $( 0 , 1 ] ^ { , }$ is equivalent to the statement proved by step (i) of the proof of Proposition 2.2, which is listed below ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For each $r \\in \\mathbb { R }$ ，if $\\alpha > 0$ and $\\alpha \\in \\{ H ( u , v ) > r \\}$ ， then there exists （204 $\\delta ( \\alpha ) > 0$ such that $[ \\alpha - \\delta ( \\alpha ) , \\alpha ] \\subseteq \\{ H ( u , v ) > r \\}$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remark 2.5. From the proof of Proposition 2.2 and Remark 2.4, we know that for $u , v \\in F _ { U S C } ^ { 1 } ( X )$ ，if $\\begin{array} { r } { H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\leq \\operatorname* { l i m } \\operatorname* { i n f } _ { \\gamma \\to \\alpha - } H ( [ u ] _ { \\gamma } , [ v ] _ { \\gamma } ) } \\end{array}$ for all （20 $\\alpha \\in ( 0 , 1 ]$ ， then $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following Proposition 2.6 is Lemma 4.4 in [1]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proposition 2.6. Let $U _ { n } \\in K ( X )$ for $n = 1 , 2 , \\ldots$   \n$( i )$ If $U _ { 1 } \\ \\supseteq \\ U _ { 2 } \\ \\supseteq \\ \\ \\cdot \\ . \\ \\supseteq \\ U _ { n } \\ \\supseteq \\ . \\ . \\ .$ ，then $\\begin{array} { r } { U \\ = \\ \\bigcap _ { n = 1 } ^ { + \\infty } U _ { n } \\ \\in \\ K ( X ) } \\end{array}$ and  \n$H ( U _ { n } , U ) \\to 0$ as $n \\to + \\infty$ ：  \n(ii）If $U _ { 1 } \\ \\subseteq \\ U _ { 2 } \\ \\subseteq \\ \\dots \\ \\subseteq \\ U _ { n } \\ \\subseteq \\ . . . \\ \\quad$ and $\\begin{array} { r } { V \\ = \\ \\overline { { \\bigcup _ { n = 1 } ^ { + \\infty } U _ { n } } } \\ \\in \\ K ( X ) } \\end{array}$ ，then  \n$H ( U _ { n } , V ) \\to 0$ as $n \\to + \\infty$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proof. (i) is easy to show. We only prove (ii). Suppose that $H ( U _ { n } , U ) \\not \\to 0$ （4号 Then there is an $\\varepsilon _ { 0 } > 0$ such that $H ( U _ { n } , U ) > \\varepsilon _ { 0 }$ . Hence there exists $x _ { n } \\in U$ such that ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( x _ { n } , U _ { n } ) > \\varepsilon _ { 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since $U$ is compact, there is a subsequence $\\{ x _ { n _ { i } } \\}$ of $\\{ x _ { n } \\}$ such that $x _ { n _ { i } }$ （20 converges to $x \\in U$ . Note that there exists $\\left\\{ y _ { n } \\right\\}$ such that $y _ { n } \\in U _ { n }$ and $y _ { n } \\to x$ . Thus $d ( x , U _ { n } ) \\to 0$ ，which contradicts (3). □ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proposition 2.7. For $u , v \\in F _ { U S C G } ^ { 1 } ( X )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proof. Note that $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is finite at $\\alpha \\in ( 0 , 1 ]$ and for $\\alpha , \\beta \\in ( 0 , 1 ]$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) - H ( [ u ] _ { \\beta } , [ v ] _ { \\beta } ) | \\leq H ( [ u ] _ { \\alpha } , [ u ] _ { \\beta } ) + H ( [ v ] _ { \\alpha } , [ v ] _ { \\beta } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then by Proposition 2.6 (i), ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { l i m } _ { \\beta \\to \\alpha - } H ( [ u ] _ { \\beta } , [ v ] _ { \\beta } ) = H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "i.e. $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is left-continuous at $\\alpha \\in ( 0 , 1 ]$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thus from Remark 2.5, $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Remark 2.8.From Proposition 2.6, we know that for $u , v \\in F _ { U S C G } ^ { 1 } ( X )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is left-continuous at $\\alpha \\in ( 0 , 1 ]$ ,and that for $u , v \\in F _ { U S C B } ^ { 1 } ( X )$ ，, $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is right-continuous at $\\alpha = 0$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To give the example which shows the last statement presented in Section 1,we need some conclusions at first. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following representation theorem should be a known conclusion. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.9. Let $X$ be a set. Given $u \\in F ( X )$ ， then for all $\\alpha \\in ( 0 , 1 ]$ $[ u ] _ { \\alpha } = \\cap _ { \\beta < \\alpha } [ u ] _ { \\beta }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conversely， suppose that $\\{ u ( \\alpha ) : \\alpha \\in ( 0 , 1 ] \\}$ is a family of sets in $X$ satisfying $u ( \\alpha ) = \\cap _ { \\beta < \\alpha } u ( \\beta )$ for all $\\alpha \\in ( 0 , 1 ]$ . Define $v \\in F ( X )$ by $v ( x ) : =$ $\\operatorname* { s u p } \\{ \\alpha : x \\in u ( \\alpha ) \\}$ $( \\operatorname* { s u p } \\varnothing = 0 .$ ). Then $[ v ] _ { \\alpha } = u ( \\alpha )$ for all $\\alpha \\in ( 0 , 1 ]$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\rho$ is said to be a metric on $Y$ if $\\rho$ is a function from $Y \\times Y$ into $\\mathbb { R }$ satisfying positivity, symmetry and triangle inequality. At this time, $( Y , \\rho )$ is said to be a metric space. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（204 $\\rho$ is said to be an extended metric on $Y$ if $\\rho$ is a function from $Y \\times Y$ into $\\mathbb { R } \\cup \\{ + \\infty \\}$ satisfying positivity, symmetry and triangle inequality. At this time, $( Y , \\rho )$ is said to be an extended metric space. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Let $( Y , \\rho )$ be an extended metric space. For $y \\in Y$ and $\\varepsilon > 0$ ,let $B ( y , \\varepsilon )$ （204号 denote the set $\\{ z \\in Y : \\rho ( y , z ) < \\varepsilon \\}$ ： $\\{ B ( y , \\varepsilon ) : y \\in Y , \\varepsilon > 0 \\}$ is a basis for the topology induced by $\\rho$ on $Y$ . The closure of a set $A$ in $( Y , \\rho )$ ， denoted by $\\overline { { A } }$ ，refers to the closure of $A$ in $Y$ according to the topology induced by （204 $\\rho$ on $Y$ . Then $x \\in { \\overline { { A } } }$ if and only if there is a sequence $\\{ x _ { n } \\}$ in $Y$ such that $\\rho ( x _ { n } , x ) \\to 0$ . So $x \\in { \\overline { { A } } }$ if and only if $\\rho ( x , A ) = 0$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here we mention that if $( Y , \\rho )$ is an extended metric space,then the Hausdorff distance $H$ on $C ( Y )$ induced by $\\rho$ using(1） is an extended metric on $C ( Y )$ ,where $C ( Y )$ denotes the set of nonempty closed sets in $( Y , \\rho )$ . It can be seen that $H$ satisfies positivity and symmetry. To show that $H$ satisfies the triangle inequality, we only need to show that ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { * } ( U , W ) \\leq H ^ { * } ( U , V ) + H ^ { * } ( V , W )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "for $U , V , W \\in C ( Y )$ . To do this, let $x \\in U$ . Then ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\rho ( x , W ) \\leq \\underset { y \\in V } { \\mathrm { i n f ~ } } \\underset { z \\in W } { \\mathrm { i n f } } \\left. \\rho ( x , y ) + \\rho ( y , z ) \\right. } \\\\ & { \\qquad \\leq \\underset { y \\in V } { \\mathrm { i n f } } \\left. \\rho ( x , y ) + \\rho ( y , W ) \\right. } \\\\ & { \\qquad \\leq \\underset { y \\in V } { \\mathrm { i n f } } \\rho ( x , y ) + H ^ { * } ( V , W ) } \\\\ & { \\qquad = \\rho ( x , V ) + H ^ { * } ( V , W ) } \\\\ & { \\qquad \\leq H ^ { * } ( U , V ) + H ^ { * } ( V , W ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "From the arbitrariness of $x$ in $U$ ，we obtain (4). So the Hausdorff distance $H$ on $C ( Y )$ is the Hausdorff extended metric. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For simplicity, we refer to both the Hausdorff extended metric and the Hausdorff metric as the Hausdorff metric in this paper. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For an extended metric space $( Y , \\rho )$ ， we define",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$F _ { U S C } ( Y ) = \\{ u \\in F ( Y ) : [ u ] _ { \\alpha }$ is closed in $( Y , \\rho )$ for $\\alpha \\in ( 0 , 1 ] \\}$ （20 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let $\\Gamma$ be a set, and for each $\\gamma \\in \\Gamma$ ，let $( X _ { \\gamma } , d _ { \\gamma } )$ be a metric space. Define an extended metric $d$ on $\\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma }$ as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ( x , y ) : = \\operatorname* { s u p } \\{ d _ { \\gamma } ( x _ { \\gamma } , y _ { \\gamma } ) : \\gamma \\in \\Gamma \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for $\\boldsymbol { x } = ( x _ { \\gamma } ) _ { \\gamma \\in \\Gamma }$ and $y = ( y _ { \\gamma } ) _ { \\gamma \\in \\Gamma }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We use the symbol $\\Pi _ { \\gamma \\in \\Gamma } ( X _ { \\gamma } , d _ { \\gamma } )$ to denote the extended metric space $( \\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma } , d )$ .If not mentioned specially， we suppose by default that the extended metric on $\\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma }$ is the $d$ given by (5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let $u _ { \\gamma } \\in F ( X _ { \\gamma } )$ ， $\\gamma \\in \\Gamma ^ { }$ . Define $u \\in F ( \\prod _ { \\gamma \\in \\Gamma } X _ { \\gamma } )$ as ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ u ] _ { \\alpha } = \\prod _ { \\gamma \\in \\Gamma } [ u _ { \\gamma } ] _ { \\alpha } \\ \\mathrm { f o r \\ e a c h } \\ \\alpha \\in ( 0 , 1 ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We use $\\Pi _ { \\gamma \\in \\Gamma } u _ { \\gamma }$ to denote the fuzzy set $u$ given by (6). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From Theorem 2.9, $u$ is well-defined because for each $\\alpha \\in ( 0 , 1 ]$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ u ] _ { \\alpha } = \\prod _ { \\gamma \\in \\Gamma } [ u _ { \\gamma } ] _ { \\alpha } = \\bigcap _ { \\beta < \\alpha } \\prod _ { \\gamma \\in \\Gamma } [ u _ { \\gamma } ] _ { \\beta } = \\bigcap _ { \\beta < \\alpha } [ u ] _ { \\beta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this paper, if not mentioned specially, we use $\\overline { { S } }$ to denote the closure of $S$ in a certain extended metric space $( X , d _ { X } )$ . For a set $S \\subseteq X _ { \\gamma }$ ， $\\gamma \\in \\Gamma$ ， we use $\\overline { S }$ to denote the closure of $S$ in $( X _ { \\gamma } , d _ { \\gamma } )$ .For a set $S \\subseteq \\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma }$ ，we also use $\\overline { S }$ to denote the closure of $S$ in $( \\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma } , d )$ . The readers can judge the meaning of $\\overline { { S } }$ according to the context. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lemma 2.10.Let $\\Gamma$ be a set, and for each $\\gamma \\in \\Gamma$ ，let $( X _ { \\gamma } , d _ { \\gamma } )$ be a metric space. If $A _ { \\gamma } \\subseteq X _ { \\gamma }$ for $\\gamma \\in \\Gamma$ ，then $\\begin{array} { r } { \\overline { { \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } } } = \\prod _ { \\gamma \\in \\Gamma } \\overline { { A _ { \\gamma } } } } \\end{array}$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Proof. Clearly ${ \\overline { { \\Pi _ { \\gamma \\in \\Gamma } A _ { \\gamma } } } } \\subseteq \\Pi _ { \\gamma \\in \\Gamma } { \\overline { { A _ { \\gamma } } } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conversely, if $\\begin{array} { r } { x = ( x _ { \\gamma } ) _ { \\gamma \\in \\Gamma } \\in \\prod _ { \\gamma \\in \\Gamma } \\overline { { A _ { \\gamma } } } } \\end{array}$ ， then for each $\\varepsilon > 0$ ， there exists（204号 $\\begin{array} { r } { y = ( y _ { \\gamma } ) _ { \\gamma \\in \\Gamma } \\in \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } } \\end{array}$ such that $d _ { \\gamma } ( x _ { \\gamma } , y _ { \\gamma } ) \\leq \\varepsilon$ for all $\\gamma \\in \\Gamma$ . So $d ( x , y ) \\leq \\varepsilon$ From the arbitrariness of $\\varepsilon > 0$ ， we have $x \\in \\overline { { \\Pi _ { \\gamma \\in \\Gamma } A _ { \\gamma } } }$ .Thus $\\overline { { \\Pi _ { \\gamma \\in \\Gamma } A _ { \\gamma } } } ~ \\supseteq$ $\\Pi _ { \\gamma \\in \\Gamma } \\overline { { A _ { \\gamma } } }$ ：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary, $\\begin{array} { r } { \\overline { { \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } } } = \\prod _ { \\gamma \\in \\Gamma } \\overline { { A _ { \\gamma } } } } \\end{array}$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.11.Let $\\Gamma$ be a set, and for each $\\gamma \\in \\Gamma$ ，let $( X _ { \\gamma } , d _ { \\gamma } )$ be a metric space. If $u _ { \\gamma } \\in F _ { U S C } ( X _ { \\gamma } )$ for each $\\gamma \\in \\Gamma$ ，then $\\begin{array} { r } { u = \\prod _ { \\gamma \\in \\Gamma } u _ { \\gamma } } \\end{array}$ is $a$ fuzzy set in $F _ { U S C } ( \\prod _ { \\gamma \\in \\Gamma } X _ { \\gamma } )$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Proof. By (6) and Lemma 2.10, for each $\\alpha \\in ( 0 , 1 ]$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { [ u ] _ { \\alpha } } } = \\prod _ { \\gamma \\in \\Gamma } \\overline { { [ u _ { \\gamma } ] _ { \\alpha } } } = \\prod _ { \\gamma \\in \\Gamma } [ u _ { \\gamma } ] _ { \\alpha } = [ u ] _ { \\alpha } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "thus $u \\in F _ { U S C } ( \\prod _ { \\gamma \\in \\Gamma } X _ { \\gamma } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the following theorem，we use $H$ to denote the Hausdorff metric on $C ( X _ { \\gamma } )$ induced by $d _ { \\gamma }$ .We also use $H$ to denote the Hausdorff metric on （204号 $C ( \\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma } )$ induced by $d$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Theorem 2.12.Let $\\Gamma$ be a set, and for each $\\gamma \\in \\Gamma$ ,let $( X _ { \\gamma } , d _ { \\gamma } )$ be a metric space. If $A _ { \\gamma }$ and $B _ { \\gamma }$ are elements in $C ( X _ { \\gamma } )$ for $\\gamma \\in \\Gamma$ , then $\\begin{array} { r l } { { } } & { { } H ( \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } , \\prod _ { \\gamma \\in \\Gamma } B _ { \\gamma } ) = } \\end{array}$ $\\operatorname { s u p } _ { \\gamma \\in \\Gamma } H ( A _ { \\gamma } , B _ { \\gamma } )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Proof. From Lemma 2.10, $\\Pi _ { \\gamma \\in \\Gamma } A _ { \\gamma }$ and $\\Pi _ { \\gamma \\in \\Gamma } B _ { \\gamma }$ are elements in $C ( \\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma } )$ Note that $\\begin{array} { r } { d ( x , \\prod _ { \\gamma \\in \\Gamma } B _ { \\gamma } ) \\ = \\ \\operatorname* { s u p } _ { \\gamma \\in \\Gamma } d _ { \\gamma } ( x _ { \\gamma } , B _ { \\gamma } ) } \\end{array}$ for each $x = ( x _ { \\gamma } ) _ { \\gamma \\in \\Gamma } \\in$ （20 $\\Pi _ { \\gamma \\in \\Gamma } X _ { \\gamma }$ . Thus ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal H } ^ { * } ( \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } , \\prod _ { \\gamma \\in \\Gamma } B _ { \\gamma } ) = \\operatorname* { s u p } _ { x \\in \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } } d ( x , \\prod _ { \\gamma \\in \\Gamma } B _ { \\gamma } ) } } \\\\ { ~ = \\operatorname* { s u p } _ { x \\in \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } \\gamma \\in \\Gamma } \\mathrm { s u p } d _ { \\gamma } ( x _ { \\gamma } , B _ { \\gamma } ) }  \\\\ { ~ = \\operatorname* { s u p } _ { \\gamma \\in \\Gamma } \\mathrm { s u p } d _ { \\gamma } ( x _ { \\gamma } , B _ { \\gamma } ) }  \\\\ { ~ = \\operatorname* { s u p } _ { \\gamma \\in \\Gamma } x _ { \\gamma } \\in A _ { \\gamma } } d _ { \\gamma } ( { \\cal A } _ { \\gamma } , { \\cal B } _ { \\gamma } )  \\\\ { ~ = \\operatorname* { s u p } _ { \\gamma \\in \\Gamma } H ^ { * } ( { \\cal A } _ { \\gamma } , { \\cal B } _ { \\gamma } ) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "So ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( \\prod _ { \\gamma \\in \\Gamma } A _ { \\gamma } , \\prod _ { \\gamma \\in \\Gamma } B _ { \\gamma } ) = \\operatorname* { s u p } _ { \\gamma \\in \\Gamma } H ( A _ { \\gamma } , B _ { \\gamma } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Now, we give an example to show that there exists a metric space $X$ and $u , v \\in F _ { U S C } ^ { 1 } ( X )$ such that $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a non-measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Example 2.13. We see $[ 0 , 1 0 0 ] \\setminus \\{ 1 0 \\}$ as a metric subspace of $\\mathbb { R }$ .Let $z \\in$ $( 0 , 1 ]$ . Define $u ^ { z } \\in F _ { U S C } ^ { 1 } ( [ 0 , 1 0 0 ] \\setminus \\{ 1 0 \\} )$ as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ u ^ { z } ] _ { \\alpha } = \\left\\{ \\begin{array} { l l } { \\{ 3 \\} , } & { \\alpha \\in [ z , 1 ] , } \\\\ { \\{ 3 \\} \\cup ( 1 0 , 1 0 + \\varepsilon ] , } & { \\alpha = z ( 1 - \\varepsilon ) , \\ 0 < \\varepsilon \\leq 1 . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Let $z \\in ( 0 , 1 ]$ . Define $v ^ { z } \\in F _ { U S C } ^ { 1 } ( [ 0 , 1 0 0 ] \\setminus \\{ 1 0 \\} )$ as ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ v ^ { z } ] _ { \\alpha } = \\left\\{ \\begin{array} { l l } { \\{ 7 3 \\} , } & { \\alpha \\in ( z , 1 ] , } \\\\ { [ 7 1 , 8 1 ] , } & { \\alpha \\in [ 0 , z ] . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then for $z \\in ( 0 , 1 ]$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( [ u ^ { z } ] _ { \\alpha } , [ v ^ { z } ] _ { \\alpha } ) = \\left\\{ \\begin{array} { l l } { 7 0 , } & { \\alpha \\in ( z , 1 ] , } \\\\ { 7 8 , } & { \\alpha = z , } \\\\ { 7 1 - \\varepsilon , } & { \\alpha = z ( 1 - \\varepsilon ) , \\ 0 < \\varepsilon \\leq 1 , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the Hausdorff metric on $C ( [ 0 , 1 0 0 ] \\setminus \\{ 1 0 \\} )$ induced by the metric on $[ 0 , 1 0 0 ] \\setminus \\{ 1 0 \\}$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We see $[ 0 , 9 ]$ as a metric subspace of $\\mathbb { R }$ . Define $w \\in F ( [ 0 , 9 ] )$ as $w ( t ) = 1$ for all $t \\in [ 0 , 9 ]$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Let $A$ be a non-measurable set in $( 0 , 1 ]$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Let $\\begin{array} { r } { u : = \\prod _ { z \\in [ 0 , 1 ] } u _ { z } } \\end{array}$ and let $\\begin{array} { r } { v : = \\prod _ { z \\in [ 0 , 1 ] } v _ { z } } \\end{array}$ ，where ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { z } = \\left\\{ \\begin{array} { l l } { u ^ { z } , } & { z \\in A , } \\\\ { w , } & { z \\in [ 0 , 1 ] \\setminus A , } \\end{array} \\right. \\ v _ { z } = \\left\\{ \\begin{array} { l l } { v ^ { z } , } & { z \\in A , } \\\\ { w , } & { z \\in [ 0 , 1 ] \\setminus A . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Then by Theorem 2.11, $u$ and $v$ are fuzzy sets in $F _ { U S C } ^ { 1 } ( \\prod _ { z \\in [ 0 , 1 ] } X _ { z } )$ ，where ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { z } = \\left\\{ \\begin{array} { l l } { [ 0 , 1 0 0 ] \\setminus \\{ 1 0 \\} , } & { z \\in A , } \\\\ { [ 0 , 9 ] , } & { z \\in [ 0 , 1 ] \\setminus A . } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Here we mention that $( \\Pi _ { z \\in [ 0 , 1 ] } X _ { z } , d )$ is a metric space with $d$ given by (5). By Theorem 2.12, ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) } \\\\ & { \\ = \\underset { z \\in A } { \\operatorname* { s u p } } H ( [ u ^ { z } ] _ { \\alpha } , [ v ^ { z } ] _ { \\alpha } ) \\vee \\underset { z \\in [ 0 , 1 ] \\backslash A } { \\operatorname* { s u p } } H ( [ 0 , 9 ] , [ 0 , 9 ] ) } \\\\ & { \\ = \\underset { z \\in A } { \\operatorname* { s u p } } H ( [ u ^ { z } ] _ { \\alpha } , [ v ^ { z } ] _ { \\alpha } ) } \\\\ & { \\ \\left\\{ \\ = 7 8 , \\ \\alpha \\in A , \\right. } \\\\ & { \\ \\leq 7 1 , \\ \\alpha \\in [ 0 , 1 ] \\backslash A . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "So $\\{ \\alpha \\in [ 0 , 1 ] : H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) > 7 3 \\} = A$ ，and thus $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a nonmeasurable function of $\\alpha$ on $[ 0 , 1 ]$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.Some discussions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In [3] (Lemma 6.3) and [1] (Lemma 6.5)，we pointed out that for $u \\in$ $F _ { U S C G } ^ { 1 } ( X )$ ， the cut-function $[ u ] ( \\alpha ) = [ u ] _ { \\alpha }$ from $[ 0 , 1 ]$ to $( C ( X ) , H )$ is leftcontinuous on $( 0 , 1 ]$ . Then it follows immediately that for $u , v \\in F _ { U S C G } ^ { 1 } ( X )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is left-continuous at $\\alpha ~ \\in ~ ( 0 , 1 ]$ (see Proposition 2.7). From this fact, it's natural to realize that for $u , v \\in F _ { U S C G } ^ { 1 } ( X )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ isa measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let $( X , d _ { X } )$ be a metric space. We say that $S \\subseteq F _ { U S C } ^ { 1 } ( X )$ satisfies condition $( X , d _ { X } )$ -I if $[ u ] _ { \\alpha } \\cap B ( x , r )$ is compact in $( X , d _ { X } )$ for all $u \\in S$ ， $\\alpha \\in ( 0 , 1 ]$ $x \\in X$ and $r \\in \\mathbb { R } ^ { + }$ ，where $B ( x , r ) : = \\{ y \\in X : d _ { X } ( x , y ) \\leq r \\}$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Clearly, $S \\ = \\ F _ { U S C } ^ { 1 } ( \\mathbb { R } ^ { m } )$ satisfies condition $\\mathbb { R } ^ { m }$ -I and $S ~ = ~ F _ { U S C G } ^ { 1 } ( X )$ satisfies condition $( X , d _ { X } )$ -I. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "If $S \\subseteq F _ { U S C } ^ { 1 } ( X )$ satisfies condition $( X , d _ { X } ) -$ I, then proceed similarly as the step (i) of the proof of Proposition 2.2，we have that $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\ \\leq$ $\\begin{array} { r } { \\operatorname* { l i m } \\operatorname* { i n f } _ { \\gamma \\to \\alpha - } H ( [ u ] _ { \\gamma } , [ v ] _ { \\gamma } ) } \\end{array}$ for all $u , v \\in S$ and $\\alpha \\in ( 0 , 1 ]$ . Thus as mentioned in Remark 2.5, for all $u , v \\in S$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There exists metric space $( X , d _ { X } )$ and $S \\subseteq F _ { U S C } ^ { 1 } ( X )$ which satisfies a condition weaker than condition $( X , d _ { X } )$ -I. By using this weaker condition, we can proceed similarly as the step (i) of the proof of Proposition 2.2 to show that $\\begin{array} { r } { H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\leq \\operatorname* { l i m } \\operatorname* { i n f } _ { \\gamma \\to \\alpha - } H ( [ u ] _ { \\gamma } , [ v ] _ { \\gamma } ) } \\end{array}$ for all $u , v \\in S$ and $\\alpha \\in ( 0 , 1 ]$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.Improvements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In this section, we give some improvements of Propositions 2.1, 2.2 and 2.7,which are the statements on measurability of $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ presented in [1]. We first prove Theorem 4.1 which is an improvement of Propositions 2.1 and 2.7. Then we show Theorem 4.3 and use it to improve Theorem 4.1 and Proposition 2.2. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let $v \\in F _ { U S C } ^ { 1 } ( X )$ and let $0 \\leq \\alpha < \\beta \\leq 1$ . The“variation” $w _ { v } ( \\alpha , \\beta )$ is defined as $w _ { v } ( \\alpha , \\beta ) : = \\operatorname* { s u p } \\{ H ( [ v ] _ { \\xi } , [ v ] _ { \\eta } ) : \\xi , \\eta \\in ( \\alpha , \\beta ] \\}$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Theorem 4.1. Let $u \\in F _ { U S C } ^ { 1 } ( X )$ and let $v \\in F _ { U S C G } ^ { 1 } ( X )$ . Then $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Proof. The proof is divided into three steps. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Step (I) $H ^ { \\ast } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Let $\\xi \\in \\mathbb { R }$ and let $n \\in \\mathbb { N }$ .Define ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { S _ { \\xi } : = \\{ \\alpha \\in [ 0 , 1 ] : H ^ { * } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\geq \\xi \\} , } } \\\\ { { S _ { \\xi , n } : = S _ { \\xi } \\cap ( \\displaystyle \\frac 1 n , 1 ] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To show that $H ^ { \\ast } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ，it suffices to show that for each $\\xi \\in \\mathbb { R }$ and $n \\in \\mathbb { N }$ ， $S _ { \\xi , n }$ is a measurable set. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Since $v \\in F _ { U S C G } ^ { 1 } ( X )$ , from Lemma 6.5 in [1] for each $k = 1 , 2 , \\ldots$ ,there exist $\\begin{array} { r } { \\frac { 1 } { n } = \\alpha _ { 1 } ^ { ( k ) } < \\cdots < \\alpha _ { l _ { k } } ^ { ( k ) } = 1 } \\end{array}$ such that $\\begin{array} { r } { \\dot { w _ { v } } ( \\alpha _ { i } ^ { ( k ) } , \\alpha _ { i + 1 } ^ { ( k ) } ) \\le \\frac { 1 } { k } } \\end{array}$ for all $i =$ （20 $1 , \\ldots , l _ { k } - 1$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Let $T _ { k , i } : = \\{ x :$ there exists $s \\in S _ { \\xi }$ such that $\\alpha _ { i } ^ { ( k ) } < x \\leq s \\leq \\alpha _ { i + 1 } ^ { ( k ) } \\}$ Put $T _ { k } : = \\cup _ { i = 1 } ^ { l _ { k } - 1 } T _ { k , i }$ . We affirm that ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(i) $T _ { k }$ is a measurable set,   \n(ii) $T _ { k } \\supseteq S _ { \\xi , n }$ ，and   \n(ii) Tk Ω Sg-1,n ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "If $T _ { k , i } \\neq \\emptyset$ ， then $T _ { k , i }$ is an interval. Thus (i) is true. (ii) follows from the definition of $T _ { k }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For each $i = 1 , \\ldots , l _ { k } - 1$ and each $x \\in T _ { k , i }$ ， there exists an $s \\in S _ { \\xi }$ suchthat a）<x≤s≤ai1,and thus",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H ^ { * } ( [ u ] _ { x } , [ v ] _ { x } ) } \\\\ & { \\geq H ^ { * } ( [ u ] _ { s } , [ v ] _ { x } ) } \\\\ & { \\geq H ^ { * } ( [ u ] _ { s } , [ v ] _ { s } ) - H ^ { * } ( [ v ] _ { x } , [ v ] _ { s } ) } \\\\ & { \\geq \\xi - 1 / k . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hence $T _ { k } \\subseteq S _ { \\xi - \\frac { 1 } { k } }$ . Clearly, $T _ { k } \\subseteq ( { \\textstyle { \\frac { 1 } { n } } } , 1 ]$ . So (ii) is proved. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "By affirmations (ii) and (iii), we have ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\xi , n } \\subseteq \\bigcap _ { k = 1 } ^ { + \\infty } T _ { k } \\subseteq \\bigcap _ { k = 1 } ^ { + \\infty } S _ { \\xi - { \\frac { 1 } { k } } , n } = S _ { \\xi , n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From affirmation (i), $\\cap _ { k = 1 } ^ { + \\infty } T _ { k }$ is measurable, and thus by (8), $\\begin{array} { r } { S _ { \\xi , n } = \\bigcap _ { k = 1 } ^ { + \\infty } T _ { k } } \\end{array}$ is measurable. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Step (II) $H ^ { \\ast } ( [ v ] _ { \\alpha } , [ u ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $\\lfloor 0 , 1 \\rfloor$ （24号 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The proof of Step (II) is similar to that of Step (I). Let $\\xi \\in \\mathbb { R }$ and let $n \\in \\mathbb { N }$ . Define ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { S ^ { \\xi } : = \\{ \\alpha \\in [ 0 , 1 ] : H ^ { * } ( [ v ] _ { \\alpha } , [ u ] _ { \\alpha } ) \\geq \\xi \\} , } } \\\\ { { S ^ { \\xi , n } : = S ^ { \\xi } \\cap ( \\displaystyle \\frac 1 n , 1 ] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "To show that $H ^ { \\ast } ( [ v ] _ { \\alpha } , [ u ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $\\lfloor 0 , 1 \\rfloor$ ，it suffices to show that for each $\\xi \\in \\mathbb { R }$ and $n \\in \\mathbb { N }$ ， $S ^ { \\xi , n }$ is a measurable set. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Let $T ^ { k , i } : = \\{ x$ : there exists $s \\in S ^ { \\xi }$ such that $\\alpha _ { i } ^ { ( k ) } < s \\leq x \\leq \\alpha _ { i + 1 } ^ { ( k ) } \\}$ .Put （204号 $T ^ { k } : = \\cup _ { i = 1 } ^ { l _ { k } - 1 } T ^ { k , i }$ . We affirm that ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(i') $T ^ { k }$ is a measurable set, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(ii') $T ^ { k } \\supseteq S ^ { \\xi , n }$ ,and ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(iii') Tk C Ss-n ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\left( \\mathrm { i } ^ { \\prime } \\right)$ is true because if $T ^ { k , i } \\neq \\emptyset$ ， then $T ^ { k , i }$ is a point or an interval. (ii' follows from the definition of $T ^ { k }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "that For each $\\alpha _ { i } ^ { ( k ) } < s \\leq x \\leq \\alpha _ { i + 1 } ^ { ( k ) }$ $i = 1 , \\ldots , l _ { k } - 1$ , and thus and each $x \\in T ^ { k , i }$ ， there exists an $s \\in S ^ { \\xi }$ such ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H ^ { * } ( [ v ] _ { x } , [ u ] _ { x } ) } \\\\ & { \\geq H ^ { * } ( [ v ] _ { x } , [ u ] _ { s } ) } \\\\ & { \\geq H ^ { * } ( [ v ] _ { s } , [ u ] _ { s } ) - H ^ { * } ( [ v ] _ { s } , [ v ] _ { x } ) } \\\\ & { \\geq \\xi - 1 / k . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hence $T ^ { k } \\subseteq S _ { \\xi - { \\frac { 1 } { k } } }$ . Clearly, $T ^ { k } \\subseteq \\left( { \\frac { 1 } { n } } , 1 \\right]$ . So (ir） is proved. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "From affirmations (ii') and (iii'). ",
+        "page_idx": 11
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { \\xi , n } \\subseteq \\bigcap _ { k = 1 } ^ { + \\infty } T ^ { k } \\subseteq \\bigcap _ { k = 1 } ^ { + \\infty } S ^ { \\xi - { \\frac { 1 } { k } } , n } = S ^ { \\xi , n } .\n$$",
+        "text_format": "latex",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "So by affirmation $\\left( \\mathrm { i } ^ { \\prime } \\right)$ and (9), $\\begin{array} { r } { S ^ { \\xi , n } = \\bigcap _ { k = 1 } ^ { + \\infty } T ^ { k } } \\end{array}$ is measurable. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Step (III) $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Since that $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) \\ = \\ \\operatorname* { m a x } \\{ H ^ { * } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) , H ^ { * } ( [ v ] _ { \\alpha } , [ u ] _ { \\alpha } ) \\}$ ，then the desired result follows immediately from the fact that both $H ^ { \\ast } ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ and $H ^ { \\ast } ( [ v ] _ { \\alpha } , [ u ] _ { \\alpha } )$ are measurable functions of $\\alpha$ on $[ 0 , 1 ]$ , which is proved in steps (I) and (II). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Remark 4.2. Theorem 4.1 is an improvement of Proposition 2.7. Since a singleton set is a compact set，Theorem 4.1 is also an improvement of Proposition 2.1. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Obviously, if $\\xi \\le 0$ ，then $S _ { \\xi } = S ^ { \\xi } = [ 0 , 1 ]$ and $\\begin{array} { l } { { S _ { \\xi , n } = S ^ { \\xi , n } = [ \\frac { 1 } { n } , 1 ] } } \\end{array}$ （ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Let $( X , d _ { X } )$ be a metric subspace of $( Y , d _ { Y } )$ .To distinguish from the closure of $S$ in $( X , d _ { X } )$ ， we use $\\overline { { S } } ^ { Y }$ to denote the closure of $S$ in $( Y , d _ { Y } )$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For $u \\in F _ { U S C } ^ { 1 } ( X )$ ,define $u ^ { Y } \\in F _ { U S C } ^ { 1 } ( Y )$ as ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ u ^ { Y } ] _ { \\alpha } = \\cap _ { \\beta < \\alpha } \\overline { { [ u ] _ { \\beta } } } ^ { Y } \\mathrm { ~ f o r ~ } \\alpha \\in ( 0 , 1 ] .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Note that $[ u ^ { Y } ] _ { \\alpha } = \\cap _ { \\beta < \\alpha } [ u ^ { Y } ] _ { \\beta }$ for all $\\alpha \\in ( 0 , 1 ]$ , then by Theorem 2.9, $u ^ { Y }$ is well-defined. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For each $u \\in F _ { U S C } ^ { 1 } ( X )$ ， define",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( u ) ^ { Y } : = \\{ \\alpha \\in ( 0 , 1 ] : [ u ^ { Y } ] _ { \\alpha } \\underset { \\neq } { \\supset } \\overline { { \\tau u } } _ { \\alpha } ^ { Y } \\} .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If there is no confusion, we will write $\\Gamma ( u ) ^ { Y }$ as $\\Gamma ( u )$ for simplicity. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We use $H$ to denote the Hausdorff metric on $C ( X )$ induced by $d _ { X }$ ，and we also use $H$ to denote the Hausdorff metric on $C ( Y )$ induced by $d _ { Y }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We will use the following Theorem 4.3 to improve Theorem 4.1 and Propo sition 2.2. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Theorem 4.3. Let $( X , d _ { X } )$ be a metric subspace of $( Y , d _ { Y } )$ and let $u , v \\in$ $F _ { U S C } ^ { 1 } ( X )$ . Then..   \n(i） $[ u ^ { Y } ] _ { \\alpha } \\supseteq \\overline { { [ u ] _ { \\alpha } } } ^ { Y }$ for all $\\alpha \\in ( 0 , 1 ]$ ，and $[ u ^ { Y } ] _ { 0 } = \\overline { { [ u ] _ { 0 } } } ^ { Y }$   \n(ii) For each $\\alpha \\in [ 0 , 1 ] \\setminus ( \\Gamma ( u ) \\cup \\Gamma ( v ) )$ ， ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( [ u ^ { Y } ] _ { \\alpha } , [ v ^ { Y } ] _ { \\alpha } ) = H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(iii) The cardinality of $\\Gamma ( u )$ is less than the cardinality of $Y \\setminus X$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Proof.(i) follows from the definition of $u ^ { Y }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From (i) and the definition of $\\Gamma ( u )$ , for each $\\alpha \\in [ 0 , 1 ] \\setminus ( \\Gamma ( u ) \\cup \\Gamma ( v ) )$ （2 ",
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ( [ u ^ { Y } ] _ { \\alpha } , [ v ^ { Y } ] _ { \\alpha } ) = H ( \\overline { { [ u ] _ { \\alpha } } } ^ { Y } , \\overline { { [ v ] _ { \\alpha } } } ^ { Y } ) = H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "and thus (ii) is proved. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To show that (iii) is true, it suffices to construct an injection $j : \\Gamma ( u ) $ $Y \\setminus X$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Let $\\gamma \\in \\Gamma ( u )$ . Then there is an $x _ { \\gamma } \\in Y$ such that $x _ { \\gamma } \\in [ u ^ { Y } ] _ { \\gamma } \\setminus \\overline { { [ u ] _ { \\gamma } } } ^ { Y }$ Define $j ( \\gamma ) = x _ { \\gamma }$ for each $\\gamma \\in \\Gamma ( u )$ . Since $x _ { \\gamma } \\notin [ u ] _ { \\gamma } = \\cap _ { \\beta < \\gamma } [ u ] _ { \\beta }$ , there is a （204号 $\\beta < \\gamma$ such that $x _ { \\gamma } \\notin [ u ] _ { \\beta }$ . On the other hand, since $x _ { \\gamma } \\in [ u ^ { Y } ] _ { \\gamma }$ ，we have $x _ { \\gamma } \\in \\overline { { [ u ] _ { \\beta } } } ^ { Y }$ . Thus $x _ { \\gamma } \\in Y \\setminus X$ . Hence $j$ is an function from $\\Gamma ( u )$ to $Y \\setminus X$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Let $\\xi , \\eta \\in \\Gamma ( u )$ with $\\xi < \\eta$ . Since $x _ { \\xi } \\notin \\overline { { [ u ] _ { \\xi } } } ^ { Y }$ , then $x _ { \\xi } \\notin [ u ^ { Y } ] _ { \\lambda }$ when $\\lambda > \\xi$ Hence $x _ { \\xi } \\notin [ u ^ { Y } ] _ { \\eta }$ . Notice that $x _ { \\eta } \\in [ u ^ { Y } ] _ { \\eta }$ ,and therefore $x _ { \\xi } \\neq x _ { \\eta }$ . Thus $j$ is an injection. So (iii) is proved. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Corollary 4.4. Let $( X , d _ { X } )$ be a metric subspace of $( Y , d _ { Y } )$ and $Y \\setminus X$ an at most countable set. Then for $u , v \\in F _ { U S C } ^ { 1 } ( X )$ ， $H ( [ u ^ { Y } ] _ { \\alpha } , [ v ^ { Y } ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ is equivalent to $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Proof. By (ii), (ii) of Theorem 4.3, we have that $H ( [ u ^ { Y } ] _ { \\alpha } , [ v ^ { Y } ] _ { \\alpha } ) = H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ on $[ 0 , 1 ]$ except at most countable $\\alpha \\in [ 0 , 1 ]$ . Thus we obtain the desired result. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Let $S \\subseteq \\mathbb { R } ^ { m }$ . We see $\\mathbb { R } ^ { m } \\backslash S$ as a metric subspace of $\\mathbb { R } ^ { m }$ ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Corollary 4.5. Let $S$ be an at most countable subset of $\\mathbb { R } ^ { m }$ .For $u , v \\in$ $F _ { U S C } ^ { 1 } ( \\mathbb { R } ^ { m } \\setminus S )$ ， $H ( \\left[ u \\right] _ { \\alpha } , \\left[ v \\right] _ { \\alpha } )$ is a measurable function of $\\alpha$ om $[ 0 , 1 ]$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Proof. The desired result follows from Proposition 2.2 and Corollary 4.4. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Corollary 4.6. Let $( X , d _ { X } )$ be a metric subspace of $( Y , d _ { Y } )$ and $Y \\setminus X$ an at most countable set. Let $u , v \\in F _ { U S C } ^ { 1 } ( X )$ 1f $u ^ { Y } \\in F _ { U S C G } ^ { 1 } ( Y )$ ，then $H ( [ u ] _ { \\alpha } , [ v ] _ { \\alpha } )$ is a measurable function of $\\alpha$ on $[ 0 , 1 ]$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Proof. The desired result follows from Theorem 4.1 and Corollary 4.4. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Remark 4.7. Clearly, if $u \\in F _ { U S C G } ^ { 1 } ( X )$ ， then $[ \\boldsymbol { u } ] _ { \\alpha } = [ \\boldsymbol { u } ^ { Y } ] _ { \\alpha }$ for $\\alpha \\in ( 0 , 1 ]$ and thus $u ^ { Y } \\in F _ { U S C G } ^ { 1 } ( Y )$ . So Corollary 4.6 is an improvement of Theorem 4.1. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Corollary 4.5 is an improvement of Proposition 2.2. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Theorem 4.1 is the special case of Corollary 4.6 when $Y = X$ . Proposition 2.2 is the special case of Corollary 4.5 when $S = \\emptyset$ ： ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In essence, contents including Theorem 4.3, Corollaries 4.4 and 4.5 have already been proved in chinaXiv:202108.00116v1, which is a previous version of this paper. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] H.Huang, Some properties of Skorokhod metric on fuzzy sets, Fuzzy Sets and Systems, https://doi.org/10.1016/j.fss.2021.04.004   \n[2] P. Diamond, P. Kloeden, Metric Spaces of Fuzzy Sets, World Scientific, Singapore, 1994   \n[3] H. Huang， Relation of several metrics on fuzzy sets， https://arxiv.0rg/abs/1904.07489v2   \n[4] Huan Huang (2O21） Properties of several fuzzy set spaces. [ChinaXiv:202107.00011v3]   \n[5] Huan Huang (2O21） Properties of several fuzzy set spaces. [ChinaXiv:202107.00011v4]   \n[6] H.Huang,Measurability of functions induced from fuzzy sets,submit to the preprint of National Science and Technology Library on 2021.05.28 ",
+        "page_idx": 14
+    }
+]

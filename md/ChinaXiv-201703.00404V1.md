@@ -1,0 +1,280 @@
+# DOI:10.5846/stxb201509281977
+
+穆少杰，游永亮，朱超,周可新.中国西北部草地植被降水利用效率的时空格局.生态学报,2017,37(5);1458-1471.MuSJ,YouYZoKSalaefdicac2017,37(5) :1458-1471.
+
+# 中国西北部草地植被降水利用效率的时空格局
+
+穆少杰¹，游永亮²，朱 超，周可新1,
+
+1环境保护部南京环境科学研究所，南京210042  
+2 河北省农林科学院旱作农业研究所，衡水053000
+
+摘要:植被降水利用效率(PUE)是评价干旱、半干旱地区植被生产力对降水量时空动态响应特征的重要指标。利用光能利用率CASA（Carmegie-Ames-Stanford Approach)模型估算了 2001—2010年中国西北七省草地植被净初级生产力（NPP）,结合降水量的空间插值数据,分析了近十年草地植被 PUE 的空间分布、主要植被类型的PUE,及其时空格局的驱动因素。结果表明：（1)2001—2010 年西北七省草地植被的平均PUE 为 $0 . 6 8 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 }$ 。在温带草地各类型中,PUE 的大小顺序为草甸草原 $\mathrm { . } >$ 灌丛>典型草原 $>$ 荒漠草原 $>$ 荒漠,各类型草地PUE之间差异显著;对于高寒草地而言,高寒草原的PUE 显著高于高寒草甸；(2)温带草地 PUE 的空间分布与年降水量的关系呈抛物线形状( $R ^ { 2 } = 0 . 6 5$ ， $P { < } 0 . 0 0 1$ ),PUE 峰值出现在年降水量 $P { = } 4 7 2 . 9 ~ \mathrm { m m }$ 的地区;荒漠地区植被PUE的空间分布与年降水量的关系同样呈抛物线形状( $R ^ { 2 } = 0 . 6 3$ ， $P { < } 0 . 0 0 1$ ),PUE峰值出现在年降水量 $P = 2 6 3 . 2$ mm 的地区；对于高寒草地而言，年降水量 $1 0 0 ~ \mathrm { m m }$ 以下地区植被PUE变异较大，年降水量大于 $1 0 0 ~ \mathrm { m m }$ 的地区植被PUE的空间分布随降水量的变化呈抛物线形状( $R ^ { 2 } = 0 . 4 7$ ， $P { < } 0 . 0 0 1$ ),PUE峰值出现在 $P = 5 5 9 . 2 ~ \mathrm { m m }$ 的地区；(3)不同降水量区域,植被PUE的年际波动与气候因子的关系也有较大差别。在年降水量为 $2 0 0 { \mathrm { - } } 1 0 0 0 \ \mathrm { m m }$ 的地区，草地PUE的年际波动与年降水量的变化呈正相关;在年降水量高于 $1 0 5 0 ~ \mathrm { m m }$ 的地区,草地PUE的年际波动与年均温的相关性较强,相关系数最高可达到0.4。
+
+关键词：降水利用效率；植被覆盖度；温带草地；高寒草地；概念模型
+
+# Spatio-temporal patterns of precipitation-use efficiency of grassland in Northwestern China
+
+MU Shaojie'，YOU Yongliang²，ZHU Chao’，ZHOU Kexin1,\* 1Nanjing Instituteof Environmental Sciences，Ministryof EnvironmentalProtection，Nanjing 21Oo42,China 2DryFarming Institute，Hebei Academy of Agricultural and Forestry Sciences，Hengshui O530oo,China
+
+Abstract：Precipitation-use eficiency（PUE）isan important indicatorused todetermine hownet primary productivity (NPP）responds tovariation inprecipitation，especiall inaridandsemi-arid ecosystems.Theobjectiveof this studywasto determine thespatio-temporal pattrns of PUEand itsresponse to climatic factorsalong the precipitationgradient.The Carmegie-Ames-Stanford Approach（CASA）model was employed to simulateNPPin Inner Mongolia during 2001—2010 based on MOD13Al dataand spatially interpolated meteorological data.PUE wascalculatedas theratioof NPP toannual precipitation.The results showed that:（1） The multi-year average PUE of grassland in Northwestern China was $0 . 6 8 \mathrm { ~ g ~ C ~ }$ （204号 （20 $\mathbf { m } ^ { - 2 } \mathbf { m } \mathbf { m } ^ { - 1 }$ . Among various type of temperate grassand，meadow steppe had the highest PUE，whereas the lowest PUE was found fordesert.Furthermore,there were significantdiferencesbetweenthePUEofdiferent grassand types.Forthealpine grasland，alpine steppehadahigherPUE thanalpine meadow.（2）Spatiall,thePUEof temperate grasland ncreased first，peaking at $\sim 4 7 2 . 9 \ \mathrm { m m / a }$ ，and then decreased with the precipitation gradient ( $R ^ { 2 } = 0 . 6 5$ ， $P { < } 0 . 0 0 1$ ). The relationship between desert PUE and precipitation followed a similar trend ( $R ^ { 2 } = 0 . 6 3$ ， $P { < } 0 . 0 0 1$ ）,in which the highest PUE was found in the regions with annual precipitation of $2 6 3 . 2 \ \mathrm { m m }$ . For the alpine meadow，PUE was low at both the dry ( $\mathrm { > 1 0 0 ~ m m }$ ） and the wet ends of the annual precipitation gradient，and peaked around $5 5 9 . 2 \ \mathrm { m m }$ ( $R ^ { 2 } = 0 . 4 7$ ， $P { < } 0 . 0 0 1$ ). (3) Temporally，theinter-annual variationofPUEalsorespondeddiferentlytoclimaticfactors indiferentprecipitationranges. In the area with precipitation of $2 0 0 { \mathrm { - } } 1 0 0 0 \ \mathrm { m m }$ ，PUE was positively correlated with precipitation. For the regions where precipitation was higher than $1 0 5 0 ~ \mathrm { \ m m }$ ，temperature had much greater effects than precipitation on the inter-annual variations of PUE.
+
+Key Words:precipitation-use ffciency（PUE），fraction ofvegetationcover（FVC），temperate grassland，alpinegrassland，conceptual model
+
+对于陆地生态系统而言,降水通常是控制生态系统结构与功能动态变化、影响生物多样性的关键因素[1-2]。对于占陆地面积 $45 \%$ 的干旱、半干旱地区而言,降水的作用体现的尤为明显[3]。以往对于全球不同地区生态系统的研究表明,植被的净初级生产力（NPP)与年降水量呈正相关关系[2-7]。降水利用效率（PUE）,被定义为植被 NPP与年降水量的比值,体现了植被利用水分将营养物质转化为生物量的能力[8-9]。PUE 能够反映植被光合作用同化过程与水分消耗特性之间的关系,是在区域尺度上分析和评价植被生产能力对降水量时空变化响应特征的重要指标[3.10]。研究区域尺度下植被 PUE 随气象因子梯度的时空变化特征,也有助于进一步理解气候变化对于生态系统的影响作用[3.6,11]。
+
+目前,对于植被PUE 随降水量梯度变化的研究主要集中在两个方面;在空间上研究不同区域植被的多年平均PUE 随降水量梯度的区域间差异;在时间上研究同一区域植被不同年份间PUE 随降水量波动的差异。然而,由于不同研究所选取的时间尺度和空间尺度的差异,得到的结论也并不一致。首先,在空间上,不同区域因降水量的差异导致的PUE 梯度变化。Le Houerou[8研究认为,在空间上随着干旱程度和潜在蒸散的增加,降水变率与无效降水的百分比随之增加,而植被PUE有降低的趋势。事实上,因生物地球化学因素和植被自身群落结构的差异,不同区域、不同类型植被的 PUE 对降水量变化的响应存在较大差异[3,12]。Huxman等[6]对于南、北美洲9个生物群系的研究认为,随着年降水量依荒漠—草原—森林逐渐升高,植被 PUE 呈降低趋势。Paruelo等[7]基于对全球11个温带草地生态系统的研究认为,沿 $2 0 0 { \mathrm { - } } 1 2 0 0 ~ \mathrm { m m }$ 的降水梯度,PUE呈先上升后下降的趋势，且在降水量为 $4 7 5 \ \mathrm { m m / a }$ 的地区达到峰值。其次，在时间上，同一地区年际间降水量的波动导致的PUE动态变化。通常认为,对某一特定的生态系统而言,随年际间降水量的增加,PUE呈下降趋势[7,13]。如 Huxman 等[6]对于南、北美洲9个生物群系的研究认为,在最干旱的年份中,所有生物群系的 PUE趋向于一个相同的峰值。Bai等[3]对于降水梯度下内蒙古草地21个实测点的研究也认为不同草地群落的PUE 在最干旱的年份中趋向于一个相同的峰值,而在最湿润的年份中趋向于一个相同的谷值。但 $\mathrm { H u }$ 等[10]对于中国 $4 5 0 0 ~ \mathrm { k m }$ 草地样带的研究则认为,草地PUE 的年际间波动并不存在上述研究提到的峰值和谷值,且在23 个实测站点中只有2个站点的PUE 年际波动同降水量呈负相关。此外,Yan等[14]对于美国大平原草地的研究则认为,PUE 随降水量的年际波动呈单峰曲线,即在相对干旱年份、湿润年份植被的PUE 较低,而在年降水相对适中的年份达到峰值。
+
+草地是我国分布最广泛的陆地生态系统,其面积约占国土面积的 $4 0 \%$ [10]。草地生态系统是我国重要的农牧业生产基地，人类活动强度大，且大部分植被处于干旱、半干旱地区,生态环境脆弱,是对全球气候变化最为敏感的区域之一[15]。降水作为草地生态系统功能最主要的限制因子,无论在时间上还是空间上,均在很大程度上决定了生态系统功能及其变异性[3]。以往研究者对于我国西部地区草地PUE 的研究多是基于实测数据。Bai等[3]基于内蒙古21个站点的实测数据(各站点时间跨度为7—24a),认为PUE 的空间分布随降水量的增加而增加，而其年际波动则与降水量呈负相关关系。 $\mathrm { H u }$ 等[1°通过文献搜集结合实测得到了中国西北部 $4 5 0 0 \mathrm { k m }$ 草地样带上580个站点的PUE数据,发现植被PUE 的空间分布随降水量的增加呈先升高后降低的趋势。Yang等[16]基于2001—2004 年青藏高原135个实测站点的研究也得到相似结论。Li等[17]基于中国科学院海北试验站30年的实测数据,研究了单个站点上青藏高原草地PUE的年际波动及其与气候因素的相关性,认为PUE的空间分布和年际波动均随年降水量的增加而下降。由此可见,由于实测数据的缺乏,上述研究在时间尺度和空间尺度的选取上均受到了限制,使得研究的结果相差较大。此外,实测站点的草地样地选择是否具有代表性,能否反映某一类或某一区域草地植被的整体状况,也成为影响研究结果的重要因素。因此,基于区域尺度的草地植被PUE 时空格局及其驱动因素的研究尚需进一步完善。
+
+近年来,遥感影像数据和生态模型的广泛应用,为从较大的降雨量区间上探讨长时间序列下草地植被的时空格局及其动态变化提供了一种有效的手段。而中高分辨率遥感影像（如 MODIS、SPOT、TM/ETM等)的使用,也能使植被状况在像元尺度上得到反映,从而更加全面且具有代表性。基于此,本研究利用CASA（Carnegie-Ames- Stanford Approach)模型,结合遥感影像数据和气象数据,估算了2001—2010年中国西北7省(新疆、西藏、内蒙古、甘肃、宁夏、青海、四川)地区植被的PUE,从区域尺度探讨和分析该地区植被 PUE 的时空格局及其气候影响模式,这将有助于加深对干旱、半干旱地区植被生产力形成过程的认识,并为全球气候变化对生态系统碳、水循环的影响提供判断依据。
+
+# 1研究方法
+
+# 1.1 PUE的计算
+
+根据研究目的和获取数据手段的差异,不同研究的PUE计算方法也不同。根据概念,PUE为年净初级生产力（NPP)与年降水量(PPT)的比值：
+
+$$
+\mathrm { P U E } { = } \frac { \mathrm { N P P } } { \mathrm { P P T } }
+$$
+
+在基于地面实测数据的研究中,研究者普遍采用植被地上净初级生产力（ANPP）代替 NPP来计算PUE[3,10],其中所隐含的假设为 ANPP 与 NPP 之间存在固定的比例关系；Lo Seen 等[18]研究指出：干旱、半干旱地区生态系统的 NPP 与归一化植被指数(NDVI)呈显著的线性相关关系,所以在利用遥感影像数据研究这些地区PUE 的空间变异特征时,研究者常采用年 NDVI总和( $\sum \mathrm { N D V I }$ )代替 NPP来计算PUE[19]。本研究采用基于光能利用率CASA模型的NPP模拟结果来计算PUE,年降水量PPT采用气象台站数据空间插值结果。
+
+# 1.2 NPP估算模型
+
+CASA 模型是由遥感、气象、植被以及土壤类型数据共同驱动的光能利用率模型,模型通过遥感数据中提取的植被指数来估算太阳辐射中被植被吸收的光合有效辐射（APAR),结合植被对于到达地表的光合有效辐射的利用效率 $( \varepsilon )$ 来估算植被 NPP,其估算公式如下：
+
+$$
+\mathrm { N P P } ( x , t ) = \mathrm { A P A R } ( x , t ) \times \varepsilon ( x , t )
+$$
+
+式中， $\mathrm { A P A R } ( x , t )$ 表示像元 $x$ 在 $\mathbf { \chi } _ { t }$ 月份吸收的光合有效辐射， $\boldsymbol { \varepsilon } ( \boldsymbol { x } , t )$ 表示像元 $x$ 在 $\mathbf { \chi } _ { t }$ 月份的实际光能利用率。光合有效辐射(PAR)是植被进行光合作用的动力,植被吸收的光合有效辐射(APAR)取决于太阳总辐射和植被对光合有效辐射的吸收比例,用公式(3)计算：
+
+$$
+\mathrm { A P A R } ( x , t ) \ = \mathrm { S O L } ( x , t ) \ \times \mathrm { F P A R } ( x , t ) \ \times \ 0 . 5
+$$
+
+式中，SOL $( x , t )$ 表示像元 $x$ 在 $\mathbf { \chi } _ { t }$ 月份的太阳总辐射量 $\mathrm { ( M J / m } ^ { 2 }$ )；常数0.5表示植被所能利用的太阳有效辐射（ $4 0 0 { \ - } { \ - } 7 0 0 \ \mathrm { n m }$ )占太阳总辐射的比例； $\mathrm { F P A R } \left( x , t \right)$ 表示植被层对入射的光合有效辐射的吸收比例,主要由地表植被覆盖类型和覆盖程度的影响,在一定范围内 FPAR与 NDVI、SR 比值植被指数(simple ratio)存在较好的线性关系，因而可以通过MOD13A1产品提取NDVI对FPAR 进行估算。
+
+光能利用率是指植被把所吸收的光合有效辐射(PAR)转化为有机碳的效率,它主要受温度和水分的影响,用公式(4)计算：
+
+http://www.ecologica.cn
+
+$$
+\varepsilon ( x , t ) \ = T _ { \varepsilon 1 } ( x , t ) \ \times T _ { \varepsilon 2 } ( x , t ) \ \times W _ { \varepsilon } ( x , t ) \ \times \varepsilon _ { \mathrm { m a x } }
+$$
+
+式中， $T _ { \varepsilon 1 } ( x , t )$ 和 $T _ { \varepsilon 2 } ( x , t )$ 表示温度对光能转化率的影响， $W _ { \varepsilon } ( x , t )$ 表示水分条件对光能转化率的影响， $\varepsilon _ { \mathrm { m a x } }$ 表示在理想状态下植被的最大光能利用率,其取值因植被类型不同而有较大差别。由于 $\varepsilon _ { \mathrm { m a x } }$ 对 NPP的估算结果影响很大,人们对它的大小一直存在争议,取值范围从0.09到2.16。传统的CASA模型中所使用的全球植被月最大光能利用率为 $0 . 3 8 9 \mathrm { ~ g ~ C / M J }$ ,在实际应用中,许多研究者常根据研究区具体植被类型对这一取值进行修正。朱文泉等[20]根据误差最小的原则,利用中国的 NPP 实测数据,模拟各植被类型的最大光能利用率。该研究成果在利用CASA 模型估算中国地区的 NPP 时得到广泛应用,龙慧灵等[21]在估算内蒙古草地 NPP 时也采用这一取值,本文对 $\varepsilon \mathrm { m a x }$ 的取值也参照这一成果,各植被类型取值分别为：落叶针叶林 $0 . 4 8 5 \mathrm { ~ g ~ C / M J }$ ，常绿针叶林 $0 . 3 8 9 \mathrm { ~ g ~ C / M J }$ ,落叶阔叶林 $0 . 6 9 2 \mathrm { ~ g ~ C / M J }$ ,常绿阔叶林 $0 . 9 8 5 \mathrm { ~ g ~ C / M J }$ ,针阔混交林 $0 . 4 7 5 _ { \mathrm { ~ g ~ C ~ } } / \mathrm { M J }$ ，常绿、落叶阔叶混交林 $0 . 7 6 8 \mathrm { ~ g ~ C / M J }$ ,灌丛 $0 . 4 2 9 \mathrm { ~ g ~ C / M J }$ ,草地、耕地及其他 $0 . 5 4 2 \mathrm { ~ g ~ C / M J }$ 。
+
+# 1.3植被覆盖度的计算
+
+植被覆盖度和NDVI之间存在极显著的线性相关关系,通常通过建立二者之间的转换关系,直接提取植被覆盖度信息。采用像元二分模型估算植被覆盖度,假设每个像元的 NDVI值可以由植被和土壤两部分合成,则 NDVI的计算公式如下：
+
+$$
+\mathrm { N D V I { = } N D V I _ { \mathrm { v } } F V C { + } N D V I _ { \mathrm { s } } \left( 1 { - } F V C \right) }
+$$
+
+式中,NDVI为植被覆盖部分的 NDVI值,NDVI,为土壤部分的 NDVI值,FVC 为植被覆盖度。根据公式（5）,FVC 的计算公式如下：
+
+$$
+\mathrm { F V C = \frac { N D V I - N D V I _ { s } } { N D V I _ { v } - N D V I _ { s } } }
+$$
+
+本研究在实际计算过程中,分别用生长季内植被 NDVI的最大值和最小值代替 NDVI和 NDVI,则植被覆盖度公式如下：
+
+$$
+\mathrm { F V C } = \frac { \mathrm { N D V I - N D V I _ { \mathrm { m i n } } } } { \mathrm { N D V I _ { \mathrm { m a x } } - N D V I _ { \mathrm { m i n } } } }
+$$
+
+式中， $\mathrm { \Delta N D V I _ { \mathrm { { m a x } } } }$ 和 $\mathrm { \Delta N D V I _ { \mathrm { { m i n } } } }$ 分别为整个生长季植被NDVI的最大值和最小值。
+
+1.4数据获取及预处理
+
+NDVI数据来源于美国国家航空航天局（NASA）的 EOS/MODIS 数据（htp://edcimswww.cr.usgs.gov/pub/imswelcome）,选择2001—2010年的 MOD13A1数据产品,时间分辨率为16d,空间分辨率为 $5 0 0 ~ \mathrm { m } \times 5 0 0$ m。使用 MRT（MODIS Reprojection Tools)将下载的 MODIS-NDVI数据进行格式转换和重投影,把HDF 格式转换为 Tiff格式,并将 SIN 地图投影转换为WGS84/Albers Equal Area Conic 投影,同时完成图像的空间拼接和重采样。采用最大合成法（MVC)将16d的MODIS-NDVI数据合成,得到月NDVI数据,并利用行政区划图剪取西北7省地区2001—2010年逐月NDVI的栅格图像。
+
+气象数据采用中国气象科学数据共享服务网(http://cdc.cma.gov.cn）提供的 2001—2010 年全国 722个标准气象站点的月平均气温和月降水量资料。根据各气象站点的经纬度信息,采用 ArcGIS的GeostatisticalAnalyst 模块对气象数据进行 Kriging 空间插值,获取与NDVI数据像元大小一致、投影相同的气象数据栅格图像。通过数据掩膜,剪取西北7省地区月平均气温和月降水量的栅格图像。
+
+土地利用覆盖数据来源于地球系统科学数据共享平台（htp://www.geodata.cn）提供的 2005 年中国1:25万土地覆盖图。该数据是基于2005年1:10万土地利用数据构建土地覆盖基本地图作为土地覆盖遥感制图的框架数据和控制基础，同时利用2005年 $2 5 0 ~ \mathrm { m } { \times } 2 5 0 \ \mathrm { m }$ 空间分辨率的MODIS数据，通过自动分类，获取林、草、水浇地等次级类型信息，支持在框架数据基础上的全数字作业，实现不同土地覆盖类型的属性划分与制图,并结合辅助资料、野外考察记录、遥感图像分析等进行全数字制图。数据内容包括森林、草地、农田、城镇、水体、荒漠等6个一级类型和25个二级类型。根据需要,本研究对农田、城镇、水体和荒漠类型中的二级类型进行合并,重分类后的土地利用覆盖图共包括8个类型（图1）。
+
+# 1.5 模型验证
+
+由于实测 NPP 难度比较大,往往采用生物量换算的 NPP 数据代替 NPP 实测数据进行模型验证。本文将2009 年7、8月份实测的内蒙古草地63个样地的生物量数据换算成草地植被地上、地下植被生产力,并将实测数据的空间位置与CASA模型的模拟结果一一对应,进行模型否认精度验证。采样点如图1所示,调查样方面积为 $1 \ \mathrm { m } { \times } 1 \ \mathrm { m }$ ,每处5个重复。齐地收割植物地上部分，在 $7 0 \ \%$ 的恒温烘箱内烘干至恒重后称取干质量。根据马文红等[22]对内蒙古草地地上和地下生物量分配比例的研究,取近似比为1:5.73,取碳转化率为0.475,得到实测的 $\mathrm { \Delta N P P }$ 。相关性分析的结果（图2)显示,NPP 实测值与CASA模型模拟值相关性较强( $R ^ { 2 } =$ 0.61, $P { < } 0 . 0 0 1$ . $n = 6 3$ ）,可以认为CASA 模型适于内蒙古草地植被 NPP 的估算。此外,CASA 模型近年来被广泛应用于估算不同地区植被的NPP,如羌塘高原[23」、甘南草地[24」藏北草地[25」、西南喀斯特地区[26]及南方丘陵山地[27],其在不同地区的模拟精度得到了广泛认可,因此可以认为CASA 模型的模拟精度适合中国西北部草地 NPP 的估算。
+
+![](images/81760eb4357c14939c4b255199e28cfd2843133bdd8a7acbb2f63b9139c8f2ee.jpg)  
+图1研究区草地类型划分图
+
+![](images/7e436e0182488c19fa09f74aa6a12d416bd4a0464c36257bf5bdfc8356cf50d1.jpg)  
+Fig.1Maps of land cover types of grassland   
+图2草地净初级生产力(NPP)模拟值与实测值的比较 Fig.2Comparisons between simulated and observed net primary productivity（NPP）of grassland
+
+# 2结果分析
+
+2.1中国主要草地植被PUE的空间格局
+
+研究区地域辽阔,跨越了半湿润区、半干旱区和干旱区3个气候区,盆地、高原、山地、平原等地形交错分布,导致该地区气候要素的分布具有明显的空间异质性(图3)。年降水量的空间分布呈由东南向西北递减的趋势,西藏念青唐古拉山以南地区及川西高原的年降水量较高,多为 $6 0 0 { \ - } { \ - } 8 0 0 \ \mathrm { m m }$ ,部分地区达到 $8 0 0 ~ \mathrm { m m }$ 以上;新疆塔里木盆地的年降水量较低，多为 $1 0 0 ~ \mathrm { { m m } }$ 以下。受地形及海拔高度的影响，年均温空间分布的纬度地带性不明显,青藏高原及内蒙古东北部呼伦贝尔高原的年均温较低,为-4— $0 \mathrm { { ^ { \circ } C } }$ ；四川盆地西缘、新疆塔里木盆地和吐鲁番盆地的年均温较高,多处于12— $1 5 \ \mathrm { { ^ circ C } }$ 范围。
+
+草地植被NPP 的空间分布与年降水量的空间分布规律较一致（图3）,总体上由东南向西北递减（除西北部新疆天山、阿尔泰山地区NPP较高),而PUE 的空间分布则较为破碎,不存在相应的空间变化规律（图3)。总体而言,2001—2010 年中国西北七省草地植被的平均PUE 为 $0 . 6 8 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 }$ 。内蒙古东北大兴安岭林区、阴山山脉中段、甘肃祁连山山脉东段、甘南自治州、新疆阿尔泰山、天山、昆仑山西段北坡地区植被PUE 较高,多数地区达到 $1 . 5 { - } 3 \mathrm { ~ g ~ C ~ m } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 }$ ;其次是内蒙古呼伦贝尔盟西部、锡林郭勒盟、乌兰察布盟、青藏川交界地区,草地植被 PUE 多处于 $0 . 5 { - } 1 . 5 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 }$ 之间;其他地区的PUE 较低,多处于 $0 . 5 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 }$ 以下。
+
+![](images/d30dbbd0677ab58893f0e3dcba0e95d7298ea404aa6e0504737acca65e509fdc.jpg)  
+图32001一2010 年西北七省草地年降水量、年均温、NPP和PUE 的空间格局
+
+Fig.3Spatialpatesofalpreciitationalmeantemperature,PandUEofteegetationinrthwesteseeproice during 2001—2010
+
+# 2.2不同草地类型植被PUE的差异
+
+如图4所示，2001—2010年我国主要草地类型PUE 的分布范围为0.42— $\cdot 1 . 5 9 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 }$ ,其中,草甸草原的 PUE 最高 $( 1 . 5 9 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } ,$ )，其次为灌丛0 $( 1 . 2 4 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } )$ ）、典型草原 $( 0 . 9 7 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } )$ ）、高寒草原 $( 0 . 8 4 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 }$ )和荒漠草原 $( 0 . 5 8 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ $\mathbf { m } \mathbf { m } ^ { - 1 }$ )，高寒草甸和荒漠植被的PUE较低 $( 0 . 4 6 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 }$ $\mathrm { m m } ^ { - 1 }$ 和 $0 . 4 2 \textrm { g C m } ^ { - 2 } \mathrm { m m } ^ { - 1 }$ ),二者之间无显著性差异。整体而言,温带草地的PUE( $0 . 9 6 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } .$ )高于高寒草地的PUE( $0 . 6 5 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } ,$ )。在温带草地各类型中，PUE的大小顺序为草甸草原 $\mathrm { . } >$ 灌丛 $>$ 典型草原>荒漠草原 $>$ 荒漠，各类型草地PUE之间差异显著。对于高寒草地的2个二级类型而言，高寒草原的PUE显著高于高寒草甸的PUE。
+
+# 2.3PUE的空间分布与气候因子的关系
+
+为了分析草地植被PUE的空间分布规律与降水量、温度的关系，本研究选取2001—2010年的平均PUE和年降水量数据,分别计算了温带草地、荒漠和高寒草地植被年降水量空间分布区间中每 $0 . 1 \ \mathrm { m m }$ 降水量区域内的平均PUE，得到PUE的空间分布随年降水量变化的关系图。
+
+![](images/fc11a424dc136c9d5c808bc14046223cb54824e00b60eac919b06643ee84231f.jpg)  
+图42001一2010 年西北七省不同草地类型的PUE（平均值 $\pm$ 标准误差)Fig.4PUE of grassland during2001—2010 for differentvegetation types ( $\mathrm { m e a n } \pm S E$ ）MS;草甸草原;TS;典型草原;DS：荒漠草原;S:灌丛;D:荒漠；AM;高寒草甸;AS;高寒草原( $\scriptstyle P < 0 . 0 5$ ）
+
+温带草地分布区的平均年降水量为 $2 7 1 . 5 \ \mathrm { m m }$ ,其中年降水量处于 $1 0 0 { - } 5 0 0 ~ \mathrm { m m }$ 区间的草地面积占温带草地总面积的 $7 6 . 3 \%$ 。如图5所示,温带草地PUE 的空间分布与年降水量的关系呈抛物线形状( $R ^ { 2 } = 0 . 6 5$ $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ ),在年降水量 $P { = } 4 7 2 . 9 ~ \mathrm { m m }$ 的地区,PUE为峰值。而在年降水量小于 $1 5 0 ~ \mathrm { m m }$ 的地区,PUE的空间分布随降水量的增加呈先升高后降低的趋势，其中 $\mathrm { P U E } > 1$ 的区域主要对应于新疆塔克拉玛干沙漠北缘的塔里木河沿岸以及沙漠南缘的昆仑山北坡草原。年降水量处于 $1 5 0 { - } 4 7 2 . 9 ~ \mathrm { m m }$ 区间的地区,年平均温度为5.0$\mathcal { \mathrm { C } }$ ,PUE的空间分布随降水量的增加显著升高( $R ^ { 2 } = 0 . 5 7$ ， $P { < } 0 . 0 0 1$ )；由以PUE为自变量，降水量 $( P )$ 和气温$( T )$ 为自变量所建立的一元二次方程( $\mathrm { P U E } = - 0 . 4 2 5 + 0 . 0 0 5 5 7 \times P + 0 . 0 0 3 6 8 \times T$ ， $R ^ { 2 } = 0 . 4 9$ ， $P { < } 0 . 0 0 5$ )可知，PUE的空间变化与降水量、气温呈显著相关关系,二者可解释PUE空间变化的 $4 9 \%$ ,其中降水量的贡献是温度的1.51倍。年降水量 $P > 4 7 2 . 9 ~ \mathrm { m m }$ 的地区空间上对应甘肃甘南和陇南地区、川西高原及青藏高原东南缘,年平均温度为 $8 . 5 ~ \mathrm { { ^ { \circ } C } }$ ,草地PUE 的空间分布随降水量的增加呈降低趋势。
+
+荒漠地区的平均降水量为 $1 5 4 . 2 \ \mathrm { m m }$ ,其中年降水量 $2 0 0 ~ \mathrm { { m m } }$ 以下地区面积占总面积的 $8 1 . 2 \%$ 。如图6所示,荒漠地区植被PUE 的空间分布与年降水量的关系同样呈抛物线形状( $R ^ { 2 } = 0 . 6 3$ ， $P { < } 0 . 0 0 1$ ）,PUE的峰值出现在年降水量 $P = 2 6 3 . 2 ~ \mathrm { m m }$ 的地区,这一值低于温带草地PUE 峰值的降水量区间( $P { = } 4 7 2 . 9 ~ \mathrm { m m }$ )。值得注意的是,在 $0 { - } 2 0 0 ~ \mathrm { m m }$ 降水量区间,植被PUE的空间分布随降水量的增加呈显著下降趋势( $R ^ { 2 } = 0 . 2 5$ ， $P <$ 0.001）。由PUE 和气候因子的回归方程可知（ $\mathrm { ' P U E } = 0 . 6 8 9 \mathrm { ~ - ~ } 0 . 0 0 1 4 1 \times P \mathrm { ~ - ~ } 0 . 0 1 4 6 \times T$ ， $R ^ { 2 } = 0 . 1 7$ ， $\scriptstyle P < 0 . 0 5 { \mathrm { ~ } }$ ），PUE 随降水量、气温的升高显著下降,且与气温的负相关性更强。
+
+![](images/0e9c0d00feccac6d47da45ff38323b63ab2fe55ec995601f307d4937b8fdaeec.jpg)  
+图5温带草原PUE随年降水量的变化模式及不同降水量区的空间分布  
+Fig.5PaternofchangesinPUEwithprecipitationandthespatialdistrbutionofareaswithdiferentprecipitationrangesin temperategrassland
+
+高寒草地分布区的平均降水量为 $3 6 6 . 1 \ \mathrm { m m }$ ,年平均气温较低，为 $2 . 9 ~ \mathrm { ^ { 9 ~ C } }$ 。年降水量 $1 0 0 ~ \mathrm { m m }$ 以下地区植被 PUE 变异较大,出现极值;PUE 波动范围为 $0 . 3 6 { - } 2 . 5 7 \textrm { g C m } ^ { - 2 } \ \mathrm { m m } ^ { - 1 }$ ,平均值为 $0 . 9 3 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 }$ ,其中PUE大于 $1 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 }$ 的植被面积占该地区面积的 $3 3 . 2 \%$ ;年降水量大于 $1 0 0 ~ \mathrm { m m }$ 的地区空间上对应青藏高原和川西高原的高寒草地,总体而言植被PUE 的空间分布随降水量的变化呈抛物线形状( $R ^ { 2 } = 0 . 4 7$ ， $P <$ 0.001）,PUE 峰值出现在 $P { = } 5 5 9 . 2 ~ \mathrm { m m }$ 的地区。其中,降水量为 $2 0 0 { \ - } 5 2 5 \ \mathrm { m m }$ 的区域主要位于青藏高原腹地，占高寒草地总面积的 $6 4 . 5 \%$ ,年平均气温仅 $1 . 9 ~ \mathrm { { ^ { \circ } C } }$ 。该区域PUE的空间分布随年降水量的增加显著升高（ $R ^ { 2 } = 0 . 6 1$ ， $P { < } 0 . 0 0 1$ ），变化速率约为降水量每增加 $1 0 0 ~ \mathrm { m m }$ ,PUE升高 $0 . 1 3 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 }$ 。分析表明,PUE 随气温和降水量的增加而升高,二元一次线性关系为极显著 $\mathrm { ' P U E } = - 0 . 4 2 3 + 0 . 0 0 5 1 6 \times P + 0 . 0 0 4 5 7 \times T$ ： $R ^ { 2 } = 0 . 7 5 3$ ，$P { < } 0 . 0 0 1$ ),由标准化回归系数可知,该区域以降水量的影响为主导,但气温的作用与之相当,降水量和气温能够解释PUE空间变化的 $7 5 . 3 \%$ 。年降水量大于 $5 2 5 ~ \mathrm { m m }$ 的地区，PUE空间变化随降水量的增加呈降低趋势，但在年降水量大于 $9 5 0 ~ \mathrm { m m }$ 的地区出现反弹。
+
+http://www.ecologica.cn
+
+![](images/02a02320aa5648d455a4f7e6c8842ee68844812025d52ea327156426eeaf0b77.jpg)  
+图6荒漠草原PUE随年降水量的变化模式及不同降水量区的空间分布
+
+Fig.6 Paternof changesin PUEwith precipitationandthespatial distributionofareaswith diferentprecipitationrangesin desert grassland
+
+![](images/9f25aed67a2739310e016d3842b6afcf3e330a80840d556471658523f55627a5.jpg)  
+图7高寒草原PUE 随年降水量的变化模式及不同降水量区的空间分布  
+Fig.7 Paternof changes in PUEwithprecipitationand thespatial distributionofareaswith diferentprecipitationrangesin alpine grassland
+
+# 2.4PUE的年际波动与气候因子的关系
+
+如图8所示,2001—2010 年中国西北7省3种类型草地PUE 的年际波动较大。温带草地PUE 的波动范围为 $0 . 9 7 { - } 1 . 2 2 \textrm { g C m } ^ { - 2 } \mathrm { m m } ^ { - 1 }$ ,其中 2006 年和 2009 年PUE 分别高出多年平均值的 $8 . 8 \%$ 和 $6 . 2 \%$ ,2003年和2010 年PUE分别低于多年平均值的 $1 3 . 7 \%$ 和 $1 1 . 9 \%$ 。荒漠植被 PUE 的波动范围为 $0 . 3 6 { - } 0 . 5 5 \mathrm { ~ g ~ C ~ m } ^ { - 2 }$ （204$\mathrm { m m } ^ { - 1 }$ ,2001、2004和2009 年PUE分别高出多年平均值的 $2 2 . 5 \% . 2 0 . 9 \%$ 和 $1 3 . 3 \%$ ,2005、2010、2003 和 2002 年PUE 分别低于多年平均值的 $2 1 . 2 \% . 1 3 . 1 \% . 1 1 . 8 \%$ 和 $1 0 . 1 \%$ 。高寒草地PUE 的波动范围为0.57— $0 . 7 6 \mathrm { ~ g ~ C ~ }$ $\mathbf { m } ^ { - 2 } \mathbf { m } \mathbf { m } ^ { - 1 }$ ,其中2006 年和2009 年PUE分别高出多年平均值的 $1 4 . 2 \%$ 和 $1 0 . 6 \%$ ,2003 年和2008 年PUE分别低于多年平均值的 $1 4 . 9 \%$ 和 $1 1 . 6 \%$ 。
+
+以年为时间单位，分别计算各像元2001—2010年PUE 与年降水量和年平均气温的相关系数,以分析PUE的年际波动对气候因子的响应。总体而言,草地植被PUE的年际波动与年降水量的相关系数空间差异较大,广泛分布于-0.7—0.7区间,而其与年均温的相关系数空间分布均一,多处于-0.2—0.2 区间,这表明草地植被PUE的年际波动对年降水量变化的响应更加敏感。从地理分布情况来看（图9），草地植被PUE的年际波动与年降水量的相关系数最高的区域为青藏高原东南部及川西高原南部，相关系数多在0.6以上，其次为青海省西南部玉树和海南藏族自治州、新疆准噶尔盆地及以北地区、内蒙古中部锡林郭勒盟北部、鄂尔多斯、科尔沁沙地及呼伦贝尔盟西部地区，相关系数多在0.45一0.6区间，而负相关性最强的地区位于塔里木盆地西南部、藏北高原、柴达木盆地西北部、河西走廊及内蒙古阿拉善盟西部地区，相关系数多在-0.3以下。草地植被PUE的年际波动与年均温的相关系数较高的区域为青藏高原东南部及川西高原南部、内蒙古浑善达克沙地及新疆天山山脉以北地区，相关系数为0.4—0.6,其余大部分地区相关系数在-0.2—0.2区间。
+
+![](images/e3dbf4602ab4b9f548d473fd190f4ab3e1caea96a9ff9a1a8931da5edae7913e.jpg)  
+图82001—2010年西北7省草地植被PUE的年际变化 Fig.8Inter-annual changes of PUE of grassland vegetation in the northwest seven province during 2oo1—2010
+
+![](images/b188f1d1b6d854c9777870319f79029a2e4446dbd6eece6ec585f05dbdfba189.jpg)  
+图92001一2010年西北七省草地植被PUE与年降水量和年均温的相关性
+
+Fig.9CorrlationsbetweenUEandanualprecipitationandbetweePUEandanualmeantemperatureofgrassandvegetationnthe northwest seven province during 2oo1—2010
+
+PUE 的年际波动与年降水量的相关系数随年降水量梯度的变化情况如图10A所示。在年降水量为0一$2 0 0 ~ \mathrm { m m }$ 的干旱地区,草地PUE的年际波动与年降水量的变化呈负相关,且年降水量越低的地区,负相关程度越强;在年降水量为 $2 0 0 { \mathrm { - } } 1 0 0 0 \ \mathrm { m m }$ 的地区,草地PUE的年际波动与年降水量的变化呈正相关,且随着植被生长环境由干旱逐渐过渡到湿润,其正相关程度也随之波动上升;在年降水量大于 $1 0 0 0 \ \mathrm { m m }$ 的极端湿润地区，随着环境湿润程度的增加,PUE的年际波动对于年降水量变化的敏感程度下降,相关系数呈下降趋势,并逐渐向负相关过渡。
+
+PUE的年际波动与年均温的相关系数随年降水量梯度的变化情况（图10B)表明，大部分地区草地PUE的年际波动与年均温呈微弱的正相关关系,相关系数为0—0.2;在年降水量高于 $1 0 5 0 ~ \mathrm { m m }$ 的地区,草地PUE的年际波动与年均温的相关性较强,相关系数最高可达到0.4,这可能是由于这些地区的年均温较低,而温度是限制植被生长的主要因素,因此在年均温较高的年份,植被生长状况较好,PUE 也较高。
+
+![](images/454ba7be9668e05db7e14fd991074d84dc0419836ff56aa5968522cf69177be5.jpg)  
+图102001—2010年西北七省草地植被PUE 年际波动与降水量、气温的相关系数随降水量的变化模式( $R _ { \mathrm { P U E } ^ { - } P }$ ，PUE 与降水量的相关系数； $R _ { \mathrm { P U E } \cdot T }$ ，PUE与气温的相关系数)
+
+Fig.10Pattrsofhangeswithprecipitationinecorelaioncficentbetweeniter-analvaratisofUEandpreciition 0 $\cdot R _ { \mathrm { P U E } - P }$ ）and the correlation coefficient between inter-annual variations of PUE and air temperature ( $R _ { \mathrm { P U E } ^ { - } T }$ ）in the northwest seven province during 2001—2010
+
+# 3讨论
+
+3.1中国西北部草地PUE值的分布范围
+
+本研究结果表明,2001一2010 年我国主要草地类型PUE 的分布范围为 $0 . 4 2 { - } 1 . 5 9 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 }$ ,处于LeHouérou等[1报道的全球干旱区草地PUE 范围之内 $( 0 . 0 5 { - } 1 . 8 1 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } )$ ),并与Bai等[3]对于内蒙古草地 PUE 的估算结果 $( 0 . 2 4 { - } 0 . 7 1 \textrm { g C m } ^ { - 2 } \ \mathrm { m m } ^ { - 1 } )$ 及 $\mathrm { H u }$ 等[10]对于中国 $4 5 0 0 ~ \mathrm { k m }$ 草地样带 PUE 的估算结果(0.13- $0 . 6 4 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m } ^ { - 1 } .$ )相近。整体而言,温带草地的PUE( $0 . 9 6 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } .$ )高于高寒草地的PUE（0.65$\textrm { g C m } ^ { - 2 } \ : \mathrm { m m } ^ { - 1 }$ )，这与 $\mathrm { H u }$ 等[10]的研究结果相一致,其原因可能是山区自然环境恶劣所致,低温、生长季短暂、强风、强太阳辐射等不利因素影响了草地植被对降水的利用效率。
+
+# 3.2PUE的空间分布随降水量梯度的变化规律
+
+本研究发现温带草地、荒漠和高寒草地多年平均PUE 的空间分布均随年降水量梯度的变化呈抛物线形状,峰值分别出现在年降水量为 $4 7 2 . 9 , 2 6 3 . 2 , 5 5 9 . 2 \ \mathrm { m m }$ 的地区。由于不同研究区所处降水量区间及植被类型的差异,研究者们在探讨草地PUE 的空间分布随年降水量梯度变化时得到了不同的结果。Le Houerou[8],Prince 等[1]和 Bai等[3]研究认为PUE 随年降水量的增加而升高;Sala等[4]；Lauenroth& Sala[28]；Lauenroth等[13] Knapp& Smith[2]认为草地植被地上净初级生产力（ANPP)随年降水量的增加而线性增加,而PUE 则表现为常数;Leith[29]和 Huxman 等[6]则认为植被 PUE 随年降水量的增加而呈降低趋势。上述研究多是基于某一相对狭窄的降水量区间得出的结论,而Paruelo等[7]在年降水量梯度较广的区间下( $2 0 0 { \ - } 1 2 0 0 \ \mathrm { m m }$ ，发现草地PUE在极度干旱和极度湿润地区均较低,而峰值出现在年降水量为 $4 7 5 ~ \mathrm { m m }$ 的地区，,这与本研究的结果相一致。 $\mathrm { H u }$ 等[10]研究了中国 $4 5 0 0 ~ \mathrm { k m }$ 草地样带PUE的时空演变机制,并分析认为在洲际和全球尺度下，草地PUE 的空间分布随降水量梯度的变化趋势是先升高后降低的趋势,并在年降水量为 $4 0 0 { \ - } { \ - } 6 0 0 \ \mathrm { m m }$ 的地区达到峰值,而本研究的结果也证实了 $\mathrm { H u }$ 等[10]的假设。
+
+在年降水量较低的区域,水是限制植被生长的重要因子[6],高生产潜力植被的光合生长对降水量的变化非常敏感[30],因而PUE 随降水量的增加而升高[7]。在年降水量较高的区域,土壤水分长期处于饱和状态,植物根系和土壤微生物受到供氧限制,生物活性大大降低,同时过饱和的降水量形成地表径流,使易受淋溶作用的关键营养物质(N、P等)从生态系统中流失,间接地对植被生长造成胁迫,加上高生产潜力导致的高维持性呼吸和生长性呼吸水平[31],使植被PUE 随降水量的增加而减少。
+
+http://www.ecologica.cn
+
+本研究还发现,荒漠地区植被PUE 峰值对应的降水量区间( $P = 2 6 3 . 2 ~ \mathrm { m m }$ )低于温带草地和高寒草地PUE 峰值的降水量区间( $P = 4 7 2 . 9 ~ \mathrm { m m }$ 和 $P { = } 5 5 9 . 2 ~ \mathrm { m m }$ )。沙漠地区植物为了适应干旱的生长环境,通常具有较高的根冠比、较小的叶面积、较低的气孔导度[3-33],从而限制了其光合速率和相对生长速率（RGRs）,使植物的 NPP 对于降水量梯度变化的响应受到限制[7]。因此,在年降水量大于 $2 6 3 . 2 \ \mathrm { m m }$ 的地区，受限于物种本身的生物学特征和生长习性,植被的 NPP 并不随降水量的增加而线性增加,PUE 表现为下降趋势。
+
+# 3.3PUE在极端干旱地区存在异常值的原因分析
+
+在温带草地、荒漠和高寒草地极度干旱区( $< 1 0 0 ~ \mathrm { m m } ,$ )存在PUE空间分布随降水量增加而减少的趋势，这与 $\mathrm { H u }$ 等[10]的研究结果相一致。此外, ${ { \mathbb { W } } _ { \mathbf { u } } }$ 等[34]对于中国东部温带草地PUE 的研究也发现在降水量梯度的偏干旱一侧（年降水量 $< 2 0 0 { \ - } { \ - } 4 0 0 \ \mathrm { m m }$ )地区，植被PUE的空间分布随降水量的增加呈先增加后减少的趋势，并将其归因于该地区植被对气候变化的敏感性。
+
+草地PUE在极端干旱地区存在异常值的原因,可以从以下4个方面来解释：首先,地形因素引起的降水再分配可能是该地区草地植被 PUE 较高的原因之一,如塔克拉玛干沙漠被天山山脉和昆仑山山脉所环绕,由于区域径流系统接受中高山带的冰雪融水补给,使草地植被在局地降水量有限的情况下表现出较好的生长状况[35];其次,由于干旱地区植物根系发达，能够利用下层的土壤水分，同时具有较低的冠层导度，每消耗单位水量的生产量较高，因而生态系统的PUE 较高[36];第三,干旱地区沙漠两侧的土壤表层沙土比例较高，降水的渗入率也就倾向于增加,使植被的PUE升高,如撒哈拉沙漠两侧植被的PUE 可能达到4.0,甚至更高[8];第四,群落的物种组成结构也可能对 PUE 存在影响。在极端干旱地区,某些C4 超旱生植物，如梭梭（Haloxylon ammodendron）、沙拐枣（Calligortum mongolicum）、珍珠猪毛菜（Salsola passerina）、松叶猪毛菜（S.laricifolia）、短叶假木贼（Anabasis brevifolia)等多为植被的建群种或优势种[37-38]。C4 植物多分布于热带高草原气候区,是对短暂雨季和长期高温干旱气候的适应进化类型。与C3植物相比，C4植物在干旱环境下具有较低的蒸腾速率和较高的光合速率，因此PUE 也可能较高[39-40]。
+
+与 $\mathrm { H u }$ 等[]研究结果不同的是，本研究并未发现荒漠植被PUE( $0 . 4 2 \textrm { g C m } ^ { - 2 } \ \mathrm { m m } ^ { - 1 }$ )高于荒漠草原PUE$( 0 . 5 8 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } )$ )的现象，究其原因可能为研究方法不同所致。 $\mathrm { H u }$ 等[]的研究方法为样地实测,不同于本研究基于遥感影像的模拟方法。MCD13A1数据的空间分辨率为 $5 0 0 ~ \mathrm { m } { \times } 5 0 0 ~ \mathrm { m }$ ,依据像元二分模型的原理，单个像元反映的NDVI信息包括植被部分和裸土部分[41],同理基于 NDVI计算得到的 NPP 和 PUE 也可分为植被、裸土两部分，因此单个像元中裸土所占的比例越高，其PUE的估算值所反映的植被部分信息越少，与实际值偏差可能越大。因此，本研究计算单位植被覆盖度（FVC)的PUE，用PUE/FVC来表征各植被类型植被部分的PUE。如图11所示，各植被类型中PUE/FVC最高的为荒漠 $( 8 . 6 5 \textrm { g C m } ^ { - 2 } \textrm { m m } ^ { - 1 }$ ),其次为荒漠草原（2 $( 6 . 0 7 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 } .$ ),二者之间差异显著。温带草地其他类型草地PUE/FVC顺序为草甸草原 $>$ 典型草原>荒漠草原，而高寒草原的PUE/FVC则高于高寒草甸。
+
+![](images/668ed3a56cae5b12939d12ece564701e816a694c3a6b9c22cb6a96803104939e.jpg)  
+图112001—2010 年西北7省不同草地类型的PUE/FVC（平均值±标准误差)Fig.11Ration of PUE/FVC in the northwest seven provinceduring 2001—2010 for different grassland types ( $\mathrm { m e a n } \pm S E$ 0MS：草甸草原;TS;典型草原;DS：荒漠草原;S:灌丛;D;荒漠;AM：高寒草甸;AS;高寒草原( $\scriptstyle P < 0 . 0 5$ ）
+
+# 3.4PUE的年际波动及其影响因素
+
+以往的研究认为,NPP 的年际波动与年降水量之间同样存在正相关关系[4],但不及二者在空间尺度上的相关性明显[7]。本研究的结果表明,总体而言 PUE 年际波动与年均温的相关性不及其与年降水量的相关性强,且PUE年际波动与年降水量的相关性随降水量梯度变化的曲线呈抛物线形状,表明在年降水量相对适中的地区,PUE年际波动对年降水量变化更加敏感（图12）,这与 $\mathrm { Y a n } ^ { [ 1 4 ] }$ 等的研究结果相一致。植物个体生物学特性和生物地球化学循环这两个限制因素在降水量梯度上的权衡作用(trade-off）,可能是不同降水量区间植被的PUE 年际波动存在差异的主要原因[7]。
+
+干旱端生态系统植被PUE的年际波动主要受植物个体生物学特性的限制。植物体吸收单位营养物质引起叶面积指数(LAI)的变化量越小,表明植被生理生态特征对其生长的限制作用越大。在干旱环境中,植物体通常具有较高的根冠比、较小的叶面积、较低的气孔导度,导致相对生长速率较低[32-3]。当生态系统中可利用水分发生变化时,草地群落必须通过调整植株数量、个体大小和物种组成来进行适应,而干旱环境中的新生个体完成其生命周期需要较长时间[42」,因此,在年降水量变化量相同的情况下,以旱生草本植物为主体的草地生态系统植被叶面积指数、相对生长速率和PUE 的变化量比以中生草本植物为主体的生态系统更小。
+
+湿润端生态系统植被PUE的年际波动主要受生物地球化学循环因素的限制。可利用营养物质对于湿润地区植被生长的限制作用显著高于其对干旱地区植被生长的限制[31]。在年降水量梯度的湿润端,植被中占主导地位的物种通常具有较高的分生组织密度（Meristem density）,因而具有较高的相对生长速率和生产潜力[2]。当年降水量发生变化时,草地群落通过调整自身生理生态特征来适应环境的速度要比干旱环境中的草地群落更为迅速[7]。然而,生物量和LAI的增加意味着养分消耗的加剧,土壤有机碳含量和N 含量就可能成为限制植株生长的因素,如植物的N素利用效率随可利用水分的增加而升高,这也意味着在相对湿润的环境中由于N素缺乏而对植物生长产生限制作用的可能性更高[43]。
+
+基于以上论述，本研究提出概念模型（图12），来描述草地植被PUE年际波动随降水量梯度的变化对于影响其变化的两个主要驱动因素之间权衡作用(trade-off)的响应：在年降水量较低和较高的地区（年降水量梯度的两侧)，由于植物个体生物学特性和生物地球化学循环因素的限制，PUE年际波动与年降水量的相关性较弱，而在年降水量梯度的中段,PUE年际波动对年降水量的变化最为敏感。Knapp等² 认为，随着植被类型在空间分布上沿荒漠-草地-森林过渡，植被ANPP的年际波动随年降水量梯度的变化趋势呈先增加后减少的趋势，这与本研究的结果相一致。
+
+![](images/11f1cc4913f6b96563f49b2af8e557f18f9281222bc021033afe4d09f6db05f9.jpg)  
+图12描述草地植被PUE的空间分布与降水量梯度关系的概念 模型 Fig.12A conceptual model describing the relationship between spatial distribution of PUE and precipitation gradient of grassland
+
+此外，温度和水分的互作效应也可能是PUE年际波动与年降水量的相关性随降水量梯度先升高后降低的原因之一。以往的研究证实，温度是高寒草地植被生长的主要限制因子，而降水量是相对干旱的温带草地植被生长的主要限制因子[10,12]。对于温带草地而言,
+
+PUE 年际波动与年降水量的相关性随着由干旱区向湿润区过渡而逐渐增强;对于年降水量较高的高寒草地而言,其年均温相对较低（图3）,在这些地区,温度对植被生长的限制作用要大于水分[17],而植被 PUE 与年降水量的负相关性实质上体现的是其与年均温的正相关性[15]。如本研究发现,在年降水量大于 $1 0 0 0 \ \mathrm { m m }$ 的极端湿润地区,PUE的年际波动对于年降水量变化的敏感程度下降,相关系数呈下降趋势,并逐渐向负相关过渡（图10);同时,PUE的年际波动与年均温的相关性逐渐增强,达到整个降水量梯度区间的峰值。这也证实了随着降水梯度由较干旱的温带草地向相对湿润的高寒草地过渡,其PUE年际波动的主要影响因素也由年降水量逐渐转变为年均温。
+
+# 4结论
+
+本研究基于遥感数据和气象数据估算了2001—2010年西北七省草地植被的降水利用效率，并探讨了该区植被降水利用效率的时空分布格局及其驱动因素，得到以下主要结论：
+
+(1)2001—2010 年西北七省草地植被的平均PUE 为 $0 . 6 8 \mathrm { ~ g ~ C ~ m ~ } ^ { - 2 } \mathrm { ~ m m ~ } ^ { - 1 }$ ，空间分布则较为破碎,不存在相应的空间变化规律。
+
+(2)各草地类型间的PUE 差异较大，其中草甸草原PUE 最高，荒漠植被 PUE 最低。在温带草地各类型中，PUE的大小顺序为草甸草原 $\mathrm { . } >$ 灌丛 $>$ 典型草原 $\mathrm { . } >$ 荒漠草原 $>$ 荒漠，各类型草地PUE之间差异显著。对于高寒草地而言,高寒草原的 PUE 显著高于高寒草甸的 PUE。
+
+（3）温带草地PUE的空间分布与年降水量的关系呈抛物线形状( $R ^ { 2 } = 0 . 6 5$ ， $P { < } 0 . 0 0 1$ ），在年降水量 $P =$ $4 7 2 . 9 \ \mathrm { m m }$ 的地区,PUE为峰值。荒漠地区植被PUE 的空间分布与年降水量的关系同样呈抛物线形状( $R ^ { 2 } =$ 0.63， $P { < } 0 . 0 0 1$ ),PUE的峰值出现在年降水量 $P { = } 2 6 3 . 2 ~ \mathrm { m m }$ 的地区,这一值低于温带草地PUE 峰值的降水量区间。对于高寒草地而言,年降水量 $1 0 0 ~ \mathrm { m m }$ 以下地区植被PUE变异较大，年降水量大于 $1 0 0 ~ \mathrm { { m m } }$ 的地区空间上对应青藏高原和川西高原的高寒草地，总体而言植被 PUE 的空间分布随降水量的变化呈抛物线形状（ $R ^ { 2 } = 0 . 4 7$ ， $\scriptstyle P < 0 . 0 0 1 { \mathrm { ~ , ~ } }$ ）,PUE峰值出现在 $P { = } 5 5 9 . 2 ~ \mathrm { m m }$ 的地区。
+
+(4)在不同的降水量区域，植被PUE的年际波动与气候因子的关系也有较大差别。在年降水量为 200—$1 0 0 0 \ \mathrm { m m }$ 的地区,草地PUE的年际波动与年降水量的变化呈正相关;在年降水量高于 $1 0 5 0 ~ \mathrm { m m }$ 的地区，草地PUE 的年际波动与年均温的相关性较强,相关系数最高可达到0.4。
+
+(5)在年降水量较低和较高的地区(年降水量梯度的两侧),由于植物个体生物学特性和生物地球化学循环因素的限制,PUE年际波动与年降水量的相关性较弱,而在年降水量梯度的中段,PUE 年际波动对年降水量的变化最为敏感。
+
+# 参考文献（References）：
+
+[1]LeHoueouHgaR,bkWelatiosetwilitfpriapructiderbitalpiworld arid lands.Journal of Arid Environments，1988,15(1）：1-18.  
+[2]KnappithVariatigospaldsfoveodprrypuctioc9）84.  
+[3]BaiYF,WuJG,QiX,PanQuangJHng,HanXG.Primaryprouctioadraiusefiecspreipitatiotonthe Mongolia Plateau.Ecology，2008，89（8）：2140-2153.  
+[4]SalaOroLAouchtalsatol（：40-45.  
+[5]MNseiloelidNature，1989，341(6238）：142-144.  
+[6]HuxmanTE,Smith MD,FayPA,KnappA K,ShawMR,Loik ME,SmithSD,TisueDT,ZakJC,WeltzinJF,PockmanWT,SalaOE,HaddadB,HarteJKochGWShwiingS，SmallEE，WillasG.Covergenceacrosbiomestocommonrain-useficiency.Nature，2004，429(6992）：651-654.  
+[7]ParueloeturkCala.dpreiatseeosoucedtEco99,(1):64-68.  
+[8] Le HouerouHN.Rainuseeffciency：aunifyingconceptinarid-landecologyJournalofAridEnvironments，1984,7(3）：213-247.  
+[9] 殷贺，李正国，王仰麟，蔡福.基于时间序列植被特征的内蒙古荒漠化评价.地理学报，2011，66(5)：653-661.  
+[10] HuZM,YuG,FanJW,ZogHWangS,LiSGrecipiatiouseeclogkmgrassandtratobaloldBiogeography，2010，19(6）：842-851.  
+[11]PrinceSDesEiEcfrssateetesieertifiaeBiology，1998，4(4)：359-374.  
+[12]叶辉，王军邦，黄玫，齐述华.青藏高原植被降水利用效率的空间格局及其对降水和气温的响应.植物生态学报，2012，36（12)：1237- 1247.Great Plains of the United States.Ecosystems，2000,3(4）：344-351.  
+[14]YanL,uQ,ryA,ellJE,ZouXH,XiaJinuseeelmateangdofuerestlsa 12-year field experiment.Global Change Biology Bioenergy,2014,6(5）：556-565.  
+[15］穆少杰，李建龙，陈奕兆，刚成诚，周伟，居为民.2001-2010年内蒙古植被覆盖度时空变化特征.地理学报，2012,67（9)：1255-1268.  
+[16]YangYFgellJE,JiossreipiaideoeaaeiLetters，2010,37(15）: 78-82.  
+[17]LiH,Zag,iaXGtytosfbodayctodpreiasefalpine meadow in the north-eastern qinghai-tibetan plateau.GrassandForage Science，2015，doi：10.111/gfs.12165.  
+18]LSouE,alsoA,alegraddeltoupihuispealeliToward thecontrol of itssimulations byremotelysensed indices.Remote Sensing ofEnvironment，1995,52（3）：194-206.  
+9]PrinceSeucCJSEefeeee2007，13(7)：1308-1313.  
+[20] 朱文泉，潘耀忠，张锦水.中国陆地植被净初级生产力遥感估算.植物生态学报，2007，31（3）：413-424.  
+[21] 龙慧灵，李晓兵，王宏，魏丹丹，张程.内蒙古草原区植被净初级生产力及其与气候的关系.生态学报，2010,30(5)：1367-1378.  
+[22］马文红，杨元合，贺金生，曾辉，方精云.内蒙古温带草地生物量及其与环境因子的关系.中国科学C辑：生命科学，2008，38（1)：84-92.  
+[23］王景升，张宪洲，赵玉萍，秦泗国，武建双.羌塘高原高寒草地生态系统生产力动态.应用生态学报，2010,21(6)：1400-1404.  
+[24] 王莺，夏文韬，梁天刚.基于CASA 模型的甘南地区草地净初级生产力时空动态遥感模拟.草业学报,2011，20(4)：316-324.  
+[25] 高清竹，万运帆，李玉娥，林而达，杨凯，江村旺扎，王宝山,李文福.基于CASA 模型的藏北地区草地植被净第一性生产力及其时空格局.应用生态学报，2007，18（11)：2526-2532.  
+[26] 董丹，倪健.利用CASA 模型模拟西南喀斯特植被净第一性生产力.生态学报，2011,31（7)：1855-1866.  
+[27] 王静，王克林，张明阳，章春华.南方丘陵山地带植被净第一性生产力时空动态特征.生态学报，2015，35(11)：3722-3732.  
+[28] LauenrothWK，SalaOE.Longtemforageproductionoforthmericanshortgrassteppe.EcologicalAplicatios，992，（4）：9-403.  
+[29] LeithH.Modelingthprimaryproductivityof teorld/LithH,WhitakerRH,ds.PrmaryProductivityof teospereBerliHeidelbeg：Springer，1975:237-263.  
+[30]HalseS,aloDcingJmitJKaWFactorsfiiveralhdiseseoebdgegaWestern Australian experience.Environmental Monitoring and Assessment，2007，134（1）：161-175.  
+[31] Austin AT,Vitousek PM.Nutrient dynamics onaprecipitation gradient in Hawai'i.Oecologia,1998,113(4):519-529.  
+[32] KeddyP A.A pragmatic approach to functional ecology. Functional Ecology，1992,6(6): 621-626.  
+[33] Tilman D.PlantStrategiesandtheDynamicsand Structureof PlantCommunities.Princeton：Princeton UniversityPress，1988.  
+[34] WuXC,LiuHY,RenJHe,ZangYK.Waterdoiatedvegeatioctivitycrosssinid-ltidinalsteinaicalResearch Letters，2009,36(4）：L04402，doi:10.1029/2008GL036940.  
+[35] 沈永平.中亚天山是全球气候变化和水循环变化的热点地区.冰川冻土，2009，31(4)：780-780.  
+36]JogGalaotrsfassdsoveodproucntagEolcalaiso549.  
+[37］何明珠，张志山,李小军,贾荣亮，张景光，郑敬刚.阿拉善高原荒漠植被组成分布特征及其环境解释：I. $\mathrm { C } _ { 4 }$ 植物组成、分布特征与环境的关系.中国沙漠，2010,30(1)：57-62.  
+[38] 苏培玺，严巧娣.C4荒漠植物梭梭和沙拐枣在不同水分条件下的光合作用特征.生态学报，2006,26(1)：75-82.  
+[39] Ehleringer JR, Cerling TE,Helliker B R. $\mathrm { C } _ { 4 }$ photosynthesis， atmospheric $\mathrm { C O } _ { 2 }$ ，and climate. Oecologia，1997,112(3）: 285-299.  
+[40]FarquharGD，O'LeayM，BerryAOnheelatioshietweencarboisotoediscriminationdeinterellaarbodioxideconcentration in leaves.Australian Journal of Plant Physiology，1982,9(2）：121-137.  
+[41]GutmanG,IatovA.TederivationoftegrenvegetaionfractionfroNAA/AVRRdataforusiumericalweatherpredtioodes.International Journal of Remote Sensing，1998，19(8）：1533-1543.  
+[42]LaueothKal，oporaceflteitouteloagrailisiseeEcological Applications，1994,4(4）: 741-749.  
+[43]VintonMA，urkeIC.InteractosetwenidividualplantspeciesndsoltrintatusihortgrasseppEcolog9，6（4）:1116-1133.

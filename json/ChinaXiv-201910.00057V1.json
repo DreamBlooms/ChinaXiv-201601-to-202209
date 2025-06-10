@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "Spatio-temporal variation of soil moisture in a fixed dune at the southern edge of the Gurbantunggut Desert in Xinjiang, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHU Hai1,2.3，HU Shunjun24， YANG Jingsong1\\*， Fidele KARAMAGE2,3,5，LI Hao²3，FU Sihua2.3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State KeyLaboratoryofSoiland Sustainable Agriculture,InstituteofSoil Science,Chinese AcademyofSciences,Nanjing   \n210008, China;   \n2 State KeyLaboratoryofDesertandOasis EcologyXinjiang InstituteofEcologyandGeography,Chinese AcademyofSciences,   \nUrumqi 830011, China;   \n3 University of Chinese Academy of Sciences,Beijing 10o049,China;   \n4 Akesu National Station of Observation and Research for Oasis Agro-ecosystem,Aksu 843017,China;   \n5 Nanjing Institute of Geography and Limnology, Chinese Academyof Sciences, Nanjing 21008, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil moisture is critical for vegetation growth in deserts. However,detailed data regarding the soil moisture distribution in space and time in the Gurbantunggut Desert of China have not yet been reported. In this study, we conducted a series of in situ observation experiments in a fixed sand dune at the southern edge of the Gurbantunggut Desert from February 2014 to October 2016,to explore the spatio-temporal variation of soil moisture content, investigate the impact of Haloxylon ammodendron (C.A. Mey.) Bungeon soil moisture content in its root zone,and examine the factors influencing the soil moisture spatial pattern. One-way analysis of variance,least significant diference tests and correlation analysis were used to analyze the data.The results revealed that the soil moisture content exhibited annual periodicity and the temporal variation of soil moisture content throughout a year could be divided into three periods, namely,a moisturegaining period,a moisture-losing period and a moisture-stable period.According to the temporal and spatial variability, the $0 { - } 4 0 0 ~ \\mathrm { c m }$ soil profile could be divided into two layers: an active layer with moderate variability and a stable layer with weak variability.The temporal variability was larger than the spatial variability in the active layer,and the mean profile soil moisture content at diferent slope positions displayed the trend of decreasing with increasing relative height and mainly followed the order of interdune area $>$ west and east slopes $>$ slope top. The mean profile soil moisture content in the root zone of dead $H .$ ammodendron individuals was significantly higher than thatin the root zones of adult and young individuals, while the soil moisture content in the root zone of adult individuals was slightly higher than that in the root zone of young individuals with no significant difference.The spatial patern of soil moisture was attributable to the combined effects of snowfall, vegetation and soil texture,whereas the effects of rainfall and evaporation were not significant. The findings may ofer a foundation for the management of sandy soil moisture and vegetation restoration in arid areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: fixed sand dune; soil moisture; root zone; Haloxylon ammodendron; Gurbantunggut Desert ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHUHai,HU Shunjun,YANG Jingsong,Fidele KARAMAGE,LIHao,FU Sihua.2019.Spatio-temporalvariation ofsoil moisture infixeddunesinthesoutheredgeoftheGurbantunggutDesert inXinjiang,China.JouralofAridLand,1(5): 685-700.https://doi.org/10.1007/s40333-019-0104-8 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture is the main factor restricting vegetation growth in arid and semi-arid areas (Hu et al., 2009;Morenode et al., 2011), especially desert regions,and it not only afects plant individual development and growth types (Gad and Kelan,2012) but also impacts plant species diversity, quantity and distribution (Kemp,1983; Porporato et al., 2002). Soil moisture is also a critical component of water circulation in the soil-plant-atmosphere continuum (Cowan,1965)and is the basis for the determination of vegetation carrying capacity and the management of sandy soil moisture (Rodriguez-Iturbe et al.,1999). However, soil moisture is highly variable in time and space across various scales, which we refer to as the spatio-temporal variability of soil moisture (Penna et al.,2009; Brocca et al.,2010; Heathman et al.,2012). This spatio-temporal variability exerts a strong influence on vegetation restoration (Meerveld and McDonnell, 2006; Chen et al., 2007).Understanding this variability is crucial for analyzing the related hydrological processes (Hupet and Vanclooster, 2002; Choi and Jacobs,2007) and landscape ecology (Penna et al., 2013), which is one of the major challenges in modern hydrology (Vereecken et al., 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Over the past several decades, the spatio-temporal paterns or variability of soil moisture have been extensively investigated by researchers in the fields of pedology and hydrology. These studies focused on various land use types, such as farmland (Baroni et al.,2Ol3),forestland (Buttafuoco et al.,2005)and grassland (Hu et al.,2O11),and different spatial scales,such as field scale (Heathman et al.,2012),watershed scale(Wilson etal.,2O03; Heathman et al.,2012; Rosenbaum et al.,2012), continental scale (Li and Rodell,2O13) and global scale (Reichle et al.,2OO4).However, fewer studies have been conducted in arid environments, especially natural desert areas,owing to the difficulties and associated costs of sampling soil moisture (Gao et al.,2013; Zhang and Shao, 2013). Huang et al. (2O15) analyzed the spatio-temporal distribution of soil moisture and salinity in the shelterbelt system of the Taklimakan Desert.Pan et al. (2015） compared the spatio-temporal variability of root-zone soil moisture in artificially revegetated and natural ecosystems in the Tengger Desert. Li et al. (2O13) investigated the spatio-temporal variability of soil moisture at a desertified aeolian riparian ecotone on the Tibetan Plateau. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The spatio-temporal variation of soil moisture is dependent on numerous factors,such as topography, soil properties,and vegetation. Jia and Shao (2Ol3) reported that vegetation is the main factor influencing soil moisture pattrns.However, Gomez-Plaza et al. (2Oo1） suggested that although vegetation plays the major role in vegetated zones, soil texture and slope are the main regulators of soil moisture distribution in non-vegetated zones. Pan et al. (2oo8) also reported a difference in the influencing factors between dry periods and rainfallperiods, where during rainfall events the main factors were local topography and vegetation,and during dry periods the soil texture was most important. Joshi and Mohanty (2O10) indicated that soil texture and topography were two significant influencing factors affecting the spatio-temporal variation of soil moisture at point and remotely sensed footprint scales. However, the dominant factor is expected to vary under different hydrological setings (Western et al.，2Oo4),and further studies of a variety of soils, terrains,and climatic conditions and over a wide range of scales are required (Zhang and Shao, 2013). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Gurbantunggut Desert is the second largest desert and the largest fixed or semi-fixed desert in China (Qian and Wu,2O10). It is unique in terms of having been identified as a snow-dominated region among the four largest deserts in China, because the majority of its area lies north of $4 5 ^ { \\circ } \\mathrm { N } _ { ; }$ where the hydrological cycle is dominated by snowmelt (Barnett et al.,2Oo5).There is a seasonal snow cover period that lasts for approximately 110 d (Zhou et al.,2012). However,the spatiotemporal variation of soil moisture content in fixed sand dunes has not been fully analyzed,and the rainfall, snowfall, evaporation, vegetation and soil texture may severely affect the spatio-temporal patterns of soil moisture. Therefore, it would be of great interest to examine the spatio-temporal variation of soil moisture and influencing factors in the Gurbantunggut Desert. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,a typical fixed sand dune on the southern edge of the Gurbantunggut Desert was selected as the study object, and in situ observations were performed from February 2014 to October 20l6.The objectives of this study were to (1) evaluate the spatio-temporal variation of sandy soil moisture,(2) assess the impact of Haloxylon ammodendron on the soil moisture content in the root zone, and (3) identify the factors influencing the spatial pattern of soil moisture. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study site ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study site was located in the Beishawo experimental site $( 4 4 ^ { \\circ } 2 2 ^ { \\prime } 3 8 ^ { \\prime \\prime } \\mathrm { N }$ ， $8 7 ^ { \\circ } 5 5 ^ { \\prime } 1 3 ^ { \\prime \\prime } \\mathrm { E }$ ：， $4 3 5 \\mathrm { ~ m ~ }$ a.s.l.) of the Fukang Desert Ecosystem Observation and Experiment Station, Chinese Academy of Sciences,on the southern edge of the Gurbantunggut Desert. The area of the study site has a temperate continental climate, with hot and dry summers in which the air temperature can reach $4 4 . 2 ^ { \\circ } \\mathrm { C }$ and cold winters in which the air temperature can drop to $- 4 2 . 2 ^ { \\circ } \\mathrm { C }$ (Zhou et al., 2012). The annual mean temperature is $6 . 6 ^ { \\circ } \\mathrm { C }$ ， the mean annual precipitation is $7 0 \\mathrm { - } 1 8 0 ~ \\mathrm { m m }$ ， $2 5 \\%$ of which is generally snowfall, and the annual pan evaporation is approximately $2 0 0 0 \\ \\mathrm { m m }$ (Xu et al., 2007). The snow cover period typically lasts 110-120 d from mid-November to mid-March of the following year, and the snow depth is approximately $2 0 { - } 3 0 ~ \\mathrm { c m }$ . Ephemeral plants bloom and thrive in spring with the infiltration of snowmelt water and rainfall, when the soil moisture content is at its highest level (Dai et al., 2015). The interdune groundwater depth is $9 { - } 1 0 \\mathrm { m }$ . The soil is classified as aeolian soil (Arenosol, FAO), with a bulk density ranging from 1.54 to $1 . 6 5 \\ : \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ . The dominant plant species are $H .$ ammodendron and Haloxylon persicum,and some annual species such as Ephedra distachya, Ceratocarpus arenarius and Artemisia desertorum also grow in the area. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and data collection ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three soil moisture monitoring sections were established in a fixed dune on the southern edge of the Gurbantunggut Desert in December 2013. Two monitoring sections were set along the transverse section of the dune,and the third one,which was vertical to the above-mentioned two sections,was set in the interdune area. In total, 23 soil moisture monitoring points were set, and these were located on the west slope, slope top, east slope and interdune area (Fig.1). The soil moisture monitoring points located in the interdune area were set in bare land and the root zone of $H .$ ammodendron at various growth stages. According to the height, crown diameter and basal diameter data (Table 1),we classified the $H .$ ammodendron plants as young,adult or dead individuals. In situ measurements of the soil moisture were performed from February 2014 to October 2016 in the soil profiles ( $\\mathrm { 0 { - } } 4 0 0 \\ \\mathrm { c m }$ soil layer) at 10-d intervals using neutron probes (Fig. 1).At each monitoring point, three moisture content measurements were taken at depths of 10-390 cm at 20-cm intervals.The mean was taken as the soil moisture content at each depth.The neutron probe was calibrated by comparison with data obtained via the oven-drying method. Specifically, we embedded an aluminum pipe in sand dune soils and then irigated around the pipe. When the soil water infiltration reached a stable state,the scaling ratios (reading in soil/reading at soil surface) of the neutron probe at various depths were recorded. Soil samples were then taken from the same depths as the above-mentioned measurements and oven dried,and a correlational relationship between the soil moisture content and neutron probe scaling ratio was established. The calibration equations were as follows for O-30 (Eq. 1) and $3 0 { \\mathrm { - } } 4 0 0 \\ { \\mathrm { c m } }$ (Eq. 2) soil layers: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { v } } = 1 . 0 9 1 6 R _ { \\mathrm { 0 } } , R ^ { 2 } = 0 . 8 3 9 8 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { v } } = 0 . 6 7 6 0 R _ { \\mathrm { 0 } } - 0 . 0 1 2 2 , R ^ { 2 } = 0 . 9 8 3 3 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "vhere $\\theta _ { \\mathrm { v } }$ is the soil volumetric moisture content $( \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 } )$ and $R _ { 0 }$ is the neutron probe scaling ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The influencing factors were measured at the west slope, slope top, east slope and interdune area in 2015.At each position, the rainfall was measured using four custom-built rain gauges. For each rainfall event, the mean of the values from the four rain gauges at each position was taken as the rainfall for that position. The evaporation was measured every other day using three custom-built micro-lysimeters at each position,and the mean value was taken as the evaporation for that position. In mid-March, five points at each position were selected to measure the snow depth,and the mean value of the snow depths at the five points was taken as the snow depth for that position. The vegetation coverage and density were measured in June using the traditional quadrat survey method. The soils were sampled in $0 { - } 2 0 0 \\ \\mathrm { c m }$ soil layers for each position and the particle composition was measured using a laser particle size analyzer (Mastersizer 2Oo0,Malvern Panalytical, UK). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e7961cb092b1cfa0175a9d36f0c0c84eb90a3be05f2efbed07969d8f1a8b3ad3.jpg",
+        "table_caption": [
+            "Table1Morphological features of Haloxylon ammodendron in different growth stages "
+        ],
+        "table_footnote": [
+            "Note: n,the number of plants. "
+        ],
+        "table_body": "<html><body><table><tr><td>Growth stage</td><td>Height (m)</td><td>Crown diameter (mxm)</td><td>Basal diameter (cm)</td></tr><tr><td>Young (n=3)</td><td>1.7-2.1</td><td>1.5x1.3-1.7×1.5</td><td>5.4-7.3</td></tr><tr><td>Adult (n=4)</td><td>3.6-4.2</td><td>1.9x3.0-4.2x4.0</td><td>11.5-17.2</td></tr><tr><td>Dead (n=1)</td><td>2.2</td><td>2.4×2.3</td><td>8.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e7adb9024124499e9eb76ccd220f3b7cd8720a89edaef5a56ac413c84dacf26.jpg",
+        "img_caption": [
+            "Fig.1Distribution of soil moisture observation sites in the west slope,slope top,east slope and interdune area. (a) and(b)are the two sectionsalong the direction from Westto East,and (c)is the bird viewofthe horizontal distribution of observation sites. Capital letters and numbers are the code of observation sites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The coefficient of variation (CV) was selected to characterize the variability of soil moisture, and the CV values were analyzed according to the method suggested by Nielsen and Bouma (1985). The magnitude of the variability was considered weak when $C V \\leq 1 0 \\%$ ，moderate when $1 0 \\% { < } \\mathrm { C V } { < } 1 0 0 \\%$ and strong when $C V { \\geq } 1 0 0 \\%$ . The spatial CV was calculated from the mean value and standard deviation for different monitoring points at each position. For the temporal CV, we first calculated the mean soil moisture content at each position at one time point, then calculated the mean value and standard deviation of al time points in a year. We used the mean profile soil moisture content to assess the differences in soil moisture content at different positions and for different growth stages of plants, which was obtained by calculating the mean soil moisture content at each depth during a year and then calculating the mean soil moisture content in a profile (O-400 cm soil layers).For the influencing factors, the cumulative soil evaporation capacity was the sum of each measurement of soil evaporation，and the cumulative rainfall capacity was defined similarly. Differences in the soil moisture content at different positions and in the root zone of $H .$ （204号 ammodendron at different growth stages were determined using SPSS 16.O (SPSS Inc., USA). Graphs were plotted using Origin 8.0 (OriginLab Corporation, USA). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results and discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Temporal variation of soil moisture content ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the soil moisture measurements during the three study years,the temporal variation of the soil moisture content throughout the year could be divided into three periods, namely, a moisture-gaining period (from March to mid-May),a moisture-losing period (from mid-May to October),and a moisture-stable period (from November to February of the following year). Figure 2 shows the temporal variation of soil moisture content during 2014-2016,revealing that the soil moisture content exhibited a similar temporal variation pattern each year.As we can see, in early spring the soil moisture content was low and almost invariant throughout nearly the entire soil profile,except at the soil surface. Meanwhile, the soil moisture content near the soil surface remained consistently high on account of the snow cover and some degree of freeze-thaw action. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f04cfa8a34aa8c3331b010e033a53cd22c54ba22c0d83c3f8cc2ca85d518e986.jpg",
+        "img_caption": [
+            "Fig.2Temporal variations of soil moisture content in 2O14 (a),2015 (b)and 2016 (c).Values are means of all observation sites $\\scriptstyle ( n = 2 1 )$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From March, the soil moisture content in the shallow layer $\\left( 0 { - } 5 0 \\ \\mathrm { c m } \\right)$ started to increase significantly with snowmelts and the rising temperature and remained at a high level during the whole of spring (from March to May); however, the soil moisture content in the deep layer $( 5 0 -$ $4 0 0 \\ \\mathrm { c m } )$ changed very little.In June, the soil moisture content began to fall rapidly in the surface soil layer owing to the intense solar radiation and the formation of a dry layer on the sand dune surface. The soil moisture content remained continuously low during the entire summer, except during rainfallevents, which resulted in temporary increases. Meanwhile,the weting front moved down in a step-by-step manner in the deep soil layer and the soil moisture content decreased gradually during the entire summer, although the soil moisture content was stillrelatively higher in the summer and autumn seasons. During winter, the soil moisture content decreased to a low level and remained almost invariant. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These results are in agreement with those reported by Huang et al. (2Ol5), who found that the soil moisture content $_ { ( 0 - 1 0 \\mathrm { c m ) } }$ in the Tarim Desert Highway Shelterbelt was the highest in spring and then decreased over time owing to evaporation and considered temperature to be the main influencing factor. Similarly, Li et al. (2O1O) compared the difference in soil moisture ( $\\left( 0 { - } 1 2 0 \\thinspace \\mathrm { c m } \\right)$ （204号 temporal variation patterns between shrubs and bare land in the Gurbantunggut Desert and found that the topsoil moisture content was the highest in April and then decreased over time until September, while the moisture content in the upper soil layers was higher than that in the deeper soil layers during spring and the opposite trend was observed in summer and autumn. These authors attributed the increased soil moisture content in the upper layers in spring to the infiltration of melting water and the decreased soil moisture content in the upper layers in summer to evaporation. In our study, we also discovered a similar temporal variation of soil moisture; however, there were some differences in the soil moisture content and soil moisture change time point owing to the differences in climate, vegetation, underlying surface and so on. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the Gurbantunggut Desert, the soil moisture content is influenced by snowmelt water infiltration recharge, precipitation infiltration recharge, plant absorption,and evapotranspiration. Snowmelt water is an important water source that accounts for $1 8 . 7 \\% - 3 0 . 0 \\%$ of the annual precipitation (Li, 1991; Xu et al., 2007; Zhou et al., 2012). The soil moisture content increases rapidly in spring owing to melting of the snow on the sand dune surface (Zhou et al.,2012). In midMay, the temperature rises rapidly and soil evaporation increases, while shrubs begin to bud and large numbers of ephemeral plants grow,causing a net loss of soil moisture.By June, $H .$ （204 ammodendron has reached a vigorous growth stage and a large number of herbaceous plants grow vigorously, which, in addition to the high temperature,cause the consumption of soil moisture to increase greatly.From May to October, the soil moisture content shows a downward trend, despite brief increases due to rainfall events. In early November, the sand dune surface is already covered by snow, the temperature is very low and the moisture in the soil has already frozen, while the $H .$ （204号 ammodendron plants have also disrobed of their leaves and consumed minimal soil moisture, and consequently the soil moisture content changes little during the entire winter. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Variation of soil moisture content with slope position ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 presents the variation of the mean profile soil moisture content with slope position. In 2014,the difference in soil moisture content was not significant between the west slope and east slope, or between the east slope and slope top,although it was significant between the west slope and slope top. The differences in soil moisture content between the interdune area and the abovementioned three positions were significant, and the soil moisture content in the interdune area was relatively higher. Specifically,the soil moisture content in the interdune area was 1.O8,1.15 and 1.10 times that in the west slope, slope top and east slope,respectively. In 2O15,the diference in soil moisture content was not significant between the slope positions,i.e., the west slope,slope top and east slope, but it was significant between the interdune area and the east slope and slope top. The difference in soil moisture content between the interdune area and west slope was not significant. However, the soil moisture content in the interdune area was still higher than that in the other slopes. Specifically, the soil moisture content in the interdune area was 1.09,1.14 and 1.09 times that in the west slope,slope top and east slope,respectively. In 2O16,the soil moisture content in the slope top was the lowest and displayed a significant difference compared with the other positions. The diference was not significant among the west slope, interdune area and east slope; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "however, the soil moisture content in the interdune area was stillthe highest. Specifically, the soil moisture content in the interdune area was 1.04,1.18 and 1.01 times that in the west slope, slope top and east slope, respectively. The three-year-average soil moisture content was highest in the interdune area,and the soil moisture content in this area was significantly different from that in the slope top but not significantly different from that in the two slopes.The difference in the soil moisture content was not significant between the west slope and east slope. Meanwhile, the soil moisture content in the slope top was the lowest and also not significantly different from that in the two slopes. Overall, the soil moisture content at different slope positions displayed the trend of decreasing with increasing relative height, and mainly followed the order of interdune area>west and east slopes>slope top. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/eba76529041aebd7c9a484f4a7737f48a40eb3db72614432d2d73d580585cac5.jpg",
+        "img_caption": [
+            "Fig.3Variances of mean profile soil moisture content in west slope,slope top,east slope,and interdune area in 2014 (a),2015 (b),2016 (c)and the average for the period 2014-2016.Bars indicate standard errors.West slope, east slope and interdune area, $n { = } 4$ ; slope top, $\\scriptstyle n = 2$ . Different lowercase letters denote significant difference among different positions at $P { < } 0 . 0 5$ level. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Other researchers have also studied the spatial paterns of soil moisture in deserts.For example, Pan et al. (2Oo9) investigated the spatial patern of soil moisture and influencing factors in the Tengger Desert and found that the soil moisture content was negatively correlated with relative elevation. Zhou et al. (2Ol3) also demonstrated that the soil moisture content in the slope toe was the highest in the Gurbantunggut Desert. These results were all consistent with our finding that the soil moisture content decreased with increasing relative elevation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On account of plants being relatively dense in the interdune area,the degree ofcover was greater, and the \"wet island\" effect (Yang et al.,2011) was obvious.Taking the soil particle size composition into consideration, Pan et al. (2oo9) reported the existence of a positive correlation between the soil moisture content and clay or silt content. The soil fine particle $( < 0 . 1 0 0 \\ \\mathrm { m m } )$ content in the interdune area was relatively higher than that at other positions.Furthermore,snowmelt water flows along the slope surface to the interdune area in spring to aford an increased soil moisture content. All of these reasons account for the relatively higher soil moisture content in the interdune area. Few plants grow on the slope top, which consists mostly of bare sand,and has a limited capacity for retaining water, so that the snowmelt water flows away during snowmelt periods. Consequently, the soil moisture content was the lowest at the slope top. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3Temporal and spatial variability of soil moisture content with soil depth ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the variation of the mean annual soil moisture content and temporal and spatial coefficient of variations with soil depth. The soil moisture content exhibited an obvious vertical variation and was higher and decreased rapidly with increasing depth in the $0 { - } 5 0 ~ \\mathrm { c m }$ soil layer. At the same time, the soil moisture content was relatively constant with depth in the $5 0 { \\ - } 4 0 0 ~ \\mathrm { c m }$ soil layer. The temporal variability of the soil moisture content was evaluated using the temporal CV, which decreased with increasing soil depth in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer (Figs. 4b,e and h).The temporal variability was assigned as moderate in this layer according to Nielsen and Bouma (1985). In the $1 0 0 { \\ - } 4 0 0 \\ \\mathrm { c m }$ soil layer, the temporal CV was small and relatively stable and the temporal variability was weak. Similarly, the spatial CV decreased with increasing soil depth in the $0 { - } 5 0 \\mathrm { c m }$ soil layer with moderate variability (Figs. 4c,f and i) and the spatial CV was small and relatively stable in the $5 0 { - } 4 0 0 ~ \\mathrm { c m }$ soil layer with weak variability. According to the temporal and spatial variability, the $0 { \\ - } 4 0 0 ~ \\mathrm { c m }$ soil profile could be divided into two layers: an active layer with moderate variability and a stable layer with weak variability. Specifically, the soil moisture content exhibited moderate variability in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ layer in terms of the temporal CV and in the $0 { - } 5 0 ~ \\mathrm { c m }$ layer in terms of the spatial CV. Furthermore, the temporal variability was greater than the spatial variability in the active layer. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2da9a7a04a9aa4d75f78034d1db257845aeebdc33366e9147a3022e43f6c44d0.jpg",
+        "img_caption": [
+            "Fig.4Variations of mean annual soil moisture content,and temporal and spatial coeficients of variation with soil depth in 2014 (a,b,c),2015 (d,e,f) and 2016 (g,h,i).West slope,east slope and interdune area, $\\scriptstyle n = 4$ ；slope top, $\\scriptstyle n = 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The temporal variability of soil moisture with soil depth was also reported by Pan et al. (2015), who compared the diferences in soil moisture in the root zone between artificial and natural vegetation in the Tengger Desert and found that the temporal variation was more obvious in O-60 cm soil layers than in $0 { - } 3 0 0 ~ \\mathrm { c m }$ soil layers, while the soil moisture in $0 { - } 6 0 \\mathrm { c m }$ soil layers was more easily changed than that in $0 { - } 3 0 0 ~ \\mathrm { c m }$ soil layers.Furthermore, Gao et al.(2015) investigated the spatio-temporal variability of soil moisture in the Loess Plateau and discovered that the temporal CV decreased with increasing soil depth in $0 { - } 1 6 0 ~ \\mathrm { c m }$ soil layers and was essentially constant in $1 6 0 { - } 3 0 0 ~ \\mathrm { c m }$ soil layers.These results were all similar to our findings, despite some differences in the soil profile division. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "With respect to the spatial variability of soil moisture with depth, Wang et al. (2013) explored the vertical distribution of soil moisture in the Loess Plateau and found that the spatial CV decreased with increasing soil depth in $ { 0 - 6 0 }  { \\mathrm { c m } }$ soil layers, fluctuated in $6 0 { - } 2 0 0 ~ \\mathrm { c m }$ soil layers, and was constant in $2 0 0 { \\ - } 4 0 0 \\ \\mathrm { c m }$ soil layers. This is consistent with our results for upper soil layers, but inconsistent with our results for deeper soil layers in terms of the fluctuation of the CV. This discrepancy was mainly attributable to the diferences in spatial scale,i.e., the microtopography scale in our study and the regional scale of Wang et al. (2O13).A larger scale may be associated with more variability(Western and Bloschl,1999), such as heterogeneity in soil texture,vegetation, terrain and so on,all of which can affect the soil moisture distribution. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil moisture content is significantly afected by precipitation, soil surface evaporation, wind, heat conduction and soil pore water diffusion (Famiglieti et al.,1998; Li et al.,2013). In our study area,as the temperature rose in spring,snowmelt water infiltrated into the sand dune soil,and there was a frozen soil layer under the sand dune surface that impeded snowmelt water infiltration (Li et al., 2010). These phenomena jointly account for the high mean annual soil moisture content in the shallow soil layer. In terms of temporal variability, the active layer was more easily afected by meteorological factors, vegetation growth and so on. For example, rainfall resulted in a sharp increase in soil moisture content and the soil moisture content dropped rapidly with evaporation, while the soil moisture content in the active layer changed greatly owing to snowmelt water infiltration in spring. Vegetation growth also contributed to the difference in soil moisture content in different seasons. The spatial variability mainly resulted from the spatial variability of vegetation, soil texture and terrain. However, the spatial variability of these influencing factors was less than the temporal variability in the arid zone,such that the temporal variability of soil moisture was greater than the spatial variability in the active layer. In the stable layer, these factors exerted less of an influence on the soil moisture,and consequently the soil moisture variability was weak and the CV remained relatively constant. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4Variation of soil moisture content in the root zone of $H .$ ammodendron at different growth stages ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 presents the variation of the mean profile soil moisture content in the root zone of $H .$ （202 ammodendron at different growth stages. In 2014 and 2016, the difference in the mean profile soil moisture content in the root zone of plants was not significant between young and adult individuals, although it was significant between dead individuals and the other two growth stages. Similar results were observed in 2O15, except that the difference between adult and dead individuals was not significant. The mean profile soil moisture contents in the root zones of young, adult, and dead individuals were 0.035, 0.037 and $0 . 0 4 1 ~ \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 }$ ，respectively,in 2014; 0.033, 0.036 and 0.039 $\\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 }$ ,respectively, in 2015;and 0.034, 0.038 and $0 . 0 4 3 ~ \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 }$ ,respectively,in 2016. The three-year average mean profile soil moisture content in the root zone of dead individuals was significantly higher than that for adult and young individuals, while the soil moisture content in the root zone of adult individuals was slightly higher than that for young individuals with no significant difference. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A number of studies have demonstrated that the soil moisture content in shrubland is higher than that in bare land, especially in arid and semi-arid environments (D'Odorico et al.,20o7), owing to a combination of the \"canopy effect\" and \"soil effect\" (Gómez-Aparicio et al., 20o5). In our study area, the soil moisture content in the root zone of $H .$ ammodendron was affected by stemflow water collection (Wang et al.,2013), evapotranspiration (Hu et al., 2011) and tree canopy shading. For the dead individuals, there was only stemflow water collection and leaf transpiration did not occur; at the same time,cracks formed between the trunk and soil owing to withering and cracking of the trunk,such that rainwater could easily infiltrate into the root zone soil to afford a higher soil moisture content. In terms of the adult and young individuals,the adult individuals possess a larger canopy that allows the collection of more rainwater, as reported by Yuan et al. (2016),who found that plants with more smallbranches and higher leaf biomass were more contribute to the formation of stemflow.Meanwhile,the tree canopy shading effect of adult individuals is more efficient. With respect to evapotranspiration, even if adult individuals lose more water via transpiration, this effect may be alleviated by canopy shading. Consequently, these efects jointly account for the higher soil moisture content in the root zone of adult individuals than in that of young individuals. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ff81487e01f8eb5ec09fdf53ad6025108d8ca0c9bfdc557cd7087785bc66c73.jpg",
+        "img_caption": [
+            "Fig.5Variances of mean profile soil moisture content in the root zone of Haloxylon ammodendron at different growth stages in 2014 (a),2015 (b),2016 (c),and the average of the perid 2014-2016 (d).Bars indicate standard errors.Dead individual, $n { = } 1$ ； adult individual, $\\scriptstyle n = 4$ ；young individual, $\\scriptstyle n = 3$ . Different lowercase letters denote significant difference among different growth stages $( P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5 Factors influencing spatial patterns of soil moisture content ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5.1 Rainfall ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rainfall has a low spatial variability on a small regional scale, and the influence of rainfall on soil moisture content spatial pattrns mainly depends on whether the amount of rainfall is sufficiently high to form surface flow or soil lateral seepage.Figure 6 shows the overall distribution of rainfall events and the variation of mean rainfall(individual rainfall event) with slope position. During the experimental period (from April to October) in 2015,19 rainfall events were observed.The total rainfall was approximately $1 1 0 . 0 \\mathrm { m m }$ and most fell between April and September. The cumulative rainfall on the west slope, slope top, east slope and interdune area was 104.7,105.5,114.7 and $1 1 1 . 4 \\mathrm { m m }$ , respectively, without significant differences.In terms of single rainfall events,the largest rainfall was $1 4 . 4 ~ \\mathrm { m m }$ and the mean rainfall was $5 . 7 \\mathrm { m m }$ . The average soil infiltration rate in bare sandy land was $4 7 2 . 2 \\ \\mathrm { m m / h }$ ，which is far greater than the maximum rainfall intensity of $1 4 \\mathrm { m m / h }$ （204号 (Liu et al.,2O15), such that surface runof did not occur during natural rainfal for either the sand dune or interdune area (Dai et al., 2O14) and the rainfall water mainly infiltrated vertically. Consequently, rainfall did not exert a significant influence on the soil moisture content spatial pattern. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6fc22f8b9f248386e62f458dfd7dc417309767eb14fd3902dabc747f11739c9.jpg",
+        "img_caption": [
+            "Fig.6Temporal variation of rainfall events (a)and variances of mean rainfall (individual rainfall in west slope, slope top,east slope and interdune area(b).Bars indicate standard errors $( n { = } 4 )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 Soil evaporation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows the variation of the cumulative soil evaporation (from May to September) with slope position. There was a clear linear correlation between the monthly evaporation capacity and monthly rainfall. Soil evaporation was mainly affected by rainfall. The average cumulative soil evaporation capacity was approximately $1 4 3 . 9 \\mathrm { m m }$ ,and the cumulative soil evaporation capacities for the west slope, slope top, east slope and interdune area were 143.6,142.3,144.7 and $1 4 5 . 2 \\mathrm { m m }$ respectively.The variance analysis results revealed no significant differences in the cumulative soil evaporation capacity with the slope position. Therefore, soil evaporation did not exert a significant influence on the soil moisture content spatial pattern. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec0728073f0745f1f7d5d98c35c09dbb97a2d1009c17a09045d68afddeef983c.jpg",
+        "img_caption": [
+            "Fig.7Variances of cumulative soil evaporation capacity (from May to September) in west slope,slope top, east slope and interdune area.Bars indicate standard errors $\\scriptstyle ( n = 3 )$ . The error bar of soil moisture in west slope is too short and thus not shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.5.3 Snowfall ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 8 shows the variation of the snow depth at the various slope positions. No significant difference in the snow depth was observed between the west slope and slope top or between the east slope and interdune area. However, the snow depths at the east slope and interdune area were significantly greater than those at the west slope and slope top.As the prevailing wind direction at the study site in winter is northwest, the west slope was the windward slope and the east slope was the leeward slope, such that the snow on the west slope and slope top was blown away and piled up on the east slope and in the interdune area, causing the snow depths at the east slope and interdune area to be greater than those at the west slope and slope top. Furthermore, during the snow melting period, snowmelt water infiltration affected the spatial distribution of sand dune soil moisture content. As the snowmelt process was faster than the frozen soil layer melting process, the deep frozen soil layer impeded the snowmelt water infiltration until total melting of the frozen soil layer had occurred (Li et al., 2010). The snowmelt water therefore flowed along the slope surface to the interdune area. Therefore,snowfall exerted a significant influence on the soil moisture content spatial pattern. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fc7f3b3e84c0a9e4d3d4dd2233220db2fb1b2edd07311aa4856eaa38be9c5a3.jpg",
+        "img_caption": [
+            "Fig.8Variances of snow depth in west slope,slope top,east slope and interdune area.Bars indicate standard errors.Different lowercase letters denote significant difference $( P { < } 0 . 0 5 )$ among different slope positions. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.5.4Vegetation",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Vegetation influences soil moisture variability in several ways, such as the canopy changing the throughfall and shading the land surface to affect the rate of evaporation, the root activity and leaf liter affecting soil hydraulic conductivity,and the roots extracting moisture for transpiration from the soil profile (Famiglietti et al., 1998；Pan et al., 2008).As $H .$ ammodendron is the dominant species in the Gurbantunggut Desert, we measured the coverage and density of $H .$ ammodendron with slope position (Fig. 9). The vegetation coverage and density in the interdune area were higher than those at the west slope, slope top and east slope. Specifically, the vegetation coverage in the interdune area was 1.29,1.20 and 1.14 times that at the west slope, slope top,and east slope, respectively, while the vegetation density in the interdune area was 1.70,1.89 and 1.61 times that at the west slope, slope top and east slope,respectively.The correlation analysis results revealed that the soil moisture content was positively correlated with the vegetation density $( P { < } 0 . 0 5 )$ ,as also reported by Pan et al. (2Oo9), who found that the soil moisture content was positively correlated with shrub coverage. In semi-arid and arid environments,especially in natural desert areas, vegetation has a substantial impact on rainfall redistribution, and $5 \\% - 1 0 \\%$ of rainfall is directly transported to the root zone soil by stemflow (Navar and Bryan,1990; Mauchamp and Janeau, 1993; Martinez-Meza and Whitford, 1996). The root channels and soil pores allow water to more easily infiltrate deep soil layers,such that plants can use the soil moisture in dry periods and soil moisture evaporation decreases (Nulsen et al.,1986; Reynolds et al.,1999).At the same time, the \"shading effect\" of $H .$ ammodendron can reduce soil evaporation. Chen et al. (2O14) investigated the difference in soil evaporation in the root zone of $H .$ ammodendron and found that soil evaporation increased gradually with increasing distance to the $H .$ ammodendron base stem.This increased soil evaporation further reduced the soil moisture content, exacerbating the diference in soil moisture content distribution,as also reported by Li et al. (2Ol0). Therefore, vegetation exerted a significant influence on the spatial pattern of soil moisture content. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e44c8c61da3dda7f8e413b984a680ae1f69c0c0ee43f41af35dbe230cef8e3b.jpg",
+        "img_caption": [
+            "Fig.9Variances of vegetation coverage and density in west slope,slope top,east slope and interdune area "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.5.5Soil particle size composition ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Soil texture influences the hydrophysical properties and movement of soil moisture and therefore its distribution characteristics.Table 2 shows the variation ofthe soil particle size composition with slope position. The interdune area contained significantly greater proportions of soil particle sizes of 0.000-0.002, 0.002-0.050 and $0 . 0 5 0 { - } 0 . 1 0 0 ~ \\mathrm { m m }$ compared with the west slope, slope top and east slope, whereas the slope top contained a significantly smaller proportion of soil particles of size $0 . 0 5 0 { - } 0 . 1 0 0 ~ \\mathrm { m m }$ compared with the west and east slopes. The interdune area also contained significantly lower proportions of soil particle sizes of O.1Oo-O.250 and $0 . 2 5 0 { - } 0 . 5 0 0 \\ \\mathrm { m m }$ than the west slope, slope top,and east slope, while the slope top contained significantly greater proportions of soil particles of size $0 . 2 5 0 { - } 0 . 5 0 0 \\ \\mathrm { m m }$ . The proportions of soil particles of size $0 . 5 0 0 { - } 1 . 0 0 0 \\ \\mathrm { m m }$ was very low at allslope positions without significant differences. Overall,te soil in the interdune area contained more fine soil particles and the soil at the slope top contained more large soil particles. We also calculated correlation coefficients between the mean soil particle size ranges and soil moisture content and found significant linear positive correlations between the soil particle sizes of $< 0 . 0 0 2$ , 0.002-0.050,and 0.050-O.100 mm and the soil moisture content and a significant linear negative correlation between the soil particle size of $0 . 1 0 0 { - } 0 . 2 5 0 \\ \\mathrm { m m }$ and the soil moisture content; no significant correlation was observed for the soil particle sizes of 0.250-0.5O0 mm and ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/892e5e3342a48218d616ff3520264e374441cb622191cd90dad5a897449202e4.jpg",
+        "table_caption": [
+            "Table 2Soil particle size composition in west slope,slope top,east slope and interdune area and correlation coefficient between soil particle size and soil moisture content "
+        ],
+        "table_footnote": [
+            "Note:DatainthetableisthemeanvalueofsoilparticlesizecontentinOOcmsoillayers.Valueswithincolumnfollowedbydiret lowercase letters are significantly different among different slope positions at $\\scriptstyle P < 0 . 0 5$ level.\\*denotes significant correlation between soil particle size and soil moisture content at $\\scriptstyle P < 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Site</td><td colspan=\"6\">Soil particle size composition (%)</td></tr><tr><td><0.002 mm</td><td>0.002-0.050 mm</td><td>0.050-0.100 mm</td><td>0.100-0.250 mm</td><td>0.250-0.500 mm</td><td>0.500-1.000 mm</td></tr><tr><td>West slope</td><td>0.063b</td><td>3.185b</td><td>20.424b</td><td>65.233a</td><td>11.094c</td><td>0.000b</td></tr><tr><td>Slope top</td><td>0.023b</td><td>2.978b</td><td>9.393℃</td><td>66.512a</td><td>21.077a</td><td>0.018a</td></tr><tr><td>East slope</td><td>0.166b</td><td>3.404b</td><td>18.284b</td><td>62.663b</td><td>15.472b</td><td>0.010ab</td></tr><tr><td>Interdune area</td><td>0.690a</td><td>5.481a</td><td>29.532a</td><td>57.327c</td><td>6.969d</td><td>0.002b</td></tr><tr><td>Correlation coefficient</td><td>0.956*</td><td>0.958*</td><td>0.975*</td><td>-0.963*</td><td>-0.917</td><td>-0.703</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 0 0 { - } 1 . 0 0 0 \\ \\mathrm { m m }$ . Similar findings were reported by Pan et al. (2oo8), namely, positive correlations between the soil moisture content and soil clay and silt contents and a negative correlation between the soil moisture content and sand content, as also found by Gao et al. (2O11). Therefore,the soil particle size composition exerted a certain influence on the soil moisture content spatial pattern. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study, we investigated the temporal variation and spatial distribution of soil moisture and analyzed its spatio-temporal variability and the corresponding influencing factors.We found that the soil moisture content exhibited annual periodicity, where the temporal variation of soil moisture content throughout a year could be divided into three periods, namely, a moisture-gaining period, a moisture-losing period and a moisture-stable period. According to the temporal and spatial variability, the $0 { \\ - } 4 0 0 ~ \\mathrm { c m }$ soil profile could be divided into two layers: an active layer with moderate variability and a stable layer with weak variability. Meanwhile,the soil moisture temporal variability was larger than the spatial variability in the active layer.The mean profile soil moisture content at diferent slope positions displayed the trend of decreasing with increasing relative height and mainly followed the order of interdune area>west and east slopes>slope top.The mean profile soil moisture content in the root zone of dead $H .$ ammodendron plants was significantly higher than that in the root zones of adult and young individuals,while the soil moisture content in the root Zone of adult individuals was slightly higher than that in the root zone of young individuals with no significant difference. The spatial patern of soil moisture was attributable to the combined effects of snowfall, vegetation,and soil texture, whereas the effects ofrainfall and evaporation were not significant. Our study may offer a foundation for the management of sandy soil moisture and vegetation restoration in arid areas and provide a valuable reference for the fields of soil and water conservation, desertification control, and arid zone hydrology. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This study was supported bythe National Natural Science FoundationofChina(41671032,U1303181,U1806215), the National Key Research and Development Programs of China (2016YFC0501401，2016YFD0200303, 2016YFC0501309,2016YFC0501201),the National Basic Research Programof China (2013CB429902),and the Key Deployment Project ofthe Chinese Academy of Sciences (KFZD-SW-112-03-02).We thank allthe staffs of the Fukang Desert Ecosystem Observation and Experiment Station,Chinese Academy of Sciences,for their excellent field and laboratory assistance,and the anonymous reviewers for their helpful comments. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "BarettTP,AdamJC,LetenmaierDP.2Oo5.Potential impactsofawarmingclimateonwateravailabilityinsnow-domiated regions.Nature,438(7066):303-309.   \nBaroniG,OrtuaniB,acchi A,etal.2O13.Theroleofvegetationandsoilpropertiesonthespatio-temporalvariabilityofthe surface soil moisture in a maize-cropped field.Journal of Hydrology,489:148-159.   \nBroccaL,MeloneF,MoramarcoT,etal.2O10.Spatial-temporalvariabilityofsoil moistureanditsetimationacro sales. Water Resources Research,46(2):W02516.   \nButafuoco G,CastriganoA.2Oo5.Studyofthe spatio-temporal variationofsoil moisture under forest using intrinsicandom functions of order k.Geoderma,128(3-4): 208-220.   \nChenLD,HuangZL,GongJ,etal.2oo7.Theectoflandcovervegetationonsoilwaterdynamic inthehillareaofthelos plateau,China.Catena,70(2):200-208.   \nChenYB,HuSJ,Zhu H,etal.2O14.Soilevaporationof Haloxylonammodendroncommunityin thesouthern Gurbantunggut Desert.Journal of Desert Research,36(1): 190-198.(in Chinese)   \nChoi M,Jacobs JM.2007.Soil moisture variabilityofroot zone profiles within SMEX02remote sensing footprints.Advances in Water Resources,30(4): 883-896.   \nCowanIR.1965.Transportof water in the soil-plant-atmosphere system.Journalof AppliedEcology,2(1):21-239.   \nDaiY,Zheng XJ,TangLSetal.215.Stableoxygeisotopesrevealdistinct waterusepatersoftwoHaloxylonspeciesnth Gurbantonggut Desert. Plant and Soil,389(1-2): 73-87. of dryland ecosystems.Journal of Geophysical Research,112(G4): G04010.   \nFamigliettiJS,udnickiJWodellM1998.Variabilitinurfacemoisturecontentalogaillsopetrasect:RatlesakeHill, Texas. Journal of Hydrology,210(1-4): 259-281.   \nGad MR M,Kelan S S.2012.Soil seed bank and seed germination ofsand dunes vegetation in North Sinai-Egypt.Annals of Agricultural Sciences,57(1): 63-72.   \nGaoL,ShaoM,PengX,etal.2O15.Spatio-temporalvariabilityandtemporalstabilityofwatercontentsdistributedwithinsoil profiles at a hillslope scale.Catena,132: 29-36.   \nGao X,WuP,ZhaoX,etal.20l1.Soilmoisturevariabilityalong transectsoverawell-developed gullintheLoess Plateau, China. Catena,87(3): 357-367.   \nGao X,WuP,Zhao X,etal.2Ol3.Estimationof spatial soilmoisture averages inalargegullyof theLoess PlateauofChina through statistical and modeling solutions. Journal of Hydrology, 486: 466-478.   \nGomez-AparicioL,Gomez JM,Zamora R,et al.2005.Canopyvs.soil efectsof shrubs facilitating tree seedlings in Mediterranean montane ecosystems.Journal of Vegetation Science,16(2):191-198.   \nGomez-PlazaA,Martinez-Mena M,AlbaladejoJ,etal.2oo1.Factorsregulatingspatialdistributioofsoilwatercontentsall semiarid catchments.Journal of Hydrology,253(1-4):211-226.   \nHeathman GC,CoshMH,Merwade V,etal.2O12.Multi-scale temporalstabilityanalysisofsurfaceandsubsurfacesoiloisture within the Upper Cedar Creek Watershed,Indiana.Catena,95:91-103.   \nHu W,ShaoM,WangQetal.2o9.Timestabilityofsoilwaterstorage measuredbyeutronprobeandtheefectsofcaibration procedures in a small watershed. Catena, 79(1): 72-82.   \nHu W,ShaoM,HanF,etal.20l1.Spatiotemporalvariabilitybehaviorofandsurfacesoil watercontentinsrub-andgrassland. Geoderma,162(3-4): 260-272.   \nHuangY,WangY,ZhaoY,etal.2O15.SatiotemporaldistributionofsoilmoistureandsaliityintheTaklimakanDeserthighway shelterbelt. Water,7(8): 4343-4361.   \nHupetF,VancloosterM.2oo2.Itraseasoaldyamicsofsoilmostureriabilitythinaallagculturalaizeropdfield. Journal of Hydrology,261(1-4): 86-101.   \nJiaYH,Shao MA.20l3.Temporal stabilityofsoil waterstorageunderfourtypes ofrevegetationon thenorthernLoess Plateau of China.Agricultural Water Management, 117: 33-42.   \nJoshiC,Mohanty BP.2010.Physical controlsof near-surface soil moisture acrossvarying spatial scales inanagricultural landscape during SMEX02.Water Resoure Research, 46(12): W12503.   \nKemp PR.1983.Phenological patterns ofChihuahuan Desert plants inrelation to thetimingof water availabity.Journalof Ecology,71(2): 427-436.   \nLiB,RodellM.2O13.Spatialvariabilityanditsscaledependencyofobservedandmodeledsoilmoistureoverdifferentclimate regions.Hydrology and Earth System Sciences,17:1177-1188.   \nLiH,Shen W,ZouC,etal.2O13Spati-temporalvaiabilityofsoilmostureanditseffectonvegetationiadesertifiedeolian riparian ecotone on the Tibetan Plateau, China. Journal of Hydrology, 479:215-225.   \nLi J,ZhaoCY,SongYJ,etal.2Ol.Spatialpatersofdesertanualsinrelationtosrubefectsonsolmoisture.Jouralof Vegetation Science,21(2): 221-232.   \nLiJF.1991.Xinjiang Climate.Beijing: Meteorological Press,115-124.(in Chinese)   \nLiuH,ZhouHF,Liu X.2O15.Analysisofsoilmoisture migrationonsandduneundertheconditionofheavyrainfallJouralof Soil and Water Conservation,29(2):157-162.(in Chinese)   \nMartinez-MezaE,WhitfordWG.1996.Stemflow, throughfalland chanelizationof stemflow byrots in threeChihuahuan desert shrubs.Journal of Arid Environments,32(3):271-287.   \nMauchamp A,JaneauJL.1993.WaterfunnelingbythecrownofFlourensiacernua,a Chihuahuan Desert shrub.JournalofArid Environments,25(3): 299-306.   \nMerveldTVMcDonnellJJ.2006.Ontheinterelations between topography,sildepth,soilmoisture,transpirationatesand species distribution at the hillslope scale.Advances in Water Resources,29(2):293-310.   \nMoreno-delasHerasM,EspigaresT,Merin-MartinL,etal.211.Water-relatedecologicalimpactsofrillerosionprocesssin Mediterranean-dry reclaimed slopes. Catena,84(3): 114-124.   \nNavar J,Bryan R.1990.Interceptionlossandrainfallredistributionby three semi-arid growingshrubs innortheastern Mexico. Journal of Hydrology,115(1-4): 51-63.   \nNielsen DR,Bouma J.1985.Soil Spatial Variability. Wageningen: Pudoc Press,1-243.   \nNulsenRA,BlighKJ,axterIN,etal986.Thefateofrainfalinmalleandhathvegetatedcathmentinouthe Weste Australia. Austral Ecology,11(4): 361-371.   \nPanYX,WangXP,JiaRL,etal.2O08.Spatial variabilityofsurfacesoil moisturecontentinare-vegetateddesertareain Shapotou, Northern China.Journal of Arid Environments,72(9): 1675-1683.   \nPanYX,Wang XP.2O09.Factorscontrollng thespatialvariabilityofsurface soilmoisture withinrevegetated-stabilzeddesert ecosystems of the Tengger Desert, Northern China.Hydrological Processes,23(11): 1591-1601.   \nPanYX,WangXP,ZhangYF,etal.20l5.Spati-temporalvariabilityofrootzonesoilmoisture inartficiallrevegetatedand natural ecosystems at an arid desert area,NW China. Ecological Engineering,79:100-112.   \nPenna D,BogaM,NrbatoD,etalo9.Hilsopescalesilmoisturevarabilityinateepalpineterrain.JouralofHyrology 364(3-4): 311-327.   \nPennaD,BroccaL,BorgaM,etal.2O13.Soilmosturetmporalstabilityatdierentdepthsontwoalpine hilslopesuringwet and dry periods. Journal of Hydrology, 477: 55-71.   \nPorporatoA,DOdorcoP,LaioF,etal.2002.Ecohydrologyofwater-controlldecosystems.AdvancesinWaterResources,( 12): 1335-1348.   \nQian YB,Wu Z N.2010.Environments of Gurbantonggut Desert. Beijing: Science Press,1-196.(in Chinese)   \nReichleRH,KosterRD,Dong J,etal.2o4.Globalsoilmoisture fromsateliteobservations,landsurfacemodels,andground data: Implications for data assimilation.Journal of Hydrometeorology,5(3): 430-442.   \nReynoldsJF,VirginiaRA,KempPR,etal.199Impactofdroughtondesert shrubs:Effectsof seasonalityanddegreeof resource island development.Ecological Monographs,69(1):69-106.   \nRodriguez-IturbeOdoricoorporatoA,etal999.Onthsatialatemporallinksetweegetatio,catedil moisture.Water Resoure Research,35(12):3709-3722.   \nRosenbaum UBogena HR,HerbstM,etal.2O12.Seasonalandevent dynamicsof spatial soilmoisture paternsatthesall catchment scale. Water Resources Research, 48(10): W10544.   \nVerecken H,HuismanJA,Bogena H,etal.2Oo8.Onthe valueof soil moisture measurements invadosezone hydrology:A review. Water Resoure Research,44(4): W00D06.   \nWangX,PanY,ZhangY,talOl.mporalstabilityalysisofurfaceandubsurfacesoilosturefatansectiiicial revegetation desert area, China. Journal of Hydrology, 507: 100-109.   \nWang Y,Shao M,Liu Z.2O13.Vertical distribution and influencing factors of soil water content within $2 1 \\mathrm { - m }$ profile on the Chinese Loess Plateau. Geoderma,193-194: 300-310.   \nWestern A W,Bloschl G.199.On the spatial scaling of soil moisture.Journal of Hydrology,217(3-4): 203-224.   \nWesternAW,ZhouSL,GraysonRB,etal4.Spatialcorelationofsoilmoisture insmallcatchmentsnditsrelatioshipto dominant spatial hydrological processes. Journal of Hydrology,286(1-4):113-134.   \nWilson D J, Western AW, Grayson R B,etal.2Oo3.Spatial distribution of soil moisture over 6 and $3 0 \\mathrm { c m }$ depth,Mahurangi river catchment, New Zealand.Journal of Hydrology,276(1-4): 254-274.   \nXu H,LiY,XuG,etal.Oo.Ecophysiologicalrsponseand morphologicaladjustmentof twoCentralAsiandesertsubs towards variation in summer precipitation.Plant Cell and Environment, 3O(4): 399-409.   \nYangYF,ZhouHF,XuLG.2O11.Dynamic variationsofsoil moisturein Haloxylonammodendronroot zone inGurbantunggut Desert.Chinese Journal of Applied Ecology,22(7):1711-1716.(in Chinese)   \nYuan C,Gao G,FuB.016.Stemflowofa xerophytic shrub(Salix psammophila)innorthern China:Implication forbeneficial branch architecture to produce stemflow. Journal of Hydrology,539: 577-588.   \nZhang P,Shao M.2013.Temporal stabilityofsurfacesoil moisture inadesert areaofnorthwestern China.JournalofHydrology, 505:91-101.   \nZhouHF,Zheng XJ,ZhouB,etal.2012.Sublimation overseasonal snowpack at the southeastern edgeofadesert incentral Eurasia.Hydrological Processes,26(25): 3911-3920.   \nZhouHF,XiaoZY,Yao HJ.2Ol3.Temporaland spatial variationof soil moisture in dendritic sandduneover Gurbantunggut Desert in central Eurasia.Advances in Water Science,24(6):771-777.(in Chinese) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

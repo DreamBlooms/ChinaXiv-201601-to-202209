@@ -1,0 +1,551 @@
+[
+    {
+        "type": "text",
+        "text": "走出马尔萨斯陷阱：人口压力与沙漠化的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "樊胜岳，周宁，刘文文（中央民族大学经济学院,北京100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：自1798年马尔萨斯人口原理提出以来，人口压力与自然环境之间的关系就备受关注，根据马尔萨斯人口原理，人地关系存在不可调和的矛盾，当食物难以满足人类生存需要，自然达到对人口规模的承载极限时，过剩的人口将会走向消亡。然而根据史实研究，发现马尔萨斯的人口原理存在一定谬误，人口容量与环境质量并不一定是反向关系。以内蒙古自治区县域面板数据为基础,将人口压力分解为粮食压力和致富压力，考察1990—2010年人口压力对68个沙漠化县沙漠化地区发展变化的作用机制。结果表明：在观测数据范围内，人口压力与沙漠化有紧密联系,2000年前，人口压力不断增加，显著促进了沙漠化扩张,2000年后人口压力通过地域转嫁等方式不断降低，该区的沙漠化程度得到有效缓解;此外，研究还显示内蒙古人口压力对沙漠化的作用呈现明显时空差异。在此基础上本文还对当前如何跳出马尔萨斯陷阱、释放人口压力做出了猜想。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键词：人口压力；马尔萨斯陷阱；沙漠化；虚拟土地；舒尔茨人力资本",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1798年马尔萨斯发表“有关人口问题的原理”[1]一文后,人口问题引起了国际社会的空前关注。马尔萨斯认为，人口规模与自然资源之间存在着某种制约规律[2-6],当人口数量增加到自然资源无法满足的程度时,社会就会抑制过剩人口[7]。人口理论自出现就广受争议[8],最突出的是博塞拉普[9]对其学说的挑战,她提出人地关系的紧张会刺激农业发展，当人口压力过大时，人们就会想方设法提高粮食产量。这些争论引发了学术界对人口压力与自然环境承载力之间关系的思考，研究者们开始致力于探索降低人口压力、促进经济发展与改善自然环境，从而摆脱马尔萨斯陷阱的方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "纵观中国历史上农业垦殖和自然环境的变迁，每一次经济繁荣都带来了人口迅速增长，随即便是大规模的开荒和生态环境遭受严重破坏。基于对史实的研究和分析[10-12],我们做出大胆猜想,认为人口压力是造成沙漠化的根源：在粮食持续短缺的压力卜，“以粮为纲”的思想不断强化，草地和生态环境脆弱的山地被盲目的、不合理地开垦和放牧，致使农牧区界限不断南北推移，加剧生态环境的脆弱性，在风蚀作用下，逐渐成为沙漠化土地。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙漠化地区人地关系紧张，过大的人口压力只能通过多耕多种来纾解，司马迁划定的农牧界限向北的推移、轮作复种技术的发展都是提高土地利用率,缓解人口压力的表现[13-15]。但是,长此以往的多耕多种为沙漠化的扩张埋下了巨大隐患。程磊磊[]在对导致沙漠化人为因素的梳理中,认为过大的人口压力和产权不明晰是不合理人类活动存在的根源[17]。王建革[18]从人口压力角度解释中国原始农业的发展，指出人口压力诱导了驯化发生和农业的产生发展。孙武等[19]以农牧交错带上18 个旗县作为典型剖面分析波动性、人口压力和脆弱性的关系，提出人口超载的状况也就是人口压力，是脆弱性的直接动力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙漠化问题一直是阻碍我国环境可持续发展的重要难题。目前在学术界所有针对沙漠化的研究中，并未将人口压力理论与沙漠化研究相联系。本文创新地将人口压力理论应用于沙漠化研究领域中，挖掘内在的推力来解释沙漠化产生和发展的原因，以期为以后的沙漠化研究提供一个新的视角和",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "思路。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以马尔萨斯人口原理为切入点，探寻如何通过降低人口压力来促进经济增长与改善自然环境，从而跳出马尔萨斯陷阱，基于内蒙古自治区县域面板数据，将人口压力分解为粮食压力和致富压力，定量考察1990一2010年人口压力对当地沙漠化发展变化的作用机制，分析了人口压力与沙漠化发展和逆转的定量关系，并在此基础上，对当前如何跳出马尔萨斯陷阱提出了建议，丰富了学术界关于人口压力方面的研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内蒙古自治区地处高原地带，位于干旱半干旱地区。本文的研究地区为内蒙古自治区的68个沙漠化县(旗)（图1)。该区地处内陆，为温带草原性气候,该区主要土地利用类型为草地，占全区面积$67 \\%$ ,广阔的草场为畜牧业的发展提供了巨大优势。近年来，虽然内蒙古自治区人口增长呈现减慢态势，但该区总人口仍达 $2 \\ 5 2 0 \\times 1 0 ^ { 4 }$ 人，对自然资源利用与环境承载力形成了不可小觑的压力。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/106210339d92a89087ecff6476a105df175e90ef76a47df51d13ad549bf85644.jpg",
+        "img_caption": [
+            "图1研究区域地理位置示意图Fig.1Location map of the study area"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据来源与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 模型设定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人口压力可以分解为粮食压力和致富压力。在生活水平较低的阶段，人们为了保证基本的温饱需要而开垦耕地种植粮食的压力叫做粮食压力。随着经济发展，人尤其是改革开放以来，农民“致富”口号越来越响，对于生活条件的需求不再仅停留在温饱阶段，逐渐奔着小康水平和富裕水平迈进，这一阶段的压力叫做致富压力，或收入压力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此,本文还对内蒙古68 个县(旗)进行东中西部划分，引人2个虚拟变量，以考察人口压力对不同地区沙漠化的作用程度的差异性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$M 1 = \\left\\{ { \\begin{array} { c } { { } } \\\\ { { } } \\\\ { { 0 } } \\end{array} } \\right.$ ，东部地区县（旗），其中，，其他$M 2 = \\{ { \\begin{array} { l } { { 1 , \\frac { { \\mathrm { H } } { \\cdot \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\kern - delimiterspace } } { \\mathrm { H } } } }  \\kern - delimiterspace } { \\mathrm { H } } } } [ { \\mathrm { X } } , \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\mathord { \\kern - delimiterspace } { \\mathrm { H } } } }  \\kern - delimiterspace } { \\mathrm { H } } }  \\kern - delimiterspace } { \\mathrm { H } } } } \\\\ { { 0 , \\frac { { \\mathrm { H } } { \\cdot \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\kern - delimiterspace } { \\mathrm { H } } } }  \\kern - delimiterspace } { \\mathrm { H } } } } } } { \\mathrm { \\Huge } { \\cdot \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\mathord { / { \\vphantom { \\mathrm { H } } { \\cdot \\kern - delimiterspace } { \\mathrm { H } } } }  \\kern - delimiterspace } { \\mathrm { H } } } } } } } } \\end{array}   $ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$M 1 \\mathrm { ~ } , M 2$ 是地区虚拟变量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模型设定为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { l n } D _ { i t } ^ { \\phantom { } } = a \\mathrm { l n } P P _ { i t } ^ { \\phantom { } } + b M ^ { \\phantom { } } { \\mathrm {  ~ } } _ { i t } + c M ^ { \\phantom { } } { \\mathrm {  ~ } } _ { i t } + \\varepsilon _ { i t } ^ { \\phantom { } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：反映了人口压力对沙漠化土地的影响，由于沙漠化的形成是人为因素与自然因素综合作用的结果，因此将自然因子纳入模型中。一般认为，风速是影响沙漠形成的重要因素，降水对沙漠形成起阻碍作用，因此新的模型为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\mathrm { l n } D _ { i t } = a { \\mathrm { l n } } P P _ { i t } + b M 1 _ { i t } + c M 2 _ { i t } + d { \\mathrm { l n } } W _ { i t } + } } \\\\ { { { } } } \\\\ { { e { \\mathrm { l n } } P _ { i t } + \\varepsilon _ { i t } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $D$ 表示沙漠化发展程度； $p p$ 代表人口压力； $W$ 表示风速； $P$ 代表降水。下标 $i$ 和 $\\mathbf { \\chi } _ { t }$ 分别表示地区和年份。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2变量说明与数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以内蒙古自治区68 个沙漠化县(旗)数据对模型进行估计分析。所有初始数据来源于《内蒙古自治区农牧经济五十年》及《内蒙古经济社会调查年鉴》。各变量与数据如表1、表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用 $p p$ 表示人口压力， $\\boldsymbol { g p }$ 表示粮食压力， $r p$ 表示致富压力， $\\mathbf { \\alpha } _ { a }$ 为当地恩格尔系数，其关系可表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np p = a \\times g p + \\left( 1 - a \\right) \\times r p - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于粮食压力，本文选取了粮食需求量与生产量之比作为指标，其中粮食需求量根据当时各县人口与内蒙古自治区粮食人均占有量标准的乘积得",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e902fba2c453dd2f6eb86a53418f4d6554a2f0544214b98bc8aab6de4594587.jpg",
+        "table_caption": [
+            "表1主要变量的数据来源及说明",
+            "Tab.1 Data sources and descriptions of major variables "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量分组</td><td>变量表示</td><td>变量</td></tr><tr><td>被解释变量</td><td>lnD1</td><td>沙漠化指数</td></tr><tr><td></td><td>lnD2</td><td>沙漠化面积／m</td></tr><tr><td>解释变量</td><td>lnPP</td><td>人口压力</td></tr><tr><td></td><td>ln W</td><td>风速（单位风速）／0.1m·s-1</td></tr><tr><td></td><td>lnP</td><td>降水（单位降水量）／0.1mm</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8eca10dd10aa8cc4a20406d530b69e2e0234e251c577e889166a4802c9d2029e.jpg",
+        "table_caption": [
+            "Tab.2Descriptive statistics for each variable "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>变量</td><td>均值</td><td>中值</td><td>最大值</td><td>最小值</td><td>标准差</td><td>样本量</td></tr><tr><td>沙漠化指数</td><td>2.976 338</td><td>2.792 051</td><td>6.779 032</td><td>-0.113 024</td><td>1.309 208</td><td>68</td></tr><tr><td>沙漠化面积／m</td><td>3.43×109</td><td>2.01 ×109</td><td>1.73 ×1010</td><td>5 014 210</td><td>3.94 ×109</td><td>68</td></tr><tr><td>人口压力</td><td>25.628 01</td><td>27.251 36</td><td>58.437 84</td><td>4.736 198</td><td>10.351 81</td><td>68</td></tr><tr><td>风速/0.1m·s-1</td><td>28.447 01</td><td>28.00000</td><td>57.000 00</td><td>12.00000</td><td>7.581 691</td><td>68</td></tr><tr><td>降水／0.1mm</td><td>3 088.183</td><td>3 012.000</td><td>7 527.000</td><td>92.00000</td><td>1 224.063</td><td>68</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "到，如表3。计算公式可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng p = \\frac { d e } { p q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $d e$ 表示粮食需求量， $p q$ 代表粮食生产量。二者的比值描述了粮食压力的大小。当 $g p > 1$ 时，表示粮食需求量大于生产量，粮食短缺，供不应求；当$\\boldsymbol { g p } = 1$ 时,表示粮食需求量和生产量相当,生产刚好满足需求量；当 $g p < 1$ 时，表示粮食生产量大于需求量，出现粮食剩余的情况。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/dec1b9f1efc01443be56be2133df9aeecd6235772b88760b1380e8566e1e9ec2.jpg",
+        "table_caption": [
+            "表2各变量描述性统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"5\">生活类型</td></tr><tr><td>饥饿</td><td>半饥饿</td><td>温饱</td><td>小康</td><td>富裕</td></tr><tr><td>人均粮食占有量</td><td><230</td><td>230~300</td><td>301~300</td><td>351~400</td><td>>400</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于收入压力，用农业就业人口数量与非农就业人口数量之比作为其指标。计算公式可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\displaystyle r p = \\frac { a p } { n a p }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $a p$ 代表农业人口数量， $n a p$ 代表非农业人口数量。当 $r p > 1$ 时，代表依靠农业支撑生活开销的人数比例越大,收入压力也越大；当 $r p = 1$ 时,代表农业人口与非农业人口数量持平，收入压力为1；当",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3按人均粮食占有量划分的生活类型／kg",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { r } { { \\boldsymbol { { r } } } { \\boldsymbol { p } } = 1 } \\end{array}$ 时，代表农业人口数量小于非农业人口数量，非农业收入大于农业收入，收入压力比较小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当人口压力 $p p = 0$ 时，表明人们所生产的生活资料刚刚满足最基本的生活需求，既不短缺也没有盈余;当 $p p < 0$ 时，代表负压力，即人们粮食生产量供过于求，生活水平较为富足；当 $p p > 0$ 时，表示人们生存和发展压力较大，粮食短缺，供不应求，生活处于较低水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 初步回归结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表4报告了1990—2010年内蒙古自治区68个县(旗)人口压力对沙漠化影响估计结果，在前人研究基础上[20],已经得知沙漠化呈现先扩张后逆转的现象，逆转时间为2000年，因此将1990—2010 年分为两个阶段分别回归，得到如下结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc15c2a4c80f7c7e0f9f94101954a691fcb04cad83412102633eeb343c7e4c8e.jpg",
+        "table_caption": [
+            "Tab.3Types of life by per capita food possession／kg ",
+            "表4人口压力对沙漠化影响估计结果",
+            "Tab.4Estimation of the impact of population pressure on desertification "
+        ],
+        "table_footnote": [
+            "注： $* * * * * * *$ 和 $\\ast$ 分别表示 $1 \\%$ （20 $5 \\%$ 和 $10 \\%$ 的显著性水平。括号内为稳健标准误"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">解释变量</td><td colspan=\"6\">被解释变量：lnD1</td></tr><tr><td colspan=\"2\">1990—2000 年</td><td colspan=\"2\">2000—2010 年</td><td colspan=\"2\">1990—2010 年</td></tr><tr><td></td><td>模型(1)</td><td>模型(2)</td><td>模型(3)</td><td>模型(4)</td><td>模型(5)</td><td>模型(6)</td></tr><tr><td>lnPP</td><td>0.0800*** (0.000 6)</td><td>0.0744*** (0.0021)</td><td>0.0471*** (0.0003)</td><td>0.0269 ** (0.050 2)</td><td>0.0520*** (0.000 0)</td><td>0.0394*** (0.002 5)</td></tr><tr><td>lnW</td><td></td><td>0.048 5</td><td></td><td>0.1723***</td><td></td><td>0.056 0</td></tr><tr><td rowspan=\"2\">lnP</td><td></td><td>(0.5216)</td><td></td><td>(0.0041)</td><td></td><td>(0.262 9)</td></tr><tr><td></td><td>-0.1109**</td><td></td><td>-0.0941***</td><td></td><td>-0.1129 ***</td></tr><tr><td rowspan=\"2\">M1</td><td></td><td>(0.0218)</td><td></td><td>(0.005 6)</td><td></td><td>(0.0001)</td></tr><tr><td>-0.3798 ***</td><td>-0.3071***</td><td>-0.3971***</td><td>-0.3898 ***</td><td>-0.3938 ***</td><td>-0.3498 ***</td></tr><tr><td>M2</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.0000)</td><td>(0.0000)</td><td>(0.0000)</td></tr><tr><td rowspan=\"2\"></td><td>-0.6122***</td><td>-0.554 7</td><td>-0.5297***</td><td>-0.4945***</td><td>-0.5773 ***</td><td>-0.5268***</td></tr><tr><td>(0.0000)</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.0000)</td><td>(0.0000)</td></tr><tr><td rowspan=\"2\">常数项</td><td>1.1829 ***</td><td>2.1956***</td><td>1.2860***</td><td>1.4695 ***</td><td>1.2451***</td><td>1.9404***</td></tr><tr><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.000 0)</td><td>(0.000 0)</td></tr><tr><td>观测值</td><td>68</td><td>68</td><td>68</td><td>68</td><td>68</td><td>68</td></tr><tr><td>调整的R</td><td>0.2037</td><td>0.204 2</td><td>0.2264</td><td>0.241 5</td><td>0.2065</td><td>0.2136</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4第1列和第2列反映了人口压力对沙漠化发展的影响程度。模型（1）、（3）、（5）为形成沙漠化的人为原因，模型(2）、（4）、（6)在前者的基础上纳入了自然因子。虚拟变量的回归系数一直为负，表明东、中部地区相对于西部地区的差距。该阶段，沙漠化呈现不断扩张的趋势。根据回归结果，人口压力的回归系数显著为正，人口压力每上升 $1 \\%$ ，沙漠化指数将显著上升 $0 . 0 7 4 4 \\%$ ;风速与降水对沙漠化指数分别成正比和反比：风速每上升 $1 \\%$ ,沙漠化指数上升 $0 . 0 4 8 ~ 5 \\%$ ，这一阶段风速的作用并不显著;降水量每上升 $1 \\%$ ,将导致沙漠化指数显著的降低 $0 . 0 2 1 ~ 8 \\%$ ,表明一定时期内，风速是沙漠化的一个重要因子，而降水则会阻碍沙漠化的扩张，这与我们上文猜想一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4第3、4列反映了这一阶段沙漠化开始出现逆转，但人口压力与沙漠化仍然呈现正相关趋势，人口压力每上升 $1 \\%$ ,沙漠化显著的扩张 $0 . 0 2 6 ~ 9 \\%$ 0风速和降水对沙漠化的影响分别为 $0 . 1 7 2 \\ 9 \\%$ 、$- 0 . 0 9 4 \\ 1 \\%$ 。对比1990—2000年人口压力影响系数，该时期人口压力对沙漠化的影响变小了。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "回归结果显示，人口压力对沙漠化的影响仍然显著为正，降水和风速的回归系数差别不大，全时期分析与分阶段分析结果基本一致，再次验证了以上分析的正确性。另外，模型(2）、（4）、（6)调整的 $R ^ { 2 }$ 明显高于模型（1）、（3）、（5），表明纳入自然因子之后模型拟合的更好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2人口压力对沙漠化作用的时空差异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4虚拟变量回归系数显著为负，表明存在地区差异。本文对东、中、西部地区进行分别回归，表5显示了人口压力对沙漠化作用程度的时空差异。在1990—2000 年，东部、中部和西部人口压力回归系数分别为 $0 . 0 6 4 7 . 0 . 1 0 0 7 . 0 . 1 4 1 9$ ，并且都是显著的。表明该阶段,各地区人口压力对沙漠化影响程度从东至西依次增加。而在 2000—2010 年，东部、中部和西部人口压力回归系数分别为0.0651、0.0404、0.0223，西部地区不显著，表明该阶段各地区人口压力对沙漠化影响程度从东至西依次减小。同时，观察两个时期的回归系数可以看出，总体来说，1990一2000年人口压力对沙漠化的影响程度明显高于 2000—2010 年。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3人口压力对沙漠化的内在驱动机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2和图3描述了主要变量在全时期的变化情况，根据68个县(旗)当年均值并进行单位标准化处理得到。结合图2和图4分析人口压力内在驱动机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2直观反映了内蒙古地区沙漠化呈现先增加后减少的趋势,逆转时间为 2000 年[21-22]。与王涛[23]通过遥感得出的结果是一致的，表明上述实证有意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3显示了人口压力年均值全时期变动情况，大致呈现先上升后下降的趋势，转折期大致在2000年附近，与沙漠化发展情况基本吻合。1990一2000年，按照根据粮食占有量制定的生活类型划分标准，1990年以后，粮食的发展进入快速增长时期，内蒙古已经处于富裕型，人们从事生活生产不再以温饱为主要目标，希望获得更多的收入，也就是说，从这时候开始，收入压力已经超过粮食压力占据人口压力的大部分比重。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0708af4964a17f0cc0a4b3aae403d654192558c9ec60f0bebde11508898364a6.jpg",
+        "table_caption": [
+            "表5内蒙古东中西部县旗人口压力回归结果",
+            "Tab.5Regression results for the eastern，central and western counties of Inner Mongolia "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">解释变量</td><td colspan=\"6\">被解释变量:lnD1</td></tr><tr><td colspan=\"2\">东部</td><td colspan=\"2\">中部</td><td colspan=\"2\">西部</td></tr><tr><td>模型(1)</td><td>模型(2)</td><td>模型(3)</td><td>模型(4)</td><td>模型(5)</td><td>模型(6)</td></tr><tr><td>lnPP</td><td>1990—2000 年</td><td>2000—2010 年</td><td>1990—2000 年</td><td>2000—2010 年</td><td>1990—2000 年</td><td>2000—2010 年</td></tr><tr><td rowspan=\"2\"></td><td>0.0647 *</td><td>0.0651***</td><td>0.1007**</td><td>0.040 4</td><td>0.1419 ***</td><td>0.0223</td></tr><tr><td>(0.0935)</td><td>(0.0035)</td><td>(0.0195)</td><td>(0.101 9)</td><td>(0.000 6)</td><td>(0.317 6)</td></tr><tr><td rowspan=\"2\">lnW</td><td>0.095 6</td><td>0.017 3</td><td>0.123 4</td><td>0.111 3</td><td>0.5766***</td><td>0.6305***</td></tr><tr><td>(0.362 6)</td><td>(0.817 5)</td><td>(0.418 9)</td><td>(0.247 4)</td><td>(0.0000)</td><td>(0.0000)</td></tr><tr><td rowspan=\"2\">lnP</td><td>-0.3342 **</td><td>0.2584**</td><td>-0.4552***</td><td>-0.190 4 *</td><td>-0.156 8 ***</td><td>-0.1468 ***</td></tr><tr><td>(0.047 2)</td><td>(0.0282)</td><td>(0.0000)</td><td>(0.0761)</td><td>(0.000 2)</td><td>(0.0001)</td></tr><tr><td rowspan=\"2\">常数项</td><td>1. 177 1</td><td>-0.136 6</td><td>1.038 6 ***</td><td>0.496 7</td><td>0.437 6</td><td>1.424 6</td></tr><tr><td>(0.229 7)</td><td>(0.842 7)</td><td>(0.0011)</td><td>(0.5961)</td><td>(0.3313)</td><td>(0.3251)</td></tr><tr><td>观测值</td><td>23</td><td>23</td><td>22</td><td>22</td><td>23</td><td>23</td></tr><tr><td>调整的R</td><td>0.0227</td><td>0.0766</td><td>0.0597</td><td>0.027 2</td><td>0.315 7</td><td>0.2930</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2503e6b35a93b5cb94911460cd285c5a26f5da8057710d60b116b6916fcd8215.jpg",
+        "img_caption": [
+            "图2沙漠化面积年均值全时期变动情况 Fig.2 Full-time changes in the annual average value of desertified area "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d1aec320201a9adb71ce95ae73cfd9374fa9df2834b43c0cffc0f03f6b17d301.jpg",
+        "img_caption": [
+            "图3人口压力年均值全时期变动情况 Fig.3 Full-time changes in the annual average value of population pressure "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着社会与经济的不断发展进步，人口压力的结构也会不断变化。人们日益增长的需求促使了新品种、新技术的发明和创造[24],使得农作物产量大幅提高，粮食压力占比越来越小，与之相比收入压力反而越来越突出。结合表5中所得的结论进行分析。结论一：总体上1990—2000年人口压力对沙漠化的影响程度明显高于2000—2010年。究其原因，一方面是由于经济结构的发展变化，越来越多的人走出农业系统转而从事第二三产业，从而减轻了土地压力，沙漠化得以缓解;另一方面是由于在2000年以后人们的环境意识不断增强，政府出台了较为规范的生态补偿政策，有效保障了防沙治沙工作的顺利进行[25],为实现沙漠化土地整体逆转发挥了重要作用。这也解释了第二个结论：1990—2000 年，各地区人口压力对沙漠化影响程度显著的从东至西依次增加。东、中、西部地区经济发展模式、自然环境特点存在较大差异。中部和西部，尤其是西部地区自然资源丰富，市场潜力大，战略位置重要。然而严重的沙漠化阻碍了地区开发，这一阶段工业并不成熟，大多数人仍然依靠土地生产生活，人口压力主要疏解领域仍然是农业。于是，在干旱的中西部地区，旱作农业面积越来越大，并且向西延伸越来越远,牧农错位的同时也挤占了草地面积,进一步加重了沙漠化的风险。随着2000年以来对西部地区的开发建设，很多原来农村劳动力被制造业吸纳，在转移和降低人口压力的同时，也减轻了对土地的作用力，使得沙漠化有所缓解，因此西部地区人口压力对沙漠化影响程度呈现逐渐变小的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4稳健性检验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述结论是否会因代理变量的改变而改变？回归结果是否是稳健的？本文对解释变量和被解释变量的指标衡量方法进行调整和替换，进一步对人口压力是造成内蒙古沙漠化的根源这一命题进行验证。将解释变量由人口压力的对数形式改为人口压力增长比 $P R$ ,将被解释变量由沙漠化面积，以检验初步回归的结果是否依然显著[26]。观察变量调整后的回归结果，如表6所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5报告了稳健性检验结果，显示了3个解释变量的符号与表4回归结果一致。这表明人口压力是造成沙漠化的主要原因这一结论并没有因为代理变量衡量标准的变化而变化，实证结果是稳健的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于上文的实证研究，得出了人口压力是沙漠化的主要原因的结论。这与马尔萨斯人口原理反映的人口规模与自然资源之间存在的某种制约规律在某种程度上是相吻合的，这种制约规律表现为繁荣与毁灭的周期性规律，使得生态系统在经历任何创伤或毁灭后总是仍然能够回归“稳态”水平。马尔萨斯认为，当人口数量增加到自然资源无法满足的程度时，社会就会抑制过剩人口。生态系统在经历长期的繁荣后过渡到疲软阶段，在这个阶段自然资源供给相对于人类需求来说明显不足，为了保持整个系统的稳定，自然开始自动找寻平衡的方式，当人",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表6稳健性检验结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6309708d6236276b53f103be2ba2596a6f0462447081d6a3b2007b802cf7227f.jpg",
+        "table_caption": [
+            "Tab.6 Robustness test result "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">解释变量</td><td colspan=\"6\">被解释变量：lnD2</td></tr><tr><td colspan=\"2\">1990—2000 年</td><td colspan=\"2\">2000—2010 年</td><td colspan=\"2\">1990—2010 年</td></tr><tr><td></td><td>模型(1)</td><td>模型(2)</td><td>模型(3)</td><td>模型(4)</td><td>模型(5)</td><td>模型(6)</td></tr><tr><td>lnPR</td><td>0.026 8 * (0.0829)</td><td>0.023 3 (0.109 2)</td><td>0.011 4 (0.4961)</td><td>0.012 4 (0.424 3)</td><td>0.0191 * (0.0939)</td><td>0.018 5 * (0.0829)</td></tr><tr><td>lnW</td><td></td><td>2.1103 ***</td><td></td><td>2.592 8 ***</td><td></td><td>2.3231***</td></tr><tr><td rowspan=\"2\">lnP</td><td></td><td>(0.0000) -0.3781**</td><td></td><td>(0.000 0) -0.140 6</td><td></td><td>(0.000 0)</td></tr><tr><td></td><td></td><td></td><td>(0.319 6)</td><td></td><td>-0.2723***</td></tr><tr><td rowspan=\"2\">M1</td><td></td><td>(0.0111)</td><td>-0.230 7</td><td></td><td></td><td>(0.0000)</td></tr><tr><td>-0.3409 **</td><td>-0.483 7</td><td></td><td>-0.7180 ***</td><td>-0.2855**</td><td>-0.6025***</td></tr><tr><td rowspan=\"2\">M2</td><td>(0.0263)</td><td>(0.0060)</td><td>(0.156)</td><td>(0.0000)</td><td>(0.012 6)</td><td>(0.0000)</td></tr><tr><td>-1.216 3 ***</td><td>-1.138 6</td><td>-1.076 1</td><td>-1.299 9 ***</td><td>-0.1457***</td><td>-1.2193***</td></tr><tr><td rowspan=\"2\">常数项</td><td>(0.0000)</td><td>(0.0000)</td><td>(0.0000)</td><td>(0.0000)</td><td>(0.000 0)</td><td>(0.000 0)</td></tr><tr><td>21.4329 ***</td><td>17.4838 ***</td><td>21.3441***</td><td>14.2195 ***</td><td>21.3850 ***</td><td>16.0317***</td></tr><tr><td></td><td>(0.0000)</td><td>(0.000 0)</td><td>(0.0000)</td><td>(0.000 0)</td><td>(0.0000)</td><td>(0.0000)</td></tr><tr><td>观测值</td><td>68</td><td>68</td><td>68</td><td>68</td><td>68</td><td>68</td></tr><tr><td>调整的R</td><td>0.0859</td><td>0.195 8</td><td>0.0607</td><td>0.197 3</td><td>0.0721</td><td>0.1948</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "口压力严重时,反过来会抑制人口增长[13],最后呈现一种衰败的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "然而，值得讨论的是，马尔萨斯的人口原理并不一直是正确的：由于现阶段人口对经济发展与自然环境的影响随市场调控、政府政策的变动而变动，在长期，人口再生产与农业生产资料的恰当匹配是可以实现的。因此随着人口数量的增加，人口压力并不一定增加，反而可能下降，因此人口容量与环境质量并不一定是反向关系，这也解释了为什么我国人口分布东多西少，而人口压力却从西至东总体减小，这一论断也可以从图4得到证实。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在农业为主的经济形态下，人的行为对自然环境的影响不容小，人口压力是沙漠化产生的根源。与此同时新的问题浮现出来：如何跳出马尔萨斯人口陷阱？当前过剩的人口压力究竟应该如何释放？",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "回答这一问题要追溯到农业的起源。农业的产生是由人类的生产行为以及社会组织结构的协同进化促成的，这种协同进化是在人口压力的基础上进行的。事实上，人口压力的发展变化实际上反映了农业文明的演变过程，一定的人口压力推动人类从采猎经济走向农业经济[18]。农业发展史是在人口压力下改变耕作形式、发展耕种技术从而缓解人口",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e32d96ed781e70867b35bfb7b462a7500764637124048958d818e57d4e32772.jpg",
+        "img_caption": [
+            "图41990—2010 年巴林右旗人口增长与沙漠化指数变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Changes in population growth and desertification index of Bahrain Right Banner from 1990 to 2010 压力的产物。因此摆脱马尔萨斯陷阱，应该依靠发 展农业[27] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着工业社会的到来，人口压力逐渐可以走出农业系统，有了更多的释放空间。在当前国际贸易纵深发展的趋势下，人口压力在地域上有了新的释放空间。发挥国际贸易的优势进口食物就是进口虚拟土地，以此来减轻本国土地综合压力，从而将人口压力输送到人口压力更小的国外去。当前在我国遭遇刘易斯拐点的迷局下，呈现出人口红利降低，劳动力短缺的情况，除了用发展的思路解决人口问题[28],更应该破除光\"输血”不\"造血”的模式,用舒尔茨人力资本模式指导未来发展，使生态系统中过剩的人口压力沿着产业链条从农业内部传递到第二产业和第三产业中去[25],从根本上增强工农业发展质量。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文创新地将人口压力理论应用到沙漠化研究领域中，解释沙漠化的根源，为以后的沙漠化研究提供了一个新的视角和思路。得到的主要结论是：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）在观测数据范围内，人口压力与内蒙古地区沙漠化呈正相关关系，是沙漠化的根源，降水与沙漠化呈负相关关系，风速是造成沙漠化扩张的自然因子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）人口压力对于内蒙古自治区生态环境的影响具有很强的阶段性特征。在1990—2000 年，人口压力主要体现为粮食压力，随着人口压力每增加$1 \\%$ ,沙漠化程度显著增加 $0 . 1 2 6 \\%$ ；在 2000—2010年，人口压力主要表现为致富压力，或者说是收入压力,其每增加 $1 \\%$ ,沙漠化程度显著增加 $0 . 2 3 9 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文根据马尔萨斯人口原理，从沙漠化的产生根源着手构建模型，将人口压力问题引入生态领域，揭示了人口压力对于自然与社会环境的重大作用力，同时也发现了马尔萨斯人口原理存在的谬误，并对当前如何跳出马尔萨斯陷阱提出了建议，具有一定的创新性。但是沙漠化的影响因素是多方面的，在指标选取方面，不可能将沙漠化的全部影响因子纳入模型中。针对沙漠化的研究是一个漫长的过程，本文的一些研究和结论仍需进一步验证。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] MALTHUS TR,HOLLINGSWORTHT H.Essay on the principle of population[M].Ann Arbor:University of Michigan Press,1959. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]赵冈.人口、垦殖与生态环境[J].中国农史,1996,（1)：56- 66.［ZHAO Gang.Population,reclamation and ecological environment[J].Agricultural History of China,1996,（1）:56 -66.]   \n[3］陈育宁.鄂尔多斯地区沙漠化的形成和发展述论[J].中国社 会科学,1986,（2）:69-82.[CHEN Yuning.On the formation and development of desertification in Ordos area[J].Social Sciences in China,1986,(2） :69-82.]   \n[4］王尚义.两汉时期黄河水患与中游土地利用之关系[J].地理 学报,2003,58（1）:73-82.[WANG Shangyi.The relationship between the Yellow River flood and land use in the middle reaches during the Han dynasty[J].Acta Geographica Sinica,2003,58 (1) :73 -82. ]   \n[5］王北辰.公元九世纪初鄂尔多斯沙漠图图说——唐夏州、丰州 境内沙漠［J].中国沙漠,1986,6（4）:34－38.［WANG Beichen.Explanation on the sketch of Ordos Deserts in the early nineth century:Deserts on the territories of Xiazhou and Fengzhou in the Tang Dynasty[J]. Journal of Desert Research,1986,6（4）: 34 -38.]   \n[6］王北辰.公元六世纪初期鄂尔多斯沙漠图图说——南北朝、北 魏夏州境内沙漠[J].中国沙漠,1986,6（3）:29-36.[WANG Beichen. Captions for sketch map of Erduosi Desert in the early period of sixth century AD:Deserts in the area of Xiazhou,the Northern Wei Dynasty,the Northern and Southern Dynasties[J]. Journal of Desert Research,1986,6(3）:29 -36.]   \n[7］李中清,王丰,纪南.马尔萨斯模式和中国的现实:中国1700- 2000 年的人口体系[J].中国人口科学,2000,（2）：16－27. [LI Zhongqing,WANG Feng,JI Nan.Malthusian model and Chinese reality:China's population system from 1700 to 2000[J]. Chinese Journal of Population Science,200o,(2）:16 -27.]   \n[8］陈功,张如菡.国外学者对马尔萨斯人口理论的研究与发 展——纪念马尔萨斯诞辰250周年[J].人口与发展,2016,22 (6）:65-72.[CHEN Gong,ZHANG Ruhan.Research and development of Malthus theory of population by foreign scholars: Commemorating the $2 5 0 ^ { \\mathrm { t h } }$ anniversary of Malthus’birth[J].Population and Development,2016,22(6）:65 -72.]   \n[9]BOSERUP E.The condition of agricultural growth: The economics of agrarian change under population pressure[M].London：Allen and Unwin,1965:402-403.   \n[10］史念海.司马迁规划的农牧地区分界线在黄土高原上的推移 及其影响[J].运城学院学报,1999,18(5）：20-33.［SHINianhai.The development and influence of the dividing line of farming and animal husbandry districts drawn up by Sima Qian on Loess Plateau[J]. Journal of Yuncheng Advanced Training College, 1999,18(5):20-33.]   \n[11］张崇旺.试论明清时期江淮地区的农业垦殖和生态环境的变 迁[J].中国社会经济史研究,2004,（3）:54-61.［ZHANG Chongwang.Agriculture cultivation and change of ecological environment in the Yangtze River and the Huai River Area in the Ming-Qing period[J].The Journal of Chinese Social and Economic History,2004,(3）：54-61.]   \n[12］赵珍.清代西北地区的农业垦殖政策与生态环境变迁[J].清 史研究,2004,（1）:76-83.[ZHAO Zhen.Agricultural reclamation policy and ecological environment change in northwest China in Qing Dynasty[J].Studies in Qing History,2004,（1） :76- 83.]   \n[13］史念海.两千三百年来鄂尔多斯高原和河套平原农林牧地区 的分布及其变迁[J].北京师范大学学报（社会科学版）,1980, 16(6）:1-14.[SHI Nianhai. Distribution and vicissitude of agriculture,forestry and pastoral areas in Ordos Plateau and Hetao Plain in the past two thousand and three hundred years[J] Journal of Beijing Normal University（Social Science Edition）,1980,16 (6):1-14.]   \n[14］樊胜岳,聂莹,陈玉玲.沙漠化：政策作用与耦合模式［M].北 京：中国经济出版社,2015:47-51.[FAN Shengyue,NIE Ying, CHEN Yuling.Desertification:Policy effectsand coupling models [M].Beijing:China Economic Press,2015:47-51.]   \n[15］阿如旱,都来,盛艳,等.基于Logistic 回归模型的内蒙古多伦 县土地沙漠化驱动力分析[J].干旱区地理,2019,42（1）： 137-143.[Aruhan,DU Lai,SHENG Yan,et al. Driving force analysis of land desertification in Duolun County,Inner Mongolia based on Logistic regression model[J]. Arid Land Geography, 2019,42(1) :137 -143.]   \n[16]程磊磊,尹昌斌,卢琦,等.荒漠化成因与不合理人类活动的经 济分析[J].中国农业资源与区划,2016,37(7)：123－129. [CHENG Leilei,YIN Changbin,LU Qi,et.al.Ecnomic analysis f desertification causes and irrational human activities[J].Agricultural Resources and Regionalization in China,2016,37（7）:123 - 129.]   \n[17］马俊,牟雪松,王永达,等.近1ka 以来河西地区的沙漠化及对 高强度人类活动的响应分析[J].干旱区地理,2018,41（5）： 1043-1052.[MA Jun,MOU Xuesong,WANG Yong,et. al.Response of desertification to intensified human activities over the latest 1 kain Hexi region[J].Arid Land Geography,2018,41（4）: 329 -333.   \n[18］王建革.人口压力与中国原始农业的发展［J].农业考古， 1997,(3）:59-72.[WANG Jiange.Population pressure and the development of primitive agriculture in China[J].Agricultural Archaeology,1997（3）:59-72.]   \n[19]孙武,侯玉,张勃.生态脆弱带波动性、人口压力、脆弱度之间 的关系［J].生态学报,2000,20(3）:369-373.[SUNWu,HOU Yu,ZHANG Bo.An approach to the fluctuation relation among land productivity，population pressure and weakness in ecotone [J].Acta Ecologica Sinica,2000,20(3）:369 -373.]   \n[20］王涛,吴薇,赵哈林,等.科尔沁地区现代沙漠化过程的驱动因 素分析[J].中国沙漠,2004,24（5）:519-528.[WANG Tao, WU Wei,ZHAO Halin,et.al.Analysis of driving factors of modern desertification process in Horqin area[J]. Journal of Desert Research,2004,24(5):519 -528.]   \n[21］丁文广,陈利珍,李丹璐.1975—2014 年晋西北地区沙漠化动 态变化趋势研究［J]干旱区地理,2016,39（5）:994－1003. [DING Wenguang,CHEN Lizhen,LI Danlu. Dynamic change trend of desertification in northwest Shanxi Province during 1975—2014 [J].Arid Land Geography,2016,39(5）:994-1003.   \n[22］胡智育.科尔沁南部草原沙漠化的演变过程及其整治途径 [J].中国草地学报,1984,（2）:66-69.［HU Zhiyu.The evolution of grassland desertification in the south of Horqin and its control methods[J].Chinese Journal of Grassland,1984,(2）:66- 69.]   \n[23］王涛,宋翔,颜长珍,等.近35a来中国北方土地沙漠化趋势的 遥感分析[J].中国沙漠,2011,31（6）：1351-1356.［WANG Tao,SONG Xiang,YAN Changzhen,et.al. Remote sensing analysis on aeolian desertification trends in northern China during 1975— 2010[J].Journal of Desert Research,2011,31(6）:1351-1356]   \n[24］黄宗智.走出“马尔萨斯陷阱\"——博塞拉普《农业增长的条 件：人口压力下农业演变的经济学》导读[J].文化纵横,2015， (3）:82-87.[HUANG Zongzhi. Step out of the Malthus trap: Boserup“The conditions for agricultural growth:The economics of agricultural evolution under population pressure”［J].Culture Crossings,2015,(3) :82 -87]   \n[25］樊胜岳,张卉.1949 年以来中国农村土地制度变迁对土地沙漠 化变化的影响[J].干旱区地理,2009,32（2）:268－273.［FAN Shengyue,ZHANG Hui.Influence of the transformation of the China's rural land system on sandy desertification changes since 1949 [J].Arid Land Geography,2009,32(2）:268 -273.   \n[26］赵领娣,杨明晔,张磊.能源禀赋与就业增长—基于省际面 板数据的实证分析[J].资源科学,2013,35（9）：1801－1811. [ ZHAO Lingdi, YANG Mingye,ZHANG Lei. Energy endowment and employment growth based on provincial panel data[J]. Resources Science,2013,35(9):1801-1811.]   \n[27］JANZEND H.When is it coevolution?［J].Evolution,1980,34 (3) :611-612.   \n[28］江涛.舒尔茨人力资本理论的核心思想及其启示[J].扬州大 学学报（人文社会科学版）,2008,12(6）:84-87.[JIANG Tao. The central idea of Schultz's human capital theory and its implication[J].Journal of Yangzhou University（Humanities and Social Sciences Edition).2008,12(6):84-87.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Out of the Malthusian trap :The relationship between population pressure and desertification ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FAN Sheng-yue， ZHOU Ning， LIU Wen-wen (School ofEconomics,Minzu University of China,Beijing1Ooo81,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The Malthus population principle,which believes the mass population must lead to the population pressure,and leads to thefragilityof theecosystem,has some falacies.In fact,with the progress ofsociety and the development of economy,the problem of hunger has been solved,and the bearing capacity of nature has been strengthened. With the increase of population,population pressure does not necessrily increase,but may decline.Therefore, therelationship between population capacity and environmental qualityisnot necessarily reverse.Inner Mongolia Autonomous Region,China is situated between $3 7 ^ { \\circ } 2 4 ^ { \\prime } - 5 3 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { ~ N ~ }$ and $9 7 ^ { \\circ } 1 2 ^ { \\prime } - 1 2 6 ^ { \\circ } 0 4 ^ { \\prime } \\mathrm { E }$ ,with a total area of 1.183 millon square kilometers.The terrain slopes from northeast to southwest in a narrow and long shape.In recent years,with the degradation of meadow and farmland caused by overgrazing and cultivation,the relationshipbetween human and land has become moreand more tension in desertification areas,which shows atrend of excessive presure on the utilization of natural resources and environmental carying capacity.Desertification isan important problem in the sustainable development of ecological environment and social economy in northern China.There are manyresearch results onthis problem,but there are few innovations in thestudy of thecauses of desertification. Referenced the principle of Malthus population,this paper constructed a model from the root of desertification and a model from the causes of desertification which took the population pressure into the research innovatively basedon the county panel data of Inner Mongolia Autonomous Region.This paper analyzed the quantitative relationship between population presure and the development and reversal of desertification,and investigated the mechanism of population pressure on the development and change of desertification areas in 68 desertification counties（banners） from 1990 to 2010.In this paper,the population pressure was divided into grain pressre and enrichment pressure, and 68 counties in Inner Mongolia were divided intoeastern,centraland western regions,and two virtual variables were introduced.Based on them,we investigated the diffrence of the effectof population pressureon desertification in diffrent regions.It is found that within therange of observed data,population pressure is closely related to the development and change of local desertification.Before 2Ooo,the population pressure increased continuously,which significantly promoted the expansion of desertification.Since 2Ooo,the population pressure has beencontinuouslyreduced through regionaltransfer,and thedesertification in thisarea has been efectivelyallviated.The studyalso showed that the efect of population pressure on desertification in Inner Mongolia Autonomous Region shows obvious temporal and spatial differences.Through the research,we think that the population pressure is the main cause of desertification.The last part of the paper puts forward some suggestions on how to jump out of the Malthus trap at present.In this paper,the theory of population pressure is applied to the field of desertification research,and the internal force is detected to explain the causes and changes of desertification,which could provide a new perspective for the future research on desertification. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:population pressure；Malthus trap；desertification； virtual land; Schultz human capital",
+        "page_idx": 8
+    }
+]

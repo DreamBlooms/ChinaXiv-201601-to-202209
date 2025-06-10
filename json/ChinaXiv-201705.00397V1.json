@@ -1,0 +1,450 @@
+[
+    {
+        "type": "text",
+        "text": "A further comparison of graphene and thin metal layers for plasmonics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaoyong He,\\*a Pingqi Gaob and Wangzhou Shia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Which one is much more suitable for plasmonic materials,graphene or metal?To address this problem well,the plasmonic propertiesof thin metal sheetsat diferent thicknesses have been investigated and compared with a graphene layer.As demonstration examples,the propagation properties of insulatormetal-insulator and metamaterials (MMs)structures are also shown.The results manifest that the plasmonic properties of the graphene layer are comparable to that of thin metal sheets with the thickness of tens of nanometers.For the graphene MMs structure,by using the periodic stack structure in the active region, the resonant transmission strength significantlyimproves.At the optimum period number,3-5 periods of graphene/ $\\mathrm { \\mathsf { S i O } } _ { 2 }$ the graphene MMs structure manifests good frequency and amplitude tunable properties simultaneously,and the resonant strength is also strong with large values of the $Q$ -factor.Therefore, graphene is a good tunable plasmonic material.The resultsare very helpful to develop novel graphene plasmonic devices, such as modulators,antenna and filters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Surface plasmons (sPs) are two-dimensional (2D) surface waves propagating along the boundary between a metal and dielectric medium,offering the merits of controlling the light at sub-wavelength scales.1,2 They exploit the mass inertia of electrons to create propagating charge density waves at the metal surface and exhibit sub-wavelength confinement of the electric field in the direction normal to a conductor-dielectric interface.3-8 As a novel branch of electromagnetic structures, plasmonics has emerged as an important scientific field, promising bright prospects in the aspects of waveguide devices, solar cels, and spectroscopy.9-14 Considerable efforts have been devoted to develop various plasmonic systems,i.e. the metal-dielectrics-metal structure,the groove structure,15 hybrid plasmonic structures,16 and novel metamaterials (MMs) devices.To find suitable material systems is of vital importance for the further development of plasmonic systems.As the fundamental plasmonic materials,noble metals (Au and Ag) exhibit the disadvantages of short wavelength,not very good confinement and inconvenient tunability. Thus,other kinds of optional materials have been proposed，such as graphene, semiconductors,17 superconductors1 etc. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphene,a flat monolayer of carbon atoms packed into a honeycomb crystal latice,19-22 is a fascinating material and shows the advantages of high carrier mobility, flexible tunabilitywithout varying physical geometrical parameters，and strong mode confinement.23-26 Compared with its metal cousins,graphene is a good complementary material for the exploration of SPs and MMs devices.27-29 Much experimental and theoretical research work has been carried out in this aspect.For instance,Xia's group experimentally investigated the damping mechanisms of GSPs in the mid-infrared regime, indicating that the surface polar phonons in the $\\mathrm { S i O } _ { 2 }$ substrate resulted in strong plasmonic dispersion,very useful in designing novel graphene plasmonic devices.3o By depositing metal sub-wavelength ring apertures on the graphene- ${ \\bf \\nabla } \\cdot { \\bf \\vec { S } i } { \\bf O } _ { 2 } .$ -Silayers, Gao et al. suggested a high-speed modulator,indicating that the amplitude modulation of THz waves can reach about $5 0 \\%$ .31 With the help of pumped green light,a terahertz active diode has been experimentally demonstrated by using a hybrid graphene-Si structure,3² which permits THz waves to pass through at a positive biased voltage and blocks the waves under a small negative voltage.The corresponding transmission modulation depth reaches more than $8 0 \\%$ ,indicating good applications in modulators and switches. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Probably,one of the most important challenges to the applicability of plasmonic devices is to exhibit good confinement and small dissipative losses (long propagation length) simultaneously. To find a suitable material is an important step to solve this problem.As the strong candidate,graphene or metal film,which one is more suitable for plasmonic materials? Some researchers claim that metal is superior to graphene membrane for plasmonic devices.18 But if thin metal sheets (tens of nm) are adopted as the composed materials, large errors between the experimental and simulation results occur on the basis of bulk metal parameters.³’ Metallic nanoscale sheets have also become a good platform to investigate plasmonic devices.34 Because of the surface scattering and backscattering, the plasmonic properties of a thin metal film closely depend on structural dimensions if its thickness is comparable to the electron mean free path (MFP).36-38 To a large extent,it is unfair to compare the plasmonic properties of a graphene layer with those of the bulk metal database. Therefore,the plasmonic properties of a graphene layer and thin metal sheets have been theoretically investigated and compared.Furthermore，as demonstration examples, the propagation properties of insulator-metal-insulator (IMI) and sub-wavelength MMs structures based on graphene and metallic MMs patterns have also been shown.The results manifest that the plasmonic properties of the graphene layer are comparable to those of the thin metal membrane if the thickness of the metal film is in the range of tens of nanometers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Research methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(a) and (b) show the side view of mono and multi-periods of graphene (metallic) pattern MMs structures.The substrate is made from polyimide with a thickness of $2 \\mu \\mathrm { m }$ .Fig.1(c) and (d) display the top views of electric split-ring resonators and circular ring shaped unit cell structures，respectively.The incident waves are normally transmitted through the multi layer structure along the $z$ direction. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the bulk model, the frequency-dependent permittivity of the metal in the THz regime is as follows:35 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon ( \\omega ) = \\varepsilon _ { \\infty } - \\frac { { \\omega _ { \\mathrm { p } } } ^ { 2 } } { \\omega ( \\omega + \\mathrm { i } \\omega \\tau ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For thin metal sheets,owing to the surface scattering,the conductivity of a thin metal film strongly depends on the thickness.According to the Fuchs-Sondheimer (FS) theory and simplifying the Boltzmann equation in a scalar relaxation time approximation，the ratio between the resistivity $\\rho$ and the intrinsic film resistivity $\\rho _ { \\mathrm { i } }$ (i.e.,the resistivity the film would possess if it is infinitely thick) is given by:36-38 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\rho _ { \\mathrm { i } } } { \\rho } = 1 . 0 - \\left( 3 / 8 \\kappa \\right) + \\left( 3 / 2 \\kappa \\right) \\int _ { 1 } ^ { \\infty } { \\left( 1 . 0 / t ^ { 3 } - 1 . 0 / t ^ { 5 } \\right) } e ^ { - \\kappa t } d t\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa \\ : ( \\equiv d / l _ { \\mathrm { i } } )$ is the ratio between the film thickness $d$ over the intrinsic electron mean free path $l _ { \\mathrm { i } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition，according to the Drude-Smith (Ds) model, taking into account the back-scattering，the conductivity of thin metal films is expressed as:39,40 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( \\omega ) = \\frac { \\varepsilon _ { 0 } { \\omega _ { \\mathrm { p } } } ^ { 2 } \\tau } { 1 . 0 - \\mathrm { i } \\omega \\tau } \\Bigg [ 1 + \\sum \\frac { c _ { j } } { ( 1 - \\mathrm { i } \\omega \\tau ) ^ { j } } \\Bigg ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Besides the common Drude term,the second part in eqn (3) gives the persistence of electron's velocity after a number of scattering events，the parameter $j$ denotes the scattering ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/79d81feedd388b2b9d4e9069ed048b7b02fbb39bab40311a3a22dd7090e51429.jpg",
+        "img_caption": [
+            "Fig.1(a), (b)The side view of the MMs structure.(a)The graphene unit cellstructure is deposited on $\\mathsf { S i O } _ { 2 } / \\mathsf { S i }$ layers,(b) the multilayer metal-dielectrics structure,the thickness of the dielectric layer is $3 0 \\ n m$ ,and the doped Si layer is used to apply the gate voltage.(c), (d)The top views of geometry for the MMs unit cellstructures. (c) The electric split ring resonator (eSRR) structure, $l _ { x } = l _ { y } = 4 8 ~ { \\mu \\mathrm { m } } ;$ (d) the circular ring structure, $D _ { 1 } = 4 0 \\ { \\mu \\mathrm { m } } , D _ { 2 }$ $= 3 6 \\mu \\mathrm { m }$ .The periodic length along the $x$ and $y$ directions are both $6 0 ~ \\mu \\mathsf { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "events, $c _ { \\mathrm { i } }$ describes the persistence of velocity,i.e. the fraction of electron's initial velocity that is retained after the $j ^ { \\mathrm { t h } }$ collision. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As graphene isa typical 2D material,its surface conductivity can be described by $\\sigma _ { \\mathrm { g } } ;$ 41 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\sigma _ { \\mathrm { g } } ( \\omega , \\mu _ { \\mathrm { c } } , \\tau , T ) = \\sigma _ { \\mathrm { i n t e r } } + \\sigma _ { \\mathrm { i n t r a } } = \\frac { j e ^ { 2 } \\left( \\omega - j \\tau ^ { - 1 } \\right) } { \\pi \\hbar ^ { 2 } } \\times } \\\\ & { \\displaystyle \\left[ \\frac { 1 } { \\left( \\omega - j \\tau ^ { - 1 } \\right) ^ { 2 } } \\int \\frac { \\partial f _ { \\mathrm { d } } \\left( \\varepsilon \\right) } { \\partial \\varepsilon } - \\frac { \\partial f _ { \\mathrm { d } } \\left( - \\varepsilon \\right) } { \\partial \\varepsilon } \\mathrm { d } \\varepsilon - \\displaystyle \\int \\frac { f _ { \\mathrm { d } } \\left( - \\varepsilon \\right) - f _ { \\mathrm { d } } \\left( \\varepsilon \\right) } { \\left( \\omega - j \\tau ^ { - 1 } \\right) ^ { 2 } - 4 \\left( \\varepsilon / \\hbar \\right) ^ { 2 } } \\mathrm { d } \\varepsilon \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in which $f _ { \\mathrm { d } } ( \\varepsilon )$ is the Fermi-Dirac distribution, $\\varepsilon$ is the energy of the incident wave, $k _ { \\mathrm { B } }$ is Boltzmann's constant.The first and secondparts denotetheintra-band andinter-band contributions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Asa typical example,the sub-wavelength insulator-metalinsulator (IMI) structure has been adopted to compare the graphene layer and thin metal layer. For thin metal layers, the dispersion relationship for the IMI structure can be written as:42 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nk _ { \\mathrm { s p } } = \\sqrt { \\left( \\frac { 2 \\varepsilon _ { \\mathrm { d } } } { \\varepsilon _ { \\mathrm { m } } \\Delta } \\right) ^ { 2 } + \\varepsilon _ { \\mathrm { d } } \\left( \\frac { \\omega } { c } \\right) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "in which $\\varepsilon _ { \\mathrm { { m } } }$ and $\\varepsilon _ { \\mathrm { d } }$ are the dielectric constants of the thin metal layer and surrounding dielectric constants, $\\Delta$ is the thickness of the thin metal layer.For the graphene layer, the dispersion relationship can be expressed as:24,29 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\varepsilon _ { 1 } } { \\gamma _ { 1 } } + \\frac { \\varepsilon _ { 2 } } { \\gamma _ { 2 } } + j \\frac { \\sigma _ { \\mathrm { g } } } { \\omega \\varepsilon _ { 0 } } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\varepsilon _ { i }$ isthe dielectric constant of the surrounding materials, $\\beta$ is the propagation constant, $\\gamma _ { j } ^ { ~ 2 } = \\beta ^ { 2 } - { k _ { 0 } } ^ { 2 } \\varepsilon _ { i } ,$ and $\\sigma _ { \\mathrm { g } }$ is the graphene conductivity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,for the multilayer structure,a numerical transfer matrix method (TMM) is applied to study the propagation properties.The relationship between the magnitude of the magnetic field of incident light at the first layer and that of the reflected waves at the last layer are shown as follows:10 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { M _ { 1 1 } } } & { { M _ { 1 2 } } } \\\\ { { M _ { 2 1 } } } & { { M _ { 2 2 } } } \\end{array} \\right) = M _ { N - 1 } M _ { N - 2 } \\cdot \\cdot \\cdot M _ { 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { i } = \\left[ \\begin{array} { c c } { \\varepsilon _ { i - 1 } } & { \\varepsilon _ { i } } \\\\ { \\varepsilon _ { i - 1 } } & { - \\varepsilon _ { i } } \\end{array} \\right] \\left[ \\begin{array} { c c } { \\gamma _ { i } } & { \\gamma _ { i } } \\\\ { \\gamma _ { i - 1 } } & { - \\gamma _ { i - 1 } } \\end{array} \\right] \\left[ \\begin{array} { c c } { \\exp ( \\gamma _ { i } d _ { i } ) } & { 0 } \\\\ { 0 } & { - \\exp ( \\gamma _ { i } d _ { i } ) } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$M _ { i }$ is the characteristic matrices in the $i ^ { \\mathrm { t h } }$ layer, $d _ { i }$ is the thickness of the $i ^ { \\mathrm { t h } }$ layer. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The surface plasmon wavelength $\\lambda _ { \\mathrm { s p } } .$ ， propagation length $L _ { \\mathrm { s p } }$ and decay length Dsp have been defined as:12 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { s p p } } = 1 / | \\mathrm { I m } ( \\beta ) |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { s p p } } = 1 / \\Big | \\mathrm { R e } \\Big ( \\sqrt { \\beta - k _ { 0 } ^ { 2 } } \\Big ) \\Big |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the permittivity of the monolayer graphene mem brane and metal sheets with different thicknesses.The permit tivity of the thin metal layer was obtained from the Drude, Fuchs-Sondheimer and Drude-Smith models.The solid black and orange color lines are for the permittivity of the bulk metal layer (Au) and graphene; the other solid color lines are the results obtained from the FS theory; the dashed lines show the results from the DS model.Au nano-sheets are used because of their good conductivity and chemical inertness. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.2，for the real part of permittivity of metallic thin films,the influence of thickness on plasmonic properties is significant.If the thickness is very small,e.g. $5 \\ \\mathrm { n m }$ and $1 0 \\ \\mathrm { n m }$ ，their metal permittivity is much smaller than that of bulk metal films.As the thickness increases,the value of metal permittivity increases drastically,which means that the metal layer denotes much better conductive properties.If the metal sheet thickness is larger than $1 0 0 ~ \\mathrm { { n m } }$ ,the distinctions between different models become smaller.If the thickness reaches more than $2 0 0 ~ \\mathrm { { n m } }$ ,the metal layers can be regarded as bulkmaterials.Forinstance,at $1 \\mathrm { T H z }$ frequency, if the metal layer thicknesses are $1 0 \\ \\mathrm { n m }$ ， $2 0 ~ \\mathrm { n m }$ ,and $5 0 ~ \\mathrm { n m }$ ，the ratios of their permittivity to bulk value are O.36,O.52,and 0.73,respectively.For the results of the graphene layer,the value of $\\mathrm { R e } ( \\varepsilon _ { \\mathrm { g } } )$ is larger than that of metal nano-sheets if the operation frequency is low,which means that the graphene layer is very a good plasmonic material in the THz regime. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b152f2e5e7ed01c3055941a5da79185fe0ff8a7913b7243ca82a338150b2207.jpg",
+        "img_caption": [
+            "Fig.2Comparison of the dielectric constant of graphene layer $( E _ { \\mathsf { f } } = 0 . 3$ eV)with the metal films at different thicknesses.The solid and dashed linesare for the FS and DS models,respectively.The thicknesses of the thinmetal layersare $5 \\mathsf { n m }$ $1 0 \\mathsf { n m }$ ,and $2 0 \\mathsf { n m }$ .respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition,the imaginary parts of the graphene layer can be found in Fig. 2(b),which manifest that the values of $\\mathrm { I m } ( \\varepsilon _ { \\mathrm { g } } )$ (orange line) are roughly equal to those of thick metal sheets (black solid lines) if the operating frequency is larger than $1 \\mathrm { T H z }$ . Thus,overall we can infer that the dielectric properties of the graphene layer are comparable to those of the thin metal layer in the THz and mid-infrared spectral regime. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To give a good understanding and comparison of the plas monic properties of thin metal layer and graphene,as an example,the dispersion relationship based on the IMI structure has been shown in Fig.3.The Fermi level of the graphene layer is $0 . 3 \\ \\mathrm { e V } .$ The thicknesses of the graphene layer and thin metal layerare both $0 . 3 4 ~ \\mathrm { n m }$ .The dielectric constants of thin metal layers are obtained from the FS model.The dispersion properties for graphene and thin metal layers have been determined by using eqn (5) and (6),respectively. As shown in Fig. 3(a),the real part of the effective index of the thin metal layer, $n _ { \\mathrm { { e f f m } } } ,$ ，is larger than that of the graphene layer, $n _ { \\mathrm { e f f g } } ,$ which indicates that the thin metal layer shows better confinement for the IMI structure.Nevertheless, the losses of the thin metal layer are also much higher,the values of $\\mathrm { I m } ( n _ { \\mathrm { e f f m } } )$ are at least two orders larger than those of graphene $\\mathrm { I m } ( n _ { \\mathrm { e f f g } } )$ This phenomenon is closely associated with the dielectric properties of thin metal layers and graphene.For instance,if the operation frequencies are $1 \\ \\mathrm { T H z }$ ， $1 0 \\ \\mathrm { \\ T H z }$ ，and $3 0 ~ \\mathrm { T H z }$ ，the dielectric constants of the graphene layer are $- 1 . 1 0 \\times 1 0 ^ { 6 } +$ $6 . 5 9 \\times 1 0 ^ { 5 } i$ 5 $- 1 . 4 6 \\times { 1 0 } ^ { 4 } + 9 . 1 8 \\times { 1 0 } ^ { 2 } i$ and $- 1 . 5 6 \\times 1 0 ^ { 3 } + 3 . 5 4 \\times$ $1 0 ^ { 1 } i$ ,respectively. The values for the thin metal layer are $- 1 . 9 0$ $\\times 1 0 ^ { 4 } + 4 . 1 8 \\times 1 0 ^ { 4 } i$ 5 $- 1 . 0 5 \\times { 1 0 } ^ { 3 } + 2 . 3 2 \\times { 1 0 } ^ { 2 } i$ and $- 1 . 1 2 \\times 1 0 ^ { 2 } +$ 8.95i,respectively.Furthermore,the ratio of $\\mathrm { R e } ( \\varepsilon _ { \\mathrm { m } } ) / \\mathrm { I m } ( \\varepsilon _ { \\mathrm { m } } )$ is also a common tool to measure the“metallic”properties of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10²（(a) 101 Re(k） Im(kg) n10° Re(km) Im(km) 10-1 102 20 40 60 (b) 101 Graphene 10-1 Metal 10-2 20 40 60 Frequency (THz) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "plasmonic materials.At the frequency of $3 0 ~ \\mathrm { T H z }$ ,thevalues of $\\mathrm { R e } ( \\varepsilon _ { \\mathrm { m } } ) / \\mathrm { I m } ( \\varepsilon _ { \\mathrm { m } } )$ for graphene and thin metal layer are 44.2 and 12.5,respectively. Obviously,the values of dielectric constant and $\\operatorname { R e } ( \\varepsilon _ { \\mathrm { m } } ) / \\operatorname { I m } ( \\varepsilon _ { \\mathrm { m } } )$ of the graphene layer are much larger than those of the thin metal layer,which implies that the graphene layerisa better“plasmonic”material.In addition,the figureof-merit (FOM) for confinement-to-propagation can also be found in Fig.3(b),which has been defined as $\\operatorname { R e } ( \\beta ) / \\operatorname { I m } ( \\beta ) , \\beta$ is the propagation constant.For the thin metal layer,as the frequency increases, the real part of $n _ { \\mathrm { e f f } }$ increases,resulting from the smaller values of the dielectric constant at larger frequency,while the imaginary part of $n _ { \\mathrm { e f f } }$ changes little.Therefore,the FOMof the thin metal layer increases with frequency gradually. But if the operation frequency is high, larger than $8 0 ~ \\mathrm { T H z }$ ，the values of FOM decrease due to the significant increase in the loss of metal,as shown in Fig.3(a).While for the case of the graphene layer,as the operation frequency increases,the real and imaginary parts of $n _ { \\mathrm { e f f } }$ both increase, and the values of $\\mathrm { I m } ( n _ { \\mathrm { e f f g } } )$ increase much faster at low frequency,leading to a dip of FOM at low frequency.Compared to the values of the thin metal layer, the FOM of the graphene layer is much larger because of the smaller losses of the graphene layer. For example，at the frequency of $1 ~ \\mathrm { { T H z } }$ $1 0 \\ \\mathrm { T H z }$ ,and $3 0 ~ \\mathrm { T H z }$ ,theFOMvaluesof the graphenelayerare 49.2，20.2,and 45.2,and the FOM values of the thin metal layerare 0.469,4.52,and12.5,respectively.Therefore,from an overall viewpoint,a graphene layer is a much better plasmonic material compared to the thin metal layer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The plasmonic properties of multilayer structures for graphene and metal layers with different thicknesses are shown in Fig.4,which have been obtained by using the transfer matrix method.The inset in Fig.4(a) shows the multilayer waveguide structure.The refractive indices of $\\mathrm { S i O } _ { 2 }$ P $\\mathbf { A l } _ { 2 } \\mathbf { O } _ { 3 }$ and Si are 1.98,2.7,and 3.42,respectively.The permittivity of the metal films was obtained from the FS and DS models,respectively.As the thickness of dielectric filling materials increases, the propagation length increases,resulting from the decrease of losses for the waveguide structure.In addition,as the metal film thickness increases，the propagation length increases. This is explained by the fact that with the decrease of thickness,the metal permittivity reduces,displaying poor conductive properties,leading to larger losses and smaller propagation length.For example,at the frequency of $3 \\mathrm { \\ T H z }$ ，the thickness of the dielectric stripe is $3 0 ~ { \\mu \\mathrm { m } } .$ ，while the metal layerthicknesses are $1 0 \\ \\mathrm { n m }$ ， $2 0 ~ \\mathrm { { n m } }$ ，and $5 0 ~ \\mathrm { n m }$ ,the permittivity values of the metal film are $- 8 . 4 8 \\ \\times \\ 1 0 ^ { 4 } \\ + \\ 6 . 2 0 \\ \\times \\ 1 0 ^ { 4 } i ,$ （204 $- 1 . 2 1 \\times 1 0 ^ { 5 } + 8 . 8 2 \\times 1 0 ^ { 4 } i$ ，and $- 1 . 6 9 \\times { 1 0 } ^ { 5 } + 1 . 2 4 \\times { 1 0 } ^ { 5 } i .$ The corresponding propagation lengths are $2 . 5 2 \\times 1 0 ^ { 3 } ~ \\mu \\mathrm { m }$ ， $4 . 8 3 \\ \\times$ $1 0 ^ { 3 } \\mu \\mathrm { m }$ ,and $1 . 0 8 \\times 1 0 ^ { 4 } ~ \\mu \\mathrm { m }$ ,respectively.If the metal film thickness is $5 0 ~ \\mathrm { n m }$ ,the results of metal films approximate to those of the bulk metal,which is also in accordance with the permittivity of thin metal layers,as shown in Fig.2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the case of a graphene layer, the propagation length is in the scope of thousands of micrometers,slightly smaller than that of a metal film.As the Fermi level increases,the carrier concentration and permittivity of the graphene layer increases,resulting in the enhancement of losses.The lateral decay length is used to measure the confinement of propagation modes,as shown in Fig.4(b).With the increase of the dielectric stripe thickness,the decay length increases,indicating poor mode confinement. The decay length decreases with the thickness of the thin metal layer.For the graphene layer, the decay length is much smaller than that of the metal film, which means that the graphene layer shows much better confinement than those of the metal film. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e2ab191aeb7d82ca9de7abbe6a439030595ead38ce6ffa5e7960f2e92581486.jpg",
+        "img_caption": [
+            "Fig.4 Comparison of (a) the propagation length (b) decay length plasmonic properties of thin metals with different thicknesses and graphene. The Fermi levels of graphene layer are $0 . 5 \\mathsf { e V }$ and $1 . 0 \\ \\mathrm { e V } .$ The thicknesses of the Au layer are $1 0 \\ \\mathsf { n m }$ ， $2 0 ~ \\mathsf { n m }$ 50and $1 0 0 \\ \\mathsf { n m }$ ，respectively. The operating frequency is $3 . 0 \\ \\mathsf { T H z }$ .The inset in (a) shows the multilayer waveguide structure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/07e54b3cadbdcec80a82265ac73f1033fe01f2df3f6dd24b7ccaafca7fb8d0f4.jpg",
+        "img_caption": [
+            "Fig.5 Comparison of the figure-of-merit for metals thin layers and graphene versus the thickness of the dielectric filling materials.The Fermi levels of graphene layerare $0 . 5 \\ \\mathrm { e V }$ and $1 . 0 \\ \\mathrm { e V . }$ The thicknesses of the Au layerare10,20,50,and $1 0 0 \\ \\mathsf { n m }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Additionally，for the practical application of plasmonic devices,good confinement usually results in large losses and small propagation length.To give an overall benchmark of the plasmonic properties of the above-mentioned materials,the values of figure-of-merit versus dielectric filling material thickness are shown in Fig.5,which can be defined as $\\operatorname { R e } ( \\beta ) / \\operatorname { I m } ( \\beta )$ The structural parameters are the same as those in Fig.4.If the metal film thickness is more than $5 0 ~ \\mathrm { n m }$ ,the FOMis in the range of several hundreds,much larger than that of the graphene layer.With the decrease of the metal layer thickness, thevalue of FOM decreases.If the metal sheet thickness is $2 0 ~ \\mathrm { n m }$ ,the ratio values of the metal layer are roughly equal to those of the graphene layer.If the metal layer is thinner, ${ < } 2 0 ~ \\mathrm { n m }$ ,the values of FOM for the thin metal layer are smaller than those of the graphene layer,indicating that the plasmo nic properties of the graphene layer are better than those of themetal layer.Thus,we can drawa conclusion that the plasmonic properties of the graphene layer are comparable to those of thin metal layers with the thickness in the range of tens of nanometers.This is different from the conclusion in many published articles,where the authors claim that the metal system is much better than those of graphene based devices.The metal layer thickness is very small in those articles,in the range of tens of nanometers,but they still use the bulk metal database,not including the influences of metal layer thickness.Actually,the permittivity of the thin metal layer tightly depends on thickness,especially when the value of thickness is comparable to mean free path.When we discuss and compare the plasmonic properties of the metallic plasmonic systems,the influence of metal sheet thickness should be taken into consideration. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With the designed electromagnetic properties，sub-wavelength MMs structures are a good application playground for plasmonic devices.Recently, the graphene layer has been integrated with the MMs structure to develop tunable devices.To compare the plasmonic properties of graphene and thin metal sheet further,Fig.6 shows the transmission curves of the MMs structures.The simulation results were acquired by using the CST Microwave Studio.The unit-cell boundary conditions in the $x { - } y$ plane and Floquet ports in the $z$ direction have been adopted.By using the obtained $s$ -parameters from the simulation,the transmission $\\left( T ( \\omega ) \\right)$ curves can be achieved by the formula, $T ( \\omega ) = | S _ { 2 1 } | ^ { 2 }$ .A typical MMs element,electric split ring resonator structure is adopted as the unit cell,as shown in Fig. 1(c).The polarization of incident light is along the $y$ direction.The solid black line is for the results obtained from the bulk Drude model,the metallic eSRR thickness is $0 . 2 ~ { \\mu \\mathrm { m } }$ .The transmission curves of the bulk metal shows two dips,i.e. the dips at the frequencies of $0 . 9 5 ~ \\mathrm { T H z }$ and $3 . 0 2 \\mathrm { T H z }$ which correspond with the LC and dipolar resonances, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bulk_Drude FS_thickness=50nl   \n(a) 1.0 FS_thickness=20nm DS_thickness=201 FS_thickness=10nm DS_thickness=101 se Gra_Ef0.5eV Gra_Ef1.0eV DipolarResonance LC Resona 0.0 1 2 3   \n(b) 1.0 Frequency (THz) se DipolarResonance 0.0 3 Frequency (THz) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If the Fermi level of the graphene layer is high,i.e.1.O eV, the sub-wavelength MMs structure shows an obvious dip atlow fre quency (LC resonance, $0 . 6 8 ~ \\mathrm { T H z }$ ）andhigh frequency (dipolar resonance, $1 . 7 8 \\mathrm { T H z } \\$ ).Withthedecreaseof theFermilevel, the transmission dip at lower frequency does not seem to be evident. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6(b) shows the resonant transmission spectral curves if the polarization is along the $x$ direction.There is no low frequency transmission dip，different from the result that the polarization direction is along the $y$ direction,but the broad transmission dip at high frequency still exists.Even if the metal film thickness is $1 0 ~ \\mathrm { \\ n m }$ ，the transmission dip is obvious,the value of the transmission dip is 0.027 $( 1 . 3 8 ~ \\mathrm { T H z } )$ 一 If the metal film thickness is larger than $2 0 \\ \\mathrm { n m }$ ，the transmission dips locate near $1 . 5 ~ \\mathrm { T H z }$ .This is due to the fact that dipolar resonance mainly depends on the structural parameters,unlike the LC resonance,very sensitive to the conductive film thickness.For the graphene pattern MMs structure, the transmission resonance becomesweaker,and the resonant dip shifts to low frequency with the decrease of the Fermi level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As the sheet thickness decreases,the permittivity of the metal reduces,the resonant strength of transmission curve becomes weak,and the resonant dip moves to low frequency as well.For instance,under the FS model,if the metal film thicknesses are $1 0 \\ \\mathrm { n m }$ ， $2 0 ~ \\mathrm { n m }$ ，and $5 0 ~ \\mathrm { n m }$ ,the values of transmission dips (resonant frequencies) for the LC resonance are 0.36 $\\mathrm { ( 0 . 8 2 ~ T H z ) }$ ,0.17 ( $0 . 9 0 \\ \\mathrm { T H z } )$ and 0.062 $\\left( 0 . 9 3 ~ \\mathrm { T H z } \\right)$ .Forhigh frequency dipolar resonances,the values of transmission dips are 0.052 $\\left( 2 . 1 7 ~ \\mathrm { T H z } \\right)$ ，0.008 $\\left( 2 . 9 4 ~ \\mathrm { T H z } \\right)$ and $5 . 0 3 \\times { { 1 0 } ^ { - 4 } }$ (2.97 THz).The dashed lines show the numerical results from the DS model.Next,we discuss the impact of metal sheet thickness on the transmission curves.It can be found from Fig. 6(a) that if the metal film thickness is $1 0 \\ \\mathrm { n m }$ ,there is no transmission dip because the metal sheet shows very poor conductive properties.As the metal film thickness increases,reaches the $2 0 ~ \\mathrm { { \\ n m } }$ ，the conductive properties of the metal film increase,and the obvious resonant dip appears at the low and high frequencies.If its thickness increases further,reaches more than $5 0 ~ \\mathrm { n m }$ with the metal layer showing good conductive properties,the corresponding permittivity can reach about $7 0 \\%$ value of the bulk metal.The metallic MMs structure at this thickness manifests good resonance properties.In a word, if the metal film thickness is lower than $1 0 \\ \\mathrm { n m }$ ,it cannot show an obvious transmission dip;when its thickness reaches more than $5 0 \\ \\mathrm { n m }$ ，the MMs structure shows strong transmission dips,approximating the properties of the bulk metal layer.In addition,for the graphene pattern structures,the influences of Fermi levels on the transmission curves have also been shown. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The 2D field plot is a good way to understand the resonant mechanisms of MMs structures.The magnetic component along the $z$ direction and surface current density can be seen in Fig.7.The polarization direction is along the $y$ direction. The materials are the bulk metal,metallic thin sheet with the thickness of $2 0 \\ \\mathrm { n m }$ ，and the graphene layer with the Fermi level of $1 . 0 \\ \\mathrm { e V } .$ Fig.7(a)-(d),and (e),(f) are the results for the bulk metal,metal layer with the thickness of $2 0 ~ \\mathrm { { n m } }$ ，and the graphene membrane,respectively.The resonant frequencies are $0 . 9 5 ~ \\mathrm { T H z }$ ， $0 . 9 0 ~ \\mathrm { T H z }$ and $0 . 6 8 ~ \\mathrm { T H z }$ ，respectively，which is accordance with the LC resonant frequency，as shown in Fig.6(a).In Fig.7,red indicates high intensity,and blue is for lowintensity.The LC resonance results from the fact that the incident THz waves interacts with the magnetic modes of the MMs structure.The results are similar to Fig.2(e) and (g) in ref.33.It can be found from Fig.7(a),(c) and (e) that with the decrease of the membrane thickness, the value of the magnetic field decreases,i.e. the maximum values of $H _ { z }$ are $1 . 9 5 \\times$ $1 0 ^ { 4 }$ ， $1 . 0 3 \\times 1 0 ^ { 4 }$ and $5 . 5 9 \\times 1 0 ^ { 3 } \\mathrm { V } \\mathrm { m } ^ { - 1 }$ ,respectively. This denotes that the transmission resonant strength decreases with the sheet thickness.Fig.7(b),(d) and 7f) show the corresponding results of the surface current density,which manifests that the incident THz fields drive the circulating surface currents in the inductive loops,inducing the charge accumulation at the capacitive split gaps. The surface current figures are very similar to the results shown in Fig.1(c) in ref.33,which confirms that the resonance at the low frequency $\\left( 0 . 7 6 ~ \\mathrm { T H z } \\right)$ is LC resonance.As the thickness of the metal film decreases, the relatively absolute values of the surface current density decreases,and the values are 218.1,208,and $1 9 1 . 3 \\mathrm { ~ A ~ m } ^ { - 2 }$ respectively.The relativelylow values of the surface current density mean small resonant strength,which corresponds to the results shown in Fig. 6(a). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In accordance with the high frequency of the dipolar resonance shown in Fig.6(a),Fig.8 shows the magnetic com",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "a V/mMax 1.95×104 (C) V/mMax 1.03x104 e V/mMax 5.59×10³ GJ CD GO Min -1.95×104 Min -1.03×104 Min -5.59×10³   \n(b)dB(A/m²) (d)dB(A/m²) t) dB(A/m²) Max218.1 Max 208 Max 9 B 艾美 Min 178.1 Min 168 Min 151.3   \na V/mMax 9.28x10³ (c) V/mMax 8.1x10³ e V/mMax 6.46×103 Min-9.28×10³ Min -8.1×10³ Min-6.46×10³   \n(b)dB(A/m²) (d) dB(A/m) (f) dB(A/m²) Max 稀林 X Min 178.1 Min 178.1 Min 151.3 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ponents along the $z$ direction and the surface current density for different kinds of materials if the polarization direction is along the $y$ direction.The materials are the bulk metal layer, metallic film with a thickness of $2 0 \\ \\mathrm { n m }$ ，and graphene patterns.The permittivity of the metal layer was obtained from the FS model. Fig.8(a)-(d),and (e),(f) show the results of the bulk metal,metal layer with the thickness of $2 0 ~ \\mathrm { { n m } }$ Fig.8(a), (c) and (e) display that with the decrease of metal film thickness,the value of magnetic fields decreases.For instance, the maximum values of $H _ { z }$ are $9 . 2 8 \\times 1 0 ^ { 3 }$ P $8 . 1 \\times 1 0 ^ { 3 }$ and $6 . 4 6 \\times 1 0 ^ { 3 }$ $\\mathrm { ~ V ~ m ~ } ^ { - 1 }$ ，respectively. Fig. 8(b), (d) and (f) display the surface current density,which indicates that the incident THz field drives the circulating surface currents moving along the surface.The above results confirm that the resonances at high frequency are dipolarresonance.Furthermore,with the decrease of metal film thickness,the value of surface current densitydecreases.The relatively lowvalue of surface current density means small transmission resonant strength,which agrees with the results shown in Fig. 6(a). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.9(a) shows the transmission curves of sub-wavelength MMs structures based on the metal circular ring unit cell. The outer and inner diameters of the circular ring structures are $4 0 ~ { \\mu \\mathrm { m } }$ and $3 6 ~ { \\mu \\mathrm { m } }$ ,respectively.The solid black line is for the bulk metal layer.The color lines are for the metallic sheet structure at different period numbers,and the thickness of each metallic sheet is $2 0 ~ \\mathrm { { n m } }$ .As shown in Fig. 9,even if only one circular ring layer is used, the metallic MMs structure can manifest good resonance properties.Its value of transmission curve dip is O.o8 close to the frequency of $1 . 8 1 ~ \\mathrm { T H z }$ .This can be explained by the relatively large permittivity of the metal membrane at the thickness of $2 0 \\ \\mathrm { n m }$ .Forexample,near the resonance frequency, the permittivities of the bulk metal and thin metal sheet $\\left( 2 0 { \\mathrm { ~ n m } } \\right)$ are $- 3 . 8 2 \\times { 1 0 } ^ { 5 } + 4 . 4 6 \\times { 1 0 } ^ { 5 } i$ $- 1 . 9 9 \\times$ $1 0 ^ { 5 } + 2 . 3 2 \\times 1 0 ^ { 5 } i$ ,the ratio of the permittivity of the thin metal sheet layer $\\left( 2 0 \\ \\mathrm { n m } \\right)$ to that of the bulk metal is O.52.As the period number increases,the resonant transmission becomes strong,and the resonant dip shifts to higher frequency. If for five periods $\\mathrm { \\ A u } { - } \\mathrm { S i O } _ { 2 }$ thin sheets are used,the metallic MMs structure shows similar properties to the bulk metal structures. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Because of the small thickness,the conductive properties of the graphene layer are poor, limiting its improvement of modulation depth.This problem may be solved by using the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(a) 1.0 Drude 1layer Tissiisussg 2layer 3layer E 5layer 0.5 O 0.0 1 2 3 1layerEf=0.1eV 1layerEf=1.0eV 2layerEf=0.1eV 2layerEf=1.0eV   \n(b) 4layerEf=0.1eV 4layerEf=1.0eV 8layerEf=0.1eV 8layerEf=1.0eV rss 16layerEf=0.1eV 16layerEf=1.0eV 20layerEf=0.1eV 20layerEf=1.0eV 6pou4 75 100Pou 20 5 10 15 20 0.0 Period number 1 2 3 Frequency (THz) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "stack periodic structures,composed of isolated monolayer graphene separated with a thin dielectric film (e.g. $\\mathrm { S i O } _ { 2 } \\mathrm { \\dot { \\Omega } }$ ，as shown in Fig. 1(b). The transmission curves for the graphene multilayer MMs structure are shown in Fig. 9(b). The Fermi levels of the graphene layer are $0 . 1 \\ \\mathrm { e V }$ and $1 . 0 \\ \\mathrm { e V }$ ,respectively. The period numbers of graphene- ${ \\cdot \\mathrm { S i O } _ { 2 } }$ multilayer structure are 1,2,4,8,16,and 20,respectively. The transmission resonant curve shows an obvious blue shift with the increase of the Fermi level.For the monolayer graphene,if the Fermi level changes in the range of $0 . 1 { - } 1 . 0 \\ \\mathrm { e V } _ { \\mathrm { i } }$ ，the values of transmission resonance dip change in the scope of 0.28-o.82,and the resonant frequency modulates in the range of $0 . 4 0 { - } 1 . 0 8 ~ \\mathrm { T H z }$ .The modulation depths of transmission $\\left( T _ { \\mathrm { m o d } } \\right)$ and frequency $\\left( f _ { \\mathrm { m o d } } \\right)$ are about $6 5 . 8 \\%$ and $6 2 . 9 \\%$ ，which have been defined as $T _ { \\mathrm { m o d } } = \\Delta T / T _ { \\mathrm { m a x } }$ and $f _ { \\mathrm { m o d } } = \\Delta f / f _ { \\mathrm { m a x } } ,$ respectively. In the THz regime,the intra-band conduction dominates,and the carrier concentration of the graphene layer increases significantly with the increase of the Fermi level,so the value of kinetic inductance of the graphene unit cell $L _ { \\mathrm { k } }$ and total inductance $L _ { \\mathrm { s u m } }$ decreases significantly. Consequently, the resonant dip shifts to high frequency and can be tunable in a wide range by using the gate voltage.Additionally, the effects of the layer number of the graphene patterns in the active region are shown in Fig. 9(b).As the period number of graphene patterns layers increases, the active area of MMs structure increases, and the values of kinetic inductance decreases,leading to the resonant frequency of transmission curve moving to high frequency. For instance, if the period number of graphene pattern layers is one and ten,the tunable frequency ranges are $0 . 4 0 { - } 1 . 0 8 \\ \\mathrm { T H z }$ and $0 . 9 2 \\mathrm { - } 1 . 6 3 \\mathrm { ~ \\ T H z }$ ，respectively. The value of transmission decreases with the increase of period number.If the period number of graphene patterns reaches 2o,the net transmission achieved is close to the frequency of $1 . 8 1 ~ \\mathrm { T H z }$ The inset in Fig.9(b) shows the frequency modulation $f _ { \\mathrm { m o d } }$ and amplitude modulation $T _ { \\mathrm { m o d } }$ versus the period number of graphene pattern layers in the active region.As the period number increases,the $f _ { \\mathrm { m o d } }$ decreases,while the modulation depth of transmission increases and reaches a relatively saturated value of about $9 5 \\%$ ，From the viewpoint of practical application,it is expected that the tunable graphene based devices manifest good frequency and amplitude modulation simultaneously. We define the parameter $T$ as: ${ \\cal T } = f _ { \\mathrm { m o d } } \\times { \\cal T } _ { \\mathrm { m o d } }$ The values of $\\boldsymbol { { \\cal T } }$ are 0.409，0.452，0.436，0.367，and 0.258, respectively,when the period numbers are 1,2,4,8,and 20. This means that as the period number of graphene layers increases,the stack MMs structure shows much better tunable properties,and the values of frequency and amplitude modulation depth are both large.However,if the period number of graphene pattern layers increases further，larger than 4, though the values of $T _ { \\mathrm { { m o d } } }$ increases, $f _ { \\mathrm { m o d } }$ and the tunable range of resonant frequency and amplitude decreases. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $Q$ -factor is an important means to measure the resonant quality of the spectral curves,which can be defined as: $Q \\ = \\ \\omega _ { 0 } / \\Delta \\omega _ { \\mathrm { F W H M } }$ ，where $\\omega _ { 0 }$ is the resonant frequency of the transmission curve dip,FWHM means the full width half maximum bandwidth.The values of the $Q$ -factor for the metallic thin sheets and graphene patterns at different period numbers are shown in Tables1and 2,respectively.For the Au circular ring structure,as the period number increases,the resonant frequency of the transmission dip shifts to high fre quency，the spectral curve FWHM decreases,leading to a slight increase in the values of the $Q$ -factor.If the period number is five,the resonant frequency and $Q$ factor are 1.85 THz and 1.75,approximating the results of the bulk Drude metal layer with the values of $1 . 8 7 ~ \\mathrm { T H z }$ and 1.90,respectively. Asawhole，the metallic thin sheet structures demonstrate good resonant properties,even if one-period is used. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results of graphene patterns composed of a stack structure are shown in Table 2.If the Fermi level of the graphene layer is small,e.g. $0 . 1 \\ \\mathrm { { \\ e V } _ { : } }$ ，the circular ring MMs structure does not display very good resonant properties because of the poor conductivity of the graphene layer. The corresponding $Q$ -factor of the spectral curve is merely about O.765,if one period of graphene patterns is adopted,indicating the weak resonance strength，represented as the black dashed lines shown in Fig.9(b).As the period number of graphene patterns increases,the resonant frequency and FWHM increases,the resonant strength of the spectral curves also become strong, leading to an increase in the $Q$ -factor.While for theresults of the large Fermi level of the graphene layer,e.g. $1 . 0 \\ \\mathrm { e V } _ { : }$ the circular structure indicates good resonance properties even if only one period of graphene patterns is employed,and the $Q$ -factor of the transmission curve can reach more than 1.45. As the period number increases,the resonant frequency,and FWHM,and the $Q$ -factor of the spectral curve increases.On the contrary,while the period number increases further,larger than10,the $Q$ -factor decreases.The reasons may be due to the fact that if the period number of the graphene layer is larger enough,the losses also improved drastically,resulting in a decrease in the values of $Q$ -factors and FWHM,as shown in Table 2.The tunable properties of graphene supported MMs structure improves significantly by using the stack multilayer structure.If the period number of graphene patterns in the active region is too large，the fabrication process becomes difficult.Furthermore,the dissipative effects of the graphene patterns also become drastic,leading to the modulation properties ( $\\dot { f } _ { \\mathrm { m o d } }$ and $T _ { \\mathrm { m o d , } }$ ,and the $Q$ factor of the spectral curves decreasesas well.Considering the results shown in Fig.9, the optimum period number of graphene pattern layers is about 3-5,in which both frequency and amplitude modulation are achieved,and the $Q$ -factor of the resonant spectral curve is also relatively large. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/47f05d1919eb161947bdeec697610d1ab74a4699c88fddc65616c41c287ad996.jpg",
+        "table_caption": [
+            "Table1 The comparison of $\\boldsymbol { Q }$ -factorof thedifferent period layers of metallic thin layers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Layer number</td><td>Resonance frequency</td><td>FWHM</td><td>Q-factor</td></tr><tr><td>Drude</td><td>1.87</td><td>0.99</td><td>1.90</td></tr><tr><td>1</td><td>1.82</td><td>1.22</td><td>1.48</td></tr><tr><td>2</td><td>1.83</td><td>1.13</td><td>1.62</td></tr><tr><td>3</td><td>1.84</td><td>1.10</td><td>1.67</td></tr><tr><td>5</td><td>1.85</td><td>1.06</td><td>1.75</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4．Conclusion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In summary, to find suitable materials for plasmonic devices, by using several kinds of methods,i.e. Drude,DS,and FS models,the plasmonic properties of thin metal sheets at different thicknesses have been investigated and compared with the graphene layer.As demonstration examples,the propagation properties of IMI and sub-wavelength MMs structures made of graphene and thin metal layers have also been given and compared.The results demonstrate that the plasmonic properties of the graphene layer are comparable to those of thin metal sheets with the thickness of tens of nanometers. For the example of sub-wavelength MMs resonance structure, if the metal layer thickness is small $( < 1 0 \\ \\mathrm { n m } )$ ,it only manifests weak metallic properties and cannot excite an obvious transmission resonance.If the metal sheet thickness is about $2 0 ~ \\mathrm { n m }$ ,it shows relatively good metallic properties (its permittivity can reach more than half the value of the bulk metal) and an obvious resonant dip is observed.On condition that themetal layer thickness is thick enough $\\left( > 5 0 \\ \\mathrm { n m } \\right)$ ,it manifestsrelatively much better metallic properties than the graphene layer.For the case of the graphene layer,though its thickness is small,the influence on the propagation properties is well evident.Via varying the Fermi level of the graphene layer, the resonant transmission curves can be tunable in a broad range,e.g. the modulation depth of transmission curves can achieve more than $6 0 \\%$ if the Fermi level changes in the scope of $0 . 1 \\mathrm { - } 1 . 0 ~ \\mathrm { e V } .$ Furthermore,by using multiple periods of the graphene pattern structure,the transmission resonance and tunable properties of the MMs structures improve significantly,and the net transmission is achieved if the period number of graphene patterns is about 2o.The optimum period number of graphene pattern layers lies between 3-5, where the MMs structure manifests good frequency and amplitude modulation properties simultaneously,and the resonance strength is also strong with larger values of the $Q$ factor.There fore，graphene isa good tunable alternative plasmonic material. The results are very helpful to develop novel gra phene plasmonic devices (e.g.modulators,antenna and filters) and find potential applications in the fields of biomedical sensing and wireless communications. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ddee344a42a60e496a3c6cc3325d44c081214b15ab1e2c06294542ed6e35df8b.jpg",
+        "table_caption": [
+            "Table2The comparison of $\\alpha$ -factor of the different period layers of graphene patterns in the active region "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Layer number</td><td>Resonance frequency (0.1 eV)</td><td>FWHM (0.1 eV)</td><td>Q-Factor (0.1 eV)</td><td>Resonance frequency (1.0 eV)</td><td>FWHM (1.0 eV)</td><td>Q-Factor (1.0 ev)</td></tr><tr><td>1</td><td>0.41</td><td>0.528</td><td>0.765</td><td>1.08</td><td>0.746</td><td>1.45</td></tr><tr><td>2</td><td>0.58</td><td>0.595</td><td>0.968</td><td>1.32</td><td>0.788</td><td>1.67</td></tr><tr><td>4</td><td>0.77</td><td>0.658</td><td>1.173</td><td>1.51</td><td>0.840</td><td>1.79</td></tr><tr><td>8</td><td>0.99</td><td>0.703</td><td>1.406</td><td>1.63</td><td>0.886</td><td>1.84</td></tr><tr><td>16</td><td>1.25</td><td>0.798</td><td>1.560</td><td>1.78</td><td>0.969</td><td>1.84</td></tr><tr><td>20</td><td>1.32</td><td>0.819</td><td>1.614</td><td>1.81</td><td>0.991</td><td>1.83</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the Funding of Shanghai Pujiang Program under the grant no.15PJ1406500，the Scientific Research Foundation for the Returned Overseas Chinese Scholars,State Education Ministry,China, the Research Funding of Shanghai Normal University under the grant no. SK201529. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "17 S. M. Hanham, A. I. Fernandez-Dominguez, J. H. Teng, S. S. Ang, K. P. Lim, S.F. Yoon, C. Y. Ngo,N. Klein, J. B.Pendry and S.A.Maier,Adv.Mater.,2012,24,OP226-OP230.   \n18 P. Tassin,T. Koschny, M. Kafesaki and C. M. Soukoulis, Nat.Photonics,2012,6,259-264.   \n19 P. Tassin, T.Koschny and C. M. Soukoulis, Science,2013, 341,620-621.   \n20 A.R. Wright and C. Zhang, Phys. Rev.B: Condens. Matter Mater.Phys.,2010,81,165413.   \n21 X.G. Xu, S. Sultan, C. Zhang and J. C. Cao,Appl. Phys. Lett., 2010,97,011907.   \n22 G.Z.Magda,X.Jin，I.Hagymasi,P. Vancsó,Z.Osvth, P. NemesIncze,C. Hwang, L. P. Biró and L. Tapasztó, Nature,2014,514,608-611.   \n23 D. Rodrigo,O. Limaj, D. Janner, D. Etezadi, F. J. Garcia de Abajo,V. Pruneri and H. Altug, Science,2015,349,165-168.   \n24M.Jablan,H. Buljan and M. Soljacic,Phys. Rev.B: Condens. Matter Mater.Phys.,2009,80,245435.   \n25 E.S. P. Leong,Y. J. Liu, J. Deng, Y. T. Fong,N. Zhang, S.J. Wu and J. H. Teng, Nanoscale,2014,6,11106-11111.   \n26 A. R. Wright, J. C. Cao and C. Zhang,Phys.Rev. Let,2009, 103,207401.   \n27 A.Vakil and N. Engheta, Science,2011,332,1291-1294.   \n28 X.Y.He and R.Li,IEEEJ. Sel. Top.Quantum Electron.,2014, 20,4600106.   \n29 Z.S.Dai，Q.Ma，M.K.Liu，T. Andersen，Z.Fei, M.D. Goldflam, M. Wagner, K. Watanabe,T. Taniguchi, M. Thiemens, F. Keilmann, G. C. A. M. Janssen, S. E. Zhu, P. Jarillo-Herrero,M.M. Fogler and D.N.Basov,Nat.Nanotechnol.,2015,10,682-687.   \n30 H. Yan, T.Low, W. Zhu, Y. Wu, M. Freitag, X. Li,F.Guinea, P.Avouris and F. Xia, Nat.Photonics,2013,7,394-399.   \n31 W. Gao,J. Shu,K. Reichel,D.V. Nickel,X. He,G. Shi, R.Vajtai，P.M.Ajayan，J.Kono,D.M.Mittleman and Q. Xu, Nano Lett.,2014,14,1242-1248.   \n32 Q. Li, Z. Tian, X. Q. Zhang, R. Singh, L. L. Du, J. Q. Gu, J. G.Han and W.L. Zhang,Nat. Commun., 2015,6,7082.   \n33 N.H. Shen,P. Tassin,T.Koschny and C.M.Soukoulis, Phys. Rev. B: Condens. Matter Mater.Phys.,2014,90,115437.   \n34 I．Khromova，A.Andryieuski and A. Lavrinenko，Laser Photonics Rev., 2014,8,916-923.   \n35 M.A. Ordal, R. J. Bell, R.W. Alexander,L.L. Long and M. R. Querry,Appl. Opt.,1985,24, 4493-4499.   \n36 K.Fuchs,Proc. Cambridge Philos. Soc.,1938,34,100-108.   \n37 E.H. Sondheimer,Adv.Phys.,1952,1,1-42.   \n38 N.Mattiucci, M.J. Bloemer, N.Akozbek and G.D'Aguanno, Sci. Rep.,2013,3,3203.   \n39 N.V. Smith, Phys. Rev. B: Condens. Mater Mater. Phys., 2007,64,155106.   \n40 M.Walther，D.G.Cooke，C. Sherstan，M.Hajar, M.R.Freeman and F.A. Hegmann, Phys. Rev. B: Condens. Matter Mater.Phys.,2007,76,125408.   \n41 V.P. Gusynin and S. G. Sharapov, J. Phys.: Condens. Matter, 2007,19,026222.   \n42 K.J.A.Ooi,W.S.Koh,H. S.Chu,D. T.H.Tan and L.K.Ang,IEEE Trans.Plasma Sci.,2015,43,951. 1H.Raether,Surface plasmons on Smooth and Rough Surfaces and on Gratings,Springer,Berlin,Germany,1988. 2 T.P.H. Sidiropoulos，R. Roder，S.Geburt，O.Hess, S.A.Maier, C. Ronning and R.F. Oulton,Nat. Phys.,2014, 10, 870-876. 3 J.A. Schuller, E. S.Barnard,W.Cai, Y. C. Jun, J. S.White and M.L.Brongersma,Nat.Mater.,2010,9,193-204. 4 S.P. Zhang,C. Z. Gu and H. X. Xu, Small,2014,10,4264- 4269. 5 W.J. Padilla，A.J. Taylor，C.Highstrete，M.Lee and R.D.Averitt,Phys. Rev.Lett.,2006,96,107401. 6 F.Wang, X. G. Guo, C. Wang and J. C. Cao,New J. Phys., 2013,15,075009. 7 X.Y.He, Q. J. Wang and S.F.Yu, IEEE J. Quantum Electron., 2012,48,1554-1559. 8O.Hess,J.B.Pendry,S.A.Maier,R.F.Oulton,J.M.Hamm andK.L.Tsakmakidis,Nat.Mater.,2012,9,573-584. 9 D.K.Gramotnev and S.I. Bozhevolnyi,Nat.Photonics, 2009,4,83-91.   \n10 J.T.Lü and J.C. Cao,Phys. Rev.B: Condens. Matter Mater. Phys.,2005,71,155304.   \n11 X.Y.He,Z.Y. Zhao and W. Z. Shi, Opt. Lett.,2015,40,178- 181.   \n12 W.L.Barnes,A.Dereux and T.W.Ebbesen,Nature,2003, 424,824-830.   \n13 N.Meinzer,W.L.Barnes and I.R.Hooper,Nat. Photonics, 2014,4,889-898.   \n14 S.Chakraborty,O.P.Marshall,T.G. Folland,Y.J.Kim, A.N.Grigorenko and K. S.Novoselov,Science,2016,351, 246-248.   \n15 S.I. Bozhevolnyi,V. S. Volkov, E. Devaux, J. Y. Laluet and T.W.Ebbesen,Nature,2006,440,508-511.   \n16 R.F.Oulton,V. J.Sorger,D.A.Genov,D.F.P.Pile and X. Zhang,Nat. Photonics,2008,2,496-500. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

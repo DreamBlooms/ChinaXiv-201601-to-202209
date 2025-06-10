@@ -1,0 +1,437 @@
+[
+    {
+        "type": "text",
+        "text": "端壁叶间装配缝尾段泄漏流气膜冷却特性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李毅飞张扬袁新(清华大学热科学与动力工程教育部重点实验室，北京100084)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要为了揭示端壁装配缝几何参数对叶片尾缘下游部分的气膜冷却特性影响机理，本文对 GE- $\\mathrm { \\cdot ^ { E ^ { 3 } } }$ 直列叶栅中的装配缝气膜冷却特性进行了数值模拟研究。研究发现槽缝几何参数对叶片尾缘的冷却特性具有较大影响。装配缝两侧端壁中，靠近吸力面端壁低于另一侧端壁对提高端壁气膜有效度具有有利作用。双侧切角结构虽然提高了靠近装配缝区域的气膜有效度，但增大了冷却盲区。装配缝结构应以靠近吸力侧偏低的几何关系和提高冷却出流速度为目标进行设计和优化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词装配缝；台阶方向；切角结构",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：TK47 文献标识码：A 文章编号：0253-231X(2017)08-1641-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Film Cooling Effect of Leakage From Midpassage Gap on Downstream Endwall ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yi-Fei ZHANG YangYUAN Xin (Key Laboratory for Thermal Science and Power Engineering of Ministry of Education, Tsinghua University，Beijing 100084,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract In order to study the film cooling effect of leakage from midpassage gap on downstream endwall, the influence of the gap geometry is taken into consideration numerically, in the guide vane of GE- $\\mathrm { E ^ { 3 } }$ turbine.As to the step height of gap,if the wall near the suction side of the blade is lower (SSL) than the other side of the other wallnear the pressure side of the neighboring blade,the leakage shows positive effect on film cooling.However,the effect of the other step direction is negative. On the other hand,the cut corner of both side of the gap wallincreases the cooling effectivenes,but also increases the cooling blind area. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsmidpassage gap; step direction; cut corner ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于制造和装配的限制，燃机透平叶轮各叶片间的端壁上均存在一条装配缝。该缝隙在燃机正常运转时会因温升而缩小，但无法完全消失，尽管端壁内部有密封结构，但仍旧会有冷却气从该缝泄漏。为了完善冷却设计，充分利用冷却气，研究叶间装配缝冷却气的冷却特性对冷却设计优化和提高燃机效率具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于装配误差和材料热膨胀特性不均匀等原因，燃机高温运转时装配缝两侧端壁的高度关系存在一定误差。Piggush 和 Simon[1,2] 测量了带有装配缝的叶片通道内的气动特性，流场测量结果表明装配缝结构会提高透平内损失 $3 0 \\%$ ，降低透平效率。同时Hodson 等[3]对透平通道内不同槽缝高度带来的气动和冷却效果进行了计算，其结果同样表明装配缝的存在会引起通道内的额外损失，但冷却出流对下游端壁具有明显冷却效果。Thole 等[4,5]通过数值和实验方法研究发现装配缝结构对叶片通道内端壁传热系数具有较强提高，且在喉部区域增量最大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以上研究表明装配缝的几何结构对流动与传热都有较强影响。但这些学者大多针对通道内装配缝几何参数对泄漏流的气动和冷却影响进行研究，鲜有学者对叶片尾缘后的装配缝泄漏流进行讨论。因此，本文采用数值计算的方法对叶片尾缘下游不同几何特征的装配缝泄漏流冷却特性展开研究，并总结装配缝几何设计原则。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1数值方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1求解方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文计算使用隐式求解技术提高计算速度与对透平流动和传热的预测准确性。该计算应用多组分",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "流体理想混合模型，以模拟主流与冷却气的掺混过程。流动与混合过程采用SST四方程湍流模型进行定常求解计算。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2计算网格",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文计算对象为GE- $\\mathrm { \\cdot ^ { E ^ { 3 } } }$ 第一级静叶直列叶栅叶形，叶片尺寸扩大为原始叶形的两倍。该计算采用多块结构化网格，基础拓扑结构为H-O-H型。槽缝的存在使拓扑结构复杂化，共划分网格块28块，且更多区域需要增加壁面边界层。为了降低网格量，本文以中叶展为对称面，仅对端壁到中叶展空间进行计算，将计算网格量减半。为了提高网格质量，网格尺寸跨度较大的相邻网格块均平滑过渡。总网格量约为600万(见图1)，满足计算要求[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/adef0f8107e9450b8ef9d8e9b3ebb09fe03d4485eb42b8807500f80c60079f89.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图1计算网格示意图",
+            "Fig.1 Demonstration of the grid used in the simulation ",
+            "Fig.2 Geometry parameters of the midpassage gap "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3边界条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文共计算5个不同装配缝几何位置关系与形状，装配缝垂直于轴线的断面示意图见图2，根据截面几何特征关系选定表1中的五组参数以研究装配缝台阶方向与切角结构对尾缘下游冷却特性的影响。本文采用几何尺寸两倍于原始叶形的GE- $\\mathrm { \\cdot ^ { E ^ { 3 } } }$ 直列叶栅叶形，轴向弦长 $8 1 . 6 5 \\mathrm { m m }$ 、栅距 $1 0 8 . 0 6 \\mathrm { m m }$ 、叶高$1 2 9 ~ \\mathrm { m m }$ ，因此将各几何参数无量纲化以更好地描述几何尺寸与叶形的相互关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/725651dbb316e0eb205d83698f83dd61e0e93e4deff820b2f88b2aa79e3ab3d9.jpg",
+        "img_caption": [
+            "图2装配缝垂直轴线剖面示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于内部冷却设计的需要，所有装配缝均与端壁面垂直。baseline算例为直角连接端壁面与装配缝壁面，作为基础算例与其他算例进行对比。一方面，装配缝两侧端壁之间易产生台阶结构，SSL(SuctionSideLower）为装配缝靠近吸力面一侧端壁低于另一侧端壁，而 SSH为装配缝靠近吸力面端壁高于另一侧端壁。不同台阶方向的计算结果与基础算例对比，探究台阶方向对装配缝泄漏流冷却特性的影响。另一方面，为了提高冷却流的附壁特性并加强两垂直壁面连接处的内冷却效果，本文引入了切角结构，即将两垂直壁面连接的一个 $9 0 ^ { \\circ }$ 角变化为两个 $1 3 5 ^ { \\circ }$ 角连接，使冷气出流转向更加平缓。该切角结构在平面端壁关系和SSL 端壁关系下的计算结果与基础算例对比，探究切角结构对泄漏流冷却特性的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d04d4f375e88b9116982a62b6c09287916cf39cfc5adb6faab74d8ce9ae234e8.jpg",
+        "table_caption": [
+            "表1装配缝不同几何结构参数表",
+            "Table 1 Parameters of different gap geometries "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算例</td><td>h/span</td><td>w/pitch</td><td>a/pitch</td><td>b/span</td></tr><tr><td>baseline</td><td>0</td><td>0.37%</td><td>0</td><td>0</td></tr><tr><td>SSL</td><td>0.39%</td><td>0.37%</td><td>0</td><td>0</td></tr><tr><td>SSH</td><td>-0.39%</td><td>0.37%</td><td>0</td><td>0</td></tr><tr><td>cut</td><td>0</td><td>0.37%</td><td>0.37%</td><td>2.6%</td></tr><tr><td>cut_SSL</td><td>0.39%</td><td>0.37%</td><td>0.37%</td><td>2.6%</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文计算基于已有常温低速直列叶栅实验台，透平主流入口总压 $1 0 8 5 0 0 \\ \\mathrm { P a }$ ，总温 $3 0 0 ~ \\mathrm { { K } }$ ，出口静压 $\\mathrm { 1 0 1 3 2 5 ~ P a }$ ，该边界条件与实验台参数一致，雷诺数约为 $2 . 5 \\times 1 0 ^ { 5 }$ 。真实燃机中，装配缝内部采用密封条结构进行密封，防止主流高温气体倒灌，本文中装配缝计算域简化该处的密封条结构，入口取为密封条之后的通道区域，并采用均匀总压的入口边界，冷气总压值为 $1 0 2 2 0 0 \\mathrm { P a }$ 。直列叶栅中叶展平面为物理上的对称面，该装配缝属于弱影响，不会对中叶展区域造成明显影响，因此本文采用中叶展对称边界的方法将网格规模减半。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了模拟冷却气与主流的掺混，并与实验平台对应，主流采用理想空气工质，冷却气采用氮气。模拟软件中采用理想气体混合方式通过计算氮气与理想空气的混合来模拟，模拟冷却气与主流气体的掺混，结果中氮气的质量分数即可代表当地气膜有效度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数值验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "已有研究表明800万网格可以较好预测直列叶栅全通道中的装配缝气动与冷却特性[3]，同时为了得到更准确的流动特性，入口段与出口延伸段都得到了较长的延伸，网格量有一定增加。本文采用多块化结构网格，并根据中叶展为物理对称面的特性将网格数减半。本文网格规模可以较好地捕捉装配缝泄漏流的流动和冷却特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "向出流速度几乎全部小于0，虽然在1.35倍轴向弦长之后为正向速度，但该部分气体为上游倒灌的主流气体的排出过程，因此装配缝出现明显的倒灌现象，而没有冷却气流出。SSH算例的装配缝倒灌使得端壁气膜有效度均为0，因此在气膜有效度分布曲线中其有效度为0。基础算例与 SSL 算例中装配缝可以较好地出流，由于SSL 的冷却气出流量高于基础算例，所以气膜有效度也表现为 SSL算例高于基础算例。但两算例受到叶片尾迹影响而产生的冷却盲区沿叶片弦线尾部延长线向下游延伸，从气膜有效度分布曲线中可以看出，两几何形式在尾迹移动",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 端壁台阶方向影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1气膜有效度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3所示为不同台阶方向与基础算例之间端壁气膜有效度分布对比图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在基础算例中，装配缝尾缘后较大区域内均有泄漏流喷出，而且泄漏流向下游移动，有效地冷却了叶片尾缘下游的端壁。叶片弦线尾部延长线与装配缝相交区域存在无泄漏流喷出的冷却失效区，叶片尾部延长线区域无冷却气覆盖。在SSL几何算例中，槽缝的出流部分向尾缘方向扩大，冷却盲区减小，叶片尾缘后部的装配缝出流对壁面的气膜有效度明显高于基础算例。而在 SSH几何算例中，端壁气膜有效度为0，即吸力面侧端壁高于压力面侧端壁的几何关系使装配缝冷却作用消失。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f1a5bae09065a62fac3131545cc2a3755bee38a5100b814cd766a0f946c2216.jpg",
+        "img_caption": [
+            "图3不同台阶方向端壁气膜有效度云图 Fig.3 Film cooling effectiveness on endwall in different step directions "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了进一步分析与讨论台阶方向对端壁气膜有效度分布的影响，取装配缝内速度分布曲线 (如图4)与装配缝下游距其15倍缝宽距离的端壁气膜有效度分布曲线 (如图5)。从装配缝内速度分布可以发现SSL 的径向速度明显大于基础算例，即 SSL 冷却气出流量高于基础算例，这是 SSL 算例端壁气膜有效度明显高于基础算例的一个因素。而SSH算例的径区域(1.08轴向弦长前后)受到较强影响，气膜有效度较低，基础算例的冷却盲区较大。冷却盲区下游，气膜有效度产生较大幅度的突升后即维持较均匀的气膜有效度水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aa9a6caf2cce6bd616fb481f35281ac29d3a7300ad0495a8a42b546a038d700.jpg",
+        "img_caption": [
+            "图4装配缝内速度分布",
+            "Fig.4 Velocity distribution in the midpassage gap in different step directions "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/193601ca85b761eebb5cfa418865c8c1113eb8765e7bc5894c021fc3ff6dae96.jpg",
+        "img_caption": [
+            "图515倍缝宽处端壁气膜有效度分布 Fig.5 Film cooling effectiveness at 15w downstream of the gap "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2流场结构",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "气膜有效度的改变主要受流场变化和泄漏量的影响，不同台阶方向对流场的影响具有明显差异。由于装配或热膨胀不均匀而产生的微小台阶高度对装配缝附近的压力场和流动特性具有极大影响。首先，通道中的装配缝相当于一个开口空间，在压力的驱动下可以产生冷却气向外泄漏效果，也可以产生主流向缝内的倒灌。其次，在主流作用下，装配缝喷出的低速冷却气极易在下游产生涡，从而产生较大气动损失并增强主流与泄漏流的混合。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c24937dc58793fe26a2b65c34c801573ddbc16889a3d6054fb72a3ed867fb412.jpg",
+        "img_caption": [
+            "图6切面压力分布与流线",
+            "Fig.6 Pressure distribution and streamlines near the gap in different step directions "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主流冲击的一侧不产生涡。SSH几何形式使主流流体在装配缝处受到阻碍，装配缝出口的滞止状态使其出口静压超过装配缝入口总压，因此SSH几何形式不但无冷却气喷出而且会在压差驱动下产生主流倒灌进入装配缝。在真实燃机中，这一方面会造成滞止壁面传热系数大幅提高造成叶片烧蚀失效，另一方面高温工质的倒灌会使叶轮内部无陶瓷保护区域烧蚀失效，给安全运行带来极大隐患。SSL几何形式使主流流体在装配缝处产生突扩，冷却流体在受到主流冲击前喷出装配缝，因此装配缝出口静压较低,在相同冷却气总压条件下的冷却气速度更高，冷却出流量更大。更高速的冷却流速与主流在SSL几何关系下的突扩特点使装配缝下游端壁在更大区域内产生低压区，这也使得其下游的涡尺寸增大，流动损失加大且冷却气与主流的掺混增强。同时，靠近压力面固壁的装配缝顶端附近存在较小的涡。由于冷却气速度远低于主流流速，且SSL几何结构提供给冷却气较大空间转变流动方向，而主流静压高于装配缝靠近压力面顶部压力，因此该处产生了较小的涡旋，该涡在冷却气与主流的交汇处，会更大程度增强冷却气与主流的混合。为了避免烧蚀失效事故的发生，装配叶片时应控制装配误差带偏向SSL几何关系。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在基础工况中，装配缝内压力略高于主流压力，冷却气以较低的速度流出并与主流混合。由于装配缝固壁与端壁直角连接，气体喷出时会在装配缝下游端壁附近产生低压区从而产生涡，但冷却出流受",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，由于装配和膨胀不均匀性产生的不同台阶方向对流动和冷却性质有较大影响。SSL几何关系会提高冷却出流量，对尾缘下游的端壁冷却有积极影响，提高了安全性。而 SSH几何关系会使主流流体倒灌进装配缝而造成叶轮内部烧蚀失效。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 切角结构影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1气膜有效度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于一般气膜冷却结构，将冷却气转折角光滑化是提高气膜有效度的有效途径，但受到端壁内冷却限制，装配缝固壁必须与端壁垂直，因此较少采用提高转折角光滑程度的方式提高冷却效果。为了探究装配缝几何优化方向，本文对装配缝固壁与端壁交角进行切角处理，即用两个 $1 3 5 ^ { \\circ }$ 转角代替原始几何的 $9 0 ^ { \\circ }$ 转角。同时将两侧切角的原始几何形状变化为SSL几何关系，探究各参数对叶片尾缘下游区域的气膜有效度分布规律。计算结果如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与基础算例相比，双侧切角几何结构算例的端壁气膜有效度变差，气膜覆盖区域减少，而叶形弦线延长线附近的冷却盲区增加。但在装配缝下游15倍缝宽范围内，有冷却气出流区域的气膜有效度明显高于基础算例。将SSL几何关系引入双侧切角几何结构时，同样会产生明显的冷却区域扩大，冷却盲区减小的效果，端壁受到更好的冷却保护。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aaca4b7c5e6846f54a3027205ed9d061268175610a4cb0e46bc17bc9e39abce6.jpg",
+        "img_caption": [
+            "图7不同台阶方向端壁气膜有效度云图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1774b736dc3d458138b587b8a86372fdf40ab194cb0430161980c6ded1356689.jpg",
+        "img_caption": [
+            "Fig.7 Film cooling effectiveness on endwall with cut corner ",
+            "图8装配缝内速度分布",
+            "Fig.8 Velocity distribution in the midpassage gap with cut corner "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面对装配缝内速度分布曲线(如图8）与装配缝下游距其15倍缝宽距离的端壁气膜有效度分布曲线 (如图9)进行分析。双侧切角几何结构增强了叶片尾缘对装配缝出流的影响程度，在靠近尾缘的较大区域内速度为负值，即具有明显倒灌现象。但是随着当地压力的持续降低，切角结构算例的冷却气喷出速度逐渐提高，最终超过基础算例。这使得切角算例呈现近尾缘处冷却盲区面积较大而后部冷却效果逐渐恢复。当同时引入SSL几何关系时，SSL本身的加强冷却出流的特性抵消了切角结构造成的装配缝出流对尾缘敏感性高的现象，使得倒灌状态基本消除，出流速度明显高于基础算例。同时这也表明装配缝两侧端壁的台阶关系对冷却出流具有决定性影响，SSL几何关系能够较大程度地提升相同几何结构下装配缝出流速度，提升冷气出流量。这样的出流特点能够很好地反映在气膜有效度分布曲线上。正向喷出速度出现的先后关系决定了气膜有效度从0突增的先后关系顺序，因此基础算例和cut_SSL算例的端壁较早产生气膜保护，而cut算例则较晚。同时，气膜有效度的大小关系与冷却气出流速度也有较好的对应关系，冷却出流速度高的算例对应气膜有效度较高，反之则较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac8438654bdacaae20f2a860964e541d2ad58b79aefe3a92229fd9cbf2919f5d.jpg",
+        "img_caption": [
+            "图915倍缝宽处端壁气膜有效度分布 Fig.9 Film cooling effectiveness at 15w downstream of the gap "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2流场结构",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "壁面交角几何结构的改变对流动和压力分布具有一定影响。图10所示为带有切角几何结构算例与基础算例的压力云图和流线的对比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "切角算例中下游切角使装配缝喷出的冷却气平滑地改变流动方向，未在下游端壁产生明显的涡结构，降低了该处的流动损失和气体掺混。但同时上游切角也为主流倒灌进装配缝提供了较好的转向条件，因此装配缝出流的冷却盲区增大。同时由于两侧切角结构产生的漏斗形结构为冷却气与主流的掺混提供了更多的空间，且在装配缝靠近压力面固壁的顶部产生了一对涡系结构。该对涡结构是由于上游切角产生了不必要的低压流动空间，进而在压力驱动下产生涡旋流动。与SSL几何关系下的上游涡系效果相同，该对上游涡系处于冷却气与主流的交汇区域，其对流体掺混具有较强作用。当同时引入切角结构和SSL几何关系时，在台阶结构的决定性影响下，上游涡对尺度增大的同时，下游切角处和端壁附近均产生了较大的附壁涡结构。装配缝下游的两个涡结构的产生表示，同时引入切角几何结构和SSL几何关系时，提供给冷却气改变流动方向的空间过大，装配缝上游和下游多个区域产生较强的涡结构，增强了流体的掺混程度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8e9455a8870241356244ea69ff9dfe8449c3d2d6cd10f8017c1206f374f7a23.jpg",
+        "img_caption": [
+            "图10 切面压力分布与流线 Fig.10 Pressure distribution and streamlines near the gap with cut corner "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，装配缝靠近吸力面侧切角结构能够有效改善冷却气的流动环境，减弱或消除下游端壁附近的涡结构，而靠近压力面侧的切角则为气流掺混提供了更多空间，使装配缝出流对叶片尾缘的影响更明显，造成冷却盲区扩大，不利于冷却气对端壁的保护。同时SSL几何关系对冷却出流特性具有决定性影响，可以有效改善切角结构对叶片尾缘作用敏感性高的问题，但同时会因下游流动空间较大而产生涡结构。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文采用数值模拟的方法研究了不同的装配缝几何关系和几何结构对叶片尾缘下游端壁气膜冷却的影响作用和机理，并依据分析和研究结果提出了一些叶片设计和装配建议，得出以下结论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）叶片尾缘下游端壁的装配缝泄漏流冷却效果对槽缝的几何关系和几何结构十分敏感，由于装配误差和膨胀不均匀性产生的不同台阶方向对流动和冷却性质有较大影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）SSL几何关系会提高冷却出流量，对尾缘下游的端壁冷却有积极影响，提高了安全性，而SSH几何关系会使主流流体倒灌进装配缝而造成叶轮内部烧蚀失效。因此为了避免烧蚀事故，叶片装配应控制误差带偏向 SSL几何关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3)装配缝靠近吸力面切角能够有效改善冷却气 流动环境，降低流动损失和流体掺混强度；而靠近 压力面切角则增加了流动损失且增强了流体掺混。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4)装配缝区域较大的流动空间可以增加冷却出流量，增加端壁冷却面积和气膜有效度，但同时会使装配缝下游固壁附近产生涡结构，增加流动损失。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]PiggushJD,Simon TW.Heat Transfer Measurements in a First-Stage Nozzle Cascade Having Endwall Contouring: Misalignment and Leakage Studies [J].Journal of Turbomachinery,2006,129(4):782-790   \n[2]Piggush JD,Simon T W.Flow Measurements in a First Stage Nozzle Cascade Having Endwall Contouring,Leakage,and Assembly Features [J].Journal of Turbomachinery,2012,135(1):011002   \n[3]Grewe R P,Miller RJ,Hodson H P.The Effect of Endwall Manufacturing Variations on Turbine Performance [C]//Proceedings of ASME Turbo Expo 2014: Turbine Technical Conference and Exposition.Disseldorf,Germany:American Society of Mechanical Engineers,2014: V02CT38A008   \n[4] Hada S,Thole K A.Computational Study of a Midpassage Gap and Upstream Slot on Vane Endwall Film-Cooling [J].Journal of Turbomachinery,2010,133(1):O11024   \n[5]Lynch S P,Thole K A.The Effect of the CombustorTurbine Slot and Midpassage Gap on Vane Endwall Heat Transfer [J].Journal of Turbomachinery，2011，133(4): 041002 ",
+        "page_idx": 5
+    }
+]

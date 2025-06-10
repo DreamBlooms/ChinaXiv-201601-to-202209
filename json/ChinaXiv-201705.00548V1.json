@@ -1,0 +1,209 @@
+[
+    {
+        "type": "text",
+        "text": "Fabrication of tunable 3D graphene mesh network with enhanced electrical and thermal properties for high-rate aluminum-ion battery application† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "G.Y. Yang,ab L. Chen,a P. Jiang,a Z.Y. Guo,b W. Wang\\*a and Z. P. Liu\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three-dimensional (3D) graphene networks are attracting ever-increasing attention in the field of energy storage because their unique architecture at macroscopic scales is beneficial for effective electron and ion transport. Herein,a novel interconnected 3D graphene mesh network (3D GMN) was successfully designed and fabricated by folded Ni meshes assisted chemical vapor deposition method.The structure parameters of 3D GMN can be controlled wellby tuning the period of Ni mesh and the electroplating time.With the increase of the densityof 3D GMN,the electrical conductivityof 3D GMNand the thermal conductivity of 3D GMN/epoxy composite are greatly improved compared to that of the 3D graphene foam.This 3D GMN enables the high capacity of $5 7 ~ \\mathsf { m A } \\textsf { h g } ^ { - 1 }$ in an aluminum ion battery at the ultrahigh rate of 40C with capacity retention of $9 6 . 5 \\%$ after 200 cycles. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphene， a novel super-carbon material，has attracted tremendous attention due to its significantly excellent physical properties,such as high electrical and thermal conductivities, large specific surface area,and excellent mechanical properties.1-3 It can be widely used in the fields of electronic devices, energy harvesting and storage,and composites etc.,4-9 which might playa revolutionary role in the near future.However,in most applications using graphene in composites,it is very essential to integrate graphene into a macroscopic structure to give full play to its advantages.10-12 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To date,numerous three-dimensional (3D) graphene architectures have been successfully constructed, including films,13 networks,14,15 tubes,16 fibers and spheres etc.17,18 These graphene materials have been widely used in the fields of supercapacitors, lithium ion (Li-ion) batteries,solar cells,catalysts,sensors and environments.19-25 Among all the methods, the conventional 3D macroscopic graphene structure is constructed by assembling graphene powders in differentways,such as filtration, freezedrying,27,28 self-assembly processes.29,30 Qiu et al. reported an ultralight and superelastic graphene-based cellular monoliths with extremely high recovery rate and high energy absorption abilityby the freeze-drying method.2& Recently,additive-free and homogenous graphene sponges were synthesized by the selfassemble process, which exhibited excellent mechanical properties with recovery up to $9 8 \\%$ compression in air and $9 0 \\%$ in liquids at $^ { - 1 9 6 }$ to $9 0 0 ~ ^ { \\circ } \\mathbf { C }$ 31 However,it has to be mentioned that the graphene powders currentlyused are of low quality due to the unavoidable defects formed during the fabrication process,no matter the modified Hummer's methods32,33 or liquid-phase exfoliation methods,34 which greatly hinders the applications of graphene in practice.Alternatively,chemical vapor deposition (CvD) method is well-known as a reliable method to prepare high quality graphene with few defects and high electrical conductivity.35-37 Besides producing graphene films as transparent conducting films,3D graphene architectures can also be obtained through template-assisted CVD process.38,39 Chen et al. firstly reported the fabrication of 3D graphene foam by CvD process at $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ with the help of Ni foam as template substrate.4 This 3D interconnected graphene foam completely duplicates the architecture of Ni foam with pore size of $3 0 0 { - } 5 0 0 ~ \\mu \\mathrm { m }$ ，which has been widely used in supercapacitors,Li-ion battery and aluminium-ion (Al-ion) battery applications.41-43 However, the 3D graphene foam as a replica of Ni foam with large pores is of ultra-low volumetric density, which might result in low volumetric capacity in energy storage.Moreover,it playsa neglected role in the properties of 3D graphene based composites due to the ultra-low content. Thus,the fabrication of high density 3D graphene network with tunable architecture is becoming a significant topic for reaching higher performance on related applications.44,45 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work,a novel 3D graphene mesh network (3D GMN) was successfully designed and fabricated through folded Ni meshes assisted CVD process,as shown in Fig.1. The Ni mesh was folded and subsequently bonded by electroplating Ni on surface.3D GMN can completely duplicate the architecture of 3D Ni mesh network after CVD and subsequent etching process. Thus,the structure parameters of 3D GMN can be well adjusted separately by tuning the layers,period of Ni mesh and the electroplating time.As increasing the density，the physical properties of 3D GMN can be well optimized,which is very important to reach higher performance on 3D GMN based composites.Impressive battery performance was achieved by using high density 3D GMN as cathode in Al-ion battery. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f88691fb2d469e8b9cbd2386799594176b3f04284de0f29003ff05d2d9dc8ffd.jpg",
+        "img_caption": [
+            "Fig.1 Schematic of the fabrication process of 3D graphene mesh network. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1 presents the typical fabrication process of the 3D GMN.Ni meshes with different sizes were used as the building blocks, which were folded at a pressure of around $2 5 \\mathrm { M P a }$ for 5 minutes. After the ultrasonication process in1MHCl solution,deionized (DI) water and ethanol for15 minutes in sequence,the folded Ni meshes were dried and then placed in an electroplating cell containing Ni electrolyte with $2 7 0 \\mathrm { g } \\mathrm { L } ^ { - 1 } \\mathrm { N i } _ { 2 } \\mathrm { S O } _ { 4 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O } _ { 3 }$ $4 0 \\ { \\mathrm { g } } \\ { \\mathrm { L } } ^ { - 1 }$ $\\mathrm { N i C l } _ { 2 } { \\cdot } 6 \\mathrm { H } _ { 2 } \\mathrm { O }$ and $4 0 { \\bf g } { \\bf L } ^ { - 1 } { \\bf H } _ { 3 } { \\bf B } { \\bf O } _ { 3 }$ .A thin Ni layer was deposited to bond the Ni meshes at the voltage of $- 1 \\mathrm { v }$ vs. Ag/AgCl as the reference electrode foracertain time.Afterthat, theNi meshes were washed by DI water and ready for the growth of graphene. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Ni meshes were placed in a tube furnace with diameter of 5 inches.After heated to $1 0 0 0 ~ ^ { \\circ } \\mathrm { C }$ at vacuum, continuous $\\mathbf { H } _ { 2 }$ flow of 180 sccm was introduced to eliminate thin oxide layer on surface.Subsequently, $\\mathrm { C H } _ { 4 }$ flow of 18 sccm was added into the quartz tube for another 3O minutes.Then,the sample was quickly cooled down by sliding the furnace to the cold side under protection of $\\mathbf { H } _ { 2 }$ flow.After getting sample out of furnace, the sample was coated with a thin layer of PMMA,and then etchedinasolution of $\\mathrm { F e C l _ { 3 } / H C l } \\left( 1 \\mathbf { M } : 1 \\mathbf { M } \\right)$ mixture at $8 0 ~ ^ { \\circ } \\mathbf { C }$ for 6hours.Finally，freestanding 3D GMN was obtained by removing the PMMA at $5 0 0 ~ ^ { \\circ } \\mathrm { C }$ with continuous $\\mathbf { H } _ { 2 }$ flow of 180 sccm under vacuum. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The structure and morphology of the as-prepared materials were investigated using field emission scanning electron microscope (FESEMHitachi S480o,8 kV) and FEI Tecnai G2 F20 transmission electron microscopy (TEM,at the accelerating voltage of $2 0 0 ~ \\mathrm { k V } .$ ). The electrical property was characterized by a multifunction digital four-probe tester (ST-2258A) and Hioki Battery Hitester (BT3562).Raman spectra of the materials were recorded using a Renishaw in via Reflex Raman Spectrometer with $5 3 2 \\mathrm { n m }$ wavelengthlaser.TheAl-ionbatterywasassembled with 3D GMN as cathode and Al foil as anode in the glove box. The electrolyte contains $\\mathrm { \\mathbf { A l C l } _ { 3 } / [ \\mathbf { E M I m } ] \\mathbf { C l } }$ withmole ratio of $1 : 3$ A LAND-CT2001A battery test system (Jinnuo Wuhan Corp., China) wasused to test the electrochemical performance.The current density varied from 10C to 50C $[ 1 { \\mathrm { C } } = 6 0 \\ \\mathrm { m A } \\ \\mathrm { g } ^ { - 1 } )$ with a cut-off voltage of $\\mathbf { 0 { - } } 2 . 5 \\ \\mathrm { V }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2a-c presents the morphology evolution from 3D Ni mesh network to 3D GMN.It can be seen that the diameter of the Ni wires have been enlarged to $4 5 \\mu \\mathrm { m }$ compared to that of $3 5 \\mu \\mathrm { m }$ in raw Ni mesh (see ESI S1†).The careful examination of Ni mesh after electroplating bonding process in inset image of Fig.2a indicates that Ni has been uniformly deposited onto Ni mesh with a smooth surface.However, this texture has been changed after the CVD process that surface with obvious contract can be observed,as shown in Fig.2b and the inset image.The SEM image in larger magnification in the inset of Fig.2b reveals that clear wrinkles appear on surface.This is similar to other reported graphene films by CVD on Cu or Ni substrates because of the big expansion mismatch between graphite and Ni during the cooling process.3 After further removal of Ni mesh,there is no obvious morphology changes from the top view of GMN in Fig.2c,indicating the mechanical robustness of GMN.From the cross-sectional view in the inset of Fig.2c,hollow structure can be observed,indicating that the graphene mesh completely replicates the architecture of Ni mesh with interconnected network. It is worth to mention that there exist some porous carbon cores in other Ni mesh assisted CVD process.46 This phenomenon is attributed to the impurity of Ni mesh,which has been completely eliminated in our work (see ESI $^ { S 2 \\dagger }$ ).After folding the Ni mesh under a certain pressure,3D GMN can be easily obtained through the same approach.As shown in Fig. 2d and e,3D GMN with thickness of $1 8 5 ~ { \\mu \\mathrm { m } }$ and $4 6 0 ~ { \\mu \\mathrm { m } }$ can be constructed by folding 4 layers and 12 layers Ni meshes as substrates,respectively. The neighbouring layers are well connected with hollow channels inside,which benefits from the electroplating process to bond layers together.With careful observation on the top view in Fig.2f, the wires of underneath layer prefer to be inserted into between two wires on top layer, which means that a compact 3D architecture can be selfassembled under the high pressure. Thus,volumetric density can be maximized to reach the highest stability of 3D Ni mesh network.The HRTEM characterization of destructed graphene meshes demonstrates that the 3D GMN is consisted with fewlayer graphene with layers of less than 10,as shown in Fig. 2g and h.Due to the high dissolution of carbon in Ni, the layers of resulted graphene are mainly determined by the absorbed carbon content and cooling speed during the CVD process.7 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc37d981fd122e096cc128e8e32ffe0cf276cc7d86072724906406b410e83e7c.jpg",
+        "img_caption": [
+            "Fig.2SEM images of (a) Ni mesh after electroplating for $8 0 0 0 \\mathsf { s } ,$ (b) graphene/Ni mesh after CVD process,(c) free-standing GMN,(d) and (e) cro-sectionalimagesof4larsandlayersG;(ftop-iewmageof4lyersGg)and)fthefrestadingGd) Raman spectra of 1 layer and 4 layers $G M N$ # "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Raman spectra in Fig.2i also demonstrate the formation of fewlayer graphene with $I _ { \\mathrm { G } } / I _ { 2 \\mathrm { D } }$ of1.5.There is negligible D peak on the Raman spectrum suggesting the formation of high quality graphene mesh network with few defects.It can be concluded that the high density 3D graphene mesh networks with high quality have been successfully fabricated through the folded Ni meshes assisted CVD process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this work,besides the electrodeposition of Ni can help bonding the Ni mesh for the formation of interconnected network,it can also effectively adjust the structure of final 3D GMN byadjusting the electrodeposition parameters,as shown in Fig.3a.Fig.3b-d presents the morphologies of 400 mesh Ni network after electroplating for different time and the corresponding 3D GMN in the inset images.The spacing of original 400 mesh Ni network is about $3 5 ~ { \\mu \\mathrm { m } }$ . The spacing between the neighbouring Ni wires can be adjusted to $2 5 ~ { \\mu \\mathrm { m } }$ ， $1 8 ~ { \\mu \\mathrm { m } }$ and $8 ~ { \\mu \\mathrm { m } }$ after electroplating for 8000 s,12 000 s and $1 8 \\ 0 0 0 \\ \\mathrm { ~ s ~ }$ respectively.The insets in Fig.3b-d demonstrate that the diameters of corresponding 3D graphene mesh network are well consistent with that of electroplated Ni wires.With the increase of the electroplating time,the pore size of 3D GMN increases while the spacing between wires decreases accordingly. On the other hand, the periods of 3D GMN can also be tuned by employing differentNi meshes.As shown in Fig.3e and f, the ratio between wire size and pore size in 6o meshes Ni network after electroplating for 8ooo s is only $2 6 . 8 \\%$ with period of $4 1 0 ~ { \\mu \\mathrm { m } }$ ，while the ratio becomes $2 8 . 1 \\%$ in 120 meshes Ni network after electroplating for 8ooo s with period of $2 2 8 ~ { \\mu \\mathrm { m } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further improve the ratio between wire size and pore size of 120 meshes Ni network to ${ \\sim } 5 0 \\%$ ,the electroplating time has to be prolonged to 15 ooo s since the increase of Ni wire in larger diameter requires longer electroplating time.After removal of Ni meshes,the diameter of hollow graphene reaches $1 0 7 \\mu \\mathrm { m }$ in this 3D GMN,as shown in the inset image of Fig.3g.Thus, the as-prepared 3D GMN can be well controlled in size of from several to hundreds of micrometers with the adjustment of electroplating time and the use of different Ni meshes,which present the best candidate as the tunable conducting matrix for optimizing the physical properties and hence enhancing energy storage performance. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The tuning ability of this method plays the significantly important role in adjusting the physical properties of 3D graphene mesh network and the related composites.As shown in Fig.4a,as increasing the layers ofNi meshes,the thickness of 3DGMN increases accordingly.The corresponding sheet resistance can be reduced from 8.2 ohm $\\square ^ { - 1 }$ of one layer graphene mesh to 1.9 ohm $\\square ^ { - 1 }$ of 12 layers graphene mesh network. It is noteworthy that,even though the thickness of 3D graphene mesh network is much thinner than that of the commercially used 3D graphene foam,the sheet resistance of 3D GMN is only half of the 3D graphene foam sheet resistance,demonstrating the much higher electrical conducting ability of the high density 3D GMN.As calculated in electrical conductivity, that of the 3D GMN can be greatly increased as decreasing the periods of Ni mesh，as shown in Fig.4b.However，the electrical conductivity slightly decreases as increasing the thickness which is possibly due to less diffusion of carbon source and hence less graphene formation in the interior part of thicker samples.Finally,the 3DGMNwith12 layersNi meshes exhibits the electrical conductivity of $1 1 . 5 7 \\mathrm { S } \\mathrm { c m } ^ { - 1 }$ ,which is more than twice higher than that of graphene foam of $4 . 8 2 \\ \\mathrm { S \\ c m ^ { - 1 } }$ .In addition,this high density 3D GMN,consisted of 400 meshes Ni mesh after electroplating for 8ooo seconds,still remains excellent mechanical stability.As shown in Fig.4c,the sheet resistance increases by only $1 1 \\%$ with a stretching ratio of $1 1 \\%$ and $3 3 \\%$ with the stretching ratio of $3 3 \\%$ ，which is similar or superior compared to other reported 3D graphene architectures.40,45 Furthermore,the composite consisted of 3D GMN and PDMS can undergo repeated bending with slight increase of sheet resistance,as demonstrated in Fig. 4d.Even with the bending angle as large as $1 7 0 ^ { \\circ }$ ,only $6 \\%$ sheet resistance variation accrued. It can be fully recovered to the original value as releasing the sample,which suggests the excellent flexibility. On the other hand,this high density 3D GMN can be composited with epoxy polymer (EP) to improve the thermal conductivity of EP.Fig. 4e and f presents the morphologies of graphene foam/ EP and 3D GMN/EP composites.It can be seen that EP has completely occupied all the voids inside the graphene foam and 3D GMN,while these graphene networks keep their shapes after EP loading. As shown in Fig. $_ { 4 g }$ ，the original thermal conductivity of EP is $0 . 1 9 9 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { k } ^ { - 1 }$ . After introducing graphene foam as the conducting matrix inside,the thermal conductivity of graphene foam/EP composite reaches 0.657 W $\\mathrm { m } ^ { - 1 } \\mathrm { k } ^ { - 1 }$ ,which is 3 times higher than that of the pure EP.The thermal conductivity of 3D GMN/EP composite can be further improved to $1 . 1 5 \\mathrm { W } \\mathrm { m } ^ { - 1 } \\mathrm { k } ^ { - 1 }$ ,which is 6 times higher than that of pure EP and 2 times higher than that of graphene foam/EP composite. The results demonstrate that the higher density of 3D GMN would significantly enhance the electrical and thermal properties of the matrix and the composites. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cd2529a6cab8dca2b063f740d4a65f1f9251216baa0d89d5288e17c2c7dc462.jpg",
+        "img_caption": [
+            "Fig.3(a)Structureparametersof3DGMNndteorespondingSMimagesofnickelmeshfterelectroplatingfordifrnttieand grapenegrowth:(b)0messtempatefterectropatif8s(c)0meshstemplateelectroplatedfosd)ss template after electroplating for 18 O00 s,(e) 60 meshes template after electroplating for $8 0 0 0 { \\mathsf { s } } ,$ (f) 120 meshes template after electroplating for 8000 s,(g)120 meshes template after electroplating for15 000 s. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa327faa641bf5f7d8a254b1645c8a8b1529d841908f871ca1414b4eb5ae8b9b.jpg",
+        "img_caption": [
+            "Fig.4(a) Sheet resistance of 3D GMN with 400 meshes template, (b) electrical conductivity of 3D GMN with different layers and periods, and electrical-resistance variation of 3D GMN/PDMS composite under (c) stretching and (d) bending statuses; SEM images of (e) 3D GMN/EP and (f) graphene foam/EP composites;and (g) the corresponding thermal conductivities of 3D graphene foam/EP and 3D GMN/EP composites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An excellent electrical conducting matrix is very important for achieving high battery performance especially in ultrafast energy storages.For example,more recently,Dai et al.reported an impressive ultrafast Al-ion battery by employing graphene foam as the cathode.43 In current work, the high density 3D GMN with 4layers 4oo mesh network can be directlyused in energy storage for optimizing the battery performance because ofits excellent electrical and thermal behaviour as demonstrated above.Fig. 5a presents the typical CV curve with two redox couples which can be attributed to the reversible insertion/extraction of $\\mathrm { \\Delta A l C l _ { 4 } } ^ { - }$ anions.4 Excellent rate performance can be seen in Fig.5b,as increasing the current density from 10C $( 1 \\mathrm { C } = 6 0 \\mathrm { \\ m A \\ g ^ { - 1 } ) }$ to 50C,the 3D GMN based Al-ion battery revealsa stable high capacity of $5 6 \\mathrm { \\ m A } \\mathrm { \\ h \\ g } ^ { - 1 }$ even at an ultrahigh rate of 5oC,which is very close to the gravimetric capacity of $6 0 \\ \\mathrm { m A } \\mathrm { h } \\ \\mathrm { g } ^ { - 1 }$ in Dai's report.The negligible fluctuation mightbe due to system error since it is tested at such a high rate.Itis worth to emphasize that the volumetric density of 3D GMN is $1 5 . 7 ~ \\mathrm { m g } \\mathrm { c m } ^ { - 3 }$ which is almost 6 times higher than that of graphene foam of $2 . 7 \\mathrm { m g } \\mathrm { c m } ^ { - 3 }$ . It means that, with using this high density 3D GMN, the volumetric capacity can be improved byalmost 6 times while the gravimetric capacity keeps similar. The 3D GMN based Al-ion battery is also very stable and its discharge capacity can be remained at $5 7 \\mathrm { \\ m A } \\mathrm { h } \\mathrm { g } ^ { - 1 }$ at 40C with capacity retention of $9 7 . 5 \\%$ after 20o cycles,as shown in Fig. 5c. The slight drop of capacity is mainly due to the instability of electrolyte,which can be recovered by changing new electrolyte after cycling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/447b7c9135b13228a54dfb325d798c43644967b5eebcf894691f9a56fbfa8c5a.jpg",
+        "img_caption": [
+            "Fig.5(a)CVcurve,(b)rateperformanceand(c)cyclingperformanceof3DGMNwith4layers40meshnetworkbasedAl-iobatery "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Conclusion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In summary,a novel 3D GMN has been successfully fabricated by folded Ni meshes assisted CVD process.The structure parameters can be well controlled by the adjustment of Ni mesh and electroplating parameters.As a result,as increasing the density of 3D GMN,the electrical conductivity of 3D GMN and the thermal conductivity of 3D GMN/EP composite can be greatly improved compared to that of commonly used graphene foam.Finally，ultrafast Al-ion battery can be obtained by employing this high density 3D GMNas cathode,which reveals similar gravimetric capacity but much higher volumetric capacity.This work provides a brand new interconnected 3D graphene structure with high tuning ability,which would be extended for the applications of elastic conductors，supercapacitors,Li-ion batteries and sensors etc. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was financial supported by the National Natural Science Foundation of China (51402322） and the Ningbo Science and Technology Innovation Team (No.2014B82004). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1 X. Cao, Z. Yin and H. Zhang, Energy Environ. Sci., 2014,7, 1850-1865.   \n2 C.Li and G. Shi,Nanoscale,2012,4,5549-5563.   \n3 M.Yusuf,F.M.Elfghi，S.A. Zaidi，E.C. Abdullah and M.A.Khan,RSC Adv.,2015,5,50392-50420.   \n4 E.H.Hwang,S.Adam and S.D. Sarma,Phys. Rev. Lett.,2007, 98,186806.   \n5M.S.Romano,N.Li,D.Antiohos,J.M. Razal,A. Nattestad, S.Beirne，S.Fang，Y.Chen，R. Jalili，G.G.Wallace, R.BaughmanandJ.Chen,Adv.Mater.,2013,25,6602-6606.   \n6 Z. Yin, S. Sun, T. Salim, S.Wu, X. Huang,Q. He, Y.M. Lam and H. Zhang,ACS Nano,2010,4, 5263-5268.   \n7 Z. Yin, S. Wu, X. Zhou, X. Huang,Q. Zhang,F. Boey and H. Zhang, Small, 2010,6,307-312.   \n8 D.Ghosh, S.Giri,M.Mandal and C.K.Das,RSC Adv.,2014, 4,26094.   \n9 Y.M.He,W.J. Chen,X.D.Li, Z.X. Zhang,J. C.Fu, C.H. Zhao andE.Q.Xie,ACSNano,2013,7,174-182.   \n10 S. Stankovich, D.A. Dikin, G. H. Dommett, K. M. Kohlhaas, E.J.Zimney，E.A.Stach，R.D.Piner，S.T. Nguyen and R.S.Ruoff,Nature,2006,442,282-286.   \n11 M.A.Worsley，P.J. Pauzauskie，T.Y.Olson，J.Biener, J. J.H. Satcher and T.F.Baumann,J.Am. Chem. Soc.,2010, 132,14067-14069.   \n12 Z. Niu, J. Chen, H. H. Hng, J. Ma and X. Chen,Adv. Mater., 2012,24,4144-4150.   \n13J.-C. Yoon,J.-S. Lee, S.-I.Kim,K.-H. Kim and J.-H. Jang, Sci. Rep.,2013,3,1788.   \n14 H.B. Yao, J. Ge, C. F. Wang, X. Wang, W. Hu, Z. J. Zheng, Y.Ni and S.H.Yu,Adv.Mater.,2013,25,6692-6698.   \n15 W.Li, S. Gao, L. Wu, S. Qiu, Y. Guo,X. Geng,M. Chen, S. Liao,C. Zhu,Y. Gong,M. Long,J. Xu, X. Wei,M. Sun and L. Liu, Sci. Rep.,2013,3,2125.   \n16 M. Zhou, T.Lin,F.Huang,Y. Zhong,Z.Wang,Y. Tang,H.Bi, D.Wan andJ.Lin,Adv.Funct.Mater.,2013,23,2263-2269.   \n17 Z. Xu and C. Gao, Nat. Commun., 2011, 2, 571.   \n18 S.-M.Yoon，W.M. Choi，H. Baik,H.-J. Shin, I. Song, M.-S.Kwon, J. J. Bae,H. Kim, Y. H. Lee and J.-Y. Choi, ACS Nano,2012,6,6803-6811.   \n19 Z. Lei, N. Christov and X. S. Zhao, Energy Environ. Sci., 2011, 4,1866.   \n20 B.G. Choi, M. Yang,W. H. Hong,J. W. Choi and Y. S.Huh, ACS Nano,2012,6,4020-4028.   \n21 J. Luo, J. Liu, Z. Zeng, C.F. Ng,L. Ma, H. Zhang, J. Lin, Z. Shen and H. J. Fan,Nano Lett.,2013,13,6136-6143.   \n22 J. Ma,W. Shen,C.Li and F. Yu,J. Mater. Chem. A, 2015,3, 12307-12313.   \n23 C.Hu, Y. Zhao,H. Cheng, Y. Wang, Z. Dong,C. Jiang, X. Zhai,L. Jiang and L.Qu,Nano Lett.,2012,12,5879-5884.   \n24 Q. He,H. G. Sudibya, Z. Yin, S.Wu,H. Li,F.Boey, W. Huang, P. Chen and H. Zhang,ACS Nano, 2010,4,3201-3208.   \n25 K. Sohn, Y. Joo Na, H. Chang,K. M. Roh,H. Dong Jang and J.Huang,Chem. Commun.,2012,48,5968-5970.   \n26 Y.Xu,H. Bai,G.Lu, C.Li and G. Shi,J. Am. Chem. Soc., 2008, 130, 5856.   \n27 S.Ye,J.Feng and P.Wu,J.Mater.Chem. A,2013,1,3495.   \n28 L. Qiu,J. Z. Liu, S. L. Chang, Y. Wu and D. Li, Nat. Commun., 2012,3,1241.   \n29 Y. Xu, K. Sheng, C. Li and G. Shi,ACS Nano,2010,4, 4324- 4330.   \n30 Q.Fang, X. Zhou,W. Deng and Z. Liu, Nanoscale,2015,8, 197-203.   \n31 Y.Wu, N. Yi, L. Huang, T. Zhang, S. Fang,H. Chang,N. Li, J. Oh,J. A. Lee,M. Kozlov，A. C.Chipara,H. Terrones, P. Xiao, G. Long, Y. Huang, F. Zhang, L. Zhang, X. Lepro, C.Haines，M. D. Lima,N. P. Lopez,L. P.Rajukumar, A．L.Elias， S.Feng，S.J.Kim，N.T. Narayanan, P.M.Ajayan，M. Terrones，A. Aliev，P.Chu，Z. Zhang, R.H. Baughman and Y. Chen, Nat. Commun.,2015,6,6141.   \n32W.S.Hummers and R.E.Offeman,J.Am. Chem. Soc.,1958, 80,1339.   \n33 X. Sun, D. Luo, J. Liu and D.G. Evans,ACS Nano,2010,4, 3381-3389.   \n34M.Lotya,Y.Hernandez,P. J.King,R. J. Smith,V.Nicolosi, L. S. Karlsson，F. M. Blighe， S. De， Z. Wang, I. T.McGovern,G.S.Duesberg and J.N.Coleman,J.Am. Chem. S0c.,2009,131,3611-3620.   \n35A．Reina，X.Jia,J.Ho，D.Nezich，H.Son，V.Bulovic, M. S.Dresselhaus and J. Kong, Nano Lett., 20o9,9,30-35.   \n36 S.J.Chae,F.Günes,K.K. Kim,E. S.Kim,G.H.Han, S.M.Kim,H.-J. Shin,S.-M. Yoon, J.-Y.Choi,M.H. Park, C.W. Yang,D. Pribat and Y.H. Lee,Adv. Mater.,2009,21, 2328-2333.   \n37Q. Yu, J. Lian, S. Siriponglert, H. Li, Y.P. Chen and S.-S. Pei, Appl.Phys.Lett.,2008,93,113103.   \n38 X.Xiao,T.E.Beechem,M.T.Brumbach,T.N.Lambert, D.J.Davis,J. R. Michael，C. M.Washburn，J.Wang, S.M.Brozik,D.R.Wheeler,D.B. Burckel and R. Polsky, ACS Nano,2012,6,3573-3579.   \n39 Z. Chen,W.Ren,B.Liu,L.Gao, S.Pei, Z.-S.Wu,J. Zhao and H.-M. Cheng,Carbon,2010,48,3543-3550.   \n40 Z. Chen,W.Ren,L. Gao,B.Liu, S.Pei and H.-M. Cheng, Nat. Mater.,2011,10,424-428.   \n41 X.-C.Dong,H. Xu, X.-W.Wang,Y.-X.Huang,M.B.ChanPark,H. Zhang,L.-H. Wang,W. Huang and P. Chen,ACS Nano,2012,6,3206-3213.   \n42H.Ji,L. Zhang,M.T. Pettes,H.Li, S. Chen,L. Shi,R.Piner and R. S.Ruoff,Nano Lett.,2012,12,2446-2451.   \n43 M.C. Lin,M.Gong,B. Lu, Y.Wu,D.Y.Wang,M.Guan, M.Angell, C. Chen，J. Yang,B. J. Hwang and H. Dai, Nature,2015,520,325-328.   \n44 X.Huang,K. Qian,J. Yang,J. Zhang,L.Li, C.Yu and D. Zhao, Adv. Mater.,2012,24,4419-4423.   \n45 M. Xiao,T. Kong,W.Wang, Q. Song,D. Zhang, Q. Ma and G.Cheng,Adv.Funct. Mater.,2015,25,6165-6172.   \n46 X.Li, X. Zang, Z. Li, X.Li, P.Li, P. Sun, X. Lee,R. Zhang, Z.Huang,K.Wang,D. Wu,F. Kang and H. Zhu,Adv. Funct.Mater.,2013,23,4862-4869. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

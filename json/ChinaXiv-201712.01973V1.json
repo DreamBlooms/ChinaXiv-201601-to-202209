@@ -1,0 +1,336 @@
+[
+    {
+        "type": "text",
+        "text": "CAR-T技术中外专利申请分析与比较",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis and comparison of foreign and Chinese patent applications in Chimeric antigen receptor T cell ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(CAR-T) technology ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "毕晴孙琳（共同作者）国家知识产权局专利局专利审查协作天津中心，天津300304",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BI Qing，Sunlin(co-author） Pantent Examination Cooperation Tianjin Center of The Patent Office.SIPO.,Tianjin 300304 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "电话：022-8486765713802100683地址：天津市东丽区华明高新区弘顺道11号华明集团大楼3号楼",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于嵌合抗原受体-T细胞（CAR-T）的免疫疗法已经成为了一种有效治疗恶性肿瘤的全新疗法。本文通过检索并分析CAR-T领域的专利申请文件，从中获得了国内外专利申请发展趋势、主要专利申请人、专利地区分布情况等信息，并重点综述了获美国 FDA批准的首个CAR-T疗法的所属公司——诺华公司CAR-T技术的研发路线，以及国内主要研究机构的专利申请情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：CAR-T；专利分析；诺华公司",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Immunotherapy based on chimeric antigen receptor (CAR)-engineered Tcells has been a newly efficacious treatment for malignant tumor. In this review, the information on the development trend of domestic and global patent applications, major patent applicants and patent application by regions are acquired by searching and analyzing the patent application documents with respect to CAR-T. Particularly, the R&D technical roadmap of Novartis which received first ever FDA approval for a CAR-T celltherapy and the patent application layout of major domestic research institutions are summarized. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: CAR-T； patent analysis； Novartis",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、CAR-T技术概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CAR-T（Chimeric antigen receptor T-cell immunotherapy)，即嵌合抗原受体 T 细胞免疫疗法，是在T细胞的细胞膜上嵌合上某种特定肿瘤抗原受体基因，形成修饰的T细胞，经体外扩增，转输入患者体内，靶向杀伤肿瘤的方法。CAR-T细胞是采用“CAR”修饰的T细胞，“CAR”是一种融合蛋白，包括细胞外靶标结合区、间隔区、跨膜区以及胞内信号区。其中细胞外靶标结合结构域通常来源于肿瘤抗原抗体的单链可变区片段（ScFv)。表达CAR的工程化T细胞（CAR-T）通过ScFv结合结构域特异性地识别肿瘤抗原，使T细胞能够以非 MHC-依赖的方式激活，实现对肿瘤细胞的特异性杀伤[1]。CAR-T-技术作为新一代的免疫疗法起步较晚，但是近年来发展迅猛，具有里程碑意义的是，2017年8月31日，美国FDA批准诺华CAR-T疗法 Tisagenlechleucel（CTL-019）上市，使诺华CTL-019 成为第一个获FDA批准的上市的CAR-T疗法，为肿瘤治疗带来变革。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第一代CAR-T出现在20世纪80年代，其胞内信号区只包括第一信号结构域，该信号蛋白来源于TCR/CD3复合体中的CD3 $\\zeta$ 链，尽管在第一代的CAR-T在体外表现出高特异性的肿瘤杀伤活性，但在治疗卵巢癌患者的临床实验中，却未能观察到肿瘤负荷的减少。其失败的原因在于缺少T细胞向肿瘤细胞的特异性运输以及移植后的T细胞在体内持久性差[2]。第一代CARs 能够向T细胞传递最初的激活信号，但激活的T细胞缺乏反应性，或者在缺少第二共刺激信号的情况下无法激活 AICD。此后，在第二代CAR-T的设计中，引入了第二信号结构域，如CD28、CD137（4-1BB）、CD27、CD134（OX40）提供共刺激信号，共刺激信号的引入促进了T细胞的增殖以及细胞因子的产生。从申请的专利来看，CD28以及4-1BB 是构建第二代CAR-T最常用的共刺激信号。在此基础上，研发了第三代CAR-T，其中含有更多的共刺激信号区，例如将CD28和4-1BB一起融合在CAR分子中形成第二信号结构域，以调高T细胞的杀伤效果、促进增殖和持久性，刺激细胞细胞因子的释放。肿瘤在其发展的过程中能够形成免疫抑制的微环境，使CAR细胞靶向肿瘤细胞的能力被削弱，为了克服免疫抑制的肿瘤微环境，出现了第四代CAR-T，在第二/三代CAR-T的基础上，共表达一些细胞因子如IL-12，IL-12能够在肿瘤病灶处吸引NK 细胞、巨噬细胞，从而对那些未能被CAR-T识别的“逃逸”的肿瘤细胞进行攻击，克服肿瘤免疫微环境，以上效应被称为T细胞重定向介导的通用细胞因子的杀伤（Tcells redirected for universalcytokine killing,TRUCK)，其显现了在具有多种表型特征的实体瘤中显著的应用前景[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在对国内外CAR-T专利技术分析时，分别采用国家知识产权局专利检索与服务系统下的DWPI数据库和CNABS 数据库作为数据源，通过准确和有效的检索获得国内外CAR-T技术相关的专利。由于CAR-T领域起步较晚，大多数的专利申请还处于在审或待审状态，处于结案法律状态的案件数量较少，因此以下选取了申请专利进行分析，旨在为我国研究人员在CAR-T技术的研发提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、CAR-T技术国外专利申请分布及特点",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对涉及CAR-T技术领域的国外专利申请进行梳理，从全球发展来看，2005年起开始有研发团队对CAR-T技术进行专利布局，此后呈稳步增长态势，自2012年以来进入了快速发展的时期，2015出现了专利申请的高点（图1)。从专利的区域布局来看，CART技术领域主要以PCT的形式提出申请，也显示了该项技术被普遍看好的应用前景。美国、中国、欧洲是主要布局的地区，显示出这些国家和地区对该技术具有较强的市场吸引力（图2)。该技术领域中专利申请人相对分散，其中申请量最多、研究起步较早的申请人为美国宾西法尼亚大学，诺华公司和塞勒克提斯公司是申请量较多的公司申请人（表1)。本文以下选取了首个获批上市的CAR-T产品所属企业—一全球医药巨头诺华公司，对其在CAR-T领域的专利申请分布进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3f6ee4260042372c517f7a7d733aa468684de2ed33d3d7a02eec3bf2273b264.jpg",
+        "img_caption": [
+            "Fig.1 Global development trend of patent application related CAR-T "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb808becc81d44d2692f2b031c0d4c5639ca984ea4b17b4fca6980730ba8e172.jpg",
+        "img_caption": [
+            "图1全球CAR-T专利申请发展趋势",
+            "图2全球CAR-T专利申请地区分布Fig. 2 Global geographical distribution of patent application related CAR-T表1全球CAR-T技术领域主要申请人排名"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/302e278271fdca5b0382c619f57a6e40c1a29cd8afb5a99b318ce4f19e47c96d.jpg",
+        "table_caption": [
+            "Table1 The major patent applicants on CAR-T R&D field "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名</td><td>申请人</td><td>申请量/件</td></tr><tr><td>1</td><td>美国宾夕法尼亚大学</td><td>71</td></tr><tr><td>2</td><td>诺华公司</td><td>34</td></tr><tr><td>3</td><td>美国卫生和公共服务部门</td><td>33</td></tr><tr><td>4</td><td>塞勒克提斯公司</td><td>31</td></tr><tr><td>5</td><td>UC商务股份有限公司</td><td>28</td></tr><tr><td></td><td>（UCLBUSINESSPLC)</td><td></td></tr><tr><td>6</td><td>斯隆凯特林癌症治疗中心</td><td>27</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f89508d3c215668031b2ffa1cf3e731e627050d252a080ee53a216001d1b755.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>7</td><td>德克萨斯大学系统 21</td></tr><tr><td>8 贝勒医学院</td><td>19</td></tr><tr><td>9</td><td>Achillion 制药 18</td></tr><tr><td>10</td><td>加州大学 18</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图3来看，诺华公司在CAR-T技术的起步不算很早，从最早优先权日来看其在该领域专利布局从2013年开始，是在CAR-T技术快速发展的时期进军该领域。从涉及的技术分支来看，诺华公司在CAR-T技术中的研究较为全面，包括：针对不同靶点设计CAR-T（12项）、研究构建可调控的CAR-T（3项）、通过遗传改造优化CAR-T性能（5项）、研究CAR-T联合用药方案（9项）、CAR-T疗法上下游技术（6项)。整体来看，35项申请均为PCT 申请，显示了诺华公司在CAR-T领域全球化布局的策略，其中涉及构建针对不同靶点CAR-T的申请最多，并且集中在2014-2015年。2015年诺华公司在该领域的专利申请量最大，且涉及的技术分支最为丰富。到2016年，该公司专利的分布主要集中在优化CAR-T性能、临床上联合用药以及优化CAR-T治疗领域上下游技术方面，为CAR-T疗法进入市场作准备。以下针对诺华公司CAR-T领域申请专利的技术分布情况进行详细分析：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1针对不同靶点设计CAR-T（图3中以蓝色显示）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2014年，诺华公司设计的第一批CAR-T针对的靶点包括：CD123、EGFRvIII、CD19以及间皮素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CD123CAR-T能够靶向白血病如急性骨髓性白血病以及B细胞急性淋巴样白血病，用作骨髓移植前细胞调理或治疗急性骨髓性白血病（AML)。将CAT123和CART19组合进行治疗，可预防CAT-CD19 治疗后的复发（WO2014/130635A8)。WO2014/130657A1 中将miR-17-92和 EGFRvIIICAR共表达，在携带颅内U87-EGFRvIII异种移植物的小鼠中，具有或不具有外源miR-17-92表达的CAR-T-细胞表现出了相似水平的强治疗效果，当使用U87-EGFRvIII细胞在脑中再次攻击这些小鼠时，接受共转导的CAR-T细胞小鼠，与无miR-17-92共转导的CAR-T-细胞处理的小鼠相比，显示出了改善的保护作用。转导了上述CAR的人T细胞展示出对表达EGFRvIII的U87人GBM细胞(U87-EGFRvIII)特异地、有力地裂解，具有治疗成胶质细胞瘤患者的应用前景。WO2014/153270A1中构建了针对CD19的人源化CAR-T，在体内急性淋巴白血病（ALL）模型试验中，注射了 $5 \\mathrm { x } 1 0 ^ { 6 }$ 个鼠源或人源化CD19CART细胞的患者在一周内疾病的发展都得到了控制，并在65天的研究过程中显示出相似的维持疾病控制能力。WO2015/090230A1中设计了针对间皮素的CAR-T，其可与抑制性分子PD1-CAR，或mTOR抑制剂联合使用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2015年，诺华公司又研究了新的靶点，包括：BCMA、CD33、CLL-1(C型凝集素样-1）、GFRα4、PRMT5T。BCMA为B细胞成熟抗原，参与介导浆细胞的存活以维持长期体液免疫。最近的研究发现，BCMA的表达与许多癌症，自身免疫性疾病和感染性疾病有关，如多发性骨髓瘤、霍奇金淋巴瘤、各种白血病和胶质母细胞瘤。CCL-1在造血细胞如单核细胞、DC、pDC 及粒细胞等表达，也在AML、白血病干细胞中表达，并且与一些骨髓白血病关联。WO2016/014565A1在实施例中证明了CART-BCMA对多发性骨髓瘤细胞系显示增强的细胞毒活性。CART-CD33显示了针对AML有效的抗癌功能，并且可考虑与CART-CD123联用。GFRα4特异性表达于甲状腺组织的恶性滤泡旁细胞表面，GFRα4-CART可应用于治疗甲状腺髓样癌（MTC）（WO2016/025880A1）。PRMT5T表达于MTAP缺失或MTA积累的肿瘤细胞，如恶性胶质瘤、膀胱癌、肺癌、白血病，间质瘤细胞，选择其作为靶点制备CAR-T用于治疗多种肿瘤（WO2016/089883A1、WO2016038550A1）。在WO2016/028896A1中，进一步研究了针对CD123的CAR-T及其施用方案，在CAT19抗性的临床模型中，CAR123能够有效治疗CD19靶向疗法之后发生的CD19阴性复发。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，在设计CART时，诺华公司基本上都选择了4-1BB，而非CD28作为共刺激信号区，使CAR-T细胞在体内的扩增相对温和，存续时间长。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2构建可调控的CAR-T（图3中以红色显示）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "诺华公司提出的首个可调控CAR（RCAR)的申请为WO2015/090229A1，以FKB 和P-FKP的开关结构为基础，将CAR的结合结构域以及信号结构域分别与两个分离的开关结构域相连，其中第一信号区和共刺激信号区串联，利用mTOR 抑制剂如RAD001作为二聚化分子使结合结构域和信号结构域相连，从而使CART细胞激活。除了FKB 和P-FKP外，还可以使用以GAI-GID1或GyrB-GryB 为基础的二聚体开关，提升CART疗法的安全可控性。WO2016/014553A1中涉及的为基于 sortase 调控的CART，可以介导与 scFvCD19 共表达的胞外抑制分子结构域如PD-1胞外结构域，转移到CAR 中与其他元件偶联，提升CAR-T疗法的安全性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3遗传改造优化CAR-T性能（图3中以绿色显示）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "达尖研儿乖点任通过（A刀』的以迫，使共衣现史为匹并的肿瘤示仍能力。WO2016/172583A1中在CAR的上游构建了RIAD或RISR-RIAD，RIAD或RISR-RIDA肽能够与PKA的RI亚基结合，干扰PKA与Ezrin 的锚定，中和 PKA信号对脂伐的锚定。其中，PKA是肿瘤微环境中产生的两种免疫抑制因子的下游效应子，这两种免疫抑制因子能够抑制T细胞的增殖和活化。WO2017/049166A1中通过干扰甲基胞嘧啶双加氧酶基因（如Tet1，Tet2，Tet3)的表达，从而使与增强增殖相关的5-羟甲基胞嘧啶的水平降低，调控效应分子——细胞因子的产生和脱粒，以此增加CAR-T细胞增殖和杀伤功能。在实施例中采取的手段是将CAR19插入到Tet2基因上，使Tet2的转录本异常或减少野生型Tet2的表达。WO2017/093969A1中，利用Cas9/gRNA技术，靶向T细胞上的蛋白如B2M、CIITA、TRAC以及免疫检测点蛋白如PD-1，以及抑制分子如CTLA4，PD-L1，使CAR-T 细胞具有增强的增殖、存活和激活能力。WO2015/112626A8中将Tcell激活增强子（enhancer of Tcellpriming,ETP)共表达于T 细胞，形成 ETP-CART 细胞，其能提供T细胞增强的抗原递呈细胞（APC)功能，调控激活非重组的肿瘤反应性T细胞。在实施例中采用的为来自CD70、CD86、CD137L、CD252的ETP，共表达ETP能够诱导肿瘤特异性的T细胞反应，其原因可能是由于CART细胞的抗原提呈的功能促进了肿瘤抗原的释放，从而招募抗原提呈细胞（APC)，分泌促炎细胞因子，促进炎症反应。以上免疫反应共同作用使体内肿瘤位点或/和淋巴结上的非重组肿瘤特异性 $\\mathrm { C D 8 + T }$ 细胞被激活，不仅识别CAR靶向的肿瘤抗原，还包括同一肿瘤中的其他抗原。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4CAR-T联合用药方案（图3中以紫色显示）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将靶向肿瘤的CAR-T与免疫增强剂一起施用是诺华公司在CAR-T联合用药方向主要的研究分支。如WO2015/142675A1中将 PD-1CAR(PD1-ECD-TM-4-1BB-CD3 $\\zeta$ )与CD19CAR组合使用，提高了CART细胞的持久性。采用DGK抑制剂能够增强CAR-T细胞的活性和功能，使其增殖活性更好。外源IL-7的加入增加了T细胞增殖和体内抗肿瘤活性，CAR治疗后具有次优结果或复发的患者中使用IL-7可改善患者的抗肿瘤反应WO2015/157252A1中采用激酶抑制剂(BTK抑制剂、CDK4抑制剂、mTOR抑制剂或MNK抑制剂)与CD19CART一起联合施用。在实施例肥大细胞白血病（MCL）小鼠模型中，大部分单独CART治疗的小鼠显示长期惰性复发并伴随CART19细胞持久性，而经CART19-伊鲁替尼(BTK抑制剂)治疗小鼠显示病灶肿瘤清除及CART19的消失，伊鲁替尼可显著增强CART19细胞的抗肿瘤功能。CD19CART与一种嘧啶衍生物结构的BTK抑制剂联用可用于治疗血液癌症（WO2016/164580A1）。WO2016/014530A1中将CART和mTOR抑制剂，如RAD001or雷帕霉素一起施用治疗癌症，能够提升受试者针对癌症的免疫反应，并给出了优化的给药剂量和间隔。WO2017/114497A1在体外实验中，采用CAR19T与LSD1抑制剂（ShRNA）一起施用，发现LSD1的抑制能够增强CD19-CART、BCMA-CART的增殖。在",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WO2017/112741A1的胰腺癌小鼠模型中，证明了组合使用间皮素CART（meso-CART）和PD-L1抑制剂（抗体）在抑制肿瘤发展方面比单独使用meso-CART更有效，mesoCART与PD-L1抑制剂间存在协同作用，其中PD-L1抑制剂能够抑制免疫抑制信号。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "设计双特异性CART是CART联合用药另一主要的研究分支。将FRαCAR或ErbB2（her2）CAR与间质素-CAR（mesoCAR）共转导T细胞，使T细胞表达两种嵌合抗原受体，其中 meso CAR处于EF1α组成型启动子的调控下，而FRα处于NFAT诱导型调控区的控制下，其上包含多个NFAT结合位点。在间质素表达的肿瘤细胞上，meso-CART被激活，激活的T细胞能够激活NFAT的表达，从而诱导第二CART的表达，以增强特异性，减少脱靶（WO2016/126608A1)。WO2016/164731A2中将CD19 CAR与B细胞抑制剂CD123CAR一起连用。实验表明，在针对B细胞急性淋巴白血病（B-ALL）细胞株的体外实验中，由 CD123CAR及CD19 CAR 转导的细胞相比于CD19 CAR 和CD123CAR分别转导后合并的细胞，二者都显示初始有效性，然而前者能够延长反应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5CAR-T疗法上下游技术（图3中以黄色显示）",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "诺华公司除了在CAR-T的设计、优化、联合用药等核心层面进行研究外，对于CAR-T疗法上下游技术—一核心技术外围的基础研究也有涉及，且越来越引起重视，为CART 产品进入市场提供保障。其中在WO2017/015427A1中优化了制备CAR-T细胞的方法，加入了不同的γc 型细胞因子和IL-18 进行实验，其中与IL-2、IL-15或IL7共培养的T细胞显示了较高的增殖能力，而IL-21、IL-18 没有明显的刺激细胞有丝分裂的作用。加入IL-2、IL-7、或IL-153周后的CAR-T细胞增加了1000-2000倍。而加入了IL-18，IL-21以及没加细胞因子的对照中，细胞增殖倍数小于200倍。并且发现与IL-18、IL-21以及对照组相比，IL-2、IL-7、IL-15 能够减少T-细胞的凋亡。与IL-2或IL-15共培养的CAR-T细胞降解肿瘤细胞SKOV3的效率比空白对照和IL-18 组要高。IL-7或IL15 能够刺激产生更“年轻的”CAR-T细胞，可作为刺激CAR-T细胞增殖、刺激T细胞分化为有效肿瘤杀伤细胞的良好试剂。WO2017/087861A1中公开了一种可用于制备CAR-T细胞的液体组合物，包含慢病毒载体、CAR、PIPESbuffer、盐类。优选的为包含 $2 0 \\mathrm { m M }$ PIPES、 $7 5 \\mathrm { m M N a C l }$ 、 $2 . 5 \\%$ 蔗糖， $\\mathrm { p H } 6 . 5 .$ 渗透压为 $2 8 5 \\mathrm { m O s m / k g }$ ，慢病毒的浓度为 $3 { - } 5 \\mathrm { \\ x } 1 0 ^ { 8 } \\mathrm { T U / m L }$ 的液体组合物。该液体组合物能够改善慢病毒载体的稳定性，且在T细胞中具有高滴度，可作为试剂盒制备CART。WO2017/117112A1中优化了制备并纯化T细胞的方法，该方法得到的细胞可用于表达CAR制备CART，涉及对于T细胞如何进行分选、如何处理冰冻的样本、冻融的条件、分选和收集T细胞的过程。由于CAR-T疗法是一种相对个性化的肿瘤免疫疗法，不同患者个体的反应差异较大，因此探索定制化治疗方法的设计也是在CART治疗中需要考虑的问题。诺华公司在WO2016/057705A1中提供了一种评估与CD19表达相关癌症对于CAR19T细胞疗法响应的方法，利用该方法可以区分不反应者、部分反应者、完全反应者或复发者。根据患者的反应情况，设计CART细胞疗法，如改变给予CART细胞的剂量和/或给药间隔，选择给予部分反应或完全反应者额外的试剂如检验点抑制剂，在CART治疗前增加患者年轻T细胞的数量、增加转染效率等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "诺华公司在CART技术领域的研究已经不仅聚焦在CART靶点的选择和CART调控上，而是更注重与商品化、临床应用直接相关的联合用药和上下游技术研究，并且可以看出针对CD19 靶点的研究最为深入和立体，该靶点也是近年来研究的较为成熟的血液瘤靶点。在实体瘤方面，间皮素是其主要研究的靶点，间皮素为 $4 0 \\mathrm { k d }$ 的细胞表面糖蛋白，高表达于多种肿瘤如间皮瘤、多种肺癌、胰腺癌、卵巢癌等，也可表达正常胸膜、心包、腹膜间皮细胞中，将CAR-T疗法应用于实体瘤是该领域面临的一大挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M0484449/444141 M01111/75131 WO-615/11 ， 候 P wM1111/11I111 的 替 的子   \n9107 雕 福 回 聘   \n2507 电 CK   \n4407 E 國 凯 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "三、CAR-T技术中国专利申请情况分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于CAR-T技术在治疗肿瘤方面的应用前景，其越来越受到国内研究者的关注。从历年申请量的变化来看，从2011开始，近年来该领域的中国专利申请量呈上升的总体趋势，在 2015有一个增长的小高潮，与该领域的全球专利申请情况一致（图4)。从中国专利申请的申请人排名来看，中国解放军总医院（15项）以及上海优卡迪生物医药科技有限公司（13项）在该领域的专利申请量领先于其他国内公司，其他排名靠前的申请人主要为国外的公司或机构，与全球在该领域主要的申请人重合度较高（表2)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/234f359ef83e059caea78cdefe24c2058c6e15df68652f9f611d5d4beca806b1.jpg",
+        "img_caption": [
+            "图4中国CAR-T专利申请发展趋势",
+            "Fig4.The development trend of patent applications on CAR-T in China "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7da4cf471b01e85416eb07f3b2a1bf9e04c971092c81c3d0b2c0c344a4ae4b3c.jpg",
+        "table_caption": [
+            "表2CAR-T技术领域中国专利申请主要申请人排名",
+            "Table2 The major patent applicants in the field of CAR-T in China "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>排名</td><td>申请人</td><td>申请数/件</td></tr><tr><td>1</td><td>宾夕法尼亚大学</td><td>18</td></tr><tr><td>2</td><td>中国人民解放军总医院</td><td>15</td></tr><tr><td>3</td><td>上海优卡迪生物医药科技有限公司</td><td>13</td></tr><tr><td>4</td><td>UCL商务股份有限公司</td><td>9</td></tr><tr><td>5</td><td>塞勒克提斯公司</td><td>9</td></tr><tr><td>6</td><td>诺华股份有限公司</td><td>7</td></tr><tr><td>7</td><td>纪念斯隆-凯特琳癌症中心</td><td>7</td></tr><tr><td>8</td><td>安徽未名细胞治疗有限公司</td><td>7</td></tr><tr><td>9</td><td>美国卫生和人力服务部</td><td>6</td></tr><tr><td>10</td><td>贝勒医学院</td><td>6</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对专利申请的技术构思进行分析，中国解放军总医院研究的方向为选择不同的靶点构建CAR-NKT细胞，其选择的靶点包括CD20（CN103820393A、CN105924530A）、CD19（CN105384820A）、CD138（CN105384821A、CN105384822A、CN105924529A）、CD33（CN105384823A）、HER2（CN105384824A）、HER1（CN105920592A、CN105920615A、CN105920616A、CN105924526A)、CD30（CN105924527A）、CD133（CN105936649A）、间皮素（CN105924528A）。构建上述CAR-T选择的跨膜区和铰链区都来自于CD8，与诺华公司相同，采用来自CD137（即4-1BB）的胞内共刺激信号区以及CD3 $\\zeta$ 胞内第一信号区。Her1即EGFR为表皮生长因子受体，在许多实体肿瘤中高表达，中国解放军总医院研究了CARHER1-NKT细胞在治疗进展期HER1阳性肺癌、HER1阳性胰腺癌、HER1阳性胆管癌以及晚期HER1阳性肾癌中作用，证明了CARHER1-NKT细胞对于上述癌症患者具有一定的治疗效果。CD138是在骨髓瘤细胞表面表达的粘附分子，属于跨膜粘蛋白聚糖家族成员，与骨髓微环境中的生长因子和基质成分相结合，介导多发性骨髓瘤细胞的粘附和归巢。随着对CD138研究的逐步深入，人们发现CD138在机体的损伤修复及肿瘤的生长、迁移中都起了关键作用。目前CD138被认为是浆细胞最特异的表面标志物。研究人员采用了CAR138-NKT细胞对于骨髓瘤细胞具有特异性杀伤活性，对已经过多次治疗（如放疗、化疗及其他药物对症治疗等）均无明显疗效的进展期CD138阳性的多发性骨髓瘤患者，具有较低的毒副作用，患者具有较好的耐受性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "上海优卡迪生物医药科技有限公司的核心专利为CN105602992A，公开了一种基于复制缺陷性重组慢病毒的CAR-T转基因载体，采用 SV40 复制子，增加了目的基因在真核细胞内的拷贝数和表达效果。采用eWPRE增强型土拨鼠乙肝病毒转录后调控元件增强初级转录产物的多聚腺苷化，增强转基因的表达效率。3'SINLTR去除了U3区域，消除了慢病毒载体自我复制的可能性，大大提高了安全性；采用人自身的EF1α启动子，使CAR基因能够在人体内长时间持续表达。该慢病毒载体柱纯化工艺为半自动化操作，所回收的慢病毒载体在内毒素、支原体、滴度测定等指标上完全达到临床标准。在该核心专利的基础上，应用CAR-T转基因载体针对不同的靶点如BCMA、CD138、CD33、EGFRvIII、CD20、HER2、CD22、CD30、CD123、间质素构建了CAR-T细胞。在该公司最新申请的两个专利中也进行了CAR-T联合用药方面的研究，CN106636090A中将IL-6 siRNA和CAR19共同构建在CAR慢病毒载体中，在人T细胞内表达白介素-6（IL-6）的siRNA，能够有效降低白介素-6的表达水平，临床上可用于缓解细胞因子释放综合症（Cytokine Release Syndrome，CRS）。实施例中证明了IL-6敲减重组慢病毒载体转导的PBMC细胞在10:1效靶比条件下杀伤效率明显高于PBMC空细胞，低于对照病毒lvCAR19-1761转导的PBMC 细胞，但是IL-6的表达水平下降超过 $70 \\%$ ，可以在杀伤肿瘤细胞的同时，释放较少的IL-6，有效缓解CRS。CN107058315A中将 PD-1敲减 siRNA构建在BCMACAR上，将其应用于CAR-T治疗多发性骨髓瘤中，并且通过阻断PD1的与PDL1的结合达到抑制免疫逃脱的效果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "四、CAR-T技术未来发展趋势",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过国内外主要专利申请人的对比可知，在中国CAR-T领域专利的主要申请人以国外企业或机构为主，从专利技术布局来看，国内公司的研究主要集中针对不同的靶点设计CAR-T,近年来开始涉及联合用药方面的研究，总体来看专利申请分布的技术方向相对单一，还处于比较初始的研发阶段。而国外公司尤其是大型医药公司的专利申请呈现多角度布局，涉及产业链条中的各个环节，其产业化布局的特点凸显。相信随着全球首个CAR-T疗法的上市，未来国内外将会有更多的公司和研究机构投入到CART细胞免疫疗法的研究中，CAR-T疗法在安全性和有效性上的改进使其有望成为主流的肿瘤治疗手段。未来CAR-T领域的专利的分布应关注于提升CAR-T的安全性、特异性以及杀伤效果上，国内公司可在CAR-T疗法在可调控性、优化治疗方案、精细化CAR-T细胞性能、CAR-T细胞的产业化制备方法等方面进行更深入的研究和专利布局。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Almasbak H, Aarvak T, Vemuri MC. CAR T Cell Therapy: A Game Changer in Cancer Treatment. Journal of Immunology Research, 2016, 2016: 5474602. [2] Gross G, Waks T, Eshhar Z. Expression of immunoglobulin T-cell receptor chimeric molecules as functional receptors with antibody-type specificity. Proceedings of The National Academy of Sciences of The United States of America, 1989, 86 (24): 10024-10028. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3] Chmielewski M, Hombach AA,Abken H. Of CARs and TRUCKs: chimeric antigen receptor(CAR) Tcells engineered with an inducible cytokine to modulate the tumor stroma. Immunological Reviews, 2014, 257(1):83-90. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "修改意见说明：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先，非常感谢评审专家细致、专业的评审意见，您的意见使笔者受益匪浅。根据您的意见在第一次稿件的基础上，采用修订模式进行了相应的修改。笔者认为本文最核心的价值在于以国内外主要申请人在该领域的技术发展（布局）为脉络，通过对专利技术内容的深入挖掘，为国内企业在该领域的研发提供参考和启迪。众所周知，由于专利作为法律文件，其在撰写上不似一般的非专利科技文献明晰、易懂，很多核心的技术内容并非一目了然，对于很多科研人员来说对专利技术内容的挖掘并不熟悉。笔者依据在专利理解、审查方面的工作经验，在此，对首个上市CAR-T产品上市公司——诺华的技术布局情况作了较为详细的介绍和分析，也是希望能更好的为致力于该领域研究的国内研究人员提供有导向性的、有价值的技术信息。因此，希望保留对主要专利申请人技术内容的分析部分。对于您提出的“第二部分与论文主题‘CAR-T技术专利分析’之间的关系”，该部分是笔者对CAR-T领域的非专利文献进行的总结归纳，初衷是为了更好的使读者了解该领域的主要研究方向，其中涉及的方法在专利分析中也有涉及，但考虑到加入该部分可能会显得比较突兀，文章结构繁冗，不能突出本文重点，因此，笔者将此部分删除。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "以上是一些不成熟的想法，欢迎您提出进一步的指导意见。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "最后，再次感谢您的评审工作。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "附：对本文创新点的说明",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "随着全球首个CAR-T产品的获批上市，为抗肿瘤治疗带来了一场全新的变革。本文以专利文献为视角，对国内外该领域专利申请情况进行了比较和分析，尤其是对于国内外主要申请人的专利技术内容进行了挖掘以及分布的比对，其中对医药巨头—一诺华公司在该领域的技术发展脉络进行了重点分析，旨在为国内企业和研究机构在该领域的研发提供参考和启迪。",
+        "page_idx": 9
+    }
+]

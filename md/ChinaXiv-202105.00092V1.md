@@ -1,0 +1,239 @@
+# 穿心莲内酯类成分积累与生物合成的调控研究进展
+
+钟楚1,2，简少芬 $^ { 1 , }$ 2，陈东亮 $^ { 1 , 2 }$ ，缪剑华1,2
+
+（1.广西药用植物园/广西药用资源保护与遗传改良重点实验室，南宁530023；2.广西药用植物园/广西中药资源智慧创制工程研究中心，南宁530023）
+
+摘要：穿心莲是我国重要的南药之一，其主要活性成分穿心莲内酯类成分具有清热解毒、抗菌消炎等功效，在抗HIV 病毒、抗血栓、保肝等方面也具有显著效果。由于其人工合成困难，通过栽培调控或育种方法增强穿心莲体内内酯类成分的生物合成对提升穿心莲药材质量具有重要意义。为给相关研究提供参考，该文综述了穿心莲内酯类成分积累与植物发育的关系，栽培措施和环境因子对穿心莲内酯类成分积累的影响，以及近十年来国内外在穿心莲内酯类成分的生物合成及其分子调控机制等方面取得的研究进展，并提出未来在以增强穿心莲内酯类成分生物合成和提高穿心莲内酯类成分积累为目标的研究中需重点关注的3个方面：（1）深入解析穿心莲内酯的生物合成通路及关键基因的功能，从分子水平上阐明穿心莲内酯类成分积累的机制；（2）结合分子生物学方法和作物裁培学理论深入研究穿心莲生长发育与产量和质量形成的规律及相互关系；（3）揭示穿心莲内酯生物合成的信号调控网络。
+
+关键词：穿心莲，环境因子，穿心莲内酯，生物合成，植物激素中图分类号：R282；S567 文献标识码：A
+
+Advances in regulation studies on accumulation and biosynthesis of andrographolide components in Andrographis paniculata
+
+ZHONG Chu1,2, JIAN Shaofen1,2, CHEN Dongliang1,2, MIAO Jianhual1, 2 (1. Guangxi Key Laboratory of Medicinal Resource Protection and Genetic Improvement,
+
+Guangxi Botanical Garden of Medicinal Plants, Nanning 530023, China; 2. Guangxi Engineering Research Centre of TCM Intelligent Creation, Guangxi Botanical Garden of Medicinal Plants, Nanning 530023, China ）
+
+Abstract: Andrographis paniculata, known as ‘Chuanxinlian' in China, is an important southern medicine in China. Its main active ingredients,andrographolide components,has good pesticide effects on heat-clearing and anti-bacterial and anti-inflammatory. Modern medical research has demonstrated that they also have profound effects in anti-HIV,anti-thrombus,liver protection and so on.Because they are dificult to be synthesized artificially,to increase the biosynthesis of andrographolide components in A. paniculata by cultivation regulation and breeding methods is of great significance to improve the quality of this medicinal material. To provide reference for related research in these fields, this paper reviewed the relationship between accumulation of andrographolide components and plant development, the effects of cultivation measures and environmental factors on the accumulation of andrographolide components,and the research advances in biosynthesis of andrographolide components and its molecular regulatory mechanism in the last decade worldwide. It also put forward three aspects those should be focused on in future studies aiming at enhancing the biosynthesis and accumulation of andrographolides components in A. paniculata: (1) to further identify the biosynthetic pathway of andrographolide components and the functions of key genes,and to elucidate the mechanism of andrographolides accumulation at molecular level; (2） to deeply study the laws of growth and development, yield and quality formation,and their interrelations in $A$ ：paniculata with the combination of molecular biological approaches and crop cultivation theories; (3） to reveal the signal regulation network in the biosynthesis andrographolide components.
+
+Key words: Andrographis paniculata， environmental factors， andrographolide, biosynthesis, phytohormone
+
+穿心莲（Andrographispaniculata）是爵床科一年生草本药用植物，喜光照充足、高温湿润气候，一般认为它起源于南亚的印度和斯里兰卡（Raina etal.,2013），在印度、东南亚各国、中国和日本等世界各传统医学系统中占有重要地位。穿心莲常用于黄疸、皮肤病、消化不良、退热及精神障碍等疾病的治疗（Mishra etal.,2007）。近年来研究发现，穿心莲主要活性成分穿心莲内酯在抗HIV 病毒、抗炎、抗血栓、保肝等方面也具有显著效果（Mishraet al.,2007; Aromdee,2012; Xu et al.,2012; Talei et al.,2014）。穿心莲内酯属于半日花烷型二萜内酯类化合物，其结构复杂，人工合成困难，主要依靠从植物原料药中提取。因此，提高原料药中穿心莲内酯含量是穿心莲药材栽培和育种的重要目标。
+
+本文总结了近十年来国内外在穿心莲内酯类成分积累的栽培措施与环境因子调控研究等方面取得的进展，并介绍了穿心莲内酯类成分的生物合成通路及其分子调控机制，以期为穿心莲优质生产及开展深入的分子生物学和遗传学研究提供有价值的参考。
+
+# 1穿心莲内酯类成分的积累规律
+
+药用植物活性成分的积累与植物的发育阶段密切相关。穿心莲内酯类成分积累随生育时期的变化有明显的规律，了解这种变化规律是进一步开展穿心莲栽培与内酯生物合成调控研究的基础。穿心莲内酯类成分主要存在于叶片中，叶片穿心莲内酯含量在营养生长期增长迅速，进入生殖生长后增长变慢，在开花始期达最高，开花后随着植株的衰老发生降解而下降（王振华等，2007；曾令杰等，2007；Kumar&Kumar,2013；陈娟等，2014a）。因此，在开花期以前收获穿心莲可以获得较高的内酯产量。研究也表明，开花期对穿心莲内酯的积累影响较大，开花期越晚，生长期越长，内酯含量越高（王振华等，2007）。脱水穿心莲内酯含量在整个生育期内没有明显的变化规律，且含量较低（王振华等，2007；曾令杰等，2007)，与始花期呈负相关，即开花期越晚，脱水穿心莲内酯含量越低（王振华等，2007）。结果说明，穿心莲不同内酯成分积累的调控模式可能存在差异。穿心莲内酯与开花期的关系对穿心莲优良品种的选育有很好的参考意义，选育开花期较晚的品种可以提高穿心莲生物产量和内酯产量。
+
+代谢组学分析发现，穿心莲老叶中穿心莲内酯、脱水穿心莲内酯和新穿心莲内酯均较幼叶有所较低，与叶片中葡萄糖和胆碱含量的变化一致（Tajidin etal.,2019）。结果表明，穿心莲内酯类成分的变化可能受初生物质代谢的影响。开花期是植物物质生产与转移的关键转折期，穿心莲内酯类成分随生育时期的变化规律与体内初生代谢的关系值得进一步研究，将有助于揭示穿心莲内酯类成分积累的内在调控机制。
+
+此外，Pholphana et al.（2013）比较了温室和大田种植的穿心莲内酯类成分的变化，发现温室条件下叶片穿心莲内酯在种子形成期含量最高[ $( 2 4 . 7 2 \pm 1 . 8 9 ) \mathrm { \ m g { \cdot } g ^ { - 1 } } ]$ ，而大田条件下则是营养生长期最高[ $( 4 3 . 1 6 \pm 0 . 9 2 ) \mathrm { ~ m g } { \cdot } \mathbf { g } ^ { - 1 } ]$ 。可见，生长环境也会影响穿心莲内酯积累随生育时期的变化规律。
+
+# 2栽培措施对穿心莲内酯类成分积累的影响
+
+2.1播期和种植方式（模式）对穿心莲内酯类成分的影响
+
+国内穿心莲主要分布于长江以南的广西、广东、福建等亚热带地区。近年来，随着对穿心莲药材需求的增加，穿心莲引种不断北移，目前在云南、四川、浙江、江苏、江西、山东、北京等地都有种植。由于种植地域分布广，各地温度差异较大，播种时间跨度从4月上旬到5月上旬。一般在南方地区，穿心莲最佳播期为4月上旬，能获得较高的产量和穿心莲内酯含量（庄文彬，2008；王振等，2018）。虽然播期影响穿心莲产量和内酯成分含量，但对开花期没有显著影响（Kaushaletal.,2010）。上文已提到开花期是影响穿心莲内酯成分的关键时期，因此，可利用穿心莲的这种特性适当早播以延长其营养生长期，有利于增加干物质积累量，从而提高穿心莲产量和内酯含量。
+
+穿心莲种植方式主要有直播和育苗移栽，而种植模式主要有单作和套作（邵艳华等，2014)。目前还没有关于穿心莲不同种植方式和种植模式对内酯类成分影响的系统比较研究，但直播由于通常具有较大的群体密度，可能影响植株的生长和养分吸收利用而不利于穿心莲内酯类成分的积累。穿心莲单作有利于植株充分利用太阳光，能提高穿心莲内酯类成分的含量，但选择合适的套种作物（如春玉米）也不影响穿心莲中后期的生长和内酯类成分的积累（韦坤华等，2013）。
+
+# 2.2种植密度对穿心莲内酯类成分的影响
+
+穿心莲能耐受一定程度的密植。广西地区穿心莲种植密度在16.5万-18万株 $/ \mathrm { h m } ^ { 2 }$ 时产量最高（周灵芝等，2014），而 Singh etal.（2011）与Kumar&Kumar（2013）的研究一致认为，印度北部地区穿心莲的适宜种植密度为 $3 0 \mathrm { c m } \times 1 5 \mathrm { c m }$ ，即约 22.2万株 $\cdot \mathrm { h m } ^ { - 2 }$ 。不同地区穿心莲最适种植密度的差异可能与各地光、热、养分等因素差异有关。Singh etal.（2011)研究发现，在22.2万株 $\cdot \mathrm { h m } ^ { - 2 }$ 密度下穿心莲生物产量、穿心莲内酯和新穿心莲内酯含量最高。推测认为，较密集的群体对光、水、肥等资源的利用率更高而促进产量增加，而较高的产量也有利于穿心莲内酯类成分的积累。
+
+种植密度可能通过穿心莲改变株型而影响其干物质积累，进而影响内酯含量。密植条件下，穿心莲单株的生长受到抑制，表现为株高增加，冠幅减小，分枝数减少，分枝与主茎的夹角变小，但单位面积干物质产量增加（Singh etal.,2011）。对穿心莲农艺性状与4个内酯成分之间的相关性分析发现，穿心莲内酯与单株叶片数和分蘖个数呈显著负相关，去氧穿心莲内酯与叶片数和干重相关指标也成显著负相关，而与叶长呈正相关（曾吴静等，2019）。以上分析表明，穿心莲生长与内酯类成分积累之间存在一定的权衡关系，适当抑制生长有利于提高内酯成分含量。内酯成分含量与农艺性状的相关性为高活性成分穿心莲品种的选育提供了重要的表型参考依据。
+
+# 2.3养分运筹对穿心莲内酯类成分的影响
+
+穿心莲以全草入药，因此，获取较高的生物量是穿心莲种植的首要目标，而施肥是获得高产的重要途径之一。平衡施肥改善作物产量和品质。大田施肥试验也证明，充足的养分有利于穿心莲的生长和内酯成分的积累（邵艳华等，2014），而且应该注重氮磷钾和有机肥配施（丁楠等，2008），有机肥配施NPK和生物肥的穿心莲生长和内酯产量最佳（Hemalatha& Suresh,2012）。
+
+氮是植物需求量最大的营养元素，参与植物的各生理代谢过程。在广西的研究表明，穿心莲的需肥量较大，最适的施氮量达 $1 7 2 . 5 \mathrm { k g } \mathrm { N } { \cdot } \mathrm { h m } ^ { - 2 }$ （唐章亮，2006）。而Patidar et al.（2011)对印度穿心莲的研究表明，穿心莲内酯在施氮量为 $0 { - } 8 0 \mathrm { k g } \mathrm { N } { \cdot } \mathrm { h m } ^ { - 2 }$ 时随氮水平升高而迅速增加，当施氮量达 $1 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ 时反而下降。但Patidar et al.（2011）的结果可能并不具有参考价值，因为他们测得的穿心莲内酯（主要内酯成分）含量最高仅 $0 . 1 7 8 \%$ ，远低于《中华人民共和国药典》（2020年版一部）规定的穿心莲药材中穿心莲内酯、新穿心莲内酯、14-去氧穿心莲内酯和脱水穿心莲内酯的总量不得少于 $1 . 5 \%$ 的要求（国家药典委员会，2020）。通常缺氮条件下药用植物酚类、萜类等不含氮的次生代谢物含量增加，即符合碳/营养平衡假说（Fritz et al.,2006; Ibrahim et al.,2012；王静等，2012），而最佳施氮量的存在说明氮对穿心莲生长和内酯合成的影响可能并不完全符合该假说，也说明氮对穿心莲生长与次生代谢权衡的调控作用较为复杂，氮肥运筹对它们之间关系影响的机理仍值得进一步探讨。
+
+# 3环境因子对穿心莲内酯类成分积累的调控
+
+对不同产地穿心莲样品的分析发现，穿心莲内酯含量存在很大差异（韦坤华等，2013;邓乔华等，2014；邵艳华等，2014），一般认为环境因子是影响穿心莲内酯成分变化的重要因素。环境因子对穿心莲内酯类成分积累的调控研究目前主要集中在光照、土壤微生物和盐胁迫等3个方面。
+
+# 3.1光照强度和光质对穿心莲内酯类成分的影响
+
+太阳光是植物光合作用的能量来源，是影响植物生长和生物量积累的重要因素之一。陈娟等（2014a）对穿心莲光合作用的光响应特征分析发现，旺盛生长期穿心莲叶片的最大净光合速率仅为 $4 \ \mu \mathrm { m o l } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { s } ^ { - 1 }$ 左右，光饱和点和光补偿点分别是 $8 0 0 ~ { \mu \mathrm { m o l } } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ 和100$\mathrm { \mu } \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ 左右，当光强超过 $1 \ 0 0 0 \ \mu \mathrm { m o l { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ 时发生光抑制现象。但笔者测定发现，穿心莲最大净光合速率可达 $2 0 \mu \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 }$ 以上，光饱和点也超过 $2 0 0 0 \ \mathrm { \mu m o l { \cdot } m ^ { - 2 } { \cdot } s ^ { - 1 } }$ （图1），具有典型的喜阳植物特征。研究穿心莲光合作用对光强的响应特征对其种植模式的选择具有很好的理论指导作用。利用穿心莲的需光特性，生产上通常采用穿心莲与春玉米套种的方式以获得较高的土地经济收益。生长前期，玉米可以为穿心莲遮荫，以防烈日曝晒灼苗，生长中后期玉米收获后对穿心莲的光照影响已消除，有利于穿心莲内酯类成分的积累（邵艳华等，2014；周灵芝等，2014），而桉树林或香蕉林下由于长期光照弱、光照时间短，套种穿心莲的内酯类成分较低（邵艳华等，2014）。因此，生产上常采用穿心莲/玉米、穿心莲/花生等
+
+套种模式。
+
+目前关于光强对穿心莲内酯类成分的影响研究还没有一致的结论。李婷等（2016）和Purwanto etal.（2011）研究发现，随着光强减弱，穿心莲内酯含量逐渐增加。而另外的研究发现，自然条件下适度遮荫可以促进穿心莲的生长，穿心莲内酯含量受影响不大，而过度遮荫严重影响植株生长和内酯含量（褚晨亮和曾令杰，2013；邵艳华等，2014）。光影响植物的形态建成，光强可能通过影响穿心莲的物质合成与分配进一步影响内酯类成分的积累。
+
+Pn.净光合速率； $\mathbf { 0 . }$ 初始斜率； $\mathbf { P _ { m a x } } .$ 、最大净光合速率；LSP.光饱和点；LCP.光补偿点； $\mathbf { R _ { d } }$ ，暗呼吸速率；PAR.光合有效辐射。
+
+![](images/66c10f8cc5e4ceda4ef83261ffe9d7b7c3e81a2fd16c109002ea3c46aa0c06f5.jpg)  
+图1穿心莲光合作用的光响应特征
+
+${ \bf { P _ { n } } }$ .Net photosynthetic rate; $\mathbf { a } .$ Initial slope; $\mathbf { P _ { m a x } } .$ Maximum photosynthetic rate;LSP.Light saturation point;LCP.Light compensation point; $\mathbf { R _ { d } }$ ,Dark respiration rate;PAR.Photosynthetic active radiation.
+
+Fig.1Light response characteristics of photosynthesis in Andrographis paniculata
+
+光质也是影响植物形态建成、作物品质和药用植物活性成分的重要因素(李强等，2017)。通过覆盖不同颜色的透明薄膜，褚晨亮等（2013）研究发现红膜能增加穿心莲株高和提高穿心莲总内酯含量，而蓝膜和黄膜对穿心莲的生长和内酯成分的积累都不利。红光对药用植物活性成分积累的促进作用在山豆根（王美英等，2013）和丹参（梁宗锁等，2012）等植物上也有报道，但其作用机制尚没有深入研究。由于植物体内光敏色素的表达能响应光质的变化（牛骧等，2017），推测光受体基因可能参与了药用植物活性成分的合成调控。在烟草上已证明光受体基因NtphyB 表达水平的改变会影响烟草的形态和次生代谢物，其中生物碱、总多酚、绿原酸和芸香苷的含量与NtphyB 基因表达水平的变化趋势一致（罗永露等，2014）。该研究对进一步解析光质影响穿心莲内酯类成分积累的分子机制有一定的参考和借鉴意义。
+
+# 3.2土壤微生物对穿心莲内酯类成分的影响
+
+药用植物与其生长环境中的土壤微生物关系密切（张连娟等，2017），微生物与药用植物之间的相互作用已成为药用植物次生代谢调控研究的热点（Koberletal.,2013）。对穿心莲接种芽孢杆菌（Bacillus sp.）可使穿心莲内酯产量提高 $2 8 \%$ （Verma et al.,2015）。丛枝菌根真菌（AMF）是最为古老且物种稀少的植物根部共生真菌，在已研究过的陆生植物中有 $90 \%$ 均能与其形成共生关系。AMF 在增加植物矿质营养吸收、改善植物生长状况、提高作物产量、改善农产品品质等方面扮演着重要的角色（邹碧莹和张云翼，2008；Helgason&Fitter,2009）。对穿心莲接种 AMF 能显著提高植株的生长和穿心莲内酯含量，但不同种类的AMF对穿心莲的影响不尽相同,其中以 Glomus leptotichum 和 Glomus intraradices 的效果最好（Chiramel et al.,2006）。同时还观察到，接种 AMF 不同程度地提高了穿心莲植株磷含量，其中地上部增加 $3 1 . 6 8 \substack { - 1 2 7 . 5 7 \% }$ ，地下部增加 $1 9 . 5 8 \substack { - 4 3 . 5 5 \% }$ （Chiramel et al., 2006）。AMF 对植物磷营养的改善作用被认为是促进植物生长和活性物质积累的重要原因（黄京华等，2011），而AMF 是否还通过其它生理过程影响植物活性成分的积累尚有待进一步验证。
+
+# 3.3盐胁迫对穿心莲内酯类成分的影响
+
+穿心莲具有一定的耐盐性，但不同遗传材料间差异较大（Taleietal.,2012）。陈娟等（2014a）采用土壤盆栽试验研究表明，穿心莲在 $0 . 4 \%$ 的 $\mathrm { \Delta N a C l }$ 浓度内可正常生长，认为其具有中度耐盐能力。Shao et al.（2015）采用 2:1红土和泥炭作为培养基，Hoagland 营养液中添加不同NaCl浓度处理，发现 $4 1 . 1 \mathrm { m M } \mathrm { N a C l }$ （电导率为 $4 ~ \mathrm { d } \mathrm { S } { \cdot } \mathrm { m } ^ { - 1 }$ ）对穿心莲的株高和叶面积没有显著影响，而当NaCl浓度达 $9 2 . 4 ~ \mathrm { m M }$ （电导率为 $8 ~ \mathrm { d } \mathrm { S } ^ { \bullet } \mathrm { m } ^ { - 1 }$ ）时，植株生长明显受到抑制，且抑制程度随 NaCl浓度增加而加重。Taleietal.（2013）以相对生长速率（RGR）和耐盐指数（STI）为评价指标，通过设置不同盐浓度和处理时间研究了穿心莲的耐盐阈值，发现盐胁迫处理5d时生长开始下降， $1 2 ~ \mathrm { d S ^ { \bullet } m ^ { - 1 } }$ 盐胁迫处理 $1 5 \mathrm { d }$ 是穿心莲能耐受的盐胁迫阈值。抗氧化胁迫和光合作用相关蛋白对盐胁迫有响应，且1个 $1 7 \mathrm { { k D a } }$ 和1个 $4 5 \mathrm { { k D a } }$ 的蛋白分别对光合作用和穿心莲内酯起作用（Talei etal.,2014;2015）。对穿心莲耐盐胁迫及其机制的研究为开展穿心莲耐盐品种的选育提供理论基础。
+
+虽然研究发现随着盐浓度的增加，穿心莲内酯含量显著提高，但是同时也应注意到盐胁迫导致的穿心莲生物量下降通常可达到 $50 \%$ 以上，而穿心莲内脂含量的增加最多不过 $30 \%$ （Talei et al.,2013；Shao etal.,2015），因此穿心莲含量的增加更多地是因为生物量下降而导致的浓缩效应，并非逆境诱导次生代谢增强的结果。应结合穿心莲内酯合成相关基因的表达分析，才能正确评估盐胁迫对穿心莲内酯积累的效应。
+
+# 4穿心莲内酯类成分的生物合成通路及其分子调控机制
+
+# 4.1穿心莲内酯类成分的生物合成途径
+
+植物萜类化合物都是由五碳结构—一二磷酸异戊烯基（IPP）和其烯丙基异构体二磷酸二甲基烯丙基（DMPP）为基本单元进一步转化而来。它们的合成是通过两条位于不同亚细胞空间的途径进行的，即质体中的甲基赤藓醇-4-磷酸（MEP）途径和细胞质基质中的甲羟戊酸（MVA）途径。前者以丙酮酸和甘油醛-3-磷酸为原料，后者以乙酰辅酶A为原料（王凌健等，2013；Tholl,2015）。Srivastava＆Akhila（2010）通过放射性同位素示踪，证明了MEP 和MVA途径共同促进穿心莲内酯的积累，且MEP 途径是穿心莲内酯的主要生物合成途径。
+
+焦磷酸香叶基香叶酯（GGPP）是穿心莲内酯合成的主要前体物质，GGPP 环合生成ent焦磷酸古巴酯（ent-CPP）是穿心莲内酯生物合成的关键步骤，催化该反应的二萜合酶ent-柯巴基焦磷酸合酶（CPS）是穿心莲内酯生物合成的关键限速酶。2012年已克隆到了穿心莲CPS 的编码基因，命名为ApCPS，GenBank 登录号为 JN216843.1（姚攀等，2012）。通过病毒诱导基因沉默（谌琴琴等，2016）、多倍体（郭鹏等，2019）和生长时期动态基因表达（陈娟等，2014b）等研究均证明，ApCPS的表达量与穿心莲内酯积累有很好的相关性，因此认为，ApCPS是穿心莲内酯生物合成的关键酶基因。Misra etal.（2015）于2015年对ApCPS2的功能进行了描述。Sun etal.（2019）通过对穿心莲全基因组测序找到5个ApCPS基因（ApCPS1-5），并描述了ApCPS1&3的功能。
+
+目前已基本明确穿心莲ent-CPP的生物合成通路，但由其下游中间产物到穿心莲内酯类成分的合成途径仍了解较少。Sun etal.（2019）在穿心莲全基因组测序的基础上，对茉莉酸甲酯（MeJA）处理的穿心莲植株进行转录组分析，鉴定了可能参与穿心莲内酯类成分合成的酶基因，包括细胞色素 P450 单加氧酶、依赖于2-酮戊二酸的双加氧酶和依赖于UDP 的糖基转移酶，并鉴定出一个糖基转移酶能催化雄激素的O-连接葡萄糖基化作用产生新穿心莲内酯（图2）。
+
+![](images/72f93fb30b070c276aa832826cfe4a6c2828ddf1879ba1bd0a4a2dc275bd0b9b.jpg)
+
+虚线箭头表示推测的合成途径。   
+Dashed arrow indicates the putative synthetic pathway.
+
+图2穿心莲细胞中内酯类化合物的生物合成途径[引自 Sun et al.(2019)和 Sharma et al.(2015)，作适当修改] Fig.2Biosynthetic pathways of andrographolide compounds in Andrographis paniculata cels [Cited from Sun et al. (2019) and Sharma et al. (2015) with some modifications]
+
+# 4.2穿心莲内酯类成分合成的分子调控机制
+
+除了ApCPS，其它萜类代谢基因对穿心莲内酯类成分的生物合成也有重要调控作用。ApCPS基因沉默15d后穿心莲内酯积累量显著下降，上游牛儿基牛儿基焦磷酸合成酶（GGPS）基因的表达也下调，而3-羟-3-甲基戊二酰辅酶A还原酶（HMGR）基因和1-脱氧木酮糖-5-磷酸合成酶（DXS）基因的表达未受影响。结果说明，ApCPS对穿心莲内酯合成基因具有反馈调节作用，同时也暗示穿心莲内酯生物合成的调控主要集中在GGPS 和ApCPS两个基因（谌琴琴等，2016）。
+
+植物生长发育和代谢受植物激素的调控。植物激素作为刺激因子参与植物次生物质合成的信号调控网络途径（王春丽和梁宗锁，2009）。脱落酸（ABA）、赤霉素（GA3）和茉莉酸（JA）等都能诱导穿心莲内酯含量的提高，且该作用与萜类代谢基因的表达上调有关（Anuradha etal.,2010; Jha etal.,2011）。MeJA是调控植物防御反应的重要植物激素，MeJA在人参皂苷（王康宇等，2017）、紫杉醇（李娟花等，2011）、萜烯类（吴琦等，2018）等次生物质合成中的作用已有广泛报道。MeJA可诱导穿心莲生物合成途径中GGPP内含子保留型异构体的差异表达（Gao etal.,2019）。Sharma et al.（2015）以不同 MeJA 浓度处理穿心莲悬浮细胞，发现 ${ 5 \mu \mathrm { M } }$ MeJA 处理 $2 4 \mathrm { h }$ 的穿心莲内酯含量达最高，较对照提高了5.25 倍，穿心莲内酯含量的提高与MVA和MEP 途径关键酶基因的表达水平密切相关，其中ISPH、GGPS和HMGS的表达强烈影响穿心莲内酯的合成。谌琴琴等（2016）的研究也表明，MeJA能广泛调控穿心莲萜类代谢相关基因HMGR、DXS、GGPS 等的表达，且对这些基因的诱导时间早于 $A p C P S$ 。可见，ApCPS在一定程度上受上游基因的调控。
+
+药用植物次生代谢的信号转导分子机制研究是阐明药材品质形成机理的重要内容（邹琳等，2015）。然而，目前对穿心莲内酯合成的分子调控机制研究还只是关注于少数关键基因的表达与内酯成分含量之间的关系，而对于其上游基因的互作，以及环境因子诱导内酯成分合成的信号通路研究仍不足。
+
+# 5问题与展望
+
+近十年来，随着人们对穿心莲研究的重视和分子生物学技术的广泛应用，在穿心莲内酯类成分的生物合成及调控方面取得了巨大进展。但是同大宗作物和模式植物比较起来，穿心莲的相关研究不仅滞后，而且研究工作缺乏系统性。传统农作物和模式植物在现代植物生物学领域取得的先进研究成果对穿心莲相关研究具有重要的借鉴作用。笔者认为，未来对穿心莲内酯类成分生物合成和调控的研究应重点关注以下几个方面：
+
+1）深入解析穿心莲内酯的生物合成通路及关键基因的功能。对穿心莲内酯生物合成通路的解析是从分子水平上阐明穿心莲内酯合成积累对环境和刺激因子响应规律的基础。尽管对穿心莲内酯合成通路上游的一些关键酶已有一定的了解，但对其生物合成的完整途径，以及基因之间的相互作用关系仍不十分清楚。GGPP同时也是赤霉素、类胡萝卜素、叶绿素等物质合成的前体（Tholl,2015），对穿心莲内酯合成通路的解析也有助于我们了解穿心莲二萜类物质代谢的分流机制，以及不同内酯成分之间的关系。
+
+2）开展穿心莲栽培理论与技术的深入研究。药用植物栽培理论和技术研究普遍较传统农作物的研究滞后（Gao etal.,2020），在很多方面仍处于起步或是初步探索阶段。现代作物栽培学已发展了完善的栽培理论体系，包括叶龄模式、源库理论、群体质量理论和化学调控理论。以分子生物学方法结合作物栽培学基本理论为指导，研究穿心莲生长发育、产量和质量形成规律，将为穿心莲生长调控、群体结构的优化、产量与质量的平衡等提供重要的科学理论支撑。
+
+3）加强穿心莲内酯生物合成的信号调控通路研究。次生物质代谢作为植物响应生长环境变化的重要生理过程，受体内复杂的信号通路网络的调控，这也是采取栽培调控措施或环境刺激因子提高药用植物次生活性成分积累的重要理论基础。研究穿心莲内酯生物合成过程中的信号转导和基因调控网络，对通过基因的精准调控促进穿心莲内酯积累将起到重要推动作用。
+
+# 参考文献：
+
+ANURADHA VE,JALEEL CA, SALEMMA,et al.,2010.Plant growth regulators induced changes inantioxidant potential and andrographolide content in Andrographis paniculata Wallex Nees [J]. Pestic Biochem Phys, 98: 312-316.
+
+AROMDEE C,2012.Modifications of andrographolide to increase some biological activities: A patent review (2006-2011)[J].Expert Opin Ther Pat,22(2): 169-180.
+
+CHEN J,GU W,DUAN JO,et al.，2014a. Study on physiological characteristicsand efects of salt stress inAndrographis paniculata[J].JChin Med Mat,37(8):1322-1327.[陈娟，谷巍，段金庚，等,2014a.穿心莲生理特性及盐胁迫对其影响研究[J]．中药材,37(8):1322-1327.]
+
+CHEN J,GU W,DUAN JO,et al.,2014b.Study onactive components of Andrographis paniculata at various growth periods and diferential expression of key enzyme gene [J]. Chin Trad Herb Drugs,45(21): 3149-3152. [陈娟，谷巍，段金厰，等,2014b.不同生长期穿心莲活性成分及关键酶基因差异表达研究[J].中草药， 45(21): 3149-3152.]
+
+Chinese Pharmacopoeia Commission, 2020. The Pharmacopoeia of the People's Republic of China (Vol. I) [M].Beijing: Chinese Medical Science and Technology Pres:280-281.[国家药典委员会,2020．中华人民共和国药典(一部)[M].北京：中国医药科技出版社:280-281.]
+
+CHIRAMELT,BAGYARAJDJ,PATIL CSP,2006.Response of Andrographis paniculata to diferent arbuscular mycorrhizal fungi [J]. JAgr Technol, 2(2): 221-228.
+
+CHU CL, ZENG LJ,2013. Effects of shading treatment on growth and quality of Herba Andrographis [J]. J Guangdong Pharm Univ,29(1):39-42.[褚晨亮，曾令杰,2013．遮阴处理对穿心莲生长和品质的影响[J]. 广东药学院学报,29(1):39-42.]
+
+CHU CL, ZENG LJ,LUO LH,2013.Effects of different light qualityon growth and quality of Andrographis paniculata[J].Lishizhen Med Mat Med Res,24(9): 2263-2265.[褚晨亮，曾令杰，罗丽华,2013．不同光质 对穿心莲生长和品质的影响[J]．时珍国医国药,24(9):2263-2265.]
+
+DENG QH, LIANG HY,XU YY,et al.，2014. Comparision of andrographolide and dehydroandrographolide content in Andrographis paniculata from five provinces [J].Res Pract Chin Med,28(1): 9-11.[邓乔华，梁惠 瑜，徐友阳，等,2014.广东等五省穿心莲药材中穿心莲内酯和脱水穿心莲内酯含量比较[J].现代中药研 究与实践,28(1): 9-11.]
+
+DING N,LILJ, YAODL,et al.,20o8.Studyon high yield,high efciencyfertilization technologyofCreat[J]. AnHui Agr Sci Bull,14(15):138-139.[丁楠，李录久，姚殿立，等,2008．穿心莲高产高效施肥技术研究[J]. 安徽农学通报,14(15):138-139.]
+
+FRITZ C，PALACIOS-ROJAS N，FEIL R，et al.，2006.Regulation of secondary metabolism by the carbon-nitrogen status in tobacco: nitrate inhibits large sectors of phenylpropanoid metabolism [J].Plant J, 46(4): 533-548.
+
+GAO H,LIF,XU Z,et al.,2019. Genome-wide analysis of methyl jasmonate-regulated isoform expression in the medicinal plant Andrographis paniculata [J]. Ind Crop Prod, 135: 39-48.
+
+GAO R,HUY,DANY,et al.,2020.Chinese herbal medicine resources: Where we stand[J]. Chin Herb Med,(1): 3-13.
+
+GUO P,HE J,YAN B,et al.，2019.Comparative studyon the diffrential of the active components and key enzymes expressionof Andrographis paniculata [J].Lishizhen Med Mater Med Res,30(7):1751-1753.[郭鹏, 何洁，闫斌，等,2019.比较两种倍性穿心莲活性成分及关键酶基因差异表达研究[J].时珍国医国药， 30(7): 1751-1753.]
+
+HELGASON T,FITTER AH,20O9.Natural selection and the evolutionary ecologyof the arbuscular mycorrhizal fungi (Phylum glomeromycota)[J].JExp Bot, 60: 2465-2480.
+
+HEMALATHA P,SURESH J,2012. Impact of integrated nutrients on growth and yield of Kalmegh [Andrographis paniculata (Burm. F) Wall Ex Nees] [J]. Int JAgric Sci, 8(1): 168-170.
+
+HUANGJH,TANJF,JIEHK,etal.,2011.Effects ofinoculating arbuscular mycorhizal fungi onArtemisia annua growth and its officinal components [J].Chin JAppl Ecol,22(6):1443 -1449.[黄京华，谭钜发，揭红科，等, 2011．丛枝菌根真菌对黄花蒿生长及药效成分的影响[J]．应用生态学报,22(6):1443-1449.]
+
+IBRAHIM MH, JAAFAR HZE,RAHMAT A,et al.,2012.Involvement of nitrogen on flavonoids, glutathione, anthocyanin,ascorbic acid and antioxidant activities of Malaysian medicinal plant Labisia pumila Blume (kacip fatimah)[J].IntJMol Sci,13(1): 393-408.
+
+JHA Z,SHARAM SN, SHARAMDK,2011. Differential expression of 3-hydroxy-3-methylglutaryl-coenzyme A reductase of Andrographis paniculata in andrographolide accumulation [J].JChem Pharm Res,3(3):499-504.
+
+KAUSHAL K, CHAUDHARY HP, AWASTHI UD,et al.,2010. Impact of plant density and sowing time on the growth,yield and andrographolide content of Kalmegh (Andrographis paniculata Nees)[J]. Prog Agric,10(1): 56-59.
+
+KOBERL K, SCHMIDT R,RAMADAN EM,et al.,2013. The microbiome of medicinal plants: diversity and importance for plant growth,quality,and health [J].Front Microbiol, 4: 400.
+
+KUMAR S, KUMAR A,2013.Spatial and harvesting influence on growth,yield,quality,and economic potential of Kalmegh (Andrographis paniculata Wall Ex.Nees)[J]. JAgric Rural Dev Trop,114(1): 69-76.
+
+LI JH,CHEN WQ,DENG BW,et al.，2011.Efects of plant growth regulatorson taxol biosynthesis byanendophytic fungus[J].JFood Sci Biotechnol,30(6):879-883.[李娟花，陈文强，邓百万，等,2011．植物生长调节剂对内生真菌生物合成紫杉醇的影响[J]．食品与生物技术学报,30(6):879-883.]
+
+LI Q, ZHAO Y,ZHANG Y,etal.,2017.Research progressof light to medicinal plants and it's implications for ecological cultivation[J].Res Pract ChinMed,31(4):80-83.[李强，赵瑜，张燕，等,2017．光对药用植物影 响的研究进展及其对生态种植的启示[J]．现代中药研究与实践,31(4):80-83.]
+
+LI T, ZHANG XJ, YANG B,et al.，2016.Efects under dimrent light intensity on growth and main medicinal component of Andrographis paniculata[J].Modern Agric Sci Technol,(1): 97-98.[李婷，张向军，杨彬，等, 2016．光强对穿心莲生长和药用成分的影响研究[J]．现代农业科技,(1):97-98.]
+
+LIANG ZS,LI Q, XU WH,2012. Efcts of diferent light quality on growth,active ingredients and enzymes activities of Salvia miltiorrhiza[J].ChinJChin Mater Med,37(14):2055-2060.[梁宗锁,李倩，徐文晖,2012. 不同光质对丹参生长及有效成分积累和相关酶活性的影响[J]．中国中药杂志,37(14):2055-2060.]
+
+LUO YL, WANG F,ZHANG J, et al.,2014.Efects ofNtphyB gene on the biological characteristicsand secondary metabolites of flue-cured Tobacco [J].Guizhou Agr Sci,42(11):19-22.[罗永露，王丰，张婕，等,2014. NtphyB 基因对烤烟生物学特性及次生代谢物的影响[J]．贵州农业科学,42(11):19-22.]
+
+MISRA RC, GARG A, ROY S,et al., 2015. Involvement of an ent-copalyl diphosphate synthase in tissue-specific accumulation of specialized diterpenes in Andrographis paniculata [J]. Plant Sci, 240: 50-64.   
+MISHRA SK, SANGWAN NS, SANGWAN RS, 2007. Andrographis paniculata (Kalmegh): A review [J]. Pharmacogn Rev, 1(2): 28-298.   
+NIU X,GUO L, YANG ZJ, et al.,2017.Transcription abundances of two phytochrome C in response to difrent light treatments in Zea mays[J].Sci Agric Sin,50(12): 2209-2219.[牛骧，郭林，杨宗举，等,2017.2个玉米 光敏色素 C 基因的转录丰度对多种光质处理的响应[J]．中国农业科学,50(12):2209-2219.]   
+PHOLPHANA N,RANGKADILOK N, SAEHUN J， et al.，2013. Changes in the contents of four active diterpenoids at different growth stages in Andrographis paniculata (Burm.f.) Nees (Chuanxinlian)[J]. Chin Med, 8: 2.   
+PATIDAR S, GONTIA AS, UPADHYAY A, et al., 2011. Biochemical constituents in kalmegh (Andrographis paniculata Nees.) under various row spacing's and nitrogen levels [J]. World Appl Sci J,15(8): 1095-1099.   
+PURWANTO E, SAMANHUDI S, SUDARMI S, 2011. Studies of shading levels and nutrition sources on growth, yield and andrographolide content of sambiloto (Andrographis paniculata Ness)[J]. Agrivita JAgric Sci,33(3): 300-306.   
+RAINA AP, GUPTA V, SIVARAJ N, et al., 2013. Andrographis paniculata (Burm.f.) Wall ex Nees (kalmegh), a traditional hepatoprotective drug from India [J]. Genet Resour Crop Evol, 60: 1181-1189.   
+SHAO YH,WU XW, WANG JG, et al.,2014. Effcts of soil factor on the quality of Andrographis paniculata originated from different locations [J].W China JPharm Sci,29(2):167-170.[邵艳华，吴向维，王建刚，等, 2014.不同产地土壤的理化性质对穿心莲质量的影响[J]．华西药学杂志,29(2):167-170.]   
+SHAO Y,GAO J， WU X,et al.，2015. Effect of salt treatment on growth,isoenzymes and metabolites of Andrographis paniculata (Burm.f.) Nees [J]. Acta Physiol Plant,37: 35.   
+SHARMA SN,JHA Z, SINHA RK,et al.， 2015. Jasmonate-induced biosynthesis of andrographolide in Andrographis paniculata [J]. Physiol Plantarum,153(2): 221-229.   
+SHEN QQ,LIU Q,LI CC,et al.，2016. Functional charaterization of ApCPS involved in andrographolides biosynthesis by virus-induced gene silencing [J].Acta Bot Boreal-Ocident Sin,36(1): 17-22.[谌琴琴，刘 琴，李聪聪，等,2016.病毒诱导基因沉默鉴定穿心莲内酯生物合成关键酶 ApCPS 功能[J]．西北植物
+
+学报,36(1): 17-22.]
+
+SINGH M,SINGHA,TRIPATHI RS,et al.,2011. Growth behavior,biomassand diterpenoid lactones production in kalmegh (Andrographis paniculata Nees.) strains at different population densities [J].Agric J,6(3): 115-118.   
+SRIVASTAVA N, AKHILA A, 2010. Biosynthesis of andrographolide in Andrographis paniculata [J]. Phytochem, 71: 1298-1304.   
+SUN W,LENG L, YINQ, et al.,2019. The medicinal plant Andrographis paniculata genome provides insight into biosynthesis of the bioactive diterpenoid neoandrographolide [J]. Plant J, 97(5): 841-857.   
+TAJIDIN NE, SHAARI K, MAULIDIANI M, et al., 2019. Metabolite profiling of Andrographis paniculata (Burm. f.) Nees. young and mature leaves at different harvest ages using $^ { 1 } \mathrm { H }$ NMR-based metabolomics approach [J]. Sci Rep, 9: 16766.   
+TALEI D,KADIR MA,YUSOPMK,et al,2012.Salinity effcts on macroand micronutrientsuptake in medicinal plant King of Bitters (Andrographis paniculata Nees.)[J]. Plant Omics J, 5(3): 271-278.   
+TALEI D, KADIR MA, YUSOPMK,et al.,2013.Growth indices and salinity tolerance threshold ina medicinal plant Andrographis paniculata Nees.[J]. JMed Plants Res,7(3): 104-110.   
+TALEI D， VALDIANI A，MAZIAH M,et al.， 2015. Salt stress-induced protein patern associated with photosynthetic parameters and andrographolide content in Andrographispaniculata Nees [J].Biosci, Biotechnol,and Biochem,79(1): 51-8.   
+TALEI D, VALDIANI A,RAFIIMY, et al., 2014. Proteomic analysis of the salt-responsive leaf and root proteins in the anticancer plant Andrographis paniculata Nees [J]. PLoS ONE, 9(11): e112907   
+TANG ZL, 2006.Experimental studyon different nitrogen application levels of Andrographis paniculata [J]. Soils Fert SciChin,(3):66.[唐章亮,2006.穿心莲不同氮肥施用水平小区试验[J].中国土壤与肥料,(3):66.]   
+THOLL D,2015.Biosynthesis and biological functions of terpenoids in plants [J].Adv Biochem Eng Biotechnol, 148: 63-106.   
+VERMA RK，VERMA SK,PANKAJ U,et al.，2015. Improvement in the yield and quality of kalmegh (Andrographis paniculata Nees)under the sustainable production system[J]. Nat Prod Res,29(3): 297-300.   
+WANG CL,LIANG ZS, 2009. Research progress of signal transduction pathway and regulation of secondary metabolism in plant induced by exogenous stimulus [J]. Acta Bot Boreal-Occident Sin,29(5): 203-213.[王春 丽，梁宗锁,2009.外源刺激对植物次生代谢的调节及其信号转导途径研究进展[J]．西北植物学报,29(5): 203-213.]   
+WANG J, WANG WL, XU FL, et al.,2012. Effects of nitrogen,phosphorus and potassium on the growth and
+
+secondary metabolites of Platycodon grandiflorum [J].Pratact Sci,29(4): 586-591.[王静，王渭玲，徐福利,等,2012．氮磷钾对桔梗生长及次生代谢产物的影响[J]．草业科学,29(4):586-591.]
+
+WANG KY,YULL,ZHANG MP,etal.,2017.Research of genes expresson related to ginsenosides biosynthesis by methyl jasmonic acid in ginseng hair roots [J]. Chin JChin Mater Med,42(12): 2269-2275.[王康宇，于丽 莉，张美萍，等,2017.茉莉酸甲酯调控下人参发状根皂苷合成相关基因表达的研究[J].中国中药杂志， 42(12): 2269-2275.]
+
+WANG LJ,FANG X,YANG CQ, et al.,2013. Biosynthesis and regulation of secondary terpenoid metabolism inplants [J].Sci SinVit,43(12):1030-1046.[王凌健，方欣，杨长青，等,2013．植物萜类次生代谢及其调控[J]．中国科学:生命科学,43(12):1030-1046.]
+
+WANG MY,WEIKH,YANG ZD,etal.,，2013.Effectsof diferent sourcesofLEDonbiomassand activecomponents contents of Sophora tonkinensis seedlings [J]. Hubei Agric Sci, 52(23): 5797-5799.[王美英，韦坤华，杨振德，等,2013．不同LED光源对越南槐幼苗生物量及活性成分含量的影响[J]．湖北农业科学,52(23): 5797-5799.]
+
+WANG Z, ZHOU P,WANG ZW,et al.，2018. Effects of different sowing period on yield and quality of Andrographis paniculata[J].Jiangxi JTrad Chin Med,49(430): 62-64.[王振，周鹏，王章伟,等,2018.不同 播种期对穿心莲产量及质量的影响研究[J]．江西中医药,49(430):62-64.]
+
+WANG ZH,DU Q, CHENLL,et al.，2007.Analysisonaccumulation of andrographolide and 14-deoxy-11, 12-didehy-droandrographolide in the leaves of Andrographis paniculata Mees introduced from different sources [J].Trad Chin Drug Res Clin Pharmacol,18(2):120-123.[王振华，杜勤，陈伶俐，等,2007．引种不 同来源穿心莲叶中穿心莲内酯及脱水穿心莲内酯积累分析．中药新药与临床药理,18(2):120-123.]
+
+WEI KH,LI LX,LIN W, et al.,2013.The quality evaluation of Andrographis paniculata (Burm.f) Nees fromdiferent growing districts [J].Hubei Agric Sci,52(19): 4717-4719.[韦坤华，李林轩，林伟，等,2013．不同产区穿心莲药材的质量评价[J]．湖北农业科学,52(19):4717-4719.]
+
+WU Q,FU YC,YAN ZF,etal.,2018.Effect of spraying methyl jasmonate on lily fragrance[J]. Jiangsu Agric Sci,46(6):100-104.[吴琦，付宇辰，闫子飞，等,2018．喷施茉莉酸甲酯对百合花香的影响[J]．江苏农业科学,46(6): 100-104.]
+
+XU J,LI Z,CAO M,et al.，2012.Synergetic effect of Andrographis paniculata polysaccharide on diabetic nephropathy with andrographolide[J]. Int JBiol Macromol, 51(5):738-42.
+
+YAO P,CHEN HZ,LI ZJ,et al.,2012. Cloning and bioinformatic analysisof a cDNA encoding a putative ent-copalyl diphosphate synthase from Andrographis paniculata (Burm.f.）Nees [J].Biotechnol Bull, (10):
+
+156-162.[姚攀，陈慧芝，李竹君，等,2012.穿心莲ent-柯巴基焦磷酸合酶基因的克隆与生物信息学分析[J]．生物技术通报,(10):156-162.]
+
+ZENG LJ,LIANG H,LIN WL,2007. Study on the quality of medicinal materials and the accumulation of dry matter in different growth periods of Andrographis paniculata [J]. Chin Trad Pat Med,29(6): 870-872.[曾令 杰，梁晖，林蔚兰,2007．穿心莲各生育期的药材质量和干物质积累动态研究[J]．中成药,29(6): 870-872.]
+
+ZENG WJ, XUL, HE QL,et al.,2019.Correlationanalysis of main agronomic traits and contents of diterpene lactones of Andrographis paniculata [J].Chin JChin Mat Med,44(15):3233-3238.[曾吴静，许玲，何秋伶, 等,2019.穿心莲农艺性状及其与二萜内酯成分相关性研究[J]．中国中药杂志,44(15):3233-3238.]
+
+ZHANG LJ， SHA BC，LONG GQ，et al.， 2017. Progress of symbiosis between medicinal plants andmicroorganisms [J].World Sci Technol/Mod Trad Chin Med MatMed,19(10):1750-1757.[张连娟，沙本才,龙光强，等,2017.药用植物与微生物互利共生关系的研究进展[J].世界科学技术-中医药现代化,19(10):1750-1757.]
+
+ZHOU LZ,HUANG CD,ZHOU HY,et al.，2014.Analysis on interaction effect of different planting density intercropping maize with Andrographis paniculata(Burm. f.)Nees [J]. JGuangxi Agric,29(4): 13-15.[周灵 芝，黄春东，周海宇，等,2014.不同密度穿心莲与玉米套种对产量的互作效应分析[J].广西农学报， 29(4): 13-15.]
+
+ZOU BY,ZHANG YY,20o8.Effects of arbuscular mycorhizal (am) fungi on plant nutrient metabolism[J].ModAgric Sci,(15):10-13.[邹碧莹，张云翼,2008．丛枝菌根（AM）真菌对植物营养代谢的影响研究进展[J].现代农业科技,(15):10-13.]
+
+ZOU L，ZHOU J，WANG X,et al.， 2015.Recent advances in study of signal transmisson of secondarymetabolism of medicinal plants [J].Modern Chin Med,17(7):747-752.[邹琳，周洁，王晓，等,2015．药用植物次生代谢信号转导研究进展[J]．中国现代中药,17(7):747-752.]
+
+ZUAN WB,2008. Cultivation techniques of high yield and high quality of Andrographis paniculata [J]. Chin Agric Technol Exten,24(2):33.[庄文彬,2008．穿心莲高产优质栽培技术[J]．中国农技推广,24(2):33.]

@@ -1,0 +1,173 @@
+1 饲粮亚油酸水平对育成期蓝狐生长性能、营养物质消化率及氮代谢的影响  
+2 邢敬亚　钟　伟　刘　帅　陈明帅　张　婷　孙皓然　樊燕燕 李光玉\*  
+3 （中国农业科学院特产研究所，吉林省特种经济动物分子生物学省部共建重点实验室，长春  
+4  
+5 摘要：本试验旨在研究饲粮亚油酸水平对育成期蓝狐生长性能、营养物质消化率及氮代谢  
+6號 的影响。选取（ $9 0 \pm 5 \mathrm { { \ : } }$ ）日龄、体重相近的健康雄性蓝狐60 只，随机分成6组，每组10个  
+7 重复，每个重复1只蓝狐。6组蓝狐分别饲喂亚油酸水平为 $0 . 1 1 \%$ （I组）、 $0 . 5 2 \%$ （I组）、  
+8號 $0 . 9 2 \%$ （Ⅲ组）、 $1 . 3 3 \%$ （IV组）、 $2 . 1 4 \%$ （V组）和 $3 . 3 6 \%$ （VI组）的试验饲粮。预试期7d,  
+9號 正式期 63d。结果表明1）饲粮亚油酸水平极显著影响育成期蓝狐的平均日增重和料重比  
+10 （ $P { < } 0 . 0 1$ )，对干物质采食量无显著影响（ $. P { > } 0 . 0 5$ )。饲粮亚油酸水平在时，随饲粮亚油酸水  
+11 平由 $0 . 9 2 \%$ 升高到 $3 . 3 6 \%$ ，平均日增重逐渐升高，料重比逐渐降低，但上述指标IV和V组间  
+12 差异不显著 ( $. P { > } 0 . 0 5$ )。2）饲粮亚油酸水平极显著影响蓝狐的脂肪、碳水化合物及干物质消  
+13 化率（ $P { < } 0 . 0 1 \rangle$ ，对蛋白质消化率无显著影响（ $. P { > } 0 . 0 5 ^ { \cdot }$ )。脂肪和碳水化合物消化率均以VI组  
+14 最高，干物质消化率以 $\mathrm { V }$ 组最高，但上述3个指标在IV和V组间均无显著差异( $. P { > } 0 . 0 5$ 。3)  
+15 饲粮亚油酸水平显著或极显著影响粪氮、尿氮和蛋白质生物学价值（ ${ \scriptstyle P < 0 . 0 1 }$ 或 $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ，对  
+16 食入氮、氮沉积和净蛋白质利用率无显著影响（ $. P { > } 0 . 0 5 \$ )。粪氮以VI组最高，与 $\mathrm { I I }$ 、IV和V  
+17 组差异不显著（ $( P { > } 0 . 0 5 )$ )。尿氮以Ⅱ组最高，与III、 $\mathrm { I V }$ 和 $\mathrm { V }$ 组差异不显著（ $. P { > } 0 . 0 5 .$ )。VI组蛋  
+18 白质生物学价值最高，显著高于Ⅱ组（ $P { < } 0 . 0 5 \$ )，与其他组差异不显著（ $. P { > } 0 . 0 5$ )。从降低环  
+19 境污染以及保证育成期蓝狐生长性能的角度综合考虑，饲粮亚油酸水平为 $2 . 1 4 \%$ 较适宜。  
+20 关键词：亚油酸；蓝狐；生长性能；营养物质消化率；氮代谢  
+21 中图分类号：S816文献标识码：A文章编号：  
+22 蓝狐，又称北极狐，是珍贵的毛皮动物之一，其皮毛绒厚、色泽明亮，可制作各式毛皮  
+23 服装、毛领及挂饰，并且蓝狐饲养周期短，随着市场需求不断增大，养殖规模也逐渐壮大]。  
+24 蓝狐一般生长在寒冷地区，需要充足的脂肪提供热量来抵御寒冷。脂肪是动物机体各组织及
+
+器官的重要组成成分，也是体内供能及储能的重要物质，为动物机体提供必需脂肪酸（essential fattyacid,EFA）[2]。必需脂肪酸在动物体内不能合成，为了满足正常的生理功能，必须由饲粮供给[3]。亚油酸（linoleic acid,LA）作为一种必需脂肪酸，在体内起着非常重要的生理作用。亚油酸可以合成某些生物活性物质，试验证明亚油酸缺乏使脂肪组织的脂解作用加快[4]；亚油酸还可以减少脂肪沉积，改变脂肪代谢，抑制肿瘤和动脉硬化的发生，增强机体的免疫力[5]。在人及鼠、鸡等动物中观察到在膳食中补充亚油酸能达到减肥的作用，还可以降低肝脏和脂肪组织中脂肪酸和甘油三酯的水平[6-7]。NRC（1988）[8]提出，猪在自由采食条件下对亚油酸的需要量约为 $1 \%$ ，并指出亚油酸对小鼠维持机体正常生长和脂质代谢有着至关重要的作用[9]。Ip等[0]报道了亚油酸能降低人体脂肪含量并可增加肌肉质量，亚油酸还可以改变饱和脂肪酸与不饱和脂肪酸的比率，特别是硬脂肪酸与油酸的比率。蓝狐能消化高脂饲粮，但其亚油酸需要量的研究未见报道，国内外饲养标准中也没有明确给出蓝狐饲粮中亚油酸的适宜水平。本试验拟通过研究饲粮亚油酸水平对育成期蓝狐生长性能、营养物质消化率和氮代谢的影响，旨在确定育成期蓝狐饲粮适宜的亚油酸水平，进而为蓝狐养殖生产中饲料精细配制提供理论参数。
+
+1材料与方法
+
+1.1 试验动物随机选择健康、体重相近的（ $9 0 { \pm } 5$ ）日龄雄性蓝狐60只，饲养试验地点为中国农业科  
+学院特产研究所毛皮动物试验基地。
+
+# 1.2 试验饲粮
+
+以膨化玉米、豆粕、鱼粉、肉骨粉、玉米蛋白粉、干酒糟及其可溶物（DDGS）、玉米油、棕榈酸等为主要原料，同时添加由矿物质、维生素等组成的营养性添加剂，并通过改变玉米油和棕榈酸的用量调节饲粮亚油酸水平，制成亚油酸水平分别为 $0 . 1 1 \% , 0 . 5 2 \% , 0 . 9 2 \% .$ $1 . 3 3 \%$ 、 $2 . 1 4 \%$ 和 $3 . 3 6 \%$ 的6种试验饲粮。为防止天气炎热导致油脂氧化，饲粮分批制作同时将配制好的试验饲粮存于冷库内，现喂现取，以保证饲粮的适口性和营养价值。试验饲粮组成及营养水平见表1。
+
+# 表1试验饲粮组成及营养水平 (风干基础)
+
+Table1Composition and nutrient levels of experimental diets（air-dry basis） %项目
+
+<html><body><table><tr><td>Items</td><td>0.11</td><td>0.52</td><td>0.92</td><td>1.33</td><td>2.14</td><td>3.36</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>膨化玉米 Extruded corn</td><td>32.80</td><td>32.80</td><td>32.80</td><td>32.80</td><td>32.80</td><td>32.80</td></tr><tr><td>鱼粉 Fish meal</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td><td>15.00</td></tr><tr><td>肉骨粉 Meat and bone meal</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>豆粕 Soybean meal</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td><td>14.00</td></tr><tr><td>玉米油 Corn oil</td><td></td><td>1.00</td><td>2.00</td><td>3.00</td><td>5.00</td><td>8.00</td></tr><tr><td>棕榈酸 Palmitic acid</td><td>8.00</td><td>7.00</td><td>6.00</td><td>5.00</td><td>3.00</td><td></td></tr><tr><td>预混料 Premixl)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>赖氨酸 Lys</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>蛋氨酸 Met</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td><td>0.40</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>代谢能 ME/（MJ/kg）</td><td>18.76</td><td>18.76</td><td>18.77</td><td>18.78</td><td>18.80</td><td>18.82</td></tr><tr><td>粗蛋白质 Crude protein</td><td>30.65</td><td>30.13</td><td>30.47</td><td>30.98</td><td>30.66</td><td>30.88</td></tr><tr><td>粗脂肪 Crude fat</td><td>12.59</td><td>12.02</td><td>12.52</td><td>12.05</td><td>12.92</td><td>12.96</td></tr><tr><td>亚油酸 Linoleic acid</td><td>0.11</td><td>0.52</td><td>0.92</td><td>1.33</td><td>2.14</td><td>3.36</td></tr><tr><td>亚麻酸 Linolenic acid</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>花生四烯酸 Arachidonic acid</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>碳水化合物 Carbohydrate</td><td>39.39</td><td>40.34</td><td>39.87</td><td>40.01</td><td>39.1</td><td>38.9</td></tr><tr><td>钙Ca</td><td>2.74</td><td>2.89</td><td>2.94</td><td>2.7</td><td>2.86</td><td>2.88</td></tr><tr><td>磷P</td><td>1.65</td><td>1.83</td><td>1.70</td><td>1.75</td><td>1.67</td><td>1.73</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of diets: VA 10 000IU，VD3 2 000 IU，VE 100 IU, $\mathrm { V B } _ { 1 } 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } ~ 1 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 6 \log$ ， $\mathrm { V B } _ { 1 2 } 0 . 1 \ : \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 \mathrm { m g }$ VC $4 0 0 \mathrm { { m g } }$ ，烟酸 nicotinic acid $3 0 \mathrm { m g }$ ，泛酸 pantothenic acid $4 0 \mathrm { m g }$ ，生物素 biotin $0 . 2 \mathrm { m g }$ 叶酸 folic acid $1 \mathrm { m g }$ ，胆碱choline $4 0 0 \mathrm { { m g } }$ ，Fe $8 2 \mathrm { m g }$ ， $\mathrm { C u } 2 0 \mathrm { m g }$ ， $\mathrm { M n } \ 1 2 0 \mathrm { m g }$ ， $\mathrm { Z n 5 0 m g }$ ，I
+
+$0 . 5 ~ \mathrm { m g }$ ，Se $0 . 2 \mathrm { m g }$ ， $\mathrm { C o } 0 . 3 \ : \mathrm { m g }$ 。
+
+2)碳水化合物和代谢能为计算值，其余为实测值。计算公式如下：代谢能 $\mathbf { \left( M J / k g \right) = }$ 粗蛋 白质 $( \% ) \ \times 0 . 8 5 \times 1 8 . 8 2 \mathrm { M J / k g } +$ 粗脂肪 $( \% ) \ \times 0 . 9 0 \times 3 9 . 7 3 \mathrm { M J / k g } +$ 碳水化合物 $( \% ) \ \times 0 . 7 5$ $\times 1 7 . 5 6 \mathrm { M J / k g }$ ；碳水化合物 $( \% ) \mathop { = } 1 0 0$ 吸附水（ $( \%$ ）-粗灰分（ $( \%$ ）-粗蛋白质（ $( \%$ ）-粗脂肪 （204号 $( \% )$ 。 ME and carbohydrate was a calculated value and others were measured values. The formula for calculation were as follows: ME $\mathop { : = }$ crude protein （%） X0.85 X18.82 MJ/kg+crude fat $( \% ) \ \times$ 0.90 ×39.73 MJ/kg+carbohydrate $( \% ) \times 0 . 7 5 \times 1 7 . 5 6 \mathrm { M J / k g }$ ；carbohydrate $_ { = 1 0 0 }$ -adsorbed water （%）-ash( $( \%$ ）-crude protein（ $\%$ ）-crude fat $( \% )$ ：
+
+# 1.3 试验设计
+
+将选取的60只雄性蓝狐随机分为6组（每组10个重复，每个重复1只)，分别饲喂亚油酸水平为 $0 . 1 1 \%$ （I组）、 $0 . 5 2 \%$ （Ⅱ组）、 $0 . 9 2 \%$ （II组）、 $1 . 3 3 \%$ （IV组）、 $2 . 1 4 \%$ （V组）和 $3 . 3 6 \%$ （VI组）的试验饲粮。预试期7d，正试期 $6 3 \mathrm { d }$ 。
+
+# 1.4饲养管理
+
+蓝狐均采取单笼饲养，笼子尺寸为 $1 0 0 ~ \mathrm { c m } { \times } 8 0 ~ \mathrm { c m } { \times } 8 0 ~ \mathrm { c m }$ 。整个试验在室外自然光照条件下进行，由专人进行饲养。每日07:30与15:30各饲喂1次，自由采食和充足饮水，每日记录实际采食量，于90、110、123、138和153日龄时晨间空腹称重，每日观察并记录试验狐的健康状况。
+
+# 1.5 消化代谢试验
+
+消化代谢试验于2015年8月27日至2015年8月30日进行，每组选出8只采食与排粪正常的健康蓝狐作为消化代谢的试验动物。采用全收粪法收集连续4d的粪便、尿液，消化代谢试验期间饲养管理与日常饲养管理相同。消化代谢试验期间每天收集尿液，尿样收集前在收集桶内加入 $10 \%$ 硫酸溶液 $2 0 ~ \mathrm { m L }$ 固氮，测定尿中的氮含量。每天收集的粪便称重后按鲜重的 $5 \%$ 加入 $10 \%$ 硫酸溶液，保存于-20℃备用。将4d的尿液和粪便分别混合均匀后取样，其中粪便先在 $8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下杀菌 $^ { 2 \mathrm { ~ h ~ } }$ ，然后在降到65℃烘干至恒重，磨碎过40目筛，制成风干样本，以备实验室分析。
+
+# 1.6 测定指标及方法
+
+测定试验饲粮、粪样等样品中干物质、粗蛋白质、粗脂肪、粗灰分、钙、磷的含量，样品中碳水化合物含量和代谢能通过计算求得。干物质含量采用105℃烘干法测定,参考GB/T6435-2006；粗蛋白质含量采用凯氏定氮法测定，参考GB/T6432-1994；粗脂肪含量采用索氏提取法测定，参考GB/T 6433-2006；粗灰分含量采用 550℃灼烧法测定，参照GB/T6432-1992；钙含量采用乙二胺四乙酸（EDTA）络合滴定法测定，参照GB/T6436-1992；磷含量采用钒钼酸铵比色法测定，参照GB/T6437-1992。试验饲粮亚油酸水平采用气-质-质联用仪（Agilent7890A-7000B）进行测定。
+
+# 1.7计算公式
+
+平均日增重 $\langle \mathbf { g } / \mathrm { d } \rangle =$ （末重一初重）/试验天数;  
+平均日采食量（g/d） $\ c =$ 试验期内总采食量/试验天数;  
+料重比 $=$ 平均日采食量/平均日增重;  
+干物质消化率 $( \% ) = [ \$ （干物质采食量一干物质排出量）/干物质采食量 $] { \times } 1 0 0$ 蛋白质消化率 $( \% ) ~ = ~ [ \$ （蛋白质摄入量一蛋白质排出量）/蛋白质摄入量 $] { \times } 1 0 0$ 脂肪消化率 $( \% ) ~ = ~ [ \$ （脂肪摄入量一脂肪排出量）/脂肪摄入量 $] { \times } 1 0 0$   
+碳水化合物消化率 $( \% ) = [$ （碳水化合物摄入量一碳水化合物排出量）/碳水化合物摄入量 $] { \times } 1 0 0$   
+氮沉积（g/d） $\circleddash$ 食入氮一粪氮一尿氮;  
+净蛋白质利用率 $( \% ) =$ （氮沉积/食入氮） $\times 1 0 0$   
+蛋白质生物学价值 $( \% ) \ = \ [$ 氮沉积/（食入氮一粪氮）」 $\times 1 0 0$ 。
+
+# 1.8数据处理
+
+结果以"平均值 $\pm$ 标准差"表示，数据用Excel进行整理并用SAS8.0软件中的GLM程序进行方差分析，采用Duncan氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。
+
+2结果
+
+# 2.1饲粮亚油酸水平对育成期蓝狐生长性能的影响
+
+由表2可知，饲粮亚油酸水平极显著影响育成期蓝狐 $9 0 { \sim } 1 1 0$ 日龄、 $1 1 0 { \sim } 1 2 3$ 日龄和  
+$1 2 3 { \sim } 1 3 8$ 日龄的日增重（ $P { < } 0 . 0 1$ )。饲粮亚油酸水平在 $0 . 9 2 \% \sim 3 . 3 6 \%$ 时，各日龄阶段的日增  
+重均随亚油酸水平的升高呈上升趋势，且各日龄阶段中均以VI组的日增重最高。由表3可知，饲粮亚油酸水平极显著影响育成期蓝狐的平均日增重和料重比 $( P { < } 0 . 0 1 )$ )，
+
+对干物质采食量的影响不显著（ $P { > } 0 . 0 5 \$ )。饲粮亚油酸水平在 $0 . 9 2 \% \sim 3 . 3 6 \%$ 时，平均日增重随亚油酸水平的升高呈上升的趋势，I和组极显著低于V和VI组（ $P { < } 0 . 0 1$ ，与 $\mathrm { I I }$ 和IV组差异不显著 $( P { > } 0 . 0 5 )$ 。料重比以IⅢ组最高，VI组最低，I和II组极显著高于 $\mathrm { V }$ 和VI组 $( P { < } 0 . 0 1 )$ ），与Ⅱ和IV组差异不显著（ $. P { > } 0 . 0 5 )$ ，ⅡI、IV和V组间差异不显著（ $_ { \cdot P > 0 . 0 5 } )$ ）
+
+表2饲粮亚油酸水平对育成期蓝狐不同阶段日增重的影响
+
+Table 2Effects of dietary linoleic acid level on daily gain in different stages of blue foxes in growing periodg/d   
+
+<html><body><table><tr><td>日龄</td><td colspan="6">组别Groups</td><td>P值</td></tr><tr><td>Days of age</td><td>I</td><td>II</td><td>IⅢI</td><td>IV</td><td>V</td><td>VI</td><td>P-value</td></tr><tr><td>90～110</td><td>34.25</td><td>41.75</td><td>39.00</td><td>44.00</td><td>45.00</td><td>49.75</td><td><0.000 1</td></tr><tr><td rowspan="3">110～123</td><td>±1.63Cc</td><td>±1.35Bb</td><td>±1.25BCbc</td><td>±1.55ABab</td><td>±1.75ABab</td><td>±1.56Aa</td><td></td></tr><tr><td>43.08</td><td>44.62</td><td>38.08</td><td>45.77</td><td>51.92</td><td>55.77</td><td><0.000 1</td></tr><tr><td>±1.26BCbc</td><td>±2.00BCbc</td><td>±2.59Cc</td><td>±1.94BCbc</td><td>±2.94ABab</td><td>±2.58Aa</td><td></td></tr><tr><td>123～138</td><td>37.67</td><td>41.00</td><td>39.26</td><td>45.67</td><td>44.67</td><td>47.33</td><td>0.002 1</td></tr><tr><td></td><td>±1.32Cc</td><td>±1.99ABCabc</td><td>±2.77BCbc</td><td>±1.00ABab</td><td>±1.24ABCabc</td><td>±2.32Aa</td><td></td></tr><tr><td>138~153</td><td>47.24</td><td>50.67</td><td>45.42</td><td>47.00</td><td>48.67</td><td>53.34</td><td>0.0867</td></tr><tr><td></td><td>±2.72ab</td><td>±1.63ab</td><td>±1.54b</td><td>±2.08b</td><td>±1.81ab</td><td>±1.92a</td><td></td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 \$ )，不同大写字母表示差异极显著（ $P { < } 0 . 0 1 \ \cdot$ )，相同或无字母表示差异不显著（ $( P { > } 0 . 0 5 )$ 。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference （ $( P { < } 0 . 0 5 )$ , and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ . The same as below.
+
+表3饲粮亚油酸水平对育成期蓝狐平均日增重、干物质采食量和料重比的影响
+
+Table 3Effects of dietary linoleic acid level on ADG,DMI and F/G of blue foxes in growing period
+
+项目
+
+<html><body><table><tr><td>Items</td><td>I</td><td>I</td><td>ⅢI</td><td>IV</td><td>V</td><td>VI</td><td>P-value</td></tr><tr><td>平均日增重</td><td>45.56</td><td>44.28</td><td>41.27</td><td>45.48</td><td>47.22</td><td>51.27</td><td><0.000 1</td></tr><tr><td>ADG/(g/d)</td><td>±1.67Cc</td><td>±1.10BCbc</td><td>±1.80Cc</td><td>±0.54BCbc</td><td>±0.93ABab</td><td>±1.34Aa</td><td></td></tr><tr><td>干物质采食量</td><td>266.56</td><td>274.18</td><td>273.66</td><td>274.05</td><td>268.89</td><td>274.43</td><td>0.754 7</td></tr><tr><td>DMI/ (g/d)</td><td>±8.08</td><td>±0.46</td><td>±0.98</td><td>±0.60</td><td>±5.75</td><td>±0.21</td><td></td></tr><tr><td>料重比</td><td>6.71</td><td>6.14</td><td>6.82</td><td>6.03</td><td>5.62</td><td>5.29</td><td><0.000 1</td></tr><tr><td>F/G</td><td>±0.34Aa</td><td>±0.12ABab</td><td>±0.30Aa</td><td>±0.08ABab</td><td>±0.13BCbc</td><td>±0.14Cc</td><td></td></tr></table></body></html>
+
+2.2饲粮亚油酸水平对育成期蓝狐营养物质消化率的影响
+
+由表4可知，饲粮亚油酸水平极显著影响脂肪、碳水化合物和干物质消化率( $_ { , P < 0 . 0 1 } )$ ），对蛋白质消化率无显著影响 （ $. P { > } 0 . 0 5 )$ )。脂肪消化率随饲粮亚油酸水平的升高呈上升趋势，以VI组最高，I组最低，I组极显著低于 $\mathrm { I V }$ 、V和VI组（ $_ { _ { P < 0 . 0 1 } }$ )，与Ⅱ和IⅢ组差异不显著（P>0.05)，II、III和IV组间差异不显著（ $P { > } 0 . 0 5$ )。碳水化合物消化率以VI组最高，I组最低，I、ⅡI和III组极显著低于IV、V和VI（ $_ { _ { P < 0 . 0 1 } ) }$ 。干物质消化率以V组最高，IⅢ组最低，II组极显著低于 $\mathrm { I V }$ 、 $\mathrm { \Delta V }$ 和VI组（ $_ { _ { P < 0 . 0 1 } }$ )，与I和Ⅱ组差异不显著（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 )$ )，其他各组之间差异不显著（ $. P { > } 0 . 0 5 )$ ）°
+
+Table 4Effects of linoleic acid level on nutrient digestibility of blue foxes in growing
+
+137 period digestibility
+
+表4饲粮亚油酸水平对育成期蓝狐营养物质消化率的影响  
+
+<html><body><table><tr><td>项目</td><td colspan="6">组别 Groups</td><td>P值</td></tr><tr><td>Items</td><td>I</td><td>I</td><td>Ⅲ</td><td>IV</td><td>V</td><td>VI</td><td>P-value</td></tr><tr><td>脂肪消化率</td><td>51.38</td><td>57.62</td><td>61.29</td><td>67.51</td><td>78.68</td><td>80.80</td><td><0.000 1</td></tr><tr><td>Fat digestibility</td><td>±3.51Cc</td><td>±5.87BCbc</td><td>±3.65BCbc</td><td>±3.15ABb</td><td>±1.63Aa</td><td>±1.25Aa</td><td></td></tr><tr><td>蛋白质消化率</td><td>70.27</td><td>70.38</td><td>67.93</td><td>70.94</td><td>68.91</td><td>67.89</td><td>0.463 7</td></tr><tr><td>Protein digestibility</td><td>±1.56</td><td>±0.64</td><td>±1.10</td><td>±0.99</td><td>±0.83</td><td>±1.01</td><td></td></tr><tr><td>碳水化合物消化率</td><td>66.96</td><td>69.32</td><td>69.52</td><td>73.93</td><td>74.00</td><td>74.18</td><td><0.000 1</td></tr><tr><td>Carbohydrate</td><td>±1.23Bb</td><td>±0.23Bb</td><td>±0.84Bb</td><td>±0.60Aa</td><td>±0.75Aa</td><td>±0.71Aa</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>干物质消化率</td><td>65.78</td><td>64.67</td><td>63.61</td><td>66.99</td><td>67.44</td><td>66.71</td><td>0.0014</td></tr><tr><td>DM digestibility</td><td>±0.91ABab</td><td>±0.47ABab</td><td>±1.10Bb</td><td>±0.53Aa</td><td>±0.69Aa</td><td>±0.53Aa</td><td></td></tr></table></body></html>
+
+2.3饲粮亚油酸水平对育成期蓝狐氮代谢的影响由表5可知，饲粮亚油酸水平显著影响粪氮和蛋白质生物学价值（ $\scriptstyle \cdot < 0 . 0 5 )$ ，极显著影响尿氮（ $P { < } 0 . 0 5 { \mathrm { : } }$ )，对食入氮、氮沉积和净蛋白质利用率的影响不显著（ $( P { > } 0 . 0 5 \$ )。粪氮以VI组最高，I组最低，I组显著低于IⅢ和VI组（ $\scriptstyle \cdot { \cal P } < 0 . 0 5 .$ ，与 $\mathrm { I I }$ 、 $\mathrm { I V }$ 和V组差异不显著（ $P { > } 0 . 0 5 )$ 。尿氮以ⅡI组最高，极显著高于I和VI组（ $P { < } 0 . 0 5 \$ )，与III、IV和V组差异不显著（ $P { > } 0 . 0 5 )$ ）。VI组蛋白质生物学价值最高，显著高于 $\mathrm { I I }$ 组（ $P { < } 0 . 0 5 \$ )，与其他组差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+# 表5饲粮亚油酸水平对育成期蓝狐氮代谢的影响
+
+Table 5Effects of dietary linoleic acid level on nitrogen metabolism of blue foxes in growing   
+period   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="5">组别 Groups</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td>I</td><td>II</td><td>III</td><td>IV</td><td>V</td><td>VI</td></tr><tr><td>食入氮</td><td>13.07</td><td>13.22</td><td>13.34</td><td>13.58</td><td>13.19</td><td>13.56</td><td>0.6388</td></tr><tr><td>IN/ (g/d)</td><td>±0.40</td><td>±0.02</td><td>±0.05</td><td>±0.03</td><td>±0.28</td><td>±0.01</td><td></td></tr><tr><td>粪氮</td><td>3.85</td><td>3.92</td><td>4.29</td><td>3.95</td><td>4.09</td><td>4.36</td><td>0.022 0</td></tr><tr><td>FN/ (g/d)</td><td>±0.11</td><td>±0.09bc</td><td>±0.15ab</td><td>±0.13bc</td><td>±0.10abc</td><td>±0.14a</td><td></td></tr><tr><td>尿氮</td><td>3.68</td><td>5.24</td><td>3.95</td><td>5.06</td><td>4.20</td><td>3.61</td><td>0.003 7</td></tr><tr><td>UN/ (g/d)</td><td>±0.31Bb</td><td>±0.17Aa</td><td>±0.28ABab</td><td>±0.18ABab</td><td>±0.53ABab</td><td>±0.39Bb</td><td></td></tr><tr><td>氮沉积</td><td>5.14</td><td>4.06</td><td>5.07</td><td>4.49</td><td>4.90</td><td>5.38</td><td>0.084 0</td></tr><tr><td>RN/ (g/d)</td><td>±0.46</td><td>±0.18</td><td>±0.32</td><td>±0.25</td><td>±0.54</td><td>±0.35</td><td></td></tr><tr><td>净蛋白质利用率</td><td>39.02</td><td>30.68</td><td>39.61</td><td>33.12</td><td>37.15</td><td>39.68</td><td>0.0873</td></tr><tr><td>NPU/%</td><td>±2.67</td><td>±1.32</td><td>±2.57</td><td>±1.86</td><td>±3.88</td><td>±2.62</td><td></td></tr><tr><td>蛋白质生物学价值</td><td>54.19</td><td>43.62</td><td>55.09</td><td>46.93</td><td>50.18</td><td>55.35</td><td>0.013 4</td></tr><tr><td>BV of protein/%</td><td>±2.79ab</td><td>±1.80b</td><td>±3.75a</td><td>±2.12a</td><td>±4.70a</td><td>±2.62a</td><td></td></tr></table></body></html>
+
+# 3.1饲粮亚油酸水平对育成期蓝狐生长性能的影响
+
+玉米油是含有丰富亚油酸的植物性油脂，其亚油酸含量可达到 $40 \%$ 左右[11]。因此，本试验采用玉米油作为亚油酸的来源调配试验饲粮配方。相关研究表明亚油酸作为必需脂肪酸对动物生长产生促进作用。Thiel-Cooper 等[12]报道，饲粮中共轭亚油酸添加水平从 $0 . 1 2 \%$ 增加到 $1 . 0 0 \%$ 时猪的平均日增重升高，料重比降低。金英海[13]研究发现，在育肥猪饲粮中添加红花油（主要成分为亚油酸）可显著提高平均日增重，降低料重比。本试验结果与上述文献报道相一致，饲粮亚油酸水平显著影响了育成期蓝狐的平均日增重和料重比，饲喂亚油酸水平为 $3 . 3 6 \%$ 的饲粮的蓝狐平均日增重最高，料重比最小，但与饲喂亚油酸水平为 $2 . 1 4 \%$ 的饲粮差异不显著，从经济效益看，饲粮亚油酸水平达到 $2 . 1 4 \%$ 就可以满足蓝狐的生长需要。然而，有些研究报道添加亚油酸对蛋鸡[14]、蛋鸭[15]、2 月龄肉兔[16]的生产性能无显著影响。这可能与亚油酸的添加形式以及动物所处的生理阶段有关，有待进一步研究。
+
+3.2饲粮亚油酸水平对育成期蓝狐营养物质消化率的影响
+
+本试验结果表明，随饲粮亚油酸水平的升高，育成期蓝狐的脂肪消化率逐渐升高。Austreng 等[17]在水貂上的研究表明脂肪消化率的高低取决于饱和脂肪酸和不饱和脂肪酸之间的比率，不饱和脂肪酸的消化率高于饱和脂肪酸。金英海[13]研究表明脂肪消化率随饲粮亚油酸的增加而逐渐增加。综合以上试验结果表明亚油酸可以提高脂肪消化率。本试验中，饲粮亚油酸水平对蛋白质消化率没有显著影响，但碳水化合物消化率有升高的趋势，可能因为生长期蓝狐对脂肪的消化吸收间接影响对碳水化合物的利用程度，饲粮中适宜的亚油酸水平促进了蓝狐对饲粮碳水化合物的吸收。随饲粮亚油酸水平的升高，干物质消化率呈先降低后升高的变化，并且饲粮中高水平（ $1 . 3 3 \% \sim 3 . 3 6 \%$ ）的亚油酸增加了干物质采食量，这表明，与低比例玉米油饲粮相比，含有较高比例的玉米油可能因提高了饲粮的适口性，从而提高了蓝狐的采食量。
+
+# 3.3饲粮亚油酸水平对育成期蓝狐氮代谢的影响
+
+氮代谢可以反映机体中蛋白质的代谢情况。蓝狐在采食饲粮后，饲粮中的含氮物质经体内消化后，一部分氮用于合成体内的蛋白质，另一部分随粪、尿排出，来维持动物机体的氮平衡。粪氮和尿氮是食入氮的两个损失部分，粪氮是经过消化道而没有吸收的部分，这部分氮受饲料蛋白质水平的影响较大[18]；尿氮是被吸收的氨基酸参加组织代谢被排出的部分，这部分受饲料氨基酸平衡的影响较大[19]。李荣刚等[16]在饲粮亚油酸水平对断奶至2月龄肉兔氮代谢的研究中发现，添加亚油酸后，氮的表观消化率、氮的表观代谢率和蛋白质生物学价值并没有产生显著变化。王圣伟等[20]研究发现，适宜的饲粮亚油酸水平可以提高意大利蜜蜂工蜂幼虫的氮代谢，增加氮沉积。本试验在蓝狐上发现，饲粮亚油酸水平显著影响蛋白质生物学价值，对氮沉积和净蛋白质利用率没有产生显著影响，且氮沉积、净蛋白质利用率和生物学价值均以亚油酸水平为 $3 . 3 6 \%$ 时最高，这可能与亚油酸参与体内氮代谢，促进氮沉积有关。
+
+4结论  
+从解决饲料成本以及保证育成期蓝狐生长性能的角度考虑，饲粮亚油酸水平为 $2 . 1 4 \%$ 时较为适宜。  
+参考文献:  
+[1]靳世厚,杨嘉实.狐的能量、蛋白质需要量及其饲料配制技术的综合研究报告[J].经济动物学报,1998,2(2):10-13.  
+[2]杨凤.动物营养学[M].3版.北京:中国农业出版社,2003:76-88.  
+[3]WATKINS B A.Importance of essential fatty acids and their derivatives in poultry[J].TheJournal of Nutrition,1991,121(9):1475-1485.  
+[4]齐广海.家禽多不饱和脂肪酸营养作用的研究进展(上)[J].国外畜牧科技,1994,21(4):11-14.  
+[5]李琪玲,王武,章立新.共轭亚油酸对小鼠的减肥作用[J].食品科学,2011,32(21):229-232.[6]鲍建民.多不饱和脂肪酸的生理功能及安全性[J].中国食物与营养,2006(1):45-46.[7] 李霞,袁凤来,袁丽萍,等.多不饱和脂肪酸调血脂作用研究进展[J].安徽医药,2007,11(10):867-869.  
+[8]NRC.Nutrient requirements of swine[S].Washington,D.C.:National Academy Press,1988.[9]马宏峰.亚油酸对高脂小鼠脂质代谢的影响及其机制研究[D].硕士学位论文.合肥:合肥工业大学,2007.  
+[10]IP C,CHIN S F,SCIMECA J A,et al.Mammary cancer prevention by conjugated dienoicderivative of linoleic acid[J].Cancer Research,1991,51(22):6118-6124.
+
+[11]回瑞华,侯冬岩,李学成,等.玉米油的制备及脂肪酸的分析[J].食品科字,2006,2/(11):418-420.
+
+[12]THIEL-COOPER R L,PARRISHF C,SPARKS J C,et al.Conjugated linoleic acid changes swine performance and carcass composition[J].Journal of Animal Science,2001,79(7):1821-1828. [13] 金英海.日粮中添加不同水平的红花油对生长育肥猪生长性能和胴体品质的影响[D].硕 士学位论文.延吉:延边大学,2005.   
+[14]SAFAA H M,SERRANO M P,VALENCIA D G,et al.Effects of the levelsof methionine,linoleic acid,and added fat in the diet on productive performance and egg quality of brown laying hens in the late phase of production[J].Poultry Science,2008,87(8):1595-1602. [15]王爽,陈伟,阮栋,等.饲粮亚油酸水平对产蛋初期蛋鸭产蛋性能、蛋品质及脂类代谢的影 响[J].动物营养学报,2015,27(3):731-739.   
+[16]李荣刚,麻名文,王春阳,等.日粮添加亚油酸对断奶至2月龄肉兔生长性能、免疫指标及 脂质代谢的影响[J].中国兽医学报,2011,31(11):1676-1680.   
+[17]AUSTRENG E,SKREDE A,ELDEGARD A.Effect of dietary fat source on the digestibility of fat and fatty acids in rainbow trout and mink[J].Acta Agriculturae Scandinavica,1979,29(2):119-126. [18]AHMED I,KHAN M A.Dietary arginine requirement of fingerling Indian major carp,Cirrhinus mrigala (Hamilton)[J].Aquaculture Nutrition,2004,10(4):217-225.   
+[19]万春孟,张铁涛,吴学壮,等.饲粮 $L$ -精氨酸添加水平对冬毛期水貂生长性能、营养物质消 化率及氮代谢的影响[J].动物营养学报,2015,27(9):2963-2969.   
+[20] 王圣伟,胥保华,王红芳.意大利蜜蜂工蜂幼虫饲粮中亚油酸的适宜添加水平[J].动物营 养学报,2015,27(5):1440-1449.
+
+Effects of Dietary Linoleic Acid Level on Growth Performance,Nutrient Digestibility and Nitrogen Metabolism of Blue Foxes in Growing Period
+
+XING Jingya ZHONG Wei LIU Shuai CHEN Mingshuai ZHANG Ting SUNHaoran FAN YanyanLI Guangyu\*
+
+(State Key Laboratory of Special Economic Animal Molecular Biology,Institute of Special Animal and Plant Sciences, China)
+
+Abstract: This study was conducted to study the effects of dietary linoleic acid level on growth performance, nutrient digestibility and nitrogen metabolism of blue foxes in growing period. Sixty male blue foxes aged about 90-day with similar body weight were randomly divided into 6 groups with 10 replicates per group and 1 fox per replicate. They were fed experimental diets with linoleic acid level was $0 . 1 1 \%$ （group I）, $0 . 5 2 \%$ （group II）, $0 . 9 2 \%$ （group II）, $1 . 3 3 \%$ （20 （group IV）, $2 . 1 4 \%$ （group V） and $3 . 3 6 \%$ （group VI）, respectively. The adaptation period lasted for 7 days and the formal period lasted for 63 days. The results showed as follows: 1) dietary linoleic acid level had significant effects on the average dally gain and feed/gain $( P { < } 0 . 0 1 )$ ， but had no significant effect on the dry matter intake $( P { > } 0 . 0 5 )$ . The average dally gain was gradually increased with dietary linoleic acid level from $0 . 9 2 \%$ increasd to $3 . 3 6 \%$ ， while the feed/gain was gradually declined, but no significant differences were found in above indices between groups $\mathrm { I V }$ and $\mathrm { \Delta V }$ ? $( P { > } 0 . 0 5 )$ . 2)Dietary linoleic acid level had significant effects on the fat digestibility，carbohydrate digestibility and dry mater digestibility $( P { < } 0 . 0 1 )$ ，but had no significant effect on the protein digestibility $( P { > } 0 . 0 5 )$ . The highest values of fat digestibility and carbohydrate digestibility were found in group $\mathrm { ~ \textmu ~ } \mathrm { ~ U ~ }$ ， and the highest value of dry matter digestibility was found in group $\mathrm { V }$ ，but no significant differences were found in above indices between groups $\mathrm { I V }$ and $\mathrm { \Delta V }$ ? $( P { > } 0 . 0 5 )$ . 3）Dietary linoleic acid level had significant effects on fecal nitrogen, urea nitrogen and biological value of protein $_ { \cdot } P { < } 0 . 0 5$ or ${ P \mathrm { { < } } } 0 . 0 1 \$ )，but had no significant effects on nitrogen intake, nitrogen retention and net protein utilization $( P { > } 0 . 0 5 )$ . The fecal nitrogen in group $\mathrm { ~ \textmu ~ } \mathrm { ~ U ~ }$ was the highest, but had no significant difference compared with groups II，IV and V $( P { > } 0 . 0 5 )$ ; the urea nitrogen in group $\mathrm { I I }$ was the highest, but had no significant difference compared with groups III, $\mathrm { I V }$ and $\mathrm { \Delta V }$ $( P { > } 0 . 0 5 )$ ； the biological value of protein in group $\mathrm { ~ \textmu ~ } \mathrm { ~ U ~ }$ was the highest, and significantly higher then that in groupI $( P { < } 0 . 0 5 )$ ，but had no significant difference compared with other groups ( $\mathrm { \langle } P { > } 0 . 0 5 \mathrm { \rangle }$ . Comprehensive consideration on the terms of reducing environmental pollution and maintaining growth performance, dietary optimal linoleic acid level for blue foxes in growing period is $2 . 1 4 \%$
+
+Key words: linoleic acid; blue fox; growth performance; nutrient digestibility; nitrogen
+
+metabolism

@@ -1,0 +1,750 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮中添加超氧化物歧化酶模拟物对肉仔鸡肌纤维特性及肌肉超氧化物歧化酶活性的影响郭照宙」崔红霞」武洪志」许　丽1\\*赵绘²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.东北农业大学动物科技学院，哈尔滨150030；2.大庆高新区华美科技有限公司，大庆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "163316) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮中添加超氧化物歧化酶模拟物（SODm）对肉仔鸡肌纤维特性及肌肉超氧化物歧化酶（SOD）活性的影响。试验选取1日龄爱拔益加（AA）肉仔鸡 360只，随机分为6组，每组6个重复，每个重复10只鸡。各组分别饲喂 SODm水平为0（对照）、 $1 . 0 \\text{‰}$ 、 $1 . 5 \\text{‰}$ 、 $2 . 0 \\text{‰}$ 、 $2 . 5 \\text{‰}$ 、 $3 . 0 \\text{‰}$ 的试验饲粮，试验期为42d。结果表明，各组肉仔鸡生长性能指标无显著差异 （ $. P { > } 0 . 0 5 )$ 。 $1 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维密度显著高于其他各组（ $\\cdot P { < } 0 . 0 5 )$ ， $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维直径显著高于除 $2 . 0 \\% \\mathrm { S O D m }$ 组外的其他各组（ $\\scriptstyle P < 0 . 0 5 .$ 。 $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌肌纤维密度显著高于其他各组 ( $\\scriptstyle \\cdot P < 0 . 0 5 .$ ， $1 . 5 \\text{‰}$ SODm组肉仔鸡腿肌肌纤维直径显著低于其他各组 ( $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ 。 $2 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌剪切力显著低于对照组 ( $\\cdot P { < } 0 . 0 5 \\$ 。 $3 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌 SOD 活性显著高于其他各组（ $_ { , P < 0 . 0 5 ) }$ ，$1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌SOD 活性显著高于除 $3 . 0 \\% \\mathrm { S O D m }$ 组外的其他各组（ $_ { . P < 0 . 0 5 } )$ 。由此可知，饲粮中添加 SODm 可以改善肉仔鸡肌纤维特性，提高肌肉中 SOD 的活性，在一定程度上改善肉品质，同时增强肌肉的抗氧化能力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：超氧化物歧化酶模拟物；肉仔鸡；肌肉；肌纤维；抗氧化中图分类号：S831.5 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "超氧化物歧化酶模拟物（superoxide dismutase simulant，SODm）是人工合成的模拟物。SODm 除了具有超氧化物歧化酶（superoxide dismutase，SOD）防衰老、抗逆性、抗氧化和提高免疫力等这些特性外[Il，还弥补了SOD分子量大、热稳定性差、易失活的不足。SOD主要分为3类：铁超氧化物歧化酶（Fe-SOD）、铜-锌超氧化物歧化酶（Cu/Zn-SOD）和锰超氧化物歧化酶（Mn-SOD）[2]。SODm 则主要是根据Mn-SOD 的结构进行人工合成的。SODm在植物上的应用已经得到了一定程度上的推广。SODm 可以提高甜菜的含糖率，同时改善其生长状态[3]，同时还可以提高玉米和棉花的产量[4-6]。在植物上的应用多集中体现了 SODm抗逆性等特性，SODm 抗氧化和抗衰老的特性如果可以作用在畜禽机体上，提高其肌肉品质以及抗氧化等能力，将会进一步促进畜牧行业的发展。肌纤维是肌肉的组成部分，是衡量肉品质的一个重要指标。因此，对肌纤维的密度和直径的研究与评价肉品质的优劣有很大的意义。Maltin 等[7]研究结果显示，对于家禽肉品质的研究中，肌纤维是衡量肌肉嫩度的重要指标之一。同时，在陈宽维等[]的研究中，肌肉的纤维值越大，肌肉中的肌苷酸含量就相对越高，肉质越好。而肌纤维密度越大，其肌纤维直径越小[9]。对于添加外源的抗氧化剂对肉品质的研究也有报道，Ma等[10]通过在饲粮中添加 $0 . 0 1 \\%$ 的肌肽（ $L$ -carnosine,LC)，发现它可以提高育肥猪肌肉中 SOD 和谷胱甘肽过氧化物酶(glutathione peroxidase,GSH-Px)的表达量。Zhong 等[11-12]的研究表明，儿茶素可以提高山羊肌肉中多不饱和脂肪酸含量，延长货架期。将 SODm也作为一种外源性抗氧化剂应用于家禽生产中，能否达到抗氧化的效果，值得探究。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究通过在肉仔鸡饲粮中添加不同水平的 SODm，研究其对肉仔鸡生长性能、肌纤维特性以及肌肉内 SOD 活性的影响，以期为 SODm在家禽饲粮中的应用提供理论依据和参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物与试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SODm由大庆高新区华美科技有限公司提供。试验选取1日龄爱拔益佳（AA）肉仔鸡公雏360只，随机分为6个组，每个组6个重复，每个重复10只鸡。试验从1日龄开始，至 42日龄结束，试验期42d。试验采用单因素试验设计，试验设计见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ec1b8e2a2cd12b65f74ed943e4f0c456a3dc2114d22eb637f7a690b9381b1c5.jpg",
+        "table_caption": [
+            "Table1Experimental design "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别Groups</td><td>饲粮Diet</td><td>动物数量Animal number</td></tr><tr><td>对照Control</td><td>基础饲粮Basic diet</td><td>60</td></tr><tr><td>1.0%SODm</td><td>基础饲粮+1.0%SODmBasic diet+1.0%oSODm</td><td>60</td></tr><tr><td>1.5%SODm</td><td>基础饲粮+1.5%SODm Basic diet+1.5%oSODm</td><td>60</td></tr><tr><td>2.0%SODm</td><td>基础饲粮+2.0%SODmBasic diet+2.0%oSODm</td><td>60</td></tr><tr><td>2.5%SODm</td><td>基础饲粮+2.5%SODm Basic diet+2.5%oSODm</td><td>60</td></tr><tr><td>3.0%SODm</td><td>基础饲粮+3.0%SODmBasic diet+3.0%SODm</td><td>60</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 基础饲粮与饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参照NRC（1994）肉鸡营养需要和《中国饲料成分及营养价值表》（2015年26版）配制玉米-豆粕型基础饲粮，基础饲粮组成及营养水平见表2。采用3层叠层式笼养，按照正常肉仔鸡饲养标准饲养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cf2aa23389cd28471e7e38f6bfa5439ed82e983f7e4802237804a013937315e2.jpg",
+        "table_caption": [
+            "Table 2Composition and nutrient levels of basal diets（air-dry basis） $\\%$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"2\">含量Content</td></tr><tr><td>1～21日龄</td><td>22～42日龄</td></tr><tr><td>原料 Ingredients</td><td>1 to 21 days of age</td><td>22 to 42 days of age</td></tr><tr><td>玉米Corn</td><td>61.00</td><td>63.00</td></tr><tr><td>豆粕 Soybean meal</td><td>26.00</td><td>23.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/724111153d5e710dd3ab37e19dc577538e4dd5b5afc9f6e643e979fba6065a9c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>豆油 Soybean oil</td><td>1.00</td><td>3.00</td></tr><tr><td>玉米蛋白粉 Corn protein meal</td><td>5.00</td><td>2.50</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.00</td><td>2.50</td></tr><tr><td>羽毛粉 Feather powder</td><td></td><td>2.00</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.30</td><td>1.10</td></tr><tr><td>石粉 Limestone</td><td>1.50</td><td>1.50</td></tr><tr><td>食盐NaCl</td><td>0.30</td><td>0.30</td></tr><tr><td>L-赖氨酸 L-Lys</td><td>0.20</td><td>0.03</td></tr><tr><td>蛋氨酸 Met</td><td>0.20</td><td>0.07</td></tr><tr><td>预混料 Premix1)</td><td>1.50</td><td>1.00</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td></tr><tr><td>代谢能 ME/（MJ/kg）</td><td>12.21</td><td>12.75</td></tr><tr><td>粗蛋白质CP</td><td>20.91</td><td>19.97</td></tr><tr><td>赖氨酸 Lys</td><td>1.14</td><td>0.91</td></tr><tr><td>蛋氨酸 Met</td><td>0.55</td><td>0.39</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.91</td><td>0.76</td></tr><tr><td>苏氨酸 Thr</td><td>0.76</td><td>0.7</td></tr><tr><td>色氨酸Try</td><td>0.22</td><td>0.21</td></tr><tr><td>钙Ca</td><td>1.03</td><td>0.96</td></tr><tr><td>有效磷 AP</td><td>0.40</td><td>0.34</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1预混料为每千克饲粮提供 The premix provided the following per $\\mathrm { k g }$ of diets: $_ { 1 \\sim 2 1 }$ 日龄1to ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "21 days of age, $50 \\%$ 氯化胆碱 $50 \\%$ choline chloride $ { 1 . 5 \\mathrm { g } }$ ，VA 12 000 IU，VD3 000 IU，VE 24 1U， $\\mathrm { V K } _ { 3 } 2 . 5 \\mathrm { m g }$ ，硫胺素 thiamine $2 . 2 \\mathrm { m g }$ ，泛酸 pantothenic acid $1 1 \\mathrm { m g }$ ，烟酸niacin $3 5 \\mathrm { m g }$ ， 生物素 biotin $0 . 1 8 \\mathrm { m g }$ ，叶酸 folic acid $0 . 6 \\mathrm { m g }$ ，吡哆酚 pyrazine $3 . 8 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 1 1 \\mathrm { m g }$ ，Fe (as ferrous sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ， Mn (as manganese sulfate) $1 2 0 \\mathrm { m g }$ ， Zn (as zinc sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ，Cu (as copper sulfate) $8 ~ \\mathrm { m g }$ ， I (as potassium iodide) $0 . 7 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 ~ \\mathrm { m g }$ ; $2 2 \\sim$ 42 日龄 22 to 42 days of age， $50 \\%$ 氯化胆碱 $50 \\%$ choline chloride $0 . 5 \\ \\mathrm { g }$ ，VA 12 000 IU，VD 3 000 IU，VE 24 1U, $\\mathrm { V K } _ { 3 } 2 . 5 \\mathrm { m g }$ ，硫胺素 thiamine $2 . 2 \\mathrm { m g }$ ，泛酸 pantothenic acid $1 1 \\mathrm { m g }$ ，烟 酸niacin $3 5 ~ \\mathrm { m g }$ ，生物素 biotin $0 . 1 8 \\mathrm { m g }$ ，叶酸 folic acid $0 . 6 \\mathrm { m g }$ ，吡哆酚 pyrazine $3 . 8 ~ \\mathrm { m g }$ $\\mathrm { V B } _ { 1 2 } 0 . 0 1 1 \\mathrm { m g }$ ，Fe (as ferrous sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ， Mn (as manganese sulfate) $1 2 0 \\mathrm { m g }$ ， Zn (as zinc sulfate) $1 0 0 ~ \\mathrm { { m g } }$ ， $\\mathrm { c u }$ (as copper sulfate) $8 ~ \\mathrm { m g }$ ，I (as potassium iodide) $0 . 7 ~ \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 ~ \\mathrm { m g }$ 。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）营养水平的值均为计算值。Nutrient levels were calculated values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集与处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1生产性能指标采集与处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从试验开始到试验结束，每天记录各组的采食量，用于计算平均日采食量。记录肉仔鸡始末体重，用于计算平均日增重和料重比。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2肌肉组织切片样的采集与处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 周龄时，每个重复中选取接近平均体重的健康肉仔鸡2只，进行颈部放血屠宰，分离左侧胸肌和腿肌，用手术刀在相同部位按肌纤维走向采样，大小为 $1 . 5 \\ : \\mathrm { c m } \\times 0 . 6 \\ : \\mathrm { c m } \\times 0 . 6$ cm。样品剪取后立即放入福尔马林试剂液中固定。之后进行修块处理。组织修块后，流水冲洗 $3 0 \\mathrm { \\ m i n }$ ，去除多余固定液；放入 $7 0 \\%$ 、 $8 0 \\%$ 、 $9 0 \\%$ 、 $1 0 0 \\%$ （一）和 $1 0 0 \\%$ （二）中酒精各脱水1h；放入二甲苯（一）中 $1 5 \\mathrm { \\ m i n }$ ，二甲苯（二）中 $1 0 \\ \\mathrm { \\ m i n }$ 进行透明处理；将透明后的组织放入恒温箱中已溶化的石蜡（一）、石蜡（二）和石蜡（三）中，每个 $^ \\mathrm { ~ 1 ~ h ~ }$ ；最后进行包埋处理；使用德国菜卡2135 型切片机，进行切片，切片厚 $6 ~ { \\mu \\mathrm { m } }$ ，经二甲苯2次各5min，无水酒精2次各 $5 \\ \\mathrm { m i n }$ ; $9 0 \\%$ 、 $8 0 \\%$ 、 $7 0 \\%$ 酒精各 $5 \\ \\mathrm { m i n }$ ，蒸馏水浸 $5 \\ \\mathrm { m i n }$ ，苏木素染色5min，自来水冲洗，在含 $1 \\%$ 盐酸的 $7 0 \\%$ 酒精中分化 $2 0 ~ \\mathrm { s }$ ，蒸馏水浸5min， $7 0 \\%$ 、 $8 0 \\%$ 酒精各 $5 \\mathrm { m i n }$ $9 0 \\%$ 伊红醇溶液中 $5 \\mathrm { \\ m i n }$ ，无水酒精2次各5min；二甲苯2次各5min，中性树胶封片，利用美国 moticam-3000 显微摄影成像系统进行显微镜下观察。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 肌肉组织匀浆液的制备",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6周龄时，每个重复中选取接近平均体重的健康肉仔鸡2只进行颈部放血屠宰，分离左侧胸肌和腿肌，分别称取 $0 . 5 \\mathrm { \\ g }$ 鲜肉样，在生理盐水中清洗干净，放入 $1 0 ~ \\mathrm { m L }$ EP 管中，加入$4 . 5 ~ \\mathrm { m L }$ 的 $0 . 9 \\%$ 的冷生理盐水，利用组织匀浆机，匀浆时间 $1 0 \\mathrm { { s } / \\Omega }$ 次，间隔 $1 0 ~ \\mathrm { s }$ ，连续5次。研磨制成 $10 \\%$ 匀浆液， $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存备用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.3.4 肌肉嫩度样品的制备 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6周龄时，每个重复中选取接近平均体重的健康肉仔鸡2只进行颈部放血屠宰，取左侧胸肌和腿肌，分离其中一部分于自封袋4℃保存备用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4测定指标与方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 肌纤维直径",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 400 倍下摄片，每组每例选取3个视野，每个视野选取20个肌纤维，利用Image-proplus-6.0 病理图像分析系统测量其横截面积(Si)，并取其平均值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 肌纤维密度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在 400 倍下摄片，每组每例选取3个视野，利用 Image-pro plus-6.0病理图像分析系统测量单个视野的总面积（S)，取其平均值；并统计3个视野中肌纤维数目(N)，计算纤维密度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 肌肉 SOD 活性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "采用水溶性四唑盐试剂 SOD 活性检测试剂盒（WST-1法）测定肉仔鸡肌肉中 SOD 的",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "活性。按照试剂盒说明书的步骤进行测定。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.4.4 肌肉嫩度测定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "将胸大肌和腿肌置于自封袋内，挤尽自封袋中空气后封闭自封袋，完全浸泡在 $8 0 ~ \\mathrm { ~ \\textdegree ~ }$ 的水浴锅中加热 $0 . 5 \\mathrm { h }$ ，之后 $1 5 \\ \\mathrm { { ^ \\circ C } }$ 流水处冷却 $4 0 \\mathrm { m i n }$ ，肉样取出，用滤纸擦去表面水分，使用C-LM3B 型数显式肌肉嫩度仪（东北农大工程学院研制）测定剪切力。每个肉样剪切3次，并取平均值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "用 Excel2016软件进行数据整理，采用 SAS9.4软件对数据进行处理，采用单因素方差分析和Duncan氏法进行多重比较。测定结果以“平均值±标准差”表示， $P { < } 0 . 0 5$ 为差异显著。利用Excel2016软件拟合三次曲线回归方程。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.1SODm 对肉仔鸡生长性能的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮中添加不同水平SODm对肉仔鸡生长性能指标没有显著影响（ ${ \\cdot } P { > } 0 . 0 5 { \\mathrm { ) } }$ ）°",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮中添加不同水平 SODm对肉仔鸡生长性能的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/402a69f64f7c820a899d0d0162e985d322153d7c664e053671840d4905618ed3.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary different supplemental levels of SODm on growth performance of ",
+            "broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>平均日增重 Average daily gain/g</td><td>平均日采食量 Average daily feed intake/g</td><td>料重比 F/G</td></tr><tr><td>对照 Control</td><td>59.16±2.07</td><td>96.32±6.16</td><td>1.63±0.06</td></tr><tr><td>1.0%SODm</td><td>59.38±1.66</td><td>99.06±1.27</td><td>1.67±0.06</td></tr><tr><td>1.5%SODm</td><td>59.74±1.59</td><td>98.78±1.75</td><td>1.65±0.03</td></tr><tr><td>2.0%SODm</td><td>58.01±2.30</td><td>95.53±4.53</td><td>1.65±0.09</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9ed4acf8725e29a0f5462b068e1d77fdcabcd303914bcb5cac45636cf5c8af9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>58.25±2.18</td><td>95.26±4.31</td><td>1.64±0.07</td></tr><tr><td>2.5%SODm 3.0%oSODm</td><td>57.17±1.64</td><td>96.89±5.46</td><td>1.69±0.07</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著（ $_ { \\cdot } P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著中 $\\scriptstyle \\cdot P > 0 . 0 5 .$ 。表 $4 \\sim$ 表6同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with different small letter superscripts mean significant difference （20 $( P { < } 0 . 0 5 )$ , while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ： The same as Table 4 to Table 6. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2SODm 对肉仔鸡肌纤维特性的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 SODm对肉仔鸡胸肌纤维特性的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4可知， $1 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维密度显著高于其他各组（ $\\scriptstyle \\cdot < 0 . 0 5 .$ ，对照组肉仔鸡胸肌纤维密度居中。 $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维直径最大，显著高于除 $2 . 0 \\% \\mathrm { S O D m }$ 组外的其他各组（ $\\scriptstyle P < 0 . 0 5 .$ ； $1 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维直径最小，显著低于其他各组1 $. P { < } 0 . 0 5 )$ ；对照组肉仔鸡胸肌纤维直径居中。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮中添加不同水平SODm对肉仔鸡胸肌纤维密度和纤维直径的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4164b3334a8a8370d0a1eab1f2fdfce3bdbcd792bef4dbda4a6eafbe3233da05.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary different supplemental levels of SODm on breast fiber density and ",
+            "fiberdiameterofbroilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>纤维密度 Fiber density/（根/mm²）</td><td>纤维直径 Fiber diameter/um</td></tr><tr><td>对照 Control</td><td>1 224.18±330.19c</td><td>32.14±3.44b</td></tr><tr><td>1.0%SODm</td><td>2 281.71±391.54a</td><td>22.29±3.65d</td></tr><tr><td>1.5%SODm</td><td>845.63±73.01c</td><td>39.12±1.94a</td></tr><tr><td>2.0%SODm</td><td>902.01±260.51c</td><td>36.58±3.02a</td></tr><tr><td>2.5%oSODm</td><td>1 859.29±351.08b</td><td>26.40±4.11c</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6aaf3faeb840608bfaa925871ca185379504d5de7411e6ec3a24c788d1ebf0a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td></tr><tr><td>3.0%oSODm</td><td>1 721.21±286.94b</td><td>27.03±1.65c</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从图1的切片结果也可以直观地看出，饲粮中添加不同水平SODm 对肉仔鸡胸肌纤维密度和纤维直径有一定的影响。 $1 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维密度较大， $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌纤维直径较大。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/0dea83ad816e10d7ed1f927d6eec2222a10451cc9cba30cee009af7ca1f363fb.jpg",
+        "img_caption": [
+            "图1肉仔鸡胸肌纤维切片",
+            "Fig.1Breast muscle fiber slices of broilers $( 4 0 0 \\times )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2.2SODm 对肉仔鸡腿肌纤维特性的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表5可知， $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌纤维密度显著高于其他各组（ $P { < } 0 . 0 5 \\rangle$ ； $1 . 0 \\text{‰}$ SODm组肉仔鸡腿肌纤维密度居中。 $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌纤维直径最小，与其他各组差异显著（ $_ { \\cdot \\cdot P < 0 . 0 5 ) }$ ； $3 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌肌纤维直径最大，对照组肉仔鸡腿肌肌纤维直径略低于 $3 . 0 \\% \\mathrm { S O D m }$ 组，差异不显著（ $. P { > } 0 . 0 5 \\$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮中添加不同水平SODm对肉仔鸡腿肌纤维密度和纤维直径的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/fcaf426e371616a3cda25cf9d28e784523b6bbd38d1d38baa95ff478cf3288b6.jpg",
+        "table_caption": [
+            "Table 5Effects of dietary different supplemental levels of SODm on leg fiber density and fiber diameter of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>纤维密度 Fiber density/（根/mm²）</td><td>纤维直径 Fiber diameter/μm</td></tr><tr><td>对照 Control</td><td>2 051.01±322.18cd</td><td>25.41±1.96a</td></tr><tr><td>1.0%oSODm</td><td>2 537.42±621.88c</td><td>24.02±3.38a</td></tr><tr><td>1.5%SODm</td><td>9 178.94±662.73a</td><td>11.85±0.89c</td></tr><tr><td>2.0%SODm</td><td>2 328.88±372.61cd</td><td>23.39±2.07a</td></tr><tr><td>2.5%SODm</td><td>3 198.37±365.07b</td><td>19.29±2.51b</td></tr><tr><td>3.0%SODm</td><td>1 722.32±236.69d</td><td>26.03±2.44a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图2的切片结果也可以直观地看出，饲粮中添加不同水平SODm 对肉仔鸡腿肌纤维密度和纤维直径有一定的影响。 $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌纤维密度较高， $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌纤维直径较小。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0fbe8d9ff73ed2b99b09d54de3380c13c5128add4fd1d4ed1cdbce9738c576df.jpg",
+        "img_caption": [
+            "Fig.2Leg muscle fiber slices of broilers $( 4 0 0 \\times )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3 SODm对肉仔鸡肌肉嫩度的影响 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "由表6可知， $2 . 0 \\% \\mathrm { S O D m }$ 组胸肌剪切力最低，显著低于对照组（ $\\cdot P { < } 0 . 0 5 \\$ ，其他各组差异不显著（ $_ { . P > 0 . 0 5 ) }$ 。 $1 . 5 \\% \\mathrm { S O D m }$ 组腿肌剪切力略低于对照组，但差异不显著（ ${ ( P { > } 0 . 0 5 ) }$ 。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表6饲粮中添加不同水平 SODm 对肉仔鸡肌肉剪切力的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/f92258ffd1e53cbf4feaf20d53efc3ca9b4eaa2ab9ec8ff0647501a29556450c.jpg",
+        "table_caption": [
+            "Table 6Effects of dietary different supplemental levels of SODm on muscle shear force of ",
+            "broilers kgf "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别Groups</td><td colspan=\"2\"></td></tr><tr><td>胸肌 Breast muscle</td><td>腿肌 Leg muscle</td></tr><tr><td>对照 Control</td><td>3.66±0.63a</td><td>1.55±0.37ab</td></tr><tr><td>1.0%oSODm</td><td>3.38±0.25ab</td><td>1.32±0.23b</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d2e0232d03d80c4a397a764a40302083942de85dfff792b5ea1da59ca2bf8c8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1.5%SODm</td><td>3.29±0.43ab</td><td>1.37±0.25b</td></tr><tr><td>2.0%SODm</td><td>3.03±0.18b</td><td>1.35±0.21b</td></tr><tr><td>2.5%SODm</td><td>3.48±0.33ab</td><td>1.44±0.19ab</td></tr><tr><td>3.0%SODm</td><td>3.39±0.44ab</td><td>1.75±0.27a</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.4SODm 对肉仔鸡肌肉SOD 活性的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由表7可知， $3 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌SOD 活性最高，与其他各组差异显著( $_ { . P < 0 . 0 5 ) }$ ·",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$2 . 5 \\% \\mathrm { S O D m }$ 组和 $1 . 0 \\% \\mathrm { S O D m }$ 组肉仔鸡胸肌SOD活性居中，但与对照组相比差异不显著1 $. P { > } 0 . 0 5 )$ ；对照组肉仔鸡胸肌SOD活性活性最低。 $1 . 5 \\% \\mathrm { S O D m }$ 组肉仔鸡腿肌SOD活性最高，显著高于除 $3 . 0 \\% \\mathrm { S O D m }$ 组外的其他各组（ $. P { < } 0 . 0 5 )$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表7饲粮中添加不同水平 SODm 对肉仔鸡肌肉 SOD 活性的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/930545a631140ec4175e41c58184544cd84bed5916458dc433274844c93a31df.jpg",
+        "table_caption": [
+            "Table 7Effects of dietary different supplemental levels of SODm on muscle SOD activity of "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>胸肌</td><td>腿肌</td></tr><tr><td></td><td>Breast muscle</td><td>Leg muscle</td></tr><tr><td>对照 Control</td><td>184.03±13.57b</td><td>286.92±10.53bc</td></tr><tr><td>1.0%oSODm</td><td>212.03±22.55b</td><td>263.62±10.35b</td></tr><tr><td>1.5%SODm</td><td>200.58±24.42b 186.56±16.23b</td><td>319.84±22.57a</td></tr><tr><td>2.0%SODm</td><td></td><td>268.06±22.86cd</td></tr><tr><td>2.5%SODm 3.0%SODm</td><td>213.52±24.59b 274.90±23.97a</td><td>254.03±25.68d 308.85±17.16ab</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.5三次方程拟合在满足实际情况条件下SODm在肉仔鸡饲粮中的适宜添加水平",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由以上结果可以看出，通过单因素方差分析，饲粮中添加不同水平 SODm 除了对生长性能影响不显著（ $. P { > } 0 . 0 5$ ）外，对胸肌和腿肌纤维直径和纤维密度，肌肉嫩度以及肌肉中",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "SOD活性均有显著影响（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\$ 。因此对其进行了曲线拟合。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，通过拟合回归方程计算，对于胸肌纤维特性，饲粮中 SODm适宜添加水平为 $0 . 4 \\text{‰}$ ，特别指出，对于胸肌SOD 活性，饲粮中 SODm 添加水平在 $0 \\text{‰}$ 之间时，胸肌SOD 活性是呈先增高后降低的趋势，其中饲粮中 SODm 添加水平为 $0 . 9 \\text{‰}$ 时，胸肌 SOD 活性最好；饲粮中 SODm 添加水平在 $1 . 5 \\text{‰}$ 时，胸肌SOD活性呈上升趋势。对于腿肌纤维特性，饲粮中SODm 添加水平为 $0 . 9 \\text{‰}$ ，特别指出，对于腿肌SOD活性，与胸肌的增减趋势一致。综上可知，能够显著改善肉仔鸡肌纤维特性的饲粮 SODm 适宜添加水平为 $0 . 4 \\text{‰}$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表8SODm在肉仔鸡饲粮中的适宜添加水平",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/bee3dd7f0a467f15bda72df0f9b91821afc2bb4e13de5e40252b51ac239ea52b.jpg",
+        "table_caption": [
+            "Table 8 Suitable SODm supplemented level in diet of broilers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>指标 Index</td><td>方程 Equation</td><td>R²</td><td>添加水平 Supplemented level/%o</td></tr><tr><td>胸肌 Breast</td><td>肌纤维直径 Muscle fiber diameter</td><td>y=-4E+09x+1E+07x²-9 335.2x+28.242</td><td>0.675</td><td>0.4</td></tr><tr><td rowspan=\"4\">muscle</td><td>肌纤维密度</td><td>y=4E+11x-2E+09x²+1E+06x+1 269.3</td><td>0.533</td><td>0.6</td></tr><tr><td>Muscle fiber density 剪切力</td><td>y=2E+07x+6424 8x²-415.99x+3.675 5</td><td>0.619</td><td>1.8</td></tr><tr><td>Shear force SOD 活性</td><td>y=3E+10x-1E+08x+105 226x+184.08</td><td>0.993</td><td>0.9</td></tr><tr><td>SOD activity</td><td></td><td></td><td></td></tr><tr><td>腿肌 Leg muscle</td><td>肌纤维直径 Muscle fiber diameter</td><td>y=7E+08x+582 796x²-7 582.1x+25.572</td><td>0.683</td><td>1.6</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/16df7c57705477624b73b54f2bf5ca323acd13fff482367eceef7d72dc33ef00.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\"></td><td>肌纤维密度 Muscle fiber density</td><td>y=3E+11x-3E+09x²+6E+06x+1816.1</td><td>0.405</td><td>1.2</td></tr><tr><td>剪切力 Shear force</td><td>y=4E+07x-42 901x2-177.29x+1.543</td><td>0.949</td><td>1.6</td></tr><tr><td>SOD 活性</td><td>y=2E+10x-7E+08x²+74 665x+274.56</td><td>0.478</td><td>0.9</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1SODm对肉仔鸡生长性能的影响 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "近年来，对于外源性抗氧化剂在动物生产上的应用已有不少研究，Hamano 等[13]对硫辛酸的研究发现，它可以有效降低血浆中甘油三酯的含量，但是，对于肉仔鸡的平均日增重和料重比影响不大[14]。邹杨等[15]的研究发现，饲粮中添加外源性抗氧化剂可以提高肉仔鸡血清中 SOD的活性，但对肉仔鸡的生产性能没有显著影响。在本试验中，饲粮中添加 SODm对肉仔鸡的生长性能也没有显著影响，这与上述研究结果相一致，推测原因可能是 SODm的功效侧重于提高机体的免疫力和防衰老方面，另外 SODm气味小，近乎无味，对饲粮的诱食性没有显著改善，所以对肉仔鸡生长性能的影响相对较小。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2SODm对肉仔鸡肉品质的影响 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "抗氧化剂对于家禽肉品质也可以起到促进作用，而肉品质的好坏，一定程度上体现在肌肉的肌纤维特性上。其中，肌纤维的直径越小，密度越大，肉品质就越好[16-18]。肌纤维可分为慢速氧化型（I型）、快速氧化型（ $\\mathrm { I I }$ a型）、快速酵解型（Ib型）与中间型（ⅡIx型）4种类型[19-20]。其中I型纤维直径较细，剪切力更低，嫩度特性更好[21]。有研究证明，过氧化物酶体增殖物活化受体(PGC-1α)可诱导线粒体合成[22]以及I型肌纤维特异基因的表达，能有效的将快型肌纤维转化为慢型肌纤维[23]。而过氧化物酶增殖受体8(PPARδ)是 PGC-1α的上游调控因子之一，可以与其他的转录因子共同促进PGC-1α的表达，诱导慢型肌纤维的形成[24]。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "一定的运动可以使的PGC-1α与PPARδ应答增加，促进肌纤维的转化[25]。而 SODm具有抗氧化、提高机体抵抗力等作用。机体健康状态的保持，相对的运动量也会有所增加。在本试验中，SODm 确实可以有效降低肌纤维的直径，提高其纤维密度，改善肌肉嫩度的作用。刘冰等[26]的研究也发现，肌纤维直径和肌肉的嫩度呈现正相关的趋势，而肌纤维的密度则与其呈现相反的趋势。韩海霞等[27]的研究也发现，肌纤维密度和肉品质呈显著的正相关性，密度越大，肉越嫩。本次试验结果也显示出，纤维直径和密度是呈反比的，纤维直径和肌肉嫩度的结果也与刘冰等[26]的研究结果基本一致。可以看出，SODm在家禽生产中具有一定的实际意义。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.3 SODm对肌肉SOD活性的影响",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SODm作为一种外源性抗氧化剂，同其他抗氧化剂一样，可以提高肌肉的总抗氧化能力（T-AOC）和 SOD 活性，增强肉鸡屠宰后肌肉的抗氧化能力[28]。添加高水平的蛋氨酸，可以提高胸肌的 T-AOC[29]。SOD 是机体的抗氧化酶之一，SOD 的活性可以代表机体清除自由基的能力[30]，保持细胞正常生长[31]。本试验中，肌肉中 SOD 的活性随着饲粮中 SODm 的添加水平呈现先上升中间下降然后上升的趋势，提高了肌肉中 SOD的活性，从而改善肌肉的抗氧化能力。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "而在此次试验结果中，SODm 对胸肌和腿肌的肉品质影响不具有同步性，即在添加同一水平的 SODm时，不能同时改善胸肌和腿肌的肌纤维特性这一结果，由于 SODm在动物体上的应用较少，对于影响不同步的原因还有待进一步的研究。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加 SODm对肉仔鸡的生长性能没有显著影响，但对肌肉的嫩度和纤维以及肌肉中 SOD 活性有一定的改善作用。当饲粮中 SODm 添加水平在 $0 . 4 \\text{‰}$ 时，可以相应的提高胸肌和腿肌的纤维密度，降低纤维直径，改善肌肉的嫩度，同时提高肌肉中 SOD 的活性。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[1]张欣.超氧化物歧化酶(SOD)及其研究进展[J].内蒙古石油化工,2010,16,14-15.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[2]董亮,何永志,王远亮,等.超氧化物歧化酶(SOD)的应用研究进展[J].中国农业科技报,2013,15(5): 53-58.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[3]郝奎,王世喜,张淑兰等.SODm 叶面肥在甜菜上的应用效果[J].中国糖料,2011,4:54-55. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[4]章法源.SODm尿素在东乡县玉米上的肥效试验示范总结[J].农业科技与信息,2015,6:42-44.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[5]叶锋,苏桂华.SODm 尿素在玉米上的肥效试验初报[J].新疆农垦科技,2016,3:55-56.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[6]曹健,张珊珊.SODm 尿素在棉花上的示范[J].农村科技,2014,4:22-23",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[7]MALTIN C,BALEERZKA D,TILLEY R,et al.Detemrinants of meat quality:tenderness[J].The Proceedings of the Nutrition Society,2003,62(2):337-347. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[8]陈宽维,李慧芳,张学余,等.肉鸡肌纤维与肉质关系研究[J].中国畜牧杂志,2002,38(6):6-7.[9]陈洁波,陶林,吴薇薇,等.不同品种优质鸡肌纤维特性与肉品质关系的研究[J].中国家禽,2013,35(16):12-15.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[10]MA X Y,JIANG Z Y,LIN Y C,et al.Dietary supplementation with carnosine improves antioxidant capacity and meat quality of finishing pigs[J].Journal of Animal Physiology and Animal Nutrition,2010,94:286-295. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[11] ZHONG R Z,TAN C Y,HAN X F,et al.Effect of dietary tea catechins supplementation in goats on thequalityofmeatkeptunderrefrigeration[J].SmallRuminant Research,2009,87(1/2 3):122-125. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[12] ZHONG R Z,ZHOU D W,TAN C Y,et al.Effect of tea catechins on regulation of antioxidant enzyme ex-pression in $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ -induced skeletal muscle cells of goat in vitro[J].Journal of Agricultural and Food Chemistry,2011,59(20):11338-11343. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "13] HAMANO Y,SUGAWARA S,KAMOTA Y.et al.Involvement of lipoic acid in plasma metabolites,hepatic oxygen consumption,and metabolic response to a beta-agonist in broiler chickens[J].British Journal of Nutrition,1999.82:497-503. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[14]张勇.硫辛酸、乙酰肉碱对肉仔鸡肉品质及肌纤维类型分布的营养调控[D].博士学位论文.北京:中国农业大学.2010",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[15] 邹杨,杨在宾,杨维仁,等.不同抗氧化剂和添加水平对肉仔鸡生产性能和抗氧化性影响的研究[J].家禽科学,2011,8:7-10.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[16]翁茁先,李威娜,钟鸣,等.五华三黄鸡不同生态养殖模式效果评价[J].饲料研究,2016,12:1-5,45.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[17]苏琳,辛雪,刘树军,等.苏尼特羊肉肌纤维特性与肉质相关性研究[J].食品科学,2014,35(7） :7-11.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[18]张崇志,高爱武,侯先志,等.不同营养水平对羔羊肌肉组织学性状的影响[J].动物营养学报,2011,23(2):336-342.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[19] SCHIAFFINO S,GORZA L,SARTORE S,et al.Three myosin heavy chain isoforms in type 2 skeletal muscle fibres[J].Journal of Muscle Research and Cell Motility,1989,10:197-205. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[20] LAFRAMBOISE W A,DAOOD M J,GUTHRIE R D,et al.Electrophoretic separation and immunological identification of type 2X myosin heavy chain in rat skeletal muscle[J].Biochimica et Biophysica Acta,1990,1035:109-112. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[21]李伯江,李平华,吴望军,等.骨骼肌肌纤维形成机制的研究进展[J].中国农业科学,2014,47(6):1200-1207.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[22] WU Z,PUIGSERVERP P,ANDERSSON U,et al.Mechanisms controlling mitochondrial biogenesis and respiration through the thermogenic coactivator PGC-1[J].Cell,1999,98:115-124. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[23] LIN J,WU H,TARRY B,et al.Transcriptional co-activator PGC-1α drives the formation of slow-twitch muscle fibers[J].Nature,2002,418: 797-801. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[24] SCHULER M,ALI F,CHAMBON C,et al.PGC1 alpha expression is controlled in skeletal muscles by PPAR beta,whose ablation results in fiber-type switching, obesity,and type 2 diabetes[J].Cell Metabolism,2006,4(5): 407-414. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[25]方海琴,张勇,许佑君,等.PPAR8激动剂GW501516 调节小鼠骨骼肌线粒体生物合成和纤维类型转换的作用[J].中国药理学通报,2010,26(10):1290-1295.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[26] 刘冰,杨君,杨宁.不同品种鸡肌纤维的发育规律及杂种优势研究[J].畜牧兽医学报,2006,37(8):829-833.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[27] 韩海霞,曹顶国,雷秋霞,等.日粮营养水平对鲁禽3号麻鸡肌纤维直径和密度的影响[J].饲料研究,2008(1):47-49.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[28]杨敏馨,寇涛,李悦,等.解淀粉芽孢杆菌ES-2对肉鸡屠宰性能和肉品质及肌肉抗氧化能力的影响[J].南京农业大学学报,2016,39(2):255-261.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[29]蒋雪樱,张相伦,陆鹏,等.蛋氨酸对肉鸡屠宰性能、肉品质及肌肉抗氧化的影响[J].食品科学,2016,37(21):114-118.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[30] CHAN K M,DECKER E A,FEUSTMAN C.Endogenous skeletal muscle antioxidants[J].Critical Reviews in Food Science and Nutrition,1994, 34(4): 403-426. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[31]SATOSHI S,KIYOJI T,HIROVO K,et al.Exercise-induced lipid peroxidation and leakage of enzymes before and after vitamin E supplementation[J].International Journal of Biochemistry,1989,21(8): 835-838. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Superoxide Dismutase Simulant on Myofiber Characteristics and Muscle Superoxide Dismutase Activity of Broilers ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Animal Science and Technology, Northeast Agricultural University,Harbin 150030, China;2. Daqing High-Tech Zone Huamei Technology Co., Ltd., Daqing l63316, China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The aim of this study was to investigate the effects of dietary superoxide dismutase simulant (SODm) on myofiber characteristics and muscle superoxide dismutase (SOD) activity of broilers.A total of 36O one-day-old Arbor Acres (AA) broilers were randomly divided into 6 groups with 6 replicates in each group and 10 chickens in each replicate. The 6 groups were fed the experimental diets with 0 (control), $1 . 0 \\text{‰}$ ， $1 . 5 \\text{‰}$ ， $2 . 0 \\text{‰}$ $2 . 5 \\text{‰}$ and $3 . 0 \\text{‰}$ SODm, respectively. The experimental period was 42 days. The results showed that there were no significanlt differences on growth performance index of broilers among all groups $( P { > } 0 . 0 5 )$ . The breast muscle fiber density of broilers in $1 . 0 \\text{‰}$ SODm group was significanly higher than that in other groups $( P { < } 0 . 0 5 )$ ，the breast muscle fiber diameter of broilers in $1 . 5 \\text{‰}$ SODm group was significanly higher than that in other groups except $2 . 0 \\text{‰}$ SODm group $( P { < } 0 . 0 5 )$ . The leg muscle fiber density of broilers in $1 . 5 \\text{‰}$ SODm group was significanly higher than that in other groups （20 $( P { < } 0 . 0 5 )$ , the leg muscle fiber diameter of broilers in $1 . 5 \\text{‰}$ SODm group was significanly lower than that in other groups $( P { < } 0 . 0 5 )$ . The leg muscle shear force of broilers in $2 . 0 \\text{‰}$ SODm group was significanly lower than that in control group $( P { < } 0 . 0 5 )$ . The breast muscle SOD activity of broilers in $3 . 0 \\text{‰}$ SODm group was significanly higher than that in other groups $( P { < } 0 . 0 5 )$ , the leg muscle SOD activity of broilers in $1 . 5 \\text{‰}$ SODm group was significanly higher than that in other groups except $3 . 0 \\text{‰}$ SODm group $( P { < } 0 . 0 5 )$ . It is concluded that the addition of SODm in the diet can improve the myofiber characteristics of broilers, improve the muscle SOD activity, improve the meat quality to a certain extent, while enhance the muscle antioxidant ability. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: SODm; broilers; muscle; myofiber; antioxidant ",
+        "page_idx": 18
+    }
+]

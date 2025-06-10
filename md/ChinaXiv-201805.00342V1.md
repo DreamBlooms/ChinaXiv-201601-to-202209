@@ -1,0 +1,155 @@
+# DOI:10.5846/stxb201703280540
+
+李文,王鑫，潘艺雯，刘以珍，何亮，张欢，应智霞，刘颖，葛刚.不同水淹深度对鄱阳湖洲滩湿地植物生长及营养繁殖的影响.生态学报,2018,38 (9):3014-3021.   
+Li W,WangX,gYW,LiuYZHL,ZgH,ngZX,LiuY,GeGsofdierentwaterdepthsohegowandvegeativeeuctie characteristics of wetland vegetation in Lake Poyang.Acta Ecologica Sinica,2018,38(9):3014-3021.
+
+# 不同水淹深度对鄱阳湖洲滩湿地植物生长及营养繁殖的影响 ?
+
+李文¹,王鑫，潘艺雯},刘以珍¹,何亮}²，张欢¹，应智霞,刘颖ʰ,葛刚1,2,\*  
+1 南昌大学生命科学学院，南昌330031  
+2鄱阳湖环境与资源利用教育部重点实验室，南昌330031
+
+摘要：水淹深度是影响湿地植物生长和繁殖的关键因子,不同湿地植物对淹水深度存在着不同响应。然而,在水情不断变化的背景下,鄱阳湖洲滩湿地植物种群和群落如何变化还不清楚。为了探究淹水深度对湿地植物生长的影响,并预测鄱阳湖洲滩湿地植被分布的趋势,采用控制实验模拟了不同水淹深度( $( 0 , 0 . 5 , 1 \mathrm { ~ m ~ }$ 和 $2 \mathrm { ~ m ~ }$ )下鄱阳湖湿地3种优势植物（灰化臺草（Carexcinerascens）、南获（Miscanthus lutarioriparius）和草（Phalaris arundinacea））的生长和繁殖情况。实验结果表明:1）水淹对灰化臺草总生物量的影响最显著。遭受水淹时,灰化臺草把大部分的生物量集中在地下部分;随着水淹深度逐渐增加,南荻的生物量逐渐减少;不同深度水淹对草生物量没有产生显著影响( $P { > } 0 . 0 5 \$ 。就生物量而言，草对水淹的适应性强于其他两种植物。2)不同水淹深度下,灰化臺草的株高都显著降低;而南获只在 $2 \mathrm { ~ m ~ }$ 水淹梯度下株高才显著降低。在枯水年时，下降的水位有利于南荻向较低高程迁移。3)不同深度水淹对灰化墓草的分株没有产生显著影响( $P { > } 0 . 0 5 )$ ;而草在经过 $2 \mathrm { ~ m ~ }$ 水淹后分株数显著高于其他水淹深度。在丰水年时,相比于灰化藁草和南荻,升高的水位对草的繁殖影响较小。在一个水位周期性变化的湿地生态系统中,不同深度的水淹对植物的生长及退水后的繁殖产生了严重影响,研究结果为预测水文变化对湿地植被的生存和分布提供了重要的依据。
+
+关键词：灰化臺草；南荻；草；水淹深度；恢复生长
+
+# Effects of different water depths on the growth and vegetative reproductive characteristics of wetland vegetation in Lake Poyang
+
+LI Wen',WANG Xin1,PANG Yiwen’,，LIU Yizhen’,HE Liang1,2，ZHANG Huan’，YING Zhixia’,LIU Ying1, GE Gang1.2,\*
+
+1 Ministry of Education School of Life Sciences，Nanchang University，Nanchang 33oo31,China   
+2 Key Labratoryof PoyangLake Environmentand Resource Utilization，Ministryof Education，Nanchang 330031,China
+
+Abstract:Waterdepth isa keyfactorthat affcts the growthandreproductionof wetlandvegetation.Diferenttypesof wetlandvegetationrespondtoflooding indiferent ways.Ithasbn known that thehydrologicalregimeis highlydynamic in thePoyang Lake；however，how the wetland vegetation population and community changesalong with the varying water depth is stilnot wellunderstood.To explore theunderlying influenceofwaterdepthon the growthofwetland vegetation，a control experiment wascarried out todetermine thegrowth andreproduction of threedominant wetland plants（Carex cinerascens，Miscanthus lutarioriparius,andPhalarisarundinacea）inthePoyang Lakewetlandunderdiferent waterdepths (0，0.5， $1 \mathrm { ~ m ~ }$ ，and $2 \mathrm { ~ m ~ }$ ).The results showed that 1）water depth had the most significant influence on the total biomass of C.cinerascens，and the biomass of $C$ . cinerascens was concentrated in the underground parts during the flooding;the biomass of $M$ ，lutarioriparius gradually decreased as the water depth increased.On the other hand，water depth hadno significant impact on the biomass of $P$ ，arundinacea ( $P { > } 0 . 0 5 )$ .In terms of biomass， $P$ ，arundinacea had greater adaptability to flooding than the other two plants.2）Plant height of $C$ ， cinerascens was significantly reduced under flooding conditions. Plant height of M. lutarioriparius was reduced only under a water depth of $2 \mathrm { ~ m ~ }$ These findings suggest that in low flow years , the decreased water level may help $M$ 、lutarioriparius to migrate to a lower elevation.3）The water depth had no obvious impact on the ramets of $C$ cinerascens ( $\textstyle P > 0 . 0 5 ,$ ).However，the number of ramets of $P$ . arundinacea was greatest when grown under a water depth of $2 \mathrm { m }$ . These results demonstrate that in high flow years，the elevated water level has less impact on the reproduction of $P$ ，arundinacea. Above all,in a wetland ecosystem with periodic flooding，the depth has a significant impact on the growth and reproduction of wetland vegetation during thefloding period.Ourresults provide important clues for further study of the survival and distribution of wetland vegetation.
+
+Key Words: Carex cinerascens； Miscanthus lutarioriparius ； Phalaris arundinacea；water depths; recovery growth
+
+湿地被誉为地球之肾,对水质净化和生物多样性维持起着重要的作用。水位变化是制约湿地植被生长与分布的关键因素[1]。周期性水位波动使得湿地系统分为丰水期的淹水状态和枯水期的陆生状态。在枯水期,大部分湿地植物开始露出水面,分布在较高高程的植被将遭受季节性干旱的影响。已有大量的研究表明，季节性干旱对湿地植被的生长繁殖和在洲滩上的分布格局有着重要的作用[2-3]。干旱使得植物的叶片最先受到影响,一些湿地植物通过减少叶面积的方式适应这种外界胁迫[4];随着季节性干旱的延长,湿地植物的繁殖方式可能发生改变,转变为种子繁殖[5。繁殖策略的改变对湿地植物的分布有着深远的影响。进入丰水期,湿地植被开始经历不同深度水淹胁迫。当前,虽然已有一些研究集中在水位变化对一个物种的影响,但对分布于相邻高程的多个物种的研究还是比较少的。
+
+鄱阳湖是我国最大的淡水湖和国际重要湿地,年内和年际之间都有着高变幅水位,其周期性水位变化对湿地植物群落的变化及生物多样性的维持具有重要意义[6]。近年来,由于气候变化及水利枢工程等人为因素的影响,鄱阳湖低枯水位频繁,对鄱阳湖湿地生态系统产生了显著的影响[7]。已有大量的研究对鄱阳湖水文波动[8],水体富营养化[9-0],鱼类资源和候鸟种群动态进行了分析讨论[11-13],而水文情势的变化对鄱阳湖洲滩植被的影响研究还是相对较少的,特别是在低枯水位下,鄱阳湖洲滩湿地植物种群和群落如何变化还不清楚。鄱阳湖水文情势的变化主要表现为秋冬季枯水期延长,春夏季丰水期水位降低。而对湿地植物而言,主要体现为淹水时长和淹水深度的变化。随着水淹深度的不断增加,光照和氧气成为制约植物生长的主要因素[14]。在这种环境下,植物的形态特征、生理生化特征、繁殖方式都会产生不同的变化。这种变化终将影响湿地植物间的竞争关系和群落组成。
+
+灰化臺草(Carex cinerascens）、南获（Miscanthus lutarioriparius）与草（Phalaris arundinacea）是鄱阳湖洲滩的优势植物物种,同时也是鄱阳湖生态系统重要的组成部分[15]。这些植物是鄱阳湖重要碳源,其嫩芽也是植食性候鸟主要的食物来源[16]。在枯水期,鄱阳湖有着广袤的洲滩面积,3种优势物种呈带状分布于不同水位高程的洲滩上[17]。南获的分布高程是14— $1 6 \mathrm { ~ m ~ }$ ;臺草群落分布的高程是12— $1 5 \mathrm { ~ m ~ }$ ;藹草的分布高程是11—$1 2 \ \mathrm { m } ^ { [ 1 8 - 1 9 ] }$ (黄海高程,下同)。鄱阳湖近年来呈现出丰水期水位低,枯水期延长的现象[20],严重影响了鄱阳湖植被的分布[21]。臺草群落分布下限沿高程往湖中心下移了 $3 \mathrm { ~ m ~ }$ ,芦苇、南荻群落也向低水位区移动了1$\mathbf { m } ^ { [ 1 8 ] }$ 。虽然已有研究表明,水位的异常波动是造成鄱阳湖洲滩优势物种分布下移的主要原因,但是水位变化如何改变鄱阳湖优势物种的分布还不清楚。本研究假设洲滩主要优势物种灰化臺草、南获、草对不同深度的水淹具有不同的响应策略,从而形成洲滩湿地植被带。通过模拟实验,监测3种优势物种在不同水位梯度下株高、分株数、芽数、生物量的变化,对假设进行验证,以阐明植被分布变化的机制,为鄱阳湖植被恢复提供
+
+科学依据。
+
+# 1材料与方法
+
+# 1.1 实验材料
+
+灰化臺草是莎草科多年生草本植物,花果期为4—5月;南荻是禾本科多年生草本,花果期为8—11月;草是禾本科多年生草本,花果期为6—8月[22]。
+
+# 1.2 实验方法
+
+# 1.2.1 实验处理
+
+2016年3月上旬,在江西南矶山湿地国家级自然保护区 $( 2 8 ^ { \circ } 5 2 ^ { \prime } 5 ^ { \prime \prime } - 2 9 ^ { \circ } 6 ^ { \prime } 5 0 ^ { \prime \prime } \mathrm { N } , 1 1 6 ^ { \circ } 1 0 ^ { \prime } 3 3 ^ { \prime \prime } - 1 1 6 ^ { \circ } 2 5 ^ { \prime } 5 ^ { \prime \prime } \mathrm { E } )$ 的东湖采集灰化臺草、南荻、草各5大盆( $1 0 0 \ \mathrm { c m } { \times } 6 0 \ \mathrm { c m }$ ），移入植物园进行培养。两个月后，在这些培育盆内分别选取长势良好,根系大小相近的灰化臺草、南荻、轟草的无性系分株各30株,去掉已存在的芽,记录每株植株的株高和生物量。将这些无性分株移栽到直径 $1 7 \ \mathrm { c m }$ ,高 $2 0 ~ \mathrm { c m }$ 的圆形花盆中，每盆1株。花盆里土壤厚度为 $1 9 \ \mathrm { c m }$ ,土壤取自鄱阳湖南矶山滩涂并经过了充分混匀。所有植株在湿润的环境中培养1周,使其长势稳定，于2016年5月8日移入设置有 $0 . 0 . 5 , 1 . 2 \mathrm { ~ m ~ }$ 的4个不同梯度的实验水池（实验水池中水体透明度(1.5- $\cdot 1 . 7 \mathrm { ~ m ~ } \mathrm { ~ }$ )良好)中。在不同梯度上,每个物种放置5盆( $0 \mathrm { ~ m ~ }$ 表示没有被水淹,但保持湿润的梯度）。每个月记录所有花盆中植株的株高和分株数。约4个月后（2016年9月8日）,把0.5、1 $\cdot 2 \textrm { m }$ 的3个梯度的灰化臺草、南获、草移到 $0 \mathrm { ~ m ~ }$ 的梯度上,每隔 $1 5 \mathrm { ~ d ~ }$ 继续记录4个梯度各植株的株高和分株数,模拟在退水后,3种植株的生长情况。于2016年12月8日对所有植株进行收获,统计株高、分株数、地下芽数。然后把所有植株分成地上和地下部分,在 $1 0 5 \mathrm { ^ \circ C }$ 进行烘干，计算地上部分和地下部分的干重。
+
+# 1.2.2 水位控制
+
+所有的实验组都在同一实验水池中,接收的光照相同(相同水淹梯度）,并且每天固定时间补水以保持恒定水深。每隔1个星期记录实验池的叶绿素含量和水温,每隔15d换水（通过以相同流速同时进行蓄水和放水的方式)。水淹4个月后，移到 $0 \mathrm { ~ m ~ }$ 的水位梯度上，接收自然光照。
+
+# 1.2.3 数据处理
+
+由于灰化臺草是丛生的,生长后期观察其分株数比较困难。所以我们选择植丛周长作为代表分株能力的观测指标[23]。
+
+所有数据用Excel整理后,制成图表。数据的统计分析使用SPSS 21.0,对株高、分株数的数据分析采用重复测量方差分析（Repeated measure ANVOA）;生物量和地下芽数采用单因数方差分析,在 $9 5 \%$ 的置信度水平上,用LSD 显著性检验方法比较不同水淹梯度间的差异。
+
+# 2结果
+
+# 2.1不同水淹梯度对生物量的影响
+
+在12月份收获灰化薹草、南获、草,烘干称重,分别对三者的总生物量、地上生物量、地下生物量进行单因素方差分析。图1可以看出，灰化臺草在 $0 \mathrm { ~ m ~ }$ 梯度上,无论是总生物量,还是地上、地下生物量都显著高于其他3个处于水淹的梯度( $P { < } 0 . 0 5 )$ ,而处于水淹的3个梯度之间差异不明显( $P { > } 0 . 0 5 )$ ,在 $0 \mathrm { ~ m ~ }$ 梯度上灰化臺草总生物量是 $2 2 . 9 0 \ \mathrm { g }$ 而地下部分的生物量就达到 $1 9 . 3 6 \mathrm { ~ g ~ }$ ;同样,在 $0 \mathrm { ~ m ~ }$ 梯度上,南荻总生物量和地下生物量显著高于处于水淹的3个梯度( $P { < } 0 . 0 5 )$ ,但是处于水淹的3个梯度开始出现不同。处于 $2 \mathrm { ~ m ~ }$ 梯度的南荻总生物量和地下生物量最少,而地上生物量在 $0 \mathrm { ~ m ~ }$ 和 $0 . 5 \mathrm { ~ m ~ }$ 之间没有明显的差异( $P { > } 0 . 0 5 )$ 。 $0 \mathrm { ~ m ~ }$ 梯度上南荻的总生物量是 $1 5 . 2 7 \ \mathrm { g }$ ,而地下生物量达到 $1 1 . 6 4 \mathrm { ~ g ~ }$ ;草的总生物量和地下生物量随水位梯度变化没有明显差异（ $P { > } 0 . 0 5 )$ ，处于 $2 \mathrm { ~ m ~ }$ 水淹梯度上的草地上生物量和 $0 \mathrm { ~ m ~ }$ 梯度上的没有显著差异( $( P { > } 0 . 0 5 )$ 。水深 $0 \mathrm { ~ m ~ }$ 梯度上藹草的总生物量是 $4 . 2 0 \ \mathrm { g }$ ,而地下生物量达到 $3 . 2 1 ~ \mathrm { g }$ （图1）。
+
+![](images/9bbdbfc1f1d165c5fa38c60f63b7d4a98544bbf9066121bc091785b3dcd87a7d.jpg)  
+图1不同水淹梯度下3种优势植物生物量的分布  
+Fig.1The biomass distribution of the three dominant species in different water depths
+
+# 2.2水淹处理对植物株高的影响
+
+3种优势物种株高的重复测量方差分析表明：水淹处理和时间对灰化臺草和藹草的株高都有显著影响，而南荻的株高主要受水淹处理的影响(表1)。具体表现为:处于不同梯度水淹胁迫下的灰化藁草,经过一段时期的适应后， $0 \mathrm { ~ m ~ }$ 的灰化臺草株高随时间逐渐升高,而 $0 . 5 { \scriptstyle \downarrow } . 2 { \mathrm { ~ m ~ } }$ 的灰化臺草株高先升高然后逐渐下降,但依然保持活力。退水后,处于水淹梯度上的灰化臺草迅速生长,株高逐渐升高,最高达到 $4 6 . 8 4 ~ \mathrm { c m }$ ,但三者之间没有显著差别( $_ { _ { P < 0 . 0 5 ) } }$ 。南荻株高对水淹胁迫的反应与灰化臺草不同,在 $0 . 0 . 5 \AA . 1 \mathrm { ~ m ~ }$ 的3个梯度上,不管是处于水淹胁迫还是进入恢复生长期,株高随时间没有显著变化( $P { > } 0 . 0 5 )$ 。只有在 $2 \mathrm { ~ m ~ }$ 的水淹梯度上,南荻的叶子凋落,株高随时间逐渐下降，最低降至 $4 3 . 0 0 ~ \mathrm { c m }$ ;退水后，处于 $2 \mathrm { ~ m ~ }$ 水淹梯度的南荻主枝枯黄,分株开始萌发或者从枯黄的主枝开始长出新的分枝,而在 $0 . 5 \mathrm { ~ m ~ }$ 水淹梯度上的南荻株高最高,达到 $8 4 . 1 2 ~ \mathrm { c m }$ 。草在$0 . 0 . 5 \AA . 1 \mathrm { ~ m ~ }$ 的梯度上,株高先升高,然后下降； $2 \mathrm { ~ m ~ }$ 梯度上,株高逐渐下降。退水后， $0 . 5 , 1 . 2 \mathrm { ~ m ~ }$ 梯度上植株主干逐渐枯萎,株高最低降至10.66cm，然后分株开始迅速萌发生长。在 $0 \mathrm { ~ m ~ }$ 梯度上，草株高最高达到 $3 6 . 7 6 ~ \mathrm { c m }$ （图2）。 R7I
+
+表1不同水淹梯度下株高随着时间变化的重复测量方差分析( $\scriptstyle n = 5$ ）  
+ited measure ANOVA analysis of the effect of time on heightin different water depths ${ \it \Delta } n = 5$   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="4">灰化臺草 C.cinerascens</td><td colspan="4">南荻M.lutarioriparius</td><td colspan="4">草P.arundinacea</td></tr><tr><td>df</td><td>均方</td><td></td><td>sig</td><td>df</td><td>均方</td><td></td><td>sig</td><td>df</td><td>均方</td><td>F</td><td>sig</td></tr><tr><td>水淹处理 Water treatment</td><td>3</td><td>3531.71</td><td>18.07</td><td>0.000</td><td>3</td><td>5350.83</td><td>8.31</td><td>0.001</td><td>3</td><td>3042.69</td><td>26.40</td><td>0.000</td></tr><tr><td>时间Time</td><td>8</td><td>2001.09</td><td>74.05</td><td>0.000</td><td>8</td><td>171.93</td><td>1.50</td><td>0.162</td><td>8</td><td>3159.10</td><td>189.21</td><td>0.000</td></tr><tr><td>水淹处理x时间xtime</td><td>24</td><td>117.39</td><td>4.34</td><td>0.000</td><td>24</td><td>187.80</td><td>1.64</td><td>0.042</td><td>24</td><td>238.72</td><td>14.30</td><td>0.000</td></tr></table></body></html>
+
+显著 $\scriptstyle P < 0 . 0 5$
+
+# 2.3水淹处理对植物分株数的影响
+
+对灰化臺草的植丛周长，南获和草的分株数做重复测量方差分析,结果显示：不同处理时间对三者均有显著影响;不同处理梯度下，只有灰化臺草的植丛周长有显著影响,而南荻和草的分株株数无明显变化（表2)。从9月份开始,进入恢复生长期,不同处理梯度上,灰化臺草的植丛周长随时间逐渐增加,但3个水淹梯度间差异不显著( $\scriptstyle P < 0 . 0 5 )$ )。处于水淹胁迫下，南荻的分株不明显，只有在 $0 . 5 \mathrm { ~ m ~ }$ 的梯度上有少许分株。而退水后,分株数逐渐增多,并且不同处理梯度上有明显不同( $\textstyle P { \overset { \zeta } { < } } 0 . 0 5 )$ ,处于 $0 . 5 \mathrm { ~ m ~ }$ 梯度上分株最多。不同水淹处理的藹草也没有分株。退水后,分株数逐渐增多,不同处理梯度间有明显不同( $P { > } 0 . 0 5 )$ 。处于 $2 \mathrm { ~ m ~ }$ 水淹梯度上,藹草分株最多（图3）。 （
+
+![](images/a84fcc913d405ecb6e80e0fed524aebeb84dc5c1c1f307292f2adcbea9f71707.jpg)  
+图2不同水淹梯度下3种优势植物株高随时间的变化Fig.2The effect of time on height of three dominant species in the different water depths虚线右侧表示恢复生长期
+
+表2不同水淹梯度下分株数随着时间的变化的重复测量方差分析( $n = 5$ ）  
+Table 2Repeated measure ANOVA analysis ofthe efect of time on the number of ramets in different water depths ${ \bf \Pi } ( n = 5 )$ ）   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="4">灰化臺草C.cinerascens</td><td colspan="4">南荻M.lutarioriparius</td><td colspan="4">草P.arundinacea</td></tr><tr><td>均方 Adf</td><td>F</td><td>sig</td><td>df</td><td>均方</td><td></td><td>F</td><td>sig</td><td>df</td><td>均方</td><td>F</td><td>sig</td></tr><tr><td>水位梯度Water treatment</td><td>3 65.67</td><td>16.91</td><td>0.000</td><td></td><td></td><td>21.22</td><td>1.88</td><td>0.174</td><td>3</td><td>3.22</td><td>1.13</td><td>0.37</td></tr><tr><td>时间 Time</td><td>41.93 8</td><td>74.08</td><td>0.000</td><td></td><td></td><td>33.12</td><td>17.71</td><td>0.000</td><td>8</td><td>20.68</td><td>27.66</td><td>0.00</td></tr><tr><td>水位梯度×时间 Water treatmentXtime</td><td>24 1.64</td><td>2.89</td><td>0.000</td><td>24</td><td></td><td>2.64</td><td>1.41</td><td>0.115</td><td>24</td><td>0.66</td><td>0.88</td><td>0.63</td></tr></table></body></html>
+
+显著P<0.05
+
+# 2.4不同水淹梯度对地下芽数的影响
+
+在12月份收获,统计3种优势种地下芽数,并且对不同处理梯度下的芽数做单因素方差分析。结果表明：处于水淹环境下 $( 0 . 5 , 1 . 2 \mathrm { ~ m } )$ 的灰化草地下芽数不低于对照组( $\mathrm { ~ 0 ~ m ~ } )$ ,但是只有淹水深度为 ${ \mathrm { ~ 1 ~ m ~ } }$ 时的地下芽数显著高于对照组,而处于水淹环境下的3个梯度间芽数变化不明显( $P { > } 0 . 0 5 \mathrm { ) }$ ;南荻和草地下芽数随水淹梯度变化有相同的趋势,处于 $0 \mathrm { ~ m ~ }$ 梯度的地下芽数高于其余3个梯度(图4）。
+
+# 3讨论
+
+水文过程是制约湿地植物生长和分布的主要因素。在丰水期,鄱阳湖洲滩不同高程的植被遭受到不同强度的水淹,低高程的植被更容易被水淹,水淹时间也更长。长期处于这种梯度水淹的环境中,植物的功能性状
+
+![](images/374b468c29953e3ae070d925a48558031a68638c964d8aec4ed8fd95a60b1745.jpg)  
+图3在不同水淹梯度下3种优势物种的分株数随时间的变化
+
+Fig.3The effect of time on the number of ramets of three dominant species in diferent water depth:
+
+![](images/e34b8e978b260f86555b09236216881abf2e1d860b931064531e6608a8a568a7.jpg)  
+图4不同水淹梯度下3种优势植物地下芽数  
+Fig.4The number of buds of three dominant species in different water depths柱状图代表平均数 $\dot { \mathbf { \xi } } _ { \pm }$ 标准误；不同字母表示水位间差异显著
+
+会发生一些适应性的改变[14]。湿地植物的地上部分是对水位梯度最直接的响应,通过改变株高、节间距、分枝数、叶面积等来适应这种胁迫环境[24]。大量研究表明,植物本身适应环境改变的能力和策略决定了其生存和分布的范围[25]。近年来,鄱阳湖低枯水位现象明显,对洲滩植被的生长和分布产生了严重影响[18]。
+
+生物量的变化是湿地植物应对外界环境改变的综合响应[26]。植物往往会通过最优的生物量分配比来获得更多的资源，从而度过像水淹这样的胁迫环境[27]。本研究发现，水淹总体上是使得3种植物的生物量下降,但是生物量在水深梯度上下降的趋势是不同的。灰化臺草生物量在淹水和不淹水条件下,生物量有着巨大差异,但是不同的淹水梯度间却没有差异,结合灰化草的株高和分株变化可以看出灰化草对水淹胁迫采取的是耐受机制，,一旦被水淹没,生物量集中在地下部分[28],即进入休眠状态。南获的生物量随水淹深度的增加而减小,同时它的株高在较浅水深时是增加的,因而主要采取了一种逃逸的策略,但是水深继续增加时,它的光合作用下降,不足以支撑株高的快速增加,叶片凋落,从而也进入休眠状态。轟草由于其茎秆纤弱，它的策略和灰化臺草策略相似,也采用耐受的策略,但其在不同梯度上生物量的差异不显著,表明草可以在退水后快速生长。鄱阳湖有着广袤的洲滩面积,丰水期,不同高程的植被遭受到不同深度的水淹,长期处于这种生境中,每种植被形成了自己最适的生物量分配策略。一旦水位发生变化,植被将面临新的水淹深度,而生物量的适应策略将决定其在新的水淹深度是否生存与及分布界限。 n
+
+鄱阳湖洲滩3种优势物种的生长对不同水位梯度有不同的响应。灰化臺草在0.5、1、2m的水淹梯度上，株高逐渐降低。从生物量的变化可以看出，灰化臺草只要淹与不淹的区别。灰化臺草没有明显的茎，一旦被水淹后,为了减少淹水期呼吸作用消耗的能量,灰化摹草的叶片开始枯萎,株高逐渐降低[29]。而南荻只要在$2 \mathrm { ~ m ~ }$ 的水淹梯度上,株高才显著降低,并且遭受 $2 \mathrm { ~ m ~ }$ 水淹后,南荻的恢复生长受到抑制。南荻主茎明显，一定水淹梯度下,茎节快速增加,使更多的叶片露出水面,增加光合作用[30]。但是水淹深度继续增加时,这种高风险的策略使得南荻植株遭受较大的伤害[31],影响退水后的恢复生长。当处于枯水年时,鄱阳湖丰水期水位低,原本受到抑制的南获可以正常生长,南荻群落随之向较低的高程扩张。虽然这种低水位波动对灰化臺草的生长不会产生显著影响,但是随着南荻群落分布下移,与臺草群落的种间竞争愈加激烈。为了缓和这种竞争,灰化臺草会向较低高程区域迁移。
+
+在水位不断波动的背景下,湿地植物生长和繁殖的响应往往决定了其分布格局[32]。不同深度的水淹对灰化臺草植丛周长的增加没有产生显著影响。灰化藁草有发达的根状茎,水淹后,通过把大部分营养集中在地下部分而耐受不同深度的水淹。在野外环境中,退水后只有灰化臺草地下芽可以再次生长,进入“秋草”期。由于不同深度水淹对灰化臺草的繁殖没有产生显著影响。所以,鄱阳湖洲滩上灰化臺草的分布范围最广;虽然退水后,草大多以立枯的形式分布在洲滩上,但模拟实验中轟草的分株数在不同水淹梯度上有明显不同。处于 $2 \mathrm { m }$ 水深的草分株数达到最多。有些湿地植物遭受一定深度的水淹后,会把更多的营养以芽的形式储存起来[33]。轟草是一种对水淹有很强适应性的禾本科植物。在野外调查发现,退水后,草地下芽库的密度大于相邻高程的墓草和廖科植物[34]。当处于丰水年时,鄱阳水位升高,不同高程的植被遭受更深的水淹胁迫。这种高水位变化对草繁殖的影响较小,退水后,轟草的地下芽可以向更高的高程扩张。
+
+近年来,鄱阳湖水位变化明显。在这种背景下，研究不同水淹深度下鄱阳湖洲滩优势物种的生长显得尤为重要。灰化藁草、南荻、轟草在不同水位下的生长特征和繁殖策略是预测其生存和分布的重要线索。灰化臺草通过发达的根状茎,可以耐受更深的水淹,使得灰化臺草在鄱阳湖洲滩不同高程有广阔的分布;南荻在水深超过 $0 . 5 \mathrm { ~ m ~ }$ 后,分株开始受到抑制。所以南获分布的范围接近较高的高程;草在遭受 $2 \mathrm { ~ m ~ }$ 的水淹后,分株数没有减少,并且可以良好的生长,说明草适宜高程较低的生境。本文从个体水平上研究鄱阳湖洲滩三种优势物种在不同水淹梯度下的响应,对于理解植被处于水位波动环境下的生长变化有很深远的意义。但想要全面掌握植被在这种变化生境中的分布规律,后期的研究重点应放在种间和种内关系上。水位波动不仅会影响植物的个体生长,而且会改变植物种间关系。
+
+# 参考文献（References）：
+
+[1]VesenekLACJ,RindersJHGMPeetersAJM,vandeSteegHM,deKronH.PlantHormonesRegulateFasotElogationder Water：From Genes to Communities.Ecology，2004 85(1）:16-27.   
+[2]houW,WowthdotetialepdctofoliespotasopreiatioiEsea Plateau，China.Russan Journal of Ecology，2010,41(2）:147-152.
+
+http://www.ecologica.cn
+
+[3]ToucheeBWacoeL,erGEFrankADrouhtoleracevessdouhtvdance：oarisoofplant-wateelaiosherbaceous wetland plants subjected to water withdrawal and repletion.Wetlands，（20o7）,27(3)： 656-667.  
+[4]Rodiati，isslE,sagYgsiNespoyerusbreifus（otb.）kndCyusaEdsoil water availability.Environmental and Experimental Botany，2Oo5,53(3）:259-269.  
+[5]ReaN,GanfGGHowegentplantsexperiewateregiiMdteaan-teelnduaticotay994,49（)6.  
+[6] 闵骞.鄱阳湖水位变化规律的研究.湖泊科学，1995，7（3）：281-288.  
+[7]GuoHuJanTAaladasaltreafoespoestatedldovcagsinheagLkebsinlHydrology，2008,355(1/4）:106-122.  
+[8] 游海林，徐力刚，刘桂林，吴永明，刘丽贞，姜加虎.鄱阳湖湿地景观类型变化趋势及其对水位变动的响应.生态学杂志,2016,35（9)2487-2493.  
+[9]Liao MN,YuG,GuoY.EutrophicationinPoyangLake（EasterChina）overtheLast30OYears in ResponsetoChanges inClimaBiomass.PLoS One，2017,12(1):e0169319.  
+[10] 廖梦娜，于革，郭娅.300 年来鄱阳湖营养盐演化重建与模拟.生态学报,2016,36(8):2393-2402.  
+[11] 赵红梅，陈晓玲，徐冰，冯炼.年内水热条件变化对冬候鸟数量时空分布特征的影响机制.生态学报,2017,37（8）：2828-2837.  
+[12] Dronova，BeissgerSR,uamJW,GongP.Lanscape-LeveociatiosofinteringWaterbrdDiversitndunancefrootelySensed Wetland Characteristics of Poyang Lake.Remote Sensing，2016,8(6) :462.  
+[13]JiangT,LiuHB,uMJ，ChenT,YangAPossbleCoecivityamongEstuarineTaperailAchoy（Colinasus）PopulatiositheYangtze River，Yellow Sea，and Poyang Lake. Estuaries and Coasts，2016,39(6）:1762-1768.  
+[14] 徐金英，陈海梅，王晓龙．水深对湿地植物生长和繁殖影响研究进展.湿地科学，2016，14(5):725-732.  
+[15] 李冬林，王磊，丁晶晶，芮雯奕.水生植物的生态功能和资源应用.湿地科学，2011，9(3):290-296.  
+[16] 张梅清,赵运林，徐正刚，廖嘉欣，李立，黄田,段酬苍.洞庭湖越冬小天鹅食性研究.西南林业大学学报，2016，36(4)：121-125.  
+[17] 葛刚，赵安娜，钟义勇，吴志强.鄱阳湖洲滩优势植物种群的分布格局.湿地科学，2011，09(1)：19-25.  
+[18] 胡振鹏，葛刚，刘成林.鄱阳湖湿地植被退化原因分析及其预警.长江流域资源与环境，2015，24（3)：381-386.  
+[19] 谭志强，张奇，李云良，许秀丽，姜加虎.鄱阳湖湿地典型植物群落沿高程分布特征.湿地科学，2016，14(4):506-515.  
+[20] Zhang Q,LiL,WangYG,WerAD,XinP,ngTBarrD.Hasthere-GorgesDmmadethePoyangLakewelandsweedrie.GeophysicalResearch Letters，2012,39(20）:L20402.  
+[21] 冯文娟，徐力刚，王晓龙，李海英,姜加虎.鄱阳湖洲滩湿地地下水位对灰化臺草种群的影响.生态学报,2016,36(16):5109-5115.  
+[22] 葛刚，陈少风.鄱阳湖湿地植物.北京;科学出版社，2015.  
+[23] 高芳磊,王浩东，郭宏宇，马成仓.盐地碱蓬和芦苇苗期的竞争作用.湿地科学，2015，13(5):582-586.  
+[24] 杨娇，厉恩华，蔡晓斌，王智，王学雷.湿地植物对水位变化的响应研究进展.湿地科学，2014,12(6):807-813.  
+[25] RichardsJH,TroxlerG,LeeDW,ZieranM.ExpermentaldeternationofectsofaterdepthonNympheaodorata，growth，morphology and biomass allocation. Aquatic Botany，2011,95(1） :9-16.  
+26cciho9,80(8），2581-2593.  
+[27]WrightScogaKItepetingoticplastitepraeofotogylantSeiesog（/）119- 131.  
+[28]XieYH,ANQBofgWBResoualatoineubergedpntVlsnerinats，aetietttatecolumn nutrients.Freshwater Biology，2005，50(3）:391-402.  
+[29］卢妍.湿地植物对淹水条件的响应机制．自然灾害学报，2010，19(4）:147-151.  
+[30]StrandJA，Solallstsosstaterepthdweexpseiatplant（Myoalof Ecology，2001,89(2) :166-175.  
+[31] VoesenekLACJ,ColmerTD,PierikR,MillnaarFF,etersAJM.HowPlantsCopwithCompleteSubmergence.NewPhytologist0,170(2) :213-226.ChenXS,Degieideifetotable gradient.Pakistan Journal of Botany,2014,46(3）:881-886.  
+[33] MilerRC,ZederJRsposfativediasietadplatstdoerodndaterpt.PantEog,（)9.Chen XS,DengZM,XieYH,LiF,HouZY,LiX.Belowgroundbudbanksoffourdominantmacrophytesalongasmal-scaleelevationalgradient in Dongting Lake wetlands,China.Aquatic Botany，2015,122:9-14.

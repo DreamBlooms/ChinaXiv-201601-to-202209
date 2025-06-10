@@ -1,0 +1,363 @@
+[
+    {
+        "type": "text",
+        "text": "Profiling and Relative Quantitation of Phosphoinositides by Multiple Precursor lon Scanning Based on Phosphate Methylation and Isotopic Labeling ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tanxi Cai+ Qingbo Shu, JunJie Hou, Peibin Liu Lili Niu, Xiaojing Guo,† CharlesC.Liu,\" and Fuquan Yang\\*,+ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "+Laboratoryof Protein and Peptide Pharmaceuticalsand Laboratoryof Proteomics, Instituteof Biophysics, Chinese Academyol   \nSciences,Beijing 100101, China   \n\\*University of Chinese Academy of Sciences, Beijing 100049, China   \n\\$NationalLaboratoryof Biomacromolecules, Instituteof Biophysics,Chinese Academyof Sciences, Beijing 100l0,China   \n\"ASPEC Technologies Liited, Bejingina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Phosphoinositides, the phosphorylated derivatives of phosphatidylinositol (PtdIns)，are key regulators of many fundamental biological processes, including cell growth, proliferation, and motility. Here, we present a novel method for rapid, sensitive, and simultaneous profiling of phosphatidylinositol trisphosphate $\\left( \\mathrm { P t d I n s P } _ { 3 } \\right) ,$ ，phosphatidylinositol bisphosphate $\\left( \\mathrm { P t d I n s P } _ { 2 } \\right) ,$ )，and phosphatidylinositol phosphate (PtdInsP) of different fatty acid compositions. This method is based on a technique called “charged diacylglycerol fragment ion-specific multiple precursor ion scanning\" $\\mathrm { \\cdot D A G ^ { + } }$ -specific MPIS), coupled with prior phosphate methylation. Using $\\mathrm { D A G ^ { + } }$ -specific MPIS,we were able to identify 32 PtdIns, 28 PtdInsP, $3 0 \\mathrm { \\ P t d I n s P } _ { 2 } ,$ and $3 \\mathrm { P t d I n s P } _ { 3 }$ molecular species from bovine brainextractsorprostaticcancercellinesinanefcientandtime-savingmanner.Ouranalysisrevealedalargerangeoffattacyl compositions inphosphoinositides notobtained previouslyfrommammaliansamples.Wealsodevelopeda methodthatinvolves isotopic labeling of endogenous phosphoinositides with deuterated diazomethane $\\left( \\mathrm { C D } _ { 2 } \\mathbf { N } _ { 2 } \\right)$ for quantitation of phosphoinositides. $\\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 }$ was generated in situ through acid-catalyzed $\\mathrm { H } / \\mathrm { D }$ exchange and methanolysis of trimethylsilyl diazomethane(TM-azomethane).Posphoinositides,extractedfromaC3prostaticacerceline,erelaeledeithrwith $\\mathrm { C H } _ { 2 } \\mathrm { N } _ { 2 }$ or $\\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 }$ and mixed in known proportions for $\\mathrm { D A G ^ { + } }$ -specific MPIS-based mass spectrometry (MS) analysis. The results indicate that isotopic labeling is capable of providing accurate quantitation of $\\mathrm { P t d I n s P } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ and PtdInsP with adequate linearity as well as high reproducibility with an average coeffcient variation of $1 8 . 9 \\%$ . More importantly, this new methods excluded the need for multiple phosphoinositide internal standards. $\\mathrm { D A G } ^ { + }$ -specific MPIS and isotopic labeling based MS analysis of phosphoinositides ofers unique advantages over existing approachesand presentsa powerful too for researchof phosphoinositide metabolism. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed648edf5f6ba187d78b7305a43df6d52a37cbc2ff86c03a3a8d6d5e85889ed0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "spst cellular membranes，and they predominantly reside on the cytoplasmic side of the cell membrane.Reversible phosphor ylation at the hydroxyl groups 3,4,and 5 of the inositol ring in PtdIns by a number of different kinases generates seven distinct phosphoinositides,defined here as PtdIns(3)P, $\\mathrm { P t d I n s } ( 4 ) \\mathrm { P } _ { ; }$ $\\bar { \\mathrm { P t d I n s } } ( 5 ) \\mathrm { P } ,$ $\\mathrm { P t d I n s } \\left( 3 , 4 \\right) \\mathrm { P } _ { 2 } ,$ PtdIns $( 3 , 5 ) \\mathrm { P } _ { 2 } ,$ $\\mathrm { P t d I n s } ( 4 , 5 ) \\mathrm { P } _ { 2 } ,$ and $\\mathrm { P t d I n s } ( 3 , 4 , 5 ) \\mathrm { P } _ { 3 } ,$ contributing to their signaling diversity. Though present in low abundance in mammalian membranes, phosphoinositides play pivotal role in numerous cellular processes，including cell growth， survival，and motility.² Aberrant phosphoinositide signaling has been implicated in numerous human diseases, such as cancer， neurological disorders,diabetes,and others.3,4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite the clear importance of phosphoinositidesin biological signaling,there is still little known about the precise molecular species of phosphoinositides and the exact cellular amounts of these lipids across different cells， tissues， or organisms.However，measuring the phosphoinositides present a major challenge,as they are present at only very low levels inside the cell.For example,of the total cellular phospholipids content, $\\mathrm { P t d I n s } ( 4 , 5 ) \\mathrm { P } _ { 2 }$ and $\\mathrm { P t d I n s } ( 3 , 4 , 5 ) \\mathrm { P } _ { 3 } ,$ are present at less than $1 \\%$ and $0 . 0 5 \\%$ ，respectively.5In addition，receptor displacement assays and radiometric measurements of deacylated headgroup products of phosphoinositides are laborious and fail to elucidate the exact fatty acyl composition, in spite of the highsensitivityofsuchassays ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recent advances in separation technology and mass spectrometry have revolutionized the characterization and quantification of the phosphoinositides，allowing for measurements with high sensitivity as well as high-throughput setup, and enable analysis acrossa large dynamic range.8-i0However, despite considerable progress in recent years, these powerful approaches have been hampered by major issues in terms of chemical stability and sensitivity associated with the measurement and quantification of phosphoinositides. Recently, Clark et al.used trimethylsilyl-diazomethane as a reagent that methylates phosphate_groups of phosphoinositides from total cell or tissue extracts. Such approach offers a novel route to solving the major problems mentioned above.This method was also shown to be suitable for determining phosphoinositides levels and fatty acid composition in small cell and tissue samples.The general outline of this method, however, is timeconsuming,as it first has to run neutral loss scans (NLSs) of the methylated inositol phosphate headgroup,in order to identify the particular molecular species of phosphoinositide, so that phosphoinositides can be accurately quantified by multiple reaction monitoring (MRM)-based mass spectrometry analysis. Inaddition, such strategy is_prone to biased losses of information on phosphoinositide molecular species of low abundance during NLSs analysis.This is really true in cases where peaks of phosphoinositide species in the NLS spectrum may be barely above the noise threshold.Furthermore, the comparative quantitation of phosphoinositides molecular species is usually achieved by the inclusion of internal standards (ISDs) and analyzed in separate runs.However, the stability of the electrospray might difer at times，and the potential difference in the ionization of phosphoinositides of diffrent fatty acid composition and degree of unsaturation may prone to errors in quantification. Furthermore,for most phosphoinositide species, the relevant ISDs are not commercially available and therefore need to be synthesized chemically. The storage of ISDs in solution for extended periods of time isalso problematic,especially for ISDs with double bonds due to susceptibility to rapid oxidation.To overcome limitations of such nature, a simple and straightforward approach would be to incorporate a given heavy nuclei (e.g., $^ { 2 } \\mathrm { { \\bar { H } } , }$ $^ { 1 3 } { \\mathrm { C } } ,$ or $^ { 1 5 } \\mathrm { N } \\dot { }$ ）into endogenous phosphoinositides by metabolic or chemical labeling. The light and heavy populations of phosphoinositides are sufficiently equivalent chemically，but also remain distinguishable by mass spectrometry (MS).If two populations are mixed,the phosphoinositide abundances can be directly determined from the relative MS signal intensities.In support of our choice of labeling， numerous isotopic labeling procedures， such as SILAC (stable isotope labeling by amino acids in cell culture) or iTRAQ (isobaric tag for relative and absolute quantitation),have been established for the study of protein mixtures and are known for their robust and accurate quantificationofprotenexpssnlels.Inissdywe present an integrated method that combines charged diacylglycerol fragment ion-specific multiple precursor ion scanning (DAG+-specific MPIS)，direct infusion mass spectrometry (DIMS)，and isotopic labeling through phosphate methylation for rapid profiling and relative quantitation of phosphoinositides from various biological samples. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALSECTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemicals and Reagents.Trimethylsilyl diazomethane (IUPAC name,(diazomethyl)-trimethylsilane;abbreviated here as TMS-diazomethane）(2 M in hexanes)，deuterium oxide $\\left( \\mathrm { D } _ { 2 } \\mathrm { O } \\right)$ ，deuterium-labeled methanol (methanol- $\\cdot d _ { 4 } ,$ MeOD), and deuterium chloride (DCl, $20 \\mathrm { w t } \\%$ in ${ \\mathrm { D } } _ { 2 } { \\mathrm { O } }$ )were purchased from Acros Organics.Acetic acid and hydrochloric acid (HCl) of analytical grade were purchased from Fisher Scientific. Chloroform (SpS grade， $\\mathrm { C H C l } _ { 3 } ,$ )，methanol (SpS grade, MeOH)，water (ultragradient grade, ${ \\mathrm { H } } _ { 2 } { \\mathrm { O } } _ { \\cdot } ^ { \\cdot }$ )，and methyl tertbutyl ether (ultragradient grade,MTBE） were from J.T.Baker. The phosphoinositides sodium salt from bovine brain was from Sigma-Aldrich.Synthetic $1 7 { : } 0 / \\mathrm { C } 2 0 { : } 4 \\mathrm { - P t d I n s } ( 3 , 4 , 5 ) \\mathrm { P } _ { 3 } , 1 7$ :0/ $\\mathrm { C } \\bar { 2 } 0 { : } 4 { \\cdot } \\mathrm { P t d I n s } ( 4 , 5 ) \\mathrm { P } _ { 2 } ,$ and $1 7 { : } 0 / \\mathrm { C } 2 0 { : } 4 \\mathrm { - P t d I n s } ( 4 ) \\mathrm { P }$ were from Avanti Polar Lipids.All the reagents used for cell culture were from Invitrogen unless stated otherwise.All other reagents were from Sigma-Aldrich unless specified. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell Lines and Cell Cultures.The prostate cancer cell lines PC3,Dul45,and C4-2B were obtained from ATCC.The PC3, Dul45 and C4-2B cells were cultured in DMEM medium with $1 0 \\%$ $\\left( \\mathbf { v } / \\mathbf { v } \\right)$ FBS and $1 \\% \\ \\mathrm { ( v / v ) }$ pen/strep.All the cells were maintained at $3 7 ~ ^ { \\circ } \\mathrm { C }$ ina $5 \\%$ （20 $\\mathrm { C O } _ { 2 }$ incubator. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lipid Extraction. The lipid extraction was performed using $2 ~ \\mathrm { m L }$ polypropylene safe-lock tubes.Two-step lipid extraction was performed as described previously with some modifications.14 Briefly,cels were collected after digestion with trypsin and subjected to cell counting assays using the Neubauer plate. Prior to lipid extraction, ${ \\sim } 5 \\times 1 0 ^ { 5 }$ cells were centrifuged （13 $0 0 0 g , 5 \\ \\mathrm { m i n } , 4 ^ { \\circ } \\mathrm { C } )$ and the pellets were washed for two times with $1 ~ \\mathrm { m L }$ of cold $5 \\%$ $_ { 0 } ^ { \\prime } \\mathrm { T C A } / 1 \\mathrm { m M }$ EDTA. The supernatants were then discarded and neutral lipids were extracted by incubating with $1 ~ \\mathrm { m L }$ of chloroform/methanol $\\left( 1 { : } 2 , \\mathbf { v } / \\mathbf { v } \\right)$ and vortexing for $_ { 3 - 4 }$ times over $1 0 \\ \\mathrm { \\ m i n }$ at room temperature (RT).After further centrifugation ( $1 3 0 0 0 g , 2 \\mathrm { m i n }$ at $4 { } ^ { \\circ } \\mathrm { C } \\cdot$ and carefully removing the supernatant，1O pmol of PtdIns(4)P 37:4，10 pmol of $\\mathrm { P t d I n s } \\left( 4 , 5 \\right) \\mathrm { P } _ { 2 }$ 37:4，and 10 pmol of $\\mathrm { P t d I n s } ( 3 , 4 , 5 ) \\mathrm { P } _ { 2 }$ 37:4 were spiked into the remaining pellet. The pellet was resuspended in $1 3 6 5 \\ \\mu \\mathrm { L }$ of MTBE/MeOH (MeOD,in case of isotopic labeling)/2 NHCl (DCl, in case of isotopic labeling) $\\left( 2 0 0 { : } 6 0 { : } 1 3 , \\ \\mathrm { v / v / v } \\right)$ ,incubated atRT for15 min,and vortexed every $\\textsf { S m i n }$ for $3 0 ~ \\mathsf { s }$ 、An amount of $2 5 0 ~ \\mu \\mathrm { L }$ of 0.1 N HCl(or DCl)was added followed by $5 \\ \\mathrm { m i n }$ of vortexing.Phase separation was induced by centrifugation $( 6 5 0 0 g , \\ 2 \\ \\mathrm { \\ m i n }$ at $4 ~ ^ { \\circ } C ^ { \\prime }$ ). The upper organic phase was immediatelytransferredtoanewtubeandaddedwith $5 0 0 ~ \\mu \\mathrm { L }$ of prederivatization wash solution (MTBE/MeOHor MeOD/ 0.01 N HCl or DCl, $\\mathrm { v } / \\mathrm { v } / \\mathrm { v } = 1 0 0 { : } 3 0 { : } 2 5$ ,low phase).After a brief vortex and centrifugation $( 6 5 0 0 g , \\mathrm { ~ } 2 \\mathrm { ~ } \\operatorname* { m i n }$ at $4 ~ ^ { \\circ } \\mathrm { C } )$ ，the upper phase was transferred into another new tube for derivatization. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Derivatization of Lipids.TMS-diazomethane at $^ { 2 \\mathrm { ~ M ~ } }$ in hexane $( 5 0 ~ \\mu \\mathrm { L } )$ was added into the lipid extracts prepared as described above ( $\\mathrm { \\omega _ { \\mathrm { \\sim } 1 \\ m L } }$ of “upper phase\"） and incubated for $2 0 \\mathrm { m i n }$ at RT.The reactions were terminated by adding $6 \\mu \\mathrm { L }$ of glacial acetic acid,causing an easily visible color change.An amount of $5 0 0 \\mu \\mathrm { L }$ of postderivatization wash solution (MTBE/ $\\begin{array} { r } { \\mathrm { M e O H / H _ { 2 } O } , } \\end{array}$ （ $\\mathrm { v } / \\mathrm { v } / \\mathrm { v } = 1 0 0 { : } 3 0 { : } 2 5 ,$ low phase）was then added into the organic solution. The samples were then mixed and centrifuged ( $\\mathrm { . } 1 5 0 0 g , 3 \\mathrm { ~ m i n } \\mathrm { ) }$ , and the upper phase was collected. The wash step was repeated once,and the final upper phase was then dried in SpeedVac and resuspend in $8 0 ~ \\mu \\mathrm { L }$ of ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Arieeieeiteer 00870043021000 1830-MAG\\* 20:4-MAG+ 18:0-20:4-DAG\\* 18:0-20:4PtdlnsP2 rrereareilar 1000705430200 17:0-20:4-DAG\\* 17:0-20:4PtdlnsP3 360.89 NL:490 Da ··· NL:598 Da   \n330 340350 360 1117.67 17:0-MAG 1211.74   \n100 200 300 400 500 600 700 800900 10001100 1200 100 200 300 400 500 600 700 800 9001000110012001300   \nBrieeieliielear 100705430201000 627.44 18:0-20:4PtdlnsP2+Me reaereielear 1000705430200 613.39 17:0-20:4PtdlnsP3+Me NL:612Da 18:0-MAG NL:504Da 17:0-MAG+ 1225.78 1131.56 327.13   \n100 200300 400 500 600,700800900 100011001200 100 200 300 400 500600 700 800 9001000110012001300 m/z m/z ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "chloroform/methanol $\\left( \\mathbf { v } / \\mathbf { v } \\right)$ with $\\textit { 5 } \\mathrm { m M }$ ammonium acetate before mass spectrometer analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stable Isotopes Labeling on Lipids.The labeling of lipids with stable isotopes was performed by replacing the MeOH, ${ \\mathrm { H } } _ { 2 } { \\mathrm { O } } _ { \\cdot }$ ，and HCl with MeOD， $\\mathrm { D } _ { 2 } \\mathrm { O }$ ，and DCl, respectively，during the lipid extraction and derivatization procedures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mass Spectrometric Analysis.Mass spectrometric analyses were performed on the TSQ Vantages instrument (ThermoFisher Scientific,Bremen),equipped with a robotic nanoflow ion source Triversa Nanomate (Advion Biosciences) using chips with spraying nozzles with a diameter of $5 . 5 \\ \\mu \\mathrm { m }$ The ion source was controlled using the ChipSoft Software (Advion Biosciences)，with the following settings:ionization voltagewas set to $1 . 2 5 ~ \\mathrm { k V } ,$ ，gas backpressure to O.5 psi in the positive ion mode, $1 \\mu \\mathrm { L }$ air gap before chip and prewetting one time was enabled，and vent headspace was disabled.The temperature of the ion transfer capillary and the s-lens rf amplitude were $1 9 0 ~ ^ { \\circ } \\mathrm { C }$ and 217. $\\mathrm { D A G ^ { + } }$ -specific MPIS was carried outata CE of $4 0 ~ \\mathrm { e V }$ ,usinga dwelling time of $5 0 0 \\mathrm { m s }$ at a step size of $0 . 2 \\mathrm { \\ D a }$ at unit resolution of the Q1 quadrupole. For every precursor ion scanning,24 spectra were acquired. The Ql mass range was set to $m / z \\ 7 0 0 { - } 1 4 0 0 . \\ \\mathrm { M S ^ { 3 } }$ analyses were performed on LTQ-Orbitrap XL instrument (ThermoFisher Scientific, Bremen). All $\\mathbf { M } \\mathbf { S } ^ { 3 }$ spectra were collected using normalized collision energy (setting, $3 5 \\%$ ）and an isolation window of $3 ~ m / z$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For $\\mathrm { D A G } ^ { + }$ -specific MPIS,we constructed a list of daughter ions that putatively correspond to charged diacylglycerols $\\left( \\mathrm { D A G ^ { + } } \\right)$ with common fatty acyl groups (see Supporting Information Table S1 for a list of putative $\\mathrm { D A G ^ { + } }$ and their associated masses).A scheduled $\\mathrm { D A G ^ { + } }$ -specific MPIS was then performed for a rapid screening of phosphoinositide molecular species from different biological sample in $1 0 ~ \\mathrm { m i n }$ (Supporting Information Figure S1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quantitative Monitoring of Changes in Lipid Profile. Relative quantitation of lipids was performed in the copresence of labeled and unlabeled lipids in a single $\\mathrm { D A G } ^ { + }$ -specific PIS spectrum.Briefly，the peak intensities of unlabeled lipid molecular species were extracted and ratiometrically compared to the corresponding labeled ones as ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { l a b e l e d } } / C _ { \\mathrm { u n l a b e l e d } } = I _ { \\mathrm { l a b e l e d } } / I _ { \\mathrm { u n l a b e l e d , } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$C _ { \\mathrm { l a b e l e d } }$ and $C _ { \\mathrm { u n l a b e l e d } }$ represent the contents of individual species in the labeled and unlabeled lipid extracts,respectively，while $I _ { \\mathrm { l a b e l e d } }$ and $I _ { \\mathrm { u n l a b e l e d } }$ represent the sum of the heights of all the peaks of the isotopic distribution of the labeled ( $\\overset { \\cdot } { m } / z$ of $\\mathbf { M } - 1 ,$ M, $\\mathbf { M } + 1 , \\mathbf { M } + 2 ,$ ）andunlabeled( $\\dot { } m / z$ ofM $, \\mathbf { M } + 1 , \\mathbf { M } + 2 { \\mathbf { ) } }$ lipid species, respectively. The results are presented as mean $\\pm$ SD.A $^ { 1 3 } \\mathrm { C }$ correction，as described previously15 with some modifications，was performed for quantification of phosphoinositides，to deal with the overlapping nature of the pseudomolecular ion peak of the species of interest with the $\\mathbf { M } + 2$ isotope peak from another more saturated species that has a $2 \\mathrm { D a }$ lower mass (see Supporting Information Figure S2 for details). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Safety Considerations. The TMS-diazomethane was originally developed as a less toxic substitute for the compound diazomethane.However, inhalation of TMS-diazomethane may cause lung damage or central nervous system depression and should therefore be handled with the appropriate safety procedures in place,i.e.，inside a fume hood,with adequate personal safety equipment. Excess TMS-diazomethane is to be neutralized using acetic acid.Care must be taken if handled in large volumes,as it is highly volatile and produces nitrogen gas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathsf { D A G } ^ { + }$ -Specific MPlS Enables Rapid and Simultaneous Screen of Phosphoinositide Molecular Species.Clark et al.showed that TMS-diazomethane can be used to methylate the phosphate groups of phosphoinositides,thus providing a first solution to the issues of stability and sensitivity.11 It has been shown previously that parts of the free hydroxyls in the inositol ring are methylated during the inositol phosphate methylation process.This produces phosphoinositides that are also methylated on the one or two free hydroxyls in the inositol ring(defined here as overmethylated phosphoinositide，in contrast to the completely methylated phosphoinositides that do not carry methyl groups on free hydroxyls in the inositol ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "88 +CH3 B d:-d:o) JTTTTTTN +CH3 1134.17 1145.22 1148.17 L 1   \n1100 1110 1120 1130 1140 1150 1160 1170 PtdlnsP2 PtdlnsP2+Me PtdlnsP2+2Me 18:0-20:4 PtdlnsP3 /:g:m   \nRnristesn geilgr 18 +CH3 D JTTTTTTT1 1242.40 1253.55   \n1210 1220 1230 1240 m/z 1250 1260 1270 1280 PtdlnsP3 PtdlnsP3+Me PtdlnsP3+2Me ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d29e3b9ed2633bc40011844ec27acbc3ddf5731320b7f94f2250a4d4644191e.jpg",
+        "img_caption": [
+            "Figure 2.Distribution of completed,overmethylated phosphoinositides in the $\\mathrm { D A G ^ { + } }$ -specific precursor ion scanning.(A and C） Simultaneous detection of completed,overmethylated $1 8 { : } 0 / 2 0 { : } 4 \\mathrm { - P t d I n s P } _ { 2 }$ and $1 8 { : } 0 / 2 0 { : } 4 \\mathrm { - P t d I n s P } _ { 3 }$ by precursor ion scanning at $m / z$ of 627,respectively,which corespondstoeharged8:O:4-DAG.(BandD）Statisticalaalyssshowdsignifcantsimilarityintedistibutionfopleted overmethylated $\\mathrm { P t d I n s P } _ { 2 }$ or $\\mathrm { P t d I n s P } _ { 3 }$ of different fatty acyl chains,where the intensities of overmethylated $\\mathrm { P t d I n s P } _ { 2 }$ or $\\mathrm { P t d I n s P } _ { 3 }$ species with monomethylation of free hydroxyl groups in the inositol ring accounted for $5 0 \\% \\pm \\ : 1 1 . 4 \\%$ or $3 5 \\% \\pm \\ 1 . 5 \\%$ of completed phosphoinositides, respectively. ",
+            "Figure 3.Simultaneous detection of $\\mathrm { P t d I n s P } _ { 3 } ,$ （204号 $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP,and PtdIns,that have the same fatty acyl composition in a single $\\mathrm { D A G } ^ { + }$ -specific PIS spectrum. $1 8 { : } 0 / 2 0 { : } 4 \\mathrm { - P t d I n s P } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP，and PtdIns were simultaneously detected by precursor ion scanning at $m / z$ of 627 that corresponds to the charged 18:0/20:4-DAG.A sequential mass interval of $1 0 8 ~ \\mathrm { { D a } }$ can be found among $\\mathrm { P t d I n s P } _ { 3 } ,$ （20 $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP,and PtdIns, which corresponds to the methylationofonephosphate.Thederivatized PtdIns preferentiall formed ammoniumadducts. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ring).This may complicate the liquid chromatography based mass spectrometry analysis,due to the increasing complexity of phosphoinositide compositions.However,MS/MS analysis of completed or overmethylated phosphoinositide reveals that both yielded a fragment ion that corresponded to the charged diacylglycerol.For example,as shown in Figure 1，collisioninduced dissociation(product ion analysis） of the completed or overmethylated $1 8 { : } 0 / 2 0 { : } 4 { \\mathrm { - P t d I n s P } } _ { 2 }$ 0 $\\dot { \\mathbf { \\Omega } } _ { m / z }$ of 1117 and 1131, respectively) can lead to the detection of the same fragment ion at $m / z$ of 627,which corresponded to the charged 18:0/20:4- DAG.Presumably， the completed or overmethylated 17:0/ $2 0 { : } 4 { \\mathrm { - P t d I n s P } } _ { 3 }$ 0 $\\dot { } m / z$ of1211 and 1225,respectively）can yield the same daughter ion at $m / z$ of 613,which corresponds to the charged 17:0/20:4-DAG. Therefore，phosphoinositidesof various methylation states can be detected simultaneously by a precursor ion scan corresponding to the charged diacylglycerol fragments，defined here as $\\mathrm { D A G } ^ { + }$ -specific PIS, by DIMS (Figure 2).More importantly， the profile of completed or overmethylated phosphoinositides in the precursor ion scan spectrum was of marked similarity among the phosphoinositides with different fatty acyl chains.For example，the intensity of overmethylated $\\mathrm { P t d I n s P } _ { 2 }$ and $\\mathrm { P t d I n s P } _ { 3 }$ species with monomethylation of free hydroxyl groups in the inositol ring were accounting for $5 0 \\% \\pm 1 1 . 4 \\%$ and $3 5 \\% \\pm 1 . 5 \\%$ of completed methylated ones,respectively (Figure 2).Similar to $\\mathrm { P t d I n s P } _ { 3 }$ and $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP and PtdIns molecular species have their own unique profiling of completed or overmethylated phosphoinositides in the precursor ion scan spectrum (Supporting Information Figure S3). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Given that they have the same fatty acyl composition，the derivatized $\\mathrm { P t d I n s P } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP,or PtdIns yielded the same $\\mathrm { D A G ^ { + } }$ fragment ion. This result indicates that $\\mathrm { P t d I n s P } _ { 3 } ,$ PtdInsP，PtdInsP，and PtdIns can be simultaneously and rapidly identified ina single $\\mathrm { D A G ^ { + } } .$ -specific PIS.Figure3 shows that $\\mathrm { i } 8 { : } 0 / 2 0 { : } 4 { \\mathrm { - P t d I n s P } } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP，and PtdIns was simultaneously presented with characteristic profiling of completed and overmethylated phosphoinositides in the $\\mathrm { D A G ^ { + } }$ -specific PIS spectrum.A sequential mass interval of $1 0 8 \\mathrm { \\ D a } ,$ ，corresponding to the methylation of one phosphate moiety，was also observed for $1 8 { : } 0 / 2 0 { : } 4 \\mathrm { - P t d I n s P } _ { 3 } ,$ ， $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP,and PtdIns.These results confirmed the feasibility of using $\\mathrm { D A G } ^ { + }$ -specific PIS for the rapid identification of particular phosphoinositide molecular species.Furthermore, the information mentioned above provides us higher confidence in the identification of low-abundant phosphoinositide species when compared to neutral loss scan analysis (described earlier by Clark et al.)，since the peaks of lowabundant phosphoinositide species in NLS spectrum might be barely above the noise threshold.More importantly，it also could provide a significantly greater throughput compared to most existing methods. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to further test the feasibility of our novel method,a commercially available phosphoinositide mixture extracted from bovine brain was subjected to our $\\mathrm { D A G ^ { + } } .$ -specific PIS analysis. $\\mathrm { D A G } ^ { + }$ -specific MPIS allowed rapid and sensitive identification of 32 PtdIns species，28 PtdInsP species，30 $\\mathrm { P t d I n s P } _ { 2 }$ species, and $3 \\mathrm { \\ P t d I n s P } _ { 3 }$ species from brain extracts. To our knowledge，this is the largest data set of phosphoinositides identified so far from mammalian brain extracts.These results also reveal the widest range of fatty acid composition in phosphoinositides ever found in mammalian brain extracts,although the precise reasons behind the need for such a wide variety of phosphoinositide species remain unknown. Previous studies provided a possible clue by showing that different phosphoinositide species could be produced upon stimulation using distinct ligands.9 Therefore，our method, combined with specific agonist activation,allows us to begin the molecular dissection of various cellular outcomes regulated by diferential molecular species of phosphoinositide. More importantly，the detection of three ${ \\mathrm { P I P } } _ { 3 }$ molecular species, $3 8 { : } 3 \\mathrm { P t d I n s P } _ { 3 } ,$ $3 8 { : } 4 \\ \\mathrm { P t d I n s P } _ { 3 } ,$ and $3 8 { : } 5 \\ \\mathrm { P t d I n s P } _ { 3 } ,$ suggests that our $\\mathrm { D A G ^ { + } }$ -specific MPIS method is sufficiently sensitive to detect very low abundant phosphoinositide species (Supporting Information Figure S4A). In addition， many PtdInsP and $\\mathrm { P t d I n s P } _ { 2 }$ species not reported previously were also identifed. For example,several PtdInsP/PtdInsP $_ { 2 }$ species with long-chain fatty acyl, such as PtdInsP/PtdInsP $_ { 2 }$ 42:5,PtdInsP/PtdInsP2 42:4, and $\\mathrm { P t d I n s P } _ { 2 }$ 42:2 (Supporting Information Figure S4B) were successfully detected. Furthermore，a large number of $\\mathrm { P t d I n s P } _ { 2 }$ and PtdInsP species containing highly polyunsaturated acyl chains were also found in our study, such as 36:8 PtdInsP2, $4 0 { : } 1 0 \\ \\mathrm { P t d I n s P } _ { 2 } ,$ （20 $4 0 { : } 9 \\ \\mathrm { P t d I n s P } _ { 2 }$ (Supporting Information Figure S4C).To confirm the identified species of phosphoinositides，the $\\mathbf { M } \\mathbf { S } ^ { 3 }$ analysis of specific DAG+ ions was carried out to determine the fatty acyl composition of phosphoinositides. For example，as shown in Supporting Information Figure S5，both the fatty acyl chains of 40:10- $\\mathrm { P t d I n s P } _ { 2 }$ 0 $\\overset { \\cdot } { m } / z$ of 1133) were 20:5. Interestingly, we also found that the PtdIns,PtdInsP,and $\\mathrm { P t d I n s P } _ { 2 }$ species have similar fatty acid compositions (Figure 4).For example， the relative abundance (defined here as mol $\\%$ ）of PtdInsP/PtdInsP2 species with identical fatty acyl composition within each class was similar. We speculate that this might provide an opportunity for cells to achieve rapid interconversions between different phosphoinositide classes,though whether such rapid interconversions are really existed is still unclear.However, to determine whether such similarity is caused by interconversions occurring as a function of sample handling or in vivo processing，we designed experiment as shown in Supporting Information Figure S6.As shown in Supporting Information Figure S7，no conversions of phosphoinositide standards to more or less phosphorylated structures were detected in the three group samples. These results suggest that the interconversions occurring as a function of sample handling is neglectable in our case. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f7bb1aa17e1c6646fc8b8fe3b23929a69fdeffe117554ab06a8bbfb23e442e5.jpg",
+        "img_caption": [
+            "Figure 4.Relative abundance of different phosphoinositide molecular species identified from bovine brain extract within each class of PtdIns, PtdInsP, $\\mathrm { P t d I n s P } _ { 2 } ,$ and $\\mathrm { P t d I n s P } _ { 3 }$ .The relative abundance of each phosphoinositide specie,defined here as mol $\\%$ ，was calculated by dividing its peak intensity,including the overmethylated ones,by the summing peak intensity of phosphoinositide species detected within each class. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Profiling of Phosphoinositides from Different Cancer Cell Extracts.We next tested whether the $\\mathrm { D A G } ^ { + }$ -specific MPIS mentioned above can be used to analyze phosphoinositides directly extracted from cell cultures.To this end, three prostatic cancer cell lines，namely，PC3,C4-2B，as well as Dul45,were subjected to a rapid, yet comprehensive screening of phosphoinositides using our $\\mathrm { D A G } ^ { + }$ -specific MPIS.Asa result,we identified ${ \\sim } 9 0 \\$ phosphatidylinositol and phosphatidylinositol phosphate molecular species (Supporting Information Table S2). Supporting Information Figure S8 showed that the range of fatty acid chains in phosphoinositides of these cancer extracts was similar to that in brain extracts.However, the relative abundance of different phosphoinositide species in cultured cells differed from those analyzed from brain extracts. For example,the most abundant species detected in bovine brain extract were $3 8 { : } 4 \\ \\mathrm { P t d I n s P } _ { 2 } ,$ 38:3 PtdInsP, 34:1 PtdInsP, and $3 6 { : } 1 \\ \\mathrm { P t d I n s P } _ { 2 } ,$ comprising ${ \\sim } 3 7 , { \\sim } 1 7 , { \\sim } 8 ,$ and ${ \\sim } 6 ~ \\mathrm { m o l } ~ \\%$ of all identified PtdInsP species， respectively (Supporting Information Table S3).In contrast， the most abundant phosphoinositide species detected in C4-2B cell line were 38:4,36:1,36:2 and 38:3 fatty acyl species,which account for ${ \\sim } 1 9 , \\ { \\sim } 1 7 , \\ { \\sim } 1 4 ,$ and ${ \\sim } 1 2 ~ \\mathrm { \\ m o l } ~ \\%$ of all $\\mathrm { P t d I n s P } _ { 2 }$ species identified.Bovine brain has conspicuously higher levels of 38:4 series phosphoinositides compared with C4-2B cells,possibly because the serum used in cell culture is relatively low on 20:4 (arachidonate） or its metabolic precursor 18:2 (linoleic acid).This result is consistent with previous observation.1l ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Taken together, $\\mathrm { D A G ^ { + } }$ -specific MPIS provide a simple, fast, sensitive，and high-throughput approach for comprehensive ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "R1 R 0 0 CH3 R2 D R2 哈 0 TMS O 9 TMS-CHN2 T p-o ！ -° OIRH gc HH 8 CD2N2 CHJOTMSD2N2 4 613 P=O HH TMS 0 8 0 CD2N2 D2HC-O-β 0 O:p =0 0= P-0 \"-P-° D2HC-0 D2H CHD2 4 1 acid-catalyzed H/D exchange and methanolysis ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/45828be130eda5440413a8eae356d29502cbf18beac5033340230ee6e7fcfd3d.jpg",
+        "img_caption": [
+            "Figure 5.Scheme for isotopic labeling of phosphoinositides by phosphate methylation based on acid-catalyzed $\\mathrm { H } / \\mathrm { D }$ exchange and methanolysis of TMS-diazomethane. ",
+            "Figure6.Efciencyofisotopiclabelingofphosphonositideswithphosphatemethylationbydiazomethanegeneratedinsitu.Nounlabeled phosphoinositides were detected in the isotopically labeled samples，demonstrating the labeling was close to complete $^ *$ indicates skewed isotope distribution with one minor peak of a mass difference of $1 \\ \\mathrm { D a }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "profiling of phosphoinositide species from different biological sample，which should accelerate the elucidation of further molecular species of phosphoinositides across different cells, tissues and organisms. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Isotopic Labeling of Phosphoinositides Based on Phosphate Methylation.Previously，Kuhnel et al. showed that methyl-esterification of carboxylic acids by TMS-diazomethane/MeOH proceeds through in situ methanolytic liberation of diazomethane.16 In this reaction, carboxylic acid acts as a catalyst for the methanolysis of TMS-diazomethane, first as a general acid, then as a general base,in the generation of free diazomethane.It was shown that,by isotopic labeling, deuterated diazomethane $( \\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 } )$ can be generated by acidcatalyzed $\\mathrm { H } / \\mathrm { D }$ exchange and methanolysis，with the MeOD acting as a deuterium reservoir.The $\\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 }$ can then be used to label the carboxylic acid with ${ \\mathrm { - C H D } } _ { 2 }$ group. In addition, TMsdiazomethane enables relatively fast and clean esterification of protonated phosphate groups of phosphoinositides. We therefore reasoned that the phosphate methylation by TMSdiazomethane may behave in a similar way to that of carboxylic acid (Figure 5).These findings encouraged us to test MeOD/ DCl as a D reservoir during the isotopic labeling of phosphoinositides by TMS-diazomethane.It is reasonable to assume that when D-labeled heavy diazomethane was utilized instead of a light reagent,a mass increase should be detected by the mass analyzer，with such an increase being directly proportional to the amount of available phosphate groups in the phosphoinositides.Therefore，the larger the number of phosphate groups in a phosphoinositide,the larger the mass difference between the $^ 1 \\mathrm { H } \\cdot$ and the D-labeled isotopic pair can be identified.As shown in Figure 6,rapid and efficient phosphate methylation and isotopic labeling of phosphoinositides,either PtdInsP,or $\\mathrm { P t d I n d P } _ { 2 } ,$ or $\\mathrm { P t d I n d P } _ { 3 } ,$ with ${ \\mathrm { - C H D } } _ { 2 }$ groups was achieved.The mass differences between the $^ 1 \\mathrm { H } \\cdot$ and the D-labeled isotopic pairs of PtdInsP, $\\mathrm { P t d I n d P } _ { 2 } ,$ and $\\mathrm { P t d I n d P } _ { 3 }$ were 6，10，and $1 4 ~ \\mathrm { { \\ D a } } _ { \\mathrm { { ; } } }$ ，respectively. No unlabeled phosphoinositides were detected in the isotopically labeled samples,demonstrating that the process of generating $\\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 }$ and phosphate methylation of phosphoinositides was achieved close to completion.However，it should be noted that the isotopic cluster of D-methylated phosphoinositide shows the presence of one less abundant peak that is 1 mass unit smaller than the monoisotopic peak for the D-methylated phosphoinositide.For example, the labeled 38:4 PtdInsP and $\\mathrm { P t d I n s P } _ { 2 }$ $\\left( m / z \\right)$ of 1015 and 1l27，respectively）exhibited a skewed isotope distribution and one minor peak with mass difference of 1Da ( $\\dot { \\mathbf { \\Omega } } _ { m / z }$ of 1014 and 1126,respectively) (Figure 6,indicated by an asterisk).This is partly due to a small percentage of $\\mathrm { ^ { 1 } H }$ atoms in the D-marked MeOD reagent used in our experiments,as well as due to the effects of back-exchange during the generation of D-diazomethane. In addition, a small proportion of the resulting methyl ester would be $- \\mathrm { C D } _ { 3 }$ group, due to the $\\mathrm { H } / \\mathrm { D }$ exchange of acidic protons from the phosphate group with deuterium atoms that in the environment，because ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18:0/20:4-PtdlnsP2   \n88 1117.28 H/D=1:1 1127.35 B 100 1117.40 H/D=3:2 60 1127.42 40 1118.24 1126.401128.38 20 1118.33 1126.521128.42 0   \nCrerrienelarG 100 1116 1117.29 1118 1120 H/D=3:1 1122 1124 1126 1128 1130 D 100 1116 1118 1120 H/D=1:3 1122 1124 1126 1127.53 1128 1130 80 60 60 40 1127.25 40 1117.48 20 1118.31 1126.61 1128.78 20 1118.18 1126.38 1128.46 0 01 一 1116 1118 1120 1122 1124 1126 1128 1130 1116 1118 1120 1122 1124 1126 1128 1130   \nHeieegeler 100 1117.28 H/D=10:1 F 100. H/D=1:10 1127.45 80 80 60 60 42 1128.34 11126.1127.34 402 1117.51118.41 1126.551128.54 1116 1118 1120 1122 1124 1126 1128 1130 1116 1118 1120 1122 1124 1126 1128 1130 m/z m/z ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "previous studies had shown that two of the protons in the resulting methyl ester originate from the diazomethane and the other one is the“donated”acidic proton from the carboxylic acid (phosphate, in our case).16 Nonetheless,our results show that the use of TMS-diazomethane,with MeOD/DCl as a D reservoir, is feasible for isotopic labeling of phosphoinositides, which could then be employed for relative quantitation of phosphoinositides. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Development and Validation of the Quantitation Method. Quantitation of phosphoinositides using our method was simplified by the copresence of labeled and unlabeled phosphoinositides in a single $\\mathrm { D A G } ^ { + }$ -specific PIS spectrum，as the“light”and“heavy”labeled phosphoinositidesyielded an identical $\\mathrm { D A G ^ { + } }$ fragment ion during collision-induced dissociation (Supporting Information Figure S9).Therefore,it is possible to obtain ratios of phosphoinositides isolated at different conditions directly from the $\\mathrm { D A G ^ { + } }$ -specific PIS spectrum,as differences in the ion abundances between the isotopic pairs should reflecting differences in the concentration between the two conditions.The ratios can then be calculated from the peak heights of the monoisotopic masses of each component of the isotopic pair,expressed here as $\\mathrm { H } / \\mathrm { D }$ ratios. However，more cautions should be taken in our case.First, whether the overmethylated phosphoinositides to be included for the quantitative analysis? Our results show that,in most cases，the distribution of deuterium-labeled completed or overmethylated PtdInsP, $\\mathrm { P t d I n s P } _ { 2 } ,$ and $\\mathrm { P t d I n s P } _ { 3 }$ is similar to that of hydrogen-labeled ones.For instance,the Supporting Information Figure S1O shows that ratios of hydrogen/ deuterium-labeled overmethylated phosphoinositides with different fatty acyl chains were parallel with that of completed-methylated ones.In addition，as shown in Supporting Information Figure Sio，there was an overlap between the $^ 1 \\mathrm { H }$ -labeled $\\mathrm { P t d I n s P } _ { 2 }$ with two overmethylations and D-labeled $\\mathrm { P t d I n s P } _ { 2 }$ with one overmethylation,which might turn the quantitative analysis into a more complicated procedure.Furthermore,the overmethylated phosphoinositide peaks are more prone to noise interference than that of completed-methylated ones，especially for low-abundant phosphoinositides.Meanwhile,due to the paired comparison nature of isotopic labeling based relative quantitative analysis, overmethylated phosphoinositide peaks can be easily included for quantitative analysis if necessary. Therefore,we preferred to use the completed-methylated phosphoinositides for quantitative analysis.Second,as mentioned above,the height of the monoisotopic peak in the D-labeled phosphoinositide was affected by the presence of a small proportion of $\\mathrm { ^ { 1 } H }$ in the isotopic labeling reagent, as well as the effect of back-exchange during the generation of $\\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 }$ and $\\mathrm { H } / \\mathrm { D }$ exchange of acidic proton from the phosphate group. An alternative way to calculate the $\\mathrm { H } / \\mathrm { D }$ ratios was then taken,by calculating the sum of the heights of all the peaks of the isotopic distribution of each component of the isotopic pair. For example,the sum intensity of the peakscorresponding to unlabeled ( $\\dot { \\mathbf { \\Omega } } _ { m / z }$ of 1117, 1118 and 11i9）and labeled $( m / z$ of 1126,1127,1128 and 1129) $1 8 { : } 0 / 2 0 { : } 4 { \\mathrm { - P t d I n s P } } _ { 2 }$ was taken to calculate the $\\mathrm { H } / \\mathrm { D }$ ratio for unlabeled and labeled $1 8 { : } 0 / 2 0 { : } 4 { \\mathrm { - P t d I n s P } } _ { 2 }$ (monoisotopic $m / z$ of 1117 and 1l27，respectively).In addition，the derivatized $\\mathrm { P t d I n s P } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP，or PtdIns that has the same fatty acyl composition，regardless of the labeled or unlabeled forms，yielded a same $\\mathrm { \\ D A G ^ { + } }$ fragment ion.This allowed the simultaneous quantification of $\\mathrm { P t d I n s P } _ { 3 }$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP,and PtdIns in a single precursor ion scan (Supporting Information Figure S11). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To characterize the analytical properties and the accuracy of quantitation by phosphate methylation with $\\mathrm { C D } _ { 2 } \\mathrm { N } _ { 2 } ,$ the PC3 cell cultures were divided into several aliquots ( $( \\sim 5 \\times 1 0 ^ { 5 }$ cells/ aliquot） and separated into following proportions of cell volume,10:1,3:1, 3:2,1:1,1:3,and 1:10, before phosphoinositide extraction and separate labeling with either $^ { 1 } \\bar { \\mathrm { H } } .$ or Dlabeled diazomethane.Our results showed that the observed $\\mathrm { H } / \\mathrm { D }$ ratios were consistent with the theoretical ratios of $\\mathrm { P t d I n s P } _ { 3 } ,$ PtdInsP，and PtdInsP present in the mixture (Supporting Information Table S4)；the average CV from three replicates was $1 8 . 9 \\%$ .Figure 7 shows that the difference in signal intensity of the isotopic pair of the $3 8 { : } 4 ~ \\mathrm { P t d I n s P } _ { 2 }$ was found to be in good agreement with the theoretically expected ratios，with an average CV of less than $12 \\%$ from three replicates.To further illustrate the linearity of the actual ratios, measurements corresponding to data for the phosphoinositides at different $\\mathrm { H } / \\mathrm { D }$ proportions were plotted against their respective theoretical values. The resulting graph (Figure 8) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8d7c19a7abe20744f0bb18586c392295ab3cdd2b0659c2572f087dfeaf4e806.jpg",
+        "img_caption": [
+            "Figure 8.Comparison of the measured $\\mathrm { H } / \\mathrm { D }$ ratios with their respective theoretical values.A straight line $\\left( r ^ { 2 } = 0 . 9 9 \\right)$ was observed when the $\\mathrm { H } / \\mathrm { D }$ ratios of the $\\mathrm { P t d I n s P } _ { 2 }$ fromPC3 cell lines at different $\\mathrm { H } / \\mathrm { D }$ ratios were graphed against their theoretical $\\mathrm { H } / \\mathrm { D }$ mix ratios. Error bars represent the difference between the highest and the lowest values measured for each ratio. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "exhibited linearity with an $R ^ { 2 }$ of 0.99 and a slope of 1.03 for $\\mathrm { P t d I n s P } _ { 2 }$ species over a dynamic range that was close to 2 orders of magnitude.Similar linearity was observed for the isotopic pairs of the PtdInsP (Supporting Information Figure S12).For quantification of $\\mathrm { P t d I n s P } _ { 3 } ,$ caution is required.As shown in Figure S,there would be an overlap between the Dlabeled $\\mathrm { P t d I n s P } _ { 3 }$ （ $\\cdot + 1 4 \\mathrm { D } ,$ due to $1 4 \\mathrm { H / D }$ exchange happened in seven methyl groups）and the unlabeled but overmethylated $\\mathrm { P t d I n s P } _ { 3 }$ $\\left( + \\mathrm { C F } _ { 2 } \\right)$ in the $\\mathrm { D A G } ^ { + }$ -specific PIS spectrum. For example,the exact $m / z$ valueof thelabeled $3 8 { : } 4 ~ \\mathrm { P t d I n s P } _ { 3 }$ and unlabeled overmethylated $3 8 { : } 4 \\mathrm { P t d I n s P } _ { 3 }$ is 1239.65 and 1239.58，respectively. Therefore，the raw ratios of $\\mathrm { P t d I n s P } _ { 3 }$ were corrected with a factor of $- 0 . 3 5 ,$ as the intensity of the overmethylated form accounting for ${ \\sim } 3 5 \\%$ of completed methylated $\\mathrm { P t d I n s P } _ { 3 }$ (Figure 2).Alternatively, the quantifica tion of $\\mathrm { P t d I n s P } _ { 3 }$ can be carried out by high-resolution mass spectrometry，which is of the power to resolve the tiny mass difference mentioned above. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Potential Pitfalls in Quantitation of Phosphoinositides.Although very high accuracy for quantitation of a given phosphoinositides is possible under optimal conditions,there are several situations where quantitation accuracy could be compromised.An important issue that is common to all MSbased methods for quantitation is the signal-to-noise ratio(S/ N) for each of the two peaks used for comparison.For example, low-abundance phosphoinositide peaks may be barely above the noise threshold，which may receive an inordinate contribution of signal intensity from background “noise\"；the apparent ratio between the two peaks will therefore be less or more than the actual ratio.In contrast to metabolic labeling methods，efficiency of labeling，sample preparation biases introduced by slightly different purification conditions,such as differential losses of certain phosphoinositide subclasses in the organic phase during their extraction， may affect the phosphoinositide ratios,because the samples are mixed after separately extraction and labeling.However，such quantitation error can be corrected by inclusion of one ISD prior to lipid extraction and labeling. In addition,a strategy by considering both forward and reverse labeling for the control and treated samples for all the duplicates，as shown in Supportig Information Figure S13，was suggested for the relative quantitative analysis.This analysis could neglect effects coming from the usage of different labels. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results presented here demonstrate the feasibility of rapid profiling and relative quantitation of phosphoinositides by $\\bar { \\mathrm { D A G } } ^ { + } .$ -specific MPIS based on phosphate methylation and isotopic labeling bychemical derivatization with diazomethane. Our novel assay is not only rapid, simple,and sensitive,but also offers important advantages over existing methods for phosphoinositide measurement. First， the $\\mathrm { D A G } ^ { + }$ -specific MPIS enables the simultaneous identification of $\\mathrm { P t d I n s P } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP,and PtdIns in an efficient and time-saving manner，which provide a significantly greater throughput compared to most existing methods.Using our $\\mathrm { D A G ^ { + } }$ -specific MPIS strategy，we were able to identify more than 90 phosphoinositides from different biological samples，such as bovine brain extract as well as prostatic cancer cell cultures. Our $\\mathrm { D A G } ^ { + }$ -specific MPIS method, combined with isotopic labeling by diazomethane allows for simultaneous and precise relative quantification of $\\mathrm { P t d I n s P } _ { 3 } ,$ $\\mathrm { P t d I n s P } _ { 2 } ,$ PtdInsP，and PtdIns, without the need of multiple ISDs.Isotopic labeling based quantitation of phosphoinositides also minimizes matrix effects or run-to-run differences that could potentially affect results. The remaining limitation to identify regioisomers of polyphosphoinositides could be resolved by combining our method with the appropriate chromatographic separation methods. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ASSOCIATEDCONTENT ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\otimes$ Supporting Information ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Additional information as noted in text. This material is available free of charge via the Internet at http://pubs.acs.org. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AUTHORINFORMATION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Corresponding Author ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$^ { * } \\mathrm { E }$ -mail: fqyang@ibp.ac.cn. Phone: +86-10-6488-8581.Fax: $+ 8 6$ -10-6488-8581.   \nAuthor Contributions   \n$^ { \\perp } \\mathrm { T } . C .$ ， and Q.S.contributed equally to this work.   \nNotes   \nThe authors declare no competing financial interest. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank all members of the Yang lab for critical reading of the manuscript and excellent technical support. We thank Dr. Torsten Juelich for excellent language editing. This work was supported by grants from the National Basic Research Program of China (Grant Nos. 2010CB833703，2012CB966803, 2011CB915501，and 2014CBA02003)，the National Natural Science Foundation of China (Grant Nos. 90919047, 81028009,and 31100614)，and Novo Nordisk-CAS Research Foundation NNCAS-2011-1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)Martin,T.F.Annu. Rev. Cell Dev.Biol.1998,14,231-264.(2)Di Paolo,G.; De Camilli,P.Nature 2006,443,651-657.(3)Jones,D.R.;Varela-Nieto,I.Mol.Med.1999,5,505-514.(4)Pendaries,C.;Tronchere,H.; Plantavid,M.;Payrastre,B.FEBSLett. 2003,546,25-31.(5)Balla, T.Physiol.Rev.2013,93,1019-1137.(6)Guillou,H.； Stephens,L.R.；Hawkins,P.T.Methods Enzymol.2007,434,117-130.(7)Jones,D.R.; Ramirez,I.B.;Lowe,M.; Divecha,N.Nat.Protoc.2013,8,1058-1072.(8)Wenk,M.R.; Lucast,L.; Di Paolo,G.; Romanelli,A.J.; Suchy, S.F.; Nussbaum,R.L.; Cline,G.W.; Shulman, G.I.; McMurray,W.; DeCamilli, P.Nat. Biotechnol. 2003,21,813-817.(9)Milne, S.B.; Ivanova,P.T.; DeCamp,D.; Hsueh, R. C.; Brown,H.A.J.Lipid Res.2005,46,1796-1802.(10)Ivanova,P.T.； Milne, S.B.； Myers,D.S.; Brown,H.A.Curr.Opin Chem.Biol.2009,13,526-531.(11) Clark, J.；Anderson,K.E.; Juvin,V.； Smith,T. S.；Karpe,F.;Wakelam, M.J.; Stephens,L.R.; Hawkins,P.T.Nat. Methods 2011,8,267-272.(12）Ong,S.E.；Blagoev,B.； Kratchmarova,I.；Kristensen,D.B.;Steen,H.; Pandey,A.； Mann,M.Mol. Cell.Proteomics 2002,1,376-386.(13）Ross,P.L.；Huang, Y.N.； Marchese,J. N.；Williamson,B.;Parker,K.；Hattan, S.；Khainovski, N.； Pillai, S.； Dey, S.；Daniels,S.;Purkayastha，S.；Juhasz，P.；Martin，S.；Bartlet-Jones，M.；He，F.;Jacobson,A.; Pappin,D.J.Mol.Cell.Proteomics 2004,3,1154-1169.(14) Gray,A.; Olsson,H.; Batty,I.H.;Priganica,L.;Peter Downes,C.Anal.Biochem. 2003,313,234-245.(15)Han,X.; Gross,R.W.Mass Spectrom.Rev.2005,24,367-412.(16）Kuhnel,E.；Laffan，D.D.；Lloyd-Jones,G.C.；Martinez DelCampo,T.； Shepperson, I.R.； Slaughter, J.L.Angew. Chem., Int.Ed.2007,46,7075-7078.",
+        "page_idx": 8
+    }
+]

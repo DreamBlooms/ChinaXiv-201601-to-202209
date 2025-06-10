@@ -1,0 +1,678 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201609301980 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦丽欢,周敬祥,李叙勇,曾庆慧.密云水库上游径流变化趋势及影响因素.生态学报,2018,38(6)：1941-1951.QinLH,ZouJalssiscta(6)：1941-1951.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "密云水库上游径流变化趋势及影响因素",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦丽欢1,²，周敬祥³，李叙勇²,\\*，曾庆慧1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1中国科学院大学，北京100049  \n2中国科学院生态环境研究中心，城市与区域生态国家重点实验室，北京100085  \n3中交水运规划设计院有限公司，北京100007",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：对径流演变规律的认识和研究是水资源得到有效利用的前提。密云水库是北京市唯一的地表水源地，水库的正常运行对北京市供水安全有重要的意义。2015年9月,南水北调的水开始进入密云水库,对密云水库上游径流量的研究可以使南水北调的水与其相互配合,有效补充密云水库的水资源,研究上游河流的径流变化趋势很有必要。以密云水库白河(张家坟站)和潮河（下会站)水文站 1960—2014 年的月径流数据为基础,采用年内径流不均匀系数、滑动平均法、Mann-Kendall突变检验法、小波分析方法、双累积径流曲线法分析了密云水库人库径流的年内分配特征和年际变化特征,径流变化周期趋势及降雨和人类活动对径流变化的影响。结果表明;密云水库入流径流量主要分布在 $\\scriptstyle 7 - 9$ 月之间，占全年径流量的 $7 0 \\%$ ;白河流域年内径流变化较为剧烈。50年来白河与潮河径流量有减少趋势,递减率分别为 $3 . 2 4 \\mathrm { { m } ^ { 3 } \\ \\mathrm { { s } ^ { - 1 } ( \\ 1 0 a ) ^ { - 1 } \\tilde { \\ast } \\mathrm { { I } \\ell 1 . 6 0 \\mathrm { { m } ^ { 3 } \\ \\mathrm { { s } ^ { - 1 } ( \\ 1 0 a ) ^ { - 1 } } } } } }$ 。白河流域和潮河流域径流量存在周期为7a的变化特征。利用累积径流曲线分析降雨和人类活动对密云水库上游径流量的影响,结果表明人类活动是影响密云水库径流变化的主要原因，为 $7 1 . 3 6 \\% - 9 1 . 3 9 \\%$ ，其中白河流域受人类活动干扰更为剧烈。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：密云水库上游;径流;年内波动;小波分析;影响因素",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Attribution analysis of changes in runoff in the upstream of the Miyun Reservoir ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "QIN Lihuan1,²， ZHOU Jingxiang³，LI Xuyong²,\\* , ZENG Qinghui1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 University of Chinese Academy of Sciences， Beijing 100049, China   \n2StateKeboletefte   \n3ChinaCommunications Construction CompanyLimited，WaterTransportationConsultants Co.,Ltd，Beijingo,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Studying the trendsandlawsofrunof isfundamentaltothe properuseof waterresources.The Miyun Reservoir is the onlysurface water source in Beijing and is important to Beijing'swater supply.In September 2O15，water from SouthNorth Water Diversion Project （SNWDP）was added to the reservoir.Therefore，studying the runoffof upstream in Miyun Reservoir is more necessary forthe proper management of thereservoir than everbefore.As the amountof the water from SNWDP should supplement the runoffof the upstream，to know the trend of theupstream is necessary.Accordingly，the studyanalyzed the multi-temporal scalechangesandabruptchangeof therunof,theinfluence factorsoftherunoffof Zhang Jiafenand Xiahui stations from196Oto2014.The methodsoftrendanalysis,the moving average method,the Mann-Kendall method，wavelet analysis,the flowduration curve，and the double masscurve were used.Theresults indicated thatthe runoff in Miyun Basin mainly concentrated in July to September,accounting for $70 \\%$ of the annual runoff,and runoff in the Baihe Basin changed more significantly than thatof the Chaohe Basin.From196O to 2O14，theamount of runoff slowly decreased at the rate of 3.24 and $1 . 6 0 \\mathrm { { m } ^ { 3 } \\mathrm { ~ s } ^ { - 1 } ( 1 0 \\mathrm { ~ a } ) ^ { - 1 } }$ in Baihe and Chahe respectively，,and the runoff in Baihe and Chaohe ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Basin both showed change period of $\\mathrm { 7 a }$ .The results of double mass analysis indicated that the reduction of runof in Miyun Basin can mainly be atributed to human activities ( $7 1 . 3 6 { \\ - - } 9 1 . 3 9 \\%$ ），and the Baihe Basin was disturbed much greater by human activities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words：Miyun basin upstream；runoff；annual change；Morlet wavelet； factor",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "河川径流的变化是气候、地貌、土壤及人类活动共同作用的结果[1]。分析河川径流量的时间变化特征、周期规律以及影响因素,对了解水资源特性,从而更好的开发利用水资源有重要的意义[2]。尤其我国北方地区,水资源已是制约社会经济发展的关键因素[3]。密云水库是北京市目前唯一的地表饮用水源地,上游入库径流的变化对其水量有重要的影响,分析评价密云水库入库径流的年际变化及周期性演变趋势、识别影响径流变化的因素对优化密云水库水资源调度,可为北京市饮用水保障提供有利的科学依据。／",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前对密云水库上游流域展开的研究采用的方法主要有统计经验公式法[4]、水文模型法,分为集总式模型[5]和分布式模型[6]。Li等[4]采用M-K检验的方法分析了潮河流域降雨和径流的变化趋势,表明人类活动对径流变化产生重要的影响;孙宁等[5]利用IHACRES 模型分析了土地利用变化和覆被对潮河流域径流的影响,结果表明,土地利用和覆被变化减少了流域年径流;郭军庭等[6]利用 SWAT模型分析了潮河流域径流对气候变化和土地利用变化的响应特征,结果表明,气候变化对年径流量的影响较大。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而这些研究将研究区域集中在潮河流域[5-7],对白河流域径流特征的研究较少。特别是对影响密云水库径流量的影响因素仍然存在争议,Wang 等[8]认为潮白河流域1980年前后径流减少的主要原因是人类活动0 $6 8 \\% - 7 0 \\%$ ）,而气候变化是次要原因 $( 3 0 \\% - 3 2 \\% ) _ { \\mathrm { ~ o ~ } }$ 因此,人类活动对潮河流域径流减少起决定因素。而Ma等9认为潮白河流域径流下降的原因主要是气候变化( $5 5 \\% - 5 1 \\%$ ),而人类活动对径流下降的影响只有$1 8 \\%$ 。特别是密云水库担任南水北调进京水量调蓄的重要任务,通过对上游来水量的径流特征深入了解,对南水北调入库流量的科学调度有重要的意义。因此。有必要对密云水库白河和潮河流域的径流变化趋势和影响因素进行分析和比较,这对高效和合理管理密云水库有重要作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区域概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "密云水库( $\\mathrm { 4 0 ^ { \\circ } 2 9 . 0 ^ { \\prime } - 4 0 ^ { \\circ } 3 0 . 5 ^ { \\prime } N , ~ 1 1 6 ^ { \\circ } 5 0 . 0 ^ { \\prime } - 1 1 7 ^ { \\circ } 3 . 5 ^ { \\prime } E } )$ 位于北京北部,建成于1960 年,是以综合防洪、供水为目的的大型水利工程[10],总库容为43.7亿 $\\mathbf { m } ^ { 3 [ 1 1 ] }$ 。白河和潮河是密云水库主要的入库河流（图1）,其中,白马关河、蛇渔川河是白河的主要支流;红门川河、清水河、安达木河、虻牛河、汤河是潮河的主要支流。安达木河上建有遥桥峪水库,虻牛河中游建有半城子水库。流域控制流域面积 $1 5 7 8 8 \\mathrm { k m } ^ { 2 }$ ,属于半干旱半湿润的大陆性季风气候，降水主要分布在汛期（7一9月），占总降水量的 $8 0 \\%$ 。流域的主要土壤类型为褐土和棕壤,主要植被覆盖类型是针阔叶混交林[12]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据来源和研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "径流量资料来源于密云水库管理处,包含白河与潮河的流域出口张家坟和下会两个水文站的月径流资料,径流系列长度为1960—2014 年。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用的研究方法包括不均匀系数法分析年内径流量的变化趋势,利用滑动平均法分析径流量的年际变化趋势,采用M-K突变分析法确定径流突变点,利用Molert小波分析50年来密云水库径流的周期性变化，并通过对周期性的显著性检验,确定主周期。利用降水-径流双累积曲线分析和揭示降水和人类活动对径流的影响阶段性变化,从而得到降水变化和人类活动变化对径流的贡献,具体流程见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/09737166f2a1b2d2acb65c7003eec872eb12611882a8d3955d934879c16385d4.jpg",
+        "img_caption": [
+            "图1 密云水库位置图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 年内变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "径流量年内不均匀系数可以通过公式(1)一公式(3)进行计算。 1",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $R _ { a v e r a g e }$ 为月平均径流量（亿 $\\mathbf { m } ^ { 3 }$ ）， $R _ { i }$ 为第 $\\mathbf { \\chi } _ { i }$ 月的径流量(亿 $\\mathbf { m } ^ { 3 } ) , \\alpha$ 为均方差系数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2年际变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水文序列的随机波动性使得难以从序列本身判断出其变化趋势。滑动平均法可以消除波动的影响,通过对原序列的光滑化处理，即对序列的几个前期值和后期值取平均，得到新的序列，通过新序列判断水文变化的趋势性具有直观和明显的优势[13]。利用公式(4)进行计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0506c1dcdba744f6823ce474adeb44cda742fbc73eb50d47200e600527ea18ba.jpg",
+        "img_caption": [
+            "Fig.1The location of Miyun Reservoir ",
+            "图2密云水库径流特征分析流程图",
+            "Fig.2The flow chart of the analysis method of Miyun runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { j } = { \\frac { 1 } { k } } \\sum _ { i = 1 } ^ { k } x _ { i + j - 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中， $k$ 为滑动长度 $, j = ( 1 , 2 , 3 , \\cdots , n { - } k { + } 1 )$ （20",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3突变分析-Mann-Kendall非参数统计检验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mann-Kendall非参数统计检验方法,可进行径流量趋势的检验,其优点在于样本不必遵循某一特定规律，也不受个别异常值干扰,能客观表征样本序列的整体变化趋势[14]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设某一时间序列 $X _ { i }$ 具有 $\\mathbf { \\Omega } _ { n }$ 个样本量，构造该时间序列的秩序列：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { k } = \\sum _ { i = 1 } ^ { k } r _ { i } \\ \\left( K = 1 , 2 \\cdots , n \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i } = \\left\\{ { \\begin{array} { l l } { 1 } & { x _ { i } > x _ { j } } \\\\ { 0 } & { x _ { i } < x _ { j } } \\end{array} } \\right. \\quad ( j = 1 , 2 , \\cdots , i )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "秩序列 $S _ { k }$ 表示第 $i$ 时刻序列值大于 $j$ 时刻序列值的个数之和。当 $x _ { 1 } , x _ { 2 } , \\cdots , x _ { n }$ 相互独立且连续同分布时，定义统计量： (S7℃",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU F _ { \\mathrm { \\Lambda } _ { k } } = \\frac { [ S _ { k } - E ( S _ { k } ) ] } { \\sqrt { V a r ( S _ { k } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE ( S _ { k } ) = \\frac { n ( n - 1 ) } { 4 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $k = 2 , \\cdots , n ; n$ 为样本数; $U F _ { k }$ 为M-K统计量,且 $U F _ { 1 } = \\beta$ 且 $\\boldsymbol { U } \\boldsymbol { F } _ { i }$ 服从正态分布； $E ( S _ { k } )$ 和 $\\mathrm { V a r } ( S _ { k } )$ 分别是累计数 $S _ { k }$ 的均值和方差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取显著水平 $\\mathbf { \\Psi } _ { a }$ ,若 $\\mid U F _ { i } \\mid > U _ { a }$ （其中， $\\mathrm { U } _ { 0 . 0 5 } = \\pm 1 . 9 6 , \\mathrm { U } _ { 0 . 0 1 } = \\pm 2 . 5 7 )$ ,则说明序列趋势线显著。 $U F _ { i }$ 为正时,表明序列呈上升趋势,否则呈下降趋势,且其绝对值越大表明序列变化趋势越显著。将时间序列逆序,重复M-K的计算过程,得到逆序列M-K统计值 $\\mathrm { U B } _ { k }$ ，当统计量序列曲线出现交点,且交点在临界线之间时,此时交点所在的年份即为可能发生突变的时间[15]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 周期性变化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于水文演变时序是多时间尺度的持续过程[16],而传统的分析水文要素周期变化特征的方法对揭示其多时间尺度特征存在局限性,不能揭示水文要素多时间尺度的特征[13],而小波分析在研究不同时间尺度变换及对信号的自适应方面具有优势。因此采用小波分析的方式确定密云水库白河与潮河入库径流量的周期性变化。主要的小波函数有 Daubechies 小波、Meyer 小波、Mexicanhat 小波、Symlet 小波、Morlet 小波等[17]。其中Morlet 小波在水文周期性序列上较为常用[18]。Morlet 小波函数为复数小波,表达式如下[19]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi ( t ) = e ^ { i c t } e ^ { - t ^ { 2 } / 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { c }$ 为常数,i为虚部。小波变换是对于基本小波函数做位移后,再对不同尺度时域下的需要进行分析的信号做内积。任意函数 $f ( t ) \\in L ^ { 2 } ( R ) , L ^ { 2 } ( R )$ 表示平方可积的实数空间。 $f ( t )$ 连续小波变换的表达式为公式(1NN",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { f } ( a , b ) = \\mid a \\mid ^ { \\frac { - 1 } { 2 } } \\int f ( t ) \\overline { { { \\Psi } } } ( \\frac { t - b } { a } ) d t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "J7 $\\mathbb { W } _ { f } ( a , \\ b )$ 小波变化系数随 $^ { a , b }$ 变化,可作出以 $b$ 为横坐标, $\\mathbf { \\alpha } _ { a }$ 为纵坐标的二维小波系数 $W _ { f } ( a , b )$ 等值线图。而正负小波系数的突变点则为突变点。在时间域上对关于 $\\mathbf { a }$ 的所有小波系数的平方进行积分,得到小波方差,见公式(12）,反映了波动能量在时间尺度的分布情况,从而确定时间序列下的主周期[19]。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { v a r } ( a ) = \\int _ { - \\infty } ^ { + \\infty } \\mid w _ { f } ( a , b ) \\mid ^ { 2 } d b\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 双累积曲线法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "双累积曲线是研究两个参数间的关系一致性及变化的常用方法。通过在直角坐标系中绘制一个变量的连续累积值与另一个变量的连续累积值的关系线,分析获得两参数间关系的一种常用的分析方法[20]。其斜率的变化可以作为变量间关系发生变化的指示,拐点出现的时间则为变量间关系发生明显变化的年份[7]。该方法是目前在水文气象要素一致性或长期演变趋势分析中最简单、直观和广泛应用的分析方法[18]。当只有降水的变化而无其他因素影响时,降雨-径流双累积曲线应为一条直线,而当有人类活动等其他因素影响时,曲线将发生偏移。因此,可根据曲线发生偏移的年代确定下垫面受人类活动影响的时间,而根据偏移程度可推断人类活动对径流影响的剧烈程度。因此,降雨-径流的双累积曲线可以反应人类活动对径流影响的阶段性特征[21]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "双累积曲线具体的计算过程如下[22]：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)首先将双累积曲线斜率未发生偏移的时期作为未受人类活动干扰的基础期,建立基准期降雨量 ΣP和累积径流量 $\\textstyle \\sum Q$ 的相关方程(13)：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum P = k \\sum Q + b\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2)在假设变化期与基准期的气候变化同步的前提下,公式(14)得到的变化期模拟径流与实测径流的差值即为径流受人类活动影响的变化量",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta Q ^ { \\mathrm { h u m a n } } = { \\mathrm { m e a n } } ( \\ Q _ { _ { 2 c } } ) \\ - { \\mathrm { m e a n } } ( \\ Q _ { _ { 2 m } } ) { } ~ 2\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)变化期实测径流与基准期实测径流的差值为径流受气候变化与人类活动共同影响的变化量由公式15)可得",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta Q = \\mathrm { m e a n } ( { \\theta } _ { 2 m } ) - \\mathrm { m e a n } ( Q _ { 1 c } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(14）、（15)式中，下标 $c , m$ 分别代表模拟值和实测值， $^ { 1 , 2 }$ 分别代表基准期和变化期。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1径流量的年内和年际分配特征",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 年内不均匀系数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3展示了密云水库潮河与白河的水文监测站点1960—2014年的入库平均径流流量。张家坟和下会水文站径流量的季节性变化特征一致，主汛期7一9月份径流量较大，在 $1 2 . 3 { \\mathrm { - } } 3 9 . 1 { \\mathrm { m } } ^ { 3 } / { \\mathrm { s } }$ 之间;而其他月份径流量则在1.3— $1 2 . 0 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ 之间。两个站作比对,可见张家坟站的月平均流量为 $8 . 2 8 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ 是下会站的月平均流量为 $5 . 7 1 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ 的1.45倍。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用不均匀系数可以有效反应径流量的年内分配特征。图4展示了张家坟站和下会站不均匀系数计算结果。张家坟站不均匀系数波动性较大，在0.20—1.80之间，说明该站径流量的年内变化较大，而下会站径流的不均匀系数在 $0 . 0 4 { \\ - - } 0 . 6 8$ 之间。潮河流域的入库径流年内变化比白河流域人库径流小，不均匀系数显著相关 $( P { < } 0 . 0 1 ) _ { \\circ } {  }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2年际变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用5年滑动平均[23]分别对下会站和张家坟站径流量的年际变化进行分析，如图5、图6所示。50年来，白河流域和潮河流域入库量在线性趋势上上有减少的",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/20f2a6b79f144a6fc9c3b400ee96e14fcca4c0c402c1912869826c138499b87d.jpg",
+        "img_caption": [
+            "图3年张家坟和下会站月平均流量",
+            "Fig.3The monthly runoff of Zhang Jiafen and Xiahui station "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "趋势,而在20世纪70年代和20 世纪90年代的径流量有增加的趋势,20世纪60年代、80年代和2000年以来径流量有减少趋势。其中从图5、图6中可得,潮河流域和白河流域的入库径流量在1973年、1974年达到最大值,分别为 $2 8 . 1 \\cdot 4 2 . 4 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ 。而最小值两个水文站发生在2002 年,其中下会站为 $1 . 8 6 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ ,张家坟站为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$2 . 2 \\mathrm { m } ^ { 3 } / \\mathrm { s }$ 。密云水库50年来入库径流量呈减少趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/02444a8056bb94eb43d87540f1ed72b3d795f44e26dff07c453d4f5ee6ad018d.jpg",
+        "img_caption": [
+            "Fig.4Unevenness of annual runoff distribution of Zhang Jiafen and Xiahui Station from 196o to 2014 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/14515116fc2bdcc763de7001c8da7ddd177a44f1ab083f3b4a34d7944bae7d41.jpg",
+        "img_caption": [
+            "图41960—2014年张家坟和下会站不均匀系数",
+            "图5潮河流域年径流量变化及5年滑动平均"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3002b7386b41f29219e5ded5c4b1b9cbcb29302edd09bf497bc89b0217594ec0.jpg",
+        "img_caption": [
+            "Fig.5Runoff variation of Chao River basin and 5a Moving-Average ",
+            "图6白河流域年径流量变化及5年滑动平均",
+            "Fig.6Runoff variation of Bai River basin and 5a Moving-Average "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 突变分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用Mann-Kendall 法检验分析了在显著性水平 $\\alpha = 0 . 0 5$ 下密云水库入库的水文站点张家坟站(白河)和下会站（潮河)1960—2014年径流变化趋势(图7,图8)。张家坟站和下会站径流分别在20 世纪60年代初经",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "历短暂的下降,然后进入径流量增加的阶段,该过程一直持续到20世纪80年代,随后径流量急剧下降,其中张家坟站在1987年发生突变,下会站则在在1998 年发生突变。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea6829ffad8590230a52b3b1b30868fdb64f88e39fed2c12adf916f14cec81cc.jpg",
+        "img_caption": [
+            "图7张家坟站径流Mann-Kendall突变分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec4d047c3ab82a2f81409fd45373df6fc1ce217533a57f60f3c3a50c2fda8d9b.jpg",
+        "img_caption": [
+            "Fig.7The Mann-Kendall abrupt change test on runoff of Zhang Jiafen Station ",
+            "图8下会站径流Mann-Kendall突变分析",
+            "Fig.8The Mann-Kendall abrupt change test on runoff of Xiahui Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UF：表示M-K顺序统计值；UB：表示M-K逆序统计值",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UF：表示M-K顺序统计值；UB：表示M-K逆序统计值",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3 周期性变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "采用 Morlet小波对密云水库白河和潮河流域50年来年径流量进行周期演变分析。分别得到白河张家坟站、潮河下会站小波变换系数实部图(图9,图11)和小波方差图(图10,图12）。小波系数的变化特征可以用来表征年径流量的变化特征。当小波系数实部为正值时,代表丰水期,负值代表枯水期,而小波系数实部为0时,则表示年径流从丰水期转为枯水期或由枯水期转为丰水期的转折点[24]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图9可见,白河流域年径流量变化主要存在5—8a,14—18a周期振荡。在5—8a的特征尺度下,丰枯交替特别频繁,并以7a 为振荡中心。主要集中在 20 世纪60年代—20世纪90年代之间,其中 20 世纪60 年代—20 世纪80年代经历了强烈的丰-枯交替转变过程。14—18a特征尺度下,主要集中在20 世纪90 年代以后,震荡中心在17a左右。而通过图10,白河流域存在7a和14a两个主周期。其中在7a的小波方差值最大，是第一主周期。图11是潮河流域年径流量变化情况,主要存在5—8a的周期振荡,14—18a 周期振荡不明显。与白河流域年径流量变化特征类似,在5—8a存在丰枯频繁交替的现象,以7a为振荡中心,在20 世纪60 年",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/72385f731f21a78f51bb7c9aaa58773ec7ba2bfa270b7d294c3bdbd31b431805.jpg",
+        "img_caption": [
+            "图9白河流域张家坟站小波变换系数实部图",
+            "Fig.9The contours of the real part of Morlet wavelet coefficients of runoff in Bai River basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "代—20 世纪70 年代经历了对比强烈的丰-枯交替转变过程。而结合白河流域年径流量小波方差图（图10），只存在7a的主周期,14a峰值并不明显。因此认为,白河流域年径流量第一主周期为 $\\mathrm { 7 a }$ 。因此,对于白河和潮河两个密云水库主要入库河流来说,径流变化趋势既有类似之处同时也存在着差异。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4密云水库入库径流量变化驱动因子分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "影响径流量的因素主要包含两个方面，一是自然因素，二是人类活动。自然因素主要包含地形、土壤等下垫面条件和气候条件，一般认为下垫面在一定时间尺度上是不发生改变的，因此自然因素主要考虑的是气候因素如降雨对径流量的影响。人类活动主要包括取用水、水利工程和土地利用等方面[25]。因此,采用了降水-径流双累积曲线对降雨和人类活动对密云水库入库径流量的影响进行分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图13为白河流域降水-径流双累积曲线。根据径流-降雨双累积曲线的斜率发生变化的位置确定1973年和1996年为突变点，将白河流域径流序列分为",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/39470b4dba2d1366a685ec2fb6dbcf61dfa7418a612ea56d4b4c5266d955d1d7.jpg",
+        "img_caption": [
+            "图10白河流域张家坟站小波方差"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ec27ac07f457a76262ed52a2a54487129a6d93af364b67c09dbfbfb5b081941.jpg",
+        "img_caption": [
+            "图11潮河流域下会站小波变换系数实部图",
+            "Fig.11The contours of the real part of Morlet wavelet coefficients of annual runoff in Chao River basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1960—1973年,1974—1996年, $1 9 9 7 - 2 0 1 4$ 年3个阶段。其中，第一阶段1960—1973年可以作为白河流域径流序列的基准期。从三阶段的降水-径流双累积曲线的拟合方程中，双累积的曲线斜率从基准期的0.871下降到0.300，衰减率为 $6 5 . 5 \\%$ ，表明人类活动对白河流域的径流产生极大的影响。图14是潮河流域降雨-径流双累积曲线。同白河流域径流趋势类似，潮河流域下会站的径流曲线突变点为1972年和1997年，将第一阶段1960一1971年作为基准期，其他两个阶段表示了人类活动对径流的影响。通过对双累积曲线方程进行线性拟合,得到各阶段双累积曲线的斜率,潮河流域基准期的斜率为0.4443而第三阶段的斜率则下降至0.1469，衰减率为 $6 6 . 9 \\%$ 。可见人类活动对潮河流域径流同样有巨大的影响。表1列出了人类活动及降雨对密云水库白河和潮河流域径流量的影响。表明潮河流域和白河流域径流量有减少趋势。白河流域人库流量从1960—1973 年的5.98亿 $\\mathbf { m } ^ { 3 }$ ,减少到1997—2014 年的2.07亿 $\\mathbf { m } ^ { 3 }$ ,减少了 $6 5 . 3 8 \\%$ 。而潮河流域入库流量则从",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c61f4389fe6403c1cb995fe9a50bbba62a96508bd2b870548529cdde5e64cac.jpg",
+        "img_caption": [
+            "Fig.10The wavelet variances of annual runoff in Bai River basin ",
+            "图12潮河流域下会站小波方差",
+            "Fig.12The wavelet variances of annual runoff in Chao River basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2亿 $\\mathbf { m } ^ { 3 }$ (1960—1971年)减少到1.19亿 $\\mathbf { m } ^ { 3 }$ (1998—2014年)减少了 $6 2 . 8 1 \\%$ 。白河流域入库径流量减少幅度更为明显。通过对潮白河流域突变期的分析,分别得到了降雨和人类活动对入库径流的影响比例（表1）。降雨和人类活动对白河入库两个突变期的径流的影响在 $8 . 2 1 \\%$ 、 $1 0 . 1 0 \\%$ 和 $9 1 . 9 0 \\% . 8 9 . 9 0 \\%$ ;对潮河流域的影响分别在 $2 2 . 6 0 \\%$ （204号 $. 2 7 . 6 4 \\%$ 和 $7 7 . 4 0 \\% . 7 2 . 3 6 \\%$ 。因此,人类活动可能是导致密云水库入库径流减少的主要因素。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "16000-O-1960—1971年14000 -1972—1997年(unoX)/Jinn 12000 1998—2014年喜 10000y= 0.1469x+8123.78000 R²=0.98936000 y= 0.392x + 1476.8R²=0.988240002000 y =0.4443x-23.033R²= 0.99600 10000 20000 30000 40000降雨量Rainfall/mm",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3b2201effc3325641207ff8ab4eb4fc41a63cae6606a5c7be06b9d09c5b3440.jpg",
+        "img_caption": [
+            "图13白河流域张家坟站双累积径流曲线",
+            "Fig.13 Double mass curve of the precipitation and runoff in Bai River ",
+            "图14潮河流域下会站双累积径流曲线图",
+            "Fig.14Double mass curve of the precipitation and runoff in Chao River "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/df9c3f82cce4f18dce51b9dd4849d244a55bda773082d01ff58ede30471d2377.jpg",
+        "table_caption": [
+            "表1人类活动及降水变化对密云水库入库径流量的影响(10m）",
+            "ble 1Influence of precipitation and human activities on runof decline in the upper reaches of the Miyun River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">W流ed</td><td rowspan=\"2\">水文站 Hydrologic station</td><td rowspan=\"2\">时间序列</td><td rowspan=\"2\">实测 Measured value</td><td>模拟 Simulation</td><td colspan=\"2\">降雨 Precipitation</td><td colspan=\"2\">人类活动 Human activities</td></tr><tr><td>value</td><td>变化量 Change value</td><td>比例/%</td><td>变化量</td><td>比例/%</td></tr><tr><td>白河</td><td>张家坟</td><td>1960—1973</td><td>598.73</td><td>598.73</td><td></td><td>Ratio</td><td>Change value</td><td>Ratio</td></tr><tr><td></td><td></td><td>1974—1996</td><td>430.32</td><td>584.91</td><td>-13.82</td><td>8.21</td><td>-154.59</td><td>91.79</td></tr><tr><td></td><td></td><td>1997—2014</td><td>207.35</td><td>546.79</td><td>-38.12</td><td>10.10</td><td>-339.44</td><td>89.90</td></tr><tr><td>潮河</td><td>下会</td><td>1960—1971</td><td>320.72</td><td>320.72</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1972—1997</td><td>209.17</td><td>295.51</td><td>-25.21</td><td>22.60%</td><td>-86.34</td><td>77.40</td></tr><tr><td></td><td></td><td>1998- -2014</td><td>118.93</td><td>264.95</td><td>-55.77</td><td>27.64%</td><td>-146.02</td><td>72.36</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1降雨对径流影响分析",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "密云水库白河流域和潮河流域径流具有年内分配不均匀的特性,在年际变化中径流量有缓慢减少的趋势。高迎春等[26]研究以长时间序列降雨和径流的数据进行分析,发现随着时间的向后推移,降雨与径流之间的关系逐渐减弱。而降雨在相同时间尺度上并没有发生明显的变化，降雨对径流的影响比例变化不大（如白河流域从第二阶段的 $8 . 2 1 \\%$ 变化为第三阶段的 $1 0 . 1 0 \\%$ )（表1)，从这一方面可以推断，降雨可能不是影响径流量变化的关键因素。根据表1中结果,降雨对潮河流域径流减少的影响在1974—1996 年和1997—2014 年两个阶段分别为 $2 2 . 6 0 \\%$ 和 $2 7 . 6 4 \\%$ 。李子君和李秀彬[27]通过分析降雨和径流变化的一致性也得到密云水库潮河流域径流减少受降雨影响较小的结论。而对降雨对白河流域的影响 1974-1996年和1997—2014 年两个阶段分别为 $8 . 2 1 \\%$ 和 $1 0 . 1 0 \\%$ 。王静怡等[28]同样通过分析入库径流和降雨的关系中进一步断定,降雨不是决定径流变化的单一因素。王巧平等[29]在海河流域研究了人类活动对径流的影响,结果表明,降雨能够影响该流域径流量的减少,但不是主要因素。对海河流域而言,降雨主要集中在7、8月份,产流也主要由汛期的几次大的降雨形成,影响产流的因素主要来自于土壤吸水、植物蒸散发,填洼等损失。由于雨期的蒸发量可以忽略不计,而下垫面的变化对降雨的影响可以忽略不计,因此,地表径流的变化主要来自人类活动引起地表植被改",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "变蒸腾作用的等方面的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2人类活动对径流影响分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "人类活动如土地利用变化、水库的拦截以及跨流域的水库补水是导致径流变化的主要原因。如表1中所示，人类活动对白河流域、潮河流域影响分别在 $8 9 . 9 0 \\% - 9 1 . 7 9 \\%$ 和 $7 2 . 3 6 \\% - 7 7 . 4 0 \\%$ 。通过对流域内赤峰县、丰宁县和深平县的人类活动用水量进行统计,发现1985—2015 年间用水量呈增加趋势,总用水量从0.02 亿$\\mathbf { m } ^ { 3 }$ 增加到0.14亿 $\\mathbf { m } ^ { 3 [ 1 2 ] }$ 。因此流域用水量的增加,导致潮白河径流量的减少。同时,密云水库流域从1990—2010 年间,土地利用类型发生了重大的转变,农田、草地和水体的面积分别减少了 $3 0 \\% . 4 8 \\% . 6 1 \\%$ ,林地增加了 $3 0 \\%$ 。由于林地相比农田和草地具有较强的水分蒸腾作用,导致径流量减少[30]。而小流域的综合治理提高了植被覆盖率,增加了植被的截流量,因此植物截留量、土壤持水量及蒸散发量等的增大,使得径流量减少[29],与此同时,密云水库上游有26 座水库,总库容达1.325 亿 $\\mathbf { m } ^ { 3 [ 3 1 ] }$ ,水库会在一定程度上增加蒸发损失和渗漏量,从而减少径流量。除此之外,流域内水库向流域外调水,也在一定程度上减少径流。如白河流域的白河堡水库承担防洪灌溉的功能外,还向流域外的官厅水库补水,平均每年补水量达0.78 亿 $\\mathbf { m } ^ { 3 }$ ;向十三陵水库平均每年补水 $0 . 1 \\mathrm { m } ^ { 3 [ 2 5 ] }$ ,这样向流域外水库补水的过程,在一定程度上减少潮白河流域的径流量。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3南水北调重大调水工程影响下，密云水库水量调度的启示",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "密云水库在南水北调工程中起到了对进京水量调蓄的作用,并于2015年9月开始接纳南水进入,蓄水量得到了明显的补给,水位一度上升至 $1 4 0 \\mathrm { m }$ 。南水北调之水进入密云水库，一方面缓解了水库的供水压力，有效补充了水库的水量,另一方面也为水库运行带来风险。通过对上游径流变化特征的研究,将其与南水北调入库调蓄流量结合起来,丰水年的汛期结合小调水量,枯水年非汛期结合大调水量。这样可以有效协调和发挥上游入库径流和南水北调之水的特性和优势,保证密云水库正常的蓄水供水功能。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "潮河和白河作为密云水库上游两条主要的人库河流,对密云水库有重要的影响和作用。本文分别对潮河流域和白河流域径流进行了分析比较，结论如下：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)从 50年径流数据中可以看出,潮河与白河的径流量年内分配不均匀的情况,主要的径流量多集中在汛期（7—9月），汛期径流量占全年比例 $7 0 \\%$ 。与潮河流域径流量相比,白河流域的年内变化更为剧烈,径流量减少趋势更为明显。(2)白河与潮河流域径流都具有周期性的变化,其中白河流域径流存在7a和17a的周期,而潮河流域径流周期为7a。(3)通过对降雨和人类活动对密云水库径流量的影响分析,结果表明白河流域径流受到人类活动变化更为剧烈。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］乔木，周生斌，卢磊.艾比湖流域年径流变化特征分析.水土保持学报，2010,24(6)：236-239.  \n[2] 刘艺，雷晓云，马红刚，邢坤，吕姣姣.巴音沟河近 60年出山口年径流量演变规律.水土保持研究，2016，23（2)：139-142.  \n3 魏玲玲，李万明.干旱区水资源与经济发展要素时空匹配实证——以新疆地区为例.求索，2014，（3)：55-59.  \n4]LiJ,LiX,uZpactsofterseacdiloseatioeasuesoaloffineaohveriuing6-2005.Journal of Geographical Sciences，2010,20(6）：947-960.  \n[5] 孙宁，李秀彬，李子君，余新晓.潮河上游土地利用/覆被变化对年径流影响模拟.北京林业大学学报，2008，30（S2）：22-30  \n[6］郭军庭，张志强，王盛萍,PeterS，姚安坤.应用SWAT模型研究潮河流域土地利用和气候变化对径流的影响.生态学报，2014，34（6)：1559-1567.  \n[7］杨默远，桑燕芳，王中根，刘昌明.潮河流域降水—径流关系变化及驱动因子识别.地理研究，2014，33（9)：1658-1667.  \n[8]WagGS,XiaJenJQantifcioofetsoflatevaratiosndunactisounoffbyonthlateblaeelestudyof teChaobaiRiverbasininnorthernChina.WaterResourcesResearch,2009,45（7）：WOA11,doi：0.1029/2007WR006768[9]MaH,YangDWTanSK,GaB,HuQF.ImpactofclimatevariabilityandhumanactityonstreaflowdecreaseintheMunResevoicatchment.Journal of Hydrology，2010,389( $3 / 4$ ）：317-324.  \n[10］钟永华，鲁帆，易忠，赵静.密云水库以上流域年径流变化趋势及周期分析.水文，2013,33(6)：81-84.  \n[11］段新光，郝丽娟，栾芳芳.密云水库流域降水量与径流量特征分析.北京水务，2013，（1)：38-41.  \n[12］李子君，李秀彬.潮白河上游 1961—2005 年径流变化趋势及原因分析.北京林业大学学报，2008，30（S2）：82-87.  \n［13］郭亚男.岚河流域径流变化规律及其影响因素分析[D].郑州：郑州大学，2013.  \n[14] 周婷，于福亮，李传哲，柴增凯.1960—2005年湄公河流域径流量演变趋势.河海大学学报：自然科学版，2010,38(6)：608-613.[15］张跃华，徐刚，张忠训，杨海燕.嘉陵江年径流量时间序列趋势分析.重庆师范大学学报：自然科学版,2011,28（5）：33-36．[16］刘晓琼，刘彦随，李同昇，孟欢欢，于正松，芮肠.基于小波多尺度变换的渭河水沙演变规律研究.地理科学，2015,35（2）：211-217.[17］汤成友，缈韧.基于小波变换的水文时间序列分解及周期识别.人民长江，2006，37（12）：32-34.  \n[18］安全，梁川，刘政.雅袭江中上游径流变化特性的小波分析.武汉大学学报：工学版，2008，41（3）：20-24，28-28.  \n[19］古丽孜巴·艾尼瓦尔，麦麦提吐尔逊·艾则孜，米热古丽·艾尼瓦尔，麦尔丹·阿不拉.基于小波分析1956-2010年焉耆盆地清水河径流量季节变化规律.水土保持研究，2016，23（1)：210-214，220-220. 0/05[20］穆兴民，张秀勤，高鹏，王飞.双累积曲线方法理论及在水文气象领域应用中应注意的问题.水文，2010,30（4)：47-51.  \n[21］侯钦磊，白红英，任园园，贺映娜，马新萍.50年来渭河干流径流变化及其驱动力分析.资源科学，2011,33（8)：1505-1512.[22］邱玲花，彭定志，林荷娟，张明月，房晶.气候变化与人类活动对太湖西苕溪流域水文水资源影响甄别.水文，2015，35（1)：45-50.[23］赵阳，余新晓，郑江坤，武巧英.气候和土地利用变化对潮白河流域径流变化的定量影响.农业工程学报，2012，28(22）：252-260.[24]牟萍，杨胜发，童思陈.基于Morlet小波分析的嘉陵江流域年径流周期研究.重庆交通大学学报：自然科学版，2016,35（1）：76-79,171-171.  \n[25］李二辉，穆兴民，赵广举.1919—2010年黄河上中游区径流量变化分析.水科学进展，2014，25（2)：155-163.  \n[26］高迎春，姚治君，刘宝勤，吕爱锋.密云水库人库径流变化趋势及动因分析.地理科学进展，2002，21(6)：546-553.  \n[27］李子君，李秀彬.水利水保措施对潮河流域年径流量的影响——基于经验统计模型的评估.地理学报，2008,63（9）：958-968.[28］王静怡，王晓燕.密云水库流域径流变化特征及影响因素分析.首都师范大学学报：自然科学版，2007,28（2)：89-92，97-97.［29］王巧平，王成建.海河流域人类活动对径流的影响分析.海河水利, $2 0 0 9 , ( 1 )$ : 4-6.  \n[30］李屹峰，罗跃初，刘纲，欧阳志云,郑华.土地利用变化对生态系统服务功能的影响——以密云水库流域为例.生态学报，2013,33（3)：726-736.  \n[31］高训宇，易忠，贾东民，郝丽娟.水务普查成果在密云水库应用分析.北京水务，2013，（5）：40-42.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

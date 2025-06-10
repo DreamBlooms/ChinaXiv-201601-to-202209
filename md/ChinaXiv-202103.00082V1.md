@@ -1,0 +1,148 @@
+# 乌拉特荒漠草原木本植物区系分析
+
+赵杏花，任雅涛，赵宏胜，冯霜，贾荣，兰登明(内蒙古农业大学沙漠治理学院,内蒙古 呼和浩特010019)
+
+摘要：以查阅文献和野外实地调查相结合的方法,对乌拉特荒漠草原的野生木本植物进行调查、统计、排序,并对该区系木本植物的水分生态类型、地理成分进行分析。结果表明：乌拉特荒漠草原植物区系有野生木本植物 85种,隶属于27科,46属。水分生态类型以旱生植物为主，旱生植物种数占总种数的 $7 8 . 8 2 \%$ 。植物的地理成分以亚洲中部分布型和古地中海分布型占绝对优势，二者共计63种，占区系总种数的 $7 4 . 1 4 \%$ 。区系中有国级珍稀濒危植物9种，隶属于8科,8属，占区系总种数的 $1 0 . 5 9 \%$ 。
+
+关键词：木本植物；植物区系；水分生态类型；地理成分；珍稀濒危植物；乌拉特荒漠草原
+
+荒漠草原是草原与荒漠的过渡带[12]。乌拉特荒漠草原位于内蒙古自治区西北部,地处半干旱区与干旱区的边缘,是草原向荒漠过渡的缓冲地带[3]。荒漠草原所处的地理位置特殊，生境条件恶劣，在全球气候变化的背景下，人类活动的剧烈扰动使得原本脆弱的生态系统受到严重威胁，荒漠草原的植被对于气候变化和人类活动的响应更为敏感[4-7]。对乌拉特荒漠草原的研究涉及NDVI对气象因子的响应，优势植物群落植物多样性及生物量对放牧、降水的响应规律、土壤微生物等方面[4.5.9-11],生长季降水量是影响生物群落特征和植物生物量的主要因素。在气候变化和人类活动的影响下，乌拉特草原呈现出明显退化趋势[12]。作为生态系统的构成要素，该区域的啮齿动物种类及其分布、节肢动物群落特征也受到专家学者关注[13-14]。该地理单元的植物区系研究的报道甚少，乌拉特荒漠草原的优势层片为多年生草本及旱生灌木、小半灌木，研究乌拉特荒漠草原植物区系，特别是木本植物区系组成、特征、地理成分，以及植物区系中植物种的水分生态类型，对掌握该区域植被组成现状、区系起源与发展演化历史，合理规划并开发利用植物资源有着重要意义。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+乌拉特荒漠草原位于内蒙古巴彦淖尔市北部，北与蒙古国广大的荒漠草原相连接，南以阴山北麓为界，西至阿拉善左旗，东临包头市，行政区划属于乌拉特中旗和乌拉特后旗;地理位置位于 $1 0 5 ^ { \circ } 1 3 ^ { \prime } \sim$ $1 0 9 ^ { \circ } 4 3 ^ { \prime } \mathrm { E } , 4 0 ^ { \circ } 4 3 ^ { \prime } \sim 4 2 ^ { \circ } 2 7 ^ { \prime } \mathrm { N } .$ 。从植物区系划分角度看，研究区位于亚洲荒漠植物区，东阿拉善荒漠植物省，东阿拉善植物州。从植被地带性角度看，研究区属于中温型草原带中荒漠草原亚带，具有强烈的大陆性气候特点，年均温度 $2 \sim 5 ~ \mathrm { { ‰ } }$ 积温$2 2 0 0 { \sim } 2 5 0 0 ~ \mathrm { ^ { \circ } C }$ ,年平均降水量 $1 5 0 \sim 2 5 0 ~ \mathrm { m m }$ 。源于阴山山脉的几条间歇性河流由南向北汇流，研究区整体呈南部高北部低的地势特征，同时也在高平原上形成许多狭小的干河道和小型盐湖，为盐渍化草甸、盐生植物的发育提供了条件1
+
+# 1.2 研究方法
+
+1.2.1 野外调查本研究采用文献查阅与野外调查相结合的研究方法，野外调查以国家科技部基础资源调查专项(2017FY100204)为依托，按照项目实施方案，以1:1000000中国植被分布图为基础，在研究区遥感影像图上根据植被群落类型均匀布点，设置120个样地，提取各样地经纬度数据，地面调查根据点位信息，利用奥维互动地图进行导航。每个样地设置 $1 0 0 \mathrm { m } \times 1 0 0 \mathrm { m }$ 大样方，大样方4个顶点和中心点分别布设5个 $5 \mathrm { m } \times 5 \mathrm { m }$ 灌木样方，样方调查采用生态调查常规方法，记录物种名录、测量"四度一量”，采集植物标本及样地土壤样本带回实验室进一步分析研究(图1)。
+
+1.2.2植物名录建立在野外调查的基础上，结合内蒙古植物志(第二版)[2.15-18]对乌拉特中旗、后旗野生植物的记载，甄别生境类型，建立研究区木本植物区系植物名录，对于存疑物种查阅了内蒙古农业大学馆藏标本。
+
+![](images/672234fd9d64f9b0209d5be00a07e2a1d99c8a307bc9a87e3c9a1d47011d7d41.jpg)  
+Fig.1Diagram of field survey sample plot
+
+1.2.3水分生态类型划分按照水分划分的生态类型称为水分生态类型,根据植物生态学家Warming和Schimper对植物水分类型的划分，将植物划分为旱生植物、中生植物、湿生植物和水生植物等不同类群[1-2]。根据植物对生境的适应程度,旱生植物可以进一步分为超旱生植物、强旱生植物、旱生植物、中旱生植物;中生植物又可以分为旱中生植物、中生植物、湿中生植物；湿生植物可以划分为中湿生植物和湿生植物[1,19]
+
+1.2.4植物分布区类型划分植物分布区是指植物的各级分类单位，如科、属、种的分布区域，是其分布于一定空间的总和[19]。本研究按照王荷生[2、赵一之[2I、吴征镒[22]、等关于植物种的分布区划分原则和方法对研究区木本植物“种"的分布区类型进行划分。
+
+1.2.5 珍稀濒危植物确定依据中国珍稀濒危植物信息系统——中国珍稀濒危植物名录确定研究区木本植物区系的珍稀濒危物种[23]
+
+# 2结果与分析
+
+# 2.1种类组成
+
+乌拉特荒漠草原有野生木本植物85种（含种下分类单位。下同),隶属于27科,46属[2.15-18]。其中，裸子植物1种，被子植物84种；乔木(含小乔木)5种，灌木(含半灌木)79种，木本藤本1种。在这些科中既有分化水平较原始的麻黄科（Ephedraceae），也有较为进化的菊科（Asteraceae）。按所含种数排序前五位的是豆科(Leguminosae）、菊科、藜科（Cheno-podiaceae）、蔷薇科（Rosaceae）和怪柳科（Tamarica-ceae），共包含47种，占区系总种数的 $5 5 . 2 9 \%$ （表1）。
+
+优势科是指区系中种数多，且在植被群落中最常见的科[20,24-25]。对区系所含种数排序,计算前 $n$ 科所含植物种数对区系总种数的累积贡献率(图2），前10科所含植物64种，占区系总种数 $7 5 . 2 9 \%$ ,是本区系优势科，在区系中占绝对优势；区系中仅含1种的科有13科，占区系总种数的 $1 5 . 3 4 \%$ ,这些植物多分布于区系边界过渡区域或者是区系中主要植物群落的伴生物种，对区系组成贡献很小。
+
+# 2.2水分生态类型
+
+植物的分布是植物长期适应环境的结果，土壤水分、盐分，温度，日照等自然因素对植物的分布起着决定性作用。乌拉特荒漠草原木本植物区系以旱生植物为主，无湿生植物和水生植物(图3)[2.15-18]。旱生植物共67种，隶属于18科，34属，占区系总种数的 $7 8 . 8 2 \%$ 。其中，超旱生植物共9种，隶属于6科,8属，膜果麻黄(Ephedraprzewalskii）珍珠猪毛菜（Salsolapasserina）木本猪毛菜（Salsolaarbuscula）裸果木（Gymnocarpos przewalskii）球果白刺（Nitrar-ia sphaerocarpa）红砂（Reaumuria soongorica）、中亚紫菀木（Asterothamnuscentrali-asiaticus）戈壁短舌菊（Brachanthemum gobicum）和白沙蒿（Artemisiasphaerocephala），占区系总种数的 $1 0 . 5 9 \%$ 。强旱生植物21种,隶属于9科,16属,如沙拐枣(Calligonum mongolicum）短叶假木贼（Anabasis brevifolia）梭梭（Haloxylonammodendron）、驼绒藜（Ceratoideslatens）绵刺(Potaniniamongolica）、沙冬青（Ammo-piptanthusmongolicus)等，占区系总种数的 $2 4 . 7 1 \%$ 。典型旱生植物35种，隶属于12科,17属，如草麻黄（E.sinica）、木贼麻黄（E.equisetina）、锐枝木蓼(Atraphaxis pungens）、木地肤（Kochia prostrata）、蒙古扁桃(Amygdulus mongolica）唐古特白刺( ${ \mathrm { ~ ` ~ } } N .$ tang-utorum）小果白刺(N.sibirica）黑沙蒿(Artemisia or-dosica)等，占区系总种数的 $4 1 . 1 8 \%$ 。中旱生植物2种,隶属于2科,2属,为胡杨(Populus euphratica)和甘蒙锦鸡儿（Caraganaopulens），占区系总种数的$2 . 3 5 \%$ 。区系中生植物共有18种，隶属于12科，14属，占区系总种数的 $2 1 . 1 8 \%$ 。其中旱中生植物10种,占区系总种数的 $1 1 . 7 6 \%$ ,如杜松（Juniperus rigi-$d a$ ）、酸枣（Ziziphus jujubavar.spinosa）、小叶鼠李(Rhamnusparvifolia）薄叶燥原荠(Ptilotrichum tenu-iflium)等;典型中生植物8种，占区系总种数的$9 . 4 1 \%$ ,如蒙桑（Morusmongolica）、文冠果（Xanthoc-eras sorbifolia）、乌头叶蛇葡萄（Ampelopsisaconitifolia）黑果枸杞(Lyciumruthenicum)等。
+
+表1乌拉特荒漠草原木本植物种数排序  
+Tab.1 Order of family by species quantity of woody plants in Urad desert steppe   
+
+<html><body><table><tr><td>序号</td><td>科名</td><td>属数</td><td>种数</td><td>占总种数/%</td><td>序号</td><td>科名</td><td>属数</td><td>种数</td><td>占总种数/%</td></tr><tr><td>1</td><td>豆科</td><td>4</td><td>14</td><td>16.47</td><td>15</td><td>柏科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>2</td><td>菊科</td><td>5</td><td>12</td><td>14.12</td><td>16</td><td>杨柳科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>3</td><td>藜科</td><td>7</td><td>11</td><td>12.94</td><td>17</td><td>桑科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>4</td><td>蔷薇科</td><td>4</td><td>5</td><td>5.88</td><td>18</td><td>石竹科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>5</td><td>柽柳科</td><td>2</td><td>5</td><td>5.88</td><td>19</td><td>小檗科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>6</td><td>麻黄科</td><td>1</td><td>4</td><td>4.71</td><td>20</td><td>蒺藜科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>7</td><td>蓼科</td><td>2</td><td>4</td><td>4.71</td><td>21</td><td>芸香科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>8</td><td>白刺科</td><td>1</td><td>4</td><td>4.71</td><td>22</td><td>大戟科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>9</td><td>鼠李科</td><td>2</td><td>3</td><td>3.53</td><td>23</td><td>无患子科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>10</td><td>榆科</td><td>1</td><td>2</td><td>2.35</td><td>24</td><td>葡萄科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>11</td><td>毛茛科</td><td>1</td><td>2</td><td>2.35</td><td>25</td><td>旋花科</td><td>1</td><td>1</td><td>1.18</td></tr><tr><td>12</td><td>十字花科</td><td>1</td><td>2</td><td>2.35</td><td>26</td><td>马鞭草科</td><td>1</td><td>1</td><td></td></tr><tr><td>13</td><td>胡颓子科</td><td>1</td><td>2</td><td>2.35</td><td>27</td><td>百合科</td><td>1</td><td></td><td>1.18</td></tr><tr><td>14</td><td>茄科</td><td>1</td><td>2</td><td>2.35</td><td></td><td></td><td></td><td>1</td><td>1.18</td></tr></table></body></html>
+
+![](images/da5e23fcf0db7db34af6e01b80f8570d3f010bf0d09b2398c51f347eb5ea5558.jpg)  
+图2乌拉特荒漠草原木本植物前 $n$ 科所含种数累积贡献率 Fig.2Species contribution in each family of woody plants in Urad desert steppe
+
+![](images/69b6ddde0d82bea2cb4b43bd2909d895d8d215f6cde6df3434c7d997ecc0228a.jpg)  
+图3乌拉特荒漠草原木本植物水分生态类型  
+Fig.3Water ecotypes of woody plants in Urad desert steppe
+
+形成荒漠草原的优势层片是旱生的多年生禾草，其次是旱生的小半灌木层片；一、二年生草本在夏季雨后数量会明显增多，遇到干旱年份，这些植物对于植物区系建成作用微小，对于区域生态环境的影响也非常微弱。荒漠草原常见的小半灌木有中间锦鸡儿（Caraganaintermedia）狭叶锦鸡儿(Caragana stenophylla）、矮锦 鸡儿（Caragana pyg-maea）蓍状亚菊(Ajaniaachilleoides)等，它们是形成旱生灌木群落的主要建群种，而燥原荠(Ptilotri-chum canescens）刺叶柄棘豆(Oxytropis aciphylla)等是荒漠草原的特征种。在野外实地调查，采集、鉴定标本发现，乌拉特荒漠草原出现了文献中并未记载的物种，如红砂、珍珠猪毛菜、松叶猪毛菜(S.lar-icifolia）霸王（Zygophyllumxanthoxylon）唐古特白刺、球果白刺、柠条锦鸡儿、垫状锦鸡儿、短叶假木贼等，这些物种从水分生态类型来讲，是一些旱生、强旱生植物，属于典型的荒漠成分。说明研究区气候呈现出更加干旱的趋势，荒漠草原区系成分逐渐向荒漠区系成分演化，这既是全球气候变化的结果，也是自然生境人为影响下恶化的表现
+
+# 2.3植物种地理成分分析
+
+“种"是构成植物区系的实体，分析“种”的地理成分比科、属更具实际意义[24,26]。植物种的分布区形成是在长期演化的过程中，响应气候、环境的变化,逐渐传播、迁移和分化的产物[20.27]。按照王荷生[2、赵一之[2、吴征镒2关于植物种的分布区划分原则和方法，将乌拉特荒漠草原85种木本植物划分为4个分布区类型、5个分布变型(表2)。4种分布型中，亚洲中部分布型45种，占总种数的$5 2 . 9 4 \%$ ，在本区系中占绝对优势;其次为古地中海分布型，共18种，占本区系种数的 $2 1 . 1 8 \%$ ；东亚分布型和东古北极分布型各11种，各占本区系种数的 $1 2 . 9 4 \%$ 。
+
+亚洲中部分布型共45种，其中典型的亚洲中部分布2种，占总种数的 $2 . 3 5 \%$ ,分别是薄叶燥原荠、贺兰山女蒿（Hippolytiakaschqarica）,前者为荒漠草原的优势种群的伴生物种，后者为砾石质山坡散生物种。本分布型有2个分布变型：戈壁-蒙古分布和戈壁分布。戈壁-蒙古分布18种，占总种数的$2 1 . 1 8 \%$ ,其下还有东戈壁-阿拉善分布9种，占总种数的 $1 0 . 5 9 \%$ 。常见戈壁-蒙古分布种如：沙拐枣、锐枝木蓼、沙木蓼、珍珠猪毛菜、细枝盐爪爪(Kalidiumgracile）燥原荠、刺叶柄棘豆、红砂、中亚紫菀木(As-terothamnuscentrali-asiaticus）著状亚菊、灌木亚菊（Ajania fruticulosa）、内蒙古旱蒿(A.xerophytica）、戈壁天门冬(Asparagus gobicus)等。常见的东戈壁-阿拉善分布种如：绵刺、蒙古扁桃、短脚锦鸡儿（Cbrachypoda）、柠条锦鸡儿、针枝芸香（Haplophyllumtragacanthoides）、长叶红砂（R.trigyna）、紫菀木（A.alyssoides）戈壁短舌菊等。戈壁分布及其下的阿拉善分布共16种，常见种有膜果麻黄、短叶假木贼、梭梭、松叶猪毛菜、合头草（Sympegmaregelii）、裸果木、蒙古岩黄芪(Hedysarum fruticosum）、球果白刺、霸王、鹰爪柴（Convoluulus gortschakovii）沙冬青等。
+
+古地中海分布型18种，常见的有木贼麻黄( $\left. E \right.$ equisetina）、中麻黄(E.intermedia）胡杨、驼绒藜、内蒙古驼绒藜（C.latens）、木本猪毛菜（S.arbuscula）、盐爪爪(K.foliatum）小果白刺、唐古特白刺、大白刺(N.roborowskii）多枝怪柳(Tamarixramosissima）黑果枸杞等。
+
+东亚分布型共有11种，包括东亚分布2种，东亚北部分布1种和其下的华北分布6种，以及华北-横断山分布2种。东亚分布种有蒙桑和一叶萩（Flueggeasuffruticosa）；东亚北部分布种为杜松；华北分布种如：单瓣黄刺玫(Rosa xanthina f.norma-lis）、文冠果、酸枣等;华北-横断山分布种有甘蒙锦鸡儿和铺散亚菊(A.khartensis）。
+
+表2乌拉特荒漠草原木本植物种的分布型  
+Tab.2Distribution types of woody plants in species level in Urad desert steppe   
+
+<html><body><table><tr><td>植物区系地理成分</td><td>种数</td><td>占总种数/%</td><td>分布型种数</td><td>分布型种数占总种数/%</td></tr><tr><td>1东古北极分布</td><td>4</td><td>4.71</td><td rowspan="3">11</td><td rowspan="3">12.94</td></tr><tr><td>1.1蒙古-东亚分布</td><td>0</td><td>0.00</td></tr><tr><td>1.1.1蒙古-华北分布</td><td>7</td><td>8.24</td></tr><tr><td>2东亚分布</td><td>2</td><td>2.35</td><td rowspan="3"></td><td rowspan="3"></td></tr><tr><td>2.1东亚北部(满洲-日本)分布</td><td>1</td><td>1.18</td></tr><tr><td>2.1.1华北分布</td><td>6</td><td>7.06</td></tr><tr><td>2.2 华北-横断山(中国-喜马拉雅)分布</td><td>2</td><td>2.35</td><td rowspan="3">18</td><td rowspan="3">21.18</td></tr><tr><td>3 古地中海分布</td><td>18</td><td>21.18</td></tr><tr><td>4亚洲中部分布</td><td>2</td><td>2.35</td></tr><tr><td>4.1戈壁-蒙古分布</td><td>18</td><td>21.18</td><td rowspan="3">45</td><td rowspan="3"></td></tr><tr><td>4.1.1东戈壁-阿拉善分布</td><td>9</td><td>10.59</td></tr><tr><td>4.2戈壁分布</td><td>14</td><td>16.47</td></tr><tr><td>4.2.1阿拉善分布</td><td>2</td><td>2.35</td><td rowspan="2"></td><td rowspan="2"></td></tr><tr><td>合计</td><td>85</td><td>100.00</td></tr></table></body></html>
+
+东古北极分布型共11种，包括东古北极分布4种和蒙古-华北分布7种。东古北极分布种有大果榆（Ulmusmacrocarpa）家榆（U.pumila）、三裂绣线菊(Spiraea trilobata)和小叶鼠李;蒙古-华北分布种有草麻黄(E.sinica）狭叶锦鸡儿、蒙古获(Caryopter-
+
+is mongholica）等。
+
+# 2.4珍稀濒危植物和特有种分析
+
+本区系国家级珍稀濒危植物有9种，隶属于8科，8属，占区系总种数的 $1 0 . 5 9 \%$ ;其中国家I级保护植物2种，国家Ⅱ级保护植物7种(表3）[23]
+
+本区系中国特有植物仅1种，唐古特白刺，说明该区系特有化程度低；但本区系中接近一半的物种属于阿拉善荒漠特有植物，这也充分表明该植物区系典型的地域特色。
+
+表3乌拉特荒漠草原国家级珍稀濒危木本植物  
+Tab.3 National rare and endangered woody plants in Urad desert steppe   
+
+<html><body><table><tr><td>序号</td><td>种名</td><td>拉丁学名</td><td>科名</td><td>保护等级</td></tr><tr><td>1</td><td>裸果木</td><td>Gymnocarpos przewalskii</td><td>石竹科</td><td>I级</td></tr><tr><td>2</td><td>绵刺</td><td>Potaninia mongolica</td><td>蔷薇科</td><td>I级</td></tr><tr><td>3</td><td>中麻黄</td><td>Ephedra intermedia</td><td>麻黄科</td><td>Ⅱ级</td></tr><tr><td>4</td><td>草麻黄</td><td>Ephedra sinica</td><td>麻黄科</td><td>Ⅱ级</td></tr><tr><td>5</td><td>沙拐枣</td><td>Calligonum mongolicum</td><td>蓼科</td><td>Ⅱ级</td></tr><tr><td>6</td><td>梭梭</td><td>Haloxylon ammodendron</td><td>藜科</td><td>Ⅱ级</td></tr><tr><td>7</td><td>蒙古扁桃</td><td>Amygdalus mongolica</td><td>蔷薇科</td><td>Ⅱ级</td></tr><tr><td>8</td><td>沙冬青</td><td>Ammopiptanthus mongolicus</td><td>豆科</td><td>Ⅱ级</td></tr><tr><td>9</td><td>戈壁短舌菊</td><td>Brachanthemum gobicum</td><td>菊科</td><td>Ⅱ级</td></tr></table></body></html>
+
+# 3结论
+
+（1）乌拉特荒漠草原有野生木本植物85种，隶属于27科，46属。含种数排序前5的是豆科、菊科、藜科、蔷薇科和怪柳科。植物以旱生植物为主，占区系总种数的 $7 8 . 8 2 \%$ ;其余为中生植物，多为区系边界过渡区域森林植被或为本区系优势种群的伴生物种。
+
+(2）区系地理成分类型简单，地域性强；区系内的中国特有植物少，但典型的荒漠植物占绝对优势；研究区生境自然条件恶劣，加之一些植物分布区范围本来较小，区系中国家级珍稀濒危植物相对较多，占区系总种数的 $1 0 . 5 9 \%$ ○
+
+(3）作为荒漠化草原，本区系呈现出明显的荒漠化趋向，木本植物多，荒漠化成分比重大。控制放牧强度，维持珍稀濒危植物现有生境，维护草原生态平衡，对保存草原与荒漠过渡区域脆弱生境具有深远意义。
+
+# 参考文献(References):
+
+[1]中国科学院内蒙古宁夏综合考察队.内蒙古植被[M].北京：科 学出版社,1985:371-384,467-722.[Inner Mongolia and NingxiaInvestigation Team of Chinese Academy of Sciences.Vegetation of Inner Mongolia[M]. Beijing:Science Press,1985:371-384, 467-722.]
+
+[2]马毓泉.内蒙古植物志(2版:第1卷)[M].呼和浩特:内蒙古人民出版社,1998:155-281.[Ma Yuquan.Flora of Inner Mongolia[M].2Ed: Vol.1.Huhhot: People's Press of Inner Mongolia,1998:155-281.]
+
+[3]曲浩,赵学勇,王少昆,等.乌拉特荒漠草原不同植被群落对土 壤碳、氮的影响[J].草业科学,2014,31(3):355-360.[Qu Hao, Zhao Xueyong,Wang Shaokun,et al.Effects of different vegetation communities on soil carbon and nitrogen contents in Urad desert steppe[J]. Pratacultural Science,2014,31(3): 355-360.]
+
+[4]赵生龙,左小安,张铜会,等.乌拉特荒漠草原群落物种多样性 和生物量关系对放牧强度的响应[J].干旱区研究,2020,37(1): 168-177.[Zhao Shenglong,Zuo Xiao'an, Zhang Tonghui, et al. Response of relationship between community species diversity and aboveground biomass to grazing intensity in the Urat desert steppe in North China[J]. Arid Zone Research,2020,37(1): 168-177.] [5]张蕊,赵学勇,左小安,等.荒漠草原沙生针茅(Stipaglareosa)群 落物种多样性和地上生物量对降雨量的响应[J].中国沙漠， 2019,39(2): 45-52.[Zhang Rui, Zhao Xueyong,Zuo Xiao'an,et al.Responses of the Stipa glareosa community species diversity and above-ground biomass to precipitatio in the desert-steppe region in Northern China[J]. Journal of Desert Research,2O19,39 (2): 45-52.]
+
+[6]贾明.内蒙古荒漠草原植被恢复与重建技术体系研究[D].北 京：中国农业大学,2005.[Jia Ming.Study on the Restoration and Reconstruction Technology Systems for the Desert Grassand Vegetation of Inner Mongolia[D]. Beijing: China Agricultural University, 2005.]   
+[7]韩芳.气候变化对内蒙古荒漠草原生态系统的影响[D].呼和浩 特：内蒙古大学,2013.[Han Fang.Impact of Climate Change on Desert Steppe Ecosystem in Inner Mongolia[D]. Huhhot: Inner Mongolia University,2013.]   
+[8]岳喜元,左小安,常学礼,等.内蒙古典型草原与荒漠草原NDVI对气象因子的响应[J].中国沙漠,2019,39(3):25-33.[Yue Xiyuan,Zuo Xiao’an,Chang Xueli,et al.NDVI of typical steppe and desert steppe in Inner Mongolia in response to meteorological factors[J]. Journal of Desert Research,2019,39(3): 25-33.]   
+[9]李香云,岳平,程欢,等.乌拉特荒漠草原红砂生物量预测模型 [J].干旱区研究,2020,37(2): 462-469.[Li Xiangyun,Yue Ping, Cheng Huan,et al．Biomass prediction model for Reaumuria soongorica in the Urat desert steppe in Inner Mongolia[J].Arid Zone Research, 2020,37(2): 462-469.]   
+[10] 王少昆,赵学勇,贾昆峰,等.乌拉特荒漠草原小针茅(Stipa kemenzii)群落土壤细菌多样性及垂直分布特征[J].中国沙漠， 2016,36(6): 1564-1570.[Wang Shaokun,Zhao Xueyong, Jia Kunfeng,et al.Soil bacterial diversity and its vertical distribution in Stipa klemenzii community of Urat desert steppe[J]. Journal of Desert Research,2016,36(6): 1564-1570.]   
+[11]白秀芳.干旱指标在乌拉特草原的适用性分析[J].河南农业, 2017(2): 38-39.[Bai Xiufang.Adaption aanalysis of arid indexes in Urat grassand[J]. Henan Agricalture,2017(2): 38-39.]   
+[12] 武志杰.内蒙古乌拉特中旗草原退化原因与修复途径研究[D]. 北京：中国农业科学院,2007.[Wu Zhijie.Research on the Degradation and Restoration of Zhong County of Urat Grassland in Inner Mongolia[D].Beijing:Chinese Academy of Agricultural Sciences, 2007.]   
+[13] 尚昆山,那星一.乌拉特前旗啮齿动物种类及其分布[J].中国地 方病防治杂志,2011,26(4):306-307.[Shang Kunshan, Na Xingyi. Species and Distribution of Rodents in Qian County of Urat[J]. Journal of Chinese Endemic Diseases Prevention, 2011,26(4): 306-307.]   
+[14] 常海涛,刘佳楠,赵娟,等.乌拉特荒漠草原红砂(Reaumuria soongorica)灌丛林地地面节肢动物群落季节分布特征[J].生态 学报,2020,40(9): 3121-3130.[Chang Haitao,Liu Jianan, Zhao Juan,et al. Seasonal distribution of ground active arthropod community in Reaumuria soongorica shrubbery land in Urat desert steppe[J].Acta Ecologica Sinica,2020,40(9),3121-3130.]   
+[15]马毓泉.内蒙古植物志(2版:第2卷)[M].呼和浩特:内蒙古人 民出版社,199O:11-702.[Ma Yuquan.Flora of Inner Mongolia [M].2 Ed: Vol.2.Huhhot: People's Pressof Inner Mongolia,1990: 11-702.]   
+[16]马毓泉.内蒙古植物志(2版:第3卷)[M].呼和浩特:内蒙古人 民出版社,1989: 49-66.[Ma Yuquan.Flora of Inner Mongolia [M].2 Ed: Vol.3.Huhhot: People's Press of Inner Mongolia,1989: 49-666.]   
+[17]马毓泉.内蒙古植物志(2版:第4卷)[M].呼和浩特:内蒙古人 民出版社,1993:116-841.[Ma Yuquan.Flora of Inner Mongolia [M].2 Ed: Vol.4. Huhhot: People's Press of Inner Mongolia,1993: 116-841.]   
+[18]马毓泉.内蒙古植物志(2版:第5卷)[M].呼和浩特:内蒙古人 民出版社,1994: 618-634.[Ma Yuquan.Flora of Inner Mongolia [M].2 Ed: Vol.5.Huhhot: People's Press of Inner Mongolia,1994: 618-634.]   
+[19] 赵杏花,王立群,蓝登明,等.乌拉山种子植物属的地理成分分 析[J].西北植物学报,2011,31(1):172-179.[Zhao Xinghua, Wang Liqun,Lan Dengming,et al.Geographical elements analysis on genera of seed plant in Wulashan mountain[J]. Acta Botanica Boreali-Occidentalia Sinica,2011,31(1): 172-179.]   
+[20]王荷生.华北植物区系地理[M].北京:科学出版社,1997:1-97. [Wang Hesheng. Floristic Geographyof North China[M].Beijing: Science Press,1997: 1-97.]   
+[21] 赵一之.内蒙古维管植物分类及其区系生态地理分布[M].呼和 浩特：内蒙古大学出版社,2012:6-856.[Zhao Yizhi.Classification of Vascular Plants in Inner Mongolia and the Floristic Ecogeographical Distribution[M].Huhhot: Inner Mongolia University Press, 2012: 6-856.]   
+[22]吴征镒.论中国植物区系的分区问题[J].云南植物研究,1979,1 (1):1-20.[Wu Zhengyi. Disscussion on the division of Flora in China[J].Acta Botanica Yunnanica,1979,1(1): 1-20.]   
+[23]中国科学院植物研究所.中国珍稀濒危植物信息系统:中国珍 稀濒危植物名录(汇总)[DB/OL].[2020-01-04].http:/www. iplant.cn/rep/protlist.[Institute of Botany,Chinese Academy of Sciences.Information system of rare and endangered plants of China: List of China's Rare and Endangered Plants (Summary) [EB/ OL]. [2020-01-04]. http://www.iplant.cn/rep/protlist.]   
+[24] 赵杏花,蓝登明,左合君,等.阴山山脉乌拉山段种子植物区系 组成及特征研究[J].西北植物学报,2012,32(6):1245-1253. [Zhao Xinghua, Lan Dengming, Zuo Hejun,et al.Flora composition and characteristics of Wula mountain in Yin mountain[J].Acta Botanica Boreali-Occidentalia Sinica,2012,32(6):1245-1253.]   
+[25] 张镜锂.内蒙古额济纳旗植物区系地理研究[J].干旱区研究, 1997,14(3): 23-32.[Zhang Yili.The geological study on the plant flora in Erjina County of Inner Mongolia[J].Arid Zone Research, 1997, 14(3): 23-32.]   
+[26] 石梅莉.干旱半干旱荒漠区灌木植物多样性研究[D].北京:中 央民族大学,2019.[Shi Meili. Shrub Diversity in Arid and Semiarid Desert Areas[D]. Beijing: Central University for Nationalities, 2019.]   
+[27] 党荣理,潘晓玲.西北干旱荒漠区种子植物科的区系分析[J].西 北植物学报,2002,22(1): 24-32.Dang Rongli,Pan Xiaoling.Floristic analysis of seed plant families in West-North Desert of China [J].Acta Botanica Boreali-Occidentalia Sinica,20O2,22(1): 24-32.]
+
+# Analysis of Urad desert steppe woody plant flora
+
+ZHAO Xing-hua， REN Ya-tao, ZHAO Hong-sheng， FENG Shuang, JIA Rong， LAN Deng-ming   
+(College ofDesertification Control Science and Engineering,Inner Mongolia Agricultural University,Hohhot O10019,InnerMongolia,China)
+
+Abstract:Based on literature review and field investigation,the woody plant flora of the Urad desert steppe was investigated and analyzed.In adition,the water ecotypes and geography elements of woody plants inthis area were counted and assessd.The results showed that 85 species of wild woody plants,belonging to 46 genera and 27 families were present in the area. The main water ecotype was xerophytes,which accounted for $7 8 . 8 2 \%$ of the total species.The geography elements were dominated by the Middle Asia distribution and the Ancient Mediterranean distribution, with 63 species in total,accounting for $7 4 . 1 4 \%$ of the total flora. In the Urad desert steppe region, nine species $( 1 0 . 5 9 \% )$ ）of nationally rare and endangered plants,belonging to eight families and eight genera were identified.
+
+Keywords:woody plants；plant flora;water ecotypes；geography elements；rare and endangered plants；Urad desert steppe
+
+# 欢迎订阅2021年《于旱区研究》
+
+《干旱区研究》是由中国科学院新疆生态与地理研究所和中国土壤学会共同主办的，以干旱区水、土、生物、气候四种可再生资源的研究为主要内容的综合性学术期刊，其内容包括干旱区生态及其生态系统与环境；干旱区自然资源的动态变化及相互作用；干旱区与大气圈、水圈、生物圈、岩石圈和人类活动之间的相互作用;干旱区生态与建设;全球变化与干旱区;干旱区减灾、防灾;先进技术在干旱区开发与研究中的应用。依靠广大的科学工作者，开展广泛而深入的基础理论研究，为我国培养和造就大批的干旱区资源与环境的科技人才。本刊适合从事干旱区研究的专家、学者、科技人员及相关院校师生阅读参考。
+
+国内统一刊号：65-1095/X，本刊为国际大16开本，双月刊，250页，单月15日出版，每期55元。欢迎新老客户及时到当地邮局订阅，邮发代号：58-37。若有漏订者可直接搜淘宝店、微店店铺名称“中科期刊"或扫描下方二维码进行订阅。
+
+编辑部地址：乌鲁木齐市北京南路818号  
+邮编：830011  
+电话：0991-7827349  
+E-mail: azr@ms.xjb.ac.cn  
+http://azr.xjegi.com

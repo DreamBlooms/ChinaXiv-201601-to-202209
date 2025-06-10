@@ -1,0 +1,163 @@
+[
+    {
+        "type": "text",
+        "text": "Regular Article ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Large elastocaloric effect at small transformation strain in $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ metamagnetic shape memory alloys ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wen Sun, Jian Liu \\*, Binfeng Lu, Yang Li, Aru Yan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeLbatoftedtele' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The elastocaloric effect has been investigated by directly measuring temperature change in $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ metamagnetic shape memory alloys.The stress plateau for magnetostructural transition can be drastically reduced due to the mechanical training efect. A large temperature change of 4 K was found during compressing the sample with a small transformation strain of $1 . 3 \\%$ at $2 9 1 . 5 \\mathrm { K } .$ Our results indicate that Ni-Mn-Sn alloys can be apromising candidate for solid-state refrigerants in mechanical cooling application bylow deformation level. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nShape memory alloy   \nMartensitic phase transformation   \nElastocaloric effect ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Elastocaloric refrigeration technology has increasingly acquired attention because of its eco-friendliness,high coefficientof performance (COP) and moderate projected cost[1-4].Elastocaloric effect systems have been designed based on the reversible martensitic transformation (MT)accompanied bya large latent heat release/absorption [2-4]. Recently,elastocaloric cooling technique has been found to havea higher COP than the magnetic refrigerator(by using the benchmark Gd) with even higher efficiency at the same temperature span [5]. Temperature change $( \\Delta T )$ ,asa crucial parameter in determining the functionalities of elastocaloric effect,have been directlymeasured in $\\mathsf { C u { - } Z n { - } A l }$ [6], Ni-Ti-(Cu)-(Co)[7-10],Fe-Pd [11,12],Ni-Fe-Ga-(Co)[13,14] and Ni-Mn-In-(Co） shape memory alloys (SMAs)[15-17].Conventional Cu-Zn-Al polycrystalline alloys exhibit a △Tof about $6 \\mathrm { ~ K ~ }$ [6]. Ni-Ti wire shows a△Tof $- 2 1 \\mathrm { ~ K ~ }$ after 4Oo loading/unloading cycles in order to get a stabilized superelastic response [8].However,the limited fatigue lifeand functional stabilityrestricted the practicalapplication of Ni-Ti alloys [7-8]. In this context,a novel Ni-Ti-Cu-(Co) alloy composition has been proposed with a rather high cyclic stability and ultralow fatigue property due to the presence of $\\mathtt { T i } _ { 2 } \\mathtt { C u }$ precipitates [10]. Different from conventional SMAs,Ni-Mn-based alloys exhibit coupled magnetostructural transitions which can be driven by different stimuli [17-19]. Such multi-caloric effect enables a broadened work temperature window of magnetic refrigerants by simultaneously applying magnetic field and pressure [19,2O]. For the Ni-Mn-Sn-(Co) alloys,large entropy change $( \\Delta S = 4 0 \\mathrm { J } / \\mathrm { k g } \\mathrm { K } )$ associated with MT can be obtained [21].Therefore,a large elastocaloric effect is expected in this Heuslertype system.The elastocaloric effect in SMAs with first-order transition generally consists of different contributions from electronic,vibrational, magnetic and frictional heat parts [15].For the $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ alloy, the austenitic phase shows a ferromagnetic-paramagnetic transition in a magnetic field during cooling [22].As the Curie temperature $( T _ { C } ^ { A } )$ of austenitic phase and the austenite transformation finish temperature $\\left( A _ { \\mathrm { f } } \\right)$ near to each other, the difference in magnetic moments for both parent and martensite phasesaround structural transition temperature is small and the negative contribution of magnetic entropy is limited.This is beneficial for achieving large elastocaloric effect.In this work, the elastocaloric effect of the mechanically trained sample was investigated by directly measuring△T.We also address the impact of strain rate on △Tduring loading/unloading cycles. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A polycrystalline $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ ingot was arc-melted and then sucked into a $3 \\mathrm { m m }$ diameter copper mold via a pressure difference in argonatmosphere.Suction casting generally results ina grain refinement effect that isable to improve the mechanical properties of the alloy[23].Cylinder samples with $3 \\ \\mathrm { m m }$ in diameter and $5 . 8 ~ \\mathrm { m m }$ in length for mechanical tests were cut from the rod-like alloy,and then homogenized at $1 1 7 3 \\mathrm { K }$ for $2 4 \\mathrm { h }$ in argon atmosphere,followed by quenching into ice water.MT temperatures and transformation enthalpies were characterized by a differential scanning calorimeter (PerkinElmer Diamond DSC) with cooling and heating rates of $1 0 ~ \\mathrm { K / m i n }$ .Compression experiments were conducted ona universal testing machine（SUNS UTM5ooO） at room temperature.The strain was measured byan extensometer.The temperature changes of sample under different strain rates were monitored by a K-type thermocouple pasted on the sample surface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(a） shows the characteristic transformation temperatures detected by DSC.The MT starts $( M _ { s } )$ at $2 6 6 . 6 \\mathrm { ~ K ~ }$ and finishes $( M _ { \\mathrm { f } } )$ at $2 5 7 . 1 \\mathrm { K }$ ,and austenite transformation starts $\\left( { \\cal A } _ { s } \\right)$ at $2 6 9 . 3 \\mathrm { ~ K ~ }$ and $A _ { \\mathrm { f } }$ at $2 7 9 . 5 \\mathrm { K } .$ Asmall transition peak represents the Curie temperature of $T _ { C } ^ { A }$ at $2 8 6 \\mathrm { K }$ as shown in the inset of Fig.1(a).Transformation enthalpy $( \\Delta H )$ is calculated to be $- 8 . 4 \\mathrm { J / g }$ for cooling and $9 . 3 \\mathrm { J } / \\mathrm { g }$ for heating. Entropy change in thermal-induced MT can be determined by $\\Delta S = \\Delta H /$ $T _ { 0 }$ where $T _ { 0 }$ is the equilibrium temperature defined as $\\left( M _ { \\mathrm { s } } + A _ { \\mathrm { f } } \\right) / 2$ [13]. $\\Delta S$ is calculated to be $- 3 0 . 8 \\mathrm { J } / \\mathrm { k g } \\mathrm { K }$ for cooling and $3 4 . 1 \\mathrm { J / k g ~ K }$ for heating. Theoretical $\\Delta T$ caused by the entropy change during thermal-induced MT can be estimated through $\\Delta T = - ( \\Delta S \\times T ) \\ / \\ C _ { \\mathrm { p } }$ [14],where $C _ { \\mathrm { p } }$ is the heat capacity (taken as $5 8 3 \\mathrm { J } / \\mathrm { k g } \\mathrm { K } )$ [24]. The calculated $\\Delta T = - 1 5 . 4 \\mathrm { K }$ for cooling and $1 7 . 1 \\mathrm { ~ K ~ }$ for heating from DSC measurements.At $T = 2 9 1 . 5 \\mathrm { ~ K ~ }$ ( $1 2 \\mathrm { ~ K ~ }$ above $\\mathbf { \\nabla } A _ { \\mathrm { f } } ^ { \\cdot }$ ，various maximum compressive stresses $( \\sigma )$ were applied at a strain rate of $0 . 0 2 3 \\% s ^ { - 1 }$ as shown in Fig.1(b).An initial plateau appeared in the stress-strain curve when $\\sigma$ is $2 5 0 \\mathrm { M P a }$ ,typically indicating the stress-induced MT. The transformation strain $( \\varepsilon ^ { \\mathrm { T } } )$ increases with increasing O during loading.Meanwhile,the critical stress is significantly reduced.The $\\varepsilon ^ { \\mathrm { T } }$ is $2 . 3 \\% ,$ （204 and critical stress is $1 7 2 \\mathrm { M P a }$ when $\\sigma$ is $2 9 0 \\mathrm { M P a }$ In order to stabilize the critical stress,the sample was initially trained by cyclic loading/ unloading before measuring elastocaloric effects. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.2(a) shows the training impact during mechanical cycling in $\\mathrm { N i } _ { 4 5 } \\mathrm { M n } _ { 4 4 } \\mathrm { S n } _ { 1 1 }$ alloys.The compressive stress of $2 6 0  { \\mathrm { M P a } }$ was applied at a strain rate of $0 . 0 2 9 \\% s ^ { - 1 }$ .The sample was subjected to 6 loading/ unloading cycles.The critical stress decreases from 250 to $1 7 8 . 6  { \\mathrm { M P a } }$ due to mechanical training,as shown in Fig.2(b).The reduction of critical stress is most pronounced during the 2nd loading/unloading cycle. The value of $\\varepsilon ^ { \\mathrm { T } }$ increases from 0.3 to $1 . 1 \\%$ during mechanical cycles. The principle of the training method is that deforming the parent or martensite phase creates sites of internal stress,or simultaneously forms precipitates [25].The decrease of critical stress may be due to the presence of dislocation induced by deformation in $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ alloys.The internal stress formed by dislocationassists the formation of the stress-induced martensite during loading in the subsequent cy cles [8,25]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4674c41443ad9e9c905aa6dce228647259126b2b2bc661e1605dd2103fc773c1.jpg",
+        "img_caption": [
+            "Fig.1.DSC curve (a) and stress-strain responses for various applied maximum compressive stresses at a low strain rate of $0 . 0 2 3 \\% s ^ { - 1 }$ (b) in annealed $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ alloy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3dd24a4ebdf322d99d0564a9c505295c58fb3d34a25d93e087c4eea9c0da94ef.jpg",
+        "img_caption": [
+            "Fig.2.Superelastic training at 291.5 Kwith the strain rate of $0 . 0 2 9 \\% s ^ { - 1 }$ (a) and evolution of the critical transformation stress as a function of the cycle number (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.3(a）shows the stress-strain curves at high strain rates for the mechanically trained sample.In order to avoid the crack in the NiMn-Sn cylinder sample,the maximum applied stress is constrained to be $2 4 2 \\mathrm { M P a }$ .After the first loading from O to 242 MPa,the stress was held for $3 0 \\mathrm { { s } }$ to allow the sample to reach equilibrium condition and unloaded to zero at the same strain rate.The stress-strain responses approach a stable level during loading when the strain rate is less than $0 . 5 7 \\% \\ s ^ { - 1 }$ .However,the sample fractured during the stress holding step in the case of fast loading at $0 . 8 5 \\% s ^ { - 1 }$ . The fast loading is prone to produce micro-cracks which propagate and eventually damage the sample during stress holding.Therefore,the appropriate strain rate should be less than $0 . 5 7 \\% \\ : s ^ { - 1 }$ to maintain a stable superelasticity.The $\\varepsilon ^ { \\mathrm { T } }$ increases with increasing strain rate during loading/unloading cycles to approach a complete martensitic transformation.The strain vs.time curve is simultaneously monitored,as shown in Fig.3(b).The fast loading shortens the time to achieve the target stress.The time interval for loading the sample from O to $2 4 2 ~ \\mathrm { M P a }$ is only3 sata strain rate of $0 . 8 5 \\% s ^ { - 1 }$ . The $\\Delta T$ -time profiles at different strain rates are shown in Fig.3(c).The increased strain rate leads to a betteradiabatic environment and larger $\\varepsilon ^ { \\mathrm { T } }$ The temperature change during loading $( \\Delta T _ { \\mathrm { l o a d i n g } } )$ of $4 \\mathrm { K }$ was observed at the strain rate of $0 . 8 5 \\% s ^ { - 1 }$ .Such a large temperature change,on the one hand,essentially originates from the large latent heat of stress-induced martensitic transition and the relatively small magnetization difference between austenitic and martensitic phases,as mentioned in the introduction part. On the other hand,one should notice that the testing temperature is close to the $T _ { C } ^ { A }$ Around the second order transition temperature $( T _ { C } ^ { A } )$ in Heusler-type alloys, for instance $\\begin{array} { r } { \\mathrm { N i } _ { 4 5 } \\mathrm { C o } _ { 5 } \\mathrm { M n } _ { 3 6 . 6 } \\mathrm { I n } _ { 1 3 . 4 } , } \\end{array}$ a strong magnetoelastic coupling can take place,where the lattice entropy (phonon softening) and the magnetic entropy (elongation and spin ordering of magnetic moment) contribute with the same sign to the total entropy change [26].As a consequence,an apparent magnetically induced adiabatic temperature change was observed (2Kat1.9 T) [27].Therefore,the present observed large elastocaloric effect,evenat small transformation strains,canalso be ascribed to an additional entropy change from giant magnetoelasticity by crossing $T _ { C } ^ { A }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6231a95b4d940fe6777142fbfbdd14b7f16f62082651694809f42ad37d5b2278.jpg",
+        "img_caption": [
+            "Fig.3.Stress-strain curves (a)and strain vs.time curves (b)in high strain rates for the mechanically trained sample.Temperature changes at different strain rates during loading/ unloading and the enlarged profile (inset)at the strain rate of $0 . 8 5 \\% s ^ { - 1 }$ (c). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next we discuss the strain rate dependent elastocaloric effect.At a strain rate of $0 . 2 9 \\% s ^ { - 1 }$ ,the absolute value of temperature change during unloading $( | \\Delta T _ { \\mathrm { u n l o a d i n g } } | )$ of about $3 \\mathrm { K }$ is higher than $| \\Delta T _ { \\mathrm { l o a d i n g } } |$ (2 K).This phenomenon is attributed to a larger $\\varepsilon ^ { \\mathrm { T } }$ during unloading compared with loading.In addition,we found that the absolute value of $| \\Delta T _ { \\mathrm { u n l o a d i n g } } |$ (about 3 K) is smaller than $| \\Delta T _ { \\mathrm { l o a d i n g } } |$ (about $3 . 5 \\mathrm { K } \\dot { }$ at strain rate of $0 . 5 7 \\% \\ s ^ { - 1 }$ .Due to the martensitic and austenitic phase boundary movement in both loading and unloading procedures, the resulting friction effect isalways accompanied bythe heat release [15].Upon loading, the increased $\\varepsilon ^ { \\mathrm { T } }$ and frictional heat contribute the same sign to the $\\Delta T _ { \\mathrm { l o a d i n g } }$ ,but latent heat and friction heat somehow counteract each other on unloading,therefore the $\\Delta T _ { \\mathrm { u n l o a d i n g } }$ seems unchanged with increasing strain rate.When the strain rate is applied up to $0 . 8 5 \\% s ^ { - 1 }$ ,the compression force is released suddenly due to the sample fracture. Nevertheless,we have observed a large $\\Delta T _ { \\mathrm { u n l o a d i n g } }$ of $- 5 . 7 \\mathrm { K }$ at $0 . 8 5 \\% s ^ { - 1 }$ ,as shown in the inset of Fig.3(c).The measured $\\vert \\Delta T \\vert$ is far less than the calculated value(15.4K) from the DSC measurement.The small measured value is due to incomplete martensite transformations and non-ideal adiabatic conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A systematic comparison of elastocaloric performance between Ni$\\scriptstyle { \\mathrm { M n - S n } }$ and other magnetic SMAs is shown in Table 1.In this work, the specific elastocaloric cooling strength $\\left( \\left| \\Delta { T } \\right. / \\left. \\sigma \\right| \\right)$ reaches about $2 3 . 6 \\mathsf { K } / \\mathsf { G P a }$ i $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ SMAs. The $\\Delta T _ { \\mathrm { l o a d i n g } }$ at transformation strain of $1 \\%$ $( | \\Delta T _ { \\mathrm { l o a d i n g } } \\ / \\ \\Delta \\varepsilon ^ { \\mathrm { T } } | )$ is about $3 . 1 ~ \\mathrm { K } / 1 \\%$ .Compared with other metamagnetic SMAs such as Ni-Mn-In and Ni-Mn-In-Co metamagnetic SMAs [16,17],the present $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ alloy shows larger elastocaloric effect $( - 5 . 7 \\mathrm { K } )$ .As compared with Fe-Pd,Ni-Fe-Ga and Ni-Fe-Ga-Co SMAs [11,13,14], the advantages of Ni-Mn-Sn alloys with metamagnetic transition properties exhibit higher elastocaloric effects at low $\\varepsilon ^ { \\mathrm { T } }$ .It has been reported that applying smaller strains can increase the fatigue life,at the same time keeping a reasonably elastocaloric effect and cooling power of refrigerant device [2,5]. Nevertheless,Ni-Mn-Sn alloys are intrinsically brittle in its polycrystalline state,which restrict their practical applications.The introduction of secondary ductile phases [13] and the texturing formation in directionally solidified alloys [28] could be considered to partially solve the mechanical obstacles in Ni-Mn-Sn alloys. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,mechanical training has been demonstrated as a feasible way to reduce the transformation stress and achieve a large temperature change by small transformation strain $( 3 . 1 \\mathrm { ~ K ~ } / \\mathrm { ~ } 1 \\% )$ in $\\mathrm { N i _ { 4 5 } M n _ { 4 4 } S n _ { 1 1 } }$ alloys. A stable $\\Delta T _ { \\mathrm { u n o a d i n g } }$ of $3 \\mathrm { K }$ is obtained for loading/ unloading cycles at the moderate strain rate $( 0 . 2 9 \\% - 0 . 5 7 \\% \\ s ^ { - 1 }$ .A large $\\Delta T _ { l \\mathrm { o a d i n g } }$ of $4 \\mathrm { K }$ can be achieved at the strain rate of $0 . 8 5 \\% s ^ { - 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The research leading to these results has received funding from the National Natural Science Foundation of China (Grant Nos.51371184 and 51531oo8),Projects of Ningbo Innovative Research Team(Grant No.2O12B81oO1）and Ningbo Natural Science Foundation of China (Grant Nos.2014A610164 and 2014A610160). ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/854afd68fa5324a31ea97eecaf6c486506cbc32c31b08b9388cf7bed72d0cb26.jpg",
+        "table_caption": [
+            "Table 1 The finishing temperature of austenite transformation $\\left( A _ { \\mathrm { f } } \\right)$ ,temperature change from direct measurements during unloading $\\left( \\Delta T _ { \\mathrm { u n l o a d i n g } } \\right)$ at initial temperature $( T _ { \\mathrm { i n i } } )$ , strength 0 elastocaloric effects $\\left( \\left| \\Delta T / \\sigma \\right| \\right)$ and elastocaloric effects attransformationstrainof $1 \\% ( \\Delta T _ { \\mathrm { l o a d i n g } } / \\Delta \\varepsilon ^ { T } )$ in magnetic alloys. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Alloy composition (at.%)</td><td>Sample status</td><td>Af (K)</td><td>Tini (K)</td><td>(K) △Tunloading</td><td>|△T/σ| (K/GPa)</td><td>△T1oading/△εT (K/1%)</td><td>Reference</td></tr><tr><td>Fe68.8Pd31.2</td><td>Single crystal</td><td>239.6</td><td>240</td><td>-2</td><td>20</td><td>1.7</td><td>[11]</td></tr><tr><td>Ni54Fe1gGa27</td><td>Polycrystal</td><td>290</td><td>300</td><td>-6</td><td>45.1</td><td>2.7</td><td>[13]</td></tr><tr><td>Ni5oFe1gGa27C04</td><td>Single crystal</td><td>320</td><td>348</td><td>-10</td><td>33.3</td><td>2.1</td><td>[14]</td></tr><tr><td>Ni45Mn36.4I13.6C05</td><td>Polycrystal</td><td>275</td><td>296</td><td>-4</td><td>26.7</td><td>1.3</td><td>[16]</td></tr><tr><td>Ni48Mn35In17</td><td>Textured polycrystal</td><td>Unkown</td><td>313.3</td><td>-4</td><td>13.3</td><td>3.6</td><td>[17]</td></tr><tr><td>Ni45Mn44Sn11</td><td>Polycrystal</td><td>279.5</td><td>291.5</td><td>-5.7</td><td>23.6</td><td>3.1</td><td>This work</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]X.Moya, S.Kar-Narayan,N.D.Mathur,Nat.Mater.13(2014) 439-450. [2]M. Schmidt,A.Schiitze,S.Seelecke,Int.J.Refrig.54(2015) 88-97. [3]S.Crossley,N.D.Mathur,X.Moya,AIP Adv.5 (2015) 067153. [4]L.Manosa, A. Planes,M. Acet, J.Mater. Chem.A1 (2013) 4925-4936. [5]J.Tusek,K.Engelbrecht,R.Millan-Solsona,L.Mafiosa,E.Vives,L.P.Mikkelsen,N. Pryds,Adv.Energy Mater.5(2015) 1500361. [6]L.Maniosa,S.Jarque-Farnos,E.Vives,A.Planes,Appl.Phys.Lett.103(2013)211904. [7]J. Cui, Y.M.Wu,J.Muehlbauer,Y.Hwang,R.Radermacher,S.Fackler,M.Wuttig, I. Takeuchi, Appl.Phys. Lett.101 (2012) 073904. [8]J.Tusek,K. Engelbrecht, L.P.Mikkelsen,N.Pryds,J. Appl.Phys.117(2015) 124901.   \n[9]C. Bechtold, C.Chluba, R.L. de Miranda, E. Quandt, Appl.Phys.Lett. 101(2012) 091903.   \n10]C.Chluba,W.Ge,R.L. de Miranda,J.Strobel,L. Kienle,E. Quandt,M.Wuttig, Science 348 (2015) 1004.   \n11]F.Xiao,T.Fukuda,T.Kakeshita,Appl.Phys.Lett.102(2013)161914.   \n12] F.Xiao,T.Fukuda,T.Kakeshita,X.J. Jin,Acta Mater.87 (2015) 8-14.   \n13] Y. Xu,B.F.Lu,W.Sun,A.R. Yan,J. Liu, Appl. Phys. Lett. 106(2015) 201903.   \n[14]F.Xiao,M.J. Jin,J. Liu,X.J Jin,Acta Mater.96 (2015) 292-300.   \n15]B.F.Lu,F. Xiao,A.R. Yan,J. Liu,Appl. Phys.Let.105 (2014) 161905.   \n16]B.F.Lu,P.N. Zhang,Y.Xu,W. Sun,J. Liu, Mater.Lett.148(2015) 110-113.   \n[17]Y.J. Huang, Q.D.Hu, N.M. Bruno,J.H. Chen,I. Karaman,J.H. Ross Jr.,J.G.Li,Scr.Mater. 105 (2015)42-45.   \n[18] P.O. Castillo-Villa,L. Manosa,A. Planes, D.E. Soto-Parra,J.L. Sänchez-Llamazares, H. Flores-Zuniga, C.Frontera,J. Appl.Phys.113(2013) 053506.   \n[19] A.K. Nayak, K.G.Suresh, A.K. Nigam, A.A. Coelho, S.Gama,J. Appl. Phys.106 (2009) 053901.   \n[20]S.Esakki Muthu, N.V. Rama Rao,M. Manivel Raja,S.Arumugam, K. Matsubayasi, Y. Uwatoko,J.Appl.Phys.110(2011) 083902.   \n[21]D.Y. Cong,S. Roth,L. Schultz,Acta Mater. 60 (2012) 5335-5351.   \n[22] Z.D. Han, D.H. Wang, C.L. Zhang, H.C. Xuan, B.X. Gu, Y.W. Du, Appl. Phys. Lett. 90 (2007) 042507.   \n[23]Y.Li,Y.Xin, C.B. Jiang,H.B.Xu, Scr.Mater.51(2004) 849-852.   \n[24]M.Pasquale, C.P.Sasso,L Giudici,T.Lograsso,D.Schlagel, Appl.Phys.Lett.91 (2007) 131904.   \n[25] J.Fernandez,X.M.Zhang,J.M. Guilemany,J.Mater.Process.Technol.139 (2003)117.   \n[26]P.J. Stonaha,M.E.Manley,N.M. Bruno,I. Karaman,R. Arroyave,N. Singh,D.L. Abernathy,S.Chi,Phys.Rev.B92(2015)140406.   \n[27]J. Liu,T. Gottschall, K.P. Skokov,J.D. Moore, O.Gutfleisch,Nat. Mater. 11 (2012) 620-626.   \n[28]B.Yuan,P.Q. Zheng,Y.Gao,M. Zhu,D.C.Dunand,Mater.Des.8O (2015)28-35. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

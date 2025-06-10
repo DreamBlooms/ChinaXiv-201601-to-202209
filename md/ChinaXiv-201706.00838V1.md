@@ -1,0 +1,162 @@
+# DOI: 10.5846/stxb201606161168
+
+李玉进,胡,焦菊英,吴多洋.黄土丘陵区不同侵蚀环境下土壤有机碳对植被恢复的响应.生态学报,2017,37（12);4100-4107.LiYJ,HuLoessPlateau.Acta Ecologica Sinica,2017,37(12）:4100-4107.
+
+# 黄土丘陵区不同侵蚀环境下土壤有机碳对植被恢复的响应
+
+李玉进'，胡 澍¹，焦菊英1,2,\*，吴多洋3
+
+1西北农林科技大学水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100  
+2中国科学院水利部水土保持研究所，杨凌712100  
+3 西北农林科技大学林学院，杨凌712100
+
+摘要;植被恢复是提高土壤有机碳累积和储存的重要措施。以黄土丘陵区两个典型侵蚀环境下的小流域即黄土区坊塌流域和础砂岩区满红沟流域退耕坡面为研究对象,分析了土壤有机碳含量(SOCC）、有机碳密度（SOCD)在同一侵蚀环境不同群落下的变化以及在同一群落不同侵蚀环境间的差异,旨在探明不同侵蚀环境下土壤有机碳对植被恢复的响应。结果表明：1)同一侵蚀环境下,与坡耕地相比，自然恢复方式下退耕地植被恢复初期 SOCC、SOCD均显著降低,之后随植被恢复均显著升高( $P <$ 0.05）;人工恢复方式下退耕地 20—25 年柠条锦鸡儿群落和13—14年刺槐群落 SOCC、SOCD 均显著升高( $\scriptstyle P < 0 . 0 5$ )，说明同一侵蚀环境内,退耕地在两种恢复方式下均能显著提高土壤有机碳累积和储存。2)同一侵蚀环境下，与相近恢复年限的自然恢复群落相比，刺槐群落SOCC、SOCD均显著高于长芒草 $^ +$ 铁杆蒿群落（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ，吡砂岩区柠条锦鸡儿群落SOCC、SOCD均显著低于铁杆蒿群落( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ),黄土区柠条锦鸡儿群落 SOCC 显著低于而 SOCD 显著高于铁杆蒿群落( $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ,说明相同恢复时间内,相对于自然恢复方式,人工刺槐造林在两种侵蚀环境下均能累积与储存较多的土壤有机碳,而柠条锦鸡儿造林在两种侵蚀环境下累积土壤有机碳的效果均不佳,在黄土区储存土壤有机碳效果好于砥砂岩区。3)同一群落下,黄土区人工和自然恢复群落 SOCC 均高于吡砂岩区;黄土区人工恢复群落 SOCD 均显著高于而自然恢复群落 SOCD均低于础砂岩区( $P { < } 0 . 0 5 )$ ，说明黄土区人工恢复累积和储存土壤有机碳及自然恢复累积土壤有机碳的效果较好,而吡砂岩区自然恢复储存土壤有机碳的效果较好。 人
+
+关键词：土壤有机碳;植被恢复方式;侵蚀环境;黄土区;砥砂岩区
+
+# Response of soil organic carbon to vegetation restoration in different erosion environments in the hilly-gullied region of the Loess Plateau
+
+LI Yujin’,HU Shu’, JIAO Juying1,2\*，WU Duoyang³   
+1StateKeboraoofSsiodryndFngeLsstestteofldaterseroestcued   
+Forestry University， Yangling 712100,China   
+2 InstituteofSoiland Water Conservation，Chinese Academyof Sciencesand Ministryof Water Resources，Yangling 71210o，China   
+3College of Forestry，Northwest Agricultureand Forestry University，Yangling 71210o,China
+
+Abstract: Vegetation restoration isone of the most important measures to improve accumulationand storageof soil organic carbon（SOC).Theobjectiveofour study was to understandtheresponseof soil organiccarbon to vegetationrestoration in diferent rosionenvironments inthehilly-gulliedregionoftheLoess Plateau.Thestudywasthusconductedon42restored slopes and sixsloping croplands（control）intheFangta watershedandthe Manhonggou watershed，whichare located, respectively，intheLoessareaandSandstoneareaandischaracterizedbydiferent erosionenvironments.Variations insoil organiccarboncontent（SOCC）and soil organiccarbon density（SOCD）among diffrent plantcommunities ineach erosion environmentand among diferent erosion environmentsforeach plant communitywereanalyzed.In each erosion environment，compared with sloping croplands，SOCC and SOCDdecreased significantlyat the preliminary stage of natural restoration while the increased significantly with the process of restoration ( $P { < } 0 . 0 5$ ）；and significant increases of SOCC and SOCD were also observed for Caragana horshinshii communities （2O—25a）and Robiniapseudoacacia communities（13 14 a).This shows thatsoil organiccarbon could beimprovedusing both natural andartificial means of restoration within each erosion environment. SOCC and SOCD of $R$ ， pseudoacacia communities were much higher than those of Stipa bungeana +Artemisia gmelinii communities （15 a）within each erosion environment ( $P < 0 . 0 5$ ）；SOCC and SOCD in C. korshinskii communities （20—25 a） were much lower than in A. gmelinii communities （30 a） in the Sandstone area $( P { < } 0 . 0 5 )$ ；and C.korshinskii communities（2O—25a） had much lower SOCC and much higher SOCD than A.gmelinii communities（30 a）in Loess area( $P { < } 0 . 0 5$ ).These results indicate that within the same duration of restoration，compared with natural restoration, $R$ ，pseudoacacia aforestation could accumulate and store more SOC within each erosion environment.The effectiveness of $C$ .korshinski aforestation for accumulating SOC was not superior within all erosion environments， however, its effctiveness instoringSOCwassuperior in theLoessarea butnotin the Sandstone area.Bothartificialand natural communities had higher SOCC inthe Loessarea than in Sandstonearea，and artificial andnatural communities had higher SOCDand lower SOCD inthe Loess area than inthe Sandstonearea,respectively.Therefore，incontrast to the Sandstone area,artificial restoration inthe Loessarea was more efective at accumulatingand storing SOC,and naturalrestoration was superior in accumulating SOC，but not in storing SOC. 1
+
+Key Words:soil organic carbon；vegetation restoration means；erosion environment；Loess area；Sandstone area
+
+土壤有机碳库是陆地生态系统碳库的主要部分,土壤有机碳储量分别是大气和生物碳库的2倍和 2.7倍[1-2]。同时,土壤碳储存是获取食品安全和缓解气候变化的一个策略,它可以提高生产力、改善水质量及修复退化的土壤生态系统[2]。作为土壤物理和化学性质的基本元素,土壤有机碳在提高作物产量和缓解温室气体释放方面发挥着重要作用[1,3],也是评价退化生态系统土壤质量变化的重要指标[4]。因此,作为陆地生态系统碳循环研究的重要组成部分，土壤有机碳研究也是退化生态系统植被恢复与重建研究的热点[5]。研究表明,随着草地转换成农地或灌木地,黄土高原半干旱草原土壤有机碳含量和储量显著降低[6;在西班牙北部地区，自然刺叶栎林转换为农地可导致表层 $67 \%$ 的土壤碳损失,而地中海白松造林后土壤有机碳含量显著增加[7]。通过植被恢复,全球退化土壤损失碳的 $6 0 \%$ 1 $7 5 \%$ 可以重新固定,土壤碳储存速率为0.3—0.8Pg/a[8]。
+
+黄土丘陵区地形破碎,土壤结构疏松,自然植被遭到破坏,导致侵蚀环境恶劣,使该区成为我国严重的水土流失区之一,也是国家退耕还林还草及生态建设的重点区域[9]。植被恢复是该区遏止水土流失、提高土壤有机碳积累和改善土壤质量的重要措施。坡耕地弃耕后,由于人为干扰的停止,植被开始自我恢复和演替,逐渐形成与该区水热条件相适应的植被群落,如自然草本或自然次生林群落[10-11]。随着植被的演替恢复,土壤有机质(碳)含量表现为先减小后增大的趋势。有机质(碳)含量减小时,地上植被参与了土壤有机质(碳)的消耗,从而提高了植被的丰富度;之后由于植被的凋落、腐解,土壤有机质(碳)含量提高,这样就形成植被与土壤的正向互动[12]。由于该区自然演替过程缓慢,在特定环境条件下人工植树种草也可增加地表覆盖和有效控制土壤侵蚀,从而增加了土壤有机碳的累积[13-16]。大量研究表明,黄土丘陵区植被恢复明显提高了土壤有机碳含量和储量[17-21],然而研究多集中于单一侵蚀环境,且主要在黄土区。在不同侵蚀环境下,由于所处的下垫面性质、气候条件及侵蚀营力等的不同,植被的生长状况和分布存在一定差异,这可能导致植被恢复过程中同一植被类型下土壤有机碳含量、土壤有机碳密度在不同侵蚀环境间存在差异。因此,通过研究不同侵蚀环境下土壤有机碳对植被恢复的响应特征，不仅有助于理解黄土丘陵区植被恢复条件下土壤有机碳源/汇的变化过程，也可以为该区植被恢复方式的选择提供一定参考。
+
+# 1研究方法
+
+# 1.1 研究区概况
+
+依据黄土高原地区植被地带性分异规律[2],分别在森林草原带和草原带选取典型小流域:陕西安塞县坊塌流域和府谷县满红沟流域。气候条件分别属于暖温带半湿润气候向半干旱气候的过渡地区和暖温带半干旱气候向中温带半干旱气候过渡地区。这两个小流域均属黄土丘陵区,但由于流域所处的气候条件、下垫面性质等不同,因而对土壤侵蚀的影响和作用不同,因此形成了不同的侵蚀景观和生态系统(即侵蚀环境)。由于两个流域下垫面物质组成差异特别显著,也因而将两个小流域称为黄土区坊塌流域和吡砂岩区满红沟流域,流域的自然地理概况详见表1。
+
+表1研究区不同侵蚀环境下小流域自然地理概况  
+
+<html><body><table><tr><td>地理信息 Geographic information</td><td>础砂岩区满红沟流域 Manhonggou watershed Sandstone area</td><td>黄土区坊塌流域 Fangta watershed Loess area</td></tr><tr><td>侵蚀类型 Erosion type</td><td>水蚀、风蚀</td><td>水蚀</td></tr><tr><td>面积Area/km²</td><td>6.8</td><td>8.4</td></tr><tr><td>经度Longitude</td><td>110°58'30"—111°02'14"</td><td>109°14'40"—109°17'09"</td></tr><tr><td>纬度Latitude</td><td>39°25'09"-39°26'43"</td><td>36°47'19"—36°49'35"</td></tr><tr><td>海拔 Altitude/m</td><td>915—1150m</td><td>1100—1350m</td></tr><tr><td>年均温 Temperature/C</td><td>7.5</td><td>8.8</td></tr><tr><td>降水量 Rainfall/mm</td><td>400(1954—2009)</td><td>507(1976—2012)</td></tr><tr><td>沟壑密度 Gully density/(km/km²)</td><td>4.3</td><td>3.8</td></tr><tr><td>土壤黏、砂粒含量/% Content of soil clay and sand</td><td>9.8、33.3</td><td>10.3、23.8</td></tr><tr><td>退耕开始年份</td><td>1999</td><td>1999</td></tr><tr><td>Start year for“Grain for Green”Project 优势植物种和农作物</td><td>铁杆蒿、长芒草、猪毛蒿、柠条锦鸡儿;</td><td>刺槐、柠条锦鸡儿、铁杆蒿、长芒草、白羊</td></tr><tr><td>Dominant plant species and crops</td><td>糜子、大豆等</td><td>草、猪毛蒿;糜子、玉米等</td></tr><tr><td>地面物质组成 Ground material composition</td><td>吡砂岩、砂黄土</td><td>黄绵土</td></tr></table></body></html>
+
+刺槐（Robiniapseudoacacia）柠条锦鸡儿（Caraganakorshinski）、沙棘（Hipophaerhmnodes）猪毛蒿（Artemisiascoparia）、铁杆（Artemisigmelinii）、长芒草（Stipabungeana）白羊草（Bothriochloaischaemum）、糜子（Panicum miliaceum）玉米（Zea mays）、大豆（Glycinemax)
+
+# 1.2样地调查与采样
+
+综合分析本课题组多年在黄土丘陵沟壑区的调查与研究,自然植被恢复方式下该区植被演替一般经历1年生先锋群落阶段、多年生禾草群落阶段、蒿类群落阶段[1-12]和疏林草原阶段,具体由猪毛蒿、赖草、长芒草、达乌里胡枝子、铁杆蒿、茭蒿、白羊草、狼牙刺等为主要优势种构成的不同组合的植物群落。而人工植被恢复方式下乔、灌物种主要包括刺槐、柠条锦鸡儿、沙棘等,并在植被恢复过程中形成了以自身为优势种的植物群落,在该区广泛分布。结合黄土区坊塌流域和吡砂岩区满红沟流域植被的实际情况,在自然恢复方式下,1年生草本群落阶段选取猪毛蒿群落,多年生蒿禾类草本群落阶段选取长芒草群落、白羊草群落及铁杆蒿群落。人工植被恢复方式下选取13—14a 的刺槐群落、20—25a的柠条锦鸡儿群落和3—5a 的沙棘群落。
+
+2015年7—8月间,依次在两个小流域开展野外植被调查和土壤样品采集。在两个流域的梁峁坡分别选择具有典型性和代表性的退耕样地,对人工和自然恢复方式下的植物群落特征进行调查[23],在每个样地内布设3—5个样方,样方大小分别为：乔木林 $1 0 \mathrm { ~ m ~ } \times 1 0 \mathrm { ~ m ~ }$ ,灌木林 $5 \textrm { m } \times 5 \textrm { m }$ ,草本 $2 \textrm { m } \times 2 \textrm { m }$ 。在每个样方内采用“S”型路线选择3一5个点，用内径 $5 \ \mathrm { c m }$ 的土钻采集表层0一 $2 0 ~ \mathrm { c m }$ 土壤样品,多点混合成一个样品。从每个样地中均选取3个代表性样方，用容积 $1 0 0 ~ \mathrm { { c m } } ^ { 3 }$ 环刀每隔 $1 0 \ \mathrm { c m }$ 采集土壤原状土，每个样方3次重复。土壤样品自然风干,过 $0 . 1 5 ~ \mathrm { m m }$ 筛以供测定。GPS 记录每个样地的地形信息,各样地的退耕年限通过野外考证与农户走访确定(表2）。
+
+表2样地基本信息  
+Table 2 Basic information of the plots   
+
+<html><body><table><tr><td>地点 Location</td><td>植物群落 Plant</td><td>样地 Plot</td><td>坡度 Gradient/(°)</td><td>坡向 Aspect</td><td>海拔 Altitude/m</td><td>群落特征 Community characteristics</td></tr><tr><td></td><td>community</td><td>3</td><td>18-22</td><td>NW、SW</td><td>1235—1265</td><td>C</td></tr><tr><td>黄土区坊塌流域 Fangta watershed</td><td>CK AS</td><td>3</td><td>20-25</td><td>NW、SW</td><td>1247—1285</td><td>3—6a,盖度25%—30%</td></tr><tr><td>Loess area</td><td>SA</td><td>3</td><td>28-32</td><td>SW</td><td>1153—1284</td><td>15a,盖度37%—40%</td></tr><tr><td rowspan="6"></td><td>BA</td><td>4</td><td>26-31</td><td>SE</td><td>1290—1341</td><td>20a,盖度 43%—45%</td></tr><tr><td>A</td><td>4</td><td>29-33</td><td>SE、SW</td><td>1222—1250</td><td>30a,盖度65%-75%</td></tr><tr><td>H</td><td>3</td><td>21-—25</td><td>NW</td><td>1296—1298</td><td>3—5a,冠幅0.52—0.58 m,株高0.83—0.91 m</td></tr><tr><td>C</td><td>3</td><td>18-27</td><td>NW、SW</td><td>1181—1264</td><td>20—25a,冠幅1.75×2.02 m,株高1.6—1.75 m</td></tr><tr><td>R</td><td>4</td><td>24-32</td><td>NW、SW</td><td>1255—1327</td><td>13-14a,冠幅3×3.5 m,株高6.8—7.2 m</td></tr><tr><td>CK</td><td>3</td><td>20-22</td><td>NW、SW</td><td>960—1002</td><td></td></tr><tr><td>础砂岩区满红沟流域 Manhonggou watershed</td><td>AS</td><td>3</td><td>22-23</td><td>NW</td><td>998—1015</td><td>1—2a，盖度20%-25%</td></tr><tr><td rowspan="4">sandstone area</td><td>SA</td><td>4</td><td>14-29</td><td>NW、SW</td><td>1011—1085</td><td>15a,盖度 60%—70%</td></tr><tr><td>A</td><td>4</td><td>20-35</td><td>NW</td><td>959-1024</td><td>30a,盖度80%-90%</td></tr><tr><td>C</td><td>4</td><td>22-25</td><td>NW、SW</td><td>954- -972</td><td>20—25a,冠幅1.02×1.24m,株高1.41—1.52 m</td></tr><tr><td>R</td><td>3</td><td>18-25</td><td>NW</td><td>988- -1075</td><td>13—14a,冠幅2.31×2.63m,株高4.3—5.1 m</td></tr></table></body></html>
+
+CK：坡耕地 Sloping croplands；AS：猪毛蒿 Artemisia scoparia；SA：长芒草 $^ +$ 铁杆蒿 Stipa bungeana +Artemisia gmelinii；BA：白羊草 $^ +$ 铁杆蒿， Bothriochloaicisiaelini；杆esiaelii；poeodes；条Cagnaorss； 槐 Robinia pseudoacacia .
+
+# 1.3样品测定与数据分析
+
+土壤有机碳采用重铬酸钾外加热法测定,土壤容重采用环刀法测定。土壤有机碳密度计算如下：
+
+式中,SOCD 为土壤有机碳密度 $( \mathrm { k g / m } ^ { 2 }$ ) $\boldsymbol { D }$ 为土层厚度( $\mathrm { c m }$ );SOCC为土壤有机碳含量( $\dot { \mathbf { \nabla } } _ { \mathbf { g } / \mathbf { k g } } )$ ; $B D$ 为土壤容重 $( { \bf g } / { \mathrm { c m } ^ { 3 } } ) .$ );100为单位转化系数。
+
+采用单因素方差分析法(ANOVA)对同一侵蚀环境不同植被群落下SOCC、SOCD 进行方差分析和差异显著性检验( $\alpha = 0 . 0 5$ )。采用独立 $\mathbf { \chi } _ { t }$ 检验方法分析不同侵蚀环境同一植被群落下 SOCC、SOCD 的差异（ $\alpha =$ 0.05）。
+
+# 2结果与分析
+
+2.1　同一侵蚀环境不同植物群落下土壤有机碳含量变化
+
+在黄土区坊塌流域和吡砂岩区满红沟流域,不同植物群落下 SOCC 变化范围分别为 $2 . 9 3 \mathrm { - } 6 . 7 0 ~ \mathrm { g / k g }$ 和$2 . 6 6 - 5 . 8 2 ~ \mathrm { g / k g } .$ 。自然恢复条件下的退耕地与坡耕地相比（有机碳含量分别为 $3 . 6 2 ~ \mathrm { g / k g }$ 和 $3 . 4 3 ~ \mathrm { g / k g } ^ { } ,$ ，猪毛蒿群落(1—6a)SOCC分别降低 $1 9 . 2 \%$ 和 $2 2 . 4 \%$ ,长芒草 $^ +$ 铁杆蒿群落( $1 5 \mathrm { ~ a ~ } )$ 分别提高 $1 1 . 5 \%$ 和 $1 0 . 3 \%$ ,白羊草$^ +$ 铁杆蒿群落( $2 0 \textrm { a } )$ 提高 $2 8 . 5 \%$ (黄土区坊塌流域），铁杆蒿群落(30a)分别提高 $8 4 . 9 \%$ 和 $6 9 . 6 \%$ 。可见，两个流域内 SOCC在植被恢复初期阶段(猪毛蒿群落)均显著降低,之后随植被恢复均呈显著升高的趋势( $P <$ 0.05）。人工恢复条件下的退耕地与坡耕地相比,3—5年生的人工沙棘群落 SOCC 降低 $8 . 8 \%$ （黄土区坊塌流域）,而两个流域内生长13—14a 的刺槐群落和20—25a的柠条锦鸡儿群落 SOCC 均显著提高( $\scriptstyle \left( P < 0 . 0 5 \right)$ ，分别达到 $6 5 . 6 \%$ 和 $5 7 \%$ . $4 7 . 6 \%$ 和 $4 1 . 4 \%$ 。对于恢复年限基本相近的人工与自然群落,3一5年生的人工沙棘群落
+
+SOCC 与3—6a的猪毛蒿群落相近(黄土区坊塌流域),而两个流域内13—14a刺槐群落 SOCC 均显著高于15a长芒草 $^ +$ 铁杆蒿群落( $P { < } 0 . 0 5 )$ ,20—25 柠条锦鸡儿群落 SOCC 均显著低于30a 铁杆蒿群落( $P { < } 0 . 0 5 )$ （204号（图1）。
+
+![](images/b52b1b6d5379563e599656d11cddd6522f730917ea1575c9968379a91ca25948.jpg)  
+图1黄土区坊塌流域与砥砂岩区满红沟流域不同植物群落下土壤有机碳含量变化特征
+
+Fig.1Variations inSOCCunderdiferentplantcommunities inFangta watershedLoessareaandManhonggouwatershed SandstoneareaCK：坡耕地 Sloping croplands；AS：猪毛蒿 Artemisia scoparia； SA：长芒草 $^ +$ 铁杆蒿 Stipa bungeana +Artemisia gmelini;；BA白羊草 $^ +$ 铁杆蒿：Bothriochloaiscemm+rtemisiagmelini；：杆rtemisiagmelini；棘Hppphamodes；C条鸡儿Carganoshnshi;R:刺槐 Robinia pseudoacacia；不同小写字母表示同一侵蚀环境不同植物群落下土壤有机碳含量在0.05 水平上差异显著
+
+# 2.2同一侵蚀环境不同植物群落下土壤有机碳密度变化
+
+在黄土区坊塌流域和吡砂岩区满红沟流域,不同植物群落下 SOCD 变化范围分别为0.65— $1 . 4 2 ~ \mathrm { k g / m } ^ { 2 }$ 和$0 . 7 3 { - } 1 . 5 4 ~ \mathrm { k g / m } ^ { 2 }$ 。与坡耕地相比（有机碳密度分别为 $0 . 8 7 \mathrm { k g } / \mathrm { m } ^ { 2 }$ 和 $0 . 8 8 ~ \mathrm { k g / m } ^ { 2 }$ ）,猪毛蒿群落(1—6a)SOCD分别降低 $2 5 . 7 \%$ 和 $1 7 . 4 \%$ ,长芒草 $^ +$ 铁杆蒿群落( $1 5 \mathrm { ~ a ~ } )$ 分别提高 $7 . 5 \%$ 和 $1 6 . 9 \%$ ，白羊草 $^ +$ 铁杆蒿群落( $2 0 \textrm { a } )$ 提高 $2 4 . 0 \%$ （黄土区坊塌流域）,铁杆蒿群落( $\left( 3 0 \mathrm { ~ a } \right)$ 分别提高 $4 8 . 3 \%$ 和 $7 5 . 4 \%$ 。可见,两个流域内植被恢复初期阶段的猪毛蒿群落 SOCD 均显著降低,之后 SOCD 随植被恢复均呈显著升高的趋势( $\scriptstyle P < 0 . 0 5 )$ 。与坡耕地相比,3—5a 生沙棘群落 SOCD 降低 $1 5 . 3 \%$ （黄土区坊塌流域）,而两个流域内13—14a刺槐群落和 20—25 a柠条锦鸡儿群落 SOCD 均显著提高( $( P { < } 0 . 0 5 )$ ，分别达到 $4 5 . 8 \%$ 和 $6 3 . 4 \%$ ， $3 4 . 3 \%$ 和 $3 0 . 2 \%$ 。对于恢复年限基本相近群落,黄土区坊塌流域人工刺槐、柠条锦鸡儿和沙棘群落 SOCD 均高于或显著高于长芒草 $^ +$ 铁杆蒿群落、铁杆蒿群落及猪毛蒿群落( $P { < } 0 . \dot { 0 } 5 )$ ;吡砂岩区满红沟流域13—14a人工刺槐群落 SOCD 高于15a长芒草 $^ +$ 铁杆蒿群落,而 20—25a柠条锦鸡儿群落 SOCD 显著低于铁杆蒿群落( $\scriptstyle P < 0 . 0 5 )$ （图2）。
+
+![](images/a671fffb68c713ee460f7e6ca18b0678a9052c9a8879bd274df42119fc69777f.jpg)  
+图2黄土区坊塌流域与矿砂岩区满红沟流域不同植物群落下土壤有机碳密度变化  
+Fig.2Variations inSOCDunderdiferentplantcommunitiesinFangtawatershedLoessareaandManhonggouwatershedSandstonearea不同小写字母表示同一侵蚀环境不同植物群落下土壤有机碳密度在0.05 水平上差异显著
+
+2.3同一群落土壤有机碳含量及密度在不同侵蚀环境下的比较由表3可知,同一植物群落下,30a的铁杆蒿群落和13—14a 的刺槐群落 SOCC 在黄土区坊塌流域均显著高于砥砂岩区满红沟流域( $P { < } 0 . 0 5 )$ ,其它植物群落 SOCC 在黄土区坊塌流域高于础砂岩区满红沟流域,但均无显著差异。整体上来说,黄土区坊塌流域人工和自然恢复群落土壤有机碳累积的能力高于砥砂岩区满红沟流域。30a的铁杆蒿群落SOCD在吡砂岩区满红沟流域显著高于黄土区坊塌流域( $P { < } 0 . 0 5 )$ ，其它自然植物群落 SOCD在础砂岩区满红沟流域高于黄土区坊塌流域,但均无显著差异;而13—14a人工刺槐群落和20—25a柠条锦鸡儿群落 SOCD 在黄土区坊塌流域均显著高于矿砂岩区满红沟流域( $P { < } 0 . 0 5 )$ ，说明吡砂岩区满红沟流域自然恢复群落更有利于土壤有机碳的储存,而黄土区坊塌流域人工乔、灌群落更有利于土壤有机碳的储存。
+
+表3同一群落SOCC、SOCD在两个不同流域间的差异  
+Table 3Variations in SOCCand SOCDunderthesamecommunitybetweenFangta watershedLoessareaandManhonggou Watershed Sandstone area   
+
+<html><body><table><tr><td rowspan="2">植物群落 Plant community</td><td colspan="2">SOCC/(g/kg)</td><td>SOCD/(kg/m²)</td></tr><tr><td>黄土区坊塌流域 Fangta watershed</td><td>础砂岩区满红沟流域 Manhonggou watershed</td><td>黄土区坊塌流域 吡砂岩区满红沟流域 Fangta watershed Manhonggou watershed</td></tr><tr><td>CK</td><td>loess area 3.62A</td><td>sandstone area 3.43A</td><td>loess area sandstone area 0.87a 0.88a</td></tr><tr><td>AS</td><td>2.93A</td><td>2.66A</td><td>0.65a 0.73a</td></tr><tr><td>SA</td><td>4.04A</td><td>3.78A</td><td>0.93a 1.03a</td></tr><tr><td>A</td><td>6.70A</td><td>5.82B</td><td>1.29a 1.54b</td></tr><tr><td>C</td><td>5.69A</td><td>5.06A</td><td>1.42a 1.18b</td></tr><tr><td>R</td><td>6.00A</td><td>4.85 B 2</td><td>1.27a 1.14b</td></tr></table></body></html>
+
+不同大、小写字母分别表示不同侵蚀环境同一植物群落下土壤有机碳含量、土壤有机碳密度在0.05 水平上差异显著
+
+# 3讨论
+
+# 3.1植被恢复对土壤有机碳的影响
+
+研究区域地处水土流失严重区,该区植被恢复与土壤有机碳含量、土壤有机碳密度的变化有密切关系。本研究结果表明,坡耕地退耕后 SOCC(SOCD 随自然植被恢复呈先减小后增大的趋势(图1、图2）,这与马祥华和焦菊英[12]的研究结果基本一致。本研究中,草本群落盖度随自然恢复呈增加趋势(表2),而植被盖度的增加增强了土壤抵抗侵蚀的能力,从而有利于土壤有机质(碳)的累积[24]。同时,地上植被枯落物在土壤表层覆盖,可以防止或减轻雨水对土壤的侵蚀作用,并最终在土壤微生物的作用下以土壤有机质(碳)的形式进入土壤[25]。对于人工恢复群落,坡耕地退耕为人工乔、灌群落后,SOCC、SOCD 随植物群落恢复年限的增加也显著增加( $\scriptstyle P < 0 . 0 5 )$ （图1、图2）,这与韩新辉等[26]的研究结果类似,即退耕 $1 2 \mathrm { a }$ 的刺槐、沙棘等人工植被均显著提高了SOCC、SOCD。因此，人工乔、灌群落恢复年限影响 SOCC、SOCD 的变化。已有研究表明,黄土高原人工刺槐林 SOC 由源到汇的时间为 3— $\cdot 8 \mathrm { a } ^ { [ 1 6 ] }$ 。与坡耕地相比,黄土丘陵沟壑区0— $2 0 ~ \mathrm { c m }$ 土层未成熟刺槐林（ $< 1 0$ a) SOCD 低于坡耕地,而成熟林( $> 3 0$ a) SOCD 增加了 $5 9 . 5 4 \% ^ { [ 2 7 ] }$ 。本研究中不同侵蚀环境下刺槐群落(13—14a)SOCD 增幅分别为 $4 5 . 8 \%$ 和 $3 0 . 2 \%$ ,说明在黄土区和础砂岩区人工刺槐群落 SOCD 随林龄增加仍有提高的潜力。
+
+# 3.2气候条件对土壤有机碳变化的影响
+
+同一植物群落下,不同侵蚀环境间 SOCC、SOCD 存在差异（表3）,这种差异可能受到气候条件的影响。在干旱和半干旱地区,土壤水分对植物的有效性是决定植物的生产力、植物分布的异质性和生活型的一个重要因子[28-29]。黄土丘陵沟壑区大部分地区植物生长所需的土壤水分完全依靠大气降水补充[30]。由于水分条件的变化,森林草原地带铁杆蒿群落地上和地下生物量分别约低于森林带1.7倍和1.8倍以上[31]。黄土丘陵区从北到南（年降雨量范围从 $3 8 9 . 6 ~ \mathrm { m m }$ 变化到 $5 5 8 . 4 ~ \mathrm { m m }$ )林地细根生物量密度由 $1 . 4 9 ~ \mathrm { k g / m } ^ { 3 }$ 变化到4.26$\mathbf { k g } / \mathbf { m } ^ { 3 [ 3 2 ] }$ 。研究表明,地上生物量、细根生物量与 SOC 积累密切相关[24,33],SOC 的累积随植被地上生物量的增加而增强[24],SOCD 随林地细根生物量密度增加呈对数增加趋势[32]。因而,降雨量空间分布的差异间接造成了 SOCC、SOCD 的差异。本研究中,黄土区坊塌流域和吡砂岩区满红沟流域年均降雨量分别为 $5 0 7 ~ \mathrm { { m m } }$ 和$4 0 0 ~ \mathrm { { m m } }$ (表1),调查发现吡砂岩区满红沟流域植被以草本植物为主,梁昴坡林、灌植被面积小且长势较差,黄土区坊塌流域乔、灌植被均分布面积较大,这可能导致两个不同侵蚀环境下人工乔、灌群落地上生物量和细根生物量积累的能力产生差异,从而造成 SOCC、SOCD的差异。而且,砥砂岩区满红沟流域常年遭受风力侵蚀，人工乔、灌群落形成的凋落物容易被吹散而不易形成枯枝落叶层,从而减小了供应土壤有机物质的能力。
+
+同时,植物潜在生产力是绿色植物每年在单位面积上可能生产的有机干物质(包括植物地上和地下植物的总和),它既反映了气候条件下(年均温度、年均降雨量)植物产量可能达到的最大值[34],也反映了植物向土壤供应土壤有机物质的潜力。依据Lieth[35]提出的 miami模型,黄土区坊塌流域多年平均降雨量和平均温度均高于砥砂岩区满红沟流域(表1),即黄土区坊塌流域植被的潜在生产力也大于矿砂岩区满红沟流域。因而,黄土区坊塌流域植被向土壤供应土壤有机物质的潜力更大,这可能会导致未来不同侵蚀环境间 SOCC、SOCD 差异增大。
+
+# 3.3下垫面条件对土壤有机碳变化的影响
+
+本研究中,坡耕地和同一植物群落下,砥砂岩区满红沟流域 SOCC均低于或显著低于黄土区坊塌流域（ $P { < } 0 . 0 5 )$ （表3）。一方面,这可能与础砂岩区满红沟流域沟壑密度相对较高有关(表1),而沟壑密度既是反映地表破碎程度的重要因子,也是反映土壤侵蚀严重程度的重要指标[36-37]。研究表明,SOCC 的降低与土壤侵蚀密切相关,且 SOCC 的损失随侵蚀强度的增加而增大[38-40]。因而,矿砂岩区满红沟流域沟壑密度较高,土壤侵蚀也较严重,使得 SOCC 更容易损失从而不利于土壤有机碳的累积。另一方面,矿砂岩区满红沟流域土壤砂粒含量 $( 3 3 . 3 \%$ )高于黄土区坊塌流域( $2 3 . 8 \%$ )（表1），而砂粒含量的增多不利于 SOCC 的累积[4I]。同一植物群落下,础砂岩区满红沟流域自然恢复群落 SOCD高于或显著高于黄土区坊塌流域(表3）,这可能与土壤容重有关。黄土区坊塌流域退耕地自然恢复群落0— $1 0 \mathrm { \ : c m }$ 和10- $\cdot 2 0 \ \mathrm { c m }$ 土壤平均容重分别为 $1 . 0 7 ~ \mathrm { g / c m } ^ { 3 }$ 和 $1 . 1 7 ~ \mathrm { g / c m } ^ { 3 }$ ,而吡砂岩区满红沟流域分别为 $\mathrm { 1 . 3 0 \ : \underline { { { g } } } / c m } ^ { \sqrt { 3 } }$ 和 $1 . 4 1 ~ \mathrm { g / c m } ^ { 3 }$ 。因而,不同侵蚀环境下垫面条件的差异对土壤有机碳的变化有重要影响。
+
+# 4结论
+
+在黄土丘陵区,不同侵蚀环境下植被恢复与土壤有机碳变化密切相关。坡耕地退耕后,黄土区与砥砂岩区自然和人工植被恢复均显著提高了土壤有机碳的累积和储存;相近恢复年限内,相对于自然恢复方式,人工刺槐造林在两种侵蚀环境下均能累积和储存较多的土壤有机碳,而柠条锦鸡儿造林在吡砂岩区累积和储存土壤有机碳的效果均不佳。
+
+同一植被恢复方式下,黄土区人工和自然恢复累积土壤有机碳的效果均较好;吡砂岩区自然恢复更有利于土壤有机碳的储存,而黄土区人工恢复储存土壤有机碳的效果较好。不同侵蚀环境间土壤有机碳累积与储存的差异可能受到气候条件、下垫面性质等的影响。
+
+# 参考文献（References）:
+
+[1]Post WKonKCSlboqustratidldsehage：roesdotetial.lobalageo）.  
+[2]LalR.Soil carbonsequestration impactsonglobalclimatechangeand fodsecuriy.Science,2004,304（5677）：1623-1627.  
+[3]ScoeSVngoHgerJ.vofcalicalpropetsdcatosfrstlqaltlopportunities.Forest Ecology and Management，2000,138(1/3）：335-356.  
+[4］李跃林，彭少麟，赵平，任海，李志安.鹤山几种不同土地利用方式的土壤碳储量研究.山地学报，2002,20(5)：548-552.  
+[5] 苏静，赵世伟，马继东，杨永辉，刘娜娜.宁南黄土丘陵区不同人工植被对土壤碳库的影响.水土保持研究，2005，12（3）：50-52,179- 179.  
+[6]QiuLP,WeiXR,ZhangXC,ChengJM,GaleW,GuoC,LongT.Solorganicarbonlosesduetolandusechangeinasemiardasland.Plant and Soil,2012,355(1/2)：299-309.
+
+http://www.ecologica.cn
+
+Geoderma，2010,159(1/2)：31-38.  
+[8] LalR.Soilagdoatifstteeaesrosio99,1(4) : 307-326.  
+[9] 薛蓬，刘国彬，戴全厚，卫伟，侯喜禄.侵蚀环境生态恢复过程中人工刺槐林（Robinia pseudoacacia）土壤微生物量演变特征.生态学报，2007,27(3): 909-917.  
+[10] 朱志诚，黄可.陕北黄土高原森林草原地带植被恢复演替初步研究.山西大学学报：自然科学版，1993，16(1)：94-100.  
+[11] 焦菊英，张振国，贾燕锋，王宁，白文娟.陕北丘陵沟壑区擢荒地自然恢复植被的组成结构与数量分类.生态学报，2008，28（72981-2997.  
+[12] 马祥华，焦菊英.黄土丘陵沟壑区退耕地自然恢复植被特征及其与土壤环境的关系.中国水土保持科学,2005，3（2)：15-22，31-31  
+[13] 邹厚远，程积民，周麟.黄土高原草原植被的自然恢复演替及调节.水土保持研究，1998，5(1)：126-138.  
+[14] LiYY,ShaoA，aanZ,FanJ，WangLM.SdyoneegadingprocessndvegeatioueioofecagoativagaadinNorth LoessPlateau,China.Acta Prataculturae Sinica,2O06,15(2）：85-92.  
+[15] Wang Z,LiuG,XuX,ZangJ，WangYangTmporadsatialtioiniloancarbseqstroolowgeatioin the hilly Loess Plateau，China. Catena,2012,99：26-33.  
+[16] LuN,LiskiJ,agRY,AujrviA,WuX,Jin,WanY,FuBJSlorgaarbdasblaclustplantatisdeLoess Plateau area of China.Biogeosciences，2013，10：7053-7063.  
+[17] 彭文英，张科利，陈瑶，杨勤科.黄土坡耕地退耕还林后土壤性质变化研究.自然资源学报，2005，20(2)：272-278.  
+[18] 黄和平，杨喆，毕军，宋炳煜.皇甫川流域植被恢复对改善土壤肥力的作用研究.水土保持通报，2005，25(3）：37-40.  
+[19] 马玉红，郭胜利，杨雨林，王小利，杨光.植被类型对黄土丘陵区流域土壤有机碳氮的影响．自然资源学报，2007，22（1)：97-105.  
+[20] FuXL，ShaoMA，WeiXR,HortoR.SologanicarboandotalitrogeasetedbyegeatiotysirthLessPlatfCa.Geoderma，2010,155(1/2)：31-35.  
+[21] 王凯博，时伟宇，上官周平.黄土丘陵区天然和人工植被类型对土壤理化性质的影响.农业工程学报，2012，28（15）：80-86.  
+[22] 王义凤.黄土高原地区植被资源及其合理利用.北京：中国科学技术出版社，1991.23-24.  
+[23] 董鸣.陆地生物群落调查观测与分析.北京：中国标准出版社，1996．  
+[24] 杜峰，梁宗锁，徐学选，山仑，张兴昌.陕北黄土丘陵区搁荒草地群落生物量及植被土壤养分效应.生态学报，2007,27（5)：1673-1683.  
+[25] 王国梁，刘国彬，刘芳，侯喜禄，周生路.黄土沟壑区植被恢复过程中植物群落组成及结构变化.生态学报，2003，23(12)：250-2557.  
+[26] 韩新辉，佟小刚，杨改河，薛亚龙，赵发珠.黄土丘陵区不同退耕还林地土壤有机碳库差异分析.农业工程学报，2012，28（12)：223- 229.  
+[27] QinYB,XiZXXieofeatistotoolcbiltfilChina.PLoS One，2014,9（6)：e94489.  
+[28] Noy-MeirI.Desert ecosystems:environmentand producers.Annual ReviewofEcologyand Systematics，1973,4（1）：25-51.  
+[29] SyanHA.Shor-teesposeofagelndtacalompositondproductivitytofetilzio（Nnd）insaridliatefSouthAfrica. Journal of Arid Environments,2002,50(1):167-183.  
+[30］王经民，戴夏燕，韩冰.黄土丘陵区土壤水分研究.农业系统科学与综合研究，2000,16(1)：53-56.  
+[31］朱志诚，贾东林.陕北黄土高原铁杆蒿群落生物量初步研究.生态学报，1993，13(3)：243-251.  
+[32］李俊超，郭胜利，党廷辉，张彦军，李娜娜.黄土丘陵区不同退耕方式土壤有机碳密度的差异及其空间变化.农业环境科学学报，2014,33(6): 1167-1173.  
+33]UpsonMAgssPJSlncarbodotdistibtioitpeateableoforsttntdSl1):43-58.  
+[34] 郭志华，李琼婵.广东省植被潜在生产力的估算及其分布.热带亚热带植物学报，1997,5(1)：45-52.  
+[35]Lieth H，Whitaker RH.Primary Productivityofthe Biosphere.Berlin Heidelberg:Springer Science $^ +$ Business Media，1975.  
+[36］张丽萍，马志正.流域地貌演化的不同阶段沟壑密度与切割深度关系研究.地理研究，1998，17（3）：273-278.37] 韦中亚，周贵云，罗万勤.一种基于数学形态学的沟壑密度提取算法.地理学与国土研究，2001,17(2)：24-27.  
+[38]/ZhangJQuiA，SJ，GeFsddaofSinelatiolditroateandileerosiooaeBiology，2006,12（10)：1834-1841.  
+[39]Martie-aJ，agbladeJastllrt,FyOracboctdesrainfall characteristics under different land uses in a Mediterranean area.Catena，2O12,94：36-42.  
+[40] PolyakovV,dlctel.  
+[41] 赵哈林，李玉强，周瑞莲，赵学勇，张铜会，王进.内蒙古东部两大沙地土壤理化特性沙漠化演变规律的比较.地球科学进展，2011，26(7): 779-786.

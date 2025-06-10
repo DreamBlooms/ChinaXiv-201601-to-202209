@@ -1,0 +1,358 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201708291563 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨阳,朱元骏，安韶山.黄土高原生态水文过程研究进展.生态学报,2018,38(11)：4052-4063.  \nYangY,ZhuY，AnSReviewoncohydrologicalprocesssinLossPlateau.ActaEcologicaSinica,O18,8（11）:4054063.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黄土高原生态水文过程研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨阳1,²，朱元骏²，安韶山1,2,\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1西北农林科技大学资源环境学院，杨凌712100  \n2 西北农林科技大学黄土高原土壤侵蚀与旱地农业国家重点实验室，杨凌712100",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以黄土高原水文过程为主线,围绕水资源短缺、水量分布不均衡、水文过程的复杂性和非稳态等特性，梳理了黄土高原水文过程的主要现状及研究进展,包括水资源分布、水量平衡和水文循环等过程;融合生态水文尺度效应,从土壤、微生物、植物冠层、坡面、流域和景观等方面归纳和总结了黄土高原生态水文过程;针对该区生态水文过程的时空异质性,提出未来更需要通过多学科交叉与融合手段,加强宏观与微观过程的集成与联网研究;采用多尺度、多要素、多时空的综合观测与模拟手段,定量重要生态功能区水分承载力及生态阈值;从生态学和水文学方面揭示不同时空尺度下水分转移与分配特征;为解决黄土高原水资源的宏观调控与最优分配模式提供理论基础。 2 Y",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：水文过程；尺度效应；黄土高原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Review on ecohydrological processes in Loess Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Yang1，ZHU Yuanjun²，AN Shaoshan1,2, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Colege of Resource andNaturalEnvironment，Northwest Agriculture&ForestryUniversity，Yangling7121,China   \n2StateKebroflosFinstesue&stUit ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This review focused on ecohydrological processes with the issues of water scarcity，distribution，andcomplexity anduncertaintyof ecohydrological processes intheLoess Plateau.Firstly,thecuent situationsand principalaspectsof the eco-hydrological proceses intheLoessPlateau were reviewed,including waterresources，balance，andcycling.Secondly, six aspectsof the eco-hydrological processes were summarized from soil，soil microorganisms，plantcanopy，slope, catchment，and landscapewith thescaleefects.Finally，basedon thespatialand temporal heterogeneityof theeco hydrological processs，certainprincipal future strategiesregardingof ecohydrological processes wereproposed:（i) strengthening thenetworking of macro-and microprocesss bymultidisciplinary integration methods，（ii）quantifyng the threshold of water-carrying capacity basedonthe long-termobservationand model simulationwith the multiple scale, multiplefactors，and multiple temporalandspatial scales，and（ii）expounding thecharacteristicsof the transferand distributionof ecohydrological processesindiferentscalesinecologyandhydrologyOverall，thisreview willhelpin exploringthe problemsregarding macro-adjustmentand optimal allcation paters for water，and provideaguideof strategies and technological demands for ecological restoration and construction in the Loess Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: ecohydrological process； scale effect; Loess Plateau",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水是地球上各生态圈/层之间物质循环和能量交换的主要驱动力,对整个生态系统服务功能起着关键的",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "调节作用[1-2]。水循环尤其是陆地水循环对全球变化极为敏感[3],陆地水循环演变及其在全球变化中的作用,是全球气候治理、应对全球变化及水危机的重要基础和支撑,也是国际地圈生物圈计划(IGBP)和国际水文计划(IHP)等关注的重大热点和前沿命题[4-5]。随着气候变化和人类活动影响的深人,陆地水循环过程及通量发生了明显的改变,由此引发一系列生态环境效应[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态水文学是一门新生的交叉学科,主要研究生态过程与水文过程在不同时空尺度的相互作用,从学科的发展来看,生态水文学在水循环的过程机理、驱动机制以及模型耦合等方面显示出学科的前沿性和优越性，并且在水循环的实践应用中得到了广泛关注[6-7]。20 世纪90年代诞生的生态水文学在解决诸多过程与格局等科学问题发挥了重要作用[7]。2008年国际上生态水文杂志 Ecohydrology 发表水文循环专刊,强有力地推动了整个生态水文学的发展与进程[8-9];2012年的国际水文科学协会(IAHS,2013—2022 年)科学计划主题战略国际研讨会以及2016年的国际水文科学协会中国国家委员会（CNC-IAHS)学术大会特别强调了生态学和水文学之间交叉作用的重要意义[5]。 C/2",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生态水文过程涉及到大气-土壤-生物等繁多的要素,除各要素之间存在多向反馈作用外，生态水文过程还受到自然和人类活动的双重作用,表现出复杂的时空异质性与非稳定性[10-11]。西方国家率先将生态水文过程由分离式过渡到\"大气-陆面”和\"陆面-水文\"耦合模式,以单向耦合研究为主[3-5];随着学科交叉的发展，生态水文过程逐步向“双向耦合\"的模式转变,同时融入了生态原理、生态模型与时空尺度,使得生态水文过程的尺度效应愈加明显。黄土高原是我国乃至世界上水土流失最严重、面积最大的地区之一,长期以来,水资源短缺生态环境脆弱等一系列问题都与水文过程密切相关,加之独特的水文、气候、地貌特征,该区的生态水文过程成为国内外众多学者关注的焦点。在实践需求和尺度效应的耦合模式下,本文从土壤、微生物、植物冠层、坡面、流域和景观等方面归纳和总结了黄土高原生态生态水文过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1关键科学问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄土高原生态水文过程不仅驱动物质循环和能量交换,而且在生态系统服务功能中扮演着重要角色[12]以气候变化和人类活动引起的土地利用变化对生态水文过程影响显著,也极大影响了该区生态环境变迁。图1从不同尺度(微生物、冠层、坡面/流域、景观)总结和呈现了气候变化和人类活动对我国环境变化(整个生物圈物质循环、能量流动和水文循环)的响应,也显示了水文过程对整个生物圈乃至人类生存的环境中的重要战略意义[12-13]。2016 年发布的全国生态环境十年变化（2000—2010年)调查评估报告中:我国生态环境脆弱,近十年生态系统质量和服务功能均有所降低[12.4]。中国科学院生态环境研究中心对于黄土高原区的环境质量评估中,该区生态环境依旧脆弱,人工化加剧,生态环境问题依然突出,水土流失、土地沙化等土地退化问题依然严重[5-16]。最新的研究结果也显示:自退耕还林(草)政策实施以来,黄土高原植被覆盖度显著增加,其生态系统过程、结构和功能也随之变化[17]。尤其在全球变化背景下,不同尺度的水文过程也发生了明显变化,影响着整个生态圈的能量和物质交换过程[18-19]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2(概念模型图)从土壤、微生物、植物冠层、坡面、流域和景观等方面总结了生态水文过程的尺度效应。黄土高原水文过程往往受降水格局的影响较大,降水的发生时间、脉冲、频率、强度和持续时间有极大的不确定性和间歇性,这导致该区水文过程不均衡性和非稳态特性[17,20],再加上其特殊的地形条件、土壤、气候环境以及人类活动等因素,使得该区水文过程与分布格局具有独特性和地域性[21]。多年来,大量学者对我国黄土高原水文过程的研究形成了较为完整的体系和框架,然而忽略了水文过程的尺度效应。植被、土壤、微生物是生态系统各种生命活动的载体,也是连接生物、物理和化学过程的主要反应场所[22-23];水文过程极大影响和控制着植物代谢和微生物活动,这种调控包括多界面和节点的网络系统,也涵盖了地表径流、大气降水、土壤水（壤中流）、气态水、地下水(水库）、植物水（自由水和结合水)的相互转化与耦合过程,并且各过程之间的耦合与反馈存在时空尺度效应[16-17]。因此,从植被、土壤和微生物等角度探究生态水文过程是解决黄土高原水文循环的关键所在，由此我们提出以下关键科学问题：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http ://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/309fb8faf770dc7961ac8fc3c0cc0ff3054b0e63a9fe258bed71ea8a7bfafc71.jpg",
+        "img_caption": [
+            "图1黄土高原水文过程的重要意义",
+            "Fig.1The importance of hydrological processes in Loess Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图1中国地图来源于欧阳志云等[12]，图1黄土高原地图来源于冯晓明等[13](1)植被在水文过程的尺度效应",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黄土高原植被建设对水循环的垂直过程、水平过程及通量特性具有显著的影响,并表现出自然恢复与人工植被恢复的二元驱动性。那么,植被恢复进程如何影响到降水和蒸发过程？植被各界面对蒸腾、入渗等垂直过程有何影响？如何影响到坡面和流域等水文过程？植被恢复与水分承载力如何权衡?",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)土壤在水文过程的尺度效应",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤能够贮存水分,降雨、蒸散发、地表径流共同影响生态系统水量平衡。土壤水量平衡与地下水补给(地下补水量与补水周期)的相互关系(此消彼长),降水有效性、入渗过程、地表径流、水分蒸散发等过程对水文过程的贡献,尚未引起足够的关注。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)微生物在水文过程的尺度效应",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "植被承载力、微生物群落与水分循环的反馈调节以及三者之间的融合交叉作用成为黄土高原水文过程中需要解决的主要矛盾。土壤微生物是地下生态系统代谢过程中重要的组成部分,气候变化引起的水文过程如何影响土壤微生物过程？水文过程怎样调控微生物过程使得植被-水分承载力合理最大化？未来应建立什么样的水-植被-微生物生态模型？",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（为了回答这些问题,本文试图从土壤、微生物、植物冠层、坡面、流域和景观等尺度阐述黄土高原水文过程的研究进展,融合尺度效应,将现有的研究进行归纳和总结;并对近代以来黄土高原生态水文过程所存在的关键问题进行了讨论与展望,以期从概念模型与理论基础上全面理解植被-土壤-微生物在水文过程中的相互作用,为解决黄土高原水资源的宏观调控与最优分配模式提供基础参考。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2黄土高原水文过程的尺度效应",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1黄土高原水量平衡 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤水文过程包括蒸散发过程、人渗过程和渗漏过程,这三大过程共同决定着土壤水量平衡[22-23]。黄土高原由于土层深厚,在加上降水稀少,使得土壤层能够截留并保持大部分入渗水量,极大减弱了降水入渗转化为深层水量的可能性,这也就决定了地下水难以参与土壤水分循环中,因此降水量和蒸散量是影响该区水量平衡最重要的因素[23]。建国以来,黄土高原开展了大规模的生态环境建设,投人了大量的人力、物力和财力用于保水固土、防治水土流失、提高水资源利用率,并营造了大面积的生态防护林,扭转了日益恶化的水土流失局面[24-26]。有研究发现,在陕北黄土丘陵沟壑区的刺槐林地,冠层截留量、地表径流量和蒸散量之和远远超过降雨量,加之没有深层地下水补给,使得植被生长受到水分胁迫,土壤水分经常处于亏缺状态[27]。Huang等人[3]研究了黄土高原水文过程与地下水补给的关系,主要结果为：(1)地下水补给主要发生在7—9月的雨季。 (2)黄绵土水分运移速率为 $0 . 2 { \\mathrm { - } } 0 . 3 ~ \\mathrm { m / a }$ ,降水需要60—500 年才能到达地下水面。（3)种植苹果、苜蓿和其他灌木可显著降低降水入渗。Liu等人[28]对渭北旱源人工草地的水量平衡研究中,紫花苜蓿由于蒸散耗水量大,需要消耗土壤深层水分,从而极易形成土壤干层;与之相比,在同一地区的大叶苜蓿水分消耗量相对较小,降雨输入量基本与蒸散耗水量持平。在晋西黄土残源沟壑区,人工乔木树种油松和刺槐的蒸散耗水量均大于该区的降水输入量,林木生长易受水分胁迫;而灌木树种虎棒子和沙棘的蒸散耗水量小于乔木树种的耗水量,林分生长受到水分胁迫的程度较乔木树种小[29]。在黄土丘陵区的生长季(5—9月)灌木林柠条（蒸腾量占降雨量的 $4 0 \\%$ )与沙棘(蒸腾量占降雨量的 $7 6 . 1 \\%$ )的蒸腾耗水量都很大,土壤水分表现为亏缺[30]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cdce1d66514fb245ded1b120862c1eeb5914fa746ab24f02e7b87710a76c1687.jpg",
+        "img_caption": [
+            "图2黄土高原不同尺度下的水文过程",
+            "Fig.2The hydrological processes of different scale in Loess Plateau "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "黄土高原土壤储水既有收入,也有支出,处于动态的平衡状态[2-23]。由于地下水埋藏很深,大气降水作为主要的收入项,渗入土壤中形成“土壤水库”,部分地区和地段还包括少量的凝结水和地下水补给;支出项包括植被的冠层截留、蒸散耗水、地表径流和水分下渗等过程。水量收入项和支出项的差值反映了土壤储水量的变化[31],而水分的有效性和可利用性反映了土壤水库的动态变化,尽管土壤水库(深层水库和有效水库)对植物的生长起着调节作用,深层土壤水库经常处于亏缺状态[2-30],总体上表现出局部丰水和干旱相互交替的局面[28]。前人的研究表明,黄土高原土壤水量的支出项往往大于收入项,土壤浅层水库和有效水库严重亏缺[31],而深厚的黄土层使得土壤深层水库容量较大;同时, $1 0 \\mathrm { ~ m ~ }$ 深度的土壤有效储水量可达到年平均降水量的2—3倍,这使得植被在生长前期处于过度耗水状态,生长后期才消耗土壤有效储水量。然而土壤干层在一定程度上阻断或者切断了土壤水分在上下层的交换[32],导致整个“土壤水库\"的功能减弱、地上植被因缺水而退化或死亡,进而造成黄土高原整个生态系统的退化和水量分布不均衡的格局[33-35]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2植被对生态水文过程的调控 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于水分与植被关系的理解,Walter 和 Stadelmann[36]提出的水分分割理论,认为小概率的降水事件能够有效地补充浅层水库,而大降水事件能够有效地补充深层土壤水库,因此,草本植物(根系分布较浅)更倾向于利用浅层土壤水库,灌木和乔木(根系分布较深)倾向于利用深层土壤水库,从而有效的解决了林-灌-草的合理共存。除此之外,植物根系在水势差的驱动下,体现出水力提升的功能,也即土壤中的有效水分通过水力提升和水势差被释放和转移到土壤表层,保证植物的有效吸水和生长用水[37]。然而,目前关于植物的水分利用来源以及转移方式的研究较少,并且也不能得到令人信服的结论。Brooks等[38]的研究认为降水下渗到土壤后,被植物利用的水分与直接入渗的水分来源不尽一致,由此对传统的土壤水分运移过程(平移理论)提出了质疑,在此基础上提出了土壤水分可能由植物利用的有效水库和地表入渗的水库组成的理论;Ryel等[39]进一步提出了浅层植物利用土壤有效水库,而深层土壤水分则维持土壤水库的概念模型。在我国黄土高原,关于水文过程在土壤-植物水分关系、土壤水异质性、土壤水分植被承载力等方面取得了丰硕的研究成果。在土壤水异质性方面,傅伯杰等[40]展开了从小区-断面-小流域-区域等不同尺度土壤水分的空间变异性研究,发现;1)土壤物理化学性质的时空异质性导致在不同尺度上机理和过程的不同;2)土壤水利用者的时空异质性导致土壤-植被系统的水分异质性;3)地形、大气(地下水位等因子是影响土壤水分异质性的重要因素。黄明斌和康绍忠[41]在土壤-植物水分关系方面的研究中,发现土-根界面行为对冬小麦单根吸水有重要影响;邵明安等[42]发展了根系吸水模型,提出了一个能反映根系吸水机理的宏观数学模型;康绍忠等[43]在对作物冬小麦的根系伸展深度、重量根密度以及土壤含水量分布的实测资料基础上建立了冬小麦根系吸水模型。在宏观尺度上,发现在黄土高原植被和高产农田对土壤水的过度利用会导致土壤干燥化,人工植被对区域水分循环有着重要影响(消减入黄径流量),能明显改变区域生态水文过程[23]。基于土壤水分和植被承载力,夏永秋和邵明安[44]将生态水文过程与生物地球化学循环过程有机的结合起来，从而建立了土壤水分-植被承载力模型,实现了对黄土高原小流域水文过程的有效模拟。近期傅伯杰研究组[15]从表征植被干旱特征的“植被覆盖-地表温度的三角空间\"概念出发,揭示了黄土高原植被变化的土壤水分时空变化特征,界定了黄土高原植被恢复导致大规模土壤水分下降的区域,发现森林-草地过渡带是土壤水分下降最为剧烈的区域,为大尺度植被恢复的区域适宜性和有效性评价提供了科学方法和理论依据。目前国内对于黄土高原生态水文过程的研究多集中在单个功能层次，对各层次之间水分传输整体耦合研究较少，并且仍然存在区域差异性和时空的滞后性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤微生物对生态水文过程的调控",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水分为土壤微生物提供了基本的生存条件,促进土壤微生物代谢活动,是生态系统中各种生物学过程的动力源泉。土壤微生物群落具有不同的生态位,通过与食物网与食物链构成微生物网络系统,驱动土壤养分循环与水文过程[4546]。有研究指出水分对土壤微生物群落结构和交互作用表现为叠加、协同或者是拮抗[47]，例如 Bi等[30]在温带草原的研究中发现水分对微生物群落的碳利用能力有显著的协同作用;也有研究发现降雨会导致土壤湿度的增加,土壤湿度的增加在一定程度上改变了土壤微生物群落结构组成,并且降低了真菌/细菌比[46];De Nobili等[48]的研究发现降雨增加和降雨减少均对土壤微生物群落构成没有产生任何影响;Miranda 等[49]通过长期的控制实验将土壤湿度对微生物群落的影响概括为两个阶段,第一阶段为：当土壤水分较低时,土壤水分会增加土壤微生物群落代谢活动,此时的土壤水分为饱和含水量的 $5 0 \\%$ 以上；第二阶段为:当土壤水分继续增加时(达到饱和含水量),造成土壤孔隙度降低,土壤中氧气含量降低、气体扩散过程受阻,从而抑制了好氧微生物活性。由于土壤微生物群落结构的复杂多变性及对水分的敏感性,与该研究结果类似的结论相对较多。在黄土高原区,水分干湿交替会改变好气性和嫌气性细菌比值，长期的水淹会抑制细菌和真菌生长代谢。当发生干旱胁迫时,水分不仅抑制了微生物活性,还降低了微生物的呼吸速率,但土壤微生物仍处于对水分的“代谢机敏状态”[47],也就意味着土壤微生物对于干旱胁迫（水热交替等)表现出可塑性的变化。尽管在黄土区土壤细菌丰度随水分梯度增加而减少,但土壤细菌多样性并不依赖于水分梯度的变化，这说明土壤微生物对水分的变化具有一定的缓冲作用，这是土壤微生物过程对水分应激性的表现形式之_[50]。另有研究显示,土壤真菌群落结构对水分变化敏感，而放线菌的群落结构则随着季节和年份的变化无显著差异[51]。综上所述,并不是所有的微生物群落都对生境中的水分变化敏感，土壤微生物群落对水分的响应机制可能是不同的，体现出土壤微生物在水文过程中发挥的重要作用。总结土壤微生物对生态水文过程的调控作用(图3），如图所示，土壤微生物活性能够改变土壤表面性质，如增强土壤疏水性和改变土壤孔隙度，在土壤胶体尺度，土壤疏水性的改变将影响土壤水分分布，使得土壤颗粒表面水膜厚度不同，进而影响土壤微生物在土壤孔隙度中的运移和分布。在团聚体和土壤剖面尺度，土壤微生物对土壤空隙的堵塞和疏水性的改变将影响微生物聚焦分布及微生物景观,进而影响土壤水分的在分布特征,除此之外,土壤微生物(细菌、真菌、微生物计量等)在水分的分布与转移过程中起着关键的调节作用。由此可知,跨越物理学和生物学综合研究土壤水文过程及其调控机制是未来的重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/be2ddc6675db82f312d01990aa3147d9495f7e7cb93c0902b41117fb824e08b7.jpg",
+        "img_caption": [
+            "图3土壤微生物对生态水文过程的调控",
+            "Fig.3The hydrological processes dominated by soil microorganism "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4冠层对生态水文过程的调控 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "植被冠层是生态水文过程的关键纽带,冠层通过与穿透雨、截留、树干茎流等过程改变整个水文过程,而水文过程又影响植物种群的拓展、结构以及演化,最终形成了植被-水文过程相耦合的作用关系[52-53]。植被冠层尺度下的水文过程实质上就是对降水的再分配过程，一部分降水被冠层截留,被截留的降水通过蒸发的形式返回大气系统,而另一部分则形成穿透雨沿着树干茎流渗人到土壤或者形成地表径流[54];在这个过程中,植物根系通过蒸腾拉力从土壤中吸收水分,最终以水汽的形式释放在大气中,从而形成了以水分传输过程为主导的土壤-植被-大气系统。有研究表明：植被冠层以及覆盖度能够减小裸地的水分蒸发,其水文功能表现在树干滞流、林下枯枝落叶层滞流、树冠截留等人渗过程[5-56];而降水径流形成的“土壤有效水库\"受植被类型和降水特性的影响[57]。一方面,小的降水事件(零星而短暂)在水分到达地面之前,大部分水分已蒸发耗尽,相反,大的降水事件(频繁而长期)造成一部分穿透雨达到地面形成地表径流[58];另一方面,不同功能型植物的林冠层与降水量呈显著的正相关,但其截留量差异很大,这主要受冠层结构（株高、冠幅、茎粗、叶面积指数和基茎等)和降水特征(雨强、雨量、频率、历时)的影响[59],因此,不同功能型植被冠层对降水截留的能力也不尽相同,一般来说高大植被冠层截留的降水相对较多[60]。国外有学者研究表明:北美森林林冠截留率在 $10 \\%$ 1 $3 5 \\%$ 之间,德国山毛榉的林冠截留量高达 $4 8 \\% ^ { [ 6 1 ] }$ 。据统计,中国主要森林生态系统的林冠截留率为11.40— $3 4 . 3 4 \\%$ ,其中落叶阔叶混交林的截留率较小,而亚热带常绿针叶林的截留率较大[62]。相关研究还发现黄土高原林下灌木与草本的截留率差异较大[63],六盘山林下灌木的截留率在 $1 . 8 \\% { - 1 2 . 8 \\% ^ { [ 6 4 ] } }$ 。栾莉莉等[65]在黄土丘陵区以多年平均降雨量梯度为样线,从南到北依次选择了7个调查点,研究了该区典型乔木、灌木和草本枯落物蓄积量、持水量、吸水速率和有效拦蓄量等水文过程,结果表明:各植物群落枯落物蓄积量和吸水速率从南到北逐渐减少,水文过程也呈现出明显的地带性。从目前的研究结果来看,水文过程在地上部分研究较为普遍,地下过程(根系-水文过程)研究相对滞后[6]。根-土界面是地下生态系统中物质和能量交换最频繁的区域,然而,由于根系-水文过程观测难度极大,迄今为止仍无法回答根-土界面的水分运移规律,因此未来需要将植被地上部分和地下部分（根系)联接起来开展多因素综合研究。 2",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5坡面对生态水文过程的调控 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "坡面是连接流域和斑块的重要景观单元,坡面尺度下的水文过程主要受降水、地形、植被、地质单元、养分空间异质性及人类扰动的影响[66]。有研究发现,植物地上部分作用于降雨截留,通过减小坡面流的动能和势能,降低坡面流的达西阻力系数和曼宁糙率;随着坡面水流量的增大,水流态在坡面由层流-缓流向过渡流-缓流转变[6]。坡面尺度的水文人渗、径流产生以及水分的蒸散发等过程具有高度的尺度效应和非线性特征,与此同时,养分流和坡面径流和也呈现出裸地斑块与植被镶嵌的景观格局[68];在斑块尺度,裸地斑块与植被镶嵌对水文过程(土壤水分贮存、水分入渗方程、入渗速率)的影响具有较大的差异,这主要是由于植被斑块对水分的入渗影响较大,而裸地斑块对于水分的径流影响较大[69]。在坡面尺度,由斑块组成的坡面产生径流后被植被斑块截留，一部分发生入渗,而后达到土壤深层形成深层土壤水库,另一部分在坡面产生径流,伴随着蒸散作用和大气的交换作用,形成小气候区,驱动坡面水文过程[70-71]。当前,黄土高原坡面水文过程(包括径流的发生频率、产流时间、形成机制等)仍缺乏深入的分析,尤其在土壤均匀性和水分运移过程中的规律缺乏深入的观测。土壤均匀性是理解坡面水文过程的关键性问题,大量水文运移的模型方程(理查德方程、霍顿产流理论和达西定律)将土壤均匀化作为假设的先决性条件,这就导致传统意义上对水分流动速度、路径和动态变化(壤中流、产沙产流等过程)理解的偏差。因此,未来需要借助于大量的物理模型以及地面观测数据探究植被斑块(枯枝落叶、砾石、结皮、植被类型等)与坡面斑块(坡向、坡度、坡位)对水文过程的共同调控作用,辨识坡面如何调控水文过程,同时结合3S技术与计算机建模等手段,拟合坡面尺度下水文过程的空间网络结构方程,为构建黄土高原坡面尺度下的水文过程模型提供理论基础。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6流域对生态水文过程的调控 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以流域为中心的水文过程是国际水文生态学研究的前沿,世界上已有一些国家先后开展了以流域为中心的综合观测试验和模拟研究计划。在我国黄土高原,流域作为最基本的水文地质单元,受气候、地形、土地利用方式以及人类干扰等综合因素的影响,使得以流域为单元的水文过程十分复杂[72]。早期对于黄土高原流域水文过程的研究主要集中在土地利用方式/类型对洪涝灾害、水质、径流等方面的影响,大量研究均是采用野外观测和模型模拟的方法,其方法和模型的可信度还需要进一步考证[73]。在全球变化和大规模人类活动的影响下,黄土高原水资源逐渐降低,植被恢复能够有效调节流域水资源平衡、削减洪峰和减少流域径流等[29]。周淑梅[74]在黄土丘陵沟壑区通过测量流域出口流速来确定水流量的新方法,并且建立了小流域次降雨水文过程模型;李海光[75]应用改进后的生态水文模型对黄土高原吕二沟流域的水文过程进行模拟,结果发现:在未来的40年内,吕二沟流域的降水量、径流量表现出季节性变化,呈降低趋势,而蒸发量占水资源比例逐渐增加;另一方面,受人类活动的影响,土地利用变化对径流影响的比重逐渐降低,气候波动对径流影响的比重逐渐增加。据最新文献报道,流域尺度的水文过程受人类活动造成(退耕还林草、淤地坝建设、梯田建设等)的影响严重,而黄河水的需求量也在不断增加,这就造成了水文平衡与承载力之间的矛盾[16]。傅伯杰研究组通过耦合地面观测,揭示了其水资源承载力的阈值,提出黄土高原流域尺度的产水、耗水与用水需要综合考虑,黄河水沙管理需要从小流域综合治理向全流域尺度的整体协调转变[13]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.7景观格局对生态水文过程的调控 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "黄土高原水文过程与景观格局具有紧密的联系，二者是景观生态学和水文生态学研究交叉的纽带。景观格局和水文过程的相互作用机理成为地球环境科学研究的热点与前沿[2.76-78]。在二者的相互作用关系中,景观格局对水文过程(蒸发、截留、径流和入渗等过程)的影响主要体现在植被格局和人类活动下土地利用类型/方式的改变;而水文过程通过植被、土壤、微生物的改变响应景观动态变化[79]。与此同时,生态水文过程也是景观格局演变的主要驱动力,比如土壤侵蚀过程、土地利用方式、土壤结构、微地形等一系列微尺度过程驱动景观格局。大量研究借助水文模型分析景观格局对水文过程的影响,如Germer等[80]研究了亚马逊森林土地利用格局的变化对地表水文过程的影响,结果表明土地利用格局不仅改变了地表水文过程，而且对周边生态系统水文过程造成了间接的影响;Lin 等[81]基于土地利用变化、地表径流、表面流以及截留给过程,在台湾城市小流域构建了响应候变化的水文过程模型;Giertz 等[82]在墨西哥典型森林水文过程研究中指出,地表径流和土壤侵蚀速率是水文过程中的重要环节,并且指出森林的水文循环过程要复杂于农田水文循环过程;Savary 等[83]对加拿大Chaudiere 流域过去30年间的水文过程进行了模拟,结果发现土地覆被是决定该流域水文过程决定性的关键因子;Nieuwenhuyse 和Wyseure[84]通过控制景观异质性和地表水文过程的路径,结合曼德布洛特的分形理论模型,量化了23个景观指标在水文过程中的作用,开发出一种虚拟的人为景观与地表水文过程的网络模型,并将此模型应用于生态水文的研究中,结果发现各种景观指标通过随机的链接和网络式的组合联合作用于水文过程;与气候环境因子相比,景观指标作为主导因素仍不能给出水文过程的定量解释。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "黄土高原景观格局-过程耦合模型在水文过程的研究中也有较多开展。Li和 Zhou[85]基于3S技术在延河流域构建了景观指数与水文过程相结合的模型,并探讨了土壤侵蚀与景观格局之间的耦合机制,结果发现,景观格局指数并不能通过模型的检验,根据源和汇的理论,景观格局指数对该流域的径流贡献较小,并且存在区域分异和差异性;Zhou 和 $\\mathrm { L i } ^ { [ 8 6 ] }$ 重新定义了坡度景观指数,结果发现坡度景观指数与土壤侵蚀量具有较强的相关性,并且景观指数的空间变异性在很大程度上取决于该区土壤水分年沉积量;Yang 等[87]在祁连山关于景观格局对水文过程的影响研究表明,森林生态系统具有更高的景观破碎度和异质性,相比于草地和灌丛,森林生态系统的水文过程复杂性和异质性较高,最终得出景观格局的差异是造成该区水文过程差异的主要因素； $\\mathrm { X u }$ 等[88]在我国北方农牧交错带初步构建了景观格局 生态水文过程的耦合模型,而该耦合模型是否适用于整个干旱地区,还需要进一步的模拟和验证;索安宁等[89]以黄土高原三水河流域为例,以最大月径流量、年径流深度、含沙量、侵蚀模数等作为水文过程的模拟参数,分析了森林景观破碎化对水文过程的影响,结果表明森林的破碎化间接的影响了水文调控过程;傅伯杰等[73]应用尺度转换的方法,充分考虑土地利用、土壤质地、地形、降雨、气候等影响因素,构建了不同尺度的水土流失评价参数体系;在此基础上,陈利顶等[90]提出了在不受尺度限制下,景观空间负荷对比指数能够反映景观空间格局的变化,由此将其引入水文过程的模拟中。以上关于景观格局-水文过程模型充分考虑了格局与过程的关系,是黄土高原景观格局-水文过程发展的新方向和新思路。概括起来,在黄土高原建立景观格局-水文过程关联的首要需要解决的是水文过程中相应的景观指数的确定,并将景观指数引入水文过程模型中,借助于观测手段和模型验证综合分析景观格局-水文过程的耦合机制与作用机理。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3现存主要问题",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "黄土高原随着植被恢复的大力推进,大量有机质不断输入地下生态系统,土壤质量和养分得到显著提高，也使得水分和植被格局发生明显的变化,植被-水分承载力发生了根本性的转变,由于其自然环境多变与生态系统脆弱,水分承载力受环境因素影响较大,受方法、技术的限制,再加上生态系统本身的复杂性,黄土高原水文过程表现出不均衡性和非稳态特性。若要正确理解黄土高原水文发生过程与格局,就需要依赖于不同尺度对水文过程调控的特点,根据此观点,需将尺度效应融入水文过程的研究中,否则后续对水文过程的研究可能出现争议与分歧。比如受降水的影响,在相同的尺度下（景观格局一致的情况下),降水增加的干扰可被生态系统吸收,而降水减少的干扰被放大;由于尺度不同,相应的水文过程可能不尽一致,甚至可能出现相反的结论。再加上黄土高原区域的不可比性,部分研究结果仅仅只能代表和适用于该区的水文过程或耦合模型,如要应用到其他流域甚至整个黄土高原,就需要结合水文过程的尺度效应,并加强水文过程的物理-化学-生物调控机制,同时消除地理格局、气候因素等环境因子的影响,完成由微观过程到宏观过程的尺度转换。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "黄土高原生态恢复与植被建设虽然取得了一定的成效,但事实上,不同尺度下生态水文过程与格局的研究仍处在起步阶段。植被、土壤、微生物是调控水文过程和解释各生物学过程的关键纽带和界面,从植被、土壤、微生物角度探究生态水文过程是解决黄土高原水文循环的关键所在,未来需要整合以下几方面的研究：(1)生态过程与水文过程相互作用的数学、物理基础网络模型成为水文过程发展的学科基础,生态水文过程中的尺度转换成为最具挑战性的问题。通过耦合生态水文过程中各界面与节点,定量描述水分的空间分布模式和建立水文过程的耦合模型,提高不同尺度水文过程的预测精度与敏感性,将有助于揭示黄土高原水文过程作用机理。 C(2)将尺度效应融入水文过程,分析气候、植被、地形、土壤及人类活动对水文过程的响应,辨识不同尺度下水文过程的调控机制,构建构建多尺度、多因子格局与水文过程耦合框架,通过理论、数据和方法的综合集成与创新,完成水文过程由土壤-植被-流域-区域到景观格局的尺度转换。(3)黄土高原以流域为基本水文过程单元,对流域水文过程中的关键界面发生过程(蒸发、渗漏、入渗、蒸腾等)进行长期观测;并结合3S 和计算机技术,在提高模型精准度的基础上开发适合流域水资源特征的水文模型,并将流域水文模型应用于整个黄土高原。(4)黄土高原水文过程需要精确的实验设计和长期观测作为数据支撑,也需要各学科的整体融合。未来需要引入水稳定性同位素示踪技术和探针技术，从元素平衡与质量守恒方面揭示水分在生态过程各界面的转移与分配模式,定量区域水分阈值及其承载力;加强水文过程的集成与联网研究,采用多尺度、多要素、多时空的综合观测与模拟，从微观和宏观上揭示黄土高原不同尺度下生态水文过程。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]GuseBewesatofalpocsilodatlsfparameter sensitivityand model performance. Hydrological Proceses，2014，28（4):2651-2670.  \n[2]MMilln，GuegnM，GonE，WodsR，rkMRupE.Spatialrabiltyofhdrologcalprocesedoelstrucureosticin a $5 0 ~ \\mathrm { k m } ^ { 2 }$ catchment. Hydrological Processes， 2014， 28(18） : 4896-4913.  \n[3]HuangTM,PangZHEdmundsWMSoilpileevolutiofolowingland-usechangemplicatiosforgroudwaterquantitydaltHydrological Processes，2013,27(8）:1238-1252.  \n[4] ZouCB,TurtoDJWillE，EngleDFuhlendorfSDlterationofhydrologicalprocesesndstreamlowithjunier（Juipesvirginiana） encroachment in a mesic grassland catchment.Hydrological Processes，2014，28（26）:6173-6182.  \n[5]KhoiDuetsuhsposesofhdrologicalproceseandsdimentyieldtlduseandcliateangeeRiverCt,Vietnam. Hydrological Processes，2014，28（3）: 640-652.  \n[6]FukaDR，WlterM，MacAlistC,DgaetaoATStisTS，EastonZM.Usingtheliatforecaststereanalysisaseatiptdata for watershed models. Hydrological Processes，2014，28(22）:5613-5623./ SemenovaO,BevenK.BarierstoprogressindistributedhydrologicalmodellngHydrologicalProcesses，015,29（8）:20-208.TonerMKediverroldaas：aictieodelfoologicalblcologcalAlos,（）236-246.9 TubullL，Whtealokfodesagdddaiodoicaltectmultiple-space and time scales.Ecohydrology，2008，1(1）：23-34.  \n[10] LileyK,BaileyMJ,CrtwrightC,TurerSL,HischPR.LifeiarththeipactofGplantsonsoilologTrendsinotecolog，2006,24(1): 9-14.  \n[11] SahibN,Rhazi，aiM,GrillsExperimntalstudyofteectofhdrodecanicalsoildisturbaeoplantcoisMediterranean temporary pools in Western Morocco.Hydrobiologia，2009,634（1）：77-86.  \n[12]Ouyang ZY,ZhengH,XiaoY,PolaskyS,LiuJG,XuWH,WangQ,ZhangL,XiaoY,RaoE M,JiangL,LuF,WangXK,Yang GB,GongSH，WuBF,ZengY,YangW,DailyGC.Iprovemetsosysteservicesfroivestentsinaturalcapital.Sciene(6292）: 1455-1459.  \n[13]Feng XM,Fu BJ,LuN,ZengY,Wu BF.（2013).How ecological restoration alters nalysisofcarbon uestration inchina's loess plateau. Scientific Reports，2013,3,2846.  \n[14]XuWH,XiaoY,ZhangJ,Yang W,ZhangL,HullV,WangZ,ZhengH,LiuJG,PolaskyS,JiangL,XiaoY,ShiXW,RaoEM,LuF,WangXK，DailyGC,OuyangZYStrengteingprotectedareasfoiodiversityandosstesevicesinChia.ProcdingsfetioalAcademy of Sciences of the United States of America，2017,114(7）：1601-1606.  \n[15]Feng XM,LiJX,Cheng W,FuBJ,WangYQ,LuYH,ShaoMA.EvaluationofAMSR-Eretrievalbydeteting soilmosturedecrfollowing masive drylandre-vegetationinthe Loess Plateau，China.Remote Sensingof Environment,2017,196：253-264.  \n[16]Feng XM,FuBJ,PiaSL,WangS,CiaisP,ZengZZ,LuYH,ZengY,LY,JangXJ,WuBF.RevegetatininChina'sL Plateisapproaching sustainable water resource limits.Nature Climate Change,2016,6(11）：1019-1022.  \n[17]FuBJ，ngS,iu,uJB,iagW,iCHydrgocosstesosestauradtgencngsilplateau of China.Annual Review of Earth and Planetary Sciences，2017,45：223-243.  \n[18]Lu YL,Nakicenovic N,Visbeck M,Stevance A S.Policy:Five priorities fortheUN sustainabledevelopment goals Nature,2015, 520(7548) :432-433.  \n[19]Chen YP,Wang K B,Lin YS, Shi W Y, Song Y,He X H. Balancing green and grain trade.Nature ,2015,8(10) : 739-741.  \n[20]Liu BX,Shao MA.Estimation of soil water storage using temporal stabilityin four land uses er10yearsonthe I Plateau,China. Journal ofHydrology，2014,517:974-984.  \n[21]Li PF,Mu X M, Holden J, Wu YP,Irvine B,WangF,GaoP,Zhao GJ,Sun W. Col isonofsoiler osion models used to study the ChineseLoess Plateau. Earth-Science Reviews，2017,170：17-30.  \n22]YangYouYX,u,ASatalpaedterogeiofloisturealoastallattohsateJournal of Hydrology，2017,550:466-477.  \n[23]Duan L X,Huang M B,Zhang L D. Diferences in hydrological resp sesfordifferent tation on a steep slope on the Loess Plateau,China. Journal of Hydrology，2016,537:356-366.  \n[24] 冯舒，赵文武，陈利顶，吕楠.2010年来黄土高原景观生态研究进展.生态学报，2017,37（12)：3957-3966.  \n[25] 肖强，陶建平，肖洋.黄土高原近10 年植被覆盖的动态变化及驱动力.生态学报，2016，36(23)：7594-7602.  \n[26] WangS,FuBJ,PiaoSL,LuYH,CiaisP,FengXM，WangYF.ReducedsedimentransportintheYelow Riverduetoanthoogencchanges. Nature Geoscience,2016,9（1） : 38-41.  \n[27］杨文治，邵明安.黄土高原土壤水分研究.北京：科学出版社，2000.  \n[28]LiuY,aoS，WuWveeS，WenXX,LiYCefetsofosevatioilgepracticesotheslwateroldingacityfanon-irrigated apple orchard in the Loess Plateau，China. Soil and Tillage Research,2013，130: 7-12.  \n[29]JiaSQ，ZhaCY，angSM，YuKEfetsofdifretvegeaiorestoratioonsolwaterstorageandwaterbalaeineCeLPlateau. Agricultural and Forest Meteorology，2015,206: 85-96.  \n[30]BiC,BHX，SunG，ChangYF,GaoLBScalefetsdvarabiltofforet-wateryeldrelatioshipsoteLossPateuCinaeForestry Chronicle,2014, 90(2): 184-191.  \n[31]Chn H,ShaMA,LYYeaceristiofoilwatercyewaterbalaospgassanddernaturaldulaedalconditions in the Loess Plateau of China.Journal of Hydrology，2008,360(1/4）：242-251.  \n[32] 邵明安，贾小旭，王云强，朱元骏.黄土高原土壤干层研究进展与展望.地球科学进展，2016,31（1)：14-22.  \n33]WangYoA,VrticaltrtidfuecoflwteetateGeoderma，2013，193-194: 300-310.34 Liang W，BaiD,WangFY,FuBJ,YanJP,WangS,YangYT,LngD,FengMQ.QuantifyingtheipactsofclimatechangeandecologicalrestorationonstreamflowchangesbasedonaBdykohydrologicalmodelinChina'sLoessPateau.WaterResourcesResearch，O15，1（8）:6500- 6519.  \n[35] 傅伯杰，赵文武，张秋菊，刘宇.黄土高原景观格局变化与土壤侵蚀.北京：科学出版社，2014.  \n[36] WalterH,StadelaE.Anapprachtoeaterelatiosofesertpants//BroGWJr,dDsertlgpeialTopisoehialand Biological Aspects of Arid Regions：Volume II. Amsterdam:Elsevier,1974：213-310.  \n[37]WangX,XieHJ,GanHD,ouX.fespoofolsuei-adddioJournal of Hydrology，2007,340(1/2）：12-24.  \n[38]BrooksJaadolo,DellJJEoeparatofterdrsiteateNature Geoscience，2009,3（2）：100-104.  \n[39]RyelRJseJcalreiel：speieatateeecosystems//Luttge U,Beyschlag W，Murata J,eds.Progressin Botany.Berlin Heidelberg：Springer,2008：397-422.  \n[40]傅伯杰，陈利顶，王军，孟庆华，赵文武.土地利用结构与生态过程.第四纪研究，2003，23（3)：247-255.  \n[41] 黄明斌，康绍忠.土—根界面行为对单根吸水的影响.水利学报，1997（7)：31-36.  \n[42] 邵明安，杨文治，李玉山.植物根系吸收土壤水分的数学模型.土壤学报，1987，24（4)：295-305.  \n[43] 康绍忠，刘晓明，熊运章.冬小麦根系吸水模式的研究.西北农业大学学报，1992，20(2)：5-12.  \n[44]XiaYQa.Slteapacityforvegeatioroloicdiogeecalprocesodellutiololl2008,214(2/4): 112-124.  \n[45]WagleKakanVofgtsfolosueoelaoetwosspatiodiltmaueiiBioenergy Research,2014，7(3）：789-798.  \n[46]MoyanoFE,Manzoni S,ChenuC.Responsesof soil heterotrophicrespirationto moistureavailability:anexplorationof proc and models. SoilBiology and Biochemistry，2013,59：72-85.  \n[47]Karhu K,Auffret MD,Dungait JAJ,Hopkins DW,ProsserJI,Singh BK,Subke JA,Wookey PA,Agren Gl ia M T, Gouriveau F,Bergkvist G,Meir,otigA,as,artleyI.Tmperatueesitityofslspratoatesnceycobalitresponse. Nature，2014,513(7516): 81-84. 一  \n[48]DeNbiliA,tidiniCrosolbalosisrgedctiviyaotsfubsrateSBiochemistry，2001,33（9）：1163-1170.  \n[49]MirandaJDsC,dilgaieFiatignfallpaes：fearidplantoiiofSoutheast.Journal of Arid Environments,2012,75(12)：1302-1309.  \n[50]MoreojZR,TA,AngelFzath5.eigmageedsdonsoil carbon turnover through the microbial biomass. Biology& Fertilityof Soils，2015,51（7），839-845.  \n[51］侯云鹏，杨建,李前，秦裕波，孔丽丽，尹彩侠，王立春，谢佳贵.施氮对水稻产量、氮素利用及土壤无机氮积累的影响.土壤通报，2016,47(1) : 118-124.  \n[52] 李晨华，李彦，谢静霞，唐立松.荒漠-绿洲土壤微生物群落组成与其活性对比.生态学报，2007,27（8)：3391-3399.  \n[53］钟莉娜，赵文武，吕一河，刘源鑫.黄土丘陵沟壑区景观格局演变特征——以陕西省延安市为例.生态学报，2014，34（12)：3368-3377.  \n[54]ZhangYS，OataT,ZouJDvaGodellngplantafesoalvriabiltfevapotrasprationdeatfuefodgraslandonthesouthernperipheryof theEurasiancryospherein Mongolia.Hydrolgical Processes，2011,25（8）:120-1211.  \n5]DunkerleyDMeasuigteretiolsdosageidydvegeatabefdevaatiooflableaHydrological Processs，2000,14(4): 669-678.  \n6]oredastotiedlealcatchments//Swiatek D， Okruszko T, eds.Modellng of Hydrological Processs in the Narew Catchment.Berlin Heidelberg：Springer，2011:43-62.  \n[57]MelessA，Abtew W.LandscapeDynamics，Soilsand Hydrological Proceses in Varied Climates.Switzerland: Springer，2015.  \n[58]WesteAWouS，GynRB，MahonA，lschlG,ilonDSpatiacoelatiof olmoistureallatcntsaditsrelationshipto dominan batial hydrological processes.Journal of Hydrology，2004，286(1/4）:113-134.  \n[59]PueyreFdD,Iuts,H,sCLSatalaoflwateridiecosystem：implictiosforplantdynamicsndspatialpatern//EGUGeneralAssemblyonferenceAbstractsVienna，Austria；EGGeneralAssembly Conference， 2014.  \n[60] DonohueRJ，derick，VicarRot，dilrscooratigohgalproceintd'sdolmodel. Journal of Hydrology，2012，436-437：35-50.  \n[61] NinemetsU.Aevieoflightitereptioinlantstadsfroleaftoaoyindiferentplantfuctioatysdiseciesigsaetolerance. Ecological Research，2010,25(4): 693-714.  \n[62] 吕一河，胡健，孙飞翔，张立伟.水源涵养与水文调节：和而不同的陆地生态系统水文服务.生态学报，2015，35（15)：5191-5196.  \n[63] 方书敏.陇中黄土高原典型人工林土壤水文过程研究[D].兰州：兰州大学,2016.  \n[64]孙浩，杨民益，余杨春，熊伟，王彦辉，曹恭祥，杜敏，王云霓，于澎涛.宁夏六盘山几种典型水源涵养林林分结构与水文功能的关系.中国水土保持科学，2014，12（1):10-18.  \n[65］栾莉莉，张光辉，孙龙，耿韧，王浩.黄土丘陵区典型植被枯落物持水性能空间变化特征.水土保持学报，2015，29（3），225-230.  \n66]Yairflprialletsfalldo/2): 155-169.  \n[67]NdGstevestflteteolalfddtohlatiofeastlscale.Hydrological Processes，2010,24(13）：1766-1780.  \n[68]MerirtireesasreongsJroaegeiieslopes:unoffanddimentyieldattepatchandsoesalesalogagradientofovelandflow.HydrolgadErthSysteSics，(6): 9927-9959.  \n[69]SrinivasanMburekW，HamttJamicsofsoneati-Aillope-salefieldsudyiast-entralPesya，UHydrological Processes，2002，16(3）:649-665.  \n[70]MartinE,WolclgerU,Kg,ehstr,ofFdtK,Weler,WerbnU,achSpatialdldynamicsofhilpealesostureesracteisticesdrhVdoseZoal.  \n[71]BacairS，WeilerIteractiosdcectivityteenoffgneratioproeesofdiferentspatialsales.HyrolgicalPr 201428(4)：1916-1930.  \n[72]傅伯杰.地理学综合研究的途径与方法：格局与过程耦合.地理学报，2014,69（8）：1052-1059.  \n[73] 傅伯杰，徐延达，吕一河.景观格局与水土流失的尺度特征与耦合方法.地球科学进展，2010,25（7)：673-681  \n[74] 周淑梅.黄土高原丘陵沟壑区不同尺度小流域次降雨水文过程模型研究[D].北京：中国科学院研究生院(教育部水土保持与生态环境研究中心），2013.  \n［75］李海光.黄土高原吕二沟流域环境演变的生态水文响应[D].北京：北京林业大学，2011.  \n[76]AcharyS,KapDA,se，nMJJawitJWoupledlcalfcilatiodroodiesapeypaterned peatland. Hydrology and Earth System Sciences Discusions，2015,12(1):1247-1277.  \n[77]LeMaitreD,iloSJ,JaainC，olvinCA,SaaIVlokJH.LiingEosteServiesadWaterResoues:LanscapcaleHydrology of theLitle Karoo.Frontiers in Ecologyand the Environment，2007,5(5）:261-270.  \n[78］Akdim B.Karst landscape and hydrology in Morocco：research trends and j ectiv Environn arth Sciences，2015，74(1) : 251-265.  \n[79]VerJelnBenRSosDeliatidsaaleprosofhodplatdispersalforseconservation:the Operational Landscape Unit approach.Wetlands Ecology and Management，2017,25(6):761-774.  \n[80]Germer S,Neill C, Krusche A V,Elsenbeer H. Influence of land-use change near-surface hydrological processes : undisturbed forest to pasture.Journal of Hydrology，2010,380(3/4)：473-480.  \n[81]LinYuineligdidoalproetofudedateoin watershed land-use planning. Environmental Geology,2007,53(3）: 623-634.  \n82]Getzg,ieslpalpperoalpsitropical environment of West Africa.Physics and Chemistry of the Earth，Parts A/B/C,2005,30(8/10): 485-496.  \n[83]SavaryS，RoussAQuAessigheeofistocallandcverasonoandlofosusingmotesingdhydrological modeling.Journal of Hydrologic ngineering，2009，14（6): 575-587.  \n[84]vanNieueB，euatedsaperlssarisodsitinroalpr/Research Abstracts. Vienna,Austria: European Geosciences Union,2010.  \n[85]LJ，ZoZXpedsdapepadrollpsiwatedoaefhtalt,2015,505: 927-938.  \n[86]ZhouZXiJeoasesaerolcalpreieatedJoalHydrology,2015, 524: 417-426.  \n[87] YangGJ，XiaoDN,ZhouLH,TangCW.HdrologicalefetsofforestlandscapepatersintheQilianmountains:acasestudyftocatchments in northwest China.Mountain Research and Development，2005,25(3）：262-268.  \n88 XuX,GaoQ,LiuYH,WangJA,ZhangY.Couplingalandusemodelandancosystem modelforacrop-pasturezone.EcologicalMoeling,2009，220(19):2503-2511.89］索安宁.黄土高原典型区土地利用/覆被变化的生态水文演化过程研究[D].北京：北京师范大学，2006.  \n[90] 陈利顶，傅伯杰，徐建英,巩杰.基于“源—汇\"生态过程的景观格局识别方法——景观空间负荷对比指数.生态学报，2003，23（11)：2406-2413.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

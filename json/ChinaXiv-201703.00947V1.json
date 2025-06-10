@@ -1,0 +1,538 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of anion of polyoxometalate based organic-inorganic hybrid material on intumescent flame retardant polypropylene ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ting Ye and Juan Li\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/aada8cd9b3817ec298919131f35abd64e25bad4f1be94031180e090ec966ff4f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work, 12-tungestocobaltic acid based organic-inorganic hybrid material, $[ \\mathsf { B } \\mathsf { m i m } ] _ { 6 } \\mathsf { C o W } _ { 1 2 } \\mathsf { O } _ { 4 0 }$ (CoW) was_synthesized and applied asa synergist in polypropylene (PP)/intumescent flame retardant (IFR)composites.The flame retardant properties were investigatedbythelimitingoxygen index(LOl),UL-94verticalburning test,thermal gravimetric analyzer(TGA),cone calorimeter and scannng electron microscopy(SEM)etc.The results showed thatthe PP composites with $1 6 \\mu t \\%$ IFR and $1 \\mu \\mathrm { { \\ell } } ^ { \\circ / \\circ }$ CoW achieves the UL-94 V-0 rating and gets a LOl value 28.o. However, only add no less than $2 5 w t \\%$ single IFR,can the PP composites obtain the UL-94V-0 rating, which suggests that CoW has good synergistic efectson flameretardancyof PP/IFRcomposites.Inaddition,the SEMandconecalorimeter tests indicatedthe CoW improves the qualityof charlayer.Therateof charformationhas been enhancedalso becauseof theexistence of CoW.It is thecombinationofa better char qualityanda high rate of char formation promoted by CoW that results in the excellent flame retardancy of PP/lFR composites. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:organic-inorganichybridmaterial;tungestocobalticacid;intumescent flameretardant;synergistic polypropylene ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polypropylene (PP) is one of the most popular thermoplastic materials because of its good chemical resistance,easy processing, low toxicity and excellent cost performance.However, the application of PP causes some potential safety hazards in many fields because of its flammable performance [1]. So,it is necessary to improve the flame retardant ability of PP.In the past several decades，researchers tried to solve this problem by introducing flame retardant element into PP via copolymerizing, grafting or blending [2-4].Adding flame retardants into PP is a common and convenient method to decrease the flammability of PP composites compared with other ways [5,6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "With the development of technology,sustainability of flame retardant materials attracts more and more attentions.Intumescent flame retardant (IFR) isa kind of environment friendly flame retardants.It is usually composed of three parts:acid source, carbon source and blowing agent [7]. Ammonium polyphosphate (APP)and pentaerythritol (PER) are usually used asacid source and carbon source in PP,respectively.However, the flame retardant efficiency of APP/PER is not satisfied.Generally,in order to pass the UL-94V-O testing，no less than $2 5 \\mathrm { w t \\% }$ APP/PER is needed.Too much addition of flame retardants would decrease the mechanical properties of PP and rise its price.So it is pressing toimprove the flame retardant efficiency of APP/PER in PP composites. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In fact,many researchers are looking for new strategies to improve the efficiency of IFR.For example,Ke et al.[8] synthesized a hyperbranched polyamine charring agent (HPCA) containing triazine and found that the IFR system containing HPCA and APP hasa high eficiency in enhancing_flame retardant and antidripping properties. Chen et al.[9] used tris(2-hydroxyethyl) isocyanurate (THElC)as charring agent to modify the flame retardant property of PP.Wang et al.[10] synthesized a novel and efficient halogen-free composite flameretardantbybrucite and zinc borate,and proved its good flame retardant performance.These works promote the development of IFR technology greatly.However，developing a novel IFR usually needs long time; introducing catalysts or synergists into commercial APP/PER system is a simple and convenient method.Based on the mechanism of IFR: APP would react with PER to form esters, and then turn into char at high temperature during combustion [11-16].The rate ofesterification,charformationandchar quantity are the most important factors for improving flame retardancy. Many catalysts or synergists which promote the esterification were chosen to modify the flame retardancy of APP/PER in PP, such as metallc oxide, metallc salt and solid acid [17-20]. The results showed that these additives increase the flame retardancy ofPP/APP/PER in a certain extent. However, the development of flame retardant technology has no end.More efficient catalysts or synergists need to be found to improve the flame efficiency of IFR in PP and to meet the requirements of new rules and technologies. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently， organic-inorganic hybrid compound based on phosphomolybdic acid (PMo) and 1-butyl-3-methylimidazolium (Bmim) was used in PP/APP/PER systemand achieved a great improvement on flame retardant eficiency [21l.Only containing $0 . 5 \\mathsf { w t \\% }$ [Bmim]3PMo and $1 4 . 5 \\mathrm { w t \\% }$ APP/PER, the PP composites \\*Correspondence to:Juan Li,Ningbo Key Laboratoryof Polymer Materials, Ningbo Institute of Material Technologyand Engineering,Chinese Academy of Sciences,Ningbo,Zhejiang 315201,PR China.E-mail: lijuan@nimte.ac.cn can pass the UL-94 V-O testing. However, the color of PP/IFR composites would turn to dark brown with the addition of [Bmim] ${ } _ { 3 } \\mathsf { P M o }$ .The color of materials is very important for industrial applications.In addition, the used anion and cation of $[ \\mathsf { B } \\mathsf { m i m } ] _ { 3 } \\mathsf { P } M \\circ$ are both expensive.So it is highly necessary to find more organic andinorganicpartstotailortheperformanceof polyoxometalates and to regulate its color and price further. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work,we chose cobalt (Co) as the heteroatom to tailor the performance of polyoxometalates. $[ \\mathsf { B } \\mathsf { m i m } ] _ { 6 } \\mathsf { C o W } _ { 1 2 } \\mathsf { O } _ { 4 0 }$ (CoW) was synthesized and used as synergist.PP composites were prepared by using APP/PER (3:1wt%/wt%) as IFR and CoW as synergist.The limiting oxygen index (LOl), UL-94 vertical burning test, thermal gravimetric analyzer (TGA) and cone calorimeterwere used to investigate the flame retardancy and the reaction mechanism in PP composites. The scanning electron microscopy (SEM)was also applied to observe the morphology of char residues of PP composites after combustion. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PP resin (F401,melt flow rate: $2 . 0 9 / 1 0 \\mathrm { { m i n } ) }$ was purchased from Yangzi Oil Company (Shanghai China). APP (231, $n > 1 5 0 0 )$ was supplied by Presafer Phosphor Chemical Company Limited (Qingyuan,China).PER was purchased from Aladdin Reagent Company. ${ \\mathsf { N a } } _ { 2 } { \\mathsf { W O } } _ { 4 } ,$ ${ \\mathsf { C o } } ( { \\mathsf { C } } _ { 2 } { \\mathsf { H } } _ { 3 } { \\mathsf { O } } _ { 2 } ) _ { 2 }$ and [Bmim]Cl were purchased from Sinopharm Chemical Reagent Company Limited.All reagents were used without further purification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of synergists ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CoW was synthesized according to the literature of Frank Walmsley229.9-g(0.00l) ${ \\mathsf { N a } } _ { 2 } { \\mathsf { W O } } _ { 4 }$ was dissolved in water, and glacial acetic acid was added to keep the pHbetween 6.0 and 7.0. Then, $0 . 6 \\mathsf { - g }$ 1 $0 . 0 0 2 5 \\mathrm { m o l } )$ ${ \\mathsf { C o } } ( { \\mathsf { C } } _ { 2 } { \\mathsf { H } } _ { 3 } 0 _ { 2 } ) _ { 2 }$ was dissolved in water with two drops of glacial acetic acid added.The ${ \\mathsf { N a } } _ { 2 } { \\mathsf { W O } } _ { 4 }$ solution was heated until boiling,and the ${ \\mathsf { C o } } ( { \\mathsf { C } } _ { 2 } { \\mathsf { H } } _ { 3 } 0 _ { 2 } ) _ { 2 }$ solution was added all at once. The solution was boiled for $3 \\mathsf { h r } ,$ then HCl was added until pH reaches 3.0.Then,it was cooled to room temperature,and the undissolved solid was removed. Next, $2 . 6 \\mathsf { - g }$ $( 0 . 0 1 4 9 \\mathrm { m o l } )$ [Bmim]Cl was added into filtrate,then CoW was obtained.It wasa blue solid and cannot dissolve in water.Then, the CoW was washed by water for 10 times to further purify. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of PP composites ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All the PP composites were prepared by melt blending on a Brabender mixer at $2 0 0 ^ { \\circ } \\mathsf { C }$ with rotation speed of $5 0 \\mathrm { { r / { m i n } } }$ for $1 0 \\min$ .Theweight ratio of APP and PER mixture was 3:1.And the mixed materials were hot-passed into sheets in the dimensions of $1 0 0 . 0 \\mathsf { m m } \\times 1 0 0 . 0 \\mathsf { m m } \\times 3 . 2 \\mathsf { m m }$ by compression moldingat $2 0 0 ^ { \\circ } \\mathsf { C }$ under $1 0 M P a$ for 3 min.The composites sheets were further cut into suitable bars for UL-94 and LOl testing. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Characterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FTIR spectra were recorded with a Nicolet 6700 FT-IR spectrometer.Samples were mixed with KBr powders and compressed into wafers. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1HNMR spectra were recorded with a 400-MHz AMX NMR spectrometer using DMSO- ${ \\bf \\ddot { d } } _ { 6 }$ as solvent. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UL-94 tests were performed according to ASTM D3801 on an AG5100B vertical burning tester (Zhuhai Angui Testing Equipment Company, China).The samples used for the tests were $1 0 0 . 0 \\mathsf { m m } \\times 1 3 . 0 \\mathsf { m m } \\times 3 . 2 \\mathsf { m m }$ in dimension. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LOl tests were performed according to ASTM D2863-97 on a 5801 digital oxygen index analyzer (KunshanYangYi test Instrument Co.， Ltd.)． The samples used for the tests were $1 0 0 . 0 \\mathsf { m m } \\times 6 . 5 \\mathsf { m m } \\times 3 . 2 \\mathsf { m m }$ in dimension. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TGAwere performed ona TGA/DSC1 Analyzer (MettlerToledo International Inc., Switzerland) at a heating rate of $1 0 ^ { \\circ } \\mathsf { C } /$ min from $5 0 ^ { \\circ } C$ to $8 0 0 ^ { \\circ } \\mathsf { C }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cone calorimeter tests were performed on FTTo242—Standard Cone (Fire Testing Technology Limited.， England） at $3 5 \\mathsf { k W } / \\mathsf { m } ^ { 2 }$ heat flux. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SEM of char layers was observed by S4800 (Hitachi Corp., Japan)after coated with a thin layer of conductive gold. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CharacterizationofCoW ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathsf { \\Omega } ^ { 1 } \\mathsf { H }$ NMR spectrums of [Bmim]Cl and CoW are presented in Fig.1.As for [Bmim]Cl，the peaks at ${ \\delta } \\mathrm { = } 0 . 8$ ppm，1.2 ppm, 1.8 ppm and 4.2 ppm can be assigned to the protons on butyl. The peak at $\\delta = 3 . 9$ ppm is attributed to methyl protons.And the peaks at $\\delta = 7 . 9$ ppm,8.0 ppm and 9.7 ppm are attributed to the protons on imidazole ring.These characteristic peaksare also found in the $^ 1 \\mathsf { H }$ NMR spectrum of CoW.Additionally, the peaks of the protons on imidazole ring of CoW showan obvious chemical shift because of the electronegativity change of the anion.For example, the peak 8of [Bmim]Cl is at ${ \\delta } \\mathrm { = } 9 . 7$ ppm,and the corresponding peak of CoW is at $\\delta = 9 . 1$ ppm.This is because the lower electronegativity of $\\mathsf { C o W } _ { 1 2 } \\mathsf { O } _ { 4 0 } ^ { 6 - }$ leads the peaks of imidazole ring shift to higher field. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The FT-IR spectra of [Bmim]Cl,CoW are shown in Fig.2.The typical bands of $\\left[ \\mathsf { B } \\mathsf { m i m } \\right] ^ { + }$ are indicated; $3 1 4 3 - 2 8 7 3 ( m ^ { - 1 }$ belongs to ${ \\mathsf { C } } { \\mathrm { - } } { \\mathsf { H } }$ stretching in the imidazole ring, $1 5 7 1 - 1 4 6 5 c m ^ { - 1 }$ belongs to imidazole ring stretching and $1 1 6 8 \\mathsf { c m } ^ { - 1 }$ belongs to imidazole H—C—C and H—C—N bending.These characteristic peaks are also observed in the FT-IR spectrum of CoW.In addition, the strong absorption peaks of $9 4 8 { - } 9 3 5 { \\ c m } ^ { - 1 }$ 1 $\\mathsf { W } { = } \\mathsf { O } _ { \\mathrm { t } }$ (terminal oxygen); $8 8 1 - 8 7 5 c m ^ { - 1 }$ ，W $. 0 _ { \\mathrm { { c } } }$ W(cornersharing oxygen）and $7 7 3 - 7 5 2  c m ^ { - 1 }$ ${ \\mathsf { W } } { - } { \\mathsf { O } } _ { \\mathrm { e } }$ W (edge_sharing oxygen) are the characteristic peaks of $\\mathsf { C o W } _ { 1 2 } \\mathsf { O } _ { 4 0 } ^ { 6 - }$ [23,24] XRF is also applied to investigate the content of Co and $\\mathsf { W } ,$ and the results are shown in Table 1.This result suggests that the metal in CoWis consistent with the theoretical prediction.Combining $^ 1 \\mathsf { H }$ NMR spectrums, FT-IR spectra and XRF,it is proved that the target product has been synthesized successfully. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LOl and UL-94 tests ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results of LOl and UL-94 are displayed in Table 2.The LOl of pure PP is 17.6 and is not classified in the UL-94 test.The LOl of PP/IFR composite with $2 0 \\mathsf { w t \\% }$ IFRis 26.0; however, the UL-94 result is not satisfied.In order to get better flame retardant property,much more IFR is needed.With the addition of $1 9 \\mathrm { w t \\% }$ IFR and 1wt% CoW, the sample could achieve the UL-94V-0,and the LOl value rises to 28.8. The lowest combination of IFR and CoW to achieve the UL-94V-0 is $1 6 \\mathrm { w t \\% }$ IFR and $1 w t \\%$ CoW (sample 5).The results show that CoW can improve the flame retardant property of PP/IFR composites evidently. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c701db2cea7921b4033d1ec4b67a86b4a5acf88416409b37774955a49b238cb9.jpg",
+        "img_caption": [
+            "Figure 1. $^ 1 \\mathsf { H }$ NMR spectrums of (a)[Bmim]Cl and (b) CoW. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/88cb61873acc1fd6c6da86b297f08b0deb6e45b9468b843c81dacdc338dbd0a9.jpg",
+        "img_caption": [
+            "Figure 2.FT-IR spectra of (a) CoW and (b) [Bmim]Cl. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/574ced61431f1278635a6172b44ef25ba0f34e58b31a59b7a0095a40923b0b6c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Table 1. XRF result of CoW</td></tr><tr><td>Sample</td><td>Co (wt%)</td><td>W (wt%)</td></tr><tr><td>CoW</td><td>96.8</td><td>2.4</td></tr><tr><td>Theoretical content of CoW12O40 6-</td><td>97.4</td><td>2.6</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The influence of the catalyst content on the flame retardant property of PP composites is also investigated.Keeping the total content of IFR and catalysts as $1 7 \\mathrm { w t } \\%$ and adjusting the proportionof them, the LOl value increases first and then decreases with the content of catalyst increasing.The same phenomenon is obtained from the UL-94 test.The sample containing $1 \\mathrm { w t \\% }$ CoWis classified V-O in the UL-94 test,while the other samples containing too much or too little CoW fail in the UL-94V-O test. Therefore,only a suitable content of catalyst can improve the flame retardant property. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The photos of the samples after LOl and UL-94 testing are shown in Figs 3 and 4.The sample 0 produces few char residues afterthe UL-94 and LOl test.With the addition of IFR,a little intumescent char is observed on the surface of the sample 3. When different amounts of CoW (from $0 . 5 \\mathsf { w t \\% }$ to $3 \\mathsf { w t \\% } )$ are added into PP/IFR composites (sample 4-7),the char residues for these samples after LOl testing are swelled,and their flame retardant properties are modified also.Especially, the sample 5 has the largest expanding volume and keeps good shapes after testing.Although the char residues for other samples look a little expansive, they fail in the UL-94 V-O test.The detailed reasons will be researched in the following part.In addition,the color of sample 5 looks white or off-white,which is lighter than the reference [21 and shows broad application potential in the industry. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TGA of PP composites ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experimental (Exp.) and calculated (Cal.) TGA curves of PP, IFR,CoW and their blend system under $\\mathsf { N } _ { 2 }$ atmosphere are shown in Fig.5.The detailed data are listed in Table3.The Cal. curves are calculated from the curves of IFR and CoW with their weight percentage(IFR: $\\mathsf { C o W } = 1 6 : 1 \\$ ，PP andCoW(PP: $\\mathsf { C o W } \\mathsf { = } 9 9 : 1$ ，PPand IFR (PP: $\\mathsf { I F R } = 8 3 { : } 1 7$ ,PP，IFRand CoW(PP: IFR: $\\mathsf { C o W } = 8 3 { : } 1 6 { : } 1 \\$ ),and the Exp.curves are the TGA results of their blend system.The temperatures at $1 \\mathrm { w t \\% }$ $5 \\mathrm { w t \\% }$ $1 0 \\mathrm { w t \\% }$ and $5 0 \\mathrm { w t \\% }$ degradation are noted as ${ \\pmb \\tau } _ { 1 \\mathrm { w t } \\% r } , { \\pmb T } _ { 5 \\mathrm { w t } \\% r } , { \\pmb T } _ { 1 0 \\mathrm { w t } \\% }$ and $\\pmb { \\tau } _ { 5 0 \\mathrm { w t \\% } } ,$ respectively.The temperature at the maximum weight loss rate is noted as Tmax· ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/988286f3403e703d8fec92de10543500ce646e51454f91bc7eda43c372bd9c33.jpg",
+        "table_caption": [
+            "Table2.Flame retardant propertiesofPP/IFR/CoWcomposites "
+        ],
+        "table_footnote": [
+            "Note: IFR is APP/PER=3:1(wt%/wt%); NC means not classified in the UL-94 test. "
+        ],
+        "table_body": "<html><body><table><tr><td>Samples</td><td>PP (wt%)</td><td>IFR (wt%)</td><td>CoW (wt%)</td><td>UL-94</td><td>LOI (Vol%)</td><td>Melt dripping</td><td>t1 +t2 (sec)</td></tr><tr><td>Sample 0</td><td>100</td><td>0</td><td>0</td><td>NC</td><td>17.6</td><td>Y</td><td>/+0</td></tr><tr><td>Sample 1</td><td>80</td><td>20</td><td>0</td><td>NC</td><td>26.0</td><td>Y</td><td>0+/</td></tr><tr><td>Sample 2</td><td>80</td><td>19</td><td>1</td><td>V-0</td><td>28.8</td><td>N/N</td><td>0+0</td></tr><tr><td>Sample 3</td><td>83</td><td>17</td><td>0</td><td>NC</td><td>24.0</td><td>Y</td><td>0+/</td></tr><tr><td>Sample 4</td><td>83</td><td>16.5</td><td>0.5</td><td>NC</td><td>26.8</td><td>Y</td><td>0+/</td></tr><tr><td>Sample 5</td><td>83</td><td>16</td><td>1</td><td>V-0</td><td>28.0</td><td>N/N</td><td>0+0</td></tr><tr><td>Sample 6</td><td>83</td><td>15.5</td><td>1.5</td><td>V-1</td><td>28.6</td><td>N/N</td><td>0+13</td></tr><tr><td>Sample 7</td><td>83</td><td>14</td><td>3</td><td>NC</td><td>27.2</td><td>Y</td><td>0+/</td></tr><tr><td>Sample 8</td><td>85</td><td>14</td><td>1</td><td>V-1</td><td>27.0</td><td>N/N</td><td>0+13</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/43a0100361d2be65f5190a2986bc330754d61375957422848ca9bcfac1c2ed25.jpg",
+        "img_caption": [
+            "Figure 3.Photos of the samples after LOl testing:(a) sample O, (b-f) samples 3-7. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7f6daae3df85266d03181f3dd241098ae9a0d8294d1dcc708225931706930a0.jpg",
+        "img_caption": [
+            "Figure 4.Photos of the samples after UL-94 testing: (a) sample 0,(b-f) sample 3-7. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The decomposition of IFR can be divided into three steps. Accordingtotheliteratures-1]atlowtemperaturerange $( T < 2 8 0 ^ { \\circ } \\mathsf { C } )$ ,the APP decomposes and reacts with PER to form esters mixtures.At medium temperature range $( 2 8 0 ^ { \\circ } \\mathsf { C } \\le T \\le 3 5 0 ^ { \\circ } \\mathsf { C } ) ,$ the esters would be swelled and forming the char layers because of the intumescent effect of the $N H _ { 3 } ,$ which is produced from the decomposition of APP.At high temperature range $( T > 4 3 0 ^ { \\circ } \\mathsf { C } )$ the intumescent char layers decompose slowly,and part of the char structure is destroyed and loses foamed character. In addition,CoW shows good thermal stability. Its main degradation is at the temperature range from $3 5 0 ^ { \\circ } \\mathsf C$ to $5 0 0 ^ { \\circ } \\mathsf { C }$ This is caused by the decomposition of organic moiety.The residue at $8 0 0 ^ { \\circ } \\mathsf { C }$ is about $8 0 \\mathrm { w t \\% }$ meaning the content of inorganic part. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Comparing the Exp.and Cal.curves of IFR/CoW,the Exp. $\\overline { { \\pmb { T } } } _ { 1 0 \\mathrm { w t } }$ $\\%$ for IFR/CoW is $2 5 4 ^ { \\circ } \\mathsf C ,$ which is about $2 4 ^ { \\circ } C$ lower than that of the Cal. One,indicating the early reaction of IFR promoted by CoW.As the temperature increases,the difference between the Cal.and Exp.degradation temperature under the same weight percentage increases first and then decreases gradually.For example, the Exp. $\\pmb { \\tau } _ { 5 \\mathrm { w t \\% } }$ for $1 \\mathsf { F R / C o W }$ is $2 0 9 ^ { \\circ } \\mathsf { C }$ that is $3 0 ^ { \\circ } C$ lower than the Cal. one,while the temperature gap for $\\pmb { \\tau } _ { 5 0 \\mathrm { w t \\% } }$ is only $2 ^ { \\circ } \\mathsf { C }$ 、Especially, the $\\mathsf { E x p }$ . char residue at $8 0 0 ^ { \\circ } \\mathsf { C }$ of IFR/CoW is enhanced obviously,which is $4 0 . 4 \\mathrm { w t \\% }$ ,about $8 . 8 \\mathsf { w t } \\%$ higher than that of the Cal.one.These results suggest that the CoW has a significant influence on the thermal degradation behavior of IFR. It not only promotes the thermal degradation reaction of IFR at lower temperature,but also accelerates the char formation of IFR at higher temperature.More char layers can protect the underground resin from heat and gas,so the degradation behaviorsafter $5 4 9 ^ { \\circ } \\mathsf { C }$ are delayed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1abba352fd884848e0fcbe5efbb35fa497900af9ec07ac0d370f12eeab1d5ce.jpg",
+        "img_caption": [
+            "Figure 5.Exp.and Cal.TGA curves of (a)IFR/CoW,(b)PP/CoW,(c)PP/IFR and (d) PP/IFR/CoW under ${ \\sf N } _ { 2 }$ atmosphere. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f159f40ff0c1cf589dd4e8dd71539f2beae01403695b8050f96e92846b5383f.jpg",
+        "table_caption": [
+            "Table 3. Exp. and Cal. TGA data of PP, IFR and CoW under ${ \\sf N } _ { 2 }$ atmosphere "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>Samples</td><td>T1w1% (C)</td><td>T5wt% (°C)</td><td>T10wt% (℃C)</td><td>T50w1% (C)</td><td>Tmax (°℃)</td><td>Residues at 800C (wt%)</td></tr><tr><td>CoW</td><td>339</td><td>389</td><td>435</td><td>/</td><td>446</td><td>77.8</td></tr><tr><td>IFR</td><td>195</td><td>237</td><td>273</td><td>546</td><td>/</td><td>28.7</td></tr><tr><td>PP</td><td>364</td><td>410</td><td>426</td><td>455</td><td>461</td><td>0</td></tr><tr><td>IFR/CoW-Exp</td><td>179</td><td>209</td><td>254</td><td>549</td><td>/</td><td>40.4</td></tr><tr><td>IFR/CoW-Cal</td><td>197</td><td>239</td><td>278</td><td>551</td><td>/</td><td>31.6</td></tr><tr><td>PP/CoW-Exp</td><td>363</td><td>410</td><td>426</td><td>456</td><td>461</td><td>0.7</td></tr><tr><td>PP/CoW-Cal</td><td>364</td><td>410</td><td>426</td><td>456</td><td>461</td><td>0.7</td></tr><tr><td>PP/IFR-Exp</td><td>226</td><td>376</td><td>434</td><td>474</td><td>478</td><td>2.7</td></tr><tr><td>PP/IFR-Cal</td><td>241</td><td>365</td><td>414</td><td>457</td><td>462</td><td>4.8</td></tr><tr><td>PP/IFR/CoW-Exp</td><td>193</td><td>369</td><td>419</td><td>474</td><td>480</td><td>5.1</td></tr><tr><td>PP/IFR/CoW-Cal</td><td>243</td><td>370</td><td>416</td><td>457</td><td>462</td><td>5.3</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef6c8cfb255a7390af1f26d4f9991e54b941f42c1442120505913394f3dcdc72.jpg",
+        "img_caption": [
+            "Figure 6.TGA curves of PP composites with different amounts of CoW: (a) under ${ \\sf N } _ { 2 }$ atmosphere,(b) under air atmosphere "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Comparing the Exp.and Cal.curves of PP/CoW in Fig.5(b), it is found that the Exp.curve fully coincides with the Cal. one.So CoW has few effects on PP during heating.The Cal.and Exp. TGA curves of PP/lFR are shown in Fig. 5(c). It is found that the Exp.curve of PP/IFR composite shifts to higher temperature comparing with the Cal. curve.Especially， the Exp. $\\pmb { T } _ { \\mathrm { m a x } }$ of PP/IFR is $4 7 8 ^ { \\circ } C ,$ which is $1 6 ^ { \\circ } C$ higher than the Cal.one.The higher $\\pmb { \\tau } _ { \\mathrm { m a x } }$ reveals that the IFR is able to delay the thermal decomposition of PP composite,and has an obvious effect on thermal stability.In addition,the char residue of Exp.curve at $8 0 0 ^ { \\circ } \\mathsf { C }$ is $2 . 7 \\mathsf { w t \\% }$ ：which is lower than the Cal.one.This means the quality of intumescent char layers is not good enough to prevent decomposition under high temperature. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Cal.and Exp.TGA curves of PP/IFR/CoW composites are shown in Fig.5(d). It is found that the Exp.curve of PP/lFR/ CoW composite shifts to higher temperature.Its $\\pmb { T } _ { \\mathrm { m a x } }$ is $4 8 0 ^ { \\circ } \\mathsf { C } ,$ $1 8 ^ { \\circ } C$ higher than that of the Cal.one,and $2 ^ { \\circ } { \\mathsf { C } }$ higher than PP/IFR.This indicates that the addition of CoW improves the thermal stability further.Additionally, the $\\overline { { \\pmb { T } } } _ { 1 0 \\mathrm { w t \\% } }$ of PP/IFR/CoW is $4 1 9 ^ { \\circ } \\mathsf C ,$ $1 5 ^ { \\circ } \\mathsf { C }$ lower than that of PP/IFR.Its Exp.char residue reaches $5 . 1 \\mathsf { w t \\% }$ which is $2 . 4 \\mathsf { w t \\% }$ higher than PP/IFR.Combining the results discussed above,it reveals that the synergistic effect exists mainly between IFR and CoW.Meanwhile, the addition of ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CoWaccelerates the thermal degradation reaction of IFR atlower temperature and promotes the char formation of IFR at higher temperature as well as the improvement of $\\pmb { T } _ { \\mathrm { m a x } }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The TGA curves of PP composites with different amounts of CoW under ${ \\sf N } _ { 2 }$ and air atmosphere are shown in Fig.6.The detailed data are listed in Table 4.Under ${ \\sf N } _ { 2 }$ atmosphere,all samples show one-step degradation,and their curves shift to higher temperature with the addition of IFR.And the char residueshavea significant increaseafter CoWisadded.Forexample, the char residues at $8 0 0 ^ { \\circ } \\mathsf { C }$ of samples 4-7 are $3 . 6 \\mathsf { w t \\% }$ $5 . 1 \\mathsf { w t \\% } ,$ （20 $6 . 3 \\mathsf { w t \\% }$ and $7 . 8 \\mathsf { w t \\% }$ ，while that of sample3isonly $2 . 7 \\mathrm { w t \\% }$ These results reveal that CoW has good synergistic effect on the charring formation of PP/IFR composites under ${ \\sf N } _ { 2 }$ atmosphere.However，combining the LOl and UL-94 results,it is found that the sample which produces the most char residues does not obtain the best flame retardant property.This may be because of the char quality of the sample and will be discussed in the following. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Under air atmosphere,all the samples turn into a two-step degradation,and the flame retardants also make the TGA curves shift to higher temperature.In the first stage $( 2 7 0 ^ { \\circ } \\mathsf { C } \\le T \\le 4 0 0 ^ { \\circ } \\mathsf { C } )$ the PP/IFR/CoW composites show better thermal stability than PP/IFR.In the second step $( 4 0 0 ^ { \\circ } \\mathsf { C } \\leq T \\leq 8 0 0 ^ { \\circ } \\mathsf { C } )$ ,all the samples decompose slowly,and all PP/IFR/CoW composites produce more char residues than PP/IFR at $8 0 0 ^ { \\circ } \\mathsf { C }$ The ${ \\pmb T } _ { \\mathrm { m a x } }$ of samples 4-7 are $3 7 8 ^ { \\circ } C ,$ （20 $4 0 3 ^ { \\circ } \\mathsf C ,$ （ $3 7 0 ^ { \\circ } \\mathsf C$ and $2 9 0 ^ { \\circ } \\mathsf C ,$ respectively,which are all higher than that of sample 3.It is worth noting that the $\\pmb { T } _ { \\mathrm { m a x } }$ increases first and decreases gradually with the addition of CoW. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e97b9070900d99130c113e96bbd5df3c14fd46d53b7d1f845048e42790867d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"6\">Table 4. TGA data of PP composites under N2 and air atmosphere</td></tr><tr><td>Samples</td><td colspan=\"6\">N</td></tr><tr><td></td><td>T1wt% (℃)</td><td>T5wt% (C)</td><td>T10wt% (C)</td><td>T50wt% (C)</td><td>Tmax (C)</td><td>Residuesat 800oC (wt%)</td></tr><tr><td>Sample 0</td><td>364</td><td>409</td><td>425</td><td>455</td><td>462</td><td>0</td></tr><tr><td>Sample 3</td><td>226</td><td>376</td><td>434</td><td>474</td><td>479</td><td>2.7</td></tr><tr><td>Sample4</td><td>133</td><td>359</td><td>435</td><td>478</td><td>481</td><td>3.6</td></tr><tr><td>Sample 5</td><td>193</td><td>369</td><td>419</td><td>474</td><td>479</td><td>5.1</td></tr><tr><td>Sample 6</td><td>122</td><td>356</td><td>415</td><td>467</td><td>473</td><td>6.3</td></tr><tr><td>Sample 7</td><td>218</td><td>390</td><td>444</td><td>478</td><td>480</td><td>7.8</td></tr><tr><td>Samples</td><td></td><td></td><td></td><td>Air</td><td></td><td></td></tr><tr><td></td><td>T1wt% (℃)</td><td>T5wt% (°C)</td><td>T10wt% (℃)</td><td>T50wt% (°C)</td><td>Tmax (C)</td><td>Residuesat 800oC (wt%)</td></tr><tr><td>Sample 0</td><td>230</td><td>243</td><td>250</td><td>280</td><td>284</td><td>0</td></tr><tr><td>Sample 3</td><td>176</td><td>271</td><td>278</td><td>333</td><td>284</td><td>1.3</td></tr><tr><td>Sample4</td><td>100</td><td>276</td><td>283</td><td>368</td><td>378</td><td>2.3</td></tr><tr><td>Sample 5</td><td>258</td><td>282</td><td>296</td><td>377</td><td>403</td><td>3.2</td></tr><tr><td>Sample 6</td><td>134</td><td>277</td><td>285</td><td>367</td><td>370</td><td>5.6</td></tr><tr><td>Sample 7</td><td>195</td><td>275</td><td>282</td><td>336</td><td>290</td><td>7.4</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "100 95 %m IFR -IFR/CoW(16.5/0.5） .IFR/CoW(16.0/1.0) 85 -IFR/CoW(15.5/1.5) -IFR/CoW(14.0/3.0) 80 100 150 200 250 300 Temperature ℃ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sample 5,which has the best flame retardancy,also gets the highest $\\pmb { T } _ { \\mathrm { m a x } }$ 、Additionally,the char residue of samples 4-7 increases from $2 . 3 \\mathsf { w t \\% }$ to $7 . 4 \\mathsf { w t \\% }$ with the content of CoW increase.These results reveal that CoW delays the thermal decomposition of PP/IFR composites and accelerates the char formation,but excessive CoW causes the degradation of IFR dramatically as shown in Fig.6 (b) inside.So an appropriate amount of CoW is needed which is in accordance with the flame retardant properties. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the reaction between CoW and IFR, the thermal degradation behavior of IFR/CoW compounds with different amounts of CoW were studied and the results are shown in Fig.7.The thermal degradation temperatures before $\\bar { \\pmb { T } } _ { 1 0 \\mathrm { w t \\% } }$ are listed in Table 5. It is obvious that the degradation temperatures for IFR/CoW compounds decrease with the content of CoW increasing when the temperature is lower than $\\pmb { \\tau } _ { 7 . 5 \\mathrm { w t \\% } }$ .For example, the $\\pmb { T } _ { 5 \\mathrm { w t \\% } }$ Of IFR is $2 3 3 ^ { \\circ } \\mathsf C ,$ while the $\\pmb { T } _ { 5 \\mathrm { w t } }$ $\\%$ of IFR/CoW compounds changes from $2 2 5 ^ { \\circ } \\mathsf { C }$ to $2 0 3 ^ { \\circ } \\mathsf { C }$ These results reveal that CoWaccelerates the reaction of IFR,and improves its decomposition rate at early degradation stage. It is interesting that the IFR/CoW compound $( 1 4 . 0 / 3 . 0 )$ obtains the most char residues. It suggests that even though excessive CoW accelerates the decomposition of IFR at early degradation, it also promotes the char formation at the later degradation stage because of the complexity of decomposition.Analyzing the results of flame retardant properties and thermal degradation,it also proves the same result.So the reason of excessive CoW causing the poor flame retardant properties may relate with the quality of char layer.In addition,the amount of sample for TGA test is so little that cannot present the real results absolutely.Therefore the rate of char formation at a larger sample quantity was studied. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Rateofcharformation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the work reported by Edward D.Weil [25]，the rate of char formation (RCF)is one of the most important factors for flame retardant performance of materials.Usually the materials which have higher RCF have better flame retardant properties as if the quality of char is good enough.The RCFis calculated from formulation (1)，and the results are shown in Fig. 8. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2071516d72ef38fcce9aaf69ca7ebe19a2f786c7a38ccf20bc93d75018b7cc3b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table 5. TGA data of IFR with different amounts of CoW under air atmosphere</td></tr><tr><td>Samples</td><td></td><td></td><td></td><td></td><td>T1wt%(C)T5wt%(°C) T7.5wt% (C) T10wt% (℃C) Cal.residues at 650℃ (wt%) Exp.residues at 650C (wt%)</td><td></td></tr><tr><td>IFR</td><td>196</td><td>233</td><td>248</td><td>268</td><td>25.4</td><td>25.4</td></tr><tr><td>IFR/CoW(16.5/0.5)</td><td>189</td><td>225</td><td>239</td><td>267</td><td>27.1</td><td>34.0</td></tr><tr><td>IFR/CoW(16.0/1.0)</td><td>180</td><td>211</td><td>227</td><td>256</td><td>28.7</td><td>33.6</td></tr><tr><td>IFR/CoW(15.5/1.5)</td><td>177</td><td>209</td><td>223</td><td>237</td><td>30.4</td><td>32.0</td></tr><tr><td>IFR/CoW(14.0/3.0)</td><td>175</td><td>203</td><td>222</td><td>253</td><td>35.3</td><td>46.9</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/730bab8ef1c97295c385237e270128c0dd2a373aea36d61f2f0ebfa7c16f2139.jpg",
+        "img_caption": [
+            "Figure 8. Rate of char formation. ",
+            "Figure 9. The cone calorimeter curves of PP composites: (a) HRR,(b) THR,(c) ML. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { R C F } = m _ { \\mathsf { c } } / ( m _ { \\mathsf { s } } { } ^ { * } t )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Here $m _ { \\mathrm { c } }$ means the weight of char residues; $m _ { s }$ means the weight of sample; $t$ is burning time. The RCF of sample 3is $2 . 0 \\times 1 0 ^ { - 3 } 5 6 \\mathsf { c } ^ { - 1 }$ .When the amount of CoW increases from $0 . 5 \\mathsf { w t \\% }$ to $3 \\mathsf { w t \\% }$ ,the RCF for these samples (samples 4-7) increases first and then decreases again.The sample 5 obtains the highest RCF, $2 . 7 \\times 1 0 ^ { - 3 } \\ { \\mathsf { s e c } } ^ { - 1 }$ .This result reveals that CoW can promote the reactions between APP and PER, then enhance the RCF of PP composites.However,excessive addition of CoW will decrease the RCF.Although CoWaccelerates the reaction between APP and PER,it also may promote the degradation of char.The two opposite effects result in different RCF and influence the flame retardant performance further. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CONE CALORIMETER TESTS",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The flame retardant properties of PP composites were further studied by cone calorimeter.The time to ignition (TTl), heat release rate (HRR),total heat release (THR),mass loss (ML)and their peak values are shown in Fig.9 and Table 6. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig.9,PP burns severely in the testing,and its HRR curve isa single peak with a peak heat release rate (PHRR) of $1 0 0 7 \\mathrm { k W / m } ^ { 2 }$ .Sample 3 and sample 5 turn into double peaks, the first peak is attributed to the protecting of the char layer and the second peak is attributed to the degradation of the char layer[2627]ThePHRRforsample3andsample5arebothlower than PP.With the addition of CoW, the PHRR of sample 5 is obviouslydelayed.It reachesPHRRat 357 sec,whichis 52 sec later thansample3.This may caused by themore char layers induced by CoW.The THR result is closely related to HRR.The THR of sample 0 is the highest one.Sample 5 shows the lowest THR.Its THR is $9 7 k J / \\mathsf { m } ^ { 2 }$ which is lower than sample 3 and sample O.The ML results also have been studied in Fig.9(c).Sample O burns severely and produces little char residue.The ML rate of sample 3 is lower,and the char residue is $1 8 \\mathrm { w t \\% }$ .With the addition of CoW,the ML rate decreases further,and the char residue reaches $2 0 \\mathrm { w t \\% }$ .These results indicate that CoW hasa positive effect on PP/IFR system,promoting the char forming during combustion. The char layers protect the samples as a barrier, slow down the heat release and reduce the THR of composites. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MORPHOLOGY ANALYSIS OF CHAR RESIDUE",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The photos of PP composites after cone calorimeter testing are shown in Fig.10.There is little char for sample O.With the addition of IFR,sample 3 producesa thin char layerwhich covers upon the whole substrate.However,an obvious crack can be observed at the center of the char layer for sample 3.So the quality and quantity of char layer are both unsatisfactory.And the low quality char layers cannot prevent the samples from the transfer of heat and combustible gases.When the CoW were added,a continuous and compact char layer is observed for sample 5. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "140 1.0 b C S a   \n400 60 0.4 40 Sample0   \n200 20 Smple 0.2 0 0 0.0 0 100 200 300 400 500 100 200 300 400 500 0 100 200 300 400 500 Time(s) Time(s) Time(s) ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0c7460c9f3d793ca3334300e68116da68db4e0855895cda24d6e5c273bcceb95.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Table 6. Cone calorimeter data of PP composites</td></tr><tr><td>Samples</td><td>TTI (sec)</td><td>PHRR (kW/m2)</td><td>THR (KJ/m2)</td><td>Mean MLR (g/sec)</td><td>Char residues (wt%)</td></tr><tr><td>Sample 0</td><td>50</td><td>1007</td><td>126</td><td>0.104</td><td>0</td></tr><tr><td>Sample 3</td><td>46</td><td>402</td><td>103</td><td>0.030</td><td>18</td></tr><tr><td>Sample 5</td><td>46</td><td>401</td><td>97</td><td>0.030</td><td>20</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bab14134affcbac54367623a8ff9b6ddabc6860adf94e2e185b8fac10c2defe2.jpg",
+        "img_caption": [
+            "Figure10.Photos of PP composites after cone calorimeter testing:(a) sample 0,(b)sample 3and (c) sample 5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c18309d8b2ab6e095c9c972eb48ab86198a76f685570db65bd920bba3d16827c.jpg",
+        "img_caption": [
+            "Figure11.SEM photographs of char layers of (a) sample 3and (b) sample 5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/3825ecdfbadb93484ab7e52a486f07e0d5bddc75bd5f327f23c8c96251aa7bec.jpg",
+        "img_caption": [
+            "Figure 12. FT-IR spectra of char layers for PP composites: (a) sample 3 and (b) sample 5. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This indicated that the quality of char layers has a huge promotion. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate the morphology of the char layers for PP composites, the SEM photographsare shown in Fig.11.There aremanyholes in thechar layerof sample3,indicating that the quality of char layer is unsatisfactory.However,few holesare observed in the char layer of sample 5.The compact char layer wil protect the PP composites from heat and combustible gases as a barrier in the fire,and be swelled by the $N H _ { 3 }$ which formed from IFR; then the insulation effect of heat enhanced further.This result indicates that the CoW brings an improvement to the quality of char layer， then elevates the flame retardancy ofPP composites. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The FT-IR spectra of char layers are shown in Fig.12. The typical bands of sample 3 belong to phosphoric or polyphosphoric, $3 5 0 0 { - } 3 0 0 0 { \\mathsf { c m } } ^ { - 1 }$ belongs to OH, $1 6 3 7 - 1 6 3 8 \\mathrm { c m } ^ { - 1 }$ belongs to ${ \\mathsf { C } } { = } { \\mathsf { C } } ,$ $1 3 8 4 - 1 3 8 5 c m ^ { - 1 }$ belongs to $\\beta _ { \\mathrm { O - H } }$ and $1 0 0 5 { - } 1 0 0 9 \\mathsf { c m } ^ { - 1 }$ belongs to P-O [28].These characteristic peaks are also observed in the FT-IR spectrum of sample 5.This indicates that the addition of CoW does not destroy the char structure.After analyzing the date comprehensively,it is known that CoW accelerates the char formation and modifies the quality of char layer, thus improving the flame retardant efficiency. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Co was chosen as a heteroatom to tailor the performance of polyoxometalates.A pale blue tungestocobaltic based organicinorganic hybrid material, $[ \\mathsf { B } \\mathsf { m i m } ] _ { 6 } \\mathsf { C o W } _ { 1 2 } \\mathsf { O } _ { 4 0 } ,$ was prepared successfully.The synergistic effectof CoW on flame retardancyof PP/IFR composites was studied.The results showed that the CoW improves the flame retardant properties of PP/IFR compositesat a suitable content.Especially,at the total content of 17wt $\\%$ IFR/CoW (16:1), the sample passes the UL-94V-0 testing,and the LOl value rises to 28.0.In addition, the color of PP composite is lighter that provides more potential applications.A certain amount of CoW accelerates the reactions between APP and PER at early degradation,promotes the char formation and enhances the quantity of charat high temperature.However excessive CoWwill promote the decomposition of both IFR and char, and damage the char layer. Itis the combination of good char quality,enough char residue and high RCF induced by CoW that results in the high flame retardant efficiency ofPP/IFR composites. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work is financially supported by the National Natural Science Foundation of China (Nos.21274159 and 51473178) and the Program for Ningbo Innovative Research Team (Grant 2015B11005). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]X.L.Chen,J.Yu and S.Y.Guo,J.Appl.Polym.Sci.,102,4943-51 (2006).   \n[2]W.L. Lee,L.C.Liu, C.M. Chen and J.S.Lin,Polym.Adv.Technol.,25, 36-40 (2014).   \n[3]M.L.Xu,Y.J.Chen,L.J.Qian,J.Y.Wang and S.Tang,J.Appl. Polym. Sci.,131,8 (2014).   \n[4]Q. B.Tang, B.B.Wang, G.Tang, Y.Q.Shi, X. D.Qian,B.Yu,L. Song and Y.Hu,Polym.Adv. Technol.,25,73-82 (2014).   \n[5]H.F.Zhu,J.Li,Y.K. Zhu and S.J.Chen,Polym.Adv. Technol.,25,872- 80 (2014).   \n[6]F.Salauen,G.Creach,F. Rault and X.Almeras, Polym. Adv.Technol., 24,236-48 (2013).   \n[7]Y.Halpern,D.M.Mott and R.H.Niswander,Ind.Eng.Chem.Prod. Res. Dev.,23,233-8 (1984).   \n[8] C.H. Ke,J. Li, K.Y. Fang,Q. L. Zhu, J. Zhu and Q. Yan, Polym. Adv. Technol.,22,2237-43 (2011).   \n[9]W.Y. Chen,S.S.Yuan,Y.Sheng and G.S. Liu,J.Appl.Polym. Sci., 132, 8 (2015).   \n(10] X.S.Wang, H.C.Pang,W.D.Chen,Y.Lin,L.S. Zong and G.L. Ning, ACS Appl.Mater.Inter.,6,7223-35 (2014).   \n(11]G.Gamino,L.Costa and L.Trossarelli, Polym. Degrad. Stab.,7,25-31 (1984).   \n12]G.Gamino,L.Costa and L.Trossarelli, Polym. Degrad.Stab.,7,221-9 (1984).   \n[13]G.Gamino,L.Costa and L.Trossarelli, Polym.Degrad.Stab，6, 243-52 (1984).   \n[14]G.Gamino,L.Costa and L.Trossarelli，Polym. Degrad.Stab.，12, 203-11 (1985).   \n[15]G.Gamino,L. Costa,L.Trossarelli, F.Costanzi and G.Landoni, Polym. Degrad.Stab.,8,13-22 (1984).   \n[16]G. Gamino,L. Costa,L.Trossarelli,F.Costanzi and A. Pagliari,Polym. Degrad. Stab.,12,213-28 (1985).   \n[17]J.S.Yi,H.Q.Yin and X.F.Cai,J.Therm. Anal.Calorim.,111,725-34 (2013).   \n[18]D.D.Yang, Y. Hu,L. Song, S.B. Nie,S.Q. He and Y.B. Cai, Polym. Degrad. Stab., 93,2014-8 (2008).   \n[19]Q.Wu and B.J.Qu,Polym. Degrad.Stab.,74,255-61 (2001).   \n[20]Y.Liu and Q.Wang,J.Appl.Polym.Sci.,107,14-20 (2008).   \n[21]S.J.Chen,J.Li,Y.K.Zhu,Z.B.Guo and S.P.Su,J.Mater. Chem.A.,1, 15242-6 (2013).   \n[22]F.Walmsley,J. Chem. Educ.,69,936-8 (1992).   \n[23]C.W.Hu,M.Hashimoto,T.Okuhara and M.Misono,J.Catal.,143, 437-48 (1993).   \n[24]E.Rafiee,M. Khodayari,M. Kahrizi and R.Tayebee,J.Mol.Catal.AChem.,358,121-8 (2012).   \n[25]E.D.Weil,W.M. Zhu,N.Patel and S.M.Mukhopadhyay,Polym. Degrad.Stab.,54,125-36 (1996).   \n[26] S. Bourbigot,M.LeBras,R. Delobel,P. Breant and J.M.Tremillon, Polym. Degrad.Stab.,54,275-87 (1996).   \n[27]S.Bourbigot,M.Le Bras,S.Duquesne and M.Rochery,Macromol. Mater. Eng.,289,499-511 (2004).   \n[28]A.N. Zheng,Y.Xia,N.Li,Z.W.Mao and Y.Guan,J.Appl. Polym.Sci, 130,4255-63 (2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information can be found in the online versionof thisarticleat the publisher'swebsite. ",
+        "page_idx": 8
+    }
+]

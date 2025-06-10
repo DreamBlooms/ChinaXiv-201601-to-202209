@@ -1,0 +1,1522 @@
+[
+    {
+        "type": "text",
+        "text": "新能源电力系统并网设备小扰动稳定分析(一):机理模型与稳定判据适用性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宫泽旭1，艾力西尔·亚尔买买提1，辛焕海1\\*，王玮¹，张欣1，陈东²，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王冠中1，杨超然1，胡海涛3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．浙江大学电气工程学院，浙江省 杭州市 310027;2．格拉斯哥卡利多尼安大学计算机、工程与建筑环境学院，苏格兰 格拉斯哥G40BA;3．西南交通大学电气工程学院，四川省 成都市 610031)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Small Signal Stability Analysis of Equipment in Renewable Energy Power System (Part I): Mechanism Model and Adaptation of Stability Criterion ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "iONG Zexu1, YAERMAIMAITI Ailixier1, XIN Huanhai1\\*, WANG Wei1, ZHANG Xin1, CHEN Dong2,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Guanzhong1, YANG Chaoran1,HU Haitao? ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Electrical Engineering,Zhejiang University, Hangzhou 310027, Zhejiang Province, China; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of Computing,EngineeringandBuilt Environment,Glasgow CaledonianUniversityGlasgow, G4 OBA United King ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. College of Electrical Engineering,Southwest Jiao Tong University, Chengdu 610031,Sichuan Province, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Manymethodsandcriteria ofstability assessment have been proposed due to the complex dynamics of renewable power system.The physical implications of these methods/criteria and their scopes of adaptation are different.It is difficult to theoretically answer that, for certain stability issue,which stability criterion is suitable and whether the corresponding physical interpretation is reasonable.This paper was divided into two parts.The methods for assessing the adaptation of stability criteria were put forward,and the question whether the corresponding physical interpretations were reasonable were answered in part I.While the adaptation of each stability criterion was analyzed by applying the method and the physical interpretation of each stability problem was derived in part II.In part I,the derivation process of the existingstabilitycriteria and their underlyingphysical significance were reviewed at first. Secondly, the selection principles of stability criteria were proposed from 3 aspects, namely stability equivalence,nominal performance and robust stability. And the quantitative index named loop gain sensitivity was proposed.Finally,the adaptation of several impedance criteria of grid-connected converters were analyzed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It was shown that the nominal performance and robustness of these impedance criteria were not equivalent in frequency domain modal analysis.The adaptation of other typical stability criteria and the corresponding physical interpretation were analyzed in part II. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS: stability criterion; stability mechanism; loop gain sensitivity; robustness ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：新能源电力系统的动态特性复杂，存在众多稳定分析方法及稳定判据。不同稳定方法/判据对应的物理解释和适用范围不同，目前难以从理论上回答各类判据适合解决的问题，以及它们所对应的物理解释是否合理。该文分为两部分，第一部分提出稳定判据的适用性评估方法，并尝试回答与稳定判据对应的物理解释是否合理；第二部分应用该方法分析部分典型判据的适用场合，并尝试给出其物理解释。第一部分首先回顾归纳现有稳定判据的推演机理，以及各判据背后对应的物理意义。其次，从稳定性等价、标称性和鲁棒性3个角度，提出稳定判据的适用性3个定性原则，并提出基于环路增益灵敏度的定量化指标。最后，以并网变流器为例，说明频域分析中若干基于阻抗的分析方法的性质，并探讨了其适用范围。电力系统中其它典型判据的适用性及其物理解释等工作将在第二部分展开探讨。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：稳定判据；稳定机理；环路增益灵敏度；鲁棒性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "构建新能源电力系统是我国能源转型与“双碳”战略的重要组成部分，未来风电、光伏等新能源都将快速发展。然而，新能源设备的动态特性复杂，电力系统的稳定性分析与控制存在众多亟待攻克的难题[1-3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并网设备的单机无穷大系统是用于理解复杂电力系统动态的最简单的系统之一[4-6]。尽管如此，该系统仍然是动态特性复杂的多输入多输出(multiple-input multiple-output，MIMO)系统，其稳定性(包括稳定裕度，如不特别说明，本文特指小扰动稳定性)难以分析和量化[7。目前已有较多基于时域或频域的分析方法和稳定判据。其中频域方法由于便于黑箱分析和适合设计控制策略而受到青睐，一个主流思路是：保留决定稳定性的关键变量或模型，而将剩余部分进行等效变换，期望获得一个与原MIMO系统稳定性等价的单输入单输出(single-input single-output，SISO)系统，并伴随产生针对该等效SISO系统的稳定判据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "例如，针对同步机设备，基于对低频振荡的物理认识，聚焦转子角并将部分中间变量消去，推导出适合分析低频振荡的阻尼转矩法[4]；基于次同步振荡(sub-synchronous oscillation，SSO)的机理，可分别聚焦轴系转子动态和电路特性，推导出适合分析SSO的复转矩系数法和等值阻抗法[5]。又如，针对电力电子设备的多时间尺度振荡问题，基于不同的物理认知，形成不同的稳定判据：聚焦端口电压/电流相角稳定性的广义/极坐标阻抗判据[8；聚焦正负序回路稳定性的序阻抗判据[9-1]；聚焦锁相环稳定性的主导回路方法[12]；聚焦惯性和同步动态的广义转矩系数法[13]等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于上述思路，针对同一个问题推导出的稳定分析方法很多。由于不同的导出方法都来源于同一个系统，只要数学上推导是严谨的，那么它们对系统是否稳定的判断结果是一致的。以变流器的阻抗法为例，多种坐标下的阻抗判据可以相互转化[14],其判稳结果也相同。然而，不同稳定判据侧重于不同的物理特性，所反映的物理意义是不同的：例如，极坐标下的阻抗判据聚焦于端口电压/电流的相角信息，反映设备与电网的同步特性；序阻抗判据则提取了系统的电压/电流序分量，反映了设备与电网的序电路谐振特性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此外，不同判据对系统稳定程度的表征能力存在差异，如系统稳定裕度的特性不同，基于不同判据设计的控制器的鲁棒性存在较大差异[15]。因此，不同分析方法或判据的分析效果是不一样的，适应场合也不同，从而引出一个问题：这些稳定分析方法或判据之间的区别是什么，分别适用什么场合以及为什么适用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，本文探讨多种稳定分析方法及判据是否适用、各判据导出的物理解释是否合理的问题，并提出评估各判据性能的量化方法和指标；进一步，将评估方法应用于分析多种设备和多种判据，厘清其对应关系及对应的物理解释，并将它们进行归类，具体逻辑结构如图1所示。文章分为两部分，第一部分探讨设备稳定判据是否适用的原则和分析方法，第二部分讨论典型设备的稳定机理及其归类方法。第一部分内容组织如下：首先，回顾电力系统设备的主要稳定分析思路及稳定判据。其次，解释各稳定判据推演的数学过程和物理解释，说明不同判据具有不同的物理意义。然后，提出稳定判据的选取原则，并通过环路增益灵敏度指标进行量化。最后以变流器为例，讨论不同阻抗判据在不同场景下的适用性及其特点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "稳定判据 物理意义 机理归纳判据a (相角)  \n设 判据b (电压) 同步稳定  \n备  \nA 判据n (谐振)判据a (相角) 电压稳定  \n设 判据b (电压)  \n备 谐波谐振  \nB 判据n (谐振)第一部分 第二部分(判据适应性分析) (导出机理及分类)",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Framework of thearticle本文所使用的符号说明如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c66cc250f545ac7544fd865716487d2ebdf7cf2e5f88ad12c917f870a2ba187e.jpg",
+        "table_caption": [
+            "表1本文所用符号说明",
+            "Table1Nomenclature in thisarticle "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>符号</td><td>含义</td></tr><tr><td>△a</td><td>变量a的微增量</td></tr><tr><td>L(s)</td><td>开环传递函数</td></tr><tr><td>M(s)</td><td>裕度函数</td></tr><tr><td>Mv</td><td>矢量裕度</td></tr><tr><td>OL(s)</td><td>环路增益灵敏度</td></tr><tr><td>Ss(s)</td><td>不确定性灵敏度</td></tr><tr><td>det(-)</td><td>求矩阵行列式</td></tr><tr><td>arg(-)</td><td>取复数的角度</td></tr><tr><td>H</td><td>取复数的模</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1电力系统设备稳定判据回顾",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1设备并网系统的建模",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同步机、变流器(表示光伏、直驱风机等)和双馈风机的单机无穷大系统模型如图2所示，其线性化模型可用时域或频域形式表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb3f1346b7dd6a87d9cdc6834f903b2d82627b7298979af384ff60235724c82c.jpg",
+        "img_caption": [
+            "图2电力设备并网系统",
+            "Fig.2 Grid-connected system of power equipment同步机并网系统可以通过时域状态方程描述：",
+            "图3稳定判据导出的数学物理方法",
+            "Fig.3Mathematical and physical method of deriving stabilitycriterion "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\Delta \\dot { \\mathbf { x } } = A \\Delta \\mathbf { x } + B \\Delta { \\boldsymbol { u } } } \\\\ { \\Delta \\mathbf { y } = \\pmb { C } \\Delta \\mathbf { x } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\Delta x$ 通常是包含转子频率 $\\Delta \\omega$ 、转子角 $\\Delta \\delta ,$ 励磁电势 $\\Delta E _ { \\mathrm { f } }$ 和 $q$ 轴次暂态电势 $\\Delta E _ { \\ q } ^ { \\prime }$ 等多个状态变量的状态向量； ${ \\Delta } u$ 和 $\\Delta \\mathfrak { y }$ 为输入和输出向量； $A , B .$ $c$ 分别为系统的状态矩阵、输入矩阵和输出矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将式(1)进行拉普拉斯(Laplace)变换，得到同步机并网系统的频域模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathbf { y } = \\pmb { G } ( s ) \\Delta \\pmb { u }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\scriptstyle { G ( s ) = C ( s I - A ) ^ { - 1 } B }$ 为系统的传递函数矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "类似地，光伏和风机等新能源并网系统可以在dq、正负序或极坐标中建立动态模型：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\begin{array} { r } { { \\left[ { \\Delta U _ { a } } \\right] } = \\mathbf { Z } ( s ) { \\left[ { \\Delta I _ { a } } \\right] } = { \\left[ { Z _ { a a } } ( s ) \\quad Z _ { a b } ( s ) } { \\right] } { \\left[ { \\Delta I _ { a } } \\right] } } \\\\ { { \\left[ { \\Delta U _ { b } } \\right] } } \\end{array} }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\Delta U _ { a \\setminus } \\Delta U _ { b \\setminus } \\Delta I _ { a }$ 和 $\\Delta I _ { b }$ 可以表示任意坐标 $( a b )$ 如取直角坐标 $( d q )$ 、序坐标 $( p n )$ 、极坐标 $( M \\theta )$ 等的设备端口电压电流小信号量； $\\pmb { Z } ( s )$ 为设备复阻抗矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2典型稳定判据的回顾 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从式(1)-(3)可知，无论是同步机还是新能源设备，其单机无穷大系统都是MIMO系统。为了便于分析和控制，学者们通常将复杂系统进行数学变换或物理等值，得到可简单应用的稳定判据，主要分为两大类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一类是根据设备的物理特性，构造出等效SISO系统并得到对应的稳定判据，包括：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）借助矩阵的舒尔补变换，将部分变量进行等值消去(物理上对应为传递函数的代数变换)，如阻尼转矩法、复转矩系数法、选择模式法(selectivemodalanalysis，SMA)[4-5]、修正序阻抗判据和广义阻抗判据，也包括阻抗法中直接求取MIMO系统特征方程的行列式[16]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)通过相似对角变换将矩阵对角化，将MIMO系统转化为多个等效SISO系统后进行分析，如基于特征轨迹分解的广义奈奎斯特判据[7]，dq 阻抗判据[17]、统一阻抗判据[18]、对角化变换[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）基于物理认识，忽略耦合或次要环节得到简化的SISO系统，如同步机SSO的等值阻抗法[5]、不考虑耦合的序阻抗法[9]等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二类是直接由MIMO系统导出稳定判据或量化稳定裕度指标，如基于禁止域[20-21]或范数[22-23]的阻抗判据、基于短路比的判据[24-25]等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上，形成稳定判据对应数学物理方法如图3所示。各稳定判据的生成方法虽然不同，但基本思路都是化繁为简，借助针对SISO系统的奈奎斯特稳定判据导出具有物理意义的稳定判据：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "舒尔补 阻尼转矩法、复转矩系数法、变换 选择模式分析、修正序阻抗法dq等效SISO阻抗判据、构造等效 直接求取MIMO行列式…SISO模型 相似对角广义奈奎斯特判据  \n稳定 变换  \n判据 物理等值 等值阻抗法、序阻抗法…直接导出 基于禁止域或范数的判据、MIMO判据 单馈入或多馈入短路比…",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）阻尼转矩法：用于同步机低频振荡的分析，其思路是保留与转子运动方程相关的 $\\Delta \\omega , \\Delta \\delta .$ 变量，通过状态方程的舒尔补变换将式(1)表示的全阶模型简化为一个伪“二阶”系统[5]，进而利用SISO系统的稳定分析手段形成基于阻尼的稳定判据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）复转矩系数法：通过保留与轴系强相关的振荡模态实现频域模型的化简[4]。该方法可推广到变流器电气惯量的分析，得到广义转矩系数法[13]。在频域下，阻尼转矩法与复转矩系数法形成的稳定判据与奈奎斯特判据等价[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）频域阻抗法：分析同步机加串补形成的感应发电机效应时，将同步机与串补用一维阻抗及电路等效[5]，形成阻抗判据及电路机理解释。针对并网变流器，阻抗模型一般是两维矩阵，对于dq 阻抗判据，通常采用广义奈奎斯特判据将MIMO系统转化为2个等效 SISO系统[17]；而修正序阻抗[10-11]和极坐标阻抗判据[8]则是利用闭环特征方程矩阵的舒尔补变换，将系统转化为SISO系统进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，这些判据的共性在于将复杂系统变换为一个相对简单的系统，并形成便于使用的稳定判据。不同判据聚焦的关键环节不同，物理意义自然存在差异。实际上，该问题可以类比为一个力学系统：不同判据对应不同视角或坐标系，好的观察视角能更好地去量化稳定性。例如，图4所示的平衡系统中，忽略干扰项，从不同的视角看这个力学系统都是平衡的。但只有从侧视角度观察时，才能在考虑干扰时抓住引起该系统平衡(稳定)或不平衡(不稳定)的“本质”，从而更具科学性或机理性。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/74b2abcad7b7bfba865609d52a6431d2b80142f69c5472ab7ede36ce08b19e49.jpg",
+        "img_caption": [
+            "图4观测视角对稳定机理认识的影响 Fig.4Effect of observation perspective on the understandingof physical mechanism "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "类似地，通过数学变换或物理等效的推导方法，可以导出众多的稳定分析方法和判据。但是，各个判据的描述视角不同，对机理的剖析效果自然各不相同，后文将结合具体的场景从控制理论角度探讨视角、分析方法和稳定判据的合理性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2频域稳定判据适应性问题的描述",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1稳定判据推演的数学过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不失一般性，本文以传递函数矩阵的舒尔补变换为例，阐述构建等效系统并得到判据的数学推导思路及其物理解释。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "考虑并网系统采用式(2)或(3)所示的传递函数矩阵进行描述，并为了简化推导，选择相同数量的输入输出变量进行建模，则系统频域模型为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\mathbf { y } ( s ) = \\pmb { G } ( s ) \\Delta \\pmb { u } ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $G ( s )$ 为 $\\scriptstyle n \\times n$ 维传递函数矩阵; $\\Delta \\pmb { u } ( s ) { = } [ \\Delta u _ { 1 } , \\cdots , \\Delta u _ { n } ]$   \n和 $\\Delta \\mathbf { y } ( s ) { = } [ \\Delta y _ { 1 } , \\cdots , \\Delta y _ { n } ]$ 分别为 $n$ 维输入和输出向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令系统的反馈传递函数矩阵为 $K ( s )$ ，即：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\pmb { u } ( s ) = - \\pmb { K } ( s ) \\Delta \\pmb { y } ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "则该多变量系统的闭环特征方程如下",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { d e t } ( I + L ( s ) ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\pmb { I } + \\pmb { L } ( s ) ) \\Delta \\pmb { y } ( s ) = \\pmb { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\pmb { L } ( s ) \\mathbf { = } \\pmb { G } ( s ) \\pmb { K } ( s )$ 为系统开环传递函数矩阵。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "消去式(7)部分输入/输出变量，可得到一个等效模型。设被保留的 $\\boldsymbol { r }$ 个输出变量向量为 $\\Delta { } y _ { r } =$ $[ \\Delta y _ { 1 } , \\cdots , \\Delta y _ { r } ]$ ，消去变量向量为 $\\Delta \\mathfrak { y } _ { e } { = } [ \\Delta \\mathfrak { y } _ { r + 1 } , \\cdots , \\Delta \\mathfrak { y } _ { n } ]$ 则式(7)可以写成分块矩阵形式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( I + \\left[ \\frac { \\boldsymbol { L } _ { r r } ( s ) } { \\mathcal { L } _ { e r } ( s ) } \\stackrel { ! } { \\underset { ! } { \\boldsymbol { L } } _ { e e } ( s ) } \\right] \\left[ \\frac { \\Delta \\mathbf { y } _ { r } ( s ) } { \\Delta \\mathbf { y } _ { e } ( s ) } \\right] = \\mathbf { 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "消去输出变量 $\\Delta { \\bf y } _ { e } ( s )$ 后，特征方程转化为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { d e t } ( \\pmb { I } _ { r r } + \\pmb { L } _ { r } ( s ) ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\pmb { L } _ { r } ( s )$ 为等效模型的开环传递函数矩阵，表达式 为 $L _ { r } ( s ) \\mathbf { \\lambda } = \\mathbf { L } _ { r r } ( s ) \\mathbf { \\lambda } - \\mathbf { L } _ { r e } ( s ) ( \\mathbf { I } _ { e e } + \\mathbf { L } _ { e e } ( s ) ) ^ { - 1 } L _ { e r } ( s ) \\mathbf { \\lambda } _ { \\circ }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当方程d $\\scriptstyle \\mathfrak { x t } ( I _ { e e } + L _ { e e } ( s ) ) = 0$ 不存在右半平面(righthalfplane，RHP)零点时，等效系统与原系统的不稳定模式不变[5]。等效过程也可以通过消去频域模型的部分输入变量，或时域状态空间模型的部分状态变量等实现，具体可参考文献[5]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当保留一组输入/输出变量 $( r { = } 1 )$ 时，可得并网系统的一个稳定判据(以及等效SISO模型的特征方程)，如式(10)所示。在该判据中，开环传递函数矩阵 $ { \\boldsymbol { L } } _ { r } ( s )$ 退化为开环传递函数 $L _ { 1 } ( s )$ ，即：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + L _ { 1 } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $L _ { 1 } ( s )$ 为保留第一个输出变量 $\\Delta y _ { 1 }$ 所得到的等效系统的开环传递函数，即：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { L _ { 1 } ( s ) = L _ { 1 1 } ( s ) - } } \\\\ & { } & { L _ { 1 , 2 \\cdots n } ( s ) ( I _ { n - 1 \\times n - 1 } + L _ { 2 \\cdots n , 2 \\cdots n } ( s ) ) ^ { - 1 } L _ { 2 \\cdots n , 1 } ( s ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\pmb { L } ( s )$ 可以通过行列交换，保留任意一个输出变量 $\\Delta y _ { x }$ (或输入变量 $\\Delta u _ { x } )$ ，从而得到不同的等效特征方程 $1 + L _ { x } ( s ) { = } 0$ 及开环传递函数 $L _ { x } ( s )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用频域理论分析 $L _ { x } ( s )$ 可得对应特征方程的稳定性质，后文为表述方便也将等效特征方程$1 + L _ { x } ( s ) { = } 0$ 简称为稳定判据。特别指出的是，1.2节中提到的一些经典判据，如阻尼转矩法和复转矩系数法等，虽然不是采用矩阵舒尔补变换得到，但它们也能类似地转化为式(10)的形式，后文提出的适用性分析方法仍然适用，限于篇幅不详细展开。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于输入输出的选择不唯一，重复上述过程可以得到多种稳定判据和方法，即存在不同的 $L _ { 1 } ( s )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "但需要回答如下问题：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "问题1：不同稳定分析方法/判据之间的区别是什么，分别适用于什么场合以及为什么适合？",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2稳定判据推演的物理解释",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上述将复杂系统转化为等效简化系统的过程，物理上是合并部分次要环节的传递函数回路",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如图5(a)所示，被保留的输入/输出变量之间的开环传递函数矩阵为 $\\pmb { L } _ { 1 1 } ( s )$ ，表示提取的关键环节所构成的主导回路(蓝色表示)。而消去其他变量得到等效传递函数矩阵 $ { \\boldsymbol { L } } _ { r } ( s )$ 的过程，可以看成将其他次要环节/回路折算到主导回路中，进而可以得到图5(b)所示的等效系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/396dd9526d6b7950fa904ed031cbf611c692cb1ee69540593159f7532fa02faf.jpg",
+        "img_caption": [
+            "图5设备并网系统频域模型化简"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "等效SISO系统是基于对失稳的物理认识、提取关键环节得到的，所形成的稳定判据也具有明确的物理意义：式(10)表示保留输出变量 $y _ { 1 }$ 形成的判据，能够反应变量 $y _ { 1 }$ 主导的稳定问题；或从传递函数回路理解，反映主导回路 $\\pmb { L } _ { 1 1 } ( s )$ 对应环节主导的物理问题。例如，当保留输入/输出选取为电流/电压时，判据描述了系统的阻抗特性；当保留相角变量时，则反映设备的同步特性。因此，不同稳定判据及等效模型的区别在于对失稳的理解不同，不同输入/输出变量形成相应的稳定判据反映了不同的物理机理，基于此同样需要回答：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "问题2：不同稳定分析方法/判据反映的机理或物理解释是什么，它是否合理和科学？",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，并网系统可以通过数学变换形成不同的稳定判据及对应等效模型，即使各判据的判稳结果一致，所反映的物理特性和机理解释也存在差异。继续以图4为例，在侧视视角(如某判据)下，干扰力较平衡力的投影更小，而在俯视视角(另一判据)下，干扰力则“淹没”了平衡力，故考虑不确定因素后很难抓住决定系统是否平衡的主要矛盾，此时从俯视视角下得到所谓的“平衡机理”并不能说是真正的机理。因此，各判据聚焦的关键环节反映了物理特性，适用场景并不相同，如何解释和评价各判据的适用范围等，将在第三章展开。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3举例解释：新能源并网系统的稳定判据",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以锁相环型变流器为例，新能源并网系统在极坐标下阻抗模型为[15]",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left[ \\begin{array} { l } { \\Delta I } \\\\ { I \\Delta \\varphi } \\end{array} \\right] } = { \\left[ \\begin{array} { l l } { Y _ { \\mathrm { g l } } ( s ) } & \\\\ & { Y _ { \\mathrm { g 4 } } ( s ) } \\end{array} \\right] } { \\left[ \\begin{array} { l } { \\Delta U } \\\\ { U \\Delta \\theta _ { U } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Bigg [ \\begin{array} { c } { { \\Delta I } } \\\\ { { I \\Delta \\varphi } } \\end{array} \\Bigg ] = \\Bigg [ \\begin{array} { c c } { { Y _ { M M } \\left( s \\right) } } & { { Y _ { M \\theta } \\left( s \\right) } } \\\\ { { Y _ { \\theta M } \\left( s \\right) } } & { { Y _ { \\theta \\theta } \\left( s \\right) } } \\end{array} \\Bigg ] \\Bigg ( \\Bigg [ \\begin{array} { c } { { \\Delta E } } \\\\ { { E \\Delta \\theta _ { E } } } \\end{array} \\Bigg ] - \\Bigg [ \\begin{array} { c } { { \\Delta U } } \\\\ { { U \\Delta \\theta _ { U } } } \\end{array} \\Bigg ] \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中各元素表达式及工况条件见文献[15]。该系统的传递函数模型如图6(a)所示，是一个MIMO系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过坐标变换将极坐标阻抗转化到 $d q$ 直角坐标或 $p n$ 序坐标下，三者在稳定性判别上等价[14]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "广义阻抗判据将图6(a)所示的传递函数模型中$\\Delta E / \\Delta U$ 变量消去，保留 $E \\Delta \\theta _ { E } / U \\Delta \\theta _ { U }$ 变量，即保留相角变量，其特征方程为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + L _ { \\mathrm { G } } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中开环传递函数 $L _ { \\mathrm { G } } ( s ) { = } Y _ { \\mathrm { G } _ { \\mathrm { - } } \\mathrm { V S C } } ^ { \\mathrm { G } } / Y _ { \\mathrm { G } _ { \\mathrm { - } } \\mathrm { n e t } } ^ { \\mathrm { G } }$ ，为奈奎斯特判稳的阻抗判据，具体参考文献[15]式(24)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "广义阻抗模型可以看成将图6(a)中蓝色的相角回路作为主导回路，而橙色的幅值回路折算消去，得到如图6(b)所示的等效系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7bcd313e62e2dcd1d57145efdec84c0a99b1da3bb9a2575631c73c4c135fb43e.jpg",
+        "img_caption": [
+            "Fig.5The frequency domain model of equivalent system ",
+            "图6变流器并网系统的广义阻抗等效模型 Fig.6Generalized impedance equivalent model of grid-connected converter "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "序阻抗建立在正负序坐标系下，包含如图7所示的正/负序2个回路。直接忽略正序和负序之间的耦合项，虽然将MIMO系统简化为SISO系统，但在锁相环参与度较大时，分析结果可能错误[10-1],两者并不等价。修正序阻抗模型不忽略耦合项，通过消去负序电压分量 $\\Delta U _ { n }$ ，保留正序电压分量 $\\Delta U _ { p }$ 得到的修正序阻抗的特征方程(负序同理)：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + L _ { { P / N } } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中正/负序开环传递函数 $L _ { P / N } ( s ) { = } Y _ { \\mathrm { G _ { \\mathrm { - } } V S C } } ^ { P / N } / Y _ { \\mathrm { n e t } } ^ { P / N }$ ，具体参考文献[15]式(25)、(26)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "修正序阻抗模型将变流器负序回路的影响折算到正序，其特征方程如式(15)所示。为方便表述，后文的序阻抗指修正序阻抗模型的序阻抗。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b3c27a9d25a8d3f3826523ef2f303dfbf44d26cdd310b64d2f9aaf420126115.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除关注变流器相角和电路特性的稳定判据外，还有聚焦直流侧动态的判据，如保留 $\\Delta I _ { \\mathrm { d c } } / \\Delta U _ { \\mathrm { d c } }$ 得到的等效模型[27]，其特征方程为",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + L _ { \\mathrm { D C } } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中 $L _ { \\mathrm { D C } } ( s ) { = } Z _ { \\mathrm { D C } } ^ { \\mathrm { S } } Y _ { \\mathrm { D C } } ^ { \\mathrm { L } }$ ，具体表达式见文献[27]。该模型与其他阻抗模型也可以相互转化[28]，本文称之为直流电压稳定判据及直流等效模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 种模型保留了不同的输入/输出变量，导出了不同的稳定判据。这3种稳定判据的基础模型相同，判稳结果一致，但物理意义不同。其中，广义阻抗判据保留系统的相角回路，描述了设备与电网相角阻抗匹配特性，可解释相角主导的同步稳定；序阻抗判据以正/负序阻抗谐振条件作为稳定判据，描述了等效阻抗的谐振特性，可解释为序电路的电气谐振问题；直流电压稳定判据保留了直流电压/输出功率，可解释为交流电流/电压幅值稳定问题(直流电流与交流电流幅值存在强联系，见第4.1节)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3稳定判据的选取方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1设备稳定判据选取的定性原则及定量指标",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由上文可知，一个时不变系统可以通过选取不同输入/输出变量形成多个稳定判据和分析方法，对应多个等效简化系统及开环传递函数 $L _ { 1 } ( s )$ ，也对应多个物理解释。针对给定的振荡模式，如何从众多可能的判据中找到适合稳定分析和控制的判据是需要解决的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为后文叙述方便，首先给出如下名词：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）定义(机理判据与机理模型)：针对给定系统的振荡模式，适用其分析和控制的稳定判据及等效模型，为该问题的机理判据及机理模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2）定义(主导输出变量与导出机理)：机理模型和判据保留的输出变量为该问题的主导输出变量，结合设备物理特性和机理模型，推导出系统失稳的原因及物理解释，为该问题的导出机理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据上述定义，要判断某方法/判据是否适合分析既定场景下的稳定问题(问题1)，或者回答某稳定机理是否科学(问题2)，可以转化为分析对应的稳定判据(或等效模型)是否合理，即式(10)中选择的开环传递函数 $L _ { 1 } ( s )$ 是否合理。如果稳定判据的选择合理，则其对应的等效模型可认为是机理模型，其推导出的失稳物理解释也应当是科学的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "进一步，考虑到获取机理模型/判据的目的是便于系统稳定裕度评估和控制设计，以达到良好的动态性能。因此，分析 $L _ { 1 } ( s )$ 是否合理，又可以转化为分析它是否满足控制理论所要求的多个必要的约束，从而将“方法是否合适、机理是否科学”的主观问题转化为可用控制理论来解决的客观问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据经典控制理论，为保证良好的动态性能，动态系统除了满足稳定要求外，还需要满足标称性(nominal performance,NP)和鲁棒性(robust stability,RS)要求[29]，如图8所示。其中，NP描述的是标称系统奈奎斯特曲线远离(-1,j0)点的能力(不进入蓝色圆)，即系统拥有一定的稳定裕度；RS描述的是考虑不确定性因素后标称系统系统仍能保持稳定的能力，即红色圆圈所表示的不确定性区域不包围(-1,j0)点。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/675bbdc6521fe70b5da16161f89fecd7591dc47f4e30f168ad4a1a80a0a9a814.jpg",
+        "img_caption": [
+            "图7变流器并网系统的序阻抗等效模型 Fig.7Sequence impedance equivalent model of grid-connected converter ",
+            "图8满足选取原则的等效系统示意图 Fig.8Schematic diagram of equivalent system satisfying the selection principles "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，为保证系统能够进行有效的分析和控制设计，机理判据及机理模型需要满足如下3个定性原则：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1）原则1 (稳定性等价原则)：保证稳定判据与原系统的稳定性等价，不发生“误判”。(详见3.2节)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2）原则2(标称性原则)：保证稳定判据表征的稳定裕度有效，例如，判据不能存在开环RHP 极点。(详见3.3节)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3）原则3(鲁棒性原则)：保证稳定判据具有较高的鲁棒性，稳定裕度对不确定性因素的灵敏度不能过大(详见3.4节)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了定量分析等效模型的标称性和鲁棒性，本文定义如下环路增益灵敏度指标：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "定义(环路增益灵敏度/裕度变化率)：开环传递函数对振荡模式 $s _ { 1 }$ 的灵敏度，与开环传递函数在振荡频率 $\\omega _ { 1 }$ 处的单位方向矢量的乘积，定义为振荡模式 $s _ { 1 }$ 处的环路增益灵敏度 $O _ { \\mathrm { { L } } } ( s _ { 1 } )$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO _ { \\mathrm { L } } ( s _ { 1 } ) = \\frac { L ( \\mathrm { j } \\omega _ { 1 } ) } { \\left| \\begin{array} { l } { L ( \\mathrm { j } \\omega _ { 1 } ) } \\end{array} \\right| } \\times \\frac { L ^ { \\prime } ( s _ { 1 } ) } { \\left| \\begin{array} { l } { L ( s _ { 1 } ) } \\end{array} \\right| } = e ^ { \\mathrm { j a r g } ( L ( \\mathrm { j } \\omega _ { 1 } ) ) } L ^ { \\prime } ( s _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中上标表示对传递函数求导。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "环路增益灵敏度是复数形式，反映了开环传递函数(裕度函数)对振荡模式的灵敏度，能够表征模型经过整定或遭受摄动时的变化情况，如图9所示。其角度和模的物理意义分别为：角度 $\\mathrm { a r g } ( O _ { \\mathrm { L } } )$ 表征整定角与振荡模式微增量角度之差，可以分析稳定判据是否满足标称性能原则；模值 $\\left. O _ { \\mathrm { L } } \\right.$ 表征模型遭受摄动时传递函数改变量的大小，可以用于分析稳定判据的鲁棒性，相关分析将在后文展开。当振荡模式 $s _ { 1 }$ 为弱阻尼模式时，有 $O _ { \\mathrm { L } } ( \\mathrm { j } \\omega _ { 1 } ) { \\approx } O _ { \\mathrm { L } } ( s _ { 1 } ) ,$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/df400be747693d286c8df5505dc101cbc7fa11d9480fb72c32f54dbfd4bcb42b.jpg",
+        "img_caption": [
+            "图9环路增益灵敏度的物理意义",
+            "Fig.9Physical significance of loop gain sensitivity "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2定性原则1：稳定性等价原则",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "保证系统稳定是控制的基本要求，因此，稳定判据首先需要保证分析结果的正确性。例如，在前文讨论的舒尔补变换过程中，当消去的传递函数存在不稳定极点时，等效系统的传递函数可能由于零极点的对消而丢失了原系统的部分不稳定极点，从而造成稳定性判断结果错误[30]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "因此，机理判据需要满足稳定性等价原则：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "稳定性等价原则：机理判据(机理模型)的判稳结果与原系统等价。该原则的一个充分条件是：忽略或消去的传递函数回路不包含不稳定模式。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，稳定性等价原则一般是满足的。因为设备在控制设计时，通常会保证每个传递函数回路不存在不稳定模式[7]。这个原则通常大家最为关注，例如在阻抗法中常见的假设为“设备并入无穷大电网是稳定的”。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3定性原则2：标称性能原则",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.1稳定判据的裕度失效及标称性能原则 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为保证系统的标称性能，需要使奈奎斯特曲线远离 $( - 1 , \\mathrm { j 0 } )$ 点[29]，即保证具有足够的稳定裕度。因此标称性能分析的前提是稳定裕度有意义或有效。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据频域理论，系统裕度函数 $M ( \\omega )$ 为[29]",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM ( \\omega ) = 1 + L ( \\mathrm { j } \\omega )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "裕度函数在振荡模式 $s _ { 1 }$ 的频率 $\\omega _ { 1 }$ 处的取值为矢量裕度(vector margin，VM)，表达式为[31]",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\mathrm { v } } = M ( \\omega _ { \\mathrm { i } } ) = 1 + L ( \\mathrm { j } \\omega _ { \\mathrm { i } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "主导模式矢量裕度的模约等于奈奎斯特曲线到 $( - 1 , \\mathrm { j 0 } )$ 点的最短距离，能够表征稳定裕度[31]，即：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\vert M _ { \\mathrm { v } } \\vert \\approx \\operatorname* { m i n } _ { \\omega \\in [ 0 , \\infty ) } \\vert M ( \\omega ) \\vert\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "矢量裕度的角度常用于指导控制设计，其最快增大的方向角 $\\alpha$ 满足：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha { = } \\left\\{ \\begin{array} { l l } { \\mathrm { a r g } ( M _ { \\mathrm { v } } ) { , } } & { \\mathrm { a r g } ( M _ { \\mathrm { v } } ) { < } 0 } \\\\ { \\mathrm { a r g } ( M _ { \\mathrm { v } } ) { - } \\pi { , } } & { \\mathrm { a r g } ( M _ { \\mathrm { v } } ) { > } 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "若系统开环传递函数经过整定改变为 $\\tilde { L } ( s )$ ，则在振荡模式频率处传递函数的整定角为",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = \\arg ( \\tilde { L } ( \\mathrm { j } \\omega _ { 1 } ) - L ( \\mathrm { j } \\omega _ { 1 } ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当整定角 $\\beta$ 满足 $\\beta { \\in } ( \\alpha { - } \\pi / 2 , \\alpha { + } \\pi / 2 )$ 时，系统的矢量裕度增加，反之矢量裕度减小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "然而，当消去的传递函数回路选取不当时，等效系统存在开环RHP极点，可能出现裕度增加但特征根右移的现象，导致稳定裕度失效。例如，考虑一个存在RHP 极点的开环传递函数 $L ( s ) { = }$ $\\frac { 1 0 ( s + 2 0 ) } { ( s ^ { 2 } + 8 s - 5 ) ( s ^ { 2 } + 4 s + 3 2 ) }$ ,其奈奎斯特曲线如图10(a)所示，包围 $( - 1 , \\mathrm { j 0 } )$ 点一圈对应系统稳定。通过整定参数，矢量裕度从 $M _ { \\mathrm { V 1 } }$ 分别减少和增加至 $M _ { \\mathrm { V } 2 }$ 和 $M _ { \\nabla 3 }$ 后，系统的主导特征根均向右移动，如图10(b)所示。此时，稳定裕度失去意义，因为按照矢量裕度增加方向整定参数后，系统反而更不稳定。本文将这种现象称之为开环RHP极点造成的“裕度反向”，根据该现象可对开环RHP极点问题进行判断。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "实际上，标称性可以通过系统互补灵敏度进行描述和整定，而当系统存在RHP极点时，无法任意整定互补灵敏度峰值[28]。换句话说，在存在开环RHP极点的等效模型中进行控制整定，可能无法找到满足高性能的解。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a278ee8c9b0b0e1135491558356d4495637073be8110e9ac50ce7926118d9669.jpg",
+        "img_caption": [
+            "图10开环RHP极点导致的稳定裕度失效现象 Fig.10Stability margin failure caused byRHP poles of the open loop transfer function "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合上述分析，机理判据应该满足：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "标称性能原则：机理判据(机理模型)在分析频段内的稳定裕度有效，一般情况下可简化为不存在开环RHP极点导致的裕度失效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2标称性判别方法：环路增益灵敏度的角度",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文利用环路增益灵敏度的角度，用于识别开环RHP极点导致的“裕度反向”现象，对不满足标称性能原则的等效模型进行排除。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "定理(环路增益灵敏度的角度性质)：考虑不确定性摄动造成的开环传递函数变化量 $k ( s )$ ，摄动后传递函数为 $\\tilde { L } ( s ) = ( 1 + k ( s ) ) L ( s )$ ，那么：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg ( \\Delta s ) \\approx \\arg ( \\Delta M _ { \\mathrm { v } } ) - \\arg ( O _ { \\mathrm { L } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathrm { a r g } ( \\Delta s )$ 、 $\\mathrm { a r g } ( \\Delta M _ { \\mathrm { V } } )$ 和 $\\mathrm { a r g } ( O _ { \\mathrm { L } } )$ 分别表示考虑摄动后特征根微增量、矢量裕度微增量与环路增益灵敏度的角度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "证明：摄动后特征方程和矢量裕度分别为",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + { \\tilde { L } } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tilde { M } _ { \\mathrm { v } } = 1 + \\tilde { L } ( \\mathrm { j } \\omega _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将式(24)两边对 $s$ 求导，则：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { \\prime } ( s ) ( 1 + k ( s ) ) + k ^ { \\prime } ( s ) L ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在振荡模式 $\\scriptstyle { s = s _ { 1 } }$ 处，有 $1 + L ( s _ { 1 } ) { = } 0$ ，可得：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ^ { \\prime } ( s _ { 1 } ) = - \\frac { L ( s _ { 1 } ) } { 1 + k ( s _ { 1 } ) } k ^ { \\prime } ( s _ { 1 } ) = \\frac { 1 } { 1 + k ( s _ { 1 } ) } k ^ { \\prime } ( s _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "将式(25)两边对 $k$ 求导，可得：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { d } \\tilde { M } _ { \\mathrm { v } } } { \\mathrm { d } k } { = } L ( \\mathrm { j } \\omega _ { \\mathrm { i } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结合式(27)、(28)，当变化量 $k ( s )$ 较小时，振荡模式 $s _ { 1 }$ 与矢量裕度 $M _ { \\mathrm { V } }$ 满足：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta s \\approx \\frac { 1 } { | L ( \\mathrm { j } \\omega _ { \\mathrm { l } } ) | O _ { \\mathrm { L } } ( s _ { \\mathrm { l } } ) } \\Delta M _ { \\mathrm { v } }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由于矢量相乘其角度相加，因此振荡模式移动的方向满足： $\\arg ( \\Delta s ) { \\approx } \\arg ( \\Delta M _ { \\mathrm { V } } ) { - } \\arg ( O _ { \\mathrm { L } } )$ 。得证。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据环路增益灵敏度角度性质以及上述分析，可得机理判据及模型的开环传递函数应满足：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "环路增益灵敏度的角度条件：当矢量裕度微增大(整定角 $\\beta \\in ( \\alpha - \\pi / 2 , \\alpha { + } \\pi / 2 ) )$ 时，若整定角与环路增益灵敏度的角度差 $( \\gamma { = } \\beta { \\mathrm { - a r g } } ( O _ { \\mathrm { L } } ) )$ 在 $( - \\pi / 2 , ~ \\pi / 2 )$ 区间时，稳定判据出现“裕度反向”，不满足标称性能原则，该稳定判据不能作为机理判据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "证明：当矢量裕度微增时，整定角 $\\beta { \\approx } \\mathrm { a r g } ( \\Delta M _ { \\mathrm { V } } )$ 根据环路增益灵敏度的角度性质可知 $\\scriptstyle \\gamma = \\arg ( \\Delta s )$ 。因此，若 $\\beta \\in ( \\alpha - \\pi / 2 , \\alpha + \\pi / 2 )$ 且 $\\gamma \\in ( - \\pi / 2 , \\pi / 2 )$ 时，矢量裕度增加导致特征根向右移动，出现“裕度反向”。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "当等效模型不含开环RHP极点时，增大矢量裕度时特征根固定向左移动，稳定性增强，整定角$\\beta { \\in } ( \\alpha { - } \\pi / 2 , \\alpha { + } \\pi / 2 )$ 有固定范围；而等效模型存在开环RHP极点时，由于可能出现“裕度反向”现象(也可能不出现)，导致无法确定使系统稳定性增强的整定范围。因此，利用角度条件识别的“裕度反向”是稳定判据存在开环RHP极点的充分条件。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4定性原则3：鲁棒性原则 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.1稳定判据的鲁棒性问题及鲁棒性原则",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "文献[15]指出，不同的等效阻抗模型对于同一振荡模式的鲁棒性并不一致，并通过条件数指标衡量不同等效模型对不确定性的放大情况。不失一般性，以式(8)一(11)的等效过程为例。其中，当保留第一个输出变量时，等效系统开环传递函数为式(11)；当保留第 $n$ 个输出变量时，等效系统的开环传递函数为",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { n } ( s ) = L _ { n n } ( s ) - L _ { 1 \\cdots n - 1 , n } ( s ) [ { \\cal I } _ { n - 1 \\times n - 1 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } _ { 1 \\cdots n - 1 , 1 \\cdots n - 1 } ( s ) ] ^ { - 1 } { \\cal L } _ { n , 1 \\cdots n - 1 } ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "若传递函数 $L _ { 1 1 } ( s ) { \\cdots } L _ { n n } ( s )$ 对应的闭环传递函数均不含不稳定极点，式(11)和(30)描述的等效系统与原系统对是否稳定的分析结果一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "考虑存在不确定时，系统的输入输出关系满足：",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { y } ( s ) \\mathbf { = } \\pmb { G } _ { \\mathrm { s } } ( s ) \\pmb { u } ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\pmb { G } _ { \\mathrm { s } } ( \\boldsymbol { s } ) \\mathbf { = } \\pmb { G } ( \\boldsymbol { s } ) ( \\pmb { I } \\mathbf { + } \\Delta _ { \\mathrm { i } } ( \\boldsymbol { s } ) ) )$ 为考虑输入乘性不确定性$\\Delta _ { \\mathrm { i } } ( s )$ 的传递函数，系统的开环传递函数矩阵为",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { s } } ( s ) = K ( s ) G _ { \\mathrm { s } } ( s ) = L ( s ) + \\Delta ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\pmb { \\Delta } ( s ) \\mathbf { = } \\pmb { L } ( s ) \\pmb { \\Delta } _ { \\mathrm { i } } ( s ) ,$ 0 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "分别保留回路 $L _ { 1 1 } ( s )$ 和 $L _ { n n } ( s )$ 时，等效系统的开环传递函数分别为",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + L _ { \\mathrm { s 1 } } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 + L _ { \\mathrm { s } n } ( s ) = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "式中 $L _ { \\mathrm { s } 1 } ( s )$ 和 $L _ { \\mathrm { s } n } ( s )$ 的表达式详见附录 $\\mathbf { A }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "对比 $L _ { \\mathrm { s 1 } } ( s )$ 和 $L _ { \\mathrm { s } n } ( s )$ 表达式，考虑不确定因素时，保留不同回路得到的等效模型在摄动项前的传递函数不同，对不确定因素的“放大”作用也不相同。因此，不同等效模型的鲁棒性不同，对系统稳定裕度的刻画也存在差异。在设计系统控制时，往往需要所选取鲁棒性更高的等效系统，即考虑模型不确定性后，稳定裕度的变化不能太大。否则，当模型出现不确定性时，控制设计保留的稳定裕度迅速被“消耗”而导致系统失稳[15]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上分析，机理判据应该满足：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "鲁棒性原则：机理判据(机理模型)在分析频段内应当具有较高的鲁棒性。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4.2鲁棒性判别方法：环路增益灵敏度的模 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "环路增益灵敏度的模能反映稳定判据(或其等效模型的开环传递函数/裕度函数)对振荡模式的灵敏度，模值越小，判据和等效模型的鲁棒性越好，考虑建模和参数不确定性时，模型的开环传递函数(或裕度函数)变化越小。因此，理想模型(其开环传递函数为 $L _ { \\mathrm { I } } ( s ) )$ 的环路增益灵敏度模值最小，即：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { I } } ( s ) = L _ { \\boldsymbol { x } } ( s ) , \\big | O _ { \\mathrm { L } \\boldsymbol { x } } ( s _ { 1 } ) \\big | = \\underset { \\forall i } { \\operatorname* { m i n } } ( \\big | O _ { \\mathrm { L } i } ( s _ { 1 } ) \\big | )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于输入输出变量通过线性组合可以得到无穷种输入/输出组合，对应进行不同数学变换可以获得无穷种等效模型。因此在实际问题中，只需将几个物理意义明确、便于测量和实用化分析控制的等效模型作为备选，选择出环路增益灵敏度模值较小的稳定判据作为特定问题的机理判据，即：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "环路增益灵敏度鲁棒条件：在备选稳定判据中，机理判据在振荡模式处环路增益灵敏度的模最小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，本文定义的环路增益灵敏度的模与文献[15]中定义的传递函数条件数指标具有一致性。条件数指标指传递函数对系统摄动的灵敏度的最大值，其表达式为[15]",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { \\mathrm { c o n d } } = \\operatorname* { m a x } _ { \\| \\delta \\| \\leq 1 } ( R _ { \\mathrm { L } } ( s _ { 1 } ) ) = \\operatorname* { m a x } _ { \\| \\delta \\| \\leq 1 } ( \\big | \\frac { \\partial L ( s , \\delta ) / L ( s , \\delta ) } { \\partial \\delta / \\delta } \\big | _ { s = s _ { 1 } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\delta$ 表示系统的不确定性摄动，包括参数不确定性或结构不确定性； $s _ { 1 }$ 表示系统振荡模式； $R _ { \\mathrm { L } } ( s _ { 1 } )$ 能够反映传递函数(稳定裕度)对摄动的灵敏度，其最大值为条件数指标，条件数越小，模型鲁棒性越好。结合式(17)可得， $R _ { \\mathrm { L } } ( s _ { 1 } )$ 与环路增益灵敏度模$\\left. O _ { \\mathrm { L } } ( s _ { 1 } ) \\right.$ 的比值为振荡模式对摄动的灵敏度，即：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\delta } ( s _ { 1 } ) = \\frac { R _ { \\mathrm { L } } ( s _ { 1 } ) } { \\vert { O } _ { \\mathrm { L } } ( s _ { 1 } ) \\vert } = \\vert \\frac { \\mathrm { d } s } { \\mathrm { d } \\delta / \\delta } \\vert _ { s = s _ { 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当系统确定时，振荡模式 $s _ { 1 }$ 对给定不确定性摄动 $\\delta$ 的灵敏度 $S _ { \\delta } ( s _ { 1 } )$ 为定值，不随建模或判据的选取而改变，因此当 ${ \\cal S } _ { \\delta } ( s _ { 1 } ) { \\neq } 0$ (即摄动对模式有影响)时，$\\left. O _ { \\mathrm { L } } ( s _ { 1 } ) \\right.$ 与 $R _ { \\mathrm { L } } ( s _ { 1 } )$ (或条件数指标)具有一致性。但是，条件数指标的计算依赖于系统详细传递函数模型，并且在求取其最大值时，需要考虑系统全部不确定性的情况，计算过程繁琐，而环路增益灵敏度指标只需要计算一次，更为简便。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "还值得一提的是，根据时域与频域的等价关系，由时域导出的稳定判据也应当遵循该原则。对于多机系统，也存在如何确定关键机组而将分析简化的问题，不同简化方法所得系统的鲁棒性存在差异，所提原则仍能拓展到该类多机问题中。同时，所提原则和方法本质是基于鲁棒控制理论，也是一种较通用的寻找复杂动力系统关键回路的方法。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5稳定判据适用性分析流程",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "根据上述3个定性原则及环路增益灵敏度定量指标，设备稳定判据选取流程如图11所示，即：",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d4899ce5909ad8868f740b92eb24f34afb1d72cb76778c0b2f3935681550044.jpg",
+        "img_caption": [
+            "图11设备稳定判据的选取流程Fig.11Flowchart of equipment stability criterion selection1）建立系统详细MIMO模型，分析其主要物"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "理环节，保留不同输出变量形成不同的稳定判据及等效系统，构成待分析的判据集合；",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2）计算各判据的环路增益灵敏度，根据稳定判据的三个选取原则选出机理判据；",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3）根据机理判据的物理意义和主导输出变量，导出失稳机理，即获得导出机理。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4变流器并网系统阻抗判据的适用性分析 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1变流器并网阻抗判据的适用性分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "并网变流器存在多种稳定形态[32]，2.3节中3种稳定判据分别是对系统不同侧重的描述，基于环路增益灵敏度指标进一步分析对不同振荡模式的适用性。变流器并网系统结构及参数见附录B，各指标计算结果如表2所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf71ad485359cabdb758db30a4e9156e7dff17a56639a9420114802dfb268a35.jpg",
+        "table_caption": [
+            "表23种稳定判据的适用性分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>振荡模式so</td><td>广义阻抗判据</td><td>序阻抗判据</td><td>直流电压判据</td></tr><tr><td rowspan=\"3\">-1.76±j9.04 (外环)</td><td>Mv 0.467∠-38.23°</td><td>0.373∠-28.56°</td><td>0.233∠-64.78°</td></tr><tr><td>OL0.403∠137.94°</td><td>0.356∠154.59°</td><td>0.140∠124.21°</td></tr><tr><td>Y -176.17°</td><td>-183.15°</td><td>-188.99°</td></tr><tr><td rowspan=\"3\">-0.85±j86.25 (锁相环)</td><td>Mv 0.147∠-9.16°</td><td>0.061∠169.19°</td><td>0.198∠141.81°</td></tr><tr><td>OL 0.205∠168.69°</td><td>0.699∠-12.31°</td><td>0.538∠-41.02°</td></tr><tr><td>Y -177.85°</td><td>1.50°</td><td>2.83°</td></tr><tr><td rowspan=\"3\">-9.87±j639.05 (内环)</td><td>Mv 0.069∠-51.26°</td><td>0.037∠-53.87°</td><td>0.703∠-20.11°</td></tr><tr><td>OL0.0073∠129.22°0.0038∠127.43°0.181∠162.74°</td><td></td><td></td></tr><tr><td>-180.48°</td><td>-181.30°</td><td>-182.85°</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用3种稳定判据，均能对系统全频段的稳定性进行精确的判断[8,10,27]。但在锁相环高参与的次/超同步频段，忽略耦合的序阻抗判据则可能出现错误[10-11]，不满足稳定性等价原则，本文不予考虑。稳定性等价原则是方法准确的基本前提，现有文献中讨论较多，本文不详细展开。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "案例1 (直流电压外环引起的电流幅值稳定)：根据矢量裕度，广义阻抗、序阻抗和直流电压判据的稳定裕度刻画不同，沿矢量裕度增大的整定角$\\beta _ { \\mathrm { G } } { = } { - } 3 8 . 2 ^ { \\circ }$ ， $\\beta _ { \\mathrm { P N } } { = } { - } 2 8 . 6 ^ { \\circ }$ ， $\\beta _ { \\mathrm { D C } } { = } { - } 6 4 . 8 ^ { \\circ }$ 。因此，3种判据的判别角 $\\scriptstyle \\gamma _ { \\mathrm { G } } = - 1 7 6 . 2 ^ { \\circ }$ ， $\\gamma _ { \\mathrm { { P N } } } mathrm { { = } } \\mathrm { - } 1 8 3 . 2 ^ { \\circ }$ ， $\\gamma _ { \\mathrm { { D C } } } = - 1 9 0 ^ { \\circ }$ ，均满足环路增益灵敏度的角度条件。但根据鲁棒条件，三者的 $\\left. O _ { \\mathrm { L } } \\right.$ 不同，其中直流电压判据 $\\left. O _ { \\mathrm { L } } \\right.$ 更小，说明该模型鲁棒性更好，更适用该问题的分析。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "另外，外环主导的稳定问题也可能因平衡点达到鞍结分岔点而引起电压崩溃。当变流器输出电流增加到 $1 . 1 7 \\mathrm { p u }$ 时，系统失去稳定平衡点，以崩溃前某一状态为工作点做近似分析可得， $s _ { 1 } { = } 1 . 6 7 / { - } 1 . 5 6$ 为实根，角度条件没有意义。根据鲁棒条件，广义阻抗、修正序阻抗、直流电压判据的 $\\left. O _ { \\mathrm { L } } \\right.$ 分别为0.023、0.017和0.002，直流电压判据的 $\\left. O _ { \\mathrm { L } } \\right.$ 更小，说明在直流电压判据仍是该模式的机理判据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上，直流电压判据是外环引起的失稳(包括电压崩溃和振荡)的机理判据，如表3所示。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table2Adaptation analysis of three different stabilitycriteria ",
+            "表3不同阻抗判据的适用性(外环引起的失稳)",
+            "Table 3Adaptation of different impedance criteria "
+        ],
+        "table_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/04f9e36a5069a737880c8adecf593c53c27204e14809eaefafeb2a22a09aca49.jpg",
+        "img_caption": [
+            "图123种判据的开环RHP极点分析",
+            "Fig.12RHP Pole analysis of open loop transfer function for three different impedance criteria "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "案例 2 (锁相环引起的振荡)： $s _ { 1 } \\mathrm { = } \\mathrm { - } 0 . 8 5 { \\pm } \\mathrm { j } 8 6 . 2 5$ 为弱阻尼模式，各判据矢量裕度不足0.2，系统存在振荡风险。根据角度条件，判别角 $\\gamma _ { \\mathrm { G } } { = } { - } 1 7 7 . 9 ^ { \\circ }$ ，$\\gamma _ { \\mathrm { { P N } } } { = } 1 . 5 ^ { \\circ }$ ， $\\gamma _ { \\mathrm { { D C } } = 2 . 8 ^ { \\circ } }$ ，即在序阻抗和直流电压判据下，矢量裕度增加导致振荡模式实部减小，发生“裕度反向”，不满足标称性能原则。3种判据的开环传递函数极点分布如图12(a)所示，其中序阻抗、直流电压判据分别存在1个和2个开环RHP极点，而广义阻抗判据没有。进一步绘制3种判据的奈奎斯特曲线如图12(b)所示，此时序阻抗判据、直流电压判据分别包围 $( - 1 , \\mathrm { j 0 } )$ 点1圈和2圈，说明二者稳定性判断结果正确，但其由于存在开环RHP极点，出现“裕度反向”，不利于标称性能的分析与整定。由于“裕度反向”与工况与参数相关，这无形中增加了基于该判据的控制参数整定的复杂性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "进一步分析发现广义阻抗的 $\\left. O _ { \\mathrm { L } } \\right.$ 更小，模型鲁棒性更好，更适用于鲁棒稳定分析和控制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上，广义阻抗判据是锁相环引起的振荡机理判据，利于解释失稳机理，如表4所示。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表4不同阻抗判据的适用性(锁相环引起的振荡)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/0fbf2ac75df990f59e7c8dfbaba4dafe34ea3840ca5cf74bfb96ce3523a6d7d9.jpg",
+        "table_caption": [
+            "lable 4Adaptation of different impedance criteria (oscillations caused byphase-locked loop) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>广义阻抗判据</td><td>序阻抗判据</td><td>直流电压判据</td></tr><tr><td>稳定性等价原则</td><td>满足</td><td>满足</td><td>满足</td></tr><tr><td>标称性能原则</td><td>满足</td><td>存在RHP 极点</td><td>存在RHP 极点</td></tr><tr><td>鲁棒性原则</td><td>鲁棒性较好</td><td>鲁棒性适中</td><td>鲁棒性较差</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "案例3 (内环引起的振荡)： $s _ { 1 } = - 9 . 8 7 \\pm \\mathrm { j } 6 3 9 . 0 5$ 为弱阻尼模式。根据判别角得到3种判据均满足角度条件。而鲁棒条件中，序阻抗判据的 $\\left. O _ { \\mathrm { L } } \\right.$ 更小，模型鲁棒性更好。因此，序阻抗判据对内环引起的振荡具有适用性，利于解释失稳机理，如表5所示。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表5不同阻抗判据的适用性(内环引起的振荡)",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/4aed1156f173ce795f9e5565d0d970ff5ee5405e4fd4bc5647b25de2c1337774.jpg",
+        "table_caption": [
+            "Table 5Adaptation of different impedance criteria (oscillations caused by inner loop) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>广义阻抗判据</td><td>序阻抗判据</td><td>直流电压判据</td></tr><tr><td>稳定性等价原则</td><td>满足</td><td>满足</td><td>满足</td></tr><tr><td>标称性能原则</td><td>满足</td><td>满足</td><td>满足</td></tr><tr><td>鲁棒性原则</td><td>鲁棒性适中</td><td>鲁棒性较好</td><td>鲁棒性极差</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上，锁相环主导的振荡由保留电压/电流的相角变量的广义阻抗判据解释最合理，导出机理为变流器和网络的相角阻抗不匹配，属于同步稳定[15]；内环主导的振荡由保留序分量的修正序阻抗判据解释最合理，其导出机理为正或负序回路的阻抗谐振，属于电气谐振；而外环主导的失稳应由保留直流动态的直流电压判据进行解释，直流电压的失稳通过变流器的功率转换传递到交流侧，引起输出电流和电压的幅值失稳，属于电压稳定范畴。上述不同稳定问题在极坐标下的失稳形态如附录C所示。此外，虽然本文针对典型参数下的变流器系统进行判据适用性和机理分析，但参数选择都遵循其物理特性，因此，基于典型参数所得的上述结论具有一定普适性。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.2基于机理判据的控制策略验证",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为验证上述结论，在不同等效模型下进行控制参数整定，说明即使控制目标(如稳定裕度)相同，整定后的控制性能并不一致。为保证鲁棒稳定，根据控制理论要求，矢量裕度幅值需至少为 $0 . 5 ^ { [ 2 9 ] }$ 。按照3.3节所述的矢量裕度整定方法进行控制整定，案例1的阻尼比为0.19且3种判据均具有一定裕度，故不做讨论；由于案例2出现“裕度反向”难以整定，因此分别对案例3 (内环主导)和案例4(锁相环主导)进行控制参数整定，如表6所示。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dfe54a378bbdb0225a72aa93fbf4799050deadf55f1dc67650ceaf654d0582e.jpg",
+        "table_caption": [
+            "表6两种阻抗模型的参数整定情况",
+            "Table 6Parameter tuning of two impedance models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>参数</td><td>广义阻抗判据 序阻抗判据</td><td>直流电压判据</td></tr><tr><td rowspan=\"3\">案例3 (内环)</td><td>整定内环PI</td><td>0.42，240 0.55，250</td><td>/</td></tr><tr><td>整定后Mv</td><td>0.50∠25.33° 0.50∠25.40°</td><td>/</td></tr><tr><td>整定后模式</td><td>-130.9±j640.76-221.9±j639.50</td><td>/</td></tr><tr><td rowspan=\"2\">案例4</td><td>整定锁相环PI</td><td>105，17500 63，18200</td><td>/</td></tr><tr><td>整定后Mv</td><td>0.50∠35.07° 0.51∠7.34°</td><td>/</td></tr><tr><td>(锁相环)</td><td>整定后模式</td><td>-100.6±j144.72 -3.21±j155.36</td><td>1</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "案例3原始系统的阻尼比为0.004，由于直流电压判据得到的稳定裕度很大，与实际情况相悖，故不考虑利用直流电压判据整定。采用广义阻抗和序阻抗模型整定后的系统阻尼比分别为0.2和0.33，说明整定后系统均有良好的标称性。在 $\\scriptstyle t = 0 . 5 \\mathrm { s }$ 时，变流器端电压受到 $0 . 1 \\mathrm { p u }$ 扰动，输出 $d$ 轴电流时域波形如图13(a)所示，二者均能快速收敛，说明系统具有足够稳定裕度，标称性满足要求。在 $\\scriptstyle t = 1 \\mathrm { s }$ 时，线路电感增大 $3 5 \\%$ ，序阻抗整定系统比广义阻抗整定系统的收敛性更好，控制鲁棒性更高。该结论与广义阻抗满足标称性原则但违背鲁棒性原则相符。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0800b8acad6d98bbc351e3809530384e03e2dacb59f4fa43e3e28fa638c18d5e.jpg",
+        "img_caption": [
+            "图13电磁仿真中的输出有功电流波形Fig.13Output active current waveforminEMTsimulation"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "案例4原始系统的阻尼比为0.01，由于直流电压判据得到的矢量裕度幅值为0.885，即稳定裕度很大，与实际情况相悖，故不做探讨。采用广义阻抗、序阻抗模型整定后的系统阻尼比分别为0.57和0.02，说明序阻抗整定系统的阻尼比不足，系统标称性较差。在 $t { = } 0 . 5 \\mathrm { s }$ 时，变流器端电压受到0.1pu扰动，端口输出 $d$ 轴电流时域波形如图13(b)所示，二者均能收敛，但序阻抗整定系统收敛性较差，标称性不满足要求。在 $\\scriptstyle t = 1 \\mathrm { s }$ 时，线路和滤波电感增大 $2 5 \\%$ ，广义阻抗整定系统仍保持稳定，控制具有鲁棒性，而序阻抗整定系统发生发散振荡，控制的鲁棒性较差。这也与序阻抗不满足标称性和鲁棒性原则的判断相符。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本文探讨基于关键输入/输出变量导出的系统稳定性分析方法/稳定判据的适应性和稳定机理解释的科学性问题，从稳定性等价、标称性和鲁棒性角度提出描述频域稳定判据是否合理的3个定性原则，以及基于环路增益灵敏度的定量指标。研究表明，不同稳定分析方法/判据虽然数学上可以相互转化，但对应的机理解释不同，对系统稳定裕度和鲁棒性的刻画存在差异，其适用场景也不同。在应用或者提出一个稳定分析新方法时，除了关注其稳定性分析结果外，还需要关注其标称性和鲁棒性。此外，本文所提的原则和方法，也可为复杂系统合理的建模分析、控制和选取系统的稳定评估指标等工作提供一定理论依据，如众多短路比的适应性问题等，这将是未来的研究工作。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "业内专家和匿名审稿专家在文章修改过程中提出了极具建设性的意见和建议，作者对此致以诚挚的敬意和衷心的感谢！",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]周孝信，陈树勇，鲁宗相，等．能源转型中我国新一代 电力系统的技术特征[J]．中国电机工程学报，2018, 38(7):1893-1904. ZHOU Xiaoxin，CHEN Shuyong，LU Zongxiang，et al. Technology features of the new generation power system in China[J].Proceedings of the CSEE，2018, 38(7): 1893-1904(in Chinese).   \n[2]陈国平，李明节，许涛，等．关于新能源发展的技术瓶 颈研究[J]．中国电机工程学报，2017，37(1)：20-26. CHEN Guoping，LI Mingjie，XU Tao，et al．Study on technical bottleneck of new energy development[J]. Proceedings ot the CSEE，2Ul/，5/(1): 20-26(in Chinese).   \n[3] 袁小明，张美清，迟永宁，等．电力电子化电力系统动 态问题的基本挑战和技术路线[J].中国电机工程学报, 2022，42(05): 1904-1917. YUANXiaoming, ZHANG Meiqing， CHI Yongning．Basic challenges of and technical roadmap to power-electronizedpowersystemdynamicsissues [J].Proceedings of the CSEE,2022,42(05): 1904-1917(in Chinese).   \n[4]KUNDUR P. Power system stability and control[M]. New York:McGraw-Hill，1994.   \n[5]倪以信，陈寿孙，张宝霖．动态电力系统的理论和分析 [M]．北京：清华大学出版社，2002. NI Yixin，CHEN Shousun，ZHANG Baolin．Theory and analysis of dynamic power system[M]. Beijing: Tsinghua University Press，2002(in Chinese).   \n[6] JU Ping，ZHENG Yi， JIN Yuqing，et al． Analytic assessmentofthepower systemfrequency security[J] .IET Generation Transmission & Distribution, 2021(1): 1-11.   \n[7] 高黛陵，吴麒．多变量频率域控制理论[M]．北京：清 华大学出版社，1998. GAO Dailing，WU Qi. Multivariable frequency domain control theory[M].Beijing：Tsinghua University Press, 1998(in Chinese).   \n[8] 辛焕海，李子恒，董炜，等．三相变流器并网系统的广 义阻抗及稳定判据[J].中国电机工程学报，2017,37(5): 1277-1292. XIN Huanhai，LI Ziheng，DONGWei，et al． Generalized-impedance and stability criterion for grid-connected converters[J]． Proceedings of the CSEE, 2017，37(5):1277-1292(in Chinese).   \n[9]CESPEDES M，SUN Jian． Impedance modeling and analysis of grid-connected voltage-source converters[J]．IEEE Transactions on Power Electronics, 2014，29(3): 1254-1261.   \n[10] RYGG A,MOLINAS M, ZHANG Chen, et al.A modified sequence-domainimpedancedefinitionandits equivalence to the dq-Domain impedance definition for thestabilityanalysisofACpowerelectronic systems[J].IEEE Journal of Emerging and Selected Topics in Power Electronics，2016，4(4):1383-1396.   \n[11] ZHANG Chen,CAI Xu, RYGG A,et al. Sequence domain SISO equivalent models of a grid-tied voltage source converter system forsmall-signal stability analysis[J]． IEEE Transactions on Energy Conversion, 2018，33(2): 741-749.   \n[12] HUANG Linbin ， XIN Huanhai ，LI Zhiyi ，et al．Grid-synchronization stabilityanalysisand loop reactive power control[J]．IEEE Transactions on Smart Grid，2020，11(1):501-516.   \n[13] LI Yitong,GU Yunjie,GREEN TC.Mapping of dynamics between mechanical and electrical ports in SG-IBR composite grids[Z]．arxiv:2105.06583，2021.   \n[14] RYGG A，MOLINAS M， ZHANG Chen，et al．On the equivalence and impact on stability of impedance modeling of power electronic converters in different domains[J]． IEEE Journal of Emerging and Selected Topics in Power Electronics，2017，5(4): 1444-1454.   \n[15]杨超然，辛焕海，宫泽旭，等．变流器并网系统复电路 分析与广义阻抗判据适用性探讨[J]．中国电机工程学 报，2020，40(15)： 4744-4757. YANG Chaoran， XIN Huanhai，GONG Zexu，et al ． Complex circuit analysisand investigationon applicabilityofgeneralized-impedance-basedstability criterion for grid-connected converter[J]．Proceedings of the CSEE，2020，40(15): 4744-4757(in Chinese).   \n[16] LIU Huakun， XIE Xiaorong，LIU Wei. An oscillatory stabilitycriterionbasedontheunifieddq-frame impedance network model for power systemswith high-penetration renewables[J]． IEEE Transactions on Power Systems，2018，33(3):3472-3485.   \n[17] WEN Bo，BOROYEVICH D，BURGOS R，et al．Small-signal stability analysis of three-phase AC systems in the presence of constant power loads based on measured $d \\ – q$ frame impedances[J]. IEEE Transactions on Power Electronics，2015，30(10):5952-5963.   \n[18]WANG Xiongfei，HARNEFORS L，BLAABJERG F．Unified impedance model of grid-connected voltagesource converters[J]． IEEE Transactionson Power Electronics，2018，33(2): 1775-1787.   \n[19] LI Yitong，GU Yunjie，GREEN TC． Interpreting frame transformations in AC systems as diagonalization of harmonic transfer functions[J]． IEEE Transactionson Circuits and Systems I: Regular Papers，2020，67(7): 2481-2491.   \n[20] WILDRICKCM，LEEFC，CHO BH，et al．A method of defining the load impedance specification for a stable distributed power system[J].IEEE Transactions on Power Electronics，1995，10(3): 280-285.   \n[21] SUDHOFF S D，GLOVER S F，LAMM P T，et al. Admitance space stability analysis of power electronic systems[J]． IEEE Transactionson Aerospace and Electronic Systems，2000，36(3):965-973.   \n[22] 刘增，刘进军．带变流器负载的三相交流电源系统稳定 性判据的研究[J]．中国电机工程学报，2012，32(25): 143-148. LIU Zeng，LIU Jinjun． Stability criterion for three-phase AC power systems with converter load[J]. Proceedings of the CSEE，2012，32(25):143-148(in Chinese).   \n[23]刘方诚，刘进军，张昊东，等．基于G-范数和 sum-范 数的三相交流级联系统稳定性判据[J].中国电机工程学 报，2014，34(24):4092-4100. LIU Fangcheng，LIU Jinjun， ZHANG Haodong，et al. G-norm and sum-norm based stability criterion for three- phase AC cascade systems[J]. Proceedings of the CSEE，2014，34(24): 4092-4100(in Chinese).   \n[24]辛焕海，董炜，袁小明，等．电力电子多馈入电力系统 的广义短路比[J]．中国电机工程学报，2016，36(22): 6013-6027. XIN Huanhai，DONG Wei，YUAN Xiaoming，et al ． Generalized short circuit ratio for multi power electronic baseddevices infeed to power systems[J]. Proceedings of the CSEE，2016，36(22): 6013-6027(in Chinese).   \n[25]辛焕海，甘德强，鞠平．多馈入电力系统广义短路比： 多样化新能源场景[J]．中国电机工程学报，2020, 40(17): 5516-5527. XIN Huanhai,GAN Deqiang，JU Ping. Generalized short circuit ratio of power systems with multiple power electronic devices:analysis for various renewable power generations [J].Proceedings of the CSEE，2020，40(17): 5516-5527(in Chinese).   \n[26] HARNEFORS L． Proof and application ofthe positive-net-dampingstabilitycriterion[J].IEEE Transactions on Power Systems，2011，26(1): 481-482.   \n[27] ZHANG Chen，CAI Xu，MOLINAS M，et al．On the impedance modeling and equivalence of AC/DC-side stability analysis of a grid-tied type-IV wind turbine system[J]． IEEE Transactions on Energy Conversion, 2019，34(2):1000-1009.   \n[28] ZHANG Haitao WANG Xiuli MEHRABANKHOMARTASH M，et al．Harmonic stability assessment of multiterminal DC (MTDC) systems based on the hybrid AC/DC admittance model and determinant-based GNC[J]．IEEE Transactions on Power Electronics，2022，37(2):1653-1665.   \n[29] SKOGESTAD S，POSTELETHWAITEI．Multivariable feedback control: analysis and design[M].New York: John Wiley & Sons，2005.   \n[30]蒋慰孙，叶银忠．多变量控制系统分析与设计[M]．北 京：中国石化出版社，1997. JIANG Weisun，YE Yinzhong． Analysis and design of multivariablecontrolsystem[M]. Beijing : China Petrochemical Press，1997(in Chinese).   \n[31] JIANG Chongxi ， ZHOU Jinghao ， SHI Peng，et al．Ultra-low frequency oscillation analysis and robust fixed order control design[J]． International Journal of ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Electrical Power& Energy Systems,2019,104:269-278. [32]LI Yin，FANLingling，MIAO Zhixin．Wind in weak grids ：low-frequencyoscillations， subsynchronous Oscillations，and torsionalinteractions[J]．IEEE Transactions on Power Systems，2020，35(1):109-118. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "附录A ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "含摄动的等效系统传递函数表达式：",
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { L _ { 1 1 } = L _ { 1 1 } - L _ { 1 2 , - n } ( I _ { n - 1 ; \\infty - 1 } + L _ { 2 \\cdots , n - 2 , \\cdots } + \\Delta _ { 2 \\cdots , n - 2 , n } ) ^ { - 1 } L _ { 2 \\cdots , 1 } + } \\\\ & { \\quad \\Delta _ { 1 1 } - L _ { 1 2 , - n } ( I _ { n - 1 ; \\infty - 1 } + L _ { 2 \\cdots , n - 4 } + \\Delta _ { 2 \\cdots , n - 2 , n } ) ^ { - 1 } \\Delta _ { 2 \\cdots , n - 1 } - } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { L _ { 1 2 , - n } ( I _ { n - 1 ; \\infty + 1 } + L _ { 2 \\cdots , n - 2 } + \\Delta _ { 2 \\cdots , n - 2 } ) ^ { - 1 } L _ { 2 \\cdots , 1 } } \\\\ & { = L _ { 1 n } - L _ { 1 \\cdots , n - 1 , \\cdots + 1 } ( I _ { n - 1 ; \\infty - 1 } + L _ { 1 \\cdots , n - 1 ; \\cdots + 1 } ) ^ { - 1 } \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ & { \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad } \\\\ &  \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\quad \\ \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "附录B ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "变流器并网模型结构及参数：",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/379265e23f2dd741990bde37f076ff175cbcc46bb220fa65b8e0cfb786630104.jpg",
+        "img_caption": [
+            "图B1 变流器并网系统",
+            "Fig.B1 Converter grid-connected system model 表B1变流器并网参数 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/078ac7f7aa1f4c9dee6843e3749e9aededa6b2717f776da16cd8051945107f60.jpg",
+        "table_caption": [
+            "TableB1Parameters of grid-connected converter "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">参数</td><td colspan=\"4\">数值</td></tr><tr><td>案例1</td><td>案例2</td><td>案例3[32]</td><td>案例4[15]</td></tr><tr><td>系统容量基值Sb/kVA</td><td>1500</td><td>1500</td><td>1500</td><td>1500</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/899db5c8676fd85f4300019bde5c25deb00c10d48504f94a43c024c929da1afe.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：本文参考文献[15.32]的案例参数。"
+        ],
+        "table_body": "<html><body><table><tr><td>交流电压基值UV 直流电压基值Ubdc/V</td><td>690 1100V</td><td>690 1100V</td><td>690</td><td>690</td></tr><tr><td>直流电容Cd/pu</td><td>0.038pu</td><td>0.038pu</td><td>1100V 0.038pu</td><td>1100V 0.0272pu</td></tr><tr><td>滤波电感电容Lf，C/pu</td><td>0.05,0.05</td><td>0.05,0.05</td><td>0.05,0.05</td><td>0.15,0.25</td></tr><tr><td>直流电压环PI</td><td>0.2,5</td><td>1.2, 10</td><td>0.8,6</td><td>0.25,16</td></tr><tr><td>电流环PI</td><td>0.6,18</td><td>0.8,18</td><td>0.25,240</td><td>0.476,3.28</td></tr><tr><td>锁相环PI</td><td>50,3600</td><td>10,7200</td><td>35,3000</td><td>60,18200</td></tr><tr><td>电压前馈 TFF</td><td>0.002</td><td>0.002</td><td>0.002</td><td></td></tr><tr><td>输出有功P/pu</td><td>1</td><td>1</td><td>1</td><td>1 0.9</td></tr><tr><td>输出无功 Q/pu</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>线路电感Lgrid/pu</td><td>0.5</td><td>0.55</td><td>0.15</td><td>0.45</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "幅值△I 相位I△𝜙  \nnd/电用舞 0.10 0.00 nd/电用 0.02 0.00-0.05 -0.01-0.10 0.020 1 2 3 0 1 2 3时间/s 时间/s(a)锁相环主导(案例4) (b)外环主导(案例1)  \nnd/审用舞 0.50 0.00 1 d电用牌 0.0-0.25 -0.1-0.50 0.20 1 2 3 1.2 1.3 1.4 1.5时间/s 时间/s(c）内环主导(案例3)",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig. C1Instability waveform of grid-connected converter ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7f25e4cdfc626db2d2a7857dfa59d65686971c28f2b9bb567b84279a72b422d.jpg",
+        "img_caption": [
+            "附录C ",
+            "图C1并网变流器失稳形态",
+            "宫泽旭 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在线出版日期：2021-08-16。  \n收稿日期：2022-02-07。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "作者简介：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "宫泽旭(1996)，男，博士研究生，主要研究方向为新能源电力系统稳定性分析和控制，gongzexu@zju.edu.cn;",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "艾力西尔·亚尔买买提(1996)，男，硕士研究生，主要研究方向为新能源电力系统稳定性分析和控制， $2 2 0 1 0 1 2 4 @$ zju.edu.cn;",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者：辛焕海(1981)，男，教授，博士生导师，主要研究方向为新能源电力系统稳定性分析与控制、新能源和微电网技术等，xinhh $@$ zju.edu.cn。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(责任编辑 乔宝榆 李新洁)",
+        "page_idx": 13
+    }
+]

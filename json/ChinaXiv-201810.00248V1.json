@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "肠浒苔多糖的羧甲基化修饰及其抗氧化活性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李霞，胡楠²，赵启迪²，黄健玲²，李培骏²，周玉恒1\\*（1.广西植物功能物质研究与利用重点实验室广西植物研究所，广西 桂林 541006；2.桂林理工大学化学与生物工程学院，广西 桂林541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用氢氧化钠-氯乙酸的化学反应体系制备羧甲基化肠浒苔多糖，以获得不同取代度的羧甲基化肠浒苔多糖。取代度的大小受氢氧化钠浓度、反应温度和反应时间的影响。当氢氧化钠浓度 $20 \\%$ 、反应温度 $6 0 ^ { \\circ } \\mathrm { C }$ ，反应时间 $3 \\mathrm { h }$ 时，得到羧甲基化的最大取代度为0.781。通过体外抗氧化来评价不同羧甲基化肠浒苔多糖的抗氧化活性。当羧甲基化肠浒苔多糖的浓度为 $1 . 6 \\mathrm { \\ m g \\cdot \\ m L ^ { - 1 } }$ 时，羧甲基化肠浒苔多糖清除羟自由基超、氧阴离子自由基的能力分别为 $4 4 . 4 5 \\% . 5 1 . 9 8 \\%$ ，其清除DPPH自由基清除率和还原能力分别为 $1 6 . 7 5 \\% \\setminus 0 . 4 5 7 6 \\ 。$ （202与修饰前的相比羟基自由基、超氧阴离子的清除能力均较有大幅度提高，羧甲基化修饰对肠浒苔多糖的DPPH自由基和还原力有减弱作用。以上结果表明，羧甲基化修饰引起的肠浒苔多糖的结构变化可提高其抗氧化活性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肠浒苔，多糖，羧甲基化修饰，取代度，抗氧化活性中图分类号：Q71 文献标识码：ADOl: 10.11931/guihaia.gxzw201807003",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carboxymethylation Modification and Antioxidant Activity ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of Enteromorpha intestinalis Polysaccharides ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Xia², HU Nan², ZHAO Qidi², HUANG Jianling², ZHOU Yuheng1 \\* (1. Guangxi Key Laboratory of Functional Phytochemicals Research and Utilization, Guangxi Institute of Botany, Chinese Academy of Sciences, Guilin 541006, China.;2. College of Chemistry and Bioengineering, Guilin University of Technology, Guilin 541006, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Enteromorpha intestinalis polysaccharides carboxymethylation (EIPC) were made in the NaOH-chloroacetic acid chemical reaction system to obtain carboxymethylated gut polysaccharides with different degrees of substitution. The degree of substitution was afected by the sodium hydroxide concentration, the reaction temperature and the reaction time. When the sodium hydroxide concentration was $20 \\%$ ， the reaction temperature was $6 0 ~ ^ { \\circ } \\mathrm { C }$ ，and the reaction time was $3 \\mathrm { ~ h ~ }$ ， the maximum degree of substitution for carboxymethylation was 0.781. The antioxidant activity of different Enteromorpha intesinalis polysaccharide carboxymethylation was evaluated by in vitro antioxidant. At the concentration of EPIC was $1 . 6 ~ \\mathrm { m g } \\cdot \\mathrm { m L ^ { - 1 } }$ , the scavenging activity to hydroxyl free radical and superoxide anion free radical were $4 4 . 4 5 \\%$ and $5 1 . 9 8 \\%$ ，the ability of scavenging DPPH free radical and reducing ability were $1 6 . 7 5 \\%$ and 0.4576. Compared with the pre-modification, the scavenging ability of hydroxyl radicals and superoxide anion was greatly improved,and the carboxymethylation modification had a weakening effect on DPPH free radicals and reducing power of polysaccharides. The above results indicate that the structural changes of the polysaccharides caused by carboxymethylation can increase its antioxidant activity. Key words: Enteromorpha intestinalis， polysaccharide， carboxymethyl modification，substituting degrees， antioxidant activity ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "浒苔是一种大型的绿藻，具有较大经济价值，民间称苔条、海苔，为绿藻门石莼目石莼科植物。浒苔属在全世界范围内，已经发现的有约有40 种，我国约有11种，我国的品种主要有小管浒苔、肠浒苔、条浒苔、扁浒苔等四种，都是生长在潮湿地带（孙士红，2007）。浒苔藻体晾干或风干后可以作为中草药使用，也可以做成食品，或者加工成饲料。浒苔中营养成分种类多，含量丰富，含有人体必需的维生素、氨基酸、多种矿物质和脂肪酸(吴闯等，2013)。浒苔多糖具有多种生物学活性，现有的文献报道了其活性作用主要体现在抗氧化、免疫调节、降血脂和抗肿瘤等方面（Kim etal，2011；石学连等，2009；Jiao etal，2009;林文庭和张智芳，2009；陈芳容等，2012；Lietal，2013；Jiao etal，2010）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对多糖进行合理的化学修饰可以改变多糖的生物活性（Wangetal，2013）。目前，对多糖化学修饰或分子修饰的常见方法分为化学法、物理法和生物法，其中，在生产中应用得使用较多的一种处理方法是羧甲基化（申林卉，2013)。研究表明，多糖经过羧甲基化修饰处理后，可以显著提高其水溶性，并且其生物活性得到显著增强，或者被赋予了新的生物活性。Parvathy etal（2005）报道了羧甲基化半乳-甘露聚糖的溶解度显著提高。王雁等人（2000）通过修饰得到羧甲基化虎奶多糖，虎奶多糖几乎不溶于水，修饰后的溶解性最高可达30$\\mathrm { m g \\cdot m L ^ { - 1 } }$ 以上，大大增加了机体对其的吸收率，且修饰后的多糖对 $\\mathrm { F e ^ { 2 + } { - } V C }$ 引起的大鼠肝脏线粒体脂质过氧化显著抑制，对膜流动性的降低有良好的抑制效果，同时能抑制线粒体的肿胀。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对肠浒苔多糖进行羧甲基化修饰，以获得不同取代度的肠浒苔多糖，并探索结构修饰对肠浒苔多糖体外抗氧化活性的影响，探究其变化规律，为开发浒苔多糖的生物功效奠定理论基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1原料与试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠浒苔（Enteromorpha intesinalis），采于中国浙江杭州湾，由宁波大学朱文荣教授鉴定。氢氧化钠，异丙醇，氯乙酸，浓盐酸，浓硫酸、邻苯三酚、三氯乙酸，三氯化铁，双氧水，磷酸二氢钠、磷酸氢二钠，硫代巴比妥酸，抗坏血酸，乙二胺四乙酸二胺等试剂均为国产分析纯：DPPH，东京化成工业株式会社。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2 仪器与设备",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "控温磁力搅拌器，上海志成电器有限公司；旋转蒸发仪，上海亚荣生化仪器厂；电子天平，梅特勒-托利多仪器有限公司；集热式恒温加热磁力搅拌器，巩义市子华仪器有限公司；酸度计，赛多利斯科学仪器（北京)；DL-5-8型离心机，上海安亭科学仪器厂；UV760CRT紫外可见分光光度计，上海傲谱分析仪器有限公司；傅立叶红外光谱仪，美国Thermo Fisher公司；冷冻真空干燥机，北京博医康实验仪器有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1肠浒苔多糖提取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "肠浒苔洗净，于 $5 0 ^ { \\circ } \\mathrm { C }$ 下烘干，粉碎过20目筛， $80 \\%$ 的乙醇 $8 5 ^ { \\circ } \\mathrm { C }$ 冷凝回流提取3次，每次 $2 \\mathrm { h }$ ，分离残渣并干燥。称取上述残渣 ${ \\mathfrak { s } } _ { \\mathrm { g } }$ ，按照一定料液比加入蒸馏水，水浴提取，抽滤，滤液离心得上清液浓缩，加入4倍体积无水乙醇沉淀， $4 ^ { \\circ } \\mathrm { C }$ 静置 $4 8 \\mathrm { ~ h ~ }$ ， $4 0 0 0 \\mathrm { r \\cdot m i n ^ { - 1 } }$ ，离心",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$1 5 \\mathrm { m i n }$ ，取沉淀干燥，得到肠浒苔粗多糖（Enteromorpha intesinalis polysaccharide,EIP）（刘玉凤等，2016)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2羧甲基化肠浒苔多糖 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肠浒苔粗多糖羧甲基化采用氢氧化钠-氯乙酸化学法进行制备（Silvaetal，2004)。称量$1 2 0 ~ \\mathrm { m g }$ 肠浒苔多糖，加入 $1 0 \\mathrm { m L } 2 0 \\% \\mathrm { N a O H }$ 和 $2 5 ~ \\mathrm { m L }$ 的异丙醇溶液，冰浴，搅拌 $^ { 3 \\mathrm { ~ h ~ } }$ 后制成均匀悬浊液。将混合液( $2 5 ~ \\mathrm { m L }$ 异丙醇溶有 $ { 3 \\mathrm { ~ g ~ } }$ 氯乙酸和 $1 0 \\mathrm { m L } 2 0 \\% \\mathrm { N a O H }$ 制备的混合液)缓慢滴入反应体系中，逐渐升温至 $6 0 ^ { \\circ } \\mathrm { C }$ ，搅拌 $^ { 3 \\mathrm { ~ h ~ } }$ ，停止反应，冷却至室温。用 $1 \\ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ 的盐酸调 $\\mathrm { p H } { = } 7$ 。用流水和蒸馏水分别透析 $4 8 \\mathrm { h }$ 。旋转蒸发溶液，冷冻干燥，得到羧甲基化肠浒苔多糖(Enteromorpha intesinalis polysaccharide carboxymethylation,EIPC）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3红外光谱分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别称取 $2 \\ : \\mathrm { m g }$ 的EIP 和EIPC加入 $1 0 0 ~ \\mathrm { { m g } }$ 干燥KBr于玛瑙研钵中，研磨均匀，压片。进行红外光谱扫描，扫描范围为 $4 0 0 0 { \\sim } 4 0 0 \\ \\mathrm { c m ^ { - 1 } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4EIP羧甲基单因素试验 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "NaOH浓度：称取EIP $1 2 0 ~ \\mathrm { m g }$ ，在氯乙酸用量 $3 \\mathrm { g }$ ，反应温度 $6 0 ^ { \\circ } \\mathrm { C }$ ，反应时间 $3 \\mathrm { ~ h ~ }$ 条件下，考察不同NaOH浓度（ $10 \\%$ 、 $1 5 \\%$ 、 $20 \\%$ 、 $2 5 \\%$ 、 $30 \\%$ ）对浒苔多糖羧甲基化取代度的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反应温度：称取 EIP $1 2 0 ~ \\mathrm { m g }$ ，在氯乙酸用量 $3 \\mathrm { \\ : g }$ ， $2 0 \\% \\mathrm { N a O H }$ 浓度，反应时间 $3 \\mathrm { ~ h ~ }$ 条件下，考察不同温度（ $4 0 ^ { \\circ } \\mathrm { C }$ 、 $5 0 ^ { \\circ } \\mathrm { C }$ 、 $6 0 ^ { \\circ } \\mathrm { C }$ 、 $7 0 ^ { \\circ } \\mathrm { C }$ 、 $8 0 ^ { \\circ } \\mathrm { C }$ ）对浒苔多糖羧甲基化取代度的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "反应时间：称取EIP $1 2 0 \\mathrm { m g }$ ，在氯乙酸用量 $3 \\mathrm { g }$ ，反应温度 $6 0 ^ { \\circ } \\mathrm { C }$ ， $2 0 \\% \\mathrm { N a O H }$ 浓度条件下，考察不同反应时间 $( 1 \\mathrm { h } , \\ 2 \\mathrm { h } , \\ 3 \\mathrm { h } , \\ 4 \\mathrm { h } , \\ 5 \\mathrm { h } )$ 对浒苔多糖羧甲基化取代度的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5EIPC羧甲基化取代度测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于试管中分别加入 $0 . 2 5 \\mathrm { m L } 0 . 5 \\mathrm { m g } \\cdot \\mathrm { m L } ^ { - 1 }$ 的 EIPC 溶液和 $0 . 2 5 ~ \\mathrm { m L }$ 浓硫酸，混匀， $1 2 5 ^ { \\circ } \\mathrm { C }$ 加热 $3 \\mathrm { ~ h ~ }$ 后取出，再加入 $2 \\mathrm { m L } 2 , 7 .$ -二羟基萘溶液，混匀后于沸水浴中加热 $2 0 \\mathrm { m i n }$ ，冷却至室温，最后加入 $2 \\mathrm { m L }$ 的蒸馏水，以样品空为对照，测定其 $5 2 0 \\mathrm { n m }$ 吸收值（Eyler etal，1947）。同时，用羟基乙酸替代多糖样品计算每克多糖样品中羟基乙酸的克数，记为A，按以下公式，计算EIPC取代度的值：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DS=162A/(76-80A) ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中，DS为取代度，A为每克样品中羟基乙酸的克数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6EIPC抗氧化活性测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过测定EIPC 对DPPH自由基、超氧阴离子自由基、羟基自由基的清除能力和还原能力（刘玉凤等，2016）来判断EIPC的抗氧化活性。本试验旨在比较不同取代度羧甲基化肠浒苔多糖的抗氧化活性，并将不同取代度的样品配制成 $0 , ~ 0 . 1 , ~ 0 . 2 , ~ 0 . 4 , ~ 0 . 8 , ~ 1 . 6 \\mathrm { ~ m g } \\cdot \\mathrm { m L } ^ { - 1 }$ 等6种不同浓度样品。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）DPPH自由基清除能力测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "量取配制的待测样品液 $2 . 0 \\mathrm { m L }$ ，加入 $2 . 0 \\mathrm { m L } 0 . 0 4 \\mathrm { m g } \\cdot \\mathrm { m L } ^ { - 1 }$ DPPH溶液（无水乙醇作为溶剂)，充分混匀后室温下避光反应 $3 0 \\mathrm { m i n }$ ，在波长 $5 1 7 \\mathrm { n m }$ 处测定其吸光度 $\\mathbf { A } _ { \\mathrm { i } }$ ，同时测定无水乙醇（ $2 . 0 \\mathrm { m l }$ ）与DPPH（ $2 . 0 \\mathrm { m L }$ ）混合液的吸光度 $\\mathrm { A _ { c } }$ ，无水乙醇（ $2 . 0 \\mathrm { m L }$ ）和样品液（ $2 . 0 \\mathrm { m L }$ )混合液的吸光度 $\\mathbf { A } _ { \\mathrm { j } }$ ，则 DPPH自由基清除率计算公式： $\\mathrm { ~ K ~ } ( \\mathrm { ^ { 0 } / _ { 0 } } ) { = } [ 1 { - } ( \\mathrm { A _ { i } { - } A _ { j } } ) / \\mathrm { A _ { c } } ] { \\times } 1 0 0 \\$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）超氧阴离子清除能力测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精确量取 $4 . 5 ~ \\mathrm { m L }$ Tris-HCl 溶液（ $\\cdot 5 0 ~ \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ ， $\\mathrm { p H } { = } 8 . 2$ ）于试管，在 $2 5 ^ { \\circ } \\mathrm { C }$ 温水中预热$2 0 \\mathrm { m i n }$ ，之后依次加入同样预热条件下预热的邻苯三酚溶液（ $2 5 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 }$ ） $0 . 3 ~ \\mathrm { m L }$ 和样品$0 . 2 \\mathrm { m L }$ ，并迅速混匀倒入比色皿，波长 $3 1 9 \\mathrm { n m }$ 处测定吸光度 $\\mathbf { A } _ { \\mathrm { t } }$ ，每 $3 0 ~ \\mathrm { s }$ 测一次，测定8次。以去离子水作为空白对照，同样操作条件下测定并计算邻苯三酚自氧化速率 $\\mathrm { \\Delta V _ { 0 } }$ 。以 $\\mathbf { A } _ { \\mathrm { t } }$ 为纵坐标，时间为横坐标作图，计算斜率 $\\mathrm { v _ { t } }$ 。超氧阴离子自由基清除率计算公式：K",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$( \\% ) { = } ( 1 { - } \\mathrm { V _ { \\mathrm { t } } } / \\mathrm { V _ { \\mathrm { 0 } } } ) { \\times } 1 0 0 \\$ （3）羟基自由基的清除能力测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取 $0 . 2 ~ \\mathrm { m L }$ 的 $\\mathrm { F e S O _ { 4 } }$ -EDTA混合液（ $1 0 \\ \\mathrm { m m o l \\cdot L ^ { - 1 } }$ ）于带塞试管中，加入 $0 . 2 \\mathrm { m L }$ 的 $\\mathfrak { a } \\mathrm { . }$ 脱氧核糖溶液 $( 2 0 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 } )$ ，然后再加入 $0 . 2 \\mathrm { m L }$ 样品，并用磷酸缓冲液 $( 0 . 2 \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ $\\mathrm { p H } { = } 7 . 4$ ））定容至 $1 . 8 ~ \\mathrm { m L }$ ，然后加入 $0 . 2 \\mathrm { m L }$ 的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 } ( 1 0 \\mathrm { m m o l } \\cdot \\mathrm { L } ^ { - 1 } )$ ， $4 0 ^ { \\circ } \\mathrm { C }$ 恒温水浴 $^ { \\textrm { 1 h } }$ ，加入 $1 \\mathrm { m L } 2 . 8 \\%$ 的三氯乙酸终止反应，再加入 $1 \\%$ 硫代巴比妥酸，混匀之后于沸水浴中加热 $1 0 \\mathrm { m i n }$ ，冷却后于 $5 3 2 \\mathrm { n m }$ 处测光吸收值 $\\mathrm { \\ A s }$ 。以去离子水为阴性对照，测定吸光值 $\\mathbf { A } _ { 0 }$ ，抗坏血酸为阳性对照，测定吸光值 $\\mathrm { \\bf A _ { C } }$ 。则样品的自由基清除能力计算公式：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ~ ( \\% ) ~ = [ 1 - ~ ( { \\it A } _ { S } - { \\it A } _ { 0 } ) ~ / ~ ( { \\it A } _ { C } - { \\it A } _ { 0 } ) ~ ] \\times 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（4）还原能力测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "移取 $0 . 5 ~ \\mathrm { m L }$ 羧甲基化多糖溶液与试管中，并加入 $0 . 5 ~ \\mathrm { m L } ~ 0 . 2 ~ \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 }$ PBS缓冲液（ $\\mathrm { \\ p H } { = } 6 . 7$ ）和 $0 . 5 \\mathrm { \\ m L 1 \\% }$ 铁氰化钾溶液， $5 0 ^ { \\circ } \\mathrm { C }$ 水浴锅恒温 $2 0 ~ \\mathrm { { m i n } }$ 后冷却，加入 $0 . 5 ~ \\mathrm { m L } ~ 1 0 \\%$ 三氯乙酸溶液，依次加入 $2 { \\mathrm { m L } }$ 蒸馏水， $0 . 5 \\mathrm { m L } 0 . 1 \\%$ 的 $\\mathrm { F e C l } _ { 3 }$ 溶液充分混匀，静置 $1 0 \\mathrm { m i n }$ 后，在紫外-可见分光光度计 $7 0 0 \\mathrm { n m }$ 波长处测定溶液吸光值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1红外光谱分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 EIP 和 EIPC 样品置于傅里叶红外光谱分析仪NicoletiS 10 中进行光谱表征，其测定红外光谱波长范围为 $4 0 0 0 { \\sim } 4 0 0 ~ \\mathrm { c m ^ { - 1 } }$ ，结果见图1。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b9bdfe64dc3f6dce57b4957a8d52e7dbe026448aac38e5afe33e96a7757dec3.jpg",
+        "img_caption": [
+            "图1EIP和EIPC红外光谱",
+            "Fig.1 IR spectrum of EIP and EIPC "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "肠浒苔多糖的羧甲基化修饰产物，不但具有多糖的特征红外吸收峰： $3 4 4 1 ~ \\mathrm { c m ^ { - 1 } }$ (O-H）、$1 2 6 0 \\mathrm { c m } ^ { - 1 }$ 、 $1 2 0 4 \\mathrm { c m ^ { - 1 } }$ 、 $1 0 7 7 \\mathrm { c m } ^ { - 1 }$ (C-O-H)，而且在 $1 6 1 1 \\mathrm { c m ^ { - 1 } }$ 羧基（-COOH）的 $\\scriptstyle { \\mathrm { C = O } }$ 非对称振动吸收峰、 $1 4 2 2 ~ \\mathrm { c m ^ { - 1 } }$ 处与羧基相连的甲基（ $\\mathrm { \\mathrm { - C H } } _ { 3 }$ ）的C-H变角振动吸收、 $1 3 2 8 \\mathrm { c m } ^ { - 1 }$ 处$\\scriptstyle { \\mathrm { C = O } }$ 的对称伸缩吸收增强明显，表明了羧甲基化肠浒苔多糖中羧甲基（ $\\ J \\mathrm { - C H } _ { 2 }$ -COOH）的存在。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2单因素试验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设置 $\\mathrm { \\Delta N a O H }$ 浓度 $10 \\%$ 、 $1 5 \\% \\sim 3 0 \\%$ ，反应温度 $4 0 ^ { \\circ } \\mathrm { C }$ 、 $5 0 ^ { \\circ } \\mathrm { C } { \\sim } 8 0 ^ { \\circ } \\mathrm { C }$ ，反应时间 $^ { \\textrm { 1 h } }$ ， $2 \\mathrm { h } { \\sim } 5$ h，研究不同因素对肠浒苔多糖羧甲基化取代度的影响，其结果见图2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：A.NaOH浓度；B.反应温度；C．反应时间。Note: A. the concentration of NaOH; B.reaction temperature； C. reaction time.",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/35ea1e98f94a2b868d1e000906dc9b634190028b202c9fb02829f4ee9407dc5e.jpg",
+        "img_caption": [
+            "图2不同因素对EIPC取代度的影响",
+            "Fig.2Effects ofdifferentfactors on theDSofEIPC "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EIPC 的取代度随NaOH质量分数的增大呈现先增大后减小的趋势，NaOH质量分数为$20 \\%$ 时，取代度达到最大，为0.701。由于随着NaOH质量分数的增加，NaOH的总量增加，分子渗透到多糖分子的机率增加，使得肠浒苔多糖溶胀更充分，活性中心也随之增加，其与氯乙酸接触反应的机会增多，相应醚化反应效率更高，从而使反应的取代度增加。但是，如果溶液中存在过量的NaOH，会导致氯乙酸发生副反应，使得氯乙酸利用率降低，反而会降低取代度。因此，选择氢氧化钠-氯乙酸化学法修饰肠浒苔多糖的 $\\mathrm { \\Delta N a O H }$ 质量分数为 $20 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EIPC 的取代度随反应温度升高呈现先增大后减小的趋势。温度逐渐升高，分子运动速度加快，分子间相互碰撞机会增加，使多糖的取代度不断增加。当反应温度到 $6 0 ^ { \\circ } \\mathrm { C }$ 时，EIPC的取代度最大，为0.701。当温度继续升高，造成氯乙酸水解副产物增多和多糖在碱性介质中发生降解而使 EIPC 取代度降低。因此，选择氢氧化钠-氯乙酸化学法修饰肠浒苔多糖的反应温度为 $6 0 ^ { \\circ } \\mathrm { C }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着加热反应时间的增加，EIPC取代度增加。加热时间 $1 { \\sim } 3 \\mathrm { h }$ ，随着加热时间增加，反应活性中心增多，醚化反应速率加快，因此EIPC 的取代度显著增加。当加热时间超过 $^ { 3 \\mathrm { ~ h ~ } }$ 后，既会造成反应速率加快，但又使其副产物增多或不稳定中间产物分解，造成其取代度几乎不再增加。过长的加热时间不仅费时，也会造成能源浪费。因此，综合考虑选择氢氧化钠-氯乙酸化学法修饰肠浒苔多糖的反应时间为 $^ { 3 \\mathrm { ~ h ~ } }$ ，此时取代度为0.702。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3肠浒苔多糖羧甲基化修饰对抗氧化活性的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.1DPPH自由基清除能力",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "随着取代度的不断增大，EIPC 对DPPH自由基的清除作用呈下降趋势。总体上来看取代度和清除率之间并呈现比较明显线性规律，说明羧甲基化修饰的取代度越大，肠浒苔多糖对 DPPH自由基的清除能力越弱，表明羧甲基化修饰不利于肠浒苔多糖清除 DPPH自由基（图3）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EIP 和EIPC对DPPH自由基的清除作用均是随着多糖浓度的增大而增大，当多糖浓度为 $0 . 8 ~ \\mathrm { m g } \\cdot \\mathrm { m L } ^ { - 1 }$ 时，对 DPPH自由基的清除效果最好，其值分别为 $20 . 1 4 \\%$ 、 $3 9 . 2 4 \\%$ ，当大于 $0 . 8 ~ \\mathrm { m g \\cdot m L ^ { - 1 } }$ 时，EIP 和EIPC 对DPPH自由基的清除能力有所下降。在同一浓度下，EIP的清除率是EIPC的2倍（图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2还原性能力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "多糖的还原能力与其吸光度值呈正相关，吸光度值越大表明其还原能力越强。故通过比较吸光度值的大小可以用来评价多糖的抗氧化性强弱。随着取代度的不断增大，羧甲基化肠浒苔多糖的还原性作用呈下降的趋势，即羧甲基化修饰的取代度越大，肠浒苔多糖的还原性能力越弱，表明羧甲基化修饰不利于肠浒苔多糖还原性的发挥（图3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在一定的浓度范围内，EIP和EIPC的还原能力与浓度呈正相关，当多糖浓度为0.8$\\mathrm { { m g \\cdot m L ^ { - 1 } } }$ 时，吸光度值分别为1.26、0.59，当浓度大于 $0 . 8 ~ \\mathrm { m g } \\cdot \\mathrm { m L } ^ { - 1 }$ 时，其清除能力均略有下降。与Vc相比，EIP 和EIPC 的还原能力都比较低，且EIPC 的还原能力最低（图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3羟基自由基清除能力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着取代度的不断增大，羧甲基化肠浒苔多糖对羟自由基的清除作用呈上升趋势。在一定的取代度范围内EIPC对羟自由基的清除率呈持续上升的趋势，总体上，羧甲基化修饰的取代度越大，肠浒苔多糖的清除羟自由基的能力越弱，表明羧甲基化修饰有利于肠浒苔多糖清除羟自由基（图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EIP 和 EIPC 的羟基自由基清除能力均是随着浓度的增大而缓慢增大。当浓度为1.6$\\mathrm { { m g \\cdot m L ^ { - 1 } } }$ 时，羟基自由基的清除能力趋于平缓，其值分别为 $1 9 . 8 4 \\%$ 、 $4 4 . 4 5 \\%$ 。同一浓度下，羧甲基化修饰后的肠浒苔多糖清除率将近是未羧甲基化的2倍。与 $\\mathrm { v } _ { \\mathrm { c } }$ 的羟基自由基清除能力对比，修饰后的清除能力显著增加，说明肠浒苔多糖的羧甲基化修饰有利于其对羟基自由基的清除能力 （图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.4超氧阴离子清除能力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EIPC 对超氧阴离子自由基的清除能力，总体上是随着取代度的增大而增大，与其对羟自由基的清除率类似（图3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "EIP 和EIPC对超氧阴离子的清除作用均是随着浓度的增大而增大，当浓度为1.6$\\mathrm { m g \\cdot m L ^ { - 1 } }$ 时，其超氧阴离子的清除能力分别为 $2 8 . 9 4 \\%$ 、 $5 1 . 9 8 \\%$ 。同一浓度下，羧甲基化修饰的肠浒苔多糖清除率与未修饰的相比，其超氧阴离子的清除能力有很大的提升，说明羧甲基化修饰对肠浒苔多糖清除超氧阴离子能力的有显著的增强作用。说明肠浒苔多糖的羧甲基化修饰有利于其对超氧阴离子的清除作用 (图4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cfda2e5688953fd34943a11bfcb1d8026ac80816316b72bb20376fc205a47b6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/37ab25b208fa581a34b3e3d6d6c2c4e8cc08bb38459d015cd3ba6e7c6d9c0f42.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/51950d232615f76e192c3782390bdc8ea56fe49e7e5ff27edc4e3100fc9f9bd8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：A．取代度与其DPPH自由基的清除作用的关系；B.取代度与其还原性能力的关 系；C.取代度与其清除羟自由基能力的关系；D.取代度与其清除超氧阴离子能力的关系。 Note: A. Relationship between substituting degrees and its DPPH free radical scavenging effect；B.Relationship between substituting degrees and its reducing ability； C. Relationship between substituting degrees and its ability to scavenge hydroxyl radicals； D.Relationship between substituting degrees and its ability to scavenge superoxide anion. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/887ead57fc564b8da7ca875312965e7d8b2504a204dd486d5828c22f7a554bf2.jpg",
+        "img_caption": [
+            "图3取代度对肠浒苔多糖羧甲基化抗氧化活性的影响 Fig. 3 Effect of Substitution Degree on Antioxidant Activity of Enteromorpha intestinalis polysaccharides carboxymethylation ",
+            "注：A．修饰前后对DPPH自由基的清除作用；B.修饰前后的还原性能力；C.修饰前后的羟基自由基清除能力；D.修饰前后的超氧阴离子清除能力。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: A. Scavenging effect of DPPH free radicals before and after modification; B. Reducing ability before and after modification; C. Hydroxyl radical scavenging ability before and after modification； D. Superoxide anion scavenging ability before and after modification. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4修饰前后肠浒苔多糖的抗氧化活性",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Antioxidant activity of Enteromorpha intestinalis polysaccharides before and after modification ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过氢氧化钠-氯乙酸法对肠浒苔多糖进行羧甲基化修饰，羧甲基化程度受氢氧化钠浓度、反应温度及反应时间的影响。当 $1 2 0 ~ \\mathrm { m g }$ 肠浒苔多糖、 $20 \\%$ 的异丙醇-氢氧化钠浓、 $3 . 0 \\ \\mathrm { g }$ 氯乙酸、反应温度 $6 0 ^ { \\circ } \\mathrm { C }$ 、反应时间 $3 \\mathrm { { h } }$ ，EIPC的取代度最大，为0.781。在该实验中，肠浒苔多糖对清除羟自由基以及清除超氧阴离子自由基的能力的增幅比较大，当浓度为$1 . 6 \\mathrm { m g } \\cdot \\mathrm { m L } ^ { - 1 }$ 时，对羟自由基的清除效果由原来的 $2 2 . 4 5 \\%$ 增加到了 $4 4 . 4 6 \\%$ ，清除超氧阴离子自由基的能力由 $2 8 . 9 4 \\%$ 增加到了 $5 1 . 9 8 \\%$ 。而其清除DPPH自由基的能力和还原性能力均随着肠浒苔多糖浓度的增大而增大，但是修饰后的肠浒苔多糖清除DPPH自由基的能力和还原性能力均降低。可能是由于在化学修饰后，活性部位被修饰，而导致抗氧化活性的差异。随着取代度的增大，对清除羟自由基以及清除超氧阴离子自由基的能力而呈非线性增大，对清除DPPH自由基的能力和还原性能力而减小，羧甲基化修饰可以改变肠浒苔多糖的抗氧化活性，但是羧甲基化修饰的取代度并不是影响其抗氧化活性的唯一因素。因此，化学修饰是改变肠浒苔多糖活性的一种重要手段，无论是在生产应用上，还是在活性部位识别的研究上，都有重要的意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SUN SH,2Oo7.Research on Regulating Blood Sugar and Rlood Lipid of Alkali Extracted Polysaccharide from mteromorpha[D].Jilin: Northeast Normal University.[孙士红,2007.碱提浒苔多糖降血糖、降血脂生物活 性研究[D]．吉林：东北师范大学.]   \nWU C,MA JH,GAO H,et al，2013.Nutrition analysis and food safety evaluation of green tide algae in 2010[J]. J Fish Chin,37(01):141-150.[吴闯，马家海，高嵩，等,2013.2010年绿潮藻营养成分分析及其食用安全性 评价[J].水产学报,37(01):141-150.]   \nKIMJK,CHO ML, Karnjanapratum S,et al， 2011. In vitro and in vivo immunomodulatory activity of sulfated polysaccharides from Enteromorpha prolifera[J]. Int JBiol Macromol, 49(5):1051-1058.   \nSHI XL,ZHANG JJ, WANG J,et al，20O9.Polysaccharides from Enteromorpha linza: Purification and in vitro antioxidant activity[J].ChinJMar Drug,28(3):44-49.][石学连，张晶晶，王晶，等,2009．浒苔多糖的分 级纯化及体外抗氧化活性研究[J].中国海洋药物杂志,28(3):44-49.]   \nJIAO L,LI X,LIT,et al，2O09. Characterizationand anti-tumoractivityof alkali-extracted polysac charide from Enteromorpha intestinalis [J].Int Immunopharmacol, 9(3): 324-329.   \nLIN WT, ZHANG ZF,2O09.Study on effect of Enteromorpha prolifera polysaccharide on hyperlipidemia and anti-lipid peroxidation in rats[J].Chin JPubl Heal,25(5):567-569.[林文庭，张智芳,2009.浒苔多糖降血脂 及抗脂质过氧化作用[J].中国公共卫生,25(5):567-569.]   \nCHENFR, WU XN, CHEN H,2012. Study on regulation of immunity function of macrophage celline RAW264. 7 by crude polysaccharide extracted from enteromorpha[J]. Strait Journal of Preventive Medicine,18(2):4-6. [陈芳容，吴小南，陈浩,2012.浒苔多糖粗提物调节巨噬细胞RAW264.7免疫功能研究[J].海峡防御医学 杂志,18(2):4-6.]   \nLI B,Liu S, XING RG,et al，2013.Degradation of sulfated polysaccharides from Enteromorpha prolifera and uICI auuxiuaI auviucs[JJ. CaIuuIyu r UiyI, y∠().1yy1-1yy0.   \nJIAO LL,LI X,LI TB,et al，2010. Characterization and anti-mutor activityof alkali-extracted polysaccharides from Enteromorpha intestinalis [J].Biotechnol Bioprocess Eng,15(6):421-428.   \nWANG XM, ZHANG ZS,YAO ZY,et al，2013.Sulfation，anticoagulant and antioxidant activities of polysaccharide from green algae Enteromorpha clathrata[J].Int JBiol Macromol,58:225-230.   \nSHEN LH,LIULX, CHEN G, et al,2013.Research progres in structural modification of polysaccharide[J]. Drug Eval Res,36(6):465.[申林卉，刘丽侠，陈冠，等,2013.多糖化学结构修饰方法的研究进展[J].药物评价 研究,36(6):465.]   \nPARVATHY KS,SUSHEELAMMA N S, THARANATHAN RN， et al, 2005. A simple non-aqueous method for carboxymethylation of galactomannans[J]. Carbohyd Polym 62(2):137-141.   \nWANG Y,YANG YL,DENG CH,et al，2000.PreparationofCarboxymethylated Hunai Polysaccharide and Study on Its Antioxidative Activities.[J].Prog Biochem Biophys,27(4): 411-414．[王雁，杨祥良，邓成华，等, 2000．羧甲基化虎奶多糖的制备及抗氧化性研究[J].生物化学与生物物理进展,27(4):411-414.]   \nLIU YF,JIA SY, HAO ZB,et al，2016.Optimization on microwave-assted extraction of polysaccharides from Enteromorpha intestinals [J].Food&Machinery,32(7):152-155.[刘玉凤，贾淑颖，郝再彬，等,2016.肠浒 苔多糖微波辅助提取工艺的优化[J]．食品与机械,32(7):152-155.]   \nSILVA DA，PAULA R CMD，FEITOSA JPA,et al， 2004. Carboxymethylation of cashew tree exudate polysaccharide[J]. Carbohyd Polym,,58(2):163-171.   \nEYLER RW，Klug ED，DICPHUISFloyd，1947.Determination of degree of substitution carboxy methylcellulose [J]. Anal Chem,19(1).24-2.   \nLIUYF,JIA SY,LIUFF,et al，2016. Antioxidant activityof sulfated polysaccharides with differentsubstituting degrees from Enteromorpha intestinalis [J].Science and TechnologyofFood Industry,37(19):142-152.[刘玉 凤，贾淑颖，刘飞飞，等,2016.不同取代度的硫酸化肠浒苔多糖抗氧化活性研究[J].食品工业科 技,37(19):142-152.]   \nB. Dave Oomah, Giuseppe Mazza,1996.Flavonoids and Antioxidative Activities in Buckwheat[J]. J.agric.food Chem, 44(7):1746-1750.   \nYAO QP, WEI YL, YANG Q,et al，2017. Carboxymethylated Modification and Antioxidant Activity of Rape Pollen Polysaccharides[J].Food Res Dev,38(17):26-30.[姚秋萍，卫亚丽，杨琼，等,2017.油菜花粉多糖羧 甲基化分子修饰及其抗氧化研究[J].食品研究与开发,38(17):26-30.]   \nZHANG YT,HAN LQ,CHI YL,et al，2017. Carboxymethylation and antioxidant activity of rhodiola polysaccharide[J].Chin JPubl Heal,33(10):1462-1465.[张洋婷，韩丽琴，郗艳丽，等,2017.红景天多糖 羧甲基化修饰及其抗氧化活性[J].中国公共卫生,33(10):1462-1465.]   \nZHANG ZJ, ZHANG YY,2017.Advances in Molecular Modification of Polysaccharides [J].Food Industry,38(05): 253-257.[张占军，张艳艳,2017.多糖分子修饰研究进展[J].食品工业,38(05):253-257.]   \nJING L,WENTING S,XU S,et al，2017. Carboxymethylation of corn bran polysaccharide and its bioactive property[J]. Int JFood Sci Technol,52(5):1176-1184.   \nCAO LL，LI L，WANG F,et al， 2017.Antioxidant and Antineoplastic Activities of Carboxymethyled Polysaccharide from Fruits of Phyllanthus emblic L.[J].JChin Inst Food Sci Tech,17(10):57-63.[曹莉莉，李 亮，王芳,2017.羧甲基化修饰余甘多糖及生物活性研究[J].中国食品学报,17(10):57-63.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

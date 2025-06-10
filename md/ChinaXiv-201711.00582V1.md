@@ -1,0 +1,221 @@
+1 不同生长时期虎斑乌贼内壳营养成分含量分析比较
+
+2 江茂旺　蒋霞敏\*梁晶晶 王鹏帅阮鹏韩庆喜
+
+3 （宁波大学海洋学院，宁波 315211）  
+4摘要：通过探究不同生长时期虎斑乌贼内壳的营养成分及矿物元素含量变化，旨在为其开  
+5 发利用提供理论依据。采用国家标准方法对不同生长时期（60、90、120、150日龄）虎斑  
+6號 乌贼内壳营养成分（水分、粗灰分、粗蛋白质、粗脂肪、多糖、氨基酸、脂肪酸）及矿物元  
+7 素[5种常量元素—一钠（Na）、钾（K）、镁（ $\mathbf { \delta M g }$ ）、铝（Al）、钙（Ca）和8种微量元  
+8 素—一铜（Cu）、铁（Fe）、锌（ $Z \mathrm { n }$ ）、硒（Se）、锰（Mn）、镉（Cd）、砷（As）、锶  
+9 （Sr）]的含量（干物质基础）进行测定。结果表明：不同生长时期时，粗灰分均是虎斑乌  
+10 贼内壳的主要成分，含量为 $8 9 . 9 8 \% { \sim } 9 2 . 0 6 \%$ ，其含量随着生长不断增加，表现为150日龄时  
+11 显著高于其他日龄时（ $P { < } 0 . 0 5 \$ ）；粗蛋白质的含量为 $2 . 8 2 \% { \sim } 3 . 1 1 \%$ ，其含量随着生长不断增  
+12 加，表现为150日龄时显著高于60日龄时（ $P { < } 0 . 0 5 )$ ；水分含量为 $3 . 9 3 \% { \sim } 6 . 2 1 \%$ ，其含量随  
+13 着生长不断降低，表现为60 日龄时显著高于其他日龄时（ $P { < } 0 . 0 5 \rangle$ ；相对于其他营养成分，  
+14 虎斑乌贼内壳中其中粗脂肪、多糖含量较少，分别为 $0 . 4 1 \% { \sim } 0 . 4 7 \%$ 、 $0 . 3 4 \% { \sim } 0 . 3 8 \%$ 。不同生  
+15 长时期的虎斑乌贼内壳中均检测出17 种氨基酸，其中7种必需氨基酸（EAA）。不同生长  
+16 时期的虎斑乌贼内壳中总氨基酸（TAA）、EAA 和酸性氨基酸（AAA）含量分别为  
+17 （204号 $2 . 7 9 \% { \sim } 2 . 9 3 \%$ 、 $0 . 8 7 \% { \sim } 0 . 9 8 \%$ 和 $0 . 6 9 \% { \sim } 0 . 8 7 \%$ ，其中 AAA 含量随着生长不断增加，表现为  
+18 150 日龄时显著高于其他日龄时（ $_ { . P < 0 . 0 5 }$ ）。各生长时期虎斑乌贼内壳中均以谷氨酸（Glu)  
+19 含量（ $0 . 3 1 \% { \sim } 0 . 4 3 \%$ ）最高，组氨酸（His）含量（ $0 . 0 3 \% 8 7 0 . 0 7 \%$ ）最低。不同生长时期的虎  
+20 斑乌贼内壳中均检测出7种脂肪酸，包括3种饱和脂肪酸（SFA）、1 种单不饱和脂肪酸  
+21 （MUFA）和3种多不饱和脂肪酸（PUFA)；在脂肪酸组分中以C22:6n-3、C16:0 和C18:0  
+22 为主，其中C22:6n-3含量（ $3 5 . 6 8 \% \sim 3 7 . 6 2 \%$ ）最高。生长时期对常量元素 Na、Mg、Al 和  
+23 Ca及微量元素Cu、Zn和 Sr 含量有显著影响（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），尤其是Ca、 $\mathbf { M g }$ 、Zn含量，随着  
+24 生长不断增加；重金属元素 Cd、As 含量很低，分别为 $0 . 0 0 1 { \sim } 0 . 0 0 3 ~ \mathrm { m g / g }$ 和 $0 . 0 1 2 { \sim } 0 . 0 3 0 \mathrm { m g / g } \mathrm { _ { c } }$ （20
+
+综上所述，虎斑乌贼内壳营养丰富，Ca、Mg、Zn含量高，且随着生长不断增加，具有良好的开发应用前景。  
+关键词：虎斑乌贼；内壳；不同生长时期；营养成分；矿物元素  
+中图分类号：S963 文献标识码：A 文章编号：  
+乌贼内壳，俗称海蝶蛸（cuttlebone）、乌贼骨，其性咸、涩、温、有收敛止血、涩精止带、制酸、敛疮等功效，是一味常用的海洋动物药物[1I。乌贼内壳很早便作药用，《本草纲目》记载其可治多种内外出血，如胃溃疡、十二指肠溃疡及部分慢性胃炎等，可临床用于皮肤溃疡、裤疮等的治疗；《本经》也记载，其能“治女子赤白漏下”。近年来，关于乌贼内壳的报道主要集中在临床应用[2-5]、生理性研究[6]、活性成分提取及应用[7-1]等方面。目前乌贼内壳除了少量用于中药材外，大部分作为食品加工的废弃物，造成资源严重浪费。  
+虎斑乌贼（Sepia pharaonis）隶属软体动物门（Mollusca）乌贼目（Sepioidea）乌贼科（Sepidae）乌贼属（Sepia)，是一种海洋经济头足类，具有个体大、壳重（可达 $1 \mathrm { k g }$ 以上）生长快等特点。有关虎斑乌贼的研究目前国内外主要集中在生物学特性[12-13]、繁殖生物学[14-15]、营养成分[16-17]和养殖技术[18]等方面，未见虎斑乌贼内壳营养成分含量的相关报道。关于乌贼内壳矿物元素含量的研究也鲜有报道，仅见于金乌贼[19-20]、无针乌贼[21]。本文对不同生长时期虎斑乌贼内壳营养成分及矿物元素含量进行分析，旨在为乌贼内壳的利用与开发提供理论依据。
+
+1材料与方法
+
+# 1.1 试验材料
+
+试验于2014年6月至 2014年10月在浙江舟山市水产研究所朱家尖基地进行，虎斑乌贼幼体为本课题组人工育苗所得。本试验选取同一时间出膜，规格整齐、活力好、健康的幼体开始试验，初始胴长（ $2 . 2 { \sim } 2 . 6 \ \mathrm { c m }$ ）、体重（ $\left. 1 . 8 { \sim } 2 . 3 \ \mathrm { g } \right.$ ），用于试验研究的虎斑乌贼养殖于水泥池 $( 4 . 5 \ \mathrm { m } \times 4 . 0 \ \mathrm { m } \times 1 . 4 \ \mathrm { m } )$ 中，培养条件：水温 24.2\~28.6 $\mathrm { { } ^ { \circ } C }$ ，盐度 $2 3 . 7 { \sim } 2 5 . 4 , \mathrm { p H } 7 . 8 1 { \sim }$ 8.04，水深 $0 . 6 { \sim } 1 . 2 \mathrm { m }$ ，连续充气（1个气头 $/ \mathrm { m } ^ { 2 }$ ）；每日投喂冰鲜小杂鱼2次，日投喂量为体重的 $10 \% { \sim } 1 5 \%$ 。日换水 $_ { 1 \sim 2 }$ 次（砂滤自然海水），换水量为 $5 0 \% \sim 6 0 \%$ ，并吸污，及时清除死亡个体及残渣污垢；养殖周期为 $1 5 0 \mathrm { d }$ 。取样：每隔 $3 0 \mathrm { d }$ 取样一次，每次从水泥池随机捕获8\~10只虎斑乌贼，冰镇带回实验室测量体重、胴长，解剖取其内壳，测量壳重、壳长（表1），后将内壳置于鼓风干燥箱（DGG-9620A型）105℃烘干至恒重，研磨粉碎后待用，进行各项营养成分、矿物元素含量测定。
+
+# 表1虎斑乌贼不同生长时期采样记录
+
+Table 1Sampling records of Sepia pharaonis at different growth stages   
+
+<html><body><table><tr><td>日龄</td><td>体重</td><td>胴长</td><td>壳重</td><td>壳长</td></tr><tr><td>Days of age</td><td>Body weight/g</td><td>Mantle length/cm</td><td>Shell weight/g</td><td>Shell length/cm</td></tr><tr><td>60</td><td>5.45±0.26</td><td>3.53±0.15</td><td>0.38±0.09</td><td>3.33±0.23</td></tr><tr><td>90</td><td>40.81±2.93</td><td>6.95±0.67</td><td>2.99±0.11</td><td>6.26±0.83</td></tr><tr><td>120</td><td>112.17±12.32</td><td>11.15±1.12</td><td>8.32±1.06</td><td>9.73±1.02</td></tr><tr><td>150</td><td>457.37±39.21</td><td>14.32±1.59</td><td>27.71±5.52</td><td>13.92±1.67</td></tr></table></body></html>
+
+1.2 试验方法
+
+1.2.1 基本营养成分含量测定
+
+采用国家标准方法进行基本营养成分含量测定：水分含量测定采用105℃烘干恒重法[22]；粗灰分含量测定采用550℃灼烧恒重法[231；粗蛋白质含量测定采用凯氏定氮法[24]；粗脂肪测定采用索氏抽提法[25]。
+
+1.2.2 多糖含量测定
+
+葡萄糖标准曲线[26]的制备：精确吸取0、0.2、0.4、0.6、0.8、1.0、 $1 . 2 ~ \mathrm { m L }$ 葡萄糖标准溶液，分别置于 $2 5 ~ \mathrm { m L }$ 比色管中，以超纯水补至 $2 \mathrm { m L }$ ，依次加入 $5 \%$ 苯酚液 $1 . 0 \mathrm { m L }$ 、硫酸 $5 . 0 \mathrm { m L }$ 混匀。室温静置 $3 0 \mathrm { m i n }$ 后， $4 9 0 \mathrm { n m }$ 处测定吸光度值，得标准曲线回归方程为：
+
+C=0.1231A+0.0012（ $R ^ { 2 } { = } 0 . 9 9 5 6$ ）
+
+式中：C为吸光度值； $A$ 为葡萄糖含量（ $\mathrm { m g / m L }$ ）。
+
+多糖提取[27]：精确称取干燥后一定量乌贼内壳，用 $9 5 \%$ 乙醇回流提取2次。残渣挥干溶剂后，再以水回流提取2次，每次 $2 \mathrm { h }$ ，合并水提液并浓缩。向浓缩水提液中加入 $9 5 \%$ 乙醇,直至溶液中乙醇的体积分数为 $80 \%$ ，置4 $\mathrm { { } ^ { \circ } C }$ 冰箱中过夜，次日离心并将沉淀除醇后冷冻干燥即得乌贼内壳多糖。采用苯酚-硫酸法[28]测定多糖含量。
+
+# 1.2.3 氨基酸含量测定
+
+参照国家标准方法[29]测定氨基酸含量，具体操作如下：乌贼内壳样品经微波消解后，用邻苯二甲醛（OPA）和9-芴甲基氯甲酸酯（FMOC）试剂进行衍生化色谱分析。检测条件：ZorbaxEclipse-AAA氨基酸分析柱（ $4 . 6 \mathrm { m m } { \times } 1 5 0 \mathrm { m m }$ ， ${ 5 \mu \mathrm { m } } .$ )，流动相A为40mmol/L ${ \mathrm { N a } } _ { 2 } { \mathrm { H P O } } _ { 4 }$ （用8 mol/L氢氧化钠溶液调pH至7.8)，流动相B为乙腈-甲醇-水（45:45:10)，梯度洗脱，流速为2mL/min，检测波长分别为338、 $2 6 2 \mathrm { n m }$ ，柱温 $4 0 ^ { \circ } \mathrm { C }$ 。
+
+# 1.2.4 脂肪酸含量测定
+
+参照索氏抽提法测定粗脂肪含量后，将粗脂肪提取物进行皂化甲酯化，通过Agilent7890A气相色谱仪进行测定。色谱条件：DB-WAX聚乙二醇气相毛细管柱（ $3 0 \mathrm { m m } \times 0 . 2 5$ $\mathrm { m m } { \times } 0 . 2 5 \mathrm { m m }$ ）， $1 0 \mu \mathrm { L }$ 自动液体进样器（ALS），进样量为 $1 \mu \mathrm { L }$ ，进样口温度 $2 5 0 \mathrm { ~ \textdegree C }$ ；采用不分流进样，恒压控制温度模式，柱头压力 $5 . 3 \mathrm { M P a }$ 。升温程序：初始温度 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ，保持 $2 \mathrm { m i n }$ 以 $1 0 \ \mathrm { ^ { \circ } C / m i n }$ 速率升至 $2 5 0 \mathrm { ~ \textdegree C }$ ，保持 $2 3 \mathrm { m i n }$ ；检测器为氢火焰离子化检测器（FID），稳定为300℃，载气为氮气 $( \Nu _ { 2 }$ ）。各检测气体流量：氢气（ $\mathbf { \bar { H } } _ { 2 }$ ）为 $4 0 \mathrm { m L / m i n }$ ，空气为450 mL/min。1.2.5矿物元素含量测定对不同生长时期虎斑乌贼内壳进行5种常量元素[钠（Na）、钾（K）、镁（Mg）、铝（Al）、钙（Ca）]和8种微量元素[铜（Cu）、铁（Fe）、锌（Zn）、硒（Se）、锰（Mn）、镉（Cd）、砷（As）、锶（Sr）]的测定。样品预处理：准确称取0.1000g烘干乌贼内壳样品于消化管，加入混合酸（高氯酸：硝酸为1:4） $2 0 { \sim } 3 0 \mathrm { m L }$ 消解至溶液呈透明，降至室温后加入超纯水定容至 $1 0 0 ~ \mathrm { { m L } }$ 。采用电感耦合等离子体发射光谱仪（Optima 5300DV）和美国PE公司提供的进口混合标储备液（1000mg/L）进行测定。混合标准系列溶液的配制：量取 $\mathrm { 1 0 0 0 m g / L }$ 混合标准储备液，用 $10 \%$ HNO3配制0.10、1.0、5.0、 $1 0 \mathrm { m g / L }$ 含Na、K、Mg、Al、Cu、Fe、Zn、Se、Mn、Cd、As、Sr、Ca等13种矿物元素的混合标准溶液。仪器ICP-AES工作参数：等离子气流量 $1 5 \mathrm { L / m i n }$ ，载气流量 $0 . 8 \mathrm { L } / \mathrm { m i n }$ ，辅助气流速为0.2L/min，雾化器流速为 $0 . 8 \mathrm { L } / \mathrm { m i n }$ ，泵流量为 $1 . 5 \mathrm { m L } / \mathrm { m i n }$ ，轴向观测距离 $1 5 \mathrm { m m }$ ，仪器稳定时间延迟 $3 0 \mathrm { { s } }$ ，功率为 $1 3 0 0 \mathrm { W }$ 。1.3数据分析
+
+试验数据采用Excel2003软件和SPSS18.0统计分析软件进行相关分析，描述性统计值以平均值±标准差来表示，以 $\scriptstyle P < 0 . 0 5$ 作为差异显著性判断标准。
+
+2结果
+
+# 2.1 基本营养成分
+
+由表2可知，不同生长时期时，粗灰分均是虎斑乌贼内壳的主要成分，含量为$8 9 . 9 8 \% { \sim } 9 2 . 0 6 \%$ ，且随着生长含量不断增加，以150日龄时含量最高（ $9 2 . 0 6 \%$ ），显著高于其他日龄时 （ $. P { < } 0 . 0 5$ ）；虎斑乌贼内壳中水分含量为 $6 . 2 1 \% \sim 3 . 9 3 \%$ ，以60日龄时水分含量最高（ $6 . 2 1 \%$ ），显著高于120、150日龄时（ $P { < } 0 . 0 5$ ）；虎斑乌贼内壳中粗蛋白质含量为$2 . 8 2 \% { \sim } 3 . 1 1 \%$ ，以150日龄含量最高（ $3 . 1 1 \%$ ），显著高于60日龄时（ $\cdot P { < } 0 . 0 5 )$ ；虎斑乌贼内壳中其他营养成分含量较少，其中粗脂肪含量为 $0 . 4 1 \% { \sim } 0 . 4 7 \%$ ，多糖含量为 $0 . 3 4 \% { \sim } 0 . 3 8 \%$ 。
+
+表2不同生长时期虎斑乌贼内壳基本营养成分含量 (干物质基础)
+
+Table 2 Common nutritional component contents in cuttlebone of Sepia pharaonis at different growth stages (DM   
+
+<html><body><table><tr><td colspan="6">basis) %</td></tr><tr><td>日龄</td><td>水分</td><td>粗灰分</td><td>粗蛋白质</td><td>粗脂肪</td><td>多糖</td></tr><tr><td>Days of age</td><td>Moisture</td><td>Ash</td><td>Crude protein</td><td>Crude fat</td><td>Polysaccharide</td></tr><tr><td>60</td><td>6.21±0.11a</td><td>89.98±1.45b</td><td>2.82±0.10b</td><td>0.45±0.05</td><td>0.38±0.02</td></tr><tr><td>90</td><td>6.03±0.12ab</td><td>90.13±0.55b</td><td>2.93±0.11ab</td><td>0.43±0.02</td><td>0.34±0.06</td></tr><tr><td>120</td><td>4.87±0.10b</td><td>91.19±1.16ab</td><td>3.05±0.08ab</td><td>0.47±0.01</td><td>0.36±0.05</td></tr><tr><td>150</td><td>3.93±0.02c</td><td>92.06±0.70a</td><td>3.11±0.03a</td><td>0.41±0.03</td><td>0.36±0.05</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 。
+
+In the same column,values with no letter or the same letter superscripts mean no significant difference ( $\mathrm { P } { > } 0 . 0 5 \$ ),while with different small letter superscripts mean significant difference ( $P$ $< 0 . 0 5 )$ ：
+
+# 2.2 氨基酸组成与含量
+
+不同生长时期的虎斑乌贼内壳中均检测出17种氨基酸（表3，色氨酸未检测），其中7种必需氨基酸。各生长时期虎斑乌贼内壳中总氨基酸（TAA）含量差异不显著（ $P { > } 0 . 0 5 \$ ），
+
+60、90、120、150日龄时分别为 $2 . 7 9 \%$ 、 $2 . 8 4 \%$ 、 $2 . 8 5 \%$ 、 $2 . 9 3 \%$ ；各生长时期虎斑乌贼内壳中必需氨基酸（EAA）含量差异不显著（ ${ \cdot } P { > } 0 . 0 5$ ），60、90、120、150日龄时分别为 $0 . 8 7 \%$ 、$0 . 9 7 \%$ 、 $0 . 8 2 \%$ 、 $0 . 9 8 \%$ ；各生长时期虎斑乌贼内壳中均以谷氨酸（Glu）含量（ $0 . 3 1 \% { \sim } 0 . 4 3 \%$ 最高，组氨酸（His）含量（ $0 . 0 3 \% 8 7 0 . 0 7 \%$ ）最低；丝氨酸（Ser）、赖氨酸（Lys）和甘氨酸（Gly）在各生长时期虎斑乌贼内壳中虽无显著差异（ $P { > } 0 . 0 5$ ），但含量均较高，分别为$0 . 2 5 \% { \sim } 0 . 2 7 \%$ 、 $0 . 2 3 \% \sim 0 . 2 4 \%$ 、 $0 . 1 9 \% 8 8 . 2 0 \%$ ；虎斑乌贼内壳中酸性氨基酸（AAA）[天门冬氨酸（Asp） $+ \mathrm { G l u } ]$ 含量在60、90、120、150日龄时分别为 $0 . 5 6 \%$ 、 $0 . 6 2 \%$ 、 $0 . 6 9 \%$ 、 $0 . 7 8 \%$ 分别占 TAA 含量的 $2 0 . 0 7 \%$ 、 $2 1 . 8 3 \%$ 、 $2 4 . 2 \%$ 、 $2 6 . 6 2 \%$ ，且随着生长其含量不断增加，150日龄含量最高（ $2 6 . 6 2 \%$ ），显著高于其他日龄时（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ）。
+
+表3不同生长时期虎斑乌贼内壳氨基酸组成与含量 (干物质基础)
+
+<html><body><table><tr><td colspan="4">Table 3 Amino acid composition and contents in cutlebone of Sepia pharaonis at different grow th stage S</td></tr><tr><td colspan="4"></td></tr><tr><td colspan="4"></td></tr><tr><td colspan="4">氨基酸 日龄Daysofage</td></tr><tr><td>Amino acids</td><td>60 90</td><td>120</td><td>150</td></tr><tr><td>天门冬氨酸Asp*</td><td>0.25±0.03c 0.29±0.01b</td><td>0.31±0.01b</td><td>0.35±0.02a</td></tr><tr><td>谷氨酸 Glu*</td><td>0.31±0.04c 0.33±0.02bc</td><td>0.38±0.03b</td><td>0.43±0.02a</td></tr><tr><td>丝胺酸 Ser</td><td>0.26±0.02a 0.25±0.03a</td><td>0.27±0.02a</td><td>0.27±0.03a</td></tr><tr><td>甘氨酸 Gly</td><td>0.19±0.01a 0.20±0.02a</td><td>0.19±0.03a</td><td>0.20±0.02a</td></tr><tr><td>异亮氨酸Ile#</td><td>0.08±0.02c 0.18±0.03a</td><td>0.15±0.04ab</td><td>0.18±0.01a</td></tr><tr><td>亮氨酸Leu#</td><td>0.12±0.03a 0.13±0.01a</td><td>0.14±0.03a</td><td>0.14±0.02a</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>赖氨酸Lys#</td><td>0.23±0.02a</td><td>0.24±0.00a</td><td>0.23±0.02a</td><td>0.23±0.01a</td></tr><tr><td>蛋氨酸 Met#</td><td>0.14±0.00a</td><td>0.11±0.02a</td><td>0.13±0.01a</td><td>0.12±0.02a</td></tr><tr><td>苯丙氨酸 Phe #</td><td>0.19±0.03 a</td><td>0.17±0.02a</td><td>0.18±0.05a</td><td>0.17±0.02a</td></tr><tr><td>苏氨酸 Thr#</td><td>0.10±0.01a</td><td>0.11±0.02a</td><td>0.09±0.01a</td><td>0.12±0.02a</td></tr><tr><td>氨酸 Val*</td><td>0.07±0.04a</td><td>0.08±0.02a</td><td>0.08±0.03a</td><td>0.06±0.01a</td></tr><tr><td>半胱氨酸 Cys</td><td>0.18±0.02a</td><td>0.18±0.01a</td><td>0.14±0.02a</td><td>0.15±0.01a</td></tr><tr><td>酪氨酸Tyr</td><td>0.20±0.04a</td><td>0.17±0.01ab</td><td>0.12±0.02c</td><td>0.16±0.01b</td></tr><tr><td>精氨酸Arg</td><td>0.11±0.03b</td><td>0.14±0.01a</td><td>0.09±0.04c</td><td>0.10±0.02bc</td></tr><tr><td>组氨酸 His</td><td>0.07±0.02a</td><td>0.03±0.01b</td><td>0.07±0.01a</td><td>0.04±0.01b</td></tr><tr><td>丙氨酸 Ala</td><td>0.19±0.04a</td><td>0.12±0.02c</td><td>0.18±0.03ab</td><td>0.14±0.02bc</td></tr><tr><td>脯氨酸Pro</td><td>0.09±0.03a</td><td>0.11±0.03a</td><td>0.10±0.01a</td><td>0.07±0.01a</td></tr><tr><td>总氨基酸 TAA</td><td>2.79±0.43a</td><td>2.84±0.29a</td><td>2.85±0.41a</td><td>2.93±0.28a</td></tr><tr><td>必需氨基酸EAA</td><td>0.87±0.15a</td><td>0.97±0.12a</td><td>0.82±0.18a</td><td>0.98±0.11a</td></tr><tr><td>非必需氨基酸 NEAA</td><td>1.92±0.28a</td><td>1.87±0.17a</td><td>2.03±0.23a</td><td>1.95±0.17a</td></tr><tr><td>酸性氨基酸 AAA</td><td>0.56±0.07c</td><td>0.62±0.03bc</td><td>0.69±0.04b</td><td>0.78±0.04a</td></tr></table></body></html>
+
+同行数据肩标相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P <$ 0.05)。下表同。
+
+\*为酸性氨基酸；#为必需氨基酸。 In the same row, values with no leter or the same letter superscripts mean no significant   
+difference ( $\mathrm { \Delta } P { > } 0 . 0 5 \mathrm { \Delta }$ ),while with different small letter superscripts mean significant difference ( $P$   
+${ < } 0 . 0 5 { \mathrm { ) } }$ ). The same as below. \* means acid amino acids; # means essential amino acids.
+
+# 2.3 脂肪酸组成与含量
+
+不同生长时期的虎斑乌贼内壳中均检测出7种脂肪酸(表4)，包括3种饱和脂肪酸（SFA)、1种单不饱和脂肪酸（MUFA）（C18:1）和3种多不饱和脂肪酸（PUFA）[C20:4、C20:5（EPA）和C22:6（DHA)]。不同生长时期虎斑乌贼内壳中不饱和脂肪酸含量差异不显著（ $. P { > } 0 . 0 5 \ '$ ），
+
+60、90、120、150日龄时分别为 $5 7 . 3 8 \%$ 、 $5 7 . 7 1 \%$ 、 $5 8 . 5 0 \%$ 、 $5 7 . 0 0 \%$ 。在脂肪酸组分中以C22:6n-3、C16:0和C18:0为主，其中C22:6n-3含量（ $( 3 5 . 6 8 \% \sim 3 7 . 6 2 \%$ ）最高，C16:0含量（ $2 5 . 3 6 \% { \sim } 2 6 . 6 1 \%$ ）次之。
+
+# 表4不同生长时期虎斑乌贼内壳脂肪酸组成及含量
+
+Table 4Fatty acid composition and contents in cuttlebone of Sepia pharaonis at different growth   
+
+<html><body><table><tr><td colspan="2"></td><td colspan="3">stages %</td></tr><tr><td rowspan="2">脂肪酸Fatty acids</td><td colspan="4">日龄 Days of age</td></tr><tr><td>60</td><td>90</td><td>120</td><td>150</td></tr><tr><td>C14:0</td><td>3.12±0.11b</td><td>2.97±0.08c</td><td>3.02±0.12c</td><td>3.28±0.09a</td></tr><tr><td>C16:0</td><td>26.03±1.05</td><td>26.15±1.69</td><td>25.36±1.17</td><td>26.61±1.31</td></tr><tr><td>C18:0</td><td>13.47±0.41</td><td>13.17±0.37</td><td>13.12±0.46</td><td>13.11±0.35</td></tr><tr><td>C18:1n-9</td><td>4.20±0.08a</td><td>3.58±0.05b</td><td>4.09±0.12ab</td><td>4.16±0.13a</td></tr><tr><td>C20:4n-6</td><td>8.87±0.54a</td><td>8.37±0.47b</td><td>8.78±0.55ab</td><td>8.91±0.41a</td></tr><tr><td>C20:5n-3(EPA)</td><td>8.28±0.61</td><td>8.14±0.56</td><td>8.19±0.48</td><td>8.25±0.35</td></tr><tr><td>C22:6n-3(DHA)</td><td>36.03±1.78b</td><td>37.62±2.05a</td><td>37.44±1.86a</td><td>35.68±1.06c</td></tr><tr><td>不饱和脂肪酸 UFA</td><td>57.38±3.19</td><td>57.71±4.13</td><td>58.50±3.41</td><td>57.00±2.45</td></tr></table></body></html>
+
+# 2.4矿物元素含量
+
+由表5可知，生长时期对常量元素 Na、 $\mathbf { M g }$ 、Al和Ca及微量元素Cu、Zn和Sr含量有显著影响 （ $P { < } 0 . 0 5$ ），尤其是Ca、Mg、Zn 含量，随着生长不断增加。常量元素中，Ca含量最高，60、90、120、150日龄时分别为334.23、393.30、452.39 和 $4 7 4 . 2 8 \mathrm { m g / g }$ ; $\mathbf { M g }$ 含量次之，60、90、120、150日龄时分别为29.85、36.11、39.89 和 54.82。微量元素中，Zn 含量最高，60、90、120、150 日龄时分别为14.05、16.36、19.21 和 $2 3 . 0 2 \mathrm { m g / g }$ ， $\mathtt { C u }$ 含量次之，60、90、120、150日龄时分别为2.34、2.85、4.33和 $5 . 4 7 ~ \mathrm { m g / g }$ 。重金属元素Cd、As 含量很低，分别为 $0 . 0 0 1 { \sim } 0 . 0 0 3 ~ \mathrm { m g / g }$ 和 $0 . 0 1 2 { \sim } 0 . 0 3 0 \mathrm { m g / g }$
+
+表5不同生长时期虎斑乌贼内壳矿物元素含量 (干物质基础)
+
+Table 5Mineral element contents in cutlebone of Sepia pharaonis at different growth stages
+
+<html><body><table><tr><td rowspan="2">矿物元素 Mineral</td><td colspan="4">日龄 Days of age</td></tr><tr><td>60</td><td>90</td><td>120</td><td>150</td></tr><tr><td>elements 钠Na</td><td>8.92±0.47c</td><td>12.39±2.43b</td><td>13.93±0.10ab</td><td>16.27±0.69a</td></tr><tr><td>钾K</td><td>1.48±0.45</td><td>1.59±0.22</td><td>1.26±0.43</td><td>1.77±0.21</td></tr><tr><td>镁Mg</td><td>29.85±1.36c</td><td>36.11±3.22b</td><td>39.89±3.61b</td><td>54.82±2.56a</td></tr><tr><td>铝Al</td><td>0.74±0.04</td><td>0.64±0.01</td><td>0.63±0.09</td><td>0.68±0.08</td></tr><tr><td>钙Ca</td><td>334.23±10.56d</td><td>393.30±7.16c</td><td>452.39±10.40ab</td><td>474.28±6.32a</td></tr><tr><td>铜Cu</td><td>2.34±0.36c</td><td>2.85±0.55bc</td><td>4.33±1.46ab</td><td>5.47±0.86a</td></tr><tr><td>铁Fe</td><td>0.54±0.02</td><td>0.45±0.06</td><td>0.66±0.04</td><td>0.58±0.03</td></tr><tr><td>锌Zn</td><td>14.05±0.55c</td><td>16.36±1.21bc</td><td>19.21±2.45b</td><td>23.02±2.07a</td></tr><tr><td>硒Se</td><td>0.09±0.03</td><td>0.12±0.01</td><td>0.09±0.04</td><td>0.12±0.03</td></tr><tr><td>锰Mn</td><td>0.199±0.070</td><td>0.142±0.023</td><td>0.123±0.030</td><td>0.153±0.037</td></tr><tr><td>镉Cd</td><td>0.020±0.010</td><td>0.020±0.010</td><td>0.033±0.025</td><td>0.036±0.015</td></tr><tr><td>砷As</td><td>0.002±0.001</td><td>0.003±0.002</td><td>0.003±0.002</td><td>0.002±0.001</td></tr><tr><td>锶Sr</td><td>2.32±0.19b</td><td>2.25±0.18b</td><td>2.95±0.48ab</td><td>3.29±0.28a</td></tr></table></body></html>
+
+3讨论
+
+3.1不同生长时期虎斑乌贼内壳营养成分含量变化
+
+乌贼内壳化学组成是在其生长发育过程中，从外界摄食并经过消化、代谢和吸收后转化积累的结果，反映了乌贼生长发育和代谢的情况。在不同生长时期会出现化学组成差异，主要由内因（如生物个体的系统发育阶段的机体调节和代谢规律）和外因（如饵料、水域环境等）共同影响着乌贼自身的物质和能量代谢、营养物质和矿物质的积累[30]。
+
+本试验中，虎斑乌贼内壳粗灰分和粗蛋白质含量随虎斑乌贼个体生长发育呈现出增加的现象且有显著性变化，而其他成分如粗脂肪、多糖含量则无显著性变化。虎斑乌贼不同生长时期，粗灰分均是内壳的主要成分，含量达到 $8 9 . 9 8 \% { \sim } 9 2 . 0 6 \%$ ，且随着虎斑乌贼的生长，内壳中粗灰分含量不断增加，在150日龄含量（ $9 2 . 0 6 \%$ ）最高，显著高于其他日龄时。粗灰分含量高主要与内壳结构的形成紧密相关，内壳在其生长早期主要是有机物构成，随着生长发育，钙离子的吸附也逐渐增多，后来逐步形成钙化的片层结构，钙化层越来越厚，以致排列成结构致密的矿化晶体[31]。不同生长时期虎斑乌贼内壳中 TAA 含量差异不显著，为$2 . 7 9 \% { \sim } 2 . 9 3 \%$ ，高于无针乌贼（ $2 . 3 2 \%$ ）[21]，与金乌贼（ $2 . 8 6 \%$ ）[20]相接近；EAA含量亦差异不显著，为 $0 . 8 7 \% { \sim } 0 . 9 8 \%$ ，与无针乌贼（ $0 . 9 6 6 \%$ ）[21]、金乌贼（ $( 0 . 9 9 4 \%$ ）[20]相接近。虎斑乌贼内壳中AAA含量随着生长不断增加，以150 日龄含量最高（ $2 6 . 6 2 \%$ ），显著高于其他日龄时（ $P { < } 0 . 0 5$ ）；此外，虎斑乌贼内壳中 AAA含量占TAA含量的 $2 0 . 0 7 \% { \sim } 2 6 . 6 2 \%$ 与肖述[32]研究得出的不同种类乌贼内壳AAA含量占TAA含量的 $2 2 . 1 7 8 \% { \sim } 2 4 . 1 0 7 \%$ 接近，高于赵中杰等[33]研究得出的无针乌贼和金乌贼内壳 AAA 含量占TAA 含量的$1 9 . 9 6 \% { \sim } 2 1 . 2 9 \%$ 。虎斑乌贼内壳中 Ser、Lys 和Gly 含量在各生长时期虽无差异显著，但含量均较高，分别为 $0 . 2 5 \% { \sim } 0 . 2 7 \%$ 、 $0 . 2 3 \% 8 8 . 2 4 \%$ 、 $0 . 1 9 \% 8 8 . 2 0 \%$ 。软体动物贝壳中的蛋白质富含 $\mathrm { A s p + }$ 天门冬酰氨（Asn）、 ${ \mathrm { G l u } } +$ 谷氨酰氨（Gln）、Gly以及 Ser。Keith 等[34]对鹦鹉螺、鲍鱼、贻贝3种贝壳的氨基酸组成进行比较后发现，3种贝壳的可溶性蛋白中均含大量的Asp、Gly、Ser，在鲍壳中 $\mathbf { A s p + A s n }$ 与 Gly 含量明显高出很多。Weiner等[35]对鲍鱼壳和牡蛎壳的形成进行了较为深入的研究，认为壳的形成受有机物调控，蛋白质和多糖、壳聚糖在钙化过程时形成网状支架对钙化主要起支架辅助，一些可溶性蛋白被吸附，尤其是AAA具有较强吸附钙离子的能力，矿化晶体才得以形成。软体动物内壳中有机物含量在 $4 \%$ 左右，正是这些有机大分子物质对软体动物内壳晶体结构定向生长和空间形态等方面的调控，使其在纳米水平上表现出特有的强度和有序性[36-37]。
+
+# 3.2不同生长时期虎斑乌贼内壳矿物元素含量变化
+
+内壳对环境中的矿物元素有较强的结合能力，测定软体动物内壳（贝壳）微量元素的种类和含量不仅可以用于水质环境的监测，同时也是养殖水环境以及养殖贝类本身健康与否的重要指标。
+
+粗灰分是乌贼内壳的主要成分，粗灰分中包含着大量的矿物元素。通过比较分析发现，虎斑乌贼内壳在不同生长时期最明显的特征均是Ca 含量最高，Mg 含量次之；且Ca、Mg含量随着生长在不断增加，150日龄含量最高（分别为474.28、 $5 4 . 8 2 ~ \mathrm { m g / g }$ ），显著高于其他日龄时。Ca 是人体内含量最多的元素，主要集中于骨赂、牙齿和硬组织里，其以磷酸钙的形式存在于细胞质中使机体形成坚硬的结构。Ca 除作为骨质主要构成外，还能增强毛细血管壁的致密度，防止组织液渗出，提供消肿、抗炎和抗组织胺作用；同时，Ca 在血液、细胞外液和软组织中对血液凝固、肌肉收缩和神经结构组成、传递过程有重要作用，还可参与多种酶生物活性的发挥。Mg是人体内必需的常量元素，在三羧酸循环电子传递、催化过程及有机物转化等重要环节起着关键作用，被称为“人体健康催化剂”，如果Mg 缺乏，人易疲乏、心跳加快、易激动， $\mathbf { M g }$ 还可刺激抗毒素的生成，故 $\mathbf { M g }$ 可以起到解毒的作用[38]。因此，虎斑乌贼内壳可以作为提供补Ca、 $\mathbf { M g }$ 的食源或药源。Ca 是软体动物贝壳中含量最多的元素（占粗灰分含量的 $89 \% { \sim } 9 5 \%$ ）[39-401，虎斑乌贼内壳Ca 含量占粗灰分含量的$8 9 . 9 8 \% { \sim } 9 2 . 0 6 \%$ ，由于乌贼内壳钙化结构使其多孔度达 $9 0 \%$ 以上，而且具有良好的生物相容特性，因此，研究乌贼内壳在羟基磷灰石材料的制备、组织工程支架材料、复合蛋白人工骨成骨及再血管化等[2-4]新型医用材料应用方面均有报道。
+
+不同生长时期虎斑乌贼内壳微量元素中均以Zn含量 $( 1 4 . 0 5 \mathrm { m g / g } \cdot 1 6 . 3 6 \mathrm { m g / g } \cdot 1 9 . 2 1 \mathrm { m g / g }$   
+和 $2 3 . 0 2 ~ \mathrm { m g / g }$ ）最高。Zn 是人体内多种酶的辅基和激活因子，与160多种酶的生物活性相  
+关，并参与了核酸和蛋白质的合成。缺Zn 会推迟动物的性腺成熟期，成熟动物会发生性腺  
+萎缩及纤维化，而且Zn大量存在于男性睾丸中，参与精子的整个生成、成熟和获能的过程。  
+缺 Zn 还会影响皮肤系统的生长、发育，而导致皮肤出现炎症。婴儿和儿童通过适量补 Zn，  
+可以有效预防呼吸道感染和腹泻等病症的发生。因此，虎斑乌贼内壳有望成为补 Zn 的良好  
+食源或药源。同时，不同生长时期虎斑乌贼内壳中检测到重金属元素Cd、As 含量分别为  
+（204 $0 . 0 0 1 { \sim } 0 . 0 0 3 ~ \mathrm { m g / g }$ 和 $0 . 0 1 2 { \sim } 0 . 0 3 0 \mathrm { m g / g }$ ，远远低于欧盟食品安全上限（ $1 . 0 { \sim } 1 . 5 \ \mathrm { m g / k g } \rangle$ ）[41]。  
+4结论虎斑乌贼内壳粗灰分、粗蛋白质以及AAA含量随生长呈现出增加的趋势。虎斑乌贼内壳在不同生长时期最明显的特征均是常量元素以Ca、Mg含量较高，微量元  
+素以 Zn 含量最高，且Ca、Mg、Zn含量随着生长不断增加；重金属元素Cd、As 含量较低。  
+参考文献:  
+[1] 高学敏.中药学[M].北京:中国中医药出版社,2002:582.  
+[2] 陶凯,毛天球,陈富林,等.一种新型羟基磷灰石材料的制备及其细胞相容性探讨[J].生
+
+物医学工程学杂志,2006,23(4):887-890.
+
+3] 周蔚,吴海涛,李采.海蝶蛸作为组织工程支架材料的实验研究[J].复旦学报:医学版,2007,34(3):438-441.
+
+[4] 刘源.海蝶蛸/骨形态发生蛋白复合人工骨成骨及再血管化的初步研究[D].硕士学位论文.大连：大连医科大学,2012
+
+[5] AKSAKAL B,DEMIREL M.Synthesis and fabrication of novel cuttlefish (Sepia officinalis) backbone biografts for biomedicalapplications [J].Ceramics International,2015,41(3):4531-4537.
+
+[6] CHUNG M T,WANG C H.Age validation of the growth lamellae in the cutlebone from cultured Sepia pharaonis at different stages[J].Journal of Experimental Marine Biology and Ecology,2013,447:132-137.
+
+[7]唐丽娟,刘玮炜,王丽,等.不同方法提取海蝶蛸多糖及结构表征[J].中成药,2011,33(9):1625-1628.
+
+[8] 唐丽娟,刘玮炜,史大华,等.海蝶蛸提取物对脲酶活性的抑制作用初探[J].中华中医药杂志，2012,27(2):331-333.
+
+[9] RAMASAMY P,SUBHAPRADHA N,SHANMUGAM V,et al.Extraction,characterization and antioxidant property of chitosan from cuttebone Sepia kobiensis (Hoyle 1885) [J].International Journal of Biological Macromolecules,2014,64:202-212.
+
+[10]顾青青,安叡,张艺竹,等.不同产地海蝶蛸中核苷类成分测定[J].中成 药,2015,37(5):1016-1021.
+
+[11] SHUSHIZADEH M R,POUR E M,ZARE A,et al.Persian gulf $\beta$ -chitin extraction from Sepiapharaonissp.Cuttleboneandpreparationofitsderivatives[J].Bioactive Carbohydrates and Dietary Fibre,2015,6(2):133-142.
+
+[12]LEE Y H,CHANG Y C,YAN H Y,et al.Early visual experience of background contrast affects the expression of NMDA-like glutamate receptors in the optic lobe of cuttlefish,Sepiapharaonis[J].Journal of Experimental Marine Biology and
+
+Ecology,2013,447:86-92.
+
+[13]HOQUE M S,BENJAKUL S,PRODPRAN T.Effects of hydrogen peroxide and Fenton's reagent on the properties of film from cuttlefish (Sepia pharaonis） skin gelatin[J].Food Chemistry,2011,128(4):878-888.
+
+[14]陈道海,郑亚龙.虎斑乌贼(Sepia pharaonis)繁殖行为谱分析[J].海洋与湖沼,2013,44(4):931-936.  
+[15]陈道海,王雁,梁汉青,等.虎斑乌贼(Sepia pharaonis)胚胎发育及孵化历期观察[J].海洋与湖沼,2012,43(2):394-400.  
+[16]黄建盛,陈刚,张健东,等.野生虎斑乌贼(Sepia pharaonis)肌肉主要营养成分分析及评价[J].营养学报,2014,36(5):502-504.  
+[17]高晓兰,蒋霞敏,乐可鑫,等.野生虎斑乌贼不同组织营养成分分析及评价[J].动物营养学报,2014,26(12):3858-3867.  
+[18]蒋霞敏,彭瑞冰,唐锋,等.虎斑乌贼规模化人工繁育技术研究[C]//2013 年全国海水养殖学术研讨会论文集.绍兴:中国水产学会,浙江省水产学会,2013:46-47.  
+[19]赵云涛,李琨,黄燕,等.海蝶蛸入药部分和废弃部分 8种无机元素分析[J].微量元素与健康研究,2003,20(2):35-37.  
+[20]杨振萍,边清泉.火焰原子吸收光谱法测定海蝶蛸中 15种微量元素含量[J].食品科学,2010,31(6):190-192.  
+[21]李兰,吴启南.海蝶蛸的化学成分研究[J].现代中药研究与实践,2009,23(2):52-54.  
+[22]中华人民共和国卫生部,中国国家标准化管理委员会.GB/T 5009.3-2003 食品中水分的测定[S].北京:中国标准出版社,2004:25-29.  
+[23]中华人民共和国卫生部.GB 5009.4-2010 食品中灰分的测定[S].北京:中国标准出版社,2010:1-2.  
+[24]中华人民共和国卫生部,中国国家标准化管理委员会.GB/T 5009.5-2003 食品中蛋白质的测定[S].北京:中国标准出版社,2004:37-41.  
+[25]中华人民共和国卫生部,中国国家标准化管理委员会.GB/T 5009.6-2003 食品中脂肪的测定[S].北京:中国标准出版社,2004:45-46.  
+[26]郭金龙,陈有君,孙国琴,等.苯酚-硫酸法测定杏鲍菇多糖方法的研究[J].食品科学,2008,29(12):555-558.  
+[27]孙磊,乔善义,赵毅民.黑骨藤多糖含量测定方法研究[J].中国中药杂志,2009,34(10):1241-1244.  
+[28]张惟杰.糖复合物生化研究技术[M].杭州:浙江大学出版社,1999:11-12.  
+[29]中华人民共和国卫生部,中国国家标准化管理委员会.GB/T 5009.124-2003食品中氨基酸的测定[S].北京:中国标准出版社,2004:115-119.  
+[30]姚林杰,叶元土,蔡春芳,等.饲料蛋白质脂肪比与不同生长阶段团头鲂全鱼蛋白质、脂肪含量及肌肉氨基酸、脂肪酸组成的关系[J].动物营养学报,2014,26(8):2184-2196.  
+[31]DAUPHIN Y.The organic matrix of coleoid cephalopod shels:molecular weights andisoelectricpropertiesofthesolublematrixinrelationtobiomineralizationprocesses[J].Marine Biology,1996,125(3):525-529.  
+[32]肖述.乌贼海螺蛸形成机理研究[D].硕士学位论文.青岛:中国海洋大学,2003.  
+[33]赵中杰,江佩芬,李昂.海蝶蛸中碳酸钙、微量元素和氨基酸的测定[J].中国中药杂志,1990,15(1):41-43.  
+[34]KEITH J,STOCKWELL S,BALL D,et al.Comparative analysis of macromolecules inmolluscshels[J].ComparativeBiochemistryandPhysiologyPart B:ComparativeBiochemistry,1993,105(3/4):487-496.  
+[35]WEINERS S,HOOD L.Soluble protein of the organic matrix of mollusk shells:a potentialtemplate for shel formation[J].Science,1975,190(4218):987-989.  
+[36]KAPLAN D L.Mollusc shell structures:novel design strategies for syntheticmaterials[J].Current Opinion in Solid State and Materials Science,1998,3(3):232-236.  
+[37]MANN S.Molecular recognition in biomineralization[J].Nature,1988,332(10):119-124.  
+[38]刘建军,陈卫红.中华猕猴桃微量元素测定分析[J].广东微量元素科学,2001,8(4):64-65.  
+[39]夏静芬,钱国英,陈亮,等.珍珠粉和贝壳粉的化学成分和结构特征分析[J].化学研究与应用,2010,22(11):1467-1471.
+
+[40]孙会玲,陈庆国,刘梅,等.天然材料贻贝壳的应用研究[J].安徽农业科学,2014,42(13):4069-4071,4101.
+
+[41]The Commission of the European Communities.(EC) No 1881/2006 setting maximum levels for certain contaminants in foodstuffs[S].[S.l.]:Official Journal of the European Union,2006:L364/5-L364/24.
+
+# Comparative Analysis: Nutritional Component Contents in Cuttebone of Sepia pharaonis at Different Growth Stages
+
+JIANG MaowangJIANG Xiamin\* LIANG Jingjing WANG Pengshuai RUAN Peng HAN Qingxi
+
+(School ofMarine Sciences,Ningbo University,Ningbo 315211, China)
+
+Abstract: This study was conducted to study the changes of nutritional component contents in cuttlebone of Sepia pharaonis at different growth stages, in order to provide a theoretical basis for development and utilization of Sepia pharaonis. The contents of nutritional components (including moisture,ash,crude protein,crude fat, polysaccharide,amino acids,fatty acids）and minerals [including 5 kinds of major elements-natrium (Na), kalium (K),magnesium (Mg), aluminium (Al), calcium (Ca) and 8 kinds of trace elements-copper $\mathbf { \Pi } ( \mathbf { C u } )$ ,iron $\mathrm { ( F e ) }$ ，zinc $( Z \boldsymbol { \mathrm { n } } )$ ， selenium (Se), manganese (Mn), chromium (Cd), arsenic (As), strontium (Sr)] (dry weight basis) in cuttlebone of Sepia pharaonis at different growth stages (growing ages were 6O ,90 ,120 and 150 d,respectively） were determined using national standard nutritional methods. The results showed as follows: among different growth stages, the ash was the main component in cuttlebone of Sepia pharaonis and the content of ash was $8 9 . 9 8 \%$ to $9 2 . 0 6 \%$ which was increased with the growth,and 15O days of age was significantly higher than other days of age $( P { < } 0 . 0 5 )$ ; crude protein content was $2 . 8 2 \%$ to $3 . 1 1 \%$ , its increased with the growth and the 15O days of age was significantly higher than 6O days of age $( P { < } 0 . 0 5 )$ ; the content of moisture was $3 . 9 3 \%$ to $6 . 2 1 \%$ ,its decreased with the growth and the 6O days of age was significantly higher than other days of age $( P { < } 0 . 0 5 )$ ; the contents of crude fat and polysaccharide was less compared with other components, were $0 . 4 1 \%$ to $0 . 4 7 \%$ and $0 . 3 4 \%$ to $0 . 3 8 \%$ ,respectively. A total of 17 amino acids were identified in cuttlebone of Sepia pharaonis among different growth stages, including 7 kinds of essential amino acids (EAA). The contents of total amino acid (TAA), EAA and acidic amino acids (AAA) were $2 . 7 9 \%$ to $2 . 9 3 \%$ ， $0 . 8 7 \%$ to $0 . 9 8 \%$ and $0 . 5 6 \%$ to $0 . 7 8 \%$ , respectively; the content of AAA increased with the growth,and that of 15O days of age was significantly higher than that of other days of age $( P { < } 0 . 0 5 )$ . The content of glutamate (Glu) was the highest ( $0 . 3 1 \%$ to $0 . 4 3 \%$ ）and the content of histidine (His）was the lowest（ $0 . 0 3 \%$ to $0 . 0 7 \%$ ）in cuttlebone of Sepia pharaonis among different growth stages. A total of 7 fatty acids were identified, including 3 saturated fatty acids (SFA),1 monounsaturated fatty acids (MUFA） and 3 polyunsaturated fatty acids (PUFA). C22:6n-3, C16:0 and C18:0 were the main components of fatty acids,among which C22:6n-3 had the highest values ( $3 5 . 6 8 \%$ to $3 7 . 6 2 \%$ ). The contents of major elements—Na,Mg,Al and Ca,and trace elements-Cu， Zn and Sr were significantly affected by the growth stages $( P { < } 0 . 0 5 )$ ， especially the contents of Ca, Mg and $Z \mathrm { n }$ ，were increased with the growth; the contents of heavy metal elements—Cd and As were very low,which were O.001 to $0 . 0 0 3 ~ \mathrm { m g / g }$ and 0.012 to 0.030 $\mathrm { m g / g }$ ，respectively. It is concluded that the cutlebone of Sepia pharaonis has high nutritional value,Ca,Mg,Zn contents are rich and with the growth increasing. Therefore,it has a good spectacle of opening up and application..
+
+Key words: Sepia pharaonis; cuttlebone; different growth stages; nutrients; mineral elements

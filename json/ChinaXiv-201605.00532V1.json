@@ -1,0 +1,676 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHREVIEW ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Food and bioenergy: reviewing the potential of dualpurpose wheat crops ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TOBYJ. TOWNSEND¹,DEBBIE L. SPARKES² and PAUL WILSON1   \n1DivisionofAgriculturalandEnironmentalSciences,SchoolofBiosciencesUniersityofNotingham,SutonBoington   \nCampus,LougboroughLKisionofntadCoiencsoolfoiences,sityofo   \nSutton Bonington Campus,LoughboroughLE125RD,UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Withinthebioenergy debate,the ‘food vs.fuel'controversy quickly replaced enthusiasm for biofuels derived from first-generation feedstocks.Second-generation biofuels offer an opportunity to produce fuels from dedicated energy crops, waste materials or coproducts such as cereal straw.Wheat represents one of the most widely grown arablecrops around the world, with wheat straw,a potential source of biofuel fedstock.Wheat straw currently has limited economic value; hence,wheat cultivars have been bred for increased grain yield; however,with the development of second-generation biofuel production,utilization of straw biomass provides the potential for 'food and fuel.Reviewing the evidence for the development of dual-purpose wheat cultivars optimized for food grain and straw biomass production, we present a holistic asessment of a potential ideotype for a dual-purpose cultivar (DPC).Anideal DPCwould becharacterized byhigh grain and straw yields,high straw digestibility (i.e. biofuel yield potential) and good lodging resistance.Considerable variation in these traits exists among current wheat cultivars,facilitating the selection of improved individual traits; however,increasing straw yield and digestibility could potentially have negative trade-off impacts on grain yield and lodging resistance,reducing the feasibility of a single ideotype.Adoption of alternative management practices could potentially increase straw yield and digestibility,albeit these practices are also associated with potential trade-offs among cultivar traits. Benefits from using DPCs include reduced logistics costs along the biofuel feedstock supply chain,but practical barriers todiffrential pricing for straw digestibility traits are likelytoreduce thefinancialincentiveto farmers for growing higher biofuel-quality' straw cultivars.Further research is required to explorethe relationships among the ideotype traits to quantify potential DPCbenefits;this willhelp todetermine whether stakeholders along the bioenergy feedstock supply chain wil invest in the development of DPCs that provide food and fuel potential. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:cropresdues,al-purposeculivars,lodging,econdgenerationiofuel,strawdigestibilitytrayeld,a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received17 February 2015;accepted 3 August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biofuels,which are liquid or gaseous fuels produced from plant biomass,are being produced for use in the transport sector with the purpose of reducing greenhouse gas (GHG) emissions and increasing energy security(Valentine et al.，2012；Khanna & Chen，2013). Currently, the majority of biofuel produced is first-generation biofuel (FGB),in particular bioethanol,which is produced from edible plant material such as wheat grain (Simbolotti, 2013).The use of FGB has been criticized due to potential competition with food production (Oladosu & Msangi,2013) and loss of natural ecosys tems through indirect land-use change (Kim & Dale, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2011).These issues have helped drive the development of second-generation biofuel (SGB)，which is produced from lignocellulosic biomass such as crop and forestry residues，waste paper and dedicated energy crops (DECs),and is,therefore,considered to have minimal impact on food production (Gnansounou, 201o).European Union legislation has set a mandatory minimum target of a $10 \\%$ share of energy from renewable sources in transport fuels by 2020,with the majority of this expected to be from biofuels (EU,2009a). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The biggest potential source of feedstock for SGB production in Europe is straw from wheat (Triticum aestiuum L.; Scarlat et al.,2010). The area of wheat grown and the potential supply of straw vary with country. In the UK,approximately 2 million hectares of wheat is grown (Anon, 2014a). The straw from wheat production has multiple applications including use as animal bedding,mushroom production substrate and feedstock for biomass-burning power stations (Copeland & Turley，2008). However， supply greatly exceeds demand and a large amount of straw is chopped and incorpo rated into the soil after grain harvest (Glithero et al., 2013a). Some of this incorporated straw could be baled and used as feedstock for bioenergy production without leading to competition with other straw users. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When left in situ, the straw provides benefits such as improved soil structure and water retention,reduced soil erosion,maintained or increased soil organic matter, carbon sequestration and nutrient return (Smil,1999; Blanco-Canqui & Lal, 2009; Huggins et al.，2011).The impacts of removing residues on soil properties are, however，highly variable and site specific. Consequently，very few consistent effects have been found; however, Blanco-Canqui & Lal (2oo9) conclude that it is feasible to remove some residues,but this will depend on the specific location and cropping system. Therefore, individual sites need to be assessed to determine whether straw can be sustainably removed (Powlson et al.，2011).Resources are available to estimate the quantities that can be removed without excessive soil erosion (e.g. models such as RUSLE2,WEQ or SCI; see Andrews,2006),but these may not be appropriate for individual farmers making decisions about residue management and also do not estimate soil impacts other than erosion. It may be more appropriate to use general guidelines such as that by Lafond et al. (2009) who suggested that, for the region there were assessing, it was sustainable to remove the straw provided that it did not happen more than two of every 3 years. In estimating straw availability, Scarlat et al. (201O) found that the literature estimates for sustainable removal ranged from $1 5 \\%$ to $6 0 \\%$ . In Europe,there are very few resources available for determining how much straw can be sustainably removed; this may be due to soil erosion historically being considered less of a problem in Europe compared to countries such as the USA where guidelinesare available.However,the sustainability of straw removal is of direct importance for ethical and environmental acceptability of SGBs; for example,it is important to know whether the fossil fuel GHG emissions displaced through the use of biofuels are outweighed by the reduction in soil carbon sequestration and increase in fertilizer requirements resulting from straw removal. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is uncertainty regarding the amount of straw chopped and incorporated,and,taken together with the uncertainty regarding the amount of straw that can be sustainably harvested,it is unclearhowmuch straw is available for bioenergy production.In the UK，for example,estimates of straw availability varywidely (c.f. Copeland & Turley,2008 vs.Glithero et al.,2013a)due touncertainty about the amount of straw currentlyused and straw yield per se,which are often calculated from average straw-to-grain ratios that might not reflect the actual yield relationship during the year the estimate is made.Straw availability may also be overestimated as calculations often assume that all farmers who can sustainably supply straw will supply that straw，whereas, in reality,many farmers are unwilling to do so because of,for example,concerns about negative soil impacts and potential delays in planting subsequent crops (Glithero et al.,2013b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The amount of straw required for economically sustainable biofuel production at the individual processing plant level is currently unknown. The cost of SGB production depends on the trade-off between economy of scale of biorefinery size and biomass transportation costs (Aden et al., 2002). This suggests that the feasibility of biofuel production will depend on the availability of large amounts of easily accessible biomass.In modelling bioethanol production，Littlewood et al. (2013) considered a biorefinery feedstock demand of approximately $7 5 0 \\ 0 0 0 \\ \\mathrm { t \\ y r ^ { - 1 } }$ . In contrast,the world's first commercial SGB biorefinery,Beta Renewables' Crescentino biorefinery in Italy,has a maximum feedstock demand of $2 7 0 \\ 0 0 0 \\ \\mathrm { t \\ y r ^ { - 1 } }$ (comprising a mixture of rice straw, wheat straw and Arundo donax, the common giant reed; Anon,2013),which suggests feasibility of smaller scale production. Running a biorefinery below capacity is likely to be economically unfeasible,and therefore,estimates of straw availability should be based on feedstock availability from unfavourable years,when straw yields are low,to ensure resilience of the biorefinery (Scarlat et al.,2010). In the UK, competition for straw supply is also increasing with a number of straw-burning power stations planned (e.g. the Sleaford and Brigg plants being constructed by Eco2 UK). Already, this expansion of straw use is causing problems with Eco2 UK failing to gain planning permission for their proposed strawburning power station in Mendlesham, Suffolk, partly due to concerns about competition with other wheat straw users(Simkins，2014).Thishighlightsthat although straw is available,its high transportation costs, due to its low bulk density，restricts supply to local areas(Valentine et al.，20l2) and means that excessive demand in a particular region leads to local competition.As with the Crescentino plant,it is likely that a diverse mix of lignocellulosic material will be required for commercial success so as to not place too much pressure or reliance on a single feedstock resource. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The above issues strongly suggest that for a biorefinery to be able to operate biomass availability will have to increase.One possibility for increasing biomass availability is through growing DECs,such as Miscanthus or short-rotation coppice willow or poplar (Valentine et al.，2012). In the UK in 2013，there was an estimated 7078 ha Miscanthus and 2650 ha short-rotation coppice in England (Defra,2014).There is considerable land suitable for growing DECs,but the majority of this is already being used for agriculture and other uses (Lovett et al.,2014).It has been further proposed that DECs can be grown on marginal land (i.e. poor yielding land) to avoid or reduce competition with food production; however, there is uncertainty as to how much land is available due to the difficulty in defining ‘marginal land' (Shortall,2013). Furthermore, there is uncertainty about the feasibility of using poor quality land for the production of DECs;crucially,the financial benefit of growing DECs on marginal land is dependent on the relative yield penalties of DECs and typical arable crops (Glithero et al.，2015).Regardless of this,both arable and livestock farmers have shown little interest in growing DECs in England (Glithero et al.，2013c;Wilson et al.,2014),implying there is limited scope for increasing DEC production.Allen et al.(2014) considered DEC production across Europe and also suggested that there was limited land available for their production and it is unlikely to be economically feasible to grow DECs as much of the available land was poor yielding, fragmented, difficult to access and with limited water supply.Increasing production beyond the limits of the marginal land would,therefore,require expansion of the growing of DECs to non-marginal land,which as previously highlighted is undesirable given issues of competition with food production. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These factors collectively suggest that increases in SGB feedstock availability will,therefore，require an increase in lignocellulosic biomass yields on the land already being used for crops,such as through increased residue yields.Thus, the development of a SGB production industry could lead to a greater importance being placed on crop residues and could encourage farmers to select wheat cultivars with higher straw yields.A focus on increasing yields of the residue component of crops could，in turn，lead to the development of a dualpurpose cultivar(DPC) that is optimized for both grain and straw production. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Contemporary ideas of improving cultivars for dual purposes include de Leon & Coors (20o8) and Salas Fernandez et al. (2009) who have suggested the breeding of maize cultivars that have characteristics beneficial to both food production and energy production, delivering both high grain and residue yields.Lorenz et al. (2010) investigated the possibility of increasing maize stover yield，suggesting that this would be possible without reducing grain yield.Himmel et al. (2oo7) and Harris & DeBolt (2010) have proposed the development of crops with increased potential biofuel yield from the straw (referred to in this study as digestibility).Phitsuwan & Ratanakhanokchai (2014) consider the development of ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Elite Rice that has improved grain yield,straw yields and digestibility plusimproved lodging resistance. Nasidi et al. (2015) compared sorghum cultivars for use as feedstock for SGB production by considering biomass yield and digestibility. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DPCs could be chosen from among currently grown cultivars，or new cultivars could be bred，to have improved traits for both food and energy production. Geneticmodification techniquescould potentially improve traits in a DPC and have been suggested by some authors,although current constraints on the use of genetic modification in Europe currently restrict the selection of a DPC to those that can be produced from conventional crop breeding.There is some work assessing currently grown wheat cultivars for their use as DPCs (e.g. Larsen et al.,2012),but,in general, there is onlylimitedinformationavailable on this topic. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This review examines the literature on key traits,and thepotential trade-offs among these traits,for a wheat DPC to provide a basis for further research into DPCs. It also considers how management practices could pro vide additional or alternative strategies with respect to the use of DPCs to improve these traits. The review concludes with a set of recommendations for the further development of DPCs.Thereview draws on the literature from throughout the world but has a particular focus on the potential development of a DPC for use in the UK and northern Europe in general. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The key DPC traits considered in this review are grain yield,straw yield and straw digestibility.Another trait，lodging resistance，is also considered important due to potential trade-offs with the other traits.Within this review,the DPC concept is considered within the context of SGB production but，with the exception of digestibility，the key traits still apply to a cultivar for bioenergy production via straw combustion. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The article has the following structure: following this introduction, section ‘Straw yield' considers straw yields of wheat cultivars.Wheat straw digestibility (section 'Straw digestibility'） and lodging in wheat (section Lodging susceptibility'） are then considered.Grain yield isconsidered in section Trade-offs'viaan examination of the potential grain yield trade-offs associated with these traits.Key management practices that influence traits are presented in section ‘Crop management' which highlights potential management trade-offs for optimisingeach trait. Section Recommendations'presents recommendations for the use and development of DPCs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Straw yield ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first key trait of a DPC to be considered is straw yield.Cultivars differ considerably in their straw yields (Donaldson et al.，2001；Engel et al.，2003;Skett,2011; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Larsen et al.，2012)．Yield variation is most obvious when comparing modern cultivars with older cultivars asin general straw yields have decreased (both actual strawyieldsand asa fractionof totalbiomass)over the past 1oo years,in particular with the development of semidwarf cultivars (e.g. Austin et al.， 1980; Shearman et al.，20o5 - see section ‘Grain and straw yields'and Fig. 1a-c). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Strawyieldshavebeenassessed formodernwheat cultivars:Larsen et al. (2012),in attempting to identify the cultivars with high straw yields for use as feedstock forbiofuelproduction found yieldsranged from $2 . 7 \\ : \\mathrm { t } \\ : \\mathrm { h a } ^ { - 1 }$ to $4 . 2 \\mathrm { ~ t ~ h a } ^ { - 1 }$ in one field experiment and $3 . 4 \\mathrm { ~ t ~ h a } ^ { - 1 }$ to $4 . 6 \\textrm { t h a } ^ { - 1 }$ in another. [n.b.straw yield here refers to the amount that is baled and removed from the field. Some straw will be left on the field as stubble whilst other straw,in particular leaf and chaff (i.e.the nongrain biomass from the ear)，will be lost during combine harvesting and baling; this could potentially account for $6 0 \\%$ of total straw (Boyden et al.，2001)]. Agronomists at the University of Kentucky in the US have provided straw yield data in their cultivar trials (e.g. Bruening et al., 2014),with the suggestion that cultivars can be selected based on straw yield to provide a secondary commodity (Lee & Herbek,2009).In the 2014 variety performance test of US wheat cultivars,straw yields ranged from $1 . 2 3 \\mathrm { ~ t ~ h a } ^ { - 1 }$ to $3 . 8 8 \\mathrm { ~ t ~ h a } ^ { - 1 }$ with an average of $2 . 6 7 \\mathrm { ~ t ~ h a } ^ { - 1 }$ . Straw yields were unrelated to grain yields suggesting that cultivars can be selected for high straw yields from among cultivars with high grain yield.However，the relative rankings of 37 cultivars common to the 2012,2013 and 2014 field trials demonstrate inconsistencies over time for some cultivars;for example,the cultivar Pioneer variety 25R32had the lowest straw yield in 2014, the fourth highest in 2013 and the seventh lowest in 2012. This is in contrast to Syngenta SY 483 that had the highest straw yields in 2014 and 2013,and the third highestin 2012. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/87d5d7597c7ee9c0dc1706aab273b81c3081e0e3cf77cf4d4187f13977474ad0.jpg",
+        "img_caption": [
+            "Fig.1Grain and straw yields for winter wheat cultivars with different dates of releasewith datareproduced from: (a)Austin et al.(1980); (b) Austin et al. (1989);(c) Shearman et al. (2005). Straw yields calculated as total AGDM less the grain yield. Dashed line represents general trend for straw yields,and solid line represents general trend for grain yields. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In general, there islimited straw yield data available asstraw yields are rarely quantified.There are two mainreasons for this: firstly,straw is seen asa by-pro duct to the more important grain,with less incentive for it to be quantified as its economic value is much lower; secondly，straw yields are more difficult to quantify than grain yields，particularly on trial plots,due to straw losses and movement between combining and baling,as well as the need for specialist equipment to take account of topography so as to have an even level of stubble for each plot.In the UK,it is likely that knowledge of cultivar straw yields does exist within the farming community (i.e.anecdotal),but there are currently no published resources available to aid farmers in selecting for wheat straw yields.The cultivar lists produced by the University of Kentucky appear to be unique among recommended lists (RLs) in offering straw yield data for wheat cultivars.Straw yields are not currently given in RLs forUK cultivars,and there areno published records of straw yields for individual cultivars. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "One dificulty in identifying cultivars with high straw yields is that there are many environmental and management factors(discussed further in section 'Crop management'） that influence straw yield (Engel et al.，20o3） such as sowing date and sowing density (Donaldson et al.,20o1),nitrogen and water availability (Engel et al.,2oo3),and fungal infections and,therefore, fungicide treatment (Jorgensen & Olesen，2002).Climatic conditions also have a large influence on straw yields; large-scale assessment of wheat straw yields (see Larsen et al.,2012;for references) found that there was considerable temporal variation,with $4 6 \\%$ variation in the yearly averages,which was hypothesized to be a result of differences in weather between years.These environmental factors interact with genotypic factors (Engel et al.，20o3)，further complicating the identification of high straw-yielding cultivars. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Attempts have been made to understand the environmental influences on straw yield. Engel et al. (2oo3) produced an equation linking straw yield to plant height grain yield and either grain protein content or straw nitrogen (N) concentration (these give an indication of N availability);however，the authors found this relationship varied with water availability,which had an inconsistent influence on yields. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "More frequently measured is above ground dry matter(AGDM) and harvest index (HI),which is the ratio of grain to AGDM (see section ‘Grain and straw yields). Using these the non-grain biomass can be calculated, which can be used as a proxy for straw yield (although this will be an overestimate of baled straw yield due to it including stubble,leaf and chaff material that would be left on the field).Hay (1995),in reviewing cereal HI, suggests that HI is reasonably fixed unless there are severe unfavourable conditions. This would suggest that straw yields follow those of grain so in conditions favourable to high grain yields and high straw yields will be achieved.When unfavourable conditions occur, it is likely that straw yields are more heavily impacted than grain yields as the plant increases resource allocation to the grain (Linden et al.,20oO),although this will vary with the extent and type of unfavourable conditions as well as the period in which they occur during the crop's life cycle. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Straw digestibility ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The biofuel yield of straw depends not only on the total sugars present in the material but also the ease at which these sugars are made accessible to fermentation during processing.Digestibility,also referred to as degradability and saccharification potential，refers to the amount of sugar released from a feedstock under specific processing conditions.This is considered an important trait for the DPC ideotype as using plant material with higher digestibility could reduce SGB production costs (Lindedam et al.,2012; Oakey et al.,2013),for example through requiring lower enzyme amounts and milder pretreatment conditions (Lindedam et al.,2014),or lowering the amount of feedstock required to produce a set amount of biofuel. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A number of studies have considered the digestibility ofwheat cultivars.Earlywork considered wheat straw digestibility from the perspective of its use as animal feed (reviewed in McCartney et al.,2006) or for mushroom production (e.g. Savoie et al.，1994)，which are analogous to its digestibility for biofuel production.A number of these studies showed wheat straw digestibility varied with cultivar (e.g. Knapp et al., 1983; Kernan et al.，1984;Capper，1988;Habib et al.，1995)and with environmental conditions (Tolera et al.,2008). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although these studies provide an indication of digestibility,recently,the digestibility of wheat cultivars has been investigated for biofuel production.When considered as feedstock for biofuel production，differences in digestibility among cultivars have been identified (Lindedam et al.，2010a，2012;Jensen et al.，2011；Wu et al.,2014;Murozuka et al.,2015)although Larsen et al. (2012) did not find a significant difference in the cultivars they assessed. The extent of the range of digestibility varied among the studies (Fig.2). This might be due to the studies using different assays，which prevents direct comparisons,but it could also result from differences in the type and number of cultivars assayed (c.f. five cultivars in Lindedamet al.,2010a;vs.109 in Jensen et al., 2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Developing DPCs with improved digestibility will depend on identifying the genetic and environmental factors determining digestibility. Various factors have been shown to influence the recalcitrance of lignocellulosic material (reviewed in Zhao et al.，2012).These include the following:chemical structural features such as the relative contents of cell-soluble matter，acetate, ash，cellulose，hemicellulose and lignin;and physical structural features such as accessibility，particle size, surface area，pore volume，degree of polymerization and crystallinity. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/83574796a8d50552bad2c84b5efa0517250300830f731083a48fa0a27960ff5d.jpg",
+        "img_caption": [
+            "Fig.2Minimum and maximum values for the quantity of sugar released per $\\mathrm { \\bf ~ g }$ of biomass for multiple wheat cultivars, fromfour assessments.References for the four assessments and number of cultivars (n) assessed in each study:(a) Larsen et al. (2012), $n = 1 0 ;$ (b)Lindedam et al. (2010a, $n = 5 ;$ (c)Lindedam et al. (2012), $n = 2 0 .$ ：(d) Jensen et al.(2011), $n = 1 0 9$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although these factors influence digestibility，it is often unclear why cultivars differ in digestibility.Knowing which features are responsible for this could allow more targeted crop breeding for increased digestibility The majority of studies comparing digestibility among cultivars considered reasons for any differences seen; however, due to the many factors that could have an influence, these studieswere limited in the range of factors they considered. These physical and chemical fac torsare also differently affected bypretreatment methods (Zhao et al.,2012) and,therefore,the specific assays used for measuring digestibility; this might explain why different studies identified different factors as being important in determining digestibility. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Plant material digestibility can be influenced by variation in the proportions of lignin,cellulose and hemicellulose composing the cell wall (Pauly & Keegstra,2008). There is considerable variation in the contents of these in wheat (Collins et al.,2014). For example,Wu et al. (2014),in assessing 115 wheat ascensions,found that the plantdrymatterconsisted of $2 7 . 5 \\substack { - 3 6 . 4 \\% }$ cellulose, 28.4- $3 5 . 1 \\%$ hemicellulose and $1 9 . 3 \\mathrm { - } 2 4 . 5 \\%$ lignin. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "If during the processing of lignocellulosic material into biofuel,all of the cellulose was converted into biofuel,then biofuel yield would be entirely dependent on the amount of cellulose.However, it is likely that only part of the cellulose will be extracted making the ease at which that cellulose is extracted,rather than the total amount, important. This may explain why cellulose content tends not to determine the differences in digestibility(e.g. Murozuka et al.，2015). Habib et al. (1995) actually found a negative relationship between cellulose content and digestibility; Lindedam et al. (2012） suggested that this result may be due to the positive correlationseen between cellulose andhemicellulose contents and the negative impact hemicellulose has on sugar release.This may result from differences in the amount of leaf material between samples as leaf material has been shown to have higher digestibility but lower proportions of cellulose and hemicellulose than stem (see below); the negative relationship between cellulose content and digestibility could，therefore，be because as leaf proportion increases relative to stem proportion,digestibility increases whilst the overall proportion of cellulose and hemicellulose decreases. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lignin and hemicellulose restrict access to the cellulose in the cell wall, so they need to be removed during pretreatment toallowhydrolysisof the cellulose.There fore, the amounts of lignin and hemicellulose in the lig nocellulose material are likely to influence digestibility ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lindedam et al. (2012) found digestibility was negatively correlated with lignin content，but Habib et al. (1995) did not find a relationship.Wu et al. (2014) found a negative correlation between sugar release and hemicellulose content,but Lindedam et al.(2o12) found a positive relationship,although their assay was considering sugar release from both cellulose and hemicellulose, which is in contrast to most other assays that just considered sugar release from cellulose.Lindedam et al. (2010a) found that differences in digestibility were independent of chemical composition. Regarding lignin,an explanation for the inconsistency in these results could be due to the ease at which lignin is removed being determined by the specific location of the lignin and the mechanism in which the lignin is interacting with other components of the cell wall，rather than the total amount of lignin present. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As well as the carbohydrates in the cell wall, soluble carbohydrates may also influence digestibility.Incomplete translocation of soluble carbohydrates from the stem to the grain means that these are available for conversion to biofuel (Capper et al.，1992). Tolera et al. (2008)suggested that the differences in digestibility between years that they found in their study could be due to differing amounts of soluble carbohydrates in the stem resulting from variation in rainfall between years; they hypothesized that high rainfall in one year led to higher digestibility either by increasing leaching of soluble carbohydrates from the stem or by increasing the rate of soluble carbohydrate translocation to the grain. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Plant matter also consists of ash,which is the inorganic residue. Negative correlations between ash contentand digestibilityhave been identified (e.g. Lindedam et al.,2012). One possibility for this negative correlation is that additional ash is present at the expense of cellulose,although it is also likely that additional ash is inhibiting sugar release through processes that have yet to be determined.When considering individual elements，Murozuka et al.(2015)found that digestibility was not related to silicon content but was negatively correlated to potassium and sulphur contents,which suggests that nutrient availability in the soil could influence digestibility. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another factor that is important in determining digestibility is the gross morphology of the plant (Capper,1988). Digestibility varies with cell and tissue types, with overall digestibility varying with the proportions of each (Travis et al.，1996). One of the main explanations for differences in digestibility among cultivars is the relative proportions of the different plant compo nents.Leaf material has been shown to be more digesti ble than stem resulting in overall digestibility varying with the leaf-to-stem ratio (i.e. the leaf proportion [LP]; ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Kernan et al.,1984; Capper,1988;Habib et al.,1995; Tolera et al.,2Oo8).Leaf blade has greater digestibility than the leaf sheath (Ohlde et al.,1992) whilst chaff is also more digestible than the stem (Kernan et al.,1984). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Leaf proportion is both genetically and environmentally determined.Increasing days to heading leads to a greater LP (e.g.in barley and rice,Capper，1988)and digestibility is positively correlated with days to heading(e.g. Tolera et al.,20o8) although this was not seen in Ramanzin et al. (1991). Plant height also influences digestibility through tallerplants tending to have lower LP(e.g. Collins et al.,2014). Jensen et al. (2011） found digestibility decreased with increasing plant height; however, this is not always seen with Habib et al.(1995) reporting no relationship whilst Lindedam et al. (2012) found digestibility increased with increasing plant height (with overall digestibility unrelated to LP).Earlier harvesting has been found to lead to higher digestibility through greater leaf retention (McCartney et al.,2oo6).Weather conditions can also influence LP (Capper,1988). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In contrast to this,Ramanzin et al.(1991) found that LP was only of minor importance in determining overall digestibility of cultivars as the digestibility of individual components (i.e. leaf and stem） varied among cultivarsaswell.Ohlde et al.(1992) found that digestibility decreased along the stem with the lower stem the least digestible; this could be due to variation in the proportion of specific tissues comprising these components (e.g.epidermis，mesophyll，parenchyma sclerenchyma,xylem and phloem） as these are thought to have an influence on digestibility (Capper,1988; Goto et al.,1991). Travis et al. (1996) found that digestibility was related to the thickness of sclerenchyma and epidermis,and the density of epidermis.Lindedam et al. (2012） suggested that the positive correlation between digestibility and plant height were due to the greater growth of the stem meaning that the tissue was easier to convert,rather than resulting from a difference in LP. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Theimportanceof thesedifferences for the selection of cultivars for use as DPCs and for breeding purposes depends on the stability of this digestibility.Determining this stability requires quantification of the extent that digestibility is influenced by genetic and nongenetic determinants (Oakey et al.,2013). Environmental effects were seen in Jensen et al. (2011),where digestibility differed between the two locations,but not in Larsen et al. (2012).Some studies did not use samples from multiple sites (e.g. Wu et al.,2014) preventing an assessment of environmental impacts.Differences in the relationships between digestibility and other factors,such as conflictingrelationships between plant height and digestibility, could be due to environmental and management conditionsfavouring differentplantgrowthand development; however, the information provided in the literature does not facilitate further consideration of these environmental drivers on digestibility. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Studies have attempted to determine the heritability of digestibility to determine whether itis anappropriate target for breeding programmes.Based on differences among both cultivars and locations,Jensen et al. (2011) andLindedam et al.(2012) calculated $2 9 \\%$ and $57 \\%$ heritability of digestibility，respectively，suggesting that breeding programmes could increase the digestibility of future cultivars.However,the design of these experiments,along with the digestibility assessments,is likely to only capture some environmental variability as only a limited number of locations were compared，often without intralocation replication,and only a single season of data was collected. The biomass sampling might also not be representative of the straw used for biofuel production as the majority of studies used handcollected straw samples，which might include more chaff andleafblades than thebaled strawused for biofuel production;only Lindedam et al.(2o1Oa)used baled straw for their assessments. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Oakey et al. (2013） argue that experimental design must consider both the field trial and laboratory work asthese both significantly influence digestibility.A robust experimental design can better predict the genetic determinant of digestibility. For future assessments of digestibility,experimental design must, therefore,be carefully considered so as to provide better estimates of the potential increase in digestibility that is achievable. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the traits identified as being related to digestibility,it is suggested that plants should be bred to have lower ash and lignin contents and higher LP.It is unclear how feasible it is to alter these traits using conventional breeding programmes.Transgenic technologies may provide a more effective means of improving digestibility. They could provide a more targeted method for changes,such as altering the lignin biosynthesis mechanism (Phitsuwan et al.,2013). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lodging susceptibility ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lodging is defined as the state of permanent displacement of cereal stems from their upright position (Pinthus,1973;see Berry et al.，2004;for a review of lodging in cereals).Lodging events result from complex interactions between the plant，wind,rain and soil (Baker et al.,1998). The impacts of lodging vary greatly with many lodging events only causing small grain yield reductions whilst others can lead to reductions of up to $8 0 \\%$ (Berry et al.，2004).It is estimated that in 1992，severe lodging in the UK cost growers up to £130 million (Sterling et al., 2003). Lodging, particularly towards the end of the growing season，can reduce grain quality,such as by reducing Hagberg falling number,which limits the uses of the grain and likelihood of it achieving a premium price (Berry et al., 2004,2007) hence further incentivising farmers to reduced lodging susceptibility. Lodging events can also increase farm operation costs，such as through increasing combine harvester costs (ABC,2014),and can slow harvesting, potentially delaying field preparation for the next crop (Refsgaard et al.，20o2). Lodging can also reduce moisture loss from the grain prior to harvest, increasing the need for grain drying postharvest (Baker et al., 1998). It is estimated that,on average, severe lodging occurs in UK wheat crops every 3-4 years when $1 5 \\mathrm { - } 2 0 \\%$ of the arealodges (Berry et al.,2004). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There are two distinct types of lodging: stem lodging which is caused by the breaking of lower culm internodes and occurs when the stem bending moment exceeds the strength of the stem base,and root lodging, which is caused by disturbance to the root-soil interface and occurs when the total bending moment of a plant exceeds the strength of the root-soil interface (Berry et al.,2oo4). The plant structure influences the likelihood that a plant will lodge;in modelling the failure wind speed of wheat (i.e. the minimum wind speed that is likely to cause lodging in a particular plant at a particular time)，Baker et al. (1998)and Berry et al. (2003a) modelled the bending moment (also known as the leverage force),calculated from the height at the centre of gravity (HCG) of the plant, the natural frequency and the drag of the plant based on the ear area.The strength of the stem base is based on the stem material strength, which is determined by the breaking strength of the stem (tensile failure strength),internode length,and the stemradiusandwallwidthof thelower internodes.For rootlodging, the root-soil interface strength is based on the root plate spread and depth. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As cultivars vary in their structural characteristics (e.g.HCG),this leads to cultivars varying in their lodgingresistance.Berry et al.(2oo3b) found that,fora selection of 15 cultivars,stem failure wind speed ranged from $9 . 7 9 \\mathrm { ~ m ~ s ~ } ^ { - 1 }$ to $1 2 . 7 1 \\mathrm { ~ m ~ s ~ } ^ { - 1 }$ and root failure wind speed ranged from $7 . 1 5 \\mathrm { ~ m ~ s ~ } ^ { - 1 }$ to $1 1 . 8 1 \\mathrm { ~ m ~ s ~ } ^ { - 1 }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Farmers seek to minimize lodging through cultivar selection (Berry et al.,2004).RLs,such as those provided by the Home Grown Cereals Authority (e.g. HGCA, 2012), provide metrics for lodging resistance. As lodging events can cause substantial yield and quality losses,it is unlikely that farmers would to be willing to grow cultivarswithhigherstrawyields ordigestibilityif theyare more susceptible to lodging; however, the relationship between plant structure and lodging susceptibility suggests that there are potential trade-offs between having good lodging resistance and improving other key DPC traits.The next section examines these aspects as well as other potential trade-offs between the key DPC traits. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Trade-offs ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The literature described above has demonstrated cultivarvariationin thestrawyields,strawdigestibilityand lodging resistance. Some of these studies have considered the relationship between these traits and grain yield.Relationships among the other traits have only received minor attention，and there are only limited direct measurements comparing these traits; however, correlations between various traits suggest that there may be trade-offs among these key crop traits. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Considering potential trade-offs with grain yield is important because the breeding of cultivarswith increased straw yield,at the expense of reduced grain yield，might exclude that straw from use as biofuel feedstock in the EU due to legislative definitions in addition to lowering returns from grain sales. Proposed revisions (EU,2014) to the Renewable Energy Directive (EU,2009a) and Fuel Quality Directive (EU,2009b) suggest that a by-product (e.g.straw) will not gain classification as a ‘processing residue' (which gives benefits in double counting of energy contribution and the allocation of zero life cycle GHG emissions prior to its collection;EU，2009a） if the by-product component of the crop has been increased at the expense of the main product.However,it is unclear whether this definition precludeschangingcultivarstoincreasestraw digestibility (rather than biomass per se) if the increase in digestibility leads to a reduction in grain yield;it would，however，be expected that this development wouldbeundesirable. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Grain and straw yields ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Farmers in the UK are unlikely to sacrifice grain yield for increased straw yield because the value of straw is considerably lower than that of grain due to both less return per tonne and lower yields per unit area. Among high grain-yielding cultivars,there is variation instraw yield (Larsen et al.，2O12;Bruening et al., 2014)，which suggests that cultivars can be selected for higher straw yields without compromising grain yield. The possibility of increasing straw yields beyond that ofmodern cultivarswithout compromisinggrain yields will depend on the relationship between the yield components. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Breeding progress has led to increases in grain yields (absolute yield as well as a proportion of total biomass) over the past hundred years whilst straw yields have decreased (Austin et al.，1980;Shearman et al.，2005- see Fig.1a-c).There are two mechanisms through which the grain yield can increase: through an increase in partitioning of resources to the grain (i.e.increase HI) and through an increase in AGDM. In a comparison of Britishwheatcultivarsreleasedbetween 19o8and1978, Austin et al.(198o) found nongrain biomass tended to decrease whilst grain yields increased with newer cultivars; this change was attributed to increases in HI without an increase in AGDM.Extending the comparison to cultivars released between 1830 and 1986,Austin et al. (1989) found the same pattern although AGDM was slightlyhigher for the newest cultivars they measured. Shearman et al.(2oo5) considered cultivars released between 1972 and 1995 and found that,whilst improvement in grain yield up to 1983 resulted from increases in HI,after 1983,these were mainly the result of increases in AGDM. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Similar studies have been conducted in other major wheat-producing countries.In a comparison of Argentinian cultivarsreleasedbetween 1912 and1980,Slafer &Andrade(1989) found that grain yield increased with date of release,but overall,there was no increase in AGDM.Brancourt-Hulmel et al. (2oo3) found the same relationship when comparing French cultivars released between 1946 and 1980.Zhou et al.(2014) considered cultivars released from 1995 to 2012 in Henan Province China and found an increase in both AGDM and HI. Waddington et al.'s (1986) investigation ofMexican wheat cultivars found higher AGDM in newer cultivars. Donmez et al. (2oo1) considered cultivars grown on the American Great Plainsreleased between 1873 and 1995 and found four cultivars released between 1992 and 1995 as having greater AGDM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The purpose of these studies has been to use past trends to infer future potential for grain yield increases. Ascan be seen from the studies discussed above, increases in HI have been mainly responsible for increases in yield,but there is evidence that AGDM has also increased. The potential for increasing wheat grain yields has been extensively reviewed (see Reynolds et al.,2009,2012;Foulkes et al.,2011;Parry et al.,2011). The feasibility of increasing straw yields in wheat has not been given attention but,interestingly,increases in grain yield might necessitate increases in straw yield. This is because there is a limit to the HI and increasing grain yields beyond,this will require an increase in AGDM (Shearman et al.,2005;Lorenzetal.,2010).The limit to HI is unknown but Austin et al. (198O) hypothesized that there isan upper limit to HI of O.62 based on extrapolating from an average HI and assuming leaf sheath and stem biomass could decrease by $5 0 \\%$ (Austin et al.，1980).Foulkes et al. (2011）revised this to ${ \\sim } 0 . 6 4$ based on assumptions about additional AGDM production. However,in recent years, there has not been a systematic increase in HI of wheat cultivars (Reynolds et al.,2009).These HI might prove to be infeasible,in particular as they do not take account of the need for adequate stem biomass to prevent lodging (Foulkes et al.,2011),necessitating the need for higher AGDM. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There is the possibility of increasing AGDM through increasing radiation-use efficiency (Long et al.，2006) such as through increasing photosynthetic capacity and efficiency (Parry et al.，2O11).With thisincrease in AGDM,it would be expected that straw yields will also increase;however，there might be a practical limit to AGDM increases due to the interaction between straw yield and lodging,which is explored in the following section. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Straw yields and lodging resistance ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In general, there is a strong correlation between straw yield and plant height (Engel et al.，2oo3;Larsen et al., 2012; Long & McCallum,2013). This correlation suggests selecting cultivars with high straw yield is likely to lead to the selection of taller cultivars and,because plant height correlates with lodging risk (e.g. Baker et al.，1998;Berry et al.，2003a),to an increased risk of lodging.This is supported by Berry et al. (2004）who showed that increasing biomass leads to a greater HCG, hence increasing lodging risk (though distribution of dry matter along the stem was important in the overall influence of biomass on HCG). However,among current cultivars,the relationship between plant height and straw yield isnotalwaysobserved;for example,Donaldson et al.(2oo1） found that the straw yields of a semidwarf cultivar did not differ significantly from standard height or tall cultivars.It may be possible to find cultivars that have high straw yield whilst also maintaining good lodging resistance through having shorter stems. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As discussed in the previous section，greater straw yields could result from increased AGDM.To avoid reduced lodging resistance, this increase in AGDM will need to be achieved without significantly increasing plant height.Increasing AGDM could,in fact,lead to greater lodging resistance: Berry et al. (2oo7） suggested lodging resistance could be improved by having greater weight per unit length of the lower internodes,which would increase stem material strength but would also necessitate additional AGDM. Further work is needed to explore the relationship between lodging susceptibil ityand straw yields. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Straw digestibility and grain yields ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There appears to be no relationship between grain yield and straw digestibility (e.g.Ramanzin et al.,1991;Habib et al.，1995;Jensen et al.，2011；Lindedam et al.,2012), suggesting that selecting or developing cultivars with higher digestibilitywill not negatively impact on grain yields.However,attempts to increase digestibility could lower grain yield through compromising plant fitness. Altering the cell wall components could result in weakening of the plant tissues, leading to reduced integrity (Pauly & Keegstra,2Oo8） potentially leaving the plant more susceptible to pathogens and pests (Li et al.,2008). In studies where Arabidopsis had been genetically modified to have lower recalcitrance to digestion,some,but not all,of these studies found the plants had poor growth due to growth defects or altered susceptibility to pests or pathogens (Zhao & Dixon,2014). It can be surmised that there is a limit to how much digestibility can be improved without compromising grain yields. Whether the variability in digestibility seen among current cultivars also reflects variability in susceptibility to pests or disease has not been assessed in the available literature. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Strawdigestibilityandlodgingresistance ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It has been hypothesized that stem digestibility is negatively correlated with lodging resistance.It has been suggested that breeding to reduce stem lodging through greater straw stiffness (i.e. stem material strength，see section ‘Lodging susceptibility'） resulted in modified anatomical features of the stem that decrease the digestibility of the straw.Data presented in the literature have been conflicted: Lindedam et al. (2010a) suggested that the low digestibility of one cultivar resulted from it having stiff straw，whereas Travis et al.(1996) found that a stiff-strawed wheat cultivar was more digestible thanasoft-strawedwheat cultivar. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It is thought that lignin plays a role in lodging resistance with greater lignin content increasing lodging resistance (Ma, 2009).As some assays have found a negativerelationship between lignin content and digestibility (e.g. Lindedam et al.,2012), this would support that there is a trade-off between lodging resistance and digestibility.However,there is little experimental evidence for a correlation between lignin content and digestibility with some studies not finding a correlation (e.g. Kong et al.,2013). It is possible that any impact that the variation in lignin content has on lodging resistance isoutweighed by structural characteristics such as leverage force,making it dificult to identify a relationship between lignin and lodging. Also,not all of the lignin may be playing a mechanical role (Kohler & Spatz 2002),and therefore,the total amount of lignin present is not as important as how much of the total lignin is contributing to mechanical strength.This offers the possibility that nonstructural lignin could be removed without negatively impacting on stem strength; however, this lignin may be important for other processes unrelated to mechanical strength. Wang et al. (2012) suggested that cellulose might be more important in determining lodging resistance，which could further support the possibility of removing lignin without sig nificantly affecting lodging resistance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As discussed in the previous section,modifications of the cell wall for improved digestibility could reduce integrity，which could result in greater lodging risk Interestingly,Li et al. (2015) found that overexpressing the genes GH9B and XAT in rice simultaneously increased both digestibility and lodging resistance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Among the currently grown cultivars，there might actuallybeapositive correlation betweenstraw digestibility and lodging resistance.This is because shorter cultivars tend to be associated with higher LP, giving higher digestibility，and lower stem leverage force，giving greater lodging resistance. Complicating this,however,are the contradictory results from Jensen et al.(2011) and Lindedam et al. (2012),so it is unlikely this is a consistent relationship.It is unclear why these studies differed in this relationship as the cultivars were grown at the same locations and followed the same management practices. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,depending on the strength of the relationship between plant height and digestibility, this suggests that taller cultivars，which are likely to produce the most straw，are likely to have lower digestibility, potentially indicating a trade-off between digestibility and straw yield. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Crop management ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As grain yield has been the priority in crop production, management practices have been optimized to maximize this. It is possible that management practices could be used to maximize the other key traits of a DPC.This section considers how management practices,other than cultivar selection,can be used to increase straw yield anddigestibilityand considershow thesemay influence grain yield and lodging resistance. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plant growth regulators (PGRs） are used to reduce the lodging risk by shortening plant stems through reducing cell elongation and decreasing cell division (Berry et al.,2004)Berry et al.,2007).In the UK,PGRs wereapplied to $8 8 \\%$ of the winter wheat area in 2010 (Garthwaite et al.,2011).With the reduction in height,it would be expected that straw yields would also decrease;however, there are few studies that have compared straw yields between PGR treatments. Bragg et al. (1984） found that although application of the PGR chlormequat reduced plant height,it did not significantly influence straw or grain yields.PGR application shortened plant height but did not influence overall ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AGDMin winterwheat(Cox& Otis,1989)ortriticale (Naylor,1989).Ina glasshouse trial of cereals,Rajala& Peltonen-Sainio (2001） found that PGR application reduced main stem growth and weight; however， this was for an early application of PGRs and measurements were taken 14 days after application. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A limited number of studies found PGR application slightly reduced stem strength (Crook & Ennos,1995; Berry et al.，20oO)，suggesting that PGR application could affect digestibility. It would also be expected that by reducing plant height，PGRs would lead to an increase in digestibility through an increase in the LP. Taken together，these suggest that PGR application might increase digestibility;however,in the two studies considering this a consistent pattern was not found. Sharma et al. (200O) found that PGRs，when applied with fungicide,increased digestibility though the independent effects of the PGR and fungicides were not determined. Savoie et al. (1994) did not finda consistent PGR effect on digestibility, but PGRs were only applied 62daysbefore harvest,so itisunlikely that they had a large influence on plant form. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "From these studies,it is unclear how much of an impact PGR application has on straw yield or digestibility and further work is needed to quantify these.From a trade-off perspective,PGR application can lead to a reduction in the area lodged by anything up to $70 \\%$ (Berry et al.，2004)，so the benefits of PGR application are likely to outweigh a small decrease in straw yield and digestibility. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lowering the height of the combine harvester cutter bar decreases stubble height enabling a greater amount of straw to be baled (Allen，1988)；however，farmers might not want to set the cutter bar too low as lowering it increases the straw moving through the combine and this can slow work rate and increase fuel requirements (Hill etal.,1987;Allen,1988;Kehayov et al.,2004).There is also a risk of damage to the cutters and contamination of grain with soil from cutting too low. Summers et al.(2Oo3) found that the height that rice straw is cut influences not only the straw yield but also the composition of the biomass material. Lowering the cutter bar could decrease overall straw digestibility due to increasing the proportion of straw consisting of lower stem, which is less digestible than the upper stem (Ohlde et al.,1992); this has been shown in barley straw feeding value (Wilson & Brigstocke,1977). It has been suggested that better quality straw can be achieved by just har vesting the tops of the plants (Kernan et al.，1984) although this wouldlead to low straw yields.Aslowering cutter height is associated with potential costs,the merit of doing so would depend on how much additional straw can be collected.There is also the problem of reducing the amount of residues being returned to the soil,which may not be sustainable (see discussion of sustainable straw removalin section Introduction'). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Altering N fertilizer application rate influences crop characteristics.The amount of N fertilizer applied influences grain yield (Hay& Walker,1989).Recommended levels of fertilizer are based on the economic optimum application rate that takes account of the grain yield hav ing a curvilinear response to N application rate. The N applied also depends on the use of the grain，with bread-making quality grain requiring extra $\\mathrm { \\Delta N }$ fertilizer for the grain to have higher protein content (ABC,2014). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Above ground dry matter responds to increasing N in a similar manner to grain (White & Wilson,2006),but there is limited work investigating how straw yield responds to $\\Nu$ fertilizer rates above the economically optimal rates for grain production.Pearman et al.(1978) suggested that straw yield (stem weight and leaf area) was increased relatively greater than grain yield with the application of extra N;it is,therefore,feasible that strawyields couldbe increased further. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fertilizerlevelshavebeenshownto havean influence on digestibility though the influence is inconsistent:Flachowsky et al.(1993) found that very high applications of N led to higher digestibility,whereas Murozuka et al. (2014) found that higher N fertilizer application rate led to lower straw digestibility. Tolera et al. (20o8) found that increasing $\\mathrm { \\Delta N }$ and $\\mathrm { \\Delta P }$ fertilizer application did not changedigestibility;andKernan etal.(1984) found that increasingNled to higherleaf digestibility, the same or lower digestibility in stem and no difference in chaff; the actual difference in digestibility among fertilizer treatments was very small. The reason for the inconsistency isunclear although these articles do represent different locations and use different timings forN fertilizer application. Murozuka et al. (2014) suggested decreasing digestibility from increasing fertilizer level might be due to an increase in inhibitory factors or a decrease in LP.It is possible that several factors,such as the compo sition of cell wall components and LP,are interacting which could explain the different results.In these studies,LP was not measured and it is unclear howLP varieswithNfertilizerrate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "If benefits to straw yield and digestibility are shown for high N fertilizer rates, this could shift the economically optimal fertilizer level towards the application of greater amounts of fertilizer.However，any additional N could increase lodging risk as Berry et al. (2000) found that the timing of $\\mathrm { \\Delta N }$ application and the amount of N applied,as well as the amount of soil residual N influenced lodging resistance, with low soil residual N or low and delayed spring N application leading to stronger stem bases.There are also limitations to the amount of N fertilizer that can be used due to environmental considerations,such as nitrate leaching (Di & ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Cameron,2002) and the high GHG emissions associated with N fertilizer production and use (Snyder et al., 2009).This suggests that changing fertilizer practices would be unlikely to happen specifically for improved traitsalthough theremovalof straw from the fielddoes necessitate increased fertilizer requirements,in particularphosphorus and potassium (Whittaker et al.,2014); however,there is debate about whether straw removal leads to the need for additional N relative to leaving the straw in situ as the microbial breakdown of incorporated straw tends to require additional N itself (Powlson et al., 2011). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Earlier sowing can lead to higher straw yields (Donaldson et al.,2oo1) aswell as higher grain yields (Hay & Walker,1989)although this could come at the expense of increased lodging risk (Berry et al.，20oO),as well as disease，weed,pest and drought risks (Hay & Walker, 1989). There are also limitations to how early the crop can be sown due to a need to harvest the previous crop and prepare the land; this is likely to be even more limited if time is required for baling straw from the previous crop. Reducing the tillage operations (e.g. using no till or reduced tillage) could speed up sowing of the wheat crop (Morris et al.,2010). It does not appear that wheat straw digestibility has been measured under different sowing dates although it would be expected that sowing date would affect LP,which would lead to differences in digestibility. In winter barley,sowing date did not influence LP or the digestibility (Capper et al., 1992);however, this was for a single field experiment and,in general, the influence of sowing date on crops is highly variable as it is dependent on weather conditions (Hay&Walker,1989). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sowing density can influence grain and straw yields. Whaley et al. (2ooo) found that plants at lower seed rates compensated by increasing tillering duration, green area per shoot and shoot survival, which resulted in no significant difference in AGDM with sowing density; however, they suggested that at medium sowing density,HI would be higher,which suggests this would have lower straw production. Donaldson et al. (2001) found that low straw yields were achieved at low sowing densities regardless of sowing date,whereas grain yield was only reduced from lower sowing density for later sowing dates. Lower sowing density has been shown to reduce lodging risk (Berry et al., 20oo). To our knowledge,no work has considered how sowing density influencesdigestibility；however，Whaley et al. (2000) found a general increase in green area per potentially fertile shoot with decreasing plant density sug gesting an increase in LP at lower sowing densities. Differences in digestibility could potentially result from different ratios of main stems to tillers,possibly through changing LP.Increasing sowing density has been shown to reduce stem diameter (Easson et al.,1993),which is associated with lower lodging resistance. It has been suggested that reduced stem diameter could have an influence on digestibility through changing the proportionsofstructural tissues;however，a correlation between digestibility and stem diameter has not been found (Capper,1988;Habib et al.,1995). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Recommendations ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "From the literature presented in this review, there is the potential to develop a wheat DPC although the scope to improve individual traits is limited.Specific cultivars that have high grain yields alongside high straw yields have been identified although there are currently limits on increasing straw yields further without compromisinggrain yields. Should radiation-use efficiency be improved then this offers the opportunity for higher straw yields.The variation in straw digestibility among cultivars and the fact that digestibility is not correlated with grain yield suggest that cultivars can be bred to havegreaterdigestibility;however，improving digestibility beyond that seenin current cultivarsmight not be possible without compromising plant fitness. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "There does not currently appear to be sufficient incentives fora dedicated breeding programme for developing wheat DPCs. Before embarking on a breeding programme,it needs to be determined whether there wouldbea sufficientmarket for thesecultivars.Wilson et al.(2014) found that if wheat straw were to reach $\\mathrm { ~ \\pounds 1 0 0 ~ t ^ { - 1 } ~ } ,$ ，some farmers in England with both livestock and arable land would be willing to grow cultivars with longer straw (i.e.greater straw yields). Considering the recent straw prices of approximately $\\boldsymbol { \\mathrm { \\tt f } 4 5 \\mathrm { \\tt f } ^ { - 1 } }$ in England andWales (Anon,2014b),it is unlikely farmers would currently choose longerstrawed cultivars. Taken together with the lack of market for high digestibility straw (for either bioenergy or animal feed),it appears that there is currently not a market for DPCs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "There are a number of potential benefits to the use of DPCs.Provided that it does not decrease grain yields, increasing straw yields should increase farm revenue. Higher straw yields also lead to increased baling efficiency，which means farmers can supply a set amount of baled straw to a bioenergy plant in a shorter amount of time and at lower cost (Nilsson,1999;Kihner,2013). Increasing feedstock supply density (e.g. by increasing the straw yields) can decrease the area of land required to meet a specific feedstock demand，which could decrease transport distances and，therefore，transport costs for large-scale biomass use for biofuel production (Hamelinck et al., 20o5). Similarly,increasing digestibility could lower feedstock requirements,and this could also result in reduced logistics costs.Because of this, bioenergy producers might be interested in encouraging biomass suppliers to grow DPCs. Work is required to quantify these benefits.Alongside an increase in straw demand，these benefits could create a demand for DPCs. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In section ‘Straw digestibility',it was suggested that digestibility could be increased through having lower ashand lignin contents andhigher LP;however,before embarking on a breeding programme to optimize these traits,it is important to determine the strength of the relationships between these traits and digestibility.As there are many factors that can potentially influence digestibility，changing a single trait may only have a minor impact on overall digestibility.Research is also needed to determine the variability in these traits and how this influences overall digestibility;as marketing cultivars as being more digestible will require a certain level of consistency in digestibility,which may not be possible if these traits show high levels of variability. Alongside this it is recommended that cultivars are assessed to identify the potential cultivars for use as DPCs,or to identify the genetic material for use in DPC breeding programmes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "One difficulty in determining whether to breed cultivars for higher digestibility is whether these cultivars will have a premium for the higher digestibility. Uncer tainties about which types of pretreatment conditions and enzymes that will be used mean that the assays used in the assessments are unlikely to correspond to those used at the industrial scale; hence, the variation in digestibility seen among cultivars in the current assessments might not be seen in practice. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There is also the issue of whether the results of the assays scale up from laboratory to commercial production scale.Lindedam et al. (2010a) used pilot plant-scale production and found that cultivar variation was still seen;however,differences were only seen under specific enzyme loadings suggesting that differences in digestibilitywill depend on the systemutilized for commercial-scale production.Itis recommended that efforts to develop cultivars with higher digestibility are aligned with the development of specific biofuel conversion processes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Although higher digestibility could reduce costs for biofuel production,it is unclear whether biofuel producers will pay more for higher digestibility straw.This would require beingable to determine the digestibility of the feedstock when it arrives at the biorefinery.Current assays are expensive and time-consuming (Collins et al.,2014),which is likely to prohibit them from being used. However, work is considering methods involving the use of spectroscopy to determine the digestibility (e.g.Bruun et al.,2010;Lindedam et al.，2010b),which might allow quick assessment at the biorefinery. But even with this, biofuel producers might not be willing to offer different prices based on digestibility.For example,bioethanol yield of wheat grain used for FGB production varies with cultivar (Smith et al.,2Oo6) but, for example,at the Ensusplant in Teeside,UK,there is currently a flat rate paid per tonne of grain,regardless of potential bioethanol yield (Nick Oakhill，pers.comm., Glencore).Another example is that of straw used for straw-burning power stations in Denmark; leaving the straw on the field to be exposed to rain produces a better fuel by washing away substances such as chlorine, but farmers are not financially rewarded for doing this asstraw is priced based only on weight and water content (Skott,2011).Wheat straw digestibility might also be excluded from differentiated pricing in line with the above examples. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Asmanagement practices have been optimized to provide the highest grain yields,itisunlikely that farmers would be willing to change these. Some practices that maximize grain yield also maximize straw yield, whereas others can lead to trade-offs.The use of PGRs clearly benefits grain yield through improved lodging resistance but does not appear to have a significant impact on straw yields.Selecting taller cultivars could lead to higher straw yields though that is not always found,and it would lead to greater risk of lodging. Lowering the cutter barheight can increase straw yield, but there are other considerations,such as sustainable residueremovalratesandadditional fuel costs forharvesting. Should farmers wish to increase straw yield, earlier sowing with a medium or high sowing density offers one way of increasing straw yield though there is an increased risk of lodging and carry-over of disease and pests.Earlier sowing requires quick field preparation after the previous crop,and this may necessitate changes to tillage practices，such as reducing tillage intensity. Careful consideration of the rotationalongside other management practices for pest and disease control is also needed to reduce the risk of carry-over of disease and pests. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Before a biofuel industry is established，work is required to determine howmuch feedstock canbemade available without compromising food production or the environment and without competing with other straw users.This includes determining sustainable residue removal rates for specific locations; this may necessitate the development of new methodologies for testing soil properties for quick determination of safe levels of straw removal. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Overall, there is considerable uncertainty in the future of the biofuel sector in Europe.This suggests that cur rently there is little value in developing DPCs. The research presented in this review supports the possibility of improving straw yields and digestibility although cautions that care must be taken to avoid negative impacts on grain yields and lodging resistance. Should a biofuel sector develop then there is scope for developing DPCs. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work is part of TJT's PhD project funded by the Home Grown Cereals Authority (RD-2010-3741) and the University of Nottingham. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "ABC (2014) The Agricultural Budgeting and Costing Book,November 2014 (79th edn). Agro Business Consultants Ltd., Melton Mowbray, UK.   \nAdenA,Ruth M, IbsenKetal.(2oo2) Lignocellulosic Biomass to Ethanol Process Design andEconomics Utilizing co-Current Dilute Acid Prehydrolysis and Enzymatic Hydrolysis for Corn Stover.National Renewable Energy Laboratory,Golden,COUSA. Available at: http://www.nrel.gov/docs/fy99osti/26157.pdf (accessed 18 August 2015).   \nAllen RR (1988) Straw recovery as affected by wheat harvest method.Transactions of the ASAE,31, 1656-1659.   \nAllen B, Kretschmer B, Baldock D,Menadue H,Nanni S, Tucker G (2014) Space for Energy Crops-Assessing the Potential Contributionto Europe's Energy Future.Report produced for the Institute for European Environmental Policy, London.Available at: http://wWW.eeb.0rg/EEB/?LinkServID=F6E6DA60-5056-B741-DBD250D05D4 41B53 (accessed 18 August 2015).   \nAndrews SS (2oo6) Crop residue remooal for biomass energy production: effects on soils and recommendations.White paper, USDA-Natural Resource Conservation Service. Available at: http://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_ 053255.pdf (accessed 18 August 2015).   \nAnon (2013) Crescentino in Figures.Available at: http://www.betarenewables.com/ crescentino/project (accessed 18 August 2015).   \nAnon (2014a) Agriculture in the United Kingdom 2013.Department for Environment,Food and Rural Affairs,London, UK.Available at: https://www.gov.uk/ government/uploads/system/uploads/attachment_data/file/315103/auk-2013-29 may14.pdf (accessed 18 August 2015).   \nAnon (2014b) Hay $\\boldsymbol { \\mathcal { E } }$ Straw,England and Wales Aoerage Prices.British Hayand Straw Merchants'Association. Available at: https://www.gov.uk/government/statistical-data-sets/commodity-prices (accessed 18 August 2015).   \nAustin RB,Bingham J, Blackwell RD,Evans LT,Ford MA,Morgan CL, Taylor M (1980)Genetic improvements in winter wheat yields since 1900 and associated physiological changes. Journal of Agricultural Science, 94,675-689.   \nAustin BYRB,Ford MA,Morgan CL (1989) Genetic improvement in the yield of winterwheat:a furtherevaluation. Journal ofAgricultural Science,112,295-301.   \nBaker CJ, Berry PM, Spink JH, Sylvester-Bradley R,Griffin JM,Scott RK,Clare RW (1998)A method for the assessment of the risk of wheat lodging.The Journal of Theoretical Biology,194,587-603.   \nBerry PM, Griffin JM,Sylvester-Bradley R, Scott RK, Spink JH, Baker CJ, Clare RW (2000)Controlling plant form through husbandry to minimise lodging in wheat. Field Crops Research,67,59–81.   \nBerry PM, Sterling M, Baker CJ,Spink J, Sparkes DL (2003a)A calibrated model of wheat lodging compared with field measurements.Agricultural and Forest Meteorology,119,167-180.   \nBerry PM,Spink JH, Gay AP,Craigon J(2003b)A comparison of root and stem lodging risks among winter wheat cultivars.Journal of Agricultural Science,141,191- 202.   \nBerry PM, Sterling M,Spink JH et al. (2004) Understanding and reducing lodging in cereals.Adoances in Agronomy,84,217-271.   \nBerry PM, Sylvester-Bradley R, Berry S (2o07) Ideotype design for lodging-resistant wheat. Euphytica, 154, 165-179.   \nBlanco-Canqui H, Lal R (2oo9) Crop residue removal impacts on soil productivity and environmental quality.Critical Reviews inPlant Sciences,28,139-163.   \nBoydenA,HillL,LeducP,WassermannJ() Field tests toorrelate biomass,combine yield and recoverable straw.Prairie Agricultural Machinery Institute.Project No. 5000H   \nBragg PL,Rubino P,Henderson FKG,Fielding WJ,Cannell RQ (1984) A comparison of the root and shoot growth of winter barley and winter wheat,and the effect of an early applicationof chlormequat.Journal of Agricultural Science,1o3,257-264. (2003)Genetic improvement of agronomic traits of winter wheat cultivars released in France from 1946 to 1992. Crop Science,43,37-45.   \nBruening B,Curd R, Swanson S,Connelley J Olson G,Clark A,Van Sanford D (2014)2014 Kentucky SmallGrain Variety Performance Test.Collegeof Agriculture, Food and Environment,Universityof Kentucky.Available at: htp://www2.ca.uky.edu/agc/pubs/PR/PR674/PR674.pdf (accessed 18 August 2015).   \nBruun S,Jensen JW,Magid J,Lindedam J,Engelsen SB (2010) Prediction of the degradability and ash content of wheat straw from diferent cultivars using near infrared spectroscopy.Industrial Crops andProducts,31,2-326.   \nCapper BS (1988)Genetic variation in the feeding value of cereal.Animal Fed Science and Technology,21,127-140.   \nCapper BS,geGsondo92)Ifenefvret and time of sowing on the morphology,chemical composition and in vitro digestibilityof barley straw.Journal of Agricultural Science,118,165-173.   \nColins S,Wellner N,Martinez Bordonado I,Harper AL,Miller CN,Bancroft I, Waldron KW (2014) Variation in the chemical composition of wheat straw: the role of tissue ratio and composition. Biotechnology for Biofuels,7,121.   \nCopeland J,TurleyD (oo8)NationalandRegional Suply/DemandBalance forAgricultural Straw inGreat Britain.The NationalNon-Food CropsCentre,York,UK.   \nCox WJ, Otis DJ (1989) Growth and yield of winter wheat as influenced by chlormequat chloride and ethephon. Agronomy Journal,81,264-270.   \nCrook MJ,Ennos AR (1995) The efect of nitrogen and growth regulators on stem and root characteristics associated with lodging in two cultivars of winter wheat. Journalof Experimental Botany,46,931-938.   \nDefra (2014) Area of Crops Grown For Bioenergy in England and the UK:2008-2013. Department for Environment, Food and Rural Affairs, London, UK.Available at: www.gov.uk/government/statistics/area-of-crops-grown-for-bioenergy-in-englandand-the-uk-2008-2013 (accessed 18 August 2015).   \nDi HJ,Cameron KC (2002) Nitrate leaching in temperate agroecosystems: sources, factors and mitigating strategies.NutrientCycling inAgroecosystems,64,37-256.   \nDonaldson E, Schilinger WF,Dofing SM (2o01) Straw production and grain yield relationships in winter wheat. Crop Science,41,100-106.   \nDonmez E,Sears RG, Shroyer JP,Paulsen GM(2001) Genetic gain in yield attributes of winter wheat in the Great Plains.Crop Science,41, 1412-1419.   \nEasson DL,White EM,Pickles SJ (1993)The efects of weather，seed rate and cultivaron lodgingand yield in winter wheat.Journal of Agricultural Science,121, 145–156.   \nEngel RE,Long DS,Carlson GR (2003) Predicting straw yield of hard red spring wheat.Agronomy Journal,95,1454-1460.   \nEU (2009a) Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2O09 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC. Official Journal of the European Union,16-62.Availableat: http://eur-lex.eu ropa.eu/legal-content/EN/ALL/?uri=CELEX:32009L0028 (accessed 18 August 2015).   \nEU (2009b) Directive 2009/30/ECof the European Parliamentand of the Council of 23 April 2009 amending Directive 98/70/ECasregards thespecificationof petrol, diesel and gas-oil and introducing a mechanism to monitor and reduce green house gas emissions and amending Council Directive 1999/32/EC as regards the specification of fuel used by inland waterway vessels and repealing Directive 93/ 12/EEC.Official Journal of the European Union,88-113.Availableat:http://eurlex.europa.eu/legal-content/EN/TXT/?uri=celex:32009L0030 (accessed 18 August 2015).   \nEU (2014)Fuel quality directiveand renewable energy directive ${ } ^ { * * * } \\mathrm { { I I } }$ European Parliament legislative resolution of 28 April 2015 on the Council position at first reading with a view to the adoption of a directive of the European Parliament and of the Council amending Directive 98/70/EC relating to the quality of petrol and diesel fuels and amending Directive 20o9/28/EC on the promotion of the use of energy from renewable sources (10710/2/2014- C8-0004/2015- 2012/ 0288(COD))(Ordinary legislative procedure: second reading)．Available at: http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+ TA+P8-TA-2015-0100+0+DOC+PDF+V0//EN (accessed 18 August 2015).   \nFlachowsky G,Vanselow G,SchneiderA (1993) Influence of nitrogen fertilization of wheaton in sacco dry matter degradability of wheat straw. Journal of Applied Animal Research,3,91-96.   \nFoulkes MJ,Slafer GA,Davies WJet al.(20l1)Raising yield potential of wheat.II. Optimizing partitioning to grain while maintaining lodging resistance.Journal of Experimental Botany,62,469-486.   \nGarthwaite DG,Barker I, Parrish G, Smith L, Chippindale C,Pietravalle S(2011) Pesticide UsageSurvey Report235:ArableCropsintheUnitedKingdom2010(Including Agency,York,UK,and Department for Environment,Food and Rural Affairs, London, UK.   \nGlithero NJ,Wilson P,Ramsden SJ (2013a) Straw use and availability for second generation biofuels in England.Biomassand ioenergy,55,1-21.   \nGlithero NJ,Ramsden SJ, WilsonP(2013b)Bariers and incentives to the production of bioethanol from cereal straw: a farm business perspective. Energy Policy,59, 161-171.   \nGlithero NJ,Wilson P,Ramsden SJ (2013c) Prospects for arable farm uptake of Short Rotation Coppice willow and miscanthus in England.Applied Energy,107,209-218.   \nGlithero NJ, Wilson P,Ramsden SJ(2015)Optimal combinable and dedicated energy crop scenarios for marginal land.Applied Energy,147,82-91.   \nGnansounou E (2010) Production and use of lignocelllosic bioethanol in Europe: current situation and perspectives.Biresource Technology,101,4842-4850.   \nGoto M,Morita O,Chesson A (1991)Morphological and anatomical variations among barley cultivars influence straw degradability. Crop Science,31,1536-1541.   \nHabib G,Shah SBA,Inayat K (1995)Genetic variation in morphological characteristics,chemical compositionand in vitro digestibility of straw from different wheat cultivars.AnimalFeedcienceandTechnology55,63-274.   \nHamelinck CN,Suurs RAA,Faaij APC (20o5)International bioenergy transportcosts and energy balance.BiomassandBioenergy,29,114-134.   \nHarris D, DeBolt S (2010) Synthesis,regulation and utilization of lignocellulosic biomassPlantotechnologyournal,8,-6.   \nHay RKM(1995)Harvest Index: areview of its use in plant breeding and crop physiology.Annals ofApplied Biology,126,197-216.   \nHayRKM,WalkerAJ (1989)AnIntroduction to thePhysiology ofCrop Yield.Longman Scientificandchnical,e,U.   \nHGCA (2012) HGCA Recommended List Winter Wheat 2012/13.Agriculture and Horticulture Development Board,Stoneleigh Park,Kenilworth,Warwickshire.   \nHillLG,FrehlichGF,WassermanJD(987)Efectof MOG/GRatioand Grain Misture Content on CombinePerformance.AgricultureCanada,Ottawa,ON,Canada.   \nHimmel ME,Ding S-Y,Johnson DK,Adney WS,Nimlos MR, Brady JW,FoustTD (2007) Biomass recalcitrance: engineering plants and enzymes for biofuels production. Science, 315,804–807.   \nHuggins DRKarow,ColisHRasoJK1Itrouctionating long-term impacts of harvesting crop residues on soil quality. Agronomy Journal, 103,230-233.   \nJensen JW,Magid J,Hansen-Moller J,Andersen SB, Bruun S (2011) Genetic variation in degradability of wheat straw and potential for improvement through plant breeding.Biomass and Bioenergy,35,1114-1120.   \nJorgensen LN, Olesen JE (20o2) Fungicide treatments affect yield and moisture content of grain and straw in winter wheat.Crop Protection,21,1023-1032.   \nKehayov D, Vezirov C,Atanasov A (2004) Some technical aspects of cut height in wheat harvest. Agronomy Research,2,181-186.   \nKernan JA,Coxworth EC,Crowle WL, Spurr DT(1984) The nutritional value of crop residue components from several wheat cultivars grown at different fertilizer levels.AnimalFeedScienceandTechnology,11,-1.   \nKhanna M, Chen X (20l3)Economic,energy security,and greenhouse gas effects of biofuels: implications forpolicy.American Journal of Agricultural Economics,95, 1325–1331.   \nKim S,Dale BE (2011) Indirect land use change for bifuels: testing predictions and improving analytical methodologies. Biomass and Bioenergy,35,3235-3240.   \nKnapp JS,Parton JH,Walton NI (1983) Enzymic saccharification of wheat straw - differences in the degradability of straw derived from different cultivars of winterwheat.Journal of the ScienceofFoodandAgriculture,34,433-439.   \nKohler L, Spatz H-C (20o2) Micromechanics of plant tissues beyond the linear-elastic range.Planta,215,33-40.   \nKong E, Liu D,Guo X et al. (20l3) Anatomical and chemical characteristics associated with lodging resistance in wheat.The CropJournal,1,43-49.   \nKuhner S (2013)Deliverable fedstock costs.Project co-funded by the European Commission FP7 Directorate-General for Transport and Energy Grant No.282873. Availableat:http://bioboost.eu/uploads/files/bioboost_d1.1-syncom_feedstock_cost-vers_1.0-final.pdf (accessed 18 August 2015).   \nLafond GP,Stumborg M, Lemke R,May WE,Holzapfel CB,Campbell CA (2009) Quantifying straw removal through baling and measuring the long-term impact on soil quality and wheat production.Agronomy Journal,01,529.   \nLarsen SU, Bruun S, Lindedam J (2012) Straw yield and saccharification potential for ethanol in cereal species and wheat cultivars. Biomass and Bioenergy,45,239-250.   \nLee C,HerbekJ(2009)A Comprehensioe Guideto Wheat Management in Kentucky. University of Kentucky College of Agriculture.Available at: htp://www2.ca.uky.edu/agc/pubs/id/id125/id125.pdf (accessed 18 August 2015). ue LEUI IN, stock production. In: Genetic Improvement of Bioenergy Crops (ed. Vermerris W), pp.185-210.Springer,New York,USA.   \nLi X,Weng J-K,Chapple C (2o08) Improvement of biomass through lignin modification. The Plant Journal,54,569-581.   \nLiF,Zhang M,Guo K et al.(2015) High-level hemicelllosic arabinose predominately affects lignocellulose crystallinity for genetically enhancing both plant lodging resistance and biomass enzymatic digestibility in rice mutants.Plant BiotechnologyJournal,13,14-525.   \nLindedam J, Brun S,Jorgensen H,Felby C,Magid J(2010a) Cellulosic ethanol: interactions between cultivar and enzyme loading in wheat straw processing. Biotechnologyforiofuels,,25   \nLindedam J, Bruun S,DeMartini Jet al.(201ob) Near infrared spectroscopy as a screening tool for sugar release and chemical composition of wheat straw. Journal of BiobasedMaterialsandBioenergy,4,78-383.   \nLindedam J,Andersen SB,DeMartini J et al. (2O12) Cultivar variation and selection potential relevant to the production of cellulosic ethanol from wheat straw. Biomass andBioenergy,7,.   \nLindedam J,Bruun S,Jorgensen H etal.(2014)Evaluation of high throughput screening methods in picking up diferences between cultivars of lignocellulosic biomass for ethanol production. Biomass and Bioenergy,66,261-267.   \nLinden DR, Clapp CE, Dowdy RH (20oo) Long-term corn grain and stover yields as a function oftillage and residue removal ineast central Minnesota.Soil and Tillage Research,56,167-174.   \nLitlewood J,MurphyRJ,Wang L (2013)Importance of policy support and feedstock prices on economic feasibility of bioethanol production from wheat straw in the UK.Renewable andSustainable Energy Reviews,17,291-300.   \nLong DS, McCallum JD (2013) Mapping straw yield using on-combine light detectionandranging(lidar).InternationalJournalof Remote Sensing,34,6121-6134.   \nLong SP,Zhu XG,Naidu SL,Ort DR (206)Can improvement in photosynthesis increase cropyields?Plant,Celland Environment,29,15-30.   \nLorenz AJ, Gustafson TJ,Coors JG,de Leon N (2010)Breeding maize fora bioeconomy:a literature survey examining harvest index and stover yield and their relationship to grain yield. Crop Science,50,1-12.   \nLovett A,Sinnenberg G,Dockerty T (2014) The availability of land for perennial energycropsinGreatBritain.GlobalChangeBiologyBioenergy,6,99107.   \nMa QH (2009) The expression of caffeic acid 3-O-methyltransferase in two wheat genotypes difering in lodging resistance.Journal of Experimental Botany,60,2763- 2771.   \nMcCartney DH, Block HC,Dubeski PL,Ohama AJ (2006)Review: the composition and availability of straw and chaf from small grain cereals for beef cattle in western Canada. Canadian Journal of Animal Science,86,443-455.   \nMorris NL,Miller PCH,Froud-Williams RJ (2010) The adoption of non-inversion tillage systems in the United Kingdom and the agronomic impact on soil,crops and the environment—areview. Soil and Tillage Research,1o8,1-15.   \nMurozuka E,Laursen KH, Lindedam J et al. (2014) Nitrogen fertilization affects silicon concentration, cell wall composition and biofuel potential of wheat straw. Biomass and Bioenergy,64,291-298.   \nMurozuka E,de Bang TC,Frydenvang Jet al. (2015) Concentration of mineral elements in wheat (Triticum aestivum L.） straw: genotypic diferences and consequences forenzymatic saccharification.Biomass andBioenergy,75,34-141.   \nNasidi M,Agu R,Deeni Y, Walker G (2015)Improved productionof ethanolusing bagasse from different sorghumcultivars.Biomassand Bioenergy,72,8-299.   \nNaylor REL (1989) Effects of the plant growth regulator chlormequat on plant form and yieldof triticale.AnnalsofApplied Biology,114,533-544.   \nNilsson D (1999)SHAM-a simulation model for designing straw fuel delivery systems.Part1: modelscription.omassandoenergy658.   \nOakey H, Shafiei R, Comadran J et al. (2O13) Identification of crop cultivars with consistently high lignocellulosic sugar release requires the use of appropriate statistical design and modelling.Biotechnology forBiofuels,6,185.   \nOhlde GW,Beck K,Akin DE,Rigsby LL,Lyon CE (1992)Diferences inrumen bacterial degradation of morphological fractions in eight cereal straws and the effect of digestion on diffrent types of tissues and mechanical properties of straw stalks.Animal FeedScienceandTechnology,36,173-186.   \nOladosu G,Msangi S(2013) Biofuel-food market interactions: a review of modeling approaches and findings.Agriculture,3,53-71.   \nParry MAJ,Reynolds M,Salvuci ME et al. (2011) Raising yield potential of wheat. II. Increasing photosynthetic capacity and eficiency.Journal of Experimental Botany, 62,453–467.   \nPauly M,Keegstra K (2o08)Cell-wall carbohydrates and their modification as a resource for biofuels. The Plant Iournal.54.559-568.   \nPearman I, Thomas SM, Thorne GN (1978) Effect of nitrogen fertilizer on growth and yield of semi-dwarf and tall varieties of winter wheat. The Journal of Agricultural Science,91,31-45.   \nPhitsuwan P,Ratanakhanokchai K (2014) Can we create “Elite Rice\"—a multifunctional crop for food,feed,and bioenergy production? Sustainable Chemical Processes, 2, 10.   \nPhitsuwan P,Sakka K, Ratanakhanokchai K (2013) Improvement of lignocellulosic biomass in planta: a review of feedstocks,biomass recalcitrance,and strategic manipulation of ideal plants designed for ethanol production and processability. Biomass andBioenergy,58,90-405.   \nPinthus MJ (1973)Lodging in wheat,barleyand oats; the phenomenon,itscauses and preventative measures.Adoances in Agronomy,14,209-263.   \nPowlson DS,Glendining MJ,Coleman K,Whitmore AP (2011) Implications for soil properties of removing cereal straw: results from long-term studies.Agronomy Journal,103,279-287.   \nRajala A,Peltonen-Sainio P(2001) Plant growth regulator effects on spring cereal root and shoot growth. Agronomy Journal, 943, 936-943.   \nRamanzin M, Bailoni L, Beni G (1991) Varietal differences in rumen degradation of barley,wheat and hard wheat straws.Animal Production,53,143–150.   \nRefsgaard K,Flaten O,Gudem R, LienG (20o2)A multicriteria evaluation by the public approval of pesticides -a case with the plant-growth regulators in grain. In: 13th International Farm Management Congress.2002,Wageningen,The Netherlands.   \nReynoldsM,Foulkes MJ,Slafer GA,BerryP,Parry MAJ,Snape JW,Angus WJ (2009) Raising yield potential in wheat. Journal of Experimental Botany,60,1899-1918.   \nReynolds M,Foulkes JFurbank Ret al.(2O12)Achieving yield gains in wheat.Plant, Cell and Enironment,35,799-23.   \nSalas Fernandez MG,Becraft PW,Yin Y,Lübberstedt T (2009) From dwarves to giants? Plant height manipulation for biomass yield. Trends in Pant Science,14, 454–461.   \nSavoie J-M,Minvielle N, Chalaux N (1994) Estimation of wheat straw quality for edible mushroom production and efects of a growth regulator.Bioresource Technology,48,149–153.   \nScarlat N, Martinov M,Dallemand J-F(201o)Assessment of theavailabilityof agricultural crop residues in the European Union: potential and limitations for bioenergy use.Waste Management,30,1889-1897.   \nSharma HSS,Faughey G,Chambers J, Lyons G, Sturgeon S (200o) Assessment of winter wheat cultivars for changes in straw composition and digestibility in response to fungicide and growth regulator treatments.Annals of Applied Biology, 137, 297-303.   \nShearman VJ,Sylvester-Bradley R,Scott RK,Foulkes MJ(2005)Physiological processes associated with wheat yield progress in the UK. Crop Science,45,175-185.   \nShortall OK (2013) Marginal land' for energy crops:exploring definitions and embedded assumptions.Energy Policy,62,19-27.   \nSimbolotti G (2O13)Production of Liquid Biofuels:Technology Brief.The International Renewable Energy Agency (IRENA) and The Energy Technology Systems Analysis Programme (ETSAP).Available at: https://www.irena.org/DocumentDown loads/Publications/IRENA-ETSAP%20Tech%20Brief%20P10%20Production_of_ Liquid%20Biofuels.pdf (accessed 18 August 2015).   \nSimkins G (2014)40 MW Sufflk biomass project abandoned.Available at: htp:// www.endswasteandbioenergy.com/article/1305899/40mw-suffolk-biomass-projectabandoned (accessed 18 August 2015).   \nSkott T(20l1) Straw to Energy:Status,Technologies and Innooation in Denmark 2011. Innovation Network for Biomass,Agro Business Park A/S, Tjele, Denmark.   \nSlafer G,Andrade FH (1989) Genetic improvement in bread wheat (Triticum aestioum) yield inArgentina.Field CropsResearch,21,289-29.   \nSmil V(1999) Crop residues:agriculture's largest harvest. BioScience,49,299 308.   \nSmith TC,Kindred DR, Brosnan JM,Weightman RM, Shepherd M, Sylvester-Bradley R(2006) Wheat as a Feedstock for Alcohol Production.Research review no.61. HGCA,Agriculture and Horticulture Development Board, Stoneleigh Park, Kenilworth, Warwickshire.   \nSnyder CS,Bruulsema TW,Jensen TL,Fixen PE (2009)Review of greenhouse gas emissions from crop production systems and fertilizer management efects. Agriculture,Ecoedomnt,33,6.   \nSterling M,BakerCJ, BerryPM,WadeA(2003)Anexperimental investigatioof the lodging of wheat.Agricultural and Forest Meteorology,119,149-165.   \nSummers MD,Jenkins BM,Hyde PR,Williams JF,Mutters RG, Scardacci SC,Hair MW (2o03) Biomass production and allocation in rice with implications for straw harvestingand utilization.Biomass and Bioenergy,24,163-173.   \nTolera A,TsegayeB,BergT(2Oo8)Efectsofarietycroppingyear,locationandfertilizer application on nutritive value of durum wheat straw. Journal of Animal Physiology and Animal Nutrition,92,121-130.   \nTravis AJ,Murison SD,Hirst DJ,Walker KC,Chesson A(1996) Comparison of the anatomy and degradability of straw from varieties of wheat and barley that difer in susceptibility to lodging. Journal of Agricultural Science,127, 1-10.   \nValentine J, Clifton-Brown J, Hastings A,Robson P,Allison G, Smith P (2012) Food vs.fuel: the use of land for lignocellulosic ‘next generation' energy crops that minimize competition with primary food production.Global Change Biology Bioenergy, 4, 1–19.   \nWaddington SR, Ransom JK, Osmanzai M, Saunders DA (1986) Improvement in the yield potential of bread wheat adapted to Northwest Mexico.Crop Science,26, 698-703.   \nWangJ,Zhu J,Huang R,Yang Y (2012) Investigation of cell wall composition related to stem lodging resistance in wheat (Triticum aestivum L.)by FTIR spectroscopy.Plant Signaling& Behavior,7,856-863.   \nWhaleyJM,SparkesDL,Foulkes MJ,pinkJH,SemereT,ottRK(0)eiological response of winter wheat to reductions in plant density.Annals of Applied Biology,137,165-177.   \nWhite EM,Wilson FEA (20o6) Responses of grain yield,biomass and harvest index and their rates of genetic progress to nitrogen availability in ten winter wheat varieties.Irish Journal of Agricultural and Food Research,45,85-101.   \nWhittaker C,Borrion AL,Newnes L,McManus M (2014) The renewable energy directive and cereal residues.Applied Energy,122,207-215.   \nWilson PN,Brigstocke T(1977) The commercial straw process.Process Biochemistry, 12, 17-20.   \nWilson P,Glithero NJ,Ramsden SJ (2014)Prospects for dedicated energy crop production and attitudes towards agricultural straw use: the case of livestock farmers. Energy Policy,74,101-110.   \nWu Z,Hao H,TuYet al. (2014) Diverse cell wallcomposition and varied biomass digestibility in wheat straw for bioenergy feedstock.Biomass and Bioenergy,70, 347-355.   \nZhao $\\scriptstyle \\mathbf { Q } ,$ Dixon RA (2014) Altering the cell walland its impact on plant disease: from forage to bioenergy.Annual Review of Phytopathology,52,69-91.   \nZhao X, Zhang L, Liu D (2012) Biomass recalcitrance.Part 1: the chemical compositions and physical structures affecting the enzymatic hydrolysis of lignocelulose. Biofuels,Boproductsndorefining,6,6.   \nZhou B, Sanz-Saez A, Elazab A et al. (2014) Physiological traits contributed to the recent increase in yield potential of winter wheat from Henan Province, China. JournalofIntegratioePlantBiology,56,492-504. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

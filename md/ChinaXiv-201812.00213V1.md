@@ -1,0 +1,224 @@
+# 家禽采食量调控机制及主要调控因子研究进展
+
+孙永波 王亚萨仁娜\* 张宏福
+
+（中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193）摘要：采食是家禽摄入营养物质的基本途径，也是家禽健康生长的前提。采食量和采食行为与家禽的生产性能密切相关。本文通过总结和分析家禽采食量的概念、调节机制以及主要调控因子，为深入研究家禽采食的生理调节机制提供理论基础，对于促进家禽的食欲、提高家禽采食量以及促进畜牧业的发展具有重要意义。
+
+关键词：家禽；采食量；机制；调控因子中图分类号：S811.2 文献标识码： 文章编号：
+
+采食是家禽消化吸收的首要环节，也是其维持生存、生长发育和生产的前提[1]。采食量（feed intake，FI）与家禽的生长速度以及生产性能密切相关，是评价家禽营养需求和能量代谢的基础[2]。家禽采食的营养物质一部分用来维持生命活动，其余用于产蛋、产肉等生产活动。因此，充足的采食量是家禽生长发育和发挥生产力的保证，采食量的高低直接影响到动物的生产效率和饲料利用率。采食量受到遗传、营养、管理和环境等众多因素的影响[3-4]。通过了解家禽采食量的调控机制，对其采食量进行合理的人为调控，意义重大。然而，采食是一个非常复杂的生理过程，受到中枢和外周系统以及大量代谢因子等物质信号的综合调控，其调节机制目前仍不是很清楚。近年来，家禽食欲调节逐渐成为研究的重点。本文通过简单阐述家禽采食量的定义、调控机制以及主要调控因子，为进一步深入了解和研究家禽采食调控机理，挖掘关键作用因子提供理论依据，对于研发新型诱食剂和促进家禽食欲、提高家禽采食量以及养殖效益意义重大。
+
+# 1采食量
+
+家禽采食量通常是指家禽在 $2 4 \mathrm { h }$ 内采食饲料的总量[5]。采食量能够反映家禽获得各种营养物质的多少，它是评价家禽营养物质的需求以及能量代谢的基础[6-7]。采食量包括随意采食量和实际采食量8]。随意采食量指在一定时间内单个动物或动物群体在自由接触饲料的条件下，采食饲料的总量；实际采食量指养殖实践过程中一定时间内动物实际采食饲料的总量[9]。采食量的衡量可以用家禽 $2 4 \mathrm { h }$ 采食饲料的总量来表示，但是不同饲料中干物质、能量、蛋白质等含量不同，即使家禽采食相同重量的饲料，也并不意味着摄入的养分含量一样；用能量的摄入量来表示更为准确，因为家禽采食的实质是满足能量的需要[9]。
+
+# 2采食量调控机理
+
+# 2.1 中枢调控
+
+家禽中枢神经系统（central nervous system，CNS）是采食量调控的关键部位，中枢神经将传入的复杂的各种食物信号进行整合和加工，然后刺激家禽摄食中枢兴奋，使家禽产生饱感或饥饿感，从而调节家禽采食的开始或终止[10]。下丘脑是家禽摄食调节中枢的最关键部位，通过感应外周各种刺激并加以整合，以实现对家禽摄食的精密调控[11。下丘脑的弓状核（ARC）、旁室核（PVN）、腹内侧核（VMN）、背内侧核（DMH）和下丘脑外侧区（LHA）等都参与家禽的采食调控[12]。在下丘脑中存在摄食中枢和饱中枢。摄食中枢位于下丘脑外侧区，呈弥散性，通过神经纤维与脑的其他部位相联系，是刺激摄食的中枢部位。饱中枢主要位于下丘脑的腹内侧核，是抑制摄食的中枢部位，其信号能够投射到摄食中枢，抑制摄食中枢兴奋[13]。
+
+外周各种摄食相关信号（如胰岛素、瘦素、葡萄糖等）传入中枢后，在家禽下丘脑进行加工和整合，并做出相应的调控，最终通过神经肽Y（neuropeptideY，NPY）和刺鼠相关蛋白(agouti-related protein,AgRP)途径来促进采食或前阿黑皮素原（pro-opiomelanocortin，POMC）和可卡因-安菲他明调节转录因子（cocaineandamphetamine-regulatedtranscript,CART）途径来抑制采食[12,14]（图1)。下丘脑弓状核部位的血脑屏障通过感知外周血液信号的变化，对比促进采食的信号及抑制采食的信号的强弱，对信号进行加工、整合，最终产生促进或抑制家禽采食的效应[15]。
+
+food intake：采食；energy expenditure：能量消耗；MC3R：黑皮质素受体3 melanocortin 3 receptor；MC4R: 黑皮质素受体4 melanocortin 4 receptor；second order neurons：二级神经元；AgRP：刺鼠相关蛋白 agouti-related protein；NPY：神经肽 Y neuropeptide Y；POMC：前阿黑皮素原 pro-opiomelanocortin； neuron: 神经元；arcuate nucleus：弓状核；insulin：胰岛素；pancreas：胰腺；leptin：瘦素；adipose tissue：脂肪组 织；nutrients:营养物质；GABA： $\gamma$ -氨基丁酸 $\gamma$ -aminobutyric acid; ${ \mathfrak { a } } / { \beta }$ -MSH: $\alpha / \beta$ 促黑激素 $\alpha / \beta$ -melanocyte stimulating hormone。
+
+![](images/e3519f69ac4155285ae294150f59923ab663e0166684d3723e4c7d279082ef4e.jpg)  
+图1下丘脑通过2条途径调节食欲  
+Fig.1The hypothalamus regulates appetite through two pathways[3]
+
+# 2.2 物理调节和化学调节
+
+家禽饲料的外观、硬度等各种物理指标对家禽采食也有重要的刺激作用。物理调节主要与家禽胃肠道容积以及饲料和食糜的体积紧密相关。家禽采食饲料后，首先贮存在嗦囊中，充盈和刺激嗦囊的感受器，然后进入消化道，充盈并刺激家禽胃肠道的压力感受器以及渗透压感受器，最终经传入神经将信号上传到神经中枢，导致家禽终止采食[3]。家禽肠道紧张或排空导致压力变化，形成负反馈调节，胃肠道感受这种压力变化进而停止采食[16]。
+
+化学调节主要是通过食糜成分和吸收的养分浓度的变化来调节采食量[9]。如葡萄糖、挥发性脂肪酸、氨基酸、激素等，通过与消化道或其他部位的受体结合，直接作用于下丘脑的摄食中枢，或通过改变内分泌和贮存的能量间接地作用于中枢神经的摄食中枢[17]，进而调节家禽采食，其中葡萄糖和挥发性脂肪酸是最重要的因素。
+
+# 2.3 短期调控和长期调控
+
+短期调控是指家禽每次采食活动的控制，通过饲料或特定营养素激活胃肠道中的激素和神经信号通路实现[18]。采食的营养物质含量如氨基酸、饲料的物理性状等可直接作用于胃肠道中的神经感受器，也可通过刺激胃肠道产生一些食欲相关的调节肽来激活特殊的信号通路，从而将饱食信号传递到中枢整合[19]。
+
+采食量的长期调控是指家禽的长期能量平衡调节[20]。采食量的长期调节取决于体内能量储备以及脂肪储备，通过外周特殊信号分子激活下丘脑的神经和神经-内分泌途径来实现。关于采食的长期调节，最典型是脂肪稳衡理论学说，脂肪稳衡理论学说认为动物采食是为了保持体内有一定量的脂肪储备，若动物体内脂肪处于亏损状态，则动物的采食量趋于提高，以弥补体内脂肪的损失。
+
+![](images/77e18a8388ece68ef888b772568e9857ff9f7826d30ff6b718d359dd64db23d5.jpg)
+
+Hypothalamic Sites：下丘脑作用位点；First Order Neurons：一级神经元；POMC：前阿黑皮素原pro-opiomelanocortin；NPY：神经肽 Y neuropeptide Y；Second Order Neurons：二级神经元；CRH：促皮质素释放激素 corticotropin releasing hormone；TRH：促甲状腺激素释放激素 thyrotropin-releasing hormone;MCH：黑色素聚集激素 melanin-concentrating hormone；ORX：食欲素 orexin；Leptin/Insulin：瘦素/胰岛素；Brainstem：脑干；Satiety Center：饱觉中枢；Adipose/Liver：脂肪/肝脏；Signals From Energy Stores:能量贮存信号；FFAs：游离脂肪酸 free fatty acids；Glucose：葡萄糖；Amino Acids：氨基酸；Circulation:血液循环；CCK：胆囊收缩素 cholecystokinin；G.I.Tract：胃肠道 gastrointestinal tract；‘Satiety’Signals:饱觉信号；Feed：饲料；Vagus Nerve：迷走神经；（-)：抑制 inhibition； $( + )$ ：刺激 stimulate。
+
+# 图2禽类采食量的短期和长期调节
+
+Fig.2Regulation of feed intake in poultry involving short term and long term[21].
+
+# 3采食调控因子
+
+# 3.1 促食因子
+
+# 3.1.1 NPY
+
+禽类下丘脑 NPY是促进摄食的主要因子之一，在采食和能量平衡中起重要作用[22]。NPY是一种内源性的食欲信号传递因子，强烈刺激动物采食，调节多种食欲促进因子和抑制因子，是目前被认同的最重要的促食下丘脑神经肽[23]。NPY 集中分布在下丘脑的弓状核部位，通过投射纤维输送到室旁核、腹内侧核、外侧区、背内侧核等核团，刺激摄食中枢[24]。NPY能够在动物中枢神经系统水平上调节采食，并且能够特异性地刺激动物对碳水化合物的采食[25]。Blankenship 等[26]研究报道，限饲显著提高了母代雌雄鹤鹑下丘脑 NPY、 $\mathbf { A g R P }$ 、促皮质素释放激素（corticotropin releasing hormone，CRH）和黑皮质素受体1（melanocortin 1receptor MC1R）水平，表明限饲使鹤鹑饥饿，食欲增强。Nakajima 等[27]研究表明，NPY 显著提高小鼠采食量。Katner等[28]给Wistar 鼠第三脑室内注射 ${ 5 \mu \mathrm { g / \mu L } }$ 的 NPY，采食量也显著增加。Saneyasu 等[29]研究报道，中枢注射 NPY 显著提高肉鸡的采食量。NPY 不仅能刺激正常的采食，而且还具有时间和剂量累积效应[30]。以上研究表明，NPY 可以促进动物的食欲和采食量，因此，外源 NPY 可以做为一种短期的食欲调节因子用于生产实践中来提高家禽的食欲和采食量。
+
+# 3.1.2 AgRP
+
+AgRP 是由下丘脑弓状核内的AgRP/NPY神经元所产生的一种神经肽。AgRP能够通过选择性地与促黑皮质素受体紧密结合，阻断 $\mathbf { \alpha } _ { \mathbf { { \mathfrak { a } } } } .$ 促黑激素（ $\mathbf { \alpha } _ { \mathrm { ~ \mathfrak { a } . ~ } }$ -MSH）的作用，从而促进动物的采食[31]。AgRP 还能够直接与黑皮质激素受体4（MC4R）作用，是MC4R 的逆向拮抗剂[32]。AgRP竞争结合黑皮质激素受体3（MC3R）和MC4R后，拮抗α-MSH介导的G蛋白活化，降低细胞内环磷酸腺苷（cAMP）的含量，进而增强动物食欲。Tachibana 等[33研究报道，AgRP 能够增加蛋鸡的采食量，并且降低α-MSH对采食的抑制作用，表明AgRP 能够增强家禽的食欲，提高采食量。
+
+# 3.1.3 食欲素(orexin，ORX)
+
+ORX又名增食因子，仅分布在下丘脑的摄食中枢，尤其是采食中枢。ORX 编码ORXA和 ORXB2种神经肽，主要作用是调控动物的采食量和能量平衡[34]。Szekely 等[35]研究报道，在小鼠脑室内注射ORXA， $3 0 \mathrm { m i n }$ 后导致小鼠食欲旺盛。ORX还能刺激消化液分泌，促进胃的运动[16]。ORX 和 NPY 在促进摄食中还具有相互协同的作用。López 等[36]研究报道，注射ORX显著提高了大鼠NPYmRNA表达量。但是在禽类的一些研究中发现，下丘脑ORX并不影响鸡的采食量[37]。关于家禽ORX的研究有待进一步加强，尽快明确其对家禽的调节机制以及与其他激素和神经肽的关系。
+
+# 3.1.4 胃饥饿素（ghrelin）
+
+胃饥饿素是在胃内分泌细胞及下丘脑弓状核中发现的一种小肽。胃饥饿素具有刺激垂体前叶释放生长激素、增强动物食欲、调节能量平衡、促进胃酸分泌等多种功能[38]。Kamegai等[39]研究报道，胃饥饿素能够显著提高小鼠的采食量以及NPY和AgRP的mRNA表达量。Asakawa等[40]研究报道，胃饥饿素能够促进大鼠的胃肠运动以及胃酸的分泌。以上研究表明，胄饥饿素能够增强哺乳动物的食欲，提高采食量。但是，禽类的胃饥饿素与哺乳动物的胃饥饿素相比在结构上不同，而且对采食的调控作用也不同[41]。Furuse 等[42]研究发现，对雏鸡脑室注射胃饥饿素能够显著抑制鸡的摄食行为。Saito 等[43]研究报道，对4日龄雏鸡脑室注射胃饥饿素，促进皮质酮的分泌释放呈剂量和时间依赖性，抑制鸡的采食量。Oclon等[44]研究报道，腹腔注射胃饥饿素导致肉鸡产生厌食症。Geelissen 等[45]研究报道，胃饥饿素同样降低鸡的采食量。上述研究表明，胃饥饿素能够抑制家禽的采食量。胃饥饿素对家禽采食的影响是一个复杂的调控过程，其具体作用效果和机制还有待于更多的深入研究。
+
+# 3.2 抑食因子
+
+# 3.2.1 POMC
+
+POMC 是重要的下丘脑抑制食欲因子之一。家禽的POMC 由256个氨基酸残基组成，主要分布于下丘脑、垂体前叶以及脂肪等组织中[46]。阿黑皮质素原在采食行为、体重和能量稳态调控中具有重要作用。POMC 是黑皮质素(melanocortin,MC)、 $\mathfrak { a }$ -MSH、促脂解素和β-内啡肽的前体物质。MC 与黑皮质素受体(melanocortin receptors,MCRs)结合，在调节动物采食、能量代谢、表皮色素沉积、皮脂腺分泌和繁殖等生理过程中起着重要的作用[47]。MC4R 在控制食欲和体重稳态中具有重要作用[47]。研究表明，在脑室内注射 MC4R的激动剂能够抑制采食，并且注射选择性拮抗物可导致采食过盛[48]。Klovins 等[49]研究发现，当哺乳动物中枢POMC 的表达激发时，其产物α-MSH通过黑皮质素受体MC3R和MC4R激活交感神经系统，从而减少摄食。Zendehdel等[50]在肉鸡试验中也得到相同的结论。
+
+# 3.2.2 CART
+
+CART广泛分布在动物的中枢神经系统、外周神经系统和外周组织，尤其是下丘脑和胃肠道[51]。研究表明，CART 能够降低动物的采食量，且存在剂量效应[52]。Tachibana 等[53]研究报道，脑室内注射CART显著抑制饥饿处理后的肉鸡的采食行为。有研究表明，CART 抑制动物的摄食很可能是通过影响胃酸分泌和胃排空，进而引起内脏器官的机械性刺激并传递饱感信号[52]。Okumura 等[54]研究发现，CART能够降低大鼠采食量，同时还降低其胃液、胃酸的分泌量以及胃的排空速度。以上研究表明，CART能够作用于下丘脑以及胄肠道来降低家禽食欲和饲料消化速率等途径降低采食量。
+
+# 3.2.3 胆囊收缩素(cholecystokinin，CCK)
+
+CCK 是一种能引起胆囊收缩和促进胰液中各种酶分泌的胃肠道多肽激素，广泛存在于消化系统、中枢及外周神经系统，对动物采食具有抑制作用[5-56]。CCK具有刺激胰酶分泌、胆囊收缩、参与胃肠运动功能的调节和引起饱感等作用[57]。家禽体内至少存在CCK-A 和CCK-B2种受体。CCK与受体结合后通过迷走神经传输到终端设备，激活孤束核中POMC神经元，通过其受体（MC4R）发出饱感信号，产生抑制食欲的作用[58]。在生理情况下，饲料进入胃肠道后，对消化道的物理和化学刺激导致外周CCK释放，胃扩张刺激循环血中的CCK与胃迷走神经上的CCK-A受体结合，转化为神经冲动，上传至延髓的孤束核(NTS)进而抑制下丘脑的摄食中枢[59]。Savory 等[60]研究报道，CCK 能够降低鸡的采食量，且呈剂量梯度相关。
+
+# 3.2.4 瘦素
+
+瘦素是由肥胖基因编码分泌的一种蛋白质激素，禽类脂肪组织和肝脏是瘦素的主要合成部位[61]。瘦素具有降低动物的食欲、提高能量代谢效率、增加能耗等作用。研究表明，短期高剂量或长期低剂量注射瘦素均能降低小鼠下丘脑NPYmRNA的表达量，同时提高了与厌食相关的POMC mRNA表达量[62-63]。BosWell等[64]研究报道，瘦素通过调节AGRP和 POMC等基因的表达来调控采食量。Cassy等[65]研究报道，瘦素显著降低了56 日龄蛋鸡的采食量。Denbow 等[6研究报道，通过脑室内注射重组人瘦素蛋白，显著抑制了42日龄肉鸡的采食量。Dridi等[67研究报道，瘦素显著抑制了21日龄肉鸡下丘脑 NPY、ORX等的mRNA 表达量。以上研究表明，瘦素信号能够增强POMC/CART的神经元活动，同时降低 NPY/AGRP的神经元活动，从而降低家禽采食量。
+
+# 3.2.5 胰岛素
+
+胰岛素是由胰腺β细胞产生并分泌的，可以渗透进入脑脊液；而且在下丘脑的关键区域存在胰岛素受体，胰岛素在动物采食量调节中扮演重要角色。研究表明，胰岛素与其相应受体结合可以调节下丘脑VMN 中POMC 神经元的 ATP敏感性钾通道（ATP-sensitive potassiumchannel，KATP）活性，进一步通过磷脂酰肌醇3-激酶（PI3K）信号途径影响细胞内活性氧（ROS）水平，以调节能量状态和食欲[68]。进入中枢的胰岛素可与下丘脑弓状核神经元上相应受体结合，激活胰岛素受体信号，抑制NPY/AgRP 神经元表达，促进POMC 神经元合成及分泌，抑制动物的采食。胰岛素还能与瘦素共同作用，抑制下丘脑中腺苷一磷酸激活蛋白激酶的活性，增加细胞中乙酰辅酶A羧化酶活性，提高丙二酰辅酶A活性，降低家禽的采食量[69-70]。但是，Liu等[71研究报道，注射胰岛素并没有影响肉鸡的食欲。
+
+# 4小结
+
+虽然家禽采食量的调节机制十分复杂，目前尚未完全清晰。但是，近年来随着科学技术的进步，一些关键调控因子和信号通路不断被解析，采食作用机制的研究取得了巨大进步。借助气相色谱-质谱联用技术（GC-MS）以及多组学技术深入研究采食量调控机制，对于改善家禽食欲、研发新型诱食剂、提高家禽采食量和生产性能意义重大。
+
+# 参考文献:
+
+[1]余健剑,束刚,江青艳.氨基酸调控畜禽采食的研究进展[J].动物营养学报,2011,23(6):908-913.
+
+[2]杨淑萍,谭会泽.畜禽采食调控的研究进展[J].广东饲料,2004,13(5):19-21.
+
+[]   
+[3] 江青艳.动物采食的调控机制及其研究进展[J].饲料与畜牧,2012(4):5-9.   
+[4] FERKET P R,GERNAT A G.Factors that affect feed intake of meat birds:A review[J].International Journal of Poultry Science,2006,5(10):905-911.   
+[5]田宗祥,张玲清.高温对猪采食量的影响机制及应用的研究进展[J].中国畜牧兽 医,2011,38(3):228-230.   
+[6]杨彩梅,陈安国,刘金松.动物采食量调控的新因子—增食因子[J].饲料工 业,2002,23(4):12-14.   
+[7]吴建忠,李绿雄.动物采食活动与生产性能相关性研究[J].畜禽业,2003(9):24-25.   
+[8] 郑晞,宋俊宏.内源性调控对猪采食量的影响[J].中国饲料,2006(7):27-28.   
+[9] 杨凤.动物营养学[M].北京:中国农业出版社,2003.   
+[10] MORTON G J,CUMMINGS D E,BASKIN D G,et al.Central nervous system control of food intake and body weight[J].Nature,2006,443(7109):289-295.   
+[11] 黄金秀,罗绪刚,吕林,等.初生肉仔鸡血清和下丘脑摄食调节相关激素的发育规律与品种 特点[J].中国农业科学,2008,41(3):925-932.   
+[12]王松波,朱晓彤,江青艳.热应激导致畜禽采食量降低的中枢调控机制[J].畜牧与兽 医,2012(S1):30-33.   
+[13] 郎斌.酸枣仁皂苷对热应激 AA 肉鸡下丘脑采食调控相关基因表达的影响[D].硕士学位 论文.锦州:辽宁医学院,2014.   
+[14]江青艳,王松波,朱晓彤.热应激降低畜禽采食量的中枢调节机制[J].广东饲 料,2012,21(S1):47-49.   
+[15] LENARD N R,BERTHOUD H R.Central and peripheral regulation of food intake and physical activity:pathways and genes[J].Obesity,2008,16(S3):S11-S22.   
+[16]郭慧慧,刘岐,王立贤,等.影响猪采食量的因素[J].中国畜牧兽医,2007,34(12):17-21.   
+[17]杨兵,夏先林.不同能量蛋白水平对贵阳瘦肉型生长育肥猪生产性能的影响[J].广东农业 科学,2011,38(18):89-92.   
+[18]李燕.肉种鸡采食量调节研究进展[J].家禽科学,2012(2):45-47.   
+[19]袁丽霞.鸡下丘脑食欲和能量稳态调节相关基因表达的品种差异以及leptin 的程序化作 用[D].博士学位论文.南京:南京农业大学,2009.   
+[20] 黄金秀,吕林,张亿一,等.禽类采食量生理调节因子的研究进展[J].动物营养学 报,2006,18(S1):353-360.   
+[21]RICHARDS M P.Genetic regulation of feed intake and energy balance in poultry[J].Poultry Science,2003,82(6):907-916.   
+[22] FURUSE M.Central regulation of food intake in the neonatal chick[J].Animal Science Journal,2002,73(2):83-94.   
+[23]夏天保,张盼盼,田方圆,等.家禽下丘脑采食调控机制研究进展[J].中国家 禽,2015,37(7):45-49.   
+[24] 郭颖,苏玉虹,王军,等.AA 肉鸡下丘脑 NPY基因表达与采食量的相关分析[J].畜牧与兽 医,2013,45(12):28-32.   
+[25] MARSH D J,HOLLOPETER G,KAFER K E,et al.Role of the Y5 neuropeptide Y receptor in feding and obesity[J].Nature Medicine,1998,4(6):718-721.   
+[26] BLANKENSHIPK,GILLEYA,PIEKARSKIA,etal.Differentialexpressionof feeding-related hypothalamic neuropeptides in the first generation of quails divergently selected for low or high feed eficiency[J].Neuropeptides,2016,58:31-40.   
+[27] NAKAJIMA M,INUI A,TERANISHI A,et al.Effects of pancreatic polypeptide family peptides on feeding and learning behavior in mice[J].Journal of Pharmacology and Experimental Therapeutics,1994,268(2):1010-1014.   
+[28]KATNER S N,SLAWECKI C J,EHLERS C L.Neuropeptide Y administration into the third ventricle does not increase sucrose or ethanol self-administration but does affect the cortical EEG and increases food intake[J].Psychopharmacology,2002,160(2):146-154.   
+[29] SANEYASU T,HONDA K,KAMISOYAMA H,et al.Neuropeptide Y effect on food intake in broiler and layer chicks[J].Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology,2011,159(4):422-426.   
+[30]吕继蓉.饲料风味剂对猪采食量和采食行为的影响及机理研究[D].博士学位论文.雅安:
+
+四川农业大学,2011.
+
+[31]SCHWARTZ M W,WOODS S C,PORTE D,Jr,et al.Central nervous system control of food intake[J].Nature,2000,404(6778):661-671.
+
+[32] HASKELL-LUEVANO C,MONCK E K.Agouti-related protein functions as an inverse agonistataconstitutivelyactivebrainmelanocortin-4receptor[J].Regulatory Peptides,2001,99(1):1-7.
+
+[33]TACHIBANA T,SUGAHARA K,OHGUSHI A,et al.Intracerebroventricular injection of agouti-related protein attenuates the anorexigenic effect of alpha-melanocyte stimulating hormone in neonatal chicks[J].Neuroscience Letters,2001,305(2):131-134.
+
+[34] YAMAMOTO T,NOZAKI-TAGUCHI N,CHIBA T.Analgesic effect of intrathecally administered orexin-A in the rat formalin test and in the rat hot plate test[J].British Journal of Pharmacology,2002,137(2):170-176.
+
+[35] SZEKELY M,PETERVARI E,BALASKO M,et al.Effects of orexins on energy balance and thermoregulation[J].Regulatory Peptides,2002,104(1/2/3):47-53.
+
+[36]LOPEZ M,SEOANE L M,GARCIA M C,et al.Neuropeptide Y,but not agouti-related peptide or melanin-concentrating hormone,is a target peptide for orexin-A feeding actions in the rat hypothalamus[J].Neuroendocrinology,2002,75(1):34-44.
+
+[37]FURUSE M,ANDO R,BUNGO T,et al.Intracerebroventricular injection of orexins does not stimulate food intake in neonatal chicks[J].British Poultry Science,1999,40(5):698-700.
+
+[38] 张忠远,冯自科,马学会.不同种类动物采食量的调控与调控因子[J].黑龙江畜牧兽医,2003(7):56-57.
+
+[39]KAMEGAI J,TAMURA H,SHIMIZU T,et al.Chronic central infusion of ghrelin increases hypothalamic neuropeptide Y and agouti-related protein mRNA levels and body weight in rats[J].Diabetes,2001,50(11):2438-2443.
+
+[40] ASAKAWA A,INUI A,KAGA O,et al.Ghrelin isan appetite-stimulatory signal from stomach with structural resemblance to motilin[J].Gastroenterology,2001,120(2):337-345.
+
+[41] 李和朋.生长素在应激肉鸡食欲调控中的作用研究[D].硕士学位论文.泰安:山东农业大
+
+学,2014.
+
+[42]FURUSE M,TACHIBANA T,OHGUSHI A,et al.Intracerebroventricular injection of ghrelin and growth hormone releasing factor inhibits food intake in neonatal chicks[J].Neuroscience Letters,2001,301(2):123-126.
+
+[43] SAITO E S,KAIYA H,TACHIBANA T,et al.Inhibitory effect of ghrelin on food intake is mediated by the corticotropin-releasing factor system in neonatal chicks[J].Regulatory Peptides,2005,125(1/2/3):201-208.
+
+[44]OCLON E,PIETRAS M.Peripheral ghrelin inhibits feed intake through hypothalamo-pituitary-adrenal axis-dependent mechanism in chicken[J].Journal of Animal and Feed Sciences,2011,20(1):118-130.
+
+[45]GEELISSEN S M E,SWENNEN Q,VAN DER GEYTEN S,et al.Peripheral ghrelin reduces food intake and respiratory quotient in chicken[J].Domestic Animal Endocrinology,2006,30(2):108-116.
+
+[46]TAKEUCHI S,TESHIGAWARA K,TAKAHASHI S.Molecular cloning and characterization of the chicken pro-opiomelanocortin (POMC） gene[J].Biochimica et Biophysica Acta (BBA): Molecular Cell Research,1999,1450(3):452-459.
+
+[47]李蓉,秦廷洋,齐智利.黑皮质素受体4对采食和能量代谢调控机制的研究进展[J].畜牧与兽医,2017,49(1):110-113.
+
+[48] 徐绍华.能量水平与糖皮质激素在肉仔鸡采食调控中的作用[D].硕士学位论文.泰安:山东农业大学,2012.
+
+[49]KLOVINS J,HAITINAT,FRIDMANIS D,et al.Themelanocortin system in Fugu:determination of POMC/AGRP/MCR gene repertoire and synteny,as well as pharmacology and anatomical distribution of the MCRs[J].Molecular Biology and Evolution,2004,21(3):563-579.
+
+[50] ZENDEHDEL M,HAMIDI F,BABAPOUR V,et al.The effect of melanocortin (Mc3 and Mc4) antagonists on serotonin-induced food and water intake of broiler cockerels[J].Journal of Veterinary Science,2012,13(3):229.
+
+[51]夏天保.Visfatin 对蛋公雏采食量和下丘脑食欲调控因子的影响[D].硕士学位论文.郑州:河南农业大学,2015.
+
+[52]谢晓婕,周安国,王之盛.CART 肽对动物采食量和摄食行为的影响[J].动物营养学报,2007,19(S1):503-507.
+
+[53] TACHIBANA T,TAKAGI T,TOMONAGA S,et al.Central administration of cocaine- and amphetamine-regulatedtranscriptinhibitsfoodintakeinchicks[J].Neuroscience Letters,2003,337(3):131-134.
+
+[54] OKUMURA T,YAMADA H,MOTOMURA W,et al.Cocaine-amphetamine-regulated transcript (CART) acts in the central nervous system to inhibit gastric acid secretion via brain corticotropin-releasing factor system[J].Endocrinology,20o0,141(8):2854-2860.
+
+[55]谭岳华,黄生强.CCK、CCKAR 对动物采食量影响的研究进展[J].国外畜牧学：猪与禽,2008,28(5):69-71.
+
+[56]龙定彪,陈代文,张克英,等.胆囊收缩素对动物采食量的影响[J].动物营养学报,2006,18(S1):316-322.
+
+[57] 姚康.利用抗食欲抑制因子卵黄抗体提高母猪泌乳期采食量的研究[D].硕士学位论文.武汉：华中农业大学，2005
+
+[58] 刘磊,宋志刚.家禽食欲的外周调节激素研究进展[J].中国家禽,2011,33(5):44-46.
+
+[59] MORAN T H,BALDESSARINI A R,SALORIO C F,et al.Vagal afferent and efferent contributions to the inhibition of food intake by cholecystokinin[J].The American Journal of Physiol0gy,1997,272(2):R1245-R1251.
+
+[60] SAVORY C J,GENTLE M J.Intravenous injections of cholecystokinin and caerulein suppress food intake in domestic fowls[J].Experientia,1980,36(10):1191-1192.
+
+[61] ASHWELL C M,CZERWINSKI S M,BROCHT D M,et al.Hormonal regulation of leptin expression in broiler chickens[J].American Journal of Physiology-Regulatory,Integrative and Comparative Physiology,1999,276(1):R226-R232.
+
+[62]PROULX K,RICHARD D,WALKER C D.Leptin regulates appetite-related neuropeptides in the hypothalamus of developing rats without affecting food intake[J].Endocrinology,2002,143(12):4683-4692.
+
+[63] YAMAMOTO Y,UETA Y,DATE Y,et al.Down regulation of the prepro-orexin gene expression in genetically obese mice[J].Brain Research Molecular Brain Research,1999,65(1):14-22.
+
+[64]BOSWELL T,DUNN I C.Regulation of the avian central melanocortin system and the role of leptin[J].General and Comparative Endocrinology,2015,221:278-283.
+
+[65] CASSY S,PICARD M,CROCHET S,et al.Peripheral leptin effect on food intake in young chickens is influenced by age and strain[J].Domestic Animal Endocrinology,2004,27(1):51-61.
+
+[66]DENBOW D M,MEADE S,ROBERTSON A,et al.Leptin-induced decrease in food intake in chickens[J].Physiology & Behavior,2000,69(3):359-362.
+
+[67]DRIDI S,SWENNEN Q,DECUYPERE E,et al.Mode of leptin action in chicken hypothalamus[J].Brain Research,2005,1047(2):214-223.
+
+[68]张志岐,束刚,江青艳.下丘脑对脂类的营养感应及其参与食欲调控的机制[J].动物营养学报,2013,25(7):1395-1405.
+
+[69] WOLFGANG M J,LANE M D.Control of energy homeostasis:role of enzymes and intermediates of fatty acid metabolism in the central nervous system[J].Annual Review of Nutrition,2006,26(1):23-44.
+
+[70]徐运杰.神经和激素对家禽采食量的调控[J].江西饲料,2011(4):1-4.
+
+[71]LIU L,XU S H,WANG X J,et al.Peripheral Insulin doesn't alter appetite of broiler chicks[J].Asian-Australasian Journal of Animal Sciences,2016,29(9):1294-1299.
+
+Research Progress on Regulation Mechanism and Main Regulatory Factors of Feed Intake In Poultry
+
+SUN YongboWANG Ya SA Renna\* ZHANG Hongfu (State Key Laboratory of Animal Nutrition, Institute of Animal Science, Chinese Academy of \*Corresponding author, professor, E-mail: sa6289@126.com (责任编辑 武海龙)
+
+Agricultural Science,Beijing100193,China)
+
+Abstract: Feeding is the basic way for intake of poultry,and is also a prerequisite for the healthy growth of poultry. Feed intake and feeding behavior are closely related to the production performance of poultry. In this paper, we summarized and analyzed the concept, regulation mechanism and main regulatory factors for intake of poultry, providing a theoretical basis for further study on the physiological regulation mechanism of poultry.   
+Key words: poultry; feed intake; mechanism; regulatory factors

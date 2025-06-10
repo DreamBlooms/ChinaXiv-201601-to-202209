@@ -1,0 +1,245 @@
+不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅生长性能、造血功能、铁代谢和肾脏功能的影响1
+
+刁翠萍 王宝维\* 葛文华张名爱史雪萍 柯昌娇龙建华
+
+（青岛农业大学优质水禽研究所，国家水禽产业技术体系营养与饲料功能研究室，青岛
+
+# 266109)
+
+摘要：本试验旨在研究不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅生长性能、造血功能、铁代谢和肾脏功能的影响。试验选用1日龄五龙鹅 360只，随机分为6个组，每组6个重复，每个重复10只鹅。I组为对照组，在基础饲粮中添加 $1 0 0 \mathrm { m g / k g }$ 铁，不添加枯草芽孢杆菌； $\mathrm { I I } \sim \mathrm { W I }$ 组为试验组，在基础饲粮中分别添加0、25、50、75、 $1 0 0 ~ \mathrm { { m g / k g } }$ 铁，枯草芽孢杆菌添加水平均为 $2 5 0 \mathrm { m g / k g }$ 。试验期4周。结果表明：1）与I组相比，VI组雏鹅体重、平均日增重、屠宰率、半净膛率、全净膛率、胸肌率、腿肌率，血液血红蛋白含量、红细胞压积、平均红细胞体积以及血清铁含量、总铁结合力、转铁蛋白饱和度均升高（ $\scriptstyle \cdot > 0 . 0 5 .$ ），平均日采食量、料重比、腹脂率以及血清尿酸、尿素氮、肌酐含量均降低（ $P { > } 0 . 0 5$ ）。2)IV、V组体重、平均日增重显著或极显著高于 $\mathrm { I I }$ 、III、VI组（ $\scriptstyle P < 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），IⅣV组料重比显著或极显著低于II、III、VI组（ $\scriptstyle \cdot < 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。3） $\mathrm { I V }$ 、V组全净膛率显著高于ⅡI组（ $_ { . P < 0 . 0 5 ) }$ ）； $\mathrm { I V }$ 组胸肌率显著或极显著高于ⅡI、Ⅲ组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）， $\mathrm { \Delta V }$ 组胸肌率显著高于 $\mathrm { I I }$ 组（ $P { < } 0 . 0 5$ ）。4） $\mathrm { \Delta V }$ 、VI组血液血红蛋白含量显著或极显著高于 $\mathrm { I I }$ 、II、IV组( $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）， $\mathrm { \Delta V }$ 组血液红细胞数量显著或极显著高于 $\mathrm { I I }$ 、IⅢI、IⅣ组（ $P { < } 0 . 0 5$ 或$P { < } 0 . 0 1$ ）， $\mathrm { \Delta V }$ 组血液红细胞压积显著或极显著高于ⅡI、III、 $\mathrm { I V }$ 、VI组（ $\scriptstyle P < 0 . 0 5$ 或 $P { < } 0 . 0 1$ ），IV组血液平均红细胞体积显著或极显著高于ⅡI、III、 $\mathrm { \Delta V }$ 、VI组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）， $\mathrm { \Delta V }$ 组血液平均血红蛋白含量显著或极显著高于 $\mathrm { I I }$ 、II、 $\mathrm { I V }$ 、VI组（ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。5） $\mathrm { I V }$ 、V组血清总铁结合力显著高于III、VI组（ $\cdot P { < } 0 . 0 5 \$ ）， $\mathrm { I V }$ 组血清尿酸含量显著或极显著低于 $\mathrm { I I }$ 、VI组（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ）。由此可见，雏鹅铁营养需要量具有一定阈值，饲粮铁添加水平过高或过低都不利于机体的生长发育。枯草芽孢杆菌能够与铁协同促进雏鹅生长发育、造血功能、铁代谢和肾脏功能，降低饲粮中铁添加水平；建议雏鹅基础饲粮中添加 $2 5 0 ~ \mathrm { m g / k g }$ 枯草芽孢杆菌条件下铁适宜添加水平为 $6 0 . 3 4 { \sim } 8 0 . 5 0 \mathrm { m g / k g }$ （20
+
+关键词：铁；枯草芽孢杆菌；雏鹅；生长性能；造血功能；铁代谢；肾脏功能中图分类号：S835 文献标识码：
+
+文章编号：
+
+铁是动物体必需的矿物元素之一，铁在动物体内除了参与合成多种功能蛋白质和含铁酶以外，还能参与造血功能，在机体的正常生长发育过程中发挥重要作用[1-3]。动物缺铁时会损害红细胞的体积、形状和结构，最终导致缺铁性贫血症。铁过量主要以诱导氧化对机体造成损伤[4-5]。随着我国养殖业的快速发展，养殖带来的环境污染问题也日益严重，逐渐被社会关注。重金属污染是土壤污染中最突出的问题之一，重金属被生物吸收后通常在生物体内积累和转化，从而对人类和动物健康产生潜在的威胁。由于重金属污染产生积累性、不可逆性和长期性等后果，这一领域的研究一直是国内外环境科学、生态科学等领域的研究热点[6]。其中，铁就是重金属污染中一个重要的污染物质。因此有必要对减少饲粮中铁添加水平技术进行更为深入的研究。动物体内微量元素的营养状况直接关系着动物的生长发育和健康状况。微量元素铁对畜禽的促生长作用在许多试验中已得到证实。研究表明，适宜的铁添加水平可以提高猪生长速度，改善饲料利用率[7-8]。铁缺乏可以降低肉仔鸡生长性能[9]，增加饲粮中铁添加水平，肉鸡的增重和采食量会随着铁添加水平（ $\mathrm { . 0 { \sim } 5 0 ~ m g / k g }$ ）的提高而增加[10]，然而饲粮中添加高水平（ $4 0 0 { \sim } 8 0 0 \mathrm { m g / k g }$ ）的铁时，肉仔鸡体重和采食量却显著下降，提示高水平的铁会导致肉仔鸡生长性能下降[I]。
+
+枯草芽孢杆菌作为益生菌的一种，可以有效地改善肠道环境，具有促进生长的作用。有研究证实，枯草芽孢杆菌能够抑制由产气荚膜梭菌引起的肉仔鸡坏死性肠炎，提高肉仔鸡的肠道健康水平[12]，能够显著地增加蛋鸡的采食量、饲料转化率与产蛋率[13]，显著提高肉鸡的生长性能[14]。还有研究指出，枯草芽孢杆菌属菌株具有强大的吸附金属能力，因为金属离子能够与该菌细胞表面上的阴离子相互作用而被固定[15]。在之前的研究中，本实验室马传兴等[16]进行过五龙鹅雏鹅对铁需要量的研究，得出1\~4周龄铁适宜添加水平为 $9 9 . 5 6 \mathrm { m g / k g }$ ，与其他国家提出的雏鹅铁营养需要量参数有一定差异，有必要进行进一步验证；而在雏鹅饲粮中添加枯草芽孢杆菌条件下铁适宜添加水平的研究还处于空白。为此，本试验以五龙鹅为研究对象，通过研究不同铁添加水平饲粮中添加枯草芽孢杆菌对五龙鹅雏鹅生长性能、造血功能、铁代谢及肾脏功能的影响，旨在探索铁与枯草芽孢杆菌协同关系和家禽饲粮中低铁添加水平的可行性与方法。
+
+# 1材料与方法
+
+# 1.1 试验动物与设计
+
+选择1日龄健康五龙鹅360只，采用随机分配编号法，随机分为6个组，每组6个重复，每个重复10只鹅（公母各1/2）。试验设计如表1所示，I组为对照组，在基础饲粮中添加 $1 0 0 \mathrm { m g / k g }$ 铁，不添加枯草芽孢杆菌；II\~VI组为试验组，在基础饲粮中水平分别添加0、25、50、75、$1 0 0 ~ \mathrm { { m g / k g } }$ 铁，枯草芽孢杆菌添加水平均为 $2 5 0 \mathrm { m g / k g }$ 。试验期4周。试验鹅由国家水禽产业技术体系育种基地高密市银河润雁鹅业有限公司提供。试验用铁源为一水硫酸亚铁$\mathrm { ( F e S O _ { 4 } { \cdot } H _ { 2 } O ) }$ ，其有效成分为 $91 . 4 \%$ ；试验用枯草芽孢杆菌为冻干菌粉粉末，活菌数为 $2 \times 1 0 ^ { 9 }$ $\mathrm { C F U / k g }$ ，二者均购自青岛普兴生物科技有限公司。
+
+表1试验设计  
+
+<html><body><table><tr><td colspan="3">Table 1</td><td colspan="2">Experimental design</td><td colspan="2">mg/kg</td></tr><tr><td>项目Items</td><td colspan="3"></td><td colspan="3">组别Groups</td></tr><tr><td></td><td>I(对照 control)</td><td>Ⅱ</td><td>IⅢI</td><td>IV</td><td>V</td><td>VI</td></tr><tr><td>铁Iron</td><td>100</td><td></td><td>25</td><td>50</td><td>75</td><td>100</td></tr><tr><td>枯草芽孢杆菌Bacillus subtilis</td><td></td><td>250</td><td>250</td><td>250</td><td>250</td><td>250</td></tr></table></body></html>
+
+# 1.2 试验饲粮
+
+基础饲粮参照NRC(1994)家禽营养需要量设计，基础饲粮组成及营养水平见表2。
+
+# 表2基础饲粮组成及营养水平(风干基础)
+
+Table 2Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>原料 Ingredients</td><td>含量</td><td>营养水平 Nutrient</td><td>含量</td></tr><tr><td>玉米Corn</td><td>Content 60.00</td><td>levels2) 代谢能 ME/（MJ/kg)</td><td>Content 11.76</td></tr><tr><td>豆粕 Soybean meal</td><td>28.40</td><td>粗蛋白质 CP</td><td>18.92</td></tr><tr><td>鱼粉 Fish meal</td><td>2.00</td><td>钙Ca</td><td>0.74</td></tr><tr><td>次粉 Wheat middling</td><td>5.00</td><td>有效磷 AP</td><td>0.33</td></tr><tr><td>玉米秸秆 Corn straw</td><td>2.00</td><td>赖氨酸Lys</td><td>1.02</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.84</td><td>蛋氨酸 Met</td><td>0.31</td></tr><tr><td>石粉Limestone</td><td>0.96</td><td>半胱氨酸Cys</td><td>0.31</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.62</td></tr><tr><td>微量元素 Trace</td><td></td><td></td><td></td></tr><tr><td>element1)</td><td>0.20</td><td>铁 Fe/(mg/kg)</td><td>19.85</td></tr><tr><td>多维素 Multivitamin1)</td><td>0.30</td><td></td><td></td></tr><tr><td>合计 Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>
+
+1多维素和微量元素为每千克饲粮提供 Multivitamin and trace element provided the following per $\mathbf { k g }$ dthe diet: VA 1 500 IU, $\mathrm { V D } _ { 3 } 2 0 0 \mathrm { I U }$ ，VE $1 2 . 5 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 . 0 \ : \mathrm { m g }$ ，烟酸 nicotinic acid $6 5 ~ \mathrm { m g }$ ，泛酸pantothenate $1 5 ~ \mathrm { m g }$ ，生物素biotin $0 . 2 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 \mathrm { m g }$ ，胆碱choline $1 0 0 0 \mathrm { m g }$ ， $\mathrm { C u } 6 \mathrm { m g }$ ， $\mathrm { M n } 8 5$ （20mg， $Z n 8 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 4 2 \mathrm { ~ m g ~ }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { C o } 2 . 5 \mathrm { m g }$ 。
+
+2铁为实测值,其他营养水平为计算值。Fe was a measured value,while other nutrient levels were calculated values.
+
+# 1.3 饲养管理
+
+试验前对鹅舍进行全面消毒；全期采取舍饲，网上分栏饲养；试验鹅自由饮水和采食，少添勤喂，注意观察鹅群的生长状况。
+
+# 1.4测定指标及方法
+
+# 1.4.1 生长性能指标
+
+4周龄末，分别对试验鹅进行空腹称重，计算雏鹅的平均日增重(ADG)；每日统计饲料消耗量，计算平均日采食量(ADFI)和料重比(F/G)。每天记录各组死亡及淘汰情况，计算死淘率（mortality rate，MR）。
+
+# 1.4.2 屠宰性能指标
+
+4周龄末，从每重复中分别抽取2只（公母各1/2）体重接近该组平均体重的试验鹅，每组6只，总共36只进行屠宰，宰前禁食 $1 2 \mathrm { { h } }$ ，按照《家禽生产性能名词术语和度量统计方法》（NY/T 823—2004）测定屠体重、半净膛重、全净膛重、腹脂重、胸肌重和腿肌重，并计算屠宰率（slaughter rate，SR）、半净膛率（half-eviscerated rate，HER）、全净膛率（all-evisceratedrate，AER）、腹脂率（abdominal fat rate，AFR）、胸肌率（chest muscle rate，CMR）和腿肌率（legmuscle rate，LMR）6项屠宰性能指标。
+
+# 1.4.3 血液指标和血清生化指标
+
+4周龄时，从每重复中分别抽取2只（公母各1/2）体重接近该组平均体重的试验鹅，每组6只，总共36只。称重后采用含肝素钠抗凝的采血管及不锈钢采血针进行心脏穿刺采血，一部分全血4 $^ { \circ } \mathrm { C }$ 保存，采用全自动生化分析仪（日立7600-020）测其中的血红蛋白（HGB）含量、红细胞（RBC）数量、红细胞压积（HCT）、平均红细胞体积（MCV）和平均血红蛋白含量（MCH）；另一部分 $3 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心得血清后，于 ${ \displaystyle - 2 0 ~ } ^ { \circ } \mathrm { C }$ 保存，用于测定血清总铁结合力（total iron binding capacity,TIBC）、转铁蛋白饱和度（transferrin saturation,TS）及铁、尿酸（uric acid,UA）、尿素氮（urea nitrogen,UN）和肌酐（creatinine,Crea）含量。
+
+# 1.5 统计分析
+
+采用SPSS 22.0软件中单因素方差分析(one-way ANOVA)中的LSD法和配对t检验2种分析方法，试验数据以“平均值 $\pm$ 标准误"表示。用不相关比较法分析各指标随饲粮中铁添加水平的线性或曲线反应，采用曲线拟合法，确定饲粮中铁的适宜添加水平。 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 分别为差异显著和极显著水平。
+
+# 2结果与分析
+
+2.1不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅生长性能的影响
+
+由表3可知，通过配对 $t$ 检验分析，与I组（未添加枯草芽孢杆菌）相比，VI组（添加枯草芽孢杆菌）雏鹅体重、ADG均升高（ $\scriptstyle P > 0 . 0 5 .$ ），ADFI、F/G均降低（ $P { > } 0 . 0 5$ ）。
+
+表3枯草芽孢杆菌对雏鹅生长性能的影响
+
+Table 3Effects of Bacillus subtilis on growth performance of goslings   
+
+<html><body><table><tr><td>项目 组别 Groups</td><td></td><td>P值</td></tr><tr><td>Items I</td><td>SEM VI</td><td>P-value</td></tr></table></body></html>
+
+<html><body><table><tr><td>体重BW/kg</td><td>1.28</td><td>1.30</td><td>0.084</td><td>0.249</td></tr><tr><td>平均日增重 ADG/g</td><td>42.92</td><td>43.40</td><td>0.292</td><td>0.429</td></tr><tr><td>平均日采食量 ADFI/g</td><td>103.37</td><td>102.11</td><td>0.438</td><td>0.167</td></tr><tr><td>料重比F/G</td><td>2.37</td><td>2.32</td><td>0.020</td><td>0.180</td></tr><tr><td>死淘率Mortalityrate/%</td><td>0.00</td><td>0.56</td><td></td><td></td></tr></table></body></html>
+
+由表4可知，饲粮铁添加水平对雏鹅体重、ADG 和F/G影响极显著（ $_ { \cdot  { P } < 0 . 0 1 }$ ），且随着饲粮中铁添加水平的增加，雏鹅体重、ADG均先升高后降低，F/G 先降低后升高。其中，IV、V组体重、ADG 极显著高于ⅡI组（ $_ { \scriptstyle P < 0 . 0 1 }$ ），显著高于ⅢI、VI组（ $\scriptstyle \cdot < 0 . 0 5 .$ ）；IV组F/G极显著低于ⅡI、VI组（ $\cdot P { < } 0 . 0 1$ ），显著低于Ⅲ组（ $_ { \cdot } P { < } 0 . 0 5$ ），与V组差异不显著（ $\cdot P { > } 0 . 0 5$ ）。各组ADFI和MR差异不显著（ $P { > } 0 . 0 5 \$ ）。
+
+通过曲线拟合，在饲粮中添加 $2 5 0 ~ \mathrm { m g / k g }$ 枯草芽孢杆菌的前提下，只有ADG（ $Y _ { 1 }$ ）和F/G( $Y _ { 2 }$ ）与饲粮铁添加水平 $( \boldsymbol { X } )$ 之间的二次曲线回归方程拟合比较理想：
+
+$Y _ { 1 } { = } 4 1 . 7 1 8 { + } 0 . 1 6 1 X { - } 0 . 0 0 1 X ^ { 2 }$ （ $R ^ { 2 } { = } 0 . 7 2 2$ ， $P _ { Q } { = } 0 . 0 0 0$ ）；  
+$Y _ { 2 } { = } 2 . 4 2 8 – 0 . 0 0 8 X { + } 6 . 6 2 9 \mathrm { E } ^ { - 5 } X ^ { 2 }$ （ $R ^ { 2 } { = } 0 . 8 8 4$ ， $P _ { \mathrm { \it Q } } \mathrm { = } 0 . 0 0 0 \$ ）。
+
+由上述曲线回归方程得出：在基础饲粮中添加 $2 5 0 ~ \mathrm { m g / k g }$ 的枯草芽孢杆菌的条件下，饲粮中添加 $8 0 . 5 0 \mathrm { m g / k g }$ 铁，ADG 最大；饲粮中添加 $6 0 . 3 4 ~ \mathrm { m g / k g }$ 铁，F/G 最佳。
+
+以上结果表明，枯草芽孢杆菌和铁均有促进雏鹅生长发育的作用。另外，在添加枯草芽孢杆菌条件下，基础饲粮中铁添加水平达到 $1 0 0 \mathrm { m g / k g }$ 时，生长性能指标有降低趋势，MR有升高趋势，说明铁添加水平过高无生物学意义。
+
+表4不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅生长性能的影响
+
+Table 4Effects of Bacillus subtilis supplementation in different iron supplemental level diets on   
+
+<html><body><table><tr><td colspan="10"> growth performance of goslings</td></tr><tr><td colspan="7">组别Groups</td><td colspan="3">P值P-value</td></tr><tr><td>项目 Items</td><td>Ⅱ</td><td>Ⅲ</td><td>IV</td><td>V</td><td>VI</td><td>SEM</td><td>铁</td><td>线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Iron</td><td>Linear</td><td>Quadratic</td></tr><tr><td>体重 BW/kg 平均日增重</td><td>1.25℃</td><td>1.32b</td><td>1.38a</td><td>1.37a</td><td>1.30b</td><td>0.01</td><td><0.001</td><td><0.001</td><td>0.351</td></tr><tr><td>ADG/g</td><td>41.98c</td><td>44.29b</td><td>46.31a</td><td>46.24a</td><td>43.40b</td><td>0.36</td><td><0.001</td><td>0.001</td><td><0.001</td></tr><tr><td>平均日采食量 ADFI/g</td><td>100.86</td><td>100.86</td><td>100.89</td><td>103.35</td><td>102.11</td><td>0.43</td><td>0.255</td><td>0.105</td><td>0.988</td></tr><tr><td>料重比F/G</td><td>2.43a</td><td>2.28bc</td><td>2.20d</td><td>2.24cd</td><td>2.32b</td><td>0.02</td><td><0.001</td><td>0.001</td><td><0.001</td></tr><tr><td>死淘率 MR/%</td><td>0.00</td><td>0.28</td><td>0.00</td><td>0.28</td><td>0.56</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同列数据肩标相同小写字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，相邻小写字母表示差异显著 $_ { ( P < 0 . 0 5 ) }$ 相间小写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。表6、表8、表10同。
+
+In the same column，values with the same small or no lettr supersripts mean no significant difference $( P { > } 0 . 0 5 )$ ,while with adjacent small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with alternate small letter superscripts mean significant difference ( $( P { < } 0 . 0 1 )$ ).The same as Table 6, Table 8 and Table 10.
+
+2.2不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅屠宰性能的影响
+
+由表5可知，通过配对 $t$ 检验分析，与I组相比，VI组雏鹅SR、HER、AER、CMR和LMR均升高（ $_ { . P > 0 . 0 5 ) }$ ），AFR均降低（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+Table 5Effects of Bacillus subtilis on slaughter performance of goslings %   
+
+<html><body><table><tr><td>项目</td><td colspan="2">组别Groups</td><td>SEM</td><td>P值</td></tr><tr><td>Items</td><td>I</td><td>VI</td><td></td><td>P-value</td></tr><tr><td>屠宰率 Slaughter rate</td><td>90.12</td><td>93.63</td><td>1.100</td><td>0.114</td></tr><tr><td>半净膛率 Half-eviscerated rate</td><td>79.54</td><td>82.1</td><td>0.857</td><td>0.141</td></tr><tr><td>全净膛率 All-eviscerated rate</td><td>58.57</td><td>59.54</td><td>0.654</td><td>0.518</td></tr><tr><td>腹脂率 Abdominal fat rate</td><td>1.61</td><td>1.30</td><td>0.296</td><td>0.667</td></tr><tr><td>胸肌率 Chest muscle rate</td><td>1.60</td><td>2.22</td><td>0.168</td><td>0.058</td></tr><tr><td>腿肌率 Leg muscle rate</td><td>20.96</td><td>21.71</td><td>0.691</td><td>0.613</td></tr></table></body></html>
+
+由表6可知，饲粮铁添加水平对雏鹅 AER和CMR 影响显著（ $\scriptstyle \cdot - 0 . 0 5 .$ ），且随着饲粮铁添加水平的增加，雏鹅 SR、HER、CUR、CMR、LMR均先升高后降低，AFR 先降低后升高。其中，IV组CMR 极显著高于Ⅱ组（ $_ { . P < 0 . 0 5 }$ ），显著高于Ⅲ组（ $. P { < } 0 . 0 5$ ），与 $\mathrm { v }$ 、VI组差异不显著 ( $\cdot P { > } 0 . 0 5 \$ ）；V组CMR显著高于ⅡI组（ $. P { < } 0 . 0 5 )$ ），与ⅢI、VI组差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表5枯草芽孢杆菌对雏鹅屠宰性能的影响  
+
+<html><body><table><tr><td colspan="5">slaughter performance of goslings</td><td colspan="5">%</td></tr><tr><td></td><td colspan="5">组别 Groups</td><td colspan="4">P值P-value</td></tr><tr><td>项目 Items</td><td>Ⅱ</td><td>IⅢI</td><td>IV</td><td>V</td><td>VI</td><td>SEM</td><td>铁</td><td>线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Iron</td><td>Linear</td><td>Quadratic</td></tr><tr><td>屠宰率 Slaughter rate</td><td>90.12</td><td>91.79</td><td>93.36</td><td>95.77</td><td>93.63</td><td>1.04</td><td>0.527</td><td>0.151</td><td>0.446</td></tr><tr><td>半净膛率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Half-eviscerated rate</td><td>81.86</td><td>82.41</td><td>83.71</td><td>84.24</td><td>82.10</td><td>0.78</td><td>0.854</td><td>0.692</td><td>0.375</td></tr><tr><td>全净膛率</td><td>56.79b</td><td>59.48ab</td><td>61.42a</td><td>61.89a</td><td>59.54ab</td><td>0.59</td><td>0.016</td><td>0.017</td><td>0.006</td></tr></table></body></html>
+
+以上结果表明，饲粮中添加适宜水平铁和枯草芽孢杆菌均能够提高鹅屠宰性能，降低腹脂沉积量。另外，在添加草芽孢杆菌条件下，基础饲粮中铁添加水平达到 $1 0 0 \mathrm { m g / k g }$ 时，屠宰性能各项指标有下降趋势，AFR有升高趋势，说明铁添加水平过高无生物学意义。
+
+表6不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅屠宰性能的影响
+
+Table 6Effects of Bacillus subtilis supplementation in different iron supplemental level diets on
+
+<html><body><table><tr><td>腹脂率</td><td rowspan="2">1.56</td><td rowspan="2">1.45</td><td rowspan="2">1.19</td><td rowspan="2">1.19</td><td rowspan="2">1.30</td><td rowspan="2">0.15</td><td rowspan="2">0.944</td><td rowspan="2">0.545</td><td rowspan="2">0.357</td></tr><tr><td>Abdominal fat rate</td></tr><tr><td>胸肌率</td><td rowspan="4">1.22</td><td rowspan="4">1.48bc</td><td rowspan="4">2.49a</td><td rowspan="4">2.23ab</td><td rowspan="4">2.22ab</td><td rowspan="4">0.15</td><td rowspan="4">0.018</td><td rowspan="4">0.177</td><td rowspan="4">0.306</td></tr><tr><td></td><td></td></tr><tr><td>Chest muscle rate</td><td>21.80 21.85 22.09</td></tr><tr><td>腿肌率</td><td>20.05</td></tr></table></body></html>
+
+2.3 不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅造血功能的影响
+
+由表7可知，通过配对 $t$ 检验分析，与I组相比，VI组雏鹅血液HGB含量 $( P { > } 0 . 0 5 )$ 、RBC数量 $( P { < } 0 . 0 5 )$ 、HCT( ${ \mathrm { P } } { > } 0 . 0 5 { \mathrm { ) } }$ ）、MCV $( P { > } 0 . 0 5 )$ 、MCH $_ { ( P < 0 . 0 5 ) }$ 均升高。
+
+Table 7Effects of Bacillus subtilis on hematopoietic function of goslings   
+
+<html><body><table><tr><td>项目</td><td colspan="2">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>Items</td><td>I</td><td>VI</td></tr><tr><td>血红蛋白 HGB/(g/L)</td><td>142.0</td><td>143.1</td><td>0.727</td><td>0.512</td></tr><tr><td>红细胞RBC/(×1012/L)</td><td>3.15</td><td>3.39</td><td>0.061</td><td>0.023</td></tr><tr><td>红细胞压积 HCT/%</td><td>32.7</td><td>34.3</td><td>0.464</td><td>0.073</td></tr><tr><td>平均红细胞体积 MCV/fL</td><td>91.8</td><td>92.3</td><td>0.148</td><td>0.082</td></tr><tr><td>平均血红蛋白含量 MCH/pg</td><td>29.7</td><td>30.6</td><td>0.232</td><td>0.025</td></tr></table></body></html>
+
+由表8可知，饲粮铁添加水平对雏鹅血液HGB含量、RBC 数量、HCT、MCV 和 MCH影响极显著 （ $_ { \scriptstyle P < 0 . 0 1 }$ ），且随着饲粮铁添加水平的增加，雏鹅血液HGB含量、RBC 数量、HCT、MCV和MCH均先升高后降低。其中， $\mathrm { \Delta V }$ 、VI组血液 HGB 含量极显著高于II、IⅢ组（ $_ { \scriptstyle P < 0 . 0 1 }$ ），显著高于IV组（ $\cdot P { < } 0 . 0 5 \$ ）；V组血液RBC 数量极显著高于II、II组（ $_ { P < 0 . 0 1 }$ ），显著高于IV组（ $. P { < } 0 . 0 5$ ），与VI组差异不显著（ $P { > } 0 . 0 5$ ）；V组血液 HCT 极显著高于II、II、VI组（ $P { < } 0 . 0 1$ ），显著高于IV组（ $. P { < } 0 . 0 5 \$ ）；IV组血液 MCV极显著高于II、IⅢI组（ $_ { \cdot } P { < } 0 . 0 1 \$ )，显著高于 $\mathrm { v }$ 、VI组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）；V组血液 MCH极显著高于II、III、IV组（ $\cdot P { < } 0 . 0 1$ ），显著高于VI组（ $_ { \it P \mathrm { < } 0 . 0 5 }$ ）。
+
+以上结果表明，枯草芽孢杆菌和铁均有改善雏鹅造血功能的作用。另外，在添加草芽孢杆菌条件下，基础饲粮中铁添加水平达到 $1 0 0 \mathrm { m g / k g }$ 时，造血功能各项指标有下降趋势，说明铁添加水平过高无生物学意义。
+
+表7枯草芽孢杆菌对雏鹅造血功能的影响  
+表8不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅造血功能的影响  
+
+<html><body><table><tr><td colspan="6">hematopoietic function of goslings</td></tr><tr><td>项目</td><td colspan="3"></td><td colspan="3">P值P-value</td></tr><tr><td rowspan="2">Items</td><td colspan="3">组别Groups</td><td colspan="3"></td></tr><tr><td>Ⅱ</td><td>Ⅲ IV</td><td>V</td><td>SEM VI</td><td></td><td>铁 线性 二次</td></tr></table></body></html>
+
+Table 8Efects of Bacillus subtilis supplementation in different iron supplemental level diets on
+
+<html><body><table><tr><td colspan="8"></td><td>Iron</td><td>Linear</td><td>Quadratic</td></tr><tr><td>血红蛋白 HGB/(g/L)</td><td>131.5c</td><td>133.7c</td><td>138.2b</td><td>144.0 a</td><td>143.1a</td><td>1.41</td><td><0.001</td><td></td><td><0.001</td><td>0.329</td></tr><tr><td>红细胞</td><td>2.96d</td><td>3.14c</td><td>3.37b</td><td>3.46a</td><td>3.39ab</td><td>0.05</td><td><0.001</td><td></td><td><0.001</td><td>0.008</td></tr><tr><td>RBC/(×1012/L) 红细胞压积</td><td>30.5d</td><td>31.4d</td><td>36.1b</td><td>37.7a</td><td>34.3c</td><td>0.74</td><td><0.001</td><td></td><td><0.001</td><td><0.001</td></tr><tr><td>HCT/% 平均红细胞体积</td><td>83.8d</td><td>87.0℃</td><td>95.9a</td><td>92.6b</td><td>92.3b</td><td>1.16</td><td></td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>MCV/fL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均血红蛋白含量 MCH/pg</td><td>25.7d</td><td>27.6c</td><td>27.7℃</td><td>32.8a</td><td>30.6b</td><td>0.67</td><td><0.001</td><td></td><td><0.001</td><td><0.001</td></tr></table></body></html>
+
+2.4不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅铁代谢和肾脏功能的影响
+
+由表9可知，通过配对 $t$ 检验分析，与I组相比，VI组雏鹅血清铁含量、TIBC、TS 均升高（ $. { \cal P } { > } 0 . 0 5$ ），血清UA、UN、Crea含量均降低（ $P { > } 0 . 0 5$ ）。
+
+表9枯草芽孢杆菌对雏鹅铁代谢和肾脏功能的影响
+
+Table 9Effects of Bacillus subtilis on iron metabolism and kidney function of goslings   
+
+<html><body><table><tr><td>项目</td><td colspan="2">组别Groups</td><td rowspan="2">SEM</td><td>P值</td></tr><tr><td>Items</td><td>I</td><td>VI</td><td>P-value</td></tr><tr><td>铁 Iron/(μmol/L)</td><td>29.64</td><td>30.39</td><td>1.617</td><td>0.845</td></tr><tr><td>总铁结合力</td><td>57.40</td><td>57.80</td><td>0.231</td><td>0.448</td></tr><tr><td>TIBC/(μmol/L) 转铁蛋白饱和度 TS/%</td><td>51.29</td><td>53.01</td><td>2.970</td><td>0.806</td></tr><tr><td>尿酸 UA/(μmol/L)</td><td>197.98</td><td>170.10</td><td>13.148</td><td>0.342</td></tr><tr><td>尿素氮UN/(mmol/L)</td><td>4.34</td><td>3.74</td><td>0.272</td><td>0.324</td></tr><tr><td>肌酐 CR/(μmol/L)</td><td>53.21</td><td>47.31</td><td>6.048</td><td>0.678</td></tr></table></body></html>
+
+由表10 可知，饲粮铁添加水平对雏鹅血清 TIBC 和UA含量影响极显著（ $P { < } 0 . 0 1$ ），且随着饲粮中铁添加水平的增加，雏鹅血清铁含量、TIBC、TS 均先升高后降低，血清UA、UN、Crea 含量先降低后升高。其中，IV、V组血清 TIBC 显著高于III、VI组（ $. P { < } 0 . 0 5$ ），与Ⅱ组差异不显著（ $\cdot P { > } 0 . 0 5 \$ ）；IV组血清UA含量极显著低于Ⅱ组（ $_ { \cdot  { P } < 0 . 0 1 }$ ），显著低于VI组（ $. P { < } 0 . 0 5$ ），与IⅢ、V组差异不显著（ $P { > } 0 . 0 5$ ）。各组血清 TS及铁、UN和Crea 含量差异不显著（ $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ ）。
+
+以上结果表明，饲粮中添加适宜水平铁和枯草芽孢杆菌，均能够提高雏鹅铁代谢水平，改善雏鹅的肾脏功能。另外，在添加草芽孢杆菌条件下，基础饲粮中铁添加水平达到100$\mathrm { m g / k g }$ 时，铁代谢指标有下降趋势，肾脏功能指标有升高趋势，说明铁添加水平过高无生物学意义。
+
+表10不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅铁代谢和肾脏功能的影响
+
+Table 10Effects of Bacillus subtilis supplementation in different iron supplemental level diets on iron metabolism and kidney function of goslings   
+
+<html><body><table><tr><td colspan="6">组别 Groups</td><td colspan="4">P值 P-value</td></tr><tr><td>项目 Items</td><td>Ⅱ</td><td>Ⅲ</td><td>IV</td><td>V</td><td>VI</td><td>SEM</td><td>铁</td><td>线性</td><td>二次</td></tr><tr><td></td><td>26.00</td><td>28.72</td><td>35.70</td><td>34.72</td><td>30.39</td><td>1.57</td><td>Iron 0.261</td><td>Linear 0.184</td><td>Quadratic</td></tr><tr><td>铁 Iron/(μmol/L) 总铁结合力</td><td></td><td>56.00b</td><td></td><td></td><td>57.80b</td><td></td><td></td><td></td><td>0.102</td></tr><tr><td>TIBC/(μmol/L) 转铁蛋白饱和度</td><td>60.07ab</td><td></td><td>63.13a</td><td>64.07a</td><td></td><td>0.46</td><td>0.008</td><td>0.004</td><td>0.004</td></tr><tr><td>TS/%</td><td>43.32</td><td>51.81</td><td>56.65</td><td>54.45</td><td>53.01</td><td>2.64</td><td>0.625</td><td>0.288</td><td>0.274</td></tr><tr><td>尿酸 UA/(μmol/L)</td><td>194.41a</td><td>148.47bc</td><td>140.04c</td><td>146.29bc</td><td>170.10b</td><td>6.07</td><td>0.003</td><td>0.060</td><td><0.001</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>5.36</td><td>4.30</td><td>2.81</td><td>3.25</td><td>3.74</td><td>0.34</td><td>0.113</td><td>0.057</td><td>0.059</td></tr><tr><td>肌酐</td><td>61.41</td><td>39.62</td><td>28.08</td><td>39.23</td><td>47.31</td><td>4.81</td><td>0.275</td><td>0.390</td><td>0.053</td></tr></table></body></html>
+
+3讨论
+
+3.1不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅生长性能的影响
+
+铁作为动物的必须矿物元素之一，在维持动物正常的生长、代谢、繁殖等方面发挥着重要的作用。动物体内铁的含量直接影响磷的含量，进而影响细胞中DNA的合成；同时通过体内含铁酶调控细胞中线粒体和微粒体，影响蛋白质的合成。Vahl等[17]在1\~39 日龄海佩科肉鸡的玉米-豆粕型饲粮中添加0、20、 $6 0 ~ \mathrm { { m g / k g } }$ 的硫酸亚铁，发现肉鸡的增重随着铁添加水平的提高而增加。林映才等[18]在生长猪的基础饲粮中添加0、150、250、 $3 5 0 \ \mathrm { g / t }$ 的复方富力铁，能显著提高生长猪的ADG，显著降低F/G。枯草芽孢杆菌是我国农业部公布的12 种可直接饲喂动物的饲料级微生物添加剂之一，对提高动物生长性能、饲料转化率等效果明显[19]。Hooge 等[20]研究证实，枯草芽孢杆菌制剂对肉鸡、肉鹅具有促生长作用。Molnar 等[21]研究发现，枯草芽孢杆菌能够增加肉仔鸡的ADG，提高饲料转化率。本试验结果表明，饲粮中添加枯草芽孢杆菌，能提高雏鹅体重、ADG，降低F/G；而在基础饲粮中添加适量的铁和枯草芽孢杆菌能极显著提高雏鹅体重、ADG，极显著降低F/G，且各指标最值均优于对照组（铁添加水平 $1 0 0 \mathrm { m g / k g }$ ）。这表明枯草芽孢杆菌与铁具有协同作用，二者能协同提高鹅的生长性能。
+
+# 3.2不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅屠宰性能的影响
+
+屠宰性能反映出家禽的产肉性能，因此是其生长性能和屠宰加工效益的重要依据之一。王彦文等[22]报道肉仔鸡活体重会影响屠宰肉量，当给肉仔鸡饲粮中补充适宜的铁，肉仔鸡的生长速度就会增加，屠宰性能也会相应的增加。张仁义等[23]研究发现，饲粮添加50、100、
+
+$2 0 0 \mathrm { m g / k g }$ 地衣芽孢杆菌制剂，对麻羽肉鸡的SR、AER和HER无显著影响，却能提高CMR和LMR，各指标与抗生素组均无显著差异。本试验结果表明，饲粮中添加枯草芽孢杆菌能提高雏鹅的屠宰性能；在基础饲粮中添加适量的铁和枯草芽孢杆菌均能提高雏鹅的屠宰性能，尤其是AER和CMR提高最为明显，且各指标均优于对照组（铁添加水平 $1 0 0 \mathrm { m g / k g }$ ）。这表明枯草芽孢杆菌与铁具有协同作用，二者能协同提高鹅的屠宰性能。
+
+3.3不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅造血功能的影响
+
+动物血液、血清生化指标的改变通常预示着动物生理机能发生改变，血液中的任何有形成分发生病理变化都会影响全身的组织器官，进而使各种生理机能发生改变。血液中RBC数量、HGB含量和HCT是反映动物机体铁代谢状况和营养状况的重要指标[24.3]。本试验结果表明，饲粮中添加枯草芽孢杆菌能提高雏鹅的造血功能，尤其以雏鹅的血液RBC数量和MCH升高最为显著；在基础饲粮中添加适量的铁和枯草芽孢杆菌能极显著改善雏鹅的造血功能，且各指标均优于对照组（铁添加水平 $1 0 0 \mathrm { m g / k g } \dot { . }$ ）。这表明枯草芽孢杆菌与铁具有协同作用，二者能协同改善鹅的造血功能。铁的添加不仅能直接促进血液HGB和RBC的合成，还能通过改善肾脏的功能合成促红细胞生成素间接促进RBC的合成，提高鹅的造血功能[15]；枯草芽孢杆菌能改善雏鹅的造血功能的机理还有待于进一步研究。
+
+3.4不同铁添加水平饲粮中添加枯草芽孢杆菌对雏鹅铁代谢和肾脏功能的影响
+
+血清中铁和铁蛋白含量是反映机体铁代谢状况、生长发育状况和新陈代谢状况的重要指标[25-26]。血清TIBC是指能与 $1 0 0 ~ \mathrm { m L }$ 血清中全部转铁蛋白结合的最大铁量。血清铁含量可以确定动物体铁的营养状态，能够较真实地反映肝脏及体内的铁总量，血清铁含量不足时会引起血清铁传递蛋白的饱和度过低，导致造血组织铁的供应不足和贫血症状的产生[27-28]。
+
+血液中的非蛋白氮包括UA、UN和Crea等，分别为嘌呤、蛋白质和肌肉代谢的终末产物，均通过肾脏从尿中排出，直接反映肾脏的功能[29]。UA是鸟类和爬行类的主要代谢产物，微溶于水，易形成晶体。如果机体未能将UA从肾脏排出，这些物质会最终形成结晶体积存于体内，导致肾功能衰竭。UN为机体蛋白质分解代谢的产物， $90 \%$ 以上通过肾脏排泄，其余则由肠道和皮肤排出。当肾脏发生各种病变，正常的排泄功能遭到破坏时，即引起血清UN含量升高。血清中UN的含量是肾功能变化的一项重要指标。Crea是机体肌肉代谢的产物，包括外源性和内源性2种。外源性Crea是肉类食物在体内代谢后的产物；内源性Crea是体内肌肉组织代谢的产物。在正常情况下，机体内Crea的含量基本稳定。如果机体肌肉的容积无明显变化，内源性Crea的生成量是相对恒定的，主要通过肾小球滤过排出体外。所以，在外源性Crea稳定的情况下，血清中的Crea含量可作为检测肾小球滤过功能的指标之一。
+
+血清铁含量不足时会引起血清铁传递蛋白的饱和度过低，导致造血组织铁的供应不足和贫血症状的产生，而贫血是肾功能衰竭的重要并发症。在临床医学上发现，口服补铁可以有效的改善肾脏功能[30]。本研究结果中血清铁含量的变化趋势与血清UA、UN和Crea含量的变化趋势相反，表明铁代谢与肾脏功能之间有密切关系，此结果与Meara等[31的研究一致。
+
+本试验结果表明，在饲粮中添加枯草芽孢杆菌能改善雏鹅铁代谢和肾脏功能；在基础饲粮中添加适量的铁和枯草芽孢杆菌能改善雏鹅的铁代谢和肾脏功能，尤其以血清TIBC和UA含量最为显著，且各指标均优于对照组（铁添加水平 $1 0 0 \mathrm { m g / k g }$ ）。这表明枯草芽孢杆菌与铁具有协同作用，二者能协同改善鹅的铁代谢和肾脏功能。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加适宜水平铁和枯草芽孢杆菌，均能够提高雏鹅的生长性能和屠宰性能，降低腹脂沉积量。
+
+$\textcircled{2}$ 饲粮中添加适宜水平铁和枯草芽孢杆菌，均能够改善雏鹅造血功能和肾脏功能。
+
+$\textcircled{3}$ 饲粮中添加枯草芽孢杆菌能够降低饲粮中铁添加量，枯草芽孢杆菌与铁具有协同作用。
+
+$\textcircled{4}$ 雏鹅机体铁营养需要量具有一定阈值，过高或过低都不利于机体的生长发育。
+
+$\textcircled{5}$ 以最佳生长性能为目标，建议雏鹅饲粮中添加 $2 5 0 ~ \mathrm { m g / k g }$ 枯草芽孢杆菌条件下，铁的添加水平为 $6 0 . 3 4 { \sim } 8 0 . 5 0 \mathrm { m g / k g } .$
+
+参考文献:
+
+[1]WANG W,DI X M,DAGOSTINO R B,Jr,et al.Excess capacity of the iron regulatory protein system[J].Journal of Biological Chemistry,2007,282(34):24650-24659.   
+[2]THEIL E C.Feritin:structure,gene regulation,and cellular function in animals,plants,and microorganisms[J].Annual Review of Biochemistry,1987,56(1):289-315.   
+[3]陈凤芹,计峰,程茂基,等.不同铁源对断奶仔猪生长性能、免疫功能及铁营养状况的影响 [J].中国畜牧兽医,2008,35(7):11-14.   
+[4] DU F,QIAN Z M,LUO Q Q,et al.Hepcidin suppresses brain iron accumulation by downregulatingirontransport proteins in iron-overloaded rats[J].Molecular Neurobiology,2015,52(1):101-114.   
+[5]ZHENG M Z,DU H J,NI W,et al.Iron-Induced necrotic brain cell death in rats with different aerobic capacity[J].Translational Stroke Research,2015,6(3):215-223.   
+[6] BENTLEY O G,PHILLIPS P H.The effect of low manganese rations upon dairy cattle[J].Journal of Dairy Science,1951,34(5):396-403.   
+[7]李德发.猪的营养[M].北京:中国农业大学出版社,1996:197-200.   
+[8] WARD T L,ASCHE G A，LOUIS G F,et al.Zine-Methionine improves growth performance of starter pigs[J].Journal of Animal Science,1996(S1):182.   
+[9] 王中成,吴学壮,崔虎,等.饲粮添加不同水平果胶寡糖螯合锌对肉仔鸡生长性能、免疫功
+
+能HⅢ俏ん影啊[J」仞,UU,(U).1//-1/04.   
+[10]郭继英,刘永庆.雏鸡对铁的需求量研究[J].中国饲料,1996(7):17-18.   
+[11]CAO J,LUO X G,HENRY P R,et al.Effect of dietary iron concentration,age and length of iron feeding on fed intake and tissue iron concentration of broiler chicks for use as a bioassay of supplemental iron sources[J].Poultry Science,1996,75(4):495-504.   
+[12]JAYARAMAN S,THANGAVEL G,KURIAN H,et al.Bacillus subtilis PB6 improves intestial health of broiler chickens challnged with Clostridium perfringens-induced necrotic enteritis[J].Poultry Science,2013,92(2):370-374.   
+[13]XU C L,JI C,MA Q.et al.Effects of a dried Bacilussubtiliscultureonegg quality[J].Poultry Science,2006,85(2):364-368.   
+[14]SAMANYA M,YAMAUCHI K.Histological alterations of intestinal villi in chickens fed dried Bacillus subtilis var. natto[J].Comparative Biochemistry and Physiology Part A: Molecular & Integrative Physiology2002,133(1):95-104.   
+[15]LOPEZ A, LAZARO N,MORALES S,et al.Nickel biosorption by free and immobilized cellsofPseudomonasfluorescens4F39:acomparativestudy[J].Water,Air,andSoil Pollution,2002,135(1/2/3/4):157-172.   
+[16]王宝维,马传兴,葛文华,等.铁对1\~4 周龄五龙鹅生产性能、造血功能和铁代谢的影响[J]. 动物营养学报,2016,28(5):1369-1376.   
+[17]VAHL H A,VAN TKLOOSTER A T.Dietary iron and broiler performance[J].British Poultry Science,1986,28(4):567-576.   
+[18]林映才,郑黎,蒋宗勇,等.复方富力铁对生长猪的生产性能、肤色和部分血液指标的影响 [J].养猪,2001(2):26-27.   
+[19]WU L Y,TAN R B,SHI K J.Effect of a dried Bacillus subtilis culture on gosling growth performance[J].British Poultry Science,2008,49(4):418-422.   
+[20]HOOGE D M,ISHIMARU H,SIMS M D.Influence of dietary Bacillus subtilis C -3102 spores on live performance of broiler chickens in four controled pen trials[J].The Journal of Applied Poultry Research,2004,13(2):222-228.   
+[21]MOLNAR A K,PODMANICZKY B,KURTI P,et al.Effect of diferent concentrations of Bacillus subtilis on growth performance,carcase quality,gut microflora and immune response of broiler chickens[J].British Poultry Science,2011,52(6):658-665.   
+[22]王彦文,宋志琪.不同日粮配方对肉用仔鸡生产性能和胴体品质的影响[J].中国饲 料,1995(8):11-14.   
+[23]张仁义,陈家祥,蔡亚稻,等.地衣芽孢杆菌对肉鸡生产性能和屠宰性能的影响[J].福建农
+
+林大学学报:自然科学版,2010,39(4):384-387.
+
+[24]HUANG Y,YOO J S,KIM H J,et al.Effects of dietary supplementation with blended essential oils on growth performance, nutrient digestibility,blood profiles and fecal characteristics in weanling pigs[J].Asian-Australasian Journal of Animal Sciences,2010,23(5):607-613.   
+[25]康波,杨焕民,刘胜军,等.东北白鹅和籽鹅血液生化指标[J].中国兽医学 报,2006,26(6):649-652.   
+[26]温靖,顾为望,杨海英.SPF 级新西兰兔血液生理生化指标的测定[J].动物医学进 展,2005,26(1):81-83.   
+[27]李清晓,李忠平.铁元素的营养作用及在动物生产上的应用[J].饲料博览,2004(4):4-6. [28] 苏传福,罗莉,文华,等.日粮铁对草鱼生长、营养成分和部分血液指标的影响[J].淡水渔 业,2007,37(1):48-52.   
+[29]MILES R D,FEATHERSTON W R.Uric acid excretion by the chick as an indicator of dietary protein quality[J].Poultry Science,1976,55(1):98-102.   
+[30]毕康宁,顾勇,陈文,等.静脉注射和口服铁剂治疗肾性贫血的成本效果分析[J].中华肾脏 病杂志,2006,22(10):596-600.   
+[31]MEARA J,BHOWMICK B K,HOBSON P.Accuracy of diagnosis in patients with presumed Parkinson's disease[J].Age and Ageing,1999,28(2):99-102.
+
+Effects of Bacillus subtilis Supplementation in Different Iron Supplemental Level Diets on Growth Performance, Hematopoiesis Function, Iron Metabolism and Kidney Function of Goslings
+
+DIAO Cuiping WANG Baowei\* GE Wenhua ZHANG Ming'aiSHI Xueping KE Changjiao LONG Jianhua (Institute of Quality Waterfowl, Qingdao Agricultural University, Research Laboratory of Nutrition and Feed Function,National Waterfowl Industry Technical System,Qingdao 266109, China)
+
+Abstract: The aim of this study was to investigate the efects of Bacillus subtilis supplementation in different iron supplemental level diets on growth performance,hematopoiesis function, iron metabolism and kidney function of goslings. A total of 360 one-day-old Wulong geese were randomly divided into 6 groups with 6 replicates in each group and 10 geese in each replicate. Geese in control group (group I）were fed a basal diet supplemented with $1 0 0 ~ \mathrm { m g / k g }$ iron, without Bacillus subtilis; and others in experimental groups (groups $\mathrm { I I }$ to $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ ）were fed the basal diets supplemented with O,25, 50,75 and 100 iron, respectively,and all supplemented with 250 $\mathrm { m g / k g }$ Bacillus subtilis. The experiment lasted for 4 weeks. The results showed as follows: 1) compared with group I ,the body weight, average daily gain, slaughter rate, half-eviscerated rate, chest muscle rate, leg muscle rate and blood hemoglobin content, hematocrit, mean corpuscular volume and serum iron content, total iron binding capacity, transferrin saturation of group VI were increased ( $_ { . P > 0 . 0 5 ) }$ , the average daily feed intake, fed to gain ratio,abdominal fat rate and contents of uric acid, urea nitrogen and creatinine in serum of group VI were decreased （ $P { > } 0 . 0 5 \ '$ ）. 2) The body weight and average daily gain of groups $\mathrm { I V }$ and $\mathrm { \Delta V }$ were significantly higher than those of groups II，III and VI（ $P { < } 0 . 0 5$ ㎡ $P { < } 0 . 0 1$ ）, the feed to gain ratio of group $\mathrm { I V }$ was significantly lower than that in groups $\mathrm { I I }$ ， III and $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ （ $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）.3)The all-eviscerated rate of groups $\mathrm { I V }$ and $\mathrm { \Delta V }$ was significantly higher than that in group I（ $P { < } 0 . 0 5 )$ ： the chest muscle rate of group $\mathrm { I V }$ was significantly higher than that in groups IIand III （ $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ），the chest muscle rate of group $\mathrm { \Delta V }$ was significantly higher than that in group II( $P { < } 0 . 0 5$ ）.4) The bold hemoglobin content of groups $\mathrm { \Delta V }$ and $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ was significantly higher than that in groups $\mathrm { I I }$ ， III and $\mathrm { I V }$ ( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）,the blood red blood cell number of group $\mathrm { \Delta V }$ was significantly higher than that in groups II, II and IV( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）， the blood hematokrit of group $\mathrm { \Delta V }$ was significantly higher than that in groups I， III, $\mathrm { I V }$ and VI( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）,the blood mean corpuscular volume of group $\mathrm { I V }$ was significantly higher than that in groups II, III, $\mathrm { \Delta V }$ and $\mathrm { ~ \textmu ~ } \mathrm { ~ U I }$ （ $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）, the blood mean corpuscular hemoglobin of group $\mathrm { \Delta V }$ was significantly higher than that in groups II， III， IV and VI （ $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）. 5）The serum total iron binding capacity of groups $\mathrm { I V }$ and $\mathrm { \Delta V }$ was significantly higher than that in groups II and VI( $P { < } 0 . 0 5$ ）,the serum uric acid content of group $\mathrm { I V }$ was significantly lower than that in groups II and VI( $P { < } 0 . 0 5$ or $P { < } 0 . 0 1$ ）.In conclusion, the iron nutritional requirement of goslings has a certain threshold value,too high or too low dietary iron supplemental level is not conducive to the growth and development of goslings. Bacillus subtilis can synergize with iron to promote the growth and development, hematopoietic function, iron metabolism and kidney function of goslings,and reduce the dietary iron supplemental level. It is suggested that the appropriate dietary supplemental level of iron is 60.34 to $8 0 . 5 0 \mathrm { m g / k g }$ when $2 5 0 \mathrm { m g / k g }$ Bacillus subtilis is added to the basic diets of goslings.
+
+Key words: iron; Bacillus subtilis; goslings; growth performance; hematopoietic funtion; iron metabolism; kidney function

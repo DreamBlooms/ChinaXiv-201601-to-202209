@@ -1,0 +1,429 @@
+[
+    {
+        "type": "text",
+        "text": "ZHAOYanzhen.Positioning of high Earthorbit sateliteusing GPS/Beidoucombined system(in Chinese).Chin.J.Space Sci. 2016,36(1): 77-82.DOI:10.11728/cjss2016.01.077 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于GPS/北斗组合系统的高轨卫星定位技术研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵彦珍",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院国家空间科学中心北京 100190)(中国科学院大学北京 100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要针对目前高轨GPS 信号可用性差及定位精度低的特点，对GPS/北斗组合系统的高轨卫星定位技术进行研究,对比分析了单GPS 系统与GPS/北斗组合系统的卫星可见性和几何精度因子.结果表明，GPS/北斗组合系统比单GPS 系统的卫星可见性好，且定位精度高．同时通过提出在星载接收机上采用高精度原子钟，可实现三星定位，降低对接收机的技术要求.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词GPS 系统,北斗系统,可见性,几何精度因子,星载接收机中图分类号V249",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Positioning of High Earth Orbit Satellite Using GPS/Beidou Combined System ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Yanzhen ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(National Space Science Center,Chinese Academy of Sciences,Beijing 100190) (University of Chinese Academy of Sciences, Chinese Academy of Sciences, Beijing 100049) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe characteristics of current high orbit GPS (Global Positioning System) signal are of poor availability and low positioning accuracy. Positioning of high Earth orbit satelites using GPS/Beidou combined system is studied. The visibility of navigation satellites and the Geometric Dilution of Precision (GDOP)are analyzed. Through simulation and analyzing,it is verified that the GPS/Beidou combined system has better performance than that of single GPS system. On one hand, the GPS/Beidou combined system can receive more satelites’ signal than single GPS system. On the other hand, GDOP of the GPS/Beidou combined system is smaller than that of single GPS system.At the same time,the use of high-precision atomic clock in the satelite receiver can realize positioning of three satellites,and reduce the technology requirements of receiver. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsGPS (Global Positioning System),Beidou system, Visibility, GDOP,Satelite receiver ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GPS导航系统可以实现全球、全天候的高精度实时定位[1．对于地球上任意位置的用户,在任意时刻至少能接收到4颗GPS卫星信号.近年来利用星载GPS接收机对低轨道（LEO）卫星的定位技术已渐成熟.随着GPS系统以及微弱信号捕获技术的发展，接收机应用范围逐步从低轨扩展到高轨[2].",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GPS卫星发射天线均为对地天线，高轨卫星接收机只能接收从地球对面GPS卫星发射来的信号，且由于地球遮挡，只能接收到由GPS卫星发射天线波束边缘所构成环形锥内的导航信号.GPS发射天线的主瓣波束宽度为 $4 2 . 6 ^ { \\circ }$ ，地球对GPS信号的遮挡角为 $2 7 . 8 ^ { \\circ }$ ，因此只有很少一部分主瓣波束能够到达高轨星载接收机",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "考虑到高轨星载接收机接收信号难及定位稳定性差的特点，本文在GPS系统基础上引入北斗系统，实现GPS系统与北斗系统的联合导航.北斗卫星导航系统由区域发展到全球.2012年12月27日，北斗卫星导航系统服务性能规范[3]发布，标志着北斗区域系统正式建成.截至2012年12月底，北斗系统在轨工作卫星包括5颗地球静止轨道（GEO）卫星、5颗倾斜地球同步轨道(IGSO）卫星和4颗中圆地球轨道（MEO）卫星.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文根据中欧合作引力红移探测（GRESE）提议，设置GRESE 轨道为大椭圆轨道，远地点高度在 $6 0 0 0 0 0 \\mathrm { k m }$ 以上，位于导航卫星信号覆盖范围之外.在有效载荷配置中使用了星载氢原子钟，该原子钟精度比导航卫星精度高两个数量级，可为星载GNSS 提供频标辅助定位．星载GNSS接收机为GRESE卫星提供精密的位置和速度信息.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 卫星可见性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 信号传播链路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通信链路包括信号发射、空间传播及接收三部分，信号传播链路原理如图1所示.整个链路的工作过程为：发射信号经发射机发射天线放大后，发射出功率为 $P _ { \\mathrm { { t } } }$ 的信号，该信号在空间中传播后到达接收机天线，由接收天线放大后到达接收机的射频前端此时功率为 $P _ { \\mathrm { r } }$ ，对信号进行处理后可解算出时间、速",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "度及位置信息.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "接收终端功率方程为 [4] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { r } } = P _ { \\mathrm { t } } + G _ { \\mathrm { t } } - L _ { \\mathrm { p } } - L _ { \\mathrm { a } } + G _ { \\mathrm { r } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $P _ { \\mathrm { r } }$ 为接收机的接收功率 (接收机灵敏度), $P _ { \\mathrm { { t } } }$ 为 卫星发射功率, $G _ { \\mathrm { t } } , G _ { \\mathrm { r } }$ 分别为发射天线和接收天线的 增益, $L _ { \\mathrm { p } }$ 为路径损耗, $L _ { \\mathrm { a } }$ 为大气损耗 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卫星通信电波在传播过程中要受到损耗,其中最主要的是自由空间传播损耗，其占总损耗的绝大部分，并且传播距离越大，自由空间损耗越大，有",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\mathrm { p } } = 2 0 \\log ( 4 \\pi d / \\lambda ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\lambda$ 为信号传输波长， $d$ 为接收机到卫星的直线距离.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 卫星可见性仿真",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用 STK软件模拟卫星系统的工作模型，仿真生成一天的卫星轨道参数和图形，分析GEO 星载接收机对卫星的可见情况和定位精度等特性.仿真参数设置列于表1.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图2、图3和图4分别给出了在不同接收机灵敏度下GEO星载接收机对单GPS系统导航的可见卫星数，图5、图6和图7分别给出了在不同接收机灵敏度下GEO星载接收机对GPS/北斗组合系统导航的可见卫星数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图2和图5的仿真结果可以看出，当接收机灵敏度为 $- 1 7 0 \\mathrm { d B w }$ 时,两种导航方式的可见星数目均很少，接收机最多只能接收到3颗单GPS系统卫星信号，而最多能接收到5颗GPS/北斗组合系统卫星信号，基本不能进行定位，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图3和图6可以看出，当接收机灵敏度达到 $- 1 7 5 \\mathrm { d B w }$ 时，对于单GPS导航系统，接收机大部分时间只能接收到1颗卫星信号，最多时能够接收到5颗卫星信号，而对于GPS/北斗组合导航系统，接收机大部分时间能够接收到4颗卫星信号，而最多时能够接收到10颗卫星信号.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图4和图7可知，当接收机灵敏度达到$- 1 9 0 \\mathrm { d B w }$ 时，可见卫星数明显增多，但对于单GPS导航系统，大部分时间可见卫星数为2颗，大约 $5 0 \\%$ 时间的可见卫星数达到4颗，最多时可见卫星数达到9颗，而GPS/北斗组合系统可保证接收机在任意时刻都能够接收到至少4颗卫星的信号，最多时能接收到14颗卫星信号.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "power Pt transmission gain $G _ { \\mathrm { t } }$ transmission gain Gr power Pr space transmitting transmission receiving   \ntransmitter antenna loss $L _ { \\mathrm { p } }$ （204号 antenna receiver ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1仿真参数设置",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/44b0ca20bf3fe28870f8dd4b93578aadfd37a936ddd4e8462a6b52f5d34286a1.jpg",
+        "table_caption": [
+            "Table 1 Simulation parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>参数</td></tr><tr><td>仿真场景</td><td>仿真时间长度：1d</td></tr><tr><td></td><td>仿真时间段：2014-11-0404:00:00LTB</td></tr><tr><td></td><td>2014-11-0504:00:00LTB</td></tr><tr><td>GPS系统</td><td>星数：31</td></tr><tr><td>北斗系统</td><td>星数：14</td></tr><tr><td></td><td>计算步长：60s[5]</td></tr><tr><td rowspan=\"3\">发射机</td><td>天线指向：地心</td></tr><tr><td>载波频率:L=1575.42MHz</td></tr><tr><td>载波频率:Bi=1561.098MHz</td></tr><tr><td rowspan=\"2\">接收机</td><td>灵敏度：-170~-190dBw</td></tr><tr><td>信号处理耗时：用户设置，默认32 s</td></tr><tr><td rowspan=\"2\">用户星</td><td>噪声温度：290K[6]</td></tr><tr><td>天线指向：用户高度比GPS/北斗高时 指向地心，低时指向天顶</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e4582d3e6376de10f3a128b92ace35d911b9cea07b14de27512bb11595034e8.jpg",
+        "img_caption": [
+            "图2接收机功率为 $- 1 7 0 \\mathrm { d B w }$ 时GPS系统GEO可见卫星数",
+            "Fig.2GPS satellites visible numbers of GEO satellite when the sensibility of GPS receiver is-170dBw ",
+            "Fig.4GPS satellites visible numbers of GEO satellite when the sensibility of GPS receiver is-190 dBw "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3a6c993d2357de09ca4533fc5de196379f83264a55745eb523fdccdf03bcd50.jpg",
+        "img_caption": [
+            "Fig.1Signal transmission link diagram ",
+            "图3接收机功率为 $- 1 7 5 \\mathrm { d B w }$ 时GPS系统GEO可见卫星数"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1403ee85711d8e707b2d38e571aaf2e901da56c7f958943107464d09d259e680.jpg",
+        "img_caption": [
+            "图1信号传播链路原理",
+            "Fig.3GPS satellites visible numbers of GEO satellite when the sensibility of GPS receiver is $- 1 7 5 \\mathrm { d B w }$ ",
+            "图4接收机功率为 $- 1 9 0 \\mathrm { d B w }$ 时GPS系统GEO可见卫星数"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2几何精度因子",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "几何精度因子（GDOP）包括三维定位精度因子(PDOP)、水平位置精度因子(HDOP)、垂直位置精度因子(VDOP)和时间偏差因子(TDOP)，而",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/786990edb1efcb9796686071d6e2b807410da9594dad66b40fc02d7bc370c1af.jpg",
+        "img_caption": [
+            "图5接收机功率为 $- 1 7 0 \\mathrm { d B w }$ 时GPS/北斗组合系统GEO可见卫星数"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b758c46d2338d9878d8af0485f9df718f8a5a75037396e0b171fb9cf18cc084b.jpg",
+        "img_caption": [
+            "Fig.5GPS satellites visible numbers of GEO satellite when the sensibility of GPS receiver is $- 1 7 0 \\mathrm { d B w }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GDOP集中体现了这几种精度因子的特性.影响卫星导航定位精度的因素主要有两个方面：一是观测量精度，二是卫星的空间几何分布.典型的4星定位GDOP可表示为[7]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| K _ { \\mathrm { G D O P } } | = \\Big | \\frac { [ \\mathrm { T r a c e } H ^ { * } ( H ^ { \\mathrm { T } } ) ^ { * } ] ^ { 1 / 2 } } { 6 V } \\Big | = \\frac { A ^ { 1 / 2 } } { 6 } \\frac { 1 } { V } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $H ^ { * }$ 为 $H$ 的伴随矩阵， $V$ 为由用户到卫星的单位矢量末端四点联成的四面体体积．式(3)表明， $V$ 越大，GDOP值越小，即4颗定位卫星构成的四面体的体积越大，相应的GDOP值越小.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GDOP值越小，导航卫星的定位精度越高；反之，GDOP值越大，导航卫星的定位精度越差.精度因子",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "的等级划分列于表2.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图8和图9 分别仿真了GEO 星载接收机在GPS 导航系统和GPS/北斗组合导航系统下的",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e83e5e61d4d0bf1a8107b4acb82435054d24d5df4cb4a7584d684772e7deb6e.jpg",
+        "img_caption": [
+            "图7接收机功率为 $- 1 9 0 \\mathrm { d B w }$ 时GPS/北斗组合系统GEO可见卫星数"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c0443c44c9215f73d74df9f7d5f1380c7bfb5799ef2f228c12544051a0ad813.jpg",
+        "img_caption": [
+            "图6接收机功率为 $- 1 7 5 \\mathrm { d B w }$ 时GPS/北斗组合系统GEO可见卫星数",
+            "Fig.6GPS satellites visible numbers of GEO satellite when the sensibility of GPS receiver is-175 dBw ",
+            "Fig.7GPS satellites visible numbers of GEO satellite when the sensibility of GPS receiver is-190 dBw ",
+            "图8GEO 在GPS 导航下的GDOP 值Fig.8GDOP value when the GEO receiver isnavigated by GPS navigation"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2 DOP等级划分",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/125e01f4a1ce8efb8b7770711cffad0ec3eff0f95e031781b5100c2379825a65.jpg",
+        "table_caption": [
+            "Table 2 DOP grade classification "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>DOP值</td><td>等级</td></tr><tr><td>1</td><td>最优</td></tr><tr><td>2~3</td><td>优</td></tr><tr><td>4~6</td><td>良</td></tr><tr><td>7~8</td><td>中</td></tr><tr><td>9~20</td><td>合格</td></tr><tr><td>>20</td><td>差</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ca6110a86262cdb19067177db00728977485ac697be9f8b908f9ed21b92c9b3.jpg",
+        "img_caption": [
+            "图9GEO 在GPS/北斗导航下的GDOP 值Fig.9GDOP value when the GEO receiver isnavigated by GPS/Beidou combined navigation"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GDOP 值．从图 8 可以看出，对于GEO 星载接收机，使用单 GPS 系统导航的 GDOP值范围为$3 . 2 { \\sim } 4 . 8$ ．从图9 可以看出，使用GPS/北斗组合系统导航的GDOP值范围为 $2 . 4 { \\sim } 2 . 9 5$ .其中，单GPS系统导航的GDOP值等级为良，GPS/北斗组合系统导航的GDOP值等级为优.这两种情况下GDOP值的变化范围均较小，属于高精度区，但是GPS/北斗组合系统导航的GDOP值比单GPS系统的GDOP值范围小，说明多系统联合导航的定位精度相对较高，也较为可靠.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将GDOP值仿真结果与相应可见卫星数仿真结果相结合进行分析可知，可见卫星数越多时GDOP值越小;反之GDOP 值越大.由此可知,GDOP值与可见卫星数成反比.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 三星定位",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "理想情况下接收机只需接收3颗卫星信号即可解算出位置坐标，但是接收机时钟与导航卫星的高精度原子钟不同步，存在钟差 $\\Delta t$ ．因此在实际情况中需要接收4颗卫星信号才能定位，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "设4颗导航卫星的位置坐标分别为 $( X _ { 1 } , Y _ { 1 } , Z _ { 1 } )$ $( X _ { 2 } , Y _ { 2 } , Z _ { 2 } )$ ， $( X _ { 3 } , Y _ { 3 } , Z _ { 3 } )$ ， $( X _ { 4 } , Y _ { 4 } , Z _ { 4 } )$ ，接收机位置坐标为 $( X , Y , Z )$ ,4颗导航卫星到接收机的距离计算公式分别为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { 1 } = \\sqrt { ( X - X _ { 1 } ) ^ { 2 } + ( Y - Y _ { 1 } ) ^ { 2 } + ( Z - Z _ { 1 } ) ^ { 2 } } + \\Delta t c ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R _ { 2 } = \\sqrt { ( X - X _ { 2 } ) ^ { 2 } + ( Y - Y _ { 2 } ) ^ { 2 } + ( Z - Z _ { 2 } ) ^ { 2 } } + \\Delta t c , } \\\\ { R _ { 3 } = \\sqrt { ( X - X _ { 3 } ) ^ { 2 } + ( Y - Y _ { 3 } ) ^ { 2 } + ( Z - Z _ { 3 } ) ^ { 2 } } + \\Delta t c , } \\\\ { R _ { 4 } = \\sqrt { ( X - X _ { 4 } ) ^ { 2 } + ( Y - Y _ { 4 } ) ^ { 2 } + ( Z - Z _ { 4 } ) ^ { 2 } } + \\Delta t c . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mid c \\mid$ 为光速 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高轨星载接收机只能接收导航卫星发射的微弱信号，在接收机灵敏度较低的情况下很难同时接收到4颗导航卫星信号，从图4和图7的仿真结果中也可以看出，当接收机灵敏度达到 $- 1 9 0 \\mathrm { d B w }$ 时，虽然GPS/北斗组合系统能够进行可靠定位，但是提高接收机的灵敏度难度较大，高动态及弱信号的接收机硬件实现代价极高;而基于软件的算法改进捕获速度较慢，信号质量不理想，一直是该领域研究的难点[8],因此要使接收机灵敏度达到 $- 1 9 0 \\mathrm { d B w }$ ，技术实现方面仍很困难",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "引力红移探测(GRESE)提议是利用高精度星载氢原子钟 (其精度高于导航卫星星载原子钟)测量地球引力红移的，可利用此原子频标辅助定位．如果高轨卫星接收机上有星载高精度原子钟，则不存在接收机钟差 $\\Delta t$ 。从而由钟差 $\\Delta t$ 引起的测距误差△tc可以消除，只需接收3颗导航卫星信号即可解算出接收机位置坐标.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图6中可以看出，对于GEO星载接收机，当接收机灵敏度达到 $- 1 7 5 \\mathrm { d B w }$ 时，GPS/北斗组合系统导航定位可以保证在 $1 0 0 \\%$ 的时间内接收机至少观测到3颗卫星，因此能够进行可靠定位.而对于单G-PS 系统导航，即使接收机灵敏度达到 $- 1 9 0 \\mathrm { d B w }$ GEO星载接收机只有大约 $6 0 \\%$ 的时间可以接收到3颗导航卫星信号.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过对单GPS系统与GPS/北斗组合系统导航的仿真分析可以得出如下结论.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1）仅使用单GPS系统进行导航定位不能满足高轨卫星用户的导航定位需求，而采用GPS/北斗组合系统导航定位时，由于卫星数目多，而且卫星的空间几何构型范围大，因此能够保证高轨用户的可靠导航定位.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）GPS/北斗组合系统的 GDOP 值相对于单 GPS 系统的 GDOP 值要小，说明GPS/北斗组合系统导航定位精度高，可靠性强，(3)基于GRESE 提议，利用星载高精度氢原子钟可以极大程度上辅助定位，在只接收3颗导航卫星信号的状态下实现定位，降低了对接收导航信号的技术要求.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上研究可为类似高轨、大椭圆轨道利用导航系统定位提供很好的技术方案，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]LIU Haiying，WANG Huinan. Orbit determination ofsatellite on the middle-high Earth orbit based on GPS [J].Chin．J.Space Sci.，2005，25(4):293-297 (刘海颖，王惠南.基于GPS的中、高轨道航天器定轨研究[J].空间科学学报，2005,25(4):293-297)  \n[2]AXELRAD P,BRADLEY B K,Tombasco J,Mohiud-din S,Donna J.GEO satellite positioning using GPS col-lective detection[C]//23rd International Technical Meet-ing of the Satellite Division of the Institute of Naviga-tion 20lo.Oregon,Portland:Institute of Navigation,2010:2717-2731  \n[3] YUN Cheng.Public Service Performance Specification ofBeidou Satellite Navigation System(1.0) [EB/OL]. [2013-12-01].http://www.beidou.gov.cn/attach/2013/12/26/20-131226fe8b20aad5f34091a6f8a84b08b1c4b1.pdf  \n[4] WEN Changyuan,YUE Fuzhan,CHOU Yuehua.Analy-sis of high altitude GPS signal availability[J].Electr.De-sign Eng.，2014，22(2):29-33(闻长远，岳富占，仇跃华．高轨GPS 信号可用性分析[J]．电子设计工程，2014,22(2):29-33)  \n[5] HE Qingxu, SUN Qiangui.A new solution of autonomousnavigation for GEO satellites based on GNSS[J].J. Spa-cecr.TT&C Technol.,2010,29(1):7-11(何清举,孙前贵.利用GNSS 实现高轨卫星自主导航的新方案[J]．飞行器测控学报,2010,29(1):7-11)  \n[6] CHEN Shanshan,LIANG Zhiguo,ZHANG Mengyang.Design of on-board GPS receiver using STK[J].J. Syst.Simul.，2014，26(1):45-50 (陈姗姗，梁志国，张孟阳．利用 STK 辅助星载GPS 接收机设计[J].系统仿真学报，2014,26(1):45-50)  \n[7] QIN Honglei, LIANG Minmin.Research on positioning ofhigh Earth orbital satellite using GNSS[J].Chin.J.SpaceSci.,2008，28(4):316-325(秦红磊，梁敏敏．基于GNSS 的高轨卫星定位技术研究[J].空间科学学报，2008，28(4):316-325)  \n[8] FAN Shiwei,MENG Yinan,GAO Weiguang,LI Li. Sum-marizing on the development of spacecraft orbit deter-mination technology[J].J.Geomat.Sci．Tech.,2013,30(6):549-554 (樊士伟，孟轶男，高为广，李里．航天器测定轨技术发展综述[J].测绘科学技术学报，2013,30(6):549-554)",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

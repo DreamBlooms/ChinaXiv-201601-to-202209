@@ -1,0 +1,127 @@
+# 流行病学调查
+
+# 影响体外受精-胚胎移植结局的职业、学历及居住地因素分析
+
+华芮,宋亚丽,吴 标,倪 郝,杨晓萍,郭阳春,李 红,全 松,余艳红南方医科大学南方医院妇产科生殖医学中心，广东广州510515摘要：目的探讨体外受精-胚胎移植(IVF-ET)结局与患者职业、学历及围孕期居住地的关系。方法 回顾南方医院生殖中心2010年1月\~2014年6月首次IVF-ET助孕患者（ $\scriptstyle n = 3 9 9 8$ 以及同期所有围产儿临床资料 $\scriptstyle \overbrace { n = 3 0 6 4 }$ )。了解不同IVF-ET结局与患者职业、学历及居住地的关系。结果 与本中心总体水平相比,女方务农患者早期流产风险升高( $\mathrm { O R } { = } 4 . 3 1 9$ $\scriptstyle P = 0 . 0 4 7$ )。男女双方职业与学历与IVF-ET异位妊娠存在相关性。围产儿出生缺陷发生率为 $2 . 1 \%$ 。深圳市出生缺陷发生率较高 $( 5 . 5 \% )$ ），但与广东省其他地区差异无统计学意义 $( P { > } 0 . 0 5 )$ 。结论 患者职业及学历对IVF-ET助孕结局有一定影响。积极开展卫生宣教和产前检查十分必要。
+
+关键词：体外受精-胚胎移植结局；职业；学历；居住地
+
+# Occupational, educational and residential factors are associated with the outcomes of in vitro fertilization-embryo transfer
+
+HUA Rui, SONGYali,WU Biao,NI Hao,YANG Xiaoping, GUO Yangchun,LI Hong,QUAN Song,YU Yanhong Center forReproductieedicine,NanfangHospital,outhernedicalnioersityuangzhou,ol5,ina
+
+Abstract: ObeieTeigatetoatisofutialcaalddtialtorsithfin vitro fertilization-mbryo transfer (IVF-ET). Methods Aretrosective analysis was conducted among3998 patients undergoing th first reatment withIVF-ETand3064 perinatal infantsinourcenterbetweeJanuary2010andJune,2014.Therelationof the patients'occupation,educational background,andresidenceregistrywith IVF-EToutcomes wasanalyed.Results The risk of abortion in the first trimester was significantly higher in female patients engaged in agriculture ( $\mathrm { \mathrm { O R } } { = } 4 . 3 1 9 .$ $P { = } 0 . 0 4 7 \rangle$ ： Occupation and educational background ofthe patients and their spouse were related withthe incidence of ectopic pregnancy following IVF-ET. The total incidence rate of perinatal birth defects was $2 . 1 \%$ in this cohort, and was the highest in Shenzhen $( 5 . 5 \%$ ) but this difference was not statistically significant $( P { > } 0 . 0 5 )$ . Conclusion The patients' occupation and educational backgroundarerelated withtheoutcomes ofIVF-ET,suggestingtheimportanceofhealtheducationand prenatal examination. Keywords: in vitro fertilization-embryo transfer; outcome; occupation; educational background; residence
+
+体外授精-胚胎移植(IVF-ET)是在体外实现精卵结合后，将所形成胚胎移植到女方子宫腔，以帮助不孕症患者完成生育的一种辅助生殖技术。自1978年世界上首例"试管婴儿"诞生至今，IVF技术迅猛发展，现已成为不孕症治疗的常规手段之一。然而，就在IVF-ET为众多不孕夫妇带来曙光的同时，仍有许多问题倍受关注。如IVF-ET妊娠率有限[12],流产、异位妊娠、多胎妊娠和早产风险增加[3-4],出生缺陷发生率较高等[5-6]。如何优化IVF-ET技术，改善妊娠结局成为大多数研究所关注的热点。然而除外助孕技术本身，许多不孕症与出生缺陷的危险因素，如年龄、职业、居住环境、文化水平等，均可能对助孕结局造成影响，不应忽视。了解患者职业及居住环境，对于评估和分析IVF-ET助孕结局以及围产儿出生缺陷风险，开展孕前优生优育咨询,具有较为重要的意义。但是目前相关研究十分有限。
+
+本研究通过对南方医院妇产科生殖中心近4年半首次接受IVF-ET助孕的患者，以及所有IVF-ET围产儿临床资料进行回顾性描述和分析，初步探讨IVF-ET助孕结局与患者职业、学历和居住地的关系。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+收集2010年1月\~2014年6月在南方医科大学南方医院妇产科生殖医学中心首次接受IVF-ET治疗的3998例，去掉其中信息不完整的病例，最终纳人3651例用于多分类Logistic回归分析。以及经IVF-ET获得妊娠(包括重复周期)达28周的2328例不孕症患者以及3064个围产儿临床资料。围产儿包括活产儿( $\scriptstyle \lambda = 3 0 2 6$ 0以及妊娠28周后至出生7d内发生的死胎、死产以及因胎儿畸形引产者 $\scriptstyle ( n = 3 8 )$ ）
+
+# 1.2研究方法
+
+1.2.1患者职业、学历及居住地分组根据"人力资源和社会保障部国家职业资格管理（http://ms.nvq.net.cn/)"的职业分类方法，将患者职业分为工人、农民、白领(包括行政、教职员及专业技术人员）、自由职业以及无业。将患者学历分为小学及以下、中学、大学和研究生及以上。患者职业与学历于病历档案建立时由患者自行填写获得。以居住地为广东省的患者作为主要研究对象，对就诊例数位于前5位的各市区患者情况进行重点分析。1.2.2出生缺陷标准出生缺陷分类按照《疾病和有关健康问题的国际统计分类》中标准进行[8]。围产儿出生缺陷情况由随访获得。
+
+1.2.3观察指标比较分析不同职业与学历情况与IVF-ET结局相关性，不孕类型、以及出生缺陷发生率的差异；比较IVF与卵母细胞胞质内单精子注射(ICSI)两种受精类型，不同年龄段( $< 3 0$ 岁、30\~35岁和>35岁)以及不同胎儿性别的出生缺陷发生率差异。不孕类型包括原发性与继发性不孕。IVF-ET结局包括：未孕与临床妊娠，后者包括异位妊娠、早期流产(<13周）晚期流产（ $1 3 { \sim } 2 7 ^ { + 6 }$ 周)与分娩。对IVF-ET结局由随访获得。1.2.4统计学方法采用SPSS13.0统计软件进行数据分析。对男女双方年龄、职业、学历、女方月经周期以及是否存在男方因素等与IVF-ET结局相关性采用多分类Logistic回归分析。分析各类因素与IVF-ET未孕的相关性时，采用获得临床妊娠的病例作为对照;分析各因素与IVF-ET各临床妊娠结局相关性时，以分娩病例作为对照。分析职业因素时，以无业患者作为对照；分析学历因素时，以大学学历作为参照；其余均以“正常”作为参照。对分娩新生儿性别比采用x检验。对学历与不孕类型的分析采用Spearman相关性分析。 $P { < } 0 . 0 5$ 表示具有统计学差异。
+
+# 2结果
+
+# 2.1患者不同职业、学历及居住地患者的IVF-ET结局分析
+
+如表1所示，在2010年1月 ${ \sim } 2 0 1 4$ 年6月期间首次接受IVF-ET治疗的3998例广东省患者中，信息完整的病例共3651份，其中未孕1826例，临床妊娠1825例。多因素分析结果显示，各因素与IVF-ET未孕和晚期流产之间相关性不显著。女方务农患者早期流产风险升高 $\scriptstyle ( \mathrm { O R } = 4 . 3 1 9$ $\scriptstyle P = 0 . 0 4 7$ ,表1)。男方为白领时( $\mathrm { O R } =$ $0 . 2 7 8 , P { = } 0 . 0 3 0 \$ ，女方发生异位妊娠的几率较小，而当男方小学文化( $\mathrm { O R } { = } 6 . 3 1 4$ $\scriptstyle P = 0 . 0 2 0 { \dot { } }$ 以及女方务农1 $\mathrm { O R } { = } 8 . 2 5 3$ ， $\scriptstyle P = 0 . 0 1 3$ )或自由职业（ $\mathrm { O R } { = } 4 . 4 0 5$ ， $P =$
+
+0.010)，发生异位妊娠的风险增加(表2)。按照行政区域划分，以广州( $\scriptstyle \overbrace { n = 1 5 5 8 }$ 、佛山 $\scriptstyle ( n = 5 5 1 )$ ）、东莞 $\scriptstyle ( - 3 0 3 )$ ）、清远( $\scriptstyle ( n = 2 2 0 )$ 和深圳 $\scriptstyle ( - 1 1 9$ )患者就诊例数位居前五，不同居住地患者的IVF-ET结局无显著差异（ $( P { > } 0 . 0 5 )$ 。
+
+# 2.2不同职业与学历患者不孕类型分析
+
+如表3所示，在2010年1月\~2014年6月期间首次接受IVF-ET治疗的3998例患者中，不同职业与学历的不孕类型构成比之间存在显著性差异 $\stackrel { \prime } { \chi } ^ { 2 } = 8 4 . 2 4 8 , P =$ 0.000)。其中，“白领”患者多为原发性不孕，而"务农”患者多为继发性不孕。学历的高低与不孕类型的构成存在线性相关趋势 $( \chi ^ { 2 } { = } 9 8 . 2 2 5 , P { = } 0 . 0 0 0 )$ ,即学历越低,继发性不孕的比率越高。
+
+# 2.3不同职业与学历患者分娩胎儿性别构成
+
+如表4所示，在2010年1月\~2014年6月期间首次接受IVF-ET治疗的3998例患者中，共1585例分娩，其中504例分娩双胎，分娩胎儿总数为2089个，男女婴构成比为1.2：1。各职业与学历患者分娩胎儿的男女构成比无显著性差异( $( P { > } 0 . 0 5 )$ 0
+
+# 2.4不同居住地患者的IVF-ET出生缺陷发生率比较
+
+在2010年1月 ${ \sim } 2 0 1 4$ 年6月期间，经IVF-ET获得妊娠(包括重复周期)达28周者共2328例，正常分娩者2301例，胎婴儿3064个，其中正常新生儿3001个，围产儿出生缺陷63个，出生缺陷发生率为 $2 . 1 \%$ 。以先天性心脏病居首位，占 $( 1 9 . 0 \% , 1 2 / 6 3 )$ (图1)。在居住地为广东省的患者中，深圳患者的出生缺陷发生率较高( $5 . 5 \%$ ，5/91(图2)，主要为死胎、先天性心脏病与多发畸形，但与省内其他地区发生率无显著性差异。
+
+# 2.5不同受精方式、患者年龄及胎儿性别出生缺陷发生率分析
+
+IVF与ICSI分别为1701例与364例，另263例行Half-ICSI未纳入运算。IVF与ICSI的出生缺陷率分别为 $2 . 5 \% ( 4 3 / 1 7 0 1 )$ 和 $3 . 8 \% ( 1 4 / 3 6 4 )$ ，差异无统计学意义$( \chi ^ { 2 } { = } 1 . 9 4 1 , P { > } 0 . 0 5 )$ 。
+
+男性子代出生缺陷的发生率为 $1 . 3 \% ( 2 2 / 1 6 4 4 )$ ，略高于女性子代 $( 0 . 7 \% , 1 0 / 1 3 8 2 )$ ，但差异无统计学意义$( \chi ^ { 2 } { = } 2 . 7 1 1 , P { > } 0 . 0 5 )$ 。
+
+母亲年龄 $< 3 0$ 岁者，出生缺陷发生率为 $2 . 5 \%$ (22/877)；30\~35岁者 $( 1 . 9 \% , 2 1 / 1 0 9 3 )$ 与 $> 3 5$ 岁者 $( 4 . 5 \%$ ,16/357)相比，差异有统计学意义 $\left( \chi ^ { 2 } = 7 . 0 9 5 , P { = } 0 . 0 1 1 , \right.$ ）
+
+# 3讨论
+
+据世界卫生组织预测，21世纪不孕症将成为仅次于肿瘤和心脑血管疾病的第3大疾病，我国不孕症发病率为 $1 5 \% { \sim } 2 0 \% ^ { [ 9 . 1 0 ] }$ ,并有逐年上升的趋势。研究表明，不孕症发病率存在地域差异，并与患者年龄、民族、文化程度、职业、生活习惯、心理与社会等因素存在相关性[7.11-12]。而导致不孕症的诸多危险因素,同时也是围产儿出生缺陷的危险因素[712]。因此,对不孕症患者生育健康风险展开调查，对于实施优生优育咨询和宣教，改善不孕症治疗结局，减少出生缺陷，具有十分重要的意义。本研究重点在首次接受IVF-ET治疗，以及通过IVF-ET治疗获得妊娠(包括重复周期)的患者中分析了职业、学历及居住地与IVF-ET结局以及围产儿出生缺陷的关系，发现患者职业对IVF-ET结局存在一定影响，而不同居住地IVF-ET围产儿出生缺陷存在差异。
+
+表1IVF-ET妊娠后早期流产影响因素Logistic多因素分析[ab.1 Logistic multivariate analysis of first trimester abortion following IVF-ET  
+
+<html><body><table><tr><td rowspan="2">Variable</td><td rowspan="2">Regression coefficient</td><td rowspan="2">Standard error</td><td rowspan="2">P</td><td rowspan="2">OR</td><td colspan="2">95% CI</td></tr><tr><td>Lower Limit</td><td>Upper Limit</td></tr><tr><td>Female age</td><td>0.091</td><td>0.026</td><td>0.001</td><td>1.096</td><td>1.041</td><td>1.153</td></tr><tr><td>Male age</td><td>0.063</td><td>0.019</td><td>0.001</td><td>1.065</td><td>1.026</td><td>1.105</td></tr><tr><td>Male occupation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intellectuals</td><td>-0.438</td><td>0.456</td><td>0.336</td><td>0.645</td><td>0.264</td><td>1.576</td></tr><tr><td>Workers</td><td>-0.792</td><td>0.495</td><td>0.110</td><td>0.453</td><td>0.172</td><td>1.196</td></tr><tr><td>Farmers</td><td>-0.492</td><td>0.786</td><td>0.531</td><td>0.612</td><td>0.131</td><td>2.852</td></tr><tr><td>Freelancers</td><td>-0.363</td><td>0.479</td><td>0.448</td><td>0.695</td><td>0.272</td><td>1.777</td></tr><tr><td>Unemployed</td><td>-</td><td></td><td>-</td><td></td><td>-</td><td></td></tr><tr><td>Female occupation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intellectuals</td><td>0.565</td><td>0.370</td><td>0.127</td><td>1.759</td><td>0.852</td><td>3.629</td></tr><tr><td>Workers</td><td>0.826</td><td>0.442</td><td>0.062</td><td>2.285</td><td>0.960</td><td>5.437</td></tr><tr><td>Farmers</td><td>1.463</td><td>0.737</td><td>0.047</td><td>4.319</td><td>1.018</td><td>18.313</td></tr><tr><td>Freelancers</td><td>0.751</td><td>0.394</td><td>0.057</td><td>2.120</td><td>0.978</td><td>4.593</td></tr><tr><td>Unemployed</td><td>-</td><td></td><td>-</td><td>-</td><td></td><td></td></tr><tr><td>Male educational background</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary school or below</td><td>0.523</td><td>0.669</td><td>0.434</td><td>1.687</td><td>0.455</td><td>6.263</td></tr><tr><td>Middle School</td><td>-0.032</td><td>0.248</td><td>0.898</td><td>0.969</td><td>0.596</td><td>1.574</td></tr><tr><td>Post graduate and above</td><td>-0.312</td><td>0.490</td><td>0.524</td><td>0.732</td><td>0.280</td><td>1.911</td></tr><tr><td>Junior college</td><td></td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>Female educational background</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary school or below</td><td>-0.262</td><td>0.614</td><td>0.669</td><td>0.769</td><td>0.231</td><td>2.565</td></tr><tr><td>Middle School</td><td>0.088</td><td>0.254</td><td>0.729</td><td>1.092</td><td>0.664</td><td>1.797</td></tr><tr><td>Post graduate and above</td><td>-0.154</td><td>0.594</td><td>0.796</td><td>0.858</td><td>0.268</td><td>2.749</td></tr><tr><td>Junior college</td><td>-</td><td></td><td>-</td><td>-</td><td></td><td></td></tr><tr><td>Menstrual cycle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Abnormal</td><td>-0.299</td><td>0.274</td><td>0.276</td><td>0.742</td><td>0.433</td><td>1.270</td></tr><tr><td>Normal</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Male factors</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>With male factors</td><td>0.001</td><td>0.225</td><td>0.997</td><td>1.001</td><td>0.644</td><td>1.555</td></tr><tr><td>Normal</td><td></td><td>-</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+有调查显示，务农患者不孕症的发生率显著低于其他职业[12-13],推测可能与务农人群生活压力较小有关。然而在本研究中，务农患者的早期流产风险较高。进一步分析务农患者分娩胎儿的性别构成，结果与本中心总体水平无显著差异，提示其早期流产率偏高并非由非法性别选择所致。对务农人群的学历构成进行分析，发现这部分人群多为中学及以下，因此推测劳动强度大、卫生条件差和保健知识缺乏等可能与其早期流产率高存在相关性。本研究还对不同职业与学历患者的不孕类型作出分析，结果显示“白领”患者多为原发性不孕，而“务农”患者多为继发性不孕;学历的高低与不孕类型的构成存在线性相关趋势，即学历越高，原发性不孕的比率越高；同时研究发现，女方务农或自由职业以及男方小学文化水平将增加患者IVF-ET术后异位妊娠发生风险，而男方职业为白领时，相关风险较小，这可能与原发性不孕症患者的异位妊娠危险因素(如既往异位妊娠史、盆腔输卵管因素、因既往宫腔内手术导致的宫内感
+
+表2IVF-ET妊娠患者IVF-ET异位妊娠影响因素Logistic多因素分析 Tab.2 Logistic multivariate analysis of ectopic pregnancy following IVF-ET   
+
+<html><body><table><tr><td rowspan="2">Variables</td><td rowspan="2">Regression coefficient</td><td rowspan="2">Standard error</td><td rowspan="2">P</td><td rowspan="2">OR</td><td colspan="2">95% CI</td></tr><tr><td>Lower Limit</td><td>Upper Limit</td></tr><tr><td>Female age</td><td>-0.056</td><td>0.038</td><td>0.135</td><td>0.945</td><td>0.878</td><td>1.018</td></tr><tr><td>Male age</td><td>0.034</td><td>0.030</td><td>0.251</td><td>1.034</td><td>0.976</td><td>1.096</td></tr><tr><td>Male occupation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intellectuals</td><td>-1.280</td><td>0.590</td><td>0.030</td><td>0.278</td><td>0.087</td><td>0.884</td></tr><tr><td>Workers</td><td>-0.792</td><td>0.588</td><td>0.178</td><td>0.453</td><td>0.143</td><td>1.434</td></tr><tr><td>Farmers</td><td>-1.492</td><td>0.903</td><td>0.119</td><td>0.244</td><td>0.042</td><td>1.435</td></tr><tr><td>Freelancers</td><td>-1.413</td><td>0.622</td><td>0.123</td><td>0.243</td><td>0.072</td><td>1.823</td></tr><tr><td>Unemployed</td><td></td><td></td><td>-</td><td></td><td></td><td></td></tr><tr><td>Female occupation</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Intellectuals</td><td>1.271</td><td>0.549</td><td>0.071</td><td>3.564</td><td>0.914</td><td>10.462</td></tr><tr><td>Workers</td><td>1.078</td><td>0.603</td><td>0.074</td><td>2.937</td><td>0.902</td><td>9.570</td></tr><tr><td>Farmers</td><td>2.111</td><td>0.846</td><td>0.013</td><td>8.253</td><td>1.573</td><td>43.305</td></tr><tr><td>Freelancers</td><td>1.483</td><td>0.578</td><td>0.010</td><td>4.405</td><td>1.419</td><td>13.675</td></tr><tr><td>Unemployed</td><td>-</td><td>-</td><td>-</td><td></td><td>-</td><td>-</td></tr><tr><td>Male educational background</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary school or below</td><td>1.843</td><td>0.792</td><td>0.020</td><td>6.314</td><td>1.337</td><td>29.814</td></tr><tr><td>Middle School</td><td>0.213</td><td>0.360</td><td>0.553</td><td>1.238</td><td>0.612</td><td>2.505</td></tr><tr><td>Post graduate and above</td><td>0.674</td><td>0.789</td><td>0.393</td><td>1.962</td><td>0.418</td><td>9.212</td></tr><tr><td>Junior college</td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>Female educational background</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primary school or below</td><td>-0.616</td><td>0.998</td><td>0.537</td><td>0.540</td><td>0.076</td><td>3.819</td></tr><tr><td>Middle School</td><td>0.708</td><td>0.392</td><td>0.071</td><td>2.029</td><td>0.941</td><td>4.378</td></tr><tr><td>Post graduate and above</td><td>-18.659</td><td>9295.313</td><td>0.998</td><td>0.000</td><td>0.000</td><td>0.000</td></tr><tr><td>Junior college</td><td>-</td><td>-</td><td>-</td><td></td><td>-</td><td></td></tr><tr><td>Menstrual cycle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Abnormal</td><td>0.016</td><td>0.323</td><td>0.961</td><td>1.016</td><td>0.540</td><td>1.912</td></tr><tr><td>Normal</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Male factors</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>With male factors</td><td>-0.336</td><td>0.348</td><td>0.334</td><td>0.715</td><td>0.362</td><td>1.413</td></tr><tr><td>Normal</td><td>-</td><td>-</td><td>-</td><td></td><td>-</td><td></td></tr></table></body></html>
+
+# 表3不同职业与学历患者的不孕类型分析
+
+Tab.3Type of infertility for different occupation and educational background   
+
+<html><body><table><tr><td></td><td>Secondary (n)</td><td>Primary (n)</td><td>Constituent ratio</td><td>Statistics</td></tr><tr><td>Occupation</td><td></td><td></td><td></td><td></td></tr><tr><td>Intellectuals</td><td>708</td><td>909</td><td>0.78:1</td><td></td></tr><tr><td>Workers</td><td>228</td><td>207</td><td>1.10:1</td><td></td></tr><tr><td>Farmers</td><td>156</td><td>85</td><td>1.84:1</td><td>x²=84.248</td></tr><tr><td>Freelancers</td><td>603</td><td>468</td><td>1.27:1</td><td>P=0.000</td></tr><tr><td>Unemployed</td><td>380</td><td>249</td><td>0.53:1</td><td></td></tr><tr><td>NA</td><td>0</td><td>5</td><td></td><td></td></tr><tr><td>Educational Background</td><td></td><td></td><td></td><td></td></tr><tr><td>Primary school or below</td><td>71</td><td>53</td><td>1.34:1</td><td></td></tr><tr><td>Middle School</td><td>1323</td><td>953</td><td>1.39:1</td><td></td></tr><tr><td>Junior college</td><td>650</td><td>848</td><td>0.77:1</td><td>x=98.225 P=0.000</td></tr><tr><td>Post graduate and above</td><td>28</td><td>64</td><td>0.44:1</td><td></td></tr><tr><td>NA</td><td>3</td><td>5</td><td></td><td></td></tr></table></body></html>
+
+NA: Not available.
+
+表4不同职业与学历患者分娩胎儿性别构成比 Tab.4 Live birth sex ratio for different occupations and educational background   
+
+<html><body><table><tr><td></td><td></td><td>Male (n)</td><td>Female (n)</td><td>Constituent ratio</td></tr><tr><td>Occupation</td><td>NA</td><td>3</td><td>2</td><td></td></tr><tr><td></td><td>Intellectuals</td><td>470</td><td>414</td><td>1.14:1</td></tr><tr><td></td><td>Workers</td><td>132</td><td>104</td><td>1.27:1</td></tr><tr><td></td><td>Farmers</td><td>55</td><td>46</td><td>1.19:1</td></tr><tr><td></td><td>Freelancers</td><td>299</td><td>244</td><td>1.23:1</td></tr><tr><td></td><td>Unemployed</td><td>181</td><td>139</td><td>1.30:1</td></tr><tr><td>Educational Background</td><td>NA</td><td>1</td><td>0</td><td></td></tr><tr><td></td><td>Primary school or below</td><td>29</td><td>25</td><td>1.16:1</td></tr><tr><td></td><td>Middle School</td><td>634</td><td>518</td><td>1.22:1</td></tr><tr><td></td><td>Junior college</td><td>447</td><td>385</td><td>1.16:1</td></tr><tr><td></td><td>Post graduate and above</td><td>29</td><td>21</td><td>1.38:1</td></tr><tr><td>Overall</td><td></td><td>1140</td><td>949</td><td>1.20:1</td></tr></table></body></html>
+
+NA:Notavailable.
+
+![](images/9bad5af71762329998de5e7b534a2b167a5baad2acfc920bafb0a303325e570c.jpg)  
+图163个出生缺陷围产儿疾病构成比 Fig.1 Constituent ratio of birth defects in 63 perinatal fetuses.
+
+![](images/a6de397601a7e828683d32f7a05a0a8560d350b8eeb1e84fef021a525efbd104.jpg)  
+图2广东省不同省份IVF周期出生缺陷发生率比较 Fig.2 Incidence of birth defects following IVF-ET from different areas of Guangdong.
+
+染等[14])相对较少有关，同时也反映文化水平较低时可能存在生殖卫生方面知识缺乏而导致与之相关的继发不孕与异位妊娠风险增加。但由于本中心研究生以上和小学以下样本量有限，相关结论还有待进一步验证
+
+Yan等15研究，在匹配了母亲年龄和其他因素后，IVF出生缺陷发生率为 $6 . 2 \%$ ，而自然妊娠为 $4 . 4 \%$ 。在本次回顾性研究中，通过对2328例IVF-ET后活产以及妊娠28周至出生7天内发生死胎、死产以及因胎儿畸形引产者的临床随访资料进行收集和分析，结果显示出生缺陷发生率为 $2 . 1 \%$ ,以先天性心脏病居首位，其次为消化系统畸形、唇腭裂、非整倍体畸形与肢体畸形。与国内其他生殖中心报道一致[15-16]
+
+本研究中的IVF患者来自我国14个省份，以华南地区的广东、湖南、江西、广西和四川居多(结果未显示)。因本中心就诊患者主要居住于广东省，本研究重点分析了广东省内不同地区IVF出生缺陷的发生情况。结果显示，就诊患者多来自广州、佛山、东莞、清远和深圳,出生缺陷发生率分别为 $1 . 9 \% , 2 . 5 \% , 2 . 2 \% , 2 . 1 \%$ 和 $5 . 5 \%$ 。其中深圳患者的出生缺陷较高，但尚无统计学意义。这部分患者的平均年龄与本中心就诊患者无显著性差异，因此年龄以外的因素更加值得关注。2008年的一项研究显示，深圳市2007年的出生缺陷发生率高于全国30个省份城市[17]。
+
+根据广东省环境保护厅 ${ \langle \langle 2 0 1 3 }$ 年广东省国控重点污染源基本信息》分析，在广东省内存在废水、废气、重金属污染的企业当中，有 $12 \%$ 分布在佛山，仅 $2 \%$ 分布在深圳。因此，自然环境的污染可能并不是导致深圳的出生缺陷发生率增加的主要原因。深圳经济特区是一个劳务工聚集的城市，截至2010年末，全市总人口超过1000万。市内有大量流动人口，由于保健知识缺乏或受经济条件所限，这类人群在生活或工作过程中甚至孕期接触有毒有害物质的机会较多。此外，深圳市育龄夫妇工作压力大，生活节奏快，可能致孕前和孕期精神紧张程度高。Suarezl等报道[18]，母亲的精神紧张状态能增加包括神经管缺陷在内的多种先天畸形发生的危险性。母亲处于应激状态会影响胎儿下丘脑-垂体-肾上腺皮质轴的功能，导致子代行为、大脑和器官的改变，同样会导致子代内分泌功能的改变[19-20]。上述因素可能是深圳市出生缺陷发生率高的主要原因，但在本研究中样本例数有限，有关深圳市出生缺陷发生情况及原因分析还有待进一步研究。
+
+此外，本研究结果提示IVF与ICSI出生缺陷发生率无显著性差异;男婴出生缺陷发生率略高于女婴，但无显著性差异；年龄 $\cdot > 3 5$ 岁者出生缺陷发生率显著增高,与国内外其他报道一致[21]。
+
+综上所述，本研究回顾性分析了南方医院生殖中心IVF-ET结局与出生缺陷发生情况与患者职业、学历及居住地的关系。研究结果提示，患者学历、职业与居住地均对IVF-ET结局和围产儿出生缺陷有一定影响。针对务农患者和教育水平较低的地区应加强卫生宣教，针对心理压力较大的职业应加强心理疏导，针对存在出生缺陷风险的产妇应加强产前检查，达到优生。
+
+# 参考文献：
+
+[1]Kupka MS,Ferraretti AP,De Mouzon J,et al.Assisted reproductive technology in Europe,2O1O:resultsgenerated from European registers by ESHRE[J].Hum Reprod,2014,29(10): 2099-113.   
+[2]Luke B,Brown MB,Wantman E,et al. Cumulative birth rates with linked assisted reproductive technology cycles[J].N Engl J Med, 2012,366(26): 2483-91.   
+[3]GradyR,Alavi N,Vale R,etal.Elective single embryo transfer and perinatal outcomes:a systematic review and meta-analysis[J].Fertil Steril,2012,97(2):324-31.   
+[4]Kaveh M,Ghajarzadeh M,Davari Tanha F,et al.Pregnancy complications and neonatal outcomes in multiple pregnancies:a comparisonbetweenassistedreproductivetechniquesand spontaneous conception[J]. Int JFertil Steril,2015,8(4): 367-72.   
+[5]Hansen M,Kurinczuk JJ,Milne E,et al.Assisted reproductive technology and birth defects:a systematic review and meta-analysis [J].Hum Reprod Update,2013,19(4): 330-53.   
+[6]Wen J, Jiang J,Ding C,et al. Birth defects in children conceived by in vitro fertilization and intracytoplasmic sperm injection:a metaanalysis[J].Fertil Steril,2012,97(6): 7.e1-1331.   
+[7]ESHRE Capri Workshop Group.Birth defects and congenital health risksinchildren conceived through assisted reproduction technology (ART):a meeting report[J].J Assst Reprod Genet, 2014,31(8): 947-58.   
+[8]董景五.疾病和有关健康问题的国际统计分类[M].2版.北京:人民卫 生出版社,2008.   
+[9] Zhang H, Wang S, Zhang S,et al. Increasing trend of prevalence of infertility in Beijing[J]. Chin MedJ(Engl),2014,127(4): 691-5.   
+[10] Qiao J,Feng HL.Assisted reproductive technology in China: compliance and non-compliance[J]. Tranl Pediatr,2014,3(2): 91-7.   
+[11]Meng Q,Ren A, Zhang L,et al.Incidenceof infertity and risk factors of impaired fecundity among newly married couples in a Chinese population[J].Reprod Biomed Online,2015,30(1): 92-100.   
+[12]刘民,王巧梅,沈海屏,等.2010至2012年31省2120131名育龄妇女 孕前健康风险的暴露状况[J].中华医学杂志,2015,95(3):172-5.   
+[13]封宗成,骆书秀,吴显儒,等.农村育龄夫妇不孕症调查[J].现代医药 卫生,2014,30(8): 1163-4,1167.   
+[14] Li C, Zhao WH, Zhu Q,et al. Risk factors for ectopic pregnancy: a multi-center case-control study [J].BMC Pregnancy Childbirth, 2015,15: 187.   
+[15]Yan J,Huang G,Sun Y,et al. Birth defects after assisted reproductive technologies in China: analysis of 15,405 offspring in seven centers (2004 to 2008)[J].Fertil Steril,2011,95(1): 458-60.   
+[16]文宏贵,兰 灵,杨 娜,等.不同辅助生殖技术方法获得的单胎儿分娩 结局的比较[J].生殖医学杂志,2014,23(11):894-6.   
+[17]颜春荣,王晨虹,王竹珍,等.深圳市2189例出生缺陷的畸形分布与诊 断方法[J].中国妇幼保健,2008,23(13):1800-2.   
+[18]Suarez L,Cardarelli K,Hendricks K.Maternal stress，social support,and risk of neural tube defects among Mexican Americans [J].Epidemiology,2003,14(5): 612-6.   
+[19]Carmichael SL, Shaw GM,Yang W,et al. Maternal stressful Life events and risks of birth defects [J].Epidemiology，20O7,18(3): 356-61.   
+[20] Kapoor A,Dunn E,Kostaki A,et al.Fetal programming of hypothalamo-pituitary-adrenal function:prenatalstressand glucocorticoids[J]. JPhysiol, 2006,572(Pt 1): 31-44.   
+[21]Csermely G,Czeizel AE, Veszpremi B.Distribution of maternal age andbirth order groups in cases with unclassified multiple congenital abnormalities according to the number of component abnormalities:a National population-based case-control study. Birth defects research.Part A[J].Res A Clin Mol Teratol,2015,103 (2): 67-75. (编辑：吴锦雅）

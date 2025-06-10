@@ -1,0 +1,415 @@
+[
+    {
+        "type": "text",
+        "text": "石羊河流域表层沉积物垂直地带性分异特征基于粒度与矿物指标",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "韩琴，李育，李鹏程（兰州大学资源环境学院，甘肃 兰州730000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：地域分异规律是自然地理学非常重要的基本理论。在气候重建中，只考虑纬度地带性会使重建结果产生较大的误差。通过对石羊河流域现代表层沉积物粒度与矿物指标的垂直地带分布特征分析，结合流域全新世沉积剖面的粒度与矿物数据，对比石羊河流域的现代表层沉积物与全新世沉积物粒度和矿物特征，进而探索石羊河流域环境变化及其驱动机制。结果表明：全新世与现代具有相同的驱动力,石羊河流域上游在亚洲冬季风与西风的影响下,呈现山前风成沉积特征;中游地区在河湖水动力的影响下,呈现冲积、洪积特征;石羊河流域下游终端湖区，呈现湖相沉积特征，且现代气候较全新世时期更为干旱。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：垂直地带性；表层沉积物；环境变化；石羊河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "重建过去气候变化不仅有利于了解气候变化的规律与驱动机制,还有助于预测未来气候变化[1]通过构建表层沉积物指标与气候指标之间的关系，可以理解代用指标的现代过程和机制。在此基础上，才能更准确的使用代用指标重建气候要素的沉积序列。地域分异规律是自然地理学非常重要的基本理论，它揭示了自然环境要素的整体性与差异性及其形成原因，主要包括纬度地带性规律和非纬度地带性规律，后者又包括因距海远近不同而形成的气候干湿分异和因海拔增加而形成的垂直地带分异2 个方面[2]。在中国的第二、三级阶梯地区气候重建模型中，以往研究充分考虑了现代表层沉积样品的纬度地带性规律[3-7]。但是在第一级阶梯青藏高原周边地区，由于其巨大的海拔高差导致温度、湿度和降水等要素的变化，从而使得生物、土壤等具有垂直地带性规律，且要比纬度地带性规律显著。基于此分析，仅考虑现代表层沉积样品的纬度地带性规律，可能使得青藏高原周边地区在气候重建时存在很大误差。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "祁连山地处我国东部季风区、青藏高原区和西北干旱区3大自然区的交界地带，同时处于亚洲季风与西风影响的核心地带，气候垂直梯度明显，生物、土壤等自然地理要素在气候的影响下也呈现出有序的垂直带谱[8-9]。因此,有必要对祁连山东部石羊河流域的现代表层沉积物粒度与矿物指标的空间分布特征进行分析，以探索其垂直地带性规律。在此基础上，结合石羊河流域的全新世沉积剖面的粒度与矿物数据，对比石羊河流域的现代表层沉积物与全新世沉积剖面粒度和矿物特征，进而探讨石羊河流域环境变化及其驱动机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究区概况",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "石羊河流域位于祁连山北麓，地理位置$3 6 ^ { \\circ } 2 9 ^ { \\prime } \\sim 3 9 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { N } , 1 0 1 ^ { \\circ } 4 1 ^ { \\prime } \\sim 1 0 4 ^ { \\circ } 1 6 ^ { \\prime } \\mathrm { E }$ ,石羊河发源于祁连山东段冷龙岭，消失于巴丹吉林沙漠与腾格里沙漠之间的民勤盆地北部，自东向西主要由大靖河、古浪河及黄羊河等8条河流组成，流域总面积大约 $4 . 1 6 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 [ 1 0 ] }$ 。该流域自上游到下游包括3个地理单元：上游海拔 $2 \\ 0 0 0 \\sim 5 \\ 0 0 0 \\ \\mathrm { m }$ 的祁连山山前风成沉积地带，气候类型为高寒半干旱湿润区，年降水量约为 $4 5 0 ~ \\mathrm { m m }$ ,年蒸发量约为 $1 ~ 0 0 0 ~ \\mathrm { { m m } }$ ,植被类型自上而下逐渐呈现高山草甸、高山森林、草原交错、灌木，主要土壤类型为寒漠土和草毡土；中注：HX 包含HXa与HXb 剖面;QTH包含QTH01与QTH02 剖面。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b1c970e04922de2040c835a090b4e0e690807e3ae4dfbd0ead9634c9f20757f.jpg",
+        "img_caption": [
+            "纬琴等：石羊河流域表层沉积物垂直地带性分异特征一—基于粒度与矿物指标 ",
+            "图1石羊河地理位置与采样点分布图",
+            "Fig.1Geographical location of the Shiyang River Basin and distribution of sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "游海拔 $1 ~ 5 0 0 \\sim 2 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 的河流冲积及湖泊沉积地带，年降水量约为 $2 0 0 ~ \\mathrm { { \\ m m } }$ ，年蒸发量约为1600$\\mathbf { m } \\mathbf { m }$ ,植被类型为荒漠化草原和干草原，典型土壤类型为灰棕漠土和灰钙土；下游海拔 $1 \\ 3 0 0 \\sim 1 \\ 5 0 0 \\ \\mathrm { m }$ 的终端湖地带，年降水量小于 $1 5 0 \\ \\mathrm { m m }$ ,年蒸发量约为 $2 \\ 3 0 0 \\ \\mathrm { m m }$ ,植被类型为超旱生灌木、半灌木与小乔木荒漠，典型土壤类型为灰棕漠土及灰棕漠土型沙土[11-12] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据采集及实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于石羊河流域海拔变化，自流域上游到终端湖区共采集92个表层沉积物样品，全新世沉积剖面样品982个。其中现代表层沉积物上游到中游采集了37个样品，中游到终端湖采集了55个样品。在此之前，研究组在石羊河流域的上游至下游分别采集了山前风成剖面、河湖冲积剖面与湖相沉积剖面，以上均是全新世剖面，剖面信息见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沉积物粒度测试步骤为取 $0 . 5 \\mathrm { ~ g ~ }$ 样品放入烧杯中，加入 $1 0 ~ \\mathrm { m L }$ 浓度为 $10 \\%$ 的双氧水,于加热板加热至沸腾，使其充分反应去除有机质，直至烧杯中无明显气泡产生;而后加入过量浓度为 $10 \\%$ 的盐酸,使其充分反应去除样品中的碳酸盐，直至完全无气泡产生，静置 $2 4 \\mathrm { ~ h ~ }$ 后，抽去烧杯的上清液，并加入10$\\mathrm { m L }$ 浓度为 $10 \\%$ 的六偏磷酸钠作为分散剂，在微波振荡仪均匀振荡 $1 0 ~ \\mathrm { m i n }$ 待测[13]。粒度分析采用的是英国Malvern 公司生产的Mastersizer 2OOO 型全自动激光粒度仪。在仪器测定中每个样品测3次求其平均值，保证重复量相对误差 $< 2 \\%$ 。采用激光粒度仪分析软件分析得出样品的累计曲线、频率曲线等粒度参数。矿物测定步骤为：将样品经玛瑙研钵研磨至100目，放入用酒精擦拭过的凹槽检测片上，使用载玻片将样品表面与检测片表面处理平。测试仪器为荷兰帕纳科公司的X'PertPro型粉末X射线衍射仪，测定误差 $\\pm 5 \\%$ 。最后，通过粉末X射线衍射仪自带软件X'PertHighScorePlus确定样品的矿物种类及相对百分含量(14)",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d35d89b9ec9660c7d4c8063144efd463f0ea63da763c65e7446b545985b703e.jpg",
+        "table_caption": [
+            "表1石羊河流域全新世剖面地理位置、海拔及采样间隔 Tab.1Geographical locations,elevations and sampling intervals of the Holocene profiles in the ShiyangRiverBasin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>剖面 名称</td><td>流域 位置</td><td>地理坐标</td><td>海拔 /m</td><td>深度 /m</td><td>采样间隔 /m</td></tr><tr><td>HXa</td><td>上游</td><td>37°25'N,102°36'E</td><td>2 447</td><td>320</td><td>2</td></tr><tr><td>HXb</td><td>上游</td><td>37°25'N,102°36'E</td><td>2 445</td><td>320</td><td>2</td></tr><tr><td>JDT</td><td>中游</td><td>38°10'N,102°45'E</td><td>1 460</td><td>590</td><td>5,10</td></tr><tr><td>QTH01</td><td>下游</td><td>39°03'N,103°40'E</td><td>1 309</td><td>692</td><td>2,5</td></tr><tr><td>QTH02</td><td>下游</td><td>39°03'N,103°40'E</td><td>1309</td><td>736</td><td>2,5</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以上沉积物样品粒度与矿物实验均在兰州大学西部环境教育部重点实验室完成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2石羊河流域全新世沉积剖面年代与岩性",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究组对以上剖面的年代、岩性进行了研究[15]（图2）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3现代表层沉积物与全新世沉积剖面指标对比 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比现代表层沉积物和全新世沉积物的代用指标时，缺乏统一的参照标准进行比较。所以，需要通过一个中介将现代表层沉积物和全新世沉积物的代用指标，放在同一个参照标准下进行对比研究。本文尝试通过以下方法对全新世沉积物和现代表层沉积物的粒度及矿物指标进行对比分析：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5256de34a46b17befe4f3f42f21f9009f5f2650abd08ac0f18fbca0ac049c6b0.jpg",
+        "img_caption": [
+            "注：剖面右侧数字为年龄，单位：CalaBP，下同。",
+            "图2石羊河流域全新世剖面年代与岩性",
+            "Fig.2Lithology and calibrated $^ { 1 4 } \\mathrm { C }$ ages of the Holocene profiles in the Shiyang River Basir "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，通过蒸发与降水的比值，以海拔 $2 \\ 0 0 0 \\ \\mathrm { ~ m ~ }$ 与 $\\mathrm { ~ 1 ~ } 5 0 0 \\mathrm { ~ m ~ }$ 为界，将石羊河流域划分为上、中、下游。其中，海拔 $2 \\ 0 0 0 \\ \\mathrm { m }$ 以上为上游地区，海拔 $1 ~ 5 0 0 \\mathrm { ~ m ~ }$ 以下为下游地区，海拔 $1 ~ 5 0 0 \\sim 2 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ 为中游地区[（需要指出的是,JDT剖面虽不在此区间内,但其具有流域中游典型的河湖冲积相且距区间低值相差较小。因此，本文将JDT剖面划定为石羊河流域中游全新世沉积剖面。)；而后，选取石羊河流域不同区域具有代表性的全新世沉积剖面，结合划分出的区域海拔变化范围与沉积剖面采样深度及采样间隔等比例的插值,研究石羊河流域上、中、下游地区全新世沉积物粒度指标与矿物指标的垂直地带性分异特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1现代沉积物粒度与矿物指标分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过以上粒度实验，得到石羊河流域上、中、下游表层沉积物中值粒径、平均粒径、黏土及砂等粒径结果(表2）。根据表2可知，石羊河流域上游地区的平均中值粒径、平均粒径、众数粒径分别为25.17$\\mu \\mathrm { m } \\ 、 6 5 . \\ 0 3 \\ \\mu \\mathrm { m } \\ 、 3 4 . \\ 4 7 \\ \\mu \\mathrm { m }$ ,三者均小于中、下游地区，黏土、粉砂平均百分比为 $1 3 . 6 8 \\%$ ， $6 5 . 6 6 \\%$ ，含量均高于中、下游地区，砂含量仅有 $2 0 . 6 6 \\%$ 。石羊河流域上游受亚洲冬季风与西风的影响，沉积了大量风成沉积物且发育了现代土壤，所以，石羊河流域上游现代沉积物粒径较细,粉砂的含量高[17-18] 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "石羊河流域中游地区的平均中值粒径、平均粒径、众数粒径分别为 $5 8 . 8 5 ~ { \\mu \\mathrm { m } } . 1 4 6 . 7 8 ~ { \\mu \\mathrm { m } } . 1 7 6 . 2 1$ $\\mu \\mathrm { m }$ 。砂含量也增加到 $3 8 . 4 1 \\%$ 。流域中游受到河流的流速、流量以及沉积物大小、比重等影响，沉积物的沉积顺序有所差异(19-21]。一般而言,大颗粒沉积物较小颗粒沉积物沉积快，在河流水动力的影响下，中游地区汇集了大量冲积与洪积沉积物。与上游相比，流域中游现代沉积物粒径相对较粗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "石羊河流域下游地区的中值粒径、平均粒径、众数粒径在流域中最大，不同于上游地区，其砂含量最高，平均达到 $6 5 . 3 6 \\%$ 。石羊河流域下游早已干涸且毗邻巴丹吉林与腾格里两大沙漠，故流域下游的粗颗粒物沉积除与入湖河流流速减小有关外，还与风及河流将巴丹吉林与腾格里两大沙漠的粗粒碎屑物带入干涸的终端湖有关[17,22-25] ○",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过以上矿物实验，得到石羊河流域上、中、下游表层沉积物矿物组成及其含量百分比（表3）。根据表3可知，石羊河流域石英及云母两类矿物含量远远高于其他矿物类型，两者总和超过 $6 0 \\%$ 。石羊河流域气候相对较为干旱，降水与蒸发比率也相对较小，石英、云母等碎屑类矿物含量较高，碳酸盐类矿物含量相对较少，符合西北内陆干旱区的地域气",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2207fb3c4b8a47209242d760bffbc05830c9a55b9c89d4169f866d2acf64ebf.jpg",
+        "table_caption": [
+            "Tab.2Grain size data of overlying deposits in the Shiyang River Basin ",
+            "表3石羊河流域表层沉积物矿物"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td></td><td>中值粒径/μm</td><td>平均粒径/μm</td><td>众数粒径/μm</td><td>黏土/%</td><td>粉砂/%</td><td>砂/%</td></tr><tr><td>上游地区</td><td>最大值</td><td>42.95</td><td>132.29</td><td>49.51</td><td>18.45</td><td>74.96</td><td>38.55</td></tr><tr><td></td><td>最小值</td><td>14.09</td><td>25.33</td><td>21.85</td><td>8.39</td><td>49.52</td><td>6.98</td></tr><tr><td></td><td>平均值</td><td>25.17</td><td>65.03</td><td>34.47</td><td>13. 68</td><td>65.66</td><td>20. 66</td></tr><tr><td>中游地区</td><td>最大值</td><td>352.53</td><td>369.29</td><td>717.50</td><td>19.05</td><td>72.76</td><td>78.50</td></tr><tr><td></td><td>最小值</td><td>16.92</td><td>32.75</td><td>11.23</td><td>5.05</td><td>16.22</td><td>13.84</td></tr><tr><td></td><td>平均值</td><td>58.85</td><td>146.78</td><td>176.21</td><td>11.67</td><td>49.92</td><td>38.41</td></tr><tr><td>下游地区</td><td>最大值</td><td>453. 04</td><td>490.48</td><td>523.08</td><td>27.69</td><td>60.44</td><td>96.49</td></tr><tr><td></td><td>最小值</td><td>9.68</td><td>46.64</td><td>6.91</td><td>0.43</td><td>3.00</td><td>20.95</td></tr><tr><td></td><td>平均值</td><td>132.88</td><td>174.38</td><td>196.87</td><td>6.91</td><td>27.73</td><td>65.36</td></tr><tr><td>石羊河流域</td><td>最大值</td><td>453.00</td><td>490.48</td><td>717.50</td><td>27.69</td><td>74.96</td><td>96.49</td></tr><tr><td></td><td>最小值</td><td>9.68</td><td>25.33</td><td>6.91</td><td>0.43</td><td>3.00</td><td>6.98</td></tr><tr><td></td><td>平均值</td><td>96.80</td><td>149.81</td><td>165.50</td><td>9.20</td><td>39.45</td><td>51.35</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/030e5ab01c22b3a828353fde70b464596ebf232272a6d8637965e2a4bd4fff8e.jpg",
+        "table_caption": [
+            "表2石羊河流域表层沉积物粒度",
+            "Tab.3Mineral data of overlying deposits in the Shiyang River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>地区</td><td></td><td>石英/%</td><td>云母/%</td><td>长石/%</td><td>碳酸钙/%</td><td>地区</td><td></td><td>石英/%</td><td>云母/%</td><td>长石/%</td><td>碳酸钙/%</td></tr><tr><td>上游地区</td><td>最大值</td><td>42</td><td>41</td><td>27</td><td>5</td><td>下游地区</td><td>最大值</td><td>65</td><td>61</td><td>84</td><td>23</td></tr><tr><td></td><td>最小值</td><td>27</td><td>28</td><td>8</td><td>0</td><td></td><td>最小值</td><td>7</td><td>0</td><td>6</td><td>0</td></tr><tr><td></td><td>平均值</td><td>34.29</td><td>33.76</td><td>15.53</td><td>2.88</td><td></td><td>平均值</td><td>32.21</td><td>33.76</td><td>21.14</td><td>3.71</td></tr><tr><td>中游地区</td><td>最大值</td><td>44</td><td>56</td><td>31</td><td>6</td><td>石羊河流域</td><td>最大值</td><td>65</td><td>61</td><td>84</td><td>23</td></tr><tr><td></td><td>最小值</td><td>8</td><td>25</td><td>11</td><td>0</td><td></td><td>最小值</td><td>7</td><td>0</td><td>6</td><td>0</td></tr><tr><td></td><td>平均值</td><td>26.50</td><td>36.70</td><td>19.90</td><td>2.90</td><td></td><td>平均值</td><td>31.86</td><td>32.62</td><td>19.46</td><td>3.31</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "候特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "矿物在各种地质作用中产生和发展，其自然元素的单质及其化合物在一定地质和物理化学条件下相对稳定，矿物的化学组成一般比较固定，但以碳酸盐为代表的可溶性盐类矿物对水环境相对较为敏感。石羊河流域中下游碳酸钙矿物百分比含量高于上游,且在下游地区出现 $23 \\%$ 的最高值。在内流河流域水循环中，降水、蒸发、产流、汇流过程的差异，一定程度上使得流域内可溶性盐类矿物呈现垂直地带性分异规律。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2全新世沉积物粒度与矿物指标分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3显示了石羊河流域典型全新世剖面的粒度数据，全新世沉积物中粉砂含量占主导地位。位于石羊河上游全新世沉积剖面HXa与HXb，全新世沉积物粒径明显比中、下游细，粉砂含量在全新世均保持在 $6 0 \\% \\sim 8 0 \\%$ 水平,且剖面沉积物多为黄土、古土壤等沉积相。这与石羊河流域上游受亚洲冬季风与西风的影响，主要与风成沉积有关。位于中游地区的JDT全新世沉积剖面在河流水动力的影响下，在不同沉积层位呈现不同特征。如在泥炭层，粉砂和黏土含量较高，中值粒径较小，说明河流处于静水环境。位于下游地区的QTH01和QTH02全新世沉积剖面中，整体上以湖相沉积为主，泥炭层与湖相层粉砂的颗粒含量较高。但在上层砂含量变高，一定程度上与风及河流将巴丹吉林与腾格里两大沙漠的粗粒碎屑物带入终端湖有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4显示了全新世石羊河流域上游及下游剖面的矿物数据，石英及云母两者依然是石羊河流域优势矿物。上游地区HXb剖面石英与云母矿物的平均值相加超过 $70 \\%$ 。下游地区QTH01、QTH02剖面碳酸钙含量远超过上游地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3全新世与现代表层沉积物粒度特征对比",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将石羊河流域具有代表性的全新世沉积剖面和区域海拔变化范围相结合，与沉积剖面采样深度及采样间隔进行等比例的插值，构建石羊河流域上、中、下游全新世沉积物代用指标的垂直地带",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1ad376db229ebde9a68820f2d9df06d5f4c667c68cc9650e3bbd71ad36ad10c.jpg",
+        "img_caption": [
+            "图3石羊河流域全新世沉积剖面的粒度数据",
+            "Fig.3Grain size data of Holocene sedimentary profiles in the Shiyang River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "变化图谱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "粒度结果显示（图5），石羊河流域现代沉积物粒度比全新世的沉积物粒度粗，两者均以粉砂含量占主导。现代表层沉积物与全新世沉积物粒度指标均指示石羊河流域为干旱的气候特征，但现代更为干旱。需要指出的是，石羊河流域下游的表层沉积物的粒径大于全新世剖面沉积物，砂含量也明显高于全新世时期。这与现代气候干旱及人类活动影响下石羊河流域下游大部分早已干涸，湖泊与河流的沉积作用不再起作用，毗邻腾格里沙漠和巴丹吉林沙漠，风力作用将粗粒碎屑物携带来有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对比石羊河流域全新世与现代表层沉积物粒度指标垂直性变化，发现石羊河流域全新世与现代表层沉积物粒度指标垂直变化具有一致性。现代表层沉积物相对于全新世沉积物粒径相对较粗，一定程度上指示了现代气候较全新世时期更为干旱的特征。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "矿物结果显示，在石羊河流域上游风成沉积区域,现代与全新世沉积物石英、云母含量较高，碳酸钙矿物含量相对较低（图6）。在石羊河流域下游地区，现代表层沉积物主要矿物以石英、云母为主（图6)。而全新世时期，可溶性盐类矿物碳酸钙含量明显高于现代，石英、云母含量则低于现代，这与石羊河流域下游基本干涸有关。与石羊河流域全新世与",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d54d3bbaa8e9edf6a3f125765ff2a5b6d57fa3bf4a579fe77a3e26141de770ec.jpg",
+        "img_caption": [
+            "纬琴等:石羊河流域表层沉积物垂直地带性分异特征一—基于粒度与矿物指标 ",
+            "图4石羊河流域全新世沉积剖面的矿物数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f0eb1acb6fac0d653b3dc5c7ee4d525efb8877644601bec5aa9b46b94bf650f.jpg",
+        "img_caption": [
+            "Fig.4Mineral data of the Holocene sedimentary profiles in the Shiyang River Basin ",
+            "图5石羊河流域全新世与现代表层沉积物粒度特征对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.5ComparedresultsbetweentheHoloceneand moderngrainsizedataofoverlyingdeposits intheShiyang RiverBasin 现代沉积物粒度特征一样，流域矿物特征也指示了 石羊河流域较为干旱的气候特征。流域矿物特征进 一步证明了全新世与现代具有相同的驱动力。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/07e2cb241a195fabaadaa554a58904a0a10e0e7dd9f76a6d6739b6557e299226.jpg",
+        "img_caption": [
+            "图6石羊河流域全新世与现代表层沉积物矿物特征对比",
+            "Fig.6Compared resultsbetween the Holocene and modern mineral dataof overlying deposits inthe Shiyang River Basin "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文基于石羊河流域现代表层沉积物粒度与矿物指标的垂直地带性分布特征，结合流域全新世沉积剖面的粒度与矿物数据，将两者进行了对比研究，得到以下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "石羊河流域的上、中、下游现代沉积物粒径均大于全新世，现代沉积物中碳酸钙类含量明显少于全新世，粒度与矿物指标在一定程度上指示了现代气候较全新世更为干旱的特征。虽然现代表层沉积物与全新世剖面沉积物存在差异，但分析结果显示，全新世与现代具有相同的驱动力。石羊河流域上游在亚洲冬季风与西风的影响下，呈现山前风成沉积特征；中游地区在河湖水动力的影响下，呈现冲积、洪积特征；石羊河流域下游终端湖区，呈现湖相沉积特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] PAGES.Science Plan and Implementation Strategy.IGBP Report No.57[R].Stockholm:IGBPSecretariat,2009.   \n[2] 范中桥.地域分异规律初探[J.哈尔滨师范大学自然科学学 报,2004,20（5）:106-109.[Fan Zhongqiao.Research on the regularity of region differences[J].Natural Science Journal of Harbin Normal University,2004,20(5）:106-109.]   \n[3]Lee X,Feng Z,Guo L,et al.Carbon isotope of bulk organic matter: A proxy for precipitation in the arid and semiarid central east Asia [J].Global Biogeochemical Cycles,2005,19:GB4010，doi:10. 1029/2004GB002303.   \n[4] Yu S,Kang Z,Zhou W. Quantitative palaeoclimate reconstruction as an inverse problem:A Bayesian inference of late-Holocene climate on the Eastern Tibetan Plateau from a peat cellulose $\\ S ^ { 1 8 } \\mathrm { O }$ record[J].The Holocene,2012,22(4):405-412.   \n[5]Rao Z,Chen F,Cheng H,et al. High-resolution summer precipitation variations in the Western Chinese Loess Plateau during the last glacial［J]．Scinetific Reports,2013,3：2785，doi：10.1038/ srep02785.   \n[6]Lu H,Wu N,Liu K,et al.Modern pollen distributions in QinghaiTibetan Plateau and the development of transfer functions for reconstructing Holocene environmental changes[J]. Quaternary Science Reviews,2011,30:947-966.   \n[7）宋长青，吕厚远,孙湘君.中国北方花粉－气候转换函数建立 及应用[J].科学通报,1997,42（20）:2 182-2186.[Song Changqing,Lv Houyuan,Sun Xiangjun.Establishment and application of transfer functions of the pollen-climatic factors in Northern China[J].Chinese Science Bulletin,1997,42（20）:2 182- 2 186.]   \n[8]牛赞,刘贤德,敬文茂,等.祁连山北坡土壤特性与植被垂直分 布的关系[J].山地学报,2013,31(5）:527-533.[Niu Yun, Liu Xiande,Jing Wenmao,et al.Relationship between characteristics of soil and vertical distribution of vgetation on the orthern slope of Qilian Mountains[J].Mountain Research,2013,31(5）:527- 533.] [9]张成琦.内流河流域全新世环境变化与碳循环[D]兰州：兰州 大学,2017.［Zhang Chengqi. Holocene Environmental Change and Carbon Cycle in Endorheic Basins:A Case Study in the Shiyang River Drainage Basin[D].Lanzhou: Lanzhou University,   \n2017.] [10］李传华,赵军,师银芳,等.基于 NPP 的石羊河流域环境治理工 程成效评价[J].干旱区研究,2018,35（5）：1208-1216.［Li Chuanhua,Zhao Jun,Shi Yinfang,et al.NPP-based evaluation on environment governance effect in the Shiyang River Basin[J].Arid Zone Research,2018,35(5）:1 208 -1 216.] [11］李吉均.中国西北地区晚更新世以来环境变迁模式[J].第四 纪研究,1990(3）:197-204.[Li Jijun.The patterns of environmental changes since late Pleistocene in Northwestern China[J]. Quaternary Sciences,1990(3）:197-204.] [12］李育.季风边缘区湖泊孢粉记录与气候模拟研究[D].兰州： 兰州大学,2O09.［Li Yu.The Pollen Records from Lake Sediments and Climate & Lake Model in the Marginal Area of the Asian Monsoon[D].Lanzhou:Lanzhou University,2009.] [13］徐树建,潘保田,张慧,等.末次冰期旋回风成沉积物图解法与 矩值法粒度参数的对比[J].干旱区地理,2005,28（2）：194-   \n198.[Xu Shujian,Pan Baotian,Zhang Hui,et al. Grain size parameters of loess-palaeosol deposits from graphic and moment methods:A comparative study[J].Arid Land Geography,2005,28 (2) :194 -198.] [14］李育,张成琦,周雪花,等.我国西北夏季风边界千年尺度变化 的证据——来自盐池和猪野泽盐类矿物分析结果[J].沉积学 报,2015,33(3）:524-536.[Li Yu,Zhang Chengqi,Zhou Xuehua,et al.An evidence of millennial-scale summer monsoon boundary change in the Northwest China:Analysis results from saline minerals in lake sediments of Yanchi Lake and Zhuye Lake [J].Acta Sedimentologica Sinica,2015,33(3）:524-536.] [15]Li Y,Zhang C,Wang N,et al.Substantial inorganic carbon sink in closed drainage basins globally[J].Nature Geoscience,2O17,10：   \n501-508. [16]Li Y,Zhang C,LiP,et al.Basin-wide sediment gain-size numerical analysis and paleo-climate interpretation in the Shiyang River drainage basin[J]. Geographical Analysis,2017,49:309 -327. [17]Li Y,Li P,Zhang C,et al.Long-term fine-grained sediment records in a drainage system in arid China:A new perspective from paleoclimatological records and simulations[J].Annals of the American Association of Geographers,2017,107(5）:1-13.   \n[18］郭光剑,潘保田,管清玉,等.祁连山东段北麓近 $1 0 ~ \\mathrm { { k a } }$ 来的气 候变化初步研究[J].中国沙漠,1998,18(3）：193-200.〔Wu Guangjian,Pan Baotian,Guan Qingyu,et al. Climate changes in the north piedmont of Eastern Qilian Mountains since 1O ka B.P. [J].Journal of Desert Research,1998,18(3）:193 -200.]   \n[19]Zhang H C,Ma Y Z,Wunnemann B,et al.A Holocene climatic record fromarid Northwestern China[J].Palaeogeography,Palaeoclimatology,Palaeoecology,2000,162:389-401.   \n[20]Ma Y Z,Zhang H C,Pachur HJ,et al. Modern pollen-based interpretations of mid-Holocene palaeoclimate（8 500 to 3 000 cal. BP）at the southern margin of the Tengger Desert,Northwestern China[J]. The Holocene,2004,14(6):841 -850.   \n[21]李育，王岳,张成琦,等.干旱区内陆河流域中游地区全新世沉 积相变与环境变化——以石羊河流域为例[J].地理研究, 2014,33(10）:1 866-1 880.[Li Yu,Wang Yue,Zhang Chengqi ,et al. Changes of sedimentary facies and Holocene environments in the middle reaches of inland rivers,arid China:A case study of the Shiyang River[J]. Geographical Research,2014,33（10）:1 866- 1 880.]   \n[22］隆浩,王乃昂,马海州,等.腾格里沙漠西北缘湖泊沉积记录的 区域风沙特征[J].沉积学报,2007,25（4）:626-631.[Long Hao,Wang Naiang,Ma Haizhou,et al.Eolian activityand environment evolution history recorded by the Qingtu Lake,NW Tengger Desert[J]. Acta Sedimentologica Sinica,2007,25（4）: 626- 631.]   \n[23］施祺,王建民,陈发虎.石羊河古终端湖泊沉积物粒度特征与 沉积环境初探[J].兰州大学学报（自然科学版）,1999,35 (1）:194-198.[Shi Qi,Wang Jianmin,Chen Fahu.Preliminary study on grain size characteristics of sediments and depositional environment of palaeo-terminal lake of Shiyang River[J]. Journal of Lanzhou University（Natural Sciences）,1999,35（1）:194- 198.]   \n[24]Long H,Lai Z,Wang N,et al. Holocene climate variations from Zhuyeze terminal lake records in east Asian monsoon margin in arid Northern China[J]. Quaternary Research,2010,74:46 -56.   \n[25]Long H,Lai Z,Fuchs M,et al. Timing of Late Quaternary palaeolake evolution in Tengger Desert of Northern China and its possible forcing mechanisms[J].Global and Planetary Change,2012,92- 93:119 -129. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Vertical Zonality of Overlying Deposits in the Shiyang River Basin: Based on Granularity and Mineral Indicators ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "HAN Qin， LI Yu， LI Peng-cheng (College of Earth and Environmental Sciences,Lanzhou University,Lanzhou 73oooo,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Regional diferentiation is an importantand basic theoryof physical geography.Abig mistake may be made inreconstructing paleoclimate if the latitudinal zonality isconsideredonly.In this study,the Shiyang RiverBasin in Gansu Province was selected as the studyarea to revealthe environmental change and its driving factors by analyzing the grain size dataand mineraldataof overlying deposits inthe drainage basin.Lithology,grain size and mineral indicators were included in this study.In addition totheoverlying deposits,thegrainsizeand mineral data along the Holocene sedimentary profiles inthe Shiyang River Basin were colected for comparing with thoseof overlying deposits. The results showed that : $\\textcircled{1}$ Driving forces of both Holocene and modern overlying deposits in the Shiyang River Basin were similar,and the piedmont Aeolian deposit was formedunderthe Asian winter wind and west wind in the upper reaches ; $\\textcircled{2}$ Alluvial and proluvial deposits were formed under the fluvial and eulimnetic joint effect in the middle reaches ; $\\textcircled{3}$ Lacustrine deposit formed in the terminal-lake areas,and drought is currently more serious than that in the Holocene. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:vertical zonality ；overlying deposit； environmental change； Shiyang River Basin",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "欢迎订阅2020年《干旱区研究》",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "《干旱区研究》是由中国科学院新疆生态与地理研究所和中国土壤学会共同主办的，以干旱区水、土、生物、气候四种可再生资源的研究为主要内容的综合性学术期刊，其内容包括干旱区生态及其生态系统与环境；干旱区自然资源的动态变化及相互作用；干旱区与大气圈、水圈、生物圈、岩石圈和人类活动之间的相互作用；干旱区生态与建设;全球变化与干旱区；干旱区减灾、防灾；先进技术在干旱区开发与研究中的应用。依靠广大的科学工作者，开展广泛而深入的基础理论研究，为我国培养和造就大批的干旱区资源与环境的科技人才。本刊适合从事干旱区研究的专家、学者、科技人员及相关院校师生阅读参考。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "国内统一刊号:65-1095/X,本刊为国际大16开本，双月刊,250页，单月15日出版,每期55元。  \n欢迎新老客户及时到当地邮局订阅，邮发代号:58-37。若有漏订者可直接汇款至编辑部补订。  \n编辑部地址：乌鲁木齐市北京南路818号  \n邮编：830011  \n电话：0991-7827349  \nE-mail: azr@ ms. xjb.ac.cn  \nhttp ://azr. xjegi. com",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

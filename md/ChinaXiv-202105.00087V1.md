@@ -1,0 +1,166 @@
+图1、2半栏，65高；图3通栏，135高；图4通栏，155高
+
+# 斑地锦RT-qPCR内参基因的筛选
+
+宋美玲1，黄胜和l\*，陈祖杰²，邹嘉轩，刘欢胜，全文军3（1.江西中医药高等专科学校 医学基础部，江西 抚州344000；2．南昌大学 江西医学院，南昌330031；3．南昌大学 抚州医学院，江西抚州344000）
+
+摘要：实时荧光定量PCR（RT-qPCR）的前提条件之一是具有合适的内参基因。为筛选斑地锦（Euphorbia maculataL.）合适的不同生长期不同组织RT-qPCR内参基因，利用同源克隆法克隆斑地锦GAPDH、EF-lα、act、UBQ、TUB- $\cdot a$ 、eIF-4A、CYP 等基因片段，RT-qPCR检测7个候选内参基因在斑地锦不同生长期根、茎、叶和果实中的表达情况，geNorm、NormFinder和BestKeeper等生物学软件对各候选基因表达稳定性进行评价。结果显示：克隆的GAPDH、EF-1α、act、UBQ、TUB- $\cdot a$ 、eIF-4A、CYP基因片段为729、808、753、422、233、656、313 bp，分别编码 242、269、250、140、77、218、103个氨基酸，与其他植物相应氨基酸序列的最高同源性均在 $8 5 \%$ 以上。综合3个分析软件对各生长期不同组织中表达稳定性进行的评价得出，表达稳定性排名为I $) B Q > E F - I \alpha > T U B - \alpha > e I F - 4 A > G A P D H > C Y P > a c t \circ$ 因此，可以选取UBQ作为斑地锦RT-qPCR分析的内参基因，用于不同生长期基因组织特异性表达研究。
+
+关键词：斑地锦，基因克隆，内参基因，RT-qPCR中图分类号：R286.12 文献标识码：A
+
+# Screening of reference genes for RT-qPCR in Euphorbia maculata
+
+SONG Meiling1,HUANG Shenghel\*, CHEN Zujie², ZOU Jiaxuan³,LIU Huansheng³,QUAN Wenjun³
+
+(1. Department of Basic Medicine, JiangXi Collge of Traditional Chinese Medicine,Fuzhou 344000, Jiangxi, China; 2. Jiangxi Medical College,Nanchang University,Nanchang 330031, China; 3.Fuzhou Medical College,Nanchang University,Fuzhou 3440o0, Jiangxi, China)
+
+Abstract: The suitable reference genes is a prerequisite for real-time quantitative PCR (RT-qPCR). In order to provide a suitable reference gene for gene expression analysis using RT-qPCR in Euphorbia maculata, the GAPDH, EF-1α,act, UBQ, TUB-a, eIF-4A, and CYP gene fragments were cloned with the method of homologous cloning. Subsequently,the expression patterns of the seven candidate reference genes were obtained by RT-qPCR in $E$ .maculata,and the expression stability was assessed by geNorm,NormFinder,and BestKeeper. The results suggested that the fragment sequences of GAPDH,EF-1α,act,UBQ,TUB- $\mathbf { \nabla } \cdot \boldsymbol { a }$ ，eIF-4A and CYP contained 729 bp (encoding 242 amino acids),808 bp (encoding 269 amino acids),753 bp (encoding 250 amino acids), 422 bp (encoding 140 amino acids), 233 bp (encoding 77 amino acids), 656 bp (encoding 218 amino acids),and 313 bp (encoding 103 amino acids), respectively. And the seven amino acid sequences shared over $8 5 \%$ identity with other GAPDH,EF-1α, act, UBQ,TUB-α,eIF-4A,CYP by Blastp in GenBank.On the other hand， the order of expression stabilitywas UBQ>EF-1α>TUB-α>eIF-4A $>$ GAPDH>CYP>act by GeNorm，NormFinder，and BestKeeper. Therefore, UBQ could be selected as a reference gene for RT-qPCR in $E$ . maculata using for gene expression analysis in various plant tissues at different growth stages.
+
+Keywords: Euphorbia maculata； gene cloning；reference genes；RT-qPCR
+
+地锦草药材为大戟科大戟属一年生草本植物地锦（Euphorbiahumifusa）或斑地锦（ $E .$ （204号maculata）的干燥全草，又名鬼见愁、血筋草、奶汁草等，分布于中国江苏、江西、浙江、湖北、河南、河北、新疆和内蒙古等地（中国科学院中国植物志编辑委员会，1997），是中医、维医、蒙医常用药材，具有清热解毒，凉血止血，利湿退黄等功效，主治痢疾、泄泻、咯血、尿血、便血、崩漏、疮归痈肿、湿热黄疸等（国家药典委员会，2015），目前已开发有肠炎宁片、三七止血片、泻痢宁片等中成药。斑地锦主要含有黄酮类、萜类、酚酸类和生物碱类等成分，具有抗氧化、抗炎、抗菌、止血、免疫调节等作用（柳润辉等，2001；安惠霞等，2008）。目前，斑地锦研究多聚焦在质量标准控制、药理学作用、化学成分的提取及鉴定等方面（Tian etal.,2019；胡建新等，2018），分子生物学相关研究少见报道。
+
+实时荧光定量PCR是在普通PCR的基础上引入荧光基团，通过相应的荧光信号积聚实时监测整个反应的进程，为未知序列进行定量分析的方法，其特异性强、灵敏度高、重复性好、定量准确（Wang et al.,2019；张玉芳等，2014），已经成为分子生物学中研究基因表达的重要工具之一，而使用合适的内参基因是获得可信定量结果的前提（Shakeeletal.,2018）。在实际应用中，RNA提取、cDNA合成及PCR扩增效率等因素会直接影响实验结果，因此常用表达稳定的内参基因进行校正和标准化（Bustin,2002），以减少样品之间和样品内部的误差。近来的研究表明，内参基因不存在绝对通用性，若不经筛选而以一种基因作为任何条件下的内参，得到的结果精确度大大降低，甚至是错误的（Zhu etal.,2019）。另外，单一传统的内参基因有时会对结果精确性产生影响，新内参基因将逐渐取代某些表达稳定性差的传统管家基因（Nguyenetal.,2018），或应用内参基因组合有效地减少基因表达误差（袁伟等，2012），以获得更准确的分析结果。同时，基于基因芯片技术和基因表达数据库的筛选（Liang etal.,2018），也将有助于获得更可靠的内参基因。因此，在分析目标基因表达之前，有必要对候选内参基因进行筛选与评估，而评价内参基因表达稳定性的软件较多，其中geNorm、NormFinder 和 BestKeeper 是应用较广泛的（Kiarash et al.,2018; Zhong et al.,2019）。目前常用的内参基因有 act（actin）、GAPDH（glyceraldehyde-3 phosphate dehydrogenase）、EF-1α（elongation factor-1 alpha）、UBQ（ubiquitin）、TUB- $\mathbf { \nabla } \cdot \boldsymbol { a }$ （tubulinalpha）、eIF-4A（eukaryotictranslation initiation factor 4A）、CYP（cyclophilin）、18S rRNA（18S ribosomal RNA）等（Halleret al.,2004；Kozera& Rapacz,2013）。为筛选斑地锦合适的不同生长期不同组织RT-qPCR内参基因，本研究同源克隆斑地锦GAPDH、EF-1α、act、UBQ、TUB-α、eIF-4A、CYP等7个候选内参基因片段，RT-qPCR 检测在斑地锦不同生长期（苗期、花期、果期）根、茎、叶和果实中的表达情况，利用 geNorm、NormFinder 和BestKeeper 等软件对各候选基因表达稳定性进行评价，为斑地锦不同生长期基因组织特异性表达研究奠定基础。
+
+# 1材料与方法
+
+# 1.1 实验材料
+
+斑地锦种子由江西天施康生态中药种植有限公司惠赠，种植于南昌大学抚州医学院实验田，经江西中医药高等专科学校药学系中药教研室鉴定为斑地锦。分别采集种植70d后的苗期（未开花）、花期（开3朵以上的花且未结果）的根、茎、叶，以及果期（结3个以上的果）的根、茎、叶、果，每个样品皆为3株以上的混合样品，采集后立即置 $. 8 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱备用。
+
+# 1.2主要试剂与仪器
+
+植物总RNA 提取试剂盒（Spin Column Plant Total RNAPurification Kit）、胶回收试剂盒（SanPrep Column DNAGel Extraction Kit）、引物合成、测序等，生工生物工程(上海)股份有限公司；反转录试剂盒（PrimeScriptTMRTReagent Kit with gDNAEraser）、荧光定量PCR 试剂（PrimeScriptTMRTMaster Mix）等,宝生物工程（大连)有限公司;Pfu酶(TransStart $\textsuperscript { \textregistered }$ FastPfuDNAPolymerase），Taq 酶，T-载体（pEASY $\textsuperscript { \textregistered }$ -Blunt Simple CloningKit），北京全式金生物技术有限公司。
+
+普通PCR仪（ $\mathrm { T } 1 0 0 ^ { \mathrm { T M } }$ ThermalCycler）、荧光定量PCR仪（CFX96Real-Time）等，美国 Bio-Rad 公司。超微量分光光度计（NanoDrop One），美国 Thermo Scientific 公司。
+
+# 1.3实验方法
+
+1.3.1总RNA的提取和cDNA的合成
+
+斑地锦不同生长期根、茎、叶、果实总RNA的提取和cDNA的合成皆参照试剂盒说明书操作。总RNA提取后通过琼脂凝胶电泳检测RNA的质量，并用超微量分光光度计测定RNA浓度，以保证后续实验的进行。
+
+# 1.3.2 引物设计
+
+在GenBank中查询相关序列，尤其是同科植物蓖麻（Ricinuscommunis）、麻疯树（Jatrophacurcas）和橡胶树（Hevea brasiliensis）等的GAPDH、EF-lα、act、UBQ、TUB- $\cdot a$ 、eIF-4A、CYP的基因序列，比对找出高度保守区段，分别设计克隆斑地锦相关基因的简并引物。后续根据测序结果，利用PrimerPremier 5.0 软件分别设计RT-qPCR引物。本实验所用引物见表1。
+
+表1基因片段克隆引物和qPCR引物  
+Table 1 Cloning and qPCR primer sequences for candidate reference genes   
+
+<html><body><table><tr><td>引物名称 Primer name</td><td>引物序列 Primer sequence (5’→3'）</td><td>退火温度 temperature (℃)</td><td>片段长度 Fragment length (bp)</td><td>备注 Remark</td><td></td></tr><tr><td>GAPDH-F</td><td>MGTTCATGGTCAVTGGAAGC</td><td>56</td><td>730</td><td>克隆基因片段</td><td></td></tr><tr><td>GAPDH-R</td><td>CAATTCCWGCCTTGGCATC</td><td></td><td></td><td>Cloning for</td><td>Gene</td></tr><tr><td>EF-1α-F</td><td></td><td></td><td></td><td>fragment</td><td></td></tr><tr><td></td><td>YTGYTGYAACAAGATGGATGC</td><td>56</td><td>805</td><td>克隆基因片段 Cloning for</td><td>Gene</td></tr><tr><td>EF-1α-R</td><td>GATCCTTCTTCTCAACACTCTT</td><td></td><td></td><td>fragment</td><td></td></tr><tr><td>act-F</td><td>CTGGATTTGCTGGAGATGATG</td><td>57</td><td>750</td><td>克隆基因片段</td><td></td></tr><tr><td>act-R</td><td>ATTTCATGATGGAGTTGTAAGTGG</td><td></td><td></td><td>Cloning</td><td>Gene</td></tr><tr><td></td><td></td><td></td><td></td><td>fragment</td><td></td></tr><tr><td>UBQ-F</td><td>ATGCAGATCTTYGTGAARACCCT</td><td>57</td><td>420</td><td>克隆基因片段 for</td><td></td></tr><tr><td>UBQ-R</td><td>CAGTAGTGGCGRTCGAAGTGGT</td><td></td><td></td><td>Cloning</td><td>Gene</td></tr><tr><td>TUB-α-F</td><td>TGARCCHTCDTCYATGATGG</td><td>51</td><td>240</td><td>fragment</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>克隆基因片段 Cloning</td><td>Gene</td></tr><tr><td>TUB-α-R</td><td>CAHACAGCYCTYTGMACCTT</td><td></td><td></td><td>for fragment</td><td></td></tr><tr><td>eIF-4A-F</td><td>GAGCTDGCHCAGCARATTGAGAARGT</td><td></td><td>650</td><td>克隆基因片段</td><td></td></tr><tr><td></td><td></td><td>58</td><td></td><td></td><td>Gene</td></tr><tr><td>eIF-4A-F</td><td>AGDGARACYTGYTGVACRTCRATACC</td><td></td><td></td><td>Cloning for fragment</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>CYP-F</td><td>GAGAACTTCMGGGCNCTC</td><td>53</td><td>310</td><td>克隆基因片段</td></tr><tr><td>CYP-R</td><td>CTGSCCGAACACGACG</td><td></td><td></td><td>Cloning for Gene fragment</td></tr><tr><td>Oligo(dT)18</td><td>TTTTTTTTTTTTTTTTTT</td><td></td><td></td><td>cDNA合成 synthesis of cDNA</td></tr><tr><td>GAPDH-qF</td><td>TGATCTCACAGTCAGGCTCG</td><td>55</td><td>147</td><td>RT-qPCR</td></tr><tr><td>GAPDH-qR</td><td>TGACCTGCTGTCGCCAAC</td><td></td><td></td><td></td></tr><tr><td>EF-1α-qF</td><td>CCTCCCACATTGCTGTCAAG</td><td>55</td><td>167</td><td>RT-qPCR</td></tr><tr><td>EF-1α-qR</td><td>ATGGAGGGTACTCAGAGAAGG</td><td></td><td></td><td></td></tr><tr><td>act-qF</td><td>CCACTGGTATTGTTCTGGAC</td><td>53</td><td>169</td><td>RT-qPCR</td></tr><tr><td>act-qR</td><td>TGCGGTTGTGGTGAAAGAGT</td><td></td><td></td><td></td></tr><tr><td>UBQ-qF</td><td>ATAACCCTCGAGGTCGAGTC</td><td>53</td><td>166</td><td>RT-qPCR</td></tr><tr><td>UBQ-qR</td><td>TGGAGAGTGGACTCCTTCTG</td><td></td><td></td><td></td></tr><tr><td>TUB-α-qF</td><td>TGCCTCATGTACCGTGGTG</td><td>55</td><td>178</td><td>RT-qPCR</td></tr><tr><td>TUB-α-qR</td><td>ACAGCTCTTTGAACCTTGGC</td><td></td><td></td><td></td></tr><tr><td>eIF-4A-qF</td><td>TCTTCCAGTTGCTACCAACC</td><td>53</td><td>189</td><td>RT-qPCR</td></tr><tr><td>eIF-4A-qF</td><td>GTCTCGAGCTTCCACTCTTC</td><td></td><td></td><td></td></tr><tr><td>CYP-qF</td><td>AAGCCTCTCCACTACAAAGG</td><td>53</td><td>162</td><td>RT-qPCR</td></tr><tr><td>CYP-qR</td><td>GAATTCCAGGACCGGTGTG</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 1.3.3候选内参基因片段的克隆与分析
+
+PCR反应体系（ $2 5 ~ \mu \mathrm { L }$ ）： $5 { \times } \mathrm { G C }$ Buffer ${ 5 \mu \mathrm { L } }$ ，dNTPs（各 $2 . 5 \mathrm { m m o l } \cdot \mathrm { L } ^ { - 1 }$ ） $2 . 5 ~ \mu \mathrm { L }$ ，简并引物F（ $\mathrm { 1 0 \mu m o l \cdot L ^ { - 1 } }$ 、R( $1 0 \ \mathrm { \textmu m o l } \cdot \mathrm { L } ^ { - 1 } .$ ）各 $1 ~ \mu \mathrm { L }$ ，cDNA 模板 $1 ~ \mu \mathrm { L }$ ，Pfu酶 $( 5 \mathrm { U } \cdot \mu \mathrm { L } ^ { - 1 }$ ）$0 . 3 ~ \mu \mathrm { L }$ ，灭菌 $\mathrm { d d H } _ { 2 } \mathrm { O } \ 1 4 . 2 \ \mu \mathrm { L }$ 。扩增条件： $9 4 \mathrm { ~ ^ { \circ } C ~ } 5 \mathrm { ~ m i n }$ ; $9 4 \mathrm { ~ \textcircled { ~ } C ~ } 3 0 \mathrm { ~ s ~ }$ ，相应退火温度 $3 0 ~ \mathrm { s }$ ， $7 2 \ \mathrm { { ^ \circ C } }$ $6 0 ~ \mathrm { s }$ ，30个循环； $7 2 \mathrm { ~ \textdegree ~ { ~ C ~ } ~ { ~ 5 ~ } ~ } \operatorname* { m i n }$ 。PCR产物用 $1 . 5 \%$ 琼脂糖凝胶电泳进行检测，目的片段的回收纯化按照试剂盒操作说明进行。将回收的DNA片段连接T-载体后转化大肠杆菌 $\tt D H 5 a$ 菌液PCR鉴定阳性克隆，送测序。所得序列在GenBank中进行Blast比对。
+
+# 1.3.4RT-qPCR引物检测与熔解曲线分析
+
+为检验引物特异性，排除引物二聚体及非特异性扩增产物对结果的影响，用相应引物qF、qR 进行普通 PCR，然后进行RT-qPCR，再加热RT-qPCR产物从 $6 5 ~ \mathrm { { ^ \circ C } }$ 到 $9 5 \ \mathrm { ^ \circ C }$ ，每隔$0 . 5 ~ \mathrm { { ^ \circ C } }$ 停留5s检测1次荧光强度以获取熔解曲线。RT-qPCR反应体系( $2 0 \mu \mathrm { L }$ ） $2 { \times } \mathrm { S Y B R }$ GreenqPCR Master Mix $1 0 ~ \mu \mathrm { L }$ ，引物qF（ $\mathrm { . 1 0 \mu m o l \cdot L ^ { - 1 } } .$ ）、qR( $\mathrm { \nabla \cdot 1 0 \ \mu m o l \cdot L ^ { - 1 } }$ ）各 $0 . 4 ~ \mu \mathrm { L }$ ，cDNA模板 $2 \mu \mathrm { L }$ ，灭菌 $\mathrm { d d H } _ { 2 } \mathrm { O } 7 . 2 ~ \mu \mathrm { L }$ ；扩增条件： $9 5 \ \mathrm { ^ { \circ } C } \ 5 \ \mathrm { m i n }$ ; $9 5 \mathrm { ~ \textdegree ~ } 3 0 \mathrm { ~ s ~ }$ ，相应退火温度 $3 0 ~ \mathrm { s }$ ， $7 2 \ \mathrm { { ^ \circ C } }$ $3 0 ~ \mathrm { s }$ ，40个循环。
+
+# 1.3.5候选内参基因的筛选
+
+分别将样品总RNA 的反转录产物cDNA作为模板，进行RT-qPCR 扩增，geNorm、NormFinder和BestKeeper软件对3个候选内参基因表达稳定性进行评估。将 $\mathrm { C t }$ 值转化为相对表达量(吴建阳等,2017),按照公式 $\scriptstyle { \mathrm { Q } = } 2 ^ { ( C t \operatorname* { m i n } \ - \ C t }$ sample)进行转化,用于geNorm和NormFinder软件分析，BestKeeper软件直接输入Ct值进行分析，最后进行综合排名，得出最适合斑地锦不同生长期基因组织特异性表达研究的内参基因。
+
+# 2结果与分析
+
+# 2.1候选内参基因片段的克隆与分析
+
+以总RNA反转录所得到的cDNA为模板，相应简并性引物F、R为引物进行PCR 扩增，扩增产物大小符合预期（图1）。对其测序后显示，克隆的GAPDH、EF-lα、act、UBQ、TUB $\cdot a$ 、eIF-4A、CYP基因片段为729、808、753、422、233、656、313 bp，分别编码 242、269、250、140、77、218、103 个氨基酸。将氨基酸序列在GenBank中Blastp 后，GAPDH、EF- $1 \alpha$ 、act、UBQ、TUB- $\mathfrak { a }$ 、eIF-4A、CYP分别与莴苣GAPDH（XP023733724）、蓖麻 EF- $1 \alpha$ （XP002518073）、荔枝act（ADV17460）、山梨猕猴桃UBQ（GFZ13847.1）、大麦TUB- $\mathfrak { a }$ （CAB76917.1）、玉米eIF-4A（U17979.1）、油桐CYP（ARV78452.1）的同源性为 $9 5 \%$ 、$9 9 \%$ 、 $100 \%$ 、 $9 9 \%$ 、 $9 9 \%$ 、 $87 \%$ 、 $86 \%$ 。将相应核苷酸序列登录到GenBank，获得登录号EmGAPDH（MT044466）、EmEF-1α（MT044465）、Emactin（MT044464）、EmUBQ（MW815120）、EmeIF-4A（MW815119）、EmTUB-α（MW815118）、EmCYP（MW815117）。hnM 1 2 3 M 4 5 人 7
+
+![](images/41680937a72dda6c4d27c715af9fb84d35627c71e7b61063ac5d66ab7afc0511.jpg)  
+图1克隆引物PCR扩增候选基因的结果
+
+M.Marker；1.GAPDH;2.EF-1α；3.act；4.UBQ;5.TUB- $a$ ；6．eIF-4A;7.CYP.
+
+# 2.2RT-qPCR引物检测与熔解曲线分析
+
+用相应引物qF、qR进行普通PCR扩增，产物长度与预期一致（图2）。将荧光定量RT-PCR产物进行熔解曲线分析，各基因引物的熔解曲线均显示单峰（图3）。以上结果表明，本实验所设计定量引物无引物二聚体及非特异性扩增，可用于后续的RT-qPCR 分析。
+
+![](images/dec083d601da15e33b88ba4cc381b8af7162b8698d4c07edfdffe981cf6e1393.jpg)  
+Fig.1PCR products of candidate reference genes using primers,F and R   
+图2克隆引物PCR扩增候选基因的结果
+
+M.Marker；1.GAPDH;2.EF-1α；3.act；4.UBQ;5.TUB-α；6.eIF-4A;7．CYP.
+
+Fig.2 PCR products of candidate reference genes using primers, qF and qR
+
+A.GAPDH;B.EF-1α；C.aCt；D.UBQ;E.TUB- $\boldsymbol { a }$ ；F.eIF-4A;G. CYP.
+
+![](images/56bcf043db427b1d0ac9339636ddc2a4bfdfba0573d88851bea536d0eb96eb82.jpg)  
+Fig.3Melting curves of candidate reference genes
+
+# 2.3候选内参基因的Ct值分析
+
+![](images/d92e462417573f5f7ecfdcb784c59630c73e2232cfaedb4e9fe93f3fe932a037.jpg)  
+图3候选基因熔解曲线
+
+对斑地锦不同生长期各组织（根、茎、叶和果）的cDNA样品进行RT-qPCR扩增，运用Ct值评估各内参基因的表达量，Ct值与其表达量成反比，即Ct值越小，表达量越高。内参基因的表达值排序为： $E F - I \alpha > T U B - \alpha > e I F - 4 A > U B Q > C Y P > G A P D H > a c t$ ，Ct值分别为$1 7 . 0 4 \sim 1 9 . 5 5 , 1 8 . 5 2 \sim 2 1 . 8 1 , 1 8 . 5 8 \sim 2 2 . 0 4 , 2 0 . 1 9 \sim 2 2 . 9 0 , 2 0 . 6 3 \sim 2 4 . 9 9 , 2 1 . 8 5 \sim 2 4 . 9 5 , 2 4 . 4 4 \approx 3 0 . 5 0 0 8$ ）29.26（图4）。3次重复之间各内参基因的表达量变动较小，且表达量都不是恒定不变的。
+
+![](images/586c2a9acd3bd11224197b01d2976d7b3a08addc040550368adf37077f4c5553.jpg)  
+A．GAPDH；B. $E F { - } I a$ ；C.act；D.UBQ；E.TUB- $a$ ；F.eIF-4A;G.CYP. 图4内参基因在各生长期不同组织样品中的RT-qPCRCt值 Fig.4Ct values of RT-qPCR for candidate reference genes in various tissues at different growth stages
+
+# 2.4候选内参基因表达稳定性分析
+
+2.4.1 geNorm 软件分析
+
+geNorm 软件通过计算稳定系数M来分析基因表达稳定性，M值越小，稳定性越好。7个候选内参基因除了act外在不同组织中表达的M值都小于1.5，稳定性排名为UBQ>TUB-α>EF-1α>eIF-4A>GAPDH>CYP>act（表2）。
+
+表2geNorm分析内参基因在各生长期不同组织中的表达稳定性Table 2 The expression stability of candidate reference genes analyzed by geNor  
+
+<html><body><table><tr><td>基因</td><td>M值</td><td>排名</td></tr><tr><td>Gene</td><td>M value</td><td>Rank</td></tr><tr><td>UBQ</td><td>0.824</td><td>1</td></tr><tr><td>TUB-a</td><td>0.899</td><td>2</td></tr><tr><td>EF-1α</td><td>0.915</td><td>3</td></tr><tr><td>eIF-4A</td><td>0.944</td><td>4</td></tr><tr><td>GAPDH</td><td>0.955</td><td>5</td></tr><tr><td>CYP</td><td>1.165</td><td>6</td></tr><tr><td>act</td><td>1.649</td><td>7</td></tr></table></body></html>
+
+# 2.4.2NormFinder软件分析
+
+与geNorm类似，NormFinder 软件也是基于各候选内参基因的M值，通过方差评估其表达稳定性。经NormFinder软件分析，7个内参基因在各组织中的表达稳定程度存在差异，按M值大小排序为 $^ { \prime } J B Q > T U B - \alpha > E F - l \alpha > e I F - 4 A > G A P D H > C Y P > a c t$ （表3）。UBQ的M值最低，总体稳定性最好。
+
+表3NormFinder分析内参基因在各生长期不同组织中的表达稳定性Table 3 Expression stability of candidate reference genes analyzed by NormFinder  
+
+<html><body><table><tr><td>基因</td><td>M值</td><td>排名</td></tr><tr><td>Gene</td><td>M value</td><td>Rank</td></tr><tr><td>UBQ</td><td>0.190</td><td>1</td></tr><tr><td>TUB-α</td><td>0.347</td><td>2</td></tr><tr><td>EF-1α</td><td>0.419</td><td>3</td></tr><tr><td>eIF-4A</td><td>0.427</td><td>4</td></tr><tr><td>GAPDH</td><td>0.443</td><td>5</td></tr><tr><td>CYP</td><td>0.588</td><td>6</td></tr><tr><td>act</td><td>1.075</td><td>7</td></tr></table></body></html>
+
+# 2.4.3Bestkeeper软件分析
+
+BestKeeper 直接根据各基因的Ct值，计算标准偏差（standard devialion，SD）和和变异系数（coefficientof variation，CV）来评估各内参基因的稳定性。一般来说，稳定的内参基因具有较小的SD值和CV值。BestKeeper分析的基因表达稳定性排名为：$E F - I \alpha > U B Q > e I F - 4 A > G A P D H > T U B - \alpha > C Y P > a c t$ （表4）。其中，EF-lα、UBQ、eIF-4A的SD值和CV值比较相近，表达都相对稳定。
+
+表4BestKeeper分析内参基因在各生长期不同组织中的表达稳定性Table 4 The expression stability of candidate reference genes analyzed by BestKeepel  
+
+<html><body><table><tr><td>基因</td><td>SD值</td><td>CV值</td><td>排名</td></tr><tr><td>Gene</td><td>SD value</td><td>CV value</td><td>Rank</td></tr><tr><td>EF-1a</td><td>0.79</td><td>4.36</td><td>1</td></tr><tr><td>UBQ</td><td>0.80</td><td>3.81</td><td>2</td></tr><tr><td>eIF-4A</td><td>0.81</td><td>4.10</td><td>3</td></tr><tr><td>GAPDH</td><td>0.98</td><td>4.23</td><td>4</td></tr><tr><td>TUB-α</td><td>1.01</td><td>5.02</td><td>5</td></tr><tr><td>CYP</td><td>1.05</td><td>4.56</td><td>6</td></tr><tr><td>act</td><td>1.16</td><td>4.40</td><td>7</td></tr></table></body></html>
+
+# 2.4.4综合分析
+
+由于各内参基因在3个软件中的排序略有差异，故运用几何平均值算法进行各候选内参基因的综合排名，内参基因几何平均值越低，则其稳定性越好。各内参基因在斑地锦不同生长期的不同组织中表达稳定性综合排名为UBQ>EF-1α>TUB-α>eIF-4A $>$ GAPDH>CYP>act（表5）。
+
+表5各内参基因在各生长期不同组织中表达稳定性综合排名Table 5 The overall ranking of expression stability of candidate reference genes  
+
+<html><body><table><tr><td>基因 Gene</td><td>GeNorm</td><td>NormFinder</td><td>Bestkeeper</td><td>几何平均值 Geometrical mean</td><td>综合排名 Comprehensive rank</td></tr><tr><td>UBQ</td><td>1</td><td>1</td><td>2</td><td>1.33</td><td>1</td></tr><tr><td>EF-1a</td><td>3</td><td>3</td><td>1</td><td>2.33</td><td>2</td></tr><tr><td>TUB-α</td><td>2</td><td>2</td><td>5</td><td>3.00</td><td>3</td></tr><tr><td>eIF-4A</td><td>4</td><td>4</td><td>3</td><td>3.33</td><td>4</td></tr><tr><td>GAPDH</td><td>5</td><td>5</td><td>4</td><td>4.67</td><td>5</td></tr><tr><td>CYP</td><td>6</td><td>6</td><td>6</td><td>6.00</td><td>6</td></tr><tr><td>act</td><td>7</td><td>7</td><td>7</td><td>7.00</td><td>7</td></tr></table></body></html>
+
+# 3讨论与结论
+
+地锦草是中医、维医、蒙医常用药材，主要含有黄酮类、萜类、酚酸类和生物碱类等，其中槲皮素含量作为其质量标准，目前，斑地锦的分子生物学相关研究少见报道。本研究首次克隆了斑地锦GAPDH、EF-1α、act、UBQ、TUB- $\cdot a$ 、eIF-4A、CYP等常用的传统内参基因片段，并作为候选内参基因进行RT-qPCR，分别用 geNorm、NormFinder和Bestkeeper评价在各生长期（苗期、花期、果期）根、茎、叶和果实中的表达稳定性。本实验中，各候选内参基因在不同生长期各组织中的表达丰度除act外都较高，Ct值皆在25以下，符合要求。由于3个评估软件采用不同统计学算法，分析结果通常存在差异，需要综合分析得到最适合的内参基因（Kiarash et al.,2018；Zhong et al.,2019），其中 geNorm 和 NormFinder 的分析结果较为一致，UBQ、TUB- $\cdot a$ 、EF-lα、eIF-4A、GAPDH的M值都 $\mathrm { \dot { < } } 1$ ，比较稳定，但最佳内参基因为UBQ，而Bestkeeper评价结果与前二者略有差异，EF-lα、UBQ、eIF-4A、GAPDH的SD值 $_ { < 1 }$ ，该软件筛选的最优内参基因为 $E F  – I a$ ，而UBQ和eIF-4A表达也比较稳定，与EF-Iα没有明显差异。UBQ是泛素蛋白，与蛋白质调节系统有关，参与细胞代谢过程，是常用的内参基因，在许多植物中得到应用，例如分析芍药花瓣不同发育时期和不同组织的基因表达时可选用UBQ作为内参基因（李健，2017）。 $E F  – I a$ 是转录延伸因子 $\mathfrak { a }$ 亚基基因，在真核生物中参与转录控制、凋亡以及信号转导等一系列重要的生命活动过程，也是较为常用的内参基因，在朱顶红不同组织中表达较稳定（刘晓婷等，2018）。GAPDH、act、TUB- $\cdot a$ 、eIF-4A、CYP等不是斑地锦各生长期不同组织RT-qPCR的合适内参基因，但在其他一些植物中可能稳定表达，这也证明在不同植物或不同实验条件下进行RT-qPCR有必要对内参基因进行筛选与评估(Kozera&Rapacz,2013）。因此，若研究斑地锦不同生长期基因组织特异性表达时，可以选取UBQ作为内参基因，如果选择内参基因组合，则UBQ 和 EF-1α较为合适。此结果为后续斑地锦分子生物学相关研究提供了便利条件。当然，随着斑地锦基因发掘和表达研究的深入，不排除会出现更稳定的内参基因。
+
+# 参考文献:
+
+AN HX,LI ZJ,GULINA D,et al.，2008.Research advance of the uighur medicine   
+dijincao[J].Lishizhen Med MatMed Res,19(12): 2866-2868.[安惠霞，李治建，古丽娜·达吾提，   
+等，2008．地锦草的研究进展[J]．时珍国医国药，19（12）：2866-2868.]   
+BUSTIN S,2002. Quantification of mRNA using real-time reverse transcription PCR RT-PCR: trends and problems[J]. J Mol Endocrinol, 29(1): 23-29.   
+Chinese Pharmacopoeia Commission，2015.The Pharmacopoeia of the People's Republic of China (Vol.I) [M].Beijing: China Medical Science Press:127.[国家药典委员会，2015．中 华人民共和国药典（一部）[M].北京：中国医药科技出版社：127.]   
+Delectis Florae Reipublicae Popularis Sinicae Agendae Academiae Sinicae Edita,1997. Flora Reipublicae Popularis Sinicae (Vol.3)[M].Beijing: Science Press,44:49-50.[中国科学院中 国植物志编辑委员会，1997．中国植物志(第三分册)[M]．北京：科学出版社，44:49-50.]   
+HALLER F, KULLE B, SCHWAGER S, et al., 2004. Equivalence test in quantitative reverse transcription polymerase suitable for normalization chain reaction: Confirmation of reference genes[J]. Anal Biochem, 335(1): 1-9.   
+HU JX, XI XT, WANG XM, et al., 2018. Mechanism of Humifuse euphorbia in regulating tumor angiogenesis by NF-kB/VEGF signal pathway[J]. Chin J Exp Trad Med Form. 24(20): 167-172.[胡建新，席晓甜，王晓敏，等，2018．地锦草调控NF-kB/VEGF 信号通路抑 制肿瘤血管生成的机制[J]．中国实验方剂学杂志，24（20）：167-172.]   
+KIARASH JG, WILDE HD,AMIRMAHANI F, et al., 2018. Selection and validation of reference genes for normalization of RT-qPCR gene expression in wheat (Triticum durum L.） under drought and salt stresses[J]. J Genet, 97(5): 1433-1444.   
+KOZERA B,RAPACZ M, 2013. Reference genes in real-time PCR[J]. J Appl Genet, 54(4): 391-406.   
+LI J, 2017. Selection and validation of reference genes for quantitative real-time pcr in herbaceous peony[J].MolPBreed,15(7): 2544-2549.[李健，2017．芍药实时定量 PCR 内参基因的筛 选和验证[J]．分子植物育种，15（7）：2544-2549.]   
+LIANG WX, ZOU XX, CARBALLAR-LEJARAZU R, et al., 2018. Selection and evaluation of reference genes for RT-qPCR analysis in Euscaphiskonishii Hayata based on transcriptome data[J]. Plant Methods,14(1): 42.   
+LIU RH，WANG HB，KONG LY, 2001. Studies on chemical constituents of Euphorbia humifusa[J].Chin Traditional Herbal Drugs,32(2): 107-108.[柳润辉,王汉波,孔令义,2001. 地锦草化学成分的研究[J]．中草药，32（2）：107-108.]   
+LIU XT, WANG SL, XUE JQ, et al., 2018. Selection of reference genes for quantitative real-Time PCR in different tissue and organ of barbadoslily[J].Acta Hortic Sin,45(5): 919-930.[刘晓 婷，王顺利，薛璟祺，等，2018．朱顶红实时荧光定量PCR中不同组织器官内参基因 的筛选[J]．园艺学报，45（5）：919-930.]   
+NGUYEN N, SUOKAS M, KARPPINEN K, et al., 2018. Recognition of candidate transcription factors related to bilberry fruit ripening by de novo transcriptome and RT-qPCR analyses[J]. Sci Rep, 8(1): 1-12.   
+SHAKEEL M, RODRIGUEZ A, TAHIR UB, et al., 2018. Gene expression studies of reference genes for quantitative real-time PCR: an overview in insects[J]. Biotechnol Lett, 40(2): 227-236.   
+TIAN S,WEN E,MI N,et al., 2019.Determination of three active components in Euphorbia humifusa will. U dsing high-performance liquid chromatography with diode-array detection and autophagy and apoptosis analysis of normal rat kidney and HeLa cels[J]. Pharmacogn Mag, 15(61): 348.   
+WANG Y, DAI M, CAI D, et al., 2019. Screening for quantitative real-time PCR reference genes with high stable expression using the mRNA-sequencing data for pear[J]. Tree Genet Genomes, 15(4): 54.   
+WU JY, HE B, DU YJ, et al., 2017. Analysis method of systematically evaluating stability of reference genes using geNorm,NormFinder and BestKeeper[J]. Mod Agri Sci Tech,(5): 278-281.[吴建阳，何冰，杜玉洁，等，2017．利用geNorm、NormFinder和BestKeeper 软件进行内参基因稳定性分析的方法[J]．现代农业科技，（5）：278-281.]   
+YUAN W,WAN HJ, YANG YJ, 2012. Characterization and selection of reference genes for real-time quantitative RT-PCR of plants[J]. Chin Bull Bot, 47(4): 427-436.[袁伟，万红建, 杨悦俭，2012．植物实时荧光定量PCR内参基因的特点及选择[J]．植物学报，47（4）： 427-436.]   
+ZHANG YF, ZHAO LJ, ZENG YL, 2014. Selection and application of reference genes for gene expression studies[J].Plant Physiol J, 50(8):1119-1125.[张玉芳，赵丽娟，曾幼玲,2014．基 因表达研究中内参基因的选择与应用[J]．植物生理学报，50（8）：1119-1125.]   
+ZHONG S, ZHOU S,YANG S,et al., 2019. Identification of internal control genes for circular RNAs[J]. Biotechnol Lett, 41(10): 1111-1119.   
+ZHU L, YANG C, YOU Y, et al., 2019. Validation of reference genes for RT-qPCR analysis in peel and flesh of six apple cultivars (Malusdomestica) at diverse stages of fruit development[J]. Sci Hortic, 244: 165-171.

@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "部分智库网站的信息交流结构研究——基于URL互引网络分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈微；李秀霞;李婷婷曲阜师范大学传媒学院 日照 276826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：[目的/意义JURL引用是链接分析发展遇阻后，网络计量学中一种新的研究方法。研究智库网站之间的 URL互引关系可以了解智库之间在网络上的亲疏关系，探讨不同智库网站的角色与地位。[方法/过程]借用 Webometric Analyst 2.0获取全球45 个智库网站的互引数据，将其与智库排名进行相关性分析，验证数据的可靠性；并构建45个智库网站间的URL互引网络，运用社会网络分析法对其进行分析，旨在揭示URL互引网络的主要特征，探究45个智库之间网络信息的交流情况。[结果/结论]研究表明，我国三所智库与其他智库网络交流较少，效率较低。最后，为我国智库网站的建设提出建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词智库网站;URL;引用;社会网络;信息交流",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the Information Communication Structure of Think Tank Websites Based on the URL Cross-citation Network ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Wei Li Xiuxia LiTingting School of Communication, Qufu Normal University, Rizhao 276826 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/significance] The URL citation is a new study method of webometrics when the link analysis method development has a botle neck. We can know close and distant relationships among think tank websites through analyzing the URL cross-citation network. [Method/process] we obtained URL cross-citation data of 45 global think tanks by using Webometric Analyst 2.0 .It could prove that the data were reliable while a correlation analysis was considered. Then， we constructed the URL cross-citation network of think tank websites and analyzed the network by using the social network analysis method for exploring the information communication. [Result/conclusion] The results show that three think tanks in China are less connected to other think tanks and the efficiency is low. Finally, the paper offers some proposals of perfecting China's think tanks. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: think tank websiteURL citationsocial network information communication ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "智库主要是指独立、相对稳定且非营利性的国家政策与社会公众事务研究机构，它为国家策略的制定、社会的发展提供了科学有效的建议，是现代国家管理系统的重要组成部分。智库网站是智库建设的重要外在表现形式，它不仅是智库提供各类信息资源服务的主要渠道，也是专家学者进行学术交流的重要阵地。而网站之间并不是孤立的，他们通过超链接、URL引用、标题共现等方式相互联系，构成一个社会网络，从而进行信息的交流。通过对智库网站之间信息交流结构的研究，可以确定网站的亲疏关系，发现隐性信息，从而发现智库网站",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "存在的不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于机构间网络关系的研究，大多使用链接分析的方法。但由于各大商业搜索引擎相继终止了复杂链接检索服务，超链接数据获取困难，很多网络计量学方面的学者开始对URL引用及标题共现等进行了研究。2011年，Thel-wall 等人首先构建了URL引用网络，并对其进行分析，发现URL引用数和机构标题涉及数与链接数有一定的相关性，可以作为链接网络的替代，用于相应的研究[I]。随后国内学者对URL引用进行了理论与实证方面的探讨。在实证方面，常艳丽对iSchool联盟学院URL共现网络进行研究，发现联盟学院的关联性受地域、语言等因素的影响[2]。唐川等人利用社会网络分析法对100 所中国大学网站 URL互引网络进行分析，探究了该网络的主要特征，并对影响网络结构的因素进行了探索[3]。魏志皓等人利用URL和网络标题共现分析法对我国985高校进行了对比研究，探讨了两种方法在不同环境中表征的不同特性[4]。综上所述，目前对于网站URL引用网络的研究，主要集中于高校网站、高校图书馆网站等方面，而对于智库网站的研究还比较少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文将获取全球45个智库网站URL引用数据，并进行相关性分析，验证URL引用数据用于分析智库网站相互关系的可靠性。在此基础上，文章拟构建智库全球45个智库网站间的URL互引网络，运用社会网络分析法对其进行分析，旨在揭示URL互引网络的主要特征，探究45所智库的网络信息交流情况。并对研究结果进行深入的探讨，分析我国智库网站存在的问题，提出针对性建议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法与可靠性分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1研究对象的选择",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以智库网站为研究对象，遵循先进性和代表性的样本选取原则。美国宾夕法尼亚大学智库与公民社会项目组每年都会发布《全球智库报告》，被认为是最具权威性的全球智库发展报告。该智库研究报告根据世界各国智库的发展情况，对其进行综合排名。所以，本文根据《2015年全球智库报告》[5]中公布的2015年全球智库排名前100名的智库中选取了分布在全球不同国家和地区的45所智库网站作为研究样本。样本如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表145所智库的名称、排名、简称、所属国家及URL",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/70b1a7a02120c8ed77e99fa1fd38141adcc2bec4552bd7118c2288891587756b.jpg",
+        "table_caption": [
+            "Table 1 The names ,ranking,abbreviation,countries and URL of 45 think tank: "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>排名</td><td>名称（简称)</td><td>国家（地 区)</td><td>URL</td></tr><tr><td>1</td><td>1</td><td>Brookings Institution （BK)</td><td>美国</td><td>www.brookings.edu</td></tr><tr><td>2</td><td>2</td><td>Chatham House(CH)</td><td>英国</td><td>www.chathamhouse.org</td></tr><tr><td>3</td><td>3</td><td>Carnegie Endowment for International Peace(CEIP)</td><td>美国</td><td>carnegieendowment.org</td></tr><tr><td>4</td><td>5</td><td>Bruegel (Bruegel)</td><td>比利时</td><td>bruegel.org</td></tr><tr><td>5</td><td>7</td><td>International Institute for Strategic Studies (IISS)</td><td>英国</td><td>www.iss.org</td></tr><tr><td>6</td><td>9</td><td>Woodrow Wilson International Center for Scholars (WWICS)</td><td>美国</td><td>www.wilsoncenter.org</td></tr><tr><td>7</td><td>11</td><td>Cato Institute (CI)</td><td>美国</td><td>www.cato.org</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/85f9bc89449d651240bac598f2205a3fe46fb83b1cee8dd58b542f73a2d87c8c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>8</td><td>14</td><td>Transparency International (TI)</td><td>德国</td><td>transparency.org</td></tr><tr><td>9</td><td>16</td><td>French Institute of International</td><td>法国</td><td>www.ifri.org</td></tr><tr><td></td><td></td><td>Relations (IFRI)</td><td></td><td></td></tr><tr><td>10</td><td>18</td><td>German Institute for International and</td><td>德国</td><td>www.s wp-berlin.org</td></tr><tr><td></td><td></td><td>Security Affairs (SWP)</td><td></td><td></td></tr><tr><td>11</td><td>20</td><td>Peterson Institute for International</td><td>美国</td><td>www.iie.com</td></tr><tr><td></td><td></td><td>Economics (PIIE)</td><td></td><td></td></tr><tr><td>12</td><td>22</td><td>Stockholm International Peace Research</td><td>瑞典</td><td>www.sipri.org</td></tr><tr><td></td><td></td><td>Institute (SIPRI)</td><td></td><td></td></tr><tr><td>13</td><td>25</td><td>Konrad Adenauer Foundation(KAS)</td><td>德国</td><td>www.kas.de</td></tr><tr><td>14</td><td>29</td><td>Asian Development Bank Institute</td><td>日本</td><td>www.adb.org</td></tr><tr><td></td><td></td><td>(ADBI)</td><td></td><td></td></tr><tr><td>15</td><td>30</td><td>European Council on Foreign Relations</td><td>英国</td><td>www.ecfr.eu</td></tr><tr><td></td><td></td><td>(ECFR)</td><td></td><td></td></tr><tr><td>16</td><td>33</td><td>Korea Institute for International</td><td>韩国</td><td>www.kiep.go.kr</td></tr><tr><td></td><td></td><td>Economic Policy (KIEP)</td><td></td><td></td></tr><tr><td>17</td><td>35</td><td>China Institute of International Studies</td><td>中国</td><td>www.ciis.org.cn</td></tr><tr><td></td><td></td><td>(CIIS)</td><td></td><td></td></tr><tr><td>18</td><td></td><td>Consejo Argentino para las Relaciones</td><td></td><td></td></tr><tr><td></td><td>36</td><td>Internacionales (CARI)</td><td>阿根廷</td><td>www.cari.org.ar</td></tr><tr><td>19</td><td>39</td><td>China Institutes of Contemporary</td><td>中国</td><td>www.cicir.ac.cn</td></tr><tr><td></td><td></td><td>International Relations (CICIR)</td><td></td><td></td></tr><tr><td>20</td><td>45</td><td>Royal United Services Institute(RUSI)</td><td>英国</td><td>rusi.org</td></tr><tr><td>21</td><td></td><td>Korea Development Institute(KDI)</td><td>韩国</td><td>www.kdi.re.kr</td></tr><tr><td>22</td><td>48</td><td>Al-Ahram Center for Political and</td><td>埃及</td><td> acpss.ahram.org.eg</td></tr><tr><td></td><td>49</td><td>Strategic Studies (ACPSS)</td><td></td><td></td></tr><tr><td>23</td><td></td><td>Institute of Economic Affairs(IEA)</td><td>英国</td><td>www.iea.org.uk</td></tr><tr><td>24</td><td>51 52</td><td>Libertad y Desarrollo (LYD)</td><td>智利</td><td>lyd.org</td></tr><tr><td>25</td><td>54</td><td>Lowy Institute for International Policy</td><td>澳大利亚</td><td>www.lowyinstitute.org</td></tr><tr><td></td><td></td><td>(LIIP)</td><td></td><td></td></tr><tr><td>26</td><td>56</td><td>Norwegian Institute of International</td><td>挪威</td><td>www.nupi.no</td></tr><tr><td>27</td><td></td><td>Affairs(NUPI)</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/38210473ad25e3b4c27a6810e1adbb39fc87a3e36d085b3eadd5678a018c9a3a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Affairs (CIDOB)</td><td></td><td></td></tr><tr><td>28</td><td>61</td><td>Peace Research Institute Oslo(PRIO)</td><td>挪威</td><td>www.prio.org</td></tr><tr><td>29</td><td>63</td><td>African Centre for the Constructive</td><td>南非</td><td>www.accord.org.za</td></tr><tr><td></td><td>65</td><td>Resolution of Disputes (ACCORD) African Economic Research Consortium</td><td>肯尼亚</td><td>aercafrica.org</td></tr><tr><td>30</td><td></td><td>(AERC) Center for Social and Economic</td><td></td><td></td></tr><tr><td>31</td><td>67</td><td>Research (CASE)</td><td>波兰</td><td>www.case-research.eu</td></tr><tr><td>32</td><td>69</td><td>Demos (Demos )</td><td>英国</td><td>www.demos.co.uk</td></tr><tr><td>33</td><td>72</td><td>Shanghai Institutes for International Studies (SIS)</td><td>中国</td><td>www.siis.org.cn</td></tr><tr><td>34</td><td>74</td><td>Turkish Economic and Social Studies Foundation(TESEV)</td><td>土耳其</td><td>tesev.org.tr</td></tr><tr><td>35</td><td>76</td><td>Urban Institute (UI)</td><td>美国</td><td>www.urban.org</td></tr><tr><td>36</td><td>78</td><td>Institute for International Political Studies (ISPI)</td><td>意大利</td><td>www.ispionline.it</td></tr><tr><td>37</td><td>81</td><td>Singapore Institute of International Affairs(SIIA)</td><td>新加坡</td><td>www.siiaonline.org</td></tr><tr><td>38</td><td>82</td><td>South African Institute of International Affairs (SAIIA</td><td>南非</td><td>www.saiia.org.za</td></tr><tr><td></td><td></td><td>）</td><td></td><td></td></tr><tr><td>39</td><td>84</td><td>Fundacion parael Analisis y los Estudios Sociales (FAES)</td><td>西班牙</td><td>www.fundacionfaes.org</td></tr><tr><td>40</td><td>88</td><td>Association for Liberal Thinking (ALT)</td><td>土耳其</td><td>www.liberal.org.tr</td></tr><tr><td>41</td><td>90</td><td>Real Instituto Elcano (RIE)</td><td>西班牙</td><td> www.realinstitutoelcano.org</td></tr><tr><td>42</td><td>92</td><td>Centro de Estudios Publicos (CEP)</td><td>智利</td><td>www.cepchile.cl</td></tr><tr><td>43</td><td>95</td><td>Centro de Divulgacion del Conocimiento</td><td>委内瑞拉</td><td>cedice.org.v</td></tr><tr><td></td><td></td><td>Económico para la Libertad (CEDICE</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>97</td><td>Istituto Affari Internazionali (IAI)</td><td></td><td>www.iai.it</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Libertad)</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>意大利</td><td></td></tr><tr><td>44</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>45</td><td></td><td></td><td>英国</td><td></td></tr><tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2数据的获取及处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A网站对B网站的URL引用频次是指网站B在网站A中URL出现的次数。因为手工检索收集URL互引频次既消耗时间和精力，检索准确性也比较差,所以本文利用WebometricAnalyst 2.0软件收集数据。Webometric Analyst2.0软件是由Thelwall教授开发,基于Bing AIP的一款优秀的URL数据收集工具[6]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于考虑到URL互引频次的大小反映出相应机构网络信息交流情况，因此对收集到的URL互引频次不进行标准化，而直接构成一个 $4 5 ^ { * } 4 5$ 的矩阵，其中第 $\\textbf { \\em x }$ 行第y列数据代表智库网站 $\\mathbf { \\boldsymbol { x } }$ 对智库网站y的引用频次。而且本文只考虑不同网站间的URL互引情况，不考虑网站的自引，因此矩阵对角线上的数据都赋值为0。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3数据可靠性分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "URL 引用是一种新的探究网站关系的方法，其作为链接分析的替代仍处于探索实验阶段，我们必须对其有效性进行论证分析。对于URL引用数据的验证，主要通过两种方法：一是将URL引用的数据和传统链接分析的数据或其他对比参数进行对比；二是通过分析URL引用数据和实际的情况进行主观对比判断[7]。由于现阶段链接数据获取困难，本文将采取第二种方法，且为了使结果更加鲜明，本文将URL互引数据与智库排名进行相关性分析，其中 URL互引数据选取地是其入度的排名。利用 SPSS 软件进行相关性分析的结果如表 2所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f96af0eaf617cb7d005e10f91b45ab02de2b3c818b20b732ae1fe0489222909c.jpg",
+        "table_caption": [
+            "表2 智库排名与入度排名相关性分析",
+            "Table 2Correlation analysis of think tank ranking and in-degree ranking "
+        ],
+        "table_footnote": [
+            "\\*\\*在0.01水平（双侧）上显著相关 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>入度排名</td></tr><tr><td>智库排名 Pearson 相关性</td><td>0.668**</td></tr><tr><td>显著性 (双侧)</td><td>0.000</td></tr><tr><td>N</td><td>45</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出智库排名与入度排名显著相关，且相关性较强，相关系数为0.668。说明获得的智库URL互引数据可以较好地反映45所智库的信息资源及其特征，用于智库网站信息交流的分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3智库网站互引网络的构建与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将智库网站的互引矩阵导入Netdraw中生成智库网站互引网络图，如图1所示。其中，网络中的节点代表45 所智库网站，边代表智库网站之间的URL引用关系，箭头指向被引用者。箭头的指入代表信息的流入，箭头的指出代表信息的流出。因此，智库网站之间的URL互引网络也代表了智库信息的流动交换网络。节点的大小由节点的点度中心性决定，边的粗细由其引用的次数决定。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/228f54b8e01b0be99c9e69a3ae7707c045e420567f05166f8d5d31c579445105.jpg",
+        "img_caption": [
+            "图1智库URL互引网络图",
+            "Figure 1The URL cross-citation network of think tanks "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图1中可以看出BK的节点最大，其次为CH和CEIP，这说明在智库网站进行网络信息交流过程中BK等三所智库网站在互引网络中起着关键的作用，他们沟通了各智库网站，控制着信息交流的方向，在网络中起着桥梁的作用。KAS、TI、ACPSS、RIE、CH的节点略小于BK等三所智库网站，这说明他们对智库网站的信息流动做出了一定的贡献，特别是对网络中局部信息的传递起到了核心的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从边的粗细方面可以看出，粗边多集中在网络核心节点周围。主要集中在以BK、CEPI、ACPSS 为核心，包含KAS、TI、RIE、CH、PIIE、ADBI的群体范围内，这说明在URL互引网络中,这些网站之间的信息交流比较频繁。其中最粗的边出现在ADBI与ACPSS之间，进一步详细探究发现，ACPSS引用ADBI的内容大多涉及亚洲事务，说明ACPSS网站关于亚洲事务的信息大多来自ADBI。而值得注意的是处于网络边缘的AERC、NUPI、ACCORD、SATTA等智库网站与ACPSS之间的边也较粗，说明这些网站都与ACPSS网站交流较多。究其原因，ACPSS、AERC、NUPI、ACCORD、SATTA这些智库网站都来自于非洲，相似的地理环境、政治经济政策、民族文化等使他们之间交流较为频繁。从图中还可以看到属于中国的智库CIIS（中国国际问题研究所）表现较为突出，与其他智库网络联系较为紧密。但智库SIIS（上海国际问题研究所）和CICIR(中国现代国际关系研究院)与其他智库网络联系较少，处于互引网络的边缘位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4互引网络中智库信息交流结构分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了更深入的探索各个智库网站网络信息交流情况及其在网络中的地位，揭示互引网络的隐性特征，本节将运用社会网络分析法对其结构进行分析。因为研究某些社会网络，二值矩阵效果会更好，所以将原始URL互引矩阵进行了处理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1互引网络的信息交流整体效率分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对社会网络整体结构特征的分析，可以揭示网络中信息传播的效率。本节将从网络密度、网络可达性两个方面对其进行分析。网络密度通常用来测量网络中各成员之间联系的紧密程度[8，其值越大，网络成员之间的联系就越紧密，成员之间进行的互动就越多，信息交流就越流畅，效率越高。通过Ucinet计算得到，智库网站的互引二值网络的密度为0.1813。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "梅尤的相关研究指出在实际的网络图中最大的密度值为 $0 . 5 ^ { [ 9 ] }$ 。这说明智库网站之间有一定的联系，但是并不是很密切，网络信息交流较少，效率较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "网络可达性主要揭示了网络的连通情况即网络中节点与其他节点连接的难易程度[10]。它一般可以用节点间的平均距离来表示。高可达性的网络中，节点之间的距离较短，信息传递的效率较高，有利于网络中各成员的信息交流。经过Ucinet软件计算得到智库网站URL互引矩阵的平均距离为2.223，这说明一个智库网站与另一个智库网站交流平均需要经过 3个其他网站。根据任何两个人之间所间隔的人不会超过六个的结论[]，表明智库网站之间的信息传递距离适中，信息可以较准确地传播。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2 互引网络信息交流结构的中心性分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中心性是社会网络研究的重要指标之一。通过对中心性的分析，可以确定节点在网络中的重要性及社会声望与地位，了解网络整体分散与集中的态势。中心性的指标有两种：点的中心度和图的中心势；中心度又分为三种：点度中心度、中间中心度和接近中心度[9]。本节主要探究各智库网站在信息交流中所起到的作用，故主要对互引网络的点度数中心度和中介中心度进行分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2.1 基于点度中心度的信息交流情况分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "点度中心度是指节点在网络中直接相连其他节点的数目和，即该节点的度数。点度中心度高的节点与其他节点的关系密切，具有较大的网络影响力。智库网站构成的URL互引网络为有向网络，其点度中心度又分为点出度中心度和点入度中心度。在URL互引网络中，出度中心度高的智库网站，其引用其他智库网站的频次高，可以吸收网络中的大量信息；入度中心度高的智库，代表其被其他智库网站引用的频次高，与较多信息源建立连接，可以向外传递其所拥有的信息。入度出度都较高的节点为高中介节点，是知识流动的中枢，在广泛接收知识的同时，又广泛发送知识，这样的节点使网络充满了活力，创新性的新知识也容易在这样的节点产生「12]。通过计算，得到45 所智库网站的点度中心度，具体如表3所示。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4752e49214b095a49cb9861ccd58cc62b5d6f6ac2fe8dd58b79b0db601127ad4.jpg",
+        "table_caption": [
+            "表345所智库网站的中心度计算结果",
+            "Table 3 The centrality of 45 think tanks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>智库简称</td><td>入度</td><td>智库简称</td><td>出度</td><td>智库简称</td><td>中介中心度</td></tr><tr><td>BK</td><td>29</td><td>KAS</td><td>23</td><td>BK</td><td>318.934</td></tr><tr><td>CEIP</td><td>23</td><td>ACPSS</td><td>22</td><td>CEIP</td><td>226.201</td></tr><tr><td>TI</td><td>22</td><td>SWP</td><td>21</td><td>IISS</td><td>200.769</td></tr><tr><td>ADBI</td><td>20</td><td>RIE</td><td>21</td><td>KAS</td><td>200.459</td></tr><tr><td>CH</td><td>17</td><td>CEIP</td><td>19</td><td>CH</td><td>128.91</td></tr><tr><td>IISS</td><td>16</td><td>BK</td><td>18</td><td>RUSI</td><td>105.096</td></tr><tr><td>PIIE</td><td>16</td><td>IISS</td><td>15</td><td>CI</td><td>97.66</td></tr><tr><td>Bruegel</td><td>15</td><td>CIIS</td><td>15</td><td>ADBI</td><td>93.298</td></tr><tr><td>CI</td><td>13</td><td>IAI</td><td>15</td><td>SWP</td><td>91.144</td></tr><tr><td>…·</td><td>……</td><td></td><td></td><td></td><td></td></tr><tr><td>CEDICE</td><td>0</td><td>CEDICE</td><td>0</td><td>CEDICE</td><td>0</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表3中可以看出，BK的点入度最大，为31，其次为TI、CEIP等。这表明这些智库的网络信息得到了大部分智库网站地引用，为整个网络的信息源头。而且其中BK、CEIP智库网站的点出度也很大，说明他们是整个网络中的权威网站，控制着网络中信息地流动。通过详细调查发现，这二所智库都属于美国，是全球知名的智库，其历史永久，研究深入，颇具影响力。其研究范围包括世界安全、全球经济、环境能源、亚欧及各大洲事务等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "还可以看出，KAS 的点出度最大，为23，其次是ACPSS、SWP、RIE，他们的点出度都在20以上。说明他们吸收了网络中大量的信息，对网络中信息的流通起到重要的作用。但是这四个智库的网站的点入度都不是很高，说明这几个智库网站不能大量向外传递信息。详细探究发现，这四个智库引用了几乎所有智库的信息，这些信息包含各个大洲的政治、经济、文化等事务。而这四所智库较少被其他智库引用，向外传递信息只限于在本国或拥有相似政治、经济环境的国家范围内。所以对于这些智库，在融合来自其他各种智库信息的同时，要丰富自己网站的内容，吸引其他网站对其信息地引用，从而提升自己的地位。通过计算，得到属于中国的智库CIIS（中国国际问题研究所）的出度为15，入度为2。说明CIIS（中国国际问题研究所）较好吸收了其他网站的信息，但在信息向外传递方面较弱。其网站的信息不能被更多的网站引用、传递，这可能是因为我国智库创新力不够、内容陈旧、语言差异等诸多原因。而CICIR（中国现代国际关系研究院)和SIIS（上海国际问题研究院)这两所智库出度与入度都较小，在网络信息吸收与传播方面表现都较弱。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2.2基于中介中心度的信息交流情况分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "中介中心度刻画的是某节点处于其他节点之间最短路径的能力，一个节点（行动者）的中介中心度越大，该节点就可以控制越多的资源，有更大的人际影响力[13]。通过UCINET计算可以得到各智库网站的中介中心度，具体如表3所示。可以发现，来自欧美国家的 BK、CEIP、IISS、KAS 四所智库网站的中介中心度较高，都在 200 以上，说明它们处于多个智库网站网络信息交流的最短路径上，对网络中的信息资源控制能力较强，在整个网络的信息交流中起到中介的作用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对于属于中国的3所智库，中国国际问题研究院(CIIS)、中国现代国际关系研究院(CICIR)、上海国际问题研究院(SIIS)的中介中心度都较小，说明中国智库网站在URL 互引网络中信息控制能力较弱，影响力较小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3互引网络内小群体交流情况分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在互引网络中，小群体就是指彼此之间相互引用次数较多、知识交流频繁、研究方向具有较多相关性的小团体[4]。通过对互引网络中小群体的分析，可以明晰互引网络的内在结构及各个小群体在互引网络中的角色地位。本节依次对智库网站URL互引网络进行了成分分析、派系分析、派系重叠分析、块模型分析，从而把互引网络分为几个不同的小群体。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3.1成分分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "成分分析是指找出网络中的成分。在有向网络中，可以分为弱成分和强成分。弱成分是指在有向网络中忽略成员关系的方向，强成分则不可以忽略成员关系的方向[13]。本节中将对智库URL互引网络进行强成分分析。分析结果显示45个网络成员分为4个成分。其中，最大的成分有42个节点组成，AERC、ATL、CEDICE三个智库各自为一个成分。CEDICE点入度与点出度都为0，是网络中的孤立点；AERC的点出度为0，ATL的点入度为0都处于网络中的边缘位置。因为成分分析没有发现群体内部结构的详细信息，所以我们将进行派系分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3.2派系分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "派系与成分不同，它要求一个派系所有点都互相邻接，且不被更大的派系所包含[15]。在进行派系分析前，首先要对有向数据进行对称化处理。本节将选择Ucinet 中的\"Symmetrizing Method $$ Minimum\"利用互惠关系对该有向矩阵进行对称化处理。对经过对称化处理的矩阵进行派系分析（最小成员数设定为3），共得到17个派系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.3.3派系重叠分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对派系分析结果地分析，可以发现派系之间有许多重叠。如BK出现在14个派系中，说明智库BK与绝大部分派系有信息交流，在智库网络信息交流中处于主导地位。智库CEIP 出现在10个派系中,说明其与大多数派系成员有密切联系。值得注意的是KIEP、CIIS、",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "KDI、YDI等智库网站不属于任何一个派系，说明他们是网络中的孤立者。经调查发现，这些智库网站大多来自非英语国家，语言的障碍可能是这些智库不归属于任何派系的原因。所以这些非英语国家的智库网站应该重视智库网站英语版本的建设，从而确保交流的通畅。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3.4块模型分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "派系之间重叠可能隐藏了派系的结构[13]。为了进一步的挖掘网络内部结构的信息，故进行块模型分析。块模型分析是一种研究网络位置模型的方法，是对社会角色的表述性代数分析[13]。利用Ucinet中CONCOR 程序对智库URL互引矩阵进行分析，得到分块图、块密度矩阵,分别如图2、表4所示。由图2可看出该智库图书馆URL互引网络可划分为8块。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6eb2dcd9d76b73ad9aedf5951716afefa4bbf5965d1c3a651eab85cc94d35828.jpg",
+        "img_caption": [
+            "图2智库URL互引网络分块图",
+            "Figure 2 The block diagram of think tank URL cross-citation "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1afba864f776de3e8ead84cc11203d52f83288bc37a78ab47e92e45372c323f5.jpg",
+        "table_caption": [
+            "表4智库URL互引网络块密度矩阵",
+            "Table 4 The block density matrix of think tank URL cross-citation "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>1</td><td>0.433</td><td>0.063</td><td>0.109</td><td>0.03</td><td>0.068</td><td>0</td><td>0.023</td><td>0.023</td></tr><tr><td>2</td><td>0.324</td><td>0.125</td><td>0.1</td><td>0.125</td><td>0</td><td>0</td><td>0.125</td><td>0</td></tr><tr><td>3</td><td>0.064</td><td>0.05</td><td>0.1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>4</td><td>0.015</td><td>0.042</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0.167</td></tr><tr><td>5</td><td>0.386</td><td>0.313</td><td>0.5</td><td>0</td><td>0.5</td><td>0</td><td>0.25</td><td>0</td></tr><tr><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>7</td><td>0.114</td><td>0</td><td>0</td><td>0.187</td><td>0</td><td>0</td><td>0.5</td><td>0.5</td></tr><tr><td>8</td><td>0.091</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "该整体网络密度为0.1813，以此值为临界值，将表4中的各个块的密度与其做比较，把块密度矩阵转化为像矩阵。根据像矩阵可以绘制出像矩阵的简化图，如图3所示。在图3中可以看出，45所智库网站组成的8个子群之间联系并不紧密。其中子群1和子群7是信息的源头，前者向子群2、子群5输出信息，后者向子群4、子群5传递信息。其中子群1包含智库最多。综合其包含智库的特点可以看出在块1的智库大多属于欧美地区，且大部分智库研究地域、学术范围都较广，包括全球的经济、民生、卫生、教育等问题。如BK、CH、CI、CEIP等在多个类型的智库排名中都在前20，综合实力较强[5]。子群2可以视为网络中的经济人，它即向外传输信息，又接受外来信息。通过分析，子群2中的智库研究成果多为本国及与本国相关的国际性问题，研究范围相对较小。如KAS主要研究欧盟的各种事务及跨大西洋的发展与合作。这也正符合子群2经纪人的位置定位，它吸收了子群1中的智库信息，通过自己整合，传递给子群5。子群5是一个接受型的子群，接受来自子群1、2、3、7等子群的信息。子群5只包括ACPSS 和 SIIS 两所智库，分别来自同是发展中大国的埃及与中国。正如这两个国家多吸收外界科学信息的实际发展情况，ACPSS 和 SIIS 也基本只吸收外界的各种信息。所以ACPSS 和 SIIS 这两所智库还需要在吸纳其他智库网络信息的同时，注重创新，不断产出新的科研成果，努力促进自己智库的发展，提高国家的软实力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b51411775a90b8c3343858cb75f352ce96912c5754b2e733eb8b6c8aa6ef7553.jpg",
+        "img_caption": [
+            "图3像矩阵简化图",
+            "Figure3The simplified diagramof imagematrix "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过对智库URL互引网络小群体的分析及各个智库网站内容的调实际查，发现URL互引网络中智库的网络信息交流可能还会受智库网站使用语言和智库规模的影响。为了进一步探讨智库URL互引网络中的网络信息交流与语言和智库规模的关系，我们将URL互引网络入度指标和网站的使用语言及智库规模的相关指标进行相关性分析。其中，智库网站的语言指标为等级数据，智库网站语言为英语设为一级，智库网站语言不是英语但是设有英文版页面地为二级，智库网站语言不是英语且没有设有英文版页面地为三级；智库规模将用智库雇员数量来表示。通过对每个智库网站地调查及统计，得到智库网站是否使用英语及雇员数量。在相关性分析之前，还分析了两类数据的统计属性，均呈偏态分布，所以将用 SPSS 对其进行 Spearman 相关系数进行计算。具体分析结果如表5所示。从图中可以看出，智库使用英语等级情况与入度排名显著相关，而智库雇员数量与入度排名相关性并不显著。说明智库网站使用语言是影响智库在网络中信息交流的因素之一，官方语言是英语的智库网络交流较多。而智库的雇员数量则对智库网络信息交流影响不大。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/66f52d92a14ba586417dfd8155295c35484fa9d3af28c9ddadbfae73aca204ce.jpg",
+        "table_caption": [
+            "表5相关性分析结果",
+            "Table 5 The result of correlation analysis "
+        ],
+        "table_footnote": [
+            "\\*\\*在0.01水平（双侧）上显著相关 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>智库雇员数量</td><td>智库语言等级</td></tr><tr><td>入度排名 Spearman 相关性</td><td>-0.261</td><td>0.487**</td></tr><tr><td>显著性 (双侧)</td><td>0.099</td><td>.001</td></tr><tr><td>N</td><td>41</td><td>45</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5结论与启发 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文利用Webometric Analyst 2.0软件收集了全球45所智库的URL互引数据，并对这一新的网络计量数据源做了有效性分析，据此以一个新的视角探究了全球45所智库网络信息的交流情况，较好地解决了在链接数据困乏情况下智库网站相互关系难以分析的问题。并得到以下结论：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1)作为链接数据的替代和补充，URL数据在一定程度上可以用于网络计量分析。本文通过相关性分析，发现URL数据的排名与智库的排名显著相关，说明本文收集的URL数据完全可以作为智库之间网络信息交流的分析数据。(2)智库URL互引网络的密度较低，网络信息交流较少，效率较低。但智库网站之间的信息传递的距离适中，信息可以较准确地传播。(3)智库URL互引网络中充当信息源和经纪人角色的智库网站多来自欧美国家，说明这些智库控制着网络中的资源，是网络中的权威。而来自其他大洲的智库，特别是属于中国的三所智库多大量吸收网络中的信息而几乎不向外输出信息，在URI互引网络中，影响力较小。(4)通过对智库URL互引网络小群体及网站内容的分析，发现URL互引网络中智库的信息交流受语言和智库研究范围的影响，官方语言是英语且研究内容广泛的智库交流较多。但是智库规模对智库网络信息交流的影响不大。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "通过以上结论及对智库网站内容的分析，我们得到以下启示：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "智库网站之间URL的引用可以进行信息的传播，使智库网站进行网络信息、知识的交流。但属于我国的三所智库与其他智库网络交流表现不佳，说明我国这三所智库网站在互联网中的影响力较小。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "我们首先要提升我国智库实力，扩展智库的学术研究内容。经过对位于核心区域影响较大的智库的调查，可以发现这些智库的研究内容较广，不仅涉及到国家政治、军事等宏观的内容,还包含了对民生、医疗等贴合人民生活的微观内容。而中国智库研究内容则较为单一，多为国家政策制定等内容，极少涉及民众生活的细节问题，不能紧贴时代发展。所以在今后的发展中，我国智库应扩大其研究内容，实现多方面、多层次发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "另外，还要加强我国智库网站的建设，丰富其内容，特别是要重视英文版网站的建设，从而保证其与其他网站交流通畅。通过对BK等核心智库网站的调查，可以发现这些网站还将博客、通讯工具等社交工具嵌入网页，方便自己研究成果的传播。在这个社交工具广泛应用的年代，这种方法也是值得学习和借鉴的。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Thelwall M,Sud P. A Comparison of Methods for Collecting Webcitation Data for Academic Organizations[J]. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Journal of the American Society for Information Science and Technology,2012(63):1960-1 972.  \n[2]常艳丽.iSchools 联盟学院URL共引用网络链接分析[J]．情报杂志,2013,32(4):108-112.  \n[3]唐川,刘春江,许婧．中国大学网站URL引用网络结构特征与相关因素研究[J]．情报杂志,  \n2014,33(4):46-51.  \n[4]魏志皓,施国良.URL与网络标题共现数据的特征对比实证研究:以\"985高校\"为例[J]．图书馆学研究，2015(23):80-85.  \n[5]TTCSP.2015 Global Go To Think Tank Index Report[EB/OL].[2016-2-9].  \nhttp://repository.upenn.edu/cgi/viewcontent.cgi?article=1Oo9&context=think_tanks.  \n[6]ThelwallM,Pardeep S.Webometric Research with the Bing-Search API2.O[J]. Journal of Informetrics,2012,6(1):44-52.  \n[7]邓三鸿,王昊．基于 Title Mention 的985高校名称共现及引荐关系分析[J]．情报学报，2014(12):1322-1334.[8]Stanley Wasserman,Katherine Faust. Social Network Analysis: Methods and Application(M).London: cambridge university press,1994.  \n[9]刘军．社会网络分析导论[M]．北京:社会科学文献出版社,2004:114-116.62,114-116.  \n[10]岳增慧,方曙.基于 SNA 的高校图书馆共链网络研究[J].情报资料工作,2012(6):61-65.  \n[11]Stanley Milgram. The small world problem[J]. Psychology Today,1967,(2):60-67.[12]王晓红,张宝生．知识网络结构特性对知识流动作用分析[J].价值工程,2010,29(2):11-13.  \n[13]刘军．整体网分析讲义:UCINET软件实用指南[M]．上海：上海人民出版社,2009:100,125,150-153.[14]张勤,马费成.国内知识管理领域知识交流结构研究：基于核心作者互引网络的分析[J].情报学报，2012,31(9):925-933.  \n[15]郭金龙,许鑫．领域博客的社会网络分析:基于图书情报与互联网络博客的实证[J].图书情报工作网刊,2012(1):1-8.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

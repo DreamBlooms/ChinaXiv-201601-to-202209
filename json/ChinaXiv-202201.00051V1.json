@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "基于微信的远程天文台控制软件设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "和寿圣1²，王传军1²，范玉峰1,²，余晓光²，王德清²，黄永萍1²，王建坤1(1.中国科学院云南天文台，云南 昆明 650216；2.中国科学院天体结构与演化重点实验室，云南 昆明 650216)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：远程天文台具有观测效率高、运行成本低等优点，因此远程观测应用越来越广泛。5G网络技术的发展为利用手机等移动终端实现远程观测提供了可能，物联网和社交网络技术的进步也为其提供了数据传输、数据共享以及人性化操作的新途径。为实现云南天文台14英寸望远镜的远程观测和验证基于物联网和社交网络的远程天文台技术，自行设计研发了一套远程天文台控制软件，以微信聊天模式收发控制命令，以微信图片格式传输观测图像，以微信群组方式控制用户权限，实现了手机等移动终端基于微信的远程观测功能，为远程天文台控制软件设计及社交网络在天文观测中的应用提供了可借鉴的经验和方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：远程天文台；远程观测；社交网络；微信中图分类号：TP311.1;P112 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "远程天文台(Remote Observatory,RO)是互联网和自动化技术高度发展的产物，具有观测效率高、运行成本低等优点。远程观测已成为天文观测的主流趋势，在天文研究、天文选址、科普教育等领域发挥了越来越重要的作用[-3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来5G网络技术的发展极大提高了移动网络质量，使基于手机等移动终端的远程观测成为可能。昆明理工大学云南省计算机技术应用重点实验室采用 HTTP 协议与微信小程序进行 JSON 数据交互，实现了RTS2自主控制系统进行监测和控制4；业余天文界也常用向日葵等远程桌面软件进行远程观测。受屏幕尺寸等因素限制常规电脑远程观测模式在移动设备上使用极不方便，观测数据实时传输及共享等方面也有一定的局限性。而物联网(Internet ofThings,IOT)[5和社交网络（Social Networks,SN）[技术的发展则为其提供了全新的机遇：借助这些技术进一步完善和提高远程观测的数据传输、数据共享以及人性化操作等功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为实现云南天文台14英寸望远镜的远程观测，同时验证基于物联网和社交网络的远程天文台技术，设计了一套基于微信的远程天文台控制软件，本文主要介绍其设计方法和实测结果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1系统结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "系统结构如图1所示，远程天文台服务器（Remote Observatory Server）为系统核心，与圆顶或平移顶（Dome/Roof）、望远镜（Telescope）、照相机（Camera）、滤光片（Filter）、调焦器（Focuser）、消旋器（Rotator）和台址监测系统（Observation conditions）等天文仪器设备共同组成远程天文台基本硬件系统。所述远程天文台控制软件部署于远程观测服务器，一方面负责控制天文仪器设备以实现观测功能；另一方面负责与观测终端交互以实现远程服务。微信服务器（WeChatServer）为腾讯官方服务器，手机/平板/电脑（Mobile/Pad/PC）等观测终端与远程观测服务器之间通过微信客户端（或微信APP）通信。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以微信为载体的远程控制通常采用公众号和小程序两种方案[7-8]，公众号具有物联网专用方案即微信硬件平台，具备更多高级设备功能。公证号和小程序均有如下特点：首先，基于超时通信机制，由微信客户端主动访问远程服务器实现，实时性方面有所欠缺，如照相机曝光等较为耗时的操作需要采用Ajax轮询或者WebSocket等技术；其次，远程服务器对网络要求较高，通常需要固定网址（公网IP）或者通过独立服务器中转。针对上述特点，本文采用微信聊天模式开发远程天文台控制软件，相对于公众号和小程序，该模式支持双向通信，实时性较好，网络门槛较低。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/89ad78cc587509184befe2b27c91be51f5d24f32b63c836544478f296de37bc9.jpg",
+        "img_caption": [
+            "图1系统结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 软件设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件系统在Windows10操作系统下，采用C#编程语言面向对象编程开发。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1软件结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "软件开发按四层结构展开，如图2所示，从下往上分别为设备驱动层、基本控制层、高级控制层和界面层，按层编写类如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4495eea89567920c60b5f13474b17a323c060e9fbc04f2df475490dddb867cc6.jpg",
+        "img_caption": [
+            "Fig.1 System schematic ",
+            "图2软件层次"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设备驱动层是天文仪器设备的驱动控制基础，由Dome、Telescope、Camera、Filter、Focuser、Rotator和ObsCondition等设备类构成，分别提供圆顶（或平移顶）、望远镜、照相机、滤光片、调焦器、消旋器和台址监测系统等仪器设备的基本操作函数。设备驱动层支持ASCOM协议[9-10]，同时支持基于串口和网络的自定义协议。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基本控制层是观测控制系统的基本功能实现，0CS类直接调用设备驱动层的设备类基本函数，结合设备操作逻辑关系实现特定观测功能。如圆顶天窗开关操作必须考虑台址观测条件，圆顶随动依赖望远镜指向跟踪参数，照相机操作与圆顶、望远镜、滤光片和调焦器状态之间的相互关系等。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a38a70109c9bef2b453187c4515209bd3a0e37d12e90b982d3e3ce335de1b59f.jpg",
+        "table_caption": [
+            "表1类Table 1 Class"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Class</td><td>Description</td></tr><tr><td>Dome</td><td>Dome (Roof） control class</td></tr><tr><td>Telescope</td><td>Telescope control class</td></tr><tr><td>Camera</td><td>Camera control class</td></tr><tr><td>Filter</td><td>Filter wheel control class</td></tr><tr><td>Focuser</td><td>Focuser control class</td></tr><tr><td>Rotator</td><td>Rotator control class</td></tr><tr><td>ObsCondition</td><td>Observing conditions class</td></tr><tr><td>0CS</td><td>Observatory control system class</td></tr><tr><td>L0</td><td>Local observation class</td></tr><tr><td>WeChat</td><td>WeChat Remote observation class</td></tr><tr><td>A0</td><td>Autonomous observation class</td></tr><tr><td>MainForm</td><td>MainForm interface class</td></tr><tr><td>Fits</td><td>Fits image file class</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "高级控制层是观测控制系统的高级功能实现，结合本地观测需求、远程控制接口和自主观测算法等实现本地观测（LO）、远程观测（RO）和自主观测（AO），WeChat类是基于微信的远程观测实现类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "界面层是软件系统的顶层框架，包括MainForm等多个窗口界面类，主要用于系统设置和观测控制等高级操作。除此之外，软件系统包含观测图像的生成、存储和显示的Fits图像类等其它各种功能类。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2远程接口",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "远程观测功能以微信电脑版为载体进行开发，以微信聊天模式收发控制命令，以微信图片格式传输观测图像，以微信群组方式控制用户权限。微信控制接口采用第三方开源代码wechat-bot（https://github.com/cixingguangming55555/wechat-bot）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工作流程如图3所示，首先根据台址监测系统数据判断观测条件；具备观测条件则轮询读取微信消息；然后判断消息发送者是否为授权用户（即是否具备控制权限）；若用户具备控制权限，则处理命令并进行相应观测控制操作如目标指向（goto）、相机曝光（expose）及各种设备控制（dome、focuser等）；如为相机曝光命令完成操作后主动发送观测图片给相应的微信用户。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "远程控制基本命令如表2所示，最简单的远程观测步骤如下：首先用dome open命令打开圆顶天窗（或平移顶），dome track命令设置圆顶随动；然后以goto命令驱动望远镜指向目标；望远镜处于跟踪状态后以expose命令（包含filter参数）曝光操作获取观测图像；如需调焦则用focuser命令；观测结束用domeclose关闭圆顶，park望远镜。如需查看当前观测条件，以stateobsc命令获取台址信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用户权限控制是远程观测的安全保障，本系统采用微信群组分组控制实现了基本用户权限控制，将待观测用户或者群组加入控制用户列表，系统会自动过滤非控制用户列表的用户信息。高级权限控制功能可结合观测时间、操作功能（如观测控制、数据操作等）和用户群组等因素进行精准分配控制用户权限，本文不再讨论。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae41e1b45407de0c2898a2f4a96f90039a8227eacef188686aa6ed32406da9e1.jpg",
+        "img_caption": [
+            "图3远程观测流程图"
+        ],
+        "img_footnote": [
+            "Fig.3 Flow chart of remote observation "
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2 基本命令",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/defed8c5cc2335eab64e10876bc7a39d6f171341d4c7ad1f6b985b8b79e3fc9f.jpg",
+        "table_caption": [
+            "Table 1 Basic Command "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Command</td><td>Description</td></tr><tr><td>dome o</td><td>Dome operation:o-open/close/track/stop/park</td></tr><tr><td>goto ra dec</td><td>Goto target:ra-RightAscension,dec-Declination</td></tr><tr><td>park</td><td>Park telescope</td></tr><tr><td>exposeF[t][f]</td><td>Expose:F-light/dark/bias/flat/abort,t-expose time,f-filter wheel name</td></tr><tr><td>filter f</td><td>Set Filter wheel:f-filter name/number</td></tr><tr><td>focuser n</td><td>Set Focuser steps:n-focuser steps</td></tr><tr><td>rotatorn</td><td>Set Rotator angle:n-rotator angle</td></tr><tr><td>state d</td><td>Get device state:d-tele/came/filt/focu/rota/obsc</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3实测情况 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在云南天文台14英寸RC望远镜上，选择NGC6530为观测目标，B波段曝光600 秒进行了测试。如图4为远程观测服务器本地观测界面，其上方为远程天文台控制软件主界面，左下方电脑版微信客户端远程观测界面，右下方为远程天文台控制软件控制界面；如图5为基于手机微信APP 的远程观测界面。系统运行时先用远程天文台管理员微信账号登录电脑版微信客户端，远程天文台控制软件连接微信客户端并选择相应用户或者群组分配控制权限后自动进入远程观测模式。本文以群组观测方式为例，观测员以命令行方式进行远程观测操作，管理员负责命令处理及设备控制，观测完成后自动发送观测图像至观测群。实测结果表明该远程天文台控制软件工作正常，满足软件设计基本要求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0999284bce1132204e4fa020496fb740188e4baa916f85aa8a942b2d5833f4d0.jpg",
+        "img_caption": [
+            "Observatory Control Software ",
+            "图4本地观测界面",
+            "Fig.4 Interface of local observation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b749d71f97a1f93ad8eb152a6e7a20b50da0005212af85a976af761677284ab4.jpg",
+        "img_caption": [
+            "图5远程观测界面",
+            "Fig.5 Interface of of remote observation "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "相比较于微信公众号和小程序模式，采用微信聊天模式实现远程控制有如下优势：1、实时性较好，易于实现，无需采用Ajax、WebSocket等技术；2、网络门槛较低，无需公网IP,微信聊天能进行便可开展远程控制；3、数据传输共享更方便，以微信聊天模式传输观测图像，方便观测人员间数据共享；4、远程观测同时在观测群进行正常语音文字沟通交流，可及时评估和调整观测方案等。但该模式同时也存在如下不足：1、以命令行模式操作，不带图形操作界面，必须熟悉操作命令，用户门槛相对较高；2、由于电脑版微信客户端采用扫码登录机制，远程观测服务器开机或者重启时需要借助远程桌面软件或者专门编写代码发送二维码至远程终端才能实现远程登录。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体来说，本文设计研发了一套基于微信的远程天文台控制软件，并在云南天文台14英寸RC望远镜上进行了相关测试，达到了基于物联网和社交网络的远程天文台技术验证目的，为远程天文台控制软件设计及社交网络在天文观测中的应用提供了可借鉴的经验和方法。然而远程天文台控制软件是复杂的系统软件工程，本设计仅实现了部分基本功能和方法，在下一步工作中，仍需不断完善和改进。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］王川中，苏丽颖，韩军，等．远程天文台电源集成控制与监控模块的设计与实现[]．天文研究与技术,2020,17(1):104-110.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wang Chuanzhong, Su Liying, Han Jun, et al. Design and Realization of Remote Observatory Power Integrated Control and Monitoring Module [J] .Astronomical Research & Technology,2020, 17(1): 104-110. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2］卫守林，曹子皇，王锋，等．基于WebSocket的RTS2Web控制研究].天文研究与技术,2014,11(04):404-409.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wei Shoulin, Cao Zihuang, Wang Feng, et al. A Study of Web Control of an RTS2 System Based on the WebSocket [J] .Astronomical Research & Technology,2014,11(4): 404-409. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3]冉凡辉，邓辉，梁波，等．基于XML-RPC的RTS2自主观测系统远程访问技术[].天文研究与技术,2013,10(04):372-377.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ran Fanhui, Deng Hui, Liang Bo, et al. A Study of Remote Access Techniques for An RTS2 Autonomous Observation Software System Based on the XML-RPC [J] .Astronomical Research & Technology, 2013,10(4): 372-377. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]梁波，田智雁，王锋，等．一种基于微信小程序在RTS2的控制框架扩展Ⅲ]天文研究与技术,2018,15(2):202-207.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Liang Bo, Tian Zhiyan, Wang Feng, et al. A Control Framework for RTS2 Based on the WeChat Micro-program [J] .Astronomical Research & Technology, 2018,15(2): 202-207. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[5］林轶琦，李磊，江鉴，等．物联网技术在深圳西涌天文-气象综合探测基地管理中的应用[].科技创新导报,2015,12(25):8-11.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Lin Yiqi，Li Lei， Jiang Yin, et al. The Application of the Internet of Thing Techniques on the Management of the Shenzhen Xichong Astronomy and Meteorology Comprehensive Exploration Base [J] .Science and Technology Innovation Herald, 2015, 12(25):8-11. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[6]Zhang, Jiajin & Chen,Lichang & Cai, Xiaobo & Gao, Quan. (2O15). iGreenhouse: A Case Study for Connecting Physical Devices into Mobile Social Networks. International Journal of Smart Home. 9. 163-172.10.14257/ijsh.2015.9.6.18. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[7］肖奇军，伍世豪，郑杰东，等．基于微信公众号的智能家居系统[].机电工程技术,2020,49(11):58-60.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Xiao Qijun, Wu Shihao, Zhen Jiedong, et al. Smart Home System Based on Public Account of Wechat [J] .Mechanical & Electrical Engineering Technology,2020, 49(11):58-60. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]冯拔，李熙，唐剑，等．基于微信小程序的纯电动客车远程控制平台的设计与实现[].新型工业化,2020,10(04):98-103.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Feng Ba, Li Xi, Tang Jian, et al. Design and Implementation of Remote Control Platform for Pure Electric Bus Based on WeChat Program [J] .The Journal of New Industrialization,2020,10(4):98-103. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9］张冠军，宋腾飞，程向明，等．基于ASCOM及PLC的随动天文圆顶控制",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "J].天文研究与技术,2020,17(04):548-554.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhang Guanjun, Song Tengfei, Cheng Xiangming, et al. Automatic Control of Astronomical Dome Based on ASCOM and PLC [J] .Astronomical Research & Technology, 2020, 17(4): 548-554. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[10］彭亚杰，季凯帆，梁波，等．ASCOM在选址望远镜远程控制中的可用性研究[J].天文研究与技术,2013,10(01):49-54.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Peng Yajie,Ji Kaifan, Liang Bo, et al. The Usability of the ASCOM in Remote Control of a Site-Survey Telescope [J] .Astronomical Research & Technology, 2013, 10(1):49-54. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Design of Remote Observatory Control Software ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "based on WeChat ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "He Shousheng1.2, Wang Chuanjun1,Fan Yufeng12,Yu Xiaoguang1²,Wang Deqing12, Huang Yongping1², Wang Jiankun' ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1．YunnanObservatories，Chinese Academyof Sciences，Kunming 650216，China，Email:heshousheng@ ynao.ac.cn; 2．Key Laboratory for the Structure and Evolutionof Celestial Objects，Chinese Academyof Sciences，Kunming 650216，China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Remote observatory has the advantages of high observation efficiency and low operation cost.Therefore，Remote observation has become more and more popular.The development of $5 \\mathrm { g }$ network technology makes it possible to realize remote observation by using mobile terminals such as mobile phones,and the progress of Internet of things and social network technology also provides it with new ways of data transmission, data sharing and humanized operation.In order to realize the remote observation of the 14 inch telescope of Yunnan Observatory and verify the remote Observatory technology based on the Internet of things and social network,a remote Observatory Control software is designed and developed.By sending and receiving control commands in WeChat chat mode, transmiting observation images in WeChat picture format, and controlling user permissions in WeChat group mode,the remote observation function of mobile terminals such as mobile phones based on WeChat is realized.It provides experience and methods for the design of remote Observatory Control Software and the application of social network in astronomical observation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:Remote observatory; Remote observation; Social network; WeChat ",
+        "page_idx": 7
+    }
+]

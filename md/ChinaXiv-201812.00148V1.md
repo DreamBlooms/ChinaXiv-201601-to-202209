@@ -1,0 +1,214 @@
+# 家蝇抗菌肽AMPs17蛋白原核表达条件的优化及其抗真菌活性检测
+
+杨隆兵，国果\*，马慧玲，李妍，赵欣宇，苏佩佩，张勇(1.贵州医科大学 基础医学院，贵阳 550025；2.贵州医科大学 环境污染与疾病监控教育部重点实验室，贵阳 550025)
+
+摘要目的：优化AMPs17重组蛋白的原核表达条件，分析重组蛋白的抗真菌活性。方法：比较不同的诱导温度 $( 2 5 ^ { \circ } \mathrm { C } , 2 8 ^ { \circ } \mathrm { C } , 3 0 ^ { \circ } \mathrm { C } , 3 2 ^ { \circ } \mathrm { C } , 3 4 ^ { \circ } \mathrm { C } )$ 、异丙基硫代-β-D半乳糖苷(IPTG)诱导浓度（0.025、0.05、0.1、0.3、0.5、0.8、 $1 . 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ）和诱导时间（12h、15h、18h、21h、24h）对 $\mathrm { A M P s 1 7 }$ 重组蛋白表达量的影响，筛选 AMPs17重组蛋白的最佳表达条件；采用镍离子金属螯合剂亲和层析柱对重组蛋白进行纯化，SDS-PAGE电泳和ImageJ图像分析系统对表达结果进行分析，Western bolt对 AMPs17重组蛋白鉴定，高效液相色谱分析重组蛋白的纯度，微量液体稀释法及菌落计数法检测其抗真菌活性。结果：在诱导温度为 $3 2 ^ { \circ } \mathrm { C }$ 、IPTG浓度为 $0 . 0 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 的条件下诱导培养15h，AMPs17重组蛋白的表达量最高且最为稳定；HPLC色谱仪分析显示AMPs17重组蛋白纯度可达到 $90 \%$ 以上；优化后的AMPs17重组蛋白能有效抑制白色念珠菌的生长。结论：本研究优化了家蝇抗菌肽 AMPs17的诱导表达条件，获得了高表达、稳定且具有抗真菌活性的蛋白，为后续抗菌机制及应用研究提供一定的实验基础。
+
+关键词：家蝇；AMPs17；原核表达；条件优化；抗真菌活性
+
+# Optimization of Prokaryotic Expression Conditions and Antifungal Activity Detection of Antibacterial Peptide AMPs17 Protein in Musca domestica
+
+YANG Long-bing, GUO Guo\*, MA Hui-ling, LI Yan, ZHAO Xin-yu, SU Pei-pei, ZHANG Yon
+
+(1. Basic Medical Sciences of Guizhou Medical University,Guiyang55o025 China; 2. Key Laboratory of Environmental Pollution Monitoringand Disease Control,Ministry ofEducation，Guizhou Medical University,Guiyang550025 China)
+
+Abstract：Objective:To optimize the prokaryotic expression conditions of AMPs17 recombinant protein and analyze the antifungal activity of recombinant protein. Method: Compare different induction temperatures $2 5 ^ { \circ } \mathrm { C }$ $2 8 ^ { \circ } \mathrm { C }$ $3 0 ^ { \circ } \mathrm { C }$ $3 2 ^ { \circ } \mathrm { C }$ $3 4 ^ { \circ } \mathrm { C }$ ),isopropylthio $\cdot \beta$ -D galactoside (IPTG) induced concentration (0.025, 0.05,0.1, 0.3, 0.5,0.8,1.0 mmol·L-1)and induction time (12h,15h,18h,21h,24h)on the expressionofAMPs17recombinant protein,screening the optimal expresson conditions of AMPs17 recombinant protein.The recombinant protein was purified by nickel ion metal chelator affinity chromatography column,and the expression results were analyzed by SDS-PAGE electrophoresis and ImageJ image analysis system.The recombinant protein of AMPs17 was identified by Western blot and the purityofthe recombinant protein was analyzed by high performance liquid chromatography（HPLC）.The antifungal activity was detected by a micro liquid dilution method and a colony counting method.Results:The results showed that the expression of AMPs17 recombinant protein was the highest and the most stable when induced at $3 2 ^ { \circ } \mathrm { C }$ and IPTG concentration of $0 . 0 5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ for 15h.The HPLC analysis showed that the purity of AMPs17 recombinant protein reached $90 \%$ .In addition,AMPs17 recombinant protein can effectively inhibit the growth of Candida albicans. Conclusion: The induction and expresion conditions of antibacterial peptide AMPs17 were optimized,and proteins with high expression,stabilityand antifungal activity were obtained，which provided certain experimental basis for the folow-up antibacterial mechanism and application research.
+
+Key Words: Musca domestica; AMPs17; prokaryotic expresson; condition optimization; antifungal activity$^ *$ 国家自然科学基金项目（No.81760647；No.81560337)\*\*通讯作者，电子邮箱：guoguojsc@163.com
+
+# 引言
+
+近年来，随着抗生素的广泛滥用，使得许多微生物出现了多重耐药的现象，如病毒、细菌及真菌耐药性等[1-2]。在临床上，因个体免疫受损而感染致病性真菌的病人在逐年增加，其中以白色念珠菌感染最为严重[3]。念珠菌分离株的出现和抵抗现有治疗并导致严重疾病的侵袭性霉菌感染的持续存在突显了耐药性真菌感染的威胁，然而对于治疗及控制致病性真菌感染的药物研发和临床使用效果却不尽如人意[4]。因此，寻求新型高效的抗真菌药物已成为当前科研人员研究解决的重点问题。
+
+抗菌肽（Antimicrobial Peptides，Amps）是一类由生物体免疫防御系统产生的小分子多肽，在无脊椎动物和脊椎动物的先天免疫系统中普遍存在[5-6]。抗菌肽不仅具有抗菌谱广，热稳定性好且不易产生耐药性等特点，而且还对病毒、肿瘤及癌细胞等具有很好的杀灭活性[7-10]。抗菌肽作为新的抗生素药物的潜力是目前研究的热点。近年来，全球从天然途径或通过人工改造合成已发现的抗菌肽超过 2200 条，约有 200 种肽作为抗菌或免疫调节剂正处于临床实验中。抗菌肽人乳铁蛋白（human lactoferrin1）毒性低，静脉注射时无不良反应[13],从链霉素发酵液中提取得到的环脂肽类达托霉素（daptomycin），能破坏细菌细胞膜，迅速杀死革兰氏阳性菌[14]，还有一些抗菌肽用作食品添加剂或兽药使用[15-16]。当前抗菌肽在实验和临床治疗中取得的良好效果，充分说明天然抗菌肽已经是研究和开发新型抗菌药物的一个有效途径。
+
+家蝇是一种重要杂食性的病媒昆虫，生境中微生物种群极为复杂，能携带和传播超过100 种人类和动物病原体，但直至目前，鲜见家蝇因自身感染病原体而导致死亡现象发生，这要归功于其强大的先天性免疫系统[17-18]。研究显示，家蝇能够产生以attacin、cecropin、defensin、diptericin等为代表的抗菌肽分子抵御病原体的入侵。近年来围绕家蝇抗菌肽相关功能研究的工作不断深入开展，除了上述传统抗菌肽分子外，越来越多的全新类别的抗菌肽分子不断的被发现，它们具有的高效抑菌功能给研究人员带来了更大的惊喜。
+
+AMPs17是课题组前期从微生物感染12h后构建的家蝇转录组数据库挖掘到的特异性高表达基因，其在Genebank上尚未有功能注释，是一未知功能基因。为进一步了解该基因编码的蛋白有无抗菌功能,我们分别用APD(Antimicrobial peptide Database)和CAMP(Collection ofAnti-Microbial peptides）抗菌肽数据库中的 prediction工具预测其是否具有抗菌活性或有无可能成为抗菌肽。令人兴奋的是，两个数据库分别用4种不同算法（SVM、RF、ANN、DA）对该蛋白序列进行预测，得分值分别为1、0.944、1、1，均判定该蛋白为抗菌肽。因其分子量为17KD左右，故我们将该基因编码蛋白暂时命名为家蝇抗菌肽-17（Muscadomesticaantibacterial pepitides-17），简称AMPs17。为了进一步探讨AMPs17的功能，课题组前期克隆了其cDNA全长并分析了表达特性[19]。本研究中，我们构建了pET-28a（+）-AMPs17重组质粒，转入大肠杆菌BL21（DE3）中诱导表达，对其影响诱导表达的因素进行优化，获得AMPs17蛋白的最佳表达条件；利用Westerm bolt对AMPs17重组蛋白鉴定，同时采用微量液体稀释法及菌落计数法检测其抗真菌活性.本研究结果为后续AMPs17的抗菌机制及应用研究奠定了实验基础。
+
+# 1材料与方法
+
+# 1.1 材料
+
+# 1.1.1质粒及供试菌
+
+宿主菌 Escherichia coli BL21（DE3）、Transetta（DE3）Chemically Competent Cell 表达感受态细胞均购买于北京全式金生物技术有限公司，pET-28a（+）载体、白色念珠菌ATCC10231均由贵州医科大学现代病原生物学重点特色实验室常规保存，E.coli［pET-28a（+）-AMPs17」是转化了pET-28a（+）-AMPs17的大肠杆菌。
+
+1.1.2 主要试剂
+
+BamHI 和 XhoI限制性内切酶、Ex Taq 酶、DNA marker DL2000、质粒 DNA 提取试剂盒、T4DNAligase、DNA凝胶回收试剂盒、彩色预染蛋白质分子量标准marker（均购自大连宝生物TaKaRa 公司）；溴化乙啶（EB）溶液、异丙基硫代半乳糖苷（IPTG）、抗His单克隆鼠抗体、羊抗鼠 IgG-HRP、羊抗兔 IgG-HRP（均购自索莱宝公司）；T4DNA ligase 、His Band Purification Kit 试剂盒（Novagen 公司）；乙腈、甲醇、乙醇均购买于 Sigma 公司；其他试剂均为国产分析纯。
+
+# 1.2 方法
+
+1.2.1 pET-28a $( + )$ ）-AMPs17重组质粒的构建及鉴定利用BamHI和XhoI限制性内切酶将目的基因AMPs17的PCR扩增产物与pET-28a$( + )$ ）载体质粒进行双酶切， $3 7 ^ { \circ } \mathrm { C }$ 酶切5h，将纯化后的PCR产物与表达载体pET-28a $( + )$ 连接， $1 6 ^ { \circ } \mathrm { C }$ 连接 $^ { 1 8 \mathrm { h } }$ ，取 ${ 5 } \mu \mu$ 连接产物转入到大肠埃希菌Transetta（DE3）表达感受态细胞中，利用含有卡那霉素的LB平板筛选阳性单克隆并进行菌液 PCR 鉴定和测序验证。
+
+1.2.2E.coli［pET-28a（+）-AMPs17]表达条件的优化
+
+将鉴定正确的重组质粒pET-28a $( + )$ ）-AMPs17转化到大肠杆菌BL21（DE3）中，构建重组菌株BL21／pET-28a（ $\cdot + \rangle$ -AMPs17。挑取鉴定过的阳性克隆菌接种于含有卡那霉素的LB 液体培养基中复苏过夜，次日按1:100体积比转种于含卡那霉素的LB 培养基中， $3 7 ^ { \circ } \mathrm { C }$ 、$2 2 0 \mathrm { r p m }$ 条件下培养至 $\mathrm { O D 6 0 0 { = } 0 . 6 { \sim } 0 . 8 }$ ，取 $0 . 5 \mathrm { m l }$ 菌液作为对照，使用以下不同的诱导条件进行优化表达后，对表达产物进行 $12 \%$ SDS-PAGE电泳鉴定，并运用ImageJ图像分析系统对AMPs17蛋白的表达量进行检测分析。即在IPTG终浓度为 $0 . 0 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，诱导温度分别为 $2 5 ^ { \circ } C \cdot 2 8 ^ { \circ } C \cdot 3 0 ^ { \circ } C \cdot 3 2 ^ { \circ } C \cdot 3 4 ^ { \circ } C$ 条件下诱导培养24h后取样;在IPTG终浓度为 $0 . 0 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 诱导温度为 $3 2 ^ { \circ } \mathrm { C }$ 条件下分别诱导 $^ { 1 2 \mathrm { h } }$ 、15h、18h、21h、24h 后取样；在IPTG 终浓度分别为0.025mmol·L-1、0.05 mmol-L-1、0.1 mmol·L-1、0.3 mmol·L-1、0.5 mmol·L-1、0.8 mmol·L-1、$1 . 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ， $3 2 ^ { \circ } \mathrm { C }$ 诱导培养15h后取样。（注（问题说明）： $3 7 ^ { \circ } \mathrm { C }$ 虽然是大肠杆菌的最适生长温度，但在前期的预试验中，我们发现其表达量很低，且经过查阅文献发现 $2 5 { \sim } 3 7 ^ { \circ } \mathrm { C }$ 诱导，外源蛋白易以活性存在，在 $3 7 ^ { \circ } \mathrm { C }$ 或 $3 7 ^ { \circ } \mathrm { C }$ 以上温度诱导表达，其表达含量并不高，且已形成包涵体。因此，综合考虑我们最终选择 $2 5 \mathrm { { ^ \circ C } }$ 、 $2 8 ^ { \circ } \mathrm { C }$ 、 $3 0 ^ { \circ } \mathrm { C }$ 、 $3 2 ^ { \circ } \mathrm { C }$ 、 $3 4 ^ { \circ } \mathrm { C }$ 。）
+
+1.2.3AMPs17重组蛋白诱导菌液的裂解及可溶性分析
+
+按上述优化后的表达条件于 $2 5 0 \mathrm { m l }$ 的锥形瓶中扩增培养，诱导目的蛋白表达，收集菌液，去上清，留沉淀， $- 8 0 ^ { \circ } \mathrm { C }$ 保存。
+
+将收集的菌液重悬于裂解液中（每克湿菌加入5ml裂解液），经 ${ } . 8 0 \mathrm { { ^ { \circ } C } }$ 反复冻融3次后进行超声破碎（ $1 0 0 \mathrm { W }$ ，超声 $5 \mathrm { ~ s ~ }$ ，停止 $5 \mathrm { ~ s ~ }$ ，循环99次），于 $4 ^ { \circ } \mathrm { C }$ 、 $1 2 0 0 0 \mathrm { r p m }$ 、离心 $2 0 \mathrm { m i n }$ 分装上清和沉淀备用。将经处理的上清和沉淀进行 $12 \%$ SDS-PAGE电泳鉴定，以确定AMPs17重组蛋白是上清表达或包涵体表达。
+
+# 1.2.4包涵体的溶解
+
+将超声破碎的沉淀菌体重悬于8M尿素缓冲液中进行溶解，待其完全溶解后离心，弃沉淀留上清，将上清转移至透析袋中，于 $2 0 0 \mathrm { m l } 6 \mathrm { M }$ 尿素的烧杯中透析6h后，加入 $4 0 \mathrm { m l }$ 裂解液，继续透析6h，此时浓度从6M降至5M。再次加入裂解液将透析外液中的尿素浓度由 5M递减至4M、3M、2M时透析时间更改为12h，直至递减至1M、0M。最后，收集透析袋中的液体，利用 $0 . 4 5 \mu \mathrm { m }$ 滤器过滤后收集其液体备用。
+
+# 1.2.5AMPs17重组蛋白的纯化
+
+根据 His:Tag 的Ni-IDA Agarose 蛋白纯化说明书进行纯化,将纯化收集的AMPs17 蛋白用超滤管超滤脱去咪唑后进行 $12 \%$ SDS-PAGE鉴定。1.2.6AMPs17重组蛋白的Westernbolt鉴定（此部分为添加的内容）
+
+用小鼠来源的抗His单克隆抗体为一抗（1：1000），羊抗小鼠IgG-HRP（1：2000）为二抗，对纯化的AMPs17重组蛋白进行Western blot鉴定。
+
+1.2.7AMPs17重组蛋白的质谱鉴定（此部分为添加的内容）
+
+将 AMPs17重组蛋白进行12%SDS-PAGE 鉴定后，用考马斯亮蓝染色液和脱色液分别对其进行染色和脱色，切除目的蛋白条带置于 $1 . 5 \mathrm { m l }$ EPP 管中，送往上海生工进行质谱测序。
+
+1.2.8AMPs17重组蛋白的纯度检测
+
+利用 Agilent1260LC 型高效液相色谱仪检测AMPs17蛋白的纯度，色谱柱为C18反向柱（ $4 . 6 \mathrm { m m } \times 2 5 0 \mathrm { m m }$ ），流动相A为 $0 . 1 \% \mathrm { T F A }$ 的超纯水，流动相B为 $0 . 1 \% \mathrm { T F A }$ 的乙腈溶液，进样量为 $1 0 \mu \mathrm { l }$ ，柱温为 $2 5 \mathrm { { ^ circ C } }$ ，采用线性梯度法进行洗脱，梯度洗脱时VA： $\mathrm { V B = 7 0 : 3 0 , \ 3 0 m i n }$ 后VA: $\mathrm { V B } { = } 5 { : } 9 5$ ，流速为 $1 \mathrm { m L } / \mathrm { m i n }$ ，紫外检测波长为 $2 1 4 \mathrm { n m }$ 。
+
+1.2.9AMPs17重组蛋白对白色念珠菌MIC/MBC的测定
+
+参照美国临床实验室标准化委员会（CLSI）所采用微量液体稀释法及菌落计数法的评判标准作为本实验评判标准。将白色念珠菌 ATCC10231(C.albicans ATCC10231)在沙氏固体培养基（SDA）上接种2-3次后培养至对数生长期，挑选3-5个直径大于 $1 \mathrm { m m }$ 的菌落放置于NS 溶液中，利用细胞计数池将细胞浓度调至 $1 . 0 { \times } 1 0 ^ { 6 } \mathrm { c f u / m l }$ ，然后再用沙氏液体培养液（SDB）将菌液浓度调至 $1 . 0 { \times } 1 0 ^ { 3 } \mathrm { c f u / m l }$ 。于96孔板中加入菌液与不同浓度的AMPs17重组蛋白为实验组，氟康唑为阳性对照组，培养基为阴性对照组，于 $3 7 ^ { \circ } \mathrm { C } , 1 2 0 \mathrm { r p m }$ 培养 $2 4 \mathrm { h }$ 后，各取 $1 0 ~ \mu \mathrm { l }$ 菌液在 SDA固体培养上涂板，于 $3 7 ^ { \circ } \mathrm { C }$ 培养 $2 4 \mathrm { h }$ 后观察，无真菌生长所对应的抗菌肽浓度为最小杀菌浓度(MBC)，然后在此基础上往后推一个孔即为最小抑菌浓度(MIC）。
+
+# 2结果
+
+2.1.1pET-28a（+）-AMPs17重组质粒的鉴定
+
+AMPs17基因经PCR扩增后，获得了495bp 左右的特异性条带，将AMPs17基因的 PCR扩增产物与pET-28a‘ $( + )$ ）载体进行双酶切，连接，成功构建pET-28a（ $^ +$ ）-AMPs17重组质粒。将挑选的阳性克隆子送往上海生工进行测序鉴定，结果显示插入序列与目的基因cDNA序列一致，表明AMPs17基因原核表达重组质粒构建成功。（图1、2)
+
+![](images/ef83b2b5013dbee6908b725f77c35d4087c94101a9926d881066c368ca8a08d2.jpg)  
+图1AMPs17基因cDNA片段的产物
+
+M:DNAMarker；1:AMPs17PCR扩增产物
+
+Fig.2 Amplification cDNA fragment of AMPs17 gene
+
+![](images/aa1fd361c68bff26b38a4a7c8e5eec9bea707e6c9a8b3f6c77949fe3685ca353.jpg)  
+图2重组质粒pET-28a $( + )$ -AMPs17双酶切鉴定图
+
+M:DNAMarker；1:AMPs17PCR扩增产物;
+
+2: pET-28a $( + )$ -AMPs17重组质粒双酶切；3:pET-28a $( + )$ -AMPs17重组质粒
+
+Fig.2Identification of recombinant plasmit pET-28a $( + )$ -AMPs17 by endonuclease digestion
+
+2.1.2不同诱导温度对AMPs17蛋白表达量的影响
+
+在IPTG终浓度为 $0 . 0 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，诱导温度分别为 $2 5 \mathrm { { ^ circ C } }$ 、 $2 8 ^ { \circ } \mathrm { C }$ 、 $3 0 ^ { \circ } \mathrm { C }$ 、 $3 2 ^ { \circ } \mathrm { C }$ 、 $3 4 ^ { \circ } \mathrm { C }$ 的条件下诱导24h后进行 $12 \%$ SDS-PAGE电泳鉴定。结果表明：AMPs17蛋白均有表达，通过ImageJ图像分析软件检测其灰度值分别为： $8 3 { \pm } 4$ 、 $1 0 2 { \pm } 7$ 、 $6 3 { \pm } 3$ 、 $1 6 7 { \pm } 9$ 、 $3 4 \pm 2$ ，以在 $3 2 ^ { \circ } \mathrm { C }$ 诱导条件下AMPs17蛋白的表达量最高。(图3)
+
+![](images/3772caf0bead55cf52d20f1b8f35ff45fc42e89d50910002e7cb0ece5cc8de5d.jpg)
+
+M泳道：蛋白Marker；第2、4、6、8、10、12泳道是： $2 5 \mathrm { ^ \circ C }$ ， $2 8 ^ { \circ } \mathrm { C }$ ， $3 2 ^ { \circ } \mathrm { C }$ ， $3 4 ^ { \circ } \mathrm { C }$ ， $3 2 ^ { \circ } \mathrm { C }$ ， $3 0 ^ { \circ } \mathrm { C }$ 诱导表达产物。
+
+# 图3不同诱导温度对AMPs17蛋白表达量的SDS-PAGE分析
+
+Fig 3 SDS-PAGE analysis of the expression of AMPs17 protein at different induction temperatures
+
+2.1.3不同诱导时间对AMPs17蛋白表达量的影响
+
+在诱导温度为 $3 2 ^ { \circ } \mathrm { C }$ ，IPTG 终浓度为0.05mmol·L-1的条件下分别诱导12h、15h、18h、21h、24h后进行 $12 \%$ SDS-PAGE电泳鉴定。结果表明：AMPs17蛋白均有表达，通过ImageJ图像分析软件检测其灰度值分别为： $9 0 { \pm } 6$ 、 $9 5 { \pm } 9$ 、 $7 9 { \pm } 5$ 、 $8 2 \pm 3$ 、 $9 3 { \pm } 4$ ，以在15h 诱导条件下AMPs17蛋白的表达量最高。 (图 4)
+
+![](images/9b385c0dab08b26f9c6020f6cf181116eb5339e084311f81f949a4023340831f.jpg)  
+图4不同诱导时间对AMPs17蛋白表达量的SDS-PAGE分析
+
+M泳道：蛋白Marker；第2、4、6、8、9泳道是：24h，21h，18h，15h，12h诱导表达产物。
+
+Fig 4 SDS-PAGE analysis of the expresson of AMPs17 protein at different induction times
+
+2.1.4不同诱导IPTG浓度对AMPs17蛋白表达量的影响
+
+在诱导温度为 $3 2 ^ { \circ } \mathrm { C }$ ，IPTG 终浓度分别为0.025mmol·L-1、0.05mmol·L-1、0.1mmol·L-1、0.3mmol·L-1、0.5mmol·L-1、0.8mmol·L-1、1.0mmol·L-1的条件下诱导15h后进行 $12 \%$ SDS-PAGE电泳鉴定。结果表明：AMPs17蛋白均有表达，通过ImageJ图像分析软件检测其灰度值分别为：120±4、119±3、112±8、122±2、121±3、111±9、117±6.IPTG 终浓度在 $0 . 0 2 5 { \sim } 1 . 0 \mathrm { m m o l } { \cdot } \mathrm { L } { - } 1$ 范围内对 AMPs17蛋白的表达量影响不明显。 (图 5)
+
+![](images/e080da207ad29a8b370a0f1d1601737271005e52eb59b9b215052e119cbeaa8a.jpg)
+
+M至8泳道：蛋白Marker；未加IPTG诱导的全菌液的表达产物；加入诱导IPTG终浓度：0.025mmol·L-1、 0.05 mmol·L-1、0.1 mmol·L-1、0.mmol·L-1、0.5 mmol·L-1、 $0 . 8 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 、1.0 mmol·L-的诱导表达产物。
+
+图5不同诱导IPTG 浓度对AMPs17蛋白表达量的SDS-PAGE分析
+
+Fig 5 SDS-PAGE analysis of the expression of AMPs17 protein at different IPTG concentrations
+
+# 2.1.5AMPs17蛋白的诱导表达及纯化
+
+将优化诱导表达后的表达产物经超声破碎、包涵体的溶解和纯化后，获得分子量为17kDa左右的AMPs17蛋白，通过ImageJ图像分析软件检测其灰度值分别为： $1 2 0 { \pm } 6 , 3 9 { \pm } 4$ 、$8 6 { \pm } 3$ 、 $9 8 { \pm } 5$ 。(图6)
+
+![](images/a5c05a8ba6033aba1dbcedb420220ca910f0d9695a92afdb609d8540ffc8ecbc.jpg)  
+图6AMPs17蛋白的诱导表达及纯化
+
+M至6泳道顺序为：蛋白Marker；纯化蛋白；包涵体溶解产物；未诱导表达产物；细胞破碎后上清；细胞破碎后沉淀；诱导表达产物。
+
+Fig 6 Induction expression and purification of AMPs17 protein
+
+2.1.6AMPs17重组蛋白的Westernbolt及质谱鉴定（此部分为添加的内容）
+
+用小鼠来源的抗His 单克隆抗体为一抗，羊抗小鼠IgG-HRP为二抗，对AMPs17 重组蛋白进行westerm blot鉴定，结果获得一清晰条带，条带大小与预计相符（图7），且经质谱鉴定分析显示，纯化蛋白序列与AMPs17序列一致（详见附录A）。
+
+![](images/1e4dbcdcc13af5b3bfb2af5b6b21088f889eb8d25c6d0b6cbcf34952935f8a2a.jpg)  
+图7AMPs17重组蛋白His标签鉴定图
+
+# 2.1.6AMPs17蛋白的纯度检测
+
+纯化后的AMPs17重组蛋白经高效液相色谱仪分析，主峰显示为一单峰，说明杂质较少，提示其纯度很纯，可达 $90 \%$ 以上。 (图8)
+
+![](images/90c7cd15f02588af245f3bad8322ef994e9a7f8ac021c2572f6d2ad59a801839.jpg)  
+Fig.7Identification ofAMPs17 protein by his-tag serum   
+图8AMPs17蛋白的纯度测定  
+Fig8Determinationof purityofAMPs17protein
+
+# 2.2AMPs17蛋白的抗真菌活性检测
+
+2.2.1AMPs17蛋白对白色念珠菌MIC/MBC的测定
+
+AMPs17重组蛋白作用于白色念珠菌24h后，检测结果显示其MIC 值为 $2 0 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ MBC值为 $4 0 \mu \mathrm { g } \cdot \mathrm { m } \mathrm { L } ^ { - 1 }$ ，具有较好的抗真菌活性。
+
+表1AMPs17蛋白的抗真菌活性检测  
+Table1 Detection of antifungal activity of AMPs17 protein   
+
+<html><body><table><tr><td rowspan="2">菌株</td><td colspan="2">MIC (μg:mL-1)</td><td colspan="2">MBC(μg:mL-1)</td></tr><tr><td>AMPs17</td><td>FLC</td><td>AMPs17</td><td>FLC</td></tr><tr><td>C. albicans ATCC10231</td><td>20</td><td>3.125</td><td>40</td><td>6.25</td></tr></table></body></html>
+
+![](images/92dfd66dff4652e6aa5ee9306b6b0a565cff255983acee3381c40b19af17f3f5.jpg)  
+图9AMPs17蛋白的抗白色念珠菌活性 Fig9Anti-C.albicans activityofAMPs17 protein
+
+（注：本文只对AMPs17抗白色念珠菌的活性进行研究，是因为在另一篇文章中我们对AMPs17的抗菌谱进行了研究（待发稿）。因此，本文只能对白色念珠菌进行研究。谨请您谅解，谢谢您的宝贵建议。）
+
+# 3讨论
+
+研究表明异源蛋白的表达在很大程度上受细胞生长速率的严重影响。通常情况下，融合蛋白的活性及其可溶性与宿主细胞自身蛋白酶和折叠辅助蛋白的存在与否，以及合适的载体配置和培养条件密切相关[20]。因此，一个高效、稳定的表达体系对抗菌肽的表达有着极其重要的作用。大肠杆菌原核表达系统作为当前应用最为广泛的表达系统，它不仅操作简单、转化效率高、成本低廉且表达的产物水平要远高于其他表达系统[21]。因此，本课题组选用了最常用的pET-28a（+）作为表达载体，大肠埃希菌BL21（DE3）作为表达宿主菌，成功获取了pET-28a（+）-AMPs17重组表达质粒。
+
+大肠杆菌原核表达体系中，除了表达载体、表达宿主菌的合理选择外，诱导温度、时间、IPTG 终浓度对目的蛋白的表达也尤为重要[22]。在成功表达家蝇抗菌肽AMPs17重组蛋白的基础上，本研究分别对诱导温度、时间、IPTG 终浓度进行了研究。结果我们发现，AMPs17蛋白在诱导温度为 $3 2 ^ { \circ } \mathrm { C }$ 时其表达量最高，在 $3 4 ^ { \circ } \mathrm { C }$ 、 $3 0 ^ { \circ } \mathrm { C }$ 、 $2 8 ^ { \circ } \mathrm { C }$ 、 $2 5 \mathrm { ^ \circ C }$ 时蛋白表达量呈现出下降趋势。一般而言，诱导温度在 $2 5 ^ { \circ } \mathrm { C } \sim 3 7 ^ { \circ } \mathrm { C }$ 条件下，外源蛋白易于形成且具有较好的活性，但在较低的诱导温度条件下可对肠杆菌的生长不利且造成包涵体的形成[23]。因此，在最适的诱导温度下，可利于菌体的生长且易于外源蛋白的表达。在诱导时间15h的条件下目的蛋白的表达量最高且随着时间的延长或缩短其表达量呈现不同程度的下降。对于诱导后的培养时间，不同的启动子或表达载体在诱导表达时间上也各不相同，例如启动子Ptac 和Plac仅需要 $2 { \sim } 3 \mathrm { h }$ 就可以完成表达，而 $\mathrm { { P } _ { \mathrm { { R } } \setminus \mathrm { { } } } \mathrm { { P } _ { \mathrm { { t r p } } } } }$ 等则需要较长的诱导时间[24]。在不同的 IPTG 终浓度条件下，其浓度的高低对AMPs17蛋白的表达量没有明显的影响，因此本研究在降低IPTG 浓度对细菌代谢的毒性作用和降低实验成本的提前下，我们确定了其最低有效诱导终浓度为 $0 . 0 5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，在实验过程中我们发现本研究的实验结果与彭传林[25]研究具有相似现象。AMPs17重组蛋白经镍离子金属螯合剂亲和层析柱纯化后在 $12 \%$ SDS-PAGE电泳中呈现单一的目的蛋白条带，HPLC 分析主亦显示为单一峰形，提示纯化效果较好，纯度可达 $90 \%$ 以上。体外抗真菌活性检测结果显示，AMPs17重组蛋白具有抑杀C.albicans 的作用，其MIC 和MBC 值分别为 $2 0 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ 、 $4 0 ~ { \mu \mathrm { g } } { \cdot } \mathrm { m L } ^ { - 1 }$ ，证实了AMPs17的抗真菌活性，亦表明所构建的原核表达系统可以有效表达具有活性的AMPs17蛋白。
+
+本研究优化了AMPs17的原核表达条件，获得了具有抗真菌活性的AMPs17重组蛋白。为后续AMPs17蛋白的研发应用及抗真菌机制的研究提供可靠的实验技术基础。
+
+# 参考文献
+
+[1]MartensEmaLboticsistaesisituseUitedtesJ]libio,).   
+[2]BernardE,KreisB,LotteA,etal.Tuberculosis inPregnancy.[J].Clinics inPerinatology,20l6,4(2):880.   
+[3]李秀云.盐酸氨溴索与氟康唑联合对抗耐药白色念珠菌的作用及机制研究[D].山东大学,2017. LiXYTeefectandeanisfmbooldroclodeombedituconolegastCanddalbicansDandongUnsity   
+[4]YemaKtifultidJOi and Cellular Longevity,2018,(2018-4-26),2018,2018:1-20.   
+[5]WangGgda issue):D1087-D1093.   
+[6Kouatidiggiseteit   
+[7]tel 24(17):-.   
+[8]ParkJai from Branchiostoma japonicum[J]. Journal of Antimicrobial Chemotherapy,2018.   
+[9]LuYi andCandida[J]. Scientific Reports,2016, 6:27258.   
+[10]ZouJgisdcetii (Diptera: Muscidae)[J].Journal of Medical Entomology,2016,53(6):1467-1472.   
+[11]Midurowcotatidaoattissptii Chemistry,2014,6(6):73-80.   
+[12iltsi and inhibitory activity against breast cancer cel.Arch Microbiol,2016,198(5):473-482.   
+[13]Blijlenelletedleabiftiob lactoferrin1-11(hLF1-11).BMC medicine,2009,7:44.   
+[14Metanatbi ClincalethiciliesistantStalcosuresStraisdrevetelectionfaptomRsistantDriatiAnticoalentsd Chemotherapy.2012.56（12）：6192-6200.   
+[15]Davidkvidileasviicurepidbdicaoloi（4.   
+[16]AMatejuk,Qegum,MWoodleeptidbasedtifungalterapiesagstemerggifectios.Dugsutur,5(3)973.   
+[17]JGScottLu,risesenAGarkcaseforsquencingeomeofuscadomestica(Diptera:usdae)Joualfdical Entomology,2009，46（2）,175-182.   
+[8]iH
+
+of the housefly,Musca domestica .Journal of Insect Science，2013，13(112)：112
+
+[19]陶如玉，李妍，马慧玲,等．家蝇 AMP17基因的克隆及其分子特性和表达模式研究[J].中国病原生物学杂志,2017(1):1079-1083.TaoRYLiYPathogenic Biology,2017(11): 1079-1083.  
+[20]王中原．可溶性人SUMO融合表达系统的研究[D].吉林大学,2010.Wang ZY. Study on soluble human SUMO fusion expression system [D]. Jilin University,2010.  
+[21]Nuc P,NucK.[Recombinant protein productionin Escherichiacoli].[J].PostepyBiochem,0o6,52(4):448-456.  
+[22]GaoQgctedtoeArgopecten irradiants[J].Fish& Shellfish Immunology,20o8,24(4):379-385.  
+[2igcoli.[J].Journal of Microbiological Methods,2007,68(3):497-506.  
+[24]解庭波.大肠杆菌表达系统的研究进展[J].长江大学学报:自科版,2008,5(3):77-82.XieTB.ResearchprogressofE.coliexpressionsystem[J].JouralofYangtze University:Selfversio,oo8,5(3):77-82.  
+[25]彭传林.家蝇抗真菌肽MAF-1原核表达体系优化与活性分析[D].贵阳医学院,2015.PengCL.OptizationdctitalysisfprokaroticexpresiosstfusadomesticatifugalpeptideF-DGadicalCollege, 2015.

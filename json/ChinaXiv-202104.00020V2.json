@@ -1,0 +1,192 @@
+[
+    {
+        "type": "text",
+        "text": "Bacterial and viral therapiesof cancer: background, mechanism and perspective ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qing-lin Dong\\* & Xiang-ying Xing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Bioengineering,Hebei University of Technology, Tianjin,3Oo130, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author: Qing-lin Dong (qldong @hebut.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterial and viral therapies of cancer are highly promising, yet their mechanisms are incompletely understood, hindering their improvement and application. In this paper, We（l）review briefly the genesis and progress of bacterial and viral therapies of cancer, (2） compare and evaluate the proposed mechanisms of bacterial and viral therapies of cancer and present the unifying mechanism that bacteria/viruses stimulate cancer cells to produce antibacterial/antiviral proteins，which also serve as the responsive cancer antigens triggering host anticancer immune response, and (3) provide a perspective on the exploitation of non-human and non-animal bacteria and viruses， particularly protist-infecting bacteria and virusesand bacterial virus (bacteriophage/phage), for cancer treatment and prevention. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Cancer therapy， Protist， Bacteria， Viruses, Bacteriophage，Responsive cancer antigen ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial and viral therapies of cancer that use bacteria and viruses to treat cancer are elicited by the clinical observations that spontaneous cancer regression has followed severe bacterial or viral infections.Historically， bacterial therapy of cancer is investigated and applied earlier than viral therapy of cancer, coinciding with the establishment and development of bacteriology and virology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The first record of an attempt to treat human tumors with an induced bacterial infection is that of Busch in 1868.He had observed temporary clinical improvement in two patients with inoperable sarcomas who developed concurrent erysipelas infections.His attempts to induce the infection in other cancer patients failed, because the causative agent of erysipelas was not known at that time.Later in 1882,Fehliesen, after he had discovered the streptococcal origin of erysipelas, injected live cultures of this bacterium into cancer patients with encouraging results [1]. Unaware of the previous work in this area, William Coley in 1891 noted a coincidental tumor regression in a patient who developed a streptococcal infection. Based on this observation, he attempted to reproduce this result by infecting his cancer patients with the same bacterium and subsequently developed a mixture of two heat-killed bacteria Streptococcus pyogenes and Serratia marcescens, known as ‘Coley's toxins', for clinical cancer treatment [2]. Since then many varieties of bacteria in diferent genera have been investigated for their therapeutic effects on cancers， such as Salmonella， Streptococcus， Listeria， Escherichia， Clostridium， Bifidobacterium, Caulobacter, Proteus, Lactobacillus, Klebsiella and Mycobacterium [3-14]. During this time, BCG (bacillus Calmette-Guerin), a bacterial vaccine (the live attenuated Mycobacterium bovis) for prevention of tuberculosis developed by Albert Calmette and Camille Guerin in 1921,was found effective in cancer treatment in 197Os and approved by the US Food and Drug Administration (US FDA) in 199O for its use in treating superficial bladder tumors [15]. Hence, Mycobacterium bovis is the first and so far the only FDA-approved bacterium used for bacterial therapy of cancer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Accompanying and following the discovery of virus via filtration detection (1898), plaque assay (1917) and electron microscopic observation (1939),a number of case reports describing cancer regressions following virus infections or vaccinations emerged [16-17],and more recently a case of SARS-CoV-2-induced remission of Hodgkin lymphoma was just reported [18]. Since the 195Os,the phenomenon of virus-induced cancer regression evoke numerous research on clinical trials with human and non-human animal viruses, including Hepatitis viruses,West Nile virus, Adenovirus, Vaccinia virus, Herpes virus,Reovirus, Seneca Valley Virus, Coxsackie virus,Herpes simplex virus,Measles virus, Newcastle disease virus， Parvovirus, Poliovirus and Vesicular stomatitis virus [16,19-23]. In 2OO5， the recombinant adenovirus H1O1 was approved by the China Food and Drug Administration (CFDA) for use together with chemotherapy in subjects with refractory head and neck carcinoma [24],and 1O years later, the genetically modified human herpes simplex virus HSV-1 was approved by US FDA for use in melanoma patients with injectable but non-resectable lesions in the skin and lymph nodes in 2O15 [25]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mechanism ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As described above, bacterial and viral therapies of cancer are investigated intensively and several bacterium and viruses have already been approved for clinical application, yet their therapeutic mechanisms,i.e. how bacteria and viruses induce cancer regression， are incompletely understood. The proposed mechanisms of bacterial therapy and viral therapy of cancer are very similar and even identical that bacteria and viruses induce cancer regression in two ways: ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Killing cancer cells ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) bacteria kill infected cancer cells directly by intracellular proliferation [8, 26] and indirectly by breaking down of tumor vasculature [7] or secretion of bacterial toxins [7, 11].   \n(2) viruses kill infected cancer cells directly via intracellular replication [2O-22, 27] and indirectly by destruction of tumor vasculature [21].   \n2. Inducing host anticancer immune response   \n(1）bacteria stimulate a “non-specific\"’ innate immune response against themselves and also the cancer cells [2,8] due probably to the presence of bacteria or bacterial antigens in the infected cancer cells [10].   \n(2） viruses induce host innate and adaptive (specific） immune responses against cancer cells owing to the release of cancer antigens from the viral-killed cancer cells [27]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Of these two ways, the first one is apparently less important, because (1） the dead bacteria e.g., S. pyogenes and S. marcescens in ‘Coley's toxins’ [2] and killed viruses [17],e.g., Mumps virus [28], are also effective in inducing cancer regression; and (2) there is no compelling evidence of in vivo bacterial killing of cancer cells,and also clinical trials have not provided a clear demonstration that direct viral lysis of infected cancer cells is an important mechanism of tumor destruction [16, 21]. Therefore, the second one, i.e. inducing host anticancer immune response is the major way through which bacteria and viruses induce cancer regression. Nevertheless, how bacteria and viruses induce host anticancer immune response remains unclear， which，as mentioned above,is ascribed to the presence of bacteria or bacterial antigens in bacterial-infected cancer cells and the release of cancer antigens from viral-killed cancer cells. These mechanisms, however, can not explain why dead bacteria/viruses are incapable of infecting/killing cancer cells yet capable of triggering host anticancer immune response. So, there must be an unknown unifying mechanism by which bacteria and viruses induce host anticancer immune response. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is well known that cancer cells are intrinsically different from normal cells, while the host immune response against cancer cells is based on discriminating the cancer cells from the normal ones through recognizing the distinctive proteins synthesized by and presented on cancer cells (cancer antigens). Hence, the different nature of cancer cells is the basis for triggering host immune response,which, however, has not yet been fully understood due primarily to their unknown origin and formation process. Traditionally，cancer cells are postulated to be transformed from normal cells, however the increasing evidences have demonstrated that the primary cancer cells for cancer initiation and secondary cancer cells for cancer progression are formed in but not transformed from the senescent normal cells and primary cancer cells respectively, yet the mechanism is unclear. In our previous studies we found that the endosymbiotic cyanobacterium TDX16 (prokaryote） turned into a new green alga (eukaryote) TDX16-DE (Chroococcidiorella tianjinensis） [29-31] by de novo organelle biogenesis after acquiring its green alga host Haematococcus pluvialis's DNA [32], which is the first case of prokaryote-to-eukaryote transition observed so far. And more importantly, the cellular process of TDX16-to-TDX16-DE transition shares striking similarities with the formation of cancer cells (primary and secondary cancer cells) that are originally very small and organelle-less. Accordingly, we propose that cancer cells arise from bacteria, i.e. bacterial origin of cancer cells (BOCC) [33]. In light of BOCC theory,(1) cancer cells are new unicellular eukaryotes (protists) in nature, and (2) cancer cells in different type of tumors are different protists arising from different bacteria. The protist nature of cancer cells is crucial to understand how bacteria and viruses induce host anticancer immune responses. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since cancer cells are new protists, they are sensitive to and develop immune response against all bacteria and viruses (antibacterial/antiviral immune responses) except those they once experienced, e.g., the bacteria within cancer cells [34], with the corresponding synthesis and secretion of antibacterial/antiviral proteins (cancer cell antibodies).Distinct from the antibody produced by normal cells，these antibacterial/antiviral proteins label cancer cells as foreign simultaneously and thus also serve as novel cancer antigens with potent immunogenicity termed responsive cancer antigens (RCA)，which are readily detected by the host immune system and thereby trigger host immune responses against the RCA-producing cancer cells, including activation of natural killer cells and RCA-specific T cells (Figure 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/42dfed405bc12ae4c35633b4c1d2ab0130f0609c8cfd602fa1f45b9edb3b68ca.jpg",
+        "img_caption": [
+            "Figure1.Cartoon ilustrating the unifying mechanism of bacteria/viruses-induced host anticancer immune response.In response to the infection/adhesionof live/dead bacteriaand viruses(1)and(3),the host immune cel and cancercell produce antibody (2）and antibacterial/antiviral proteins that also serve as responsive cancer antigens (RCA)(4)respectively.While the RCA-producing cancer cellis recognized by the host immune cell (5) and thus triggers host anticancer immune response(6). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As such,bacteria and viruses inducing cancer regression certainly seems to be non-specific: (1） a broad diversity of bacteria, viruses and even fungi and protozoa can induce cancer regression [1-2],(2) different bacteria and viruses induce regression of the same type of cancer, e.g., SARS-CoV-2 virus [18] and Measles virus [16] on Hodgkin's lymphoma, and (3） the same bacterium or virus induce regression of different types of cancers [21],e.g.，BCG on bladder cancer as well as renal and prostate cancers [35] and Measles virus on leukemia, Hodgkin's disease and Burkitt's lymphoma [17]. Nonetheless, the host immune responses against cancer cells are specific as RCA are specific that are produced by different type of cancer cells in response to different microorganisms，which is the reason for the delayed host anticancer immune response that takes days to weeks to develop after the initial administration, e.g., BCG-induced anticancer immune response [15,35]. Furthermore, because (1） the host immune system can only recognize and kill the RCA-producing cancer cells, (2) cancer cells produce RCA only when they are exposed to the bacteria or viruses owing to their protist nature, and (3) exposure of bacteria or viruses to each cancer cell in tumor is dificult to achieve as the tortuous tumor vasculature is not genuine blood vessel [36] limiting the spread of bacteria/viruses, it is not surprising that (l) a close contact between bacteria/viruses and cancer cells is required and direct intratumoral injections of bacteria/viruses are preferentially administered [2,15,21], (2) repeat administrations are necessary e.g., Coley's toxins [2] and BCG [35],and (3) bacterial and viral therapies usually can not eradicate cancer cells completely resulting in incomplete remissions [17]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Perspective ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the unifying mechanism that bacteria and viruses induce host anticancer immune responses by stimulating cancer cells to produce RCA,it can be concluded that all bacteria and viruses and other microorganisms (fungi， yeasts, protozoa and algae) that are new to cancer cells are potentially capable of eliciting host anticancer immune responses. Yet, current researches focus predominantly on human and non-human animal bacteria/viruses,while other sources of bacteria/viruses and other microorganisms have been overlooked or received less attentions. Hence, we provide a perspective on the application of non-human and non-animal bacteria/viruses for cancer therapy, which are superior in that (1) they are non-pathogenic in humans and thus safe; (2) host cells do not possess pre-existing immunity to eliminate them. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Application of protist-infecting bacteria/viruses. These bacteria and viruses infect preferentially protists. Now, an increasing number of protist-infecting viruses [37], including protozoa-infecting viruses [38-39], algal viruses [4O] and yeast virus [41] have been isolated, while protist-infecting bacteria have not been well-defined and thus await further research. Given the prosist nature of cancer cells, it is logical and possible that protist-infecting bacteria/viruses have a natural tropism for cancer cells, some of which are potentially capable of infecting and killing cancer cells,and all of which are new to cancer cells and thus can induce host anticancer immune response. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.Application of plant and fungus-infecting bacteria/viruses. These bacteria and viruses infect mainly plants and fungi respectively, which are therefore also new to cancer cells and capable of inducing host anticancer immune response. Like the case of protist-infecting bacteria, the plant-infecting bacteria and fungus-infecting bacteria have not been defined and characterized so far, awaiting future research. By contrast, plant-infecting viruses (plant viruses) and fungus-infecting viruses (fungal viruses or mycoviruses) [42] have been isolated and characterized extensively. And some plant viruses, e.g., cowpea mosaic virus, have been found effective in inducing anticancer immunity [43]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Exploitation of bacterial virus (bacteriophage/phage). Bacteriophage exclusively infect bacteria yet have also been found inside the human body，which can cross eukaryotic cell layer via transcytosis, enter human cells [44] and kill the intracellular bacteria [45]. Although bacteriophage are now only exploited to treat bacterial infections (phage therapy), they can, however, also be used in cancer prevention and treatment. This is because (1） specific bacteria inhabit the normal cells and cancer cells [34],which might turn into the primary cancer cells for cancer initiation and secondary cancer cells for cancer progression after acquiring the senescent/necrotic normal cells and primary cancer cells’ DNA respectively [33],while the matched bacteriophage can eliminate the bacteria within normal cells and cancer cells,and so prevent cancer and block cancer progression, and (2） bacteriophage can also induce host anticancer immune response,as they, like other viruses,are new to cancer cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Combination of bacteriophage with other microorganisms. As discussed above, bacteriophage can kill the bacteria in normal cells and cancer cells and trigger host anticancer immune response, whose first role is unique and irreplaceable, while the second one overlaps with those of other microorganisms and thus can potentially be amplified. Since microorganisms,e.g.， bacteria and viruses,induce host anticancer immune response by stimulating cancer cells to produce RCA,it is conceivable that the antigenicity of these RCA is positively correlated with the number and type of microorganisms and its level may decline if the cancer cells develop immunity to the microorganisms. Thus， combination of bacteriophage with other microorganisms (bacteria, viruses, fungi, yeasts, protozoa and algae) can(1) enhance the antigenicity of RCA and make it more difficult for cancer cells to develop immunity, enabling host immune system to recognize cancer cells easily, and (2) impose iterative disturbances on cancer cells,which may make cancer cells weak (less resistant) and thus easily be eradicated by host immune system, enhancing therapeutic efficacies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. Combination of bacteriophage therapy with other cancer therapies. Current cancer therapies，e.g.， surgical resection， radiotherapy and chemotherapy， have limited efficacy, leading to cancer relapse. The reason for cancer relapse is usually ascribed to the growth of residual cancer cells, which however seems not to be the only reason as it can not account for the heterogeneity and metastasis of cancer cells. In light of BOCC theory, the other and probably the major reason for cancer relapse is that current cancer therapies result in senescence of the residual primary cancer cells and the surrounding normal cells,which facilitate the bacteria in the senescent residual cancer cells and normal cells to acquire their hosts’DNA and turn into secondary cancer cells and primary cancer cells respectively. The secondary cancer cells are new species of protists with the genetic background of bacteria and primary cancer cells, which contribute to the heterogeneity of cancer cells and most likely account for metastasis as well. While bacteriophage can specifically eliminate the bacteria within the senescent primary cancer cells and normal cells,and so prevent cancer relapse and metastasis. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6. The bacteria naturally inhabit normal cells and cancer cells can not be used for cancer therapy. This is because these intracellular bacteria are apparently incapable of killing cancer cells and less likely to induce host anticancer immune response though some of them were experimentally used to treat cancer [9], but might potentially turn into primary and secondary cancer cells as discussed above. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the therapeutic bacteria/viruses induce cancer regression mainly (live bacteria/viruses） or solely (dead bacteria/viruses） by stimulating cancer cells to produce RCA and thus enable the host immune system to recognize and eradicate the RCA-producing cancer cells,which is also the case for other microorganisms (fungi, yeasts, protozoa and algae) and the like, e.g., bacterium/virus-like particles. According to this unifying mechanism,the safe non-human and non-animal bacteria/viruses, particularly the protist-infecting bacteria/viruses and bacteriophage, can be used in cancer treatment and prevention, which hold the potential to achieve better outcomes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1．Reilly, H. C(1953) Microbiology and cancer therapy. Cancer Research,13:821-834.   \n2.Hoption Cann, S.A., van Netten, J.P and van Netten, C (2O03) Dr William Coley and tumour regression: a place in history or in the future.Postgraduate Medical Journal,79:672-680.   \n3.Forbes,N (2O1O) Engineering the perfect (bacterial) cancer therapy. Nature Reviews Cancer, 10: 785-794.   \n4.Sarotra, P.,Medhi, B (2O16) Use of bacteria in cancer therapy. In: Walther W. (eds) Current strategies in cancer gene therapy. Recent Results in Cancer Research，vol 2O9, Springer, Cham.   \n5.Felgner S, Kocijancic D,Frahm M, Weiss S (2O16) Bacteria in cancer therapy: renaissance of an old concept. International Journal of Microbiology, 2O16: 8451728   \n6.Kramer,M.G.，Masner, M.,Ferreira, F.A and Hoffman,R.M (2O18) Bacterial therapy of cancer: promises,limitations,and insights for future directions. Frontiers in Microbiology, 9:16.   \n7.Song, S., Vuai, M.S and Zhong,M (2O18) The role of bacteria in cancer therapy-enemies in the past, but allies at present. Infect Agents Cancer,13,9.   \n8．Rius-Rocabert, S.,Llinares Pinel,F., Pozuelo,M.J., Garcia,A and Nistal-Villan,E(2019) Oncolytic bacteria: past, present and future. FEMS Microbiology Letters,1;366(12):fnz136   \n9.Wang, Y., Guo, W., Wu, X., Zhang, Y., Mannion, C., Brouchkov, A., Man, Y.G and Chen, T (2019) Oncolytic bacteria and their potential role in bacterium-mediated tumour therapy: a conceptual analysis. Journal of Cancer, 1O: 4442-4454   \n10. Sedighi, M., Zahedi, B.A., Hamblin,M.R., Ohadi, E., Asadi,A., Halajzadeh, M.,Lohrasbi,V., Mohammadzadeh，N.，Amiriani， T.，Krutova,M.，Amini，A and Kouhsari，E (2019) Therapeutic bacteria to combat cancer； current advances， challenges，and opportunities. Cancer Medicine, 8: 3167-3181.   \n11.Duong，M.T.，Qin，Y.，You， S.H and Min，J.J (2O19) Bacteria-cancer interactions: bacteria-based cancer therapy. Experimental and Molecular Medicine, 51:1-15.   \n12. Suad,A.A. and Wisam, H,A (2O2O) \"Dual role of bacteria in carcinoma: stimulation and inhibition\", International Journal of Microbiology,vol. 2020,Article ID 4639761.   \n13. Yaghoubi, A., Khazaei, M., Jalili, S., Hasanian, S.M., Avan, A., Soleimanpour, S., William C. Cho, W.C (2O2O) Bacteria as a double-action sword in cancer. BBA-Reviews on Cancer, 1874, 188388   \n14.Laliani, G., Sorboni, S.G.,Lari, R., Yaghoubi, A., Soleimanpour, S., Khazaei, M., Hasanian, S.M and Avan,A (2O2O) Bacteria and cancer: different sides of the same coin. Life sciences. 246, 117398.   \n15.Herr, H.W and Morales,A (2O08) History of bacillus Calmette-Guerin and bladder cancer: an immunotherapy success story. The Journal of Urology, 179: 53-56   \n16.Liu, T.C., Galanis,E.& Kirn,D.(2007) Clinical trial results with oncolytic virotherapy: a century of promise, a decade of progress. Nature Clinical Practice Oncology, 4: 101-117.   \n17. Kelly, Eand Russl,S.J (2007) History of oncolytic viruses: Genesis to genetic engineering. Molecular Therapy, 15: 651-659.   \n18.Challenor, S and Tucker, D (2021) SARS-CoV-2-induced remission of Hodgkin lymphoma. British Journal of Haematology,192:415.   \n19.Kirn，D.，Martuza,R and Zwiebel, J(2Oo1） Replication-selective virotherapy for cancer: Biological principles, risk management and future directions. Nature Medicine,7: 781-787.   \n20.Parato,K.A.， Senger,D.，Forsyth, P.A and Bell J.C (2005) Recent progress in the battle between oncolytic viruses and tumours. Nature Reviews Cancer, 5: 965-976   \n21. Russell, S.J., Peng, K.W and Bell,J.C (2012) Oncolytic virotherapy. Nature Biotechnology, 30:658-670   \n22. Choi, A.H., O'Leary, M.P., Fong,Y and Chen, N.G (2016) From benchtop to bedside: A review of oncolytic virotherapy.Biomedicines,4,18.   \n23.Hemminki, O.，Dos Santos,J.M and Hemminki,A(202O) Oncolytic viruses for cancer immunotherapy. Journal of Hematology & Oncology,13:84   \n24.Liang,M (2O12) Clinical development of oncolytic viruses in China. Current Pharmaceutical Biotechnology, 13:1852-1857   \n25.Pol,J.,Kroemer, G and Galluzzi, L (2O16) First oncolytic virus approved for melanoma immunotherapy. OncoImmunology, 5:e1115641   \n26. Zhou, S., Gravekamp, C., Bermudes, D., Liu, K (2O18) Tumour-targeting bacteria engineered to fight cancer. Nature Reviews Cancer,18:727-743.   \n27.Kaufman,H.L.， Kohlhapp,F.J and Zloza, A (2015) Oncolytic viruses: a new class of immunotherapy drugs. Nature Reviews Drug Discovery 14: 642-662   \n28.Minton, J.P(1973） Mumps virus and BCG vaccine in metastatic melanoma. Archives of Surgery, 106: 503-506.   \n29.Dong，Q.L.，Li， Z.W.，Xing， X.Y and Chen，B (2011） Discovery of an endophytic cyanobacterium in Haematococcus pluvialis. Journal of Hebei University of Technology, 40: 1-5.   \n30.Dong, Q.L., Xing, X.Y., Wu, H.X., Han, Y., Wei, X.L and Zhang, S (2016) Transition of a prokaryotic endosymbiotic cyanobacterium into a eukaryotic green alga. Chemical Engineering (China),44: 1-6.   \n31. Dong，Q.L and Xing， X.Y (202O) Chroococcidiorella tianjinensis gen. et sp. nov. (ItvuuAiuplyucac, CiuiupHyta), a giccll aiga aIiscs IUll uic cyalvval American Journal of Plant Sciences, 11: 1814-1826.   \n32. Dong, Q.L., Xing, X.Y., Han, Y., Wei, X.L and Zhang, S (202O) De novo organele biogenesis in the cyanobacterium TDX16 released from the green alga Haematococcus pluvialis. CellBio, 9: 29-84.   \n33.Dong, Q.L and Xing, X.Y (2O18) Cancer cels arise from bacteria. Cancer Cel International, 18: 205.   \n34. Nejman D,Livyatan I, Fuks G, Gavert N, Zwang Y, Geller LT, Roter-Maskowitz A, Weiser R, Mallel G, Gigi E，Meltser A，Douglas GM，Kamer I，Gopalakrishnan V,Dadosh T, Levin-Zaidman S, Avnet S, Atlan T, Cooper ZA, Arora R, Cogdill AP, Khan MAW, Ologun G, Bussi Y,Weinberger A,Lotan-Pompan M, Golani O,Perry G, Rokah M, Bahar-Shany K, Rozeman EA,Blank CU,Ronai A, Shaoul R,Amit A,Dorfman T, Kremer R,Cohen ZR, Harnof S, Siegal T, Yehuda-Shnaidman E, Gal-Yam EN, Shapira H, Baldini N,Langille MGI, Ben-Nun A,Kaufman B, Nissan A, Golan T, Dadiani M, Levanon K, Bar J, Yust-Katz S, Barshack I, Peeper DS,Raz DJ, Segal E,Wargo JA, Sandbank J, Shental N, Straussman R. (2020)The human tumor microbiome is composed of tumor type-specific intracellular bacteria. Science. 368: 973-980   \n35. Gandhi, N.M., Morales, A and Lamm, D.L (2013) Bacillus Calmette-Guerin immunotherapy for genitourinary cancer. BJU International, 112: 288-297.   \n36.Hanahan,D and Weinberg，R.A (2O11） Hallmarks of cancer: the next generation. Cell, 144:646-674.   \n37.La Scola,B (2014） Looking at protists as a source of pathogenic viruses. Microbial Pathogenesis, 77: 131-135   \n38. Colson,P.,Aherfi, S.,La Scola, B and Raoult, D (2O16) The role of giant viruses of amoebas in humans. Current Opinion in Microbiology,31:199-208   \n39.Fischer, M.G (2016) Giant viruses come of age. Current Opinion in Microbiology,31: 50-57   \n40.Coy， S.R.， Gann, E.R.， Pound, H.L.， Short, S.M and Wilhelm， S.W (2O18) Viruses of eukaryotic algae: diversity, methods for detection,and future directions. Viruses,10, 487   \n41.Wickner, R.B (1996) Double-stranded RNA viruses of Saccharomyces cerevisiae. Microbiological Reviews, 60:250-265   \n42. Ghabrial, S.A., Cast6n, J.R., Jiang,D., Nibert,M.L and Suzuki, N (2015) 50-plus years of fungal viruses. Virology, 479-480:356-368.   \n43. Murray, A. A.， Wang, C., Fiering, S and Steinmetz, N. F (2018) In situ vaccination with cowpea vs tobacco mosaic virus against melanoma. Molecular Pharmaceutics，15: 3700-3716.   \n44. Nguyen, S., Baker, K., Padman, B.S., Patwa,R., Dunstan, R.A. Weston, T.A., Schlosser, K., Bailey, B., Lithgow,T., Lazarou, M., Luque,A., Rohwer, F., Blumberg, R.S and Barr, J.J (2017) Bacteriophage transcytosis provides a mechanism to cross epithelial cell layers. mBio. 8(6):e01874-17   \n45. Mpller-Olsen, C., Ho, S.F.S., Shukla, R.D., Feher, T and Sagona, A.P (2018) Engineered K1F bacteriophages kill intracellular Escherichia coli K1 in human epithelial cells. Scientific Reports, 8: 17559. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

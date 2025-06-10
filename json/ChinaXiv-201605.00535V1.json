@@ -1,0 +1,727 @@
+[
+    {
+        "type": "text",
+        "text": "Hydrological responses of land use change from cotton (Gossypium hirsutum L.) to cellulosic bioenergy crops in the Southern High Plains of Texas, USA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YONG CHEN1'²,SRINIVASULU ALE1,NITHYA RAJAN²,CRISTINE L.S. MORGAN² and JONGYOON PARK1   \n1Texas A&M AgriifeResearch,Texas A&MUnioersity System,Vernon,TX,USA,²DepartmentofSoiland Crop Sciences, TexasA&MUniversity,College Station,TX, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Southern High Plains (SHP)region of Texas in the United States,where coton is grown in a vast acreage, has the potential to grow cellulosic bioenergy crops such as perennial grasses and biomass sorghum (Sorghum bicolor).Evaluation of hydrological responses and biofuel production potential of hypothetical land use change from cotton (Gossypium hirsutum L.) to cellulosic bioenergy crops enables better understanding of the associated key agroecosystem processes and provides for the feasibility assessment of the targeted land use change in the SHP.The Soil and Water Assessment Tool (SWAT) was used to assess the impacts of replacing cotton with perennial Alamo switchgrass (Panicum virgatum L.)，Miscanthus $\\times$ giganteus (Miscanthus sinensis Anderss. [Poaceael),big bluestem (Andropogon gerardii) and annual biomass sorghum on waterbalances,water use effciency and biofuel production potential in the Double Mountain Fork Brazos watershed. Under perennial grass scenarios,the average (1994-2009) annual surface runoff from the entire watershed decreased by $6 { - } 8 \\%$ relative to the baseline cotton scenario. In contrast, surface runoff increased by about $5 \\%$ under the biomass sorghum scenario. Perennial grassland use change scenarios suggested an increase in average annual percolation within a range of $3 \\%$ and maintenance of a higher soil water content during August to April compared to the baseline cotton scenario.About 19.1,11.1,3.2 and $8 . 8 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ of biomass could potentially be produced if cotton area in the watershed would hypothetically be replaced by Miscanthus，switchgrass，big bluestem and biomass sorghum, respectively.Finally，Miscanthus and switchgrass were found to be ideal bioenergy crops for the dryland and irigated systems,respectively，in the study watershed due to their higher wateruse eficiency,better water conservation effects，greater biomass and biofuel production potential，and minimum crop management requirements. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bigusteiouelssossorg,Misntsaridgionildatersetool switchgrass,water balances ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received24 July2015andaccepted19August2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The semi-arid Southern High Plains (SHP) of Texas in the United States is one of the most agriculturally intensive regions in the world.Irrigated agriculture in the SHP depends primarily on groundwater availability in the underlying vast Ogallala aquifer. About $9 7 \\%$ of water withdrawn from the Ogallala aquifer is used for crop irrigation in the SHP (Maupin & Barber，2005). However, groundwater levels in this region are experiencing a continuous decline due to much higher rates ofgroundwater extraction compared to recharge (Chaudhuri & Ale,2014; Rajan et al.,2015). Many pro ducers in this region are facing water shortages due to lower groundwater availability and higher pumping costs (Nair et al.,2013).To extend the life of the Ogallala aquifer and to insure that at least certain percentage (varies with the water district) of currently available groundwater will still be available in 2060,the primary regulatory agencies in the region imposed new rules to limit the allowable annual groundwater pumping for irrigation. For example, the High Plains Underground Water Conservation District (http://www.hpwd.org/) sets the pumping limit for 2015 at $4 6 ~ \\mathrm { c m }$ (HPUWCD, 2015). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The major crop grown in the SHP region is cotton, and this region produced approximately $1 3 \\%$ of U.S. cotton in 2013 (NASS,2013).The new restrictions on groundwater pumping in the SHP are expected to result in a change in land use from high-water-demanding crops such as cotton and corn to relatively less water demanding crops in the near future (Rajan et al.,2014). The agricultural land in the SHP region has the potential to grow cellulosic bioenergy crops such as perennial grasses and biomass sorghum(Sorghum bicolor) (USDA, 2010),which have higher water use efficiency compared to cotton,and can provide water quality and economic benefits (Rooney et al.,2007; Sarkar et al.，2011; Kiniry etal.，2013;Sarkar & Miller，2014).The United States Department of Agriculture (USDA）has also estimated that about $1 1 . 4 \\%$ of existing croplands and pastures in the southeastern U.S.region，which includes the SHP, will be required for fuel use for meeting the 2022 national cellulosic biofuel target (USDA,2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A potential land use change from croplands to cellulosic bioenergy crops in the SHP may significantly affect regional hydrologic cycle by altering proportions of surface runoff,water yield (the net amount of water that generates from a landscape and contributes to streamflow during a given time interval)，evapotranspiration (ET),soil water content and percolation (the amount of water that percolates below the root zone during a given time). For example,Schilling et al. (2008) found that the land use from cropland to cellulosic bioenergy crop of switchgrass in the Raccoon River watershed in west-central Iowa would increase ET by about $9 \\%$ and decrease water yield by about $2 8 \\%$ .VanLoocke et al. (2010） also reported that the land use conversion from corn (Zea mays $L .$ ）to perennial biofuel grasses would increase ET within a range of $5 0 { \\ - } 1 5 0 \\ \\mathrm { m m \\ y e a r } ^ { - 1 }$ and decrease the drainagewithinarangeof $5 0 -$ $2 5 0 ~ \\mathrm { m m }$ year-1 in the Corn Belt of Midwestern United States.Majority of these biofuel-induced land use change studies focused on the humid regions of the United States such as the Upper Mississippi River Basin of the Corn Belt region (Srinivasan et al., 2010; Demissie et al.2012;Zhuang et al.,2013). Such detailed assessments of hydrological impacts of biofuel-induced land use change are lacking for the arid/semi-arid regions such as the SHP. In addition, no comprehensive assessment of hydrological responses and biofuel production potential of land use change from major row crops such as cotton to various cellulosic bioenergy crops are documented (Sarkar & Miller,2014).Evaluating the hydrologic impacts of land use change from cotton to cellulosic bioenergy crops in the semi-arid SHP is therefore necessary to assess the feasibility of the proposed land use change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The potential for the use of cellulosic crops such as Alamo switchgrass (Panicum virgatum L.)，Miscanthus $\\times$ giganteus (Miscanthus sinensis Anderss. [Poaceael), bigbluestem(Andropogongerardii) andbiomass sorghum as bioenergy crops was studied by several researchers in different parts of the world through field experimentation and modeling (Wright,20o7；Heaton et al.，2008;Jain et al.，2010；Qin et al.，2011，2014; Zhuang etal.,2013;Yimamet al.,2014,2015;Zatta et al., 2014; Oikawa et al.，2015;Zhang et al.，2015a).Alamo switchgrass is a perennial C4 warm-season bunch grass native to North America,and itis found in low,moist areas and prairies of north-central Texas (Diggs et al., 1999).Miscanthus $\\times$ giganteus is a C4 cool-season grass (Heaton et al.，2004，2008)that is native to Southeast Asia (Ohwi,1964)and Africa (Adati & Shiotani,1962). Big bluestem is a C4 warm-season perennial native grass that comprises as much as $80 \\%$ of the plant biomass in prairies in the Midwestern grasslands of North America (Gould & Shaw,1983; Knapp et al.,1998). Biomass sorghum is a photoperiod-sensitive C4 type ligno cellulosic biomass crop that remains in a vegetative growth stage for most of the growing season in subtropical and temperate climates (Rooney et al.,20o7).In this study，Miscanthus $\\times$ giganteus，Alamo switchgrass，big bluestem and biomass sorghum were selected to hypothetically replace the existing cotton land use (baseline). Alamo switchgrass has higher radiation-use efficiency and wateruse efficiency thanKanlow and other switchgrass varieties (Blackwell, Cave-in-Rock,and Shawnee) in the Southern Great Plains (Kiniry et al.，2O13)，and hence,Alamo switchgrass was selected in this study. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several hydrologic models are available for simulating the hydrological impacts of land use change,such asthe Soil andWater Assessment Tool (SWAT;Arnold et al.，1998)，Agricultural Policy/Environmental Extender(APEX)model (Williams,1995),European Hydro logical System Model MIKE SHE (Refsgaard & Storm, 1995)，DRAINMOD (Youssef et al.，2005; Skaggs et al., 2012） and the Agricultural Drainage and Pesticide Transport (ADAPT) model (Gowda et al., 2012). Among these models,the SWAT model has been used widely across the world and it demonstrated potential to satis factorily predict long-term impacts of land use change on hydrologic processes in complex watersheds (Ghaffari et al.,201O; Srinivasan et al.,201O;Wu & Liu,2012; Zatta et al.,2014),and hence, the same model was used in this study.The availability of good quality observed streamflow data is vital for developing a well-calibrated SWAT model for the study watershed.There are only a limited number of USGS gauges in the SHP region and they recorded verylow streamflow in most parts of the year,which posed some challenges for the SWAT model calibration. Several recent studies used crop yield as an auxiliary data for model calibration，as crop yield is directly proportional to ET component of the water balance (Akhavan et al.,2010; Srinivasan et al., 2010; Zhang etal.,2013,2015b;Mittelstet et al.,2015). Thisadditional step in model calibration gives more confidence on the partitioning of water between soil storage, ET and aquiferrecharge (Faramarzi et al.,20o9,201O;Akhavan et al., 2010).Therefore，the SWAT model was calibrated against reported county-level cotton lint yield data in addition to streamflow. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The overall goal of this study was to evaluate the hydrological responses and biofuel production potential ofhypothetical land use change from cotton to cellulosic bioenergy crops including two native perennial grasses, switchgrass and big bluestem; one non-native perennial grass,Miscanthus;and an annual,high potential biofuel crop of biomass sorghum in the Double Mountain Fork Brazos watershed in the SHP using the SWAT model.In the SWAT crop database,big bluestem and biomass sorghum are included as generic crops，and hence，we modeled these two crops as generic crops instead of specific varieties.Specific objectives of the study were to (1） assess the impacts of hypothetical land use change from cotton to bioenergy crops such as switchgrass, Miscanthus，big bluestem and biomass sorghum on water balances; (2) quantify the potential amount of biofuel production from these cellulosic bioenergy crops and identify appropriate bioenergy crops for the SHP region;and (3） compare and contrast the hydrologic impacts and biofuel production potential of the proposed hypothetical land use changes under irrigated and dryland agricultural systems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materialsandmethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Watershed description ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Double Mountain Fork Brazos watershed (HUC # 120500O4) in the SHP has a total delineated area of about $6 0 0 0 ~ \\mathrm { k m } ^ { 2 }$ .Larger parts of the watershed are located in the counties of Hockley,Lynn, Garza, Scurry,Kent and Stonewall, and some smaller portions in Terry,Lubbock,Dawson,Borden, Fisher and Haskell Counties (Fig.1). The long-term (1981-2010) average annual precipitation across the watershed varies between 457 and $5 5 9 \\ \\mathrm { m m } ,$ and the long-term average annual maximum and minimum temperatures are about $2 3 ^ { \\circ } \\mathrm { C }$ to $2 5 ^ { \\circ } \\mathrm { C }$ and $8 ^ { \\circ } C$ to ${ \\mathrm { 1 0 ^ { \\circ } C } } ,$ respectively. The topography of the watershed is flat,and there is a long history of cotton and winter wheat (Triticum aestivum) cultivation in this watershed. The primary soil types in the watershed are Amarillo sandy loam (fineloamy,mixed，superactive and thermic Aridic Paleustalfs), Acuff sandyclay loam (fine-loamy，mixed,superactive and thermic Aridic Paleustolls)and Olton clay loam(fine,mixed, superactive and thermic Aridic Paleustolls) (Soil Survey Staff, 2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Seven weather stations with daily precipitation and minimumand maximum temperature data exist inside or within a closer distance of the watershed. Although three USGS gauges are located in this watershed, the streamflow data from only two gauges (O8079600,which is denoted as Gauge I and ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "080805o0,which is at the watershed outlet and denoted as Gauge I) were used in this study (Fig.1).Data from the remaining gauge were not used to calibrate the SWAT model as only limited streamflow data pertaining to 1949-1951 period was available for that gauge (O8o80000). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SWATmodel description ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SWAT model is a continuous-time,semidistributed,pro cess-based,river basin scale model (Arnold et al.,2012).A large numberof inputparameters are needed for SWAT to evaluate the effects of land use change on hydrology and water quality. SWAT is operated on a daily time step and is widely proven as a feasible tool to predict the impact of land use and management on water,sediment and agricultural chemical yields in many watersheds (Gassman et al., 2014). The primary model components in SWAT include the pesticide,hydrology and crop growth (Knisel,1980;Leonard et al.,1987;Williams et al., 2008;Wang et al.，2011).Major model inputs are related to hydrography, terrain, land use,soil, tile,weather and management practices (Srinivasan et al.,2010). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study,ArcSWAT(Version 2012.10_2.16 released on 9/9/14) for ArcGIS10.2.2 platform wasused. The SWAT Calibration and Uncertainty Procedure (SWAT-CUP) (Abbaspour etal.,2oo7),a program that has been frequentlyused for sensitivityanalysis,calibration,validation and uncertainty analysis ofSWAT models (Chandra etal.，2014;Vaghefi etal.，2014), was used in this study.Currently,SWAT-CUP 2012 can link Generalized Likelihood Uncertainty Estimation (GLUE;Beven &Binley,1992),Parameter Solution (Van Griensven & Meixner, 2006),Sequential Uncertainty Fitting version-2 (SUFI-2;Abbaspour et al.,20o7) and Markov chain Monte Carlo procedures (Marshall et al.,2004) to SWAT.In this study,SWAT-CUP 2012 SUFI-2 procedure was used to accomplish the model sensitivity analysis,calibration and validation,and estimation of various SWAT parameters related to streamflow. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SWAT model setup ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Digital elevationmodel. The Digital elevationmodel (DEM) of the watershed,with a horizontal resolution of $3 0 \\times 3 0 ~ \\mathrm { m } ,$ was downloaded from the U.S.Geological Survey (http://viewer. nationalmap.gov/viewer/#) and input to the SWAT model. The DEM was used for estimation of watershed topographyrelated parameters for the studywatershed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Land use，soils and slope.The 2oo8 National Agricultural StatisticsService(NASS) CroplandDatalayer(CDL) (http://nassgeodata.gmu.edu/CropScape/) was used as a land use input to the model to appropriately represent the land use condition of the simulated period from 1994 to 2009.The dominant agricultural land uses in the watershed in 2oo8 were cotton and winter wheat,which occupied about $30 \\%$ and $2 \\%$ of the watershed area (Fig.2).About $4 1 \\%$ and $2 1 \\%$ of the watershed area were covered by range brush and range grass, respectively.The data of finer-scale soils from the Soil Survey Geographic Database (SSURGO)(Soil Survey Staff，2014), which was compatible to ArcSWAT 2012，were used.The watershed was classified into four groups according to soil slope: $\\leq 1 \\%$ $1 \\% - 3 \\%$ $3 \\% - 5 \\%$ and $> 5 \\%$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/feebd19013d1a51bac6df4ad18a4bebbc62d46a9d1d80aefb7af6667edd28e8b.jpg",
+        "img_caption": [
+            "Fig.1 Location of the study watershed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hydrologic response units.The hydrologic response units (HRUs) are the basic building blocksof the SWAT model, from which all landscape processes are computed. The HRUs consist of homogeneous land use,soil characteristics and soil slope. For the HRU definition,thresholds of $5 \\%$ 1 $5 \\%$ and $10 \\%$ were used for land use,soil type and slope,respectively.The numberof sub-basinsandHRUsidentified for thiswatershedwas 60 and 2160,respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Weather.Daily weather data were obtained from the National Climatic Data Center (NCDC) for the period from 1992 to 2009 (NOAA-NCDC,2014) and used in this study.Data from a total of seven weather stations,which were located either inside or within a closer distance of the study watershed,were used (Fig.1).These weather stations were very well distributed spatially across the watershed.The missing precipitation，maximum temperature and minimum temperature data for a weather station were manually filled with the average value of weatherparameter for two adjacent weather stations (Ale et al., 2009). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Management practices of crops.Crop management related parameters for two dominant row crops,cotton and winter wheat,were set at appropriate values observed in the study area based on published reports,local expertise and web resources.The management parameters for other land uses were mostly kept at their default values. In this study, management practices in the SWAT model were scheduled by date. Generic spring plowing and generic fall plowing,which were widely adopted tillage practices in this watershed,were used in cotton and winterwheat growing areas，respectively (Table 1).About 300 and $1 5 0 ~ \\mathrm { k g ~ h a } ^ { - 1 }$ of urea were applied to the irrigated and dryland cotton HRUs,respectively.About $1 0 8 ~ \\mathrm { { k g } ~ h a ^ { - 1 } }$ of urea was used for the winter wheat,which was grown under dryland systems.According to the published county-wise cotton acreage estimates over the period from 1994 to 2009 (NASS,2014),about $3 9 \\%$ of the cotton acreage in the watershed was irrigated.In this study，auto-irrigation was therefore simulated in an appropriate number of cotton HRUs so that about $3 9 \\%$ of cotton acres in the watershed were irrigated.The auto-irrigation operation applied water whenever $10 \\%$ reduction in plant growth occurred due to water stress (Table 1).Shallow aquifer was assigned as the source of irrigation water for the irrigated sub-basins. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c83e2519464538ace40047915dfaa3122a4349b61569aa6e143ace4a03afb91b.jpg",
+        "img_caption": [
+            "Fig.2 Major land uses in the study watershed. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reservoir.Alan Henry，a big reservoir,exists in the study watershed,and operation parameters for this reservoir were obtained from the Texas Water Development Board's report on Volumetric Survey of Alan Henry reservoir (Texas Water Development Board,2Oo5).The reservoir surface area when the reservoir was filled to the emergency and principal spillways was about 1215 and $1 1 0 9 { \\mathrm { ~ h a } } ,$ respectively.Volume of water needed to fill the reservoir to the emergency and principal spillwayswasestimatedas $1 2 6 8 8 . 3 \\times 1 0 ^ { 4 }$ and $1 1 6 9 4 . 4 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 3 } ,$ respectively.Average value of initial reservoir volume was taken as $4 8 8 2 . 1 \\times 1 0 ^ { 4 } ~ \\mathrm { m } ^ { 3 } ,$ ，which was calculated based on the reservoir storage level records of the USGS gauge O8079700.Although the reservoir was operated from 1994，continuous daily reservoir release data were available only from 1997 to 2003.A relationship between the reservoir releases and annual rainfall was established based on the observed data for the 1997-2003 period，and the developed relationship was used to fill the missing reservoir release data for the 1994-1996 and 2004-2009 periods.Finally, the Measured Daily Outflow'method available in the SWAT model was used to estimate the reservoir discharge based on the reservoir storage levels recorded by the USGS gauge. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Observed streamflow and cotton lint yield. Observed daily streamflow data recorded at Gauges I and II over the time period from 1994 to 2009 were obtained from the USGS National ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Water Information System (http://waterdata.usgs.gov/nwis/ sw).The observed cotton lint yield data (under both dryland and irrigated systems) for the period from 1994 to 2009 for the Lynn County in the study watershed,in which the highest cotton acreage was reported，were obtained from the National Agricultural Statistics Service (NASS) reports (http://quickstats.nass.usda.gov/).However，the SWAT model simulates whole cotton yield (seed cotton yield),which comprises of both cotton seed and lint. To compare with the observed cotton lint yield data obtained from the NASS,the simulated seed cotton yield was converted to lint yield using the following equation: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { l i n t } } = 0 . 3 9 \\times Y _ { \\mathrm { w h o l e } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { \\mathrm { l i n t } }$ is the simulated lint yield $( \\mathrm { M g \\ h a } ^ { - 1 } )$ and $Y _ { \\mathrm { w h o l e } }$ is the simulated seed cotton yield $( \\mathrm { M g \\ h a } ^ { - 1 } )$ .Theconversion factor of O.39 was obtained from the relationship:about $3 4 0 ~ \\mathrm { k g }$ cotton seed is equivalent to $2 1 8 ~ \\mathrm { k g }$ lint (Wanjura et al.,2014). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SWATmodelcalibration ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The streamflow data were divided into two parts,and the data for the 1994-2001 and 2002-2009 periods were used for model calibration and validation,respectively. The SWAT model calibration was performed in three steps.First of all, the sensitive model parameters were identified by performing sensitivity analysis using the SWAT-CUP(Abbaspour et al.，2007;Veith et al.,2010;Arnold et al.,2012).In the second step,auto-calibration was performed using the SUFI-2 procedure available in the SWAT-CUP.During this step,sensitive model parameters wereadjustedwithin $\\pm 1 0 \\%$ range to obtain calibrated parametersfor the studywatershed.Finally,the calibrated parameters were slightly adjusted manually to achieve the best calibrated SWAT model for the watershed.The model was initially calibrated against the observed streamflow data recorded at Gauge I byadjusting the parameters in all sub-basins that contributed flow to Gauge I. The model was then validated against the remaining streamflow data recorded at Gauge I.After achieving a satisfactory calibration of the model for Gauge I,the model was calibrated against the streamflow data recorded at Gauge II.To start with,the calibrated parametervalues that were obtained from model calibration for Gauge Iwere used in all sub-basins between Gauge I and Gauge I,and later, they wereadjustedasneeded to obtaina bettermatch between the simulated and observed streamflow at Gauge II. The model was finally validated based on the remaining streamflow data recorded at Gauge II. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/27b4315e032913d3ae217cebed1001d48b6f2b800f204f207a92dca779406fa4.jpg",
+        "table_caption": [
+            "Table1 Simulated management practices for cotton and winter wheat in SWAT "
+        ],
+        "table_footnote": [
+            "\\*Auto-irrigationwassimulated inappropriateproportionofcottonareabasedoncountycottnirigationacreagesummaryrport. $\\dagger$ The management methods and parameters were based on published reports and local expertise. \\$Heatunits tomaturityforcotonand winter wheat wereestimated usingthe SWAT-PHU program (htp://swat.tamu.edu/soft ware/potential-heat-unit-program/). "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Operations</td><td>Description</td><td>Input data</td></tr><tr><td colspan=\"4\">Irrigated cotton</td></tr><tr><td>1</td><td>Tillage parameters (Tillge on April 1)</td><td></td><td></td></tr><tr><td>2</td><td>TILL_ID Fertilizer application parameters (May 1)</td><td>Tillage ID</td><td>Generic spring plowingt</td></tr><tr><td></td><td>FERT_ID</td><td>Fertilizer ID</td><td>Urea</td></tr><tr><td></td><td>FRT_KG</td><td>Amount of fertilizer applied to HRU</td><td>300.7 (kg ha-1)†</td></tr><tr><td>3</td><td>Begin growing season parameters (Planting on May 15)</td><td></td><td>Default</td></tr><tr><td></td><td>Heat units to maturity</td><td></td><td>2354℃-dayt</td></tr><tr><td>4</td><td>Auto-irrigation parameters (Start date: May 15; End date: October 31)</td><td></td><td></td></tr><tr><td></td><td>WSTRS_ID</td><td>Water stress identifier</td><td>Plant water demand</td></tr><tr><td></td><td>IRR_SCA</td><td>Irrigation source</td><td>Shallow aquifer</td></tr><tr><td></td><td></td><td>Water stress threshold</td><td>0.9</td></tr><tr><td></td><td>AUTO_WSTRS</td><td>Irrigation efficiency</td><td>0.80t</td></tr><tr><td>5</td><td>IRR_EFF Harvest and kill parameters (Killon October 31)</td><td></td><td>Default</td></tr><tr><td colspan=\"4\">Dryland cotton</td></tr><tr><td>1</td><td>Tillage parameters (Tillage on April 1)</td><td></td><td></td></tr><tr><td></td><td>TILL_ID</td><td>Tillage ID</td><td>Generic spring plowingt</td></tr><tr><td>2</td><td>Fertilizer application parameters (May 1)</td><td></td><td></td></tr><tr><td></td><td>FERT_ID</td><td>Fertilizer ID</td><td>Urea</td></tr><tr><td></td><td>FRT_KG</td><td>Amount of fertilizer applied to HRU</td><td>150 (kg ha-1)t</td></tr><tr><td>3</td><td>Begin growing season parameters (planting on May 15)</td><td></td><td>Default</td></tr><tr><td></td><td>Heat units to maturity</td><td></td><td>2354℃-dayt</td></tr><tr><td>4</td><td>Harvest and kill parameters (Kill on October 31)</td><td></td><td>Default</td></tr><tr><td colspan=\"4\">Winter wheat</td></tr><tr><td>1</td><td>Tillage parameters (Tillage on October 8)</td><td></td><td></td></tr><tr><td></td><td>TILL_ID</td><td>Tillage ID</td><td>Generic fall plowingt</td></tr><tr><td>2</td><td>Fertilizer application parameters (October 8)</td><td></td><td></td></tr><tr><td></td><td>FERT_ID</td><td>Fertilizer ID</td><td>Urea</td></tr><tr><td></td><td>FRT_KG</td><td>Amount of fertilizer applied to HRU</td><td>108 (kg ha-1)t</td></tr><tr><td>3</td><td>Begin growing season parameters (planting on October 15)</td><td></td><td>Default</td></tr><tr><td></td><td>Heat units to maturity</td><td></td><td>1518C-dayt</td></tr><tr><td>4</td><td>Harvest and Kill parameters (Kill on July 1)</td><td></td><td>Default</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The highly sensitive curve number (CN2) was decreased by $6 . 5 \\%$ for all of the sub-basins that discharged to Gauge I,and it was decreased by $9 \\%$ for other sub-basins to reduce the surface runoff and thereby obtain a good match between the simulated andobserved streamflow in the watershed (Table 2).The available soil water capacity (SOL_AWC) was increased by $10 \\%$ for all sub-basins to further improve the match between the simulated and observed streamflow.The soil evaporation compensation factor(ESCO) wasdecreased froma defaultvalue of 0.95 to 0.855 in order to increase the soil evaporation and adjust crop yield prediction.A base flow recession constant (ALPHA_BF) of ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "0.0765,which was obtained from the base flow filter method (Arnold etal.,1995;Arnold& Allen,1999),wasused. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After achieving a satisfactory streamflow calibration,the model was further calibrated for prediction of cotton lint yield under both irrigated and dryland systems to obtain a good match between the simulated and reported cotton lint yields. Previous SWAT modeling studies that performed crop yield calibration (Hu et al.,2007;Nair et al.,2011;Sarkar etal.,2011; Avila-Carrasco et al.，2012) suggested adjusting the biomass/ energy ratio (BIO_E)and maximum leaf area index(BLAI) to calibrate the SWAT model for crop yield prediction.Among these studies,Sarkar et al. (2011) compared observed and simulated cotton lint yields,and they suggested the parameter ranges of BIO_E (10-2O),BLAI (2-6)and light extinction coefficient (EXT_COEF;0.5-O.8) for calibrating cotton lint yield.Following the procedure of Sarkar et al. (2011),the parameters ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ecf3e601583a7d1eb050ffafbea5fbcce1b8291e9decb1e4aa7b54f3fff0e996.jpg",
+        "table_caption": [
+            "Table 2Default and calibrated values of some important hydrologic and crop parameters in SWAT "
+        ],
+        "table_footnote": [
+            "\\*Curve number decreased by $6 . 5 \\%$ all of the sub-basins that discharged to Gauge Iand decreased by $9 \\%$ for other sub-basins. tObtained frombaseflow filtermethod. "
+        ],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Parameter</td><td>Description</td><td>Default value</td><td>Calibrated value</td><td>Reference</td></tr><tr><td colspan=\"6\">Hydrologic parameters</td></tr><tr><td>1</td><td>ESCO</td><td>Soil evaporation compensation factor</td><td>0.95</td><td>0.855</td><td></td></tr><tr><td>2</td><td>SOL_AWC</td><td>Available soil water capacity (mm HO mm-1 soil)</td><td>0.1-0.17</td><td>Increased by 10%</td><td></td></tr><tr><td>3</td><td>CN2</td><td>Curve number for moisture condition II</td><td>39-84</td><td>Decreased by 6.5% or 9%*</td><td></td></tr><tr><td>4</td><td>ALPHA_BF</td><td>Base flow recession constant</td><td>0.048</td><td>0.0765†</td><td></td></tr><tr><td colspan=\"6\">Dryland cotton parameters</td></tr><tr><td>5</td><td>BIO_E</td><td>Biomass/energy ratio [(kg ha-1)/(MJ m-²)]</td><td>15</td><td>16.8</td><td>Sarkar et al. (2011)</td></tr><tr><td>6</td><td>HVSTI</td><td>Harvest index [(kg ha-1)/(kg ha-1)]</td><td>0.5</td><td>0.49</td><td>Wanjura et al. (2014)</td></tr><tr><td>7</td><td>BLAI</td><td>Max leaf area index (m²/m²)</td><td>4</td><td>4.5</td><td>Sarkar et al. (2011)</td></tr><tr><td colspan=\"6\">Irrigated cotton parameters</td></tr><tr><td>8</td><td>BIO_E</td><td>Biomass/energy ratio [(kg ha-1)/(MJ m-²)]</td><td>15</td><td>19.95</td><td>Sarkar et al. (2011)</td></tr><tr><td>9</td><td>BLAI</td><td>Max leaf area index (m²/m²)</td><td>4</td><td>5.98</td><td>Sarkar et al. (2011)</td></tr><tr><td>10</td><td>EXT_COEF</td><td>Light extinction coefficient</td><td>0.65</td><td>0.78</td><td>Sarkar et al. (2011)</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BIO_E，BLAI and $\\operatorname { E X T \\_ C O E F }$ were adjusted within their reported ranges in this study.For the dryland cotton, $\\mathrm { 8 I O \\_ E }$ and BLAI of the crop database were increased from default values of15 and4 to 16.8 and4.5,respectively (Table2).The harvest index(HVSTI)wasdecreased from O.5 to 0.49based on the reported HVSTI value for the dryland cotton production systems in this region (Wanjura et al.,2014).The BIO_E and BLAI were increased to 19.95 and 5.98,respectively，and EXT_COEF was changed from 0.65 to 0.78 for the irrigated cotton production systems (Table 2).Finally，after achieving a good crop yield calibration, the model performance in streamflow prediction was re-evaluated and necessary minor adjustments to initially calibrated streamflow related parameters weremade. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Eualuating the performance of the SWAT model ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SWAT model performance in streamflow prediction during calibration and validation periods was evaluated using four different statistical measures: square of Pearson's product-mo ment correlation coefficient $( R ^ { 2 } )$ (Legates& McCabe，1999), Nash-Sutcliffe efficiency (NSE)(Nash & Sutcliffe,1970),index ofagreement (d) (Willmott,1981) and percent bias (PBIAS).The model performance in cotton lint yield prediction was assessed using the PBIAS only. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The $R ^ { 2 }$ represents the proportion of total variance in the observed data that can be explained by the model. The $R ^ { 2 }$ ranges from O to 1 with higher values denoting better model performance.The NSE indicates how well the plot of observed vs.simulated values fits on the $1 : 1$ line.It ranges from $- \\infty$ to 1,and the NSE values closer to 1 indicate the better model performance.The $d$ varies from O (no correlation) to 1(perfect fit), and it overcomes the insensitivity of $R ^ { 2 }$ and NSE to differences in the observed and simulated means and variances (Willmott, 1981).The PBIAS varies between $- 1 0 0$ and $\\infty _ { . }$ ，with smaller absolute values closer to O indicating better agreement.In this study,we aimed to achieve NSE, $R ^ { 2 } .$ ， $d$ and PBIAS of $> 0 . 6$ $> 0 . 6 5 , > 0 . 9$ and within $\\pm 1 5 \\%$ ,respectively,during the model calibration and validation periods. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Water use efficiency ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The water use efficiency (WUE; $\\mathrm { \\ k g \\ h a ^ { - 1 } \\ m m ^ { - 1 } } ,$ ofbothdryland and irrigated bioenergy crops was estimated and compared over the model simulation period.The WUE of the dryland systemswas estimated as (Musick et al.,1994;Howell,2001): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW \\mathrm { U E } = { \\frac { B _ { d } } { \\mathrm { E T } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { d }$ is the biomass yield $( \\mathrm { k g \\ h a } ^ { - 1 } \\ \\mathrm { y e a r } ^ { - 1 } ,$ ）under dryland systems,and ET is the evapotranspiration $( \\mathrm { m m \\ y e a r ^ { - 1 } }$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The WUE of irrigated systems (IWUE; $\\mathrm { { k g \\ h a } ^ { - 1 } \\ m m ^ { - 1 } } ,$ was estimated using the following relationship: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I W U E } = \\frac { B _ { i } - B _ { d } } { I }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { i }$ is the biomass yield $( \\mathrm { k g \\ h a } ^ { - 1 } \\ \\mathrm { y e a r } ^ { - 1 } )$ under irrigated systems,and $I$ is the amount of irrigation water application in millimeter per year (Bos,1980). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Scenarioanalysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the scenario analysis, four promising cellulosic bioenergy crops,switchgrass,Miscanthus,big bluestem and biomass sorghum were selected to hypothetically replace cotton. The impacts of these land use changes on water balances over the period from 1994 to 2009 were evaluated.The impacts were assessed both at the watershed scale and only among the HRUs where cotton was grown under baseline condition (hereafter referred as baseline cotton HRUs').In addition,the land use change impactsunderboth irrigated anddryland systems were compared and contrasted. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the scenario analysis,perennial grasses were planted on May 15,1992,and harvested on November 15th of each year to maximize biomass potential (Griffith et al.，2014; Hudiburg et al.,2015).The annual biomass sorghum was planted on June 1st and harvested on October 3lstof each year (Hao et al.,2014) (Table S1).In the baseline cotton HRUs where irrigated cotton was simulated,cellulosic bioenergy crops were also assigned the same irrigation management practices as cotton.For switchgrass and big bluestem,about 270 and $1 8 0 ~ \\mathrm { k g ~ h a ^ { - 1 } }$ of urea was appliedon irrigated and dryland systems,respectively (Yimam et al.,2014).About 320 and $2 1 4 ~ \\mathrm { { k g } ~ h a ^ { - 1 } }$ of urea was applied underirrigated and dryland Miscanthus scenarios,respectively (Lewandowski & Schmidt， 2006; Danalatos et al.， 2007). Approximately 360 and $2 4 0 \\mathrm { \\ k g \\ h a } ^ { - 1 }$ of urea were applied on irrigated and dryland biomass sorghum，respectively (Hao et al.,2014;Yimam et al.,2014)(Table S1).In allhypothetical land use change scenarios, tillage was not simulated.Heat units to maturity for cotton,winter wheat and the cellulosic bioenergycropswere estimated using the SWATPotentialHeatUnit (SWAT-PHU) program (http://swat.tamu.edu/software/pot ential-heat-unit-program/).The values of heat units to maturity of these crops are shown in Table 1 and Table S2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus is an emerging commercial bioenergy crop,and crop growth parameters for this crop are lacking in the SWAT crop database (Ng et al.,201O).We therefore adopted the Miscanthus growth parameters from Trybula et al.(2014）field studyat thePurdueUniversity Water Quality Field Station in northwestern Indiana.Theharvest efficiencyofMiscanthuswas takenas O.7based on Trybula etal.(2014) study.The harvest efficiencyof 0.75 reportedby Trybula et al. (2014) for Shawnee switchgrass was used for Alamo switchgrass and big bluestem in this study.Based on the similarities in physiological characteristics ofMiscanthus and switchgrass，Miscanthuswas assigned the same Soil Conservation Service (SCS) runoff curve numbers as that of switchgrass (Love & Nejadhashemi,2011; Trybula et al.,2014).The default curve number values for the selected bioenergy crops were modified by the same percentage as those for cotton crop (baseline) during the model calibration.The detailed crop growth parameters for the selected cellulosic bioenergy crops are included in Table S2. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SWATcalibrationandualidation ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The simulated monthly streamflow at two USGS gauges during thecalibration (1994-2001） and validation (2002-2009) periods closely matched with the observed streamflow (Figs.S1 and S2).The NSE, $R ^ { 2 }$ 1 $d$ and $P B I A S$ values for monthly predictions of streamflow at Gauge I were 0.78,0.87, 0.95 and $- 6 . 3 \\%$ ,respectively,and those at Gauge II were 0.66, 0.66, 0.88 and $- 4 . 1 \\%$ ,respectively, during the model calibration period，demonstrating a 'very good' to ‘good' agreement between the simulated and observed streamflow according to Moriasi et al. (2007) criteria (Table 3). The model performance in predicting streamflow during the validation period was also in the range of 'good' (based on the NSE and PBIAS of 0.66 and $1 0 . 8 \\%$ for Gauge II) to ‘satisfactory' (based on the NSE and PBIAS of $0 . 5 9$ and $- 6 . 4 \\%$ for Gauge I) according to Moriasi et al.(2007) criteria. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lower NSE value for the Gauge I during the validation period was mainly due to an overprediction of streamflow in November 2oo4 and an underprediction in October 2006 (Fig. S1b).Accurate prediction of streamflow by the SWAT model during wet (high rainfall)periods such as those in November 2004 in this study was particularly challenging due to the use of the SCS runoff curve number method,and this limitation of the model (Garen & Moore，2005;White et al.,2009; Rathjens et al., 2015) might have caused the poor predictions in that month at Gauge I. The under prediction of streamflow in October 2006 at Gauge I was most probably due to differences in precipitation data input to the model and the actual precipitation that occurred within the catchment of Gauge I (Fig. S1b).Although the pre cipitation recorded at three rain gauges within the area of influence of the Gauge I on October 15 and 16,2006, was $< 3 0 ~ \\mathrm { m m } ,$ ，the observed streamflow on the above dates was 76 and $5 0 ~ \\mathrm { m m }$ ,respectively,indicating potential errors in precipitation input. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cotton lint yield comparison ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After calibrating for streamflow prediction,the SWAT model was calibrated for cotton lint yield prediction in the Lynn County. Results showed that the average PBIAS in predicting dryland cotton lint yield over the calibration and validation periods was $- 2 . 6 \\%$ and ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/21cb5568fbbc3c5b01f6b32d361177b80d2f43aa2b3abe723118b2a9e1b30459.jpg",
+        "table_caption": [
+            "[able 3Monthly statistical parameters for the model streamflow calibration and validation on two USGS gauges "
+        ],
+        "table_footnote": [
+            "\\*General model performance ratings suggested by Moriasi et al. (20o7)for monthly predictions of streamflow. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\">Gauge I</td><td colspan=\"2\">Gauge II</td></tr><tr><td>Time scale</td><td>Calibration (1994-2001)</td><td>Validation (2002-2009)</td><td>Calibration (1994-2001)</td><td>Validation (2002-2009)</td></tr><tr><td>Nash-Sutcliffe efficiency</td><td>0.78 (Very good*)</td><td>0.59 (Satisfactory)</td><td>0.66 (Good)</td><td>0.66 (Good)</td></tr><tr><td>R²</td><td>0.87</td><td>0.69</td><td>0.66</td><td>0.72</td></tr><tr><td>Index of agreement</td><td>0.95</td><td>0.90</td><td>0.88</td><td>0.92</td></tr><tr><td>Percent bias (%)</td><td>-6.3 (Very good)</td><td>-6.4 (Very good)</td><td>-4.1 (Very good)</td><td>10.8 (Good)</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$2 . 4 \\%$ ，respectively,and the PBIAS over the entire time period (1994-2009） was $0 . 4 \\% ,$ indicating a good match between the simulated and observed cotton lint yields (Table 4). In case of irrigated cotton, the average PBIAS in yield prediction was $1 2 . 7 \\%$ and $- 1 4 . 5 \\%$ during the calibration and validation periods,respectively，representing a satisfactory agreement between the simulated and observed cotton lint yields.However，the model hugely overpredicted cotton lint yield under irrigated systems in 1998,which was an extremely dry year (annual rainfall about $3 0 0 ~ \\mathrm { { m m } , }$ .The auto-irrigation option used in this study，which did not consider actual availabilityof irrigation waterina dryyear,led to this overprediction of cotton lint yield under irrigated systems. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2523a7d71d8db4cad16412a323be30cae86281ef24b0a8ab5c4cc0e6b8c12e57.jpg",
+        "table_caption": [
+            "Table 4 Comparison of cotton lint yield for Lynn County$( \\mathrm { M g \\ h a } ^ { - 1 } )$ （204号"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">(Mgna</td></tr><tr><td>Years</td><td>Simulated</td><td>Observed</td><td>PBIAS</td></tr><tr><td></td><td>lint yield</td><td>lint yield</td><td>(%)</td></tr><tr><td>Dryland cotton</td><td></td><td></td><td></td></tr><tr><td>1994</td><td>0.27</td><td>0.25</td><td>8</td></tr><tr><td>1995</td><td>0.09</td><td>0.18</td><td>-51</td></tr><tr><td>1996</td><td>0.32</td><td>0.39</td><td>-20</td></tr><tr><td>1997</td><td>0.22</td><td>0.32</td><td>-33</td></tr><tr><td>1998</td><td>0.37</td><td>0.37</td><td>1</td></tr><tr><td>1999</td><td>0.45</td><td>0.38</td><td>20</td></tr><tr><td>2000</td><td>0.36</td><td>0.23</td><td>58</td></tr><tr><td>2001</td><td>0.19</td><td>0.20</td><td>-8</td></tr><tr><td>Average for calibration period</td><td>0.28</td><td>0.29</td><td>-2.6</td></tr><tr><td>2002</td><td>0.28</td><td>0.27</td><td>5</td></tr><tr><td>2003</td><td>0.27</td><td>0.26</td><td>2</td></tr><tr><td>2004</td><td>0.47</td><td>0.58</td><td>-18</td></tr><tr><td>2005</td><td>0.71</td><td>0.70</td><td>1</td></tr><tr><td>2006</td><td>0.57</td><td>0.33</td><td>75</td></tr><tr><td>2007</td><td>0.61</td><td>0.65</td><td>-6</td></tr><tr><td>2008</td><td>0.24</td><td>0.31</td><td>-22</td></tr><tr><td>2009</td><td>0.43</td><td>0.40</td><td>6</td></tr><tr><td>Average for validation period</td><td>0.45</td><td>0.44</td><td>2.4</td></tr><tr><td>Overall (1994-2009)</td><td>0.37</td><td>0.36</td><td>0.4</td></tr><tr><td>Irrigated cotton</td><td></td><td></td><td></td></tr><tr><td>1994 1995</td><td>0.72</td><td>0.71</td><td>2</td></tr><tr><td>1996</td><td>0.32</td><td>0.53</td><td>-39</td></tr><tr><td>1997</td><td>0.56</td><td>0.62</td><td>-9</td></tr><tr><td>1998</td><td>0.33 1.37</td><td>0.55</td><td>-41</td></tr><tr><td>1999</td><td></td><td>0.64</td><td>115</td></tr><tr><td>2000</td><td>0.66</td><td>0.55</td><td>18</td></tr><tr><td>2001</td><td>0.69</td><td>0.50</td><td>40</td></tr><tr><td></td><td>0.63</td><td>0.60</td><td>6</td></tr><tr><td>Average for calibration period 2002</td><td>0.66</td><td>0.59</td><td>12.7</td></tr><tr><td>2003</td><td>0.77</td><td>0.74</td><td>3</td></tr><tr><td>2004</td><td>0.67 0.80</td><td>0.67 0.88</td><td>1 -8</td></tr><tr><td>2005</td><td>1.11</td><td></td><td>6</td></tr><tr><td>2006</td><td></td><td>1.05</td><td></td></tr><tr><td></td><td>1.30</td><td>0.92</td><td>42</td></tr><tr><td>2007</td><td>0.34</td><td>0.96</td><td>-64</td></tr><tr><td>2008</td><td>0.52</td><td>0.88</td><td>-41</td></tr><tr><td>2009</td><td>0.48</td><td>0.92</td><td>-47</td></tr><tr><td>Average for validation period</td><td>0.75</td><td>0.88</td><td>-14.5</td></tr><tr><td>Overall (1994-2009)</td><td>0.71</td><td>0.73</td><td>-3.6</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simulated waterbalancesunder baseline and hypothetical land use change scenarios ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "At the watershed scale,on an average (1994-2009), results showed that about $94 \\%$ of the input water (precipitation $^ +$ irrigation）was lost due to ET (Table 5a). The changes in ET with reference to the baseline cotton scenario were within $\\pm 3 \\%$ under all hypothetical landuse change scenarios.Under perennial grass scenarios, the average annual surface runoff and water yield decreasedbyabout $6 { - } 8 \\%$ and $3 \\%$ ，respectively，when compared to the baseline cotton scenario (Table 5a). However，when cotton was replaced by biomass sorghum，the average annual surface runoff and water yield increased byabout $5 \\%$ and $3 \\%$ ，respectively. Under the hypothetical perennial grass land use change scenarios,average annual percolation increased within a range of $3 \\text{‰}$ ，as compared to the baseline cotton scenario. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The monthly water balance analysis showed that the peak ET occurred in June or July under all land use change scenarios (Fig.3). The monthly surface runoff apparently decreased under perennial grass scenarios during high rainfall months (June,August and September) when compared to the baseline cotton and biomass sorghum scenarios (Fig.4).The reduction in surface runoff under perennial grass scenarios and the decrease in ET during August to October under cellulosic bioenergy crop scenarios as compared to the baseline cotton scenario resulted in a higher soil water content under cellulosic bioenergy crop scenarios from August to April (Fig. 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Among the baseline cotton HRUs， the percent changes in all water balance parameters，except ET, underhypotheticallandusechangescenarios increased substantially (Table 5b). For example,average (1994-2oo9) annual surface runoff under perennial grass scenarios decreased within a range of $7 7 - 9 3 \\%$ compared to the baseline cotton scenario.In the irrigated baseline cotton HRUs,auto-irrigation was used to optimally meet the crop water needs,which highlighted the differences in water requirements of the studied crops.Results showed that Miscanthus required the highest amount of irrigation water among all crops (Table 5c).However, the percent changes in water balances for the irrigated baseline cotton HRUs could be somewhat misleading as the amount of irrigation water applied for the simulated crops was not the same as that applied to cotton under the baseline scenario due to implementation of auto-irrigation (Table 5b,c). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/232fa08eebbd56b9320f00b0f1c80703b6f438350654ae29c4699dff5d26e4b9.jpg",
+        "table_caption": [
+            "Table 5Comparison of the average (1994-209)annual water balance parameters under baseline and hypotheticalland usechange scenarios in the entire watershed and baseline cottonHRUs "
+        ],
+        "table_footnote": [
+            "The numberintheparenthesesisthe percentchange witheachcellulosicbioenergycropscenariorelativetobaselinecottonsenaric "
+        ],
+        "table_body": "<html><body><table><tr><td>Unit (mm)</td><td>Cotton</td><td>Switchgrass</td><td>Miscanthus</td><td>Big bluestem</td><td>Biomass sorghum</td></tr><tr><td colspan=\"6\">(a)Entire watershed</td></tr><tr><td>Precipitation</td><td>520.1</td><td>520.1</td><td>520.1</td><td>520.1</td><td>520.1</td></tr><tr><td>Irrigation</td><td>25.7</td><td>26.5 (3.0*)</td><td>34.0 (17.5)</td><td>16.7 (-35.3)</td><td>11.9 (-53.8)</td></tr><tr><td>Evapotranspiration</td><td>515.7</td><td>516.4 (0.1)</td><td>518.3 (0.5)</td><td>507.1 (-1.7)</td><td>501.0 (-2.9)</td></tr><tr><td>Surface runoff</td><td>11.2</td><td>10.4 (-7.3)</td><td>10.5 (-6.3)</td><td>10.4 (-7.8)</td><td>11.8 (4.9)</td></tr><tr><td>Percolation</td><td>10.5</td><td>11.4 (8.7)</td><td>12.8 (22.2)</td><td>10.8 (2.8)</td><td>10.6 (0.9)</td></tr><tr><td>Water yield</td><td>21.1</td><td>20.3 (-3.6)</td><td>20.5 (-2.6)</td><td>20.2 (-4.0)</td><td>21.6 (2.6)</td></tr><tr><td colspan=\"6\">(b) Baseline cotton HRUs (irrigated and dryland combined)</td></tr><tr><td>Precipitation</td><td>497.2</td><td>497.2</td><td>497.2</td><td>497.2</td><td>497.2</td></tr><tr><td>Irrigation</td><td>82.9</td><td>85.4 (3.0)</td><td>97.4 (17.5)</td><td>53.6 (-35.3)</td><td>38.2 (-53.8)</td></tr><tr><td>Evapotranspiration</td><td>575.3</td><td>577.5 (0.4)</td><td>583.7 (1.5)</td><td>547.7 (-4.8)</td><td>528.0 (-8.2)</td></tr><tr><td>Surface runoff</td><td>3.0</td><td>0.4 (-88)</td><td>0.7 (-77)</td><td>0.20 (-93)</td><td>4.8 (59)</td></tr><tr><td>Percolation</td><td>0.003</td><td>2.9</td><td>7.5</td><td>1.0</td><td>0.30</td></tr><tr><td>Water yield</td><td>3.7</td><td>1.3 (-65)</td><td>1.9 (-47)</td><td>0.9 (-75)</td><td>5.4 (48)</td></tr><tr><td colspan=\"6\">(c) Baseline irrigated cotton HRUs</td></tr><tr><td>Precipitation</td><td>483.7</td><td>483.7</td><td>483.7</td><td>483.7</td><td>483.7</td></tr><tr><td>Irrigation</td><td>276.0</td><td>284.3 (3.0)</td><td>324.3 (17.5)</td><td>178.5 (-35.3)</td><td>127.1 (-53.8)</td></tr><tr><td>Evapotranspiration</td><td>754.0</td><td>759.9 (0.8)</td><td>790.6 (4.9)</td><td>658.2 (-12.7)</td><td>602.2 (-20.1)</td></tr><tr><td>Surface runoff</td><td>3.4</td><td>0.55 (-84)</td><td>0.9 (-74)</td><td>0.2 (-94)</td><td>5.8 (70)</td></tr><tr><td>Percolation</td><td>0.001</td><td>6.7</td><td>14.6</td><td>2.1</td><td>0.59</td></tr><tr><td>Water yield</td><td>4.6</td><td>2.2 (-52)</td><td>3.1(-32)</td><td>1.4 (-70)</td><td>6.8 (47)</td></tr><tr><td colspan=\"6\">(d) Baseline dryland cotton HRUs</td></tr><tr><td>Precipitation</td><td>502.9</td><td>502.9</td><td>502.9</td><td>502.9</td><td>502.9</td></tr><tr><td>Evapotranspiration</td><td>498.5</td><td>499.1 (0.1)</td><td>494.9 (-0.7)</td><td>500.2 (0.3)</td><td>496.1 (-0.5)</td></tr><tr><td>Surface runoff</td><td>2.81</td><td>0.27 (-90)</td><td>0.62 (-78)</td><td>0.20 (-93)</td><td>4.3 (54)</td></tr><tr><td>Percolation</td><td>0.004</td><td>1.3</td><td>4.5</td><td>0.5</td><td>0.17</td></tr><tr><td>Water yield</td><td>3.3</td><td>0.9 (-74)</td><td>1.4 (-57)</td><td>0.7 (-78)</td><td>4.8 (48)</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The water balance assessments within the dryland baseline cotton HRUs (Table 5d) represented appropriate comparison of scenarios as precipitation，which was the same for all scenarios,was the only source of input water.The average (1994-2009) annual ET within the dryland baseline cotton HRUs was nearly the same under all scenarios (Table 5d). The average annual surface runoff was almost negligible under perennial grass scenarios,but it increased from $2 . 8 ~ \\mathrm { m m }$ under the base line cotton scenario to $4 . 3 ~ \\mathrm { m m }$ under the biomass sorghum scenario (a $5 4 \\%$ increase).When compared to the baseline cotton scenario,thereisaconsiderable increase in average annual percolation and average monthly soil water content during August to April under different cellulosic bioenergy crop scenarios (Table 5d; Fig. 5c). Thisisavery important finding from this study in view of depleting groundwater levels in the Ogallala aquifer. It is expected that most of the currently irrigated lands in the SHP could eventually be converted into drylands in the future,and replacing cotton with bioenergy crops under those circumstances could therefore not only improve soil water content,but also contribute to groundwater recharge. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The simulated emergence of perennial grasses in the study watershed began around April.This is in consistence with Yimam et al. (2015),who reported that the emergence ofswitchgrassoccurredbetween midMarch and mid-April in a field experiment at Stillwater in Oklahoma.VanLoocke et al.(201O) also reported that perennial crops emergence in mid- to late April in the Midwestern United States,about a month earlier than most annual crops.Monthly water balance analysis in the dryland baseline cotton HRUs indicated that the peak ET occurred one month early under the perennial grass scenarios when compared to the baseline cotton and biomass sorghum scenarios (Fig.3c). The ET in irrigated baseline cotton HRUs during June to August was almost twice of that in the dryland baseline cotton HRUs (Fig.3b and c).There wasa negligible generation of surface runoff under perennial grass scenarios (Fig. 4b and c).The lowest soil water content under perennial grass scenarios was simulated one month earlier when compared to the baseline cotton scenario (Fig.5b and c).This was associated with the early occurrence of peak ET under perennial grass scenarios by one month relative to the baseline cotton scenario. Clearly,higher soil water storage was simu lated in the irrigated baseline cotton HRUs during the whole year when compared to the dryland baseline cotton HRUs due to the application of irrigation water (Fig. 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d4d53181385d4103d75329be3f8fd970a55f196a46da2832d37886d91a4715b.jpg",
+        "img_caption": [
+            "Fig.3Average(1994-209)monthlyvariabilityof evapotranspirationunderentirewatershedandirigatedanddrylandbaseline cotton hydrologic response units (HRUs). "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/79014f2ffc7cf31eaad7a26fe1a667d0fcfad55a6ff60a26e406e8681138ad5e.jpg",
+        "img_caption": [
+            "Fig.4Average(1994-29)monthlyvariabiltyofsurfacerunoffunderentire watershedandirrigatedanddrylandbaselinecotor hydrologic response units (HRUs). "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/31c646f8907a0162f9fd1ffe4b46ba76c764908804f672f2031422fedab66adc.jpg",
+        "img_caption": [
+            "Fig.5Average(1994-209)monthlyvariabilityofsoil watercontentunderentirewatershedandirigatedanddrylandbaselinecot ton hydrologic response units (HRUs). "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Biomassandbiofuel productionpotential and wateruse efficiency ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The simulated average (1994-2009) annual harvestable biomass under Miscanthus，switchgrass，big bluestem and biomass sorghum scenarios was 19.1,11.1,3.2 and $8 . 8 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ ， respectively, when both irrigated and dryland baseline cotton HRUs were combined (Table 6).It is worth noting that the simulated biomass production under the irrigated systems was higher by about ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/751c0ad3dbdd3854c4623ae443d7fad4f51fd1e7c310e015359d218a1db5d86e.jpg",
+        "table_caption": [
+            "Table6Average(19940)anualbiomassandbiofuelproduction,andwateruseeficiencyofswitchgass,Miscatusgblue stem and biomass sorghum under hypothetical land use change scenarios "
+        ],
+        "table_footnote": [
+            "\\*Based on current biofuel conversion efficiency of 282 L ethanol $\\mathrm { M g ^ { - 1 } }$ biomass (Lynd et al.,2008; Fargione et al.,2010). "
+        ],
+        "table_body": "<html><body><table><tr><td>Average value</td><td>Switchgrass</td><td>Miscanthus</td><td>Big bluestem</td><td>Biomass sorghum</td></tr><tr><td colspan=\"5\">BaselinecottonHRUs(irrigated and dryland combined)</td></tr><tr><td>Biomass production (Mg ha-1)</td><td>11.1</td><td>19.1</td><td>3.2</td><td>8.8</td></tr><tr><td>Biofuel production* (liter ethanol ha-1)</td><td>3123</td><td>5374</td><td>896</td><td>2482</td></tr><tr><td colspan=\"5\">BaselineirrigatedcottonHRUs</td></tr><tr><td>Biomass production (Mg ha-1)</td><td>17.5</td><td>27.1</td><td>4.2</td><td>11.6</td></tr><tr><td>Biofuel production (liter ethanol ha-1)</td><td>4931</td><td>7548</td><td>1170</td><td>3271</td></tr><tr><td>Irrigated water use efficiency (kg ha-1 mm-1)</td><td>32.2</td><td>35.5</td><td>7.8</td><td>31.5</td></tr><tr><td colspan=\"5\">Baseline dryland cotton HRUs</td></tr><tr><td>Biomass production (Mg ha-1)</td><td>8.3</td><td>15.6</td><td>2.8</td><td>7.6</td></tr><tr><td>Biofuel production (liter ethanol ha-1)</td><td>2347</td><td>4398</td><td>778</td><td>2143</td></tr><tr><td>water use efficiency (kg ha-1 mm-1)</td><td>16.7</td><td>31.5</td><td>5.5</td><td>15.3</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$5 0 \\mathrm { - } 1 1 1 \\%$ when compared to the dryland systems (Table 6). Based on current biofuel conversion efficiency of $2 8 2 \\mathrm { ~ L ~ }$ ethanol $ { \\mathrm { M g } } ^ { - 1 }$ biomass (Lynd et al.，2008;Fargione et al.,201O),Miscanthus and switchgrass exhibited superior ethanol production potential compared to biomass sorghum and big bluestem under both irrigated and dryland systems (Table 6). The estimated average annual quantity of ethanol that could be produced with the simulated biomass of Miscanthus，switchgrass,big bluestem and biomass sorghum was 7548，4931，1170 and $3 2 7 1 ~ \\mathrm { L } \\mathrm { \\ h a } ^ { - 1 }$ ， respectively， under the irrigated systems,and 4398,2347,778 and $2 1 4 3 \\mathrm { \\ L \\ h a } ^ { - 1 } .$ respectively, under the dryland systems (Table 6). The simulated WUEs under the dryland Miscanthus，switchgrass,big bluestem and biomass sorghum scenarios were 32,17,6 and $1 5 ~ \\mathrm { { k g } ~ h a } ^ { - 1 } ~ \\mathrm { { m m } ^ { - 1 } , }$ respectively (Table 6). The simulated IWUEs ranged from 8 to $3 \\dot { 6 } ~ \\mathrm { k g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { m m } ^ { - 1 }$ with thehighest IWUE simulated under Miscanthus scenario （20 $( 3 6 ~ \\mathrm { k g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { m m } ^ { - 1 } )$ ，followed by switchgrass scenario $( 3 2 ~ \\mathrm { k g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { m m } ^ { - 1 } ,$ ） ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Evaluationof SWATmodel performance ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "For the hydrologic model evaluations performed on a monthly time step,Moriasi et al. (2007) proposed that NSE values should exceed 0.5,0.65 and 0.75,and PBIAS should be within $\\pm 2 5 \\%$ 1 $\\pm 1 5 \\%$ and $\\pm 1 0 \\%$ in order for model performance to be judged as ‘satisfactory','good and ‘very good',respectively. According to this criteria, the model performance in this study was between ‘very good'and ‘good'during the calibration period and was between ‘satisfactory'and‘good'during the validation period (Table 3).Harmel et al. (2014) recommended considering the model's intended use while evaluating the model performance.As this study mainly focused on assessing the influence of land use change on watershed hydrology on a monthly or annual basis,achieving good model performance on a monthly time step was consideredasacceptable touse thecalibrated SWATmodel for scenario analysis.Comparison of the predicted cotton lint yields with the NASS-reported county-wise yields within the study watershed under both dryland and irrigated systems indicated that they both matched well (Table 4), and thisadditional evaluation further enhanced confidence in the calibrated model. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study,high interannual variability in PBIAS in cotton lint yield prediction existed in some years (Table 4).The long-term observed cotton lint yields used in this study were available at the county level (NASS).However,the SWAT model simulated cotton lint yields at the sub-basin/HRU level,and hence, simulated yields might not have spatially represented the observed county-wise yields very well.Also, the SWAT model was setup with 20o8 NASS-CDL land use in this study,and it was assumed that the cotton planting area was the same during the whole simulation period.The crop growth algorithm of the SWAT model is also not capable of taking into account the genetic improvements of crops in the long-term predictions.In addition,the use of auto-irrigation option provided more timely and adequate water for cotton growth,but in reality,waterlimiting conditions might have existed for cotton production in the study watershed.For example, the year 1998 was a very dry year with an annual precipitation of $3 0 0 \\ \\mathrm { m m } ,$ and hence，observed cotton lint yield was about $0 . 6 4 ~ \\mathrm { ~ M g ~ h a } ^ { - 1 }$ . However，because of autoirrigation and non-water-limiting conditions, more irrigation water was applied in that year，which has resulted in a very high simulated yield of $1 . 3 7 \\mathrm { M g } \\mathrm { h a } ^ { - 1 } .$ and a huge PBIAS of $1 1 5 \\%$ . Several of the aforementioned reasons might have led to high interannual variability in PBIAS in this study. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hydrological responsesof hypothetical land use change scenarios ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "An important factor for environmental evaluation of land use change is the assessment of associated hydrological responses. In this study, changes in hydrological fluxes of ET,surface runoff, soil water content, percolation and water yield under various hypothetical landuse change scenarios were studied. The dominant component of the water balance in the study watershed is the water lost through ET,which accounted for about $9 4 \\%$ of the input water (precipitation $^ +$ irrigation). This is comparable with the ET losses from biomass sorghum production systems in the Texas High Plains reported in Hao et al. (2014),which stated that more than $90 \\%$ of the growing season precipitation was lost as growing season ET. The crop available water in this semi-arid study watershed is very limited because of low annual precipitation $\\cdot 5 2 0 ~ \\mathrm { m m } )$ . In general, crop ET under the irrigated systems was higher than that under the dryland systems because of the much higher annual potential ET of $1 7 0 0 ~ \\mathrm { m m }$ (as estimated by the SWAT model) than the highest total input water in this region (e.g. $8 0 8 ~ \\mathrm { { m m } }$ under irrigated Miscanthus scenario).For example,the ET of Miscanthus under the irrigated systems was higher by about $6 0 \\%$ when compared to Miscanthus under the dryland systems (Table 5c,d).Miscanthus requires more irrigation water than cotton [16-year average irrigation amount of $3 2 4 ~ \\mathrm { m m }$ (Miscanthus） vs. $2 7 6 ~ \\mathrm { m m }$ (cotton)]. Higher water requirement and larger biomass production potential of Miscanthus (Heaton et al.,2Oo4) explained the apparent increase in ET under the irrigated Miscanthus scenario when compared to the irrigated baseline cotton scenario (Table 5c). However, the irrigation water requirement of switchgrass，big bluestem and biomass sorghum were similar to or less than that of cotton (baseline scenario) (Table 5c).Therefore,there is a potential for maintaining or reducing groundwater withdrawals from the Ogallala Aquifer when irrigated cotton is replaced by switchgrass， big bluestem and biomass sorghum. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Assessment of water balances among the dryland baseline cotton HRUs represents a more appropriate comparison of scenarios as it eliminates differential amounts of irrigation water simulated for the studied crops due to the implementation of auto-irrigation. Within the dryland baseline cotton HRUs,crop ET values of all simulated bioenergy crops were almost the same as that of cotton,and it accounted forabout $9 8 \\%$ of annual rainfall (Table 5; Fig. 3c). The surface runoff and water yield were apparently reduced within a range of $78 – 9 3 \\%$ and $5 7 \\mathrm { - } 7 8 \\%$ ,respectively,underperennial grass scenarios compared to the baseline cotton scenario (Table 5d).More importantly，the peak surface runoff in high rainfall months of May, June,August and September decreased by a huge proportion under the perennial grass scenarios (Fig. 4).In contrast, the surfacerunoffandwater yield increasedbyabout $5 4 \\%$ and $4 8 \\%$ ，respectively，under the biomass sorghum scenario when compared to the baseline cotton scenario (Table 5d).The higher biomass density and lower surface runoff potential (average calibrated curve number of 54.4) of the perennial grasses as compared to cotton (average calibrated curve number of 71.O) contributed to the reduction in surface runoff and water yield.Le et al. (2011)also found that land use change from maize to Miscanthus and switchgrass decreased the surface runoff by 24 and $6 ~ \\mathrm { m m } ,$ ，respectively,in the Midwestern United States.In the case of biomass sorghum scenario, shorter growing period and lesser ground cover after harvest compared to cotton contributed to higher surface runoff (16-year average surface runoff of $4 . 3 ~ \\mathrm { m m }$ (biomass sorghum) vs. $2 . 8 ~ \\mathrm { m m }$ (cotton),a $5 4 \\%$ increase) and water yield (16-year average water yield of $4 . 8 ~ \\mathrm { m m }$ (biomass sorghum) vs. $3 . 3 ~ \\mathrm { m m }$ (cotton),a $4 8 \\%$ increase). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Results have also showed that the average annual percolation increased considerably under the perennial grass land use change scenarios relative to the baseline cotton scenario (Table 5d).The monthly soil water content was higher under perennial grass scenarios compared to the baseline cotton scenario during August to April (Fig. 5c).Reduction in surface runoff was the dominant factor responsible for the increase in soil water content and percolation under perennial grass scenarios.However，the simulated monthly soil water content under the dryland Miscanthus scenario was lesser than thatunder the dryland baseline cotton scenario during the period from May to July (Fig. 5c). Some pub lished studies from the Midwestern United States have also reported reductions in soil water content under Miscanthus due to the higher simulated ET when compared to corn (VanLoocke et al.,2010; Le et al.,2011). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Biomassproductionpotentialofselectedcellulosic bioenergy crops ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The simulated average (1994-2009) annual biomass yield was the highest $( 2 7 . 1 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } , \\$ under the irrigated Miscanthus scenario,followed by the irrigated switch grass scenario $( 1 7 . 5 ~ \\mathrm { M g ~ h a } ^ { - 1 } )$ (Fig. 6; Table 6). The simulated Miscanthus biomass yields from this study (27.1 and $1 5 . 6 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ under the irrigated and dryland systems，respectively；Table 6）were within the range of reported yields in the literature $( 5 { - } 4 4 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ ）(Lewandowski et al.，2000;Powelson et al.，2005;Kindred et al.2008)．More specifically，the predicted average annual Miscanthus biomass yield under the dryland sys tems in this study was also within the range of reported ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "35 Combined bioenergy crops 30   \n255 tdtdd Switchgrass Miscanthus Big bluestem Biomass sorghum 199419951996199719981999200020012002 2003200420052006200720082009 35 Irrigated bioenergy crops   \nCuudtud Switchgrass Miscanthus Bigbluestem Biomasssorghum 1994199519961997199819992000200120022003200420052006200720082009 35 Dryland bioenergy crops 30   \n(e dn)sseaoig 25 Switchgrass 20 Miscanthus LLdttbt Bigbluestem Biomasssorghum 199419951996199719981999200020012002200320042005200620072008 2009 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Miscanthus biomass yield $( 9 . 8 – 1 7 . 8 ~ \\mathrm { M g ~ h a } ^ { - 1 } ,$ in thedryland production systems in United Kingdom (U.K.) (Christian et al.,20o8).In addition, the simulated Miscanthus biomass yield under the irrigated systems was consistent with the irrigated Miscanthus biomass yield reported from the field experiments conducted in Portugal $( 2 6 . 9 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ ：Clifton-Brown et al.,2001） and Italy $( 2 7 . 1 ~ \\mathrm { M g } \\ \\mathrm { h a } ^ { - 1 }$ ; Cosentino et al.,2007). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The predicted switchgrass biomass yields in this study were 17.5 and $8 . 3 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ under the irrigated and dryland systems,respectively. The simulated dryland switchgrass biomass yield in this study was within therange ofmeasured biomassyieldsof8.1- $1 6 . 5 ~ \\mathrm { M g ~ h a } ^ { - 1 }$ reported by McLaughlin & Adams (2005) for Dallas,College Station and Stephenville in Texas during the period from 1995 to 2000. The differences in dryland switchgrass biomass yield between this study and that of McLaughlin & Adams (2005) were most probably be due to the differences in average annual precipitation. The study watershed receives much less annual precipitation compared to Dallas, College Station and Stephenville. Ocumpaugh et al.(1998) reported that a single mid-season irrigation event may double switchgrass yieldsin dry years in Texas.The results from the McLaughlin & Adams (2005) study also suggested that switchgrass yields could increase substantially in arid areas by low-frequency irrigation. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Among the simulated bioenergy crops,biomass sorghum generated more surface runoff than others (Table 5).In addition,biomass sorghum requires more management efforts for replanting it every year and for meetingadditional transportationand harvesting requirements (Turhollow et al.，201O).On the other hand,biomass production potential of big bluestem was much lower compared to that of Miscanthus and switchgrass (Fig. 6; Table 6).It was interesting to note that the simulated biomass yield under drylandMiscanthuswas nearly the same as that of irrigated switchgrass.In addition,Miscanthus showed the highest WUE among all rainfed land use change scenarios.This indicated that Miscanthus is a good bioenergy crop choice for large areas of dryland crop production systems in the study region. On the other hand, switchgrass recorded the second highest IWUE under the irrigated land use change scenarios.Furthermore，irrigated switchgrass demonstrated greater potential for effective water conservation when compared to the irrigated Miscanthus. Due to higher WUE/IWUE,better potential for water conservation，greater biomass and biofuel production potential, and minimum crop management, Miscanthus andswitchgrasswere therefore found to be ideal bioen ergy crops for the dryland and irrigated systems in the study watershed,respectively. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "This material is based upon work that is supported by the National Institute of Food and Agriculture,U.S.Department of Agriculture， under award number NIFA-2012-67009-19595. Anyopinions，findings，conclusionsorrecommendations expressed in this publication are those of the author(s) and do notnecessarilyreflect the view of theU.S.Department of Agriculture.We gratefully thank the two anonymous reviewers for their valuable suggestions for improving this manuscript. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Abbaspour KC,Vejdani M, Haghighat S (2007) SWAT-CUP calibration and uncertaintyprograms for SWAT.In Proc.Intl.Congress on Modelling and Simulation (MODSIM'07). (eds Oxley L,Kulasiri D),pp.1603-1609.Modelling and Simulation Society of Australia and New Zealand,Melbourne,Australia.   \nAdati S, Shiotani I(1962) The cytotaxonomy of the genus Miscanthus and its phylogeneticstatus.Bulltinof theFaculty ofAgriculture,MieUniversity,25,-24.   \nAkhavan S,Abedi-Koupai J,Mousavi SF,Afyuni M, Eslamian SS,Abbaspour KC (2010)Application of SWAT model to investigate nitrate leaching in HamadanBahar Watershed,Iran.Agriculture,Ecosystems and Enironment,39,675-688.   \nAle S,Bowling LC,Brouder SM,Frankenberger JR,Youssef MA (2O09) Simulated effect of drainage water management operational strategy on hydrology and crop yield for Drummer soil in theMidwestern United States.Agricultural Water Management,96,653-665.   \nArnold JG,Allen PM (1999) Automated methods for estimating baseflow and ground water recharge from streamflow records. Journal of the American Water ResourcesAssociation,35,411-424.   \nArnold JG,Allen PM,Muttiah R, Bernhardt G (1995) Automated base flow separation and recession analysis techniques. Ground Water,33, 1010-1018.   \nArnold JG,Srinivasan R,Mutiah RS,Williams JR (1998) Large-area hydrologic modelingand assessment:Part I.Model development. Journal of the American Water Resources Association,34,7-89.   \nArnold JG,Moriasi DN,Gassman PW et al. (2012) SWAT: model use,calibration, and validation. Transactions of the ASABE,55,1491-1508.   \nAvila-Carrasco JR,Dävila FM,Moriasi DN et al.(2012) Calibration of SWAT 2009 using crop biomass,evapotranspiration,and deep recharge: calera watershed in Zacatecas,Mexico case study.Journal of Water Resource and Protection,4,439-450.   \nBeven K, Binley A (1992) The future of distributed models-model calibration and uncertainty prediction.Hydrological Processes,6,279-298.   \nBos MG (1980) Irrigation efficiencies at crop production level. ICID Bul,29 18-25,60.   \nChandra P,Patel PL,Porey PD,Gupta ID (2014) Estimation of sediment yield using SWAT model for Upper Tapi basin.ISHJournal of Hydraulic Engineering,20,291- 300.   \nChaudhuri S,Ale S (2014) Long-term (1930-2010) trends in groundwater levels in Texas:influences of soils, landcover and water use.Science of the Total Environment,490,379-390.   \nChristian D,Riche A,Yates N(008)Growth,yieldandmineralcontentof Miscanthus $\\times$ giganteus grown as a biofuel for 14 successive harvests.Industrial Crops and Products,28,20732.   \nClifton-Brown JC,LewandowskiI,Andersson B etal. (20o1) Performance of 15 genotypes at five sites in Europe.Agronomy Journal,93,1013-1019.   \nCosentino SL,Patané C,anzone E,CopaniV,Foti S(2o7) Efects ofsoil water ontent and nitrogen supply on the productivity of Miscanthus $\\times$ giganteus Greef et Deu.ina Mediterraneanenvironment.Industrial Crops and Products,25,75-88.   \nDanalatos NG,Archontoulis SV,Mitsios I(2007) Potential growth and biomass productivity of Miscanthus $\\times$ giganteusasaffected byplant density andN-fertilization in central Greece. Biomass and Bioenergy,31,145-152.   \nDemissie Y,Yan E,Wu M (2012) Assessing regional hydrology and water quality implications of large-scale biofuelfeedstock production in the Upper Missisippi River Basin. Environmental Science& Technology,46,9174-9182.   \nDiggs GM,Lipscomb BL,O'Kennon RJ (199)Shinner'sand Mahler's ilustrated flora of north central Texas. Botanical Research Institute of Texas,Fort Worth,TX,USA.   \nFaramarzi M,Abbaspour KC,Schulin R,Yang H (2009) Modeling blue and green water resources availability in Iran.Hydrological Processes,23,486-501.   \nFaramarzi M, Yang H, Schulin R,Abbaspour KC (2010) Modeling wheat yield and crop water productivity in Iran: implications of agricultural water management for wheat production.Agricultural Water Management, 97,1861-1875.   \nFargione J,PlevinRJ,Hill JD (201o) The ecological impact of biofuels.Annual Review of EcologyEoution,ndtemtics,4,.   \nGaren DC,Moore DS (20o5)Curve number hydrology in water quality modeling: uses,abuses,and future directions.Journal of the American Water ResourcesAssociation, 41,377–388.   \nGassman PW,Sadeghi AM,Srinivasan R (2014)Applications of the SWAT model special section: overviewand insights.Journal of nvironmental Quality,43,1-8.   \nGhaffari G, Keesstra S,Ghodousi J,Ahmadi H (2010) SWAT-simulated hydrological impact of land-use change in the Zanjanrood Basin, Northwest Iran.Hydrological Processes,24,92-903.   \nGould FW,Shaw RB (1983) Grass systematics.Brittonia,35,301.   \nGowda PH,Mulla DJ, Desmond ED,Ward AD,Moriasi DN (2012) ADAPT: model use calibration,and validation.Transactions of the ASABE,55,1345-1352.   \nGrifith AP,Haque M,EpplinFM(2014) Cost to produce and deliver cellulosic feedstock to a biorefinery: Switchgrass and foragesorghum.Applied Energy,127,44-54.   \nHao BZ, Xue QW,Bean BW,Rooney WL, Becker JD (2014) Biomassproduction, water and nitrogen use eficiency in photoperiod-sensitive sorghum in the Texas Highlains   \nHarmel RD,Smith PK,Migliaccio KW et al.(2014) Evaluating,interpreting,and communicating performance of hydrologic/water quality models considering intended use:areview and recommendations. Environmental Modeling $\\mathcal { E }$ Software, 57, 40–51.   \nHeatonE,Voigt T,Long SP (2004)A quantitative review comparing the yields of two candidate C-4 perennial biomass crops in relation to nitrogen,temperature and water.omassand Boenergy7,1-30.   \nHeaton EA,Dohleman FG,Long SP (20o8)Meeting US biofuel goals with less land: the potential of Miscanthus.Global Change Biology,14,2000-2014.   \nHowell TA (2oo1)Enhancing water use effciency in irigated agriculture.Agronomy Journal, 93,281-289.   \nHPUWCD (High Plains Underground Water Conservation District) (2015) Available at:http://static1.squarespace.com/static/53286fe5e4b0bbf6a4535d75/t/54db832 6e4b09b0ec42ee6ld/1423672102940/%28RuleExplanationRevised.pdf (accessed 18 July 2014)   \nHu X,McIsaac GF, David MB,Louwers CAL (2O07) Modeling riverine nitrate export from an East-Central illinois watershed using SWAT. Journal of Environmental Quality,36,996-1005.   \nHudiburg TW,Davis SC,Parton W, Delucia EH (2015) Bioenergy crop greenhouse gas mitigation potential under a range of management practices. Global Change Biology Bioenergy,7,6674.   \nJain AK,Khanna M,Erickson M, Huang HX (2010) An integrated biogeochemical and economic analysis of bioenergy crops in the Midwestern United States. Global Change Biologyioenergy,74   \nKindred D,Sylvester-Bradley R, Garstang J, Weightman R, KilpatrickJ(2008)Anticipated and potential improvements in land productivity and increased agricultural inputs with intensification.A study commissioned by AEA Technology as partof the Gallagher biofuels review for Renewable Fuels Agency,Department for Transport.Cambs, UK: ADAS UK Ltd; p.59.   \nKiniry JR,Anderson LC,Johnson MVV et al.(2013) Perennial biomass grasses and the Mason-Dixon line: comparative productivity across latitudes in the Southern GreatPlains.BioEnergy Research,6,76-291. Ecological Research inTalgrassPrairie.Oxford UniversityPress,NewYork,UK.   \nKnisel WG (1980) CREAMS: a field-scale model for chemicals,runoff,and erosion from agricultural management systems. Conservation Research Report No.26. USDA National Resources Conservation Service,Washington, D.C.   \nLe PVV,Kumar P,DrewryDT(2011)Implications for the hydrologiccycle under climate change due to the expansion of bioenergy crops in the Midwestern United States.PNAS,108,15085-15090.   \nLegates DR,McCabe GJJr (1999)Evaluating the use of \"goodness-of-fit\"measures in hydrologicandhydroclimaticodelvalidation.WaterResoucesReseach 233-241.   \nLeonard RA,Knisel WG, Still DA (1987) GLEAMS: groundwater loading effectson agricultural management systems.Transactions of the ASABE,30,1403-1418.   \nLewandowski I Schmidt U(20o6)Nitrogen,energyand landuseeficiencies of miscanthus,reed canary grass and triticale as determined by the boundary line approach.Biomass and Bioenergy,112,335-346.   \nLewandowski I,Clifton-Brown J，Scurlock J，Huisman W (20oo)Miscanthus: European experiencewith anovel energycrop.Biomassand Bioenergy,19,209 227.   \nLove BJ, Nejadhashemi AP (2011) Water quality impact assessment of large-scale biofuel crops expansion in agricultural regions of Michigan. Biomass and Bioenergy,35,2200-2216.   \nLynd LR,Laser MS,Bransby D et al.(2008) How biotech can transform biofuels. Nature Biotechnology,26,169-172.   \nMarshallL,Nott D,Sharma A (2004)A comparative studyof Markov chain Monte Carlo methods for conceptual rainfal-runoff modeling.Water Resources Research 40, W02501.   \nMaupin MA,Barber NL (2oo5) Estimated withdrawals from principal aquifers in the United States,2000.Survey Circular 1279 (US Geological Survey,Reston, VA).   \nMcLaughlin SB,Adams KL (2005) Development of switchgrass (Panicum virgatum) as a bioenergy feedstock in the United States.Biomass and Bioenergy,28,515- 535.   \nMitelstetAR,Storm DE,Stoecker AL (2015) Using SWATand an empirical relationship to simulate crop yields and salinity levels in the North Fork River Basin. International Journal ofAgriculturaland Biological Engineering,8,110-124.   \nMoriasi DN,Arnold JG,Van Liew MW,Binger RL,Harmel RD,Veith T(2007) Model evaluation guidelines for systematic quantification of accuracy in watershed simulations.Transactions of the ASABE,50,885-900.   \nMusick JT, Jones OR,Stewart BA,Dusek DA (1994) Water-yield relationships for irrigated and dryland wheat in the U.S. Southern Plains.Agronomy Journal, 86, 980-986.   \nNair SS,Sujithkumar King KW,Witter JD,Sohngen BL,Fausey NR (2011) Importance of crop yield in calibrating watershed water quality simulation tools. Journal of the American Water Resources Association,47,285-1297.   \nNair S,Maas S,Wang C,Mauget S (2013) Optimal field partitioning for center-pivotirrigatedcotton inthe TexasHighPlains.Agronomy Journal,1o5,124-133.   \nNash JE, Sutcliffe JV (197o) River flow forecasting through conceptual models,Part I-adiscussion of principles.Journal of Hydrology,10,282-290.   \nNASS (National Agricultural Statistics Service) Quick stats of cotton planting area (2013，2014)htp://www.nass.usda.gov/Quick_Stats/Lite/#E0B0B59C-D3B5- 38B3- B2DB-D7875C90B937, (accessed 5 August 2014).   \nNg TZ,Eheart JW,CaiX,Miguez F(201O) Modeling miscanthus in the soil and water assessment tool (SWAT) to simulateits water quality effects asa bioenergy crop. Environmental Science $\\mathcal { E }$ Technology,44,7138-7144.   \nNOAA-NCDC (National Oceanic and Atmospheric Administration-National Climatic Data Center),(2014)Weather data.Available online: htp://gis.ncdc.noa.- gov/map/viewer/#app=cdo&cfg=cdo&theme=daily&layers=111&node=gis，(accessed 6 August 2014).   \nOcumpaugh W,Hussey M,Read J et al. (1998) Evaluation of switchgrass cultivars and cultural methods for biomass production in the south central US Annual Report 1998.   \nOhwiJ(1964)FloraofJapan.Smithsonian Inst, Washington,DC,USA.   \nOikawa PY,Jenerette GD,Grantz DA (2015) Offsetting high water demands with high productivity: sorghum as a biofuel crop in a high irradiance arid ecosystem. Global Change Biology Bioenergy,7,974-983.   \nPowelson D,Riche A,Shield I(20o5) Biofuels and other approaches for decreasing fossil fuel emissions from agriculture.Annalsof Applied Biology,146,193- 201.   \nQin ZC, Zhuang QL, Zhu XD, Cai XM, Zhang $x$ (2011) Carbon consequences and agricultural implications of growing biofuel crops onmarginal agricultural lands in China.Environmental Science& Technology,45,10765-072. mate change mitigation trom marginal lands in the United States: an ecosystem modeling perspective. Global Change Biology Bioenergy. doi:10.111/gcbb.12212.   \nRajan N, Maas SJ, Cui S (2014) Extreme drought effects on evapotranspiration and energy balanceof a pasture in the Southern Great High Plains.Ecohydrology. doi:10.1002/eco.1574.   \nRajan N,Maas SJ, Kelison R,Dollar M, Cui S, Sharma S,Attia A (2015) Emitter uniformity and application efficiency for center-pivot irigation systems.Irrigation and Drainage,64,353-61.   \nRathjens H,Oppelt N, Bosch DD,Arnold JG,Volk M (2015) Development of a grid-based version of the SWAT landscape model.Hydrological Processes,29, 900-914.   \nRefsgaardJC,tormB(1995)MKESHE.In:ComputerModelsofWatershedHdrolg (ed.Singh VP),pp.809-846.Water Resources Publications, Highlands Ranch, CO, USA.   \nRooney WL,BumenthalJBeanB,MulletJE(2O)Designingsorghumsddcated bioenergy feedstock. Biofuels,Bioproducts and Biorefining,1,147-157.   \nSarkarS,Miller SA (2014) Water quality impacts of converting intensively-managed agricultural lands to switchgrass.Biomass and Bioenergy,68,32-43.   \nSarkar S,Miller SA,Frederick JR,Chamberlain JF(2011)Modeling nitrogen los from switchgrass agricultural systems. Biomass and Bioenergy,35,4381-4389.   \nSchilling KE,Jha MK,Zhang YK,Gassman PW,Wolter CF(2008)Impactof landuse and land cover change on the water balance of a large agricultural watershed: historical effects and future directions.Water Resources Research,44,Wo0A09.   \nSkaggs RW,Youssef MA,Chescheir GM (2012) DRAINMOD: model use,calibration, and validation.Transactions of theAABE,55,509-1522.   \nSoil Survey Staff (2010)Keys to Soil Taxonomy,1thedn.USDA-Natural Resources Conservation Service,Washington,DC,USA.   \nSoil Survey Staff (2014) Natural Resources Conservation Service,United States Department of Agriculture. Soil Survey Geographic (SSURGO). Database for [Survey Area,Statel.Available online at http://www.arcgis.com/apps/OnePane/ basicviewer/ index.html?appid=a23eb436f6ec4ad6982000dbaddea5ea,accessed (5 August 2014).   \nSrinivasan R, Zhang X,Arnold JG (2010) SWAT ungauged: hydrological budget and crop yield predictions in the upper Mississippi river basin.Transactions of the ASABE,53,1533-1546.   \nTexas Water Development Board (20o5) Volumetric survey of Alan Henry reservoir. Available online at http://www.twdb.texas.gov/hydro_survey/alanhenry/ 2005- 07/AlanHenry2005_FinalReport.pdf. Accessed (26 July 2015).   \nTrybula EM, Cibin R,Burks JL,ChaubeyI, Brouder SM, Volenec JJ(2014) Perennial rhizomatous grasses as bioenergy feedstock in SWAT: parameter development and model improvement.Global Change Biology Bioenergy. doi:10.111/gcbb.12210.   \nTurhollow AF,Webb EG,Downing ME (2010) Review of Sorghum Production Practices:Applications for Bioenergy.Available at: http://info.ornl.gov/sites/ publications/files/Pub22854.pdf (accessed 9 September 2014).   \nUSDA (2010)A USDA Regional roadmap to meeting the biofuels goals of the Renewable Fuels Standard by 2022. Biofuels strategic production report. USDA, Washington, DC.Available at: http://www.usda.gov/documents/USDA_Biofuels_Report_6232010.pdf. (accessed 20 September 2014).   \nVaghefi SA,Mousavi SJ,Abbaspour KC, Srinivasan R,Yang H (2014) Analyses of the impact of climate change on water resources components, drought and wheat yield insemiarid regions: Karkheh River Basin in Iran.Hydrological Proceses,28, 2018-2032.   \nVan Griensven A,Meixner T(2006)Methods to quantifyand identifythe sources of uncertainty for river basin water quality models.Water Science and Technology,53, 51-59.   \nVanLoocke A,Bernacchi CJ,Twine TE(2O10)The impacts of Miscanthus $\\times$ giganteus productionon the Midwest US hydrologic cycle.Global Change Biology Bioenergy, 2, 180-191.   \nVeith TL,Van Liew MW,Bosch DD,Arnold JG (2010)Parameter sensitivityand uncertainty in SWAT:a comparison across five USDA-ARS watersheds. Transactions of theASABE,53,1477-1486.   \nWang X,Kannan N,Santhi C,PotterSR,Willams JR,Arnold JG(2011) Integrating APEX output for cultivated cropland with SWAT simulation for regional modeling. Transactions of the ASABE,54,1281-1298.   \nWanjura JD, Barnes EM,Kelley MS,Holt GA,Pelletier MG (2014) Quantification and characterization of cotton crop biomass residue. Industrial Crops and Products,56, 94–104.   \nWhite M,Storm D,Busteed P,Stoodley S,Phillps S(2009)Evaluating nonpointsource critical source area contributions at the watershed scale. Journal of Environmental Oualitu 38 1654_1663   \nWilliams JR(1995) The EPIC model. In: Computer Models of Watershed Hydrology (ed. Singh VP),pp.909-1000.Water Resources Publications,Highlands Ranch, CO, USA.   \nWilliams JR,Arnold JG,Kiniry JR,Gassman P,Green CH (2008) History of model developmentat Temple,Texas.Hydrological Sciences Journal,53,948-960.   \nWillmott CJ (1981) On the validation of models.Physical geography,2,184-194.   \nWright L (2007) Historical perspective on how and why switchgrass was selected as a‘model'high-potential energy crop.ORNL/TM-2007/109 Oak Ridge，TN: Bioenergy Resources and Engineering Systems.   \nWu YP,Liu SG (2012) Impacts of biofuels production alternatives on water quantity and quality in the Iowa River Basin. Biomass and Bioenergy,36,182-191.   \nYimam YT,Ochsner TE,Kakani VG,Warren JG (2014) Soil moisture dynamics and evapotranspiration under annual and perennial bioenergy crops. Soil Science Society of America Journal,78,1584-1592.   \nYimam YT,Ochsner TE,Kakani VG (2015) Evapotranspiration partitioning and water use efficiency of switchgrass and biomass sorghum managed for biofuel. Agricultural WaterManagement,155,40-47.   \nYoussef MA,Skaggs RW, Chescheir GM, Gilliam JW (2005) The nitrogen simulation model,DRAINMOD-NII. Transactions of the ASAE,48,1-16.   \nZatta A,Clifton-brown J,Robson P,Hastings A,Monti A (2014) Land use change from C3 grassland to C4 Miscanthus: effects on soil carbon content and estimated mitigation benefit after six years.Global Change Biology Bioenergy,6,360-370.   \nZhang XS,Izaurralde RC,Arnold JG,Williams JR,Srinivasan R (2013) Modifying the soil and water assessment tool to simulate cropland carbon flux: model developmentand initial evaluation. Science of the Total Environment,463,810-822.   \nZhang K, JohnsonL,PrasadPVV,Pei ZJ,Yuan WQ,Wang DH (2015a) Comparison of big bluestemwith other native grasses: chemical composition and biofuel yield. Energy,83,358–365.   \nZhang XS,Izaurralde RC,Manowitz DH et al. (2015b) Regional scale cropland carbon budgets: evaluating a geospatial agricultural modeling system using inventorydata.EnvironmentalModelling&Software,63,199-216.   \nZhuang QL, Qin ZC,Chen M (2013) Biofuel, land and water: maize,switchgrass or Miscanthus?EnuironmentalResearchLetters,8,15020. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the online version of this article: ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Table S1. Simulated management practices for cellulosic bioenergy crops in SWAT.   \nTable S2.Crop growth parameters for all the selected cellulosic bioenergy crops.   \nFigure S1.Comparison of observed and simulated monthly streamflow at GaugeI during the model (a) calibration and (b) validation periods.   \nFigure S2.Comparison of observed and simulated monthly streamflow at Gauge II during the model (a) calibration and (b) validation periods. ",
+        "page_idx": 18
+    }
+]

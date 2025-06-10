@@ -1,0 +1,148 @@
+# 小立碗藓扩展蛋白基因家族的鉴定与生物信息学分析
+
+蓝雨纯¹，黄彬¹，韦娇¹，姜山²\*
+
+（1.贵州师范大学 生命科学学院，贵阳 550001；2．贵州师范大学 国际教育学院，贵阳 550001)摘要：扩展蛋白（Expansins,EXP）是一类基因家族，几乎参与了植物发育的全过程，从种子萌发到果实成熟都有扩展蛋白的参与。利用生物信息学的方法对小立碗藓（Physcomitrella patens）Expansin 基因家族成员进行鉴定，并分析其基因结构、染色体定位及系统发生关系；结果表明小立碗藓基因组中含有 Expansin A（EXPA）32个、Expansin-likeA(EXLA)6个，并未发现 Expansin-likeB（EXLB）及Expansin B（EXPB）。扩展蛋白氨基酸序列长度在 $2 2 8 \sim 2 9 0$ 之间，编码蛋白质具有两个保守的结构域 Pollen_allerg_1和DPBB_1。蛋白质亚细胞定位预测结果表明：运用CELLO在线工具预测发现小立碗藓中约4/5 的EXP家族基因定位于细胞外；而 Euk-mPLoc预测结果则显示小立碗藓 EXP基因家族成员全定位于细胞外。基因结构分析表明，小立碗藓中约 $6 8 \%$ Expansin 基因有含有1～3个内含子。本研究分析了小立碗藓扩展蛋白基因家族的基本信息，可为深入研究其扩展蛋白基因的分子进化与生物学功能奠定基础。
+
+关键词：小立碗藓，扩展蛋白，基因家族，生物信息学中图分类号：Q943 文献标识码：A
+
+# Identification and bioinformatic analysis of the expansin gene family in Physcomitrella patens
+
+LAN Yuchun1,HUANG Bing1, WEI Jiao1, JIANG Shan² 2 (1.SchoolofLife Sciences, Guizhou Normal University,Guiyang 55001, China; 2. School of International Education, Guizhou Normal University, Guiyang 55oo01, China)
+
+Abstrac: Expansins (EXP) is a family of genes that are involved in the whole processof plant development.From seed germination to fruit ripening,there are Expansin involved. Bioinformatics methods were used to identify the members of the Expansin gene familyof Physcomitrella patens (P. patens),and their gene structure,chromosomal location and phylogenetic relationship were analyzed.The results indicated that the genome of the $P$ . patens contains 32 Expansin A (EXPA)and 6 Expansin-like A (EXLA). Expansin-like B (EXLB)and Expansin B (EXPB) were not found.The Expansin amino acid sequence is between 228 aa and 290 aain size,and the encoded protein has two conserved domains,Pollen_allerg_1and DPBB_1.The results of protein subcellularlocalization prediction showed that about 4/5 of the EXP family genes in the $P$ : patens were located outside the cell using the CELLO online tool;while the Euk-mPLoc prediction showed that the EXP gene family member was fully localized in extracellular. Gene structure analysis showed that about $68 \%$ of the Expansin gene in $P .$ patens contains 1-3 introns.
+
+This study analyzed the basic information of the $P$ . patens extended protein gene family,which lays a foundation for further study of the molecular evolution and biological functions of its extended protein genes. Key words: Physcomitrella patens, Expansin, gene family, bioinformatics
+
+植物细胞壁是植物细胞中是一种极其重要的结构。细胞壁能够决定细胞的形状，为细胞提供基本的机械支撑和硬度，是细胞抗击病原体的最后一道屏障(Cosgrove，2005)。扩展蛋白，即植物细胞壁松弛蛋白(Expansins,EXP)是一类细胞壁蛋白，主要存在于各植物细胞组织中,通过引起细胞壁组分间的松驰和细胞壁柔韧性增加，参与植物的许多生长发育过程。
+
+在对黄瓜(Cucumic sativus)下胚轴细胞壁酸诱导伸展的研究实验中,Cosgrove et al.(2002)首次发现 EXP。实验结果显示：EXP 可以使经热钝化后的细胞壁恢复伸展活性，但不具有溶菌酶活性，并且达到几乎和离体细胞壁本身伸展活性相当的程度，以此推测其具有调节植物细胞壁的伸展性的功能（Javier etal.,1992)。
+
+实验证实 EXP 与许多生长发育过程相关，例如：Cosgrove et al.(2002)实验发现果实成熟软化和花粉管延伸有关；Belfield et al.(2005)研究表明 EXP 也与叶片脱落有关；除此之外，Han et al.(2004)研究也显示EXP 基因在植物抗逆中也有重要作用。早期研究表明，EXP 以酶催化的作用方式，使细胞壁组分间疏松，细胞伸展，增强细胞柔韧性，以此缓解细胞在不良环境下的压力(Cosgrove,etal.,1997)。
+
+近年来，随着基因组测序技术的普及，越来越多的扩展蛋白在其它物种中被鉴定。依据进化关系，可将扩展蛋白基因家族划分为四个亚家族 $\alpha$ 、β、 $\boldsymbol { \gamma }$ 和δ。如今，科学研究在多种植物的不同生长阶段都发现扩展蛋白存在。 $\mathfrak { a }$ 和 $\beta$ -expansin家族分别被重命名为EXPA与EXPB, $\gamma$ -expansin，称为 expansin-likeA（EXLA）和δ-expansin 称为 expansin-like B（EXLB）(金慧清等，2006)。EXPA 和EXPB 亚家族蛋白具有细胞壁伸展活性，参与细胞壁伸长和其它发育过(Hans,et al.,2004)；但EXLA和 EXLB 两类亚家族仅仅知道其基因序列，暂无相关实验证明 EXLA 和 EXLB 两类亚家族蛋白具有增强细胞壁韧性的功能(Sampedro,et al.,2006)。
+
+小立碗藓(Physcomitrella patens)是非维管束植物类群的模式植物，进化地位特殊，全基因组也已测序完成，是研究功能基因组学、发育生物学、植物生理、系统进化理想材料。小立碗藓基因组大小为 511 Mb，共含 27条染色体(Rensing,et al.,2002)，有着易与外源基因发生同源重组，易培养且生长周期较短，表型易观察等优势。本研究基于 2007年小立碗藓的全基因组序列测序工作完成(htp://www.cosmoss.org/)(Rensing,et al.,2008)，利用生物信息学的方法筛选鉴定小立碗藓扩展蛋白基因家族成员，并对其进行进化树构建，染色体定位、基因结构分析等。为后续研究该基因家族提供了参照。
+
+# 1 材料和方法
+
+# 1.1实验材料
+
+本研究以模式植物小立碗藓为研究对象，小立碗藓全基因组数据下载于 EnsemblPlants 数据库(Bolser,etal.,2017）（http://plants.ensembl.org/index.html）中最新数据。
+
+# 1.2小立碗藓Expansin基因家族的鉴定
+
+由 Ensembl数据库（http://asia.ensembl.org/index.html）中获得小立碗藓基因组相关数据；从 Pfam 数据库（http://fam.xfam.org/）下载蛋白保守结构域的隐马科夫模型文件(\*.hmm)。利用 HMMER 软件(Finn,etal,2011)中hmmsearch 工具搜索小立碗藓全基因组预测蛋白序列中含有 Pollen_allerg_1(PF01357)和
+
+DPBB_1(PF03330)保守结构域的序列(李昊阳等，2014)，筛选 E-value $< 1 \times { 1 0 } ^ { - 2 0 }$ 的序列作为初筛序列。利用初筛序列及HMMER 软件重新构建小立碗藓的特异性 $ { \mathrm { \ h m m } }$ 文件，并利用该 $ { \mathrm { { h m m } } }$ 文件再次进行筛选(E-value<0.01)，筛选所得序列为备用序列。为保证搜索结果的准确性，通过SMART网站（http://smart.embl-heidelberg.de/）对备用蛋白进行手动筛选(Letunic，et al.，2012)，以手动剔除不含Pollen_allerg_1和DPBB_1两个保守结构域的序列。
+
+# 1.3小立碗藓扩展蛋白基因家族的蛋白特征分析及亚细胞定位
+
+将鉴定得到的小立碗藓扩展蛋白家族蛋白序列，用过 NCBI（htps://www.ncbi.nlm.nih.gov/）数据库查找其分子量(Mw)、等电点(PI)等数据。通过 Cello 在线工具（htp://cello.life.nctu.edu.tw/）及 Euk-mPLoc 在线网站（http://www.csbio.sjtu.edu.cn/bioinf/euk-multi-2/）预测小立碗藓 EXP 基因家族的亚细胞定位。
+
+# 1.4小立碗藓Expansin家族系统进化树的构建
+
+利用小立碗藓 Expansin 基因的蛋白序列，与 TAIR 据库（htps://www.arabidopsis.org/）及NCBI数据库(https://www.ncbi.nlm.nih.gov/）中搜索到的拟南芥(Arabidopsis thaliana)中Expansin 基因蛋白序列，应用多序列比对工具ClustaIX 构建系统进化树，以氨基酸全序列联配的结果为基础，用 MEGA7.0程序生成。采用程序MaximumLikelihood 法，校验参数为Bootstrap $= 1 0 0 0$ 。
+
+# 1.5小立碗藓Expansin基因保守基序及基因结构分析
+
+通过 MEME 网站检测，小立碗藓 Expansin 家族基因中所存在相似度较高的基序（motif)；并利用基因组注释文件，获得小立碗藓 Expansin 基因家族的内含子及外显子分布情况。最后利用 TBtools 软件对其进行可视化分析。
+
+# 1.6小立碗藓Expansin基因的染色体位置图
+
+以Phytozome 数据库（https:/phytozome.jgi.doe.gov/pz/portal.html）提供的相关基因信息，确定 Expansin基因的染色体定位。然后通过MapInspect软件作图(易吉明等，2015)。
+
+# 2结果与分析
+
+# 2.1小立碗藓Expansin 基因家族成员信息
+
+通过HMMER软件对小立碗藓全基因组预测蛋白序列进行搜索，共获得91个备用蛋白。运用 SMART网站手动鉴定备用蛋白后，最终获得 38个小立碗藓扩展蛋白（表1)。与双子叶模式植物拟南芥中鉴定的扩展蛋白数量持平(Seader,etal.,2016)。
+
+通过蛋白特征分析，小立碗藓38个Expansin 基因的分子量为 $2 5 . 1 4 \mathrm { k D a }$ 到 $7 3 . 9 5 \mathrm { k D a }$ ，其中约 $87 \%$ 的扩展蛋白分子量处于 $2 0 { \sim } 3 0 \ \mathrm { k D a }$ ，等电点最小为4.14。这些小立碗藓Expansin 基因编码的蛋白包含 $2 2 8 \sim 2 9 0$ 个氨基酸。亚细胞定位预测结果显示：运用CELLO在线工具预测发现小立碗藓中约1/5的EXP家族基因定位于细胞周质；而 Euk-mPLoc预测结果则显示小立碗藓 EXP 基因家族全定位于细胞外。Pfam 数据库(http://pfam.xfam.org)验证结果显示 38个扩展蛋白同时具有Pollen_allerg_1和DPBB_1特征结构域。
+
+表1小立碗藓Expansin 基因家族成员基本信息Table1 Identification of Expansin gene family members from Physcomitrella patens
+
+<html><body><table><tr><td rowspan="2">基因名称</td><td rowspan="2">基因号</td><td rowspan="2">染色体置</td><td rowspan="2">等电点</td><td>E-valu</td><td></td><td>氨基酸长</td><td rowspan="2">内含子 数目</td><td rowspan="2">mRNA 长度</td><td rowspan="2">Subcellular localization</td></tr><tr><td>分子量</td><td>值</td><td>度</td></tr><tr><td rowspan="3">Gene name</td><td>Gene ID</td><td>Location</td><td>PI</td><td>Mw</td><td>E-valu</td><td>Length of</td><td></td><td>mRNA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>(kDa)</td><td>e</td><td>protein</td><td>Intron</td><td>length</td><td>CELLO预测</td><td>Euk-mPLoc 预测</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>(aa)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="10"></td><td colspan="3">prediction</td></tr><tr><td rowspan="3">PpEXPA1</td><td>GeneID:</td><td>Chr8:8694</td><td rowspan="3">11.53</td><td rowspan="3">23.51</td><td rowspan="3">2.00E-</td><td rowspan="3">269</td><td rowspan="3">1</td><td rowspan="3"></td><td>细胞外 Extracellular</td><td rowspan="3">细</td><td rowspan="3">胞</td></tr><tr><td>1122854</td><td>013--8696</td><td>1 496</td></tr><tr><td>22</td><td>181</td><td></td></tr><tr><td rowspan="3">PpEXPA2</td><td>GeneID:</td><td>Chr13:143</td><td rowspan="3">8.36</td><td rowspan="3">26.29</td><td rowspan="3">1.00E-</td><td rowspan="3">262</td><td rowspan="3">1</td><td rowspan="3"></td><td>(3.123*) 细胞外</td><td rowspan="3">细</td><td rowspan="3">外</td></tr><tr><td>1122902</td><td>11266--14</td><td>1366 Extracellular</td></tr><tr><td>81</td><td>313155</td><td></td></tr><tr><td rowspan="3">PpEXPA3</td><td>GeneID:</td><td>Chr12:327</td><td rowspan="3">8.63</td><td rowspan="3">4.00E- 26.35</td><td rowspan="3">255</td><td rowspan="3">2</td><td rowspan="3"></td><td>细胞外</td><td>Extracellular (3.522*)</td><td rowspan="3"></td><td rowspan="3"></td></tr><tr><td></td><td>5318--327</td><td>1 272 Extracellular</td><td></td></tr><tr><td>1122894 47</td><td>7508</td><td></td><td>(3.998*)</td></tr><tr><td rowspan="3">PpEXPA4</td><td>GeneID:</td><td>Chr11:779</td><td rowspan="3"></td><td rowspan="3">26.74</td><td rowspan="3">8.00E-</td><td rowspan="3">262</td><td rowspan="3">1</td><td rowspan="3">1516</td><td>细胞外</td><td rowspan="3">细</td><td rowspan="3">胞 外</td></tr><tr><td>1122883</td><td>2124--779 8.1</td><td>Extracellular</td></tr><tr><td>96</td><td>4136</td><td></td></tr><tr><td rowspan="3">PpEXPA5</td><td>GeneID:</td><td>Chr20:354 9449--355</td><td rowspan="3"></td><td rowspan="3">26.79</td><td rowspan="3">1.00E- 132</td><td rowspan="3">286</td><td rowspan="3">3</td><td rowspan="3">1768</td><td>细胞外</td><td rowspan="3">细 胞</td><td rowspan="3">外</td></tr><tr><td>1122733</td><td>6.03</td><td>Extracellular (3.334*)</td></tr><tr><td>92</td><td>2027</td><td></td></tr><tr><td rowspan="3">PpEXPA6</td><td>GeneID: 1122949</td><td>Chr18:139 86071--13</td><td rowspan="3">10.05</td><td rowspan="3">27.14</td><td rowspan="3">5.00E- 147</td><td rowspan="3">253</td><td rowspan="3">2</td><td rowspan="3">1902</td><td>细胞外 Extracellular</td><td rowspan="3">细 胞</td><td rowspan="3">外 Extracellular</td></tr><tr><td>30</td><td>988541</td><td>(4.194*)</td></tr><tr><td>GeneID:</td><td>Chr24:101</td><td></td></tr><tr><td rowspan="3">PpEXPA7</td><td>1122764</td><td>47408--10</td><td rowspan="3">9.25</td><td rowspan="3">27.37</td><td>2.00E- 133</td><td rowspan="3">272</td><td rowspan="3">3</td><td rowspan="3">1738</td><td>细胞外 Extracellular</td><td>细</td><td rowspan="3">胞 外 Extracellular</td></tr><tr><td>52</td><td>149750</td><td></td><td>(3.342*) 细胞外</td><td></td></tr><tr><td>GeneID:</td><td>Chr8:9701</td><td>2 193</td><td></td><td>细 胞</td></tr><tr><td rowspan="3">PpEXPA8</td><td>1122854 49</td><td>908--9704 893</td><td rowspan="3">7.49</td><td rowspan="3">27.43</td><td rowspan="3">127</td><td rowspan="3">252</td><td rowspan="3">2</td><td rowspan="3"></td><td>Extracellular</td><td>Extracellular</td><td rowspan="3">外</td></tr><tr><td></td><td></td><td>(3.221*) 细胞外</td><td></td></tr><tr><td>GeneID: Chr13:561 1122904 8875--562</td><td>263</td><td rowspan="5"></td><td>Extracellular</td></tr><tr><td rowspan="3">PpEXPA10</td><td>17</td><td>2902</td><td rowspan="3"></td><td rowspan="3">8.00E-</td><td rowspan="3"></td><td rowspan="3">0</td><td rowspan="3"></td><td>2 442 (2.979*)</td><td></td><td rowspan="3">Extracellular</td><td rowspan="3">外</td></tr><tr><td>GeneID:</td><td>7.49</td><td>细胞周质</td><td>细</td></tr><tr><td>Chr14:119 1122911 69561--11</td><td>27.43</td><td rowspan="5">1337</td><td>Periplasm (2.396*)</td></tr><tr><td rowspan="4"></td><td>87</td><td>970412</td><td rowspan="3">9.16</td><td rowspan="3">27.58</td><td rowspan="3">158 5.00E-</td><td rowspan="3"></td><td rowspan="3">2 1 697</td><td</table></body></html>
+
+<html><body><table><tr><td></td><td>GeneID:</td><td colspan="7">Chr7:8846</td><td>细胞周质</td><td>胞</td><td>外</td></tr><tr><td rowspan="3">PpEXPA13</td><td>1122847</td><td>261--8849</td><td>9.01</td><td>27.82</td><td>0</td><td>274</td><td>0</td><td>1598</td><td>Periplasm</td><td>细</td><td>Extracellular</td></tr><tr><td>09</td><td>088</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.983*)</td><td></td><td></td></tr><tr><td>GeneID:</td><td>Chr22:566</td><td>9.83</td><td>28.21</td><td>0</td><td>268</td><td>2</td><td>2 032</td><td>细胞外</td><td>细</td><td>外</td></tr><tr><td rowspan="3">PpEXPA14</td><td>1122747</td><td>463--5692</td><td></td><td></td><td></td><td></td><td></td><td></td><td>Extracellular</td><td>胞 Extracellular</td><td></td></tr><tr><td>55</td><td>99 Chr8:6780</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(3.565*)</td><td></td><td></td></tr><tr><td>GeneID:</td><td>29--68016</td><td>9.83</td><td>28.21</td><td>4.00E- 133</td><td>257</td><td>2</td><td>1325</td><td>细胞外 Extracellular</td><td>细</td><td>外</td></tr><tr><td rowspan="3">PpEXPA15</td><td>1122855</td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>胞 Extracellular</td><td></td></tr><tr><td>08</td><td>Chr7:8674</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(3.057*) 细胞周质</td><td></td><td></td></tr><tr><td>GeneID: 1122851</td><td>342--8676</td><td>9.83</td><td>28.22</td><td>3.00E- 114</td><td>275</td><td>2</td><td>1096</td><td>Periplasm</td><td>细</td><td>外</td></tr><tr><td rowspan="3">PpEXPA16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Extracellular</td><td></td></tr><tr><td>33</td><td>137 Chr18:139</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(1.761*) 细胞外</td><td></td><td></td></tr><tr><td>GeneID: 1122949</td><td>65591--13</td><td>8.8</td><td>28.32</td><td>1.00E-</td><td>256</td><td>2</td><td>1 665</td><td>Extracellular</td><td>细</td><td>外</td></tr><tr><td rowspan="3">PpEXPA17</td><td></td><td></td><td></td><td></td><td>167</td><td></td><td></td><td></td><td></td><td>Extracellular</td><td></td></tr><tr><td>22</td><td>968229 Chr14:123</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(3.050*) 细胞外</td><td></td><td></td></tr><tr><td>GeneID: 1122943</td><td>52288--12</td><td>9.8</td><td>28.36</td><td></td><td>261</td><td>0</td><td>2 689</td><td>Extracellular</td><td>细</td><td>外</td></tr><tr><td rowspan="3">PpEXPA18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Extracellular</td><td></td></tr><tr><td>6</td><td>353576 Chr21:125</td><td></td><td></td><td></td><td></td><td></td><td></td><td>（2.716*) 细胞外</td><td></td><td></td></tr><tr><td>GeneID: 1122744</td><td>0662--125</td><td>9.47</td><td>28.42</td><td></td><td>251</td><td>2</td><td>1928</td><td>Extracellular</td><td>细 胞</td><td>外</td></tr><tr><td rowspan="3">PpEXPA19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Extracellular</td><td></td></tr><tr><td>74</td><td>4179 Chr14:124</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(3.816*) 细胞外</td><td></td><td></td></tr><tr><td>GeneID: 1122910</td><td></td><td>9.75</td><td>28.48</td><td>1.00E-</td><td>261</td><td>0</td><td>1318</td><td>Extracellular</td><td>细胞</td><td>外</td></tr><tr><td rowspan="3">PpEXP20</td><td></td><td>39216--12</td><td></td><td></td><td>180</td><td></td><td></td><td></td><td></td><td>Extracellular</td><td></td></tr><tr><td>69</td><td>440893</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2.588*)</td><td></td><td></td></tr><tr><td>GeneID:</td><td>Chr14:122</td><td>5.11</td><td></td><td></td><td></td><td></td><td></td><td>细胞外</td><td>细胞</td><td>外</td></tr><tr><td rowspan="3">PpEXPA21</td><td>1122910</td><td>52757--12</td><td></td><td>28.67</td><td></td><td>261</td><td>1</td><td>2 107</td><td>Extracellular</td><td>Extracellular</td><td></td></tr><tr><td>79</td><td>254538</td><td></td><td></td><td></td><td></td><td></td><td></td><td>（2.802*)</td><td></td><td></td></tr><tr><td>GeneID:</td><td>Chr21:123</td><td>5.18</td><td></td><td></td><td></td><td></td><td></td><td>细胞外</td><td>细胞</td><td>外</td></tr><tr><td rowspan="3">PpEXPA22</td><td>1122740</td><td>1559--123</td><td></td><td>29</td><td></td><td>259</td><td></td><td>1263</td><td>Extracellular</td><td>Extracellular</td><td></td></tr><tr><td>56</td><td>3452</td><td></td><td></td><td></td><td></td><td>2</td><td></td><td>(3.704*)</td><td></td><td></td></tr><tr><td>GeneID:</td><td>Chr8:8699</td><td>9.76</td><td></td><td></td><td></td><td></td><td></td><td>细胞外</td><td>细胞</td><td>外</td></tr><tr><td rowspan="3">PpEXPA23</td><td>1122854</td><td>690--8702</td><td></td><td>29.51</td><td>0</td><td>290</td><td></td><td>1496</td><td>Extracellular</td><td>Extracellular</td><td></td></tr><tr><td>02</td><td>014</td><td></td><td></td><td></td><td></td><td>2</td><td></td><td>(3.147*)</td><td></td><td></td></tr><tr><td>GeneID:</td><td>Chr18:139</td><td>8.96</td><td></td><td>1.00E-</td><td></td><td></td><td></td><td>细胞外</td><td>细胞</td><td>外</td></tr><tr><td rowspan="2">PpEXPA24</td><td>1122950 49</td><td>72299--13 977304</td><td></td><td>29.63</td><td>143</td><td>261</td><td>2</td><td>1 658</td><td>Extracellular (3.591*)</td></table></body></html>
+
+<html><body><table><tr><td colspan="10"></td></tr><tr><td>PpEXPA28</td><td>GeneID: 1122844</td><td>Chr7:8724 648--8726</td><td>9.27</td><td>30.2</td><td>5.00E- 137</td><td>256</td><td>0</td><td>1360</td><td>细胞周质 Periplasm</td><td>细 胞</td><td>外 Extracellular</td></tr><tr><td>PpEXPA29</td><td>59 GeneID: 1122911</td><td>078 Chr14:122 62439--12</td><td></td><td>30.69</td><td>3.00E-</td><td>261</td><td>0</td><td>(2.831*) 2 107</td><td>细胞外 细 Extracellular</td><td>胞</td><td>外</td></tr><tr><td></td><td>22 GeneID:</td><td>263727 Chr22:229</td><td></td><td></td><td>175 6.00E-</td><td></td><td></td><td>(2.716*) 细胞外</td><td>细</td><td>胞</td><td>Extracellular 外</td></tr><tr><td>PpEXPA30</td><td>1122748 78 GeneID:</td><td>3551--229 5747 Chr8:1000</td><td></td><td>31.34</td><td>121</td><td></td><td></td><td>Extracellular (3.101*) 细胞外</td><td></td><td>Extracellular</td><td></td></tr><tr><td>PpEXPA31</td><td>1122854 90</td><td>7663-100 10516 Chr7:1704</td><td>9.91</td><td>31.54</td><td></td><td>3</td><td>1678</td><td>Extracellular (3.876*) 细胞外</td><td></td><td>Extracellular</td><td></td></tr><tr><td>PpEXPA32</td><td>5097 GeneID:</td><td>5074--170 46258 Chr22:114</td><td>4.14</td><td>73.95</td><td>228 153</td><td>2</td><td>1 242</td><td>Extracellular (2.631*) 细胞外</td><td></td><td>Extracellular</td><td></td></tr><tr><td>PpEXLA1</td><td>1122748 52 GeneID:</td><td>12706--11 414985</td><td>10.18</td><td>25.14</td><td></td><td></td><td>1 342</td><td>Extracellular (1.864*) 细胞外</td><td>细</td><td>胞 Extracellular</td><td>外</td></tr><tr><td>PpEXLA2</td><td>1122748 29</td><td>Chr22:474 094--4757 73</td><td>6.93</td><td>27</td><td>3.00E- 130</td><td>268</td><td>1 347</td><td>Extracellular (2.385*) 细胞周质</td><td>细</td><td>胞 Extracellular</td><td>外</td></tr><tr><td>PpEXLA3</td><td>CDD:21 5542 GeneID:</td><td>Chr2:2168 090--2169 432 Chr17:918</td><td>9.87</td><td>27.68</td><td>7.00E- 161</td><td>274</td><td>1</td><td>1509</td><td>Periplasm (1.719*) 细胞周质</td><td>胞 Extracellular</td><td>外</td></tr><tr><td>PpEXLA4</td><td>1122911 65</td><td>2556--918 3918</td><td>5.33</td><td>27.85</td><td>3.00E- 124</td><td>268</td><td>0</td><td>1369</td><td>Periplasm (2.110*) 细胞外</td><td>细 胞 Extracellular</td><td>外</td></tr><tr><td>PpEXLA5</td><td>1122767 60</td><td>1818--263 63694</td><td>9.83</td><td>28.32</td><td>0</td><td>270</td><td>1</td><td>1 441</td><td>Extracellular (2.326*) 细胞周质</td><td>Extracellular</td><td></td></tr><tr><td>PpEXLA6</td><td>GeneID: 1122943</td><td>Chr17:917 8519--918</td><td>4.91</td><td>29.05</td><td>1.00E- 130</td><td>265</td><td>1</td><td>1 520</td><td>Periplasm</td><td>细胞 Extracellular</td><td>外</td></tr></table></body></html>
+
+# 2.2小立碗藓Expansin基因保守结构域与基因结构分析
+
+通过MEME 分析小立碗藓 Expansin 基因序列，获得10个保守性较高的 motif（图1：A)。同时，motif之间的位置具有重要规律，其中发现小立碗藓 EXPA亚家族除 $P p E X P A 3 2$ 出现 motif1缺失外，该亚家族其余基因具有 motif 2-（motif 8）-motif 4-motif1-motif 3 的相对稳定结构；而EXLA亚家族则具有 motif 2- motif9-motif7-motif10-motif6 的稳定结构，并未出现 motif 缺失、增加或替换。
+
+分析38个小立碗藓 EXP 基因的内含子、外显子结构（图1：B)，发现 EXPA中约 $4 9 \%$ 的基因含有2个内含子、约1/5 的基因仅含有1个内含子、 $9 \%$ 的基因含有3个内含子、更有约 $2 2 \%$ 的EXPA亚家族基因不含内含子。在分析小立碗藓 EXLA亚家族时发现，EXLA几乎仅含1个内含子，除 $P p E X L A I$ 和PpEXLA4外。其中 $P p E X L A I$ 含有5个内含子，为Expansin 基因家族中含有内含子数目最多的基因。
+
+![](images/e14f05e494e01eb3607bd30ac87b1d7b3c56913999a73e40aef21e3d83c352f5.jpg)
+
+注：A.Expansin 基因的保守基序(motif)分布。10个motif 用不同颜色的方框表示(详见表2)。b.Expansin 基因内含子、外显子分布。绿色方框表示外显子，黑色线条表示内含子。黄色方框表示的是 Expansin 基因的上游/下游区域。外显子的长度可以通过底部的比例尺推断出来。
+
+Note: A.Distributions of conserved motifs in Expansin genes.Ten putative motifs are indicated in different colored boxes (See Table 2 for details.).B.Exon/intron organization of Expansin genes. Green boxes represent exons and black lines with same length represent introns. The upstream/downstream region of Expansin genes are indicated in yellow boxes. The length of exons can be inferred by the scale at the bottom.
+
+Fig.1 Gene structure and conserved motif analysis of Physcomitrella patensExpansi
+
+图1小立碗藓Expansin基因保守基序及基因结构分析  
+表2Expansin 蛋白的预测motif列表  
+  
+
+<html><body><table><tr><td colspan="4">Table2Listof outattivemiot Expansinproteins</td></tr><tr><td>基序</td><td>E-value值</td><td>长度</td><td>Logo</td></tr><tr><td>Motif</td><td>E-value</td><td>Width</td><td></td></tr><tr><td>motif1</td><td>2.2e-911</td><td>41</td><td></td></tr><tr><td>motif2</td><td>2.8e-1148</td><td>50</td><td>F9G</td></tr></table></body></html>
+
+motif3 6.3e-610 34 LSESE motif4 1.1e-521 29 Div motif5 6.30E-298 15 PRFDLevPaF motif6 2.9e-399 21 BsJYTATNECPGS_GWCN motif7 8.40E-146 50   
+motif8 2.60E-133 21 0LBCKwWxeTRTV-NWCWSYS motif9 1.10E-121 49   
+motif10 9.20E-107 50
+
+# 2.3小立碗藓扩展蛋白基因家族的系统进化分析
+
+对小立碗藓 Expansin 基因家族进行了氨基酸多序列比对和系统树构建（图2)，分析表明，小立碗藓的Expansin 基因家族系统进化树有3个非常明显的分枝，且小立碗藓 Expansin 基因家族的两个亚基因家族都出现了独立的进化分支。其中EXPA 亚家族包含两进化分支，说明 EXPA 亚家族的基因在长期的进化过程中，出现了不同的进化方式。另外，小立碗藓中有些 Expansin 基因分支较长，说明这些基因在很早的时候就发生了分化，相应基因序列也已经发生较大的分化，但仍然可以肯定它们之间具有一定的演化关系。
+
+![](images/a7851ee1c9bdb8ae5be47d07f58918bdb12723660331ffbffa4a4063f7b5921a.jpg)  
+图2小立碗藓Expansin基因系统进化分析  
+Fig.2 Phylogenetic tree of Expansin gene in Physcomitrella patens
+
+为研究模式植物小立碗藓与拟南芥基因组中EXP之间的进化关系，利用38个小立碗藓 EXP基因和 38个拟南芥扩展蛋白的氨基酸序列构建了系统发育树(图3)。从系统发育树可知，小立碗藓38个EXP 基因被明显分为2个亚家族。共鉴定种内的直系同源蛋白12对，其中有4对直系同源蛋白间的 Bootstrap 值为99,而物种内的旁系同源蛋白数目为1。
+
+![](images/da775c9e0295e170bfc7c0468662d11e60723f62526706a6d9a9aaa424238f59.jpg)  
+图3小立碗藓和拟南芥Expansin基因系统进化分析
+
+Fig. 3 Phylogenetic tree of Expansin gene in Physcomitrella patens and Arabidopsis thaliana
+
+# 2.4小立碗藓EXP基因家族的染色体位置
+
+通过Phytozome 数据库获得小立碗藓 EXP基因家族染色体定位信息，将小立碗藓中38个扩展蛋白定位在15 条染色体上，图4中显示小立碗藓第8条染色体和第14条染色体上均定位了6个EXP基因。根据基因簇的定义可发现小立碗藓 EXP 基因家族在第14 条染色体上出现了小规模的基因簇(Bai,etal.,2002)。另7条染色体上均只含1个基因，3条染色体含有2个基因，可见小立碗藓 38个Expansin基因在染色体上分布是不均匀的。
+
+![](images/ecf207c90b209662526f31aa5669e41b2c5f79e6f3196e29a1ad2377da8e1f87.jpg)  
+图4小立碗藓扩展蛋白基因的染色体定位
+
+Fig. 4 Chromosome distribution of Expansin gene family in Physcomitrella patens
+
+# 3讨论
+
+扩展蛋白是植物细胞壁的重要组分，主要参与细胞扩张以及一系列发生细胞壁修饰的发育过程以及植物康你的重要生理过程。研究鉴定小立碗藓中含有38个扩展蛋白，可进一步分类为EXPA亚家族及 EXLA亚家族。小立碗藓 EXP基因的两个亚家族之间在基因内含子外显子分布、motif 结构等方面具有一定的保守性，代表了亚家族的重要特征，研究发现EXPA亚家族中约 $70 \%$ 的基因含有1～2个内含子，另有约 $2 2 \%$ 的 EXPA亚家族基因不含内含子；而EXLA亚家族几乎仅含1个内含子。基序分析表明，EXPA亚家族及EXLA亚家族均含有motif 2；EXLA亚家族基因均含有 motif2-motif9-motif7-motif10 -motif6的稳定结构，比 EXPA亚家族更具有保守性。同一亚家族内的 EXP 基因含有保守的内含子与外显子结构和 motif特征，而不同亚家族之间 motif 的多样化也表明了小立碗藓 EXP 基因在一定程度上参与细胞内的多种代谢途径。通过染色体定位发现，在小立碗藓 Expansin 基因随机分布15 条染色体上，除14 号染色体外，基本不形成基因簇。
+
+EXP 基因在植物体的生长发育及逆境胁迫中具有重要的生理意义，已成为植物体基因功能研究热点之一，但其在小立碗藓中的基因功能尚不明确。本研究通过对已有数据库数据的分析，使用生物学信息的方法手段，筛选得到38个小立碗藓扩展蛋白基因家族成员，分析其蛋白特征、进化关系、基因结构及染色体
+
+定位等。从基因水平上展示小立碗藓种属的特征，为后续研究扩展蛋白基因功能提供了理论依据。   
+参考文献：   
+BAI J,PENNILL LA,NING JC,et al.,2OO2. Diversity in nucleotide binding site-leucine-rich repeat genes in cereals [J]. Cytogenet Genome Res,12(12): 1871-84.   
+BOLSER DM,RUQURTI B,ROBERTS J, et al.,2017. Ensembl plants: Integrating tools for visualizing,mining, and analyzing plant genomic data [J]. Methods Mol Biol, 1533: 1-31.   
+BEDINGER P, DURACHKO DM,1997. Group I allergens of grass pollen as cell wall-loosening agents [J]. Proc Natl Acad Sci USA, 94(12): 6559-6564.   
+COSGROVE DJ,2000. Loosening of plant cell wals by expansins [J]. Nature, 407(6802): 321-6. 1997.   
+COSGROVE DJ,2005. Growth of the plant cell wall [J]. Nat Rev Mol Cell Biol, 6(11): 850-61.   
+COSGROVEDJ,LILC,CHO HT,etal.,2002.The growing world of expansins [J]. Plant CellPhysiol,43(12): 1436-44.   
+ERIC JB, BENEDETTO R, JEREMY AR., et al., 2005. Changes in expansin activity and gene expression during ethylene-promoted leaflet abscission in Sambucus nigra [J]. JExp Bot, 56(413): 817-23.   
+HAN YY, LI AX, LI F, WANG W, 2012. Characterization of a wheat (Triticum aestivum L.) expansin gene, TaEXPB23， involved in theabiotic stress response and phytohormone regulation [J].Plant Physiol Biochem ,54: 49-58.   
+HANS K,KENT JB,DAVID AB,HYUNG-TAEG C,et al.,2004. Nomenclature for members of the expansin superfamily of genes and proteins [J]. Plant Mol Biol, 55(3): 311-314.   
+IVICA L, TOBIAS D, PEER B,2012. SMART 7: Recent updates to the protein domain annotation resource [J]. Nucl Acids Res, 40(Database issue): D302-5.   
+JAVIER S,ROBERTEC,DANIELJC,1992.Two endogenous proteins that induce cellwall extension in plants [J] The Plant cell, 4(undefined): 1425-33.   
+JIN HQ,CHEN YH, JIN YF, 2O06.The development of expansin (cell wallexpansion protein)[J]. Chin BullLife Sci，18(2):168-174.[金慧清，陈英豪，金勇丰，2006.Expansin(细胞壁松弛蛋白)的发展[J].生命科学, 18(2): 168-174.]   
+LI HY,SHI Y,DING YN,et al.，2014. Bioinformatics analysis of expansin gene family in poplar genome[J]. J Beijing For Univ,36(2):59-67.[李昊阳，施杨，丁亚娜，等,2014．杨树扩展蛋白基因家族的生物信息学分 析[J]．北京林业大学学报,36(2):59-67.]   
+ROBERT DF, JODY C, SEAN RE, 2011. HMMER web server: interactive sequence similarity searching [J]. Nucl Acids Res, 39(Web Server issue): W29-37.   
+RENSING SA,ROMBAUTS S, VAN DEP, et al.， 2002. Moss transcriptome and beyond [J]. Trends Plant Sci ,7(12): 535-8.   
+STEFAN AR,DANIEL L, ANDREAS Z, et al.，20O8.The Physcomitrell genome reveals evolutionary insights into the conquest of land by plants [J]. Science, 319(5859): 64-9.   
+SAMPEDRO J,CARE YR.E,COSGROVE DJ, 2006.Genome histories clarify evolution of the expansin superfamily: New insights from the poplar genome and pine ESTs [J]. JPlant Res,119(1): 11-21.   
+VICTORIA HS, JENNIFER MT,ROBERT EC,2016. Utility of the Amborell trichopoda expansin superfamily in elucidating the history of angiosperm expansins [J]. JPlant Res,129(2): 199-207.
+
+YI JM, HUANG T,HUANG Y, et al., 2O15. Phylogenetic analysis of MADS-box gene family in Physcomitrellapatens[J].Plant PhysiolJ,51（2）:197-206.[易吉明，黄婷，黄勇，等,2015．小立碗藓 MADS-box 基因家族的系统进化分析[J]．植物生理学报,51(2):197-206.)

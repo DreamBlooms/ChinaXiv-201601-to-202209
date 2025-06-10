@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "$5 { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡对饲粮能量和蛋白质的需要量研究！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张蒙」李　强² 刘 平 许利军4 苏 坤²王德贺」 周荣艳」 陈辉1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.河北农业大学动物科技学院，保定071000；2.河北农业大学动物医学院，保定071000；3.河北大午农牧集团种禽有限公司，保定071000；4.保定市畜牧工作站，保定，071000）摘要:本试验通过建立饲粮能量或蛋白质水平与生长性能、血清生化指标、器官指数等指标的回归模型，旨在确定 $5 { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡对饲粮能量和蛋白质的需要量。选取810 只遗传背景相同、体重接近、健康状态良好的28日龄大午粉1号商品代蛋雏鸡，随机分为9组，每组6个重复，每个重复15只蛋雏鸡。采用 $3 \\times 3$ 双因素试验设计，设定饲粮中能量水平分别为12.42、11.92 和 $1 1 . 4 2 \\mathrm { M J / k g }$ ，蛋白质水平分别为 $1 8 . 7 5 \\%$ 、 $1 7 . 7 5 \\%$ 和$1 6 . 7 5 \\%$ ，共配制9种试验饲粮。试验期为 $3 5 \\mathrm { d }$ 。结果显示：1）随着饲粮能量水平的升高，蛋雏鸡9周龄时胫长、胸宽、龙骨长、血清甘油三酯含量呈上升的趋势， $5 { \\sim } 9$ 周龄平均日增重呈先下降后上升的趋势。2）随着饲粮蛋白质水平的升高，蛋雏鸡9周龄时体重（终末体重）、胸宽以及 ${ \\mathfrak { s } } { \\sim } 9$ 周龄平均日增重呈先升高后降低的趋势。3）饲粮能量水平与蛋白质水平的互作效应对9周龄大午粉1号商品代蛋雏鸡的胸宽、龙骨长、血清甘油三酯含量有显著影响 （ $P { < } 0 . 0 5 )$ 。4）通过对蛋雏鸡胸宽、龙骨长、血清甘油三酯含量与饲粮能量水平进行二次曲线拟合，得出饲粮适宜能量水平分别为11.420、11.483、11.379 MJ/kg，平均值为$1 1 . 4 2 7 \\mathrm { M J / k g }$ ；通过对9周龄时体重与饲粮蛋白质水平二次曲线拟合，得到饲粮适宜蛋白质水平为 $1 7 . 9 0 2 \\%$ 。综合蛋雏鸡体尺指标、生长性能、器官指数和血清生化指标得出， ${ \\mathfrak { s } } { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡的能量和蛋白质需要量分别为11.427MJ/kg、 $1 7 . 9 0 2 \\%$ 0",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：大午粉1号商品代蛋雏鸡；能量；蛋白质；需要量；回归分析",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 饲料成本是影响家禽产业经济效益的主要因素之一[Il，而饲粮中能量和蛋白质水平则是:4 评价饲粮营养价值的重要指标，且能量和蛋白质饲料约占饲料成本的 $8 5 \\% [ 2 ]$ 。Decuypere 等[3]:5 研究发现饲粮能量水平显著影响蛋鸡的生产性能以及对常见骨骼疾病的抵抗能力，Morris[4]:6 研究发现蛋白质过量会影响蛋鸡对限制性氨基酸的利用，且Forbes 等[5]研究发现蛋鸡在摄入：7 低蛋白质饲粮后能选择性的摄入高蛋白质饲粮，以满足机体对营养物质的需要量。因此，饲:8 粮中充足的能量和蛋白质是蛋鸡健康生长的基础。目前针对蛋鸡能量需要量的研究较多，但：9 是不同蛋鸡品种对能量的需要量不尽相同。Murakami 等[回研究发现，海兰褐蛋鸡在 $1 \\sim 1 6$ ：0 周龄摄入能量水平为 $1 2 . 3 5 \\mathrm { M J / k g }$ 、蛋白质水平为 $21 \\%$ 的单一饲粮对其产蛋期生长性能没有i1 显著的影响。康相涛等[7]试验表明， $5 { \\sim } 8$ 周龄固始鸡饲粮中适宜的能量水平为 $1 2 . 6 9 \\mathrm { M J / k g } .$ 4号2 蛋白质水平为 $1 8 . 2 0 \\%$ 。Raul da Cunha 等[]研究发现，罗曼褐壳蛋鸡 $1 { \\sim } 6$ 周龄饲粮中适宜能i3 量和蛋白质水平分别为 $1 2 . 1 4 ~ \\mathrm { M J / k g }$ 和 $21 \\%$ ， $_ { 7 \\sim 1 2 }$ 周龄分别为 $1 1 . 3 0 \\mathrm { M J / k g }$ 和 $20 \\%$ 。童海兵i4 等[9]推荐仙居鸡饲粮中适宜的蛋白质水平为 $1 8 . 0 \\%$ 。大午粉1号是2013年我国自主培育对i5 的蛋鸡品种，其具有产蛋率高、抗逆性强等特点，但饲养标准尚未完善。本试验拟通过研究6 饲粮中能量和蛋白质水平对 ${ \\mathfrak { s } } { \\sim } 9$ 周龄大午粉商品代蛋雏鸡生长性能、血液生化指标以及器7 官指数的影响，探究 $5 { \\sim } 9$ 周龄大午粉商品代蛋雏鸡饲粮中适宜的能量和蛋白质水平，为其8 饲养标准的制订提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验动物与试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验选取28日龄的健康状态良好、体重接近、遗传背景相同的大午粉1号商品代蛋雏鸡 810只，随机分为9组（Ⅰ～IX组)，每组6个重复，每个重复15只。试验采用 $3 \\times$ 试双因素试验设计，设定能量水平分别为12.42（高能量）、11.92（中能量）、 $1 1 . 4 2 \\mathrm { M J / k g }$ （低能量)，蛋白质水平分别为 $1 8 . 7 5 \\%$ （高蛋白质）、 $1 7 . 7 5 \\%$ （中蛋白质）、 $1 6 . 7 5 \\%$ （低蛋白质），共配制9种试验饲粮，分别高能量高蛋白质饲粮（I组）、高能量中蛋白质饲粮（Ⅱ组）、高能量低蛋白质饲粮（II组）、中能量高蛋白质饲粮（IV组）、中能量中蛋白质饲粮（V组）、中能量低蛋白质饲粮（VI组）、低能量高蛋白质饲粮（VI组）、低能量中蛋白质饲粮（VI组)、低能量低蛋白质饲粮（IX组)，试验饲粮组成及营养水平见表1。9种试验饲粮均为粉料，且除能量和蛋白质水平之外，饲粮中其他营养成分保持一致。饲养试验共持续35d。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲养试验在河北大午农牧集团国家蛋鸡良种扩繁推广基地进行。蛋雏鸡在纵向通风的密闭鸡舍中采用A字型3层全阶笼养。鸡舍采用锅炉水暖保温，人工喂料，乳头式饮水器饮水。鸡舍内的温度、湿度、消毒和免疫程序均严格依照《大午粉1号饲养手册》执行。试验期间蛋鸡自由采食和饮水。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d082529031bd3b955cee615bff3165a88901f0c7711fb80a49bea2675bde6228.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平（风干饲粮）",
+            "Table 1 Composition and nutrient levels of experimental diets (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>I</td><td>I</td><td>ⅢI</td><td>IV</td><td>V</td><td>VI</td><td></td><td>VII</td><td>VI</td><td>IX</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>58.45</td><td>68.65</td><td>66.10</td><td>60.59</td><td>63.15</td><td></td><td>63.65</td><td>56.33</td><td>58.31</td><td>66.25</td></tr><tr><td>家禽油 Poultry oil</td><td>0.90</td><td>0.00</td><td>1.45</td><td>0.00</td><td>0.00</td><td></td><td>0.80</td><td>0.00</td><td>0.00</td><td>0.00</td></tr><tr><td>大豆粕 Soybean meal</td><td>19.00</td><td>21.40</td><td>19.10</td><td>21.50</td><td>20.30</td><td></td><td>19.30</td><td>21.50</td><td>18.60</td><td>13.10</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>2.00</td><td>2.00</td><td>2.00</td><td>3.00</td><td>2.00</td><td></td><td>2.00</td><td>3.00</td><td>3.00</td><td>2.00</td></tr><tr><td>玉米胚芽粕 Corn germ oil</td><td>8.00</td><td>0.20</td><td>6.10</td><td>6.70</td><td>8.00</td><td></td><td>5.20</td><td>8.00</td><td>8.00</td><td>8.00</td></tr><tr><td>干酒糟及其可溶 物DDGS</td><td>1.00</td><td>3.80</td><td>0.00</td><td>4.00</td><td>1.70</td><td></td><td>1.00</td><td>4.00</td><td>4.00</td><td>0.00</td></tr><tr><td>石粉Limestone</td><td>1.80</td><td>1.80</td><td>1.80</td><td>1.80</td><td>1.80</td><td></td><td>1.80</td><td>1.80</td><td>1.80</td><td>1.80</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.30</td><td>1.25</td><td>1.30</td><td>1.20</td><td>1.25</td><td></td><td>1.30</td><td>1.20</td><td>1.25</td><td>1.30</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td></td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>沸石粉 Zeolite powder</td><td>6.50</td><td>0.00</td><td>1.10</td><td>0.40</td><td>0.90</td><td></td><td>3.90</td><td>3.40</td><td>4.10</td><td>6.50</td></tr><tr><td>赖氨酸Lys (70%)</td><td>0.18</td><td>0.10</td><td>0.18</td><td>0.02</td><td>0.09</td><td></td><td>0.18</td><td>0.00</td><td>0.12</td><td>0.18</td></tr><tr><td>蛋氨酸Met (99%)</td><td>0.16</td><td>0.13</td><td>0.16</td><td>0.14</td><td>0.14</td><td></td><td>0.16</td><td>0.13</td><td>0.14</td><td>0.16</td></tr><tr><td>苏氨酸 Thr</td><td>0.07</td><td>0.03</td><td>0.07</td><td>0.01</td><td>0.03</td><td></td><td>0.07</td><td>0.00</td><td>0.04</td><td>0.07</td></tr><tr><td>枯草乳酸杆菌 Bacillus subtills</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td></td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>乙氧基喹啉 Ethoxyquin</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td></td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/720e7b877061149bbad1f11368bf38a375a791d33263afafe515df44e44a3302.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1 维生素和微量元素预混料为每千克饲粮提供 The vitamin and microelement premixes"
+        ],
+        "table_body": "<html><body><table><tr><td>耐高温植酸酶</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>High temperature resistance phytase</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td>维生素预混料 Vitamin premix1)</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>微量元素预混料 Microelement</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>premix1) 胆碱 Choline</td><td></td><td></td><td>0.08</td><td></td><td></td><td></td><td>0.08</td><td>0.08</td><td>0.08</td></tr><tr><td>合计Total</td><td>0.08 100.00</td><td>0.08 100.00</td><td>100.00</td><td>0.08 100.00</td><td>0.08 100.00</td><td>0.08 100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>88.18</td><td>87.05</td><td>87.51</td><td>87.38</td><td>87.41</td><td>87.75</td><td>87.80</td><td>87.85</td><td>88.18</td></tr><tr><td>干物质 DM 粗蛋白质CP</td><td>18.77</td><td>17.75</td><td>16.75</td><td>18.73</td><td>17.76</td><td>16.84</td><td>18.73</td><td>17.77</td><td>15.48</td></tr><tr><td>代谢能</td><td>12.44</td><td></td><td></td><td>11.93</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ME/(MJ/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>钙Ca</td><td>1.01</td><td>1.01</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.01</td><td>1.00</td><td>1.00</td><td>1.01</td></tr><tr><td>磷P</td><td>0.55</td><td>0.57</td><td>0.55</td><td>0.58</td><td>0.57</td><td>0.55</td><td>0.58</td><td>0.57</td><td>0.55</td></tr><tr><td>可利用磷AP</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td><td>0.33</td></tr><tr><td>氯化钠 NaCl</td><td>0.34</td><td>0.41</td><td>0.32</td><td>0.41</td><td>0.36</td><td>0.34</td><td>0.41</td><td>0.41</td><td>0.34</td></tr><tr><td>粗灰分 Ash</td><td>12.26</td><td>5.77</td><td>6.92</td><td>6.45</td><td>6.89</td><td>9.62</td><td>9.43</td><td>10.01</td><td>12.26</td></tr><tr><td>粗纤维CF</td><td>2.70</td><td>2.67</td><td>2.63</td><td>3.08</td><td>2.89</td><td>2.61</td><td>3.11</td><td>2.99</td><td>2.70</td></tr><tr><td>粗脂肪 EE 亚油酸 Linoleic</td><td>3.56</td><td>3.20</td><td>4.24</td><td>3.08</td><td>2.93</td><td>3.60</td><td>2.95</td><td>2.97</td><td>3.56</td></tr><tr><td>acid</td><td>1.69</td><td>1.75</td><td>1.93</td><td>1.64</td><td>1.64</td><td>1.76</td><td>1.56</td><td>1.58</td><td>1.69</td></tr><tr><td>无氮浸出物 NFE</td><td>54.18</td><td>58.92</td><td>58.22</td><td>57.22</td><td>58.22</td><td>56.43</td><td>54.83</td><td>55.4</td><td>54.18</td></tr><tr><td>赖氨酸 Lys</td><td>0.83</td><td>0.83</td><td>0.83</td><td>0.84</td><td>0.83</td><td>0.83</td><td>0.84</td><td>0.83</td><td>0.83</td></tr><tr><td>蛋氨酸Met</td><td>0.39</td><td>0.39</td><td>0.39</td><td>0.40</td><td>0.39</td><td>0.39</td><td>0.39</td><td>0.39</td><td>0.39</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "provided the following per kg of diets: VA 7 800 IU， $\\mathrm { V D } _ { 3 } 2 0 0 0 \\mathrm { I U }$ ，VE 25 IU, $\\mathrm { V K } _ { 3 } 3 . 2 \\mathrm { m g }$ 硫胺素 thiamine $3 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } ~ 1 0 . 2 \\ : \\mathrm { m g }$ ，叶酸 folic acid $0 . 9 \\mathrm { m g }$ ，泛酸钙 calcium pantothenate15mg，烟酸 nicotinic acid $4 5 \\mathrm { m g }$ ，吡哆醇 pyridoxine ${ 5 . 4 } \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 2 4 \\mu \\mathrm { g }$ ，生物素biotin $1 5 0 ~ { \\mu \\mathrm { g } }$ $\\mathrm { C u } 6 . 8 \\mathrm { m g }$ ，Fe $6 6 ~ \\mathrm { m g }$ ， $Z n 8 3 { \\mathrm { ~ m g } }$ ， $ { \\mathrm { M n } } 8 0  { \\mathrm { m g } }$ ， $\\mathrm { ~ I ~ l ~ m g ~ }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）粗蛋白质和代谢能均为实测值，其他营养水平为计算值。ME and CPwere measured values,while the other nutrient levels were calculated values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3检测指标和方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1生长性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验以周为时间单位，每周最后1天20:00 清理料槽，禁食不禁水，以重复为单位记录耗料量，每周第1天08:00，每个重复选取5只蛋雏鸡测量体重、胫长、胸宽和龙骨长，并记录。以重复为单位计算平均日采食量（ADFI）、平均日增重（ADG）、料重比（F/G)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2血清生化指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲养试验结束后，每个重复随机选取1只蛋雏鸡，翅下静脉采血 $3 ~ \\mathrm { m L }$ 于促凝管中，静置待自然凝固后， $3 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ 获得上清液。用试剂盒检测血清中葡萄糖、尿酸、总甘油三酯、总胆固醇、白蛋白、总蛋白的含量。以上指标测定试剂盒均购自南京建成生物工程研究所。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3器官指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验试验结束后，每个重复随机选取1只蛋雏鸡，称重后颈静脉放血致死，开膛取心脏、肝脏、脾脏、胸腺、胰腺、法氏囊、十二指肠、空肠、回肠。剪去内脏器官上附着的脂肪组织，用滤纸吸干血水后称重，计算器官指数。测量十二指肠、空肠、回肠的长度，计算其相对长度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "器官指数 $( \\% ) =$ （器官重/体重） $\\times 1 0 0$ 小肠各段相对长度 $\\scriptstyle { \\frac { } { } } = { }$ 小肠各段长度/小肠总长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验数据用Excel2013整理后，采用 SPSS22.0单因素方差分析（one-wayANOVA）程序处理数据，采用一般线性模型（GLM）程序中的多变量模型进行主效应和互作效应分析，各组间采用LSD多重比较法进行差异显著性分析，以 $P { < } 0 . 0 5$ 为差异显著。互作效应显著时，通过回归程序中曲线估计建立多元线性方程；互作效应不显著、主效应显著时，拟合关于主效应的二次方程；曲线达到二次显著效应时，根据姚请丹[10]的方法求得最大效应值，获得饲粮最适能量和蛋白质水平，即为能量和蛋白质需要量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮能量和蛋白质水平对5\\~9周龄大午粉1号商品代蛋雏鸡生长性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知示，饲粮蛋白质水平对蛋雏鸡的终末体重有显著影响（ $. P { < } 0 . 0 5 )$ ，饲粮能量水平以及能量水平与蛋白质水平的互作效应对蛋雏鸡的终末体重均无显著影响（ $P { > } 0 . 0 5 )$ 。III、V、VII、VII、IX组蛋雏鸡的终末体重显著高于VI组（ $. P { < } 0 . 0 5 )$ 。饲粮能量和蛋白质水平对蛋雏鸡的 ADG 均有显著影响（ $. P { < } 0 . 0 5 )$ ，但饲粮能量水平与蛋白质水平的互作效应对蛋雏鸡的ADG 无显著影响（ $P { > } 0 . 0 5 \\$ )。II、 $\\mathrm { \\Delta V }$ 、VII、VI、IX组蛋雏鸡的 ADG 显著高于VI组（ $\\lceil P { < } 0 . 0 5 )$ 。饲粮能量、蛋白质水平以及二者的互作效应对蛋雏鸡的ADFI和F/G 均没有显著影响（ $\\mathrm { \\Phi } \\cdot P { > } 0 . 0 5 \\mathrm { \\dot { \\Omega } }$ )，但随着饲粮能量水平的升高，蛋雏鸡的ADFI和F/G 均呈现先升高后降低的趋势。蛋雏鸡的ADFI和F/G 各组间均没有显著差异（ $\\vert P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2饲粮能量和蛋白质水平对5\\~9 周龄大午粉1号商品代蛋雏鸡生长性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8dfee6869be49c624f1f2ddeb82b2de2cdebca4839b2aef99b624eac9c0ef031.jpg",
+        "table_caption": [
+            "Table 2Effects of dietary energy and protein levels on growth performance of Dawufen No.l commercial "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">layerchicksaged5to9weeks</td></tr><tr><td rowspan=\"4\">项目Items</td><td rowspan=\"4\">终末体重</td><td rowspan=\"2\"></td><td rowspan=\"2\">平均日增重</td><td>平均日采食</td><td rowspan=\"2\">料重比</td></tr><tr><td>量</td></tr><tr><td rowspan=\"2\">FBW/g</td><td rowspan=\"2\">ADG/[g/(d·只)]</td><td>ADFI/[g/(d:</td><td rowspan=\"2\">F/G</td></tr><tr><td>只]</td></tr><tr><td rowspan=\"8\">组别 Groups</td><td>I</td><td>1024.53±66.95ab</td><td>19.56±1.84ab</td><td>45.40±3.23</td><td>2.32±0.26</td></tr><tr><td>II</td><td>1062.53±96.22b</td><td>21.06±2.79c</td><td>46.18±3.26</td><td>2.20±0.24</td></tr><tr><td>III</td><td>1040.67±87.96ab</td><td>20.38±2.57abc</td><td>46.05±3.56</td><td>2.26±0.12</td></tr><tr><td>IV</td><td>1040.8±81.94ab</td><td>20.17±2.10abc</td><td>46.41±3.15</td><td>2.31±0.24</td></tr><tr><td>V</td><td>1053.33±82.36b 996.77±64.07a</td><td>20.81±2.44bc</td><td>46.55±3.32</td><td>2.25±0.31</td></tr><tr><td>VI</td><td>1053.57±86.99b</td><td>19.08±1.87a 20.98±2.38c</td><td>46.87±2.36</td><td>2.47±0.29</td></tr><tr><td>VII</td><td></td><td></td><td>46.49±3.34</td><td>2.22±0.25</td></tr><tr><td>VI</td><td>1 067.60±76.58b</td><td>21.17±2.04c</td><td>45.81±2.54</td><td>2.16±0.16</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ad62c6a177f5f4c1b6c8d2ce6c4d4e86d96eab9bdc8864d78e5a996705565c9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>IX</td><td>1055.07±99.24b</td><td>20.95±3.02c</td><td>45.87±4.32</td><td>2.19±0.19</td></tr><tr><td>主效应 Main effects</td><td></td><td></td><td></td><td></td></tr><tr><td>能量</td><td>12.42</td><td>1042.58±85.11ab</td><td>20.34±2.48ab</td><td>45.88±3.28</td><td>2.25±0.21</td></tr><tr><td>Energy level</td><td>11.92</td><td>1 030.30±79.56a</td><td>20.02±2.24a</td><td>46.61±3.27</td><td>2.34±0.28</td></tr><tr><td>/(MJ/kg)</td><td>11.42</td><td>1 058.74±87.33b</td><td>21.03±2.49b</td><td>46.06±3.28</td><td>2.19±0.19</td></tr><tr><td>蛋白质水平</td><td>18.75</td><td>1039.92±79.50ab</td><td>20.25±2.18a</td><td>46.10±3.30</td><td>2.28±0.24</td></tr><tr><td>Protein</td><td>17.75</td><td>1 061.16±84.70a</td><td>21.01±2.42b</td><td>46.18±3.28</td><td>2.21±0.23</td></tr><tr><td>level/%</td><td>16.75</td><td>1 030.83±87.69b</td><td>20.14±2.62a</td><td>46.26±3.29</td><td>2.31±0.23</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量水平 Energy level</td><td></td><td>0.073</td><td>0.014</td><td>0.540</td><td>0.070</td></tr><tr><td>蛋白质水平 Protein level</td><td></td><td>0.044</td><td>0.027</td><td>0.890</td><td>0.210</td></tr><tr><td>能量水平×蛋白质水平 Energy</td><td></td><td>0.292</td><td>0.142</td><td>0.350</td><td>0.470</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同列数据肩标不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。 In the same column, values with diferent small lettr superscripts mean significant difference $( P < 0 . 0 5 ) \\$ ）， while with the same or no letter superscripts mean no significant difference ( $P { > } 0 . 0 5 )$ ). The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 饲粮能量和蛋白质水平对5\\~9 周龄大午粉1号商品代蛋雏鸡体尺指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，饲粮能量水平对蛋雏鸡的胫长、胸宽和龙骨长均有显著影响（ $P { < } 0 . 0 5 )$ ，蛋白质水平对蛋雏鸡的胫长、胸宽和龙骨长均无显著影响（ $\\cdot P { > } 0 . 0 5 )$ ，能量水平与蛋白质水平的互作效应对蛋雏鸡的胫长无显著影响（ $P { > } 0 . 0 5 )$ ，但对胸宽和龙骨长有显著影响（ $P <$ 0.05)。V、VI和IX组蛋雏鸡的胫长显著低于I组（ $\\cdot P { < } 0 . 0 5 )$ ；除I和 $\\mathrm { I I }$ 组蛋雏鸡的胸宽与III组差异不显著（ $\\cdot P { > } 0 . 0 5$ ）外，其他各组均显著低于Ⅲ组（ $\\cdot P { < } 0 . 0 5 )$ ；IX组蛋雏鸡的龙骨长显著低于I、Ⅱ和Ⅲ组（ $\\cdot P { < } 0 . 0 5 )$ ，I、Ⅱ和Ⅲ组之间差异不显著（ $\\cdot P { > } 0 . 0 5 .$ )。随着饲粮能量水平的升高，蛋雏鸡的胫长、胸宽和龙骨长均呈升高趋势，胫长表现为能量水平为11.42$\\mathrm { M J / k g }$ 时显著低于能量水平为 $1 2 . 4 2 \\mathrm { M J / k g }$ 时（ $. P { < } 0 . 0 5 )$ ，胸宽和龙骨长均表现为能量水平为 $1 1 . 4 2 \\mathrm { M J / k g }$ 时显著低于能量水平为 11.92 和 $1 2 . 4 2 \\mathrm { M J / k g }$ 时（ $\\cdot P { < } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表3饲粮能量和蛋白质水平对5\\~9周龄大午粉1号商品代蛋雏鸡体尺指标的影响",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/55e180993e24026560e1741f906535248fcda54491724f56376eb47da7da8f65.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary energy and protein levels on body size indexes of Dawufen No.1 commercial ",
+            ""
+        ],
+        "table_footnote": [
+            "2.3饲粮能量和蛋白质水平对5\\~9周龄大午粉1号商品代蛋雏鸡器官指数的影响"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">layerchicksaged5to9weeks</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>项目Items</td><td>胫长</td><td>胸宽</td><td>龙骨长</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Tibia length</td><td>Chest breadth</td><td>Keel length</td></tr><tr><td>组别 Groups</td><td></td><td>93.20±4.31abc</td><td>63.37±0.90cd 83.15±2.05bed</td></tr><tr><td></td><td></td><td>95.34±1.60bc 63.92±1.21d</td><td>83.89±0.47d</td></tr><tr><td>Ⅲ</td><td></td><td>64.03±0.59d</td><td>83.61±1.40cd</td></tr><tr><td></td><td></td><td>93.99±1.43abc 62.30±0.57bc</td><td>81.94±0.99ab</td></tr><tr><td>V</td><td></td><td>62.01±0.80ab</td><td>82.24±0.54abc</td></tr><tr><td>VI</td><td>93.37±1.48abc</td><td>62.29±0.61bc</td><td>81.73±0.63ab</td></tr><tr><td>VII</td><td>93.65±2.36abc</td><td>61.87±1.08bc</td><td>81.11±1.02abc</td></tr><tr><td>VII</td><td>91.52±2.19a</td><td>62.03±1.21ab</td><td>82.16±1.48ab</td></tr><tr><td>IX</td><td>92.99±2.30a</td><td>61.12±0.79ab</td><td>81.34±1.01a</td></tr><tr><td>主效应 Main effects</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>94.85±3.26b 63.77±0.93a</td><td>83.55±1.41a</td></tr><tr><td>11.92</td><td></td><td></td><td>81.97±0.73b</td></tr><tr><td>Energy level/(MJ/kg)</td><td>93.30±1.89ab</td><td>62.20±0.64b</td><td></td></tr><tr><td>11.42</td><td>92.72±2.33a</td><td>61.67±1.06b</td><td>81.54±1.21b</td></tr><tr><td>18.75 蛋白质水平</td><td>93.61±2.80</td><td>62.51±1.05</td><td>82.07±1.60</td></tr><tr><td>17.75 Protein level/%</td><td>93.13±2.62</td><td>62.65±1.38</td><td>82.76±1.21</td></tr><tr><td>16.75</td><td>94.12±2.56</td><td>62.47±1.38</td><td>82.23±1.42</td></tr><tr><td>P值 P-value</td><td></td><td></td><td></td></tr><tr><td>能量水平 Energy level</td><td>0.046</td><td><0.001</td><td><0.001</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.165</td></tr><tr><td></td><td>0.110</td><td><0.001</td><td>0.001</td></tr><tr><td>能量水平×蛋白质水平 Energy level×protein level</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>蛋白质水平Protein level</td><td></td><td>0.518</td><td></td></tr><tr><td></td><td></td><td></td><td>0.829</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，饲粮能量、蛋白质水平以及二者的互作效应对蛋雏鸡的心脏、肝脏、脾脏和法氏囊指数均没有显著影响（ $\\cdot  { P } { > } 0 . 0 5 )$ 。I、 $\\mathrm { \\Delta V }$ 、VII、IX组蛋雏鸡的心脏指数显著低于VI组( $\\scriptstyle P < 0 . 0 5$ )。I和VI组蛋雏鸡的肝脏指数显著低于 $\\mathrm { I I }$ 和IX组（ $\\scriptstyle \\cdot < 0 . 0 5 ,$ 。V组蛋雏鸡的法氏囊指数显著高于 $\\mathrm { I V }$ 和VI组（ $. P { < } 0 . 0 5 )$ 。饲粮能量、蛋白质水平对蛋雏鸡的胰腺指数无显著影响（ $P { > } 0 . 0 5 )$ ，但二者的互作效应对其有显著影响（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ 。I、III、VI、VII、VI组蛋雏鸡胰腺指数显著低于IV组！ $( P { < } 0 . 0 5 )$ 。饲粮蛋白质水平对蛋雏鸡的胸腺指数有显著影响（ $\\cdot P$ $< 0 . 0 5 )$ ，但饲粮能量水平以及能量水平与蛋白质水平的互作效应对其无显著影响 $( P { > } 0 . 0 5 ) ,$ ）°饲粮蛋白质水平为 $1 8 . 7 5 \\%$ 时蛋雏鸡的胸腺指数显著高于蛋白质水平为 $1 6 . 7 5 \\%$ 和 $1 7 . 7 5 \\%$ 时$( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4饲粮能量和蛋白质水平对5\\~9 周龄大午粉1号商品代蛋雏鸡小肠发育的影响由表5可知，饲粮能量、蛋白质水平以及二者的互作效应对蛋雏鸡的小肠总长，十二指肠相对长度、空肠相对长度、回肠相对长度均无显著影响（ $P { > } 0 . 0 5$ )。I组蛋雏鸡的小肠总长显著低于V组（ $\\scriptstyle P < 0 . 0 5 ,$ 。I组蛋雏鸡的空肠相对长度显著高于除IV组外的其他组（ $P <$ 0.05)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮能量和蛋白质水平对5\\~9 周龄大午粉1号商品代蛋雏鸡小肠发育的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/254da4407135a38c055aa89838fb929cc370cf5679ee559b7b780198a39df6de.jpg",
+        "table_caption": [
+            "Table 5Efects of dietary energy and protein levels on small intestinal development of Dawufen No.1 ",
+            "commerciallayer chicksaged5 to 9 weeks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\">小肠总长</td><td>十二指肠相对</td><td>空肠相对长</td><td>回肠相对长</td></tr><tr><td>长度</td><td>度</td><td>度</td></tr><tr><td rowspan=\"2\"></td><td>Total length of small</td><td>Duodenum relative length</td><td>Jejunum relative</td><td>Ileum relative length</td></tr><tr><td>intestine/mm</td><td></td><td>length</td><td></td></tr><tr><td rowspan=\"6\">组别 Groups</td><td>I</td><td>119.42±6.95a</td><td>0.28±0.28</td><td>0.41±0.01a</td><td>0.31±0.03</td></tr><tr><td>II</td><td>124.74±8.81ab</td><td>0.31±0.02</td><td>0.38±0.02b</td><td>0.31±0.01</td></tr><tr><td>IⅢI</td><td>129.02±12.34ab 133.04±8.71ab</td><td>0.28±0.01 0.29±0.02</td><td>0.38±0.02b 0.39±0.03ab</td><td>0.33±0.02 0.31±0.02</td></tr><tr><td>IV</td><td>135.38±6.97b</td><td>0.29±0.02</td><td>0.39±0.03b</td><td>0.32±0.01</td></tr><tr><td>V VI</td><td>125.26±6.33ab</td><td>0.28±0.01</td><td>0.38±0.02b</td><td>0.33±0.03</td></tr><tr><td>VII</td><td>131.54±11.37ab</td><td>0.29±0.02</td><td>0.39±0.01b</td><td>0.33±0.02</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ac54798cd2ec58b7477248dc66c8c8eaa8ccf9f8617c0c599c6e125664735fa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>VI</td><td></td><td>123.98±11.50ab</td><td>0.30±0.03</td><td>0.38±0.02b</td><td>0.32±0.03</td></tr><tr><td></td><td>IX</td><td>131.64±9.23ab</td><td>0.29±0.02</td><td>0.38±0.01b</td><td>0.34±0.02</td></tr><tr><td colspan=\"6\">主效应 Main effects</td></tr><tr><td>能量水平</td><td>12.42</td><td>124.39±9.80</td><td>0.29±0.02</td><td>0.39±0.02</td><td>0.32±0.02</td></tr><tr><td>Energy</td><td>11.92</td><td>131.23±8.19</td><td>0.29±0.01</td><td>0.39±0.02</td><td>0.32±0.02</td></tr><tr><td>level/(MJ/kg)</td><td>11.42</td><td>128.72±11.20</td><td>0.29±0.03</td><td>0.38±0.01</td><td>0.33±0.03</td></tr><tr><td></td><td>18.75</td><td>128.89±10.92</td><td>0.29±0.02</td><td>0.39±0.02</td><td>0.32±0.03</td></tr><tr><td>蛋白质水平</td><td>17.75</td><td>127.18±10.60</td><td>0.30±0.03</td><td>0.38±0.02</td><td>0.32±0.02</td></tr><tr><td>Protein level/%</td><td>16.75</td><td>128.64±9.31</td><td>0.29±0.02</td><td>0.38±0.02</td><td>0.33±0.02</td></tr><tr><td colspan=\"6\">P值P-value</td></tr><tr><td>能量水平 Energy level</td><td></td><td>0.317</td><td>0.531</td><td>0.266</td><td>0.471</td></tr><tr><td>蛋白质水平Proteinlevel</td><td></td><td>0.156</td><td>0.932</td><td>0.250</td><td>0.459</td></tr><tr><td>能量水平×蛋白质水平 Energy</td><td></td><td>0.065</td><td>0.865</td><td>0.392</td><td>0.996</td></tr><tr><td colspan=\"6\">level×protein level</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "阿帐能里 虫口小'\"八丨初丨丁向\\虫班］血俏」忙拍你的影啊",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，饲粮能量水平以及能量水平与蛋白质的互作效应对蛋雏鸡血清中甘油三酯的含量均有显著影响（ $\\cdot P { < } 0 . 0 5 )$ ，蛋白质水平对其无显著影响（ $_ { . P > 0 . 0 5 ) }$ 。I、I、IⅢ组蛋雏鸡血清中甘油三酯的含量显著高于V、VI、VI和IX组（ $\\cdot P { < } 0 . 0 5 )$ 。随着饲粮能量水平的升高，蛋雏鸡血清中甘油三酯的含量随之升高，且能量水平为 $1 2 . 4 2 \\mathrm { M J / k g }$ 时显著高于能量水平为11.92 和 $1 1 . 4 2 \\mathrm { M J / k g }$ 时（ $\\cdot P { < } 0 . 0 5 )$ 。此外，I组蛋雏鸡血清中尿酸的含量显著高于其他各组（ $\\cdot P { < } 0 . 0 5 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表6饲粮能量和蛋白质水平对5\\~9周龄大午粉1号商品代蛋雏鸡血清生化指标的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 6Effects of dietary energy and protein levels on serum biochemical indexes of Dawufen No.1 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "commerciallayerchicksaged5to 9weeks ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/40db88cb39d97e348d9270cb539f8118da978b978f5e56aaecd0837480bafcd4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>葡萄糖</td><td>尿酸</td><td>甘油三酯</td><td>总胆固醇</td><td>总蛋白</td><td>白蛋白</td></tr><tr><td>页目Items</td><td></td><td>GLU/(mmol /L)</td><td>UA/(umol/L)</td><td>TG/(mmol/ L)</td><td>TC/(mmol /L)</td><td>TP/(g/L)</td><td>ALB/(g/L)</td></tr><tr><td></td><td>I</td><td>11.34±0.12</td><td>259.77±3.77a</td><td>0.88±0.06a</td><td>3.09±0.29</td><td>35.27±1.87</td><td>16.86±1.82</td></tr><tr><td></td><td>I</td><td>11.17±0.74</td><td>250.82±5.47b</td><td>1.03±0.12a</td><td>3.16±0.66</td><td>35.93±3.57</td><td>14.91±0.76</td></tr><tr><td></td><td>Ⅲ</td><td>10.65±1.40</td><td>249.23±4.76b</td><td>0.88±0.32a</td><td>3.18±0.17</td><td>36.23±4.21</td><td>15.89±1.45</td></tr><tr><td>祖别</td><td>IV</td><td>10.64±1.35</td><td>249.01±4.86b</td><td>0.80±0.20ab</td><td>2.79±0.42</td><td>35.93±5.36</td><td>16.13±1.18</td></tr><tr><td>Groups</td><td>V</td><td>10.44±2.56</td><td>247.33±3.57b</td><td>0.47±0.20cd</td><td>2.91±0.36</td><td>31.97±3.19</td><td>15.56±1.52</td></tr><tr><td></td><td>VI</td><td>10.37±0.94</td><td>250.30±6.24b</td><td>0.57±0.03bed</td><td>2.97±0.22</td><td>35.03±2.97</td><td>14.85±0.88</td></tr><tr><td></td><td>VII</td><td>10.64±1.35</td><td>249.01±4.86b</td><td>0.80±0.20ab</td><td>2.79±0.42</td><td>35.93±5.36</td><td>16.13±1.18</td></tr><tr><td>VII</td><td></td><td>10.44±2.56</td><td>247.33±3.57b</td><td>0.47±0.20cd</td><td>2.91±0.36</td><td>31.97±3.19</td><td>15.56±1.52</td></tr><tr><td></td><td>IX</td><td>10.37±0.94</td><td>250.30±6.24b</td><td>0.57±0.03bcd</td><td>2.97±0.22</td><td></td><td></td></tr><tr><td>主效应 Main effects</td><td></td><td></td><td></td><td></td><td></td><td>35.03±2.97</td><td>14.85±0.88</td></tr><tr><td>能量水</td><td>12.42</td><td>11.06±0.85</td><td>253.27±6.40</td><td>0.93±0.19a</td><td>3.14±0.37</td><td>35.81±2.95</td><td>15.89±1.49</td></tr><tr><td>平</td><td>11.92</td><td>10.48±1.53</td><td>248.88±4.53</td><td>0.61±0.20b</td><td>2.89±0.31</td><td>34.31±3.90</td><td>15.51±1.20</td></tr><tr><td>Energy</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>level/(MJ</td><td>11.42</td><td>10.04±0.31</td><td>248.37±3.23</td><td>0.50±0.20b</td><td>2.76±0.43</td><td>33.84±3.46</td><td>15.18±1.23</td></tr><tr><td>/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋白质</td><td>18.75</td><td>10.73±0.88</td><td>252.64±6.53</td><td>0.81±0.13</td><td>2.87±0.43</td><td>35.71±3.28</td><td>15.96±1.63</td></tr><tr><td>水平</td><td>17.75</td><td>10.55±1.43</td><td>248.65±3.83</td><td>0.64±0.32</td><td>2.95±0.41</td><td>34.09±3.55</td><td>15.29±0.98</td></tr><tr><td>Protein level/%</td><td>16.75</td><td>10.29±0.91</td><td>249.23±4.53</td><td>0.59±0.29</td><td>2.97±0.37</td><td>34.17±3.60</td><td>15.33±1.22</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量水平 Energy level</td><td></td><td>0.131</td><td>0.085</td><td><0.001</td><td>0.112</td><td>0.463</td><td>0.526</td></tr><tr><td>蛋白质水平</td><td>Protein</td><td>0.705</td><td>0.221</td><td>0.204</td><td>0.861</td><td>0.545</td><td>0.489</td></tr><tr><td>level</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量水平×蛋白质水平</td><td></td><td>0.817</td><td>0.091</td><td><0.001</td><td>0.837</td><td>0.605</td><td>0.648</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.6 $5 { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡能量和蛋白质需要量的确定",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.6.1根据多元线性回归模型估测 $5 { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡的能量和蛋白质的需要量",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以饲粮中能量和蛋白质水平有显著互作效应的检测指标为因变量 $Y _ { : }$ ，以饲粮蛋白质水平为自变量 $X _ { 1 }$ ，能量水平为自变量 $X _ { 2 }$ ，按照 $Y { = } { \\mathbf { a } } X _ { 1 } { + } { \\mathbf { b } } X _ { 2 } { + } { \\mathbf { c } }$ 的数学模型进行二元线性回归分析。由表7可知，所得到的线性方程中均关于饲粮蛋白质水平不显著（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff164952f41426bf9365ff29d995d87daa0aedee45da60c93a0ea327cb625a42.jpg",
+        "table_caption": [
+            "表7利用多元线性回归模型估测 $5 { \\sim } 9$ 周龄大午粉1号商品代蛋鸡的能量和蛋白质需要量 Table 7The equation of Energy and protein requirements of Dawufen No.1 commercial chicks aged 5 to 9 weeks estimated by multivariate linear regression models "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>回归方程</td><td colspan=\"3\">P值 P-value</td></tr><tr><td></td><td>Regression equation</td><td>常数</td><td>X1</td><td>X</td></tr><tr><td>胸宽 Chest breadth</td><td>Y=0.017Xi+2.100X2+28.50 (R²=0.833)</td><td>0.010</td><td>0.934</td><td>0.002</td></tr><tr><td>龙骨长 Keel length</td><td>Y=-0.08X1+2.013X+59.773 (R²=0.789)</td><td><0.001</td><td>0.721</td><td>0.003</td></tr><tr><td>血清甘油三酯含量</td><td>Y=0.107X1+0.433X—6.379 (R²=0.750)</td><td>0.009</td><td>0.110</td><td>0.009</td></tr><tr><td>Serum TG content</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.6.2大午粉1号商品代蛋雏鸡的能量需要量",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以饲粮能量水平为自变量 $X$ ，以饲粮能量水平有显著影响的检测指标为因变量Y，按照$Y { = } { \\mathrm { a } X ^ { 2 } } { + } { \\mathrm { b } X } { + } { \\mathrm { c } }$ 的数据模型建立一元二次回归方程。如表8所示，结合胸宽、龙骨和血清甘油三酯含量， ${ \\mathfrak { s } } { \\sim } 9$ 周龄蛋雏鸡的能量需要量为 $1 1 . 4 2 7 \\mathrm { M J / k g }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "表8利用二次回归模型估测 $5 { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡的能量需要量",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/aba2b229e08b9337441f1dac2cfcb68b55271d2056058bde13ab8dfec2b93419.jpg",
+        "table_caption": [
+            "Table8Energy requirement of Dawufen No.l commercial chicks aged 5 to 9 weeks estimated by quadratic regression equations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>回归方程</td><td>P值</td><td>需要量</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/817273359e4be16b3d40e2a5f5a196e46bca0fa5d48d0c87cb8cf2721d046140.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Regression equation</td><td>P-value</td><td>Requirement /(MJ/kg)</td></tr><tr><td>胸宽 Chestbreadth</td><td>Y=2.093 X2-47.805X+334.602 (R²=0.902)</td><td>0.001</td><td>11.420</td></tr><tr><td>龙骨长 Keel length</td><td>Y=2.293X2-52.660X+383.823 (R²=0.869)</td><td>0.002</td><td>11.483</td></tr><tr><td>血清甘油三酯含量</td><td>Y=0.400X2-9.103X+52.283 (R²=0.646)</td><td>0.044</td><td>11.379</td></tr><tr><td>Serum TG content</td><td></td><td></td><td></td></tr><tr><td>平均值 Mean</td><td></td><td></td><td>11.427</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.6.3大午粉1号商品代蛋雏鸡的蛋白质需要量",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以饲粮能量水平为自变量 $X$ ，以饲粮蛋白水平有显著影响的检测指标为因变量Y，按照$Y { = } { \\mathrm { a } X ^ { 2 } } { + } { \\mathrm { b } X } { + } { \\mathrm { c } }$ 的数据模型建立一元二次回归方程。如表9所示，结合终末体重指标， $5 { \\sim } 9$ 周龄蛋雏鸡饲粮中适宜的蛋白质水平为 $1 7 . 9 0 2 \\%$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "表9利用二次回归模型估测 $5 { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡的蛋白质需要量",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a73ef6dd3a0e25465899f8776a8120edcb8e6871a95edc0e64113d1ace7f256.jpg",
+        "table_caption": [
+            "Table9Protein requirement of Dawufen No.l commercial chicks aged 5 to 9 weeks estimated by quadratic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">regression equations</td></tr><tr><td>项目Item</td><td>回归方程</td><td>P值</td><td>需要量</td></tr><tr><td></td><td>Regression equation</td><td>P-value</td><td>Requirement/%</td></tr><tr><td>末期体重体重FBW</td><td>Y=-30.918X²+1 106.99X-8 846.874 (R²=0.634)</td><td>0.044</td><td>17.902</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/3baab98f415b38b7f0f0f77284cfe0ff3022dda4799c2ce3f5846facc45f20cd.jpg",
+        "table_caption": [
+            "Table4Effects ofdietaryenergyandproteinlevels onorgan indexesofDawufenNo.1commerciallayerchicksaged5to9weks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td></td><td>心脏指数</td><td>肝脏指数</td><td>胰腺指数</td><td>脾脏指数</td><td>胸腺指数</td><td>法氏囊指数</td></tr><tr><td>组别Groups</td><td></td><td>Heart index</td><td>Liver index</td><td>Pancreas index</td><td>Spleen index</td><td>Thymus index</td><td>Bursa ofFabricius index</td></tr><tr><td></td><td>I</td><td>0.53±0.04a</td><td>1.79±0.17a</td><td>0.24±0.02a</td><td>0.23±0.03a</td><td>0.39±0.13</td><td>0.09±0.05ab</td></tr><tr><td></td><td>I</td><td>0.54±0.03ab</td><td>2.19±0.17c</td><td>0.25±0.03ab</td><td>0.25±0.05ab</td><td>0.29±0.13</td><td>0.15±0.07ab</td></tr><tr><td></td><td>Ⅲ</td><td>0.56±0.05ab</td><td>1.88±0.20ab</td><td>0.24±0.02a</td><td>0.27±0.04c</td><td>0.31±0.14</td><td>0.13±0.07ab</td></tr><tr><td></td><td>IV</td><td>0.62±0.09b</td><td>2.15±0.34bc</td><td>0.28±0.03b</td><td>0.26±0.04bc</td><td>0.32±0.10</td><td>0.07±0.03a</td></tr><tr><td></td><td>V</td><td>0.53±0.02a</td><td>1.94±0.06abc</td><td>0.25±0.03ab</td><td>0.27±0.05c</td><td>0.37±0.09</td><td>0.16±0.10b</td></tr><tr><td></td><td>VI</td><td>0.54±0.08ab</td><td>2.03±0.26abe</td><td>0.24±0.03a</td><td>0.23±0.06a</td><td>0.25±0.08</td><td>0.08±0.02a</td></tr><tr><td></td><td>VII VII</td><td>0.53±0.04a</td><td>2.02±0.26abc</td><td>0.24±0.02a</td><td>0.21±0.06a</td><td>0.26±0.08</td><td>0.14±0.06ab</td></tr><tr><td></td><td>IX</td><td>0.54±0.09ab 0.52±0.07a</td><td>1.83±0.13a 2.22±0.31c</td><td>0.23±0.02a 0.26±0.04ab</td><td>0.21±0.03a</td><td>0.30±0.08</td><td>0.10±0.07ab</td></tr><tr><td>主效应Main effects</td><td></td><td></td><td></td><td></td><td>0.29±0.07c</td><td>0.32±0.09</td><td>0.08±0.02ab</td></tr><tr><td>能量水平</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>12.42</td><td>0.54±0.04</td><td>1.95±0.24</td><td>0.24±0.03</td><td>0.25±0.05</td><td>0.33±0.13</td><td>0.12±0.07</td></tr><tr><td>Energy</td><td>11.92</td><td>0.56±0.08</td><td>2.04±0.25</td><td>0.26±0.03</td><td>0.25±0.05</td><td>0.31±0.09</td><td>0.10±0.07</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/5da2609d34a10ee81f0ccb301c821fb758f7a339c9eb70cabf41aca446d39ddb.jpg",
+        "table_caption": [
+            "level/(MJ/kg) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>11.42</td><td>0.53±0.07</td><td>1.99±0.26</td><td>0.24±0.03</td><td>0.23±0.06</td><td>0.29±0.08</td><td>0.11±0.07</td></tr><tr><td>蛋白质水平</td><td>18.75</td><td>0.55±0.07</td><td>1.99±0.28</td><td>0.25±0.03</td><td>0.23±0.05</td><td>0.35±0.11a</td><td>0.11±0.06</td></tr><tr><td>Protein level/%</td><td>17.75</td><td>0.54±0.06</td><td>1.95±0.19</td><td>0.24±0.03</td><td>0.23±0.05</td><td>0.27±0.10b</td><td>0.13±0.08</td></tr><tr><td></td><td>16.75</td><td>0.54±0.07</td><td>2.04±0.28</td><td>0.25±0.03</td><td>0.26±0.06</td><td>0.28±0.10b</td><td>0.09±0.05</td></tr><tr><td>P值 P-value</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>能量水平 Energy level</td><td></td><td>0.358</td><td>0.997</td><td>0.645</td><td>0.341</td><td>0.623</td><td>0.874</td></tr><tr><td>蛋白质水平Protein level</td><td></td><td>0.811</td><td>0.237</td><td>0.460</td><td>0.124</td><td>0.029</td><td>1.000</td></tr><tr><td>能量水平×蛋白质水平 Energy</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>level×protein level</td><td></td><td>0.383</td><td>0.854</td><td>0.046</td><td>0.093</td><td>0.548</td><td>0.220</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.1 饲粮中能量和蛋白质的组合效应对5\\~9周龄大午粉1号商品代蛋雏鸡的影响",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "动物饲粮中能量和蛋白质的营养关系是相互依存的，饲粮中能量和蛋白质比例不当将会导致营养障碍，降低饲料利用率，只有能量和蛋白质保持适当比例时饲粮才能发挥最大的利用效率。本试验结果表明，饲粮能量水平与蛋白质水平的互作效应对5\\~9 周龄大午粉1号商品代蛋雏鸡的生长性能无显著影响，这一结果与康相涛等[7]的研究结果一致。饲粮能量水平与蛋白质水平的互作效应显著影响 5\\~9 周龄大午粉1号商品代蛋雏鸡的胸宽、龙骨长及血清甘油三酯含量，但在利用多元线性回归模型估测 ${ \\mathfrak { s } } { \\sim } 9$ 周龄大午粉1号商品代蛋雏鸡能量和蛋白质需要量时发现，饲粮蛋白质水平对效应值均不存在显著差异。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮能量和蛋白质水平对5\\~9周龄大午粉1号商品代蛋雏鸡生长性能的影响",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "畜禽的生产性能与饲粮能量水平密切相关[11]。饲粮中能量水平高于阈值时，消化道中食糜的成分以及吸收养分的浓度发生变化，蛋鸡的采食量随着饲粮中能量水平的增加而下降。石天虹等[12]研究发现，饲粮能量水平由11.49MJ/kg上升到 $1 2 . 5 7 \\mathrm { M J / k g }$ 时，海兰白W-36 蛋雏鸡育成期的采食量显著下降，体重显著升高。本试验结果发现，饲粮能量水平由11.42MJ/kg上升到 $1 2 . 4 2 \\mathrm { M J / k g }$ 时，蛋雏鸡的ADFI、终末体重无显著差异。不同的生长环境以及蛋鸡品种可能是导致试验结果差异的主要因素。许晟玮[13]研究发现，饲粮能量水平由11.65MJ/kg上升到12.85MJ/kg时，广西桂香鸡育成期F/G 显著上升，与本试验的研究结果一致。结合蛋雏鸡的 ADFI、F/G 指标，说明饲粮能量水平在 $1 1 . 4 2 \\mathrm { M J / k g }$ 时饲料的利用率最高。许晟玮等[13]研究发现，随着饲粮蛋白质水平的升高（由 $1 5 \\%$ 上升到 $1 8 \\%$ )，广西桂香鸡育成期的F/G 没有显著变化，本试验结果与此相一致。Halle[14]研究发现蛋白质是影响蛋鸡采食量的重要因素，而本试验结果则表明饲粮蛋白质水平对蛋雏鸡的ADFI没有显著影响。造成试验结果不同的可能原因如下：1）试验中饲粮蛋白质水平设计不一致，本试验中所设计的饲粮蛋白质水平并未达到蛋雏鸡蛋白质需要量的极限；2）蛋鸡的品种不同对蛋白质的需要量不一致。拟合终末体重（Y）与饲粮蛋白质水平 $( \\boldsymbol { X } )$ 得到方程 $Y { = } { - } 3 0 . 9 1 8 X ^ { 2 } { + } 1 \\ 1 0 6 . 9 9 X { - } 8$ 846.874 $( R ^ { 2 } { = } 0 . 6 3 4 )$ ，由此方程得到饲粮蛋白质水平为 $1 7 . 9 0 2 \\%$ 时，蛋雏鸡在9周龄的体重达到最大值。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "；3.3 饲粮能量和蛋白质水平对 5\\~9 周龄大午粉1号商品代蛋雏鸡体尺指标的影响体型是家禽生长发育状况的外在体现，也是反映群体饲养管理水平和均匀度的重要指标[15]；同时，胫长是评价蛋鸡生产性能的重要指标之一[16]。本试验结果表明，随着饲粮能量  \n；水平的升高，蛋雏鸡的胫长、胸宽、龙骨长呈上升的趋势。拟合饲粮能量水平（ $\\mathit { \\Pi } _ { X ) }$ 与胸宽(Y)得到方程 $Y { = } 2 . 0 9 3 X ^ { 2 } { - } 4 7 . 8 0 5 X { + } 3 3 4 . 6 0 2 ( R ^ { 2 } { = } 0 . 9 0 2 )$ ，由此方程得到饲粮能量水平为11.420MJ/kg 时，蛋雏鸡胫长最佳；拟合饲粮能量水平（ $\\mathbf { \\nabla } \\cdot X )$ 与龙骨长(Y)得到方程$Y { = } 2 . 2 9 3 X ^ { 2 } { - } 5 2 . 6 6 0 X { + } 3 8 3 . 8 2 3 ( R ^ { 2 } { = } 0 . 8 6 9 )$ ，由此方程得到饲粮能量水平为 $1 1 . 4 8 3 ~ \\mathrm { M J / k g }$ 时，蛋雏鸡龙骨长最佳。本试验结果显示饲粮蛋白质水平对大午粉1号商品代蛋雏鸡的胫长、胸宽、龙骨长均无显著影响，与王馨悦等[17]的研究结果一致。这一结果表明饲粮中蛋白质水平在 $1 6 . 7 5 \\% \\sim$ $1 8 . 7 5 \\%$ 都能满足 ${ \\mathfrak { s } } { \\sim } 9$ 周龄蛋雏鸡的蛋白质需要量。  \n3.4饲粮能量和蛋白质水平对5\\~9 周龄大午粉1号商品代蛋雏鸡器官指数的影响胸腺、脾脏、法氏囊是直接参与家禽体液免疫和细胞免疫的器官，Akyuzdames 等[18]研究表明这3种器官的重量可以用来评价雏鸡的免疫状态，重量越大，免疫功能越强；免疫器官指数反映了家禽机体的免疫功能[19]。胸腺是调控免疫系统的主要内分泌腺，胸腺基质细胞可以产生多种多肽类激素，不仅参与外周成熟T细胞的调节，也能促进胸腺细胞的分化成熟[20]。本试验结果显示饲粮蛋白质水平对蛋雏鸡的胸腺指数有显著的影响。高蛋白质组蛋雏鸡胸腺指数相比于中和低蛋白质组显著升高，这可能是因为高蛋白质水平饲粮为蛋雏鸡生长提供了更多的蛋白质，促进了胸腺基质细胞生长，进而促进了胸腺的生长发育。饲粮蛋白质水平对除胸腺指数外的其他器官指数均没有产生显著影响，说明在蛋雏鸡生长过程中这些器官的发育与机体的生长发育相匹配，这可能是因为动物具有器官发育与整体发育相匹配的本能。本试验结果还显示饲粮能量水平对蛋雏鸡的器官指数没有显著影响，这说明蛋雏鸡饲粮中能量水平在 $1 1 . 4 2 { \\sim } 1 2 . 4 2 \\ \\mathrm { M J / k g } .$ 、蛋白质水平在 $1 6 . 7 5 \\% { \\sim } 1 8 . 7 5 \\%$ 时能够满足其器官生  \n；长发育所需。  \n3.5　饲粮能量和蛋白质水平对 5\\~9 周龄大午粉1号商品代蛋雏鸡血清生化指标的影响",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "丨皿的≌目ち「[21]。如果肝细胞受损或长期营养过剩，血液中胆固醇和甘油三酯的含量就会上升，进而使血液黏稠，超出一定范围即形成“高血脂”，严重时可引起动脉硬化，若血液中胆固醇和甘油三酯的含量偏低，则不利于机体新陈代谢，影响动物正常生长[22]。本试验结果表明，随着饲粮能量水平的升高，蛋雏鸡血清中甘油三酯和总胆固醇的含量呈现上升的趋势，这与鞠科等[23]的研究结果一致。拟合饲粮能量水平（ $. \\boldsymbol { X } )$ 与血清甘油三酯含量（Y）得到方程Y=0.400X2-9.103X+52.283( $R ^ { 2 } { = } 0 . 6 4 6 )$ ，由此方程得到饲粮能量水平为 $1 1 . 3 7 9 \\mathrm { M J / k g }$ 时，蛋雏鸡血清中甘油三酯的含量达到最低值。饲粮蛋白质水平对所检测的血清生化指标均无显著影响，与余红心等[24]的研究结果一致。",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "4结比",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "本试验条件下，综合生长性能、体尺指标、器官指数、血清生化指标得出， ${ \\mathfrak { s } } { \\sim } 9$ 周龄 大午粉1号商品代蛋雏鸡的能量和蛋白质需要量分别为 $1 1 . 4 1 9 \\mathrm { M J / k g }$ 和 $1 7 . 9 0 2 \\%$ 。 参考文献： [1]杨宁.2014 年我国蛋鸡产业状况及发展趋势[J].中国畜牧杂志,2015,51(2):32-37. [2]张利敏,姚军虎,董延.产蛋鸡粗蛋白质与代谢能需要量研究进展与应用[J].饲料工 业,2012,33(3):13-16. [3] DECUYPERE E,DECUYPERE,VERSTEGEN M WA.Insights into the metabolism and nutrition of poultry[J].Tijdschrift Voor Diergeneeskunde,1999,124(2):47-51. [4]MORRIS TR.Nutrition of chicks and layers[J].Worlds Poultry Science Journal,2004,60(1):5-18. [5]FORBES JM,SHARIATMADARI F.Short-term effects of food protein content on subsequent diet selection by chickens and the consequences of alternate feeding of high-and low-protein foods[J].British Poultry Science,1996,37(3):597-607. [6]MURAKAMI A E,KIRA K C,FURLAN A C,et al.Influence of protein levels in the initial and growing phases of laying hens on performance in the production phase[J].Revista Da Sociedade Brasileira De Zootecnia,1997,26(5):955-958. [7]康相涛,田亚东,竹学军.5-8 周龄固始鸡能量和蛋白质需要量的研究[J].中国畜牧杂 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "志,2002,38(5):3-6. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "metabolizavel energy levels for eggy-type pullets from 1 to 18 weeks of age[J].Ciencia EAgrotecnologia,2008,32(1):258-266.[9]童海兵,王克华,陆俊贤,等.鸡种、日粮能量和日粮蛋白质对体尺性状的影响[J].中国家禽,2004(增刊 1):102-105.[10] 姚铸丹.二次函数对称轴的求法及有关应用[J].中小学数学(初中版),2012(9):28.[11]刘作华,杨飞云,孔路军,等.日粮能量水平对生长育肥猪肌内脂肪含量以及脂肪酸合成酶和激素敏感脂酶mRNA表达的影响[J].畜牧兽医学报,2007,38(9):934-941[12] 石天虹,魏祥法,刘雪兰,等.日粮能量、蛋白水平对生长期蛋鸡生产性能影响规律的研究[J].饲料工业,2007,28(19):13-17.[13]许晟玮.广西桂香鸡适宜日粮能量蛋白水平研究[D].硕士学位论文.南宁:广西大学,2012.[14]HALLE I.Effect of dietary lysine and methionine supplementation on pullet growth and ofdietary protein and energy content on subsequent laying performance[J].Archiv FurGeflugelkunde,2002,66(2):66-74.[15] 李兴华,王德贺,高亚辉,等.矮小型蛋鸡胫长和生产性能的相关性分析[J].黑龙江畜牧兽医,2016(23):108-110.[16]宋丹,岳洪源,李连彬,等.京红蛋鸡体重、胫长和小肠生长规律及生长曲线拟合的研究[J].中国畜牧杂志,2015,51(5):18-24.[17]王馨悦,董博颖,马秋刚,等.“京红1号\"商品代蛋鸡育雏期蛋白质需要量研究[J].中国饲料,2017(9):14-17,21.[18] AKYUZDAMES L,ENGEL C,et al.The Vagus nerve,importance in immunodepressionfollowing stroke[J].Immunology,2012(137):551.[19]郭欣怡,张曼,韩飞,等.复合微生态制剂与黄芪多糖对鸡免疫器官指数和新城疫-禽流感免疫效果的影响[J].中国农学通报,2016,32(32):20-24.[20]耿素霞,李扬秋.胸腺功能及其测定方法的研究进展[J].免疫学杂志,2005,21(5):427-430.[21]周顺伍.动物生物化学[M].3版.北京:中国农业出版社,1999:126-127",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[22]田亚东.固始鸡能量和蛋白质营养需要量的研究[D].硕士学位论文.郑州:河南农业大学,2002.  \n[23] 鞠科,肖从兴.日粮不同能量水平对广西三黄鸡肉种鸡育成期的生产性能和血液生化指标影响[J].畜牧与饲料科学,2009,30(10):25-27.  \n[24]余红心,贾俊静,李琦华,等.不同蛋白质水平日粮对云南武定鸡生长性能及血液生化指标的影响[J].中国饲料,2008(5):24-26.",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Study on Dietary Energy and Protein Requirements of Dawufen No.1 Commercial Layer Chicks Aged5to9Weeks ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "ZHANG MenglLIQiang1LIU Ping²XU Lijun³SUKun² WANG DehelZHOU Rongyanl CHEN Huil\\* (1. Collage of Animal Science and Technology, Hebei Agricultural University, Baoding   \n071000, China; 2. Hebei Dawu Farming and Animal Husbandry Group, Baoding O7100o, China; 3.Baoding Livestock Husbandry Workstation, Baoding O710o0, China)   \nAbstract: Through setting up the regression models between dietary energy or protein levels and   \ngrowth performance, serum biochemical indexes and organ indexes, the objective of this study   \nwas conducted to determine the dietary energy and protein requirements of Dawufen No.1   \ncommercial layer chicks aged 5 to 9 weeks. Eight hundred and ten 28-day-old Dawufen No.1   \ncommercial layer chicks with the same genetic background, similar body weight and good health   \nwere randomly divided into 9 groups with 6 replicates per group and 15 chicks per replicate. A 3   \n$\\times 3$ two-factor experiment design was adopted in this experiment. There were 9 diet were   \nprepared, the energy level in the diet was 12.01,12.51 and $1 3 . 0 1 ~ \\mathrm { M J / k g }$ ，respectively,and the   \nprotein level in the diet was $1 9 . 8 1 \\%$ $20 . 8 1 \\%$ and $2 1 . 8 1 \\%$ ,respectively. The experiment lasted for   \n35 days. The results showed as follows: 1） with the increase of dietary energy level, the tibia   \nlength,chest breadth,keel length, serum triglyceride content of layer chicks aged 9 weeks were   \nincreased, while the average daily gain（ADG）of layer chicks aged 5 to 9 weeks was firstly ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "decreased and then increased.2） With the increase of dietary protein level, the body weight and chest breadth of layer chicks aged 9 weeks and the ADG of layer chicks aged 5 to 9 weeks were firstly increased and then decreased.3) The interaction between energy and protein levels re had significant effects on the chest breadth,keel length and serum triglyceride content $( P { < } 0 . 0 5 )$ .4) According to quadratic curve estimation of the dietary energy level and chest breadth, keel length, serum triglyceride content, the optimal dietary energy level was 11.420,11.483 and $1 1 . 3 7 9 \\mathrm { M J / k g }$ which could be averaged to 11.427 MJ/kg. According to quadratic curve estimation of the dietary protein level and body weight, the optimal dietary protein level was $1 7 . 9 0 2 \\%$ . Combined with the body size indexes,growth performance,and serum biochemical indexes,the dietary energy and crude protein requirements of Dawufen No.1 commercial layer chicks aged 5 to 9 weeks are 11.427 MJ/kg and $1 7 . 9 0 2 \\%$ , respectively. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Key words: Dawufen No.1 commercial layer chicks; energy； protein; requirement; regressionanalysis",
+        "page_idx": 20
+    }
+]

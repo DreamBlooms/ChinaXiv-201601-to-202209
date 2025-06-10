@@ -1,0 +1,174 @@
+2 江赵宁王文惠　吴　飞刘虎　王振宇　王春林 曾祥芳　王凤来\*摘要：本试验旨在研究妊娠后期能量饲喂水平对母猪繁殖性能和血脂代谢相关指标的影响。选用长白 $\times$ 大白杂交经产妊娠母猪48头，于妊娠第85天开始按照体重和胎次随机分为低、中等、高和极高4种不同能量饲喂水平组（ $n { = } 1 2$ )，4组能量饲喂水平分别为1.12、1.32、1.52和1.72倍维持代谢能需要量，并分别命名为1.12M、1.32M、1.52M和1.72M组。试验饲粮为玉米-豆粕型饲粮，代谢能（ME）为 $1 3 . 3 8 \mathrm { M J / k g }$ ，粗蛋白质（CP)含量为 $1 5 . 0 9 \%$ 。中等能量饲喂水平参照NRC（2012）妊娠母猪有效代谢能推荐值，低、高、极高能量饲喂水平在此基础上分别减少 $1 5 \%$ 、增加 $1 5 \%$ 和增加 $30 \%$ 。1.12M、1.32M、1.52M和1.72M组母猪的日采食量分别为2.17、2.56、2.94和 $3 . 3 3 \mathrm { k g / d }$ ，代谢能摄入量分别为29.10、34.23、39.37、44.50 MJ/d。试验期为 $2 3 \mathrm { d }$ 。结果显示：随着妊娠后期能量饲喂水平的增加，哺乳母猪的平均日采食量显著下降（ $. P { < } 0 . 0 5 )$ 。妊娠100d时，随着能量饲喂水平的增加，母猪血清总胆固醇和低密度脂蛋白浓度线性升高（ $. P { < } 0 . 0 5 \rangle$ ，血清总胆固醇、甘油三酯和高密度脂蛋白浓度二次升高（ $\scriptstyle P < 0 . 0 5$ )。在妊娠后期，母猪血清总胆固醇浓度随着妊娠时间的延长而显著降低（ $P { < } 0 . 0 5 )$ ；血清高密度脂蛋白和低密度脂蛋白浓度在妊娠107d时显著低于妊娠100和85d时（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ；血清甘油三酯浓度在妊娠100d时显著高于妊娠85、107d时（ $_ { . P < 0 . 0 5 ) }$ ，且妊娠107d时显著高于妊娠85d时（ $\scriptstyle P < 0 . 0 5 .$ )。由此可见，妊娠后期增加能量饲喂水平可降低母猪哺乳期的采食量；妊娠后期母猪血脂处于生理较高水平，在此基础上增加能量饲喂水平可进一步引起血清甘油三酯、高密度脂蛋白、低密度脂蛋白和总胆固醇浓度升高。
+
+关键词：母猪；妊娠后期；能量饲喂水平；繁殖性能；血脂代谢相关指标  
+中图分类号：S816 文献标识码：A文章编号：  
+母猪繁殖性能是我国猪业生产的技术关键，也是影响猪场经济效益的重要瓶颈 $^ { [ 1 ] }$ ，母猪繁殖性能的高低受遗传、营养、健康状况、环境等诸多因素共同作用，营养是其中重要的因素之一[2]。近年来，由于遗传改良和母猪健康水平的提高，母猪的繁殖力和生产效率有了很大地改善。但与国际养猪发达国家母猪生产水平相比，我国现有同品种母猪相差甚远，仅发挥了母猪繁殖生产潜力的 $70 \%$ ，另外的 $30 \%$ 则由于营养与饲养管理不当被损失 $^ { [ 3 ] }$ 。母猪妊娠期的营养主要用于满足自身体况恢复、子宫内容物发育以及乳腺生长发育等不同生理机能的需要[4；母猪在妊娠期内的不同阶段，实现目标生理机能不同，对营养的需求也存在差异。妊娠后期是胎儿快速生长阶段，此阶段母猪对能量的需要呈指数增加[5]。增加妊娠后期母猪饲粮能量水平会提高仔猪的初生重，从而增加仔猪存活率以及之后的断奶重[]。但是，妊娠后期饲粮能量水平过高会使母猪脂肪沉积过多，造成母猪过肥，带来难产和代谢紊乱等一系列问题[7]。母猪在妊娠期间尤其是妊娠后期的能量供给对其繁殖性能和健康至关重要，需要不断系统而深入的研究。  
+血脂是血液内中性脂肪和类脂的总称，主要包括总胆固醇（totalcholesterol,TC）和甘油三酯（triglyceride,TG)。血脂各成分和含量正常情况下处于动态平衡状态。人体医学在临床上通常用TG、TC、高密度脂蛋白（high-density lipoprotein,HDL）、低密度脂蛋白（low-densitylipoprotein,LDL）浓度等指标来判断血脂是否异常[8]。血液中TG、TC、LDL浓度过高或HDL浓度过低时，血脂代谢异常，出现高脂血症9]。人类妊娠期血脂异常的几率要大于一般人群，妊娠状态下血液中TG、TC、LDL和HDL的浓度都高于非妊娠状态，且在妊娠中后期更加明显[0]。猪和人类有着相似的生理代谢特征，尤其是心血管系统和消化系统[1]。Torres-Rovira等[12]以母猪为模型，用高脂饲粮诱导母猪肥胖，从而证实了高能量摄入会导致母猪代谢紊乱，出现血脂异常等代谢综合征。因此，妊娠母猪能量、代谢与健康之间关系的研究已成为动物营养研究领域的热点研究方向。本试验通过研究妊娠后期能量饲喂水平对母猪繁殖性能和血脂代谢相关指标的影响，旨在探究饲粮能量与母猪繁殖性能和血脂指标变化之间的关系，为妊娠母猪精准饲喂技术的应用提供试验依据。  
+1材料与方法  
+1.1试验动物分组与饲养管理  
+动物饲养试验于2017年7月在中国农业大学农业部饲料工业中心动物试验基地（河北丰宁）进行。妊娠母猪舍为密闭式猪舍，试验母猪称重分组后于限位栏内饲养。本试验中所有操作均符合中国农业大学动物福利的相关程序和要求。  
+试验选用长白 $\times$ 大白经产（2及以上胎次）妊娠母猪48头，根据体重和胎次随机分为4组，每组12头。试验开始前，即妊娠前期与中期，统一饲喂试验基地妊娠母猪饲粮。从妊娠85 d开始，4组试验母猪分别按照低、中等、高和极高4种不同能量饲喂水平限定采食量，中等能量饲喂水平参照NRC（2012）妊娠母猪饲粮有效代谢能推荐量，为1.32倍维持代谢能需要量（maintenance metabolic energy requirement，M）。低、高、极高能量饲喂水平在中等能量饲喂水平的基础上分别减少 $1 5 \%$ 、增加 $1 5 \%$ 或增加 $30 \%$ ，即分别为1.12、1.52和1.72倍维持代谢能需要量，4组分别命名为1.12M、 $1 . 3 2 \mathrm { M }$ 、1.52M和1.72M组。妊娠后期母猪饲粮为玉米-豆粕型饲粮，代谢能（ME）为 $1 3 . 3 8 \mathrm { M J / k g }$ ，粗蛋白质（CP）含量为 $1 5 . 0 9 \%$ ，其组成及营养水平见表1。低、中等、高和极高4个组母猪的日采食量分别为2.17、2.56、2.94和 $3 . 3 3 \mathrm { k g / d }$ 代谢能摄入量分别为29.10、34.23、39.37、44.50MJ/d（表2）。饲粮中氨基酸、维生素和矿物质等其他营养成分含量均满足或超过NRC（2012）妊娠母猪饲粮有效代谢能推荐量。妊娠
+
+母猪每日05:30、11:00和16:30各饲喂1次，自由饮水。分娩后，所有母猪饲喂相同的哺乳母猪全价配合饲料，哺乳母猪饲粮组成及营养水平见表3。哺乳母猪每日饲喂3次，自由采食与饮水，记录哺乳期间母猪的采食量。按照猪场常规管理程序执行驱虫和免疫计划。
+
+# 表1妊娠后期母猪饲粮组成及营养水平(饲喂基础)
+
+# Table 1 Composition and nutrient levels of the diet for sows in late gestation (as-fed
+
+basis) %项目Items原料 Ingredients玉米Com 64.12豆粕 Soybean meal 16.00麦麸 Wheat bran 14.00豆油 Soybean oil 2.00石粉 Limestone 1.46磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （20 0.90食盐 NaCl 0.50维生素和微量元素预混料1) 0.50Vitamin-mineral premix1)赖氨酸Lys 0.40氯化胆碱 Choline chloride 0.12合计 Total 100.00营养水平 Nutrient levels2)代谢能 ME/(MJ/kg) 13.38粗蛋白质 CP 15.09
+
+<html><body><table><tr><td>赖氨酸Lys</td><td>0.68</td></tr><tr><td>色氨酸Trp</td><td>0.16</td></tr><tr><td>苏氨酸Thr</td><td>0.55</td></tr><tr><td>蛋氨酸Met</td><td>0.24</td></tr><tr><td>钙Ca</td><td>0.83</td></tr><tr><td>总磷TP</td><td>0.58</td></tr></table></body></html>
+
+1’维生素和微量元素预混料为每千克饲粮提供The vitamin-mineral premix provided thefollowing per kg of the diet: VA 10 000 IU，VD 2 000 IU，VE 24 IU，VK $2 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 \mathrm { m g }$ $\mathrm { V B } _ { 2 }$ 6 mg， $\mathrm { V B } _ { 6 } 4 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 4 \ : \mathrm { m g }$ ，泛酸 pantothenic acid $2 0 \mathrm { m g }$ ，尼克酸 nicotinic acid $3 0 ~ \mathrm { m g }$ ，生物素biotin $0 . 4 \mathrm { m g }$ ，叶酸 folic acid $3 . 6 ~ \mathrm { m g }$ ，Zn $\mathrm { ( } \mathrm { Z n S O } _ { 4 } { \cdot } \mathrm { H } _ { 2 } \mathrm { O }$ ） $1 2 0 \mathrm { m g }$ ，Fe $\mathrm { ( F e S O _ { 4 } { \cdot } H _ { 2 } O }$ ） $9 6 ~ \mathrm { m g }$ ，Mn（号 $\mathrm { ( M n S O _ { 4 } { \cdot } H _ { 2 } O }$ ） $4 0 \ \mathrm { m g }$ ， Cu (CuSO4:5H2O) $8 \ : \mathrm { m g }$ ， I (Ca(IO3)2) $0 . 5 6 \mathrm { m g }$ ， Se (Na2SeO3) $0 . 2 4 \mathrm { m g }$ 。2)粗蛋白质为实测值，其余均参照NRC（2012）饲料原料营养成分及代谢能值计算而得。CP was a measured value, while the others were calculated based on the nutrients and metabolicenergy in feed stuffs of NRC (2012).
+
+# 表2妊娠后期母猪日采食量和代谢能摄入量
+
+Table 2Daily feed intake and metabolic energy intake of sows in late gestation   
+
+<html><body><table><tr><td>组别Groups</td><td>日采食量 Daily feed intake/(kg/d)</td><td>代谢能摄入量 Metabolic energy intake/(MJ/d)</td></tr><tr><td>1.12 M</td><td>2.17</td><td>29.10</td></tr><tr><td>1.32 M</td><td>2.56</td><td>34.23</td></tr><tr><td>1.52 M</td><td>2.94</td><td>39.37</td></tr><tr><td>1.72 M</td><td>3.33</td><td>44.50</td></tr></table></body></html>
+
+项目Items 含量Content  
+原料 Ingredients  
+玉米Corn 60.00  
+豆粕 Soybean meal 26.00  
+麦麸Wheat bran 8.50  
+大豆油 Soybean oil 1.50  
+预混料 Premix1) 4.00  
+合计 Total 100.00  
+营养水平 Nutrient levels2)  
+总能 GE/(MJ/kg) 16.39  
+粗蛋白质CP 16.50  
+赖氨酸Lys 1.07  
+钙Ca 0.92  
+总磷TP 0.51
+
+1预混料为每千克饲粮提供The premix provided the following per kg of the diet：VA 5 600IU,VD3 4 000 IU,VE 25 IU, $\mathrm { V K } _ { 3 } 2 . 2 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 5 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 7 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 2 5$ mg，烟酸 nicotinic acid $3 2 . 5 \mathrm { m g }$ ，泛酸 pantothenic acid $2 2 . 5 \mathrm { m g }$ ，叶酸 folic acid $4 \ : \mathrm { m g }$ ，生物素biotin $0 . 5 \mathrm { m g }$ ，Mn $1 0 0 ~ \mathrm { { m g } }$ ，Fe $1 2 0 ~ \mathrm { m g }$ ， $Z _ { \mathrm { n } } 7 5 ~ \mathrm { m g }$ ， $\mathrm { C u 4 0 ~ m g }$ ，Se $0 . 2 5 \mathrm { m g }$ ， $\mathrm { ~ I ~ } 1 . 5 \ : \mathrm { m g }$ ，Ca（204号 $1 2 . 5 \ \mathrm { g }$ ，P $1 . 0 \ : \mathrm { g }$ ， $\mathrm { N a C l } 3 . 0 \ \mathrm { g }$ ，胆碱choline $0 . 5 \mathrm { \ g }$ ，赖氨酸Lys $0 . 6 \ \mathrm { g }$ 。2总能、粗蛋白质、赖氨酸、钙、总磷均为实测值。GE,CP,Lys,Ca and TPwere all measuredvalues.
+
+1.2样品采集
+
+妊娠85、107d以及断奶时，母猪称重、测背膘并记录。分娩后记录产仔数，包括总产仔数、产活仔数、死胎数；仔猪在出生后24h内称重；断奶时记录仔猪头数并称取窝重。记录母猪哺乳期间采食量，计算平均日采食量。妊娠85、100和107d时，05:30喂食4h后至11:00喂食前，通过母猪耳缘静脉采集非抗凝血，常温下静置1h后，4℃下 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 分离血清，于-20℃保存。
+
+# 1.3血脂代谢相关指标测定
+
+血清样品于4℃解冻后，用全自动生化分析仪（日立7600，日本）测定血清中TG、TC、LDL、HDL的浓度，测定所用试剂盒购于北京莱帮生物技术有限公司。
+
+# 1.4 数据处理与分析
+
+数据采用SPSS20.0统计软件中的一般线性模型（GLM）进行方差分析，以母猪个体和仔猪个体性能和窝别为统计单元，各处理为主效应因子。对同一妊娠时间母猪血脂代谢常规指标做单因素方差分析，以处理为主效应因子。结果用平均值和均值标准误（standard error ofthe mean,SEM）表示， $P { < } 0 . 0 5$ 时表示统计学差异显著， $0 . 0 5 { \le } P { < } 0 . 1 0$ 时表示有显著变化趋势。
+
+2结果
+
+2.1妊娠后期能量饲喂水平对母猪繁殖性能的影响由表4可知，随着妊娠后期能量饲喂水平的增加，哺乳母猪平均日采食量线性下降（依  
+次为4.86、4.46、4.28和 $3 . 9 5 \mathrm { k g / d } \dot { }$ ，各组间差异显著（ $. P { < } 0 . 0 5 )$ ；在低、中等、高和极高能量  
+饲喂水平的各组间，母猪总产仔数、产活仔数以及仔猪断奶窝重、断奶头数之间无显著差异1 $. P { > } 0 . 0 5 )$ ，仔猪初生重有线性升高趋势（ $_ { . } { P = } 0 . 0 5 7 .$ )。
+
+# 表4妊娠后期能量饲喂水平对母猪繁殖性能的影响
+
+Table 4Effects of energy feeding level in late gestation on reproductive performance of sows
+
+<html><body><table><tr><td></td><td>组别 Groups</td><td></td><td></td><td>均值标准误</td><td>P值P-value</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.12M</td><td>1.32M</td><td>1.52M</td><td>1.72M</td><td>SEM</td><td>方差分 线性</td><td>二次</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>析</td><td>Linear</td><td>Quadrati</td></tr><tr><td>胎次 Parity</td><td>4.3</td><td>4.2</td><td>3.9</td><td>4.1</td><td>0.16</td><td>AVOVA 0.876</td><td>0.552</td><td>0.737</td></tr><tr><td>母猪体重 Sows'body weight/kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>妊娠85d Day 85 of gestation</td><td>217.8</td><td>218.7</td><td>219.7</td><td>220.3</td><td>2.07</td><td>0.979</td><td>0.663</td><td>0.980</td></tr><tr><td>妊娠107d Day 107 of gestation</td><td>226.6</td><td>231.0</td><td>234.7</td><td>238.8</td><td>2.13</td><td>0.222</td><td>0.037</td><td>0.980</td></tr><tr><td>断奶Weaning</td><td>193.0</td><td>195.6</td><td>194.2</td><td>193.8</td><td>2.07</td><td>0.978</td><td>0.960</td><td>0.726</td></tr><tr><td>母猪体重变化 Body weight changes of sows/kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>V 娠85~107d增重</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9 2 Body weight gain from day 85 to 107</td><td>8.8d</td><td>12.3c</td><td>15.0b</td><td>18.5a</td><td>0.42</td><td>0.001</td><td>0.001</td><td>0.829</td></tr><tr><td>0 ■ Or gestation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8 妊娠107d至断奶失重</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0 2 Body weight loss from day 107 of</td><td>33.6d</td><td>35.4</td><td>40.5b</td><td>45.1a</td><td>0.57</td><td>0.001</td><td>0.001</td><td>0.004</td></tr><tr><td>W gestation to weaning</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a 仔数 Liter size</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总产仔数 Total number born</td><td>12.2</td><td>11.1</td><td>11.4</td><td>12.7</td><td>0.29</td><td>0.155</td><td>0.444</td><td>0.031</td></tr><tr><td>产活仔数 Number born alive</td><td>11.2</td><td>10.8</td><td>9.8</td><td>11.1</td><td></td><td>0.273</td><td>0.594</td><td>0.123</td></tr><tr><td>仔猪体重 Pigletsbody weight/kg</td><td></td><td></td><td></td><td></td><td>0.28</td><td></td><td></td><td></td></tr><tr><td></td><td>1.41</td><td>1.46</td><td>1.49</td><td>1.51</td><td>0.02</td><td>0.268</td><td>0.057</td><td>0.691</td></tr><tr><td>仔猪断奶窝重 Litter wean weight of</td><td>46.70</td><td>47.07</td><td>44.16</td><td>48.06</td><td>2.30</td><td>0.954</td><td>0.958</td><td>0.717</td></tr><tr><td>Piglets/kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>仔猪断奶头数</td><td>8.2</td><td>7.4</td><td>7.7</td><td>7.9</td><td>0.26</td><td>0.738</td><td>0.772</td><td>0.365</td></tr><tr><td>Number of weaned piglets</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>哺乳母猪平均日采食量</td><td>4.86a</td><td>4.46b</td><td>4.28c</td><td>3.95d</td><td>0.06</td><td>0.001</td><td>0.001</td><td>0.561</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $. P { < } 0 . 0 5 \$ )。下表同。Values in the same row with different letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ The same as below.2.2妊娠后期能量饲喂水平对母猪血脂代谢相关指标的影响由表5可知，妊娠85、107d时，母猪血脂代谢相关指标各组之间无显著差异（ $_ { . P > 0 . 0 5 ) }$ ：妊娠100d时，随着能量饲喂水平的增加，母猪血清TC和LDL浓度呈线性升高（ $_ { . } { P \mathrm { < } 0 . 0 5 } )$ ，母猪血清TC、TG和HDL浓度呈二次升高（ $. P { < } 0 . 0 5 )$ ：
+
+# 表5妊娠后期能量饲喂水平对血脂代谢相关指标的影响
+
+Table 5Effects of energy feeding level in late gestation on blood lipid metabolism related   
+
+<html><body><table><tr><td colspan="2">122</td><td colspan="2">indicators of sows</td><td colspan="5">mmol/L P值 P-value</td></tr><tr><td></td><td colspan="3">组别 Groups</td><td colspan="5"></td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">均值标准</td><td></td><td colspan="2"></td></tr><tr><td>方差分析 误 SEM</td><td>线性</td><td>二次</td></tr><tr><td>项目Items</td><td>1.12M</td><td>1.32M</td><td>1.52M</td><td>1.72M</td><td></td><td>ANOVA</td><td>Linear</td><td>Quadratic</td></tr><tr><td>胎次 Parity</td><td>4.30</td><td>4.24</td><td>3.95</td><td>4.11</td><td>0.16</td><td>0.876</td><td>0.552</td><td>0.737</td></tr><tr><td>妊娠85dDay85of gestation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>1.51</td><td>1.59</td><td>1.76</td><td>1.62</td><td>0.04</td><td>0.191</td><td>0.154</td><td>0.173</td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>0.35</td><td>0.37</td><td>0.40</td><td>0.34</td><td>0.02</td><td>0.774</td><td>0.892</td><td>0.328</td></tr><tr><td>高密度脂蛋白 HDL/(mmol/L)</td><td>0.52</td><td>0.55</td><td>0.58</td><td>0.55</td><td>0.02</td><td>0.661</td><td>0.402</td><td>0.363</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低密度脂蛋白 LDL/(mmol/L)</td><td>0.62</td><td>0.65</td><td>0.77</td><td>0.68</td><td>0.02</td><td>0.125</td><td>0.109</td><td>0.203</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>妊娠100 d Day 100 of gestation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇TC</td><td>1.16a</td><td>1.29a</td><td>1.60b</td><td>1.37a</td><td>0.04</td><td>0.007</td><td>0.015</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.032</td></tr></table></body></html>
+
+<html><body><table><tr><td>甘油三酯 TG</td><td>0.60</td><td>0.77</td><td>0.79</td><td>0.62</td><td>0.03</td><td>0.101</td><td>0.829</td><td>0.015</td></tr><tr><td>高密度脂蛋白 HDL</td><td>0.44a</td><td>0.51ab</td><td>0.60b</td><td>0.49a</td><td>0.02</td><td>0.047</td><td>0.153</td><td>0.022</td></tr><tr><td>低密度脂蛋白LDL</td><td>0.55a</td><td>0.60a</td><td>0.76b</td><td>0.66ab</td><td>0.03</td><td>0.040</td><td>0.035</td><td>0.143</td></tr><tr><td>妊娠107 d Day 107of gestation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇 TC</td><td>0.97</td><td>1.09</td><td>1.07</td><td>1.12</td><td>0.04</td><td>0.467</td><td>0.199</td><td>0.596</td></tr><tr><td>甘油三酯 TG</td><td>0.50</td><td>0.63</td><td>0.60</td><td>0.54</td><td>0.03</td><td>0.325</td><td>0.665</td><td>0.105</td></tr><tr><td>高密度脂蛋白 HDL</td><td>0.37</td><td>0.41</td><td>0.40</td><td>0.41</td><td>0.01</td><td>0.674</td><td>0.361</td><td>0.578</td></tr><tr><td>低密度脂蛋白LDL</td><td>0.46</td><td>0.52</td><td>0.50</td><td>0.54</td><td>0.02</td><td>0.513</td><td>0.229</td><td>0.861</td></tr></table></body></html>
+
+123 2.3 妊娠时间对母猪血脂代谢相关指标的影响
+
+124 由图1可见，在妊娠后期，随着妊娠时间的延长，母猪血清TC浓度显著降低（ $( P { < } 0 . 0 5 )$ ，  
+125 血清TC浓度在妊娠85、100和107d时分别为1.64、1.35和1.08 mmol/L；血清TG浓度先升高后  
+126 降低，在妊娠100 d时（0.71mmol/L）显著高于妊娠85、107d时（分别为0.36、0.58 mmol/L），  
+127 同时妊娠107d时依然显著高于妊娠85d时（ $\scriptstyle P < 0 . 0 5$ )；血清HDL浓度先平稳后降低，在妊娠  
+128 107 d时（0.41mmol/L）显著低于妊娠85、100 d时（分别为0.56、0.55mmol/L）（ $. P { < } 0 . 0 5$   
+129 母猪血清LDL浓度逐渐降低，在妊娠107d时（ $\mathrm { . 0 . 5 0 m m o l / L }$ ）显著低于妊娠85和100d时（分  
+130 别为0.68、0.62 mmol/L）（ $. P { < } 0 . 0 5$ ）
+
+![](images/feb6c7d5f733f8a91c330d1ea439f4684fd30afcab61e6a9ea27483f7559390b.jpg)  
+Effect ofPregnant periodsonSowsSerumTCConcentration
+
+![](images/ae3c96b2a12cb78c7ab0e85ebe7221a92af8ad4cb282693e32e81fe7110a8805.jpg)  
+图1妊娠时间对母猪血脂代谢相关指标的影响
+
+数据柱形标注不同小写字母表示差异显著（ $. P { < } 0 . 0 5 )$ 。Date columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$
+
+Fig.1Effects of gestation time on blood lipid metabolism related indicators of sows
+
+3讨论
+
+母猪妊娠期的能量需求是用来满足自身维持、孕体生长和母体蛋白质沉积[13-14]。母猪在  
+妊娠期间采用阶段饲喂的饲养方式，妊娠前期和中期对母猪限制饲喂，妊娠后期增加营养供  
+给。在生产条件下，实施妊娠母猪的限制饲喂通常采用控制采食量和降低饲粮养分含量等方  
+式。控制采食量的限制饲喂方式，不仅控制量采食量摄入，而且保证每头母猪摄入的饲粮营  
+养组分的比例固定，饲喂操作简便，生产应用普遍。妊娠后期胎儿生长迅速， $70 \%$ 的体重在这一阶段完成[15],此时母猪对能量的需求量增加,  
+同时对蛋白质的需求量也随着妊娠的进行而增加，妊娠母猪对蛋白知和氨基酸缺乏有很高的  
+耐受力[16]，但有研究报道，妊娠期增加蛋白质摄入能提高母猪妊娠期采食量和泌乳力[17]。  
+妊娠后期饲粮中添加脂肪有助于提高仔猪初生重和存活率[18]。为了追求高仔猪初生重和存活率，生产上在妊娠后期会出现攻胎现象，而妊娠母猪由于素抵抗，高水平的胰岛素刺激瘦素的分泌[19]。研究报道，肥胖小鼠体内瘦素受体基因突变，瘦素mRNA的表达降低[20]，多数肥胖患者体内存在瘦素抵抗[21]，而胰岛素和瘦素抵抗与脂代谢紊乱密切相关[22]。  
+饲粮能量是动物生长发育、繁殖、泌乳等生理机能的首要营养限制因素[23]，对于妊娠母猪而言，妊娠后期是胎儿和乳腺生长发育的关键时期，母猪对饲粮能量的敏感性很高，同时妊娠期间能量的摄入还将影响母猪随后的泌乳性能，所以妊娠期适当的能量供给对提高母猪繁殖和泌乳性能发挥至关重要的作用。妊娠期提高能量供给会使仔猪初生重增加，从而增加仔猪存活率以及之后的断奶重[24],经产母猪妊娠期间能量的摄入与仔猪初生重之间呈线性关系[25]；妊娠期不同能量饲喂水平对窝产仔数无显著影响[26]，但随着妊娠期间能量饲喂水平的升高，母猪哺乳期间采食量呈下降趋势[27]。本试验结果同样证实了妊娠后期能量饲喂水平的升高显著降低了母猪哺乳期平均日采食量，而哺乳期母猪采食量过低会增加哺乳期失重，影响泌乳量，同时还会延长断奶到发情间隔[28]。本试验结果发现能量饲喂水平对仔猪初生重有线性升高趋势，未达到显著水平。影响仔猪初生重的因素是多方面的，本试验的统计单元数较少，这可能是其中的一方面。妊娠后期胎儿及乳腺生长发育迅速，对能量的需求会随之增加，但在实际生产中，妊娠后期的能量饲喂水平不应过高，以免对妊娠母猪繁殖性能和随后的哺乳性能以及下一胎次的繁殖性能带来负面影响。  
+血清生化参数反映机体的营养代谢情况，从而间接反映动物生长发育及健康状况。妊娠期体内胎儿发育的营养驱动使母体发生生理变化，从而导致母体血液中的相应生化指标的改变。血脂代谢相关指标TG、TC、HDL、LDL浓度能反映机体能量和脂代谢状况，与母猪的健康水平密切相关，血液中TC、TG和LDL浓度过高或HDL浓度过低时，引发高脂血症，现代医学称之为血脂异常[29]。  
+血液中TG浓度反映着机体内脂肪组织的发育和沉积情况，饲喂母猪高脂饲粮，母猪血液中TG和TC浓度升高[30]。van Oort等[31]以猪作为模型，在研究脂蛋白代谢的试验中发现饲粮能量的增加引起母猪血液中TC浓度的升高。公猪在饲喂一段时间的高能饲粮后也会使血液中TG和TC浓度升高[32]，血液中高浓度的TG和TC是血脂代谢异常的先兆症状，但上限临界值尚不清楚[33]。人的血脂代谢异常是心血管系统疾病的重要危险因素之一[8]。血脂代谢异常的同时还会引发一系列的代谢综合征，如高血压、高血糖等，给母猪的生产性能带来负面影响[12]。本试验发现妊娠100d时，母猪血清中TC和TG浓度随着能量饲喂水平的升高呈二次升高，预示着妊娠后期能量饲喂水平的增加可能会引起母猪血脂代谢异常。  
+血液中的HDL和LDL与体内脂类物质的转运密切相关。在妊娠母猪饲粮中额外添加饱和脂肪酸会使血清中LDL浓度升高，同时还会降低血清中HDL浓度[34]。妊娠期过度饲喂造成母猪妊娠期增重过多，引起血清TG、TC、LDL浓度升高，HDL浓度降低[34]，妊娠期间血脂水平偏高会引发一系列的产后并发症，还会影响后代的健康[35]。人体血清HDL浓度降低被作为心血管系统疾病的一大风险预兆[36]，妊娠妇女在首次妊娠时，妊娠后期血液HDL浓度不会降低，随着妊娠次数的增加，在之后的妊娠期中其浓度会越来越低[37]。本试验中所用母猪均为2～6胎次的经产母猪，在妊娠后期母猪血清中HDL浓度可能受胎次影响，但需要进一步研究。  
+不同妊娠阶段母猪对能量的需求也不同，所以母猪血脂代谢相关指标的变化情况在不同妊娠阶段存在差异。随着妊娠时间的延长，血清中TG和TC的浓度会增加[37]，妊娠后期母猪血清中TG、TC和LDL的浓度显著高于妊娠前期和中期，HDL浓度则显著低于妊娠前期和中期[33]。研究发现，孕妇血清TG、TC、LDL浓度较非妊娠妇女高，而HDL浓度则较非妊娠妇女低，且妊娠后期较妊娠前期与中期更明显[36]。本试验中，在妊娠后期，随着妊娠时间的延
+
+长，母猪血清TC和LDL浓度降低，血清HDL浓度在妊娠107d时显著低于妊娠85d和100 d时，而TG浓度在后期一直较高，妊娠100和107d时显著高于妊娠85d，这表明在妊娠后期母猪血清TG浓度处于较高水平，血清HDL浓度处于较低水平，在此时如果过度增加能量的供给，母猪血脂代谢异常的发生几率可能提升，从而对母猪的繁殖性能和健康状况造成负面影响。
+
+4结论
+
+#
+
+$\textcircled{1}$ 妊娠后期增加能量饲喂水平会显著降低母猪哺乳期的采食量。$\textcircled{2}$ 妊娠后期母猪血脂浓度处于生理较高水平，在此基础上增加能量饲喂水平可进一步引起血清TG、HDL、LDL和TG浓度的升高，容易引发母猪血脂代谢异常。参考文献：[1]胡建红,岳国璋,杜芳,等.营养调控对母猪繁殖性能的影响[J].畜牧兽医杂志,2011,30(6):43-44.[2]周根来,殷洁鑫.影响母猪繁殖性能的营养因素及调控措施[J].中国畜牧兽医,2012,39(11):90-93.[3]周东胜.日粮能量水平和来源对后备母猪初情期启动、卵泡质量影响及机理研究[D].博士学位论文.雅安:四川农业大学,2013.[4]PANGENI D P,KIM J S,YANG X,et al.Phase feding of sows during lactation andgestation[C]//ALLEND.Lemanswineconferencesaturday.St.Paul,Minnesota:St.PaulRivercentre,2013.[5]张文明,何若钢,李秀宝,等.后备、妊娠和哺乳母猪的能量需要及饲养策略[J].上海畜牧兽医通讯,2007(6):67-68.[6] 周根来,殷洁鑫.影响母猪繁殖性能的营养因素及调控措施[J].中国畜牧兽医,2012,39(11):90-93.
+
+[7]吴德.营养水平对妊娠和非妊娠母猪生产成绩及蛋白质代谢的影响[D].博士学位论文.雅安:四川农业大学,2003.
+
+[8]潘秀琴,李巍,朱震宏,等.高血脂相关因素分析[J].新疆医科大学学 报,1998(4):326-328.   
+[9]曾治君.猪血脂性状的遗传解析[D].博士学位论文.南昌:江西农业大学,2014.   
+[10] 马海会,李楠,杨洁,等.正常妊娠期血脂参考值探讨[J].中国医刊,2014(4):87-88. [11] MARTIN R J,GOBBLE J L,HARTSOCK T H,et al.Characterization of an obese syndrome in the pig[J].Proceedings of the Society for Experimental Biology and Medicine.Society for Experimental Biology and Medicine,1973,143(1):198-203.   
+[12] TORRES-ROVIRA L,ASTIZ S,CARO A,et al.Diet-induced swine model with obesity/leptin resistance for the study of metabolic syndrome and type 2 diabetes[J].The Scientific World Journal,2012,2012(12):510149.   
+[13] NRC.Nutrient requirements of swine[S].11th ed.Washington,D.C.:The National Academies Press,2012.   
+[14]李德发.猪的营养[M].2 版.北京:中国农业科学出版社,2003.   
+[15]刘惠芳,周安国,吴德,等.妊娠母猪的阶段饲喂[J].中国饲料,2015(12):8-10.   
+[16]张金枝.日粮能量结构对母猪繁殖和泌乳性能的影响研究[D].博士学位论文.杭州: 浙江大学,2009.   
+[17]MAHAN D C.Relationship of gestation protein and feed intake level over a five-parity period using a high-producing sow genotype[J].Journal of Animal Science,1998,76(2):533-541.   
+[18]杨公社.猪生产学[M].北京:中国农业出版社,2002:188-189.   
+[19]巍涛.女性单纯性肥胖与内分泌激素的相关性研究[D].硕士学位论文.青岛:青岛大
+
+学,2004.
+
+[20]ZHANG Y Y,PROENCA R,MAFFEI M,et al.Positional cloning of the mouse obese gene and its human homologue[J].Nature,1994,372(6505):425-432.
+
+[21] SINHA M K.Human leptin:the hormone of adipose tissue[J].European Journal of Endocrinology,1997,136(5):461-464.
+
+[22] 金思思,汪春湖,吴金明.胰岛素抵抗与脂代谢紊乱[J].临床内科杂 志,2008,25(9):647-648.   
+[23]李马.提高能量浓度对母猪生产性能及生化指标的影响[D].硕士学位论文.南京:南 京农业大学,2009.   
+[24]HEO S,YANG Y,JIN Z,et al.Effects of dietary energy and lysine intake during late gestation and lactation on blood metabolites,hormones,milk compositions and reproductive performance in primiparous sows[J].Canadian Journal of Animal Science,2008,88(2):247-255.   
+[25] PLUSKE J R,WILLIAMS I H,AHERNE F X.Nutrition of the neonatal pig[M].The neonatal pig:development and survival.Wallingford:CAB International,1995:187-235. [26]REN P,YANG X J,KIM J S,et al.Effect of different feeding levels during three short periods of gestation on sow and litter performance over two reproductive cycles[J].Animal Reproduction Science,2017,177:42-55.   
+[27]LAWLOR P G,LYNCH P B,KAREN M,et al.The influence of over feeding sows during gestation on reproductive performance and pig growth to slaughter[J].Archiv Fur Tierzucht,2007,50(Suppl.1):82-91.   
+[28]任静.高血脂症的防治[J].当代医学,2009,15(2):71-72.   
+[29] GONCALVES M A,GOURLEY K M,DRITZ S S,et al.Effects of amino acids and energy intake during late gestation of high-performing gilts and sows on litter and reproductiveperformanceundercommercialconditions[J].JournalofAnimal Science,2016,94(5):1993-2003.   
+[30]THOMAS T R,PELLECHIA J, RECTOR R S,et al.Exercise training does not reduce hyperlipidemia in pigs fed a high-fat diet[J].Metabolism,2002,51(12):1587-1595.   
+[31] VAN OORT G,GROSS D R,SPIEKERMAN A M,et al.Effects of eight weeks of physical conditioning on atherosclerotic plaque in swine[J].American Journal of Veterinary Research,1987,48(1):51-55.   
+[32]TORRES-ROVIRA L,PALLARES P,GONZALEZ-ANOVER P,et al.The effects of age and reproductive status on blood parameters of carbohydrate and lipid metabolism in Iberian obese sows[J].Reproductive Biology,2011,11(2):165-171.   
+[33]FISHER K D,SCHEFFLER TL,KASTEN S C,et al.Energy dense,protein restricted diet increases adiposity and perturbsmetabolism in young,genetically leanpigs[J].PLoS One,2013,8(8):e72320.   
+[34]ARENTSON-LANTZ E J,BUHMAN K K,AJUWON K,et al.Excess pregnancy weight gain leads to early indications of metabolic syndrome in a swine model of fetal programming[J].Nutrition Research,2014,34(3):241-249.   
+[35] ELSHENAWYS,SIMMONSR.Maternal obesity and prenatal programming[J].Molecular and Cellular Endocrinology,2016,435:2-6.   
+[36] MANKUTA D,ELAMI-SUZIN M,ELHAYANI A,et al.Lipid profile in consecutive pregnancies[J].Lipids in Health and Disease,2010,9(1):58.   
+[37]WANG J,YANG M,CAO M,et al.Moderately increased energy intake during gestation improves body condition of primiparous sows,piglet growth performance,and milk fat and
+
+Effects of Energy Feeding Level in Late Gestation on Reproductive Performance and Blood Lipid Metabolism Related Indicators of Sows
+
+JIANG ZhaoningWANG WenhuiWU FeiWANG ZhenyuWANG ChunlinZENG XiangfangWANG Fenglai\*
+
+(College of Animal Science and Technology, China Agricultural University, Beijing 100193
+
+# China)
+
+Abstract: This experiment was conducted to investigate the effects of energy feeding level in late gestation on reproductive performance and blood lipid metabolism related indicators of sows. At d 85 of gestation,a total of 48 multiparous Large White $\cdot \times$ Danish Landrace crossbred sows were randomly divided into 4 group $( n { = } 1 2 )$ with low (L),medium (M),high (H) and extreme high (EH) energy feeding levels according to body weight and parity. The energy feeding levels for the 4 groups were 1.12,1.32,1.52 and 1.72 times of maintenance metabolic energy requirement and they were named as 1.12M, 1.32M, 1.52M and 1.72M groups, respectively. All sows were fed corn-soybean meal type diet [metabolic energy (ME）was $1 3 . 3 8 ~ \mathrm { M J / k g }$ ，and crude protein (CP) content was $1 5 . 0 9 \%$ ].The medium energy feeding level referred to NRC (2012） effective metabolic energy recommendation of pregnant sows. The low, high and extreme high energy feeding levels were decreased by $1 5 \%$ ，and increased by $1 5 \%$ and $30 \%$ on the basis of medium energy feeding level, respectively. The daily feed intake of sows in 1.12M,1.32M,1.52M and 1.72M groups were 2.17, 2.56, 2.94 and $3 . 3 2 ~ \mathrm { k g / d }$ ， and metabolic energy intake of sows were 29.10, 34.23, 39.37 and $4 4 . 5 0 \mathrm { M J / d }$ ,respectively. The trial period was 23 days.The results showed
+
+that the average daily feed intake (ADFI) of lactating sows was significantly decreased with the increase of energy feeding level( $P { < } 0 . 0 5$ ）. At 100 days of gestation, serum total cholesterol and low density lipoprotein concentrations were linearly increased with the increase of energy feeding level $( P { < } 0 . 0 5 )$ ，and serum triglycerides and high density lipoprotein concentrations were quadratically increased with the increase of energy feeding level $( P { < } 0 . 0 5 )$ . In late gestation period, serum total cholesterol concentration of sows was significantly decreased with the extension of gestation time $( P { < } 0 . 0 5 )$ ，serum high-density lipoprotein and lowdensity lipoprotein concentrations were significantly lower at 107 days of gestation than that at 100 and 85 days of gestation $( P { < } 0 . 0 5 )$ ， serum triglyceride concentration was significantly higher at 1Oo days of gestation than that at 85 and 107 days of gestation $( P { < } 0 . 0 5 )$ , and it was significantly higher at 107 days of gestation than that at 85 days of gestation $( P { < } 0 . 0 5 )$ . These findings suggest that increasing energy feeding level during late gestation reduces feed intake of sows during lactation. Blood lipid concentration is at a physiologically high level during late gestation. On this basis, increasing energy feeding level can further increase the concentrations of serum triglyceride, high-density lipoprotein,low-density lipoprotein and total cholesterol.   
+Key words: sows; late gestation; energy feeding level; reproductive performance; blood lipid metabolism related indicators

@@ -1,0 +1,179 @@
+# 矮化香蕉及其野生型GA3ox基因的结构特点和表达分析
+
+林佳琦，李燕培，肖世祥，冯斗，维言（广西大学农学院，南宁 530005）
+
+摘要：香蕉的矮化突变是香蕉无性繁殖后代最常见的表型变异，但其变异调控机理尚未研究清楚。内源赤霉素是影响植物株高的重要激素之一，GA3-氧化酶是赤霉素生物合成后期的关键酶。为探究GA3-氧化酶编码基因对香蕉矮化的分子调控机理，该文以威廉斯B6矮化突变体及其野生型亲本为试验材料，通过RT-PCR技术克隆得到矮化香蕉及其野生型亲本$G A 3 o x$ 基因的全长cDNA序列，并对其推测的氨基酸序列进行了比对分析，同时利用荧光定量PCR技术对 $G A 3 o x$ 基因在不同组织中的表达水平差异进行分析。结果表明：（1）矮化香蕉 $G A 3 o x { - } A$ 和野生型香蕉 $G A 3 o x – G$ 的ORF长度均为 $8 6 4 ~ \mathrm { b p }$ ，其推测的编码产物的氨基酸序列为287aa，经序列比对分析发现两条氨基酸序列之间存在5个位点的差异，从而产生了具有不同性质的蛋白质。（2）氨基酸序列同源性分析表明矮化香蕉GA3ox的氨基酸序列与油棕、海枣、椰子的同源性最高。（3）qRT-PCR 显示 $G A 3 o x$ 基因在矮化香蕉叶片和茎秆中的表达水平整体上低于野生型，其中， $G A 3 o x$ 在野生型茎秆中的表达水平是矮化植株的2.2\~32倍。综上推测，GA3ox基因可能对香蕉茎杆的矮化变异具有重要的调控作用。
+
+关键词： 香蕉，矮化变异，GA3-氧化酶，基因克隆，表达分析中图分类号：Q943 文献标识码：A
+
+# Structural characteristics and expression analysis of the GA3ox gene in dwarf and wild type bananas
+
+LIN Jiaqi, LI Yanpei, XIAO Shixiang, FENG Dou, XUAN Weiyan (College of Agriculture,Guangxi University,Nanning 53ooo5,China)
+
+Abstract: Dwarf mutation is the most common phenotypic variation in bananas reproduce asexually, but its regulation mechanism has not been studied clearly. Endogenous gibberelln is one of the important hormones affecting plant height, and GA3-oxidase is the key enzyme in the late biosynthesis of gibberellin. In order to investigate the molecular regulation mechanism of GA3-oxidase encoding gene on banana dwarfing, the full-length cDNA sequences of $G A 3 o x$ gene from Williams B6 dwarfing mutant and it's wild type parent were cloned by RT-PCR,and their presumed amino acid sequence were analyzed. Meanwhile, the expression level of the $G A 3 o x$ gene in different tissues of dwarfed banana and its wild type were analyzed by qRT-PCR. The results were as follows:(1） The ORF lengths of the dwarf banana $G A 3 o x { - } A$ and the wild type GA3ox- $G$ both were 864 bp,and their predicted encoding amino acid sequences were 287 aa. The comparison of the two amino acid sequences showed that there were five differences，thus generating predictive proteins with different properties.(2） Amino acid sequence homology analysis showed that the amino acid sequence of dwarf banana GA3ox had the highest homology with oil palm,date palm and coconut. (3） The qRT-PCR showed that the expresson level of $G A 3 o x$ in dwarf banana leaves and stems were lower than that of wild type. The expression level of GA3ox in wild type stems were $2 . 2 \substack { - 3 2 }$ times higher than that in dwarf plants.Therefore,these results illustrated that $G A 3 o x$ gene may play an important role in regulating the dwarfing variation of banana stem.
+
+Key words: banana, dwarf variation, GA3-oxidase, gene cloning, expression analysis
+
+香蕉是芭蕉科的高大草本植物，主要分布于热带和亚热带地区。香蕉产业是种植地区和国家的重要经济来源之一（Perrier et al.,2011；Singh et al.,2016），在我国华南地区香蕉产业是仅次于柑橘的第二大重要水果产业。在生产过程中，尤其是在沿海地区，由于香蕉植株高大、冠幅重，抗风性能差，遭遇台风或热带风暴危害时容易出现严重的倒伏现象，使香蕉产业遭受重大损失（舒海燕等，2016)。株高是影响作物抗倒伏和丰产性能的重要农艺性状，作物的株高越高、冠幅越大其抗倒伏性能越差（张瑞茂等，2019），因此，筛选和创制优良的矮化新品种和新种质是很多果树和农作物的重要育种目标。而目前由于香蕉的栽培品种和其野生资源多数是三倍体或四倍体，高度不育，很难通过杂交技术改良矮化其株高性状。但可以通过转基因或基因编辑技术改良或创制矮化的香蕉新品系或新种质（崔霞和张率斌，2017；王福军和赵开军，2018；李树磊等，2020）。而采用转基因或基因编辑技术途径进行香蕉株高矮化方面的分子育种，必须首先研究清楚香蕉株高生长调控的机制和挖掘与香蕉矮化相关的关键调控基因。已有的研究表明，植物的株高生长主要受内源激素影响，其中赤霉素是植物生长发育过程中对株高伸长生长影响最大的激素(杨益善等,2015;范业赓等,2019)。目前已鉴定的赤霉素有136种，其中具有生物活性的赤霉素仅有GA1、GA3、GA4、GA7（Hedden＆Thomas,2012）。这些具有生物活性的赤霉素在植物生长发育各个阶段都发挥着重要作用，如叶片伸展、茎的伸长、果实发育等（Huetal.,2018）。有研究表明，许多植物的株高受赤霉素（GAs）生物合成和代谢过程中相关酶基因的调控，如古巴焦磷酸合成酶基因（CPS）、内根-贝壳杉烯合成酶基因（ $| K S \rangle$ ）、内根-贝壳杉烯氧化酶基因（KO）、GA3氧化酶基因 $\langle G A 3 o x \rangle$ 和GA2氧化酶基因（ $( G A 2 o x )$ 等（Hedden & Pnillips,20oO; Yamaguchi,2008）。目前大多数赤霉素合成途径的关键酶基因在多种植物中已被研究和鉴定，如在拟南芥（Helliwel et al.,1998）、玉米（Chen et al.,2014）、水稻（Ashikari et al.,2002; Sasaki et al.,2002）和豌豆（Ait-Ali etal.,1997;Davidson etal.,2004）等植物中都发现了许多由于赤霉素合成途径中代谢酶基因的变异导致矮化表型的相关植株。因此，赤霉素生物合成途径关键酶基因的研究在植物矮化机制中十分重要。
+
+GA3-氧化酶（GA3ox）是活性赤霉素代谢途径中最后步骤的关键酶，是由多基因家族编码的双加氧酶，其功能是介导一个 $3 \beta \cdot$ -羟基基团到GA9和GA20上，将无生物活性的GA9和GA20 催化形成具有生物活性的GA1、GA4 和GAs(Kasahara et al.,2002;Yamaguchi,2008;陈晶晶等，2014）。若 $G A 3 o x$ 基因发生突变，使植物不能合成具有活性的赤霉素，植物株高生长受到抑制，从而导致矮化表型出现。此外，在许多矮化突变体中发现植物株高性状与$G A 3 o x$ 基因的表达水平密切相关，当 $G A 3 o x$ 基因的表达水平受抑制时，植株会出现矮化性状（Itoh et al.,2001；Reinecke et al.,2013；Roumeliotis et al.,2013）。因此，研究GA3ox 基因结构变化及其表达特点与香蕉茎杆矮化的关系是揭示香蕉矮化变异分子机制的重要内容，对于挖掘调控香蕉株高关键基因及其应用具有重要的研究意义。目前，已有研究报道在矮化变异的香蕉突变体苗期，其假茎GA1和GA3含量显著低于野生型亲本，并且外源GA3 和IAA 能使其株高恢复到野生型高度（陈晶晶等，2014）。但香蕉的矮化变异是否与 $G A 3 o x$ 基因的结构和表达水平改变有关，目前尚未见有研究报道。
+
+本研究以威廉斯B6矮化突变体及其野生型亲本为试验材料，通过RT-PCR技术克隆得到矮化香蕉及其野生型亲本 $G A 3 o x$ 基因的全长cDNA序列，并利用荧光定量PCR技术对$G A 3 o x$ 基因在不同组织中的表达差异进行分析。拟探讨以下问题：（1）矮化香蕉和野生型香蕉GA3ox蛋白同源性、理化性质分析；（2）矮化香蕉和野生型香蕉GA3ox氨基酸序列的结构差异分析；（3）GA3ox基因在矮化香蕉及野生型香蕉不同组织中的表达水平差异分析。本研究结果皆在为揭示香蕉矮化突变的分子机制与筛选优良矮化香蕉株系奠定基础。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+以威廉斯B6矮化突变体及其野生型亲本为试验材料，均采自于广西大学农学院农科基地温网室。选取长势一致、无病虫害的矮化突变体及其亲本香蕉树各两株，分别采集香蕉生长发育前期嫩叶、假茎样品用于基因克隆及表达分析。所有材料采集后立即放入液氮中冻存，$. 8 0 ^ { \circ } \mathrm { C } .$ 冰箱保存备用。
+
+# 1.2 试验方法
+
+# $1 . 2 . 1 G A 3 o x$ 基因克隆与测序
+
+采用TIANGEN多糖多酚植物总RNA提取试剂盒提取香蕉幼嫩叶片中的总RNA。按照M-MuLV第一链cDNA合成试剂盒说明书将完整度较好、纯度较高的RNA反转成cDNA第一链，以cDNA为模板，根据 NCBI上发表的 Musa acuminata subsp.malaccensis 的 $G A 3 o x$ 编码基因的ORF（XM_009398371.2）设计一对特异引物，引物序列为GA3ox-F：$5 ^ { \prime }$ -ATGAATCCCAATCCAACGAC- $\cdot 3 ^ { \prime }$ ，GA3ox-R： $5 ^ { \prime }$ -TTAACAACAAATCCCTTCG- $. 3 ^ { \prime }$ 。采用高保真 taq 酶进行RT-PCR扩增，PCR反应程序： $9 5 \ \mathrm { ^ { \circ } C } \ 3 \ \mathrm { m i n }$ · $9 5 ^ { \circ } \mathrm { C } 1 5 \mathrm { ~ s ~ }$ ， $5 5 ^ { \circ } \mathrm { C } 1 5 \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ $5 ~ \mathrm { m i n }$ ，35个循环； $7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 0 ~ \mathrm { { m i n } }$ ， $4 ~ { ^ \circ } \mathrm { C }$ 保存。扩增产物经 $1 \%$ 琼脂糖凝胶电泳检测正确后，使用 SanPrep柱式DNA胶回收试剂盒将目的片段回收纯化，将回收产物与PUCI-Blunt克隆载体相连接后，送至上海生工生物公司测序。
+
+# $1 . 2 . 2 G A 3 o x$ 基因表达分析
+
+利用实时荧光定量PCR分析 $G A 3 o x$ 基因在矮化突变体及野生型香蕉不同组织中的表达模式。分别采集矮化香蕉和野生型香蕉第10片、15片、20片、25片叶龄期嫩叶及对应时期的假茎,液氮速冻后提取RNA。利用PrimeScriptRTreagent Kit with gDNA Eraser将 RNA转化为cDNA，根据克隆得到的矮化香蕉和野生型香蕉的GA3ox全长cDNA序列设计特异性引物，引物序列为GA3oX-qF： $5 ^ { \prime }$ CTGGATCACGCCCTCAAGCTC $. 3 ^ { \prime }$ 和 GA3ox-qR:$5 ^ { \prime }$ -TCAACTGCAACACGGCGGACA- $\cdot 3 ^ { \prime }$ ，扩增片段长度为 $2 0 3 ~ \mathrm { b p }$ ；以香蕉Actin作为内参基因，在GenBank登录号为AB022041，引物序列为Actin-F：$5 ^ { \prime }$ -GCCATACAGTGCCAATCTACGAGG- $. 3 ^ { \prime }$ 和 Actin-R ：$5 ^ { \prime }$ -ATGTCACGAACAATTTCCCGCTCA $. 3 ^ { \prime }$ ，扩增片段长度为 $1 5 7 \mathrm { b p }$ ，进行基因的表达定量分析。采用 2XUniversal SYBR GreenFast qPCRMix 染料说明书进行操作，qRT-PCR 流程第一步为 $9 5 \ \mathrm { ^ { \circ } C } \ 3 \ \mathrm { m i n }$ ；第二步为 $9 5 ^ { \circ } \mathrm { C } 5 \mathrm { \ s }$ ， $6 0 ^ { \circ } \mathrm { C } 3 4 \mathrm { s }$ ，40个循环；第三步熔解曲线的绘制：$9 5 ^ { \circ } \mathrm { C } 1 5 \mathrm { ~ s ~ }$ ， $6 0 \ { ^ \circ } \mathrm { C } \ 1 \ \operatorname* { m i n }$ ， $9 5 ^ { \circ } \mathrm { C } 1 5 \mathrm { ~ s ~ }$ 。每个反应重复3次，结果采用 $2 ^ { - \triangle \triangle \mathrm { C T } }$ 方法计算基因的相对表达量。
+
+# 1.2.3序列分析
+
+利用 NCBI数据库上的BLASTp 进行GA3ox 氨基酸序列相似性分析；通过 ExPASy 在线软件（htps://web.expasy.org/protparam）对GA3ox 蛋白的分子质量、等电点、蛋白质稳定性等理化性质进行分析和预测；利用 SignalP（http://www.cbs.dtu.dk/services/SignalP）和TMHMM Server V.2.0（htp://www.cbs.dtu.dk/services/TMHMM）分析 GA3ox 氨基酸序列的跨膜结构和信号肽。
+
+# 2结果与分析
+
+# 2.1香蕉矮化突变体与野生型GA3ox基因的序列比对分析
+
+以矮化香蕉和野生型香蕉嫩叶的cDNA 为模板，利用 primer 5.0 软件设计GA3ox 基因的特异性引物进行PCR扩增。扩增产物通过 $1 \%$ 琼脂糖凝胶电泳进行检测,得到两条1000 bp左右的特异性条带（图1），测序后这2个靶序列的全长均为 $1 0 9 6 { \mathrm { b p } }$ ，将获得矮化突变体$G A 3 o x$ 基因命名为 $G A 3 o x { - } A$ ，野生型香蕉 $G A 3 o x$ 基因命名为GA3ox-G。通过测序得到$G A 3 o x { - } A$ 和 $G A 3 o x – G$ 的全长序列均为1096 bp， $G A 3 o x { - } A$ 和 $G A 3 o x – G$ 的 ORF 均为 864 bp,$5 ^ { \prime }$ -UTR为 $2 3 2 \mathrm { b p }$ ，其推测的编码氨基酸序列长度287aa。
+
+M.DL5000Maker;A.GA3ox-A；B.GA3ox-G。
+
+![](images/e9e3a938badc9830a28098e71a7c149d63ffeaba242082ad4bab14165a0ebd8a.jpg)  
+图1矮化香蕉与野生型香蕉 $G A 3 o x$ 基因 PCR 扩增产物  
+图2矮化香蕉与野生型香蕉GA3ox氨基酸序列比对分析
+
+Fig.1 PCR amplification products of the $G A 3 o x$ gene from dwarf banana and wild type banana对GA3ox-A和GA3ox-G的氨基酸序列进行比对分析，结果显示两条氨基酸序列之间的同一性高达 $9 8 . 2 6 \%$ ，存在5个位点的差异，分别位于第29位、38位、84位、196位、259位（图2）。
+
+GA3ox-A MASARTCWSGSSPRRAASSRSPWTRSLRRPARPTASPAMVSLASPASSPSSCGPRASPSPAPLWITPSSGRMPIPPASGDVMQ 84 GA3ox-G MASARTCWSGSSPRRAASSRSPWTRSLRRSARPTASPAIVSLASPASSPSSCGPRASPSPAPLWITPSSSGRMPIPPASGDVMQ 84 Consensus masartcwsgssprraassrspwtrslrr arptaspa vslaspasspsscgpraspspaplwitpsssgrmpippasgdvmq GA3ox-A EYSDEMKQVAGRVVRLMLLSMGLTPEEMKRAEEGTRVDQLSAVLQLNSYPPCPDPNRAMGLAAHTDSSLVTLLFQSGTSGLQLL 168 GA3oX-G DYSDEMKQVAGRVVRLMLLSMGLTPEEMKRAEEGTRVDQLSAVLQLNSYPPCPDPNRAMGLAAHTDSSLVTLLFQSGTSGLQLL 168 Consensus ysdemkqvagrvvrlmllsmgltpeemkraeegtrvdqlsavlqlnsyppcpdpnramglaahtdsslvtllfqsgtsglqll GA3oX-A RRQDQHGPARWVTVPPRPGALIVLAGDLEQILTNGRYKSVAHRAVVNRNHHRVSVAYICGPPPHHKLSPVGKPASPAPCLAYRA 252 GA3oX-G RRQDQHGPARWVTVPPRPGALIVLAGDLIQILTNGRYKSVAHRAVVNRNHHRVSVAYICGPPPHHKLSPVGKPASPAPCLAYRA 252 Consensus rrqdqhgparwvtvpprpgalivlagdl qiltngryksvahravvnrnhhrvsvayicgppphklspvgkpaspapclayra GA3oX-A VSWADYLGLKAELFDKALASIMVAEDSRGDEGIC 286 GA3oX-G VSWADYLALKAELFDKALASIMVAEDSRGDEGIC 286 Consensus vswadyl lkaelfdkalasimvaedsrgdegic
+
+Fig. 2 Analysis of GA3ox amino acid sequence comparison from dwarf banana and wild type banana
+
+# 2.2香蕉矮化突变体与野生型GA3ox蛋白质理化性质及保守结构域分析
+
+将得到的矮化突变体与野生型香蕉GA3ox氨基酸序列进行理化性质分析，结果显示，GA3ox-A 和GA3ox-G分子式分别为 $\mathrm { C _ { 1 3 3 8 } H _ { 2 1 5 2 } N _ { 4 0 2 } O _ { 3 9 5 } S _ { 1 7 } }$ 和 $\mathrm { C _ { 1 3 3 2 } H _ { 2 1 5 0 } N _ { 4 0 2 } O _ { 3 9 7 } S _ { 1 6 } }$ ，蛋白分子量分别为 $3 0 7 3 5 . 2 8 \mathrm { D a }$ 和 $3 0 6 6 1 . 1 4 \mathrm { D a }$ ，理论等电点均为9.78。其中GA3oX-A 和GA3ox-G蛋白负电荷的残基总数 $\left( { \bf A s p + G l u } \right)$ 均为20个，正电荷的残基总数（ $( \mathrm { { A r g + L y s } ) }$ 均为32 个。GA3ox-A和GA3ox-G蛋白的不稳定指数分别为67.46和68.79，均属于不稳定蛋白。脂肪指数分别为76.90 和78.61。亲水平均系数分别为-0.240 和-0.236。根据 NCBI在线软件对编码蛋白的结构域进行分析，发现GA3ox-G 和GA3ox-A具有2-酮戊二酸依赖性的双加氧酶的与 $\mathrm { F e } ^ { + 2 }$ 结合的保守结构域，这和其他植物的GA3ox蛋白相同。
+
+# 2.3香蕉矮化突变体与野生型GA3ox蛋白质磷酸位点及其高级结构预测分析
+
+蛋白磷酸位点分析显示GA3ox-A 和GA3ox-G蛋白均含有丝氨酸、苏氨酸和酪氨酸 3种氨基酸磷酸化位点，GA3ox-A和GA3ox-G分别含有丝氨酸22个和24个，苏氨酸7个和8个，酪氨酸2个和4个。跨膜结构分析显示GA3ox-A和GA3ox-G氨基酸序列的期望值分别为0.03729和0.02898，均无跨膜区域。
+
+利用 SOPMA在线软件对GA3ox-A 和GA3ox-G 蛋白的二级结构进行预测分析，结果显示GA3ox-G蛋白含有四种构象，分别包括 $2 8 . 5 7 \%$ 的 $\scriptstyle { \mathfrak { a } } .$ 螺旋， $1 6 . 3 8 \%$ 的延伸链， $3 . 4 8 \%$ 的${ \beta }$ -转角和 $5 1 . 5 7 \%$ 的无规则卷曲（图3）；GA3ox-A蛋白含有四种构象，分别为 $2 6 . 1 3 \%$ 的 $\mathbf { \boldsymbol { a } } .$ 螺旋， $1 7 . 4 2 \%$ 的延伸链， $3 . 4 8 \%$ 的 $\beta$ -转角和 $5 2 . 9 6 \%$ 的无规则卷曲（图4）。
+
+红色．延伸链；蓝色. $\mathfrak { a }$ -螺旋；紫色.无规则卷曲；绿色. $\beta$ -转角。下同。   
+Red.Extended chain；Blue. $\mathfrak { a }$ -helix；Purple.Random coil；Green. $\beta$ -turn.The same below.
+
+![](images/6a396ccc6eb0744f40a7390030896b514dfb23762016b5e7da00b617240bb99f.jpg)  
+图3GA3ox-G蛋白二级结构预测  
+Fig.3 Secondary structure prediction of GA3ox-G protein   
+图4GA3ox-A蛋白二级结构预测  
+Fig. 4 Secondary structure prediction of GA3ox-A protein
+
+m 50 100 150 200
+
+2.4香蕉矮化突变体与野生型GA3ox氨基酸序列同源性比对分析
+
+利用 NCBI中的Blastp 分析矮化突变体与野生型香蕉GA3ox蛋白的氨基酸序列，同时与其他物种的氨基酸序列进行同源性比对。结果发现，矮化香蕉GA3ox 的氨基酸序列与油棕（XP_010915137.1）、海枣（XP_008811603.3）、椰子（ARI45601.1）的同源性最高，序列同源性分别为 $6 2 . 5 \%$ 、 $6 2 . 5 \%$ 和 $6 1 . 5 \%$ 。经序列比对发现，香蕉矮化突变体及其野生型亲本GA3ox 的氨基酸序列在N末端比油棕、海枣和椰子等三种植物的GA3ox缺失了63 个aa,C末端缺失了7个aa（图5）。
+
+GA30X-A RTC GSSPRRAASSRS 21   
+GA30X-G /Z SARTCWS GSSPRRAASSRS 21   
+ARI45601.1 MPSLSDVHHPHHHLHLEFESVRELPESHAWPTLHDHPCVSEPVPVIDLADPKAAEFMARACVSWGAFQVTGHGVAPRLLEAIDS 84   
+XP 010915137.1 MPSLSDVHHPHHLHLEFESVRELPESHAWPTLHDHPCVSEPVPVIDLADPKAAEFMARDCVSOGAFQVTGHGVAPRLLEAIDS 84   
+XP_008811603.3 MPSLSDVLLDQAH.HLEFESVHELPESHAWPTLHDHPCVSEPVPVIDMADPKAAEFMARACVSOGAFQVTGHGVAPR RLLESIDS 83   
+Consensus maa W g pr S   
+GA30X-A PWTR ..SLRRPARPTASPAMVSLASPASSPSSCGPRASPSPAPLWITPSSSGRMPIPPASG. D /MQEYSDEMKC VAGRVV 98   
+GA30X-G PWTR....SLRRSARPTASPATVSLASPASSPSSCGPRASPSPAPLWITPSSSGRMPIPPASG...DVMQDYSDEMKQVAGRVV 98   
+ARI45601.1 EMRRLFALPIQQKLKAARPPDGISGYGLVPISSFFAKLMWSEGFTIAGSPLDHARKLWPHDPDQFCD VIERYDQVMKALAGRLI 168   
+XP 010915137.1 EMR LFALPIQQKLKAARPPDGISGYGLVPISSFFAKLMWSEGFTIAGSPLDHARKLWPHDPDQFCDVIERY! DQVA MKALAGRLI 168   
+XP_008811603.3 EMRRLFALPTQQKLKAARPADGVSGYGLVPISSFFAKLMWSEGFTIAGS LDHARKLWPHDPDQFCDAIERYDREMKALAGRLI 167   
+Consensus r S S p r p d Y mk agr   
+GA30X-A RLMEHS CLTPPMKRA.EEGTRVDO SAVI LNSYP CPDPNRAMGLAAHDSSLVILLE SESCIOIRRODOHGPARWVT 181   
+ARI45601.1 SLMLISLGLRHEELDWAGOTGKPLPDLAGVL LNSYPACPDPDRAMGMAAHADSSLLTILY STSGLC LR AED IGPTRWVT 252   
+XP 010915137.1 TLMLLSI GLRHEELEWAGQTGKLLPDLAGVL LNSYPACPDPDRAMGMAAHADSSLLTILYC STSGLC .LRAEDONGPARWVT 252   
+XP 008811603.3 RLMLLSI GLSDEDVEWAGOCGELPPDLAGVRLNSYPACPDDRAMGMAAHADSSLV TSGLQ LRAEDONSPARWVT 251   
+Consensus lmlls g1 ee a g 1 vl lnsyp cpdp ramg aah dssl t 1 qs tsglq lr dq p rwvt   
+GA30X-A GA30X-G VPPRPGAL VPPRPGAL VLAGDL T TNGRYI S AHR VNRNHHRVSVAYICGPPPHHKL VNF NHHRV VAYICGPPPHHKLSPVGKPASPAPCLAYRAV LSPV GKPASPAPCLAYRAVS SWAI P YL YL GLKAEL LKAEL 265 265   
+ARI45601.1 VPPLPGAIVVIVGDLEHIISNGRERSVVHRVVVNRSRQRVSVAYFSGPPAGVTVSPIGKLVGPGRAPAYRAV! YLGLKRKL 336   
+XP_010915137.1 PLPGAL GDI F HRV VVNRSQQRVSVAYFSGPPAGVRVSP LVGPGRAPAYRAV WAE v LK RKL 336   
+XP 008811603.3 PE GAL 训 HRVVVNRSQO RVS AAYFCGPPAGVTVSPI CKLVGPGRAP AYRAV TWAE KREL 335   
+Consensus vpp pgal v gdl il ngr sv hr vvnr rvs ay gpp sp k p ayrav wa yl lk1   
+GA30X-A FDKALA MVAE SRGDEGIC 286   
+GA30X-G FDKALAS MVAEDSRGDEGIC 286   
+ARI45601.1 FDKALA IEMT E 350   
+XP_010915137.1 FDKAL IEMP 350   
+XP_008811603.3 FDKALA IEVPQES 349   
+Consensus fdkalai S
+
+黑色阴影和其他阴影框分别表示相同和相似氨基酸。
+
+Black shaded and other shaded boxes show identical and similar amino acids.
+
+# 2.5矮化香蕉及其野生型 $\mathbf { \ G } \mathbf { { A } } 3 o x$ 基因的表达模式分析
+
+![](images/4711bdb642d6a027b3dc7e00d590446fa10c15aa2f2c0fd3f23ab9b275e3ea46.jpg)  
+图5矮化香蕉和野生型香蕉GA3ox与其他植物同源蛋白的序列比对分析Fig. 5 Sequence alignment analysis of dwarf banana and wild type banana GA3ox with other planthomologous proteins
+
+利用qRT-PCR技术研究 $G A 3 o x$ 基因在矮化突变体及野生型香蕉茎秆生长的不同叶龄期的表达情况。由图6可知， $G A 3 o x$ 基因在矮化突变体及野生型香蕉不同叶龄期的叶片中表达水平不同。在10和15叶龄期 $G A 3 o x$ 在野生型香蕉叶片中的相对表达量均高于矮化香蕉，但在 20 和25 叶龄期时野生型香蕉叶片中的相对表达量均显著低于矮化香蕉。在野生型香蕉叶片中，GA3ox 在第15 叶龄期表达水平最高，其次是第10 叶龄期，而在第 20 和第 25叶龄期时表达水平较低，第10和第15叶龄期的表达水平极显著高于第20 和第25叶龄期，而在第 20和第25叶龄期中的表达差异不显著；在矮化突变体中 $G A 3 o x$ 在第15和25叶龄期时表达水平显著或极显著高于第10和20叶龄期时的表达水平，而在第10和20叶龄期之间的表达差异不显著。
+
+图中小写和大写字母分别代表0.01和0.05水平的差异显著性。下同。
+
+Lower and upper case letters represent the differential significance at the O.O1and O.O5 levels.The same below.
+
+图6 $G A 3 o x$ 在矮化香蕉和野生型香蕉叶片中的表达水平Fig. 6 Expression level of $G A 3 o x$ in dwarf banana and wild type banana leaves
+
+在香蕉假茎中， $G A 3 o x$ 基因在矮化突变体及野生型香蕉不同叶龄期的表达水平不同。在野生型香蕉茎秆中， $G A 3 o x$ 在 20 叶龄期时表达水平最高，其次是第25叶龄期，在第10 和15 叶龄期中的相对表达量次之，且在20 叶龄期的表达水平显著或极显著高于其他叶龄期;在矮化突变体中 $G A 3 o x$ 在 25 叶龄期表达水平最高，其次是20 叶龄期，在20 和25叶龄期时表达水平显著或极显著高于第10和15叶龄期时的表达水平，而在10叶期和15叶期之间的表达差异不显著。同时 $G A 3 o x$ 在矮化植株茎秆中的表达量均显著或极显著低于野生型，其中在10叶期时野生型茎秆中的表达量是矮化型的32倍，在15 叶期野生型茎秆中 $G A 3 o x$ 的表达水平是矮化型的7倍，在20叶龄期时野生型植株茎杆中GA3ox的表达水平达最高，其表达水平是矮化型的2.2倍（图7）。
+
+![](images/e2105342fd08913e8944c0d979373c3e67a78ce38351e9bf9d478b05002fc506.jpg)  
+图7 $G A 3 o x$ 在矮化香蕉和野生型香蕉假茎中的表达水平Fig.7 Expression level of $G A 3 o x$ in dwarf banana and wild type banana pseudo stems
+
+# 3讨论与结论
+
+赤霉素是影响植物生长发育的重要植物激素之一，植物体内活性赤霉素含量的减少会导致植物矮化，GA3-氧化酶（GA3ox）是赤霉素生物合成途径中的关键酶，GA3ox 的重要功能是将无生物活性的GA9 和GA20催化形成具有生物活性的GA1和GA4（Yamaguchi,2008）。目前已在拟南芥（Helliwell et al.,1998）、水稻（Sasaki et al.,2002）、豌豆（Reinecke et al.,2013）等植株中鉴定得到GA3-氧化酶对植物茎秆的矮化具有重要的调控作用。为进一步探究GA3ox对香蕉矮化的分子调控机制，本研究克隆得到矮化香蕉及野生型香蕉的GA3ox的全长cDNA序列并对其氨基酸序列进行了生物信息学分析，结果表明GA3ox-A和GA3ox-G蛋白均属于不稳定蛋白，具有亲水性，且GA3ox-A和GA3ox-G蛋白的二级结构均具有四种构象，蛋白磷酸位点分析显示GA3ox-A和GA3ox-G蛋白均含有丝氨酸、苏氨酸和酪氨酸 3种氨基酸磷酸化位点，本研究结果与水稻（殷小林等，2019）、甘蔗（闫海锋等，2020）的GA3ox蛋白分析结果一致。氨基酸同源比对分析发现，矮化香蕉及其野生型GA3ox的氨基酸序列与油棕、海枣、椰子的同源性最高。
+
+在水稻（李金华等，2007）、马铃薯（Roumeliotis etal.,2013）、紫花苜蓿（Dalmadiet al.,2008）和西瓜（Sun etal.,2020）等作物中研究发现，当GA3ox 基因发生突变时会导致其编码产物的功能缺失，植物体内GA1和GA4含量降低，导致植株表现出矮化表型。在水稻矮化突变体dI8中由于 $O s G A 3 o x 2$ 基因第2个外显子中的一个鸟嘌呤（G）的缺失改变了阅读框，导致OsGA3ox2功能的缺失，使得植株表现出矮化特性（李金华等，2007）；在马铃薯中由于 $S t G A 3 o x 2$ 基因的突变，造成植株节间变短（Roumeliotisetal.,2013），从而产生矮化表型；紫花苜蓿矮化突变体由于MsGA3ox 氨基酸序列发生突变，损害MsGA3ox的功能并导致植株矮化（Dalmadietal.,2008）；在西瓜中由于GA3ox功能的缺失阻断了GA4的合成，导致植物赤霉素含量降低，植株表现出矮化性状（Sun etal.,2020）。本研究对威廉斯B6矮化突变体及其野生型亲本 $G A 3 o x$ 的cDNA序列进行了比对分析，发现矮化突变体的 $G A 3 o x$ 和野生型 $G A 3 o x$ 的cds长度相同，但其编码产物的氨基酸序列中存在5个位点的差异。因此，推测 $G A 3 o x$ 结构差异可能是引起香蕉茎秆矮化变异重要的因素。
+
+前人研究发现， $G A 3 o x$ 基因的表达异常对植物株高发育有较大的影响。目前已在马铃薯（Roumeliotis etal.,2013）、山核桃（魏广利等，2021）和豌豆（Reinecke et al.,2013）等作物中发现由于 $G A 3 o x$ 表达量的变化，影响了植物株高性状。在马铃薯中由于StGA3ox2的表达下调，突变体植株表现出矮小、节间较短等表型（Roumeliotis etal.,2013）；在山核桃中，由于过量表达 $C c G A 3 o x$ 基因使得植株株高变高（魏广利等，2021）；豌豆 $P s G A 3 o x 1$ 的过量表达导致GA1含量增加，从而促进了豌豆节间的伸长(Reinecke etal.,2013)。本研究发现$G A 3 o x$ 在香蕉矮化突变体茎秆中的表达水平显著低于野生型，这与马铃薯、豌豆、山核桃等植物的表达模式相似，表明 $G A 3 o x$ 基因的表达量会影响植物株高，当 $G A 3 o x$ 表达量下调时植株表现出节间缩短，矮化等表型。
+
+综上所述，推测矮化香蕉表型的变异原因可能是由于 $G A 3 o x$ 的序列发生突变，导致其编码产物GA3ox的功能发生改变或者是由于其表达水平降低导致GA3ox的酶活性功能降低，使香蕉的内源GA1/GA4 含量下降，从而影响了茎秆和其他器官的伸长生长。这表明 $G A 3 o x$ 基因的突变和表达水平的变化对于香蕉茎秆的矮化变异可能具有重要的调控作用。但 $G A 3 o x$ 的突变和表达水平降低是否引起香蕉茎秆矮化变异，还需进一步验证其 $G A 3 o x$ 基因的功能才能确定。
+
+# 参考文献：
+
+AIT-ALI T,SWAIN SM,REID JB,et al.， 1997.The LS locus of pea encodes the gibberelin biosynthesis enzyme ent-kaurene synthase A[J]. Plant J,11(3): 443-454.   
+ASHIKARI M, SASAKI A, UEGUCHI-TANAKA M, et al., 2OO2. Loss-of-function of a rice gibberellin biosynthetic gene, GA20 oxidase (GA20ox-2) led to the rice ‘Green Revolution'[J]. Breed Sci, 52: 143-150.   
+CHEN JJ, HU YL,HU HG,et al., 2014. Research advances on dwarfing genes in plants[J]. Guangdong Agric Sci,41(15):126-132.[陈晶晶，胡玉林，胡会刚，等，2014．植物矮化相 关基因的研究进展［J]．广东农业科学，41(15)：126-132.]   
+CHEN JJ,HU YL, PANG ZC, et al., 2O14. Preliminary investigation on dwarfing mechanism in a banana dwarf mutant[J].Chin JTrop Crops,35(11): 2144-2150.[陈晶晶，胡玉林，庞振才， 等,2014．威廉斯香蕉矮化突变体矮化原因初探[J]．热带作物学报,35(11):2144-2150.]   
+CHEN Y, HOU M, LIU L, et al.,2014. The maize dwarfl encodes a gibberelin 3-oxidase and is dual localized to the nucleus and cytosol[J]. Plant Physiol,166(4): 2028.   
+CUI X, ZHANG SB, 2O17. The utilization and prospect of genome editing in horticultural crops[J].Acta Hortic Sin,44(9):1787-1795.[崔霞，张率斌，2017．基因编辑技术及其在园 艺作物中的应用和展望[J]．园艺学报，44(9)：1787-1795.]   
+DALMADI A, KALO P, JAKAB J, et al., 2008. Dwarf plants of diploid Medicago sativa carry a mutation in the gibberelin 3-beta-hydroxylase gene[J]. Plant Cell Rep,27(8): 1271-1279.   
+DAVIDSON SE，SMITH JJ，HELLIWELL CA，et al.，2004. The pea gene LH encodes ent-kaurene oxidase[J]. Plant Physiol,134(3): 1123-1134.   
+FAN YG, QIU LH, HUANG X,et al., 2019. Expression analysis of key genes in gibberellin biosynthesis and related phytohormonal dynamics during sugarcane internode elongation[J]. Chin Bull Bot,54(4):486-496.[范业赓，丘立杭，黄杏，等，2019.甘蔗节间伸长过程赤霉 素生物合成关键基因的表达及相关植物激素动态变化[J]．植物学报，54(4)：486-496.]   
+HEDDEN P, PHILLIPS AL, 2000. Gibberellin metabolism: new insights revealed by the genes[J]. Trends Plant Sci, 5(12): 523-530.   
+HEDDEN P, THOMAS SG,2012. Gibberellin biosynthesis and its regulation[J]. Biochem J, 444(1): 11-25.   
+HELLIWELL CA，SHELDON CC，OLIVE MR，et al.，1998.Cloning of the arabidopsis ent-kaurene oxidase gene GA3[J]. Proc Natl Acad Sci USA, 95(15): 9019-9024.   
+HU J,ISRAELI A, ORI N,et al.，2018. The interaction between della and arf/iaa mediates crosstalk between gibberellin and auxin signaling to control fruit initiation in tomato[J]. Plant Cell, 30(8): 1710-1728.   
+ITOH H, UEGUCHI-TANAKA M, SENTOKU N, et al., 2001. Cloning and functional analysis of two gibberellin 3 beta-hydroxylase genes that are differently expressed during the growth of rice[J]. Proc Natl Acad Sci USA, 98(15): 8909-8914.   
+KASAHARA H, HANADA A, KUZUYAMA T, et al., 2OO2. Contribution of the mevalonate and methylerythritol phosphate pathways to the biosynthesis of gibberellins in Arabidopsis[J]. Biol Chem, 277 (47): 45188-45194.   
+LI JH,WANG F, LIAO YL, et al.，2OO7. Reaserch progresses on the dwarfness and its related gene in rice[J].Hybridoma,22(3):1-5.[李金华，王丰，廖亦龙，等，2007．水稻矮生性及 其相关基因的研究进展［J]．杂交水稻，22(3)：1-5.]   
+LI Sl, ZHENG HY,WANG L, 2020. Application and prospect of gene editing technology in crop breeding[J].Biotechnol Bull,36(11):209-221.[李树磊，郑红艳，王磊，2020．基因编辑技 术在作物育种中的应用与展望[J]．生物技术通报，36(11)：209-221.]   
+PERRIER X,DE LE, DONOHUE M, et al., 2011. Multidisciplinary perspectives on banana (Musa spp.) domestication[J]. Proc Nat Acad Sci USA,108(28): 11311-11318.   
+REINECKE DM, WICKRAMARATHNA AD,OZGA JA,et al., 2013. Gibberellin 3-oxidase gene expression patterns influence gibberellin biosynthesis， growth，and development in pea[J]. Plant Physiol, 163(2): 929-945.   
+ROUMELIOTIS E，KLOOSTERMAN B,OORTWIJN M,et al.，2013.Down regulation of StGA3ox genes in potato results in altered GA content and affect plant and tuber growth characteristics[J]. JPlant Physiol,170(14): 1228-1234.   
+SASAKI A,ASHIKARI M, UEGUCHI-TANAKA M, et al., 2002.Green revolution: a mutant gibberellin-synthesis gene in rice[J]. Nature, 416(6882): 701-702.   
+SHU HY, SUN W,WANG Z, et al., 2O16. The possible analysis for breeding banana varieties with high resistance[J].Mol Plant Breed,14(12):3511-3515.[舒海燕，孙威，王展，等，2016. 香蕉抗风育种的可行性分析［J]．分子植物育种，14(12)：3511-3515.]   
+SINGH B, SINGH JP, KAUR A,et al., 2O16. Bioactive compounds in banana and their associated health benefits-a review[J]. Food Chem, 2O6: 1-11.   
+SUN YY, ZHANG HQ, FAN M, et al., 2020. A mutation in the intron splice acceptor site of a GA3ox gene confers dwarf architecture in watermelon (Citrullus lanatus L.)[J]. Sci Rep,10(1): 14915.   
+WANG FJ, ZHAO KJ, 2018. Progress and challnge of crop genetic improvement via genome editing[J].Sci Agric Sin,51(1):1-16.[王福军，赵开军，2018．基因组编辑技术应用于作 物遗传改良的进展与挑战[J]．中国农业科学，51(1)：1-16.]   
+WEI GL, LIANG B, ZHANG JQ, et al., 2021. Cloning and functional analysis of CcGA3ox gene from hickory (Carya cathayensis)[J].JFruit Sci,38(1):13-28.[魏广利，梁璧，张佳琦，等, 2021．山核桃赤霉素氧化酶基因CcGA3ox 的克隆和功能分析[J]．果树学报，38(1)： 13-28.]   
+YAMAGUCHI S,2008.Gibberellin metabolism and its regulation[J]. Ann Rev Plant Biol, 59: 225-251.   
+YAN HF,CHEN RF, QIU LH, et al.， 2020. Molecular cloning and expression analysis of gibberellin synthesis gene ScGA3ox in sugarcane[J]. Plant Physiol J,56(10): 2121-2131.[闫 海锋,陈荣发，丘立杭,等，2020.甘蔗赤霉素合成基因 ScGA3ox 的克隆和表达分析［J]. 植物生理学报,56(10)：2121-2131.]   
+YANG YS, XIA JH, TIAN JW, et al.,2015. Effects of spraying stage of gibberellin acid 3 on the internode elongation and heading related traits of PTGMS lines in rice[J]. Res Agric Mod, 36(6): 1099-1104.［杨益善，夏俊辉，田继微，等，2015．赤霉素喷施时期对水稻光温敏核不育 系节间伸长和抽穗相关性状的影响．农业现代化研究，36(6)：1099-1104.]   
+YING XL, ZHANG C, WANG YC, et al., 2019. Bioinformatics analysis of the homologous gene of gibberellin $3 \beta$ -hydroxylase gene (OsGA3oxl） in rice[J]. Mol Plant Breed,17(4): 1054-1060.［殷小林，张超，王有成，等，2019.水稻赤霉素 $3 \beta$ 羟化酶基因(OsGA3ox1) 同源基因的生物信息学分析[J].分子植物育种，17(4)：1054-1060.]   
+ZHANG RM, LI C, CHEN DL, et al.,2019. Breeding of short stem, erect plant type DW871 in Brassica napusL.[J].Seed,38(2):116-120.[张瑞茂，李超，陈大伦，等，2019．甘蓝型 油菜矮杆直立株型材料 DW871的选育［J].种子，38(02)：116-120.]

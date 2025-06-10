@@ -1,0 +1,182 @@
+# Small RNA interference-mediated ADP-ribosylation factor 6 silencing inhibits proliferation， migration and invasion of human prostate cancer PC-3 cells
+
+SHAN Xiongwei',LUShidong',YU Xiaoming',HU Zhengfei, ZHANG Jiajie², WANG Guangfa, WEI Qiang 'DepartmentoUgitalcalUeitoa;ole Southern Medical University, Guangzhou,51o515, China
+
+Abstract:ObjectiveToinvestigate theefectsof silencingADP-ribosylationfactor6(Arf6)onthe proliferation,migrationand invasion of prostatecancer celline PC-3 and the possible molecular mechanisms.Methods Three Arf6-specific small interferig RNA (siRNA) were transfected into cultured prostate cancer celine PC-3. Arf6 expresion was examined by real-time PCRand Westenboting.MssayoundealingsayandTanswelligrationandiasionssayesed to observe theefect of Arf6silencing on the proliferation,migration,and invasionabilityof PC-3cels.Thelevelsof phosphorylated extracellular signal-regulated kinase $1 / 2$ $( \mathrm { p - E R K 1 } / 2 ) ,$ ） $\mathrm { E R K 1 } / 2 ,$ p-AKT, AKT and Racl were detected by Western blotting.Results Transfection of siRNA-3 resulted in significantly decreased Arf6 mRNA and protein expression with inhibition rates of $( 9 1 . 8 8 \pm 3 . 1 3 ) \%$ and $( 8 6 . 3 7 \pm 0 . 5 7 ) \%$ ，respectively. Arf6 silencing by siRNA-3 markedly suppressed the proliferation,migration and invasionof PC-3celsandreduced the expression levels of p-ERK1/2andRac1.Conclusion SilencingofArf6eficientlyinhibitstheproliferation,migration,andinvasionofPC-3celsinvitroandtheunderlying mechanisms may involve the down-regulation of $\mathrm { { \tt ~ p } }$ -ERK1/2 and Rac1.
+
+Key words: ADP-ribosylation factor 6; prostate cancer; invasion; migration; RNA interference
+
+# INTRODUCTION
+
+Prostate cancer is the most common noncutaneous malignancy and the second leading cause of cancerassociated mortality in men in Western countries[]. Whilelocalizedprostatecancercan betreated effectively, the treatment of metastatic prostate cancer remains difficult [2] and the median survival of these patients isonly 12-15 months [3].The proliferation, migration and invasion of the tumor cells contribute criticallytoprostatecancer metastasis[4] and understanding of the molecular mechanisms underlying the malignant behaviors of the tumor cells is therefore of vital importance for devising an effective therapy.
+
+Recent studies suggested that ADP-ribosylation factor 6 (Arf6),a small GTP-binding protein of the Arf family,plays a pivotal role in a wide variety of cellular events,including cell exocytosis,endocytosis,endosome membrane traficking， phospholipid metabolismand cytoskeleton reorganization 5.6lThese cellular processes are crucial for the cancer cells to regulate the cell morphology,invade surrounding tissues and metastasize to other organs.Accumulating evidence have shown that Arf6 activation enhances the proliferative,invasive,and migratory potentials of breast cancer,melanoma,and hepatoma cells,while silencing of Arf6 suppressed the cell proliferation,migration,and invasion of the tumor cells [7-9]
+
+Arecent study indicated that Arf6 activation mediated the phosphorylation of extracellular signalregulated kinase (ERK) in HepG2 cells and increased intracellular activity of Ras-related C3 botulinum toxin substrate 1 (Rac1),which in turn enhanced the cell motility,migration,and invasion [8].As a member of the Mitogen-activated protein kinase (MAPK) family,ERK is the primary signaling molecule that regulates gene expression,cell differentiation,mitosis,survival,and apoptosis [i0].An elevated expressionof $\mathrm { \Delta p }$ ERKis associated with increased tumor cell proliferation, invasion and metastasis [i] ERK is involved in Rac1 signaling pathway invarioushuman tumor cells[2l,and Rac1 has been shown to play an important role in multiple cellular processes[13].
+
+Arf6 has been shown to regulate the proliferation of human glioma cells involving the serine/threonine protein kinase B (PKB/AKT) and ERK signaling pathway [9]. PKB/AKT is an important molecule in the phosphoinositide3-kinases(PI3K) /AKTsignaling pathway and is vital in a wide variety of cellular processes[2.14] Hyperactivity of the PI3K promotes the cellproliferation,migrationandinvasion via phosphorylation of the downstream target AKT [14] Substantial evidences indicate that the activation of the PI3K/AKTorERKpathwayiscriticaltothe proliferation of prostate cancer cells [12]. So far the mechanism of Arf6 in promoting proliferation of prostate cancer cell remains unclear,and in this study,we aimed to examine the biological function of Arf6 and possible molecular mechanisms in a human prostate cancer cell (PC-3)modelwithsmallinterfering RNA (siRNA)-mediated Arf6 silencing.
+
+# MATERIALSANDMETHODS
+
+# Cell culture
+
+Human prostate cancer cell line PC-3 was purchased from American Type Culture Collection (ATCC)[15.16] and maintained in RPMI 164O medium supplemented with $10 \%$ fetal bovine serum (FBS),1OO U/mL of penicillin and $1 0 0 \ \mathrm { \textrm { \textmu g / m L } }$ ofstreptomycin (Gibco-BRL Life Technologies,Grand Island,NY,USA）at $3 7 \ \mathrm { ~ \textdegree C }$ ina humidifiedincubator with $5 \%$ CO2.
+
+# siRNA transfection
+
+Three siRNA duplexes targeting different encoding   
+regions of human Arf6 gene (GenBank Access No.: NM_   
+001663.3) were designed and synthesized (Ribobio,   
+Guangzhou,China). The sequences of the Arf6 siRNA   
+were as follows:   
+siRNA-1 (792-810), 5'-GGGACGCCAUAAUCCUCAUdTdT-3' (sense), 5'-AUGAGGAUUAUGGCGUCCCdTdT-3' (antisense);   
+siRNA-2 (534-552), $5 ^ { \prime }$ -CAACAAUCCUGUACAAGUUdTdT-3' (sense), 5'-AACUUGUACAGGAUUGUUGdTdT-3'(antisense),   
+and siRNA-3 (950-968), 5'-CUCACAUGGUUAACCUCUAdTdT-3' (sense), 5'-UAGAGGUUAACCAUGUGAGdTdT-3'(antisense).   
+The cells at approximately $6 0 \% - 7 0 \%$ confluence were   
+transfected with Arf6 siRNA with Lipofectamine 2000   
+(InvitrogenLife Technologies, Merelbeke，Belgium)   
+according to the manufacturer's instructions.Briefly,   
+siRNA duplexes and lipofectamine 2OOO were diluted   
+separately in $1 5 0 ~ \mu \mathrm { L }$ of serum-free RPMI 1640 medium,   
+incubated for $5 ~ \mathrm { \ m i n }$ at room temperature,and then   
+mixed thoroughly followed by further incubation for   
+（204号 $2 0 ~ \mathrm { \ m i n }$ at room temperature.The mixture was then   
+transferred into 6-well culture plates and mixed with the   
+cell culture medium.The cells were incubated at $3 7 \ \mathrm { { ^ \circ C } }$   
+for $6 \textup { h }$ for transfection before the medium was changed.   
+A negative siRNA provided by Ribobio was used as a   
+control siRNA for cell transfection under identical   
+conditions.
+
+# Real-timePCR
+
+Total RNA was extracted from prostate cancer PC-3 cells using Trizol (Takara, DaLian, China) according to the manufacturer's protocol. Equal amounts of RNA （204号 $( 1 ~ \mu \mathrm { g } )$ from each sample were used for cDNA synthesis using HiScriptQ RT SuperMix for qPCR (Takara). Real-time PCR with SYBR Green PCR Master Mix (Takara) wasperformed using Stratngene MX3005P qPCR System (Stratngene,USA).The PCR primers were designed using Premier Primer 5.O software,and the sequences were as follows:
+
+Arf6,
+
+Forward5'-ATGGGGAAGGTGCTATCCAAAATC-3', Reverse5'-GCAGTCCACTACGAAGATGAGACC-3'; GAPDH,
+
+Forward5'-GGCCTCCAAGGAGTAAGACC-3', Reverse $5 ^ { \prime }$ -AGGGGAGATTCAGTGTGGTG-3'.
+
+The primers were synthesized by Invitrogen,and the lengths of the amplification products of Arf6and GAPDH were 270 bp and 122 bp,respectively.PCR amplification were carried out at an initial denaturing temperature of $9 5 \ \mathrm { { ^ circ C } }$ for $3 ~ \mathrm { m i n }$ followed by 40 thermal cycles of $9 5 ~ \mathrm { { ^ \circ C } }$ for 20 s, $6 0 \ \mathrm { { ^ \circ C } }$ for $2 0 ~ \mathrm { s } .$ and $7 2 \mathrm { { ^ \circ C } }$ for $2 0 ~ \mathrm { s }$ The fluorescence data were collected at $7 2 \ \mathrm { { ^ \circ C } }$ step and analyzedwith $2 ^ { - \Delta \Delta \mathrm { C t } }$ methodusingGAPDHgene expression as the reference if amplification of the target was detected below a background threshold (Ct≤35).
+
+# Western blotting
+
+ForWestern blot analysis,the cells at about $80 \%$ confluence were lysed with RIPAlysisbuffer (KeyGEN, Nanjing,China) with 1 mmol/L PMSF and $1 \%$ cocktail of protease inhibitors.Cell lysates were kept on ice for $3 0 ~ \mathrm { m i n }$ and centrifuged at $1 2 \ : 0 0 0 \ : \mathrm { g }$ for $1 0 ~ \mathrm { m i n }$ to obtain the total protein.The total protein concentration was measured using a BCA protein assay kit (Beyotime, Shanghai,China).Equal amounts of the proteins from each sample were separated by $12 \%$ SDS-PAGE and electrotransferred to a PVDF membrane (Millipore, Bedford,MA). The membranes were blocked with $5 \%$ skim milk for $^ { 2 \mathrm { ~ h ~ } }$ at room temperature and incubated with the primary antibody overnight at $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ．The followingantibodieswereused:mouseanti-Arf6 antibody ( $1 : 6 0 0$ ；Santa Cruz Biotechnology，CA，USA), rabbitanti-ERK1/2antibody(1:7OO；Bioworld Technology，MA,USA),rabbit anti-p-ERK1/2 antibody (1: 70O;Bioworld),rabbit anti-AKT and anti-p-AKT antibody(1:6OO; Bioworld),rabbit anti-Rac1 antibody(1 : 600; Abclonal, USA),and rabbit GAPDH antibody (1 : 600；Zsgb-Bio,Beijing,China).Following incubation with theprimary antibodies， the membraneswere incubated with species-specific horseradish peroxidase (HRP)-conjugated secondary antibodies (1: 5OoO; ZsgbBio) at room temperature for $1 . 5 \mathrm { ~ h ~ }$ ，Protein bands were visualized using the ECL regent (Vazyme, Nanjing, China) substrate,and the chemiluminescence signals were captured with X-ray film.
+
+# Cell proliferation assay
+
+Theeffect of siRNA-3 on cell proliferationwas examinedusingthe 3-(4,5-dimethylthiazol-2-yl)-2, 5-diphenyltetrazolium bromide (MTT) assay (Sigma-Aldrich，St.Louis，MO,USA） following the manufacturer'sinstructions.Briefly，thecellswere plated on 96-well plates at the density of 1OOO cells/well in $2 0 0 ~ \mu \mathrm { L }$ medium and cultured at $3 7 \ ^ { \circ } \mathrm { C }$ in $5 \%$ （204号 $\mathrm { C O } _ { 2 } .$ At 48,72 and $9 6 \mathrm { ~ h ~ }$ after the transfection, $2 0 ~ \mu \mathrm { L }$ of MTT （204 $( 5 ~ \mathrm { \ m g / m L } )$ ）inphosphate buffered saline(PBS)was addedto eachwell.After $^ { 4 \mathrm { ~ h ~ } }$ of incubation at $3 7 \ \mathrm { { ^ { \circ } C } }$ ,the cell medium was carefully discarded, the crystals were dissolved by DMSO $( 1 5 0 ~ \mu \mathrm { L } )$ ，and the absorbance (A) was measured at $4 9 0 ~ \mathrm { n m }$ . All the assays were done in triplicateandperformed atleast 3times. The cell survival rate $( \% )$ and inhibition rate $( \% )$ were calculated using the formulas: cell survival rate $( \% ) =$ $[ ( A _ { \mathrm { t r e a t m e n t } } { - } A _ { \mathrm { b l a n k } } ) / ( A _ { \mathrm { c o n t r o l } } { - } A _ { \mathrm { b l a n k } } ) ] { \times } 1 0 0 \%$ ；inhibition rate $( \% ) =$ $1 -$ cell survival rate $( \% )$ ：
+
+# Wound healing assay
+
+PC-3 cells in logarithmic growth phase were seeded at the density of $0 . 5 \times 1 0 ^ { 6 }$ cells/well on 12-well culture plate.After growing to $6 0 \% - 7 0 \%$ confluence,the cells were transfected with Arf6 siRNA or negative control siRNA.When the cells grew to full confluence, the cell monolayer was scratched with a $1 0 ~ \mu \mathrm { L }$ pipette tip under sterilecondition.Floatingcellswere removed by washing with PBS. The scratched cell monolayers were then kept in medium containing $1 \%$ serum for $^ { 1 8 \mathrm { ~ h ~ } }$ and photographedunderaninvertedphase-contrast microscope(Olympus,Japan) with a $1 0 \times$ objective lens. The migration distance wascalculated using the formula: migration distance=(Width $\phantom { } _ { 0 \mathrm { h } } { - } \mathrm { W i d t h } _ { \mathrm { x h } } ) / 2$
+
+# Transwell migration and invasion assay
+
+PC-3 cells at $6 0 \% - 7 0 \%$ confluence were transfected with Arf6 siRNA or negative control siRNA for $^ { 4 8 \mathrm { ~ h ~ } }$ The cells were then harvested and suspended in serum-free RPMI 164O at the density of $5 { \times } 1 \mathrm { \bar { 0 } } ^ { 5 } / \mathrm { m L }$ . The cell suspension $( 3 0 0 ~ \mu \mathrm { L } )$ was plated on the top side of Transwell filter on the top chamber of the 24-multiwell insert system with 8 micron pores (BD Bioscience,San Jose,California, USA).The medium supplemented with $10 \%$ FBS as the chemoattractant was added to the bottom chamber.After $2 4 \mathrm { ~ h ~ }$ of cell incubation, the cell migration was stopped by scraping the residual cells on the top chamber with a cotton swab.Migratory cells on thelowermembranesurfacewerefixedin $4 \%$ paraformaldehyde for $1 5 ~ \mathrm { \ m i n }$ and stained with $1 \%$ crystal violet. Theinvasion assaywasperformed similarly except for the Matrigel-coated membrane (BD Bioscience） in the upper chamber. The cells were incubated for $^ { 4 8 \mathrm { ~ h ~ } }$ before fixation and staining. The membrane was photographed at 5 randomly selected fields under Olympus DP71 microscope with a $1 0 \times$ objective lens.
+
+# Statistical analysis
+
+The data reported are presented as $M e a n { \pm } S D$ .Statistical analyseswere carried out using the SPSS software version 19.O.Data were analyzed by analysis of variance (ANOVA) followed by post hoc analysis or using Student's $t$ test to compare the difference among the groups. A $P$ value less than O.O5 was considered to indicate a statistically significant difference.
+
+# RESULTS
+
+# Arf6 silencing by siRNAs in PC-3 cells
+
+To test the efficiency of the 3 siRNA duplexes for silencing Arf6,we detected the mRNA and protein expressions of Arf6 in PC-3 cells after transfection for 48 h using RT-PCR and Western blotting, respectively. As shown in Fig.1, the cells transfected with negative control siRNA had similar Arf6 expression levels with the control cells $( P { > } 0 . 0 5 )$ ，while the cells transfected withsiRNA-1， siRNA-2andsiRNA-3showed decrements of Arf6 mRNA expressions by $( 3 4 . 8 2 ~ \pm \$ $4 . 7 9 ) \%$ ， $( 5 6 . 8 5 { \pm } 1 . 5 2 ) \%$ and $( 9 1 . 8 8 \pm 3 . 1 3 ) \%$ ,respectively, and their Arf6 protein expressions were decreased by $( 2 5 . 7 3 \pm 1 . 2 5 ) \%$ ， $( 6 7 . 1 1 \pm 1 . 0 8 ) \%$ and $( 8 6 . 3 7 \pm 0 . 5 7 ) \%$ ， respectively. siRNA-3(5Onmol/L) had the most efficient Arf6-silencing effect in PC-3 cells. We also noted a dose-dependent effect of siRNA-3 in silencing Arf6 (Fig.2), and $5 0 \ \mathrm { n m o l / L }$ siRNA-3 stably suppressed Arf6 mRNA and protein expressions till 96 h after the transfection.We therefore used siRNA-3 (5O nmol/L) in the subsequent experiments.
+
+# Arf6silencing inhibitedPC-3cell proliferation
+
+ToexplorewhethersiRNAsilencingaffectthe proliferation of PC-3 cells,the cell proliferation was examined at 48,72 and $9 6 \mathrm { ~ h ~ }$ following transfection with siRNA-3.Fig.3 shows that at 48, 72 and $9 6 \mathrm { ~ h ~ }$ following transfection with siRNA-3 $\mathrm { 5 0 ~ n m o l / L }$ ,theproliferation of PC-3 cells was inhibited at the rates of ( $1 0 . 6 8 \pm \$ $0 . 0 4 ) \%$ ， $( 1 6 . 5 1 \pm 0 . 0 4 ) \%$ and $( 2 6 . 3 5 { \pm } 0 . 0 3 ) \%$ ,respectively. These results revealed that the inhibitory effect of siRNA-3 on PC-3 cell proliferation initiated at $4 8 \mathrm { ~ h ~ }$ ，and was the strongest at $9 6 ~ \mathrm { ~ h ~ }$ ，demonstrating a timedependent effect of siRNA-3 in silencing Arf6 in PC-3 cells.
+
+# Arf6 silencing suppressed PC-3 cell migration and invasion
+
+Wound healing assay showed that Arf6 silencing by siRNA-3 significantly reduced the migration distance of PC-3 cells at following an 18-h transfection (Fig.4, $P <$ 0.001).The cells transfected with siRNA-3 covered the area of only about $45 \%$ to $5 0 \%$ of that covered by control PC-3 cells. Transfection with negative control siRNA did not significantly affected the migration capacity of PC-3 cells $( P { > } 0 . 0 5 )$ ：
+
+In the Transwell assay, the number of PC-3 cells transfected with siRNA-3 for $^ { 4 8 \mathrm { ~ h ~ } }$ that migrated across the membrane were decreased by $6 1 . 6 1 \%$ compared to the control cells and the cells in NC group( ${ \cal P } { < } 0 . 0 0 1$ ， Fig.5). siRNA-3-induced silencing of Arf6 reduced the cell invasion by $8 9 . 4 4 \%$ $( P { < } 0 . 0 0 1 \$ ）compared with the control cells (Fig.5),while no significant difference was found between the cells transfected with negative control siRNA and the control cells $( P { > } 0 . 0 5 )$ . These results demonstrate that silencing Arf6 significantly reduced the migratory and invasive capacity of PC-3 cells in vivo.
+
+![](images/fd5d902c014f4988a5a1d06e9e006388e2982bdf26a6c594f803f966377f9fb3.jpg)  
+Fig.1Effects of 3 different Arf6-specific siRNA on Arf6 gene in PC-3 cells.GAPDH was used as the internal control.A:Expression of Arf6 was examined by Western blotting and real-time PCR at $4 8 \mathrm { ~ h ~ }$ after transfection with siRNA (50 nmol/L);B,C: Quantitative analysis of relative Arf6 protein and mRNA levels normalized to GAPDH.The levelswere calculated as a percentage relative to the control group.All data are presentedas the Mean±SD of 3 independent experiments. $^ { * } P { < } 0 . 0 5$ ， $^ { * * } P { < } 0 . 0 1$ and $\ast \ast \ast P _ { < }$ 0.001vs control.Con: Control group;NC:Negative control siRNA group.
+
+![](images/3f531f74e24986b4803803bad53741810ae5c8ff0f73f3a8f9ec278af4d4a49c.jpg)
+
+# Arf6 silencing inhibited ERK and Racl activation withoutaffectingAKT
+
+To determine the involvement of PI3K/AKT pathway, ERK pathway,and Rac1 in proliferation,migration and invasion suppression of PC-3 cells transfected with siRNA-3,we detected the protein expression levels of AKR,p-AKT,p-ERK1/2,and Rac1 in the transfected cells.We found that the expressions of p-AKT and total AKT were comparable among all the groups,while the expressions of p-ERK1/2 and Rac1 were significantly reduced in siRNA-3-transfected cells (Fig.6).
+
+# DISCUSSION
+
+In the present study,we demonstrated that endogenous Arf6silencing bysiRNA efficientlyinhibited the proliferation,migration,and invasion of the PC-3 cell line in vitro.The possible mechanisms underlying the effect of Arf6 silencing involve the down-regulation of p-ERK1/2 and Rac1. This finding suggests that Arf6 plays an important role in the development of prostate cancer,and Arf6-specific siRNA may be of potential value for treatment of human prostate cancer.
+
+Arf6hasbeen shown to correlate with the proliferation of tumor cells [17].Li et al[9] found that Arf6 knockdownbysiRNA orbyexpressionofa dominant-negative Arf6 mutantsuppressedthe proliferation of glioblastoma cells.A recent study also revealed a vital role of Arf6 activation in HET-SR cell proliferation[7].Consistentwiththesereports, we showed that transfection with siRNA-3 targeting Arf6 time-dependently suppressed the proliferation of PC-3 cells,suggesting the involvement of Arf6 in regulating the proliferation of PC-3 cells.
+
+Tumor cell metastasis is the major reason for therapy failure and mortality in prostate cancer patients [18]. Previous studies showed that Arf6 was required for migration and invasion of various types of cancer cells, such as breast cancer cells,melanoma cells and glioma cels 819,，2.ingofAieigtiod invasion of these cancer cells both in vivo and in vitro [21]. We observed similar effects of Arf6 silencing in PC-3 cells. Taken together,these resultssuggestthat siRNA-induced Arf6 silencing decreases the migration and invasion capacities of prostate cancer cells.
+
+PI3K/AKTsignalingpathwayisinvolvedin Arf6-mediated proliferation of glioblastoma cells [9]. We found that siRNA-3-induced silencing of Arf6 inhibited the proliferation of PC-3 cells without affecting AKT activation,which isconsistent with the results by Knizhnik et al,who reported that constitutively active Arf6 promoted cell proliferation and had no effect on PI3K/AKT signaling17.
+
+ERK has been implicated in Arf6-mediated cell proliferation,migration,andinvasion [22,23], and down-regulation of p-ERK1/2 efficiently inhibits PC-3 cell growth, migration, and invasion [1]’ We found that p-ERK1/2 expression was decreased in PC-3cells following in siRNA-3 transfection, suggesting that Arf6 silencing-induced inhibition of PC-3 cell proliferation, migration, andinvasion is associated with down-regulation of p-ERK1/2.
+
+![](images/399a732f97b864082c79c9f6a52fa2f2f9339c8fdfee21aeff24243e6a13f877.jpg)  
+Fig.2siRNA-3 suppressed Arf6 mRNA and protein expressions in PC-3 cels in a dose-and time-dependent manner.A: Effects of 10,20,and $5 0 \ \mathrm { n m o l / L }$ siRNA-3 for $4 8 \mathrm { ~ h ~ }$ on Arf6 mRNA and protein expression; D: Effects of the siRNA-3 $( 5 0 \ : \mathrm { n m o l / L } )$ on Arf6 mRNA and protein expression at 24,48,72 and $9 6 \mathrm { ~ h ~ }$ following transfection;B, C, E,andF:Quantitative analyisis of relative Arf6 proteinand mRNA levels normalized to GAPDH.The levels were calculatedasa percentage relative to the control group.Alldataare presentedas Mean±SDof 3 independent experiments. $* * * P { < } 0 . 0 0 1$ vs control.
+
+Rac1,a member of the Rho family GTPase,leads to the formation of lamellipodia and membrane ruffles [13]. Rac1 is highly expressed in metastatic prostate cancer cells, and the suppression of Rac1 inhibits the proliferation, migration,and invasion of prostatecancer cells[13.24,25] Rac1 is also a downstream effector of Arf6 in normal cell [26]. A recent study found that siRNA-mediated Arf6 silencing decreased the migratory and invasive abilities of hepatoma HepG2 cells via down-regulating p-ERK1/2 and inhibitingRac1 activation [8].We also found significantly decreased expressions of p-ERK1/2 and Rac1 in PC-3 cells following transfection with siRNA-3. Inaddition,apreviousstudydemonstratedthat suppression of Rac1 arrested cell cycle progression at G1/S transition in PC-3 cells [25]. These results indicated that down-regulation of p-ERK1/2 and Rac1 may be the molecularmechanism forArf6silencing-induced inhibition of proliferation,migration,and invasion of PC-3 cells.
+
+![](images/12194a61c28ee7047cddf5c46f0f7a6dbd200371ffc9bb21b132c659041782b6.jpg)  
+Fig.3Effects of siRNA-3 on the proliferation of PC-3 cels detected using MTT assay at 48, 72 and $9 6 ~ \mathsf { h }$ after transfection.A: Absorbance of PC-3 cells at different time points following siRNA-3 transfection.The experiments were repeated 3 times;B: Inhibition rate of PC-3 cells at different time points following siRNA-3 transfection.All data are Mean±SD $( n { = } 3 )$ ： $^ { * } P { < } 0 . 0 5$ vs control.
+
+![](images/90536162cfb30538b36c93876cb82cc3fe07cee0640fb317416048fe7bda86a8.jpg)  
+Fig.4siRNA-3-inducedArf6 silencing suppressed migrationof PC-3cels.A:Representative imagesofcontrolcels (Con), cells transfected with negative control siRNA (NC) and siRNA-3 at O,6,12 and $1 8 \mathrm { ~ h ~ }$ after monolayer wounding with a sterile $1 0 ~ \mu \iota$ plastic pipette tip (Original magnification: $\times 1 0 ^ { \cdot }$ ; B:Relative migration distance of cels in 3 groups at $1 8 { \mathsf { h } } ; { \mathsf { c } } ;$ （204号 Percentageof wound area coveredby migrated cels in3groupsat diferenttime points.The area covered by migrated cells from 5 independent microscopic fields was quantified by Image Jsoftware.Alldata are Mean±SD $( n { = } 3 )$ ： $* * * P { < } 0 . 0 0 0$ （204号 vs control.
+
+![](images/df743f5c4973875c171783aeeaeeeb018f6f0d25576525956dfb1327b5765b22.jpg)  
+Fig.5siRNA-3-induced silencingof Arf6 suppressed invasionof PC-3cels.A:Representative imagesof cellinvasion detected using Matrigel-uncoated and -coated Transwell chambers in the presence or absence of $10 \%$ FBS. Cells that invadedthrough themembrane were fixedand stained.Images were photographedat5random fieldswith Olympus DP71 (Original magnification: $\times 1 0 ^ { \cdot }$ ； $\pmb { B }$ ：Quantification of the percentage of invading cels through uncoated membrane.The number of invaded cells was quantified by determining the area of $1 \%$ crystal violet staining using Image-Pro Plus.Values are Mean $\pm S D$ of 3 independent experiments. $P$ values were calculated using one-way ANOVA and Dunnett's test; $c \mathrm { : }$ （ Quantification of the percentage of invading cells through Matrigel-coated membrane. $^ { * * * } P { < } 0 . 0 0 1$ vs control.
+
+# Conclusion
+
+In spite of the limitation that we tested only the androgen-insensitive PC-3 cell linewith ahigh metastatic potential in this study,we reveal that Arf6 performs a regulatoryrole ofprostate cancer cell proliferation,migration, andinvasionbydownregulating the p-ERK1/2 and Rac1 expression. Whether these findings apply to other prostate cancer cell lines awaits further studies.In addition,further efforts are needed to elucidate the relationshipsamong Arf6, ERK1/2,and Rac1 in the regulation of the proliferation, migration, and invasion of prostate cancer.
+
+# REFERENCES
+
+[1]Siegel RL,Miller KD,Jemal A.Cancer statistics,2O15[J].CA Cancer
+
+J Clin,2015,65(1): 5-29.   
+[2]Li H,Zhang Y,Zhang Y,et al. Rsf-1 overexpression in human prostate cancer, implication as a prognostic marker [J].Tumor Biol, 2014,35(6): 5771-6.   
+[3]de Bono JS,Oudard S,Ozguroglu M,et al．Prednisone plus cabazitaxelormitoxantrone for metastaticcastration-resistant prostate cancer progressing after docetaxel treatment: a randomised open-label trial[J].Lancet,2010,376(9747): 1147-54.   
+[4]Grant CM,Kyprianou N. Epithelial mesenchymal transition (EMT) in prostate growth and tumor progression[J]. Transl Androl Urol, 2013, 2(3):202-11.   
+[5]Schweitzer JK,Sedgwick AE,D'Souza-Schorey C.ARF6-mediated endocytic recycling impacts cell movement,cell division and lipid homeostasis [J]. Semin Cell Dev Biol,2011,22(1): 39-47.   
+[6] Hongu T,Kanaho Y.Activation machinery of the small GTPase Arf6 [J].Adv Biol Regul,2014,54: 59-66.   
+[7]Hu B,Shi B,Jarzynka MJ,et al.ADP-ribosylation factor 6 regulates glioma cell invasion through the IQ-domain GTPase-activating protein 1-Racl-mediated pathway [J].Cancer Res,2OO9,69(3): 794-801.   
+[8]Hu Z,Du J, Yang L,et al.GEPl0O/Arf6 is required for epidermal growth factor-induced ERK/Rac1 signaling and cell migration in human hepatoma HepG2 cells [J].PLoS One,2012,7(6): e38777.   
+[9]Li M,Wang J,Ng SS,et al.Adenosine diphosphate-ribosylation factor 6 is required for epidermal growth factor-induced glioblastoma cell proliferation[J].Cancer,2009,115(21): 4959-72.   
+[10]Mccubrey JA, Steelman LS, Chappell WH,et al.Roles of the Raf/ MEK/ERK pathway in cell growth,malignant transformation and drug resistance [J].BBA Mol Cell Res,2007,1773(8): 1263-84.   
+[11] Tian Y,Guan Y,Jia Y,et al.Chloride intracellular channel 1 regulates prostate cancer cell proliferation and migration through the MAPK/ERK pathway [J].Cancer Biother Radio,2014,29(8): 339-44.   
+[12]Henderson V,Smith B,Burton LJ,et al. Snail promotes cell migration through PI3K/AKT-dependent Rac1 activation aswell as PI3K/ AKT-independent pathways during prostate cancer progression [J]. Cell Adh Migr,2015,9(4): 255-64.   
+[13]Kato T,Kawai K,Egami Y,et al.Racl-dependent lamellipodial motility in prostate cancer PC-3 cells revealed by optogenetic control of Rac1 activity[J].PLoS One,2014,9(5): e97749.   
+[14]Chan CH,Jo U,Kohrman A,et al.Posttranslational regulation of Akt in human cancer[J]. Cell Biosci,2014,4(1): 59.   
+[15]Wei Q,Costanzi S,Balasubramanian R,et al.A2B adenosine receptor blockade inhibits growth of prostate cancer cells [J]. Purinerg Signal,2013,9(2): 271-80.   
+[16]Wei Q,Costanzi S,Liu Q,et al.Activation of the P2Y1 receptor induces apoptosis and inhibits proliferation of prostate cancer cells [J].Biochem Pharmacol, 2011,82(4): 418-25.   
+[17]Knizhnik AV,Kovaleva OV,Komelkov AV,etal.Arf6 promotes cell proliferation via the PLD-mTORC1 and p38MAPK pathways [J].J Cell Biochem,2012,113(1): 360-71.   
+[18] Taichman RS,Loberg RD,Mehra R,et al. The evolving biology and treatment of prostate cancer [J].JClin Invest,2OO7,117(9): 2351-61.   
+[19]Xu R,Zhang Y,Gu L，et al．Arf6 regulates EGF-induced internalization of E-cadherin in breast cancer cells[J].Cancer Cell Int,2015,15(1): 11.   
+[20] Grossmann AH,Yoo JH, Clancy J,et al. The small GTPase ARF6 stimulatesβ-catenin transcriptionalactivity duringWNT5Amediated melanoma invasion and metastasis [J]. Sci Signal,2013,6 (265): a14.   
+[21]Muralidharan-Chari V,Hoover H, Clancy J,et al.ADP-ribosylation factor 6 regulates tumorigenic and invasive properties in vivo [J]. Cancer Res,2009,69(6):2201-9.   
+[22] Zhang Y,Du J,Zheng J,et al. EGF-reduced Wnt5a transcription induces epithelial-mesenchymal transition via Arf6-ERK signaling in gastric cancer cells [J]. Oncotarget,2015,6(9): 7244-61.   
+[23]Smyth D,Mckay CM, Gulbransen BD,et al. Interferon-gamma signals via an ERK1/2-ARF6 pathway to promote bacterial internalization by gut epithelia[J].Cell Microbio,2012,14(8):1257-70.   
+[24]Parri M,Chiarugi P.Rac and Rho GTPases in cancer cell motility control[J]. Cell Commun Signal,201O,8: 23.   
+[25]Kobayashi T,Inoue T,Shimizu Y,et al.Activation of Racl is closely related to androgen-independent cell proliferation of prostate cancer cells both in vitro and in vivo [J]. Mol Endocrinol,201O,24(4): 722-734.   
+[26]Palacios F,D'Souza-Schorey C.Modulation of Rac1 and ARF6 activation during epithelial cell scattering[J].JBiol Chem,2003, 278(19): 17395-400.
+
+![](images/67df47a6eb2005a9d77ef9996017d31960885608554ac58217b6610c9779ea77.jpg)  
+Fig.6 Effects of siRNA-3-induced silencing of Arf6 on total-ERK1/2，p-ERK1/2，Rac1，AKT and $\mathsf { p }$ -AKT expression.A:Protein levels of total-ERK1/2,p-ERK1/2,Rac1,AKT and $\mathsf { p }$ -AKTwere detected by Western blotting.GAPDH was used as a loading control. All assays were repeated at least 3 times;B: Quantification of $\mathsf { p }$ -ERK1/2 protein levels.The results were calculated as percentages of the control group. $^ { * * * } P { < } 0 . 0 0 1$ vs control.
+
+# siRNA特异性沉默ADP核糖基化因子6对前列腺癌PC-3细胞增殖、迁移和侵袭的影响
+
+单雄威'，吕世栋'，于小明'，胡正飞'，张嘉杰²,王广发²，魏强'南方医科大学'南方医院泌尿外科，药学院，广东广州510515摘要：目的 研究ADP核糖基化因子6(Arf6)对雄激素非依赖性前列腺癌PC-3细胞株增殖、迁移和侵袭能力的影响并初步探讨其可能的分子作用机制。方法设计合成3条针对不同靶向区域的Arf6特异性siRNA序列,转染细胞后通过real-time PCR和蛋白质印迹法检测其对 Arf6的干扰效果,筛选出干扰效果最佳的siRNA序列;通过噻唑盐(MTT)实验、划痕实验、及transwell细胞迁移和侵袭实验观察 siRNA干扰Arf6表达对PC-3细胞增殖、迁移和侵袭的影响;蛋白质印迹法检测 AKT、p-AKT、ERK1/2、p-ERK1/2和Rac1蛋白表达水平的变化。结果与空白对照组相比,转染阴性对照序列对PC-3细胞内源性Arf6的mRNA和蛋白表达水平无明显影响,3条 siRNA序列均能抑制Arf6的表达，其中siRNA-3对PC-3细胞Arf6表达干扰效果最好,Arf6mRNA和蛋白抑制率分别为 $( 9 1 . 8 8 { \pm } 3 . 1 3 ) \%$ 和 $( 8 6 . 3 7 { \pm } 0 . 5 7 ) \%$ 。siRNA-3干扰Arf6表达抑制PC-3细胞的增殖，且PC-3细胞体外迁移距离和侵袭细胞数较空白和阴性对照组明显减少( $_ { ( P < 0 . 0 5 ) }$ 。蛋白质印迹法检测发现转染 siRNA-3的PC-3细胞p-ERK1/2和Rac1表达水平明显降低,而AKT、p-AKT和ERK1/2表达水平较对照组差异无统计学意义。结论 siRNA干扰Arf6表达可显著抑制PC-3细胞的增殖、迁移和侵袭能力,其分子作用机制可能与p-ERK1/2和Rac1表达下调相关。
+
+关键词：ADP核糖基化因子6；前列腺癌；侵袭；迁移；RNA干扰
+
+收稿日期:2016-01-22
+
+基金项目：广东省自然科学基金(S2013010014537)；广东省科技计划(2012B031800263,2014A010107012，2014A020212260)  
+作者简介：单雄威,硕士研究生,E-mail:shanxw789 $@$ 163.com  
+通信作者：魏强,主任医师,E-mail: weiqiang0915@163.com;王广发,副教授,E-mail:wguangfa@ smu.edu.cn

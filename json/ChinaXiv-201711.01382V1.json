@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "缓释氢氧化钙和缓释盐酸对家兔营养物质消化吸收的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈玲玉 诸葛六英 林子珺 童张法 韦藤幼\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（广西大学化学化工学院，广西高校资源化工应用新技术重点实验室，南宁530004）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验选用体重为（ $2 . 0 { \\pm } 0 . 5 \\$ ） $\\mathbf { k g }$ 的家兔为试验动物，分别采用缓释氢氧化钙和缓释盐酸调节家兔的消化吸收，测定其对营养物质的消化吸收的影响。结果表明：缓释氢氧化钙能促进营养物质特别是钙和粗蛋白质的消化吸收，其消化率分别从 $4 1 . 0 \\%$ 和 $6 5 . 2 \\%$ 增加到 $8 9 . 8 \\%$ 和 $9 3 . 8 \\%$ ；缓释盐酸对营养物质特别是钙和粗蛋白质的消化吸收不利，其消化率分别从 $5 5 . 5 \\%$ 和 $8 4 . 9 \\%$ 下降为 $2 8 . 4 \\%$ 和 $6 8 . 7 \\%$ ；此外，缓释氢氧化钙的促进消化吸收效果可维持2\\~4d。由此可知，缓释氢氧化钙对钙以及蛋白质的消化吸收具有促进作用，而脂肪的消化吸收无论状态如何都具有良好的效果，因此增加脂肪的摄入容易产生营养过剩。然而，服用缓释盐酸会降低营养物质的消化吸收效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：缓释氢氧化钙；缓释盐酸；营养物质；消化吸收；影响；家兔中图分类号：S816 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "营养物质的消化吸收是机体发挥生理功能调节的基础[]。当今社会，食物丰富及多样化，加上生活工作压力加大，人们的营养吸收一方面产生了供能物质过剩，主要为葡萄糖和脂肪，而另一方面矿物质及蛋白质等物质摄入不足，使体内的营养吸收产生失衡，由此产生的代谢紊乱及钙流失等已严重危害人们的健康[2-4]。人们在营养均衡方面进行了大量研究，文献报道了小檗碱对肉兔消化代谢[5]及对大鼠糖脂代谢[的影响，鸡或牛饲粮中添加碳酸氢钠后其营养物质代谢的影响[7]。文献[8]公开了一种调节自主神经的组合药物，包括缓释氢氧化钙和缓释盐酸。本研究拟以家兔为研究对象，考察缓释氢氧化钙和缓释盐酸对家兔营养物质消化吸收的影响，为人们调节营养平衡提供新的理念。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "药用蒙脱石（内蒙古润隆化工有限责任公司产品,蒙脱石含量 $9 5 \\% { \\sim } 9 8 \\%$ ，重金属含量 $\\leq 1 0 \\ \\mathrm { m g / k g }$ ，砷含量 ${ \\leq } 2 \\ \\mathrm { m g / k g } \\cdot $ ;3#空心肠溶胶囊（黄山胶囊股份有限公司产品)；硫酸钾、盐酸、氢氧化钙、硬脂酸、硼酸、浓硫酸、硫酸铜、氢氧化钠、氢氧化钾、石油醚和 $9 5 \\%$ 乙醇均为分析纯。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2缓释氢氧化钙及缓释盐酸肠溶胶囊的制备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 缓释氢氧化钙肠溶胶囊的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参照文献[9-10]的方法对药用蒙脱石进行酸活化得到湿的酸性蒙脱石。取 $2 0 . 0 0 \\mathrm { g }$ 酸性蒙脱石(干物质基础)，加入去离子水 $5 0 0 ~ \\mathrm { m L }$ ，75℃下加入含氢氧化钙 $30 \\%$ 的石灰乳 $1 6 . 0 0 \\mathrm { g }$ ，负载 $\\boldsymbol { 4 } \\mathrm { h }$ ，然后缓慢加入硬脂酸进行表面改性，最后过滤、干燥和粉碎得到缓释氢氧化钙粉末，并将其装入3#空心肠溶胶囊中即可得到缓释氢氧化钙肠溶胶囊。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2 缓释盐酸肠溶胶囊的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取 $2 0 . 0 0 \\mathrm { g }$ 酸性蒙脱石(干物质基础)，加入去离子水 $5 0 0 ~ \\mathrm { m L }$ ，75℃下加入含氢氧化钙 $30 \\%$ 的石灰乳 $0 . 6 0 \\ \\mathrm { g }$ ，负载5min，然后缓慢加入硬脂酸进行表面改性，最后过滤、干燥和粉碎得到缓释盐酸粉末，并将其装入3#空心肠溶胶囊中即可得到缓释盐酸肠溶胶囊。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ".3试验动物与试验饲粮",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1试验动物试验用成年家兔（中国白兔）购于广西大学动物养殖基地。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ".3.2 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验饲粮分2批次购于广西南宁关博饲料有限公司。表1是试验饲粮的营养水平分析结果，其中粗灰分、粗脂肪、粗蛋白质含量为实测值，而粗淀粉含量为计算值，粗灰分中除了含已测定的钙，其余主要为氯化钠。第1批次饲粮用于缓释氢氧化钙的消化试验，第2批次饲粮用于缓释盐酸的消化试验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲粮营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/70cc12efc695e40000a62f9a5195695a640651c0424fc701fe449a32ba997562.jpg",
+        "table_caption": [
+            "Table1Nutrient levels of experimental diets (air-dry basis) % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>粗灰分Ash</td><td>钙Ca</td><td>粗脂肪 EE</td><td>粗蛋白质 CP</td><td>粗淀粉 Crude starch</td></tr><tr><td>第1批次饲粮</td><td>7.79</td><td>0.62</td><td>5.20</td><td>13.8</td><td>73.2</td></tr><tr><td>The first batch of diet</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第2批次饲粮</td><td>7.25</td><td>0.47</td><td>5.25</td><td>17.9</td><td>69.6</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 缓释氢氧化钙对家兔营养物质消化吸收的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取体重为（ $2 . 0 { \\pm } 0 . 5 \\$ ）kg 的家兔16只，雌雄各占1/2，随机分为4组，每组4只，分别为空白对照组及缓释氢氧化钙低剂量组、中剂量组和高剂量组。空白对照组家兔，缓释氢氧化钙低、中、高剂量组家兔每天除自由采食、饮水外，再分别按照2.5、5.0 和10.0mg/kgBW的剂量灌胃缓释氢氧化钙。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验时间为2015年8月份，平均气温 $3 3 ^ { \\circ } \\mathrm { C }$ ，平均相对湿度 $84 \\%$ ，使用第1批次饲粮饲喂家兔，适应3d后开始试验，试验期为5d，每只家兔单笼饲养，每天早、晚各饲喂1次。在试验期每天给药1次，连续5d收集家兔粪便，于 $7 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 烘 $3 \\mathrm { h }$ 后粉碎过筛，分别测其干物质、粗脂肪、粗蛋白质和粗灰分的消化率。试验开始前和试验结束后分别称量家兔体重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2停止服用缓释氢氧化钙后家兔营养物质消化吸收的周期变化停止服用缓释氢氧化钙后，仍每天收集家兔粪便，于 $7 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 烘 $3 \\mathrm { h }$ 后粉碎过筛，分别测其干物质消化率。当干物质消化率降至服用缓释氢氧化钙前的水平时，再服1次缓释氢氧化钙，直到第2次恢复至服用前的水平。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3缓释盐酸对家兔营养物质消化吸收的影响选取体重为（ $2 . 5 { \\pm } 0 . 5 \\$ ） $\\mathbf { k g }$ 的家兔8只，雌雄各占1/2，随机分为2组，每组4只，分别为空白对照组、缓释盐酸  \n组。空白对照组家兔每天自由采食、饮水，缓释盐酸组家兔每天除自由采食、饮水外，再按照 25 mg/kg BW的剂量灌  \n胃缓释盐酸。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验时间为2015年10月份，平均气温 $2 8 \\mathrm { ~ \\textdegree C }$ ，平均相对湿度 $7 9 \\%$ ，使用第2批次饲粮饲喂，适应3d后开始试验，试验期为7d，每只家兔单笼饲养，每天早、晚各饲喂1次。在试验期每天给药1次，连续5d收集家兔粪便，于70℃烘 $3 \\mathrm { h }$ 后粉碎过筛，测其干物质消化率。试验开始前和试验结束后分别称量家兔体重，并统计试验期间的采食量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "饲粮样品和粪样以《饲料分析及饲料质量检测技术》[II中的方法测定干物质(DM)、粗蛋白质(CP)、粗脂肪(EE)、粗灰分(ash)含量，钙(Ca)含量用电感耦合高频等离子体（ICP）法测定。粗淀粉含量为饲粮扣除粗灰分、粗脂肪和粗蛋白质含量后的估算值。各营养成分的吸收量近似为该营养成分的食入量减去该营养成分的排泄量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各营养成分的消化率按照如下公式计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干物质消化率 $( \\% ) = [$ (干物质食入量一干物质排泄量)/干物质食入量] $\\times 1 0 0$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粗蛋白质消化率 $( \\% ) = [$ (粗蛋白质食入量一粗蛋白质排泄量)/粗蛋白质食入量] $\\times 1 0 0$ 粗脂肪消化率 $( \\% ) = [$ (粗脂肪食入量一粗脂肪排泄量)/粗脂肪食入量] $\\times 1 0 0$ 粗淀粉消化率 $( \\% ) = [$ (粗淀粉食入量一粗淀粉排泄量)/粗淀粉食入量] $\\times 1 0 0$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6 统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据分析用 SPSS17.0统计软件。试验结果用平均值±标准差来表示，结果差异显著则用LSD法进行多重比较， $P$ ${ < } 0 . 0 1$ 为差异极显著， $P { < } 0 . 0 5$ 为差异显著， $P { > } 0 . 0 5$ 为差异不显著。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1缓释氢氧化钙对家兔消化吸收的影响  \n由表2可以看出，缓释氢氧化钙中、高剂量组的平均日采食量显著低于空白对照组（ $\\scriptstyle P < 0 . 0 5$ )，而缓释氢氧化钙低剂量组与空白对照组无显著差异（ $P { > } 0 . 0 5$ )。缓释氢氧化钙低、中、高剂量组的钙和粗蛋白质的吸收量显著高于空白对照组（ $\\cdot P { < } 0 . 0 5 \\$ )，而干物质、粗脂肪和粗淀粉的吸收量与空白对照组相比并无显著差异（ $\\cdot P { > } 0 . 0 5 \\$ 。缓释氢氧化钙低、中、高剂量组的干物质、粗灰分、钙、粗脂肪、粗蛋白质和粗淀粉消化率均极显著高于空白对照组（ $\\cdot P { < } 0 . 0 1$ ）各组体重变化差异不显著（ $P { > } 0 . 0 5 )$ °",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table2Efects of the sustained-release calcium hydroxide on absorption and digestibilityof nutrients in rabbits $( n { = } 4 )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e537b25fcec4b03ed00bbc1c6f46e4f643040aa7161362b371a521f5873f70a.jpg",
+        "table_caption": [
+            "表2缓释氢氧化钙对家兔营养物质吸收量及消化率的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"3\">缓释氢氧化钙 Sustained-release calcium hydroxide</td></tr><tr><td>项目Items</td><td>空白对照组 Blank</td><td>低剂量组Low-dose</td><td>中剂量组 Middle dose</td><td>高剂量组Highdose</td></tr><tr><td>平均日采食量 ADFI/g</td><td>77.9±2.1</td><td>group 71.1±1.4</td><td>group</td><td>group</td></tr><tr><td>干物质吸收量 DMabsorption/g</td><td></td><td></td><td>65.1±7.5a</td><td>66.4±3.8a</td></tr><tr><td>粗灰分吸收量ash absorption/g</td><td></td><td>59.29±2.43</td><td>59.46±2.08</td><td>60.33±2.03</td></tr><tr><td></td><td></td><td>3.16±0.56</td><td>3.63±0.64a</td><td>3.62±0.65a</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>331.8±29.8A</td><td>368.1±15.1A</td></tr><tr><td>钙吸收量 Ca absorption/mg</td><td>196.9±18.2</td><td>289.1±15.6A</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗脂肪吸收量 EE absorption/g</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3.30±0.19</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>3.47±0.10</td><td>3.24±0.07</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>3.26±0.13</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/e13519f8a4feea2e1ac98b21fbb5aac228c1eb3a3068640ef8ca6ecd479f1010.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粗蛋白质吸收量 CP absorption/g</td><td>7.02±0.25</td><td>7.55±0.24a</td><td>8.11±0.36A</td><td>8.62±0.13A</td></tr><tr><td>粗淀粉吸收量 Crudestarch absorption/g</td><td>45.99±2.20</td><td>45.32±2.28</td><td>44.48±2.15</td><td>44.83±2.22</td></tr><tr><td>干物质消化率 DM digestibility/%</td><td>75.5±3.3</td><td>83.7±3.4A</td><td>91.4±3.2A</td><td>90.9±3.1A</td></tr><tr><td>粗灰分消化率 Ash digestibility/%</td><td>40.8±4.7</td><td>55.4±7.9A</td><td>71.6±12.7A</td><td>70.1±7.1A</td></tr><tr><td>钙消化率 Cadigestibility/%</td><td>41.0±3.9</td><td>65.9±9.8A</td><td>82.7±12.3A</td><td>89.8±7.0A</td></tr><tr><td>粗脂肪消化率 EE digestibility/%</td><td>81.4±4.8</td><td>93.8±0.3A</td><td>95.9±2.0A</td><td>94.7±2.8A</td></tr><tr><td>粗蛋白质消化率 CP digestibility/%</td><td>65.2±2.3</td><td>76.8±2.5A</td><td>90.2±3.9A</td><td>93.8±0.3A</td></tr><tr><td>8 粗淀粉消化率 Crude starch 5 digestibility/%</td><td>80.7±3.4</td><td>87.2±3.5A</td><td>93.5±3.5A</td><td>92.3±3.2A</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>体重变化 Weight variation/kg</td><td>-0.013±0.030</td><td>0.032±0.101</td><td>0.028±0.058</td><td>0.072±0.119</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "与空白对照组比较，同行数据肩标无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with blank control group,values in the same row with no leter superscripts meanno significant diference( $P >$ $\\mathtt { c m . 0 5 } )$ ，while with small letter superscripts mean significant difference $\\scriptstyle \\cdot < 0 . 0 5 )$ ，and with capital letter superscripts mean significant difference ( ${ \\bf \\langle } P { > } 0 . 0 1$ ). The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "中剂量组周期服用缓释氢氧化钙后家兔的干物质消化率见图1，图中第1天是中剂量组停止服用缓释氢氧化钙的第1天，停止服用后的第6天，干物质消化率降至服用缓释氢氧化钙前的水平，第7天再服1次缓释氢氧化钙，到第10 天又恢复至服用前的水平，即每给1次缓释氢氧化钙，高消化率能维持3\\~4d，但下降较快。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f8ba8098f420bea5f472344db4ea4b94e6ca24283988ec9d7acb51dd8b64b8d.jpg",
+        "img_caption": [
+            "图1周期服用缓释氢氧化钙后家兔的干物质消化率变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1The change of DM digestibility in rabbits after circular taking sustained-release calcium hydroxide ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": ".2缓释盐酸对家兔消化吸收的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可以看出，缓释盐酸组的平均日采食量极显著低于空白对照组（ $\\cdot P { < } 0 . 0 1 \\$ 。缓释盐酸组的干物质、粗灰分、钙、粗脂肪、粗蛋白质和粗淀粉的吸收量均极显著低于空白对照组（ $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ )。缓释盐酸组的干物质、粗灰分、粗脂肪和粗蛋白质消化率均极显著低于空白对照组（ $P { < } 0 . 0 1$ ）且钙、粗淀粉消化率显著低于空白对照组（ $\\scriptstyle \\cdot < 0 . 0 5$ 。缓释盐酸组有所降低，而空白对照组体重有所增加，2组间体重变化差异显著（ $\\scriptstyle P < 0 . 0 5$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7489766d48aa0a0a9efb48bbd34d85f1f60aac22693a9a564210f80d9382c7a.jpg",
+        "table_caption": [
+            "表3缓释盐酸对家兔营养物质吸收量及消化率的影响",
+            "Table 3Effects of sustained-release hydrochloric acid on absorption and digestibilityof nutrients in rabbits（ $\\scriptstyle \\cdot - 4$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>空白对照组 Model group</td><td>缓释盐酸组 Sustained-release hydrochloric acid group</td></tr><tr><td>平均日采食量 ADFIg</td><td>88.3±7.2</td><td>69.2±9.4A</td></tr><tr><td>干物质吸收量 DMabsorption/g</td><td>75.4±4.2</td><td>52.3±3.6A</td></tr><tr><td>粗灰分吸收量ash absorption/g</td><td>4.02±0.68</td><td>1.61±0.29A</td></tr><tr><td>钙吸收量 Ca absorption/mg</td><td>230.4±37.6</td><td>85.1±9.2A</td></tr><tr><td>粗脂肪吸收量 EE absorption/g</td><td>4.43±0.43</td><td>3.28±0.42A</td></tr><tr><td>粗蛋白质吸收量 CP absorption/g</td><td>13.45±1.54</td><td>8.53±1.60A</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/74e6f20e02273b9a2d5f6f381463464de3979b344db2b43bbe60632c42687e26.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粗淀粉吸收量 Crude starch absorption/g</td><td>53.51±4.30</td><td>38.91±3.17A</td></tr><tr><td>干物质消化率DMdigestibility/%</td><td>85.4±4.1</td><td>75.7±3.3A</td></tr><tr><td>粗灰分消化率Ash digestibility/%</td><td>62.8±8.7</td><td>33.0±8.2A</td></tr><tr><td>钙消化率 Ca digestibility/%</td><td>55.5±8.1</td><td>28.4±6.4a</td></tr><tr><td>粗脂肪消化率EEdigestibility/%</td><td>95.5±0.3</td><td>90.4±2.0A</td></tr><tr><td>粗蛋白质消化率CPdigestibility/%</td><td>84.9±3.55</td><td>68.7±9.3A</td></tr><tr><td>粗淀粉消化率 Crude starch digestibility/%</td><td>87.1±1.9</td><td>80.8±3.1a</td></tr><tr><td>体重变化 Weight variation/kg</td><td>0.016±0.094</td><td>-0.120±0.055a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1缓释氢氧化钙对家兔营养物质消化吸收的影响  \n诸葛六英等I2研究了缓释氢氧化钙对家兔解酒抗醉的作用，发现缓释氢氧化钙可以加快酒精的代谢，更快恢复饮食。从缓释氢氧化钙对家兔消化吸的影响可以看出，缓释氢氧化钙可以促进其消化吸收，这可能是缓释氢氧化钙增强了副交感神经的效果。目前促进消化吸收的研究大多为是增加胃液分泌量和胃蛋白酶的排出，如健胃舒咀嚼片促进消化的研究[13]、獐宝促进消化的研究[14]等，而本文从自主神经角度出发,通过调节自主神经来调节营养物质的消化与吸收。神经生理研究表明，副交感神经具有增加消化液分泌和促进胃肠道蠕动的功能[15]，对消化吸收的调节主要表现为促进作用，在各种胃肠运动障碍的疾患中均发现存在着副交感神经活力的下降，如功能性消化不良[16]、肠易激综合征[17]等，因此认为此类疾病治疗的一个关键部分是对副交感神经活力下降的治疗。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2 中数据表明，钙和粗蛋白质的吸收量和消化率随缓释氢氧化钙的剂量的增加而不断增加，从饲养情况看，家兔服用缓释氢氧化钙后，精神状况明显变好，这可能是钙及蛋白质吸收增加的结果。粗脂肪和粗淀粉的吸收量并没有受缓释氢氧化钙剂量的影响，但它们的消化率开始随缓释氢氧化钙剂量的增加而增加，达到中剂量后基本不变，其规律与采食量的变化规律一致，这是由于家兔采用单笼饲养，每天消耗营养量变化不大，加上家兔服用缓释氢氧化钙后的体重并没有发生显著变化，所以消耗的淀粉和脂肪也没有发生显著变化。家兔采食量的降低是因为服用缓释氢氧化钙提高了营养物质的消化率，而各组家兔一直正常活动，所消耗的能量也相当，因此需要补充的能量比空白对照组要小，从而降低了采食量。图1表明，无需每天服用缓释氢氧化钙，只要隔2\\~4d服用1次就可以改进消化吸收的效果，这说明缓释氢氧化钙的作用机理不是增强肠道消化酶活性，而是增强副交感神经，因为缓释氢氧化钙在小肠停留时间短，不可能维持2\\~4d。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2 缓释盐酸对家兔营养物质消化吸收的影响 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从缓释盐酸对家兔消化吸的影响可以看出，缓释盐酸会降低其消化吸收，这可能是缓释盐酸增强了交感神经的效果。与增强副交感神经相反，增强交感神经可使消化液分泌减少、胃肠道蠕动减慢，引起食管括约肌紧张性下降、胃底紧张、胃窦收缩幅度下降、胃排空减缓、小肠传输速度下降等[18]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3中数据表明，家兔服用缓释盐酸后，钙和粗蛋白质的吸收量和消化率明显下降，这与增强副交感神经的结果相反，但家兔服用缓释盐酸后而粗脂肪和粗淀粉的吸收量和消化率也有一定程度下降，这主要原因是采食量下降、体重稍有下降造成的，可能是秋天服用缓释盐酸增强交感神经后不适应的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对比表2与表3中的空白对照组可知，秋天（表3）的家兔采食量、各营养物质吸收量均高于夏天（表2），这是由于夏天气温高，高温增强了交感神经[19]的结果。表2和表3中数据还表明，粗脂肪的消化吸收无论季节、自主神经伏态如何都具有良好的效果，因此增加脂肪的摄入容易产生营养过剩；但季节、自主神经状态对钙的吸收影响很大，高温天气、增强交感神经会严重抑制钙的吸收。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 缓释氢氧化钙大幅度提高了家兔对某些营养物质的消化率，以致在平均日采食量减少的情况下并不不影响营养物质的吸收量，其中钙的消化率提高 $8 6 . 9 \\%$ ，粗蛋白质的消化率提高 $2 8 . 6 \\%$ ，粗脂肪和粗淀粉的消化率提高不大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 缓释盐酸降低了家兔的平均日采食量及营养物质的吸收量和消化率，使钙的消化率下降 $4 9 . 0 \\%$ ，粗蛋白质的消化率下降 $1 6 . 2 \\%$ ，而粗脂肪和粗淀粉的消化率下降较少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 缓释氢氧化钙的促进消化吸收效果可维持2\\~4d。。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]常燕.应用框架图概述人体生理功能调节理论[J].长江大学学报:自然科学版,2003,26(5):141-142.  \n[2]秀敏.营养均衡与现代疾病[J].微量元素与健康研究,2005,22(5):50-52.  \n[3]EDINGTONJ,BARNESR,BRYANF,etal.A prospectiverandomisedcontroled trialof nutritional supplementation inmalnourished elderlyinthecommunity:clinical and health economicoutcomes[J].Clinical Nutrition,20O4,23(2):195-204.  \n[4] PURKAYASTHAS,CAID.Neuroinflammatory basis of metabolic syndrome[J].MolecularMetabolism,2013,2(4):356-363.  \n[5]汪水平,王文娟,赵桥芳,等.小檗碱对肉兔消化代谢的影响[J].动物营养学报,2013,25(3):609-616.  \n[6]刘鸿雁,张冬梅,杨永建,等.盐酸小檗碱对大鼠糖脂代谢的影响[J].兰州大学学报:医学版,2007,33(2):5-9.  \n[7]李彦才,胡树强.碳酸氢钠在饲料中的应用[J].粮食与饲料工业,1996(5):24-26.韦藤幼,林子珺,陈玲玉,等.一种自主神经调节的药物组合物及制备、产品和应用:中国,PCT/CN2015/096481[P].2016-09-06.  \n19]丁泳锋,诸葛六英,黄伊琳,等.碱性蒙脱石抗酸剂性能测定及评价[J].中国药学杂志,2015(2):157-162.  \n[10]韦藤幼,诸葛六英,陈玲玉,等.一种酸性蒙脱石氢氧化钙药物组合物及制备、产品和应用:中国,WO2015081887A1[P].2015-06-11.  \n[11]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.  \n[12] 诸葛六英,陈玲玉,林子珺,等．氢氧化钙缓释肠溶胶囊的给药动力学及其解酒抗醉评价[J].广西大学学报(自然科学版),2015(05):1292-1298.  \n[13]刘瑶,唐晓荞,刘春霞,等.健胃舒咀嚼片促进消化功能动物试验研究[J].实验动物科学,2008,25(5):4-7.  \n[14]夏勇,董晓岚,林昕,等.獐宝促进消化作用的实验研究[J].中国预防医学杂志,2007,8(6):738-740.  \n[15]李晗,王茵萍.非药物性方式调整自主神经功能的研究进展[J].中华物理医学与康复杂志,2013,35(1):74-76.  \n[16]HJELLAND IE,SVEBAK S,BERSTAD A,et al.Breathing exercises with vagal biofedback may benefit patients withfunctional dyspepsia[J].Scandinavian Journal of Gastroenterology,2007,42(9):1054-1062.  \n[17]PELLISSIER S,DANTZER C,CANINI F,et al.Psychological adjustment andautonomic disturbances in inflammatorybowel diseases and irritable bowel syndrome[J].Psychoneuroendocrinology,2010,35(5):653-662.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[18]周吕,柯美云.胃肠动力学:基础与临床[M].北京:科学出版社,1999:51-59.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "19]KISHINO T,MATSUDA M.Effects of short time water immersion at the temperature of $2 7 ^ { \\circ } \\mathrm { C } , 3 4 ^ { \\circ } \\mathrm { C }$ and $3 8 ^ { \\circ } \\mathrm { C }$ on cardiac ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "autonomic nerve activity-a studyconsidering the efectof respiration[J].The Journal of Japanese Balneo-Climatological Association,1998,61(3):148-156. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Influences of Sustained-ReleaseCalcium Hydroxide and Sustained-Release Hydrochloric Acidon Nutrient Digestionand ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Absorption in Rabbits ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHEN LingyuZHUGE LiuyingLIN ZijunTONGZhangfaWEI Tengyou\\* (Guangxi Collges and Universities KeyLaboratoryofNew Technology and Application in Resource Chemical Engineering, School of Chemistry and Chemical Engineering, Guangxi University, Nanning 53Ooo4, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:To understandthe influences of sustained-releasecalcium hydroxideand sustained-release hydrochloric acid on nutrient digestion and absorption, this article choose rabbit with the body weight of $( 2 . 0 { \\pm } 0 . 5 \\ \\mathrm { k g } )$ as the test subject,and used sustained-releasecalcium hydroxide andsustained-release hydrochloricacidto affect the digestionandabsorptionofrabbits, respectively.The experimental results showed that sustained-releasecalcium hydroxidecan promote digestionand absorption of nutrients, especially calcium and protein. The digestibility of calcium and crude protein was increased from $8 9 . 8 \\%$ and $9 3 . 8 \\%$ $4 1 . 0 \\%$ and $6 5 . 2 \\%$ ，respectively. The sustained-release hydrochloric acid did not favor the digestion and absorption of nutrients, especially calcium and protein. The digestibility of calcium and crude protein was decreased from $5 5 . 5 \\%$ and $8 4 . 9 \\%$ to $2 8 . 4 \\%$ and $6 8 . 7 \\%$ ,respectively.The promoting effects of sustained-release hydrochloride on digestion could last for 2 to 4 days.Therefore,thesustained-release calcium hydroxide has a promotion effectontherabbit's digestionand absorption for calcium and protein,while thatof which forfatremainsata high levelno mater what thecondition is.Consequently, increasingtheintakeoffat willcauseover nutrition.However,tking sustained-release hydrochloric acid willreduce nutrient digestion and absorption. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:sustained-releasecalcium hydroxide;sustained-release hydrochloricacid; nutrients;digestionandabsorption; influence; rabbits ",
+        "page_idx": 9
+    }
+]

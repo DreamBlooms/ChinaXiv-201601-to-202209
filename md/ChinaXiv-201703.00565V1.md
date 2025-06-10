@@ -1,0 +1,164 @@
+# Synthesis and luminescence properties of Sm-doped
+
+LDPE- ${ \bf \cal N a } _ { 2 } { \bf S O } _ { 4 }$ composite material Jing Zhang a,b， Abu Zayed Mohammad Saliqur Rahman b， Yuxiao Lia, Jing Yangb, Bozhen Zhao b, Eryang Lub, Peng Zhang b， Xingzhong Cao b\*, Runsheng Yub，Baoyi Wangb a School of Physical Engineering, Zhengzhou University, Zhengzhou 450oo1, China b Key Laboratory of Nuclear Analytical Techniques， Institute of High Energy Physics， Chinese Academy of Science,19B Yuquanlu, Shijingshan District, Beijing 1Oo049,PR China
+
+# Abstract
+
+A series of Sm-doped LDPE- ${ \bf N a } _ { 2 } { \bf S O } _ { 4 }$ composites were successfully achieved by melt mixing and hot pressing methods. Their morphology, structure and luminescent properties were characterized by scanning electron microscope (SEM)， Energy Dispersive X-ray spectroscopy (EDX), X-ray diffraction (XRD) and photoexcitation (PE),photoluminescence (PL） spectra, respectively. The sizes and concentrations of free volume cavities in composites were studied by positron annihilation lifetime spectroscopy (PALS). SEM micrographs showed that $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ particles were well-distributed in the polymer matrix. XRD analyses revealed that the addition of ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ had no effect on the original crystal structure of LDPE. The dominant photoexcitation peak was observed at about $4 0 2 ~ \mathrm { n m }$ . The photoluminescence spectra consisted of four main peaks at 563, 598, 644 and $7 0 6 ~ \mathrm { n m }$ which could be associated to the transitions ${ ^ 4 } \mathrm { G } _ { 5 / 2 } {  } { ^ 6 } \mathrm { H } _ { J }$ （ $\scriptstyle { \cal J = 5 / 2 }$ ， 7/2,9/2 and 11/2, respectively） within the $4 \bar { f }$ electronic configuration of $\mathrm { S m } ^ { 3 + }$ . The effect of different doping concentration of （204号 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ on the luminescent properties of the composites was investigated. The luminescent intensity of the composites increased with phosphor concentration.
+
+Keywords: Phosphor, Polymer-matrix composite, Luminescence, Sm
+
+# 1. Introduction
+
+The photoluminescence properties of thenardite $\left( \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } \right)$ ）activated with rare earth ions have received great research interest in the past few years due to their easy preparation,low cost and high quantum efficiency [1, 2]. However, phosphor particles absorb moisture from the environment which results in degradation of luminescence properties. Coating or dispersing the phosphor particles into a polymer or glass matrix can protect the surfaces of phosphor particles and prevent the degradation of luminescent intensity [3]. Thus, it is worthwhile to embed the phosphor particles in a suitable polymer matrix for the outdoor applications.
+
+Recently, rare earth ions doped polymer-phosphor composite materials [4-7] have attracted much attention. This kind of composite combines the advantages of phosphor and polymer into systems with novel properties, such as superior processing property and chemical stability from the polymers, low-cost and unique luminescent properties from phosphor fillers. These merits result in potential applications for light-converting optical devices [8], emitters [9], light-emitting diodes [1O] and other outdoor devices.
+
+Pure natural thenardite doped with $\mathrm { S m } ^ { 3 + }$ shows intense red luminescence due to the ${ ^ 4 } \mathrm { G } _ { 5 / 2 }  { ^ 6 } \mathrm { H } _ { J }$ ? $\scriptstyle { \mathcal { I } } = 5 / 2$ ，7/2，9/2 and 11/2， respectively） within the $4 \bar { f }$ electronic configuration of $\mathrm { S m } ^ { 3 + }$ ，which was reported elsewhere [1]. In our previous paper, Sm-doped $\mathrm { S i O } _ { 2 } { \mathrm { - N a } } _ { 2 } \mathrm { S O } _ { 4 }$ composite materials were successfully synthesized and PL and PE spectra of the composites were investigated [11]. Mohammad Saleem Khan reported on the tensile strength, thermal stability and glass transition temperature of the PMMA-NazSO4 composite films [12]. Electrical properties of LDPE-ZnO nanocomposites [13], thermal and Luminescence properties of LDPE-SrAlO4:Eu2+, $\mathrm { D y } ^ { 3 + }$ composites had been investigated [4] respectively. Although much work has been done on the polymer-phosphor composites,further study needs to be conducted to synthesize a new kind of economically viable composite for the outdoor applications.
+
+Compared to metals and ceramics，low-density polyethylene (LDPE) has the advantages of the low melting point, low cost and high resistance to atmosphere. Meanwhile, LDPE has the excellent gas permeability and moisture penetrability over high-density polyethylene (HDPE),polrvinyl chloride (PVC) and polypropylene (PP), which make it one of the best matrices for plant plastic wrap. Another advantage of LDPE is that the good dispersion of the inorganic filler particles in the matrix can be readily achieved [14].
+
+To the best of our knowledge, there was no study reported on synthesis and luminescence properties of Sm-doped LDPE- ${ \bf \cdot N a } _ { 2 } { \bf S O } _ { 4 }$ composites.In this work,the synthesis method， morphology， structure and luminescence properties of newly developed LDPE- ${ \mathrm { . N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ composite materials were reported.
+
+# 2. Experimental procedures
+
+# 2.1. Sample synthesis
+
+2.1.1 Synthesis of the $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ phosphor samples High purity powders $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ $( 9 9 . 9 9 \% )$ and $\mathrm { S m F } _ { 3 }$ （2 $( 9 9 . 9 9 \% )$ ） were used to synthesize the phosphor materials by the conventional high temperature solid state method. Appropriate amounts of $\mathrm { S m F } _ { 3 }$ $( 0 . 1 4 \mathrm { m o l } \ \%$ ） were mixed thoroughly with $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ and ground using an agate mortar for $3 0 ~ \mathrm { m i n }$ . The mixtures were then heated in alumina crucibles at 1,213 K ( $9 4 0 ^ { \mathrm { { o } } } \mathrm { { C } }$ )for $2 0 \mathrm { m i n }$ in air using an electric furnace. After heating, the samples were quickly quenched to room temperature by placing the crucibles on a metal plate. Prepared samples were powdered again before performing measurements.
+
+2.1.2. Synthesis of LDPE $- \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ composites
+
+LDPE used in this study was purchased from Goodfellow (Cambridge, UK). It has a melting point of $1 1 0 ^ { \circ } \mathrm { C }$ and a density of $0 . 9 2 2 \mathrm { g c m } ^ { - 3 }$ ．LDPE- ${ \mathrm { . N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ composites were prepared by melt-mixing the synthesized $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ phosphor powders into LDPE at mass ratios ranging from O to $20 \%$ using a Brabender mixer at a screw speed of $6 0 \ \mathrm { r p m }$ for $2 0 \ \mathrm { m i n }$ . The mixing was carried out at $1 5 0 ^ { \mathrm { { o } } } \mathrm { { C } }$ . The uniformly mixed composites were compressed to slabs at $3 0 \mathrm { { M P a } }$ using a curing press at1 $5 0 ^ { \mathrm { { o } } } \mathrm { { C } }$ . The average thickness was $0 . 5 { \pm } 0 . 0 5 \mathrm { m m }$ . To prevent contact with air and moisture,all prepared composites were stored in vacuum desiccators. Melt mixing followed by melt-press is a popular technique to disperse fillers into the polymer matrix in the molten state. The technique allows all kinds of polymer to form composites,which is easier to process than other techniques. Further, it becomes an environmentally sound and economically feasible method due to solvent-free [15].
+
+# 2.2.Measurements
+
+# 2.2.1. Measurement of sample morphology and structure
+
+The morphology and the dispersion of phosphor powders within the polymer matrix were investigated using a scanning electron microscope (SEM, Zeiss SUPRA
+
+55） with an accelerating voltage of $1 0 \ \mathrm { \ k V }$ . The surfaces of the samples were pre-coated with a thin gold layer by an electrode deposition method to reduce charging before recording the SEM micrographs. The existence of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ was confirmed by energy dispersive $\mathrm { \Delta X }$ -ray spectroscopy (EDX). The X-ray diffraction (XRD） patterns of the samples were collected on an $\mathrm { \Delta X }$ -ray diffractometer (Rigaku XRD-3 Pgeneral diffractometers $\mathrm { C u K } _ { _ { \mathrm { \scriptsize { q _ { 1 } } } } } = 0 . 1 5 4 1 \mathrm { n m }$ , operating at $4 0 \mathrm { \ k V }$ and $4 0 ~ \mathrm { m A }$ ） with a scan step of $0 . 0 2 ^ { \mathrm { o } }$ in 20 .
+
+# 2.2.2.Measurement of free volume properties
+
+Positron annihilation lifetime spectroscopy (PALS） iswell-recognized asa powerful tool to determine the free volume properties of polymeric systems [16-18]. Positron annihilation measurements were performed with a fast-slow coincidence ORTEC system with a time resolution of 195 ps for the full width at half-maximum. The two identical pieces of samples were placed on either side of the $^ { 2 2 } \mathrm { { N a } }$ positron source，and then this sample-source-sample sandwich was placed between the two detectors to acquire the lifetime spectra. A total of $2 \times 1 0 ^ { 6 }$ counts were accumulated for each spectrum to reduce the statistical error in the calculation of lifetimes.The positron annihilation spectra were de-convoluted using the LT-9 software.
+
+# 2.2.3.Measurement of photoluminescence properties
+
+We used a totally computer-controlled compact system (Horiba Fluorolog spectrofluorometer) for measuring PL and PE spectra of the composite materials at room temperature.A high band-pass glass filter was set in front of the sample to eliminate stray light from the excitation source. Samples were excited at $4 0 2 \ \mathrm { n m }$ and emission spectra observed in the wavelength range 52O to $8 0 0 ~ \mathrm { { \ n m } }$ at room temperature. Slit widths were fixed at $2 \mathrm { n m }$ for the excitation and emission entrance.
+
+# 3. Results and discussion
+
+3.1. X-ray diffraction (XRD)
+
+Fig. 1 shows the XRD patterns for LDPE-xwt%Na2SO4: $\mathrm { S m } ^ { 3 + }$ (x=0,5, 10,and 20) composites and pure $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ phosphor. The spectrum clearly presents the expected diffraction peaks of the (111),(120),(200),(211), (031) and (331） planes which characterize the $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ crystal (PDF data no.24-1132) in LDPE- ${ \mathrm { . N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ composite. The result indicates that the phosphor particles are well incorporated between the LDPE particles and LDPE is a suitable matrix for protecting the $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ phase composition. The average crystallite size of the materials is calculated from the diffraction data by using the Scherrer's equation,
+
+$$
+D = \frac { \operatorname { k } \lambda } { \beta \cos \theta }
+$$
+
+Wherekis the Scherrer constant， which is equal to 0.89， $D$ denotes the average crystallite size in nanometers, $\lambda$ is the $\mathrm { \Delta X }$ -ray radiation wavelength in nanometers, $\beta$ represents the full width at half maximum (FWHM) of the selected reflection in radians,and0(in degrees）is half of the Bragg angle 20. Crystallite sizes of the phosphor particles in LDPE- $2 0 \% \mathrm { N a _ { 2 } S O _ { 4 } } { : } \mathrm { S m } ^ { 3 + }$ composite calculated from Scherrer's equation have a wide range,but in the nanometer range,averaging from $2 0 . 0 \ \mathrm { n m }$ to $4 4 . 4 \mathrm { n m }$
+
+X-ray diffraction analysis shows the pure LDPE and LDPE-phosphor composites all have three main crystalline diffraction peaks at 20 of $2 1 . 6 ^ { \mathrm { o } }$ ， $2 4 . 0 ^ { \mathrm { o } }$ and $3 6 . 3 ^ { \mathrm { o } }$ ,which corresponding to the (11O), (20O),and (O2O) lattice planes of LDPE. LDPE has the orthorhombic crystal structure with $\mathfrak { a } = \beta = \gamma = 9 0 ^ { \circ }$ [19]. According to the data reported in JCPDS standard pattern no.53-1859, its lattice parameters are $\mathrm { a { = } 0 . 7 4 0 \ n m }$ ， $\mathsf { b } { = } 0 . 4 9 3 \ \mathrm { n m }$ and $\mathtt { c = 0 . 2 5 4 \ n m }$ . We can observe the variations in the positions of the main diffraction peaks,but the shifts are only slight. It may be assumed that the composites fundamentally maintain the original crystal structure of LDPE. The intensities of the three main diffraction peaks were dependent on the concentration of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ in the composite.
+
+# 3.2.SEM micrographs and EDX spectrum
+
+The SEM images of ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ phosphor powders and LDPE- ${ . \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } \mathrm { : } } { \mathrm { S m } } ^ { 3 + }$ composites are shown in Fig. 2. The images show irregular agglomerates in the range from $7 2 . 7 \ \mathrm { n m }$ tol micrometer. The irregular shapes (Fig. 2a) as well as the broad particle-size distribution of the phosphor powders are likely to attribute to the uneven distribution of the cooling temperature. The surfaces of pure LDPE with LDPE- ${ . \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } \mathrm { : S m } ^ { 3 + } }$ composite materials are shown in Fig. 2(b-e). The magnification is $3 \mathrm { k } \times \mathrm { i n }$ the four images. Fig. 2(b) shows that the surface of pure LDPE is smooth, and there are no obvious big particles in the film，which mean that the polymer particles are melted well. Fig. 2(c,d,e） depict the surfaces of composites with different phosphor concentration，which are rougher because of visible phosphor particles.It is clear that the phosphor particles are more uniformity dispersed throughout the polymer matrix with the increasement of phosphor concentration.
+
+Fig. 2(f) shows the SEM-EDX mapping of the LDPE- $20 \%$ （204号 ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ composite. Carbon(C)，oxygen(O)， fluorine (F)，sodium (Na) and sulfur (S） elements in the composite are detected from this mapping.Although EDX could not detect the samarium $( \mathsf { S } \mathsf { m } )$ element due to its low concentration， the finding confirms the existence of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ and $\mathrm { S m F } _ { 3 }$ particles in the LDPE matrix. The EDX drawings of the remainder composites are quite similar to Fig. 2(f).
+
+3.3.Positron annihilation lifetime spectroscopy (PALS)
+
+The PALS technique is used to study the size and concentration of free volume cavities in LDPE- $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ composites.The lifetime $( \tau _ { 3 } )$ and intensity $( I _ { 3 } )$ of orthopositronium have been found to be correlated well with the local free volume in polymers,in which $\tau _ { 3 }$ is proportional to the size of the free volume cavity and $I _ { 3 }$ is proportional to their number concentration. Based on the free volume model, Nakanishi et al. [2O] have provided a semi-empirical relation between the free-volume hole radius $( R )$ and the o-Ps lifetime $( \tau _ { 3 } )$ using the following relation,
+
+$$
+\tau _ { 3 } = \frac { 1 } { \lambda _ { 3 } } = \frac { 1 } { 2 } \biggl [ 1 { - } \frac { R } { R _ { 0 } } { + } \frac { 1 } { 2 \pi } \mathrm { s i n } ( \frac { 2 \pi R } { R _ { 0 } } ) \biggr ] ^ { - 1 }
+$$
+
+where $\tau _ { 3 }$ and $R$ are expressed in ns and angstrom ，respectively. $R _ { 0 } = R + \Delta R , \Delta R$ represents the fitted empirical electron layer thickness. The free volume radius $R$ has been estimated from the above equation. For spherical cavities, the average sizes of the free volume cavities $( V _ { f } )$ are calculated using the relation,
+
+$$
+V _ { _ { f } } = \frac { 4 \pi R ^ { 3 } } { 3 }
+$$
+
+the total free volume fraction $( F _ { \nu } )$ is proportional to the product $V _ { f } I _ { 3 }$ and can be expressed as
+
+$$
+F _ { _ \nu } = \mathrm { c } V _ { _ { f } } I _ { _ 3 }
+$$
+
+where,c is a constant value and is defined to 1O in this paper.
+
+The positron lifetimes, intensities and corresponding free volume fractions measured in the four kinds of LDPE- ${ \mathrm { . N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ composites are summarized in Table 1.The decrease of $\tau _ { 3 }$ and $\boldsymbol { \mathrm { I } } _ { 3 }$ indicates the decay of free volume cavity size and their number density in the composite materials. This behavior was atributed to the filling of the free volume cavity which located in LDPE polymer with $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ particles [21]. It also indicates that as the concentration of ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ increases in the composite， the particles incorporated into the LDPE polymer matrix more uniformly, which is fully consistent with earlier SEM observations.
+
+3.4.Photoluminescence spectra
+
+Fig.5（1） snows tne excitation ana emission spectra oi tne $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ pnospnor. The PL spectrum obtained under $4 0 2 ~ \mathrm { n m }$ excitation, consists of four main peaks at 563,598, 644 and $7 0 6 ~ \mathrm { n m }$ ， which can be associated to the transitions of ${ ^ 4 } \mathrm { G } _ { 5 / 2 } {  } { ^ 6 } \mathrm { H } _ { J }$ (J=5/2, 7/2, 9/2 and 11/2,respectively) within the $4 \bar { f }$ electronic configuration of $\mathrm { S m } ^ { 3 + }$ The PE spectrum monitored at $6 4 4 ~ \mathrm { n m }$ shows five sharp $f \mathcal { f }$ transition lines,which could be ascribed to the charge-transfer of $^ 6 \mathrm { H } _ { 5 / 2 }  { } ^ { 4 } \mathrm { H } _ { 9 / 2 }$ $( 3 4 5 \mathrm { n m } )$ )， $^ 6 \mathrm { H } _ { 5 / 2 }  ^ { 4 } \mathrm { D } _ { 3 / 2 }$ (362 nm), ${ } ^ { 6 } \mathrm { H } _ { 5 / 2 }  { } ^ { 4 } \mathrm { P } _ { 7 / 2 }$ 0 $\langle 3 6 2 \ \mathrm { n m } \rangle$ ， $^ 6 \mathrm { H } _ { 5 / 2 }  ^ { 4 } \mathrm { F } _ { 7 / 2 }$ 0 $4 0 2 \ \mathrm { n m }$ ， strongest） and ${ } ^ { 6 } \mathrm { H } _ { 5 / 2 }  { } ^ { 4 } \mathrm { P } _ { 5 / 2 }$ (416 nm), respectively [22]. It indicates that the synthesized composites can be excited by UV and blue light. Fig.3 (2) shows the PE (left) and PL (right) spectra of pure LDPE and LDPE- ${ \bf \cdot N a } _ { 2 } { \bf S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ composites.Measurement conditions are same as that of ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ phosphor. The PL spectra of the composites present same peaks with the ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ phosphor，which located at 563，598，644 and $7 0 6 \mathrm { n m }$ ，as no emission induced in LDPE at the range of $5 2 0 – 8 0 0 \ \mathrm { n m }$ . It can be assumed that the phosphor particles have good red light emission even incorporated into the LDPE matrix. The effect of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ concentration on the luminescence properties was investigated with four different phosphor doping concentrations $( 0 \% , 5 \%$ ， $10 \%$ ，and $20 \% )$ ）
+
+PL spectra of the $6 4 4 \mathrm { n m }$ band (Fig.4a） were measured to obtain the relative intensities of the composites (Fig.4b). It is found that the relative intensity is proportional to the concentration of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 } { : } \mathrm { S m } ^ { 3 + }$ in composites and the highest intensity approaches $10 \%$ compared to that of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ phosphor. One of the probable reasons can be assumed to the refractive index of the polymer matrix [23]. The luminescence intensity of the composites enhances with the increasing concentration of the phosphor. The highest PL intensity was detected from LDPE- $2 0 \% \mathrm { N a _ { 2 } S O _ { 4 } } { : } \mathrm { S m } ^ { 3 + }$ composite. It indicates that the amount of phosphors presenting in the composite material is also a key factor on the luminosity. Considering the concentration of the $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ phosphor in LDPE- ${ \bf \cdot N a } _ { 2 } { \bf S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ composite is only $5 \%$ ， $10 \%$ ，and $20 \%$ , the activator $( \mathrm { S m F } _ { 3 } )$ ）accounts less ratio in the whole.It may be reasonable to assume that the composites have the potential to show better PL efficiency with the increasing of phosphor concentration.
+
+# 4. Conclusion
+
+A new red luminescent composite of Sm-doped LDPE- ${ \bf \cdot N a } _ { 2 } { \bf S O } _ { 4 }$ was successfully synthesized using melt mixing and hot pressing methods. It has been demonstrated that different doping content of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ ： $\mathrm { S m } ^ { 3 + }$ phosphor can be incorporated into low density polyethylene (LDPE) matrix.For pure LDPE and its composite materials, several characterization methods are performed such as SEM, EDX, XRD, PATS and PE, PL spectra to evaluate their morphology, structure and luminescence properties. The results indicate that the ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ phosphor particles can be uniformity dispersed throughout the LDPE polymer matrix. The PL spectra show that the composites have good red light emission under UV excitation and the luminescent behaviormainlyaffectedbytheconcentrationofphosphorparticles. LDPE- ${ \mathrm { . N a _ { 2 } S O _ { 4 } } } { : } { \mathrm { S m } } ^ { 3 + }$ composite materials combine the advantages of ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ phosphor and LDPE polymer, which can be considered as a good candidate for the light conversion agricultural films and other outdoor devices.
+
+# Acknowledgments
+
+The authors are very grateful to the financial support by the National Natural Science Foundation (Grant Nos. 91026006,11175191） and Chinese Academy of SciencesFellowshipsfor Young International Scientistsunder GrantNo. 2012Y1JB0007.
+
+# References
+
+[1] A. Sidike,R.A.Z.M. Saliqur, J.-Y. He,G. Lan-Xin, K. Atobe,N. Yamashita, Journal of Luminescence,131 (2011), pp. 1840-1847.   
+[2] A. Sidike,R.A.Z.M. Saliqur, J.-Y. He, K. Atobe, N. Yamashita, Journal of Luminescence,129 (2009), pp.1271-1275.   
+[3] W.M. Yen, H. Yamamoto, Practical applications of phosphors, CRC press2010. [4] D.B. Bem, A.S.Luyt, F.B. Dejene, J.R. Botha, H.C. Swart, Physica B: Condensed Matter, 404 (2009), pp. 4504-4508.   
+[5] Y. Imai, R. Momoda, C.-N. Xu, Materials Letters, 61 (2007), pp. 4124-4127. [6] S.B. Mishra, A.K. Mishra, N. Revaprasadu, K.T. Hillie, W.J.v. Steyn, E. Coetsee, H.C. Swart, Journal of Applied Polymer Science,112 (2009), pp. 3347-3354.   
+[7] D.B.Bem,H.C. Swart, A.S.Luyt,FB. Dejene,Journal of Applied Polymer Science,121 (2011), pp.243-252.   
+[8] R. Pogreb, B. Finkelshtein, Y. Shmukler, A. Musina, O. Popov, O. Stanevsky, S. Yitzchaik，A. Gladkikh，A. Shulzinger，V. Streltsov，Polymers for Advanced Technologies,15 (2004), pp. 414-418.   
+[9] K. Wong, Sun, T. Sun, X.-L. Liu, J. Pei, W. Huang, Thin Solid Films, 417 (2002), pp. 85-89.   
+[10] Z. Wang, I.D.W. Samuel, Journal of Luminescence,111 (2005), pp. 199-203. [11] A. Zayed Mohammad Saliqur Rahman, X. Cao, L. Wei, B. Wang,H. Wu, Materials Letters, 99 (2013), pp.142-145.   
+[12] M.S. Khan, K. Gul, Polymer-Plastics Technology and Engineering, 49 (2010), pp.
+
+134/-1351.
+
+[13] S.C. Tjong, G.D. Liang, Materials Chemistry and Physics,10O (2006), pp. 1-5. [14] J. Hong, K. Cho, C. Chung,L. Schadler, R. Siegel, JOURNAL OF MATERIALS RESEARCH-PITTSBURGH-,17 (2002), pp. 940-943.   
+[15] H. Dennis,D. Hunter, D. Chang, S. Kim, J. White,J. Cho, D. Paul, Polymer, 42 (2001), pp. 9513-9522.   
+[16] R. Zaleski，A. Kierys,M. Grochowicz,M. Dziadosz, J. Goworek, Journal of colloid and interface science, 358 (2011), pp. 268-276.   
+[17] J. Zhao, M. Shao, D. Yan, S. Zhang, Z. Lu, Z. Li, X. Cao, B. Wang, M. Wei, D.G. Evans, X. Duan, Journal of Materials Chemistry A,1 (2013), p. 5840.   
+[18] L. Luo, Y. Meng, T. Qiu, Z. Li, J. Yang, X. Cao, X. Li, Polymer Composites, (2013), pp.1051-1060.   
+[19] Y. Lin, W. Du, D. Tu, W. Zhong, Q. Du, Polymer International, 54 (2005), pp. 465-470.   
+[20] Ismayil, V. Ravindrachary, R.F. Bhajantri, S.D. Praveena, B. Poojary, D. Dutta, P.K. Pujari, Polymer Degradation and Stability, 95 (201O), pp.1083-1091.   
+[21] M. Madani, R. MacQueen， R.Granata, Journal of Polymer Science Part B: Polymer Physics, 34 (1996), pp. 2767-2770.   
+[22] X. Lin, X. Qiao, X. Fan, Solid State Sciences,13 (2011), pp. 579-583.   
+[23] S.V. Bhat, A. Govindaraj, C.N.R. Rao, Chemical Physics Leters, 422 (2006), pp. 323-327.
+
+Table.1. PALS data and free volume fractions of LDPE-Na2SO4: Sm composites   
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2">NazSO4:Sm</td><td colspan="2">Lifetime of</td><td rowspan="2">Free volume</td></tr><tr><td>content (%)</td><td>orthopositronium T3 (ns) Intensity I3(%) fraction Fv (%)</td></tr><tr><td>composition Pure LDPE</td><td>0</td><td>2.304± 0.013</td><td>21.31 ± 0.25</td><td>0.2712</td></tr><tr><td>5% NazSO4:Sm</td><td>5</td><td>2.276 ± 0.012</td><td>20.83 ± 0.27</td><td>0.2593</td></tr><tr><td>10% NazSO4:Sm</td><td>10</td><td>2.254±0.014</td><td>18.14 ± 0.28</td><td>0.2218</td></tr><tr><td>20% NazSO4:Sm</td><td>20</td><td>2.249 ± 0.013</td><td>16.64 ± 0.28</td><td>0.2026</td></tr></table></body></html>
+
+# Figure captions
+
+Fig.1 XRD patterns of LDPE- xwt%NazSO4: Sm composites $( x = 0 , 5 , 1 0$ ，and 20) and pure$\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ : Sm.
+
+Fig. 2 SEM images of a: ${ \mathrm { N a } } _ { 2 } { \mathrm { S O } } _ { 4 } { : } { \mathrm { S m } } ^ { 3 + }$ phosphor powders b: the pure LDPE；c: LDPE- $5 \%$ phosphor composite; d: LDPE- $10 \%$ phosphor composite; e: LDPE $20 \%$ phosphor composite; f: EDX of LDPE- $20 \%$ $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ $\mathrm { S m } ^ { 3 + }$ composite.
+
+Fig. 3 (1) Excitation spectrum (left) and emisson spectrum (right) of $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ : Sm. (2) Excitation spectrum (left） and emission spectrum (right） of a: pure LDPE；b:LDPE- $5 \% \mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ : Sm composite. c: LDPE-10%Na2SO4: Sm; d : LDPE-20%Na2SO4: Sm composite.
+
+Fig. 4 (a) PL spectra of the $6 4 4 \mathrm { n m }$ band for LDPE- $x \% \mathrm { N a _ { 2 } S O _ { 4 } }$ $\mathrm { S m } ^ { 3 + }$ composite ( $\scriptstyle \cdot = 0$ ,5,10,20).
+
+(b) Relative intensities of the $6 4 4 \mathrm { n m }$ peak in the composites.
+
+![](images/341de359ccad1976d9dace37239b1525d91dcc35ec09a26b1a8b6cfd80f706bf.jpg)  
+Fig. 1.Zhang et al
+
+![](images/a2c2186384c437002eac2c1e19e2a5011a691af4887eb4afdc8eebba34a1ff3e.jpg)  
+Fig. 2.Zhang et al
+
+![](images/b3d6bcef864fb1451450c5db03b2b21b66d91ff063613e9718131fd4082c59d9.jpg)  
+Fig. 3.Zhang et al
+
+![](images/6ff1a284b2b18c361335b84c1df136ca3939f2e402e64ce98da511324dce8e9c.jpg)  
+Fig. 3.Zhang et al
+
+![](images/0e7a13557d02e9841fdcfb3fc0712dc32f4659dd355c7d962ec3c42a490664c1.jpg)  
+Fig. 4.Zhang et al
+
+![](images/6f4f4daff3a067505c34b51425c81bff6943e41e4d2043bae9cb68fa65ff81df.jpg)  
+Fig. 4.Zhang et al

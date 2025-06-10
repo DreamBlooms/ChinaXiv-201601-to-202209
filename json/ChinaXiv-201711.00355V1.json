@@ -1,0 +1,436 @@
+[
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 （1.中国科学院亚热带农业生态过程重点实验室，亚热带农业生态研究所，湖南省农业生",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 念过程里点实验至，长沙410125；2.湖南农业大字生物科字技木字院，长沙410128）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5 摘要：本试验旨在研究不同培养方法对山羊瘤胃上皮细胞生长及角蛋白18（CK18）表达  \n5 量影响。采集42日龄山羊的瘤胃上皮组织，分别采用酶消化法和组织块法对其进行体外培养。  \n7 通过光学显微镜观察原代培养和传代培养阶段的细胞形态，检测第5代山羊瘤胃上皮细胞的  \n8 生长曲线，并采用细胞免疫荧光法对山羊瘤胃上皮细胞进行鉴定。结果显示，1）经 $0 . 2 5 \\%$   \n9 胰蛋白酶 $+ 0 . 0 2 \\%$ 乙二胺四乙酸消化获得的原代培养山羊瘤胃上皮细胞于2d开始贴壁生长，5  \n③ d细胞开始明显增多，10d细胞数量达到最大。2）经组织块法获得的原代培养山羊瘤胃上皮  \n1 细胞于4d开始“爬出”组织块，8d细胞开始明显增多，14d细胞数量达到最大。3）经免疫  \n2 荧光染色显示2种方法获得的细胞胞浆内CK18阳性表达且细胞纯度后者明显高于前者。4)  \n3 组织块法获得的细胞CK18表达量显著高于酶消化法（ $P { < } 0 . 0 5$ ）。综合得出，与酶消化发相  \n4 比，应用组织块法可成功获得纯度更高的山羊瘤胃上皮细胞。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "； 关键词：山羊；瘤胃；上皮细胞；原代培养；分离；CK18 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S826",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "瘤胃是反刍动物消化代谢和营养物质吸收最重要的场所。瘤胃壁由黏膜、黏膜下层、肌层、浆膜4层构成。瘤胃上皮属于复层上皮，由黏膜向浆膜面分为4层：角质化细胞层、颗粒细胞层、棘状细胞层和基底层。瘤胃上皮有着重要的生理作用，如养分吸收与运输、挥发性脂肪酸代谢、对瘤胃壁的保护。因此，研究其生长发育及生理功能被人们所关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，国内外对瘤胃上皮研究越来越多，并将瘤胃上皮组织或者细胞应用于相关领域的病因、病理、营养等的研究。例如：Stumpff等[1]在研究苏云金杆菌毒素CrylAb对瘤胃上皮细胞膜的电流的影响时，发现瘤胃上皮细胞暴露在高浓度苏云金杆菌毒素Cry1Ab下时保持不变的活力，与缺乏特定的膜受体插入该病毒无关；Oba等[2研究蔗糖、乳糖、玉米淀粉在瘤胃发酵中的影响以及瘤胃上皮细胞中的基因表达，结果发现用糖类代替玉米淀粉会影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "瘤胃发酵和代谢调节细胞内的pH，以及细胞内的发酵酸吮现象，并且蔗糖比乳糖的效果更好；王佩等[3]研究枯草芽孢杆菌对绵羊瘤胃上皮细胞β-防御素-1基因表达的影响，发现枯草芽孢杆菌能够诱导绵羊瘤胃上皮细胞内β-防御素-1基因的表达。  \n但是对于瘤胃上皮细胞的培养方法比较还未见报道，大多采用酶消化法来分离获得瘤胃上皮细胞[4-6]，应用组织块法较少，且二者比较试验研究未见报道。因此，本试验以期建立获得纯度更高的瘤胃上皮细胞的培养方法，为研究反刍动物瘤胃相关功能提供一定的技术支持。  \n1材料与方法  \n1.1样品和试剂  \n试验动物为4只42日龄湘东黑山羊，体重为（ $5 . 9 { \\pm } 0 . 8 \\$ ）kg。颈静脉放血致死，取出内脏组织，分离瘤胃，去掉内容物后用无菌生理盐水反复冲洗干净，然后进行样本采集。胎牛血清、DMEM/F12、胰蛋白酶、青链霉素均购自Gibco公司；角蛋白18（CK18）上皮细胞特异性抗体（一抗），购自Abcam公司；二辛可宁酸(BCA)蛋白质浓度测定试剂盒、免疫染色固定液、4',6-二胱基-2-苯基吲哚（DAPI）染色液、抗荧光猝灭剂、十二烷基硫酸钠-聚丙烯酰氨凝胶电泳（SDS-PAGE）蛋白质上样缓冲液（ $( 5 \\times$ ）、SDS-PAGE凝胶配制试剂盒、蛋白质印迹（Western blot）电泳缓冲液、Western blot转膜液、Western blot洗涤液、Westernblot一抗稀释液、Western blot二抗稀释液、BeyoECL plus（超敏ECL化学发光试剂盒）均购自碧云天生物技术研究所；庆大霉素和两性霉素B购自BBI公司；细胞计数试剂盒（CCK-8)购自日本同仁化学研究所；荧光标记驴抗鼠二抗[Dylight 488 Afinipure donkey anti-mouse$\\mathrm { I g G ( H + L ) } _ { \\cdot } ^ { - }$ 购自Earthox公司；Tritonx-100、牛血清白蛋白（BSA）均购自Amresco公司； $1 0 0 \\mathrm { m m }$ 培养皿购自Corning公司。  \n1.2酶消化法分离培养瘤胃上皮细胞",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取出瘤胃组织，去除内容物，用无菌生理盐水反复冲洗干净，钝性剥离瘤胃上皮。用含$5 0 0 ~ \\mathrm { \\mu g / m L }$ 青链霉素、 $5 \\ \\mu \\mathrm { g / m L }$ 两性霉素B和庆大霉素的洗涤液冲洗瘤胃上皮，并放入含500$\\mu \\mathrm { g / m L }$ 青链霉素、 ${ 5 \\mu \\mathrm { g / m L } }$ 两性霉素B和庆大霉素的DMEM/F12中带回细胞培养室。用磷酸盐缓冲液（PBS）清洗瘤胃上皮组织2\\~3次。将瘤胃上皮组织块尽量剪碎（约 $1 \\mathrm { m m } ^ { 3 }$ ，肉眼观察呈糊状)，再用PBS和DMEM/F12各洗涤1次。弃去上清液，往沉淀中加入3倍体积的消化液$[ 0 . 2 5 \\%$ 胰蛋白酶： $0 . 0 2 \\%$ 乙二胺四乙酸（EDTA）为（ ${ \\bf \\Phi } _ { \\cdot 1 } : { \\bf \\Phi } _ { 1 } )$ ]，37℃空气浴振荡消化5 $\\operatorname* { m i n }$ 。共消化5次，每次消化完成后 $ { 1 } \\  { 0 0 0 } \\  { \\mathrm { r / m i n } }$ 条件下离心 $\\cdot 5 \\mathrm { m i n }$ 。前2次消化后用移液枪吸走悬液，因为前2次消化后的悬液中大多为角质细胞。后3次消化完成后，将3次的消化液依次加入适量DMEM/F12完全培养液[含 $5 \\%$ 胎牛血清、 $1 \\%$ 青链霉素、 $0 . 1 \\ \\mathrm { m g / m L }$ 庆大霉素、 $2 . 5 ~ { \\mu \\mathrm { g / m L } }$ 两性霉素B、 $5 \\mathrm { \\ n g / m L }$ 表皮生长因子（EGF）、 $1 \\ \\mu \\mathrm { g / m L }$ 胰岛素（insulin）、 $1 \\ \\mu \\mathrm { g / m L }$ 原运铁蛋白（apo-transferrin）、 $3 . 4 ~ \\mathrm { n m o l / L }$ 亚硒酸钠]重悬细胞。然后过滤，收集的滤液 $1 0 0 0 \\mathrm { r / m i n }$ 条件下离心 $\\cdot 5 \\mathrm { m i n }$ 后，倒掉上清液，往沉淀中加入PBS重悬细胞，继续 $\\mathrm { 1 ~ 0 0 0 ~ r / m i n }$ 条件下离心 $\\cdot 5 \\mathrm { m i n }$ 。接种细胞后置于 $\\mathrm { C O } _ { 2 }$ 培养箱（ $3 7 \\ \\mathrm { { ^ circ C } }$ 、 $5 \\% \\mathrm { C O } _ { 2 }$ ）培养，细胞浓度调整为 $1 \\times 1 0 ^ { 7 }$ 个 $/ \\mathrm { m L }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3组织块法培养瘤胃上皮细胞 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将剪碎后的上皮组织用PBS和DMEM/F12各洗涤1次，吸出组织块均匀地平铺在培养皿底壁。将培养血倒置于 $\\mathrm { C O } _ { 2 }$ 培养箱（ $3 7 ^ { \\circ } \\mathrm { C }$ 、 $5 \\%$ $\\mathrm { C O } _ { 2 }$ ）中 $2 \\mathrm { h }$ 。为防止组织块悬浮，再加入2mLDMEM/F12完全培养液，正置于培养箱中。次日，往 $1 0 0 \\mathrm { m m }$ 培养皿中补足 $1 0 ~ \\mathrm { m L }$ 培养基，继续培养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4细胞传代培养 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当细胞长满培养血的 $8 5 \\%$ 时，吸去培养基，用PBS洗涤细胞（组织块法需先将组织块用枪头轻轻拨动，弃去组织块）。在培养皿中加入1mL消化液，放入37℃培养箱中消化细胞。显微镜下观察细胞开始变圆时，迅速用含血清的培养基终止消化。将贴壁的细胞吹打成悬液，$1 0 0 0 \\mathrm { r / m i n }$ 条件下离心 $5 \\mathrm { m i n }$ ，弃去上清液，加入适量的培养基重悬细胞。为了去除成纤维细胞，运用差速贴壁法将重悬后的细胞加入到新的培养皿中，放入37℃培养箱中 $3 0 \\ \\mathrm { m i n }$ 后，吸出培养基至另一新皿中，再放入37℃培养箱中培养 $3 0 \\mathrm { m i n }$ 。将经过2次差速贴壁的细胞以1:3的比例进行传代培养。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5细胞形态学观察 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用徕卡DMI3000B型倒置显微镜观察原代和传代培养所获细胞的形态及生长状况。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6细胞免疫荧光鉴定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小心倾去细胞培养液，用PBS 清洗细胞2次。吸干液体后加入免疫染色固定液（ $4 \\%$ 多聚甲醛)，室温固定细胞 $1 0 \\mathrm { m i n }$ 。去除固定液，PBS 洗涤细胞2次。然后用 $0 . 1 \\%$ Tritonx-100透化细胞 $7 { \\sim } 1 0 ~ \\mathrm { m i n }$ ，透化完成后PBS清洗细胞。用 $5 \\%$ BSA封闭，室温孵育 $1 { \\sim } 2 \\mathrm { ~ h ~ }$ 后，去",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除封闭液，加入一抗（抗体稀释倍数 $1 : 2 0 0$ )，于4℃冰箱中孵育过夜。此一抗是具上皮特异性的，并适合山羊样品检测。次日，PBS洗3次。避光室温孵育二抗1h后，再PBS 洗3次。然后加入DAPI染色液 ${ 5 0 0 } ~ \\mu \\mathrm { L }$ ，室温染色 $1 { \\sim } 3 \\ \\operatorname* { m i n }$ 后，PBS洗3次。最后加入 $5 0 0 ~ \\mu \\mathrm { L }$ 抗荧光猝灭剂，荧光显微镜观察拍照。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "细胞纯度 $\\stackrel { \\cdot } { = }$ 发绿光的细胞数/发蓝光的细胞数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.7各代次细胞的生长活性检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2种不同培养法各取第5代处于对数生长期的细胞，以 $5 { \\times } 1 0 ^ { 3 }$ 个/孔的密度接种于96孔板细胞培养板中，每种方法取4个平行。培养24h后，加CCK-8试剂培养4h后测定 $4 5 0 ~ \\mathrm { n m }$ 吸光度值（ $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } }$ ），以培养时间为横坐标， $\\mathrm { O D } _ { 4 5 0 \\mathrm { n m } }$ 为纵坐标，绘制生长曲线图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.8Western blot技术检测2种方法培养的细胞CK18表达量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当细胞长满至培养皿 $8 5 \\%$ 以上时，用PBS洗涤。加入 $4 0 0 ~ \\mu \\mathrm { L }$ 蛋白质裂解液，冰上静置30min，每隔 $1 0 \\mathrm { m i n }$ 漩涡振荡 $\\mathrm { 3 0 ~ s } _ { \\mathrm { c } }$ ，然后于 $4 \\mathrm { { ^ { \\circ } C } }$ 高速离心机中 $1 2 0 0 0 \\times g$ 条件下离心 $\\cdot 5 \\mathrm { m i n }$ ，收集上清。吸取1μL上清液，用BCA蛋白质浓度测定试剂盒检测蛋白质浓度，在样品中加入上样缓冲液 $( 5 \\times )$ ，并稀释成同一浓度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "先后配制 $1 0 \\%$ 分离胶和 $1 5 \\%$ 浓缩胶，采用恒压浓缩胶 $8 0 \\mathrm { V }$ 、分离胶120V电泳直至溴酚染料前沿下至凝胶末端处，即停止电泳。然后采用 $2 0 0 \\mathrm { m A }$ 电转 $1 . 5 \\mathrm { h }$ 。电转完成后用 $5 \\%$ BSA于振荡器上封闭 $2 \\mathrm { h }$ 。加入一抗，于 $4 \\mathrm { { ^ \\circ C } }$ 冰箱中孵育过夜。次日，再加入二抗在振荡器上孵育1h。最后在膜上滴加显影液，显影。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.9统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Western blot得到的条带采用Gel-Pro analyzer 4分析灰度值，再将灰度值用SAS 8.2软件进行t检验法统计分析， $P { < } 0 . 0 5$ 为差异显著， $P { > } 0 . 0 5$ 为无显著差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1酶消化法培养的瘤胃上皮细胞形态 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过倒置光学显微镜对酶消化法培养的瘤胃上皮细胞形态进行了观察，原代培养2d的瘤胃上皮细胞贴壁生长，细胞零星的开始抱团（图1-A箭头所示）。随着培养时间的延长，在5d，瘤胃上皮细胞数量明显增多，但是有成纤维细胞(图1-B箭头所示)。当瘤胃上皮细胞培养至10d后，细胞大多呈铺路石状（图1-C箭头所示），细胞汇合呈单层，细胞数量已达到最大值，即将铺满整个培养皿。传代细胞与原代细胞相比，第5代细胞的形态无明显变化（图1-D）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a97a429ad0ee208f6c7475e4faa9e46df933cf1815f7de8c5316d808c377f06.jpg",
+        "img_caption": [
+            "图1酶消化法培养的山羊瘤胃上皮细胞形态 "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A:原代培养2d的瘤胃上皮细胞;B:原代培养5d的瘤胃上皮细胞;C:原代培养10d的瘤胃上皮细胞;D：第5代瘤胃上皮细胞。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A: primary ruminal epithelium cells after cultured for 2d; B: primary ruminal epithelium cells after cultured for5d; C: primary ruminal epithelium cels after cultured for10d;D:P5 ruminal epithelium cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Morphology of ruminal epithelium cells of goats cultured by enzyme digestion method $( 1 0 0 \\times )$ （204号 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2组织块法培养的瘤胃上皮细胞形态 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过倒置光学显微镜对组织块法培养的瘤胃上皮细胞形态进行了观察，原代培养4d的瘤胃上皮细胞开始慢慢“爬出”组织块（图2-A箭头所示）。随着培养时间的延长，在8d过后，瘤胃上皮细胞数量明显增多，细胞抱团生长（图2-B箭头所示）。当瘤胃上皮细胞培养至14d后，细胞铺满整个培养皿，有的甚至长至多层（图2-C箭头所示）。传代细胞与原代细胞相比，第5代细胞的形态无明显变化（图2-D）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A:原代培养4d的瘤胃上皮细胞;B:原代培养8d的瘤胃上皮细胞;C:原代培养14d的瘤胃上皮细胞；D：第5代瘤胃上皮细胞。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A: primary ruminal epithelium cells after cultured for 4d; B: primary ruminal epitheliumcels after cultured for 8d; C: primary ruminal epithelium cells after cultured for14 d;D: P5 ruminal epithelium cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/29a845d6256392d58ce986c9c96b2074bb4b62f8a5a08ce56da5f3f06e72580c.jpg",
+        "img_caption": [
+            "图2组织块法培养的山羊瘤胃上皮细胞形态",
+            "批注[Z1]：彩图尽量排1版"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ig.2Morphology of cultured ruminal epithelium cells of goats cultured by tissue mass method $( 2 0 0 \\times )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3山羊瘤胃上皮细胞鉴定 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用CK18抗体对第5代瘤胃上皮细胞进行免疫荧光鉴定，在倒置荧光显微镜下观察拍照。结果显示，DIPI染色细胞核呈蓝色（图3-A、图3-B箭头所示)，细胞质呈阳性表达(图3-C、图3-D箭头所示)，阴性对照细胞无荧光(图3-G、图3-H)，说明分离培养的细胞为上皮细胞。酶消化法培养的阳性瘤胃上皮细胞达约 $92 \\%$ (图3-E)，组织块法的阳性瘤胃上皮细胞达约 $98 \\%$ (图3-F)，证明组织块法获得的瘤胃上皮细胞纯度更高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b394b5e4532dc44017a575413b8cafcc7d3c73feb57c0e25c5d5c0f1efe14dba.jpg",
+        "img_caption": [
+            "图3山羊瘤胃上皮细胞表面标记免疫荧光检测 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A、B:DAPI细胞核染色;C、D:CK18 呈阳性表达的细胞质;E:A与C叠加;F:B与D叠加;G、H:阴性对照。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A and B:DAPI nuclear staining; C and D: CK18 positive expression cytoplasm; E: the merging of A and C; F: the merging of B and D; G and H: negative control. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Immunofluorescence identification of ruminal epithelium cells surface markers $( 2 0 0 \\times )$ （2 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4山羊瘤胃上皮细胞生长曲线 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图4所示，组织块法和酶消化法的第5代瘤胃平滑肌细胞的生长曲线均呈典型的S\"型。细胞增殖过程经历了潜伏期、对数生长期和平台期。1-2d为细胞潜伏期，细胞生长比较缓慢；培养2d后，细胞增殖进入对数生长期，7d后进入平台期，细胞生长缓慢，细胞数量不再增加。符合体外培养细胞的正常生长增至规律7。从生长曲线中可发现，组织块法培养出的细胞增殖活性高于酶消化法。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b9b1aa898ccb612318330a95856a3c7cc84e1ac86b100483dc3f9a796cfc684.jpg",
+        "img_caption": [
+            "Fig.4Growth curve of ruminal epithelial cells of goats "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.52种培养方法获得山羊瘤胃上皮细胞CK18表达量批注[Z2]:图4图例酶消化法 Enzyme digestion method组织块法 Tissue mass method",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，CK18在组织块法分离出的细胞中表达量较高，显著高于酶消化法（ $P <$ .05）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "0.05) ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1b17fd2f084362aeb5af6cbce4958ff79dde055a7e7a1bddcca7a4ca5ddc0c9.jpg",
+        "img_caption": [
+            "图4山羊瘤胃上皮细胞生长曲线",
+            "图52种培养方法获得山羊瘤胃上皮细胞CK18表达量",
+            "Fig.5Expression of CK18 in 2 culture methods of ruminal epithelial cells of goats "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "\\*显著差异 Significant difference ( $P { < } 0 . 0 5$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "批注[Z3]:图5横坐标组织块法 Tissue mass method酶消化法 Enzyme digestion method纵角蛋白18 表达量CK18 expression",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "常用的细胞原代培养培养方法有酶消化法和组织块法[8]。早在1980年，Galfi等[9等首次培养牛的瘤胃上皮细胞时采用剪切瘤胃乳头的方法，并应用系列酶消化法对原代瘤胃上皮细胞进行分离及培养，成功建立了牛的瘤胃上皮细胞的体外培养方法。但是该方法获得的瘤胃上皮细胞纯度不高，对试验研究有一定的限制作用。利用组织块原代细胞是最简单方便的方法。由于该方法未经任何酶的处理，因此能够获得活性很高且增殖旺盛的细胞，这为建立细胞系奠定基础[10]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "试验选用的基础培养基为适合于大部分上皮组织细胞培养的DMEM/F12，此外本试验与其他山羊瘤胃上皮细胞培养试验最大的不同就是在DMEM/F12培养液中添加EGF、胰岛素、转铁蛋白、硒，以利于细胞的生长，能在更短的时间内培养细胞至可试验状态，以利于后期试验的开展。高玉花等[I]在培养禽类羊膜上皮细胞时添加了EGF，马瑞丽等[12]在培养猪口腔黏膜上皮细胞时则是添加了一定浓度的胰岛素、转铁蛋白、硒。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "酶消化法在分离上皮细胞的过程中使用了 $0 . 2 5 \\%$ 胰蛋白酶 $+ 0 . 0 2 \\%$ EDTA消化，根据孙志洪等[13]的研究表明,上皮细胞在 $0 . 2 5 \\%$ 胰蛋白酶 $+ 0 . 0 2 \\%$ EDTA的条件下消化可获得理想的细胞分离效果以及细胞增殖活性。有文献报道，不同种类的上皮细胞所需消化的时间不同，获得人的上皮细胞需要消化时间较长[14]，北京油鸡的上皮细胞消化时间为 $5 ~ \\mathrm { m i n } ^ { [ 1 1 ] }$ 。本试验对山羊瘤胃上皮细胞的消化时间也是采用 $5 ~ \\mathrm { m i n }$ 。前期以消化时间为变量做预试验，试验结果发现5min的消化时间能得到的山羊瘤胃上皮细胞活力最好，当消化时间达到 $1 5 ~ \\mathrm { m i n }$ 时，细胞贴壁生长效果不好。并且为了得到更纯的瘤胃上皮细胞，不收集前2次的消化液，因为前2次消化液中含较多的角质细胞，只取后3次的消化液。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在分离培养瘤胃上皮细胞时，酶消化法与组织块法相比，就细胞活性而言，后者分离培养出的细胞活性明显要高于前者，沈晴映[15]在研究不同原代培养方法培养人牙髓细胞时也证实了这点。因为经长时间或者高浓度酶消化作用后大量细胞被灭活，甚至可破坏细胞表面的蛋白质，使细胞表面通透性升高，活力下降，生长缓慢[15]。从细胞的纯度方面，虽然组织块法在培养原代山羊瘤胃细胞时会比酶消化法夹杂更多的成纤维细胞[16，但是在传第2代细胞时前者可以只将长有上皮细胞的区域刮下来，转入新的培养皿中继续培养，从而在第2代的上皮细胞中就基本只存在山羊瘤胃上皮细胞，使细胞纯度大大提高。这与郝白露等[17]在研究改良的人脐带间充质干细胞培养方法所得的结果相同。从获得细胞的成功率方面，组织块法成功率较高,其可能原因是酶消化法的消化程度不易掌握[17]。组织块消化的快慢与组织块的大小、振荡频率、胶原酶类型、酶活性及浓度等诸多因素有关[18]。从获得细胞的快慢方面，酶消化法的培养周期相对较短[19]，可在短时间内获得大量细胞，并且比组织法原代培养时间短4\\~5d。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "角蛋白存在于上皮细胞胞浆中构成上皮细胞内细胞骨架，是上皮细胞中特异性的抗原，具有多种表型。本试验采用上皮特异性的CK18作为一抗，采用免疫荧光染色对所培养的细胞进行鉴定，发现获得的瘤胃上皮细胞经CK18免疫细胞荧光染色后，胞质着色，呈阳性反应，高倍镜下可见胞质内呈绿色，说明培养的细胞为上皮细胞，且组织块分离出来的细胞纯度较高[20]。这与周传丽等[21]分离培养、鉴定仔猪小肠黏膜上皮细胞时，通过检测CK18的表达鉴定上皮细胞是一致的。同时，李文清等[22]在鉴定奶牛乳腺上皮细胞时，也是用CK18免疫细胞荧光染色鉴定上皮细胞。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于原代细胞在培养过程中不可避免地会参杂有成纤维细胞，利用成纤维细胞贴壁时间短于瘤胃上皮细胞这一特点[23]，在细胞消化后，运用差速贴壁法将细胞先培养 $3 0 \\mathrm { m i n }$ ，去除部分成纤维细胞，吸出上清液至另一培养血中继续培养，再次静置、贴壁。此步骤重复1次，提高瘤胃上皮细胞纯度。利用此方法多次传代后可使细胞达到较高的纯度。随着传代次数的增加，瘤胃上皮细胞可排挤成纤维细胞的生长而优势增殖。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 本研究通过组织块法、酶消化法分离培养山羊瘤胃上皮细胞，两者都能成功培养出山羊瘤胃上皮细胞。组织块法分离培养出来的细胞纯度、生长活性和CK18 表达量均更高。$\\textcircled{2}$ 当需要用高纯度、高活性的山羊瘤胃上皮细胞进行试验时，组织块法是更安全、稳妥的培养方法；当需要快速获得大量山羊瘤胃上皮细胞进行试验时，酶消化法是更适合的培养方法。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]STUMPFFF,BONDZIO A,EINSPANIER R,et al.Effects of the Bacillus thuringiensis toxin CrylAb on membrane currents of isolated cells of the ruminal epithelium[J].Journal of Membrane Biology,2007,219(1/2/3):37-47. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2]OBA M,MEWIS JL,ZHINING Z.Effects of ruminal doses of sucrose,lactose,and corn starch on ruminal fermentation and expression of genes in ruminal epithelial cells[J].Journal of Dairy Science,2015,98(1):586-594.   \n[3]王佩,范燕茹,金鑫,等.枯草芽孢杆菌对绵羊瘤胃上皮细胞 $\\beta$ -防御素-1表达的影响[J].畜牧 兽医学报,2015,46(5):760-767.   \n[4]SCHLAU N,GUAN L L,OBA M.The relationship between rumen acidosis resistance and expression of genes involved in regulation of intracellular pH and butyrate metabolism of ruminal epithelial cells in steers[J].Journal of Dairy Science,2012,95(1O):5866-5875.   \n[5]卢劲晔,卢炜,刘静,等.IGF-1 促进山羊瘤胃上皮细胞增殖的机制[J].南京农业大学学 报,2014,37(5):106-110.   \n[6]郭立辉.VFA 对亚急性瘤胃酸中毒肉牛瘤胃上皮细胞炎性信号通路的影响[D].硕士学位 论文.长春:吉林大学,2015.   \n[7]成海建,臧坤,刘晓牧,等.不同培养方法对牛前体脂肪细胞增殖分化的影响[J].动物营养学 报,2013,25(4):864-869.   \n[8]XU S W,FU JJ,CHEN JW,et al.Development of an optimized protocol for primary culture of smooth muscle cells from rat thoracic aortas[J].Cytotechnology,2009,61(1/2):65-72.   \n[9]GALFI P,NEOGRADY S,KUTAS F.Culture of epithelial cells from bovine ruminal mucosa[J].Veterinary Research Communications,1980,4(1):295-300.   \n[10]詹康,左晓昕,贡笑笑,等.不同培养模式下奶牛乳腺上皮细胞形态及酪蛋白表达的差异 [J].动物营养学报,2015,27(7):2241-2247.   \n[11]高玉花,张文秀,吴芳春,等.北京油鸡羊膜上皮细胞的分离、培养及分化潜能的研究[J]. 畜牧兽医学报,2013,44(2):211-219.   \n[12]马瑞丽,张彦明,崔红杰,等.新生仔猪口腔黏膜上皮细胞的体外培养方法[J]).畜牧兽医学 报,2013,44(9):1445-1453.   \n[13]孙志洪,张庆丽,贺志雄,等.山羊瘤胃上皮细胞和空肠黏膜上皮细胞原代培养技术研究 [J].动物营养学报,2010,22(3):602-610. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14]LI H,NIEDERKORN J Y,NEELAM S,et al.Immunosuppressive factors secreted by humanamniotic epithelial cells[J].Investigative Ophthalmology& Visual Science,20o5,46(3):900-907.  \n[15]沈晴映.不同原代培养方法培养人牙髓细胞的研究[J].天津医药,2011,39(2):139-141.  \n[16] 詹康,左晓昕,贡笑笑,等.鸡胚小肠上皮细胞的体外分离培养和鉴定[JJ.动物营养学报,2015,27(7):2150-2156.  \n[17]郝白露,杨瑞峰,彭祥炽,等.改良的人脐带间充质干细胞培养方法[J].中国计划生育学杂志,2013,21(1):44-49.  \n[18]段永芳,刘继红.家兔阴茎海绵体平滑肌细胞体外培养方法对比研究[J].中国男科学杂志,2002,16(3):197-200.  \n[19]何晓琳,李月红,张祥宏,等.人正常食管鳞状上皮不同原代培养方法的比较[J].中国细胞生物学学报,2011,33(6):681-687.  \n[20] 范燕茹,王佩,金鑫,等.中国驯鹿瘤胃上皮细胞的体外分离培养[J].黑龙江畜牧兽医,2014(11):8-10,15.  \n[21]周传丽,刘铮铸,俞英,等.仔猪小肠黏膜上皮细胞体外分离培养及鉴定[J].中国农业科学,2011,44(21):4516-4524.  \n[22]李文清,王加启,南雪梅,等.奶牛乳腺上皮细胞的不同培养方法比较及激素和细胞因子对β一酪蛋白 mRNA 表达的诱导[J].动物营养学报,2014,26(9):2607-2614.  \n[23]DEHORITY B A,TIRABASSO P A.Effect of feeding frequency on bacterial and fungalconcentrations,pH,andotherparametersintherumen[J].JournalofAnimalScience,2001,79(11):2908-2912.Effects of Different Culture Methods on Growth and Keratin 18 Expression of RuminalEpithelium Cells of GoatsLIU Sile1.2KANG Jinhe1\\*TAN Zhiliang1WANG Zheng2\\*(1.KeyLaboratory ofAgro-Ecological Processes in Subtropical Region,Instituteof SubtropicalAgriculture,Chinese Academy ofSciences,Key Laboratory ofAgro-Ecological Processes in",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Biotechnology,HunanAgricultural University,Changsha 4iUl25,China） Abstract：This research aimed to study the effects of different culture methods on growth and keratin18 (CK18) expression of ruminal epithelium cells of goats.The test proceeded with ruminal epithelium cels of goats aged 42 days,and the cells were cultured using the methods of enzyme digestion and tissue mass culture.The morphology of cells at the stages of primary culture and subculture was observed under the optical microscope,and the growth curve of the fifth generation of ruminal epithelium cels of goat was tested,meanwhile,ruminal epithelium cells were identified using cell immune fluorescence method. The results showed as follows:1） the primary cultured ruminal epithelium cells of goats obtained by digestion of $0 . 2 5 \\%$ trypsin and $0 . 0 2 \\%$ ethylenediamine tetra-acetate began adherent growth on the 2nd day. There was a significant increase in cell number on the 5th day,and the cell number reached a maximum at the 10th day.2)And the primary cultured ruminal epithelium cells of goats obtained by tissue mass culture began ‘escape' from the tissue mass on the 4th day.There was a significant increase in cell number on the 8th day,and the cell number reached a maximumat the 14th day.3) The CK18 in cytoplasm of cells obtained by the 2 method exhibited a positive reaction by immune fluorescence staining,and cell purity was higher in tissue mass culture method.4) Tissue mass culture method expressed higher CK18 compared with enzyme method.In conclusion,ruminal epithelium cells of goats were successfully obtained with high purity using the methods of tissue mass culture. Key words:goat; rumen；epithelium cell；primary culture；isolation； CK18 ",
+        "page_idx": 12
+    }
+]

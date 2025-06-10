@@ -1,0 +1,305 @@
+[
+    {
+        "type": "text",
+        "text": "基于三维激光扫描的桥梁钢结构构件质量检查方法研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杜伸云 胡伟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中铁四局集团管理研究院，合肥230000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】作为一种新的数据获取手段，三维激光扫描仪可以快速、精确和高效地获取目标的三维激光点云数据，这突破了传统的测量和数据处理方法。本文综述了三维激光扫描技术在桥梁钢结构的复杂构件质量检查中的应用方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】三维激光扫描；桥梁钢结构；质量检查",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】TU17；TU391 【文献标识码】A 【文章编号】1674-7461(2017)05-0113-05  \n【DOI】10.16670/j.cnki.cn11-5823/tu.2017.05.21",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "使用背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钢结构BIM设计自上世纪90年代末被引入替代2D-CAD设计至今已经10多年,过去通常我们称之为钢结构三维实体建模,其作用也通常停留在建模和出图过程中，设计人员常常关注的是建模和出图过程的效率,但随着建筑业BIM概念越来越被推广、研究和应用,钢结构BIM软件商也越来越注重输出信息接口的标准化，一方面足以支撑对建筑BIM 的协同,另一方面 BIM 模型本身包含的信息在后续钢结构制作厂家内的管理和制作流程中的完整应用也正被充分重视、研究、应用和拓展中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "三维激光扫描技术能做到快速、精确直接获取被测物体的三维点云数据，无需进行任何实物表面处理，其激光点云中的每个三维数据都是直接采集目标的真实数据，使得后期处理的数据完全真实可靠。技术上突破了传统的单点测量方法，其最大特点就是精度高、速度快。三维激光扫描技术目前已在众多领域得到了广泛应用，尤其在建筑设计以及恢复重建方面，可以深入到任何复杂的现场环境及空间中进行扫描操作，并直接将各种大型的、复杂的、不规则、标准或非标准等实体或实景的三维数据完整的采集到计算机系统中，进而快速重构出目标的三维模型及线、面、体、空间等各种制图数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 应用目的",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "桥梁钢结构的结构形式复杂、体量较大，且构件之间的空间关联性也较多，因此对构件的加工制造精度要求很高。复杂构件的质量检查也是重难点，也关乎整个钢结构桥梁施工的质量、安全及进度。按传统的钢卷尺测量方法，难以全面、精确地检查复杂构件的质量，而基于三维激光扫描技术的数字化检验方法很好地解决了这一难题。本文从钢结构BIM模型创建后，主要介绍其在钢结构在加工制造中的全尺寸测量与质量把控和钢结构预拼装技术中的重点应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3软硬件配置 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钢结构几何参数摄影测量系统主要两大部分组成：移动式C-Track高清双CCD设备跟踪器、便携式高精度三维激光采集器。软件部分：质量分析软件。系统详细组成见表1。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d39432027450cb41e6977dad13696e96fcab8717702acf6335f7bf5d369d930.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "42工艺流程及原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于三维激光扫描技术的数字化质量检查技术是运用三维激光扫描仪采集构件的空间几何信息，并在专业软件中将构件的BIM模型与扫描采集的点云数据进行对比分析,从而达到检查构件加工制造精度的一种方法，其主要流程见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/30fb8b7eac57242fc3dfe7d0b439bf463d5afc36f20f314d951fc08feadbcd84.jpg",
+        "img_caption": [
+            "图1数字化构件质量检查流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5质量检查实施过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.1 数据采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据构件的复杂程度，提前规划三维激光扫描",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "仪的设站点，以确保最大程度地采集构件的三维信息。规划好数据采集点后，按规划的设站点逐点扫描(见图2)采集构件的三维点云数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.2 数据解算",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将采集到的多站点三维激光点云数据进行匹配和解算，生成完整的构件三维激光点云数据，再通过数据去噪、剔除等操作保留所需构件的点云数据，转化为\\*.STL格式（见图3）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.3 数据融合",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过模型数据与点云数据的特征点、线、面等参考信息，在专业软件中将模型数据与点云数据进行配准，实现两者数据的融合（见图4），从而为下一步数据对比分析做好准备。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.4 数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在专业软件中将配准后的融合模型进行误差分析，通过三维模型直观显示BIM模型与扫描模型之间的偏差情况。偏差云图详细展示了偏差的最大值及其具体位置（见图5）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5.5 结果输出",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "可以直接测量扫描模型的实际尺寸，同时还可以将偏差分析结果以数据报表及直方图的形式输出，直观展示构件的加工制造偏差值及偏差分布情况（见图6），通过与设计要求及铁路钢桥制造规范等标准文件对比评判构件加工的几何尺寸是否合格。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6 经济效益分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过三维扫描创新技术可以为钢结构构件的生产提供技术储备，加快检测速度，提高生产效率，为钢结构及构件生产提供经济效益的保障，进一步增强市场竞争能力，具有良好的经济效益和社会效益。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "7结语 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "三维激光扫描仪在钢结构桥梁构件质量检查中的应用，为大型复杂构件的质量检查提供了一种新的方法，该方法具有信息全面、智能分析、可视化等优点，同时还便于数据长期保存和调用，但也存在一定的不足，如：数据处理时间较长、设备价格较高等。相信不久的将来，随着三维激光扫描技术相关软硬件的发展，其扫描和数据分析处理的能力和效率得到解决，价格也相对便宜，其在工程项目中的应用也会更加普遍，从而提升构件的整体质量检查水平，保证构件的加工质量。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff65ed48e0cb7d36bfa66178fe2e4f8c9088630b80f78efcfd8988ab7e0233b6.jpg",
+        "img_caption": [
+            "图2三维激光扫描采集构件数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/777cd2ebf3616a3313bc28d59a53b144dd4b2ffc28eaefbb12758a1768fecd3d.jpg",
+        "img_caption": [
+            "图3点云数据解算结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/642844841cb7dbedffabcac3af7140fd9a1886509ea1f493efe2233a02621fe5.jpg",
+        "img_caption": [
+            "图4模型与点云匹配过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3bc36b7c48070f554b70443a33883c9fd56f8ac112fb02ac12fd5126866d6ac.jpg",
+        "img_caption": [
+            "图5构件制造偏差分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/055056c3e6ebbe79c33f62eac239d4415f61da30529467fecf8bff89293718b6.jpg",
+        "img_caption": [
+            "）、3D检测与预拼装参考值、测试值、偏差值生成"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a230ac03f898c3b26d70af23509489b2c1151076d9ac3a94371de501acfaa984.jpg",
+        "img_caption": [
+            "图6构件加工偏差分析报表"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b086f0ffb25aa0869ec860bc222869597a013b9bb5aba4bae7034524fa8eeef6.jpg",
+        "table_caption": [
+            "表2"
+        ],
+        "table_footnote": [
+            "备注：按照上述表格来看，采用三维扫描技术不仅可以提高生产的质量，提高市场占有率及品牌的核心竞争力,从长远角度来看采用三维扫描创新技术不仅提供了强有力的数据支撑,也大大降低了人力及资金的投入，减少成本。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目比较</td><td>人工</td><td>三维扫描仪</td><td>备注</td></tr><tr><td>2 投人人员</td><td>一个班组8人</td><td>2人</td><td>可以减少6名工作人员</td></tr><tr><td>7成本 1</td><td>按照每人每月5000元工资，一年人力设备总支出成本260万 支持成本48万左右</td><td></td><td>随着市场发展人力成本日益增长，按照长久发 展,5年左右可以收回成本，10年可以减少人 力成本近240万左右</td></tr><tr><td>0 工作效率</td><td>拼装大概在一周左右</td><td>小时)</td><td>现场模拟预拼装,费时费力,构件的试扫描一个整体构件在8小时（可降低3-4构件本身平面居多,可以重点扫描孔位,平面可 以简带,减少扫描时间</td></tr><tr><td>数据完整性</td><td>不完整，复杂曲面尺寸测量误差大</td><td>数据完整，精度可控制</td><td>扫描仪俗称实景复制技术,扫描数据和构件本 身1:1,可以直接看出设计和生产之间的差异</td></tr><tr><td>成果精度</td><td>不可控</td><td>设备本身精度0.03mm</td><td>扫描仪扫描数据完整，精度可靠，可以全面的反 应出构件的质量问题</td></tr><tr><td>C 实用性 h</td><td>对于异形曲面仍无法准确的测量，且在 拼装过程中存在安全隐患</td><td>任何加工构件都可以进行扫描分析</td><td>手持式扫描仪实用于仍和部件扫描，且进行产 品分析</td></tr><tr><td>质检证明 构件出厂</td><td>构件出厂后如发生形变及尺寸问题，采 用人工皮尺测量，不足以说明是构件运 输过程出现形变还是生产问题，皮尺测</td><td>可以完整的对构件进行扫描，数据完整可 靠，精度高，数据充分，可以避免成产加工 不合格等问题</td><td>构件出厂后在运输过程中可能回形变，到施工 现场无法安装，导致，从而会提高返厂维修等， 从而增加生产单位的运输成本，及人力成本</td></tr><tr><td>技术创新</td><td>量结果没有可靠性 无</td><td>维扫描仪俗称实景复制技术，采用三维扫</td><td>技术创新为企业创新活动的核心内容，三技术创新是国家发展战略的核心，三维扫描仪 俗称实景复制技术，采用三维扫描仪技术可以</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "［1］李亚东．数字模拟预拼装在大型钢结构工程中的应用[J].施工技术，2012，41(373)：23-26.［2］丁一峰，陆华,李文杰.信息化预拼装在钢结构成品检",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "测中的应用[J].土木建筑工程信息技术，2012，4(1):52-56.  \n[3」徐进军，余明辉，郑炎兵.地面三维激光扫描仪应用综述［J].工程勘察，2008，12：31-34.  \n[4」石银涛，程效军,张鸿飞.地面三维激光扫描建模精度研究[J].河南科学，2010（2）.  \n［5］万程辉，程效军，贾东峰.基于快速成型技术的点云压缩算法研究[J].测绘通报，2012（6).",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Research on the Quality Inspection Method of Bridge Steel Structure based on 3D Laser Scanning ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Du Shenyun,Hu Wei ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Management Research Institute of CTCE Group，Hefei 23O0OO,China) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abstract：As a new means of data acquisition,3d laser scanners can capture 3d laser point cloud data from thetargetquickly,accuratelyandefficiently,this breaks through the traditional methodsof measurementanddata processing.This paper summarizes the application of 3D laser scanning technology in the quality inspection of complex components of bridge steel structure. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Key Words: 3D Laser Scanner;Bridge Steel Structure ;Quality Testing ",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "1961—2016年塔城地区 $\\geqslant 1 0 \\ \\mathbf { \\Phi } ^ { } \\mathbf { C }$ 积温的时空变化特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "康丽娟'，巴特尔·巴克'，冯丽晔²，葛怡成²，萨吉旦·阿卜杜克日木'1．新疆农业大学草业与环境科学学院,新疆 乌鲁木齐830052；2．乌鲁木齐市牧业气象试验站,新疆 乌鲁木齐830052）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：利用塔城地区6个气象站1961—2016 年的逐日气温数据,采用气候倾向率、累积距平法、Mann-Kendall 突变检验法和ArcGIS空间插值法，对该区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温的时空变化特征进行分析。结果显示：研究区 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 初终日、持续日数和积温分别以 $- 0 . 1 2 \\textup { d } \\cdot \\textup { ( } 1 0 \\mathbf { a ) } ^ { - 1 } \\vartheta . 1 5 \\textup { d } \\cdot \\textup { ( } 1 0 \\mathbf { a ) } ^ { - 1 } \\vartheta . 2 7 \\textup { d } \\cdot \\textup { ( } 1 0 \\mathbf { a ) } ^ { - 1 } \\mathbf { \\nabla } _ { \\gamma } 7 5 . 3 9 \\textup { \\ -- } 0 . 1 0 \\textup { a } ^ { - 1 }$ 的倾向率呈提前、推迟、延长、增多的趋势,其中 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 终日、持续日数和积温均发生突变; $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温分布主要集中于 $2 ~ 4 5 0 \\sim 3 \\$ $9 5 0 ~ \\mathrm { { ^ { \\circ } C } }$ ，研究区南部 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温较北部高;阶段Ⅱ(1995—2016年)和阶段I（1961—1994 年)相比，各地 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温均有所增加并且 $2 ~ 4 5 0 \\sim 3 ~ 1 5 0 ~ \\mathrm { ^ { \\circ } C }$ 占的区域面积占总面积的比例有明显的减少趋势 $, 3 ~ 1 5 0 \\sim 3 ~ 4 5 0 ~ \\mathrm { ~ \\textdegree ~ } , 3 ~ 4 5 0 \\sim 3$ $9 5 0 \\mathrm { ~ \\textcircled { < } \\textcircled { < } \\textcircled { > } \\textcircled { > } \\textcircled { > } \\textcircled { < } \\mathrm { ~ 1 5 0 ~ \\mathrm { ~ ‰ ~ } } }$ 和 $4 ~ 1 5 0 \\sim 4 ~ 2 5 0 ~ \\mathrm { ^ { \\circ } C }$ 占的区域面积占总面积的比例均有所增长,其中 $3 ~ 1 5 0 \\sim 3 ~ 4 5 0 ~ \\mathrm { ^ { \\circ } C }$ 所占面积比增长最明显。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词： $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温；Mann-Kendall检验；时空变化；持续日数；气候倾向率；塔城地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IPCC第五次评估报告指出，全球所有地区几乎都有升温现象，1901一2012年全球陆地和海洋平均上升了 $0 . 8 9 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ,1983—2012 年是过去1400a中最暖的 $3 0 \\mathrm { ~ a ~ } ^ { [ 1 - 2 ] }$ 。气候变化将改变农业气候资源,尤其是热量资源的时空分布，热量资源的变化将影响农业种植结构、熟制和产量。衡量某地区热量资源的主要指标是不低于某一界限温度的积温及其相应的持续天数， $1 0 \\mathrm { ~ } \\mathrm { { ~ ‰ ~ } }$ 是喜温作物适宜生长的起始温度[3]， $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温反映喜温作物所需热量资源的多寡，决定该地区适宜种植作物的品种，是进行农业区划的重要依据[4]。积温作为重要的热量资源,对合理配置农作物种植、预报物候期、防止病虫害等具有指导意义[5]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国内学者对我国热量资源进行了相关研究。李萌等研究表明，我国热量资源随时间变化呈现出显著上升趋势，光能资源在西北内陆地区增加尤为明显;新疆地区于1987 年气候发生突变[7]；关学锋等[8研究表明北疆年平均气温以 $0 . 4 1 \\mathrm { ~ \\textdegree C }$ ：（10a）-的倾向率呈上升趋势。也有学者针对10$\\mathcal { \\mathrm { C } }$ 界限温度进行了研究,时光训等[9研究了长江流域 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温时空变化特征，指出 $\\geqslant 1 0 \\mathrm { ~ \\% ~ }$ 积温的年际变化存在明显的空间差异;戴声佩等[1]通过研究华南地区，认为日平均气温稳定 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 期间积温呈现由南向北逐渐降低的趋势，并且随海拔高度的升高而降低;郜红娟等[\"指出,贵州省 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 的积温呈增加趋势，气候变暖和地形是影响积温时空变化的重要因素;潘冬梅等[12]研究表明,新疆阿勒泰地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 的持续日数和积温在空间上的分布表现为由中部向外递减的特征。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于气候变暖，粮食作物种植比例变化明显，小麦种植比例对气候变化最为敏感，波动较大；玉米种植比例持续增加,增幅加大(13],我国北方地区多熟农作物种植区域向北推移，农作物的物种由早熟向中晚熟改变[14],作物种植熟制发生显著变化,全国的复种指数由1985年的 $143 \\%$ 增加到2001年的$1 6 3 . 8 \\%$ ，西北是复种指数增加幅度较大的地区之_(15]。塔城地区作为新疆沿边重要地区,具有丝绸之路经济带北通道关键战略地位[16]。研究塔城地区农业界限温度 $1 0 \\ \\%$ 的变化特征，可为塔城地区喜温作物的栽培、育种提供科学参考和依据，对区域农作物种植结构调整、应对气候变化具有科学意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "塔城地区位于新疆维吾尔自治区的西北部，地处 $8 2 ^ { \\circ } 1 6 ^ { \\prime } \\sim 8 7 ^ { \\circ } 2 1 ^ { \\prime }$ E $. 4 3 ^ { \\circ } 2 5 ^ { \\prime } \\sim 4 7 ^ { \\circ } 1 5 ^ { \\prime } \\mathrm { N }$ 之间,属中温带干旱和半干旱气候区，春季升温快，冷暖波动大，夏季炎热，秋季降温迅速，冬季严寒且漫长，年极端最高气温 $4 0 \\ \\mathrm { { ^ circ C } }$ ,极端最低气温 $- 4 0 \\ \\mathrm { { ^ circ C } }$ 。塔城盆地降水量年均 $2 9 0 ~ \\mathrm { m m }$ ,蒸发量 $1 6 0 0 ~ \\mathrm { { m m } }$ 、日照 $2 8 0 0 \\sim$ $3 0 0 0 { \\mathrm { ~ h ~ } }$ ,无霜期 $1 3 0 \\sim 1 9 0 \\mathrm { ~ d ~ }$ 。在地区腹心地带，有克拉玛依市和奎屯市，本文将其纳入研究区，总面积为$1 . 1 3 \\times 1 0 ^ { 5 } ~ \\mathrm { k m } ^ { 2 }$ （图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ef0709dc704ad205b2d36e6a55df3a9e8fe33952e37fa4f94b15f47a7331039.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Map of the study region "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 资料来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文数据来源为新疆气象局和中国气象局国家信息中心数据共享网提供的1954一2016年逐日气温观测资料，由于站点资料的时间长度不一致，为确保资料的可靠性和一致性，选取数据齐全的塔城地区5个气象台站和克拉玛依市1个气象台站1961一2016年气象观测资料，数据经过严格的质量检验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1起止日及积温的计算用5日滑动平均法[17]计算日平均气温稳定通过 $1 0 \\ \\%$ 界限温度起止日，起日与止日间日平均气温之和即为稳定 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 的积温。由于日期不能做数据的处理，因此以1月1日为起点，将1月1日记为1,1月2日记为2，以此类推，12月31日记为365，并将其一次转换为日序资料。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2线性趋势分析利用气候倾向率法[18]对年$\\geqslant 1 0 \\ { } \\mathrm { { \\stackrel { \\circ } { C } } }$ 积温进行线性估计，气候倾向率为正，表明$\\geqslant 1 0 \\ { } \\mathrm { ~ \\mathcal ~ { C } ~ }$ 积温随时间增加而增多，气候倾向率为负，表明 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温随时间增加而减少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.3距平和累积距平[18] 距平是气象上常用的量，主要是用来确定对平常值的正常情况的偏差，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } = x - { \\bar { x } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $x$ 为气候要素某年的数值； $\\bar { x }$ 是气候要素的多年平均值； $x _ { i }$ 为第 $\\mathbf { \\chi } _ { i }$ 年的距平值，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "累积距平是判断某一气候要素变化趋势的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\bar { x } } _ { i } \\ = \\ \\sum \\ _ { i = 1 } ^ { t } \\left( { x } _ { i } - { \\bar { x } } \\right) \\ , ( t \\ = \\ 1 \\ , \\ 2 , \\cdots , \\ n )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.4Mann-Kendall突变检验气候突变的普适定义为：气候从一种稳定状态跳跃式地转变到另一种稳定状态的现象，它表现为气候在时空上从一个统计特性到另一个统计特性的急剧变化(19]。本文运用Mann-Kendall非参数检验法分析塔城地区日平均气温 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初终日、持续日数和积温的时间序列变化趋势。Mann-Kendall检验的基本原理见文献[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.5反距离加权(IDW)插值法为了探讨日平均气温 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温在不同阶段的空间分布差异，进一步统计各积温段面积变化趋势,将塔城地区各气象站 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温进行反距离加权(IDW)插值模拟。IDW 插值法基于相近相似的原理：即两个物体离得越近，它们的性质就越相似，反之，离得越远相似性越小。它以插值点与样本点间的距离为权重进行加权平均，离插值点越近的样本点赋予的权重越大[20]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 $\\mathbf { \\geqslant 1 0 ~ } \\mathbf { \\mathcal { C } }$ 积温及相关要素的时间变化特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初终日、持续日数和积温的年际变化特征 1961—1994 年间塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日以正距平为主，1995—2016年以负距平为主，特别是1997年、2000年、2012年、2015年、2016年 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日负距平均超过了 $1 0 \\mathrm { ~ d ~ }$ 。塔城地区在1961—2016年间 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日日序以 $- 0 . 1 2 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率变化，总体呈现出初日提前的趋势，近56a来 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 平均初日日序为4月24日，其中1970 年平均 $\\geqslant 1 0 \\ { } ^ { \\circ } { \\mathrm { C } } \\quad$ 初日最迟，为5月7日，2000年平均 $\\geqslant$ $1 0 \\ \\%$ 初日最早，为4月10日。从累积距平曲线可以看出，近56a来 $\\geqslant 1 0 \\ { } ^ { \\circ } { \\mathrm { C } } \\quad$ 初日日序呈现出先升高后降低的趋势，1994年为转折点（图2a）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0501631b88ce5a835e9e28e0e11ec786754bce600623fbbe01a99ee738278c2f.jpg",
+        "img_caption": [
+            "图2塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日(a)终日(b)持续日数(c)和积温(d)的年际变化Fig.2Interannual variability of the first date（a）,last date（b），duration days（c）andaccumulated temperature（d）about $1 0 \\%$ in Tacheng"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1961—1987年间塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 终日以负距平为主，1988—2016年以正距平为主，其中1995年、1997年、1999年、2002年、2006年、2009年 $\\geqslant 1 0$ $\\mathrm { { ^ \\circ C } }$ 终日正距平均超过了8d,特别是1997 年超过了$1 7 \\mathrm { ~ d ~ }$ 。塔城地区在1961—2016 年间 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 终日日序以 $0 . 1 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率变化，总体呈现出推迟的趋势，1961—2016年平均终日日序为9月30日，其中1968 年平均 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 终日最早，为9月13日，1997年平均 $\\geqslant 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 终日最迟，为10月17日。从累积距平曲线可以看出，近56a来 $\\geqslant 1 0 \\ { } ^ { \\circ } { \\mathrm { C } } \\quad$ 终日日序呈现出先下降后上升再下降再上升的“W”形趋势，1994年为转折点（图2b）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1961—1989年间塔城地区 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 持续日数以负距平为主，1990—2016年以正距平为主，1990—2016年年均 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 持续日数比1961—1989年长9d,其中1990 年、1997年、2000 年、2009年、2012年、2016年 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数正距平均超过了 $1 5 \\mathrm { ~ d ~ }$ ，特别是1997年超过了 $3 0 \\mathrm { ~ d ~ }$ 。塔城地区在1961—2016年 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数以 $0 . 2 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率变化，总体呈现出增多的趋势，近56a平均 $\\geqslant$ $1 0 \\ \\%$ 持续日数为160d,其中1968 年平均 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数最短，为 $^ { 1 3 9 } \\mathrm { ~ d ~ } , 1 9 9 7$ 年平均 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数最长，为 $1 8 9 \\mathrm { ~ d ~ }$ ,两者相差 $5 0 \\mathrm { ~ d ~ }$ 。从累积距平曲线可以看出，近56a来 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数呈现出先下降后上升的\"V\"形趋势，1994年是 $\\geqslant 1 0 \\ { } \\mathrm { ~ \\mathcal ~ { C } ~ }$ 持续日数由少变多的转折点（图2c）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1961一1994年塔城地区日平均气温稳定 $\\geqslant 1 0$ $\\mathrm { ^ \\circ C }$ 期间积温以负距平为主，1995—2016年以正距平为主，1995—2016年年均 $\\geqslant 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 积温比1961—1994年年均积温高 $2 8 7 . 2 \\mathrm { ~ \\textdegree C }$ ,其中1997 年、2000年、2011年、2012年、2016年 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 积温正距平均超过了 $3 0 0 \\mathrm { ^ { \\circ } C }$ ,尤其是1997年超过了 $6 0 0 ~ \\mathrm { { ^ { \\circ } C } }$ 。塔城地区在1961—2016年日平均气温稳定 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温总体呈现出增加趋势，其气候倾向率为 $7 5 . 3 9 \\mathrm { ~ \\textdegree C }$ ：（10a）-1，通过 $\\alpha = 0 . \\ 0 1$ 显著性水平检验。塔城地区 $\\geqslant 1 0 \\ { } \\mathrm { { \\stackrel { \\circ } { C } } }$ 积温多年平均值为 $3 ~ 2 3 0 . 4 ~ \\mathrm { ^ { \\circ } C }$ ,最大值出现在1997年，为 $3 ~ 8 4 9 . 9 ~ \\mathrm { { ^ { c } C } }$ ,最小值出现在1992年，为 $2 7 3 9 . 4 ^ { \\circ } \\mathrm { C }$ ,两者相差达 $1 1 1 0 . 5 ^ { \\circ } \\mathrm { C }$ ,表明塔城地区日平均气温稳定 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温的年际变化幅度较大。从累积距平曲线可见，1961—1994年积温呈现出下降趋势，1994—2016年积温呈上升趋势，1994年是日平均气温稳定 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温由少变多的转折点（图2d）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 $\\geqslant 1 0 \\ { } ^ { \\circ } { \\mathrm { C } } \\quad$ 初终日、持续日数和积温的气候倾向率变化从表1可以看出，塔城地区 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 初日呈现出显著的提前趋势，每10a提前1.2d，其中塔城市每 $1 0 \\mathrm { ~ a ~ }$ 提前2.9d,提前趋势极显著，乌苏、沙湾、克拉玛依、托里 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日均现出提前趋势，分别为每10a提前 $1 . 4 \\mathrm { ~ d ~ } , 1 . 3 \\mathrm { ~ d ~ } , 1 . 3 \\mathrm { ~ d ~ } , 1 . 0 \\mathrm { ~ d ~ }$ ，提前趋势不显著，只有和布克赛尔 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日呈现出推迟现象,每 $1 0 \\mathrm { ~ a ~ }$ 推迟0.6d,推迟趋势不显著。全区 $\\geqslant$ $1 0 \\ \\%$ 终日呈现出极显著的推迟现象，每 $1 0 \\mathrm { ~ a ~ }$ 推迟1.5 d,其中沙湾每 $1 0 \\mathrm { ~ a ~ }$ 推迟1.9d,达到了0.01显著性水平，托里、塔城、乌苏每 $1 0 \\mathrm { ~ a ~ }$ 分别推迟 $1 . 9 \\mathrm { ~ d ~ }$ 、$1 . 7 \\mathrm { ~ d ~ } . 1 . 4 \\mathrm { ~ d ~ }$ ,达到0.05显著性水平，和布克赛尔和克拉玛依每 $1 0 \\mathrm { ~ a ~ }$ 分别推迟1.2d和1.1d,但推迟趋势不显著。全区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 间隔日数呈现出极显著的增多趋势，每10a增加2.7d,其中塔城、沙湾、托里、乌苏均呈现出极显著的增加趋势，分别为每10a增加 $4 . 6 \\textrm { d } , 3 . 2 \\textrm { d } , 2 . 9 \\textrm { d } , 2 . 8 \\textrm { d }$ ，和布克赛尔和克拉玛依也呈现出增加趋势，但不显著，分别为每10a",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1塔城地区 $\\mathbf { \\geqslant 1 0 ~ } \\mathbf { \\vec { C } }$ 初终日、持续日数和积温的气候倾向率",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/04bb7b3cccb228c1cff18d7ad44ead77033e59bbd0cfa4ad49f6c875b7cb2c21.jpg",
+        "table_caption": [
+            "Tab.1Climate tendency rate of the first and last date, duration days and accumulated temperature ",
+            "about $\\mathbf { 1 0 \\% }$ in Tacheng "
+        ],
+        "table_footnote": [
+            "注：\\*、\\*\\*分别表示相关系数通过0.05、0.01水平的显著性检验"
+        ],
+        "table_body": "<html><body><table><tr><td>站名</td><td>初日 /d·a-1</td><td>终日 /d·a-1</td><td>间隔日数 /d·a-1</td><td>积温 /d·a-1</td></tr><tr><td>塔城</td><td>-0.289 **</td><td>0.168 *</td><td>0.457**</td><td>11.906 **</td></tr><tr><td>和布克赛尔</td><td>0.058</td><td>0.115</td><td>0.058</td><td>3.801 *</td></tr><tr><td>托里</td><td>-0.104</td><td>0.188 *</td><td>0.292**</td><td>8.682**</td></tr><tr><td>乌苏</td><td>-0.143</td><td>0.137 *</td><td>0.281**</td><td>7.503 * *</td></tr><tr><td>沙湾</td><td>-0.128</td><td>0.187**</td><td>0.315**</td><td>8.607 * *</td></tr><tr><td>克拉玛依</td><td>-0.125</td><td>0.106</td><td>0.231</td><td>4.734 *</td></tr><tr><td>全区</td><td>-0.122 *</td><td>0.150**</td><td>0.272**</td><td>7.539 **</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "增加0.6d和 $2 . 3 \\mathrm { ~ d ~ }$ 。全区 $\\geqslant 1 0 \\ { } \\mathrm { ~ \\mathcal ~ { C } ~ }$ 积温每 $1 0 \\mathrm { ~ a ~ }$ 增加$7 5 . 4 \\mathrm { ~ \\textdegree C ~ } \\cdot \\mathrm { ~ d ~ }$ ,呈现出极显著的增多趋势,其中塔城、托里、沙湾、乌苏每 $1 0 \\mathrm { ~ a ~ }$ 分别增加 $1 1 9 . 1 \\mathrm { ~ \\textdegree ~ { ~ } ~ } \\cdot \\mathrm { ~ d ~ } . 8 6$ $8 \\ \\mathrm { \\textcircled { C } \\cdot { \\mathrm { ~ d } } , 8 6 . 1 \\ \\mathrm { \\textcircled { C } \\cdot { \\mathrm { ~ d } } , 7 5 . 0 \\ \\mathrm { \\textcircled { C } \\cdot { \\mathrm { ~ d } } } } }$ ，达到了0.01极显著水平，和布克赛尔和克拉玛依每10a分别增加$3 8 . 0 \\mathrm { ~ \\textdegree ~ { ~ Q ~ } ~ { ~ \\cdot ~ d ~ } ~ }$ 和 $4 7 . 3 \\mathrm { ~ } \\mathrm { ~ \\textdegree ~ { ~ } ~ { ~ d ~ } ~ }$ ,达到了0.05显著性水平。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.3 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初终日、持续日数和积温的相关性分析通过对塔城地区 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 初日、终日、持续日数和积温的相关性分析(表2)得出， $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温与$\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 终日和 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 持续日数均有显著的正相关关系，相关系数分别为0.913和0.653，与 $\\geqslant 1 1 0 \\ { \\^ { \\circ } } \\mathrm { C }$ 初日有显著的负相关关系，相关系数为-0.764，即$\\geqslant 1 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日越早、终日越迟、持续日数越长， $\\geqslant 1 1 0$ $\\mathrm { ^ \\circ C }$ 积温越高；反之， $\\geqslant 1 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日越迟、终日越早、持续日数越短， $\\geqslant 1 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 积温越低。其中 $\\geqslant 1 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 持续日数与积温相关性更高。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/13c52f6984cda98d337e4ef20d040b63a97fdc80a8c42e13aa93e7e70bee1c3f.jpg",
+        "table_caption": [
+            "表2各要素间Pearson相关性分析",
+            "Tab.2Pearson correlation analysis between the "
+        ],
+        "table_footnote": [
+            "注： $* *$ 在0.01水平(双侧)上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">various elements</td></tr><tr><td></td><td>≥10 ℃ 积温</td><td>≥10℃持 续天数</td><td>初日</td><td>终日</td></tr><tr><td>≥10℃积温</td><td>1</td><td></td><td></td><td></td></tr><tr><td>≥10℃持续天数</td><td>0.913**</td><td>1</td><td></td><td></td></tr><tr><td>初日</td><td>-0.764**</td><td>-0.823**</td><td>1</td><td></td></tr><tr><td>终日</td><td>0.653**</td><td>0.731**</td><td>-0.214</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.4 $\\geqslant 1 0 \\mathrm { ~ \\% ~ }$ 初终日、持续日数和积温的突变特征使用Mann-Kendal检验 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日的突变得知（图3a），塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日在1961—1964年和1967—1988 年呈推迟趋势，1964—1967 年、1988一2016年呈提前趋势，尤其在1994年后呈现出快速提前态势，虽然 $U F$ 和 $U B$ 曲线在置信水平区间内相交于2010年，但未超过临界线( $P > 0 . 0 5 )$ ，说明近56a塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 初日变化较平稳，未出现突变性提前或推迟。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用Mann-Kendall检验 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 终日的突变得知（图3b），塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 终日在1969年开始呈现波动推迟趋势，20世纪70年代中期到80年代中期和20世纪90年代间呈相对稳定的波状起伏，1998—2016年呈现出迅速的推迟趋势，在1990—1991年、1996—1997年和1999—2016年超过了0.05 显著性水平，在置信水平区间内 $U F$ 曲线和UB",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/26d43704474bb7bbe6d178e50bcad769f4da9379a05617623b6f39b6dd4cdc10.jpg",
+        "img_caption": [
+            "图3塔城地区 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 初日、终日、持续日数和积温的Mann-Kendall突变Fig.3Mann-Kendall text of the first date（a),last date（b），duration days（c）and accumulatedtemperature（d）about $1 0 \\%$ in Tacheng"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "曲线分别相交于5个点（1977年、1979年、1980年、1982年、1984年），说明1977年、1979 年、1980年、1982年、1984年是 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 终日发生突变的年份。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用Mann-Kendall检验 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 终日的突变得知（图3c），塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数在20世纪70年代至80 年代处于一个相对平稳的状态，从20 世纪90年代开始呈现出快速的上升趋势，并且在2009 年超过了0.05的置信水平，在置信水平区间内UF曲线和UB曲线分别相交于4个点（1997年、2000年、2002年、2003 年），说明1997年、2000 年、2002年、2003年是 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 持续日数发生突变的年份。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用Mann-Kendall检验 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 积温的突变得知（图3d），塔城地区 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 积温在1962—1964年、1967—1970 年呈现下降趋势，1961—1962 年、1964—1967年、1970—2016 年呈波动上升趋势，其中1976一1994年呈现出相对平稳的波状起伏态势，1994年以后呈现出迅速的上升趋势，并且在2004年超过0.05的显著性水平，在置信水平区间内， $U F$ 曲线和 $U B$ 曲线分别相交于3个点（1996年、1998年、1999年），说明1996年、1998年、1999年是 $\\geqslant 1 0$ $\\mathrm { { ^ \\circ C } }$ 积温发生突变的年份。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 $\\mathbf { \\geqslant 1 0 ~ } \\mathbf { \\vec { C } }$ 积温的空间变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，根据 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 累积距平图，将1994年作为转折点，将1961—2016 年分为2 个阶段，1961—1994年为阶段I，1995—2016年为阶段Ⅱ，1961—",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2016年为全阶段。其次，采用ArcGIS10.2，根据新疆主要作物播种的热量指标和复播作物的热量指标[21],对塔城地区积温的空间分布进行重分类并计算面积。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从空间尺度上来看，全阶段（1961一2016年)平均积温分布变化在 $2 ~ 1 4 6 . 8 \\sim 4 ~ 0 9 9 . 8 ~ \\mathrm { ^ { \\circ } C }$ ,其中积温最高点位于克拉玛依市，最低点位于和布克赛尔，最高值与最低值之间相差 $1 9 5 3 \\ \\mathrm { { ^ circ C } }$ ，表明区域间积温差别较大；从整个区域来看，积温大致呈纬度地带性分布，低纬度地区积温高于高纬度地区积温，积温分布主要集中于 $2 ~ 4 5 0 \\sim 3 ~ 9 5 0 ~ \\mathrm { ~ \\textdegree C }$ （图4a）。从阶段I和阶段Ⅱ平均气温稳定 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 积温的空间分布图可以看出：阶段I（图4b)积温分布变化在2077.8${ \\sim } 4 ~ 0 1 9 . 1 ~ \\mathrm { ~ \\textdegree C }$ ,其中最高点仍位于克拉玛依市，最低点位于和布克赛尔，最高值与最低值相差1941.3$\\mathcal { \\mathrm { C } }$ ;阶段Ⅱ（图4c）积温分布变化在 $2 \\ 2 5 3 . 3 \\ \\sim 4$ $2 2 4 . 4 ~ \\mathrm { ^ { \\circ } C }$ ，最高值位于克拉玛依市，最低值位于和布克赛尔，最高值与最低值相差 $1 ~ 9 7 1 . 1 ~ \\mathrm { { ^ { \\circ } C } }$ ;对比2个不同阶段可以看出：各地区积温普遍呈增加趋势，其中塔城市积温增加最为明显，由 $2 9 2 6 . 9 \\mathrm { ~ \\textdegree C }$ 上升为3$3 6 1 . 0 ~ \\mathrm { ^ { \\circ } C }$ ，增加了 $4 3 4 . 0 ~ \\mathrm { { ^ { \\circ } C } }$ ,其次是沙湾，由3467.8$\\mathcal { \\mathrm { C } }$ 上升为 $3 ~ 8 0 0 . ~ 6 ~ \\mathrm { ^ { c } }$ ，增加了 $3 3 2 . 8 \\mathrm { ~ \\textdegree C }$ ,增加幅度最低的是和布克赛尔，由 $2 0 7 7 . 8 \\mathrm { ~ \\textdegree C }$ 上升到2253.3$\\mathrm { ^ \\circ C }$ ,增加了 $1 7 5 . 5 \\mathrm { ~ } \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ；从积温总体分布趋势可以看出，塔城地区南部积温较北部高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/15a964632c50a87aae7ac40a5da0785df63e1617512c12ba09f7f8cf302cddaa.jpg",
+        "img_caption": [
+            "Fig.4Spatial distribution of the accumulated temperature about $1 0 \\%$ in Tacheng "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从日平均气温稳定 $\\geqslant 1 0 \\ { ^ { \\circ } \\mathrm { C } }$ 积温面积统计图可以看出（图5）：研究区在1961—2016年日平均气温稳定 $\\geqslant 1 0 \\ { } ^ { \\circ } { \\mathrm { C } } \\quad$ 积温,大于 $2 4 5 0 \\ \\mathrm { ^ q C }$ 小于 $3 1 5 0 \\ \\mathrm { ^ { \\circ } C }$ 、大于$3 4 5 0 \\ \\mathrm { ^ q C }$ 小于 $3 9 5 0 \\ \\mathrm { ^ { \\circ } C }$ 所占区域的面积最大,占总面积约 $8 1 . 9 \\%$ ;其次是大于 $3 1 5 0 \\ \\mathrm { ^ q C }$ 小于 $3 4 5 0 \\ \\mathrm { ^ q C }$ 所占区域的面积;大于 $2 0 5 0 \\ \\mathrm { ^ q C }$ 小于 $2 2 5 0 \\ \\mathrm { ^ q C }$ 、大于2$2 5 0 ~ \\mathrm { { ^ { \\circ } C } }$ 小于 $2 4 5 0 \\ \\mathrm { ^ q C }$ 、大于 $3 9 5 0 \\ \\mathrm { ^ q C }$ 小于 $4 1 5 0 \\ \\mathrm { ^ q C }$ 所占区域的面积最小。阶段I（1961—1994年）日平均气温稳定 $\\geqslant 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 积温大于 $2 ~ 4 5 0 ~ \\mathrm { { ^ circ C } }$ 小于3150$\\mathcal { \\mathrm { C } }$ 、大于 $3 4 5 0 \\ \\mathrm { ^ q C }$ 小于 $3 9 5 0 \\ \\mathrm { ^ { \\circ } C }$ 所占区域的面积最大,占总面积约 $8 3 . 1 \\%$ ;其次是大于 $3 1 5 0 \\ \\mathrm { ^ q C }$ 小于3$4 5 0 \\ \\mathrm { { ^ \\circ C } }$ 所占区域的面积占总面积的 $9 . 8 \\%$ ;大于2$0 5 0 ~ \\mathrm { { ^ \\circ C } }$ 小于 $2 2 5 0 ~ \\mathrm { ^ { \\circ } C }$ 、大于 $2 2 5 0 \\ \\mathrm { ^ { \\circ } C }$ 小于 $2 4 5 0 ~ \\mathrm { ^ q C }$ 大于 $3 9 5 0 \\ \\mathrm { ^ { \\circ } C }$ 小于 $4 1 5 0 \\ \\mathrm { { ^ \\circ C } }$ 所占区域的面积最小，仅占总面积的 $7 . 1 \\%$ 。阶段Ⅱ（1994—2016年）日平均气温稳定 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温大于 $2 4 5 0 \\ \\mathrm { ^ q C }$ 小于 $3 1 5 0 \\ \\mathrm { ^ q C }$ 、大于 $3 1 5 0 \\ \\mathrm { ^ q C }$ 小于 $3 ~ 4 5 0 ~ \\mathrm { { ^ circ C } }$ 、大于 $3 ~ 4 5 0 ~ \\mathrm { { ^ { \\circ } C } }$ 小于3$9 5 0 ~ \\mathrm { { ^ { \\circ } C } }$ 所占区域的面积最大,占总面积约 $8 9 . 3 \\%$ ;其次是大于 $3 9 5 0 \\ \\mathrm { ^ { \\circ } C }$ 小于 $4 1 5 0 \\ \\mathrm { ^ q C }$ 所占区域的面积占总面积的 $6 . 7 \\%$ ；大于 $2 2 5 0 \\ \\mathrm { ^ q C }$ 小于 $2 4 5 0 ~ \\mathrm { ^ q C }$ 、大于3$9 5 0 ~ \\mathrm { { ^ { \\circ } C } }$ 小于 $4 1 5 0 \\ \\mathrm { ^ q C }$ 、大于 $4 1 5 0 \\ \\mathrm { { ^ q } C }$ 小于 $4 2 5 0 \\ \\mathrm { ^ q C }$ 所占区域的面积最小,仅占总面积的 $4 . 0 \\%$ 。对比2个阶段面积变化趋势可以看出日平均气温稳定 $\\geqslant 1 0$ $\\mathcal { \\mathrm { C } }$ 积温在 $2 4 5 0 \\sim 3 1 5 0 \\mathrm { ~ \\textdegree C }$ 区间内面积比例有明显的减少趋势，由阶段I的 $4 9 . 1 \\%$ 减少到 $2 5 . 2 \\%$ ,而在区间 $3 ~ 1 5 0 \\sim 3 ~ 4 5 0 ~ \\mathrm { ^ c }$ 内又有明显的增加趋势，由阶段I的 $9 . 8 \\%$ 增加到 $2 8 . 7 \\%$ ,在区间 $3 ~ 4 5 0 \\sim 3 ~ 9 5 0$ $\\mathcal { \\mathrm { C } }$ 和 $3 9 5 0 \\sim 4 1 5 0 \\mathrm { ~ \\textdegree C }$ 面积比分别增加了 $1 . 2 \\%$ 和5.$9 \\%$ ,而在积温最高范围 $4 1 5 0 \\sim 4 2 5 0 \\ \\mathrm { ^ { \\circ } C }$ 面积比由阶段I的 $0 \\%$ 增加到 $0 . 9 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2318b700267ada7391897f5c5425357dd73136a58ac4488c641e7e2de7884505.jpg",
+        "img_caption": [
+            "图4塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温空间分布",
+            "图5不同阶段 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温段所占面积百分比Fig.5Percentage of area of $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ accumulatedtemperature in different stages"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）塔城地区1961—2016年 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日日序以 $- 0 . 1 2 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率呈提前趋势; $\\geqslant 1 0$ $\\mathrm { ^ \\circ C }$ 终日日序以 $0 . 1 5 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率呈推迟趋势； $\\geqslant 1 0 \\ { } \\mathrm { ~ \\mathcal ~ { C } ~ }$ 持续日数以 $0 . 2 7 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率呈延长趋势；日平均气温稳定 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温以75.39$\\mathrm { { ~ \\mathcal { C } ~ } } \\cdot \\mathrm { ~ ( ~ 1 0 a ) ~ } ^ { - 1 }$ 的倾向率呈增多趋势且通过 $\\alpha = 0 . 0 1$ 显著性水平检验。根据累积距平图得知， $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初终日序、持续日数和积温均在1994年出现了转折。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）研究区内6个站点1961—2016年仅有和布克赛尔 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日以 $0 . 0 5 8 \\mathrm { ~ d ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { { a } ) ~ } ^ { - 1 }$ 的倾向率呈不显著的推迟趋势，其余站点均呈现出提前趋势；研究区内6个站点 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温均呈显著的增多趋势，其中塔城、托里、乌苏、沙湾显著性水平达到了0.01，和布克赛尔和克拉玛依达到了0.05显著性水",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "平。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）近56a塔城地区 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 初日未出现突变性提前或推迟； $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 终日、持续日数、积温均发生了突变; $\\geqslant 1 0 \\ { } \\mathrm { ~ \\mathcal ~ { C } ~ }$ 初日、终日、持续日数和积温之间持续日数与积温的相关性更高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）研究区 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温分布主要集中于2450$\\sim 3 ~ 9 5 0 ~ \\mathrm { ^ { \\circ } C }$ ，研究区南部 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温较北部高，其中克拉玛依 $\\geqslant 1 0 \\ { ^ { \\circ } } \\mathrm { C }$ 积温值最高，和布克赛尔 $\\geqslant 1 0 \\ { \\mathrm { ~ \\% ~ } }$ 积温值最低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（5）阶段I积温分布变化在 $2 ~ 0 7 7 . 8 \\sim 4 ~ 0 1 9 . 1$ $\\mathrm { { ^ \\circ C } }$ ，阶段 $\\mathbb { I }$ 积温分布变化在 $2 ~ 2 5 3 . 3 \\sim 4 ~ 2 2 4 . 4 ~ \\mathrm { ^ { \\circ } C }$ ，阶段 $\\mathbb { I }$ 和阶段I相比，各地 $\\geqslant 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 积温均有所增加;阶段 $\\mathrm { { I } \\geqslant 1 0 ~ \\mathrm { { \\mathcal { C } } } }$ 积温在 $2 ~ 4 5 0 \\sim 3 ~ 1 5 0 ~ \\mathrm { ~ \\textdegree C }$ 所占区域的面积比最大，阶段 $\\mathbb { I } \\geqslant 1 0 \\ \\mathrm { ^ { \\circ } C }$ 积温在 $3 ~ 4 5 0 \\sim 3 ~ 9 5 0 ~ \\mathrm { ^ { \\circ } C }$ 所占区域面积比最大，阶段 $\\mathbb { I }$ 和阶段1相比， $\\geqslant 1 0$ $\\mathcal { \\mathrm { C } }$ 积温在 $2 4 5 0 \\sim 3 1 5 0 \\mathrm { ~ \\textdegree C }$ 区间内面积比例有明显的减少趋势，在 $3 1 5 0 \\sim 3 4 5 0 \\ { \\mathrm { ~ ‰ ~ } } 3 \\ 4 5 0 \\sim 3 \\ 9 5 0 \\ { \\mathrm { ~ ‰ ~ } }$ $9 5 0 \\sim 4 ~ 1 5 0 ~ \\mathrm { ^ { \\circ } C }$ 和 $4 ~ 1 5 0 \\sim 4 ~ 2 5 0 ~ \\mathrm { ^ { \\circ } C }$ 均有所增长,其中$3 ~ 1 5 0 \\sim 3 ~ 4 5 0 ~ \\mathrm { ^ { \\circ } C }$ 面积比增长最明显。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文主要是对塔城地区 $\\geqslant 1 0 \\mathrm { ~ \\mathcal ~ C ~ }$ 积温、初日、终日和持续日数的平均变化特征、气候倾向率、突变特征 $\\mathrm { \\Omega } \\cdot \\geqslant 1 0 \\mathrm { \\Omega } ^ { \\circ } \\mathrm { C }$ 积温的空间分布特征及积温面积变化百分比进行了分析，由于塔城地区具有较长时间尺度的气象资料的站点较少，所以，空间差值结果可能存在一定误差，但对喜温作物种植布局的调整具有一定借鉴意义。积温空间格局对农业种植结构和农业生产具有重要影响，一方面积温增加为喜温作物生长发育赢得了充足的热量资源，使作物种植面积和产量增加,品质提高[5]；另一方面,积温增加有利于部分农作物害虫越冬，害虫死亡率降低、繁殖代数增加,从而使农作物病虫危害加重[22]。积温的增加有利有弊，应该适应气候变化，科学调整作物种植结构，趋利避害。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Climate Change 2O13- The Physical Science Basis:Working Group I Contribution to The Fifth Assessment Report of the Intergovernmental Panel on Climate Change[M].Cambridge:Cambridge University Press,2014.   \n[2]刘伟，姜逢清，李小兰.新疆气候变化的适应能力时空演化特 征[J].干旱区研究,2017,34（3）:531-540.［LiuWei,Jiang Fengqing,Li Xiaolan.Spatiotemporal evolution of adaptive capacity to climate change in Xinjiang[J].Arid Zone Research,2017,34 (3):531-540.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3]刘丹,李迎春.气候变化背景下江西省近55 年 $\\geqslant 1 0 \\ { \\mathrm { ~ \\mathscr ~ C ~ } }$ 积温的 时空变化特征[J].江西农业学报，2017，29（1)：85-91.〔Liu Dan,Li Yingchun.Spatial—temporal variation characteristics of accumulated temperature above $1 0 \\%$ in Jiangxi Province in recent 55 years under background of global climate warming[J].Acta Agriculturae Jiangxi,2017,29（1）:85-91.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[4]邱新法,王喆,曾燕,等.1960—2013 年中国 $\\mathrm { \\geqslant 1 0 \\dag C }$ 积温时空变 化特征及其主导因素分析[J].江苏农业科学,2017,45（2）： 220 -225.[Qiu Xinfa,Wang Zhe,Zeng Yan,et al. Spatiotemporal variation characteristics and dominant factors of accumulated temperature about $1 0 \\%$ in China during 1960—2013[J]. Jiangsu Agricultural Science,2017,45(2）:220 -225.]   \n[5]孟艳灵,殷淑燕,杨锋,等.晋陕蒙地区 $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ 积温的时空变化 特征[J].中国农业气象,2016,37(6）:615-622.[Meng Yanling,Yin Shuyan,Yang Feng,et al. Spatial and temporal distribution of accumulated temperature above $1 0 \\%$ in Shanxi - Shaanxi - Inner Mongolia Region[J]. Chinese Journal of Agrometeorology, 2016,37(6) :615 -622.]   \n[6]李萌,申双和,褚荣浩,等.近30年中国农业气候资源分布及 其变化趋势分析[J].科学技术与工程,2016,16(21):1-11. [Li Meng,Shen Shuanghe,Chu Ronghao,et al.Analysis on the distribution and change trend of agricultural climatic resources in China in recent 3O years[J].Science Technology and Engineering,2016,16(21) :1 -11.]   \n[7]轩俊伟,郑江华,刘志辉.基于 SPEI的新疆干旱时空变化特征 〔J].干旱区研究,2016,33（2）:338-344.[Xuan Junwei,Zhen Jianghua,Liu Zhihui.SPEI - based Spatiotemporal Variation of Drought in Xinjiang[J].Arid Zone Research,2016,33(2）:338- 344.]   \n[8]关学锋,孙卫国,李敏姣,等.1965-2012年新疆北部地区气候 变化及其对北极涛动的响应[J].干旱区研究,2016,33（4）： 681-689.[Guan Xuefeng,Sun Weiguo,Li Minjiao,etal.Climate change in North Xinjiang and its response to Arctic Oscillation during the period of 1965- 2012[J].Arid Zone Research,2016,33 (4) :681-689.]   \n[9]时光训,丁明军.近40a来长江流域 $\\mathrm { \\geqslant 1 0 \\ d C }$ 积温的时空变化特 征[J].热带地理,2016,36(4）:682-691.[Shi Guangxun,Ding Mingjun.Spatio- temporal variation characteristics of $\\gtrsim 1 0  { \\mathrm { ^ c } }$ accumulated temperature in the Yangtze River basin near 40a[J]. Tropical Geography,2016,36(4）:682 - 691.]   \n[10］戴声佩,李海亮,罗红霞,等.1960-2011年华南地区界限温度 $1 0 \\mathrm { { ^ { c } } }$ 积温时空变化分析[J].地理学报,2014,69（5）：650- 660.[Dai Shengpei,Li Hailiang,Luo Hongxia,et al.The spatio - temporal change of active accumulated temperature $\\geqslant 1 0 \\mathrm { { \\mathscr C } }$ in Southern China from 1960 to 2011[J].Acta Geographica Sinica, 2014,69(5) :650 - 660. ]   \n[11］郜红娟,吴开慧,王后阵.1961—2010 年贵州省积温的时空变化 特征[J]．亚热带农业研究,2017,13（1):46-51.[Gao Hongjuan,Wu Kaihui,Wang Houzhen. Temporal and spatial variation of accumulated temperature in Guizhou Province during 1961 - 2010[J].Subtropical Agriculture Research,2017,13(1）:46 -51.]   \n[12］潘冬梅,潘雪梅,徐永.阿勒泰地区 $1 0 \\%$ 界限温度和积温变化 分析[J].陕西气象,2016(2）:23-25.[Pan Dongmei,Pan Xue",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "mei,Xu Yong.Change of the accumulated temperature on $1 0 \\%$ critical temperature in Altay[J]. Journal of Shanxi Meteorology, 2016(2) :23-25.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13]李祎君，王春乙.气候变化对我国农作物种植结构的影响[J].气候变化研究进展,2010,6（2）：123-129.［LiYijun,WangChunyi.Impacts of climate change on crop planting structure inChina[J].Advances In Climate Change Research,201O,6（2）：123 -129.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]王雷.气候变化对我国农作物种植结构的影响分析[J].河南 农业,2017(11）:43.[Wang Lei.Influence of climate change on crop planting structure in China[J].Henan Agriculture,2017 (11):43.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15]李阔，许吟隆.适应气候变化的中国农业种植结构调整研究[J].中国农业科技导报,2017，19（1）：8-17.[LiKuo,XuYinglong. Study on Adjustment of Agricultural Planting Structures inChina for Adapting to Climate Change[J]. Journal of AgriculturalScience and Technology,2017,19(1）:8-17.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]方创林，何伦志，王岩.丝绸之路经济带中国－哈萨克斯坦国际合作示范区建设的战略思路与重点[J].干旱区地理，2016，39(5）:925-934.[Fang Chuanglin,HeLunzhi,Wang Yan.Stra-tegic thought and focus of Sino-Kazakhstan international coopera-tion demonstration zone in Silk Road Economic Belt[J].Arid LandGeography,2016,39（5):925-934.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]曲曼丽.农业气候实习指导[M].北京：北京农业大学出版社，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1991:2-3.[Qu Manli.Practical Guidance to Agricultural Climatology[M].Beijing:Beijing Agriculture University Press,1991:2- 3.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]魏凤英.现代气候统计诊断与预测技术[M].第二版.北京：气 象出版社,2007:37-44,63-66.[WeiFengying.Modern Climate Statistical Diagnosis and Prediction Technology［M].2nd ed.Beijing:China Meteorological Press,2007:37-44,63-66.]   \n[19]符淙斌，王强.气候突变的定义和检测方法[J].大气科学， 1992,16(4）:482-493.[Fu Congbin,Wang Qiang.The definition and detection of the abrupt climatic change[J].Chinese Journal of Atmospheric Sciences,1992,16(4) :482-493.]   \n[20]汤国安,杨昕.地理信息系统空间分析实验教程[M].北京：科 学出版社,2006:388-389.[Tang Guo'an,Yang Xin.An experimental course on spatial analysis of GIS[J].Beijing：Science Press,2006:388-389.]   \n[21]徐德源.新疆农业气候资源及区划[M].北京：气象出版社， 1989:33-34.[Xu Deyuan. Xinjiang agro -climatic resources and divisions[M].Beijing:Meteorological Press,1989:33-34]   \n[22]王鹤龄，张强,王润元,等.气候变化对甘肃省农业气候资源和 主要作物栽培格局的影响[J].生态学报，2016，37（18）：6099 -6110.[Wang Heling,Zhang Qiang，Wang Runyuan,et al. Effects of climate change on agro climatic resources and potential primary cropping patterns in Gansu Province[J].Acta Ecologica Sinica,2016,37(18):6099-6110.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Temporal and spatial variation of accumulated temperature about $\\mathbf { 1 0 \\% }$ in TaCheng area during 1961 - 2016 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "KANG Li- juan BAKE Batur FENG Li -ye GE Yi -cheng Sajidan Abudukerimu (1. College of Grasslandand Environment Sciences,Xinjiang Agricultural University,Urumqi 830o52,China; 2.Urumqi Animal husbandry Meteorological Test Station,Urumqi 83oo52,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Based on the dailyaverage temperature data of6meteorological stations in Tacheng distirct from 1961 to 2016,using the methodsof linear climate tendency,cumulative anomalies,Mann-Kendall mutation test and ArcGIS space interpolation,the paper analyzed the spatio -temporal variation characteristics of theaccumulated temperature about $1 0 \\%$ in Tacheng distirct．The results showed that:the last day,duration day and the accumulated temperature above $1 0 \\%$ in this region tended to by $0 . 1 5 \\mathrm { d } \\cdot \\mathrm { ~  ~ { ~ ( ~ 1 0 a ) ~ } ~ } - 1 , 0 . 2 7 \\mathrm { d } \\cdot \\mathrm { ~ ( ~ 1 0 a ) ~ } - 1$ and $7 5 . 3 9 ^ { \\circ } \\mathrm { C }$ ·(10a) $^ { - 1 }$ ,showing a significant increase,but the first day decreased at the rate of $- 0 . 1 2 \\mathrm { d } \\cdot \\left( 1 0 \\mathrm { a } \\right) - 1 , \\mathrm { i }$ n addition, There was occurred mutation in the last day,duration day and the accumulated temperature above $1 0 \\%$ ,except the first day about $1 0 \\%$ ，it did not occur mutations.The distribution of accumulated temperature above $1 0 \\%$ in the study area was mainly between $2 4 5 0 \\mathrm { { ^ { \\circ } C } }$ and $3 9 5 0 \\mathrm { { ^ { \\circ } C } }$ ，and the accumulated temperature above $1 0 \\%$ in southern region was higherthan that in north.Compared with phase I（1995-2016）and phaseI（1961-1994）,the accumulated temperature above $1 0 \\%$ increased and the proportion of total area occupied by $2 4 5 0 - 3 1 5 0 \\mathrm { ^ { \\circ } C }$ decreased obviously, $3 1 5 0 - 3 4 5 0 ^ { \\circ } \\mathrm { C }$ ， $3 9 5 0 - 4 1 5 0 ^ { \\circ } \\mathrm { C }$ ，and $4 1 5 0 - 4 2 5 0 ^ { \\circ } \\mathrm { C }$ accounted for an increase in the proportion of the total area，of which $3 1 5 0 - 3 4 5 0 ^ { \\circ } \\mathrm { C }$ accounted is the most obvious. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:Tacheng district;active accumulated temperature $\\geqslant 1 0 ^ { \\circ } \\mathrm { C }$ ;M -K test;spatio - temporal change ",
+        "page_idx": 7
+    }
+]

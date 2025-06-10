@@ -1,0 +1,708 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进PBAS算法的级联特征行车检测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙渊，侯进",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(西南交通大学 信息科学与技术学院，成都 611756)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：随着车辆迅速增加，智能交通系统中的监控系统需要在复杂环境中快速、准确地检测车辆。因此，在现有研究的基础上，一种高效的车辆检测方案被提出。该方法首先选取像素自适应分割算法(pixelbased adaptive segmenter)，对其背景模型线性优化，减少运算复杂度，提取前景斑点为定义区域（defined range approach)；然后通过设定阈值确定感兴趣区域（RegionofInterest)；在感兴趣区域里，选取哈尔（Haar-like）特征和方向梯度直方图特征（histogramoforiented gradient），输入到优化后的 AdaBoost+支持向量机（support vector machine）级联分类器中进行车辆检测。这些算法保证检测实时性，使用OpenCV 库进行实现。大量的实验证明了线性化像素自适应分割算法的优越点，AdaBoost+SVM级联分类器快速性，整体车辆检测算法在检测车辆时的实时性和光照鲁棒性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：车辆检测；像素自适应分割算法；感兴趣区域；哈尔特征；方向梯度直方图特征；级联分类器 中图分类号：TP391.4 doi:10.3969/j.issn.1001-3695.2018.05.0340 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vehicle detection using cascaded feature based on improved PBAS algorithm ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sun Yuan, Hou Jin† (School of Information Science& Technology,Southwest Jiaotong University,Chengdu 611756,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:With the increasing numberof thevehicles,theintellgent transportation systemrequires accuratelyand quickly detect ehicles in videos under complex conditions.Hence,this paper proposed an eficient vehicles detection scheme basing ontheexisting works.Firstly,itselecteda pixel basedadaptivesegmentation algorithm to linearlyoptimize its background model,whichcouldreducethecomputecomplexityand extractthe foregroundspot as Defined Range Approach.Then,it used thresholddeterminationtodeterminetheregionofinterest;Intheregionof interest,itselectedtheHaar-likefeatursand histogram of oriented gradient (HOG) features and used them as input of the optimized AdaBoost $^ +$ support vector machine (SVM) cascade clasifier for vehicles detection.The proposed algorithm used the OpenCV library.These methods guarantee the real-time performanceofthe algorithm.The substancial experiments demonstrated the superiorityof the linearized Pixel Based Adaptive Segmentation,the rapidity of the Adaboost $^ { + }$ Support Vector Machine cascaded classifier,and the real-tme procesing abality and the illmination robustness of the overall vehicle detection algorithm in detecting vehicles. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:vehicle detection;pixel basedadaptivesegmentation;regionof interest;Har-like features；HOG features; AdaBoost+SVMcascadeclassifier ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会进步，道路上的行驶车辆快速增加，交通事故也日益增多，这些复杂的交通情况，给交通监管部门在监控车流量时带来了巨大的不便。智能交通系统（intelligent transportsystem，ITS）应运而生，它依据计算机技术、信息技术、传感器技术等有效地综合应用，捕获车流量信息并分析，以便控制车流量避免交通堵塞，保证交通的畅通。其中视频中检测车辆在ITS中占主要部分，原因是检测速度快，检测率高，实现较为简单，受环境的干扰较少。近年来车辆检测在国内掀起一阵",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "热潮[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "检测车辆的方法有很多，目前较成熟的车辆检测方法是基于特征提取加分类器的模式。常见的特征有Haar特征、方向梯度直方图特征（histogram of oriented gradient，HOG）、局部二值化特征（local binary patterns，LBP)，它们在检测车辆时各有优缺点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Haar 特征适合检测水平、垂直、边缘对称的物体，它最早用于人脸检测[2]，由于这些检测的特点在车辆上同样适用，因此现在广泛应用于车辆检测。文献[3\\~5]使用Haar特征和AdaBoost分类器实时检测车辆，并且在大型数据库上进行了验证。文献[4]中还使用了车道检测来规划感兴趣区域（regionofinterest，ROI）来减少检测区间。这种算法已经移植到安卓手机上并确定了可靠性。然而单一的特征容易造成信息的缺失，Haar特征对光照的变化比较敏感，会造成检测率的降低。基于车道的感兴趣区域是通过车道线和经验所确定的，会造成漏检，ROI里也会有大量的不必要计算，原因是算法的ROI冗余过多，车辆目标只占用ROI的很少一部分。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HOG特征主要运用于行人检测，也有少量用于行车检测，但是HOG 特征的提取和计算较费时间，普通的车载硬件计算平台很难满足车辆检测的实时性要求。文献[6]提出了一种汽车的辅助驾驶系统，该系统主要对于白天的车辆进行检测，作者直接使用分布直方图分析被检查候选目标的水平、垂直边缘，并使用支持向量机（SVM）分类，但是该方法对车辆检测时在阴影覆盖的影响下，检测效果并不理想。文献[7]提出用增强的HOG特征来区分行车和车辆，该方法使用阴影特征和特征强度差异来区分前景和背景区域，设定特定的阈值用于分割这两个背景，最后在阴影区域提取HOG特征，并使用SVM分类器进行分类。该方法相对于文献[6]获得了更好的HOG 特征，但是平均每帧的检测时间较慢，不能保证实时性。以上的几种方法虽然可以比较好的检测车辆，但为了能在复杂光照外部环境下，更完美地检测车辆，本文在上述算法的基础，提出了优化。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来，针对传统机器学习在因光照，拍摄视角以及汽车内变化导致的检测率下降和检测时间较慢的问题，国内外学者提出用深度学习卷积网络检测车辆，取得了巨大的进展。文献[8]中提出使用FasterR-CNN网络来构建车辆目标检测系统，有效地克服了车辆外观多变带来的困难，并可以在训练集驱动下自适应构建特征描述，具有更高灵活性和泛化性。但是深度学习方法相对于传统机器学习有网络层构建技巧高、模型训练时间长、使用硬件条件高三个难点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，以单纯的车道线来确定感兴趣区域，漏检率偏高，检测时间长。所以本文选取像素自适应分割[9]（PBAS）的前景分割算法，并针对原PBAS算法构建模型较慢的缺点，优化了背景模型的函数，用于背景分离确定一个定义区域（definedrangeapproach，DRA)，并在DRA的基础上运用阈值规定的方法定义ROI。针对单一特征在复杂光照情况下检测车辆鲁棒性不强，传统特征级联分类器容易造成特征冗余的情况，本文使用Haar-like 特征和HOG特征进行特征特点相互补充，简化了特征的构建函数。构造AdaBoost $+ S \\mathsf { V M }$ 级联分类器进行分类，这种结合了二分类类型SVM的级联分类器，避免了AdaBoost在分类时随着层数的增多，需求过多的特征而造成的运算复杂度提升。该算法在视频中检测车辆，保证了实时性和光照鲁棒性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 本文算法框图",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文算法框图如图1所示。本文算法使用背景模型线性化PBAS算法进行背景分离，从而确定DRA，并生成相应的光斑",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "信息，然后使用统计学的方法确定ROI，并将ROI中检测到的Haar-like 特征和HOG 特征赋予给训练出的级联分类器，进而在视频中检测车辆。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d58bc8561a62e7da910028dba2418f38c132fe22d23b26e47ccfb8648ed6419f.jpg",
+        "img_caption": [
+            "图1算法框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 感兴趣区域获取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1像素自适应分割算法(PBAS) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用PBAS算法时，在输入帧中提取出来每一个像素点，不论它是在前景还是背景中，都对其进行分析。如公式（1）所示[9]，如果当一个像素 $X _ { i }$ 小于阈值 $R { \\big ( } X i { \\big ) }$ ，则这个像素被认定为背景[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { F \\big ( X _ { i } \\big ) = 1 , } & { I \\big ( X i \\big ) > R \\big ( X i \\big ) } \\\\ { F \\big ( X _ { i } \\big ) = 0 , } & { e l s e } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了灵活地适应各种场景变化，如闪电、阴影等情况，更新背景模型是必须的。PBAS是在传统全局阈值算法基础上，引入自动控制的思想，构建的像素阈值变化的分割算法，每个像素的阈值都是相邻像素相关的，不同位置的判断阈值可能不一样。计算前N帧的前N个距离的最小值的平均值，与每个像素做大小的比较，确定该点阈值。具体来说，就是用",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD \\big ( \\boldsymbol { X } _ { i } \\big ) = \\big \\{ D _ { 1 } \\big ( \\boldsymbol { X } _ { i } \\big ) , D _ { 1 } \\big ( \\boldsymbol { X } _ { i } \\big ) , D _ { 1 } \\big ( \\boldsymbol { X } _ { i } \\big ) . . . D _ { n } \\big ( \\boldsymbol { X } _ { i } \\big ) \\big \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表示最小距离矩阵，其中",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD _ { \\mathrm { i } } \\left( X _ { i } \\right) = M i n \\Big ( d i s t \\Big ( I ( X _ { i } ) , B _ { j } ( X _ { i } ) \\Big ) \\Big ) , j = 1 , 2 . . . N\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在视频某帧图像中的每个像素来说，计算 $\\mathbf { N }$ 个最小值的平均值如式（4）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\stackrel { - } { d } _ { \\operatorname* { m i n } } \\left( x _ { i } \\right) = \\frac { 1 } { N \\sum _ { k } D _ { k } \\left( X _ { i } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对应的判断阈值 $R { \\left( { { X } _ { i } } \\right) }$ 则通过下式来计算：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR { \\big ( } X _ { i } { \\big ) } =\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { R \\left( x _ { i } \\right) \\cdot \\left( 1 - R _ { i n c / d e c } \\right) , \\ i f \\ R \\left( x _ { i } \\right) > \\overbar { d } _ { \\operatorname* { m i n } } \\left( x _ { i } \\right) \\cdot R _ { s c a l e } } \\\\ { R \\left( x _ { i } \\right) \\cdot \\left( 1 + R _ { i n c / d e c } \\right) , \\ o t h e r s } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $R _ { i n c / d e c }$ 和 $R _ { s c a l e }$ 都是预先定义的常量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PBAS算法背景更新时，对于不同的像素设定不同背景更新率，这种变化的更新率可以有效面对复杂环境中的检测。通过式（6）来自适应调节背景模型的更新率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ T } \\left( X _ { i } \\right) = \\left\\{ \\begin{array} { l l } { { T { \\left( x _ { i } \\right) } + { \\displaystyle { \\frac { T _ { i n c } } { d _ { \\dim } \\left( x _ { i } \\right) } } } , } } & { { i f { \\ F { \\left( x _ { i } \\right) } } = 1 } } \\\\ { { { \\displaystyle { T { \\left( x _ { i } \\right) } - { \\frac { T _ { d e c } } { d _ { \\dim } \\left( x _ { i } \\right) } } } } , } } & { { i f { \\ F { \\left( x _ { i } \\right) } } = 0 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $T _ { i n c }$ 和 $T _ { d e c }$ 也是预先定义的常量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2背景模型线性化的PBAS 算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "现有的PBAS 算法为了在复杂环境中获得良好的检测效果，自适应构建背景模型，计算复杂。为了应对实时检测，降低运算复杂度，需要在尽可能保证检测指标下降不大的情况下优化该计算机视觉算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了简化PBAS的模型计算，我们在考虑判断阈值的扩散过程中将像素的邻域交换8像素连接减少到4像素连接，就背景模型本身而言，将其修改地更加线性化，将式（6）替换为式(7)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { \\big ( } X _ { i } { \\big ) } = { \\left\\{ \\begin{array} { l l } { E { \\big ( } x _ { i } { \\big ) } - [ 1 - { \\stackrel { - } { d } } _ { \\mathrm { m i n } } ] \\times E _ { d e c } , } & { i f \\ F { \\big ( } x _ { i } { \\big ) } = 1 } \\\\ { E { \\big ( } x _ { i } { \\big ) } + [ 1 - { \\stackrel { - } { d } } _ { \\mathrm { m i n } } ] \\times E _ { i n c } , } & { i f \\ F { \\big ( } x _ { i } { \\big ) } = 0 } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $E { \\big ( } x _ { i } { \\big ) }$ 是 $\\mathrm { T } \\left( x _ { i } \\right)$ 的倒数，并且 $E _ { d e c }$ 和 $E _ { i n c }$ 是预先设定的固定参数，在该改变中，重新定义背景模型dmin 的取值范围在[0,1]之间。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "重新定义背景动态估计量 $\\bar { d } _ { \\operatorname* { m i n } }$ 的公式，将式（4）替代为式（8)。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overset { - } { d } _ { \\operatorname* { m i n } } \\left( x _ { i } \\right) = [ \\operatorname* { m a x } ( B _ { k } ( x _ { i } ) ) - \\operatorname* { m i n } ( B _ { k } ( x _ { i } ) ) ] \\times \\eta\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\operatorname* { m a x } ( B _ { k } ( x _ { i } ) )$ 和 $\\operatorname* { m i n } ( B _ { k } ( x _ { i } ) )$ 分别代表 $B _ { k } ( x _ { i } )$ 的最大值和最小值， $\\eta$ 为预先设定好的参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在文献[8]中可知， $\\mathbf { N }$ 的取值和PBAS检测率成正比，与检测复杂度成正比，也就是说与检测时间成反比。经过简化后的PBAS 算法，在其N取值的变化的检测结果更加优化，取值更小的N，就可以获得优秀的检测效果，进一步改进原PBAS检测时间较慢的缺点，以应对实时性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 ROI的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过上一节的改进后PBAS算法确定的DRA是一个个不规则的光斑和一些杂质点。需要去除杂质点，以免在下文中计算ROI时，造成误检。根据实验确定阈值，规定斑点面积与面积之比，用于设置围绕该斑点的边界框（比率 ${ \\geqslant } 0 . 4$ )。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同时考虑整个视频中，时间序列的原因，被检查 $\\cdot _ { \\mathrm { m } ^ { \\prime } }$ 车辆在第‘n’帧中检测出时，预估车辆的被检测到的斑点扩展到一个矩形函数，公式如下[1I]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于‘m’车辆",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA r e a \\left( A i m _ { m } \\right) = W _ { m } * H _ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $W _ { m }$ 和 $H _ { m }$ 是光斑最大的宽度和高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于扩展的矩形函数",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { A r e a { { \\left( { A i m } _ { m } \\right)}  } = } } \\\\ { { { \\left[ { m a x { { \\left( { x } \\right) } - { m i n } \\left( { x } \\right) } } \\right] } \\times { \\left[ { m a x { { \\left( { y } \\right) } - { m i n } \\left( { y } \\right) } } \\right] } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "函数确定的范围，被定义为ROI，如图2所示。其中不规则的图像为PBAS确定的光斑。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d11af2ce56954be5b57776e21c5d0a2fa26b928760f17d2975fed9264a4ee60f.jpg",
+        "img_caption": [
+            "图2ROI的确立"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 特征提取与级联分类器构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1Haar-like 特征的选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Haar-like特征是一种简单的矩阵特征。这些矩阵的选取如图2所示，计算矩形模板中白色矩形内所有像素值的和减去黑色矩形内所有像素值的和，通过比较差值来检测目标。一般情况下，在视频图像中车辆的车轮和车窗要比其它部分更暗。Haar-like特征在表现图像纹理特征时更加优越。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分析车辆检测的过程中的灰度变化，水平方向和垂直方向的变化远多于对角线的变化，所以筛选原始特征，选取两矩形特征和三矩形特征对特征进行提取，如图所示。这种定性的分析筛选有效地减少Haar-like特征的数量，加快了检测速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a865fb3bc3af6a8944d24944cfb7381ba00cc884309a573a1efd4661a694275.jpg",
+        "img_caption": [
+            "图3Haar-like 特征 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f28bd809c12e05bf9760f2132ceb672cc41ae3462814c47c1cd2cbac6f472cce.jpg",
+        "img_caption": [
+            "图4本文所选取的Haar-like 特征 "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2改进的 HOG 特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因为Haar-like对复杂的背景信息和丰富光照变化的图形中检测目标的表现比较拙劣，单一特征在复杂环境中的检测并不好，本文引入简化后的HOG 特征对Haar-like 特征进行补偿。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HOG特征是统计视频中某帧图像中某个矩形区域中的梯度方向和强度而定义的一种特征。如果没能够精确地确定该矩阵框内相关梯度和边缘位置，HOG特征也能应对这种情况，对图像中的局部区域信息进行特征提取，图像整体的梯度信息和边缘信息不会对该特征产生影响。因此，该特征擅长表达车辆的边框信息，并且具有光照变化和局部几何变化鲁棒性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文采用的HOG特征大小不全相同，计算时不划分为单元中的模块，以便减小特征维数，从而加快计算。量化0到 $\\pi$ 为4个区间作为方向梯度。为了和Haar-like特征进行级联，对选取的HOG特征h进行特征遍历，收集需要计算矩形内的所有像素点的强度和方向，对各个分量区间的幅值进行计算和记录，并不断累加，得到该区域的HOG直方图，并进行归一化处理，以消除光照变化带来的影响。直方图归一化可以作为HOG 特征的表达用式（9）来计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( k \\right) = \\frac { \\displaystyle \\sum _ { \\left( x , y \\in B \\right) } V _ { k } \\left( x , y \\right) + \\varsigma } { \\displaystyle \\sum _ { k = 1 } ^ { N } \\sum _ { \\left( x , y \\in B \\right) } V _ { k } \\left( x , y \\right) + \\varsigma }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中: $V _ { k } \\left( x , y \\right)$ 是各个像素点在量化区间上的幅值，k为区间个数，B为某个区间， $\\varsigma$ 是个很小的常数，为了避免分母为零的情况所设定的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3AdaBoost与SVM结合的级联分类器的设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AdaBoost是一种迭代算法，其算法流程是先选取一个训练集，在该预先准备好的训练集中训练不同的弱分类器，然后把这些弱分类器集合起来，构成一个更强的最终分类器，称为强分类器。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/875a8f698ff83bf24c56242aacbb96b9c6d46feb010650a6f4e49a7c1353ca5f.jpg",
+        "img_caption": [
+            "图5AdaBoost级联分类检测"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该系统通过一个移动的窗口来检测对象图片，分类器的每个阶段都会标记特定的区域，并判断当前位置的对象是正确还是错误的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，在车辆检测时，当目标候选区域进入强分类器，通过强分类器中每个弱分类器进行权重投票，决定候选区域是否进入下一级强分类匹配检测。级联在前面的强分类器可以提前以较少的计算排除大量无目标区域的背景区域。只有通过所有强分类器的检测区域才是目标区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "传统的AdaBoost级联分类器，在不断的分类的过程中，随着层数的增加，需求的特征数不断增多，造成训练时需求的特征数也增加。针对这种情况，提出结合支持向量机(SVM)的级联分类器。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "简单来说SVM是一种二分类分类器，目标是在超平面中寻找目标最大间隔的分割线，善于解决小样本、非线性的模式识别问题，在AdaBoost经过几次分类后特征数增加就是这种情况。本文提出的AdaBoost+SVM级联分类器的算法流程图如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5cfe1a0c63766f4fa383234968c44424c4ca40ce592641525a875fdd6b210f41.jpg",
+        "img_caption": [
+            "图6结合SVM的Adaboost级联分类器训练流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "可以看出，在经过几次AdaBoost子窗口分类后，添加SVM分类器，是该算法的关键。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图7中可以看到，单一haar-like特征构建的级联分类器，经过12阶以后，需求的特征数大幅度增加，成指数形式，不利于级联器的构造，通过本文所提出的对Haar-like特征筛选和HOG特征的优化，在融合特征分类器时，最初几层分类器选择的大都是HOG特征，然后在后面几层分类器中Haar-like特征的比例逐渐增加。这是由于本文定义的HOG特征的弱分类器的单独分类性能并不是特别优秀，但是再对Haar-like特征进行补充时，构建的融合特征级联分类器的性能比传统的级联分类器略高，可以使用更少的特征数和层数对车辆进行检测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fecdd6198c8c62180644b8962b96bcbcfbc7ec4b582dac8fb9ad2fa1a12820c.jpg",
+        "img_caption": [
+            "图7级联分类器层数与训练所需的特征关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 实验部分",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文实验环境为Int $\\mathrm { e r ^ { ( R ) } C o r e ^ { T M } }$ i5-4210M CPU $@ 2 . 6 0$ GHz,编译环境为VS2013，采用 $^ { C + + }$ 语言编写代码。在进行实验前，收集正样本和负样本用于训练级联分类器，正样本一部分来源于MIT的CBCL库共1000余张，一部分使用相机拍摄车辆800余张，总共1864张，包含了车辆的前向、后向、左向、右向等四个方向的视图。针对不同环境和不同光线，对正样本进行剪裁，确保样本图案刚好包括整个车区域，并包含少量的背景信息，然后将图片缩放到 $2 5 \\times 2 0$ 的像素比。负样本除了道路图像外，还有其他不属于道路的周边目标图像，一共3785张，尺寸大小由 $2 2 5 \\times 1 4 5$ 到 $5 1 2 \\times 7 1 0$ 不等。图8展现了一部分正样本，图9展现了一部分负样本。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e8dd4b0eeb41262cee8f22b5455e9d6b60556a30d7709adf54c2d0cdf2b8ec9.jpg",
+        "img_caption": [
+            "图8部分正样本"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1353cb9d321637b859afce55cb2c142a6d347c547245d3204e3a9189471a6ea7.jpg",
+        "img_caption": [
+            "图9部分负样本"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了评估本文方法的性能，使用如下三个指标进行性能评估。将检测率（detection rate，DR）、误检率（false positive rate,FPR）和平均每帧检测时间（average detection time per frame,",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T）作为评价前方车辆检测算法优劣的准则[11]。DR 和 FPR 的定义为",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D R } { = } \\frac { \\mathrm { T P } } { \\mathrm { T P } { + } \\mathrm { F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F P R } { = } \\frac { \\mathrm { F P } } { \\mathrm { T P } { + } \\mathrm { F N } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中：TP为实际被检测出的目标；FN为实际没被检测出来的目标[12]；FP为实际被误检为目标的数量；TN为实际未被误检成目标的数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了评估线性化后的PBAS算法，使用了公共变化数据进行检查[12]。该数据包含56个视频，选取其中8个交通方面的视频，包含一些具有挑战性的背景相减类型，如动态背景、照相机的抖动、间歇运动目标、阴影覆盖等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "原PBAS算法与改进后的线性化PBAS算法，历史帧数N的取值与运动目标检测率的线性关系对比图，如图10所示。可以看到，原始的PBAS[9算法随着N的变化，检测率逐渐增高，当达到35以后，基本趋于稳定,反观线性化的PBAS算法，在N 为15时，获得最高的检测率。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bfe7d882adad419b88509f55ed49cb7d3c6275744311609619ca5b1871e2e055.jpg",
+        "img_caption": [
+            "图10历史样本数N与检测率的关系图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/bcacbb645dbfd070d5c5f033116f596520d2284b8ed8e9405e1e75ab80365fa7.jpg",
+        "table_caption": [
+            "表1 $_ { \\mathrm { N } = 3 5 }$ 原PBAS算法与 $_ { \\mathrm { N = 1 5 } }$ 线性化PBAS检测对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>指标</td><td>检测率/%</td><td>误检率/%</td><td>检测时间/ms</td></tr><tr><td>原PBAS[8]</td><td>89.60</td><td>1.30</td><td>36.20</td></tr><tr><td>现PBAS</td><td>94.10</td><td>3.90</td><td>27.10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看到，线性化的PBAS算法大大减小了历史样本取值N的大小，减少了运算复杂度，不仅在检测率上有突破，检测速度也提升了不少。缺点是误检率比较高，意味着大量的误检，这对检测运动目标是致命的缺点。但在作为感兴趣区域的划分时，通过统计方法与面积阈值，去除掉这些误检的目标，保证感兴趣区域的确定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图11中展示的是在测试集[13]中，高速公路检测视频中第685帧情况下，线性化N取值为15和原PBAS算法N取值15和35的效果对比。该情景中有风的是吹动，导致树枝摇曳，易造成不需要的前景。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "可以看到，改进后的算法在N取值15时就可以达到原算法 $_ { \\mathrm { N } = 3 5 }$ 的效果，只是在目标中央有部分瑕疵，但并不影响ROI的确立。而且改进后的PBAS算法相对于原始PBAS算法在N的取值都为15的情况下，有更好的杂波去除性，消除了动态背景的更多误报，而导致的前景分割不明确。在图11(b）和（d)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的对比中可以看到，视频左上角的树叶摇曳导致的错误背景的检测，会对整体算法ROI的确定有比较大的影响，从而增加了检测时间。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4db93383e7f59827f34bf2abc23367a39df7e5dde17443d20ee990a702afb37e.jpg",
+        "img_caption": [
+            "图11原PBAS算法与线性化PBAS算法在N不同取值的对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/417f53b52439d962b75a79b2f13e5975e286b9297e93a245659ef596cc11b493.jpg",
+        "img_caption": [
+            "图12算法检测每步效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "准备正负样本，训练级联分类器对车辆进行检测，检测步骤图如图12所示，其中蓝框是确立ROI。可以看出，骑自行车的人，并没有被检测出。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文方法的有效性，分别对haar-like特征检测算法，HOG 特征检测算法[],LBP特征检测算法[13]，不使用PBAS确定ROI的本文Haar-like特征和HOG特征级联器检测算法在四个环境下进行车辆检测。其中，视频1为存在大量阴影，视频2存在少量阴影，视频3亮度较暗，视频4亮度较强，分辨率都是 $3 2 0 \\times 2 4 0$ ，帧数为 $2 5 \\mathrm { H Z }$ ，视频1、2、4来自于VideoSurveillanceonlineRepository，该测试集为线上公开大型的视频监控数据集，视频3为在四川成都西南三环采集的有检测针对性的视频。检测效果如表1所示。本文算法检测效果如图13所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/61ae093f8599b78de6f7f3793a25b129fc57e279cda2b40e19c7b870718172bb.jpg",
+        "img_caption": [
+            "图13本文算法在四个视频中的检测效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/abc87f36079fabd458bfadbf8ade810224f0ce06f1fb76ba8e163663d1e9cc9d.jpg",
+        "table_caption": [
+            "表2各类算法在4个视频中的检测指标"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>指标</td><td>视频1</td><td>视频2</td><td>视频3</td><td>视频4</td><td>平均</td></tr><tr><td rowspan=\"3\">Haar-like</td><td>DR（%)</td><td>92.36</td><td>91.65</td><td>71.54</td><td>63.1</td><td>79.66</td></tr><tr><td>FPR（%)</td><td>13.95</td><td>1.56</td><td>9.65</td><td>11.9</td><td>9.26</td></tr><tr><td>T (ms）</td><td>32</td><td>32</td><td>34</td><td>35</td><td>33.25</td></tr><tr><td rowspan=\"3\">HOG[7]</td><td>DR(%)</td><td>94.56</td><td>96.95</td><td>90.09</td><td>94</td><td>93.9</td></tr><tr><td>FPR（%)</td><td>23.3</td><td>11.56</td><td>14.91</td><td>17.68</td><td>16.86</td></tr><tr><td>T (ms）</td><td>66</td><td>65</td><td>59</td><td>67</td><td>64.25</td></tr><tr><td rowspan=\"3\">LBP[14]</td><td>DR（%)</td><td>96.45</td><td>92.01</td><td>23.45</td><td>80.01</td><td>72.98</td></tr><tr><td>FPR（%)</td><td>8.95</td><td>3.45</td><td>1.36</td><td>4.59</td><td>4.58</td></tr><tr><td>T (ms）</td><td>39</td><td>35</td><td>31</td><td>34</td><td>34.75</td></tr><tr><td>不使用ROI确</td><td>DR（%)</td><td>93.95</td><td>94.01</td><td>91.01</td><td>92.05</td><td>92.75</td></tr><tr><td>定的Haar-like</td><td>FPR（%)</td><td>8.35</td><td>3.66</td><td>10.59</td><td>11.89</td><td>8.62</td></tr><tr><td>和HOG 级联检</td><td>T (ms）</td><td>39</td><td>41</td><td>48</td><td>49</td><td>44.25</td></tr><tr><td>测 本文算法</td><td>DR（%)</td><td>93.45</td><td>93.89</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>92.1</td><td>93.05</td><td>93.12</td></tr><tr><td></td><td>FPR（%)</td><td>8.45</td><td>3.91</td><td>10.69</td><td>11.01</td><td>8.51</td></tr><tr><td></td><td>T （ms）</td><td>35</td><td>37</td><td>43</td><td>44</td><td>39.75</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可见，针对视频1和视频2中的车辆，HOG特征相较于Haar-like 特征和LBP特征在有阴影的情况下检测效果更好，但是误检率和每帧图像的平均检测时间也大大增加。本文提出的对Haar-like特征和HOG特征做出优化后构成的级联器检测算法，相对于HOG 算法，在保证检测准确性的情况下，误检率和每帧图像的平均检测时间都大大降低。相对于Haar-like特征检测和LBP特征检测，本文算法检测率有所上升，误检率下降，而每帧图像的平均时间只略微增加。实验数据表明这种优化的Haar-like特征和HOG特征构成的级联器在保证准确率，误检率和检测时间优秀的情况下，一定程度上减少了构成级联分类器特征的冗余。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在视频3和视频4中，在光照强度变化的情况下，HOG特征相对于Haar-like特征和LBP特征检测和有阴影的情况类似，检测率较高，同时误检率和平均检测时间也都有所增加。尽管如此，但是Haar-like 特征和HOG特征检测在光照变化复杂的情况下检测效果并不好，检测率大大降低。本文构建的优化后的Haar-like特征和HOG特征级联器在面对复杂光照变化时，有不错的鲁棒性，误检率和平均检测时间均优于HOG等特征。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对比第四种算法和第五种算法的检测效果可以发现，在通过PBAS算法确定的ROI上进行车辆检测，在4个视频中的检测性能更佳。其中，平均检测率提升了 $0 . 3 7 \\%$ ，平均误检率降低了 $0 . 1 1 \\%$ ，平均检测时间降低了 $4 . 5 \\mathrm { m s }$ ，如表1所示。实验结果表明，PBAS算法的应用可以有效地确定ROI，降低运算的复杂度，从而达到加快检测速度的目的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "与文献[8]中深度学习的对比。该论文中使用硬件条件处理器，英特尔 Xeon(至强) $\\exists 5 - 2 6 2 0 \\lor 3 \\ @ \\ 2 . 4 0 \\ \\mathrm { G H z }$ 六核(X2)；内存,56 GB(三星DDR42133MHz);GPU卡，Nvidia GeForceGTXTITANX。远高于本文的硬件条件。而且为了满足深度学习的样本条件，选择的样本为 images5709张，labels5709个/XML,boundingBoxes14927个/rectangles,也优于本文的训练集。该模型的训练时间有 $6 4 \\mathrm { ~ h ~ }$ ，远大于本文的训练时间 $2 1 \\mathrm { ~ h ~ }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "现调整文献[8]中的FastR-CNN的网络参数，降低为浅层模型，以适用于本文的硬件条件。并且降低训练参数指标，尽量与本文的检测时间靠近，最终训练时间为 $2 3 \\mathrm { h }$ ，在本文测试的四个视频中的平均测试指标为：检测率 $6 4 . 7 5 \\%$ ，每帧检测时间为 $9 \\mathrm { m s }$ 。可以看出虽然该方法在降低指标后，检测时间仍是毫秒级别，优于本文的 $3 9 . 7 5 ~ \\mathrm { m s }$ ，但检出率大大降低，远低于原论文中描述的 $8 7 . 6 \\%$ ，也低于 $9 3 . 2 1 \\%$ ，其中有模式设定简单，训练参数设置低的影响，也有原论文中测试集较为复杂的的不同性。虽然修改了实现条件，但从一定情况下说明了深度学习需要更高的训练技巧和实验条件，传统的机器学习与图形学算法更加易于硬件实现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文针对车辆检测的光照强度变化和计算复杂度的问题，提出一种基于感兴趣区域的多特征级联器的检测算法。与单个特征级联器检测相比，本文提出的多特征级联器在不同光照变化和阴影存在的情况下具有更好的检测性能。线性化PBAS算法的引入，可以更加快速地确定感兴趣区域，降低了计算的复杂性。针对不同光照强度和阴影变化的视频帧进行车辆检测，以及相应的定性分析，证明了提出方法的有效性。但是不可否认，本文算法相较于已有算法虽然取得了一定的性能优势，但是仍有很多问题尚待解决，如通过线性化PBAS算法确定的ROI，可能会有误差，会造成漏检，造成召回率的下降等。针对这些问题，接下来打算完善这种ROI的确定算法以及尝试使用深度学习算法进行改进，并在硬件条件较低如单片机的环境下进行算法实现。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]包文龙.视频智能监控中的车辆检测与跟踪技术研究[D].哈尔滨：哈 尔滨工程大学,2O16.(Bao Wenlong.Research on traffic vehicle detection and tracking technology in vision-based inteligent monitoring [D]. Harbin: Harbin Enginering University,2016.）   \n[2]Viola P,Jones MJ.Robust real-time face detection [J]. International Journal of Computer Vision,2004,57 (2): 137-154.   \n[3]Sivaraman S,Trivedi M M.A general active-learning framework for on-road vehicle recognition and tracking[J]. IEEE Trans on Intelligent Transportation Systems,2010,11 (2): 267-276.   \n[4]Sivaraman S,Trivedi M M.Looking at vehicles on the road: A survey of vision-based vehicle detection,tracking,and behavior analysis [J].IEEE Trans on Intelligent Transportation Systems,2013,14 (4):1773-17 95.   \n[5]Sun Shujuan, Xu Zhize,Wang Xingang,et al. Real-time vehicle detection using Haar-SURF mixed features and gentle AdaBoost classifier [C]// Proc of the 27th Chinese Control and Decision Conference.2015:1888-1894.   \n[6]Li Xing,Guo Xiaosong.A HOG feature and SVM based method for forward vehicle detection with single camera [Cl// Proc of the 5th International Conference on Intelligent Human-Machine Systems and Cybernetics.2013:263-266.   \n[7]Sun D,Watada J.Detecting pedestrians and vehicles in trafic scene based on boosted HOG features and SVM [C]// Proc of the 9th International Symposium on Intelligent Signal Processing. 2015: 1-4.   \n[8]宋焕生，张向清，郑宝峰，等．基于深度学习方法的复杂场景下车辆目 标检测[J].计算机应用研究,2018,35(4):1270-1273.(Song Huansheng, Zhang Xiangqing,Zheng Baofeng,et al. Vehicle detection based on deep learning in complex scence [J].Application Research of Computers, 2018, 35 (4): 1270-1273. )   \n[9]Hofmann M, Tiefenbacher P,Rigoll G. Background segmentation with feedback:The pixel-based adaptive segmenter [Cl// Proc of Computer Society Conference on Computer Vision and Pattern Recognition Workshops.2012:38-43.   \n[10] Barnich O,Droogenbroeck M V. ViBe: a universal background subtraction algorithm for video sequences [J]. IEEE Trans on Image Processing, 2011, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20 (6):1709-1724. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[11] Virumandi P,Adithya R,PonnambalamP,et al.Detection of vehicle in pedestrian pathway using defined range approach [C]// Proc of the 7th International Conference on Advanced Computing.2O15:1-6. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[12] Wu Changxia,Cao Xianbin,Lin Renjun,et al.Registration-based moving vehicle detection forLow-altitude urban traffic sureillance [C]//Proc of the 8th World Congress on Intelligent Control and Automation.201O: 373-378. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[13] Goyette N,Jodoin P M,Porikli F,et al.Changedetection.net:a new change detection benchmark dataset [C]// Proc of Computer Society ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conference on Computer Vision and Pattern Recognition Workshops.2012: 1-8. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14]杨先凤，杨燕．一种基于HOG-LBP的高效车辆检测方法[J].计算机 工程，2014,40(9):210-214.(Yang Xianfeng,Yang Yan.A method of efficient vehicle detection based on HOG-LBP[J]. Computer Engineering, 2014,40(9):210-214.) ",
+        "page_idx": 7
+    }
+]

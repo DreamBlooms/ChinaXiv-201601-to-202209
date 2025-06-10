@@ -1,0 +1,208 @@
+# Experimental Analysis of the Aerodynamic Performance of an Innovative Low Pressure Turbine Rotor
+
+Infantino Daniele', Satta Francesca¹, Simoni Daniele¹, Ubaldi Marina¹, Zunino Pietro1 and Bertini Francesco
+
+1. DIME -Universita degli Studi di Genova, Via Montallegro 1,I-16145 Genova, Italy   
+2. Avio Aero, Viale I Maggio 56,I-10040 Rivalta (TO) - Italy
+
+$\copyright$ Science Press and Institute of Engineering Thermophysics, CASand Springer-Verlag Berlin Heidelberg 2016
+
+In the present work the aerodynamic performances of an innovative rotor blade row have been experimentally investigated. Measurements have been caried out in a large scale low speed single stage cold flow facility at a Reynolds number typical of aeroengine cruise,under nominal and of-design conditions.The time-mean blade aerodynamic loadings have been measured at three radial positions along the blade height through a pressure transducer installed insidethe hollow shaft,bydelivering thesignal to the stationary frame witha slipring.The time mean aerodynamic flow fields upstream and downstream of the rotor have been measured by means of a five-hole probe to investigate the losses associated with the rotor.The investigations in the single stage research turbine allow the reproduction of both wake-boundary layer interaction as wellas vortex-vortex interaction.The detail of the present results clearly highlights the strong disipative effects induced bythe blade tip vortex and by the momentum defect as well as the turbulence production,which is generated during the migration of the stator wake in the rotor passage.Phase-locked hot-wire investigations have been also performed to analyze the time-varying flow during the wake passing period. In particular the interaction between stator and rotor structures has ben investigated also under off-design conditions to further explain the mechanisms contributing to the los generation for the different conditions.
+
+# Keywords: Low Pressure Turbine,Single Stage Research Turbine,Rotor Aerodynamic Loading,Hot-wire Anemometry.
+
+# Introduction
+
+The need for high speed low pressure turbine modules to be used with innovative aircraft engine concept leads to face with additional critical issues during the design phase，with the consequent need for the application of innovative blades able to fulfill the mechanical and aerodynamic performance constraints.In order to assist the designer with reliable tools it is mandatory to assess the performance of turbine rotor blades of innovative concept with experimental investigations.
+
+The rotor aerodynamic loading is the main feature affecting the blade row efficiency since it directly drives the boundary layer,the secondary flows and the tip vor tex evolution.The measurement of the pressure distributions on the rotor blade is quite difficult and only few
+
+# Nomenclature
+
+$u$ peripheral velocity   
+$w$ （204号 relative velocity   
+$w _ { i s }$ （20 isentropic relative velocity at midspan at rotor outlet   
+$x$ （204 axial coordinate
+
+# Greekletters
+
+（202 $C$ （20 blade chord   
+（20 $C _ { x }$ （20 blade axial chord   
+$c$ （ absolute velocity   
+（204号 $c _ { i s }$ （20 isentropic absolute velocity at stator outlet   
+（204号 $c _ { 2 i s }$ （20 isentropic absolute velocity at rotor outlet   
+（204号 $c _ { p }$ （20 static pressure coefficient  Pr,in-P 0.5pw   
+（204号 $c _ { p t }$ （204 total pressure coefficient Plin(r)-p,(r,9) $= \frac { \overline { { p _ { t , i n } ( r ) } } - p _ { t } ( r , \vartheta ) } { 0 . 5 \rho c _ { i s } ^ { 2 } }$   
+Cptr relative total pressurecoefficientProt.n()-Po(r,9) $= \frac { \overline { { p _ { t r o t , i n } \left( r \right) } } - p _ { t r o t , e x } \left( r , \vartheta \right) } { 0 . 5 \rho w _ { i s } ^ { 2 } }$   
+$g$ （20 blade pitch   
+$p$ （ static pressure   
+$p _ { t }$ （204号 total pressure   
+$p _ { t r }$ （20 $\begin{array} { l } { { \displaystyle p _ { t r } = p + \rho \frac { w ^ { 2 } } { 2 } } } \\ { { \displaystyle p _ { t r o t } = p + \rho \frac { w ^ { 2 } } { 2 } - \rho \frac { u ^ { 2 } } { 2 } } } \\ { { \displaystyle \mathrm { R e y n o l d s ~ n u m b e r } = \ \frac { w _ { i s } C } { \nu } } } \end{array}$   
+$p _ { t r o t }$ （204号   
+Re   
+$r$ （204 radial coordinate   
+（204号 $s$ （ streamwise coordinate   
+（204号 $s _ { m a x }$ （204号 max value of the streamwise coordinate   
+（204号 $t$ （20 time   
+（204号 $T$ （20 wake passing period   
+（202 $T u$ （20 turbulence intensityrms(c）+rms(c）²+ms(c)² C2is   
+$\Delta \theta$ （204号 vane angular pitch   
+$\Delta \theta _ { r }$ （204号 $\mathrm { r o t o r a n g u l a r p i t c h } = \Omega T$   
+0 circumferential coordinate   
+$\theta _ { r }$ （20 circumferential position in the rotor frame $= \Omega t$ （20   
+$\nu$ （204号 kinematic viscosity   
+$\rho$ （204号 density   
+Orot rotor relative total pressure coefficient   
+$\Omega$ （204号 angular velocity
+
+# Subscript&Superscript
+
+$e x$ （20 row outlet   
+in row inlet pitchwise mass averaged   
+$\ O =$ mass averaged   
+$< >$ phase-lockedaveraged
+
+works can be found in literature (e.g.[1-4]). Moreover, it is worth noting that high frequency response piezo-resis tive pressure transducers,often used for these measurements,sensibly suffer of drift problems which reduce the measurement accuracy，and hence they can be hardly adopted in low speed facilities due to the low aerodynamic head.
+
+An accurate estimation of the loading distribution is mandatory for a proper interpretation of the whole flowfield,in the same way as the detailed characterization of the unsteady flow field upstream and downstream of the rotor.The latter are mainly aimed at highlighting the wake-boundary layer interaction，thesecondary flow evolution and all the other unsteady effects of real machines [5, 6].
+
+The incoming wake boundary layer interaction is the main cause for the generation of profile losses,since it dominates the aerodynamic efficiency of low pressure turbine (LPT) blades characterized by high aspect ratios, when operating at low chord-based Reynolds numbers.
+
+In this case the turbulence carried by wakes promotes the transition process of the suction side boundary layer of the rotor blades [7,8], sensibly influencing the whole stage efficiency.Howeverit is also important to analyze and to account for the vortex-vortex interaction occurring also in the hub and tip region [9].
+
+Studies in high pressure turbines (HPT) have investigated the transportation of vortices and their interaction with wakes of the previous row [1O-12]. Gaetani et al. [13,14] studied the performance, the time-mean and the time-dependent flow fields in a single stage research turbine for two different stator-rotor axial gaps. They showed that the rotor hub region is the most affected by the stator flow, while the rotor flow in the outer part of the channel remains almost unaffected by the stator incoming flow, since the stator vortices and wakes are almost mixed out for both gaps considered. Higher stage performance have been found for the smaller gap despite the stator-rotor interaction is more relevant.
+
+In literature there are several studies on the flow field inside LPTs,but there are not as many as for HPT.For this reason it is useful to perform experimental analysis in LPT to provide data which may be used for computational code validation aimed at predicting the efficiency of a real machine.Lengani et al. [15] gave a detailed description of the behavior of the main flow structures measured by means of a fast response aerodynamic probe (FRAP),and successively studied the variation and development of the unsteady flow field downstream of the rotor due to the spinning modes [16]. Canepa et al.[17] described by means of phase-locked hot-wire measurements the unsteady evolution of both stator and rotor wakes within a two-stage axial research turbine.
+
+This paper presents a study of the three-dimensional flow field within the blade rows of a single stage research turbine.The facility consists of a large-scale,low speed, cold flow axial turbine instrumented to allow the investigation of the aerodynamic performance of the stator and rotor rows.The main features of the facility and its instrumentation are described in the paper.In order to give a complete description of the aerodynamic field of the tested innovative rotor, the rotor aerodynamic loadings have been measured by means of a measuring chain properly designed to acquire the signals from the rotating row.Due to the strongly three-dimensional design of the rotor，three blades have been instrumented at different spanwise locations.
+
+Five-hole probe allowed total pressure time-mean measurements to evaluate the overall performance of the stage； further detailed hot-wire phase-locked investigations provided time dependent data on velocity and turbulence intensity to analyze the rotor/stator interaction.
+
+# Experimental Facility
+
+Measurements have been performed on a large-scale low-speed single-stage axial flow research turbine installed at the Aerodynamics and TurbomachineryLabor atory of the University of Genova (Fig.1). The facility has been designed and built with the purpose of investigating unsteady flow phenomena representative of a low pressure gas turbine for aeronautical application.Atmospheric air is fed by a centrifugal fan located downstream of the turbine.The fan is driven by a $6 0  { \mathrm { ~ k W ~ } }$ electric motor,and the turbine shaft is braked by means of a $4 0 ~ \mathrm { k W }$ DC reversible electric motor. Both motors are equipped with variable speed electronic control. Operating conditions can be continuously varied acting on the rotational speed of the two motors allowing the variation of mass flow rate (thus Reynolds number) as well as the rotor peripheral velocity and thus the rotor incidence angle Geometrical parameters of the stage are summarized in Table 1.
+
+The blade has been designed by GE Avio Aero and thenscaledbyUniversityofFlorence forlow speed testing following the procedure described in [18]. All measurements have been carried out foranominal exit flow Reynolds number, based on the blade chord,equal to 80000,and for three different incidence angles $( - 4 ^ { \circ } , \ 0 ^ { \circ }$ $+ 6 ^ { \circ } )$ resulting in flow coefficients $\varphi$ respectively equal to $\varphi _ { - 4 } = 0 . 6 5 7$ ， $\Phi _ { 0 } \mathrm { = } 0 . 6 9 4$ ， $\varphi _ { + 6 } { = } 0 . 7 4 9$
+
+![](images/a2268cd5ef3ddbc509edd6c11dd6c65770d2ebe7c9fe4af68947a36eff5a9348.jpg)  
+Fig.1Front view of the facility
+
+Table1Turbine and blade parameters   
+
+<html><body><table><tr><td></td><td>Stator</td><td>Rotor</td></tr><tr><td>Number of blades</td><td>49</td><td>49</td></tr><tr><td>Chord at midspan C</td><td>100 mm</td><td>100 mm</td></tr><tr><td>Blade pitch at midspan g</td><td>73 mm</td><td>73 mm</td></tr><tr><td>Inlet blade angle α,β</td><td>0°</td><td>-10°</td></tr><tr><td>Outlet blade angle α2,β</td><td>53°</td><td>60°</td></tr><tr><td>Blade span h</td><td>300 mm</td><td>300 mm</td></tr><tr><td>Aspect ratio h/c</td><td>3</td><td>3</td></tr><tr><td>Pitch to chord ratio g/c</td><td>0.73</td><td>0.73</td></tr><tr><td>Inner diameter Di</td><td>418 mm</td><td>418 mm</td></tr><tr><td>Outer diameter Do</td><td>718 mm</td><td>718 mm</td></tr><tr><td>Tip clearance TC/h</td><td></td><td>0.37%</td></tr></table></body></html>
+
+In order to measure the rotor aerodynamic loadings, three instrumented blades have been manufactured with 21 pressure taps (12 on the pressure side),located at midspan,at $2 5 \%$ and at $7 5 \%$ of the blade span.The measurement of the aerodynamic blade loading on the rotating row has required an apparatus specifically designed.A hollow shaft has been manufactured to allow the installation of the Scaninvalve and the pressure transducer in the rotating frame next to the axis in order to minimize the centrifugal effects acting on the latter. During the test,a zero signal reference voltage has been acquired by means of a pressure tap inside the hollow shaft,connected to the pressure transducer through the Scanivalve.
+
+This signal has been used to remove the centrifugal effects due to the rotation. Moreover, the radial equilibrium acting on the flow within the pipings which connect the pressure taps with the transducer are taken into account in the evaluation of the static pressures along the blades (the contribution due to the radial equilibrium has been added to the signal measured by the transducer). The pneumatic signal from each pressure tap is sent through the Scanivalve to the differential transducer,and the voltage signal is delivered to the static frame by means of a slip ring mounted on the shaft.
+
+Three slots have been manufactured in the turbine casing to allow the probe access for total pressure and velocity measurements,one upstream of the stator leading edge ( $43 \%$ of the axial chord $C _ { x , } ^ { \mathrm { ~ \gamma ~ } }$ ,one in the gap between stator trailing edge and rotor leading edge ( $3 5 \%$ of $C _ { x }$ downstream of the vane row) and one downstream of therotor trailing edge（ $63 \%$ of $C _ { x }$ downstream of the blade row). The three-dimensional total pressure fields at three planes have been measured by means of a 5-hole pneumatic probe.High-sensitivity low-range $\left( \pm 6 2 0 \ \mathrm { P a } \right)$ （204号 SETRA differential transducers have been adopted for pressure measurements.The instrument accuracy is better than $\pm 0 . 0 7 5 \%$ of the transducer full-scale range.Probe positioning in axial and radial directions is obtained by means of a two-axis traversing system mounted on the top of the casing.The probe movements are computer controlled with minimum steps of $8 \mu \mathrm { m }$ .The whole flow field has been studied by means of15 pitchwise traverses (covering an entire pitch of $7 . 3 5 ^ { \circ } .$ ),each of them constituted of 25 points in the spanwise direction,with a finer mesh near to the endwalls,to give a better description of the evolution of the secondary flow structures.
+
+Velocity and turbulence investigations downstream of the rotor have been also carried out at the rotor exit plane by means of hot-wire anemometry,performing phaselocked investigations.The three-dimensional ensemble averaged velocity and the components of the Reynolds stress tensor have been determined by means of two different hot-wire single wire probes. A straight probe (Dantec 55P11) and a slanted one(Dantec 55P12) have been used adopting the multiple-rotation technique described in [19]. The probe output signals were acquired for different angular positions of the sensor elements with respect to the probe axes.For the straight one，3 angular positions have been adopted in the range of $\pm 4 5 ^ { \circ }$ with respect to the reference flow direction.The slanted probe has been rotated for a total of 9 angular positions in the range of $\pm 8 0 ^ { \circ }$ with a step of $2 0 ^ { \circ }$ ：
+
+The anemometer output voltages were sampled using a National Instrument Compact DAQ system with two 16 bit, 4-channels simultaneous analog input modules.
+
+Since the experimental velocity records contain both periodic fluctuations associated with the incoming wake frequency,and other fluctuations due to turbulence and unsteadiness not at the incoming wake frequency, the phase-locked ensemble-averaging technique has been used to distinguish between the periodic velocity fluctuations and all the other velocity fluctuations resulting in the unresolved unsteadiness.A trigger signal has been derived from a shaft encoder to start acquisition for each angular position of the two probes.Three contiguous incoming wake periods have been recorded.Each period was subdivided in 1oo steps. The mathematical procedure described in [19] has been applied to the voltage signals measured by the two probes at different angular positions for each time instant.This allows the evaluation of time-varying phase-locked velocity, turbulence intensity and secondary kinetic energy distributions,as described in [20].2OO records were acquired and used for the evaluation of the ensemble-averaged quantities.Considering a confidence level of $9 5 \%$ ,the uncertainty in the measurement of the mean velocity and the Reynolds stress components has been evaluated to be lower than $2 \%$ and $8 \%$ ,respectively.
+
+# Results and Discussion
+
+# Rotor Aerodynamic Loadings
+
+The aerodynamic loading distributions measured for three different blade spans are reported in Fig.2,as a func tion of the dimensionless streamwise coordinate.
+
+![](images/75f01de2ddd02e82291efa235063cbf8561fee9c1b0e02b8bd7566a4cf04a8b2.jpg)  
+Fig.2Blade aerodynamic loadings at nominal incidence for three different spanwise positions(0.25,O.50 and 0.75 of the blade height)
+
+The loading clearly shows that the rotor row is aftloaded， since the velocity peak occurs between $0 . 5 5 <$ $s / s _ { m a x } < 0 . 6$ for all of the three radial positions considered. The comparison of the loadings measured at the three spanwise locations shows that the rear part of the blade suction side,where the flow diffusion occurs,is very similar for the three different heights.More differences between the three curves can be observed in the accelerating part of the suction side as well as on the pressure side.Alargerblade loading can be observed at the spanwise location closer to the tip as compared with those measured at midspan and near to the hub of the turbine. The choice of having a smaller aerodynamic loading next to the blade root has been made in the design phase to contain the mechanical stresses (since on the root section acts the strongest centrifugal effect). It is worth noting that there is no trace of boundary layer separation,typically highlighted by a plateau in the $c _ { p }$ distribution on the rear part of the suction side, for all the spanwise locations.
+
+The static pressure distributions have been measured also under off-design conditions (Fig.3). For all the conditions tested, the incidence angle variation appears to affect only the first portion of the blade suction and pressure sides.Larger aerodynamic loadings occur when the incidence angle is increased, as expected. The $c _ { p }$ in the remaining part of the blade is unaffected by the incidence anglevariation.
+
+# Time MeanFlowField
+
+In Fig.4a the total pressure coefficient $c _ { p t }$ measured downstream of the stator is shown for the nominal incidence.Two contiguous duplicated pitches are showed for the sake ofa better visualization.In the plots the circumferential direction $\vartheta$ is made non-dimensional by the angular pitch $\Delta \vartheta _ { ; }$ ，while the radial coordinate $r$ is made non-dimensional by the blade height $h$ .The figure highlights,asa main feature, the wake shed from the stator.It is recognizable by the green stripe which extends for the whole $r / h$ range in the color plot,and it is characterized bya region of high total pressure coefficient and low velocity (in Fig.4b).The suction side of the wake is lo cated on the left part of the plot,and the pressure side on the right. The wake appears evidently bowed as a consequence of the strong three-dimensional geometry of the blade.The total pressure coefficient distributions for the different incidence angles (not shown in the paper) are very similar,thus the variation of the incidence angle does not significantly alter the total pressure field at the rotor entrance.
+
+The regions highlighted by higher values of $c _ { p t }$ show the effect of secondary flow structures which induce relevant losses close to the hub and the tip.This is due to the passage and horse-shoe vortices of the stator blade row which transports the low momentum fluid coming from the endwall boundary layer in this flow region at the stator exit section.The region affected by secondary losses at the tip is wider than that observed at the hub due to the different thicknesses of the corresponding inlet boundary layers.Looking at the velocity distributions in Fig.4b,it is possible to note an appreciable velocity gradient in the radial direction also in correspondence of the potential flow region confined by two adjacent wakes. It is due to the radial equilibrium effects and the three dimensional shape of the blade.To evaluate the performance of the rotor row, the relative total pressure $c _ { p t r }$ distributions downstream of the rotor have been analyzed. The reference values to compute the $c _ { p t r }$ are obtained by the value of the mass-averaged relative total pressure at the rotor inlet.
+
+![](images/a3b9a98302dc256de86125429a7d55731603a55fd052002ba6f0ee1bd5e50cb7.jpg)  
+Fig.3Blade aerodynamic loadings for three different incidence angles and for three diffrent spanwise locations
+
+![](images/ace5abdc9d7f20cbc13a8a5a69929d5ad0c5ad7b6935e78d571e8f54c08d2fad.jpg)  
+Fig.4Total pressure coeficient and absolute velocity distributions upstream of therotor for the nominal incidence
+
+Due to the limited frequency response of the 5-hole probe the time-mean colour plots reported in Fig.5 only highlight the structures generated by the stator row thus transported behind the rotor at a fixed circumferential position. Conversely, the structures generated in the relative frame of reference are smeared out in the circumferential direction since they are inherently “time-averaged”by the probe.In Fig.5 the $c _ { p t r }$ distributions in the measuring plane downstream of the rotor are shown for all the three incidence conditions tested.The three color plots show high values of $c _ { p t r }$ in the flow region next to the hub $( r / h < 1 . 6 5 )$ and next to the tip $( r / h > 2 . 1 5 )$ These regions are associated to the superimposition of both stator and rotor secondary flow structures,which interact during their migration along the rotor blades inducing the vortex-vortex interaction process. The structures associatedto the stator can bemore clearly identified in the hub region rather than at the shroud region.
+
+This is due to the tip leakage vortex of the rotor that increases the mixing process and consequently contributes to smear out the stator structures.
+
+The propagation of the stator wake is clearly observable in the map of relative total pressure loss coefficient in the flow region between $1 . 6 5 < r / h < 2 . 1 5$ Herea localized bowed region characterized by high loss levels (cyan-green region in theplot) can be clearlyobserved.It is due to the turbulence activity of the stator wake,which produces losses during its advection across the rotor passage.The increase of the incidence angle (moving from the left to the right of the figure),and the consequent increase of the blade loading,makes the rotor secondary loss region at the tip larger, with a larger penetration to ward the mid-span section of the blade.
+
+It is also interesting to note that the flow region affected by the propagation of the stator wake seems to be characterized by loss levels even larger when the incidence angle is increased.It is probably due to the different stretching effects induced by the different loading distributions on the turbulence carried by the stator wake during migration across the rotor row and the consequent loss production mechanisms [21].
+
+A further analysis has been carried out by considering pitch-wise mass averaged quantities,in order to obtain a more quantitative evaluation of the total pressure losses of the blade row for the three incidence angles.Fig.6 shows the pitch-wise mass averaged total pressure coefficient $c _ { p t r }$ . It can be observed that,even though it does not rigorously provide estimation of losses due to the displacement of streamline across the rotor passage,the peaks in the hub $( r / h \leq 1 . 5 )$ and tip $( r / h > 2 . 2 )$ regions are due to the presence of secondary flows.The three distributions are almost similar for all the three incidence angles.The differences between the three conditions are mainly confined to the tip region: the tip leakage vortex jointly with the passage and the horseshoe vortices acts generating the largest amount of losses,which increase for the highest incidence angle tested $( + 6 ^ { \circ } )$ .Indeed, the higher the blade loading on the tip section (which has been found to be characterized by the greatest sensibility to the incidence angle variation) the stronger the tip leakage vortex,and consequently the flow non-uniformity and losses.The overall losses shown in Fig.7 make evident the growing trend of losses when the incidence angle is increased, reaching a value larger than $5 \%$ for $i = + 6 ^ { \circ }$ ：
+
+![](images/d1d98f907af62f78da40c57337783981de087e5062908a1b0c29ce2871b9b8b1.jpg)  
+Fig.5Relative total pressure coefficient distributions downstream of therotor forthe diferent rotor incidence angles
+
+![](images/b0bb629437fae099d8d75b288928532968838888341be888d0d8d7d427f48676.jpg)  
+Fig.6Pitchwise-averaged relative total pressure coefficient
+
+![](images/b4c8839d84ccd236a29e38e3c97f1607b07789d22828a2760af86ae8f06f0181.jpg)  
+Fig.7Total pressure loss coefficient made non-dimensional by the nominal value
+
+# TimeDependentFlowField
+
+To investigate the flow structures generated by the rotor,a phase-locked analysis of hot-wire data has been considered.The phase-locked three-dimensional investigations here reported allow the analysis of the unsteady flow field at rotor exit section looking in two different orthogonal traverses:a radial one and a circumferential one,sampled respectively with a measuring grid of 22 and 15 points.Space-time contour plots of phase-locked relative velocity $\langle { \boldsymbol w } \rangle$ ，and the phase-locked turbulence intensity $\langle T u \rangle$ allow the analysis of the wake-boundary layer interaction effects on the flow at midspan in the circumferential traverse.On the other hand the timevarying radial distribution of the same quantities at a fixed circumferential position allows the analysis of the rotor wake structure in the spanwise direction.
+
+In Fig.8 the normalized circumferential probe position in the absolute frame of reference $\vartheta / \Delta \vartheta$ is plotted on the horizontal axis,while the normalized time scale $t / T$ is plotted on the vertical one,with $T$ representing one blade passing period. The rotor wakes appear as inclined stripes oflow velocity and high Tu due to the relative motion between the probe and the rotor. The rotor wake suction side can be identified on the lower side of the inclined stripe,while the pressure side is on the upper side.Fig.8a 8b,and 8c represent the three incidence angles tested from the lowest (on the left) to the highest (on the right). In each of them the blue inclined stripe is associated to the velocity defect of the rotor wake. The higher incidence angle causes a larger momentum defect due to the increased aerodynamic blade loading.
+
+Figures 8e,8f,and $8 \mathrm { g }$ show the phase-locked turbulence intensity measured in the circumferential traverse at midspan for the three incidence conditions.Again,it is possible to see the rotor wake characterized by the high values of $T u$ along the inclined stripes.Moreover, the large $T u$ cores at fixed circumferential position denote the presence of the stator wakes, since they are not moving in the absolute frame.In particular the stator wake is located at $0 . 1 < \vartheta / \Delta \vartheta < 0 . 5$ for $i = - 4 ^ { \circ }$ ,at $0 . 0 5 < \vartheta / \Delta \vartheta < 0 . 3 5$ for the nominal incidence and at $0 . 6 < \vartheta / \Delta \vartheta < 1$ for $i = + 6 ^ { \circ }$ It appears in a different pitchwise position due to the different incidence angle and thus due to the different way in which they are chopped,bowed,stretched and then convected through the blade passage. The largest values of $T u$ associated to the stator wake appear closer to the suction side of the rotor wake as a consequence of the pressure gradient which pushes the wake towards the suction surface of the blade during its advection inside the passage [7].
+
+The wake-wake interaction occurs in correspondence to the largest value of $T u$ (redlevel in the plots). This is also confirmed by the phase-locked velocityplots.Indeed the region affected by the interaction is characterized by two effects:an overshoot of velocity in the bulk (for the potential flow region) due to the effects of the accelerating part of the negative jet brought on by the stator wake, as well as a larger velocity defect within the wake [22, 23].Moreover, the larger the aerodynamic loading induced by the incidence angle, the larger the turbulence intensitypeaks in the stator wake as can be seen from the figures.This is due to the mechanism of the stator wake convection through the rotor passage [21].
+
+Since Fig.8 only shows the flow field at midspan,a radial traverse has been also carried out to analyze the radial development of the rotor wake structure. Fig.9 shows the phase-locked relative velocity and turbulence intensityradialdistributions.Dataareobtainedatafixed circumferential position between two vane wakes. The value of the rotor pitch $\Delta \vartheta _ { r }$ is directly linked to the blade passing period $T$ and the peripheral velocity. The phaselocked relative velocity color plots clearly show the rotor wake by the green regions between $1 . 6 < r / h < 2$
+
+The left side of the wake is the pressure side,while the right part is the suction side. The wake appears bowed and leaned due to the strong three dimensional geometry of the blade.The lowest values of $\langle { \boldsymbol { w } } \rangle$ are in the hub and tip regions due to the secondary flow structures. Close to the hub,the secondary vortices occupy a more limited region of the pitch but with larger velocity defects,whereas in the tip region they are smeared for almost the whole pitch due to the strong effects of the tip vortex and its interaction with the secondary structures.The same considerations can be made on the turbulence intensity color plots.
+
+It is clearly evident that the higher the incidence angle the larger the secondary flow structures.Looking at the hub region of Fig.9d $( i = – 4 ^ { \circ } )$ they extend for values of $r / h$ $< 1 . 6$ ，while for the highest incidence (Fig.9c） they extend up to values of $r / h > 1 . 6 5$ . It is worth noting that at $r / h \approx 1 . 5$ a peak of high $T u$ appears within the hub secondary flow region forall the conditions tested,and itis denoted by a small red dot.It becomes larger with increasing the incidence angle.This isprobablyassociated to the rotor passage vortex. All the rotor secondary structures grow for high incidence angles,and the largest difference can be observed in the tip region where the strongest vortex-vortex interaction takes place.Indeed, for $i = + 6 ^ { \circ }$ the secondary vortices occupy a wider portion of the pitch,with respect to the case of $i = - 4 ^ { \circ }$ . On the contrary, the wake is not as much affected by relevant differences as the tip region. Indeed,as already commented aboutFig.6 and confirmed by the time dependent plots, the increase of losses is mainly due to the secondary structures in the tip region rather than in the twodimensional flow region.
+
+# Conclusions
+
+The three-dimensional flow field of an innovative rotor blade row installed in a single stage,large-scale axial research turbine has been experimentally analyzed.Measurements have been performed for three different incidence angles at a fixed Reynolds number.The facility has been endowed with a hollow shaft to allow the arrangement ofa Scanivalve,and apressure transducer in order to measure the aerodynamic loadings of the rotor blades at three spanwise locations. The static pressure coefficients showed anaft-loaded distributionand an increase of the aerodynamic loading in the accelerating part of the blade when the incidence angle is increased, especially in the tip region. Conversely the diffusive part of the suction side was practically unaffected by the incidence angle variation. Total pressure measurements upstream and downstream of the rotor row allowed the evaluation of the aerodynamic performance of the blade,highlighting the flow regions that produce losses.
+
+![](images/0392f185997ce03ab54e1c5da3b72b0483a9d9164a055fc5c37b5b7d36b17aa7.jpg)  
+Fig.8Time dependent phase-lcked relative velocity distributionsand phase-locked turbulence intensity at midspan
+
+![](images/ed8eb66059d20384a0b63f630f6e325e47df5c6d0afae7f4edde568a9f678e2f.jpg)  
+Fig.9Phase-lockedrelativevelocityandturbulenceintensitydistributionsforafixedcircumferentialpositionat therotoroutlet
+
+It is worth noting that in these results rotor wake and secondary flows are smeared out due to the low probe frequency response.However, the relative total pressure coefficient color plots showed significant circumferential and radial non-uniformities due to the stator wake and secondary flow structures after their migration across the rotor row. The stator wake appeared as a region of large losses,which became evidently higher and larger increasing the incidence angle.Secondary flow structures associated to the stator have been more clearly identified in the hub region rather than in the shroud one.This is due to the strength of the tip leakage vortex of the rotor that increases the mixing process and consequently contributes to smear out the stator structures.The higher the incidence angle the higher this effect since the tip vortex becomes stronger. To analyze the rotor wake and the rotor secondary flow structures,hot wire measurements have been also performed. The phase-locked relative velocity and turbulence intensity have been investigated in two orthogonal traverses to analyze both wake-boundary layer interaction effects on the flow at midspan and whole rotor wake structure throughout the spanwise direction.
+
+Results at midspan clearly highlighted the unsteady interaction between the high turbulent core caused by the stator wake during its migration throughout the blade row. and the rotor wake.This interaction provokes a local enlargement of the velocity defectin the rotor wake as well asahigh Tu level due to the earlier transition in the rotor suction side boundary layer. Rising the incidence angle the momentum defect and the turbulence intensity peak becomes larger. Moreover, from the radial distribution it was possible to observe the whole rotor wake and secondaryflows.The tipvortexhasbeenclearlyhighlighted bylarge velocity defect cores as well as by a large turbulence activity. For the highest incidence angle the secondary flows in the hub region and the tip leakage vortex, which represent the major source of the increment of losses,become stronger, further supporting the time mean total pressure results.
+
+# Acknowledgements
+
+This activity has been carried out in the frame of the European research project ITURB,and has been funded by the European Community's Seventh Framework Programme (FP7/2007-2013) for the Clean Sky Joint Technology Initiative under grant agreement $\scriptstyle { \mathrm { \mathtt { n } } } ^ { \circ }$ [323301]. The authors gratefully acknowledge their partners for permitting the publication of the present results.
+
+# References
+
+[1]Denos, R., 20o2.“Influence of temperature transients and centrifugal force on fast-response pressure trans- ducers". Experiments in fluids,33(2), pp.256-264.   
+[2]Valenti,E.，Halama,J.,Denos,R.，and Arts，T.,2002. “Investigation of the 3D unsteady rotor pressure field in a HP turbine stage". In ASME Turbo Expo 2002: Power for Land,Sea,and Air,American Society of Mechanical Engineers,Amsterdam, The Netherlands,pp.383-392.   
+[3]Denos,R., Sieverding, C., Arts,T., Brouckaert, J., Paniagua, G.,and Michelasi, V.,1999.“Experimental investigation of the unsteady rotor aerodynamics of a transonic turbine stage".Proceedings of the Institution ofMechanical Engineers, Part A: Journal of Power and Energy, 213(4), pp. 327-338.   
+[4]Dénos，R.，Arts,T.，Paniagua,G.，Michelassi,V,and Martelli, F., 2001.“Investigation of the unsteady rotor aerodynamics in a transonic turbine stage". Journal of Turbomachinery, 123(1), pp. 81-89.   
+[5]Schroder, T., 1991.“Investigations of blade row interaction and boundary layer transition phenomena in a multistage aero engine low-pressure turbine by measurements with hot-film probes and surface- mounted hotfilm gauges". Lecture series-von Karman Institute for fluid dynamics, 6, pp. B1-B46, Brussels, Belgium.   
+[6]Walker,G.,Hodson, H.,and Shin,H.,1997.“Boundary layer development in axial compressors and turbines: Part 3 of 4,LP turbinesl".Journal of turbomachinery,119, p. 225.   
+[7]Hodson, H.P.,and Howell,R.J.,2005.“The role of transition in high-lift low-pressure turbines for aero- engines". Progress in Aerospace Sciences, 41(6), pp. 419-454.   
+[8]Satta,F., Simoni, D.,Ubaldi,M., Zunino,P.,and Bertini, F.,2010.“Experimental investigation of separation and transition processes on a high-lift low- pressure turbine profile under steady and unsteady in- flow at low Reynolds number. Journal of Thermal Science,19(1), pp. 26-33.   
+[9] Arndt, N.,1993.“Blade row interaction in a multi- stge low-pressure turbine". Journal of turbomachinery,115(1), pp. 137-146.   
+10]Pullan,G.,2Oo6.“Secondary flows and loss caused by blade row interaction in a turbine stage".Journal of turbomachinery,128(3), pp. 484-491.   
+11]P.Chaluvadi,V.,Kalfas,A.,Banieghbal,M.,Hodson,H., and Denton, J., 2001.“Blade-row interaction in a highpressure turbine". Journal of Propulsion and Power, 17(4), pp. 892-901.   
+12]Schlienger, J., Kalfas,A.,and Abhari,R.,20o5,“Vortexwake-blade interaction in a shrouded axial turbine". Journal of Turbomachinery,127(4), pp. 699-707.   
+13]Gaetani, P.，Persico, G.，Dossena,V.,and Osnaghi, C., 2007.“Investigation of the flow field in a high-pressure turbine stage for two stator-rotor axial gaps, part I: Threedimensional time-averaged flow field". Journal of turbomachinery,129(3), pp.572-579.   
+[14]Gaetani, P., Persico,G.，Dossena, V., and Osnaghi, C., 2007.“Investigation of the flow field in a high-pressure turbine stage for two stator-rotor axial gaps,part I: Unsteady flow field". Journal of turbo- machinery,129(3), pp.580-590.   
+[15] Lengani, D., Paradiso, B., and Marn, A., 2012.“A method for the determination of turbulence intensity by means of a fast response pressure probe and its application in a LP turbine". Journal of Thermal Science, 21(1), pp. 21-31.   
+[16] Lengani, D.，Paradiso,B.，Marn，A.，and Gotlich E., 2012.“Identification of spinning mode in the un- steady flow field of a low pressure turbine". Journal of Turbomachinery,134(5),Paper. 051032.   
+[17]Canepa,E.,Formosa,P.,Lengani, D., Simoni,D., Ubaldi, M.,and Zunino, P., 20o7.“Influence of aero- dynamic loading on rotor-stator aerodynamic inter- action in a two-stage low pressure research turbine".Journal of Turbomachinery,129(4), pp. 765-772.   
+[18]Marconcini, M.,Rubechini,F.,Pacciani, R.,Arnone,A, and Bertini,F.,2012.“Redesign of high-lift low pressure turbine airfoils for low speed testing". Journal of Turbomachinery,134(5), p. 051017.   
+[19]Perdichizzi, A., Ubaldi, M.,and Zunino,P.,1990.“A hot wire measuring technique for mean velocity and Reynolds stress components in compressible flow". In Proceedings of the 1Oth Symposium on Measuring Techniques for Transonic and Supersonic Flows in Cascades and Turbomachines,Brussels,Belgium.   
+[20]Infantino,D., Satta,F., Simoni, D., Ubaldi, M.,Zunino,P. and Bertini，F.，2015,“Phase-locked Investigation of Secondary Flows Perturbed by Passing Wakes in a HighLift LP Turbine Cascade”, Proceeding of ASME TurboExpo 2015.Hyderabad,India,GT2015-42480.   
+[21]Simoni,D.，Berrino,M.，Ubaldi，M.， Zunino,P.，and Bertini, F.，2015.“Of-design performance of a highly loaded low pressure turbine cascade under steady and unsteady incoming flow conditions”.Journal of Turbomachinery,137(7),Paper. 071009.   
+[22]Howell, R.,Hodson, H., Schulte, V., Schiffer, H.-P., Haselbach, F.,and Harvey, N., 2001.“Boundary layer development in the BR71O and BR715 LP turbines: The implementation of high lift and ultra-high lift concepts". In ASME Turbo Expo 2001: Power for Land, Sea,and Air,American Society of Mechanical Engineers,New Orleans, USA,Paper No.2001-GT-0441.   
+[23]Satta,F., Simoni, D., Ubaldi, M., Zunino,P., Bertini, F., and Spano,E.， 2009. Time-varying flow at the exit of highly loaded LP turbine linear cascade under unsteady flow conditions.Proceeding of the 8th European Turbomachinery Conference, Graz.

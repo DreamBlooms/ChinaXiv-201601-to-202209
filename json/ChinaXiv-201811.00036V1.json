@@ -1,0 +1,633 @@
+[
+    {
+        "type": "text",
+        "text": "明沟排水条件下的土壤水盐运移模拟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李开明，刘洪光，石培君，李鑫鑫(石河子大学水利建筑工程学院,石河子大学现代节水灌溉兵团重点实验室,新疆 石河子832000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于新疆生产建设兵团农八师122 团盐碱地排水沟的排水试验,通过控制田间灌溉,监测田间土壤盐分变化,并建立HYDRUS 数值模型,模拟分析了明沟排水条件下盐碱地棉花一个生育周期内盐分变化情况。结果表明：$0 \\sim 8 0 ~ \\mathrm { c m }$ 土层平均脱盐率达到了 $5 0 . 0 9 \\%$ · $8 0 \\sim 2 0 0 ~ \\mathrm { c m }$ 土层盐分总量基本保持不变， $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 盐分整体下降约$2 5 \\%$ ;距明沟的距离越近,排盐的效率越高;数值模型模拟值与实测值较吻合，可以较好地反应试验的真实情况。该研究结果可为干旱、半干旱地区盐碱化治理提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：膜下滴灌；明沟排水；土壤水盐运移；数值模拟；新疆生产建设兵团",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于新疆资源性缺水，且时空分布不均，特别是近50年水土资源的不合理开发和利用，已引发了灌区一系列的环境生态问题[1。新疆从20 世纪90 年代开始使用膜下滴灌技术，该技术可以湿润根系层，使得根系层暂时脱盐，有利于作物正常出苗，但是膜下滴灌只是调节土壤盐分在土层的分布情况，没有将盐分排除在农田以外，由于作物根系吸水和水分蒸发，会带动盐分上移，存在土壤积盐返盐威胁[2-6]。另外,灌区灌溉系统不够完善,灌溉技术比较粗放，不合理的灌溉制度使地下水位升高，地下水位长期维持在临界深度以上，强烈的蒸发作用使表层积盐[7-8]。据统计,新疆盐碱土总面积约 $2 . 1 8 \\times$ （204号$1 0 ^ { 7 } ~ \\mathrm { h m } ^ { 2 }$ ,占全国盐碱土面积的 $2 2 . 0 1 \\%$ ；耕地面积约$4 . 0 7 \\times 1 0 ^ { 6 } \\ \\mathrm { h m } ^ { 2 }$ ,受不同程度盐渍化危害耕地面积达（204 $1 . 2 3 \\times 1 0 ^ { 6 } ~ \\mathrm { h m } ^ { 2 }$ ，占 $3 0 . 1 2 \\%$ 左右[9-10]。为了使农作物达到高产、质优的效果，根据“盐随水来，盐随水去”的水盐运移规律，农田的盐渍化问题需要采取相应的排水方法。目前，人们采用的排水方法有明沟排水、暗管排水、竖井排水、鼠道排水、盲沟排水等方法,以明沟排水、暗管排水最常见[11]。明沟排水是开挖开式沟渠排除农田多余水分的工程技术措施，它能迅速排走洗盐水，提高冲洗效果，防止冲洗地段及其周围地下水位升高[12-13]。而且,明沟排水适应范围广、修建易、投资少，今后仍可以长期广泛应用[14]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤水盐运移模型起始于土壤水分运移模型，即均质土壤中水分的渗流模型（Darcy定律）。Rich-ards通过Darcy定律，推导出非饱和土壤水分在多孔介质条件下的土壤水运动基本方程。Lapidus 和Amundson，Nielsen和Biggar通过试验研究，在土壤水盐运移过程中，分析了弥散、对流和扩散三者共同作用对溶质通量的影响[15-16]。随着对土壤中水盐运移、养分、污染物迁移等方面研究的不断深入，众多学者在力求揭示土壤水盐运移规律的同时，建立各种水盐模型来定量分析水盐的运移，以预报农田土壤水盐动态变化过程(17-18]。目前,国内外应用较为广泛的几种土壤水盐运移模型有HYDRUS 模型、WAV-ES模型、PROFLOW模型、2DFATMIC模型等。其中，HYDRUS用于模拟非饱和多孔介质中水分、能量、溶质运移的数值模型[19],能够较好地模拟水分、溶质与能量在土壤中的分布，时空变化，运移规律，分析人们普遍关注的农田灌溉、田间施肥、环境污染等问题，同时也可以与其他地下水、地表水模型相结合,从宏观上分析水资源的转化规律[20]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文选择在新疆生产建设兵团农八师122团一处地下水位季节性升高、土壤盐渍化严重的区域，研究在膜下滴灌条件下，明沟排水对棉田水盐运移产生的影响，并利用HYDRUS 模型对该盐碱地农田土壤水盐运移进行模拟，将田间水盐实测资料与模拟值进行对比，分析出盐碱地棉花一个生育周期内盐",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分变化情况。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验区位于新疆生产建设兵团农八师122团，地理坐标 $4 4 ^ { \\circ } 3 7 ^ { \\prime } \\sim 4 4 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { N }$ $8 5 ^ { \\circ } 2 7 ^ { \\prime } \\sim 8 5 ^ { \\circ } 4 1 ^ { \\prime } \\mathrm { E }$ （图",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1)。试验区年平均日照时数 $2 ~ 8 6 1 . 6 \\mathrm { ~ h ~ }$ ,夏季炎热，冬季寒冷，极端最高气温达 $4 3 . 1 ~ \\mathrm { { ^ { \\circ } C } }$ ,极端最低气温达 $- 4 2 . 3 \\ \\mathrm { \\mathcal { C } } \\ , 9 \\ . 1 0$ 月份降温迅速，冬季较长，春秋季较短，昼夜温差大，光热资源丰富，年均降水量$1 4 1 . 8 ~ \\mathrm { m m }$ ,年均潜在蒸发量 $1 ~ 8 2 6 . 2 ~ \\mathrm { m m }$ 。试验区地势平坦，盐碱化现象严重，土壤质地基本属于沙壤土。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6017d59bfae7f3ccea270e51ae78eb1a7e58f1ddae1435c2aabb6fe5acc86d41.jpg",
+        "img_caption": [
+            "图1研究区域位置示意图",
+            "Fig.1Geographical location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验区运用明沟排水系统，明沟由斗沟与农沟组成，二者互相垂直，斗沟的作用是控制地下水位与传输农沟水流，农沟集水并汇流到斗沟，其间距为$4 8 \\mathrm { ~ m ~ }$ 。灌溉水取自玛纳斯河西岸大渠，试验区与大渠之间有一条隔水沟，其作用是降低地下水位，减缓大渠对试验区地下水位的影响，试验地剖面见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa4c1d8532abccc6dd5753771762527ccd74e3f6df7a586ad1fb8684b14d02c9.jpg",
+        "img_caption": [
+            "图2试验地剖面图Fig.2Profile of the test area"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据观测井资料，试验区地下水位深度在灌溉季节(4一10月)的波动范围是 $1 . 7 5 \\sim 2 . 1 \\mathrm { ~ m ~ }$ ，非灌溉季节地下水位深度均在 $2 . 2 \\mathrm { ~ m ~ }$ 以下(表1)。该试验种植作物为棉花，采用膜下滴灌，灌溉制度如表2所示。新疆冬季积雪于4月上旬融化，土壤上层的含水率基本处于饱和状态。为了研究排盐效果随距排水沟距离不同的变化情况，分别在距沟边缘8、$1 6 . 2 4 \\mathrm { ~ m ~ }$ (图3)处设置取样点进行取样，分析土壤盐分变化，取样点均在膜下。2012年10月，在大田中开挖明沟，其中农沟沟底深度为 $2 . 2 \\mathrm { ~ m ~ } , 2 0 1 3$ 年取样3次，取样的时间考虑灌溉周期与作物生理期，分别设定为2013年5月25日，2013年7月20日和2013年9月30日。取样时用麻花钻从地表开始，每隔 $2 0 ~ \\mathrm { c m }$ 取样1次，取样的最终深度取决于地下水位的高度，直至所取土样在自重条件下溅水为止。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea9c8f41cd45490b1e23951d48ffa15adaeffcbe1a978263bcddb880d6b38ff9.jpg",
+        "table_caption": [
+            "表12013年各月份地下水位Tab.1Monthly groundwater level in 2013"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>月份</td><td>地下水位/m</td></tr><tr><td>4</td><td>2.1</td></tr><tr><td>5</td><td>1.85</td></tr><tr><td>6</td><td>1.75</td></tr><tr><td>7</td><td>1.75</td></tr><tr><td>8</td><td>1.78</td></tr><tr><td>9</td><td>1.85</td></tr><tr><td>10</td><td>1.9</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/289a7d19b0f72b9822781ff3f79a1f04c199b5d3e483eb49d91bb17ce4090cfb.jpg",
+        "table_caption": [
+            "Tab.2Irrigation system of the test area "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>灌水日期/月－日</td><td>灌水定额/(m·hm-²)</td></tr><tr><td>04-20</td><td>1 800</td></tr><tr><td>05-01</td><td>600</td></tr><tr><td>06-01</td><td>600</td></tr><tr><td>06-21</td><td>600</td></tr><tr><td>06-31</td><td>600</td></tr><tr><td>07-11</td><td>600</td></tr><tr><td>07-21</td><td>600</td></tr><tr><td>07-31</td><td>600</td></tr><tr><td>08-11</td><td>600</td></tr><tr><td>08-21</td><td>600</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/61bf7728c55cb15fae0834dc0db727bad6d7b701bb106dbddf6f431bbbf2ecc6.jpg",
+        "img_caption": [
+            "图3取样点示意图 Fig.3Distribution of sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 数值模拟 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ad7f7a23d38772971bbe428741568c6b2b901ca2945916b218d0a18c4af3160.jpg",
+        "table_caption": [
+            "表2试验区灌溉制度"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土质</td><td>0</td><td>0</td><td>a/cm-1</td><td>n</td><td>K/(cm·d-1)</td><td>l</td></tr><tr><td>沙壤土</td><td>0.065</td><td>0.41</td><td>0.075</td><td>1.89</td><td>106.1</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型建立：用HYDRUS 软件模拟2013 年的土壤盐分运移情况，模型模拟地下 $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 深度范围的土壤，平均分成10层，每层厚 $2 0 \\ \\mathrm { c m }$ 。模拟时段从2013年4月20日至9月30日，共计163d，采用变时间步长剖分方式，据收敛迭代次数调整时间步长[21]。初始时间步长为0.005d,最小时间步长为0.0005d,最大时间步长为 $0 . 5 \\mathrm { ~ d ~ }$ 。将最大迭代次数设为10，土壤含水量容许偏差设为0.001，压力水头容许偏差设为 $1 \\ \\mathrm { c m }$ ，土壤水分特征曲线模型采用软件默认的VanGenuchten-Mualem模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型边界：模型的上边界条件由膜下滴灌覆膜区、滴头和膜间裸地以及明沟组成，覆膜区设为零通量边界，膜间裸地设为大气边界，滴头区设为可变流量1边界，明沟区设为渗透边界。左、右边界和下边界均设为零通量边界。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据实测土壤粒径，试验区土壤为沙壤土，结合HYDRUS模型中的Rosseta模块，率定土壤特征参数初值(表3）。软件模拟的是膜下滴灌，且降雨量很小，在覆膜区蒸发和降雨对水盐运移影响较小，皆可忽略。本文利用穿透曲线法测得不同时间土柱内流出液体的氯离子浓度，用坐标轴法初步计算出水动力学弥散系数，然后使用实测值反演确定出水动力学弥散系数（表4）。根据前人研究过程中[22的调参结果，棉花根系吸水参数见表5。在棉花的整个生育期内，土壤的饱和含水率、残余含水率以及弥散系数等参数均不变，故在数值模型中各个参数设置为固定不变。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4模型的基本方程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设试验土壤均质且为各向同性，在垂向上设置各个土层的初始含盐量(表6)，考虑作物根系吸",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3土壤特征参数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注： $\\theta _ { r }$ 表示土壤剩余体积含水率； $\\theta _ { s }$ 表示土壤饱和体积含水率； $\\alpha$ 表示与土壤物理性质有关的参数； $n$ 表示经验系数； $K _ { s }$ 表示土壤饱和导水率；l表示孔隙关联度参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a37e5e6e9c045a4bcf4b655cdd706714a0cded4e502e172d86e487e68b3f1cb.jpg",
+        "table_caption": [
+            "Tab.3Characteristicsparameters of soil "
+        ],
+        "table_footnote": [
+            "注：DispL为纵向弥散系数;DispT为横向弥散系数。"
+        ],
+        "table_body": "<html><body><table><tr><td>土质</td><td>DispL</td><td>DispT</td></tr><tr><td>沙壤土</td><td>20</td><td>4</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/07bd351f15dfaf5f7f8425d756d9fb88bfa0bdd7f9549877497c39dcc7124b8e.jpg",
+        "table_caption": [
+            "Tab.4Hydrodynamic dispersion coefficient ",
+            "表5Feddes 根系吸水参数",
+            "Tab.5Water absorption parameters of roots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>PO/Pa</td><td>P0pt/Pa</td><td>P2H/Pa</td><td>P2L/Pa</td><td>P3/Pa</td></tr><tr><td>-10</td><td>-25</td><td>-200</td><td>-600</td><td>-14 000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：P0为土体空隙被水完全充满时对应的负压值； $\\mathrm { P 0 p t }$ 为土壤毛管上升水达到最大量时对应的负压值;P2为土壤毛管水因地表蒸发和作物吸收发生断裂时对应的负压值;P3为作物产生永久凋萎时对应的负压值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表6各土层平均初始含盐量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d823853b589fc94c0db27a4def6ab64069a6b6fd27a37b24553b0686b99a8c6.jpg",
+        "table_caption": [
+            "表4水动力学弥散系数",
+            "Tab.6The average initial salt content in different soil layers "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层深度/cm</td><td>初始含盐量/（g·kg-1）</td></tr><tr><td>0~20</td><td>24</td></tr><tr><td>20~60</td><td>20</td></tr><tr><td>60 ~100</td><td>16</td></tr><tr><td>100~140</td><td>14</td></tr><tr><td>140 ~160</td><td>12</td></tr><tr><td>160 ~200</td><td>11</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水，方程描述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1土壤水分运移方程",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\theta ( h ) } { \\partial t } = \\frac { \\partial } { \\partial x } \\left[ K ( h ) \\frac { \\partial h } { \\partial x } \\right] + \\frac { \\partial } { \\partial z } \\left[ K ( h ) \\frac { \\partial h } { \\partial z } \\right] + \\frac { \\partial K ( h ) } { \\partial z } - S\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\theta \\bigl ( h \\bigr )$ 为土壤体积含水率, ${ \\mathrm { c m } } ^ { 3 } \\cdot { \\mathrm { c m } } ^ { - 3 } ; h$ 为压力水头 $\\mathrm { { c m } } ; K ( h )$ 为非饱和土壤导水率, $\\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ ：$\\mathbf { \\Phi } _ { t }$ 为时间； $x$ 为横向坐标; $z$ 为垂向坐标;规定 $z$ 向上为正； $s$ 为源汇项，此处表示根系吸水率，即根系在单位时间内由单位体积土壤中所吸收水分的体积， $\\textrm { d } ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 土壤水力函数vanGenuchten公式",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { e } = \\frac { \\theta ( h ) - \\theta _ { r } } { \\theta _ { s } - \\theta _ { r } } = \\left( 1 + \\mid \\alpha h \\mid ^ { n } \\right) ^ { - m }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK ( \\theta ) = K s \\theta _ { e } ^ { l } \\left[ 1 - \\left( 1 - \\theta _ { e } ^ { \\frac { 1 } { m } } \\right) ^ { m } \\right] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $K s$ 为土壤饱和导水率, $\\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 } ; \\theta _ { e }$ 土壤相对饱和度； $\\theta _ { r }$ 为土壤剩余体积含水率; $\\theta _ { s }$ 为土壤饱和体积含水率； $n , m , \\alpha$ 均为经验参数。其中 $m =$ $1 - \\frac { 1 } { n } , \\alpha$ 是与土壤物理性质有关的参数; $l$ 为孔隙关联度参数，通常取平均值0.5。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3模型的盐分运移基本方程",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\partial \\left( \\theta c \\right) } { \\partial t } = \\frac { \\partial } { \\partial x _ { i } } \\left[ \\theta D _ { i j } \\frac { \\partial c } { \\partial x _ { i } } \\right] - \\frac { \\partial \\left( q i c \\right) } { \\partial x _ { i } } - S C s\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { \\mathbf { \\mathit { c } } }$ 为溶质浓度， $\\mathrm { ~ \\bf ~ g ~ } \\cdot \\mathrm { ~ \\bf ~ c m ~ } ^ { - 3 }$ $q i$ 为人渗率， $_ \\mathrm { c m } \\cdot { }$ （204号$\\textrm { d } ^ { - 1 } \\{ { D } _ { i j }$ 为弥散系数， $\\mathrm { c m } ^ { 2 } \\cdot \\mathrm { d } ^ { - 1 } ; x _ { i }$ 为空间坐标( $i = 1$ ，2）， $x _ { 1 } = x , x _ { 2 } = z , D _ { 1 1 } = D _ { x x }$ $D _ { 1 2 } = D _ { _ { x z } }$ $C s$ 为汇项盐分含量， $\\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.4根系吸水采用修正的Feddes模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$S ( h , h _ { \\varphi } , x , z ) = \\alpha ( h , h _ { \\varphi } , x , z ) \\ : b ( x , z ) S _ { t } T _ { p }$ (5)式中： $\\alpha ( h , h _ { \\varphi } , x , z )$ 为土壤水盐胁迫函数; $h _ { \\varphi }$ 为渗透压力， $\\mathrm { c m } ; b ( x , z )$ 为根系分布函数， $\\mathrm { c m } ^ { - 2 } { \\ : } ; S _ { { t } }$ 为与蒸腾关联的地表长度， $\\mathrm { c m } ; T _ { p }$ 为潜在蒸发速率, $\\mathrm { c m } \\cdot \\mathrm { d } ^ { - 1 }$ O",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1盐分实测数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将取回的土样按1:5的土水比用DDS-11A型（上海雷磁)数显电导率仪所测的 $E C$ 值经EXCEL拟合公式进而转化为含盐量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4可知， $0 \\sim 8 0 ~ \\mathrm { c m }$ 深度范围内，随着土层深度的增加，土壤盐分含量减少的速率呈逐渐下降的趋势； $8 0 \\sim 2 0 0 ~ \\mathrm { c m }$ 深度范围内，随着土层深度的增加，土壤盐分含量的总体趋势为下降，但由于初始含盐量的影响，最终形成上层和下层土壤含盐量较少，中间含盐量较大的分布情况。这是因为灌水后土壤上层的盐分会随着水流运动向下迁移，随着土壤深度的增加盐分运移对土壤含盐量变化的影响程度会变小。图4所示，随着时间的延长，上层土壤的含盐量并未呈现出逐渐下降的趋势，而是呈现先下",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { - 0 1 3 - 0 5 - 2 5 \\_ } \\mathbf { - 6 - } 2 0 1 3 \\mathbf { - } 0 7 \\mathbf { - } 2 0 \\mathbf { \\ - } \\mathbf { \\dot { \\alpha } } \\mathbf { - } 2 0 1 3 \\mathbf { - } 0 9 \\mathbf { - } 3 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8746194e00b1ec3d2b1b208c0064468148d5843b422316f6e86c3a9a3b587ba.jpg",
+        "img_caption": [
+            "土壤含盐量 $/ ( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b28e9f5af6be02cad9ecd160a6cc8b0c621ae3bdf8cc091225d09149798f6634.jpg",
+        "img_caption": [
+            "土壤含盐量 $/ ( \\mathbf { g } \\cdot \\mathbf { k } \\mathbf { g } ^ { - 1 } )$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/54650afa0d96df551b3ef0bfcf91cadd2a9ea3661d8c5cce6bc6f9500e2d88b0.jpg",
+        "img_caption": [
+            "图4明沟排水下盐分分布特征 Fig.4Salt distribution under ditch Drainage "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "降(5月25日至7月20日）后增加（7月20日至9月30日)的趋势。5月25日和7月20日土壤盐分含量的分布为，上部土壤含盐量小，下部土壤含盐量大，而9月30日则相反。这是因为本研究是在膜下滴灌的节水条件下进行的，加上该地区气候干旱，蒸发强烈，人为的灌溉和覆膜改变了农田水分循环。因此,在夏季灌水多，覆膜又抑制了蒸发，土壤盐分通量明显向下，形成夏季以洗盐为特征的分布曲线；到了秋季，灌水少，蒸发强，形成了上部土壤含盐量大,下部土壤含盐量小的返盐特征曲线[23]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2 土壤总盐变化分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "明沟排水工程在不同土壤深度总盐含量理论计算公式可采用下式：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = \\int _ { 0 } ^ { x } f ( x ) \\mathrm { d } x\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\smash { \\operatorname { \\cdot } f ( x ) }$ 为土壤各深度盐分含量函数; $x$ 为不同深度土壤质量（g）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验采用分层取样的方式，在分析时，以每20$\\mathrm { c m }$ 深度为单位(总共10组)对 $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 深度范围内土体总累计含盐量进行计算（图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，5月25日与4月15日相比，土体总累积含盐量分别下降了 $3 0 . 2 9 \\%$ （ $8 \\mathrm { ~ m ~ }$ ） $, 1 5 . 2 7 \\%$ （ $| 1 6 \\mathrm { ~ m } \\rangle$ 0 ${ \\cdot 6 . 2 1 \\% }$ （ $2 4 \\mathrm { ~ m ~ }$ ）；7月20日与5月25日相比,土体总累积含盐量分别下降了 $5 . 0 1 \\%$ （ $8 \\mathrm { ~ m ~ } _ { \\cdot }$ ）、$2 . 4 0 \\%$ ( $1 6 \\mathrm { ~ m ~ }$ ） $, 2 . 3 1 \\%$ （ $2 4 \\mathrm { ~ m } \\dot { }$ ）；9月30日与7月20日相比，土体总累积含盐量分别下降了 $3 . 3 2 \\%$ 1 $\\mathrm { ~ \\AA ~ m ~ } ,$ ） $. 1 . 8 5 \\%$ ( $1 6 \\mathrm { ~ m ~ }$ ）、 $1 . 4 9 \\%$ （ $2 4 \\mathrm { ~ m ~ }$ )。随着时间的变化 $( 2 0 1 3 - 0 5 - 2 5 \\mathrm {  } 2 0 1 3 - 0 7 - 2 0 \\mathrm {  } 2 0 1 3 - 0 9 -$ 30）， $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 深度范围内土体总累计含盐量逐渐下降。随着距明沟距离的增加（ $8 \\ \\mathrm { m } \\longrightarrow 1 6 \\ \\mathrm { m } \\longrightarrow 2 4$ m），土体总累计含盐量下降的速率变慢。这说明明沟排水排盐对盐碱地改良效果明显，且越靠近明沟，排盐的效率越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84272e85491b9aa93207b19859b0fcf1b030f19ac758d93ef7c294fbf04b66a3.jpg",
+        "img_caption": [
+            "图5土壤总盐变化特征 Fig.5Change of total soil salt content "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 盐分模拟值分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6为应用HYDRUS 模型模拟棉花一个生育周期的动画演示截图，颜色越深表示含盐量越大。从图中可知，在膜下滴灌条件下，根系层洗盐效果明显，盐分随着水分的下渗有整体下移的趋势。图7为土壤盐分模拟值与实测值的对比，模拟值与实测值基本吻合。利用均方误差（RMSE)对模拟结果的可靠程度进行验证，RMSE法可对实测值与模拟值的精度进行定量分析[24-25],其计算公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { R M S E } } \\ = \\ { \\sqrt { { \\frac { 1 } { n } } \\sum _ { \\ i = 1 } ^ { n } \\left( x _ { i } \\ - \\ y _ { i } \\right) ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { i }$ 为实测值； $y _ { i }$ 为模拟值; $n$ 为样本数。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b5c8c4bbb3c65da37c47c286db7e3ec40a7db2de44fc562e490a8bdd77331c9.jpg",
+        "img_caption": [
+            "（a）模拟3d盐分分布",
+            "图6盐分分布模拟",
+            "Fig.6Salt distribution diagram of simulation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0adc596cfc4a08bef0d4346e87324cefae8fb17265897c37b60323043830c077.jpg",
+        "img_caption": [
+            "图7土壤盐分模拟值与实测值对比",
+            "Fig.7Comparison of simulated and measured values of soil salinity "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5176e611ce65e8d2aa6b40c9ae5d7da40b2b4667ba265b3cebef09de509112ed.jpg",
+        "table_caption": [
+            "Tab.7 RMSE values of measured and simulated data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>距明沟8m</td><td>距明沟16 m</td><td>距明沟24m</td></tr><tr><td>0.663 6</td><td>0.5891</td><td>0.642 4</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表8实测值与模拟值的相关系数 $R ^ { 2 }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/43ccb112cd5744498b9287f27a286f7d4494d84d7ecb11835f682fa3952265f3.jpg",
+        "table_caption": [
+            "表7实测值与模拟值的RMSE值",
+            "Tab.8 Correlation coefficients between measured andsimulatedvalues "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>距明沟8m</td><td>距明沟16m</td><td>距明沟24m</td></tr><tr><td>0.901 3</td><td>0.970 6</td><td>0.9298</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表7和表8可知，不同距离的模拟值与实测值的RMSE 值均较小， $R ^ { 2 }$ 较大，拟合效果越好，说明各个距离的土壤盐分实测值与模拟值差异不大，参数较可靠。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "膜下滴灌技术是局部灌溉且淋洗深度有限，灌溉水与地下水未连通，也未形成深层渗漏，浅层盐分无法与深层盐分发生交换。长期膜下滴灌会造成土壤耕作层盐分积累，滴灌水携带的盐分对土壤盐分有一定的补充作用[26,增加积盐的风险。盐分变化与地下水埋深有很大的关系，据明光辉等[27]的研究，地下水浅埋条件下，若没有冬春灌和水利排盐等措施，根据灌溉水的矿化度和地下水返盐情况，田间将处于不同的积盐情况；而地下水深埋条件下，结合冬春灌，膜下滴灌可以大大减轻土壤盐碱化。以上研究均说明滴灌条件下有必要进行洗盐，而且冬春灌等方式可以形成对盐分的淋洗，降低土壤上层的盐分。本研究利用积雪融水、春灌相结合的方式，对研究区膜下滴灌棉田进行洗盐，灌水过后，上层土壤含盐量迅速减少，下层土壤含盐量在不同程度上有所增加，而 $8 0 \\ \\mathrm { c m }$ 处积盐最明显，这与许多研究结果[3,7,1,28-29]相同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "苏里坦等[30通过对膜下滴灌土壤水盐运移的试验研究，认为灌溉结束后土壤盐分呈现从深层到地表和从膜下到膜间的双向迁移趋势，并没有继续下移的趋势，未能达到洗盐排盐的效果。李明思[28）、杨鹏年[29]等进行盐碱地膜下滴灌时发现,当灌水定额足够大时，由于上层土壤盐分随着灌溉水向下迁移，土壤湿润锋处的含盐量增大的同时，上层土壤含盐量在减小。以上研究说明，滴灌只能在生育期使盐分运移到深层，而非生育期土壤盐分会向土壤表层迁移，造成土壤表层积盐的现象，盐分总量并没有减少，在地下水和灌溉水矿化度的影响下还可能造成土壤总盐增加的后果。郝爱枝[3通过对河套灌区浅明沟的研究，董稳军等[32]对南方冷浸田排水后的土壤理化性质研究都表明，农田排水使土壤脱盐效果明显。王少丽等[33据北方易受盐渍危害的渠灌区实际情况，提出利用排水进行盐渍兼治办法，并且提出地下水位分期动态控制排水理念，也与这一观点一致。本研究利用膜下滴灌技术抑制田间蒸发，在春季融雪使土壤墒情较好的条件下，春灌使田间水分与地下水连通,进而形成地下水位升高产生了排水过程。研究结果表明，明沟排水排盐的效果显著，农田中的总盐含量呈逐渐下降趋势，消除了长期使用膜下滴灌技术造成盐碱化加重的威胁。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "余根坚[21] 潘延鑫[25]等利用HYDRUS 数值模型模拟了盐碱地水盐运移规律;王在敏等[34]利用HYDRUS预测棉花生育期水盐运移规律和长期效应；孙法圣[35]、何锦[36]、张亚年等[37]运用HYDRUS模型分别研究了明渠排水、水平井排水、暗管排水条件下土壤水盐运移规律。以上研究结果表明，无论是研究水盐运动规律，还是排水排盐规律，模拟值与实测值吻合度都较高，证明了HYDRUS数值模型的可靠性。本研究也发现,运用HYDRUS 数值模型模拟膜下滴灌条件下的明沟排盐过程，模拟结果能够较好地反应真实情况，可信度较高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）膜下滴灌技术与明沟排水相结合，使土壤上层脱盐效果显著， $0 \\sim 8 0 ~ \\mathrm { c m }$ 土层平均脱盐率达到了 $5 0 . 0 9 \\%$ T $8 0 \\sim 2 0 0 ~ \\mathrm { c m }$ 土层盐分总量基本保持不变， $0 \\sim 2 0 0 ~ \\mathrm { c m }$ 土层盐分整体下降约 $2 5 \\%$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）明沟排水条件下，试验区土壤总盐9月30日比4月15日在 $8 , 1 6 , 2 4 \\mathrm { ~ m ~ }$ 取样点处分别下降了$4 1 . 3 6 \\%$ （ ${ \\it 2 0 . 2 2 \\% }$ ） $. 1 0 . 2 8 \\%$ 。说明明沟排水排盐对盐碱地改良效果明显，且越靠近明沟，排盐的效率越高。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）应用HYDRUS 模型对盐碱地农田棉花一个生育周期的水盐运移进行模拟,结果表明模型能够较好地模拟盐分在土层中的时空变化规律和分布特征，模拟数据与实测数据吻合度较高，模拟参数可靠，对干旱、半干旱地区盐碱地的治理有一定的参考价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]王少丽,杨继富,李杰,等.新疆盐渍化灌区水盐平衡现状及对策 [J].中国农村水利水电,2006(4）:12-15.[Wang Shaoli,Yang Jifu,Li Jie,et al. Status and countermeasure study on water salt balance of irrigation district with salinization in Xinjiang Province[J]. China Rural Water and Hydropower,2006(4）:12-15.] [2]田长彦，周宏飞,刘国庆.21世纪新疆土壤盐渍化调控与农业 持续发展研究建议[J].干旱区地理,2000,23（2）：177-181. [Tian Changyan,Zhou Hongfei,Liu Guoqing.The proposal on control of soil salinizing and agricultural sustaining development in   \n21's century in Xinjiang[J].Arid Land Geography,20oo,23（2）：   \n177 -181.] [3]刘新永,田长彦.棉花膜下滴灌盐分动态及平衡研究[J].水土 保持学报,2005,19(6）:82－85.[Liu Xinyong,Tian Changyan. Study on dynamic and balance of salt for cotton under plastic mulch in South Xinjiang[J].Journal of Soil and Water Conservation,2005,19(6):82-85.] [4]吕殿青,王全九,王文焰,等.膜下滴灌水盐运移影响因素研究 [J].土壤学报,2002,39（6）:794-801.[Lv Dianqing,Wang Quanjiu,Wang Wenyan,et al.Factors affecting soil water movement and solute transport for film drip irrigation[J].Acta Pedologica Sinica,2002,39(6):794-801.] [5]李显澈,左强,石建初,等.新疆膜下滴灌棉田暗管排盐的数值 模拟与分析I.模型与参数验证[J].水利学报,2016,47（4)：   \n537-544.[Li Xianlian,Zuo Qiang,Shi Jianchu,et al.Evaluation of salt discharge by subsurface pipes in the cotton field with film mulched drip irrigation in Xinjiang,ChinaI.Calibration to models and parameters[J].Journal of Hydraulic Engineering,2O16,47 (4):537 -544.] [6]李金刚,屈忠义,黄永平,等.微咸水膜下滴灌不同灌水下限对 盐碱地土壤水盐运移及玉米产量的影响[J].水土保持学报, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2017,31（1）:217-223.[Li Jingang,Qu Zhongyi,Huang Yongping,et al.Effects of control lower limit of saline water mulched drip irrigation on water and salt movement and corn yield in saline soil[J]. Journal of Soil and Water Conservation,2O17,31（1）： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "217 -223.]   \n[7]许学祖,张立新,刘永智,等.甘肃盐渍土及土壤水分改良三环 节探讨[J].冰川冻土,1998,20（2）：101-107.[Xu Xuezu, Zhang Lixin,Liu Yongzhi,et al. Saline soils in Gansu Province and discussion on the three links of improving soil water[J].Journal of Glaciology and Geocryology,1998,20(2）:101-107.]   \n[8]孙贯芳,屈忠义,杜斌,等.不同灌溉制度下河套灌区玉米膜下 滴灌水热盐运移规律[J].农业工程学报,2017,33（12）:144- 152.[Sun Guanfang,Qu Zhongyi,Du Bin,et al.Water-heat-salt effects of mulched drip irigation maize with different irigation scheduling in Hetao Irrigation District[J].Transactions of the Chinese Society of Agricultural Engineering,2017,33（12）:144- 152.]   \n[9］邵华伟,孙九胜,胡伟,等.新疆盐碱地分布特点和成因及改良 利用技术研究进展[J].黑龙江农业科学,2014（11)：160- 164.[Shao Huawei,Sun Jiusheng,Hu Wei,et al.Research progress on distribution characteristics causes and improved utilization technology of saline-alkali land in Xinjiang[J].Heilongjiang Agricultural Sciences,2014,（11） :160-164.]   \n[10］罗廷彬,任葳,谢春虹.新疆盐碱地生物改良的必要性与可行 性[J].干旱区研究,2001,18（1）:46-48.［Luo Tingbin,Ren Wei,Xie Chunhong.Necessity and feasibilityof biotic improving the saline-alkali landin Xinjiang[J].Arid ZoneResearch,01, 18(1) :46 -48.]   \n[11]高长远.明沟排水与竖井排灌[J].地下水,2001,23(4）：194- 197.[Gao Changyuan.Gutter drainage and vertical drainage of groundwater[J].Groundwater,2001,23（4）:194-197.]   \n[12］阿尔娜古丽·艾买提,刘洪光,何新林,等.膜下滴灌盐碱地排 水工程控盐效果试验研究[J].排灌机械工程学报,2018,36 (4）:347-353.[Aernaguli $\\cdot \\cdot$ Aimati,Liu Hongguang,He Xinlin, et al.Experimental studyon salt controlling effect in drainage system in saline-alkali land with drip irrigation under mulch[J]. Journal of Drainage and Irrigation Machinery Engineering,2O18,36 (4) :347 -353.]   \n[13］姚炎帝,徐伟英,赵海,等.不同机采滴灌方式对棉花生长及产 量的影响[J].中国农学通报,2015,31（33）:102-105.[Yao Yandi,Xu Weiying,Zhao Hai,etal.Effectsof different drip irrigation methods on growth and yield of cotton[J].Chinese Agricultural Science Bulletin,2015,31(33）:102-105.]   \n[14］杨柳青.新疆盐碱土改良技术第二讲排盐[J].新疆农业科技， 1994(3）:32.[Yang Liuqing.Xinjiang saline alkali soil improvement technology of second row salt[J]. Xinjiang Agricultural Science and Technology,1994(3）:32.]   \n[15]Carsel RF,Parrish R S. Developing joint probability distributions of soil water retention characteristics[J].Water resources research,1988,24(5) :755 -769.   \n[16]Hansson K,Lundin L C.Equifinality and sensitivity in freezing and thawing simulationsof laboratory and in situ data[J].Cold Regions Science and Technology,2006,44(1):20 -37.   \n[17]郭瑞,冯起,司建华,等.土壤水盐运移模型研究进展[J].冰川 冻土,2008,30(3）:527-534.[Guo Rui,Feng Qi,Si Jianhua,et al.Progress in the study of models for water and salinity transport in soils[J]. Journal of Glaciology and Geocryology,2008,30（3）: 527 -534.]   \n[18］徐力刚,杨劲松,徐南军,等.农田土壤中水盐运移理论与模型 的研究进展[J].干旱区研究,2004,21（3）:254-258.[Xu Ligang,Yang Jinsong,Xu Nanjun,et al.Progress of the study on theories and models of water-salt transport in cultivated soil[J].Arid Zone Research,2004,21(3）:254 -258.]   \n[19]Simunek J,Van Genuchten MT,Sejna M.The HYDRUS-1D software package for simulating the one-dimensional movement of water,heat,and multiple solutes in variably-saturated media[J].University of California-Riverside Research Reports,2Oo5,3:1-240.   \n[20]孟江丽,董新光,周金龙,等.HYDRUS 模型在干旱区灌溉与土 壤盐化关系研究中的应用[J].新疆农业大学学报,2004,27 (1）:45-49.[Meng Jiangli,Dong Xinguang,Zhou Jinlong,et al. Application of HYDRUS model to study of relation between irrigation and soil salinity in thearid area[J]. Journalof Xinjiang Agricultural University,2004,27(1） :45-49.]   \n[21］余根坚,黄介生,高占义.基于HYDRUS 模型不同灌水模式下 土壤水盐运移模拟[J].水利学报,2013,44（7）:826 －834. [Yu Genjian,Huang Jiesheng,Gao Zhanyi. Study on water and salt transportation of different irrigation modes by the simulation of HYDRUS model[J]. Journal of Hydraulic Engineering,2013,44 (7):826 -834.]   \n[22］王在敏.干旱区微咸水膜下滴灌棉花—水—溶质相互作用研 究［D].武汉：中国地质大学,2013.[Wang Zaimin.Study on the Coton-Water-Solute Interactions Under Mulched Frip Irrigation with Brackish Water inan Arid Area[D].Wuhan:China University of Geosciences,2013.]   \n[23]He Xinlin,Liu Hongguang,Ye Jianwei,et al.Comparative investigation on soil salinity leaching under subsurface drainage and ditch drainage in Xinjiang arid region[J]. International Journal of Agricultural & Biological Engineering,2016,9（6）:109 -118.   \n[24］杨树青,丁雪华,贾锦风,等.盐渍化土壤环境下微咸水利用模 式探讨[J].水利学报,2011,42（4）:490-498.[Yang Shuqing， Ding Xuehua,Jia Jinfeng,et al.Light-saline water use paten in salinesoilenvironment[J）.Journalof HydraulicEngineering, 2011,42(4):490 -498.]   \n[25］潘延鑫,罗纨,贾忠华,等.基于HYDRUS 模型的盐碱地土壤水 盐运移模拟[J].干旱地区农业研究,2017,35（1)：135-142. [Pan Yanxin,Luo Wan,Jia Zhonghua,et al. The simulation of water and salt transportation by HYDRUS model in Lubotan of Shaanxi,China[J].Agricultural Research in the Arid Areas, 2017,35(1) :135 -142.]   \n[26]孟超然,颜林,张书捷,等.干旱区长期膜下滴灌农田耕层土壤 盐分变化[J].土壤学报,2017,54(6）:1 386-1 394.[Meng Chaoran,Yan Lin,Zhang Shujie,etal.Variation of soil salinity in plow layer of farmlands under long-term mulched drip irigation in Arid Region[J].Acta Pedologica Sinica,2017,54（6）:1 386 - 1 394.]   \n[27］明广辉,田富强,胡宏昌.地下水埋深对膜下滴灌棉田水盐动 态影响及土壤盐分累积特征[J].农业工程学报,2018,34（5）： 90 -97.[Ming Guanghui,Tian Fuqiang,Hu Hongchang. Effct of water table depth on soil water and salt dynamics and soil salt accumulation characteristics under mulched drip irrigation[J]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transactions of the Chinese Society of Agricultural Engineering, 2018,34(5):90 -97.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[28]李明思,刘洪光,郑旭荣.长期膜下滴灌农田土壤盐分时空变 化[J].农业工程学报,2012,28（22）:82-87.[LiMingsi,Liu Hongguang,Zheng Xurong.Spatiotemporal variation for soil salinity of field land under long-term mulched drip irrigation[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28 (22):82-87.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[29]杨鹏年，董新光，刘磊，等.干旱区大田膜下滴灌土壤盐分运移 与调控[J].农业工程学报,2011,27(12)：90-95.[YangPengnian,Dong Xinguang,Liu Lei,et al. Soil salt movement and regulation of drip irrigation under plastic film in Arid Area[J].Transactions of the Chinese Society of Agricultural Engineering,2011,27 (12):90-95.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30]苏里坦，阿不都·沙拉木，宋郁东.膜下滴灌水量对土壤水盐运移及再分布的影响[J].干旱区研究，2011，28(1)：79-84.[SuLitan,Abudu Shalamu,Song Yudong.Effects of drip irrigationvolume on soil water-salt transfer and itsredistribution[J].AridZoneResearch,2011,28（1） :79-84.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[31］郝爱枝.内蒙古河套灌区浅明沟排水的应用[J].内蒙古水利， 1998（3）:29-31,39.[Hao Aizhi.Application of shallow trench drainage in Hetao Irrigation District of Inner Mongolia[J].Inner Mongolia Water Resources,1998(3）:29-31,39.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[32]董稳军,张仁陟,黄旭,等.明沟排水对冷浸田土壤理化性质及 产量的影响[J].灌溉排水学报,2014,33（2）：114-116.[Dong Wenjun,Zhang Renzhi,Huang Xu,et al.Effects of open ditch drainage on soil physical and chemical properties and yield of rice in cold spring paddy soils[J]. Journal of Irrigation and Drainage, ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2014,33(2):114 -116.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33]王少丽，瞿兴业.盐渍兼治的动态控制排水新理念与排水沟 （管)间距计算方法探讨[J].水利学报,2008,39(11)：1204- 1210.[Wang Shaoli,Qu Xingye.Dynamic control of drainage and calculation method of drainage spacing based on the idea of combining the control of salinization with subsurface waterlogging[J]. Journal of Hydraulic Engineering,2008,39(11）:1 204-1 210.]   \n[34]王在敏，何雨江,靳孟贵,等.运用土壤水盐运移模型优化棉花 微咸水膜下滴灌制度[J].农业工程学报,2012,28（17)：63- 70.[Wang Zaimin,He Yujiang,Jin Menggui,et al.Optimization of mulched drip-irrigation with brackish water for cotton using soilwater-salt numerical simulation[J].Transactions of the Chinese Society of Agricultural Engineering,2012,28（17）:63-70.]   \n[35」孙法圣,程品,张博.HYDRUS-1D 在土壤明渠排水洗盐模拟中 的应用[J].节水灌溉,2014（2）:44-47.[Sun Fasheng,Cheng pin,Zhang Bo.Application of HYDRUS-1D in the simulation of soil salt leaching through open channel drainage[J].Water Saving Irrigation,2014(2):44-47.]   \n[36]何锦，王晓燕,刘元晴，等.基于水平井技术的农田排水数值模 拟研究[J].中国农村水利水电，2017（9）：36-42.[HeJin， Wang Xiaoyan,Liu Yuanqing,et al.Research on the numerical simulation of farmland drainage based on horizontal wells[J].China Rural Water and Hydropower,2017(9):36-42.]   \n[37」张亚年,李静.暗管排水条件下土壤水盐运移特征试验研究 [J].人民长江,2011,42（22）：70-72,88.[Zhang Yanian,Li Jing.Experimental study of movement law of water and salt in soil under condition of discharge by covered conduits[J].Yangtze River,2011,42(22):70-72,88.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Simulation of Soil Water and Salt Migration Under Open-ditch Drainage ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LI Kai-ming， LIU Hong-guang, SHI Pei-jun，LI Xin-xin (Colege of Water Conservancy & Architectural Enginering，Shihezi University/Key Laboratoryof Modern Water-saving Irigation of Xinjiang Corpsof Production& Construction，Shihezi University，Shihezi 832Ooo，Xinjiang，China） ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In this study,the change ofsaline-alkaline soil salinity in 122nd StateFarmof Xinjiang Corps of Production $\\&$ Construction was monitored by controlling field irrigation.The purposes of the study were to explore the soil waterand salt migration under theconditions of drip irrigation，plastic film mulching and open-ditch drainage, develop a HYDRUS numerical model，and simulate and analyze the change of soil salinity in coton growth period. The results showed that the average desalination rate of $\\mathrm { 0 - 8 0 ~ c m }$ soil layer reached $5 0 . 0 9 \\%$ ，the total salinity of $8 0 - 2 0 0 ~ \\mathrm { c m }$ soil layer was basically maintained，and the salinity of $0 - 2 0 0 ~ \\mathrm { c m }$ soil layer was decreased by about $2 5 \\%$ . The closer the place from the ditch was，the more eficient the soil desalination would be.The values simulated with the numerical model were in a good accordance with the measured values.The research results could be referred in field management in arid and semiarid saline-alkaline areas. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key Words:drip irigation under mulch；open-ditch drainage；soil waterand salt migration；numerical simulation；Xinjiang Corps of Production and Construction ",
+        "page_idx": 8
+    }
+]

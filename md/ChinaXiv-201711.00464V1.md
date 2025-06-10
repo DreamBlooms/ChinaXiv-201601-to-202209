@@ -1,0 +1,155 @@
+1 饲粮添加人参渣对妊娠母猪繁殖性能及血浆生理生化指标的影响
+
+2 齐莉莉」马　伟²翁士乔周云晓」陈　炳」王进波1\*（1.浙江大学宁波理工学院，,宁波 315100;2.浙江卫信生物药业有限公司,宁波 315600;
+
+4 3.宁波三生生物科技有限公司，宁波315000)
+
+5摘要：本试验旨在研究饲粮添加人参渣对妊娠母猪繁殖性能和血浆生理生化指标的影响。  
+6 选取96头体况相近的 $2 { \sim } 4$ 胎次母猪(长白 $\times$ 大约克),采用单因子试验设计，随机分为4组，  
+7 每组24个重复，每个重复1头。对照组饲喂基础饲粮，试验I、II、Ⅲ组分别饲喂在基础  
+8 饲粮中添加 $1 \%$ 、 $3 \%$ 、 $5 \%$ 人参渣的试验饲粮。母猪妊娠第60天进入正式试验，到母猪产仔  
+9 结束。结果表明：与对照组相比，饲粮添加 $3 \%$ 、 $5 \%$ 人参渣显著提高了仔猪初生个体重  
+10 （ $\cdot P { < } 0 . 0 5 )$ ），极显著提高初生窝重（ $P { < } 0 . 0 1$ ）。与 $1 \%$ 人参渣组相比，饲粮添加 $3 \%$ 、 $5 \%$ 人  
+11 参渣极显著或显著提高初生窝重（ $_ { \cdot  { P } < 0 . 0 1 }$ 或 $P { < } 0 . 0 5$ ）。与对照组相比，饲粮添加 $5 \%$ 人参  
+12 渣显著提高窝产仔总数和窝产活仔数（ $. P { < } 0 . 0 5 \rangle$ ），而添加 $1 \%$ 、 $3 \%$ 人参渣则对窝产仔总数和  
+13 窝产活仔数无显著影响（P>0.05）。与对照组相比，饲粮添加 $5 \%$ 人参渣极显著降低母猪血  
+14 浆葡萄糖水平 ( $\scriptstyle \cdot < 0 . 0 1$ ； $3 \%$ 人参渣组母猪血浆甘油三酯水平极显著低于其他组 $( P { < } 0 . 0 1 )$ ，  
+15 $5 \%$ 人参渣组血浆甘油三酯水平显著低于对照组（ $\scriptstyle P < 0 . 0 5 .$ ）； $3 \%$ 和 $5 \%$ 人参渣组母猪血浆高  
+16 密度脂蛋白胆固醇的水平极显著高于对照组和 $1 \%$ 人参渣组（ $_ { \scriptstyle P < 0 . 0 1 }$ ）；3个试验组母猪血  
+17 浆中胰岛素样生长因子-2（IGF-2）水平极显著高于对照组（ ${ \cdot } P { < } 0 . 0 1$ ），且 $3 \%$ 、 $5 \%$ 人参渣  
+18 组显著高于 $1 \%$ 人参渣组 （ $. P { < } 0 . 0 5$ ）。饲粮添加人参渣对母猪血浆尿素氮、生长激素（GH)  
+19 和胰岛素样生长因子结合蛋白-3（IGFBP-3）水平没有产生显著影响（ $P { > } 0 . 0 5$ ）。由结果可  
+20 知，饲粮添加 $1 \% { \sim } 5 \%$ 人参渣能够提高妊娠母猪血浆中IGF-2水平，添加 $3 \%$ 、 $5 \%$ 人参渣能  
+21 够降低血脂水平，添加 $5 \%$ 人参渣则导致妊娠母猪血糖水平下降，改善繁殖性能。
+
+关键词：人参渣；妊娠母猪；繁殖性能；血浆生理生化指标中图分类号：S816 文献标识码：A 文章编号：
+
+4 母猪繁殖性能是集约化猪场生产绩效的关键指标。母猪妊娠期胎儿高死亡率及低生长速  
+5 度已成为广泛关注的问题。有研究表明，母猪在妊娠期间会损失 $40 \% \sim 5 0 \%$ 的胚胎或胎儿，
+
+收稿日期：2017-06-06  
+基金项目：国家自然科学基金项目(31272461,31301984)；宁波市科技计划项目（2013C11031)作者简介：齐莉莉（1976-)，女，山东潍坊人，讲师，硕士，从事动物肠道健康调控研究。E-mail:qll@nit.net.cn  
+\*通信作者：王进波，教授，硕士生导师，E-mail：wangjb777 $@$ 126.com或者出现严重的子宫内胎儿发育迟缓（IUGR），利用营养调节措施，提高子宫及胎盘功能，增加胎儿生存和发育，是提高母猪繁殖能力的有效手段[1]。  
+人参中含有皂苷、人参多糖、挥发油、多肽、氨基酸、有机酸、生物碱、黄酮类、甾醇等几十种生物活性成分[2]。人参经100 目筛粉碎后，利用 $70 \% \sim 7 5 \%$ 的乙醇回流提取，提取液经浓缩、干燥，即可获得人参提取物，其中的主要活性成分是各种人参皂苷，人参提取物回收率一般不超过 $20 \%$ ，剩余超过 $80 \%$ 的提余物含有人参多糖、皂苷、挥发油等活性成分[3]。这些提余物通常称作人参渣，直接作为废弃物处理，这不仅造成很大的资源浪费，还会造成严重的环境污染。目前，有关人参渣对母猪繁殖性能影响方面的研究报道很少，本试验拟研究人参渣对妊娠母猪繁殖性能和血浆生理生化指标的影响，旨在提高母猪繁殖性能，并实现人参资源的高效、全面利用。
+
+1材料与方法
+
+# 1.1 试验材料
+
+试验用人参渣由宁波立华植物提取技术有限公司提供。人参粉碎至100目，加入8倍体积$7 5 \%$ 乙醇回流提取3次，每次 $2 \mathrm { h }$ ；提取液离心，下层沉淀经真空干燥，除去残余的乙醇，得干燥的人参渣，其水分含量为 $8 . 7 \%$ 。
+
+# 1.2 试验设计
+
+参照NRC(1998)母猪营养标准配制玉米-豆粕型基础饲粮。在基础饲粮中添加 $1 \%$ 、 $3 \%$ 、$5 \%$ 的人参渣配制3种含人参渣的饲粮。试验饲粮组成及营养水平见表1。选用“长白 $\times$ 大约克”二元母猪96头（ $2 { \sim } 4$ 胎次）作为试验动物。采用单因子试验设计，将96头母猪随机分为4组，每组24个重复，每个重复1头。对照组饲喂基础饲粮，试验I、ⅡI、组分别饲喂在基础饲粮中添加 $1 \%$ 、 $3 \%$ 、 $5 \%$ 人参渣的试验饲粮。母猪妊娠第60天开始饲喂各试验饲粮，直至分娩。
+
+表1试验饲粮组成及营养水平(风干基础)  
+Table 1Composition and nutrient levels of experimental diets (air-dry basis) %   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="4">妊娠母猪饲粮 Gestating sows'diets</td></tr><tr><td>对照组</td><td>试验I组</td><td>试验ⅡI组Trial</td><td>试验I组Trial</td></tr><tr><td>原料 Ingredients</td><td>Control group</td><td>Trial groupI</td><td>group II</td><td>group II</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米 Corn</td><td>43.00</td><td>43.00</td><td>43.00</td><td>42.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>立相Soybeanmeal (CP 46%）</td><td>9.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>新小麦 New wheat</td><td>18.00</td><td>20.00</td><td>20.00</td><td>20.00</td></tr><tr><td>人参渣</td><td></td><td>1.00</td><td>3.00</td><td>5.00</td></tr><tr><td>Ginseng residue</td><td></td><td></td><td></td><td></td></tr><tr><td>麦麸Wheat bran</td><td>25.00</td><td>21.00</td><td>19.00</td><td>18.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.60</td><td>1.75</td><td>1.75</td><td>1.75</td></tr><tr><td>石粉 Limestone</td><td>0.90</td><td>0.80</td><td>0.80</td><td>0.80</td></tr><tr><td>赖氨酸 Lys</td><td>0.20</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>苏氨酸Thr</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>食盐 NaCl</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>小苏打 NaHCO3 氯化胆碱</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>Choline chloride</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>防霉剂 Mildew preventive</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计Total</td><td></td><td></td><td></td><td></td></tr><tr><td>营养水平</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>Nutrient levels2)</td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>2.94</td><td>2.94</td><td>2.94</td><td>2.94</td></tr><tr><td>粗蛋白质CP</td><td>14.03</td><td>13.67</td><td>13.67</td><td>13.67</td></tr><tr><td>赖氨酸 Lys</td><td>0.68</td><td>0.64</td><td>0.64</td><td>0.64</td></tr><tr><td>蛋氨酸 Met</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>蛋氨酸+半胱氨酸</td><td>0.45</td><td>0.42</td><td>0.42</td><td>0.42</td></tr><tr><td>苏氨酸 Thr Met+Cys</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.55</td><td>0.52</td><td>0.52</td><td>0.52</td></tr><tr><td>钙Ca 磷P</td><td>0.82 0.70</td><td>0.83 0.68</td><td>0.83 0.68</td><td>0.83 0.68</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>粗纤维CF</td><td>4.83</td><td>6.12</td><td>5.67</td><td>5.31</td></tr></table></body></html>
+
+预混料为每千克饲粮提供 Premix provided the following per kg of diets:VA8 000 IU，VD 800 IU，VE 50IU, VK $1 . 0 \mathrm { m g }$ ，硫胺素thiamin $1 . 5 ~ \mathrm { m g }$ ，核黄素riboflavin $4 . 0 \mathrm { m g }$ ，吡哆醇pyridoxine $2 . 0 \mathrm { m g }$ ，VB $_ { \mathrm { i } 1 2 } 0 . 0 2 \mathrm { m g }$ VC $3 0 0 ~ \mathrm { { m g } }$ ，烟酸 nicotinic acid $1 5 . 0 \mathrm { m g }$ ，泛酸钙calcium pantothenic acid $1 5 . 0 \mathrm { m g }$ ，生物素biotin $0 . 5 ~ \mathrm { m g }$ 叶酸 folic acid $1 . 3 ~ \mathrm { m g }$ ， $\mathrm { C u \ 1 0 \ m g }$ ，Fe $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { M n } \ 3 0 \ \mathrm { m g }$ ， $\mathrm { Z n ~ 1 0 0 ~ m g }$ ， $\mathrm { ~ I ~ } 0 . 5 ~ \mathrm { { m g } }$ ，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { C r 2 0 0 ~ \mu g }$ $\mathrm { C o } 0 . 1 \ : \mathrm { m g } \cdot$ （
+
+1.3 饲养管理
+
+妊娠母猪单体限位栏饲养，各试验母猪妊娠期平均喂量为 $1 2 . 6 \mathrm { k g }$ ，每日分2次（06:30和16:30）饲喂。分娩前7天进入产房，按照猪场计划进行免疫和常规管理。
+
+1.4样品采集、指标测定及方法
+
+# 1.4.1 母猪繁殖性能测定
+
+记录窝产仔总数、窝产活仔数、初生个体重，计算初生窝重。
+
+# 1.4.2 血浆的采集与制备
+
+妊娠母猪生产前，耳缘静脉采血各 $1 0 \mathrm { m L }$ ，分装于肝素预处理的离心管，血样 $3 7 \ \mathrm { { ^ { \circ } C } }$ 静置$1 0 { \sim } 1 5 \ \mathrm { m i n }$ 后 $3 0 0 0 \mathrm { r / m i n }$ 离心 $\cdot 5 \mathrm { m i n }$ 收集血浆，用于血浆生理生化指标分析。
+
+# 1.4.3 血浆指标分析
+
+采用南京建成生物工程研究所生产试剂盒，利用全自动酶标仪（BIOTEK Synergy H1）分析血浆中尿素氮、甘油三酯、葡萄糖、高密度脂蛋白胆固醇、胰岛素样生长因子-2(IGF-2)、胰岛素样生长因子结合蛋白-3（IGFBP-3）、生长激素（GH）的水平，操作按试剂盒说明进行。
+
+# 1.5 数据分析
+
+数据先用Excel2007作初步统计，然后采用SPSS16.0软件进行重复数不等的方差分析，处理间的差异采用F检验，所有数据均以平均值±标准差表示，以 $P { < } 0 . 0 5$ 作为差异显著性评判标准。
+
+2结果
+
+2.1饲粮添加人参渣对妊娠母猪繁殖性能的影响
+
+由表2可知，与对照组相比，饲粮添加 $3 \%$ 、 $5 \%$ 人参渣显著提高了仔猪初生个体重（ $\cdot P { < } 0 . 0 5 \$ ），添加 $1 \%$ 参渣则对仔猪初生个体重没有显著影响（ $. P { > } 0 . 0 5$ ）。与对照组相比，饲粮添加 $3 \%$ 、 $5 \%$ 人参渣能够极显著提高仔猪初生窝重（ $P { < } 0 . 0 1$ ）；与添加 $1 \%$ 人参渣相比，饲粮添加 $3 \%$ 人参渣能够极显著提高仔猪初生窝重（ $P { < } 0 . 0 1$ ），添加 $5 \%$ 人参渣能够显著提高仔猪初生窝重（ $_ { . } P { < } 0 . 0 5$ ）。与对照组相比，饲粮添加 $1 \%$ 、 $3 \%$ 人参渣对窝产仔总数和窝产活仔数均无显著影响( $( P { > } 0 . 0 5 )$ ，添加 $5 \%$ 人参渣则显著提高窝产仔总数和窝产活仔数 $( P { < } 0 . 0 5 )$ 。
+
+Table 2Effects of ginseng residue supplementation on reproductive performance of gestation sows   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验I组 Trial group I</td><td>试验ⅡI组 Trial group II</td><td>试验IⅢ组 Trial group III</td></tr><tr><td>初生个体重 Average birth</td><td>1.109±0.213c</td><td>1.213±0.301c</td><td>1.600±0.315a</td><td>1.391±0.264b</td></tr><tr><td>weight/kg 初生窝重 Birth</td><td>13.945±2.793Cc</td><td>15.558±1.541BCc</td><td>20.110±2.036Aa</td><td>18.460±0.445ABb</td></tr><tr><td>weight of litter/kg 窝产仔总数Litter</td><td>12.57±2.71b</td><td>12.83±3.97b</td><td>12.57±2.99b</td><td>13.27±1.79a</td></tr><tr><td>size/头</td><td></td><td></td><td></td><td></td></tr><tr><td>窝产活仔数 Live litter size/头</td><td>11.29±3.074b</td><td>12.5±3.834b</td><td>12.57±2.992b</td><td>13.18±1.888a</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 ) \$ ，不同小写字母表示差异显著 $\scriptstyle ( P < 0 . 0 5 )$ ，不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference ( $\mathrm { \Delta } P { > } 0 . 0 5 ) \$ L， while with different small letter superscripts mean significant difference ( $\cdot P { < } 0 . 0 5 \rangle$ ,and with different capital letter superscripts mean significant difference ( $\scriptstyle \phantom { = } \phantom { = } ( P < 0 . 0 1 \phantom { = }$ ). The same as below.
+
+2.2饲粮添加人参渣对妊娠母猪血浆物质代谢相关指标的影响
+
+由表3可知，与对照组相比，饲粮添加 $5 \%$ 人参渣极显著降低母猪血浆葡萄糖的水平（ $\mathbf { \partial } _ { P }$ ${ < } 0 . 0 1$ ）。 $3 \%$ 人参渣组母猪血浆甘油三酯的水平极显著低于其他组 （ $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ ）， $5 \%$ 人参渣组血浆甘油三酯的水平显著低于对照组（ $\cdot P { < } 0 . 0 5$ ）。 $3 \%$ 和 $1 5 \%$ 人参渣组母猪血浆高密度脂蛋白胆固醇的水平极显著高于对照组和 $1 \%$ 人参渣组（ $\scriptstyle \cdot < 0 . 0 1$ ），且 $5 \%$ 人参渣组显著高于 $3 \%$ 人参渣组（ $P { < } 0 . 0 5$ ），而 $1 \%$ 人参渣组与对照组无显著差异（ $P { > } 0 . 0 5$ ）。饲粮添加人参渣对母猪血浆尿素氮水平没有产生显著影响（ $P { > } 0 . 0 5$ ）。
+
+表2饲粮添加人参渣对妊娠母猪繁殖性能的影响  
+表3饲粮添加人参渣对妊娠母猪血浆物质代谢相关指标的影响  
+Table 3 Effects of ginseng residue supplementation on plasma metabolism related indicators of gestation sows   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验I组 Trial groupI</td><td>试验I组 Trial group II</td><td>试验II组 Trial group III</td></tr><tr><td>葡萄糖 GLU/ (mmol/L)</td><td>3.336±1.004Aa</td><td>3.293±1.471Aa</td><td>3.622±0.870Aa</td><td>2.443±1.077Bb</td></tr><tr><td>甘油三酯 TG/ （mmol/L)</td><td>0.490±0.184Aa</td><td>0.316±0.137Aab</td><td>0.242±0.075Bc</td><td>0.320±0.072Ab</td></tr></table></body></html>
+
+<html><body><table><tr><td>尿素氮 UN/ （mmol/L)</td><td>3.75±0.54</td><td>3.16±0.48</td><td>3.34±1.04</td><td>3.44±0.72</td></tr><tr><td>高密度脂蛋白胆固</td><td></td><td></td><td></td><td></td></tr><tr><td>醇 HDL-C/</td><td>0.25±0.02Bc</td><td>0.24±0.09Bc</td><td>0.33±0.18Ab</td><td>0.59±0.14Aa</td></tr><tr><td>（mmol/L)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3饲粮添加人参渣对妊娠母猪血浆激素水平的影响
+
+由表4可知，与对照组相比，饲粮添加 $1 \%$ 、 $3 \%$ 和 $5 \%$ 的人参渣均能够极显著提高母猪血浆中IGF-2的水平（ $P { < } 0 . 0 1$ ）；此外， $3 \%$ 、 $5 \%$ 人参渣组母猪血浆IGF-2的水平显著高于 $1 \%$ 人参渣组（ $. P { < } 0 . 0 5$ ）。饲粮添加人参渣对母猪血浆中IGFBP-3和GH的水平没有产生显著影响（ $. P { > } 0 . 0 5 \$ ）。
+
+表4饲粮添加人参渣对妊娠母猪血浆激素水平的影响   
+Table 4 Effects of ginseng residue supplementation on plasma hormone levels of gestation sows   
+
+<html><body><table><tr><td>项目Items</td><td>对照组 Control group</td><td>试验I组 Trial group I</td><td>试验Ⅱ组 Trial group I</td><td>试验Ⅲ组 Trial group III</td></tr><tr><td>胰岛素样生长因子</td><td>126.44±17.02Bc</td><td>184.03±10.47Ab</td><td>202.21±28.99Aa</td><td>196.25±2.43Aa</td></tr><tr><td>-2 IFG-2/ (ng/mL) 胰岛素样生长因子</td><td>8.32±2.19</td><td>8.14±1.47</td><td>8.17±0.43</td><td>7.69±2.49</td></tr><tr><td>结合蛋白-3 IFGBP-3/（μg/mL)</td><td></td><td></td><td></td><td></td></tr><tr><td>生长激素GH/</td><td>5.60±0.53</td><td>4.65±0.28</td><td>4.81±0.04</td><td>5.29±0.77</td></tr><tr><td>(ng/mL)</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+3讨论
+
+人参具有“大补元气、复脉固脱、补脾益肺、生津、安神”之效，素有“百草之王”的美誉。现代科学研究发现，人参具有抗疲劳、抗应激、抗抑郁、改善记忆功能、调节和增强人体免疫功能、抗氧化、抗肿瘤等多种药理活性。我国卫生部于2012年发布的《关于批准人参（人工种植）为新资源食品的公告》显示，人参不再仅仅作为专属药材，而是作为一种食品资源，可以用于食品生产加工过程[2]。
+
+由于人参经济价值较高，有关人参在畜禽养殖中应用的研究报道较少。李乃宾等[4在贵妃鸡饲粮中添加 $0 . 0 2 \% \sim 0 . 0 8 \%$ 的人参，结果显示能够显著降低其血液中谷草转氨酶等的活性，并显著提高腿肌总氨基酸和鲜味氨基酸的含量。人参多糖和皂苷等活性成分则具有抗氧化、改善动物免疫功能以及提高疫苗的免疫原性等多种生理作用。人参复合多糖对妊娠母猪具有免疫调节作用，并通过母体效应影响其仔猪的生长和免疫机能。基础饲粮中添加 $4 0 0 \mathrm { m g / k g }$ 的人参复合多糖，可提高母猪乳中免疫球蛋白A(IgA)、免疫球蛋白 $\mathbf { G } ( \mathrm { I g } \mathbf { G } )$ 的水平，提高仔猪免疫力，并具有一定促生长作用[5]。孙加节等[6-7]在基础饲粮中添加 $2 0 0 { \sim } 4 0 0 ~ \mathrm { m g / k g }$ 人参复合多糖，结果显示显著提高了仔猪血清中猪圆环病毒抗体水平和谷胱甘肽过氧化物酶活性，表明人参多糖对圆坏病毒疫苗具有免疫增强作用，同时提高可提高仔猪的抗氧化能力；此外，人参多糖还能够阻断或抑制猪繁殖与呼吸综合征病毒对宿主细胞的感染。人参渣是人参提取物制备的副产物，是一种具有良好开发前景的饲料资源。本试验中的人参渣是人参醇提的残余成分，其与人参化学成分的主要区别在于人参皂苷含量的差异，人参渣中几乎不含皂苷，但其中的多糖、挥发油、游离氨基含量甚至高于人参。于浩等[的研究发现，饲粮中添加 $2 5 { \sim } 5 0 \ \mathrm { m g / k g }$ 的人参渣能够显著改善爱拔益加肉鸡的日增重和饲料报酬。宋玉琴[3]在饲粮中添加 $0 . 4 3 \% { \sim } 1 . 7 0 \%$ 的人参渣饲喂家兔和小鼠，结果发现，人参渣具有增强动物抵抗力和改善肉质的作用。明雷等[9在饲粮中添加 $0 . 5 \% { \sim } 1 . 0 \%$ 的人参副产物，结果显示能够显著提高生长肥育猪的生长性能，改善胴体品质，并具有较好的经济效益。本试验研究了人参渣对妊娠母猪繁殖性能的影响，证明饲粮添加 $3 \% { \sim } 5 \%$ 的人参渣能够显著提高仔猪初生窝重和初生个体重，而添加 $5 \%$ 的人参渣还能够显著提高母猪的窝产仔总数和窝产活仔数。这与前述报道试验对象虽有所不同，但研究结果基本一致，本研究结果表明饲粮添加 $5 \%$ 人参渣能够提高妊娠母猪的繁殖性能。
+
+IGF-2又称为生长调节素 A(somatomedinA)，是目前所知功能最复杂多样的生长因子。该因子具有促进细胞有丝分裂、加速胚胎发育、促进中枢神经系统的生长、促进肌肉生长和脂肪沉积等生理功能[10-1]。Zhou 等[12]研究发现，胎儿子宫内发育迟缓及其后天的生长追赶与IGF-2紧密相关。Yuan 等[13]研究认为IGF-2 能够刺激胚胎干细胞的体外分化，进而促进胎儿的发育成熟。IGFBP3是血液中重要的胰岛素样生长因子（IGFs）载体，具有延长IGFs的半衰期、调节 IGFs 生物学活性等作用[14-15]。然而,IGFBP-3 的功能并不仅受IGFs 的影响，还受到许多其他因子的调控，但其与血液中GH的水平存在正相关[15]。本研究结果表明，饲粮中添加 $1 \% { \sim } 5 \%$ 的人参渣能够提高母猪血浆中IGF-2的水平，但对血浆中IGFBP-3 和GH的水平没有显著影响，这提示人参渣可能通过提高母猪血浆IGF-2的水平刺激胚胎发育，从而提高母猪产仔数和初生窝重。有关人参渣对动物IGFs及其结合蛋白（IGFBP）的研究尚未见报道，本研究首次发现人参渣能够显著提高妊娠母猪血浆中IGF-2的水平,但对IGFBP-3的水平没有显著影响。IGF-2通过何种机制进一步发挥生物活性作用，尚需深入解析。Seo 等[16]及Kim 等[17]研究指出，人参具有显著降低人和动物血糖、血脂水平的作用。本研究结果表明，饲粮添加 $3 \% { \sim } 5 \%$ 的人参渣能够显著降低妊娠母猪血浆中甘油三酯的水平，显著提高血浆中高密度脂蛋白胆固醇的水平，饲粮添加 $5 \%$ 人参渣能够显著降低妊娠母猪血
+
+桨中葡萄糖的水平。这提示，人参渣能够降低妊娠母猪的血脂和血糖水平，与上述研究结果一致。本试验中，饲粮中添加的是人参渣，而非人参，两者化学成分的主要不同在于人参皂苷含量不同，人参渣中几乎不含皂苷，而人参中含有丰富的皂苷。本研究发现人参渣也具有很好的降血脂、降血糖作用，这提示发挥血脂、血糖调节作用的成分并非人参皂苷，可能是人参多糖、挥发油等其他活性成分。刘晓满[18研究发现，人参多糖能够刺激脂肪细胞葡萄糖转运载体易位到细胞膜表面，促进糖代谢，从而发挥血糖调节作用。薛涛等[19]指出，人参降糖作用的主要活性成分可能包括人参多糖、人参多肽、人参皂苷等，这些活性成分可能通过直接刺激胰岛B细胞分泌胰岛素、修复和增强胰岛B细胞活力、增加胰岛素的敏感性、延缓肠道对葡萄糖的吸收等多重机制，调节机体的糖代谢，从而发挥血糖调节功能。刘雪梅等[20]研究发现，人参糖肽能够降低大鼠血清甘油三酯、胆固醇等的水平，具有明显的降血脂作用。人参皂苷、人参蛋白等成分也具有降低血脂的功能[21]，人参中活性成分降低血脂的具体作用机制尚需进一步研究。从研究对象来看，人参生物学功能的研究主要针对小鼠、大鼠等实验动物和人类，针对畜禽的研究较少，对其作用机制的研究则几乎空白，为了在动物生产中推广应用人参渣等加工副产品，需要对相关作用机制进行更加深入的解析。
+
+4结论
+
+$\textcircled{1}$ 妊娠母猪饲粮添加 $1 3 \%$ 、 $5 \%$ 的人参渣能够显著提高仔猪初生个体重和初生窝重，添加$5 \%$ 的人参渣还能够显著提高窝产仔总数和窝产活仔数。$\textcircled{2}$ 妊娠母猪饲粮添加 $3 \%$ 、 $5 \%$ 的人参渣能够显著降低血浆中甘油三酯水平，提高血浆中高密度脂蛋白胆固醇水平；添加 $5 \%$ 的人参渣还能够降低血浆中葡萄糖水平，具有降血脂、降血糖作用。$\textcircled{3}$ 妊娠母猪饲粮添加 $1 \% { \sim } 5 \%$ 的人参渣能够提高血浆中IGF-2的水平，发挥促生长作用，有利用仔猪胚胎生长发育。
+
+# 参考文献：
+
+[1] BAZER F W,SPENCER T E,JOHNSON G A,et al.Comparative aspectsofimplantation[J].Reproducton,2009,138(2):195-209.  
+[2]张玉婷.人参提取物化学成分及质量研究[D].硕士学位论文.北京:中国食品药品检定研究院,2013:24-88.  
+[3]宋玉琴.人参药渣添加到动物饲料调节动物抵抗力和肉质的实验研究[D].硕士学位论文:成都：成都中医药大学,2016:.  
+[4]李乃宾,陈超,杜炳旺,等.饲粮添加人参对贵妃鸡肌肉氨基酸水平和血液生理生化指标的影响[J].广东海洋大学学报,2014,34(4):95-100.  
+[5]姚莉媛.人参多糖对猪乳外胞体和仔猪血清中免疫相关miRNA的影响[D].硕士学位论文.广州:华南农业大学,2016:14-27.  
+[6]孙加节,蒋勇,习欠云,等.人参复合多糖提高猪圆环病毒疫苗免疫效果的研究[J].中国预防兽医学报,2016,38(9):734-738.  
+[7]孙加节,蒋勇,习欠云,等.人参多糖体外抗猪生殖与呼吸综合征病毒活性[J].中国兽医学报,2017,37(4):697-703.  
+[8]于浩,张晶,沈景林,等.人参渣在肉鸡生产应用中的研究[J].饲料工业,2009,30(18):4-5.  
+[9]明雷,宋继红,战桂娟.人参副产物对猪生长性能、胴体性状的影响及经济效益分析[J].饲料工业,2017,38(1):38-41.  
+[10]王丁科,阎萍,梁春年,等.胰岛素样生长因子2研究进展[J].动物医学进展,2008,29(7):67-70.  
+[11]BUEMO C P,GAMBINI A,MORO L N,et al.Embryo aggregation in pig improves cloningefficiency and embryo quality[J].PLoS One,2016,11(2):e0146390.  
+[12]ZHOU H,CHEN Y,LV G,et al.Improving maternal vitamin D status promotes prenatal andpostnatal skeletal muscle development of pig offspring[J].Nutrition,2016,32(10):1144-1152.  
+[13]YUAN Y M,HONG Y H.Medaka insulin-like growth factor-2 supports self-renewal of theembryonic stem cell line and blastomeres in vitro[J].Scientific Reports,2017,7:78.  
+[14]郭玉姣,唐国庆,李学伟,等.猪脂肪组织中IGF2和IGFBP3基因表达的发育性变化及其品种差异[J].遗传,2008,30(5):602-606.  
+[15]RANKE M B.Insulin-like growth factor binding-protein-3 (IGFBP-3)[J].Best Practice &Research Clinical Endocrinology & Metabolism,2015,29(5):701-711.  
+[16]SEO H,JEON B D,RYU S.Persimmon vinegar ripening with the mountain-cultivatedginseng ingestion reduces blood lipids and lowers inflammatory cytokines in obeseadolescents[J].Journal of Exercise Nutrition & Biochemistry,2O15,19(1):1-10.  
+[17]KIM M H,LEE J,JUNG S,et al.The involvement of ginseng berry extract in blood flow viaregulation of blood coagulation in ratsfed a high-fat diet[J].Journal of GinsengResearch,2017,41(2):120-126.  
+[18] 刘晓满.人参多糖降糖机制的初探[D].硕士学位论文.长春:东北师范大学,2009:33-48.  
+[19] 薛涛,夏朝霞,郭丽莎,等.人参降糖作用的研究进展[J].中国现代中药,2014,16(5):428-432.
+
+[20] 刘雪梅,陈文学,杨铭,等.人参糖肽结合耐力运动对高脂血症大鼠血脂和抗氧化功能的影响[J].食品科学,2014,35(17):255-259.
+
+[21] 徐云凤,赵雨,幺宝金,等.人参蛋白对高脂血症模型大鼠的降血脂作用[J].中药新药与临床药理,2011,22(2):138-141.
+
+Physiological and Biochemical Indexes of Gestation Sows QI Lili1MA Wei²WENG Shiqiao³ZHOU Yunxiao1CHEN Bing1WANG Jinbo1\* (1.Ningbo Institute of Technology, Zhejiang University, Ningbo 315100, China; 2. Zhejiang VacinBio Pharmaceutical Co., Ltd., Ningbo 315600, China; 3. Ningbo Sansheng Biotech Co., Ltd.,Ningbo 315000, China)
+
+Abstract: This experiment was conducted to investigate the effects of ginseng residue supplementation on reproductive performance and plasma physiological and biochemical indexes of gestation sows.Ninety-six healthy gestation sows (LandracexLarge White） with the similar body condition and 2 to 4 parities were randomly arranged into 4 groups with 24 replicates per group and 1 sow per replicate. Sows in control group were fed a basal diet, and sows in groupsI , I and III were fed the basal diet supplemented with $1 \%$ ， $3 \%$ and $5 \%$ ginseng residue, respectively. The experiment was performed from the day 6O of gestation to the day of piglet birth. The results showed as follows: compared with the control group, diet supplemented with $3 \%$ and $5 \%$ ginseng residue significantly increased the average birth weight $( P { < } 0 . 0 5 )$ and extremely significantly increased the birth weight of litter $( P { < } 0 . 0 1 )$ . Compared with the $1 \%$ ginseng residue group, diet supplemented with $3 \%$ and $5 \%$ ginseng residue extremely significantly or significantly increased the birth weight of litter ( ${ \scriptstyle \cdot } { \cal P } { \scriptstyle < } 0 . 0 1$ or $P { < } 0 . 0 5$ ). Compared with the control group，diet supplemented with $5 \%$ ginseng residue significantly increased the litter size and live litter size （2号 $( P { < } 0 . 0 5 )$ , but diet supplemented with $1 \%$ and $3 \%$ ginseng residue had no significant effects on the litter size and live litter size $( P { > } 0 . 0 5 )$ . Compared with the control group, diet supplemented with $5 \%$ ginseng residue extremely significantly decreased the plasma glucose level $( P { < } 0 . 0 1 )$ . The plasma triglyceride level in $3 \%$ ginseng residue group was extremely significantly lower than that in the other groups $( P { < } 0 . 0 1 )$ ,and it in the $5 \%$ ginseng residue group was significantly lower than that in the control groups $( P { < } 0 . 0 5 )$ ). Compared with the control group and $1 \%$ ginseng residue group, the plasma high-density lipoprotein (HDL-C） level in $3 \%$ and $5 \%$ ginseng residue groups was extremely significantly increased $( P { < } 0 . 0 1 \dot { ) }$ ). Compared with the control group,diet supplemented with $1 \%$ ， $3 \%$ and $5 \%$ ginseng residue extremely significantly increased the plasma insulin-like growth factor-2 (IGF-2) level $( P { < } 0 . 0 1 )$ ； the plasma IGF-2 level in $3 \%$ and $5 \%$ ginseng residue group was significantly higher than that in $1 \%$ ginseng residue group $( P { < } 0 . 0 5 )$ . Ginseng residue supplementation had no significant effects on the plasma urea nitrogen,growth hormone and insulin-like growth factor binding protein-3 (IGFBP-3） levels( $( P { > } 0 . 0 5 )$ .In conclusion，diet supplemented with $1 \%$ to $5 \%$ ginseng residue can increase the plasma IGF-2 level, supplemented with $3 \%$ and $5 \%$ ginseng residue can decrease blood lipid level, and supplemented with $5 \%$ ginseng residue can decrease the blood glucose level and improve the reproductive performance of gestation sows.
+
+Key words: ginseng residue; gestation sows; reproductive performance; plasma physiological and biochemical indexes

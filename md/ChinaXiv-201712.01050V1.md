@@ -1,0 +1,143 @@
+# 基础研究
+
+# 马铃薯三糖熊果酸衍生物抑制H5N1流感病毒进入靶细胞
+
+宋高鹏'，申新田²,黎奕斌',郑宇珊'，熊平」,刘叔文²  
+1华南农业大学资源环境学院,广东广州 510642；南方医科大学药学院,广东广州 510515
+
+摘要：目的研究马铃薯三糖熊果酸衍生物能否通过抑制H5N1流感病毒进人靶细胞，作为潜在的新型抗流感药物进行研发。方法以马铃薯三糖熊果酸甲酯1为先导化合物，设计并合成4个目标化合物，利用建立的H5N1假病毒活性检测方法,测试化合物的抑制活性。结果化合物1b,1c和1d对源自A/Thailand/Kan353/2004的H5N1假病毒毒株有明显的抑制作用且化合物1d的活性最好，其 $\mathrm { I C } _ { 5 0 }$ 达到 $0 . 9 6 { \pm } 0 . 1 0 \ \mathrm { \mu m o l / L }$ 。结论初步构效关系研究表明，熊果酸的C-17位羧基被酯化后可显著提高其抗病毒活性;将羧基转化成酰胺后可提高抗病毒活性并降低对靶细胞MDCK的细胞毒性。
+
+关键词：H5N1;流感病毒进人抑制剂；血凝素；五环三萜
+
+# 3-0- $\beta$ -chacotriosyl benzyl ursolate inhibits entry of H5N1 influenza virus into target cells
+
+SONG Gaopeng,SHEN Xintian²,LI Yibin',ZHENG Yushan,XIONG Ping,LIU Shuwen   
+ColegefResourcesandEnironmentSouthChnaAgriculturalUnivesityGuangzhou51064，China;²Shoolofaaceutical   
+Sciences,Southern Medical University,Guangzhou 51o515,China
+
+Abstract: Objective To study the inhibitory activities of 3-O $\cdot \{ \beta$ -chacotriosyl benzyl ursolate and its derivatives as potential new anti-influenza virusagentsagainstthe entryof H5N1influenza viruses into thetarget cels.Methods Four targetcompounds were designed and synthesized, which were structurally related to the lead compound 3-O $\cdot \{ \beta \cdot$ chacotriosyl methyl ursolate (1). The inhibitory activitiesof these compounds were tested ata cellular level psuedovirussystem targeting H5N1 influenza viruse entry.Results and Conclusion The compounds 1b,1cand 1d showed potent inhibitory activities againstthe entry of A/Thailand/Kan353/2004 pseudovirus into the target cels,and among them compound1d sowed the strongest inhibitory activity with an IC50 value of $0 . 9 6 { \pm } 0 . 1 0 \ \mathrm { \mu m o l / L }$ . The structure-activity relationship analysis of these compounds indicated that when 17-COOHofursolic acid was esterified,introductionof Me groupsrather than aryl groups more strongly enhanced the inhibitory activity. Changing 17-COOHof ursolicacid intoamidecould increase the antiviral activityand decrease the cytotoxicity of the compounds in MDCK cells.
+
+Key words: H5N1 avian influenza virus; influenza virus entry inhibitor; hemagglutinin; pentacyclic triterpenoids
+
+高致病性H5N1禽流感病毒有可能发生突变的风险，突变后能在人与人之间传播，这对防治H5N1禽流感病毒带来了极大的挑战[-3]。目前在临床上应用的抗流感病毒药物根据其作用机制主要包括两大类--以金刚烷胺为代表的M2蛋白抑制剂和以达菲为代表的神经氨酸酶NA抑制剂[46。然而,H5N1流感病毒对上述这两类药物都产生了一定程度的耐药性[-]
+
+禽流感病毒通过其包膜血凝素蛋白HA吸附在细胞表面含末端唾液酸的糖蛋白受体上，通过胞吞作用进入细胞，形成胞内体，然后在胞内体酸性环境下HA介导了病毒与胞内体膜的融合，病毒脱壳后完成病毒进入细胞的过程[12-13]。因此,靶向禽流感病毒HA蛋白,通过抑制HA与细胞表面唾液酸受体结合或抑制HA介导的融合功能,就能抑制禽流感病毒进入宿主细胞[14-16]。文献报道通常采用血凝抑制实验观察药物是否抑制病毒吸附受体的作用[，或采用假病毒筛选体系初步观察药物是否抑制入胞[2.18]。本课题组此前采用H5N1假病毒实验方法筛选皂苷化合物库，发现五环三萜马铃薯三糖熊果酸甲酯(1)对两种假H5N1亚型禽流感病毒H5N1(A/Viet Nam/1203/2004)和H5N1 (Goose/Qinghai/59/05)的血凝素蛋白HA在体外均具有较强的抑制作用，其 $\mathrm { I C } _ { 5 0 }$ 分别为8.5及 $6 . 0 \ \mu \mathrm { m o l / L } ^ { [ 1 9 - 2 0 ] }$ 。基于五环三萜结构中的羧基的衍生化对其生物活性有重要影响[21，本课题以化合物1为先导化合物，对熊果酸苷元的C-17位羧基进行化学修饰，分别设计合成了目标化合物1a-1d，进而研究C-17位羧基的衍生化对抗H5N1病毒活性的影响。
+
+# 1材料和方法
+
+# 1.1 试剂
+
+犬胚肾MDCK细胞和人胚肾293T细胞均购自American Type Culture Collection（ATCC）,DMEM细胞培养基，胎牛血清，胰蛋白酶，青霉素及链霉素购自中国Invitrogen公司,感受态细胞DH5α购自Takara公司，荧光素酶检测试剂盒购自Promega公司，聚乙稀亚胺(PEI)转染试剂购自上海起福生物公司，反应物买自阿拉丁或者北京偶合科技有限公司，其它所有试剂均为市售分析纯，柱层析硅胶使用青岛海洋化工厂的柱层析硅胶(200\~300目）。
+
+# 1.2 化合物的合成(图1)
+
+化合物1a-1d的合成根据文献[19-20」(图1)：在$1 0 0 ~ \mathrm { { m L } }$ 三颈瓶中加入 $5 0 ~ \mathrm { m L }$ 干燥的二氯甲烷，然后再加入D-葡萄糖的C-3与C-6羟基用 $\mathtt { B z }$ 选择性保护的中间体2d1mmoL(1equiv）和全Ac保护的L-鼠李糖三氯乙酰亚胺脂4mmoL(4equiv)，接着在氩气保护下加入适量的活化后的4A分子筛粉末，最后在 $- 1 0 \mathrm { { ^ { \circ } C } }$ 下加入TMSOTf $0 . 2 0 \mathrm { m m o L } ( 0 . 2 0 \mathrm { e q u i v } ) _ { \odot }$ 在 $- 1 0 \mathrm { { ^ { \circ } C } }$ 反应 $0 . 5 \mathrm { h }$ 后，室温继续反应 $0 . 5 \mathrm { h }$ 。反应完毕后经硅胶柱纯化（乙酸乙酯-石油醚 $\vdots = 1 : 6$ )得到三糖糖苷化产物。最后脱除保护基及胺基酰化后得到不同的目标产物1a-1d。
+
+![](images/7fb8f456ef9146b49e4a5ff4f8999533fafb459d5741d240bc934fb143643f38.jpg)  
+图1目标化合物1a-1d的合成路线 Fig.1 Synthesis route of the target compounds 1a,1b,1c,and 1d.
+
+# 1.3 化合物的体外抗H5N1流感活性测试
+
+1.3.1H5N1假病毒的制备293T细胞培养 $10 \%$ 胎牛血清的DMEM培养液， $1 \%$ 谷氨酰胺， $2 \%$ 青/链霉素。将处于对数生长期的293T细胞以 $5 { \times } 1 0 ^ { 5 } / \mathrm { m L }$ 密度接种于6孔细胞培养板， $3 7 ~ \mathrm { ^ { \circ } C }$ 培养过夜。次日，待细胞密度达到孔底面积 $80 \%$ 左右，按照PEI转染试剂说明书步骤操作。在1支无菌小管中加入 $1 5 ~ \mu \mathrm { L }$ PEI转染试剂和 $1 0 0 ~ \mu \mathrm { L }$ 不含血清和双抗的DMEM培养基，混匀室温静置 $2 \sim$ $3 ~ \mathrm { m i n }$ 。往PEI-DMEM混合液中加入 $3 ~ { \mu \mathrm { g } }$ pNL4-3.luc.R-E-, $1 \mu \ g$ HA（A/Thailand/Kan353/2004）, $1 ~ { \mu \mathrm { g } }$ NA (A/Thailand/Kan353/2004)质粒，混匀后室温静置 $3 0 \mathrm { m i n }$ ，以便形成转染复合物。将转染复合物加入细胞中，轻轻转动六孔板，使其分布均匀。 $5 \% \mathrm { C O } _ { 2 } , 3 7 \ \mathrm { ^ { \circ } C }$ 条件下培养$1 0 \mathrm { { h } }$ ,更换新鲜含 $10 \%$ 小牛血清的DMEM培养液。 $5 \%$ $\mathrm { C O } _ { 2 } , 3 7 \ \mathrm { ^ { \circ } C }$ 条件下继续培养 $4 8 \mathrm { ~ h ~ }$ ，收集细胞培养上清，过滤，分装，置于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱，备用。
+
+1.3.2 待测化合物体外抗H5N1活性[2.18]以每孔 $1 \times 1 0 ^ { 4 }$ 细胞密度接种MDCK细胞于96孔细胞培养板，培养$2 4 \mathrm { h } ; 2$ 倍稀释化合物到不同浓度， $5 0 ~ \mu \mathrm { L }$ 化合物与假病毒 $\mathrm { 1 ~ n g ~ p 2 4 }$ 每孔)在 $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $3 0 ~ \mathrm { m i n }$ ;往96孔板中加入化合物和假病毒的混合物，在 $3 7 \ \mathrm { { ^ { \circ } C } }$ 的细胞培养箱继续培养 $4 8 \mathrm { { h } }$ ;吸走培养上清，用PBS洗两次细胞,每孔加${ 5 0 \mu \mathrm { L } }$ 裂解液，轻轻摇晃，继续静置 $3 0 \mathrm { m i n }$ ,待细胞裂解完毕，吸取 $4 0 ~  { \mu \mathrm { L } }$ 裂解物到白板，加入荧光素酶显色底物，在多功能酶标仪上检测化学发光值，判断药物抑制病毒进入的活性。化合物抑制率 $( \% ) { = } [ 1 { - } ( \mathrm { E } { - } \mathrm { N } ) /$ $( \mathrm { P - N } ) \mathrm { \exists } \times 1 0 0$ ，其中E代表实验组的化学发光值，P代表阳性也就是不加药物只加病毒的化学发光值，N代表阴性对照组的化学发光值。化合物的半数抑制浓度( $\mathrm { \langle I C _ { 5 0 } \rangle }$ 作为化合物抗病毒活性的指标,通过Calccusyn软件计算得出。
+
+1.3.3化合物细胞毒性的测定(MTT法）将MDCK细胞接种于96孔细胞培养板，每孔 $0 . 1 ~ \mathrm { m L }$ ,细胞数为 $1 \times$ $1 0 ^ { 4 }$ 个孔，待 $2 4 \mathrm { h }$ 后长成完整单层，用DMEM将化合物稀释成6个不同浓度，每孔加入 $0 . 1 ~ \mathrm { m L }$ 化合物，每孔总体积 $0 . 2 ~ \mathrm { m L }$ ,同时设正常细胞对照组置于 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 温箱中继续培养 $4 8 \mathrm { ~ h ~ }$ ,每孔加入 $5 0 ~ { \mu \mathrm { L } } 0 . 5 ~ \mathrm { m g / m L }$ 的MTT,继续培养 $^ { 4 \mathrm { h } }$ ，酶标仪于 $5 7 0 \ \mathrm { n m }$ 处测定吸光度值，并进一步计算半数细胞死亡浓度( $\langle \mathbf { C C } _ { 5 0 } \rangle$ ）
+
+1.3.4化合物对VSV-G假病毒的抑制活性测试 VSVG假病毒的包装方法与1.3.1描述的H5N1假病毒的包装步骤一致,只是转染的质粒为 $2 ~ { \mu \mathrm { g } }$ pNL4-3.luc.R-E-,$2 \mu \mathrm { g } \ \mathrm { V S V - G }$ （VSV-G为介导VSV病毒入胞的包膜蛋白)。化合物对VSV-G假病毒的抑制活性测试与1.3.2中描述的步骤一致。化合物对VSV-G假病毒的抑制活性在本研究中作为阴性对照。
+
+1.3.5 化合物对神经氨酸酶NA的抑制活性测试 采用神经氨酸酶抑制剂筛选试剂盒(碧云天，货号：P0309)检测神经氨酸酶的活性。简要步骤如下： $1 0 \mu \mathrm { L N } 1$ 型纯化的神经氨酸酶加入 $7 0 ~ \mu \mathrm { L }$ 检测缓冲液，然后加入 $1 0 ~ \mu \mathrm { L }$ 待测化合物，振荡 $2 \mathrm { m i n }$ 使化合物与神经氨酸酶充分结合。再加入 $1 0 \mu \mathrm { L }$ 神经氨酸酶底物，反应体系于 $3 7 ~ \mathrm { ^ { \circ } C }$ 孵育 $3 0 \mathrm { m i n }$ 后，采用酶标仪(GeniosPro,Tecan,US)检测在 $3 4 0 ~ \mathrm { n m }$ 波长激发下 $5 3 5 ~ \mathrm { n m }$ 波长发射光的荧光强度。荧光强度反映神经氨酸酶的活性。
+
+1.3.6 化合物对HA诱导血凝的抑制活性测试 采用血凝抑制试验检测化合物对HA诱导的鸡红细胞血凝的抑制活性。简述如下，V型血凝板中每孔加入 $2 5 ~ \mu \mathrm { L }$ H5 标准抗原（4HAunits），再加入 $2 5 ~ \mu \mathrm { L }$ 抗H5标准血清(抗原与抗体均购自哈尔滨兽医研究所)或待测化合物，于室温孵育 $^ { \textrm { 1 h } }$ 。然后，每孔加入 ${ 5 0 \mu \mathrm { L } }$ 鸡红细胞$( 0 . 5 \% )$ 。 $4 ^ { \circ } \mathrm { C }$ 孵育 $4 5 \mathrm { m i n }$ 后观察血凝结果。
+
+# 2结果
+
+# 2.1化合物的合成表征
+
+高分辨质谱HRESIMS给出化合物1a-1d的分子离子峰 $\mathrm { [ M + N a ] ^ { + } }$ 分别为933.5184、1023.5652、1053.5757、960.5664，相应的化学式分别为 $\mathrm { { C _ { 4 8 } H _ { 7 8 } N a O _ { 1 6 } } }$ $\mathrm { C _ { 5 5 } H _ { 8 4 } N a O _ { 1 6 } \setminus C _ { 5 6 } H _ { 8 6 } O _ { 1 7 } \setminus C _ { 5 0 } H _ { 8 3 } O _ { 1 5 } N N a }$ ,确认了其化学结构。
+
+![](images/1f88b2760e343dd242a9105a29574e9fd9bf88979d3c72ca0b1c6df61ced79a4.jpg)  
+图2目标化合物1a-1d的高分辨质谱 Fig.2 HRESIMS of the target compounds 1a,1b,1c,and 1d.
+
+# 2.2化合物的抗流感活性
+
+实验表明化合物1a-1d对H5N1流感假病毒均具有一定的抑制活性，其中化合物1d的抑制活性最强，其$\mathrm { I C } _ { 5 0 }$ 分别为 $1 0 . 0 9 { \pm } 0 . 2 3 \cdot 4 . 5 0 { \pm } 0 . 1 2 \cdot 4 . 2 3 { \pm } 0 . 4 8$ 和 $0 . 9 6 \pm$ $0 . 1 0 \mu \mathrm { m o l } / \mathrm { L }$ (表1)。我们前期研究发现先导化合物1对两种H5N1亚型禽流感病毒(A/VietNam/1203/2004)和
+
+H5N1(Goose/Qinghai/59/05)在体外均具有较强的抑制作用[19],其对H5N1流感假病毒A/Thailand/Kan353/2004同样具有较强的抑制活性。这表明系列马铃薯三糖熊果酸衍生物可能具有广谱的抗H5N1流感假病毒活性。
+
+表1化合物抑制H5N1流感病毒活性 Tab.1 Inhibitory activity of the compounds against H5N1   
+
+<html><body><table><tr><td>Compound</td><td>IC50 (μmol/L)</td><td>CC50 (μmol/L)</td><td>SIa</td></tr><tr><td>1a</td><td>10.09±0.23</td><td>26.06±0.10</td><td>2.6</td></tr><tr><td>1b</td><td>4.50±0.12</td><td>18.78±0.15</td><td>4.1</td></tr><tr><td>1c</td><td>4.23±0.48</td><td>18.20±0.32</td><td>4.3</td></tr><tr><td>1d</td><td>0.96±0.10</td><td>48.64±0.35</td><td>50.7</td></tr><tr><td>1</td><td>1.05±0.15</td><td>13.02±0.88</td><td>12.4</td></tr><tr><td>CL-385319</td><td>4.45±1.25</td><td>1480±10</td><td>332.3</td></tr></table></body></html>
+
+$\mathrm { ( S I ) { = } C C _ { 5 0 } / I C _ { 5 0 } } .$
+
+# 2.3化合物对MDCK细胞的毒性
+
+细胞毒性实验(MTT)显示：化合物1a--1d在具有抗病毒活性的浓度时，对犬肾MDCK细胞没有明显的细胞毒性。与化合物1相比，化合物1a--1d对犬肾细胞MDCK表现出更低的细胞毒性，其半数细胞死亡浓度$\mathrm { C C } _ { 5 0 }$ 分别为 $2 6 . 0 6 \pm 0 . 1 0 , 1 8 . 7 8 \pm 0 . 1 5 , 1 8 . 2 0 \pm 0 . 3 2$ 和$4 8 . 6 4 { \pm } 0 . 3 5 ~ \mathrm { \mu m o l / L }$ (表1)。化合物1d对H5N1流感假病毒A/Thailand/Kan353/2004的抑制活性比先导化合物1更强，且对犬肾MDCK细胞的细胞毒性更低，选择系数更高。
+
+# 2.4化合物对VSV-G假病毒及神经氨酸酶NA的抑制
+
+化合物1，1b和1d对源自A/Thailand/Kan353/2004的H5N1假病毒毒株有明显的抑制作用,但在 $2 0 ~ \mu \mathrm { g / m L }$ 浓度下对VSV-G假病毒没有抑制活性(表2)。由于两种假病毒仅是包膜蛋白不同，表明这3个化合物可特异性作用于H5N1流感病毒的包膜蛋白，即血凝素蛋白HA或神经氨酸酶NA。为进一步研究化合物1,1b和1d可能的作用机制,我们进一步测试了3个化合物对神经氨酸酶NA的抑制活性。实验中我们发现在 $2 0 ~ \mu \mathrm { g / m L }$ 浓度下，上述3个化合物对神经氨酸酶NA没有抑制活性(表3)。
+
+# 2.5化合物对血凝素上的HA1亚基的作用
+
+血凝素蛋白包括两个亚基HA1和HA2。HA1介导流感病毒与靶细胞上唾液酸受体的结合，HA2则介导病毒包膜与靶细胞中胞内体膜的融合。血凝抑制试验结果表明该化合物不抑制H5型血凝素蛋白介导的鸡红细胞凝集反应(图3)，表明该化合物不能干扰血凝素HA与靶细胞上的唾液酸受体结合，可能不干扰HA1亚基的受体结合能力。阳性对照孔抗H5血清(Anti-H5)能对抗H5抗原诱导的红细胞凝集，阴性对照孔未加入H5型HA则不能诱导红细胞凝集。
+
+表2化合物对VSV-G假病毒的抑制活性 Tab.2 Inhibitory activity of the compounds against VSV-G   
+
+<html><body><table><tr><td>Group</td><td colspan="3">Luciferase readout</td><td>Mean</td><td>SD</td></tr><tr><td>VSVG control</td><td>32005</td><td>38195</td><td>35145</td><td>35115</td><td>3095</td></tr><tr><td>CL-385319</td><td>39795</td><td>32115</td><td>35915</td><td>35942</td><td>3840</td></tr><tr><td>Compound 1</td><td>31295</td><td>31105</td><td>36305</td><td>32902</td><td>2948</td></tr><tr><td>Compound 1b</td><td>37775</td><td>32285</td><td>38025</td><td>36028</td><td>3244</td></tr><tr><td>Compound 1d</td><td>34135</td><td>37735</td><td>36365</td><td>36078</td><td>1817</td></tr></table></body></html>
+
+表3化合物对神经氨酸酶NA的抑制活性 Tab.3 Inhibitory activity of the compounds against NA   
+
+<html><body><table><tr><td>Group</td><td colspan="3">fluorescence intensity</td><td>Mean</td><td>SD</td></tr><tr><td>Blank</td><td>884</td><td>822</td><td>671</td><td>792</td><td>109</td></tr><tr><td>NA control</td><td>15594</td><td>17995</td><td>18777</td><td>17455</td><td>1658</td></tr><tr><td>Compound 1</td><td>18260</td><td>17397</td><td>17029</td><td>17562</td><td>631</td></tr><tr><td>Compound 1b</td><td>15652</td><td>16062</td><td>18744</td><td>16819</td><td>1679</td></tr><tr><td>Compound 1d</td><td>17312</td><td>19545</td><td>19485</td><td>18781</td><td>1272</td></tr></table></body></html>
+
+# 2.6化合物1d与血凝素蛋白的分子对接模拟
+
+实验表明化合物1及1a-1d能特异性地作用于H5N1禽流感病毒的包膜蛋白，而不抑制神经氨酸酶，血凝实验也呈阴性，则表明该类化合物的作用靶点可能为血凝素蛋白的HA2亚基。为了进一步揭示化合物1d与血凝素蛋白可能的结合模式,我们利用Sybyl7.0软件将化合物1d与H5N1禽流感病毒A/Vietnam/1194/2004的血凝素蛋白(PDB：2IBX)进行了分子对接模拟实验，结果如图4所示。Dock显示化合物1d与血凝素蛋白的四个氨基酸LYS-26、ASN-27、ASN-50、ASN-53形成了比较强的氢键作用。
+
+# 3讨论
+
+介导流感病毒入胞的病毒包膜蛋白血凝素，是流感病毒进入抑制剂的主要靶点。血凝素蛋白为三聚体结构，每个单体由HA1和HA2两个亚基组成。HA1亚基上的受体结合区识别并结合细胞膜上的唾液酸受体结合，然后病毒被胞饮进入细胞质，并被包裹在胞内体中;HA2为跨膜亚基，在胞内体酸性环境下介导病毒膜与胞内体膜的融合。因此，血凝素蛋白可作为抗流感药物的作用靶点,用于流感病毒进入抑制剂的筛选[13-15]。流感病毒进人抑制剂作为一类新型的抗病毒药物，可分别作用于流感病毒进入的不同环节，如通过竞争结合病毒血凝素或细胞唾液酸受体抑制病毒血凝素吸附细胞，或抑制病毒血凝素蛋白的融合功能，从而阻正病毒进入靶细胞抑制病毒感染，因此其在流感病毒的治疗特别是预防上具有广阔的应用前景。例如盐酸阿比朵尔已于1993年被俄罗斯批准上市，该药物是目前唯一被批准上市的流感病毒的进入抑制剂，其抗病毒机制可能是通过抑制HA2亚基的融合功能[2-23]。上海Roche公司的Tang等[24]报道苯磺酰胺通过靶向HA抑制流感病毒入胞，其中化合物RO5464466和RO5487624能强效抑制甲型流感病毒A/Weiss/43strain(H1N1)。
+
+![](images/e89d20db638a8211cbb89e20e082734a4d8c19d6c247065b75a208e4ba373a03.jpg)  
+图3目标化合物对H5亚型HA介导的凝集反应无抑制活性 Fig.3The target compounds did not inhibit H5 hemagglutinin-induced hemagglutination.
+
+![](images/81a4d6071e0e139d156ec4b73c89bd1ad2000c7d2cee011a87ba30ba639a9d2e.jpg)  
+图4模拟化合物1d与血凝素蛋白HA的分 子对接区域 $( A )$ 和分子对接模式 $\mathbf { \Gamma } ( B )$ Fig.4 Docking region (A) and docking mode $( B )$ of compound 1d in the HA trimer of the simulated three-dimensional structure of H5 HA.
+
+本研究发现马铃薯三糖熊果酸衍生物即目标化合物1,1b和1d对源自A/Thailand/Kan353/2004的H5N1假病毒毒株有明显的抑制作用，课题组前期的研究发现化合物1对两种H5N1病毒A/VietNam/1203/2004和A/Goose/Qinghai/59/05均具有较强的抑制作用，提示表明该类化合物能广谱抑制H5N1病毒。化合物1，1b和1d对VSV-G假病毒无抑制活性，提示该类化合物特异性抑制H5N1假病毒的包膜蛋白，然而化合物1,1b和1d并不抑制神经氨酸酶NA，这些结果表明该类化合物抑制包膜蛋白HA。也就是说，马铃薯三糖熊果酸衍生物作为新型的H5N1禽流感小分子进入抑制剂，可专一作用于病毒表面的血凝素蛋白HA。HA分为HA1与HA2两个亚基，血凝抑制实验表明药物不抑制HA1介导的病毒吸附功能提示该类化合物与HA2亚基结合。
+
+值得注意的是化合物1d对H5N1流感假病毒A/Thailand/Kan353/2004的抑制活性比先导化合物1更强，且对犬肾MDCK细胞的细胞毒性更低，选择系数更高。因此，化合物1d较化合物1更适合作为先导化合物进行后期的研究开发。化合物1d不抑制HA1介导的病毒吸附功能，进一步分子对接研究证实化合物1d结合于HA2亚基融合肽周围的四个氨基酸LYS-26、ASN-27、ASN-50、ASN-53形成了比较强的氢键作用，所以化合物1d很可能干扰HA2亚基诱导的融合功能而抑制病毒入胞。这种作用机制与课题组研究的另一类H5N1流感进入抑制剂CL-385319不同，化合物CL-385319主要是通过诱导-契合过程，使其苯环与HA2亚基F110和HA1亚基的M24形成 $_ { ( \pi - \pi ) }$ 共价结合。
+
+因此，马铃薯三糖熊果酸衍生物的作用机制不同于3-三氟甲基苯甲酰类衍生物与H5N1病毒血凝素蛋白的结合，作用模式也有所差异，本研究的系列化合物丰富了流感进入抑制剂的分子骨架和抗病毒机制的多样性。
+
+本研究结果的构效关系表明熊果酸的C-17位羧基被酯化后可以显著提高其抑制病毒的活性；将C-17位羧基转化成二甲酰胺后不仅有利于抗病毒活性的增加，而且有助于降低对MDCK细胞的毒性，提高化合物的选择指数和成药性。确定最佳的修饰基团并详细分析其构效关系则需要积累更多的化合物。
+
+# 参考文献：
+
+[1] Schade D,Kotthaus J,Riebling L,et al.Development of novel potent orally bioavailable oseltamivir derivatives active against resistant influenza A[J].JMed Chem,2014,57(3): 759-69.   
+[2]Liu S,Li R,Zhang R,et al.CL-385319 inhibits H5N1 avian influenza A virus infection by blocking viral entry [J].Eur J Pharmacol,2011,660(2/3): 460-7.   
+[3]An J,Lee DC,Law AH,et al.A novel small-molecule inhibitor of the avian influenza H5N1 virus determined through computational screening against the neuraminidase[J].JMed Chem,20o9,52(9): 2667-72.   
+[4]Neumann G,Noda T,Kawaoka Y. Emergence and pandemic potential of swine-origin H1N1 influenza virus[J].Nature,2009, 459(7249): 931-9.   
+[5]Hsieh HP,Hsu JT. Strategies of development of antiviral agents directed against influenza virus replication[J]. Curr Pharm Des, 2007,13(34): 3531-42.   
+[6] Zhu Z,Li R,Xiao G,et al. Design,synthesis and structure-activity relationship of novel inhibitors against H5N1 hemagglutininmediated membrane fusion[J].Eur JMed Chem,2012,57: 211-6.   
+[7]Pinto LH, Holsinger LJ,Lamb RA. Influenza virus M2 protein has ion Channel activity[J]. Cell,1992,69(3): 517-28.   
+[8]Bright RA,Medina MJ,Xu X,et al.Incidence of adamantane resistance among influenza A(H3N2） viruses isolated worldwide from 1994 to 2005:a cause for concern[J].Lancet,2005,366 (9492): 1175-81.   
+[9] Gupta RK,Nguyen-Van-Tam JS. Oseltamivir resistance in influenza A(H5N1） infection[J].N Engl J Med,2006,354(13):1423-4; author reply 1423-4.   
+[10]Moscona A. Global transmission of oseltamivir-resistant influenza [J].N EnglJMed,2009,360(10): 953-6.   
+[11]Kiso M,Mitamura K, Sakai-Tagawa Y, et al. Resistant influenza A viruses in children treated with oseltamivir:descriptive study [J]. Lancet,2004,364(9436): 759-65.   
+[12] Skehel JJ,Wiley DC.Receptor binding and membrane fusion in virus entry:the influenza hemagglutinin [J].Annu Rev Biochem, 2000,69:531-69.   
+[13] Cianci C,Yu KL,Dischino DD,et al.pH-dependent changes in photoaffinity labelingpaternsof theH1 influenzavirus hemagglutinin by using an inhibitor of viral fusion[J].J Virol, 1999, 73(3): 1785-94.   
+[14]朱志博,蔡 云,杨 洁,等.3-三氟甲基苯甲酰胺类衍生物对H5N1流 感病毒进入靶细胞的抑制活性[J].南方医科大学学报,2014,34(7): 961-4.   
+[15]张莉琼,刘水财,范继鸿,等.天然产物chlorogenin3-O $\cdot \beta$ -chacotrioside 结构类似物的合成[J].华西药学杂志,2013,28(6):556-9.   
+[16] Staschke KA,Hatch SD,Tang JC,et al. Inhibition of influenza virus hemagglutinin-mediated membrane fusion by a compound related to podocarpic acid[J]. Virology,1998,248(2): 264-74.   
+[17] Wang M,Di B, Zhou DH,et al. Food markets with live birds as source of avian influenza[J].Emerg Infect Dis,2Oo6,12(11): 1773-5.   
+[18] Basu A,Antanasijevic A, Wang M, et al. New smallmolecule entry inhibitors targeting hemagglutinin-mediated influenza a virus fusion [J].J Virol,2014,88(3): 1447-60.   
+[19] Song G,Yang S, Zhang W,et al. Discovery of the first series of small molecule H5N1 entry inhibitors[J].J Med Chem,2009,52 (23): 7368-71.   
+[20] Ding N,Chen Q, Zhang W,et al. Structure-activity relationships of saponin derivatives:a seriesof entry inhibitorsforhighly pathogenic H5N1 influenza virus[J]. Eur JMed Chem,2012,53: 316-26.   
+[21] Schwarz S, Siewert B,Xavier NM,et al.A "natural" approach: synthesis and cytoxicity of monodesmosidic glycyrrhetinic acid glycosides[J].Eur JMed Chem,2014,72: 78-83.   
+[22] Boriskin YS,Leneva IA,Pécheur EI,et al. Arbidol:a broadspectrum antiviral compound that blocks viral fusion[J].Curr Med Chem,2008,15(10): 997-1005.   
+[23]Leneva IA，Russell RJ,Boriskin YS,et al. Characteristics of arbidol-resistant mutants of influenza virus: implications for the mechanism of anti-influenza action of arbidol[J].Antiviral Res, 2009,81(2): 132-40.   
+[24]Zhu L,Li Y,Li S,et al. Inhibition of influenza A virus (H1N1) fusionbybenzenesulfonamidederivativestargetingviral hemagglutinin[J].PLoS One,2011,6(12): e29120.
+
+(编辑：吴锦雅）

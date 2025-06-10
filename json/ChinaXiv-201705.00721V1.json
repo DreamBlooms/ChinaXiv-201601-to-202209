@@ -1,0 +1,156 @@
+[
+    {
+        "type": "text",
+        "text": "An efficient method for the synthesis of disubstituted thioureas via the reaction of $N , N ^ { \\prime }$ -di-Boc-substituted thiourea with alkyl and aryl amines under mild conditions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biaolin Yin\\*, Zhaogui Liu, Mingjun Yi, Jiancun Zhang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guangzhou Instituteof BiomedicineandHealth,The ChineseAcademyofSciences,Guangzhou,5l0663China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An efficient method for the synthesis of disubstituted thioureas via the reaction of $N , N ^ { \\prime }$ -di-Boc-substituted thiourea 5 with alkyl and aryl amines under mild conditions has been developed.In the presence of $\\mathrm { \\Delta N a H }$ asabase,trifluoroacetic anhydride(TFAA) reacted with 5providigintermedate6hichtheneactedwithaminesgiingthoureas7inexcelentyields.Tisreactionconditions toleratedoter functional groups such as amide, ester, enol ether and hydroxyl groups. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thioureas have attracted much attention due to their bioactivities as pharmaceutics and pesticides.A variety of thiourea derivatives and their metal complexes exhibit analgesic,1 anti-inflammatory,² antimicrobial,’ anticancer4 and antifungal activities.5 Moreover, thioureas are important building blocks in the synthesis of heterocycles.For example,2-amino-1,3-thiazoles can be readily prepared through the condensation of thioureas with $\\textsf { a }$ -halocarbonyl compounds.Likewise,arylthioureas can be transformed into benzothiazoles upon treatment with bromine.7 Other examples include the synthesis of iminothiazolines, thiohydantoins,’ 1,3,5-triazine10 and 2-amino-oxazo-lidines.11 Therefore,the synthesis of novel thioureas and the development of new methods for their preparation are of great importance in searching bioactive molecules as well as in synthetic chemistry. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To date,a variety of methods for the preparations of thioureas have been documented,including the reaction of alkali metal thiocyanates with amines in the presence of a strong acid,12 aryl isothiocyanates with amines followed by basic hydrolysis,13 isothiocyanates withammonia or amines,4 primary amines with carbon disulfide in the presence of mercury acetate and aqueous ammonia15 and unsubstituted thioureas with primary alkyl amines at high temperature.16 Recently, several other new methods for the preparation of substituted thioureas have also been reported.17 However, many reported methods suffer from drawbacks and limitations related to harsh reaction conditions such as high reaction temperature,long reaction time, the use of a strong acid or base and noxious reagents such as hydrogen sulfide and carbon disulfide.Therefore,the development of a mild, eficient and environmentally benign method is highly desirable.Herein，we report a novel,mild and efficient method for the preparation of disubstituted thioureas via the reaction of $N , N ^ { \\prime }$ -di-Bocsubstituted thiourea with alkyl and aryl amines. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, Charette and others reported the generation of imino 3 and iminium 4 triflates via the reaction of amide with triflic anhydride in the presence of a base. Those triflates can further react with a series of nucleophiles,such as alcohols, amines,aminothiols, $\\mathrm { H } _ { 2 } \\mathrm { S }$ and $\\mathrm { H } _ { 2 } ^ { \\mathbf { \\bar { 1 8 } } } \\mathrm { O }$ to give the corresponding esters,amidines,thiazolines,thioamides and $^ { 1 8 } \\mathrm { O }$ -labelled amides (Scheme 1).18 Although this kind of reaction with an amide has been extensively used in organic synthesis,to the best of our knowledge,little exploration has been conducted with thiocarbonyl compunds. In view of the fact that the properties of triflates and thiotriflates are quite different,we envisioned that some new information couldbe obtained when the substrate isa thiocarbonyl compound. Initially， $N , N ^ { \\prime }$ -di-Boc-substituted thiourea, prepared from thioureas according to a literature method,19 was chosen as the substrate,andbenzylamine as the nucleophile.After treatment of 5 with $\\mathrm { T f } _ { 2 } \\mathrm { O }$ (1.1 equiv) and pyridine (1.2 equiv） at $0 { } ^ { \\circ } \\mathrm { C }$ for $^ { \\textrm { 1 h } }$ ，followedby the addition of benzylamine (1.1 equiv), no expected guanidine derivative 6 was produced; instead, thiourea 7a was formed in moderate yield $( 6 4 \\% )$ .20 This unexpected but useful result nonetheless provides a novel method for the preparation of disubstituted thioureas under mild conditions (Scheme 2).Further efforts were made to adjust the reaction variants such as activator,base,reaction temperature and the amount of amine to optimize the conditions.The results are summarized in Table 1. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b917c01d432963bc1f46ca553b17de8f71a6aaf952102d6f9de53e7e98db082.jpg",
+        "img_caption": [
+            "Scheme 1.Generation of imino 3 and iminium 4 triflates and their further transformations. ",
+            "Scheme 2.Reaction of 5 with benzyl amine using $\\mathrm { T f } _ { 2 } \\mathrm { O }$ as an activator. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It was found that if $\\mathrm { B n N H } _ { 2 }$ wasused alone, the reaction did not produce thiourea 7a at room temperature overnight, but guanidine 6 was formed in $7 5 \\%$ yield (entry 1). When other activators such as $\\mathbf { A c } _ { 2 } \\mathbf { O }$ ，MsCl and TsCl are used, the yields were lower (entries2-4) and TFAA(trifluoroacetic anhydride) as an activator gave rise to a little higher yield (entry 5).Meanwhile, other organic bases such asDIEA ( $_ { \\mathrm { ~ \\it ~ N ~ } , N }$ diisopropylethylamine) or NMM( $N _ { \\mathbf { \\lambda } }$ -methylmorpholine）were used,7a was formed in lower yields along with many other unidentified by-products. To our delight,when NaH was used as a base to deprotonate andTFFA asanactivator,the reactionyield was increased to $91 \\%$ (entry 8). Surprisingly, increasing the amount of $\\mathrm { B n N H } _ { 2 }$ (2.2 equiv, entry 9) led to a lower yield $( 7 3 \\% )$ along with some deprotected by-product of $\\mathbf { 7 a }$ $( 1 1 \\% )$ ，possibly ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NHBn 1)Tf2O(1.1 eq) Boc Boc Boc Boc Pyrine (1.2 eq) NH N 6 0% N N H H 2)BnNH2/r.t. S= 5 Boc Bn NH NH 7a 64% due to the deprotection of the Boc group in the presence of excessive $\\mathrm { B n N H } _ { 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/118524453aebf40d8cf51f4d71a2d288d977f873f6b8f41533d0c77330ac4c24.jpg",
+        "table_caption": [
+            "Table 1 Optimization of the reaction conditions "
+        ],
+        "table_footnote": [
+            "a Isolated yield. b Guanidine was the only product isolated. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">S Boc Boc ZH ZH 5</td><td>BnNH2 reaction conditions</td><td>S Boc Bn NH NH</td></tr><tr><td>THF,overnight</td><td>7a</td></tr><tr><td>Entry</td><td>Reaction conditions</td><td>Yield a (%)</td></tr><tr><td>1 2</td><td>BnNH2 (1.1 equiv)/rt AczO(1.1 equiv)/pyridin (1.2 equiv)e/0 C then</td><td>0b 58</td></tr><tr><td></td><td>BnNH/rt</td><td></td></tr><tr><td>3</td><td>MsC (1.1 equiv)/pyridine (1.2 equiv)/0 C then BnNH2 (1.1 equiv)/rt</td><td>60</td></tr><tr><td>4</td><td>TsCl(1.1equiv)/pyridine (1.2equiv)/0 C then BnNH2 (1.1 equiv)/rt</td><td>50</td></tr><tr><td>5</td><td>TFAA(1.1 eq)/pyridine (1.2 equiv)/0 C then BnNH2 (1.1 equiv)/rt</td><td>78</td></tr><tr><td>6</td><td>TfO(1.1 equiv)/DIEA (1.2 equiv)/0 C then BnNH2 (1.1 equiv)/rt</td><td>25</td></tr><tr><td>7</td><td>Tf2O(1.1 equiv)/NMM (1.2 equiv)/0 C then BnNH2 (1.1 equiv)/rt</td><td>32</td></tr><tr><td>8</td><td>TFAA (1.1 equiv)/NaH (1.2 equiv)/0 C then BnNH2 (1.1 equiv)/rt</td><td>91</td></tr><tr><td>9</td><td>TFAA(1.1 equiv)/NaH(1.2 equiv)/0 C then BnNH2 (2.2 equiv)/rt</td><td>73</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Based on the results,we concluded that TFAA（1.1 equiv)/NaH (1.2 equiv) $/ 0 \\mathrm { ~ \\Omega ~ } ^ { \\circ } \\mathrm { C }$ then $\\mathrm { \\bf B n N H } _ { 2 }$ (1.1 equiv)/rt in THF solvent are suitable conditions for this conversion. The scope of the reaction was then examined with different amines,and the results are summarized in Table 2.As can be seen,all primary amines worked well with 5 affording the desired compounds $\\mathbf { 7 b - 7 f }$ in excellent yields(entries 1-4).It is also worth noting that under these reaction conditions,functional groups such as amide,ester,enol ether and hydroxyl are tolerated.Cyclic five or six-membered ring amines also afford the desired thioureas in good yields (entries 5-8). Importantly,under this condition,no epimerization of compound 7i was observed based on $^ 1 \\mathrm { H }$ NMR. In contrast,more hindered acyclic secondary amines did not lead to the desired products under these conditions (entry 9).Less nucleophilic primary arylamines also afford the desired products in excellent yields (entries 1O and11). With aminophenol, only the thiourea product was isolated and no thiocarbamate was observed (entry 11). Similar to theacyclic secondaryalkyl amines,acyclic secondary arylamines did not afford the desired product (entry 12). The reaction of 5 with phenyl hydrazine afforded exclusively the thiohydrozone product ${ \\bf 7 n }$ (entry 13). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In summary,an efficient method for the synthesis of mono- and N,N-disubstituted thioureas has been developed.This method involves the reaction of $N , N ^ { \\prime }$ -di-Bocsubstituted thiourea with amines in the presence of NaH and TFAA. This method can proceed under mild conditions,and fuctionalized thioureas can be readily prepared. Not only primary alkyl amine but also secondary alkyl amine and primary arylamine substituted thioureas can be obtained in high yield.Importantly，no symmetric disubstituted thioureas formation was observed under the reaction conditions.Further studies including the detailed mechanism and the reaction of $N , N ^ { \\prime }$ -di-Boc-substituted thiourea with other nucleophiles such as alcohols, stable carbanions to synthesize diverse thiocarbamates and thioamide derivatives are under way and will be reported in due course. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/570d7c6e33e4b760fd2247e30f1d4da4ae39cb50d22c130bd84a6183b0c4e16e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Table 2 S Boc 5</td><td>Synthesis of thioureas via the reaction of 5 with amines21 BoC/THF/0C</td><td colspan=\"2\">1)NaH (1.2 eq)/TFAA(1.1 eq) Boc 2) R1R²NH(1.1 eq)/ r.t.</td><td colspan=\"2\">S NR1R² H 7b~7n Yie (%)</td></tr><tr><td colspan=\"2\">1</td><td>Entry RR2NH HN</td><td></td><td>Product S BocHN</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">2 AcHN</td><td>ol AcO/,. OEt</td><td></td><td>7b AcO, AcHN 7c HN-</td><td colspan=\"2\">OEt 78 NHBoC</td></tr><tr><td colspan=\"2\">N 3 D</td><td>A00 OAC O NH2</td><td>OOMe</td><td>1 S Ae QAc AcHN</td><td colspan=\"2\">oMe 88 NHBoC</td></tr><tr><td colspan=\"2\">cO 4</td><td>AcHN -Ph</td><td>NH2 BocHN</td><td>7d NH sⅡ Ph H</td><td colspan=\"2\">OH 82</td></tr><tr><td>N 5</td><td colspan=\"2\">HN1 OH NH</td><td></td><td>7e su N NHBoC</td><td colspan=\"2\"></td></tr><tr><td>vei 6</td><td colspan=\"2\">NH</td><td></td><td>7f SNHBOC</td><td colspan=\"2\">90</td></tr><tr><td>7</td><td colspan=\"2\">NH</td><td></td><td>7g S NHBoC</td><td colspan=\"2\">82</td></tr><tr><td></td><td colspan=\"2\">HO,</td><td>HO,</td><td>7h OMe</td><td colspan=\"2\"></td></tr><tr><td>8</td><td colspan=\"2\">N</td><td>OMe</td><td>NHBOC 7i (n-BUyeNNHBOC S</td><td colspan=\"2\"></td></tr><tr><td>9</td><td colspan=\"2\">NH</td><td></td><td></td><td colspan=\"2\">7j NHBoC</td></tr><tr><td>10</td><td colspan=\"2\">-NH2</td><td></td><td>7k S</td><td colspan=\"2\"></td></tr><tr><td>11</td><td colspan=\"2\">HO -NH2</td><td></td><td>HO HN 7I S</td><td colspan=\"2\">-NHBoC</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb2c7f51bc3461ddc85a47b139f9926501b7f9f4f421072dd3481ed1b127f490.jpg",
+        "table_caption": [
+            "Table 2 (continued) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Entry</td><td>RiRNH</td><td>Product</td><td>Yield (%)</td></tr><tr><td>12</td><td>NHMe</td><td>/ N NHBoC 7m S</td><td>0</td></tr><tr><td>13</td><td>NHNH2</td><td>PhHNHN、 NHBoC S 7n</td><td>85</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgment ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Grant-in-Aid for Scientific Research from the Municipal Governmentof Guangzhou. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "References and notes ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.Lee,J.; Lee, J.;Kang,M.;Shin,M.;Kim, J.-M.; Kang,S.-U.; Choi, H.-K.;Suh,Y.-G.;Park,H.-G.;Oh,U.;Kim,H.-D.; Park,Y.-H.; Ha,H.-J.; Kim,Y.-H.;Toth,A.;Wang,Y.; Tran,R.; Pearce,L.V.; Lundberg,D.J.;Blumberg,P.MJ.Med.Chem. 2003,46,3116.   \n2．Ranise,A.; Spallarossa，A.；Bruno,O.；Schenone,S.；Fossa,P.; Menozzi,G.；Bondavalli,F.；Mosti,L.;Capuano,A.;Mazzeo,F.; Falcone,G.; Filippelli,W.Il Farmaco 2003,58,765.   \n3．Silvio,C.;Fernando,C.; Macedo, J.;Giselle,A.N.; Costa,M.T.; Rodrigues,J.;Rosival,B.V.;Verde,L.C.; Souza,N.; Ivo,V.; Carlito, L.; SaFernando,P.Monatsh. Chem. 2007,138,511.   \n4.Omar,M.E.A.A.-Mohsen.M.E;Farghaly,A.M.;Hazzai,A.A. B.;Eshba,N.H.;Sharabi,F.M.;DaabeesJ.Pharm. Sci. 2006,70, 1075.   \n5.Krishnamurthy,R.;Govindaraghavan,S.;Narayanasamy J. Pestic. Sci.1999,52,145.   \n6.Kearney,P.C.; Frenandez,M.; Flygare,J.A.J. Org. Chem.1998,63, 196.   \n7．Patil,D.G.; Chedekel, M. R.J. Org. Chem.1984,49,997.   \n8．Kasmi,S.;Hamelin,J.;Benhaoua,H.Tetrahedron Lett.1998,39, 8093.   \n9.(a)Kidwai,M.;Venkataramanan,R.;Dave,B.Green Chem.2001,3, 278;(b) Paul, S.; Gupta,M.; Gupta,R.; Loupy,A. Synthesis 2002,75.   \n.0．Anshu,D.; Kapil,A.; Meha, S. S. Synth. Commun. 2004,34,1141.   \n1.Heinelt,U.;Schultheis,D.；Jager,S.； Iindenmaire,M.;Pollex,A.; Beckmann,H.S.G.Tetrahedron 2004,60,9883.   \n2.Love,B.; Bender,P.E.;Bowman,H.; Helt,A.; Mclean,R.; Jen,T.J. Med.Chem.1972,15,1024.   \n3.(a)Frank,R.L.; Smith,P.V.Org.Synth.Coll.Vol.II1955,735;(b) Rasmussen,C.R.;Villani,F.J.,Jr.; Weaner,L.E.; Reynolds,B.E.; Hood,A.R.; Hecker,L.R.; Nortey, S.O.; Hanslin,A.; Costanzo,M. J.;Powell,E.T.; Molinari,A.J. Synthesis1988,456.   \n14.Moor,M.L.; Crossely,F. S. Org. Synth. Coll.Vol.II1955,617.   \n15.Bernstein, J.; Yale,H.L.; Losee,K.; Holsing,M.; Martins,J.; Lott, W.A.J.Am. Chem. Soc.1951,73,906.   \n16．Erickson,J.G.J. Org. Chem. 1956,21,483.   \n17.(a) Väzquez,J.; Bemes,S.; Reyes,Y.; Moya,M.; Sharma,P.; Alvarez, C.；Gutierrez，R.Synthesis 2004，1955；(b)Katritzky，A．R.; Kirichenko,N.;Rogovoy,B.V.;Kister,J.;Tao,H.Synthesis2004, 1799；(c）Ciszewski，L.；Xu，D.；Repic，O.；Blacklock，T．J. Tetrahedron Lett.2004,45,8091;(d) Mitsuo,K.; Masato,S.; Keiko, T.; Tadashi,A. TetrahedronLett. 2005,46,5841.   \n18.(a) Falmagne,J.B.; Escudero,J.； Taleb-saharaoui, S.；Ghosez,L. Angew. Chem.,Int.Ed.Engl.1981,20,879;(b) Sisti,N.J.; Fowler,F. W.; Grierson,D.S.Synlett 1991,816;(c) Thomas,E.W.Synthesis 1993,767; (d) Barbaro,G.; Battaglia,A.; Bruno, C.; Giorgianni, P.; Guerrini,A.J.Org. Chem. 1996,61,8480;(e) Sisti,N.J.; Zeller,E.; Grierson,D.S.；Fowler,F.W.J.Org.Chem.1997,62,2093；(f) Charette,A.B.; Chua,P.J.Org. Chem. 1998,63,908;(g) Charette, A.B.;Chua,P.TetrahedronLett.1997,38,8499;(h) Charette,A.B.; Chua,P.J.Org.Chem.1998,63,908;(i) Charette,A.B.;Chua,P. Synlett1998,163;(j)Charette,A.B.；Chua,P.Tetrahedron Lett. 1998,39,245;(k)Charette，A.B.;Grenon,M.Tetrahedron Lett. 2000,41,1677.   \n19．Exposito,A.; Femandez-Suarez,M.; Iglesias,T.; Munoz,L.; Riguera, R.J.Org. Chem.2001,66,4206.   \n20.Spectral data for compound7a: Solid, mp 147-148 C.IR (KBr) $\\nu _ { \\mathrm { m a x } }$ 3446,3172,2971,1668,1534,1250,1206,1150,964,918, $7 5 0 \\mathrm { c m } ^ { - 1 }$ $\\mathrm { ^ 1 H }$ NMR (400 MHz, $\\mathrm { C D C l } _ { 3 }$ ): δ 9.97 (s,1H),7.94 (s,1H),7.38-7.29 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(m,5H),4.86 (d,2H, $J { = } 5 . 6 \\mathrm { H z }$ ,1.47 (s,9H). $^ { 1 3 } \\mathrm { C }$ NMR ${ } ^ { \\cdot } 4 0 0 \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 1 7 9 . 8 \\$ ,151.8,136.5,128.8,128.0,127.9,83.8,49.5,28.1.ESIMS $m / z$ (265, $\\mathbf { M } ^ { + } { - } \\mathbf { H } )$ . Anal. Calcd for $\\mathrm { C } _ { 1 3 } \\mathrm { H } _ { 1 8 } \\mathrm { N } _ { 2 } \\mathrm { O } _ { 2 } \\mathrm { S }$ : C, 58.62;H, 6.81;N,10.52;S,12.04.Found:C,58.44;H,6.86;N,10.64;S,12.33. 21．Typical procedure for thioureas formation $( 7 \\mathbf { c } )$ : To a mixture of $N , N ^ { \\prime }$ di-Boc-substituted thiourea ( $5 5 2 \\mathrm { m g }$ ，2mmol)andTHF $2 0 \\mathrm { m L }$ was added $60 \\%$ NaH(95 mg,2.4 mmol) at $0 { } ^ { \\circ } \\mathrm { C }$ .The reaction mixture was stirred at the same temperature for $^ \\mathrm { ~ 1 ~ h ~ }$ ，then TFAA $( 3 7 0 ~ \\mu \\mathrm { L }$ $2 . 2 \\ : \\mathrm { m m o l }$ ）was added and the stirring continued for additional $^ { \\textrm { 1 h } }$ Thenamine $\\left( 2 . 2 \\mathrm { m m o l } \\right)$ wasadded and the resulting reaction mixture was stirred at room temperature overnight.Ten millilitre of $\\mathrm { H } _ { 2 } \\mathrm { O }$ was added to quench the reaction and the mixture was extracted with EtOAc $( 1 5 \\mathrm { m L } \\times 3 )$ .The combined organic layers were dried over $\\mathrm { M g S O _ { 4 } }$ ，and the solvent was removed under reduced pressure.The residue was purified by flash column chromatography to afford compound 7c. Solid, $\\mathrm { m p ~ 1 0 4 - 1 0 5 ~ ^ { \\circ } C }$ IR (KBr): $\\nu _ { \\mathrm { m a x } }$ ：3485,2931, 1725,1719,1633,1557,1433,1297,1031,774, $6 5 9 \\mathrm { c m } ^ { - 1 }$ ： $\\mathrm { ^ { 1 } H }$ NMR ${ } ^ { \\cdot } 4 0 0 \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta \\ 9 . 8 9 \\$ (d, $J { = } 6 . 4 \\ : \\mathrm { H z }$ ,1H),7.94 (s,1H),6.67 (s, 1H), 6.32 (d, $J { = } 8 . 4 \\ : \\mathrm { H z }$ ,1H),5.60 (d, $J { = } 8 . 8 \\mathrm { H z }$ ,1H),4.87-4.84 (m, 1H)，4.41-4.36 (m，1H)，4.24-4.18 (m,2H),3.00 (dd, $J { = } 6 . 0 \\mathrm { H z }$ $J = 1 8 . 0 \\mathrm { H z }$ ),2.49-2.42 (m,1H),2.09 (s,3H),1.93 (s,3H),1.48(s, 9H), 1.29 (t, $J { = } 7 . 2 \\mathrm { H z }$ ,3H). $^ { 1 3 } \\mathrm { C }$ NMR $4 0 0 \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ δ181.1, 170.9,165.2,151.3,135.3,130.7,84.4,71.9,61.3,53.9,53.0,30.4,28.0, 23.3,21.0,20.9,14.2;ESI-MS $m / z$ (444, $\\mathbf { M } ^ { + } { + } \\mathbf { H } _ { , } ^ { \\mathrm { ~ } }$ .Anal.Calcd for $\\mathrm { C _ { 1 9 } H _ { 2 9 } N _ { 3 } O _ { 7 } S }$ C,51.45;H,6.59;N,9.47; S,7.23.Found:C,51.67;H, 6.33; N,9.50; S, 7.10. ",
+        "page_idx": 3
+    }
+]

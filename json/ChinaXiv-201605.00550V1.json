@@ -1,0 +1,673 @@
+[
+    {
+        "type": "text",
+        "text": "Crassulacean acid metabolism (CAM) offers sustainable bioenergy production and resilience to climate change ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NICKA.OWEN1,KIERANF.FAHY² and HOWARD GRIFFITHS1   \n1Departmentof Plant Sciences,Downing St.Universityof Cambridge,Cambridge CB2 3EA,UK,Departmentof Chemistry,   \nImperialCollegeLondon,LondonSW72AZ,UK ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biomass production on low-grade land is needed to meet future energy demands and minimize resource conflicts.This,however,requires improvements in plant water-use eficiency(WUE)that are beyond conventional C3 and C4 dedicated bioenergy crops.Here we present the first global-scale geographic information system (GIS)-based productivity model of two highly water-efcient crassulacean acid metabolism (CAM) candidates: Agaoe tequilana and Opuntia ficus-indica.Features of these plants thattranslateto WUE advantages over C3 and C4bioenergy crops include nocturnal stomatal opening，rapid rectifier-like root hydraulic conductivity responses to fluctuating soil water potential and the capacity to buffer against periods of drought.Yield simulations for the year 2070 were performed under the four representative concentration pathway (RCPs) scenarios presented in the IPCC's 5th Assessment Report. Simulations on low-grade land suggest that O.ficus-indica alone has the capacity to meet 'extreme' bioenergy demand scenarios $( > 6 0 0$ EJ $\\mathrm { y r } ^ { - 1 }$ ）and is highlyresilient to climate change $( - 1 \\% )$ .Agave tequilana is moderately impacted $( - 1 1 \\% )$ . These results are significant because bioenergy demand scenarios ${ > } 6 0 0$ EJ $\\mathrm { y r } ^ { - 1 }$ could be met without significantly increasing conflicts with food production and contributing to deforestation. Both CAM candidates outperformed the C4 bioenergy crop,Panicum virgatum L. (switchgrass) in arid zones in the latitudinal range $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:adaptation,Agaoetequilana,bioenergy，CAM,climatechange,Crasslaceanacid metabolism,geospatial model GIS,Nobel EPI,Opuntia ficus-indica,renewableeergy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received11 January2015;accepted18April 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strategies to improve energy security and mitigate against the impacts of climate change commonly include the production of energy from biomass (EIA, 2013; IEA,2013). On a calorific basis,the most important biomass resources in future energy scenarios are feedstocks specifically grown for energy (Slade et al.,2014). However, the utilization of land for dedicated energy crops is controversial.Conflicts that exist between land allocated to bioenergy production, food production,and biodiversity conservation have been called the 'bioenergy trilemma'(Tilman et al.，20o9).These conflicts are predicted to become more acute with the negative impacts of climate change on water availability and food production, set against the increasing demands of agrowing global population (Tilman et al.，2oo9;Godfray et al.,2010;Van Renssen,2011;Creutzig et al.,2012; Howellsetal.,2013;Wheeler&von Braun,2013;Slade et al., 2014). One possible solution is to restrict bioenergy production to marginal and low-grade lands.Yet the extent to which such areas may be utilized remains largely unknown and would require improvements in plant water-use efficiency (WUE) that exclude most conventional C3 and C4 bioenergy crops (Somerville et al., 2010; Slade et al., 2014). In this context,we present the first global-scale geospatial productivity model for two bioenergy candidates of the highly water-use efficient crassulacean acid metabolism (CAM) pathway.We also provide an assessment of the resilience of these candidates to climate change and investigate productivity potential on low-grade lands，which we define using Food and Agriculture Organisation (FAO) land-use classifications (FAO et al. 2012). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Crassulacean acid metabolism has evolved on multiple occasions mostly in semi-arid,subtropical habitats andis widely considered to be an adaptation to low and intermittent water availability (Ellenberg，1981; Ting,1985;Winter & Smith,1996).In contrast to the C3 and C4 metabolic pathways,CAM is characterized by the temporal separation of carboxylase activities and a four-phase carbon-uptake pattern over the diel cycle (Osmond,1978).Phase I (PI) nocturnal atmospheric $\\mathrm { C O } _ { 2 }$ fixation is mediated by phosphoenolpyruuate carboxylase (PEPC) leading to the 4C product malic acid; Phase II (PII) occurs early in the photoperiod and is defined by anoverlapinPEPCandribulose-1,5-bisphophatecarboxylase oxygenase (RuBisCO) activities;Phase III (PIII) occurs behind closed stomata during the photoperiod when $\\mathrm { C O } _ { 2 }$ is supplied to RuBisCO from the decarboxylation of malic acid;and finally,the direct RuBisCO-mediated fixation of atmospheric $\\mathrm { C O } _ { 2 }$ may occur during Phase IV (PIV) towards the end of the photoperiod under wellwatered conditions (Osmond，1978). The primary uptake of $\\mathrm { C O } _ { 2 }$ at night，when temperatures are low, reduces evaporative demand across the open stomata and is a key WUE adaptation of the CAM pathway (Osmond,1978;Smith &Nobel,1986;Nobel,1988;Winter & Smith, 1996). Water storage parenchyma tissue of succulent CAM species provides a buffer against periods ofwaterdeficit stress,and rectifier-like roothydraulic conductivity responses minimize retrograde plantsoil water losses and allow plants to capitalize on short periods of water availability (Barcikowski & Nobel, 1984;Smith & Nobel,1986;Nobel,1988). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Succulent CAM tissues allow plants to maintain water homeostasis and facilitate a carbon acquisition strategy of‘drought avoidance' (Borland et al.,2011,2014). This is distinct from ‘drought tolerance'，which is typically observed in arid and semi-arid C3 and C4 plants that show the capacity to endure low cell water potential or inextreme cases，desiccation (Ogburn & Edwards, 2010). Integrated over a $2 4 \\mathrm { - h }$ period，typical WUE (defined as the ratio of mmol $\\mathrm { C O } _ { 2 }$ fixed to mol $\\mathrm { H } _ { 2 } \\mathrm { O }$ lost）values are $0 . 5 – 1 . 5$ for C3 plants,1.0-2.0 for C4 plants,and 4.0-10 for plants displaying CAM (Nobel, 1991).Under ideal conditions,some species of Agave and Opuntia average $4 3 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 }$ above-ground dry mass productivity which is comparable to agronomic C4 species and C3 herbaceous species and trees (Nobel,1991). These features have lead researchers to propose that CAM plantations could be more resilient to climate change and offer higher productivity on lowgrade and marginal lands than conventional C3 and C4 biomass crops (Borland et al.，2009，2014;Davis et al., 2011).We tested these hypotheses by (i) constructing a global-scale geospatial productivity model for the CAM biomass candidates Agave tequilana and Opuntia ficusindica，(ii) simulating productivity under present-day and future climate scenarios using outputs from representative concentration pathway (RCP） scenarios presented in the IPCC's 5th Assessment Report (AR5), (iii) applying macro-scale land-use constraints to estimate productivity potential on 'low-grade' lands,and (iv) comparing present-day simulations to outputs of a recently published model for the C4 biomass candidate, Panicum virgatum L. (switchgrass) (Kang et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The model is based upon a refined version of the Nobel environmental productivity index (EPI) methodology，which has been validated at an agronomic scale (Nobel & Valenzuela，1987;Nobel,1988).Our refinements facilitate the integration of geospatial data sets to include soil water potential $( \\Psi _ { s } )$ as a function of texture class and precipitation,and the capacity of CAM to buffer against periods of low $\\Psi _ { s }$ .These refinements and the use of multidecadal GIS data sets to estimate,analyse and predict productivity under various climate change scenarios are a significant advance on the initial use of the EPI approach which used point data from weather stations to predict productivity (Gracia de Cortazar & Nobel，1990).The two candidates considered in this study，A.tequilana and O.ficus-indica，wereselected for their high productivity potential (Nobel, 1991; Borland et al.，2009） and favourable composition for bioenergy conversion processes over the life cycle (Yan et al.,2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Refined Nobel environmental productiuity index (EPI) ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CAM productivity simulations were conducted according to established Nobel EPI methodology (Nobel & Meyer，1985; Nobel& Quero,1986;Nobel &Valenzuela,1987;Nobel,1988; Garcia-Moya et al.,2011) with further refinements to accommodate for spatial and temporal fluctuations in ecophysiological inputs.These include soil water retention characteristics, $\\mathrm { C O } _ { 2 }$ uptake persistence during drought,and $\\mathrm { C O } _ { 2 }$ uptake response to contrasting day and night temperatures. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EPI methodology states that CAM biomass productivity may be estimated by the product of three dimensionless ecophysiological response indices that quantitatively describe the effect water $( I _ { w } )$ ,temperature $( I _ { t } )$ ,and photosynthetically active radiation,PAR, $( I _ { p } )$ availability on net carbon uptake (Nobel &Valenzuela,1987；Nobel，1988,1989)．Ecophysiological response indices were calculated at a temporal resolution of 1 month and averaged overa 1-year period according to Eqn (1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E P I _ { a n n u a l } } = { \\frac { \\sum _ { j a n } ^ { \\mathrm { d e c } } I _ { t } \\cdot I _ { w } \\cdot I _ { p } } { 1 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The EPI score was then multiplied by a value for maximum above-ground dry biomass productivity $( { P _ { m } } ) ,$ which could occur under irrigated conditions with optimum planting-density according to Eqn (2). In this study, $P _ { m }$ was taken as 44 and $4 6 ~ \\mathrm { M g }$ (dry) $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ for $A$ .tequilana (Nobel,1988; Yan et al., 2011）and O. ficus-indica (Nobel et al.，1992)，respectively. Although EPI methodology does not explicitly link plant bio chemistry and physiology to productivity,the multiplication of EPI by $\\boldsymbol { P _ { m } }$ implicitly takes into account agronomic scaling effects such as leaf shading. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = P _ { m } \\cdot \\mathrm { E P I } _ { \\mathrm { a n n u a l } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ecophysiological responses were calculated from integrated gas exchange and titratable acidity (TA） responses to changes ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in PAR，water，and temperature (Nobel & Hartsock,1983;   \nNobel & Valenzuela,1987;Nobel,1988;Nobel & Israel,1994). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Development of ecophysiological response indices to environmentalinputs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ecophysiological response to water, $I _ { w }$ .Plant water uptake is a passive process that occurs when soil water potential $( \\Psi _ { s } )$ （204号 exceeds plant water potential $( \\Psi _ { p } )$ ： $\\Psi _ { s }$ is defined as the sum of matric,osmotic,pressure,and gravitational component potentials (Campbell,1988).Matric potential contributions are the most important determinant of $\\Psi _ { s }$ across varying soil texture classes (Cosby etal.,1984;Saxton et al.,1986; Sperry& Hacke, 2002)and occur as a result of the cohesion between water molecules and the adhesion of water molecules to the soil matrix. Water-adhesive interactions dominate the hydraulic properties of soils with high specific surface area (SSA）and result in lower measures of $\\Psi _ { s }$ at a given soil water content compared to low SSA soils (Cosby et al.,1984).Fine clay soils of particle diameter less than $0 . 0 0 2 \\ \\mathrm { m m }$ have a SSA up to $8 4 0 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 } .$ whereas the SSA for gravel soils of diameter $2 ~ \\mathrm { m m }$ may beas low as $0 . 0 0 0 5 ~ \\mathrm { m } ^ { 2 } ~ \\mathrm { g } ^ { - 1 }$ (Cerato $\\&$ Lutenegger, 2002). Under most conditions, $\\Psi _ { p }$ fluctuates around $- 0 . 5 \\mathrm { M P a }$ for Agave and Cacti meaning that water uptake can occur,on average,when soil waterpotential $( \\Psi _ { s } ) > - 0 . 5 ~ \\mathrm { M P a }$ (Nobel, 1988). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The precipitation requirement for $\\Psi _ { s } > - 0 . 5 \\ \\mathrm { M P a }$ was estimated for each United States Department of Agriculture (USDA) soil texture class identified in the Harmonised World Soil Database (HWSD) World Soil Atlas (see Data S1).Soil water potential was calculated as a function of soil water content $\\mathbf { \\eta } ( \\theta )$ and texture class according to Eqn (3) (Saxton et al., 1986). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi _ { s } = A \\cdot \\theta ^ { B }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Eqn (3), $A$ and $B$ are coefficients that describe soil texture contributions to $\\Psi _ { s }$ as function of sand (particle size $0 . 0 5 { - } 2 . 0 ~ \\mathrm { m m } \\rangle$ and clay (particle size $< 0 . 0 0 2 \\ \\mathrm { m m }$ ）content ona mass/mass basis (Saxton et al.,1986).An approximation of $\\theta$ at $\\Psi _ { s } = - 0 . 5$ MPa was found for the 13 texture classes identified in USDA standards by transposing Eqn (3) to give Eqn (4). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = ( \\Psi _ { s } / A ) ^ { ( 1 / B ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { A = 1 0 0 \\cdot \\exp [ a + b ( \\mathcal { Y } _ { 0 } C ) + c ( \\mathcal { Y } _ { 0 } S ) ^ { 2 } + d ( \\mathcal { Y } _ { 0 } S ) ^ { 2 } ( \\mathcal { Y } _ { 0 } C ) ] } \\\\ { B = e + f ( \\mathcal { Y } _ { 0 } C ) ^ { 2 } + g ( \\mathcal { Y } _ { 0 } S ) ^ { 2 } + g ( \\mathcal { Y } _ { 0 } S ) ^ { 2 } ( \\mathcal { Y } _ { 0 } C ) } \\\\ { a = - 4 . 3 9 6 , b = - 0 . 0 7 1 5 , c = - 4 . 8 8 \\times 1 0 ^ { - 4 } , d = - 4 . 2 8 5 \\times 1 0 ^ { - 5 } , } \\\\ { e = - 3 . 1 4 0 , f = - 2 . 2 2 \\times 1 0 ^ { - 3 } , g = - 3 . 4 8 4 \\times 1 0 ^ { - 5 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Parameters used for $A , \\ B , \\ a , \\ b , \\ c , \\ d , \\ e , \\ f ,$ and $g$ are given in Saxton et al. (1986). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil water potential was estimated asa function of precipitation and texture class by considering that the precipitation required to elevate $\\Psi _ { s }$ to $- 0 . 5 \\mathrm { M P a }$ is proportional to $\\theta$ at $\\Psi _ { s } = - 0 . 5 ~ \\mathrm { M P a }$ .Experimental data show that the relationship between days per year when $\\Psi _ { s } > - 0 . 5 \\ \\mathrm { M P a }$ at $1 0 0 { - } 1 5 0 ~ \\mathrm { m m }$ below the surface (approx.root depth of Agave and Cacti and precipitation isapproximatelylinear(Nobel，1988)．This alloweda gradient function $( g _ { i } , )$ to be developed to estimate the duration in days when $\\Psi _ { s } > - 0 . 5$ MPa as a function of precipitation and soil texture class,i.Values for $g _ { i } ,$ together with soil texture characteristics,are given in Data S1. Geospatial raster files for $g _ { i }$ were then constructed using soil texture class GIS datasetsavailable from theHWSD(FAO et al.2012) shown in Data S1. The number of days per month $( U _ { \\mathrm { d a y s } } )$ when plant water uptake could occur $( \\Psi _ { \\mathrm { s } } > - 0 . 5 \\ \\mathrm { M P a } )$ ）wascalculated as the product of $g _ { i }$ and precipitation according to Eqn (5) where $R$ is precipitation. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { \\mathrm { d a y s } } = g _ { i } \\cdot R\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The equations used to estimate soil water potential are valid for awide range of textures and values of $\\theta$ under unsaturated conditions (Saxton et $^ { a l }$ ,1986). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The value for $U _ { \\mathrm { d a y s } }$ was then scaled according to the capacities of both $A$ .tequilana and O.ficus-indica to buffer against periods of water stress through incorporating a drought resistance factor $( F _ { d } )$ $F _ { d }$ was taken as the fraction of carbon assimilationpersistenceaftertheonsetofdrought $( A _ { d } ,$ $\\Psi _ { s } < - 0 . 5 \\ \\mathrm { M P a } )$ divided by carbon assimilation under optimal conditions $( A _ { o } , \\Psi _ { s } > - 0 . 5 \\mathrm { M P a } )$ integrated over 28 days according to Eqn (6). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { d } = 1 + \\int _ { 0 } ^ { 2 8 } A _ { d } / A _ { 0 } \\cdot \\mathrm { d } t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Values for $F _ { d }$ were calculated from TA responses to water deficit (Acevedo etal.，1983;Nobel & Valenzuela，1987)and further validate against eddy covariance gas exchange data $( \\Nu$ Owen,unpublished data).For $A$ .tequilana, $F _ { d } = 1 . 3 7$ dmnl and for $O$ ficus-indica, $F _ { d } = 1 . 9 2 ~ \\mathrm { d m n l }$ .These factors indicate that cumulative $\\mathrm { C O } _ { 2 }$ uptake after1 month of drought was $3 7 \\%$ and $9 2 \\%$ of uptake under optimum conditions for $A$ .tequilana and O.ficus-indica,respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The effective number of days per month $( U _ { \\mathrm { e } } )$ when plantcarbon uptake is not rate-limited by water availability was determined by Eqn (7). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { e } = F _ { d } \\cdot g _ { i } \\cdot R\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ecophysiological response index for water, ${ \\cal I } _ { w } ,$ was taken as the fraction of effective days where plants could uptake carbon divided by the number of days in the month $( D _ { m } )$ according to Eqn (8). ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { w } = U _ { e } / D _ { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $I _ { w } = 1$ if $U _ { e } / D _ { m } \\geq 1$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ecophysiological responsetotemperature, $I _ { t }$ .The index for carbon-uptake response to temperature, $I _ { t } ,$ wassimilarlydeter mined from TA response to minimum $( t _ { \\operatorname* { m i n } } )$ and maximum $( \\boldsymbol { t } _ { \\mathrm { m a x } } )$ temperature.The separation of $t _ { \\mathrm { m i n } }$ and $t _ { \\mathrm { m a x } }$ inputs was necessary because succulent CAM plants display an asymmetric sensitivity to nocturnal temperature (Nobel & Hartsock, 1978;Medina & Osmond,1981;Buchanan-Bollig et al.,1984). Minimum-maximum temperature separation also allowed all combinations of day and night temperature to be used as a model input.Low night temperatures facilitate carbon uptake during periods of low evaporative demand,and effect tonoplast permeability,PEPC carboxylation,and malic acid inhibition kinetics (Nobel & Hartsock,1978;Medina & Osmond, 1981;Buchanan-Bollig et al.,1984;Kliemchen et al.,1993; Carter et al.,1995; Nimmo,2000). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In a similar approach to Owen & Griffiths (2014),carbonuptake responses to incremental changes in day-night temperature data (e.g.10/25,15/30, $2 0 / 3 5 ~ ^ { \\circ } \\mathrm { C } )$ were weighted in proportion to the fraction of PI nocturnal and PII and PIII diurnal integrated gas exchange under optimal conditions.The combined temperature index, $I _ { t } ,$ was taken as the average of indexes for $t _ { \\mathrm { m i n } }$ and $t _ { \\mathrm { m a x } }$ Productivity range was restricted to areas where average monthly minimum temperature ${ \\bf \\zeta } > 0 { \\bf \\zeta } ^ { \\circ } C ,$ which is consistent with the cold tolerance of both species considered (Nobel & De la Barrera,2003;Escamilla-Trevino,2011). Temperature response equations that are given in Eqns (9-12) were derived fromTA-response data (Nobel &Valenzuela,1987; Nobel,1988;Nobel $\\&$ Israel,1994).The fraction of nocturnal uptake $( f _ { n } )$ and photoperiod uptake $( f _ { p } )$ are given in parentheses. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Agave tequilana. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { I _ { t _ { \\operatorname* { m i n } } } ( f _ { n } = 0 . 8 7 ) = - 0 . 0 1 3 2 t _ { \\operatorname* { m i n } } ^ { 2 } + 0 . 0 4 1 t _ { \\operatorname* { m i n } } - 2 . 1 8 } \\\\ { I _ { t _ { \\operatorname* { m a x } } } ( f _ { p } = 0 . 1 3 ) = - 0 . 0 0 2 4 t _ { \\operatorname* { m a x } } ^ { 2 } + 0 . 1 4 6 t _ { \\operatorname* { m a x } } - 1 . 2 2 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Opuntia ficus-indica. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { I _ { t _ { \\mathrm { m i n } } } ( f _ { n } = 0 . 9 8 ) = - 0 . 0 0 4 1 t _ { \\mathrm { m i n } } ^ { 2 } + 0 . 1 1 7 t _ { \\mathrm { m i n } } + 0 . 1 8 6 } \\\\ & { I _ { t _ { \\mathrm { m a x } } } ( f _ { p } = 0 . 0 2 ) = - 0 . 0 0 0 2 t _ { \\mathrm { m i n } } ^ { 2 } + 0 . 0 1 0 4 t _ { \\mathrm { m i n } } + 0 . 8 7 5 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The combined temperature index, $I _ { t } ,$ was taken as the average of indices for $t _ { \\mathrm { m i n } }$ and $t _ { \\mathrm { m a x } }$ according to Eqn (13). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI _ { t } = I _ { t _ { \\operatorname* { m i n } } } / I _ { t _ { \\operatorname* { m a x } } } , \\quad \\mathrm { f o r } t _ { \\operatorname* { m i n } } > 0 ^ { \\circ } \\mathbf { C }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ecophysiological responsetophotosyntheticallyactiue radiation, $I _ { p }$ .The index for photosynthetically active radiation (PAR) was constructed from TA-response data (Nobel & Hartsock,1983;Nobel & Valenzuela,1987;Nobel,1988;Nobel & Israel，1994） normalized to 1.Equations for $I _ { p }$ are given in Eqns (14) and (15) where PAR $( p )$ is in mol $\\mathrm { m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Agave tequilana. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { I _ { p } = - 0 . 0 0 0 7 p ^ { 2 } + 0 . 0 5 3 3 p + 0 . 0 2 9 4 } \\\\ { I _ { p } = 1 \\mathrm { f o r } \\mathrm { P A R } \\geq 2 9 \\mathrm { m o l m } ^ { - 2 } \\mathrm { d a y } ^ { - 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Opuntia ficus-indica. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { I _ { p } = - 0 . 0 0 0 7 p ^ { 2 } + 0 . 0 5 7 p - 0 . 1 8 5 6 } } \\\\ { { I _ { p } = 1 \\mathrm { f o r } \\mathrm { P A R } \\geq 3 5 \\mathrm { m o l } \\mathrm { m } ^ { - 2 } \\mathrm { d a y } ^ { - 1 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Input data sets and data processing.Ecophysiological response indices were developed according to Eqns 3-15 using $\\mathrm { C O } _ { 2 }$ gas exchange and titratable acidity data presented in Nobel & Hartsock(1983),Nobel & Valenzuela (1987),Nobel (1988),Nobel& Israel (1994),and Acevedo et al.(1983). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WorldClim data averaged over the period 1950-2000 was used to estimate current productivity (WorldClim,2014).Productivity in the year 2070 $( P _ { 2 0 7 0 } )$ was forecasted using output averaged over the period 2061-2080 from all global climate models (GCMs)models cited in the IPCCs 5th Assessment Report (IPCC et al.,2013;WorldClim,2014).Geospatial inputs for PAR were estimated from National Aeronautics and Space Administration (NASA) data sets for monthly 'Insolation Incident On A Horizontal Surface' $( \\mathrm { k W h ~ m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 } .$ ）averaged over a 22-year period (July 1983-June 2005) (NASA,2014).PAR (mol $\\mathrm { m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 } ,$ ）was estimated from solar insolation $( I _ { s }$ in k $\\cdot \\mathrm { W h ~ m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 }$ ）byassuming that $4 8 \\%$ of solar energy falls within the PAR range of $4 0 0 { \\mathrm { - } } 7 0 0 \\ \\mathrm { n m }$ (Britton $\\&$ Dodd,1976) and a solar radiation to photon flux conversion coefficient of $4 . 5 7 \\mathrm { m o l }$ photons $\\mathbf { M J } ^ { - 1 }$ (Amthor,2010).Data were resampled to 0.1 decimal degrees (DD) using cubic convolution interpolation.World soil texture class data were sourced from the HWSD (FAO et al.2012). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sustainable biomass standards set out by the Global BioenergyPartnership (GBEP),the Roundtable on Sustainable Biomaterials (RSB),and the Renewable Energy Directive 2009/28/EC of the European Union were use as a guide to develop macroscale geospatial constraints to estimate low-impact biomass potential (GBEP,2011; RSB,2013).It should be noted that criteria set out by sustainable bioenergy initiatives also commonly include localized factors such as subsistence farming land use, economic viability,and cultural importance (Scarlat & Dallemand，2011；Dauber et al.，2012).These considerations were beyond the scope of the macro-scale evaluation presented here. The definition of low-grade lands adopted in this study excludes forests,protected areas,wetlands,and highly productiveand irrigated agricultural lands.These lands were identified using United Nations Food and Agriculture Organisation (FAO)geospatial land-use data and classifications (Nachtergaele & Petri, 20o8).A world map of low-grade' lands according to our definition,as well FAO land-use patterns,is given in Data S2.Commercially viable yields were considered to exceed $5 ~ \\mathrm { M g } \\mathrm { \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 }$ and assumed to have a dry biomass energy content of 18 GJ $ { \\mathrm { M g } } ^ { - 1 }$ (Slade et al.,2014). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Simulated data for switchgrass productivity presented in Kang et al. (2014) were provided by Dr Shujiang Kang.Geospatial data sets were processed using ArcGIS software version 10.1(ESRI,2012)at a spatial resolution of O.1 decimal degrees. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Global biomassyield ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "World productivity simulations under 2Oth century conditions for (a)A.tequilana and (b)O.ficus-indica are given in Fig.1. Productivity ranged from O.O to 38.0 (EPI, 0.0-0.86) and 0.0 to $4 0 . 0 ~ \\mathrm { M g }$ (dry) $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ (EPI, 0-0.87)for A.tequilana and O. ficus-indica，respectively. Asneither candidate achieved maximum theoretical yield $\\mathrm { \\underline { { { E P I } } } = 1 } \\mathrm { \\dot { \\Omega } } ,$ ),these results show that carbon uptake wasrate-limitedbytheseasonal availabilityof either (or combination of) water，temperature,and PAR in all parts of the World at some time throughout the year. In general， simulations show that O. ficus-indica displays an extended range of high productivity $( > 5 0 \\%$ （204号 $P _ { m } )$ compared to $A$ 、tequilana.This can be seen across arid and semi-arid regions in Australia,East India,sub-Saharan Africa,and the southern United States.The productive range of both candidates is restricted to the minimum monthly temperature isotherm of $0 \\ { } ^ { \\circ } { \\bf C } ,$ which is consistent with the cold tolerance of both species. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although O.ficus-indica generally achieves higher productivity than A. tequilana (max. 40 vs. $3 8 ~ \\mathrm { M g }$ (dry) $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 } )$ and better yield distribution,the higher water-soluble carbohydrate composition of $A$ .tequilana ismore suitable for bioethanol conversion processes (Stintzing & Carle,2005；Li et al.，2012).Therefore,in areas where both candidates produce significant yields, the decision of which to cultivate may in large part be determined by the intended application. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c29691062fd8ce9f90a649c67fc3645345e596c9347bf0711e9c57dd19bd33a5.jpg",
+        "img_caption": [
+            "Fig.1 World productivity simulations for(a)Agave tequilana and(b) Opuntia ficus-indica under current climate conditions (1950-2000).Areas of high productivity for $A$ . tequilana are comparatively more restricted than for O. ficus-indica. This is due to the higher sensitivity to minimum temperature and a reduced capacityof $A$ .tequilanato bufferagainstlowsoil water potential $( F _ { d } )$ .The higher PAR requirement of O. ficus-indica compared to $A$ .tequilana (35 and $2 9 ~ \\mathrm { m o l ~ m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 } .$ respectively) has a negative impact on yields outside $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ .For both species,the productive range is restricted to areas where $t _ { \\mathrm { m i n } } > 0 ~ ^ { \\circ } C$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Raster file EPI data of Fig.1 that are unscaled with $P _ { m } ,$ are available for download in Data S5 and S6.These maps can be viewed,refined,orrescaled withdifferent values for $P _ { m }$ as desired using ArcGIS software (see Data S4 for instructions). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Resilience to climatechange ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Productivity simulations were performed in the year 2070 under the representative concentration pathway (RCP) scenarios defined in the IPCC's Fifth Assessment Report (AR5). The impacts of climate change were evaluated in terms of change in geospatial and latitudinal productivity distribution，total yield,and the distance that the mean of the latitudinal productivity distribution migrates relative to the equator under 70RCP2.6-8.5 (Figs 2 and 3). The RCPs consider radiative forcing scenarios of 2.6, 4.5, 6.0, and $8 . 5 ~ \\mathrm { W ~ m } ^ { - 2 }$ relative to preindustrial levels by the year 210o (WorldClim，2014). The best case scenario is RCP 2.6 (70RCP2.6),and the worst case scenario is RCP 8.5 W $\\mathrm { m } ^ { - 2 }$ (70RCP8.5). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Simulated change in productivity relative to the pres ent for each RCP scenario is given in Fig.2. Note that percentage change in yield has been given relative to the present,and error is more significant in areas that currently support very low yields,such as North Africa. Also,while Fig. 2a,b shows that productivity is likely to decline in many areas relative to the present, forecasts relative to the best case' 70RCP2.6 suggest a higher capacity for resilience.Climate scenario evaluations against the locked-in'best case (between 70RCP2.6 and 70RCP8.5) have been provided in Fig. 2c,d as these simulations may be more applicable to inform policymakers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Under RCPs 70RCP2.6-6.0，productivity losses for A.tequilana range from $- 5$ to $- 2 5 \\%$ in equatorial regions with isolated areas of resilience and higher pro ductivity restricted to mountain ranges that allow progressive altitudinal migration to locations with lower night temperatures.Outside the latitudinal range of $2 5 ^ { \\circ } \\mathrm { S } _ { - 2 5 ^ { \\circ } \\mathrm { N } }$ productivity is likely to increase under $7 0 \\mathrm { R C P } 2 . 6 \\substack { - 6 . 0 }$ .The worst case $7 0 \\mathrm { R C P 8 } . 5$ scenario may result in significant losses of $> 2 5 \\%$ in equatorial regions extending to $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ Opuntia ficus-indica shows greater resilience to climatechange withlosses restricted to $- 5 \\%$ to $- 1 5 \\%$ under $7 0 \\mathrm { R C P } 2 . 6 \\substack { - 6 . 0 }$ across all productive areas and increasing to $- 2 5 \\%$ to $- 1 5 \\%$ in equatorial regions under 70RCP8.5. For $A$ .tequilana, higher night temperatures generally improve yields outside latitudes of $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } _ { \\cdot } }$ ，but have a negative impact within this latitudinal range.Higher night temperatures extend the productivity range of both species,although suboptimal conditions in these fringe regions only support low productivity.Compared to O. ficus-indica, A. tequilana exhibits greater sensitivity to climate change with greater productivity losses in equatorial regions and greater gains outside latitudes of $2 5 ^ { \\circ } \\mathrm { S } \\mathrm { - } 2 5 ^ { \\circ } \\mathrm { N }$ ， ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1bf7abe1f2192fe4f4cc8c61e1f1df1624b5fa1c6457db5686b6ce419c0db056.jpg",
+        "img_caption": [
+            "Fig.2Simulatedchange in productivityunder IPCCRCPclimatechange scenarios.Simulations showthechange in productivity in the year070underIPCCclimatechangescenariosrelativetopresentyields(1950-20o)for(a)Agetequilanaand(b)Opuntiaficusindica.Changeinyieldbetweenthebestcasescenario （7ORCP2.6)relativetoworstcasescenario (70RCP8.5)inthe2070isshownin (c) for $A$ .tequilanaand(d)forO.ficus-indica.Theareaof extendedrange(purple)is determinedbytheminimum isotherm, $t _ { \\mathrm { m i n } } > 0 ~ ^ { \\circ } C$ Geospatial yield paternsshowthatforboth A.tequilanaandO.ficus-indica,thegreatestlossesaremostlikelyinequatorial regions,with both candidates displaying considerable resilience under 7ORCP4.5 and $7 0 \\mathrm { R C P 6 } . 0$ relative to the minimum best case scenario 70RCP2.6.Climatechangescenario7ORCP8.5islikelytohave significantnegativeimpactsonyieldsforbothcandidatesin the latitudinal range $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ .Outside this range,yields are likely to increase for A.tequilana under all RCPsand remain approximatelythesameforO.ficus-indica.Acomparisonbetweenthebestcaselocked-in'scenario7ORCP2.6withtheworstcase7CP8.5 for $A$ .tequilana (c）andO.ficus-indica (d)showsconsiderableresilience even thoughclimatechangewillhavea progressvelymore negative impact on yield. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/02df504c646e7d961058c92013c39fa40f1a9df8a338e99977992309c911cd53.jpg",
+        "img_caption": [
+            "Fig.3Climatechangeimpactsonproductivitydistribution.Continent-scaleanalysisof limatechangeimpactsontotalyieldand migrationofmeanyieldintheyear2O70underICCRCPscenariosfor(a)Agaetequilanaand(b)Opuntiaficus-indica.Continentare divided ntoareasorthandsouthftequatortonalyseyieldmigrationwherethepresentiscordinatesO,O(nochangein(a b).Opuntiaficus-indicahaspotentialforstrongerresiliencetoclimatechangecomparedtoA.tequilanabasedonmeasuesfortotal yieldanddegreofyieldmigrationfromtheequator.Histograsshowthechangeinlatitudinalyielddistributionbetwethepresentandworstcaselimatechangescenario(7RCP8.5)for(c)A.tequilanaand(d)O.ficus-indica.Ingeneral,thehistogramsshowa tendencyformigrationtowardsthepolesforbothcandidates.Abbreviations:Africanorth(Af.N),Africasouth (Af.S),Asiaorth (As.N),Asiaouth (As.S),AustraliaandOceanianorth (A.&O.N),AustraliaandOceanasouth(A.&O.S),NorthAmerica(NA.), South America north (S.A.N),South America south (S.A.S),Europe (Eu.). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Relative to the best case $7 0 \\mathrm { R C P } 2 . 6 \\$ scenario,however, the outlook is significantly more positive. For $A$ .tequilana,207O simulations remain relatively constant under $7 0 \\mathrm { R C P 4 } . 5 \\substack { - 6 . 0 }$ ．Opuntia ficus-indica is highly resilient under all climate change scenarios relative to 7ORCP2.6, with moderate $- 5 \\%$ to $- 1 5 \\%$ losses occurring in some equatorial areas under $7 0 \\mathrm { R C P 8 } . 5$ .For both candidates, the greatest losses are associated with higher minimum night temperature and altered precipitation patterns in tropical and subtropical zones.These areas,that are the most vulnerable to the negative impacts of climate change,are mostly excluded from the analysis of low grade land yields given below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Continental-scale climate impacts are considered in Fig.3a-d.Continents were divided into regions north and south of the equator to investigate yield migration patterns and changes in total productivity under the IPCC climate scenarios.The landmass of Africa north of the equator (Af.N) displayed strong migration resilience for both candidates although productivity is likely to decline by $1 5 \\mathrm { - } 2 0 \\%$ and $2 - 1 0 \\%$ for $A$ .tequilana and O.ficus-indica,respectively,for $7 0 \\mathrm { R C P } 2 . 6 { - } 8 . 5$ .Areas of Africa south of the equator (Af.S) show considerable resilience with mean yields migrating $3 0 { \\mathrm { - } } 5 0 ~ { \\mathrm { k m } }$ south for both candidates and decreasing by $1 0 { - } 2 0 \\%$ for $A$ .tequilana and $2 \\%$ for O. ficus-indica.Productivity in Asia north of the equator(As.N) is likely to remain constant for $A$ .tequilana and increase by $5 \\%$ for O. ficus-indica, while mean yields migrate by 150-250 and $9 0 { - } 2 0 0 ~ \\mathrm { k m }$ north,respectively,for scenarios $7 0 \\mathrm { R C P } 2 . 6 { - } 8 . 5$ . In Asia south (As.S)，productivity is likely to decrease by $20 \\%$ for $A$ .tequilanaand $10 \\%$ for O. ficus-indica with mean yield migration staying relatively constant. Simulations for Australia and Oceania south $( \\mathrm { A } . \\& \\mathrm { O } . S )$ indicate significant productivity resilience although mean yields are likely to migrate $1 0 0 { - } 1 6 0 ~ \\mathrm { k m }$ for A. tequilana and $3 0 { \\mathrm { - } } 9 0 ~ \\mathrm { k m }$ south for O.ficus-indica.Australia and Oceania north $( \\mathrm { A . } \\& \\mathrm { O . N } )$ ）consists of Pacific Islands with restricted land area and relatively limited productivity potential. For North America (N.A.）and Europe (Eu.), large migration distances are accompanied by significant increases in yield，which is attributed to the extended range where both candidates may be cultivated due to elevated average minimum temperatures. In terms of yield,potential,and migration, the most detrimental effects of climate change are likely to be observed in SouthAmerica. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Latitudinal productivity distribution under present conditions and 70RCP8.5 (Fig. 3c-d also indicate that climate change is likely to havea beneficial impact at latitudes outside $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ for $A$ .tequilaandoutside $2 5 ^ { \\circ } \\mathrm { S } _ { - }$ $2 5 ^ { \\circ } \\mathrm { N }$ for O. ficus-indica.Mean yields are likelyto migrate towards thepoles forboth candidates.Based on the simulations shown in Fig.2, O. ficus-indica is consistently more resilient to the impacts of climate change than $A$ . tequilana. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this section, the impact of ecophysiological responses on yield distribution is discussed with the aid of the sensitivity analysis presented in Fig.4. Sourcesof uncertainty and key assumptions are then identified and discussed.Productivity simulations for both CAM candidates are then compared to a recently published model of the C4 bioenergy candidate, Panicum virgatum L. (switchgrass)． Finally， commercially viableand macro-scale sustainability constraints are applied to outputs presented in Fig.1 to estimate viable low-grade land (VL) yield potential. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ecophysiologicalresponsesandyielddistribution ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows that O. ficus-indica is likely to have a more extensive range of high productivity potential （ $\\mathrm { ( E P I } > 0 . 5 )$ than $A$ .tequilana.This is attributed to the comparatively greater capacity to buffer against periods oflow soil waterpotential (described by factor, $F _ { d } )$ and lower sensitivity to minimum temperature $( t _ { \\operatorname* { m i n } } )$ .For the conditions defined in the sensitivity analysis in Fig. 4, increasing $F _ { d }$ by $2 0 \\%$ results in an approx. $20 \\%$ and $10 \\%$ increase in carbon uptake for $A$ .tequilanaand O.ficus-indica,respectively.This shows that an increase in $F _ { d }$ would benefit $A$ .tequilana more than O.ficusindica. The greater capacity of O.ficus-indica to buffer against water deficit also meant that a $2 0 \\%$ increase in precipitation has a smaller positive impact on yield than for $A$ 、tequilana in areas that receive approx. $5 0 ~ \\mathrm { m m }$ of precipitation per month. These results suggest that, although both plants show reasonably strong resilience to climate change, the amount and temporal distribution of precipitation patterns could have a significant impact on yields. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "桂 30 % Change in productivity Lower Upper ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Soil clay content,which by extension determines soil water potential according to Eqn (4),also has a significant and similar effect on yield as precipitation.A reduction in soil clay content had a more positive impact on simulated productivity for $A$ .tequilana compared to $A$ . ficus-indica due to this plants comparatively lower capacity to buffer against low $\\Psi _ { s }$ .The impact of clay content on yield, together with soil texture information given in Data S1, indicate that soil properties are a dominant factor determining productivity at a localized scale.In areas where Type 13 clayey soils $( 7 5 \\%$ clay) border Type1 sandysoils $( 5 \\%$ clay),for example,simulated productivity may decrease by up to $8 0 \\%$ . As the water-uptake threshold for both species occurs at the samesoil waterpotential $( \\Psi _ { s } = - 0 . 5 \\ \\mathrm { M P a }$ (Nobel, 1988)),differences in water relations were determined by $F _ { d }$ rather than plant-soil uptake relations. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The sensitivity analysis in Fig.4 shows that O. ficusindica is significantly more resilient to deviations from the optimum minimum night temperature than $A$ tequilana.For example,a deviation of $5 ~ ^ { \\circ } C$ from the optimumreducessimulatedyieldsby $2 0 { - } 3 3 \\%$ for A.tequilana compared to a reduction of $2 \\mathrm { - } 1 2 \\%$ for O.ficus-indica. In general,the negative impacts of climate change in equatorial regions are mostly attributed to high suboptimal $t _ { \\mathrm { m i n } }$ .At latitudes outside $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } } ,$ higher $t _ { \\mathrm { m i n } }$ has a strong positive impact on yield for A.tequilana.However,arecent study on Agave angustifolia showed strong commitment to CAM and high $\\mathrm { C O } _ { 2 }$ uptake persistence over a wide range of day and night temperatures (Holtum & Winter,2014).The results of this study suggest that Agave species that inhabit tropical regions,with characteristically higher nocturnal temperatures， couldbemoresuitableforbiomass production in warmer equatorial climates. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data used to construct the ecophysiological response index to PAR show that carbon-uptake response saturates at $3 5 ~ \\mathrm { m o l ~ m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 }$ for O. ficus-indica，higher than for $A$ tequilanaat $2 9 ~ \\mathrm { m o l } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { d a y } ^ { - 1 }$ (Nobel & Hartsock,1983;Nobel & Valenzuela,1987).This hasa small negative impact on O. ficus-indica productivity outsidelatitudesof $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Uncertaintyandkeyassumptions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Four categories of potential error were identified:input data sets，methodology，key assumptions,and exclusions.Input data sets include global climate models (GCMs),the harmonized world soil database (HWSD) texture data，solar radiation data，and land-use constraints.To minimize error from GCM inputs,the mean output ofall GCMs referenced in the IPCC's 5th Assessment Report averaged over the period 2061-2080 was used to generate forecasts for the year 2070.GIS soil data sets were resolved into 13 categories according to USDA standards to minimize error from soil texture inputs.It should be noted that simulations are subject to the sparsity of data and interpolation methods used to construct all geospatial input data sets (see referenced data for information on input data set limitations). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Methodological error may include error associated with the EPI approach, the use of titratable acidity (TA) to derive ecophysiological response indices，and the scaling of EPI with a value of maximum dry biomass productivity $( P _ { m } )$ ． Although the Nobel EPI approach has been validated against biomass accumulation and leaf-unfurling rates in the field (Nobel & Valenzuela, 1987;Nobel,1988,1989),further validation across contrasting environmental conditions would be desirable. The use of TA as proxy to estimate carbon uptake is based on the $1 : 2 : 1$ stoichiometric relationship between nocturnal $\\mathrm { C O } _ { 2 }$ fixation, $\\mathrm { H ^ { + } }$ and 4C product, malic acid (Osmond, 1978). It should be noted, however, that △TA-based approaches do not account for PIV carbon uptake and PI refixation of respiratory $\\mathrm { C O } _ { 2 }$ and could therefore be prone to error.In the case of $A$ tequilanaand O.ficus-indica，PIV only accountsfor approximately $1 3 \\%$ and $2 \\%$ of integrated daily carbon uptake,respectively,underoptimal conditions (derived from data presented in Nobel & Valenzuela(1987)and Nobel $\\&$ Israel (1994)).Additionally，a recent agronomic-scale eddy covariance (EC） gas exchange study overa field of $A$ .tequilana (N.Owen,unpublished data) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "showedthatwhole-plantaveraged△TA measurements closely agreed with integrated daily gas exchange after 70 days of drought. The EC data support the use of △TA as a proxy for carbon uptake as contributions from recycled respiratory $\\mathrm { C O } _ { 2 }$ refixation in PI (that contributes to △TA） seem to approximately equate to Phase IV $\\mathrm { C O } _ { 2 }$ uptake (which is not measured in △TA measurements) overall under field conditions. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The values adopted for $P _ { m }$ used to scale EPI to estimate actual productivity may also contribute error. Under the relatively low planting densities employed by current commercial applications (food and alcohol production)， $P _ { m }$ isapprox.25and $1 8 { - } 2 0 ~ \\mathrm { M g }$ (dry) $\\mathrm { \\Delta h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ for Agave and Opuntia species,respectively.However， under optimal planting densities reported, $\\boldsymbol { P _ { m } }$ issignificantly higher， at 38and $4 7 \\ \\mathrm { M g }$ (dry) $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ ，respectively，(Nobel，1991).As $\\boldsymbol { P _ { m } }$ is dependent on cultivation practices employed, unscaled EPI maps have been provided in Data S5 and S6 which may be rescaled with a chosen value of $P _ { m }$ as desired. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Two key assumptions were required to integrate geospatial data sets with plant ecophysiological response data.Firstly,the continuum of night-day temperatures was incorporated by making the assumption that minimum temperature sensitivity is proportional to nocturnal carbon uptake and that maximum temperature sensitivity is proportional to photoperiod uptake of $\\mathrm { C O } _ { 2 }$ .Thisassumption was based on the well established hypersensitivity of succulent CAM species to night temperature for the species considered (Nobel, 1976;Nobel &Hartsock，1978;Medina & Osmond，1981；Acevedo et al.，1983;Grams et al.，1997；Borland et al.，1999). However，a recent study on Agave antustifolia that showed high resilience to temperature suggests that this approach is most likely conservative (Holtum& Winter, 2014).Secondly,the duration for which $\\Psi _ { s }$ was greater than $\\Psi _ { p }$ was benchmarked against measured data sets showing linear relationships between precipitation and the duration for which $\\Psi _ { s } > - 0 . 5 \\ \\mathrm { M P a }$ (Nobel, 1988). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Exclusions from the model include soil-nutrient inputs,species invasiveness, fertilization effects of high atmospheric $\\mathrm { C O } _ { 2 }$ concentration,and plant-acclimation capacity.The latter two are likely to improve CAM yields (Nobel & Israel,1994). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ComparisonbetweenCAMcandidatesand theC4 bioenergy candidate,Panicum virgatumL (switchgrass) ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A geospatial comparison between simulated output for A.tequilana and O. ficus-indica with the outputs of a recently published model of Panicum virgatum L. (switchgrass) productivity (Kang et al.,2014) is given in Fig. 5. Panicum virgatum L. is a perennial C4 bioenergy candidate that has demonstrated high productivity potential over contrasting nutrient，temperature,and wateravailability regimes (Sanderson et al.，1996;Keshwani & Cheng,2009). In Fig. 5,only‘commercially viable' yields of ${ \\ge } 5 ~ \\mathrm { M g }$ (dry) $\\mathrm { \\Delta h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ are considered. In general, simulations show that $P$ .virgatum L.achieves higher productivity than both CAM candidates in regions outside the latitudinal range of $3 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { S }$ Inside this latitudinal range,however, $A$ 、tequilana outperformed P.virgatum L.with the exception of parts of equatorial South America，Africa where $A$ .tequilana yieldsarenegatively impactedby highaveragemonthly minimum temperature, $t _ { \\mathrm { m i n } }$ (see Fig. 4). O. ficus-indica generally outperformed $P$ .virgatum L. in almost all areas inside $3 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { S }$ with the exception of restricted parts of the wet tropics and northern China where simulated yieldsweresimilar( $( < 2 5 \\%$ difference). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The different yield-distribution patterns reflect the different carbon acquisition strategies of arid and semiarid perennial grasses compared to succulent CAM species.Herbaceous perennials such as $P$ . virgatum L.have a short growth season that is restricted to warm and wet months from a rootstock that becomes dormant overa dry season or winter period (Skinner & Adler, 2010).These traits allow significant levels of productiv ity to extend to areas that experience harsh winter conditions at latitudes up to $5 5 \\mathrm { ^ { \\circ } N }$ .On the other hand, O. ficus-indica and $A$ .tequilana grow throughout the year and are highly sensitive to $t _ { \\mathrm { m i n } }$ .The higher productivity potential of both CAM species in arid and semi-arid areas inside the latitudinal range of $3 0 ^ { \\circ } \\mathrm { N } \\mathrm { - } 3 0 ^ { \\circ } \\mathrm { S }$ is mostly attributed to rectifier-like root hydraulic conductivity responses that allow plants to capitalize on low and infrequentprecipitationevents. Thesehydraulic responses also allow the recharge of water storage parenchyma which supports continued physiological and metabolic function during extended periods of drought $( \\Psi _ { s } < - 0 . 5 \\mathrm { \\ : M P a } )$ ．The results presented here suggest that the different strategies employed by succulent CAM species,compared to C4 grasses,are likely to translate to higher productivity potential in tropical areasoflowrainfall. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Viablelow-grade land yield potential ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Exploiting the bioenergy potential of the CAM pathway in a sustainable manner is contingent upon feedstock cultivation on low-grade land. However, there are no standard definitions for classes of ‘surplus'land,which are a function of subsistence farming land use,economic viability，cultural importance，and biodiversity value (Dauber et al.,2012).Suchlands must be evaluated ata local scale (Dauber et al.，2012;Immerzeel et al.,2014) and to our knowledge no global-scale geospatial data sets that identify categories of surplus land areavailable.We thereforeelectedto define‘viablelowgrade'lands (VL) using present-day Food and Agriculture Organisation (FAO) (Nachtergaele & Petri,2008) land-use classifications.As initial land use is a major determinant of the environmental performance of dedicated bioenergy crops (Immerzeel et al.，2014),areas of high and irrigated agricultural activity, forests,and protected areaswere excluded (referto Data S2 fora list of FAO constraints used).To enable direct comparison with a review of global biomass energy resources,viable yields were considered to exceed $5 ~ \\mathrm { M g } \\mathrm { \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 }$ and assumed to have a dry biomass energy content of $1 8 \\mathrm { ~ G J }$ $ { \\mathrm { M g ^ { - 1 } } }$ (Slade et al., 2014). Therefore,VL maps in Fig. 6 illustrate yields that are theoretically possible on 'lowgrade lands' at a global scale,without accounting for local social acceptability or environmental impacts ASCII files for Fig.6 have beenprovided in theData S7 and S8 to enable adjustment or refinement of the landuse constraints as desired using GIS software. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5767bf221fe312b2967baed153a3a83d41225005d2ba7f0ab9668dc4a77324.jpg",
+        "img_caption": [
+            "Fig.5 Comparison of CAM bioenergy candidates A.tequilana(a）and O.ficus-indica (b） with the C4 bioenergy crop P.virgatum L (switchgrass). Simulations show that both CAM candidates generally outperform $P$ .virgatum over the latitudinal range $3 0 ^ { \\circ } \\mathrm { S } _ { - 3 0 ^ { \\circ } \\mathrm { N } }$ .Higher seasonal variation in temperature outside this range and in mountainous areas tend to favour P.virgatum L.In the wet tropics,P.virgatum L.and A.tequilana display similar yield potential $( < 2 5 \\%$ difference). Only‘commercially viable'yields ${ \\geq } 5 ~ \\mathrm { M g }$ (dry) $\\mathrm { \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ are shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Simulations presented in Fig.6 suggest that VL yields are highly resilient to climate change and may have the capacity tomeet‘extreme' (Slade et al.,2014) future bioenergy demands of ${ > } 6 0 0$ EJ $\\mathbf { y } \\mathbf { r } ^ { - 1 }$ . Once again comparing the $7 0 \\mathrm { R C P 8 . } 5$ to the present, climate change may have a positive impact on VL yields in Asia $( + 3 . 6 \\% )$ ，Europe $( + 1 6 5 \\% )$ ，and North America $( + 1 8 \\% )$ for $A$ .tequilana Similarly,for O.ficus-indica,climate change may have a positive impact in Asia $( + 8 . 8 \\% )$ ，Europe $( + 1 3 2 \\% )$ North America $( + 2 8 \\% )$ ，andSouth America $( + 0 . 1 \\% )$ .See Data S3 for simulation data presented in the barcharts in Fig. 6. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Compared to the present, $7 0 \\mathrm { R C P 8 } . 5$ world VL yields may decrease by $- 1 1 \\%$ (497-444EJ) for $A$ .tequilana but remained fairly constant for O. ficus-indica at $- 1 \\%$ (756- 750 EJ). The land area that supports these yields, shown in Fig.6,is 1950 Mha (av. $1 4 . 2 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ for $A$ tequilana and $2 3 0 0 ~ \\mathrm { { M h a } }$ (av. $1 8 . 3 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } ;$ for O.ficus-indica.Similarly under 7ORCP8.5,VL yields for A.tequilana and O.ficus-indica may be produced on 2070 Mha (av. $1 1 . 9 ~ \\mathrm { M g } ~ \\mathrm { h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ and 2510 Mha (av. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$1 6 . 6 ~ \\mathrm { M g ~ h a } ^ { - 1 } ~ \\mathrm { y r } ^ { - 1 } )$ ,respectively. For context, this represents $1 3 . 9 \\%$ and $1 6 . 8 \\%$ of the world's terrestrial land area，respectively.These results suggest that climate change will have a small overall negative impact on world VL yield intensity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A bioenergy review by Slade et al. (2014) found that dedicated bioenergy crops may contribute 22-1272 EJ by 2050 (Slade et al.，2014)． The authors considered scenarios ${ > } 6 0 0$ EJ $\\mathrm { y r } ^ { - 1 }$ as‘extreme'and basedon assumptions that increases in food-crop yields will significantly outpace demand, $1 0 0 0 ~ \\mathrm { { M h a } }$ of high-grade agricultural land will be available for bioenergy, population growth will be low,a primarily vegetarian diet will be adopted,and extensive deforestation would be allowed to continue (Slade et al.，2014). For context, current world bioenergy demand is approximately 50EJ $\\mathrm { y r } ^ { - 1 }$ and represents $1 0 \\%$ of total world energy demand (IEA， 2013). Significantly， thetheoretical results presented here show that VL land yields for O. ficus-indica could meet these extreme bioenergy demand scenarios ${ \\scriptstyle \\left( > 6 0 0 \\right. }$ EJ $\\mathbf { y } \\mathbf { r } ^ { - 1 }$ ）without requiring additional high-grade agricultural land and will continue to do so under the worst case climate change scenario.However,while these results underscore the high productivity potential of O. ficus-indica，we do not suggest such large-scale development would be environmentally orsocially desirable，orpractically feasible. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9d65f96c42e0c654239243a6ed88f2bfcf95a8644e14f8382b799976d398c28.jpg",
+        "img_caption": [
+            "Fig.6Viablelow-gradeland(VL)productivity potentialunderIPCCRCPclimatechangescenarios.The geospatialproductivitysimulationssowVLyieldsundercurentlimateconditions(1950-2OoO)andthebarcharts givetotalVLproductivityundereach RCP scenariointheyear2O7oforeachcontinentfor(a）A.tequilanaand(b)O.ficus-indica.VLyieldsforwereconstrainedto $\\geq 5 \\mathrm { \\ M g \\ h a } ^ { - 1 } \\ \\mathrm { y r } ^ { - 1 }$ and exclude highly productive and irrgated agricultural lands, forests,and protected areas. Simulations for $A$ . tequilana showthatimatechangeillaveaositiveimpactinAsia,Europe,andNorthmerica.ForO.ficus-indicaclimateange may haveapositive impactin Asia,Europe,North America,andSouthAmerica.LargeexpansesofSharan Africa,the Middle East, and Australia were excluded due to the commercially viable yield requirement of $\\geq 5 \\mathrm { \\ M g \\ h a } ^ { - 1 } \\mathrm { \\ y r } ^ { - 1 }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The model simulations presented here indicate that CAMbioenergy candidates are likely to outperform C3 and C4 bioenergy crops in terms of low-grade land productivity and meeting sustainable bioenergy objectives. Features including nocturnal carbon uptake，rectifierlike root hydraulic conductivity responses to fluctuating $\\Psi _ { s } ,$ and the capacity to buffer against periods of water deficit stress allow high productivity rates on low-grade lands.The yield simulations highlighted the capacity of the CAM pathway to meet future bioenergy demands with minimum resource conflicts.The same WUE features of the CAM pathway that distinguish it from C3 and C4 bioenergy candidates also offer resilience to climate change. Low-grade land simulations comparing the worst case climate scenario (7ORCP8.5) with present suggest that total yield will fall by $1 1 \\%$ for $A$ .tequilana and remain approximatelyunchanged for O. ficus-indica in 2070.However, CAM biofuels are not exempt from criticisms made of first generation C3 and C4 bioenergy candidates.While the macro-scale analysis presented here provides a good approximation of CAM bioenergy potential on a global scale,the sustainable introduction of CAM crops will need to be evaluated on a case-bycase basis and in accordance with sustainable bioenergy standards. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors would like to thank Dr Jessica Royles,Dr Moritz Meyer,and JamieMalesfor theirhelpandadvice.Thanksalso to Dr Shujiang Kang (Oak Ridge Laboratory,TN USA) for providing simulated output from his recent switch grass global productivity model.This research is funded by the Australian Rural Industries Research and Development Corporation (RIRDC). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acevedo E, Badilla I, Nobel PS (1983) Water relations,diurnal acidity changes,and productivity of a cultivated cactus,Opuntia ficus-indica.Plant Physiology,72,775- 780.   \nAmthor JS (2010) From sunlight to phytomass:on the potential eficiency of converting solar radiation to phyto-energy.The New Phytologist,188,939-959.   \nBarcikowski W,Nobel PS (1984) Water relations of Cacti during desiccation: distribution of water in tissues. Botanical Gazette,145,110-115.   \nBorland AM,HartwellJ, Jenkins GI, Wilkins MB, Nimmo HG (1999) Metabolite control overrides circadian regulation of Phosphoenolpyruuate Carboxylase Kinase and $\\mathrm { C O } _ { 2 }$ fixation in crassulacean acid metabolism.Plant Physiology,121, 889-896.   \nBorland AM,Griffiths H,Hartwell J, Smith JAC (2009) Exploiting the potential of plants with crassulacean acid metabolism for bioenergy production on marginal lands.Journal of Experimental Botany,60,2879-2896. ticity of crassulacean acid metabolism: an evolutionary innovation for sustainable productivity in a changing world. The New Phytologist,191,619-633.   \nBorland AM, WulschlegerSD,Weston DJ,HartwellJ, Tuskan GA, Yang X,Cushman JC (2014) Climate-resilient agroforestry: physiological responses to climate change and engineering of crassulacean acid metabolism (CAM) as a mitigation strategy.PlantCell&Eniroment,1-17.doi:10.11/pce12479.   \nBritton CM, Dodd JD(1976) Relationships of photosynthetically active radiation and shortwave iradiance.Agricultural Meterology,17,1-7.   \nBuchanan-Bollg IC,Kluge M, Muller D (1984) Kinetic changes with temperature of phosphoenolpyruoate carboxylase froma CAM plant.Plant,Cel $\\mathcal { E }$ Environment,7, 63-70.   \nCampbell GS (1988) Soil water potential measurement: an overview.Irrigation Science,9,265-273.   \nCarter PJ, Wilkins MB,Nimmo HG,Fewson CA (1995)Efects of temperaure onthe activity of phosphoenolpyruuate carboxylase and on the control of $\\mathrm { C O } _ { 2 }$ fixation in Bryophyllum fedtschenkoi.Planta,196,75-80.   \nCerato AB, Lutenegger AJ (2O02) Determination of surface area of fine-grained soils by the ethylene glycol monoethyl ether. Geotechnical Testing Journal,25,315-321.   \nCosby BJ,Hornberger GM, Clapp RB, Ginn TR (1984)A statistical exploration of the relationships of soil moisture characteristics to the physical properties of soils. Water Resources Research,20,682-690.   \nCreutzig F,Popp A,Plevin R, Luderer G, Minx J,Edenhofer O(2012)Reconciling top-down and bottom-up modelling on future bioenergy deployment. Nature Climate Change,2,320-327.   \nDauber J, Brown C,Fernando AL et al. (2012) Bioenergy from \"surplus\"land: environmental and socio-economic implications.Biodioersity and Ecosystem Risk Assessment,7,5–50.   \nDavis SC,Grifiths H,Holtum J, Saavedra AL,Long SP (2011) The evaluation of feedstocks in GCBB continues with a special issue on agave for bioenergy. GCB Bioenergy,3,1-3.   \nEIA (2013)International Energy Outlook 2013.EIA,Washington,C.   \nEllenberg H(1981)Ursachen des Vorkommens und Fehlens Von Sukkulenten in den Trockengebieten der Erde.(Reasons for stem succulents being present or absent in the arid regions of the world).Flora,171,114-169.   \nEscamilla-Trevio(011)PotentialofplantsfrothegeusAgeasioeer crops. BioEnergy Research,5,1-9.   \nESRI (2012) ArcGIS Version 10.0.ESRI(Enuironmental Systems Research Institute).   \nFAO,IIASA, ISRIC,ISSCAS,JRC (2012) Harmonised World Soil Database. Harmonised World Soil Database (version1.2).   \nGarcia-MoyaE,omero-Manzanares,NobelS(011)Highlightsforgero ductivity. GCB Bioenergy,3,4-14.   \nGBEP(2011）heGlobal BioenergyPartnershipSustainabilityIndicatorsforBioenergy Food and Agriculture Organization, UN., Rome, Italy.   \nGodfray HCJ, Beddington JR,Crute IR et al.(2010)Food security:thechallengeof feeding 9 billion people. Science,327,812-818.   \nGracia de Cortazar V,Nobel PS (199o) Worldwide environmental productivity indices and yield predictions for a CAM plant, Opuntia ficus-indica,including effects of doubled $\\mathrm { C O } _ { 2 }$ AgriculturalandForestMeteorology,49,6-79.   \nGrams TEE, Borland AM,Roberts A,Grifiths H, Beck F,Lüittge U, Darmstadt TH (1997) On the mechanism of reinitiation of endogenous crassulacean acid metabolism rhythm by temperature changes.Plant Physiology,113,1309-1317.   \nHoltum JAM, Winter K (2014) Limited photosynthetic plasticity in the leaf succulent CAM plant Agaoe angustifolia grown at different temperatures. Functional Plant Biology,41, 843–849.   \nHowell M,HeraS,Welschetal. (3)tegatednalyisofmaehage land-use,energyand water strategies. Nature Climate Change,3,621-626.   \nIEA (2013) World Energy Outlook 2013.   \nImmerzeel DJ,Verweij PA，van der Hilst F,Faaaij APC (2014) Biodiversity impacts of bioenergy crop production: a state-of-the-art review.GCB Bioenergy, 6,183-209.   \nIPCC (2013) Climate Change 2013: The Physical Science Basis.Contribution of WorkingGroupIto theFifth Asessment Reportof the Intergoernmental Panel on Climate Change(eds Stocker TF,Qin D,Plattner GK,Tignor M,Allen SK, Boschung J Nauels A,XiaY,Bex V,Midgley PM).Cambridge University PressCambridge, UK.   \nKang S,Nair S,Kline KL et al. (2014)Global simulationof bioenergycrop roductivity: analytical framework and case study for switchgrass.GCB Bioenergy,6, 14-25.   \nKeshwani DR, Cheng JJ (2o09) Switchgrass for bioethanol and other value-added applications:aeview.ioresource Technology,oo,515-1523.   \nKliemchen A,Schomburg M, Galla H, Lüttge U, Kluge M(1993) Phenotypic changes in the fluidity of the tonoplast membrane of crassulacean-acid-metabolism plants inresponse to temperature and salinity stress.Planta, 189, 403-409.   \nLi H,Foston MB,Kumar R et al. (2012) Chemical composition and characterization of cellulose for Agaoe as a fast-growing,drought-tolerant biofuels feedstock. RSC Aduances,2, 4951.   \nMedina E, Osmond CB (1981) Temperature dependence of dark $\\mathrm { C O } _ { 2 }$ fixation and acid accumulation in Kalanchoe diagremontiana.Australian Journal of Plant Physiology,8,641-649.   \nNachtergaeleF,PetriM(2O08)LADA: Mapping Land Use Systemsat globalandregional scales for Land Degradation AssessmentAnalysis, Version1.1.   \nNASA (2014) NASA Atmospheric Science Data Center.Surface meteorology and solar energy.   \nNimmo HG (20oo) The regulation of phosphoenolpyruoate carboxylase in CAM plants. Trends in Plant Science,5,75-80.   \nNobel PS (1976)Water relations and photosynthesis of a desert CAM plant,Agave deserti.Plant Physiology,58,576-582.   \nNobel PS (1988) Environmental Biology of Agaves and Cacti.Cambridge University Press, Cambridge, UK.   \nNobel PS (1989)Nutrient index quantifying productivityof Agaoes and Cacti.Journal of Applied Ecology,26,635-645.   \nNobel PS (1991) Tansley review No.32 achievable productivities of certain CAM plants: basis for high values compared with $\\subset 3$ and C4 plants.New Phytologist, 119, 183-205.   \nNobel PS,Hartsock TL (1978) Resistance analysis of nocturnal carbon dioxide uptake by a crassulacean acid metabolism succulent,Agave deserti. Plant Physiology, 61, 510-514.   \nNobel PS,Hartsock TL (1983) Relationships between photosynthetically active radiation, nocturnal acid accumulation, and $\\mathrm { C O } _ { 2 }$ uptake for a crassulacean acid metabolism plant,Opuntia ficus-indica.Plant Physiology,7,71-75.   \nNobel PS, Israel AA (1994) Cladode development, environmental responses of $\\mathrm { C O } _ { 2 }$ uptake,and productivity for Opuntia ficus-indica under elevated $\\mathrm { C O } _ { 2 }$ Journal of Experimental Botany,45,295-03.   \nNobel PS,De la Barrera E (20o3) Tolerances and acclimation to low and high temperatures for cladodes,fruits and roots of a widely cultivated cactus, Opuntia ficus-indica.Newytologist,157,271-79.   \nNobel PS,Meyer SE (1985) Field productivity of a CAM plant,Agave salmiana,estimated using daily acidity changes under various environmental conditions.PhysiologiaPlantarum,65,397-404.   \nNobel PS, Quero E(1986) Environmental productivity indices for a Chihuahuan Desert CAMplant:Agaoe Lechuguilla.Ecology,67,11.   \nNobel PS, Valenzuela AG (1987) Environmental responses and productivity of the CAM plant,Agaoe tequilana.Agricultural andForestMeteorology,39,19-34.   \nNobel PS,Garcia-Moya E, Quero E(1992) High annual productivity of Agaves and Cacti under cultivation.Pant,Celland Enironment,15,329-335.   \nOgburn RM,Edwards EJ (2010) The ecological water-use strategies of succulent plants.In:AdoancesinBotanicalResearch,Vol.55(edsKaderJ-C,Delsen).p. 179-225. Academic Press, Burlington.   \nOsmond CB (1978) Crassulacean acid metabolism: a curiosity in context. Plant Physiology,29,379-414.   \nOwen NA,Griffiths H (2014) Marginal land bioethanol yield potential of four crassulacean acid metabolism candidates (Agave fourcroydes，Agave salmiana, Agaoe tequilana and Opuntia ficus-indica)in Australia.GCB Bioenergy，6,687- 703.   \nVan Renssen S (2011)A biofuel conundrum. Nature Climate Change,1,389-390.   \nRSB (2013) RSB Principles & Criteria for Sustainable Biofuel Production.RSB-STD01-001 (Version 2.1),1-29.   \nSanderson MA,Reed RL,Mclaughlin SB et al.(1996) Switchgrass as a sustainable bioenergy crop.Bioresource Technology,56,83-93.   \nSaxton KE,Rawls WJ,Romberger JS,Papendick RI (1986) Estimating generalized soil-water characteristics from texture. Soil Science Society America Journal,50, 1031-1036.   \nScarlat N, Dallemand JF (2011) Recent developments of biofuels/bioenergy sustainability certification: a global overview. Energy Policy,39,1630-1646.   \nSkinner RH,Adler PR (2010) Carbon dioxide and water fluxes from switchgrass managed for bioenergy production. Agriculture, Ecosystems $\\mathcal { E }$ Environment,18, 257-264.   \nSladeR, Bauen A,Gross R (2O14) Global bioenergy resources.Nature Climate Change, 4, 99–105.   \nSmith JAC,Nobel PS (1986)Water movement and storage in a desert succulent: anatomyand rehydration kinetics for leaves of Agaoe deserti.Journal of Experimental Botany,37,1044-1053.   \nSomerville C,YoungsH,Taylor C,Davis SC,Long SP(2010) Feedstocks for lignocellulosic biofuels. Science, 329, 790-792.   \nSperry JS,Hacke UG (2002) Desert shrub water relations with respect to soil characteristics and plant functional type.Functional Ecology,16,367-378.   \nStintzing FC, Carle R (2005) Cactus stems (Opuntia spp.): a review on their chemistry,technology,and uses.MolecularNutrition&FoodResearch,49,175-194.   \nTilman D,Socolow R,FoleyJAetal.(2009)Beneficial biofuels—the food,energy and environment trilemma. Science, 325,270-271.   \nTing IP (1985) Crassulacean acid metabolism.Plant Physiology,36, 595-622.   \nWheeler T,von Braun J(2013) Climate change impacts on global food security. Science, 341, 508–513.   \nWinter K, Smith JAC (1996) Crassulacean Acid Metabolism: Biochemistry, Ecophysiology,and Evolution. Berlin,etc.Ecological studies,114,427-436.   \nWorldClim (2014) WorldClim-Global Climate Data.ERSI grids for Min.Temperature, Max.Temperature,and Precipitation 30 arc-seconds (\\~1 km).   \nYan X,Tan DKY,Inderwildi OR, Smith JAC,King DA (2011) Life cycle energy and greenhouse gas analysis for Agave-derived bioethanol. Energy $\\boldsymbol { \\mathscr { E } }$ Environmental Science,4,3110-3121. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting Information may be found in the onlineversionofthisarticle: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Data S1. Harmonised world soil atlas (HWSD) and geospatial estimates of soil hydraulic properties.   \nData S2.Food and agriculture organisation (FAO) land-use constraints used to define 'low-grade'lands.   \nData S3.Viable low-grade land productivity potential under climate change: continent scale simulation data. Data S4.Additional information for working with S5-S8 using ArcGIS software   \nData S5.ASCII file for Fig.1a (Simulated global productivity,A.tequilana).   \nData S6.ASCII file for Fig.1b (Simulated global productivity, O.ficus-indica).   \nData S7.ASCII file for Fig. 6a (Simulated global VL yield, A. tequilana).   \nData S8.ASCII file for Fig.6b (Simulated global VL yield, O. ficus-indica). ",
+        "page_idx": 12
+    }
+]

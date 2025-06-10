@@ -1,0 +1,218 @@
+# 丛枝菌根真菌侵染率对喀斯特坡地坡位与灌木物种的响应
+
+陈美凤1,2.3，王忠诚1，蒋南南1，郑生猛 2.3.4，胡亚军²，陈香碧²，何寻阳 2.3\*  
+（1．中南林业科技大学 林学院，长沙 410004；2.中国科学院亚热带农业生态研究所，亚热带农业生态过  
+程重点实验室，长沙 410125；3．中国科学院环江喀斯特生态系统观测研究站，广西 河池 547000；4.武夷学院 生态与资源工程学院，福建 南平354300)
+
+摘要：明确丛枝菌根真菌（arbuscular mycorrhizal fungi，AMF）侵染率对喀斯特坡地坡位与物种的响应及其关键影响因子，是合理利用土壤AMF促进喀斯特植被恢复的前提。该文在充分调查喀斯特峰丛洼地典型灌丛坡地环境背景信息的基础上，采用曲利苯蓝染色-镜检法检测并计算典型灌木黄荆（Vitex negundo）、红背山麻杆（Alchornea trewioides）和火棘（Pyracantha fortuneana）根系AMF 侵染频度、侵染强度和丛枝丰度等侵染率参数。结果如下：（1）相同坡位火棘的侵染频度和侵染强度和丛枝丰度均显著低于红背山麻杆和黄荆；下坡位黄荆和火棘的侵染强度均高于中/上坡位，而中坡位红背山麻杆的丛枝丰度显著高于上/下坡位（ $_ { . P < 0 . 0 5 ) }$ 。（2）物种显著影响AMF侵染频度、侵染强度和丛枝丰度，坡位显著影响AMF侵染强度，物种与坡位的交互作用仅对AMF丛枝丰度有显著影响（ $_ { . } P { < } 0 . 0 5 )$ 。(3）影响AMF侵染率的关键土壤因子是土壤深度和全钾含量（ $_ { . P < 0 . 0 5 ) }$ 。因此，合理利用土壤AMF 促进喀斯特区植被恢复需要考虑地形与物种的选择，且应注重兼顾喀斯特区的水土保持。
+
+关键词：喀斯特，丛枝菌根真菌，频度，强度，丰度中图分类号：Q948 文献标识码：A
+
+# Responses of arbuscular mycorrhizal fungi colonization to slope position and dominant shrub in karst slopes
+
+CHEN Meifeng1,2.3, WANG Zongcheng1, JIANG Nannan1, ZHENG Shengmeng2,34, Hu Yajun2, CHEN Xiangbi², HE Xunyang2.3\*   
+(1.CollegeofForestry,Central South University ofForestry& Technology, Changsha 410004, China; 2. Key   
+LaboratoryofAgro-ecological Processes inSubtropical Region,InstituteofSubtropical Agriculture,Chinese Academy ofSciences,Changsha410125,China;3.Huanjiang Observationand Research Station for Karst   
+Ecosystems,Chinese Academy ofSciences,Hechi 5470o0, Guangxi, China; 4. School of Ecology and Resource Engineering,Wuyi University,Nanping3543oo,Fujian,China)
+
+Abstract: The response of arbuscular mycorrhizal fungi (AMF） colonization percentage to slope position and shrub species and the key influencing factors were identified as wellin karst slopes, which is the prerequisite for rational utilization of soil AMF to promote karst vegetation restoration. Based on field investigation of typical shrub communities and environmental variables on slopes of a karst peak cluster depression catchment. The fine root samples of three typical shrub species (Vitex negundo, Alchornea trewioides and Pyracantha fortuneana) were collected from three positions (upper, middle and lower) along three slopes.The frequency, intensity and abundance of AMF colonization were detected and calculated by the Trypan blue method. The results were as follows: (1） The colonization frequency, colonization intensity and abundance of
+
+AMF for Vitex negundo and Alchornea trewioides were higher than those for Pyracantha fortuneana in the same slope. The colonization intensity for Vitex negundo and Pyracantha fortuneana in the lower slope was higher than that in the upper or middle slope.The abundance of AMF for Alchornea trewioides in the middle slope was significantly higher than that in the upper and lower slope $( P { < } 0 . 0 5 )$ . (2) Shrub species had significant efect on the colonization frequency, intensity and abundance of AMF,but slope position only had significant effect on the colonization intensity of AMF. Slope position and shrub species had significant interactive effect on the abundance of AMF $( P { < } 0 . 0 5 )$ . (3) Soil depth and total potassium content were identified as the two strongest explanatory factors on AMF colonization according to the redundancy analysis $( P { < } 0 . 0 5 )$ ： Therefore,the rational use of soil AMF to promote vegetation restoration in karst areas needs to consider the choice of terrain and species，and should pay attntion to the water and soil conservation.
+
+Key words: karst, arbuscular mycorrhizal fungi, frequency, intensity, abundance
+
+丛枝菌根真菌（arbuscular mycorrhizal fungi，AMF）能与地球上大约 $80 \%$ 的植物形成共生体（Smith& Smith,2011），具有扩大根系范围、促进植物养分吸收和提高植物抗旱性等生态功能（米屹东等，2020；Kang etal.,2020；刘娜等，2021）。AMF 在退化或破坏的生态系统恢复重建中得到广泛的应用（魏源等，2012)。
+
+西南喀斯特地区岩溶作用强烈，土层浅薄且不连续，生态环境极其脆弱，是我国水土流失最严重的的地区之一（黄同丽等，2019)，其退化生态系统恢复最重要的任务是植被恢复（李先琨等，2003）。其中，峰丛洼地是植被恢复最快的地貌类型（Tong etal.,2020），坡地占比超过 $70 \%$ 。受地质和地貌背景的制约，引发坡地快速水文过程，喀斯特地区土壤层较薄且不连续，岩溶渗漏致使土层水肥保持能力差、土壤贫瘠（李先琨等，2008)。不同坡位的土壤养分等条件往往存在巨大差异（李先琨等，2003；梁月明等，2017)，显著影响AMF的基本特征，如侵染率（张中峰等，2015；屈明华等，2021)。侵染率是表征菌根真菌与宿主植物是否建立共生关系的重要指标，主要包含菌根侵染频度、侵染强度和丛枝丰度等参数（任稹等，2014）。研究表明，土壤中磷含量较低时AMF的侵染率较高（王淼焱等，2006)。同时，AMF 作为植物的共生真菌，其宿主植物种类是影响AMF 侵染的重要因素（杨康等，2019)。不同植物由于生物学特征与生态习性等方面的差异，必然会影响丛枝菌根真菌对宿主植物的侵染（梁月明等，2018）。例如，红锥和单性木兰根系AMF侵染率显著高于紫弹树（张海波等，2016)，香椿的侵染率显著高于茶条木（张中峰等，2018)。灌丛既是喀斯特峰丛洼地的主要植被类型，又是喀斯特植被恢复的关键阶段（胡芳等，2018)。在喀斯特峰丛洼地坡地，灌木优势植物根系中的AMF 侵染率会随坡位而发生改变，且这种改变也可能会因植物而异。研究喀斯特坡地典型灌木物种AMF侵染率对坡位的响应，对于深入理解植物与AMF互作关系并合理利用AMF促进该区植被恢复具有重要意义。
+
+本研究选取了广西环江典型喀斯特峰丛洼地的3个坡位（上、中和下）和3个优势灌木物种黄荆(Vitex negundo）、红背山麻杆(Alchornea trewioides)和火棘(Pyracantha fortuneana)，测定不同坡位的土壤理化性质以及植物根系AMF 侵染频度、侵染强度和丛枝丰度等侵染率参数，明确（1）坡位与灌木物种对AMF 侵染率是否存在交互作用；（2）影响AMF侵染率的主要因素。以期为合理利用土壤 AMF 和植物的共生关系促进喀斯特峰丛洼地生态恢复提供科学依据。
+
+# 1材料与方法
+
+# 1.1研究区概括
+
+研究区位于广西壮族自治区环江毛南族自治县中国科学院环江喀斯特生态系统观测站木连峰丛洼地小流域 $\langle 1 0 8 ^ { \circ } 1 8 ^ { \prime } - 1 0 8 ^ { \circ } 1 9 ^ { \prime } \mathrm { E }$ ， $2 4 ^ { \circ } 4 3 ^ { \prime } - 2 4 ^ { \circ } 4 4 ^ { \prime } \mathrm { N } )$ 。研究区属于亚热带季风气候，年均气温 $1 3 ^ { \circ } \mathrm { C }$ ，年均降水量为 $8 0 0 { \sim } 1 5 0 0 \mathrm { m m }$ ，降水的季节分配差异大，以夏季雨量较为集中，冬季干旱少雨。研究区主要土壤类型为石灰土，坡地植被以灌丛为主。
+
+# 1.2样地设置和植被调查
+
+在前期充分调研的基础上，于研究区内选择坡向一致（均为西南向）、海拔高度相近、且植被群落相似度较高的坡地设置三条样线，并分别于上、中、下三个坡位设置灌丛群落调查样地 ( $\mathrm { 1 0 m \times 1 0 m ) }$ ，同一样线不同坡位间样地的垂直落差为 $2 8 { \sim } 4 6 \mathrm { m }$ （样地详细信息见表1)。用全站仪将每个样地再划分为4个小样方（ $\left( 5 \mathrm { m } \times 5 \mathrm { m } \right)$ )，于生长旺季7一8月进行植被调查，调查样方内胸径（DBH） $\geqslant 1 \ \mathrm { c m }$ 的木本植物（包括藤本)，记录其种名、胸径、树高、冠幅等指标；对于胸径 $\mathrm { D B H } < 1 \ \mathrm { c m }$ 的乔木和灌木幼苗以及草本层植物，简要记录其种名、株数、高度、盖度等特征，并计算物种的重要值（重要值 $\underline { { \underline { { \mathbf { \Pi } } } } } = \underline { { \underline { { \mathbf { \Pi } } } } }$ 相对多度 $+$ 相对频度 $\cdot +$ 相对盖度/3）（郑生猛等，2016；王志学等，2021）。
+
+表1样地概况  
+Table 1 General situation of sample plots   
+
+<html><body><table><tr><td>坡位 Slope position</td><td>经纬度 Latitude and longitude</td><td>坡度 Slope</td><td>海拔 Altitude (m)</td><td>典型灌木物种的重要值 Importance values of typical shrub species</td></tr><tr><td>1号上坡 No. 1 upper</td><td>108°19'28"E, 24°44'4" N</td><td>37</td><td>364</td><td>16.41b、7.15、2.08a</td></tr><tr><td>1号中坡 No.1 middle</td><td>108°19'30"E, 24°44'35" N</td><td>33</td><td>325</td><td>11.69c、10.53b、8.85a</td></tr><tr><td>1号下坡 No.1 lower</td><td>108°19'33"E， 24°44'35" N</td><td>30</td><td>282</td><td>26.10a、13.23b、6.71c</td></tr><tr><td>2号上坡 No.2 upper</td><td>108°19'4"E, 24°44'0" N</td><td>36</td><td>376</td><td>15.44b、12.88、7.73a</td></tr><tr><td>2号中坡 No.2 middle</td><td>108°19'5"E, 24°44'3" N</td><td>34</td><td>334</td><td>17.46a、4.51b、3.48c</td></tr><tr><td>2号下坡 No.2 lower</td><td>108°19'31"E，</td><td>24°44'0" N 29</td><td>306</td><td>29.91c、29.38a、9.16b</td></tr><tr><td>3号上坡 No.3 upper</td><td>108°18'56"E, 24°43'21"N</td><td>39</td><td>353</td><td>8.45b、6.23、5.77a</td></tr><tr><td>3号中坡 No.3 middle</td><td>108°18'46"E,</td><td>24°43'30"N 32</td><td>307</td><td>12.86a、6.74b、2.50c</td></tr><tr><td>3号下坡 No.3 lower</td><td>108°18'47"E,</td><td>24°43'31"N 30</td><td>278</td><td>12.88a、3.71b、3.62c</td></tr></table></body></html>
+
+注：典型灌木物种“黄荆，红背山麻杆，‘火棘。 Note:Typical shrub speciesaVitex negundo,bAlchornea trewioides,‘Pyracantha fortuneana.
+
+# 1.3目标植物的选择和样品采集
+
+在上述样地选择共有优势种黄荆、红背山麻杆、火棘作为目标植物，每个样地中同一物种选择4株生长良好、胸径一致‘ $( \pm 0 . 0 5 \mathrm { c m }$ ）的植株，挖取植物根系。选择直径小于 $2 \mathrm { m m }$ 的细根（梁月明等，2021），充分混匀；取 $2 0 \mathrm { g }$ 置于塑料自封袋内，暂存于低温冰盒， $2 4 \mathrm { h }$ 带回实验室。根系先用清水冲洗2\~3次，洗去表面附着的土壤，再用蒸馏水冲洗2\~3 次， $4 ^ { \circ } \mathrm { C }$ 保存（石国玺等，2017），用于AMF侵染率测定。
+
+表层土壤（ $0 { \sim } 2 0 \mathrm { c m } )$ ）采集采用网格法：将每个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的样地划分为 $2 \mathrm { m } \times 2 \mathrm { m }$ 的25 个格子，在每个格子顶点用土钻进行采样，共36个点，充分混匀。用四分法分出 $5 0 0 ~ \mathrm { g }$ 用于土壤理化性质测定。
+
+# 1.4测定指标与方法
+
+1.4.1AMF侵染率的测定
+
+采用曲利苯蓝染色-镜检法（Muthukumar＆Udaiyan,2000），按照常规的操作步骤透明，酸化，染色，脱色，然后选取30条根段，制片，镜检。根据根段中菌根侵染（分为0， $< 1 \%$ ，$< 1 0 \%$ ， $< 5 0 \%$ ， $5 5 0 \%$ ， $590 \%$ ，对应级别为 $\mathrm { N } _ { 0 }$ ， $\mathrm { N } _ { 1 }$ ， $\Nu _ { 2 }$ ， ${ \bf N } _ { 3 }$ ， $\mathrm { N } _ { 4 }$ ， $\mathrm { N } _ { 5 }$ ）和泡囊丰度（分为0，较少，较多，非常多，对应级别为 $\mathbf { A } _ { 0 }$ ， $\mathbf { A } _ { 1 }$ ， $\mathbf { A } _ { 2 }$ ， $\mathbf { A } _ { 3 }$ 级别)，判断每个根段级别，代表性侵染率状况见图1。输入“MYCOCALC"软件，计算侵染率的参数侵染频度、侵染强度、丛枝丰度（冯海艳等，2003）。各参数意义表示如下。
+
+侵染频度 $( \% )$ ：代表所有含有真菌结构的根系占整个根系的比例，其中只要含有一个侵入点的根段就算作侵染根段。
+
+侵染强度 $( \% )$ ：代表整个根系中AMF结构形成的强度。
+
+$$
+= \frac { 0 . 9 5 \times n _ { 5 } + 0 . 7 \times n _ { 4 } + 0 . 3 \times n _ { 3 } + 0 . 0 5 \times n _ { 2 } + 0 . 0 1 \times n _ { 1 } + 0 \times n _ { 0 } } { \therefore \frac { 3 \times 2 } { 4 \times 1 0 \times 2 0 } \times \frac { 3 \times 4 } { 4 \times 1 0 } } \times 1 0 0 \%
+$$
+
+式中： $n _ { 5 }$ 表示菌根侵染 $59 0 \%$ ( $\Nu _ { 5 }$ 级）的根段数； $n _ { 4 }$ 菌根侵染 $5 5 0 \%$ （ $\mathrm { N } _ { 4 }$ 级）的根段数；以此类推。
+
+丛枝丰度 $( \% )$ ：代表菌根化的根系中丛枝结构形成的丰度。
+
+$$
+\begin{array} { r } { m A _ { 3 } = \frac { 0 . 9 5 \times A _ { 3 } ^ { 5 } + 0 . 7 \times A _ { 3 } ^ { 4 } + 0 . 3 \times A _ { 3 } ^ { 3 } + 0 . 0 5 \times A _ { 3 } ^ { 2 } + 1 \times A _ { 3 } ^ { 1 } + 0 \times A _ { 3 } ^ { 0 } } { \frac { 3 ! 4 ! } { 1 5 ! \cdot ( \frac { - 1 } { 2 } \times \frac { - 3 } { 2 } \times A ) ( 1 - \frac { 5 \times A } { 2 } ) } \times m } } \end{array}
+$$
+
+式中： $\boldsymbol { A _ { 3 } } ^ { 5 }$ ， $\boldsymbol { A _ { 3 } } ^ { 4 }$ ， $\mathbf { \nabla } \mathcal { A } _ { 3 } { } ^ { 3 }$ ， $\ A _ { 3 } { } ^ { 2 }$ ， $A _ { 3 } { } ^ { 1 }$ ， $\mathbf { \nabla } A _ { 3 } ^ { 0 }$ 分别表示泡囊丰度为 $\mathbf { A } _ { 3 }$ 级别的根段中 $\mathrm { N } _ { 5 }$ 、 $\mathrm { N } _ { 4 }$ 、${ \bf N } _ { 3 }$ 、 $\Nu _ { 2 }$ 、 $\mathrm { N } _ { 1 }$ 、 $\mathrm { N } _ { 0 }$ 根段数； $m A _ { 2 }$ ， $m A _ { 1 }$ ， $m A _ { 0 }$ 计算方法同 $m A _ { 3 }$ ; $m$ 代表侵染根段的菌根侵染密度，计算公式如下。
+
+# 1.4.2土壤理化性质的测定
+
+土壤理化性质采用常规方法测定（鲍士旦等，2000）。土壤有机质（soilorganic matter，OM）采用重铬酸钾-外加热法；全氮（total nitrogen，TN）用半微量凯氏法；全磷（totalphosphorus，TP）和速效磷（available phosphorus，AP）用钼锑抗比色法；全钾（total potassium,TK）和速效钾（available potassum，AK）用火焰光度法；土壤碱解氮（available nitrogen,AN）用碱解扩散法； $\mathfrak { p H }$ 用 $\mathrm { M e t r o } 3 2 0 \mathrm { p H }$ 计测定（水土比为2.5:1)；土壤含水率（watercontentof soil，WC）用烘干法；土壤深度用测钎测量；表层土壤碎石含量用称重法（gravel content)。
+
+# 1.5数据处理和统计分析
+
+采用 SPSS 26.0进行数据的正态性、方差齐性检验，必要时对数据进行转换以满足要求。
+
+不同坡位土壤理化性质采用单因素方差分析（One-way ANOVA）并进行多重比较（Duncan);坡位和灌木物种及两者的交互作用对AMF侵染率各参数影响采用双因素方差分析（Two-way ANOVA）方法并进行多重比较（Duncan)。植物的相对密度、多度、频度重要值的计算采用R语言 vegan 包。采用Canoco 5.0软件进行冗余分析(redundancy analysis,RDA)，明确各灌木物种AMF 侵染率与环境因子的关系。显著性检验水平 $\mathtt { a } = 0 . 0 5$ ；图表中数据为平均值±标准差。
+
+# 2结果与分析
+
+# 2.1不同坡位土壤理化性质的差异
+
+土壤有机质、全氮、全磷、全钾、pH、含水量和碎石含量在各坡位间均无显著差异（表2)。速效钾含量下坡位显著高于上坡位、中坡位；速效磷含量中坡位、下坡位显著高于上坡位；碱解氮含量为下坡位 $>$ 中坡位 $>$ 上坡位；土壤深度下坡位显著高于上坡位。
+
+表2不同坡位土壤理化性质  
+Table 2Physical and chemical properties of soil in different slope positions   
+
+<html><body><table><tr><td>指标 Index</td><td>TiySreurund eheurpropertres 上坡位</td><td>中坡位</td><td>Cirtsropeposrrons 下坡位</td></tr><tr><td></td><td>Upper slope</td><td>Middle slope</td><td>Lower slope</td></tr><tr><td>有机质OM(g:kg-1)</td><td>48.83±9.83</td><td>44.94±6.72</td><td>64.77±10.32</td></tr><tr><td>全氮TN (g:kg-1)</td><td>4.96±1.06</td><td>5.14±1.01</td><td>5.16±0.76</td></tr><tr><td>全钾 TK (g:kg-1)</td><td>2.05±0.91</td><td>3.16±0.89</td><td>3.59±0.12</td></tr><tr><td>全磷TP (g:kg-1) 速效钾AK (mg·kg-1)</td><td>0.85±0.21</td><td>1.13±0.33</td><td>1.07±0.15</td></tr><tr><td>速效磷 AP (mg:kg-1)</td><td>79.44±8.11b</td><td>82.55±11.12b</td><td>128.95±10.90a</td></tr><tr><td>碱解氮AN (mg·kg-1)</td><td>6.92±0.70b</td><td>9.16±0.88a</td><td>11.12±0.84a</td></tr><tr><td>pH</td><td>281.71±10.88c</td><td>383.06±3.47b</td><td>472.83±8.05a</td></tr><tr><td>土壤含水量WC (%)</td><td>7.90±0.05 17.41±2.00</td><td>7.86±0.03</td><td>7.80±0.05</td></tr><tr><td>土壤深度 Soil depth (cm)</td><td>14.43±2.97b</td><td>14.23±1.25</td><td>15.82±1.66</td></tr><tr><td></td><td></td><td>18.49±0.86ab</td><td>21.10±0.15a</td></tr><tr><td>碎石含量 Gravel content (%)</td><td>10.00±5.00</td><td>10.00±8.00</td><td>9.00±1.00</td></tr></table></body></html>
+
+注：不同小写字母表示该指标不同坡位间差异显著（ $. P { < } 0 . 0 5 )$ ；仅标识处理间的显著差异。
+
+Note: Different lowercase letters indicate significant differences between different slope positions ( $. P { < } 0 . 0 5 \$ ； Only significant differences between treatments are marked.
+
+# 2.2AMF侵染状况
+
+通过染色后对所采集的植物根系进行镜检，发现多数能够清晰观察到丛枝菌根的菌丝、泡囊、丛枝等结构。部分胞间菌丝侧向分枝进入到宿主植物细胞内呈二分叉状生长，形成灌木状的丛枝。在黄荆和红背山麻杆根系能够在皮层细胞的细胞间和细胞内观察到泡囊结构，观察到的泡囊有椭圆形、圆形、长方形和不规则形状等，其中最多的泡囊形状是椭圆形。
+
+黄荆、红背山麻杆、火棘在上、中、下坡位均能被 AMF 侵染（图版I)。其中，与火棘相比，黄荆（图版I:B）和红背山麻杆（图版I:D,F）根系内能形成较为明显的丛枝菌根结构。
+
+![](images/e2559526a20835840eb59633d27033932183cdf49202c4055fb81d678f3bdfd0.jpg)  
+A-C、D-F、G-I分别为黄荆、红背、火棘根系中AMF 侵染状况（从左到右分别为上、中、下坡位）。1．菌丝；2.泡囊；3.菌丝和泡囊。
+
+A-C,D-Fand G-Iare the AMFcolonization in the rootsof Vitex negundo,Alchornea trewioides and Pyracantha fortuneana,respectively (from leftto right,theyare the upper,middle and lower slope positions).1.Hyphae; 2. Vesicale;3.Hyphae and vesicale.
+
+# 图版I不同灌木物种根系中 AMF 侵染状况
+
+# Plate I AMF colonization of different shrub species
+
+# 2.3AMF侵染率的变化特征
+
+同一坡位下，火棘的侵染频度（图1：A）和侵染强度（图1：B）和丛枝丰度（图1：C）均显著低于红背山麻杆、黄荆（ $_ { . P < 0 . 0 5 ) }$ ；同一物种下，3个优势物种的侵染频度、红背山麻杆的侵染强度以及火棘、黄荆的丛枝丰度在坡位间均无显著差异（ $_ { \cdot P > 0 . 0 5 ) }$ ，黄荆、火棘的侵染强度表现为下坡位显著高于中/上坡位，红背山麻杆的丛枝丰度表现为中坡位显著高于上/下坡位（ $. P { < } 0 . 0 5 )$ 。
+
+![](images/8b1badaf63bb84455b963f0cb61c897996783534b3f6895c4929bb10a55e8263.jpg)
+
+不同大写字母表示同一坡位下不同物种间的差异，不同小写字母表示同一物种不同坡位间的差异，显著水 平 $P { < } 0 . 0 5$ ；仅标识处理间的显著差异。 Different uppercase leters indicate the diferences between diferent species at the same slope position,and different lowercase letters indicate the diferences between diferent slope positions of the same species,and the significant level is $\scriptstyle P < 0 . 0 5$ ；Only significant differences between treatments are marked.
+
+图1AMF 侵染率对3个坡位与3个物种的响应特征比较
+
+Fig.1Characteristics of AMF colonization percentage responded to three slope positions and
+
+three species
+
+# 2.4AMF侵染率的影响因素
+
+坡位仅对AMF侵染强度有显著影响（ $_ { . P < 0 . 0 1 } )$ ，物种显著影响AMF侵染频度、侵染强度和丛枝丰度（ $( P { < } 0 . 0 1 )$ )，坡位与物种的交互作用显著影响AMF丛枝丰度（ $. P { < } 0 . 0 5 )$ （表3）。表3坡位、灌木物种及两者交互作用对AMF侵染率的影响
+
+Table 3Effects of slope positions,species and their interaction on AMF colonization percentage   
+
+<html><body><table><tr><td rowspan="4">项目 Project</td><td colspan="2">侵染频度 Colonization</td><td colspan="2">侵染强度</td><td colspan="2">丛枝丰度</td></tr><tr><td colspan="2">frequency</td><td colspan="2">Colonization intensity</td><td colspan="2">Abundance of AMF</td></tr><tr><td>df</td><td>F</td><td>df</td><td>F</td><td>df</td><td>F</td></tr><tr><td>2</td><td>1.99</td><td>2</td><td>3.99*</td><td>2</td><td>1.44</td></tr><tr><td>坡位 Slope position 物种 Species</td><td>2</td><td>136**</td><td>2</td><td>49.5**</td><td>2</td><td>29.2**</td></tr><tr><td>坡位× 物种 Species × Slope position</td><td>4</td><td>1.53</td><td>4</td><td>1.76</td><td>4</td><td>3.49*</td></tr></table></body></html>
+
+注： $^ { * * }$ 表示 $P { < } 0 . 0 1$ . $*$ 表示 $P { < } 0 . 0 5$ 。Note: （204号 $^ { * * }$ indicates $P { < } 0 . 0 1$ ; \* indicates $P { < } 0 . 0 5$
+
+冗余分析表明(图2)，第一和第二主变量共解释了 $7 1 . 9 9 \%$ 的变异，分别解释了 $4 2 . 1 4 \%$ 和 $2 9 . 8 5 \%$ 的变异，影响AMF侵染率的主要土壤因子是土壤深度（ $F { = } 2 . 8$ ， $\scriptstyle P = 0 . 0 3 4$ ）和全钾含量（ $F { = } 2 . 7$ ， $\scriptstyle P = 0 . 0 4 0 { \mathrm { , } }$ 。上、下坡位相对聚集，而中坡较为分散。
+
+由图2可以看出，黄荆、红背山麻杆侵染频度，火棘侵染频度、侵染强度、丛枝丰度分别与土壤深度显著相关，与土壤全钾呈显著负相关；黄荆、红背山麻杆侵染强度与土壤全钾相关性最高，与土壤深度呈负相关；黄荆丛枝丰度与土壤深度、土壤全钾相关性较高。
+
+![](images/2ae3c22519f4e18af8b8d6c2d0e10098006b7badf692114fc77275ab6d63dd4d.jpg)  
+图2影响 AMF 侵染率的土壤性质
+
+F.侵染频度；M.侵染强度；a.丛枝丰度；TK.全钾含量。仅标识有显著影响的性质。 F. Colonization frequency; M. Colonization intensity; a. Abundance of AMF.; TK.Total potassium content. Only properties that have a significant impact are marked.
+
+Fig.2Soil properties affecting AMF colonization rates by redundancy analysis
+
+# 3讨论
+
+喀斯特区具有独特的水土二元流失特征，引发坡位间土壤养分较大差异，进而影响土壤微生物的分布（李先琨等，2003；冯书珍等，2015)。本研究中，坡位对 AMF 侵染强度有显著影响，这可能是由于喀斯特坡地土壤有机质含量和速效养分表现为下坡位高于上坡位，有机质及养分含量较高利于AMF 的生长繁殖，能够显著提高AMF对植物根系的侵染强度（王晓英和王冬梅，2009)，最终表现为下坡位黄荆、火棘的侵染强度均显著高于上坡位。
+
+物种显著影响AMF 侵染频度、侵染强度和丛枝丰度，说明宿主植物种类对AMF 具有重要影响。本研究中黄荆、红背山麻杆的AMF 侵染频度、侵染强度和丛枝丰度均高于火棘，可能与不同宿主植物的生物学特征和生态习性差异有关（陈伟立，2016；车俭等，2022）。在叶表皮形态上，与火棘相比，黄荆、红背山麻杆具有气孔密度更大、维管组织更发达等特征，有利于减少植物体内水分的散失，并能促进水分运输和营养元素的迁移，更适应岩溶区干旱环境条件（李强和曹建华，2008；邓彭艳等，2010；董蕾等，2011)。在根系形态上，黄荆和红背山麻杆根系构型均属于典型叉状分支模式（苏樑等，2018a)，而火棘根系为鱼尾形分支模式（吴静等，2022)。其中，叉状分支模式的根系更容易获取表层土壤养分和水分，在表层土壤中占据更大的空间（苏樑等，2018a)，增大根系与土壤 AMF的接触面，利于AMF 侵染根系构建共生关系；最终表现为黄荆、红背山麻杆的AMF 侵染频度、侵染强度和丛枝丰度均显著高于火棘。
+
+坡位与物种的交互作用显著影响土壤微生物区系，如不同坡位条件下，与植物的群落结构共同影响土壤AMF 群落结构（梁月明等，2017)，但对AMF侵染率的影响目前研究还较少。在我国西南地区高温多雨气候下，土壤颗粒随降雨后水流由上坡位迁移至较低坡位，养分含量表现为下坡位 $>$ 中/上坡位（邱虎森等，2013；彭旭东等，2017)。喀斯特地区独特的岩溶作用使岩石表面形成无数大小不等的凹槽，凹槽聚集于坡面对水分和养分有一定的截留作用，导致不同坡位间水分和养分的时空异质性更为突出（李先琨等,2008;邱虎森等,2013)。为了适应这样极端的空间资源分配，植物需要发达的根系以扩大水分和养分的吸收面积（李先琨等，2008)，这种应对策略能够更好的让植物根系与AMF共生（王森等，2008；姜攀和王明元，2012)。因此，坡位与物种的交互作用会显著影响 AMF 侵染率。本研究中喀斯特坡地坡位及灌木物种的交互作用显著影响AMF 丛枝丰度。丛枝丰度综合反映了真菌侵染的根段中丛枝结构出现的频度和侵染强度，代表菌根化了的根系中丛枝结构形成的丰富程度（冯海艳，2003)。具体表现为红背山麻杆的丛枝丰度在中坡位显著高于上/下坡位，说明在喀斯特地区菌根化的根系中丛枝结构形成的丰度对坡位与物种的综合效应有较强的响应，在指征AMF侵染率时，AMF丛枝丰度比AMF 侵染频度、侵染强度更为敏感。
+
+土壤深度和全钾含量是喀斯特坡地AMF侵染率的显著影响因子。喀斯特地区缺水，少土，立地条件十分恶劣（李先琨等，2008)。在这种资源贫瘠的生境中，植物需要招募 AMF扩大根系获取水分和养分，另一方面不同AMF为获取碳源需要竞争侵染植物根系的机会（郑世学，2006；Sanders＆Croll,2010；刘娜等，2021)。土壤深度的微小差异可能带来植物可利用养分总量显著差别（邱虎森等，2013)，直接影响宿主植物的根系分布，进而对植物根系中的菌根侵染率产生影响（苏樑等，2018b)。钾离子是植物细胞中最主要的无机渗透物质，充足的钾可诱导可溶性物质积累，从而降低渗透势，帮助细胞在渗透胁迫下保持膨压，提高植物对干旱胁迫的耐受（Wang etal.,2013)。由于自然生态系统土壤中的钾主要来源于土壤母质，喀斯特土壤快速的水文过程加剧了钾的流失（邱虎森等，2013)。缺水条件下植物对钾的需求量增大，进一步促进植物与AMF 共生（Visentin et al.,2016；刘娜等，2021）。因而，全钾含量显著影响喀斯特优势树种根系中AMF 的群落组成，也影响AMF 侵染率（张海波等，2016)。
+
+# 4结论
+
+喀斯特丛枝菌根真菌侵染率同时受坡位与物种的影响，但两者对AMF侵染率的表征参数具有不同的效应，AMF侵染频度主要受物种的影响，侵染强度主要受坡位的养分条件影响，而AMF丛枝丰度同时反映了物种与坡位的综合效应。
+
+土壤深度和全钾含量是影响喀斯特峰丛洼地坡地优势灌木AMF 侵染率的显著因子，在喀斯特坡地进行植被恢复时不仅需要考虑植物种类,而且需要考虑喀斯特独特地质背景所控制的水土分布中空间异质性及钾素养分的供给。未来研究需要关注植物大量营养钾素的研究，结合水文过程和养分循环，进一步阐明物种对土壤AMF共生的选择性，量化植物-菌根共生的生态效应，为土壤AMF 资源在喀斯特脆弱生境中的植被恢复应用提供科学指导。
+
+# 参考文献:
+
+BAO SD, 2000.Analysis of soil agrochemical [M].3rd ed. Beijing: China Agriculture Press.[鲍士旦，2000．土壤农化分析[M].3版．北京：中国农业出版社.]  
+CHE J, ZHENG J, JIANG Y,et al.， 2020. Separation of phylogeny and ecological behaviorsbetween evergreen and deciduous woody angiosperms in the subtropical forest dynamics plotsof China[J].Chin JPlant Ecol,44(10):1007-1014.[车俭，郑洁，蒋娅，等，2020．中国亚热带森林动态监测样地常绿和落叶木本被子植物谱系结构及生态习性差异[J]．植物生态学报，44(10): 1007-1014.]  
+CHEN WL,LI J, ZHU HH,et al.，2016.A review of the regulation of plant root systemarchitecture by rhizosphere microorganisms[J].Acta Ecol Sin, 36(17): 5285-5297.[陈伟立，李娟，朱红惠，等，2016．根际微生物调控植物根系构型研究进展[J]．生态学报，36(17):5285-5297.]  
+DENG PY,CHEN HS, NIE YP,et al.，2010.Photosynthetic characteristics of Radermacherasinica and Alchornea trewioides in karst regions of northwest Guangxi, China in dry and rainyseasons[J].ChinJEcol,29(8):1498-1504.[邓彭艳，陈洪松，聂云鹏，等，2010．桂西北喀斯特地区菜豆树和红背山麻杆旱、雨季光合特性比较[J]．生态学杂志，29(8)：1498-1504.]  
+DONG L, CAO HL,YE WH, et al., 2011. Leaf anatomic traits of 5 species in southwesternChina's karst region[J].Chin JAppl Environ Biol,17(5): 747-749.[董蕾，曹洪麟，叶万辉,等,2011.5种喀斯特生境植物叶片解剖结构特征[J].应用与环境生物学报,17(5):747-749.]  
+FENG HY, 2003. Growth and alkaline phosphatase activity of arbuscular mycorrhizal fungi asaffected by P supply[D].Beijing: China Agricultural University:23.[冯海艳，2003．土壤和宿主磷水平对AM真菌生长及ALP活性调控的研究[D]．北京：中国农业大学：23.]  
+FENG HY, FENG G, WANG JG, et al.,2003. Regulation of P status in host plant on alkalinephosphatase (ALP) activity in intraradical hyphae and development of extraradical hyphae ofAM fungi[J].Mycosystema,22(4):589-598.[冯海艳，冯固，王敬国，等，2003．植物磷营养状况对丛枝菌根真菌生长及代谢活性的调控[J]．菌物系统，22(4)：589-598.]  
+FENG SZ, SU YR, ZHANG W,et al.， 2015. Effects of slope position and soil horizon on soilmicrobial biomass and abundance in karst primary forest of southwest China[J]. Chin JEnvironSci,36(10):3832-3837.[冯书珍，苏以荣，张伟，等，2015．坡位与土层对喀斯特原生林土壤微生物生物量与丰度的影响[J]．环境科学，36(10)：3832-3837.]  
+HU F,DU H, ZENG FP,et al., 2018.Dynamics of soil nutrient content and microbial diversityfollowing vegetation restoration in a typical karst peak-cluster depression landscape[J]. ActaEcol Sin,38(6):2170-2179.[胡芳，杜虎，曾馥平，等，2018．典型喀斯特峰丛洼地不同植被恢复对土壤养分含量和微生物多样性的影响[J]．生态学报，38(6)：2170-2179.]  
+HU KJ,LUAN L, ZHENG J, et al., 2022. Effects of different treatments with straw returning onarbuscular mycorrhizal fungal community and corn phosphorus utilization eficiency[J]. ActaPedol Sin,doi:10.11766/trxb202103280167.[胡凯婕，栾璐，郑洁，等，2022．秸秆还田方式对丛枝菌根真菌群落和玉米磷素利用的影响[J]．土壤学报，doi:10.11766/trxb202103280167.]  
+HUANG TL, TANG LX, CHEN L,et al.， 2019. Root architecture and ecological adaptationstrategy of three shrubs in karst area[J]. Sci Soil Water Conserv,17(1): 89-94.[黄同丽，唐丽霞,陈龙，等，2019．喀斯特区3种灌木根系构型及其生态适应策略[J]．中国水土保持科学,17(1): 89-94.]  
+JIANG P, WANG MY,2012. Colonization rate and diversity of AM fungi in the rhizosphere ofseven medicinal plants in Xiamen[J]. Acta Ecol Sin, 32(13): 4043-4051.[姜攀，王明元，2012．厦门市七种药用植物根围AM真菌的侵染率和多样性[J]．生态学报，32(13):4043-4051.]  
+KANG FR, YANG B, WUJISIGULENG, et al., 2020. Arbuscular mycorrhizal fungi alleviate thenegative efect of nitrogen deposition on ecosystem functions in meadow grassland[J]. LandDegrad Dev, 31(6): 748-759.  
+LI Q, CAO JH, 2008. Structure of leaf epidermis and ecology adaptation of Vitex negundo L. atkarat area in southwest China[J]. J Henan Agric Norm Univ (Nat Sci Ed), 36(5): 131-134.[李强，曹建华，2008．黄荆叶表皮形态结构及其生态适应性研究[J]．河南师范大学学报（自然科学版)，36(5)：131-134.]  
+LI Q,RONG L, WANG M,2019. Effects of topography on diversity and distribution pattrn ofplant species in karst mountains area[J]. Bull Soil Water Conserv, 39(6): 27-34.[李芹，容丽,王敏，2019．地形对喀斯特山地植物物种多样性及分布格局的影响[J]．水土保持通报,39(6): 27-34.]  
+LI XK，HE CX, JIANG ZC,2003. Method and principles of ecological rehabilitation andreconstruction in fragile karst ecosystem[J]. Carsol Sin,22(1): 12-17.[李先琨，何成新，蒋忠诚，2003．岩溶脆弱生态区生态恢复、重建的原理与方法[J]．中国岩溶，22(1)：12-17.]  
+LI XK, HE CX, TANG JS, et al., 2008. Evolution and ecological processes of karst ecosystem ofGuangxi[J].Guangxi Sci,15(1):80-86.[李先琨，何成新，唐建生，等，2008．广西岩溶山地生态系统特征与恢复重建[J]．广西科学，15(1)：80-86.]  
+LIANG YM, PAN FJ, MA JM, et al.，2021. Ecological stoichiometry characteristics of needleleaves and roots in different age and density stands of Pinus massoniana plantations[J]. Guihaia,41(9):1497-1508.[梁月明，潘复静，马姜明，等，2021．不同林龄和密度马尾松人工林针叶和根系的生态化学计量特征[J]．广西植物，41(9)：1497-1508.]  
+LIANG YM, SU YR,HE XY, et al., 2017. Various effects on the abundance and composition ofarbuscular mycorrhizal fungal communities in soils in karst shrub ecosystems[J]. Chin JEnviron Sci,38(11):4828-4835.[梁月明，苏以荣，何寻阳，等，2017．喀斯特灌丛土壤丛枝菌根真菌群落结构及丰度的影响因子[J]．环境科学，38(11)：4828-4835.]  
+LIANG YM, SU YR, HE XY, et al., 2018. Structure analysis of arbuscular mycorrhizal in rootsfrom different shrubs in karst regions[J]. Chin JEnviron Sci,39(12): 5658-5664.[梁月明，苏以荣，何寻阳，等，2018．岩溶区典型灌丛植物根系丛枝菌根真菌群落结构解析[J]．环境科学，39(12): 5658-5664.]  
+LIU N， ZHAO ZY， JIANG XL，et al.， 2021. Review and prospect of researches on themechanisms of mycorrhizal fungi in improving plant drought resistance[J]. Mycosystema, 40(4):851-872.[刘娜，赵泽宇，姜喜铃，等，2021．菌根真菌提高植物抗旱性机制的研究回顾与展望[J]．菌物学报，40(4)：851-872.]  
+MI YD,LI XR,LIU XM, et al., 2020. Research advance of arbuscular mycorrhizal fungi diversityin karst areas[J].Earth Environ,48(5): 631-641.[米屹东，李信茹，刘秀明，等，2020．喀斯特地区丛枝菌根真菌多样性研究进展[J]．地球与环境，48(5)：631-641.]  
+MUTHUKUMAR T, UDAIYAN K, 2000. Arbuscular mycorrhizas of plants growing in theWestern Ghats region, southern India[J]. Mycorrhiza, 9(6): 297-313.  
+PENG XD,DAI QH,LI CL, et al.,2017. Effect of simulated rainfallintensities and undergroundpore fissure degrees on soil nutrient loss from slope farmlands in karst region[J]. Trans ChinSoc Agric Eng,33(2):131-140.[彭旭东，戴全厚，李昌兰，等，2017．模拟雨强和地下裂隙对喀斯特地区坡耕地养分流失的影响[J]．农业工程学报，33(2)：131-140.]  
+QIU HS, SU YR,LI L, et al., 2013. Distribution of soil nutrients and its influencing factors inslope of typical karst plateau[J].Soils,45(6): 985-991.[邱虎森，苏以荣，黎蕾，等，2013．典型喀斯特高原坡地土壤养分分布及其影响因素[J]．土壤，45(6)：985-991.]  
+QU MH,LI S,YU YC，et al.， 2021. Effects of arbuscular mycorrhizal fungi on the rootmorphology of Zenia insignis in karst soil habitat[J]. Sci Soil Water Conserv,19(1): 107-114.[屈明华，李生，俞元春，等，2021．喀斯特土壤生境下丛枝菌根真菌侵染对任豆根系构型的影响[J]．中国水土保持科学，19(1)：107-114.]  
+REN Z, ZHANG YF，XIA TY，et al.， 2014， Study on physiological mechanism of maizeRhizoctonia solani resistance induced by arbuscular mycorrhizal fungi[J]. Heilongjiang AgricSci,(11):52-57.[任稹，张永福，夏体渊，等，2014．AMF诱导玉米纹枯病抗性的生理机制研究[J]．黑龙江农业科学，(11)：52-57.]  
+SANDERS IR, CROLL D,2010, Arbuscular mycorrhiza: the challenge to understand the geneticsof the fungal partner[J]. Ann Rev Genet, 44: 271-292.  
+SHI GX, JIANG SJ,LUO JJ, et al., 2017. Relationships between plant phylogeny and arbuscularmycorrhizal fungal colonization in an alpine meadow ecosystem[J]. Acta Ecol Sin, 37(11):3628-3635.[石国玺，蒋胜竞，罗佳佳，等，2017．高寒草甸植物系统发育与AM真菌侵染的关系[J]．生态学报，37(11)：3628-3635.]  
+SMITH SE, SMITH FA, 2011. Roles of arbuscular mycorrhizas in plant nutrition and growth:new paradigms from cellular to ecosystem scales[J]. Ann Rev Plant Biol, 62(1): 227-250.  
+SU L,DU H, WANG H, et al.， 2018a. Root architecture of the dominant species in variousvegetation restoration processes in karst peak-cluster depression[J]. Acta Bot Boreal-OccidentSin,38(1):150-157.[苏樑，杜虎，王华，等，2018a．喀斯特峰丛洼地不同植被恢复阶段优势种根系构型特征[J]．西北植物学报，38(1)：150-157.]  
+SU L,SONG QT, DU H, et al., 2018b. Biomass and morphological characteristics of fine rootsand their affecting factors in different vegetation restoration stages in depressions between karsthils[J].ChinJAppl Ecol,29(3):783-789.[苏樑，宋同清，杜虎，等，2018b．喀斯特峰丛洼地不同植被恢复阶段细根生物量、形态特征及其影响因素[J]．应用生态学报，29(3):783-789.]  
+TONG XW, BRANDT M, YUE YM, et al.,2020. Forest management in southern China generatesshort term extensive carbon sequestration[J]. Nat Comm,11(1): 1-10.  
+VISENTIN I, VITALI M, FERRERO M, et al., 2016.Low levels of strigolactones in roots as acomponent of the systemic signal of drought stress in tomato [J]. New Phytol, 212: 954-963.  
+WANG M, ZHENG QS, SHEN QR, et al.,2013. The critical role of potassum in plant stressresponse [J]. Int JMol Sci, 14(4): 7370-7390.  
+WANG MY,LIU ST,LIU RJ, 2006.P-tolerance of arbuscular mycorrhizal fungi in soil underlong-term fertilization[J].Acta Pedol Sin,43(6):1056-1059.[王淼焱，刘树堂，刘润进，2006．长期定位施肥土壤中AM真菌耐磷性的比较[J]．土壤学报，43(6)：1056-1059.]  
+WANG S, TANG M, NIU ZC, 2008. Relationship between AM fungi resources of rare medicinalplants and soil factors in Lishan mountain[J]. Acta Bot Boreal-Occident Sin, 28(2): 355-361.[王森，唐明，牛振川，等，2008．山西历山珍稀药用植物AM真菌资源与土壤因子的关系[J].西北植物学报，28(2)：355-361.]  
+WANG XY,WANG DM, 2009. The study on the ecological effects of the interaction betweenAMF and soil nutrients[J].NHortic,(6):111-115.[王晓英，王冬梅，2009．丛枝菌根真菌与土壤养分交互作用的生态效应研究[J]．北方园艺，(6)：111-115.]  
+WANG XY, WANG DM, CHEN BD, et al.,2010. Growth response of white clover to inoculationwith different arbuscular mycorrhizal fungi communities[J]. Acta Ecol Sin, 30(6): 1456-1462.[王晓英，王冬梅，陈保冬，等，2010．丛枝菌根真菌群落对白三叶草生长的影响[J]．生态学报，30(6):1456-1462.]  
+WANG ZX, LIU FZ, LI HB, et al., 2022. Assessment of conservation effectiveness of protectedareas based on target control samples: a case study of Abies fanjingshanensis communities[J].Res Environ Sci,35(2):519-529.[王志学，刘方正，李海波，等，2022．基于目标对照样本的自然保护地保护成效评估—以梵净山冷杉群落为例[J]．环境科学研究，35(2)：519-529.]  
+WEI Y, WANG SJ,LIU XM, et al., 2012. Arbuscular mycorrhizal fungi and their application inkarst rocky desertification control[J].Earth Environ,40(1): 84-92.[魏源，王世杰，刘秀明，等，2012．丛枝菌根真菌及在石漠化治理中的应用探讨[J]．地球与环境，40(1)：84-92.]  
+WU J, SHENG MY, XIAO HL, et al., 2022, Fine root architecture of adaptive plants and itscorrelation with nutrient stoichiometric characteristics of fine root and rhizosphere soils in karstrocky desertification environments,SW China[J]. Acta Ecol Sin,42(2): 677-687.[吴静,盛茂银,肖海龙，等，2022．西南喀斯特石漠化环境适生植物细根构型及其与细根和根际土壤养分计量特征的相关性[J]．生态学报，42(2)：677-687.]  
+YANG K, SUN JR, WANG Y,et al.,2019. Effects of invasive plants interacting with nativeplants on colonization of arbuscular mycorrhizal fungi[J]. Mycosystema, 38(11): 1938-1947.[杨康，孙建茹，王妍，等，2019．入侵植物与本地植物互作对丛枝菌根真菌AMF侵染率的影响[J]．菌物学报，38(11)：1938-1947.]  
+ZHANG HB, LIANG YM,FENG SZ, et al. 2016. The effects of soil types and plant species onarbuscular mycorrhizal fungi community and colonization in the rhizosphere[J]. Res Agric Mod,37(1):187-194.[张海波，梁月明，冯书珍，等，2016．土壤类型和树种对根际土丛枝菌根真菌群落及其根系侵染率的影响[J]．农业现代化研究，37(1)：187-194.]  
+ZHANG XM, QI XK, YUE YM, et al.，2020. Natural regionalization for rocky desertificationtreatment in karst peak-cluster depresson regions[J]. Acta Ecol Sin, 40(16): 5490-5501. [张雪梅，祁向坤，岳跃民，等，2020．喀斯特峰丛洼地石漠化治理自然地域分区[J]．生态学报，40(16): 5490-5501.]  
+ZHANG ZF, ZHANG JC, HUANG YQ, et al.,2015.Effects of water stress and mycorrhizal fungion root morphology of Cyclobalanopsis glauca seedlings[J]. Chin J Ecol, 34(5): 1198-1204.[张中峰，张金池，黄玉清,等,2015.水分胁迫和接种菌根真菌对青冈栎根系形态的影响[J].生态学杂志，34(5)：1198-1204.]  
+ZHANG ZF, ZHANG JC, ZHUO LW, et al.,2018.Efects of arbuscular mycorrhizal fungi on thegrowth of afforestation seedlings in a rocky desertification area[J]. Chin JEcol, 37(10):2927-2934.[张中峰，张金池，周龙武，等，2018．丛枝菌根真菌对石漠化地区造林苗木生长的影响[J]．生态学杂志，37(10)：2927-2934.]  
+ZHENG SM, GAI SS, XIE Q,et al., 2016. The interspecific associations between dominantspecies and their environmental interpretation under a typical shrub community in karstpeak-cluster depression regions of Northwest Guangxi[J]. Res Agric Mod, 37(6): 1198-1205.[郑生猛，盖爽爽，谢强，等，2016．桂西北喀斯特峰丛洼地典型灌丛植物种间关系及环境解释[J]．农业现代化研究，37(6)：1198-1205.]  
+ZHENG SX, 2006. Growth and alkaline phosphatase activity of arbuscular mycorrhizal fungi asaffected by P supply[D]. Wuhan: Huazhong Agricultural University: 14-15.[郑世学,2006.AM真菌的资源和竞争侵染及土壤微生物的量热研究[D]．武汉：华中农业大学：14-15.]

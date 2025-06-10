@@ -1,0 +1,638 @@
+[
+    {
+        "type": "text",
+        "text": "身体姿势启动的内隐权力感对公平决策的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "黎晓丹」　丁道群2 叶浩生3(湖南师范大学心理学系;认知与人类行为湖南省重点实验室，长沙410081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(广州大学心理与脑科学研究中心，广州 510006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要已有研究表明，扩张身体姿势可启动个体的权力感。基于具身认知的视角，实验1考察身体姿势对免惩罚游戏的提议者进行金钱分配时的影响，实验2和实验3分别考察最后通牒游戏、免惩罚游戏的回应者在蜷缩和扩张姿势下对各种分配类型方案的拒绝率。结果表明，与蜷缩姿势相比，扩张姿势使个体更倾向于在免惩罚游戏提议者角色时做出更多的利己不公平分配，同时使个体更倾向于拒绝最后通牒游戏和免惩罚游戏中的不公平分配。本研究证明了扩张姿势启动的权力感可影响个体的公平决策。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 具身认知；权力隐喻；公平决策；最后通牒游戏；免惩罚游戏分类号 B849:C91",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，系列性的社会情境实验证实扩张姿势可提高个体的权力感(Carmey,Cuddy,&Yap,2015)。此外，保持扩张姿势的被试比蜷缩姿势的被试做出更多高风险高回报的决策，如扩张姿势的个体更愿意冒着失去本金的高风险试图赢取两倍本金，而不是选择在能保住本金的前提下赢取一半本金的低风险决策(Carmey,Cuddy,& Yap,2010)。该研究结果可用高权力者偏好高风险决策的观点来解释(Anderson,& Galinsky,2010)。也有学者认为扩张姿势的个体是因为对自己的决策更有自信而选择高风险高回报的决策(Fischer,Fischer,Englich,Aydin& Frey,2011)。在经济谈判的过程中，高权力感的个体会为自己争取更多的利润(Kim,Pinkley&Fragale,2005;Galinsky,Michael,&Magee,2017)。然而，以上涉及风险因素的经济决策范式无法区分个体是因为想获得更大的利益还是想获得更高风险的刺激体验而进行高风险高回报决策。因此，扩张姿势对经济决策的影响依然存在明显的研究空隙。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大部分学者认为权力感之所以使个体做出更利己的行为，原因在于高权力者比低权力者有更强的掌控资源动机，高权力者可通过掌控资源来控制低权力者(Fiske,1993; Keltner,2008)。也有学者认为权力感激活个体的趋近系统，提高个体对奖励、收获等信息的敏感度，促使个体在决策中做出有利于自己的分配方案(Salancik&Pfeffer,1974)。然而，高权力者的自利行为也受到权力感知的水平和情境各个因素的调节和影响(金剑，李晔，陈冬明,& 郭凯娇,2017)。另一方面，身体姿势启动的权力感与过往经济决策研究中所启动的权力感是处于不同意识水平下的。学者们普遍认为扩张姿势启动权力的过程是发生在潜意识水平的，并且启动效应十分有效(Smith & Galinsky,2010)。Li, Galinsky, Gruenfeld 和 Guillory (2011)通过社会情境实验对比身体姿势和权力人物角色扮演两种启动方式的权力感，结果显示当两种启动方式在同一实验作为自变量操作时，只有扩张姿势成功启动了权力感，而高权力人物角色扮演并未使被试感知到更高的权力感。即潜意识水平启动的权力感比意识水平启动的权力感更有效。只有部分的扩张姿势对权力感的启动效应具有跨文化性(Park,Streamer,Huang,&Galinsky,2013)。目前国内也有相关研究证实符合中国文化的扩张姿势比蜷缩姿势使个体感知到更高的权力感(杨文琪，李强，郭名扬，范谦，何伊丽,2017)和社会地位(黎晓丹，杜建政，叶浩生,2016)。总而言之，权力感对经济决策的影响机制是复杂的，其中的机制既和权力感这一心理状态的多样性有关，也和决策情境有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "绝大部分心理学研究者使用最后通牒游戏范式及其变式的决策情境研究公平决策的影响机制，例如人们在何种情境进行经济决策时更有可能失去追求最大利益的理性而拒绝不公平分配的获利方案(Nowak,Page,& Sigmund,2000)、人格和遗传气质等内部因素如何影响个体的公平决策(Wallace,Cesarini,Lichtenstein& Johannesson,2007)。使用外显权力操控被试的权力感时，最后通牒游戏中社会地位高的被试比社会地位低的被试有更高的不公平分配拒绝率(Hu,Cao,Blue& Zhou,2014;Hu et al.,2016)。而目前并无研究探究扩张姿势启动的内隐权力感是否会提高个体在最后通牒游戏及其变式中对不公平分配的拒绝率。另一方面，也尚无研究探究扩张姿势启动的内隐权力感是否会使个体进行公平决策时做出更多利己的金钱分配。综上所述，本研究的问题是使用无风险因素的金钱分配决策范式，探究身体姿势启动的内隐权力感如何影响个体的公平决策。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在经济决策研究的众多范式中，最后通牒游戏范式及其变式在心理学中应用得比较广泛且成熟。最后通牒游戏(Ultimatum Game)中提议者提出自己与另一名玩家(回应者)如何分配金钱的提议。当回应者接受提议时，两人获得与提议者所提出方案的相应金额；当回应者拒绝提议时，两人均无所得。免惩罚游戏(Impunity Game)是一种与最后通牒游戏相似的任务，同样分为提议者和回应者2种角色。其差异之处在于如果提议者提出的分配方案被回应者拒绝，提议者依然能得到分配方案中归自己的金额，而回应者则得不到任何金额。当个体担任的是免惩罚游戏的提议者角色时，个体不需要考虑提议被拒绝的风险，而单纯地考虑金额的分配以及自己的获利。因此，免惩罚游戏的提议者角色可用来探究在无风险因素的金钱分配决策情境下，扩张姿势启动的权力感是否促使个体做出更多的利己分配。基于此提出本研究的假设一：在无风险因素的金钱分配决策情境下，扩张姿势启动的权力感使个体分配更多的金钱给自己。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据前人研究所得，在最后通碟游戏中，大部分的提议者将总金额的 $40 \\% { \\sim } 5 0 \\%$ 分配给回应者，同时大部分的回应者会拒绝低于总金额 $20 \\%$ 的分配，这种现象存在于西方个人主义文化和东方集体主义文化(Camerer,2004)。当个体担任最后通牒游戏的提议者时，个体既需考虑回应者会因分配过于不公平而拒绝的风险，也要考虑如何分配才能获得最大的利益(Rand,Tarmita,Ohtsuki,&Nowak,2013)。如前文所述，权力感可促使个体去获利和得到奖赏,亦会激起个体对资源和他人的控制动机。最后通牒游戏和免惩罚游戏的回应者角色则可探究在无风险因素的经济决策过程中，权力感对个体公平决策的影响机制是激活其控制资源或者惩罚的动机还是获利的动机。当权力感激活了个体的控制资源或者惩罚动机，被试将更多地拒绝不公平分配方案；当权力感激活了个体的获利动机，被试将更多地接受不公平分配方案。值得注意的是，最后通牒游戏的回应者可通过拒绝分配方案而使提议者的获得为0，即最后通牒游戏的回应者可通过拒绝来控制资源与提议者的获得，同时亦有可能是因为对不公平现象的厌恶而拒绝。根据公平决策的神经机制研究结果，不公平分配方案激活了个体的负性情绪脑区，决策的过程激活了前脑岛、前扣带回、背外侧和内侧前额叶等脑区，同时决策的获利结果与大脑奖赏系统有关系(Gabay,Radua,Kempton,& Mehta,2014；郭秀艳，郑丽,程雪梅，刘映杰，李林,2017)。不管研究者们通过游戏任务来操纵个体的社会权力感，还是通过社会角色与群体角色来操纵被试的主观权力感(Hu et al.,2014; Hu et al.,2016)，其结果均显示权力感可提高最后通牒游戏中回应者对不公平分配的拒绝率，权力感与社会地位等社会背景因素对公平决策的影响发生在早期的认知阶段，不公平分配导致的负性情绪并不干扰社会背景影响公平决策的过程(Massi& Luhmann,2015)。而其中部分学者认为权力感激活了被试对提议者的惩罚动机、控制提议者获得的动机(Albrecht,Essen,Fliessbach,& Falk,2013;Hu etal.,2016)，亦有学者认为权力感降低了被试对违反社会期许的不公平现象的接受程度、提高了被试对不公平的厌恶，而低权力感使个体对分配信息更敏感、更关注实际的获得(Boksem, Kostermans,Milivojevic,& De Cremer, 2012)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总的来说，权力感影响最后通牒游戏中回应者拒绝不公平分配的机制尚未有统一的观点，但是可总结为权力感提高回应者控制资源的动机或者对不公平的厌恶，从而导致其拒绝率升高。而未有相关研究使用身体姿势启动的内隐权力感观察其对最后通牒游戏回应者对不公平分配的拒绝率的影响。综上所述，本研究假设二是扩张姿势启动的内隐权力感可提高最后通牒游戏回应者对不公平分配的拒绝率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "然而，本研究假设二得到验证也只能说明身体姿势启动的内隐权力感与外显权力感均对不公平分配拒绝率存在影响，并不能进一步说明权力感是通过激活被试对提议者资源的控制动机还是对不公平现象的抵制而影响其不公平分配的拒绝率。在免惩罚游戏中，回应者不可通过拒绝不公平分配方案来惩罚提议者或者控制资源分配，他们对于不公平分配方案的拒绝被认为仅是基于对不公平的厌恶(Takagishi etal.2009)。目前并无研究探究扩张姿势启动的内隐权力是否会提高个体在免惩罚游戏中对不公平分配的拒绝率。当个体不再具有惩罚提议者的可能性时，才可推断出个体对不公平现象的抵制是否使其拒绝提议。而根据前人研究，权力感可提高被试对不公平的厌恶。基于此提出研究假设三是扩张姿势启动的内隐权力感可提高免惩罚游戏回应者对不公平分配的拒绝率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究的目的在于验证身体姿势启动的内隐权力对公平决策的影响。为了去除风险因素对决策的影响，本研究使用了最后通牒游戏的回应者角色与免惩罚游戏的回应者、提议者角色。首先，实验1考察扩张姿势启动的内隐权力感是否促使作为免惩罚游戏提议者的个体分配更多的金额给自己；接着，实验2考察个体作为最后通牒游戏回应者时，身体姿势所启动的内隐权力感对不公平拒绝率的影响；最后，实验3考察个体作为免惩罚游戏回应者时，身体姿势所启动的内隐权力感对不公平拒绝率的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2实验1：姿势启动的内隐权力感对免惩罚游戏提议者分配金额的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 实验目的",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探究扩张姿势启动的内隐权力感对个体担任免惩罚游戏的提议者时分配金额的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2被试 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取某大学本科生共43名参加实验，其中2名被试因按键输入时失误导致部分回合缺失,1名被试因实验途中姿势自行改变而被剔除，最终进入统计的被试共有40名，包括男生18名，女生22名，理科23名，文科17名，平均年龄 $2 0 . 1 5 \\pm 1 . 3 0$ 岁，皆为右利手，视力或矫正视力正常。所有被试自愿参与实验，未参与过类似实验。实验后随机抽取实验中的某些回合给予被试一定的被试费。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 实验设计",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "单因素两水平被试内设计，自变量是身体姿势(蜷缩vs 扩张)，蜷缩姿势要求被试腰部弯曲、双手靠拢地放置大腿上、双腿合拢并小腿往后缩；扩张姿势要求被试腰部稍微挺直并靠椅子靠背、双手朝外地放置扶手、双腿张开并往前伸展。因变量是被试分配给自己的金额。情绪评价为李克特式7点量表(1\\~7分为十分不开心到十分开心)(Hewig etal.,2011)，分别在游戏开始前、蜷缩姿势 block完成后、扩张姿势block完成后三个时刻各评价一次。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4实验情景与材料",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当被试到达由一排3个独立的实验室组成的实验区时，主试告知被试实验是一项两人在线完成的金钱分配游戏，另一位参与游戏的同学已在本实验室隔壁的实验室中等候，实质上游戏分配均是提前编好的程序。每位被试单独在一间隔音、光线条件良好的实验室，使用于中央位置上的唯一一台电脑完成实验。每位被试椅子的位置、与电脑屏幕的距离均在每个block 的实验正式开始前调整为一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "主试进去实验室便向被试介绍接下来进行的游戏规则，而每个游戏回合均有两个角色，分别为提议者和回应者。被试会在游戏的一开始便通过电脑程序的页面按数字键盲选角色实质上不管被试按哪个键，实验1的被试均会抽到事先编排好的角色。各个实验前让被试按键选择游戏角色是为了营造游戏随机性的情境，避免被试猜测实验目的以及尽可能地相信游戏是如主试所描述的有对玩的线上玩家，而不是主试事先都操作好的游戏。此外，被试选择完游戏角色后主试会确定被试是否理解游戏规则，正式游戏开始前将有5个练习trails。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 实验程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "步骤一：讲解指导语: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“同学，你好！很高兴你来参加我们的心理学实验，本次实验以不记名形式，结果仅供研究所用。请先填写这份简单的人口学问卷。在隔壁实验室会有同你一起进行本次的实验，实验是一个本金为30元的分配游戏，请看我们的游戏规则。若已经明白游戏规则，请按任意键继续！",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "游戏规则分两种形式的游戏，每种游戏都有两个角色：提议者VS回应者。我们将根据你的选择随机将你和另一玩家进行角色分配。请仔细阅读下面的游戏说明。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "游戏A：由提议者对30元本金进行分配。如果回应者拒绝分配方案，则游戏双方皆得0元。若回应者接受，双方将得到提议的分配金额。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "游戏B：由提议者对30元本金进行分配。如果回应者拒绝分配方案，则回应者将得0元，而提议者的奖金不受影响。若回应者接受，双方将得到提议的分配金额。”",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "步骤二：屏幕显示抽取角色为游戏B的提议者，再次向被试确认其是否理解游戏规则，被试按确认游戏规则后将有5个试次的练习。接着，程序按被试间平衡的方式抽取姿势图后空屏一分钟，让被试按照图片保持一分钟的姿势。此时主试确保被试的姿势准确后才离开实验室。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "步骤三：每个回合的游戏本金为30元，被试需在屏幕下方方框中先后输入10次分配方案。每个回合不限制输入分配的时间。每次输入结束后给予 $2 0 0 0 \\mathrm { { m s } }$ 的被试所输入的分配反馈。每个回合均不告知被试回应者是否接受提议。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "步骤四：中途休息后，程序再次向被试呈现需按键抽取姿势图并需保持姿势一分钟，此时主试进入实验室确保被试的姿势、凳子与桌子距离等正确才离开实验室，接着被试正式进入下一个姿势 block。此外，本研究中3个实验的程序基本一致(见图1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fecead8412cd44e659e38ab6edb5b5273267c7f3fe50512a110a346a6d7c68d.jpg",
+        "img_caption": [
+            "请按图中姿势坐好。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图1实验程序图",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6 实验结果与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用两因素(身体姿势、提议回合)的重复测量方差分析对数据进行分析得出，身体姿势的主效应显著 $( F ( 1 , 3 9 ) = 8 . 7 9 , p = 0 . 0 0 5 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 8$ ，扩张姿势 $( 1 8 . 9 9 \\pm 0 . 7 1 ) \\$ ，蜷缩姿势(17.97$\\pm 0 . 7 0 ) \\}$ 。这表明与蜷缩姿势相比，扩张身体姿势条件下被试分配更多的金额给自己。此外，提议回合因素的主效应、提议回合与身体姿势的交互作用均不显著，说明10个提议回合之间并不存在差异，各个提议回合与身体姿势之间不互相影响。使用重复测量方差分析对情绪评价量表的三次得分初始心情评分 $( 4 . 4 8 \\pm 0 . 9 4 )$ 、蜷缩姿势 block心情评分 $( 4 . 5 6 \\pm 1 . 1 9 )$ 、扩张姿势 block 心情评分 $( 5 . 0 4 \\pm 1 . 5 6 ) \\$ 进行检验，结果显示差异均不显著 $( F ( 2 , 8 0 ) = 1 . 6 5 , p =$ 0.204)，说明被试在实验初始和两个姿势block 的情绪变化无显著的差异。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从实验1的总体结果来看，在两种姿势条件下被试均提议了更多的金额给自己。扩张姿势下10个提议回合里，被试分配给自己的最小金额均值是第6回合的18.40元，最大金额均值是第9回合的19.55元。蜷缩姿势下被试分配给自己的最小金额均值是第3回合的17.15元，最大金额均值是第7回合的19.00元。此结果高于前人研究得出的最后通牒游戏中提议者分配给自己的金额大概是本金的 $4 0 \\% { \\sim } 5 0 \\%$ 。本实验使用的是不公开的免惩罚游戏，被试并不需要考虑被拒绝而失利的风险，因此即使是蜷缩姿势条件提议给自己的平均金额也高于 $50 \\%$ 。本实验结果与前人关于权力感使个体作出更多的利己行为的结果一致，说明身体姿势启动的内隐权力感与外显权力感、社会权力感等其他形式的权力感一样激活了个体在经济决策时对获利的趋近动机。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3实验2：姿势启动的内隐权力感对最后通牒游戏中不公平分配方案的拒绝率的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验目的",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "探究与蜷缩姿势相比，扩张姿势启动的内隐权力感对在最后通牒游戏中担任回应者的被试对不公平分配方案的拒绝率的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2被试 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "某高校大学生共45名参加实验,其中男生21名，女生24名，理科22名，文科23名，平均年龄 $2 0 . 3 5 \\pm 1 . 4 3$ 岁，皆为右利手，视力或矫正视力正常。实验后随机抽取实验中的某些回合给予被试一定的被试费。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验设计",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本实验采取的是 2(身体姿势：蜷缩 vs 扩张) $\\times 3 ($ 分配方案：极不公平vs相对不公平vs公平)被试内设计，姿势要求如实验1。因变量是个体对三种分配方案的拒绝率。情绪评价与实验1一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4实验情景与材料",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 实验情境 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "与实验1一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 材料",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "游戏本金及分配比例的选择：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过比较前人在最后通牒游戏范式中使用的本金数额，本研究结合中国金钱的价值和国人的消费观将本金定位为30元。前文提及在提议者分配给回应者的金额低于本金的 $20 \\%$ 时，回应者通常会选择拒绝。而分配给回应者的金额在 $30 \\%$ 以上时，回应者的拒绝率会相对降低。基于以上情况，实验中使用的三种分配方案(回应者-提议者)的具体分配如下:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "极不公平方案:1/29,2/28,3/27,4/26,5/25。  \n相对不公平方案:10/20,11/19,12/18,13/17,14/16。  \n公平方案:15/15。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5 实验程序",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "步骤一：宣读指导语并确保被试理解。指导语与实验1一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "步骤二：屏幕显示抽取角色为游戏A的回应者。姿势的操控与实验1一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "步骤三：每个block随机出现三种分配方案各5个trails，共30个trails。按键G或是H接受或拒绝反应。每个trails 的呈现时间随着被试按键反应后才结束，按键反应后有 $2 0 0 0 \\mathrm { m s }$ 的分配反馈。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "姿势的顺序、接受或拒绝的按键、方案呈现时被试和提议者的左右位置均进行被试间平衡。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6 实验结果与讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "采用(身体姿势：扩张vs蝽缩) $\\lvert \\times 3 ($ 分配方案：极不公平vs相对不公平vs公平)的2因素重复测量方差分析处理数据，结果得出身体姿势的主效应显著, $F ( 1 , 4 4 ) = 5 . 8 3 , p = 0 . 0 2 0 , \\mathfrak { n _ { p } ^ { 2 } }$ =0.12；分配方案的主效应显著, $F ( 2 , 8 8 ) = 1 6 5 . 6 2 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 7 9 \\$ ；各水平的均值与标准差见表1。身体姿势和分配方案不存在交互作用。分配方案的多重比较结果显示，公平分配方案与相对不公平分配方案的拒绝率差异显著, $F ( 1 , 4 4 ) = 6 2 . 2 9 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 5 9$ 公平分配方案与极不公平分配方案的拒绝率差异显著, $F ( 1 , 4 4 ) = 4 0 1 . 9 8 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 9 0$ ；相对不公平与极不公平分配方案的拒绝率差异显著, $F ( 1 , 4 4 ) = 9 1 . 1 4 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 6 7 .$ 。使用重复测量方差分析对情绪评价量表的三次得分初始心情评分 $( 4 . 6 3 \\pm 1 . 1 1 )$ 、蜷缩姿势 block 心情评分 $( 4 . 7 6 \\pm 1 . 2 2 )$ 、扩张姿势block心情评分 $( 5 . 0 5 \\pm 1 . 5 3 ) \\$ 进行检验，结果显示差异不显著$( F ( 2 , 8 8 ) = 0 . 7 9$ _， $\\begin{array} { r } { p = 0 . 4 3 7 _ { . } } \\end{array}$ )，说明被试在实验初始和两个姿势block的情绪变化无显著的差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/638344a2eee21dbd3adfda429dc6c06931fa10856298a2834c893e44a48be606.jpg",
+        "table_caption": [
+            "表1实验2(最后通牒游戏)的两种姿势条件下不同分配方案的拒绝率 $( M \\pm S D )$ （ $( n = 4 5$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>身体姿势</td><td>极不公平分配方案</td><td>相对不公平分配方案</td><td>公平分配方案</td></tr><tr><td>扩张姿势</td><td>0.86 ± 0.05</td><td>0.44±0.06</td><td>0.01 ± 0.1</td></tr><tr><td>蜷缩姿势</td><td>0.80±0.05</td><td>0.32± 0.06</td><td>0±0</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由于最后通牒游戏的回应者角色具有一定的控制资源分配的权力，即使拒绝使被试不能获利，但不管是扩张姿势还是蜷缩姿势条件，被试对极不公平的拒绝率均值均高达 $80 \\%$ 。而当不公平程度降低到相对不公平时，扩张姿势条件下的拒绝率均值是 $44 \\%$ ，蜷缩姿势条件下的拒绝率均值却只有约 $32 \\%$ 。根据本实验的结果，扩张姿势启动的内隐权力感极有可能加强了被试对资源分配和惩罚提议者的控制，从而促使被试拒绝极不公平和相对不公平的分配方案，而不是为获得更多的利益而降低拒绝率。在本实验中，身体姿势启动的内隐权力感也有可能通过影响被试对不公平分配的厌恶从而影响了他们对不公平分配的拒绝率。然而，这个问题在最后通牒游戏的行为研究中是无法得知的。免惩罚游戏的回应者角色才是仅基于对不公平的厌恶而拒绝不公平分配。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4实验3：姿势启动的内隐权力感对免惩罚游戏中不公平分配方案的拒绝率的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1 实验目的",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "探究与蜷缩姿势相比，扩张姿势启动的内隐权力对被试在免惩罚游戏中担任回应者时对不公平分配方案的拒绝率的影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2被试 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "某高校的41名本科生参与了本次实验，其中1名被试的数据由于实验途中姿势变化被剔除。纳入最终统计的40名被试平均年龄 $1 8 . 0 1 \\pm 1 . 4 5$ 岁，其中包括：男性17名，女性 23名；文科生14名，理科生16名。所有被试皆为右利手，视力或矫正视力正常，均未参与过类似实验。实验后随机抽取实验中的某些回合给予被试一定的被试费。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3 实验设计",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本实验采取的是2(身体姿势：蝽缩vs扩张) $\\times 3 ($ 分配方案：极不公平vs相对不公平vs公平)被试内设计，姿势要求如实验1。因变量是个体对三种分配方案的拒绝率。情绪评价与实验1一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4实验情景与材料",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4.1 实验情境 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与实验1一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.4.2 材料",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与实验2一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.5 实验程序",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "与实验2一致。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.6 实验结果与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "采用(身体姿势：扩张vs 蜷缩) $\\lvert \\times 3 ($ 分配方案：极不公平vs相对不公平vs公平)的2因素重复测量方差分析处理数据，结果得出身体姿势的主效应显著, $F ( 1 , 3 9 ) = 6 . 1 0 , p = 0 . 0 1 8 , \\mathfrak { n } _ { \\mathrm { ~ p ~ } } ^ { 2 }$ $= 0 . 1 4$ ；分配方案的主效应显著, $F ( 2 , 7 8 ) = 4 1 . 6 4 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 5 2 ,$ ；身体姿势和分配方案不存在交互作用。分配方案的多重比较结果显示，公平分配方案与相对不公平分配方案的拒绝率差异不显著, $F ( 1 , 3 9 ) = 5 . 3 7 , p = 0 . 0 2 6 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 2 ,$ ：公平分配方案与极不公平分配方案的拒绝率差异显著, $F ( 1 , 3 9 ) = 4 6 . 3 0 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 5 \\mathcal { L }$ ；相对不公平与极不公平分配方案的拒绝率差异显著, $F ( 1 , 3 9 ) = 4 2 . 2 9 , p < 0 . 0 0 1$ ， $\\mathfrak { n } _ { \\mathtt { p } } ^ { 2 } = 0 . 5 2$ 。各水平的拒绝率均值与标准差见表2。使用重复测量方差分析对情绪评价量表的三次得分初始心情评分 $( 5 . 1 5 \\pm 1 . 1 9 )$ 、蜷缩姿势block心情评分 $( 4 . 1 5 \\pm 1 . 4 0 )$ 、扩张姿势block心情评分 $( 4 . 1 3 \\pm 1 . 2 2 )$ 进行检验，结果显示时间点的主效应显著, $F ( 2 , 7 8 ) = 1 5 . 6 9 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 9$ ；多重比较结果显示初始心情评分与蜷缩姿势 block $( F ( 1 , 3 9 ) = 1 6 . 2 5 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 9 )$ 、扩张姿势block $( F ( 1 , 3 9 ) = 2 0 . 7 5 , p <$ 0.001, $\\boldsymbol \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 3 5 )$ 的心情评分差异显著；两个姿势block结束时的心情评分示差异不显著, $F ( 1 ,$ $3 9 ) = 0 . 0 3 4 , p = 0 . 8 5 5$ 。综合以上分析得出，初始心情评分和扩张姿势block、蜷缩姿势 block的心情评分差异显著，说明被试可能受到免惩罚游戏并不能惩罚提议者的规则以及自己单方面失利的情况导致其心情评分比初始评分低。而两个姿势block 的心情差异不显著，说明姿势对被试的情绪没有产生影响。",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ef76334595d13b9b3017aef1a73b78d8bce24fe0b95256feaff148267be4b80.jpg",
+        "table_caption": [
+            "表2实验3(免惩罚游戏)的两种姿势条件下不同分配方案的拒绝率 $( M \\pm S D )$ 1 $[ \\boldsymbol { \\mathrm { n } } = 4 0 ^ { \\circ } ]$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>身体姿势</td><td>极不公平分配方案</td><td>相对不公平分配方案</td><td>公平分配方案</td></tr><tr><td>扩张姿势</td><td>0.47 ± 0.06</td><td>0.11 ± 0.04</td><td>0.03 ± 0.03</td></tr><tr><td>蜷缩姿势</td><td>0.42 ± 0.07</td><td>0.06± 0.03</td><td>0.03± 0.03</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "与最后通牒游戏相比，在免惩罚游戏中提议者与回应者角色之间有一定的地位差异。回应者即使拒绝了不公平分配方案，提议者依然可获得提议中的分配金额。此时回应者的拒绝可视为是由于对不公平待遇的厌恶大于获利的理性而导致的。根据本实验的结果，可推测出扩张姿势启动的内隐权力感加强了被试对不公平分配的厌恶从而使拒绝率升高。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "为更好地对比实验2与实验3的结果，将实验2与实验3的合并数据进行2(游戏类型：最后通牒游戏、免惩罚游戏) $\\times 2 ($ 身体姿势：扩张姿势、蜷缩姿势) $\\times 3$ （分配类型：公平、相对不公平、极不公平)重复测量方差分析，游戏类型定义为组间变量，身体姿势与分配类型为组内变量，结果显示：游戏类型的主效应显著 $( F ( 1 , 8 3 ) = 2 8 . 4 5 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 5 )$ ，免惩罚游戏的拒绝率比 $( 0 . 1 8 \\pm 0 . 0 3 )$ 最后通牒游戏的拒绝率 $( 0 . 4 0 \\pm 0 . 0 3 )$ 低；身体姿势的主效应显著 $( F ( 1 ,$ $8 3 ) = 9 . 7 2 , p = 0 . 0 0 3 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 1 )$ ，扩张姿势的拒绝率 $( 0 . 3 2 \\pm 0 . 0 2 )$ 比蜷缩姿势的拒绝率 $( 0 . 2 7 \\pm$ 0.02)高；分配类型的主效应显著 $( F ( 2 , 1 6 6 ) = 1 7 5 . 6 3 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 6 8 )$ ，极不公平分配方案的拒绝率 $( 0 . 6 4 \\pm 0 . 0 4 ) \\$ 比相对不公平分配方案的拒绝率 $( 0 . 2 3 \\pm 0 . 0 3 )$ 高，公平分配方案的拒绝率 $( 0 . 0 2 \\pm 0 . 0 1 ) \\$ 最低。分配方案的多重比较结果显示，公平分配方案与相对不公平分配方案的拒绝率差异不显著, $F ( 1 , 8 3 ) = 6 0 . 7 6 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 4$ ；公平分配方案与极不公平分配方案的拒绝率差异显著， $F ( 1 , 8 3 ) = 2 9 1 . 9 8 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 7 8 ,$ ；相对不公平与极不公平分配方案的拒绝率差异显著， $F ( 1 , 8 3 ) = 1 2 5 . 4 2 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 6$ 。分配类型和游戏类型的交互作用显著 $( F ( 2 , 1 6 6 ) = 1 . 2 1 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 1 9 )$ ，分配类型和身体姿势的交互作用显著 $( F ( 2 ,$ $1 6 6 ) = 3 . 2 6 , p = 0 . 0 4 5 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 4 )$ ，游戏类型与身体姿势 $( F ( 1 , 8 3 ) = 1 . 1 4 , p = 0 . 2 9 )$ 、三个变量之间的交互作用均不显著 $( F ( 2 , 1 6 6 ) = 0 . 6 5 , p = 0 . 5 1 )$ 。简单效应分析结果显示，在公平分配类型时，游戏类型 $( F ( 1 , 8 3 ) = 0 . 7 3 , p = 0 . 4 0 )$ 与身体姿势 $( F ( 1 , 8 3 ) = 0 . 8 9$ $p = 0 . 3 5 )$ 各水平的拒绝率均无差异；在相对不公平分配方案时，最后通牒游戏的拒绝率比免惩罚游戏的拒绝率高$( F ( 1 , 8 3 ) = 2 4 . 5 8 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 3 )$ 、扩张身体姿势的拒绝率比蜷缩身体姿势的拒绝率高$( F ( 1 , 8 3 ) = 7 . 7 3 , p = 0 . 0 0 7 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 9 )$ ；在极不公平分配方案时，最后通牒游戏的拒绝率比免惩罚游戏的拒绝率高 $( F ( 1 , 8 3 ) = 2 6 . 8 6 , p < 0 . 0 0 1 , \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 2 4 )$ 、扩张身体姿势的拒绝率比蜷缩身体姿势的拒绝高 $( F ( 1 , 8 3 ) = 3 . 9 0 , p = 0 . 0 5 2 , \\eta ^ { 2 } { \\mathrm { } } _ { \\mathrm { p } } = 0 . 0 5 )$ 。此结果说明:(1)当合并数据考虑游戏类型的差异时，游戏类型导致的拒绝率差异主要体现在相对不公平和极不公平分配方案上。而在整体上来说，游戏类型和身体姿势因素对公平分配方案拒绝率差异的影响相对减小了，因此公平分配水平时，游戏类型和身体姿势各水平之间的拒绝率差异均不显著;(2)游戏类型与身体姿势并无交互作用，因此身体姿势在两种游戏类型和不公平分配方案中对其拒绝率的影响是有效的，即其具身效应并不会受到游戏类型和不公平分配类型的影响，即扩张姿势启动的内隐权力感有可能既提升了个体对不公平的厌恶，也提升了个体对不公平分配方案提议者的惩罚与控制资源的动机，从而导致对不公平分配方案拒绝率的升高。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5总讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要理论依据是扩张姿势与权力的具身效应、高权力者对利己行为与掌控资源的趋近性、最后通牒游戏与免惩罚游戏中公平决策的影响因素与机制，在研究范式方面选取了去除风险因素的最后通牒游戏的回应者及免惩罚游戏的提议者、回应者角色，研究结果证明了扩张姿势启动的内隐权力感对公平决策的影响，其表现在扩张姿势促使个体做出更高金额的利己不公平分配、扩张姿势提高担任最后通牒游戏和免惩罚游戏回应者的个体对不公平分配的拒绝率。过往关于权力感对公平决策的影响研究所启动的是个体的外显权力感，而本研究的三个实验均使用身体姿势启动个体的内隐权力感，补充了具身决策与内隐权力感对公平决策影响的研究证据。本研究的结果显示，内隐权力感与外显权力感对个体公平决策的行为影响是一致的，在个体可分配金额时，内隐权力感的提升使其分配更多金额给自己。在个体作为回应者时，内隐权力感使个体提升了惩罚或者控制资源的动机，从而使个体产生更多的拒绝行为。而即使个体无法惩罚对方或者控制资源时，内隐权力感亦能加强个体对不公平的厌恶而拒绝获利行为。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.1身体姿势启动的内隐权力感对免惩罚游戏提议者利己分配决策的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在绝大部分使用最后通牒游戏及其变式来探究不同情境因素对公平决策的影响研究中，被试担任的角色大多是回应者，而近年来研究者们开始关注担任最后通牒游戏提议者的个体在权衡利弊和风险时的大脑活动(Billeke et al.,2014)。事实上，最后通牒游戏提议者决策时需考虑的因素太多，其中核心的影响因素是对回应者拒绝的风险程度的估计，还包括回应者的身份、性别等(Fabre,Causse,Pesciarelli& Cacciari,2016)。与最后通牒游戏提议者相比，免惩罚游戏提议者并不需要权衡获利和被拒绝的风险，同时保证了提议者可获得自己预想中的利益。目前未有考察权力感对免惩罚游戏提议者进行分配决策时的影响。本研究实验1证实了当个体处于高权力感知的水平时，对利益的趋近动机被激活，从而使个体追求更多的利益。这与前人得出的在经济谈判中高权力者争取更多利益的研究结果一致，而本研究的创新点在于启动权力感的方式是通过控制被试的坐姿，这种具身隐喻效应产生的内隐权力感使个体在无风险的经济决策中分配更多的利益给自己。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.2身体姿势启动的内隐权力感对最后通牒游戏回应者不公平分配的拒绝率影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "已有前人对社会地位与权力感对最后通牒游戏回应者拒绝不公平分配的影响进行了验证，其结果显示回应者感知到更高的权力感时，对不公平分配方案有更高的拒绝率。此外，回应者与提议者是否属于同一群体也影响了回应者对不公平分配方案的拒绝率，脑电数据则显示提议者与回应者的群体关系对公平决策的影响发生在认知的早期阶段(Wang et al.,2017)。大量的认知神经研究证明了不同的复杂情境下个体公平决策的认知加工具有独立性。然而，当影响个体的内部因素并不单一时，其对回应者公平决策的影响也难以区辨。例如辜丸酮对最后通牒游戏回应者的公平决策影响还存在争议。根据被试自身辜丸酮水平来分组进行的对照研究结果显示，自身睾丸酮水平越高的最后通牒游戏回应者对不公平分配方案的拒绝率比低睾丸酮水平组的被试更高(Zak et al.,2009)。然而，使用内服睾丸酮和安慰剂组的对照研究则发现，服用内服辜丸酮组的最后通牒游戏回应者对不公平分配方案的拒绝率比安慰剂组的被试更低，研究者们认为外源性辜丸酮能降低个体在最后通牒游戏决策时的焦虑和攻击性，因此降低了对不公平分配方案的拒绝率(Kopsida,Berrebi,Petrovic& Ingvar,2016)。Carmey 等(2010)的研究证实扩张姿势使个体的睾丸酮水平上升。然而，将睾丸酮作为个体的男性人格特质、风险耐受程度的反映指标比将其作为影响公平决策的自变量更适合。实验2的结果与将自身辜丸酮水平作为分组依据的研究结果一致，即扩张姿势提高被试的辜丸酮水平，而扩张姿势条件下被试对不公平分配方案的拒绝率更高。但是实验2中，研究者操控的仅是坐姿，每位被试在不同坐姿下对不同分配类型的方案进行了回应。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "在最后通牒游戏范式的相关研究中，前人对被试外显权力感的操作包括角色扮演和以最后通牒游戏任务前的技能测试成绩为由的等级划分，其与内隐权力感的操作方式的本质区别在于被试是否能在意识层面上感知到权力感的变化或者自身地位在实验过程中的提升或下降。本研究对权力感的操控通过身体姿势来实现，且在换姿势 block之前均让被试休息并以下一轮抽取游戏角色为由来分散被试对更换姿势的注意力。由于本研究的姿势启动方式是被试内设计，无法以主观权力感测量的方式来验证姿势启动的有效性，否则将影响被试对实验目的猜测。结合前人的研究结果与本研究姿势对拒绝率的影响结果，可推断出扩张姿势对被试内隐权力感知的启动是有效的。根据实验2的结果，扩张姿势启动了被试的内隐权力感，促使其通过拒绝不公平分配方案来惩罚提议者或者表达了对不公平分配这种违反社会期许行为的厌恶，并且内隐权力感使个体对这种惩罚或者表达厌恶的趋近性大于获利的理性。那么，当个体失去了惩罚和控制资源分配的权力时，内隐权力感对表达不公平厌恶的影响是否仍会大于获利的理性呢？这个问题通过本研究的实验3来证明。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3身体姿势启动的内隐权力感对免惩罚游戏回应者不公平分配的拒绝率影响",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "绝大部分研究者认为最后通牒游戏中回应者掌握了资源的分配权，因为回应者的拒绝可视为是一种惩罚提议者权力的实施行为(Feng,Luo,&Krueger,2015)。也有研究者认为最后通牒游戏回应者的拒绝是为了避免接受提议者的分配而使自己处于相对劣势的地位(Yamagishi etal.,2012)。总之，最后通牒游戏的回应者并不是检测个体对不公平厌恶和获利理性之间抉择的最佳角色。Haruno,Kimura 和Frith (2014)的脑成像研究发现，在对不公平分配方案决策时，个体担任最后通牒游戏回应者激活的脑区比担任免惩罚游戏回应者的多，即最后通牒游戏回应者和免惩罚游戏回应者决策时的认知过程是两种不同的认知过程。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "前人对免惩罚游戏回应者的研究数量较少，也并无探究外显权力感和内隐权力感对免惩罚游戏回应者的不公平分配方案拒绝率的影响。因此实验3也缺乏参考和对比的前人研究。本研究实验3的目的在于，内隐权力感是否强化了被试对不公平的厌恶而导致其拒绝获利，而不公平分配方案的提议者依然可获利。实验3结果显示，扩张姿势启动的内隐权力感提高了被试对不公平分配的拒绝率。结合实验2的结果来看，扩张姿势启动的内隐权力感既有可能加强了被试对提议者不公平分配的惩罚和控制资源的动机，亦有可能加强了被试对不公平的厌恶。因为实验3的结果表明了内隐权力感可影响被试对不公平的厌恶而提高拒绝率。但是，根据实验2与实验3数据的合并分析结果提示，在面对同种不公平分配方案时，内隐权力感对被试在最后通牒游戏中惩罚提议者和控制资源的动机的提高使其拒绝率远远高于免惩罚游戏的拒绝率。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5.4 未来的研究方向",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "在公平决策研究领域中，权力感对个体公平决策的影响机制尚未有统一的观点。在绝大部分经济决策的研究中，基于惩罚提议者与控制资源的动机而拒绝不公平分配被视为高权力者控制低权力者的一种行为表现，而与此相反的另一种行为表现便是获利趋近动机被激活而选择接受不公平分配。而在最后通牒游戏中，高权力者会选择拒绝分配来惩罚或者控制提议者的资源，这是目前权力感影响公平决策研究中的较为公认的一种解释。但是在脑成像的研究中，对不公平分配的拒绝过程激活的是被试负性情绪的脑区，因此也有较多的学者推断权力感提高了个体对不公平的厌恶(Gabay,Radua,Kempton,&Mehta,2014；郭秀艳，郑丽,程雪梅，刘映杰，李林,2017)。此外，其中惩罚动机与控制资源的动机也未能在过往研究中区分，从而高权力者到底基于何种动机去拒绝不公平分配而不选择获取利益的机制还需要更多的研究证据。本研究为该领域所提供的新证据是身体姿势启动的内隐权力感亦可提高个体对不公平的拒绝率，为权力感影响公平决策的领域补充了证据，而依据本研究结果未来可探究内隐权力感提升的惩罚与控制资源动机与外显权力感所提升的惩罚与控制资源动机是否有差异呢？同样，在身体姿势启动的内隐权力感知状态之下的个体在面对不公平分配时负性情绪的脑区活跃程度是否也与外显权力感知状态一样呢？因此，未来研究可使用 EEG、fMRI等认知神经科学技术进一步探究身体姿势启动的内隐权力感影响公平决策的认知神经机制，以继续探究权力感对公平决策的影响机制。另一方面，人格变量、文化与群体特征等亦是身体姿势启动的内隐权力感影响公平决策的机制研究未来可探究的方向(Wang et al,2017)。此外，大部分研究只探究非利己的不公平分配，利己的不公平分配方案的决策研究比较缺乏。因此，未来研究方向也可从权力感对利己的不公平分配决策的影响进行研究，以扩展不公平现象的研究(Wang,Li,Li,Wei,&Li,2016)。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "本研究证实了与蜷缩姿势相比，扩张姿势启动的内隐权力感使免惩罚游戏提议者角色的个体作出更多的利己分配；此外，扩张姿势启动的内隐权力感加强了回应者对不公平的厌恶与惩罚提议者和控制资源的动机，使其高于获利的理性，从而提高了最后通牒游戏回应者对不公平分配的拒绝率。同时，扩张姿势启动的内隐权力感加强了回应者对不公平分配的厌恶并使其大于获利的理性，因而提高免惩罚游戏回应者对不公平分配的拒绝率。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Albrecht,K.,Essen,E.V.,Fliessbach,K.,&Falk,A. (20l3).The influenceofstatus onsatisfaction withrelative rewards.Frontiersin Psychology,4,804.   \nAnderson, C.,& Galinsky,A.D. (2010).Power,optimism,and risk-taking. European Journal ofSocial Psychology, 36(4), 511-536.   \nBileke,P.,Zamorano,F.,López,T.,Rodriguez, C.,Cosmeli,D.,&Aboitiz,F.(2014).Someone has to give in: theta oscilations correlate with adaptive behavior in social bargaining. Social Cognitive and Affective Neuroscience, 9(12),2041-2048.   \nBoksem,M.A.S., Kostermans,E.,Milivojevic,B.,& De Cremer,D. (2012).Social status determines how we monitor and evaluate our performance. Social Cognitive and Affective Neuroscience,7(3),304-313.   \nCamerer, C.F. (2004). Behavioral game theory: experiments in strategic interaction. Cuadernos De Economia, 23(41),229-236.   \nCarney,D.R., Cuddy,A. J. C.,&Yap,A.J.(2010).Power posing: Brief nonverbal displays affect neuroendocrine levels and risk tolerance.Psychological Science,21(10),1363-1368.   \nCarney,D.R., Cuddy,A.J. C.,& Yap,A.J. (2015).Review and summary of research on the embodied effects of expansive (vs.contractive) nonverbal displays.Psychological Science,26(5),657-663. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Fabre,E.F.,Causse,M.,Pesciarelli,F.,& Cacciari, C.(2O16).The responders' gender stereotypes modulate the strategic decision-making of proposers playing the ultimatum game. Frontiers in Psychology，7(126), 281-293. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Feng, C.,Luo,Y.J.,& Krueger,F. (2O15).Neural signatures offairnes-related normative decision making in the ultimatum game: Acoordinate-based meta-analysis. Human Brain Mapping, 36(2), 591-602.   \nFischer,J.,Fischer,P.,Englich,B.,Aydin,N.,&Frey,D.(20l1).Empowermydecisions: the effectsof power gestures on confirmatory information processing. Journal of Experimental Social Psychology， 47(6) 1146-1154.   \nFiske,S.T.(1993). Controling other people.The impact of power on stereotyping. American Psychologist, 48(6), 621-628.   \nGabay，A. S. Radua,J. Kempton, M. J.,& Mehta,M. A. (2014). The Ultimatum Game and the brain: A meta-analysis of neuroimaging studies. Neuroscience & Biobehavioral Reviews, 47, 549-558.   \nGalinsky,A.D.,Michael S.,& Magee,J. C. (2o17).The four horsemenof power at the bargaining table. Journal ofBusiness& Industrial Marketing,32(4),606-611.   \nGuo,X.Y., Zheng,L.，Cheng, X. M.,Liu,Y.J.,& Li, L. (2017). The cognitive and neural mechanismsof perception of unfairness and related decision-making process Advances in Psychological Science, 25(6), 903-911.   \n[郭秀艳，郑丽，程雪梅，刘映杰，李林.(2017).不公平感及相关决策的认知神经机制．心理科学进展,25(6), 903-911.]   \nHaruno,M., Kimura,M.，& Frith, C.D.(2014). Activity in the nucleus accumbens and amygdala underlies individual diferences in prosocial and individualistic economic choices. Journal of Cognitive Neuroscience, 26(8),1861-1870.   \nHewig,J.,Kretschmer,N.,Trippe,R.H.,Hecht,H,Coles,M.G.H.,Holroyd,C.B.,&Miltner,W.H.R.(2011) Why humans deviate from rational choice. Psychophysiology, 48(4),507-514.   \nHu,J.,Blue,P.R.,Yu,H.B.,Gong, X.L., Xiang,Y.,Jiang,C.J.,& Zhou,X.L.(2016).Social status modulates the neural response to unfairness. Social Cognitive and Affective Neuroscience,11(1),1-10.   \nHu,J.,Cao,Y.,Blue,P.R.,& Zhou,X.(2014).Low social status decreases the neural salience of unfairness Frontiers in Behavioral Neuroscience,8,402.   \nJin,J.,Li,Y.,Chen,D.M.,&Guo,K.J.(2O17).Efectsand mechanismsof powerand status onself-interested behavior. Advances in Psychological Science,25(5),878-886   \n[金剑，李晔，陈冬明，郭凯娇.(2017).权力和地位对自利行为的影响及其机制．心理科学进展,25(5), 878-886.]   \nKeltner,D.,Van Kleef, G.A., Chen,S.,& Kraus,M.W. (2008). A reciprocal influence model of social power: emerging principles and lines of inquiry. Advances in Experimental Social Psychology, 40(40),151-192.   \nKim,P. H., Pinkley,R.L.,& Fragale,A.R. (2o05). Power dynamics in negotiation. Academyof Management Review,30(4), 799-822.   \nKopsida,E.,Berrebi,J.,Petrovic,P.,&Ingvar,M.(2Ol6).Testosteroneadministrationrelated diferences inbrain activation during the ultimatum game. Frontiers in Neuroscience, 10, 66.   \nLi,H.,Galinsky,A.D.,Gruenfeld,D.H.,& Guilory,L.E.(20l1).Powerful postures versus powerful roles. Psychological Science,22(1), 95-102.   \nLi,X.D.,Du,J.Z,& Ye,H.S. (20l6). Bidirectionality metaphorical effctofChinese ritual culture: Contractive postures make people humble. Acta Psychologica Sinica, 48(6), 746-756.   \n[黎晓丹，杜建政，叶浩生.(2016).中国礼文化的具身隐喻效应：蜷缩的身体使人更卑微．心理学报,48(6), 746-756.]   \nMassi, B., & Luhmann, C. C. (2015). Fairness influences early signatures of reward-related neural processing. Cognitive Affective & Behavioral Neuroscience,15(4),768-775.   \nNowak,M.A.,Page,K.M.,& Sigmund, K.(2ooo).Fairness versus reason in the ultimatum game.Science, 289(5485), 1773-1775.   \nPark,L.E.,Streamer,L.,Huang,L.,& Galinsky,A.D. (2o13).Standtal, but don't put your fetup: Universal and culturally-specific efects of expansive postures on power. Journal of Experimental Social Psychology, 49(6), 965-971.   \nRand,D.G.,Tarnita, C.E., Ohtsuki,H.,& Nowak, M.A. (2013). Evolution of fairnessin the one-shot anonymous Ultimatum Game.Proceedings of the National Academy of Sciences,110(7),2581-2586.   \nSalancik,G.R.,& Pfefer,J. (1974).The bases and use of power in organizationaldecision making: The case of a university. Administrative Science Quarterly, 19(4),453-473.   \nSmith,P.K.,& Galinsky,A.D. (20l0). The nonconscious nature of power: cues and consequences. Social & Personality Psychology Compass, 4(10),918-938.   \nTakagishi,H.,Takahashi,T.,Toyomura,A.,Takashino,N.,Koizumi,M.,&Yamagishi,T. (2o9).Neuralcorrelates of the rejection of unfair offers in the impunity game. Neuro Endocrinology Leters,30(4), 496-500.   \nWang, G.R.,Li,J.B.,Li, Z.,Wei,M.X.,&Li, S.D. (2016). Medial frontal negativityreflects advantageous inequality aversion of proposers in the ultimatum game: An ERP study. Brain Research,1639,38-46.   \nWallace,B., Cesarini,D.,Lichtenstein,P.,& Johannessn,M. (2oo7).Heritabilityof ultimatum game responder behavior. Proceedings of the National Academy of Sciences of the United States of America,104(40), 15631-15634.   \nWang,Y.W., Zhang,.,Bai,L.Y.,Lin,C.D.,Osinsky,R.,& Hewig,J. (2017).Ingroup/outgroup membership modulates fairness consideration: neural signatures from erps and eeg oscillations.Scientific Reports，7, 39827.   \nYamagishi,T.,Horita,Y.,Mifune,N.,Hashimoto,H.,Li,Y.,Shinada,M.,. Simunovic,D.(2o12).Rejectionof unfair offers in the ultimatum game is no evidence of strong reciprocity. Proceedings of the National Academy of Sciences of the United States of America,109(50),20364-20368.   \nYang,W.Q.,Li Qi.，Guo,M.Y.,Fan,Q.,He,Y.L.,(2017).The effects of power on human behavior: The perspective of regulatory focus. Acta Psychologica Sinica, 49(3), 404-415.   \n[杨文琪，李强，郭名扬，范谦，何伊丽.(2017).权力感对个体的影响:调节定向的视角．心理学报,49(3), 404-415.]   \nZak,P. J.,Kurzban,R.,hmadi,S.,Swerdlo,R.S.ark,J.,Efremidze,...atzner,W. (2o9).Testosterone administration decreases generosity in the ultimatum game.Plos One, 4(12),e8330. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The influence of embodied implicit power on fair decision making ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LI Xiao-danl; DING Dao-qun²; YE Hao-sheng3 ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(DepartmentofPsychology,Hunan NormalUniversity;KeyLaboratoryforCognitionand Human BehaviorofHumanProvine, Changsha 410081,China)(The Center for Mindand Brain Science,Guangzhou University,Guangzhou 510006,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "An expansive posture is known to make an individual display more implicit power than a contracted posture.Moreover, the priming effect of an expansive body posture is cross-cultural. The perception of power triggered by an expansive body posture is considered to be implicit. Subjective scoring has been used in most previous studies of power posing. Several kinds of measurements have been used in behavioral research to assess the perception of power. These include ratings of subjective power, power-related word-completion tasks, scenarios about power-related behaviors such as talking first in a debate. Also, power activated by expansive postures is known to have a stronger effect than recalling power-related experiences. However, there is a paucity of evidence on embodied power and fair decision making in previous research on risky decisions for detecting the influence of embodied effect. The ultimatum game and the impunity game can be used to explore how embodied power impact fair decisions without risk factors. These games were used in the current study to examine whether the metaphorical coupling of body posture and power，affected an individual's fair decisions. In Experiment 1, the influence of body posture on the proposer of an impunity game was examined. We instructed participants to keep an expansive or a contracted posture in two blocks as a proposer in which they were told that the game role was chosen by themselves. Participants’( $\\mathrm { \\Delta } N = 4 0 \\mathrm { \\Omega }$ ）allocation of 30 RMB was analyzed in Experiment 1. Experiment 2 manipulated participants’ postures and fairness of offers in the ultimatum game. The manipulation of posture and the experimental situation in Experiment 2 and Experiment 3 were identical to Experiment 1. Experiment 3 manipulated participants’ postures and fairness of offers in the impunity game. The number of valid participants’ rejection rates in Experiment 2 and Experiment 3 were 45 and 40. The three experiments controlld for the risk factor,and the mood between blocks, as well as other confounding factors. The results of Experiment 1 showed that participants in expansive posture condition allocated more money for themselves than in the contract posture condition. The results of Experiment 2 indicated that the rejection rate for unfair distribution and the rejection rate for unfair offers were higher in the expansive posture condition than in the contracted posture condition in Experiment 3. This suggests that implicit power initiated by the expansive posture affected the rejection rate of unfair offers even if the participants could not punish the proposer. Merging data of Experiment 2 and Experiment 3 indicated that the game condition had a significant main effect on the rejection rate with the rejection rate in the impunity game being higher than in the ultimatum game. These results indicate that the implicit power initiated by an expansive posture makes individuals conduct more advantages and unfair distributions in the impunity game and more rejection of unfair offers in the ultimatum game than in the contracted posture condition. Simultaneously, the implicit power triggered by the expansive posture strengthened the responders' aversion to unfair distributions and caused aversion for the profit motive,and thereby improved the rejection rate of unfair distribution of responders in the impunity game. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key wordsembodied cognition; power metaphor; fair decision making; ultimatum game; impunity game ",
+        "page_idx": 19
+    }
+]

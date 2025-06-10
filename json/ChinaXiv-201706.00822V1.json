@@ -1,0 +1,384 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201611172333 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘世梁,侯笑云,尹艺洁,成方妍,张月秋,董世魁.景观生态网络研究进展.生态学报,2017,37（12);3947-3956.LiuSL,HuXgagSeahsodselcalolcc3947-3956.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "景观生态网络研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘世梁\\*，侯笑云，尹艺洁，成方妍，张月秋，董世魁北京师范大学环境学院水环境模拟国家重点实验室，北京100875",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：作为生态学重要的概念与方法,生态网络是景观生态学研究的热点问题,也是耦合景观结构、生态过程和功能的重要途径。景观生态网络对于保护生物多样性、维持生态平衡、增加景观连接度具有重要意义。从景观生态网络的相关理论、研究进展、研究方法模型等进行分析,并对其应用前景进行展望,主要介绍了传统景观格局分析、网络分析、模型模拟等方法的适用性与特点,并分析了景观生态网络在城市景观格局优化、自然保护区规划、生物多样性保护、土地规划等领域的应用,最后提出了研究的主要问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生态网络；景观连接度；网络分析；空间模型；生物多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research progress on landscape ecological networks ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Shiliang\\*，HOU Xiaoyun，YIN Yijie，CHENG Fangyan，ZHANG Yueqiu，DONG Shikui ScholofEnironment，StateKeyaboratoryofWaterEnionmentSimulationBeijingNomalUniversity，BeijingO8ina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The studyofecological networks isahottopic inthefieldoflandscape ecology,andisan essential conceptand method for analyzing landscape paterns and ecological proceses.The main purposes for constructing alandscape ecological network are to protect landscape sustainability，maintain ecosystem balance，and increase ecological connectivity.Methods for constructing landscapeecological networksare mainly based on landscape ecology theory，and includepatern analysis, network analysis，spatial analysis，and spatial modeling.The landscapeecological networkconcept isapplied broadlyto natural reserve planning，urban landscaping，biodiversityconservation，and land planning.In recent years，thegeneral strategyof biodiversityconservationhasgraduallyshifted fromspeciesprotectioninisolatedprotectedareastohabitat conservationthrough theconstructionoflandscapeecologicalnetworks.Atpresent,thefieldoflandscapeecologicalnetwork research isdeveloping rapidly withrespect to theory，methods，andapplication，which hasalreadyputforth valuable research results.The ecologicalcorrdoris used as the main measure ofalandscape ecological network to connectlandscape patches，eliminate fragmentationof thenatural landscape，andachieve thecomprehensive protectionof biodiversity. Landscapeconnectivityisanimportant methodof appoachingalandscape ecologicalnetwork，and hasgreat significance for itsconstructionCommectivityis used to measure thecontinuityof landscape spatialstructuralunits,focusingontheresponse to landscape functions.However，the concept ofalandscape ecological network has only beenrecently proposed，and he theoreticalsystem isnotyet perfect.Thus，the basic theoretical system should be further improved in the future.In addition，the methods forconstructingalandscapeecological network，suchasconectivityindicators，explicit models，and evaluationsystems,shouldbefurtherstudied to promote theutilizationandoptimizationoflandscape ecologicalnetworks.In this paper，wereviewand summarize the theoretical basis，development process，methods，and applications of landscape ecological networks to promote further development in this research field. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:ecological network ；landscape connectivity；network analysis；spatial model；biodiversity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观生态学作为环境科学、生态学和地理科学间一门综合的交叉学科,于1939年由德国的Troll首次提出。景观生态学的研究集中于生态系统的空间格局、生态过程和时空尺度,是一门将地理学中的空间分析与生态学中的功能分析相结合,关注景观结构对生态过程影响的科学。近些年,由于景观的破碎化和人为干扰现象日益严重,生态网络逐渐成为景观生态学、地理学、城市规划学等学科的研究热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前学者们基于各自的研究领域,探讨了生态网络的结构[1]和功能[2-3]、生态网络的构建与评价[4-5],并进行了大量关于生物多样性保护[6-7]、自然保护区设计[8]、城市（区域)景观优化与评价[9-10]、景观规划与设计[-12]、森林管理[13]、土地规划与评价[14]、生态安全格局[15-16]等方面的研究。这些关于生态网络的研究主要分为以下3类:(1)加强生态系统的空间结构;(2)保护生态功能及过程(如重建重要物种的栖息地);（3)耦合生态系统服务(如生态、娱乐和美学等)。拟通过研究生态环境及资源的空间变化,来改善人类的生存环境和维持经济的稳定发展。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对景观生态网络的概念、理论研究、研究方法和应用研究等方面进行介绍,并提出我国在景观生态网络研究方面的主要问题,为景观生态网络的进一步研究以及应用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1景观生态网络的概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前关于景观生态网络的概念,学者们并未达成统一。各学者从不同的角度来定义生态网络,研究目标和内容也不尽相同,所以产生了不同的生态网络结构,但均强调网络中生态过程的一致性[8]。景观生态网络的基本特性为:1)连接性;2)保护物种和生态环境,维持生态系统的结构平衡及其功能;3)廊道的空间结构是线性的;4)规划开场空间中的一个系统整体;5)提高自然资源利用率,最大限度减少人类活动对生物多样性的影响[17]。简而言之,景观生态网络是采用保护生物学和景观生态学的思想,来解决生物多样性保护与人类的自然资源需求之间的矛盾[18]。因此,可以把景观生态网络定义为：基于景观生态学原理,以保护生物的多样性及景观的完整性为目的,在开空间内利用各种线性廊道将景观中的资源斑块进行有机的连接,以维持和保护其生态、社会、经济、文化、审美等多种功能的网络体系（表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebd1dd55b8ca85bdc1934e0cf66b60aa20bc5fcdfb1f70c3ba53cf5dca18b852.jpg",
+        "table_caption": [
+            "表1景观生态网络概念的发展",
+            "Table 1 The development of landscape ecological network concept "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>来源 Sources</td><td>角度Aspect</td><td>生态网络涵义Meaningof ecologicalnetwork</td></tr><tr><td>[19]</td><td>网络的重要性</td><td>提供人们接近居住地的开放空间,连接乡村与城市空间,并将其连成 一个循环系统</td></tr><tr><td>[20]</td><td>廊道的连接性</td><td>连接公园、自然保护区、文化景观或历史遗迹之间及其聚落的开放 空间</td></tr><tr><td>[21]</td><td>生态系统的多重稳定性</td><td>连接开放空间的景观链,认为生态网络是具有自然特征的廊道，集文 化、生态、娱乐于一体</td></tr><tr><td>[22]</td><td>生态过程的一致性</td><td>由多种类型的生态节点和连接各节点的生态廊道组成的空间连贯的 生态系统,系统中的生物有机体之间进行有机交流,其目的是为了维 持在人类活动影响下生态过程的完整性</td></tr><tr><td>[23]</td><td>土地规划及生态网络的功能性</td><td>由线性要素组成的土地网络,是为了多种用途而规划、设计和管理的， 它兼备自然保护、生态、休闲、美学、文化、交通等多重功能</td></tr><tr><td>[24]</td><td>生物多样性的保护</td><td>应用保护生物学和景观生态学来解决生物多样性保护问题的生态学 思想,能有效缓解生物多样性保护需求和人类对自然资源需求之间的 矛盾</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2景观生态网络的理论研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 生态网络与景观规划 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "区域景观规划和生态网络的建设以生态学为基础,开展多学科的协作,注重生态过程和生态恢复,采用多目标规划设计、公众参与等方法进行研究,其目的是为了动植物资源、水资源等的保护,同时也有利于防洪、教育、城市美化、旅游休闲等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "20 世纪90年代以来,生态网络的研究者开始在不同尺度上,通过提高生态连接度来维持内部的一致性,保护生物的多样性以及恢复退化的生态系统。到90年代末,生态网络的发展已趋于成熟,生态网络的建设可以保护濒危物种的生境、生态系统以及景观特性，同时还可以为城镇景观提供大量的自然廊道,降低自然空间的损失[25],恢复和改善城镇的自然系统质量[26],缓解人们来自于城镇化过程的生理和心理上压力。在 1995年出版的生态网络专刊,对生态网络规划的理论、方法和实践等进行了概括与展望。同一时期的理论研究也有了重大的突破,如Linehan等[27]以野生动物保护为目的,从传统的分区规划的反向思维进行绿道的规划：(1)土地利用评价;(2)野生动物评估;(3)生境评估和适宜性分析;(4)节点分析;(5)连接度分析；(6)网络分析；(7)总体评估。而这些专著与理论的出现大大促进了生态网络规划与建设的发展。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "欧美学者对于生态网络的研究也有各自的特点。西欧学者主要关注高度集约化土地的生态网络研究,尤其是如何降低城市化和农业活动对生态环境的负面影响,研究中多使用生态网络这一术语[11]。而北美学者的研究，则更关注国家公园和自然保护区等的生态网络建设,研究中多使用绿道网络一词[28]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从21 世纪初到现在,由于生态网络规划和实践在国际上的蓬勃兴起（图1,以\"ecological networks”为主题在 Web of Science中对2001至2015年的相关文献检索得到,红框标示）,以及各学科对生态网络认识的融合，推动了人类对城市景观的合理改造。Conine 等[29]人从需求的角度提出了构建生态网络的6个步骤：（1)确定目标;(2)需求评估；(3）确定潜在连接通道；（4)评估可达性;（5）划定廊道;(6)最终评估。Gobster 和Westphal[30]从生态网络公众服务功能的角度提出生态网络的6要素,即自然、干净、安全、接近性、艺术与发展潜力。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/56890711c61e9a9948f696175ebcbb14469728969fae4bbadc224ee13bccae61.jpg",
+        "img_caption": [
+            "图12001至2015年景观生态网络关键词进展图",
+            "括号内数字代表该关键词出现的频率"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1The keywords evolution of landscape ecological network from 2oo1 to 2015 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来,我国的生态网络研究逐渐受到关注。但由于起步较晚,基础理论研究相对匮乏,所以应结合国外的研究动态[31],建立适合中国特色的生态网络[32],制定完善的景观规划评价体系,进而保护生物的栖息环",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "境[15]和维护城市的景观格局[33]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2生态网络与景观连接度",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "景观连接度是景观生态网络的核心概念，对于景观生态网络的建设具有重要的意义（图1,landscapeconnectivity检索结果较高，蓝框标示）。对于景观连接度的概念,不同学者有不同的认识[34-35],但都认为景观连接度是对景观空间结构单元相互之间连续性的度量，侧重对景观功能的反应。目前对景观连接度概念使用较多的是Taylor等[36]提出的,即景观连接度是景观促进或阻碍生物体(生态过程)在源斑块间运动的程度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "景观连接度对于生态网络的研究，具有广阔的应用前景。因此，如何建立一种基于连接度的方法，来简单快速反映景观的结构和过程，提高景观的连通性和斑块的可达性，将会成为众多学者共同关注的焦点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3生态网络与景观安全格局",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态网络生境城市绿地系统流小费用距河离 道路园林景观生态学生物多样性保护生态平衡景观格局森林景观生态学國值生网络分析星盛",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过提高斑块之间的连通性，以及加强生态网络的建设，将会有利于生态安全格局的构建。生态安全格局以生态学的理论与方法为基础，通过对生态过程的分析以\"生态网络”为主题在知网中检索相关文献中的关键词得出，图中关键词的字体大小代表该关键词在知网中出现的频率",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与模拟,旨在有限的土地内，以高效的景观格局来维护不同生态过程的安全与健康。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自 20 世纪末以来蓬勃发展的生态学,为生态安全格局的研究提供了新的理论基础,如“最优景观格局\"和\"生态安全格局（ecological security patterm）”等[15,37]。我国的学者也针对生态安全格局的定义、理论基础[16]和构建方法[38]等方面展开了研究,并广泛应用于城市生态安全[39-10]、区域生态安全[41]、国土生态安全[42]和土地利用生态安全[43]等不同方面。生态安全格局的研究难点是构建方法的研究,而俞孔坚[44]提出的依据阻力面来判别安全格局的方法则被国内外学者广泛接受[45-46]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3景观生态网络的方法研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前针对景观生态网络方面的研究方法，主要采用基于格局与景观连接度的指数和利用模型对景观生态网络进行模拟,来分析和反应实际景观生态网络的格局、过程或空间关联。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1景观格局与景观连接度指数构建 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "景观格局指数能够对景观的空间格局信息进行高度概括,并对其组成结构和空间配置等进行简单定量[47]。其中:1)用于描述景观要素的指数,如斑块的周长、形状、面积、密度、最近临近距离等,以及廊道的曲度和长度等。这类指数可以用于刻画生态网络的空间构型,如针对森林生态网络开展研究[48」;2)用来描述景观总体特征的指数,如优势度（Dominance）、蔓延度（Contagion）及分维数（Fractal dimension）等。这些指数可以用于描述景观中不同斑块类型的空间分异、团聚程度、延展趋势、几何形状和复杂程度[49]。优势度与蔓延度以信息论为基础[50],分维数则以分形几何学为基础[51],这些指数在描述景观格局时有着各自的特征。分维数与优势度可以在较大尺度上反映景观的格局,而蔓延度则相反[52]。随着科学技术的发展,产生了更为复杂的聚合度（Aggregation index）[53]、孔隙度（Lacunarity）[54-5]等景观指数。景观格局指数有利于理解和评价现有研究区内的景观现状,即通过不同的景观指数的对比,揭示研究区内的生态状况、空间特征和格局演变，了解其内在驱动力及发展趋势,为将来的景观评价和规划管理提供重要的参考价值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "景观连接度的研究方法主要有以下6种：指数法,如破碎度指数、聚合度指数、分离度指数、扩展指数等[56-57],其侧重与斑块之间的关系、在景观单元或者流域上进行综合,但对于生态过程的描述较少;图论法，其特点是用图形的形式直观地描述和表达、可以定量化斑块之间的关系、侧重于生态过程[54];耗费距离法,其特点是侧重于基质的影响、定量化斑块之间的隔离程度、可以确定廊道和战略点、有一定的生态学意义;电流理论,其特点是基于电流产生经过每个栅格流的测度、集合所有可能的通道、和随机行走模型具有很好的吻合性;基于个体运动模型(IBM),模拟个体在景观的运动并且在多个尺度上研究;空间显性的种群模型（SEPM）,即在异质性景观中,结合种群变异模型研究关键种群的变异。几种方法的比较见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a6c67d33fcad0c42455efbb6936baeab9a13baddf10eb0c677f4b92fce91999f.jpg",
+        "table_caption": [
+            "表2景观连接度研究方法比较",
+            "Table 2Compare of the research methods of landscape connection degree "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法 Methods</td><td>难度 Difficulty</td><td>输入数据 Input Info</td><td>模型假设 Assumptions</td></tr><tr><td>指数法 Index</td><td>简单</td><td>少</td><td>少</td></tr><tr><td>图论法 Graph theory</td><td></td><td></td><td></td></tr><tr><td>耗费距离法 Cost distance</td><td></td><td></td><td></td></tr><tr><td>电流理论 Current theory</td><td>√</td><td>√</td><td></td></tr><tr><td>IBM/SEPM</td><td>复杂</td><td>多</td><td>多(显性)</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2景观生态网络的模型模拟",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观网络由节点（Node)和廊道(Linkage）相互交叉连接形成,而景观要素之间借助网络进行能量流、物质流和信息流的交换。一般来说,图论常把复杂的景观简化为简单的点和线[58],从网络密度（networkdensity）、网络连通性（network connectivity）和网络闭合度（network circuitry）来计算景观网络的结构和功能,而忽视了点(斑块)之间的实际距离、线性程度、连接线方向和节点的实际空间位置,而这些要素在景观生态学的\"流\"的研究中则比较重要[59]。在实际对景观生态网络模型的模拟和构建中,通常需考虑节点本身的属性特征及其相互关心,如利用重力模型测量节点之间的相互作用[6-61]。最重要的是景观生态网络的构建必须考虑物种迁移、扩散等生态过程,考虑基质对这些过程的作用。目前,有很多方法与模型对景观生态网络系统进行研究,较为常见的方法是最小耗费距离方法、图论方法与电流理论,常用的软件包括ConeforSensinode，Circuitscape,Guidos,Zonation,Marxan 等软件。表3中列举的是部分景观生态网络的模型软件及其说明[62-73]。如ConeforSensinode 模型,结合物种扩展概率,利用图论方法,结合最小耗费距离等方法,可以对重要栖息地、廊道等进行量化分析与空间直观显示，并且可以在较大尺度上运用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4景观生态网络的应用研究及主要问题",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1城市景观中生态网络的应用研究",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国外的城市生态网络研究,主要集中于以下3个方面:1)城市生态节点的功能研究。目的是为了实现城市生态网络功能的一体化,最终使城市各功能区组成一个大的生态系统;2)内部结构和形态研究。即以依托快速交通网络系统构建的人流、物流等的实体联系研究和以通讯网络系统构建的信息流、资金流等的虚拟联系研究[74];3)空间发展策略研究。其实质就是连接和优化空间内景观斑块,维持生态过程。目前,生态网络方法已在国外的城市规划与设计中被采用[75]。如 Marullih 和 Mallrach[76]基于ECI指数,对巴塞罗那中心地区的景观进行了综合评价;Levin 等[77]基于最小耗费距离模型,确定了大尺度上开放空间的生态保护作用;Parker等[78]通过对景观功能的评价,设计了重要廊道。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "国内的研究注重借鉴已有的成功经验,将生态环境规划纳人到城市规划中。此外,学者们也对城市与区域发展的关系[79]、区域城市一体化与协调发展[80]、城镇体系规划[81]、城市可持续发展[82]等开展了一系列研究。如武剑锋等[73]基于ECI指数,评价了深圳市的生态连接度;孔繁花和尹海伟[84]基于重力模型,讨论了城市绿地生态网络构建;熊春妮等[85]基于PC指数，对重庆市的绿地系统结构进行了连接度评估;许峰等[86]基于MSPA与最小路径法对城市生态网络进行了规划与构建;王海珍等[87]通过网络分析法对厦门岛进行了规划。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0471c3cddb3afdb08054774dc1cf9f963e9d797acc41095505a15419f1bdf1c.jpg",
+        "table_caption": [
+            "CrB1730-711340:71141111 ",
+            "华 rerrriee rerseegl serrrersrgl le ",
+            "",
+            "Taqee ",
+            "- "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>模型 Models</td><td>理论基础 Theoretical basis</td><td>模型模拟工具 Model simulation tool</td><td>直接产品输出 Direct product output</td><td>特点 Feature</td><td>可视化 Visualization</td><td>大尺度 Large scale</td><td>参考文献 References</td><td>乙</td></tr><tr><td>Corridor Designer</td><td>最小耗费距离</td><td></td><td>识别适宜榔息地</td><td>量化廊道宽度 偏重道路对物种迁徙廊道的影响 应用较早 量化多条具有宽度意义的廊道</td><td>+</td><td>+</td><td>[62]</td><td></td></tr><tr><td>Circuitscape</td><td>电流理论 随机漫步模型</td><td>Circuitscape 4.0 有对应的 ArcGIS toolbox</td><td>物种随机迁移廊道 关键网络节点 重要保护区域</td><td>多种斑块间的连接方式选择 尺度效应不明显 现阶段应用广泛</td><td></td><td></td><td>[63]</td><td></td></tr><tr><td>Functional connectivity model</td><td>景观适宜性 图论</td><td>FunConn ArcGIS toolbox</td><td>栖息地质量分布图 景观网络图</td><td>量化廊道宽度 综合应用较少</td><td></td><td>+</td><td></td><td>[64]</td></tr><tr><td>Linkage Mapper</td><td>最小耗费距离</td><td>L4个子模块 有对应的 ArcGIS toolbox</td><td>小费</td><td>现条线状路径，无宽度概念</td><td>+</td><td></td><td></td><td></td></tr><tr><td>ConeforSensinode</td><td>图论</td><td>Conefor 2.6 有对应的 ArcGIS toolbar 插件</td><td>栖息地连接度等级 栖息地中心度等级 整体景观连接度</td><td>基础景观连接度指标 有效识别踏脚石斑块 现阶段应用广泛</td><td></td><td></td><td>[66-67]</td><td>生</td></tr><tr><td>Graphab</td><td>图论</td><td>具备4个子模块</td><td>基于欧氏距离或最小费用距离 构建的网络结构图 不同景观水平上的网络连接度；</td><td>能够综合分析各种已有网络指标 能够将物种实际分布情况综合考虑 可对多种网络类型进行结构分析</td><td></td><td></td><td>[68]</td><td>报</td></tr><tr><td>UNICOR 图论 （Universal Corridor network</td><td>基于个体的模型</td><td>Python 2.6语言编程模块</td><td>基于最小费用距离的连接度网 络图 景观特征值(斑块面积,斑块之</td><td>输入输出均为 ASCII文件 将最小费用距离与核密度整合,量化</td><td></td><td></td><td></td><td></td></tr><tr><td>simulator)</td><td></td><td></td><td>间的距离等) 网络特征值（链接路径的强度， 密度,传递性等)</td><td>廊道宽度</td><td></td><td>+</td><td>[69-70]</td><td></td></tr><tr><td>UCINET （University of California at Irvine network）</td><td>图论</td><td>UCINET</td><td>斑块整点度和关联度</td><td>包含大量网络分析指标 可以将图论程序转换为矩阵代数</td><td></td><td>+</td><td>[71-72]</td><td></td></tr><tr><td>PANDORA</td><td></td><td></td><td></td><td>更偏重于社会科学研究 量化区域景观单元内的能量蓄积量</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2自然景观中生态网络的应用研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "北美的生态网络规划多关注乡野土地、自然保护区、历史文化遗产和国家公园的建设,注重生态网络的综合功能发挥。欧洲的规划实践则更关注减轻人为干扰和生态系统保护,尤其是对生物多样性的维持和生境的保护,以及河流的生态环境恢复[88]。亚洲的绿地生态网络规划尚处于起步阶段,多数研究仍处于建立廊道连接的初期[89],但也有城市绿地生态网络建设的实践[13]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "近年来,我国的线性绿地生态规划发展较快,但综合性绿地生态网络规划尚不多见。其中刘世梁等[9]利用景观连接度构建了尚勇自然保护区的生态网络;富伟等[91]分析了道路对云南省西双版纳地区景观生态网络的影响;陈爽等[92]对南京的绿地系统进行了规划,为绿地建设、野生动物栖息等提供了发展空间。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3生物保护领域生态网络的应用研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "国外的生态网络规划思想更多的是立足于生物多样性的保护,关注生物与其栖息环境之间的动态变化。实践证明,相比于小块分散分布的绿地斑块,大面积整块分布的模式能包容更多的物种[93],而斑块间适当的生态廊道则有助于物种的保护。如Uezu[94]等基于廊道和斑块的分离度,研究了连接度指数对森林鸟类多样性的影响;Munkemuller和Johst[95]基于平均迁移率,研究了种群与连接度之间的关系； $\\mathrm { { N e e l } ^ { [ 9 6 ] } }$ 基于景观格局指数,研究了连接度对基因流的影响。国内学者在此领域也有一定的研究成果,如姜广顺等[97]基于模糊赋值法,定量评价了完达山马鹿的生境连接度;朱丽娟和刘玉红[98]基于生境适宜性评价模型,分析了连接度与丹顶鹤生境利用率之间的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "欧洲国家在传统生态栖息地的保育上有诸多实践,如生物基因保留区（Biogenetic Reserves）、绿宝石栖息地网络(Emerald Network）与欧洲自然栖息地网等,并在 1995 年倡议构建泛欧洲生态网络（Pan-EuropeanEcological Network,PEEN),以生态廊道连结各自孤立的栖息地以形成区域乃至国家之间的生态网络体系,对生物多样性的保护和景观整体格局的维护有重要意义7。我国在此方面也有涉足,如周睿等[99]以世界自然保护联盟(IUCN)保护地体系标准，对我国境内的国家级自然保护区进行筛选，作为我国国家公园的备选单位，以此保护国家典型自然生态系统的完整性和特殊性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4主要问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我国在景观生态网络研究方面主要存在以下3个问题：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1)基础理论方面由于景观生态网络概念在我国提出的时间较短,诸多概念在学术界还未达成共识,理论体系尚不健全,对景观生态网络的认识不够,现有的理论和核心概念(多为外国学者提出)无法完全解决我国在生态网络规划与评价中遇到的问题。因此,景观生态网络基础理论的发展与改进至关重要,应侧重多尺度的自然栖息地生态网络研究,人类活动与气候变化下景观生态网络影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)研究方法方面应侧重于改善景观生态网络的研究方法,如创新景观生态网络或连接度指数、生态网络模型和基于复杂系统的空间模拟方法、生态网络对生态系统服务影响的评价、不同时空尺度的生态网络构建效应对比和相同的时空尺度内不同构建方法的对比等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)应用建设方面景观生态网络的建设缺乏系统性,建设力度不足,没有有效形成大尺度的生态网络系统,也没有与其它规划建设相结合,其管理与保障体制也不完善,缺乏科学支撑,功能没有得到很好的发挥。因此,应当加强景观生态网络的建设,维护不同生态过程的健康与安全,提升生态系统服务水平,促进生物多样性的保护、生态安全格局的构建以及自然保护区网络的形成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Bascompte J. Structure and dynamics of ecological networks.Science,2010,329(5993）：765-766.  \n[2]BgueeetdsueCdlsalsaividlcalolcReview，2013，88(2)：310-326.  \n[3]Saterberg,elnS,bean.igfrecyfctioaletictiosiologcaletks.atue,4（749）：464.  \n[4]Gctiilsll",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "for Nature Conservation,2010,18(4）：318-326.[5]PocockJaJssdsikks)9.6］陈小平，陈文波.鄱阳湖生态经济区生态网络构建与评价.应用生态学报，2016，27（5）：1611-1618.[7]BrunderinkG，VanDer SluisT，LammertsmaD，OpdamP，PouwelsR.Designingacoherentcologicalnetworkforlargemammalsinnorthwestern Europe.Conservation Biology，2003，17(2）:549-557.[8]JongmanRHG.NatureconservationplaninginEuroe：developingeologicalnetworksLandscapeandUbanPlaing，1995，3（3）：169-183.[9］吴榛，王浩.扬州市绿地生态网络构建与优化.生态学杂志，2015,34（7)：1976-1985.[10] 张远景，俞滨洋.城市生态网络空间评价及其格局优化.生态学报，2016，36(21)：6969-6984.[11]JongmanRHG，KlvikM，KritiansenIEuroeanecologicalnetworksandgrenways.LandscapeandUbanPlaing，O4，68（2/3)305-319.12]MinorEUrbaeerkfeatiapotideatooei(2): 297-307.[13］张贵，肖化顺.广州市城市森林生态网络体系规划研究.河南科技大学学报：农学版，2003，23（4)：49-53,65-65.[14] PalV,Tontsotaiguasprwltrdsindedialplanginrlifceo.alofEtalPlanning and Management，2005,48(1）：7-35.[15］俞孔坚.生物保护与景观生态安全格局.生态学报，1999，19(1)：8-15.[16］马克明，傅伯杰，黎晓亚，关文彬．区域生态安全格局：概念与理论基础.生态学报，2004,24（4)：761-768.[17]Aher J. Planing for an extensive open space system: inking landscape structure and function.Land and Urban Planning,1991,21(1/2）：131- 145.[18]TomasCDspsaladetitioinfrgtedldssPrinftealScietyBcalSiec，4）:139-145.[19]PCAO.The report of the President's Commisson on Americans Outdors: The Legacy，The Challenge.Washington，D.C.: Island Press，1987.[20]Littl CE. Greenways for America. Baltimore：Johns Hopkins University Press，1990:28-39.21]Hay，KGGewadiodiversiIusoWE.ed)dapeLinkagesdiodiverstashgtoDC.sand99162-175.22]Opdaiadeclacidsetitatigatspatial planning.Ibis，1995，137(s1).[23]Ahemn J. Greenways as a planning strateg] De and Urban Planning，1995,33(1）：131-155.24]assd.25]BlasceTeolefhatiadimesiinefeorkofstaableldapsdaturalapitaLdsadUanang，2006,75(3/4): 198-226.26]CokE.Lasastrucueicesfeigurbolgcalneks.asaeandUbaPlaig，，8（2/4）:-.[27]LinehanossJrpangeveloinglsapeeoloicaletwoaroacdsaedUbaan9，(1/3): 179-193.[28]Fabos JG.( ning inthe United States:itsorigins andrecentcase studies.Landscapeand Urban Planning,2O04,68(2/3): 321-342.[29] ConineA，XiangW,ougJ，ieyDlaingforuli-urpoegrewasinoncod，rtharolia.LanscaeandUbag，2004,68(2/3) : 271-287.[30]GobsterP，WesthalL.TeuandimesiosfrangealaingforereatioandrelatedexperiecesLansapeadUbanPlanning，2004,68(2/3）: 147-165.赵振斌，包浩生.国外城市自然保护与生态重建及其对我国的启示．自然资源学报，2001，16(4)：390-396.32 郭纪光.生态网络规划方法及实证研究——以崇明岛为例[D].上海：华东师范大学，2009.[33] 赵振斌，朱传耿，蒋雪中.结合城市自然保护的城市绿地体系构建—以南京市为例.中国园林，2003，19(9)：64-66.[34] With KA,Gardner RH,Turner $\\mathrm { ~ M ~ G ~ }$ .Landscape connectivity and population distributions in heterogeneous environments.Oikos，1997,78（1）：151- 169.[35]Tischendorf L,Fahrig L.On the usage and measurement of landscape connectivity.Oikos,20O,90(1）：7-19.[36]TaylorPD,FahrigL,HeninK,MeiamG.Coecivityisavitalelementoflandscapestructure.Oikos，993，68（3）：57-573.[37]Forman RTT.Land Mosaics:The Ecologyof Landscapesand Regions.Cambridge：Cambridge UniversityPress，1995:1-452.[38］黎晓亚，马克明，傅伯杰，牛树奎.区域生态安全格局：设计原则与方法.生态学报，2004，24(5)：1055-1062.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[39］吴健生，张理卿，彭建，冯喆，刘洪萌，赫胜彬.深圳市景观生态安全格局源地综合识别.生态学报,2013，33（13）：425-4133.  \n[40］李晖，易娜，姚文璟，王思琪，李志英，杨树华.基于景观安全格局的香格里拉县生态用地规划.生态学报，2011,31（20)：5928-5936.  \n[41] 李咏红，香宝，袁兴中，刘孝富.区域尺度景观生态安全格局构建——以成渝经济区为例.草地学报，2013,21(1)：18-24.  \n[42] 俞孔坚,李海龙，李迪华，乔青，奚雪松.国土尺度生态安全格局.生态学报，2009,29(10)：5163-5175.  \n[43] 方淑波，肖笃宁，安树青.基于土地利用分析的兰州市城市区域生态安全格局研究.应用生态学报，2005，16(12)：2284-2290.  \n[44] Yu K J. Securitypaternsandsurface model inlandscapeecological planing.LandscapeandUrbanPlanning，1996,36(1):1-17.  \n[45] 孙贤斌，刘红玉.基于生态功能评价的湿地景观格局优化及其效应——以江苏盐城海滨湿地为例.生态学报，2010,30（5)：1157-1166.  \n[46] KlarN,Herran,Heg-Han,otDrferB,HoferHKramer-chadtS.tweeeolgicaltoydplaingractice（e)conecting forestpatches for thewildcatinLower Saxony，Germany.Landscape and Urban Planning，2012，105(4)：376-384.  \n[47] 邹建国.景观生态学格局、过程、尺度和等级(第二版).北京：高等教育出版社，2007.  \n[48] 刘常富，李京泽，李小马，何兴元，陈玮.基于模拟景观的城市森林景观格局指数选取.应用生态学报，2009，20（5)：1125-1131.  \n[49] 张玲玲，史云飞，刘玉华.空间粒度变化对沂蒙山区景观格局指数的影响.生态学杂志，2013,32（2)：459-464.  \n[50] Shannon CE，Weaver W.The Mathematical Theory of Communication.Urbana：Universityof Ilinois Press，1971.  \n[51] Mandelbrot B B.The Fractal Geometry of Nature.New York：W.H.Freeman and Company，1983：1-460.  \n[52] O'NellR V,KrumelJR,GarderRH,Sugiara G,JacksonB,DeAngelisDL,MilneBT,urnerMG,ZygmuntB,ChristensenSW,DaleV H,Graham R L.Indices of landscape patern. Landscape Ecology，1988,1(3）：153-162.  \n[53]He H S,DeZonia B E,Mladenoff D J.Anaggregation index （AI）to quantify spatial paterns of landscape scape Ecology，2000，15（7）:591-601.  \n[54]Schumaker N H. Using landscape indices to predict habitat connectivity.Ecology，1996,77(4):1210-1225.  \n[55] WithKA，ngssalssoctala：efitsa999.  \n[56] Jaeger JA G.Landscape division，splitting index，and effctive mesh size：new n suresof landscape fragmentation.Landscapeand UrbanPlanning，2000,15(2）：115-130.  \n[57］陈春娣，吴胜军，Douglas MC，吕明权，温兆飞，姜毅，陈吉龙.阻力赋值对景观连接模拟的影响.生态学报，2015,35（22）：7367-7376.  \n[58]Kindlmann P,Burel F. Connectivity measures: a review.Landscape Ecology，2008,23（8）: 879-890.  \n[59] Kong FH,Yin HW,Nakagoshi N, Zong YG. Urban green Spa ce network developmentforbiodiversityconservation:identificationbasedongraphtheory and gravity modeling.Landscape and Urban Planning，2010,95(1/2）: 16-27.  \n[60] ZelerKA,cGargalK，ieley.tatiglseaesiacetoveent:i.LascaeEolg,)797.  \n61]LaitaAKtiaeciesu：atollbooideo6(7) : 951-967.  \n[62]Beierjarrksdsoedufoigidlagseti836-851.  \n[63]MRaeBH,DicksoBG，KeithahV.Usinrittorytoodelcoctityineologvolutiondcoservatioolg，2008,89(10): 2712-2724.  \n[64]TheobaldDoanJLerbueM.Funov;FuctioalCoctivityolsfrArGSv9.ColordoState：NaturalResoueEolyLab， Colorado State [ rsity，2006.  \n[65]BeierPencerWBaldnRF,ReBH.TowardbestsiencepraticsfordevelopigeioaloctivityaConservatioolog，2011, 25(5) : 879-892.  \n[66] SauraS,Pascual-HortalL.Anewhabitatavalabilityindex tointegrateconnectivityinlandscap onservation planning：comparison with existingindices and application to a case study. Landscape and Urban Planning，2007,83(2/3）: 91-103.  \n67]SuraSubffeaildilandscape.Ecography，2010,33(3）：523-537.  \n68]Foeteedeleaedeloaotaldel38: 316-327.  \n[69]LandguthEL，HandBK,GlassJ，CushanA,awaya MA.UCOR：aspeciescoectityandcordrnetworksimlaoogaph，2012,35(1) : 9-14.  \n[70]CushaSnduthEFathrCEvauatigouatiotivifospsofoseatieincGBiodiversity and Conservation，2013,22(11）：2583-2605.  \n[71］刘军.整体网分析讲义—UCINET软件实用指南.上海：上海人民出版社，2009：98-107.  \n[72]吴未，张敏，许丽萍，欧名豪.基于不同网络构建方法的生境网络优化研究——以苏锡常地区白鹭为例.生态学报，2016，36（3)：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "044-0J5.[73]GobatFeloo,uroG,Leo,acoR.Aproceurefathaticalalyisofdscaeoutidlbioassessment.Landscape and Urban Planning，2011，103(3/4）：289-302.[74]KilanT，KizianSB.Bokreview：theiseoftenetworksociety-theinformationage：coomy，society，andculture.CoteoayEducational Technology，2016，7(3）：277-280.[75]RogersCbachdeplnturatipatisfortsatialsatchsisoualofUbnEoocs，994（109- 132.[76]MarullJalosiolUrban Planning，2005，71(2/4）：243-262.[77]LevinN,aa,aonUeler,yGoarA，SagiYadscapeontiuitalysis；narochtonseatioaginIsrael.Landscape and Urban Planning，2007,79(1）： 53-64.[78]ParkerK，HdL，ishLeneleyoceptualodofolgcaloctiyinelourLcaGoveeaeSouth Wales，Australia.Landscape and Urban Planning，20o8,86(1）：47-59.[79] 顾朝林，赵晓斌.中国区域开发模式的选择.地理研究，1995，14(4)：8-22.[80] 姚士谋，Chang W，朱振国.中国特色的城市化问题.长江流域资源与环境，2001，10(5）：401-406.[81] 胡序威.有关城市化与城镇体系规划的若干思考.城市规划，2000，24（1)：16-20.[82] 杨志峰.城市生态可持续发展规划.北京：科学出版社，2004：166-169.[83] 武剑锋，曾辉，刘雅琴.深圳地区景观生态连接度评估.生态学报，2008，28(4)：1691-1701.[84] 孔繁花，尹海伟.济南城市绿地生态网络构建.生态学报，2008，28(4)：1711-1719.[85] 熊春妮，魏虹，兰明娟.重庆市都市区绿地景观的连通性.生态学报，2008，28（5)：2237-2244.[86] 许峰，尹海伟，孔繁花，徐建刚.基于MSPA与最小路径方法的巴中西部新城生态网络构建.生态学报，2015，35（19)：6425-6434.[87] 王海珍，张利权.基于GIS、景观格局和网络分析法的厦门本岛生态网络规划.植物生态学报，2005,29(1)：144-152.[88] TocoliniA,FuragalliN,SenesG.GrenwaysplainginIalyheLmbroiverVallegrenwassystm.LandscapendUrbanlaing，2006，76(1/4):98-111.[89] 朱强，刘海龙.绿色通道规划研究进展评述.城市问题，2006，（5)：11-16.[90]LiuSL,DengL,DongSK,ZhaoQH,YangJJ，WangC.LandscapecoetivitydynamicsbasedonnetworkanalysisintheXisuanbannaNature Reserve,China. Acta Oecologica,2014,55:66-77.[91］富伟，刘世梁，崔保山，张兆苓.基于景观格局与过程的云南省典型地区道路网络生态效应.应用生态学报，2009,20（8）：1925-1931.[92] 陈爽，王进，詹志勇.生态景观与城市形态整合研究.地理科学进展，2004，23(5)：67-77.[93] VincentP.From theory into practice;a cautionary tale of island biogeography.Area，1981,13(2）：115-118.[94]UezuA,eieldtsofidcoftspecies.Biological Conservation,2005，123(4）:507-519.[95]MnkelJKompesaoepesatosiegatiopatosfoeaprsisilandscapes. Ecological Modeling，2006,197(1/2）：171-178.[96]ellatidesitseialldgeddoldcantsss（Fabaceae）. Biological Conservation，2008，141(4）:938-955.[97] 姜广顺，张明海，马建章.黑龙江省完达山地区马鹿生境破碎化及其影响因子.生态学报，2005，25（7）：1691-1698.[98] 朱丽娟，刘红玉.挠力河流域丹顶鹤繁殖期生境景观连接度分析.生态与农村环境学报，2008，24（2)：12-16,83-83.「00]固索 钟林牛刘宏明康承财孙雪刚由国国宏公园休玄构建卞法研空 以白然保区为例咨源科学201639/4）577 587",
+        "page_idx": 9
+    }
+]

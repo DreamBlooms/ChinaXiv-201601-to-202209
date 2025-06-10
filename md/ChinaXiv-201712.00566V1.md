@@ -1,0 +1,162 @@
+# 综述
+
+# IgG4相关性疾病的诊疗进展
+
+盛正和广西柳州市医院中医科，广西 柳州 545006
+
+摘要:IgG4相关性疾病是一种与IgG4淋巴细胞密切相关的慢性、系统性疾病，该类疾病以血清IgG4水平升高以及IgG4阳性细胞浸润多种器官和组织为特征，病理学改变呈现为席纹状纤维化，累及的器官或组织由于慢性炎症及纤维化进程可导致弥漫性肿大，常见受累器官包括泪腺、胰腺和腹膜后间隙等。该类疾病对皮质激素治疗反应良好。文中我们回顾了IgG4 相关性疾病前阶段的诊断标准，并补充不常见受累器官的国际诊断标准，更新各个诊断标准的国际共识，认为免疫抑制剂、生物制剂将成为治疗的新进展。
+
+关键词：IgG4相关性疾病；诊断；治疗；进展
+
+# Progress in diagnosis and treatment of IgG4-related disease
+
+SHENG Zhenghe DepartmentofTraditional ChineseMedicine,LiuzhouPeople'sHospital,Liuzhou 545o06,China
+
+Abstract: IgG4-related diseaseisakindofchronicandsystemicdiseasewhich ischaracterized byincreasedserumlevelof IgG4andabundant IgG4-bearingplasmacell infiltration,storiform fibrosis pathological features inthe involvedorgans. Affected organs or tissues may show a difuse swellng as aresultofchronic inflammatory process，acompanied with progressivefibrosis.The mostcommonly involved organs ortissues include thesalivary glands,pancreas,and retroperitoneal space and soon.A good response to glucocorticoidtreatment.Inthis article,wereviewed before stage diagnostic standards about IgG4-relateddisease,addinternationaldiagnosticstandardsofuncommonafectedorgans,updatediagnosticstandards ofinternationalconsensus,thinktheimmune inhibitors andbiologicalagents willbecome thenew progressof treatment.
+
+Key words: IgG4-related disease; diagnosis; treatment; progress
+
+IgG4相关性疾病(IgG4-RD)是近10年来新发现的一种纤维炎症性疾病，它可累及全身多个器官、组织损伤的自身免疫性疾病。其特点为大量富含IgG4阳性$\left( \mathrm { I g } \mathrm { G } 4 + \right)$ 浆细胞的淋巴浆细胞浸润、席纹状纤维化及闭塞性静脉炎，常常伴有血清IgG4水平升高，对糖皮质激素治疗敏感，易复发。
+
+1995年由Yoshida等首先提出自身免疫性胰腺炎(AIP)，认为与自身免疫性因素相关。学者们陆续在AIP患者胰腺、胆道、肝门脉区等组织器官里发现 $\scriptstyle { \mathrm { I g G 4 + } }$ 浆细胞，并提出AIP是一种伴有胰腺损害的系统性疾病，随后更多地报道了IgG4的相关疾病。2003年由日本学者Kamisawa首次将其命名为IgG4-RD[2]。2010年日本研究组将该病统一命名为 $\mathrm { I g } \mathrm { G } 4 { \mathrm { - R D } } ^ { [ 3 ] }$ 。在2011年IgG4-RD的国际研讨会各国专家共识,决定将该病正式命名[4]。
+
+# 1 流行病学
+
+由于人们对IgG4-RD的认识较少，缺乏多中心、大样本的流行病学调查，其地域、种族的发病率尚不明确，相关研究限基于AIP，以日本、韩国居多。最近日本研究显示，IgG4-RD的发病人群多为老年男性，平均发病年龄为58.8岁，男女比例为1:0.77,每十万人中发病率为 $0 . 2 8 { \sim } 1 . 0 8$ ，日本的过去20年内约有6700\~26000人确诊患此病[5-6]。
+
+# 2发病机制
+
+IgG4-RD的发病机制尚未明确，目前研究中发现IgG4-RD的发病与自身免疫触发的Th2细胞介导的免疫应答有关。自身免疫和传染因子是IgG4-RD潜在的免疫触发。研究表明，从患者及Th2细胞因子中收集到外周血单核细胞，说明外周血中T细胞也向Th2细胞因子转换[8-9]。Th2细胞因子使IL-4、5、10和13和TGF- $\cdot \beta$ 在免疫反应中过度表达，并调节性Treg细胞的活化,,这些细胞因子使嗜酸粒细胞增多， $\mathrm { I g G 4 }$ 和IgE的水平升高及进行性纤维化，均为IgG4-RD的特点，也与Th2细胞因子介导有关[10-1]。另一种免疫特征为调节性Treg细胞的活化。外周血和受累细胞中 $\mathrm { C D 3 + \sqrt { \Omega } \Omega \mathrm { 5 + \sqrt { \Omega } \mathrm { F o x p } } }$ 3使Treg细胞增多，与Th2细胞产生的IL-10向IgG4类型转换,调节TGF-β的表达上调,促使纤维化形成[12]。更多有关IgG4的发病机制还有待进一步的研究。
+
+# 3临床特点
+
+IgG4-RD多见于老年男性，可累计多个组织和器官，受累器官可包括胰腺、胆囊、泪腺及唾液腺、腹膜后纤维化、垂体、肺脏及肾脏等,并且眼眶、肺、乳腺等组织器官更易发生炎性假性肿瘤。早期无特殊临床表现，可表现为发热、乏力等症状，主要为局部肿胀和受累器官的功能障碍。IgG4-RD通常表现为多个器官受损，也可表现单一的组织或器官受损[13]。部分严重患者可出现器官肿大，阻塞及压迫症状[6.14]。
+
+# 3.1胰腺
+
+胰腺是IgG4-RD最常受累的器官，常被称为AIP。该病起病隐匿，常可出现无痛性梗阻性黄疸，呈波动性加重[14],常伴有胰腺外、内分泌功能损伤而出现糖耐量受损甚至糖尿病，AIP患者中糖尿病的发病率高达$5 1 . 6 \% ^ { [ 1 5 ] }$ 。实验室检查可见血清中 $\mathrm { I g G 4 }$ 升高、高球蛋白血症或自身抗体 $( + )$ ;影像学检查中B超或CT下胰腺实质弥漫性增大，呈腊肠样改变；MRI可见主胰管不规则狭窄，胰腺弥漫性或局灶性肿大,病理活检示胰腺大量浆细胞浸润,组织间隙纤维化，腺泡萎缩，严重时可损伤腹膜后组织[16]。目前AIP分为1型LPSP和2型IDCP,即1型为IgG4-RD的胰腺损害，病理特点是淋巴浆细胞性硬化性胰腺炎，表现为胰腺及胰腺外器官大量富含IgG4+浆细胞的淋巴浆细胞浸润，呈纤维化;2型为局限性的胰腺损伤，病例特点为特发性导管中心性胰腺炎，表现为粒细胞性上皮损害[17];1型较2型更常见,目前2型在亚洲人群中较少见，多出现在欧美国家，2型较1型的人群更年轻。
+
+# 3.2胆管
+
+IgG4相关性胆管炎(IgG4-SC)常与AIP同时发生，主要表现为阻塞性黄疸[18-19],常伴有消瘦、发热、轻度腹部不适等症状，实验室检查可出现肝功能转氨酶异常和血清IgG4水平升高[20-21],胆汁中也查出IgG4含量升高可能也可作为IgG4-SC的新的诊断指标,用于鉴别原发性硬化性胆管炎[22]。影像学中，胆管胰腺造影可显示IgG4-SC患者肝内胆管的弥漫性或局限性狭窄2%，肝活检组织学可见肝门管区淋巴浆细胞浸润、纤维化和闭塞性静脉炎，胆囊壁可见淋巴细胞呈回旋状或席纹状[23-24]。治疗上对糖皮质激素敏感。
+
+# 3.3泪腺及唾液腺
+
+Mikulicz病(MD)是IgG4-RD累及到泪腺及唾液腺的一种疾病。表现为两个以上的泪腺和大唾液腺对称性和持久性的肿胀，口干眼干症状少见;血清中可见IgG4水平显著升高，SSA、SSB抗体(-),少数可见抗核抗体 $( + )$ ;影像学中患者的泪腺或腮腺明显对称性肿胀;病理学中可在泪腺和唾液腺中发现大量IgG4浆细胞浸润，及相应组织的纤维化，并且糖皮质激素治疗有效[25]
+
+# 3.4腹膜后纤维化
+
+腹膜后纤维化(RPF)是慢性主动脉周围炎的一部分，临床上可分为特发性和继发性。IgG4相关性腹膜后纤维化是特发性RPF的一个亚型。早期临床表现不明显，随后可出现腰背及下腹疼痛，输尿管梗阻、肾盂积水、双下肢水肿，病情严重时还可出现肾功能不全。实验室检测中血清仍有IgG4的明显增高2，以及红细胞沉降率、C反应蛋白的升高，部分出现肾功能不全，而凝血功能、D-二聚体多在正常范围内，有部分患者可见自身抗体阳性，其他相应系统性自身免疫疾病的诊断依据缺乏；影像学表现CT可见脊柱两侧对称性的软组织肿胀，B超可见肾积水，但下肢血管未见血栓形成;病理活检表现为弥漫的淋巴浆细胞浸润 $\mathrm { \cdot } \mathrm { I g } \mathrm { G } 4$ 阳性浆细胞 ${ > } 1 0$ 个/高倍镜视野、闭塞性静脉炎及席纹状改变，糖皮质激素治疗反应良好,但易复发[27-30]
+
+# 3.5肾脏
+
+当IgG4-RD合并有肾脏损害，表现为肾脏及周围器官组织病变时，称其为IgG4相关肾病(IgG4-RKD)，也称为IgG4相关肾小管间质性肾炎(IgG4-TIN）。IgG4-RKD多见于老年男性，临床特点可见伴肾脏外的器官损伤，累及多个器官组织。实验室指标可见尿常规的异常，多见尿蛋白及尿β2微球蛋白升高，偶有镜下血尿，肾功能肌酐升高， $\mathrm { I g G , I g G 4 , I g E }$ 指标升高，补体降低,也有报道称抗核抗体阳性和类风湿因子升高[31-32];影像学表现多见于双肾呈类圆形、楔形低密度损害，可累及肾被膜,还可见双侧肾脏肿大、单侧肾脏肿瘤及肾盂壁肥厚[33-34];病理活检主要特点为光镜下弥漫或片状淋巴细胞、浆细胞浸润,伴特征性纤维化,呈"鸟眼"征，电镜下大多数可见肾小管基底膜有免疫复合物的沉积，免疫荧光示为 $\mathrm { I g G } , \mathrm { C } 3 , \kappa , \lambda$ 呈颗粒样沉积[35]
+
+# $3 . 6 \ \mathrm { I g G } 4$ 相关其他脏器受累
+
+IgG4-RD还可累及垂体(垂体炎）、甲状腺(Riedel甲状腺炎）肺脏(间质性肺炎）淋巴结(淋巴滤泡增生）、主动脉(炎症性腹主动脉瘤）、前列腺(前列腺炎)等，IgG4-RD的临床表现各不相同,但相关检查、组织病理学却表现相似，该病的研究还处于初级阶段，故其发病机制仍不明确。
+
+# 4IgG4-RD的诊断标准
+
+# 4.1 综合诊断
+
+由于IgG4-RD累及多个器官组织,临床表现不一，日本学者[在2011年提出了IgG4-RD的综合诊断指南:(1)一个或多个器官出现典型的弥漫性或局限性的肿大或包块;(2)血清中 $\mathrm { I g G 4 }$ 水平升高 ${ \big ( } \geq 1 3 5 \mathrm { m g / d l } { \big ) }$ ；(3)病理学检查提示： $\textcircled{1}$ 大量的浆细胞和淋巴细胞浸润和纤维化； $\textcircled { 2 } \mathrm { I g } \mathrm { G } 4 +$ 浆细胞浸润， $\scriptstyle { \mathrm { I g G 4 + } }$ 浆细胞 $/ \mathrm { g } \mathrm { G } + .$ 浆细胞 $>$ $40 \%$ ，且 ${ > } 1 0$ 个 $\scriptstyle { \mathrm { I g G 4 + } }$ 浆细胞/HPF。明确诊断：满足 $( 1 ) +$ $( 2 ) \substack { + ( 3 ) }$ ；可能诊断：满足 $( 1 ) \substack { + ( 3 ) }$ ；疑似诊断： $( 1 ) \substack { + ( 2 ) }$ O
+
+在诊断之前，应排除病因如恶性肿瘤、干燥综合征、原发性硬化性胆管炎、Castleman病、特发性腹膜后纤维化、肉芽肿性多血管炎、嗜酸性肉芽肿性多血管炎及结节病等。
+
+# 4.2AIP的诊断标准
+
+欧美及亚洲对AIP的研究较多，均有各自的诊断标准，2002年日本首次提出AIP的诊断标准，随后韩国、美国的诊断标准也相继出现，2011年国际胰腺学会(ICDC)在各国研究的基础上进行整合，发布目前的国际诊断标准[36，明确诊断： $\textcircled { 1 } \mathrm { H } 1 { + } \mathrm { P } 1$ $\textcircled { 2 } \mathrm { H } 1 + \mathrm { P } 2$ $\textcircled { 3 } \textcircled { \times } 1 +$ $\mathrm { \Delta S 1 / O 1 / H 1 }$ · $1 + \mathrm { D 2 / S 2 / O 2 / H 2 } ; \textcircled { 5 } \mathrm { P 2 } + ( \mathrm { D 1 / S 1 / O 1 } ,$ /H1其中 ${ \geqslant } 2$ 项； $\mathrm { \textcircled { 6 } S 1 / O 1 + R \textcircled { 7 } D 1 + S 2 / O 2 / H 2 + R }$ 。可能诊断： $\mathrm { P } 2 \mathrm { + } \mathrm { S } 2 / \mathrm { O } 2 / \mathrm { H } 2 \mathrm { + } \mathrm { R } _ { \circ }$
+
+$4 . 3 \ \mathrm { \ I g G } 4 .$ -SC的诊断标准
+
+(1)美国肝病学会和欧洲肝病学会分别发布指南，2012年日本胆道协会工作组建立了新的诊断标准：明确诊断：(1)典型胆道成像表现为弥漫性或部分胆道狭窄，并与胆道壁增厚相关;(2)血清IgG4浓度的增高( $\geqslant$ $1 3 5 \mathrm { m g / d l } ,$ ;(3)共存于自身免疫性胰腺炎 $\mathrm { { , I g G 4 } }$ 相关泪腺炎/涎腺炎，或IgG4-SC相关的腹膜后纤维化；(4)组织病理学检测显示：大量的淋巴细胞和浆细胞浸润与纤维化； $\scriptstyle { \mathrm { I g G 4 + } }$ 浆细胞的浸润：( ${ \bf \zeta } > 1 0$ 个 $\scriptstyle { \mathrm { I g G 4 + } }$ 浆细胞/HPF)；席纹状纤维化；闭塞性静脉炎。选项：类固醇激素治疗有效。
+
+$\mathbf { ( 1 ) + ( 3 ) } : ( 1 ) + ( 2 ) + ( 4 ) \mathbf { a + b } : ( 4 ) \mathbf { a + b + c } : ( 4 ) \mathbf { a + b + d }$ 可能诊断： $( 1 ) \substack { + ( 2 ) + 1 }$ （类固醇激素治疗有效);疑似诊断：${ \bf \Pi } ( 1 ) + ( 2 )$ 。同时必须排除原发性胆管炎、恶性疾病引起的继发性胆管炎。
+
+# $4 . 4 ~ \mathrm { { I g G 4 } }$ 相关性Mikulicz病(MD)的诊断标准
+
+2008年日本干燥综合征学会命名并发布了 $\mathrm { I g G 4 }$ 相关性Mikulicz病的诊断标准38并一直沿用至今，明确诊断： $( 1 ) \substack { + ( 2 ) }$ 或者 $( 1 ) \substack { + ( 3 ) }$ ;同时必须排除结节病、Cas-tleman病、慢性肉芽肿性血管炎、恶性肿瘤(表1)。
+
+表12008年日本干燥综合征学会 $\mathrm { I g G 4 }$ 相关性MD的诊断标准  
+
+<html><body><table><tr><td>(1)泪腺、腮腺及颌下腺中腺体对称性肿大(≥2对腺体,≥3个月);血清IgG4浓度的增高(≥135 mg/dl);</td></tr><tr><td>并且</td></tr><tr><td>(2)血清中IgG4≥135mg/dl;</td></tr><tr><td>或者</td></tr><tr><td>(3)组织病理学检测显示：组织学显示大量淋巴细胞和浆细胞浸润与纤维化(IgG4+浆细胞/IgG+浆细胞>50%)。</td></tr></table></body></html>
+
+# $4 . 5 \ \mathrm { \ p G { 4 } }$ 相关性腹膜后纤维化(RPF)的诊断标准
+
+由于IgG4-RD的研究起步较晚，RPF发病率较低，缺乏更广泛的研究，因此还未制定统一的诊断标准，但综合相关检查可提高IgG4相关性RPF的诊断。血清IgG4水平的增高可提示IgG4-RD,但单一的指标不足以作为诊断或排除该病的标准[26。CT及MRI对诊断该病有很大的帮助，CT检查可提示有肾动脉和骶动脉被主动脉周围纤维斑块包绕,MRI中T1与T2图象信号强弱可区分腹膜后硬化斑块与肌肉脂肪组织的差异。组织病理学检查是IgG4-RD相关性RPF最有价值的诊断依据，典型表现为大量淋巴细胞和浆细胞浸润与纤维化
+
+1 $\scriptstyle \mathrm { { I g G 4 + } }$ 浆细胞 $/ \mathrm { { I g } \mathrm { { G } + } }$ 浆细胞 $54 0 \%$ )，席纹纤维化和闭塞性静脉炎，可与恶性病变、感染性疾病和其他病变相鉴别。尽管组织病理学在诊断中其至关重要的作用，但IgG4+浆细胞仍不能作为IgG4-RD的唯一标准，必须结合临床血清和影像学检查来综合评估[28]。
+
+# 4.6IgG4-RKD的诊断标准
+
+现国际上尚未统一IgG4-RKD的诊断标准，主要是美国[39]和日本[31-32]对该病提出了诊断标准，明确诊断标准： $( 1 ) + ( 3 ) / ( 4 ) / ( 5 )$ ;而(2)作为支持诊断(表2)。明确诊断标准： ${ } ; ( 1 ) + ( 3 ) + ( 4 ) \textcircled { 1 } \textcircled { 2 } , ( 2 ) + ( 3 ) + ( 4 ) \textcircled { 1 } \textcircled { 2 } , ( 2 ) +$ $( 3 ) \substack { + ( 5 ) , ( 1 ) \substack { + ( 3 ) + ( 4 ) ( \mathbb { D } ) + ( 5 ) } }$
+
+# 表22011年美国学者的诊断标准
+
+<html><body><table><tr><td>（1)肾小管间质内可见大量的IgG+浆细胞浸润，IgG4+浆细胞数量>10个/HPF; (2)肾小管基底膜增厚,在电镜、免疫组化或免疫荧光下可见免疫复合物的沉积;</td></tr><tr><td></td></tr><tr><td>(3)影像学可见双肾皮质区可见小灶性、楔形或弥漫性低密度影，甚则累及整个肾脏; (4)血清中IgG4或IgG水平增高；</td></tr><tr><td>(5)其他脏器受累，如AIP、SC、唾液腺炎、大动脉炎、RPF或炎性假瘤。</td></tr></table></body></html>
+
+可能诊断： $( 1 ) + ( 4 ) \textcircled { 1 } \textcircled { 2 } , ( 2 ) + ( 4 ) \textcircled { 1 } \textcircled { 2 } , ( 2 ) + ( 5 ) ,$ (4） $\textcircled{1}$ （表3）(3)+(4);疑似诊断： $\left( 1 \right) + \left( 3 \right) , \left( 2 \right) + \left( 3 \right) , \left( 1 \right) + \left( 4 \right) \mathbb { O } , \left( 2 \right) +$
+
+# 表32011年日本学者也提出建议诊断标准
+
+(1)肾功能异常伴有IgG升高，或补体降低，或IgE水平升高;  
+(2)影像学中，增强CT可见低密度灶,弥漫性肿大、单发性肾肿瘤、肾盂表明的增厚;  
+(3)血清中 $\mathrm { I g G 4 } { \geq } 1 3 5 \ \mathrm { m g / d l }$   
+(4)肾脏组织学显示$\textcircled{1}$ IgG $^ { . 4 + }$ 浆细胞 $/ \mathrm { I g } \mathrm { G } ^ { + }$ 浆细胞比 ${ \geqslant } 4 0 \%$ 或 $\mathrm { I g G 4 + }$ 浆细胞 $_ { > 1 0 }$ 个/HP$\textcircled{2}$ 淋巴细胞和浆细胞浸润区有席纹装纤维化改变；  
+(5)肾外组织学检查显示浆细胞密集区 $\mathrm { { I g G 4 + } }$ 细胞 ${ > } 1 0$ 个/HPF， $\mathrm { I g G 4 + / I g G ^ { + } }$ 浆细胞 ${ > } 4 0 \% _ { \circ }$
+
+# 5治疗
+
+目前IgG4-RD的治疗尚无统一的标准，但此类病人对糖皮质激素反应敏感。2010年日本AIP指南中推荐糖皮质激素为一线药物。目前关于IgG4-RD的治疗研究比较局限，大多数研究都是在AIP的基础上进行的，均为回顾性研究。有研究显示应用糖皮质激素治疗AIP可缓解病情，但停用后可能复发。日本指南提出了糖皮质激素治疗AIP的适应症：梗阻性黄疸、腹痛、后背痛等，也有部分IgG4-RD不需要积极治疗。用法：初始诱导计量为 $0 . 6 \ \mathrm { m g \cdot k g ^ { - 1 } \cdot d ^ { - 1 } }$ ,使用2\~4周后依据临床症状、血清学、影像学检查，若病情稳定减量1\~2周，减至$2 . 5 { \sim } 5 \ \mathrm { m g / d }$ 维持3年[40],但需注意治疗期间出现的并发症，如感染、糖尿病、骨质疏松症。大部分患者激素治疗近2周后，症状、实验室检查、影像学等可有改善；若患者等对于激素治疗无效或效果不明显的患者，有研究报道可联用免疫抑制剂[41-42],其可明显改善IgG4-SC的炎性活动度，如硫唑嘌呤、霉酚酸酯及环磷酰胺，以缓慢减少激素用量得以长时间维持;对于复发患者，联合用激素和免疫抑制剂治疗效果更佳；对于反反复复的患者可利妥昔单抗治疗，并且有研究显示利妥昔单抗对激素不耐受和免疫抑制剂抵抗的患者治疗均有效果[40.43]。也有关于硼替佐米治疗IgG4肺部疾病与眼部炎性假瘤的临床报道[445],但例数较少,有关有效性及安全性尚不明确。
+
+IgG4近年来逐渐被人们关注，对该病的认识和研究也有所提高和深入，但对该病的发病机制尚不清楚，对部分诊断及治疗也缺乏指南标准，需要大样本的临床及实验研究进一步完善证实，明确诊断及治疗。
+
+# 参考文献：
+
+[1]Yoshida K,TokiF,Takeuchi T,et al. Chronic pancreatitis caused by anautoimmune abnormality. Proposal of the conceptof autoimmune pancreatitis[J].Dig Dis Sci, 1995,40(7):1561-8.
+
+[2]Kamisawa T,Funata N,Hayashi Y,et al.A new clinicopathological entity of IgG4-related autoimmune disease [J].J Gastroenterol, 2003,38(10): 982-4.   
+[3] Takahashi H, Yamamoto M, Suzuki CA,et al. The birthday of a new syndrome: IgG4-related diseases constitute a clinical entity [J]. Autoimmun Rev,2010,9(9,SI): 591-4.   
+[4] Stone JH, Khosroshahi A, Deshpande V,et al. Recommendations for the nomenclature of IgG4-related disease and its individual organ system manifestations[J].Arthritis Rheum,2012,64(10): 3061-7.   
+[5]Uchida K,Masamune A,Shimosegawa T,et al. Prevalence of IgG4-Related disease in Japan based on nationwide survey in 2009 [J].Int JRheumatol, 2012(4): 358-71.   
+[6]Umehara H, Okazaki K,Masaki Y,et al.A novel clinical entity, IgG4-related disease (IgG4RD):general concept and details [J]. Mod Rheumatol, 2012,22(1): 1-14.   
+[7] Zen Y,Fuji T,Harada K,etal. Th2 and regulatory immune reactions are increased in immunoglobin G4-related sclerosing pancreatitis and cholangitis[J].Hepatology,2007,45(6): 1538-46.   
+[8]Miyake K,Moriyama M,Aizawa K,et al. Peripheral $\mathrm { C D 4 + T }$ cells showing a Th2 phenotype in a patient with Mikulicz's disease associated with lymphadenopathy and pleural effusion [J].Mod Rheumatol,2008,18(1): 86-90.   
+[9]Kudo-Tanaka E,Nakatsuka S,Hirano T, et al.A case of Mikulicz's diseasewithTh2-biasedcytokineprofile:possiblefeature discriminable from Sjogren's syndrome[J].Mod Rheumatol,2009, 19(8): 691-705.   
+[10] Kanari H, Kagami S, Kashiwakuma D,et al. Role of Th2 cells in IgG4-related lacrimal gland enlargement [J]. Int Arch Allergy Immunol,2010,152(Suppl 1): 47-53.   
+[11]Kamisawa T, Anjiki H, Egawa N, et al. Allergic manifestations in autoimmune pancreatitis[J]. Eur J Gastroenterol Hepatol, 2009,21 (10): 1136-9.   
+[12]Detlefsen S, Sipos B,Zhao J,et al. Autoimmune pancreatitis: expression and cellular source of profibrotic cytokines and their receptors[J].Am J Surg Pathol, 2008,32(7): 986-95.   
+[13]Okazaki K,Uchida K, Ikeura T,et al. Current concept and diagnosis of IgG4-related disease in the hepato-bilio-pancreatic system[J]. JGastroenterol,2013,48(3): 303-14.   
+[14]Finkelberg DL,Sahani D,Deshpande V,et al. Autoimmune pancreatitis[J]. N Engl JMed,2006,355(25): 2670-6.   
+[15] Okazaki K,Kawa S,Kamisawa TA,et al.Japanese consensus guidelines for management of autoimmune pancreatitis: I. Concept and diagnosis of autoimmune pancreatitis[J]. JGastroenterol, 2010, 45(3): 249-65.   
+[16]吴庆军,陈 华,林 玮.IgG4相关性自身免疫性胰腺炎的临床研究 [J].中华风湿病学杂志,2012,16(12):798-803.   
+[17] Chari ST, Kloeppel G, Zhang L,et al. Histopathologic and clinical subtypes of autoimmune pancreatitis: the Honolulu consensus document[J].Pancreas,2010,39(5): 549-54.   
+[18]Ghazale A,Chari ST, Zhang L，et al. Immunoglobulin G4-associated cholangitis:clinical profile and response to therapy [J]. Gastroenterology,2008,134(9): 706-15.   
+[19]Nakazawa T,Ando T, Hayashi K,et al. Diagnostic procedures for IgG4-related sclerosing cholangitis［J].JHepatobiliary Pancreat Sci,2011,18(5): 127-36.   
+[20]Maillette DL.Rauws EA,beuers U.what an endoscopist should know about immunoglobulin-G4-associated disease of the pancreas and biliary tree[J].Endoscopy,2012,44(1): 66-73.   
+[21] Zen Y,Nakanuma Y. IgG4 cholangiopathy[J]. Int JHepatol,2012 (7): 472376-8.   
+[22] Vosskuhl K, Negm AA,Framke T, et al. Measurement of IgG4 in bile:a new approach for the diagnosisof IgG4-associated cholangiopathy[J].Endoscopy,2012,44(1): 48-52.   
+[23] Zen Y, Nakanuma Y. IgG4-related disease: a cross-sectional study of 114 cases[J].Am J Surg Pathol,2010,34(12): 1812-9.   
+[24] Smyrk TC.Pathological features of IgG4-related sclerosing disease [J]. Curr Opin Rheumatol,2011,23(1): 74-9.   
+[25] Yamamoto M, Takahashi H, Ohara M,et al.A new conceptualization for Mikulicz's disease as an IgG4-related plasmacytic disease [J]. Mod Rheumatol,2006,16(6): 335-40.   
+[26]Morselli-Labate AM, Pezilli R. Usefulness of serum IgG4 in the diagnosis and follow up of autoimmune pancreatitis:A systematic literature review and meta-analysis[J].J Gastroenterol Hepatol, 2009,24(1): 15-36.   
+[27] Corradi D,Maestri R,Palmisano A,et al. Idiopathic retroperitoneal fibrosis:clinicopathologic features and differential diagnosis [J]. Kidney Int,2007,72(6): 742-53.   
+[28] Zen Y,Kasashima S,Inoue D.Retroperitoneal and aortic manifestations of immunoglobulin G4-related disease［J]． Semin Diagn Pathol,2012,29(4): 212-8.   
+[29] Zen Y,Onodera M, Inoue D,et al. Retroperitoneal fibrosis:a clinicopathologic tudy with respect to immunoglobulin G4[J].Am J Surg Pathol,2009,33(12): 1833-9.   
+[30]Nishimura M, Kamisawa T, Kitahara Y,et al. Improvement of a compressed inferior vena cava due to IgG4-related retroperitoneal fibrosis with steroid therapy[J].Intern Med,2012,51(13): 1705-7.   
+[31]Kawano M, Saeki T,Nakashima H,et al.Proposal for diagnostic criteria for IgG4-related kidney disease[J].Clin Exp Nephrol, 2011, 15(5): 615-26.   
+[32]川野充弘.佐伯敬子,中島衡.IgG4闋連腎藏病诊療指針[J].日腎会 ,2011,53(8): 1062-73.   
+[33] Takahashi N,Kawashima A,Fletcher JG,et al. Renal involvement in patients with autoimmune pancreatitis: CT and Mr imaging findings[J]. Radiology,2007,242(3): 791-801.   
+[34] Triantopoulou C,Malachias G,Maniatis P,et al. Renal lesions associated with autoimmune pancreatitis:CT findings [J].Acta radiol,2010,51(6): 702-7.   
+[35] Shoji S,Nakano M, Usui Y. IgG4-related infl ammatory pseudotumor of the kidney[J]. Int J Urol,2010,17(4):389-90.   
+[36] Shimosegawa T, Chari ST,Frulloni L,etal. International consensus diagnostic criteria for autoimmune pancreatitis:guidelines of the International Association of Pancreatology[J].Pancreas,2011,40 (3): 352-8.   
+[37] Ohara H,Okazaki K,Tsubouchi H,et al.Clinical diagnostic criteriaofIgG4-relatesclerosingcholangitis2012 [J].J Heoatobiliary Pancreat Sci,2012,19(5): 536-42.   
+[38]Masaki Y, Sugai S,Umehara H. IgG4-related Diseases Including Mikulicz's Disease and Sclerosing Pancreatitis:Diagnostic Insights [J].JRheumatol,2010,37(7): 1380-5.   
+[39]Raissian Y, Nasr SH,Larsen CP,et al. Diagnosis of IgG4-Related tubulointerstitial nephritis [J].J Am Soc Nephrol,2011,22(7): 1343-52.   
+[40] Kamisawa T, Okazaki K, Kawa SA,et al. Japanese consensus guidelines for management of autoimmune pancreatitis: III. Treatment and prognosis of AIP[J]. J Gastroenterol,2010,45(5): 471-7.   
+[41]Hart PA,Topazian MD,Witzig TE, et al. Treatment of relapsing autoimmune pancreatitis with immunomodulators and rituximab: the Mayo Clinic experience[J]. Gut,2013,62(11): 1607-15.   
+[42]孙 玮,董凌莉,高荣芬,等.IgG4相关性疾病[J].中华风湿病学杂志, 2012, 16(12): 835-8.   
+[43] Khosroshahi A, Carruthers MN, Deshpande V,et al. Rituximab for the treatment of IgG4-related disease: lessons from 10 consecutive patients[J]. Medicine (Baltimore),2012,91(1): 57-66.   
+[44] Park do H, Kim MH,Oh HB,et al. Substitution of aspartic acid at position 57 of the DQbetal affects relapse of autoimmune pancreatitis[J]. Gastroenterology,2008,134(2): 440-6.   
+[45]Kamisawa T, Okamoto A, Wakabayashi T, et al. Appropriate steroid therapy for autoimmune pancreatitis based on long-term outcome [J]. Scand JGastroenterol,2008,43(5): 609-13.

@@ -1,0 +1,192 @@
+# TIEGCM集合卡尔曼滤波同化模型设计及初步试验
+
+张亚楠,2 吴小成' 胡雄'
+
+1（中国科学院国家空间科学中心北京100190)2（中国科学院大学北京 100049）
+
+摘要本文选择参数化的电离层热层理论模型TIEGCM作为背景模型，基于COSMIC掩星观测的电子密度廓线数据，应用集合卡尔曼滤波方法建立了全球电离层电子密度同化模型，实现了全球电离层的电子密度同化。同化结果表明，该同化模型能将观测资料有效地同化到背景模式中，获得全球三维电离层电子密度。与背景模式相比，同化得到的电子密度相对于观测值的偏差显著下降。此外，分组同化与同时同化的结果对比显示，平均偏差改善基本一致，同时同化后的标准偏差在峰值高度以上略有减小。
+
+关键词 电离层，数据同化，集合卡尔曼滤波，同时同化
+
+# TIEGCM Ensemble Kalman Filter assimilation model design and preliminary results
+
+ZHANG Ya'nan1, 2 WU Xiaochengl HU Xiong
+
+1（National Space Science Center，Chinese Academy of Sciences，Beijing 100190)
+
+2(University of Chinese Academy of Sciences,Beijing 100049)
+
+Abstract Parameterized ionosphere model TIEGCM is used as background model. Basing on the COSMIC observations, global ionospheric electron density assimilation model is established using ensemble Kalman filter. Result shows,this model can effectively assimilate observations into background model and acquire three dimensional ionospheric electron density. Compared to background, the error between analysisand observationsdecreasessignificantly.Theroot mean square error(RMSE) of $\mathrm { N m } \mathrm { F } 2$ decreases about $60 \%$ for observations assimilated,and $20 \%$ for observations not assimilated. The RMSE of hmF2 doesn't get improvement except for mean error.
+
+The results of simultaneous assimilation (SA) and batches assimilation (BA) are compared for this case. The time that the two methods spend in assimilation is about 6 to 7 minutes, which does not differ very much. SA needs nearly 8 GB storage while
+
+BA less than 2GB.The statistic of electron density error shows that they nearly acquire the same mean error, but the SA gets relative better improvement in RMSE above $2 5 0 \mathrm { k m }$
+
+Key words ionosphere, data assimilation, ensemble Kalman filter, simultaneous assimilation
+
+# 1引言
+
+电离层的电子密度分布可以影响导航、短波通讯系统等，以致影响人类活动。电离层受内部和外部驱动因素影响，随经度、纬度、高度、地方时、季节、太阳活动及地磁活动的变化而变化[]。由于观测缺乏足够的时空分辨率，仅通过观测难以监测电离层状态。
+
+电离层模式一直以来是进行电离层研究和预报的基本工具，包括经验模式和理论模式。经验模式基于大量的观测数据进行统计分析得来，可以较准确的进行中长期预报，很难进行准确的短期预报。理论模式基于物理方程进行建模，可以进行短期预报，但是由于理论模式不可能全面准确的考虑电离层里面的物理过程及扰动情况，再加上边界条件和初始条件的不确定性，及数值方法带来的误差，理论模式进行的预报常常与实际情况有很大的差别[2。大部分经验模式和理论模式可以模拟电离层气候特征，但由于其缺乏对电离层驱动因素的可靠估计，不能准确的进行电离层现报、预报[1]。
+
+为了满足对电离层进行监测和预报的需求，在气象上已经运用成熟的技术手段一一数据同化技术，被人们引用到电离层研究和预报领域。在过去的十年里，基于经验或理论模式和多种电离层观测，许多电离层数据同化模型被开发出来。由于这些模型主要同化有限空间覆盖的地基观测，因此并不能精确地表征全球范围内的电子密度分布。但随着GNSS 的发展，地基GNSS-TEC 观测和天基掩星观测的空间覆盖越来越广。尤其是掩星观测，可为海洋、沙漠、极区等其他观测较少的区域提供三维电子密度分布。
+
+国际上电离层数据同化研究从上个世纪就已经开始，其中比较著名的，如美国喷气动力实验室一南加州大学全球同化电离层模式（JPL/USCGAIM）和美国犹他州立大学全球电离层观测同化模式（USU GAIM）[3]。USU GAIM 的同化模式又包括 Gauss-Markov Kalman 滤波同化模式和简化状态 Kalman 滤波同化模式[4,5]。近年来国外一些学者在电离层同化、电离层驱动参数以及电离层热层的相互作用对电离层同化的影响等方面也开展了一些研究[7，取得了不少成果。国内这方面的研究还不是很多，主要是乐新安博士先后开展了中低纬电离层模拟和数据同化研究，其在电离层电子密度空间相关性方面的工作在电离层同化研究中具有很大的应用价值[2]。
+
+本文将采用集合卡尔曼滤波同化方法，把COSMIC 电子密度廓线同化到NCAR开发的TIEGCM 模型中，给出初步结果，并作进了一步讨论，同时对两种同化方式进行了比较。
+
+# 2 同化模型构建方法
+
+# 2.1集合卡尔曼滤波方法
+
+Evensen[等提出基于蒙特卡洛随机抽样的卡尔曼滤波方法，也就是集合卡尔曼滤波（Ensemble Kalman Filter,EnKF）。相对于变分方法和卡尔曼滤波，EnKF采用非线性集合预报的有限样本来估算误差协方差，它可以应用在高度非线性的动力模型中，既不需要切线性
+
+算子或伴随方程，也不需要随时间向后积分。其基本滤波公式如下：
+
+$$
+\begin{array} { r } { P _ { e } = \frac { { X ^ { \prime } } { X ^ { \prime } } ^ { T } } { N - 1 } } \end{array}
+$$
+
+$$
+\mathrm { K } = P _ { e } H ^ { T } ( H P _ { e } H ^ { T } + R _ { e } ) ^ { - 1 }
+$$
+
+$$
+X ^ { a } = X ^ { b } + K ( Y - H X ^ { \flat } )
+$$
+
+式中 $X ^ { \prime }$ 为背景扰动场； $P _ { e }$ 是背景误差协方差矩阵； $R _ { e }$ 是观测误差协方差矩阵。K为增益矩阵，用来修正观测点附近的背景场。 $X ^ { b }$ 为背景场；Y为观测向量； $H$ 是观测算子； $X ^ { a }$ 为同化结果;EnKF 使用样本统计计算背景误差协方差，容易产生虚假的伪相关，因此需要用相关距离来控制伪相关，即协方差局地化。
+
+# 2.2同化变量的设置
+
+由（3）式可知，同化所需变量有背景场 $X ^ { b }$ 、观测值Y、由背景场映射到观测值的插值算子或观测算子 $H$ 以及背景场、观测值的误差协方差矩阵 $P , R$ 。下面介绍这几个量的获取方法。
+
+背景场由TIEGCM 模式预报得到。NCAR 开发的 TIEGCM是一种三维、时变、地球热层电离层耦合的理论模型。该模型使用有限差分技术，自洽求解三维中性成分和离子的动量方程、能量方程和连续性方程。其默认设置的经度、纬度方向上的分辨率分别是5度和5度，高度方向有29 层，间隔为半个标高，下边界约为97km，上边界随太阳活动不同在 $5 0 0 \mathsf { k m }$ 到700km 之间变化。
+
+TIEGCM 模式是一种电离层热层电动力学大气环流模型，其包含很多大气参量的预报，如电子密度、大气温度等。这里选取2006 年第80天的数据作为初值，通过模式预报到第159 天0时0分。然后扰动模式输入参数中的太阳活动性指数F10.7，构造均值为150、标准偏差为 $50 \%$ 的100个样本集合。这100个样本作为输入参数输入到模式中，模式预报6个小时，得到背景场 $X ^ { b }$ 。
+
+观测值为COSMIC 掩星电子密度廓线数据。这里所用的COSMIC掩星观测的电子密度廓线数据是UCAR 提供的二级电离层数据产品。研究表明，由于Abel反演中的球对称假设，F 区高度以下的电子密度的反演结果应当谨慎使用。所以本文只对150km 以上的电子密度进行同化，插值网格间距为10km。取2007年第159天6点前后半小时的观测数据作为观测场，对观测数据的质量控制，取观测值大于零的观测。经初步质量控制后约有3580个观测点，共121条廓线。
+
+TIEGCM输出的网格高度是等位势高度，为了便于构造观测算子，这里将位势高度换算为几何高度，并插值到等几何高度面。观测算子由观测点所在网格立方体空间线性插值得到。
+
+背景场的误差协方差由集合样本统计得到。在大部分同化系统中，观测误差假设是相互独立的[10,11]，本文中也采取同样的假设，对观测值不考虑协方差，假设观测偏差为观测值的 $20 \%$ ，则观测误差协方差如下所示：
+
+$$
+\mathrm { R } = \left\{ \begin{array} { c } { 0 . 0 4 \times y _ { i } \times y _ { i } , i = j ; } \\ { 0 , i \neq j } \end{array} \right.
+$$
+
+# 2.3局地化
+
+在集合卡尔曼滤波方法中，有限集合数造成不满秩和估计的相关虚假噪音。为了消除距观测较远的伪相关，需采取协方差局地化。一般假设电离层空间相关性满足高斯分布，但相关距离目前并没有很好的结论[12]。电离层的相关距离可以看作是各向异性的。这里把电离层的相关性简单的分解为子午方向、纬线圈方向和高度方向的乘积[2。电离层的相关尺度在不同的方向有显著不同，且有明显的纬度、高度、地方时、季节、太阳活动变化。垂直方向的相关距离随高度升高而增大，且向上的相关距离大于向下的相关距离，总体上来说，纬向相关距离比子午向相关距离大。
+
+把集合样本估计的背景误差协方差和局地相关函数相乘，得到新的协方差矩阵。
+
+$$
+\rho _ { i j } = e ^ { - \alpha \times \left( \varphi _ { \mathrm { { i j } } } ^ { 2 } / L _ { x } ^ { 2 } \right) } \times e ^ { - \alpha \times \left( \theta _ { i j } ^ { 2 } / L _ { y } ^ { 2 } \right) }
+$$
+
+$$
+P _ { i \mathrm { j } } ^ { ' } = \rho _ { i j } \times P _ { i j }
+$$
+
+$\rho _ { i j }$ 为i,j两点的相关系数， $\varphi _ { \mathrm { i j } } \cdot \ \theta _ { i j }$ 分别表示两个点在经度和纬度方向的实际距离。若定义两个点之间的相关系数为0.75 时的距离为相关距离，根据乐新安等2人的研究，纬度方向的相关距离 $L _ { x }$ 取 ${ 1 0 } ^ { \circ }$ ，经度方向的相关距离 $\dot { L } _ { y }$ 从中纬 ${ \sim } 4 0 ^ { \circ }$ 变化到赤道地区 ${ \sim } 2 0 ^ { \circ }$ ，高度方向设置不相关。 $\alpha$ 为相关距离系数， $0 . 7 5 = e ^ { - \alpha } , \alpha$ 为0.2877。
+
+# 2.4同化方式
+
+顺序同化是对观测数据逐个进行同化，同时同化是同时对所有观测数据进行同化。顺序同化是针对观测数据的局部优化，同时同化是针对所有观测数据的全局优化。研究表明[13],当观测误差不相关时，在集合卡尔曼滤波中顺序同化和同时同化差异不大。顺序同化每次只同化一个观测数据，对计算机的内存大小要求低，但将所有观测数据都同化完，所需时间长。同时同化一次同化所有观测数据，计算效率高，但要求计算机的内存大，被同化的数据量大时，内存大小会无法满足计算需求。将顺序同化和同时同化的优点相结合，对观测数据进行分批同化，即为分组同化。
+
+为比较分组同化与同时同化的差异，本文分别用这两种方法进行同化，并对同化结果进行了对比分析。本文进行分组同化时，采取逐个观测廓线成批同化的方法。
+
+# 3同化实验结果
+
+# 3.1同化结果
+
+在121条观测廓线中随机取出 $5 0 \%$ 进行同化，同化方式为同时同化，利用剩余 $5 0 \%$ 的未参与同化的廓线来验证同化效果，下面给出了一些结果。
+
+![](images/2bb1667988beb5e67de974f45fec06db44a5362791f759429c72da2b951e115d.jpg)  
+图1同化前后背景场、分析场与参与同化的电子密度廓线的比较。点画线为观测场、虚线为背景场、实线为同化结果。
+
+Fig.1Comparison of electron density profile between background (dash lines)and EnKF assmilated (solid lines) for assimilated observations (dash-dotted lines).
+
+![](images/1693f4b01849085a27538823cc0fac58bb81d014f3fd5d42b4fdb18accf71007.jpg)
+
+图2同化前后背景场、分析场与未参与同化的电子密度廓线的比较。
+
+Fig.2Comparison of electron density profile between background (dash lines)and EnKF assimilated (solid lines) for unassimilated observations (dash-dotted lines).
+
+这里给出了同化结果与观测场及同化之前的背景场的比较个例,深灰色点画线为观测场、浅灰色虚线为背景场、黑色实线为分析场。参与比较的背景场和分析场廓线为插值到相应观测点处的结果。从同化结果可以看出，图1中分析场与观测值更为接近，图2中虽然这些观测廓线并未参与同化，但分析场仍与观测场符合得更好，这是由背景场提供的相关性所带来的同化效果，说明该同化模型能够将观测资料有效地同化到背景模式中，获得全球三维电子密度分析场，对没有观测资料的地方也能有很好的改善作用。
+
+# 3.2相对偏差
+
+为进一步验证同化效果，统计了同化前后在不同高度上背景场和同化结果相对观测的偏差。相对偏差、平均偏差和和标准偏差公式分别为：
+
+$$
+\begin{array} { r } { e _ { i } = \frac { x _ { i } - y _ { i } } { y _ { i } } \times 1 0 0 \% } \end{array}
+$$
+
+$$
+\begin{array} { r } { \bar { e } = \frac { \sum _ { i = 1 } ^ { n } e _ { i } } { n } } \end{array}
+$$
+
+$$
+\begin{array} { r } { \sigma _ { x } = \sqrt { \frac { \sum _ { i = 1 } ^ { n } ( e _ { i } - \bar { e } ) ^ { 2 } } { n - 1 } } } \end{array}
+$$
+
+其中， $x _ { i }$ 为某位置上的背景场或同化结果， $y _ { i }$ 为对应位置的观测值， $e _ { i }$ 为电子密度的相对偏差， $\bar { e }$ 和 $\sigma _ { x }$ 分别为对应高度上电子密度相对偏差的平均偏差和标准偏差。
+
+![](images/84c1c7f121fbe279e8b6c71493c63bd86fa98ad72292c8c633f5e06114227956.jpg)  
+图3同时同化前后参与同化观测廓线处的各个高度上电子密度偏差统计（左图为同化前，右图为同化后）  
+Fig.3.The statisticof electron density error at observation profiles assimilated for simultaneous assimilation. (Left:before assimilation,right:after assimilation).
+
+![](images/5de0b82d41dfeb5f73f5b8b308a065b9338d659041c43962bcbdea83d9d48e18.jpg)  
+图4同时同化前后未参与同化观测廓线处的各个高度上电子密度偏差统计（左图为同化前，右图为同化后）
+
+![](images/c6fd3ba930393128f93f2604c6e9c4e271f4ef712bcd79a8a73cde2f7f110cb0.jpg)  
+Fig.4.The statistic of electron density error at observation profiles unassimilated for simultaneous assimilation.(Left:before assimilation,right:afterassimilation).   
+图5东经115度、北纬40度处背景场样本的标准偏差相对于样本均值的百分比Fig.5The profile of the relative standard deviation of background on $1 1 5 ^ { \circ } \mathsf { E } 4 0 ^ { \circ } \mathsf { N }$
+
+图3、图4左图中的实线为同化前背景场的平均偏差，两条虚线分别为平均偏差加减一倍的标准偏差。右图为同化后分析场的偏差统计。可以看出无论是参与同化还是未参与同化的观测廓线处，总体上同化后分析场相比同化之前背景场的平均偏差和标准偏差均有所减小，在300km以上平均偏差由同化前的50%降低到同化后的 $1 5 \%$ 以内，标准偏差由同化前的 $50 \%$ 以上降低到同化后的 $40 \%$ 以内。从两图中也发现，在较低高度同化效果并不理想，一是由于此高度范围内的背景值偏小，另一个原因是背景场的样本集合在此范围内样本偏差较小造成的。图5给出的是东经115度、北纬40度处背景误差协方差对角线值的平方根相对于集合样本平均值的百分比，从图中可看出，250km 以下由集合样本统计获得的背景误差在 $20 \%$ 以下，远小于 $3 5 0 \mathsf { k m }$ 以上的背景误差。背景值与相对偏差偏小导致背景误差偏小，同化结果就会更接近背景场，与观测数据之间的偏差改善就会大大减小。
+
+# 3.3相关性比较
+
+![](images/fca42863bae129638b2dd07b7079d6945668cbc746366549e41a14b663451933.jpg)  
+图6同化前后参与同化观测廓线处NmF2和 $\mathsf { h m } \mathsf { F } 2$ 的相关性统计 Fig.6 Correlation statistic in NmF2 and hmF2 (with assimilation).
+
+![](images/012dee8c1179386261b34c57661929b83fd8cc32c3d085c8964151e1a0178d39.jpg)  
+图7同化前后未参与同化观测廓线处NmF2和hmF2的相关性统计 Fig.7Correlation statistic in NmF2 and hmF2 (with no assimilation).
+
+图6、图7中分别给出了电离层峰值电子密度NmF2同化前的背景场与观测值、同化后分析场与观测值的散点图。左图横坐标为背景场峰值电子密度，纵坐标为观测值；右图横坐标为分析场，纵坐标为观测数据。从图中可以看出对于参与同化的观测，同化前的背景场与观测值的相关系数为0.88，同化后为0.98，同化后相关系数有很大提高，平均偏差从同化前的 $3 7 . 4 \%$ 下降到 $. 0 . 1 \%$ ，标准偏差降低约 $60 \%$ 。对于未参与同化的观测，相关系数从同化前的0.81提高到0.94，平均偏差从同化前的 $1 7 . 4 \%$ 减小到 $3 . 6 \%$ ，标准偏差减小约 $20 \%$ 。从图中峰值高度比较结果来看，峰值高度同化结果并不理想，平均偏差有所下降，但相关系数和标准偏差并未改善。
+
+# 3.4同时同化与分组同化
+
+![](images/4b33984fc25ae31cb9d5ec4aba0c98f858af06bbbc22a39a4194fe9b3e57d9cd.jpg)  
+图8同时同化后各个高度上电子密度误差统计与分组同化对比。（左图为同时同化，右图为分组同化) Fig.8 Comparison of the statistic of electron densityerror between different assimilation methods;the left is simultaneous assimilation and right batches assimilation.
+
+将所有观测数据同时同化到背景场中需要很大的内存存储，该试验是在多核计算机上进行的，CPU主频为1.87GHz，同化的观测点数为3579。同时同化最大占用内存约8GB，同化耗时6分36秒。为比较同时同化与分组同化的差异，对同样的观测数据采用分组同化进行了同化实验，而分组同化占用内存2GB以内，耗时7分21秒。如图8所示，同化结果对比发现，同时同化和分组同化相对观测值的平均偏差基本一致，但同时同化后的标准偏差在300km高度以上相对更小。由此可见，同时同化具有全局优化的优点，但占用内存大；分组同化能够取得不错的同化效果，且占用内存小。
+
+# 4结论与展望
+
+本文给出了一个基于集合卡尔曼滤波技术的电离层数据同化模型的初步构建和试验结果。我们利用集合卡尔曼滤波同化方法，将COSMIC掩星观测的电子密度廓线同化到TIEGCM背景模型中。同化结果表明，采用集合卡尔曼滤波算法，把电子密度同化到背景模式中能够获得较好的同化结果，对于参与和未参与同化的观测，NmF2的标准偏差分别降低约 $60 \%$ 和$20 \%$ ，说明我们设计的算法可行、所选择的各种参数比较合理。分组同化与同时同化的对比结果表明，分组同化对内存需求小，但同时同化结果更好，且耗时更短，条件允许的情况下宜采用同时同化的方法。
+
+如前所述，电离层驱动参数对电离层预报是至关重要的。仅同化获取电子密度，没有优化的电离层驱动参数，难以对电离层进行可靠的预报。本文构建的电离层同化模型，只可用于电离层现报，接下来我们将进行电离层驱动参数的同化预报研究。此外，电离层同化预报还涉及到观测数据的质量控制、超大矩阵的存储与计算、误差协方差的选择等问题，还需对算法进行进一步优化，以改善同化结果的精度、提升同化速度。
+
+# 致谢
+
+感谢 COSMIC Data Analysis and Archive Center 提供 COSMIC 电离层掩星数据，感谢 NCAR 提供TIEGCM 模式。
+
+# 参考文献
+
+[1] Scherliess,L., D.C. Thompson,and R.W. Schunk, lonospheric dynamics and drivers obtained from a physics - based data assimilation model. Radio Science,20o9.44(1).   
+[2] Yue Xinan,Modeling and Data assimilation of Mid- and Low-Latitude lonosphere.[D]. 2008, wuhan Institute of Physics and Mathematics, Graduate University of Chinese Academy of Sciences)（乐新安，中低纬电离层模拟与数据同化研究[D].2008，中国科学院研究生院， 武汉物理与数学研究所）.   
+[3] Schunk, R.W., et al., Global assimilation of ionospheric measurements (GAIM). Radio Science, 2004. 39(1).   
+[4] Scherliess,L.,et al.， Development of a physics - based reduced state Kalman filter for the ionosphere. Radio Science, 2004.39(1).   
+[5] Scherliess,L.,et al., Utah State University Global Assmilation of lonospheric Measurements Gauss - Markov Kalman filter model of the ionosphere: Model description and validation. Journal of Geophysical Research: Space Physics (1978 - 2012),2006.111(A11).   
+[6] Matsuo,T.， I.T. Lee,and J.L. Anderson， Thermospheric mass density specification using an ensemble Kalman filter. Journal of Geophysical Research: Space Physics，2013. 118(3): p. 1339-1350.   
+[7] Lee,l.,et al., Assimilation of FORMOSAT - 3/COSMIC electron density profiles into a coupled thermosphere/ionosphere model using ensemble Kalman filtering. Journal of Geophysical Research: Space Physics (1978-2012),2012.117(A10).   
+[8] Evensen，G.，The ensemble Kalman filter for combined state and parameter estimation. Control Systems, IEEE,2009.29(3): p.83-104.   
+[9] Yue,X.,et al., Error analysis of Abel retrieved electron density profiles from radio occultation measurements. Annales Geophysicae,2010.28(1): p.217-222.   
+[10] Bust，G.，T. Garner， and T. Gaussiran,lonospheric Data Assimilation Three - Dimensional (IDA3D):A global， multisensor， electron density specification algorithm. Journal of Geophysical Research: Space Physics (1978 - 2012),2004.109(A11).   
+[11] Yue，X.，et al.， Data assimilation of incoherent scatter radar observation into a one-dimensional midlatitude ionospheric model by applying ensemble Kalman filter. Radio Science,2007.42(6): p. n/a-n/a.   
+[12] Yue X A,Wan W X,Liu L B,et al. Development of an ionspheric numerical assimilation nowcast and forecast system based on Gauss-Markov Kalman filter—An observation system simulation experiment taking example for China and its surrounding area. Chinese J. Geophys.(in Chinese)，2010， $5 3 ( 4 ) : 7 8 7 \sim 7 9 5$ （乐新安，万卫星，刘立波等．基于GaussMarkov 卡尔曼滤波的电离层数值同化现报预报系统的构建一一以中国及周边地区为例 的观测系统模拟试验．地球物理学报,2010，53(4):787\~795）.   
+[13] Hmaill,T.M.,Ensemble-Based Data Assimilation.Workshop on Predietability ECMWF,2002.

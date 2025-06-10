@@ -1,0 +1,573 @@
+# 格上的简短可链接环签名
+
+王杰昌¹，张平²，李杰¹，常琳林¹，段莹∗(1．郑州大学体育学院体育大数据中心，郑州 45000;2.河南科技大学数学与统计学院，河南 洛阳 471023;3．郑州航空工业管理学院智能工程学院，郑州 450003)
+
+摘要：可链接环签名可防止区块链中的双花攻击，基于格的签名可抵抗量子攻击，但已有格基可链接环签名的大小随环成员的增多而增大。针对该问题，提出了一种格上的简短可链接环签名方案。该方案用队列实现了向量数制的特殊转换，利用格上的累加器对环成员的公钥进行累加，使得签名大小不会随环成员的增多而增大；利用拒绝采样定理，构造出格上的知识证明签名，在防止签名私钥泄露的同时，提高了计算效率。在随机预言机模型下，证明了方案具有不可伪造性、匿名性、可链接性。性能分析与实验评估表明，本方案节省了时间开销和存储开销，且随着环成员的增多签名大小固定不变。
+
+关键词：格；知识证明签名；累加器；简短可链接环签名 中图分类号：TP309.2 doi:10.19734/j.issn.1001-3695.2022.02.0057
+
+Lattice-based short linkable ring signatures
+
+Wang Jiechang1, Zhang Ping²,Li Jiel, Chang Linlin1, Duan Ying3† (1.SportsBigData Center,Physical Education CollgeofZhengzhou UniversityZhengzhou450o0,China;2.Schoolof Mathematics&Statistics,Henan UniversityofScience&TchnologyLuoyangHenan47023,China;3.SchoolofIntelligent Engineering, Zhengzhou University of Aeronautics, Zhengzhou 45o003, China)
+
+Abstract:Linkable ring signaturescould avoid double-spendingatacks in the blockchain.Lattice-based signatures were quantum-resistant.However,as the number of ring members increased,the size of existing latice-based linkablering signatures increased.To solve this problem,a latice-based linkable ring signatures scheme was proposed.This scheme used queues to implement a special conversionof vector number system,andused latice-based accumulators toaccumulate the public keys of ring members,so that the signature size didn't increase with the number of ring members.And using the rejection sampling theorem,this scheme constructed signatures based on proofsof knowledge on latices,prevented the signatureprivate keyfrom leaking,and improved thecomputational eficiency.Intherandom oracle model,thescheme was proved tobeunforgeable,anonymous and linkable.Performance analysis and experimentalevaluationshowthat,thisscheme saves time and storage,and the signature size is constant with the increase of ring members.
+
+Key words: lattice; signatures based on proofs of knowledge; accumulators; short linkable ring signatures
+
+# 0 引言
+
+区块链[I具有去中心化、开放性、不可窜改性、自治性、匿名性等特点，日前越来越受到业界的推崇。然而区块链技术在安全上还有很多不足，如比特币系统中的匿名性是通过假名实现的，并不是真正的匿名性[2]。针对该问题，很多学者提出改善区块链系统匿名性的方案，环签名[3]便是主流方案之一。在环签名机制下，签名者自发选择多个用户组成环，利用自己的公私钥对及环成员的公钥对消息进行签名，验证者只知道签名出自环中某一个成员，但不能确定签名者真实身份[4]。
+
+对于区块链电子货币系统的双花攻击与区块链电子选举系统的重复投票问题，可链接环签名[5的可链接性确保签名者不能重复签名，能有效解决区块链的这些问题。文献[6]利用可链接环签名设计了基于智能合约的电子投票系统，确保了投票结果的可信度，解决了投票过程中的安全问题。但是随着环成员的增多，单个可链接环签名的大小也在增大。简短可链接环签名(ShortLinkable Ring Signatures,SLRS)[7,8]先使用累加器对公钥环进行累加计算，然后再进行签名，不仅保留了可链接环签名的一些特性，而且随着环成员的增多，单个签名的大小保持不变[9]。文献[9]利用消息编码、Paillier同态加密、简短可链接环签名[7.8]，提出了一个独立平台的安全的区块链投票系统。然而上述这些方案的密码体制均基于传统数学难题，随着量子计算技术的发展，它们的安全性在降低。
+
+基于格的密码体制具有抗量子攻击、运算简单、可并行化、抗量子攻击、存在最坏情况下的随机实例和较好的渐进效率等优点，因而成为后量子时代的研究热点[10]。文献[11]提出了基于格的一次性可链接环签名L2RS，并将其应用至区块链上的环可信交易(LatticeRingCTv1.0)；在此基础上，文献[12]构造了了可链接环签名MIMO.L2RS，进一步提出升级版应用协议——LatticeRingCT $\mathrm { v } 2 . 0$ ，在交易中支持多输入及多输出电子钱包。文献[13]提出了切合实际的格基一次性可链接环签名方案，简单有效，实用性强。针对门罗币的安全问题，文献[14]提出了支持匿名地址[15]的格基可链接环签名。文献[16]利用环上容错学习问题提出了一个可链接环签名方案，密钥尺寸较短，效率较高。文献[10]利用原像抽样和拒绝采样算法构造了一个格上基于身份的可链接环签名方案，提升了用户密钥生成和签名验证的效率。文献[17]利用格密码、消息块共享技术、填充排列技术，提出一种基于格的可链接门限环签名方案，并将其应用至电子投票协议。然而随着环成员个数的增大，这些方案的签名长度也在增大。
+
+为解决上述问题，本文提出格上的简短可链接环签名方案，主要贡献如下：
+
+a)鉴于队列先进先出的特点[18]，利用其实现了向量数制的特殊转换;
+
+b)将Camenish 和 Stadler 所提出的知识证明签名(Signatures based on Proofs ofKnowledge,SPK)[19]推广至格上,构造出新的SPK;
+
+c)根据文献[7][8]定义的简短可链接环签名算法，结合格上的累加器[20]，利用拒绝采样定理[21]，构造出格上的简短可链接环签名方案(Lattice-based ShortLinkable Ring Signatures,LSLRS)，随着环成员的增加，签名大小保持不变，同时提高了计算效率。
+
+# 1 预备知识
+
+# 1.1基础符号
+
+对于 $b \in \{ 0 , 1 \}$ ，用 $\overline { { b } }$ 表示 $1 - b \in \{ 0 , 1 \}$ ，矩阵 $\pmb { A } \in \mathbb { Z } ^ { k \times i }$ 和 $\pmb { B } \in \mathbb { Z } ^ { k \times j }$ 的拼接表示为 $[ \boldsymbol { A } | \boldsymbol { B } ] \in \mathbb { Z } ^ { k \times ( i + j ) }$ ，用 $x { \overbrace { \left. \sum _ { k = 1 } ^ { 5 } S _ { k } \right| _ { 0 } ^ { T } } }$ 表示从有限集 $s$ 中均匀随机选择 $x$ ，用 $x  \underbrace { \textsf { s } } _ { \qquad } D$ 表示按照分布 $D$ 选择 $x$ 。对于正整数 $n , q , k , m$ ， $n$ 为安全参数， $q = { \tilde { O } } ( n ) , k = \lceil \log q \rceil$ ， $m = 2 n k$ 。对于矩阵 $\mathbf { G } = \left( \begin{array} { l l l l l l } { 1 \ 2 \ 4 \ \cdots \ 2 ^ { k - 1 } } & & & & & \\ & { 1 \ 2 \ 4 \ \cdots \ 2 ^ { k - 1 } } & & & & \\ & & { 1 \ 2 \ 4 \ \cdots \ 2 ^ { k - 1 } } & & & \\ & & & { \cdots \ } & & \\ & & & & { 1 \ 2 \ 4 \ \cdots \ 2 ^ { k - 1 } } \end{array} \right) \in \mathbb { Z } _ { q } ^ { n \times n k }$ ，向量 $\pmb { \nu } = ( \nu _ { 0 } , \cdots , \nu _ { i } , \cdots \nu _ { n - 1 } ) ^ { \operatorname { T } } \in \mathbb { Z } _ { q } ^ { n }$ ，有 $\pmb { \nu } { = } \pmb { G } \cdot b i n ( \pmb { \nu } )$ ，这里 $b i n ( \pmb { \nu } ) \in \{ 0 , 1 \} ^ { n k }$ 为向量 $\nu$ 的二进制表示。
+
+# 1.2格上的困难问题
+
+定义1SIVPy问题。给定秩为 $n$ 的格 $L = L ( \boldsymbol { B } )$ ，找 $n$ 线性无关的向量 $\pmb { \nu } _ { 1 } , \cdots , \pmb { \nu } _ { n } \in L$ ，使得对任意的 $1 { \le } i { \le } n$ ， $\left\| \pmb { \nu } _ { i } \right\| \leq \gamma \cdot \lambda _ { n } ( L )$ ，这里 $\gamma \geq 1$ 为逼近因子， $\lambda _ { n } ( L )$ 为格 $L$ 的逐次最小长度。
+
+定义2 $\mathbf { S I S } _ { n , m , q , \beta } ^ { \infty }$ 问题[20]。给定均匀随机选择的矩阵$\pmb { A } \in \mathbb { Z } _ { q } ^ { n \times m }$ ，找到一个非零向量 $\pmb { x } \in \mathbb { Z } ^ { m }$ 满足条件 $\left\| \pmb { x } \right\| _ { \infty } \leq \beta$ 且$\pmb { A } \cdot \pmb { x } = \pmb { \theta } \mathrm { m o d } q$ 。
+
+如果 $m , \beta = p o l y ( n )$ ，并且 $q > \beta \cdot \tilde { O } ( \sqrt { n } )$ ，那么 $\mathbf { S I S } _ { n , m , q , \beta } ^ { \infty }$ 问题至少和最坏情况下的 $\mathrm { S I V P } _ { \gamma } \big ( \gamma = \beta \cdot \tilde { O } ( \sqrt { n m } )$ )问题一样难解。特别地，当 $\beta = 1$ ， $q = { \tilde { O } } ( n ) , m = 2 n \lceil \log q \rceil$ ， $\mathrm { S I S } _ { n , m , q , 1 } ^ { \infty }$ 问题至少和 $\mathrm { S I V P } _ { { \bar { O } } ( n ) }$ 问题一样难解[20]。
+
+# 1.3格上的累加器
+
+定义3函数族 $\mathcal { H } : \{ 0 , 1 \} ^ { n k } \times \{ 0 , 1 \} ^ { n k }  \{ 0 , 1 \} ^ { n k }$ 被定义为$\mathcal { H } = \{ H _ { A } \mid A \in \mathbb { Z } _ { q } ^ { n \times m } \}$ ，这里 $\pmb { A } = [ A _ { 0 } | A _ { 1 } ]$ ， $A _ { 0 } , A _ { 1 } \in \mathbb { Z } _ { q } ^ { n \times n k }$ ，并且对于任何$( u _ { 0 } , u _ { 1 } ) \in \{ 0 , 1 \} ^ { n k } \times \{ 0 , 1 \} ^ { n k }$ ，有
+
+$$
+H _ { A } ( \pmb { u } _ { 0 } , \pmb { u } _ { 1 } ) = b i n ( \pmb { A } _ { 0 } \cdot \pmb { u } _ { 0 } + \pmb { A } _ { 1 } \cdot \pmb { u } _ { 1 } \bmod q ) \in \{ 0 , 1 \} ^ { n k }
+$$
+
+注意 $H _ { A } ( { \pmb u } _ { 0 } , { \pmb u } _ { 1 } ) = { \pmb u } \Longleftrightarrow { \pmb A } _ { 0 } \cdot { \pmb u } _ { 0 } + { \pmb A } _ { 1 } \cdot { \pmb u } _ { 1 } = { \pmb G } \cdot { \pmb u } \bmod q$ 。
+
+引理1假设 $\mathrm { S I V P } _ { { \dot { O } } ( n ) }$ 问题是难解的，则定义3中的函数族 $\mathcal { H }$ 是抗碰撞的。
+
+基于上面定义的格基哈希函数族 $\mathcal { H }$ ，构造一个默克尔树，具有 $N = 2 ^ { \iota }$ 个叶子节点， $l$ 为一个正整数，下面为格上累加器[20]的算法：
+
+1)TSetup $( n )$ ：抽样 $A  \quad \mathbf { \exists }  \mathbb { Z } _ { q } ^ { n \times m }$ ，输出 $p p = { \pmb { A } }$ 。
+
+$2 ) \mathrm { T A c c } _ { A } ( R )$ . $R = \{ d _ { 0 } \in \{ 0 , 1 \} ^ { n k } , \cdots , d _ { N - 1 } \in \{ 0 , 1 \} ^ { n k } \}$ ，对每个 $\cdot j \in [ 0 , N - 1 ]$ ，$( j _ { 1 } , \cdots , j _ { l } ) \in \{ 0 , 1 \} ^ { l }$ 为 $j$ 的二进制表示，令 $\pmb { d } _ { j } = \pmb { u } _ { j _ { 1 } , \cdots , j _ { l } }$ 。深度为 $l { = } \log N$ 的默克尔树，有 $N$ 个叶子节点 $\pmb { u } _ { 0 , 0 , \cdots , 0 } , \cdots , \pmb { u } _ { 1 , 1 , \cdots , 1 }$ ，且有如下定义：
+
+$\textcircled{1}$ 在深度 $i \in \{ 1 , \cdots , l \}$ ，对于所有的 $( b _ { 1 } , \cdots , b _ { i } ) \in \{ 0 , 1 \} ^ { i }$ ，节点$\pmb { u } _ { b _ { 1 } , \cdots , b _ { i } } \in \{ 0 , 1 \} ^ { n k }$ 被定义为 $H _ { A } ( \pmb { u } _ { b _ { 1 } , \cdots , b _ { i } , 0 } , \pmb { u } _ { b _ { 1 } , \cdots , b _ { i } , 1 } )$ ;
+
+$\textcircled{2}$ 在深度0，根节点 $\pmb { u } \in \{ 0 , 1 \} ^ { n k }$ 被定义为 $H _ { A } ( \pmb { u } _ { 0 } , \pmb { u } _ { 1 } )$ 。
+
+该算法输出为累加值 $\textbf { \em u }$ 。
+
+3)TWitnessA $_ { 1 } ( R , d )$ ：如果 $\pmb { d } \not \in \pmb { R }$ ，返回 $\perp$ ；否则 $\pmb { d } = \pmb { d } _ { j }$ (某个$j \in [ 0 , N - 1 ]$ ，这个 $j$ 的二进制表示 $( j _ { 1 } , \cdots , j _ { l } )$ )，输出证据 $w$ 被定义为
+
+$$
+w = ( ( j _ { 1 } , \cdots , j _ { l } ) , ( { u _ { j _ { 1 } , \cdots , j _ { l - 1 } , \overline { { j _ { l } } } } } , \cdots , { u _ { j _ { l } , \overline { { j _ { 2 } } } } } , { u _ { \overline { { j _ { 1 } } } } } ) ) \in \{ 0 , 1 \} ^ { l } \times ( \{ 0 , 1 \} ^ { n k } ) ^ { l }
+$$
+
+这里 ${ \pmb u } _ { j _ { 1 } , \dots , j _ { l - 1 } , \bar { j } _ { l } } , \dots , { \pmb u } _ { j _ { 1 } , \bar { j } _ { 2 } } , { \pmb u } _ { \bar { j } _ { 1 } }$ 可以通过 $\operatorname { T A c c } _ { A } ( R )$ 算法进行计算得出。4)TVerify ${ \bf \Omega } _ { 1 } ( { \bf u } , d , w )$ ：将给定的证据 $w$ 写成如下形式：
+
+$$
+w = ( ( j _ { 1 } , \cdots , j _ { l } ) , ( w _ { l } , \cdots , w _ { 1 } ) ) \in \{ 0 , 1 \} ^ { l } \times ( \{ 0 , 1 \} ^ { n k } ) ^ { l }
+$$
+
+按以下方式递归地计算 $\pmb { \nu } _ { l } , \pmb { \nu } _ { l - 1 } , \cdots , \pmb { \nu } _ { 1 } , \pmb { \nu } _ { 0 } \in \{ 0 , 1 \} ^ { n k }$ ：
+
+$$
+\pmb { \nu } _ { l } = \pmb { d }
+$$
+
+$$
+\forall i \in \{ l - 1 , \cdots , 1 , 0 \} , \pmb { \nu } _ { i } = \left\{ \begin{array} { l l } { h _ { A } ( \pmb { \nu } _ { i + 1 } , \pmb { w } _ { i + 1 } ) , \mp \sharp j _ { i + 1 } = 0 } \\ { h _ { A } ( \pmb { w } _ { i + 1 } , \pmb { \nu } _ { i + 1 } ) , \mp \sharp j _ { i + 1 } = 1 } \end{array} \right.
+$$
+
+如果 $\pmb { \nu } _ { 0 } = \pmb { u }$ ，返回1；否则返回 $0$ 。
+
+定理1假设 $\mathrm { S I V P } _ { \bar { \partial } ( n ) }$ 问题是难解的，则格上的累加器是安全的，即对于所有的PPT敌手 $\mathcal { A }$ ：
+
+$$
+\begin{array} { r l } & { \operatorname* { P r } [ p p  \mathrm { T S e t u p } ( n ) ; ( R , d ^ { * } , w ^ { * } )  \mathcal { A } ( p p ) : } \\ & { d ^ { * } \notin R \land \mathrm { T V e r i f y } _ { p p } ( \mathrm { T A c c } _ { p p } ( R ) , d ^ { * } , w ^ { * } ) = 1 ] = \mathrm { n e g l } ( n ) } \end{array}
+$$
+
+# 1.4知识证明签名SPK
+
+Camenisch和Stadler提出了基于知识证明的签名，简称$S P K ^ { [ 8 , 1 9 ] }$ 。若证明者想向验证者证明其知道离散对数$\{ ( x ) : y = g ^ { x } { \bmod { n } } \}$ 的知识，并用这个知识对消息 $\mu$ 进行签名，可通过以下的协议来实现：
+
+证明者：随机选取 $r \in { \mathbf { \mathbb { \Gamma } } } _ { R } \mathbb { Z } _ { n }$ ，计算$\left\{ { \begin{array} { l } { c = H ( \mu \| y \| g \| g ^ { r } ) } \\ { s = r - c x ( \mathbf { m o d } n ) } \end{array} } \right.$ ，其中 $\mathrm { ~ H ~ }$ 为抗碰撞单向哈希函数，然后将 $( c , s )$ 传送给验证者。
+
+验证者：检验 $c { \overset { ? } { = } } H ( \mu \| y \| g \| g ^ { s } y ^ { c } )$ ，若等式成立，验证者接受证明者的证明；否则拒绝。
+
+此处称 $( c , s )$ 为证明者根据 $y$ 关于 $g$ 的离散对数对消息 $\mathbf { \nabla } _ { \mu }$ 进行的知识证明签名，记为 $S P K \{ ( x ) : y = g ^ { x } { \bmod { n } } \} ( \mu )$ 。
+
+# 1.5拒绝采样定理
+
+定理2 (拒绝采样定理[21])集合 $V = \{ \pmb { \nu } \in \mathbb { Z } ^ { m }$ $\left\| \nu \right\| < T \}$ 为 $\mathbb { Z } ^ { m }$ 的一个子集， $\mathbb { R }$ 中某个元素 $s = \omega ( T \sqrt { \log m } )$ ，概率分布 $h { : } V \to \mathbb { R }$ ，则存在常数 $M = O ( 1 )$ ，使得以下两个算法的输出分布统计距离在 $2 ^ { - \omega ( \log m ) } \bigg / M$ 以内：
+
+算法A：第一步 $\nu \longleftarrow \frac { \mathfrak { s } } { \nu } h$ ，然后 $z  \frac { \texttt { s } } { \texttt { - D } _ { \nu , s } ^ { m } }$ ，最后以 $\operatorname* { m i n } \biggl ( \frac { D _ { \tau } ^ { \scriptscriptstyle n } ( z ) } { M D _ { \tau , \tau } ^ { \scriptscriptstyle n } ( z ) } , 1 \biggr )$ 的概率输出(z,v)；
+
+算法F：第一步 $\nu \longleftarrow \frac { \mathfrak { s } } { \nu } h$ ，然后 $z {  } \frac { \mathfrak { s } } { - { D } _ { s } ^ { m } }$ ，最后以 $\big / _ { M }$ 的概率输出(z,v）。
+
+进一步，算法A有输出的概率至少为 $1 - 2 ^ { - \omega ( \log m ) } \Big / _ { M }$ 。
+
+# 2 签名定义及安全模型
+
+# 2.1签名定义
+
+格上的简短可链接环签名方案包括以下五个PPT算法：
+
+1)LSetup $( n )$ ：输入安全参数 $n$ ，输出公共参数 $p p$ ，该参数对所有用户是公开的。
+
+2)LKgen $( p p )$ ：输入公共参数 $p p$ ，输出公私钥对 $( p k , s k )$ ：
+
+$3 ) \mathrm { L S i g n } _ { p p } ( s k , \mu , R )$ ：输入签名者的密钥 $s k$ ，待签名消息$\mu$ ，以及环 $R = ( p k _ { 0 } , \cdots , p k _ { N - 1 } )$ ，输出签名 $\sigma _ { R } ( M )$ ，签名包含可链接标签 $I _ { \circ }$ 这里 $( p k , s k )$ 为LKgen(pp)生成的有效的公私钥对，且 $p k \in R$ 。
+
+4)LVerify ${ \bf \Gamma } _ { p p } ( \mathcal { \mu } , R$ ， $\sigma _ { R } ( \mu )$ )：输入消息 $\mu$ 在环 $R$ 上的签名$\sigma _ { R } ( \mu )$ ，若 $\sigma _ { R } ( \mu )$ 是有效的，本算法输出1；否则输出0。
+
+5)LLink( $\sigma _ { R } ( \mu _ { 1 } ) , \sigma _ { R } ( \mu _ { 2 } ) \$ )：输入签名 $\sigma _ { R } ( \mu _ { 1 } ) , \sigma _ { R } ( \mu _ { 2 } )$ ，若 $I _ { 1 } = I _ { 2 }$ ，则输出Linked；否则输出Unlinked。
+
+# 2.2安全模型
+
+# 2.2.1不可伪造性
+
+不可伪造性游戏如下：
+
+1)初始化：系统运行LSetup 得到公共参数，并将公共参数发送给敌手 $\mathcal { A }$ 。
+
+2)询问阶段：敌手 $\mathcal { A }$ 可以进行多项式次访问随机预言机。
+
+3)伪造阶段：敌手 $\mathcal { A }$ 输出 $( \mu ^ { * } , R ^ { * } , \sigma ^ { * } )$ ，若满足以下条件。
+
+$\textcircled{1}$ 敌手进行第 $j$ 次公钥询问，公钥预言机 $\mathcal { H }$ 生成公私钥对 $( p k _ { j } , s k _ { j } )$ ，将公钥加入环中，并返回公钥 ${ p } k _ { j }$ ;
+
+$\textcircled{2}$ 敌手输入 $( j , \mu , R )$ 进行签名询问，若 $( p k _ { j } , s k _ { j } )$ 由 $\mathcal { P O }$ 生成且 $p k _ { j } \in R$ ，则签名预言机 $\mathcal { S } \mathcal { O }$ 输出与 $( j , \mu , R )$ 相对应的签名$\sigma _ { R } ( \mu )$ ；否则输出 $\perp$
+
+$\textcircled{3}$ 敌手输入 $p k _ { j }$ 询问其对应的私钥，私钥预言机 $\mathcal { C O }$ 返回 $s k _ { j }$ ：
+
+$\textcircled{4} ( \cdot , \mu ^ { * } , R ^ { * } )$ 从未被敌手询问过，环 $\boldsymbol { R ^ { * } }$ 中的公钥均为 $\mathcal { P }$ 生成，且其对应的私钥均未被询问过。
+
+则敌手 $\mathcal { A }$ 赢得不可伪造性游戏，敌手赢得游戏的优势定义为
+
+$$
+A d \nu _ { \mathcal { A } } ^ { F } = \operatorname* { P r } [ p p  L S e t u p ( 1 ^ { n } ) ; ( \mu ^ { * } , R ^ { * } , \sigma ^ { * } )  \mathcal { A } ^ { p o , \delta o , \alpha o } ( p p ) :
+$$
+
+定义4对于任意多项式时间敌手 $\mathcal { A }$ ， $A d \nu _ { \mathcal { A } } ^ { F } = \mathbf { n e g l } ( n )$ ，则称该简短可链接环签名是不可伪造的。
+
+# 2.2.2匿名性
+
+匿名性游戏如下：
+
+1)初始化：挑战者 $\mathcal { B }$ 运行算法LSetup 得到公共参数 $p p$ ，并且运行算法LKgen生成公私钥对 $( \pmb { d } _ { i } , \pmb { x } _ { i } )$ ，将公钥加入环中，然后将环 $\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ 和公共参数 $p p$ 发送给敌手 $\mathcal { A }$ 。
+
+2)询问阶段：敌手 $\mathcal { A }$ 可以进行多项式次访问预言机。
+
+3)挑战阶段：敌手 $\mathcal { A }$ 挑选待签消息 $\mu \in \left\{ 0 , 1 \right\} ^ { * }$ ，以及任意两个公钥 $\pmb { d } _ { i _ { 0 } } , \pmb { d } _ { i _ { 1 } } \in \pmb { R }$ 进行签名询问，挑战者随机选择 $b \in \{ 0 , 1 \}$ 并利用 $\pmb { d } _ { i _ { b } }$ 对应的私钥 $\boldsymbol { x } _ { i _ { b } }$ ，运行LSign对消息 $\mu$ 进行签名，将生成的签名 $\sigma _ { R } ( \mu )$ 返回给敌手 $\mathcal { A }$ 。
+
+4)猜测阶段：敌手 $\mathcal { A }$ 输出 $b ^ { * }$ 作为对签名者身份的猜测，若 $b ^ { * } = b$ ，则敌手获胜。
+
+敌手 $\mathcal { A }$ 在匿名性游戏中获胜的的优势定义为
+
+$$
+A d \nu _ { \mathcal { A } } ^ { A n o } = \left| \operatorname* { P r } [ b ^ { * } = b ] - \frac { 1 } { 2 } \right|
+$$
+
+定义5对任意多项式时间敌手 $\mathcal { A }$ ， $A d \nu _ { \mathcal { A } } ^ { A n o } { = } \mathrm { n e g l } ( n )$ ，则称该签名方案是匿名的。
+
+# 2.2.3可链接性
+
+可链接性游戏如下：
+
+1)初始化：挑战者 $\mathcal { B }$ 运行算法LSetup 得到公共参数 $p p$ 并且运行算法LKgen生成公私钥对 $( \pmb { d } _ { i } , \pmb { x } _ { i } )$ ，将公钥加入环中，然后将环 $\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ 和公共参数 $p p$ 发送给敌手 $\mathcal { A }$ 。
+
+2)询问阶段：敌手 $\mathcal { A }$ 可以进行多项式次访问预言机。
+
+3)伪造阶段：敌手 $\mathcal { A }$ 给出两签名 $( \mu _ { 1 } , R _ { 1 } , \sigma _ { R _ { 1 } } ( \mu _ { 1 } ) )$ $( \mu _ { 2 } , R _ { 2 } , \sigma _ { R _ { 2 } } ( \mu _ { 2 } ) )$ ，签名 $\sigma _ { R _ { 1 } } ( \mu _ { 1 } ) , \sigma _ { R _ { 2 } } ( \mu _ { 2 } )$ 中分别包含相应的可链接标签 $I _ { 1 } , I _ { 2 }$ ，若满足以下条件：
+
+$$
+\textcircled { 1 } \mathrm { L V e r i f y } _ { p p } ( \mu _ { i } , R _ { i } , \sigma _ { R _ { i } } ( \mu _ { i } ) ) = 1 , i \in \{ 1 , 2 \}
+$$
+
+$\textcircled { 2 } \mathrm { L L i n k } ( \sigma _ { R _ { 1 } } ( \mu _ { 1 } ) , \sigma _ { R _ { 2 } } ( \mu _ { 2 } ) ) = \mathrm { U n l i n k e d }$ ，即 $I _ { 1 } \neq I _ { 2 }$ ：
+
+$\textcircled{3}$ 敌手 $\mathcal { A }$ 未发起过 $( \mu _ { 1 } , R _ { 1 } ) , ( \mu _ { 2 } , R _ { 2 } )$ 的签名询问;
+
+$\textcircled{4}$ 环 $R _ { 1 } , R _ { 2 }$ 中任一用户的公钥均由挑战者给出；
+
+$\textcircled{5}$ 敌手 $\mathcal { A }$ 发起私钥询问的次数少于两次(敌手 $\mathcal { A }$ 至多拥有一个用户的私钥)。
+
+则敌手 $\mathcal { A }$ 赢得可链接性游戏，敌手 $\mathcal { A }$ 赢得游戏的优势定义为 $A d \nu _ { \mathcal { A } } ^ { L } = \operatorname* { P r } [ \mathcal { A } w i n s ]$ 。
+
+定义6对于任意多项式时间敌手 $\mathcal { A }$ ， $A d \nu _ { \mathcal { A } } ^ { L }$ 是可忽略的，则称该简短可链接环签名是可链接的。
+
+# 3 格上的简短可链接环签名
+
+Camenisch和Stadler[19]首先提出了基于知识证明的签名，根据离散对数 $x$ 这一知识对消息 $\mu$ 进行了知识证明签名，即$\sigma = S P K \{ ( x ) \colon y = g ^ { x } { \bmod { n } } \} ( \mu )$ 。文献[7]中，Tsang 和Wei使用了基于知识证明的签名，如根据知识 $( w , y _ { s } , x )$ 对消息 $M$ 进行的知识证明签名，即 $\sigma = S P K \{ ( w , y _ { s } , x ) : ( y _ { s } , x ) \in \mathbb { R } \land f ( w , y _ { s } ) = \nu \land \tilde { y } = \theta _ { d } ( x ) \} ( M )$ 并结合累加器，提出了简短可链接环签名。文献[7,8]中的简短可链接环签名，均是先使用累加器对环中公钥进行累加，然后再进行基于知识证明的签名。随着环成员的增多，可链接环签名大小随之增大，而简短可链接环签名的大小保持不变，同时保留不可伪造性、匿名性、可链接性等优点[9]。但上述累加器、SPK及其构造的简短可链接环签名，均基于传统的数学难题，且目前仅有学者提出的格上的可链接环签名方案[10,1I]，还没有格上的简短可链接环签名方案。因此本文根据简短可链接环签名[7,8]的构造，先利用格上的累加器[20]对环中公钥进行累加，然后依据文献[7,8,19]的算法提出格上的SPK，最终构造出格上的简短可链接环签名LSLRS。
+
+LSLRS方案中有 $N = 2 ^ { \iota }$ 个环成员，参数 $n , m , q , k$ 在预备知识中已定义。LSLRS 包含五个算法(LSetup,LKgen, $\mathrm { L S i g n } _ { p p }$ LVerify $\dot { p } p$ ，LLink)，具体描述如下：
+
+1)LSetup $( n )$ ：输入安全参数 $n$ ，从 $\mathbb { Z } _ { q } ^ { n \times m }$ 中均匀随机抽样得到$\mathbf { \nabla } _ { A }$ ，选取抗碰撞的单向哈希函数： $H _ { A } \in \mathcal { H } : \{ 0 , 1 \} ^ { n k } \times \{ 0 , 1 \} ^ { n k }  \{ 0 , 1 \} ^ { n k }$ ，$H _ { 1 } : \mathbb { Z } _ { q } ^ { n \times m } \times \{ 0 , 1 \} ^ { m } \to \mathbb { Z } _ { q }$ ， $H _ { 2 } : \{ 0 , 1 \} ^ { l } \times ( \{ 0 , 1 \} ^ { n k } ) ^ { l } \to \mathbb { Z } _ { q }$ ， $H _ { 3 } : \{ 0 , 1 \} ^ { * } \times \mathbb { Z } _ { q } ^ { n \times m } \times \mathbb { Z } _ { q } ^ { n } \times$ $\{ 0 , 1 \} ^ { n k } \times \mathbb { Z } _ { q } \to \mathbb { Z } _ { q }$ ，输出公共参数 $p p { = } ( A , H _ { A } , H _ { 1 } , H _ { 2 } , H _ { 3 } )$ 。
+
+$2 ) \mathrm { L K g e n } ( p p )$ ：输入 $p p$ ，从{0,1}"中均匀随机选择$\pmb { x } _ { i } , i \in [ 0 , N - 1 ]$ ，分别计算 ${ \pmb d } _ { i } = b i n ( { \pmb A } \cdot { \pmb x } _ { i } \bmod { q } )$ ， $\pmb { d } _ { i } \in \{ 0 , 1 \} ^ { n k }$ (这里算法bin()的具体实现见3.1节),输出公私钥对 $( s k _ { i } , p k _ { i } ) = ( \pmb { x } _ { i } , \pmb { d } _ { i } )$ ，$i \in [ 0 , N - 1 ]$ 。
+
+$3 ) \mathrm { L S i g n } _ { p p } ( s k , \quad \mu , \quad R )$ ：输入环 $\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ ，$\pmb { d } _ { i } \in \{ 0 , 1 \} ^ { n k } , i \in [ 0 , N - 1 ]$ ，签名私钥 $s k = \pmb { x } \in \{ 0 , 1 \} ^ { m }$ ，其对应的公钥为
+
+$$
+p k = { d } = b i n ( A \cdot x { \bmod { q } } ) \in R
+$$
+
+按以下步骤生成消息 $\mu \in \{ 0 , 1 \} ^ { * }$ 的签名 $\sigma$
+
+$\textcircled{1}$ 计算可链接标签
+
+$$
+I = H _ { 1 } ( A , x )
+$$
+
+$\textcircled{2}$ 运行算法 $\operatorname { T A c c } _ { A } ( R )$ ，输出环 $R$ 中所有环成员公钥的累加值
+
+$$
+\pmb { u } = H _ { A } ( \pmb { u } _ { 0 } , \pmb { u } _ { 1 } ) \in \{ 0 , 1 \} ^ { n k }
+$$
+
+$\textcircled{3}$ 运行算法TWitness ${ \bf \Omega } _ { 4 } ( R , d )$ 得到证据
+
+$$
+w = ( ( j _ { 1 } , \cdots , j _ { l } ) , ( w _ { l } , \cdots , w _ { 1 } ) ) \in \{ 0 , 1 \} ^ { l } \times ( \{ 0 , 1 \} ^ { n k } ) ^ { l }
+$$
+
+$\textcircled{4}$ 计算知识证明签名
+
+$$
+\begin{array} { l } { { S P K \{ ( w , \pmb { d } , \pmb { x } ) \colon } } \\ { { w = ( ( j _ { 1 } , \cdots , j _ { l } ) , ( { \pmb { u } } _ { j _ { 1 } , \cdots , j _ { l - 1 } , \overline { { { j } } } _ { l } } , \cdots , { \pmb { u } } _ { j _ { 1 } , \overline { { { j } } } _ { 2 } } , { \pmb { u } } _ { \overline { { { j } } } _ { 1 } } ) ) \wedge } } \\ { { { \pmb { d } } = b i n ( { \pmb { A } } \cdot { \pmb { x } } \operatorname { m o d } q ) \} ( \mu ) } } \end{array}
+$$
+
+将Camenisch 和 Stadler 的 $S P K$ 推广至格上，同时利用拒绝采样定理，构造格上的知识证明签名：
+
+证明者(即签名者)：按照分布 $D _ { s } ^ { m }$ 随机选择 $r \in \{ 0 , 1 \} ^ { m }$ ，分别进行如下计算：
+
+$$
+W = H _ { 2 } ( w )
+$$
+
+$$
+c = b i n ( A { \cdot } r \operatorname { m o d } q )
+$$
+
+$$
+\scriptstyle z = H _ { 3 } ( \mu , A , G \cdot d , c , W )
+$$
+
+$$
+\pmb { k } = \pmb { r } - \boldsymbol { z } \cdot \pmb { x } ( \mathbf { m o d } q )
+$$
+
+然后将 $( W , \pmb { c } , z , \pmb { k } )$ 传送给验证者，根据拒绝采样定理，发送成功的概率为 $\operatorname* { m i n } \biggl ( \frac { D _ { s } ^ { m } ( \pmb { k } ) } { M D _ { - z x , s } ^ { m } ( \pmb { k } ) } , 1 \biggr )$ ，如果发送失败，则重新计算后再发送；
+
+验证者：检验
+
+$$
+\stackrel { ? } { \boldsymbol { z } } = \boldsymbol { H } _ { 3 } ( \boldsymbol { \mu } , \boldsymbol { A } , \boldsymbol { z } ^ { - 1 } \cdot \boldsymbol { G } \cdot \boldsymbol { c } - \boldsymbol { z } ^ { - 1 } \cdot \boldsymbol { A } \cdot \boldsymbol { k } ( \mathrm { m o d } \boldsymbol { q } ) , \boldsymbol { c } , \boldsymbol { W } )
+$$
+
+若上式成立，验证者接受证明；否则拒绝。
+
+$( W , \pmb { c } , z , \pmb { k } )$ 为证明者(即签名者)根据知识 $( w , d , x )$ 对消息 $\mu$ 进行的签名，即
+
+$$
+{ \begin{array} { l } { S P K \{ ( w , d , x ) \colon w = ( ( j _ { 1 } , \cdots , j _ { l } ) , ( u _ { j _ { 1 } , \cdots , j _ { l - 1 } , { \bar { j } } _ { l } } , \cdots , u _ { j _ { 1 } , { \bar { j } } _ { 2 } } , u _ { { \bar { j } } _ { 1 } } ) ) \wedge } \\ { d = b i n ( A \cdot x \operatorname { m o d } q ) \} ( u ) = ( W , c , z , k ) } \end{array} }
+$$
+
+$\textcircled{5}$ 输出格上的简短可链接环签名
+
+$$
+\sigma _ { R } ( \mu ) = ( \boldsymbol { u } , I , S P K ) = ( \boldsymbol { u } , I , W , c , z , k )
+$$
+
+$4 ) \mathrm { L V e r i f y } _ { p p } ( \mu , ~ R , ~ \sigma _ { R } ( \mu ) ~ )$ ：输入签名消息 $\mu$ ，环$\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ ，以及签名 $\sigma _ { R } ( \mu ) = ( \mu , I , S P K )$ ；从 $R$ 中任意选取一个 $\pmb { d } _ { j } , j \in [ 0 , N - 1 ]$ ，计算 $\mathrm { T A c c } _ { A } \left( R \right) \to u ^ { \prime }$ ，验证 $\stackrel { ? } { \pmb u } = \stackrel { ? } { \pmb u } ^ { \prime }$ ，并且验证式(11)的有效性，若都验证通过，则输出1；否则输出0。
+
+5)LLink( $\sigma _ { R } ( \mu _ { 1 } ) , \sigma _ { R } ( \mu _ { 2 } ) \overset { \cdot } { \underset { \cdot } { \cdot } }$ ：给定两个签名 $\sigma _ { R } ( \mu _ { 1 } ) , \sigma _ { R } ( \mu _ { 2 } )$ ，提取 它们的可链接标签，若 $I _ { 1 } = I _ { 2 }$ ，则输出Linked;否则输出Unlinked。
+
+# 3.1算法bin()
+
+设 $\pmb { \nu } \in \mathbb { Z } _ { q } ^ { n }$ ，有 $\pmb { \nu } = ( \nu _ { 0 } , \nu _ { 1 } , \cdots , \nu _ { n - 1 } ) ^ { \operatorname { T } } \enspace , \quad \nu _ { i } \in \mathbb { Z } _ { q } , i \in [ 0 , n - 1 ]$ ， $b i n ( \pmb \nu ) \in$ $\{ 0 , 1 \} ^ { n k }$ 为向量 $\nu$ 的二进制表示。 $\pmb { \nu } { = } \pmb { G } \cdot b i n ( \pmb { \nu } )$ ，十进制数 $\nu _ { i }$ 应转换为具有特殊写法的二进制数(与正常的二进制数写法顺序相反，从最低位数开始写起，且自上而下书写，依次写到最高位数而止)，然后自上而下依次书写 $\nu _ { 0 } , \nu _ { 1 } , \cdots , \nu _ { n - 1 }$ 所对应的特殊写法二进制数，最终得到向量 $b i n ( \pmb \nu )$ 。由于队列具有先进先出的特点，这里可通过队列实现 $\nu$ 的数制转换，其算法的具体实现过程如下所示。
+
+输入：十进制向量 $\boldsymbol { \nu }$ 。
+
+输出：bin(v)。
+
+a）void coversion(int N)
+
+b) {//对于任一十进制数，输出其对应的二进制数  
+c) InitQueue(Q); //初始化空队列Q  
+d) while( $1 0 \mathbf { g } _ { 2 } \mathsf { N } > = 2$ ）  
+e) {  
+f) EnQueue(Q，N%2)； $/ { * }$ 调用函数 EnQueue()，将 $\textsf { N }$ 与2求余得到的二进制数加入队列 ${ \textsf { Q } } ^ { * } /$ （204号  
+g) $N = N / 2$ ;  
+h) }  
+i) while（!QueueEmpty(Q)）//当队列Q非空时，循环j) {  
+k) DeQueue(Q，e); /\*调用函数 DeQueue()，弹出队列Q的队头元素e $^ { * } /$   
+1) count<<e;  
+m） }  
+n）}  
+o）void main()  
+p) {//将 $\mathfrak { n }$ 维向量 $\pmb { \nu }$ 转换为其对应的二进制向量bin(v)  
+q） int v[n];  
+r) for( $\scriptstyle \mathbf { i } = \theta$ ；i<n; $^ { \mathrm { i } + + }$ ）  
+s) coversion(int v[i]); /\*调用函数coversion()，将十进制数v[i]转换为二进制数\*/  
+t）}
+
+# 4 安全性分析
+
+# 4.1 正确性
+
+格上累加器的正确性文献[20]中已进行了论证，这里主要论证知识签名证明的正确性：
+
+$$
+\begin{array} { r l } & { H _ { 3 } ( \mu , A , z ^ { - 1 } \cdot G \cdot c - z ^ { - 1 } \cdot A \cdot k ( \bmod q ) , c , W ) = } \\ & { H _ { 3 } ( \mu , A , z ^ { - 1 } \cdot ( G \cdot b i n ( A \cdot r \bmod q ) - A \cdot k ( \bmod q ) ) , c , W ) = } \\ & { H _ { 3 } ( \mu , A , z ^ { - 1 } \cdot ( A \cdot r - A \cdot k ( \bmod q ) ) , c , W ) = } \\ & { H _ { 3 } ( \mu , A , A \cdot z ^ { - 1 } \cdot ( r - k ) \bmod q , c , W ) = } \\ & { H _ { 3 } ( \mu , A , A \cdot z ^ { - 1 } \cdot z \cdot x \bmod q , c , W ) = } \\ & { H _ { 3 } ( \mu , A , A \cdot x \bmod q , c , W ) = } \\ & { H _ { 3 } ( \mu , A , A \cdot x \bmod q , c , W ) = } \\ & { H _ { 3 } ( \mu , A , G \cdot d , c , W ) = z } \end{array}
+$$
+
+# 4.2不可伪造性
+
+定理3如果 $\mathrm { S I V P } _ { \bar { O } ( n ) }$ 问题是困难的，那么在随机预言机模型下，格上的简短可链接环签名是不可伪造的。
+
+证明：在随机预言机模型下，假设敌手 $\mathcal { A }$ 以 $\mathbf { \sigma } _ { \varepsilon }$ 的优势赢得不可伪造性游戏，那么一定存在模拟器 $\mathcal { B }$ 或者攻破格上累加器的安全性，或者以不可忽略的优势解决一个 $\mathbf { S I S } _ { n , m , q , 1 } ^ { \infty }$ 问题实例。
+
+为达到目的， $\mathcal { B }$ 将公共参数 $( A , H _ { A } , H _ { 1 } , H _ { 2 } )$ 发送给 $\mathcal { A }$ ，在游戏期间， $\mathcal { B }$ 诚实地回答 $\mathcal { A }$ 的公钥询问，并将公钥$p k = b i n ( A \cdot x \bmod q )$ 返回给 $\mathcal { A }$ 。在每次公钥询问中， $\mathcal { B }$ 秘密保留其选择的私钥 $s k = \pmb { x } \in \{ 0 , 1 \} ^ { m }$ 。掌握所有的私钥， $\mathcal { B }$ 就能回答所有的私钥询问以及签名询问。
+
+游戏结束时， $\mathcal { A }$ 输出通过验证的 $( \mu ^ { * } , R ^ { * } , \sigma ^ { * } )$ ，并且 $\mathcal { A }$ 从未询问过环 $R ^ { * }$ 成员的私钥，同时也未对 $( \cdot , \mu ^ { * } , R ^ { * } )$ 进行过签名询问。这里 $R ^ { * } = ( p k _ { i _ { 1 } } , \cdots , p k _ { i _ { | \boldsymbol { x } ^ { * } | } } )$ 为一组二进制向量 $( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { | R ^ { * } | - 1 } )$ ，$\boldsymbol { \sigma } ^ { * } = ( \pmb { u } ^ { * } , I ^ { * } , W ^ { * } , c ^ { * } , z ^ { * } , \pmb { k } ^ { * } )$ ， $\pmb { u } ^ { * } = \mathrm { T A c c } _ { A } ( \pmb { R } ^ { * } )$ 。
+
+设 $H _ { 3 } ( { \mathbf \xi } )$ 为随机预言机，敌手 $\mathcal { A }$ 至多进行 $q _ { H }$ 次哈希询问，根据分叉引理[22]， $\mathcal { A }$ 能以 $( 1 - e ^ { - 1 } ) \frac { \varepsilon } { q _ { H } }$ 的概率输出两个有效的签名 $( { \pmb u } ^ { * } , I ^ { * } , W ^ { * } , c ^ { * } , z ^ { * } , { \pmb k } ^ { * } )$ 和 $( u ^ { * } , I ^ { * } , W ^ { * } , c ^ { * } , z _ { 0 } ^ { * } , { \pmb k } _ { 0 } ^ { * } )$ ，其中 $z ^ { * } \neq z _ { 0 } ^ { * }$ 。
+
+根据签名机制，模拟器 $\mathcal { B }$ 可得到方程组
+
+$$
+\left\{ \begin{array} { l l } { k ^ { * } = r ^ { * } - z ^ { * } \cdot x ^ { * } ( { \bmod { q } } ) } \\ { k _ { 0 } ^ { * } = r ^ { * } - z _ { 0 } ^ { * } \cdot x ^ { * } ( { \bmod { q } } ) } \end{array} \right.
+$$
+
+两式相减可计算出
+
+$$
+\pmb { x } ^ { * } = ( z _ { 0 } ^ { * } - z ^ { * } ) ^ { - 1 } ( \pmb { k } ^ { * } - \pmb { k } _ { 0 } ^ { * } ) \bmod q
+$$
+
+然后可计算出
+
+$$
+d ^ { * } = b i n ( A \cdot x ^ { * } { \bmod { q } } )
+$$
+
+进一步根据算法TWitness $_ A \left( R ^ { * } , d ^ { * } \right)$ 可得到 $\boldsymbol { w } ^ { * }$ 。
+
+最终 $\mathcal { B }$ 得以提取知识 $( w ^ { * } , d ^ { * } , \pmb { x } ^ { * } )$ ，这里$\boldsymbol { w } ^ { * } = ( ( j ^ { * } , \cdots , j ^ { * } , ) , ( \boldsymbol { w } ^ { * } , \cdots , \boldsymbol { w } ^ { * } , ) )$ ，而 $( j ^ { * } , \cdots , j ^ { * } , ) \in \{ 0 , 1 \} ^ { l }$ 是某个下标$j ^ { * } \in \{ 0 , \cdots , | R ^ { * } | - 1 \}$ 的二进制展开，同时满足
+
+$$
+\left\{ \begin{array} { l l } { \pmb { G } { \cdot } \pmb { d } ^ { * } = \pmb { A } { \cdot } \pmb { x } ^ { * } \bmod q } \\ { \mathrm { T V e r i f y } _ { A } ( \pmb { u } ^ { * } , \pmb { d } ^ { * } , \pmb { w } ^ { * } ) = 1 } \end{array} \right.
+$$
+
+此时，分两种情况讨论：
+
+$1 ) ^ { d ^ { * } \notin R ^ { * } = ( { d _ { 0 } , \cdots } , { d _ { | R ^ { * } | - 1 } } ) }$ ，则上面的 $\mathrm { T V e r i f y } _ { A } ( u ^ { * } , d ^ { * } , w ^ { * } ) { = } 1$ 就意味着 $\mathcal { B }$ 可以用 $( d ^ { * } , R ^ { * } , { \pmb u } ^ { * } )$ 攻破格上累加器的安全性。
+
+（2号 $2 ) ^ { d ^ { * } \in R ^ { * } = ( { d _ { \mathrm { 0 } } } , \cdots , { d _ { | R ^ { * } | - 1 } } ) }$ ，所以 $\pmb { d } ^ { * } = \pmb { d } _ { j ^ { * } } = p k _ { j ^ { * } }$ ，提取的知识 $( \pmb { d } _ { j ^ { * } } , \pmb { x } ^ { * } )$ 满足
+
+$$
+G \cdot d _ { j ^ { * } } = A \cdot x ^ { * } { \bmod { q } }
+$$
+
+回忆一下 $s k _ { j ^ { * } }$ 为在某次公钥询问中模拟器 $\mathcal { B }$ 选择的向量$\pmb { x } _ { j ^ { * } } \in \{ 0 , 1 \} ^ { m }$ ，满足
+
+$$
+G \cdot d _ { j ^ { * } } = A \cdot x _ { j ^ { * } } { \bmod { q } }
+$$
+
+由于敌手 $\mathcal { A }$ 不能询问用户 $j ^ { * }$ 的私钥，所以有1/2的概率${ \pmb x } _ { j ^ { * } } \neq { \pmb x } ^ { * }$ 。式(14)和(15)两式相减可得 $\pmb { A } \cdot ( \pmb { x } _ { j ^ { * } } - \pmb { x } ^ { * } ) = \pmb { \theta } { \bmod { q } }$ ，进而可得到 $\mathrm { S I S } _ { n , m , q , 1 } ^ { \infty }$ 问题的一个有效解 $\omega = x _ { j ^ { * } } - x ^ { * } \in \{ - 1 , 0 , 1 \} ^ { m }$ 。
+
+从以上两种情况的讨论可知，若敌手 $\mathcal { A }$ 伪造签名成功，则模拟器 $\mathcal { B }$ 要么破坏格上累加器的安全性，要么解决一个$\mathrm { S I S } _ { n , m , q , 1 } ^ { \infty }$ 问题实例。这显然均与 $\mathrm { S I V P } _ { { \tilde { O } } ( n ) }$ 问题困难假设相矛盾，定理得证。
+
+# 4.3匿名性
+
+定理4本方案具备匿名性。
+
+证明：通过挑战者 $\mathcal { B }$ 与敌手 $\mathcal { A }$ 间的匿名性游戏进行证明，Gameo模拟 $\mathcal { B }$ 利用 $\pmb { d } _ { i _ { 0 } }$ 对应的私钥 $\boldsymbol { x } _ { i _ { 0 } }$ 进行签名，Gamei模拟 $\mathcal { B }$ 利用 $\pmb { d } _ { i _ { 1 } }$ 对应的私钥 $\pmb { x } _ { i _ { 1 } }$ 进行签名，若敌手 $\mathcal { A }$ 对两个签名的概率分布不可区分，那么本方案满足匿名性。
+
+Gameo:
+
+1) $\mathcal { B }$ 输入安全参数 $n$ ，从 $\mathbb { Z } _ { q } ^ { n \times m }$ 中均匀随机抽样得到 $A$ ，选取抗碰撞单向哈希函数： $H _ { A } \in \mathcal { H }$ ， $H _ { \mathfrak { l } }$ ， $H _ { 2 }$ ， $H _ { 3 }$ ，输出这些公共参数；然后从 $\{ 0 , 1 \} ^ { m }$ 中均匀随机选择 $\boldsymbol { x } _ { i } , i \in [ 0 , N - 1 ]$ ，分别计算 ${ \pmb d } _ { i } = b i n ( { \pmb A } \cdot { \pmb x } _ { i } \bmod { q } )$ ， $\pmb { d } _ { i } \in \{ 0 , 1 \} ^ { n k }$ ，加入环 $R$ ，保留私钥$\pmb { x } _ { i } , i \in [ 0 , N - 1 ]$ ，输出环 $\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ 。
+
+2)敌手 $\mathcal { A }$ 将待签名消息 $\mu \in \{ 0 , 1 \} ^ { * }$ ，环 $\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ ，以及环中任意两个公钥 $\pmb { d } _ { i _ { 0 } } , \pmb { d } _ { i _ { 1 } } \in \pmb { R }$ 发送给 $\mathcal { B }$ ； $\mathcal { B }$ 选取 $b = 0$ 即选取 $\pmb { d } _ { i _ { 0 } }$ 对应的私钥 $\boldsymbol { x } _ { i _ { 0 } }$ 进行签名。
+
+3) $\mathcal { B }$ 运行算法 $\mathrm { L S i g n } _ { { _ p p } } ( { \pmb x } _ { i _ { 0 } } , \mu , R )$ ，利用拒绝采样定理，生成签名 $\boldsymbol { \sigma } _ { R } ( \mu ) = ( \mathbf { \boldsymbol { u } } , I , W , c , z , \boldsymbol { k } )$ ，并将其返回给敌手 $\mathcal { A }$ 。
+
+4)敌手 $\mathcal { A }$ 收到签名后给出对 $b$ 的猜测。
+
+Game1:
+
+Gamei与Gameo的不同在于 $\mathcal { B }$ 选取 $b = 1$ 即选取 $\pmb { d } _ { i _ { 1 } }$ 对应的私钥 $\boldsymbol { x } _ { i _ { 1 } }$ ，运行签名算法 $\mathrm { L S i g n } _ { { p p } } ( \pmb { x } _ { i _ { 1 } } , \mu , R )$ ，利用拒绝采样定理生成 $\sigma _ { R } ^ { * } ( \mu ) = ( \pmb { u } , I ^ { * } , W ^ { * } , c ^ { * } , z ^ { * } , \pmb { k } ^ { * } )$ ，将其返回给敌手 $\mathcal { A }$ ，敌手 $\mathcal { A }$ 给出对 $b$ 的猜测，其余部分均与Gameo相同。
+
+Gameo与Gamei生成的签名分别为 $\sigma _ { R } ( \mu )$ 与 $\sigma _ { R } ^ { * } ( \mu )$ ，因为$\sigma _ { R } ( \mu )$ 与 $\sigma _ { R } ^ { * } ( \mu )$ 均是利用拒绝采样定理得到的，故两个签名的分布统计距离可忽略不计，所以两者是不可区分的，因此敌手 $\mathcal { A }$ 在匿名性游戏中获胜的优势是可忽略的，本方案满足匿名性。
+
+# 4.4可链接性
+
+定理5若本方案是不可伪造的，在随机预言机模型下，对于任意多项式时间敌手 $\mathcal { A }$ ，本方案签名满足可链接性。
+
+证明：根据可链接性的定义，假设敌手 $\mathcal { A }$ 能以不可忽略的优势 $\boldsymbol { \varepsilon }$ 赢得定义6中的游戏，则敌手 $\mathcal { A }$ 将与挑战者 $\mathcal { B }$ 进行如下交互：
+
+1) $\mathcal { B }$ 输入安全参数 $n$ ，从 $\mathbb { Z } _ { q } ^ { n \times m }$ 中均匀随机抽样得到 $A$ ，选取抗碰撞单向哈希函数： $H _ { A } \in \mathcal { H }$ ，输出这些公共参数；然后从 $\{ 0 , 1 \} ^ { m }$ 中均匀随机选择 $\boldsymbol { x } _ { i } , i \in [ 0 , N - 1 ]$ ，分别计算$d _ { i } = b i n ( A \cdot x _ { i } \operatorname { m o d } q )$ ， $\pmb { d } _ { i } \in \{ 0 , 1 \} ^ { n k }$ ，加入环 $R$ ，保留私钥 $\pmb { x } _ { i } , i \in [ 0 , N - 1 ]$ 输出环 $R = ( d _ { 0 } , \cdots , d _ { { N - 1 } } )$ 0
+
+2)敌手 $\mathcal { A }$ 可以进行多项式次的访问预言机，包括哈希询问、私钥询问及签名询问， $\mathcal { B }$ 将询问结果返回给 $\cdot \mathcal { T } _ { 1 }$ 。
+
+$\textcircled{1}$ 私钥询问： $\mathcal { A }$ 可以选择 $\pmb { d } \in \pmb { R }$ 进行询问， $\mathcal { B }$ 将其对应的私钥 $x$ 返回给 $\mathcal { A }$ 。
+
+$\textcircled{2}$ 哈希询问：
+
+a) $H _ { 1 }$ 询问： $\mathcal { A }$ 可以利用私钥 $x$ 进行询问， $\mathcal { B }$ 将 $I$ 返回给 $\mathcal { A }$ ：
+
+b) $H _ { 2 }$ 询问： $\mathcal { A }$ 可以选择 $\textbf { \em d }$ 的 $w$ 进行询问， $\mathcal { B }$ 将 $W$ 返回给 $\mathcal { A }$ ：，
+
+c) $H _ { 3 }$ 询问： $\mathcal { A }$ 可以选择 $\mu \in \{ 0 , 1 \} ^ { * }$ ，及 $\pmb { d } \in \pmb { R }$ 进行询问， $\mathcal { B }$ 将 $z$ 返回给 $\mathcal { A }$ 。
+
+$\textcircled{3}$ 签名询问： $\mathcal { A }$ 选择环 $\pmb { R } = ( \pmb { d } _ { 0 } , \cdots , \pmb { d } _ { N - 1 } )$ ， $\mu \in \{ 0 , 1 \} ^ { * }$ ，及 $\pmb { d } \in \pmb { R }$ 进行询问， $\mathcal { B }$ 执行算法 $\mathrm { L S i g n } _ { p p } ( s k , \mu , R )$ ，用 $\pmb { d }$ 对应的私钥 $\mathbf { \sigma } _ { x }$ 进行签名，生成 $\sigma _ { R } ( \mu )$ 并返回给 $\mathcal { A }$ 。
+
+3)敌手 $\mathcal { A }$ 输出两个签名 $\boldsymbol { \sigma } _ { R _ { 1 } } ( \mu _ { 1 } ) = ( \boldsymbol { u } _ { 1 } , I _ { 1 } , W _ { 1 } , \boldsymbol { c } _ { 1 } , z _ { 1 } , k _ { 1 } )$ 及$\sigma _ { R _ { 2 } } ( \mu _ { 2 } ) = ( u _ { 2 } , I _ { 2 } , W _ { 2 } , { \pmb c } _ { 2 } , z _ { 2 } , { \pmb k } _ { 2 } )$ 。
+
+假设敌手 $\mathcal { A }$ 能在仅持有一个私钥的情况下以不可忽略的优势 $\boldsymbol { \varepsilon }$ 生成两个环签名 $\sigma _ { R _ { 1 } } ( \mu _ { 1 } ) , \sigma _ { R _ { 2 } } ( \mu _ { 2 } )$ ，并且$\mathrm { L V e r i f y } _ { p p } ( \mu _ { i } , R _ { i } , \sigma _ { R _ { i } } ( \mu _ { i } ) ) = 1 , i \in \{ 1 , 2 \}$ ，因为本文提出的简短可链接环签名具有不可伪造性，所以只有当敌手 $\mathcal { A }$ 诚实地按签名机制生成 $\sigma _ { R _ { 1 } } ( \mu _ { 1 } ) , \sigma _ { R _ { 2 } } ( \mu _ { 2 } )$ 时，这两个签名才能通过验证返回1。
+
+另一方面，本文有 $I _ { 1 } = H _ { 1 } ( { \pmb A } , { \pmb x } _ { 1 } )$ ， $I _ { 2 } = H _ { 1 } ( A , x _ { 2 } )$ ，因为敌手手 $\mathcal { A }$ 仅拥有一个私钥，则有 $\pmb { x } _ { 1 } = \pmb { x } _ { 2 }$ ，在询问随机预言机 $H _ { 1 } ( \cdot , \cdot )$ 时，相同的询问会有相同的回应，此时有 $I _ { 1 } = I _ { 2 }$ ，则$\mathrm { L L i n k } ( \sigma _ { R _ { 1 } } ( \mu _ { 1 } ) , \sigma _ { R _ { 2 } } ( \mu _ { 2 } ) ) = \mathrm { L i n k e }$ d。这与假设相矛盾，所以敌手 $\mathcal { A }$ 的优势是可忽略的。定理得证。
+
+# 5 性能分析与实验评估
+
+# 5.1性能分析
+
+汤永利等的方案 $[ 1 0 ]$ 及L2RS[11]均为格上的可链接环签名方案，本方案LSLRS将与这两个方案在时间开销和存储开销方面分别进行对比分析。
+
+三种方案的时间开销对比如表1所示，统一使用 $N$ 代表环成员个数，统一使用 $T _ { \mathrm { H } }$ 代表方案中的各种哈希运算的单步平均耗时(除了本方案的 $H _ { A }$ ),使用 $T _ { \mathrm { T G } \setminus T _ { \mathrm { S P } \setminus T _ { \mathrm { S D } \setminus T _ { \mathrm { L H L } \setminus T _ { \mathrm { M U L } \setminus \Omega } } } } }$ $T _ { \mathrm { b i n } }$ 、TrAcc、Trwitness分别表示陷门生成算法[23]、原像抽样算法[23]、高斯抽样算法[23]、剩余哈希引理[11]、矩阵向量乘法、bin(）算法、 $\operatorname { T A c c } _ { A \left( \right) }$ 算法、TWitnessAO算法的单步平均耗时，这些运算耗时相对较多，主要以这些运算衡量方案的时间开销，忽略矩阵加减等耗时相对较少的运算。从系统创建(Setup)用户密钥生成(Key generate)、签名生成(Sign)、签名验证(Verify)所消耗的时间进行分析，其中log的底数为2。
+
+在系统创建阶段，汤永利等的方案[10]是基于身份的可链接环签名，需要运用陷门生成算法生成系统主密钥，故其该阶段的时间开销主要为 $T _ { \mathrm { T G } }$ ，L2RS[11]及本方案非基于身份的签名，没有这部分的时间开销。在用户密钥生成阶段，因需要生成 $N$ 对公私钥，本文LSLRS需执行 $N$ 次矩阵向量乘法和 $N$ 次bin（）算法， $T _ { \mathrm { b i n } } { = } O ( \operatorname* { m a x } { \log \nu _ { i } } )$ ， $T _ { \mathrm { M U L } } = { \cal O } ( n m )$ ，显然$T _ { \mathrm { b i n } } < T _ { \mathrm { M U L } }$ ；汤永利方案[10]需要 $N$ 次的哈希运算和 $N$ 次的原像抽样算法，L2RS[1]需要 $N$ 次的矩阵向量乘法和 $N$ 次的剩余哈希引理算法。在签名生成阶段，本方案LSLRS需要执行3次哈希运算、一次TAccAO算法、一次TWitnessA(算法、一次高斯抽样算法、一次矩阵向量乘法、及一次bin()算法，其中$H _ { A }$ 的时间复杂度为 $T _ { H _ { A } } = 2 T _ { \mathrm { M U L } } + T _ { \mathrm { b i n } } = O ( n m ) + O ( \operatorname* { m a x } \log \nu _ { i } ) = O ( n m )$ ，（204号 $T _ { \mathrm { T A c c } } = ( N - 1 ) T _ { H _ { A } } = ( N - 1 ) \cdot O ( n m ) = ( N - 1 ) T _ { \mathrm { M U L } }$ ， $T _ { \mathrm { T W i t n e s s } } = O ( l ^ { 2 } ) = O ( \log ^ { 2 } N )$ ，显然 $T _ { \mathrm { T W i t n e s s } } < T _ { \mathrm { M U L } }$ ，该阶段本方案的时间开销为$3 T _ { \mathrm { H } } + N \cdot T _ { \mathrm { M U L } } + T _ { \mathrm { T W i t n e s s } } + T _ { \mathrm { b i n } } + T _ { \mathrm { S D } }$ ；汤永利方案[10]需要执行 $N { + } 1$ 次的哈希运算、 $2 N { + } 1$ 次的矩阵向量乘法、及 $N$ 次高斯抽样算法，L2RS 需要执行 $N$ 次哈希运算、 $3 N { + } 2$ 次矩阵向量乘法、及 $N$ 次高斯抽样算法；显然，在该阶段本方案LSLRS 效率最优。在签名验证阶段，本方案LSLRS 需要执行一次TAcCAO算法、一次哈希运算、及两次矩阵乘法运算，该阶段的总时间开销为 $T _ { \mathrm { H } } + ( N + 1 ) T _ { \mathrm { M U L } }$ ；L2RS需要执行 $N$ 次哈希运算和 $4 N { + } 1$ 次的矩阵向量乘法，汤永利等方案[10]需要执行2N次哈希运算和2N次的矩阵向量乘法；在该阶段本方案[10]效率最优。这里用T(L2RS)表示L2RS的时间复杂度，用T(TANG)表示汤永利等方案[10]的时间复杂度，用T(LSLRS)表示本方案的时间复杂度，则
+
+$$
+T ( \mathrm { L 2 R S } ) = N { \cdot } T _ { \mathrm { M U L } } + N { \cdot } T _ { \mathrm { L H L } } + N { \cdot } T _ { \mathrm { H } } +
+$$
+
+$$
+( 3 N + 2 ) T _ { \mathrm { M U L } } + N \cdot T _ { \mathrm { S D } } + N \cdot T _ { \mathrm { H } } + ( 4 N + 1 ) T _ { \mathrm { M U L } } =
+$$
+
+$$
+( 8 N + 3 ) T _ { \mathrm { M U L } } + N \cdot T _ { \mathrm { S D } } + 2 N \cdot T _ { \mathrm { H } } + N \cdot T _ { \mathrm { L H L } }
+$$
+
+$$
+T ( \mathrm { T A N G } ) { = } T _ { \mathrm { T G } } + N \cdot T _ { \mathrm { H } } + N \cdot T _ { \mathrm { S P } } + ( N + 1 ) T _ { \mathrm { H } } +
+$$
+
+$$
+( 2 N + 1 ) T _ { \mathrm { M U L } } + N \cdot T _ { \mathrm { S D } } + 2 N \cdot T _ { \mathrm { H } } + 2 N \cdot T _ { \mathrm { M U L } } =
+$$
+
+$$
+( 4 N + 1 ) T _ { \mathrm { M U L } } + N \cdot T _ { \mathrm { S D } } + ( 4 N + 1 ) T _ { \mathrm { H } } + N \cdot T _ { \mathrm { S P } } + T _ { \mathrm { T G } }
+$$
+
+$$
+T ( \mathrm { L S L R S } ) = N \cdot T _ { \mathrm { b i n } } + N \cdot T _ { \mathrm { M U L } } + 3 T _ { \mathrm { H } } + T _ { \mathrm { T A c c } } +
+$$
+
+$$
+T _ { \mathrm { T W i t n e s s } } + T _ { \mathrm { S D } } + T _ { \mathrm { M U L } } + T _ { \mathrm { b i n } } + T _ { \mathrm { T A c c } } + T _ { \mathrm { H } } + 2 T _ { \mathrm { M U L } } =
+$$
+
+$$
+( N + 3 ) T _ { \mathrm { M U L } } + 2 T _ { \mathrm { T A c c } } + T _ { \mathrm { S D } } + 4 T _ { \mathrm { H } } + ( N + 1 ) T _ { \mathrm { b i n } } + T _ { \mathrm { T W i n c s s } } =
+$$
+
+$$
+( N + 3 ) T _ { \mathrm { M U L } } + 2 ( N - 1 ) T _ { \mathrm { M U L } } + T _ { \mathrm { S D } } + 4 T _ { \mathrm { H } } + ( N + 1 ) T _ { \mathrm { b i n } } + T _ { \mathrm { T W i t n e s s } } =
+$$
+
+$$
+( 3 N + 1 ) T _ { \mathrm { M U L } } + ( N + 1 ) T _ { \mathrm { b i n } } + T _ { \mathrm { T W i t n e s s } } + T _ { \mathrm { S D } } + 4 T _ { \mathrm { H } }
+$$
+
+显然T(LSLRS)最小，本方案的效率最高。
+
+表1时间开销对比
+
+Tab.1 Comparison of time cost   
+
+<html><body><table><tr><td>方案</td><td>系统创建</td><td>密钥生成</td><td>签名</td><td>验证</td></tr><tr><td>L2RS[1]</td><td>/</td><td>N·TMUL+</td><td>N·TH+ (3N+2)TMUL+N·TSD</td><td>N·TH +</td></tr><tr><td>文献[10]</td><td>TTG</td><td>N·TLHL N·TH+ N·TSP</td><td>(N+1)TH+ (2N+1)TMUL+N·TsD</td><td>(4N+1)TMUL 2N·TH +2N·TMUL</td></tr><tr><td></td><td></td><td>N·Tbin+</td><td>3 TH+TTAcc+TTWitness+TSD +</td><td></td></tr><tr><td rowspan="2">LSLRS</td><td rowspan="2">/</td><td></td><td></td><td rowspan="2">TTAcc+ TH+2TMUL</td></tr><tr><td>N·TMUL</td><td>TMUL+ Tbin</td></tr></table></body></html>
+
+三种方案的存储开销对比如表2所示，仍然统一使用 $N$ 表示环成员个数，主要从单个用户的公钥长度、私钥长度、及签名长度分别进行对比。log的底数为2， $\log q > 1$ 。在单个用户公钥长度方面，本方案LSLRS的公钥 $\pmb { d } _ { i } \in \{ 0 , 1 \} ^ { n k }$ ，为nk（即 $n \lceil \log q \rceil$ )维的列向量，每个向量元素为0或1，故单个公钥占n[logq]位；汤永利等的方案[10]公钥属于 $\mathbb { Z } _ { q } ^ { n }$ ，为 $n$ 维列向量，故长度为nlogq;L2RS[I的公钥属于卷积多项式环 $\mathcal { R } _ { { \boldsymbol q } } ^ { \mathrm { l } \times { m } }$ ，通常将其表示为矩阵形式(即系数矩阵)， (其系数矩阵)属于$\mathbb { Z } _ { 2 q } ^ { n \times m }$ ，故公钥长度为 $n m + n m \log q$ ；因此本方案的公钥长度与文献[10]的几乎一样，较L2RS有明显的减小。在单个用户私钥长度方面，本方案LSLRS的公钥 $\pmb { x } _ { i } \in \{ 0 , 1 \} ^ { m }$ ，为 $m$ 维的列向量，每个向量元素为0或1，故单个公钥占 $m$ 位；汤永利等的方案[10]私钥属于 $\mathbb { Z } _ { q } ^ { m }$ ，为 $\mathbf { \nabla } _ { m }$ 维列向量，故长度为mlogq;L2RS[1I]的私钥属于卷积多项式环 $\mathcal { R } _ { 2 q } ^ { m \times 1 }$ ，通常将其表示为矩阵形式(即系数矩阵)， (其系数矩阵)属于 $\mathbb { Z } _ { 2 q } ^ { m \times n }$ ，故私钥长度为$n m + n m \log q$ ；因此，本方案的私钥长度较L2RS和文献[10]有明显的减小。在单个签名长度方面，本方案LSLRS生成的签名 $( u , I , W , c , z , k ) \in \{ 0 , 1 \} ^ { n k } \times \mathbb { Z } _ { q } \times \mathbb { Z } _ { q } \times \{ 0 , 1 \} ^ { n k } \times \mathbb { Z } _ { q } \times \mathbb { Z } _ { q } ^ { m }$ ，文献[10]生成的签名 $( C _ { 1 } , t _ { 1 } , \cdots , t _ { N } , I , b ) \in \mathbb { Z } _ { q } \times ( \mathbb { Z } _ { q } ^ { m + 1 } ) ^ { N } \times \mathbb { Z } _ { q } \times \mathbb { Z } _ { q } ^ { n }$ ，L2RS[]的签名$( \pmb { c } _ { 1 } , \pmb { t } _ { 1 } , \cdots , \pmb { t } _ { N } , \pmb { H } ) \in \mathcal { R } _ { 2 q } \times ( \mathbb { Z } _ { 2 q } ^ { m } ) ^ { N } \times \mathcal { R } _ { 2 q } ^ { 1 \times m }$ ，对比表明本方案的签名长度较L2RS和文献[10]有明显的减小，而且随着环成员数量 $N$ 的增大，L2RS和文献[10]的签名长度会随之增大，而本方案的签名长度固定不变。综上可知，本方案LSLRS的整体存储开销明显小于L2RS和文献[10]的。
+
+表2存储开销对比  
+
+<html><body><table><tr><td>方案</td><td>公钥长度</td><td>私钥长度</td><td>签名长度</td></tr><tr><td>L2RS[11]</td><td>nm+nmlogq</td><td>nm+nmlogq</td><td>(n+mN+nm)(1+logq)</td></tr><tr><td>文献[10]</td><td>nlogq</td><td>mlogq</td><td>[(m+1)N+n+2]logq</td></tr><tr><td>LSLRS</td><td>n[logq]</td><td>m</td><td>m+(m+3)logq</td></tr></table></body></html>
+
+# 5.2实验评估
+
+本文的实验在配置为Win10系统、英特尔酷睿i7-$1 0 7 5 0 \mathrm { H } \textcircled { < } 2 . 6 0 \mathrm { G H z }$ 处理器、512GB固态硬盘、8GB内存的计算机上运行，将参数设置为 $\scriptstyle n = 8$ ， $m { = } 5 1 2$ ， $q = 2 ^ { 3 2 }$ 。
+
+表3为三个方案(L2RS[11]、文献[10]、本方案LSLRS)的时间开销统计，环成员个数为16；图1为依据表3中的数据画出的时间开销对比图。从表3和图1中可以看出，本方案LSLRS在系统创建、签名、验证阶段的时间开销最小，方案的总时间开销也是最小的，效率最高，具体原因已在上节进行了分析，此处不再赘述。
+
+Tab.2Comparison of storage overhead   
+表3时间开销统计(单位：ms， $N { = } 1 6$ 0  
+Tab.3Statistics of time cost   
+
+<html><body><table><tr><td>方案</td><td>系统创建</td><td>密钥生成</td><td>签名</td><td>验证</td><td>总时间</td></tr><tr><td>L2RS[11]</td><td>0.012</td><td>12.096</td><td>29.364</td><td>30.426</td><td>71.898</td></tr><tr><td>文献[10]</td><td>0.348</td><td>5.952</td><td>21.364</td><td>14.976</td><td>42.64</td></tr><tr><td>LSLRS</td><td>0.009</td><td>7.176</td><td>12.144</td><td>6.988</td><td>26.317</td></tr></table></body></html>
+
+![](images/cc52cf1ea8edd8909e032fb42e237748ab313e061100db5f83480709121454d4.jpg)  
+图1时间开销对比 $( \ N { = } 1 6 )$ Fig.1Comparison of time cost $\left( \mathrm { N } { = } 1 6 \right)$ 0
+
+表4为三个方案(L2RS[1I]、文献[10]、本方案LSLRS)的存储开销统计，图2为依据表4中的单个公私钥长度数据画出的密钥长度对比图，图3为依据表4中的签名长度数据画出的签名长度对比图。从表4和图2可以看出，本方案LSLRS的单个公钥长度较小，单个私钥长度最小；从表4和图3可以看出，本方案LSLRS的签名长度最小，随着环成员个数的增大，L2RS[1]与文献[10]的签名长度均在增大，而本方案的签名长度保持不变，具体原因见上节的分析。
+
+表4存储开销统计(单位：KB)
+
+Tab.4Statistics of storage overhead   
+
+<html><body><table><tr><td rowspan="2">方案</td><td rowspan="2">单个公钥长度 单个私钥长度</td><td rowspan="2"></td><td colspan="3">签名长度</td></tr><tr><td>N=4</td><td>N=16 N=64</td><td>N=256</td></tr><tr><td>L2RS[1]</td><td>16.5</td><td>16.5</td><td></td><td>24.782 49.532 148.532 544.532</td><td></td></tr><tr><td>文献[10]</td><td>0.031</td><td>2</td><td></td><td>8.055 32.102 128.289 516.039</td><td></td></tr><tr><td>LSLRS</td><td>0.031</td><td>0.063</td><td>2.074 2.074</td><td>2.074</td><td>2.074</td></tr></table></body></html>
+
+![](images/1007d029b4d394e125d7a8b21de8b3c68afc4be279c5a5f29af68bb54e01f467.jpg)  
+图2密钥长度对比
+
+![](images/9e067550c88672d9379271b60b3a75fe156be0329778db89d192f3f068a5e12c.jpg)  
+Fig.2Comparison of key size   
+图3签名长度对比Fig.3Comparison of signature size
+
+# 6 结束语
+
+可链接环签名能有效解决区块链电子货币系统的双花攻击与区块链电子选举系统的重复投票问题，但已有基于格的可链接环签名长度随环成员的增多而增大，本文提出了基于格的简短可链接环签名。随着环成员的增多，本文LSLRS的签名长度保持不变，同时节省了时间和存储开销，因此本文方案具有更强的实用性。基于SIVP问题证明了签名的不可伪造性，另外又证明了签名的匿名性和可链接性。下一步工作致力于提出具体的基于格的区块链安全应用方案，并进一步提高方案的效率，确保区块链技术能更好地为社会大众服务。
+
+# 参考文献：
+
+[1]Yang Di,Long Chengnian,Xu Han,et al.A review on scalability of blockchain [C]//Proc of the 2nd International Conference on Blockchain Technology.New York:ACMPress,2020:1-6.
+
+[2] 蔡晓晴，邓尧，张亮，等．区块链原理及其核心技术[J]计算机学 报,2021,44 (01): 84-131.(Cai Xiaoqing,Deng Yao,Zhang Liang,et al. The principle and core technology of blockchain [J].Chinese Journal of Computers,2021,44 (01): 84-131.)   
+[3]Rivest RL, Shamir A,Tauman Y.How to leak a secret [C]//Proc of the 7th International Conference on the Theory and Application of Cryptology and Information Security: Advances in Cryptology.Berlin: Springer,2001: 552-565.   
+[4]范青，何德彪，罗敏，等．基于SM2数字签名算法的环签名方案[J]. 密码学报,2021,8(4):710-723.(Fan Qing,He Debiao,Luo Min,et al. Ring signature schemes based on SM2 digital signature algorithm [J]. Journal of Cryptologic Research,2021,8 (4): 710 - 723.)   
+[5]Liu JK, Wei V K, Wong D S. Linkable spontaneous anonymous group signature for ad hoc groups [C]//Proc of the 9th Australasian Conference on Information Security and Privacy. Berlin: Springer,20o4: 325-335.   
+[6]Lyu Jiazhuo,Jiang Z L,Wang Xuan,et al.A secure decentralized trustless e-voting system based on smart contract [Cl//Proc of the 18th IEEE International Conference on Trust， Security and Privacy in Computing and Communications.Los Alamitos:IEEE Computer Soc. Press,2019: 570-577.   
+[7]Tsang PP,Wei V K. Short linkable ring signatures for e-voting, e-cash and attestation [C]//Proc of the lst Information Security Practice and Experience Conference. Berlin: Springer, 20o5: 48-60.   
+[8]Au MH,Chow S S M, Susilo W,et al. Short linkable ring signatures revisited [C]//Proc of the 3rd European Public Key Infrastructure Workshop.Berlin: Springer, 2006:101-115.   
+[9]Yu Bin，Liu JK,Sakzad A，et al.Platform-independent secure blockchain-based voting system [C]// Proc of the 21st International Information Security Conference.Berlin: Springer, 2018:369-386.   
+[10]汤永利，夏菲菲，叶青，等．格上基于身份的可链接环签名[J]．密 码学报,2021,8(2): 232-247.(Tang Yongli, Xia Feifei,Ye Qing,et al. Identity-based linkable ring signature on latice [J].Journal of Cryptologic Research,2021,8(2):232-247.)   
+[11] Torres WA,Kuchta V,Steinfeld R,etal.Post-quantum one-time linkable ring signature and application to ring confidential transactions in blockchain (lattice RingCT v1.O) [C]//Proc of the 23rd Australasian Conference on Information Security and Privacy.Berlin: Springer,2018: 558-576.   
+[12] TorresWA,Kuchta V, SteinfeldR,et al.Latice RingCT v2.O with multiple input and multiple output wallets [C]// Proc of the 24th Australasian Conference on Information Security and Privacy.Berlin: Springer,2019: 156-175.   
+[13] Baum C,Huang Lin,Oechsner S.Towards practical lattice-based onetime linkable ring signature [C]// Information and Communications Security.Proc of the 20th International Conference.[S.I.]:LNCS,2018: 303-322.   
+[14] Liu Zhen, Nguyen K, Yang Guomin, et al. A latice-based linkable ring signature supporting stealth addresses [Cl// Proc of the 24th European Symposium on Research in Computer Security.[S.I.] :LNCS,2019: 726-746.   
+[15] Saberhagen NV.CroptoNote v2.0 [EB/OL]. (2013-10-17)[2022-02-08]. https://static.coinpaprika.com/storage/cdn/whitepapers/1611. pdf.   
+[16]叶青，王文博,李莹莹，等．利用环上容错学习问题构造可链接环签 名方案[J].计算机科学与探索,2020,14(7):1164-1172.(Ye Qing, Wang Wenbo,Li Yingying,et al. Using ring learning with errors problem to construct linkable ring signature scheme [J]. Journal of Frontiers of Computer Science and Technology,2020,14(7): 1164-1172.)   
+[17]庄立爽，陈杰，王启宇．电子投票协议下的基于格的可链接门限环 签名[J]．密码学报,2021,8(3):402-416.(Zhuang Lishuang,Chen Jie,Wang Qiyu.Lattice-based linkable threshold ring signature in evoting[J]. Journal of Cryptologic Research,2021,8 (3): 402 -416.)   
+[18]严蔚敏，李冬梅，吴伟民．数据结构:C语言版[M].2版．北京：人 民邮电出版社,2015:55.(Yan Weimin,Li Dongmei,Wu Weimin.Data Structure [M].2nd ed.Beijing: Posts & Telecom Press,2015: 55.)   
+[19] Camenisch J, Stadler M.Efficient group signature schemes for large groups (extended abstract)[C]// Proc of the 17th Annual International Cryptology Conference.Berlin: Springer,1997: 410-424.   
+[20] Libert B,Ling S,Nguyen K,et al. Zero-knowledge arguments forlatticebased accumulators:logarithmic-size ring signatures and group signatures without trapdoors [C]/ Proc of the 35th Annual International Conference on the Theory and Applications of Cryptographic Techniques. Berlin: Springer, 2016,9666: 1-31.   
+[21]Lyubashevsky V.Lattice signatures without trapdoors [C]//Proc of the 3lst Annual IACR Eurocrypt International Conference on the Theory and Applications of Cryptographic Techniques.Berlin: Springer,2O12:738- 755.   
+[22]杨波．现代密码学[M].4版．北京：清华大学出版社,2017:273-274. (Yang Bo.Modern cryptography [M].4th ed.Beijing:Tsinghua University Press,2017: 273-274.)   
+[23] Gentry C,Peikert C,Vaikuntanathan V.Trapdoors for hard lattices and new cryptographic constructions [C]// Proc of the 14th Annual ACM International Symposium on Theory of Computing. New York:ACM Press,2008:197-206.

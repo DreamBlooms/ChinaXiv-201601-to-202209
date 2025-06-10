@@ -1,0 +1,174 @@
+硫酸化银耳多糖和党参多糖对鸡T淋巴细胞增殖及白细胞介素-2mRNA表达水平的影响 朱广双」　胡元亮²\*曹　侃」王本忠¹
+
+(1.芜湖职业技术学院生物工程学院，芜湖 241003；2.南京农业大学动物医学院，南京
+
+210095)
+
+摘要：为研究硫酸化银耳多糖（ $\mathrm { s T P S } _ { 7 0 \mathrm { c } }$ ）和硫酸化党参多糖（ $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ ）增强免疫作用机理，本试验以未修饰银耳多糖（ $\mathrm { T P S } _ { \mathrm { t p } }$ ）为对照，采用噻唑蓝（MTT）法和实时荧光定量PCR法测定了 $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 对鸡 $\mathrm { \Delta T }$ 淋巴细胞增殖及白细胞介素－2（IL-2）mRNA 表达水平的影响。结果表明，多糖单独加入到外周血淋巴细胞时， $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 几乎所有浓度均可显著刺激T淋巴细胞的增殖（ $( P { < } 0 . 0 5 )$ ，而 $\mathrm { T P S } _ { \mathrm { t p } }$ 仅在浓度为 $3 . 1 2 5 \mu \mathrm { g / m L }$ 时显著刺激T淋巴细胞增殖（ $P { < } 0 . 0 5 )$ ；多糖与植物血凝素 P(PHA-P)同时加入到外周血淋巴细胞时，$\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $0 . 3 9 1 { \sim } 1 . 5 6 3 ~ { \mu \mathrm { g / m L } }$ 时显著刺激淋巴细胞增殖 $( P { < } 0 . 0 5 ) { ; } \mathrm { s T P S } _ { 7 0 \mathrm { c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $1 . 5 6 3 ~ { \mu \mathrm { g / m L } }$ 时可提高 $\mathrm { \Delta T }$ 淋巴细胞 $I L { \cdot } 2 \ \mathrm { \ m R N A }$ 的表达（ $( P { < } 0 . 0 5 )$ ，其中 $\mathrm { \ s T P S _ { 7 0 c } }$ 对$I L { - } 2 ~ \mathrm { m R N A }$ 的促表达作用显著强于未修饰的 $\mathrm { T P S } _ { \mathrm { t p } }$ （ $_ { . P < 0 . 0 5 ) }$ ，且在浓度为 $1 . 5 6 3 ~ \mu \mathrm { g / m L }$ 时的作用最强。结果提示，硫酸化修饰可以提高多糖的淋巴细胞增殖活性及明显增强 $I L { - } 2 \ \mathrm { m R N A }$ 的表达，且以 $\mathrm { \ s T P S _ { 7 0 c } }$ 的作用较强，这与取代度有一定的相关性。
+
+关键词：硫酸化银耳多糖；硫酸化党参多糖；淋巴细胞增殖；白细胞介素－2  
+中图分类号：S831 文献标识码：A 文章编号：1006-267X(2017)07-0000-00
+
+硫酸化修饰可以进一步提高多糖的生物活性，并能产生许多新的药用价值，尤其是赋予或增强多糖的抗病毒和免疫活性，因此倍受关注。硫酸化多糖可通过多途径、多层面发挥免疫增强作用。研究证明，硫酸化多糖主要通过激活T淋巴细胞、B淋巴细胞、自然杀伤（NK)细胞、树突状细胞及巨噬细胞等免疫细胞，促进细胞因子分泌等方式和途径来实现对免疫系统的调节作用[1-3]。
+
+白细胞介素-2（IL-2）是T淋巴细胞活化产生的细胞因子，能促使B淋巴细胞分化和分泌抗体，诱导机体产生干扰素，提高单核细胞以及NK细胞的活性，在免疫反应中发挥重要的调节功能[4-5]。因此，在前期研究[6-7]的基础上，为了进一步了解硫酸化多糖增强免疫作用及探讨其作用机理，本试验采用噻唑蓝（MTT）法和实时荧光定量PCR 法测定硫酸化银耳多糖（ $\mathrm { \ s T P S _ { 7 0 c } }$ ）和硫酸化党参多糖（ $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ ）对鸡T淋巴细胞增殖及IL-2mRNA 表达水平的影响，研究 $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 的免疫增强作用并筛选出1种免疫活性较强的硫酸化多糖。
+
+# 1材料与方法
+
+# 1.1 试验试剂
+
+RPMI1640培养基购自Gibco 公司；小牛血清为浙江天杭生物科技有限公司产品；植物血凝素P（PHA-P）购自 Sigma 公司；淋巴细胞分离液为上海华精生物科技发展公司产品;二甲亚砜（DMSO）购自天津科密欧化学试剂公司；RNAiso Plus，Taq 酶， $5 \times$ Taq buffer,$2 . 5 \mathrm { m m o l / L }$ 氯化镁（ $\mathrm { \backslash } \mathrm { M g C l } _ { 2 }$ ）试剂均购自TakaRa公司；DEPC水为南京寿康生物技术有限公司产品；SYBR Green I Master Mix 购自日本 Toyobo 公司； $1 0 \ \mathrm { \ m m o l / L }$ 脱氧核苷三磷酸（dNTP）购自上海捷倍思生物技术有限公司；IL-2和磷酸甘油醛脱氢酶（GAPDH）引物由南京金斯瑞公司设计；DNAMarker 和离心柱型PCR产物纯化试剂盒均购自北京天根生化科技有限公司。
+
+# 1.2 试验药物
+
+$\mathrm { \ s T P S _ { 7 0 c } }$ 、 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 和未修饰银耳多糖（ $\mathrm { T P S } _ { \mathrm { t p } }$ ）由南京农业大学中兽医研究室提供。根据前期试验结果， $\mathrm { \ s T P S _ { 7 0 c } }$ 、 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 和 $\mathrm { T P S } _ { \mathrm { t p } }$ 分别用无小牛血清的 RPMI1640 培养液稀释成6.250、3.125、1.563、0.782 和 $0 . 3 9 1 ~ \mu \mathrm { g / m L }$ 5个浓度，以 $0 . 2 2 ~ { \mu \mathrm { m } }$ 微孔滤膜过滤除菌， $4 \mathrm { { ^ \circ C } }$ 保存备用。
+
+# 1.3鸡T淋巴细胞的分离及培养
+
+成年公鸡无菌心脏采血(肝素抗凝） $3 0 ~ \mathrm { m L }$ ，Hank's液稀释后加入淋巴细胞分离液上层，$2 0 0 0 \mathrm { r / m i n }$ 离心 $2 0 \mathrm { m i n }$ ，吸取中间云雾状细胞，Hank's 液洗涤， $1 5 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 。细胞计数后，调整细胞密度为 $2 . 5 { \times } 1 0 ^ { 6 }$ 个 $/ \mathrm { m L }$ ，每孔 ${ 8 0 \mu \mathrm { L } }$ 细胞液加入96孔细胞培养板，然后加入各浓度的 $\mathrm { s T P S } _ { 7 0 \mathrm { c } } \mathrm { , s C P P S } _ { 5 0 \mathrm { c } }$ 和 $\mathrm { T P S } _ { \mathrm { t p } } \ 1 0 0 \ \mu \mathrm { L }$ ,重复4孔，另加入终浓度为 $2 0 ~ \mu \mathrm { g / m L }$ PHA-P,并设多糖对照、细胞对照和PHA-P 对照。置于 $3 7 \mathrm { ~ \textdegree C }$ $5 \%$ （20 $\mathrm { C O } _ { 2 }$ 细胞培养箱中培养 $^ { 4 8 \mathrm { ~ h ~ } }$ ，加入MTT $2 0 { \mu \mathrm { L } }$ ，继续培养 $ { 4 \mathrm { h } }$ 后，每孔加DMSO $1 0 0 \mu \mathrm { L }$ ，于酶联免疫检测仪上测定 $\mathbf { A } _ { 5 7 0 }$ 值，检测T淋巴细胞增殖能力[7-8]。
+
+1.4 $\mathrm { \ s T P S _ { 7 0 c } }$ 、 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 和 $\mathrm { T P S } _ { \mathrm { t p } }$ 对鸡T淋巴细胞IL-2mRNA表达水平的测定
+
+# 1.4.1鸡T淋巴细胞的分离及培养
+
+分离方法同1.3。调整细胞浓度为 $\boldsymbol { 1 \times } \boldsymbol { 1 0 } ^ { 7 }$ 个 $/ \mathrm { m L }$ ，每孔 ${ 8 0 0 \mu \mathrm { L } }$ 细胞液加入到6孔细胞培养板，同时加入 $1 . 5 6 3 { \sim } 6 . 2 5 0 ~ \mu \mathrm { g / m L }$ 的 $\mathrm { \ s T P S _ { 7 0 c } }$ 、 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 和 $\mathrm { T P S } _ { \mathrm { t p } }$ 各 $1 ~ \mathrm { m L }$ ，然后加入 $2 0 0 ~ \mu \mathrm { L }$ PHA-P溶液（ $2 0 ~ \mu \mathrm { g / m L }$ ），另设细胞对照和PHA-P对照，在 $3 7 \mathrm { ~ \textC ~ } 5 \% \mathrm { ~ C O } _ { 2 }$ 细胞培养箱中培养 $3 6 \mathrm { h }$ 后收集细胞于 $1 . 5 ~ \mathrm { m L }$ Eppendorf管，低温冷冻离心机中 $2 0 0 0 \mathrm { r / m }$ 离心 $1 0 \mathrm { m i n }$ 。弃上清，加 $1 \mathrm { m L }$ 磷酸缓冲液（PBS）混匀后再离心 $1 0 \mathrm { m i n }$ 。弃上清， $- 7 0 ^ { \circ } \mathrm { C }$ 保存，提取RNA备用。
+
+# 1.4.2鸡T淋巴细胞总RNA的提取
+
+各Eppendorf 管加入1mL Trizol，振荡混匀后，室温放置 $1 0 \mathrm { m i n }$ ；向每管中加入 $2 0 0 ~ \mu \mathrm { L }$ 氯仿，剧烈振荡，室温静置 $1 0 \mathrm { m i n }$ ； $1 2 \ : 0 0 0 \ : \mathrm { r / m i n }$ 低温离心 $1 5 \mathrm { m i n }$ ，取上清 $3 5 0 ~  { \mu \mathrm { L } }$ ，加入等体积异丙醇，混匀， $4 \mathrm { { ^ circ C } }$ 放置 $2 0 \mathrm { m i n }$ ，然后 $1 2 \ : 0 0 0 \ : \mathrm { r / m i n }$ 低温离心 $1 5 \mathrm { m i n }$ ，弃上清，用 $1 \mathrm { m L }$ $7 5 \%$ 乙醇洗涤沉淀，4℃下 $1 0 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ ，弃上清，RNA沉淀室温干燥。用 $2 0 ~ \mu \mathrm { L }$ $0 . 1 \%$ DEPC 水溶解， $- 2 0 \mathrm { { ^ { \circ } G } }$ 东存[9-10]。
+
+# 1.4.3 反转录
+
+以提取的RNA为模板进行反转录，按照反转录试剂盒说明操作。将反转录产物于一 $2 0 \ \mathrm { ^ { \circ } C }$ 保存备用。
+
+# 1.4.4 PCR引物的设计
+
+根据 GenBank上鸡IL-2（序列号：AJ224516.1）和GAPDH（序列号：NM204305）的RNA 序列，由南京金斯瑞生物技术有限公司合成引物。分别扩增 IL-2 和GAPDH的 138 bp和146 bp 片段[11]。
+
+IL-2（138 bp）：引物1， $5 ^ { \circ }$ -AGGGGTGAATTCACAAGGG-3’；引 物2，5'-ACTTCTCCCAGGTAACAC-3'。
+
+GAPDH（146bp）：引物1， $5 ^ { \circ }$ -TGGAGAAACCAGCCAAGTAT-3’；引物2，$5 ^ { \circ }$ -CGCATCAAAGGTGGAAGAAT-3'。
+
+1.4.5 实时荧光定量PCR的测定
+
+反应体系： $1 0 ~ \mu \mathrm { L }$ SYBR Green I Master Mix， $1 . 2 ~ \mu \mathrm { L }$ 上下游引物， $2 ~ \mu \mathrm { L }$ cDNA，加三蒸水定容至体积20 μL[12]。
+
+反应条件： $9 5 ~ \mathrm { { ^ { \circ } C } }$ 预变性 $3 \mathrm { m i n }$ ， $9 4 ^ { \circ } \mathrm { C } 3 0 \mathrm { ~ s ~ }$ ，特异退火温度30s采集荧光信号，40个循环； 并自 $6 0 ^ { \circ } \mathrm { C } \not \equiv 9 9 ^ { \circ } \mathrm { C } \not \equiv$ 缓慢升温后分析熔解曲线。
+
+# 1.5 数据统计与分析
+
+采用比较Ct值法[13]，分别计算各样品中 $I L { - } 2 \ \mathrm { m R N A }$ 相对表达水平，数据以平均值±标准误表示，用 SPSS16.0进行Duncan氏多重分析，比较各多糖作用下T淋巴细胞中IL-2的mRNA表达水平。
+
+# 2结果与分析
+
+2.1 $\mathrm { \ s T P S _ { 7 0 c } }$ 、 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 和 $\mathrm { T P S } _ { \mathrm { t p } }$ 对鸡T淋巴细胞增殖的影响
+
+2.1.1多糖单独作用对鸡T淋巴细胞增殖的影响
+
+由表1可知， $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $0 . 3 9 1 { \sim } 6 . 2 5 0 \ { \mu \mathrm { g / m L . s T P S } } _ { 7 0 \mathrm { c } }$ 在浓度为 $0 . 7 8 2 { \sim } 6 . 2 5 0 ~ { \mu \mathrm { g / m L } }$ 以及 $\mathrm { T P S } _ { \mathrm { t p } }$ 在浓度为 $3 . 1 2 5 \mu \mathrm { g / m L }$ 时的 $\mathbf { A } _ { 5 7 0 }$ 值与细胞对照相比差异显著（ $( P { < } 0 . 0 5 )$ ，显著高于细胞对照。 $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 的硫酸基取代度分别为1.62 和1.36，表明它们在相应浓度明显促进鸡T淋巴细胞增殖的效果强于未修饰多糖，且与硫酸基取代度有关。
+
+# 表1多糖单独作用对鸡T淋巴细胞增殖的的影响
+
+Table 1Effects of polysaccharides alone on proliferation of the T lymphocyte of broilers   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">浓度 Concentration/（μg/mL）</td><td rowspan="2">细胞对照</td></tr><tr><td>6.250</td><td>3.125</td><td>1.563</td><td>0.782</td><td>0.391</td></tr><tr><td>硫酸化银耳多 糖 sTPS70c</td><td>0.171±0.001a</td><td>0.166±0.001a</td><td>0.166±0.004a</td><td>0.167±0.002a</td><td>0.143±0.002b</td><td>0.135±0.003b</td></tr><tr><td>硫酸化党参多</td><td>0.173±0.003d</td><td>0.195±0.002bc</td><td>0.205±0.001a</td><td>0.199±0.002ab</td><td>0.191±0.003</td><td>0.149±0.002e</td></tr><tr><td>糖 sCPPS50c</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未修饰银耳多 糖TPStp</td><td>0.123±0.002</td><td>0.144±0.003a</td><td>0.138±0.002ab</td><td>0.132±0.003bc</td><td>0.134±0.001b</td><td>0.130±0.003bc</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著（ $. P { < } 0 . 0 5$ )。下表同。
+
+In the same row,values with different letter superscripts mean significant difference（ $\scriptstyle P < 0 . 0 5 { \mathrm { ~ , ~ } }$ ）.The same as below.
+
+# 2.1.2多糖协同PHA-P作用对鸡T淋巴细胞增殖的影响
+
+由表2可知， $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $0 . 3 9 1 { \sim } 1 . 5 6 3 ~ \mu \mathrm { g / m L }$ 时的 $\mathbf { A } _ { 5 7 0 }$ 值显著高于PHA-P对照中 $_ { . P < 0 . 0 5 ) }$ ，表明其在相应浓度能协同PHA-P作用显著促进鸡T淋巴细胞增殖。
+
+# 表2多糖协同PHA-P作用对鸡T淋巴细胞增殖的影响
+
+Table 2Effects of polysaccharides cooperated with PHA-Pon proliferation of the Tlymphocyte of broilers
+
+<html><body><table><tr><td>项目Items</td><td>浓度Concentration/（μg/mL）</td><td>PHA-P对照</td></tr></table></body></html>
+
+<html><body><table><tr><td></td><td>6.250</td><td>3.125</td><td>1.563</td><td>0.782</td><td>0.391</td><td>PHA-P control</td></tr><tr><td>硫酸化银耳</td><td></td><td></td><td></td><td></td><td></td><td>0.164±0.003ab</td></tr><tr><td>多糖</td><td>0.151±0.002</td><td>0.167±0.002a</td><td>0.153±0.003bc</td><td>0.154±0.003bc</td><td>0.145±0.001d</td><td></td></tr><tr><td>sTPS70c</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>硫酸化党参</td><td></td><td></td><td></td><td></td><td>0.206±0.003a</td><td></td></tr><tr><td>多糖</td><td>0.175±0.005</td><td>0.172±0.002</td><td>0.188±0.001b</td><td>0.211±0.002a</td><td></td><td>0.168±0.002</td></tr><tr><td>sCPPS50c</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>未修饰银耳</td><td>0.124±0.003</td><td>0.137±0.002ab</td><td>0.140±0.003ab</td><td>0.143±0.002a</td><td>0.142±0.005ab</td><td>0.147±0.002a</td></tr></table></body></html>
+
+# 2.2鸡T淋巴细胞 $I L { - } 2 ~ \mathrm { m R N A }$ 表达水平
+
+# 2.2.1 反应条件的优化
+
+样本的扩增曲线为"S"形，扩增曲线之间间距均匀，标准曲线 $R ^ { 2 } { > } 0 . 9 9$ ，标准曲线斜率差值 $< 0 . 1$ ，说明 PCR反应扩增效率相对一致（图1)。溶解曲线分析表明，峰值单一，说明无非特异性产物和引物二聚体的峰值出现（图2)。
+
+![](images/f6eec9610e858c4ac129ec2dc73f8cc37199efc0ebb5b06575bcb7f011306c0a.jpg)  
+Fig.1Sample amplification curve and standard curve
+
+![](images/9267cc23f497c7a5e674f70465a5afb5b04b982adfb6d302fa72389ba8de7fd8.jpg)  
+图1样本扩增曲线和标准曲线
+
+2.2.2 $\mathrm { \ s T P S _ { 7 0 c } }$ 、 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 和 $\mathrm { T P S } _ { \mathrm { t p } }$ 对鸡T淋巴细胞 $I L { - } 2 ~ \mathrm { m R N A }$ 表达水平的影响
+
+设 PHA-P 对照的 $2 ^ { - \triangle \triangle \mathrm { { C t } } }$ 为1，与 PHA-P 对照比较， $\mathrm { \ s T P S _ { 7 0 c } }$ 在浓度为 $1 . 5 6 3 { \sim } 6 . 2 5 0 ~ \mu \mathrm { g / m L }$ 时鸡T淋巴细胞 $I L { - } 2 \ \mathrm { m R N A }$ 表达水平分别为1.87、2.26和8.13； $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为1.563\~3.125$\mu \mathrm { g / m L }$ 时鸡 $\mathrm { ~ T ~ }$ 淋巴细胞 IL-2 mRNA 表达水平分别为1.80 和 3.32 倍； $\mathrm { T P S } _ { \mathrm { t p } }$ 在浓度为1.563和 $6 . 2 5 0 ~ \mu \mathrm { g / m L }$ 时鸡T淋巴细胞 $I L { - } 2 \ \mathrm { m R N A }$ 表达水平分别为1.52和1.83倍，表明各多糖均可以促进 $I L { - } 2 ~ \mathrm { m R N A }$ 的表达。
+
+由图3可知， $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $1 . 5 6 3 ~ { \mu \mathrm { g / m L } }$ 时鸡 $\mathrm { \Delta T }$ 淋巴细胞 $I L { - } 2 ~ \mathrm { m R N A }$ 表达水平与PHA-P 对照相比差异显著 $( P < 0 . 0 5 )$ ， $\mathrm { \ s T P S _ { 7 0 c } }$ 在浓度为 $1 . 5 6 3 \ \mu \mathrm { g / m L }$ 时鸡 $\mathrm { \Delta T }$ 淋巴细胞 $I L { - } 2 ~ \mathrm { m R N A }$ 表达水平与 $\mathrm { T P S } _ { \mathrm { t p } }$ 差异显著 $( P { < } 0 . 0 5 ) { ; } \mathrm { s T P S } _ { 7 0 \mathrm { c } }$ 在浓度为 $6 . 2 5 0 \mu \mathrm { g / m L . s T P S } _ { 7 0 \mathrm { c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $3 . 1 2 5 \mu \mathrm { g / m L }$ 时鸡 $\mathrm { \Delta T }$ 淋巴细胞 $I L { - } 2 ~ \mathrm { m R N A }$ 表达水平高于 $\mathrm { T P S } _ { \mathrm { t p } }$ ，但差异不显著（ $\cdot P { > } 0 . 0 5 )$ ， $\mathrm { \ s T P S _ { 7 0 c } }$ 在浓度为 $1 . 5 6 3 ~ \mu \mathrm { g / m L }$ 鸡 $\mathrm { \Delta T }$ 淋巴细胞 $I L { - } 2 \ \mathrm { m R N A }$ 表达最强，且硫酸基取代度较高。
+
+![](images/ddb57ad6b83fd9cfa9d8691e04c9078a5283a1f520a38c331d1a1ed495ba8e40.jpg)  
+图2样本溶解曲线  
+Fig.2Sample dissolution curve   
+图3 $I L { - } 2 ~ \mathrm { m R N A }$ 表达水平  
+Fig.3IL-2 mRNA expression level
+
+# 3讨论
+
+淋巴细胞转化是反映细胞免疫最直接的指标[14]。本试验结果表明，多糖单独刺激 T 淋巴细胞时， $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 几乎所有浓度、 $\mathrm { T P S } _ { \mathrm { t p } }$ 仅在浓度为 $3 . 1 2 5 ~ \mu \mathrm { g / m L }$ 时显著促进T淋巴细胞增殖；多糖与PHA-P共同作用T淋巴细胞时， $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 在浓度为 $1 . 5 6 3 ~ \mu \mathrm { g / m L }$ 时显著促进T淋巴细胞增殖；这表明硫酸化修饰后可以增强多糖的免疫活性。未经PHA-P 刺激的淋巴细胞促增殖作用强于多糖与PHA-P 协同作用，说明硫酸化多糖能单独刺激淋巴细胞增殖，且效果强于丝裂原。Nguyen等[15]研究发现，硫酸化黑木耳多糖 $\mathbf { s A A P } _ { 1 }$ 和 $\mathbf { s A A P _ { t } }$ 能单独或协同PHA-P促进外周血淋巴细胞增殖作用，硫酸化修饰可以显著提高细胞免疫作用。
+
+多糖的硫酸基取代度与其增强免疫活性也有很大的关系。 $\mathrm { \ s T P S _ { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 的硫酸基取代度分别为1.62 和1.36，发现它们促进T淋巴细胞增殖的作用与较高的硫酸基取代度有关。有研究发现，硫酸化当归多糖促进脾淋巴细胞增殖的作用与其硫酸基取代度有一定的关系，取代度越高，作用越强[16]，这与本研究结果一致。可能是硫酸化修饰后多糖产生新的结构，引起了多糖理化性质和立体构象的变化，从而显著提高了多糖的生物活性。
+
+IL-2能激活多种免疫细胞，诱导淋巴细胞的增殖与免疫效应，在细胞免疫中是免疫调节作用的核心[17]。因此，通过分析IL-2mRNA的表达水平，可以对外周血中T淋巴细胞的活化程度进行初步评价，并反映机体的细胞免疫状态[18]。本试验结果表明，2种硫酸化多糖 $\mathrm { s T P S } _ { 7 0 \mathrm { c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 均在浓度为 $1 . 5 6 3 ~ { \mu \mathrm { g / m L } }$ 时IL-2mRNA表达水平与PHA-P对照差异显著，可促进T淋巴细胞 $I L { \cdot } 2 \ \mathrm { \ m R N A }$ 的表达，但2种硫酸化多糖的表达水平有显著差异， $\mathrm { \ s T P S _ { 7 0 c } }$ 在浓度为$1 . 5 6 3 ~ { \mu \mathrm { g / m L } }$ 时IL-2mRNA表达水平与 $\mathrm { T P S } _ { \mathrm { t p } }$ 相比差异显著，可以显著促进外周血淋巴细胞中IL-2 mRNA的表达，表达最为丰富，从而促进IL-2的分泌，发挥增强免疫作用。有研究表明黄芪多糖对犬脾淋巴细胞IL-2、干扰素-γ（IFN-γ）和肿瘤坏死因子-α（TNF-α）mRNA表达有显著增强作用，且IL-2和IFN-γ mRNA表达水平显著优于刀豆素A（ConA）[19]。
+
+# 4结论
+
+$\mathrm { s T P S } _ { \mathrm { 7 0 c } }$ 和 $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ 均可以提高多糖的淋巴细胞增殖活性并显著增强IL-2mRNA的表达，且以 $\mathrm { \ s T P S _ { 7 0 c } }$ 的作用较强，可作为潜在的免疫增强剂开发利用。
+
+致谢：感谢山东农业大学动物科技学院赵晓娜博士对文稿所提的宝贵意见。
+
+参考文献：
+
+[1]AHN G,BING S J,KANG S M,et al.The ] $\mathrm { { \Delta } J N K / N F _ { k } B }$ pathway is required to activate murine lymphocytes induced by a sulfated polysaccharide from Ecklonia cava[J].Biochimica et Biophysica Acta (BBA): General Subjects,2013,1830(3):2820-2829.
+
+[2]YANG T H,JIA M,ZHOU S Y,et al.Antivirus and immune enhancement activities of sulfated polysaccharidefromAngelicasinensis[J].InternationalJournalofBiological
+
+Macromolecules,2012,50(3):768-772.
+
+[3]MA X,GUO Z H,WANG D Y,et al.Effects of sulfated polysaccharides and their prescriptions on immune response of ND vaccine in chicken[J].Carbohydrate Polymers,2010,82(1):9-13.
+
+[4]石磊,段秀梅,胡梦林,等.虎眼万年青多糖对小鼠T细胞及其细胞因子 $I L { - } 2 ~ \mathrm { m R N A }$ 表达的影响[J].吉林大学学报:医学版,2004,30(5):678-680.
+
+[5] 陈瑞庆.灰树花多糖对人外周血单个核细胞白细胞介素-2 及干扰素-γ 表达的影响[J].福建医科大学学报,2010,44(6):447-449.
+
+[6]ZHAO X N,HU Y L,WANG D Y,et al.Optimization of sulfated modification conditions of tremella polysaccharide and effects of modifiers on cellular infectivity of NDV[J].International Journal of Biological Macromolecules,2011,49(1):44-49.
+
+[7]ZHAO X N,HU Y L,WANG D Y,et al.The comparison of immune-enhancing activity of sulfatedpolysaccharidsesfrom Tremella and Condonpsispilosula[J].Carbohydrate Polymers,2013,98(1):438-443.
+
+[8]ZHANG J,CHEN J,WANG D Y,et al.Immune-enhancing activity comparison of sulfated ophiopogonpolysaccharide and sulfated jujube polysaccharide[J].International Journal of Biological Macromolecules,2013,52:212-217.
+
+[9]王德清,王梦琳,赵晓娟,等.甘草次酸脂质体体外对鸡IL-2、IL-4和IFN-γ mRNA表达的影响[J].中国兽医学报,2013,33(6):874-877.
+
+[10]高焕,王德云,郭利伟,等.淫羊藿多糖脂质体对鸡淋巴细胞增殖及IL-2、IL-4和IFN-γmRNA表达的影响[J].畜牧兽医学报,2013,44(1):115-121.
+
+[11]卢宇,王凯民,郭振环,等.硫酸化淫羊藿多糖对鸡外周血淋巴细胞IL-2和IFN-γ的mRNA表达的影响[J].江苏农业学报,2009,25(5):1073-1077.
+
+[12]袁继红.实时荧光定量 PCR 技术的实验研究[J].现代农业科技,2010(13):20-22.
+
+[13]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative pcr and the $2 ^ { - \triangle \triangle \mathrm { C t } }$ method[J].Methods,2001,25(4):402-408.
+
+[14]LI C H,SANTOSO S,LO D D,et al.Quantitative analysis of T cell homeostatic proliferation[J].Cellular Immunology,2007,250(1/2):45-54.
+
+[15] NGUYEN T L,WANG D Y,HU Y L,et al.Immuno-enhancing activity of sulfated Auricularia auricula polysaccharides[J].Carbohydrate Polymers,2012,89(4):1117-1122.
+
+[16] 赵现敏,崔保安,张红英,等.4 种中药多糖对猪脾淋巴细胞增殖的影响[J].河北农业大学学报,2007,30(3):82-85.
+
+[17]李蕴玉,李佩国,张艳英,等.白细胞介素-2(IL-2)在兽医中的应用进展(综述)[J].河北科技师范学院学报,2006,20(4):63-66.
+
+[18]栾伟民,杨树宝,顾玉宝,等.鸡肠相关性淋巴组织中IFN-γ和IL-2mRNA表达的动态变化[J].中国兽医科学,2011,41(3):292-297.
+
+[19]邱河辉,赵娟,刘凤华,等.黄芪多糖对犬脾淋巴细胞细胞因子mRNA表达的影响[J].中国兽医杂志,2006,46(6):6-8.
+
+Effect of Sulfated Polysaccharidses from Tremella and Condonpsis pilosula on T Lymphocyte Proliferation and mRNA Expression Level of Interleukin-2 of Broilers ZHU Guangshuang’HU Yuanliang2\*CAO Kan’WANG Benzhongl (1. College of Biological Engineering, Wuhu Institute of Technology, Wuhu 241003, China; 2. Collge of Veterinary Medicine, Nanjing Agricultural University, Nanjing 210095, China) Abstract: In order to study the mechanism of sulfated polysaccharidses from Tremella $\mathrm { ( s T P S _ { 7 0 c ) } }$ （204 and Condonpsis pilosula $\mathrm { ( s C P P S _ { 5 0 c } ) }$ ）on immunological enhancement activity， the effects of （20 $\mathrm { s T P S } _ { 7 0 \mathrm { c } }$ and $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ on $\mathrm { \Delta T }$ lymphocyte proliferation and the mRNA expression level of interleukin-2 (IL-2) were determined by methyl thiazolyl tetrazolium (MTT) assay and real-time fluorescent quantitative PCR assay while taking the unmodified polysaccharidses from Tremella （20 $\mathrm { ( T P S _ { t p } ) }$ as control. The results showed that in single adding into peripheral lymphocyte, $\mathrm { s T P S } _ { \mathrm { 7 0 c } }$ （20 and $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ almost at all concentrations and $\mathrm { T P S } _ { \mathrm { t p } }$ only at $3 . 1 2 5 ~ \mu \mathrm { g / m L }$ could significantly stimulate lymphocyte proliferation( $P { < } 0 . 0 5 \$ ）. In simultaneous adding into peripheral lymphocyte with plant haemagglutinin P (PHA-P), $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ at 0.391 to $1 . 5 6 3 ~ \mu \mathrm { g / m L }$ significantly stimulated lymphocyte proliferation（ $P { < } 0 . 0 5 )$ ： $\mathrm { s T P S } _ { \mathrm { 7 0 c } }$ and $\mathrm { s C P P S } _ { 5 0 \mathrm { c } }$ also could significantly promote mRNA expression level of $I L - 2$ in $\mathrm { \Delta T }$ lymphocyte at $1 . 5 6 3 ~ \mu \mathrm { g / M l }$ （ $_ { . } { \cal P } { < } 0 . 0 5$ ）,and the promoting effects of $\mathrm { s T P S } _ { 7 0 \mathrm { c } }$ were significantly better than $\mathrm { T P S } _ { \mathrm { t p } }$ （ $P { < } 0 . 0 5 )$ ,especially at $1 . 5 6 3 ~ { \mu \mathrm { g / m L } }$ ，the effect of $\mathrm { s T P S } _ { 7 0 \mathrm { c } }$ was the strongest. These results indicate that sulfated modification can enhance the T lymphocyte proliferation and mRNA expression of IL-2, and $\mathrm { s T P S } _ { 7 0 \mathrm { c } }$ presents more stronger action,which is related to the degree of substitution at a centain extent.
+
+Keywords: sulfated Tremella polysaccharide； Sulfated Codonopsis pilosula polysaccharide; lymphocyte proliferation; interleukin-2

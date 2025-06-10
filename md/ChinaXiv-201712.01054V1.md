@@ -1,0 +1,126 @@
+临床研究
+
+# CTHRC1在结直肠癌中的表达及作用机制
+
+严力，叶耿泰，沈智勇，朱显军，刘浩，李国新南方医科大学南方医院普外科，广东广州 510515
+
+摘要：目的 检测CTHRC1在结直肠癌组织及细胞中的表达，探讨CTHRC1对结直肠癌细胞生物学特性的影响和作用机制。方法 应用实时荧光定量PCR和免疫印迹检测CTHRC1在结直肠癌组织和5株结直肠癌细胞的表达;将靶向作用于CTHRC1的shRNA和NC转染进LOVO细胞;CCK-8、Transwell、平板克隆检测细胞的增殖、迁移、侵袭、克隆形成能力。Westemblotting检测转染后CTHRC1、ERK1/2、P-ERK1/2、E-cadherin、N-cadherin、Vimentin、 $. { \beta }$ -catenin表达的变化。结果与正常黏膜组织相比，20例癌组织中的CTHRC1mRNA的平均表达量为 $0 . 0 4 1 1 { \scriptstyle \pm 0 . 0 5 4 }$ ，显著高于正常黏膜组织 $P { = } 0 . 0 1 6$ ，蛋白水平的结果与之一致；同时,CTHRC1在SW620和LOVO细胞里的表达(mRNA水平和蛋白水平)均显著高于HT29细胞株;较之对照组,CTHRC1敲低组抑制了LOVO细胞的增殖、迁移、侵袭和克隆形成能力，差异均具有统计学意义 $P { < } 0 . 0 5$ 。当CTHRC1在mRNA和蛋白水平的表达均被明显抑制时,总ERK1/2在保持基本不变的的前提下,P-ERK1/2明显降低,EMT出现逆转(即MET,E-cadherin升高，N-cadherin、Vimentin $. \beta$ -catenin降低)。结论CTHRC1在结直肠癌组织及高转移潜能的人结直肠癌细胞株SW620和LOVO中高表达。敲低CTHRC1抑制了结直肠癌细胞株LOVO的增殖、迁移、侵袭、克隆形成能力。CTHRC1通过增强ERK1/2的磷酸化所介导的EMT促进结直肠癌的侵袭转移。
+
+关键词：结直肠癌；CTHRC1；短发卡RNA；上皮间充质转化；ERK1/2
+
+# Role of collagen triple helix repeat containing 1 in proliferation, migration, and invasion of human colorectal cancer cells
+
+YANLi,YEGengtai,SHENZhiyong,ZHUXianjun,LIUHao,LIGuoxin DepartmentofGeneralurgery,NanfangHosptal,Southernedicalniversity,Guangzhou5o515,ina
+
+Abstract: Objective To explore the expressonof collagen triple helix repeat containing 1(CTHRC1) in colorectal cancerand studyitsroleinregulating thebiological behaviorsofcolorectalcancerLoVocelsinvitro.MethodsReal-timePCRand Western blotting wereused todetect the expressons of CTHRC1in colorectal cancer tsue and pairedadjacent nontumorous tissueand in5colorectalcancer cels.pGPU6-CTHRC1-shRNA was transfected intoLoVocellsand thechanges incel proliferationwasassessedusingcellcountingkit-8(CCK8)assy;thechanges incellmigrationandinvasion were investigated using Transwellasay; platecolony forming test was used to evaluatetheadhesion and colony forming activityof the clls. Western bloting was used toanalyze thechanges intheexpressions of therelated pathway markers.Results Therelative expression of CTHRC1 mRNA in the cancer tissue specimens was $0 . 0 4 1 1 { \scriptstyle \pm 0 . 0 5 4 } ,$ significantly higher than that in the adjacent tissues $_ { ( P = 0 . 0 1 6 ) }$ ; this result was consistent with that of the protein assy. SW620 and LoVo cells showed obviously higher expressions of CTHRC1 than HT29 and SW480 cells atboth mRNA and protein levels.LoVocellstransfected with CTHRC1 shRNA exhibited significantly suppressed proliferation, migration, invasion and colony-forming ability $_ { ( P < 0 . 0 5 ) }$ and lowered expression of phosphorylated ERK1/2 (P-ERK1/2), but the expression of total $\mathrm { E R K 1 } / 2$ showed no obvious changes. CTHRC1 inhibition caused reverse epithelial-mesenchymal transition LoVo cellsshown by increasedE-cadherin expresion and decreased expressions of N-cadherin, vimentin, and $\beta$ catenin. Conclusion CTHRC1 is up-regulated in colorectal cancer tissues and SW620andLoVocels topromotethecellproliferation,migration, invasionandcolony formation.CTHRC1canenance epithelial-mesenchyaltransitionofcolorectalcancercelsbyactivatingERK1/2 topromotetumorcellmetastasisandnvasion. Key words: colorectal cancer;collagen triple hlixrepeat containing1;smallhairpinRNA; epithelial-mesenchymal trasition; ERK1/2
+
+结直肠癌日益成为危害人类健康的重大杀手，于全球已成为病死率居第四的恶性肿瘤[1]。尽管如此,关于结直肠癌发生发展的具体机制，在很大程度上仍然不清。胶原三股螺旋重叠蛋白(CTHRC1)首见于动脉炎，通过抑制胶原蛋白的表达促进细胞迁移[2]。其在诸多实体肿瘤中异常表达，CTHRC1在肝癌、胃癌、胰腺癌、非小细胞肺癌、乳腺癌、结直肠癌等中已成为独立的预后或治疗评估指标[3-8]。本研究通过检测CTHRC1在结直肠癌组织和细胞的表达情况，筛选LOVO作为操作细胞株，采用shRNA敲低CTHRC1的表达后，进一步研究其对细胞增殖、迁移、侵袭的作用变化及其可能参与的细胞信号通路。
+
+# 1材料和方法
+
+1.1 材料
+
+1.1.1一般资料20例新鲜结直肠癌组织及配对的正常组织取自南方医院2013年3月\~2014年2月的结直肠癌手术标本,取材后短暂置于液氮中转移至 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱储存。患者年龄范围30\~82岁，中位年龄56岁。手术前均未经过放化疗治疗，术后病理诊断为癌。
+
+1.1.2细胞系及载体人结直肠癌细胞株HT29、LS174T、SW480、SW620、LOVO均购自美国ATCC公司。短发卡RNA(shRNA):pGPU6-CTHRC1-shRNA及阴性对照：pGPU6-shNC购自苏州吉玛公司。pGPU6-CTHRC1-shRNA序列为:5'-GCAGCGTTGGTATTTCACATTTCAAGAGAATGTGAAATACCAACGCTGTT-3'pGPU6-shNC序列为:5'-GTTCTCCGAACGTGTCACGTCAAGAGATTACGTGACACGTTCGGAGAATT-3'
+
+1.1.3试剂RMPI1640培养基及胎牛血清购自Hyclone公司,Lipofectamine2ooo购自Invitrogen公司,总RNA提取试剂RNAisoTMPlus、RNA逆转录试剂PrimeScriptTM RT Master Mix、real-time PCR 试剂$\operatorname { S Y B R } ^ { \textregistered }$ PremixExTaqTMII及CTHRC1和GAPDH引物均购自日本Takara公司。CCK-8试剂盒买自南京凯基公司，Transwell小室购自Coring公司，基质胶购自BD公司。兔抗人CTHRC1、GAPDH多克隆抗体购自Proteintech公司。兔抗人E-cadherin、N-cadherin、vimentin $\beta$ -catenin、ERK1/2、P-ERK1/2多克隆抗体购自美国bioworld公司。
+
+# 1.2 方法
+
+1.2.1细胞培养5株结直肠癌细胞株均以含 $10 \%$ 胎牛血清的RMPI1640培养基，在 $3 7 \ \mathrm { ^ { \circ } C } \ . 5 \% \mathrm { C O } _ { 2 }$ 饱和湿度的条件下适时传代培养，细胞状态良好时用于实验。
+
+1.2.2RT-PCR检测CTHRC1在组织里和细胞的表达按照Takara公司的说明书，以RNAisoTMPlus提取20对组织或细胞里的总RNA,然后以PrimeScriptTM RTMasterMix制备cDNA,反应体系如下:RNA $0 . 5 ~ { \mu \mathrm { g } } ; 5 \times$ PrimeScriptRTMaster Mix $2 ~ \mu \mathrm { l }$ ，加 $\mathrm { \ d d H _ { 2 } O }$ 至总体积$1 0 ~ \mu \mathrm { l }$ ，反应条件为： $3 7 \mathrm { ~ } \mathrm { ~ \textcircled { ~ } C ~ } 1 5 \mathrm { ~ m i n } , 8 5 \mathrm { ~ } \mathrm { ~ \textcircled ~ } 5 \mathrm { ~ s ~ }$ ，反应产物加双蒸水 $4 0 ~ \mu \mathrm { l }$ 稀释5倍后用于qRT-PCR。以 $\operatorname { S Y B R } ^ { \textregistered }$ Green 法进行PCR反应，反应体系如 $\operatorname { S Y B R } ^ { \textregistered }$ PremixEx TaqTM $\mathrm { I I } _ { \circ }$ 反应条件为：预变性 $9 5 ^ { \circ } \mathrm { C } 3 0 ~ \mathrm { s }$ ，变性 $9 5 ~ \mathrm { { ^ { \circ } C } }$ $5 \mathrm { ~ s ~ }$ ，延伸 $6 0  { ^ \circ } \mathrm { C } 3 4 \mathrm { s }$ ，共40个循环。
+
+1.2.3Western Blotting检测CTHRC1在组织和细胞的表达以RIPA加蛋白酶抑制剂和磷酸酶抑制剂以适当比例混合后为裂解液，提取组织或细胞总蛋白，以BCA法测量蛋白浓度。每组蛋白上样 $3 0 ~ { \mu \mathrm { g } }$ ，以 $10 \%$ SDS-PAGE胶电泳后，恒流转移到PVDF膜上，以含 $10 \%$ TBST脱脂牛奶室温封闭 $^ { \textrm { 1 h } }$ ,以相应的一抗 $\left( 1 : 1 0 0 0 \right)$ $4 \mathrm { { ^ { \circ } C } }$ 孵育过夜，再以过氧化物酶标记的羊抗兔二抗(1:5000)室温孵育1h,以 $10 \%$ TBST洗3遍,每次 $1 0 ~ \mathrm { m i n }$ 以GAPDH为内参,SynGene显影仪显影。
+
+1.2.4细胞转染以Lipofectamine2000为转染试剂，以相应说明书为基准。转染前 $2 4 \mathrm { h }$ 以状态较好的LOVO细胞接种于6孔板，待细胞汇合度达到 $70 \% { \sim } 9 0 \%$ 时，以无血清基础培养基为溶剂将 $4 ~ { \mu \mathrm { g } }$ shRNA与 $1 0 ~ \mu \mathrm { l }$ Lipofectamine2000混合，室温孵育 $2 0 ~ \mathrm { m i n }$ 后添加入6孔板内， $4 { \sim } 6 \mathrm { ~ h ~ }$ 后更换为完全培养基。转染 $4 8 { \sim } 7 2 \mathrm { h }$ 后进行下一步检测。
+
+1.2.5CCK-8检测结直肠癌细胞增殖能力将已处理过的细胞以每孔 $2 { \times } 1 0 ^ { 3 } / 1 0 0 ~ \mathrm { { \textmu l } }$ 的密度接种于96孔板中，选取第1,2,3,4,5d固定时间点进行检测。每孔设3个复孔。检测前弃去原来培养基，将 $1 0 0 \mu \mathrm { l }$ 完全培养基与$1 0 \mu \mathrm { l c } \mathrm { C K } { - 8 }$ 试剂混合后加入，于 $3 7 \%$ 孵箱孵育 $2 \mathrm { ~ h ~ }$ ，使用酶标仪于 $4 5 0 \mathrm { n m }$ 检测OD值，每板设空白对照。
+
+1.2.6细胞迁移和侵袭实验将已处理过的细胞消化后，均匀计数。以无血清基础培养基将细胞浓度稀释为$5 { \times } 1 0 ^ { 5 } / \mathrm { m l }$ ，吸取 $2 0 0 ~ \mu \mathrm { l }$ 分别接种到不含基质胶和已预先铺设好基质胶Matrigel的transwell上室，下室加入$6 0 0 ~ \mu \mathrm { l }$ 含 $20 \%$ 胎牛血清的完全培养基。于 $3 7 \%$ 孵箱孵育 $2 4 \mathrm { h }$ 后，取出小室，弃去孔中培养基，加入 $5 0 0 ~ \mu \mu \mu$ 甲醇固定小室下室面， $0 . 5 \%$ 结晶紫染色 $3 0 \mathrm { m i n }$ ，用棉签轻轻檫去上室未迁移细胞，PBS洗涤。显微镜下随机选取 $3 \sim$ 5个视野计数穿过膜的细胞。
+
+1.2.7平板克隆形成实验将已处理过的细胞消化后，均匀计数。以每孔 $2 \times 1 0 ^ { 2 }$ 接种于6孔板，于 $3 7 ~ \mathrm { ^ { \circ } C }$ 孵箱继续培养2周，每组设3个复孔。14d后取出培养板，弃去孔内培养基,加入 $1 \mathrm { m l }$ 甲醇固定细胞 $1 0 \mathrm { m i n } , 0 . 1 \%$ 结晶紫染色 $1 0 \mathrm { m i n }$ ，PBS洗涤后计数肉眼可见的克隆数并拍照。1.2.8 数据分析 使用SPSS13.0统计学软件进行数据分析，数据采用均数 $\stackrel { \cdot } { \bf \pm }$ 标准差表示。组织标本采用配对样本 $\mathbf { \Phi } _ { t }$ 检验，其余体外实验，两组之间采用student $\mathbf { \chi } _ { t }$ 检验，多组之间采用单因素方差分析。CCK-8增殖实验采用析因设计的方差分析。 $P { < } 0 . 0 5$ 为差异具有统计学意义。
+
+# 2结果
+
+2.1荧光定量PCR和WB检测CTHRC1在结直肠癌组织中稳定高表达
+
+使用qRT-PCR检测20对配对的结直肠癌组织中CTHRC1mRNA的表达,将其 $2 ^ { - \triangle \triangle \mathrm { { c t } } }$ 值通过配对样本 $\mathbf { \chi } _ { t }$ 检验，分析显示：结直肠癌组织中CTHRC1mRNA的平均表达量为 $0 . 0 4 1 1 \pm 0 . 0 5 4 0$ ，正常组织平均表达为$0 . 0 0 8 6 5 { \scriptstyle \pm 0 . 0 1 0 6 }$ ;CTHRC1mRNA在结直肠癌组织中的表达明显高于正常黏膜组织 $( t = - 2 . 6 4 0 , P { = } 0 . 0 1 6$ ，图1A）。同时以Westernblotting检测了8对CTHRC1蛋白水平的表达，可见CTHRC1在结直肠癌组织中的表达亦明显高于正常黏膜组织(图1B)
+
+![](images/fa0f79817137c043112144c640a55deb6e9b3382c7319ff226a3b8cedf9f3504.jpg)  
+图1Real-time PCR和Western blotting检测结直肠癌组织中 CTHRC1的表达 Fig.1 Expression of CTHRC1 in human colorectal cancer tissues detected by real-time PCR(A) and Western blotting (B).
+
+# 2.2荧光定量PCR和WB检测CTHRC1在5株结直肠癌细胞的相对表达
+
+使用qRT-PCR 检 测HT-29、LS174T、SW480、SW620和LOVO5株细胞中CTHRC1的表达。结果显示：CTHRC1在LOVO和SW620细胞中表达最高，在LS174T和HT29细胞中表达较低(图2A)。WB的结果与之一致(图2B)。
+
+# 2.3敲低CTHRC1抑制LOVO细胞的增殖能力
+
+采用CCK-8检测LOVO/pGPU6-CTHRC1-shRNA及LOVO/pGPU6-shNC两种处理LOVO细胞的体外增殖能力，细胞生长曲线如图3。两种细胞生长时间水平差异具有统计学意义（ $F { = } 5 5 . 7 2 1 , P { < } 0 . 0 0 1 )$ ;细胞组间的增殖能力也具有统计学差异 $F { = } 2 2 5 . 8 1 0 , P { < } 0 . 0 0 1 \rangle$ 。两种处理细胞每1d生长数据经 $\mathbf { \Phi } _ { t }$ 检验分析，除第1、2天$\scriptstyle ( P = 0 . 4 8 4 , P = 0 . 0 5 6 )$ 无差异外，第3、4、5天，两种处理细胞组间均有统计学意义 $\left( P { = } 0 . 0 0 2 , P { = } 0 . 0 0 3 , P { = } 0 . 0 4 1 \right)$ 。以上实验说明敲低CTHRC1抑制了LOVO细胞在体外的增殖活力。
+
+2.4敲低CTHRC1抑制LOVO细胞的侵袭、迁移能力 Transwell实验（图4)结果显示：LOVO/pGPU6
+
+![](images/56144e7cedb2c8ffefe32ae9fb8f66fa77314f34deb1e21a5fcdee27319cf6dc.jpg)  
+图2Real-time PCR和Western blotting 检测结直肠 癌细胞株中CTHRC1的表达 Fig.2 Expression of CTHRC1 in human colorectal cancer cell lines detected by real-time PCR (A) and Western blotting (B).
+
+![](images/a736eff5b02bc84a1fe5371237f0080765543ee2758e729b7a184712f321a69a.jpg)  
+图3CCK-8检测转染对LOVO细胞的增殖能力的作用 Fig.3ProliferationabilityofLOVOcellsafter transfection detected by CCK-8 assay.
+
+CTHRC1-shRNA 及LOVO/pGPU6-shNC 两 种 处理LOVO细胞迁移(图4A、B)的细胞数分别为 $( 7 6 . 6 7 0 \pm$ $9 . 0 7 4 , 2 3 3 . 6 7 0 { \scriptstyle \pm 7 . 7 6 7 } ,$ 。前者较后者明显降低，差异具有统计学意义 $_ { t = 2 2 . 7 6 7 , P < 0 . 0 0 1 } ,$ 。侵袭实验(图4C、D)结果为:LOVO/pGPU6-CTHRC1-shRNA( $1 4 . 3 3 0 { \scriptstyle \pm 2 . 5 1 7 } )$ ：LOVO/pGPU6-shNC( $6 2 . 3 3 0 { \scriptstyle \pm 8 . 0 8 3 }$ ，前者较后者亦明显降低，差异具有统计学意义 $( t { = } 9 . 8 2 1 , P { = } 0 . 0 0 1 ,$ ）
+
+# 2.5敲低CTHRC1抑制了LOVO细胞的定殖、克隆能力
+
+平板克隆实验用以评估LOVO/pGPU6-CTHRC1-shRNA及LOVO/pGPU6-shNC两种处理LOVO细胞的克隆形成活力。结果显示如图5,LOVO/pGPU6-CTHRC1-shRNA形成的克隆数( $( 1 9 \pm 2 . 0 0 0 )$ 较LOVO/pGPU6-shNC对照 $\left( 4 1 \pm 3 . 6 0 6 \right)$ 明显降低,差异具有统计学意义 $( t { = } 9 . 2 4 2 , P { = } 0 . 0 0 1 ,$ 。前者的克隆形成率 $( 0 . 0 9 5 \pm$ 0.010)较后者 $( 0 . 2 0 5 { \scriptstyle \pm 0 . 0 1 8 } ) ^ { }$ 亦明显降低，差异具有统计学意义 $( t { = } 9 . 2 4 2 , P { = } 0 . 0 0 1$ ）
+
+![](images/eb04d9d71f9a9547b6674b8c15400f55ae6f8b0691306a744bfe5c48711b8fa8.jpg)
+
+![](images/a4ac5c2be0bec98c089f57b35974166f672594b6b68ffac421b5bc5e65954dfe.jpg)  
+图4Transwell实验检测转染对LOVO细胞的迁移和侵袭能力的影响 Fig.4 Effect of CTHRC1 shRNA transfection on migration and invasion of LoVo cells.A,B: Cell migration;C,D: Cell invasion;A,C: pGPU6-NC group; B, D: sh-CTHRC1 group.
+
+![](images/e2877f595d5251a88d646590ccd6a71ab341ab40d4f29308b1825290e5747f6c.jpg)  
+图5平板克隆实验检测转染对LOVO细胞定殖和克隆的作用 Fig.5Colony-formingability of the transfectedLoVo cells.A: pGPU6-NC; B: sh-CTHRC1.
+
+![](images/4034b298de41804bfe2949f8f9e8cf616ce4971e5a1e4e757470963ac340e8bb.jpg)  
+图6Western blotting检测转染对CTHRC1蛋 白表达的影响 Fig.6Expression of CTHRC1 in LoVo cells after transfection detected by Western blotting.
+
+# 2.6CTHRC1通过促进ERK1/2的磷酸化诱导结直肠癌EMT的发生
+
+通过qRT-PCR检测：当应用CTHRC1-shRNA处理LOVO 细 胞 后，LOVO/pGPU6-CTHRC1-shRNA 组（ $0 . 0 0 0 1 4 \pm 0 . 0 0 0 0 0 3 )$ 较之 LOVO/pGPU6-shNC 组$\left( 0 . 0 0 0 4 2 { \scriptstyle \pm 0 . 0 0 0 0 0 8 } \right)$ ,其CTHRC1mRNA表达明显降低，差异具有统计学意义（ $\scriptstyle t = - 5 5 . 3 5 2$ ， $P { < } 0 . 0 0 1 \rangle$ 。CTHRC1蛋白水平(图6的表达亦同时被敲低时，如图7所示：与LOVO/pGPU6-shNC对照组相比，LOVO/pGPU6-CTHRC1-shRNA处理组中活化的ERK1/2（即P-ERK1/2)明显降低，而总ERK1/2基本保持不变，随之EMT过程亦发生了逆转(即MET:E-cad升高，N-cad、vimentin $\mathrm { . \beta }$ -catenin降低）。
+
+![](images/171af2787611cbfed6b9f40b8ade4e8f483423562c658d0ebed33951dedfcc3b.jpg)  
+图7Western blotting 检 测转染对ERK1/2和EMT 标记的作用 Fig.7The effect on the activation of ERK1/2 and EMT markers.
+
+# 3讨论
+
+CTHRC1可以促进细胞迁移、侵袭且与多种实体肿瘤的转移密切相关[9-"]。我们通过在20对配对结直肠癌组织和5株结直肠癌细胞中进行荧光定量PCR和WB,发现CTHRC1在mRNA和蛋白水平均于结直肠癌组织中高表达。同时相较于低转移潜能的SW480和HT29,CTHRC1在高转移潜能的SW620和LOVO细胞中表达更高。故我们选择LOVO细胞作为下一步的操作细胞。通过瞬时转染靶向作用于CTHRC1的shRNA和阴性对照NC，通过观察荧光达到较高转染效率后进行CCK-8、transwell、平板克隆等实验，并检测了处理组相较于对照组在增殖、迁移、侵袭、克隆形成等生物学功能的变化，初步说明了CTHRC1的促癌作用。我们的结果与之前的报道一致。
+
+上皮间充质转化(epithelial-mesenchymal tran-sition,EMT)是指上皮细胞通过特定程序转化为具有间质表型细胞的生物学过程，涉及上皮特性如细胞极性的丧失、细胞之间粘性、桥粒和紧密连接的消失、降解，同时伴随间充质特性如细胞运动能力的增强以及细胞骨架和形态的改变[12]。除在胚胎发育、慢性炎症、组织重建和多种纤维化疾病中发挥了重要作用外，EMT在肿瘤转移过程中伴随着上皮标记分子，如：细胞黏附分子(E-钙黏蛋白)等表达的降低、间充质标记分子，如：N-钙黏蛋白、波形蛋白 $\mathrm { . \beta }$ -catenin及侵袭能力的标记分子，如：基质金属蛋白酶(matrixMetalloproteinase,MMPs)表达的增加[13-15]。近年来的研究表明,EMT过程广泛参与了实体肿瘤的侵袭、转移过程[12]。而TGF-β通路是最广为人知的调控EMT过程的信号通路[16]。CTHRC1受TGF-β通路的调控[17],随着TGF-β1的刺激时间延长，其表达逐渐升高[18],但LeClair等[19]等却证实了CTHRC1可以阻断TGF-β诱导的pSmad2/3升高的这一进程。两者看似矛盾，却揭示了细胞EMT调控机制的复杂。那么结直肠癌中EMT是如何发生的，CTHRC1促进细胞迁移、侵袭与EMT的发生之间究竟有何关系？
+
+MAPK/ERK通路广泛参与细胞生长、分化等生命过程，Kim等2证实了CTHRC1可以通过激活ERK1/2诱导MMP9的表达。而在A431细胞中MMP9可以和转录因子Snail共同诱导EMT的发生[21]。那么，CTHRC1在结直肠癌中是否通过促进ERK1/2的磷酸化激活EMT过程进而发生侵袭转移呢？
+
+通过将敲低组和对照组分别进行WB，检测EMT标记和ERK1/2和P-ERK1/2的变化，我们发现CTHRC1可以增强ERK1/2的磷酸化，进而发生了促EMT过程。
+
+通过以上实验，初步证实了CTHRC1在结直肠癌组织和高转移潜能细胞中高表达。敲低CTHRC1抑制了结直肠癌细胞株LOVO的增殖、迁移、侵袭、克隆形成能力。CTHRC1通过增强ERK1/2的磷酸化介导EMT过程的发生从而促进结直肠癌的侵袭转移。这为理解结直肠癌的发生发展和转移提供了一个新的视角，为进一步研究EMT的发生机制作出了有意义的补充。
+
+# 参考文献：
+
+[1]Jemal A,Center MM,DeSantis C,et al.Global patterns of cancer incidence and mortality rates and trends[J].Cancer Epidemiol Biomarkers Prev,2010,19(8):1893-907.
+
+[2]Pyagay P,Heroult M,Wang Q et al.Collagen triple helix repeat containing 1,a novel secreted protein in injured and diseased arteries,inhibits collagen expression and promotes cell migration [J]. Circ Res.2005,96(2): 261-8.   
+[3]Chen YL,Wang TH,Hsu HC,et al. Overexpression of CTHRC1 in hepatocelular carcinoma promotes tumor invasion and predicts poor prognosis[J]. PLoS One,2013,8(7): e70324.   
+[4] Gu L,Liu L, Zhong L et al.Cthrcl overexpression is an independent prognostic marker in gastric cancer[J]. Hum Pathol,2014,45(5): 1031-8.   
+[5]Tang SC, Chen YC. Novel therapeutic targets for pancreatic cancer [J].World J Gastroenterol,2014,20(31):1082544.   
+[6]Liu X,Liu B, Cui Y et al. Collagen triple helix repeat containing 1 (Cthrcl） is an independently prognostic biomarker of non-small cell lung cancers with cigarette smoke[J]. Tumour Biol,2014,21.   
+[7]Kim JH,Baek TH,Yim HS et al.Collagen triple helix repeat containing-1(CTHRC1) expression in invasive ductal carcinoma of thebreast: the impact onprognosisand correlationto clinicopathologic features[J].Pathol Oncol Res,2013,19(4): 731-7.   
+[8]Tan F, Liu F,Liu H et al. CTHRC1 is associated with peritoneal carcinomatosis in colorectal cancer: a new predictor for prognosis [J].Med Oncol,2013,30(1): 473.   
+[9]Park EH,KimS，Jo JYetal.Collagen triple helixrepeat containing-1 promotes pancreatic cancer progresson by regulating migration and adhesion of tumor cells[J].Carcinogenesis,2013,34 (3): 694-702.   
+[10]Ma MZ, Zhuang C, Yang XM et al. CTHRC1 acts as a prognostic factor and promotes invasiveness of gastrointestinal stromal tumors byactivating Wnt/PCP-Rho signaling[J]. Neoplasia,2014,16(3): 265-78,278. e1-13.   
+[11]Tameda M, Sugimoto K,Shiraki K et al.Collagen triple helix repeat containing 1 is overexpressed in hepatocellular carcinoma and promotes cell proliferation and motility[J].Int J Oncol, 2014, 45(2): 541-8.   
+[12]Thiery JP.Epithelial-mesenchymal transitions in tumour progresson [J].Nat Rev Cancer,2002,2: 442-54.   
+[13]Micalizzi DS,Farabaugh SM,Ford HL.Epithelial-mesenchymal transition in cancer: parallels between normal development and tumor progression[J]. JMammary Gland Biol Neoplasia,2010,15 (2): 117-34.   
+[14]Taylor MA,Parvani JG, Schiemann WP. The pathophysiology of epithelial-mesenchymal transition induced by transforming growth factor- $\beta$ in normal and malignant mammary epithelial cells [J].J Mammary Gland Biol Neoplasia,2010,15(2):169-90.   
+[15]Thiery JP,Acloque H,Huang RY et al. Epithelial-mesenchymal transitions in development and disease[J]. Cell,20o9,139: 871-90.   
+[16] Wendt MK1,Tian M, Schiemann WP.Deconstructing the mechanisms and consequences of TGF- $\cdot \beta$ induced EMT during cancer progression[J].Cell Tissue Res,2012,347(1):85-101.   
+[17]Pyagay P, Heroult M, Wang Q et al. Collagen triple helix repeat containing 1,a novel secreted protein in injured and diseased arteries,inhibits collagen expression and promotes cell migration [J]. Circ Res,2005,96(2): 261-8   
+[18] Wang P,Wang YC,Chen XY et al. CTHRC1 is upregulated by promoter demethylation and transforming growth factor-bl and

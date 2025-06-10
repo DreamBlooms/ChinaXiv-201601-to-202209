@@ -1,0 +1,474 @@
+[
+    {
+        "type": "text",
+        "text": "基于多变量时间序列模型的锡林郭勒草原参考作物蒸散量预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯壮壮，史海滨，苗庆丰，李健男，孙伟，代丽萍(内蒙古农业大学水利与土木建筑工程学院,内蒙古 呼和浩特010018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探明各气象因素对锡林郭勒草原的参考作物蒸散量影响及对参考作物蒸散量预测,利用内蒙古锡林郭勒草原的6个国家级地面气象站点获取的气象数据与其计算得到的PM-ETo进行关联度分析，按照关联系数从大小排序分别建立基于多变量时间序列CAR(Controlled Auto-regressive)的CAR-ETo模型。结果表明:（1）各气象因子与PM-ETo关联系数呈现由荒漠草原区-典型草原区-草甸草原区过渡减小的分布，日最低气温、平均气温与PM-ETo关联度最小，平均日照时数与PM-ETo关联度最大，为0.7293。（2）处于草甸草原区、荒漠草原区、通过输入日照与气温两因子建立的CAR-ET精度较高;典型草原区还需风速为模型第三因子。（3）通过模型预测精度验证,CAR-ETo模型预测精度总体高于HS-ETo与PMT-ETo方法，结合关联度分析可得出对当地参考作物蒸散量有显著影响的气象因子,可为锡林郭勒草原气象监测布设方案、参考作物蒸散量确定与草原生态恢复提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：参考作物蒸散量；灰色关联度分析；多变量时间序列模型；锡林郭勒草原",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参考作物蒸散量 $( E T _ { 0 } )$ 是计算作物需水量的重要参数，准确计算 $E T _ { 0 }$ 对区域水资源评价与高效利用意义重大[1], $E T _ { 0 }$ 在水文模拟、灌溉制度的制定、水量平衡计算、气候干湿等分析中有着重要的作用，是农田水分管理与灌溉决策的重要参数，也是评价气候干湿程度、植被耗水量的重要指标之一。目前，常用的 $E T _ { 0 }$ 计算方法为FAO-56Penman-Monteith(FAO56-PM)法[2简称 $( \\mathrm { P M - E T _ { 0 } } )$ )法。PM-ET模型需要太阳净辐射 $( R _ { n } )$ 、最高和最低气温 $( T _ { \\mathrm { m a x } } , T _ { \\mathrm { m i n } } )$ 、相对湿度 $( R H )$ 和 $2 . 0 \\mathrm { ~ m ~ }$ 高度风速 $\\left( u _ { 2 } \\right)$ 等数据。但在类似锡林郭勒草原这样的地域广阔、能够提供 $E T _ { 0 }$ 计算所需要的全部气象因子的国家气象站点较少，就要求输人气象因子较少的 $E T _ { 0 }$ 估算方法。例如Har-greaves-Samani方程[3-4]简称HS- $\\mathrm { E T _ { 0 } }$ ,仅需最高和最低气温 $( T _ { \\mathrm { m a x } } , T _ { \\mathrm { m i n } } )$ 就可估算 $E T _ { 0 } ^ { \\ [ 5 - 6 ] }$ ，同时 Penman-Monteith温度(PMT)法也仅需气温数据2，以上2种基于气温数据估算参考作物蒸散量的方法在研究中得到广泛应用[7-8]。近年来,随着计算机技术不断发展产生了许多新的估算方法，如Ferreira等使用机器学习与深度学习算法利用小时数据估算参考作物蒸散量，Yamac等利用3种不同的机器学习算法和4种气象资料情景估算马铃薯作物的日蒸散量,崔宁博等[1]引入高维Copula函数[12]对影响 $E T _ { 0 }$ 的气象因素进行联合分布构建，揭示不同变量间的相关结构，建立多元气象因素对 $E T _ { 0 }$ 的联合分布模型。虽然这类模型不需要复杂物理参数，但是这些预测模型对建模时间序列数据有平稳性、独立性与正态性等要求。多变量时间序列CAR（ControlledAuto-Regressive)模型结合了一维时间序列分析和回归分析2类数理统计方法的优点，不仅考虑到事物发展的自身运动规律，顾及了环境因子的作用，可以有效避免处理复杂时间序列问题而引起的误差[13],多变量时间序列模型如今在水文预报地下水埋深[14],气象[15]等得到广泛应用,且效果显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文通过将PM-ET模型计算值作为标准值，利用锡林郭勒草原地面气象站所得气象因子结合关联度分析建立多变量时间序列CAR-ET模型并验证预测精度，与其他常见的 $E T _ { 0 }$ 计算方法进行比较，提出适合锡林郭勒草原的 $E T _ { 0 }$ 计算方法，以期为锡林郭勒草原设置气象监测、计算参考作物蒸散量与草原生态恢复提供理论指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "锡林郭勒位于内蒙古中东部，蒙古高原南部。东西长约 $7 0 0 \\mathrm { k m }$ ，南北宽 $5 0 0 \\mathrm { k m }$ ，总面积约为 $2 . 0 3 \\times$ $1 0 ^ { 5 } \\mathrm { k m } ^ { 2 [ 1 6 - 1 7 ] }$ ,其中天然草场面积占总面积 $9 5 \\%$ ,约为内蒙古草原面积的1/4,是中国重要的畜产品基地与生态保护屏障[18]。地处中纬度西风带,属中温带半干旱、干旱大陆性季风气候,其具有风大,干旱，寒冷的气候特点[2],土壤以粉砂土为主[19],地势南高北低，东、南部多低山丘陵，西、北部地形平坦。锡林郭勒根据牧区自然地理条件差异可分为3个地带性植被类型区域，东部以草甸草原区为主，中部以典型草原区为主，西部以荒漠草原区为主[20-21]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "锡林郭勒盟气象局共设15个旗(县、市、区)级气象局(台、站），但只有国家级地面站提供的数据才能满足PM-ET方法计算参考作物蒸散量。本文所用到的气象数据是在国家气象科学数据中心获取，包括了锡林郭勒盟6个国家级地面站。所用气象因子数据为日最高气温、日最低气温、平均相对湿度、日照时数、平均风速,研究区气象(台、站)点分布如图1所示，各站点1980—2019年平均气候资料汇总如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3参考作物蒸散量计算模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 FAO-56 Penman-Monteith( $\\mathrm { P M - E T _ { 0 } }$ 法其表达式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE T _ { \\mathrm { 0 } } = \\frac { 0 . 4 0 8 \\Delta ( R _ { \\mathrm { n } } - G ) + \\gamma \\frac { 9 0 0 } { T + 2 7 3 } u _ { \\mathrm { 2 } } ( e _ { s } - e _ { a } ) } { \\Delta + \\gamma ( 1 + 0 . 3 4 u _ { \\mathrm { 2 } } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bf79ce4c66573b2cb6bffc576205be721372d0d33c6c1bcf47cd814804f97cc.jpg",
+        "img_caption": [
+            "图1研究区站点分布",
+            "Fig.1 Meteorological station distribution map "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $E T _ { 0 }$ 为参考作物蒸散量， $\\mathbf { m } \\mathbf { m } \\cdot \\mathbf { d } ^ { - 1 }$ $\\Delta$ 为温度随饱和水气压变化的斜率， $\\mathrm { k P a \\cdot ^ { \\circ } C ^ { - 1 } }$ $R _ { n }$ 为作物表面的净辐射， $\\mathrm { M J } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { d } ^ { - 1 } ;$ $G$ 为土壤热通量， $\\mathbf { M J } \\cdot \\mathbf { m } ^ { - 2 } \\cdot \\mathbf { d } ^ { - 1 } ; \\gamma$ 为干湿计常数， $\\mathrm { { k P a } \\cdot ^ { \\circ } C ^ { - 1 } }$ $T$ 为日平均气温， ${ } ^ { \\circ } \\mathrm { C } ; u _ { 2 }$ 为 $2 \\mathrm { m }$ 高度处风速， $\\mathbf { m \\cdot s } ^ { - 1 } \\mathbf { ; } e _ { s }$ 为饱和水气压， $\\mathrm { k P a } ; e _ { a }$ 为实际水汽压kPa。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2多变量时间序列(CAR)模型多变量自回归模型建模方法主要有2种：一是采用一般最小二乘法建立回归模型的方法；二是递推最小二乘法进行模型参数估计的方法。在DPS数据处理系统中采用的是第2种方法建立CAR模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了不失一般性，假设用 $m$ 个变量的时间序列组建 $n$ 阶CAR模型，其形式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { \\imath } = a _ { \\imath } y _ { \\imath - 1 } + a _ { 2 } y _ { \\imath - 2 } \\cdots a _ { \\imath } y _ { \\imath - n } + b _ { \\imath 0 } x _ { \\imath , \\imath } + b _ { \\imath 1 } x _ { \\imath , \\imath - 1 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { 1 2 } x _ { 1 , t - 2 } { \\cdots } b _ { 1 n } x _ { 1 , t - n } + b _ { 2 0 } x _ { 2 , t } + b _ { 2 1 } x _ { 2 , t - 1 } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { 2 2 } x _ { 2 , t - 2 } { \\cdots } b _ { 2 n } x _ { 2 , t - n } + \\cdots + b _ { m 0 } x _ { m , t } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { m 1 } x _ { m , t - 1 } + b _ { m 2 } x _ { m , t - 2 } \\cdots b _ { m n } x _ { m , t - n } + \\pmb { \\mathscr { E } } _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对模型采用递推最小二乘法进行参数估计，令",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta = [ a _ { 1 } , a _ { 2 } , \\cdots , a _ { n } , b _ { 1 0 } , b _ { 1 1 } , b _ { 1 2 } , \\cdots , b _ { 1 n } , \\cdots ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { _ { 2 0 } } , b _ { _ { 2 1 } } , b _ { _ { 2 2 } } , \\cdots , b _ { _ { 2 n } } ] ^ { \\scriptscriptstyle T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nz _ { t } = [ y _ { t - 1 } , y _ { t - 2 } , \\cdots , y _ { t - n } , x _ { 1 , t - 0 } , x _ { 1 , t - 1 } , x _ { 1 , t - 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\cdots , x _ { 1 , t - n } , x _ { 2 , t - 0 } , x _ { 2 , t - 1 } , x _ { 2 , t - 2 } , . . . , x _ { 2 , t - n } ] ^ { T }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则CAR模型可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/32c08fe28b02a5e550e58e8855f66d655f63c7d099b05296dca1f516995401ba.jpg",
+        "table_caption": [
+            "表11980—2019年各站点气候资料",
+            "Tab.1The average climatic data of each station from 1980 to 2019 were summarized "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>气象站点</td><td>生态地理分区</td><td>日最高气温/℃</td><td>日最低气温/℃</td><td>平均相对湿度/%</td><td>日照时数/h</td><td>平均风速/(m·s1)</td></tr><tr><td>阿巴嘎旗</td><td>典型草原区</td><td>9.252</td><td>-4.001</td><td>55.072</td><td>8.142</td><td>3.166</td></tr><tr><td>东乌珠穆沁</td><td>草甸草原区</td><td>9.257</td><td>-4.213</td><td>60.876</td><td>8.157</td><td>2.852</td></tr><tr><td>西乌珠穆</td><td>草甸草原区</td><td>8.928</td><td>-4.194</td><td>58.485</td><td>7.681</td><td>3.334</td></tr><tr><td>多伦</td><td>典型草原区</td><td>10.041</td><td>-3.308</td><td>59.663</td><td>8.038</td><td>3.172</td></tr><tr><td>二连浩特</td><td>荒漠草原区</td><td>12.229</td><td>-1.623</td><td>46.672</td><td>8.715</td><td>3.850</td></tr><tr><td>锡林浩特</td><td>典型草原区</td><td>10.295</td><td>-3.036</td><td>55.503</td><td>8.132</td><td>3.343</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Psi } _ { \\mathcal { X } } t = z _ { t } ^ { T } \\theta + \\mathbf { \\mathcal { E } } _ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $T$ 表示矩阵的转置。根据该式，在时刻 $t , \\theta$ 的递推最小二乘估计值为 $( \\widehat { \\theta } _ { t } )$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left\\{ \\begin{array} { l l } { \\displaystyle \\hat { \\theta } _ { t } = \\hat { \\theta } _ { t - 1 } + K _ { t } ( y _ { t } - z _ { t } ^ { T } \\hat { \\theta } _ { t - 1 } ) } \\\\ { \\displaystyle K t = \\frac { P _ { t - 1 } z _ { t } } { \\alpha + z _ { t } ^ { T } P _ { t - 1 } z _ { t } } } \\\\ { \\displaystyle P _ { t } = \\frac { 1 } { \\alpha } ( 1 - K _ { t } z _ { t } ^ { T } ) P _ { t - 1 } } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "可利用 $N$ 组观察值所得到的 $\\mathrm { C A R } ( n )$ 模型来计算残差平方和 $S ( n )$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ( n ) { = } \\sum _ { t = n + 1 } ^ { N } { \\pmb \\varepsilon } _ { t } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中残差：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\hat { \\varepsilon } } _ { t } = \\boldsymbol { y } _ { t } - z _ { t } ^ { T } { \\boldsymbol { \\hat { \\theta } } _ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\alpha$ 为遗忘因子，一般取0.9\\~1.0,如果要求遗忘历史数据的速度快些，那么 $\\alpha$ 应趋近于0.9;如果要求遗忘历史数据的速度慢些，那么 $\\alpha$ 应趋近于1.0;如果 $\\alpha = 1$ ，那么历史数据永远不会遗忘掉。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对CAR模型的定阶是根据已知的 $N$ 个样本 $\\left( { { x } _ { j , t } } \\right)$ $y _ { t } ; t = 1 , 2 , \\cdots , N ; j = 1 , 2 , \\cdots , m )$ ，由低阶到高阶递增地对系统拟合CAR模型，并且依次对相邻的2个CAR模型采用 $F$ 检验的方法判断模型的阶次增加是否合适。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对 $\\mathrm { C A R } ( n )$ 模型中的某些系数是否为0进行 $F$ 检验，以决定模型的真实阶及其时滞，从而得到真实模型参数估计。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3灰色关联度分析灰色关联度分析与数理统计学的相关分析不同，关联度分析是基于灰色系统的灰色过程，分析是因素间时间序列的比较，同时关联分析不要求数据太多，主要研究动态过程，而相关分析则以静态研究为主，因此，关联度分析适应性更广。关联度分析在农业、水文、气象等领域十分广泛，如路璐等23运用关联分析法分析了水文气象因子对土壤水分变化起到主要影响与次要影响，王秋京等[24利用灰色关联分析方法分析了黑龙江省农业气象灾害演变特征，刘锋等[25提出了改进灰色关联从整体角度寻求系统的最优设计方案。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4模型评价指标通过CAR-ET模型与PM- $\\cdot \\mathrm { E T _ { 0 } }$ 方法计算出的结果比较，采用决定系数 $\\left( R ^ { 2 } \\right) ^ { [ 2 6 ] }$ 、均方根误差（RMSE）、Nash-Sutcliffe建模效率系数（NSE)[13]对模型模拟效果进行评价：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = \\left\\{ \\frac { \\displaystyle \\sum _ { t = 1 } ^ { n } ( Q _ { { } ^ { t } } - \\overline { { { Q _ { { \\scriptscriptstyle m } } } } } ) ( Q _ { { } ^ { t } } ^ { t } - \\overline { { { Q _ { { \\scriptscriptstyle o } } } } } ) } { \\displaystyle \\left[ \\sum _ { t = 1 } ^ { n } ( Q _ { { } ^ { t } } ^ { t } - \\overline { { { Q _ { { \\scriptscriptstyle m } } } } } ) ^ { 2 } \\right] ^ { 0 . 5 } \\left[ \\sum _ { t = 1 } ^ { n } ( Q _ { { } ^ { t } } ^ { t } - \\overline { { { Q _ { { \\scriptscriptstyle o } } } } } ) ^ { 2 } \\right] ^ { 0 . 5 } } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M S E } = \\left[ \\frac { \\displaystyle \\sum _ { t = 1 } ^ { n } ( Q _ { \\rho } ^ { t } - Q _ { \\rho } ^ { t } ) } { n } \\right] ^ { 0 . }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N S E } = 1 - \\frac { \\displaystyle \\sum _ { t = 1 } ^ { n } ( Q _ { m } ^ { t } - Q _ { o } ^ { t } ) ^ { 2 } } { \\displaystyle \\sum _ { t = 1 } ^ { n } ( Q _ { m } ^ { t } - Q _ { m } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q _ { o } ^ { t } \\setminus Q _ { m } ^ { t }$ 分别为预测值与观察值 $( t = 1 , 2 , 3 , \\cdots$ $\\mathbf { \\Omega } _ { n } )$ 之间的差异; $\\overline { { Q _ { o } } }$ 与 $\\overline { { Q _ { { \\scriptscriptstyle m } } } }$ 表示预测值与观察值的均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用Excel2016软件按照每1行为1个样本，每1列为1个变量整理数据，将输入因子放置在左边若干列，将右边最后一列设为输出因子，DPS7.05(Dataprocessingsystem)数据处理将待分析数据按照规定格式定义为数据块，分别在灰色系统方法与时间序列下模块下进行灰色关联度分析与建立多变量时间序列模型，应用QGIS3.14软件的反距离加权法插值将各个气象站点得到的灰色关联系数插值在研究区，并利用Origin2018软件作图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1参考作物蒸散量与各气象因子关联度分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据关联度分析得到的多年平均PM-ET在各站点与各参数的关联系数图如图2所示。多年平均PM-ET。与各气象因子的相关联程度受参数本身及地理位置因素的影响，关联系数分布的总体趋势为位于研究区西北方向的关联系数较东南方向的关联系数更大，在研究区呈现由西到东减小的分布。研究区内与多年平均PM-ET关联度最小的2个因子为多年最低气温的平均值、多年平均气温，最大为多年平均日照时数。由于处在西部的二连浩特市受蒙古高压影响，属于中温带大陆性季风气候、干旱荒漠草原气候,蒸散发潜力强,降水量少[27],参考作物蒸散量易受太阳辐射影响，处在研究区东北方向的东乌珠穆沁旗受东南海洋暖湿气流与西北干寒气流影响，属寒温带大陆性季风气候，大陆型高山气候区，年均气温较低[19]，日照时间相对较小,其参考作物蒸散量与平均日照时数关联度也较大，多年平均日照时数与PM-ET的关联系数最大值出现在二连浩特与东乌珠穆沁旗，关联系数分别为0.6973、0.7293。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/20ed5ccff0009268dc78d4aa9c8f382dbd5a664d40cee00fe50520d20d0cb3d7.jpg",
+        "img_caption": [
+            "图2各站点的PM-ET与各参数的关联系数分布",
+            "Fig.2The distribution diagramofPM- $\\cdot \\mathrm { E T _ { 0 } }$ and correlation coefficient of each parameter at each station "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同气象因子下CAR模型构建与验证",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将锡林郭勒盟1980—2019年的气象数据集按时间划分为率定期与验证期，其中1980—2009年为率定期率定模型，2010一2019年为验证期，验证模型精度。按照PM-ET与各气象因子关联系数从大到小的顺序建立CAR模型，模型所用的递推最小乘法的遗忘因子都为1.0,模型的显著水平为0.05，检验结果为 $F { = } 2 . 6 8 9 6$ 。其中 $\\mathrm { C A R } _ { n }$ 为以关联系数从大到小排列的气象因子数的建立的模型， $n$ 为气象因子数。通过比较CAR-ETo模型与PM-ETo模型的拟合关系，分析、评价所建立的CAR-ET模型的建模效果(图3、图4）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CAR-ET模型在率定期与PM-ET拟合较好，在验证期稍差，而PM-ET与HS-ET在各气象站点预测值均低于 $\\mathrm { P M - E T _ { 0 } }$ ,拟合精度较差。模型在率定期内随着输入气象因子的数量增加建立模型的 $R ^ { 2 }$ 增加，验证期内模型 $R ^ { 2 }$ 随着输入气象因子的增加呈现先增加后减少的变化趋势，表明随输入参数增多模型预测值更接近标准值。模型的NSE在模型率定期与模型验证期除东乌珠穆沁旗外都在0.9以上，且各CAR-ET模型的NSE值都大于HS-ET的NSE值，RMSE同 $R ^ { 2 }$ 也有着相似的变化规律，在模型率定期随着输入气象因子的增加，CAR-ET与PM-ET计算值的RMSE减小，验证期内，模型的RMSE值并没有随着输入的气象因子增加而减小",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过比较建立的CAR模型与HS- $\\cdot \\mathrm { E T _ { 0 } }$ 、PMT-ETo只需要气温数据简化计算方法计算精度来确定模型，阿巴嘎旗确定为 $\\mathrm { C A R } _ { 2 }$ 模型，其 $R ^ { 2 }$ 、NSE、RMSE参数均优于HS- $\\cdot \\mathrm { E T _ { 0 } }$ 与PMT- $\\cdot \\mathrm { E T _ { 0 } }$ 简化计算方法，东乌珠穆沁旗为 $\\mathrm { C A R } _ { 2 }$ 模型，除 $R ^ { 2 }$ 值为0.646小于HS-ET方法0.681外，其他参数值均优于2个简化计算方法，多伦县为 $\\mathrm { C A R } _ { 3 }$ 模型，除 $R ^ { 2 }$ 值为0.392小于HS-ET方法0.782外，其他参数值均优于2种简化计算方法，二连浩特为 $\\mathrm { C A R } _ { 2 }$ 模型，所有检验参数都优于PMT-$\\mathrm { E T _ { 0 } }$ 与HS-ET算法，西乌珠穆沁旗为 $\\mathrm { C A R } _ { 2 }$ 模型，除$R ^ { 2 }$ 值为0.614小于HS-ET方法0.739外，其他参数值均优于PMT- $\\cdot \\mathrm { E T _ { 0 } }$ 与HS-ET算法，锡林浩特为CAR模型，除 $R ^ { 2 }$ 值为0.767小于HS-ET与PMT-ET计算方法的 $R ^ { 2 }$ 值0.826、0.829外，其他参数全都优于PMT-$\\mathrm { E T _ { 0 } }$ 与HS-ET算法。通过上述比较得出，处于草甸草原区的东乌珠穆沁旗与西乌珠穆沁旗仅需日照时数与最高气温数据2个气象因子数据就可以较高精度预测出参考作物蒸散量 $E T _ { 0 }$ 的值，处于典型草原区的阿巴嘎旗、锡林浩特、多伦县需要除日照时数、最高气温数据外还需要平均风速数据与平均相",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PM-ET0 PMT-ET0 HS-ET0 10- CAR -o- CAR 1ol CAR4 0- CAR5(a)阿巴嘎旗 (b)东乌珠穆沁旗 (c)多伦1600 1200率定期！验证期 w/再 1150 1100 率定期！验证期 /再 1150 率定期！验证期1300 1050 1000 81100 1000 9501000 900 950 900 900 VMA800 8 850850700 8001980 1990 200020102020 1980 1990 2000 20102020 1980 1990 20002010 2020年份 年份 年份(d)二连浩特 (e)西乌珠穆沁旗 (f)锡林浩特1600 1250 1300率定期！验证期 率定期！验证期 率定期！ 验证期/ 1500 u/ 1200 uu/ 12501400 B风 A 鲁 1100 11501300 燕 1000 11001200 MAMA 海业 950 10501100 850 50 9501980 1990 2000 20102020 1980 1990 2000 2010 2020 1980 1990 2000 2010 2020年份 年份 年份",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/87c0d3b06b7a09163a90932ddef76599b658367376b1e2236d6d7c6f37268237.jpg",
+        "img_caption": [
+            "图3CAR模型在模型率定期和验证期内与PM-ET的拟合效果",
+            "Fig.3The fitting effect ofCARmodelwithPM $\\cdot \\mathrm { E T _ { 0 } }$ duringmodel rate and validation period ",
+            "图4各模型评价参数比较",
+            "Fig.4Comparison of evaluation parameters of each model $\\textstyle { C _ { n } }$ represents CAR model, $n$ represents the number of meteorological factors,H represents HS- $\\mathrm { { E T _ { 0 } } }$ ，PrepresentsPMT- $\\mathrm { E T _ { 0 } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对湿度数据才能以较高精度预测 $E T _ { 0 }$ 的值，处在荒漠草原区的二连浩特仅需日照时数与最高气温数据2个气象因子数据就可以较高精度预测出参考作物蒸散量 $E T _ { 0 }$ 的值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前对参考作物蒸散量的预测较为通用的方法为PM-ET方法，但能够提供 $E T _ { 0 }$ 计算所需要的全部气象因子的国家气象站均数不足1个[],这给 $E T _ { 0 }$ 精准预报普及带来了很大困难。在国家级气象站数据支持下，可以根据PM-ET模型计算出 $E T _ { 0 }$ 标准值，利用国家级气象站辐射范围以外的区域级气象站（能提供ET计算所需部分气象因子，但数目远多于国家级气象站、建设费用远低于国家级气象站）数据，构建模型较为准确的对 $E T _ { 0 }$ 进行预报，对气候干湿状况分析、区域水资源评价与农田水分管理与灌溉决策意义重大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于锡林郭勒主要处在干旱、半干旱气候区，有着风速大且风速在空间与时间的强变异性特殊的气候特征，导致HS-ET与PMT-ET在不考虑风速情况下均使 $E T _ { 0 }$ 被低估(图3)，同时难以得到合适的风速与风速变异数学规律，使得上述2种方法对 $E T _ { 0 }$ 预测精度提高较为困难[28]。多变量时间序列CAR模型是在只有一个变量的积分自回归滑动平均(ARIMA)模型基础上改进得到的2，模型具有一维时间序列与回归分析2类数理统计方法的优点，考虑的多因子的影响[3%，符合参考作物蒸散量的变化规律。本文选取了锡林郭勒盟的国家级地面气象站点，通过关联度分析得到了各气象因子与 $\\mathrm { P M - E T _ { 0 } }$ 关联系数，应用反距离插值法得出关联系数在研究区的空间分布[31-34],按与多年平均PM-ETo的关联系数从大到小的顺序选择气象因子建立多变量时间序列CAR-ET模型，将PM-ET设为标准方法，再与HS-ET法进行比较，评价模型。研究表明，CAR-ET。模型结合特定象因子数据的情况下预测精度较HS-ET与PM-ET方法更高，但是模型均要求输人日照时数等与PM-ET关联度较大气象参数，而日照时数又较难获取，需要当地依照实际制定数据监测方案。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "锡林郭勒草原面积广阔，然而国家级的地面气象站辐射的范围有限，同时由于其地理差异使得参考作物蒸散量在锡林郭勒草原不同区域受不同的气象因子影响，使锡林郭勒难以使用PM-ET法精确预测参考作物蒸散量，可通过利用设置在旗（县、市、区)级行政区域的地方气象观测站和牧业气象试验站的气象数据以及有针对性布设气象监测设备，收集数据构建CAR-ET模型来精准预测 $E T _ { 0 }$ ，可进一步为锡林郭勒草原生态环境恢复过程及其科学问题提供数据支撑。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）在研究区内，各气象因子与PM-ET的关联系数在研究区呈现由荒漠草原区一典型草原区—草甸草原区过渡减小的分布，其中日最低气温、平均气温与PM-ET关联度最小,平均日照时数与PM-ET关联度最大，为0.7293。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）CAR-ET模型除了 $R ^ { 2 }$ 小于HS- $\\mathrm { E T _ { 0 } }$ 与PMT-$\\mathrm { E T _ { 0 } }$ 模型外，由于HS-ET与PMT- $\\mathrm { E T _ { 0 } }$ 模型对 $\\mathrm { E T _ { 0 } }$ 低估，CAR-ET预测精度总体优于HS- $\\mathrm { E T _ { 0 } }$ 与PMT-$\\mathrm { E T _ { 0 } }$ 。处于锡林郭勒草甸草原区、荒漠草原区通过日照时数、最高气温二因子建模计算得到的 $E T _ { 0 }$ 精度最高，锡林郭勒典型草原区通过日照时数、最高气温、风速三因子据建模计算精度最高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（3）锡林郭勒草原受其特殊的地理条件与特殊气候影响，只通过输入气温参数的PMT- $\\mathrm { E T _ { 0 } }$ 与HS-$\\mathrm { E T _ { 0 } }$ 方法精度低于考虑日照、风速影响的CAR-ET模型，可结合当地地理与气候特征因地制宜制定气象监测方案建立CAR-ET模型进行 $E T _ { 0 }$ 预测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]李晨,崔宁博,冯禹,等.四川省不同区域参考作物蒸散量计算 方法的适用性评价[J].农业工程学报,2016,32(4):127-134,   \n316.[Li Chen,Cui Ningbo,Feng Yu,et al.Adaptation evaluation forreference evapotranspiration methods in different regions of Sichuan[J]. Transactions of the Chinese Society of Agricultural Engineering,2016,32(4): 127-134,316.] [2] Allan R G,Pereira L S,D Raes,et al. Crop EvapotranspirationGuidelines for Computing Crop Water Requirements-FAO Irrigation and Drainage Paper 56[M].FAO,1998. [3] Hargreaves G H, Samani Z A.Reference crop evapotranspiration from temperature[J].American Society of Agricultural Engineers,   \n1985,1(2): 96-99. [4] RazieiT,Pereira L S.Estimation of $E T _ { 0 }$ with Hargreaves- Samani and FAO-PM temperature methods for a wide range of climates in Iran[J].Agricultural Water Management,2013,121: 1-18.   \n[5]Jabloun M,Sahli A.Evaluation of FAO-56 methodology for estimating reference evapotranspiration using limited climatic data: Application to Tunisia[J].Agricultural Water Management,2008, 95(6): 707-715.   \n[6]Popova Z,Kercheva M,Pereira L S.Validation of the FAO methodology for computing ETo with limited data[J].Application to South Bulgaria[J]. Irrigation & Drainage,2010,55(2): 201-215.   \n[7]Allen R G.Self-calibrating method for estimating solar radiation from air temperature[J]. Journal of Hydrologic Engineering,1997, 2(2): 56-67.   \n[8]张倩,段爱旺,高阳,等.基于温度资料估算参考作物腾发量的 方法比较[J].农业机械学报,2015,46(2):104-109. [Zhang Qian, Duan Aiwang,Gao Yang, et al. Comparative analysis of reference evapotranspiration estimationmethods using temperature data[J]. Transactions of the Chinese Society for Agricultural Machinery, 2015, 46(2): 104-109.]   \n[9]Ferreira L B,da Cunha FF.New approach to estimate daily reference evapotranspiration based on hourly temperature and relative humidity using machine learning and deep learning[J]. Agricultural Water Management,2020,234: 106113.   \n[10]Yamag S S,Todorovic M. Estimation of daily potato crop evapotranspiration using three different machine learning algorithms and four scenarios of available meteorological data[J].Agricultural Water Management, 2020,228: 105875.   \n[11] 崔宁博,魏俊,赵璐,等.基于MEA-BPNN的西北旱区参考作物 蒸散量预报模型[J].农业机械学报,2018,49(8):228-236,307. [Cui Ningbo,Wei Jun, Zhao Lu,et al. Reference crop evapotranspiration prediction model of arid areasof Northwest China based on MEA-BPNN[J]. Transactions of the Chinese Society for Agricultural Machinery,2018,49(8): 228-236,307.]   \n[12] 顾世祥,赵众,陈晶,等.基于高维 Copula函数的逐日潜在蒸散 量及气象干旱预测[J].农业工程学报,2020,36(9):143-151. [Gu Shixiang, Zhao Zhong,Chen Jing,et al. Daily reference evapotranspiration and meteorological drought forecast using high-dimensional Copula joint distribution model[J]. Transactions of the Chinese Society of Agricultural Engineering,2020,36(9):143- 151.]   \n[13] 李仙岳,崔佳琪,史海滨,等.不同时间尺度下冻融灌区地下水 埋深 CAR模型优选[J].农业机械学报,2020,51(8):247-254. [Li Xianyue, Cui Jiaqi,Shi Haibin, et al. CAR model optimization of groundwater depth in freezing-thawing irrigation area underdifferent time scales[J]. Transactions of the Chinese SocietyforAgricultural Machinery,2020,51(8): 247-254.]   \n[14] 管孝艳,王少丽,高占义,等.基于多变量时间序列CAR模型的 地下水埋深预测[J].农业工程学报,2011,27(7):64-69.[Guan Xiaoyan, Wang Shaoli, Gao Zhanyi, et al. Groundwater depth forecast based multi-variate time series CAR mode[J]. Transactions of the Chinese Society of Agricultural Engineering,2011,27(7): 64- 69.]   \n[15] 常军,李素萍,李祯,等.CAR和SVM方法在郑州冬半年大雾气 候趋势预测中的试用[J].气象与环境科学,2008,31(1):16-19. [Chang Jun,Li Suping,Li Zhen,et al. Application of CAR and SVM to prediction of climatic trendof fog in winterhalf year[J]. Meteorological and Environmental Sciences,2008,31(1): 16-19.]   \n[16] 杨强,王婷婷,陈昊,等.基于MODIS EVI数据的锡林郭勒盟植 被覆盖度变化特征[J].农业工程学报,2015,31(22):191-198, 315.[Yang Qiang,Wang Tingting, Chen Hao,et al. Characteristics of vegetation cover change in Xilingol League based on MODIS EVI data[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(22): 191-198,315.]   \n[17] 王颖,张科利,李峰.基于10年MODIS数据的锡林郭勒盟草原 植被覆盖度变化监测[J].干旱区资源与环境,2012,26(9):165- 169.[Wang Ying,Zhang Keli,Li Feng.Monitoring of fractional vegetation cover change in Xilingol League based on MODIS data over 1O years[J]. Journal of Arid Land Resources and Environment, 2012,26(9): 165-169.]   \n[18] 王海梅,白殿奎,闫军,等.锡林郭勒草原不同生态地理区气候 干燥度周期变化的小波分析[J].内蒙古气象,2011(3):20-22, 47.[Wang Haimei, Bai Diankui,Yan Jun,et al.Analysis of waveleton periodic variation of climatic dryness in different eco- geographical zones in Xilingol Steppe[J]. Meteorology Journal of Inner Mongolia,2011(3): 20-22,47.]   \n[19] 马梓策,于红博,曹聪明,等.锡林郭勒盟潜在蒸散量和干燥指 数的变化特征[J].中国水土保持科学,2019,17(6):19-26.[Ma Zice,Yu Hongbo, Cao Congming,et al. Variation characteristics of potential evapotranspiration anddrying index in Xilingol League [J]. Science of Soil and Water Conservation,2019,17(6):19-26.]   \n[20] 马梅,张圣微,魏宝成.锡林郭勒草原近30年草地退化的变化 特征及其驱动因素分析[J].中国草地学报,2017,39(4):86-93. [Ma Mei, Zhang Shengwei,Wei Baocheng. Temporal and spatial pattern of grassand degradation and itsdeterminants for recent 30 years in Xilingol[J].Chinese Journal of Grassland,2017,39(4): 86-93.]   \n[21] 刘及东.基于气候产草量模型与遥感产草量模型的草地退化研 究[D].呼和浩特:内蒙古农业大学,2010.[Liu Jidong.Study on Grassland Degradation Based on Climate and Remote Sensing Models of Grass Yield[D].Hohhot: Inner Mongolia Agricultural University, 2010.]   \n[22] Tang Q Y, Zhang C X. Data processing system (DPS) software with experimental design,statistical analysis and data mining developed for use in entomological research[J]. Insect Science,2013,20 (2): 254-260.   \n[23] 路璐,王振龙,杜富慧,等.淮北平原基于水文气象多因子的土 壤水分动态预测[J].水资源与水工程学报,2019,30(4):237- 243.[Lu Lu, Wang Zhenlong,Du Fuhui, et al. Dynamic prediction of soil moisture based on hydrometeorologicalmulti-factors in Huaibei Plain[J]. Journal of Water Resources and Water Engineering, ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2019,30(4): 237-243.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24] 王秋京,马国忠,朱海霞,等.黑龙江省主要农业气象灾害演变 特征及对水稻产量的影响[J].灾害学,2020,35(1):76-83. [Wang Qiujing,Ma Guozhong,Zhu Haixia,et al.Variance characteristics of agro-meteorological disasters and effects ofrice yield in Heilongjiang province[J]. Journal of Catastrophology,2O2o,35(1): 76-83.]   \n[25] 刘锋,魏光辉.基于灰色关联的水利工程方案模糊优选[J].水力 发电学报,2012,31(1):10-14,26.[Liu Feng,Wei Guanghui. Fuzzy optimization of hydraulic project scheme based on improved greyrelation analysis[J]. Journal of Hydroelectric Engineering, 2012,31(1):10-14,26.]   \n[26]Fooladmand HR, Zandilak H, Ravanan MH.Comparison of different types of hargreaves equation for estimating monthly evapotranspiration in the south of Iran[J].Archives of Agronomy and Soil Science,2008,54(3): 321-330.   \n[27]曹艳萍,庞营军,庞肖杰.1956—2017年锡林郭勒盟气候变化 特征[J].干旱地区农业研究,2019,37(4):284-290.[Cao Yanping,Pang Yingjun,Pang Xiaojie.The characteristics of climate change in Xilingol League from 1956 to 2017[J].Agricultural Research in the Arid Areas,2019,37(4): 284-290.]   \n[28]Ren Xiaodong,Diogo.Daily reference evapotranspiration for hyper-arid to moist sub-humid climates in Inner Mongolia,China: II. Trends of $E T _ { 0 }$ and weather variables and related spatial patterns [J].Water Resources Management, 2016,30(11): 3793-3814.   \n[29]唐启义.DPS数据处理系统:实验设计,统计分析及数据挖掘 [M].北京:科学出版社,2007.[Tang Qiyi.DPS Data Processing System: Experimental Design, Statistical Analysis and Data Mining ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[M]. Beijing: Science Press,2007.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30] 许龙,刘志辉,姚俊强,等.基于多变量时间序列CAR模型研究 [J].中国农村水利水电,2015,35(6):81-85,90.[Xu Long,Liu Zhihui,Yao Junqiang,et al. Based on multivariate time series CAR Model and its application in Hutubi River runoff prediction [JJ. China Rural Water and Hydropower,2015,35(6): 81-85,90.]   \n[31] 韩丽娜.不同空间插值方法在辽西降水空间插值的精度对比分 析[J].吉林水利,2017(6): 46-50.[Han Lina.Accuracy analysis of spatial interpolation of precipitation in different areasby means of different spatial interpolation methods[J].Jilin Water Resources, 2017(6): 46-50.]   \n[32] 杨扬,杨建宇,李绍明,等.玉米生育期空间插值方法比较[J].农 业工程学报,2009,25(9):163-167,363.[Yang Yang,Yang Jianyu,Li Shaoming,et al. Comparison of spatial interpolation methods for maize growth period[J]. Transactions of the Chinese Society of Agricultural Engineering,2009,25(9): 163-167,363.]   \n[33] 贾悦,崔宁博,魏新平,等.基于反距离权重法的长江流域参考 作物蒸散量算法适用性评价[J].农业工程学报,2016,32(6): 130-138.[Jia Yue,Cui Ningbo,Wei Xinping,et al.Applicability evaluation of different algorithms for reference cropevapotranspiration in Yangtze River Basin based on inverse distance weighted method[J]. Transactions of the Chinese Society of Agricultural Engineering,2016,32(6): 130-138.]   \n[34] 阿荣,毕其格,董振华.基于MODIS/NDVI的锡林郭勒草原植被 变化及其归因[J].资源科学,2019,41(7):1374-1386.[A Rong, Bi Qige,Dong Zhenhua. Change of grassland vegetation and driving factors based on MODIS/NDVI in Xilingol, China[J].Resources Science,2019,41(7): 1374-1386.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Prediction of reference crop evapotranspiration in Xilinguole grassland based on multivariate time series model ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FENG Zhuangzhuang， SHI Haibin， MIAO Qingfeng， LI Jiannan, SUN Wei， DAI Liping (College of Water Conservancyand Civil Engineering,Inner Mongolia Agricultural University, Hohhot O10O18,Inner Mongolia, China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This study was performed to explore the influence of various meteorological factors on reference crop evapotranspiration and its prediction in Xilinguole grassland.The correlation between the meteorological data of six national ground meteorological stations in Xilinguole grassland of Inner Mongolia and the calculated PM- $\\cdot \\mathrm { E T _ { 0 } }$ was analyzed.A multivariate time series controlled autoregressive (CAR） model was used as a basis for establishing a CAR- $\\mathrm { E T _ { 0 } }$ model in accordance with the order of correlation coefficient. Results showed that the correlation coeficient between meteorological factors and PM $\\mathrm { E T _ { 0 } }$ decreased from a desert steppe area to a typical steppe area and a meadow steppe area. The correlation of daily minimum temperature,average temperature, and PM- $\\mathrm { E T _ { 0 } }$ was the smallest, whereas the correlation between average sunshine hours and PM- $\\mathrm { E T _ { 0 } }$ was the largest, which was 0.7293. In meadow and desert steppes, the accuracy of CAR $\\cdot \\mathrm { E T _ { 0 } }$ increased when sunshine and temperature were used as inputs.Wind speed was also required as the third factor of the model in a typical grassland area.The verification of model prediction accuracy revealed that the prediction accuracy of the CAR- $\\mathrm { E T _ { 0 } }$ model was generally higher than that of HS- $\\mathrm { E T _ { 0 } }$ and PMT- $\\mathrm { E T _ { 0 } }$ models. Combined with correlation analysis,the meteorological factors with a significant impact on local reference crop evapotranspiration could be obtained. Thus,this study could provide a theoretical basis for designing a meteorological monitoring layout,determining reference crop evapotranspiration, and conducting ecological restoration in Xilinguole grassland. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: reference crop evapotranspiration； grey correlation analysis；multivariable time series model; Xilingol grassland ",
+        "page_idx": 8
+    }
+]

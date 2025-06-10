@@ -1,0 +1,364 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肝移植术后稳定生存者外周血中差异表达miRNA及其功能预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "钟克波,张鹏,何晓顺,朱晓峰中山大学附属第一医院器官移植科，广东广州510080摘要：目的 寻找肝移植术后长期稳定生存者外周血中有意义的生物学标志物。方法 纳人肝移植术后稳定存活患者29例（STA组),反复排斥反应者10例(RJ组)，健康对照者17例(HC组）,利用芯片检测各组PBMCs中microRNAs的表达谱，并用Real-time PCR对差异表达的microRNAs进行验证。结果芯片结果显示STA组对比于RJ组共13个microRNA表达明显下调，经Real-time PCR验证3个microRNA(miR-106b,miR-18b,miR-340)表达下调。结论 肝移植患者外周血miR-106b、miR-18b、miR-340可作为肝移植术后潜在标志物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：miRNA;生物标志物;肝移植;免疫耐受;排斥反应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Differential expressions of microRNAs and their predicted targets in liver transplant recipients with long-term stable survival ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHONG Kebo,ZHANG Peng,HE Xiaoshun,ZHU Xiaofeng Departmentofansplantationnter,stfitedHospialofunt-senesitynghouin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective Todetermine whether themiRNA expression profileinperipheral blood mononuclear cells (PBMCs) difers between livertransplantrecipients withlong-termstable survivalandthose withacute rejection.Methods Twenty-nine liver transplantrecipients withlong-term stablesurvival (STA)group,10recipients withacute rejection (RJ group),and 17 healthy subjects (control group)were recruited for genome-wide microarray analysis of miRNA expresions in the PBMCs. The diferentially expresed miRNAs among the 3 groups were validated byreal-time PCR,andthe targets of these miRNAs were predicted. Results Compared with the RJ group, the STA group showed down-regulation of 13 miRNAs in the PBMCs. Of these down-regulated miRNAs, miRNA-18b,miRNA-340and miRNA-106b were validated byreal-time PCR,andthe later two miRNAs were predicted to target the TGF- $\\boldsymbol { \\beta }$ pathway. Conclusions The differentially expressed miRNAs in liver transplant recipients with long-term stablesurvival, namelymiRNA-18b,miRNA-340 and miRNA-106b,canbe potential clinical biomarkers to predict the outcomes of liver transplantation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: miRNA; biomarkers; liver transplantation; long-term survival; acute rejection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肝移植受体需长期终生服用免疫抑制剂，而免疫抑制剂带来的机会性感染和其他毒副作用反过来成为阻碍移植受体长期生存的重要因素之一，因此诱导免疫耐受成为可有效提高移植受体长期生存率的方法[]。目前相应动物模型已成功建立，但在临床上顺利开展该方案依然面对很大的挑战1。这种通过诱导产生的免疫耐受又称为临床操作性免疫耐受，是指移植受体在医生指导下或自行撤除免疫抑制药物后维持稳定的免疫耐受状态[2-7]。研究表明 $20 \\% { \\sim } 3 0 \\%$ 的肝移植术后长期稳定生存者经医生指导撤除免疫移植药物后可产生临床操作性免疫耐受[5.8]。与产生急性排斥反应者相比,这些移植受体的部分免疫细胞除了表现出数量及比例的差异，同时可有部分基因出现特异表达9。目前未有相关",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "调节机制的完整报道",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "miRNAs是一类小分子单链非编码RNA,通过结合靶mRNA的3'-UTR端抑制靶蛋白表达或促使靶mRNA降解[10]。到目前为止,已报道的与免疫细胞相关的miRNA已超过100种，并发现在下列疾病(包括肾移植和小肠移植术后排斥反应、类风湿性关节炎和红斑狼疮性肾炎)中存在潜在miRNA作为生物标记物[12-17]。然而，miRNA能否调控移植受体特异性基因的表达并作为生物标记物有效区分肝移植术后长期稳定生存者与急性排斥反应者尚未可知。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究中，我们用microarray芯片检测比较肝移植受体与正常人群外周单个核细胞miRNA表达谱，发现与移植术后急性排斥反应者相比，稳定肝移植受体有13个miRNAs出现下调表达，我们进一步用实时定量PCR方法验证其中3个miRNAs包括miR-340、miR-106b以及miR-18b的表达。功能预测研究表明miR-340和miR-106b与TGF-β信号通路相关。研究结果提示这些差异表达miRNAs可能在肝移植者免疫调节中发挥重要作用，并可作为诊断免疫耐受的长期生存移植受体的潜在生物标记物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1对象和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1研究对象",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验选取29位肝移植术后稳定患者(STA组），及10位经多次组织活检证明肝移植术后排斥反应患者(RJ组），分别抽取其外周血样本供实验研究；另选取17名广州输血中心的年龄匹配无既往肝病史及自体免疫疾病史的健康人(HC组)，抽取其血液作为对照。参照MarcMartinez-Llordella等5人的研究，本实验STA组的人组标准为：(1)肝移植术后存活至少3年以上；(2)服用单种抗排斥药物；(3)移植术后12个月内未出现急性排斥反应；(4)肝功能正常；(5)病史中无自身免疫性肝脏疾病。STA组进一步分为两组，其中STA3Y年组(术后存活时间多于3年且少于5年)患者10例;STA5Y年组(术后存活时间多于5年)患者19例。RJ组包括10名经至少两项组织活检证明有急性排斥反应的移植患者。STA组患者服用单种抗排斥药物至少1年后采集血液样本;RJ组患者一经诊断为急性排斥反应，在其接受类固醇注射或改变抗排斥治疗前应采集其血液样本。病人组与对照组患者的一般情况及临床资料见表一。本研究遵循赫尔辛基宣言(1975)，并获本医院伦理委员会(中山大学第一附属医院医学伦理委员会)批准([2011]175)，入组病人均签署知情同意书。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1提取PBMC总RNA血液样本收集于EDTA采血管中，用淋巴细胞密度梯度分离法(Ficoll)收集外周血单个核细胞(PBMC),具体操作参照试剂说明书(GEHealthcare,USA）。参照Invitrogen公司和QIAGEN公司的TRIzol试剂盒和miRNeasyminikit试剂盒的方法提取总RNA。在 nanodrop(ND-1000,NanodropTechnologies)进行RNA浓度和纯度的测定，跑电泳观察总RNA的完整性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2RNA印记及芯片杂交提取总RNA后，用miRCURYTM $\\mathrm { H y 3 ^ { \\mathrm { T M } } / H y 5 ^ { \\mathrm { T M } } }$ Power labeling kit(Exiqon,Vedbaek,Denmark)按厂家指引进行RNA印迹。标记结束后，带有Hy3TM荧光标记的样本在miRCURYTMLNA(v.16.0)(Exiqon)芯片上完成杂交。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3数据分析将扫描图片导入GenePixPro 6.0software(Axon)软件，获取数据并进行分析。每个miRNAs取3次反应值的平均值，全部样本中亮度值$> 5 0$ 的miRNAs将进行归一化处理。miRNAs的表达值应用中位数标准化的方式进行计算，在标准化表达值后,在MEVsoftware软件中(v4.6,TIGR).用VolcanoPlot filtering Volcano Plot filtering.Hierarchicalclustering的方法计算得出各组间有差异的miRNAs。1.2.4qRT-PCR从新鲜外周血样本中收集PBMCs,用mir-VanamiRNA提取试剂盒（Ambion,Austin,TX,USA)提取其总RNA。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "芯片杂交显示PBMCs中差异表达的miRNA，用qRT-PCR对其进行二次验证。用TaqManMicroRNA逆转录试剂盒(AppliedBiosystems)对 $1 0 \\mathrm { n g }$ 总RNA进行逆转录。qRT-PCR所用特异性引物详见表S1，反应在Real-time PCR 仪（Applied Biosystems 7900HTRealtimePCRSystem)上完成，将U6基因作为内参。miRNAs的表达值用中位数标准化的方式进行计算，结果用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 表示，用惠-曼特尼 $U$ 检验计算其 $P$ 值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1肝移植受体的一般临床特征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "入选的39例肝移植受体中，36例为术前HBV感染，余3例分别为多囊肝、布加综合征和乙肝阴性的原发性肝细胞癌(HCC)。STA3Y组中原发性肝细胞癌发生比例(2/8)低于STA5Y组(8/19)和RJ组(4/10)，其他基本特征(包括年龄、术前MELD评分、供肝冷缺血时间、手术时间、无肝期、术中红细胞输注量、ICU滞留时间、分析时外周血白细胞计数)3组间无显著差异。肝功能相关指标包括ALT和AST的表达水平在STA3Y和STA5Y组间无显著差异，而RJ组肝功能水平则低于其他两组。32例肝移植受体服用CNI免疫抑制剂(FK506或环孢素A)作为免疫移植维持方案(其中STA3Y组8例，STA5Y组15例,RJ组9例)。肝移植受体的一般临床特征如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2肝移植术后长期稳定生存组比急性排斥反应组外 周单个核细胞低表达的miRNAs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用microarray芯片检测肝移植术后长期稳定生存组与急性排斥反应组外周单个核细胞miRNAs表达，发现有13个miRNAs出现下调表达（表2)。其中,4个miRNAs(包括miRNA-23b、miRNA-378、miRNA-454和miRNA-18b)表达水平有显著性差异$( P { < } 0 . 0 1 )$ ,其余9个miRNAs(包括miRNA-340、miRNA-423-3p、miRNA- $1 3 8 \\ – 1 ^ { * }$ 、miRNA-4289、miRNA-378/378c/378d、miRNA-15a、miRNA- $5 0 5 ^ { * }$ miRNA-106b和miRNA-15b)表达水平有明显差异 $( P { < } 0 . 0 5 )$ 。没有发现比急性排斥反应组表达升高的miRNAs。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3肝移植术后长期稳定生存组比健康对照组外周单 个核细胞低表达的miRN ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过比较肝移植术后长期稳定生存组与健康对照组间外周单个核细胞miRNA的表达谱，发现肝移植术后稳定生存组中,5个miRNAs(包括miRNA-27a、miRNA- $1 3 8 \\ – 1 ^ { * }$ 、miRNA-197、miRNA-378和miRNA-",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/864a7bc54eb7978556977bac5bdb9c6baff5510a9036927fa3c0cb6b8cb527d3.jpg",
+        "table_caption": [
+            "表1各组肝移植受体及健康对照组一般临床特征 Tab.1 Characteristics of liver transplant recipients and healthy volunteers "
+        ],
+        "table_footnote": [
+            "STA3Ygroup:Stablepatientsat3-5yearsafter liver transplantation;STA5Ygroup:Stablepatientsover5yearsafterliver transplantation;RJroup:Patientswithacuterejection;HCgoup:Healthyontrolsubjects;HBVroup:PatietswithhepatisBius (HBV)infection;HCCgroup:Patientswithhepatocelularcarcinoma;MELD:Modelforend-stage liverdisease;ICU:Intensivecare unit;MP:Methylprednisolone;FK506:Tacrolimus；CsA:CiclosporinA；ALT:alaninetransaminase；AST:Aspartatetransaminase; WBC: white blood cell leukocyte; NS: No significant difference; Compared with the RJ group, $^ { * } P { < } 0 . 0 0 0 1$ $^ { \\# } P { < } 0 . 0 0 1$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>STA 3Y (n=10)</td><td>STA 5Y (n=19)</td><td>RJ (n=10)</td><td>HC (n=17)</td><td>P</td></tr><tr><td>Age (years)</td><td>54 (40-77)</td><td>50.5 (47-64)</td><td>51.5 (33-64)</td><td>51 (42-59)</td><td>>0.05</td></tr><tr><td>Gender</td><td></td><td></td><td></td><td></td><td>>0.05</td></tr><tr><td>Male</td><td>10</td><td>18</td><td>8</td><td>13</td><td></td></tr><tr><td>Primary Diseases</td><td></td><td></td><td></td><td>N/A</td><td></td></tr><tr><td>HBV</td><td>9</td><td>19</td><td>7</td><td></td><td>>0.05</td></tr><tr><td>Cirrhosis</td><td>8</td><td>17</td><td>7</td><td></td><td></td></tr><tr><td>HCC</td><td>2</td><td>8</td><td>4</td><td></td><td></td></tr><tr><td>MELD</td><td>16.1 (6-36)</td><td>12.9 (0-30)</td><td>11.3 (0-27)</td><td>N/A</td><td>>0.05</td></tr><tr><td>Age of recipient</td><td>49.5 (36-72)</td><td>43.5 (36-59)</td><td>48.5 (30-64)</td><td>N/A</td><td>>0.05</td></tr><tr><td>ICU time (h)</td><td>59.15 (9-137)</td><td>59.15 (9-137)</td><td>44.5 (11-139)</td><td>N/A</td><td>>0.05</td></tr><tr><td>Operation time (h)</td><td>7.39 (5-9)</td><td>6.96 (5-10)</td><td>7.37 (4.5-9.7)</td><td>N/A</td><td>>0.05</td></tr><tr><td>Cold ischemia（h)</td><td>7.05 (5-9)</td><td>7.6 (4-14)</td><td>8.38 (5-12)</td><td>N/A</td><td>>0.05</td></tr><tr><td>Colume of RBC</td><td>6.4 (3-15)</td><td>12.05 (0-30)</td><td>7.9 (4-12)</td><td>N/A</td><td>>0.05</td></tr><tr><td>Anhepatic phase (min)</td><td>37.1 (30-45)</td><td>48.1 (28-75)</td><td>43.7 (30-65)</td><td>N/A</td><td>>0.05</td></tr><tr><td>Follow-up (month)</td><td>57.5 (52-59)</td><td>86 (61-139)</td><td>42 (1-65)</td><td>N/A</td><td></td></tr><tr><td>Immunological inducor</td><td>MP+FK506 (10)</td><td>MP+FK506 (17) MP+Zenapax (2)</td><td>MP+FK506 (10) MP+simulect (3)</td><td>N/A</td><td></td></tr><tr><td>Immunosuppressor</td><td>FK506 (9), CsA (1)</td><td>FK506(16), CsA (3)</td><td>FK506 (10)</td><td>N/A</td><td></td></tr><tr><td>Liver function</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ALT(U/L)</td><td>37 (15-71)*</td><td>26.16 (8-79)*</td><td>306.2(34-1000)</td><td></td><td><0.05</td></tr><tr><td>AST(U/L)</td><td>30.50 (16-55)#</td><td>25.36 (15-48)*</td><td>160.7 (25-659)</td><td></td><td><0.05</td></tr><tr><td>WBC(x109)</td><td>7.2(3.2-8.3)</td><td>6.6 (4.1-8.4)</td><td>6.9(3.3-11.2)</td><td>N/A</td><td>>0.05</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9bc57371027c5096b05e844d11c007eab7d87769420a126f1f9c4559f858ffe9.jpg",
+        "table_caption": [
+            "表2稳定肝移植受体组比急性排斥反应组下调的miRNAs Tab.2 Down-regulated miRNAs in STA recipients compared with RJ recipients "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>miRNAs</td><td>Multiple of difference</td><td>P</td></tr><tr><td>hsa-miR-340</td><td>0.52</td><td><0.05</td></tr><tr><td>hsa-miR-423-3p</td><td>0.76</td><td><0.05</td></tr><tr><td>hsa-miR-138-1</td><td>0.51</td><td><0.05</td></tr><tr><td>hsa-miR-4289</td><td>0.22</td><td><0.05</td></tr><tr><td>hsa-miR-378/hsa- miR-378c/hsa-miR-378d</td><td>0.39</td><td><0.05</td></tr><tr><td>hsa-miR-15a</td><td>0.62</td><td><0.05</td></tr><tr><td>hsa-miR-505</td><td>0.37</td><td><0.05</td></tr><tr><td>hsa-miR-106b</td><td>0.55</td><td><0.05</td></tr><tr><td>hsa-miR-15b</td><td>0.62</td><td><0.05</td></tr><tr><td>hsa-miR-18b</td><td>0.16</td><td><0.05</td></tr><tr><td>hsa-miR-454</td><td>0.58</td><td><0.05</td></tr><tr><td>hsa-miR-378</td><td>0.28</td><td><0.05</td></tr><tr><td>hsa-miR-23b</td><td>0.69</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3149)表达水平显著低于健康对照组 $( P { < } 0 . 0 1 )$ ，miRNA-1290表达量则明显低于健康对照组（ $P <$ 0.05)。同样的，本研究没有发现比健康对照组表达升高的miRNAs(表3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4肝移植术后急性排斥反应组与健康对照组外周单 个核细胞差异表达的miRNAs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肝移植术后急性排斥反应组外周单个核细胞miRNA-155表达量明显高于健康对照组 $( P { < } 0 . 0 5 )$ ，而miRNA-1290则出现低表达( $_ { \\scriptstyle P < 0 . 0 5 }$ ，表4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5稳定肝移植受体与急性排斥反应肝移植受体间差 异miRNAs表达量验证 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据PCR验证标准，即miRNAs差异倍数 $> 2$ 且 $P <$ 0.01,我们选择了芯片结果中表达下调的miRNA-340、miRNA-106b和miRNA-18b进行验证(图1)。实时定量PCR结果表明，这3个miRNAs在稳定肝移植受体组和健康对照组中的表达水平均低于急性排斥组。其中，STA5Y组与急性排斥组相比，miRNA-106b表达量下",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3稳定肝移植受体组比健康对照组下调的miRNAs",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5299b5b9e326e23f7b415333ecc88ad679508e1a391bf03bd08ce7979df8e9ff.jpg",
+        "table_caption": [
+            "Tab.3Down-regulated miRNAs in STA recipients compared with HC individuals "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>miRNA</td><td>Multiple of difference</td><td>P</td></tr><tr><td>hsa-miR-27a</td><td>0.47</td><td><0.05</td></tr><tr><td>hsa-miR-1290</td><td>0.46</td><td><0.05</td></tr><tr><td>hsa-miR-138-1*</td><td>0.21</td><td><0.05</td></tr><tr><td>hsa-miR-197</td><td>0.24</td><td><0.05</td></tr><tr><td>hsa-miR-378</td><td>0.33</td><td><0.05</td></tr><tr><td>hsa-miR-3149</td><td>0.28</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/41d5e76e478ae43c7fcec42106f9007e26ef232778c956313b150d5e0164385c.jpg",
+        "table_caption": [
+            "表4肝移植急性排斥反应组与健康对照组差异表达miRNAs Tab.4 MicroRNAs different expression in PBMC distinguishes rejection reicipient from healthy control "
+        ],
+        "table_footnote": [
+            "\\*hsa-miR-155 is up-regulated; #hsa-miR-1290 is down- regulated. "
+        ],
+        "table_body": "<html><body><table><tr><td>miRNA</td><td>Multiple of difference</td><td>P</td></tr><tr><td>hsa-miR-155</td><td>1.52*</td><td><0.05</td></tr><tr><td>hsa-miR-1290</td><td>0.48#</td><td><0.05</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "调了0.58倍 $( P { < } 0 . 0 1 )$ ;miRNA-340表达量下调了0.51 倍 $( P { < } 0 . 0 1 )$ ,miRNA-18b表达量下调了0.61倍（ $P <$ 0.01)。同时，健康对照组中miRNA-18b的表达量比急 性排斥反应组下调了0.45倍 $( P { < } 0 . 0 1 )$ O ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6外周单个核细胞差异表达miRNAs的功能预测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们运用DIANA-mirPath软件预测差异表达miRNAs(miRNA-106b、miRNA-340和miRNA-18b)可能调控的分子信号通路。结果显示miRNA-340和miRNA-106b可参与调节TGF-β信号通路中一系列分子。其中，miRNA-340可参与调控的该信号通路中的分子包括骨形态发生蛋白4(BMP4）、Noggin基因(NOG)、SMAD家族蛋白4(SMAD4）、DNA结合蛋白抑制剂(ID2)DNA结合蛋白抑制剂3(ID3）、促分裂原活化蛋白1(MAPK1）、SMAD家族蛋白7(SMAD7)、Smad泛素化调控因子1(SMURF1）、活化素A受体1C型（ACVR1C）、SMAD家族蛋白4(SMAD4）、视网膜母细胞瘤类蛋白2(RBL2）、锌指蛋白(Zinc finger)、FYVE结构域蛋白16（ZFYVE16）、CREB结合蛋白（CREBBP）、活化素A受体2B型（ACVR2B）、RAS同系家族蛋白A(RHOA）SMAD家族蛋白6(SMAD6以及配对同源异性域蛋白2(PITX2);同时，miRNA-106b可参与调控的该信号通路中的分子包括骨形态发生蛋白受体II型（BMPR2），SMAD家族蛋白5（SMAD5）、SMURF1、转化生长因子β受体II(TGFBR2),SMAD2,视网膜母细胞瘤类蛋白1(RBL1)，E2F转录因子(E2F5)，ZFYVE16,磷酸化蛋白2催化亚基α同工酶(PPP2CA),活化素受体2(ActivinR2)和SMAD7。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ad121674d3ca5d165c6240d4ffb16b9baeb637c3516c8d4778a6a9967197021.jpg",
+        "img_caption": [
+            "图1STA5Y受体组、急性排斥反应组与健康对照组外周单个核细胞差异miRNAs表达量验证 Fig.1 Validation of diferential expression of microRNAs inPBMCs from STA 5Y recipients,RJ recipients and healthy subjects.RJ: Groups with acute rejection ;3Y: Stable groupof 3-5 years; 5Y: Stable group over 5 years; HC: healthy control group.A: Expression of U6 as a reference that showed no significant diferences between the groups $( P { > } 0 . 0 5 )$ . B: Compared with RJ and HC groups, the expression of miR-340 was significantly reduced in STA 5Y group $^ { * } P { < } 0 . 0 1$ Us RJ group). C: Compared with RJ group, the expression of miR-18b was significantly reduced in STA 5Y group $( ^ { * } P { < } 0 . 0 1 )$ $D$ :Compared with RJ and HC groups,the expression of miR-106b was significantly reduced in STA 5Y group ( $^ { * } P { < } 0 . 0 1$ Us RJ group; $^ { \\sharp } P \\ / { < } 0 . 0 1$ Us HC group). Data are expressed as fold changes and the $P$ value was calculated by Mann-Whitney test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TGF-β信号通路中不包含miRNA-18b的靶基因，但是p53信号通路中则包含部分miRNA-18b的靶基因，包括毛细血管扩张共济失调突变基因(ATM)、周期蛋白依赖性激酶2(CDK2）、周期蛋白D2(CCND2)和胰岛素生长因子。同时，受泛素调节的蛋白酶解作用相关的信号通路上也有miRNA-18b靶基因，包括泛素辍合酶E2G1(UBE2G1)，泛素辍合酶E2Z(UBE2Z)，促分裂原活化蛋白1E3泛素化蛋白连接酶(MAP3K1)，活化的STAT3蛋白抑制剂(PIAS3)和神经前体细胞表达的发育衰减蛋白4(NEDD4)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "寻找及鉴定肝移植术后长期稳定生存者外周血中有意义的生物学标志物，对于肝移植术后患者免疫耐受状态评估及预测具有重大意义，并有助于我们进一步了解移植免疫耐受机制，为临床指导抗排斥治疗提供了重要依据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MicroRNAs(miRNAs)是一类小分子单链非编码RNA，它们可直接与靶mRNA的3'端非转录区(3'-UTRs)相结合，从而抑制蛋白的表达或促进靶mRNA的降解[1]。在免疫细胞中目前已发现超过100种miRNAs[10-11],且已有大量证据证明miRNAs可作为肾移植排斥反应[12],小肠移植排斥反应[13],类风湿关节炎[14],败血症[15],狼疮肾炎[16]及多种癌症的潜在生物标志物。然而，miRNA的表达谱是否可用于肝移植患者的免疫耐受状态评估还有待验证。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究中我们选取了29名肝移植术后稳定生存者，通过对其PBMCs进行芯片杂交及Real-timePCR以发现及鉴定潜在的肝移植术后稳定生物标志物。芯片杂交结果显示肝移植术后稳定生存者PBMCs中有13种MicroRNAs表达下调,其中miR-340,miR-106b,miR-18b经Real-timePCR验证其表达下调。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "芯片杂交显示表达下调的13种miRNAs中，部分经先前报道证实与免疫反应相关，并参与了自体免疫疾病的发病机制。近期一项研究证实miR-378可直接靶向结合颗粒酶B,进而负向调控人NK细胞的细胞毒性[18]。miR-23b被证实在狼疮、类风湿性关节炎及多发性硬化等自体免疫疾病中表达下调，提示它在自体免疫疾病中发挥了一定的抑制作用[19]。miR-15a及miR-16-1被发现与血液系统及实体的恶性肿瘤相关，已有研究证实它们可以调控CD4阳性T细胞中BCL2的表达，并在复发-缓解型多发性硬化中起到了一定的调控作用[20]。此外，在本研究中表达下调的13种miRNAs中，一些已被认为是多种自体免疫疾病的潜在生物标志物。对多发性硬化症而言，环状miR-454可作为一种方便易得的生物标志物，并可依据其进行疾病分期[21]。另有研究显示环状miR-505\\*在克罗恩病及溃疡性结肠炎中表达下调，提示其可作为急性克罗恩病及溃疡性结肠炎的诊断标志之一[22]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究中13种表达下调的miRNAs中,miR-340,miR-106b及miR-18b经Real-timePCR二次验证证明其表达水平下调,进一步利用DIANA-mirPath软件对它们进行分析发现，miR-340和106b预测的靶基因通路与TGF-β明显相关,miR-18b预测的靶基因则与p53信号转导通路、泛素介导的蛋白水解及细胞周期相关。以上结果提示，这3种microRNAs可能在肝移植术后免疫中发挥着重要作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "miR-106b已经被多个研究证实可调控免疫反应。研究发现在多发性硬化患者外周血的调节性T细胞(简称Treg)中，miR-106b表达上调，且经证实其可抑制免疫调节关键通路——TGF-β通路的激活[23-24]。TGF- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ 一直被认为是负向免疫调节的关键因子，相关研究证明TGF-β可抑制T细胞反应并产生免疫耐受[25-26],这种抑制作用通常被认为归结于TGF- $\\cdot \\beta$ 可促进Tregs的增殖及分化[27-30]。然而另有研究显示在IL-6或IL-21共刺激的情况下，TGF-β同样可以促进Th17的增殖及分化[29.32-34]。Th17是一种新发现的已被证实可介导自身免疫疾病的效应T细胞[31-32],这提示在某些特定情况下TGF-β也可促进自身免疫。综上信息提示，本研究中下调表达的miR-106b作为TGF-β通路的抑制因子，也可调控Tregs与Th17之间的动态平衡。miR-106b如何调控二者的平衡进而调节免疫状态,其机制还有待进一步的研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究中，miR-340在肝移植稳定生存者中同样表达下调，其预测靶基因也与TGF-β通路明显相关。有研究发现，miR-340在多发性硬化症患者的CD4阳性记忆T细胞中高表达，并可抑制Th2细胞的分化,但可通过降低GATA3的表达水平来提高促炎性Th1细胞的反应性[35]。记忆T细胞一直是人实体器官移植术后形成免疫耐受的主要障碍之一[36]。本研究中下调的miR-340,是否是通过调节记忆T细胞的功能来促进免疫耐受，其机制也有待于更深人详尽的研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "目前关于miR-18的研究，大部分集中于其在恶性肿瘤中所起的作用[37-38],其在免疫反应中的作用则很少被关注。本研究中对miR-18的靶基因预测分析显示，一些靶基因与p53信号转导通路相关。p53是诱导细胞凋亡及细胞周期停滞中的关键调控因子，它在炎症反应及自体免疫反应中也起着重要作用。经证实p53可抑制炎症反应，并且是多种自体免疫疾病如类风湿性关节炎及实验性自身免疫性脑脊髓炎中的保护因子[39-42]。然而另有研究证实，p53也可以通过促进产生自身抗体和促炎症因子，及促进淋巴细胞聚集，从而加剧免疫反应[43-44]。因此,p53在自体免疫中所起的作用究竟为何目前仍不明确。本研究所发现肝移植稳定生存者下调表达的miR-18部分靶基因参与了p53信号转导，这为明确p53在自体免疫中所起的作用提供了参考信息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值得一提的是，miR-18b的预测靶基因中一些分子与泛素介导的蛋白水解信号途径有关。先前已有实验证实，参与泛素介导的蛋白水解过程的多种泛素连接酶，在负向调控抗原受体信号转导中发挥了重要作用[45-46],并可促进诱导淋巴细胞成为无能细胞[47-48]。以上信息提示泛素介导的蛋白水解过程在各类免疫反应(包括器官移植后的排斥反应)中都发挥了重要作用。因此，进一步的研究miR-18在泛素介导的蛋白水解过程中发挥的作用，有助于弄清泛素介导的蛋白水解在肝移植免疫反应中的作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究发现肝移植术后稳定生存者比有排斥反应者其miR-340,miR-106b及miR-18b表达明显下调。进一步分析发现，miR-340和106b预测的靶基因与TGF-β通路明显相关，miR-18b预测的靶基因则与p53信号转导通路、泛素介导的蛋白水解相关，以上信息提示这些microRNAs在肝移植术后的免疫反应中发挥着重要调控作用。我们根据每个病人的综合情况，已指导部分病人临床减药或停药，几个月来这些病人暂未发生排斥反应。这些microRNAs在肝移植免疫中所起的作用，以及其能否作为临床评估肝移植患者免疫水平的生物标志物，还有待后续实验进一步验证。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］Turka LA，Wood K，Bluestone JA．Bringing transplantation tolerance into the clinic:lessons from the ITN and RISET for the Establishment of Tolerance consortia [J]．Curr Opin Organ Transplant,2010,15(4): 441-8.   \n[2]Lerut J,Sanchez-Fueyo A.An appraisal of tolerance in liver transplantation[J].AmJ Transplant,2006,6(8):1774-80.   \n[3]Koshiba T,Li Y, Takemura M,et al. Clinical, immunological,and pathological aspectsofoperational tolerance afterpediatric living-donor liver transplantation[J].Transpl Immunol, 2Oo7,17(2): 94-7.   \n[4]Martinez-Llordella M,Puig-Pey I, Orlando G,et al.Multiparameter immune profiling of operational tolerance in liver transplantation [J].Am JTransplant,2007,7(2): 309-19.   \n[5]Martinez-Llordella M,Lozano JJ，Puig-Pey I，et al.Using transcriptional profiling to develop a diagnostic test of operational tolerance in liver transplant recipients[J].J Clin Invest,2008,118 (8): 2845-57.   \n[6]Tryphonopoulos P,Ruiz P, Weppler D,et al. Long-term follow-up of 23 operational tolerant liver transplant recipients [J].Transplantation,2010,90(12): 1556-61.   \n[7]Nafady-Hego H,Li Y,Ohe H,et al. The Generation of donorspecific $\\mathrm { C D 4 ^ { + } C D 2 5 ^ { + + } C D 4 5 R A + }$ naive regulatory T cells in operationally tolerant patients after pediatric living-donor liver transplantation[J]. Transplantation,2010,90(12): 1547-55.   \n[8]Charlton MR，Wall WJ,Ojo AO，et al.Report of the first international liver transplantation society expert panel consensus conference on renal insufficiency in liver transplantation[J].Liver Transpl,2009,15(11): S1-34.   \n[9]Turka LA,Lechler RI. Towards the identification of biomarkers of transplantation tolerance[J]. Nat Rev Immunol, 2009,9(7): 521-6.   \n[10]O'connell RM,Rao DS,Chaudhuri AA,et al. Physiological and pathological roles for microRNAs in the immune system[J]. Nat Rev Immunol, 2010,10(2): 111-22.   \n[11] Lodish HF,Zhou BY,Liu G,et al. Micromanagement of the immune system by microRNAs[J].Nat Rev Immunol, 2008,8(2): 120-30.   \n[12]Anglicheau D,Sharma VK,Ding R,et al.MicroRNA expression profiles predictive of human renal allograft status[J].Proc Natl Acad Sci USA,2009,106(13): 5330-5.   \n[13]Sotolongo B,Asaoka T, Island E,et al. Gene expression profiling of MicroRNAs in small-bowel transplantation parafin-embedded mucosal biopsy tissue[J]. Transplant Proc,2010,42(1): 62-5.   \n[14]Pauley KM,Satoh M, Chan AL，et al. Upregulated miR-146a expression in peripheral blood mononuclear cells from rheumatoid arthritis patients[J].Arthritis Res Ther, 2008,10(4):R101.   \n[15] Vasilescu C,Rossi S, Shimizu M,et al. MicroRNA fingerprints identify miR-15O as a plasma prognostic marker in patients with sepsis[J].PLoS One,2009,4(10): e7405.   \n[16] Te JL,Dozmorov IM, Guthridge JM,et al.Identification of unique microRNA signature associated with lupus nephritis[J].PLoS One, 2010, 5(5): e10344.   \n[17]Ji J,Shi J,Budhu A,et al.MicroRNA expression,survival,and response to interferon in liver Cancer[J].N Engl JMed,2009,361 (15): 1437-47.   \n[18]Wang P, Gu Y, Zhang Q, et al. Identification of resting and type I IFN-activated human NK cell miRNomes reveals microRNA-378 and microRNA-3Oe as negative regulators of NK cell cytotoxicity J].JImmunol,2012,189(1): 211-21.   \n[19]Zhu S,Pan W, Song X, et al. The microRNA miR-23b suppresses IL-17-associated autoimmune inflammation by targeting TAB2, TAB3 and IKK-a[J]. Nat Med,2012,18(7):1077-86.   \n[20] Lorenzi JC,Brum DG,Zanette DL,et al. miR-15a and 16-1 are downregulated in $\\mathrm { C D 4 ^ { + } }$ T cellsof multiple sclerosis relapsing patients[J]. Int J Neurosci,2012,122(8): 466-71.   \n[21]Gandhi R, Healy B,Gholipour T, et al. Circulating microRNAs as biomarkers for disease staging in multiple sclerosis[J].Ann Neurol, 2013,73(6): 729-40.   \n[22]Wu F,Guo NJ,Tian H,et al.Peripheral blood microRNAs distinguish active ulcerative colitis and Crohn's disease[J].Inflamm Bowel Dis,2011,17(1): 241-50.   \n[23]De Santis G,Ferracin M,Biondani A,et al.Altered miRNA expression in T regulatory cells in course of multiple sclerosis[J]. J Neuroimmunol,2010,226(1/2): 165-71.   \n[24] Petrocca F, Vecchione A, Croce CM. Emerging role of miR-106b25/miR-17-92 clusters in the control of transforming growth factor beta signaling[J]. Cancer Res,2008,68(20): 8191-4.   \n[25]Bommireddy R,Engle SJ,Ormsby I,et al. Elimination of both $\\mathrm { C D 4 ^ { + } }$ and $\\mathrm { C D 8 ^ { + } T }$ cells but not B cells eliminates inflammation and prolongs the survival of TGFbetal-deficient mice[J].Cell Immunol, 2004,232(1/2):96-104.   \n[26] Gorelik L,Flavell RA.Abrogation of TGFbeta signaling in T cells leads to spontaneous Tcell differentiation and autoimmune disease [J].Immunity,2000,12(2): 171-81.   \n[27]Yamagiwa S,Gray JD, Hashimoto S,et al. Arole for TGF-beta in the Generation and expansion of $\\mathrm { C D 4 ^ { + } C D 2 5 ^ { + } }$ regulatory T cells from human peripheral blood[J].JImmunol,20o1,166(12): 7282-9.   \n[28]Zheng SG, Gray JD,Ohtsuka K,et al. Generation ex vivo of TGFbeta-producing regulatory T cells from $\\mathbf { C D 4 ^ { \\circ } C D 2 5 ^ { \\circ } }$ precursors[J]. J Immunol,2002,169(8): 4183-9.   \n[29]Bettelli E,Carrier Y,Gao W,et al.Reciprocal developmental pathways for the Generation of pathogenic effector THl7 and regulatory T cells[J].Nature,2006,441(790): 235-8.   \n[30] Zheng SG,Wang JH, Stohl W,et al. TGF-beta requires CTLA-4 early after T cell activation to induce FoxP3 and generate adaptive $\\mathrm { C D 4 ^ { + } C D 2 5 ^ { + } }$ regulatory cells[J]. JImmunol,2006,176(6): 3321-9.   \n[31]Lubberts E,Koenders MI,Oppers-Walgreen B,et al. Treatment with a neutralizing anti-murine interleukin-17 antibody after the onset of collagen-induced arthritis reduces joint inflammation, cartilage destruction,and bone erosion[J].Arthritis Rheum,2004, 50(2): 650-9.   \n[32]Veldhoen M,Hocking RJ,Atkins CJ,et al.TGFbeta in the context of an inflammatory cytokine milieu supports de novo differentiation of IL-17-producing Tcells[J].Immunity,2006,24(2): 179-89.   \n[33]Mangan PR，Harrington LE,O'quinn DB,et al. Transforming growth factor-beta induces development of the T(H)17 lineage[J]. Nature,2006,441(790): 231-4.   \n[34] Yang L, Anderson DE, Baecher-Allan C,et al. IL-21 and TGF-beta are required for differentiation of human T(H)17 cels[J]. Nature, 2008,454(722): 350-2.   \n[35] Guerau-de-Arellano M, Smith KM,Godlewski J,et al. Micro-RNA dysregulation in multiple sclerosis favours pro-inflammatory Tcell-mediated autoimmunity[J]. Brain,2011,134(Pt 12): 3578-89.   \n[36] Jones ND.Memory T cells: how might they disrupt the induction of tolerance?[J]. Transplantation,2009,87(9 Suppl): S74-7.   \n[37]Dar AA,Majid S,Rittsteuer C,et al.The role of miR-18b in MDM2-p53 pathway signaling and melanoma progression [J].J Natl Cancer Inst,2013,105(6): 433-42.   \n[38]Murakami Y,Tamori A,Itami S,et al. The expression level of miR18b in hepatocellular carcinoma is associated with the grade of malignancy and prognosis[J].BMC Cancer,2013,13(2): 99.   \n[39]Simelyte E,Rosengren S,Boyle DL,et al. Regulation of arthritis by p53:critical role of adaptive immunity[J].Arthritis Rheum,2005, 52(6): 1876-84.   \n[40]Yamanishi Y,Boyle DL,Pinkoski MJ,et al. Regulation of joint destruction and inflammation by p53 in collagen-induced arthritis [J].AmJPathol,2002,160(1):123-30.   \n[41] Okuda Y,Okuda M,Bernard CC.Regulatory role of p53 in experimental autoimmune encephalomyelitis[J].J Neuroimmunol, 2003,135(1/2): 29-37.   \n[42]Kuan AP,Cohen PL.p53 is required for spontaneous autoantibody production in B6/lpr lupus mice[J].Eur JImmunol, 2005,35(5): 1653-60.   \n[43] Campbell HG,Slatter TL,Jeffs A,et al. Does △133p53 isoform trigger inflammation and autoimmunity?[J]. Cell Cycle,2012,11 (3): 446-50.   \n[44] Naramura M, Jang IK,Kole H, et al.c-Cbl and cbl-b regulate Tcell responsiveness by promoting ligand-induced TCR down-modulation [J].Nat Immunol,2002,3(12): 1192-9.   \n[45] Yokoi N, Komeda K,Wang HY, et al. Cblb is a major susceptibility gene for rat type 1 diabetes melitus[J].Nat Genet,2002,31(4): 391-4.   \n[46]Davis M,Ben-Neriah Y.Behind the scenes of anergy: a tale of three E3s[J]. Nat Immunol,2004, 5(3): 238-40.   \n[47]Heissmeyer V, Macian F, Im SH,et al. Calcineurin imposes T cell unresponsiveness through targeted proteolysis of signaling proteins [J]. Nat Immunol,2004,5(3): 255-65.   \n[48]Anandasabapathy N,Ford GS,Bloom D,et al.Grail:an E3 ubiquitin ligase that inhibits cytokine gene transcription is expressed in anergic $\\mathrm { C D 4 ^ { + } }$ T cells[J].Immunity,2003,18(4): 535-47. (编辑.孙旦明) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

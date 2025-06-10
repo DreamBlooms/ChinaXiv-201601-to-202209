@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "1 饲粮纤维源及粗纤维水平对肉兔营养物质消化率、肠道消化酶活性及盲肠菌群多样性的影响   \n2 杨桂芹」孙佳易」　郭东新1\\*田　河」李建涛」潘秀东² ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 (1.沈阳农业大学 畜牧兽医学院，沈阳110866；2.沈阳爱地生物科技有限公司，沈阳 110161)  \n4 摘要：本试验旨在研究饲粮纤维源及粗纤维（CF）水平对肉兔营养物质消化率、肠道消化酶活性  \n5 及盲肠菌群多样性的影响。试验采用两因子试验设计，依据等能等氮原则，设2种纤维源（苜蓿草  \n6 粉、稻壳粉)，3个CF水平（ $12 \\%$ 、 $14 \\%$ 、 $1 6 \\%$ )，共配制6种试验饲粮。选择144只 $7 0 \\sim 8 0$ 日龄、  \n7 平均体重（ $( 2 ~ 0 0 2 { \\pm } 7 7$ ） $\\mathrm { \\bf { g } }$ 的健康伊拉生长肉兔，随机分为6组，每组4个重复，每个重复6只兔，  \n8 单笼饲养。饲养试验期末，采用全收粪法进行消化试验，之后进行屠宰，取肠道食糜用于消化酶活  \n9 性及盲肠菌群多样性的测定。结果表明：1）苜蓿草粉组干物质（DM）、CF、酸性洗涤纤维（ADF）、  \n10 木质素（ADL）的消化率显著或极显著高于稻壳粉组( $_ { \\it P \\mathrm { < } 0 . 0 5 }$ 或 $P { < } 0 . 0 1 \\rangle$ ，粗蛋白质消化率则极显著  \n11 低于稻壳粉组 $( P { < } 0 . 0 1 )$ ； $1 2 \\% \\mathrm { C F }$ 水平组DM、中性洗涤纤维（NDF）、ADF 的消化率显著高于 $1 4 \\% \\mathrm { C F }$   \n12 水平组 $( P { < } 0 . 0 5 )$ ，同时该组能量的消化率及表观消化能（ADE）极显著高于 $14 \\%$ 、 $1 6 \\% \\mathrm { C F }$ 水平组  \n13 $( P { < } 0 . 0 1 )$ 。2）稻壳粉组十二指肠胰蛋白酶活性极显著高于苜蓿草粉组 $( P { < } 0 . 0 1 )$ 。与 $14 \\%$ 、 $1 6 \\% \\mathrm { C F }$ 水  \n14 平组相比, $1 2 \\% \\mathrm { C F }$ 水平组的空肠淀粉酶 $( P 5 0 . 0 5 )$ 、胰蛋白酶活性 $( P { < } 0 . 0 5 )$ 及盲肠纤维素酶活性 $( P { < } 0 . 0 1 )$ （204  \n15 均最低。3）纤维源对盲肠菌群丰富度和香农指数无显著影响（ $\\mathrm { ( } P { > } 0 . 0 5 \\mathrm { ) }$ ，但苜蓿草粉组的盲肠菌群  \n16 均衡指数极显著高于稻壳粉组（ $\\scriptstyle P < 0 . 0 1 { \\mathrm { . } }$ )。CF 水平对盲肠菌群丰富度和香农指数有显著影响（ $P <$   \n17 0.05)，其中 $1 6 \\% C \\mathrm { F }$ 水平组的数值均为最高。综上所述，在本试验条件下：1)苜蓿草粉组肉兔DM、  \n18 CF、ADF、ADL的消化率及盲肠菌群均衡指数显著或极显著高于稻壳粉组，但十二指肠胰蛋白酶活  \n19 性极显著低于稻壳粉组。2）饲粮CF水平为 $12 \\%$ 时肉兔的 ADE 和各主要营养物质的消化率最高;  \n20 CF 水平越高，肉兔空肠淀粉酶、胰蛋白酶活性和盲肠纤维素酶活性越高；饲粮CF水平为 $1 6 \\%$ 时肉  \n21 兔盲肠菌群的多样性较高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：肉兔；纤维源；粗纤维水平；消化率；消化酶活性；盲肠菌群多样性中图分类号：S829.1 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "兔是单胃草食动物，发达的盲肠内含有大量的微生物，能够将难消化的纤维发酵分解成低分子有机酸等营养物质，被机体吸收。因此，研究探讨饲粮纤维源及粗纤维（CF）水平对肉兔消化生理和盲肠菌群的影响，对合理利用粗饲料资源、确定适宜的饲粮CF 水平等具有重要实际意义。根据分析方法不同，生长兔全价配合饲料中纤维含量一般在15%～50%，其中CF水平在14%～18%[1,范围为 $1 2 . 2 \\% \\sim 2 4 . 4 \\% ^ { [ 2 ] }$ 。兔对饲草、饲料中纤维性物质的消化利用能力一般在 $1 7 \\% \\sim 2 5 \\%$ ，明显低于牛、羊和马等草食动物，但饲粮纤维对兔的生长和健康起着非常重要的作用。研究表明，低纤维饲粮(木质素/纤维素 ${ < } 0 . 4 )$ 会引起家兔生长率下降和食糜在消化道内存留时间过长[3]，并且在没有特定病原体感染的情况下，还会导致家兔采食和消化紊乱[45]，甚至腹泻。但是如果饲粮中CF 水平过高，对家兔健康也会造成损害。同时，家兔对纤维的利用又受纤维来源（品质）、饲料形态及家兔品种、日龄等多种因素的影响。一般认为，兔对饲粮纤维的利用得益于盲肠微生物的发酵作用。因此，本试验分别以优质（苜蓿草粉）和低质（稻壳粉）2种粗饲料为主要纤维源，并分别设3个CF水平，配制6种试验饲粮，研究不同纤维源及CF水平对肉兔营养物质消化率、肠道消化酶活性的影响，同时从定性水平上探讨肉兔肠道菌群多样性与纤维源及CF水平的关系，为深入研究饲粮纤维对肉兔的营养生理作用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物和饲粮",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择144只 $7 0 \\sim 8 0$ 日龄健康伊拉（Hyla）配套系商品代生长肉兔，初始平均体重 $( 2 0 0 2 \\pm 7 7 )$ g,依据性别和体重随机分为6组，分别为I、II、III、IV、V和VI组，每组4个重复，每个重复6只兔，在同一兔舍内单笼饲养，饲喂不同饲粮。试验饲粮采用双因子析因试验设计，在等能等氮条件下，设2种纤维源（苜蓿草粉、稻壳粉)，3个CF水平（ $12 \\%$ 、 $14 \\%$ 、 $1 6 \\%$ )。首蓿草粉和稻壳粉在配方中的比例分别为 $2 4 . 5 0 \\%$ 、 $3 1 . 5 0 \\%$ 、 $3 7 . 5 0 \\%$ 和 $1 4 . 0 0 \\%$ 、 $1 7 . 5 0 \\%$ 、 $2 2 . 0 0 \\%$ 。参照文献[6]中的家兔常用饲料原料化学成分数据，配制6种试验饲粮，其组成及营养水平见表1，所有饲粮制成直径约4mm 的颗粒。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 2Composition and nutrient levels of experimental diets (air-dry basis) ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/181e9df8827844dd0f6ba9da9c0877ae34b85220282c3f00a08f7412845a4068.jpg",
+        "table_caption": [
+            "表1试验饲粮组成及营养水平 (风干基础)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Table 2 Composrtior utllent levers ol experimental dlets(air-drybasis) %</td></tr><tr><td>项目Items</td><td>苜蓿草粉组 Alfalfa hay meal groups</td><td>稻壳粉组 Rice husk meal groups</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b5897ee5ead71d97b47fafc31de0d64758267040f02f565c98a87fc9fd9944b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>1</td><td>11</td><td>111</td><td>1V</td><td>V</td><td>V1</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Com</td><td>32.00</td><td>33.50</td><td>32.00</td><td>28.80</td><td>28.80</td><td>28.00</td></tr><tr><td>豆粕 Soybean meal</td><td>3.08</td><td>0.68</td><td>0.28</td><td>6.08</td><td>6.08</td><td>6.88</td></tr><tr><td>花生粕 Peanut meal</td><td>2.00</td><td>6.00</td><td>6.00</td><td>3.00</td><td>4.00</td><td>6.00</td></tr><tr><td>玉米麸质饲料 Com gluten</td><td>3.00</td><td>2.00</td><td>1.00</td><td>4.50</td><td>4.00</td><td>2.00</td></tr><tr><td>feed 玉米干酒糟及其可溶物</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Corn DDGS</td><td>4.00</td><td>3.00</td><td>2.00</td><td>4.00</td><td>3.00</td><td>3.00</td></tr><tr><td>玉米胚芽饼 Com germ cake</td><td>5.00</td><td>4.00</td><td>4.00</td><td>7.00</td><td>8.00</td><td>8.00</td></tr><tr><td>米糠粕 Solvent rice bran</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>meal</td><td>24.00</td><td>17.00</td><td>15.00</td><td>29.50</td><td>25.50</td><td>21.00</td></tr><tr><td>苜蓿草粉 Alfalfa hay meal</td><td>24.50</td><td>31.50</td><td>37.50</td><td></td><td></td><td></td></tr><tr><td>稻壳粉 Rice husk meal</td><td></td><td></td><td></td><td>14.00</td><td>17.50</td><td>22.00</td></tr><tr><td>石粉 Limestone</td><td>1.30</td><td>1.20</td><td>1.10</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>L- 赖 氨 酸硫酸盐</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>L-Lys·H2S04 (70%)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td><td>0.35</td></tr><tr><td>矿物质预混料 Mineral pre- mix1)</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>维生素预混料 Vitamin pre-</td><td>0.02</td><td>0.02</td><td></td><td></td><td></td><td></td></tr><tr><td>mix2)</td><td></td><td></td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>霉菌毒素吸附剂 Mycotoxin</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>adsorbent 抗氧化剂</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Antioxidant</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td><td>0.02</td></tr><tr><td>(60%）</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/（MJ/kg）</td><td>10.46</td><td>10.46</td><td>10.46</td><td>10.46</td><td>10.46</td><td>10.46</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a902b15db57e1991326f32aa51f4a03b5c05e8ec4eef1088901a810d479d6d3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>干物质 DM</td><td>88.62</td><td>88.18</td><td>88.73</td><td>89.06</td><td>89.27</td><td>88.86</td></tr><tr><td>粗蛋白质CP</td><td>17.07</td><td>16.74</td><td>16.93</td><td>17.05</td><td>16.52</td><td>17.33</td></tr><tr><td>粗纤维CF</td><td>12.20</td><td>13.78</td><td>15.80</td><td>12.49</td><td>14.21</td><td>15.84</td></tr><tr><td>中性洗涤纤维 NDF</td><td>20.39</td><td>19.72</td><td>20.13</td><td>25.41</td><td>24.4</td><td>27.55</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>14.49</td><td>14.26</td><td>16.54</td><td>19.56</td><td>17.68</td><td>22.64</td></tr><tr><td>酸性洗涤木质素 ADL</td><td>2.16</td><td>4.33</td><td>2.80</td><td>4.16</td><td>6.21</td><td>5.67</td></tr><tr><td>纤维素 Cellulose</td><td>12.33</td><td>9.93</td><td>13.74</td><td>15.40</td><td>11.47</td><td>16.97</td></tr><tr><td>半纤维素 Hemicellulose</td><td>5.90</td><td>5.46</td><td>3.59</td><td>5.85</td><td>6.72</td><td>4.91</td></tr><tr><td>钙Ca</td><td>0.82</td><td>0.70</td><td>0.82</td><td>0.85</td><td>0.78</td><td>0.89</td></tr><tr><td>总磷TP</td><td>0.75</td><td>0.67</td><td>0.77</td><td>0.82</td><td>0.71</td><td>0.75</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)矿物质预混料为每千克饲粮提供Mineral premix provides the following per $\\mathbf { k g }$ of diets:Zn 50.0 mg， $ { \\mathrm { M n } } 8 0 . 0  { \\mathrm { m g } }$ ，Fe $2 5 . 0 \\mathrm { m g }$ ， $\\mathrm { C u } 8 . 0 \\mathrm { m g }$ ， $\\mathrm { ~ I ~ } 2 . 0 \\ : \\mathrm { m g }$ ，Se $0 . 1 \\mathrm { m g }$ ， $\\mathrm { M g \\ 1 3 3 . 4 \\ m g }$ 0 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)维生素预混料为每千克饲粮提供 Vitamin premix provides the following per $\\mathrm { k g }$ of diets:VA 12 020IU， $\\mathrm { V D } _ { 3 } 2 1 0 0 \\mathrm { I U }$ ，VE 12 IU，VK $2 . 0 \\mathrm { m g }$ ， $\\mathrm { V B _ { 1 } } 1 . 1 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 3 . 0 \\ : \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 1 . 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 0 5 \\ : \\mathrm { m g }$ 泛酸 pantothenic acid $9 \\mathrm { m g }$ ，烟酸 nicotinic acid $1 0 . 0 \\mathrm { m g }$ ，生物素 biotin $0 . 1 5 \\mathrm { m g }$ ，叶酸 folic acid 0.44mg，胆碱 choline $3 5 0 \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)消化能为计算值，其余均为实测值。DE is acalculated value and the others are measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验过程及样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲养试验结束后，每个重复取1只兔（确保每组雌雄各2只)，采用全收粪法进行消化试验。之后进行屠宰，迅速取出空肠、十二指肠、盲肠食糜（2份）于 $1 0 ~ \\mathrm { m L }$ 的带盖离心管中，立即放入液氮罐速冻 $2 0 \\mathrm { m i n }$ ，取出至 $\\mathrm { ~ - ~ } 8 0 ~ \\mathrm { { ^ circ C } }$ 冰箱保存待测。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定指标和方法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3.1营养物质表观消化率 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "消化试验预试期1周，正试期4d，记录和称量每只兔每天的实际采食量及收集全部新鲜粪便并称重。采集部分粪便样品，一份用 $10 \\%$ 盐酸溶液固定挥发性氮后用于测定粗蛋白质（CP）含量，另一份不固氮用于测定其他养分指标。粪便样品置 $6 5 { \\sim } 7 0 \\ \\mathrm { ~ \\textdegree C }$ 烘箱烘至恒重，取出在空气中回潮 $2 4 \\mathrm { ~ h ~ }$ 后称重，测定初水分含量。将风干样品用研磨机粉碎并过40目筛(筛孔径为 $0 . 4 5 ~ \\mathrm { m m } )$ ，以重复为单位，将4d 的粪样混匀，取部分样品装入样品袋中密封保存备测。其中，干物质（DM）含量依据",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GB/T 6435-2006 测定；CP含量采用 KjelFlex K-360 型自动凯氏定氮仪(Buchi，瑞士)测定；CF、中性洗涤纤维（NDF）、ADF、木质素（ADL)含量采用ANKOMA2000i全自动纤维分析仪（Ankom，美国）测定；总能使用IKAC2000全自动量热仪（IKA，德国）测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2肠道消化酶活性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "应用酶联免疫吸附试验（ELISA）法测定空肠和十二指肠食糜的淀粉酶、胰蛋白酶活性及盲肠食糜的纤维素酶活性。试剂盒购自南京建成生物工程研究所，按照操作说明进行。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3盲肠菌群多样性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.1 基因组DNA的提取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用CTAB手提法7提取样品基因组DNA。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.2 细菌16SrDNA片段的PCR扩增 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以样品基因组 DNA为模板，采用细菌通用引物GC-338F( $5 ^ { \\prime }$ CGCCCGGGGCGCGCCCCGGGGCGGGGCGGGGGCGCGGGGGGCCTACGGGAGGC AGC AG-3'和 518R( $5 ^ { \\prime }$ -ATTACC GCG GCTGCTGG-3'扩增样品16S rDNA 的V3 区序列。PCR扩增体系 $( 5 0 \\mu \\mathrm { L } )$ 为： $1 0 { \\times } \\mathrm { P C R }$ Buffer ${ 5 \\mu \\mathrm { L } }$ 、dNTP(2.5 mmol/L)3.2 μL、rTaq(5 U/μL)0.4 μL、GC-338F(20$\\mathrm {  ~ \\mu ~ \\unboldmath } \\mathrm {  ~ \\ z e l / L ) 1 \\ \\mu L \\cdot \\ s l 8 R } ( 2 0 \\ \\mathrm { \\textmu m o l / L ) 1 \\ \\mu L } .$ 、模板DNA $5 0 \\mathrm { n g }$ ，补 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 至 ${ 5 0 \\mu \\mathrm { L } }$ 。PCR扩增程序为： $9 4 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $5 \\mathrm { m i n }$ ; $9 4 ~ \\mathrm { ^ { \\circ } C }$ 变性 $1 \\mathrm { m i n }$ ， $5 5 \\ \\mathrm { ^ \\circ C }$ 复性 $4 5 \\mathrm { ~ s ~ }$ ， $7 2 \\ \\mathrm { { ^ \\circ C } }$ 延伸 $1 \\mathrm { m i n }$ ，30个循环；最终 $7 2 \\ \\mathrm { { ^ \\circ C } }$ 延伸 $1 0 \\mathrm { m i n }$ 。PCR 产物采用 Omega 公司的 DNA Gel Extraction Kit 纯化回收。PCR 仪为 Biometra 公司生产的T-gradient，凝胶成像仪为Bio-Rad 公司的Gel-Doc2000 凝胶成像系统。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3.3PCR产物的变性梯度凝胶电泳（DGGE）分析 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "取 $1 0 ~ \\mu \\mathrm { L }$ PCR的产物进行DGGE分析。采用变性梯度为 $3 5 \\% \\sim 5 5 \\%$ 、浓度为 $7 \\%$ 的聚丙烯酰胺凝胶在 $1 { \\times } \\mathrm { T A E }$ 缓冲液中 $1 5 0 \\mathrm { V } 6 0 ^ { \\circ } \\mathrm { C }$ 条件下电泳 $5 \\mathrm { h }$ 。DGGE完毕后，采用银染法染色。PCR-DGGE 图谱采用 Bio-Rad 公司的Quantity one 分析软件包对每个样品的电泳条带数目、条带密度进行数字化分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)戴斯系数（Cs）为不同样品间菌群差异的两两比较，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle C s = 2 j / ( N x + N y )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $C s$ 为戴斯系数； $N x$ 为 $x$ 泳道条带数； $N y$ 为 $y$ 泳道条带数； $j$ 为2个泳道共有的条带数。  \n用MEGA4.1软件构建系统发育树，进行聚类分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）香农指数（H）、丰富度（S）和均衡指数（E）的计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH { = } { - } \\sum _ { i = 1 } ^ { s } p i \\ln p i { = } { - } \\sum _ { i = 1 } ^ { s } ( N i / N ) \\ln ( N i / N )\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE { = } H / H _ { \\mathrm { m a x } } { = } H / \\mathrm { l n } S\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中： $H$ 为香农指数； $p i$ 为样品中单一条带的强度在该样品所有条带总强度中所占的比率； $N$ 为 DGGE 图谱单一泳道上所有条带的密度； $N i$ 为第 $i$ 条带的密度； $s$ 为丰富度，即某样品中所有条带数目总和； $E$ 为均衡指数； $H _ { \\mathrm { m a x } }$ 是 $H$ 的最大值(最大均匀性条件下的多样性值)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4数据统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以重复为单位进行数据处理和统计，采用 IBM SPSS Statistics version 22统计软件的GLM过程进行方差分析，纤维源和CF水平为固定因子。采用Duncan 氏法进行多重比较检验， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮营养物质表观消化率 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，消化试验期内以稻壳粉为纤维源的肉兔NDF、ADF、ADL的进食量极显著高于以苜蓿草粉为纤维源的肉兔（ $_ { . } { \\cal P } { < } 0 . 0 1$ 。 $1 6 \\% C \\mathrm { F }$ 水平组肉兔的CF、NDF、ADF的进食量极显著高于$12 \\%$ 和 $1 4 \\% \\mathrm { C F }$ 水平组（ $( P { < } 0 . 0 1 )$ )，纤维源及CF水平的交互作用极显著地影响肉兔各营养物质的进食量 $( P { < } 0 . 0 1 )$ 。纤维源对饲粮中DM、CP、CF、ADF、ADL的消化率有显著影响 $( P { < } 0 . 0 5 )$ ，以苜蓿草粉为纤维源时除CP 的消化率极显著低于苜蓿草粉组 $( P { < } 0 . 0 1 )$ 外，其他各营养物质的消化率均显著高于稻壳粉组 $_ { ( P < 0 . 0 5 ) }$ 。CF水平对DM、NDF、ADF的消化率有显著影响 $( P { < } 0 . 0 5 )$ ， $1 2 \\% \\mathrm { C F }$ 水平组的DM表观消化率显著高于 $1 4 \\% \\mathrm { C F }$ 水平组 $( P { < } 0 . 0 5 )$ ,NDF、ADF的消化率则呈现出\"两端( $12 \\%$ 、16%CF)高，中间（ $1 4 \\% \\mathrm { C F }$ ）低”的变化趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 4 \\% \\mathrm { C F }$ 水平的稻壳粉组（V组）DM的消化率显著低于除VI组外的其余各组（ $. P { < } 0 . 0 5 )$ 。 $1 6 \\% C \\mathrm { F }$ 水平的苜蓿草粉组CF的消化率显著高于 $12 \\%$ 、 $1 4 \\% \\mathrm { C F }$ 水平的稻壳粉组 $( P { < } 0 . 0 5 )$ 。 $1 6 \\% \\mathrm { C F }$ 水平的稻壳粉组NDF 的消化率显著高于 $1 4 \\% \\mathrm { C F }$ 水平的苜蓿草粉组 $( P { < } 0 . 0 5 )$ 。以苜蓿草粉为纤维源的3个组的ADF和ADL的消化率均高于以稻壳粉为纤维源的3个组。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "纤维源对饲粮表观消化能（ADE）无显著影响（ $\\cdot  { P } { > } 0 . 0 5 ) .$ )，CF水平、纤维源与CF水平的交互作用对 ADE 有极显著影响（ $\\scriptstyle \\cdot < 0 . 0 1 .$ 。 $12 \\%$ CF 水平组的 ADE 极显著高于 $14 \\%$ 和 $1 6 \\% C \\mathrm { F }$ 水平组（ $P$ ${ < } 0 . 0 1 \\dot { . }$ ，以 $1 2 \\% \\mathrm { C F }$ 水平的苜蓿草粉组的ADE 最高（ $1 2 . 9 9 \\mathrm { M J / k g } \\rangle$ 。纤维源、纤维源与CF水平的交",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "122 互作用对能量消化率无显著影响（ $\\langle P { > } 0 . 0 5 \\rangle$ )，但CF水平对能量消化率具有极显著的影响（ $\\cdot P { < } 0 . 0 1 \\cdot$ ）",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0eb912af0eda790d3780be9fe68a3537606f0ce2faccb400f58b0a4e55fdbfd3.jpg",
+        "table_caption": [
+            "表2饲粮纤维源及CF水平对肉兔营养物质消化率的影响 ",
+            "Table 2Eects of dietary fiber source and CF level on nutrient apparent digestibility of meat rabbits "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td colspan=\"10\"></td><td colspan=\"6\">消化率Digestibility/%</td><td></td></tr><tr><td>组别</td><td>纤维源 Fiber</td><td>CF水F lev-</td><td>干物质 DM/(g/</td><td>粗蛋白 质</td><td>粗纤维</td><td>中性洗涤 纤维</td><td>酸性洗 涤纤维</td><td>木质素</td><td>总能 GE</td><td>干物</td><td>粗蛋</td><td>粗纤</td><td></td><td>中性洗</td><td>酸性洗</td><td>木质素</td><td>表观消化</td><td>能量表观消</td></tr><tr><td>Groups</td><td>source</td><td>el/%</td><td>只)</td><td>CP/(g/ 只</td><td>CF/(g/ 只</td><td>NDF/(g/</td><td>ADF/(g/</td><td>ADL/( g/只）</td><td>/(MJ/</td><td>质 DM</td><td>白质 CP</td><td>维 CF</td><td>涤纤维 NDF</td><td>涤纤维 ADF</td><td>ADL</td><td>ADE/(MJ /kg)</td><td>gy digesti- bility</td></tr><tr><td>1</td><td>苜蓿草粉</td><td>12</td><td>428.70Bb</td><td>82.58Bc</td><td>59.02BCbc</td><td>只 98.64Cc</td><td>只 70.10ABbc</td><td>10.45Aa</td><td>只 8.82Bb</td><td>66.78b</td><td>71.24a</td><td>15.36ab</td><td>22.31ab</td><td>23.57b</td><td>1.73b</td><td>12.99Dd</td><td>71.26Bbc</td></tr><tr><td>I</td><td>Alfal-</td><td>14</td><td>375.87ABa</td><td>71.35Ab</td><td>58.74BCbc</td><td>84.06ABab</td><td>60.78Aa</td><td>18.46Bc</td><td>6.85Aa</td><td>64.73b</td><td>67.34a</td><td>9.48ab</td><td>10.13a</td><td>19.51b</td><td>5.44b</td><td>10.39Aa</td><td>64.61Aa</td></tr><tr><td>IⅢ</td><td>fahay</td><td>16</td><td>354.92Aa</td><td>67.72Aab</td><td>63.20Cc</td><td>80.52Aa</td><td>66.16ABab</td><td>11.20Aa</td><td>6.82Aa</td><td>66.53b</td><td>69.24a</td><td>18.04b</td><td>24.26b</td><td>21.29b</td><td>4.47b</td><td>11.68BCb</td><td>68.51ABb</td></tr><tr><td>IV</td><td>meal 稻壳粉</td><td>12</td><td>340.65Aa</td><td>65.22Aab</td><td>47.77Aa</td><td>97.19BCc</td><td>74.82Bc</td><td>15.91Bb</td><td>6.54Aa</td><td>66.03b</td><td>78.48b</td><td>1.04a</td><td>26.12b</td><td>19.37b</td><td>-1.22b</td><td>12.27CDc</td><td>71.77Bc</td></tr><tr><td>V</td><td>Rice husk</td><td>14</td><td>336.99Aa</td><td>62.36Aa</td><td>53.64ABb</td><td>92.11ABCbc</td><td>66.74ABab</td><td>23.44Cd</td><td>6.52Aa</td><td>60.60a</td><td>75.69b</td><td>-0.18a</td><td>15.63ab</td><td>7.11a</td><td>-12.57a</td><td>11.21Bb</td><td>64.88Aa</td></tr><tr><td>VI</td><td>meal</td><td>16</td><td>424.31Bb</td><td>82.75Bc</td><td>75.64Dd</td><td>131.55Dd</td><td>108.11Cd</td><td>27.07De</td><td>8.28Bb</td><td>63.05ab</td><td>79.08b</td><td>8.60ab</td><td>28.31b</td><td>17.48b</td><td>-2.56ab</td><td>11.34Bb</td><td>65.35Aa</td></tr><tr><td>主效应 Main effects</td><td>苜蓿草粉</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>68.13</td></tr><tr><td>纤维源</td><td>Alfalfa</td><td></td><td>386.50</td><td>73.88</td><td>60.32</td><td>87.74X</td><td>65.68X</td><td>13.37X</td><td>7.50</td><td>66.01y</td><td>69.27X</td><td>14.29Y</td><td>18.90</td><td>21.46Y</td><td>3.88Y</td><td>11.69</td><td></td></tr><tr><td>Fiber source</td><td>hay meal 稻壳粉</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Rice husk</td><td></td><td>367.32</td><td>70.11</td><td>59.02</td><td>106.95Y</td><td>83.22Y</td><td>22.14Y</td><td>7.12</td><td>63.23x</td><td>77.75Y</td><td>3.16X</td><td>23.36</td><td>14.65X</td><td>-5.45X</td><td>11.61</td><td>67.33</td></tr><tr><td>CF水平</td><td>meal</td><td>12</td><td>384.68b</td><td>73.90Bb</td><td>53.40Aa</td><td>97.91Bb</td><td>72.46Bb</td><td>13.18Aa</td><td>7.68Bb</td><td>66.41b</td><td></td><td></td><td></td><td></td><td></td><td>12.63Cc</td><td>71.51Bb</td></tr><tr><td>CF lev-</td><td></td><td>14</td><td>356.43a</td><td>66.86Aa</td><td>56.19Aa</td><td>88.08Aa</td><td>63.76Aa</td><td>20.95Bc</td><td>6.69Aa</td><td>62.66a</td><td>74.86 71.51</td><td>8.20 4.65</td><td>24.22b 12.88a</td><td>21.47b 13.31a</td><td>0.25 -3.57</td><td>10.80Aa</td><td>64.74Aa</td></tr><tr><td>e1/%</td><td></td><td>16</td><td>389.61b</td><td>75.24Bb</td><td>69.42Bb</td><td>106.04Bc</td><td>87.13Cc</td><td>19.14Bb</td><td>7.55Bb</td><td>64.79ab</td><td>74.16</td><td>14.00</td><td>25.99b</td><td>19.66b</td><td>1.46</td><td>11.51Bb</td><td>66.93Aa</td></tr><tr><td></td><td>纤维源Fiber</td><td></td><td>0.076</td><td>0.066</td><td>0.417</td><td><0.001</td><td><0.001</td><td></td><td>0.063</td><td>0.010</td><td></td><td>0.002</td><td>0.211</td><td>0.005</td><td>0.005</td><td>0.580</td><td>0.361</td></tr><tr><td>P值</td><td>source CF 水平 CFlevel</td><td></td><td></td><td></td><td></td><td></td><td><0.001</td><td>0.001</td><td></td><td></td><td>0.001</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> P-value</td><td></td><td></td><td>0.034</td><td>0.005</td><td><0.001</td><td><0.001</td><td></td><td>0.001</td><td>0.001</td><td>0.019</td><td>0.053</td><td>0.101</td><td>0.011</td><td>0.012</td><td>0.414</td><td><0.001</td><td><0.001</td></tr><tr><td></td><td>纤维源xCF水平</td><td>Fiber sourcexCF</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>Λ</td><td><0.001</td><td>0.345</td><td>0.630</td><td>0.760</td><td>0.976</td><td>0.188</td><td>0.115</td><td>0.001</td><td>0.173</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15 同列数据相同项目肩标无字母或相同字母表示差异不显著（ $P { > } 0 . 0 5 \\$ )，不同小写字母表示差异显著（ $\\scriptstyle P < 0 . 0 5 .$ )，不同大写字母表示差异极显著（ $\\scriptstyle P < 0 . 0 1 .$ )。下表同。:6 In the same column,values in the same item with the same or no letter superscripts mean no significant difference( $P { > } 0 . 0 5$ , while with diferent small letter superscripts mean significar7 different $( P { < } 0 . 0 5 )$ ,and with different capital leter superscripts mean significant different $( P { < } 0 . 0 1 )$ ). The same as below.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2肠道消化酶活性",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，纤维源对十二指肠胰蛋白酶活性有极显著的影响 $( P { < } 0 . 0 1 )$ 。CF 水平对空肠胰蛋白酶活性有显著影响 $( P { < } 0 . 0 5 )$ ，对盲肠纤维素酶活性有极显著的影响 $( P { < } 0 . 0 1 )$ 。而纤维源和CF 水平的交互作用对十二指肠淀粉酶活性有极显著的影响 $( P { < } 0 . 0 1 )$ ，对盲肠纤维素酶活性有显著影响 $( P { < } 0 . 0 5 )$ 。以稻壳粉为纤维源的肉兔十二指肠胰蛋白酶活性极显著高于以苜蓿草粉为纤维源的肉兔 $( P { < } 0 . 0 1 )$ 。$1 2 \\% \\mathrm { C F }$ 水平组的空肠淀粉酶 $1 \\ 0 5 3 . 9 6 \\ \\mathrm { U / g } \\rangle$ ）、胰蛋白酶活性 $( 3 5 . 5 4 ~ \\mathrm { U / m g } )$ 及盲肠纤维素酶活性$( 2 1 3 . 8 7 \\mu \\mathrm { g / g } )$ 均最低。 $1 6 \\% \\mathrm { C F }$ 水平的稻壳粉组空肠胰蛋白酶活性显著高于 $1 2 \\% \\mathrm { C F }$ 水平的苜蓿草粉和稻壳粉组 $( P { < } 0 . 0 5 )$ ， $1 2 \\% \\mathrm { C F }$ 水平的稻壳粉组的十二指肠淀粉酶活性 $\\mathrm { ( 1 6 2 8 . 1 6 ~ U / g ) }$ 极显著高于 $1 6 \\% \\mathrm { C F }$ 水平的稻壳粉组 $( P { < } 0 . 0 1 )$ ，显著高于 $12 \\%$ 和 $1 4 \\% \\mathrm { C F }$ 水平的苜蓿草粉组 $( P { < } 0 . 0 5 )$ 。 $12 \\%$ 和 $1 4 \\% \\mathrm { C F }$ 水平的苜蓿草粉组的十二指肠胰蛋白酶活性显著低于其余各组 $( P { < } 0 . 0 5 )$ 。 $1 2 \\% \\mathrm { C F }$ 水平的苜蓿草粉组的盲肠纤维素酶活性极显著低于其余各组 $( P { < } 0 . 0 1 )$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0a8d04e2fb52e17e63830a8b653981f24901943fb094867c35e71785ce20222.jpg",
+        "table_caption": [
+            "表3饲粮纤维源及CF水平对肉兔肠道消化酶活性的影响",
+            "Table 3Effects of dietary fiber source and CFlevel on intestinal digestive enzyme activities of meat rab"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">141</td><td colspan=\"5\">bits</td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td>空肠胰蛋白酶</td><td></td><td></td><td>盲肠纤维素酶</td></tr><tr><td rowspan=\"3\">组别 Groups</td><td>纤维源</td><td>CF水平</td><td>空肠淀粉酶</td><td>Jejunal</td><td>十二指肠淀粉酶</td><td>十二指肠胰蛋</td><td></td></tr><tr><td>Fiber</td><td>CF lev-</td><td>Jejunal amyl-</td><td>trypsa-</td><td>Duodenal amylase/(U/g)</td><td>白酶 Duodenal</td><td>Cecal cellu-</td></tr><tr><td>source</td><td>el/%</td><td>ase/(U/g)</td><td> se/(U/mg)</td><td></td><td>trypsase/(U/mg)</td><td>lose/(μg/g)</td></tr><tr><td>I</td><td>苜蓿草粉</td><td>12</td><td>1 234.64</td><td>36.42a</td><td>1 022.47ABab</td><td>49.43ABa</td><td>134.94Aa</td></tr><tr><td>I</td><td>Alfalfa hay</td><td>14</td><td>1 661.28</td><td>48.37ab</td><td>1 130.45ABab</td><td>44.65Aa</td><td>364.20Bb</td></tr><tr><td>Ⅲ</td><td>meal</td><td>16</td><td>1 120.25</td><td>56.10ab</td><td>1 481.20ABbc</td><td>135.90Bb</td><td>343.79Bb</td></tr><tr><td>IV</td><td>稻壳粉</td><td>12</td><td>873.29</td><td>34.66a</td><td>1 628.16Bc</td><td>134.18Bb</td><td>292.81Bb</td></tr><tr><td>V</td><td>Rice husk</td><td>14</td><td>1 072.47</td><td>57.25ab</td><td>1 198.86ABabc</td><td>136.49Bb</td><td>346.32Bb</td></tr><tr><td>VI</td><td>meal</td><td>16</td><td>1 706.80</td><td>65.47b</td><td>827.43Aa</td><td>139.53Bb</td><td>338.52Bb</td></tr><tr><td>主效应Main effects</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>纤维源</td><td>苜蓿草粉</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fiber</td><td>Alfalfa hay</td><td></td><td>1338.72</td><td>46.97</td><td>1211.37</td><td>76.66X</td><td>280.98</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/8b1ea2b4b2fd081ece15b99d197585999e84388e0a9389d66d0a4f2bc716dfb8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>source</td><td>meal</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>稻壳粉</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Rice husk</td><td></td><td>1217.52</td><td>52.46</td><td>1218.15</td><td>136.74Y</td><td>325.88</td></tr><tr><td></td><td>meal</td><td>12</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CF水平</td><td></td><td>14</td><td>1 053.96</td><td>35.54a</td><td>1 325.32</td><td>91.81</td><td>213.87Aa</td></tr><tr><td>CF lev-</td><td></td><td>16</td><td>1 366.88</td><td>52.81ab</td><td>1 164.66</td><td>90.57</td><td>355.26Bb</td></tr><tr><td>el/%</td><td></td><td></td><td>1 413.53</td><td>60.79b</td><td>1 154.31</td><td>137.72</td><td>341.16Bb</td></tr><tr><td></td><td>纤维源 Fiber source</td><td></td><td>0.608</td><td>0.413</td><td>0.955</td><td>0.003</td><td>0.138</td></tr><tr><td>P值</td><td>CF 水平 CFlevel</td><td></td><td>0.410</td><td>0.023</td><td>0.443</td><td>0.051</td><td>0.001</td></tr><tr><td>P-value</td><td>纤维源xCF 水平 Fiber</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.129</td><td>0.736</td><td>0.003</td><td>0.077</td><td>0.041</td></tr><tr><td></td><td>sourcexCF level</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3盲肠菌群结构",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.3.1菌群相似性分析",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图1、图2分别为24个盲肠菌群样本基因组DNA提取结果和16S rDNAPCR产物的DGGE 分析结果。由图2可知，兔盲肠总菌样品包含的微生物种类较多，图谱条带也较多。条带最多的是来自 $1 6 \\% C \\mathrm { F }$ 水平的稻壳粉组的样本6-1，有52条。条带最少的是来自 $1 4 \\% \\mathrm { C F }$ 水平的稻壳粉组的样品5-1、5-2、5-4，均为34条。依据各泳道的条带数目及所在位置，计算Cs，构建系统发育树（图3）。由图3可知，6个组的24个盲肠样本明显地聚为两大类，由上至下样本4-2至5-2聚为一类、2-4至3-3 聚为一类。但每大类都有来自不同组的样本。相似性较高（ $\\mathrm { i } \\mathrm { c s } > 0 . 5$ ）的有4簇，分别是样本1-2与 6-1、样本6-2与5-2、样本5-4与6-3、样本4-3与3-3。总体看，组间及重复间无明显的聚类规律，如样本 4-1、4-2、4-3、4-4 为同一组的不同试验兔的盲肠内菌群样本，却很难同时聚到同一个分支上。",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/611ab97cd0e0851a779e927f5aab50f95492891ac659272125ed5a3189940f95.jpg",
+        "img_caption": [
+            "图124个盲肠菌群样本的基因组DNA提取结果 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "样本 1-1、1-2、1-3，1-4来自I组，样本2-1、2-2、2-3、2-4 来自Ⅱ组，样本3-1、3-2、3-3、3-4 来自组，样本4-1、4-2、4-3、4-4来自IV组，样本 5-1、5-2、5-3、5-4来自V组，样本6-1、6-2、6-3、6-4来自VI组。下图同。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/9345ab9430a9f203bb0aba0fede823f86ec186777f70820a2d905b68b7602b46.jpg",
+        "img_caption": [
+            "Fig.1 Genomic DNA extraction results of 24 samples of cecum microflora （M:DL2000）",
+            "图216S rDNAPCR 产物的DGGE 图谱",
+            "Fig.2DGGE fingerprints of 16S rDNA PCR products "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Samples 1-1,1-2,1-3 and 1-4 come from group I,samples 2-1,2-2,2-3 and 2-4 come from group II, samples 3-1,3-2,3-3 and 3-4 come from group II,samples 4-1,4-2,4-3,4-4 come from group IV,samples 5-1, 5-2, 5-3 and 5-4 come from group $\\mathrm { \\Delta V }$ ,and samples 6-1, 6-2, 6-3 and 6-4come from group VI. The same as below. ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/97fb1497b98c3977f85cbf8b8e04c970fa50653b13d49c13e39f7765dbd4c913.jpg",
+        "img_caption": [
+            "图3依据戴斯系数构建的系统进化树聚类分析",
+            "Fig.3Cluster analysis of phylogenetic tree on the basis of Cs "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2.3.2菌群多样性分析",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，纤维源对盲肠菌群丰富度(即 DGGE 条带数)和香农指数无显著影响（ $\\cdot P { > } 0 . 0 5 )$ ，但以苜蓿草粉为纤维源的肉兔盲肠菌群均衡指数极显著高于以稻壳粉为纤维源的肉兔（ $\\scriptstyle \\cdot < 0 . 0 1 .$ ）°CF 水平对盲肠菌群丰富度和香农指数有显著影响（ $\\scriptstyle \\cdot < 0 . 0 5$ )，其中 $1 6 \\% C \\mathrm { F }$ 水平组的数值均为最高。纤维源及CF水平的交互作用对盲肠菌群多样性无显著影响（ $\\cdot P { > } 0 . 0 5 )$ ）°",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9d53b715b9be37071851cf888d9b3ea731e95b266cff5ed1aef9dcd74651400.jpg",
+        "table_caption": [
+            "表4饲粮纤维源及CF水平对肉兔盲肠菌群多样性的影响",
+            "Table 4Effects of dietary fiber source and CF level on cecal microbial diversity of meat rabbits "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>组别 Groups</td><td>纤维源Fiber source</td><td>CF 水平CF level/%</td><td>丰富度(条带数量) Species richness （band quantity）</td><td>香农指数 Shannon-wiener index</td><td>均衡指数 Species evenness</td></tr><tr><td>I</td><td>苜蓿草粉</td><td>12</td><td>37.75ab</td><td>3.58ab</td><td>0.988c</td></tr><tr><td>I</td><td>Alfalfa hay</td><td>14</td><td>39.50ab</td><td>3.62ab</td><td>0.985bc</td></tr><tr><td>Ⅲ</td><td>meal</td><td>16</td><td>44.00b</td><td>3.72b</td><td>0.985bc</td></tr><tr><td>IV</td><td>稻壳粉 Rice</td><td>12</td><td>39.00ab</td><td>3.60ab</td><td>0.980abc</td></tr><tr><td>V</td><td>husk meal</td><td>14</td><td>35.25a</td><td>3.47a</td><td>0.978ab</td></tr><tr><td>VI</td><td></td><td>16</td><td>42.25ab</td><td>3.64b</td><td>0.975a</td></tr><tr><td>纤维源Fiber</td><td>苜蓿草粉</td><td></td><td>40.42</td><td>3.64</td><td>0.986Y</td></tr><tr><td>source</td><td>Alfalfa hay</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7dd4e6aa4d3ee5c2633d786ab4f2636f9c3b73d765309185b05fcace7d26d3b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>meal</td><td></td><td></td><td></td></tr><tr><td>稻壳粉 Rice</td><td>38.83</td><td>3.57</td><td>0.976X</td></tr><tr><td>husk meal</td><td></td><td></td><td></td></tr><tr><td>CF 水平CF</td><td>38.38x</td><td>3.59xy</td><td>0.984</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>level/%</td><td>37.38x</td><td>3.54x</td><td>0.981</td></tr><tr><td></td><td>43.13y</td><td>3.68y</td><td>0.980</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>纤维源 Fiber source</td><td>0.379</td><td>0.099</td><td>0.003</td></tr><tr><td>CF 水平 CF level</td><td></td><td></td><td></td></tr><tr><td></td><td>0.035</td><td>0.037</td><td>0.461</td></tr><tr><td>P-value 纤维源xCF水平Fiber</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>0.283</td><td>0.892</td></tr><tr><td>sourcexCF level</td><td>0.457</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮纤维源及CF水平对肉兔营养物质消化率的影响 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "兔对纤维的消化主要取决于盲肠微生物活性、食糜在盲肠的停留时间及纤维的化学组成及结构[Ⅲ。李清宏等[8表明，獭兔对以苜蓿草粉为主要纤维源的配合饲料的CF 及CP 的消化率（分别为28.77%、 $8 2 . 9 4 \\%$ ）显著高于以玉米秸和大豆秸秆为主要纤维源的配合饲料，但3种纤维源对獭兔粗脂肪（EE）、NDF 和ADF 的消化率无显著影响。本研究表明，除CP以外，首蓿草粉组饲粮各主要营养物质的消化率均显著高于稻壳粉组，而稻壳粉组饲粮CP 的消化率则极显著高于苜蓿草粉组，与以上报道不完全一致，推测可能与稻壳粉组肉兔空肠和十二指肠胰蛋白酶的活性高于或显著高于苜蓿草粉组有关。CF水平对DM、NDF、ADF 的消化率有显著影响，低CF水平（ $12 \\%$ ）组肉兔DM、能量的消化率及ADE 显著高于中、高CF水平（ $14 \\%$ 、 $1 6 \\%$ ）组，但NDF、ADF 的消化率则呈现出“两端（12%、16%CF）高，中间（ $14 \\%$ CF）低”的变化趋势。这与何仁春等9报道的12%CF水平对2月龄肉兔饲粮CF及能量的消化率显著高于 $10 \\%$ 、 $1 4 \\% \\mathrm { C F }$ 水平，即“两端低中间高”的结果不一致。此结果与兔的日龄和纤维源的化学组成有关，本试验中 $14 \\%$ CF 水平饲粮中的ADL含量高于$12 \\%$ 和 $1 6 \\% C \\mathrm { F }$ 饲粮（表1)，较高的 ADL 含量影响了食糜的通过率及纤维的发酵[I]。可见，不同纤维源由于其纤维的具体组成成分不同，即使CF 水平相同，其消化率也有差别；同时也说明肉兔对饲粮养分，尤其是纤维的消化率并未随饲粮CF水平的提高呈线性变化。因此，对肉兔纤维营养的研究仍然有待深入，以确定组成纤维素和半纤维素基本单位对于其消化率的影响。本研究表明，提高饲粮中CF水平会降低能量的消化率，与乔建国等[10]的结果一致，主要是由于CF水平升高会加重消化道的负担，还可在盲肠内形成较多的乙酸及较少的丙酸和丁酸，丁酸抑制肠蠕动的作用降低，使得肠道兴奋性增强，蠕动加快，导致饲粮在盲肠内的停留时间短，营养物质消化率低[1]。另外，饲粮中的可溶性纤维具有增加食糜黏度、减少食糜与消化酶的接触、阻碍养分吸收等作用。因此，在配制饲粮时，应根据家兔品种、生理阶段、纤维品质等来调整CF水平。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮纤维源及CF水平对肉兔肠道消化酶活性的影响",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "兔肠道营养物质的消化主要依赖体内消化酶的作用。兔消化系统的酶谱与其他单胃动物相似，其自身能分泌淀粉酶、蛋白酶、脂肪酶等，但不能分泌纤维素酶。饲料中的纤维素只能靠肠道微生物产生的纤维素酶消化利用，纤维性物质在盲肠经细菌发酵，被分解为挥发性脂肪酸经肠壁吸收作为能量来源。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "肠道内容物中胰蛋白酶活性被认为是反映机体蛋白质消化能力的一个较好的指标。崔文典[12]研究表明，幼兔肠道内容物中淀粉酶、胰蛋白酶、糜蛋白酶的活性随饲粮CF水平（ $10 \\%$ 、 $12 \\%$ 、 $14 \\%$ ）的提高而降低。晁洪雨等[13]报道，随着ADF水平的增加，3月龄肉兔肠道胰蛋白酶与胰凝乳蛋白酶活性有先增加后降低的趋势。此外，肉兔盲肠纤维素酶活性随饲粮 CF 水平的提高而提高[12-13]。本研究表明， $1 6 \\% C \\mathrm { F }$ 水平显著提高了肉兔空肠胰蛋白酶的活性，极显著提高了盲肠纤维素酶活性。而$1 2 \\% \\mathrm { C F }$ 水平组肉兔空肠淀粉酶、胰蛋白酶活性及盲肠纤维素酶活性显著低于 $14 \\%$ 、 $1 6 \\% \\mathrm { C F }$ 水平组。可见，有关CF 水平对盲肠纤维素酶活性的影响所有报道都一致，主要是因为纤维到达盲肠和结肠中，在肠道微生物作用下被分解成挥发性脂肪酸(VFA)，VFA 为纤维素分解菌提供了能量，从而增加了盲肠内纤维素分解菌的数量和活性。因此，在配合肉兔饲粮时，可考虑适当提高饲粮的CF 水平或选择使用更高纤维含量的饲料原料，以降低饲养成本。杨桂芹等[14]的关于纤维源及CF 水平对肉兔生长性能的影响的研究结果也证实了这一点。而有关CF 水平对肠道淀粉酶及蛋白酶活性的影响相关报道不完全一致，主要与各研究中所使用的纤维源和CF 水平变异较大，其中的可溶性和不溶性纤维的比例存在差异有关。本研究表明，与苜蓿草粉相比，以稻壳粉为纤维源极显著提高了肉兔十二指肠胰蛋白酶活性，这可能与稻壳粉组饲粮中的不溶性纤维含量高，促进了消化液的分泌有关，也可能是兔肠道消化酶对饲料中的纤维表现出了“适应性的分泌”，这有待于进一步研究和证实。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮纤维源及CF水平对肉兔盲肠菌群多样性的影响",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "盲肠作为饲粮纤维消化的主要场所，是利用微生物产生的酶或微生物的代谢产物来分解CF。在正常状况下，有益菌占绝对优势，细菌间形成一种相当稳定的复杂生态系统。盲肠细菌的种类、数量及其平衡性是肉兔消化机能健康与否的重要标志，也是消化道结构和机能正常与否的重要体现。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "PCR-DGGE 技术是一种快速可靠的比较菌群多样性以及群落变化的方法，其中依据Cs 构建的系统发育树能够直观形象地反映不同样本间菌群的相似程度，也可反映该样品中微生物群落组成相对于其他样品的特异性。本研究中各样本间盲肠菌群相似性很低，无明显的聚类规律，说明不同组间及重复间肉兔盲肠微生物群落结构组成差异较大。这与朱岩丽[15]测定的生长肉兔个体间肠道菌群结构有较大的差异的结果一致。因此，在今后有关兔的肠道菌群研究上需适当增大样品数量，以增强其代表性。Michelland 等[16]研究表明，降低饲粮ADF 水平 $2 0 . 4 \\%$ VS. $1 0 . 7 \\%$ )会改变生长肉兔盲肠微生物组成和细菌种属的相对丰度，但不改变其多样性。本研究表明，高CF水平（ $1 6 \\%$ ）显著提高了肉兔盲肠菌群丰富度和多样性，与以上报道不完全一致，这与纤维源的组成有关；但与刘蓓一[17]报道的随着纤维水平的提高，鹅盲肠微生物的种类也增加的结果一致。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Awati 等[18]研究表明，饲粮种类不同，兔肠道微生物区系组成不同，其中饲粮纤维起着重要的作用。De Filippo 等[19]报道，吃富含纤维类食物的非洲儿童的粪便菌群中拟杆菌门（Bacteroidetes）比例高，厚壁菌门（Firmicutes）比例低，而摄入高蛋白质低纤维食物的欧洲儿童的粪便菌群中则缺乏 Bacteroidetes。Matsui 等[20]认为，含有 Bacteroidetes 丰富的盲肠，其发酵作用更强。谷子林等[21]研究表明，饲粮CF水平（ $7 \\%$ 、 $9 \\%$ 、 $12 \\%$ 、 $14 \\%$ ）对断乳仔兔盲肠微生物数量有较大影响，以 $1 2 \\% \\mathrm { C F }$ 水平组有益菌的数量占有绝对优势；过高和过低的CF水平，尤其是过低CF水平会导致有益菌数量大幅度降低，有害菌（大肠杆菌、沙门氏菌）数量增高。可见，在实际生产中可逐步提高饲粮中的CF 水平，通过微生物区系对底物的适应能力来提高兔对纤维类饲料的利用率。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "（20 $\\textcircled{1}$ 苜蓿草粉组肉兔 DM、CF、ADF、ADL 的消化率显著或极显著高于稻壳粉组； $12 \\%$ CF水平组肉兔DM、NDF、ADF的消化率显著高于 $1 4 \\% \\mathrm { C F }$ 水平组，而能量的消化率及ADE 极显著高于 $14 \\%$ 、 $1 6 \\% C \\mathrm { F }$ 水平组。$\\textcircled{2}$ 稻壳粉组肉兔十二指肠胰蛋白酶活性极显著高于苜蓿草粉组；CF 水平越高，肉兔空肠淀粉酶、胰蛋白酶活性和盲肠纤维素酶活性越高。$\\textcircled{3}$ 纤维源对肉兔盲肠菌群均衡指数有显著影响； $1 6 \\% \\mathrm { C F }$ 水平显著提高了肉兔盲肠菌群的丰富度和多样性。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[I]GIDENNE T,CARABANO R,GARCIA J,et al.Fibre digest1on[M]//DE BLAS C,WISEMAN J.Nutrition of the Rabbit.2nd ed.New York:CAB International Publishing,2O10:66-82.   \n[2]VILLAMIDE M J,CARABANO R,MAERTENS L,et al.Prediction of the nutritional value of European compound feeds for rabbits by chemical components and in vitro analysis[J].Animal Feed Science and Technology,2009,150(3/4):283-294.   \n[3]GIDENNE T,ARVEUX P,MADEC O.The effect of the quality of dietary lignocellulose on digestion,zootechnical performance and health of the growing rabbit[J].Animal Science,2001,73(1):97-104. [4]BENNEGADI N,GIDENNE T,LICOIS D.Impact of fibre deficiency and sanitary status on non-specific enteropathy of the growing rabbit[J].Animal Research,2001,50(5):401-413.   \n[5]BENNEGADI N.Non specific enteropathies of growing rabbit (impacts of microbial and nutritional factors)[D].Ph.D.Thesis.Toulouse:Institut National Polytechnique,2002:161.   \n[6]李福昌.家兔营养[M].北京:中国农业出版社,2009:167-170.   \n[7]LI M,GONG J H,COTTRILL M,et al.Evaluation of QIAamp? DNA Mini Stool Kit for microbial ecological studies gut microbiota[J].Journal of Microbiological Methods,2003,54(1):13-20.   \n[8]李清宏,闫伟,叶志远,等.苜蓿草粉对獭兔消化率及饲用效果的影响[J].草地学 报,2012,20(3):597-602.   \n[9]何仁春,熊建明,杨家晃,等.粗纤维及纤维素酶对 $_ { 1 \\sim 2 }$ 月龄肉兔能量消化率和生长性能的影响[J]. 粮食与饲料工业,2011(12):58-61.   \n[10]乔建国,杨玉芬.日粮纤维对猪营养物质消化率、消化道发育及消化酶活性的影响[J].中国农学通 报,2007,23(2):18-21.   \n[11]雷秋霞,李福昌,吴洪涛.粗纤维水平及品质对家兔的营养作用[J].中国饲料,2003(10):25-26. [12]崔文典.日粮不同蛋白质和粗纤维水平对幼兔血液生化指标、消化酶活性的影响[D].硕士学位论 文.保定:河北农业大学,2005.   \n[13]晁洪雨,李福昌.日粮 ADF 水平对 2-3 月龄肉兔生产性能消化酶活性和盲肠发酵的影响[J].山东 农业大学学报:自然科学版,2008,39(3):355-360.   \n[14]杨桂芹,孙佳易,郭东新,等.饲粮纤维源及粗纤维水平对肉兔颗粒饲料质量、生长性能和肉品质的 影响[J].动物营养学报,2015,27(10):3084-3093. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[15]朱岩丽.日粮纤维/淀粉对生长肉兔生长、免疫、肠道菌群的影响及肠道蛋白质组学初探[D].博士学位论文.泰安:山东农业大学,2013.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[16]MICHELLAND R J,COMBES S,MONTEILS V,et al.Rapid adaptation of the bacterial community   \nin the growing rabbit caecum after a change in dietary fibre supply[J].Animal,2011,5(11):1761-1768.   \n[17]刘蓓一.扬州鹅肠道微生物多样性及其受饲粮纤维水平的调控研究[D].博士学位论文.扬州:扬州   \n大学,2012.   \n[18]AWATI A,KONSTANTINOV S R,WILLIAMS B A,et al.Effect of substrate adaptation on the mi  \ncrobial fermentation and microbial composition of faecal microbiota of weaning piglets studied in   \nvitro[J].Journal of the Science of Food and Agriculture,2005,85(10):1765-1772.   \n[19]DE FILIPPO C,CAVALIERI D,DI PAOLA M,et al.Impact of diet in shaping gut microbiota revealed   \nby a comparative study in children from Europe and rural Africa[J].Proceedings of the National Academy   \nof Sciences of the United States of America,2010,107(33):14691-14696.   \n[20]MATSUI H,KATO Y,CHIKARAISHI T,et al.Microbial diversity in ostrich ceca as revealed by 16S   \nribosomal RNAgeneclone library and detection of novel Fibrobacter spe  \ncies[J].Anaerobe,2010,16(2):83-93.   \n[21] 谷子林,李江,张玉华,等.日粮粗纤维水平对断乳力克斯兔腹泻率、消化道 pH和盲肠菌群的影响   \n[J].中国农学通报,2008,24(2):21-25. Effects of Dietary Fiber Source and Crude Fiber Level on Nutrient Digestibility, Intestinal Digestive Enzyme Activities and Cecal Microbial Diversity of Meat Rabbits YANG Guiqin1SUN Jiayi1GUO Dongxin1\\*TIAN $\\mathrm { H e ^ { 1 } }$ LI Jiantao1PAN Xiudong2 (1. College of Animal Husbandry and Veterinary, Shenyang Agricultural University, Shenyang 110866, China; 2. Shenyang Aidi Biotechnology Co., Ltd., Shenyang 110161, China)   \nAbstract: This experiment was conducted to determine the effects of dietary fiber source and crude fiber   \n(CF）level on nutrient digestibility,intestinal digestive enzyme activities and cecal microbial diversity of   \nmeat rabbits.Six diets were formulated according to a two-factor experiment design based on isonitroge  \nnous and isocaloric,one factor was fiber source (alfalfa hay meal and rice husk meal),and another was CF ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "level ( $12 \\%$ ， $14 \\%$ and $16 \\%$ ). A total of 144 Hyla growing rabbits with the age of 70 to 8O days and average body weight of $( 2 0 0 2 \\pm 7 7$ ） $\\mathrm { \\bf { g } }$ were selected and randomly allocated in individual cages for six groups of 4 replicates containing six rabbits. Digestion experiment was conducted by the method of total fecal collection at the end of feeding trial. Afterwards,a total of 24 rabbits (4 rabbits per group) were slaughtered, and intestinal contents were sampled and stored for digestive enzyme activities and cecal microbial diversity determination.The results showed as folows: 1) meat rabbits fed diets with the alfalfa hay meal as fiber source had significantly higher dry mater (DM), CF,acid detergent fiber (ADF) and acid detergent lignin (ADL) digestibility compared with meat rabbits fed diets with the rice husk meal as fiber source ( $_ { \\cdot } P { < } 0 . 0 5$ 0r $P { < } 0 . 0 1 \\rangle$ ，while the crude protein (CP) digestibility in alfalfa hay meal group was significantly lower than that in rice husk meal group $( P { < } 0 . 0 1 )$ . The digestibility of DM, neutral detergent fiber (NDF) and ADF of meat rabbits in $12 \\%$ CF level group was significantly higher than that of $14 \\%$ CF group $( P { < } 0 . 0 5 )$ . Moreover, the apparent digestive energy (ADE) and energy digestibility in $12 \\%$ CF level group were significantly higher than those of $14 \\%$ and $16 \\%$ CF level groups $( P { < } 0 . 0 1 \\$ ).2) Meat rabbits fed diets with rice husk meal as fiber source had significantly higher duodenal trypsase activity compared with meat rabbits fed diets with alfalfa hay meal as fiber source $( P { < } 0 . 0 1 )$ ). Meat rabbits fed diets with $12 \\%$ CF level had the lowest jejunal amylase activity $( P { > } 0 . 0 5 )$ , jejunal trypsase activity $( P { < } 0 . 0 5 )$ and cecal cellulose activity $( P { < } 0 . 0 1 \\$ ).3) There was no significant difference between the 2 fiber sources in cecal flora species richness and Shannon-wiener index were detected ( $P { > } 0 . 0 5 \\ '$ ), but meat rabbits fed diets with alfalfa hay meal as fiber source had the significantly higher cecal flora species evennessthan that of meat rabbits fed diets with rice husk meal as fiber source ( $( P { < } 0 . 0 1 \\$ ). CF level had significant effects on species richness and shannon-wiener index of cecal flora, andmeat rabbits fed $16 \\%$ CF level diet had the highest values. In thise experimental condition, the results demonstrate as follows: 1） the digestibility of DM, CF,ADF and ADL and cecal flora species evenness of meat rabbits in alfalfa hay meal groups were significantly higher than those in rice husk meal group, but the duodenal trypsase activity was significantly lower than that in rice husk meal group. 2) Meat rabbits fed diets with $12 \\%$ CF had the highest ADE and main nutrient digestibility, and the higher CF level the higher jejunal amylase activity, jejunal trypsase activity and cecal celulose activity. Meat rabbits fed diets with $16 \\%$ CF have the higher cecal microbial diversity. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Key words: meat rabbits; fiber source; CF level; digestibility; digestive enzyme activities; cecal microbial ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "diversity ",
+        "page_idx": 19
+    }
+]

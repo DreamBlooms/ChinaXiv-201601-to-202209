@@ -1,0 +1,136 @@
+# 黄芪多糖免疫草鱼母本对子代IgM、C3和LSZ表达特性研究
+
+周智愚¹王荣华金生振’王红权¹\*\*肖 肖调义1,2\*\*(1 湖南省特色水产资源利用工程技术中心 湖南农业大学长沙410128)(2 水产高效健康生产湖南省协同创新中心常德415000)
+
+摘要为探究黄芪多糖免疫草鱼母本所产子代早期发育阶段体液免疫因子 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3$ 和LSZ 的表达特性及代间传递效率。采用ELISA、RT-qPCR等方法分析了饲喂黄芪多糖草鱼母本血液及其子代早期发育阶段3种免疫因子的蛋白质活性及mRNA水平。结果显示，黄芪多糖免疫草鱼母本血液中 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3$ 和LSZ蛋白活性均显著高于对照组。在子代早期阶段中,3种免疫因子蛋白活性呈先下降后上升趋势,实验组IgM蛋白活性在各阶段均显著高于对照组,在卵子、5d和28d 仔鱼中分别提高了2.2倍、1.7倍和1.8倍。实验组C3 活性在卵子、24h胚胎分别提高了1.9倍和1.6倍。实验组LSZ活性在卵子、5d和28d仔鱼中分别提高了2.4倍、2.0倍和1.9倍;在卵子和受精卵时期3种免疫因子mRNA水平显著高于对照组。在 $2 4 \mathrm { h }$ 胚胎至5d仔鱼没有检测到IgM和LSZmRNA,而在14d后3种免疫因子的mRNA均呈上调表达,但IgM和C3mRNA水平与对照组无显著差异。GCRV攻毒后,实验组2月龄草鱼脾脏和头肾中IgMmRNA水平显著高于对照组。结果表明,黄芪多糖能够提高草鱼母本免疫能力并向子代垂直传递,在应对GCRV感染时发挥一定免疫保护作用。
+
+关键词 黄芪多糖草鱼早期发育免疫因子草鱼呼肠孤病毒中图分类号Q819
+
+大多数卵生鱼类在发育早期,由于免疫器官尚未发育完善，应对外界水体环境威胁时需依赖自身非特异性免疫及母本所传递的免疫能力[1]。已有研究表明,通过免疫产前性成熟雌鱼如大菱鲆（Scophthalmusmaximus）[2]鲤(Cyprinuscarpio）[3]罗非鱼（Oreochromismossambicus）[4] 斑马鱼（Danio rerio）[5]等，能显著提高母本特异性免疫因子免疫球蛋白M（immunoglobulin M，IgM)[6]、非特异性免疫因子溶菌酶（lysozyme，LSZ）[7]和补体C3（complement 3，C3）[8]的表达量并传递给后代，在子代早期发育中抵御水体病原微生物的入侵时发挥重要的免疫保护作用。
+
+黄芪多糖(astragaluspolysaccharide,APS)是由中草药黄芪根部所提取的主要活性成分之一[9],具有调节免疫、抗病毒、抗肿瘤等作用[10]。黄芪多糖作为抗细菌、病毒的免疫增强剂在畜牧业及水产养殖上已广泛应用,如在饲料添加黄芪多糖能显著提高肉仔鸡血清中 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3$ 含量[]，,长期投喂黄芪多糖能增强鲫（Carassiusauratus）[12]、半滑舌鳎（Cynoglosss semilaevis）[13]仿刺参（Apostichopusjaponicus）[14]黏液或血清中LSZ和C3 活性。目前在鱼类还未见以中草药多糖进行母本免疫，提高子代免疫力的报道。
+
+草鱼（Ctenopharyngodon idella）是我国产量最高的淡水鱼类。但病害频发，其中以草鱼呼肠孤病毒（grasscarp reovirus，GCRV)感染导致的出血病最为突出。当年夏花至2龄鱼种均可发病死亡,严重制约了草鱼养殖业可持续发展[15]。因此,为探讨黄芪多糖对草鱼母源免疫后相关免疫因子的代间传递规律和作用时效，以及子代GCRV攻毒的抗病能力。本实验在产前40d对草鱼母本连续投喂含 $0 . 2 \%$ 黄芪多糖的亲本配合饲料，通过ELISA、RT-qPCR等方法检测草鱼母本血液及子代早期发育阶段中免疫因子 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3 , \mathrm { L S Z }$ 的蛋白质活性和mRNA水平，并分析人工感染GCRV后，2月龄草鱼脾脏和头肾中3种免疫因子mRNA水平；对鱼类母源免疫的应用和水产业可持续性发展具有重要的理论和实践意义。
+
+# 1材料与方法
+
+# 1.1材料
+
+实验草鱼亲本为湖南省湘阴巨丰渔业公司选购的长江原种，体质量 $( 9 . 0 \pm 1 . 0 ) \mathrm { k g }$ ；黄芪多糖精制粉（ $9 0 \%$ )购自于南京泽朗医药科技有限公司;小鼠抗草鱼 IgM $\mu$ 链单克隆抗体由中国科学院水生生物研究所聂品研究员惠赠；GCRV106由中国水产研究院长江水产研究所曾令兵研究员提供。
+
+# 1.方法
+
+1.2.1日粮设计及饲喂实验用日粮原料购置于湖南省望城县湘中饲料有限公司，根据草鱼亲本配合饲料营养标准配制基础饲料,试验日粮分别在基础日粮中添加最适浓度 $0 . 2 \%$ 的黄芪多糖（根据宋文华等研究结果[16]）。催产前40d,选取10 尾健康、性腺成熟的雌性草鱼，随机分为2个处理，每个处理5尾，即饲喂基础日粮(对照组)和添加黄芪多糖试验日粮(实验组）。实验鱼均注射标记芯片，投喂期间添加少量黑麦草（Loliumperenne L.）同期饲养。
+
+1.2.2亲本催产及子代培育草鱼亲本于催产前一周停食，经挑选,实验组和对照组符合催产条件草鱼均为4尾。采用干法人工授精获得受精卵，实验组和对照组分池孵化，鱼苗 $3 \sim 1 5 \mathrm { d }$ 投喂熟鸡蛋黄和豆浆，15d以后投喂鱼苗营养粉（大北农饲料，北京）。
+
+1.2.3母本及早期子代样品采集使用 $5 \mathrm { m l }$ 一次性注射器尾静脉采集实验组和对照组产卵后母本血液$4 \mathrm { m l / \Omega }$ 尾,分两部分保存，用于荧光定量检测血液放入液氮中保存；用于生理生化指标检测血液于 $4 ^ { \circ } \mathrm { C }$ 、$3 ~ 0 0 0 \mathrm { r / m i n }$ 离心 $2 0 \mathrm { m i n }$ ，收集血清，平行取3份， $- 8 0 ^ { \circ } \mathrm { C }$ 保存。采集对照组和实验组草鱼卵子、受精卵 $\cdot 3 \mathrm { h }$ （囊胚期) $\mathrm { \Omega } , 6 \mathrm { h }$ （原肠胚期） $\cdot 1 2 \mathrm { h }$ （神经胚期） $\cdot 2 4 \mathrm { h }$ （器官形成期） $\cdot 3 6 \mathrm { h }$ （脱膜孵化期）、3d（水花）、5d（卵黄囊消失期水花）、14d（乌仔）、 $\boldsymbol { . 2 8 \mathrm { d } }$ (夏花)样品，每组胚胎或鱼苗随机选取5个/尾，每个阶段或时间点均平行取3份。放人无核酸酶匀浆管（Bertin，法国）分两部分保存，荧光定量检测样品放入液氮中保存;生理生化检测样品置于 $- 8 0 ^ { \circ } \mathrm { C }$ 冷冻保存。
+
+1.2.4母本血液及早期发育子代中免疫因子活性检测取上述胚胎、幼鱼阶段样品每管加入 $1 \%$ DEPC 处理的3\~5粒陶瓷研磨珠，按照 $5 0 \mathrm { m g } \colon 5 0 0 \mu \mathrm { l }$ 比例加入$1 \times \mathrm { P B S }$ 。使用均质仪(Bertin，法国)匀浆， $4 ~ 0 0 0 \mathrm { r / m i n }$ ，$1 0 \mathrm { s } /$ 次,3次,匀浆液置于离心机 $4 ^ { \circ } \mathrm { C } \mathrm { ~ , 1 0 ~ 0 0 0 ~ \times ~ g ~ }$ 离心$1 0 \mathrm { { m i n } }$ ，收集上清液。采用酶联免疫双抗体夹心法检测实验组、对照组母本血清和胚胎、仔鱼上清液中 $\mathrm { I g } \mathrm { M }$ 蛋白含量。 $\mathrm { I g } \mathrm { M }$ 一抗工作液采用 $1 : 4 \ 0 0 0$ 稀释，以 $1 0 0 \mu \mathrm { V }$ 孔包被于酶标板（康宁，美国）， $4 ^ { \circ } \mathrm { C }$ 过夜孵育。洗涤后加 $5 0 \mu \mathrm { l }$ 待测样品， $3 7 \mathrm { ^ { \circ } C }$ 孵育 $3 0 \mathrm { m i n }$ ,加辣根过氧化氢酶(HRP)标记的山羊抗小鼠 $\mathrm { I g } \mathrm { M }$ 二抗 $5 0 \mu \mathrm { l / }$ 孔， $3 7 ^ { \circ } \mathrm { C }$ 孵育$3 0 \mathrm { m i n }$ ,洗涤方法同上。加 $5 0 \mu \mathrm { l }$ 显色剂TMB（博士德,武汉)避光显色 $1 5 \mathrm { m i n }$ ,最后加入 $5 0 \mu \mathrm { l } 2 \mathrm { m o l } / \mathrm { L } \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 终止液，使用酶标仪（Thermo，美国）调 $4 5 0 \mathrm { n m }$ 的波长测量各样品孔 $\boldsymbol { o D }$ 值。使用(伊利康，浙江)C3试剂盒，采用免疫比浊法测定上述样品中C3的活性;使用（南京建成，南京)溶菌酶试剂盒，采用空白对照法测定上述样品中LSZ的活性。
+
+1.2.5母本血液及早期发育子代mRNA水平分析分别将研磨管中草鱼母本血液、胚胎、幼鱼阶段样品，依次加入 $1 \%$ DEPC处理的3～5粒陶瓷研磨珠和$6 0 0 \mu \mathrm { l }$ 裂解液，使用均质仪匀浆， $4 ~ 5 0 0 \mathrm { r / m i n }$ ， $1 0 \mathrm { s } /$ 次，3次，根据 Mini BEST Universal RNA Extraction Kit(TaKaRa，大连)操作要求提取总RNA，使用核酸蛋白仪（Eppendorf，德国）和 $1 \%$ 琼脂糖凝胶电泳检测所提取的总RNA 浓度与完整性。使用RevertAidTM FirstStrandcDNASynthesisKit（Thermo，美国)合成cDNA第一链,产物 $- 2 0 \%$ 保存用于荧光定量PCR 检测。
+
+根据GenBank中草鱼 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3$ 和LSZ基因序列，采用Primer6.0和Oligo7.0软件设计特异性荧光定量引物（表1）。使用CFX96 TouchTMReal-time PCR仪（Bio-Rad，美国)进行实时荧光定量PCR检测，配置反应体系：SYBRGreenI荧光染料（TaKaRa，大连） $1 0 \mu \mathrm { l }$ 上下游引物（ $1 0 \mu \mathrm { m o l / L }$ 各 $0 . 4 \mu \mathrm { l }$ ,稀释后的cDNA 模板$9 . 2 \mu \mathrm { l } _ { \circ }$ 反应条件： $9 5 \mathrm { ^ \circ C }$ 预变性 $3 0 \mathrm { s } ; 9 5 ^ { \circ } \mathrm { C } \ 5 \mathrm { s } , 6 0 ^ { \circ } \mathrm { C } \ 4 0 \mathrm { s } , 4 0$ 个循环;熔解曲线从 $6 5 \mathrm { ^ \circ C }$ 升温至 $9 5 \mathrm { ^ \circ C }$ ，每5s增加$0 . 5 \mathrm { ^ { \circ } C }$ 数据收集使用CFX manager software 3.1（Bio-Rad，美国)。基因的相对表达量通过 $2 ^ { - \triangle \triangle \mathrm { { c t } } }$ 方法计算,采用 $\beta$ -actin作为参考基因。
+
+表1本研究所用的引物序列  
+Table1 Oligo nucleotide primers used in this study   
+
+<html><body><table><tr><td>Primer name</td><td>Primer sequence 5'-3'</td></tr><tr><td>IgM-F</td><td>TGGTCATCAGGTGGCAAAT</td></tr><tr><td>IgM-R</td><td>GCGGCTGTCTTCCATTCTT</td></tr><tr><td>lysozyme-F</td><td>TTCGACAGCAAAACAGGACAACT</td></tr><tr><td>lysozyme-R</td><td>GATATGATGGCAGCAATCACAGC</td></tr><tr><td>C3-F</td><td>AATACGCCATTCCTGAGGTTTCC</td></tr><tr><td>C3-R</td><td>CTTCCACCATTTCACTGCCACTT</td></tr><tr><td>Actin-F</td><td>GCTATGTGGCTCTTGACTTCG</td></tr><tr><td>Actin-R</td><td>GGGCACCTGAACCTCTCATT</td></tr></table></body></html>
+
+1.2.6GCRV感染后 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3$ 和LSZ在免疫组织的mRNA水平分析2月龄实验组、对照组草鱼各选取90尾，暂养于室内循环水养殖系统，水温控制在( $2 8 ~ \pm$ 按体重 $2 \%$ 投喂普通草鱼饲料，暂养4周后，每尾注射 $0 . 2 \mathrm { m l }$ GCRV病毒液。采集注射 $0 \mathrm { h } , 6 \mathrm { h } , 1 2 \mathrm { h }$ 、
+
+$2 4 \mathrm { h } \ : 4 8 \mathrm { h } \ : . 7 2 \mathrm { h } \ : . 9 6 \mathrm { h }$ ,取实验组和对照组草鱼脾脏与头肾组织样品约 $1 0 0 \mathrm { m g }$ （每个时间点随机选取3尾），平行取3份,按上述方法进行总RNA提取、cDNA第一链合成及荧光定量PCR检测。
+
+1.2.7统计学分析上述实验数据使用 SPSSStatistics19.0统计软件单因素方差(One-wayANOVA）进行显著性分析，采用GraphPadPrism6软件作图。
+
+# 2结果
+
+# 2.1草鱼母本血液IgM、C3、LSZ 活性和 mRNA水平
+
+通过添加 $0 . 2 \%$ 黄芪多糖饲料饲喂性腺发育成熟草鱼母本40d后，实验组血液中 $\mathrm { I g } \mathrm { M } , \mathrm { C } 3$ 和LSZ 的蛋白质活性均显著高于对照组( $\ P < 0 . 0 5 \dot { }$ ），分别提高了2.6倍、1.6倍、2.0倍(图1a）。实验组IgMmRNA水平高于对照组，但无显著差异，而 $C 3$ 和LSZ的mRNA水平上具有显著差异( $\textstyle P < 0 . 0 5 ,$ 分别提高了1.9倍、2.6倍（图1b）。
+
+![](images/bbbd0d8d82b18e1ff137fe0968d2de994bb0c12d3be2d840d58884eb63671b21.jpg)  
+图1 草鱼母本血液IgM、C3、LSZ蛋白质活性和 mRNA 水平 Fig.1IgM，C3 and LSZ protein activity and mRNA expression in thematernal blood of Ctenopharyngodon idella
+
+(a)IgM,C3 and LSZ protein activity1:IgM；2:C3；3:LSZ $\mathbf { \Gamma } ( \mathbf { b } ) \log \mathbf { M }$ ，C3 and LSZmRNAexpression1:IgM;2:C3；3:LS: \*：Significant differences ( $\ P < 0 . 0 5 ,$ ； $n = 3$ ： $\mathrm { m e a n } \pm \mathrm { S D }$ ，the same below
+
+# 2.2草鱼早期发育子代IgM、C3、LSZ 活性水平
+
+$\mathrm { I g } \mathrm { M }$ 蛋白活性在子代各发育阶段均出现不同水平的变化，呈现先下降后升高的趋势，实验组在各阶段均显著高于对照组( $\cdot P < 0 . 0 5 )$ 。在卵子中,实验组 $\mathrm { I g } \mathrm { M }$ 活性是对照组2.2倍;发育至5d仔鱼时，两组均降到最低值,但实验组 $\mathrm { I g } \mathrm { M }$ 活性仍是对照组1.7倍； $1 4 \sim 2 8 \mathrm { d }$ （乌仔-夏花) $\mathrm { I g } \mathrm { M }$ 活性快速升高，实验组是对照组的1.8倍（图2a）。C3 活性在卵子至 $2 4 \mathrm { h }$ 胚胎阶段呈下降趋势，实验组显著高于对照组( $\textstyle P < 0 . 0 5 .$ ），卵子和24h胚胎分别提高了1.9倍和1.6倍（图2c）。36h胚胎孵化后，没有显著差异；LSZ活性表达规律与 $\mathrm { I g } \mathrm { M }$ 相似，实验组卵子、5d、28d仔鱼中分别提高了2.4倍、2.0倍、1.9倍（图2e）。
+
+2.3草鱼早期发育子代 $^ { I g M , C 3 }$ 和 LSZ mRNA 水平IgMmRNA在草鱼早期发育子代呈现先下调消失后上调的趋势，卵子中，实验组表达量是对照组2.4倍，受精卵中为3.3倍，而在之后的发育时期迅速下降， $1 2 \mathrm { h }$ （神经胚期）至5d仔鱼（水花）未检测到IgMmRNA表达，14d(乌仔)重新出现至28d(夏花)表达升高但无显著差异（图2-b）。 $C 3 \ \mathrm { m R N A }$ 在对照组卵子至$^ { 1 2 \mathrm { h } }$ (神经胚期)未检测到表达，而实验组在卵子和受精卵中均出现不同水平的表达;实验组和对照组在 $2 4 \mathrm { h }$ (器官形成期)出现表达，在出膜期间，两组呈下降趋势且具有显著差异( $\textstyle P < 0 . 0 5 ,$ ，而后迅速上升，但两组间无显著差异（图2d）。 $L S Z ~ \mathrm { m R N A }$ 在实验组的表达趋势与 $I g M \mathrm { \ m R N A }$ 相似,卵子中,实验组表达量是对照组的3倍，受精卵中为2.8倍， $1 4 \sim 2 8 \mathrm { d }$ 出现表达且呈上升趋势，且两组间具有显著差异( $\cdot P < 0 . 0 5 )$ （图2f）。
+
+![](images/93bd2b906bc15d59812725b14ba9ab802dd5a299706a31b9f626fe63b8d11bef.jpg)  
+图2草鱼子代发育阶段中IgM、C3和LSZ 蛋白活性和 mRNA水平  
+Fig.2IgM，C3andLSZ protein activityand mRNA expresionin thedevelopment stage of Ctenopharyngodon idella
+
+（a）IgMproteinactivity（b）IgMmRNAexpression（c）C3proteinactivity（d）C3mRNAexpression（e）LSZproteinactivity（f）LSZ mRNAexpres；eb；7 36h,3h,5d,14d,28d phase after incubation
+
+# 2.42月龄草鱼GCRV攻毒后不同组织中IgM、C3和LSZmRNA水平
+
+2月龄草鱼经人工感染GCRV后，IgMmRNA在脾脏(图3a)和头肾(图3b)均出现上调表达，病毒感染
+
+$2 4 \mathrm { h }$ 后，实验组IgMmRNA水平显著高于对照组（ $P <$ 0.05）；脾脏和头肾在 $7 2 \mathrm { h }$ 出现表达峰值，为对照组的2.8倍和2.4倍。C3基因在脾脏(图3c)中有两次上升趋势，而在头肾(图3d)中表现为两次下降趋势，病毒感染后，实验组 $C 3 \ \mathrm { m R N A }$ 水平在脾脏中和头肾中较对照组有一定的升高，但两组间无显著差异。LSZmRNA在实验组和对照组的脾脏(图3e)和头肾(图3f)中均呈先下降后上升的趋势，但在时间的变化上具有一定的差异性。脾脏中，最低值出现在 $7 2 \mathrm { h }$ ；而头肾最低值出现在 $2 4 \mathrm { h }$ ,两组在 $0 \sim 1 2 \mathrm { h }$ 有显著差异( $\textstyle P < 0 . 0 5 )$ ，之后差异不显著。
+
+![](images/66ffb603a63d14859ee1c7036f295a2563559663e59c827e98e8d49e2e22f488.jpg)  
+图32月龄草鱼感染GCRV后 $^ { I g M , C 3 }$ 和LSZ mRNA水平
+
+Fig.3IgM,C3 and LSZ mRNA expression after two months of Ctenopharyngodon idella infected by GCRV (a)TranscriptionchangeofIgMinsplee（b）TranscriptionchangeofIgMinhead kidney（c）Transcriptionchangeof $C 3$ in spleen （d）Transcription change of $C 3$ in head kidney（e）Transcription change of LSZ in spleen（f） Transcriptionchange of LSZ in head kidney1, 2,3,4,5,6,7:Larvas as 0h,6h,12h,24h,48h,72h,96h after infectedby GCRV
+
+# 3讨论
+
+$\mathrm { I g } \mathrm { M }$ 是一类由B淋巴细胞分化产生并与抗原特异性结合，具有抑制病原活性、调节抗原提呈的特异性免疫因子，而非特异性免疫因子补体C3、LSZ 在抑制病毒及溶菌活性中也具有重要的免疫作用[17]。在高等脊椎动物，如蛋鸡的研究表明，通过注射一定比例黄芪多糖后，添加组与对照组在血清中 $\mathrm { I g } \mathbf { M } , \mathrm { C } 3$ 活性具有显著差异[18]。水产动物的研究也发现,在饲料中添加不同水平黄芪多糖投喂黄颡鱼（Pelteobagrusfulvidraco）、齐口裂腹鱼（Schizothoraxprenanti）和草鱼鱼种，血清及各免疫组织中LSZ、C3 活力显著高于对照组[19-21];通过注射适量黄芪多糖后，吉富罗非鱼（Oreochromisniloticus）和鲤免疫组织中LSZ 基因的表达显著上调且高于对照组[22-23]。在本实验中,对产前 40d 草鱼母本饲喂黄芪多糖,能够提高血液中3种免疫因子的蛋白活性和mRNA水平，与GCRV疫苗免疫草鱼母本的结果类似（待发表），说明黄芪多糖能够激活草鱼母本的免疫反应，增强3种体液免疫因子的富集表达，证实了以黄芪多糖作为免疫增强剂进行草鱼母源免疫的可行性。
+
+已有研究表明,对性腺发育成熟的大菱鲆、金头鲷（Sparusaurata)和黄颡鱼雌鱼进行免疫,其后代中IgM的含量均有所升高，表明母源性免疫因子能够传递至后代[2,24-25]。本研究结果显示， $\mathrm { I g } \mathrm { M }$ 蛋白活性在子代早期阶段呈先下降后上升趋势,且实验组均显著高于对照组,与疫苗进行母源免疫大菱鲆、金头鲷、黄颡鱼和草鱼(待发表)的结果相似，暗示了对比疫苗进行母源免疫,黄芪多糖也具有增强抗体 $\mathrm { I g M }$ 的代间传递效率,对早期发育子代起到免疫保护作用。雷雪彬等[26]发现,草鱼子代自身 $\mathrm { I g } \mathrm { M }$ 阳性细胞最早出现于孵化后$1 \bigoplus _ { \cdot = - } \mathbf { l }$ 本实验中, $1 2 \mathrm { h } \sim 5 \mathrm { d }$ 仔鱼未检测到 IgM mRNA,14d后重新出现表达,说明草鱼子代自主IgM mRNA 需发育至特定时期才出现表达,与上述结果相类似。在自主IgM mRNA未出现之前,卵子、受精卵中检测到的IgMmRNA可能来源于母本的传递。海鲈（Dicentrarchuslabrax）的相关研究显示,在卵巢内,母源性IgMmRNA可能通过受体介导的方式存在于卵母细胞,可由卵巢因子激活转录将少量母源IgMmRNA 翻译成蛋白质储存于卵内,延长母源性IgM蛋白作用时间,当成熟卵细胞排出卵巢后则转录停止[27]。有研究报道,以嗜水气单胞菌(Aeromonas hydrophila)感染性成熟的雌性斑马鱼,发现母体和子代体内的补体C3 的活性显著增强[28]。本研究中,非特异性免疫因子C3 活性在胚胎阶段,实验组显著高于对照组,说明黄芪多糖进行母源免疫也能够增强C3 活性在草鱼代间的传递，可能在抵抗细菌和病毒感染中起到一定的保护作用；LSZ活性结果表明,在子代早期发育各阶段,实验组均显著高于对照组，与Hanif等[2用细菌免疫金头鲷亲鱼，研究其后代溶菌酶活性结果相类似,这可能说明了黄芪多糖能有效提高母源性LSZ的垂直传递，提高子代免疫能力。本实验14d子代中，两组溶菌酶LSZmRNA水平仍表现出显著差异性,结果与刘小宁等[30]用细菌免疫斑马鱼母本后子代LSZmRNA传递结果相似。说明通过黄芪多糖饲喂,对子代非特异性免疫因子LSZ的垂直传递和免疫保护有重要意义，但其mRNA的传递规律还需开展后续工作证明。
+
+人工感染GCRV结果显示，实验组脾脏和头肾各时期3种免疫因子mRNA水平均高于对照组。而且在
+
+$4 8 \mathrm { h }$ 后，实验组IgMmRNA水平在脾脏和头肾中与对照组具有显著差异，说明经饲喂黄芪多糖母本所产子代在应对GCRV病原时3种免疫因子免疫应答能力提高;头肾和脾脏中 $L S Z ~ \mathrm { m R N A }$ 在 $0 \sim 1 2 \mathrm { h }$ 两组有显著差异，但随病毒感染时间变化,实验组 $L S Z ~ \mathrm { m R N A }$ 水平逐渐下降，与对照组无显著差异。这可能也预示了在子代自身免疫系统发育完善后，特异性免疫相比非特异性免疫能够发挥更重要的免疫保护作用。
+
+# 参考文献
+
+[1］钟明超,林浩然.硬骨鱼类胚胎和胚后发育阶段的免疫机制.中 国水产科学，1996,3(1):96-102. Zhong M C，Lin H R.Immunomechanismofteleostsduring embryonic and early postembryonic developments.Journal of Fishery Sciences of China,1996,3(1）:96-102.   
+[2]丁福红,雷霁霖,韩明明等.母源免疫对大菱鲆（Scophthalmus maximus)子代抗体IgM水平的影响.海洋与湖沼,2013,44 (5）:1301-1305. DingFH,Lei JL,Han MM,et al.Efect of maternal immunity on the antibody IgM level in turbot Scophthalmusmaximus offspring.Oceanologia Et LimnologiaSinica，2013,44（5）1301- 1305.   
+[3]Swain P，Dash S，Bal J，et al.Passive transfer of maternal antibodies and.their existence in eggs，larvae and fry of Indian major carp，Labeo rohita （Ham.）.Fish & Shelfish Immunology, 2006,20(4): 519-527.   
+[4]Mor A，Avtalion RR.Transfer of antibody activity from immunised mother to embryos in tilapias．Journal of Fish Biology，1990,37 (2):249-255.   
+[5］王志平,韩彦军.母体免疫对斑马鱼亲鱼和胚胎中补体含量及 活性的影响.新疆农业大学学报，2012，35（3）：200-205. Wang Z P,Han YJ.Effect of maternal immanizationon complement content and activity in Danio rerio eggs.Journal of Xinjiang Agricultural University,2012,35(3）:200-205.   
+[6]HayJR,Lobb C J.Immunoglobulin in the eggs of the channel catfish（Ictaluruspunctatus）.Developmental & Comparative Immunology，1993,17（3）：241-248.   
+[7]Yousif A N,Albright L J,Evelyn T.Occurrence of lysozyme in the eggs of Coho salmon Oncorhynchuskisutch．Diseases of Aquatic Organisms,2012,10(1）:45-49.   
+[8]Lóvoll M,Kilvik T，Boshra H，et al．Maternal transfer of complement components C3-1，C3-3，C3-4，C4，C5，C7，Bf and Df tooffspring in rainbow trout（Oncorhynchusmykiss）. Immunogenetics，2006,58（2-3）:168-179.   
+[9]蔡丽.黄芪多糖研究现状与进展.中国肿瘤临床,2007,34 (15):896-899. CaiL.Researchstatusand developmentofastragalus polysaccharide．Chinese Journal of Clinical Oncology,2007,34 (15) :896-899.   
+[10]何文娟,袁志坚,何晓升.黄芪多糖的药理作用研究进展.中国 生化药物杂志，2012,33（5）：692-694. He W J，Yuan ZJ，He X D. Research progresson pharmacological effectsof Astragluspolysaccharide.Chinese Journal of Biochemical Pharmaceutics，2012,33（5）:692-694.   
+[11]司昌德,闵亚宏.黄芪多糖对肉仔鸡免疫功能的影响中国预防 兽医学报，2008,30（12）：978-980. Si CD,Min YH.Effect of astragalus polysaccharin on immunity of broilers.Chinese Journal of Preventive VeterinaryMedicine, 2008,30(12):978-980.   
+[12]艾春汉,邹金虎,喻运珍，等.6种中药对鲫非特异性免疫效果 的影响．淡水渔业，2009,39(1）:76-79. AiCH,ZouJH,Yu Y Z,et al.Effect of six kinds of chinese medicinesonnonspecificimmunityofCarassiusauratus. Freshwater Fisheries,2009,39(1） :76-79.   
+[13刘金海，罗小丽，管健，等.半滑舌鳎鳃粘液免疫相关酶活性对 黄芪多糖的免疫应答.水产科学，2016,35（2）:111-116. Liu JH,Luo X L,Guan j, et al. Immune response of activity of   
+ensre mucus of semi smooth sole Cynoglossus semilaevis. Fisheries Science,2016,35(2):111-116.   
+[14]樊英,王淑娴,叶海斌,等.黄芪多糖对仿刺参非特异性免疫功 能的影响.水产科学,2010,29（6)：321-324. Fan Y，Wang SX,Ye HB,et al. Effects of polysaccharides from Astragalus membranaceus on non-specific immune in sea cucumber Apostichopus japonicus. Fisheries Science，2010,29(6）:321-324.   
+[15李贤,曾伟伟,王庆,等.草鱼呼肠病毒研究进展.动物医学进 展，2016,37（(7) :94-101. CLi X, Zeng W W,Wang Q, et al. Progresson grasscarpreovirus.   
+[16］宋文华,于翔,富丽静，等．黄芪多糖和香菇多糖对草鱼非特 异性免疫功能的影响.安徽农业科学，2011，39（24）:14893- 14895. Song W H，Yu X，Fu L J，et al.Effect of Astragalus polysaccharide and lentinan on the non-specific immunity function ofCtenopharyngodon idellus. Journal of Anhui Agricultural Sciences，2011,39(24) :14893-14895.   
+[17］张永安,聂品.鱼类体液免疫因子研究进展.水产学报,2000, 24(4) :376-381. Zhang Y A，Nie P.Humoral immune factors of fish：areview. Journal of Fisheries of China,2000,24(4）:376-381.   
+[18］袁肖笑,葛云法,吕尊周，等.黄芪多糖对蛋鸡免疫功能及脾 脏 $I F N _ { - \gamma }$ 基因表达的影响.中国兽医学报,2013,33（9）：1421- 1425. Yuan X X，Ge Y F，Lv Z Z，et al.Effects of astragalus polysaccharide on immunologic function and IFN $\gamma$ mRNA
+
+expression for laying hens.Chinese Journal of Veterinary Science, 2013,33(9):1421-1425.
+
+[19」白东清，吴旋，邢克智，等.长期投喂黄芪多糖对黄颡鱼抗氧化及非特异性免疫指标的影啊．动物营养学报,2011,23（9）：1622-1630.
+
+BaiD Q，Wu X， Xing K Z，et al.Effect of Astragalus polysaccharides on antioxidan and nonspecific immune indices of yellowcatfish（Pelteobagrus fulvidraco）． Chinese Journal of Animal Nutrition，2011,23(9）:1622-1630.   
+［20］向枭,陈健,周兴华，等.黄芪多糖对齐口裂腹鱼生长、体组成 和免疫指标的影响.水生生物学报，2011,35(2）：291-299. Xiang X，Chen J，Zhou X H，et al.Efect of astragalus polysaccharides on growth，body composition and immune index in Schizothorax prenanti．Acta HydrobiologicaSinica，2011,35 (2) :291-299.   
+[21］李超,张其中,朱成科，等.增强草鱼免疫功能的复方中草药 免疫增强剂筛选.西南师范大学学报（自然科学版）,2012,37 (4):121-129. Li C,Zhang Q Z，Zhu C K,et al.Identification of compound Chinese herbal immunostimulants enhancing the immunity of grass carp（Ctenopharyngodon Idellus）.Journal of Southwest China Normal University(Natural Science Edition），2012,37(4）:121- 129.   
+[22］汤菊芬,吴灶和,简纪常，等.注射黄芪多糖对吉富罗非鱼c 型溶菌酶基因表达量的影响.广东海洋大学学报，2011,31 (1) :58-61. Tang JF，Wu Z H，Jian JC，et al.Effect of Astragalus polysaccharides （APS）on the expression of lysozyme-c gene in GIFT strainof nile tilapia（Oreochromisniloticus）. Journal of Guangdong Ocean University,2011,31(1）:58-61.   
+[23]Yuan C，Pan X，Gong Y，et al.Effcts of Astragalus polysaccharides（APS）on the expression of immune response genes i head kidney，gilland spleenof the commoncarp, Cyprinus carpio L.． International Immunopharmacology，2008,8 (1) :51.   
+[24]Hanif A，Bakopoulos V,Leonardos I,et al．The effect of sea bream（ Sparusaurata）broodstock and larval vaccination on the susceptibility by Photobacterium damsela subsp．piscicida and on the humoral immune parameters.Fish Shellfish Immunology,2005, 19(4) : 345-361.   
+[25］李春涛,曾伯平,张其中.黄颡鱼IgM基因的个体发生和抗体 的代间传递.水产学报,2014,38（5）：638-643. Li C T,Zeng B P, Zhang Q Z. The ontogenesis and transfer of IgMbetweengenerationsinyellowcatfish（Pelteobagrus fulvidraco)．Journal of Fisheries of China，2014,38（5）:638- 643.   
+[26］雷雪彬,常藕琴,石存斌,等.草鱼头肾发生组织学与免疫组织 化学观察.水产学报,2013,37(6）:840-850. Lei X B，Chang O Q，Shi C B，et al.Histological and immunohistochemical observations on the early development of head kidney in Ctenopharyngodon idella．Journal of Fisheries of China，2013,37(6):840-850.   
+[27]Picchietti S,Taddei AR,Scapigliati G，et al.Immunoglobulin protein and gene transcripts in ovarian follicles throughout oogenesis in the teleost Dicentrarchus labrax.Cell and Tissue Research, 2004，315(2):259-270.   
+[28]Wang ZP,Zhang SC，Zhou T,et al．Maternal transfer and protective role of the alternative complement componentsin ZebrafishDanio rerio,PLoSOne,2009,4(2):e4498.   
+[29]Hanif A,Bakopoulos V,Dimitriadis GJ.Maternal transfer of humoral specific and non-specific immune parameters to sea bream (Sparusaurata）.Fish & Shellfish Immunol,2004,17（5）:411- 435.   
+[30］刘小宁，李争龙，王志平，等.母源免疫对斑马鱼胚胎中溶菌酶 基因表达的影响.水产科学，2014,33（8）：525-528. Liu X N，Li ZL，Wang Z P，et al.Influence of maternal immunization on expression of lysozmye genes in zebrafish embryos，Fisheries Science，2014,33（8）:525-528.
+
+# The Expression Characteristics of IgM， C3 and LSZ in the Offspring from Female Ctenopharyngodon idella Immuned by Astragalus Polysaccharides
+
+ZHOU Zhi-yu1 WANG Rong-hua'JIN Sheng-zhen1WANG Hong-quan1XIAO Tiao-yi $^ { 1 , 2 }$ （204号 (1 Hunan Engineering Technology Research Center of Featured Aquatic Resources Utilization, Hunan Agricultural University，Changsha 410128,China）   
+2CollaborativeInnovation CenterforEficientand HealthProductionofFisheriesin HunanProvince,Changde415Ooo,China
+
+Abstract In order to explore the feature of Astragalus polysaccharides on the female parent，studied the common humoral immune factors about IgM，C3 and LSZ in fish，and discussed the expresson of humoral immune factors（IgM，C3，LSZ）and the transfer efects of immunological factors in theearly developmental stage of female offspring. The results showed that the activities of $\mathrm { I g } \mathrm { M }$ ，C3 and LSZ in the blood of the experimental group were significantly higher than those of the control group.In theearly stage of the progeny，the aclivityof the three immune factors proteins showed atrend from decline to rise.Theactivityof IgM protein n the experimental group was significantly higher than that in the control group，and raised 2.2 times，1.7 times，1.8 times in the period of the egg stage，5d and $2 8 \mathrm { d }$ . The activity of C3 in the experimental group was significantly diferent from that in the control group，raised 1.9 times and 1.6 times during the period of the eg stage, $2 4 \mathrm { h }$ ： The offspring has no significant diference between theexperiment group and the control group.The activity of LSZ was consistent with the activity of $\mathrm { I g } \mathrm { M }$ protein，increased by 2.4 times,2.0 times，1.9 times during the egg stage,5d,28d.The mRNA expresson of three immune factors in the period of the egg stage and zygote period was significantly higher than that in the control group，But the expresson of IgM and C3 can’t find mRNAexpresion during the period 24h -5 days.However，the gene of three immune factors was up-regulated after14 days.After injecting with GCRV,the expression of IgM mRNA in the spleen and head kidney from the two-year-old grass carp was significantly higher than that of the control group.The results showed that the Astragalus polysaccharide could enhance the transformation of immune factors between generations，and play an important effect during the early development of filial generation.
+
+Key WordsAstragalus polysaccharides （APS）Ctenopharyngodon idellaEarly developmentImmune factor GCRV

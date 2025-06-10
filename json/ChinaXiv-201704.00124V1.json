@@ -1,0 +1,419 @@
+[
+    {
+        "type": "text",
+        "text": "镁合金表面有机/无机杂化涂层的性能",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高正源1,3 曹献龙² 刘 浪4方轶琉1 胡琳盛1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1重庆交通大学机电与车辆工程学院重庆400074  \n2重庆科技学院冶金与材料工程学院重庆401331  \n3重庆市计量质量检测研究院重庆401121  \n4重庆交通大学土木工程学院重庆400074",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要在AZ31镁合金表面制备有机/无机杂化涂层，用扫描电子显微镜、扫描探针显微镜、电化学工作站、光学显微镜、涂层测厚仪等手段对杂化涂层的表面形貌、耐蚀性、附着力及厚度进行表征，研究了有机/无机杂化溶胶-凝胶体系的pH值对涂层性能的影响。结果表明：pH值对镁合金表面的杂化涂层的性能有显著的影响。当$\\mathrm { \\ p H }$ 值为3\\~3.5时，可在镁合金表面制备出高平整度且少缺陷的涂层，厚度约为 $2 2 \\mu \\mathrm { m }$ ；当pH值为2.2\\~2.8时，涂层变薄、表面起伏较大且有较多的孔洞。当 $\\mathrm { p H } = 3$ 时杂化涂层具有良好的附着力和最正的腐蚀电位，且腐蚀电流密度最小(约为 $7 . 3 4 \\times 1 0 ^ { - 5 } \\mathrm { A } / \\mathrm { c m } ^ { 2 } )$ ，相对于空白镁合金试样的缓蚀效率约为 $9 9 . 7 \\%$ 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词材料失效与保护，镁合金， $\\mathrm { \\ p H }$ 值，溶胶-凝胶法，耐蚀性中图分类号TG174",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号 1005-3093(2017)03-0211-08 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Properties of Organic/Inorganic Hybrid Coatings Formed on Magnesium Alloy Surface ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GAO Zhengyuan 13, CAO Xianlong²,LIU Lang4, FANG Yiliu ', HU Linsheng 1School of Mechatronics and Automotive Engineering,Chongqing Jiaotong University, Chongqing 400074, China 2 School of Metallurgy and Materials Engineering, Chongqing University of Science and Technology, Chongqing 401331,China 3 Chongqing Academy of Metrology and Quality Inspection, Chongqing,401l21,China 4School ofCivil Engineering,Chongqing Jiaotong University, Chongqing 40o074,China Correspondent: GAO Zhengyuan, Tel: 13647630427,E-mail: 13919919@qq.com Supported by Scientific and Technological Research Program of Chongqing Municipal Bureau of Quality and Technical Supervision (Nos.CQZJKY2013001 & CQZJKY2014017)； Scientific and Technological Research Program of General Administration of Quality Supervision,Inspection and Quarantine of the People's Republic of China (No. 2O14QK263)； Scientific and Technological Research Program of Nanchuan in Chongqing (No. CX201407); Chongqing Innovation Project of Key Industrial Generic Technology(cstc2016zdcy50002); Chongqing Research Program of Basic Research and Frontier Technology (Nos. CSTC2015JCYJBX0140 & CSTC2015JCYJA50003); Scientific and Technological Research Program of Chongqing Municipal Education Commission (Nos.KJ1401314 & KJ1401310) Manuscript received 2016-05-03,in revised form 2016-07-17 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Organic/inorganic hybrid coatings were prepared on AZ31 magnesium aloy，which then was characterized by means of scanning electron microscope,scanning probe microscope,electrochemical analyzer,optical microscope and coatings thickness tester in terms of surface morphology,corrosion resistance,adhesion and thickness.While the influence of pH value of organic/inorganic hybrid sol-gel on the properties of organic/inorganic hybrid coating was also investigated.The results show that pH values of organic/inorganic hybrid sol-gel have important efect on the properties of the organic/inorganic hybrid coatings formed on AZ31 magnesium alloy: When pH value is in the range $3 { \\sim } 3 . 5$ ,a smooth and few defects hybrid coating of the thickness of $2 2 \\ \\mu \\mathrm { m }$ can be obtained; When pH value is in the range $2 . 2 { \\sim } 2 . 8$ ,the hybrid coating became thin and coarse with some big pores;When pH value equals to 3.0, the hybrid coating has good adhesion,highest corrosion potential and minimum corrosion current density （204 $( \\sim 7 . 3 4 \\times 1 0 ^ { - 5 } \\mathrm { \\ A } / \\mathsf { c m } ^ { 2 } )$ .Corrosion inhibition efficiency of the hybrid coating prepared by sol-gel with ${ \\mathsf { p H } } 3 . 0$ （204号 could reach $\\sim 9 9 . 7 \\%$ compared to the blank AZ31 magnesium alloy. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS materials failure and protection,magnesium alloys,pH value,sol-gel method,corrosion resistance ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在地球的金属资源中镁占第八位，,我国的菱镁矿储量占世界的 $60 \\%$ 以上。镁是最轻的金属。镁合金的强度与铝合金相近8，比强度比铝合金和钢都高，略低于碳纤维增强塑料[10]。比刚度与铝合金和钢没有明显的区别，但是远高于碳纤维增强塑料[。镁合金是代替钢铁、铝合金和工程塑料的新一代结构材料之一[2]。因此，镁合金有广阔的应用前景。镁合金的大规模工业应用具有巨大的现实意义和战略意义6。但是镁及其合金的活性高[],耐蚀性差，在工业大气、海洋大气环境中都发生严重的腐蚀[3。因此，提高镁合金的耐蚀性，无论对镁合金的安全使用[14]还是扩展应用领域都至关重要。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用溶胶-凝胶法[15.16]制备的有机/无机杂化[17.18]保护涂层具有有机涂层及无机涂层的优点，可弥补无机涂层较差的抗渗性、柔韧性、耐蚀性以及有机涂层较差的耐磨性和耐热性。近年来许多学者[19-21将这种有机/无机杂化涂层引入到金属的防腐领域，取得了一系列成果。本文研究溶胶-凝胶体系中pH值对镁合金表面膜层耐蚀性能的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1有机/无机杂化涂层的制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将AZ31镁合金试样(尺寸为 $1 5 \\ \\mathrm { m m } { \\times } 1 5 \\ \\mathrm { m m } { \\times }$ $5 \\mathrm { m m } ,$ 用150#、500#和1200#碳化硅砂纸逐级打磨，用去离子水清洗后将试样置于丙酮中超声波震荡清洗 $5 ~ \\mathrm { m i n }$ ，再用去离子水清洗干净，吹干后备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以有机硅烷KH560和正硅酸乙酯为有机前驱体，制备溶胶-凝胶：先将正硅酸乙酯与无水乙醇按一定比例与一定量的去离子水混合，磁力搅拌 $^ { \\textrm { 1 h } }$ 然后缓慢滴加一定量的冰醋酸(HAc)溶液以调整$\\mathrm { \\ p H }$ 值，磁力搅拌 $0 . 5 { \\sim } 1 \\mathrm { ~ h ~ }$ ；再缓慢滴加一定量的KH560，磁力搅拌1h；用塑料膜进行密封处理，在膜上扎几个小孔，静置 $2 4 { \\sim } 4 8 \\mathrm { ~ h ~ }$ ；向陈化好的溶胶中加入少量交联剂三乙烯四胺(TETA)并搅拌均匀；把经过前处理的镁合金试样浸入其中，等待 $1 ~ \\mathrm { m i n }$ 后以 $1 \\ \\mathrm { m m / s }$ 的提拉速度将试样从溶胶中取出，在空气中静置 $3 ~ \\mathrm { m i n }$ 后再将试样浸入溶胶中，约 $1 0 \\mathrm { ~ s ~ }$ 后以相同的提拉速度再次提拉，最后将试样在 $8 0 ^ { \\circ } \\mathrm { C }$ 干燥箱中恒温加热固化 $3 0 ~ \\mathrm { m i n }$ 。具体的实验方案如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2涂层性能的表征",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用NT-MDTPrima原子力显微镜(AFM)和S-3700N扫描电子显微镜(SEM)观察镁合金表面涂层的微观形貌。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将镁合金试样与带绝缘皮的铜导线进行焊接，然后用万用表测试导线与试样是否导通，确认导通后，用环氧树脂将镁合金试样及焊接处进行封闭，只留出一个工作面(裸露面积为 $2 . 2 5 ~ \\mathrm { m m } ^ { 2 } )$ 。使用LK-9085电化学分析仪对置于 $3 \\%$ (质量百分比)的氯化钠溶液中的空白试样和杂化涂层涂覆后的镁合金试样进行极化曲线和开路电位-时间曲线测量。电极系统采用经典三电极体系，其中参比电极为饱和甘汞电极，对电极为铂电极，工作电极为涂有溶胶-凝胶涂层的镁合金试样。极化曲线测量时设置初始电位与终止电位分别为-2V和 $0 \\mathrm { v }$ ，扫描速度为 $0 . 0 0 1 ~ \\mathrm { V / s }$ 。开路电位-时间曲线测量时设置采样间隔时间为$0 . 0 5 \\mathrm { ~ s ~ }$ ，测量时间为 $1 0 0 \\mathrm { s }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7628247444b4f3a41cecd6c90449989e8e76c5dc6411e7627b0b35add470c549.jpg",
+        "img_caption": [
+            "图1实验方案 Fig.1Experimental plan "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用TT260涂层测厚仪测量涂层厚度。用磁性和涡流两种测厚方法，可无损地测量磁性金属基体上非磁性覆盖层的厚度及非磁性金属基体上非导电覆盖层的厚度8。由于镁合金基体是非磁性的，故采用涡流法进行测量。在杂化涂层均匀选择至少三个测量点，以便计算测量值的的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用划痕法测量涂层的附着力，使用专用单刃刀片将杂化涂层划穿至镁合金基体，用软毛刷轻轻清理划痕周边，然后将试样置于奥林巴斯GX71F光学显微镜(OM)下观察划痕周边涂层的剥落和破坏状态。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果和讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在 ${ \\mathrm { K H } } 5 6 0 { \\mathrm { : T E O S } } = 3 { : } 1 { \\mathrm { , } }$ 水硅比为11.25的条件下，改变HAc的添加量 $( 0 . 3 \\mathrm { m l . 0 . 4 m l . 0 . 5 m l . 0 . 6 m l . 0 . 7 m l } . \\$ 0$\\mathrm { 0 . 8 ~ m l } ,$ 以探究pH值对镁合金表面杂化涂层各方面性能的影响。表1列出了不同冰醋酸添加量下的溶胶-凝胶具体配方参数及pH值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1涂层的形貌 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用AFM对不同pH值下在AZ31镁合金表面制备的杂化涂层的微观形貌进行观察分析，如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，当pH值在3\\~3.5时杂化涂层具有高的平整度且少缺陷；当pH值在 $2 . 2 { \\sim } 2 . 8$ 时涂层的平整度急剧下降，起伏较大，不但不能得到平整的涂层，而且涂层表面有较多的孔洞。其原因是pH值过小，溶胶与镁合金基体反应过于剧烈，制备出的涂层有大量的气泡，在升温固化阶段气泡破裂而产生孔洞。此外，pH值过小可能对已形成的涂层产生破坏作用而导致孔洞出现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图3给出了pH值为2.2时杂化涂层的SEM图像。可见孔洞密布于整个涂层的表面。这说明，镁合金与杂化溶胶反应过于剧烈，难以制备出形貌良好的涂层。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2涂层的厚度",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在不同pH值条件下制备的杂化涂层厚度，如表2所示。当 $3 { < } \\mathrm { p H } { < } 3 . 5$ 时，随着pH值的减小涂层厚度逐渐增大。在 $\\mathrm { p H } = 3$ 时涂层厚度达到最大，约为$2 2 . 1 \\ \\mu \\mathrm { m }$ ；当 $2 . 2 { < } \\mathrm { p H } { < } 3$ 时，随着溶胶酸性的增强涂层逐渐变薄；在 $\\mathrm { p H }$ 为2.2时涂层厚度达到最小，约为$1 6 . 8 \\ \\mu \\mathrm { { m } }$ 。其原因是，HAc在水解过程中有酸催化作用。当HAc的量较小时，随着HAc量的增大杂化溶胶-凝胶体系的中水解反应更加彻底，促进了反应的进行。因此，随着pH值的减小涂层越来越厚，越来越致密。但是，当pH值过低时溶胶-凝胶体系中更多的微粒自行聚集，而不是与镁合金基体反应生成涂层，使涂层的厚度减小。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3涂层的附着力",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用光学显微镜观察划痕周围涂层破碎及剥落的情况，以对不同pH值下制备的杂化涂层与镁合金基体的附着力进行评价，如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图4可以看出，当pH在3\\~3.5时，随着pH值的降低韧性和附着力逐渐增加，且涂层的厚度也随之增加；当 $\\mathrm { p H } { = } 3$ 时，涂层具有最大的厚度以及良好的韧性和附着力；当pH在2.2\\~3时，随着pH值的降低涂层的韧性和附着力下降，且涂层也逐渐变薄；当$\\mathrm { p H } { = } 2 . 2$ 时涂层的韧性和附着力变得很差，涂层薄且存在大量的孔洞。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/815bc99cd86fb09ef000387075816a2e69f58b3c3d34b40d1164138ab199e0fe.jpg",
+        "table_caption": [
+            "表1不同冰醋酸添加量下的杂化溶胶配方组成及pH值",
+            "Table1 Composition and $\\mathrm { p H }$ value of hybrid Sol system with different glacial acetic acid content "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample No.</td><td>HAc (ml)</td><td>KH560 (ml)</td><td>TEOS (ml)</td><td>HO (ml)</td><td>EtOH (ml)</td><td>pH</td></tr><tr><td>Sp1</td><td>0.3</td><td>31.05</td><td>10.05</td><td>12.15</td><td>12.23</td><td>3.5</td></tr><tr><td>Sp2</td><td>0.4</td><td>31.05</td><td>10.05</td><td>12.15</td><td>12.23</td><td>3.3</td></tr><tr><td>Sp3</td><td>0.5</td><td>31.05</td><td>10.05</td><td>12.15</td><td>12.23</td><td>3.0</td></tr><tr><td>Sp4</td><td>0.6</td><td>31.05</td><td>10.05</td><td>12.15</td><td>12.23</td><td>2.8</td></tr><tr><td>Sp5</td><td>0.7</td><td>31.05</td><td>10.05</td><td>12.15</td><td>12.23</td><td>2.5</td></tr><tr><td>Sp6</td><td>0.8</td><td>31.05</td><td>10.05</td><td>12.15</td><td>12.23</td><td>2.2</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5ac0e2ffaf7bab72554605938e84fa946c7ba6edda89a8b73ca470efa967d65.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/095fa8b89e72fe0cdb91a59bc51e13bb0da84939f0c3ab29b2671483717594e2.jpg",
+        "img_caption": [
+            "图2不同pH值下AZ31镁合金表面制备的杂化涂层的SEM图像 Fig.2 SEM image of hybrid coatings prepared at different pH value on AZ31 Mg alloy "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1e7ba305a09b4a4b26803cb1f5b460937ccd9ac27276f83f2960255407d704c.jpg",
+        "img_caption": [
+            "图 $3 \\mathrm { p H }$ 值为2.2时在AZ31镁合金表面制备的杂化涂层SEM图像 Fig.3 SEM Image of hybrid coating prepared at $\\mathrm { p H } { = } 2 . 2$ on AZ31 $\\mathbf { M g }$ alloy "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2不同pH值下在镁合金表面制备的杂化涂层的厚度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/96ed294d5f44802dc64f8559a0e5930f78f10e65d3a92988facb7ce70b8d97d7.jpg",
+        "table_caption": [
+            "Table 2 Thickness of hybrid coatings prepared at different pH value on AZ31 Mg alloy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample (No.)</td><td>Test point 1 (um)</td><td>Test point 2 (um)</td><td>Test point 3 (um)</td><td>Average value (um)</td></tr><tr><td>Sp1</td><td>14.9</td><td>15.3</td><td>16.1</td><td>15.4</td></tr><tr><td>Sp2</td><td>20.2</td><td>20.4</td><td>21.2</td><td>20.6</td></tr><tr><td>Sp3</td><td>21.9</td><td>22.1</td><td>22.3</td><td>22.1</td></tr><tr><td>Sp4</td><td>20.0</td><td>20.6</td><td>21.3</td><td>20.6</td></tr><tr><td>Sp5</td><td>19.4</td><td>19.9</td><td>20.8</td><td>20.0</td></tr><tr><td>Sp6</td><td>16.6</td><td>16.8</td><td>17.1</td><td>16.8</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca721a27191d6ca884eaca79c3113235ee5ceb47e92a3bb083d7593b2d2ec890.jpg",
+        "img_caption": [
+            "图4不同pH值时AZ31镁合金表面制备的杂化涂层上划痕光学显微镜图像 Fig.4 OM image of scratch on hybrid coatings prepared on surface of AZ31 $\\mathbf { M g }$ alloy for different pH value "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4涂层的极化曲线",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用LK9805电化学分析仪测试涂覆不同pH值有机/无机杂化涂层的镁合金试样在 $3 \\%$ 的 $\\mathrm { { N a C l } }$ 溶液中的极化曲线，结果如图5所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3列出了对极化曲线拟合后得到的自腐蚀电流密度 $( I _ { \\mathrm { c o r r } } )$ 、自腐蚀电位 $( E _ { \\mathrm { c o r r } } )$ 以及涂层的缓蚀效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5和表4可见，与空白镁合金试样相比，所有涂覆有杂化涂层的自腐蚀电位 $( E _ { \\mathrm { c o r r } } )$ 均正移。当pH介于3\\~3.5时，随着 $\\mathrm { \\ p H }$ 值的降低 $E _ { \\mathrm { c o r r } }$ 逐表3不同pH值下制备的杂化涂层极化曲线的电化学参数结果和涂层缓蚀效率",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbbab6bf0130f3b851a2eb4b1764df5ce7798e0b05dad085e576bbdcf26e00ed.jpg",
+        "img_caption": [
+            "图5镁合金表面上不同 $\\mathrm { p H }$ 值下制备的杂化涂层的极 化曲线 Fig.5 Polarization curves of hybrid coating prepared at different pH on $\\mathbf { A Z 3 1 M g }$ alloy "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/41606fbe8c496caeeda6df60e6268dfa55d1aa517204277cf2561832a63a8496.jpg",
+        "table_caption": [
+            "Table 3 Electrochemical parameters from polarization curves and corrosion inhibition efficiency of hybrid coatings prepared at different pH value "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample No.</td><td>Icorr /A·cm²</td><td>Ecor N</td><td>Inhibition efficiency/%</td></tr><tr><td>Sp1</td><td>7.93x10-4</td><td>-1.385</td><td>96.9</td></tr><tr><td>Sp2</td><td>3.12×104</td><td>-1.361</td><td>98.8</td></tr><tr><td>Sp3</td><td>7.34×105</td><td>-1.346</td><td>99.7</td></tr><tr><td>Sp4</td><td>2.81×10³</td><td>-1.419</td><td>89.1</td></tr><tr><td>Sp5</td><td>3.38x10³</td><td>-1.427</td><td>86.8</td></tr><tr><td>Sp6</td><td>1.96x10²</td><td>-1.603</td><td>23.7</td></tr><tr><td>Blank</td><td>2.57×10²</td><td>-1.756</td><td>1</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4AZ31镁合金表面不同pH值下制备的杂化涂层的开路电位",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2bf149ae606c6492bc8b1b126bbc5f93b8dcaea26870bd8b063b76e7ada37e1f.jpg",
+        "table_caption": [
+            "Table 4 Open circuit potential of hybrid coatings prepared at different pH value on AZ31 Mg alloy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Sample No.</td><td>Open circuit potential/V</td></tr><tr><td>Sp1</td><td>-1.537</td></tr><tr><td>Sp2</td><td>-1.534</td></tr><tr><td>Sp3</td><td>-1.527</td></tr><tr><td>Sp4</td><td>-1.545</td></tr><tr><td>Sp5</td><td>-1.547</td></tr><tr><td>Sp6</td><td>-1.552</td></tr><tr><td>blank</td><td>-1.710</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "渐正移。当pH值低于3时，随着pH值的降低腐蚀电位反而开始逐渐负移，当 $\\mathrm { p H } { = } 2 . 2$ 时腐蚀电位达到最负。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过对比表4中的自腐蚀电流密度可以发现：当 $\\mathrm { \\ p H }$ 值大于3时，随着 $\\mathrm { \\ p H }$ 值的降低自腐蚀电流密度减少；当 $\\mathrm { p H } = 3$ 时自腐蚀电流密度降低到最小，为$7 . 3 4 \\times 1 0 ^ { - 5 } \\mathrm { A / c m } ^ { 2 }$ ，此时涂层的耐腐蚀性最好。当pH值小于3时，随着 $\\mathrm { p H }$ 值的继续降低涂层试样的自腐蚀电流密度开始快速上升，当 $\\mathrm { p H } { = } 2 . 2$ 时自腐蚀电流密度达到最大，为 $1 . 9 6 \\times 1 0 ^ { - 2 } \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ ，此时涂层的耐腐蚀性最差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "空白镁合金试样的自腐蚀电流密度为 $2 . 5 7 \\times$ $1 0 ^ { - 2 } \\mathrm { A } / \\mathrm { c m } _ { \\circ } ^ { 2 }$ 可以计算出不同 $\\mathrm { p H }$ 值的杂化涂层对镁合金的缓蚀效率，分别为： $9 6 . 9 \\% ( \\mathrm { p H } = 3 . 5 )$ 八 $9 8 . 8 \\%$ (pH=3.3 $) , 9 9 . 7 \\% ( \\mathrm { p H } = 3 . 0 ) . 8 9 . 1 \\% ( \\mathrm { p H } = 2 . 8 ) . 8 6 . 8 \\% ( \\mathrm { p H } = 2 . 5 ) .$ （204号$2 3 . 7 \\% ( \\mathrm { p H } = 2 . 2 )$ 。当 $\\mathrm { \\ p H }$ 值在2.5-3.5时，杂化涂层有较高耐腐蚀性能，当 $\\mathrm { p H }$ 值低于2.5后涂层的耐蚀性快速下降，当 $\\mathrm { p H }$ 值降低到2.2时涂层的缓蚀效率仅有 $2 3 . 7 \\%$ ，此时制备出来的杂化涂层失去了良好的耐腐蚀性能。这一研究结果，与前面提到的涂层微观形貌和厚度分析结果可以互相验证。过多的HAc使表面产生大量的孔洞，严重降低了涂层的耐蚀性，厚度的降低，使腐蚀介质更易穿过杂化涂层，到达基体表面，在一定程度上使得涂层耐蚀性变差。因此， $\\mathrm { p H } { = } 2 . 2$ 时试样的自腐蚀电流密度明显大于其他试样。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5涂层的开路电位-时间曲线",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用LK9805电化学分析仪测量不同pH值下所制备杂化涂层的开路电位与时间曲线，结果如图6所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/036ecabf3da75b2e808e5dfd58bd9bc965e6858882e143be0d57437c6de83c72.jpg",
+        "img_caption": [
+            "由图6和表4可以看出，对于所有的pH值，制备",
+            "图6 AZ31镁合金表面不同pH值下制备的杂化涂层的 开路电位-时间曲线 Fig.6 Open circuit potential- time curves of hybrid coatings prepared at different $\\mathrm { p H }$ value on AZ31 $\\mathbf { M g }$ alloy "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "出的杂化涂层试样的开路电位都明显正于空白的镁合金试样。这从热力学角度说明了，杂化涂层对镁合金的腐蚀有显著的抑制作用。当pH介于3\\~3.5时，随着pH值的降低试样开路电位从-1.537V升高到 $- 1 . 5 2 7 \\mathrm { \\ V }$ 。当pH介于2.2\\~2.8时，随着pH值降低开路电位从-1.545V降低到了 $- 1 . 5 5 2 \\mathrm { V }$ 。这表明，随着溶胶pH值的降低表面涂覆杂化涂层的镁合金试样开路电位先增大后变小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "使用不同pH值的溶胶-凝胶，可在镁合金AZ31表面制备杂化涂层。当pH值在 $3 { \\sim } 3 . 5$ 时可制备出平整较高、缺陷较少的涂层，其附着力和厚度随着pH值的减小而逐渐增大。涂层具有较高的缓蚀效率，特别是当 $\\mathrm { p H } = 3$ 时杂化涂层具有最正的腐蚀电位，腐蚀电流密度最小，约为 $7 . 3 4 \\times 1 0 ^ { - 5 } \\mathrm { A } / \\mathrm { c m } ^ { 2 }$ 相对于空白镁合金试样的缓蚀效率达到 $9 9 . 7 \\%$ 0当pH值在2.2\\~2.8时，随着 $\\mathrm { p H }$ 值的降低涂层表面的孔洞逐渐增多，附着力、厚度以及缓蚀效率都随之降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Wei Y H,Xu B S.Theory and practice of magnesium alloy corrosion protection [M]. Beijing:Metallurgical Industry Press,2007: 4 (卫英慧，许并社.镁合金腐蚀防护的理论与实践[M].北京：冶 金工业出版社,2007:4)   \n[2] Xue JF. Corrosion Prevention Technology of Magnesium Alloy [M].Beijing:Chemical Industrial Press,2O10:10 (薛俊峰.镁合金防腐蚀技术[M].北京:化学工业出版社,2010: 10)   \n[3] Yan H. New Technology of Metal Surface Treatment [M].Beijing: Metallurgical Industry Press,1996:10 (阎洪.金属表面处理新技术[M].北京:冶金工业出版社, 1996: 10)   \n[4] Gao Z Y,Pan F S.Development of fabrication processes and adhesion measurement of functional surface coating on magnesium alloys [J].Gongneng Cailiao/journal of Functional Materials,2012, 43(14): 553 (高正源,潘复生.镁合金表面功能涂层制备与界面表征技术的 研究进展[J].功能材料,2012(12):1817)   \n[5] Gao Z, Pan F. Investigation on microstructure and mechanical properties of nano-ceramic coating on AZ31 magnesium alloys [J]. Journal of Chongqing University,2012,35(7): 67 (高正源,潘复生.AZ31镁合金表面纳米陶瓷涂层的组织与力学 性能分析[M].重庆大学学报,2012,35(7):67)   \n[6] Gao Z Y,Pan F S,Tang A T,et al. Investigation on corrosion and wear resistance of AZ31 magnesium alloy by single layer nanocrystalline $\\mathrm { A l } _ { 2 } \\mathrm { O } _ { 3 }$ thin film[J]. Journal of Functional Materials,2O13,44 (8): 1069 （高正源,潘复生,汤爱涛等.AZ31镁合金表面纳米 AlO涂层 的耐蚀耐磨性能研究[J].功能材料,2013,44(8):1069)   \n[7] Song G L. Corrosion and Protection of Magnesium Alloy [M]. Beijing: Chemical Industrial Press,2006: 6 (宋光玲.镁合金腐蚀与防护[M].北京:化学工业出版社,2006: 6   \n[8] Wu B R. Organic-inorganic Hybrid Material and Its Application [M]. Beijing: Chemical Industrial Press,2005:5 (吴壁耀,张超灿.有机-无机杂化材料及其应用[M].北京:化学 工业出版社,2005:5)   \n[9] Guo $\\boldsymbol { \\mathrm { ~ X ~ H ~ } }$ ，Effect of Sol Compositions on Corrosion Protection of SNAP Film Coated on Magnesium Aloy [J]. Chinese Journal of Inorganic Chemistry,2009,25(7):1254 (郭兴华,安茂忠,杨培霞,李海先.SNAP溶胶组成对镁合金涂 层耐蚀性的影响[J].无机化学学报,2009,25(7):1254)   \n[10] Wang HL. Study on organic inorganic hybrid materials of organicpolymer $/ \\mathrm { S i O _ { 2 } [ M ] }$ .Hefei:Hefei Industry University Press, 2007: 10 (王华林.有机聚合物/SiO有机-无机杂化材料的研究[M].合 肥:合肥工业大学出版社,2007:10)   \n[11] Zheng W T. Thin film materials and thin film technology [M]. Beijing: Chemical Industrial Press,2007:1 (郑伟涛.薄膜材料与薄膜技术[M].北京:化学工业出版社, 2007: 1)   \n[12]F.Zanotto,V.Grassi,A.Frignani,F. Zucchi.Protection of the AZ31 magnesium alloy with cerium modified silane coatings [J]. Materials Chemistry and Physics,2011,129(1-2): 1   \n[13] Lamaka SV,Montemor MF,Galio AF,etal.Novel hybrid solgel coatings for corrosion protection of AZ31B magnesium alloy [J]. Electrochimica Acta,2008,53(14): 4773   \n[14] Xu B S. Nano-surface-engineering [M]. Beijing: Chemical Industrial Press,2003: 9 (徐滨士.纳米表面工程[M].北京:化学工业出版社,2003:9)   \n[15] Wang X H,Sun Y M,Liu S H,et al.Preparation and corrosion characterization of organic-inorganic hybrid coatigns [J]. Corrosion Science & Protection Technology,2006,18(4):292 (王秀华,孙益民,刘守华等.有机-无机杂化涂层制备及耐腐蚀 性能研究[J].腐蚀科学与防护技术,2006,18(4):292)   \n[16]Zhou SH.Preparationof PDMS/SiO hybrid material and itsapplication in the protection of ancient ivory [D]. Chengdu University of Technology,2008:3 （周述慧.PDMS/SiO杂化材料的制备及其在古象牙保护中的 应用[D].成都理工大学,2008:3)   \n[17] Huang C Z,Ai X,Hou Z G,et al. Status quo in the research and application of sol-gel method[J].Materials Review,1997,11(3): 8 (黄传真,艾 兴,侯兴刚等.溶胶-凝胶法的研究和应用现状[J]. 材料导报,1997,11(3): 8)   \n[18] Bing L.Progress of Organic/Inorganic Hybrid Optical-Functional Materials Prepared by the Sol-Gel Method [J]. Progress in Chemistry, 2005(1): 85 (刘 冰,强亮生.溶胶-凝胶法制备光学杂化功能材料[J].化学 进展,2005,17(1): 85)   \n[19] Huang JF.The principle and technology of Sol-Gel [M].Beijing: Chemical Industrial Press,2005:9 (黄剑锋.溶胶-凝胶原理与技术[M].北京:化学工业出版社,2005:9)   \n[20] Gan G.Films Via Sol Gel Technique and it's Applications [J]. Journal ofKunmingUniversity Ofence & Technology,1997,22(1):143 (甘友国,郭玉忠,苏云生.溶胶-凝胶法薄膜制备工艺及其应用 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[J].昆明理工大学学报,1997,22(1):143)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21] LinB,LiuH,ZengW,etal. Study on Surface Structure and Corro-sion Resistance of AZ91 Alloy After Injecting Ion[J].Hot WorkingTechnology,2010,39(12): 117(林 波，刘洪喜，曾维华等.离子注入AZ91镁合金表面结构和耐蚀性能研究[J].热加工工艺,2010,39(12):117)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(责任编辑:黄青)",
+        "page_idx": 7
+    }
+]

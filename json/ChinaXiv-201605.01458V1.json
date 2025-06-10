@@ -1,0 +1,690 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quantitative Analysis of Differential Proteome Expression in Bladder Cancer vs. Normal Bladder Cells Using SILAC Method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ganglong Yang1, Zhipeng $\\mathsf { X } \\mathsf { u } ^ { 2 }$ ,WeiLu1, Xiang Li³,Chengwen Sun4, Jia Guo1,Peng Xue5 \\*, Feng Guan1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1The Key Laboratory of Carbohydrate Chemistry&Biotechnology,Ministryof Education,Schoolof Biotechnology,Jiangnan UniversityWuxi,China,2 ShaanxiProvincial People's Hospital,Xi'an,China, 3Wuxi Medical School,Jiangnan University,Wuxi,China,4DepartmentofUrology,AfiliatedHospitalof Jiangnan University,Wuxi,China,5 Laboratoryof Proteomics,Instituteof Biophysics,ChineseAcademyof Sciences,Beijing, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* xuepeng @moon.ibp.ac.cn (PX); fengguan@jiangnan.edu.cn (FG) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Yang G, Xu Z, Lu W,LiX, Sun C, Guo J, et al.(2015) Quantitative Analysis of Differential Proteome Expressionin Bladder Cancervs.Normal Bladder Cells Using SILAC Method.PLoS ONE 10(7):e0134727.doi:10.1371/journal.pone.0134727 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor: Jon M. Jacobs,Pacific Northwest National Laboratory, UNITED STATES ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: January 20,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: July 13,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: July 31,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Yang et al.This is an open accessarticle distributed under the terms of the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DataAvailabilityStatement:All relevantdataare within the paper files and its Supporting Information files. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding:This work was supported by the National Science Foundation for Young Scientists of China (No.81402115,81201572),the Natural Science Foundation of Jiangsu Province, China (No. BK20140172)and the 111 Project of China (No.111- 2-06).The funders had no role in study design, data collection and analysis,decision to publish,or preparation of the manuscript. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The best way to increase patient survival rate is to identify patients who are likely to progress to muscle-invasive or metastatic disease upfront and treat them more aggressively.The human cell lines HCV29 (normal bladder epithelia), KK47 (low grade nonmuscle invasive bladder cancer, NMiBC),and YTS1 (metastatic bladder cancer) have been widely used in studies of molecular mechanisms and cell signaling during bladder cancer (BC) progression. However,litle attention has been paid to global quantitative proteome analysis of these three cellines.We labeled HCV29, KK47,and YTS1 cells by the SILAC method using three stable isotopes each of arginine and lysine.Labeled proteins were analyzed by 2D ultrahighresolution liquid chromatography LTQ Orbitrap mass spectrometry. Among 3721 unique identified and annotated proteins in KK47 and YTS1 cells,36 were significantly upregulated and 74 were significantly downregulated with ${ > } 9 5 \\%$ confidence. Differential expression of these proteins was confirmed by western bloting, quantitative RT-PCR,and cell staining with specific antibodies. Gene ontology (GO) term and pathway analysis indicated that the diferentially regulated proteins were involved in DNA replicationand molecular transport, cell growth and proliferation, cellular movement, immune celltrafficking,and cell death and survival.These proteins and the advanced proteome techniques described here willbe useful for further elucidation of molecular mechanisms in BC and other types of cancer. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bladder cancer (BC) is the fifth most common type of human cancer.There were an estimated 74,690 newly diagnosed cases and 15,580 deaths from this disease in the United States in 2013 [1]. Of total BC patients, ${ > } 7 0 \\%$ have nonmuscle-invasive disease and ${ \\sim } 2 5 \\%$ present initially with muscle invasion.Patients with the muscle-invasive form have a $5 0 \\%$ risk of distant ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "metastases and a poor prognosis [2].The recurrence of superficial bladder tumors is a major reason for the worldwide prevalence of BC [3]. The majority $( 9 0 \\% )$ of BCs are classified histologically as urothelial carcinomas (UCs),derived from the bladder urothelium [4]. Bladder epithelial tissues have a clear hierarchical organization consisting of three morphologically distinct cell types: basal, intermediate,and umbrella cels, corresponding respectively to early, middle,and late differentiation states [5]. Malignant transformation may occur in each of these cell types, resulting in a diversity of tumor phenotypes [6]. According to the latest report of the American Cancer Society,the relative 5-year survival rate for BC with early detection (stage I, (T1,NO,MO)) is ${ \\sim } 8 8 \\%$ [7].Therefore,identification of novel early-stage molecular markers is desirable for improved risk stratification. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Candidate biomarkers for BC detection evaluated to date include telomerase,bladder tumor antigen (BTA), nuclear matrix protein 22 (NMP-22),and fibrin degradation product (FDP). The reliability of tests based on these biomarkers is poor because of low sensitivity and high false-positive rates [8-11]. Proteins can potentially be identified specific to aggressive or nonaggressive types of cancer. Proteome analysis is challnging because of the limited amount of available clinical sample[12]. Monitoring of the proteome of BCcels could provide additional information for clinical diagnostic purposes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recent advances in mass spectrometry (MS) for protein identification and quantification facilitate in-depth analysis of large numbers of proteins,and have been used for examination of the whole proteome in several systems.Such methods include 2D difference gel electrophoresis (2D DIGE),the similar iTRAQ (isobaric tag for relative and absolute quantitation),isotopecoded affinity tagging (ICAT),and stable isotope labeling by amino acids in cell culture (SILAC) [13-15]. In comparison with peptide-based absolute quantitation methods, SILAC has the advantages of mixing samples at the very beginning,and reduced sample-to-sample variability. Metabolic labeling with stable isotopes has been described as the \"gold standard\" in protein quantification [16]. Arginine (Arg) and lysine (Lys) are the stable isotope-labeled amino acids most frequently used in SILAC-based studies,because subsequent trypsin digestion of isolated proteins (which cleaves at basic residues)for MS analysis generates peptides with a single labeled amino acid,simplifying analysis and quantification [17].In the present study,three stable isotopes each of Arg (R0,R6,R1O) and Lys (K0,K4, K8)in three separate cultures (\"light\" (L), “medium\"(M),and “heavy\"(H)) were used to analyze proteome differences at various stages of BC.Distinctive L,M,and H forms of each peptide as detected by MS reflected relative amounts of the corresponding protein in three isotopically encoded BC cell stages. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three human cell lines were studied: normal bladder epithelial HCV29,low grade nonmuscle invasive bladder cancer (NMIBC) KK47,and metastatic muscle invasive bladder cancer YTS1.Each of the three cell lines was cultured in media added with three combinations of unlabeled Lys and Arg (\"light\"), $\\mathrm { D } _ { 4 }$ -Lys and $^ { 1 3 } { \\mathrm { C } } _ { 6 }$ -Arg(\"medium\"),and $^ { 1 3 } { \\mathrm C } _ { 6 } ^ { 1 5 } { \\mathrm N } _ { 2 }$ -Lys and $^ { 1 3 } { \\mathrm C } _ { 6 } ^ { 1 5 } { \\mathrm N } _ { 4 } .$ Arg(\"heavy\").Proteins with ${ > } 9 8 \\%$ label incorporation were analyzed and quantified by 2D-HPLC-LTQ Orbitrap MS (Fig 1).Differential expression of the identified proteins, which ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/22599879efebe82d52d0e2da74b4468bcb199ad18535cd1cd87b944f6421d40c.jpg",
+        "img_caption": [
+            "Fig 1.Schematic procedurefor quantitative analysis of proteins in BC cells vs. normal bladder cells. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g001 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "are presumably related to BC development, was confirmed by western blotting, quantitative RT-PCR,and cell staining with specific antibodies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MaterialandMethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cell culture ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HCV29,KK47,and YTS1 cells were established as described previously[18-20] and kindly donated by Dr.Sen-itiroh Hakomori (The Biomembrane Institute; Seattle,WA, USA). Cells were cultured in RPMI 1640 medium supplemented with $1 0 \\%$ FBS and $1 \\%$ penicillin/ streptomycin at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\% \\mathrm { C O } _ { 2 }$ atmosphere.For SILAC labeling,cells were cultured in SILAClabeled RPMI 1640 with $1 0 \\%$ dialyzed FBS and $1 \\%$ penicillin/ streptomycin containing \"light\"(KoR0),“medium\"(K4R6),or“heavy\"(K8R10) Lys and Arg. To prevent Arg-to-Pro conversion,L-Pro $( 2 0 0 \\mathrm { m g / L } )$ was added to the medium as described previously [21]. Cells were cultured for at least 5 passages to eliminate nonlabeled Lys and Arg. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cell lysis and protein extraction ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Total proteins of the three cell lines were lysed and extracted using T-PER Reagent (Thermo Scientific; San Jose,CA,USA) according to the manufacturer's instruction.In brief, cells $( \\sim 1 \\times 1 0 ^ { 7 } )$ were detached with trypsin, washed twice with ice-cold $1 \\times \\mathrm { P B S }$ $( 0 . 0 1 \\mathrm { M }$ phosphate buffer containing $0 . 1 5 \\mathrm { M N a C l , p H } 7 . 4 )$ ,lysed with $1 \\mathrm { m L }$ T-PER reagent containing protease inhibitors ( $1 \\mathrm { m M }$ PMSF and $0 . 1 \\%$ aprotinin),incubated for $3 0 \\mathrm { m i n }$ on ice,homogenized,and centrifuged at $1 2 , 0 0 0 \\mathrm { r p m }$ for $1 5 \\mathrm { m i n }$ .The supernatant was harvested and stored at $- 8 0 ^ { \\circ } \\mathrm { C } .$ Protein concentration was determined by BCA assay (Beyotime; Haimen, China). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SDS-PAGE and in-ge/ digestion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proteins were separated by $1 0 \\%$ SDS-PAGE,visualized by Coomassie staining for $2 \\mathrm { h r }$ ,and destained overnight.Excised gel slices were washed with $2 5 \\mathrm { m M }$ ammonium bicarbonate/ $5 0 \\%$ acetonitrile (ACN).Dried pieces were incubated with $2 0 \\mu \\mathrm { L }$ of $1 0 \\mathrm { m M }$ dithiothreitol (DTT) at $5 6 ^ { \\circ } \\mathrm { C }$ for 1 hr and then with an equal volume of $2 0 ~ \\mathrm { m M }$ iodoacetamide (IAM) at room temperature in the dark. Gel slices were washed and trypsinized with $2 0 \\mu \\mathrm { L }$ 1 $( 1 0 \\mathrm { n g / \\mu L } )$ trypsin (Promega; Madison,WI, USA) for $3 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C } .$ Excess trypsin solution was removed, $2 0 \\mu \\mathrm { L }$ of 25 mM $\\mathrm { N H _ { 4 } H C O _ { 3 } }$ was added,and the mixture was incubated overnight at $3 7 ^ { \\circ } \\mathrm { C }$ Extracted products were dried with a SpeedVac concentrator(CentriVap Cold Trap, Labconco; Kansas, MO, USA) [22]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MALDI-TOF/TOF-MS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dried samples were dissolved with $0 . 1 \\%$ trifluoroacetic acid(TFA),spotted onto an MTP AnchorChip sample target,and air-dried. Peptides were recrystallized with matrix $\\alpha$ -cyanohydroxycinnamic acid (CHCA; $1 \\mu \\mathrm { L }$ of $\\mathrm { 1 0 ~ m g / m L } ,$ andcharacterized byMALDI-TOF/TOF-MS (UltrafleXtreme, Bruker Daltonics; Bremen, Germany). Ionization was achieved by irradiation with a nitrogen laser ( $\\Lambda = 3 3 7 { \\mathrm { n m } }$ operatingat $2 0 \\mathrm { H z }$ Mass spectra were acquired using the FlexControl and FlexAnalysis software programs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In-solution digestion ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proteins from three types of stable isotope-labeled cells were mixed at 1:1:1,reduced,and alkylated by incubation with equal amounts of $1 0 \\mathrm { m M }$ DTT and $2 0 \\mathrm { m M }$ IAM. Alkylated proteins were digested by trypsin added at a ratio of 1:50 (w/w) and incubated overnight at $3 7 ^ { \\circ } \\mathrm { C }$ [23]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Total peptides were concentrated and desalted using a lOKD size-exclusion spin ultrafiltration unit and dried using a SpeedVac concentrator. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LC-MS/MS analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2D-LC-MS was performed using LTQ Orbitrap MS (Thermo Fisher Scientific; Waltham, MA, USA)as described previously [24]. Digested peptides ( $( 1 0 0 \\mu \\mathrm { g } )$ were injected into a biphasic capillary column (i.d. $2 0 0 \\mu \\mathrm { m } )$ packed with $\\mathrm { C _ { 1 8 } }$ resin (ReproSil-Pur, $5 \\mu \\mathrm { m }$ ,Dr.Maisch GmbH) and strong cation-exchange resin (Luna $5 \\mu \\mathrm { m } \\thinspace \\mathrm { S C X } \\thinspace 1 0 0 \\mathrm { A } .$ ,Phenomenex).Peptide effluents from the biphasic column at each step were directed into a $1 5 \\mathrm { - c m } \\mathrm { C } _ { 1 8 }$ analytical column (i.d. $7 5 \\mu \\mathrm { m }$ ReproSil-Pur, $3 \\mu \\mathrm { m } \\dot { }$ at flow rate $5 0 0 ~ \\mathrm { { n l / m i n } }$ . Nano-ESI was performed with spray voltage 2.0 kV and heated capillary temperature $2 0 0 ^ { \\circ } \\mathrm { C }$ .One full MS scan (300-1800) in the Orbitrap was followed by five MS/MS scans of the five most intense ions selected from the MS spectrum in LTQ. Charge state screening was enabled for $+ 2 , + 3 , + 4$ ,and above [25]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Raw MS data were analyzed using the MaxQuant software program (V.1.2.2.5) [26,27]. A false discovery rate (FDR) of 0.01 for proteins and peptides and a minimum peptide length of 6 amino acids were required. MS/MS spectra were searched by Andromeda [28] against the IPI human database (V.3.85). The MaxQuant program determined the SILAC state of peptides from mass differences between SILAC peptide pairs,and this information was used to perform searches with fixed Arg6 and Lys4 or Argl0 and Lys8 modifications, as appropriate. Quantification in MaxQuant was performed as described previously [26]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Differential regulation within each experimental $\\mathrm { { M } / L }$ (\"medium/ light\") ratio and H/L (\"heavy/ light\") ratio of the identified proteins was normalized using z-score analysis,as described previously [29,30]. In brief, $\\mathrm { { M / L } }$ and $\\mathrm { { H / L } }$ ratios were converted into log2 space,and average ratios and SD(standard deviations) were calculated for each data set. The $\\log 2 \\mathrm { M / L }$ （204号 and $\\mathrm { H } / \\mathrm { L }$ ratio of each protein were converted into a $\\mathbf { z }$ -score,using the following formula: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { = } & { { } \\frac { \\log _ { 2 } \\frac { X ( M \\mathrm { ~ \\it ~ o r ~ } \\mathrm { ~ \\it ~ H } ) } { L } [ b ] - A \\nu e r a g e \\mathrm { ~ \\it ~ o f ~ } ( \\log _ { 2 } \\mathrm { \\it ~ o f ~ } \\mathrm { \\it ~ e a c h } \\mathrm { \\it ~ n u m b e r } , \\mathrm { \\textit { a . . . n } } ) } { S t a n d a r d \\mathrm { ~ \\it ~ d e \\nu i a t i o n ~ \\ o f ~ } \\mathrm { \\it ~ ( \\log _ { 2 } \\mathrm { \\it ~ o f ~ } \\mathrm { \\it ~ e a c h } \\mathrm { \\it ~ n u m b e r } , \\mathrm { \\textit { a . . . n } } ) ~ } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where b were deemed as a single protein in a data set population (a....n). The z-score was a measure of how many SD units (o) of the $\\log 2 \\mathrm { M } / \\mathrm { L }$ or $\\mathrm { { H / L } }$ ratio of the protein was away from the population mean. A z-score $2 1 . 9 6 0 \\sigma$ represented that differential expresson of the protein lied outside the $9 5 \\%$ confidence interval, a score $2 2 . 5 7 6 \\sigma$ represented expression outside the $9 9 \\%$ confidence interval, and a score ${ \\ge } 3 . 2 9 1 \\sigma$ represented $9 9 . 9 \\%$ confidence. Z-scores $2 1 . 9 6 0 \\sigma$ were considered to be significant [29]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Functional annotation and Ingenuity Pathways Analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Identified proteins were further analyzed using the SWISS-PROT database to clasify their biological process,cellular component,and molecular function [31]. Significant over-represented gene ontology(GO) terms were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) gene bioinformatic resources [32,33].Proteins determined to be differentially regulated as described in the preceding section were tabulated in Excel and their International Protein Index (IPI) numbers were uploaded into DAVID (http://david.abcc.ncifcrf. gov/home.jsp) for functional annotation analysis.Data sets containing gene identifiers and corresponding expresson values were then uploaded into the Ingenuity Systems application. Each IPI number was mapped to its corresponding gene object in the Ingenuity Pathways Knowledge Base.Networks of the proteins were generated algorithmically based on their connectivity. Fisher's exact test was used to calculate a p-value indicating the probability that a particular biological function and/or disease assigned to that network was due to chance alone. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Western blotting ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Western blotting was performed as described previously [34].In brief, proteins were separated on $1 0 \\%$ SDS-PAGE gel, transferred onto a PVDF membrane,and the membrane was blocked using $5 \\%$ nonfat milk in TBST and probed using specific antibodies. The primary antibodies were rabbit anti-insulin-like growth factor 2 mRNA-binding protein 1 (IGF2BP1) (#AP10466b,Abgent; San Diego, CA, USA), rabbit anti-melanoma-associated antigen 4 (MAGEA4) (#AP6l66a,Abgent),rabbit anti-Thy-1 membrane glycoprotein (THY1) (#AP2050a,Abgent),14-3-3 protein sigma (SFN) (#sc-365539,Santa Cruz Biotechnology,Dallas,TX, USA),rabbit anti-fibronectin (FN1) (#F3648, Sigma-Aldrich),mouse anti-vimentin (VIM) ( $\\# \\mathrm { V } 5 2 5 5$ ,Sigma-Aldrich),CD70 antigen (CD70) (#sc-7681, Santa Cruz Biotechnology), and mouse anti- $\\beta$ -catenin(CTNNB1)( $\\yen 610153$ ,BDBiosciences; San Jose, CA,USA). The secondary antibodies were appropriate horseradish peroxidase (HRP)-conjugated rabbit antimouse or goat anti-rabbit (#A0216 and #A0208,Beyotime). Bands were visualized using an enhanced chemiluminescence detection kit (Westar Nova, Cyanagen; Bologna, Italy). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Quantitative real-time PCR ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cells ( $\\mathrm { { 1 } } \\times \\mathrm { { 1 0 } } ^ { 5 }$ per well in a 6-well plate) were cultured and treated as described above.Total RNA was isolated using an RNApure Tissue Kit (CWBiotech; Beijing, China) according to the manufacturer's instructions. Primers were designed using the DNAMAN program (V.6.0.3; Lynnon Biosoft, Canada).First-strand cDNA was synthesized from total RNA using ReverTra Ace- $\\mathbf { \\nabla } \\cdot \\mathbf { { \\vec { a } } } $ (Toyobo; Osaka, Japan). Quantitative real-time PCR was performed by LightCyclerbased SYBR Green I dye detection with UltraSYBR Mixture (CWBiotech). Gene expression was quantified by the $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ method [35]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cell staining ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cells were cultured on sterilized coverslips in 24-well plates until $7 0 \\mathrm { - } 8 0 \\%$ confluence,washed, immobilized,permeabilized with $0 . 2 \\%$ Triton X-100 for $1 0 \\mathrm { m i n }$ at room temperature,and blocked with $5 \\%$ nonfat milk overnight at $4 ^ { \\circ } \\mathrm { C } .$ . Fixed cells were incubated with diluted primary antibodies for $1 2 \\mathrm { { h r } } .$ ,incubated with FITC-labeled secondary antibodies at $4 ^ { \\circ } \\mathrm { C }$ for $6 \\mathrm { { h r } }$ in the dark,washed,stained with $4 \\mu \\mathrm { g / m L }$ DAPI at room temp for $1 0 \\mathrm { m i n }$ ,washed with $1 { \\times } \\mathrm { P B S }$ ,and photographed with a fluorescence microscope (Eclipse E6oo,Nikon; Tokyo, Japan). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Determination of isotope incorporation efficiency ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To analyze dynamic changes in BC oncogenesis at the proteome level, the SILAC method was applied to three bladder cellines to obtain labeled cell populations. Sufficient labeling is a prerequisite for reliable quantification using this method.In the case of incomplete labeling of proteins, particularly for labeling efficiency $< 9 5 \\%$ quantitation of low-abundance proteins would be masked by contaminated “light” peptides.To determine incorporation efficiency of labeled Lys and Arg,“light\"(HCV29),“medium\"(KK47),and heavy\"(YTS1) proteins were separated, and the high-abundance protein was in-gel digested. MALDI-TOF/TOF-MS results for peptide GVVDSEDLPLNISR in heat shock protein 90 (P08238) indicated that complete ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/099fe63b97ed1ae944157255509adbb80b23dfd1a63831d081ba8f0052c6446a.jpg",
+        "img_caption": [
+            "Fig 2. Mass spectrometric analysis of stable isotope-labeled proteins (SILAC method). (A) Determinationof incorporation eficiency by MALDl-TOF/TOF-MS.Peaks annotated as R0(left),R6 (middle), and R10 (right) are peptide GVVDSEDLPLNISR of heat shock protein 90 from HCV29,KK47,and YTS1 cells. (B)Identification and quantification of proteome in BC cells by 2D-HPLCLTQOrbitrap MS.Peaks annotated as Ko,K4,and K8 (left) and Ro,R6,and R10 (right)are doubly charged peptide VNQIGSVTESLQACK of alpha enolase and GGPEVQQVPAGER of fatty acid synthase. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g002 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "incorporation of isotopically labeled Arg and Lys was achieved in KK47 and YTS1,and no Arg-to-Pro conversion occurred (Fig 2A).LC-ESI-MS/MS analysis of the doubly charged peptide VNQIGSVTESLQACK of alpha-enolase (P06733) and GGPEVQQVPAGER of fatty acid synthase (P49327) showed that these doublets of actual peak clusters were from HCV29, KK47,and YTS1 cells, respectively (Fig 2B). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SILAC cell model for quantification of proteome in BC progression ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Proteins isolated from the three cell lines were mixed (1:1:1) and digested using a $1 0 \\mathrm { K D }$ filter (Millpore; Billerica,MA,USA).Peptides were analyzed by ultrahigh-resolution liquid chromatography-tandem MS (nLC-ESI-MS/MS) on a hybrid linear ion trap LTQ Orbitrap instrument. A total of 3721 unique proteins were identified in two independent replicate experiments (Fig 3A and S1 Table). Of these,1766 proteins ( $4 7 . 5 \\%$ of the total) that were identified in both experiments and satisfied the criteria established for protein quantitation were subjected to further bioinformatic analysis.The distribution histograms of log ratios for both $\\mathrm { { M / L } }$ and $\\mathrm { { H / L } }$ fit a Gaussian distribution.Most of the identified proteins were within the $\\pm 1$ range of log ratios (Fig 3C and 3D). Using 1 as the threshold log ratio, expression of 255 proteins was higher in both KK47 and HCV29,and expresson of 434 proteins was lower in both KK47 and HCV29 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/84efcfb431d6c7fc2adc1cc9b6ef5e5000b4812f24636f686ab65fda432a26c0.jpg",
+        "img_caption": [
+            "Fig3.Distributosofroteinsidentifdinvarousexperimentsdsbdinteext.)endagramofmbsofientfdprotefrom individual experiments. (B) Ratios of KK47/HCV29 (M/L) and YTS1/HCV29 $( \\mathsf { H } / \\mathsf { L } )$ for the set of 1766 proteins.log2 of the SILAC ratio for each protein $( \\mathsf { n } = 2 )$ （20 reflectsdiffeencilativeexproamo4ndcell.(C)Dstrbutioofatis.D)strtif $H / L$ ratios. (E) Clustergraph (\"heatmap\") generatedbyhierarchicalclusteringofsignificantregulatedproteinsafteraveraging z-scoresusinga $9 5 \\%$ cutoff. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g003 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(Fig 3B). Population distribution-based z-scores allowed direct comparison of proteins from different experiments.Differing confidence level cutoffs were applied to the data by z-score analysis to determine which proteins were significantly differentially regulated. The cutoffs applied were $9 5 \\%$ 0 $9 9 \\%$ and $9 9 . 9 \\%$ ,corresponding to $\\textbf { z }$ -scores of $\\pm 1 . 9 6 0$ 0 $\\pm 2 . 5 7 6$ ,and $^ { \\pm 3 . 2 9 1 }$ ， respectively. Using a $9 5 \\%$ cutoff, significant differential regulation was observed for 110 proteins in KK47 vs.HCV29 (36 upregulated,74 downregulated) and for 87 proteins in YTS1 vs. HCV29 (17 up,70 down).Differential regulation was observed for 35 proteins in the two BC lines vs. HCV29 using a $9 9 \\%$ cutoff(2 up,33 down), but for only five of these proteins using a $9 9 . 9 \\%$ cutoff (2 up,3 down) (Table 1). Tables 2 and 3 list the upregulated and downregulated proteins determined in the two experiments,with their average SILAC ratios and z-scores. All ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9f4d06938ce2b5e397d79649b9d0ae3a213436e9ede98d10275e90bbbdfb65f3.jpg",
+        "table_caption": [
+            "Table 1.Protein number,log2 ratio mean±SD,and z-scores of SILAC-labeled proteins. "
+        ],
+        "table_footnote": [
+            "Thefrstadcoduorespectivelytmbrfupreateddwegaedproteutsiddatdo "
+        ],
+        "table_body": "<html><body><table><tr><td>Cell line</td><td>Mean log 2</td><td>SD Log 2</td><td>z-scoresa</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>±1.960g</td><td>±2.576g</td><td>±3.291g</td></tr><tr><td>KK47 (M/L)</td><td>-0.072</td><td>1.237</td><td>36, 74</td><td>13, 22</td><td>7,3</td></tr><tr><td>YTS1 (H/L) Both cell lines</td><td>-0.151</td><td>1.143</td><td>17,70 2, 33</td><td>6,27 2,3</td><td>1,3 0,0</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.t001 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "proteins differentially regulated with ${ > } 9 5 \\%$ confidence had a ${ > } 5$ -fold alteration of SILAC ratios,and most proteins differentially regulated with ${ > } 9 9 \\%$ confidence had a ${ > } 1 0$ -fold alteration of SILAC ratios. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hierarchical clustering analysis of samples was performed to examine correlations of proteome patterns among the three cellines.The Cluster graph (\"heat map\") shows that samples of the same celline cluster together (Fig 3E). Some proteomes were distinctive among the three cellines based on significant alterations in metastatic vs.low grade nonmuscle invasive, whereas other proteomes were moderate and consistent. Proteins in the former group may be involved in BC development. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Functional classification and pathway analysis of identified proteins ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Functional interpretation is a crucial step in data analysis when extensive functional annotation of the data sets is not available.Taking into account their nonexclusive localization in GO,the identified proteins were linked to at least one annotation term each within the GO molecular function, biological process,and molecular component categories.The most common molecular functions were binding $( 4 7 . 2 \\% )$ ,and catalytic activity $( 3 0 . 9 \\% )$ (Fig 4A). The major biological process categories were cellular $( 1 6 . 3 \\% )$ , single-organism $( 1 4 . 2 \\% )$ ,and metabolic $( 1 3 . 8 \\% )$ （20 (Fig 4B). The major cellular component categories were cell $( 1 7 . 6 \\% )$ , cell part $( 1 7 . 6 \\% )$ ,and organelle $( 1 5 . 8 \\% )$ (Fig 4C). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To identify enrichment terms associated with the upregulated and downregulated groups of proteins after averaging of $\\textbf { z }$ -scores using the $9 5 \\%$ cutoff, lists of proteins were uploaded to the DAVID website using the complete human proteome as background. To help clarify which molecular functions and biological processes were most affected during BC maturation, overrepresented GO terms were identified based on threshold count $\\geq 2$ and Expression Analysis Systematic Explorer $( \\mathrm { E A S E } ) < 0 . 1$ .The over-represented molecular functions, biological processes,and cellular components in the significant enriched GO terms of upregulated proteins were analyzed.The most highly ranked molecular function was neutral amino acid transmembrane transporter activity (2 proteins).The most highly ranked biological processes were cellular amino acid derivative metabolic process (4 proteins),ribonucleoprotein complex biogenesis (4 proteins), response to extracellular stimulus (4 proteins),and nitrogen compound biosynthetic process (4 proteins). The most highly ranked cellular components were intracellular non-membrane-bounded organelle (14 proteins) and non-membrane-bounded organelle (14 proteins). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Next,over-represented molecular functions, biological processes,and cellular components in the significant enriched GO terms of downregulated proteins were analyzed.The most highly ranked molecular functions were calcium ion binding(16 proteins),structural molecule activity (11 proteins),and identical protein binding (10 proteins).The most highly ranked biological processes were celladhesion (14 proteins), biological adhesion (14 proteins), response ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a8e34e994e2c4630cbf3d03607fd49c243fa26252a0f272b313edf2834f6648.jpg",
+        "table_caption": [
+            "Table 2. Upregulated proteins in BC cells with $> 9 5 \\%$ confidencea. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Swiss-prot</td><td>Gene name Protein name</td><td></td><td>M/L average</td><td>H/L average</td><td>log2 M/L average</td><td>log2 H/L average</td><td>z-scores M/L</td><td>z-scores H/L</td></tr><tr><td>C9JGI3_HUMAN</td><td>TYMP</td><td>Thymidine phosphorylase</td><td>39.51</td><td>1.43</td><td>5.30</td><td>0.51</td><td>4.35</td><td>0.47</td></tr><tr><td>FOLR1_HUMAN</td><td>FOLR1</td><td>Folate receptor alpha</td><td>31.73</td><td>2.91</td><td>4.99</td><td>1.54</td><td>4.09</td><td>1.30</td></tr><tr><td>J3QRJ3_HUMAN</td><td>THY1</td><td>Thy-1 membrane glycoprotein</td><td>29.72</td><td>2.57</td><td>4.89</td><td>1.36</td><td>4.01</td><td>1.16</td></tr><tr><td>RCN3_HUMAN</td><td>RCN3</td><td>Reticulocalbin-3</td><td>23.97</td><td>3.29</td><td>4.58</td><td>1.72</td><td>3.76</td><td>1.45</td></tr><tr><td>STEA4_HUMAN</td><td>STEAP4</td><td>Metalloreductase STEAP4</td><td>23.43</td><td>4.23</td><td>4.55</td><td>2.08</td><td>3.74</td><td>1.74</td></tr><tr><td>EF1A2_HUMAN</td><td>EEF1A2</td><td> Elongation factor 1-alpha 2</td><td>17.58</td><td>0.87</td><td>4.14</td><td>-0.20</td><td>3.40</td><td>-0.10</td></tr><tr><td>1433S_HUMAN</td><td>SFN</td><td>14-3-3 protein sigma</td><td>16.87</td><td>3.27</td><td>4.08</td><td>1.71</td><td>3.35</td><td>1.44</td></tr><tr><td>DDX21_HUMAN</td><td>DDX21</td><td>Nucleolar RNA helicase 2</td><td>14.33</td><td>10.65</td><td>3.84</td><td>3.41</td><td>3.16</td><td>2.82</td></tr><tr><td>KCRB_HUMAN</td><td>CKB</td><td>Creatine kinase B-type</td><td>14.15</td><td>1.30</td><td>3.82</td><td>0.38</td><td>3.15</td><td>0.37</td></tr><tr><td>CPSM_HUMAN</td><td>CPS1</td><td>Carbamoyl-phosphate synthase [ammonia], mitochondrial</td><td>12.22</td><td>0.99</td><td>3.61</td><td>-0.01</td><td>2.98</td><td>0.05</td></tr><tr><td>MTAP_HUMAN</td><td>MTAP</td><td>S-methyl-5-thioadenosine phosphorylase</td><td>11.66</td><td>10.09</td><td>3.54</td><td>3.33</td><td>2.92</td><td>2.75</td></tr><tr><td>ASSY_HUMAN</td><td>ASS1</td><td>Argininosuccinate synthase</td><td>11.08</td><td>1.86</td><td>3.47</td><td>0.89</td><td>2.86</td><td>0.78</td></tr><tr><td>HOYDA6_HUMAN NAPRT1</td><td></td><td>Nicotinate phosphoribosyltransferase</td><td>10.23</td><td>2.82</td><td>3.35</td><td>1.49</td><td>2.77</td><td>1.27</td></tr><tr><td>1A68_HUMAN</td><td> HLA-A</td><td>HLA class I histocompatibility antigen, A- 32 alpha chain</td><td>8.34</td><td>0.44</td><td>3.06</td><td>-1.19</td><td>2.53</td><td>-0.91</td></tr><tr><td>EPIPL_HUMAN</td><td>EPPK1</td><td>Epiplakin</td><td>8.12</td><td>0.86</td><td>3.02</td><td>-0.21</td><td>2.50</td><td>-0.11</td></tr><tr><td>PGH2_HUMAN</td><td> PTGS2</td><td> Prostaglandin G/H synthase 2</td><td>7.95</td><td>1.13</td><td>2.99</td><td>0.17</td><td>2.48</td><td>0.20</td></tr><tr><td>HPDL_HUMAN</td><td> HPDL</td><td>4-hydroxyphenylpyruvate dioxygenase- like protein</td><td>7.93</td><td>1.13</td><td>2.99</td><td>0.18</td><td>2.47</td><td>0.20</td></tr><tr><td>K1C18_HUMAN</td><td>KRT18</td><td> Keratin, type I cytoskeletal 18</td><td>7.51</td><td>2.18</td><td>2.91</td><td>1.13</td><td>2.41</td><td>0.97</td></tr><tr><td>WDR3_HUMAN</td><td>WDR3</td><td>WD repeat-containing protein 3</td><td>7.26</td><td>3.36</td><td>2.86</td><td>1.75</td><td>2.37</td><td>1.47</td></tr><tr><td>PADI2_HUMAN</td><td> PADI2</td><td> Protein-Arg deiminase type-2</td><td>6.99</td><td>1.38</td><td>2.81</td><td>0.46</td><td>2.33</td><td>0.43</td></tr><tr><td>EXOS4_HUMAN</td><td>EXOSC4</td><td>Exosome complex component RRP41</td><td>6.57</td><td>3.20</td><td>2.72</td><td>1.68</td><td>2.26</td><td>1.42</td></tr><tr><td>A6PVX1_HUMAN</td><td> SELENBP1</td><td> Selenium-binding protein 1</td><td>6.41</td><td>1.04</td><td>2.68</td><td>0.06</td><td>2.23</td><td>0.10</td></tr><tr><td>KYNU_HUMAN</td><td>KYNU</td><td>Kynureninase</td><td>6.32</td><td>0.35</td><td>2.66</td><td>-1.50</td><td>2.21</td><td>-1.16</td></tr><tr><td>4F2_HUMAN</td><td>SLC3A2</td><td>4F2 cell-surface antigen heavy chain</td><td>6.24</td><td>0.88</td><td>2.64</td><td>-0.18</td><td>2.19</td><td>-0.09</td></tr><tr><td>PO210_HUMAN</td><td>NUP210</td><td>Nuclear pore membrane glycoprotein 210</td><td>6.16</td><td>1.05</td><td>2.62</td><td>0.07</td><td>2.18</td><td>0.12</td></tr><tr><td>G3V588_HUMAN</td><td> ITPK1</td><td>Inositol-tetrakisphosphate 1-kinase</td><td>6.09</td><td>1.71</td><td>2.61</td><td>0.77</td><td>2.17</td><td>0.68</td></tr><tr><td>ANM7_HUMAN</td><td>PRMT7</td><td>Protein Arg N-methyltransferase 7</td><td>5.99</td><td>2.18</td><td>2.58</td><td>1.13</td><td>2.15</td><td>0.97</td></tr><tr><td>S100P_HUMAN</td><td>S100P</td><td>Protein S100-P</td><td>5.92</td><td>0.62</td><td>2.57</td><td>-0.69</td><td>2.13</td><td>-0.50</td></tr><tr><td>B0S8I7_HUMAN</td><td>LAGE3</td><td>L antigen family member 3</td><td>5.87</td><td>4.50</td><td>2.55</td><td>2.17</td><td>2.12</td><td>1.81</td></tr><tr><td>J3QKT4_HUMAN</td><td>PYCR1</td><td>Pyrroline-5-carboxylate reductase;</td><td>5.72</td><td>2.35</td><td>2.52</td><td>1.23</td><td>2.09</td><td>1.05</td></tr><tr><td>MCMBP_HUMAN</td><td>MCMBP</td><td>Mini-chromosome maintenance complex- binding protein</td><td>5.65</td><td>4.77</td><td>2.50</td><td>2.25</td><td>2.08</td><td>1.88</td></tr><tr><td>PRI2_HUMAN</td><td> PRIM2</td><td>DNA primase large subunit</td><td> 5.47</td><td>4.59</td><td>2.45</td><td>2.20</td><td>2.04</td><td>1.84</td></tr><tr><td>K1C17_HUMAN</td><td>KRT17</td><td>Keratin, type I cytoskeletal 17</td><td>5.39</td><td>0.89</td><td>2.43</td><td>-0.16</td><td>2.02</td><td>-0.07</td></tr><tr><td>LAT1_HUMAN</td><td>SLC7A5</td><td>Large neutral amino acids transporter small subunit 1</td><td>5.35</td><td>1.27</td><td>2.42</td><td>0.34</td><td>2.01</td><td>0.34</td></tr><tr><td>MYPN_HUMAN</td><td>MYPN</td><td> Myopalladin</td><td>5.34</td><td>0.88</td><td>2.42</td><td>-0.19</td><td>2.01</td><td>-0.09</td></tr><tr><td>NPM3_HUMAN</td><td>NPM3</td><td>Nucleoplasmin-3</td><td>5.29</td><td>3.29</td><td>2.40</td><td>1.72</td><td>2.00</td><td>1.45</td></tr><tr><td>UHRF1_HUMAN</td><td>UHRF1</td><td>E3 ubiquitin-protein ligase UHRF1</td><td>4.98</td><td>5.13</td><td>2.32</td><td>2.36</td><td>1.93</td><td>1.97</td></tr><tr><td>ITA6_HUMAN</td><td> ITGA6</td><td>Integrin alpha-6</td><td> 4.58</td><td>12.65</td><td>2.19</td><td>3.66</td><td>1.83</td><td>3.02</td></tr><tr><td>CND3_HUMAN</td><td>NCAPG</td><td>Condensin complex subunit 3</td><td>4.04</td><td>5.67</td><td>2.01</td><td>2.50</td><td>1.69</td><td>2.08</td></tr><tr><td>UBS3B_HUMAN</td><td>UBASH3B</td><td>Ubiquitin-associated and SH3 domain- containing protein B</td><td>3.88</td><td>6.30</td><td>1.96</td><td>2.66</td><td>1.64</td><td>2.21</td></tr><tr><td>E9PD53_HUMAN</td><td> SMC4</td><td>Structural maintenance of chromosomes protein</td><td>3.51</td><td>5.72</td><td>1.81</td><td>2.52</td><td>1.52</td><td>2.09</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(Continued) ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/26f65cf018b972469e9b6a2225c041fcad51e9d1a116ddd4e3a9e9636e8bf476.jpg",
+        "table_caption": [
+            "Table 2. (Continued) "
+        ],
+        "table_footnote": [
+            "'Proteins shown have at least one z-score value (M/L or $H / L$ ） $= 1 . 9 6 0 \\sigma$ in two biological replicates. "
+        ],
+        "table_body": "<html><body><table><tr><td>Swiss-prot</td><td>Gene name Protein name</td><td></td><td>M/L average</td><td>H/L average</td><td>log2 M/L average</td><td>log2 H/L average</td><td>z-scores M/L</td><td>z-scores H/L</td></tr><tr><td>KIF4A_HUMAN</td><td>KIF4A</td><td>Chromosome-associated kinesin KIF4A</td><td>3.26</td><td>6.56</td><td>1.70</td><td>2.71</td><td>1.44</td><td>2.25</td></tr><tr><td>MRP_HUMAN</td><td></td><td>MARCKSL1 MARCKS-related protein</td><td>2.74</td><td>5.39</td><td>1.45</td><td>2.43</td><td>1.23</td><td>2.02</td></tr><tr><td>CTRO_HUMAN</td><td>CIT</td><td>Citron Rho-interacting kinase</td><td>2.66</td><td>5.31</td><td>1.41</td><td>2.41</td><td>1.20</td><td>2.01</td></tr><tr><td>CIP2A_HUMAN</td><td>KIAA1524</td><td>Protein CIP2A</td><td>1.87</td><td>5.15</td><td>0.90</td><td>2.36</td><td>0.79</td><td>1.97</td></tr><tr><td>MAGA4_HUMAN</td><td>MAGEA4</td><td>Melanoma-associated antigen 4</td><td>1.48</td><td>17.47</td><td>0.56</td><td>4.13</td><td>0.51</td><td>3.40</td></tr><tr><td>PLEK2_HUMAN</td><td>PLEK2</td><td> Pleckstrin-2</td><td>0.98</td><td>5.95</td><td>-0.02</td><td>2.57</td><td>0.04</td><td>2.14</td></tr><tr><td>AL1A3_HUMAN</td><td>ALDH1A3</td><td>Aldehyde dehydrogenase family 1 member A3</td><td>0.93</td><td>13.75</td><td>-0.11</td><td>3.78</td><td>-0.03</td><td>3.12</td></tr><tr><td>RGS10_HUMAN</td><td>RGS10</td><td>Regulator of G-protein signaling 10</td><td>0.79</td><td>6.50</td><td>-0.34</td><td>2.70</td><td>-0.22</td><td>2.24</td></tr><tr><td>E41L3_HUMAN</td><td>EPB41L3</td><td>Band 4.1-like protein 3</td><td>0.72</td><td>6.54</td><td>-0.47</td><td>2.71</td><td>-0.33</td><td>2.25</td></tr><tr><td>UCHL1_HUMAN</td><td>UCHL1</td><td>Ubiquitin carboxyl-terminal hydrolase isozyme L1</td><td>0.42</td><td>9.45</td><td> -1.25</td><td>3.24</td><td>-0.95</td><td>2.68</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.t002 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "to wounding (13 proteins),and immune response (13 proteins).The most highly ranked cellular components were plasma membrane (40 proteins), plasma membrane part (30 proteins), and non-membrane-bounded organelle (24 proteins) (S2 Table). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Proteins were further analyzed,and metabolic and canonical pathways and interconnecting proteins were generated, using Ingenuity Pathways Analysis (IngenuityH Systems, www. ingenuity.com). The top network functions identified as upregulated proteins in BC cells were involved in DNA replication,amino acid metabolism, molecular transport (52 proteins; Fig 5A), gene expression and hereditary disorders (33 proteins),cell growth and proliferation (20 proteins; Fig 5B),and post-translational modification and cancer (4 proteins). The top network functions identified as downregulated proteins in BC cells were cellular movement and immune celltraficking (97 proteins; Fig 5C),lipid metabolism (31 proteins; Fig 5D),cellular development, growth and proliferation,and cell death and survival (6 proteins). These findings indicate that BC cell proteomes were continuously shifting depending on the stage of cell metastasis. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Confirmation of MS results by western blotting ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Variations of the differential proteins described above were confirmed by western blotting. THY1,MAGEA4,IGF2BP1 and SFN were detected at higher levels in BC KK47 and YTS1 cells than in normal bladder epithelial HCV29 cels, whereas VIM, CTNNB1,FN1 and CD70 were detected at lower levels in KK47 and YTS1 than in HCV29 (Fig 6B and 6C). In general, the western blotting results were consistent with the variables from MS analysis (Fig 6A; S1 Table and S1 Fig). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Confirmation of SILAC results by qRT-PCR ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The expression of six responding genes at the transcriptional level was evaluated by qRT-PCR. In BC KK47 and YTS1 cells,expression of MAGEA4, THY1,and IGF2BP1 was significantly increased, whereas that of VIM, CTNNB1,and FN1 was greatly reduced (Fig 6D).These findings are consistent with SILAC results. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/e4e32f89b8db66063101ceb03ca23aff6e9ffa92072a83b7bad5485e52ce0451.jpg",
+        "table_caption": [
+            "Table 3. Downregulated proteins in BC cells with $> 9 5 \\%$ confidencea. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Swiss-prot</td><td>Gene name</td><td>Protein name</td><td>M/L average</td><td>H/L average</td><td>log2 M/L average</td><td>log2 H/L average</td><td>z-scores M/L</td><td>z-scores H/L</td></tr><tr><td>1C07_HUMAN</td><td>HLA-C</td><td>HLA class I histocompatibility antigen</td><td>0.17</td><td>0.02</td><td>-2.53</td><td>-6.05</td><td>-1.99</td><td>-4.83</td></tr><tr><td>A8MUB1_HUMAN</td><td>TUBA4A</td><td>Tubulin alpha-4A chain</td><td>0.35</td><td>0.09</td><td>-1.51</td><td>-3.42</td><td>-1.16</td><td>-2.70</td></tr><tr><td>AL1B1_HUMAN</td><td>ALDH1B1</td><td>Aldehyde dehydrogenase X, mitochondrial 0.11</td><td></td><td>0.10</td><td>-3.14</td><td>-3.34</td><td>-2.48</td><td>-2.64</td></tr><tr><td>ALDR_HUMAN</td><td>AKR1B1</td><td>Aldose reductase</td><td>0.11</td><td>0.04</td><td>-3.13</td><td>-4.58</td><td>-2.48</td><td>-3.65</td></tr><tr><td>ANO10_HUMAN</td><td>ANO10</td><td>Anoctamin-10</td><td>0.16</td><td>0.17</td><td>-2.65</td><td>-2.53</td><td>-2.09</td><td>-1.99</td></tr><tr><td>ARMC9_HUMAN</td><td>ARMC9</td><td> LisH domain-containing protein ARMC9</td><td>0.16</td><td>0.12</td><td>-2.67</td><td>-3.10</td><td>-2.10</td><td>-2.45</td></tr><tr><td>ASC_HUMAN</td><td>PYCARD</td><td>Apoptosis-associated speck-like protein containing a CARD</td><td>0.15</td><td>0.38</td><td>-2.72</td><td>-1.39</td><td>-2.14</td><td>-1.06</td></tr><tr><td>AT2B4_HUMAN</td><td>ATP2B4</td><td>Plasma membrane calcium-transporting ATPase 4</td><td>0.16</td><td>0.06</td><td>-2.65</td><td>-3.96</td><td>-2.08</td><td>-3.15</td></tr><tr><td>B2MG_HUMAN</td><td>B2M</td><td>Beta-2-microglobulin</td><td>0.42</td><td>0.10</td><td>-1.24</td><td>-3.29</td><td>-0.95</td><td>-2.60</td></tr><tr><td>BCAT1_HUMAN</td><td>BCAT1</td><td>Branched-chain-amino-acid aminotransferase, cytosolic</td><td>0.09</td><td>0.57</td><td>-3.41</td><td>-0.80</td><td>-2.70</td><td>-0.59</td></tr><tr><td>BIN1_HUMAN</td><td>BIN1</td><td>Myc box-dependent-interacting protein 1</td><td>0.21</td><td>0.12</td><td>-2.22</td><td>-3.09</td><td>-1.74</td><td>-2.44</td></tr><tr><td>CATB_HUMAN</td><td>CTSB</td><td>Cathepsin B</td><td>0.07</td><td>0.37</td><td>-3.84</td><td>-1.45</td><td>-3.05</td><td>-1.11</td></tr><tr><td>CAV1_HUMAN</td><td>CAV1</td><td>Caveolin-1;Caveolin</td><td>0.16</td><td>0.38</td><td>-2.68</td><td>-1.40</td><td>-2.11</td><td>-1.08</td></tr><tr><td>CBPA4_HUMAN</td><td>CPA4</td><td> Carboxypeptidase A4</td><td>0.11</td><td>0.08</td><td>-3.18</td><td>-3.73</td><td>-2.51</td><td>-2.96</td></tr><tr><td>CD70_HUMAN</td><td>CD70</td><td>CD70 antigen</td><td>0.16</td><td>0.10</td><td>-2.65</td><td>-3.26</td><td>-2.09</td><td>-2.58</td></tr><tr><td>CD97_HUMAN</td><td>CD97</td><td>CD97 antigen</td><td>1.98</td><td>0.17</td><td>0.99</td><td>-2.59</td><td>0.86</td><td>-2.04</td></tr><tr><td>CD99_HUMAN</td><td>CD99</td><td>CD99 antigen</td><td>0.14</td><td>0.82</td><td>-2.84</td><td>-0.28</td><td>-2.24</td><td>-0.17</td></tr><tr><td>CKAP4_HUMAN</td><td>CKAP4</td><td>Cytoskeleton-associated protein 4</td><td>0.16</td><td>0.23</td><td>-2.64</td><td>-2.12</td><td>-2.07</td><td>-1.66</td></tr><tr><td>CNN3_HUMAN</td><td>CNN3</td><td>Calponin-3</td><td>0.11</td><td>0.42</td><td>-3.25</td><td>-1.25</td><td>-2.57</td><td>-0.95</td></tr><tr><td>CO3_HUMAN</td><td>C3</td><td>Complement C3</td><td>0.84</td><td>0.15</td><td>-0.26</td><td>-2.77</td><td>-0.15</td><td>-2.18</td></tr><tr><td>CO6A2_HUMAN</td><td>COL6A2</td><td>Collagen alpha-2(Vl) chain</td><td>0.07</td><td>0.26</td><td>-3.81</td><td>-1.96</td><td>-3.02</td><td>-1.52</td></tr><tr><td>CO6A3_HUMAN</td><td>COL6A3</td><td>Collagen alpha-3(Vl) chain</td><td>0.12</td><td>0.17</td><td>-3.11</td><td>-2.56</td><td>-2.46</td><td>-2.01</td></tr><tr><td>CO7A1_HUMAN</td><td>COL7A1</td><td>Collagen alpha-1(VIl) chain</td><td>0.34</td><td>0.10</td><td>-1.56</td><td>-3.39</td><td>-1.20</td><td>-2.68</td></tr><tr><td>COPZ2_HUMAN</td><td>COPZ2</td><td>Coatomer subunit zeta-2</td><td>0.06</td><td>0.02</td><td>-4.07</td><td>-5.47</td><td>-3.23</td><td>-4.37</td></tr><tr><td>CPPED_HUMAN</td><td>CPPED1</td><td>Calcineurin-like phosphoesterase domain- containing protein 1</td><td>0.10</td><td>0.11</td><td>-3.33</td><td>-3.15</td><td>-2.63</td><td>-2.49</td></tr><tr><td>D6RJ89_HUMAN</td><td>ACOX3</td><td>Peroxisomal acyl-coenzyme A oxidase 3</td><td>0.18</td><td>0.12</td><td>-2.44</td><td>-3.07</td><td>-1.92</td><td>-2.43</td></tr><tr><td>DCBD2_HUMAN</td><td>DCBLD2</td><td>Discoidin, CUB and LCCL domain- containing protein 2</td><td>0.29</td><td>0.16</td><td>-1.77</td><td>-2.68</td><td>-1.38</td><td>-2.11</td></tr><tr><td>DOP2_HUMAN</td><td>DOPEY2</td><td> Protein dopey-2</td><td>0.06</td><td>0.28</td><td>-4.03</td><td>-1.82</td><td>-3.20</td><td>-1.42</td></tr><tr><td>DPYL3_HUMAN</td><td>DPYSL3</td><td>Dihydropyrimidinase-related protein 3</td><td>0.10</td><td>0.40</td><td>-3.27</td><td>-1.31</td><td>-2.59</td><td>-1.00</td></tr><tr><td>E7EUD0_HUMAN ES8L2_HUMAN</td><td>DKK3 EPS8L2</td><td>Dickkopf-related protein 3 Epidermal growth factor receptor kinase</td><td>0.17 0.34</td><td>0.20 0.09</td><td>-2.57 -1.56</td><td>-2.34 -3.47</td><td>-2.02 -1.20</td><td>-1.83</td></tr><tr><td></td><td></td><td> substrate 8-like protein 2</td><td></td><td></td><td></td><td></td><td></td><td>-2.75</td></tr><tr><td>F5GY03_HUMAN F8WCU2_HUMAN FKBP7</td><td> SPARC</td><td>SPARC</td><td>0.12</td><td>0.15</td><td>-3.01</td><td>-2.76</td><td>-2.38</td><td>-2.17</td></tr><tr><td></td><td></td><td>Peptidyl-prolyl cis-trans isomerase</td><td>0.16</td><td>0.19</td><td>-2.67</td><td>-2.38</td><td>-2.10</td><td>-1.87</td></tr><tr><td>FA49A_HUMAN</td><td>FAM49A</td><td>Protein FAM49A</td><td>0.13</td><td>0.14</td><td>-2.96</td><td>-2.83</td><td>-2.34</td><td>-2.23</td></tr><tr><td>FHL1_HUMAN</td><td>FHL1</td><td> Four and a half LIM domains protein 1</td><td>0.13</td><td>0.09</td><td>-2.89</td><td>-3.55</td><td>-2.28</td><td>-2.81</td></tr><tr><td>FHL2_HUMAN</td><td>FHL2</td><td>Four and a half LIM domains protein 2</td><td>0.14</td><td>0.17</td><td>-2.88</td><td>-2.58</td><td>-2.27</td><td>-2.03</td></tr><tr><td>FINC_HUMAN</td><td>FN1</td><td>Fibronectin</td><td>0.11</td><td>0.13</td><td>-3.25</td><td>-2.96</td><td>-2.57</td><td>-2.33</td></tr><tr><td>FKB10_HUMAN</td><td>FKBP10</td><td>Peptidyl-prolyl cis-trans isomerase FKBP10</td><td>0.67</td><td>0.07</td><td>-0.57</td><td>-3.80</td><td>-0.40</td><td>-3.01</td></tr><tr><td>FLNC_HUMAN</td><td>FLNC</td><td>Filamin-C</td><td>0.17</td><td>2.65</td><td>-2.59</td><td>1.41</td><td>-2.03</td><td>1.19</td></tr><tr><td>FPRP_HUMAN</td><td>PTGFRN</td><td>Prostaglandin F2 receptor negative regulator</td><td>0.25</td><td>0.06</td><td>-1.99</td><td>-4.09</td><td>-1.55</td><td>-3.25</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(Continued) ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a50b4a89e63922bc4be60f124019e421abe14f98238b0eccf33b0f923919e13.jpg",
+        "table_caption": [
+            "Table 3. (Continued) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Swiss-prot</td><td>Gene name</td><td>Protein name</td><td>M/L average</td><td>H/L average</td><td>log2 M/L average</td><td>log2 H/L average</td><td>z-scores M/L</td><td>z-scores H/L</td></tr><tr><td>FUCO_HUMAN</td><td>FUCA1</td><td>Tissue alpha-L-fucosidase</td><td>0.14</td><td>0.16</td><td>-2.82</td><td>-2.60</td><td>-2.22</td><td>-2.05</td></tr><tr><td>G3V2M6_HUMAN</td><td> STAT2</td><td>Signal transducer and activator of transcription 2</td><td>0.19</td><td>0.17</td><td>-2.41</td><td>-2.52</td><td>-1.89</td><td>-1.98</td></tr><tr><td>GABT_HUMAN</td><td> ABAT</td><td>4-aminobutyrate aminotransferase, mitochondrial</td><td>0.03</td><td>0.15</td><td>-5.07</td><td>-2.72</td><td>-4.04</td><td>-2.14</td></tr><tr><td>GBP1_HUMAN</td><td>GBP1</td><td>Interferon-induced guanylate-binding protein 1</td><td>0.12</td><td>0.13</td><td>-3.09</td><td>-2.93</td><td>-2.44</td><td>-2.31</td></tr><tr><td>GBP2_HUMAN</td><td>GBP2</td><td>Interferon-induced guanylate-binding protein 2</td><td>0.09</td><td>0.12</td><td>-3.46</td><td>-3.09</td><td>-2.74</td><td>-2.44</td></tr><tr><td>GELS_HUMAN</td><td>GSN</td><td>Gelsolin</td><td>0.11</td><td>0.25</td><td>-3.14</td><td>-1.99</td><td>-2.48</td><td></td></tr><tr><td>GLSK_HUMAN</td><td>GLS</td><td>Glutaminase kidney isoform, mitochondrial 0.17</td><td></td><td>0.37</td><td>-2.53</td><td>-1.43</td><td>-1.99</td><td>-1.55 -1.10</td></tr><tr><td>GPX1_HUMAN</td><td>GPX1</td><td>Glutathione peroxidase 1</td><td>0.74</td><td>0.11</td><td>-0.44</td><td>-3.14</td><td>-0.30</td><td>-2.48</td></tr><tr><td>H0Y8D1_HUMAN</td><td>PRSS1</td><td>Trypsin-1</td><td>0.05</td><td>0.06</td><td>-4.22</td><td>-4.01</td><td>-3.36</td><td>-3.18</td></tr><tr><td>H0YGX7_HUMAN</td><td>ARHGDIB</td><td>Rho GDP-dissociation inhibitor 2</td><td>0.09</td><td>1.91</td><td>-3.40</td><td>0.93</td><td>-2.69</td><td>0.81</td></tr><tr><td>H7C2T5_HUMAN</td><td>POFUT2</td><td> GDP-fucose protein O-fucosyltransferase</td><td>0.13</td><td>0.31</td><td>-2.91</td><td>-1.67</td><td>-2.30</td><td>-1.29</td></tr><tr><td>H7C5L1_HUMAN</td><td>2 PTGES2</td><td>Prostaglandin E synthase 2</td><td>1.46</td><td>0.12</td><td>0.55</td><td>-3.11</td><td>0.50</td><td>-2.46</td></tr><tr><td>HM13_HUMAN</td><td>HM13</td><td>Minor histocompatibility antigen H13</td><td>0.17</td><td>0.26</td><td>-2.52</td><td>-1.95</td><td>-1.98</td><td>-1.52</td></tr><tr><td>HYEP_HUMAN</td><td>EPHX1</td><td>Epoxide hydrolase 1</td><td>0.26</td><td>0.13</td><td>-1.93</td><td>-2.96</td><td>-1.50</td><td>-2.34</td></tr><tr><td>ICAM1_HUMAN</td><td>ICAM1</td><td>Intercellular adhesion molecule 1</td><td>0.58</td><td>0.13</td><td>-0.80</td><td>-2.91</td><td>-0.58</td><td>-2.30</td></tr><tr><td>ITA3_HUMAN</td><td>ITGA3</td><td> Integrin alpha-3</td><td>0.13</td><td>0.19</td><td>-2.90</td><td>-2.39</td><td>-2.29</td><td>-1.87</td></tr><tr><td>ITAV_HUMAN</td><td>ITGAV</td><td>Integrin alpha-V</td><td>0.12</td><td>0.13</td><td>-3.05</td><td>-2.90</td><td>-2.41</td><td>-2.29</td></tr><tr><td>ITPR3_HUMAN</td><td> ITPR3</td><td> Inositol 1,4,5-trisphosphate receptor type 3 0.30</td><td></td><td>0.11</td><td>-1.76</td><td>-3.15</td><td>-1.36</td><td>-2.49</td></tr><tr><td>JAM1_HUMAN</td><td>F11R</td><td>Junctional adhesion molecule A</td><td>0.06</td><td>0.08</td><td>-4.09</td><td>-3.63</td><td>-3.25</td><td>-2.87</td></tr><tr><td>K1C10_HUMAN</td><td>KRT10</td><td>Keratin, type I cytoskeletal 10</td><td>0.13</td><td>0.12</td><td>-2.95</td><td>-3.06</td><td>-2.33</td><td>-2.41</td></tr><tr><td>K1C9_HUMAN</td><td> KRT9</td><td>Keratin, type I cytoskeletal 9</td><td>0.13</td><td>0.09</td><td>-2.89</td><td>-3.49</td><td>-2.28</td><td>-2.76</td></tr><tr><td>K2C1_HUMAN</td><td> KRT1</td><td>Keratin, type Il cytoskeletal 1</td><td>0.12</td><td>0.11</td><td>-3.07</td><td>-3.12</td><td>-2.42</td><td>-2.47</td></tr><tr><td>K7ENN8_HUMAN</td><td>TRIM16</td><td>Tripartite motif-containing protein 16</td><td>0.21</td><td>0.11</td><td>-2.22</td><td>-3.21</td><td>-1.74</td><td>-2.54</td></tr><tr><td>L1CAM_HUMAN</td><td>L1CAM</td><td>Neural cell adhesion molecule L1</td><td>0.43</td><td>0.10</td><td>-1.22</td><td>-3.33</td><td>-0.92</td><td>-2.63</td></tr><tr><td>LAMB1_HUMAN</td><td> LAMB1</td><td>Laminin subunit beta-1</td><td>0.16</td><td>1.20</td><td>-2.64</td><td>0.27</td><td>-2.08</td><td>0.27</td></tr><tr><td>LASP1_HUMAN</td><td> LASP1</td><td>LIM and SH3 domain protein 1</td><td>0.16</td><td>0.18</td><td>-2.69</td><td>-2.44</td><td>-2.12</td><td>-1.91</td></tr><tr><td>LEG3_HUMAN</td><td>LGALS3</td><td>Galectin-3</td><td>0.71</td><td>0.09</td><td>-0.49</td><td>-3.55</td><td>-0.34</td><td>-2.81</td></tr><tr><td>LRP1_HUMAN</td><td>LRP1</td><td>Prolow-density lipoprotein receptor-related protein 1</td><td>0.20</td><td>0.12</td><td>-2.33</td><td>-3.01</td><td>-1.83</td><td>-2.38</td></tr><tr><td>MAOX_HUMAN</td><td>ME1</td><td>NADP-dependent malic enzyme;Malic enzyme</td><td>0.31</td><td>0.11</td><td>-1.67</td><td>-3.23</td><td>-1.29</td><td>-2.55</td></tr><tr><td>MAP1B_HUMAN</td><td>MAP1B</td><td>Microtubule-associated protein 1B</td><td>0.09</td><td>0.24</td><td>-3.44</td><td>-2.09</td><td>-2.72</td><td>-1.63</td></tr><tr><td>MICA2_HUMAN</td><td> MICAL2</td><td>Protein-methionine sulfoxide oxidase MICAL2</td><td>0.18</td><td>0.26</td><td>-2.51</td><td>-1.95</td><td>-1.97</td><td>-1.52</td></tr><tr><td>ML12A_HUMAN</td><td>MYL12A</td><td>Myosin regulatory light chain 12A</td><td>0.09</td><td>0.19</td><td>-3.43</td><td>-2.41</td><td>-2.71</td><td>-1.89</td></tr><tr><td>MMP14_HUMAN</td><td>MMP14</td><td>Matrix metalloproteinase-14</td><td>0.10</td><td>0.27</td><td>-3.34</td><td>-1.88</td><td>-2.64</td><td>-1.46</td></tr><tr><td>MOT4_HUMAN</td><td>SLC16A3</td><td>Monocarboxylate transporter 4</td><td>0.72</td><td>0.06</td><td>-0.47</td><td>-4.00</td><td>-0.32</td><td>-3.17</td></tr><tr><td>MYH9_HUMAN</td><td>MYH9</td><td>Myosin-9</td><td>0.13</td><td>0.22</td><td>-2.97</td><td>-2.17</td><td>-2.34</td><td>-1.70</td></tr><tr><td>MYL9_HUMAN</td><td>MYL9</td><td>Myosin regulatory light polypeptide 9</td><td>0.11</td><td>0.16</td><td>-3.19</td><td>-2.67</td><td>-2.52</td><td>-2.10</td></tr><tr><td>NIBAN_HUMAN</td><td>FAM129A</td><td>Protein Niban</td><td>0.13</td><td>1.19</td><td>-2.94</td><td>0.25</td><td>-2.32</td><td>0.26</td></tr><tr><td>NMES1_HUMAN</td><td>NMES1</td><td>Normal mucosa of esophagus-specific gene 1 protein</td><td>0.40</td><td>0.06</td><td>-1.33</td><td>-3.95</td><td>-1.02</td><td>-3.14</td></tr><tr><td>NXP20_HUMAN</td><td>FAM114A1</td><td>Protein NOXP20</td><td>0.23</td><td>0.15</td><td>-2.14</td><td>-2.73</td><td>-1.68</td><td>-2.15</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(Continued) ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/5accbf0c071266d757335ecffa87854fe8ba7c7cde14b8ba2ef3ff67419be316.jpg",
+        "table_caption": [
+            "Table 3. (Continued) "
+        ],
+        "table_footnote": [
+            "aProteins shown have at least one z-score value (M/L or $H / L$ ） $= 1 . 9 6 0 \\sigma$ in two biological replicates. "
+        ],
+        "table_body": "<html><body><table><tr><td>Swiss-prot</td><td>Gene name</td><td>Protein name</td><td>M/L average</td><td>H/L average</td><td>log2 M/L average</td><td>log2 H/L average</td><td>z-scores M/L</td><td>z-scores H/L</td></tr><tr><td>OAS3_HUMAN</td><td>OAS3</td><td>2-5-oligoadenylatesynthase3</td><td>0.25</td><td>0.16</td><td>-2.02</td><td>-2.63</td><td>-1.58</td><td>-2.07</td></tr><tr><td>PAI2_HUMAN</td><td>SERPINB2</td><td>Plasminogen activator inhibitor 2</td><td>0.08</td><td>0.42</td><td>-3.64</td><td>-1.25</td><td>-2.88</td><td>-0.95</td></tr><tr><td>PDLI1_HUMAN</td><td>PDLIM1</td><td>PDZ and LIM domain protein 1</td><td>0.15</td><td>0.39</td><td>-2.76</td><td>-1.35</td><td>-2.18</td><td>-1.03</td></tr><tr><td>PEA15_HUMAN</td><td>PEA15</td><td>Astrocytic phosphoprotein PEA-15</td><td>0.15</td><td>0.37</td><td>-2.74</td><td>-1.43</td><td>-2.16</td><td>-1.10</td></tr><tr><td>PLSL_HUMAN</td><td>LCP1</td><td>Plastin-2</td><td>0.11</td><td>0.06</td><td>-3.20</td><td>-3.95</td><td>-2.53</td><td>-3.13</td></tr><tr><td>PML_HUMAN</td><td>PML</td><td>Protein PML</td><td>0.14</td><td>0.15</td><td>-2.79</td><td>-2.70</td><td>-2.20</td><td>-2.13</td></tr><tr><td>PNKD_HUMAN</td><td>PNKD</td><td>Probable hydrolase PNKD</td><td>0.18</td><td>0.14</td><td>-2.48</td><td>-2.84</td><td>-1.95</td><td>-2.24</td></tr><tr><td>PPGB_HUMAN</td><td>CTSA</td><td>Lysosomal protective protein</td><td>0.17</td><td>0.28</td><td>-2.58</td><td>-1.84</td><td>-2.03</td><td>-1.43</td></tr><tr><td>PTRF_HUMAN</td><td> PTRF</td><td>Polymerase l and transcript release factor</td><td>0.15</td><td>0.53</td><td>-2.74</td><td>-0.91</td><td>-2.16</td><td>-0.68</td></tr><tr><td>Q5RHS7_HUMAN S100A2</td><td></td><td>Protein S100-A2</td><td>1.27</td><td>0.17</td><td>0.35</td><td>-2.59</td><td>0.34</td><td>-2.04</td></tr><tr><td>RAI14_HUMAN</td><td>RAI14</td><td>Ankycorbin</td><td>0.14</td><td>0.43</td><td>-2.87</td><td>-1.21</td><td>-2.26</td><td>-0.92</td></tr><tr><td>RCN1_HUMAN</td><td>RCN1</td><td>Reticulocalbin-1</td><td>0.46</td><td>0.16</td><td>-1.11</td><td>-2.67</td><td>-0.84</td><td>-2.10</td></tr><tr><td>RGPS2_HUMAN</td><td>RALGPS2</td><td>Ras-specific guanine nucleotide-releasing factor RalGPS2</td><td>0.10</td><td>0.40</td><td>-3.32</td><td>-1.32</td><td>-2.63</td><td>-1.01</td></tr><tr><td>S10A6_HUMAN</td><td>S100A6</td><td>Protein S100-A6</td><td>0.31</td><td>0.07</td><td>-1.71</td><td>-3.91</td><td>-1.32</td><td>-3.10</td></tr><tr><td>SAMH1_HUMAN</td><td>SAMHD1</td><td>SAM domain and HD domain-containing protein 1</td><td>0.35</td><td>0.11</td><td>-1.53</td><td>-3.21</td><td>-1.18</td><td>-2.54</td></tr><tr><td>SELM_HUMAN</td><td>SELM</td><td>Selenoprotein M</td><td>0.72</td><td>0.14</td><td>-0.48</td><td>-2.81</td><td>-0.33</td><td>-2.21</td></tr><tr><td>SERPH_HUMAN</td><td>SERPINH1</td><td>Serpin H1</td><td>0.44</td><td>0.17</td><td>-1.18</td><td>-2.57</td><td>-0.89</td><td>-2.02</td></tr><tr><td>SH3B4_HUMAN</td><td>SH3BP4</td><td>SH3 domain-binding protein 4</td><td>0.11</td><td>0.08</td><td>-3.15</td><td>-3.68</td><td>-2.49</td><td>-2.92</td></tr><tr><td>SNX18_HUMAN</td><td> SNX18</td><td>Sorting nexin-18</td><td>0.05</td><td>1.04</td><td>-4.41</td><td>0.06</td><td>-3.51</td><td>0.11</td></tr><tr><td>SNX3_HUMAN</td><td>SNX3</td><td> Sorting nexin-3</td><td>0.09</td><td>0.27</td><td>-3.48</td><td>-1.91</td><td>-2.76</td><td>-1.49</td></tr><tr><td>STC2_HUMAN</td><td>STC2</td><td>Stanniocalcin-2</td><td>0.24</td><td>0.17</td><td>-2.04</td><td>-2.54</td><td>-1.59</td><td>-2.00</td></tr><tr><td>SYCM_HUMAN</td><td>CARS2</td><td>Probable cysteine—tRNA ligase, mitochondrial</td><td>0.25</td><td>0.14</td><td>-1.98</td><td>-2.82</td><td>-1.54</td><td>-2.22</td></tr><tr><td>TGM2_HUMAN</td><td>TGM2</td><td>Protein-glutamine gamma- glutamyltransferase 2</td><td>0.32</td><td>0.07</td><td>-1.66</td><td>-3.79</td><td>-1.29</td><td>-3.01</td></tr><tr><td>TPM1_HUMAN</td><td>TPM1</td><td>Tropomyosin alpha-1 chain</td><td>0.06</td><td>0.15</td><td>-4.05</td><td>-2.74</td><td>-3.21</td><td>-2.16</td></tr><tr><td>UAP1L_HUMAN</td><td>UAP1L1</td><td>UDP-N-acetylhexosamine pyrophosphorylase-like protein 1</td><td>0.15</td><td>0.19</td><td>-2.76</td><td>-2.42</td><td>-2.17</td><td>-1.90</td></tr><tr><td>UBA6_HUMAN</td><td>UBA6</td><td>Ubiquitin-like modifier-activating enzyme 60.17</td><td></td><td>0.22</td><td>-2.58</td><td>-2.20</td><td>-2.03</td><td>-1.72</td></tr><tr><td>UBA7_HUMAN</td><td>UBA7</td><td>Ubiquitin-like modifier-activating enzyme 7 0.15</td><td></td><td>0.08</td><td>-2.72</td><td>-3.66</td><td>-2.14</td><td>-2.90</td></tr><tr><td>UN13D_HUMAN</td><td>UNC13D</td><td>Protein unc-13 homolog D</td><td>0.39</td><td>0.10</td><td>-1.38</td><td>-3.36</td><td>-1.05</td><td>-2.66</td></tr><tr><td>VAT1_HUMAN</td><td>VAT1</td><td>Synaptic vesicle membrane protein VAT-1 0.16 homolog</td><td></td><td>0.21</td><td>-2.63</td><td>-2.25</td><td>-2.07</td><td>-1.76</td></tr><tr><td>VIME_HUMAN</td><td>VIM</td><td>Vimentin</td><td>0.15</td><td>0.38</td><td>-2.75</td><td>-1.40</td><td>-2.17</td><td>-1.07</td></tr><tr><td>WDFY1_HUMAN</td><td>WDFY1</td><td>WD repeat and FYVE domain-containing protein 1</td><td>0.08</td><td>0.30</td><td>-3.60</td><td>-1.72</td><td>-2.85</td><td>-1.33</td></tr><tr><td>WIPI1_HUMAN</td><td>WIPI1</td><td>WD repeat domain phosphoinositide- interacting protein 1</td><td>0.18</td><td>0.13</td><td>-2.50</td><td>-2.97</td><td>-1.96</td><td>-2.35</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A MolecularFunction B Biological Process C Cellular Component calayti sai ■ sigleogaarssos cel art structural molecule activity 一 biological regulation organelle mac   \n新 protein tag - 美 司 colagen trimer 0.00% 10.00%20.00% 30.00% 40.00%50.00% 0.00% 3.00% 6.00%9.00%1200%15.00%18.00% 0.00% 5.00% 10.00% 15.00% 20.00% ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g004 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Confirmation of SlLAC and western blotting results by cell staining with antibodies ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Antibodies recognizing MAGEA4, THY1,IGF2BP1, VIM, CTNNB1,and FN1 proteins, whose expression differed significantly in BC cels vs.HCV29 cells,were used to confirm the results of previous analyses and to assess protein distributions.Fluorescence signal intensities in the two BC cellines were significantly higher for MAGEA4,THY1,and IGF2BP1 and significantly lower for VIM, CTNNB1,and FN1, in agreement with SILAC,western bloting,and RT-PCR results. Preferential localization was observed for MAGEA4 in central cytoplasm (including mitochondria and centrosome) and the nuclear region,for THY1 and VIM in cytoplasmic membrane and cytoplasm,for IGF2BP1 in the nuclear region and cytoplasm,and for CTNNB1 and FN1 in cytoplasmic membrane (Fig 7). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Urothelial carcinoma of the bladder is unique among epithelial carcinomas in its divergent pathways of tumorigenesis.At the time of diagnosis for transitional cell BC, ${ \\sim } 8 0 \\%$ of patients are in the low-grade (grade 1-2) non-muscle invasive (cTa or cT1) stage. In patients with low grade Ta disease,the 15-year progression-free survival is $9 5 \\%$ with no cancer-specific mortality [36]. Therefore, biomarkers are needed for predicting a risk of stage progression from noninvasive to invasive,or non-metastatic to metastatic and predicting responsiveness to systemic therapies.The human cell lines HCV29 (normal bladder epithelia),KK47 (low grade nonmuscle invasive bladder cancer),and YTS1(metastatic bladder cancer) have been widely used in studies of molecular mechanisms and cell signaling during the progression of bladder cancer to muscle or metastatic states [37]. However,little attention has been paid to global quantitative proteome analysis of these three cell lines. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Quantitative analysis of proteins at different stages of BC progression is a challenging but important task for understanding of disease mechanisms. SILAC,a differential isotope labeling strategy that involves metabolic labeling of proteins in vivo,has been widely applied in cell biology and studies of model organisms such as yeast, bacteria, nematodes, plants,and mice [38, 39]. In SILAC, natural\"light\" isotopes of carbon, nitrogen,and hydrogen in amino acids incorporated during protein translation are substituted with \"heavy\" isotopes such as $^ { 1 3 } \\mathrm { C } , ^ { 1 5 } \\mathrm { N } ,$ and $^ 2 \\mathrm { H }$ . No study to date has quantified differences in protein abundance at various stages of BC. Previous studies have focused on comparative protein levels in BC patients vs. control subjects, but not on alterations of protein levels during BC progression [8,9]. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Identification and characterization of protein levels at various steps of differentiation are essential for our understanding of normal tissue development and malignant transformation ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ecb472bcf727f35afff09b9d8afb721e170b62a9c6a2b30a086cb12a8cdcb7a.jpg",
+        "img_caption": [
+            "Fig 5.Functional network analysis of differentially regulated proteins with z-score cutoff $9 5 \\%$ observed in different stages of BC cells using Ingenuityats)dptoctosflolatrasptto upregulatedos(tabold interactions.Dashedlines:suspectedorindirectinteractions.White:proteinsknowntobeinthenetworkbutnotidentiedinourstudy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g005 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we applied the SILAC method to analysis of HCV29, KK47,and YTS1. This strategy provided protein information for all three cell lines during one MS experiment. Following normalization by the z-score method,differential regulation was observed for 110 proteins in KK47 vs. HCV29 and for 87 proteins in YTS1 vs. HCV29.These differentially regulated proteins, which may play important roles in BC development, include SFN (14-3-3 protein sigma), SELENBP1 (selenium-binding protein 1), COL6A3 (collagen α3 (VI) chain), and CD70. COL6A2 and COL6A3 protein levels are reduced in urine of BC patients [40]. SFN is downregulated in invasive bladder transitional cellcarcinomas undergoing epithelial-to-mesenchymal conversion and highly upregulated in pure squamous cell carcinomas [41]. Some of the proteins that are altered in BC are also altered in other cancers.In particular,expression of FOLR1 (folate receptor alpha) is increased relative to normal tissue in many types of epithelial ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/16fd7020dbd5a157730892ce674a26b2feb695eb9cf89b68fc471ac20e0e350e.jpg",
+        "img_caption": [
+            "Fig6.CofimatifACeternedprotedRbundancs.()LM:Hveraatiosictedprotens.()Wteoing analysisofselectdototereseddittibobai rabbitanti-otdsiaoeod thencomparedtoVichearbrarilytat0.(D)neexprioforthrotessalydyCRelativeeiin comparison tocontrolsampleswasanalyzed by the $2 ^ { - \\Delta \\Delta \\mathsf { C } \\mathsf { t } }$ method and represented as $\\mathsf { L o g } _ { 2 }$ Expressionof genesabove $\\mathsf { L o g } _ { 2 } ( 2 )$ orbelow $\\mathsf { L o g } _ { 2 } ( 1 / 2 )$ was significantlyupregulated ordownregulated,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g006 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "cancer, including non-mucinous ovarian, endometrial, non-small cell lung,colorectal,and breast cancers [42]. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The DAVID bioinformatic resources provide a set of powerful tools to explore their large gene lists in depth from many different biological perspectives in order to fuly extract associated biological meanings.Enrichment analysis of GO terms in our identified proteins indicated that neutral amino acid transmembrane transporter activity and metabolic processes were significantly upregulated and that protein binding, cell adhesion, biological adhesion, and immune response were significantly downregulated in the BC cell lines. The observed changes in GO terms tended to promote cellular proliferation, tumor development, cancer cell progression and metastasis,and escape from immune system surveillance. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A major challenge in cancer biology is the formulation of biological hypotheses regarding biomarker candidates [43].Pathway analysis of differentially expressed proteins indicates that DNA replication and molecular transport, cell growth,and cell proliferation are requirements for cancer cell metastasis. Intercellular adhesion molecule-1 (iCAM-1) is a transmembrane glycoprotein present at basal levels in a wide variety of cell types and is upregulated in response to a number of inflammatory mediators [44].The biological significance of iCAM-1 expression in cancer remains controversial; it is elevated in gastric,breast, oral,and thyroid cancer tissues [44-47] but reduced in some ovarian adenocarcinoma cellines and primary tumors [48]. Also,iCAM-1 expression is up-regulated in squamous cel types associated with inflammation, such as schistosomal bladder cancer [49].However,in the present study,iCAM-1 expression was reduced in metastatic bladder cancer cells.Moreover, CIT,a novel tissue-specific Ser/Thr kinase that encompasses the Rho-Rac-binding protein Citron, plays a role in cytokinesis and in ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/58b32277909ad2f977c06197945d0275aab4aaeaf7ca6e31c1b17fa3d07ae870.jpg",
+        "img_caption": [
+            "Fig7.Differential expression revealedbycellstaining. HCV29,KK47,and YTS1 cells were culturedand stained with sixantibodies directed to identified proteins (MAGEA4,THY1,IGF2BP1,VIM,CTNNB1,FN1) labeled with Cy3as described in M&M.Imagesare shown of merge images of Cy3-conjugated antibodies and DAPl staining of nuclei (objective magnification $6 0 \\times )$ . Scale bars: $7 0 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0134727.g007 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Rho signaling that modulates myosin phosphorylation and cell adhesion [50]. Upregulation of CIT promotes DNA replication and cancer cell proliferation ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we successfully applied the SILAC method to identify and quantify proteins whose level is significantly up- or downregulated during BC development or progression. Similar advanced proteome techniques willbe useful for further elucidation of biomarkers and molecular mechanisms in BC and other types of cancer. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S1Fig.Proteinraw ion intensities forwestern blot. (TIF) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S1 Table. The full list of proteins identified by 2D-LC-MS/MS. (XLSX) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "S2 Table. Gene ontology statistics of significantly upregulated and downregulated proteins. (XLSX) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The authors are grateful to Dr.S.Anderson for English editing of the manuscript. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: FG GLY PX.Performed the experiments: GLY WL JG CWS ZPX. Analyzed the data: GLY XL ZPX. Contributed reagents/materials/analysis tools: GLY WL. Wrote the paper: GLY FG. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1.Siegel R,Ma J,Zou Z,Jemal A (2014) Cancer statistics,2014.CA CancerJClin 64:9-29.doi: 10. 3322/caac.21208 PMID:24399786   \n2.Wang H,CaiZ,Yang F,LuoJ,Satoh M,AraiY,etal.(2014) Enhanced antitumor eficacyof integrin-targeted oncolytic adenovirus AxdAdB3-F/RGD on bladder cancer.Urology 83: 508 e513-509.   \n3. Goodison S,Rosser CJ,UrquidiaV(2oo9)Urinary proteomic profiling for diagnostic bladder cancer biomarkers.Expert Rev Proteomics 6: 507-514.doi: 10.1586/epr.09.70 PMID:19811072   \n4. Wu XR (2oo5) Urothelial tumorigenesis: a tale of divergent pathways.Nature Reviews Cancer 5:713- 725.PMID:16110317   \n5．VolkmerJ-P,Sahoo D,Chin RK,HoPL,Tang C,Kurtova AV,etal.(2012) Three diferentiation states risk-stratify bladder cancer into distinct subtypes.Proc Natl Acad Sci USA 109:2078-2083.doi: 10. 1073/pnas.1120605109 PMID:22308455   \n6. Weissman l (20o5) Stem CellResearch: Paths to Cancer Therapies and Regenerative Medicine.JAm Med Ass0c 294:1359-1366.   \n7.Available: htp://www.cancer.org/acs/groups/cid/documents/webcontent/003085-pdf.pdf. Accessed 23 June 2015.   \n8.Linden M,LindSB,Mayrhofer C,Segersten U,WesterK,LyutvinskiyY,etal.(2012) Proteomic analysis of urinary biomarker candidates for nonmuscle invasive bladder cancer.Proteomics 12:135-144. doi: 10.1002/pmic.201000810 PMID:22065568   \n9.Kreunin P,Zhao J,Rosser C,Urquidi V,Lubman DM,Goodison S(2007) Bladder Cancer Associated Glycoprotein Signatures Revealed by Urinary Proteomic Profiing.JProteome Res 6:2631-2639. PMID: 17518487   \n10. Cheng L,Davison DD,AdamsJ,Lopez-Beltran A,Wang L,MontironiR,etal.(2014) Biomarkers in bladdercancer: translational and clinical implications.CritRev Oncol Hematol 89:73-111.doi:10. 1016/j.critrev0nc.2013.08.008 PMID: 24029603   \n11.Goodison S, Rosser CJ, Urquidi V(2013) Bladder cancer detection and monitoring: assessment of urine-and blood-based marker tests.Mol Diagn Ther 17:71-84.doi: 10.1007/s40291-013-0023-x PMID:23479428   \n12. Tian Y,Bova GS,Zhang H (2011) Quantitative glycoproteomic analysis of optimal cutting temperatureembedded frozen tissues identifying glycoproteins associated with aggressive prostate cancer. Anal Chem 83:7013-7019.doi: 10.1021/ac200815q PMID:21780747   \n13.RongY,JinD, Hou C,HuJ,WuW_Ni X,etal.(2010) Proteomicsanalysis of serum protein profiling in pancreatic cancer patients by DlGE:up-regulation of mannose-binding lectin 2and myosin light chain kinase 2. BMC Gastroenterol 10: 68. doi: 10.1186/1471-230X-10-68 PMID: 20587030   \n14. Chen J-S,Chen K-T,Fan C-W, Han C-L,Chen Y-J,YuJ-S,etal. (2010) Comparison of membrane fraction proteomic profiles of normal and cancerous human colorectaltissues with gel-assisted digestion and iTRAQ labeling mass spectrometry.FEBS J 277: 3028-3038.doi: 10.1111/j.1742-4658.2010. 07712.x PMID:20546304   \n15.Caceres NE,Aerts M, Marquez B, Mingeot-Leclercq MP,Tulkens PM, Devreese B,etal. (2013) Analysis of the membrane proteome of ciprofloxacin-resistant macrophages by stable isotope labeling with amino acids in cellculture (SILAC). PLoS One 8: e58285. doi: 10.1371/jourmal.pone.0058285 PMID: 23505477   \n16. Ong S-E,BlagoevB,Kratchmaroval,KristensenDB,Steen H,PandeyA,etal.(2002) Stable isotope labeling byamino acids incellculture,SILAC,asa simple and accurate approach toexpression proteo mics.Mol Cell Proteomics 1: 376-386.PMID:12118079   \n17.AhmadY,Lamond Al (2014) Aperspective on proteomics in cellbiology.Trends Cell Biol 24: 257- 264.doi: 10.1016/j.tcb.2013.10.010 PMID:24284280   \n18. Masters JRW, Hepburn PJ, WalkerL, Highman WJ,Trejdosiewicz LK,Povey S,etal.(1986) Tissue Culture Model of Transitional Cel Carcinoma_Characterization of Twenty-two Human Urothelial Cell Lines. Cancer Res 46: 3630-3637.PMID:3708594   \n19.Hisazumi H, Kanokogi M, Nakajima K,Kobayashi T,Tsukahara K,Naito K,etal. (1979) Established celline of urinary bladdercarcinoma (KK-47):growth,heterotransplantation, microscopic structure and chromosome pattern.Jpn JUrol 70: 485-494.   \n20． Kakizaki H,Numasawa K,Suzuki K (1986) Establishment of a newceline (YTS-1) derived froma human urinary bladder carcinoma and its characteristics.Jpn J Urol 77: 1790-1795.   \n21.BendallSC, Hughes C,Stewart MH,Doble B, Bhatia M,Lajoie GA (2008) Prevention of amino acid conversion in SILAC experiments with embryonic stem cells.Mol CellProteomics 7: 1587-1597.doi: 10.1074/mcp.M800113-MCP200 PMID:18487603   \n22. Takakura D, Hashi N, Kawasaki N(2013)An improved in-gel digestion method for efficient identification of protein and glycosylation analysis of glycoproteins using guanidine hydrochloride.Proteomics 14:196-201.   \n23.YangG,CuiT,WangY,SunS,Ma T,Wang T,etal.(2013) Selective isolation andanalysis of glycopro tein fractions and their glycomes from hepatocellular carcinoma sera.Proteomics 13:1481-1498.doi: 10.1002/pmic.201200259 PMID:23436760   \n24.Washburn MP,Wolters D, Yates JR I (2001)Large-scale analysis of the yeast proteomeby multidimensional protein identification technology. Nat Biotechnol 19: 242-247. PMID: 11231557   \n25. Hong Q,Xue P,LiuS,BoF,Yang L, Huang Z,etal. (2011) Diferentially Expressed Protein Profile of Renal Tubule CellStimulated by Elevated Uric Acid Using SILAC Coupled to LC-MS.CellPhysiol Biochem 27:91-98.doi: 10.1159/000325209 PMID:21325826   \n26.Cox J,Mann M(2008) MaxQuant enables high peptide identification rates,individualized p.p.b.-range mass accuracies and proteome-wide protein quantification.Nat Biotechnol 26:1367-1372. doi: 10. 1038/nbt.1511 PMID: 19029910   \n27. Cox J,Matic I, Hilger M,Nagaraj N,Selbach M, Olsen JV,etal. (20o9)A practical guide to the MaxQuantcomputational platform for SILAC-based quantitative proteomics.Nature Protocols 4: 698-705. doi: 10.1038/nprot.2009.36 PMID: 19373234   \n28. Cox J,Neuhauser N, Michalski A,Scheltema RA,Olsen JV,Mann M (2011) Andromeda: a peptide search engine integrated into the MaxQuant environment. JProteome Res 10: 1794-1805.doi: 10. 1021/pr101065j PMID: 21254760   \n29. BerardAR,Cortens JP,KrokhinO,WilkinsJA,Severini A,Coombs KM (2012) Quantificationof the Host Response Proteome after Mammalian Reovirus T1L Infection.PLoS One 7: e51939.doi: 10. 1371/journal.pone.0051939 PMID: 23240068   \n30.Coombs KM,Berard A, XuW, KrokhinO,Meng X,Cortens JP,etal.(2010) Quantitative proteomic analysesof influenza virus-infected cultured human lung cells.JVirol 84:10888-10906.doi: 10.1128/ JVI.00431-10 PMID: 20702633   \n31.CamonE,agraneMBarrellD,nnsD,FleischmannWKerseyPetal.(203)eGeneOntoogy Annotation (GOA) project: implementation of GO in SWISS-PROT,TrEMBL,and InterPro.Genome Res 13: 662-672.PMID:12654719   \n32.Huang DW,Sherman BT,Tan Q,Kir J,Liu D, BryantD,etal.(2007) DAVID Bioinformatics Resources: expanded annotation database and novel algorithms to better extract biology from large gene lists. Nucleic Acids Res 35:W169-W175.PMID:17576678   \n33.Huang DW,Sherman BT,Lempicki RA (2009) Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.Nat Protoc 4: 44-57.doi:10.1038/nprot.2008.211 PMID: 19131956   \n34. Yang G,Chu W,Zhang H,Sun X,CaiT,Dang L,etal.(2013)lsolation and identification of mannosebinding proteins and estimation of their abundance in sera from hepatocellular carcinoma patients.Proteomics 13: 878-892. doi: 10.1002/pmic.201200018 PMID: 23300094   \n35.Livak KJ,Schmittgen TD(2001)Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the $\\bar { 2 } ^ { < - \\Delta \\Delta \\mathsf { C T } > }$ Method.Methods25:402-408.PMID:11846609   \n36.Kaufman DS,Shipley WU,Feldman AS (2009) Bladder cancer.Lancet 375: 239-249.   \n37.Yang G,Tan Z,LuW,GuoJ,Yu H,Yu J,etal. (2015)Quantitative glycome analysis of N-glycan patterns in bladder cancer vs normal bladdercels using an integrated strategy.JProteome Res 14: 639- 653.doi: 10.1021/pr5006026 PMID: 25536294   \n38.Matic l,Jaffray EG,Oxenham SK,Groves MJ,Barat CL,Tauro S,etal.(2011) Absolute SILAC-compatible expression strain alows Sumo-2 copy number determination in clinical samples.JProteome Res 10: 4869-4875.doi: 10.1021/pr2004715 PMID:21830832   \n39.Kruger M,MoserM, UssarS,Thievessen l,Luber CA,FornerF,etal. (2008)SILAC mouse for quantitative proteomics uncovers kindlin-3asan essentialfactor forred blood cell function.Cell134:353-364. doi: 10.1016/j.cell.2008.05.033 PMID: 18662549   \n40．LeiT,ZhaoX,Jin S,Meng Q,Zhou H,Zhang M(2013)Discovery ofpotentialbladder cancerbiomarkers by comparative urine proteomics and analysis. Clin Genitourin Cancer 11: 56-62.doi: 10.1016/j. clgc.2012.06.003 PMID:22982111   \n41.Moreira JM,Gromov P,Celis JE (2004) Expression of the tumor suppressor protein 14-3-3 sigma is down-regulated in invasive transitional cellcarcinomas of theurinary bladder undergoing epithelial-tomesenchymal transition.Mol Cell Proteomic 3: 410-419.   \n42. Despiere E,Lambrechts S,Leunen K,BertelootP,NevenP,AmantF,etal.(2013)Folate receptor alpha(FRA) expression remains unchanged in epithelial ovarian and endometrial cancer after chemotherapy.Gynecol Oncol 130: 192-199. doi: 10.1016/j.ygyno.2013.03.024 PMID:23558051   \n43.Lawlor K, Nazarian A,Lacomis L,Tempst P,Villanueva J(2009) Pathway-Based Biomarker Search by High-Throughput Proteomics Profiling of Secretomes.JProteome Res 8:1489-1503.doi: 10.1021/ pr8008572 PMID:19199430   \n44. UsamiY,Ishida K,SatoS, Kishino M, Kiryu M,OgawaY,etal.(2013) Intercellularadhesion molecule1 (ICAM-1) expression correlates with oral cancer progression and induces macrophage/cancer cell adhesion.IntJCancer 133: 568-578.doi: 10.1002/ijc.28066 PMID: 23364881   \n45.Maruo Y,Gochi A, Kaihara A, Shimamura H,Yamada T,Tanaka N,etal. (2002) ICAM-1 expression andthe soluble ICAM-1 level for evaluating the metastatic potentialof gastric cancer.IntJCancer 100: 486-490.PMID:12115535   \n46.SchroderC,Witzell,MullerV,KrenkelS,WirtzRM,Janicke F,etal. (2011)Prognostic value of intercellular adhesion molecule (ICAM)-1 expression in breast cancer.JCancer Res Clin Oncol 137:1193- 1201. doi: 10.1007/s00432-011-0984-2 PMID: 21590495   \n47.BuitragoD,Keutgen XM,CrowleyM,FilicoriF,AldailamiH,HodaR,etal. (2012)Intercelularadhesion molecule-1(ICAM-1)is upregulated in aggressive papilary thyroid carcinoma.Ann Surg Oncol 19: 973-980. doi: 10.1245/s10434-011-2029-0 PMID:21879273   \n48.Arnold J,Cummings M,Purdie D, Chenevix-Trench G (2001) Reduced expression of intercelular adhesion molecule-1 in ovarian adenocarcinomas.Br JCancer 85:1351-1358.PMID:11720474   \n49. Khaled H (2013)Schistosomiasis and cancer in egypt: review.JAdv Res 4: 461-466.doi: 10.1016/j jare.2013.06.007 PMID: 25685453   \n50. Schwartz M (2004) Rho signalling at a glance.JCell Sci 117: 5457-5458.PMID: 15509861 ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

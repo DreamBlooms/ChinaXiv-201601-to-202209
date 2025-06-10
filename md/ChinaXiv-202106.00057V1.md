@@ -1,0 +1,168 @@
+# 液膜覆盖对旱地土壤结构特征及入渗性能的影响
+
+白秀梅¹，张¹，张勇²，杜轶³(1.山西农业大学林学院,山西 太谷030801;2.山西省水土保持科学研究所,山西 太原 030013；3.山西农业大学资源环境学院，山西 太谷 030801)
+
+摘要：为了研究长期液膜覆盖对旱地土壤结构及入渗性能的影响,于2015—2018年在山西农业大学林业试验站进行了田间随机区组试验。试验设计有垄沟耕作和平作方式下的液膜和塑膜覆盖,以平作不覆盖为对照。结果表明：（1）液膜覆盖能改善土壤理化性质。和其他处理相比,PY、LY显著增加了土壤有机质含量和毛管孔隙度;与对照(CK)相比较,PY、LY、PS、LS的土壤容重均有显著降低。（2)液膜覆盖能改善土壤结构特性。和其他处理比较，LY显著提高了干筛、湿筛 $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体含量，PY、LY显著降低了土壤团聚体结构破坏率及显著提高了团聚体水稳性指数。(3）液膜覆盖提高了土壤稳定入渗性能。PY、LY的稳定入渗率和平均入渗率显著高于其他处理。（4)同种覆盖方式下,垄沟耕作较平作更有利于改良土壤结构特征,但二者对稳定入渗率的影响没有显著差异。（5）初始入渗率与土壤理化指标间没有显著相关性。稳定入渗率和平均入渗率与毛管孔隙度、 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性团聚体含量、团聚体破坏率与团聚体水稳性指数间有显著或极显著相关性。
+
+关键词：液态地膜；垄沟耕作；土壤结构；人渗；旱地
+
+土壤结构是土壤肥力的基础，只有良好的土壤结构，才能调节土壤中的水汽和水肥矛盾，才能不断地满足作物生长对养分和水分的要求，为作物的高产稳产打下良好的基础。土壤水分人渗是地表水进入土壤的过程，是反映土壤渗水保水能力的重要指标[1。有研究表明：土壤有机质含量2-3]、机械组成、孔隙状况、土壤团聚体含量及稳定性等指标作为土壤结构特征的基本反映，对水分入渗都有着重要影响[5-8；液态地膜覆盖种植既能减少“白色污染”，又能抑制土面蒸发，增加土壤有机质含量，提高降水资源利用率,增加农作物产量-13]。前人有关液态地膜应用效果的研究主要集中在液态地膜能增温、保水、防蚀、改善土壤生态环境及调节作物生长发育等方面[4-15],而施用液态地膜对土壤结构稳定性及水分入渗性能的研究较少。本文通过田间小区试验，旨在分析连续4a喷洒液态地膜对土壤结构特征及土壤入渗性能的影响，从而为旱作农业覆盖材料的选用及农田水分的蓄存和高效利用提供理论指导。
+
+# 1材料与方法
+
+# 1.1试验区概况
+
+试验于2015—2018年的每年4—10月间在山西农业大学林业试验站旱地进行。研究区属典型的暖温带大陆性季风气候，年均日照时数 $2 6 3 9 \mathrm { h }$ ，年均气温约 $9 . 8 ~ \mathrm { { ^ { 9 C } } }$ ,年均降水量 $4 5 0 { \sim } 5 0 0 ~ \mathrm { m m }$ ,且降水主要集中于7—9月，降水量占全年降水量的 $6 0 \% \sim$ $7 0 \%$ ,年均蒸发量 $1 6 4 9 ~ \mathrm { m m }$ ,年均无霜期 $1 5 4 \mathrm { ~ d ~ }$ 。试验田土壤为褐土，质地为砂壤土，地势平坦。
+
+2015年试验前前茬作物为黄豆。播前 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层土壤容重为 $1 . 3 4 ~ \mathrm { g } \cdot \mathrm { c m } ^ { - 3 }$ ,田间持水量为 $2 5 . 6 \%$ （重量含水量），凋萎湿度为 $5 . 8 0 \%$ ,土壤 $\mathrm { \ p H }$ 为7.9，土壤有机质含量为 $8 . 7 5 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ,总氮含量为 $0 . 9 3 ~ \mathrm { g }$ $\mathbf { k g } ^ { - 1 }$ ,速效氮 $2 4 . 4 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ,速效钾 $8 6 . 0 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ ,速效磷 $0 . 8 ~ \mathrm { m g \cdot k g ^ { - 1 } }$ 。
+
+# 1.2试验设计
+
+试验共设5个处理，分别是平作，种植行液膜覆盖(PY);平作，种植行塑料地膜覆盖(PS);平作，不覆膜(CK)；起垄沟种，全覆液膜(LY);起垄沟种，垄覆塑料地膜，沟不覆膜，膜侧沟种(LS八图1)。起垄沟种的垄、沟宽各约为 $5 0 ~ \mathrm { c m } \ 、 5 0 ~ \mathrm { c m }$ 。小区面积$3 \mathrm { m } { \times } 6 \mathrm { m } , 3$ 次重复。2015年处理小区按随机区组方式排列，2016一2018年都按2015年的区组排列方式布设。塑料地膜为宽 $8 0 ~ \mathrm { c m }$ ，厚 $0 . 0 0 8 ~ \mathrm { { m m } }$ 的普通地膜；液态地膜为陕西杨凌明瑞生态科技有限公司生产的“绿野液态地膜”。使用时先将液态地膜原液用1.5\~2倍的清水化开搅拌使原液完全分散开，再加5\~6倍清水搅拌均匀（即 $1 \mathrm { k g }$ 原液兑 $7 { \sim } 8 ~ \mathrm { k g }$ 水）。经滤网过滤后，用喷雾器均匀地喷覆地面。喷施30d内应避免踩踏。供试玉米为先玉335，为美国先锋公司选育的玉米杂交种。
+
+平作塑料地膜覆盖种植方式是先覆膜，点种；垄沟耕作塑膜覆盖方式是先人工起垄，在垄上覆膜，膜侧沟种;液态地膜小区是先播种后喷施液膜;不覆膜对照处理喷等量清水。种植密度为60000株· $\cdot \mathrm { h m } ^ { - 2 }$ 。每年的4月底5月初结合土壤墒情播种，播种前一次性施有机肥和复合肥，折合N、P、K量分别为 $2 5 0 \mathrm { k g \cdot h m ^ { - 2 } } \cdot 8 0 \mathrm { k g \cdot h m ^ { - 2 } } \cdot 8 0 \mathrm { k g \cdot h m ^ { - 2 } }$ ，其他管理措施同一般玉米田。
+
+# 1.3测定方法和相关指标计算
+
+于2018年10月玉米收获后进行田间人渗试验。入渗前将塑料地膜小区的地膜清理干净。液膜覆盖处理小区里的液膜经过5个多月的自然降解及田间管理，不存在土表结皮，不会影响水分入渗。入渗实验之前测定各小区 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层质量含水率。
+
+土壤入渗采用双环入渗法。将双环内径放置在玉米种植行间，且表面均未作任何处理。双环的内环直径 $1 7 \ \mathrm { c m }$ ,外环直径 $3 5 ~ \mathrm { c m }$ ,双环高度均为25cm,打入土中深度内外环均为 $1 5 ~ \mathrm { c m }$ 。内外环在试验时维持最低水深 $5 \mathrm { c m }$ （在环内有标记)，人工加水控制水位，用秒表计时。在开始测定时快速供水使水位到离地表 $5 \mathrm { c m }$ 。当水面低于 $5 \mathrm { c m }$ 标记位置时，表明开始人渗，迅速加水保持恒定水位，同时记录所加水量及入渗时间。在试验过程中，外环也要及时供水,维持 $5 \mathrm { c m }$ 的水深。按 $1 \operatorname* { m i n } \phantom { \dot { } } , 5 \operatorname* { m i n } \phantom { \dot { } } , 1 0 \operatorname* { m i n } \phantom { \dot { } }$ $2 0 \ \operatorname* { m i n } \mathrm { { s } } 3 0 \ \operatorname* { m i n } \mathrm { { s } } 4 0 \ \operatorname* { m i n } \mathrm { { s } } 5 0 \ \operatorname* { m i n } \mathrm { { s } } 6 0 \ \operatorname* { m i n } \mathrm { { s } } 8 0 \ \operatorname* { m i n } \mathrm { { s } } 1 0 0$ $\operatorname* { m i n }$ / $1 2 0 \mathrm { m i n } \llangle 1 4 0 \mathrm { m i n }$ 的时间间隔记录加水量。以最初入渗 $5 \mathrm { m i n }$ 的入渗量计算初始入渗率;土壤入渗达到稳定值时的入渗率为稳定入渗速率；在一定时间内土壤水分入渗总量与时间的比值为平均入渗率。
+
+每种处理重复3次试验，并尽量在相同时段内进行。入渗试验开始前在样地用环刀采集原状土，室内测定土壤孔隙度、容重等指标;采集 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层混合土样，用比重计法测定土壤机械组成；有机质采用重铬酸钾外加热法；含水量采用烘干法；风干团聚体采用干筛法，水稳性团聚体采用沙维诺夫法,并据此计算 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性团体含量、团聚体破坏率。团聚体结构破坏率 $\mathrel { \mathop : } = \mathrel { \left[ \begin{array} { l l } {  } \end{array} }\right.$ 干筛( $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体)-湿筛( $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体)J/干筛( $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体） $\times 1 0 0 \%$ ;用邱莉萍等推导的公式计算团聚体的平均重量直径（MWD）： $\begin{array} { r } { \mathrm { M W D } { = } \sum X _ { i } W _ { i } \left( i { = } 0 , 1 \right. } \end{array}$ $2 , \cdots , n )$ ，式中： $X _ { i }$ 为每一级别团聚体的平均直径$( \mathbf { \bar { \rho } } _ { \mathrm { m m } } )$ ； $\textstyle \mathbf { \bigoplus } _ { i } \mathbf { \bigoplus } _ { i }$ 为每一级别团聚体的重量百分数。取各处理 $0 { \sim } 2 0 ~ \mathrm { c m }$ 土层 $3 { \sim } 5 ~ \mathrm { m m }$ 风干团聚体50粒，用浸水崩解法测定土壤团聚体水稳性指数。
+
+# 1.4数据分析
+
+数据采用SPSS17.0和Execl2007软件进行统计分析。
+
+# 2结果与分析
+
+# 2.1液膜覆盖对土壤有机质含量及结构性指标的影响
+
+由表1可知，液膜覆盖显著增加了土壤有机质含量。PY、LY处理的有机质含量均较高，分别较CK增加了 $1 6 . 2 4 \% \cdot 2 4 . 3 6 \%$ ;而PS、LS处理的有机质含量均较低，分别较CK减少了 $1 9 . 6 4 \%$ ） $1 1 . 6 4 \%$ ，说
+
+![](images/627996702de2241c2caab198d8e074334b05efb2ea979f5de5b199bf4486c1ff.jpg)  
+图1垄沟耕作条件下液膜、塑膜覆盖种植模式
+
+Fig.1Planting pattern of spraying liquid filmor mulching plastic film in ridge and furrow planting conditions明连续4a喷洒液膜能显著增加土壤有机质含量，而覆盖塑料地膜促进了有机质分解转化而不利于有机质的蓄存。液态地膜和塑料地膜处理后土壤容重均较对照显著降低，降低幅度为 $5 . 9 3 \% \sim 9 . 6 3 \%$ ，但液膜和塑膜覆盖间没有显著差异。总孔隙度和毛管孔隙度均较对照均有显著增加。PY、LY的总孔隙度分别较CK增加了 $9 . 9 9 \%$ ） $7 . 6 2 \%$ ;PS、LS的总孔隙度分别较CK增加了 $9 . 2 1 \% . 6 . 1 6 \%$ 。液膜覆盖后的毛管孔隙度显著高于塑料地膜覆盖。PY、LY、PS、LS的毛管孔隙度分别较CK增加了 $1 5 . 1 0 \%$ /$1 7 . 3 3 \% . 1 1 . 5 7 \% . 1 2 . 8 5 \%$ 。4种覆膜处理后的砂粒组（ $1 { \sim } 0 . 0 5 ~ \mathrm { m m }$ )和粉粒组 $( 0 . 0 5 { \sim } 0 . 0 0 1 \ \mathrm { m m } )$ 和黏粒组0 $\mathrm { < 0 . 0 0 1 \ m m }$ )含量和对照相比较均没有明显的变化规律。同种覆盖方式下，和平作相比较，垄沟耕作条件下的LY、LS的有机质含量、土壤容重及毛管孔隙度均略高于平作PY、PS;而LY、LS的总孔隙度均略低于平作PY、PS;在土壤粒径方面，垄沟耕作增加了土壤黏粒组含量而相应地减少了粉粒组含量。
+
+Tab.1 Soil organic matter and soil structure characteristics of indicators at $\mathbf { 0 { - } } 2 \mathbf { 0 } ~ \mathbf { c m }$ depthunder different treatme   
+
+<html><body><table><tr><td rowspan="2">处理</td><td rowspan="2">有机质 /(g·kg-1)</td><td rowspan="2">土壤容重 /(g·cm-3)</td><td rowspan="2">总孔隙度 1%</td><td rowspan="2">毛管孔隙度 1%</td><td colspan="3">粒径组成/%</td></tr><tr><td>1~0.05 mm</td><td>0.05~0.001 mm</td><td><0.001 mm</td></tr><tr><td>PY</td><td>9.59a</td><td>1.22b</td><td>53.96a</td><td>44.96a</td><td>35.74a</td><td>43.2a</td><td>21.06b</td></tr><tr><td>LY</td><td>10.26a</td><td>1.25b</td><td>52.80ab</td><td>45.83a</td><td>36.34a</td><td>39.57b</td><td>24.09a</td></tr><tr><td>PS</td><td>6.63c</td><td>1.23b</td><td>53.58a</td><td>43.58b</td><td>36.80a</td><td>41.78a</td><td>21.42ab</td></tr><tr><td>LS</td><td>7.29bc</td><td>1.27b</td><td>52.08b</td><td>44.08b</td><td>37.13a</td><td>39.46b</td><td>23.41a</td></tr><tr><td>CK</td><td>8.25b</td><td>1.35a</td><td>49.06c</td><td>39.06c</td><td>37.67a</td><td>40.44ab</td><td>21.89a</td></tr></table></body></html>
+
+注：同列不同字母表示差异显著 $( P { < } 0 . 0 5 \$ 。下同。
+
+# 2.2液膜覆盖对土壤结构稳定性指标的影响
+
+土壤团聚体是构成土壤结构的基本单元。粒径 $> 0 . 2 5 ~ \mathrm { m m }$ 大团聚体的含量越高，土壤结构稳定性越强。从表2可知，干筛 $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体含量LY最高，达 $8 5 . 5 4 \%$ ,与LS间差异不显著，而与PY、
+
+PS和CK间均达显著差异（ $\left( P < 0 . 0 5 \right)$ ；和CK比较，除PY外，其他各处理均显著增加了干筛 $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体含量。湿筛得出，LY处理的 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性大团聚体含量最高，且与其他各处理间差异显著，PY、LS的含量次之，二者间差异不显著；4种覆膜处理的水稳性团聚体含量均显著高于 $\mathrm { C K } ( P < 0 . 0 5 )$ O说明垄沟耕作条件下液膜覆盖更有利于提高干筛、湿筛 $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体含量。
+
+喷洒液膜能显著减少团聚体结构破坏率（ $\scriptstyle ( P <$ 0.05)，而PS、LS处理后团聚体破坏率也均显著低于CK。分析表明无论是垄沟耕作还是平作，液膜覆盖是影响团聚体结构破坏率的主要因素。
+
+土壤团聚体水稳性指数越大，说明土壤团聚体在水的浸泡下破碎所用时间越长，团聚体水稳定性越好。从表2可看出，LY水稳性最大( $3 3 . 7 1 \%$ )，PY水稳性次之 $( 3 1 . 7 6 \%$ ),二者间差异不显著，而LY、PY和其他处理间差异显著，CK的水稳性最小1 $8 . 5 4 \%$ )，且显著小于其他4个处理( $\left( P < 0 . 0 5 \right)$ ；各处理水稳性指数由高到低顺序为： $\mathrm { L Y } > \mathrm { P Y } > \mathrm { P S } >$ $\mathrm { L S > C K }$ 。可见，喷洒液态地膜比覆盖塑料地膜更能提高土壤团聚体的水稳性，而平作和垄沟耕作的影响不明显。
+
+土壤团聚体平均重量直径(MWD)可作为反映
+
+# 表2土壤结构稳定性指标
+
+表1不同处理 $\mathbf { 0 } { \sim } 2 \mathbf { 0 } ~ \mathbf { c m }$ 土层土壤有机质含量及结构性指标  
+Tab.2 Soil structure stability index   
+
+<html><body><table><tr><td>处理</td><td>干筛>0.25 mm 团聚体含量/%</td><td>湿筛>0.25 mm 团聚体含量/%</td><td>湿筛团聚体平均 重量直径（MWD)</td><td>结构 破坏率/%</td><td>水稳性 指数/%</td></tr><tr><td>PY</td><td>77.17c</td><td>36.24b</td><td>1.14bc</td><td>53.04cd</td><td>31.76a</td></tr><tr><td>LY</td><td>85.54a</td><td>42.53a</td><td>1.28a</td><td>50.28d</td><td>33.71a</td></tr><tr><td>PS</td><td>81.70b</td><td>32.57c</td><td>0.99cd</td><td>60.13b</td><td>23.27b</td></tr><tr><td>LS</td><td>82.66ab</td><td>36.55b</td><td>1.21ab</td><td>55.78c</td><td>16.43c</td></tr><tr><td>CK</td><td>78.11c</td><td>25.78d</td><td>0.92d</td><td>66.70a</td><td>8.54d</td></tr></table></body></html>
+
+土壤团聚体大小分布状况的综合指标。MWD值越大，表示团聚体的平均粒径团聚度越高，稳定性越强[18]。湿筛土壤团聚体MWD的变化规律是：LY、LS较高，二者间无显著差异，但LY、LS均高于PY、PS,PY、PS间无显著差异；CK显著低于其他4个处理$( P < 0 . 0 5 ) ,$ 。分析得出，垄沟耕作和液膜覆盖均是影响土壤MWD值的主要因素。
+
+# 2.3液膜覆盖对土壤入渗性能的影响
+
+初始入渗率、稳定入渗率和平均入渗率是评价土壤入渗中最常用的3个指标。初始入渗率表征了地表水能否迅速渗人土壤成为土壤水，它是评价降水形成地表径流难易程度的重要指标之一。由表3可知，同一种耕作方式下，液膜和塑膜覆盖间初渗速率没有显著差异。分析其原因得出，虽然液膜覆盖初期地表会形成一层薄膜，类似于地表结皮，但随着时间的推移，液膜会逐渐降解，到玉米收获后入渗试验时，液膜和塑膜处理对初始入渗率不会产生显著影响。初始土壤含水率间也没有显著差异，也不会引起初始入渗速率的差异。而同一覆盖方式下，和平作相比，垄沟耕作显著降低了初始入渗速率，说明耕作方式引起了初始入渗率的显著变化。另外，本次试验中初始含水率间没有显著差异，所以不是引起土壤入渗差异的原因。
+
+入渗开始约 $3 0 { \sim } 5 5 ~ \mathrm { m i n }$ 后逐渐进入稳渗阶段。从表3分析得出，PY、LY的稳定入渗率和 $1 2 0 \mathrm { m i n }$ 内平均入渗率均显著高于PS、LS和CK，且CK的平均入渗率最低( $\left( P < 0 . 0 5 \right)$ 。说明连续4a液膜覆盖比塑料地膜覆盖更有利于改善土壤结构、孔隙等性质特征，能增加土壤的渗透能力。试验也表明耕作方式对土壤稳定入渗率的影响不显著。
+
+# 2.4液膜覆盖后土壤入渗性能与其结构特性间相关性分析
+
+土壤入渗性能受土壤自身理化性质影响[。本文选用 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性团聚体含量、毛管孔隙度、团聚体结构破坏率、团聚体水稳性指数、有机质含量等土壤理化性质指标与土壤入渗速率间进行Pearson相关分析。
+
+由表4分析表明，初始入渗率与理化性质指标间相关性较小，这可能是当供水接触到地表便直接沿地表非毛管孔隙进入土壤，与土壤理化性质间响应关系较小。
+
+稳定入渗率与毛管孔隙度、 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性团聚体含量间显著正相关( $\left( P < 0 . 0 5 \right)$ ，与团聚体结构破坏率显著负相关，与团聚体水稳性指数间极显著正相关( $\stackrel { \triangledown } { \boldsymbol { P } } < 0 . 0 1 \$ )。这是由于稳定人渗率为入渗趋于恒定后土壤入渗速率，既与表层土壤非毛管孔隙度有关，也与下层土壤结构有关，因而土壤结构性指标显著影响着土壤稳定入渗率。
+
+$1 2 0 ~ \mathrm { m i n }$ 平均入渗率与有机质含量、毛管孔隙度、 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性团聚体含量间显著正相关，与团聚体结构破坏率呈极显著负相关，与团聚体水稳性指数间极显著正相关( $\left( P < 0 . 0 1 \right)$ 。这是因为平均入渗率贯穿整个入渗过程，入渗率与土壤的理化性质密切相关，土壤有机质含量越高，结构越好，越有利于水分入渗。研究表明，长期液膜覆盖可以显著增加土壤有机质含量，也可改善土壤结构状况，增加土壤团聚体稳定性，从而也改善了土壤入渗性能。
+
+表3不同处理土壤水分入渗特征指标  
+Tab.3 Soil infiltration characteristic indices under diferent treatments   
+表4土壤入渗率与土壤理化性质指标间相关性  
+
+<html><body><table><tr><td>处理</td><td>初始含水率/%</td><td>初始人渗率/(mm·min-1)</td><td>稳定入渗率/(mm·min-1)</td><td>120 min平均入渗率/(mm·min-1)</td></tr><tr><td>PY</td><td>10.94a</td><td>7.42a</td><td>0.89a</td><td>1.50a</td></tr><tr><td>LY</td><td>11.32a</td><td>6.34ab</td><td>0.86a</td><td>1.39a</td></tr><tr><td>PS</td><td>10.67a</td><td>8.39a</td><td>0.58b</td><td>1.26b</td></tr><tr><td>LS</td><td>11.52a</td><td>5.58b</td><td>0.55b</td><td>1.25b</td></tr><tr><td>CK</td><td>10.01a</td><td>7.87a</td><td>0.54b</td><td>1.04c</td></tr></table></body></html>
+
+Tab.4 Correlations between soil infiltration rates and soil physical and chemical properties   
+
+<html><body><table><tr><td></td><td>有机质/(g·kg-1)</td><td>毛管孔隙度/%</td><td>>0.25mm水稳性团聚体/%</td><td>团聚体破坏率/%</td><td>团聚体水稳性指数/%</td></tr><tr><td>初始入渗率/(mm·min-)</td><td>0.231</td><td>0.048</td><td>-0.099</td><td>0.083</td><td>0.123</td></tr><tr><td>稳定入渗率/(mm·min-1)</td><td>0.355</td><td>0.592*</td><td>0.507*</td><td>-0.589*</td><td>0.733**</td></tr><tr><td>平均入渗率/(mm·min-)</td><td>0.549*</td><td>0.768*</td><td>0.682*</td><td>-0.765**</td><td>0.938**</td></tr></table></body></html>
+
+注：\*\*表示极显著相关( $\cdot P { < } 0 . 0 1$ ）； $*$ 表示显著相关( $\cdot P < 0 . 0 5$ 。
+
+# 3讨论
+
+有关研究表明，农田喷施液态地膜在减少“白色污染”的同时，具有与塑料地膜相类似的效果[20-21],而且农田喷施液态地膜省时省工，不受地形限制，可为农田覆盖栽培技术注人新的活力。
+
+本研究中连续4a液膜覆盖对土壤容重、结构特性及土壤有机质含量等方面的影响与张洁[1、杨清华[22]、张国全[23]等的研究结果相类似。有机质是土壤团聚体形成的重要胶结剂。液膜覆盖能增加土壤有机质含量，能改善土壤的孔隙状况，增加团粒结构稳定性。
+
+土壤的结构特征与土壤入渗性能间有密切关系[。莫斌等[24研究表明,紫色土区不同土地利用下土壤初始入渗率与初始含水率、毛管孔隙度及有机质含量呈负相关，其中与毛管孔隙度为显著负相关；陈文媛等在黄土丘陵区林草恢复进程中土壤初始入渗率与有机质含量及 $> 0 . 2 5 ~ \mathrm { m m }$ 水稳性团聚体含量间呈显著正相关。本研究得出土壤初始入渗率与选定的理化指标间没有显著相关性。但本研究认为土壤稳定入渗率和平均入渗率与土壤毛管孔隙度间呈显著正相关。这与郭天雷等的研究结果相类似。这是因为土壤有效孔隙率大、对其中运动流体的阻力就小，相应的土壤人渗能力也增大。本研究得出土壤稳定入渗率和平均入渗率与水稳定性团聚体含量和水稳性指数间呈显著或极显著正相关，与团聚体破坏率间呈显著或极显著负相关。这主要是因为水稳性团聚体形成后，改善了土壤的孔隙状况，不仅使土壤通气透水性得到改善，而且改善了土壤的水力结构稳定性，使土壤稳定入渗速率保持恒定，更有利于土壤水分的人渗。
+
+研究还表明，同种覆盖方式下，垄沟耕作较平作降低了土壤的初始入渗率。分析得出：入渗试验是在玉米种植行间进行的，而垄沟耕作条件下，降雨时通过垄部的集雨作用在沟内有较多雨水集聚，等水分入渗和蒸发损失后在沟内表层形成部分结皮，影响了初始入渗率。垄沟耕作对稳定人渗率和平均入渗率的影响不显著。
+
+# 4结论
+
+（1）连续4a喷洒液膜能改善土壤理化性质。喷洒液态地膜显著增加了土壤有机质含量和毛管孔隙度；液态地膜和塑料地膜覆盖处理间土壤容重差异不显著，但与对照相比较均有显著降低。同种覆盖方式下，垄沟耕作和平作间土壤有机质含量、土壤容重及毛管孔隙度间差异不显著;垄沟耕作增加了土壤黏粒组含量而相应地减少了粉粒组含量。
+
+(2)液膜覆盖能改善土壤结构特征。和其他处理相比，LY显著提高了干筛、湿筛 $> 0 . 2 5 ~ \mathrm { m m }$ 团聚体含量，LY、LS显著提高了湿筛土壤团聚体平均重量直径(MWD)值，PY、LY显著降低了土壤团聚体结构破坏率及显著提高了团聚体水稳性指数。同种覆盖方式下，垄沟耕作较平作更有利于改良土壤结构特征。
+
+(3）液膜覆盖提高了土壤稳定入渗性能。PY、LY的稳定入渗率和平均入渗率显著高于其他处理;PY和PS间、LY和LS间初渗速率没有显著差异；同种覆盖方式下，垄沟耕作和平作对稳定入渗率的影响没有显著差异。
+
+（4）土壤理化性质对土壤的入渗性能会产生影响。相关分析表明：土壤有机质含量与入渗指标间呈正相关，与平均入渗率间呈显著正相关；毛管孔隙度显著影响土壤稳定人渗率和平均人渗率;3个团聚体稳定指标显著或极显著影响着土壤稳定入渗率及平均入渗率。
+
+# 参考文献(Reference):
+
+[1]陈亚凯,邵芳,乔志勇,等.黄河泥沙充填复垦耕地表层土壤垂 直入渗特性研究[J].中国生态农业学报,2014,22(7):798-805. [Chen Yakai, Shao Fang,Qiao Zhiyong,etal.Vertical infiltration characteristics of reclaimed farmlandsoilswithYellowRiver sediment fil[J]. Chinese Journal of Eco-Agriculture,2O14,22(7): 798- 805.]   
+[2] 吕春花,郑粉莉.冰草根系生长发育对土壤团聚体形成和稳定 性的影响[J].水土保持研究,2004,11(4):97-100.[Lyu Chunhua,Zheng Fenli. Soil aggregate formation and stability as effectedbyroot growthofryegrass[J].Research of Soil and Water Conservation,2004,11(4): 97-100.]   
+[3] 王勇,张建辉,张泽洪,等.长期向上耕作对坡耕地土壤水稳定 性团聚体的影响[J].水土保持研究,2016,23(1):44-49.[Wang Yong,Zhang Jianhui, Zhang Zehong,et al. Impacts of long-term
+
+upslope tillage systems on soil water-stable aggregates on a steep
+
+hillslope[J].Research of Soil and Water Conservation,2016,23 (1): 44-49.]   
+[4]陈文媛,张少妮,华瑞,等.黄土丘陵区林草恢复进程中土壤入 渗特征研究[J].北京林业大学学报,2017,39(1):62-69.[Chen Wenyuan, Zhang Shaoni,Hua Rui,et al. Effects of forestland and grassland restoration process on soil infiltration characteristis in loess hilly region[J]. Journal of Beijing Forestry University,2017, 39(1): 62-69.]   
+[5]袁建平,张素丽,张春燕,等.黄土丘陵区小流域土壤稳定入渗 速率空间变异[J].土壤学报,2001,38(4): 579-583.[Yuan Jianping, Zhang Suli, Zhang Chunyan,et al. Spatial variabilityof soil stable infiltration rate in small watershed in Loess Hilly Region[J]. Acta Pedologica Sinica,2001,38(4): 579-583.]   
+[]享 郭天雷,胡雪琴,黄先智,等.紫色丘陵区坡耕地生物埂土壤结 构特征及其对入渗的影响[J].水土保持学报,2015,29(1):36- 40.[Guo Tianlei,Hu Xueqin,Huang Xianzhi, et al. Soil structural characteristics and its effect on infiltration on sloping farmland bio-bank inpurple hillyarea[J]. Journal ofSoiland WaterConservation,2015,29(1): 36-40.]   
+[7]Zhang G S,Chan K Y,Oates A,et al. Relationship between soil structure and runof/soil loss after 24 years of conservation tillge [J]. Soil and Tillage Research,2006,92(1): 122-128.   
+[8]Franzluebbers A J. Water infiltration and soil structure related to organic matter and itsstratification with depth[J].Soil and Tillage Research,2002,66(2): 197-205.   
+[9]杜轶,董晓辉,张勇,等.垄沟耕作条件下液膜覆盖对土壤水热 状况及玉米生长的影响[J].水土保持通报,2017,37(1):72-77. [Du Yi,Dong Xiaohui, Zhang Yong,etal.Effectsonsoil temperature,moisture and maize growth of liquid film mulching in ridge and furrow planting conditions[J]. Bulletin of Soil and Water Conservation,2017,37(1): 72-77.]   
+[10] 张洁,姚宇卿,吕军杰,等.液态地膜对土壤物理性状的影响及 增产效果[J].土壤通报,2005,36(4): 638-640.[Zhang Jie,Yao Yuqing,Lyu Junjie,et al.Efect of liquid film on crop yield and soil physical behavior[J]. Chinese Journal of Soil Science,2005,36 (4): 638-640.]   
+[11]莫非,周宏,王建永,等.田间微集雨技术研究及应用[J].农业工 程学报,2013,29(8):1-17.[MoFei,Zhou Hong,WangJianyong, et al.Development and application of micro-field rain-harvesting technologies[J]. Transactions of the Chinese Society of Agricultural Engineering,2013,29(8): 1-17.]   
+[12] 吕殿青,邵明安,王全九,等.垄沟耕作条件下的土壤水分分布 试验研究[J].土壤学报,2003,40(1):147-150.[Lyu Dianqing, Shao Mingan, Wang Quanjiu,et al. Experimental study on soil water distribution under ridge and furrow cultivation[J].Acta Pedologica Sinica,2003,40(1): 147-150.]   
+[13]白秀梅,卫正新,郭汉清.旱地起垄覆膜微集水种植玉米技术研
+
+究[J].山西农业大学学报(自然科学版),2011,31(1):13-17.
+
+[Bai Xiumei, Wei Zhengxin, Guo Hanqing.Study on micro-rainwater catchment and planting technique of ridge film mulching and furrow seeding of corn in dryland[J]. Journal of Shanxi Agricultural University(Natural Science Edition),2011,31(1): 13-17.]   
+[14]周昌明,李援农,银敏华,等.液态地膜覆盖下种植方式对土壤 水分和玉米生长的影响[J]).农业机械学报,2016,47(4):49-58. [Zhou Changming,Li Yuannong,Ying Minghua,et al. Effects of cropping patterns on soil moisture and maize growth under liquid film mulching[J]. Transactions of the Chinese Society for Agricultural Machinery,2016,47(4): 49-58.]   
+[15] 李云光,王振华,张金珠,等.液体地膜覆盖对滴灌棉花生长及 土壤水温盐环境的影响[J].西北农业学报,2014,23(12):110- 115.[Li Yunguang, Wang Zhenhua, Zhang jinzhu,etal.Efectsof liquid film mulching on the growth of drip irigated cotton and soil moisture, temperature and salts[J]. Acta Agriculturae Boreali-occidentalis Sinica,2014,23(12): 110-115.]   
+[16] 依艳丽.土壤物理研究法[M].北京:北京大学出版社,2009:55- 70.[Yi Yanli. Soil Physics Research Method[M]. Beijing:Peking University Press,2009: 55-70.]   
+[17] 邱莉萍,张兴昌,张晋爱,等.黄土高原长期培肥土壤团聚体中 养分和酶的分布[J].生态学报,2006,26(2):364-372.[Qiu Liping, Zhang Xingchang,Zhang Jinai, et al.Distribution of nutrients and enzymes in Loess Plateau soil aggregates after long-term fertilization[J]. Acta Ecologica Sinica,2006,26(2): 364-372.]   
+[18] 汪三树,史东梅,蒋光毅,等.紫色丘陵区坡耕地生物埂的土壤 结构稳定性与抗蚀性分析[J].水土保持学报,2012,26(6):31- 35.[Jiang Sanshu, Shi Dongmei, Jiang Guangyi, et al.Analysis of soil structure stability and corrosion resistance of slop land biobank in purple hilly area[J]. Journal of Soil and Water Conservation,2012,26(6): 31-35.]   
+[19] 赵勇钢,赵世伟,曹丽花,等.半干旱典型草原区退耕地土壤结 构特征及其对入渗的影响[J].农业工程学报,2008,24(6):14- 20.[Zhao Yonggang,Zhao Shiwei, Cao Lihua, etal. Soil structural characteristics and its effect on infiltration on abandoned lands in semi-arid typical grassland areas[J].Transactions of the Chinese Society of Agricultural Engineering,2008,24(6): 14-20.]   
+[20] 温晓霞,韩思明,赵风霞,等.旱作小麦地膜覆盖生态效应研究 [J].中国生态农业学报,2003,11(2):93-95.[Wen Xiaoxia,Han Siming,Zhao Fengxia,et al. Study on the ecological effects of film mulching on dryland wheat[J]. Chinese Journal of Eco- Agriculture, 2003,11(2): 93- 95.]   
+[21] 强小嫚,周新国,李彩霞,等.不同水分处理下液膜覆盖对夏玉 米生长及产量的影响[J].农业工程学报,2010,26(1):54-60. [Qiang Xiaoman, Zhou Xinguo,Li Caixia,et al.Effct of liquid film mulching on growth and yield of summer maize under diferent soil moisture conditions[J]. Transactions of the Chinese Society of Agricultural Engineering,2010,26(1): 54-60.]   
+[22] 杨青华,贺德先,刘华山,等.液体地膜覆盖对棉花产量与土壤 环境的影响[J].农业工程学报,2005,21(5):123-126.[Yang Qin
+
+ghua,He Dexian,Liu Huashan,et al. Effect of liquid film mulching on cotton yield and soil environment[J]. Transactions of the Chinese Society of Agricultural Engineering,2005,21(5):123-126.]
+
+[23]张国全,韦丹，聂立水,等.液体地膜对黄土丘陵沟壑区侧柏林 土壤性质影响[J].中国水土保持科学,2015,13(5):140-144. [Zhang Guoquan,Wei Dan,Nie Lishui,et al.Effects of liquid film mulching on soil properties of Platycladus orientalis stand in the hilly- gully region of Loess Plateau,western China[J]. Science of Soil and Water Conservation,2015,13(5): 140-144.]
+
+[24] 莫斌,陈晓燕,杨以翠,等.不同土地利用类型土壤入渗性能及 其影响因素研究[J].水土保持研究,2016,23(1):13-17.[Mo Bin, Chen Xiaoyan,Yang Yicui,et al.Research on soil infiltration capacity and its influencing factors in different land uses[J].Resrarch of Soil and Water Conservation,2016,23(1):13-17.]
+
+# Effects of liquid film mulching on the soil structure and infiltration characteristics of drylands
+
+BAI Xiumei'， ZHANG Yao'， ZHANG Yong²，DU Yi (1.Collge ofForestry,Shanxi Agricultural University,Taigu O3o8O1,Shanxi, China;2.Shanxi Soil and Water Conservation Institute of Science,Taiyuan O3ool3,Shanxi, China;3.Collgeof Resourceand Environment,Shanxi Agriculture University,Taigu O3O8O1,Shanxi, China)
+
+Abstract: The experiment was conducted using a randomized block design in the forestry test station of Shanxi Agricultural University from 2015 to 2018 to study theeffects of long-term liquid film mulching on the soil structure and infiltration characteristics of drylands.The experimental design included the liquid or plastic film mulching in ridge and furow planting or conventional tillage conditions.Liquid film mulching improved the soil physical and chemical properties.Compared with the other treatments,the content of organic matter and the soil capilary porosity were increased significantly in the liquid film mulching treatment. Compared with the control, the soil bulk density of the other treatments was remarkably reduced.Liquid film mulching improved the soil structure characteristics. Compared with the other treatments,the soil aggregate compositions and the water stability soil aggregate compositions of $> 0 . 2 5 \ \mathrm { m m }$ particle size were markedly increased in the liquid film mulching and ridge and furrow planting conditions.The soil aggregate breakage rate was reduced and the soil aggregate water stability index was improved remarkably by liquid film mulching.Liquid film mulching improved the stable soil infiltration performance. Compared with the other treatments,the stable infiltration rates and the accumulative infiltration rates in $1 2 0 ~ \mathrm { { m i n } }$ were increased markedly in liquid film mulching.In the same kind of coverage condition,compared with the conventional tilage method, the ridge and furrow planting method was beneficial to improve the soil structure characteristics.There was no significant difference between the two planting methods in the steady infitration rates. Corelations showed that there was no significant correlation between the initial infiltration rate and the soil physical and chemical index.The soil aggregate compositions of $>$ $0 . 2 5 ~ \mathrm { \ m m }$ particle size，MWD, the soil aggregate breakage rate，and soil aggregate water stability index significantly affected the stable and accumulative infiltration rates in $1 2 0 \mathrm { m i n }$ ：
+
+Keywords: liquid film； ridge and furrow planting; soil structure; infiltration; dryland

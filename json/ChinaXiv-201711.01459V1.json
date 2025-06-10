@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "脱氧雪腐镰刀菌烯醇与玉米赤霉烯酮联合暴露对体外培养鸡脾脏淋巴细胞内环境稳态的影响  \n任志华」王亚超² 邓俊良1\\*  \n（1.四川农业大学动物医学院，成都611130；2.西南科技大学，绵阳621010）摘要：本试验旨在研究脱氧雪腐镰刀菌烯醇（DON）与玉米赤霉烯酮与（ZEA）联合暴露对体外培养鸡脾脏淋巴细胞内环境稳态的影响。分别以 $0 . 0 1 2 \\ : \\ : 5 0 \\ : \\ : \\mu \\mathrm { g / m L }$ DON+0.00625 μg/mL ZEA、 $0 . 0 5 0 ~ \\mathrm { \\mu \\ g / m L }$ DON+0.025 μg/mL ZEA、 $0 . 2 \\ \\mathrm { \\mu \\ g / m L }$ $\\mathrm { D O N } { + } 0 . 1$ μg/mL ZEA、 $0 . 8 { \\mathrm { ~ \\textmu \\ g / m L } }$ DON $\\surd + 0 . 4 ~ { \\mu \\ g / \\mathrm { m L } }$ ZEA对体外培养鸡脾脏淋巴细胞进行联合暴露培养， $^ { 4 8 \\mathrm { ~ h ~ } }$ 后测定细胞膜ATP 酶( $\\mathrm { \\cdot } \\mathrm { C a } ^ { 2 + }$ -ATP酶、 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATP 酶)活性以及细胞内 $\\mathfrak { p H }$ 、 ${ \\mathrm { C a } } ^ { 2 + }$ 水平和钙调蛋白(CaM)的 mRNA表达水平。同时设不添加毒素的空白对照组。结果表明：添加毒素的各试验组间，细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平、CaMmRNA表达水平随毒素浓度的升高而增加，且添加毒素的各试验组均显著或极显著高于空白对照组 $( P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \\dot { }$ )。细胞内pH以及细胞膜 $\\mathrm { C a } ^ { 2 + }$ -ATP酶与 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATP 酶活性均随毒素浓度的升高而降低，且添加毒素的各试验组均显著或极显著低于空白对照组 $( P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \\$ )。由此得出，DON、ZEA 联合暴露导致体外培养鸡脾脏淋巴细胞内酸化、离子平衡失调等一系列细胞内环境稳态失衡，且呈剂量依赖性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "17关键词：脱氧雪腐镰刀菌烯醇；玉米赤霉烯酮；联合暴露；脾脏淋巴细胞；内环境稳态 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-01-24",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基金项目：国家自然科学基金项目（31402269）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：任志华（1982—)，女，河南开封人，副教授，博士，从事动物中毒病研究。E-mail: zhihua_ren@126.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者：邓俊良，教授，博士生导师，E-mail:dengjl213 $@$ 126.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S859.87 文献标识码：A 文章编号：脱氧雪腐镰刀菌烯醇(deoxynivalenol，DON)和玉米赤霉烯酮(zearalenone，ZEA)是饲料中 2 种最常见的霉菌毒素。霉菌毒素不仅会使动物生长性能、繁殖性能下降，还会造成免疫抑制，引起疾病高发。细胞是生物体的基本单位，细胞内环境稳定是维持细胞正常功能的必要条件山。当细胞内环境失调时，就会出现糖类、脂类、蛋白质三大物质代谢紊乱，基因表达复制异常，蛋白质合成异常，细胞结构、功能异常。脾脏是机体重要的免疫器官，体外培养鸡脾脏淋巴细胞已成为重要的研究模型4。在前期的预试验中我们发现DON 与 ZEA 联合暴露会导致体外培养鸡淋巴细胞的凋亡（数据未列出）。在细胞凋亡过程中，多伴随细胞内环境稳态失衡，其中细胞内氧化还原、酸碱度与离子浓度平衡状态失调既是细胞凋亡的特征，又在一定程度上促进细胞凋亡4。我们的前期研究表明单独染毒DON或 ZEA[4均可导致鸡体外脾脏淋巴细胞内环境失衡，进而引起细胞凋亡，但两者联合暴露对体外培养鸡脾脏淋巴细胞内环境稳态影响的研究报道较少。本研究以原代培养鸡脾脏淋巴细胞为模型，重点研究 DON 与 ZEA 联合暴露后细胞膜 ATP 酶 $( \\mathrm { C a } ^ { 2 + }$ -ATP 酶、Na+/K+-ATP 酶)活性及细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平、pH及钙调蛋白（calmodulin，CaM）mRNA 表达水平变化，为阐明 DON 与 ZEA 联合暴露致细胞凋亡的机制提供理论依据。1 材料与方法  \n57 1.1 试验材料  \n58 胎牛血清（FBS）（美国 Gibco)，DON、ZEA 及无酚红的 RPMI1640 培养基(美国  \n59 Sigma)，细胞计数试剂盒(CCK-8)(日本 Dojindo)，细胞内 pH 荧光探针 BCECF-AM 染液  \n60 （日本 Dojindo)，细胞内钙离子荧光探针 Fluo-3/AM 染液(美国 Molecular Probes),  \n61 活化 Taq 酶等 PCR 反应试剂(日本 TaKaRa)，Trizol 试剂盒、M-MLV 反转录酶(美  \n62 国 Invitrogen)，溴化乙锭(EB)(美国 Sigma)，聚乙二醇辛基苯基醚(TritonX-100)(美  \n63 国 Sigma)，三羟甲基氨基甲烷盐酸盐(Tris-HCl)缓冲液(美国 Sigma)，细胞内蛋白质测定试剂盒(Lorry 法)、细胞膜 ATP酶( $\\mathrm { C a } ^ { 2 + }$ -ATP酶与 $\\mathrm { { N a } ^ { + } / \\mathrm { K } ^ { + } }$ -ATP 酶)测定试剂盒(南京建成生物工程研究所)。  \n1.2 试验方法  \n脾脏淋巴细胞悬液的制备：在无菌条件下，将由东北农业大学动物医学院动物中心提供的 40\\~60 日龄健康的伊莎公鸡的脾脏取出，放入盛有磷酸盐缓冲液（PBS）的培养皿里，用 PBS 轻轻洗涤脾脏周围的血液残渣，仔细剥去脾脏周围的结缔组织，将其移入另一个盛有 PBS 的浸泡有 200 目网筛的培养皿中，用镊子将脾脏放在 200 目铜网上，用 $2 0 ~ \\mathrm { m L }$ 一次性注射器的内芯轻轻研磨，过滤，将滤液适当稀释成一定浓度的细胞悬液，再将细胞悬液移入预先装有鸡淋巴分离液的离心管里，立即缓缓以 1:1 体积比将细胞悬液移入到鸡淋巴分离液上层，室温下 $2 \\ 0 0 0 \\ \\mathrm { r / m i n }$ 离心 $1 5 ~ \\mathrm { m i n }$ ，用巴氏吸管移取淋巴细胞，加入冷的PBS洗涤， $4 \\mathrm { { ~ } ^ { \\circ } C }$ 下 $1 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $5 ~ \\mathrm { m i n }$ ，弃去上清液，加入不含毒素的RPMI1640完全培养液（加胎牛血清）再洗涤1次，重悬，制备 ${ 5 \\times 1 0 } ^ { 6 }$ 细胞 $/ \\mathrm { m L }$ 的细胞悬液，并用台盼蓝检测细胞活力大于 $9 5 \\%$ 即表明脾脏淋巴细胞悬液制备成功。  \nDON 与 ZEA 联合暴露浓度的确定：本试验应用CCK-8 法分别检测了DON、ZEA对体外培养的鸡脾脏淋巴细胞的活性的影响。染毒 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时，DON 的半数抑制浓度（ $\\mathrm { I C } _ { 5 0 }$ ）为（ $3 0 . 8 2 { \\pm } 1 0 . 4 8 \\rangle$ ， $\\mu \\mathrm { g / m L }$ ，ZEA的 $\\mathrm { I C } _ { 5 0 }$ 为（ $2 3 . 9 1 { \\scriptstyle \\pm 4 . 9 6 }$ ） $\\mu \\mathbf { g } / \\mathrm { m L }$ 。通过$\\mathrm { I C } _ { 5 0 }$ ，筛选出 DON、ZEA 单独的作用浓度，由于在前期预试验中 DON、ZEA 单独染毒时高浓度组均造成脾脏淋巴细胞的严重损伤。因此，在正式试验中以 DON、ZEA 低浓度进行联合暴露，即确定联合暴露剂量为 $0 . 0 1 2 \\ 5 0 \\ \\mu \\mathrm { g / m L }$ DON+0.006 25（204 $\\mu \\mathrm { g / m L }$ ZEA（DZ1组）、 $0 . 0 5 0 ~ \\mu \\varrho / \\mathrm { m L }$ D $1 0 \\mathrm { N + 0 } . 0 2 5 \\ \\mu \\mathrm { g / m L }$ ZEA（DZ2 组）、0.2（204 $\\mathrm { \\Delta \\mathrm { \\cdot g / m L ~ D O N + 0 . 1 ~ \\mu g / m L } }$ ZEA（DZ3 组）、 $0 . 8 \\ \\mu \\mathrm { g / m L } \\ \\mathrm { D O N } + 0 . 4 \\ \\mu \\mathrm { g / m L }$ ZEA（DZ4组）。同时设不添加毒素的空白对照组。  \n13细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平测定",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "染毒培养 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，收集细胞， $1 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $3 ~ \\mathrm { m i n }$ ，后用PBS洗涤细胞3次。用PBS 悬浮细胞，加入细胞内钙离子荧光探针 Fluo-3/AM 染液使其终浓度为 $1 \\ \\mathrm { \\mu m o l / L }$ ，混匀， $3 7 \\mathrm { ~ \\textdegree C }$ 避光孵育 $3 0 ~ \\mathrm { m i n }$ ，PBS 洗涤 3次，在流式细胞仪上测定其平均荧光强度(激发波长 $4 8 8 ~ \\mathrm { n m }$ ，发射波长 $5 3 0 \\mathrm { n m } \\$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 细胞内 $\\mathfrak { p H }$ 测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "染毒培养 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，收集细胞， $1 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $3 ~ \\mathrm { m i n }$ ，后用PBS洗涤细胞3次。在收集的细胞中加入不含胎牛血清的 RPMI1640 培养液，制备 ${ 5 \\times 1 0 } ^ { 6 }$ 细胞/毫升 $\\mathrm { m L }$ 的细胞悬液，加入细胞内pH荧光探针BCECF/AM染液，使其终浓度为 $2 \\ \\mathrm { \\mu m o l / L }$ ；然后在 $\\mathrm { C O } _ { 2 }$ 培养箱(避光， $3 7 \\ { ^ { \\circ } \\mathrm { C } }$ 中孵育 $3 0 \\ \\mathrm { m i n }$ 。收集细胞，用不含胎牛血清的 RPMI1640 培养液洗涤 3次，再用 PBS重悬细胞，在流式细胞仪上 $4 8 8 ~ \\mathrm { n m }$ 激发，相应的细胞内 $\\mathfrak { p H }$ 根据其荧光强度大小显示于一个二维点阵图上(X轴 $5 2 5 \\ \\mathrm { n m }$ ， $\\mathrm { \\Delta Y }$ 轴 $6 1 0 \\ \\mathrm { n m }$ )上。根据标准曲线结果，细胞内pH即为绿/与红荧光强度的比值，每个样本至少选用10000个细胞进行统计分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5细胞膜 $\\mathrm { C a } ^ { 2 + }$ -ATP酶与 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATP 酶活性测定",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "染毒培养 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，收集细胞， $1 ~ 5 0 0 ~ \\mathrm { r / m i n }$ 离心 $3 ~ \\mathrm { m i n }$ ，后用PBS洗涤细胞3次。每个样品中加入 ${ 5 0 0 } ~ \\mu \\mathrm { L }$ 含 $0 . 1 \\%$ TritonX-100 的 $0 . 1 \\ \\mathrm { m o l / L }$ Tris-HCl缓冲液 $\\mathrm { ( p H ~ } 7 . 4 \\mathrm { ) }$ 后，进行超声裂解 $( 4 ~ \\mathrm { ^ { \\circ } C } )$ 。将裂解液 $\\times 1 0 0 0 g$ 离心 $1 0 \\mathrm { m i n }$ ，取其上清液进行蛋白质定量，并用生理盐水(无磷)适当稀释使其蛋白质含量控制于 $3 { \\sim } 5 \\ \\mathrm { m g / m L }$ 。取裂解上清液测定其细胞膜 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ ATP酶与 ${ \\mathrm { C a } } ^ { 2 + }$ -ATP 酶活性(定磷法)，详细测定方法见试剂盒说明书。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6细胞内CaMmRNA的测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用Trizol法提取鸡脾脏淋巴细胞总RNA，使用M-MLV反转录酶反转录成cDNA。根据GenBank中公布的鸡的β-肌动蛋白（ $\\beta$ -actin）（L08165）和CaM(NM205005)的全基因序列，应用Prime 5.0软件设计特异的上、下游引物，并经GenBank Blast进行同源性检索后由Invitrogen公司（上海）合成。引物序列及参数见表1。按cDNA模板的反转录反应体系进行加样 $( 3 0 ~ \\mu \\mathrm { L } )$ ： $1 0 ~ \\mu \\mathrm { L }$ 总RNA，1μLM-MLV反转录酶， $1 ~ \\mu \\mathrm { L }$ RNA酶抑制剂， $4 ~ \\mu \\mathrm { L }$ dNTP，2$\\mu \\mathrm { L }$ Oligo dT， $4 ~ \\mu \\mathrm { L }$ DTT和 ${ 8 \\ \\mu \\mathrm { L } }$ 5×Buffer。按反转录程序进行，具体如下： $4 2 \\ { \\mathrm { { ' C } } } ,$ 反应30min，99℃灭活 $5 ~ \\mathrm { m i n }$ ， $5 \\ \\mathrm { ^ { \\circ } C } \\ 5 \\ \\mathrm { \\ m i n }$ 。反转录产物瞬时离心，保存在 ${ } _ { - 2 0 \\mathrm { ~ ‰ ~ } }$ 备用。通过Bio-RadCFX96荧光定量PCR仪对反转录产物进行PCR，反应条件为：活化Taq酶 $9 5 \\ \\mathrm { { ^ circ C } }$ 30 s； $9 5 \\ \\mathrm { { ^ circ C } }$ $1 0 ~ \\mathrm { s }$ ， $6 0 \\mathcal { C } 3 0 \\mathrm { ~ s ~ }$ ，扩增40个循环。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1CaM和 $\\beta$ -actin基因的引物序列及参数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/34f6b0594ac50ce66bc067049eabd86e84670e8362707dc2c4622aba3097c53a.jpg",
+        "table_caption": [
+            "Table 1 Primer sequences and parameters of $C a M$ and $\\beta$ -actin genes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">扩增长度</td></tr><tr><td>基因</td><td>引物序列</td><td>序列号</td></tr><tr><td>Genes</td><td>Primer sequences （5'-→3')</td><td>Amplification Serial number length/bp</td></tr><tr><td>-肌动蛋白</td><td>F:CACCACAGCCGAGAGAGAAAT</td><td></td></tr><tr><td>β-action</td><td>R:TGACCATCAGGGAGTTCATAGC</td><td>135 L08165</td></tr><tr><td>钙调蛋白</td><td>F:GATGGAGTTGGTAAAATGAGGGAA</td><td></td></tr><tr><td>CaM</td><td>R:ACGCACTGGAAAACTAGGGTCA</td><td>166 NM205005</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7数据统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "采用 MichaelW.Pfaffl 2001提供的REST软件（Pfaffl）分析毒素处理样品各目的基因mRNA表达水平的差异，软件采用的计算公式为：$\\begin{array} { r l } { \\mathbf { R a t i o } = } & { { } \\frac { \\left( \\mathbf { E } _ { \\mathrm { t a r g e t } } \\right) ^ { \\mathrm { { A c t } } } \\mathsf { _ { t a r g e t } } \\left( ^ { \\mathrm { M E A N \\ c o n t r o l - M E A N \\ s a m p l e } } \\right) } { \\left( \\mathbf { E } _ { \\mathrm { { r e f } } } \\right) ^ { \\mathrm { { A c t } } } \\mathsf { _ { t r e f } } \\left( ^ { \\mathrm { M E A N \\ c o n t r o l - M E A N \\ s a m p l e } } \\right) } } \\end{array}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中：Ratio为比率； $E _ { \\mathrm { t a r g e t } }$ 为目的基因的扩增效率； $\\boldsymbol { E } _ { \\mathrm { r e f } }$ 为内参基因的扩增效率;$M E A N _ { \\mathrm { c o n t r o l } }$ 为对照组的平均值； $M E A N _ { \\mathrm { s a m p l e } }$ 为样品的平均值。应用 SPSS13.0软件对数据进行显著性 $F$ 检验及其相关性分析，各指标的测定均重复3个不同批次的细胞，每批细胞每个组重复3次，数据以平均值 $\\pm$ 标准差表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1 DON、ZEA联合暴露对体外培养鸡脾脏淋巴细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平的影响由表2可知，DON、ZEA联合暴露 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，鸡脾脏淋巴细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平随毒素浓度的升高而增加，各试验组均极显著高于空白对照组 $( P { < } 0 . 0 1 )$ ，除DZ-2与DZ-3 组间没有显著差异 $( P { > } 0 . 0 5 )$ 外，其余各试验组间差异均显著或极显著 $( P { < } 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ )。由此表明，DON、ZEA 联合暴露可导致体外培养鸡脾脏淋巴细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平随毒素浓度的升高而增加，具有显著的剂量依赖关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2 DON、ZEA 联合暴露对体外培养鸡脾脏淋巴细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平、 $\\mathfrak { p H }$ 及CaMmRNA表达水平",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2 Effects of combined exposure to DON and ZEA on intracellular $\\mathrm { C a } ^ { 2 + }$ level, pH and CaM mRNA expression level in chicken splenic lymphocytes cultured in vitro ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e16dab4a1a25020c9aa9df753bbfd60dc9691c4588df75c8a028d91687048463.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">钙离子水平</td><td rowspan=\"2\">pH</td><td rowspan=\"2\">CaMmRNA表达水</td></tr><tr><td colspan=\"2\"></td></tr><tr><td rowspan=\"2\">项目Items</td><td>Ca²+ level</td><td></td><td>平 CaM mRNA</td></tr><tr><td></td><td></td><td>expression level</td></tr><tr><td colspan=\"2\">空白对照组</td><td></td><td>1.044±0.110Cd</td></tr><tr><td colspan=\"2\">125.45±6.43Dd</td><td>7.387±0.037Aa</td><td></td></tr><tr><td colspan=\"2\">Blank control group</td><td></td><td></td></tr><tr><td>DZ-1</td><td>263.14±14.95Cc</td><td>7.313±0.021Ab</td><td>0.868±0.126Cd</td></tr><tr><td colspan=\"2\">试验组</td><td></td><td></td></tr><tr><td colspan=\"2\">DZ-2 316.71±3.16BCb</td><td>7.224±0.014Bc</td><td>1.291±0.156Bc</td></tr><tr><td colspan=\"2\">Experimental</td><td>7.112±0.014Cd</td><td>1.917±0.251Bb</td></tr><tr><td colspan=\"2\">DZ-3 354.03±8.36Bb</td><td></td><td></td></tr><tr><td colspan=\"2\">groups DZ-4 423.14±4.73Aa</td><td>7.026±0.021Ce</td><td>3.544±0.516Aa</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "143 同列数据上标有不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ ，不同小写字母表示差异显著  \n144 $( P { < } 0 . 0 5 )$ ，相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ 。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with diferent capital letter superscripts mean extremelysignificant difference $( P { < } 0 . 0 1 )$ ，and with different small letter superscripts mean significantdifference $( P { < } 0 . 0 5 )$ , and with the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ The same as below.  \n2.2 DON、ZEA联合暴露对体外培养鸡脾脏淋巴细胞内 $\\mathfrak { p H }$ 的影响  \n由表2可知，DON、ZEA 联合暴露 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，鸡脾脏淋巴细胞内 $\\mathfrak { p H }$ 随毒素浓度的升高而逐渐降低，各试验组均显著或极显著低于空白对照组( $\\cdot P { < } 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ ，同时各试验组间差异均显著或极显著( $\\scriptstyle \\sum 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1 ,$ )。由此表明，DON、ZEA 联合暴露可导致鸡脾脏淋巴细胞内 $\\mathfrak { p H }$ 随毒素浓度的升高而降低，具有显著的剂量依赖关系。  \n2.3 DON、ZEA 联合暴露对体外培养鸡脾脏淋巴细胞内CaMmRNA表达水平的影响由表 2 可知，DON、ZEA 联合暴露 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，除 DZ-1 组鸡脾脏淋巴细胞内CaMmRNA 表达水平较空白对照组稍有降低（ $P { > } 0 . 0 5$ ）外，其余试验组均较空白对照组显著或极显著降低( $\\scriptstyle \\sum 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1$ )。各试验组间，鸡脾脏淋巴细胞内CaMmRNA表达水平随着毒素浓度的升高而升高，除 DZ-1与 DZ-2 组差异不显著（ $\\cdot P { > } 0 . 0 5$ ）外，其余各试验组间差异均显著或极显著( $\\scriptstyle \\sum 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1$ )。由此表明，DON、ZEA 联合暴露可导致体外培养鸡脾脏淋巴细胞内CaMmRNA表达水平随毒素浓度的升高而增加(除 DZ-1组低于空白对照组)，具有显著的剂量依赖关系。  \n2.4DON、ZEA联合暴露对体外培养鸡脾脏淋巴细胞膜ATP 酶活性的影响  \n由表3 可知，DON、ZEA 联合暴露 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，鸡脾脏淋巴细胞膜 $\\mathrm { { N a } ^ { + } / \\mathrm { K } ^ { + } }$ -ATP酶和$\\mathrm { C a } ^ { 2 + }$ -ATP 酶活性均随毒素浓度的升高而逐渐降低，各试验组均极显著低于空白对照组( $P$ ${ < } 0 . 0 1 { \\rangle }$ ，同时各试验组间除 DZ-3 与 DZ-4 组差异显著 $( P { < } 0 . 0 5 )$ 外，其余试验组间差异均极显著 $( P { < } 0 . 0 1 )$ 。由此表明，DON、ZEA联合暴露可导致体外培养鸡脾脏淋巴细胞膜 ATP酶活性随毒素浓度的升高而降低，具有显著的剂量依赖关系。随毒素浓度的升高， $\\mathrm { C a } ^ { 2 + }$ ，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ATP 酶活性下降比 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATP 酶活性下降明显，表明 $\\mathrm { C a } ^ { 2 + }$ -ATP 酶对 DON、ZEA更敏感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表3DON、ZEA联合暴露对体外培养鸡脾脏淋巴细胞膜ATP酶活性的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 3 Effects of combined exposure to DON and ZEA on the activities of cellular membrane ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ATPases in chicken splenic lymphocytes cultured in vitro $\\mu \\mathrm { m o l / m g }$ prot ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ca²+-ATP酶 $\\mathrm { { N a } ^ { + } / \\mathrm { K } ^ { + } }$ -ATP酶 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "项目Items空白对照组",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/38dca5e5f3f01b94ca8958ad14189f421b59ebc8bd4eba7ce0351f5dc561eb0c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Blank</td><td>control</td><td>3.092±0.039Aa</td><td>4.589±0.138A</td></tr><tr><td>group</td><td></td><td></td><td></td></tr><tr><td>试验组</td><td>DZ-1</td><td>2.363±0.024Bb</td><td>3.571±0.081B</td></tr><tr><td>Experim</td><td>DZ-2</td><td>0.578±0.008Cc</td><td>2.373±0.023C</td></tr><tr><td>ental</td><td>DZ-3</td><td>0.089±0.002Dd</td><td>1.958±0.021D</td></tr><tr><td>groups</td><td>DZ-4</td><td>0.041±0.008De</td><td>1.362±0.008E</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tonshin等研究表明，DON对小鼠肝脏线粒体内进行了氧化磷酸化，引起了线粒体的膜电位、 $\\boldsymbol { \\mathrm { H } } ^ { + }$ 、 $\\mathrm { K } ^ { + }$ 及其他离子水平的变化，线粒体肿胀， $\\mathrm { K } ^ { + }$ 渗透性增强， $\\mathrm { C a } ^ { 2 + }$ 也流出，损害了线粒体膜的功能，造成钙稳态失衡。彭双清等的研究表明，DON对体外培养的人心肌细胞B、L、T三型 $\\mathrm { C a } ^ { 2 + }$ 通道均有明显的阻滞作用，减少三型 $\\mathrm { C a } ^ { 2 + }$ 通道的开放概率，缩短开放时间，延长关闭时间。上述研究结果说明DON能够导致小鼠肝细胞及人心肌细胞内的钙稳态失衡，干扰与 $\\mathrm { C a } ^ { 2 + }$ 相关的信号传导，导致细胞功能障碍。而细胞内 $\\mathrm { C a } ^ { 2 + }$ 超载在细胞凋亡过程中发挥重要作用。研究表明，细胞内 $\\mathrm { C a } ^ { 2 + }$ 超载主要通过激活 $\\mathrm { C a } ^ { 2 + } / \\mathrm { M g } ^ { 2 + }$ 依赖性核酸内切",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "删除的内容酶和激活 $\\mathrm { C a } ^ { 2 + } / \\mathrm { C a M }$ 依赖性相关酶活性而诱导细胞凋亡。细胞内 $\\mathrm { C a } ^ { 2 + }$ 超载与线粒体功能关系密切，一方面，线粒体作为细胞内钙存储器而在细胞内 $\\mathrm { C a } ^ { 2 + }$ 内环境稳定过程中发挥重要删除的内容作用[，线粒体功能受损所引起的ATP水平降低直接介导细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平增加[2]；另一方删除的内容面，细胞内 $\\mathrm { C a } ^ { 2 + }$ 超载可以促进线粒体氧化磷酸化解耦联与线粒体通透性转移孔的开放，这将导致氧化磷酸化作用的抑制、质子动力势降低、线粒体肿胀、线粒体内 $\\mathrm { C a } ^ { 2 + }$ 释放进入胞删除的内容浆而促进细胞死亡[3]。本研究发现，DON、ZEA联合暴露导致体外培养鸡脾脏淋巴细胞内$\\mathrm { C a } ^ { 2 + }$ 超载，造成线粒体功能障碍，这可能是DON、ZEA导致鸡脾脏淋巴细胞发生凋亡的一删除的内容条重要机制，这与Busk等[4应用定量蛋白质组学分析ZEA对人的肾上腺皮质细胞株H295R的影响时发现ZEA影响氧化磷酸化途径和线粒体功能障碍的途径相一致。细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平是由多种因素所调控的，除线粒体对细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平的调控作用外，细胞膜 $\\mathrm { N a } ^ { + } / \\mathrm { K } ^ { + }$ -ATP酶与 $\\mathrm { C a } ^ { 2 + }$ -ATP酶在细胞内 $\\mathrm { C a } ^ { 2 + }$ 内环境稳态过程中发挥重要作用，它们主要参与将胞浆内游离 $\\mathrm { C a } ^ { 2 + }$ 跨越细胞膜转移到细胞外液过程，同时还参与其他离子转运及删除的内容ATP合成；若二者活性降低，将导致胞浆内 $\\mathrm { C a } ^ { 2 + }$ 超载，而 $C a M$ 是真核细胞内 $\\mathrm { C a } ^ { 2 + }$ 的重要受体，通过传递 $\\mathrm { C a } ^ { 2 + }$ 调节细胞功能的各种信息。当细胞内 $\\mathrm { C a } ^ { 2 + }$ 达到一定水平 $( > 1 0 \\ \\mu \\mathrm { m o l / L } )$ （204号时， $\\mathrm { C a } ^ { 2 + }$ 便与CaM结合，使CaM活化，被活化的CaM再去激活 $\\mathrm { C a } ^ { 2 + }$ -ATP酶，使细胞质内维删除的内容持较低水平的钙，行驶第二信使的功能[6]。本研究结果表明，不同剂量的DON、ZEA联合暴露均可使鸡脾脏淋巴细胞膜 $\\mathrm { N a } ^ { + } / \\mathrm { K } ^ { + } .$ -ATP酶与 $\\mathrm { C a } ^ { 2 + }$ -ATP酶活性显著或极显著降低，这可能是细胞内 $\\mathrm { C a } ^ { 2 + }$ 超载的原因之一。 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATP酶与 $\\mathrm { C a } ^ { 2 + }$ -ATP酶均为ATP依赖性酶，细胞内充足的ATP对于维持二者的功能很必要，线粒体呼吸功能抑制而导致的细胞内ATP水平降低删除的内容将会导致 $\\mathrm { N a } ^ { + } / \\mathrm { K } ^ { + }$ -ATP酶和 $\\mathrm { C a } ^ { 2 + }$ -ATP酶活性受到抑制[7]。本研究中2种ATP酶活性的降低可删除的内容能是由于DON、ZEA对细胞膜的氧化损伤和对细胞内能量代谢的干扰[20。本试验中，各试验组体外培养鸡脾脏淋巴细胞内CaMmRNA表达水平显著或极显著高于空白对照组，说明DON、ZEA可通过影响胞内钙池释放 $\\mathrm { C a } ^ { 2 + }$ ，使细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平升高， $\\mathrm { C a } ^ { 2 + }$ 便与CaM结合，",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "使CaM活化，被活化的CaM再去激活 $\\mathrm { C a } ^ { 2 + }$ -ATP酶，使细胞质内维持较低的 $\\mathrm { C a } ^ { 2 + }$ 水平，而$\\mathrm { C a } ^ { 2 + }$ -ATP酶活性降低，不能将进入细胞内的 $\\mathrm { C a } ^ { 2 + }$ 及时排出，从而呈现胞内 $\\mathrm { C a } ^ { 2 + }$ 的超载，这可能是鸡脾脏淋巴细胞发生凋亡的一条重要机制。  \n细胞内环境稳定是维持细胞正常功能的必要条件，细胞膜 $\\mathrm { C a } ^ { 2 + }$ -ATP 酶，它分解1个ATP 分子可将 $_ { 1 \\sim 2 }$ 个 $\\mathrm { C a } ^ { 2 + }$ 跨膜转移到胞外，同时以1:2 比例将 $\\boldsymbol { \\mathrm { H } } ^ { + }$ 转运到细胞内，使离子交换结果为电中性，质膜两侧膜电位差不致影响 $\\mathrm { C a } ^ { 2 + }$ 的转运，细胞膜特别是质膜的$\\mathrm { N a } ^ { + } / \\mathrm { C a } ^ { 2 + }$ 交换，已被认为是钙稳态调节过程中的一个重要组分，而酸碱平衡的调节则是内环境稳定的前提。细胞内 pH 的调节是通过离子转运机制以及胞浆强大的缓冲能力来完成的，这种离子转运机制包括： $\\mathrm { { N a } ^ { + } / \\mathrm { { H } ^ { + } } }$ 对流、ATP 驱动的 $\\boldsymbol { \\mathrm { H } } ^ { + }$ 泵以及几种碳酸氢盐交换器，而Na+/H+对流在细胞调控 pH 中起主要作用[8]。细胞内酸化程度与细胞凋亡发生率存在量效关系，研究表明，细胞内 pH变化直接参与线粒体介导的细胞凋亡，而胞内酸化可以促进细胞色素c介导的半胱天冬酶的激活[20]。本研究发现，DON、ZEA联合暴露可引起体外培养鸡脾脏淋巴细胞内 pH 降低，因此，可以认为DON、ZEA所致的线粒体膜功能受损是胞内酸化的主要原因，而胞内酸化又进一步促进细胞凋亡。  \n4结论  \nDON、ZEA 联合暴露导致体外培养鸡脾脏淋巴细胞内环境稳态失衡，主要包括细胞内 $\\mathrm { C a } ^ { 2 + }$ 超载（上调细胞内CaMmRNA 表达、增加细胞内 $\\mathrm { C a } ^ { 2 + }$ 水平）、胞内酸化、细胞膜ATP酶 $\\mathrm { { ( N a ^ { + } / K ^ { + } } }$ -ATP酶与 $\\mathrm { C a } ^ { 2 + }$ -ATP酶)活性降低。  \n致谢：感谢东北农业大学动物医学院徐世文教授、李艳飞教授、李金龙教授、王伟老师、张志刚老师、张子威博士、苏健硕士、张博硕士、关博硕士在试验期间给予的帮助。参考文献:  \n[1]VASILIEV J M,GELFAND I M.Surface changes disturbing intracelllar homeostasis as afactor inducing cel growth and division[J].Biosystems,1968,2(1):43-55.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] LI J L,LI S,TANG Z X,et al.Oxidative stress-mediated cytotoxicity of cadmium in chicken splenic lymphocytes[J].Toxicology Letters,2010,196(S1):S122. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[3] VILLANUEVA A I,KULKARNI R R,SHARIF S,et al.Synthetic double-stranded RNA oligonucleotides are immunostimulatory for chicken spleen cells[J].Developmental & Comparative Immunology,2011,35(1):28-34.   \n[4]MISSIAEN L,ROBBERECHT W,VAN DEN BOSCH L,et al.Abnormal intracellular $\\mathrm { C a } ^ { 2 + }$ homeostasis and disease[J].Cell Calcium,2000,28(1):1-21.   \n[5]REN Z H,WANG Y C,DENG H D,et al.Effects of deoxynivalenol on calcium homeostasis of concanavalin A-Stimulated splenic lymphocytes of chickens in vitro[J].Experimental and Toxicologic Pathology,2016,68(4):241-245.   \n[6] WANG Y C,DENG J L,XU S W,et al.Effects of zearalenone on calcium homeostasis of splenic lymphocytes of chickens in vitro[J].Poultry Science,2012,91(8):1956-1963.   \n[7]HIRPARA J L,CLEMENT M V,PERVAIZ S.Intracelular acidification triggered by mitochondrial-derived hydrogen peroxide is an efector mechanism for drug-induced apoptosis in tumor cells[J].Journal of Biological Chemistry,2001,276(1):514-521.   \n[8] TONSHIN A A,TEPLOVA V V,ANDERSSON M A,et al.The Fusarium mycotoxins enniatinsandbeauvericincausemitochondrialdysfunctionbyaffectingthe mitochondrialvolume regulation,oxidative phosphorylation and ionhomeostasis[J].Toxicology,2010,276(1):49-57.   \n[9]彭双清,杨进生.镰刀菌毒素脱氧雪腐镰刀菌烯醇对心肌细胞 $\\mathrm { C a } ^ { 2 + }$ 通道的阻滞作用[J].中 国预防医学杂志,2004,5(4):241-243.   \n[10] GAIDO M L,CIDLOWSKI JA.Identification,purification and characterization of a calciumdependent endonuclease (NUC18） from apoptotic rat thymocytes.NUC18 is not histone H2B[J].The Journal of Biological Chemistry,1991,266:18580-18585. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11] FOSTER K A,GALEFFI F,GERICH F J,et al.Optical and pharmacological tools to investigate the role of mitochondria during oxidative stress and neurodegeneration[J].Progess in Neurobiology,2006,79(3):136-171. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12] GRAMMATOPOULOS T N,JOHNSON V,MOORE S A,et al.Angiotensin type 2 receptor neuroprotection against chemical hypoxia is dependent on the delayed rectifier $\\operatorname { K } ^ { ^ { + } }$ channel,Na+/Ca²+ exchanger and （20 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATPase in primary cortical cultures[J].Neuroscience Research,2004,50(3):299-306. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13] ALTSCHULD R A.Intracelllar calcium regulatorysystemsduringischemia and reperfusion[M]//KarmazynM,ed.MyocardialIschemia:Mechanisms, Reperfusion, Protection.Basel:Birkhäuser,1996,76:87-97.   \n[14] BUSK O L,NDOSSI D,VERHAEGEN S,et al.Relative quantification of the proteomic changes associated with the mycotoxin zearalenone in the H295R steroidogenesis model[J].Toxicon,2011,58(6/7):533-542.   \n[15] BLAUSTEIN M P.Sodium ions,calcium ions,blood pressure regulation and hypertension:a reassessment and a hypothesis[J].American Journal of Physiology,1977,232(5):C165-C173.   \n[16] 王启明,邹凤志,白宝璋.钙调蛋白的功能[J].农业与技术,1998,18(6):35-36.   \n[17] QIN X J,LI Y N,LIANG X,et al.The dysfunction of ATPases due to impaired mitochondrial respiration in phosgene-induced pulmonary edema[J].Biochemical and Biophysical Research Communications,2008,367(1):150-155.   \n[18] REN Z H,WANG Y C,DENG H D,et al.Deoxynivalenol induces apoptosis in chicken splenic lymphocytesviathereactive oxygenspecies-mediatedmitochondrial pathway[J].Environmental Toxicology and Pharmacology,2015,39(1):339-346.   \n[19]边肖海,霍静,郑曙民.细胞内酸化对宫颈癌Hela细胞凋亡的影响[J].长治医学院学 报,2005,19(2):81-83.   \n[20] MATSUYAMA S,LOPIS J,DEVERAUX Q L,et al.Changes in intramitochondrial and cytosolic pH:early events that modulate caspase activation during apoptosis[J].Nature Cell ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Effects of Combined Exposure to Deoxynivalenol and Zearalenone on Homeostasis of Chicken Splenic Lymphocytes Cultured in Vitro ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "REN Zhihua’ WANG Yachao² DENG Junliang (1. College of Veterinary Medicine, Sichuan Agricultural University, Chengdu 611130, China; 2. Southwest University of Science and Technology, Mianyang 621010, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The aim of this experiment was conducted to study the effects of combined exposure to deoxynivalenol (DON） and zearalenone (ZEA） on the homeostasis of chicken splenic lymphocytes cultured in vitro. The chicken splenic lymphocytes were cultured in vitro with different doses of DON and ZEA in cultured fluid,and the combined exposure doses were DON $0 . 0 1 2 ~ 5 0 ~ \\mu \\mathrm { g / m L }$ and ZEA $0 . 0 0 6 2 5 ~ { \\mu \\mathrm { g / m L } }$ ,DON $0 . 0 5 0 ~ \\mu \\mathrm { g / m L }$ and ZEA $0 . 0 2 5 ~ { \\mu \\mathrm { g / m L } }$ ,DON 0.2 $\\mu \\mathrm { g / m L }$ and ZEA $0 . 1 ~ \\mu \\mathrm { g / m L }$ ,DON $0 . 8 ~ \\mu \\mathrm { g / m L }$ and ZEA $0 . 4 ~ \\mu \\mathrm { g / m L }$ , individually.After cultured 48 hours, the activities of cellular membrane ATPases ( $\\mathrm { \\cdot } \\mathrm { C a } ^ { 2 + }$ -ATPase and $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATPase), and the intracellular $\\mathrm { C a } ^ { 2 + }$ level，pH and calmodulin （CaM） mRNA expression level in chicken splenic lymphocytes were determined. And the blank contrast group was set separately. The results showed as follows: the intracelular $\\mathrm { C a } ^ { 2 + }$ level and CaM mRNA expression level in the treated groups were increased with the increase of toxin concentration， which were significantly or extremely significantly higher than those in the blank control group ( $_ { \\it P < 0 . 0 5 }$ or $\\scriptstyle P < 0 . 0 1 { \\\\mathrm { ~ } }$ ). The intracellular pH and the activities of cellular membrane $\\mathrm { C a } ^ { 2 + }$ -ATPase and （204 $\\mathrm { { N a } ^ { + } / \\mathrm { { K } ^ { + } } }$ -ATPase in the treated groups were decreased with the increase of toxin concentration, which were significantly or extremely significantly lower than those in the control group $_ { \\it P \\mathrm { < } 0 . 0 5 }$ （204号 or $P { < } 0 . 0 1 \\$ ).In conclusion，combined exposure to DON and ZEA can lead to a series of intracellular homeostasis, such as intracellular acidification and imbalance of ion homeostasis, which is dose dependent. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key words: DON; ZEA; combined exposure; splenic lymphocyte; homeostasis ",
+        "page_idx": 13
+    }
+]

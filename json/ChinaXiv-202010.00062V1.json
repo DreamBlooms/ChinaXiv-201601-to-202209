@@ -1,0 +1,357 @@
+[
+    {
+        "type": "text",
+        "text": "基于CAN总线的主动光学镜面位姿驱动系统研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖心怡1，张宗猛1，杨德华1，吴常铖1，金振宇2(1.南京航空航天大学自动化学院，江苏 南京 211106；2.中国科学院云南天文台，云南昆明 650011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为先进地基太阳望远镜(AST-G)主镜支撑系统预研，本文设计了一套基于CAN总线通信的主动光学镜面位姿调整驱动系统。首先面向一个主动支撑样机实验平台，开展了镜面运动学理论分析及位姿解算，然后采用STM32设计了一个主节点和三个子节点，实现了镜面位姿驱动系统中位移促动器的分布式控制。最后，开展了基于CAN总线的位移促动器性能测试及镜面位姿调整实验验证。结果表明，位移促动器的控制精度优于 $1 \\mu \\mathrm { m } \\ \\mathrm { R M S }$ ，镜面绕X、Y轴的转动误差优于1\"RMS，镜面Z轴方向平动误差优于 $1 \\mu \\mathrm { m } \\mathrm { R M S }$ 。本文所提基于CAN总线的位姿驱动系统研究为先进地基太阳望远镜(AST-G)主镜支撑系统的研制提供了技术探索，也可为其它主动光学应用系统提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：主动光学，CAN总线，镜面调整，位移促动器中图分类号：TH751 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着现代天文学的快速发展，主动光学技术的产生在保证望远镜优秀像质的前提下，使制造大口径天文望远镜成为了可能[1-2]。我国天文台建造的 $5 0 0 \\mathrm { m }$ 口径球面射电望远镜FAST采用主动反射面技术，基于CAN总线技术实现控制器对数据的接收与传递，驱动电机控制位移促动器的运动3。国家重大科学工程项目一大天区面积多目标光纤光谱天文望远镜LAMOST采用拼接镜面主动光学技术，基于以太网进行系统通信，采用集中分布式控制位移促动器，调整镜面位置[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "先进地基太阳望远镜(AST-G，Advanced Solar Telescope-Ground)主镜拟采用主动光学技术实现8米观测口径。本文为AST-G的主镜位姿调整的预研需求，借鉴FAST和LAMOST等望远镜的镜面主动控制的成功经验，研究了一种基于CAN总线的镜面位姿驱动系统。首先针对主动支撑样机实验系统，通过镜面位姿运动学分析，解算出位移促动器输出与镜面位姿之间的关系，并由工程应用中的基本需求，给出基于步进电机集成行星减速器的位移促动器的控制指标；构建了分布式架构的镜面位姿驱动系统，即单独控制每个步进电机，再由主控制器管理各个子控制器。具体来讲，每个子控制器只需控制一个步进电机的脉冲个数、脉冲频率、方向、启停等状态[5-7]。选用 STM32 设计了一个主节点和三个子节点，实现了位移促动器的控制。选择CAN总线通信技术进行子控制器与主控制器的数据传输。这种基于CAN 总线的分布式一对一的控制架构有效地减轻了主控制器的负担，子模块独立性好，提高了位姿控制系统的灵活性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1镜面位姿驱动系统总体设计方案与系统搭建",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参见图1(a)，本文实验利用了一个 $7 0 0 \\mathrm { m m }$ 口径普通平板玻璃主动支撑样机实验系统，具有9点轴向气动支撑及六杆式3自由度(piston，tip/tilt)位姿主动调整机构[]，并设有LVDT位移传感器件。基于这一样机实验平台，对本文研究的基于CAN总线的镜面位姿驱动系统展开实验测试，包括系统稳定性、重复性等测试，并对误差进行分析与校正。通过控制3个位移促动器来完成主镜位姿驱动，三个位移促动器均匀分布在主镜面上，其中位移促动器分布半径 $R _ { d } = 2 0 6 \\mathrm { m m }$ 。三组位移促动器及其二力杆机构能够实现对主镜三个自由度的主动调整功能，为实时监测位移促动器的输出位移，在位移促动器上集成了一只位移传感器线性可变差动变压器LVDT9。其具体调整机构如图1(b)所示。其中序号代表：1.镜面，2.殷钢垫,3.二力杆机构,4.拉压力传感器,5.镜室板,6.联接法兰,7.位移促动器,8.LVDT。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b4f0f917645b24a76045ae5898150b375bc4c3e00d7b9d175103ea7f2a300ca.jpg",
+        "img_caption": [
+            "图1位姿驱动系统搭建 Fig.1 Experimental set up system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1镜面运动学原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从运动学角度出发，将主镜面的质心设为原点，镜面为OXY平面，光轴的方向为Z轴，建立如图2所示的主镜面位姿解算坐标系。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b83a4eedca1e00b615552ac37e627cfe7e5b0cfef68162448bbd9539bb78565b.jpg",
+        "img_caption": [
+            "图2镜面位姿解算坐标系 Fig.2 Coordinate systemdefinition "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主镜的位姿调整是通过控制3个位移促动器完成的，图中 $d _ { 1 } \\ 、 d _ { 2 }$ 和 $d _ { 3 }$ 分别为调整后位移促动器的位置， $R _ { d }$ 是三个位移传感器所在圆环半径。可由三个位移促动器输出的位移量计算出主镜绕X轴的转动 $R _ { x }$ 和绕Y轴的转动 $R _ { y }$ 以及沿 $Z$ 轴的平动的 $Z$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { R _ { x } = \\arctan { \\frac { 2 d _ { 2 } - d _ { 1 } - d _ { 3 } } { 3 R _ { d } } } \\approx \\frac { 2 d _ { 2 } - d _ { 1 } - d _ { 3 } } { 3 R _ { d } } } \\\\ & { R _ { y } = \\arctan { \\frac { d _ { 1 } - d _ { 3 } } { \\sqrt { 3 } R _ { d } } } \\approx \\frac { d _ { 1 } - d _ { 3 } } { \\sqrt { 3 } R _ { d } } } \\\\ & { \\qquad Z = \\frac { d _ { 1 } + d _ { 2 } + d _ { 3 } } { 3 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由公式(1)(2)(3)可以得出 $Z$ 、 $R _ { x } \\ 、 \\ R _ { y }$ 与 $d _ { \\mathrm { { 1 } } }$ 、 $d _ { 2 }$ 、 $d _ { 3 }$ 之间关系如公式(4)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left[ \\begin{array} { l } { Z } \\\\ { R _ { x } } \\\\ { R _ { y } } \\end{array} \\right] } = { \\left[ \\begin{array} { l l l } { { \\frac { 1 } { 3 } } } & { { \\frac { 1 } { 3 } } } & { { \\frac { 1 } { 3 } } } \\\\ { - { \\frac { 1 } { 3 R _ { d } } } } & { { \\frac { 2 } { 3 R _ { d } } } } & { - { \\frac { 1 } { 3 R _ { d } } } } \\\\ { { \\frac { 1 } { \\sqrt { 3 } R _ { d } } } } & { 0 } & { - { \\frac { 1 } { \\sqrt { 3 } R _ { d } } } } \\end{array} \\right] } { \\left[ \\begin{array} { l } { d _ { 1 } } \\\\ { d _ { 2 } } \\\\ { d _ { 3 } } \\end{array} \\right] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对公式(4)反解可得出 $d _ { 1 }$ 、 $d _ { 2 }$ 、 $d _ { 3 }$ 与 $Z$ 、 $R _ { x }$ 、 $R _ { y }$ 之间关系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由运动学分析的理论公式(1)可知，当 $d _ { \\mathrm { { 1 } } }$ 与 $d _ { 3 }$ 在同一水平位置保持不变时，此时 $R _ { x }$ 的输出分辨率仅与 $d _ { 2 }$ 有关即可计算出位移促动器 $d _ { 2 }$ 的最小分辨率，如公式(5)所示。同理，当 $d _ { 2 }$ 保持不变时， $R _ { y }$ 的输出分辨率与 $d _ { \\mathrm { { 1 } } }$ 、 $d _ { 3 }$ 有关，即可解出位移促动器 $d _ { 1 }$ 、 $d _ { 3 }$ 的最小分辨率，如公式(6)所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { d _ { 2 } = \\displaystyle \\frac { 3 R _ { d } R _ { x } } { 2 } } } \\\\ { { d _ { 1 } = d _ { 3 } = \\sqrt { 3 } R _ { d } R _ { y } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2镜面位姿驱动系统整体方案设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.1基于CAN总线的位姿驱动系统架构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综合考虑总线的信号线数、通信类型、支持多主方式、通信距离、通信速度以及允许的节点总数等因素，本文选择CAN总线作为主节点与子节点之间的通信。CAN是一种采用串行数据通信协议来完成控制与测试仪器之间数据交换的总线，可以支持实时控制和分布式控制。通信过程如图3所示，包括MCU、CAN控制器和CAN收发器[1]。MCU 首先将报文发送给CAN控制器，CAN控制器将报文解析成逻辑信号后，再发送给CAN收发器，最后通过CAN_H和CAN_L两根总线将电信号传输到CAN总线上。使用CAN通讯不仅能够减少硬件电路所需线束，还提高了系统的可靠性，同时在一定程度上节约了成本。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bb3245f3bb7be0077ead0f50fee76c687f6f8612d8a95efe8633db039cb61dc.jpg",
+        "img_caption": [
+            "图3CAN节点通信原理图",
+            "Fig.3Schematic diagramofCANnode communication "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "主镜位姿驱动系统架构如图4所示。主镜位姿驱动系统由上位机系统、MCU模块和下位机系统三个部分组成。上位机部分主要负责接收MCU模块通过以太网发送来的传感器数据，与设定数据对比，进而对位移促动器的模式进行设定，向MCU模块发送控制命令，并对数据进行保存和实时的显示；MCU模块负责通过CAN总线接收下位机子节点的传感器信号,将其传递给上位机系统，并将接收到的上位机控制命令通过总线传输到相应的子节点;下位机部分主要负责把子节点采集到的模拟信号通过AD模块转换成数字信号，再通过总线发送到主节点，并执行传递来的促动器控制命令。该系统具备高传输速率、高兼容能力、容错能力强及扩展性好等优点。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6509dfb7815c8b75151cba849f1c760af047f13d9fcb6c484d7822eb57ab9c79.jpg",
+        "img_caption": [
+            "图4系统整体架构图 Fig.4 System architecture "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统的硬件设计主要包括主节点的MCU模块、CAN通信模块、以太网通信模块以及子节点的AD采样模块和电机驱动模块的设计；上位机的软件设计是测试界面设计，以及对以太网通信模块进行程序的编写与调试，用以验证以太网通信能否实现与下位机的数据传输；下位机的软件设计分为主节点和子节点软件设计，主节点的软件设计是实现与上位机的通信功能及通过CAN总线与子节点的数据传输。子节点的软件设计是实现CAN通信，完成步进电机驱动控制以及传感器数据的采集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.2位移促动器-步进电机的加减速特性设计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文中位移促动器的动力元件是步进电机，设计合理的步进电机加减速特性来确保位移促动器的平稳运行。利用控制脉冲个数来控制角位移量。脉冲由微控制器定时器的PWM信号产生，将脉冲信号输入电机驱动器来驱动电机运行。位移促动器的控制采用分布式架构，因此要考虑对三组位移促动器的协同控制。将三组位移促动器分别运动 $2 0 0 \\mu \\mathrm { m }$ RMS、 $3 0 0 \\mu \\mathrm { m }$ RMS及 ${ 5 0 0 } \\mu \\mathrm { m }$ RMS，设置不同的频率，得到的三组位移促动器运行曲线如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c67f8eca3c078b6f6a98276d92dcc8d44bca704ec9923eee236911dd563c27.jpg",
+        "img_caption": [
+            "图5位移促动器协同运行曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，由于三组位移促动器同时运动，主镜试验样机的机械结构本身造成位移促动器 $d _ { 1 }$ 方向的位移量较多，而位移促动器 $d _ { 2 }$ 、d由于开环运行产生丢步，经过闭环控制后三组位移促动器在35s时都到达了设定的目标位置，即位移促动器协同控制方法能够满足实际需求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2镜面位姿驱动系统实验测试与结果分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1镜面位姿驱动系统",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参见图1(a)，实验过程中采用激光位移传感器和倾角仪来测量主镜的位姿状态，用姿态角度传感器检测镜面的两个转动位置，用激光位移传感器来检测主镜在Z轴方向的平动位置[11]。采用图6所示的位姿驱动测试系统，在不考虑电机细分的情况，位移促动器的最小分辨率为 $0 . 1 \\mu \\mathrm { m }$ RMS；若主镜倾斜调整 $R _ { x }$ 与 $R _ { y }$ 的基本输出分辨率为1\"RMS，根据公式(5)和(6)，可得位移促动器 $d _ { \\mathrm { { 1 } } }$ 和 $d _ { 3 }$ 的分辨率须达 $1 . 8 \\mu \\mathrm { m }$ RMS，位移促动器 $d _ { 2 }$ 的分辨率须达 $1 . 7 \\mu \\mathrm { m }$ RMS。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c613e63999f3a67767160ba64f2d5f81dd86393092610ed60a5cfa574a3acb3e.jpg",
+        "img_caption": [
+            "图6位姿驱动测试系统 Fig.6Mirror aligning test system "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2位移促动器的性能测试",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过测试位移促动器的最小可控步长来测量位移促动器的校正能力。在5kg负载下，将位移促动器的控制器设置为无细分情况，连续给出相同步进量（每次5步），得到输出最小校正能力测试曲线如图7所示。根据曲线可知，位移促动器在无细分情况下即能实现最小步长（位移分辨率）优于 $1 \\mu \\mathrm { m } \\mathrm { R M S }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/df177c294d26ff77a4d62733d0b55f2668e2c4b924789c401847478af3b67ceb.jpg",
+        "img_caption": [
+            "图7位移分辨率曲线 Fig.7 Test of displacement resolution "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由位移促动器中的LVDT实时反馈位移促动器的位置与目标位置进行比较，补偿驱动，完成位移促动器闭环控制。闭环控制位移促动器运行 $1 0 \\mu \\mathrm { m }$ RMS，用LVDT与激光位移传感器同时记录位移促动器的运行曲线，如图8所示。由曲线可知，LVDT与激光位移传感器记录位移促动器闭环控制的实际位移量与目标位置偏差都在 $1 \\mu \\mathrm { m }$ RMS之内，可知位移促动器能够实现位移闭环输出精度优于 $1 \\mu \\mathrm { m }$ RMS。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e88c00e87ce60a6564a90f5619e71b1fc194fd75eb92f969067201a64760a4b.jpg",
+        "img_caption": [
+            "图8位移促动器闭环控制曲线 Fig.8 Closed loop control of displacement actuator "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3镜面位姿驱动实验系统性能测试",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将主镜位姿驱动系统实验样机的三组位移促动器都调整到水平位置，静止放置于实验室的环境下，利用倾角仪记录系统的 $R _ { x }$ 与 $R _ { y }$ 的变化，激光位移传感器记录系统Z轴方向的变化。得到 $R _ { x }$ 、 $R _ { y }$ 的稳定性曲线如图9(a)所示，Z方向的稳定性曲线如图9(b)所示。由曲线图可知， $R _ { x }$ 与 $R _ { y }$ 的静态误差不超过 $\\pm 0 . 2 { ^ { \\prime \\prime } }$ RMS，Z轴方向静态误差不超过 $_ { \\pm 0 . 4 \\mu \\mathrm { m } }$ RMS，系统体现出较好的稳定性。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bc2e4b64b88990cacbde6be622696ecad4ac9778a010e4466dc4415e498f792.jpg",
+        "img_caption": [
+            "图9系统稳定性测试 Fig.9 Test of system stability "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过闭环控制对主镜位姿驱动系统进行重复性测试。调整三组位移促动器的步进位移量，让每组位移促动器分别移动 $1 2 0 \\mu \\mathrm { m }$ RMS、 $2 0 0 \\mu \\mathrm { m }$ RMS及- $. 1 5 0 \\mu \\mathrm { m }$ RMS，往返执行五次。利用激光位移传感器来同步测量系统Z轴方向的位移，同样利用倾角仪来测量 $R _ { x }$ 与 $R _ { y }$ 。图10(a)为 $R _ { x }$ 的重复性曲线，图10(b)为 $R _ { y }$ 的重复性曲线，图10(c)为Z轴方向的重复性曲线。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/47c834517d681fa74132af0fa2cd786eb9c49f8a6b8f9873568d74002675ce47.jpg",
+        "img_caption": [
+            "图10系统的重复性测试曲线图 Fig.10 Testof system repeatability "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据 $R _ { x } \\setminus R _ { y }$ 重复性曲线图可知，系统的重复误差为 $2 ^ { \\prime \\prime } \\mathrm { R M S } , Z$ 轴方向的重复性误差 $3 \\mu \\mathrm { m }$ RMS。误差是由于系统的机械结构、实验室环境等因素造成，因此利用LVDT对之进行闭环校正。系统闭环校正后的绕X轴的转动曲线如图11(a)所示，绕Y轴的转动曲线如图 11(b)所示，Z轴方向的曲线如图11(c)所示。由校正后的曲线图可知， $R _ { x }$ 与 $R _ { y }$ 的稳态误差都优于$1 ^ { \\prime \\prime }$ RMS, $Z$ 方向的稳态误差能够到达 $1 \\mu \\mathrm { m } \\mathrm { R M S }$ 以内。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0d0409d2b88925b2e36cdccf4fd460e9e90afc08b86b8cd2776146cc8007180.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/dcab9c18108ce08bb1f7ccf7e37e2a0b8efbd5ee4690f64bca55c63ecb86b77b.jpg",
+        "img_caption": [
+            "图11镜面位姿闭环调整测试",
+            "Fig.11 Test of the mirror closed loop alignment "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3总结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文针对光学镜面位姿主动调整系统设计了一套基于CAN总线通信技术的位姿驱动系统。使用CAN总线通信技术来实现主节点与子节点之间的数据传输，建立分布式系统架构来控制位移促动器内部的步进电机，完成系统软硬件设计，对驱动系统进行实验测试。实验结果表明，基于LVDT位移闭环，位移促动器的控制精度达 $1 \\mu \\mathrm { m }$ RMS， $R _ { x }$ 与 $R _ { y }$ 的稳态误差都优于 $1 ^ { \\prime \\prime }$ RMS，Z方向的稳态误差达 $1 \\mu \\mathrm { m }$ RMS。本文采用CAN总线实现了主动光学镜面3自由度位姿调整控制初步探索，为我国在研的先进地基太阳望远镜(AST-G)主镜支撑系统提供了有益的技术储备，也可用于其它主动光学镜面变形的力促动器的分布式控制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］赵勇志，邵亮，刘昌华.大口径望远镜主镜支撑系统装调[J].红外与激光工程,2017,46(09):275-282.  \n[2] Zhong Liu, ZhenyuJin， Shu yuan.The progresses of Chinese Giant Solar Telescope[C].Proceedings of SPIE,2014:9145.  \n[3］朱丽春.500 米口径球面射电望远镜(FAST）主动反射面整网变形控制[J].科研信息化技术与应用,2012,3(04):67-75  \n[4］杜希霞．LAMOST 项目中位移促动器局域网控制的研究[D]．中国科学院研究生院.2007.  \n[5]孔令波.主动光学力促动器控制系统设计[D].中国科学院研究生院(长春光学精密机械与物理研究所)，2015.  \n[6]林洪莹.基于CAN总线的分布式智能测控模块的设计与开发[D].山东大学，2011.  \n[7] XiaJiqiang,ZhangChuansen,BaiRonggang.Real-time and reliability analysis of time-triggeredCAN-bus[J].Chinese Journal of Aeronautics,2013,26(01):171-178.5  \n[8］王正兰,杨德华,吴常铖,金振宇．基于波纹管的气压式力促动器设计与实测[J].天文研究与技术．2018(03)  \n[9] 张宗猛,王正兰,杨德华,吴常,金振宇.基于步进电机的位移促动器设计与实测[J].天文研究与技术,2019,16(03):329-334  \n[10]姜兴华，马苍穹，李承龙.基于 STM32 的CAN 总线测试平台设计[J].仪器仪表标准化与计量，2018(02):28-31.  \n[11]张宗猛.基于CAN 总线的环形太阳望远镜主镜位姿驱动系统设计及实验[D].南京航空航天大学，2020.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Development and Evaluation of a CAN-Based Alignment System for Active Optics ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Xiao Xinyi²,Zhang Zongmeng¹, Yang Dehua¹,Wu Changcheng¹,Jin Zhenyu² (1. College of Automation Engineering， Nanjing University of Aeronautics and Astronautics， Nanjing 211106, China， Email: dhyang@nuaa.edu.cn; 2.Yunnan Astronomical Observatories， Chinese Academy of Sciences， Kunming 650011，China, Email: kim@ynao.ac.cn) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to explore the primary mirror support of the Advanced Ground-based Solar Telescope (AST-G), this paper reported the development of the aligning system of an active optical mirror using CAN Bus communication. Based on an active support system prototype, theoretical analysis of mirror kinematics with regard to the configuration of displacement actuators was firstly figured out. Then,a master node and three slave nodes were designed with STM32 to realize the distributed control of displacement actuators to actively align the mirror. Finally, we tested the performance of displacement actuator with CAN Bus and the experimental verification of the mirror alignment. The results show that the control accuracy of the displacement actuator is better than $1 \\mu \\mathrm { m } \\ \\mathrm { R M S }$ ,the rotations of the system around the $\\mathbf { x }$ -axis and y-axis are better than 1\" RMS,and the piston error of the mirror is also better than $1 \\mu \\mathrm { m }$ RMS. The research of the alignment system with CAN Bus is an elementary technical preparation for future development of the primary mirror support system of the AST-G. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Active optics; CAN Bus; Mirror aligning; Displacement actuator ",
+        "page_idx": 8
+    }
+]

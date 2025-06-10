@@ -1,0 +1,181 @@
+1 促皮质激素释放激素对鱼类摄食的抑制作用  
+2 齐锦雯吴源冰王书瑶唐妮　李志琼  
+3 (四川农业大学动物科技学院，成都 611130)  
+4 摘要：促皮质激素释放激素（CRF）作为中枢调控的厌食欲因子，可使鱼类产生饱腹感，  
+5 进而减少鱼类摄食量和体重增长率。CRF 大量分布于下丘脑，刺激垂体分泌促皮质激素  
+6號 (ACTH)，进一步刺激皮质醇释放，抑制机体摄食和能量代谢。本文依据CRF 在哺乳动物  
+7 和部分鱼类中的研究进展，阐述了CRF 的发现历史、分子结构、对鱼类摄食的调控作用及  
+8 其机制，为今后鱼类摄食调控和生长的研究以及生产提供理论依据。  
+9 关键词：鱼类；摄食；食欲因子；促皮质激素释放激素；皮质醇  
+10 中图分类号：S965  
+11 鱼类通过摄食为自身机体提供营养和能量，促进生长发育[]。摄食调控复杂且精细，各  
+12 种外周食欲相关物理或化学信号通过神经系统或体液传递途径产生饥饿或饱腹信号到达中  
+13 枢神经系统调节摄食[2]。促皮质激素释放激素（corticotropin releasing factor，CRF）作为中  
+14 枢调控的饱腹感信号因子（厌食欲因子)，其成熟肽含有41个氨基酸，可激活下丘脑-垂体-  
+15 肾上腺（hypothalamus-hypophysis-interrenal，HPI）轴，引起垂体释放促肾上腺皮质激素  
+16 （adrenocorticotropic hormone，ATCH），影响动物的摄食行为[3-4]。CRF已成为动物摄食和  
+17 能量代谢领域的研究热点之一，目前在哺乳动物上关于CRF 的摄食调控有大量的研究报道，  
+18 而鱼类上较少。因此本文依据CRF 在哺乳动物和部分鱼类中的研究现状，阐述了CRF 的发  
+19 现历史、分子结构、对鱼类摄食的调控作用及其机制，重点综述了CRF作为外源多肽通过  
+20 不同方式注射或作为内源调节子通过不同方式处理对鱼类摄食的影响，以及CRF 与受体、  
+21 皮质醇和其他食欲因子之间的互作。这将为今后鱼类摄食调控和生长的研究以及生产提供理  
+22 论依据。
+
+1955 年 Saffran 等[5]体外培养大鼠垂体,通过下丘脑提取液刺激显示 ACTH的释放增加，故此命名为CRF。直至1981年Vale 等[4从绵羊下丘脑处提取纯化出含41个氨基酸残基的CRF 多肽。在此基础上，1983年Furutani 等进一步验证了CRF 基因的结构。CRF主要位于下丘脑处，可刺激垂体分泌 ACTH。Vandenbome 等[7依据哺乳动物和鱼类的报道以及在家鸡上的鉴定，总结了CRF基因结构，它含2个外显子和1个内含子，外显子1含5’非编码区，外显子2包含编码区和 $3 ^ { \prime }$ 非编码区（图1)。鱼类上CRF基因cDNA长为 $0 . 9 { \sim } 1 . 0$ kbp，编码区一般为 $0 . 4 { \sim } 0 . 5 \mathrm { k b p }$ 。CRF 编码区编码的氨基酸结构包括了疏水信号肽，中间1段未证明功能的保守肽，以及C端含41个氨基酸残基的成熟肽，激活C末端的2个位点（酰胺基团)可使 CRF 具有活性。在白亚口鱼（Catostomus commersonii)[8]、金鱼(Carassius auratus）[9]、红大马哈鱼（Oncorhynchus nerka）[1o]、虹鳟（Oncorhynchus mykiss）[1]和鲤鱼（Cyprinuscarpio)[12]上发现 CRF基因含2个亚型(CRF1和CRF2),而罗非鱼（Oreochromis mossambicus）[13]、比目鱼（Platichthys flesus）[14]、斑马鱼（Barchydanio rerio var）[15]和齐口裂腹鱼（Schizothorax prenanti）[16]上CRF基因无亚型。
+
+prohormone:激素原；Mature peptide:成熟肽；Exon 1:外显子1;Exon 2:外显子2；Intro:内含子； $5 ^ { \prime }$ URT:5' 非编码区 $5 ^ { \prime }$ noncoding region; $3 ^ { \prime }$ URT:3’非编码区 $3 ^ { \prime }$ noncoding region；CDS:编码区序列 coding sequence。
+
+![](images/cee4f43ed4273a6a0cc74700d7500beb08c8d953794f717bebb8d00d16eff348.jpg)  
+图1CRF基因结构  
+Fig.1The structure of CRF gene[7]
+
+2CRF 调控鱼类摄食
+
+依据结构和分布，CRF在鱼类的食欲调控内分泌系统中起着重要的调控作用。通过CRF作为外源多肽通过不同方式注射探讨其对鱼类摄食影响，或通过不同处理下鱼类内源CRF的表达水平和摄食的变化探究CRF 的调控机制，结果显示CRF 可调控鱼类摄食。
+
+# 2.1外源性CRF 调控鱼类摄食
+
+# 2.1.1 中枢注射CRF调控鱼类摄食
+
+对哺乳动物中枢（脑室）注射CRF探究其摄食量的变化有研究报道，结果均证明CRF通过中枢注射可抑制哺乳动物摄食[17-18]。在鱼类上，中枢注射CRF 引起的摄食调控作用目前仅限金鱼。DePedro 等[19]对金鱼饥饿处理 $2 4 \mathrm { h }$ 后中枢注射CRF，注射后 $2 \mathrm { h }$ 摄食量减少，提示 CRF 可能通过中枢系统抑制金鱼摄食。Matsuda 等[17]在金鱼上证实CRF 受体拮抗剂αh-CRF(9-41)预处理可使CRF 注射效果逆转。综上，中枢注射CRF 对金鱼有抑制摄食的作用，而通过αh-CRF(9-41)预处理可使中枢CRF 的作用效果逆转。
+
+# 2.1.2外周注射CRF 调控鱼类摄食
+
+现有少量研究表明在哺乳动物和鱼类上，外周注射CRF 摄食量无显著变化，但是有下降趋势[19-20]。在鱼类上，De Pedro 等[19]对金鱼腹腔注射CRF，摄食量呈下降趋势，提示腹腔注射CRF 可能影响金鱼的摄食量。以上试验为只持续1d的单次外周注射，无长期外周注射的报道，无法明确长期外周注射CRF 对鱼类摄食是否抑制。虽然外周注射CRF 对摄食调控的报道极少，但是外周CRF 及CRF 相关肽分布于啮齿动物的胃肠道系统中有报道，报道显示CRF 及CRF 相关肽少量分布于外周组织中[21-22]。Tache等[23]认为通过对啮齿动物的胃肠道直接或间接刺激，可使其外周CRF及CRF 相关肽的水平上升，从而抑制啮齿动物摄食，提示啮齿动物上的外周CRF及CRF 相关肽在应激引起相关肠动力改变过程中有重要的调控作用。在鱼类上，Pepels 等[24]检测出应激处理的尼罗罗非鱼（Oreochromis niloticus）的血液中存在CRF，提示CRF可能也存在于鱼类机体外周组织中。
+
+# 2.2内源性CRF 调控鱼类摄食
+
+# 2.2.1 不同摄食状况对CRF的调控
+
+在啮齿动物上禁食后CRF基因表达水平降低[25]。而在鱼类上目前报道仅限于金鱼和齐口裂腹鱼。Maruyama等[26对金鱼分3组试验7d，结果显示与正常投喂组相比，禁食组的脑 CRF基因的表达水平呈下降趋势，但差异不显著，而过量投喂组则显著上升。Wang 等[16]对齐口裂腹鱼短期（1d）禁食处理，显示下丘脑CRF基因表达水平无显著变化，而长期（7d）禁食后，下丘脑CRF基因表达水平显著下降，复投喂第9天则回升。综上，长期禁食可使鱼类CRF作为厌食欲因子抑制鱼类摄食。
+
+# 2.2.2 环境因子对CRF的调控
+
+影响鱼类生长发育的所栖息的环境因子主要包括溶氧饱和度、氨气含量和渗透性能。氧气饱和程度越低、氨气增多以及渗透压上升可抑制鱼类摄食，CRF 基因表达水平上升，提示CRF在不同外界环境处理下可作为厌食欲因子调控鱼类摄食。短期缺氧下可使CRF 在鱼类上发挥厌食欲因子的作用，而长期缺氧下，CRF 的厌食欲调节作用降低。Bermier 等[27]使虹处于 $50 \%$ 或 $3 5 \%$ 氧饱和度下 $2 4 \mathrm { h }$ ，结果显示前脑CRF基因表达水平和摄食量均下降，并与缺氧处理程度呈正相关，进一步在长期（ $7 2 { \mathrm { h } } )$ ）缺氧处理后，前脑CRF基因表达水平下降幅度及其厌食欲调节作用呈降低的趋势。在氨气处理中，尽管Wood[28]认为低水平的外源性氨气对鱼类摄食无显著影响，但是Ortega 等[29]长期增加水中的氨气可引起虹摄食量呈剂量依赖性减少，CRF基因表达水平增加。Craig 等[30]发现和淡水区域的相比，海水区域的虹脑CRF表达水平的上升，摄食量下降，提示渗透压上升CRF可作为厌食欲因子。
+
+# 7 3CRF 调控鱼类摄食的作用机制
+
+CRF 调控动物包括鱼类的摄食作用机制复杂，主要包括以下3种：1）CRF与受体结合发挥食欲调控作用；2）CRF 通过HPI轴激活下游皮质醇的释放调控摄食；3）CRF 通过和其他食欲调节子结合直接或间接调控摄食（图2)。这3种机制之间也可相互作用共同影响CRF。
+
+CRF:促皮质激素释放激素 corticoliberin；CRFR1:促皮质激素释放激素受体1corticoliberin receptor 1;CRFR2:促皮质激素释放激素受体2 corticoliberin receptor；POMC：阿黑皮素原 proopiomelanocortin；CART:可卡因和安非他明调节转录子 Cocaine and amphetamine regulation transcripton；NPY：神经肽Y neuropeptideY；AgRP:刺鼠相关蛋白 agouti-related protein; $\mathfrak { a }$ -MSH:α-促黑激素 $\mathbf {  { a } }$ melanocyte stimulaing hormone；MC4R:黑皮素4受体 melanocortin 4 receptor；Ghrelin:饥饿素；ACTH:促皮质激素 adrenocorticotropic hormone。实线箭头表示促进作用 solid arrow indicated promotion effect；虚线箭头表示抑制作用 dashed arrow indicatedinhibition effect。
+
+![](images/28772c444821686d13b07ae99c850e37a198bc1cddbc8d48b83c5cb408c93ab4.jpg)  
+图2CRF 调控摄食机制  
+Fig.2The mechanisms of CRF regulation on the feeding
+
+# 3.1 CRF与受体结合抑制鱼类摄食
+
+哺乳动物上，CRF可直接和CRF受体2(CRFR2)结合发挥食欲抑制作用，但是与CRF  
+受体1（CRFR1）结合对摄食调控无影响。而鱼类上，CRF 系统可能存在不同通路调控鱼类  
+摄食。Vaughan 等[31]报道CRF 相关肽硬骨鱼紧张肽I（urotensinI，U $\mathrm { ~ I ~ }$ ）和CRF 均可与  
+CRFR2亲和发挥抑制摄食的作用，并且亲和力度同等。Bernier 等[32]认为金鱼上中枢注射U  
+Ⅰ，和中枢注射CRF 组相比，更有效地减少机体摄食量，提示了在鱼类上CRF 和UⅠ无选  
+择性亲和CRFR2发挥厌食欲作用，或者CRF 可能与CRFR1或CRFR2亲和调节鱼类摄食。CRF 与受体结合的区域主要位于下丘脑视前核（NPO）和结节外侧核（NLT）[33]。而  
+Arai 等[34]在鲶鱼（Silurus asotus）脑干中也发现CRFR1少量存在，提示中枢系统CRF 可通  
+过参与调节胃肠运动的脑干神经元回路影响摄食。Cardoso 等[35]在河豚（Tetraodontidae）肠  
+道发现微量CRFR1，Martinez 等[36对小鼠外周注射CRF，均证明胃肠道系统存在微量 CRF
+
+受体，并与CRF结合刺激肠动力变化调控机体摄食。
+
+3.2CRF 激活HPI轴上的末端产物皮质醇来调控鱼类摄食
+
+在HPI轴上，由下丘脑释放的CRF刺激垂体释放ACTH，进一步激活肾上腺的糖皮质激素皮质醇直接调控鱼类摄食，或通过和其他内分泌调节途径互作以及胃肠道营养吸收间接调节鱼类摄食。
+
+一些研究报道皮质醇作为糖皮质激素可抑制摄食。Gregory 等[37]研究表明升高虹血浆皮质醇水平，可抑制其摄食量。而皮质醇的增多可负反馈于CRF，使CRF 引起的厌食欲的效果减小。进一步有研究报道显示，CRF可通过和其他内分泌途径互作调控皮质醇对摄食的影响。Bermier 等[38]在金鱼上进行适量且慢性增加血浆皮质醇处理时，可使摄食量增加，前脑CRF基因表达水平降低，NPY基因表达水平升高，进一步增加皮质醇浓度的分解可使CRF 基因表达水平降低，而对NPY基因表达无影响，摄食量有下降趋势。CRF 引起糖皮质激素皮质醇的释放，可间接通过肠道营养吸收来影响摄食。Ducouret 等[39]研究表明，糖皮质激素受体在鱼类胃肠道中存在，Vllette 等[40]发现皮质醇对肠道钠/钾-ATP酶活性有提高作用。
+
+# 3.3CRF与其他食欲调节子结合调控鱼类摄食
+
+CRF 与受体结合后可通过和中枢食欲调控神经系统互作，或通过血液循环和外周食欲调节因子互作传递饱腹感信号。CRF与中枢食欲调控神经系统调节因子包括下丘脑神经元阿黑皮素原（POMC）/可卡因和安非他明调节转录子（CART）、神经肽Y（NPY）/刺鼠相关蛋白（AgRP）、POMC 多肽加工处理的可调控动物摄食的片段 $\mathfrak { a } \mathrm { . }$ 促黑激素（ $\mathfrak { a }$ -MSH）及黑皮素4受体（MC4R）相互作用调控鱼类摄食。CRF与外周食欲调控因子包括胃肠道分泌的饥饿素(ghrelin)和胰腺分泌的胰岛素三者之间互作调控鱼类摄食。CRF 也可与脑肠肽(apelin)互作调控鱼类摄食。
+
+# 3.3.1CRF与POMC/CART或NPY/AgRP互作调节摄食
+
+在大鼠上通过体外和体内试验说明通过CRF 系统可上调POMC/CART参与厌食欲作用，并且POMC/CART通过CRF 系统激活 HPI轴[41]。而 NPY/AgRP可下调CRF 调节摄食，NPY/AgRP与CRF之间的互作也和糖皮质激素紧密相关。Heinrichs 等[42]对大鼠中枢共注射NPY 和CRF受体拮抗剂αh-CRF(9-41)，注射部位为下丘脑室旁核区域，摄食量增加；随后对通过糖皮质激素地塞米松处理后的大鼠，中枢注射 NPY，结果显示室旁核的CRF 基因表达下调，摄食量增加。在鱼类上的报道还较缺乏，目前仅在金鱼上有研究。在金鱼上，Bernier等[38]缓慢适量增加血浆皮质醇浓度，刺激 NPY 释放，抑制CRF 基因表达，摄食量增加。
+
+# 3.3.2CRF与α-MSH和MC4R互作调控摄食
+
+CRF 作为整合厌食欲信号的神经多肽，整合了POMC多肽加工处理的可调控动物摄食的片段α-MSH及其受体 MC4R 调控摄食[43]。CRF 与黑皮素系统之间的互作在鱼类上目前仅在金鱼中有报道。Matsuda 等[44]对金鱼中枢共注射α-MSH兴奋剂（MT II）和αh-CRF(9-41),结果显示MT II引起的食欲抑制效果减小。然而，共注射CRF 和MC4R 拮抗剂HS024，发现对金鱼摄食量无显著影响。进一步通过免疫组化分析检测出CRF 和MSH神经元位于大脑处，其中α-MSH包含的神经纤维末梢和下丘脑区域的CRF 神经元紧密结合。综上，提示了在鱼类上， $\mathfrak { a }$ -MSH和MC4R通过CRF信号通路发挥厌食欲作用。
+
+# 3.3.3CRF与ghrelin 和胰岛素互作调控摄食
+
+通过CRF信号途径可使外周食欲调节因子ghrelin抑制食欲，又因ghrelin 参与糖代谢，所以 CRF、ghrelin 和胰岛素之间互作对动物摄食产生影响。ghrelin 和CRF 共同作用可使胰岛素敏感性降低。Solomon 等[45]对大鼠预处理静脉注射 $0 . 5 ~ \mathrm { m L }$ ghrelin 特异性抗体和非特异性抗体，然后对皮下组织单次注射生理盐水、胰岛素和2-脱氧葡萄糖，通过免疫组化方法检测出，胰岛素和 ghrelin 抗体共处理组的CRF 阳性神经元比胰岛素处理组的更高，并且与无特异性抗体预处理组之间进行比较，胰岛素处理组和 2-脱氧葡萄糖处理组的 CRF $\scriptstyle { c } .$ -fos (1种即刻早期基因）阳性神经元均显著高于生理盐水对照组，而摄食量与对照组相比却显著增加。在CRF 厌食欲信号中通过胰岛素处理出现反常的现象，说明低血液葡萄糖应激可能导致HPI轴激活补偿葡萄糖水平，刺激少量ACTH和皮质醇的生成，少量皮质醇可刺激动物摄食。
+
+在鱼类上，Jonsson 等[46]对虹幼鱼分4组进行中枢注射，ghrelin 组显著降低摄食量，αh-CRF(9-41)组对摄食量无显著影响，共注射组的摄食量和 ghrelin 组比较有升高的趋势，并与对照组的摄食量相当。此结果提示ghrelin 通过CRF 系统抑制鱼类摄食。
+
+CRF与apelin对摄食调控的互作有少量报道。apelin可刺激CRF的释放，并通过CRF系统抑制哺乳动物摄食[47-48]。Lv等[48]禁食处理雄性小鼠 $2 4 \mathrm { h }$ ，分别中枢注射0.3、1.0和 $3 . 0 ~ \mu \mathrm { g / k g }$ apelin-13，对照组注射生理盐水，检测出试验组摄食量和对照组的比较呈剂量依赖性抑制;进一步对小鼠分成4组，与注射生理盐水对照组相比，αh-CRF(9-41)处理组的4h摄食量无显著变化，apelin-13处理组的累积摄食量则极显著减少，而apelin-13和αh-CRF(9-41)共注射处理组与对照组比较摄食量无显著差异，与apelin-13处理组比较摄食量显著增加。CRF与脑肠肽apelin之间的互作目前在鱼类上还未见报道。
+
+# 4小结
+
+鱼类通过摄食为自身机体提供营养和能量，促进其生长发育和繁殖。摄食调控复杂且精细，通过中枢或者外周的厌食欲因子和增食欲因子互作调控机体摄食。CRF 作为重要的中枢调控厌食欲因子，是动物摄食和能量代谢领域的研究热点之一。目前，CRF关于摄食调控和机制的研究主要集中在哺乳动物上，而鱼类上研究少。由于鱼类所处环境差异达，生理结构和机能差异较大，所以未来应在借鉴哺乳动物研究结果的基础上，深入探讨CRF 对不同鱼类的摄食调节机制，为鱼类摄食调控和生产应用提供理论依据。
+
+参考文献：
+
+[1] SAPER C B,CHOU T C,ELMQUISTl J K.The need to feed:homeostatic and hedonic control of eating[J].Neuron,2002,36(2):199-211.   
+[2]田娟,何艮,麦康森,等.鱼类食欲调控研究进展[J].动物营养学报,2016,28(4):984-998.   
+[3] VOLKOFF H.The neuroendocrine regulation of food intake in fish:a review of current knowledge[J].Frontiers in Neuroscience,2016,10:540.   
+[4] VALE W,SPIESS J,RIVIER C,et al.Characterization of a 41-residue ovine hypothalamic peptide that stimulates secretion of corticotropin and beta-endorphin[J].Science,1981,213(4514):1394-1397.   
+[5] SAFFRAN M,SCHALLY A V.The release of corticotrophin by anterior pituitary tissue in vitro[J].Canadian Journal of Biochemistry and Physiology,1955,33(3):408-415.   
+[6] FURUTANI Y,MORIMOTO Y,SHIBAHARA S,et al.Cloning and sequence analysis of cDNA
+
+for ovine corticotropin-releasing factor precursor[J].Nature,1983,301(5900):537-540.
+
+[7]VANDENBORNE K,DE GROEF B,GEELISSEN SM,et al.Molecular cloning and developmental expression of corticotropin-releasing factor in the chicken[J].Endocrinology,2005,146(1):301-308.
+
+[8] OKAWARA Y,MORLEY S D,BURZIO L O,et al.Cloning and sequence analysis of cDNA for corticotropin-releasingfactorprecursorfromtheteleostfishCatostomus commersoni[J].Proceedings of the National Academy of Sciences of the United States of America,1988,85(22):8439-8443.   
+[9] BERNIER N J,LIN X W,PETER R E.Differential expression of corticotropin-releasing factor (CRF) and urotensin I precursor genes,and evidence of CRF gene expression regulated by cortisol in goldfish brain[J].General and Comparative Endocrinol0gy,1999,116(3):461-477.   
+[10] ANDO H,HASEGAWA M,ANDO J,et al.Expression of salmon corticotropin-releasing hormone precursor gene in the preoptic nucleus in stressed rainbow trout[J].General and Comparative Endocrinology,1999,113(1):87-95.   
+[11] DOYON C,GILMOUR K,TRUDEAU V,et al.Corticotropin-releasing factor and neuropeptide Y mRNA levels are elevated in the preoptic area of socially subordinate rainbow trout[J].General and Comparative Endocrinology,2003,133(2):260-271.   
+[12] HUISING M O,METZ J R,VAN SCHOOTEN C,et al.Structural characterisation of a cyprinid (Cyprinus carpio L.) CRH,CRH-BP and CRH-R1,and the role of these proteins in the acute stress response[J].Journal of Molecular Endocrinology,2004,32(3):627-648.   
+[13] VAN ENCKEVORT F H J,PEPELS P P L M,LEUNISSEN J A M,et al.Oreochromis mossambicus(tilapia)corticotropin-releasinghormone:cDNAsequence and bioactivity[J].Journal of Neuroendocrinology,2000,12(2):177-186.   
+[14] LU W Q,DOW L,GUMUSGOZ S,et al.Coexpression of corticotropin-releasing hormone and urotensin Iprecursor genes in the caudal neurosecretory system of the euryhaline flounder(Platichthysflesus):apossibleshared role in peripheral regulation[J].Endocrinology,2004,145(12):5786-5797.   
+[15] CHANDRASEKAR G,LAUTER G,HAUPTMANN G.Distribution of corticotropin-releasing hormone in the developingzebrafishbrain[J].Journal of Comparative   
+[16] WANG T,ZHOU C W,YUAN D Y,et al.Schizothorax prenanti corticotropin-releasing hormone (CRH):molecular cloning,tissue expression,and the function of feeding regulation[J].Fish Physiology and Biochemistry,2014,40(5):1407-1415.   
+[17] MATSUDA K,MORIMOTO N,HASHIMOTO K,et al.Changes in the distribution of corticotropin-releasing factor (CRF)-like immunoreactivity in the larval bulfrog brain andthe involvement of CRFin the cessation of food intakeduring metamorphosis[J].General and Comparative Endocrinology,2010,168(2):280-286.   
+[18]MATSUDA K.Regulation of feedingbehaviorandpsychomotoractivityby corticotropin-releasing hormone (CRH) in fish[J].Frontiers in Neuroscience,2013,7:91.   
+[19] DE PEDRO N,ALONSO-GOMEZ A L,GANCEDO B,et al.Role of corticotropin-releasing factor(CRF）asafoodintakeregulatoringoldfish[J].Physiology& Behavior,1993,53(3):517-520.   
+[20] PARROTT R.Central administration of corticotropin releasing factor in the pig:effects on operant feeding,drinking and plasma cortisol[J].Physiology & Behavior,1990,47(3):519-524.   
+[21] YUAN P Q,WU S V,ELLIOTT J,et al.Expresson of corticotropin releasing factor receptor type 1 (CRF 1) in the human gastrointestinal tract and upregulation in the colonic mucosa in patients with ulcerative colitis[J].Peptides,2012,38(1):62-69.   
+[22] COLOMBO E,SANGIOVANNI E,DELL'AGLI M.A review on the anti-inflammatory activity of pomegranate in the gastrointestinal tract[J].Evidence-Based Complementary and Alternative Medicine,2013,2013:247145.   
+[23] TACHE Y,PERDUE M H.Role of peripheral CRF signalling pathways in stress-related alterationsofgutmotilityand mucosal function[J].Neurogastroenterology& Motility,2004,16(S1):137-142.   
+[24] PEPELS P P,VAN Helvoort H,Bonga S W E,et al.Corticotropin-releasing hormone in the teleost stress response:rapid appearance of the peptide in plasma of tilapia (Oreochromis mossambicus)[J].Journal of Endocrinology,2004,180(3):425-438.   
+[25] YADAWA A K,CHATURVEDI C M.Expression of stress hormones AVP and CRH in the hypothalamus of Mus musculus following water and food deprivation[J].General and
+
+:6] MARUYAMA K,MIURA T,UCHIYAMA M,et al.Relationship between anorexigenic action ofpituitary adenylate cyclase-activatingpolypeptide (PACAP） and thatof corticotropin-releasing hormone (CRH) in the goldfish,Carassius auratus[J].Peptides,2006,27(7):1820-1826.
+
+[27] BERNIER N J,CRAIG P M.CRF-related peptides contribute to stress response and regulation ofappetite in hypoxicrainbow trout[J].American Journal of Physiology-Regulatory,Integrative and Comparative Physiology,2005,289(4):R982-R990.   
+[28] WOOD C M.Dogmas and controversies in the handling of nitrogenous wastes:is exogenous ammonia a growth stimulant in fish?[J].Journal of Experimental Biology,2004,207(12):2043-2054.
+
+[29] ORTEGA V A,RENNER K J,BERNIER N J.Appetite-suppressing effects of ammonia exposure in rainbow trout associated with regional and temporal activation of brain monoaminergic and CRF systems[J].Journal of Experimental Biology,2005,208(10):1855-1866.
+
+[30] CRAIG P M,AL-TIMIMI H,ERNIER N J.Diferential increase in forebrain and caudal neurosecretory system corticotropin-releasing factor and urotensin Igene expression associated with seawater transfer in rainbow trout[J].Endocrinology,2005,146(9):3851-3860.
+
+[31] VAUGHANJ,DONALDSON C,BITTENCOURT J,et al.Urocortin,amammalian neuropeptiderelated to fishurotensin I and to corticotropin-releasing factor[J].Nature,1995,378(6554):287-292.
+
+[32] BERNIER N J,PETER R E.The hypothalamic-pituitary-interrenal axis and the control of foodintakein teleostfish[J].ComparativeBiochemistry and PhysiologyPart B:Biochemistry and Molecular Biology,2001,129(2/3):639-644.
+
+[33]BERTHOUD H R.Multiple neural systemscontrolling food intakeandbody weight[J].Neuroscience & Biobehavioral Reviews,2002,26(4):393-428.
+
+[34] ARAI M,ASSIL I Q,ABOU-SAMRA A B.Characterization of three corticotropin-releasing factor receptors in catfish:a novel third receptor is predominantly expressed in pituitary and urophysis[J].Endocrinology,2001,142(1):446-454.
+
+[35] CARDOSO J C R,POWER D M,ELGA R,et al.Isolation and characterisation of the corticotropin releasing factor receptor 1 (CRFR1） gene in a teleost fish,Fugu rubripes[J].DNA Sequence,2003,14(3):215-218.
+
+[36] MARTiNEZ V,WANG L X,RIVIER J E,et al.Diferential actions of peripheral corticotropin-releasing factor (CRF),urocortin II ,and urocortin II on gastric emptying and colonic transit in mice:role of CRF receptor subtypes 1 and 2[J].Journal of Pharmacology and Experimental Therapeutics,2002,301(2):611-617.
+
+[37] GREGORY TR,WOOD C M.The effects of chronic plasma cortisol elevation on the feeding behaviour,growth,competitive ability,and swimming performance of juvenile rainbow trout[J].Physiological and Biochemical Zoology,1999,72(3):286-295.
+
+[38] BERNIER N J,BEDARD N,PETER R E.Effects of cortisol on food intake,growth,and forebrain neuropeptide Y and corticotropin-releasing factor gene expression in goldfish[J].General and Comparative Endocrinology,2004,135(2):230-240.
+
+[39] DUCOURET B,TUJAGUE M,ASHRAF J,et al.Cloning of a teleost fish glucocorticoid receptor shows that it contains a deoxyribonucleic acid-binding domain different from that of mammals[J].Endocrinology,1995,136(9):3774-3783.
+
+[40] VLLETTE PA,YOUNG G.Tissue culture of sockeye salmon intestine:functional response of $\mathrm { { N a + - K + } }$ -ATPase to cortisol[J].American Journal of Physiology-Regulatory,Integrative and Comparative Physiology,2005,288(6):R1598-R1605.
+
+[41] SMITH S M,VAUGHAN J M,DONALDSON C J,et al.Cocaine-and amphetamine-regulated transcript activates the hypothalamic-pituitary-adrenal axis through a corticotropin-releasing factor receptor-dependent mechanism[J].Endocrinology,2004,145(11):5202-5209.
+
+[42]HEINRICHS S C,MENZAGHI F,PICH E M,et al.Corticotropin-releasing factor in the paraventricularnucleusmodulatesfeedinginduced by neuropeptide Y[J].Brain Research,1993,611(1):18-24.
+
+43] BAZHAN N,ZELENA D.Food-intake regulation during stress by the hypothalamo-pituitary-adrenal axis[J].Brain Research Bulletin,2013,95:46-53.
+
+[44] MATSUDA K,KOJIMA K,SHIMAKURA S I,et al.Corticotropin-releasing hormone mediates $\mathfrak { a }$ -melanocyte-stimulating hormone-induced anorexigenic action in
+
+goldfish[J].Peptides,2008,29(11):1930-1936. [45] SOLOMON A,DE FANTI B A,MARTiNEZ A M.Peripheral ghrelin participates in glucostatic feeding mechanisms and in the anorexigenic signalling mediated by CART and CRF neurons[J].Nutritional Neuroscience,2005,8(5/6):287-295. [46] JONSSON E,KAIYA H,BJORNSSON B T.Ghrelin decreases food intake in juvenile rainbow trout (Oncorhynchus mykiss） through the central anorexigenic corticotropin-releasing factor system[J].General and Comparative Endocrinology,2010,166(1):39-46. [47] TAHERI S,MURPHY K,COHEN M,et al.The effects of centrally administered apelin-13 on food intake,water intake and pituitary hormone release in rats[J].Biochemical and Biophysical Research Communications,2002,291(5):1208-1212. [48] LV S Y,YANG Y J,QIN Y J,et al.Central apelin-13 inhibits food intake via the CRF receptor in mice[J].Peptides,2012,33(1):132-138. Corticotropin Releasing Factor: Suppression Effects on Fish Feed Intake QI Jinwen WU YuanbingWANG Shuyao TANG Ni LI Zhiqiong\* (College of Animal Science and Technology, Sichuan Agricultural University, Chengdu 611130, China) Abstract: As a central controlled anorexia factor,corticotropin releasing factor (CRF） can make fish satiety. Thus, CRF can reduce feed intake and growth rate of body weight of fish. CRF mainly distributes in the hypothalamus, stimulating the secretion of adrenocorticotropic hormone （ACTH) fromthe pituitary，which further stimulates the release of cortisol to inhibit feeding and energy metabolism of body. Based on the concentration about CRF on mammalian and some fish, this paper summarized discovery history, molecular structure, feeding regulation and its mechanism in fish of CRF, which can provide references for further researches in feeding regulation and growth 334 as well as production of fish.
+
+Key words: fish; feed intake; appetite factor; corticotropin releasing factor; cortisol

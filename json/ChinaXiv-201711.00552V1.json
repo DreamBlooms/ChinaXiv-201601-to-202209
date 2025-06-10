@@ -1,0 +1,415 @@
+[
+    {
+        "type": "text",
+        "text": "壳寡糖对脂多糖诱导猪空肠上皮细胞氧化损伤的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "肖定福」钟　佳」刘进辉²李文平 2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.湖南农业大学动物科学技术学院，长沙410128；2.湖南农业大学动物医学院，长沙410128)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在通过脂多糖（LPS）诱导猪空肠上皮细胞（IPEC-J2）来建立氧化应激模型，探讨壳寡糖（COS）的抗氧化作用效果。采用噻唑蓝（MTT）法检测LPS 和COS 对IPEC-J2 作用12、24、 $^ { 4 8 \\mathrm { ~ h ~ } }$ 后，细胞增殖活性的变化；选择适宜浓度LPS（ $\\mathrm { 1 . 0 ~ \\mu g / m L }$ ）和COS ( $2 0 0 ~ \\mu \\mathrm { g / m L }$ ）作用于IPEC-J2，分为对照组、LPS 组、COS 组、 $\\mathrm { L P S + C O S }$ 组。采用Western Blot 法检测核因子E2 相关因子 2(Nrf2)、血红素氧合酶-1(HO-1)蛋白的表达；试剂盒检测超氧化物歧化酶（SOD）、过氧化氢酶（CAT）活性及丙二醛（MDA）的含量。结果表明： $1 . 0 \\mu \\mathrm { g / m L }$ 的 LPS 对 IPEC-J2作用 $2 4 \\mathrm { h }$ ，细胞增殖的抑制率为 $4 1 . 6 \\%$ ，为造模的最适浓度和作用时间；COS 在一定浓度范围内对 IPEC-J2 有增殖作用，其浓度为 $2 0 0 ~ \\mu \\mathrm { g / m L }$ 时效果最佳，作用时间为 $2 4 \\mathrm { h }$ 时，细胞增殖率达到 $12 6 . 3 \\%$ 。 $\\mathrm { L P S + C O S }$ 组较对照组的 SOD、CAT 活性和MDA 含量差异不显著（ $P { > } 0 . 0 5$ ），Nrf2 和 HO-1 蛋白相对表达量显著升高（ $P { < } 0 . 0 5$ ）； $\\mathrm { L P S + C O S }$ 组较LPS 组的 $\\mathrm { N r f } 2$ 蛋白相对表达量显著升高（ $P { < } 0 . 0 5 \\$ ），HO-1有升高趋势，但差异不显著（ $. P { > } 0 . 0 5$ ），SOD、CAT活性显著升高（ $. P { < } 0 . 0 5 )$ ），MDA含量显著降低（ $P { < } 0 . 0 5$ ）。由此可见，LPS 诱导 IPEC-J2氧化应激，而COS 可进一步促进Nrf2 和HO-1蛋白的高表达，并提高抗氧化酶的活性，降低氧化产物含量，从而增强细胞对氧化应激的抵抗力，起到保护作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：壳寡糖；脂多糖；猪空肠上皮细胞；氧化应激；抗氧化作用中图分类号：S811.3 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氧化应激是机体自由基生成增加或（和）清除能力降低，导致机体氧化和抗氧化两者失衡，自由基大量累积造成机体损伤[1]。肠道黏膜是宿主防御病原微生物的第一道防线，而肠上皮细胞是肠道黏膜屏障的重要组成部分，肠上皮细胞的损伤是肠功能障碍的重要病理基础。在多种生理、病理、饮食或环境不当等情况下，肠上皮细胞都能产生严重的氧化应激，过多的自由基的累积可导致肠上皮细胞受损，从而发生肠功能障碍[2]。壳寡糖（chitooligosaccharide,COS）是壳聚糖（chitosan,CTS）生物降解后的产物，水溶性好，具有多种生物功效，如抗癌[3]、增强免疫[4-5]、抗氧化[6-8]、促生长[9]和抑菌[10]等，是一种具有广阔前景的天然产品。本项目研究通过建立猪空肠上皮细胞氧化应激模型，来探讨COS 的抗氧化活性及作用机理，为其临床应用提供理论基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "猪空肠上皮细胞（IPEC-J2）由中科院亚热带农业生态研究所提供；COS（ $90 \\%$ 脱乙酰度，平均分子质量<5000u）由中国科学院大连化学物理研究所提供；脂多糖（lipopolysaccharide,LPS）[大肠杆菌（Escherichia coli）O55:B5]购于 Sigma 公司， $1 0 ~ \\mathrm { m g / }$ 支；核因子E2 相关因子 2(Nrf2)抗体（C-20）、血红素氧合酶-1(HO-1)抗体（C-105）均购自圣克鲁斯生物技术有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IPEC-J2于含 $10 \\%$ 胎牛血清和 $1 \\%$ 双抗的DMEMbasic( $1 \\times )$ 培养基中,在 $3 7 \\ \\mathrm { ~ \\textdegree ~ } . 5 \\%$ $\\mathrm { C O } _ { 2 }$ 、$90 \\%$ 相对湿度的培养箱中培养，隔天换液，待细胞贴壁生长到 $80 \\% { \\sim } 9 0 \\%$ 时进行传代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3噻唑蓝（MTT）法检测细胞活率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取对数生长期的IPEC-J2调整至 $5 \\times 1 0 ^ { 4 } /$ 孔接种于96孔板中，每孔 $2 0 0 ~ \\mu \\mathrm { L }$ ，置于培养箱中培养 $2 4 \\mathrm { ~ h ~ }$ ，换无血清培养基，并分别加不同浓度的LPS（0、0.1、1.0、 $1 0 . 0 ~ \\mu \\mathrm { g / m L }$ ）和COS（0、50、100、200、 $4 0 0 ~ \\mathrm { \\mu g / m L }$ ）继续培养12、24、 $4 8 \\mathrm { h }$ ，每组设置6个复孔，到时间点后分别加 $5 \\mathrm { m g / m L }$ 的MTT $2 0 { \\mu \\mathrm { L } }$ 继续置于培养箱中孵育 $\\boldsymbol { 4 } \\mathrm { h }$ ，小心吸弃上清，用磷酸盐缓冲液(PBS)洗2次，每孔加 $1 5 0 ~ \\mu \\mathrm { L }$ 二甲基亚砜（DMSO）室温摇晃 $1 5 \\mathrm { m i n }$ ，使蓝紫色结晶充分溶解，用酶联免疫检测仪测定各孔在 $4 9 0 \\mathrm { n m }$ 波长处的吸光值。试验重复3次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 细胞样品收集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取对数生长期的IPEC-J2调整至 $1 \\times 1 0 ^ { 6 } /$ 孔接种于6孔板中，待细胞贴壁生长至 $80 \\%$ 左右，进行加样作用 $2 4 \\mathrm { h }$ ，试验分为对照组（不加LPS 和COS）、 $1 . 0 ~ \\mu \\mathrm { g / m L }$ LPS 组、 $2 0 0 ~ \\mu \\mathrm { g / m L }$ COS 组、 $1 ~ \\mu \\mathrm { g / m L ~ L P S } + 2 0 0 ~ \\mu \\mathrm { g / m L }$ COS 组，作用完后，用预冷的PBS 洗涤细胞3次，加入细胞裂解液，于冰上裂解 $3 0 \\mathrm { m i n }$ ，用细胞刮棒刮取细胞，转移至离心管中， $4 \\ \\mathrm { ^ { \\circ } C } \\cdot 1 2 0 0 0 \\ \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，取上清，用二辛可宁酸（BCA）法蛋白定量，分装于 $- 8 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5 WesternBlot检测蛋白表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取蛋白样品，用十二烷基硫酸钠-聚丙稀酰胺凝胶电泳（SDS-PAGE）法分离蛋白，将电泳分离的蛋白转移到偏二氟乙烯（PVDF）膜上，再用 $5 \\%$ 的脱脂奶粉室温缓慢摇荡封闭 $2 \\mathrm { h }$ 分别加入兔抗 Nrf2、HO-1（1:1000 稀释）于 $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下孵育过夜，经磷酸盐吐温缓冲液（TBST)洗涤3次（ $5 \\mathrm { m i n } /$ 次）后，再用辣根酶标记的山羊抗兔免疫球蛋白G（ $\\mathrm { \\Delta I g G }$ ）（1:5000稀释）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "室温孵育 $2  { \\mathrm { h } }$ ，经TBST洗涤3次（ $\\cdot 5 \\mathrm { m i n } /$ 次），与化学发光剂反应 $1 \\mathrm { m i n }$ ，在 Image Quant LAS$4 \\ 0 0 0 \\ \\mathrm { { m i n i } }$ 化学发光成像仪下显示并记录结果。试验以β微管蛋白（ $\\beta$ -tubulin）作为内参，试验重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6抗氧化酶及氧化产物的检测",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取细胞样品，采用硫代巴比妥酸比色法检测丙二醛（MDA）含量，钼酸铵比色法检测过氧化氢酶（CAT）活性，黄嘌呤氧化酶比色法检测超氧化物岐化酶（SOD）活性，试剂盒均购自南京建成生物工程研究所，其试验操作均严格按照试剂盒说明书进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7 统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用SPSS19.0统计分析软件的 $\\mathbf { \\chi } _ { t }$ 检验法进行单因素方差分析比较，以 $P { < } 0 . 0 5$ 为差异显著，结果用平均值±标准误表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1LPS 对 IPEC-J2 增殖活性的抑制作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可见，不同浓度的LPS 对 IPEC-J2 增殖活性的抑制作用有一定的差异，且具有一定的时间依赖性。LPS 浓度在 $0 . 1 \\ \\mu \\mathrm { g / m L }$ 时，对细胞的抑制作用较低，作用12、 $2 4 \\mathrm { h }$ 时与对照组（不加LPS）无显著差异（ $( P { > } 0 . 0 5 )$ ；LPS 浓度在 $1 . 0 ~ \\mu \\mathrm { g / m L }$ 时，对细胞有一定的抑制作用，作用24、 $4 8 \\mathrm { h }$ 时与对照组差异显著和极显著（ $. P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ ），作用 $2 4 \\mathrm { h }$ 时，细胞增殖活性抑制率为 $4 1 . 6 \\%$ ，为造模的最佳作用浓度和时间；LPS 浓度为 $1 0 . 0 \\mu \\mathrm { g / m L }$ 时，对细胞的损伤严重，细胞活率很低，与对照组差异极显著（ $P { < } 0 . 0 1$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1 LPS 对 IPEC-J2 细胞增殖的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b731365ea89161fd72699ddd08552692019507aac6f53179b1565293b416496.jpg",
+        "table_caption": [
+            "Table1 Effects ofLPS on IPEC-J2 proliferation （ $\\scriptstyle \\cdot - \\frac { } { 2 }$ ）",
+            "LPS 浓度",
+            "OD 值 OD value "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>LPS concentration/(μg/mL)</td><td>12 h</td><td>24 h</td><td>48 h</td></tr><tr><td>0 (对照 Control)</td><td>0.212±0.007</td><td>0.331±0.011</td><td>0.333 ±0.015</td></tr><tr><td>0.1</td><td>0.207±0.022</td><td>0.303 ±0.019</td><td>0.297±0.023*</td></tr><tr><td>1.0</td><td>0.199±0.009</td><td>0.217±0.008*</td><td>0.201±0.037**</td></tr><tr><td>10.0</td><td>0.107±0.025**</td><td>0.103±0.013**</td><td>0.097±0.010**</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表示与对照组比较差异显著（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ）；\\*\\*表示与对照组比较差异极显著（ $_ { - P < 0 . 0 1 }$ ）。表2同。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\\* means significant difference compared with the control group $( P { < } 0 . 0 5 )$ ；; \\*\\* means extremely significant difference compared with the control group $( P { < } 0 . 0 1 )$ ).The same as Table 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 COS对IPEC-J2增殖活性的促进作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可见，不同浓度的COS 对IPEC-J2增殖活性的促进作用不同，而同一浓度的COS对细胞的增殖作用也具有一定的时间依赖性。与对照组相比，COS 浓度为 $5 0 \\mu \\mathrm { g / m L }$ 时，对细胞增殖的影响不显著 （ $( P { > } 0 . 0 5 )$ ；COS 浓度为 $1 0 0 ~ \\mathrm { \\mu g / m L }$ 时，作用24、 $4 8 \\mathrm { h }$ 时对细胞增殖的影响显著 （ $. P { < } 0 . 0 5 )$ ；COS 浓度为 $2 0 0 ~ \\mu \\mathrm { g / m L }$ 和 $4 0 0 ~ \\mu \\mathrm { g / m L }$ 时，作用24、 $^ { 4 8 \\mathrm { ~ h ~ } }$ 时对细胞的增殖率显著提高（ $. P { < } 0 . 0 5$ ），且在COS 浓度为 $2 0 0 ~ \\mathrm { \\mu g / m L }$ 时相对效果更好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2COS 对 IPEC-J2 增殖的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/74062c12f28332bb7aac59ceb24656ab74874bdf7a6323b88474d3b02ad9edbb.jpg",
+        "table_caption": [
+            "Table 2Effects of COS on IPEC-J2 proliferation( $\\scriptstyle \\cdot - 6$ ）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>COS 浓度</td><td colspan=\"3\">OD 值 OD value</td></tr><tr><td>COS concentration/(μg/mL)</td><td>12h</td><td>24h</td><td>48h</td></tr><tr><td>0 (对照 Control)</td><td>0.212±0.007</td><td>0.331±0.011</td><td>0.333 ±0.015</td></tr><tr><td>50</td><td>0.207±0.009</td><td>0.337±0.013</td><td>0.346±0.010</td></tr><tr><td>100</td><td>0.237±0.012</td><td>0.396±0.024*</td><td>0.411±0.011*</td></tr><tr><td>200</td><td>0.241±0.008</td><td>0.403±0.007*</td><td>0.427±0.018*</td></tr><tr><td>400</td><td>0.255 ±0.019</td><td>0.393±0.010*</td><td>0.392±0.021*</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3Nrf2 和 HO-1蛋白的相对表达量",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3得知,LPS 组的Nrf2 和HO-1蛋白的相对表达量较对照组都有显著提高( $\\cdot P { < } 0 . 0 5 )$ ：$\\mathrm { L P S + C O S }$ 组的 Nrf2 和 HO-1 蛋白的相对表达量较LPS 组进一步提高，且Nrf2 蛋白的相对表达量显著高于LPS组（ $( P { < } 0 . 0 5 )$ ，但HO-1蛋白相对表达量与LPS组差异不显著（ $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3Nrf2 和HO-1蛋白在各细胞组中的相对表达量",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c0ef65b2bd8dee66012a36b4c06ea06080b27db9bb7b4e281fc651babf53aae.jpg",
+        "table_caption": [
+            "Table 3The relative expression level of Nrf2 and HO-1 protein in each cell group $\\scriptstyle ( n = 5 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>对照组</td><td>LPS组</td><td>COS组</td><td>LPS+COS组</td></tr><tr><td>Items</td><td>Control group</td><td>LPS group</td><td>COS group</td><td>LPS+COS group</td></tr><tr><td>核因子E2 相关因</td><td>0.395±0.088</td><td>0.989±0.089a</td><td>0.546±0.051</td><td>1.377±0.103ab</td></tr><tr><td>子2 Nrf2</td><td></td><td></td><td></td><td></td></tr><tr><td>血红素氧合酶-1</td><td>0.237±0.061</td><td>0.546±0.145a</td><td>0.250±0.017</td><td>0.630±0.081a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HO-1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a表示与对照组比较差异显著（ $_ { . } P { < } 0 . 0 5 )$ ）；b表示与LPS组比较差异显著（ $. P { < } 0 . 0 5 \\$ ）。下表同。 a means significant difference compared with the control group( $\\cdot P { < } 0 . 0 5 )$ ;b means significant difference compared with the LPS group( $P { < } 0 . 0 5$ ）.The same as below. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4SOD、CAT 活性和 MDA含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，LPS组较对照组的SOD、CAT活性显著降低（ $\\scriptstyle P < 0 . 0 5 .$ ），MDA含量显著升高（ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ）； $\\mathrm { L P S + C O S }$ 组较LPS 组的 SOD、CAT 活性显著升高（ $. P { < } 0 . 0 5$ ），MDA含量显著降低（ $. P { < } 0 . 0 5$ ），较对照组各项差异不显著（ $P { > } 0 . 0 5$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4各细胞组中SOD、CAT活性和MDA含量的检测结果",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a2db9258da45b1f1965bcb744871b14818ceda8fdf4380efd6ea7d61b5127da.jpg",
+        "table_caption": [
+            "Table 4The test results of SOD,CAT activities and MDA content in each cell group( $\\scriptstyle n = 6$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目</td><td>对照组</td><td>LPS组</td><td>COS组</td><td>LPS+COS 组</td></tr><tr><td>Items</td><td>Control group</td><td>LPS group</td><td>COS group</td><td>LPS+COS group</td></tr><tr><td>超氧化物歧化酶</td><td>101.43 ±4.31</td><td>87.34±1.64a</td><td>109.44±1.09</td><td>97.87±6.03b</td></tr><tr><td>SOD</td><td></td><td></td><td></td><td></td></tr><tr><td>过氧化氢酶CAT</td><td>9.83±0.18</td><td>4.24±0.50a</td><td>10.13±0.42</td><td>7.57±0.80b</td></tr><tr><td>丙二醛 MDA</td><td>1.07±0.06</td><td>1.77±0.29a</td><td>1.10±0.64</td><td>1.21±0.40b</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "如今，天然活性物质越来越受到各行各业的关注，已成为“高效、绿色、安全”的代名词。COS 来源丰富，广泛存在于低等动植物中，如甲壳动物外壳、藻类的细胞壁等[I]。在体外和体内的大量研究报道，COS 在抗氧化方面发挥着重要的作用，具有清除氧自由基、降低氧化产物含量、提高抗氧化酶活性等功能[12-17]。本研究除了进一步验证COS 对抗氧化酶活性及氧化产物含量的影响，也探讨了COS 对抗氧化反应信号通路Keapl-Nrf2/抗氧化反应元件（ARE）中的核心成员 Nrf2及其下游因子HO-1的作用，从而揭示COS 抗氧化作用的可能信号通路或靶点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LPS 是革兰氏阴性细菌细胞壁中的成分，当细菌细胞壁被破坏而释放出来，是内毒素中的一种，也是一种典型的肠毒素。LPS 能刺激机体产生大量的活性氧自由基，从而导致机体氧化应激、炎症等一系列反应。用LPS 诱导氧化应激模型具有实际意义，在许多研究中得到应用和探讨，如王晓等[18]用LPS 成功建立了大鼠胰岛细胞氧化应激模型，进一步探讨了α-硫辛酸的抗氧化和抗凋亡的作用机制；又如齐策等[19用LPS 诱导小鼠腹腔巨噬细胞氧化应激模型，通过检测细胞的脂质过氧化程度，从而探究了维生素C-磷脂复合物的抗氧化作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Nrf2 在机体绝大部分组织中表达，是调控机体细胞、组织及器官中氧化还原平衡的主要组成部分，当Nrf2被活化入核后，能与ARE 识别并结合，然后启动下游一系列解毒和抗氧化因子的基因表达，如醌氧化还原酶-1（NQO1）、谷胱甘肽硫转移酶（GST）、SOD、CAT、还原性谷胱甘肽（GSH）等，而这些基因的表达都与机体的抗氧化活性有极其重要的关联，对机体的氧化还原平衡有关键性的作用[20-21]。HO-1又称为热休克蛋白32，可以被多种物质或刺激因素诱导表达，如热休克、缺血、辐射、低氧、高氧、重金属盐等，发挥强大的细胞保护作用，HO-1的细胞保护作用主要与它的催化分解产物一氧化碳、胆绿素、胆红素、亚铁离子有关，其中，胆绿素、胆红素、亚铁离子与抗氧化的作用有紧密联系[22]，而研究发现，Nrf2 是调控HO-1表达的一种重要的蛋白合成信号因子[23-24]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从试验结果分析，LPS 诱导 IPEC-J2氧化应激，Nrf2被激活，并进一步诱导下游 HO-1的表达，对细胞起到一定的保护作用，但这种保护作用不足以抵抗细胞的氧化损伤，细胞的抗氧化酶（SOD、CAT）活性降低，抗氧化产物（MDA）增多；而COS 能进一步促使 Nrf2高表达，并诱导下游基因 HO-1表达，提高抗氧化酶（SOD、CAT）活性，同时降低抗氧化产物（MDA）含量，增强了细胞对氧化应激的耐受能力，从而对细胞起到保护能力。所以，从试验结果可以推测COS 的抗氧化作用与抗氧化反应信号通路 Nrf2/ARE及HO-1有一定的关联。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LPS 诱导IPEC-J2 细胞氧化应激，而COS 可进一步促进Nrf2和HO-1蛋白的高表达，并提高抗氧化酶的活性，降低氧化产物含量，从而增强细胞对氧化应激的抵抗力，起到保护作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]SOHAL R S,ALLEN R G.Oxidative stress as a causal factor in diferentiation and aging:a unifying hypothesis[J].Experimental Gerontology,1990,25(6):499-525. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]TANG J,JIANG Y,TANG Y,et al.Effects of propofol on damage of rat intestinal epithelial cells induced by heat stress and lipopolysaccharides[J].Brazilian Journal of Medical and Biological Research,2013,46(6):507-512. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3]CHUA B Y,KOBAISI M A,ZENG W G,et al.Chitosan microparticles and nanoparticles as biocompatible delivery vehicles for peptide and protein-based immunocontraceptive vaccines[J].MolecularPharmaceutics,2012,9(1):81-90. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[4]YIN Y L,TANG Z R,SUN Z H,et al.Efect of galacto-mannan-oligosaccharides or chitosan supplementation on cytoimmunity and humoral immunity in early-weaned piglets [J].Asian-Australasian Journal of Animal Sciences,20o8,21(5):723-731. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]SHARMA S,MUKKUR T K S,BENSON H A E,et al.Enhanced immune response against pertussistoxoid by IgA-loaded chitosan-dextran sulfate nanoparticles[J].Journal of Pharmaceutical Sciences,2012,101(1):233-244. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]肖定福,唐志如,印遇龙,等.壳聚糖对大肠杆菌攻毒仔猪生长性能和抗氧化状况的影响[J].  \n激光生物学报,2011,20(6):741-746.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7]杨艳.壳寡糖,氨基葡萄糖及其衍生物的抗氧化功能研究[D].博士学位论文.青岛:中国海洋大学,2005.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[8]YAO Q,SUN T,ZHOU D X,et al.Antoioxidant activity of carboxymethyl chitosan with different substituted degrees[J].Agricultural Science & Technology,2Oo8,9(1):5-7,59. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[9]TANG Z R,YIN Y L,NYACHOTI C M,et al.Effect of dietary supplementation of chitosan and galacto- mannan-oligosaccharide on serum parameters and the insulin-like growth factorI mRNAexpressioninearly-weanedpiglets[J].Domestic Animal Endocrinology,2005,28(4):430-441.   \n[10]CHERVINETS V M,CHERVINETS I V,BONDARENKO V M,et al.Clinical effect of chitosaninbacterialvaginosistherapy[J].ZhurnalMikrobiologii， Epidemiologii， I Immunobiologii,2011(5):76-79.   \n[11] SHEPHERDR,READERS,FALSHAWA.Chitosanfunctionalproperties[J]. Glycoconjugate Journal,1997,14(4):535-542.   \n[12] XIE W M ,XU P X ,LIU Q .Antioxidant activity of water-soluble chitosan derivatives[J].Bioorganic & Medicinal Chemistry Letters,2001,11(13):1699-1701.   \n[13]AHN B N, KIM J A, HIMAYA S W A,et al.Chitooligosaccharides attenuate UVB-induced damagesinhumandermalfibroblasts[J].Naunyn-Schmiedeberg'sArchivesof Pharmacology,2012,385(1):95-102.   \n[14]QIAO Y,BAI X F,DU Y G.Chitosan oligosaccharides protect mice from LPS challenge by attenuation of inflammation and oxidative stress[J].International Immunopharmacology, 2011,11(1):121-127.   \n[15]张吉,刘洪涛,李秀英,等.壳寡糖对自由基的清除及对N9 小胶质细胞的保护作用[J].食品   \n科学,2010,31(7):81-85.   \n[16]FENG T,DU Y M,LI J,et al.Antioxidant activity of half $N -$ acetylated water-soluble chitosan invitro[J].European Food Research and Technology,2006,225(1):133-138.   \n[17]XU W,HUANG H C,LIN C J,et al.Chitooligosaccharides protect rat cortical neurons against copper induced damage by attenuating intracellular level of reactive oxygen species[J].Bioorganic & MedicinalChemistry Letters,2010,20(10):3084-3088.   \n[18]王晓,葛勤敏 $\\mathbf { \\nabla } . \\mathtt { a } .$ 硫辛酸对脂多糖诱导的大鼠胰岛细胞氧化应激和凋亡的影响[J].上海医 学,2014,37(9):751-754,823. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19]齐策,金青哲,王兴国.维生素C-磷脂复合体抑制LPS诱导小鼠腹腔巨噬细胞氧化应激的研究[J].科技导报,2011,29(15):35-38.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20]NIOI P,MCMAHON M,ITOH K,et al.Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD(P)H:quinone oxidoreductase 1 gene:reassessment of the ARE consensus sequence[J].Biochemical Journal,2003,374(2): 337-348. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21]林谦,邱磊,云龙,等.核因子E2 相关因子2调控机体抗氧化途径特性及其与畜禽的健康和肉品质的关系[J].动物营养学报,2014,26(6):1421-1429.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22]RYTER S W,OTTERBEIN L E,MORSE D， et al.Heme oXygenase /carbon monoxide signaling pathways:regulation and functional significance[J].Molecular and Cellular Biochemistry, 2002,234-235(1):249-263. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23] ALAM J,STEWART D,TOUCHARD C,et al.Nrf2,a Cap‘n’ Collar transcription factor,regulatesinduction of the heme oxygenase-1 Gene[J].The Journal of Biological Chemistry,1999,274(37):26071-26078. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]PAE H O,OH G S,JEONG S O,et al.l,2,3,4,6-penta-O-galloyl- $\\beta$ -D-glucose up-regulates heme oxygenase-1 expression by stimulating Nrf2 nuclear translocation in an extracelllar signal-regulated kinase-dependent manner in HePG2 cells[J].World Journal of Gastroenterology,2006,12(2):214-221. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Effects of Chitooligosaccharide on Lipopolysaccharide Induced Oxidative Damage in Epithelial Cells of Pig Jejunum ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "XIAO Dingfu1 ZHONG Jial LIU Jinhui² LI Wenping2\\* (1. College of Animal Science and Technology, Hunan Agricultural University, Changsha 410128, China; 2. Collge of Veterinary Medicine,Hunan Agricultural University, Changsha 410128, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study was designed to investigate the effect of chitooligosaccharide (COS) on oxidative stress and used lipopolysaccharide (LPS) induced epithelial cells of pig jejunum (IPEC-J2) as an in vitro model of oxidative stress.The IPEC-J2 were incubated with LPS and COS for 12, 24 and $4 8 \\mathrm { h }$ ,and then used methylthiazolyldiphenyl-tetrazolium bromide （MTT） to detect the activity of cell proliferation; the appropriate concentrations of LPS ( $\\mathrm { 1 ~ \\mu g / m L }$ and COs 0 $2 0 0 ~ \\mu \\mathrm { g / m L }$ ） were chosen in the IPEC-J2 cells, divided into control group,LPS group, COS group and $\\mathrm { L P S + C O S }$ group,and then detected the expression of NF-E2-related factor 2 （Nrf2）and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "heme oxygenase 1 （HO-1） by Western Blot; and detected superoxide dismutase (SOD),catalase （CAT）activities and malonaldehyde （MDA） content by the kit. The results showed that the optimum concentration of LPS and incubated time for model was $1 ~ { \\mu \\mathrm { g / m L } }$ and $2 4 \\mathrm { h }$ ,the inhibition of cell proliferation was $4 1 . 6 \\%$ ; COS promoted the proliferation of IPEC-J2, worked the best when its concentration was $2 0 0 ~ \\mu \\mathrm { g / m L }$ and incubated $2 4 \\mathrm { h }$ ,the cell proliferation rate was $126 . 3 \\%$ Compared with the control group, $\\mathrm { L P S + C O S }$ group was not significantly different in SOD, CAT activities and MDA content ( $( P { > } 0 . 0 5 )$ , but Nrf2 and HO-1 protein expression was significantly higher $( P { < } 0 . 0 5 )$ ; compared with LPS group, Nrf2 protein expression of $\\mathrm { L P S + C O S }$ group was significantly higher $( P { < } 0 . 0 5 )$ ,and there was an increasing trend of HO-1 protein expression, but the difference was not significant $( P { > } 0 . 0 5 )$ ), SOD,CAT activities weresignificantly increased and MDA content was significantly reduced ( $( P { < } 0 . 0 5 )$ . It is concluded that LPS induce oxidative stress of IPEC-J2, but COS can induce high expression of $\\mathrm { N r f } 2$ and HO-1 protein, and improve the activity of antioxidant enzymes,reduce the content of oxidative products,so increase cellular resistance to oxidative stress, and play a protective role. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words: chitooligosaccharide; lipopolysaccharide; IPEC-J2; oxidative stress; antioxidant ",
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,255 @@
+# DOI:10.5846/stxb201708211508
+
+刘啸添,周蕾,石浩,王绍强,迟永刚.基于多种遥感植被指数、叶绿素荧光与 $\mathrm { C O } _ { 2 }$ 通量数据的温带针阔混交林物候特征对比分析.生态学报,2018, 38(10):3482-3494. LiuXT,ZouLSngolcalacteritifepeateofeosdd-aeddfrstsdoi sensing vegetation indices，chlorophyll fluorescence and $\mathrm { C O } _ { 2 }$ flux data.Acta Ecologica Sinica,2018,38(10) :3482-3494.
+
+# 基于多种遥感植被指数、叶绿素荧光与 $\mathbf { C O } _ { 2 }$ 通量数据的温带针阔混交林物候特征对比分析 C
+
+刘啸添1,²，周蕾²，\*，石浩²，王绍强²,3，迟永刚²
+
+1中国矿业大学(北京)地球科学与测绘工程学院，北京100083  
+2中国科学院地理科学与资源研究所生态系统网络观测与模拟重点实验室，北京100101  
+3中国科学院大学资源与环境学院，北京100190
+
+摘要:植被物候学作为研究植被与环境条件相互作用的科学,在全球气候变化的大背景下已成为国际热点研究领域,其中森林植被在调节全球碳平衡、维护全球气候稳定的过程中有着至关重要的作用。随着遥感技术的发展,多种遥感指数被应用到森林植被物候研究中,其中以MODIS NDVI和EVI应用最为广泛,而叶绿素荧光(SIF)作为植被光合作用的“探针”也被广泛应用于森林植被物候研究中。为了探究3种指数在森林植被物候研究中的差异与特性,本文以长白山温带红松阔叶林通量观测站为研究区域,采用模型拟合结合动态阈值法提取 2007—2013森林物候特征参数，并使用通量数据（总初级生产力GPP)进行验证。结果表明;NDVI与EVI、SIF 相比,表现为生长季开始时间与结束时间的明显提前和滞后,与GPP 数据偏差较大,且夏季生长季峰期曲线形态过宽且平坦,无法较好反映生长季变化特征;EVI相较于NDVI有所改善,整体变化趋势与 SIF、GPP 基本吻合,但依然存在秋季衰减时间稍迟于SIF与GPP 的问题;SIF 虽然存在夏季骤降现象,但依然与GPP 数据一致性最好,可以较好反映出森林植被季节变化特征。SIF数据与植被光合作用的紧密关联使其在植被物候研究中具有优于植被指数的准确性,并随着遥感平台的增加和反演方法的改善,将会在多尺度、多类型的植被物候监测中发挥更加重要的作用。
+
+关键词：植被物候;植被指数;叶绿素荧光;通量数据;温带混交林;动态阈值法
+
+# Phenological characteristics of temperate coniferous and broad-leaved mixed forests based on multiple remote sensing vegetation indices， chlorophyll fluorescence and CO, flux data
+
+LIU Xiaotian'2,ZHOU Lei2\*,SHI Hao², WANG Shaoqiang23， CHI Yonggang²   
+1CollgeofGeoscienceandSurveyingEnginering，China UniversityofMiningandTechnlogy(Beijing），BeijingOo8,Chna   
+2KeyLaboratoofosetokseroddeling，stuteofeacecdturalRsoueesechecef   
+Sciences，Beijing 100101, China   
+3 College of Resources and Environment， University of Chinese Academy of Sciences，Beijing 100190,China
+
+Abstract:Vegetation phenologyresearch hasgained increasingatention because itis the best indicatorof terestrial ecosystemresponses toclimatechange，and theirconsequences forecosystem functioning.Forests playan importantrole in theterrestrial carboncycleand maintainglobal climate stability.With the developmentofremotesensing technology, multiple remote sensing indicesareapplied tothe studyofforest vegetation phenology，among which Normalized Difference
+
+Vegetation Index（NDVI）and EnhancedVegetation Index（EVI）derivedfrom Moderate-ResolutionImaging Spectroradiometer(MODIS）are the most widely used.With the launch of Greenhouse Gases Observing Satelite(GOSAT）, Global Ozone Monitoring Experiment 2（GOME-2）andOrbiting CarbonObservatory 2（OCO-2）satelite，chlorophyl fluorescence(SIF）asaprobe for photosynthesis ofvegetation has been widelyapplied for studying the vegetationphenology intheglobalscope.Inthisstudy，wehaveanalyzed thephenologicalcharacteristicsof Pinus horaiensisandbroad-leaved mixed forests in Changbaishan flux station from $2 0 0 7 \sim 2 0 1 3$ ，using a double logistic function fitting and dynamic threshold method.Thereafter，the phenologicalcharacteristics，parameters，and time series curvesof the three types of data were analyzedandcompared.Inaddition，the validityof theresults wasconfirmed bydaily grossprimary production(GPP）from 2007to 2010.We foundthat time series of NDVI exhibitsanearlier startof growth season(SOS）dateandalate endof growthseason(EOS）date thanthatofEVIand SIF,and thattheshapeof thecurveof growing season is tooflat and broad to reflecthe seasonal variations accuratelyowing to the saturation efect.The time series of EVI had more pronounced seasonal characteristics，which was moreconsistent with GPPthanthatof NDVI,althoughtheformer showeda slightlylater decline.SIFhadtheclosest correlation with GPPandthe bestability totracktheseasonalcycleof photosynthesisand reflectthe seasonalchanges in forest growth.Thecloserelationshipof SIFdata with photosynthesisindicatedthat SIFis morelikelytoplaya beterrole in vegetation phenology monitoring than vegetation index.Moreover，the phenomenonof rapiddeclinein SIFaround summer solstice,mentioned by manyphenological studies,isconsistentwiththefindingsof the present study.Therefore，we have discussed thecauses of this phenomenon from several aspectsand provided a more reasonableexplanation. Comparison of the three remote sensing indices in thepresent studysuggested that SIF reflects seasonal variationin forest vegetation phenology beter.Withtheincrease inthe number ofremote sensing platforms and the improvementof inversion methods，SIF willplaya more importantrolein multi-scaleand multi-typevegetation phenology research.
+
+KeyWords: vegetation phenology；vegetation Index;chlorophyll fluorescence；fluxdata; temperate mixed forest；dynamic threshold method S
+
+植被物候学是研究植物(包括农作物)与环境条件(气候、水文、土壤)相互作用及其影响机制的学科[1],植被的生长变化特征会影响生态系统的结构与功能,如叶片面积、光合作用、碳循环、物种构成等[2-4],这些变化反过来又会影响气候系统,从而加剧气候变化。在众多植被类型中,森林植被占地约 $1 . 4 \times 1 0 ^ { 5 }$ 万 $\mathrm { { h m } } ^ { 2 }$ ,占全球面积的 $9 . 4 \%$ ,储存了陆地生态系统 $7 6 \% - 9 8 \%$ 的有机碳,在调节全球碳平衡、维护全球气候稳定等方面具有至关重要的作用[5],因此监测森林植被物候并研究其周期性变化规律具有重要理论意义与应用价值[6]。
+
+卫星遥感数据能够在多种尺度上为各类生态系统提供植被物候的有效信息,因此成为森林物候监测的主要手段[8]。时间序列的卫星遥感观测数据,例如 MODIS 数据被广泛应用于提取植被物候特征的研究中，其中植被指数产品能够在较大时空尺度上准确反映植被绿度,如归一化植被指数(NDVI)与增强型植被指数(EVI),因此广泛应用于植被物候的研究中[9-11]。尽管 MODIS 植被指数被公认为是质量较高的植被指数产品之—[12],但由于计算公式和后处理中的不足[13],植被指数在物候监测中存在着较为明显的缺陷,如 NDVI易受土壤背景、云雾遮挡影响,且在高植被覆盖度区存在易饱和问题[14-15]。EVI虽然改进了反演波段的计算方法使其对植被冠层结构更为敏感,但依然存在残留气溶胶的噪声影响,使植被物候监测结果的不确定性大大提高。
+
+随着Grenhouse Gases Observing Satelite(GOSAT）,Global Ozone Monitoring Experiment2（GOME-2），以及Orbiting Carbon Observatory 2（OCO-2)等卫星的发射,使得在全球范围内进行 SIF 数据反演并投人到植被物候研究中成为可能[16-7]。叶绿素荧光作为光合作用的副产物,不局限于叶片表观颜色的变化观察,而是监测植被内在的光合作用过程[6]。Joiner 等[17]采用GOSAT SIF与 MODIS EVI、NDVI数据对全球多处区域进行植被季节变化分析,结果表明 SIF与植被指数具有不同的季节性以及相对强度变化，且SIF 含有独立于植被指数的信息。刘新杰等[18]利用GOSAT卫星数据进行 SIF 反演并结合 MODIS EVI对我国西北、西南、华北地区进行物候研究,发现 SIF时间序列曲线较EVI季节变化更加明显且相对较早,认为SIF数据中含有EVI数据无法表现的特殊信息。Walther等[19]采用GOME-2 SIF 以及 MODIS NDVI、EVI数据,对中高纬森林进行物候对比研究,发现3种指数的季节变化曲线存在较大差异。由此可见,NDVI、EVI与 SIF数据在植被物候监测上差异较大并对监测结果产生显著影响。
+
+中国东北地区森林覆盖度高,其中以长白山地区森林植被种类最为丰富且季节特征明显,是森林物候研究的理想区域[20],且国内鲜有利用 SIF 数据对该地区森林植被进行物候监测的研究,因此本文采用目前应用最广泛的植被指数 MODIS NDVI,EVI以及GOME-2 SIF 数据,选择具有中高纬森林代表性的长白山温带红松阔叶林通量站点为研究区域,对3种指数的物候特征进行对比分析,并结合通量站观测数据估算出的总初级生产力（Gross Primary Productivity，GPP)数据进行验证,以探索3种指数在森林物候研究中的具体特性。
+
+# 1研究站点概况
+
+长白山温带红松阔叶林通量观测站位于吉林省延边朝鲜族自治州安图县二道白河镇。该站地处长白山自然保护区内,地理坐标 $4 2 ^ { \circ } 2 4 ^ { \prime } 9 ^ { \prime \prime } \mathrm { N } , 1 2 8 ^ { \circ } 0 5 ^ { \prime } 4 5 ^ { \prime \prime } \mathrm { E }$ ,海拔高度 $7 3 8 \mathrm { ~ m ~ }$ ,属受季风影响的温带大陆性气候,具有显著的中纬度山地气候特征,春季干旱多风,夏季炎热多雨,冬季干燥寒冷,年平均气温 $3 . 6 \mathrm { ^ { \circ } C }$ ,年平均降水量$7 1 3 ~ \mathrm { m m }$ ,主要集中在6—8月，全年日照时数为2271—2503h,无霜期 $1 0 9 \textless 1 4 1 \textcircled { \scriptsize { \textrm { d } } }$
+
+长白山的植被具有典型的垂直地带性,是我国自然生态系统保存最完整的地区之一,是拥有大量物种资源的生物基因库。通量塔下垫面植被为阔叶红松林,为典型的地带性植被,主要建群树种有红松（Pinuskoraiensis）、椴树（Tilia tuan）、蒙古栎（Quercus mongolica）、水曲柳（Fraxinus mandshurica Rupr）、色木（Acermono Maxim)等,平均树高 $2 6 ~ \mathrm { m } ^ { [ 2 1 ] }$ 。 ）
+
+# 2 数据来源与研究方法
+
+# 2.1 数据获取与预处理
+
+# 2.1.1 MODIS 植被指数
+
+NDVI、EVI植被指数产品采用MOD13A2V006版本,16d最大值合成,每年23期数据,空间分辨率 $1 ~ \mathrm { k m }$ ，时间范围 2007—2013 年。所采用的 MODIS 遥感产品均来自 LP DAAC 网站（https://pdaacsvc.cr.usgs.gov/appeears/）提供的 AppEEARS(Application for Extracting and Exploring Analysis Ready Samples）应用。
+
+遥感数据由于环境条件、传感器精度等多种原因会导致数据中含有噪声影响，因此利用MOD13A2中与每一期数据相对应的"Data pixel reliability”数据集（表1)以及云掩、阴影、冰雪覆盖等质量文件对NDVI、EVI数据进行质量控制，剔除掉数值标识为2、3（冰雪覆盖或云遮挡)质量差的数据，再结合质量文件对数据标识为1的数据进行处理,剔除掉存在云掩等噪声影响的数据，最后利用线性插值插补数据并赋予权值。
+
+表1权值参照表  
+Table1Weight reference   
+
+<html><body><table><tr><td colspan="2">Table1</td></tr><tr><td>数值 Value</td><td>描述 Description</td></tr><tr><td></td><td></td></tr><tr><td>0</td><td>具有可信度</td></tr><tr><td>1</td><td>较有可信度，需参考其他QA文件</td></tr><tr><td>2 数据插补点</td><td></td></tr></table></body></html>
+
+从图1可以看出,经过质量控制后处于非生长季阶段(1—4月,9—12月)的数据由于采集条件较差,数值偏低被剔除，但时间序列数据曲线波动依然较大,存在多处异常值，虽然质量文件中未显示有环境条件的干扰因素,但仍存在传感器精度、观测角度等影响,因此需要进一步去除噪声影响以供后续分析。
+
+# 2.1.2 叶绿素荧光数据
+
+2007—2013 年的 SIF 数据采用 Kohler 等[22]利用搭载在 MetOp-A卫星上的GOME- $2 ^ { [ 2 3 ] }$ 测量数据中波段
+
+![](images/b86cdbf808c11a4982469e5c56f23500924aa32055337f8d5084b4f95418f01d.jpg)  
+图1质量控制前后的NDVI、EVI时间序列曲线  
+Fig.1 NDVI,EVI time series curve comparison before and after the quality contro
+
+VDVI:归一化植被指数,Normalized Diference Vegetation Index;EVI;增强型植被指数,Enhanced Vegetation Inde范围 $7 4 0 ~ \mathrm { n m }$ 的数据反演得到8d最大值合成,每年46期数据,空间分辨率 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 的数据,根据长白山通量站点坐标提取该站点的 SIF 时序数据并利用残差平方和进行质量控制,高于 $2 \mathrm { ( ~ m ~ W ~ m ^ { - 2 } ~ s r ^ { - 1 } ~ n m ^ { - 1 } ~ } .$ )的数据被剔除并采用线性插值插补。 入
+
+SIF数据的空间分辨较低,国内外对于物候研究中 SIF数据的使用通常将其他数据的空间分辨率重采样为 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ [ 1 9 , 2 4 ] }$ 。考虑到本研究是基于通量站点为研究区域,数据的处理计算均以站点为中心,区域内空间同质性较好,植被类型一致,参考Joiner等[25]物候研究成果,该研究引入SIF相同尺度的 MPI-BGC 模型[26]GPP 数据作为数据误差的分析参照,结果表明森林站点的 SIF 数据与通量站以及模型GPP值的一致性均较为理想,空间代表性差异的影响存在但可接受,故在本文中为了尽可能保证遥感数据与通量数据的空间代表性一致，保留了遥感数据的原始空间分辨率。
+
+# 2.1.3 通量数据
+
+总初级生产力(GPP)是植被单位时间内通过光合作用吸收太阳光能产生有机物的总量,又称总第一性生产力[27],能够直接且准确地反映植被生长状态。
+
+通量观测以较高的时间频率连续测量地表植被与大气间二氧化碳、水汽以及能量的交换,提供了植被精确的代谢活动数据,高度连续的观测数据也更加准确地反映出植被生长季的起止等关键物候时间点。同时，长白山温带红松阔叶林通量观测站数据采集源区基本在 $1 ~ \mathrm { k m } ^ { 2 }$ 左右，与季节更替和大气条件稳定与否相关，总体上与 MODIS 植被指数产品空间分辨率一致[28]。因此使用通量观测直接获取的净生态系统碳交换量（NEE)并估算生态系统呼吸(Re)计算出的GPP,常作为"真值"检验遥感地面反演模型的结果[29]。
+
+由于通量数据存在观测条件不满足相关假设与传感器标定问题,涡流的随机性与传感器内部的噪声问题等,因此需要对通量观测数据进行坐标轴旋转、WPL校正和储存项校正以消除地形、空气水热传输和观测高度对于观测数据的影响[30]。由于夜间大气层结构稳定导致夜间观测到的 $\mathrm { C O } _ { 2 }$ 交换通量存在不能反映真实交换通量的可能性，因此需要对夜间湍流较弱情况下的数据进行 $U ^ { * }$ 剔除并对天气异常、电力不稳定以及虫禽干扰等造成的错误数据进行剔除[31]。
+
+7 在进行数据的校正和插补后,将每日每半小时间隔的连续观测数据加和得到2003—2010年逐日的GPP时间序列数据（图2）。
+
+通量数据在本文中作为验证数据,被当做植被物候的客观“真值"曲线,由于时间分辨率越高,植被的物候曲线会保留更多植被生长变化的细节,提供更符合植被真实生长状态的物候信息,因此并未对GPP 进行8d的最大值合成而是计算成每日的通量数据并应用到物候曲线分析中。
+
+# 2.2物候特征参数提取
+
+本研究中采用模型拟合结合动态阈值法进行物候参数提取,并在TIMESAT软件3.2版本完成,选择生长
+
+![](images/4dc09d1ba44bc939f3dd387af68300d268ac0db80d46657eb70650be0bf8c090.jpg)  
+Fig.2Seasonal variation of GPP in Changbai Mountain station for 2oo3—2010
+
+季开始时间（start of growth season，SOS）、生长季结束时间(end of growth season，EOS）,生长季长度(length ofgrowth season，LOS）,季节中点(time for the mid of the season)4 个参数,并统计时序数据的最大值时间点进行物候分析。
+
+# 2.2.1 数据异常值处理
+
+经过预处理之后,数据仍存在着明显的异常点,必然会影响拟合后的曲线形态和精确度,因此需要利用TIMESAT进行异常值处理。 2
+
+本文选择利用 STL（Seasonal and Trend decomposition using Loess)分解法结合数据权值文件的方式对3种指数进行异常值处理。STL分解法是以鲁棒局部加权回归作为平滑方法的时间序列分解方法，其中 Loes（locally weighted scattrplot smoothing)为局部多项式回归拟合[32],与原始权值文件结合使用可更好地考虑到数据特性。经过异常值处理后3种指数的时间序列曲线形态得到明显改善,去除生长季与非生长季的异常值。由于 SIF 是每年46 期数据而MODIS 植被指数为每年23 期数据,因此曲线形态上 SIF 变化更加细致。三种指数异常值处理前后曲线对比如图3所示,红色虚线为处理后剔除掉的异常值部分。
+
+![](images/7d56bd16516ab7f811ab88260b6f00868b450c6ab9f5599ce44aa9baab49a729.jpg)  
+图2长白山站2003—2010年GPP季节变动曲线图  
+图33种指数时间序列曲线处理前后对照图  
+Fig.3Three time series curve before and after the processing comparison
+
+SIF：叶绿素荧光,chlorophyll fluorescence
+
+# 2.2.2拟合模型选择与物候特征参数提取
+
+TIMESAT 3.2中共提供了3种拟合模型,考虑到模型的构建原理与适用性,针对D-L拟合（Double logisticfunctions)与 S-G滤波（Adaptive Savitzky-Golay filtering)通过式1计算Pearson相关系数,并绘制3种数据生长季数据点的残差箱线图比较两种方法保持原时间序列曲线整体形态和高质量点的能力。
+
+$$
+r = { \frac { \displaystyle \sum _ { 1 } ^ { n } { \mathrm { ( i n d e x } _ { p i } ~ - ~ { \overline { { i n d e x } } } _ { p } } ) ~ { \mathrm { ( i n d e x } _ { o i } ~ - ~ { \overline { { i n d e x } } } _ { o } } ) } } { \displaystyle \sqrt { \sum _ { 1 } ^ { n } { \mathrm { ( i n d e x } _ { p i } ~ - ~ { \overline { { i n d e x } } } _ { p } } { \mathrm { ) } } ^ { 2 } } ~ \times ~ \sum _ { 1 } ^ { n } { \mathrm { ( i n d e x } _ { o i } ~ - ~ { \overline { { i n d e x } } } _ { o } \mathrm { ) } } ^ { 2 } }  
+$$
+
+式中， $n$ 为一年数据总期数, $\operatorname { i n d e x } _ { p i }$ 为拟合后的第 $i$ 期数据, $\overline { { \mathrm { i n d e x } _ { p } } }$ 为拟合后均值, $\mathrm { i n d e x } _ { o i }$ 为拟合前第i期数据， $\overline { { \mathrm { i n d e x } _ { o } } }$ 为拟合前数据均值。 OC
+
+根据图4和图5所示，D-L拟合法在拟合前后曲线相关系数上明显更具优势，只在SIF数据上略低于S-G滤波，但也达到了0.955，其它两种数据分别为0.977和0.966，很好地保留了原时间序列曲线的整体特征。在生长季高质量数据点的偏差分布上，D-L模型处理后整体偏差较小且分布更为均匀集中，表明在较好地保留高质量数据点的同时也使得曲线更加平滑。
+
+经过对两种拟合模型对比后，选择效果更为理想的D-L 模型并结合动态阈值法(式2)提取物候特征参数。
+
+$\mathrm { i n d e x } _ { t } = \left( \mathrm { i n d e x } _ { \mathrm { m a x } } - \mathrm { i n d e x } _ { \mathrm { m i n } } \right) \times 2 0 \%$ (2)式中， $\operatorname { i n d e x } _ { \operatorname* { m a x } }$ 代表该指数一年中数据最大值,indexmin代表最小值,取两者振幅的 $20 \%$ 作为生长季开始/结束的阈值， $\mathrm { i n d e x } _ { \operatorname* { m a x } }$ 左侧曲线高于index时即为进人生长季，右侧低于index则为生长季结束。
+
+![](images/e6eed4e099f1a5583ed14372040fe1a45ae5baab3c9f6da67759a401ff0208ff.jpg)  
+图43种指数拟合前后曲线相关系数  
+Fig.4Correlation coefficients of three indices fitting curves
+
+指数生长季中点时间根据曲线左端和右端分别增长/减少至 $8 0 \%$ 幅度的时间点取均值得到(式3），并统计每年达到生长最大值时间点。
+
+$$
+t _ { \mathrm { m i d } } = a v e r a g e ( t _ { l , 8 0 \% } , t _ { r , 8 0 \% } )
+$$
+
+式中， $t _ { \mathrm { m i d } }$ 为生长季中点时间， $t _ { l , 8 0 \% } \mathcal { \hat { \mathrm { K } } } \mathbb { I } t _ { r , 8 0 \% }$ 分别为曲线左端和右端分别增长/减少至 $8 0 \%$ 幅度的时间点。
+
+# 3结果
+
+3.13种指数时间序列曲线整体特征
+
+3种数据的7年时间序列曲线呈现明显的季节性变化且整体变化一致(图6),曲线为单峰形态,非生长季阶段的曲线受限于数据质量等原因数据波动明显大于生长季,且冬季曲线数值均高于0。
+
+植被指数时序直接反映了植被绿度的季节性变化并间接表现出植物光合作用的强弱及其季节和年际差异。NDVI年均值在0.51—0.57,7年数据标准差为0.24,EVI年均值为0.29—0.31,7年数据标准差为0.17,NDVI相较于EVI整体数值偏高,同期数据近2倍于EVI。NDVI曲线非生长季存在较大波动,有多处异常峰值,而EVI在相同时间段内曲线更加平滑,整体分布更加集中,尤其是生长季阶段相较NDVI曲线波峰较宽且平坦的形态,EVI生长季波峰表现为“尖峰"形态,更加准确反映植被生长季的变化特征。
+
+NDVI与EVI时序曲线的生长季形态大致对称,最大值基本在生长季峰期的中间位置,而SIF时序曲每一年的生长季最大值时间要早于生长季峰期的时间中点,较早达到生长峰值,之后迅速衰减进入衰老期,这也是SIF 数据与MODIS 两种植被指数相比最明显的区别。
+
+http://www.ecologica.cn
+
+![](images/9129ce2dabaa42c777e258500e535d6de1605102768a5db1af482dc2f270addc.jpg)  
+图53种指数拟合前后残差箱线图(只保留生长季(4一9月)高质量数据点)
+
+![](images/e36f3356bfe72d8742bdb96d9a90699fda1f5cb03131f86483579acb755eaa31.jpg)  
+Fig.5Residalboxchartofthreeindicesafterfunctionfiting（onlyetaitheghqualitydatapointsintherowingseason(4—9oths）   
+图62007一2013年3种指数时间序列曲线对比  
+Fig.6Comparison of three time series curve for 2oo7—2013
+
+计算3种指数 2007—2013年间7年时间序列数据均值得到图7中年均值时间序列曲线,NDVI明显区别于另外两种数据,在3月底便进入快速增长阶段,直至8月初才逐步开始衰减,形成平坦且较长的生长季峰期形态,10月初逐渐下降并趋于平稳。而EVI与 SIF曲线的变化趋势基本一致,均在4月末开始快速上升,但SIF 曲线在6月中旬便较早到达生长季峰值,之后迅速衰减,两者曲线在7月中旬逐渐重合,EVI稍滞后于SIF,9月末结束衰减过程并趋于稳定。
+
+# 3.23种指数物候特征参数对比分析
+
+3种数据在时间序列曲线形态上有较大差别,得到的物候参数差异较大。如表2所示,生长季的开始时间上,NDVI早于另两种数据,在部分年份比SIF早近1个月的时间,EVI与NDVI相差较小,只在2007年有近
+
+16d的差别,其余年份基本一致。生长季结束时间上,NDVI平均晚于SIF1个月左右，与EVI差值最小值在6d左右，最大值(2013年)达到了 $2 5 \mathrm { ~ d ~ }$ 。在生长季的持续时间上，同样是 $\mathrm { N D V I { > } E V I { > } S I F }$ ，在部分年份NDVI得到的LOS近2倍于SIF得到的LOS，显示出了巨大的差异性。
+
+由图8可以清晰看出，SIF数据的季节峰值时间点明显早于MODIS 数据,同时也早于SIF数据的季节中点，而MODIS数据的峰值点与季节中点则更为接近。由于季节峰值时间点是根据每一期数据统计得到，因此受限于数据采集的时间跨度无法同季节中点（计算得出）一样精确，因此此处分析认为季节峰值时间点与季节中点相差在一个数据期数内就代表时间基本一致。基于这种判断，MODIS数据的季节中点与季节峰值时间点基本在同一时间,而 SIF数据表现为季节峰值时间点早于季节中点约2—3个数据周期。
+
+![](images/be2882aa5114b6136848626d7812a057139323f608673e9338e815c6d5ed318f.jpg)  
+图73种指数7年均值时间序列曲线  
+Fig.7The time series curve mean values of three indices averagedbyseven years
+
+表23种指数的物候特征参数  
+Table2Phenological characteristics of three indices   
+
+<html><body><table><tr><td rowspan="2">年份 Year</td><td colspan="3">NDVI</td><td colspan="2">EVI</td><td colspan="3">SIF</td></tr><tr><td>SOS</td><td>EOS</td><td>LOS</td><td>SOs EOS</td><td>LOS</td><td>SOS</td><td>EOS</td><td>LOS</td></tr><tr><td>2007</td><td>98</td><td>287</td><td>189</td><td>115 278</td><td>163</td><td>132</td><td>270</td><td>138</td></tr><tr><td>2008</td><td>108</td><td>288</td><td>180</td><td>115 274</td><td>159</td><td>122</td><td>275</td><td>153</td></tr><tr><td>2009</td><td>117</td><td>280</td><td>163</td><td>122 271</td><td>149</td><td>116</td><td>269</td><td>153</td></tr><tr><td>2010</td><td>122</td><td>295</td><td>173</td><td>125 285</td><td>160</td><td>127</td><td>278</td><td>151</td></tr><tr><td>2011</td><td>121</td><td>287</td><td>166</td><td>127 273</td><td>146</td><td>143</td><td>263</td><td>120</td></tr><tr><td>2012</td><td>113</td><td>300</td><td>187</td><td>113 287</td><td>174</td><td>126</td><td>269</td><td>143</td></tr><tr><td>2013</td><td>108</td><td>302</td><td>194</td><td>110 276</td><td>166</td><td>128</td><td>259</td><td>131</td></tr></table></body></html>
+
+NDVI:归一化植被,oaledDierece VegeatodexEVI增强植被指EnancedVegetationIndex;F叶绿光,cloophl luorescence;SOS;生长季开始时间,startofgrowthseason;EOS：生长季结时间,endofgrowthseason;OS;生长季长度,lengthofrowthseason
+
+以上提取的物候参数反映出了NDVI、EVI与 SIF 数据物候监测结果的较大差异,植被绿度在叶绿素还未进入活跃期时便已开始发生明显变化,且变化幅度为对称形态。而叶绿素的高强度活动周期更加集中和短促,在植被进入到生长季之后迅速达到最旺盛的状态,而后快速衰减。植被叶片的生长也在叶绿素光合作用达到峰值后进人到生长最快速的阶段,之后在植被仍维持一定的绿度时光合作用的活跃期结束。
+
+# 3.33种指数监测森林物候能力的比较
+
+利用 2003—2010 年间7年间通量站点的GPP逐日数据对同时段内的 NDVI、EVI、SIF得到的物候监测结果进行验证。
+
+图9中清晰地显示出3种指数与GPP 之间的变化关系。NDVI曲线与GPP 数据差异较大,着重体现在NDVI监测到的生长季明显要长于GPP监测的生长季,在非生长季与GPP数据也出现了较大偏差。EVI相较于 NDVI则有较大改善,整体上较为符合GPP数据的变化趋势,但非生长季数值明显偏高，无法捕捉生长季中植被快速生长时的变化细节。SIF曲线形态与GPP之间存在良好的相关性,不仅与GPP 数据点基本重合，且在生长季期间很好地反映出植被GPP数值的变化细节,总体偏差较小。
+
+图10中,4种数据的年均值曲线图也反映出了上述特点,SIF 曲线依然是与GPP最为吻合的曲线,而MODIS 植被指数虽然在整体趋势上也保持了与GPP相同的变化过程,但偏差较大，存在着约1个月左右的时间偏差。综合图9图10中的曲线对比关系，SIF显示出与植被GPP数据最好的匹配关系，但SIF曲线依然出现了早于GPP开始衰减的趋势，这也是SIF曲线与其他数据相比的一个特性。
+
+# 4讨论
+
+# 4.1 NDVI与EVI时间序列曲线的差异
+
+EVI在计算公式中引用蓝波段并针对残留气溶胶的后处理改善了NDVI的不足，使两种指数在物候曲线产生了较大差异[3]。NDVI生成算法中只采用了红光和近红外两种波段，当植被覆盖度较高时，植被叶片中的叶绿素使红光波段很快趋于饱和，加之算法本身为非线性增长函数，导致高植被覆盖度时出现饱和效应，低植被覆盖度时数值易偏高夸大曲线振幅[34],因此曲线呈现出较早开始上升，生长季较长且平坦。而NDVI后处理中对大气校正的不彻底导致水汽、气溶胶残留，因图中曲线为3种数据的季节峰值时间点的拟合曲线
+
+![](images/9dcd937ee9d0301eddcc0d45954b827855426620a0d52dae769ba74204a0eb3e.jpg)  
+图83种指数生长季峰值与时间中点对比图
+
+![](images/e6577143ca862c8094cbd29767973086c1dbe1e6f9c6fcb5cfb1bf8675908abf.jpg)  
+Fig.8The peak value in growing season and the midpoint of three indices   
+图92007一2010年MODIS 植被指数(NDVI、EVI)、SIF 时间序列曲线与GPP对比图  
+ig.9Comparison of MODIS vegetation index(NDVI,EVI）and SIF time series curve with GPP for 2007—201
+
+此在长白山站点春冬季存在冰雪覆盖的情况下,更易受到云雾遮掩,冰雪覆盖影响[3],使得非生长季期间出现较大的起伏以及多处异常峰值。
+
+# 4.2SIF与植被指数的差异
+
+相比反映植被绿度的植被指数,通过探测植被光合作用发射的荧光信号,快速、无损伤反映植被光合作用特征的叶绿素荧光,则成为了监测植被对光能利用情况的"探针”[36-37]同时也可以很好反映植被的生长状态。
+
+SIF 与植被指数之间的差异主要体现在两个方面。在本研究中,SIF物候曲线明显晚于两种植被指数进人生长季,且较早结束,大约在4月末开始,9月末结束。刘新杰等[18]对我国西北、西南、华北地区进行物候研究的结果显示 SIF高值通常在4—5月期间,而MODIS 数据高值通常出现在7—9月。本文中SIF的高值出现时间大致为6—7月,植被指数高值出现时间大致为7—9月,与刘新杰等的研究具有相似的规律性,即 SIF 要早于 MODIS 植被指数达到生长季峰期水平,但SIF 峰期提前的时间与本文存在1—2个月的差异。考虑到该研究中的3处区域中,西北区与本文差值最小,西南最大,因此水热条件越充足,植被的 SIF曲线到达峰期的时间就越早。Walther等[19]对北美中高纬落叶林进行物候研究并对比了MODIS NDVI,EVI,GOME-2 SIF数据,研究结果与本文总体一致,SIF在4月初快速增长,5月末达到最大值,7—9月缓慢下降并逐步进入秋季快速衰减阶段。植被指数的EOS 晚于 SIF 的情况,通常是反映植被绿度变化的指数共有的问题,因为在植被进入秋季衰老期后,植被光合作用虽然大幅度减弱并趋于停止,但叶片绿度并不会迅速反映这种改变而是存在一个渐变过程,且卫星信号通常会被衰老死亡但未凋落的叶片影响,因此相较于SIF 的秋季衰减 NDVI、EVI均存在一个滞后过程[38]。
+
+![](images/1cf003765c7b0d0f7ca18750cc0a5257ec98337c0d14264b56f000a4ac8b2225.jpg)  
+图104种数据年均值时间序列曲线图  
+Fig.10Time series curves of mean value of NDVI, EVI, SIF and GPP
+
+SIF在夏季生长季会出现早于植被指数的快速下降,Yang等[39利用摄像机与MODIS 图像进行林冠测量时提到过这种现象,Walther等[19]利用GOME-2反演的 SIF 数据对中高纬森林进行物候研究时也发现北美的多处落叶阔叶林以及部分混交林出现这种情况。产生这种现象的原因,Wilson 等[40]提出夏季氮元素分配的改变导致光合作用中一种可能有重要作用的 Rubisco 酶发生了改变。Bauerle 等[41]通过实验提出是光周期的调节使得光合作用在夏季骤降。本文研究中发现 SIF 曲线夏季骤降只在落叶林以及混交林中出现,且时间点在夏至日前后[25]。对于北半球的中高纬地区来说,夏至日前后太阳高度角达到一年中最大值,气温开始升高,气候学上以每5d的平均气温高于 $2 2 \%$ 的始日作为夏季开始，并伴有频繁降雨天气[42]。综合以上两点,落叶林(以及如本文中具有明显落叶林特性的混交林)的生长习性使其在春季复苏期会吸收更多的二氧化碳进行光合作用以生出大量新叶[43],在这过程中光合作用强度迅速增大。但随着夏至日前后光照强度与时长的增加、温度的升高,使叶绿素的光合作用受到抑制[44],因此伴随光合作用强度的下降 SIF也表现出在夏季迅速衰减的特性。
+
+# 4.33种指数与通量站GPP数据的关系
+
+J GPP 是表征植被通过光合作用产生有机物与能量总和的生物变量,通量塔高时间频率的日观测数据计算得到的GPP数据对植被的生长状态具有非常高的代表性[45]。GPP与 SIF之间的季节变化相关性已在多种植被类型上被验证[24,46-47]。Yang 等[48]更是指出 SIF数据,包括卫星与地面两种获取方式,在落叶林类型上与通量塔GPP存在每日和季节性的强关联。本文的研究中 SIF曲线虽然存在夏季骤降现象,但依然显示出了与通量站GPP数据的良好一致性,Bauerle[4I]等通过试验证实这种变化与叶片光合作用的季节变化一致。这种下降并未使得GPP 出现明显的下降,说明虽然光合作用的强度受到抑制,但产生的有机物总量却没有受到较大干扰,考虑到 SIF强度与光能利用率(LUE)之间存在可靠负相关关系[49],因此本文推测 SIF 虽然快速下降,但叶绿素利用太阳辐射进行光合作用的效率却得到了提升，因此GPP并未出现明显下降。植被指数的局限性导致与GPP之间存在明显偏差,EVI相比于 NDVI与GPP 吻合程度更高一些,虽然无法很好捕捉植被生长变化的特征细节,但对于季节性变化较大的森林类型,凭借叶片的物候特征与二氧化碳吸收具有强关联，因此也可以用来监测 GPP 的季节变化[50]。
+
+# 5结论
+
+本文以长白山针阔混交林站点为研究区域,采用 MODIS NDVI、EVI与GOME-2 SIF 数据,利用数据拟合与动态阈值法提取物候特征参数,并对比分析3种数据在森林植被物候监测上的区别与各自特性,最后利用通量站GPP数据进行验证。
+
+研究结果表明,NDVI受限于计算公式和后处理中的不足使得噪声影响明显,在非生长季数据起伏波动最大,生长季出现饱和现象,与GPP数据也存在较大差异。EVI曲线更加平滑规律且与GPP 匹配程度更好，但秋季衰减时间稍晚于GPP 数据。SIF 虽然存在波动但总体较小,季节变化趋势明显,与GPP 季节变化基本一致,较好反映了植被生长的变化特征,但受夏至日前后光照强度和温度升高影响出现夏季骤降现象。
+
+结合以上研究结果,植被指数对于植被绿度的监测虽然凭借生长过程中与二氧化碳通量变化的关联可以一定程度上监测GPP 的季节变化反映植被的生长状态,但受限于计算与后处理方式、植被的季节变化幅度等,在关键物候时间上普遍存在提前和滞后现象。SIF与GPP具有良好一致性,可以较好反映植被的生长过程并精确捕捉植被光合作用的变化细节。但反演 SIF荧光波段的选择,后处理中质量控制的方法都会影响数据在物候研究中的参考性,并且SIF的变化与多种植被参量(APAR,LUE等)的关系依然不够明确,因此对于SIF 变化细节的研究依然是亟待解决的问题。
+
+致谢:LP DAAC 网站(https://lpdaacsvc.cr.usgs.gov/appeears/）提供 MODIS 植被指数时间序列数据,Kohler 等反演GOME-2 SIF数据(ftp://ftp.gfz-potsdam.de/home/mefe/GlobFluo/）,中国生态系统网络(CERN)提供长白山温带红松阔叶林通量站长期观测数据,特此致谢。
+
+# 参考文献（References）：
+
+［1］李荣平，周广胜，张慧玲.植物物候研究进展.应用生态学报，2006，17（3)：541-544.  
+［2］夏传福，李静，柳钦火.植被物候遥感监测研究进展.遥感学报，2013，17（1）：1-16.  
+[3]WaltherGR,ostE,ConeyP,Menzel,PamesanC,ebeeTJ,FromentinJM,Hoeg-GuldbergO,BairleinF.Ecologicalresporecent climate change. Nature，2002， 416(6879） : 389-395.  
+[4]RichardsonAD,AndersonRS,AltafArainM,BarrAG,BoherG,ChenGS,ChenJM,CsP,DavisK,DesaAR,DietzeC,DragoiD,GaritySR,Gough CM,GrantR，HollngerDY,MargolisH,MCaugheyH,Migliavacca M,MonsonRK,MungerJW,PoulterB,RaczkaBM,RiiutoD,SooAK,ScaeerK,TanHQ,VargasR,VerbeeckH,XioJF,XueYK.Terestrialbiospereelsdbeterrepresetaioofvegetationpenology：resultsfroteNorthAmericanCarbonPrgasiesthsisGobalChangeBolog0118(2):566-584.廖亮林，周蕾，王绍强，汪小钦.2005-2013年中国新增造林植被生物量碳库固碳潜力分析.地理学报，2016，71（11)：1939-1947.TangJW,KerC,MuraokaH,PiaoSL,ShenMG,ThackeraySJ,YangX.Emergingopportunitiesandchalengesinphenologyreview.Ecosphere，2016，7(8）：e01436.YangX,MustardJF,TangJWXuH.egioal-scalephenologyodelingbsedoneteorologicalrecodsandremotesensingseatios.Journal of Geophysical Research，2012，117(G3）：G03029.  
+[8] 阮兰君，杨燕琼.遥感在森林生物量监测的应用.林业与环境科学，2016，32(2)：94-98.  
+[9]ZhangXfalloaeliataoteot(2):382-391.  
+[10] Hmimina G,DufreneE,PontallerJY,DelpierrN，Aubinet M,Caquet B,GrandcourtAD,BurbanB,FlechardC，GranierA,Gross $\mathrm { P }$ ，
+
+HeineschB,LongdozB,oureauCOurcivalJMambalS,AndréLS,SoudaniK.EvaluationofthepotentialofODSsatelieatatopredictegetatioeoogidrentios：Anvestigisinggoud-deasuentseotesingofvio1132(6) : 145-158.[11]MelasEK,FriedlMA,ZhuZ.Detecting interannualvariationindeciduous broadleafforestphenologyusingLandsatT/ET $^ +$ data. RemoteSensing of Environment，2013，132：176-185.［12］安佑志.基于遥感的中国北部植被 NDVI和物候变化研究[D]．上海：华东师范大学,2014：1-2.[13］于信芳，庄大方.基于 MODIS NDVI数据的东北森林物候期监测.资源科学，2006，28(4)：111-117.[14]BalzaroloM,VicaS,Nguy-RobertsonAL,BonalD,ElbersJA,FuYH,GrunwaldT，HoremansJA,PapaleD,PefuelasJ，uykerAVeroustraeteF.MatchingthephenologyofNetEcosystemExchangeandvegeationindicesestimatedwithMODISandFLUXNETin-sobservations.Remote Sensing of Environment,2016，174：290-300.[15］马新萍，白红英，贺映娜，秦进.基于NDVI的秦岭山地植被遥感物候及其与气温的响应关系——以陕西境内为例.地理科学，2015，35(12):1616-1621.[6]Zaco-jauskJskistieadstateoohllreeetfrotidouble-peak red-edge effects. Remote Sensing of Environment，2003，84(2）:283-294.[17]Joiner J,Yoshida Y，Vasilkov AP，Yoshida Y,Corp L A，Middleton E M.First observations of and terrestrial chlorophyllfluorescence from space. Biogeosciences，2011，8（3）: 637-651.[18]LiuXJ,iuLRetrieaofoohlforesceGOSdatabdogstsarefig.JaleSensing，2013,17(6)：1518-1532.[19]Walther S，Voigt M，Thum T,Gonsamo A，Zhang YG，Kohler P,Jung M, lanter L.Satelltechlorophyll fluorescencemeasurements reveal large - scale decoupling of photosynthesis and greenness dynamics in l l evergreen forests. Global Change Biology，2016,22(9): 2979-2996.[20］侯学会，牛铮，高帅.近十年中国东北森林植被物候遥感监测.光谱学与光谱分析，2014(2)：515-519.[21]ChinaFLUX. http://www.chinaflux.org/.[22]Kohler P,Guanter L,Joiner J.A linear method for the retrieval of sun-inc chlorophyll fluores cence from GOME-2 and SCIAMACHY data.Atmospheric Measurement Techniques,2015,8（6): 2589-2608.[23]MunoR，AdersonC，CallesJ,isinger,CopaiiEngR,efebveA,ishitzJ，naAP.GO-2oMetOof the 2006 Atmospheric Science Conference. Frascati，Italy:Europe e Agency，2006.[24]FrankenbergC,sherB,WordenJ,dgleyG,atchiSS,LeeJE,TonGCButzA,JungM,KuzeA,YkotaT.Neglobaleatiof theteeibefr:ateofaoceisraypucivitcalsahs1(17): 351-365.[25]Joiner，YoshdaY，VsilkovAP,haeferK,JgM,GanterL,ZhngY,Garit,MidletonE,HuemchKF,GuL,hsiniLB.Thseasoalelilleaepdexchange.Remote Sensing of Environment，2014,152: 375-391.[26]Jung M,ReichsteinM,MargolisHA，CescatiA，RichardsonAD,ArainMA,rethA,BerhoferC，BonalD,ChenJQ，GianellD,Gobron N,KielyG，KutschWassoG,LwBE,LindrothA,MerboldL,MntaganiL,MoorsEJ,apaleD,Soooola,VaaiF,WiliamsC.Goalpatesfndmosefuesofarbdoide,latentatndsbeatdiedfredyoarliand meteorological observations. Journal of Geophysical Research,2011,116(G3）：245-255.[27] 徐博轩，陈报章，许光,等.基于叶面积指数估算植被总初级生产力.生态学报，2016，36(12)：3546-3555.[28] 赵晓松，关德新，吴家兵，金昌杰，韩士杰.长白山阔叶红松林通量观测的footprint 及源区分布.北京林业大学学报，2005，27（3)：17-23.[29] 庄金鑫．涡动相关通量观测计算及其不确定性分析[D].北京：中国科学院寒区旱区环境与工程研究所，2013：3-10.[30] Liu YF,YuGR,Wen XF,WangYH,Song X,LiJ,Sun X M,YangFT,Chen YR,Liu QJ. Seasonal dynamics of $\mathrm { C O } _ { 2 }$ fluxes fromsubtropical plantation coniferous ecosystem.Science in China Series D:Earth Sciences，2006,49(S2)：99-109.[31] 黄昆，王绍强，王辉民,等.中亚热带人工针叶林生态系统碳通量拆分差异分析.生态学报，2013，33（17)：5252-5265.[32] ClevelandRB,veand：oardcopositoprduesedls.JoalofOalStatits，（-.[33] ShenMG,TangYH,DesaiAR,GoughC，henJ.CanEVderivedland-surfacephenologybeusedasasurrgateforphenologofcaopyphotosynthesis? International Journal of Remote Sensing，2014，35(3）：1162-1174.[34] 李文梅，谭志豪,李文娟，杨强.MODIS NDVI与 MODIS EVI的比较分析.遥感信息,2010,（6)：73-78.[35］崔凯.基于遥感技术的作物物候监测方法及动态变化分析研究[D].长沙：中南大学，2012：33-35.
+
+[36]ChengZtiatigteecbypatedSlardudcoolluoreseosetralataJualoeSensing，2010,14(2)：356-371.  
+[37]SchreberU，ereeroollec-striedcatofoadetfiviooiEcological Studies，1994，100(1）：49-70.  
+[38] GonsamoA,Chen JM,PriceDT,Kurz WA，Wu CY.Land surface phenology from optical satelite measurement and $\mathrm { C O } _ { 2 }$ eddy covariancetechnique.Journal of Geophysical Research，2015,117(G3）：1472-1472.  
+[39] YangX,Tangusaddflogedolcalrsificalcaldpropertiesthroughout thegrowingsasonoftemperatedeciduous forest.JouralofGeophysicalRsearch,O14,119（3），18-91  
+[40]WilsonKldoiDasoSatialdasoliltfotoecraeesdeaopdeciduous forest.Tree Physiology，2000,20(9），565-578.  
+[41] BauerleWL,OrenR,WayDA,QianSS,StoyPC,ThorntonPE,BowdenJD,HoffanFM,ReynoldsRF.Photoperodicregulatioof heseasonalpateofpotostticapacitydtiplcatiosfoarbcinroceingofteNtioalAcadeofSsoftUiedStates of America,2012,109(22):8612-8617.  
+[42] Wikipedia.Summer solstice.(2017-05-18).https://en.wikipedia.org/wiki/Summer_solstice.  
+[43] 夏富才，潘春芳，赵秀海.温带落叶林的植物物候特征及其对气候变化的响应.生态环境学报，2012，21（5）：793-799.  
+[44] 李晓，冯伟，曾晓春.叶绿素荧光分析技术及应用进展.西北植物学报，2006，26(10)：2186-2196.  
+[45] GuanterL,FrkebegC,uaA,LeisPE,eDasJ,uzeA，SutHGgerRGetrindgloemntoflchlorophyllfluorescence from GOSAT space measurements.Remote Sensing of Environment，2012，121: 236-251.  
+[46] Lee JE,FrankenbergC,TolCVD,BerryJA,GuanterL，Boyce C K,FisherJB,MorowE，WordenJR,AsefiS,BadgleyG,Satchi S.ForestprouctiidateriaeflloeofaSSciences，2013,280(1761）：176-188.  
+[47]ParazooNC,BowanK,FrankenbergC,LeeJE,FisherJB，WordenJ，JonesDBA，BerryJ,Claz GJ，BakerIT,JungM,LiuJJ,Osterman G,O'DellC,SparksA,utzA，GuerletS,YoshidaY，ChenHL，GerbigC.Interpretingseasoalchangesinthecarbonbalanceofsouthern Amazonia using measurements of XCO $^ 2$ and chlorophyll fluorescence from GOSAT.Geophysical Research Lettrs，2013，40（11）:2829-2833.  
+[48] Yang X,TangJW,MustardJF,LeeJE，RosiniM,JoinerJ，MungerJW，KornfeldA，RichardsonAD.Solar-inducedchloropylfluresceceateaesiootsoaldoalalesieateoopalee,2015,42(8): 2977-2987.  
+[49] ChengZH,LutatilgsecpaadaredlluefoetalataofRemote Sensing，2010，14(2）：364-370.  
+[50]HadeyJL，O'KefeJ，MungerJWHollngerDY，chardsonADenologyffrest-atmospherecarbonxchangeforecuosdConferousforestsiouthenndornNewEngnd/etsA，d.engofEcossteProesNewYork，N:Sprge09:119-141. A

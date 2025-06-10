@@ -1,0 +1,117 @@
+单羧酸转运蛋白：在挥发性脂肪酸转运中的作用及影响基因表达的因素
+
+2 苏效双1² 赵国琦1\*（1.扬州大学动物科学与技术学院，扬州 225009；2.上海光明荷斯坦牧业有限公司，上海200443)
+
+摘要：饲粮在动物消化道内经微生物发酵产生大量的挥发性脂肪酸为动物体供能，单羧酸转运蛋白（MCT）在动物肠道对挥发性脂肪酸的吸收转运中起到重要作用，对MCT进行深入的研究对探明动物挥发性脂肪酸吸收转运的机理有重要意义。本文就挥发性脂肪酸的转运机制、MCT基因表达与组织分布、影响MCT基因表达的因素及作用机制进行综述。
+
+关键词：挥发性脂肪酸；单羧酸转运蛋白；转运机制；CD147
+
+中图分类号：S852.2
+
+11 动物摄入的碳水化合物在消化道内微生物的作用下生成大量的挥发性脂肪酸，它们在动  
+12 物体内具有为组织细胞供能，促进水、钠吸收，调节内分泌，促进上皮组织的发育增殖，维  
+13 持胃肠道内微生态平衡，抗炎症等作用[1l。在反刍动物中，挥发性脂肪酸及其产物还为奶牛  
+14 的泌乳提供了重要的原料， $5 0 \%$ 左右的乳脂由动脉血液中的乙酸与 $\beta \mathrm { . }$ -羟丁酸（BHBA）提供，  
+15 以从头合成的方式产生[2]。单羧酸转运蛋白（monocarboxylate transporter，MCT）是单羧酸  
+16 转运家族16（SLC16）的成员，是一种质子偶合转运蛋白，在细胞的新陈代谢中扮演着重  
+17 要的角色[3]。迄今为止，在哺乳动物中14种MCT相关序列已经通过序列同源性得到鉴定，  
+18 只有7种亚型的功能被确定，但确认具有挥发性脂肪酸转运功能的只有 MCT1、MCT2、  
+19 MCT4[4]。在动物的胃肠道中 MCT 对乳酸盐及其他单羧酸，如丁酸、乙酸和丙酸的转运都  
+20 具有重要作用，尤其是反刍动物瘤胃内挥发性脂肪酸的转运在很大程度上依赖MCT的参与  
+21 [5]。MCT1和MCT4还需要辅助蛋白CD147的协助作用才能发挥正常的生物学功能[]。CD147  
+22 是一种广泛分布在细胞表面的糖蛋白，只含有1个跨膜区。它具有帮助 MCT1和 MCT4 正  
+23 确定位到细胞膜表面的功能[7]。
+
+收稿日期：2016-03-09  
+作者简介：苏效双（1991—），男，山东潍坊人，硕士研究生,从事反刍动物营养研究。E-mail:  
+18765905923 @ 163.com  
+\*通信作者：赵国琦，教授，博士生导师，E-mail:gqzhao@yzu.edu.cn
+
+1挥发性脂肪酸转运机制
+
+Gabel等[8研究发现瘤胃挥发性脂肪酸的吸收过程分分2步完成：1）瘤胃腔内挥发性脂肪酸在腔面通过上皮细胞膜而摄入；2）挥发性脂肪酸在基底面通过上皮细胞膜而排出。挥发性脂肪酸经由不同的途径进入瘤胃上皮细胞，瘤胃挥发性脂肪酸的运输模式如下：在低pH条件下，挥发性脂肪酸与质子偶合经被动扩散穿过细胞膜。吸收率由角质层顶膜处的 pH决定。在高pH条件下离子共转运载体MCT1和MCT4以1:1方式共转运氢离子（ $\mathbf { \nabla } [ \mathbf { H } ^ { + } ]$ ）和单羧酸阴离子[9]。经被动扩散吸收的质子偶合挥发性脂肪酸（HVFA）很快被解离成离子形式挥发性脂肪酸（VFA-）和 $\mathrm { H ^ { + } }$ (图1)，胞内 $\mathrm { H ^ { + } }$ 的增多导致离子形式的短链挥发性脂肪酸如乙酸、丙酸在 MCT1 的介导下穿过基底膜排出到血液一侧，长链挥发性脂肪酸如丁酸在胞质中被转化为酮体和β-羟丁酸，通过MCT的过膜转运从基底膜侧排出到血液一侧[10]。
+
+![](images/4d20501150447b0a981b0a2cc35014488765dda19fc7f801a1c40a9a328acb2f.jpg)  
+图1瘤胃挥发性脂肪酸转运模型  
+Fig.1Model of ruminal volatile fatty acid (VFA) transport[8]
+
+2MCT1、MCT2、MCT4的表达与组织分布
+
+# 2.1 动物消化道内的分布
+
+Kirat 等[1I-12]研究发现，MCT1、MCT4基因及其蛋白在反刍动物消化道的分布存在差异，其基因表达水平排序为瘤胃≥网胃>瓣胃>盲肠>近端结肠>远端结肠>皱胃>小肠。在前胃中
+
+MCT1主要定位于瘤胃上皮的基底层和棘层细胞边界中，MCT4主要定位于角质层与颗粒层。在皱胃中MCT4主要定位于上皮细胞的基底膜侧。在小肠中MCT4 主要定位于刷状缘膜和上皮细胞的基底膜侧，大肠隐窝处的 MCT4 主要定位在上皮细胞的基底膜上，而在表皮细胞中 MCT4主要定位在顶端膜上。同时在反刍动物的胃肠道中也检测到 MCT1的辅助蛋白 CD147[11,13-15]。MCT1、MCT4 在未开始反刍的犊牛胃肠道中的表达水平相对成年牛低,并且在胃肠道内的表达水平与其中的挥发性脂肪酸浓度相吻合，这也进一步表明 MCT1 具有转运挥发性脂肪酸的功能[16]。Koho 等[17]研究发现MCT1、MCT4 在瘤胃不同部位的表达水平也存在明显差异，其中表达水平由高到低依次为瘤胃腹壁、瘤胃前庭、后背盲囊、瘤胃后壁。
+
+2.2 乳腺
+
+在奶牛乳腺中MCT1、MCT2主要定位于乳腺上皮细胞的基底膜处，MCT4定位于乳腺上皮细胞的顶端膜处，这表明在奶牛乳腺中脂肪酸内源合成所需乙酸与 $\beta$ -羟丁酸是由MCT1与 MCT2介导通过上皮细胞的基底侧膜进入乳腺上皮细胞的，在乳腺上皮细胞内从头合成的脂肪酸则由顶端膜处的MCT4介导转运到乳腺泡腔中[2]。
+
+# 2.3胰腺
+
+免疫组化反应显示在牛的胰腺中MCT1、MCT2、MCT4主要定位于胰腺的胰岛内，而在胰腺腺泡中没有发现。然而在单胃动物中MCT1主要定位于胰腺腺泡，在胰腺的胰岛与 $\beta$ 细胞内含量极低。反刍动物血液中胰岛素与胰高血糖素的浓度在动物进食后增加，研究表明，这种浓度的升高与血液中的挥发性脂肪酸的浓度相关联[18]。胰腺的外分泌腺分泌酶的过程受挥发性脂肪酸的调控，但是目前在胰腺腺泡中未发现MCT家族成员，也许存在另外一种转运蛋白来完成挥发性脂肪酸的转运。
+
+2.4肾上腺
+
+在牛的肾上腺皮质中MCT1、MCT2、MCT4主要定位在球状带处细胞的细胞膜上，而在束状带与网状带上含量甚微甚至没有。在牛的肾上腺髓质中 MCT1主要定位在内髓质细胞胞质中，MCT2在内髓质中含量较少，MCT4在髓质中的含量也很少。肾上腺皮质是合成多种类固醇激素的场所，胆固醇在肾上腺中不仅是细胞膜的构成部分而且还是合成类固醇激素的前体物质，而肾上腺中胆固醇的一个重要来源是乙酸的原位合成。作为挥发性脂肪酸的转运载体MCT在肾上腺皮质中出现不足为奇[19]。
+
+2.5 肝脏
+
+MCT1主要定位在肝细胞表面的窦状隙面，反刍动物代谢所需葡萄糖 $80 \%$ 来自肝脏的糖异生作用，而挥发性脂肪酸中的丙酸正是糖异生的主要前体物质，肝脏细胞通过其质膜上的MCT1转运蛋白将丙酸运输到肝脏细胞内参与糖异生过程，对还未进行反刍的反刍动物的研究发现其肝脏内几乎没有MCT1的存在，这一结果也进一步证实了MCT1对挥发性脂肪酸的转运功能[20]。3影响MCT表达的因素及作用机制MCT 的表达调控受许多因素所影响，其中包括饲粮、激素、生长发育、底物等。这些因素对MCT的表达调控具有上调或下调的作用。
+
+# 3.1饲粮
+
+Kuzinski 等[21I以羊为研究对象发现，自由采食干草组与干草/精料混合饲喂组相比，干草/精料混合饲喂的方式能上调山羊瘤胃上皮细胞内 MCT1基因与其蛋白的表达。证明高能量饲粮能够上调 MCT1的表达水平。在干草/精料混合饲喂的模式下，瘤胃发酵会更迅速的产生大量的挥发性脂肪酸，瘤胃为适应这一变化增加了MCT1的表达，加速了挥发性脂肪酸从瘤胃的转出，也有利于稳定 $\mathsf { p H }$ 保护瘤胃的结构与功能不受到破坏。Metzler 等[22]对断奶仔猪分别饲喂以低钙磷（钙、磷含量达到正常营养需求的 $6 5 \%$ ）、高钙磷饲粮（钙、磷含量分别达到正常营养需求的 $12 5 \%$ 、 $1 1 5 \%$ ），以及在高、低钙磷饲粮中分别添加 $8 . 9 5 \%$ 的燕麦β-葡聚糖，结果显示，添加燕麦 ${ \beta }$ -葡聚糖使仔猪盲肠段MCT1表达水平升高 $40 \%$ ，且MCT1表达水平与消化道中的丁酸和总挥发性脂肪酸浓度呈正相关（ $\scriptstyle { r = 0 . 9 9 }$ ， $P { < } 0 . 0 0 1$ ）。燕麦 $\beta$ -葡聚糖能够增加胃和结肠中总挥发性脂肪酸（尤其是丁酸、戊酸）的浓度。Metzler等[23]用含谷物不同比例（0、 $30 \%$ 、 $6 0 \%$ ）的饲粮饲喂山羊发现， $6 0 \%$ 谷物组的瘤胃上皮组织中MCT1 表达水平相较于0、 $30 \%$ 谷物组上调了 $45 \%$ ， $M C T 4$ 表达水平下降了 $2 8 \%$ ；同时$60 \%$ 谷物组结肠MCT1表达水平也相应升高，MCT4表达水平降低。高谷物组MCT4表达水平的降低也许是为了平衡通过被动运输和VFA-/碳酸氢根离子（ $\mathrm { H C O } _ { 3 } ^ { - }$ ）交换途径吸收的过多的挥发性脂肪酸。MCT1表达水平的升高降低了上皮细胞内的酸负担，加速了挥发性脂肪酸的转出，为机体提供能量来源。
+
+# 3.2激素
+
+体外培养人肠上皮Caco2 细胞发现，添加生长激素抑制素（SST）增加丁酸在人肠上皮Caco2 细胞的摄取经由 SST受体亚型2和p38蛋白激酶介导的通路来实现。此外，丁酸摄取增多是由于SST的刺激使得肠上皮Caco2细胞膜上MCT1和CD147的水平增加以及MCT1与 CD147在小肠上皮Caco2 细胞中协同作用的增强。SST对人体肠道电解质吸收的抗腹泻作用可能与增加肠道内MCT1表达水平进而增加肠道对挥发性脂肪酸的吸收相关[24]。
+
+# 3.3 生长发育
+
+Koho 等[7]研究表明，新生山羊瘤胃上皮中MCT1和CD147的表达水平随着年龄的增长（初生到8周龄）而逐渐增多，并且呈现出强烈的正相关性，然而在十二指肠中MCT1 的表达水平却随着年龄的增长（初生到8周龄）而降低。新生反刍动物的消化道的特点与单胃动物相似，初乳经过食管沟不经瘤胃直接进入皱胃，主要在十二指肠消化和吸收。因此在出生的前几天皱胃与十二指肠中挥发性脂肪酸浓度较高，但随着瘤胃中微生物的定植与开始采食固体食物瘤胃发酵产生挥发性脂肪酸促进了MCT的表达。这一结果有力的证实了MCT1在动物胃肠道内对挥发性脂肪酸和乳糖的转运作用。Pfannkuche 等[25]研究表明，犊牛在出生24h之内未发育成熟的瘤胃上皮细胞中MCT1蛋白主要定位在腔面，出生后4d瘤胃上皮细胞中 MCT1蛋白定位到靠近血液的一侧，并且伴随着MCT1蛋白含量的上升。前期大量的研究表明，丁酸对特牛瘤胃的生长发育具有重要的作用，犊牛出生后血液中乳酸浓度处于较高水平，靠近血液一侧 MCT1 的表达水平的提升有利于瘤胃上皮细胞对乳酸的吸收。随后乳酸在上皮细胞内代谢为丁酸，为瘤胃上皮的生长发育提供能量。生长发育所引起MCT1表达水平的变化机制复杂多样现在尚未完全研究清楚其机制，只能推测为受激素的分泌所调节。
+
+# 3.4底物
+
+Cuff 等[26]试验表明，在体外培养的小肠上皮细胞(AA/C1)中加入不同浓度 $( 0 { \sim } 5 \ \mathrm { m m o l / L } )$ ，的丁酸钠进行培养，MCT1基因与其蛋白的表达水平均随丁酸钠浓度的增加与培养时间（0、6、12、24、48、72h）的增长而升高。利用放射性标记方法发现[U- $^ { 1 4 } \mathrm { C l }$ -丁酸钠吸收的最大速度显著增加，然而米氏常数没有变化，说明丁酸钠吸收的增加并不是通过改变其与MCT1的亲和力，而是通过增加细胞膜上MCT1 的表达丰度来实现的。丁酸钠诱导的小肠上皮细胞 MCT1表达水平的提高使得细胞对丁酸钠的吸收增多，有助于维持肠上皮细胞的稳态，为肠上皮细胞提供能量。Malhi等[27]研究发现，羊灌注丁酸后瘤胃上皮细胞中MCT4表达水平提高了 $1 3 5 \%$ ，然而MCT1表达水平差异不显著。其影响机制尚不明确，有待进一步的研究发现。
+
+# 3.5 CD147
+
+CD147对MCT的调控是通过蛋白质互作形式实现的，MCT1、MCT4的抑制剂对氯汞苯甲酸发挥作用的原理是破坏CD147 免疫球蛋白的活性双硫键，从而瓦解 MCT1、MCT4与CD147之间的蛋白质互作[12]。Philp等[28]敲除小鼠视网膜细胞上CD147基因发现尽管MCT基因正常表达，但由于缺少CD147辅助蛋白的作用，MCT1、MCT3、MCT4未能正确的定位到细胞膜上发挥其作用。
+
+4小结
+
+MCT广泛存在于动物肠道及各个组织中内，是挥发性脂肪酸吸收转运的重要因子，具有广泛的底物特异性。大量研究表明可以通过对MCT的活性进行合理的调控，从而实现对挥发性脂肪酸的吸收转运调控，但 SST、饲粮蛋白质的种类和数量、不同动物生长发育过程、底物的浓度等因素对MCT表达的调控的机制尚不明确,都有待于深入研究。因此，深入开展MCT 的基因表达调控方面的研究对深入了解动物挥发性脂肪酸吸收转运的机理有重要意义。
+
+参考文献:
+
+[1]蒋小丰,方热军.丁酸在动物体内的作用[J].饲料工业,2008,29(20):51-54.   
+[2] KIRAT D,KATO S.Monocarboxylate transporter genes in the mammary gland of lactating cows[J].Histochemie and Cell Biology,2009,132(4):447-455.   
+[3] HALESTRAP A P,MEREDITH D.The SLC16 gene family-from monocarboxylate transporters (MCTs) to aromatic amino acid transporters and beyond[J].Pflugers Archiv: European Journal of Physiology,2004,447(5):619-628.   
+[4]MULLER F,HUBER K,PFANNKUCHE H,et al.Transport of ketone bodies and lactate in the sheep ruminal epithelium bymonocarboxylate transporter1[J].American Journal of Physiology:Gastrointestinal and Liver Physiology,2002,283(5):G1139-G1146. [5]MOSCHEN I,BROER A,GALIC S,et al.Significance of short chain fatt acid transport by membersofthemonocarboxylatetransporterfamily(MCT)[J].Neurochemical Research,2012,37(11):2562-2568.   
+[6] 曾军英,韩雪峰,谭支良.单羧酸转运蛋白家族及其生物学功能[J].生命的化 学,2008,28(4):404-407.   
+[7]KIRK P,WILSON M C,HEDDLE C,et al.CD147 is tightly associated with lactate transporters MCT1 and MCT4 and facilitates their cell surface expression[J].The EMBO Journal,2000,19(15):3896-3904.   
+[8]GABEL G,ASCHENBACH JR,MULLE F.Transfer of energy substrates across the ruminal epithelium:implications and limitations[J].Animal Health Research Reviews,2002,3(1):15-30. [9] ASCHENBACH J R,BILK S,TADESSE G,etal.Bicarbonate-dependentand bicarbonate-independent mechanisms contribute to nondifusive uptake of acetate in the ruminal epitheliumofsheep[J].AmericanJournalofPhysiology:GastrointestinalandLiver Physiol0gy,2009,296(5):G1098-G1107.   
+[10]LEONHARD-MAREK S,STUMPFF F,MARTENS H.Transport of cations and anions across forestomach epithelia:conclusions from in vitro studies[J].Animal,2010,4(7):1037-1056. [11] KIRAT D,KATO S.Monocarboxylate transporter 1 (MCT1） mediates transport of short-chain fatty acids in bovine caecum[J].Experimental Physiology,2006,91(5):835-844. [12]KIRAT D,MASUOKA J,HAYASHI H,et al.Monocarboxylate transporter 1 (MCT1) plays a direct role in short-chain fatty acidsabsorption in caprine rumen[J].The Journal of Physiology,2006,576(2):635-647.   
+[13] KIRAT D,MATSUDA Y,YAMASHIKI N,et al.Expression,celular localization,and functional role of monocarboxylate transporter 4 (MCT4) in the gastrointestinal tract of ruminants[J].Gene,2007,391(1/2):140-149.   
+[14] GRAHAM C,GATHERAR I,HASLAM I,et al.Expression and localizationof monocarboxylate transporters and sodium/protonexchangersinbovine rumen epithelium[J].American Journal of Physiology:Regulatory,Integrativeand Comparative
+
+Physiology,2007,292(2):R997-R1007. [15]KIRAT D,INOUE H,IWANO H,et al.Monocarboxylate transporter 1 gene expression in the ovine gastrointestinal tract[J].The Veterinary Journal,2006,171(3):462-467. [16]CASTELLS L,BACH A,ARIS A,et al.Effects of forage provision to young calves on rumen fermentationanddevelopmentofthegastrointestinaltract[J].JournalofDairy Science,2013,96(8):5226-5236. [17]KOHO N M,TAPONEN J,TIIHONEN H,et al.Effects of age and concentrate feeding on the expression of MCT 1 and CD147 in the gastrointestinal tract of goats and Hereford finishing beef bulls[J].Research in Veterinary Science,2011,90(2):301-305. [18]KIRAT D,KATO S.The monocarboxylate transporters exist in the catle endocrine pancreas[J].Histochemistry and Cell Biology,2015,143(2):185-194. [19]KIRAT D,SALLAM K,HAYASHI H,et al.Presence of ten isoforms of monocarboxylate transporter(MCT）familyinthebovineadrenalgland[J].MolecularandCellular Endocrinology,2009,298(1/2):89-100. [20]KIRAT D,INOUE H,IWANO H,et al.Monocarboxylate transporter 1 (MCT1) in the liver of pre-ruminant and adult bovines[J].The Veterinary Journal,2OO7,173(1):124-130. [21]KUZINSKI J,RONTGEN M.The mRNA and protein expression of ruminal MCT1 is increased by feeding a mixed hay/concentrate diet compared with hay ad libitum diet(short communication)[J].Archiv Fur Tierzucht,2011,54(3):280-286. [22] 6 [23]METZLER-ZEBELI B U,HOLLMANN M,SABITZER S,et al.Epithelial response to 7 high-grain diets involves alteration in nutrient transporters and $\mathrm { { N a ^ { + } / K ^ { + } } }$ -ATPase mRNA expression 8 in rumen and colon of goats[J].Journal of Animal Science,2013,91(9):4256-4266. 9 [24]SAKSENA S,THEEGALA S,BANSAL N,et al.Mechanisms underlying modulation of 0 monocarboxylate transporter1 (MCT1） by somatostatin in human intestinal epithelial 1 cells[J].American Journal of Physiology:Gastrointestinal and Liver 2 Physiology,2009,297(5):G878-G885.
+
+[25]PFANNKUCHE H,TAIFOUR F,STEINHOFF - WAGNER J,et al.Post-natal changes in MCT1 expression in the forestomach of calves[J].Journal of Animal Physiology and Animal Nutriti0n,2014,98(1):140-148.
+
+[26] CUFF M A,LAMBERT D W,SHIRAZI - BEECHEY S P.Substrate - induced regulation of the human colonic monocarboxylate transporter,MCT1[J].The Journal of Physiol0gy,2002,539(2):361-371.
+
+[27]MALHI M,GUI H B,YAO L,et al.Increased papillae growth and enhanced short-chain fatty acid absorption in the rumen of goats are associated with transient increases in cyclin D1 expression after ruminal butyrate infusion[J].Journal of Dairy Science,2013,96(12):7603-7616.
+
+[28]PHILP N,OCHRIETOR JD,RUDOY C,et al.Loss of MCT1,MCT3,and MCT4 expression in the retinal pigment epithelium and neural retina of the 5A11/basigin-null mouse[J].Investigative Opthalmology & Visual Science,2003,44(3):1305-1311.
+
+Monocarboxylate Transporters: Function in Volatile Fatty Acid Transport and Gene Expression Influencing Factors
+
+SU Xiaoshuang1,2 ZHAO Guoqil\*
+
+(1.College ofAnimal science and Technology,Yangzhou University, Yangzhou 225009,China；2.Shanghai Bright Holstein Co.,Ltd.， Shanghai 200443,China)
+
+Abstract:Diet generates plenty of volatile fatty acids by microbial digestion in intestinal tract to provides energy for animals.Monocarboxylate transporters (MCTs） play an important role in absorption and transport of volatile fatty acids in intestinal tract. The study on MCTs has great significance to find the mechanism. This paper reviewed the transport mechanisms of volatile fatty acids， MCT gene expressions and tissue distribution，and factors infuluncing MCT gene expressions and the mechanism.
+
+Key words: volatile fatty acid; monocarboxylate transporter; transport mechanism; CD147

@@ -1,0 +1,218 @@
+# Co-doped Ni hydroxide and oxide nanosheet networks: LaserAssisted Synthesis, Effective Doping, and Ultrahigh Pseudocapacitor Performance
+
+Dewei Liangab, Shouliang $\mathbf { W u ^ { a } }$ , Jun Liua, Zhenfei Tiana, Changhao Lianga.b,\* äKey Laboratory of Materials Physics and AnhuiKeyLaboratoryof Nanomaterialsand Nanotechnology, Institute of Solid State Physics, Chinese Academy of Sciences,Hefei 230031, China. bDepartment of Materials Science and Engineering, University of Science and Technology of China, Hefei 230026,China.
+
+\*Corresponding author. Tel: $+ 8 6$ 55165591129; Fax: Tel: $+ 8 6$ 55165591434;
+
+E-mail: chliang@issp.ac.cn (C. H. L)
+
+Keywords: doped Ni hydroxide nanosheet， mesoporous structure， laser ablation in liquids, pseudocapacitor performance, synergetic effect
+
+# Abstract
+
+Morphology control and impurity doping are two widely applied strategies to improve the electrochemical performance of nanomaterials. Herein，we report an environmentally friendly approach to obtain Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ nanosheet networks using a laser-induced cobalt colloid as a doping precursor followed by an aging treatment in a hybrid medium of nickel ions. The shape and specific surface area of the doped $\mathrm { N i ( O H ) } _ { 2 }$ can be successfully adjusted by changing the concentration of sodium thiosulfate. Furthermore,a Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ nanosheet network was further converted into Co-doped NiO with its pristine morphology retained via facile thermal decomposition in air. The structure and electrochemical performance of the as-prepared samples are investigated with scanning and transmisson electron microscopy， energy dispersive $\mathbf { X }$ -ray analysis, $\mathbf { X }$ ray diffraction, Fourier transform infrared spectroscopy， the nitrogen adsorption-desorption isotherm technique， and electrochemical measurements. The Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ electrode shows an ultrahigh specific capacitance of $1 4 2 1 ~ \mathrm { F / g }$ at a current density of $6 ~ \mathrm { A / g }$ ，and a good retention level of $76 \%$ after 1000 cycles,in sharp contrast with only a $47 \%$ retention level of the pure $\mathrm { N i ( O H ) } _ { 2 }$ electrode at the same current density. In addition, the Co-doped NiO electrode exhibits a capacitance of $7 2 0 \mathrm { F / g }$ at $6 \mathrm { A } / \mathrm { g }$ and （204号 $92 \%$ retention after 1OoO cycles,which is also superior to those values for relevant pure NiO electrodes. The ${ \mathrm { C o } } ^ { 2 + }$ partially substitutes for $\mathrm { N i } ^ { 2 + }$ in the metal hydroxide and oxide, resulting in an increase of free holes in the valence band,and, therefore, enhancement of the $p$ -type conductivity of $\mathrm { N i ( O H ) } _ { 2 }$ and NiO. Moreover, such novel mesoporous nanosheet network structures are also able to enlarge the electrode-electrolyte contact area and shorten the path length for ion transport. The synergetic effect of these two results is responsible for the observed ultrahigh pseudocapacitor performance.
+
+# 1. Introduction
+
+Faced with limited fossil fuel reserves and increasing environmental pollution issues,the demand for clean and renewable energy sources and effective energy storage devices has become increasingly urgent. As a typical energy storage device,supercapacitors have gained considerable attention because of their high power density, fast charge-discharge process, and long cycle lifetime.1-5
+
+Transition-metal oxides and hydroxides with high capacitance capability have been extensively studied for supercapacitor applications. Among transition-metal oxides and hydroxides, $\mathrm { N i ( O H ) } _ { 2 }$ and NiO are considered to be promising active electrode materials for supercapacitors in alkaline electrolytes owing to their layered structure, high theoretical specific capacitance [2358 and $2 5 8 4 ~ \mathrm { F / g }$ for $\mathrm { N i ( O H ) } _ { 2 }$ and NiO,respectively]，lower cost，and natural abundance.6-10 Unfortunately，bth materials exhibit $p$ -type,low electrical conductivity and poor rate capability, which limit their practical electrochemical performance.1.12 In order to overcome these intrinsic drawbacks, numerous effrts have been made to improve their electrical conductivity, capacity, rate capability，and reversibility during the charge-discharge processes. One potential approach is to dope them with other elements.13- 19 The similar size of Ni and $\mathrm { C o }$ ionradiimake it possible todopenickel hydroxide-oxide bycobalt without causing serious lattce strain. The ${ \mathrm { C o } } ^ { 2 + }$ partially substitutes for $\mathrm { N i } ^ { 2 + }$ in the metal hydroxideoxide,which may result in an increase of free holes in the valence band,and, therefore, enhancement of the $p$ -type conductivity.20-22 Another approach is to increase the specific surface area by construction of a mesoporous structure, which is believed to improve the interface contact efficiency between active sites and electrolytes,to serve as reservoirs for electrolyte ions to facilitate ion and electron transport, and to provide spaces for volume expansion during the cycling process.6
+
+Herein，we present a facile and green design to synthesize a Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ interconnected nanosheet network using a laser-induced cobalt colloid as a doping precursor, followed by an aging treatment in a nickel ion and sodium thiosulfate hybrid medium at room temperature (Scheme 1). In the experiment, laser ablation in liquid (LAL) is a powerful and green technique to generate new nanostructures and nanomaterials without using any stabilizers or surfactants [Scheme 1(a),23-26and sodium thiosulfate here plays an important role in the reactions as an evocating agent and facilitates the mediation of the shape and specific surface area of the products.27 To the best of our knowledge, this is the first report of a Co-doped $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ nanosheet network fabricated using the LAL technique for a supercapacitor application. By this method, the as-prepared products possess two merits (doping with Co and formation of a mesoporous structure) in one step.In addition,we also investigate the phase-transition process from Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ to Co-doped NiO with its pristine shape retained, which can be easily realized via thermal decomposition in air [Scheme 1(b)].
+
+The effects of specific surface area and Co doping on pseudocapacitor performance are systematically investigated. It was demonstrated that Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ with large specific surface area displays superior pseudocapacitor performance, shows a higher capacitance of $1 4 2 1 \ \mathrm { F / g }$ at $6 ~ \mathrm { A / g }$ and a good retention level of $76 \%$ after 100O cycles.Also,the Co-doped NiO electrode exhibits a capacitance of $7 2 0 ~ \mathrm { F / g }$ at $6 ~ \mathrm { A / g }$ and $92 \%$ retention after 1OOO cycles.Additionally, both metrics of pseudocapacitor performance are dramatically improved compared to those of undoped components. The synergetic effect of Co-doping and a mesoporous structure is responsible for the observed ultrahigh pseudocapacitor performance.
+
+![](images/afaa449a16c170a44d57f12f922c8565b7e4970829c1cc2e5855394e8c016825.jpg)  
+Scheme 1. (a) Illustration of the LAL technique and (b) photos of precursor and products.
+
+# 2.Experiment
+
+# 2.1. Chemicals
+
+All of the chemical reagents used in this study were of analytical grade and used as-received without further purification.Nickel nitrate and sodium thiosulfate were purchased from Aladdin Industrial Corporation (Shanghai, China). Deionized (DI) water was used for all experiments.
+
+# 2.2. Preparation of a Co-doped $N i ( O H ) _ { 2 }$ nanosheet network
+
+The nanostructure of a Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ nanosheet network was first synthesized using the LAL technique. In a typical procedure, a cobalt metal plate ( $9 9 . 9 9 \%$ purity） was fixed on a supporter in a vessel filled with $1 5 ~ \mathrm { m L }$ of mixed solution containing 0.1 M ${ \mathrm { N a } } _ { 2 } { \mathrm { S } } _ { 2 } { \mathrm { O } } _ { 3 }$ and $0 . 0 2 \mathrm { M } \mathrm { N i } ( \mathrm { N O } _ { 3 } ) _ { 2 }$ .Upon irradiation of the metal plate, the vessel was rotated $( 1 0 \mathrm { r p m } )$ by a motorized tunable stage. The metal plate was irradiated using an Nd:YAG pulsed laser at $1 0 6 4 ~ \mathrm { { n m } }$ wavelength with an energy density of $1 3 0 \mathrm { m J }$ per pulse and a pulse duration of 1O ns.After irradiation for $2 0 \mathrm { m i n }$ ,the suspension was stored in a container and aged at room temperature for $2 4 \mathrm { ~ h ~ }$ ，After sufficient growth, the obtained applegreen-colored precipitates were collected and dried in a vacuum at $5 0 ^ { \circ } \mathrm { C }$ overnight (this sample was denoted CN-0.1). For comparison, another sample was synthesized under similar conditions, except that 0.2 M ${ \mathrm { N a } } _ { 2 } { \mathrm { S } } _ { 2 } { \mathrm { O } } _ { 3 }$ was used (denoted CN-0.2).
+
+# 2.3.Preparation of a Co-doped NiO nanosheet network
+
+We selected sample CN-0.1 as the precursor for preparation of the Co-doped NiO nanosheet network because it just needed to be heated in air at $3 5 0 ^ { \circ } \mathrm { C }$ for $2 \mathrm { h }$
+
+# 2.4. Characterization
+
+The typical morphology and structure of the products were investigated by scanning electron microscopy (SEM, Sirion 200 FEG) and transmission electron microscopy (TEM, JEOL-2010,with
+
+$2 0 0  { \mathrm { \ k V } }$ accelerating voltage). X-ray diffraction (XRD) analysis of the collected powder products was performed by using a Philips X'Pert system with Cu Kα radiation $( \lambda { = } 1 . 5 4 1 9 \mathrm { ~ \AA }$ . The surface chemical constituents of the products were analyzed by $\mathbf { X }$ -ray photoelectron spectroscopy (XPS， Thermo ESCACLB 25O). Fourier transform infrared (FTIR） spectra were recorded on a Nicolet 8700 spectrometer by the KBr pellet technique. The surface area and porosity of the samples were measured using an Omnisorp 10oCX Analyzer (Beckman Coulter, Inc., USA).
+
+# 2.5.Electrochemical measurements
+
+Electrochemical measurements were performed on a Zahner electrochemical workstation (IM6) under a three-electrode system at room temperature.The reference and counter electrodes were a Ag/AgCl (saturated KCl） electrode and Pt foil, respectively，whereas the working electrode was prepared by the “drop-casting”method; that is,after polishing and washing the glass carbon electrode (GCE), ${ 5 \mu \mathrm { L } }$ $( 3 ~ \mathrm { m g / m L } )$ of the as-prepared product dispersion was pipeted onto the treated GCE. After drying the electrode in an ambient environment for $1 2 { \mathrm { ~ h ~ } }$ ， $1 0 ~ \mu \mathrm { L }$ of $5 \%$ Nafion? solution was added and the sample was dried for another $3 \mathrm { h }$
+
+Cyclic voltammetry (CV)，electrochemical impedance spectroscopy (EIS)，and galvanostatic charge-discharge measurements were conducted in 1 M KOH solution. The CV curves were measured within a 0.1-O.6 V (versus Ag/AgCl) potential window at various scan rates. The EIS measurements of all of the samples were conducted at open-circuit voltage in the frequency range $1 0 0 ~ \mathrm { k H z }$ to $0 . 0 3 ~ \mathrm { H z }$ with an alternating current (ac） amplitude of $5 \ \mathrm { m V }$ . Galvanostatic charge-discharge curves were carried out between 0.1 and O.55 V. Specific capacitance $( C _ { \mathrm { S P } } )$ was calculated according to below formula:
+
+$$
+C _ { \mathrm { s p } } = \mathrm { I } \Delta \mathrm { t } / \mathrm { m } \Delta \mathrm { v }
+$$
+
+where $C _ { \mathrm { S P } }$ (in $\operatorname { F } / \operatorname { g } )$ is the specific capacitance,I (in A） represents the discharge current, △v (in V)
+
+represents the total potential deviation, and m (in g) and $\Delta { \sf t }$ (in s) are designated the mass of active materials and total discharge time, respectively.
+
+# 3.Results and discussion
+
+Based on therelevant literature,2.29 wehave proposed a posible mechanism fortheentire formation process of Co-doped Ni hydroxide and oxide nanosheet network structures (Scheme 2); the precursor reactions for the growth of Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ via LAL processes may be expressed as follows:
+
+First,the interaction between the laser beam and cobalt target induces a series of complex physical and chemical processes,which evolve as follows:
+
+The induced ultrafine Co clusters are quasimetastable states possessng large specific surface area and high reactivity,30 which facilitates the doping of Co species into the $\mathrm { N i ( O H ) } _ { 2 }$ crystal lattice. Second, sodium thiosulfate, which plays an important role during the later part of the process,is introduced. On one hand, ${ \mathrm { S } _ { 2 } \mathrm { O } _ { 3 } } ^ { 2 - }$ ions are adsorbed onto the surface of the as-prepared Co clusters to prevent their growth,3l while on the other, ${ \bf S } _ { 2 } { \bf O } _ { 3 } ^ { 2 - }$ acts as an evocating agent (a soft base） and facilitates the formationof theinitial Co-doped Ni(OH) nanosheets:233
+
+Moreover, ${ \mathrm { N a } } _ { 2 } { \mathrm { S } } _ { 2 } { \mathrm { O } } _ { 3 }$ has poor thermal stability and tends to decompose into $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ under laserinduced high-temperature plasma heating. Importantly, the obtained ${ \mathrm { S O } _ { 4 } } ^ { 2 - }$ anion can embed into the interlayer of the $\mathsf { a { \mathrm { - } N i } ( O H ) } _ { 2 }$ ， thus expanding the layer spacing, promoting ion and electron transport,
+
+and providing more spaces for volume expansion during the cycling process:4,35
+
+$$
+2 \mathrm { N a _ { 2 } S _ { 2 } O _ { 3 } } + 3 \mathrm { O _ { 2 } } = 2 \mathrm { N a _ { 2 } S O _ { 4 } } + 2 \mathrm { S O _ { 2 } }
+$$
+
+Third, as the tiny Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ nanosheets continue to grow, the $\mathrm { S O } _ { 2 }$ bubbles act as soft templates and facilitate the self-assembly of the nanosheets into a network architecture. The formation of mesoporous structures in the nanosheet network is mainly due to the rapid elimination of the excess $\mathrm { S O } _ { 2 }$ bubbles. Finally, through a simple annealing treatment, we obtain the mesoporous Co-doped NiO nanosheet network.
+
+![](images/96e6a87cc5a377d9bb13f19411ae6b13138a7213d8694e386309c3d55c3479aa.jpg)  
+Scheme 2.Proposed formation processof Co-doped nickel hydroxide and oxide nanosheet network structures
+
+The phase and composition of Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ samples are then examined by $\mathbf { X }$ -ray diffraction (XRD) as presented in Fig. 1(a). The diffraction peaks of the two samples can be assigned to $\mathfrak { a } \mathrm { . }$ （20 $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ (JCPDS 38-0715), consistent with our previous work.29 No obvious peaks for cobalt oxides, hydroxides,or other impurities are detected,implying that cobalt is successfully doped into the crystal lattice of the $\mathsf { a { \mathrm { - } N i } ( O H ) } _ { 2 }$ . Worth noting is that the intensities of the peaks are very weak and broad, which implies the low crystallinity of the flowerlike nanosheets and the small crystalline size of the particles.The synergistic effect of Co doping and low crystallinity leads to the random orientation and stacking of the layers along the $c$ axis,and results in the absence of (Oo3）and (Oo6） planes. The introduction of sodium thiosulfate resulting in an amorphous structure can be found in previous reprts.27,3.3 In order tofurther confirmthisspecific phenomenon,the nickel metal target was also ablated only in 0.2 M ${ \mathrm { N a } } _ { 2 } { \mathrm { S } } _ { 2 } { \mathrm { O } } _ { 3 }$ solution using the LAL technique, stored in a container,and aged at room temperature for 1 week. The results showed that amorphous $\mathrm { N i ( O H ) } _ { 2 }$ with similar nanosheet-like morphology was successfully obtained (Fig. S1 and S2)，which was selected as our subsequent counterpart for comparing the pseudocapacitor performance.
+
+(a) L 康 (c) 531.3 O1s   
+(nre)Anisuaiu CN-0.1 (n'e) 168.0 S20 (n'e) CN-0.2 A reett A 162.5 INWTIN2 iiteene ★★ 155 160 165 170 S 2 S   
+JCPDS NO.38-0715 人 M\~ CN-0.1 CN-0.1   
+10 20 30 40 50 60 70 0 200 400 600 800 1000 524526 528 530 532 534 536 538540 2 theta (degree) Bind Energy (eV) Bind Energy (eV)   
+(ne) isuenu (d) 855.7 Sat. 873.6 Sat. Ni 2p n'e) riiseiiu (e) 781.3 796.8 Co 2p (n'e) Trrrnitteres 100011201385 1628 × 12431463 550 17.9 eV 1 CN-0.1 r 15.7 eV CN-0.1 656 3450 400 500 600 700 CN-0.1   
+850 Bind Energy (eV) 860 870 880 890 770 780 Bind Energy (eV) 790 800 810 820 500100015002000 250030003500400( Wavenumber (cm-1)
+
+X-ray photoelectron spectroscopy (XPS) is used to estimate the various chemical states of bonded elements.The survey XPS spectrum for sample CN-0.1 is shown in Fig.1(b),indicating the presence of Ni, Co, O,and S. According to the Handbook of $X \mathrm { \Omega }$ -ray Photoelectron Spectroscopy, the S peak [inset of Fig. 1(b)] can be associated with the $\mathrm { ~ \normalfont ~ S ~ } 2 p$ peak from the intercalated ${ \mathrm { S O } _ { 4 } } ^ { 2 - }$ group between the $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ layers or the absorbed ${ \mathrm { S } _ { 2 } \mathrm { O } _ { 3 } } ^ { 2 - }$ on the surface,and the binding energy of $5 3 1 . 3 \mathrm { e V }$ for the O 1s peak can be mainly derived from a hydroxyl group (O-H) with a binding energy of \~531 eV [Fig. 1(c). Figure 1(d) shows the high-resolution Ni $2 p _ { 3 / 2 }$ and Ni $2 p _ { 1 / 2 }$ peaks centered at 855.7 and 873.6 eV, respectively, with a spin-energy separation of $1 7 . 9 \mathrm { e V }$ ，which is in good agreement with reported data for $\mathrm { N i } ^ { 2 + }$ 36 In Fig.1(e), the Co $2 p$ XPS spectrumof thesample exhibits two peaks,at781.3 and796.8 eV,corresponding to the characteristic Co $2 p _ { 3 / 2 }$ and Co $2 { p } _ { 1 / 2 }$ peaks, with a spin-energy separation of 15.7 eV,demonstrating the presenceofCo+3738
+
+In order to further confirm the XRD and XPS results,FTIR is used to characterize sample CN-0.1, as shown in Fig. 1(f). The broad band at $3 4 5 0 ~ \mathrm { c m } ^ { - 1 }$ is assigned to the O-H stretching vibrations of the interlayer water molecules and hydrogen atoms bound to $\mathrm { O H } ^ { - }$ groups, and the peak around $1 6 2 8 ~ \mathrm { { c m } ^ { - 1 } }$ （204号 corresponds to the bending vibration of water molecules.3940 The bands at around 656 and $4 1 5 ~ \mathrm { { c m } ^ { - 1 } }$ （20 can be asigned to Ni-O stretching vibrations and an in-plane Ni-O-H bending vibration, respectively41.42 while thebandsat around 550and $4 5 7 ~ \mathrm { { c m } ^ { - 1 } }$ are caused by Co-OH bending and Co-O stretching vibrations.43 Three absorption bands located at 10O0,1385, and $1 4 6 3 ~ \mathrm { c m } ^ { - 1 }$ are attributed to the characteristic absorption peaks of carbonate ions.The strong absorption peak around 12O and （20 $1 2 4 3 ~ \mathrm { c m } ^ { - 1 }$ corresponds to the characteristic peaks of sulphate intercalated between the $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ interlayers ortheabsorbed SO32onthe surface5446
+
+We investigate the effect of the concentration of sodium thiosulfate on the morphology of the products. Figure 2(a) presents a SEM image of sample CN-0.1. Clearly, the as-prepared samples are composed of many well-defined aggregates with flowerlike morphology approximately $1 0 0 \mathrm { n m }$ in size, and they are mutually interconnected to form a network structure, which is beneficial to the electrical conductivity of the bulk. Figure 2(b) shows the interior structure of sample CN-O.1,and proves that the flowerlike aggregates consist of many interconnected nanosheets with a curly shape,endowing the materials with abundant nanocavities and channels. Such a structure with a high percentage of nanocavities, plentiful channels,and mesopores may facilitate the penetration of electrolyte, reduce the contact resistance,and enhance the mass and charge transfer at the interface of the electrode and electrolyte. The energy-dispersive X-ray spectroscopic (EDS） elemental maps shown in Fig. 2(c) clearly reveal that Co,Ni,and O are homogeneously distributed in the entire nanosheet network.
+
+![](images/8a93ec92795accf30b478e9ccdc0b3490607edeef1458489d21db1ed9911b136.jpg)
+
+Fig.2. (a) Field-emisson SEM(FESEM) image, (b) TEM image,and(c)corresponding EDS mapping of Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ aggregates synthesized in a 0.1 M ${ \bf N a } _ { 2 } { \bf S } _ { 2 } { \bf O } _ { 3 }$ and 0.02 M $\mathrm { N i } ( \mathsf { N O } _ { 3 } ) _ { 2 }$ mixed solution (CN-0.1); (d) FESEM image,(e) TEM image, and (f) corresponding EDS mapping of Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ synthesized in a $0 . 2 { \bf M }$ （204号 ${ \mathrm { N a } } _ { 2 } { \mathrm { S } } _ { 2 } { \mathrm { O } } _ { 3 }$ and 0.02 M $\mathrm { N i } ( \mathsf { N O } _ { 3 } ) _ { 2 }$ mixed solution (CN-0.2).
+
+Figure 2(d) shows a SEM image of sample CN-0.2. After doubling the concentration of sodium thiosulfate, we find that the flowerlike aggregates remain mutually interconnected to form a network structure,and the morphology of the aggregate becomes more uniform. Figure 2(e) shows the interior structures of aggregates that stillconsist of many interconnected nanosheets with curly morphology. Co, Ni,and O are homogeneously distributed in the entire nanosheet network as shown in Fig. 2(f).
+
+In order to obtain precise information on specific surface area, nitrogen adsorption-desorption isotherms are performed and are shown in Fig. 3.A small step of nitrogen adsorption and desorption branching occurs,indicating the existence of mesopores in both of the two samples.47 The BET surface area of sample CN-0.1 is calculated to be $2 7 0 . 7 ~ \mathrm { m } ^ { 2 } / \mathrm { g }$ [Fig. 3(a)]. After doubling the concentration of sodium thiosulfate,the BET surface area [Fig. 3(b)] decreases to $1 6 2 . 4 ~ \mathrm { m } ^ { 2 } / \mathrm { g }$ . The pore diameter distribution data are obtained from the Barret-Joyner-Halenda (BJH) model, and the result shows that both samples have a similar pore diameter distribution around $3 . 8 ~ \mathrm { n m }$ . The large surface area and abundant mesopores can facilitate exposure of active sites and mass transportation, which is expected to have a good effect on the improvement of the electrochemical properties as supercapacitor.
+
+300 300 3.9 nm a N 0.030 3.7 nm (b) ..   
+200 0.010 8 200 0.010   
+150 0.000+ 10 20 30 49 150 0.000+ 10 20 30 40 ■ Pore diameter (nm) Pore diameter (nm)   
+100 100-   
+50- 270.7 m²/g 50 162.4 m²/g 0 0.0 0.2 0.4 0.6 0.8 1.0 0 0.0 0.2 0.4 0.6 0.8 1.0 Relative pressure (P/P) Relative pressure (P/Po)
+
+The electrochemical performance of these two samples as electrode materials for supercapacitors is characterized by cyclic voltammetry and galvanostatic charge-discharge measurements in 1 M KOH. Figure 4(a) presents a comparison of the CV curves of samples CN-0.1 and CN-0.2 at a scan rate of 10 mV/s.Two strong redox peaks are observed for the two sample electrodes，indicating the pseudocapacitive performance of the supercapacitor. The anodic and cathodic peaks are attributed to the conversion between $\mathsf { a { \mathrm { - } N i } ( O H ) } _ { 2 }$ and $\gamma$ -NiOOH due to $\mathrm { O H } ^ { - }$ insertion and desertion.8.46 The reactions involved are illustrated as follows:
+
+$$
+\mathrm { \Gamma ( \bar { \ t i o H { 1 2 } + O H } ^ { - }  \gamma - N i O O H + H _ { 2 } O + e ^ { - } }
+$$
+
+Moreover, the integral area of CN-0.1 is higher than that of CN-0.2, indicating a higher specific capacitance. Figures 4(b) and 4(c) present the CV curves of CN-0.1 and CN-0.2 measured at scan rates from 5 to $5 0 ~ \mathrm { m V / s }$ . Clearly, the oxidation peak shifts in the positive direction and the reduction peak shifts in the negative direction with the increase of the scan rate,which is mainly due to the internal resistance of the electrode.48 To further qualify the specific capacitance of the products，a chronopotentiometry test is carried out at various current densities,and the typical discharge curves are depicted in Figs. 4(d) and 4(e). The nonlinear discharge curves demonstrate that typical Faradaic redox reactions occur at the electrode-electrolyte interfaces, reconfirming their typical pseudocapacitive characteristic.49 The specific capacitances calculated from the discharge curves are plotted in Fig. 4(f), which shows both gradually decreasing with increasing current density. Specifically，the CN-0.1 electrode exhibits high specific capacitances of 1421,1333,1233,and $1 1 5 6 \mathrm { F / g }$ at current densities of 6, 10, 15, and $2 0 \mathrm { A } / \mathrm { g }$ ,respectively, and ${ \sim } 8 2 \%$ of the specific capacitance is still maintained when the charge-discharge rate increases from 6 to $2 0 ~ \mathrm { A / g }$ . In contrast, the CN-O.2 electrode exhibits specific capacitances of 1093, 956, 900, and ${ 8 4 4 ~ \mathrm { F / g } }$ at the same current densities, and ${ \sim } 7 7 \%$ of the specific capacitance is maintained.
+
+100 200 150 CN-0.2 150(b) CN-0.1 C CN-0.2 4020 50- ep 0 0 -20- -50 5mV/s 5mV/s -40 国 -50- 20mV/s -60- -100- 0mVs 50mV/s -80+ -150+ -100+ 0.1 0.2 0.3 0.4 0.5 0.6 0.1 0.2 0.3 0.4 0.5 0.6 0.1 0.2 0.3 0.4 0.5 0.6 Potential/V vs.Ag/AgCl Potential /V vs.Ag/AgCl Potential/V vs.Ag/AgCl   
+以 CN-0.1 T CN-0.2 + 8N:82 SAN 1100   
+1 900 800- 700 600 0.1 0 20 40 60 80 100 120 0.1 20 40 60 80 100 5004 6 8 10 121416 182022 Time /s Time /s Current (A/g)
+
+0.1 and CN-0.2 at scan rates of 5,10, 20,30,40, and $5 0 ~ \mathrm { m V / s }$ ; (d) and (e) galvanostatic discharge curve of samples CN-0.1 and CN-0.2 at current densities of 6,10,15,and $2 0 \mathrm { A } / \mathrm { g }$ ; (f) specific capacitance of samples CN-0.1 and CN0.2 at current densities of 6,10,15,and $2 0 \mathrm { A / g }$
+
+In order to understand the different levels of retention in the same current-density variation range, EIS analysis is conducted in the frequency range $1 0 0 ~ \mathrm { k H z }$ to $0 . 0 3 ~ \mathrm { H z }$ with an alternating current (ac) amplitude of $5 ~ \mathrm { m V }$ .The obtained Nyquist plots are given in Fig. 5(a). The two EIS curves are both composed of a depressed semicircle in high-frequency regions and a straight line in low-frequency regions.28 Obviously,the CN-0.1 electrode exhibits a much smaller semicircle than that of the CN-0.2 electrode,indicating that CN-O.1 has a lower charge-transfer resistance and ion-diffusion resistance with fast reaction kinetics than that of CN-O.2, but both resistance values are much lower than that of pure $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ [Fig. S5(c)]. Thus it is proved that the ${ \mathrm { C o } } ^ { 2 + }$ partially substituting for $\mathrm { N i } ^ { 2 + }$ in the metal hydroxide enhances the conductivity of $\mathrm { N i ( O H ) } _ { 2 }$ ，and that specific surface area plays a critical role in its enhancement as well.
+
+Cycling performance of the two electrodes is evaluated by charge-discharge measurements at a constant current density of $6 ~ \mathrm { A / g }$ in the potential range 0.1-0.45 V for 100O cycles,as shown in Fig. 5(b). The CN-0.1 electrode shows a $76 \%$ capacitance retention, which is higher than that of the CN-0.2 electrode $( 6 8 \% )$ ，and both values are higher than that of pure $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ $[ 4 7 \%$ ； see supporting information in Fig. S5(d)]. According to the results,the CN-0.1 electrode has beter cycling stability than that of CN-O.2, which may be atributed to the higher specific surface area of sample CN-0.1.
+
+600 a CN-0.2 CN-0.2 500 1200- 76% retention 1000 300 E 68% retention 200- Z 100 2001 0.2 0.1 500 1000 1500 2000 0 200 400 600 800100012001400 0- 0 Time/sec Time/sec 0 100 200 300 400 500 0 100 200 300 400 500 600 700800 900 1000 Z real/Ohm Cycle number
+
+In order to evaluate the stability of cobalt-doping performance at high temperature, we select the sample CN-O.1 as a precursor and heat it in air at $3 5 0 ^ { \circ } \mathrm { C }$ for $2 \mathfrak { h }$ .Figure 6 displays the morphology and phase composition of the annealed product. From Figs. 6(a) and 6(b) we can see that the nanosheet network is well inherited from the corresponding precursor after thermal calcination treatment, indicating good structural stability. A high-resolution TEM image [Fig.6(c)] reveals that the curly nanosheets are composed of numerous ultrafine nanocrystalline particles with a periodic fringe spacing of $0 . 2 4 ~ \mathrm { n m }$ .Further, selected-area electron-diffraction (SAED) patterns [inset of Fig. 6(c)] and XRD spectra [Fig. 6(e)] confirm that the $\mathrm { N i ( O H ) } _ { 2 }$ is completely transformed into NiO (JCPDS 04-0835) by calcination. The three marked diffraction rings correspond to the (111), (200),and (22O) planes of NiO, respectively. The intensities of the peaks are very weak and broad, implying the small crystal size of the particles.No obvious peaks for cobalt oxides or other impurities are detected in the XRD pattern, and elemental mapping in Fig. 6(d) shows that Co,Ni,and O are uniformly distributed along the entire nanosheet network; these results together suggest that Co is successfully and homogeneously doped into the lattice of NiO.
+
+![](images/3cf5dcdc0ea75a33d35c44a3af2ecc2bb0d7cc039234a83d7b6dfba18f67fccc.jpg)  
+Fig. 6. (a)FESEM image; (b)-(d) TEM images,SAED patern [inset of panel (c),and corresponding EDS mapping: (e) XRD spectra of Co-doped NiO.
+
+The electrochemical performance of the Co-doped NiO nanosheet network as an electrode material for a supercapacitor is investigated by cyclic voltammetry，galvanostatic charge-discharge measurements,and EIS analysis in 1 M KOH (Fig. 7). Two strong redox peaks are observed in Fig. 7(a), indicating the pseudocapacitive performance of the supercapacitor,9 and the anodic and cathodic peaks are attributed to the conversion between NiO and NiOOH due to $\mathrm { O H } ^ { - }$ insertion and desertion:
+
+$$
+\mathrm { N i O } + \mathrm { O H } ^ { - }  \mathrm { N i O O H } + \mathrm { e } ^ { - }
+$$
+
+After 10OO continuous charge-discharge cycles，we found that the Co-doped NiO nanosheet network electrode delivers a high specific capacitance of $7 2 0 ~ \mathrm { F / g }$ at $6 ~ \mathrm { A / g }$ with $92 \%$ retention [Fig.
+
+7(d)], which is superior to that of other reported pure NiO electrodes (Table 1), suggesting its good rate capability and excellent cycling stability.
+
+![](images/9ad2c67e813a0f6b896b2383ddc9bca33d09a1efc585166b9488c4590ddf1aac.jpg)  
+Fig. 7. (a) CV curves of Co-doped NiO at scan rates of 5,10, 20, 30, 40, and $5 0 ~ \mathrm { m V / s }$ ； （b） galvanostatic dischargecurve of Co-doped NiO at current densities of 6,10, 15,and $2 0 \mathrm { A } / \mathrm { g }$ ; (c) Nyquist plots of Co-doped NiO; (d) cyclingperformance of Co-doped NiO at a discharge current density of $6 \mathrm { A } / \mathrm { g }$
+
+Overall, the ultrahigh capacitance, excellent rate capability, long cycle life, and low resistance of Co-doped Ni hydroxide and oxide originate from three main factors: (1) The ${ \mathrm { C o } } ^ { 2 + }$ partially substitutes for $\mathrm { N i } ^ { 2 + }$ in the metal hydroxide and oxide,resulting in an increase of free holes in the valence band, therefore enhancing the $p$ -type conductivity of $\mathrm { N i ( O H ) } _ { 2 }$ and NiO; (2) the nanosheet network structures with high specific surface area and numerous mesoporosities are able to enlarge the electrodeelectrolyte contact area and shorten the path length for ion transport, leading to fast kinetics; (3) it is reported that some metal oxides or hydroxides will have beter reactivity for pseudocapacitor performance when they have a low crystalline or amorphous structure,and this may be another reason for their excellent performance.41.43,50
+
+Table 1 Comparison of various relative results of nickel oxide supercapacitors.   
+
+<html><body><table><tr><td>Material</td><td>Specific capacitance (F/g)</td><td>Current density (A/g)</td><td>Electrolyte</td><td>Retention</td><td>Reference</td></tr><tr><td>NiO nanosheet hollow spheres</td><td>415</td><td>3</td><td>2 M KOH</td><td>91%</td><td>51</td></tr><tr><td>NiO hierarchical nanostructures</td><td>425</td><td>2</td><td>2 M KOH</td><td>85%</td><td>39</td></tr><tr><td>NiO nanoparticle tubes</td><td>417</td><td>5</td><td>2 M NaOH</td><td>62%</td><td>52</td></tr><tr><td>NiO film</td><td>250</td><td>2</td><td>2 M KOH</td><td>66%</td><td>53</td></tr><tr><td>NiO microspheres</td><td>455</td><td>0.5</td><td>5 M KOH</td><td>70%</td><td>54</td></tr><tr><td>NiO nanoflower</td><td>333</td><td>2</td><td>2 M KOH</td><td>90%</td><td>55</td></tr><tr><td>NiO nanoslices</td><td>65</td><td>2</td><td>2 M KOH</td><td>65%</td><td>55</td></tr><tr><td>NiO nanosheet network</td><td>720</td><td>6</td><td>1 M KOH</td><td>92%</td><td>This work</td></tr></table></body></html>
+
+# 4. Conclusions
+
+In summary，we report a facile and green process to synthesize a Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ nanosheet network structure combining the LAL technique and aging treatment under room temperature. The morphology and specific surface area of the doped $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ can be successfully adjusted by changing the concentration of sodium thiosulfate,and it can be easily converted into Co-doped NiO via thermal decomposition in air without changing its pristine morphology. The resulting Co-doped $\mathrm { N i } ( \mathrm { O H } ) _ { 2 }$ electrode exhibits an ultrahigh specific capacitance of $1 4 2 1 \ \mathrm { F / g }$ at $6 ~ \mathrm { A / g }$ and a good retention level of $76 \%$ after 100O cycles in 1 M KOH aqueous solution,and the Co-doped NiO electrode exhibits a capacitance of $7 2 0 ~ \mathrm { F / g }$ and $92 \%$ retention under the same conditions. The performance of both pseudocapacitors is dramatically improved compared to that of undoped components. Electrochemical tests demonstrate that Co-doping and morphology control strategies can efectively improve pseudocapacitor performance of nickel hydroxide and oxide. The enhanced pseudocapacitor performance can be attributed to the synergetic effect contribution from improved electronic conductivity, low crystalline structure, higher specific surface area, and more mesoporosities, which will enlarge the electrode-electrolyte contact area and shorten the path length for ion transport. This work provides an innovative approach for fabricating Co-doped $\mathrm { N i ( O H ) } _ { 2 }$ nanomaterials； more significantly,it is instructive for construction of other mesoporous and doped metal oxides and hydroxides for broader applications,such as electrocatalytic water oxidation,active layers for hybrid solar cells,and electrode materials for lithium ion batteries.
+
+# Acknowledgments
+
+This work was supported by the National Basic Research Program of China (2014CB931704), the National Natural Science Foundation of China (NSFC, no.11174287, 51371166, 11204308).
+
+Electronic Supplementary Information (ESI) available: [Preparation and characterization of pure $\mathrm { N i ( O H ) } _ { 2 }$ nanosheets,additional EDX, TEM analysis of sample CN-0.1, CN-0.2, CV and EIS test of pure $\mathrm { N i ( O H ) } _ { 2 }$ nanosheet networks,Nyquist plots of sample CN-0.2 ]. See DOI: 10.1039/x0xx00000x
+
+# References
+
+[1] M. Li, Z. Tang, J. M. Xue, Adv. Funct. Mater., 2014, 24, 7495-7502.   
+[2] J. Zhi, W. Zhao, F. Q. Huang, Adv. Funct. Mater.,2014, 24, 2013-2019.   
+[3] J. Yang, C. Yu, X. M. Fan, C. T. Zhao,J. S. Qiu, Adv. Funct. Mater.,2015, 25,2109-2116.   
+[4] C. Yu, J. Yang, C. T. Zhao, X. M. Fan, J. S. Qiu, Nanoscale,2014, 6, 3097-3104.   
+[5] J. Yang, C. Yu, X. M. Fan, J. S. Qiu, Adv. Energy Mater., 2014, 4.   
+[6] Y. Q. Zhu, C. B. Cao, W. S. Chu, Y. D. Li, Scientific Reports, 2014, 4, 5787.   
+[7] R. T. Wang, J. W. Lang, X. B. Yan, NPG Asia Materials,2015,7, e183.   
+[8] H. M. Du, L. F. Jiao, H. T. Yuan, ACS Appl. Mater. Interfaces, 2013, 5, 6643-6648. [10] X.Q. Tian, C. M. Cheng, D. Xiao,J. Mater. Chem., 2012, 22,8029-8035.   
+[11] J. X. Li, M. Yang, Z. Zhou, Nanoscale, 2012, 4, 4498-4503.   
+[12] X. W. Li, S. L. Xiong, Y. T. Qian, J. Mater. Chem., 2012, 22,14276-14283.   
+[13] J. C. Huang, T. Lei, X. P. Wei, Journal of Power Sources,2013, 232, 370-375.   
+[14] R. Oesten, M. Kasper, R. A. Huggins, Ionics, 1996,2,293-301.   
+[15] C. C. Miao, Y. J. Zhu, T. Q. Zhao, Journal of Power Sources, 2015, 274,186-193.   
+[16] G. Lee, C. V. Varanasi, J. Liu, Nanoscale, 2015, 7, 3181-3188.   
+[17] X. Chen, C. L. Long, Z. J. Fan, Electrochimica Acta, 2014, 137, 352-358.   
+[18] G. Anandha babu, G. Ravi, Y. Hayakawa, J. Phys. Chem. C,2014,118, 23335-23348.   
+[19] J. Y. Ma,L. W. Yin, T. R. Ge, CrystEngComm, 2015,17, 9336-9347.   
+[20] J. H. Zhang, G. F. Cai, C. D. Gu, J. P. Tu, J. Mater. Chem. C, 2014, 2, 7013-7021.   
+[21] Y.J. Mai, J. P. Tu, X. H. Xia, C. D. Gu,Journal of Power Sources,2011, 196,6388-6393.   
+[22] T. V. Thi, A. K. Rai, J. Kim, Journal of Power Sources, 2015, 292, 23-30.   
+[23] H. M. Zhang, C. H. Liang, J. Phys. Chem. C,2010,114, 12524-12528.   
+[24] X. Y. Liu, Y. Q. Gao, G. W. Yang, Nanoscale, 2016, 8, 4227-4235.   
+[25] Z. F. Tian, C. H. Liang,L. D. Zhang, J. Mater. Chem.,2011, 21, 18242-18247.   
+[26] D. W. Liang, Z. F. Tian, C. H. Liang, Electrochimica Acta, 2015,182, 376-382.   
+[27] J. W. Nai, Y. Tian,L. Guo, J. Am. Chem. Soc., 2013,135,16082-16091.   
+[28] C. Long, M. T. Zheng, Y. L. Liu, ACS Appl. Mater. Interfaces, 2015,7, 24419-24429.   
+[29] Z.F. Tian, Y. X. Ye, C. H. Liang, CrystEngComm,2015,17, 3015-3022.   
+[30] H. M. Zhang, Z. F. Tian, C. H. Liang, Phys. Chem. Chem. Phys.,2013,15,5684-5690.   
+[31] Y. J. Zhang, Y. M. Leng, Dalton Trans., 2013, 42, 5485-5490.   
+[32] J. W. Nai, H. J. Yin, Z. Y. Tang,L. Guo, Adv. Energy Mater.,2015,5, 1401880.   
+[33] J. W. Nai, S. Q. Wang, L. Guo, Small, 2013,18, 3147-3152. [34] J. W. Lee, J. M. Ko, J. D. Kim, J. Phys. Chem. C,2011, 115,19445-19454.   
+[35] D. H. Sun, J. L. Zhang, D. X. Sun, J. Phys. Chem. C, 2010,114,12110-12116.   
+[36] S. D. Min, C. J. Zhao, Z. M. Zhang, Z. P. Guo, J. Mater. Chem. A, 2015,3, 3641-3650.   
+[37] Z. W. Zhang,L. W. Yin, J. Mater. Chem., A 2015,3, 17659-17668.   
+[38] H. Chen,L. F. Hu, M. Chen, Adv. Funct. Mater., 2014, 24, 934-942.   
+[39] J. Min, M. Lei, W. J. Wang, N. Su, ACS Appl. Mater. Interfaces, 2016,8, 780-791.   
+[40] X. H. Liu, R. Z. Ma, Y. Bando, T. Sasaki, Adv. Funct. Mater., 2014, 24, 4292-4302.   
+[41] H. B. Li, M. H. Yu, F. X. Wang, G. W. Yang, Nature Communications, 2013, 4, 1894.   
+[42] J.L. Bantignies, S. Deabate, F. Henn, J. Phys. Chem. C, 2008,112, 2193-2201.   
+[43] H. B. Li, H. M. Yu, P. Lu, ACS Appl. Mater. Interfaces,2014, 6, 745-749.   
+[44] G. X. Zhu, Y. J. Liu, X. P. Shen, CrystEngComm,2013,15, 9189-9195.   
+[45] L. Wang, Z.H. Dong, Z. G. Wang, J. Jin,Adv. Funct. Mater.,2013, 23, 2758-2764.   
+[46] J. W. Lee, J. M. Ko, J. D. Kim, J. Phys. Chem. C, 2011,115,19445-19454.   
+[47] D. P. Dubal, G. S. Gund, R. Holze, ACS Appl. Mater. Interfaces, 2013,5, 2446-2454.   
+[48] L. J. Li, J. Xu, J. L. Lei, Z. D. Wei, J. Mater. Chem. A,2015,3,1953-1960.   
+[49] C. Z. Yuan, J. Y. Li, S.L. Xiong, J. Mater. Chem. A, 2013,1, 11145-11151.   
+[50] Y. Fu, J. M. Song, Y.Q. Zhu, C.B. Cao, Journal of Power Sources,2014, 262, 344-348.   
+[51] S. J. Ding, T. Zhu,J. S. Chen, X. W. Lou, J. Mater. Chem.,2011,21, 6602-6606.   
+[52] Q. Li, C. L. Liang, X. F. Lu, G. R. Li, J. Mater. Chem. A,2015, 3, 6432-6439.   
+[53] M. L. Huang, C. D. Gu, X. Ge, J. P. Tu, Journal of Power Sources,2014, 259, 98-105.   
+[54] D.D. Han, P. C. Xu, X. Y. Jing, M. L. Zhang, Journal of Power Sources,2013, 235, 45-5 [55] S. I. Kim, J. S.Lee, H. K. Song, J. H. Jang, ACS Appl. Mater. Interfaces, 2013,5,1596-1(

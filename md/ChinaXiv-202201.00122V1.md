@@ -1,0 +1,268 @@
+# 青少年早期亲社会行为倾向、内化问题和外化问题发展级联的个体内分析\*
+
+段文婷」孙启武」王　铭²吴才智」陈真珍1( 青少年网络心理与行为教育部重点实验室，华中师范大学心理学院，湖北省人的发展与心理健康重点实验室，武汉 430079)( 武汉理工大学心理健康教育中心，武汉 430070)
+
+摘要认识亲社会行为倾向、内化问题和外化问题的发展级联对青少年心理健康促进具有重要价值。采用个体内分析方法分析了894名初中生三年的追踪数据，并与传统的交叉滞后面板模型进行比较。结果发现：(1)在个体内水平，亲社会行为倾向与内化问题和外化问题具有中等或较弱的协同变化关系，T1亲社会行为倾向可负向预测T2内化问题，T2亲社会行为倾向可负向预测T3外化问题，具有较弱的预测作用；(2)在女生群体中，T2内化问题可正向预测T3外化问题，而在男生群体中，内化问题和外化问题没有相互预测作用；(3)亲社会行为倾向的四个因子(公开的、依从的、情绪的和利他的)可负向预测内化问题，它们仅在T2可负向预测外化问题，具有较弱的预测作用；(4)个体内分析方法得到的研究结果与传统交叉滞后分析方法不同，不同的个体内分析模型得到的研究结果也不同。结论：青少年早期亲社会行为倾向的发展可降低内化问题和外化问题，这种作用具有性别差异；个体内分析方法在青少年心理病理发展研究中具有重要应用价值。
+
+关键词亲社会行为倾向，内化问题和外化问题，随机截距交叉滞后面板模型，广义交叉滞后面板模型，发展级联
+
+# 1引言
+
+亲社会行为(如帮助、安慰、合作、分享、捐献等)是青少年社会性发展的重要组成部分。亲社会行为反映了个体人格结构中与外部世界有关的积极倾向和健康特质，既包括亲社会行为习惯，也包括亲社会行为倾向(寇或，张庆鹏,2006)。在当前社会变迁背景下，我国儿童青少年的心理健康问题十分突出(高欣 等,2013)；但是，从预防角度寻找青少年心理健康促进的有效途径，无论在理论上还是在方法上都存在巨大的挑战(Kazdin,1993)。从概念上讲，亲社会行为的增加会减少外化问题(例如，攻击性)；同时，由于参与亲社会行为需要较好的情绪调节能力以及对积极情绪有促进作用(例如，助人为乐)，亲社会行为也会减少内化问题(例如，抑郁)。因此，培养青少年的亲社会行为倾向就有望成为青少年心理健康促进的有效路径。
+
+发展级联(developmentalcascades)模型描述了上述过程，即一个域(水平或系统)的功能会影响另外一个域(水平或系统)的功能。例如，认知发展和社会性发展是不同的域，行为发展与生理发展是不同的水平，亲子关系与同伴关系是不同的系统等，这些域(水平或系统)之间具有复杂的交互作用。随着时间的推移，在不同域、不同水平或不同系统中发生的多重多交互作用会产生累积效应，从而导致跨水平、同一水平的不同域之间以及跨系统的扩散效应(Masten & Cicchetti, 2010)。
+
+研究者通常采用追踪研究设计来检验发展级联模型。然而，过去的研究往往将结论建立在交叉滞后面板模型(Cross-Lagged Panel Model,CLPM)上(Kenny,1975)。由于混淆了个体内效用(组内效用)和个体间效用(组间效用)，CLPM 不能充分回答级联模型所描述的相互影响关系。同时，过去的研究模型往往假设发展级联的连续性，而对其非连续性(discontinuousgrowth)关注不足(Cohen etal.,2018)。例如，外化问题可正向预测后续的内化问题，但是它们的发展级联也可能具有非连续性一一在某一发展阶段，外化问题可负向预测后续的内化问题。以个体自身为控制的个体内分析方法，其结果反映了变量在个体内的变化及其时序关系，更符合发展级联模型的理论假设；并且某些个体内分析模型并不需要心理病理发展级联连续性的假设，从而能给出更准确的估计(Zyphur et al.,2020)。
+
+鉴于深入认识青少年亲社会行为倾向、内化问题与外化问题的发展级联在青少年心理健康促进工作中的潜在价值，有必要在我国青少年群体中对三者之间的相互作用进行个体内分析。本文试图在我国青少年群体中检验亲社会行为倾向、内化问题和外化问题的发展级联，并说明个体内分析与传统的CLPM分析对研究结论的影响。
+
+# 1.1内化问题与外化问题的相互关系
+
+内化问题通常指与过度自我调节相关的内部(如认知、情感)困难，包括抑郁、(低)自尊、自我伤害/自杀意念等内化症状；外化问题通常指与自我调节能力缺乏所致的负面行为，例如攻击性、异常同伴交往、多动症、危险性行为等(Graber& Sontag,2009;Memmott-Elison etal.,2020)。最初的外化问题会导致后续的内化问题。这是因为外化问题往往与挫折忍受、自我调节能力不足以及冲动性有关，这些外化问题会导致亲子关系和同伴关系的问题，从而让儿童青少年感到更焦虑，更没有自我价值感(Burke etal.,2005),更容易抑郁(Reitz etal.,2005)。最初的内化问题也会导致后续的外化问题。这是因为儿童青少年可能通过表现外化问题来“掩盖”内在的抑郁(Carlson＆ Cantwell,1980)。从研究证据上讲，多数研究表明外化问题会导致内化问题，而内化问题不会导致外化问题(Memmott-Elisonet al.,2020)，但也有少量研究则表明二者之间是相互影响的关系(Lee& Stone,2012;Weeks etal.,2016)。
+
+在时序关系上，除了二者之间相互影响，内化问题与外化问题还存在协同发展(codevelopment)的相关关系，这是因为内化问题和外化问题具有共同的影响因素，包括遗传因素以及遗传因素和环境的交互作用(Chen et al.,2015)、不利的社会处境(Flouri& Sarmadi,2016)、儿童青少年的特质(Xie etal.,2016)、风险性因素(例如，过分严厉的教养方式)和保护性因素(例如，适合儿童青少年发展的教养方式)(Pinquart,2017)等等。
+
+# 1.2亲社会行为与内化问题和外化问题的关系
+
+概括而言，有三种不同的理论视角解释亲社会行为与内化问题和外化问题的关系。一是参与亲社会行为的儿童青少年通常有较好的自我调节能力，从而不太可能因过度自我调节而出现内化问题，也不太可能因自我调节不足而出现外化问题(Graber& Sontag,2009;Memmott-Elison etal.,2020)。二是从社会信息加工的角度，研究者认为参与亲社会行为的儿童青少年往往具有向善的归因偏向与社会能力；并且，参与亲社会行为会引发他人的积极回应，从而能巩固儿童青少年积极的内部工作模型。具有积极内部工作模型的儿童青少年能更充分、更准确地加工社会情绪信息（包括负性情绪信息)，从而降低内化问题或外化问题(Cassidy& Shaver,2016;Flouri& Sarmadi,2016)。三是从亲社会行为动机过程的角度，不同类型的亲社会行为以及亲社会行为的对象使得亲社会行为可能具有不同的动机过程(Davidov etal.,2016;Paulus,2018)。例如，过度“关心别人的需要”反而意味着过度的自我调节，从而带来内化问题;对陌生人的亲社会行为和对父母的亲社会行为其动机过程不同等。
+
+有不少证据表明亲社会行为是外化问题和内化问题的保护性因素。最近一项元分析纳入了 55 个研究和742个相关效用量，结果表明亲社会行为和外化问题具有中等程度的负相关关系 $( r = - 0 . 2 0 )$ ；亲社会行为与内化问题也有负相关关系，但效应量较小 $\left( r = - 0 . 0 8 \right)$ (Memmott-Elison et al.,2020)。追踪研究也累积了较多亲社会行为能降低外化问题的证据(Mesurado etal., 2019)。
+
+有少量研究表明儿童青少年的内化问题和外化问题也可能影响儿童青少年亲社会行为的发展。例如，表现较多外化问题的儿童青少年，因其自我调节能力不足，从而表现出较少的亲社会行为(Padilla-Walker et al.,2017)。自身经历内化问题的儿童青少年更容易共情同样经历内化问题的儿童青少年，从而对同伴表现出亲社会行为，却对父母表现出较少的亲社会行为(Padilla-Walker etal.,2015)。但是总的来说，文献对亲社会行为、内化问题和外化问题相互影响的研究十分不足。
+
+# 1.3亲社会行为与内化问题和外化问题关系的调节因素
+
+亲社会行为是一个复杂的过程，该过程具有多种成分，并且不同成分与外化问题与内化问题的关联机制不同(Carlo&Randall,2002; Paulus,2018)。在亲社会行为过程中可能存在着许多重要的调节因素，包括年龄、性别、家庭经济收入、种族、父母受教育程度、家庭结构等(Memmott-Elison et al.,2020)。Memmott-Elison 等人(2020)的元分析发现，除了年龄、性别外，其他变量对亲社会行为和外化问题、内化问题的关系都没有调节作用。在年龄方面，亲社会行为与内化问题之间的相关关系在青少年早期最强，其次是青少年中后期；而在成年初期样本中，亲社会行为和内化问题没有显著关联。在性别方面，研究一致发现女孩比男孩更倾向于报告高水平的亲社会行为和内化问题(Zimmer-Gembeck et al.,2005)，男孩比女孩倾向于表现出更多的外化行为(Leadbeater etal.,1999)。另外，也有一些研究发现，高"关心"倾向与女孩的内化问题(例如，抑郁、焦虑)有关，但与男孩无关(Flynn etal.,2015;Nantel-Vivier etal., 2014)。
+
+# 1.4心理病理发展级联的连续性与非连续性
+
+尽管以上文献增进了我们对青少年早期亲社会行为倾向、内化问题和外化问题发展级联的认识，但这些研究的一个主要不足是假设发展级联具有连续性，并且很少关注青少年早期亲社会行为倾向、内化问题和外化问题发展级联的连续性和非连续性这一现象。此处的连续性与传统意义上的"连续性"和"阶段性"不同，后者指某种发展从量变到质变的发展过程。与其他心理病理的发展类似(例如，人格的病理性发展)，在发展过程中所形成的某种"病理性组织结构"(Cicchetti& Toth,1998)只会在特定条件下表现出可观察的病理性症状。例如，通常外化问题可以连续正向预测外化问题或内化问题(即连续性)，但因为在发展过程中儿童青少年内外条件的变化，外化问题可能无法连续预测内化问题，甚至预测方向截然相反(即非连续性)。
+
+已有一些证据表明连续性发展的假设不能充分描述青少年的心理病理性发展。例如，在青少年病理性人格的发展上，与自我身份认同、亲密感等有关的发展更多体现出了一种非连续性，而与人格特质(如内外向、反应敏感性等)有关的发展则更多体现出了一种连续性(Sharp.2020)。最近有一项关于7到15岁儿童青少年抑郁和焦虑情绪的9年追踪研究，结果表明儿童期的抑郁和焦虑情绪能预测青少年期的抑郁和焦虑情绪，同时具有连续性和非连续性特点(Cohen etal.,2018)。再比如，儿童和青少年会为获得某种社会目标同时表现出助人性和攻击性(即亲社会性和攻击性的正相关关系)，但到青少年中后期，助人性和攻击性的兼容性会降低(即亲社会性和攻击性的负相关关系)，因此表现出了一种非连续的特点(Hawley,2003;
+
+Kokko etal.,2006)。以此推论，社会行为倾向、内化问题和外化问题的发展级联有可能既有连续性也有非连续性的特点。
+
+# 1.5研究假设
+
+综上所述，本研究试图在青少年早期群体中探讨亲社会行为倾向、外化问题和内化问题的发展级联，研究假设具体如下：(1)在个体内水平，外化问题能显著预测内化问题；(2)在个体内水平，亲社会行为倾向能显著预测外化问题和内化问题；(3)内化问题和外化问题具有较强的共变关系;(4)亲社会行为倾向、外化问题和内化问题的发展级联具有性别差异。此外，由于传统的CLPM 混淆了组内效用和组间效用，本研究拟将随机截距交叉滞后面板模型(Random-Intercept Cross-Lagged Panel Model, RI-CLPM; Hamaker et al.,2015)和广义交叉滞后面板模型(General Cross-Lagged Panel Model, GCLM; Zyphur et al.,2020)这两种个体内分析方法(其中，GCLM不假设发展级联的连续性)的结果与CLPM进行比较，以期说明采用不同模型进行数据分析如何影响研究结论。
+
+# 2研究方法
+
+# 2.1研究对象
+
+采用整群抽样法选取湖北省天门市和荆州市两所普通中学的初中学生作为研究对象，从初一入学一个月后开始对其进行连续三年追踪调查(2014\~2016年)。按照亲社会行为预测内化问题和外化问题的标准化回归系数 $\beta = 0 . 1 5$ ，3个协变量，统计效能为 $9 5 \%$ 计算，本研究所需最小样本量为750。2014年10月(T1)进行了第一次调查，共有974人参加。之后每隔一年进行一次追踪调查(分别记为T2和 T3)。在调查问卷中，设置了两道题目以检验学生是否认真作答。一是“我今年20岁了”，选项为“是”和“否"；另外一题是要求学生同时圈选“1”和“5”两个选项。如果被试的回答为“是”或没有同时圈选，则被判为无效问卷。剔除无效问卷后，以及由于学生请假、转学等原因，共计894名被试提供了完整数据，其中无缺失值。本研究问卷无效率为 $9 . 2 \%$ ，实际纳入分析样本量为894，符合计划样本量的要求。
+
+894 名被试的年龄在11到15岁之间 $( 1 2 . 7 \pm 0 . 6 0 ) \$ ，其中男生有517人 $( 5 7 . 8 \% )$ 。父母教育程度方面， $9 4 . 6 \%$ 的父亲完成了九年义务教育，且高中及中专以上的占 $56 . 9 \%$ ； $91 . 5 \%$ 的母亲完成了九年义务教育，高中及中专以上占 $5 2 . 2 \%$ 。家庭月收入方面， $3 3 . 9 \%$ 的父亲月收入在3000元以下， $4 7 . 3 \%$ 在 $3 0 0 0 { \sim } 7 0 0 0$ 元之间， $12 . 2 \%$ 在7000元以上，39人未报告父亲月收入或不知道； $4 8 . 8 \%$ 的母亲月收入在3000元以下， $3 6 . 4 \%$ 介于 $3 0 0 0 { \sim } 7 0 0 0$ 元之间， $7 . 2 \%$ 在7000元以上，44人未报告母亲月收入或不知道。家庭生活水平方面， $0 . 7 \%$ 的学生认为自己的家庭生活水平在当地较低，中等偏下的占总数的 $7 . 6 \%$ ，中等的有 $57 . 2 \%$ ，中等偏上的有 $2 9 . 9 \%$ ， $2 . 7 \%$ 的为高水平。住房方面， $6 . 2 \%$ 的学生家的房子是租的， $9 0 . 7 \%$ 的是买的或自建， $0 . 8 \%$ 借住在他人家中， $2 . 3 \%$ 住在父母单位提供的房中； $84 . 3 \%$ 的学生有自己的房间。
+
+# 2.2研究工具
+
+亲社会行为倾向测量(PTM) 亲社会行为倾向测量(Prosocial Tendencies Measure)最初由Carlo 和Randall (2002)编制，经寇或等(2007)修订为中文版，共 26个条目，包括六个因子：公开的、匿名的、利他的、依从的、情绪的和紧急的亲社会行为倾向。被试在1\~5 分( $1 =$ 一点也不像我, $2 =$ 有点像我, $3 =$ 某种程度上很像我, $4 =$ 很像我, $5 =$ 几乎和我一样)的赖克特量表上根据自己的实际情况进行评分。在本研究样本的三次调查中，六个因子的内部一致性信度在 $0 . 7 0 \sim 0 . 8 7$ 之间。本研究使用PTM的因子分进行分析。
+
+抑郁-焦虑-压力量表(DASS-21)采用抑郁-焦虑-压力量表(Depression-Anxiety-StressScale)中文版以反映青少年的内化问题。该量表包括压力、焦虑和抑郁三个因子，共21个条目，在中国青少年群体中具有良好的测量学属性(Wang etal.,2016)。被试根据自己过去一周的实际情况在0\~4分( $1 =$ 从不如此, $2 =$ 有时如此, $3 =$ 经常如此, $4 =$ 总是如此)的赖克特量表上进行评分。在本研究样本的三次调查中，三个因子的内部一致性信度在 $0 . 7 5 \sim 0 . 8 7$ 之间。本研究使用DASS-21的因子分进行分析。
+
+Buss-Warren 攻击性问卷(BWAQ)采用Buss-Warren 攻击性问卷(Buss-WarrenAggression Questionnaire)的中文修订版(Maxwell,2008)反映青少年的外化问题。该问卷包括身体攻击、言语攻击、愤怒、敌意、间接攻击5个因子，共34个条目。被试根据自己的实际情况在1\~5分( $1 =$ 一点也不像我, $2 =$ 有点像我, $3 =$ 某种程度上很像我, $4 =$ 很像我, $5 =$ 几乎和我一样)的赖克特量表上进行评分。在本研究样本的三次调查中，5个因子的内部一致性信度在0.62\~0.82之间。本研究使用BWAQ的因子分进行分析。
+
+# 2.3研究程序
+
+研究小组在征得学校和学生本人的知情同意后，以班级为单位进行三次团体施测。三次施测的内容和程序基本一致。研究小组仅在第一次施测时采集了人口统计学变量。在施测时，每个班级配备1\~2 名主试，主试均为经过统一培训的心理学专业研究生。主试负责向学生说明导语，包括知情同意、调查目的以及注意事项等；主试还需回答学生疑问及处理施测过程中可能出现的问题，并对施测过程进行质量监控。施测过程中，除本研究的三个问卷外还连同发放了其它调查工具，被试完成全部问卷约需40 分钟。每次施测完成后，都给予被试约1元钱的小礼物表示感谢。
+
+# 2.4数据分析方法
+
+# 2.4.1模型选择与比较
+
+本研究分别采用了CLPM、RI-CLPM和GCLM分析数据。图1为模型的示意图。为使模型简洁和说明方便，图1中仅仅呈现了两个变量之间的关系。三个变量之间的发展级联模型与图1类似。在CLPM中(图 1a)， $\beta _ { x t } ^ { ( x ) }$ 和 $\beta _ { y t } ^ { ( y ) }$ 表示自回归效用， $\beta _ { x t } ^ { ( y ) }$ 表示 $\mathbf { x }$ 对 $\mathbf { y }$ 的交叉滞后效用，而 $\beta _ { y t } ^ { ( x ) }$ 表示 $\mathsf { y }$ 对 $\mathbf { x }$ 交叉滞后效用， $\mu$ 为残差，而 $\psi$ 为残差间的相关，表示 $\mathbf { x }$ 和y之间的共变效用。在RI-CLPM中(图 1b),增加了 $\eta ^ { ( x ) }$ 和 $\eta ^ { ( y ) }$ ，表示在三次测量中个体间的差异。可以将 $\eta ^ { ( x ) }$ 和 $| \eta ^ { ( y ) }$ 理解为个体三次测量的平均值，这样 ${ \mu } _ { t } ^ { ( x ) }$ 和 ${ \mu } _ { t } ^ { ( y ) }$ 就表示减去平均值之后个体在不同时点测量值的波动值。同样， $\boldsymbol { \Psi } _ { t } ^ { ( x y ) }$ 是波动值残差间的相关，表示 $\mathbf { x }$ 和y之间的共变效用。GCLM(图1c)与RI-CLPM的不同之处在于，个体每一次测量的波动值只能预测观测值，而不能预测波动值。例如，在图 1c 中， $\mu _ { t - 2 } ^ { ( x ) }$ 可预测 $x _ { t - 2 }$ ，这是变量 $\mathbf { x }$ 在t-2 时点波动值影响自回归效用；而 $\mu _ { t - 2 } ^ { ( x ) }$ 预测 $x _ { t - 2 }$ 并通过 $x _ { t - 2 }$ 而预测 $x _ { t - 1 }$ 和 $y _ { t }$ ，这是 $\mathbf { x }$ 在 t-2 时点的波动值通过影响 $x _ { t - 1 }$ 而间接影响 $y _ { t }$ 的交叉滞后效用。如果 $\mu _ { t - 2 } ^ { ( x ) }$ 直接预测 $y _ { t - 1 }$ ，则表示 $\mathbf { x }$ 在t-2时点波动值直接影响 $y _ { t - 1 }$ 的交叉滞后效用。需要说明的是，在图1c中，若模型包含 $\mu$ 到 $\mathbf { x }$ 和y的所有路径，这是一个参数过多模型(over-parameterized model)，本身无法拟合。
+
+在 RI-CLPM和GCLM模型中，某些参数虽然使用的符号相同，但其意义(例如， $\eta ^ { ( x ) }$ 和$\eta ^ { ( y ) }$ )并不相同(Usami,2020)。因此，有必要说明RI-CLPM和GCLM模型的一些关键不同之处。GCLM是 Allson 模型的一种复杂形式(Allison etal.,2017)，而 Allison 等(2017)的模型来自所谓固定效用模型(fixed-effect model)。这里的固定效用(常见于经济学领域)与心理学研究中常见的多层线性模型中的固定效用所指不同(McNeish&Kelley,2019)。对时间序列数据而言，固定效用模型一个最简单的形式可以写作：
+
+$$
+Y _ { i , t } = \mu + \beta X _ { i , t - 1 } + \alpha _ { i } + \varepsilon _ { i , t }
+$$
+
+其中， $\mu$ 为截距， $\beta$ 为回归系数， $\alpha _ { i }$ 为个体间的稳定差异， $\boldsymbol { \varepsilon } _ { i , t }$ 为测量误差，该误差与方程右边的项无关。这个方程的 $\alpha _ { i }$ 项即可视为包含了所有个体间的稳定差异。通过这样的方法，即可以个体自身为控制，在个体内水平探讨变量间的关系。可以看到， $\alpha _ { i }$ 对 $\mathrm { \Delta y }$ 有影响。另外，该模型假设误差项与公式右边其它项无关，但并没有假设 $\alpha _ { i }$ 项与公式的其它项无关(即考虑到所谓外生性问题的影响)。类型地，在GCLM中， $\eta$ 项可"影响"或"调整"模型中的自回归效用和交叉滞后效用。
+
+RI-CLPM将 $\cdot \eta ^ { ( x ) }$ 和 $\overset { \cdot } { \eta } ^ { ( y ) }$ 解释为时不变变量(time-invariantvariable)，有时也将其解释类特质变量(trait-like variable)，以将个体间的稳定差异分离。RI-CLPM的特点是， $\eta$ 项分离出去后，就与自回归效用和交叉滞后效用无关了，即假设 $\eta$ 项不影响自回归效用和交叉滞后效用。此外,RI-CLPM还假设追踪调查的系统是稳定的(例如，自回归效用中的自回归效用小于1)。RI-CLPM的优势是简洁明了，易于解释，也容易为持有特质观点的心理学研究者接受。但与GCLM相比，其限定条件更多。
+
+如果假设三个变量的追踪数据所研究的“系统"是稳定的，并且假设在个体内水平变量间的关系不受个体间水平时不变变量的影响，则可以用RI-CLPM进行处理。但对不同时点变量间相互预测关系的急剧变化(例如从正向预测变为负向预测)，RI-CLPM 则很难解释，因为它强调连续性发展以及系统的稳定性。GCLM没有这种限定，只不过自回归效用和交叉滞后效用为个体间水平变量(n项)矫正而已(即公式1中的 $\alpha _ { i }$ 项)，但自回归效用和交叉滞后效用仍然为个体内水平效应。就本研究所关心的问题而言，虽然RI-CLPM和GCLM $\eta$ 项的意义不同，但这并不影响我们的研究问题。我们主要关心在个体内水平变量之间的关系。因为在个体内水平变量之间的关系以个体自身作为控制，更有可能表示一种因果关系。其次，考虑到青少年早期心理病理发展的连续性和非连续性，采用RI-CLPM分析数据更加强调连续性的一面，而采用GCLM分析数据则可兼顾亲社会行为、内化问题和外化问题发展级联的连续性和非连续性。
+
+(a)交叉滞后面板模型(CLPM)
+
+![](images/058d4182b3daf0d8bf6cecb3c4ccfc49c38d47241cc3924dbfc2f5562aa23ef1.jpg)  
+(b)随机截距交叉滞后面板模型(RI-CLPM)   
+图1交叉滞后面板模型、随机截距交叉滞后面板模型和广义交叉滞后面板模型示意图
+
+表1亲社会行为倾向、内化问题和和外化问题的纵向测量等值性检验  
+
+<html><body><table><tr><td>变量</td><td>Model</td><td>x</td><td>df</td><td>CFI</td><td>SRMR</td><td>RMSEA</td><td>模型比较</td><td>△x²</td><td>Adf</td><td>P</td><td>△CFI</td><td>△RMSEA</td></tr><tr><td>亲社会行为倾向</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M1:形态等值</td><td>478.02</td><td>114</td><td>0.964</td><td>0.032</td><td>0.060</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>490.82</td><td>124</td><td>0.963</td><td>0.036</td><td>0.058</td><td>M2-M1</td><td>12.80</td><td>10</td><td>>0.05</td><td>-0.001</td><td>-0.002</td></tr><tr><td></td><td>M3:强等值性</td><td>562.06</td><td>134</td><td>0.957</td><td>0.035</td><td>0.060</td><td>M3-M2</td><td>71.24</td><td>10</td><td><0.05</td><td>-0.006</td><td>0.002</td></tr><tr><td></td><td>M4:严格等值</td><td>618.75</td><td>146</td><td>0.953</td><td>0.045</td><td>0.060</td><td>M4-M3</td><td>56.69</td><td>12</td><td><0.05</td><td>-0.004</td><td>0.000</td></tr><tr><td>内化问题</td><td>M1:形态等值</td><td>29.72</td><td>15</td><td>0.998</td><td>0.014</td><td>0.028</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>34.60</td><td>19</td><td>0.998</td><td>0.016</td><td>0.026</td><td>M2-M1</td><td>4.88</td><td>4</td><td>>0.05</td><td>0.000</td><td>-0.002</td></tr><tr><td></td><td>M3:强等值性</td><td>65.90</td><td>23</td><td>0.994</td><td>0.019</td><td>0.039</td><td>M3-M2</td><td>31.3</td><td>4</td><td><0.05</td><td>-0.004</td><td>0.013</td></tr><tr><td></td><td>M3.1:强等值性a</td><td>36.59</td><td>21</td><td>0.998</td><td>0.017</td><td>0.024</td><td>M3.1-M2</td><td>1.99</td><td>2</td><td>>0.05</td><td>0.000</td><td>-0.002</td></tr><tr><td>外化问题</td><td>M1:形态等值</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>M2:弱等值性</td><td>224.09 240.39</td><td>72 80</td><td>0.985 0.984</td><td>0.022 0.027</td><td>0.041 0.040</td><td>M2-M1</td><td>16.3</td><td>8</td><td><0.05</td><td>-0.001</td><td>-0.001</td></tr><tr><td></td><td>M3:强等值性</td><td>313.15</td><td>88</td><td>0.978</td><td>0.032</td><td>0.045</td><td>M3-M2</td><td>72.76</td><td>8</td><td><0.05</td><td>-0.006</td><td>0.005</td></tr><tr><td></td><td>M4:严格等值</td><td>348.34</td><td>98</td><td>0.975</td><td>0.031</td><td>0.045</td><td>M4-M3</td><td>35.19</td><td>10</td><td><0.05</td><td>-0.003</td><td>0.000</td></tr></table></body></html>
+
+说明：aT1和T2 等值，与T3不等值。
+
+# 2.4.2共同方法偏差检验
+
+采用 Harman 单因子检验分别对 3次测量共同方法偏差进行统计检验(周浩，龙立荣,2004)，结果显示T1\~T3特征根大于1的因子分别是14、20、14个，第一个因子解释的变异量分别为 $1 9 . 1 6 \%$ 、 $20 . 6 6 \%$ 、 $2 1 . 9 1 \%$ ，均小于 $40 \%$ 的临界标准。据此，可以认为本研究不存在明显的共同方法偏差。
+
+# 2.4.3测量等值性检验
+
+为使模型简洁，本研究使用打包的方法(Little etal.,2002)，使用量表的因子分作为某一时点的指标，检验了亲社会行为倾向、内化问题和外化问题在三个时点的测量等值性。在评估测量等值性时,本研究采用了Chen(2007)的建议,如果CFI和RMSEA指标变化小于0.01,则视为通过测量等值性检验。如果CFI和RMSEA变化值得出的结论不一致，则根据RMSEA变化值判断。测量等值性检验结果见表1。表1同时呈现了卡方检验的结果。这个结果仅作为参考，而不是以其为依据判断测量等值性，因为有研究者批评卡方值检验对样本量大小过于敏感，不是可靠的判断指标(Asparouhov et al.,2006)。结果表明，亲社会行为倾向和外化问题都具有严格等值性，而内化问题没有通过强等值性检验。进一步的分析表明，对内化问题而言，T1与T2等值，但与T3不等值。该结果表明T1和T2的内化问题得分不能与 T3的内化问题得分进行个体间比较(因为对不同个体而言尺度不同，比较也就没有意义)，但是这并不影响个体内分析。
+
+以上模型均采用Mplus 8.1(Muthen&Muthen,2017)进行分析。选择以下拟合指数(以及表示良好/可接受拟合的指标)来评估模型拟合度：比较拟合指数(CFI; ${ \geqslant } 0 . 9 0$ 表示可接受拟合； ${ \geqslant } 0 . 9 5$ 表示良好拟合)、均方根近似误差(RMSEA; ${ \leqslant } 0 . 0 6$ 表示良好拟合; ${ \leqslant } 0 . 1 0$ 表示可接受拟合)和标准化拟合均方根残差(SRMR; ${ \leqslant } 0 . 0 8$ 表示拟合良好) (Hu& Bentler,1999)。其它统计采用 Stata 15 (StataCorp,2017)进行分析。
+
+# 3结果
+
+# 3.1描述性统计和预分析
+
+亲社会行为倾向、内化问题和外化问题的描述性统计和相关统计见表2。以父母受教育程度和收入水平为变量，采用 Little 随机缺失值检验法(Little，,1988)检验样本在社会经济地位上是否为完全随机缺失。结果表明 $( \chi ^ { 2 } = 5 0 . 5 4 , p = 0 . 5 4 , d f = 5 2 , N = 9 5 0 )$ ，无效样本为完全随机缺失。内化问题的组内相关系数(ICC,intraclass correlation)为0.48（ $S E = 0 . 0 2$ ， $9 5 \% C \mathrm { { I } = }$ 0.43\~0.51)，这表示内化问题 $4 8 \%$ 的方差是组间差异， $52 \%$ 的方差是组内差异。外化问题的组内相关系数为0.49（ $S E = 0 . 0 2$ $9 5 \% \mathrm { C I } = 0 . 4 5 \mathrm { { \sim } } 0 . 5 2 \$ ，这表示症状 $4 9 \%$ 的方差是组间差异，$51 \%$ 的方差是组内差异。亲社会行为倾向的组内相关系数为0.37（ $S E = 0 . 0 2$ ， $9 5 \% \mathrm { C I } =$ 0.34\~0.41)，这表示症状 $3 7 \%$ 的方差是组间差异， $6 3 \%$ 的方差是组内差异。
+
+表2亲社会行为倾向、内化问题和外化问题的均值、标准差和皮尔逊相关  
+
+<html><body><table><tr><td>变量</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>Mean</td><td>SD</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1．内化问题T1</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.77</td><td>0.56</td></tr><tr><td>2．内化问题T2</td><td>0.45 a</td><td>-</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.78</td><td>0.60</td></tr><tr><td>3.内化问题T3</td><td>0.38</td><td>0.59</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>0.76</td><td>0.61</td></tr><tr><td>4.外化问题T1</td><td>0.66</td><td>0.40</td><td>0.30</td><td>1</td><td></td><td></td><td></td><td></td><td>2.26</td><td>0.66</td></tr><tr><td>5．外化问题T2</td><td>0.33</td><td>0.68</td><td>0.41</td><td>0.47</td><td></td><td></td><td></td><td></td><td>2.36</td><td>0.69</td></tr><tr><td>6．外化问题T3</td><td>0.36</td><td>0.48</td><td>0.67</td><td>0.44</td><td>0.56</td><td></td><td></td><td></td><td>2.30</td><td>0.65</td></tr><tr><td>7．亲社会行为倾向T1</td><td>-0.11</td><td>-0.07</td><td>-0.05</td><td>-0.09</td><td>-0.02</td><td>-0.04</td><td>1</td><td></td><td>3.62</td><td>0.67</td></tr><tr><td>8．亲社会行为倾向 T2</td><td>-0.09</td><td>-0.15</td><td>-0.12</td><td>-0.11</td><td>-0.14</td><td>-0.11</td><td>0.41</td><td>1</td><td>3.68</td><td>0.68</td></tr><tr><td>9．亲社会行为倾向 T3</td><td>-0.08</td><td>-0.10</td><td>-0.22</td><td>-0.06</td><td>-0.08</td><td>-0.11</td><td>0.29</td><td>0.43</td><td>3.65</td><td>0.68</td></tr></table></body></html>
+
+说明：a粗体表示在显著性0.05水平上相关显著。
+
+# 3.2亲社会行为倾向、内化问题和外化问题发展级联的个体内分析
+
+分别采用CLPM、RI-CLPM和GCLM分析数据，预测路径包括：内化问题和外化问题的相互预测，亲社会行为倾向预测内化问题和外化问题，以及内化问题和外化问题预测亲社会行为倾向。结果显示三个模型与数据的拟合度均在可接受范围，其中：CLPM拟合指数为$\chi ^ { 2 } = 6 8 . 1 6 , d f { = } 9$ $\mathrm { C F I } = 0 . 9 6 \$ ,RMSEA $= 0 . 0 8 7$ ,SRMR $= 0 . 0 3 7$ ,AIC $\ c =$ 12368.75, BIC $\ O =$ 12583.12;RI-CLPM拟合指数为 $\chi ^ { 2 } = 3 6 . 7 2 , d f = 9$ $\mathrm { C F I } = 0 . 9 9$ ,RMSEA $= 0 . 0 6 0$ ，SRMR $= 0 . 0 2 0$ ,AIC $\mathbf { \Sigma } = \mathbf { \Sigma }$ 12325.38, $\mathrm { B I C } = 1 2 5 3 9 . 7 6$ ；GCLM拟合指数为 $\chi ^ { 2 } = 1 0 . 6 9$ 0 $d f = 9$ $\mathrm { C F I } = 0 . 9 9$ ,RMSEA $= 0 . 0 1 5$ S $\mathrm { R M R } = 0 . 0 1 8$ ,AIC $\mathbf { \Sigma } =$ 12296.86, BIC= 12511.24。
+
+从表3结果可以看到，虽然三个模型数据拟合指标都达到可接受程度，但是却得到了非常不同的研究结果。从交叉滞后效用上看，CLPM的结果显示T1外化问题可以正向预测 T2内化问题 $( \mathrm { E X T 1 } \{ \to \Pi \mathrm { N T } 2 \}$ )，而T2内化问题可以正向预测T3内化问题 $( { \mathrm { I N T } } 2 {  } { \mathrm { E X T } } 3 )$ 。但是，将个体间差异从效用中分离后，RI-CLPM的结果显示仅T2内化问题可以正向预测T3外化问题(INT2 $$ EXT3)。
+
+三个模型结果的一致性在于共变相关效用。在个体内水平，三个时点所测量的内化问题和外化问题均具有较大的相关，说明在初一到初三阶段(12\~15 岁)内化问题和外化问题存在较强的协同变化现象。该结果支持研究假设3。就亲社会行为倾向与内化问题和外化问题的共变相关效应，CLPM和GCLM的结果较为一致，表明亲社会行为倾向与内化问题和外化问题二者之间具有小到中等程度相关(表 3)。
+
+表3CLPM、RI-CLPM和GCLM的主要参数
+
+<html><body><table><tr><td rowspan="2">效用</td><td colspan="2">CLPM</td><td></td><td colspan="2">RI-CLPM</td><td></td><td colspan="3">GCLM</td></tr><tr><td>阝</td><td>SE</td><td>p</td><td></td><td>SE P</td><td></td><td>β</td><td>SE</td><td>P</td></tr><tr><td>自回归效用</td><td></td><td></td><td></td><td colspan="2">个体内水平</td><td></td><td></td><td></td><td></td></tr><tr><td>PSO1→PSO2</td><td>0.41</td><td>0.03</td><td><0.001</td><td>0.21</td><td>0.07</td><td>0.002</td><td>0.11</td><td>0.03</td><td><0.001</td></tr><tr><td>PSO2→PSO3</td><td>0.42</td><td>0.04</td><td><0.001</td><td>0.23</td><td>0.07</td><td>0.002</td><td>0.07</td><td>0.03</td><td>0.008</td></tr><tr><td>EXT1→EXT2</td><td>0.45</td><td>0.04</td><td><0.001</td><td>0.13</td><td>0.08</td><td>0.09</td><td>0.12</td><td>0.05</td><td>0.007</td></tr><tr><td>EXT2→EXT3</td><td>0.44</td><td>0.04</td><td><0.001</td><td>0.14</td><td>0.07</td><td>0.036</td><td>0.08</td><td>0.05</td><td>0.089</td></tr><tr><td>INT1→INT2</td><td>0.33</td><td>0.05</td><td><0.001</td><td>0.04</td><td>0.10</td><td>0.669</td><td>0.11</td><td>0.06</td><td>0.074</td></tr><tr><td>INT2→INT3</td><td>0.56</td><td>0.04</td><td><0.001</td><td>0.38</td><td>0.07</td><td><0.001</td><td>0.31</td><td>0.07</td><td><0.001</td></tr><tr><td>交叉滞后效用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>INT1→EXT2</td><td>0.04</td><td>0.04</td><td>0.392</td><td>-0.07</td><td>0.08</td><td>0.404</td><td>-0.02</td><td>0.05</td><td>0.651</td></tr><tr><td>PSO1→EXT2</td><td>0.01</td><td>0.03</td><td>0.660</td><td>0.002</td><td>0.06</td><td>0.974</td><td>-0.05</td><td>0.02</td><td>0.057</td></tr><tr><td>INT2→EXT3</td><td>0.18</td><td>0.04</td><td><0.001</td><td>0.16</td><td>0.07</td><td>0.017</td><td>0.09</td><td>0.05</td><td>0.079</td></tr><tr><td>PSO2→EXT3</td><td>-0.02</td><td>0.03</td><td>0.651</td><td>-0.06</td><td>0.05</td><td>0.302</td><td>-0.06</td><td>0.03</td><td>0.015</td></tr><tr><td>EXT1→INT2</td><td>0.18</td><td>0.05</td><td><0.001</td><td>0.12</td><td>0.08</td><td>0.117</td><td>0.06</td><td>0.05</td><td>0.214</td></tr><tr><td>PSO1→INT2</td><td>-0.03</td><td>0.04</td><td>0.497</td><td>-0.02</td><td>0.07</td><td>0.726</td><td>-0.07</td><td>0.02</td><td>0.004</td></tr><tr><td>EXT2→INT3</td><td>0.03</td><td>0.04</td><td>0.458</td><td>-0.03</td><td>0.05</td><td>0.554</td><td>-0.07</td><td>0.05</td><td>0.158</td></tr><tr><td>PSO2→INT3</td><td>-0.03</td><td>0.03</td><td>0.363</td><td>-0.05</td><td>0.05</td><td>0.318</td><td>-0.03</td><td>0.02</td><td>0.143</td></tr><tr><td>EXT1→PSO2</td><td>-0.07</td><td>0.05</td><td>0.119</td><td>-0.12</td><td>0.07</td><td>0.092</td><td>-0.15</td><td>0.05</td><td>0.008</td></tr><tr><td>EXT2→PSO3</td><td>0.002</td><td>0.04</td><td>0.957</td><td>-0.03</td><td>0.06</td><td>0.639</td><td>-0.09</td><td>0.05</td><td>0.081</td></tr><tr><td>INT1→PSO2</td><td>0.007</td><td>0.04</td><td>0.880</td><td>0.04</td><td>0.07</td><td>0.569</td><td>0.04</td><td>0.05</td><td>0.499</td></tr><tr><td>INT2→PSO3</td><td>-0.04</td><td>0.05</td><td>0.441</td><td>-0.009</td><td>0.08</td><td>0.899</td><td>-0.001</td><td>0.05</td><td>0.979</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>共变相关效用</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>INT1→EXT1 INT1←PSO1</td><td>0.66</td><td>0.03</td><td><0.001</td><td>0.55</td><td>0.06</td><td><0.001</td><td>0.58</td><td>0.05</td><td><0.001 0.014</td></tr><tr><td>EXT1←→PSO1</td><td>-0.11</td><td>0.04</td><td>0.003</td><td>-0.09</td><td>0.07</td><td>0.194</td><td>-0.13</td><td>0.05</td><td>0.005</td></tr><tr><td></td><td>-0.09</td><td>0.04</td><td>0.021</td><td>-0.08</td><td>0.06</td><td>0.177</td><td>-0.14</td><td>0.05</td><td><0.001</td></tr><tr><td>INT2→EXT2 INT2←PSO2</td><td>0.61</td><td>0.03</td><td><0.001</td><td>0.58 -0.12</td><td>0.05 0.06</td><td><0.001 0.050</td><td>0.56</td><td>0.05</td><td>0.04</td></tr><tr><td>EXT2→PSO2</td><td>-0.12</td><td>0.04</td><td>0.007</td><td></td><td></td><td></td><td>-0.13</td><td>0.06</td><td>0.002</td></tr><tr><td>INT3←→EXT3</td><td>-0.12</td><td>0.04</td><td>0.002</td><td>-0.14</td><td>0.06</td><td>0.025</td><td>-0.18</td><td>0.06</td><td><0.001</td></tr><tr><td>INT3←→PSO3</td><td>0.58</td><td>0.03</td><td><0.001</td><td>0.57</td><td>0.04</td><td><0.001</td><td>0.53</td><td>0.04</td><td><0.001</td></tr><tr><td></td><td>-0.19</td><td>0.04</td><td><0.001</td><td>-0.22</td><td>0.05</td><td><0.001</td><td>-0.22</td><td>0.06</td><td></td></tr><tr><td>EXT3←→PSO3</td><td>-0.07</td><td>0.04</td><td>0.095</td><td>-0.09</td><td>0.05</td><td>0.074</td><td>-0.07</td><td>0.05</td><td>0.147</td></tr><tr><td></td><td colspan="8">个体间水平</td><td></td></tr><tr><td>INT←EXT</td><td></td><td></td><td></td><td>0.80</td><td>0.04</td><td><0.001</td><td>0.80</td><td>0.05</td><td><0.001</td></tr><tr><td>INT↔PSO</td><td></td><td></td><td></td><td>-0.18</td><td>0.13</td><td>0.146</td><td>-0.06</td><td>0.09</td><td>0.559</td></tr><tr><td>EXT→PSO</td><td></td><td></td><td></td><td>-0.11</td><td>0.11</td><td>0.314</td><td>0.05</td><td>0.09</td><td>0.595</td></tr></table></body></html>
+
+说明：PSO1表示亲社会行为倾向在T1的值，EXT1表示外化问题在T1的值，INT1表示内化问题的值。其它以此类推。加粗数字表示路径系数显著。在RI-CLPM和GCLM 模型估计中，图1中的 $\lambda$ 固定为1，所以它们与CLPM的自由度相同。
+
+在个体内水平，就亲社会行为倾向与内化问题、外化问题预测关系而言，RI-CLPM 和GCLM的结果并不一致。GCLM的结果表明，亲社会行为倾向可以负向预测内化问题和外化问题(PSO2→EXT3 和 PSO1 $$ INT2)，该结果部分支持研究假设2。就内化问题和外化问题的相互预测关系而言，GCLM的结果表明二者之间没有相互预测关系。此外，GCLM 的结果表明，T1外化问题可以显著负向预测 T2亲社会行为倾向(EXT1 $$ PSO2)。
+
+# 3.3亲社会行为倾向在内化问题和外化问题发展级联中的作用
+
+为检验模型中加入亲社会行为倾向对内化问题和外化问题相互预测作用的影响，基于GCLM，模型中只包括内化问题和外化问题两个变量，结果表明，模型数据拟合度良好 $( \chi ^ { 2 } =$ 17.89, df $= 5$ $5 , \mathrm { C F I } = 0 . 9 9 , \mathrm { R M S E A } = 0 . 0 5 5 , \mathrm { S R M R } = 0 . 0 3 5 , \mathrm { A I C } = 7 3 6 1 . 3 7 , \mathrm { B I C } = 7 4 6 6 . 1 7 )$ ，且外化问题能显著负向预测内化问 $\mathrm { I } _ { \mathrm { R E } } ^ { \mathrm { H i g } } ( \mathrm { E X T 1 {  } I N T 2 : } \ \mathrm { \ B } = - 0 . 0 6 , S E = 0 . 0 3 , p = 0 . 0 4 ; \mathrm { E }$ XT2 $$ INT3:$\beta = - 0 . 1 2 , S E = 0 . 0 3 , p < 0 . 0 0 1 )$ ，但内化问题不能显著预测外化问题。该结果支持研究假设1。
+
+# 3.4亲社会行为倾向、内化问题和外化问题发展级联的性别差异
+
+由于亲社会行为倾向、内化问题和外化问题发展级联可能存在的性别差异，我们分别对男生组 $( n = 5 1 7 )$ 和女生组 $( n = 3 4 9 )$ 用GCLM做进一步分析。结果显示，男生组 $( \chi ^ { 2 } = 1 6 . 1 4$ df$= 9$ $\mathrm { C F I } = 0 . 9 9 , \mathrm { R M S E A } = 0 . 0 3 9 , \mathrm { S R M R } = 0 . 0 2 4 , \mathrm { A I C } = 7 7 8 4 . 0 8 , \mathrm { B I C } = 7 9 7 5 . 2 4 ) \mathcal { F } [ 0 . 0 2 8 , \mathrm { G e V } ] .$ 女生 $( \chi ^ { 2 } =$ 5.04, df $, { \mathrm { C F I } } = 1 . 0 0 , { \mathrm { R M S E A } } = 0 . 0 0 0 , { \mathrm { S R M R } } = 0 . 0 1 7 , { \mathrm { A I C } } = 4 4 8 0 . 5 5 , { \mathrm { B I C } } = 4 6 5 4 . 0 3 3$ 组数据模型拟合均在可接受范围。与表3结果不同的是，在个体内水平，T2内化问题对 T3外化问题正向预测作用 $( \mathrm { I N T } 2 {  } \mathrm { E X T } 3 )$ 仅在女生群体中显著 $( \beta = 0 . 2 3 , S E = 0 . 0 8 , p = 0 . 0 0 2 )$ ，而亲社会行为倾向均不能显著预测内化问题和外化问题；而在男生群体中，结果与表3结果类似：亲社会行为倾向可以显著负向预测内化问题和外化问题 $( { \mathrm { P S O } } 2 {  } { \mathrm { E X T } } 3$ ${ \beta } = - 0 . 0 8$ $S E = 0 . 0 3 , p$ $= 0 . 0 2$ ; PSO1 $$ INT2: $\beta = - 0 . 0 8$ $S E = 0 . 0 3$ $p = 0 . 0 2$ ),T1外化问题可以负向预测 T2亲社会行为倾向 $( { \mathrm { E X T 1 } } \to { \mathrm { P O S } } 2$ ： $\beta = - 0 . 2 1$ $S E = 0 . 0 5$ $p < 0 . 0 0 1 \AA .$ )。这表明在个体内水平，亲社会行为倾向对内化问题的预测作用、外化问题对亲社会行为倾向的预测作用，以及内化问题和外化问题的相互作用方式，对这个年龄阶段男生和女生而言，具有异质性。该结果部分支持研究假设4。对女生而言，内化问题可正向预测外化问题。
+
+# 3.5亲社会行为倾向不同因子与内化问题和外化问题发展级联
+
+由于亲社会行为倾向的不同因子可能具有不同的影响，我们用GCLM分别对亲社会行为的六个因子进行分析。结果显示，公开的 $( \chi ^ { 2 } = 1 2 . 6 4 , d f = 9 _  \it$ $\mathrm { C F I } = 0 . 9 9$ ,RMSEA $= 0 . 0 2 1$ ，${ \mathrm { S R M R } } = 0 . 0 2 1 , { \mathrm { A I C } } = 1 4 3 8 0 . 1 8 , { \mathrm { B I C } } = 1 4 5 9 5 . 8 9 )$ 、匿名的 $( \chi ^ { 2 } = 1 1 . 8 8 , d f = 9$ $\mathrm { C F I } = 0 . 9 9$ ,RMSEA$= 0 . 0 1 9$ ,SRMR $= 0 . 0 1 9$ ,AIC $\ c =$ 14089.13, I $3 \mathrm { I C } = 1 4 3 0 4 . 8 4 \AA ,$ 、依从的 $( \chi ^ { 2 } = 6 . 5 0 , d f = 9$ ， $\mathrm { C F I } = 1 . 0 0 \$ R $\mathrm { M S E A } = 0 . 0 0 1 , \mathrm { S R M R } = 0 . 0 1 5 , \mathrm { A I C } = 1 3 2 3 1 . 6 6 , \mathrm { B I C } = 1 3 4 4 7 . 3 7 )$ 、情绪的 $( \chi ^ { 2 } = 9 . 4 3 , d f = 9$ $\mathrm { C F I } = 1 . 0 0 , \mathrm { R M S E A } = 0 . 0 0 7 , \mathrm { S R M R } = 0 . 0 1 6 , \mathrm { A I C } = 1 3 6 6 8 . 2 7 , \mathrm { B I C } = 1 3 8 8 3 . 9 7 ) ,$ 紧急的 $( \chi ^ { 2 } =$ 10.23, $d f = 9$ 0 $\mathrm { C F I } = 0 . 9 9$ $9 9 , { \mathrm { R M S E A } } = 0 . 0 1 2 , { \mathrm { S R M R } } = 0 . 0 1 7 , { \mathrm { A I C } } = 1 3 7 4 8 . 7 6 , { \mathrm { B I C } } = 3 9 6 4 . 4 7 )$ 和利他的 $( \chi ^ { 2 } = 1 2 . 2 9$ $d f = 9$ CF $\boldsymbol { \mathrm { I } } = \boldsymbol { 0 } . 9 9$ ,RMSEA $= 0 . 0 2 0$ ，SRMR $= 0 . 0 1 8$ ,AIC = 13680.89, BIC $\mathbf { \Sigma } = \mathbf { \Sigma }$ 13896.60)亲社会行为倾向等六个因子模型数据均拟合良好。由于本研究关心亲社会行为倾向对内化问题和外化问题的交叉滞后效应，表4中只报告了从亲社会行为倾向到内化问题和外化问题预测路径系数。与表3结果类似的是，T1亲社会行为倾向的六个因子均不能显著预测 T2外化问题；与表3结果不同的是，除匿名的和紧急的因子，其它四个因子的结果较为一致，能显著负向预测内化问题和外化问题，具有小的效应量。
+
+表4亲社会行为倾向六个因子GCLM估计个体内水平的交叉滞后效应  
+
+<html><body><table><tr><td>交叉滞后效用</td><td colspan="3">1公开的</td><td colspan="3">2匿名的</td><td colspan="3">3依从的</td><td colspan="3">4情绪的</td><td colspan="3">5紧急的</td><td colspan="3">6利他的</td></tr><tr><td></td><td>β</td><td>SE</td><td>P</td><td>β</td><td>SE</td><td></td><td>pβ</td><td>SE</td><td>P</td><td></td><td>SE</td><td>p</td><td>β</td><td>SE</td><td>p</td><td>β</td><td>SE</td><td>p</td></tr><tr><td>PSO1→EXT2</td><td>-0.03</td><td>0.03</td><td>0.371</td><td>-0.01</td><td>0.03</td><td>0.625</td><td>-0.04</td><td>0.02</td><td>0.074</td><td>-0.03</td><td>0.02</td><td>0.205</td><td>-0.01</td><td>0.02</td><td>0.627</td><td>-0.04</td><td>0.03</td><td>0.147</td></tr><tr><td>PSO2→EXT3</td><td>-0.06</td><td>0.03</td><td>0.033</td><td>-0.04</td><td>0.03</td><td>0.119</td><td>-0.06</td><td>0.02</td><td>0.009</td><td>-0.06</td><td>0.03</td><td>0.020</td><td>-0.05</td><td>0.02</td><td>0.052</td><td>-0.06</td><td>0.03</td><td>0.027</td></tr><tr><td>PSO1→INT2</td><td>-0.09</td><td>0.03</td><td>0.001</td><td>-0.06</td><td>0.03</td><td>0.024</td><td>-0.08</td><td>0.02</td><td><.001</td><td>-0.06</td><td>0.01</td><td>0.016</td><td>-0.06</td><td>0.02</td><td>0.012</td><td>-0.07</td><td>0.02</td><td>0.002</td></tr><tr><td>PSO2→INT3</td><td>-0.08</td><td>0.03</td><td>0.002</td><td>-0.05</td><td>0.03</td><td>0.049</td><td>-0.07</td><td>0.02</td><td>0.003</td><td>-0.06</td><td>0.02</td><td>0.008</td><td>-0.05</td><td>0.02</td><td>0.024</td><td>-0.05</td><td>0.02</td><td>0.033</td></tr></table></body></html>
+
+兑明：PSO1表示亲社会行为倾向在T1的值，EXTI表示外化问题在T1的值，INT1表示内化问题的值。其它以此类推。加粗数字表示路径系数显著
+
+# 4讨论
+
+采用为期三年的面板数据，本研究发现在个体内水平内化问题和外化问题具有较强的协同变化关系，提示二者之间具有共同的“第三方原因”。在亲社会行为、内化问题和外化问题发展级联模型中，内化问题和外化问题没有相互的预测关系。进一步分析发现，发展级联模型中仅有内化问题和外化问题时，外化问题可以显著负向预测内化问题。就亲社会行为、内化问题和外化问题发展级联模型而言，仅在女生群体中，T2内化问题可正向预测 T3外化问题。在个体内水平，亲社会行为倾向与内化问题和外化问题具有中等或较弱的协同变化关系，T1亲社会行为倾向可负向预测 T2内化问题，T2亲社会行为倾向可负向预测 T3外化问题，具有较弱的预测作用。同时，T1外化问题能负向预测 T2亲社会行为倾向，具有中等的预测作用，但内化问题不能预测亲社会行为倾向。
+
+CLPM是传统发展心理病理研究的“一匹老马”(Berry&Willoughby,2017; Hamaker etal.,2015)。当纵向研究只有两个时点的数据时，CLPM仍然不失为一种有价值的分析方法，可以提供进一步的研究线索。但是，现在越来越多的纵向研究采集了多时点数据，因而有可能采用个体内分析方法将个体间效用和个体内效用“分离”，从而以个体自身为控制，在个体内水平探索变量之间的相互影响。本研究比较了CLPM、RI-CLPM和GCLM的结果。结果显示，将个体间效用分离后，会得出不同甚至截然相反的结论。例如，如果采信CLPM的结果，研究者会认为内化问题和外化问题是相互正向预测的关系。也就是说，外化问题会“转化”为内化问题，而内化问题又会“转化”为外化问题(EXT1→INT2→EXT3)。但是，GCLM的结果却表明，在总样本中，外化问题和内化问题不具有相互预测关系。由此可见，混淆个体内效用和个体间效用会严重影响研究结论。
+
+本研究比较了RI-CLPM和GCLM的结果，二者都是个体内分析模型。RI-CLPM 的结果显示 T2内化问题可正向预测 T3外化问题，模型中的其它预测路径均没有统计意义上的显著性，而GCLM则发现了更多具有统计显著性的预测路径。例如，亲社会行为倾向可显著负向预测内化问题和外化问题，并且T1外化问题可以显著负向预测 T2亲社会行为倾向等。若采信RI-CLPM的结果，研究者会认为在本研究样本中，亲社会行为倾向不能预测内化问题和外化问题，且外化问题不能预测亲社会行为倾向。但是，GCLM的结果却表明，亲社会行为倾向可以负向预测内化问题和外化问题，且外化问题可以预测亲社会行为倾向。可见，不同的个体内分析模型，同样会带来非常不同的研究结论。
+
+RI-CLPM和GCLM具有不同的假设，适用于不同的研究问题。如果考虑到心理病理发展级联非连续性，则GCLM更符合理论假设。本研究结果表明：亲社会行为倾向、内化问题和外化问题三年间测量数据，其个体内变异量均超过了 $50 \%$ ；并且，总体来看，三个研究变量自回归效用较弱。这些结果与传统上对早期青少年的认识一致，提示亲社会行为倾向、内化问题和外化问题在青少年早期群体中发生了突然的、急剧的变化。采用RI-CLPM分析数据并将随机截距解释为稳定的时不变变量(类特质变量)就忽视了这一点，从而可能带来估计的偏差。此外，所有的模型拟合指标都提示GCLM优于CLPM和RI-CLPM。这些证据都支持采信GCLM的结果。我们同时呈现了CLPM 和RI-CLPM的结果。这样，三个模型的共同结果可更加确证，而对不同的结果，我们则需要谨慎考虑不同模型的适用条件。
+
+基于GCLM的进一步分析表明，在女生群体中，T2内化问题可以正向预测T3外化问题(INT2→EXT3)，具有中等的效应量。这与文献中的部分研究一致(Lee& Stone,2012;Weekset al.,2016),但与大多数文献的结果不一致，即只有外化问题能预测内化问题(例如,Moilanenet al.,2010; Murray et al.,2020;van Lier et al.,2012)。这可能与分析方法有关，因为基于CLPM的发展级联模型往往会比较所有可能的预测路径(例如，用 T1变量预测 T3变量)，并且统计上不显著的预测路径最终不予保留。基于CLPM的发展级联模型还混淆了个体内和个体间的效应。除了将个体内和个体间效应分离外，个体内分析方法常假设某个时点的变化会通过自回归效应和某种交叉滞后效应影响下一个时点的变量，所以，个体内分析模型通常只会用T变量预测 $^ { \mathrm { T } + 1 }$ 变量。依据不同的数值模拟条件，研究发现基于CLPM的建模方法会给变量间相互影响的统计结果带来不可预知的影响，不显著的效应可能变得显著，显著的效应也可能变得不显著，还可能改变显著效应的方向等(Hamaker etal.,2015)。毕竟，将个体间效用分离的统计方法应用于发展级联研究也不过是近五、六年的事(Berry&Willoughby,2017;Hamaker et al., 2015)。
+
+此外，在女生群体中，亲社会行为倾向不能预测内化问题和外化问题。这些结果提示，对处于青少年早期的女生而言，外化问题(本研究中为攻击性)可能是内化问题(本研究中为抑郁、焦虑和压力)的转换或掩饰(Carlson＆ Cantwell,1980)，与消极的自我概念和低自尊有关(Lee＆ Stone,2012)，其本质仍为与过度自我调节有关的内化问题(Flynn et al.,2015;Nantel-Vivier etal.,2014)。在女生群体中，亲社会行为倾向不能预测内化问题和外化问题，可能与我国的文化现实有关，即家庭和学校对处于青春期的男生和女生教养方式和社会期望不同，从而产生亲社会行为倾向对内化问题和外化问题预测关系的性别差异。这些可能性需要在中国的儿童青少年群体中做进一步的探究。
+
+值得注意的是，在本研究样本的男生群体中，内化问题和外化问题没有相互预测的关系，这与文献中已有的结果不一致。例如，在韩国儿童中的研究表明，8\~9岁的内化问题可负向预测12\~13岁外化问题(Lee＆ Stone,2012)；最近一项研究对瑞士儿童追踪调查数据进行个体内分析，结果表明13岁的外化问题可以负向预测15 岁的内化问题(Murray et al.,2020)。在这两项研究中，除以上这些负向预测关系外，内化问题和外化问题都具有相互的正向预测关系。我们设想，在前述建模方法对统计结果的影响之外，其原因应首先考虑模型中亲社会行为倾向的影响。在青少年早期的男生群体中，亲社会行为倾向及其相关自我调节能力和社会认知加工偏好是内化问题和外化问题相互关系的共同影响因素。结果显示，在模型中加入亲社会行为倾向后，内化问题和外化问题的相互预测关系就消失了；而模型中没有亲社会行为倾向时，外化问题可显著负向预测内化问题。该结果提示有某种非连续性发展的可能。在儿童期，内化问题和外化问题更有可能具有协同变化关系和相互影响的关系(Memmott-Elison et al.,2020)。但到了青少年早期，二者之间的关系就变得较为复杂，内化问题和外化问题可能分化为两条不同的心理病理发展途径；或伴随着亲社会行为的发展，内化问题和外化问题会回到正常发展的轨迹中去(Critenden&Landini,2011)。虽然这些可能性需要进一步检验，但该结果具有一定的启示意义，提示亲社会行为发展是内化问题和外化问题风险的重要保护因素，也是对内化问题和外化问题可能的干预路径之一。本研究结果同时提示对青少年早期的心理健康工作应该采取性别差异化的促进方案。
+
+基于GCLM的进一步分析表明，在亲社会行为倾向的六个因子中，有四个因子对下一年的内化问题和外化具有较弱的负向预测作用，这与过去的研究结论一致(Memmott-Elisonet al.,2020)。但是，匿名的和紧急的亲社会行为倾向这两个因子不能预测外化问题。只有T1匿名的亲社会行为倾向能负向预测 T2 的内化问题。这两个因子是中文版亲社会行为倾向测量(PTM)新增的两个因子(寇或 等,2007)。这或许和亲社会行为具有不同类型，而不同类型的亲社会行为，其自我调节和动机过程不同有关(Davidov etal.,2016; Paulus,2018)。例如，为减轻他人痛苦做出的亲社会行为倾向和个体在情绪被唤起情境下做出的亲社会行为倾向，其内在动机过程和自我调节过程可能不同。有研究表明，个人能力、特质性因素不能预测我国青少年的亲社会行为，而社会影响因素却可以(Laietal.,2015)。又比如，亲社会行为的不同对象，其适应意义也不同，对陌生人、熟人和同伴的亲社会行为行为对内化问题和外化问题具有不同的影响(Padilla-Walker et al.,2015)。此外，我国的学校班级环境较为重视集体秩序，父母教养中也较为重视他人视角或社会视角，表明其它源自文化传统和社会现实的因素能对不同情境下的亲社会行为倾向做出更好的解释(Chen et al.,2021;Lai et al.,2015)。该结果提示，进一步的研究应该考虑我国的文化传统和社会现实因素，比如：在中国青少年群体中探讨什么类型的亲社会行为、亲社会行为过程的什么要素对内化问题和外化问题有更为实质性的影响。
+
+本研究的一个优势是采用个体内的分析方法，克服了传统CLPM的不足，得到的结果更有可能反映一种因果关系。其特点是以个体自身为控制，这样就排除了稳定的组间变量的影响，包括未测量的或很难测量的组间变量，例如基因、环境、基因环境交互作用以及特质等等。本研究的另外一个优势是比较了RI-CLPM和GCLM两种个体内的分析方法，并从理论概念角度讨论了模型建构方法的合理性和使用范围。
+
+其中，有两个难点值得注意。一是如何处理时变变量的影响。从理论上和研究证据上讲，亲社会行为、内化问题和外化问题的发展级联在个体内水平可能存在相互影响的关系，但是采用 GCLM 有可能弱化二者之间的关系。在个体内分析路径系数相对较小的情况下(Memmott-Elison etal.,2020)，则有风险拒绝实际上存在的效用。二是如何处理共同的“第三方原因”的影响，以及“第三方原因”与变量在个体内水平的复杂交互作用。本研究的结果表明在个体内水平，内化问题和外化问题共变效用较大，说明有许多重要的“第三方变量”是二者关系的共同原因。今后的研究需要在亲社会行为倾向与内化问题、外化问题发展级联的理论模型建构上付出更多努力。这是本研究的一个不足。
+
+本研究的另外一个不足是没有采用行为指标测量亲社会行为，全部采用自评指标而没有采用他评指标来测量内化问题和外化问题，数据来源较为单一，指标也较为单一，这对研究结论会有潜在影响。此外，本研究仅仅考察了初一到初三学生(约12\~15 岁)青少年亲社会行为倾向、内化问题和外化问题的发展级联，研究结论并不能推论至这个年龄段之外的青少年群体。最后，本研究的样本本身也缺乏足够的代表性。如果个体间存在稳定的差异，在一定程度上讲，样本代表性的影响并不大。但是，考虑到青少年群体个体间差异的动态发展特点，以及“第三方原因”对亲社会行为、内化问题和外化问题发展级联的复杂影响，样本的不同还是会对研究结果产生潜在的影响。
+
+# 5结论
+
+本研究表明：(1)青少年早期亲社会行为倾向的发展可降低内化问题和外化问题，不同类型的亲社会行为倾向对内化问题和外化问题的预测作用不同。(2)青少年早期亲社会行为倾向、内化问题和外化问题的发展级联具有性别差异。(3)广义交叉滞后面板模型(GCLM)更符合发展级联模型的理论描述，能兼顾青少年早期发展连续性和非连续的特点，适合于分析青少年早期的发展级联问题。
+
+致谢：诚挚感谢主编和匿名审稿人专业又细致的评审意见，感谢湖北省天门华泰中学和荆州郢都中学在问卷调查中提供的支持，感谢美国北德克萨斯大学王佳智教授(美国)在英文摘要修改中给予的协助。
+
+#
+
+奓考乂   
+Allison,P.D., Williams,R.,&Moral-Benito,E.(2O17).Maximum Likelihood forcross-lagged panel models with fixed effects. Socius,3,1-17. https://doi.org/10.1177/2378023117710578   
+Asparouhov,T.,Muthen,B.,& Muthen,B.O. (2O06). Robust chi square diference testing with mean and variance adjusted test statistics. Matrix,1(5),1-6.   
+Berry,D.,& Willoughby,M.T.(017).On the practical interpretability of cross-lagged panel models: Rethinking a developmental workhorse. Child Development,88(4),1186-1206. htps://doi.org/10.1111/cdev.12660   
+Burke,J. D.,Loeber,R.,Lahey,B.B.,& Rathouz,P.J. (2Oo5). Developmental transitions among affective and behavioral disorders in adolescent boys.Journal of Child Psychology and Psychiatry,46(11),1200-1210. https://doi.0rg/10.1111/j.1469-7610.2005.00422.x   
+Carlo,G.,& Randall,B.A. (2O02).The development of a measure of prosocial behaviors for late adolescents. Journal of Youth and Adolescence,31(1),31-44. htps://doi.org/10.1023/A:1014033032440   
+Carlson, G. A., & Cantwel,D.P.(1980). Unmasking masked depression in children and adolescents. The American Journal of Psychiatry,137(4),445-449. https://doi.org/10.1176/ajp.137.4.445   
+Cassidy,J.,&Shaver,P.R. (2016). Handbook ofAttachment: Theory,Research,andClinicalApplications (Third Edition). New York: The Guilford Press.   
+Chen,B.-B., Qu,Y.,& Chen,X.(2O21). Chinese parents’ comparisons of siblings and adolescents’ internalizing and externalizing problems. Development and Psychopathology,33(3), 914-921. https://doi.org/ 10.1017/S095457942000022X   
+Chen,F.F.(2Oo7). Sensitivity of goodness of fit indexes to lack of measurement invariance. Structural Equation Modeling: A Multidisciplinary Journal,14(3),464-504. https://doi.org/10.1080/10705510701301834   
+Chen,J., Yu,J., Zhang,J.,Li,X.,& McGue,M. (2015). Investigating genetic and environmentalcontributions to adolescent externalizing behavior in a colectivistic culture: A multi-informant twin study. Psychological Medicine,45(9),1989-1997.https://doi.0rg/10.1017/S0033291714003109   
+Cicchetti,D.,& Toth, S.L. (1998). The development of depression in children and adolescents. American Psychologist,53(2),221-241. https://doi.0rg/10.1037/0003-066X.53.2.221   
+Cohen, J. R.,Andrews,A.R., Davis,M. M.,& Rudolph,K.D. (2018). Anxiety and depresion during childhood and adolescence: Testing theoretical models of continuity and discontinuity.Journal of Abnormal Child Psychology,46(6),1295-1308. https://doi.0rg/10.1007/s10802-017-0370-x   
+Crittenden,P.M.,& Landini, A. (2011). Assessing adult atachment: A dynamic-maturational approach to discourse analysis.New York: Norton & Company.   
+Davidov,M., Vaish,A.,Knafo-Noam,A.,& Hastings,P.D.(2016).The motivational foundations of prosocial behavior from a developmental perspective-evolutionary rootsand key psychological mechanisms: Introduction to the special section. Child Development, 87(6),1655-1667. htps://doi.org/10.111/cdev.12639   
+Flouri,E.,& Sarmadi,Z. (2O16).Prosocial behavior and childhood trajectories of internalizing and externalizing problems: The role of neighborhood and school contexts.Developmental Psychology,52(2),253-258. https://doi.org/10.1037/dev0000076   
+Flynn,E.,Ehrenreich,S.E.,Beron,K.J.,& Underwood,M.K. (2015).Prosocial behavior: Long-term trajectories and psychosocial outcomes. Social Development, 24(3), 462-482. https://doi.org/10.1111/sode.12100   
+Gao,X.,Liang,J.,Wang,Sh.-F.,Zhai,Y.,Lu,Y.-B,Shi,W.-H.,Shi,X.-M. (23).Analysis onpupils'currenttal health situation and their guardians'atitude in eight provinces in China. Chinese Journal of Disease Control & Prevention,17(7),592-595. htps://doi.org/CNKI:SUN:JBKZ.0.2013-07-014   
+[高欣，梁靖，王淑芬，翟屹，吕跃斌，石文惠，施小明.(2013).我国八省小学生心理状况及家长对其评价分 析．中华疾病控制杂志,17(7),592-595.]   
+Graber,J. A.,& Sontag, L. M. (2009). Internalizing problems during adolescence. In R. M.Lerner,L. Steinberg (Ed. ),Handbook ofadolescent psychology: Individual bases of adolescent development, Vol.1,3rd ed. (pp. 642-682). New York: John Wiley & Sons Inc.https://doi.org/10.1002/9780470479193.adlpsy001020   
+Hamaker,E.L., Kuiper,R. M.,& Grasman,R.P.P.P. (2015). A critique of the cross-lagged panel model. Psychological Methods,20(1),102-116. https://doi.org/10.1037/a0038889   
+Hawley,P. H. (2oo3).Prosocial and coerciveconfigurations of resource control in early adolescence: Acase forthe well-adapted machiavellian. Merrill-Palmer Quarterly, 49(3),279-309. https://doi.0rg/10.1353/mpq.2003.0013   
+Hu,L.,& Bentler,P.M.(1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives.Structural Equation Modeling: A Multidisciplinary Journal,6(1),1-55. https://doi.0rg/10.1080/10705519909540118   
+Kazdin, A. E. (1993). Adolescent mental health: Prevention and treatment programs. American Psychologist, 48(2),127-141. htps://doi.0rg/10.1037/0003-066X.48.2.127   
+Kenny,D.A. (1975). Cross-lagged panel correlation: A test for spuriousness.Psychological Buletin,82(6),887 903.https://doi.0rg/10.1037/0033-2909.82.6.887   
+Kou,Y.,Hong,H.-F.,Tan,C.,Li,L. (27).Revisioning prosocial tendencies measure foradolescent.Psychological Development and Education, 23(1): 112-117.   
+[寇或，洪慧芳，谭晨,李磊． (2007).青少年亲社会倾向量表的修订．心理发展与教育,23(1),112-117.]   
+Kokko,K.,Tremblay,R.E.,Lacourse,E.,Nagin,D.S.,&Vitaro,F. (2O6).Trajectoriesofprosocialbehaviorand physical aggression in middle childhood: Links to adolescent school dropout and physical violence.Journal of Research on Adolescence,16(3), 403-428. https:/doi.org/10.111/j.1532-7795.2006.00500.x   
+Kou,Y.,& Zhang Q.P. (2006). Conceptual representation of earlyadolescents’ prosocial behavior. Sociological Studies,21(5),169-187. https://doi.0rg/CNKI:SUN:SHXJ.0.2006-05-008   
+[寇或，张庆鹏.(2006).青少年亲社会行为的概念表征研究．社会学研究,21(5),169-187.]   
+Lai,F. H.Y., Siu,A. M.H.,& Shek,D.T.L. (2015). Individual and social predictors of prosocial behavior among Chinese adolescents in Hong Kong.Frontiers in Pediatrics,3,39. https:/doi.org/10.3389/fped.2015.00039   
+Leadbeater,B.J., Kuperminc,G.P., Blat, S.J., & Hertzog, C.(1999). A multivariate model of gender differences in adolescents' internalizing and externalizing problems. Developmental psychology,35(5),1268-1282. https://doi.0rg/10.1037/0012-1649.35.5.1268   
+Lee,E. J.,& Stone, S.1. (2O12). Co-occurring internalizing and externalizing behavioral problems: The mediating effect of negative self-concept. Journal of Youth and Adolescence,41(6),717-731. https://doi.0rg/10.1007/s10964-011-9700-4   
+Litle,R. J. (1988). A test of missing completely at random for multivariate data with missing values. Journal of the American statistical Association,83(404),1198-1202. htps://doi.org/10.2307/2290157   
+Little,T.D.,Cunningham, W.A.,Shahar,G.,& Widaman, K.F. (2OO2). To parcel or not to parcel: Exploring the question, weighing the merits. Structural Equation Modeling: A Multidisciplinary Journal, 9(2),151-173. https://doi.0rg/10.1207/S15328007SEM0902_1   
+Masten, A. S.,& Cicchetti,D. (2010). Developmental cascades.Development and Psychopathology,22(3), 491-   
+Maxwell, J.P.(2Oo8). Psychometric properties of a Chinese version of the Buss-Warren Aggression Questionnaire. Personality and Individual Diferences, 44(4), 943-953. https://doi.org/htps://doi.org/10.1016/j.paid.2007.10.037   
+McNeish, D.,& Kelley,K. (2O19).Fixed efects models versus mixed effects models for clustered data: Reviewing the approaches, disentangling the differences, and making recommendations. Psychological Methods,24(1),20-35. https:/doi.org/10.1037/met0000182   
+Memmott-Elison,M.K.,Holmgren,H.G.,Padilla-Walker,L.M.,& Hawkins,A.J. (202O). Associations between prosocial behavior, externalizing behaviors,and internalizing symptoms during adolescence: A metaanalysis. Journal of Adolescence,80, 98-114. https://doi.org/10.1016/j.adolescence.2020.01.012   
+Mesurado,B., Guerra,P.,Richaud, M. C.,& Rodriguez,L. M. (2019). Effectivenessof prosocial behavior interventions: A meta-analysis. In P.Gargiulo, H. Mesones Arroyo (Ed.),Psychiatry and Neuroscience Update.Springer, Cham. https://doi.org/10.1007/978-3-319-95360-1_21   
+Moilanen, K.L., Shaw,D.S.,& Maxwel, K.L. (201o).Developmentalcascades: Externalizing, internalizing,and academic competence from middle childhood toearly adolescence. Development and Psychopathology, 22(3),635-653. https://doi.0rg/10.1017/S0954579410000337   
+Murray,A.L.,Eisner,M.,& Ribeaud,D. (2020). Within-person analysis of developmental cascades between externalising and internalising problems. Journal of Child Psychology and Psychiatry,61(6),681-688. https://doi.org/10.1111/jcpp.13150   
+Muthen,L. K.,& Muthen, B. O.(2017). Mplus User's Guide.(Eighth Edition). Los Angeles, CA: Muthen & Muthen.   
+Nantel-Vivier,A.,Pihl,R.O., Cote,S.,& Tremblay,R.E.(2014). Developmental association of prosocial behaviour with aggression,anxiety and depression from infancy to preadolescence. Journal of Child Psychology and Psychiatry,55(10),1135-1144. https:/doi.org/10.1111/jcpp.12235   
+Padilla-Walker,L. M., Carlo, G.,& Nielson, M. G. (2015). Does helping keep teens protected?Longitudinal bidirectional relations between prosocial behavior and problem behavior. Child Development,86(6),1759- 1772. https://doi.org/10.1111/cdev.12411   
+Padilla-Walker,L.M.,Memmot-Elison, M. K.,& Coyne,S.M. (2017). Associations between prosocial and problem behavior from early to late adolescence. Journal of Youth and Adolescence, 47(5), 961-975. https://doi.0rg/10.1007/s10964-017-0736-y   
+Paulus,M. (2O18).The multidimensional nature of early prosocial behavior: a motivational perspective. Current Opinion in Psychology,20,11-116. htps://doi.org/10.1016/j.copsyc.2017.09.003   
+Pinquart, M. (2017). Associations of parenting dimensions and styles with externalizing problems of children and adolescents: An updated meta-analysis.Developmental Psychology,53(5),873-932. https://doi.org/10.1037/dev0000295   
+Reitz,E., Dekovic, M.,& Meijer, A. M. (2Oo5). The structure and stability of externalizing and internalizing problem behavior during early adolescence. Journal of Youth & Adolescence,34(6),577-588. https://doi.0rg/10.1007/s10964-005-8947-z   
+Sharp, C. (2O20). Adolescent personality pathology and the alternative model for personality disorders: Self development as nexus.Psychopathology,53(3),192-198. https:/doi.org/10.1159/000507588   
+StataCorp. (2017). Stata Statistical Software: Release 15. StataCorp LLC.   
+Usami,S.(2O2O). On the diferences between General Cross-Lagged Panel Model and Random-Intercept CrossLagged Panel Model: Interpretation of cross-lagged parameters and model choice. Structural Equation Modeling: A Multidisciplinary Journal,28(3),1-14. htps://doi.org/10.1080/10705511.2020.1821690   
+vanLier,P.A.C.,Vitaro,F.,Barker,E.D.,Brendgen,M.,Tremblay,R.E.,&Boivin,M.(2012).Peer victimization, poor academic achievement, and the link between childhood externalizing and internalizing problems. Child Development, 83(5),1775-1788. https://doi.org/10.1111/j.1467-8624.2012.01802.x   
+Wang,K.,Shi,H.-S.,Geng,F.-L.,Zou,L.-Q.,Tan,S.-P., Wang,Y.,Neumann,D.L.,Shum,D.H.K.,& Chan,R. C.K. (016). Cross-cultural validation of the Depression Anxiety Stress Scale-21 in China. Psychological Assessment,28(5),e88-e100.https://doi.org/10.1037/pas0000207   
+Weeks,M.,Ploubidis,G.B.,Cairney,J., Wild,T.C.,Naicker,K.,& Colman,I. (2016).Developmental pathways linking childhood and adolescent internalizing,externalizing,academic competence,and adolescent depression. Journal of Adolescence,51,30-40. htps://doi.org/10.1016/j.adolescence.2016.05.009   
+Xie, X.,Chen, W.,Lei,L., Xing, C.,& Zhang,Y. (2016). The relationship between personality types and prosocial behavior and aggression in Chinese adolescents.Personality and Individual Differences,95,56-61. https://doi.org/10.1016/j.paid.2016.02.002   
+Zimmer-Gembeck,M.J.,Geiger,T.C.,& Crick,N.R.(20o5).Relational and physical aggression, prosocial behavior,and peer relations: Gender moderation and bidirectional associations.The Journal of Early Adolescence,25(4),421-452.https://doi.org/10.1177/0272431605279841   
+Zyphur,M.J.,Alison,P.D.,Tay,L.,Voelkle,M.C.,Preacher,K.J.,Zhang,Z.,..&Diener,E. (202O).Fromdata to causes I: Building a general cross-lagged panel model (GCLM). Organizational Research Methods,23(4), 651-687. https://doi.org/10.1177/1094428119847278   
+Zhou H.,& Long L.R. (2004).Statistical remedies for common method biases.Advances in Psychological Science, 12(6),942-950.   
+[周浩，龙立荣.(2004).共同方法偏差的统计检验与控制方法．心理科学进展,12(6),942-950.]
+
+# The developmental cascades of prosocial behavior tendency, internalizing and externalizing problems for early adolescence in
+
+China: A within-person analysis
+
+DUAN Wenting1, SUN Qiwu1,WANG Ming²,WU Caizhi',CHEN Zhenzhen1   
+( Key LaboratoryofAdolescent Cyberpsychology and Behavior (CCNU),MinistryofEducation; Schoolof   
+Psychology,Central China Normal University; Key Laboratoryof Human Development and Mental Health of HubeiProvince,Wuhan 430079,China) （ $^ 2$ Centerfor Mental Health Education,Wuhan University of Technology,Wuhan 43oo7o,China)
+
+# Abstract
+
+Conceptually， prosocial behavior reduces externalizing problems (e.g.， aggression) and internalized problems (e.g., depression） because prosocial behavior promotes positive emotions (e.g.,to find delight in helping others). Therefore, understanding the development cascades of prosocial behavior tendency, internalizing and externalizing problems is of great value to the promotion of adolescent mental health.
+
+Developmental cascades model describes the above-mentioned process, that is, the function of one domain (level or system) will affect the function of another domain (level or system); as time goes on, multiple interactions in different domains (levels or systems） will produce cumulative effects that can spill over and affect the functions of other domain (level or system) (Masten & Cicchet, 2010). Researchers usually use longitudinal data to test a developmental cascade model. However, previous studies tend to base their conclusions on Cross-Lagged Panel Models (Kenny, 1975),which cannot sufficiently answer the causally reciprocal relationship the developmental cascade model described because CLPM mixed the between- and within-person effects(Berry & Willoughby,2017; Hamaker et al.,2015).The results of the within-person analysis,which takes the person himself as the control, is more likely indicating the within-person changes of studied variables and their temporal relationships,and thus are consistent with the theoretical hypothesis of the developmental cascades model (Zyphur et al., 2020). The current study attempts to test the developmental cascades of prosocial behavior tendency, internalizing and externalizing problems in a sample ofChinese adolescents,and to show how the within-person analysis and the analysis based on traditional CLPM influence the conclusions.
+
+The demographic questionnaire together with Prosocial Behavior Tendency (Carlo & Randall,
+
+2002)，Depression-Anxiety-Stress Scale (Wang et al.，2016） and Buss Warren Aggression Questionnaire (Maxwell, 2Oo8) were administered in two junior schools for three years. Totally 894 students completed the three-wave investigation. Among them, the age ranged from 11 to 15 years old ( $1 2 . 7 \pm 0 . 6 0 )$ , including 517 boys $( 5 7 . 8 \% )$ at the beginning of the investigation. In terms of parents' education level, $9 4 . 6 \%$ of fathers completed nine-year compulsory education, and $56 . 9 \%$ of them completed high school or above level education; $91 . 5 \%$ of mothers completed nine-year compulsory education, and $5 2 . 2 \%$ of them completed high school or above level education.
+
+Two models of within-person analysis (RI-CLPM and GCLM) (Hamaker et al., 2015; Zyphur et al., 202O) were used to analyze the data, compared with the traditional CLPM. The data fiting indexes of the three models are all acceptable,but the results are different leading to very different conclusions. Particularly, GCLM can separate within- and between-person effects; (2) GCLM do not assume continuous development in comparison with RI-CLPM. These advantages of GCLM make GCLM have accurate estimates than other two models.Based on the results of GCLM, the research showed that: (1) at the within-person level, prosocial behavior tendency has a moderate or weak co-movements with internalizing and externalizing problems.The prosocial behavior tendency measured at T1 can predict the internalizing problems measured at T2,and the prosocial behavior tendency measured at T2 can predict the externalizing problems measured at T3; (2) For the girl group, the internalizing problems measured at T2 can predict the externalizing problems measured at T3,while in the boy group, the results did not support the reciprocal relationship between internalizing and externalizing problems; (3） The public, submissive,emotional and altruistic factors of prosocial behavior tendency can negatively predict the next-year internalizing problems,and these four factors can negatively predict the externalizing problems measured at T2. These results suggest the value of prosocial behavior as the potential way to promote adolescent's mental health, within-person analysis in the developmental cascades research,and also indicate that mental health promotion programs should take the gender difference into account.
+
+Keywords: Prosocial behavior tendency, internalizing and externalizing problems, Randomintercept Cross-lagged Panel Model, General Cross-lagged Panel Model, developmental cascades

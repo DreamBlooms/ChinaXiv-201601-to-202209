@@ -1,0 +1,287 @@
+[
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵江波1,²　魏时来1\\*马涛²肖怡²丁静美²李岚捷²冯文晓²贾　鹏²　赵明明² 刁其玉 2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.甘肃农业大学动物科学技术学院，兰州 730070；2.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京 100081)  \n摘要：本试验旨在应用套算法建立肉羊精饲料代谢能估测模型。选取66 只18月龄体重为（ $\\cdot 4 9 . 6 { \\pm } 1 . 3$ ）kg的杜泊 $\\times$ 小尾寒羊Fi代去势肉羊，采用完全随机区组设计分为11组，包括  \n1个基础饲粮组和10个试验饲粮组，每组6只羊。通过消化代谢试验（为期8d）和气体代  \n谢试验（为期3d）并结合套算法计算10 种精饲料的消化能和代谢能，建立精饲料代谢能和  \n其概略养分或可消化养分之间的模型。结果表明，1）10 种精饲料总能、酸性洗涤纤维含量  \n与消化能呈显著相关（ $\\cdot P { < } 0 . 0 5 \\$ )，有机物含量与消化能达到极显著相关（ $( P { < } 0 . 0 1 )$ ；精饲料  \n概略养分与代谢能之间则无相关性（ $\\cdot P { > } 0 . 0 5$ )。2）10 种精饲料的可消化养分与代谢能存在  \n极显著相关（ $\\begin{array} { l l l } { P } & { < } & { 0 . 0 1 } \\end{array}$ ），所建立的预测方程为：  \nME=-1.907+1.344DE+1.321DDM-5.347D0M-2.093DADF（ $R ^ { 2 } { = } 0 . 8 4 5$ ， $n { = } 6 0$ ， $P { \\ < } 0 . 0 1$ ）；  \nME=-2.105+1.349DE-6.577DOM（ $R ^ { 2 } { = } 0 . 8 4 2$ ， $n { = } 6 0$ ， $P { < } 0 . 0 1$ ）。 $[ M E$ 为代谢能 $( \\mathrm { M J / k g } )$ ， $D E$ 为  \n消化能（MJ/kg)，DDM为可消化干物质 $( \\% )$ ， $D O M$ 为可消化有机物 $( \\% )$ ， $D A D F$ 为可消  \n化酸性洗涤纤维（%)。]综上所述，本试验条件下无法利用精饲料概略养分预测其代谢能，  \n通过精饲料的可消化养分可准确预测其代谢能。  \n关键词：肉羊；精饲料；消化能；代谢能；可消化养分；预测模型  \n中图分类号：S826饲粮对动物的营养价值，一方面取决于其营养物质的含量，另一方面取决于这些营养物  \n质在畜禽体内的化学消化和生物转化效率，只有从这2方面着手才能深入、完善和客观地评  \n定其营养价值[1。目前反刍动物能量需要量的评定多采用代谢能（metabolizable energy,ME）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "或净能（net energy,NE）体系，因此饲粮配方制作前需要明确原料的代谢能。但原料的代谢能一般难以直接测定，国内外的饲养标准中精饲料的代谢能均为简单推测值[2]。然而该值缺乏相应的验证研究，因此在实际应用过程中可能会出现饲粮能量水平不能满足动物需要或超出需要而造成资源浪费。因此，准确地预测饲料原料代谢能，对于科学配制饲粮满足肉羊营养需要具有重要意义。在猪上的研究表明，可通过原料的概略养分作为预测因子，较为准确地建立代谢能的预测模型[3-5]。在肉羊上，刘洁等[1]建立了用概略养分预测配合饲料代谢能的预测模型，配合饲料制作完成后通过简单的实验室分析就可以预测出饲料在动物体内的利用情况，然而原料在动物体内的真实利用情况却无从得知。精饲料原料是肉羊养殖过程中决定成本的重要因素，本试验选取我国10种肉羊常用的精饲料，通过消化代谢试验和气体代谢试验并结合套算法计算10种精饲料的代谢能，建立精饲料代谢能和其概略养分或可消化养分之间的相关性，从而实现肉羊常用精饲料代谢能的准确预测，为饲料营养价值评定以及我国肉羊饲养标准的建立提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验时间与地点本试验于2015年7月至2015年9月在中国农业科学院南口中试基地进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计与动物",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验在前期试验基础上进行，选取66只18月龄体重为（ $4 9 . 6 { \\pm } 1 . 3$ ）kg杜泊 $\\times$ 小尾寒羊Fi代去势肉羊，采用完全随机区组设计分为11组，包括1个基础饲粮组和10个试验饲粮组。每组6只羊。试验期共16d，其中前8d为预试期，后8d为消化代谢试验正试期。正试期的最后3d同时进行气体代谢试验，其中前 $2 4 \\mathrm { h }$ 使动物适应呼吸代谢箱，确保动物正常状态，后48h实测动物甲烷产量[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验基础饲粮由羊草、玉米、豆粕和预混料等组成，所有饲粮采用同一批原料进行配制以确保原料的一致性。根据前期不同比例的精饲料不同梯度替换试验结果，单一精饲料替换比例在 $30 \\%$ 时，所得的代谢能与实际测定值最为接近，所以在本试验中饲粮分别由燕麦、大麦、小麦、玉米、高粱、豆粕、菜籽粕、棉籽粕、花生粕、干酒糟及其可溶物（DDGS）替换基础饲粮中供能饲料的 $30 \\%$ 后重新组成，即替换羊草、玉米和豆粕。饲粮组成及营养",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/dea9d777351559ecd7c6fe1412a0a8b67cd5c1b8ee790d1fb9ad327c5aef5000.jpg",
+        "table_caption": [
+            "TablelComposition and nutrient levels of diets (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">项目Items</td><td colspan=\"11\">饲粮Diets</td></tr><tr><td>基础</td><td>燕麦</td><td>大麦</td><td>小麦</td><td>高梁</td><td>玉米</td><td>豆粕 Soybean</td><td>菜籽粕 Rapeseed</td><td>棉籽粕 Cottonseed</td><td>花生粕 Peanut</td><td></td><td>干酒糟及其 可溶物</td></tr><tr><td>Basal</td><td>Oat</td><td>Barley</td><td>Wheat</td><td>Sorghum</td><td>Corn</td><td>meal</td><td>meal</td><td>meal</td><td>meal</td><td>DDGS</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>精饲料 Concentrate</td><td></td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td><td>30.00</td></tr><tr><td>玉米 Corn</td><td>19.06</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td><td>13.25</td></tr><tr><td>豆粕 Soybean meal</td><td>12.19</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td><td>8.46</td></tr><tr><td>羊草 Chinese wildrye</td><td>66.46</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td><td>46.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td><td>1.40</td></tr><tr><td>石粉CaCO3</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td><td>0.15</td></tr><tr><td>食盐 NaCl</td><td>0.5</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>3 预混料 Premix1)</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td><td>0.24</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>干物质 DM</td><td>93.02</td><td>93.19</td><td>92.86</td><td>92.47</td><td>93.27</td><td>92.44</td><td>92.86</td><td>92.67</td><td>93.04</td><td>91.92</td><td>92.45</td></tr><tr><td>有机物OM</td><td>86.75</td><td>86.89</td><td>86.68</td><td>84.98</td><td>86.44</td><td>86.17</td><td>85.41</td><td>84.71</td><td>86.25</td><td>85.44</td><td>92.45</td></tr><tr><td>总能 GE/(MJ/kg)</td><td>16.64</td><td>16.75</td><td>16.46</td><td>16.27</td><td>16.62</td><td>16.54</td><td>16.88</td><td>16.89</td><td>17.12</td><td>16.89</td><td>17.42</td></tr><tr><td>粗蛋白质CP</td><td>11.19</td><td>10.47</td><td>9.84</td><td>11.93</td><td>10.41</td><td>9.84</td><td>18.59</td><td>16.27</td><td>19.17</td><td>20.50</td><td>15.45</td></tr><tr><td>粗脂肪 EE</td><td>2.76</td><td>2.96</td><td>1.86</td><td>1.85</td><td>2.29</td><td>2.06</td><td>1.49</td><td>1.89</td><td>1.11</td><td>2.73</td><td>4.29</td></tr><tr><td>中性洗涤纤维 NDF</td><td>58.83</td><td>54.13</td><td>62.68</td><td>52.57</td><td>55.18</td><td>58.55</td><td>47.87</td><td>58.55</td><td>48.97</td><td>50.50</td><td>51.89</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>29.08</td><td>21.08</td><td>22.82</td><td>19.69</td><td>21.46</td><td>22.16</td><td>22.85</td><td>30.66</td><td>21.36</td><td>22.94</td><td>21.55</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 Premix provided the following per kilogram of diets $\\mathrm { C u \\ 1 6 . 0 \\ m g }$ ，Fe $6 0 ~ \\mathrm { m g }$ Mn 40 mg, $\\mathrm { { Z n } 7 0 \\mathrm { { m g } } }$ ， $\\mathrm { ~ I 0 . 8 ~ m g }$ ，Se $0 . 3 ~ \\mathrm { m g }$ ， $\\mathrm { C o } 0 . 3 \\mathrm { m g }$ ，VA12000IU， $\\mathrm { V D } _ { 3 } \\thinspace 5 \\thinspace 0 0 0 \\mathrm { I U }$ ，VE 50 IU。 2)实测值 Measured values。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验前使用伊维菌素对肉羊进行驱虫，晨饲前称重并适应代谢笼。由于各试验饲粮的原料存在较大差异，因此自由采食量亦会不同，因此试验开始前进行预饲，将采食量最低组的饲喂量定为各组试验期的饲喂量[1]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "预试期完成饲粮过渡后，开始消化代谢试验。分别于08:00和18:00进行饲喂，每次各饲喂 $6 0 0 ~ \\mathrm { g }$ ，自由饮水。采用全收粪尿法收集粪、尿，每天称取并记录每只羊排粪量，按 $10 \\%$ 取样，将每只羊5d的粪样混合冷冻保存，用盛有 $1 0 0 ~ \\mathrm { { m L } ~ 1 0 \\% ~ H _ { 2 } S O _ { 4 } }$ 的塑料桶收集尿液，以防止贮存过程中有尿酸沉淀，稀释至5L，对稀释尿液充分混合，用纱布过滤后每天取样",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$3 0 ~ \\mathrm { m L }$ ，将每只羊5d的尿样混合后-20℃冷冻保存以备测定尿能[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲料和粪中的总能（GE）、有机物（OM）、干物质（DM）、粗蛋白质（CP）、粗脂肪（EE）、中性洗涤纤维（NDF）和酸性洗涤纤维（ADF）含量指标测定参考《饲料分析及饲料质量检测技术》[8]进行测定。能量采用 Parr-6400 氧弹式热量测定仪测定，对于尿能的测定，取 5块定量滤纸分别测定能值，计算出滤纸的平均能值。将 $1 0 ~ \\mathrm { m L }$ 尿液分多次滴在滤纸上，65℃烘干后测定能值，得到滤纸和尿液的总能值。甲烷的产量根据美国 SABLE 公司生产的 LGR气体测定仪连接半开放式呼吸代谢箱测定，试验动物适应呼吸测代谢箱 $2 4 \\mathrm { ~ h ~ }$ 后，开始连续48h的气体测定，在 $4 8 \\mathrm { ~ h ~ }$ 内每 $0 . 5 \\mathrm { h }$ 测定1次呼吸代谢箱内甲烷的产量，每只试验动物共得到96个甲烷产量的试验数据，求其平均值作为每天每只试验动物的甲烷产量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲粮及精饲料养分表观全肠道消化率计算方法参照Adeloa[9]的公式：  \n饲粮中某种养分的表观消化率 $( \\% ) = 1 0 0 \\times$ （饲粮采食量 $\\times$ 饲粮中该养分的含量-排粪量 $\\ : \\cdot \\times \\ :$ 粪中该养分含量）／（饲粮采食量 $\\times$ 饲粮中该养分的含量);  \n饲粮中精饲料养分表观全肠道消化率 $( \\% ) = 1 0 0 \\times |$ 饲粮养分表观全肠道消化率-（ $\\ ( 1 { - } X ) \\ \\times$ 基础饲粮中该养分表观全肠道消化率 $] / X _ { \\circ }$ 式中： $X$ 为待测精饲料替代基础饲粮供能饲料的百分率。套算法测定精饲料能值计算公式如下：能值=[试验饲粮能值-( $\\left( 1 - X \\right) \\ \\times$ 基础饲粮能值 $] / X ^ { [ 1 0 ] }$ 。式中： $X$ 为待测精饲料替代基础饲粮供能饲料的百分率；能值包括消化能和代谢能。$D E { = } G E { - } F E ;$ $C H _ { 4 } E { = } C H _ { 4 } P { \\times } 3 9 . 5 4 / 1 \\ 0 0 0 ^ { [ 1 1 ] } ;$ （204号$M E { = } G E { - } \\ : \\ : ( F E { + } U E { + } C H _ { 4 } E ) ;$ （2$U E { = }$ 滴加尿液的滤纸能值一滤纸能值。式中： $D E$ 为消化能（ $\\mathrm { M J / k g } \\rangle$ ； $_ { G E }$ 为总能（ $\\mathrm { M J / k g } )$ ；FE为粪能（ $\\mathrm { M J / k g } )$ ； $C H _ { 4 } E$ 为甲  \n烷能（ $\\mathrm { \\Delta \\cdot ( M J / k g ) }$ ； $C H _ { 4 } P$ 为甲烷产量（ $\\mathrm { { \\ L / k g } } ^ { \\prime }$ ； $M E$ 为代谢能（ $\\mathrm { M J / k g } \\mathrm { , }$ )；UE为尿能（ $\\mathrm { \\Delta \\ M J / k g ) }$ 。  \n1.6数据处理试验数据采用Excel进行初步处理后，采用SAS9.2统计软件中的Correlate 过程对饲料的概略养分、可消化养分、能值等进行相关分析，用Regression 过程进行回归分析，建立预测方程。  \n2结果与分析  \n2.1精饲料的消化能和代谢能  \n通过消化代谢试验和呼吸代谢试验结合套算法得出小麦的消化能最高，为14.11MJ/kg，菜籽粕的消化能最低，为 $8 . 9 8 \\mathrm { M J / k g }$ ；花生粕的代谢能最高而菜籽粕最低,分别是 $1 2 . 1 8 \\mathrm { M J / k g }$ 和 $6 . 6 5 \\mathrm { M J / k g }$ (表2)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6b84e71b3b61556b5b960707ba833cc181c8e1592ae25ef850e24484baa0ba9.jpg",
+        "table_caption": [
+            "Table 2DE and ME of concentrates "
+        ],
+        "table_footnote": [
+            "101 2.2 精饲料概略养分与能值相关性分析 "
+        ],
+        "table_body": "<html><body><table><tr><td>项</td><td>燕麦</td><td>大麦</td><td>小麦</td><td>高梁</td><td>玉米</td><td>豆粕 Soybean</td><td>菜籽粕</td><td>棉籽粕</td><td>花生粕</td><td>干酒糟及其</td></tr><tr><td>ItemS</td><td>Oat</td><td>Barley</td><td>Wheat</td><td> Sorghum</td><td>Corn</td><td>meal</td><td>Rapeseed meal</td><td>Cottonseed meal</td><td>Peanut</td><td>可溶物 DDGS</td></tr><tr><td>5 采食量Intake/（g/d）</td><td>1 118.28</td><td>1 114.32</td><td>1 109.64</td><td>1 119.24</td><td>1 109.28</td><td>1 114.32</td><td>1 112.04</td><td>1 116.48</td><td>meal 1 103.04</td><td>1 109.4</td></tr><tr><td>粪排量 Fecal output/ （g/d)</td><td>407.16</td><td>429.75</td><td>345.17</td><td>394.66</td><td>401.74</td><td>457.80</td><td>502.74</td><td>416.31</td><td>433.55</td><td>462.07</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.06</td><td>10.36</td><td>14.11</td><td>12.53</td><td>12.52</td><td>11.13</td><td>8.98</td><td>12.56</td><td>12.18</td><td>11.82</td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>9.59</td><td>10.36</td><td>11.18</td><td>8.65</td><td>10.08</td><td>7.68</td><td>6.65</td><td>10.34</td><td>12.18</td><td>10.50</td></tr><tr><td>消化能/代谢能 DE/ME</td><td>0.73</td><td>0.75</td><td>0.79</td><td>0.69</td><td>0.81</td><td>0.69</td><td>0.74</td><td>0.82</td><td>0.86</td><td>0.89</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "将精饲料概略养分与通过套算法得出的消化能和代谢能进行相关分析，得出精饲料的代谢能与概略养分无相关性（ $_ { , P > 0 . 0 5 ) }$ ；精饲料的消化能与酸性洗涤纤维含量达到显著相关（ $P$ $< 0 . 0 5 \\$ ，与有机物含量达到极显著相关（ $\\cdot P { < } 0 . 0 1$ ）(表3)。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/19d7082edfca35abe46bb722ebec49432989927ece302b024014ca9084872580.jpg",
+        "table_caption": [
+            "表2精饲料的消化能和代谢能",
+            "表3精饲料概略养分与消化能或代谢能的相关性分析",
+            "Table 3Correlation between proximate nutrients and DE or ME of concentrates "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>干物质 DM</td><td>有机物 OM</td><td>总能 GE</td><td>粗蛋白质 CP</td><td>中性洗涤 纤维</td><td>酸性洗涤 纤维</td><td>粗脂肪 EE</td></tr><tr><td></td><td>-0.254</td><td>0.399**</td><td>0.269</td><td>-0.254</td><td>NDF -0.049</td><td>ADF -0.306*</td><td>0.069</td></tr><tr><td>消化能DE 代谢能ME</td><td>-0.159</td><td>0.213</td><td>0.018</td><td>-0.053</td><td>0.018</td><td>-0.197</td><td>0.176</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*表示极显著相关 $( P { < } 0 . 0 1 )$ ，\\*表示显著相关（ $. P { < } 0 . 0 5 )$ 。表4同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\*\\* mean extremely significant coloration（ $P { < } 0 . 0 1$ ），\\* mean significant coloration( $P <$ 05）.The same as Table 4. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "110 2.3精饲料可消化养分与代谢能的相关性分析 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "111 将可消化养分与消化能和代谢能分别进行相关性分析，得出代谢能与消化能及可消化干  \n112 物质（DDM）和可消化有机物（DOM）含量呈极显著相关（ $\\cdot P { < } 0 . 0 1$ ）(表4)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c8c63e6412d81a01ffb1c4709b53de1dd0e3e46873b7ddf4c151996b2767458.jpg",
+        "table_caption": [
+            "Table 4 Correlation between digestible nutrients and ME of concentrate "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td>消化能 DE</td><td>可消化 干物质</td><td>可消化 有机物</td><td>可消化 粗蛋白质</td><td>可消化中性 洗涤纤维</td><td>可消化酸性 洗涤纤维</td></tr><tr><td></td><td></td><td>DDM</td><td>DOM</td><td>DCP</td><td>NDF</td><td>ADF</td></tr><tr><td>消化能 DE</td><td>1.000</td><td>0.860**</td><td>0.851**</td><td>0.042</td><td>-0.141</td><td>-0.191</td></tr><tr><td>代谢能 ME</td><td>0.877**</td><td>0.622**</td><td>0.605**</td><td>0.115</td><td>-0.054</td><td>-0.232</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4精饲料代谢能预测方程的建立",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当消化能作为代谢能的唯一预测因子时，预测方程的决定系数为0.770；当同时使用DOM和消化能对代谢能进行预测，方程的 $R ^ { 2 }$ 达到0.842（表5）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/78bd6be026019c75ad1f3bf49c80b6dc704ce748dd60efc9d15201ab96fff066.jpg",
+        "table_caption": [
+            "表4精饲料可消化养分与消化能代谢能的相关分析 ",
+            "表5应用可消化营养物质计算精饲料代谢能的预测方程",
+            "Table 5Prediction of ME of concentrate from digestible nutrients "
+        ],
+        "table_footnote": [
+            "ME为代谢能， $D E$ 为消化能，DDM为可消化干物质，DCP为可消化粗蛋白质；DOM为可消化有机，DADF为可消化酸性洗涤纤维。"
+        ],
+        "table_body": "<html><body><table><tr><td>编号 No.</td><td>预测方程Prediction equation</td><td>R²</td><td>P值 P-value</td></tr><tr><td>1</td><td>DE=3.780+11.570DDM</td><td>0.740</td><td><0.001</td></tr><tr><td>2</td><td>DE=2.876+12.262DDM+1.985DCP</td><td>0.776</td><td><0.001</td></tr><tr><td>3</td><td>DE=2.918+11.787DOM+2.780DCP</td><td>0.791</td><td><0.001</td></tr><tr><td>4</td><td>ME=-1.473+0.901DE</td><td>0.770</td><td><0.001</td></tr><tr><td>5</td><td>ME=-2.105+1.349DE-6.577DOM</td><td>0.842</td><td><0.001</td></tr><tr><td>6</td><td>ME=-2.077+1.365DE-1.154DDM-5.590DOM</td><td>0.842</td><td><0.001</td></tr><tr><td>7</td><td>ME=-1.907+1.344DE-1.321DDM-5.347DOM-2.093DADF</td><td>0.843</td><td>0.008</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ME was metabolizable energy, DE was digestible energy,DDM was digestible DM,DCP was digestible CP, DOMwas digestible OM,and DADF was digestible ADF. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于我国复杂的地理环境和传统的饲养管理方式，造成家畜的饲粮结构复杂多变，因此充分熟知各类饲料的营养价值和营养特性以及家畜的利用状况，准确地测出饲料的营养成分，正确地评价饲料的营养价值，对合理利用饲料资源、提高饲料转化效率具有非常重要的意义。代谢能可以真实地衡量反刍动物对饲料的利用情况，以代谢能为基础配制反刍动物饲料配方更能提高饲料的利用效率。但是代谢能测定需要特定的气体测定系统和收集装置，使得代谢能的测定难以进行，所以大多营养成分表中的代谢能值多为推测值，真实性有待进一步验证。预测模型的提出为代谢能的计算应用提供了新的方向，前人研究多通过一种饲料不同产地进行相关性分析，建立预测模型，本试验与以往试验不同的是饲料原料取材范围很大，选取10 种精饲料原料进行预测方程的建立，所建立的模型适用范围比较广泛。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1精饲料概略养分与代谢能之间的关系",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "《中国饲料成分及营养价值表》给出了肉羊常用的各种精饲料的概略养分以及消化能，试验前期通过分析几种精饲料原料的概略养分和消化能之间的关系发现，饲料中的粗蛋白质、酸性洗涤纤维和粗脂肪含量与代谢能的相关性均达到显著水平，但是粗蛋白质和干物质和消化能却呈现负相关，由于表中给出的消化能是推测值而不是实测值，因此消化能与饲料概略养分之间的关系需要进一步用试验验证。在反刍动物上代谢能比消化能更准确，但代谢能的测定对于生产中绝大部分是不切实际的，因此实际测定出动物的代谢能，用饲料的概略养分建立代谢能的预测模型，进行代谢能的预测是符合生产实际情况的，另外，某一种饲料或者混合饲料中所含的营养成分不一样，其消化率也会有一定差异，最终直接影响饲料的有效能值。实用、快捷、切合实际是预测模型的特点，所以在国际上应用也比较广泛[12-15]。在单胃动物上何英[16]通过预测模型测定了猪饲料中糠麸糟渣、饼粕类饲料的有效能值，刘德稳[10]通过套算法建立了生长猪常用饲料的净能的预测方程,还有一些研究者通过原料的概略养分建立了DDGS、菜籽类、棉籽类等原料有效能值的预测模型[17-19]。反刍动物饲料代谢能的测定有体内法、体外法、半体内法和预测法等，本试验采用的是体内法结合套算法，实际测定了10 种不同精饲料组成的饲粮消化能和代谢能，试图通过套算法建立用饲料概略养分来预测精饲料消化能和代谢能的预测方程，然而本试验结果中精饲料的概略养分与代谢能没有相关性，无法得出用概略养分预测精饲料代谢能的方程。分析原因有可能有以下几方面，首先是因为每种饲料原料可真实利用的营养成分不同，而且不同的饲料原料可能含有不同的抗营养成分，因此每种原料的最佳预测因子也会不同[20-21]，仅仅通过饲料的概略养分很难对饲料的代谢能进行预测；再者配制的饲粮中饲料其他原料成分可能与试验目标精饲料有互作效应影响了概略养分与消化能和代谢能之间的相关性[4I；另外则是因为反刍动物自身生理特点的影响，通过实验室的概略测定可以得出原料的概略养分含量，概略养分划分是通过物理办法将饲料中的养分进行粗略的归类，然而反刍动物复杂而独特的消化生理结构，可消化利用的并不是原料中原本的养分含量，而是经过微生物发酵转化过后所产生的养分和能量，因此较单胃动物更难直接通过原料的概略养分与原料的有效能建立直接的联系。在反刍动物上有研究者建立过配合饲料的预测模型[1]，与本试验相比其成功的原因是因为饲料组成的原料单一，实质是饲料中各种养分结构类型稳定，所以动物消化发酵过程稳定，较本试验更容易出结果，后期再做原料代谢能预测模型时，可以考虑将营养结构相似的原料进行拟合，可能会出现理想的结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2用可消化养分建立代谢能的预测模型",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "单胃动物在原料上或者反刍动物在配合饲料上，不少研究者建立了许多用概略养分预测有效能的预测模型，这些预测模型用起来固然简单快速，但是营养成分相同的饲料也会因结构的不同最终导致养分的消化率有所差异，比如某些饲料中含有特定的抗营养因子，这些因子则会影响到饲料的某种养分消化率，最终导致用饲料概略养分作为预测因子进行饲料有效能的预测的准确性出现偏差。饲料中可消化养分是动物真实利用的养分，在预测方程中引入可消化养分，预测模型的准确性得到了明确的提升。有研究表明，饲料中的可消化养分与其代谢能有明显的相关性，可以以可消化养分作为预测因子来预测饲料的代谢能[22-24]，早期的可消化养分预测方程多由粗纤维和其他可消化养分组成[25],随着研究方法的改进粗纤维逐渐由洗涤纤维代替，方程的准确性也逐渐提高，结构较为复杂，但预测准确；代谢能是消化能进一步精简后得到的衡量动物代谢的能值，生产实践中通常用消化能乘以系数0.82来预测代谢能[26]，一些学者在反刍动物上也建立了用消化能预测代谢能的预测方程[27]结构简单，较为实用。本试验中用可消化养分和消化能对饲料的代谢能就行预测，发现随着预测因子的增多方程的准确性逐渐提高，但3个因子以后方程的准确性提高并不明显。在实际应用中，不仅要考虑方程的准确性还要考虑方程的实用性，因此用消化能和有机物作为预测因子的预测方程最为实用。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 对于肉羊，精饲料的消化能和酸性洗涤纤维含量与消化能之间的相关性达到显著水平，有机物含量与消化能相关性达到极显著水平，精饲料的概略养分与代谢能均未不存在显著相关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 用可消化养分建立代谢能的预测方程为：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ME=-1.907+1.344DE+1.321DDM-5.347D0M-2.093DADF( $R ^ { 2 } { = } 0 . 8 4 5$ ， $n { = } 6 0$ $P { < } 0 . 0 1$ ）ME=-2.105+1.349DE-6.577DOM( $R ^ { 2 } { = } 0 . 8 4 2$ ， $n { = } 6 0$ ， $P { < } 0 . 0 1$ ）。[ME为代谢能(MJ/kg)，DE为消化能（ $\\mathbf { \\nabla } \\mathrm { M J / k g } \\dot { }$ )，DDM为可消化干物质 $( \\%$ )，DOM为可消化有机物 $( \\% )$ ，DADF为可消化酸性洗涤纤维 $( \\% )$ 。]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \n[1]刘洁,刁其玉,赵一广,等.肉用绵羊饲料养分消化率和有效能预测模型的研究[J].畜牧兽医 学报,2012,43(8):1230-1238.   \n[2]冯仰廉,陆治年.奶牛营养需要和饲料成分[M].3版.北京:中国农业出版社,2007.   \n[3]NOBLET J,PEREZ JM.Prediction of digestibility of nutrients and energy values of pig diets from chemical analysis[J].Journal of Animal Science,1993,71(12):3389-3398.   \n[4]LE GOFF G,NOBLET J.Comparative total tract digestibility of dietary energy and nutrients in growing pigs and adult sows[J].Journal of Animal Science,2001,79(9):2418-2427.   \n[5]ANDERSON P V,KERR B J,WEBER T E,et al.Determination and prediction of digestible and metabolizable energy from chemical analysis of corn coproducts fed to finishing pigs[J].Journal of Animal Science,2012,90(4):1242-1254.   \n[6]DENG K D,DIAO Q Y,JIANG C G,et al.Energy requirements for maintenance and growth of Dorper crossbred ram lambs[J].Livestock Science,2012,150(1/2/3):102-110.   \n[7]GALVANI D B,PIRES C C,KOZLOSKI G V,et al.Energy requirements of Texel crossbred lambs[J].Journal of Animal Science,2008,86(12):3480-3490.   \n[8]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007. [9]ADELOA O.Digestion and balance techniques in pigs[M]//EWIS A J,LEE SOUTHERN L.Swine nutrition.2nd ed.Washington,D.C.:CRC Press,2001:906.   \n[10]刘德稳.生长猪常用七种饲料原料净能预测方程[D].博士学位论文.北京:中国农业大 学,2014.   \n[11]杨嘉实,冯仰廉.畜禽能量代谢[M].北京:中国农业出版社,2004.   \n[12]THERIEZ M,CASTRILLO C,VILLETTE Y.Influence of metabolizable energy content of the diet and of feeding level on lamb performances I .Utilization of metabolizable energy for ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "growth and fattening[J].Livestock Production Science,1982,9(4):487-500.   \n[13]JUST A,JORGENSEN H,FERNANDEZ JA.Prediction of metabolizable energy for pigs on the basis of crude nutrients in the feeds[J].Livestock Production Science,1984,11(1):105-128. [14]DEAVILLE E R,HUMPHRIES D J,GIVENS D IWhole crop cereals:2.Prediction of apparent digestibility and energy value from in vitro digestion techniques and near infrared reflectancespectroscopyand ofchemical composition by near infrared reflectance spectroscopy[J].Animal Feed Science and Technology,2009,149(1/2):114-124.   \n[15]LOSADA B,GARCIA-REBOLLAR P,ALVAREZ C,et al.The prediction of apparent metabolisable energy content of oil seeds and oil seed by-products for poultry from its chemical components,in vitro analysis or near-infrared reflectance spectroscopy[J].Animal Feed Science and Technology,2010,160(1/2):62-72.   \n[16]何英.糠麸糟渣、饼粕类饲料猪有效能预测模型的研究[D].硕士学位论文.雅安:四川农 业大学,2004.   \n[17]朱良,贺喜,李敏,等.生长猪棉籽粕消化能的评定及估测模型研究[J].动物营养学 报,2013,25(4):819-826.   \n[18]张志虎,唐受文,王思宇,等.麦麸猪消化能与能量消化率预测方程的建立[J].动物营养学 报,2012,24(10):1903-1911.   \n[19]李婷婷,蔡辉益,闫海洁,等.玉米干酒糟及其可溶物家禽表观代谢能预测模型[J].动物营 养学报,2014,26(6):1556-1562.   \n[20]FAIRBAIRN S L,PATIENCE JF,CLASSEN H L,et al.The energy content of barley fed to growing pigs:characterizing the nature of its variability and developing prediction equations for its estimation[J].Journal of Animal Science,1999,77(6):1502-1512.   \n[21]OLUKOSI O A,ADEOLA O.Estimation of the metabolizable energy content of meat and bone meal for swine[J].Journal of Animal Science,2009,87(8):2590-2599.   \n[22]ABATE A L,MAYER M.Prediction of the useful energy in tropical feeds from proximate composition and in vivo derived energetic contents 1.Metabolisable energy[J].Small Ruminant Research,1997,25(1):51-59.   \n[23]DETMANN E,FILHO S C V,PINA D S,et al.Prediction of the energy value of cattle diets   \nbased on the chemical composition of the feeds under tropical conditions[J].Animal Feed Science   \nand Technology,2008,143(1/2/3/4):127-147.   \n[24]YAN T,AGNEW R E.Prediction of nutritive values in grass silages: I .Nutrient digestibility   \nand energy concentrations using nutrient compositions and fermentation characteristics[J].Journal   \nof Animal Science,2004,82(5):1367-1379.   \n[25]VAN ES A J H.Feed evaluation for ruminants.I .The systems in use from may   \n1977-onwards in The Netherlands[J].Livestock Production Science,1978,5(4):331-345.   \n[26]NRC.Nutrient requirementsofsmall ruminants:sheep,goats,cervidsand newword   \ncamelids[S].Washington,D.C.:National Academy Press,2007.   \n[27]STERGIADIS S,ALLEN M,CHEN X J,et al.Prediction of metabolisable energy   \nconcentrations of fresh-cut grass using digestibility data measured with non-pregnant   \nnon-lactating cows[J].British Journal of Nutrition,2015,113(10):1571-1584. Establishment of Prediction Model of Metabolizable Energy of Concentrate for Mutton Sheep by Substitution Method² ZHAO Jiangbo1.2WEI Shilai1\\*MA Tao²XIAO $\\mathrm { Y i } ^ { 2 }$ DING Jingmei² LI Lanjie²FENG Wenxiao² JIA Peng² ZHAO Mingming² DIAO Qiyu2\\* (1. Collge of Animal Science and Technology, Gansu Agricultural University, Lanzhou 730070, China; 2. Feed Research Institute, Chinese Academy of Agricultural Sciences, Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Beijing 100081, China) Abstract: This experiment was conducted to establish prediction model of metabolizable   \nenergy of concentrate for mutton sheep by substitution method. Sixty-six castrated   \nDorperxthin-tailed Han $\\mathrm { F } _ { 1 }$ rams $[ ( 4 9 . 6 { \\pm } 1 . 3 ) \\mathrm { k g } ) ]$ were randomly assigned into 1l groups (1 basal   \ndiet group and 10 experimental diet groups) with 6 rams per group. Digestion and metabolism trial   \n(8 days) and respirometry trial (3 days) combined with substitution method were conducted to   \nmeasure digestible energy and metabolizable energy of 10 concentrates， and to establish the models between metabolizable energy and proximate nutrients or digestible nutrients. The results showed as follows,1） gross energy $( P { < } 0 . 0 5 )$ ，acid detergent fiber content $( P { < } 0 . 0 5 )$ , and organic matter content $( P { < } 0 . 0 1 )$ ）had significant correlations with digestible energy； the proximate nutrients had no correlation with ME ( $( P { > } 0 . 0 5 )$ . 2) Digestible nutrients had significant correlations with metabolizableenergy （204号 $\\begin{array} { r l r } { ( P } & { { } < } & { 0 . 0 1 ) } \\end{array}$ ，and theequations as follows: ME=-1.907+1.344DE+1.321DDM-5.347DOM-2.093DADF 0 $R ^ { 2 } { = } 0 . 8 4 5$ ， $n { = } 6 0$ ， （20 $\\scriptstyle P < 0 . 0 1 { \\dot { } } _ { , }$ ME=-2.105+1.349DE-6.577DOM（ $R ^ { 2 } { = } 0 . 8 4 2$ ， $n { = } 6 0$ ， $P { < } 0 . 0 1 \\$ ） $[ M E$ was metabolizable energy (MJ/kg),DE was digestible energy $\\mathrm { ( M J / k g ) }$ ，DDM was digestible dry matter $( \\% )$ ， DOM was digestible organic matter $( \\% )$ , and DADF was digestible acid detergent fiber $( \\% ) . ]$ In conclusion, it is unsuitable to predict metabolizable energy using the proximate nutrients, while it is accurate to predict metabolizable energy using digestible nutrients of concentrate.   \nKey words: muton sheep; concentrate； digestible energy； metabolizable energy； digestible nutrients; prediction model ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

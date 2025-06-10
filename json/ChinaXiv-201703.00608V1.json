@@ -1,0 +1,543 @@
+[
+    {
+        "type": "text",
+        "text": "Determining the upper limit of $\\Gamma _ { e e }$ for the Y(4260) ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X.H. Mo $^ { \\mathrm { a } * }$ ,G. Li $^ { \\mathrm { a , b } }$ , C.Z. Yuan a,K.L. He a, H.M. Hu a, J.H. Hu $^ { \\mathrm { a , c } }$ , P. Wang $\\mathbf { a }$ , Z.Y. Wang $\\mathbf { a }$ $\\mathbf { a }$ Institute of High Energy Physics,P.O.Box 918,Beijing 100049,China $^ \\mathrm { b }$ China Center of Advanced Science and Technology, Beijing 10o08o, China $\\mathrm { ~ c ~ }$ Collge of Physics and Information Technology, Guangxi Normal University, Guilin 54l004, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "By fitting the $R$ values between 3.7 and 5.0 GeV measured by the BES collaboration,the upper limit of the electron width of the newly discovered resonance $Y ( 4 2 6 0 )$ is determined to be 240 eV at $9 0 \\%$ C.L.，together with the BABAR measurement on $\\Gamma _ { e e } \\cdot B ( Y ( 4 2 6 0 ) \\to \\pi ^ { + } \\pi ^ { - } J / \\psi )$ ),this implies a large decay width of $Y ( 4 2 6 0 ) $ $\\pi ^ { + } \\pi ^ { - } J / \\psi$ final states. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, in studying the initial state radiation events, $\\begin{array} { l } { { e ^ { + } e ^ { - } } } \\end{array} \\to \\begin{array} { l } { { \\gamma _ { I S R } \\pi ^ { + } \\pi ^ { - } J / \\psi } } \\end{array}$ $( \\gamma _ { I S R }$ ： initial state radiation photon） with $2 3 3 ~ \\mathrm { \\ f b ^ { - 1 } }$ data collected around $\\begin{array} { r l r } { \\sqrt { s } } & { { } = } & { 1 0 . 5 8 \\mathrm { G e V } } \\end{array}$ 5 BABAR collaboration observed an accumulation of events near $4 . 2 6 \\ : \\ : \\mathrm { \\ G e V } / c ^ { 2 }$ in the invariantmass spectrum of $\\pi ^ { + } \\pi ^ { - } J / \\psi$ [1].The fit to the mass distribution yields $1 2 5 \\pm 2 3$ events with a mass of $4 2 5 9 \\pm 8 _ { - 6 } ^ { + 2 } \\mathrm { M e V } / c ^ { 2 }$ and a width of $8 8 \\pm 2 3 _ { - 4 } ^ { + 6 } \\mathrm { M e V } / c ^ { 2 }$ .In addition,the following product iscalculated ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Gamma ( Y ( 4 2 6 0 ) \\to e ^ { + } e ^ { - } ) \\cdot \\mathcal { B } ( Y ( 4 2 6 0 ) \\to \\pi ^ { + } \\pi ^ { - } J / \\psi ) ) } \\\\ & { } \\\\ & { = 5 . 5 \\pm 1 . 0 _ { - 0 . 7 } ^ { + 0 . 8 } \\mathrm { e V } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since the resonance is produced in initial state radiation from $e ^ { + } e ^ { - }$ collision, its quantum number $J ^ { P C } = 1 ^ { -- }$ . However, this new resonance seems rather different from the known charmonium states with $J ^ { P C } = 1 ^ { -- }$ in the same mass scale, such as $\\psi ( 4 0 4 0 )$ ， $\\psi ( 4 1 6 0 )$ ,and $\\psi ( 4 4 1 5 )$ . Being well above the $D \\overline { { D } }$ threshold,instead of decaying predominantly into $D ^ { ( * ) } \\bar { D } ^ { ( * ) }$ final states, the $Y ( 4 2 6 0 )$ shows strong coupling to $\\pi ^ { + } \\pi ^ { - } J / \\psi$ final state. So this new resonance does not seem to be a usual charmonium state. The strange properties exhibited by the $Y ( 4 2 6 0 )$ have triggered many theoretical discussions [2]-[12]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One suggestion is that the $Y ( 4 2 6 0 )$ is the first orbital excitation of a diquark-antidiquark state $( [ c s ] [ \\bar { c } \\bar { s } ] )$ [2,3].By virtue of this scheme, the mass of such a state is estimated to be $4 . 2 8 ~ \\mathrm { G e V } / c ^ { 2 }$ which is in good agreement with the observation. A crucial prediction of the scheme is that the $Y ( 4 2 6 0 )$ decays predominantly into $D _ { s } \\bar { D } _ { s }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Another opinion favors hybrid explanation [4- 7].In the light of the lattice inspired flux-tube model, the calculation shows that the decays of hybrid meson are suppressed to pairs of ground state $1 S$ conventional mesons [13,14]. This implies that decays of $Y ( 4 2 6 0 )$ into $D \\bar { D }$ ， $D _ { s } \\bar { D } _ { s }$ and $D _ { s } ^ { * } \\bar { D } _ { s } ^ { * }$ are suppressed whereas $D ^ { * } \\bar { D }$ and $D _ { s } ^ { * } D _ { s }$ are small,and $D ^ { * * } D$ ，if above threshold, would dominate ( $P$ -wavecharmonia are denoted by $D ^ { * * }$ ).So it is interesting to search for the possible decay of $Y ( 4 2 6 0 )  D _ { 1 } ( 2 4 2 0 ) \\bar { D }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The third interpretation we like to mention is provide by Ref. [8]，which suggests that the $Y ( 4 2 6 0 )$ is the second most massive state in charmonium family. The author ascribes the lack of $Y ( 4 2 6 0 )$ in $e ^ { + } e ^ { - } \\to$ hadrons to the interference of $S$ # $\\mathcal { D }$ waves,and also estimates ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma ( Y ( 4 2 6 0 )  e ^ { + } e ^ { - } ) \\simeq 0 . 2 - 0 . 3 5 \\ \\mathrm { k e V } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Besides the above interpretations,there are other kinds of proposals. The lattice study in Ref.[9] suggests that the $Y ( 4 2 6 0 )$ behaves like a $D _ { 1 } D$ molecule.In Ref.[1O],it is proposed that the new state might be a baryonium,containing charms,configured by the $\\Lambda _ { c }$ 1 $\\overline { { \\Lambda } } _ { c }$ .In Ref. [11], the $Y ( 4 2 6 0 )$ is considered as $\\rho$ $\\chi _ { c 1 }$ molecule while in Ref. [12], the $Y ( 4 2 6 0 )$ is considered as $\\omega { - } \\chi _ { c 1 }$ molecule.However,all aforementioned speculations need further experimental judgment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most recently, CLEOc collected $1 3 . 2 \\mathrm { p b } ^ { - 1 }$ data at $\\sqrt { s } ~ = ~ 4 . 2 6$ GeV and investigated 16 decay modes with charmonium or light hadrons [15], and the channels with more than $3 \\sigma$ statistical significance are $\\pi ^ { + } \\pi ^ { - } J / \\psi$ $( 1 1 \\sigma )$ ， $\\pi ^ { 0 } \\pi ^ { 0 } J / \\psi$ $( 5 . 1 \\sigma )$ ，and $K ^ { + } K ^ { - } J / \\psi$ (3.7g). No compelling evidence is found for any other decay modes for the $Y ( 4 2 6 0 )$ ，neither for the $\\psi ( 4 0 4 0 )$ and $\\psi ( 4 1 6 0 )$ resonances [15]. These measurements disfavor the $\\rho$ 1 $\\chi _ { c 1 }$ molecular model [11],baryonium model [1O],and high charmonium state explanation [8]. So far as other survived speculations are concerned,such as charmonium hybrid [4-7], tetraqark model [2,3], $D _ { 1 } D$ molecule suggestion,and $\\omega$ 1 $\\chi _ { c 1 }$ molecule explanation [12], further experimental studies are needed to make more definitive conclusions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the $Y ( 4 2 6 0 )$ was observed in $e ^ { + } e ^ { - }$ annihilation，it is expected that it contributes to the total hadronic cross section in $e ^ { + } e ^ { - }$ annihilation (or $R$ values in other words).The most recent such data on $R$ measurements are from the BES experiment [18,19],as shown in Fig.1 for $E _ { c . m . } ( = \\sqrt { s } )$ from 3.7 to 5.0 GeV.If we look in detail within the range from 4.25 to 4.30 GeV (refer to the inset of Fig.1),it seems there is a bump around 4.27 GeV.Has this structure connection with the $Y ( 4 2 6 0 )$ ?We try to answer this question in this Letter.As there are other resonances nearby,we shall fit the full spectrum between 3.7 to 5.0 GeV in order to get the information on the （204号 $Y ( 4 2 6 0 )$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Fit the $\\psi$ -resonances ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $R$ values [18,19] used in this analysis were measured with the Beijing Spectrometer (BESII), which is a conventional solenoidal detector expounded in Ref.[16].In the analysis below, the $R$ values are converted into cross section $\\sigma ( e ^ { + } e ^ { - } )$ by multiplying the Born order cross section of $e ^ { + } e ^ { - } \\to \\mu ^ { + } \\mu ^ { - }$ .These cross sections are plotted in Fig.2. There are clear peaks of $\\psi ( 3 7 7 0 )$ $\\psi ( 4 0 4 0 )$ ， $\\psi ( 4 1 6 0 )$ ,and $\\psi ( 4 4 1 5 )$ . The data points have been used to obtained the parameters of the $\\psi$ -resonances [17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1aa9546fc04bf4db48c6790aaa78044cf0083c5e30f988367a21effb0ee5c605.jpg",
+        "img_caption": [
+            "Figure 1. $R$ values for $E _ { c . m }$ .from 3.7 to 5.0 GeV measured by the BES collaboration [18,19]. The inset shows the $R$ values in the vicinity of the $Y ( 4 2 6 0 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To acquire the resonance parameters,we could simply fit the data set with cross section formula, each resonance with a Breit-Wigner ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { j } ( s ) = \\frac { 1 2 \\pi \\Gamma _ { h } ^ { j } \\Gamma _ { e e } ^ { j } } { [ s - ( M ^ { j } ) ^ { 2 } ] ^ { 2 } + ( M ^ { j } \\Gamma _ { t } ^ { j } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\Gamma _ { e e }$ ， ${ \\Gamma } _ { h }$ ，and $\\Gamma _ { t }$ are the mass independent electronic，hadronic and total widths，respectively, for a vector resonance of mass $M$ produced in the head-on collision of $e ^ { + }$ and $e ^ { - }$ . Notice that $\\Gamma _ { e e } \\ll \\Gamma _ { t }$ in our analysis,the approximation $\\Gamma _ { h } \\approx \\Gamma _ { t }$ isactuallyadopted hereinafter. The summation of all the cross sections within the range we are studying is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 1 } ( s ) = \\sum _ { j = 1 } ^ { 4 } \\sigma _ { j } ( s ) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where indices 1,2,3,and4 denote fourresonances $\\psi ( 3 7 7 0 )$ ， $\\psi ( 4 0 4 0 )$ ， $\\psi ( 4 1 6 0 )$ ，and $\\psi ( 4 4 1 5 )$ ，respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9e4b1a017e0a50364ee415867bc31226f5ba90b5bb39f524d3b2bffae1870ef.jpg",
+        "img_caption": [
+            "Figure 2.Total hadronic cross section in nb obtained as $\\sigma ( e ^ { + } e ^ { - }  \\mathrm { h a d r o n s } ) = R \\cdot 8 6 . 8 5 / s$ (s in $\\mathrm { G e V ^ { 2 } }$ ）from $R$ values in Refs.[18,19]. Three sets of fit results,Fit 1,Fit 2,and Fit 3 correspond to three cross section forms $o _ { 1 }$ ， $\\sigma _ { 2 }$ ，and （204号 $\\sigma _ { 3 }$ as described in text.Two interference curves have been moved downward by 5 nb for display purpose,the dashed line at $- 5$ nb corresponds to zero cross section in the fit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the $\\psi$ -family resonance region,if we assume that all two-body $D ^ { ( * ) } \\bar { D } ^ { ( * ) }$ states are decay products of resonance,and not produced directly in continuum，we could therefore treat resonance and continuum incoherently. Nevertheless，for the four wide resonances,they are close and are expected to have some same decay final states, there must be interference between any two of the resonances.Therefore the amplitudes corresponding to each resonance,with the following form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { j } ( s ) = \\frac { \\frac { 1 } { 2 } \\sqrt { 1 2 \\pi \\Gamma _ { h } ^ { j } \\Gamma _ { e e } ^ { j } } } { [ s - ( M ^ { j } ) ^ { 2 } ] + i M ^ { j } \\Gamma _ { t } ^ { j } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "have to be added coherently to give the total amplitude that,once squared,will contain interferences of the type $\\Re T _ { i } ^ { * } T _ { j }$ ．If the resonances are quite broad, the interference effect can also distort the resonance shape,the width might appear broader or narrower,and the position of the peak can be displaced as well.In this case,the total cross section ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 2 } ( s ) = \\left| \\sum _ { j = 1 } ^ { 4 } T _ { j } ( s ) \\right| ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $T _ { j } ( s )$ is given in Eq. (5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "So far as amplitude is concerned,in principle, there are presumably relative phases between different amplitudes besides the phase due to complex Breit-Wigner formula itself. So a more comprehensive total cross section would be the summation of amplitudes together with an additional phase,viz. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { 3 } ( s ) = \\left| \\sum _ { j = 1 } ^ { 4 } T _ { j } ( s ) e ^ { - i \\phi _ { j } } \\right| ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since what we actually obtain is the module square of amplitudes,only three relative phases could be detected in practice. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The standard chi-square estimator is constructed as follows ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi ^ { 2 } = \\sum _ { j = 1 } ^ { n } \\frac { ( \\sigma ^ { e x p } ( s _ { j } ) - \\sigma ^ { t h e } ( s _ { j } ) ) ^ { 2 } } { ( \\Delta \\sigma ^ { e x p } ( s _ { j } ) ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma ^ { e x p } ( s _ { j } )$ indicates the experimentally measured cross section at the $j$ -th energy point,while $\\sigma ^ { t h e } ( s _ { j } )$ is thecorresponding theoretical expectation at this energy point，which is composed of two parts ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { t h e } ( s _ { j } ) = \\sigma ^ { r e s } ( s _ { j } ) + \\sigma ^ { c o n } ( s _ { j } ) ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma ^ { c o n }$ denotes the contribution from continuum.Since there is little evidence in the data for any substantial variation of the continuum background within the studied energy region,we parameterize the continuum cross section with a linear function ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { b g } ( s ) = A + B ( \\sqrt { s } - 3 . 7 0 0 ) , ( s \\mathrm { ~ i n ~ G e V ^ { 2 } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "as has been used in Ref.[17]. Here we consider the continuum contribution as the background for measurement of resonance parameters,that is $\\sigma _ { b g } ( s ) = \\sigma ^ { c o n } ( s )$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Eq. (9) $\\boldsymbol { \\sigma } ^ { r e s }$ denotes the contribution from resonances.The fit results are displayed in Fig.2 where Fit1,Fit 2,andFit 3 correspond to the three cross section forms $\\sigma _ { 1 }$ ， $\\sigma _ { 2 }$ ，and $\\sigma _ { 3 }$ ，as expressed in Eqs.(4)，(6)，and (7)，respectively. Although the synthetic curves for three fits are almost the same,as we expected,the interference effect deforms each resonance significantly, according to Fig.2, $\\psi ( 3 7 7 0 )$ and $\\psi ( 4 0 4 0 )$ become narrower while $\\psi ( 4 1 6 0 )$ and $\\psi ( 4 4 1 5 )$ becomewiderwhen inference effect included.There exist constructive interferencesaswellasdestructive ones,and the interference behaviors foramplitudes with and without extra phases are also very distinct.The fit results indicate that $\\Gamma _ { e e }$ is very sensitiveto the fit strategy,andthe largest difference between various amalgamation strategies could reach $5 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since $\\psi ( 3 7 7 0 )$ ， $\\psi ( 4 0 4 0 )$ ， $\\psi ( 4 1 6 0 )$ ，and $\\psi ( 4 4 1 5 )$ have similar decay feature, that is,all decay dominantly to $D ^ { ( * ) } \\bar { D } ^ { ( * ) }$ final states,we prefer the synthetic scheme of amplitude with phase which takes into account all possible interactions between resonances.So far as the $Y ( 4 2 6 0 )$ is concerned, the study of BABAR collaboration [1] im plies that this new state may not be a common charmonium state,whose decay feature is rather distinctive from other $\\psi$ -familymembers,and this also obtains support from recent CLEOc measurements [15]. Therefore we add the $Y ( 4 2 6 0 )$ contribution incoherently to the total cross sections in Eqs.(4),(6),or (7).In this scheme,the upper limit of the production of the $Y ( 4 2 6 0 )$ in （20 $e ^ { + } e ^ { - }$ annihilation is determined,as expounded in the following section. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.Determination of $\\Gamma _ { e e }$ of the $Y ( 4 2 6 0 )$ ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Various fits to the data tell us that with limited knowledge on the nature of the resonances and comparativelymeager data,we could only determine the $\\Gamma _ { e e }$ of the $Y ( 4 2 6 0 )$ bya scan method.Specifically， we fix the mass of the $Y ( 4 2 6 0 )$ at $4 . 2 5 9 \\ : \\ : \\mathrm { \\ G e V } / c ^ { 2 }$ measured by BABAR collaboration [1],and scan over the $\\Gamma _ { t } \\in$ (20,180) MeV/ $c ^ { 2 }$ （8 $\\mathrm { M e V } / c ^ { 2 }$ step）and $\\begin{array}{c} { { \\Gamma } _ { e e } } \\in \\mathop {  \\begin{array} { l } { \\mathop {  } \\end{array}  } } \\end{array}$ $( 0 , 5 0 0 ) ~ \\mathrm { e V } / c ^ { 2 }$ （ $\\mathrm { 1 0 ~ e V } / c ^ { 2 }$ step） parameter space. In order to avoid some grotesque fit results due to random effect of the $Y ( 4 2 6 0 )$ on the resonances nearby,in the scan procedure,the lower and upper bounds of the masses (total widths) are fixed to be 4100 and 4220 MeV/ $c ^ { 2 }$ (30 and $2 5 0 \\mathrm { M e V } / c ^ { 2 }$ )and 4350 and $4 5 0 0 \\mathrm { M e V } / c ^ { 2 }$ (30 and $3 0 0 \\ \\mathrm { M e V } / c ^ { 2 }$ ）for $\\psi ( 4 1 6 0 )$ and $\\psi ( 4 4 1 5 )$ ，respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the likelihood as a function of the $\\Gamma _ { t }$ and $\\Gamma _ { e e }$ of the $Y ( 4 2 6 0 )$ ，with the likelihood function defined as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { L } _ { w } ( \\Gamma _ { e e } ^ { i } , \\Gamma _ { t } ^ { j } ) } & { = f _ { N } \\cdot \\mathcal { L } _ { r } ( \\Gamma _ { e e } ^ { i } , \\Gamma _ { t } ^ { j } ) \\times } \\\\ & { \\frac { 1 } { \\sqrt { 2 \\pi } \\sigma _ { \\Gamma _ { t } } } \\exp \\left( - \\frac { ( \\Gamma _ { t } ^ { j } - \\Gamma _ { t } ) ^ { 2 } } { \\sigma _ { \\Gamma _ { t } } ^ { 2 } } \\right) \\ , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { r }   ( \\Gamma _ { e e } ^ { i } , \\Gamma _ { t } ^ { j } ) = \\exp \\left( - \\frac { 1 } { 2 } \\chi ^ { 2 } ( \\Gamma _ { e e } ^ { i } , \\Gamma _ { t } ^ { j } ) \\right) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here the $\\chi ^ { 2 }$ is determined from Eq. (8),and $f _ { N }$ an arbitrary normalization factor. The Gaussian term in Eq.(11) indicates that the measured width of the $Y ( 4 2 6 0 )$ [1] is considered assuming $\\Gamma _ { t } ^ { i }$ distributed as a Gaussian with the mean value $\\Gamma _ { t } = 8 8 ~ \\mathrm { M e V } / c ^ { 2 }$ and the standard deviation $\\sigma _ { \\Gamma _ { t } } = 2 3 . 8 ~ \\mathrm { M e V } / c ^ { 2 }$ . Summing $\\mathcal { L } _ { w } ( \\Gamma _ { e e } ^ { i } , \\Gamma _ { t } ^ { j } )$ with respect to $\\Gamma _ { t } ^ { j }$ , we obtain the variation of ${ \\mathcal { L } } _ { w }$ versus $\\Gamma _ { e e }$ as shown in Fig.3(b).The integral of the likelihood curve gives the upper limit of $\\Gamma _ { e e }$ （20 of the $Y ( 4 2 6 0 )$ at $9 0 \\%$ confidence level (C.L.): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Gamma _ { e e } ^ { Y ( 4 2 6 0 ) } < 2 4 0 ~ \\mathrm { e V } / c ^ { 2 } ~ .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "By virtue of Fig. 3(a), we sum up $\\mathcal { L } _ { w } ( \\Gamma _ { e e } ^ { i } , \\Gamma _ { t } ^ { j } )$ with respect to $\\Gamma _ { e e } ^ { i }$ to $9 0 \\%$ fraction of the total areathenobtaintheupperlimitof(4260) at $9 0 \\%$ C.L. for each $\\Gamma _ { t } ^ { Y ( 4 2 6 0 ) }$ .So we obtain the variation of the upper limit of $\\Gamma _ { e e }$ versus $\\Gamma _ { t }$ as shown in Fig.4.All the points are almost in a straight line,which indicates the ratio of the two quantities,or the upper limit of the branching fraction of $Y ( 4 2 6 0 )  e ^ { + } e ^ { - }$ does not depend on the total width. Take the slope of the straight line in Fig.4, we get ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( Y ( 4 2 6 0 )  e ^ { + } e ^ { - } ) < 2 . 4 \\times 1 0 ^ { - 6 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "at $9 0 \\%$ C.L. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0f27bffef2efcf298758b1342b6645955c7d55a1bbc395423eecf334b68000d.jpg",
+        "img_caption": [
+            "Figure 3. Relative likelihood $( \\mathcal { L } _ { w } )$ distribution with respect to(w.r.t.） $\\Gamma _ { e e }$ and $\\Gamma _ { t }$ (a)；and to （204号 $\\Gamma _ { e e }$ with $\\Gamma _ { t }$ integrated (b). The “N.I.” in (b) indicates normalized integral value for $\\mathcal { L } _ { w }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.Other possibilities ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although it is reasonable to treat the $Y ( 4 2 6 0 )$ as an independent resonance in the fit and all the $\\psi$ -resonances are synthesized by amplitudes with phases,one may argue that other possibilities could exist since there is limited information about the properties of the $Y ( 4 2 6 0 )$ as well as the other $\\psi$ -resonances.Thereby it'sbetterto takea varietyof effects into consideration. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First,there are totally three categories or six schemes for summation of all the resonances in this analysis: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.The cross section of the $Y ( 4 2 6 0 )$ is added directly with the other four resonances which are summed through cross sections, amplitudes,or amplitudes together with relative phases,as we discussed in Sect. 2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f71923ee21c4c957ee08643c94b91568cca4b3803b253d601065a13e0826396.jpg",
+        "img_caption": [
+            "Figure 4. The variation of the upper limit of $\\Gamma _ { e e }$ at $9 0 \\%$ C.L.with respect to $\\Gamma _ { t }$ . The slope of the solid line denotes the averaged ratio $\\Gamma _ { e e } / \\Gamma _ { t } ~ =$ 2.4 × 10-6. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.The amplitude of the $Y ( 4 2 6 0 )$ is synthesized with other four resonances which are combined through amplitudes,or amplitudes together with relative phases. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.The five amplitudes corresponding to resonances $\\psi ( 3 7 7 0 )$ ， $\\psi ( 4 0 4 0 )$ ， $\\psi ( 4 1 6 0 )$ ， $\\psi ( 4 4 1 5 )$ 5 and $\\psi ( 4 2 6 0 )$ ，with relative phasesare summed up to give the final synthetic cross section. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Second,we consider the effect of different background shapes in the fit.In Sect.2,we adopt the first order polynomial to depict the background, nevertheless,higher order polynomial canbe used to delineate the background as well. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition,we notice one background shape once adopted by DASP group,who tried to take into account the threshold effect of the charmed mesons [20], ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { d a s p } = \\sigma _ { e ^ { + } e ^ { - }  \\mu ^ { + } \\mu ^ { - } } \\cdot ( A _ { 0 } + \\sum _ { j = 1 } ^ { 6 } A _ { j } \\beta _ { j } ^ { 3 } F ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = { \\frac { 1 } { 1 - s / ( 3 . 1 \\mathrm { G e V } \\ ) ^ { 2 } } } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { 0 }$ describes the contribution from continuum; $j$ ranging from 1 to 6 indicates the $D \\overline { { D } }$ $D \\bar { D } ^ { * }$ ， $D ^ { * } \\bar { D } ^ { * }$ ， $D _ { s } D _ { s }$ ， $D _ { s } \\bar { D } _ { s } ^ { * }$ ， $D _ { s } ^ { * } D _ { s } ^ { * }$ thresholds, respectively. $A _ { j }$ are free parameters; $\\beta _ { j }$ is the velocity of the relevant particles;and $F$ is a oversimplified form factor defined above. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The fit results show that the effect of polynomial background is at the same level with or smaller than the DASP background,so as an estimation,we adopt the linearand theDASPbackgrounds as two typical cases for background description. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Last，we also consider the possible energydependent $\\Gamma _ { t }$ of the $Y ( 4 2 6 0 )$ .There are arguments in some references [3-6] that the $Y ( 4 2 6 0 )$ may be due to threshold effect just as the $\\psi ( 3 7 7 0 )$ ，so the $\\Gamma _ { t }$ of the $Y ( 4 2 6 0 )$ could be energy dependent as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\Gamma _ { t } ( W ) } & { = \\overline { { \\Gamma } } _ { t } \\cdot \\theta ( W - 2 m _ { D _ { s } ^ { * \\pm } } ) \\times } \\\\ & { \\frac { p _ { D _ { s } ^ { * \\pm } } ^ { 3 } } { 1 + ( r p _ { D _ { s } ^ { * \\pm } } ) ^ { 2 } } \\cdot \\frac { 1 + ( r \\overline { { p } } _ { D _ { s } ^ { * \\pm } } ) ^ { 2 } } { \\overline { { p } } _ { D _ { s } ^ { * \\pm } } ^ { 3 } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here $\\overline { { \\Gamma } } _ { t } = \\Gamma _ { t } ( M )$ ， $W = \\sqrt { s }$ is center-of-mass energy, $r$ the classical interaction radium,and $p$ the （204 $D _ { s } ^ { * \\pm }$ momentum, reads explicitly as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { D _ { s } ^ { * \\pm } } = \\frac { 1 } { 2 } \\sqrt { W ^ { 2 } - 4 m _ { D _ { s } ^ { * \\pm } } ^ { 2 } } \\ ;\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and $\\overline { { p } }$ is the $D _ { s } ^ { * \\pm }$ momentum at resonance peak, viz. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\overline { { { p } } } _ { D _ { s } ^ { * \\pm } } \\equiv p _ { D _ { s } ^ { * \\pm } } \\right| _ { W = M } = \\frac 1 2 \\sqrt { M ^ { 2 } - 4 m _ { D _ { s } ^ { * \\pm } } ^ { 2 } } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "So $\\Gamma _ { t }$ in amplitude expression (5） should be replace by the form expressed in Eq. (16) for the （204号 $Y ( 4 2 6 0 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In a word, considering different summation schemes，background shapes，energy-dependent forms of the total width,a series of results give the upper limit of $\\Gamma _ { e e }$ ranges from 20 to $4 7 0 \\mathrm { e V } / c ^ { 2 }$ （204号 at $9 0 \\%$ C.L. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our study indicates that the upper limit of $\\Gamma _ { e e }$ of the $Y ( 4 2 6 0 )$ is about $2 4 0 ~ \\mathrm { e V } / c ^ { 2 }$ ,which is consistent with the estimation presented in Eq. (2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Utilizing our upper limit $\\Gamma _ { e e } = 2 4 0 ~ \\mathrm { e V } / c ^ { 2 }$ for the $Y ( 4 2 6 0 )$ , together with the relation of Eq.(1), we obtain the lower limit of branching fraction at $9 0 \\%$ C.L. to be ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( Y ( 4 2 6 0 )  \\pi ^ { + } \\pi ^ { - } J / \\psi ) > 1 . 8 \\% .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This means that the partial width $\\Gamma ( Y ( 4 2 6 0 ) $ $\\pi ^ { + } \\pi ^ { - } J / \\psi ) ~ \\geq ~ 1 . 6 ~ \\mathrm { M e V } / c ^ { 2 }$ at $9 0 \\%$ C.L.，which is much larger than the corresponding partial widths of $\\psi ^ { \\prime }$ $( 8 9 . 1 \\mathrm { \\ k e V } / c ^ { 2 } )$ ）[21]and $\\psi ^ { \\prime \\prime }$ $( 4 4 . 6 \\mathrm { ~ k e V } / c ^ { 2 } )$ [21,22],respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CLEOcmeasuredthecrosssectionfor $\\pi ^ { + } \\pi ^ { - } J / \\psi$ channel to be $5 8 ~ \\mathrm { p b ^ { - 1 } }$ [15],which is consist with BABAR result, $5 0 \\ \\mathrm { p b ^ { - 1 } }$ [1].As a conservative estimation，we regard the central value calculated in Eq.(1) is the same for CLEOc and BABAR, but adopt the improved accuracy prvoided by CELO,then we can obtain the following lower limits at $9 0 \\%$ C.L. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { B ( Y ( 4 2 6 0 ) \\to \\pi ^ { + } \\pi ^ { - } J / \\psi ) } & { > } & { 1 . 9 \\% , } \\\\ { B ( Y ( 4 2 6 0 ) \\to \\pi ^ { 0 } \\pi ^ { 0 } J / \\psi ) } & { > } & { 0 . 7 \\% , } \\\\ { B ( Y ( 4 2 6 0 ) \\to K ^ { + } K ^ { - } J / \\psi ) } & { > } & { 0 . 2 \\% , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB ( Y ( 4 2 6 0 )  X J / \\psi ) > 3 . 4 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $X$ denotes (the numbers of the observed events by CLEOc are presented in parathses) $\\pi ^ { + } \\pi ^ { - } ( 3 7 )$ ， $\\pi ^ { 0 } \\pi ^ { 0 } ( 8 )$ ， $K ^ { + } K ^ { - } ( 3 )$ ， $\\eta ( 5 )$ ,π(1), $\\eta ^ { \\prime } ( 0 )$ $\\pi ^ { + } \\pi ^ { - } \\pi ^ { 0 } ( 0 )$ ,and $\\eta \\eta ( 1 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As we notice up till now only results on hidden-charm final states were reported about the $Y ( 4 2 6 0 )$ ,measurements involving open-charm are anxiously awaited to confirm existing speculations or provide clues for further theoretical inquiry.In addition,more accurate $\\Gamma _ { e e }$ isstill needed for a better understanding the nature of the $Y ( 4 2 6 0 )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Dr.H.B.Li for friendly discussion. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. BABAR Collaboration，B. Aubert et al., Phys.Rev.Lett.95(2005)142001. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. D.Ebart, R.N. Faustov,and V.O. Galkin, hep-ph/0512230.   \n3. L. Maiani et al., Phys. Rev. D 72 (2005) 031502.   \n4. S.L. Zhu,Phys.Lett.B 625 (2005) 212.   \n5. E.Kou and O.Pene,Phys.Lett.B 631 (2005) 164.   \n6．F.E. Close and P.R.Page, Phys. Lett. B 628 (2005) 215.   \n7.X.Q. Luo and Y. Liu, hep-lat/O512044.   \n8.F.J.Llange-Estrada,Phys.Rev.D 72 (2005) 031503.   \n9.T.-W. Chiu and T.H. Hsieh (TWQCD Collaboration),hep-lat/0512029.   \n10.C.F.Qiao,hep-ph/0510228.   \n11. X. Liu, X.Q. Zeng and X. Q. Li, Phys. Rev. D 72(2005) 054023.   \n12. C.Z. Yuan, P. Wang and X.H. Mo, Phys. Lett. B 634 (2006) 399.   \n13.N.Isgur and J.Paton,Phys.Rev.D 31(1985) 2910；N. Isgur，R. Kokoski and J. Paton, Phys.Rev.Lett.54(1985) 869.   \n14. F.E. Close and P.R. Page, Nucl. Phys. B 443 (1995) 233.   \n15. CLEO Collaboration, T.E. Coan et al., hepex/0602034.   \n16.BES Collaboration, J. Z. Bai et al.,Nucl. Instrum.Methods A 344 (1994) 319; Nucl. Instrum.Methods A 458 (2001) 627.   \n17.K.K. Seth, Phys.Rev.D 72 (2005) 017501.   \n18.BES Collaboratio,J. Z.Bai et al., Phys.Rev. Lett.84 (2000)594.   \n19.BES Collaboration，J. Z. Bai et al.,Phys. Rev.Lett.88(2002)101802.   \n20.DASP Collaboration，R. Brandelik et al., Phys. Lett.B 76(1978) 361.   \n21.Particle Data Group,S. Eidelman et al., Phys.Lett.B 592(2004)1.   \n22. CLEO Collaboration,N.E.Adam et al., Phys. Rev.Lett.96(2006)082004. ",
+        "page_idx": 6
+    }
+]

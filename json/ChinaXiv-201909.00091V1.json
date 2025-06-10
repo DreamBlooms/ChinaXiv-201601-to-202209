@@ -1,0 +1,499 @@
+[
+    {
+        "type": "text",
+        "text": "沙地樟子松人工林土壤酶活性及其影响因子",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "于德良¹，雷泽勇¹，张岩松'，于东伟'，周晏平'，姜吉文²（1．辽宁工程技术大学环境科学与工程学院,辽宁阜新123000;2．辽宁师范大学城市与环境学院,辽宁大连116029)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：采用通径分析的方法对辽宁省章古台地区 $1 0 \\sim 6 0$ a 沙地樟子松人工林的多种土壤理化因子与5种土壤酶活性进行分析。结果表明;5种土壤酶活性与多数土壤理化因子相关性显著,土壤酶活性能够表征该区域土壤综合肥力状况。不同土壤酶活性主要影响因子不同,蔗糖酶主要影响因子综合作用排序为：有机质 $>$ 黏粒 $>$ 速效磷 ${ \\mathrm { > p H } }$ ;蛋白酶主要影响因子综合作用排序为：碱解氮 $>$ 速效钾 $>$ 含水率;磷酸酶主要影响因子综合作用排序为：全磷 $>$ 速效钾 $>$ 粉粒；过氧化氢酶主要影响因子综合作用排序为： $\\mathrm { \\ p H > }$ 容重 $>$ 全磷 $>$ 全钾;脲酶主要影响因子综合作用排序为： $\\mathrm { \\ p H > }$ 黏粒 $>$ 全氮 $>$ 含水率。与简单相关分析相比,通径分析方法能更深入地了解土壤酶活性和土壤理化因子的关系,期望通过对土壤酶活性主要影响因子的研究为樟子松人工林的抚育和土壤改良提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：樟子松；人工林；土壤酶；酶活性；影响因子；通径分析；辽宁",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近几十年来，人类活动的加剧使我国森林资源和森林生态系统损失、破坏严重。1960年以来，为了恢复和重建森林，增加森林覆盖率，各地区的人工林迅速发展起来[]。我国典型的人工林生态系统,如\"三北\"防护林，在经济和生态方面起着非常重要的作用[2）。樟子松（Pinus sylvestris var.mongolica）因其较强的耐寒、耐旱、耐贫瘠和速生等优良特性成为“三北”人工防护林营建的主要树种。但经过半个世纪的培育与经营发现：营建的沙地樟子松人工林早期可以很好地适应环境，生长良好，中期后出现生命周期缩短、生产力水平降低等不良现象[3]。因此，提高樟子松人工林的生产力、保持并加强其生态和经济功能成为当前急需解决的重要问题之一[4) O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "众多学者为了探索樟子松人工林衰退现象产生的原因，开始对樟子松人工林土壤质量进行研究。例如胡亚林等[5]研究发现,半干旱区沙质退化草地营造樟子松人工林32a后土壤质量发生了下降。杨涛等[将衰退的樟子松林分与健康同龄林分相比发现，出现生长衰退的樟子松人工林地土壤样品的各项养分指标、酶活性等均有明显程度的降低，表明土壤肥力已发生严重衰退。而Farley 等也发现,荒地造林有可能对土壤产生一些负面效应，导致土壤酸化。表征土壤中物质与能量代谢旺盛程度和土壤质量的土壤酶\"主要来自于土壤动物、植物根系、微生物分泌物以及残体分解物，能参与土壤中生物化学反应过程，对土壤中营养元素的循环，有机物的转化和积累以及腐殖质的合成与分解等起着十分重要的作用[9]。目前,针对林地土壤酶活性随林龄变化，以及土壤酶活性与土壤理化因子相关性的研究较多。赵燕娜等[10]发现沙地栽植樟子松30 a后，总体土壤酶指数随着林龄的增加呈上升趋势。张超等(1]以人工刺槐林土壤酶活性为研究对象,得出土壤蔗糖酶、脲酶、磷酸酶、过氧化氢酶活性随林龄变化呈增强的趋势。刘云霞等[12]对科尔沁沙地草地营造樟子松人工林后的土壤化学指标与土壤酶活性的关系进行了研究。而针对樟子松人工林土壤酶活性在其整个生长周期的变化却鲜有报道，对影响土壤酶活性的相关因子的研究也不全面。因此,采用时空替代法对章古台地区 $1 0 \\sim 6 0$ a 的樟子松人工固沙林土壤酶活性及其影响因子进行研究，以此来反映樟子松造林后不同阶段土壤质量变化情况。通过数学模型分析出影响各土壤酶活性变化的主要因子，为本研究区的樟子松人工林抚育管理及土壤改良提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于科尔沁沙地东南缘的彰武县北部的章古台镇 $( 4 2 ^ { \\circ } 4 3 ^ { \\prime } \\sim 4 2 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N } , 1 2 1 ^ { \\circ } 5 3 ^ { \\prime } \\sim 1 2 2 ^ { \\circ } 2 2 ^ { \\prime } \\mathrm { E } )$ ，该地营建的樟子松固沙林是三北防护林体系重要组成部分。年降水量 $4 5 0 \\sim 5 5 0 ~ \\mathrm { m m }$ ,年蒸发量 $1 \\ : 2 0 0 \\sim$ $1 \\ 4 5 0 \\ \\mathrm { m m }$ ,属典型的半干旱大陆性季风气候;年平均气温 $5 . 7 ~ \\mathrm { ^ { \\circ } C }$ ,最高气温 $3 5 . 2 ~ \\mathrm { ^ { \\circ } C }$ ,最低气温-29.5$\\mathcal { \\mathrm { C } }$ ;该地区侵蚀性风力集中，瞬间最大风速可达32$\\mathbf { m } \\cdot \\mathbf { \\mu _ { s } } ^ { - 1 }$ ;多年的平均无霜期为154d;平均海拔$2 2 6 . 5 \\mathrm { ~ m ~ }$ ,土壤以风沙土为主。代表性植物：中华委陵菜（Potentillaanserina）、中华隐子草（Cleistogeneschinensis）小白蒿（Artemisiafrigida）、胡枝子（Lespe-dezadaurica）差巴嘎蒿（Artemisiahalodendron）大果榆（Ulmusmacrocarpa）小黄柳（Salix gordejevii）和蒺藜梗(Agriophyllum squarrosum)等[13]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验地选择与土壤样品的采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在充分勘查的基础上选择合适的标准地，标准地的选择要满足以下3个原则：首先，标准地要尽可能覆盖樟子松固沙林不同的林分年龄，且林分密度相近;其次,标准地要具有相同的立地条件;第三，标准地间的距离不少于 $5 0 \\mathrm { ~ m ~ }$ ,避免紧靠道边、农田，排除混交林，同时所有的标准地营造樟子松之前均为固定沙地，所有的樟子松林分均处于草地转化来的第一个轮伐期内。每块标准地的规格为 $2 0 \\mathrm { ~ m ~ } \\times$ $2 0 \\mathrm { ~ m ~ }$ 。标准地概况详见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/50ff83bbf9b74f1989e79db543314772d88fa62962faa4e24923ba10e8a39f80.jpg",
+        "table_caption": [
+            "表1标准地基本概况",
+            "Tab.1 Description of the sampling plots "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>标准 地</td><td>树龄 密度 /a /(株·hm-²)</td><td>树高 /m</td><td>胸径 /cm</td><td>平均冠 幅/m</td><td>枯落物 厚度/cm</td></tr><tr><td>Z10</td><td>13 625</td><td>3.28</td><td>7.50</td><td>2.59</td><td>8.11</td></tr><tr><td>Z20</td><td>24 625</td><td>7.80</td><td>13.31</td><td>3.60</td><td>14.04</td></tr><tr><td>Z30</td><td>27</td><td>675 9.25</td><td>16.69</td><td>4.21</td><td>16.67</td></tr><tr><td>Z40</td><td>42 675</td><td>11.27</td><td>20.92</td><td>4.30</td><td>11.89</td></tr><tr><td>Z50</td><td>46 650</td><td>11.01</td><td>19.61</td><td>4.09</td><td>14.66</td></tr><tr><td>Z60</td><td>56</td><td>705 13.04</td><td>20.59</td><td>3.52</td><td>11. 11</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016年6月，对每块标准地内的树木每木检尺，并在每块标准地内设置6个取样点位，每个点位分6个层次 $( 0 \\sim 1 0 \\ \\mathrm { c m } \\ . 1 0 \\sim 2 0 \\ \\mathrm { c m } \\ . 2 0 \\sim 4 0 \\ \\mathrm { c m } \\ . 4 0 \\sim$ $6 0 ~ \\mathrm { c m } ~ . 6 0 \\sim 8 0 ~ \\mathrm { c m } ~ . 8 0 \\sim 1 0 0 ~ \\mathrm { c m } )$ 进行取土，每层取3次重复，每个重复组土样的一部分风干，用于化学指标的测定。另一部分过 $2 \\ \\mathrm { m m }$ 筛去掉石砾、动植物残体及杂质后，装入塑封袋带回实验室，储存于 $4 \\mathrm { { ^ { q } C } }$ 冰箱用于土壤酶活性测定，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "蔗糖酶(Sucrase)活性一二硝基水杨酸比色法;蛋白酶（Protease）活性一芘三酮比色法；磷酸酶(Phosphatase)活性一磷酸苯二钠比色法;过氧化氢酶（Catalase）活性一滴定法;脲酶(Urease）活性一次氯酸钠比色法(14-18];有机质含量—重铬酸钾容量法一外加热法;全氮一半微量开氏法;碱解氮一碱解扩散法;全磷—NaOH熔融法;速效磷含量—钼蓝比色法；全钾—NaOH 熔融一火焰光度法;速效钾—$\\mathrm { N H _ { 4 } O A c }$ 浸提一火焰光度法;pH一电位测定法;土壤容重一环刀法;含水率一烘干法；土壤质地(黏粒 $\\angle { \\cdot }$ $0 . 0 0 2 \\ \\mathrm { m m } , 0 . 0 0 2 \\ \\mathrm { m m } <$ 粉粒 $< 0 . 0 5 \\ \\mathrm { m m } , 0 . 0 5 \\ \\mathrm { m m } <$ 细砂粒 $< 0 . 2 5 \\mathrm { \\ m m } , 0 . 2 5 \\mathrm { \\ m m } <$ 中砂粒 $< 0 . 5 \\ \\mathrm { m m }$ )一激光粒径分析仪测定法[19]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用MicrosoftExcel2007对数据进行汇总，用SPSS20.0对数据进行相关性及显著性分析（显著性水平为0.05），采用回归模型对土壤酶活性与土壤理化性质的相关关系进行通径分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通径分析是数量遗传学家SewallWright提出的一种多元统计技术，可研究自变量对因变量的直接重要性和间接重要性，从而为统计决策提供可靠的依据,在众多领域得到广泛应用[20]。这种方法通常在 SPSS 中得以实现[2I]。本研究引用该方法对章古台地区樟子松人工林土壤酶活性与土壤理化因子之间的关系进行探究。以各土壤酶活性为因变量 $Y$ 土壤理化因子为自变量 $X$ ，,并对各因变量 $Y$ 进行正态检验，发现其符合正态分布，可进行后续的逐步回归分析。因变量 $Y$ 与自变量 $X$ 的线性回归方程表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = a + b X _ { i } + c X _ { n } + \\cdots\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中：Y为土壤酶活性; $X$ 为土壤理化因子; $\\mathbf { \\alpha } _ { a }$ 为常数； $\\textit { b } _ { \\boldsymbol { \\cdot } } c$ 分别为因子的系数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 土壤理化性质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究区各林龄土壤理化性质如表2所示。其中，土壤有机质含量随林龄的增加呈先增高后降低的趋势，在50a达到峰值，且50a土壤有机质含量显著高于其他林龄的有机质含量（ $\\textstyle P < 0 . 0 5$ )。土壤全氮含量在 $1 0 \\sim 6 0 \\mathrm { ~ a ~ }$ 林龄整体呈波动增加的趋势，成熟林( $5 0 \\mathrm { ~ a ~ } , 6 0 \\mathrm { ~ a ~ }$ )土壤全氮含量显著高于幼龄林（ $1 0 \\mathrm { ~ a ~ } . 2 0 \\mathrm { ~ a ~ } ,$ 土壤全氮含量( $\\textstyle P < 0 . 0 5 )$ 。土壤碱解氮含量整体上呈现出先增高后降低的趋势，在40a林龄达到最大值，且中龄林( $( 3 0 \\mathrm { ~ a ~ } )$ 和近熟林( $^ { \\cdot } 4 0 \\mathrm { ~ a ~ } )$ 土壤碱解氮含量与其余林龄土壤碱解氮含量差异达到显著水平( $\\scriptstyle P < 0 . 0 5 )$ 。土壤全磷含量随林龄变化趋势与碱解氮含量随林龄变化趋势相一致。土壤速效磷含量随林龄变化整体呈先升高后降低的趋势，在30a达到最大值。土壤全钾含量随林龄变化趋势与速效磷含量随林龄变化趋势相似。土壤速效钾含量在10a时最高， $2 0 \\mathrm { ~ a ~ }$ 后土壤速效钾含量保持稳定，且10a林龄的土壤速效钾含量显著高于其余林龄土壤速效钾含量( $\\ P < 0 . 0 5 )$ 。土壤 $\\mathrm { \\ p H }$ 值随林龄变化整体呈增大趋势，在 $6 0 \\mathrm { ~ a ~ }$ 达到最大值,其中 $1 0 \\sim$ 30a林龄的土壤 $\\mathrm { \\ p H }$ 值显著低于 $4 0 \\sim 6 0$ a 林龄的土壤 $\\mathrm { \\ p H }$ 值 $\\cdot P < 0 . 0 5 )$ 。土壤容重整体呈先降低再增加的趋势,且10a时土壤容重最大, $4 0 \\mathrm { ~ a ~ }$ 时土壤容重最小。土壤含水率整体呈先降低后增高的趋势，在 $4 0 \\mathrm { ~ a ~ }$ 时达到最小值,60a时达到最大值,且60a土壤含水率显著大于其他林龄土壤含水率( $P <$ 0.05）。土壤黏粒含量随林龄变化整体呈先减少再增加的趋势,30a时达到最小值,幼龄林（ $^ { 1 0 \\mathrm { ~ a ~ } , }$ 20 a)黏粒含量显著高于其余林龄( $\\cdot P < 0 . 0 5 )$ 。土壤粉粒含量也呈先减少后增加的趋势,30a时达到最小值，中龄林( $3 0 \\mathrm { ~ a ~ } )$ 和近熟林( $( 4 0 \\mathrm { ~ a ~ } )$ 土壤粉粒含量显著低于其余林龄( $\\ P < 0 . 0 5 \\$ 。土壤细砂粒含量随林龄变化整体呈先增加后降低的趋势，土壤细砂粒含量在40a时达到最大值。土壤中砂粒含量随林龄变化整体呈波动增加的趋势，60a时达到最大值。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7c4fbe81ef47aa2cefa7c240ab01b418082a44e76f73b8771fe1ba419b07bcf7.jpg",
+        "table_caption": [
+            "表2不同林龄樟子松林地土壤理化特征",
+            "Tab.2Physicochemical properties ofsoil under the Pinus sylvestris var.mongolica plantation with different standages "
+        ],
+        "table_footnote": [
+            "注：同列不同小写字母表示不同林龄间差异显著( $\\textstyle P < 0 . 0 5 .$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>标准地</td><td>有机质 /（g·kg-1)</td><td>全氮 /(g·kg-1)</td><td>碱解氮 /(mg·kg-1)</td><td>全磷 /(g·kg-1)</td><td>速效磷 /（mg·kg-1)</td><td>全钾 /（g·kg-1)</td><td>速效钾 /(mg·kg-1)</td></tr><tr><td>Z10</td><td>5.77 ±0.31d</td><td>0.11 ±0.09e</td><td>6.77 ±0.53c</td><td>0.92 ±0.02d</td><td>2.15 ±0.20c</td><td>17.41 ±0.77bc</td><td>41.68 ± 3.27a</td></tr><tr><td>Z20</td><td>6.55 ±0.38cd</td><td>0.17 ±0.01d</td><td>9.74 ±0.84bc</td><td>1.02 ±0.02c</td><td>5.83 ±0.57b</td><td>19.19 ±0.95b</td><td>30.70 ±2.58b</td></tr><tr><td>Z30</td><td>10.32 ±1.20b</td><td>0.26 ±0.01bc</td><td>15.72 ± 1.71a</td><td>1.10 ±0.01a</td><td>7.77 ±0.79a</td><td>22.0±0.81a</td><td>27.11 ±2.34b</td></tr><tr><td>Z40</td><td>10.18 ±0.40b</td><td>0.24 ±0.01cd</td><td>16.55 ± 1.66a</td><td>1.11 ±0.02a</td><td>7.13 ±0.75ab</td><td>18.73 ±0.43b</td><td>24.11 ±0.71b</td></tr><tr><td>Z50</td><td>12.41 ±0.68a</td><td>0.30 ±0.02ab</td><td>12.38 ±1.49b</td><td>1.08 ±0.02b</td><td>6.84 ±0.78ab</td><td>15.95 ±0.49cd</td><td>24.04 ±1.30b</td></tr><tr><td>Z60</td><td>10.06 ±0.65b</td><td>0.36 ±0.03a</td><td>11.86 ±1.19b</td><td>1.04 ±0.01c</td><td>5.23 ±0.45b</td><td>14.59 ±0.59d</td><td>24.42 ± 1.88b</td></tr><tr><td>标准地</td><td>pH</td><td>容重/（g·cm-³）</td><td>含水率/%</td><td>黏粒/%</td><td>粉粒/%</td><td>细砂粒/%</td><td>中砂粒/%</td></tr><tr><td>Z10</td><td>5.74 ±0.12b</td><td>1.67 ±0.01a</td><td>3.8±0.001bc</td><td>0.49 ±0.05a</td><td>5.68 ±0.69a</td><td>82.68 ±0.66c</td><td>11.05 ±1.03ab</td></tr><tr><td>Z20</td><td>5.79 ±0.16b</td><td>1.64 ±0.01ab</td><td>4.2 ±0.004b</td><td>0.44 ±0.05a</td><td>4.76 ±0.70a</td><td>87.16 ±1.65b</td><td>8.62 ±1.00b</td></tr><tr><td>Z30</td><td>6.19 ±0.15b</td><td>1.60 ±0.03bc</td><td>1.8 ±0.002d</td><td>0.05±0.02c</td><td>0.94 ±0.41b</td><td>87.45 ±0.72b</td><td>11.54 ± 1.05a</td></tr><tr><td>Z40</td><td>6.63±0.06a</td><td>1.56 ±0.01c</td><td>3.0±0.003c</td><td>0.09 ±0.01c</td><td>1.23 ±0.21b</td><td>91.01 ±0.87a</td><td>9.65 ±0.77b</td></tr><tr><td>Z50</td><td>6.73 ±0.06a</td><td>1.60 ±0.01bc</td><td>4.0 ±0.004bc</td><td>0.31 ±0.03b</td><td>4.04 ±0.55a</td><td>82.67 ±1.46c</td><td>12.96 ± 1.49a</td></tr><tr><td>Z60</td><td>6.85 ±0.07a</td><td>1.62 ±0.02ab</td><td>5.4 ±0.003a</td><td>0.34 ±0.04b</td><td>5.34 ±0.79a</td><td>80.67 ±0.74c</td><td>13.59 ±1.36a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 土壤酶活性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "不同林龄土壤酶活性变化如图1所示。除30a生的林地土壤蔗糖酶活性突然增高外，蔗糖酶活性在 $1 0 \\sim 6 0$ a 林龄整体呈缓慢增高趋势。蛋白酶活性在 $1 0 \\sim 6 0$ a 林龄整体呈先缓慢增高,40a后保持稳定的趋势。磷酸酶活性随着林龄的增加呈先增高后降低的趋势，且在30a林龄时活性最强，40a林龄次之。随着林龄的增加过氧化氢酶活性先保持稳定,30a林龄时其活性突然增加，在40a时活性有所降低，然后保持稳定趋势。土壤脲酶活性在 $1 0 \\sim$ $3 0 \\mathrm { ~ a ~ }$ 林龄内呈降低趋势， $4 0 \\mathrm { ~ a ~ }$ 后则保持稳定趋势。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤酶活性与理化性质的通径关系 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤理化性质和土壤酶活性的相关系数及通径系数如表3所示，各土壤酶活性与理化因子的线性回归方程分别为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$Y _ { 1 } = \\mathrm { { } } - 0 . 6 5 9 + 0 . 0 2 5 X _ { 1 } + 0 . 0 1 1 X _ { 5 } + 0 . 0 7 X _ { 8 } +$ $0 . 0 0 6 X _ { 1 1 }$   \n$Y _ { 2 } = 0 . \\ 3 8 3 + 0 . \\ 0 1 5 X _ { 3 } - 0 . \\ 0 0 3 X _ { 7 } + 0 . \\ 0 1 1 X _ { 1 0 }$   \n$Y _ { 3 } = 0 . 3 0 5 + 0 . 1 3 3 X _ { 4 } - 0 . 0 0 2 X _ { 7 } + 0 . 0 5 5 X _ { 1 2 }$   \n$Y _ { 4 } = 1 . 6 2 8 - 0 . 3 7 9 X _ { 4 } + 0 . 0 1 6 X _ { 6 } - 0 . 0 6 8 X _ { 8 } -$ 0.529X,   \n$\\begin{array} { c } { { Y _ { 5 } = 4 2 . 8 8 1 + 4 . 5 9 0 X _ { 2 } - 3 . 7 5 2 X _ { 8 } + 8 . 4 0 7 X _ { 1 0 } + } } \\\\ { { 1 9 . 1 7 5 X _ { 1 1 } } } \\end{array}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $Y _ { 1 \\mathrm { ~ s } } Y _ { 2 \\mathrm { ~ s } } Y _ { 3 \\mathrm { ~ s } } Y _ { 4 \\mathrm { ~ s } } Y _ { 5 }$ 分别为蔗糖酶活性、蛋白酶活",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/924c2da933a29226e6430e60e4cb1f2d72b590474785330bb3fd5a74574599e8.jpg",
+        "img_caption": [
+            "图1不同林龄樟子松林地土壤酶活性",
+            "Fig.1Soil enzyme activity under the Pinus sylvestris var.mongolica plantation with diferent stand ages "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "性、磷酸酶活性、过氧化氢酶活性、脲酶活性; $X _ { 1 }$ 为有机质含量; $X _ { 2 }$ 为全氮含量; $X _ { 3 }$ 为碱解氮含量; $X _ { 4 }$   \n为全磷含量; $X _ { 5 }$ 为速效磷含量; $X _ { 6 }$ 为全钾含量; $X _ { 7 }$   \n为速效钾含量; $X _ { 8 }$ 为 $\\operatorname { p H } ; X _ { 9 }$ 为容重; $X _ { 1 0 }$ 为含水率;  \n$X _ { 1 1 }$ 为黏粒含量; $X _ { 1 2 }$ 为粉粒含量； $X _ { 1 3 }$ 为细砂粒含量;  \n$X _ { 1 4 }$ 为中砂粒含量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤蔗糖酶活性与土壤的有机质、 $\\mathbf { \\nabla \\cdot p H }$ 黏粒呈极显著正相关关系( $\\textstyle P < 0 . 0 1 { \\dot { } }$ )，与速效磷呈显著的正相关( $P < 0 . 0 5 )$ 。且有机质、速效磷、 $\\mathrm {  ~ \\ p H ~ }$ 和黏粒是对蔗糖酶活性影响较大的土壤因子，有机质对蔗糖酶活性直接效应最大，为0.641，其次是黏粒、pH、速效磷的直接作用，直接效应值分别为0.481、0.312和-0.323。对蔗糖酶活性影响较大的4种土壤因子也会通过其他因子对蔗糖酶活性产生间接效应，间接效应与其本身对蔗糖酶活性的直接效应相抵消，得到各主要因子对蔗糖酶活性的综合作用，综合作用为：有机质 $>$ 黏粒 ${ \\mathrm { > p H > } }$ 速效磷",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤蛋白酶活性与碱解氮、含水率呈极显著正相关关系( $\\stackrel { \\cdot } { P } < 0 . 0 1 \\$ )，蛋白酶活性与速效钾呈极显著负相关关系（ $\\cdot P < 0 . 0 1 )$ 。碱解氮、速效钾、含水率对蛋白酶活性的直接效应分别为 $0 . 5 9 7 , - 0 . 5 8 4$ 和0.254。各主要影响因子的直接效应与通过其他因子产生的间接效应相抵消后，对蛋白酶活性的综合作用为：碱解氮 $>$ 速效钾 $>$ 含水率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤磷酸酶活性与全磷呈极显著正相关关系（ $P < 0 . \\ 0 1 \\ \\cdot$ )，与速效钾呈显著负相关关系（ $\\boldsymbol { P } <$ 0.05），与粉粒呈显著正相关关系（ $P < 0 . 0 5 )$ 。全磷、速效钾、粉粒对磷酸酶活性的直接效应分别为$0 . 4 3 3 , - 0 . 3 6 1$ 和-0.055。粉粒本身对磷酸酶活性有正效应，但与通过其他因子产生的负效应相抵消，总体呈现出负效应。各主要影响因子的直接效应与通过其他因子产生的间接效应相抵消后，对磷酸酶活性的综合作用为：全磷 $>$ 速效钾 $>$ 粉粒。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "土壤过氧化氢酶活性与全磷呈显著负相关关系（ $\\ P < 0 . \\ 0 5 ^ { \\cdot }$ )，与全钾呈极显著正相关关系（ $\\boldsymbol { P } <$ 0.01)，与 $\\mathrm { \\ p H }$ 和容重呈极显著负相关关系（ $\\boldsymbol { P } <$ 0.01)。全磷、全钾 $\\mathrm { \\Phi _ { \\cdot } p H }$ 和容重对过氧化氢酶活性的直接效应分别为 $- 0 . 2 9 6 \\ 、 0 . 3 9 5 、 - 0 . 2 9 3$ 和-0.298。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/faefd4e7d6fd31f0b443d1ea51755f7fb1195d5228e287a16ae029e98d4706e9.jpg",
+        "table_caption": [
+            "表3土壤理化性质和土壤酶活性的相关系数及通径系数",
+            "ab.3Correlationcoefficients and path coefficients of soil physiochemical properties and soil enzyme acti "
+        ],
+        "table_footnote": [
+            "注： $* *$ 相关性在0.01水平上显著， $*$ 相关性在0.05水平上显著。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">变量</td><td rowspan=\"2\">综合作用</td><td rowspan=\"2\">直接通径系数</td><td colspan=\"4\">间接通径系数</td><td rowspan=\"2\">相关系数</td></tr><tr><td>X</td><td>X</td><td>X</td><td>X1</td></tr><tr><td>蔗</td><td>有机质(X)</td><td>0.563</td><td>0.641</td><td>一</td><td>-0.107</td><td>-0.048</td><td>0.077</td><td>0.464 **</td></tr><tr><td>糖</td><td>速效磷(X5)</td><td>0.208</td><td>0.221</td><td>0.040</td><td>1</td><td>-0.071</td><td>0.018</td><td>0.326 *</td></tr><tr><td>酶 Y</td><td>pH(Xg)</td><td>0.293</td><td>0.312</td><td>-0.098</td><td>0.189</td><td>1</td><td>-0.110</td><td>0.337 **</td></tr><tr><td rowspan=\"2\"></td><td>黏粒(X）</td><td>0.495</td><td>0.481</td><td>0.103</td><td>-0.016</td><td>-0.073</td><td>二</td><td>0.375**</td></tr><tr><td rowspan=\"2\">变量</td><td rowspan=\"2\">综合作用</td><td rowspan=\"2\">直接通径系数</td><td></td><td colspan=\"2\">间接通径系数</td><td></td><td rowspan=\"2\">相关系数</td></tr><tr><td></td><td>X</td><td>X7</td><td>X10</td></tr><tr><td rowspan=\"2\">蛋海</td><td>碱解氮（X）</td><td>0.597</td><td>0.420</td><td>1</td><td>0.181</td><td></td><td>-0.04</td><td>0.602 **</td></tr><tr><td>速效钾(X)</td><td>-0.584</td><td>-0.411</td><td>-0.186</td><td>1</td><td></td><td>0.013</td><td>-0.596 **</td></tr><tr><td></td><td>含水率（X10）</td><td>0.254</td><td>0.185</td><td>0.097</td><td>-0.028</td><td></td><td>1</td><td>0.422 **</td></tr><tr><td rowspan=\"3\"></td><td>变量</td><td>综合作用</td><td>直接通径系数</td><td>X4</td><td>间接通径系数</td><td></td><td></td><td rowspan=\"2\">相关系数</td></tr><tr><td>全磷（X）</td><td>0.433</td><td>0.347</td><td>1</td><td>X7 0.145</td><td></td><td>X12 -0.059</td></tr><tr><td>速效钾(X)</td><td>-0.361</td><td>- 0.299</td><td>-0.101</td><td></td><td></td><td>0.039</td><td>0.453 **</td></tr><tr><td></td><td>粉粒（X12）</td><td>-0.055</td><td>0. 174</td><td>-0.118</td><td>1 - 0. 111</td><td></td><td>一</td><td>-0.398 * 0.334 *</td></tr><tr><td rowspan=\"3\"></td><td>变量</td><td>综合作用</td><td>直接通径系数</td><td></td><td>间接通径系数</td><td></td><td></td><td rowspan=\"2\">相关系数</td></tr><tr><td rowspan=\"2\">全磷（X）</td><td rowspan=\"2\">-0.298</td><td rowspan=\"2\">-0.296</td><td>X4 X6</td><td></td><td>X8</td><td>X</td></tr><tr><td>1</td><td>0.092</td><td>-0.011</td><td>-0.083</td><td>-0.359 *</td></tr><tr><td>过氧 化氢</td><td>全钾(X6)</td><td>0.233</td><td>0.395</td><td>-0.069</td><td>1</td><td>-0.129</td><td>0.036</td><td>0.491 **</td></tr><tr><td rowspan=\"2\">酶Y4</td><td>pH(Xg)</td><td>-0.542</td><td>-0.293</td><td>-0.012</td><td>-0.174</td><td>1</td><td>-0.063</td><td>-0.541 **</td></tr><tr><td>容重（X）</td><td>-0.491</td><td>-0.298</td><td>-0.082</td><td>-0.048</td><td>-0.063</td><td>1</td><td>-0.490 **</td></tr><tr><td rowspan=\"2\"></td><td>变量</td><td>综合作用</td><td>直接通径系数</td><td></td><td>间接通径系数</td><td></td><td></td><td rowspan=\"2\">相关系数</td></tr><tr><td></td><td></td><td></td><td>X</td><td>X8</td><td>X10</td><td>X1</td></tr><tr><td rowspan=\"4\">脲 酶 Y</td><td>全氮(X）</td><td>0.371</td><td>0.368</td><td>1</td><td>0.167</td><td>0. 025</td><td>-0.189</td><td>0.464 **</td></tr><tr><td>pH(Xg)</td><td>-0.496</td><td>-0.403</td><td>-0.152</td><td>1</td><td>-0.114</td><td>0.173</td><td>-0.478 **</td></tr><tr><td>含水率(X1o）</td><td>0.159</td><td>0.317</td><td>0.029</td><td>-0.082</td><td>1</td><td>-0.105</td><td>0.331 *</td></tr><tr><td>黏粒（X11）</td><td>0.374</td><td>0.754</td><td>0.092</td><td>-0.172</td><td>-0.208</td><td>1</td><td>0.769 **</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "各主要影响因子的直接效应与通过其他因子产生的间接效应相抵消后，对磷酸酶活性的综合作用为：$\\mathrm { p H } >$ 容重 $>$ 全磷 $>$ 全钾。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤脲酶活性与全氮和黏粒呈极显著正相关关系 $^ { \\prime } P < 0 . 0 1 )$ ，与 $\\mathrm { \\ p H }$ 呈极显著负相关关系（ $P <$ 0.01），与含水率呈显著正相关关系( $\\textstyle P < 0 . 0 5 ,$ 。全氮 $\\mathrm { \\nabla \\cdot \\ p H }$ 、含水率和黏粒对脲酶活性的直接效应分别为 $0 . 3 6 8 , - 0 . 4 0 3 , 0 . 3 1 7$ 和0.754。各主要影响因子的直接效应与通过其他因子产生的间接效应相抵消后，对磷酸酶活性的综合作用为： $\\mathrm { p H } >$ 黏粒 $>$ 全氮 $>$ 含水率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究表明，土壤酶活性与土壤理化因子显著相关，且影响各土壤酶活性的主要土壤因子各不相同[22-24]。本研究结果支持这一观点。其中,土壤蔗糖酶活性的主要影响因子为土壤有机质、速效磷、$\\mathrm { \\ p H }$ 和黏粒含量。相关研究也表明，土壤有机质和$\\mathrm { \\ p H }$ 是影响土壤酶活性的重要指标，有机质能够为蔗糖酶参与的反应提供充足的底物，pH则在 $4 . 9 5 \\sim$ 6.9范围内土壤蔗糖酶呈正相关， $\\mathrm { \\ p H }$ 升高对蔗糖酶活性有促进作用(25]。土壤中较细的颗粒（黏粒、粉粒)表面积相对较大，能暴露出更多的正电荷位，与一些带负电荷的有机物结合形成有机－无机复合体，这会间接影响蔗糖酶参与反应的底物含量，从而影响蔗糖酶的活性[26],因此,黏粒含量的增加,增加了参与反应的底物含量，提高了蔗糖酶的活性。与本文研究类似,王渭玲等[27]研究也发现,土壤速效磷的增减对林木根系代谢有较大影响，土壤速效磷的增加能够使根系分泌物增多，微生物繁殖加快，对蔗糖酶活性有积极影响。这4种因子对研究区内樟子松固沙林地的土壤蔗糖酶的影响与榆林沙区的樟子松人工林土壤蔗糖酶的影响因子相似[28],即土壤有机质对蔗糖酶的正效应最大，其他因子虽有波动但都对蔗糖酶活性有正效应，促使蔗糖酶活性随林龄变化呈现出整体升高的趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤蛋白酶活性的主要影响因子有土壤碱解氮、速效钾、含水率。土壤蛋白酶参与土壤中的氨基酸、蛋白质以及其他含蛋白质氮的有机化合物的转化[29],而土壤碱解氮包括无机态氮及易水解的有机态氮(氨基酸、酰铵和易水解蛋白质），因此，作为反应底物的碱解氮对蛋白酶活性有较大影响，即碱解氮增加，蛋白酶活性亦随之增加。土壤钾元素过高或过低都会抑制蛋白酶的合成[30]，所以速效钾含量也会对蛋白酶活性有较大影响。本文的结果显示土壤蛋白酶与土壤速效钾含量呈负相关，可能与本研究区较高的速效钾含量有关。由于土壤水会参与蛋白质及氨基酸水解等反应中，蛋白酶也参与该类反应[31],所以土壤水对蛋白酶活性的表现也有重大影响，水分过低会抑制该类反应。上述主要影响因子与周礼恺(32]、王素娟等[33]对土壤蛋白酶活性主要影响因子的研究结论一致。由表2和表3可得，碱解氮对蛋白酶活性的正效应最大，速效钾对蛋白酶活性有较大的负效应，含水率较碱解氮和速效钾对蛋白酶活性有较小的正效应。 $1 0 \\sim 4 0$ a碱解氮呈显著增加趋势，速效钾呈显著减少的趋势，这也决定了蛋白酶活性增高的趋势，含水率在此阶段虽有所下降，但对蛋白酶活性无决定性作用。 $4 0 \\mathrm { ~ a ~ }$ 以后碱解氮含量较幼龄林有明显提高，速效磷则反之，两者均保持稳定不变趋势，含水率的上升趋势则决定了蛋白酶活性的持续增高。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤磷酸酶活性的主要影响因子有全磷、速效钾、粉粒含量。由于土壤全磷常包括大量含磷有机物，含磷有机物作为该类酶促反应的底物，对磷酸酶活性有促进作用，因此，土壤磷酸酶活性与全磷含量呈显著的正相关。耿玉清等[34]对林地土壤磷酸酶活性的研究也说明了这一点。速效钾含量过高或过低同样会影响磷酸酶的活性[30]。土壤细粉粒会吸附细小的含磷有机物，通过增加土壤中酶促反应的底物含量来影响磷酸酶活性[26]。 $1 0 \\sim 3 0$ a对磷酸酶正效应最大的全磷随林龄变化呈升高趋势，对磷酸酶活性有负效应的速效钾随林龄变化则呈降低趋势，粉粒虽有所减少，但其对磷酸酶活性的负效应极小，综合上述因子的作用磷酸酶活性在此阶段呈上升趋势。30a以后，速效钾保持稳定，粉粒对磷酸酶活性的效应较小，从而最大正效应的全磷决定了30a以后土壤磷酸酶活性降低的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究表明，土壤过氧化氢酶活性与土壤呼吸强度、土壤微生物活动相关，其活性高低能反应土壤解除呼吸过程中产生的过氧化氢的能力[35]。本文研究表明，影响土壤过氧化氢酶活性的主要因子有土壤全磷、全钾 $\\mathrm { \\nabla \\cdot \\ p H }$ 、容重。其中，土壤容重和pH对土壤呼吸强度与土壤微生物活动有重要影响[36，因而对土壤过氧化氢酶活性也有较大影响。全磷、全钾等因子则可能会通过影响林木根系、土壤呼吸强度和微生物活动间接影响过氧化氢酶活性[28]。全磷和全钾均随林龄变化呈先增加后降低的趋势，pH在10\\~30a无显著差异， $4 0 \\textrm { a }$ 后才有显著增加的趋势，容重则呈先减小后增大的趋势（表2）。本研究中，全磷和全钾分别对过氧化氢酶的正效应和负相应差异不大，几乎可以抵消。 $\\mathrm { \\ p H }$ 对过氧化氢酶活性负效应最大，但 $\\mathrm { \\ p H }$ 在 $1 0 \\sim 3 0$ a 基本保持稳定， $4 0 \\mathrm { ~ a ~ }$ 以后才有明显升高，所以 $1 0 \\sim 3 0$ a容重对过氧化氢酶活性较大的负效应可能决定着其先增强的变化趋势。40a以后 $\\mathrm { \\ p H }$ 和容重共同的负效应决定着过氧化氢酶活性有降低的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤脲酶活性与土壤全氮、含水率、黏粒含量正相关，与土壤pH呈负相关。土壤中全氮和黏粒含量可以体现腺酶参与反应底物含量，因此与脲酶活性成正比[26.37]。和文祥等[38]也发现,风沙土林地的 $\\mathrm { \\ p H }$ 在6\\~7范围内与脲酶活性呈负相关关系，土壤含水量对土壤脲酶活性有促进作用，这一结论与本文类似。本研究中土壤全氮随林龄变化呈增高趋势， $\\mathrm { \\ p H }$ 呈缓慢上升趋势，含水率先降低后升高，黏粒含量先减少后增加(表2）。土壤 $\\mathrm { \\ p H }$ 对土壤脲酶的负效应最大，但在 $1 0 \\sim 3 0$ a保持稳定,对 $1 0 \\sim 3 0$ a土壤脲酶活性影响不大。虽然全氮对土壤脲酶有正效应且在 $1 0 \\sim 3 0 \\mathrm { ~ a ~ }$ 一直呈增加趋势，但是全氮的正效应小于含水率和黏粒两者的综合正效应，含水率和黏粒在 $1 0 \\sim 3 0 \\mathrm { a }$ 呈降低趋势，所以会导致 $1 0 \\sim$ 30a土壤脲酶活性的降低。40a以后土壤全氮、含水率、黏粒都有所改变，同时 $\\mathrm { \\ p H }$ 也显著升高且在40a以后保持稳定。 $\\mathrm { \\ p H }$ 对脲酶的负效应最大，可能抑制了40a以后脲酶的活性。综合作用的结果就是本研究区脲酶活性先降低后保持稳定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）本研究的5种土壤酶活性分别与多数土壤理化因子相关性显著，所以土壤酶活性能够表征该区域土壤综合肥力状况。与简单相关分析相比，通径分析方法能更深入地揭示土壤酶活性和土壤理化因子的关系，樟子松人工林土壤酶活性的主要影响因子的研究可以为土壤肥力条件的改变找出根本原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）不同土壤酶活性主要影响因子不同，蔗糖酶主要影响因子综合作用排序为：有机质 $>$ 黏粒 $>$ 速效磷 $> \\mathrm { p H }$ ;蛋白酶主要影响因子综合作用排序为：碱解氮 $>$ 速效钾 $>$ 含水率;磷酸酶主要影响因子综合作用排序为：全磷 $>$ 速效钾 $>$ 粉粒；过氧化氢酶主要影响因子综合作用排序为： $\\mathrm { p H } >$ 容重 $>$ 全磷 $>$ 全钾;脲酶主要影响因子综合作用排序为： $\\mathrm { p H } >$ 黏粒 $>$ 全氮 $>$ 含水率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）综合来看，樟子松造林后期土壤综合肥力条件有所下降。在樟子松林整个生长周期的抚育管理过程中，可通过土壤酶活性主要影响因子的改善来提高土壤肥力，以此达到提高森林作用和改良风沙土的目的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]樊宝敏,李智勇.过去4000 年中国降水与森林变化的数量关 系［J].生态学报,2010,30(20）：5 666-5676.[Fan Baomin,Li Zhiyong.Quantitative relationship between precipitation and forest changes in the past4 OOO years in China[J].Acta Ecologica Sinica,2010,30(20):5 666-5676.] [2] Bao G.Mongolian pines（Pinus sylvestris var.mongolica）in the Hulun Buir steppe,China,respond to climate in adjustment to the local water supply[J].International Journal of Biometeorology,   \n2015,59(1):1-10. [3] 曾德慧，姜凤岐,范志平,等.樟子松人工固沙林稳定性的研究 [J].应用生态学报,1996,7（4）:337-343.［Zeng Dehui,Jiang Fengqi,Fan Zhiping,et al. Stability of mongolian pine plantations on sandy land[J].Chinese Journal of Applied Ecology,1996,7 (4):337-343.] [4]孙长忠,沈国舫.影响我国人工林生产力的自然因素评价[J]. 林业科学,2001,37（3）:26-34.[Sun Changzhong,Shen Guofang.Study on the problems of forest plantation productivity of China[J].Scientia Silvae Sinicae,2001,37(3）:26-34.] [5] 胡亚林，曾德慧，范志平，等.半干旱区沙质退化草地造林对土 壤质量的影响[J].应用生态学报，2007，18（11)：2391-   \n2 397.[Hu Yalin,Zeng Dehui,Fan Zhiping,et al.Effects of degraded sandy grassland afforestation on soil quality in semi-arid ar",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ea of Northern China[J].Chinese Journal of Applied Ecology, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2007,18(11) :2 391 -2 397.]   \n[6]杨涛,徐慧,李慧,等.樟子松人工林土壤养分、微生物及酶活 性的研究[J].水土保持学报,2005,19（3）：50－53.［Yang Tao,Xu Hui,Li Hui,et al.Soil nutrient,microorganism and enzyme activity in Pinussylvestrisplantations[J].Journal of Soil Water Conservation,2005,19(3）:50-53.]   \n[7]Farley K A,Kelly EF.Effects of afforestation of a päramo grassland on soil nutrient status[J].Forest Ecology & Management, 2004,195(3) :281 -290.   \n[8]薛冬,姚槐应,黄昌勇.植茶年龄对茶园土壤微生物特性及酶 活性的影响[J].水土保持学报,2005,19（2）:84－87.[Xue Dong,Yao Huaiying,Huang Changyong. Study on soil microbial properties and enzyme activities in tea gardens[J]. Journal of Soil Water Conservation,2005,19(2）:84-87.]   \n[9]孔涛,刘民,淑敏,等.低分子量有机酸对土壤微生物数量和酶 活性的影响[J].环境化学,2016,35（2）:348－354.[Kong Tao,Liu Min,Shu Min,etal.Effectoflowmolecular weightorganic acids on soil microbe number and soil enzyme activities[J].Environmental Chemistry,2016,35(2）:348-354.]   \n[10］赵燕娜,廖超英,李晓明,等.毛乌素沙地不同林龄樟子松人工 林土壤酶活性变化特征[J].西北林学院学报,2014,29（2）：1 -5.[Zhao Yanna,Liao Chaoying,Li Xiaoming,et al.Evolution of soil enzyme activities of Pinus sytvestris var.mongolica plantation at diffrent ages in Mu Us Sand Land[J].Journal of Northwest Forestry University,2014,29(2):1-5.]   \n[11］张超,刘国彬,薛,等.黄土丘陵区不同林龄人工刺槐林土壤 酶演变特征[J].林业科学,2010,46（12）:23－29.［Zhang Chao,Liu Guobin,Xue Sha,et al.Evolution of soil enzyme activities of Robinia pseudoacacia plantation at diferent ages in Loess hilly regon[J].Scientia Silvae Sinicae,2010,46(12):23-29.]   \n[12]刘云霞,胡亚林,曾德慧,等.科尔沁沙地草地营造樟子松人工 林对土壤化学和生物学性状的影响[J].应用生态学报,2010， 21(4）:814-82O.[Liu Yunxia,Hu Yalin,Zeng Dehui,et al. Effects of grassland afforestation with Mongolian pine on soil chemical and biological properties in Keerqin Sandy Land[J].Chinese Journal of Applied Ecology,2010,21(4）:814 -820.]   \n[13］魏晓婷,雷泽勇,韩辉.章古台沙地不同林龄樟子松人工林土 壤水分研究[J].干旱区资源与环境,2016,30(6)：115－121. [Wei Xiaoting,Lei Zeyong,Han Hui.Soil moistures characteristics of different-aged Pinus sylvestris var.mongolica artificial forests in Zhanggutai sandy area[J]. Journal of Arid Land Resources & Environment,2016,30(6）:115-121.]   \n[14］赵兰坡,姜岩.土壤磷酸酶活性测定方法的探讨[J].土壤通 报,1986,17(3）:138-141.[Zhao Lanpo,Jiang Yan.Determination of soil phosphatase activity[J].Chinese Journal of Soil Science,1986,17(3) :138-141.]   \n[15]Shahriari F,Higashi T,Tamura K.Effects of clay addition on soil protease activities in Andosols in the presence of cadmium[J]. Soil Science & Plant Nutrition,2010,56(4）:560 -569. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16]Narasimhaa G,Sridevib A,Reddy SVG,etal.Effect of cotton ginning mill industrial effluents on soil dehydrogenase,phosphatase, amylase and invertase enzyme activities[J].International Journal of Agricultural and Food Science,2012,2(1):1-6. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17]KizilkayaR,Akcai,Askin T,etal.Effect of soil contamination with azadirachtin on dehydrogenase and catalase activity of soil[J]. Eurasian Journal of Soilence,2012,1(2):98-103. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18]孔涛,刘民，马瑜，等.黄瓜产量及土壤酶活性对基于古龙酸母 液与废弃培养基有机肥的响应[J].环境化学,2015,34（12）： 2 275-2 28O.[Kong Tao,Liu Min,Ma Yu,et al.Response of cucumber yield and soil enzyme activities to organic fertilizer of residue after evaporation from vitamin C fermentation and abandoned medium[J].Environmental Chemistry,2015,34（12）:2 275- 2 280.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19]鲍士旦.土壤农化分析[M].北京：中国农业出版社,2005；25-114.［Bao Shidan.Soil Agro-Chemistrical Analysis[M].Bei-jing：China Agriculture Press,2005:25-114.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20]杜家菊，陈志伟.使用SPSS线性回归实现通径分析的方法[J].生物学通报,2010,45（2）:4-6.[DuJiaju，Chen Zhiwei.Method of path analysiswith SPSS linear regression[J].BiologyBulletin,2010,45(2）:4-6.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21]宋小园，朱仲元，刘艳伟，等.通径分析在SPSS 逐步线性回归中的实现[J].干旱区研究，2016，33（1）：108-113.［SongXiaoyuan,Zhu Zhongyuan,Liu Yanwei,etal.Application ofpath a-nalysis in stepwise linear regression SPSS[J].Arid Zone Re-search,2016,33（1):108-113.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22]葛晓改，肖文发，曾立雄，等.三峡库区不同林龄马尾松土壤养分与酶活性的关系[J].应用生态学报，2012，23（2）：445-451.[Ge Xiaogai,Xiao Wenfa,Zeng Lixiong,et al.Relationshipsbetween soil nutrient contents and soil enzyme activities in Pinusmassoniana stands with different ages in Three Gorges ReservoirArea[J].Chinese Journal of Applied Ecology,2012,23（2）:445-451.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23]陈彩虹，叶道碧.4种人工林土壤酶活性与养分的相关性研究 [J].中南林业科技大学学报，2010，30（6）：64-68.［Chen Caihong,Ye Daobi.Study on the relationship between soil enzymes and nutrient of four artificial forests in Changsha urban-rural fringe [J].Journal of Central South University of Forestry& Technology, 2010,30(6):64-68.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24]朱媛君，张璞进，牛明丽，等.毛乌素沙地丘间低地主要植物群 落土壤酶活性[J].生态学杂志，2016，35（8)：2014-2021. [Zhu Yuanjun,Zhang Pujin,Niu Mingli,etal.Soil enzyme activities of the main plant communities in inter-dune lowland of Mu Us SandyLand[J].Chinese Journal of Ecology,2016,35（8）:2 014 -2 021.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]Acosta-Martinez V,Tabatabai M A.Enzyme activities in a limed agricultural soil[J].Biology& Fertility of Soils,200O,31（1）:85 -91. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[26]唐炎林，邓晓保，李玉武，等.西双版纳不同林分土壤机械组成及其肥力比较[J].中南林业科技大学学报，2007，27（1)：70-",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "75.[Tang Yanlin,Deng Xiaobao,Li Yuwu,et al.Comparison of the mechanical composition and soil fertility between tropical seasonal rain forest soil and rubber forest soil in Xishuangbanna[J]. Journal of Central South University of Forestry& Technology, 2007,27(1) :70-75.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[27」王渭玲,杜俊波,徐福利,等.不同施肥水平对桔梗土壤微生物和土壤酶活性的影响[J].中国中药杂志，2013，38（22）：3851-3856.[WangWeiling,DuJunbo,XuFuli,etal.Effectoffertili-zation levels on soil microorganism amount and soil enzyme activi-ties[J].China Journal of Chinese Materia Medica,2013,38(22）：3 851 -3 856.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[28]孙慧，张建锋，胡颖,等.土壤过氧化氢酶对不同林分覆盖的响 应[J].土壤通报,2016,47（3）:605-610.[Sun Hui,Zhang Jianfeng,Hu Ying,et al.Research on the response of soil catalase to different forest stand covers[J].Chinese Journal of Soil Science,2016,47(3):605-610.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[29]Kamimura Y,Hayano K.Properties of protease extracted from teafield soil[J].Biology& Fertilityof Soils,2000,30(4）:351-355. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[30］邹德乙，韩晓日.棕壤连续施用钾肥对玉米籽粒蛋白质及氨基 酸影响的研究[J].土壤通报,1997,28（1）:28-30.［Zou Deyi, Han Xiaori.Effects of continuous application of potassium fertilizer on maize protein and amino acid in brown soil[J].Chinese Journal of Soil Science,1997,28(1):28-30.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[31]Zaman M,Di HJ,Cameron KC,et al.Gross nitrogen mineralization and nitrification rates and their relationships to enzyme activities and the soil microbial biomass in soils treated with dairy shed effluent and ammonium fertilizer at different water potentials[J]. Biology&Fertilityof Soils,1999,29(2）:178-186. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32]周礼恺.土壤酶学[M].北京：科学出版社，1987.［ZhouLikaiSoilEnzymology[M].Beijing:Science Press,1987.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[33]王素娟，高丽，苏和,等.内蒙古库布齐沙地土壤蛋白酶初步研 究[J].草业科学,2009,26(9）:13-17.[WangSujuan,Gao Li， Su He,et al. The preliminary research of soil prolease on Khobqi sand area of Inner Mongolia[J].Pratacultural Science,2OO9,26 (9):13 -17.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[34]耿玉清，白翠霞，赵广亮，等.土壤磷酸酶活性及其与有机磷组 分的相关性[J].北京林业大学学报，2008，30（增刊2）：139- 143.[Geng Yuqing,Bai Cuixia,Zhao Guangliang,et al. Soil phosphatase activity and its correlation with composition of organic phosphorus[J].Journal of Beijing Forestry University,2008,30 （Suppl.2):139-143.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[35]杨媛媛，陈奇伯，黎建强，等.滇中地区常绿阔叶林土壤酶活性 与理化因子通径分析[J].中南林业科技大学学报,2017,37 (3）:86-91.[Yang Yuanyuan,Chen Qibo,Li Jianqiang,et al. Path analysis of soil enzyme activity and soil chemical-physical factors of evergreen broad-leaved forest in middle Yunnan region,China[J].JournalofCentral SouthUniversityofForestry& Technolo gy,2017,37(3) :86-91.) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[36]贾倩民，陈彦云，杨阳，等.不同人工草地对干旱区弃耕地土壤 理化性质及微生物数量的影响[J].水土保持学报，2014，28 (1）:178-22O.[Jia Qianmin,Chen Yanyun,Yang Yang,et al. Effect of different artificial grassland on soil physico-chemical properties and microbial quantities of abandoned land in arid area [J].Journal of Soil & Water Conservation,2014,28（1）:178- 220.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[37]杨晓娟，廖超英,李晓明,等.榆林沙区樟子松林土壤酶活性与土壤化学性质的通径分析[J].干旱区资源与环境，2013，27(9）:109-112.[Yang Xiaojuan,Liao Chaoying,Li Xiaoming,etal.Path analysis of soil enzyme activities and soil chemical proper-ties of Pinus sytvestris var.mongolica in sandy area of Yulin[J].Journal of Arid Land Resources and Environment,2O13,27（9）：109 -112.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[38]和文祥，朱铭莪.陕西土壤脲酶与土壤肥力关系研究[J].土壤 学报,1997,34(1）:42-52.[HeWenxiang,Zhu Maoming.Study onrelationbetweenurease and fertility of soilsin Shaanxi[J].Acta PedologicaSinica,1997,34(1） :42-52.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil Enzyme Activity and Its Affecting Factors under Pinus sylvestris var. mongolica Plantation in Sandy Land ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "J De-liang’，LEI Ze-yong'， ZHANG Yan-song1，YU Dong-wei’， ZHOU Yan-ping'， JIANG Ji-wen² (1.CollegeofEronmental SciencendEngineering,ioning TechnicalUnivesityFuxin30o,ioning,hin; 2. Collge of Urban and Environmental Science,Liaoning Normal University,Dalian 16029,Liaoning,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：The path analysis was used to analyze the soil physicochemical factors and 5 kinds of soil enzyme activitiesunder the Pinus sylvestris var.mongolica plantation with 1O-6O yearstand ages inthe Zhanggutai area of Liaoning Province.The results showed thatthe5 kinds of soil enzyme activities in the study area were significantly correlated with mostsoil physicochemical factors,sothe soil enzyme activitiescould be used to characterize the comprehensivesoil fertilityin thisregion.The main factors affecting thediferent soil enzyme activities were dierent, and the main factors afecting the sucrose enzyme were the contents of organic matter,clayand available phosphorus as well as $\\mathrm { \\ p H }$ value.The main factors affcting the protease were the contents of alkali-hydrolyzed nitrogen,available potassium and soil moisture.The main factors affecting the phosphatase were the contents of total phosphorus,available potassiumand powder.The main factors afecting the catalase were the pH value,bulk densityand contents of total phosphorus and total potassium.The main factors affecting theurease were the pH value and thecontents of clay,total nitrogenand soil moisture.Compared with the simple correlation analysis,the path analysis could be used to betterunderstandtherelationship between soil enzyme activityand soil physicochemical factors.It is expected to provide a basis for soil improvement under Pinus sylvestris var.mongolica plantation through studying the main factors affecting soil enzyme activity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:Pinus sylvestris var.mongolica； plantation；soil enzyme；enzyme activity；affecting factor；path analysis ；Liaoning Province ",
+        "page_idx": 8
+    }
+]

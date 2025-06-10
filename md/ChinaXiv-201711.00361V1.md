@@ -1,0 +1,131 @@
+营养、大肠杆菌和氨基酸对猪小肠上皮细胞抗菌肽和信号通路蛋白表达的影响任　曼1,2　宫碧霜」　靳二辉」李升和1 曾祥芳²谯仕彦 2\*
+
+（1.安徽科技学院动物科学学院，凤阳 233100;2.中国农业大学动物科学学院，北京100093）摘要：为了研究应激和氨基酸对上皮抗菌肽表达的作用和分子机制，试验选用猪小肠上皮细胞系IPEC-J2作为研究对象，饥饿和大肠杆菌感染分别作为营养应激和细菌应激，丙氨酸和异亮氨酸作为氨基酸处理，收集细胞mRNA，利用荧光定量PCR测定 $\beta$ 防御素和相关信号通路蛋白表达水平。结果表明：与对照组（DMEM/F12 培养基）相比，饥饿显著降低了小肠上皮细胞猪防御素2（pBD-2）、猪防御素3（ $_ { p B D - 3 }$ ）和猪防御素EP2c（ $_ p E P 2 c$ ）及沉默信息调节因子2 同源蛋白 $1 ( S i r t 1 )$ 、叉头转录因子1（FoxO1）和叉头转录因子 $4 ( F o x O 4 )$ （20的表达（ $. P { < } 0 . 0 5 ^ { \cdot }$ ），大肠杆菌对 $\beta$ 防御素表达无显著影响（ $P { > } 0 . 0 5$ ）。与对照组（饥饿培养基）相比，丙氨酸处理未显著影响 $p B D { - } 2$ 和 $p B D - 3$ 的表达（ $( P { > } 0 . 0 5 )$ ），但显著提高了 $p E P 2 c$ 表达水平（ $( P { < } 0 . 0 5 )$ ；异亮氨酸处理使 $p B D \cdot 2 \cdot p B D \cdot 3$ 和 $p E P 2 c$ 表达水平显著升高‘ $( P { < } 0 . 0 5 )$ 。与对照组相比，丙氨酸和异亮氨酸处理不同程度影响信号通路蛋白转录，丙氨酸处理显著提高了Sirt1和FoxO4的表达水平( $( P { < } 0 . 0 5 )$ ，异亮氨酸处理显著促进了Sirt1、FoxO1和FoxO4的表达（ $_ { . } P { < } 0 . 0 5$ ）。由此得出，营养应激降低猪小肠上皮细胞中 $\beta$ 防御素的表达，而氨基酸的补充可促进其表达，该调控作用可能与 Sirt1和叉头转录因子（FoxO）信号通路蛋白有关。关键词：猪小肠上皮细胞；抗菌肽；防御素；信号通路；Sirt1；FoxO中图分类号：S811 文献标识码：A文章编号：1006-267X(2016)00-0000-00
+
+抗生素在畜禽生产中的应用历史超过50年之久，主要用于减少畜禽发病率、提高生产速度和饲料利用率，然而，滥用抗生素引发众多人畜病原菌产生耐药性，直接危害全球公共健康[1]。研究表明，短期使用低剂量抗生素会造成猪肠道内微生物耐药性基因的数量和多样性增加[2]。研究开发提高动物免疫力和抗病力的策略迫在眉睫，近年发现通过营养调控手段提高畜禽肠道先天性免疫功能成为可行策略之一[3]。
+
+哺乳动物内源合成的抗菌肽（antimicrobialpeptide，AMP）具有广谱抗菌作用，其种类多样且功能复杂，参与组成机体先天性免疫系统，微生物对其不易产生抗性[4]。位于肠道表面的上皮细胞可分泌大量多样 AMP，以抵挡复杂的微生物环境和病原微生物入侵[4]，与肠上皮黏膜表面分泌型免疫球蛋白A（sIgA）共同形成先天免疫屏障[5]。近年关于AMP 参与免疫调节的研究日益增多，它们可通过趋化途径和调控Toll样受体（TLR）信号强度发挥免疫调控功能。目前，在猪体内共发现25 种AMP，分别为11种cathelicidins、12 种防御素、1 种 saposin 和1种 cecropin[7]。研究发现，多种因素可影响和调控内源AMP 表达，包括发育阶段、损伤、营养物质（如维生素D、短链脂肪酸、氨基酸等）及脂多糖（lipopolysaccharide，LPS）等。前期研究发现异亮氨酸可调控断奶仔猪肠道黏膜免疫功能，并对AMP表达具有一定的促进作用[8]。但关于营养水平对猪肠上皮细胞AMP表达的影响的研究较少，有关AMP诱导表达的分子机制知之甚少。因此，本研究以猪小肠上皮细胞系IPEC-J2为模型，研究营养和细菌应激及不同氨基酸处理对小肠上皮细胞AMP和信号通路蛋白表达的影响，旨在为研究应激和营养素调控内源AMP表达及肠上皮黏膜屏障功能的提高提供借鉴，也为免疫促进功能的营养物质筛选提供理论基础。
+
+# 1材料与方法
+
+# 1.1 细胞培养
+
+猪肠上皮细胞系 IPEC-J2为本实验室保存,受赠于伍国耀教授(Texas A&MUniversity）。该细胞系分离自新生仔猪空肠上皮，单层贴壁生长，其培养基为含 $5 \%$ （体积分数）胎牛血清（fetal bovine serum，FBS）（Gibco，美国）、 $1 \%$ 胰岛素硒（insulin transferrin selenium,ITS）（ScienCell，美国）和 $1 \mu \mathrm { g / L }$ 内皮生长因子（endothelial growth factor，EGF）（Sigma,美国）的DMEM/F12 培养基（Hyclone，中国）。
+
+# 1.2 试验设计和处理
+
+猪小肠上皮细胞IPEC-J2接种于6孔板，加入完全培养基，培养至 $80 \%$ 细胞愈合时进行试验。营养与大肠杆菌应激：弃去待处理细胞的细胞液，换新的培养基，其中对照组为DMEM/F12培养基，饥饿组为饥饿培养基（Earle's盐平衡缓冲液 $. +$ 维生素混合液），大肠杆菌组为DMEM/F12培养基 $+ 1 \times 1 0 ^ { 3 }$ CFU/孔大肠杆菌，处理 $1 2 \mathrm { ~ h ~ }$ 后收集细胞。氨基酸处理：弃去待处理细胞的细胞液，加入以下处理培养基：对照组为饥饿培养基，丙氨酸组为饥饿培养基中添加 $1 . 0 \mathrm { m m o l / L }$ 的丙氨酸（异亮氨酸等氮组），异亮氨酸组为饥饿培养基中添加1.0mmol/L的异亮氨酸，处理 $1 2 \mathrm { h }$ 后收集细胞。
+
+# 1.3总mRNA提取和反转录
+
+参照RNAzolRT（MolecularResearchCenter，美国）试剂盒说明书提取肠上皮细胞总mRNA。用 Nanodrop 仪检测 mRNA 浓度和质量,其中当 $\mathrm { O D } _ { 2 6 0 \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } }$ 在 $1 . 8 { \sim } 2 . 0$ 和 $\mathrm { O D } _ { 2 6 0 }$ $\mathrm { \ n m / O D } _ { 2 3 0 \ \mathrm { n m } }$ 在 $1 . 5 { \sim } 2 . 2$ 时说明RNA质量较好，可用于下一步试验。将mRNA按照反转录试剂盒操作（TaKaRa，中国）反转成cDNA，内参基因 $\beta \mathrm { \cdot }$ -肌动蛋白（ $\beta$ -actin）PCR检验反转效果，并贮存于一 $2 0 ^ { \circ } \mathrm { C }$ ，备用。
+
+# 1.4 基因引物设计
+
+内参基因（ $\beta$ -actin）、AMP 基因[猪防御素 2(pBD-2)、猪防御素 3(pBD-3)和猪防御素$\mathrm { E P 2 c } ( p E P 2 c ) ]$ 以及信号通路蛋白基因[沉默信息调节因子2同源蛋白1(Sirt1)、叉头转录因子1（Fox01）和叉头转录因子 $4 ( F o x O 4 ) ]$ 引物通过PrimerPremier 6.0 软件设计，由北京三博志远生物技术有限公司合成。根据梯度PCR 和琼脂糖凝胶电泳检测引物的最适退火温度和扩增片段的特异性，无引物二聚体和非特异扩增的引物可用，引物序列见表1。
+
+表1荧光定量PCR引物序列  
+Table 1Primer sequences for real-time quantitative PCR   
+
+<html><body><table><tr><td>基因</td><td>基因序号</td><td>引物序列</td><td>产物大小</td><td>退火温度</td></tr><tr><td>Genes</td><td>Gene ID</td><td>Primer sequence (5’-3")</td><td>Product size/bp</td><td>Tm/C</td></tr><tr><td>β-肌动蛋白 β-actin</td><td>397563</td><td>TGCGGGACATCAAGGAGAAG AGTTGAAGGTGGTCTCGTGG</td><td>176</td><td>58</td></tr><tr><td>猪防御素2</td><td>404699</td><td>CCAGAGAGGTCCGACACTACA GGTCCCTTCAATCCTTGTAGGTGAA</td><td>168</td><td>60</td></tr><tr><td>pBD-2 猪防御素3</td><td>404703</td><td>ACCAAGCACGCCTTCCTATC</td><td>81</td><td></td></tr><tr><td>pBD-3</td><td></td><td>GCATTTTCGGCCACTCACAG</td><td></td><td>60</td></tr><tr><td>猪防御素 EP2c</td><td>100170139</td><td>ACTGCTTGTTCTCCAGAGCC</td><td>92</td><td>57</td></tr><tr><td>pEP2c</td><td></td><td>TGGCACAGATGACAAAGCCT</td><td></td><td></td></tr><tr><td>沉默信息调节</td><td></td><td>GACTGTTGCTCCCCCTTACC</td><td></td><td></td></tr><tr><td>因子2同源蛋</td><td>751859</td><td>ACAAGTCACATCGCCTTCGT</td><td>155</td><td>58</td></tr><tr><td>白1 Sirtl</td><td></td><td></td><td></td><td></td></tr><tr><td>叉头转录因子1</td><td>397077</td><td>GCAAATCGAGTTACGGAGGC</td><td>95</td><td>60</td></tr><tr><td>Fox01</td><td></td><td>AATGTCATTATGGGGAGGAGAGT</td><td></td><td></td></tr><tr><td>叉头转录因子4</td><td>733705</td><td>CTTACCCCTGCCTTTGGGAG</td><td>198</td><td>60</td></tr></table></body></html>
+
+# 1.5 荧光定量PCR
+
+将所提cDNA经相应引物PCR扩增后，回收基因片段，按 $1 0 ^ { - 1 } { \sim } 1 0 ^ { - 9 }$ 倍连续稀释，选择$1 0 ^ { - 2 } { \sim } 1 0 ^ { - 9 } 8$ 个梯度绘制标准曲线，每个梯度3个重复，进行预试验，验证引物扩增效率。将反转的cDNA作为模板进行荧光定量PCR，按照 SYBR Green 定量PCR 试剂盒（TaKaRa,中国）操作，采用 $1 0 ~ \mu \mathrm { L }$ 反应体系，其中检测 $\beta$ -actin时cDNA量为1/20，检测目的基因时cDNA 量为1/10，荧光定量 PCR 在ABI7500 快速检测系统（Applied Biosystems，美国）中进行。PCR反应程序为： $9 5 ^ { \circ } \mathrm { C } 5 \mathrm { s }$ ， $6 0 ^ { \circ } \mathrm { C } 3 4 \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C } 1 0 \mathrm { s }$ ，42个循环。
+
+# 1.6 数据分析
+
+根据 $2 ^ { \Delta \mathrm { C t } }$ 法分析基因表达情况，以内参基因为参照，获得目的基因相对表达量，每个处理3个重复。相对表达量数值采用 SAS8.1（SAS Institute，Gary，美国）单因子方差分析（one-way ANOVA）模型进行统计分析，若处理间差异显著，用Duncan氏法多重比较进行检验。试验结果均以平均值 $\pm$ 标准误表示， $P < 0 . 0 5$ 表示差异显著。
+
+# 2结果与分析
+
+2.1 应激和氨基酸处理对IPEC-J2AMP表达的影响
+
+猪小肠上皮细胞系单层贴壁生长（图1），增长速度快，当细胞愈合至 $9 0 \%$ 以上时生长速率降低。本研究筛选出3种猪AMP基因引物用于荧光定量PCR，均为 $\beta$ 防御素，分别为pBD-2、pBD-3 和 pEP2c。营养和大肠杆菌应激对猪肠上皮细胞系 IPEC-J2 防御素转录水平的影响见图2。结果表明，与对照组相比，细胞液中加入 $1 \times 1 0 ^ { 3 }$ CFU/孔大肠杆菌并未显著影响 pBD-2、pBD-3 和 $p E P 2 c$ 的表达（ $P { > } 0 . 0 5$ ）；而饥饿应激则显著降低了防御素的表达（ $. P { < } 0 . 0 5$ ），其中 $p B D { - } 2$ 表达水平降至对照组的0.47倍， $p B D - 3$ 降至0.58倍， $p E P 2 c$ 降至0.25 倍。与对照组相比，丙氨酸和异亮氨酸处理后，发现丙氨酸未显著影响 $p B D - 2$ 和 $p B D - 3$ 表达( $. P { > } 0 . 0 5 \$ ），但显著提高了 $p E P 2 c$ 表达（ $( P { < } 0 . 0 5 )$ ）；而异亮氨酸则显著促进了3种防御素表达 （ $. P { < } 0 . 0 5 )$ ）， $p B D - 2$ 表达升高至5.68倍， $p B D - 3$ 表达升高至9.94倍， $p E P 2 c$ 升高至5.34倍。内氨酸作为异亮氨酸的等氮对照处理，旨在说明异亮氨酸对防御素的诱导表达是其本身作用还是氮素的作用，以上结果说明氮素的补充可影响防御素 $p E P 2 c$ 的表达，但异亮氨酸对防御素表达具有较强的促进作用，此作用与氮素无关。
+
+![](images/48dc7779e64bb67e786b7bb55de41c2114e92ae78414199fed64a254498e5267.jpg)  
+图1猪小肠上皮细胞系 IPEC-J2  
+Fig.1Porcine intestinal epithelial cell line IPEC-J2 $( 2 0 0 \times )$   
+图2应激和氨基酸处理对IPEC-J2细胞中防御素表达的影响。
+
+A B trgroup seee 对照组Controlgroup b   
+1.5 Ut俊组Stratiogro a I T i1   
+1.0- T b C b b   
+0.5 b a a ai 2 福   
+0.0 PBD-2 PBD-3 pEP2e PBD-2 pBD-3 pEP2c 基因Genes 基因Genes
+
+同基因数据柱形标注不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。下同。
+
+Value columns of a gene with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+Fig.2Effects of stress and amino acids treatments on defensin expression in IPEC-J2 cel
+
+2.2营养应激和氨基酸处理对信号通路蛋白转录水平的影响
+
+本试验选用3种信号通路蛋白，分别是Sirt1、FoxO1和FoxO4。结果显示，与对照组相比，饥饿应激显著降低了IPEC-J2细胞内信号通路蛋白的表达（ $. P { < } 0 . 0 5$ ），Sirt1表达水平降低至0.36倍，FoxO1降低至0.31倍，FoxO4降低至0.39倍（图3）。与对照组相比，丙氨酸和异亮氨酸均不同程度影响信号通路蛋白的转录，其中，丙氨酸显著提高了Sirt1（2.13倍）和FoxO4（3.16倍）的表达水平（ $\cdot P < 0 . 0 5 \$ ），异亮氨酸显著促进了Sirt1（30.76倍）、FoxO1（3.45倍）和FoxO4（3.00倍）表达（ $( P < 0 . 0 5 )$ ）。
+
+A B 1.5 a饥馈组Starvationgroup 对照组Controlgroup a 407 工 c 对照组Controlgroup T a 1.0 10 VN NR 54321 b b b 0.5- 工 b b b b 工 2 a 1 a 0.0 0 Sirt Foxo1 Foxo4 Sirt1 Foxo1 Foxo4 基因Genes 基因Genes
+
+Fig.3Effects of nutritional stressand amino acids on signaling pathway protein expression in IPEC-J2 cells 3讨论
+
+动物肠道黏膜面临大量挑战，如维持共生菌群平衡和阻止病原微生物入侵。肠上皮表面的 AMP 在抵御微生物过程中扮演重要角色，这些"天然抗生素"属于进化古老的先天性免疫效应因子[9]。其中， $\beta$ 防御素是目前研究最为深入和存在最为广泛的 AMP之一，它一方面可阻止上皮表面微生物的入侵，另一方面参与机体免疫调节[10]。近年研究表明，猪肠道上皮组织可表达多种 $\beta$ 防御素[1I]。猪小肠细胞系IPEC-J2是一种未完全分化的肠上皮细胞，分离于初生仔猪空肠上皮组织，其保持了肠道细胞的多种特性，如表达 $\beta$ 防御素等[12]。为研究营养和微生物应激以及氨基酸对小肠上皮细胞 AMP 表达的作用，本试验筛选到 IPEC-J2可表达的3种猪源 $\beta$ 防御素（即 pBD-2、pBD-3 和 pEP2c）引物。
+
+内源AMP的表达和活性受多种因素调控，如细菌和LPS、营养供给和一些功能性营养物质等。Muturi 等[13]和 Becker 等[14]研究发现饥饿可增加埃及伊蚊和果蝇防御素表达，而Akoda 等[15]研究结果表明饥饿未影响舌蝇体内AMP的表达，而大肠杆菌却可刺激其表达。与前人研究结果不同，本试验发现去除培养基中氨基酸对IPEC-J2细胞造成营养应激可显著降低防御素的表达，但大肠杆菌未显著影响防御素表达。本试验中大肠杆菌添加浓度为 $1 0 ^ { 3 }$ CFU/mL，Akoda 等[15]研究添加 $1 0 \ \mathrm { m L } \ \mathrm { O D } _ { 6 0 0 \ \mathrm { n m } }$ 为0.5 的大肠杆菌菌体，可能是由于添加量上的差异造成上述结果不同。有关饥饿和细菌对哺乳动物细胞AMP作用的研究较为缺乏，因种属、试验对象（体内和体外）和防御素种类的不同造成了以上结果的差异，关于营养和细菌应激对AMP 的影响仍需更多的研究。近期研究发现，氨基酸能够促进不同的上皮细胞表达 $\beta$ 防御素，Fehlbaum等[16]报道 $3 . 1 2 { \sim } 1 2 . 5 0 ~ \mu \mathrm { g / m L }$ 异亮氨酸可显著促进牛肾上皮细胞中$\beta$ 防御素的表达，但当浓度 $: \geq 2 5 \mu \mathrm { g / m L }$ 时这种促进作用明显降低。Sherman 等[17]研究发现$1 0 0 { \sim } 2 5 0 \mu \mathrm { g / m L }$ 异亮氨酸能够促进人结肠癌细胞系（HCT-116）中人 $\beta$ 防御素1表达，Konno等[18]也报道细胞培养基中添加 $5 { \sim } 5 0 ~ \mu \mathrm { g / m L }$ 的异亮氨酸可提高人结肠上皮细胞系Caco-2中人$\beta$ 防御素2的表达。本试验发现，培养基中添加 $1 . 0 \ \mathrm { m m o l / L }$ （约 $1 3 1 ~ \mu \mathrm { g / m L }$ ）异亮氨酸可显著促进β防御素的表达，此结果与前人研究一致，而添加等氮量丙氨酸却未见此作用，说明异亮氨酸的作用并非是由于补充氮源而影响防御素的转录。
+
+通过氨基酸饥饿造成的营养应激和氨基酸的补充均属于营养物质调控范畴。研究表明，调节控制动物体内AMP表达的信号通路有核转录因子KB（NF- $\mathbf { \sigma } _ { \cdot \kappa \mathbf { B } }$ ）、细胞外信号调节激酶（ERK）、沉默信息调节因子2同源蛋白(Sirt)和叉头转录因子（FoxO）等[4]。其中，NF-κB信号通路主要是细菌、LPS 和感染等影响AMP 表达的作用通路[19]，本研究结果未发现大肠杆菌对防御素的影响，因此未测定该通路蛋白的变化。氨基酸相关的信号通路主要有丝裂原活化蛋白激酶（MAPK）、Sirt、哺乳动物雷帕霉素靶蛋白（mTOR）、FoxO等[20-21]，由此可见，氨基酸可能是Sirt和FoxO 信号通路调控AMP表达。Sirt1是一种烟酰胺腺嘌呤二核苷酸(NAD)依赖去乙酰化酶，它是酿酒酵母沉默信息调节因子2 同源蛋白 2(Sirt2)基因在哺乳动物体内的同源基因，目前有关其研究主要集中在寿命调控方面[22]。近年，越来越多的研究表明 Sirt1还是一种重要的营养物质敏感性生长调节因子[23]。D'Antona 等[24]研究发现，支链氨基酸（包括异亮氨酸）可影响大鼠体内 Sirt1的表达水平。FoxO 是叉头（forkhead）蛋白家族的一个亚群，从蠕虫到人类均有表达，其在哺乳动物细胞中分别由4个基因编码组成：FoxO1、叉头转录因子3（FoxO3）、FoxO4 和叉头转录因子6（FoxO6）。作为一种转录因子,FoxO家族参与调控细胞增殖、免疫反应和机体寿命[25]。应激和营养物质可通过 FoxO依赖通路调节 Sirt1[26]，而 Sirt1可直接影响防御素的表达[27]。Becker 等[14]研究发现，营养应激可影响FoxO 的活化程度，进而调节AMP 表达。本试验结果发现，营养应激在降低防御素表达的同时也降低了Sirt1和FoxO 表达水平，而异亮氨酸则显著促进了防御素以及信号通路蛋白 Sirt1和FoxO 的表达，其中对 Sirt1的促进作用最为强烈，丙氨酸促进了 $p E P 2 c$ 以及信号通路蛋白Sirt1和FoxO4的表达，但程度显著低于异亮氨酸，验证了前人研究结果，说明营养应激与氨基酸对防御素表达的调控与 Sirt1 和 FoxO 信号通路有关，但信号通路蛋白对不同氨基酸的应答反应程度各不相同，具体调控通路还需进一步的研究。
+
+4结论
+
+综上，营养应激可降低猪小肠上皮细胞中 $\beta$ 防御素的表达，而氨基酸的补充可促进 $\beta$ 防御素表达，其中异亮氨酸的促进作用最为显著。营养应激和氨基酸对防御素的调控作用可能与Sirt1和FoxO信号通路蛋白有关。
+
+参考文献：
+
+[1] ZHU Y G,JOHNSON T A,SU J Q,et al.Diverse and abundant antibiotic resistance genes in Chinese swine farms[J].Proceeding of the National Academy of Science United States of America,2013,110(9):3435-3440.   
+[2]LOOFT T,JOHNSON T A,ALLEN H K,et al.In-feed antibiotic efects on the swine intestinal microbiome[J].Proceeding of the National Academy of Science United Statesof America,2012,109(5):1691-1696.   
+[3] VELDHUIZEN E J A,RIJNDERS M,CLAASSEN E A,et al.Porcine $\beta$ -defensin 2 displays broadantimicrobialactivityagainstpathogenicintestinalbacteria[J].Molecular Immunology,2008,45(2):386-394.   
+[4]GALLO R L,HOOPER L V.Epithelial antimicrobial defence of the skinand intestine[J].Nature Reviews Immunology,2012,12(7):503-516.   
+[5] 任曼,霍应峰,杨凤娟,等.仔猪断奶前后肠道形态和相关免疫蛋白基因表达的变化[J].动物 营养学报,2014,26(3):614-619.   
+[6] DI NARDO A,BRAFF M H,TAYLOR K R,et al.Cathelicidin antimicrobial peptides block dendriticcellTLR4activationandallergiccontactsensitization[J].Journalof Immunol0gy,2007,178(3):1829-1834.   
+[7] ZENG X F,SUNKARA L T,JIANG W Y,et al.Induction of porcine host defense peptide gene expression by short-chain fatty acids and their analogs[J].PLoS One,2013,8(8):E72922.   
+[8]REN M,ZHANG S H,ZENG X F,et al.Branched-chain amino acids are beneficial to maintain growth performance and intestinal immune-related function in weaned piglets fed protein restricted diet[J].Asian Australasian Journal of Animal Sciences,2015,28(12):1742-1750.   
+[9]ZASLOFF M.Antimicrobial peptides of multicellular organisms[J].Nature,2002,415(6870):389-395.   
+[10] SANTAOLALLA R,FUKATA M,ABREUMT.Innate immunity in thesmall intestine[J].Current Opinion in Gastroenterology,2011,27(2):125-131.   
+[11] MAO X B,QI S,YU B,et al.Dietary $L$ -arginine supplementation enhances porcine $\beta$ -defensins gene expressioninsome tissuesofweaned pigs[J].Livestock Science,2012,148(1/2):103-108.   
+[12] MAO X B,QI S,YU B,et al. $Z \mathrm { n } ^ { 2 + }$ and $L$ -isoleucine induce the expressions of porcine $\beta$ -defensins in IPEC-J2 cells[J].Molecular Biology Reports,2013,40(2):1547-1552.   
+[13] MUTURI E J,KIM C H,ALTO B W,et al.Larval environmental stress alters Aedes aegypti competence forSindbis virus[J].Tropical Medicine & International Health,2011,16(8):955-964.   
+[14] BECKER T,LOCH G,BEYER M,et al.FOXO-dependent regulation of innate immune homeostasis[J].Nature,2010,463(7279):369-373.   
+[15] AKODA K,VAN DEN BOSSCHE P,MARCOTTY T,et al.Nutritional stress affects the tsetse fly's immune gene expression[J].Medical and Veterinary Entomology,2009,23(3):195-201.
+
+[16] FEHLBAUM P,RAO M,ZASLOFF M,et al.An essential amino acid induces epithelial $\beta$ -defensin expression[J].Proceeding of the National Academy of Science United States of America,2000,97(23):12723-12728.
+
+[17] SHERMAN H,CHAPNIK N,FROY O.Albumin and amino acids upregulate the expression of human beta-defensin 1[J].Molecular Immunology,2006,43(1O):1617-1623.
+
+[18] KONNO Y,ASHIDA T,INABA Y,et al.Isoleucine,an essential amino acid,induces the expression of human $\beta$ defensin 2 through the activation of the G-protein coupled receptor-ERKpathway in the intestinal epithelia[J].Food and Nutrition Sciences,2012,3(4):548-555.
+
+[19] WEHKAMP J,HARDER J,WEHKAMP K,et al.NF-kB- and AP-1-mediated induction of human beta defensin-2 in intestinal epithelial cells by Escherichia coli Nissle 1917:a novel effect of a probiotic bacterium[J].Infection and Immunity,2004,72(10):5750-5758.
+
+[20] YONEDA J,ANDOU A,TAKEHANA K.Regulatory roles of amino acids in immune response[J].Current Rheumatology Reviews,2009,5(4):252-258.
+
+[21] DE SIMONED R,VISSICCHIO F,MINGARELLI C,et al.Branched-chain amino acids influence the immune properties of microglial cellsand their responsivenessto pro-inflammatorysignals[J].BiochimicaetBiophysicaActa:MolecularBasis of Disease,2013,1832(5):650-659.
+
+[22] TANNO M,SAKAMOTO J,MIURA T,etal.Nucleocytoplasmicshuttlingofthe NAD+-dependent histone deacetylase SIRT1[J].Journal of Biological Chemistry,2006,282(9):6823-6832.
+
+[23] NARALA S R,ALLSOPP R C,WELLS T B,et al.SIRT1 acts as a nutrient-sensitive growth suppressor and itslossisassociated with increasedAMPK and telomerase activity[J].Molecular Biology of the Cell,2008,19(3):1210-1219.
+
+[24] D'ANTONA G,RAGNI M,CARDILE A,et al.Branched-chain amino acid supplementation promotes survival and supports cardiac and skeletal muscle mitochondrial biogenesis in middle-aged mice[J].Cell Metabolism,2010,12(4):362-372.
+
+[25] JONSSON H,PENG S L.Forkhead transcription factors in immunology[J].Cellular and Molecular Life Sciences,2005,62(4):397-409.
+
+[26] NEMOTO S,FERGUSSON M M,FINKEL T.Nutrient availability regulates SIRT1 through a forkhead-dependent pathway[J].Science,2004,306(5704):2105-2108.
+
+[27] LEE S I,MIN K S,BAE W J,et al.Role of SIRT1 in heat stress-and lipopolysaccharide-induced immune and defense gene expression in human dental pulp cells[J].Journal of Endodontics,2011,37(11):1525-1530.
+
+Effects of Nutrition, Escherichia coli and Amino Acids on Expression of Antimicrobial Peptide and Signaling Pathway Protein in Porcine Intestinal Epithelial Cells REN Man1,2 GONG Bishuang1JIN Erhui1LI Shenghe1ZENG Xiangfang²QIAO
+
+# Shiyan2\*
+
+(1. College of Animal Science, Anhui Science and Technology University, Fengyang 233100, China; 2. College of Animal Science and Technology, China Agricultural University, Beijing 100193, China)
+
+Abstract: To investigate the effects and molecular mechanism of stress and amino acids on epithelial antimicrobial peptide, porcine intestinal epithelial cell line IPEC-J2 was treated with starvation (as nutritional stress), Escherichia coli (as bacterial stress),alanine or isoleucine (both as amino acid treatments)，and cell mRNA was collected. Then the expression levels of $\beta$ -defensins and signaling pathway protein were tested using real-time quantitative PCR.From results，we found compared with the control group (with DMEM/F12 medium)， starvation treatment significantly decreased the expression of porcine $\beta$ -defensin 2 (pBD-2)，porcine $\beta$ -defensin 2 $( p B D - 3 )$ , porcine $\beta$ defensin EP2c $( p E P 2 c )$ , silent mating type information regulation 2 homolog 1 (Sirt1), forkhead transcription factor 1 (FoxOl) and forkhead transcription factor 4 $( F o x O 4 )$ $( P { < } 0 . 0 5 )$ ，but Escherichia coli treatment had no significant effects on $\beta$ -defensin expression $( P { > } 0 . 0 5 )$ . Compared with the control group (with starvation medium)，alanine treatment significantly increased $p E P 2 c$ expression level $( P { < } 0 . 0 5 )$ ，but did not significantly change the expression of $p B D - 2$ and $p B D - 3$ ，and the expression levels of ${ p B D - } 2 , { p B D - } 3$ and $p E P 2 c$ in isoleucine group were significantly increased $( P { < } 0 . 0 5 )$ . Signaling pathway protein transcription was different affected by alanine and isoleucine treatments. Compared with the control group,the expression levels of Sirtl and $F o x O 4$ in alanine group were significantly increased and isoleucine treatment significantly increased the expression of Sirt1,FoxOl and Fox04 $( P { < } 0 . 0 5 )$ . In conclusion, nutritional stress can increase $\beta$ -defensin expression in intestinal epithelial cels,and amino acid supplementation can promote its expression. The mechanism of defensin regulation is related to Sirtl and forkhead transcription factor (FoxO) signaling pathway protein.
+
+Key words: porcine intestinal epithelial cell antimicrobial peptide; defensin; signaling pathway; Sirt1; FoxO

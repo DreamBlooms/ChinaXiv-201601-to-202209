@@ -1,0 +1,442 @@
+[
+    {
+        "type": "text",
+        "text": "一种H.265视频带宽实时预测模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘江涛，李泽平，杨炳钊(贵州大学 计算机科学与技术学院，贵阳 550025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对视频直播过程中带宽抖动导致视频帧丢失造成用户体验降低问题，提出了一种H。265 视频带宽实时预测(VBRP)模型。模型基于马尔可夫琏，专注于H.265 编码的直播视频流，研究了在GOP(group of pictures)编码模式下B帧出现的统计特性，发现B帧大小对视频流传输速率的影响较大，应用此特性，可预测出直播流中 B帧的大小，并根据网络带宽选择性丢弃B帧，同时引入步长调整因子AF 和误差阈值FT，均衡模型在预测B帧时的训练频率和预测帧数。最后基于模型实现VBRP预测算法并在直播系统中验证算法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：带宽预测；H.265；马尔可夫；流媒体 中图分类号：TP393.0 doi: 10.19734/j.issn.1001-3695.2018.08.0552 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Real-time prediction model ofH.265 video bandwidth ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Jiangtao,Li Zeping, Yang Bingzhao (College of Computer Science & Technology Guizhou University,Guiyang 55oo25,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder tosolvethe user experience reduction by bandwidth jiterthatcausedvideo frame lossduring live video, This paper proposed areal-time prediction model(VBRP)of H.265 video bandwidth.The model is based on markov chain and focuses on the livevideo stream encoded by H.265.It studied the statistical characteristics of frame B in the GOP(Groupof pictures)encoding mode,which showed that the B frames size hada great influence onthe transmision rate of video streamandused this feature,itcanpredictthe sizeof theBframe,then acording tothe network bandwidth selective discarding the B frame,atthe sametime used the numberofframes adjustment factorAFand error threshold FT, to balance thetraining frequencyand the number of predicted frames when predicting B frames.Finaly,the prediction algorithm is implemented and validated in the live video system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: bandwidth prediction; H.265; Markov; media streaming ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据Netflix的2017年度报告[1全世界有超过1.17亿的Netflix流媒体会员，每天有超过1.4亿小时的电视节目和电影被观看。未来，流媒体流量预计将在移动领域增长 $67 \\%$ .在固定网络领域增长 $2 9 \\% ^ { [ 2 ] }$ 。多媒体内容的爆炸式增长推动了流媒体行业的发展和研究，寻求更高效的流媒体发布方法架构为所有用户提供更好的视频服务成为研究热点。在当前的网络服务中，视频流已经占据了绝大部分有线和无线的网络带宽。H.265/HEVC(high efficiency video coding)视频编码[3]在同等图像质量下，其压缩率比 H.264 标准提高了一倍,所以H.265/HEVC编码应用于流媒体传输将会极大提高网络带宽利用率。然而，网络带宽并不总是稳定不变的，通常带宽是一个时变系统，随时间而动态变化，特别是在高抖动、高时延的移动网络环境下尤为明显。如果在视频直播中遇到网络抖动，将造成关键视频数据丢失，影响视频画质，传统的解决方案是根据网络带宽的减少去降低视频的质量[4]，这样就给用户带来不好的体验并且会使服务质量下降。如果用统计学方法预测视频带宽大小，并根据网络带宽选择性丢弃B帧。能够平衡服务质量(qualityof service，QoS)与网络带宽负载能力，从而提高用户体验(quality of experience，QoE)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sarkar 等人[5]提出了Markov-modulated gamma-based 框架,Lanfranchi等人[6提出了MPEG-4预测模型来提高用户的QoE和服务提供商的QoS，这些模型必须适应动态变化的网络条件，如吞吐量、丢包率和延迟抖动[8]。Kalampogia 等人[9提出的模拟退火算法来预测视频的B帧，然而模拟退火算法和MPEG-4预测模型和对于H.265编码的视频来说是不够准确的。因为H.265视频有许多比均值小很多的B帧，而且随机分布在整个视频帧中，不能用公式很好地预测。根据文献[5]分析，视频模型可以分为两类，分别是数据速率模型和帧大小模型。数据速率模型不能识别帧对整个视频的影响程度，如果一些包括I帧在内的很小数据丢失，会影响接收视频的质量。在文献[10]中，作者计算了视频流数据包在LTE网络中准时传输的概率，根据概率将视频数据包分配给用户，而不区分视频帧不同类型在各个视频中的重要性。然而文献[10]遵循的是DASH标准[1I]，而DASH标准不适合非常低延迟的视频流。文献[12]用目前已知的分布对B帧进行建模，找到B帧的统计特性，但是对于直播视频流，即将到来的视频帧是未知的，无法进行统计，因此会很大程度上影响B帧预测的准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "针对以上问题，提出一种H.265视频带宽实时预测(video bandwidth real-time prediction prediction，VBRP)模型。VBRP模型基于马尔可夫琏，用于动态网络环境下提升视频直播的质量。在此模型基础上实现了视频带宽实时预测VBRP 算法，应用于RTMP(real time messaging protocol)[7]流媒体发布预测系统。本文专注的 $\\mathrm { H } . 2 6 5 ^ { [ 3 ] }$ 是继承H.264的新一代视频编码标准，与H.264一样，在视频编码序列中，主要有三种编码帧：I帧、P帧、B帧组成GOP，I帧即intra-codedpicture（帧内编码图像帧)，不参考其他图像帧，只利用本帧的信息进行编码；P帧即 predictive-coded picture（预测编码图像帧)，利用之前的I帧或P帧，采用运动预测的方式进行帧间预测编码；B帧即bidirectionallypredicted picture（双向预测编码图像帧)，提供最高的压缩比，它既需要之前的图像帧(I帧或P帧)，也需要后来的图像帧(P帧)，采用运动预测的方式进行帧间双向预测编码。本文研究了直播视频流的统计特性，即GOP编码模式下B帧对传输速率的影响程度，说明了根据当前带宽负载能力可选择地丢弃预测的B帧对提高用户体验的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 H.265编码的直播视频流特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "H.265编码的视频流中不但B帧的数量占了每个GOP的绝大部分而且比起其他帧B帧更容易被压缩而丢弃信息，这就意味着B帧对宽带的需求持续时间长又比其他帧更加不稳定，宽带分配还有进一步优化空间以提高宽带利用率。另外，B帧的重要性低于其他帧，所以适当丢弃B帧对整个视频质量影响有限。为了验证B帧大小对直播视频流变化的影响，本文采用文献[6]中的方法用帧大小的变异系数CoV(coefficientofvariation)来描述视频流的速率变化。由于直播传输的视频片段时长只有几秒甚至更短，因此，本文分析60分钟的H.265视频追踪文件。对于给定量化水平参数QP(quantizerparameter)编码后的视频帧组成的视频序列，如果此视频序列由 $\\mathbf { N }$ 帧组成， $X _ { n } ( n = 1 , 2 , 3 , . . . , N )$ 表示视频帧的大小，那么此视频的CoV定义如式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC o V = \\sigma / \\overline { { X } } = \\frac { \\sqrt { 1 / ( N - 1 ) { \\sum _ { n = 1 } ^ { N } } \\left( X _ { n } - 1 / N { \\sum _ { n = 1 } ^ { N } } X _ { n } \\right) ^ { 2 } } } { 1 / N { \\sum _ { n = 1 } ^ { N } } X _ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\sigma$ 是标准偏差， $\\ { \\overline { { X } } }$ 是视频序列帧的中值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从亚利桑那州立大学的视频追踪库[13]获取了6个不同的H.265 视频描述文件用作分析，用的视频包括“FindingNeverland\"\"LakeHouse\"，另外还有三个不同质量的监控视频描述文件。视频文件压缩格式为G24B7，每个视频文件又根据QP不同分为三种不同质量子文件，分别是 $\\mathrm { Q P = 1 0 , Q P = 2 5 }$ $\\scriptstyle \\mathrm { Q P = 4 0 }$ 。为了观察到H.265视频流的特征，分别计算了不同QP下的BPI帧的标准差，均值和CoV，结果如表I，可以观察到B帧的CoV远大于P帧和I帧的COV，也就是说B帧的帧数多于P帧和I帧。根据式(1)可以知道低质量的视频${ \\mathrm { Q P } } { = } 4 0$ ，整体上帧比较小，导致均值和标准差更小，所以CoV值较大，随着视频质量变高，三种类型帧的标准差，均值均变大。监控视频虽然B帧的CoV比前两个视频大，但是整体特征类似。通过均值和方差可以看出，监控视频的整体质量都要高于前两个视频，质量差异明显，便于观察差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于表2，可以看到当把视频中所有B帧移除，视频CoV明显减小，即I帧和P帧的大小变化更少。因此，降低帧大小的改变，在网络拥堵不稳定时会使H.265编码的视频流更加平滑。表2中，没有B帧的视频标准差和均值差值不大，有B帧的视频标准差与均值相差约3倍，总的来说，对于画面变换较大的，比如动作电影，战争电影，标准差是决定帧大小变化的一个重要指标。对于这样的视频，除了高平均码率的要求之外，码率变化幅度也很大。相反，低质量的视频通常需要较低的平均码率。CoV是描述码率变化的一个很好的度量指标，所以，选择性丢弃B帧能尽可能减少带宽需求，平滑编码视频流。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/12484c9d7361d9f475676253bd8383d290b97e8b1e61a27ff9ebb554d24dc634.jpg",
+        "table_caption": [
+            "Table1CoVofB,PandIframes sizes fromH.265 videos "
+        ],
+        "table_footnote": [
+            "表2丢弃B帧视频CoV的变化"
+        ],
+        "table_body": "<html><body><table><tr><td>QP</td><td>B-frames</td><td></td><td></td><td>P-frames</td><td></td><td colspan=\"3\">I-frames</td></tr><tr><td></td><td>STDEV</td><td></td><td></td><td></td><td></td><td>mean CoV STDEV mean CoV STDEV mean CoV</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Finding Neverland</td><td>101400 0.506 64148 269387 0.238 82784 337168 0.246</td><td></td><td></td></tr><tr><td>10 25</td><td>51347 4527</td><td>3031</td><td></td><td></td><td></td><td>1.494 14196 23304 0.609 23416 43578 0.537</td><td></td><td></td></tr><tr><td>40</td><td>494</td><td>304</td><td>1.625</td><td>2878</td><td></td><td>30690.9385170</td><td></td><td>8086 0.639</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>Lake House</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>88444 0.613 84243 232496 0.362 112836 2912930.387</td><td></td><td></td></tr><tr><td>10 25</td><td>54241</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>40</td><td>3703</td><td>2233</td><td>1.658</td><td>18177</td><td></td><td>196390.926 40271</td><td></td><td>46008 0.875</td></tr><tr><td></td><td>354</td><td>226</td><td></td><td>1.566 2817</td><td></td><td>24851.134 8268</td><td></td><td>8816 0.938</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>this paper Video</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>10 131385 189778 0.692 181907 411579 0.442 209239 527882 0.396</td><td></td><td></td><td></td></tr><tr><td>25</td><td>15471</td><td>8582</td><td></td><td></td><td>1.803 37002 46454 0.797 66866</td><td></td><td></td><td>94784 0.705</td></tr><tr><td>40</td><td>1022</td><td>582</td><td>1.756</td><td>5483</td><td></td><td>65050.84319250</td><td></td><td>20422 0.943</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c233d3e892c23cb6fe62769673e8046a6c3b172024cb0a8b666c41f909aa7fb5.jpg",
+        "table_caption": [
+            "表1H.265 视频的BPI帧大小的变异系数",
+            "Table 2The cov difference after discarding B-frames "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>QP</td><td colspan=\"3\">B-frames</td><td colspan=\"3\">Without-B-frames</td></tr><tr><td></td><td>STDEV</td><td>Mean</td><td>CoV</td><td>STDEV</td><td>Mean</td><td>CoV</td></tr><tr><td></td><td></td><td>Finding Neverland</td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>83878</td><td>125222</td><td>0.67</td><td>77770</td><td>291980</td><td>0.266</td></tr><tr><td>25</td><td>12202</td><td>6410</td><td>1.904</td><td>20210</td><td>30062</td><td>0.672</td></tr><tr><td>40</td><td>2207</td><td>858</td><td>2.572</td><td>4475</td><td>4741</td><td>0.944</td></tr><tr><td></td><td colspan=\"6\">Lake House</td></tr><tr><td>10</td><td>81983</td><td>108900</td><td>0.753</td><td>98704</td><td>252095</td><td>0.392</td></tr><tr><td>25</td><td>14193</td><td>5508</td><td>2.577</td><td>30253</td><td>28429</td><td>1.064</td></tr><tr><td>40</td><td>2611</td><td>772</td><td>3.382</td><td>6081</td><td>4596</td><td>1.323</td></tr><tr><td colspan=\"7\">this paper Video</td></tr><tr><td>10</td><td>165792</td><td>222355</td><td>0.746</td><td>199115</td><td>450383</td><td>0.442</td></tr><tr><td>25</td><td>29891</td><td>15332</td><td>1.95</td><td>54056</td><td>62579</td><td>0.864</td></tr><tr><td>40</td><td>6037</td><td>1903</td><td>3.172</td><td>13661</td><td>11149</td><td>1.225</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 模型建立和算法实现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据H.265编码标准，GOP中的B帧是参考I帧和P帧得到的，因此这些帧的大小可能存在很强的相关性。文献[6,12]用式(2)计算了MPEG-4，H.264，H.265编码视频GOP中的每个B帧大小与每个I帧或B帧的相关系数 $\\rho _ { x y }$ ，同时通过式(3)计算了B帧的自相关性。结果表明B帧之间有很强的自相关性，以及B帧和 $\\mathrm { ~ \\bf ~ P ~ }$ 帧之间也有很强的相关性，所以可以根据这些信息更加准确的预测B帧。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { x , y } = { \\frac { E ( X , Y ) - E ( X ) E ( Y ) } { \\sigma _ { x } \\sigma _ { y } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\cal X }$ 表示B帧大小， $Y$ 表示I帧或P帧大小，$E ( X , Y ) - E ( X ) E ( Y )$ 为 $X$ 和 $Y$ 的协方差， $\\sigma _ { x }$ 和 $\\sigma _ { y }$ 是 $\\boldsymbol { \\cal X }$ 和 $Y$ 的标准差。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( k ) = \\frac { E [ ( X _ { n } - \\overline { { X } } ) ( X _ { n + k } - \\overline { { X } } ) ] } { \\sigma _ { x } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\boldsymbol { \\cal X }$ 是 $\\mathbf { B }$ 帧的大小， $\\sigma _ { x }$ 是 $\\boldsymbol { \\cal X }$ 的标准差， $k$ 是滞后帧数。E(XY)-XY",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于H.265编码的视频流里有大量随机产生的小的B帧[9,12]，为了提高B帧预测的准确度，参考文献[6,12]提出的对B 帧分类的方法，将H.265视频中每个GOP包含的B帧以所有B帧大小中值为分界线分为两个子集SBF(smallB-frames)和BBF(bigB-frames)，本文用寻找最佳分布拟合软件EasyFit对大量H.265编码视频的分析，发现H.265视频中的小帧SBF的最佳分布是对数逻辑分布或者皮尔逊V分布，大帧BBF的最佳拟合分布大部分是韦伯尔分布，较少服从均匀分布，与文献[12]一样，用最大似然估计方法确定这些分布的参数。在模型训练阶段，为了找到适合SBF和BBF的最佳分布，用相对百分比误差(relative percentage error,RPE)去评估B帧的预测值与真实值之间的误差。本文实验用的H.265视频GOP模式为G24B7如表3所示，寻找GOP中的B1\\~B21帧最佳分布，用来预测随后到来的GOPt中的B帧。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb523cd24d3274347e2a1ab90d586bab09bb75bac99ea7ccaef27ea9e81e28ff.jpg",
+        "table_caption": [
+            "表3G24B7的GOP编码模式"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table 3The GOP encoding pattern of G24B7</td></tr><tr><td>LB1B2...B6 B:7Pt1B8 B9...B13B:14 P2B:15B:16...B20 B21</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR P E = \\frac { \\sum _ { m = 1 } ^ { L } \\mathcal { E } _ { m } } { \\sum _ { m = 1 } ^ { L } X _ { m } } x 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\varepsilon _ { m } = \\hat { X } _ { m } - X _ { m }$ 为边缘误差，即预测值与真实值之间的差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "除此之外，为了更加准确的找到最佳分布，本文还用了均匀绝对百分比误差 MAPE(mean absolute percentage error)如式(6)以及QQ-plot 进行误差评估，QQ-plot 是一种强大的拟合优度测试比较图形[14]，它可以直观得验证一组数据是否来自同一分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ M A P E = { \\frac { 1 0 0 \\% } { n } } \\sum _ { t = 1 } ^ { n } \\biggl | { \\frac { A _ { t } - F _ { t } } { A _ { t } } } \\biggr |\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $A _ { t }$ 为真实值， $F _ { \\mathrm { { } } _ { t } }$ 为预测值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "综上所述，提出了预测B帧寻找最佳分布的训练模型算法如算法1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法1B帧寻找最佳分布训练算法.",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. $/ / \\mathrm { m }$ 表示每个GOP里B帧的数量  \n2. //ArithmeticalMean是GOP里所有B帧大小的算术平均值  \n3. $/ / \\mathrm { X P _ { \\mathrm { { a b } } } }$ 和 $\\mathrm { X P _ { \\beta b } }$ 表示X分布关于BBF的参数  \n4. $/ / \\mathrm { X P _ { a s } }$ 和 $\\mathrm { X P _ { \\beta s } }$ 表示X分布关于SBF的参数  \n5. Procedure FindingTheBestDistribution  \n6. forCountBFrame $_ { = 0 }$ to m by increment do  \n7. ArithmeticalMean from Bframes;  \nif(Bframe $\\prec$ ArithmeticalMean）  \n8. SBF $$ Bframe;  \n9. elseBBF $$ Bframe;  \n10. end if  \n11. //根据各种分布产生随机数  \n12. LogRB=LogisticRegression $\\mathrm { L P } _ { \\mathrm { a b } }$ ， （20 $\\lvert \\mathrm { L P _ { \\beta b } } \\rvert$ ：  \n13. LogRS=LogisticRegression $\\mathrm { L P _ { u s } }$ ， $\\mathrm { L P _ { \\beta s } ) }$ ，  \n14. PearsonVB $\\ c =$ PearsonV $( \\mathrm { P P } _ { \\mathrm { a b } }$ ， $\\mathrm { P P _ { \\beta b } } \\mathrm {                 { } } ,$ ：  \n15. PearsonVS=PearsonV( $\\mathrm { P P _ { u s } }$ ， $\\mathrm { P P _ { \\beta s } ) }$ ·  \n16. WeibB $\\ c =$ Weibull( $\\mathrm { W P _ { \\mathrm { { a b } } } }$ ， $\\mathsf { W P _ { \\beta b } } )$ ：  \n17. WeibS $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ Weibull ( $\\mathrm { P P _ { o s } }$ ， $\\mathrm { P P _ { \\beta s } ) }$   \n18. UniformB $\\vDash$ Uniform( $\\mathrm { U P } _ { \\mathrm { a b } }$ ， $\\mathsf { U P } _ { \\beta \\boldsymbol { \\mathrm { b } } } )$ ：  \n19. UniformS $\\ c =$ Uniform ( $\\mathrm { U P } _ { \\mathrm { a s } }$ ， $\\mathrm { U P _ { \\beta s } ) }$ ·，  \n20. ...//其他分布  \n21. //DistrbTypeNum表示用了多少种分布",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "22. //CriterionListX表示存储各种评估值的链表   \n23. //DistrbTypeX表示以上分布产生关于xBF的随机数   \n24. for $\\mathrm { i } { = } 0$ to DistrbTypeNum by increment do   \n25. CriterionListB[RPEType][CountBFrame] $$ RPE(DistrbTypeB[i] BBF);   \n26. CriterionListS[RPEType] [CountBFrame] $$ RPE(DistrbTypeS[i]，SBF);   \n27. CriterionListB[MAPEType][CountBFrame]←MAPE (DistrbTypeB[i]，BBF);   \n28. CriterionListS[MAPEType] [CountBFrame] $$ MAPE (DistrbTypeS[i]，SBF);   \n29. CriterionListB[QQplotType][CountBFrame] $$ QQplot (DistrbTypeB[i]，BBF);   \n30. CriterionListS[QQplotType] [CountBFrame] $$ QQplot (DistrbTypeS[i]，SBF);   \n31. end for   \nend for   \n32. //Choose the best distribution   \n33. for CountBFrame $\\scriptstyle = 0$ to m by increment do   \n34. BestDistBBF(CountBFrame) $$ Best(CriterionListB);   \n35. BestDistSBF(CountBFrame) $$ Best(CriterionListS);   \n36. end for ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\small \\mathrm { G e t ( P _ { b b } , ~ \\ P _ { b s } , ~ \\ P _ { s b } , ~ \\ P _ { s s } ) ; }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "endProcedure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过模型训练为BBF和SBF找到最佳分布以后，在此后预测下一个或更多B帧的大小之前，需要判断即将到来的B帧是BBF还是SBF，需要以上训练结果进行对H.265编码的视频B帧类型（BBF或者SBF）实时预测，最后根据相应的分布得到B帧大小的预测值。本文提出了一种基于马尔可夫模型的预测算法，为GOP的每一个B帧建立一条2状态马尔可夫琏，比如本文用到的GOP模式为G24B7，那么一个GOP里包含21个B帧，就需要21条不同2状态马尔可夫琏。显然，每个状态琏有4个转移概率:BBF $$ BBF，BBF $$ SBF，SBF $$ BBF，SBF ${ \\bf - } \\mathrm { s B F }$ ，用式(6)描述。接着定义4个转移概率分别用 $\\mathrm { \\Delta P _ { b b } }$ ， $\\mathrm { \\Delta P _ { b s } }$ ， $\\mathbf { P } _ { \\mathrm { s b } }$ ， $\\mathrm { \\Delta P _ { s s } }$ 来表示由算法一在训练时得到，图1表示第t个GOP中的第 $\\mathbf { m }$ 个B帧通过转移概率预测第 $\\mathbf { t } { + } 1$ 个GOP中的第 $\\mathrm { ~ m ~ }$ 个 $\\mathbf { B }$ 帧的类型。以预测B1帧为例，分为两步：第一，计算出需要预测B1帧的类型，第二，用最佳分布产生B1帧大小，如图2所示，由此提出算法二。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { i j } ( t , t + n ) = P \\{ X _ { t + n } = a _ { j } \\mid X _ { t } = a _ { j } \\} \\quad t = 1 , 2 , . . . , N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $t$ 表示第 $t$ 个GOP， $a _ { i }$ 表示第 $t$ 个GOP时的B帧类型，$a _ { j }$ 表示第 $t + n$ 个GOP 时的B 帧类型， $P _ { i j }$ 表示在第 $\\textit { t }$ 个GOP时状态 $a _ { i }$ ，在第 $t + n$ 个GOP转移到状态 $a _ { j }$ 的概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f5baae3ccdac84c2a0d3c2ef00b040cdef09251e2ffee34a57a38d3744d04a8.jpg",
+        "img_caption": [
+            "图1马尔可夫琏预测B帧类型",
+            "Fig.1Use Markov chains to predict the type of B frame "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法2一种基于马尔可夫琏的B1帧实时预测算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. /GOPn表示GOP 的数量  \n2. // $\\mathrm { \\Delta P _ { b b } }$ ， $\\mathrm { \\Delta P _ { b s } }$ ， $ { \\mathrm { P _ { s b } } }$ ， $\\mathrm { \\bf P } _ { \\mathrm { s s } }$ )为转移矩阵，由训练算法得到  \n3. Procedure B-FramesPrediction  \n4. for t=InitalNum to GOPn by increment do  \n5. //计算B帧为BBF和SBF的概率  \n6. $( \\mathrm { P _ { t + 1 , b } } , \\quad \\mathrm { P _ { t + 1 , s } } ) \\gets ( \\mathrm { \\Phi ( \\mathrm { P _ { t b } } , \\quad \\mathrm { P _ { t s } } ) ( \\mathrm { P _ { b b } , \\mathrm { \\Phi } \\mathrm { P _ { b s } , \\mathrm { \\Phi } \\mathrm { P _ { s b } , \\mathrm { \\Phi } \\mathrm { P _ { s s } } ) \\phi } } } } )$   \n7. BestDistribution of BBF or $\\mathrm { S B F {  } M a x ( P _ { t + k , b } }$ ， $\\mathbf { P } _ { 1 + \\mathrm { k } , s } )$ （204号  \n8. //通过最佳分布预测B帧大小  \n9. Bframe $$ BestDistribution(",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. end for end Procedure ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/38ca15abe11d3e4fddd78ebb92abb2463c1c418a062c982a35ceee037bf92424.jpg",
+        "img_caption": [
+            "图2B帧预测琏",
+            "Fig.2Markov prediction chains forB frames "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 模型优化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "定义1B 帧预测值 $b p$ 与真实值 $b a$ 之间的误差，记为$E$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { k = 1 } ^ { n } \\bigl | b p _ { k } - b a _ { k } \\bigr | ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法2通过初始模型的训练获得B帧两种类型BBF和SBF 的转移矩阵，在GOP序列里预测 ${ \\bf B } _ { \\mathrm { t , m } } , { \\bf B } _ { \\mathrm { t + 1 , m } } , { \\bf B } _ { \\mathrm { t + 2 , m } } , \\ldots ,$ $\\mathbf { B } _ { \\mathrm { t + n } }$ $\\mathbf { \\rho } _ { \\mathrm { m } }$ 帧 $\\mathrm { t } { + } \\mathrm { n }$ 表示GOP序列号， $\\mathbf { m }$ 表示一个GOP里B帧序列号)用的转移矩阵与初始矩阵一致，而视频直播过程中，随着时间推移可能不满足马尔可夫琏转移概率的时齐性，为了尽可能避免这种情况，本文提出了由阈值FT来决定是否重新训练，因此，FT值的大小将决定训练频率，及当FT值较大时，预测过程中训练次数将增多，算法消耗资源较多。反之，当FT值较小时，预测过程中训练次数将减小。在此模型中，当 $\\mathbf { E } > \\mathbf { F T }$ 时开始再次训练算法一，其中E由式(6)得到。又因为，每次训练后原来的FT可能不适用当前预测模型，所以需要FT与B帧预测的准确度建立联系，既不让FT过大过小，也不让预测准确度波动太大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "引入步长调节因子AF及在预测过程中限制向前预测 $\\mathbf { B } _ { \\mathrm { m } }$ 帧帧数，将有效解决这一问题，令 $\\mathrm { F T } = 1 /$ ExAxFunc(AF)，E为积累误差，A为系数， $0 < \\mathrm { A F } < 1$ ， $0 < \\mathrm { F u n c } ( \\mathrm { A F } ) < 1$ ，Func(AF)使得当AF值较小时，FT取值较大，及预测算法执行次数增加，积累误差肯定会比执行算法次数少时大，所以应该加大再次训练容忍度即FT变大。反之，FT取值较小。因此，一种可能取值 $\\mathrm { F u n c ( A F ) } = ( 1 - \\mathrm { A F ) } ^ { 2 }$ 及 $\\mathrm { F T } = 1 / \\mathrm { E x A x } ( \\mathrm { 1 { - } A F } ) ^ { 2 }$ 0",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了根据网络带宽选择性丢弃B帧，参考TCP阻塞控制算法 Westwood[15]的带宽估计方法，每个RTT(Round-TripTime)时间内，对发送端做带宽估计，即RTT内成功被ACK了多少字节。最后用带宽估计值来决定B帧的丢弃与否，如式(8)所示， $\\boldsymbol { d } _ { k }$ 表示是否丢弃B帧的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\eta _ { k } < b p } } \\\\ { { \\eta _ { k } > b p } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上，改进后的测试模型用算法三来描述，算法3一种新的B1帧实时预测算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. //GOPn表示GOP的数量  \n2. （204 $/ / \\operatorname { P } _ { \\mathrm { t + k , ~ b } }$ ， $\\mathbf { P } _ { \\mathrm { t + k } }$ s为第 $\\mathbf { t } { + } \\mathbf { k }$ 个GOP大小帧产生的概率  \n3. / $\\mathrm { \\cdot } \\mathrm { P } _ { \\mathrm { b b } }$ ， $\\mathrm { \\Delta P _ { b s } }$ ， $ { \\mathrm { P _ { s b } } }$ ， $\\mathrm { \\Delta P _ { \\mathrm { { s s } } } }$ )为转移矩阵，由训练算法得到  \n4. //PredictN表示在当前GOP，需要向前预测B1帧帧数，及预测步  \n长，由步长调节因子AF的到  \n5. Procedure B-FramesPrediction  \n6. for t=InitalNum to GOPn by increment do  \n7. //计算B帧为BBF 和 SBF 的概率  \n8. for $\\mathrm { k } { = } 1$ to PredictN by increment do  \n9. $( \\mathrm { P _ { t + k , \\ b } } , \\quad \\mathrm { P _ { t + k , \\ s } } ) \\gets ( \\ ( \\mathrm { P _ { t , \\ b } } , \\quad \\mathrm { P _ { t , \\ s } } ) ( \\mathrm { P _ { b b } } , \\ \\mathrm { P _ { b s } } , \\ \\mathrm { P _ { s b } } , \\ \\mathrm { P _ { s s } } ) \\ )$ （204号  \n10. BestDistribution of BBF or SE $\\mathrm { 3 F  M a x ( P _ { t + k , b } }$ ， $\\mathbf { P } _ { 1 + \\mathrm { k } , \\mathrm { s } } )$ （204号  \n11. //通过最佳分布预测B帧大小  \n12. Bframe $$ BestDistribution()  \n13. if $\\mathrm { { ( d _ { 1 } = 1 ) } }$ drop Bframe  \n14. else $\\operatorname { E } = \\operatorname { E } +$ Bframe-RealValue|2  \n15. end if  \n16. end for  \n17. $\\scriptstyle { \\mathrm { t } } = { \\mathrm { t } } + { \\mathrm { k } }$ （20  \n18. end for  \n19. E=mean (RPE，MAPE，QQplot)  \nif $( \\mathrm { E } > \\mathrm { F T } )$ （2  \n20. FT=1/E xAx(1-AF)².  \n21. FindingTheBestDistribution()  \n22. end if  \nend procedure",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 实验与仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1算法仿真",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了评估本文提出VBRP算法性能，开发了B帧预测程序，对\"Finding Neverland\"Lake House\"和监控视频中 1000个B帧进行预测。质量为 $\\mathrm { Q P = } 1 0$ 的视频文件作为预测程序的输入，输出为预测的B帧序列，来模拟直播视频流。本实验验证本文提出的算法实际预测误差大小百分比。选择IntelCorei5-3470CPU，16GBDDR3Centos6.8操作系统的服务器作为物理机实验平台。如图2所示， $\\textbf { \\em x }$ 轴为B帧的序列号，y轴为预测值与真实值的绝对误差百分比，在积累误差较大时，本文提出的VBRP算法比模拟退火预测算法和One Setfits all 更加平稳，在预测\"FindingNeverland”，“LakeHouse\"和监控视频中的B帧时，VBRP算法(图3中黑色曲线)误差率在 $3 \\% { \\sim } 2 5 \\%$ 之间，显著优于其他两种算法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2系统实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前直播系统解决方案很多，其中比较出色的有Adobe公司的RTMP协议直播方案，Apple 公司的HLS(HTTPlivestreaming)协议直播方案和谷歌的WebRtc方案。RTMP方案比较成熟，延迟低，搭建方便，但是需要通用性不够。HLS方案适合各种浏览器直接播放，兼容性强，特别是移动终端观看视频直播。WebRtc方案延迟低，兼容性基于前两者之间，实现较复杂，并发性低。因此，为了实验的便利性，本文参考文献[16\\~18]实现了基于RTMP协议的视频直播系统。由三部分组成：Centos作为服务器的基本操作系统，Nginx $^ +$ Nginx-rtmp-module作为流媒体发布服务器，FFmpeg作为推流服务器。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，在Centos6.8系统上，编译安装Nginx 和Nginx-rtmp-module，修改Nginx的配置文件，使其支持RTMP协议的流媒体发布。接着，编译安装FFmpeg 并在编译时开启H.265协议的支持，如-enable-libx265。最后开始用FFmpeg进行推流到流媒体服务器的缓存路径，客户端通过ip 地址来观看直播视频。然后对预测算法运行的拓扑位置进行分析，第一种方法，预测算法整合进Nginx 流媒体服务器中，重组RTMP的Chunks缓存，再进行预测，对随后到来的Chunks执行：重组 $$ 丢弃B帧 $$ 拆分。第二种方法，将预测算法整合进FFmpeg，训练模型单独创建一个训练线程，在生成Chunks前根据算法执行B帧丢弃：丢弃B帧 $$ 拆分。第一种方法增加了延时，使得预测滞后，影响了整个预测系统。第二种方法，在编码H.265之后生成RTMP的Chunks之前进行预测，然后根据网络带宽执行B帧丢弃。显然，相对于第一种方法，第二种方法延迟更小，消耗的资源更少。所以本文实现了第二种方法如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/157279c6d4a4ed62d5857638123438d8b8e691e2e2cbcc2aaff70952ed516e20.jpg",
+        "img_caption": [
+            "Fig.3Percentage error between the predicted value and the real value of the B frames "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/873a34178f9bf6ebb56f6570a808248e7e457859d6f57bf79034ec341de56dd8.jpg",
+        "img_caption": [
+            "图3B帧的预测值与真实值的误差百分比 ",
+            "图4预测算法运行系统",
+            "Fig.4System of prediction algorithm running "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出的VBRP模型通过研究H.265编码的视频流特征，根据特征将B帧分为BBF和SBF两种类型，在训练阶段寻找到适合BBF或SBF帧类型的最佳拟合分布。用一种新的马尔可夫琏预测即将到来的B帧类型，确定类型后，最佳拟合分布产生的B帧就是预测帧大小。同时引入了FT作为模型训练的阈值，AF作为B帧预测的步长调节因子，使模型训练频率动态根据AF和积累误差E动态变化，进一步提高了预测模型的准确率。在模型仿真验证之后，将VBRP算法应用于Nginx 和FFmpeg 等组成的流媒体发布系统。实验表明，所提出的VBRP算法要优于模拟退火预测算法和静态视频文件预测算法[12]。然而，提出的模型AF的值是经验性的，有待进一步改进，选择性丢弃B帧所依据的网络带宽预测仅仅是根据RTT来确定的，由RTT的变化在一定程度上反映了网络拥塞程度的变化，B帧的丢弃不能完全依赖RTT获取的带宽值，否则B帧的丢弃将失去合理性。下一步工作，将研究准确度更高的网络带宽预测模型并将应用到模型中，并分析网络带宽大小对AF取值的影响，使AF的值随网络带宽大小变化，进一步提高预测准确度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Annual Meeting of Stockholders of Netflix，Inc.[EB/OL].(2017) [2018-07-10].https://s22.q4cdn.com/959853165/files/doc_financials/ annual_rep0rts/0001065280-18-000069.pdf.   \n[2]Cisco visual networking index:global mobile data traffic forecast update,2015-2020 [EB/OL].(2016)[2018-07-10].https://www.cisco. com/c/dam/m/en_in/innovation/enterprise/assets/mobile-white-paper-c1 1-520862.pdf   \n[3]J Sullivan G,OhmJR,Han WJ,et al.Overview of the high efficiency video coding (HEVC) standard [J].IEEE Trans on Circuits and Systems for Video Technology,2012,22(12):1649-68.   \n[4]Qi Xin,Yang Qing,Nguyen DT,et al.A context-aware framework for reducing bandwidth usage of mobile video chats [J].IEEE Trans on Multimedia,2016,18 (8):1640-1649.   \n[5]Sarkar U K,Ramakrishnan S,Sarkar D.Modeling full-length video using Markov-modulated gamma-based framework [J].IEEE/ACM Trans on Networking,2003,11(4):638-649   \n[6]LanfranchiLI,Bing B K.MPEG-4 bandwidth prediction for broadband cable networks [J].IEEE Trans on Broadcasting,2008,54(4):741-751.   \n[7]Parmar H,Thornburgh M.Real-Time Messaging Protocol (RTMP) specification (version 1．0）[EB/OL].(2012)[2018-07-10]．http:// wwwimages.adobe.com/www.adobe.com/content/dam/acom/en/devnet/ rtmp/pdf/rtmp_specification_1.0.pdf.   \n[8]Miller K,Bethanabhotla D,Caire G, et al.A Control-theoretic approach to adaptive video streaming in dense wireless networks [J]. IEEE Trans on Multimedia,2015,17 (8):1309-1322.   \n[9]Kalampogia A,Koutsakis P.Using simulated annealing for improved video bandwidth prediction [C]//Proc of IEEE Conference on Computer Communications Workshops.2017: 701-705.   \n[10] Colonnese S，Russo S,Cuomo F,et al.Timely delivery versus bandwidth allocation for DASH-based video streaming over LTE [J]. IEEECommunications Letters,2016,20(3):586-589.   \n[11] Sodagar I. The MPEG-DASH standard for multimedia streaming over the Internet [J].IEEE Multimedia,2011,18(4): 62-67.   \n[12]Kalampogia A，Koutsakis P. H.264 and H.265 video bandwidth prediction [J].IEEE Trans on Multimedia,2017,PP(99):1-1.   \n[13]Arizona State University. Trace files and statistics [EB/OL].(2012) [2018-O7-1O].http://trace.eas.asu.edu/tracemain.html.   \n[14] Ito M,Yoshida K,Hachiya H,et al.Quantification of the scatter distributions for liver fibrosis using modified Q-Q probability plot [C]// Proc of Ultrasonics Symposium.2014:2394-2397.   \n[15] Mascolo S,Casetti C,Gerla M,et al.TCP westwood:end-to-end bandwidth estimation for efficient transport over wired and wireless networks [C]/Proc ofACMMOBICOM.2001.   \n[16] Zhao Pengyu,Li Jianwei,Xi Jianxiao,et al.A mobile real-time video system using RTMP[C]//.Proc of the 4th International Conference on Computational Intelligence and Communication Networks. 2012: 61-64.   \n[17] Huang Jian,Wu Dongmei,Liu Xiaopei.Implementation of the Rtmp Server Based on Embedded System [C]//Proc of International Conference on Computer Science and Information Processing.2012: 160-162.   \n[18] Lei Xiaohua,Jiang Xiuhua,Wang Caihong.Design and implementation of streaming media processing software based on RTMP[C]// Proc of International Congress on Image and Signal Processing.2O13:192-196. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,564 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮添加硫酸锌对京红蛋鸡产蛋性能的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郑爱娟」白洁」蔡辉益1,2 陈志敏」 常文环」 邓雪娟² 刘国华1\\*(1．中国农业科学院饲料研究所，农业部饲料生物技术重点开放实验室，北京100081；2.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生物饲料开发国家工程研究中心，北京100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验通过在基础饲粮中添加不同水平的硫酸锌，研究其对京红蛋鸡产蛋高峰期产蛋性能和组织中金属硫蛋白含量的影响。选择20 周龄 540 只健康产蛋高峰期的京红蛋鸡，随机分为6个组，每组6个重复，每个重复15只鸡。对照组饲喂基础饲粮（含锌 $2 5 \\mathrm { m g / k g ) }$ ，试验组在基础饲粮中分别添加25、50、75、100 和 $1 2 5 ~ \\mathrm { m g / k g }$ 硫酸锌（以锌计)。预试期 2周，正试期 24周。结果显示：1）在基础饲粮中添加不同水平的硫酸锌对整个试验期的产蛋率、平均日耗料量、平均蛋重、料蛋比和死淘率均无显著影响（ $P { > } 0 . 0 5 \\$ )；2）在基础饲粮中添加不同水平的硫酸锌显著提高了胸肌中金属硫蛋白含量（ $P { < } 0 . 0 5 )$ ，但对心肌中金属硫蛋白含量无显著影响（ $\\scriptstyle P > 0 . 0 5 { \\mathrm { : } }$ )；3）二次曲线回归预测，京红蛋鸡饲粮中硫酸锌添加水平为$7 5 \\mathrm { m g / k g }$ 时，整个产蛋高峰期平均日耗料量最低。结果提示，饲粮添加不同水平硫酸锌对京红蛋鸡产蛋高峰期产蛋性能无显著影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：硫酸锌；蛋鸡；产蛋性能；金属硫蛋白中图分类号：S816",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究京红蛋鸡产蛋高峰期饲粮中锌的适宜添加剂量对于提高京红蛋鸡产蛋性能和生态环保养殖具有重要意义。锌是禽类生长和生命活动所必需的微量元素之一[1]，与 300 多种酶和蛋白质的结构或激活有关，如参与乳酸脱氢酶、碱性磷酸酶、铜锌超氧化歧化酶、碳酸酐酶和DNA聚合酶等的合成与激活[2]；锌参与激素如胰岛素的合成及作用，并与核酸、脂类、蛋白质、维生素和其他矿物微量元素间有密切关系[3]；锌作为碳酸酐酶影响碳酸盐的供应，影响蛋壳的形成[4]。因此锌对家禽的生长发育、生产性能、繁殖和免疫功能等均有显著影响[5]。研究报道饲粮中锌的含量小于 $1 0 \\mathrm { m g / k g }$ ，导致产蛋率和孵化率降低[]；饲粮中 $2 8 \\mathrm { m g / k g }$ 锌可以满足母鸡产蛋、孵化和雏鸡生长需要[7]，NRC（1994）推荐饲粮中 $3 5 . 5 \\mathrm { m g / k g }$ 锌能够满足褐壳蛋鸡产蛋需要。研究显示，添加 $4 8 \\mathrm { m g / k g }$ 锌不影响产蛋率[8]。综合前人研究结果，",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2017-11-22  \n基金项目：家禽产业技术体系北京市创新团队（CARS-PSTP)；中国农业科学院科技创新工程协同创新任务（CAAS-XTCX2016015）  \n作者简介：郑爱娟（1977一)，女，河北唐山人，博士，研究方向为动物营养与饲料科学。E-mail: zhengaijuan@caas.cn  \n\\*通信作者：刘国华，研究员，博士生导师，E-mail: liuguohua@caas.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以传统方法评定蛋鸡对锌的需要量为 $3 0 { \\sim } 5 0 \\mathrm { m g / k g ^ { \\left[ 9 \\right] } }$ 。近年来，随着微量元素营养研究的深入，采用更为敏感的胫骨锌等指标评估锌需要量高于传统方法评定的需要量，其值为72$\\mathrm { m g / k g ^ { [ 1 0 ] } }$ 。同时，为了避免亚临床症状的产生，生产中存在超量添加的问题。添加过量不仅引起蛋鸡代谢紊乱，而且会造成资源浪费，同时给环境带来污染。在产蛋高峰期饲粮中添加适量锌，对于维持产蛋鸡的产蛋性能和免疫机能至关重要。评价锌需要量的敏感指标之一是金属硫蛋白（metalothionein,MT)，MT是富含半胱氨酸的金属结合蛋白，与体内必需金属元素的储运、代谢和调节有关，使机体达到最佳生理状态[11]。锌能诱导多种组织MT 合成，MT 对饲粮锌变化敏感[12]。本试验研究实用饲粮条件下饲粮锌水平对蛋鸡产蛋性能和组织中MT 含量的影响，评价其在蛋鸡饲粮中的适宜添加量，为养殖生产合理添加锌提供科学指导。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法  \n1.1试验材料一水硫酸锌（饲料级)，含锌量 $3 5 . 5 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用 540只20周龄后备蛋鸡随机分为6个组，每组6个重复，每个重复15只鸡（分5笼饲养，每笼3只鸡)。基础饲粮采用玉米－豆粕型饲粮，锌含量为 $2 5 \\mathrm { m g / k g }$ ，配方参考京红蛋鸡公司推荐的饲养标准，其组成及营养水平见表1。在基础饲粮中添加不同水平的硫酸锌组成6个试验饲粮（表2)，包括T1（基础饲粮）、T2[基础饲粮 $+ 2 5 \\mathrm { m g / k g }$ 硫酸锌（以锌计，下同）]、T3（基础饲粮 $+ 5 0 \\mathrm { m g / k g }$ 硫酸锌）、T4（基础饲粮 $+ 7 5 \\mathrm { m g / k g }$ 硫酸锌）、T5（基础饲粮 $+ 1 0 0 \\mathrm { m g / k g }$ 硫酸锌）和T6（基础饲粮 $+ 1 2 5 \\mathrm { m g / k g }$ 硫酸锌)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/effee2c7bb73e394d92ce45d96b63ad0700635feae1f0772f8d8e2267cca81fe.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1Composition and nutrient levels of the basal diet (air dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items 含量 Contents</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米Corn 66.25</td></tr><tr><td>豆粕 Soybean meal 22.84</td></tr><tr><td>磷酸氢钙CaHPO4 1.38</td></tr><tr><td>石粉 Limestone 8.90</td></tr><tr><td>DL-蛋氨酸 DL-Met 0.10</td></tr><tr><td>食盐 NaCl 0.30</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "C hinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "氯化胆碱 Choline chloride 0.10  \n预混料 Premix1) 0.13  \n合计 Total 100.00  \n营养水平 Nutrient levels2)  \n代谢能 ME/(MJ/kg) 11.08  \n粗蛋白质 CP 15.31  \n钙Ca 3.58  \n有效磷 AP 0.32  \n赖氨酸Lys 0.84  \n蛋氨酸 Met 0.35  \n蛋氨酸 $^ { + }$ 半胱氨酸Met+Cys 0.68  \n水分 Mositure 10.61  \n锌 $Z \\mathrm { n } / ( \\mathrm { m g } / \\mathrm { k g } )$ （204号 25.00  \n粗脂肪 EE 2.83  \n粗纤维 CF 14.15  \n粗灰分 Ash 10.75",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)预混料为每千克饲粮提供 The premix provided the following per $\\mathbf { k g }$ of the diet: VA 10 000 IU, $\\mathrm { V D } _ { 3 }$ 3 000 IU，VE $3 0 ~ \\mathrm { m g }$ ， $\\mathrm { V K } _ { 3 } \\ 1 \\ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 } ~ 1 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 6  { \\mathrm { m g } }$ ， $\\mathrm { V B } _ { 3 } ~ 1 0 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 5 } 4 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 3 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 1 } 0 . 3 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } \\ 0 . 0 1 \\ \\mathrm { m g }$ ，生物素biotin $0 . 1 \\mathrm { m g }$ ，Cu (as copper sulfate) $8 ~ \\mathrm { m g }$ ，Fe (as ferrous sulfate) $6 0 ~ \\mathrm { m g }$ ，Mn (as manganese sulfate) $6 0 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 ~ \\mathrm { m g }$ ，I(as potassium iodide) $0 . 7 \\mathrm { m g }$ 。 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f963cac0a987d1980a1d7d807816980b3c5b5f515e226025afef7777dffdf676.jpg",
+        "table_caption": [
+            "表2饲粮处理"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Table 2</td><td>Dietary treatments</td><td colspan=\"2\">mg/kg</td></tr><tr><td rowspan=\"3\">组别Groups</td><td>饲粮处理 Dietary treatments</td><td>饲粮锌含量计算值 Zn</td><td>饲粮锌含量实测值 Zn</td></tr><tr><td></td><td>content of the diet</td><td>content of the diet</td></tr><tr><td></td><td>(calculated value)</td><td>(measured value)</td></tr><tr><td>T1</td><td>基础饲粮</td><td>25</td><td>24.90</td></tr><tr><td>T2</td><td>基础饲粮+25mg/kg硫酸锌</td><td>50</td><td>48.98</td></tr><tr><td>T3</td><td>基础饲粮+50mg/kg硫酸锌</td><td>75</td><td>76.07</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/38d6d342ae615dc1c93c91a5a5acaaaff16438fab1ef28ec6d6e2dcdb04668d3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>T4</td><td>基础饲粮+75mg/kg硫酸锌</td><td>100</td><td>98.67</td></tr><tr><td>T5</td><td>基础饲粮+100 mg/kg 硫酸锌</td><td>125</td><td>127.01</td></tr><tr><td>T6</td><td>基础饲粮+125mg/kg硫酸锌</td><td>150</td><td>148.96</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验于2017年1月 ${ \\sim } 2 0 1 7$ 年8月，在中国农业科学院饲料研究所通州试验基地进行，采用立体双面三层全层叠鸡笼笼养， $1 6 \\mathrm { h }$ 光照，乳头式饮水器供水，自由采食试验饲粮（粉料)。期间接种1次禽流感疫苗。鸡舍卫生管理按常规进行。试验预试期2周，饲喂基础饲粮，进行健康观察，对各组进行产蛋性能分析，挑选和调整试验鸡，统计分析组间差异不显著（ $. P { > } 0 . 0 5$ ）后，开始正式试验。正式试验期饲喂试验饲粮，正试期24周。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标及方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 产蛋性能",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "每天12：00和21：00捡蛋2次，记录每天产蛋数和蛋重，汇总各重复产蛋数及称量蛋重，计算平均蛋重和产蛋率。每4周末称量剩余料重，计算平均日耗料量与耗蛋比。记录试验期间各组的死亡和淘汰情况，计算全期死淘率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 组织中 MT含量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "于45 周龄末每重复随机选取蛋鸡3只，取胸肌和心脏肌肉，测定胸肌和心肌中MT 的含量。将组织用 $1 : 1 0$ 的磷酸缓冲液（PBS）研磨，待测。采用酶联免疫法测定MT含量，试剂盒购自南京建成生物工程研究所，检测仪器采用MultiskanMK3酶标仪。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 试验数据统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS17.0 软件的单因子方差分析(one-wayANOVA)，因子显著性采用 $F$ 检验。对主效应显著的指标进行LSD多重比较。采用曲线估计（curve estimate）模块对锌添加水平与锌水平有关的敏感指标进行线性和二次模型回归分析，显著性水平设为 $P { < } 0 . 0 5$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1不同添加水平硫酸锌对京红蛋鸡产蛋高峰期产蛋性能和死淘率的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1不同添加水平硫酸锌对京红蛋鸡产蛋高峰期平均日耗料量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，与对照组相比，添加不同水平硫酸锌对不同饲喂阶段平均日耗料量均无显著影响 （ $\\scriptstyle \\cdot > 0 . 0 5 .$ ）°",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，蛋鸡 $2 2 { \\sim } 4 1$ 周龄各个饲喂阶段平均日耗料量与硫酸锌添加水平间无显著的线性或者二次曲线回归关系（ ${ \\cdot } P { > } 0 . 0 5 )$ ；试验全期（ $2 2 { \\sim } 4 5$ 周龄）蛋鸡平均日耗料量与硫酸锌添加水平间有显著的线性或者二次曲线回归关系（ $\\cdot P { < } 0 . 0 5 \\$ )，其回归方程为： $Y { = } 0 . 0 0 1 X ^ { 2 }$ -0.150X+121.0310 $R ^ { 2 } { = } 0 . 1 8 7 )$ ， $\\scriptstyle Y =$ -0.045X+119.275（ $R ^ { 2 } { = } 0 . 1 2 7$ )。由图1可知，二次曲线回归预测当硫酸锌添加水平为 $7 5 \\mathrm { m g / k g }$ 时，整个试验期蛋鸡平均日耗料量达到最小值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3不同添加水平硫酸锌对京红蛋鸡产蛋高峰期平均日耗料量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/b34d40af7280fc70058fde804dea6d973add670759e4d85dec4fef5574e6879f.jpg",
+        "table_caption": [
+            "Table 3Effects of different supplemental levels of zinc sulfate on average daily feed consumption of Jinghong laying hens during peak egg production period g "
+        ],
+        "table_footnote": [
+            "同列数据肩标无字母或相同小写字母表示差异不显著（ $( P { > } 0 . 0 5$ )，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ 不同大写字母表示差异极显著 $( P { < } 0 . 0 1 )$ 。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别 Groups</td><td colspan=\"6\"></td></tr><tr><td>22~25</td><td>22~29</td><td>周龄 Weeks of age 22~33</td><td>22~37</td><td>22~41</td><td>22～45</td></tr><tr><td>T1</td><td>124.34</td><td>115.66</td><td>120.82</td><td>120.02</td><td>122.37</td><td>122.36</td></tr><tr><td>T2</td><td>123.08</td><td>115.91</td><td>115.29</td><td>114.85</td><td>117.18</td><td>115.15</td></tr><tr><td>T3</td><td>124.64</td><td>117.40</td><td>116.24</td><td>116.36</td><td>117.99</td><td>115.90</td></tr><tr><td>T4</td><td>126.09</td><td>117.88</td><td>117.63</td><td>116.85</td><td>118.89</td><td>116.37</td></tr><tr><td>T5</td><td>123.72</td><td>115.69</td><td>115.87</td><td>115.20</td><td>116.84</td><td>113.96</td></tr><tr><td>T6</td><td>124.33</td><td>116.84</td><td>116.06</td><td>116.13</td><td>117.33</td><td>115.17</td></tr><tr><td>合并标准误</td><td>0.62</td><td>0.84</td><td></td><td></td><td></td><td></td></tr><tr><td>Pooled SEM</td><td></td><td></td><td>0.72</td><td>0.80</td><td>0.80</td><td>0.90</td></tr><tr><td>P值 P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理 Treatment</td><td>0.837</td><td>0.878</td><td>0.245</td><td>0.518</td><td>0.374</td><td>0.091</td></tr><tr><td>线性Linear</td><td>0.796</td><td>0.660</td><td>0.162</td><td>0.283</td><td>0.125</td><td>0.033</td></tr><tr><td>二次 Quadratic</td><td>0.875</td><td>0.706</td><td>0.205</td><td>0.350</td><td>0.200</td><td>0.033</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the same column, values with no letter or the same smalletter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ). The same as below. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b53b486ab5fa8fd5562e73756044f3c2ee49c55bcd071b2bae3bb293a878ec8d.jpg",
+        "img_caption": [
+            "图1硫酸锌添加水平与 $2 2 { \\sim } 4 5$ 周龄京红蛋鸡平均日耗料量的回归关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Regression between zinc sulfate supplemental level and average daily feed consumption of Jinghong ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2不同添加水平硫酸锌对京红蛋鸡产蛋高峰期产蛋率的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，添加不同水平的硫酸锌对各个饲喂阶段的京红蛋鸡产蛋高峰期产蛋率无显著影响 （ $. P { > } 0 . 0 5 )$ 。各个饲喂阶段京红蛋鸡产蛋高峰期产蛋率和硫酸锌的添加水平间无显著线性和二次回归关系（ $. P { > } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/180ae8424d05b2deb3d9106e74e0f49018a8788464cfdffc7d24b48a5ef2be2a.jpg",
+        "table_caption": [
+            "表4不同添加水平硫酸锌对京红蛋鸡产蛋高峰期产蛋率的影响",
+            "Table 4Effects of different supplemental levels of zinc sulfate on laying rate of Jinghong laying hens during peak egg production period % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别Groups</td><td colspan=\"6\">周龄 Weeks of age</td></tr><tr><td>22~25</td><td>22~29</td><td>22~33</td><td>22~37</td><td>22～41</td><td>22~45</td></tr><tr><td>T1</td><td>96.16</td><td>93.75</td><td>93.61</td><td>93.07</td><td>87.71</td><td>87.73</td></tr><tr><td>T2</td><td>94.00</td><td>93.16</td><td>93.32</td><td>92.66</td><td>87.10</td><td>87.11</td></tr><tr><td>T3</td><td>94.92</td><td>92.20</td><td>91.73</td><td>91.37</td><td>85.64</td><td>86.06</td></tr><tr><td>T4</td><td>94.20</td><td>92.91</td><td>93.04</td><td>92.29</td><td>87.51</td><td>87.46</td></tr><tr><td>T5</td><td>96.07</td><td>92.96</td><td>90.98</td><td>90.19</td><td>84.70</td><td>84.89</td></tr><tr><td>T6</td><td>95.83</td><td>92.99</td><td>92.78</td><td>92.50</td><td>86.81</td><td>86.77</td></tr><tr><td>合并标准误</td><td>0.47</td><td>0.47</td><td>0.50</td><td>0.51</td><td>0.46</td><td>0.43</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$P$ 值 $P$ -value ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/50ee426bfb9af8ab5efa572de3849ccd21a5575af12739dd1dc4b03eb83895a4.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.1.3不同添加水平硫酸锌对京红蛋鸡产蛋高峰期平均蛋重的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>处理Treatment</td><td>0.654</td><td></td><td>0.974</td><td>0.659</td><td>0.632</td><td>0.390</td><td>0.452</td></tr><tr><td>线性Linear</td><td></td><td>0.696</td><td>0.706</td><td>0.341</td><td>0.377</td><td>0.306</td><td>0.262</td></tr><tr><td>二次Quadratic</td><td></td><td>0.422</td><td>0.751</td><td>0.482</td><td>0.453</td><td>0.440</td><td>0.435</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，添加不同水平的硫酸锌对各个饲喂阶段京红蛋鸡产蛋高峰期平均蛋重无显著影响 $( P { > } 0 . 0 5 )$ 。 $2 2 { \\sim } 2 5$ 周龄和 $2 2 { \\sim } 2 9$ 周龄蛋鸡平均蛋重与硫酸锌添加水平间均有显著二次曲线回归关系( $( P { < } 0 . 0 5 )$ ，其回归方程分别为： $Y { = } { - } 0 . 0 0 0 \\ 2 6 5 X ^ { 2 } { + } 0 . 0 3 2 X { + } 6 0 . 0 1 2 ( R ^ { 2 } { = } 0 . 1 7 3 )$ 和 $Y { = } { - } 0 . 0 0 0 \\ 2 4 6 X ^ { 2 } { + } 0 . 0 4 0 X { + } 5 9 . 8 0 5 ( R ^ { 2 } { = } 0 . 1 8 1 )$ 。由图2和图3可知，二次曲线回归预测当硫酸锌添加水平分别为60.38 和 $8 1 . 3 0 \\mathrm { m g / k g }$ 时， $2 2 { \\sim } 2 5$ 周龄和 $2 2 { \\sim } 2 9$ 周龄蛋鸡平均蛋重分别达到最大值。其他各个饲喂阶段的蛋鸡平均蛋重与硫酸锌添加水平间无显著的线性或者二次曲线回归关系（ $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3de49b22d49468bc17de7ef452d35816d52a0423aba514baf4e1e78dd99bd7ce.jpg",
+        "table_caption": [
+            "表5不同添加水平硫酸锌对京红蛋鸡产蛋高峰期平均蛋重的影响",
+            "Table 5Effects of different supplemental levels of zinc sulfate on average egg weight of Jinghong laying hens during peak egg production period g "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别</td><td colspan=\"6\">周龄 Weeks of age</td></tr><tr><td>22~25</td><td>22~29</td><td>22~33</td><td>22~37</td><td>22~41</td><td>22~45</td></tr><tr><td>T1</td><td>60.17</td><td>60.79</td><td>61.18</td><td>61.44</td><td>61.53</td><td>61.46</td></tr><tr><td>T2</td><td>60.24</td><td>60.89</td><td>62.34</td><td>62.40</td><td>62.15</td><td>61.96</td></tr><tr><td>T3</td><td>61.16</td><td>61.67</td><td>62.05</td><td>62.23</td><td>62.17</td><td>62.69</td></tr><tr><td>T4</td><td>61.01</td><td>61.34</td><td>61.60</td><td>61.99</td><td>61.36</td><td>61.47</td></tr><tr><td>T5</td><td>60.42</td><td>61.03</td><td>61.27</td><td>61.49</td><td>61.31</td><td>61.91</td></tr><tr><td>T6</td><td>59.84</td><td>60.28</td><td>60.78</td><td>61.12</td><td>61.11</td><td>61.73</td></tr><tr><td>合并标准误 Pooled SEM</td><td>0.17</td><td>0.16</td><td>0.24</td><td>0.21</td><td>0.22</td><td>0.24</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Treatment</td><td>0.176</td><td>0.185</td><td>0.461</td><td>0.466</td><td>0.645</td><td>0.742</td></tr><tr><td>线性Linear</td><td>0.720</td><td>0.470</td><td>0.260</td><td>0.295</td><td>0.232</td><td>0.992</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/122cfadc71830534105b75e05fafc3e4f8c986d41197e813e716ec3349f8cd10.jpg",
+        "img_caption": [
+            "图2硫酸锌添加水平与 $2 2 { \\sim } 2 5$ 周龄京红蛋鸡平均蛋重的回归关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Regresson between zinc sulfate supplemental level and average egg weight of Jinghong laying hens ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "from 22 to 25 weeks of age ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2719f74d61e9541f8aec11dd14dc43bd53b5187ebaa147af251a95baea7e3627.jpg",
+        "img_caption": [
+            "图3硫酸锌添加水平与 $2 2 { \\sim } 2 9$ 周龄京红蛋鸡平均蛋重的回归关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Regression between zinc sulfate supplemental level and average egg weight of Jinghong laying hens ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "from 22 to 29 weeks of age ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.1.4不同添加水平硫酸锌对京红蛋鸡产蛋高峰期料蛋比的影响",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，添加不同水平硫酸锌显著提高了京红蛋鸡产蛋高峰期 $2 2 { \\sim } 2 9$ 周龄料蛋比（ $_ { . } P { < } 0 . 0 5 )$ ，试验组间料蛋比无显著差异（ $_ { ( P > 0 . 0 5 ) }$ ；但是添加不同水平的硫酸锌对其他几个饲喂阶段的料蛋比无显著影响（ $P { > } 0 . 0 5 )$ 。 $2 2 { \\sim } 2 9$ 周龄蛋鸡料蛋比与硫酸锌添加剂水平间有显著的二次曲线回归关系（ $P { < } 0 . 0 5$ ），其回归方程为： $Y = 0 . 0 0 0 0 2 3 7 X ^ { 2 } \\ -$ $0 . 0 0 5 X \\substack { + 2 . 2 8 7 ( R ^ { 2 } = 0 . 2 3 7 ) }$ 。由图4可知，二次曲线回归预测当硫酸锌添加水平为 $1 0 5 \\mathrm { m g / k g }$ 时，$2 2 { \\sim } 2 9$ 周龄蛋鸡料蛋比达到最小值。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5不同添加水平硫酸锌对京红蛋鸡产蛋高峰期料蛋比的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/782dd678eef55a8ddb8a6d865f927c238d9abb87265f17ef25de108d90cd21ad.jpg",
+        "table_caption": [
+            "Table 5Effects of different supplemental levels of zinc sulfate on the ratio offeed to gain of Jinghong laying hens during peak egg production period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组别</td><td colspan=\"6\">周龄 Weeks of age</td></tr><tr><td>22~25</td><td>22~29</td><td>22~33</td><td>22~37</td><td>22~41</td><td>22~45</td></tr><tr><td>T1</td><td>2.151</td><td>2.209a</td><td>2.114</td><td>2.105</td><td>2.334</td><td>2.325</td></tr><tr><td>T2</td><td>2.176</td><td>2.047b</td><td>1.997</td><td>1.998</td><td>2.239</td><td>2.195</td></tr><tr><td>T3</td><td>2.148</td><td>2.067b</td><td>2.046</td><td>2.051</td><td>2.282</td><td>2.210</td></tr><tr><td>T4</td><td>2.196</td><td>2.070b</td><td>2.054</td><td>2.045</td><td>2.275</td><td>2.216</td></tr><tr><td>T5</td><td>2.133</td><td>2.048b</td><td>2.089</td><td>2.084</td><td>2.318</td><td>2.234</td></tr><tr><td>T6</td><td>2.169</td><td>2.086b</td><td>2.061</td><td>2.057</td><td>2.270</td><td>2.207</td></tr><tr><td>合并标准误 Pooled SEM</td><td>0.014</td><td>0.016</td><td>0.017</td><td>0.017</td><td>0.020</td><td>0.022</td></tr><tr><td>P值P-value</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>处理</td><td>0.851</td><td>0.028</td><td>0.478</td><td>0.629</td><td>0.815</td><td>0.564</td></tr><tr><td>Treatment</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>线性 Linear</td><td>0.990</td><td>0.071</td><td>0.957</td><td>0.975</td><td>0.836</td><td>0.293</td></tr><tr><td>二次 Quadratic</td><td>0.965</td><td>0.011</td><td>0.603</td><td>0.696</td><td>0.862</td><td>0.324</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5029a6dbff59640f2553aa8e21dcb03248262838b055ca7f38f8f1f40345947b.jpg",
+        "img_caption": [
+            "图4硫酸锌添加水平与 $2 2 { \\sim } 2 9$ 周龄京红蛋鸡料蛋比的回归关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Regression between zinc sulfate supplemental level and the ratio offeed to gain of Jinghong laying ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "hens from 22 to 29 weeks of age ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.1.5不同添加水平硫酸锌对京红蛋鸡产蛋高峰期全期死淘率的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，添加不同水平的硫酸锌对京红蛋鸡产蛋高峰期全期死淘率无显著影响中 ${ ( P { > } 0 . 0 5 ) }$ 。京红蛋鸡产蛋高峰期全期死淘率和硫酸锌的添加水平间无显著线性和二次回归关系（ $_ { . P > 0 . 0 5 ) }$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/350f1f778c7e4a55421f2851bd5b8f4fb55f31aa8e808ab239093f075c6bdf24.jpg",
+        "table_caption": [
+            "表7不同添加水平硫酸锌对京红蛋鸡产蛋高峰期全期死淘率的影响",
+            "Table 7Efects of diferent supplemental levels of zinc sulfate on mortality of Jinghong laying hens "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"7\">during the whole peak egg production period</td><td colspan=\"3\">%</td></tr><tr><td>项目</td><td colspan=\"6\">组别Groups</td><td>合并标</td><td colspan=\"3\">P值P-value</td></tr><tr><td>Item</td><td rowspan=\"2\">T1</td><td rowspan=\"2\">T2</td><td rowspan=\"2\">T3</td><td rowspan=\"2\">T4</td><td rowspan=\"2\">T5</td><td></td><td>准误</td><td>处理</td><td rowspan=\"2\">线性</td><td>二次</td></tr><tr><td></td><td>Pooled</td><td>Treatm</td><td>Linear</td><td>Quadra</td></tr><tr><td>死淘率</td><td></td><td></td><td></td><td></td><td></td><td></td><td>SEM</td><td>ent</td><td></td><td>tic</td></tr><tr><td>Mortality</td><td>5.06</td><td>5.06</td><td>3.19</td><td>1.22</td><td>3.33</td><td>2.22</td><td>0.02</td><td>0.336</td><td>0.313</td><td>0.177</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.2不同添加水平硫酸锌对45 周龄京红蛋鸡不同器官中MT含量的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表8可知，添加不同水平硫酸锌对京红蛋鸡 45 周龄末心脏中 MT含量无显著影响中 $( P { > } 0 . 0 5 )$ 。添加 $1 2 5 \\mathrm { m g / k g }$ 硫酸锌组胸肌中MT含量显著高于对照组和添加 $2 5 \\mathrm { m g / k g }$ 硫酸锌组 （ $( P { < } 0 . 0 5 )$ ；但是其他添加水平组间胸肌中MT含量无显著差异（ $_ { P > 0 . 0 5 ) }$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "硫酸锌的添加水平和45周龄京红蛋鸡胸肌中MT含量有极显著的线性和二次回归关系（ $_ { \\scriptstyle P < 0 . 0 1 }$ )，其回归方程分别为： $Y { = } 0 . 0 0 0 ~ 0 0 8 X ^ { 2 } { + } 0 . 0 0 1 X { + } 0 . 6 2 9 ( R ^ { 2 } { = } 0 . 3 0 0 )$ ， $Y { = } { - } 0 . 0 0 2 X { + } 0 . 6 1 2$ （ $R ^ { 2 } { = } 0 . 2 9 3 \\cdot$ )。由图5可知，线性回归预测当随着饲粮中硫酸锌水平的提高( $2 5 { \\sim } 1 2 5 \\mathrm { m g / k g } )$ ，胸肌中MT含量逐渐增加。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "表8不同添加水平硫酸锌对45周龄京红蛋鸡不同器官中MT含量的影响",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffe2df1db1bc8a58210aa8fe85db8dcdbcb07f8486455145ea97e55a930a96dc.jpg",
+        "table_caption": [
+            "Table 8Effects of different supplemental levels of zinc sulfate on MT content in different tissues of Jinghong "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">layinghensat45weekofage ng/mg</td><td colspan=\"4\"></td></tr><tr><td>项目</td><td colspan=\"6\">组别Groups</td><td></td><td>合并标</td><td colspan=\"3\">P值P-value</td></tr><tr><td>Items</td><td></td><td>T1</td><td>T2</td><td>T3</td><td>T4</td><td>T5</td><td>T6</td><td>准误 Pooled SEM</td><td>处理 Treatm ent</td><td>线性 Linear</td><td>二次 Quadra tic</td></tr><tr><td>心</td><td>肌</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Heart</td><td></td><td>1.381</td><td>1.969</td><td>2.083</td><td>1.865</td><td>1.779</td><td>1.792</td><td>0.151</td><td>0.857</td><td>0.690</td><td>0.527</td></tr><tr><td>muscle</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胸</td><td>肌</td><td></td><td>0.655b</td><td>0.733ab</td><td>0.735ab</td><td>0.766ab</td><td>0.894a</td><td>0.026</td><td>0.031</td><td>0.001</td><td>0.003</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/be61863c04fca9702ff7b7d5ae342dc1e12d53f4c4fa55f84b2a734738801b7a.jpg",
+        "img_caption": [
+            "图5硫酸锌添加水平与京红蛋鸡胸肌中MT含量的回归关系"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.5Regression between zinc sulfate supplemental level and MT content in breast muscle of Jinghong ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "laying hens ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1不同添加水平硫酸锌对京红蛋鸡产蛋高峰期产蛋性能和死淘率的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "基于产蛋性能和孵化率指标，NRC 对褐壳蛋鸡饲粮中锌的推荐量为 $3 5 . 5 \\mathrm { m g / k g }$ 。本试验结果显示，在基础饲粮中添加 $2 5 { \\sim } 1 2 5 \\mathrm { m g / k g }$ 的硫酸锌显著降低了 $2 2 { \\sim } 2 9$ 周龄京红蛋鸡的料蛋比，但对其他几个饲喂阶段的平均日耗料量、料蛋比、平均蛋重和产蛋率均无显著影响。Tabatabaie 等[13]给蛋鸡饲喂 25 和 $5 0 \\mathrm { m g / k g }$ 硫酸锌未显著影响采食量、蛋重、产蛋性能和饲料转化率。张亚男等[14]在52周龄海兰灰蛋鸡饲粮中添加35、70 和 $1 1 5 \\mathrm { m g / k g }$ 的锌，未显著影响产蛋率、平均日采食量、平均蛋重和料蛋比等产蛋性能指标。Stahl 等[7]在单冠白来航鸡基础饲粮中（含锌 28 或 $3 4 ~ \\mathrm { m g / k g }$ ）添加10、20和 $4 0 \\mathrm { m g / k g }$ 碳酸锌并未显著改善产蛋量、采食量和饲料转化率，并且认为饲粮中 $2 8 \\mathrm { m g / k g }$ 锌足以满足蛋鸡产蛋、繁殖、孵化和后代的生长需要。成廷水等[15]研究在海兰褐蛋鸡基础饲粮（含锌约 $3 1 \\mathrm { m g / k g }$ ）中添加60mg/kg 硫酸锌未显著影响产蛋率、平均蛋重和采食量等产蛋性能。本试验结果与前人研究结果一致，基础饲粮中 $2 5 \\mathrm { m g / k g }$ 的锌能满足京红蛋鸡 $2 2 { \\sim } 4 5$ 周龄产蛋高峰期产蛋的需要。但是，张军霞等[16-17]在基础饲粮中添加 60 和 $1 8 0 ~ \\mathrm { m g / k g }$ 锌对 $2 1 { \\sim } 3 6$ 周龄蛋鸡产蛋量、耗料量和料蛋比无显著影响，蛋重显著降低，破蛋率略有下降。曲湘勇等[18-19]在东乡黑羽绿壳蛋鸡基础饲粮中添加 $1 2 0 ~ \\mathrm { m g / k g }$ 的羟基蛋氨酸锌和80、120 和 $1 6 0 \\mathrm { m g / k g }$ 碱式氯化锌，显著提高了产蛋率，显著降低了料蛋比。在绿壳蛋鸡上添加锌对产蛋性能有改善效果可能跟锌源或者绿壳蛋鸡的锌需要量高有关，具体机理有待进一步研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "回归分析结果显示，各个饲喂阶段的死淘率和产蛋率与硫酸锌的添加水平间均无显著的线性和二次曲线回归关系。从各个饲喂阶段的产蛋性能来看， $2 2 { \\sim } 2 5$ 周龄和 $2 2 { \\sim } 2 9$ 周龄平均蛋重、 $2 2 { \\sim } 2 9$ 周龄料蛋比分别与硫酸锌的添加水平之间有显著二次回归关系，但是 $R ^ { 2 }$ 值不高。从整个试验期来看，平均日耗料量和硫酸锌添加水平之间有显著的二次回归关系，二次曲线回归预测当硫酸锌添加水平为 $7 5 \\mathrm { m g / k g }$ 时，整个试验期平均日耗料量最低。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2不同添加水平硫酸锌对京红蛋鸡产蛋高峰期末组织中MT含量的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "MT 是富含半胱氨酸的金属结合蛋白，可与许多金属元素配位结合[20]，锌可以作为其配基参与细胞内微量元素的代谢及重金属解毒，具有抗辐射、消除自由基、抗应激等作用[21]。MT 对于维持细胞锌的稳态平衡有重要作用，直接参与锌的储存、运输和生物利用[22]。报道显示，添加适量水平的锌能显著提高组织中MT 的含量[23]。添加锌显著增加肉仔鸡胰腺[24]、肾脏[25-26]、小肠[27]和肝脏 $\\mathsf { \\Pi } [ 2 8 - 2 9 ] _ { \\mathrm { M T } }$ 含量或MT基因的表达。但是关于添加锌对蛋鸡组织中MT 含量和MT基因的表达影响研究报道较少。张军霞等[1]给28 周龄商品代伊莎褐母鸡添加 $6 0 ~ \\mathrm { { m g / k g } }$ 硫酸锌，肝脏中 $M T$ 基因表达量显著高于对照组和 $1 8 0 \\mathrm { m g / k g }$ 硫酸锌组。钱凌霄等[30]报道显示，与添加 $4 0 \\mathrm { m g / k g }$ 纳米氧化锌相比，添加 $8 0 \\mathrm { m g / k g }$ 纳米氧化锌显著提高了肉鸡骨骼肌和心肌中MT含量，但添加 $1 2 0 ~ \\mathrm { m g / k g }$ 纳米氧化锌并未显著改善肉鸡骨骼肌和心肌中 MT 含量。本试验结果显示，添加硫酸锌显著提高了骨骼肌（胸肌）中MT含量，并未显著改善心肌中MT含量。回归预测分析显示，随着硫酸锌的添加水平的提高，胸肌MT 的含量呈增加趋势。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 添加硫酸锌除显著降低 $2 2 { \\sim } 2 9$ 周龄京红蛋鸡的料蛋比外，对整个产蛋高峰期的产蛋性能和死淘率无显著影响。  \n$\\textcircled{2}$ 添加硫酸锌显著提高了胸肌中MT含量，并随添加水平升高而增加，但对心肌中MT含量无显著影响。  \n$\\textcircled{3}$ 二次曲线回归预测，京红蛋鸡饲粮中硫酸锌添加水平为 $7 5 \\mathrm { m g / k g }$ 时，整个产蛋高峰期平均日耗料量最低。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1] BATAL A B,PARR T M,BAKER D H,et al.Zinc bioavailability in tetrabasic zinc chloride and the dietary zinc requirement of young chicks fed a soy concentrate diet[J].Poultry Science,2001,80(1):87-90. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[2] VALLEE B L,AULD D S.Zinc coordination,function,and structure of zinc enzymes and other proteins[J].Biochemistry,1990,29(24):5647-5659. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[3] VALLEE B L,FALCHUK K H.The biochemical basis of zinc physiology[J].Physiological Reviews,1993,73(1):79-118. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[4] RODRIGUEZ-NAVARRO A B,MARIE P,NYS Y,et al.Amorphous calcium carbonate controls avian eggshell mineralization:a new paradigm for understanding rapid eggshell calcification[J].Journal of Structural Biology,2015,190(3):291-303. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[5]BERG JM,SHI Y G.The Galvanization of biology:a growing appreciation for the roles of zinc[J].Science,1996,271(5252):1081-1085. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[6]KIENHOLZ E W,TURK D E,SUNDE ML,et al.Effects of zinc deficiency in the diets of hens[J].The Journal of Nutrition,1961,75(2):211-213. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[7] STAHL J L,COOK M E,SUNDE M L.Zinc supplementation:its effect on egg production,feed conversion,fertility,and hatchability[J].Poultry Science,1986,65(11):2104-2109. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[8]SUPPLEE W,BLAMBERG D,KEENE O,et al.Observations on zinc supplementation of poultry rations[J].Poultry Science,1958,37(5):1245-1246.   \n[9]计峰,吴晋强.锌源及锌水平对蛋鸡生产性能的影响[J].中国饲料,2001(12):13-14. [10]QIN S Z,LU L,ZHANG X C,et al.An optimal dietary zinc level of brown-egg laying hens fed a corn-soybean meal diet[J].Biological Trace Element Research,2017,177(2):376-383. [11]王翔,张大成,李婷,等.金属硫蛋白(MT)分离纯化技术进展[J].微纳电子技 术,2003,40(7/8):335-337.   \n[12] 杨自军,王哲,王宝艾,等.锌对鸡的毒性及其对鸡体内金属硫蛋白的影响[J].畜牧与兽 医,2004,36(1):20-22.   \n[13]TABATABAIE M M,ALIARABI H,SAKI A A,et al.Effect of different sources and levels of Zincon egg qualityand layinghenperformance[J].Pakistan Journal of Biological Sciences,2007,10(19):3476-3478.   \n[14]张亚男,武书庚,张海军,等.锌添加水平对蛋鸡生产性能和蛋壳品质的影响[J].动物营养 学报,2013,25(5):1093-1098.   \n[15]成廷水,呙于明.氨基酸锌对产蛋鸡性能及免疫反应的影响[J].饲料研究,2004(4):1-5. [16]张军霞,李发弟,郝正里,等.饲粮锌对蛋鸡生产性能及生殖激素的影响[J].青海大学学报 （自然科学版）,2007,25(5):32-34,38.   \n[17]张军霞,李发弟,郝正里,等.饲粮锌添加水平对蛋鸡生产性能和蛋锌含量的影响[J].甘肃 农业大学学报,2004,39(6):692-695.   \n[18] 曲湘勇,常春茹,魏艳红,等.碱式氯化锌对绿壳蛋鸡产蛋性能和蛋黄中锌沉积量的影响 [J].中国饲料,2013(4):33-35.   \n[19]曲湘勇,唐湘薇,魏艳红,等.不同锌源对绿壳蛋鸡产蛋性能和蛋黄锌含量的影响[J].中国 饲料,2013(2):32-34.   \n[20]REBELO M F,PFEIFFER W C,DA SILVA H,Jr.,et al.Cloning and detection of metallothionein mRNA by RT-PCR in mangrove oysters (Crasostrea rhizophorae)[J].Aquatic Toxicol0gy,2003,64(3):359-362.   \n[21]SATO S,OKABE M,KURASAKI M,et al.Metalothionein in the ovaries of laying hens exposed to cadmium[J].Life Sciences,1996,58(18):1561-1567.   \n[22]黄艳玲,罗绪刚,吕林,等.动物细胞内锌稳衡调节的研究进展[J].中国畜牧杂 ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "志,2007,43(15):44-47. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[23]CAO J,HENRY P R,GUO R,et al.Chemical characteristics and relative bioavailability ofsupplementalorganiczincsourcesforpoultryandruminants[J].Journal ofAnimalScience,2000,78(8):2039-2054.  \n[24]黄艳玲.肉仔鸡实用饲粮中锌适宜水平及有机锌源相对生物学利用率研究[D].博士学位论文.北京:中国农业科学院,2007:33-38.  \n[25]梁家娣,李耀,张卓炜,等.纳米氧化锌对肉鸡肝脏、肾脏中金属硫蛋白和锌水平的影响[J].黑龙江畜牧兽医,2017(16):195-197.  \n[26]黄艳玲,吕林,罗绪刚,等.饲粮锌对肉鸡生长性能、组织含锌酶活性以及金属硫蛋白含量的影响[J].中国畜牧杂志,2008,44(13):22-24.  \n[27]郑立鑫,刘华伟,吴鹏华,等.不同锌源对肉仔鸡肠道形态及金属硫蛋白表达的影响[J].中国饲料,2013(20):7-10.  \n[28] 王明发,田亚东,钟翔,等.饲粮中不同锌源及锌水平对固始鸡和AA 肉鸡肝脏金属硫蛋白含量及基因表达的影响[J].南京农业大学学报,2012,35(6):111-117.  \n[29]丁小波,文利新,袁慧.纳米氧化锌对 AA 肉鸡肝脏金属硫蛋白的影响[J].中国兽医学报,2009,29(2):242-244.  \n[30] 钱凌霄,张卓炜,陈梓灵,等.饲料中锌源和水平对肉鸡肌肉组织中锌和金属硫蛋白含量的影响[J].黑龙江畜牧兽医,2015(14):75-76.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Zinc Sulfate on Egg Production Performance of Jinghong Laying Hens ZHENG Aijuan’BAI Jiel CAI Huiyi1,2CHEN Zhimin1CHANG Wenhuan1DENG Xuejuan²LIU Guohual\\* (1. The Key Laboratory of Feed Biotechnology of Ministry of Agriculture, Feed Research Institute, Chinese Academy ofAgricultural Sciences,Beijing 10oo81, China; 2 National Engineering Research Center for Biological Feed Development, Beijing 10oo81, China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The present study evaluated the effects of different supplemental levels of zinc sulfate in basal diet on egg production performance and the metallothionein content in tissues of Jinghong laying hens during peak egg production period. Five hundred and forty 20-week-old healthy Jinghong laying hens were randomly allotted to six groups with 6 replicates per group and 15 hens per replicate. Hens in the control group were fed a basal diet contained $2 5 ~ \\mathrm { m g / k g }$ zinc, and in the experimental groups were fed diets supplemented with 25, 50,75,100 and 125 zinc sulfate (calculated by zinc) in the basal diet, respectively.The trial lasted for 24 weeks after 2 weeks of pre-feeding. The results showed as follows: 1) different supplemental levels of zinc sulfate in the basal diet did not significantly afect the laying rate, average dailyfeed consumption, average egg weight, ratio of feed to egg and mortality of hens during the whole experiment period $( P { > } 0 . 0 5 )$ ).2) Different supplemental levels of zinc sulfate in the basal diet significantly increased the metallthionein content in breast muscle $( P { < } 0 . 0 5 )$ ，but had no significant effects on the metallothionein content in heart muscle $( P { > } 0 . 0 5 )$ of laying hens.3) Based on the quadratic curve regression prediction, the average daily feed consumption was the lowest during the whole period when the zinc sulfate supplemental level was $7 5 ~ \\mathrm { m g / k g }$ . In conclusion,different supplemental levels of zinc sulfate have no significant effects on egg production performance of Jinghong laying hens during peak egg production period. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: zinc sulfate; laying hen; egg production performance; metallothionein i ",
+        "page_idx": 15
+    }
+]

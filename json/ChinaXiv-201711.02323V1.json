@@ -1,0 +1,299 @@
+[
+    {
+        "type": "text",
+        "text": "Note on the butterfly effect in holographic superconductor models ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yi Ling $^ { 1 , 3 , 4 }$ ,\\* Peng Liu 1,† and Jian-Pin Wu 2.3† （204号 $^ 1$ Institute of High Energy Physics, Chinese Academy of Sciences， Beijing 100049， China 2 Institute of Gravitation and Cosmology, Department of Physics， School of Mathematics and Physics, Bohai University， Jinzhou 121013， China   \n$^ 3$ Shanghai Key Laboratory of High Temperature Superconductors， Shanghai, 200444, China   \n4 School of Physics， University of Chinese Academy of Sciences, Beijing 10049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this note we remark that the butterfly effect can be used to diagnose the phase transition of superconductivity in a holographic framework. Specifically, we compute the butterfly velocity in a charged black hole background as well as anisotropic backgrounds with Q-lattice structure. In both cases we find its derivative to the temperature is discontinuous at critical points. We also propose that the butterfly velocity can signalize the occurrence of thermal phase transition in general holographic models. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently quantum butterfly effect has been becoming a hot spot of research which links the gauge/gravity duality to quantum many-body theory and quantum information theory [1-24]. Diagnosed by the out-of-time-order correlation (OTOC) functions, the butterfly efect describes the information scrambling over a quantum chaotic system. On gravity side, the butterfly effect is described by a shock wave geometry on the horizon that can be induced by an infalling particle which is exponentially accelerated. The butterfly effect ubiquitously exists in holographic theories due to its sole dependence on the near horizon data of the gravitational bulk theory. In particular, the Lyapunov exponent $\\lambda _ { L }$ is always characterized by the Hawking temperature of the black hole as $\\lambda _ { L } = 2 \\pi k _ { B } T$ , while the butterfly velocity is completely determined by the horizon geometry [14,16,18]. Moreover,a bound on chaos is proposed as $\\lambda _ { L } \\leqslant 2 \\pi k _ { B } T$ and the saturation of this bound is viewed as the criterion for a quantum chaotic system to have a classical gravity dual description [9]. Stimulated by above investigation in holographic approach, many physicists in condensed matter as well as quantum information community have made great efforts in the measurement of the OTOC in laboratory [13, 21-23]. The related progress is supposed to provide more practical tools to test the proposals in holographic theories, and in turn push forward the investigation on butterfly effects in quantum many-body systems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent paper [18] we have investigated the butterfly effect in holographic models which exhibit metal-insulator transition (MIT) and found that the butterfly velocity $\\boldsymbol { v } _ { B }$ can diagnose quantum phase transitions (QPT). The key point on this is that the occurrence of QPT usually involves the RG flows from UV to different IR fixed points [25]. On the other hand, the butterfly velocity $v _ { B }$ depends on the IR geometry solely. Therefore, the change of IR fixed points may be reflected by the distinct behavior of $\\boldsymbol { v } _ { B }$ . In this note we intend to argue that the butterfly efect can exhibit attractive behavior during the course of thermal phase transition as well. This extension is natural, since based on Landau theory the occurrence of thermal phase transition is always accompanied by a symmetry breaking characterized by some order parameter. While in the context of holography, the spontaneous breaking of symmetry is usually a reflection of the instability of the background in bulk, signalized by the appearance of black hole hair which is supposed to deform the horizon, namely IR geometry strongly. Therefore, to provide evidence to support above argument we will investigate the temperature behavior of the butterfly velocity in holographic superconductor models. Specifically we will demonstrate that the derivative of $\\boldsymbol { v } _ { B }$ to the temperature is discontinuous at critical points of phase transition. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We organize this paper as follows. In next section we will first consider the butterfly effect in the simplest holographic model with superconductivity which is constructed over a charged black hole. Then we turn to study this effect over more complicated backgrounds with lattice structure in subsection IIC. A brief discussion about possible extensions and experimental prospects will be presented in the end of this note. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I1.BUTTERFLY EFFECTS AND HOLOGRAPHIC SUPERCONDUCTIVITY ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section we will first introduce the butterfly velocity on anisotropic background. Using the anisotropic butterfly velocity results, we reveal that the butterfly velocity could diagnose superconductivity phase transitions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A. Butterfly velocity on anisotropic background ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given a background with a black brane, we can compute the shockwave solution on the horizon generated by a particle freed at the asymptotic AdS region. The butterfly effect is represented by this sort of shockwave geometry, from which the Lyapunov exponent and buterfly velocity can be read of [14-16,18]. For a generic anisotropic black brane geometry, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd s ^ { 2 } = \\frac { 1 } { z ^ { 2 } } \\Big [ - ( 1 - z ) f ( z ) d t ^ { 2 } + \\frac { d z ^ { 2 } } { ( 1 - z ) f ( z ) } + V _ { x } ( z ) d x ^ { 2 } + V _ { y } ( z ) d y ^ { 2 } \\Big ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "the butterfly velocity is also anisotropic, which can be written as [18] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { v } _ { B } ( \\theta ) = v _ { B } \\sqrt { \\frac { \\sec ^ { 2 } ( \\theta ) V _ { x } \\left( z \\right) } { V _ { x } \\left( z \\right) + \\tan ^ { 2 } ( \\theta ) V _ { y } \\left( z \\right) } } \\bigg \\vert _ { z = 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta$ is the polar angle. $v _ { B } = \\bar { v } _ { B } ( 0 )$ is the butterfly velocity along the $x$ -direction， given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { B } = \\sqrt { \\frac { - 2 \\pi \\hat { T } V _ { y } ( z ) } { V _ { y } ( z ) [ V _ { x } ^ { \\prime } ( z ) - 2 V _ { x } ( z ) ] + V _ { x } ( z ) [ V _ { y } ^ { \\prime } ( z ) - 2 V _ { y } ( z ) ] } } \\Bigg | _ { z = 1 } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the prime denotes the derivative to the radial coordinate $z$ ,and the $\\hat { T }$ is the Hawking temperature of black brane (1). The metric ansatz (1)， (2） and (3) are applicable for subsequent two holographic models in next two subsections. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next, we investigate the butterfly effects in two holographic models involving phase transitions of superconductivity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. Butterfly effects in a simple holographic superconductor ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The minimal ingredients to build a superconductor model in a holographic framework are provided by adding a charged complex scalar field into Einstein-Maxwell theory, in which the Lagrangian is [26, 27] ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } _ { I } = R + 6 - \\frac { 1 } { 4 } F ^ { 2 } - | D _ { \\mu } \\Psi | ^ { 2 } - M ^ { 2 } | \\Psi | ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notice that we have set the AdS radius $L \\ = \\ 1$ ： $F = d A$ is the curvature of $U ( 1 )$ gauge field $A$ ： $\\Psi$ is the charged complex scalar field with mass $M$ and scaling dimension （204 $\\Delta _ { \\Psi } = 3 / 2 + ( 9 / 4 + M ^ { 2 } ) ^ { 1 / 2 }$ , and the charge $q$ ． $D _ { \\mu } = \\dot { o } _ { \\mu } - i q A _ { \\mu }$ is the covariant derivative. We solve (4) by taking metric ansatz (1） and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA = \\mu ( 1 - z ) a ( z ) d t , \\Psi = \\Psi ( z ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $f ( z ) \\equiv ( 1 + z + z ^ { 2 } - \\mu ^ { 2 } z ^ { 3 } / 4 ) S ( z )$ and $\\mu$ is the chemical potential in dual field theory. The Hawking temperature is then given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { T } = \\frac { ( 1 2 - \\mu ^ { 2 } ) S ( 1 ) } { 1 6 \\pi } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The corresponding dimensionless temperature is $T = \\hat { T } / \\mu$ . Note that the system (4） is isotropic, the anisotropic metric (1） could be limited as isotropic case, i.e.， $V _ { x } = V _ { y }$ .For simplicity, we set the mass and charge of the complex scalar field as $M ^ { 2 } = - 2$ and $q = 2$ （20 such that its scaling dimension is $\\Delta _ { \\Psi } = 2$ and its asymptotical behavior at UV is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi = z \\Psi _ { 1 } + z ^ { 2 } \\Psi _ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We shall treat $\\Psi _ { 1 }$ as the source and $\\Psi _ { 2 }$ as the expectation value of the dual operator. At the same time,we set $\\Psi _ { 1 } = 0$ such that the condensation will take place spontaneously. At high temperature, the solution to equations of motion with ansatz (1） is simply the ReissnerNordstrom AdS (RN-AdS) black brane solution with $\\Psi ( z ) = 0$ and $S ( z ) = a ( z ) = V _ { x } ( z ) =$ （204号 $V _ { y } ( z ) = 1$ . However, below the critical temperature, imposing regular boundary conditions on the horizon and requiring the scalar field to decay at UV as in Eq.(7), one can numerically find new black brane solutions with scalar hair, which is dual to a superconducting phase in the boundary theory. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4d89cbd4abf21cc8f22cc78a3d0a13edb2e2a86421b403d53f1f127c68b92d5.jpg",
+        "img_caption": [
+            "FIG.1: Plot of $\\partial _ { T } v _ { B }$ as a function of temperature $T$ in the holographic superconductor model (4). The inset plot shows $v _ { B }$ as a function of $T$ . The vertical dashed line denotes the superconducting phase transition temperature $T _ { c }$ ，which is $T _ { c } \\simeq 0 . 0 9 0 2$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this simple model with isotropy we have $V _ { x } ( z ) ~ = ~ V _ { y } ( z )$ such that the formula is simplified as $v _ { B } = \\sqrt { \\pi T \\mu / [ 2 V _ { x } ( 1 ) - V _ { x } ^ { \\prime } ( 1 ) ] }$ . Now we numerically compute $\\boldsymbol { v } _ { B }$ as the function of temperature $T$ during the course of phase transition. Fig.1 shows $\\partial _ { T } v _ { B }$ as a function of temperature $T$ and the inset plot shows $v _ { B }$ vS. $T$ . In this figure it is evident that the derivative $\\partial _ { T } v _ { B }$ is discontinuous at the critical temperature $T _ { c }$ (the red dashed line in vertical direction)，which indicates that the butterfly velocity can be utilized as a new independent probe of the phase structure of the superconductor. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C. Butterfly effects in holographic Q-lattice superconductor ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The second model we consider is the holographic superconductor on Q-lattices， which has been studied in [28]. Its Lagrangian reads as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { Q } = R + 6 - \\frac { 1 } { 4 } F ^ { 2 } - | D _ { \\mu } \\Psi | ^ { 2 } - M ^ { 2 } | \\Psi | ^ { 2 } - | \\nabla \\Phi | ^ { 2 } - m ^ { 2 } | \\Phi | ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In comparison with the Lagrangian in (4)，an additional neutral complex scalar field $\\Phi$ （204号 with mass $m$ is introduced to break the translational invariance [29]. We can solve this gravitational system by taking the metric (1） and ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi = e ^ { i \\hat { k } x } z ^ { 3 - \\Delta _ { \\Phi } } \\phi ( z ) , \\qquad A = \\mu ( 1 - z ) a ( z ) d t , \\qquad \\Psi = \\Psi ( z ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\Delta _ { \\Phi } = 3 / 2 + ( 9 / 4 + m ^ { 2 } ) ^ { 1 / 2 }$ is the scaling dimension of $\\Phi$ . Note that since we only introduce the lattice in $x$ -direction, our geometry is anisotropy. Now, each black brane solution is characterized by three scaling-invariant parameters,i.e.,the Hawking temperature $T \\equiv \\hat { T } / \\mu$ , the lattice amplitude $\\lambda \\equiv \\hat { \\lambda } / \\mu ^ { 3 - \\Delta _ { \\Phi } }$ with $\\hat { \\lambda } = \\phi ( 0 )$ ， and the wave vector $k \\equiv \\hat { k } / \\mu$ For normal states ( $\\Psi = 0$ ), there exist MITs when adjusting $\\lambda$ or $k$ [29]. A complete phase diagram can be found in [28, 30]. While the superconducting phase has been numerically found in [28]. It has been shown in [28] that the lattice structure suppresses the condensation and the critical temperature is lowered compared with the situation when the lattice is absent. The phase structure in [28] demonstrates that the transition to the superconducting phase from the metallic phase is easier than from the insulating phase. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Now our main purpose is to compute the butterfly velocity $\\bar { v } _ { B } ( \\theta )$ for a given background and then observe its behavior during the phase transition from a normal phase which could be metalic or insulating to a superconducting phase. First, we focus on the butterfly velocity along the $x$ -direction, i.e., $\\bar { v } _ { B } ( 0 ) = v _ { B }$ . For simplicity, here we set $\\left\\{ M ^ { 2 } , m ^ { 2 } , q \\right\\} = \\left\\{ - 2 , - 2 , 2 \\right\\}$ and demonstrate the temperature behavior of $v _ { B }$ in two typical cases in Fig.2, one for metalsuperconductor transition and the other for insulator-superconductor transition. In both cases we find that the first order derivative of $\\boldsymbol { v } _ { B }$ with respect to temperature is discontinuous. Next we examine the butterfly velocity $v _ { B }$ as the function of temperature $T$ in different directions (see Fig.3). It is interesting to notice that at a given temperature, the butterfly velocity increases with the increasing polar angel in the first quadrant 1,which implies the lattice structure suppresses the propagation of quantum information. We demonstrate the anisotropy of $\\partial _ { T } \\bar { v } _ { B } ( \\theta )$ more transparently in Fig.4, which is on account of the introduction of the lattice structure. It can be seen from Fig.4 that $\\partial _ { T } \\bar { v } _ { B } ( \\theta )$ is discontinuous at $T _ { c } \\simeq 0 . 0 4 5 1$ （204号 in any direction. This reflects the fact that the emergence of the condensation，which is responsible for the discontinuity of $\\partial _ { T } \\bar { v } _ { B } ( \\theta )$ ， depends solely on the temperature. Also, the period of $\\partial _ { T } \\bar { v } _ { B } ( \\theta )$ can be clearly read off as $\\pi$ , respecting the period of $\\bar { v } _ { B } ( \\theta )$ . In summary, the butterfly velocity is a good diagnose of the superconducting phase transition. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/756dd1ac17fb87b5c5bc127195014658208b68f6dfd3c605393aec3e0dcc844a.jpg",
+        "img_caption": [
+            "FIG. 2:Plots of $\\partial _ { T } v _ { B }$ as a function of temperature $T$ in holographic Q-lattice superconductor. The inset plots show $v _ { B }$ as a function of $T$ . The vertical dashed line denotes the superconducting phase transition temperature $T _ { c }$ . Left plot is for $\\lambda = 2$ and $k = 0 . 5$ ,which is insulating phase and the critical temperature $T _ { c } \\simeq 0 . 0 4 5 2$ . While right plot is for $\\lambda = 2$ and $k = 1 . 5$ ，which is metallic phase and the critical temperature $T _ { c } \\simeq 0 . 0 7 5 0$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/00b7a8e7e7cf1f93162e0f82776a9e317015ccf2b8ed03132632f1342ff895d8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3: Plots of $\\partial _ { T } \\bar { v } _ { B }$ as a function of temperature $T$ in holographic Q-lattice superconductor at different directions. The inset plots show $v _ { B }$ as a function of $T$ . The vertical dashed line denotes the superconducting phase transition temperature $T _ { c }$ . The parameters in both plots have the same values as those in Figure (2） correspondingly. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "III. DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this note we have proposed that the butterfly effect should exhibit distinct behavior during the course of thermal phase transition. In our two holographic superconductor models we have explicitly demonstrated that the first derivative of $\\boldsymbol { v } _ { B }$ to temperature is discontinuous. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Next we point out some possible generalizations of our work. First, it is desirable to analytically obtain the discontinuity of $\\partial _ { T } \\bar { v } _ { B } ( \\theta )$ in two models we discussed. Second, based on the arguments presented in the introduction, it is natural to expect that the interesting phenomenon in this note can be observed in other holographic superconductor models. In addition, we also expect that the butterfly efect can capture the occurrence of other sorts of thermal phase transition as well, for instance,the transition between RN black holes and the dilatonic black holes [31],or the MIT induced by Charge Density Waves (CDW）[32]. Finally, we conjecture that the non-analytical behavior of the butterfy velocity at critical temperature could be diverse.For example, instead of the first-order discontinuity that we have observed in this note, zero-order discontinuity or higher-order discontinuity might be observed in other sorts of thermal phase transitions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/930efd33d5eb5da7062b066c27427e0345eee556d2ee1e319cda00f8c8e22a5a.jpg",
+        "img_caption": [
+            "FIG.4:The density plot of angle dependence of $\\partial _ { T } \\bar { v } _ { B } ( \\theta )$ near the critical point $T = T _ { c }$ at parameter $\\lambda \\ : = \\ : 2$ ， $k = 0 . 5$ .The radial direction is $T$ ，plotting between $0 . 0 2 < T < 0 . 1$ with （20 $T _ { c } \\simeq 0 . 0 4 5 1$ (the green dotted circle). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, we expect what we have observed for the butterfly effect in holographic context can be extended to characterize thermal phase transition in a realistic system which may not have a gravity dual. The validity of such an extension in principle could be tested experimentally in light of recent progress on the measurements of the OTOC [13, 21-23]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We are very grateful to Meng-he Wu, Zhuo-yu Xian, Yi-kang Xiao and Xiang-rong Zheng for helpful discussion. This work is supported by the Natural Science Foundation of China under Grant Nos.11275208,11305018 and 11575195,and by the grant (No. 14DZ2260700) from the Opening Project of Shanghai Key Laboratory of High Temperature Superconductors. Y.L. also acknowledges the support from Jiangxi young scientists (JingGang Star) program and 555 talent project of Jiangxi Province. J. P. Wu is also supported by the Program for Liaoning Excellent Talents in University (No. LJQ2014123). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] J. M. Maldacena,Adv. Theor.Math. Phys. 2(1998) 231,[arXiv:hep-th/9711200].   \n[2] E. Witten,Adv. Theor. Math. Phys. (1998) 253,[arXiv:hep-th/9802150].   \n[3] S.H. Shenker and D. Stanford, JHEP 1403, 067 (2014) [arXiv:1306.0622 [hep-th]].   \n[4] S.H. Shenker and D. Stanford, JHEP 1412, 046 (2014) [arXiv:1312.3296 [hep-th].   \n[5] D.A. Roberts, D. Stanford and L. Susskind, JHEP 1503,051 (2015) [arXiv:1409.8180 [hepth]].   \n[6] D.A. Roberts and D. Stanford, Phys. Rev.Lett.115,no.13,131603 (2015) [arXiv:1412.5123 [hep-th]].   \n[7] S.H. Shenker and D. Stanford, JHEP 1505,132 (2015) [arXiv:1412.6087 [hep-th]].   \n[8] A.Kitaev,“Hidden correlations in the hawking radiation and thermal noise,” (2014),talk given at the Fundamental Physics Prize Symposium, Nov.10, 2014.   \n[9] J.Maldacena, S.H. Shenker and D.Stanford,JHEP 1608,106 (2016) [arXiv:1503.01409 [hep-th]].   \n[10] J. Polchinski, arXiv:1505.08108 [hep-th].   \n[11] P. Hosur, X. L. Qi, D. A. Roberts and B. Yoshida, JHEP 1602 (2016) 004 [arXiv:1511.04021 [hep-th]].   \n[12] J.Polchinski and V. Rosenhaus, JHEP 1604,001 (2016) [arXiv:1601.06768 [hep-th]].   \n[13] B. Swingle, G. Bentsen, M. Schleier-Smith and P. Hayden, arXiv:1602.06271 [quant-ph].   \n[14] D.A. Roberts and B. Swingle, Phys. Rev. Lett.117, no. 9, 091602 (2016) [arXiv:1603.09298 [hep-th].   \n[15] M. Blake, Phys.Rev. Lett.117, no. 9, 091601 (2016),arXiv:1603.08510 [hep-th].   \n[16] M. Blake,arXiv:1604.01754 [hep-th].   \n[17] A. Lucas and J. Steinberg, arXiv:1608.03286 [hep-th].   \n[18] Y. Ling, P. Liu and J. P. Wu,arXiv:1610.02669 [hep-th].   \n[19] R. Fan, P. Zhang, H. Shen and H. Zhai,arXiv:1608.01914 [cond-mat.str-el].   \n[20] M. Alishahiha,A. Davody, A. Naseh and S. F. Taghavi, arXiv:1610.02890 [hep-th].   \n[21] N. Y. Yao, F. Grusdt， B. Swingle, M. D. Lukin, D. M. Stamper-Kurn, J. E. Moore and E.A. Demler,arXiv:1607.01801 [quant-ph].   \n[22] M. Gärttner, J. G. Bohnet，A. Safavi-Naini,M. L. Wall, J. J. Bollinger and A. M. Rey, arXiv:1608.08938 [quant-ph].   \n[23] J.Li,R.H. Fan,H. Y. Wang,B. T. Ye,B. Zeng,H. Zhai, X. H. Peng and J.F.Du, arXiv:1609.01246 cond-mat.str-el]   \n[24] X.H. Feng and H. Lu, arXiv:1701.05204 [hep-th].   \n[25] A. Donos and S. A. Hartnoll, Nature Phys. 9, 649 (2013) [arXiv:1212.2998].   \n[26] S.A. Hartnoll,C. P. Herzog and G. T. Horowitz,Phys.Rev.Lett.101,031601 (2008) [arXiv:0803.3295 [hep-th].   \n[27] S.A. Hartnoll, C.P. Herzog and G. T. Horowitz, JHEP 0812,015 (2008) [arXiv:0810.1563 [hep-th]].   \n[28] Y. Ling, P. Liu, C. Niu, J. P. Wu and Z. Y. Xian, JHEP 1502, 059 (2015) [arXiv:1410.6761 [hep-th]].   \n[29] A. Donos and J. P. Gauntlett, JHEP 1404, 040 (2014) [arXiv:1311.3292 [hep-th]].   \n[30] Y. Ling,P.Liu, C. Niu, J. P. Wu and Z. Y. Xian, JHEP 1604,114 (2016) [arXiv:1502.03661 [hep-th].   \n[31] M. Cadoni, G. D'Appollonio and P. Pani, JHEP 1003,100 (2010) [arXiv:0912.3520 [hep-th].   \n[32] Y. Ling, C. Niu,J. Wu, Z. Xian and H.b. Zhang,Phys. Rev. Lett. 113,091602 (2014) [arXiv:1404.0777 [hep-th]]. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

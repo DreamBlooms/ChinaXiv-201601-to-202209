@@ -1,0 +1,129 @@
+基础研究
+
+# 血小板源性生长因子-BB对大鼠阴茎海绵体平滑肌细胞增殖、迁移及表型转化的影响
+
+陈逢志，何书华，单海涛，张海波，梁雁冰，韦安阳南方医科大学南方医院惠侨楼一病区，广东广州510515摘要：目的了解血小板源性生长因子-BB(PDGFBBB)对大鼠阴茎海绵体平滑肌(CCSM)细胞增殖、迁移及表型转化的影响并初步探讨其作用机制。方法采用改良的组织块培养法培养Wistar大鼠CCSM细胞，并用细胞免疫荧光法鉴定。利用CCK-8法检测不同浓度的PDGFBB对培养的大鼠CCSM细胞增殖的影响,并筛选出最适PDGFBB作用浓度。分别用 $0 ~ \mathrm { { n g / m L } }$ PDGFBB与最适浓度PDGFBB处理CCSM细胞，利用划痕实验检测PDGFBB对CCSM细胞迁移的影响， $2 4 \mathrm { h }$ 和 $4 8 \mathrm { ~ h ~ }$ 时利用qRT-PCR检测细胞中转录因子myocardin及收缩型表型标志物 $\mathfrak { a }$ -SMA、SMMHCmRNA表达水平;用最适浓度PDGFBB处理CCSM细胞0、24和 $^ { 4 8 \mathrm { ~ h ~ } }$ 后,利用western blotting 检测细胞中myocardin的蛋白表达水平。结果 原代培养的CCSM细胞中 $\mathfrak { a }$ -SMA和smoothelin 阳性率分别约为 $9 6 . 5 \%$ 和 $9 6 \%$ ;不同浓度的PDGFBB均能明显促进CCSM细胞增殖,其最适浓度为 $1 2 . 5 ~ \mathrm { { n g / m L } }$ PDGFBB( $1 2 . 5 ~ \mathrm { { n g / m L } }$ 能促进CCSM细胞迁移，下调CCSM细胞中myocardin、 $\mathbf { \Omega } _ { \cdot } \mathbf { a } \cdot$ -SMA和SMMHCmRNA表达水平( $P$ 均 $< 0 . 0 1 \$ ；在 $4 8 \mathrm { ~ h ~ }$ 内myocardin蛋白质的表达水平随着PDGFBB作用时间增加而降低。结论改良的组织块培养法可获得高纯的CCSM细胞;PDGFBB可促进CCSM细胞增殖、迁移，使细胞从收缩型向合成型转化，其机制可能是通过下调myocardin。
+
+关键词：血小板源性生长因子-BB;阴茎海绵体平滑肌细胞;表型转化
+
+# Effect of platelet-derived growth factor-BB on rat corpus cavernosum smooth muscle cell proliferation, migration and phenotypic modulation
+
+CHEN Fengzhi, HE Shuhua, SHAN Haitao, ZHANG Haibo,LIAN Yanbing,WEI Anyang Huiqiao Department,NanfangHospital,SouthernMedical niversity,Guangzhou 5o515,China
+
+Abstract: objective To study the efect of platelet-derived growth factor-BB (PDGFBB)onratcorpus cavernosum smooth muscle (CCSM)cellproliferation,migration and phenotypic modulationand explore the underlying mechanisms.Methods Wistarrat CCSMcels were obtained through a modified tissue culture method and identified by immunofluorescence assay. Theefectof PDGFBBon the proliferation of CCSMcels was investigated usinga CCK-8 Kit and the optimum PDGFBB concentration forcelltreatment was determined.CCSMcelswere treated with vehicleor PDGF-BBat theoptimum concentration,and thecell migration was examined using scratch assay; the mRNA expresionof the transcription factor myocardin and the contractile phenotype markers $\alpha$ -SMA and SMMHC in CCSM cells were determined by qRT-PCR at $2 4 \mathrm { ~ h ~ }$ and $^ { 4 8 \mathrm { ~ h ~ } }$ . The protein expression of myocardin in CCSM cells incubated with PDGFBB for 0, 24 and $^ { 4 8 \mathrm { ~ h ~ } }$ was examined by Western bloting. Result In CCSM cell culture, $9 6 . 5 \%$ and $9 6 \%$ of the cells were positive for $\alpha$ -SMA and smoothelin, respectively.PDGFBB at diferentconcentrations markedly promoted the proliferationof CCSMcels; theoptimum PDGFBB concentration for enhancing cell proliferation was $1 2 . 5 ~ \mathrm { { n g / m L } } ,$ which induced the migration of CCSM cells and significantly reduced the mRNA expressions of myocardin, $\alpha$ -SMA and SMMHC $( P { < } 0 . 0 1 )$ . Exposure to PDGFBB decreased the protein expression of myocardin as the exposure time extended (within $^ { 4 8 \mathrm { h } }$ ). Conclusion CCSM cells of a high purity can be obtained by the modified tisse culture method.PDGFBB can promote the proliferation and migration of CCSM cels and cause a phenotypic conversion from the contractile to the synthetic type possibly by down-regulating myocardin.
+
+Key words: platelet-derived growth factor-BB; corpus cavernosum smooth muscle cels; phenotypic modulation
+
+血小板源性生长因子(platelet-derivedgrowthfactor,PDGF)是体内一种主要的促有丝分裂剂，可以刺激多种组织细胞增殖、迁移。PDGFBB属于PDGF家族，可由内皮细胞、平滑肌细胞、巨噬细胞、某些肿瘤细胞等多种细胞分泌，在PDGF家族成员中，仅PDGFBB能结合所有PDGF受体，使受体磷酸化,活化下游重要的信号分子，参与多种信号转导通路如Ras,PI3K,ERK,MAPK等[],在动脉粥样硬化、血管再狭窄等心血管疾病的发生发展过程中起非常重要的作用。而平滑肌细胞表型转化这一概念最初在对血管平滑肌细胞(VSMC)的研究中提出来[2]，VSMC分为收缩型(分化型)和合成型(增殖型或去分化型)两种类型，当血管受到病理损伤或体外培养的VSMC受到某种因素刺激时，VSMC可从收缩型转化为合成型并获得增殖能力，这个形态、结构和功能的改变过程即称为表型转化[3]。我们前期研究4表明，糖尿病性ED大鼠阴茎海绵体平滑肌(CCSM)细胞存在表型转化，CCSM细胞表型转化可以改变阴茎海绵体的正常结构和功能，与ED的发生密切相关。虽然有文献[5-6]报道PDGFBB可促进VSMC增殖、迁移及表型转化，但是在CCSM细胞表型转化和ED方面的研究尚未见报道，它是否会影响CCSM细胞增殖、迁移及表型转化还不清楚。因此本文研究PDGFBB对体外培养的CCSM细胞增殖、迁移及表型转化的影响，并初步研究其作用机制，目的在于探讨CCSM细胞型转化的调控机制。
+
+# 1材料和方法
+
+# 1.1主要材料和试剂
+
+SPF级Wistar大鼠15只（广州南方医科大学实验动物中心提供。许可证号:SCXK(粤)2011-0015)雄性，体质量 $2 0 0 \ \mathrm { g }$ 左右，DMEM/F12培养液(Hyclone公司）,胎牛血清(BI公司), $0 . 2 5 \%$ 胰蛋白酶消化液(Hyclone公司），抗生素混合液（Sigma公司），重组PDGFBB(preprotech公司），CCK-8（日本同仁化学研究所），TRIzol、逆转录试剂盒及SYBR Premix Ex Taq(TaKaRa公司)，FITC标记的羊抗小鼠荧光二抗(碧云天），AlexaFluor?555-标记的羊抗小鼠荧光二抗(abcam公司），myocardin一抗(Santa公司）， $\mathfrak { a }$ -SMA一抗(Santa公司）,smoothelin一抗(abcam公司）, $\beta \mathrm { . }$ -actin单克隆抗体(北京锐抗生物公司)。
+
+# 1.2大鼠CCSM细胞的分离培养及鉴定
+
+1.2.1CCSM细胞分离培养采用我们已经报道的改良的组织块培养法培养大鼠CCSM细胞，大鼠麻醉后在无菌条件下快速解剖,分离、切取阴茎海绵体中段，立即置人含 $1 \%$ 青霉素及链霉素的无菌PBS液中并移入超净台，仔细剥除海绵体外周纤维脂肪层及尿道海绵体等，用无菌PBS液冲洗2\~3次，将海绵体组织剪成 $1 { \sim } 2 ~ \mathrm { m m }$ 小块，按 $0 . 5 \mathrm { c m }$ 间隔放置到 $2 5 ~ \mathrm { c m } ^ { 2 }$ 培养瓶内(预铺少量含 $20 \%$ 血清的培养液)。翻转培养瓶，使有组织小块的一面向上，加入 $2 . 5 ~ \mathrm { m L }$ 配制好的DMEM/F12完全培养液(含 $20 \%$ 胎牛血清， $1 0 0 ~ \mathrm { U / m L }$ 青毒素， $1 0 0 ~ \mathrm { U / m L }$ 链霉素），注意勿使培养液与组织块接触。放入 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 细胞培养箱，培养 $4 { \sim } 5 \mathrm { ~ h ~ }$ 后，轻轻翻转培养瓶，使培养液与组织块接触。3\~5d后，置于倒置显微镜下观察，当发现有少许细胞从组织块边缘游出，第2天即清除组织块，补加培养液至 $4 ~ \mathrm { m L }$ 。此后 $2 { \sim } 3 \mathrm { ~ d ~ }$ 换液1次。原代细胞培养至 $80 \% { \sim } 9 0 \%$ 融合时，用 $10 \%$ DMEM/F12完全培养液传代培养并用差速贴壁法分离出较纯的CCSM细胞转移至新瓶中，置入培养箱中继续培养。
+
+1.2.2细胞免疫荧光鉴定传代细胞以每孔 $1 \times 1 0 ^ { 4 }$ 个细胞密度接种到预置无菌盖玻片的24孔板中，补充培养液至 $1 ~ \mathrm { m L }$ ,适应性生长 $2 4 \mathrm { ~ h ~ }$ ，待盖玻片上细胞密度合适，即去除培养液，用PBS液漂洗2次， $4 \%$ 多聚甲醛固定 $2 0 ~ \mathrm { m i n }$ ,PBS漂洗3次，每次 $5 ~ \mathrm { m i n }$ ；予 $0 . 2 5 \%$ Triton X-100穿孔 $1 5 \mathrm { m i n }$ ,PBS漂洗3次，每次 $5 \mathrm { m i n }$ ；再用 $1 \%$ BSA(胎牛血清白蛋白)封闭 $5 0 \mathrm { m i n }$ ，吸净液体;分别加入 $1 \%$ BSA稀释的 $\mathfrak { a }$ -SMA一抗( $1 : 1 0 0$ 稀释)和smoothelin一抗(1:100稀释),振荡两次， $4 ^ { \circ } \mathrm { C }$ 恒温孵育过夜；用PBS漂洗4次，每次 $5 { \sim } 1 0 ~ \mathrm { m i n }$ ,避光分别加入$1 \% \mathrm { B S A }$ 稀释的FITC标记的羊抗小鼠荧光二抗( $( 1 { : } 1 0 0$ 稀释)和AlexaFluor555-标记的羊抗小鼠荧光二抗（ $1 : 1 0 0$ 稀释），振荡2次， $3 7 ~ \mathrm { ^ { \circ } C }$ 恒温孵育 $3 0 ~ \mathrm { m i n }$ ,PBS漂洗4次，每次 $5 { \sim } 1 0 \ \mathrm { m i n }$ ;用DAPI进行细胞核染色 $3 \sim$ $5 \mathrm { m i n }$ ，吸去DAPI液，用PBS液漂洗3次，每次 $5 \mathrm { m i n }$ ；予抗荧光衰减封片剂封片后，将载玻片和盖玻片放置于荧光倒置显微镜下拍照。
+
+# 1.3 细胞增殖实验
+
+传代细胞以每孔 $3 { \times } 1 0 ^ { 3 }$ 个细胞密度接种到96孔板中，每孔加细胞悬液 $2 0 0 ~ \mu \mathrm { L }$ ,适应性生长 $2 4 \mathrm { h }$ ,弃培养液，用PBS液漂洗1次。预设置5个浓度组，每组6个复孔，分别加入PDGFBB终浓度分别为0、2.5、5.0、12.5、$2 5 . 0 ~ \mathrm { n g / m L }$ 的无血清DMEM/F12培养液（ $0 . 1 \%$ BSA)$2 0 0 ~ \mu \mathrm { L }$ ,将细胞放置于 $3 7 \ \%$ $\mathrm { C O } _ { 2 }$ 培养箱继续培养，$2 4 \mathrm { h }$ 和48h后，每孔分别加入 $2 0 ~ \mu \mathrm { L }$ 的CCK-8,继续培养$2 \mathrm { h }$ 后，在多功能酶标仪中 $4 5 0 \mathrm { n m }$ 波长下检测各孔光吸收值，并筛选出最适PDGFBB作用浓度，用于后续实验。
+
+# 1.4细胞迁移实验
+
+传代细胞按每孔 $5 \times 1 0 ^ { 5 }$ 密度接种到6孔板中，每孔补充培养液至 $2 { \mathrm { m L } }$ ，置于 $3 7 ~ \mathrm { { ^ { \circ } C } } \setminus { 5 \% } \mathrm { { C O _ { 2 } } }$ 培养箱中培养，直到细胞融合至基本铺满整个孔，换无血清DMEM/F12培养液( $0 . 1 \%$ BSA)继续培养 $2 4 \mathrm { h }$ 使细胞同步化，用 $2 0 0 ~ \mu \mathrm { L }$ 的枪头在培养孔中直线刮除细胞，再用PBS漂洗3次，用筛选出的最适PDGFBB浓度( $ { 1 2 . 5 ~ \mathrm { n g / m L } }$ 的无血清DMEM/F12培养液( $0 . 1 \%$ BSA)处理细胞,阴性对照组加 $0 \mathrm { n g / m L }$ 的PDGFBB的无血清DMEM/F12培养液( $0 . 1 \%$ BSA)。分别于0、12和 $2 4 \mathrm { h }$ 在倒置显微镜下观察细胞迁移并拍照。
+
+1.5荧光定量PCR检测CCSM细胞中转录因子myocardin和表型标志物 $\mathfrak { a }$ -SMA、SMMHC的mRNA表达水平
+
+为了了解PDGFBB对大鼠CCSM细胞表型的影响，用终浓度为 $1 2 . 5 ~ \mathrm { { n g / m L } }$ 的PDGFBB（实验组）和$\mathrm { 0 ~ n g / m L }$ 的PDGFBB无血清DMEM/F12培养液（ $0 . 1 \%$ BSA）（阴性对照组)分别处理CCSM细胞 $2 4 \mathrm { h }$ 和 $4 8 \mathrm { ~ h ~ }$ 收集各组细胞，使用TRIzol提取总RNA，以各组总RNA为模板，用TaKaRa逆转录试剂盒按照说明书分别合成cDNA，然后以磷酸甘油醛脱氢酶(GAPDH)为内参(引物均由上海生物工程公司合成，各引物序列见表1),进行荧光定量PCR,其反应体系为：SYBRPremixEx $\mathrm { T a q } ( 2 \times ) 1 0 . 0 \mu \mathrm { L }$ ，正向及反向引物( $\mathrm { 1 0 ~ m o l / L } )$ 各 $0 . 4 ~ \mu \mathrm { L }$ 模板cDNA $2 . 0 ~ \mu \mathrm { L }$ $\mathrm { \ d d H _ { 2 } O }$ 补足总体积至 $2 0 \mu \mathrm { L } , 9 5 \mathrm { ^ \circ C }$ 预变性 $3 0 ~ \mathrm { s }$ 并按以下PCR反应程序进行40个循环： $9 5 ~ \mathrm { { ^ { \circ } C } }$ 变性 $5 \mathrm { s } , 6 0 \mathrm { ^ { \circ } C }$ 退火、延伸 $3 0 \ \mathrm { s } , \mathrm { P C R }$ 反应后，仪器自动进行熔解曲线分析。每个样品中目的基因相对于空白对照组样品的表达量以 $2 ^ { - \Delta \Delta \mathrm { C t } } ( \textcircled { 1 } \mathrm { C t }$ 值代表达到检测荧光阈值的循环数； $\textcircled { 2 } \triangle \mathbf { C } \mathrm { t } =$ 待测样品目的基因 $\mathrm { C t }$ 值-待测样品内参的Ct值； $\textcircled { 3 } \triangle \triangle \mathrm { c t } =$ 处理后 $\triangle$ Ct-处理前 $\bigtriangleup$ Ct)表示。
+
+表1引物和序列Tab.1 Primers and sequences  
+
+<html><body><table><tr><td>Primers</td><td>Sequences(5'→3')</td><td>Segment size/bp</td></tr><tr><td>Myocardin</td><td>F: CTTGCAGATGACCTCAACGA</td><td>91</td></tr><tr><td>α-SMA</td><td>R:TCACGGAAGAATCCATAGGC F:TTCAATGTCCCTGCCATGTA</td><td>94</td></tr><tr><td></td><td>R:CATCTCCAGAGTCCAGCACA</td><td></td></tr><tr><td>SMMHC</td><td>F:GATGTGGTGCAGAAAGCTCA</td><td>97</td></tr><tr><td></td><td>R:TGAGAATCCATCGGAAAAGG</td><td></td></tr><tr><td>GAPDH</td><td>F:GCCAGCCTCGTCTCATAGACA</td><td>230</td></tr><tr><td></td><td>R:AGAGAAGGCAGCCCTGGTAAC</td><td></td></tr></table></body></html>
+
+1.6Western blotting 检测CCSM细胞中 myocardin 的蛋白表达水平
+
+为了了解PDGFBB作用CCSM细胞不同时间后，细胞中转录因子myocardin蛋白表达变化。予终浓度为 $1 2 . 5 ~ \mathrm { { n g / m L } }$ 的PDGFBB分别处理细胞0、24及 $4 8 \mathrm { ~ h ~ }$ 后收集三组细胞，用预冷的PBS缓冲液漂洗3次，每皿中加入 $1 0 0 ~ \mu \mathrm { L }$ RIPA细胞裂解液（加蛋白酶抑制剂），细胞刮刀收集至无菌EP管中，冰浴裂解 $3 0 \mathrm { m i n }$ 后， $4 \mathrm { { ^ { \circ } C } }$ 下 $1 2 \ : 0 0 0 \ : g$ 离心 $1 5 \mathrm { m i n }$ 。取上清液，加入上清液1/4体积的 $5 \times$ 上样缓冲液，煮沸 $5 \mathrm { m i n }$ ，置于冰上冷却。制备 $10 \%$ 分离胶和 $5 \%$ 浓缩胶，待胶凝固后，每孔上样 $1 0 { \sim } 2 0 ~ \mu \mathrm { L }$ 的蛋白样品进行SDS-PAGE电泳。电泳参数设置：75$\mathrm { V } , 3 0 \operatorname* { m i n } ; 1 2 0 \mathrm { V } , 2 { \sim } 3 \mathrm { h }$ ,直至溴酚蓝指示线距胶底 $2 \mathrm { c m }$ 处为止。电泳结束后，根据Marker指示条带确定目的蛋白的位置并切胶。转膜夹板制备好后放入转膜槽进行电泳，冰浴中 $2 0 0 ~ \mathrm { { m A } }$ 恒流 $1 . 5 { \sim } 2 \ \mathrm { h } _ { \odot }$ 。转膜结束后，将PVDF膜用含 $5 \%$ 脱脂奶粉的TBST溶液室温封闭 $^ { \textrm { 1 h } }$ $4 ~ \mathrm { { ^ circ C } }$ 于稀释后的一抗中孵育过夜(抗体稀释液比例：myocardin $1 : 3 0 0 , \beta$ -actin $1 : 8 0 0 0 \rangle$ 。TBST溶液漂洗PVDF膜3次，每次 $1 0 ~ \mathrm { m i n }$ ,二抗稀释液室温孵育 $\boldsymbol { 1 } ~ \mathbf { h } _ { \circ }$
+
+TBST溶液漂洗PVDF膜3次，每次 $1 0 ~ \mathrm { m i n }$ ，利用采用AlphaEaseFC软件对westernblotting显色区带的灰度值进行采集与分析，目的蛋白表达量以内参 $\beta$ -actin进行标准化，对比分析各实验组间蛋白表达的差异情况。
+
+# 1.7统计学分析
+
+应用SPSS13.0统计软件分析，两组间差异的比较用两个独立样本t检验;多样本均数比较采用单因素方差分析，多个实验组和一个对照组的比较采用Dunnett法，组间多重比较采用LSD法。 $P { < } 0 . 0 5$ 表示结果有统计学意义。
+
+# 2结果
+
+# 2.1CCSM细胞的培养和鉴定
+
+2.1.1CCSM细胞的形态及生长特点倒置相差显微镜下观察发现，改良组织块法培养大鼠CCSM细胞，原代第4\~5d有少数梭形细胞从组织块边缘游出逐渐形成细胞晕(图1A),至22d左右细胞长满覆盖培养瓶底；传代并经差速离心筛选后的细胞绝大部分呈梭形，呈方向性排列，少部分呈星形。生长密集时，梭型或长梭型的细胞相互交织呈网状，密度高时细胞排列呈束状或旋涡状，有时呈"峰-谷”样生长(图1B)。
+
+![](images/d4c0934585d7fce74c3a5f648e4f9c58c91f16cb79bf87105567047cf21cce5c.jpg)  
+图1A原代培养第4天少数梭形细胞从组织块边 缘爬出 Fig.1A Cell outgrowth from the edge of tissue blocks on day 4of primary culture (Phase-contrast microscope,original magnification: $\times 2 0 0$ ）
+
+![](images/65440c8a278d311c2f3de9f3dda6131c0c60730d7f0452152ab0a264d231ed45.jpg)  
+图1BCCSM细胞呈旋涡状或"峰-谷"样生长 Fig.1BSwirling or"peak-valley" like growth pattern of CCSM cells (Phase contrast microscope, original magnification: $\times 1 0 0 ^ { \cdot }$ ）
+
+2.1.2细胞免疫荧光法鉴定CCSM细胞免疫荧光结果显示(图2)，倒置荧光纤维镜下观察发现，视野内所有细胞核均呈现蓝色荧光，绝大多数细胞呈梭形，约 $9 6 . 5 \%$ 的细胞胞质呈现绿色荧光为α-SMA，约 $9 6 \%$ 细胞胞质呈现红色荧光为smoothelin阳性的细胞，两者均为阳性的细胞阳性的细胞即CCSM细胞。可见改良组织块法加差速贴壁离心法筛选细胞，可得到较纯的CCSM细胞，
+
+![](images/7bbe91c3ec769866d5ae0ddedf60b8e885cafa9e9b06ca9800e820a448051622.jpg)  
+图2CCSM细胞的免疫荧光鉴定 Fig2 Immunofluorescence identification of CCSM cells for $\alpha$ -SMA and smoothelin (Original magnification: $\times 2 0 0 \AA$ .A:Immunofluorescence of $\alpha$ -SMA protein; B: Immunofluorescence of smoothelin protein.
+
+# 2.2PDGFBB对CCSM细胞增殖活性的影响
+
+利用CCK-8法，分别采用终浓度为0、2.5、5.0、$1 2 . 5 . 2 5 . 0 \mathrm { n g / m L }$ 的重组PDGFBB作用体外培养的大鼠CCSM细胞， $2 4 \mathrm { ~ h ~ }$ 和 $^ { 4 8 \mathrm { ~ h ~ } }$ 时用多功能酶标仪读出各孔OD值，结果(图3)显示，在 $2 4 \mathrm { h }$ 和 $4 8 \mathrm { ~ h ~ }$ 时，与阴性对照组( $\mathrm { { 0 \ n g / m L } }$ PDGFBB)相比，各不同浓度的PDGFBB均能明显刺激大鼠CCSM细胞生长和增殖( $2 4 \mathrm { h }$ 和$^ { 4 8 \mathrm { ~ h ~ } }$ 时 $P$ 值均为 $P { < } 0 . 0 0 1 \$ )。且在终浓度为 $1 2 . 5 ~ \mathrm { n g / m L }$ 时，PDGFBB对CCSM细胞的促增殖作用最明显;并以此浓度作为PDGFBB作用CCSM细胞的最适浓度来进行后续实验。
+
+![](images/11e3d43cdfa03cdb17e1a8fed88506453aba5e505396a1a066407191c3281cf9.jpg)  
+图3不同浓度的PDGFBB对CCSM细胞增殖活力的影响Fig.3Effect of PDGFBB at different concentrations onCCSM cell viability. $^ { * } P { < } 0 . 0 0 1$ Us control( $\mathrm { \Delta 0 n g / m L }$ PDGFBB).
+
+# 2.3PDGFBB对CCSM细胞迁移的影响
+
+利用划痕实验，分别采用 $\mathrm { 0 \ n g / m L }$ PDGFBB及
+
+$1 2 . 5 ~ \mathrm { { n g / m L } }$ PDGFBB的无血清DMEM/F120 $0 . 1 \%$ BSA)来诱导CCSM细胞迁移，结果(图4)显示，在 $1 2 \mathrm { h }$ 和$2 4 \mathrm { h }$ ，与阴性对照组相比，PDGFBB能明显增强CCSM细胞的迁移能力。
+
+# 2.4PDGFBB对CCSM细胞表型转化的影响
+
+根据 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 确定各目的基因的mRNA表达量，与阴性对照组比较， $2 4 \mathrm { ~ h ~ }$ （图5A）和 $^ { 4 8 \mathrm { ~ h ~ } }$ （图5B）时PDGFBB组CCSM细胞中myocardinmRNA表达分别下降 $45 \%$ 、 $6 6 \%$ $\mathfrak { a }$ -SMAmRNA表达分别下降 $28 \%$ 、$5 0 \%$ ;SMMHCmRNA表达分别下降 $4 4 \% 5 8 \%$ 。可见，PDGFBB能下调CCSM细胞转录因子myocardin及收缩型表型标志物α-SMA、SMMHC及的表达，进而说明PDGFBB可促进CCSM细胞表型转化。根据westernblotting检测结果(图6)显示，与 $0 \mathrm { h }$ 相比,PDGFBB刺激CCSM细胞 $2 4 \mathrm { ~ h ~ }$ 时，细胞中myocardin蛋白表达减少$( P { < } 0 . 0 0 1 )$ ；与0h相比，PDGFBB刺激CCSM细胞 $4 8 \mathrm { ~ h ~ }$ 时，CCSM细胞中myocardin蛋白表达显著减少( $P <$ 0.001);说明在 $4 8 \mathrm { ~ h ~ }$ 内细胞中myocardin蛋白表达水平随着PDGFBB作用时间延长而逐渐降低。推断myocardin可能参与调控PDGFBB诱导的CCSM细胞表型转化。
+
+# 3讨论
+
+在阴茎勃起过程中，CCSM为各种因素作用的终末组织,处于核心地位。CCSM细胞约占海绵体组织 $40 \%$ ${ \sim } 5 2 \% ^ { [ 8 ] }$ 。CCSM细胞表型转化在器质性ED发生的过程中起非常重要的作用，然而调控CCSM细胞表型转化的机制尚不清楚。
+
+![](images/0dc52bc5a890c625ab97bcb461818590e5c41402372da42a56d8fe90671d8d36.jpg)  
+图4PDGFBB对CCSM细胞迁移的影响Fig.4 Effect of PDGFBB on CCSM cell migration (Original magnification: $\times 4 0$ ）
+
+![](images/d29a9ceced7f0a3046cf299c7b2d03ed5b4ad85b1dd701e31a7a4776b022ac6c.jpg)  
+图6PDGFBB处理不同时间对CCSM细胞中myocardin蛋白表达的影响Fig.6 Effect of PDGFBB on myocardin protein expression inCCSM cells at different time points. $^ { * } P { < } 0 . 0 0 1$ Us control $( 0 \mathrm { h } )$
+
+![](images/1745a37b11b3fe214ab6b7f5b88cbf72239fb1e0bc0a07f235ea88e95a51c04b.jpg)  
+图5PDGFBB刺激 $2 4 \ : \mathrm { h } ( A )$ 和 $4 8 \mathrm { ~ h } ( B )$ 时对CCSM细胞表型转化的影响Fig.5 Effect of PDGFBB on CCSM cell phenotypic modulationat $2 4 \mathrm { h } \left( A \right)$ and $4 8 \mathrm { h }$ (B). $^ { * } P { < } 0 . 0 1$ uscontrol $\mathrm { \Delta 0 n g / m L }$ PDGFBB).
+
+研究发现PDGFBB能促进VSMC增殖、趋化及使细胞从收缩型向合成型转化[5-6,9]。然而,PDGFBB是否对类似的CCSM细胞有相似的作用还不清楚。Aversa等[0]研究报道,PDGFBB及PDGF受体可在CCSM细胞中表达，PDGFBB可以改变海绵体组织中平滑肌与纤维结缔组织的比例，导致阴茎海绵体纤维化和ED的发生。推断PDGFBB可能影响CCSM细胞表型并在器质性ED的发生起重要作用。
+
+本研究首先用不同浓度的重组PDGFBB刺激体外培养的大鼠CCSM细胞，发现各浓度PDGFBB均能明显促进CCSM细胞增殖，并且筛选出PDGFBB作用CCSM细胞的最适浓度为 $1 2 . 5 ~ \mathrm { { n g / m L } }$ 。细胞划痕实验证实，PDGFBB能明显趋化CCSM细胞，增强其迁移能力。虽然PDGFBB能显著促进CCSM细胞增殖、迁移,但是在器质性ED的阴茎病理标本中,未发现CCSM细胞增生，反而有显著减少，这与我们的结果不一致，考虑可能器质性病变时还有其他复杂的机制参与体内CCSM细胞的凋亡，如糖尿病时低氧诱导CCSM细胞凋亡[1]等,因此还需要大量的体内实验进一步探索。然而病理结果发现器质性ED如糖尿病性ED的大鼠CCSM细胞外基质沉积，并出现纤维化。文献报道，VSMC表型转化可调节细胞外基质成分的变化并促进血管纤维化[13]。同样,CCSM细胞表型发生转化,使得其合成细胞外基质的能力增加，促进海绵体纤维化"，进而导致ED的发生。因此我们主要研究大鼠CCSM表型转化。为此,本实验用重组PDGFBB处理CCSM细胞 $2 4 \mathrm { ~ h ~ }$ 和 $^ { 4 8 \mathrm { ~ h ~ } }$ 后,分别设置阴性对照组,用荧光定量PCR的方法分析CCSM细胞中转录因子myocardin及收缩型表型标志物α-SMA、SMMHC的表达情况,结果发现,在 $2 4 \mathrm { h }$ 和 $4 8 \mathrm { ~ h ~ }$ 时PDGFBB均能不同程度地下调CCSM细胞中myocardin、 $\mathfrak { a }$ -SMA和SMMHC的表达。说明PDGFBB可诱导CCSM细胞发生表型转化。另外，我们采用Western bloting 检测 PDGFBB 处理CCSM细胞不同时间后,细胞中myocardin的蛋白表达变化，结果显示，在 $^ { 4 8 \mathrm { ~ h ~ } }$ 内myocardin蛋白表达随PDGFBB作用时间延长而下调。Myocardin是平滑肌细胞表型调控过程中重要的调控因子，其与SRF及CArG盒结合形成三元复合物共同调节平滑肌细胞表型[14],并且我们前期研究[15-16]也显示,糖尿病性ED大鼠阴茎海绵体组织中myocardin蛋白表达下调,并且阴茎海绵体过表达myocardin能够逆转CCSM细胞的表型转化和改善糖尿病性ED大鼠的勃起功能。上述结果表明,myocardin可能参与调控PDGFBB诱导的CCSM细胞表型转化。
+
+我们前期对CCSM细胞表型转化尤其是糖尿病性ED的CCSM细胞表型转化方面做了大量研究，然而对其发生表型转化的调控机制研究尚少，本研究结果表明，PDGFBB不仅能促进体外培养的CCSM细胞增殖、迁移，更重要的是，其可诱导CCSM细胞发生表型转化，可能参与糖尿病、呼吸睡眠低通气综合征等器质性ED的发生发展。Myocardin随着PDGFBB作用时间的延长而下调，说明myocardin可能参与调控PDGFBB诱导的CCSM细胞表型转化。然而器质性ED时CCSM细胞发生表型转化是由许多因素共同参与的，其具体分子机制仍不清楚；PDGFBB诱导CCSM细胞表型转化的机制亦非常复杂，涉及许多信号通路，仍需深入研究。
+
+# 参考文献：
+
+[1]Bonner JC.Regulation of PDGF and its receptors in fibrotic diseases[J].Cytokine Growth Factor Rev,2004,15(4): 255-73.   
+[2]Wissler RW.The arterial medial cell,smooth muscle,or multifunctional mesenchyme?[J]. Circulation,1967,36(1):1-4.   
+[3]Rensen SS，Doevendans PA，Van Eys GJ. Regulation and characteristics of vascular smooth muscle cell phenotypic diversity [J]. Neth Heart J,2007,15(3): 100-8.   
+[4]Wei AY,He SH, Zhao JF,et al. Characterization of corpus cavernosum smooth muscle cell phenotype in diabetic rats with erectile dysfunction[J]. Int JImpot Res,2012,24(5): 196-201.   
+[5]Lee MH,Kwon BJ,Seo HJ,etal.Resveratrol inhibits phenotype modulation by platelet derived growth factor-bb in rat aortic smooth muscle cells[J]. Oxid Med Cell Longev,2014: 572430.   
+[6] Gan J, Li P,Wang Z,et al. Rosuvastatin suppresses platelet-derived growth factor-BB-induced vascular smooth muscle cell proliferation and migration via the MAPK signaling pathway[J].Exp Ther Med,2013,6(4): 899-903.   
+[7］万 波,韦安阳,叶挺宇,等.改良组织块法培养SD大鼠阴茎海绵体平 滑肌细胞[J].南方医科大学学报,2010,30(3):494-7.   
+[8]El-Sakka AI. Yassin a a.amelioration of penile fibrosis:myth or reality[J].JAndrol,2010,31(4): 324-35.   
+[9]Salabei JK,Cummins TD，Singh M,et al．PDGF-mediated autophagy regulates vascular smooth muscle cell phenotype and resistance to oxidative stress[J]. Biochem J,2013,451(3): 375-88.   
+[10]Aversa A,Basciani S, Visca P,et al. Platelet-derived growth factor (PDGF) and PDGF receptors in rat corpus cavernosum: changes in expression after transient in vivo hypoxia[J].JEndocrinol,2001,170 (2): 395-402.   
+[11]Lv B, Zhao J，Yang F,etal.Phenotypic transition of corpus cavernosum smooth muscle cells subjected to hypoxia[J].Cell Tissue Res,2014,357(3): 823-33.   
+[12]Zhou F,Li GY,Gao ZZ,et al. The TGF-β1/Smad/CTGF pathway and corpus cavernosum fibrous-muscular alterations in rats with streptozotocin-induced diabetes[J].JAndrol, 2012,33(4): 651-9.   
+[13]Touyz AA. Angiotensin I and vascular injury[J]. Curr Hypertens Rep,2014,6(16): 431.   
+[14]Long X,Bell RD,Gerthoffer WT,et al.Myocardin is sufficient for a smooth muscle-like contractile phenotype[J].Arterioscler Thromb Vasc Biol,2008,28(8): 1505-10.   
+[15]He SH,Wei AY, Yang Y,et al. Reduced expression of myocardin and serum response factor in the cavernous tissue of diabetic rats [J]. Andrologia,2012, 44(Suppl 1): 518-22.   
+[16]He S, Zhang T,Liu Y, et al. Myocardin restores erectile function in diabetic rats: phenotypic modulation of corpus cavernosum smooth muscle cels[J].Andrologia,2015,47(3): 303-9.
+
+（编辑：吴锦雅）

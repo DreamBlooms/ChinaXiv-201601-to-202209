@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "基于淫羊藿属(EpimediumL.)核型似近系数的聚类分析及其系统演化意义",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈永毕1.2，李双1,2，吴静1.3，盛茂银1,3\\*(1．贵州师范大学喀斯特研究院，贵阳 550001;2.国家喀斯特石漠化治理工程技术研究中心，贵阳 550001;3．贵州省喀斯特石漠化防治与衍生产业工程实验室，贵阳 550001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为揭示淫羊藿属(EpimediumL.)植物染色体组遗传与进化、阐明该属植物系统亲缘关系和现代地理分布格局形成，本研究开展了淫羊藿属植物51个分类群(43种、1亚种、6变种和1个栽培品种)和2种温哥华属(Vancouveria Morren et Decne.)植物的根尖有丝分裂中期染色体核型分析。同时，鉴于淫羊藿属植物种间核型非常相似、传统核型分析难以获得染色体组遗传进化的深入线索，本研究运用核型似近系数聚类分析方法进一步开展了这53个分类群植物的核型聚类研究。研究结果显示，所有种类的染色体数均为12,二倍体( $2 \\mathrm { n } = 2 \\mathrm { x } = 1 2 \\$ ,第1对同源染色体均为随体染色体，核型均为Stebbins的2A或1A型。可见，淫羊藿属植物染色体组在遗传进化中确实较为保守，种间核型非常相似。核型似近系数聚类分析为淫羊藿属植物系统进化研究提供了一些明显的线索。分析结果完全支持该属属下两个亚属 $( E _ { \\cdot }$ （204号subg.Rhizophyllum 和 $E$ ，subg.Epimedium)的划分。亚属Epimedium的核型似近系数聚类结果显示，该类群物种间的系统亲缘关系与地理分布密切相关。核型似近系数分析结果还显示，来自东亚地区的淫羊藿属植物染色体组具有明显的变异，显示了更高的遗传多样性。最后，基于上述研究结果，推断了淫羊藿属植物现代地理分布格局的形成过程。本研究的结果可为淫羊藿属植物的资源利用、系统分类和遗传演化等领域的研究提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：淫羊藿，聚类分析，核型，似近系数，系统学中图分类号：Q941 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A cluster analysis of karyotype resemblance-near coefficients in the genus Epimedium and its evolutionary and systematic ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "implications ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHEN Yongbi1'2,LI Shuang1,2,WU Jing1,3, SHENG Maoyin1,3\\* (1. Instituteof Karst Research,Guizhou Normal University, Guiyang 550o1,China; 2. National Engineering Research Center for Karst Rocky Desertification Control,Guiyang 550001, China; 3. Guizhou Engineering Laboratory for Karst Rocky Desertification Control and Derivative Industry,Guiyang 55ooo1,China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To reveal the genome genetics and evolution and clarify the systematic relationship and the formation of modern geographic distribution，a karyotype analysis of mitotic metaphase chromosomes in 51 Epimedium taxa (43 species,1 subspecies,6 varieties,and 1 cultivated variety) and two Vancouveria species was conducted in the present study. Especially, the 53 taxa studied were clustered by their karyotype resemblance-near coefficients because the interspecific karyotypes are very similar and the traditional karyotype analysis cannot provide significant evidence for the studies on genetics and evolution in Epimedium.The results showed that the 53 taxa studied all were diploid with 12 chromosomes ( $2 \\mathrm { n } = 2 \\mathrm { x } = 1 2$ ),the genome of each taxon had one pair of satelltes located on the pair I of homologous chromosomes,respectively, and the karyotype types of the 53 species studied all were type 1A or 2A of Stebbins.It can be concluded that the interspecific karyotypes were indeed very similar and the genomes evolvement were rather conservative in genus Epimedium. The cluster analysis of karyotype resemblance-near coefficients can provide some valuable clues for the studies on the systematics and taxonomy in genus Epimedium.Results of the cluster analysis by the karyotype resemblance-near coefficients strongly supported the previous taxonomic division of $E$ ， subg. Rhizophyllum and $E$ subg. Epimedium in genus Epimedium.The results also showed that the interspecific relationship was closely correlated to the geographical distribution in $E$ . subg. Epimedium and that the genomes of the taxa native to East Asia had obvious variation and more high genetic diversity. Finally, the formation of modern geographical distribution of genus Epimedium was inferred in the present study. Results of the present study have significant scientific values in the further studies on the resources utilization, taxonomy,and phylogenetics in genus Epimedium. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: barrenwort, cluster analysis, karyotype, resemblance-near coeficient, systematics ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一直以来，淫羊藿都是我国著名的传统药用植物，在生殖系统、心脑血管、抗衰老等领域具有广泛的应用(Sheng etal.,2010)。近年来研究证实，在肿瘤治疗方面淫羊藿植物也具有明显的应用前景(王悦云等，2015)。在欧美、日本等地，由于淫羊藿属植物具有奇异的花朵、多变的花色、多年生常绿的植株等优良园艺特性，已成为十分受欢迎的园艺植物。近年来，针对淫羊藿属植物的研究已成为相关领域研究的热点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "淫羊藿属(EpimediumL.)分类学上隶属于小檗科(Berberidaceae)，间断分布于东亚的日本至北非的阿尔及利亚之间的广大区域(应俊生，2002)。该属属下物种较多，全世界已有 60余个物种报道(Sheng etal.,2010)。该属在全世界的分布区可以分成 2个部分：(1)地中海和西亚地区；(2)以中国为主的东亚地区。以中国为主的东亚地区已有50余个种和6个变种的被发现报道，是淫羊藿属现代物种多样性分布中心。该属是典型的旧世界温带分布属，与分布于北美洲的温哥华属(Vancouveria Morren etDecne.)之间有着密切的亲缘关系(应俊生，2002)。长期以来，由于该属种类繁多，且种间差异不明显，在分类上一直是一个难以处理的类群(郭宝林等，2008)。在过去的100 多年来，学者们对该属系统学研究开展了大量的工作。迄今为止，Steam(2002)基于该属新的类群发现、地理分布、花瓣形态演化以及染色体C带等研究成果，建立了该属最为全面的分类系统。在 Steam(2002)的分类系统中：(1)淫羊藿属首先被划分为 subg.Epimedium和 subg.Rhizophyllum 两个亚属；(2)subg.Epimedium 亚属又被划分为4个组：sect.Epimedium(原产欧洲，高加索和土耳其北部)、sect.Diphyllon(原产中国)、sect.Polyphyllon(原产西喜马拉雅地区)和 sect.Macroceras(原产日本，朝鲜，中国东北和俄罗斯远东);(3)最为复杂的中国类群 sect.Diphyllon组由被进一步划分了4个系:Campanulatae、Davidianae、Dolichocerae 和 Brachycerae。尽管，Stearn(2002)的分类系统是该属目前最为全面的分类系统，且属下分类群(亚属、组)间的关系已经比较清楚。但该属系统分类和起源进化研究仍存在一些明显问题亟待解决：(1)属下类群间的系统关系仍存在不清楚的地方，特别是该属最为复杂的 sect.Diphyllon组下的物种划分和类群间的系统关系仍存在明显的混乱和一定的错误；(2)中国是该属目前的物种分布中心，但是否是其起源中心仍没有定论(Nakaiet al.,1996; Sun,2004; Sun etal.,2014)；(3)该属世界范围的现代间断分布格局形成过程与机制不清楚。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "细胞学的核型分析已广泛应用于植物分类学研究，可以为植物系统起源进化和种间亲缘关系研究提供重要的细胞学资料(盛茂银和陈庆富，2007a)。自上个世纪80年代以来，学者们针对该属植物的细胞学研究开展了大量的工作。Krikorian(1983)报道了11种日本产的淫羊藿属植物的核型；Takahashi(1989)与 Tanaka& Takahashi(1981)研究了该属 26个种、亚种和杂交种的C带；盛茂银与陈庆富(2007a，2007b)分别对该属12种植物和6种植物的核型进行了报道。然而，不管是上述学者们的研究，还是后来陆续开展的淫羊藿植物细胞学研究(Zhang etal.,2018；Sheng&Wang,2010；严福林等，2016)，研究结果都显示，该属植物同源染色体间特征差异不明显，种间核型十分相似，难以从核型特征直接研究物种间的系统亲缘关系，导致该属核型分析研究一直未能为该属植物分类学和系统演化研究提供更为有价值的细胞学证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "核型似近系数综合计算核型分析参数，运用数理统计聚类法对物种在核型水平上进行数值分类，可以反映物种间在核型上的同源性或亲缘关系(谭远德和吴昌谋，1993)，特别是针对种间核型差异不明显的类群的系统亲缘关系研究具有十分重要的意义。本文作者近 20年来收集了中国、日本、德国、美国等全世界不同区域淫羊藿属植物51个分类群种和2种温哥华属植物，并对其开展了根尖有丝分裂中期染色体核型分析研究。鉴于该属植物同源染色体间差异不明显、种间核型十分相似、传统核型分析的难以开展种间系统关系研究的局限，本研究开展了上述53个分类群种的核型似近系数研究，分析其亲缘关系，以期为淫羊藿属植物的系统分类和起源进化等领域的深入研究提供细胞学证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1供试材料及来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文笔者近20年来通过野外实地采集、学术交流等途径收集了来自中国、日本、德国、美国等全世界不同区域淫羊藿属植物51个分类群种和2种温哥华属植物。这些材料的采集地、凭证标本等信息详见表1。所有的凭证标本存于贵州师范大学喀斯特研究院植物标本室，部分材料具有活体植株，活体植株种植于贵州师范大学喀斯特研究院植物栽培温室。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/49e284ff32abd62b5079034b5c89811e4b90cb5bce473d917eb2224bee4bf530.jpg",
+        "table_caption": [
+            "表1供试材料及来源",
+            "Table1Thelocationandvouchersof thematerial studied "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 分类群</td><td>采集地</td><td>标本号</td></tr><tr><td>No. Taxon</td><td>Location</td><td>Voucher</td></tr><tr><td>genus Epimedium</td></tr><tr><td>subgenus Epimedium</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/66117bec7c805c0d3e8269be94dc3180c896a81d8b1982b39c6ee546df60b82b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1</td><td>E. ecalcaratum G. Y. Zhong</td><td>Baoxing, Sichuan, China</td><td>2008060210BX</td></tr><tr><td>2</td><td>E. shuichengense S.Z.He</td><td>Liupanshui, Guizhou, China</td><td>2009022501LPS</td></tr><tr><td>3</td><td>E. platypetalum K. Meyer</td><td>Hanzhong, Shanxi, China</td><td>2016030201HZ</td></tr><tr><td>4</td><td>E. davidii Franch.</td><td>Kunming, Yunnan, China</td><td>2007070301KM</td></tr><tr><td>5</td><td>E. pauciflorum K. C. Yen</td><td>Maoxian, Sichuan, China</td><td>2008060210MX</td></tr><tr><td>6</td><td>E. flavum Stearn</td><td>Tianquan, Sichuan, China</td><td>2014050902TQ</td></tr><tr><td>7</td><td>E.ilicifolium Stearn</td><td>Zhenping, Shanxi, China</td><td>2015040501ZP</td></tr><tr><td>8</td><td>E. mikinorii Stearn</td><td>Enshi, Hubei, China</td><td>2016030102ES</td></tr><tr><td>9</td><td>E. membranaceum K.Meyer</td><td>Shunso Garden, Japan</td><td>2015032005SH</td></tr><tr><td>10</td><td>E. lishihchenii Stearn</td><td>Yishan, Tongren, Guizhou, China</td><td>2008030201YS</td></tr><tr><td>11</td><td>E. acuminatum Franch.</td><td>Kaiyang, Guizhou, China</td><td>2004050101KY</td></tr><tr><td>12</td><td>E. wushanense T. S. Ying</td><td>Kaili, Guizhou, China</td><td>2007030201KL</td></tr><tr><td>13</td><td>E. leptorrhizum Stearn</td><td>Wuchuan, Guizhou, China</td><td>2009020101WC</td></tr><tr><td>14</td><td>E. baojingense Q. L. Chen et B. M. Yang</td><td>Baojing, Hunan, China</td><td>2008100601BJ</td></tr><tr><td>15</td><td>E. chlorandrum Stearn</td><td>Baoxing, Sichuan, China</td><td>2008060208BX</td></tr><tr><td>16</td><td>E. luodianense M. Y. Sheng</td><td>Luodian, Guizhou, China</td><td>2007050505LD</td></tr><tr><td>17</td><td>E. pudingense S. Z. He</td><td>Kaiyang, Guizhou, China</td><td>2007110405KY</td></tr><tr><td>18</td><td>E. glandulosopilosum H. R. Liang</td><td>Wushan, Chongqing, China</td><td>2014050201WS</td></tr><tr><td>19</td><td>E. pseudowushanense B. L. Guo</td><td>Leishan, Guizhou, China</td><td>2014050601LS</td></tr><tr><td>20</td><td>E. franchetii Stearn</td><td>Badong, Hubei, China</td><td>2015030201BD</td></tr><tr><td>21</td><td>E.enshiense B.L.Guo &Hsiao</td><td>Enshi, Hubei, China</td><td>2016030101ES</td></tr><tr><td>22</td><td>E. sutchuenense Franch.</td><td>Zhuxi, Hubei, China</td><td>2016030201ZX</td></tr><tr><td>23</td><td>E. zhushanense K.F.Wu& S.X.Qian</td><td>Zhushan, Hubei, China</td><td>2016030302ZS</td></tr><tr><td>24</td><td>E. pubescens Maxim.</td><td>Mt. Qingcheng, Sichuan, China</td><td>2008030201QC</td></tr><tr><td>25</td><td>E. sagittatum (Sieb. et Zucc.) Maxim.</td><td>Guiyang Arboretum, Guizhou, China</td><td>2007052001GY</td></tr><tr><td>26</td><td>E. sagittatum var. glabratum T. S. Ying</td><td></td><td>2016030105ES</td></tr><tr><td>27</td><td></td><td>Enshi,Hubei, China</td><td>2008110502LH</td></tr><tr><td>28</td><td>E. dolichostemon Stearn</td><td>Lichuan, Hubei, China</td><td>2015041901DY</td></tr><tr><td>29</td><td>E. truncatum H. R. Liang</td><td>Dayong, Hunan, China</td><td>2015042001TB</td></tr><tr><td>30</td><td>E. brevicornu Maxim.</td><td>Taibai, Shanxi, China</td><td>2016060301JK</td></tr><tr><td>31</td><td>E. myrianthum Stearn</td><td> Jiangkou, Guizhou, China</td><td></td></tr><tr><td>32</td><td>E. stellulatum Stearn</td><td>Shiyan, Hubei, China</td><td>2015032602SY</td></tr><tr><td>33</td><td>E. fargesii Franch.</td><td>Chengkou, Chongqing, China</td><td>2015031503CK</td></tr><tr><td></td><td>E.elachyphyllum Stearn</td><td>Songtao, Guizhou, China</td><td>2013060201ST</td></tr><tr><td colspan=\"4\"> Section Macroceras (native to Japan, Korea,the northeastern China,and the far east of Russia)</td></tr><tr><td>34</td><td>E. koreanum Nakai</td><td>Tonghua, Jilin, China</td><td>2012030201TH</td></tr><tr><td>35</td><td>E. grandiflorum Morr.</td><td>Kochi, Japan</td><td>2016062503KO</td></tr><tr><td>36</td><td>E. grandiflorum var. thunbergianum (Miq.) Nakai</td><td>Miyagi, Japan</td><td>2016092530MI</td></tr><tr><td>37</td><td>E. grandiflorum var. higoense T. Shimizu</td><td>Kumamoto, Japan</td><td>2015100102KU</td></tr><tr><td>38</td><td>E. grandiflorum var. coelestre (Nakai) T. Shimizu</td><td>Gunma, Japan</td><td>2016120201GU</td></tr><tr><td>39</td><td>E. sempervirens Nakai</td><td>Fukui, Japan</td><td>2016102320FU</td></tr><tr><td>40</td><td>E. sempervirens var. hypoglaucum (Makino) Ohwi</td><td>Ishikawa, Japan</td><td>2015100205IS</td></tr><tr><td>41</td><td>E. sempervirens var.multifoliolatum T. Shimizu</td><td>Nara, Japan</td><td>2016051002NA</td></tr><tr><td>42</td><td>E. trifoliatobinatum (Koidz.) Koidz</td><td>Kochi, Japan</td><td>2012050301KO</td></tr><tr><td>43</td><td>E. diphyllum (Morren et Decne.) Lodd.</td><td> Hiroshima, Japan</td><td>2011080602HI</td></tr><tr><td>44</td><td>E. cremeum Nakai et F. Maek</td><td> Iwate, Japan</td><td>2011060502IW</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/44040aaf688addb6ea3df66dd0a1c4246c7aac062433ef7ea731d534eab683f3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>45</td><td>E. kitamuranum Yamanaka</td><td>Tokushima, Japan</td><td>2010080502TO</td></tr><tr><td>46</td><td>E. setosum Koidz</td><td>Okayama, Japan</td><td>2010080508OK</td></tr><tr><td colspan=\"4\">Section Epimedium (native Europe,Caucasia,and the northern Turkey)</td></tr><tr><td>47</td><td>E. alpinum L.</td><td>Munich,Germany</td><td>2008121401MU</td></tr><tr><td>48</td><td>E. pubigerum (DC.) Morren et Decne.</td><td>Munich, Germany</td><td>2008121501MU</td></tr><tr><td colspan=\"4\">Subgenus Rhizophyllum (native to Caucasia and North Africa)</td></tr><tr><td>49</td><td>E. pinnatum subsp. colchicum Boiss</td><td>Arnold Arboretum,USA</td><td>2013060501AR</td></tr><tr><td>50</td><td>E. pinnatum cv.elegans</td><td></td><td></td></tr><tr><td>51</td><td>E. perralderianum Coss.</td><td>Arnold Arboretum, USA</td><td>2013060508AR</td></tr><tr><td colspan=\"4\">Genus Vancouveria</td></tr><tr><td>52</td><td>V. hexandra (Hook.) Morren et Decne.</td><td>Arnold Arboretum,USA</td><td>2013060509AR</td></tr><tr><td>53</td><td>V. chrysantha Greene</td><td>Arnold Arboretum, USA</td><td>2013060510AR</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2染色体标本制备与核型参数获取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2007年至2018年期间，每年4一5月，从生长旺盛活体植株根系上剪取新生长的根尖，运用压片法制备染色体标本。具体制备方法参照盛茂银和陈庆富(2007a)的方法。选取着丝粒清晰、分散良好的染色体玻片，借助Olympus BX52-DP72显微摄像系统进行显微拍照。每个材料选取5个良好的中期分裂细胞相进行核型分析和核型参数计算。染色体相对长度、臂比、着丝粒指数、染色体类型划分与命名按 Levan et al.(1964)的方法，核型分类按Stebbins(1971)的标准。RLR值(染色体组中最长染色体与最短染色体的相对长度比值)和P值(染色体组中臂比大于2:1的染色体比例)被计算获得并作为核型似近系数计算中的两个重要参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3核型似近系数计算与聚类分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "核型似近系数的计算公式(谭远德和吴昌谋，1993)如下:",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\lambda = \\gamma \\times \\beta } \\\\ & { \\gamma _ { i j } = \\frac { \\sum _ { k = 1 } ^ { n } x _ { i k } \\cdot x _ { j k } - \\left( \\sum _ { k = 1 } ^ { n } x _ { i k } \\right) ( \\sum _ { k = 1 } ^ { n } x _ { j k } ) } { \\sqrt { \\sum _ { k = 1 } ^ { n } ( x _ { i k } - \\overline { { x } } ) ^ { 2 } } \\cdot \\sum ( x _ { j k } - \\overline { { x } } _ { j } ) ^ { 2 } } } \\\\ & { \\beta = 1 - \\frac { d } { D } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $D$ 为和距。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D = \\sum _ { k = 1 } ^ { n } \\lfloor x _ { i k } \\rfloor + \\sum _ { k = 1 } ^ { n } \\lfloor x _ { j k } \\rfloor } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$d$ 为合距，是内距 $( d _ { i } )$ 与外距 $( d _ { n } )$ 之积的平方根。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { d = \\sqrt { d _ { i } \\cdot d _ { n } } } \\\\ & { } \\\\ & { d _ { i } = \\sum _ { k = 1 } ^ { n } \\bigl | x _ { i k } - x _ { j k } \\bigr | } \\\\ & { } \\\\ & { d _ { n } = \\bigl | \\sum _ { k = 1 } ^ { n } \\bigl | x _ { i k } \\bigr | - \\sum _ { k = 1 } ^ { n } \\bigl | x _ { j k } \\bigr | \\bigr | } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上述公式，对所有研究材料植物的有丝分裂中期染色体的核型似近系数进行了计算，对其的核型似近系数运用UPGMA方法进行聚类，具体聚类过程在NTSYS-pc软件(Version2.10e)中完成并绘制聚类图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1核型总体特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 淫羊藿属",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根尖有丝分裂中期染色体计数显示，所有种类的染色体数均为12条。进一步核型分析表明，所有种类均为二倍体，即 $2 \\mathrm { n } = 2 \\mathrm { x } = 1 2$ ，且每个物种染色体组第1对同源染色体均为随体染色体。所有种类的有丝分裂中期染色体分别见图1(材料1-24)和图2(材料25-51)。所有种类的染色体长度、臂比、着丝粒指数、RLR值(染色体组中最长染色体与最短染色体的相对长度比值)、P值(染色体组中臂比大于2:1的染色体比例)、核型类型等参数见表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所研究种类6对同源染色体长度平均值分别为 $9 . 8 2 , 9 . 0 4 , 8 . 5 9 , 8 . 0 2 , 7 . 5 6$ 和 $6 . 9 8 \\ \\mu \\mathrm { m }$ 6对同源染色体平均臂比分别为1.28、1.31、1.44、1.98、2.12和2.06。所有类群的染色体类型绝大多数为中部着丝粒染色体和近中部着丝粒染色体，极个别为正中部着丝粒染色体和近端部着丝粒染色体，无端部着丝粒染色体。供试材料染色体组中最长染色体与最短染色体的相对长度比值平均值为1.41，染色体组中臂比大于 $2 : 1$ 的染色体比例平均值为0.33。按照Stebbins(1971)的核型分类，供试材料的核型均为高度对称的 2A或1A型。对比分析淫羊藿供试材料的有丝分裂中期染色体形态和核型参数，其核型非常相似。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 温哥华属",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根尖有丝分裂中期染色体计数显示，两种温哥华属植物染色体数均为12条，均为二倍体 $( 2 \\mathrm { n } = 2 \\mathrm { x } = 1 2 )$ ，且每个物种染色体组第1对同源染色体均为随体染色体。有丝分裂中期染色体见图2(材料52-53)。染色体长度、臂比、着丝粒指数、RLR值、P值、核型类型等核型参数见表2(材料52-53)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 对同源染色体长度平均值分别为9.65、9.11、8.69、8.11、7.30 和 $7 . 1 6 ~ \\mu \\mathrm { m }$ 。6对同源染色体平均臂比分别为1.17、1.10、1.19、1.43、1.93和1.59，染色体类型均为中部着丝粒染色体和近中部着丝粒染色体。染色体组中最长染色体与最短染色体的相对长度比值均为1.41，染色体组中臂比大于 $2 : 1$ 的染色体比例分别为0.00和0.17。核型分别为1A和 2A型。2种温哥华属植物彼此间的核型也很类似。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2核型似近系数聚类 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "基于核型参数，运用上述核型似近系数计算方法，计算了53个分类群的核型似近系数，并运用了平均聚类法(UPGMA方法)进行了聚类，聚类结果见图3。结果显示，在核型似近系数(λ)为0.93时，53个分类群可以聚成2类。对照以前的分类处理(Steam，2002)，这2类大致可对应为淫羊藿属和温哥华属。与传统核型分析结果一致，淫羊藿属和温哥华属植物核型很相似，个别淫羊藿属植物(E.truncatum、E.leptorrhizum 和E.dolichostemon)被聚在温哥华属中。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "聚类结果也显示，淫羊藿属植物首先被聚成2类，与该属属下两个亚属(subgRhizophyllum和 subg.Epimedium)的划分完全一致。亚属Epimedium又可进一步被聚成2类，对照该属植物以前的分类和地理分布，该聚类大致和该属植物的世界地理分布格局对应。该属物种间断分布于东亚的日本至北非的阿尔及利亚之间的广大区域，整个分布区可以分成 2个部分：(1)地中海和西亚地区；(2)以中国、日本为主的东亚地区，核型似近系数聚类分析总体上和这一划分一致。聚类结果也显示，东亚地区的类群核型具有更高的变异，少数几个物种(E.brevicornu、E.trifoliatobinatum 和E.flavum)被聚类到地中海和西亚类群。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/7be4eaa8c584be92a8f5e0932e3a1c4790c8007eeb1a2b9681e9dd07f03d41f9.jpg",
+        "table_caption": [
+            "表251个淫羊藿属分类群和2种温哥华属植物有丝分裂中期染色体核型参数",
+            ":aryomorphological features of mitotic metaphase chromosomes in 51 Epimedium taxa and two Vancouveria sr "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>材料 编号</td><td colspan=\"8\">染色体长度 Chromosome length</td><td colspan=\"4\">臂比 Arm ratio</td><td colspan=\"6\">着丝粒指数 Centromeric index</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">P</td></tr><tr><td>Matrials</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6 1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>RLR</td></tr><tr><td>1</td><td>9.39</td><td>9.03</td><td>8.53</td><td>7.93</td><td>7.69</td><td>7.44</td><td>1.75</td><td>1.55</td><td>2.18</td><td>1.17</td><td>2.21</td><td>36.36</td><td>39.19</td><td>31.43</td><td>27.69</td><td>46.03</td><td>31.15</td><td>1.26</td><td>0.50</td><td>2A</td></tr><tr><td>2</td><td>9.79</td><td>8.87</td><td>8.53</td><td>8.52</td><td>8.07</td><td>6.22</td><td>2.15</td><td>1.20</td><td>1.64</td><td>2.33</td><td>1.84</td><td>31.76</td><td>45.45</td><td>37.84</td><td>39.19</td><td>30.00</td><td>35.19</td><td>1.57</td><td>0.33</td><td>2A</td></tr><tr><td>3</td><td>9.86</td><td>9.15</td><td>8.31</td><td>8.08</td><td>7.48</td><td>7.13</td><td>1.02</td><td>1.20</td><td>1.55 1.26</td><td>2.00</td><td>2.16</td><td>49.40</td><td>45.45</td><td>44.29</td><td>27.94</td><td>33.33</td><td>31.67</td><td>1.38</td><td>0.33</td><td>2A</td></tr><tr><td></td><td>9.40</td><td>9.29</td><td>9.18</td><td>7.52</td><td>7.30</td><td>7.30</td><td>1.30</td><td>1.40</td><td>2.58 1.68 2.58</td><td>2.14</td><td>1.75</td><td>43.53</td><td>41.67</td><td>37.35</td><td>27.94</td><td>31.82</td><td>36.36</td><td>1.29</td><td>0.33</td><td>2A</td></tr><tr><td>4</td><td>9.26</td><td>9.14</td><td>8.79</td><td>7.96</td><td>7.60</td><td>7.25</td><td>1.52</td><td>1.41</td><td>1.24 2.53</td><td>2.05</td><td>2.21</td><td>39.74</td><td>41.56</td><td>44.59</td><td>28.36</td><td>32.81</td><td>31.15</td><td>1.28</td><td>0.50</td><td>2A</td></tr><tr><td>5</td><td>10.22</td><td>8.93</td><td>8.30</td><td>7.98</td><td>7.45</td><td>7.12</td><td>1.82</td><td>1.63</td><td>3.11</td><td>2.68</td><td>2.72</td><td>35.42</td><td>38.10</td><td>24.36</td><td>44.00</td><td>27.14</td><td>26.87</td><td>1.44</td><td>0.50</td><td>2A</td></tr><tr><td>6</td><td>9.51</td><td>9.38</td><td>9.12</td><td>7.94</td><td>7.55</td><td>6.51</td><td>1.35</td><td>1.32</td><td>1.27</td><td>2.05</td><td>1.78</td><td>42.47</td><td>43.06</td><td>41.43</td><td>36.07</td><td>32.76</td><td>36.00</td><td>1.46</td><td>0.17</td><td>2A</td></tr><tr><td>7</td><td>9.49</td><td>9.39</td><td>8.22</td><td>7.83</td><td>7.63</td><td>7.44</td><td>1.31</td><td>1.41 1.63</td><td>1.77 2.20</td><td>2.71</td><td>3.00</td><td>43.30</td><td>46.88</td><td>38.10</td><td>31.25</td><td>26.92</td><td>25.00</td><td>1.28</td><td>0.50</td><td>2A</td></tr><tr><td>8 9</td><td>10.14</td><td>8.87</td><td>8.48</td><td>7.60</td><td>7.50</td><td>7.41</td><td>1.13 1.04</td><td>1.29</td><td>3.11</td><td>3.05</td><td>2.04</td><td>49.04</td><td>42.86</td><td>43.68</td><td>24.36</td><td>24.68</td><td>32.89</td><td>1.37</td><td>0.50</td><td>2A</td></tr><tr><td>10</td><td>9.76</td><td>8.70</td><td>8.47</td><td>8.35</td><td>7.53</td><td>7.18</td><td>1.33 1.59 1.55</td><td>1.32</td><td>2.23</td><td>1.56</td><td>2.21</td><td>38.55</td><td>39.19</td><td>43.06</td><td>30.99</td><td>39.06</td><td>31.15</td><td>1.36</td><td>0.33</td><td>2A</td></tr><tr><td>11</td><td>10.00</td><td>9.30</td><td>8.70</td><td>7.90</td><td>7.30</td><td>6.80</td><td>1.22 1.21</td><td>2.48</td><td>1.26</td><td>2.32</td><td>2.58</td><td>45.00</td><td>45.16</td><td>28.74</td><td>44.30</td><td>30.14</td><td>27.94</td><td>1.47</td><td>0.50</td><td>2A</td></tr><tr><td>12</td><td>9.90</td><td>8.79</td><td>8.30</td><td>8.02</td><td>7.55</td><td>7.42</td><td>1.05</td><td>1.39</td><td>1.71</td><td>2.21</td><td>2.16</td><td>48.75</td><td>45.07</td><td>41.79</td><td>36.92</td><td>31.15</td><td>31.67</td><td>1.33</td><td>0.33</td><td>2A</td></tr><tr><td>13</td><td>9.28</td><td>9.00</td><td>8.86</td><td>8.17</td><td>7.75</td><td>6.92</td><td>1.09</td><td>1.06</td><td>1.19</td><td>1.24</td><td>1.78</td><td>47.76</td><td>49.23</td><td>48.44</td><td>45.76</td><td>44.64</td><td>36.00</td><td>1.34</td><td>0.00</td><td>1A</td></tr><tr><td>14</td><td>9.75</td><td>8.86</td><td>8.48</td><td>7.85</td><td>7.72</td><td>7.34</td><td></td><td>2.05</td><td>1.30</td><td>3.07</td><td>1.76</td><td>41.56</td><td>41.43</td><td>32.84</td><td>43.55</td><td>24.59</td><td>36.21</td><td>1.33</td><td>0.33</td><td>2A</td></tr><tr><td>15</td><td>10.52</td><td>8.33</td><td>8.06</td><td>7.93</td><td>7.65</td><td>7.51</td><td>1.41 1.10</td><td>1.68</td><td>2.05</td><td>1.67</td><td>1.62</td><td>41.56</td><td>47.54</td><td>37.29</td><td>32.76</td><td>37.50</td><td>38.18</td><td>1.40</td><td>0.17</td><td>2A</td></tr><tr><td>16</td><td>10.83</td><td>8.46</td><td>8.31</td><td>8.30</td><td>8.01</td><td>6.08</td><td>1.28 2.17</td><td>1.67</td><td>1.43</td><td>1.84</td><td>2.42</td><td>43.84</td><td>31.58</td><td>37.50</td><td>41.07</td><td>35.19</td><td>29.27</td><td>1.78</td><td>0.33</td><td>2A</td></tr><tr><td>17</td><td>9.39</td><td>8.68</td><td>8.43</td><td>8.31</td><td>7.59</td><td>7.58</td><td>1.69</td><td>1.26</td><td>2.14</td><td>2.00</td><td>1.86</td><td>37.18</td><td>48.61</td><td>44.29</td><td>31.88</td><td>33.33</td><td>34.92</td><td>1.24</td><td>0.17</td><td>2A</td></tr><tr><td>18</td><td>9.68</td><td>9.45</td><td>9.22</td><td>8.43</td><td>7.52</td><td>5.70</td><td>1.50 1.68</td><td>1.79</td><td>1.96</td><td>2.14</td><td>1.17</td><td>40.00</td><td>37.35</td><td>35.80</td><td>33.78</td><td>31.82</td><td>46.00</td><td>1.70</td><td>0.17</td><td>2A</td></tr><tr><td>19</td><td>9.28</td><td>9.27</td><td>8.82</td><td>8.70</td><td>6.96</td><td>6.95</td><td>1.05</td><td>2.04</td><td>1.78</td><td>2.16</td><td>2.33</td><td>43.75 46.59</td><td>48.75 46.05</td><td>32.89 50.00</td><td>36.00 31.82</td><td>31.67 31.67</td><td>30.00 29.31</td><td>1.33 1.52</td><td>0.50 0.50</td><td>2A 2A</td></tr><tr><td>20 21</td><td>10.43 9.23</td><td>9.01 8.78</td><td>8.75 8.43</td><td>7.82 8.42</td><td>7.11 7.74</td><td>6.87 7.39</td><td>1.17 1.05 2.04</td><td>1.00 1.28</td><td>2.14 1.35</td><td>2.16 1.68</td><td>2.41 2.37</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f5095e467d0663a60e548180546280c68503fecf72fc05add9c444e846be0e0.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：RLR.染色体组中最长染色体与最短染色体的相对长度比值；P.染色体组中臂比大于 $2 : 1$ 的染色体比例；KC.根据 Stebbins(1971)标准的核型分类。ote"
+        ],
+        "table_body": "<html><body><table><tr><td>34</td><td>9.67</td><td>9.25</td><td>8.84</td><td>7.93</td><td>7.19</td><td>7.10</td><td>1.44</td><td>1.20</td><td>1.18</td><td>1.74</td><td>2.48 2.07</td><td>41.03</td><td>45.54</td><td>45.79</td><td>36.46</td><td>28.74</td><td>32.56</td><td>1.36</td><td>0.33</td><td>2A</td></tr><tr><td>35</td><td>9.57</td><td>9.01</td><td>8.78</td><td>7.84</td><td>7.83</td><td>6.96</td><td>1.33</td><td>1.24</td><td>1.09</td><td></td><td>2.03</td><td>42.98</td><td>44.74</td><td>47.75</td><td>37.37</td><td>28.28</td><td>32.95</td><td>1.38</td><td>0.33</td><td>2A</td></tr><tr><td>36</td><td>10.18</td><td>9.19</td><td>8.12</td><td>7.96</td><td>7.58</td><td>6.97</td><td>1.18</td><td>1.07</td><td>2.03</td><td>1.68</td><td>2.14</td><td>45.86</td><td>48.33</td><td>33.02</td><td>47.12</td><td>28.28</td><td>31.87</td><td>1.46</td><td>0.50</td><td>2A</td></tr><tr><td>37</td><td>9.85</td><td>9.16</td><td>8.70</td><td>7.63</td><td>7.56</td><td>7.10</td><td>1.22</td><td>1.35 1.19</td><td>1.12</td><td>2.54 2.54</td><td>2.00</td><td>44.96</td><td>42.50</td><td>45.61</td><td>35.00</td><td>28.28</td><td>33.33</td><td>1.39</td><td>0.17</td><td>2A</td></tr><tr><td>38</td><td>9.53</td><td>9.36</td><td>8.86</td><td>7.69</td><td>7.36</td><td>7.19</td><td>1.15</td><td>1.20</td><td>1.86 1.36 1.97</td><td>2.52</td><td>2.44</td><td>46.49</td><td>45.54</td><td>42.54</td><td>33.70</td><td>28.41</td><td>29.10</td><td>1.33</td><td>0.33</td><td>2A</td></tr><tr><td>39</td><td>10.09</td><td>8.74</td><td>8.67</td><td>7.78</td><td>7.77</td><td>6.95</td><td>1.01</td><td>1.13</td><td></td><td>2.15</td><td>2.32</td><td>49.63</td><td>47.01</td><td>47.41</td><td>29.81</td><td>31.73</td><td>30.11</td><td>1.45</td><td>0.50</td><td>2A</td></tr><tr><td>40</td><td>9.75</td><td>9.04</td><td>8.54</td><td>7.75</td><td>7.74</td><td>7.17</td><td>1.09</td><td>1.11 1.07 1.16</td><td>2.35 2.27</td><td>2.09</td><td>2.45</td><td>47.79</td><td>48.41</td><td>46.22</td><td>30.56</td><td>32.41</td><td>29.00</td><td>1.36</td><td>0.50</td><td>2A</td></tr><tr><td>41</td><td>9.48</td><td>9.11</td><td>8.74</td><td>8.15</td><td>7.70</td><td>6.82</td><td>1.33</td><td>1.11</td><td>2.55</td><td>1.97</td><td>2.17</td><td>42.97</td><td>42.28</td><td>47.46</td><td>28.18</td><td>33.65</td><td>31.52</td><td>1.39</td><td>0.33</td><td>2A</td></tr><tr><td>42</td><td>9.71</td><td>9.57</td><td>9.14</td><td>7.50</td><td>7.35</td><td>6.71</td><td>1.13</td><td>1.17</td><td>2.28</td><td>2.32</td><td>2.24</td><td>46.32</td><td>47.01</td><td>46.09</td><td>30.48</td><td>30.10</td><td>30.85</td><td>1.45</td><td>0.50</td><td>2A</td></tr><tr><td>43</td><td>10.31</td><td>9.02</td><td>8.94</td><td>7.89</td><td>7.00</td><td>6.85</td><td>1.16 1.17</td><td>1.27</td><td>2.38</td><td>2.48</td><td>1.66</td><td>46.09</td><td>43.75</td><td>44.14</td><td>29.59</td><td>28.74</td><td>37.65</td><td>1.51</td><td>0.33</td><td>2A</td></tr><tr><td>44</td><td>10.52</td><td>9.10</td><td>8.22</td><td>8.05</td><td>7.89</td><td>6.20</td><td>1.11</td><td>1.29 1.22 2.29</td><td>1.08</td><td>1.97</td><td>2.50</td><td>47.33</td><td>45.13</td><td>30.39</td><td>48.00</td><td>33.67</td><td>28.57</td><td>1.70</td><td>0.33</td><td>2A</td></tr><tr><td>45</td><td>9.96</td><td>8.92</td><td>8.85</td><td>8.11</td><td>7.22</td><td>6.93</td><td>1.14</td><td>1.45</td><td>3.40</td><td>1.97</td><td>2.24</td><td>46.67</td><td>48.76</td><td>40.83</td><td>22.73</td><td>33.67</td><td>30.85</td><td>1.44</td><td>0.33</td><td>2A</td></tr><tr><td>46</td><td>9.66</td><td>9.34</td><td>8.14</td><td>7.99</td><td>7.67 7.19</td><td>1.28</td><td>1.05</td><td>1.08</td><td>3.00</td><td>2.31</td><td>2.21</td><td>43.80</td><td>47.01</td><td>48.04</td><td>25.00</td><td>30.21</td><td>31.11</td><td>1.34</td><td>0.50</td><td>2A</td></tr><tr><td>47</td><td>10.65</td><td>9.92</td><td>8.13</td><td>7.16</td><td>7.15 7.00</td><td>1.08</td><td>1.13 1.10</td><td>1.04</td><td>2.26</td><td>2.52</td><td>2.07</td><td>48.09</td><td>47.54</td><td>49.00</td><td>30.68</td><td>28.41</td><td>32.56</td><td>1.52</td><td>0.50</td><td>2A</td></tr><tr><td>48</td><td>9.68</td><td>9.27</td><td>8.46</td><td>8.13</td><td>7.64 6.83</td><td>1.29</td><td>1.07</td><td>1.04</td><td>2.45</td><td>2.76</td><td>2.36</td><td>43.70</td><td>48.25</td><td>49.04</td><td>29.00</td><td>26.60</td><td>29.76</td><td>1.42</td><td>0.50</td><td>2A</td></tr><tr><td>49</td><td>10.18</td><td>8.47</td><td>8.32</td><td>7.95</td><td>7.57 7.51</td><td>1.11</td><td></td><td>1.29</td><td>2.06</td><td>2.29</td><td>2.16</td><td>47.45</td><td>48.25</td><td>43.75</td><td>32.71</td><td>30.39</td><td>31.68</td><td>1.36</td><td>0.50</td><td>2A</td></tr><tr><td>50</td><td>9.60</td><td>8.88</td><td>8.80</td><td>8.08</td><td>7.60</td><td>7.04 1.03</td><td>1.07 1.27</td><td>1.29</td><td>2.48</td><td>1.97</td><td>2.03</td><td>49.17</td><td>44.14</td><td>43.64</td><td>28.71</td><td>33.68</td><td>32.95</td><td>1.36</td><td>0.33</td><td>2A</td></tr><tr><td>51</td><td>9.94</td><td>8.89</td><td>8.43</td><td>7.76</td><td>7.61 7.38</td><td>1.24</td><td>1.41</td><td>1.29</td><td>2.68</td><td>1.59</td><td>2.38</td><td>44.70</td><td>41.53</td><td>43.75</td><td>27.18</td><td>38.61</td><td>29.59</td><td>1.35</td><td>0.33</td><td>2A</td></tr><tr><td>52</td><td>9.47</td><td>9.10</td><td>8.95</td><td></td><td></td><td></td><td>1.07</td><td>1.31</td><td>1.64</td><td>1.82</td><td>1.69</td><td>43.31</td><td>48.36</td><td>43.33</td><td>37.84</td><td></td><td></td><td>1.35</td><td>0.00</td><td>1A</td></tr><tr><td></td><td>9.82</td><td></td><td>8.42</td><td>8.28</td><td>7.17</td><td>7.01 7.30</td><td>1.31 1.03</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>35.42</td><td>37.23</td><td></td><td></td><td>2A</td></tr><tr><td>53</td><td></td><td>9.12</td><td></td><td>7.93</td><td>7.43</td><td></td><td></td><td>1.07</td><td>1.22</td><td>2.03</td><td>1.48</td><td>49.29</td><td>46.92</td><td>48.33</td><td>45.13</td><td>33.02</td><td>40.38</td><td>1.35</td><td>0.17</td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "吃 信 8 飘马 2 3 学 城 C 5 6 7   \n心 1 心 10 11 12 V 5   \n二小   \n小 13 14 15 16   \nS   \n1   \n天你 17 18 19 20   \nA 五 21 22 23 24   \n注:1.无距淫羊藿,2.水城淫羊藿,3．茂汶淫羊藿,4.宝兴淫羊藿,5.少花淫羊藿,6.天全淫羊藿,7.镇坪   \n淫羊藿,8.直距淫羊藿,9.膜叶淫羊藿,10.时珍淫羊藿,11.粗毛淫羊藿,12.巫山淫羊藿,13.黔岭淫羊藿，   \n14.保靖淫羊藿,15.绿药淫羊藿,16.罗甸淫羊藿,17．普定淫羊藿,18.腺毛淫羊藿,19.拟巫山淫羊藿,20 木鱼坪淫羊藿,21．恩施淫羊藿,22.四川淫羊藿,23.竹山淫羊藿,24.柔毛淫羊藿.(标尺为 $5 \\mu \\mathrm { m }$ ，下同.)   \nNote:1.E.ecalcaratum,2.E.shuichengense,3.E. platypetalum,4.E.davidi,5.E. pauciflorum,6.E.flavum,7.   \nE.ilicifolium,8.E.mikinori,9.E.membranaceum,10.E.ishhcheni,11.E.cuminatum,12.E.wushanense,13. E.leptorrhizum,14.E.baojingense,15.E.chlorandrum,16.E. luodianense,17.E. pudingense,18. $E$ （2号 glandulosopilosum,19.E.pseudowushanense,20.E.francheti,21.E.enshiense,22.E.sutchuenense,23.E. zhushanense,24.E.pubescens.(1bar=5μm, the same below.) 图124种淫羊藿属植物有丝分裂中期染色体 Fig.1 Mitotic metaphase chromosomes in 24 Epimedium species Y 7 26 福 28 出 30 你 32 专 经院 江 路际 海   \n双馆 江 大   \n发   \n注:25．箭叶淫羊藿,26.光叶淫羊藿,27.长蕊淫羊藿,28．偏斜淫羊藿,29.淫羊藿,30.天平山淫羊藿,31. 星花淫羊藿,32.川鄂淫羊藿,33．小叶淫羊藿,34.朝鲜淫羊藿,35.大花淫羊藿,36.E.grandiflorum var.   \nthunbergianum,37.E. grandiflorum var.higoense,38.E. grandiflorum var.coelestre,39.E.sempervirens,40.E. sempervirens var.hypoglaucum,41.E.sempervirens var.multifoliolatum,42.E.trifoliatobinatum,43.E. diphyllum,44.E.cremeum,45.E.kitamuranum,46.E.setosum,47.高山淫羊藿,48.E.pubigerum,49.E.   \npinnatumsubsp.colchicum,50.E.pinnatumcv.elegans,51.E.perralderianum,52.折瓣花,53.V.chrysantha. Note: 25.E.sagitatum,26. E.sagitatum var. glabratum,27.E.dolichostemon,28.E. truncatum,29.E.   \nbrevicornu,30.E.myrianthum,31.E.stellulatum,32.E.fargesi,33.E.elachyphyllum,34.E.koreanum,35.E.   \ngrandiflorum,36.E. grandiflorumvar.thunbergianum,37.E. grandiflorumvar. higoense,38.E. grandiflorum var.   \ncoelestre,39.E.sempervirens,40.E. sempervirens var.hypoglaucum,41.E.sempervirens var.multifoliolatum,   \n42.E.trifoliatobinatum,43.E.diphylum,44.E.cremeum,45.E.kitamuranum,46.E.setosum,47.E.alpinum,48. E.pubigerum,49.E.pinnatum subsp.colchicum,50.E.pinnatumcv.elegans,51.E.perralderianum,52. Vancouveria hexandra,53.V.chrysantha. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图2 淫羊藿属27个分类群种和温哥华属2种植物有丝分裂中期染色体 Fig.2 Mitotic metaphase chromosomes in 27 Epimedium taxa and two Vancouveria species ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/0746377965cfbfb6a9a685dbf267cef7fe6a73274fb5dc774264c541dad378b4.jpg",
+        "img_caption": [
+            "图3 淫羊藿属51个分类群和2种温哥华属植物核型似近系数聚类分析图 Fig.3 Diagramofclusteranalysis of karyotyperesemblance-nearcoeficientsin51Epimedium taxaand2Vancouveria species "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "此外，核型似近系数聚类结果也很好支持该属物种的分类，原变种与变种(E.sempervirens var. sempervirens 与 $E .$ sempervirens var. hypoglaucum、 E. sempervirens var.multifoliolatum,E. sagitatum var. sagittatum 与 E. sagittatum var. glabratum,E. grandiflorum var.grandiflorum 与 E. grandiflorum var. thunbergianum、E. grandiflorum var. higoense、E.grandiflorumvar.coelestre)间的核型似近系数都较大，可见核型似近系数聚类分析可以为植物分类与系统进化研究提供可靠的线索，特别是针对那些同源染色体差异不明显和种间核型相似的类群。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.1淫羊藿属在小檗科中的系统亲缘关系",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "笔者长期以来开展了大量的淫羊藿属植物细胞学研究，2007年分别报道了6种淫羊藿属植物核型(盛茂银和陈庆富,2007a)和12种淫羊藿属植物核型分析(盛茂银和陈庆富,2007b)，2010 年报道了18 种淫羊藿属植物核型(Sheng et al.，2010)和14 种淫羊藿属植物 45S 和 5SrDNA 中期染色体定位(Sheng＆Wang,2010)。近年来，笔者共收集了中国、日本、德国、美国等全世界不同区域51个淫羊藿属植物类群和2个温哥华属植物类群，并对其开展了根尖有丝分裂中期染色体核型分析研究，获得了迄今为止淫羊藿属植物最为全面系统的根尖细胞核型分析结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在小檗科，淫羊藿属与温哥华属之间具有密切的系统亲缘关系，一直有所认识(Tischler，1902；Loconte＆ Estes，1989；张金谈和王萍莉，1983；Kim&Jansen，1998；王艇等，2001;Jin et al.,2018；Berg，1972)，且小檗科分类上曾将温哥华属植物归入淫羊藿(Stearn，1938)。本研究结果也支持这一结论。本研究显示，淫羊藿属和温哥华属两个类群的核型高度相似，V.hexandra和V.chrysantha的核型公式均为 $2 \\mathrm { n } = 2 \\mathrm { x } = 1 0 \\mathrm { m } + 2 \\mathrm { s m }$ ，且第一对同源染色体具有随体，与淫羊藿属的E.truncatum、 $E .$ leptorrhizum 和 $E .$ dolichostemon等物种聚成一类。对比小檗科的山荷叶属(Diphylleia Michaux)、八角莲属(Dysosma R.E.Woodson)、足叶草属(PodophyllumL.)和桃儿七属(Sinopodophyllum Ying)等4个属植物的核型(李林初，1986；马绍宾和胡志浩，1996)，淫羊藿属植物核型具有明显较高的对称性，且与上述4个类群存在显著差异，暗示淫羊藿属植物在小檗科起源进化中应该是一个古老的类群，且与上述4个类群的亲缘关系较远。这一结果也得到形态学(李超等，2014)、孢粉学(张金谈和王萍莉，1983;王悦云等，2015)、分子标记(Sun et al.,2005；Zhang et al.,2016；Zhang et al.,2014；王艇等，2001; Kim et al.,2004)、同工酶(Sheng et al.,2011)及化学分类学(Koga et al.,1991; Sheng et al.,2008)等研究的支持。核型分析结果对研究淫羊藿属在小檗科中的系统亲缘关系具有重要的参考价值。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2淫羊藿属下类群间的系统亲缘关系",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "本研究的核型分析结果显示，淫羊藿属染色体组进化保守、种间高度相似。供试的 51个淫羊藿属分类群的染色体数均为12条，基数均为6，均为二倍体( $2 \\mathrm { n } = 2 \\mathrm { x } = 1 2 ,$ ，且每个物种第1对体染色体均具有随体染色体，与前人的研究报道结果一致(严福林等，2016；盛茂银和陈庆富，2007a；2007b；Takahashi，1989；Tanaka& Takahashi，1981；Zhang et al.,2018;Sheng& Wang,2010)。供试的 51个淫羊藿属分类群的核型均属 Stebbin(1971)标准的 2A或1A 型，典型的高对称性核型。在种子植物中，具有较高对称性核型的物种通常在进化上属于古老原始类群，而进化的类群在核型上表现明显的不对称(Stebbins,1971; Stace,2000)。淫羊藿属植物的核型高度对称，表明该属在进化上应该是一个保守植物类群。这与该属形态学(Stearn,2002)、分子生物学(Kim& Jansen,1998;Kim et al.,2004)、C带(Takahashi，1989;Tanaka& Takahashi，1981)和rDNA染色体定位(Sheng&Wang,2010)等其它细胞学研究结果一致。长期以来，淫羊藿属由于种类繁多、同源染色体间差异不明显、种间核型相似，导致运用传统核型分析研究该类群的系统分类一直是事倍功半(郭宝林等，2008)，迫切需要从细胞、分子水平开展该属植物的系统学研究。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "53个供试材料(包括51个淫羊藿属分类群植物和2种温哥华属植物)的核型似近系数分析结果显示：尽管淫羊藿属植物染色体组较为保守、种间核型差异不明显，但核型似近系数聚类仍为淫羊藿属下的系统进化研究提供了一些明显的线索。核型似近系数聚类结果完全支持前人主要依据形态形状对该属属下两个亚属(subg.Rhizophyllum 和 subg.Epimedium)的划分。亚属subg.Epimedium 的核型似近系数聚类结果显示所研究的类群可以聚成2类：一类为地中海和西亚类群，另一类为东亚类群。这一结果与已有的该属形态学(Steam,2002)、细胞学(Zhang et al.,2018；Sheng&Wang,2010)、分子生物学(Guo et al.,2018;Kim et al.,2004;Sajad et al.,2018)、植物化学(郭宝林等，2008)等传统的研究结果一致，进一步证实了淫羊藿属植物物种间的系统亲缘关系与地理分布密切相关这一论断。核型似近系数分析结果还显示，来自东亚地区的淫羊藿属植物染色体组具有明显的变异，大多数物种聚成了一类，但同时有部分物种被聚到其它类群，有的物种都和温哥华属植物聚成了一类，显示了淫羊藿属植物东亚类群具有明显的更高的遗传多样性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3淫羊藿属植物现代地理分布格局的形成",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "花瓣形态研究表明，地中海、西亚地区和克什米尔地区的淫羊藿属种类在花瓣的演化过程中明显处于中间类型，而东亚地区的种类却具有花瓣演化过程中的各个类型(应俊生，2002)。本研究核型似近系数聚类分析结果也表明，该属的东亚类群具有明显的更高的遗传多样性。细胞学证据和花瓣形态学研究结果完全一致，显示以中国为中心的东亚地区类群具备了该属植物最丰富的变异类型，不仅是该属的现代分布中心，也非常可能是该属植物的起源中心(Yannick etal.,2012)。但由于缺乏化石记录，导致直接阐明淫羊藿植物目前这种世界间断分布格局的形成原因和过程是一项难以完成的课题(Fergusonetal.,1997)。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "然而，有研究表明，植物在长期进化过程中形成的现代地理分布格局和植物物种本身的形态和遗传特征类似，是物种的系统演化进程与地质气候、生态环境的长期交互作用的最终结果(Stebbins，1971)。可以推断，具有相同或相近的地理分布格局的两个植物类群应该具有相同或相近的系统演化进程(Stebbins，1971)。当前，淫羊藿属植物的世界地理分布格局与水青冈属植物非常类似(Takhtajan，1969)。因此，可以借助水青冈属植物的化石记录来推断淫羊藿植物的分布演化历史。中国和欧洲的水青冈属植物化石最早分别出现在始新世和渐新世中、晚期(Ferguson etal.,1997)。因此我们可以推测，淫羊藿属植物最原始种类出现在东亚。在始新世时期，淫羊藿属植物向西沿传播到达欧洲，欧洲出现淫羊藿属植物较进化类群(Zhang etal.,2007)。后来，由于气候变化和地壳运动，导致中亚地区气候不断干旱和喜马拉雅山脉逐渐隆起(Fergusonetal.，1997)，中亚地区的淫羊藿属植物不断消失，最终导致淫羊藿属现在的全球东亚和地中海、西亚间断分布格局的形成。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BERG RY，1972. Dispersal ecology of Vancouveria (Berberidaceae） [J]. Am J Bot, 59(2): 109-122.   \nFERGUSON DK,LIU YS, ZETTER R,et al.， 1997. The paleoendemic plants of East Asia: evidence from the fossil record for changing distribution paterns [M]// JABLONSKI NG. The Changing Face of East Asia during the Tertiary and Quaternary. Hong Kong: Centre of Asian Studies: 359-371.   \nGUO BL, PEI LK, XIAO PG,2OO8. Further research on taxonomic significance of flavonoids in Epimedium (Berberidaceae）[J].J Syst Evol，46(6):874-885.[郭宝林，裴利宽，肖培根, 2008.淫羊藿属植物黄酮类化合物的分类学意义再探[J]．植物分类学报,46(6):874-885.]   \nGUO M, XU Y, REN L,et al., 2018. A systematic study on DNA barcoding of medicinally important genus Epimedium L. (Berberidaceae) [J]. Genes,9(12): 637.   \nJIN ZY, JOCELYN ML, YE WQ, et al., 2018. The complete chloroplast genome of Vancouveria planipetala, with implication for the phylogeny of Ranunculales [J]. Mitochondrial DNA B, 3(2): 628-629.   \nKIM YD,JANSEN RK, 1998. Chloroplast DNA restriction site variation and phylogeny of the Berberidaceae [J]. Am JBot, 85(12): 1766-1788.   \nKIM YD, KIM SH, KIM CH, et al.,2O04. Phylogeny of Berberidaceae based on sequence of the chloroplast gene ndhF[J]. Biochem Syst Ecol, 32(3): 291-301.   \nKOGA S, SHOYAMA Y, NISHIOKA I, 1991. Studies on Epimedium species: flavonol glycosides and isozymes [J]. Biochem Syst Ecol, 19(4): 315-318.   \nKRIKORIAN AD，CONNOR SA，FITTER MS，1983.Chromosome number variation and karyotype stability in cultures and culture-derived plants [M]// EVANS DA, SHARP WR, AMMIRATO PV, et al. Handbook of plant cell culture.New York: Macmilln Publishing Company: 541-571.   \nLEVAN A,FREDGA K, SANDLBERG A，1964. Nomenclacture for centromeric position on chromosomes [J].Hereditas,52(2): 201-220.   \nLI C,ZHAO J,LI M, 2014. Cladistic analysis of Epimedium Linn. (Berberidaceae） based on morphological characters [J].JPlant Resour Environ,23(4):111-113.[李超，赵杰，李明, 2014.基于形态性状的淫羊藿属(小檗科)的分支分析[J]．植物资源与环境学报，23(4): 111-113.]   \nLI LC,1986. A study on the karyotypes and evolution of Dysosma pleiantha with its relatives [J]. 云南植物研究,8(4): 451-457.]   \nLOCONTE H, ESTES J，1989.Phylogenetic systematics of Berberidaceae and Ranunculales (Magnoliidae) [J]. Syst Bot, 14(4): 565-579.   \nMA SB, HU ZH,1996.A karyotypes study_on Podophylloideae (Berberidaceae)[J]._Acta Bot Yunnanica,18(3)：325-330.[马绍宾，胡志浩，1996．小檗科鬼臼亚科植物的核型研究[J]. 云南植物研究,18(3):325-330.]   \nNAKAI R, SHOYAMA Y, SHIRASHI S,1996. Genetic characterization of Epimedium species using random amplified polymorphic DNA (RAPD） and PCR-restriction fragment length polymorphism (RFLP) diagnosis [J]. Biol Pharm Bull,19(1): 67-70.   \nSAJAD AL, PARVAIZ HQ, SUPHLAG,2018. Genetic diversity of Epimedium elatum (Morren & Decne) revealed by RAPD characterization [J]. Current Bot, 9: 41-46.   \nSHENG MY, CHEN QF,2007b. Karyotype analysis of six Epimedium species native to Guizhou, China[J].Guihaia,27(3):440-443.[盛茂银，陈庆富，2007b．六种贵州淫羊藿属植物核型 分析[J].广西植物,27(3): 440-443.]   \nSHENG MY, CHEN QF,207a. Karymorphology of twelve species in Epimedium (Berberidaceae) [J].Acta Bot Yunnan,29(3):309-315.[盛茂银，陈庆富,2007a.淫羊藿属十二个种的核型 [J]．云南植物研究,29(3):309-315.]   \nSHENG MY, CHEN QF, YANG QX,2O08. Variation in icariin and flavonoid contents of barrenwort accessions native to Guizhou, China [J]. Biochem Syst Ecol, 36(9): 719-723.   \nSHENG MY, WANG LJ, 2010. Chromosomal localization of 45S and 5S rDNA in 14 species and the implications for genome evolution of genus Epimedium [J]. Plant Syst Evol, 290(1-4): 65-73.   \nSHENG MY，WANG LJ，TIAN XJ， 2010. Karyomorphology of eighteen species of genus Epimedium (Berberidaceae） and its phylogenetic implications [J]. Genet Resour Crop Ev, 57(8): 1165-1176.   \nSHENG MY, WANG LJ, XIONG KN, 2011. Isozyme diversity and genetic structure of buckwheat populations [J]. Biochem Syst Ecol, 39(4-6): 458-470.   \nSTACE CA,20o0. Cytology and cytogenetics as a fundamental taxonomic resource for the 20th and 21th centuries [J]. Taxon, 49(3): 451-477.   \nSTEBBINS GL,1971. Chromosomal evolution in higher plants [M]. London: Edward Arnold Ltd: 12-25.   \nSTEARN WT, 1938. Epimedium and Vancouveria (Berberidaceae), a monograph [J]. Bot J Linn Soc, 51(340): 409-535.   \nSTEARN WT, 2OO2. The genus Epimedium and other herbaceous Berberidaceae [M]. Portland: Timber Press: 55-76.   \nSUN Y，FUNG KP， LEUNG PC，et al.，2005.A phylogenetic analysis of Epimedium (Berberidaceae) based on nuclear ribosomal DNA sequences [J]. Mol Phylogenet Evol, 35(1): 287-291.   \nSUN Y, 2004. Characterization of medicinal Epimedium species by 5S rRNA gene spacer sequencing [J]. Planta Med, 70(3): 287-288.   \nSUN W,HUANG WJ，LI ZN，et al.， 2O14. Functional and evolutionary analysis of the API/SEP/AGL6 superclade of MADS-box genes in the basal eudicot Epimedium sagitatum [J]. Ann Bot, 113(4): 653-668.   \nTAKAHASHI C, 1989. Karyomorphological studies on speciation of Epimedium and its allied Vancouveria with special reference to C-bands [J]. Sci Hiroshima Univ, 2: 159-269.   \nTAKHTAJAN A,1997. Diversity and classification of flowering plants [M]. New York: Columbia University Press: 112-118.   \nTANAKA R, TAKAHASHI C,1981. Comparative karyotype analysis in Epimedium species by C-banding (1) E. sempervirens var. hypoglaucum and E. perralderianum [J]. J Jpn Bot, 56(1): 17-24.   \nTAN YD,WU CM, 1993. Cluster analysis method of karyotype resemblance-near coefficient [J]. J Genet Genomics,20(4):305-311.[谭远德，吴昌谋,1993．核型似近系数的聚类分析方法 [J]．遗传学报,20(4): 305-311.]   \nTISHLER G,1902. Die Berberidaceen und Podophyllaceen [J]. Bot Jahrb Syst, 31:596-727.   \nWANG T, SU YJ, ZHU JM, et al., 2001. RAPD analysis on some species of Berberidaceae [J]. Bull Bot Res,21(3):428-43l.[王艇，苏应娟，朱建明，等,2001．部分小檗科植物的RAPD 分析[J]．植物研究,21(3):428-431.1   \nWANG YW, SUN QW, YANG W, et al., 2O15. Polen characteristics and taxonomic significance of Chinese Epimedium medicinal plant [J]. Acta Bot Boreal -Occident Sin,35(7): 1367-1377. [王悦云，孙庆文，杨雯，等，2015.中国淫羊藿属药用植物花粉特征及其分类学意义[J]. 西北植物学报,35(7):1367-1377.]   \nYAN FL, HE SZ, XU WF, et al., 2016. Cytotaxonomy of seven species of Epimedium medicinal plants from Chinese[J].Guihaia,36(9):1039-1045.[严福林，何顺志，徐文芬，等，2016．七 种中国淫羊藿属药用植物细胞分类学研究[J]．广西植物，36(9)：1039-1045.]   \nYANNICK DS,PAUL G, STEFAN W, et al., 2O12. Additional evidence for recent divergence of Chinese Epimedium (Berberidaceae） derived from AFLP, chloroplast and nuclear data supplemented with characterisation of leaflet pubescence[J]. Plant Ecol Evol， 145(1): 73-87.   \nYING JS,2OO2. Petal evolution and distribution patterns of Epimedium L. (Berberidaceae） [J]. Acta Phytotax Sin,40(6):481-489.[应俊生,2002．淫羊藿属(小檗科)花瓣的演化和地理分 布格局的研究[J]．植物分类学报,40(6):481-489.]   \nZHANG C, PENG ZB, NIE ZL, et al., 2018. Chromosome numbers and karyotypes of 18 species of Epimedium sect. Diphyllon (Berberidaceae) from central China [J]. Caryologia, 71: 1-10.   \nZHANG JT, WANG PL,1983. Study on the pollen morphology of the family Berberidaceae [J]. Acta Phytotax Sin,21(2):130-141.[张金谈，王萍莉,1983．小檗科花粉形态研究[J]．植物 分类学报,21(2):130-141.]   \nZHANG ML，CHRISTIAN HU, JOACHIM WK， 2007. Phylogeny and biogeographyof Epimedium/Vancouveria (Berberidaceae): Western North American-East Asian disjunctions, the origin of European mountain plant taxa, and East Asian species diversity [J]. Syst Bot, 32(1): 81-92.   \nZHANG YJ,DU LW, LIU A, et al., 2016. The complete chloroplast genome sequences of five Epimedium species: lights into phylogenetic and taxonomic analyses [J]. Front Plant Sci, 7: 306.   \nZHANG YJ，YANG LL，CHEN JJ，et al.， 2014. Taxonomic and phylogenetic analysis of Epimedium L. based on amplified fragment length polymorphisms [J]. Sci Hortic，170: 284-292. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

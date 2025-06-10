@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "Applying seepage modeling to improve sediment yield predictions in contour ridge systems ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LIU Qianjin1,MA Liang², ZHANG Hanyu1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Shandong Provincial KeyLaboratoryof Waterand SoilConservation &Environmental Protection,Collgeof Resourcesand Environment,Linyi University,Linyi 276Ooo,China;   \n2 Water Resources Research Institute of Shandong Province,Ji'nan 25oo13,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Contour ridge systems may lead to seepage that could result in serious soil erosion. Modeling soil erosion under seepage conditions in a contour ridge system has been overlooked in most current soil erosion models. To address the importance of seepage in soil erosion modeling,a total of 23 treatments with 3 factors,row grade, field slope and ridge height, in 5 gradients were arranged in an orthogonal rotatable central composite design. The second-order polynomial regresson model for predicting the sediment yield was improved by using the measured or predicted seepage discharge as an input factor, which increased the coefficient of determination $( \\mathrm { R } ^ { 2 } )$ from 0.743 to 0.915 or 0.893. The improved regression models combined with the measured seepage discharge had a lower $P$ (0.007) compared to those combined with the predicted seepage discharge ${ \\it P } \\mathrm { = } 0 . 0 1 6 )$ . With the measured seepage discharge incorporated, some significant （ $( P { < } 0 . 0 5 0 )$ effects and interactions of influential factors on sediment yield were detected,including the row grade and its interactions with the field slope,ridge height and seepage discharge,the quadratic terms of the field slope and its interactions with the row grade and seepage discharge.In the regression model with the predicted seepage discharge as an influencing factor, only the interaction between row grade and seepage discharge significantly affected the sediment yield. The regression model incorporated with predicted seepage discharge may be expressed simply and can be used effectively when measured seepage discharge data are not available. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil erosion model; contour ridge; seepage; geometry factors; rainfall simulation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Land degradation caused by soil erosion is a global problem for sustainable agriculture and has attracted great attention (Changere et al.,1995; Ni et al.,2O17; Nishigaki et al.,2017). Contour ridge systems,unlike flat surface and up and down ridge tillage on slopes,have the characteristic of water storage in the furrow between the two adjacent ridges, which leads to increased water infiltration and less soil erosion (Quinton and Catt, 2OO4; Shi et al., 2OO4; Brunner et al., 2008; Gebreegziabher et al.,2OO9;Grum et al.,2017). Soil erosion in contour ridge systems is more carefully considered in the Revised Universal Soil Loss Equation, Version 2 (RUSLE2) (USDAARS, $2 0 0 8 \\mathrm { a }$ ; Liu et al.,2O14a) than in other erosion models, e.g., Water Erosion Prediction Project (WEPP) (Flanagan and Livingston,1995), Limburg Soil Erosion Model (LISEM) (Hessel et al., ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2003)and Chinese Soil Loss Equation (CSLE)(Shi et al.,2013). The soil conservation benefit for contour ridges in RUSLE2 is presented as a subfactor to support practices in which the ridge height and row grade factors are quantified (USDA-ARS,2Oo8a). In the WEPP model, the factors of ridge height and row grade along with contour row spacing and contour row length are used to calculate the water storage in the furrow and when the overflow occurs (Flanagan and Livingston,1995). In the LISEMand CSLE models,the conservation ability of the contour ridge is assigned as a constant in the soil loss estimations (Hessel et al., 2O03; Shi et al.，2013).With the assumption of no infiltration and no soil erosion occurring, Razafison et al. (2O12) established a model to simulate shallow water flow over the ridges；however,this model could not be used for soil erosion estimation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In RUSLE2, the effects of ridge geometry factors, ridge height and row grade, were carefully managed. The ridge height that negatively afects soil erosion determines the contouring effectiveness and decays as a function of the precipitation amount and interill erosion. The relative row grade,which is measured as the ridge-furrow orientation to the overland flow path，was grouped into five classes( $5 \\%$ ， $10 \\%$ ， $2 5 \\%$ ， $50 \\%$ and $100 \\%$ ）to predict soil erosion; however, the prediction accuracy of additional classes is not warranted in RUSLE2. Absolute row grade, defined as the decrease in elevation over distance along the furrows (rise/run)，gives more credit for contouring on various slopes compared to relative row grade (USDA-ARS, 2O08a). The influence of field slope on soil erosion is a subject of interest in RUSLE2 and described as a concave curve interacting with ridge height (Liu et al., 2014a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In a contour ridge system, when the amount of stored rainwater exceeds the storage capacity of the furrow, overflow will occur,resulting in contouring failure (Griffith et al.,199O; Cui et al.,2007; USDA-ARS,2O08a). Being a ril-nterrill erosion model, RUSLE2 did not consider soil erosion induced by contouring failure and the subsequent ephemeral gully erosion (USDA-ARS,2008a). To address this issue,Liu et al. (2014b) used a new type of experimental box in which row grade and field slope could be adjusted simultaneously to qualify the effect and interaction of row grade, field slope,ridge height, ridge width and rainfall intensity factors on soil erosion induced by ridge collapse.Liu et al. (2Ol4a) also analyzed the effects on interrill and ril erosion on row sideslopes; however, only two factor gradients were designed in the study and not even a simple estimated equation for soil erosion could be established for practical use. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the ridge and furrow systems, some depressons are formed when the system is constructed because of the microtopography (Liu et al., 2Ol6). Concentrated rainwater with higher water levels (i.e., higher hydraulic gradients) in these depressions could increase water infiltration and make the soil saturated. When the rainwater penetrates the ridge soil, seepage may form on the row sideslope, especially at the foot of the ridge where the effective stress of the surface soil may be reduced, potentially leading to additional soil erosion (Huang and Laften,1996; Chu-Agor et al.,2008). The aggravated effect of seepage on soil erosion has been the subject of recent interest (Nachshon,2016; Regmi et al., 2017). Compared with the drainage regime, Nouwakpo et al. (2010) found that the average erodibility under a seepage regime was 5.64 times greater than that under the free drainage regime. Soil erosion under seepage conditions was shown to be 6 times higher for a surface under a hydraulic gradient of $2 0 \\ \\mathrm { c m }$ compared with a surface drained for 7 d (Huang and Laften, 1996). A similar multiple was observed by Zheng et al.(2Ooo) under run-on and runoff feed conditions. Nouwakpo and Huang (2Ol2) found soil erosion was 2.1 times higher in seepage conditions. In addition，seepage may promote rill formation (Huang and Laften，1996; Valentin et al.,2005; Nouwakpo and Huang, 2O12). Nouwakpo and Huang (2O12) observed that channel erosion rates doubled under sepage conditions. Seepage could not only increase soil erosion erodibility, but also transport fine particle resulting sapping, slumping or even piping (Wilson et al., 2OO7; Fox and Wilson, 2O1O). As the converse process to seepage, seepage weathering, defined as the weathering process facilitated by seepage, could also reduce the parent material's cohesion and result piping, suffusion and a high erosivity (Sato and Kuwano,2O15; Nachshon,2016). The impact of seepage in slope failure was focused (Regmi et al.,2O17) and the erosion under seepage conditions in contour ridging systems was investigated (Liu et al., 2O15), but the impact of seepage has not been considered in soil erosion models. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Before contour failure and under drainage conditions,the influences of row grade, field slope and ridge height on soil erosion in contour ridge systems have been carefully considered in previous researches (Flanagan and Livingston，1995； USDA-ARS, 2008a). In practice,contour ridge collapse on sloped land is a common phenomenon in North China (Fig.1). In our previous studies (Liu et al.,2O15),the influences of ridge height,row grade and field slope on runof and soil loss under seepage conditions were interpreted. Here, we assumed that incorporating seepage data to estimate sediment yield would improve the accuracy of soil erosion model.Therefore, based on the dataset from Liu et al. (2015,2016),the specific objectives of this study were to (1) model seepage and sediment yield with the row grade,field slope and ridge height as influencing factors; and (2) incorporate a seepage model with a sediment yield model to improve prediction accuracy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7079532800b99a92c7741c3c70185e125fb7cc0278dfd842374d565a23a1ed9f.jpg",
+        "img_caption": [
+            "Fig.1 Contour failure on sloped land in North China "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to previous studies and field investigations,3 key factors (row grade,field slope and ridge height) in 5 gradients for 23 treatments were arranged in an orthogonal rotatable central composite design (Tables 1 and 2). This experimental design has been widely used to detect the effect and interaction of the key factors on dependent variables by building a second-order polynomial regression equation (Dominguez et al.,2O1O; Tang,2O1O; Hadjmohammadi and Sharifi, 2012). Relative to the full factorial design, the orthogonal rotatable central composite design allows a substantial reduction of the treatment number while enabling direct access to the effects of the items in the regression model (St-Pierre and Weiss,2O09). Based on the design method,five code values $( - 1 . 6 8 , - 1 . 0 0 , 0 . 0 0 , 1 . 0 0$ and1.68) were determined for each of these 3 factors as shown in Table 1 (Ding,1986). In Table 2,treatments 1-8 were arranged orthogonally with an inherent repetition of these 3 factors; treatments 15-23 were the repetition treatments on the central point with factors at the zero code level. However, there were no repetitions in treatments 9-14; therefore, these treatments were replicated twice in this study. The performance of the regression model at the treatments of 1-14 could assess the variance explanation and at the treatments of 15-23 could detect the experimental errors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2adb83dcc0e664e3eed057f4d7a5fa2dc800baca35a70122ac0728155c931ee0.jpg",
+        "table_caption": [
+            "Table1 Code gradient and values of influential factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Code gradient</td><td colspan=\"3\">Factor</td></tr><tr><td>Row grade ()</td><td>Field slope (°)</td><td>Ridge height (cm)</td></tr><tr><td>1.68</td><td>10.0</td><td>15.0</td><td>16.0</td></tr><tr><td>1.00</td><td>8.4</td><td>13.0</td><td>14.4</td></tr><tr><td>0.00</td><td>6.0</td><td>10.0</td><td>12.0</td></tr><tr><td>-1.00</td><td>3.6</td><td>7.0</td><td>9.6</td></tr><tr><td>-1.68</td><td>2.0</td><td>5.0</td><td>8.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4aad773d1aba06486f5e1d2b1ee23935f84d6cd3f39f081b3a907999a56a0f62.jpg",
+        "table_caption": [
+            "Table 2Orthogonal rotatable central composite design and measured values of sepage discharge and sediment yield "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment number</td><td colspan=\"3\">Factor values</td><td colspan=\"2\">Experiment results</td></tr><tr><td>Row grade （）</td><td>Field slope （）</td><td>Ridge height (cm)</td><td>Seepage discharge (L/min)</td><td>Sediment yield (kg)</td></tr><tr><td>1</td><td>8.4</td><td>13.0</td><td>14.4</td><td>0.98</td><td>1.19</td></tr><tr><td>2</td><td>8.4</td><td>13.0</td><td>9.6</td><td>0.69</td><td>0.61</td></tr><tr><td>3</td><td>8.4</td><td>7.0</td><td>14.4</td><td>0.87</td><td>0.33</td></tr><tr><td>4</td><td>8.4</td><td>7.0</td><td>9.6</td><td>0.50</td><td>0.40</td></tr><tr><td>5</td><td>3.6</td><td>13.0</td><td>14.4</td><td>0.99</td><td>2.09</td></tr><tr><td>6</td><td>3.6</td><td>13.0</td><td>9.6</td><td>0.70</td><td>0.14</td></tr><tr><td>7</td><td>3.6</td><td>7.0</td><td>14.4</td><td>0.97</td><td>0.14</td></tr><tr><td>8</td><td>3.6</td><td>7.0</td><td>9.6</td><td>0.52</td><td>0.09</td></tr><tr><td>9</td><td>10.0</td><td>10.0</td><td>12.0</td><td>0.80</td><td>3.83</td></tr><tr><td>10</td><td>2.0</td><td>10.0</td><td>12.0</td><td>1.21</td><td>0.17</td></tr><tr><td>11</td><td>6.0</td><td>15.0</td><td>12.0</td><td>0.54</td><td>2.09</td></tr><tr><td>12</td><td>6.0</td><td>5.0</td><td>12.0</td><td>0.74</td><td>0.17</td></tr><tr><td>13</td><td>6.0</td><td>10.0</td><td>16.0</td><td>1.26</td><td>0.77</td></tr><tr><td>14</td><td>6.0</td><td>10.0</td><td>8.0</td><td>0.43</td><td>2.03</td></tr><tr><td>15</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.51</td><td>2.20</td></tr><tr><td>16</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.63</td><td>3.48</td></tr><tr><td>17</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.63</td><td>2.77</td></tr><tr><td>18</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.35</td><td>3.89</td></tr><tr><td>19</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.83</td><td>3.19</td></tr><tr><td>20</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.59</td><td>3.17</td></tr><tr><td>21</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.62</td><td>2.08</td></tr><tr><td>22</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.80</td><td>2.84</td></tr><tr><td>23</td><td>6.0</td><td>10.0</td><td>12.0</td><td>0.43</td><td>3.08</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experiment plots ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The plot designed by Liu et al. (2Ol4a) was selected to obtain different row grades and field slopes by simultaneously adjusting screws (Fig. 2).To create seepage conditions, two pipes fixed through the plot bottom was used to discharge excess water and then to keep the water level approximately $1 \\mathrm { { c m } }$ lower than the lowest point of the two conjunction ridges when water was supplied into the furrow by pipes banded with gauze. The discharged excess water in the furrow was collected through flexible pipes. Seepage and runoff from upper side-slope of the ridge were collected from the outlet. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Brown soil, generated from granite with a high sand content, was used in this experiment. This type of soil could easily result in seepage.Table 3 lists the textural information of the soil collected from the plow layer. To eliminate the influence of large gravel and plant roots on the experiment results, the soil was passed through a $1 0 . 0 \\mathrm { - m m }$ sieve after air dried.The plot was first packed with soil at a bulk density of $1 . 6 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ in four 5-cm layers as the plow sole layers,and then a ridge was formed at a bulk density of $1 . 2 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ as the plow layer. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d94204eedcd545cadab963734a71ef64b9e1ee4ed08389284127ddef52ce18d.jpg",
+        "table_caption": [
+            "Iable 3Textural characteristics of the soil used to pack the experimental plo "
+        ],
+        "table_footnote": [
+            "Note:\\*,soil texture Was classified according to the standard of U.S.Department of Agriculture (USDA). "
+        ],
+        "table_body": "<html><body><table><tr><td>Gravel (%)</td><td>Sand (%)</td><td>Silt (%)</td><td>Clay (%)</td><td>Bulk density of plow layer (g/cm³)</td><td>Bulk density of plow sole (g/cm³)</td></tr><tr><td>22.2</td><td>71.2</td><td>28.1</td><td>0.7</td><td>0.2</td><td>1.6</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ace567fcb01176d84a466a01c91a76268bf728ba4a5f5f02ee4986431fbfad1.jpg",
+        "img_caption": [
+            "Fig.2Rainfallsimulation plot. a,screws for adjusting row grade; b,screws for adjusting field slope; c,pipes fixed through the plot bottom for keeping the water level approximately $1 \\ \\mathrm { c m }$ lower than the lowest point of the two conjunction ridges; d,the lowest pointof the two conjunction ridges; e, pipes banded with gauze for providing aconstant discharge; f,flexible pipes connected to pipes c forcollecting excess water from furrow; and g,outlet for collecting seepage and runoff from upper side-slope of the ridge. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Experiment processes ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experiments were conducted in the Shandong Provincial Key Laboratory of Soil Conservation and Environmental Protection, Shandong, China. The seepage regime was created by supplying water $( 3 ~ \\mathrm { L / m i n } )$ to the furrows,wherein the water level was controlled. In the preliminary experiments,seepage discharge from the row sideslopes showed an initial increasing trend and then remained at a nearly steady state (Liu et al., 2O16). To diminish the effect of seepage discharge change on soil erosion,water was supplied for $6 0 ~ \\mathrm { { m i n } }$ to create stable seepage conditions. The seepage discharge of the final 2 min was collected as a stable seepage flow and used for analysis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "At the end of the seepage process,the water supply was discontinued,and rainfall simulation was performed for $3 0 \\ \\mathrm { m i n }$ .The rainfall intensity was $3 9 ( \\pm 0 . 4 ) \\ \\mathrm { \\ m m / h }$ ，and the homogeneity coefficient was greater than O.89 under a trough rainfall simulator fixed with Veejet 8O1OO nozzles (Liu et al., 2O14b). The runoff mixed with sediment sample was collected every minute. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The collected seepage and runoff with sediment samples were weighed immediately. The runoff mixed with sediment samples passed through forced-air ovens for $1 2 \\mathrm { ~ h ~ }$ under $1 0 5 ^ { \\circ } \\mathrm { C }$ .The dried sediment yield was then weighed,and the total sediment of a rainfal event was obtained by adding the 30 individual samples. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Data treatment ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The DPS (data processng system) software package (Tang,2O1O) was used to build the secondorder polynomial regression models and estimate the significance of the regression coefficients. Three types of regression models to predict the sediment yield were constructed as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A regression model with the factors of row grade, field slope and ridge heigh.   \nAn improved regression model with the measured seepage discharge and the three factors ofrow grade, field slope and ridge height.   \nAn improved regression model with the predicted seepage discharge and the three factors of row grade, field slope and ridge height. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Predict performance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The coefficient of determination $( R ^ { 2 } )$ and root-mean square error (RMSE),which represents the goodness-of-fit and absolute error measurement, respectively (Legates and McCabe,1999; Shi et al.,20o9),were used to evaluate the model performance.Higher $R ^ { 2 }$ and lower RMSE values indicate a higher prediction accuracy. The equations for $R ^ { 2 }$ and RMSE are as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR ^ { 2 } = 1 - \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( S _ { i ( \\mathrm { m e a s u r e d } ) } - S _ { i ( \\mathrm { p r e d i c t e d } ) } ) ^ { 2 } } { \\displaystyle \\sum _ { i = 1 } ^ { n } ( S _ { i ( \\mathrm { m e a s u r e d } ) } - S _ { i ( \\mathrm { m e a n } ) } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M S E } = \\sqrt { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } ( S _ { i ( \\mathrm { m e a s u r e d } ) } - S _ { i ( \\mathrm { p r e d i c t e d } ) } } ) ^ { 2 } } { n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $n$ is the total number of data points and $i$ is the $i ^ { \\mathrm { t h } }$ number of data point; $S$ is the sediment yield $( \\mathrm { k g } )$ ; and Smeasured, Spredicted and $S _ { \\mathrm { m e a n } }$ are the measured sediment yield $( \\mathrm { k g } )$ , predicted sediment yield $( \\mathrm { k g } )$ and mean sediment yield $( \\mathrm { k g } )$ , respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Seepage model and its influencing factors ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Using the measured seepage discharge $( Y _ { \\mathrm { S D } } , \\mathrm { L / m i n } )$ as a dependent variable and the factors (row grade $\\left( x _ { 1 } \\left( ^ { \\circ } \\right) \\right)$ , field slope $( x _ { 2 } ( ^ { \\circ } ) )$ and ridge height $\\left( x _ { 3 } \\left( \\mathrm { c m } \\right) \\right)$ ）as independent variables (Table 2), the second-order polynomial regression model was established (Eq.3). Table 4 lists the results of the regression coefficient significance test. Figure 3 illustrates the curve and plot of the measured and predicted seepage discharge in the 23 treatments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { \\mathrm { { s D } } } = 1 . 8 3 7 - 0 . 2 9 9 x _ { 1 } + 0 . 0 4 3 x _ { 2 } - 0 . 1 6 9 x _ { 3 } + 0 . 0 2 3 { x _ { 1 } } ^ { 2 } + 0 . 1 3 { x _ { 3 } } ^ { 2 } } \\\\ & { \\qquad + 0 . 0 0 2 x _ { 1 } x _ { 2 } - 0 . 0 0 2 x _ { 1 } x _ { 3 } - 0 . 0 0 4 x _ { 2 } x _ { 3 } \\quad ( R ^ { 2 } = 0 . 7 5 9 , P = 0 . 0 0 7 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe41176bf2e45608ce0929a67d3ad8b35b0ad77531fc3c57b08c24e5ed06cacc.jpg",
+        "img_caption": [
+            "Fig.3Curve (a) and plot (b) of the measured and predicted seepage discharge "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f45976c83cdf752c6ab176a6461fe99862609d8a4fb65eef226eb05a0f87ae1.jpg",
+        "table_caption": [
+            "Table 4Results of regression coeficient significance tests for seepage discharge and sediment yield "
+        ],
+        "table_footnote": [
+            "Note:RC,regressioncoefficient; SRC,standardregressioncoeficient;RG,rowgrade;FS,fieldslope;RH,idge height; $\\times$ signify the interactions between factors;RMSE,root mean square error;-,negative effect of a factor. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factor</td><td colspan=\"4\">Seepage discharge</td><td colspan=\"4\">Sediment yield</td></tr><tr><td>RC</td><td>SRC</td><td>t-Test</td><td>P</td><td>RC</td><td>SRC</td><td>t-Test</td><td>P</td></tr><tr><td>RG</td><td>-0.299</td><td>-2.31</td><td>1.92</td><td>0.075</td><td>1.80</td><td>2.52</td><td>2.03</td><td>0.062</td></tr><tr><td>FS</td><td>0.043</td><td>0.41</td><td>0.33</td><td>0.748</td><td>1.55</td><td>2.71</td><td>2.08</td><td>0.057</td></tr><tr><td>RH</td><td>-0.169</td><td>-1.31</td><td>0.92</td><td>0.375</td><td>2.80</td><td>3.91</td><td>2.65</td><td>0.019</td></tr><tr><td>RGxRG</td><td>0.023</td><td>2.18</td><td>3.46</td><td>0.004</td><td>-0.09</td><td>-1.52</td><td>2.35</td><td>0.034</td></tr><tr><td>FSxFS</td><td>0.000</td><td>0.00</td><td>0.00</td><td>0.998</td><td>-0.09</td><td>-3.24</td><td>3.78</td><td>0.002</td></tr><tr><td>RHxRH</td><td>0.013</td><td>2.39</td><td>1.93</td><td>0.074</td><td>-0.13</td><td>-4.26</td><td>3.34</td><td>0.005</td></tr><tr><td>RGxFS</td><td>0.002</td><td>0.19</td><td>0.26</td><td>0.799</td><td>-0.02</td><td>-0.29</td><td>0.38</td><td>0.707</td></tr><tr><td>RGxRH</td><td>-0.002</td><td>-0.18</td><td>0.19</td><td>0.853</td><td>-0.03</td><td>-0.61</td><td>0.61</td><td>0.549</td></tr><tr><td>FSxRH</td><td>-0.004</td><td>-0.59</td><td>0.57</td><td>0.581</td><td>0.04</td><td>1.13</td><td>1.05</td><td>0.311</td></tr><tr><td>RMSE</td><td colspan=\"4\">0.12</td><td colspan=\"4\">0.67</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Eqution 3 explained $7 5 . 9 \\%$ of the variation for seepage discharge at $P { < } 0 . 0 1 0$ . The experiment random error accounted for $2 4 . 1 \\%$ of the variation and had a low RMSE value of O.12. Therefore, Equation 3 could be used to predict the seepage discharge.Table 4 showed that the quadratic term of the row grade had a significant positive effect on the seepage discharge at $P { < } 0 . 0 1 0$ . The row grade had a negative effect, whereas the quadratic term of the ridge height had a positive effect. The interactions between the row grade,field slope and ridge height had no significant influence. Figure 3 ilustrated the curve of the predicted seepage discharge, which fit the observed data well (Fig.3a) and the predicted dots scattered around the observed line (Fig.3b),although the extent of certain values could not be captured precisely. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Due to the mutual independence of the items in Equation 3, the insignificant items $( P { > } 0 . 1 0 0 )$ （202 could be ignored as recommended by Tang (2O1O). Therefore,the simplified Eqution 4 was produced, which indicated that the row grade and ridge height might be used to estimate the seepage discharge $( \\boldsymbol { Y } _ { \\mathrm { S D } } )$ under suficient water supply conditions and the field slope factor might be omitted. ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\scriptscriptstyle \\mathrm { S D } } = 1 . 8 3 7 - 0 . 2 9 9 x _ { 1 } + 0 . 0 2 3 x _ { 1 } ^ { \\ 2 } + 0 . 1 3 { x _ { 3 } } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Sediment yield model and its influencing factors ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Using a method similar to the seepage discharge model, the regression model for sediment yield $( Y _ { \\mathrm { S Y } } , \\mathrm { k g } )$ was obtained (Eq. 5) and tested (Table 4).Equation 5 had a high eficiency coefficient （20 $( R ^ { 2 } { = } 0 . 7 4 3 )$ and low RMSE (O.67), indicating that the sediment yield under seepage conditions could be estimated by this equation. Table 4 ilustrated the negative effect of the quadratic terms of the field slope and ridge height on the sediment yield $( P { < } 0 . 0 1 0 )$ as well as the significant negative effect of the quadratic term of the row grade $( P { < } 0 . 0 5 0 )$ . The row grade, field slope and ridge height had a positive efect on sediment yield, whereas their quadratic terms had a negative effect, indicating that the monofactor effect of these three factors had a converse effect.The interaction of the factors had no significant effect on sediment yield even at ${ P / { < 0 . 1 0 0 } }$ .Based on the $P$ values of the items, Equation 5 could be simplified to Equation 6,in which factors and their quadratic terms were included and the interactions were eliminated.Equation 6 indicated that the monofactor effect could be considered independently by fixing other two factors because no interaction items were included in the equation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { } & { Y _ { \\mathrm { s Y } } = - 2 8 . 3 8 + 1 . 8 0 x _ { 1 } + 1 . 5 5 x _ { 2 } + 2 . 8 0 x _ { 3 } - 0 . 0 9 { x _ { 1 } } ^ { 2 } - 0 . 0 9 { x _ { 2 } } ^ { 2 } - 0 . 1 3 { x _ { 3 } } ^ { 2 } , } \\\\ & { } & { - 0 . 0 2 x _ { 1 } x _ { 2 } - 0 . 0 3 x _ { 1 } x _ { 3 } + 0 . 0 4 x _ { 2 } x _ { 3 } \\qquad ( R ^ { 2 } = 0 . 7 4 3 , P = 0 . 0 1 0 ) } \\\\ & { } & { Y _ { \\mathrm { s Y } } = - 2 8 . 3 8 + 1 . 8 0 x _ { 1 } + 1 . 5 5 x _ { 2 } + 2 . 8 0 x _ { 3 } - 0 . 0 9 { x _ { 1 } } ^ { 2 } - 0 . 0 9 { x _ { 2 } } ^ { 2 } - 0 . 1 3 { x _ { 3 } } ^ { 2 } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3Improved sediment yield model and its influencing factors ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Equation 7is the improved regression model for measured sediment yield $( Y _ { \\mathrm { S Y \\mathrm { - } m } } ; \\mathrm { k g } )$ that includes the measured seepage $( x _ { \\mathrm { m } } \\ : \\mathrm { ( L / m i n ) } ) ,$ ）as an independent variable together with the row grade, field slope and ridge height.The significance test result of this model is listed in Table 5.The determined coefficient for this model was as high as O.915 with a low $\\scriptstyle P = 0 . 0 0 7$ ,meaning a credible estimation. The quadratic term of the field slope and interactions between the field slope and sepage discharge had a significant negative effect on the sediment yield. Except for the ridge height and seepage discharge,all the interactions had a significant effect at $P { < } 0 . 0 5 0$ .When the items with $P { > } 0 . 1 0 0$ （20 were eliminated, a simpler form was obtained (Eq. 8). The interaction items were all retained in Equation 8,indicating that when the measured seepage discharge was incorporated,all of the factors were considered in the sediment yield model. ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { Y _ { \\mathrm { { S Y } } _ { - } \\mathrm { m } } = 3 . 8 7 + 2 . 6 9 x _ { 1 } + 1 . 2 5 x _ { 2 } - 7 . 4 5 x _ { 3 } + 7 8 . 8 2 x _ { \\mathrm { { m } } } - 0 . 0 3 x _ { 1 } ^ { 2 } - 0 . 1 5 { x _ { 2 } } ^ { 2 } } \\\\ & { \\phantom { x x x } + 0 . 4 4 { x _ { 3 } } ^ { 2 } + 1 5 . 6 2 { x _ { \\mathrm { m } } } ^ { 2 } - 0 . 1 2 x _ { 1 } x _ { 2 } - 0 . 3 5 x _ { 1 } x _ { 3 } + 4 . 2 6 x _ { 1 } x _ { \\mathrm { m } } + 0 . 4 2 x _ { 2 } x _ { 3 } } \\\\ & { \\phantom { x x x } - 3 . 6 1 x _ { 2 } x _ { \\mathrm { m } } - 7 . 2 6 x _ { 3 } x _ { \\mathrm { m } } \\phantom { x x x } \\qquad ( R ^ { 2 } = 0 . 9 1 5 , P = 0 . 0 0 7 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Y _ { _ { \\mathrm { s r } _ { _ \\mathrm { - } } ^ { } \\mathrm { m } } } = 3 . 8 7 + 2 . 6 9 x _ { 1 } + 7 8 . 8 2 x _ { \\mathrm { m } } - 0 . 1 5 { x _ { 2 } } ^ { 2 } + 1 5 . 6 2 { x _ { \\mathrm { m } } } ^ { 2 } - 0 . 1 2 x _ { 1 } x _ { 2 } } \\\\ { - 0 . 3 5 x _ { 1 } x _ { 3 } + 4 . 2 6 x _ { 1 } x _ { \\mathrm { m } } + 0 . 4 2 x _ { 2 } x _ { 3 } - 3 . 6 1 x _ { 2 } x _ { \\mathrm { m } } - 7 . 2 6 x _ { 3 } x _ { \\mathrm { m } } } \\end{array} .\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Using the predicted seepage discharge ( $( Y _ { \\mathrm { S D } } )$ from Equation 3 as an input factor, the sediment yield $( Y _ { \\mathrm { S Y _ { - } p } } )$ regression model was built (Eq. 9) with an effective coefficient of 0.893 ( ${ \\it P } { = } 0 . 0 1 6 )$ ， which suggested a high accuracy of estimation. Table 5 listed the significance test results of the regression items. The interaction of row grade and predicted seepage discharge had a positive significance effect $_ { \\scriptstyle { \\left( P = 0 . 0 0 8 \\right) } }$ ，which was followed by the quadratic term of seepage discharge at $\\scriptstyle P = 0 . 0 8$ . Except for these two items,the remaining factors did not have a significant effect even at ${ P / = } 0 . 1 0 0$ . Therefore,the equation might be written as Equation 1O,where only the predicted seepage discharge and row grade were included. Table 5 and Equations 7 and 9 showed that the sediment yield could be more accurately estimated with the measured seepage discharge combined than with the predicted seepage discharge incorporated with a lower RMSE (0.38 vs. 0.43) and higher $R ^ { 2 }$ (0.915 vs. 0.893). ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { _ { \\mathrm { S Y } _ { - } \\mathrm { P } } } = 1 7 6 3 . 9 9 - 2 8 6 . 2 4 x _ { \\mathrm { 1 } } + 4 2 . 2 0 x _ { \\mathrm { 2 } } - 1 6 4 . 7 6 x _ { \\mathrm { 3 } } - 9 4 3 . 4 1 x _ { \\mathrm { p } } + 2 2 . 1 4 { x _ { \\mathrm { 1 } } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 0 . 0 8 { x _ { 2 } } ^ { 2 } + 1 2 . 7 1 { x _ { 3 } } ^ { 2 } + 3 8 . 3 1 { x _ { \\mathrm { p } } } ^ { 2 } + 1 . 7 8 { x _ { 1 } } { x _ { 2 } } - 2 . 1 3 { x _ { 1 } } { x _ { 3 } } + 4 . 6 2 { x _ { 1 } } { x _ { \\mathrm { p } } } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n- 3 . 8 6 2 x _ { 2 } x _ { 3 } - 1 . 1 2 x _ { 2 } x _ { \\mathrm { p } } - 8 . 0 3 x _ { 3 } x _ { \\mathrm { p } } \\qquad ( R ^ { 2 } = 0 . 8 9 3 , \\quad P = 0 . 0 1 6 )\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { { _ { S Y _ { - } P } } } } = 1 7 6 3 . 9 9 + 3 8 . 3 1 { x _ { \\mathrm { { p } } } } ^ { 2 } + 4 . 6 2 x _ { \\mathrm { { l } } } x _ { \\mathrm { { p } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $Y _ { \\mathrm { S Y _ { - } p } }$ is the sediment yield $( \\mathrm { k g } )$ with predicted seepage $\\left( x _ { \\mathrm { p } } \\left( \\mathrm { L / m i n } \\right) \\right)$ 1 ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/714c93257805abb6cc9638f0bca9ed22a04d8f46f4646e0ff1c7d5db8aaf7a14.jpg",
+        "table_caption": [
+            "Table 5Sediment yield regression coefficient significance tests incorporated with seepage "
+        ],
+        "table_footnote": [
+            "Note:RC,regression coefficient; SRC,standard regression coeficient. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Factor</td><td colspan=\"4\">Regression combined with measured seepage</td><td colspan=\"4\">Regression combined with predicted seepage</td></tr><tr><td>RC</td><td>SRC</td><td>t-Test</td><td>P</td><td>RC</td><td>SRC</td><td>t-Test</td><td>P</td></tr><tr><td>RG</td><td>2.69</td><td>3.76</td><td>2.66</td><td>0.026</td><td>-286.24</td><td>-400.22</td><td>0.00</td><td>1.000</td></tr><tr><td>FS</td><td>1.25</td><td>2.19</td><td>1.72</td><td>0.119</td><td>42.20</td><td>73.76</td><td>0.00</td><td>1.000</td></tr><tr><td>RH</td><td>-7.45</td><td>-10.41</td><td>1.56</td><td>0.153</td><td>-164.76</td><td>-230.37</td><td>0.00</td><td>1.000</td></tr><tr><td>SR</td><td>78.82</td><td>14.26</td><td>2.19</td><td>0.056</td><td>-943.41</td><td>-148.65</td><td>0.00</td><td>1.000</td></tr><tr><td>RGxRG</td><td>-0.03</td><td>-0.58</td><td>0.75</td><td>0.474</td><td>22.14</td><td>379.86</td><td>0.00</td><td>1.000</td></tr><tr><td>FSxFS</td><td>-0.15</td><td>-5.29</td><td>5.80</td><td>0.000</td><td>-0.08</td><td>-2.88</td><td>0.00</td><td>1.000</td></tr><tr><td>RHxRH</td><td>0.44</td><td>14.89</td><td>1.67</td><td>0.129</td><td>12.71</td><td>429.03</td><td>0.00</td><td>1.000</td></tr><tr><td>SRxSR</td><td>15.62</td><td>4.55</td><td>2.20</td><td>0.056</td><td>38.31</td><td>9.87</td><td>1.97</td><td>0.080</td></tr><tr><td>RGxFS</td><td>-0.12</td><td>-2.22</td><td>2.77</td><td>0.022</td><td>1.78</td><td>31.59</td><td>0.00</td><td>1.000</td></tr><tr><td>RGxRH</td><td>-0.35</td><td>-6.72</td><td>3.12</td><td>0.012</td><td>-2.13</td><td>-40.34</td><td>0.00</td><td>1.000</td></tr><tr><td>RGxSR</td><td>4.26</td><td>6.05</td><td>3.05</td><td>0.014</td><td>4.62</td><td>6.22</td><td>3.37</td><td>0.008</td></tr><tr><td>FSxRH</td><td>0.42</td><td>10.75</td><td>3.19</td><td>0.011</td><td>-3.86</td><td>-98.06</td><td>0.00</td><td>1.000</td></tr><tr><td>FSxSR</td><td>-3.61</td><td>-8.19</td><td>3.37</td><td>0.008</td><td>-1.12</td><td>-2.29</td><td>1.00</td><td>0.346</td></tr><tr><td>RHxSR</td><td>-7.26</td><td>-22.60</td><td>2.23</td><td>0.053</td><td>-8.03</td><td>-23.44</td><td>0.97</td><td>0.359</td></tr><tr><td>RMSE</td><td colspan=\"4\">0.38</td><td colspan=\"4\">0.43</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Performance of the improved model ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In previous researches or models (RUSLE and LISEM), the row grade and ridge height were considered as subfactors of the contouring coefficient in a contour ridge system (Hessel et al., 2003; USDA-ARS, 2O08a) or were used to calculate water storage (e.g.，WEPP) (Flanagan and Livingston,1995).Because of insufficient data,no direct models had been established between these factors and soil loss. Based on the orthogonal rotatable central composite design，five gradients of row grade,ridge height and field slope were determined and the regression model for seepage discharge and sediment yield was obtained. Combined with the measured seepage discharge， the sediment yield estimation accuracy was clearly improved. The determined coefficient $( R ^ { 2 } )$ increased from O.743 to 0.915 and the RMSE decreased from 0.67 to 0.38 for the measured seepage discharge combined regression model. In the predicted seepage discharge combined model, the $R ^ { 2 }$ was increased to O.893 and the RMSE decreased to O.43.The result indicated that if seepage discharge is available,Equation 7or its simplified form Equation 8, might be used for a better estimation of sediment yield; otherwise,the seepage discharge could be predicted by Equations 3 or 4,and then could be used as an input factor for Equations 9 or 10 to increase modeling accuracy.Requiring fewer factors,the simplified forms (i.e.,Eqs.4,8 and 10) can be calculated quickly and used more widely when insufficient data are available. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To assess the improved performance of the combined seepage model, the predicted sediment yield and observed values based on the same data set of the regression models were plotted in Figure 4. Compared with the regression model that only included the row grade,field slope and ridge height (Fig. 4a), the improved model could beter predict the extreme value (e.g., treatments 9 and 10), while the points of the unimproved model were more scattered (Fig. 4b). The improved model with measured seepage discharge accurately estimated sediment yield in the latter treatments (treatments17-23),i.e.,the zero point of the rotatable central composite of the experiment design where the predicted value by the seepage incorporated model presented a straight line. The predicted error was caused primarily by the repetition of the zero point treatments where the seepage discharge and sediment yield should not fluctuate dramatically. However, the improved model with the estimated seepage discharge produced better predictions than the model with the measured seepage discharge, which was indicated by more compacted points around the predicted line in Figure 4c.This result illustrated that the improved model with the estimated seepage was more effective for the treatments around the zero point (treatments 1-16) and that the variance was mainly caused by the factor gradients.The diference between the measured and predicted sediment yield in the seepage combined model in these treatments might partly be the result of experimental error (e.g.,soil homogeneity or filing).Therefore, it can be deduced that the improved model with predict seepage discharge is able to produce accurate sediment yield estimations. In addition, the combination of the simplified Equation 4 for seepage discharge prediction and Equation 1O for sediment yield prediction had an advantage that only two factors (row grade and ridge height) were required,rendering this approach relatively easy to use. The simple experimental model generally provides great assistance for soil conservation and management (Yan et al., 2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2487c3d5734e2789e4e645bc4f4e30b75fc69f038b0cf080002afe2137023783.jpg",
+        "img_caption": [
+            "Fig.4Curve and plotof the measured and predicted sediment yield (al and a2 for the regresson model; bl and b2 for the regression model combined with measured seepage discharge; c1 and c2 for the regression model combined with predicted seepage discharge) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effects of influential factors on sediment yield ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The influencing factors for soil erosion on sloping land have atracted significant attention (Lal, 1990; Knapen et al.,2007; Yan et al.,2008; Shi et al.,2013). In contour ridge systems, ridge height and row grade together with field slope were considered the main factors influencing soil erosion (Wiyo et al., 1999; USDA-ARS, 2008b; Gebreegziabher et al.,2009). The interactions between these factors were recently quantified under drainage conditions (Liu et al., 2O14a, b). Under the seepage conditions,the effects of these factors were deeply investigated in this study. It is noteworthy that when the seepage discharge was combined with the regression model,the effect of these factors changed significantly (Tables 4 and 5).Table 4 illustrates that sediment yield was mainly affected by these three factors and their quadratic terms,while the interactions between them had no significant effect. When the measured seepage discharge included,most of the interactions increased to a significant level at $P { < } 0 . 0 5 0$ .However,in the predicted seepage discharge combined regression model, the significant items were reduced to only the quadratic term of seepage discharge and the interaction between row grade and seepage discharge (Table 5). This result indicated that under seepage conditions, when considering the inherent relationship between seepage discharge and the factors of row grade, ridge height and field slope (i.e., incorporating the quadratic polynomial regression model of seepage discharge),the sediment yield prediction model could be simplified (Eq. 1O). When combining the measured seepage discharge,which was the direct result of the row grade, ridge height and field slope and random factors (e.g., measuring error and ridge formation error), more interactions between these factors might be detected and more variance of the sediment yield may be explained，with the RMSE decreasing and prediction accuracy increasing accordingly (Table 5). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the measured seepage incorporated regression model, the significant influencing items $( P { < } 0 . 0 5 0 )$ focused primarily on two categories: the row grade and its interactions with field slope, ridge height and seepage discharge; and the quadratic item of field slope and its interactions with ridge height and seepage discharge (Table 5). This indicated that under seepage conditions, the factors of row grade, field slope and ridge height had primary effect on soil erosion as under drainage conditions in RUSLE model (USDA-ARS,2O08b).But the results were different from Liu et al. (2O14a),who suggested row grade exhibited no significant effect on sediment yield because of contour failure. Figure 5 showed the interactions between the paired factors with significant effects $( P { < } 0 . 0 5 0 )$ on sediment yield when other factors at the central rotated point with a zero code level. The interaction between row grade and field slope could be interpreted as having a negative effect on sediment yield, with the maximum sediment yield occurring at the highest row grade $( 1 0 ^ { \\circ } )$ and the lowest field slope $( 5 ^ { \\circ } )$ (Fig. 5a). However, the interaction between row grade and field slope exerted no significant effect on interrill and rill erosion under drainage conditions (Liu et al.,2O14a,b). This indicated that seepage could make the soil erosion process belong to the pattern after the critical erosion slope,at which the peak erosion occurs (Jin,1995;HU and Jin, 1999; USDA-ARS,2Oo8b). The decrease of soil erosion as field slope increased may atribute to the decrease of detachment power, i.e., the gravity component perpendicular to the slope, when the saturated soil had reached its lowest potential resistance under almost the same sepage discharge conditions (Liu et al., 2O16). Under the highest grade,a ridge height of approximately $1 2 \\mathrm { c m }$ would have a lower sediment yield, meaning a better soil conservation (Fig.5b), which coincided with the monofactor analysis result of Liu et al. (2O15).A higher seepage discharge would lead to more sediment yield in rows with higher grades (Fig. 5c),the reason may be that a higher seepage discharge leads to a higher soil erodibility and lower critical shear stress (Nouwakpo et al., 2010) and high grade may reduce the soil slope stability along the eroded rills combined with the effect of seepage. Field slope and ridge height had a positive interaction on sediment yield, suggesting that an increased sediment yield might occur under higher field slopes and ridge height (Fig. 5d), which also was suggested by Liu et al. (2O14a) under drainage conditions.This might be explained as that field slope and ridge height could enhance the soil accumulation slopes leading to more soil matrix collapse that had been observed during the erosion process.A higher field slope means a lower runof detachment power, and an increased seepage could lead to a lower erosion resistance (Nouwakpo et al.,2O10). This two opposite influence might result that the interaction between field slope and seepage discharge was negative (Fig. 5e). With a high absolute value of the standard regression coefficient (22.6 in Table 5),the interaction between ridge height and seepage discharge was important,although the $P$ value was only O.O53.The brightly colored areas in Figure 5f indicated a complicated interaction between ridge height and seepage discharge on sediment yield. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/514a20692be62c07bf0f470f3c90e787e60d1acf97878779503866e2c1dbe1fa.jpg",
+        "img_caption": [
+            "Fig.5Significant interactions on sediment yield "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "However, the reason could not be clarified based on the present information. Further study may need to reveal the interaction of seepage discharge and ridge height. Base on Figure 5,when one factor is fixed,the other factor may be manipulated to produce a minimum sediment yield,and subsequent agricultural treatments may be adopted to prevent soil loss. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3 Problems and further studies ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The aggravating effect of seepage on soil erosion was presented by laboratory and field experiments and observations (Huang,1998; Fox and Wilson, 2010; Nouwakpo and Huang,2012). During the water supply period, seepage showed an increasing trend and then remained at an almost steady state when the soil was nearly water saturated. Diferent amounts of sepage discharge could lead to different amounts of soil loss (Fox et al.,20O7; Nouwakpo et al.,201O).To diminish the effect of seepage discharge change on sediment yield, the seepage discharge used as the primary seepage condition in this study was measured in the last 2 min of the water supply period.During the rainfall simulation period, the seepage discharge may decrease due to void clogging by the detached soil particles (Fox and Wilson,2O1O),or soil compaction imposed by rainfall and the water infiltration (Fohrer et al.,1999), which may affect the sediment yield. However, the seepage discharge mixed with the overflow was difficult to be measured separately. Therefore,assessing the effect of seepage and its interactions with microtopography (e.g.,ridge height) on soil loss during the rainfall event remains a difficult task for the further investigation.Further study may need to reveal the interaction of seepage discharge and ridge height. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The hydraulic gradient had an important influence on the critical shear stress,rill erodibility and sediment yield (Zheng et al.,2Ooo; Nouwakpo et al.,2O1O). In a contour ridge system, different hydraulic gradients may be created by the water level in the furrows. Although the water level was maintained at approximately 1 cm lower than the lowest area of the ridge,the water level could not be used as a factor in this study, because it was influenced by field slope and ridge height simultaneously.In addition,the water in the furrow was supplied by pipes,but not the runoff generated from rainfall. Therefore,determining the effect of rainwater level on the sepage discharge and the factors of soil erosion (e.g.,critical shear stress and soil erodibility) maybe of certain use in revealing the soil erosion process in contour ridge systems.The rainfallintensity and regimes play an important role in the loss of soil both individually and interactively with other factors (Huang and Laften,1996; Fang et al.,2012; Liu et al.,2O14a). A high rainfall intensity might lead to Hortonian overland flow (Ziegler et al.,2OO7), whereas a low rainfall intensity over a long period of time might lead the soil to be saturated with water (Liu et al.,2O11),easily resulting in seepage. Experiments with different gradients of rainfall intensity also should be addressed in soil erosion studies within contour ridge systems under seepage conditions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In contour ridge systems, seepage could affect soil erosion. In this study using measured or predicted seepage discharge as an input factor, sediment yield estimation models were created to increase the $R ^ { 2 }$ value from O.743 to 0.915 and O.893.Moreover, the improved prediction model with the measured seepage discharge was able to detect more significant interactions between the influencing factors. When combined with the predicted seepage discharge,the prediction model for sediment yield could be substantially simplified. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Although certain boundary conditions were included,such as the sepage discharge was assumed in a nearly steady state and only one rainfall intensity was performed, the results showed that considering seepage discharge as an input factor could greatly improve the accuracy of sediment yield estimations in contour ridge systems.The effect of rainfallintensities,hydraulic gradients and seepage discharge change processes should be addressed in further studies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This study was funded by the National Natural Science Foundation of China (417O1311),the Natural Science ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Foundation of Shandong Province (ZR2017JLO19), the Project of Introducing and Cultivating Young Talent in the Universities of Shandong Province (LUJIAORENZI20199)and the Shandong Key Research and Development Program (2018GSF117001). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BrunnerAC,ParkSJ,RueckerGR,etal.o8.Erosiomodellngapproachtosimulatetheeffectoflandmanagementotioson soilloss byconsideringcatenarysoildevelopmentand farmers perception.LandDegradation&Development,19(6):623-635.   \nChangereA,LalR.1995.Soildegradatiobyerosionofatypichapludalf incentralOhioanditsrehabilitation.LandDegradation & Development,6(4): 223-238.   \nChu-Agor ML,FoxGA,CancienneRM,etal.2Oo8.Seepagecausedtensionfailuresand erosionundercutingof hilslopes. Journal of Hydrology,359(3-4): 247-259.   \nCui M,Cai QG,ZhangYG,etal.2Oo7.Developmentof ephemeralgullyduringrainyseason intheslopeland inroling-hil black-soil region of Northeast China.Transactions of the CSAE,23(8):59-65.(in Chinese)   \nDingX Q.1986.The AppliedRegresionDesignoftheFieldExperiment.Changchun: JiLin Agriculture Science Pres,89-95. (in Chinese).   \nDominguez JR,Gonzalez T,Palo P,etal.2010.Anodicoxidationof ketoprofenonboron-doped diamond (BDD)electrodes. Role of operative parameters.Chemical Engineering Journal, 162(3):1012-1018.   \nFang NF,ShiZH,LiL,etal.2Ol2.Theefectsofrainfall regimesandlandusechangesonrunofandsoillosinasmall mountainous watershed. Catena, 99:1-8.   \nFlanagan DC,Livingston S J.1995.Water erosion prediction project (WEPP)user summary.In: USDA-ARS National Soil Erosion Research Laboratory.NSERL report No.11.West Lafayette,IN,USA.   \nFohrerN，Berkenhagen J，HeckerJM,etal.199.Changingsoiland surface conditions during rainfalsingle rainstorm/subsequent rainstorms.Catena,37(3-4): 355-375.   \nFox GA,Wilson G V,SimonA,etal.2Oo7.Measuringstreambank erosion due to ground watersepage:corelation tobank pore water pressure, precipitation and stream stage.Earth Surface Processes and Landforms,32(1O):1558-1573.   \nFoxGA,Wilson,GV.2O10.The roleof subsurface flowinhillslope and stream bank erosion.Areview.Soil Science Societyof America Journal, 74(3): 717-733.   \nGebregziaberT,NyssenJ,GovaertsB,etal.O9.Contourfurowsforinsitusoilndwaterconservation,TgrayNorthe Ethiopia. Soil& Tillage Research,103(2): 257-264.   \nGriffith DR,Parsons SD,Mannering JV.199o.Mechanics and adaptabilityof ridge-planting forcorn and soya bean.Soil & Tillage Research,18(2-3): 113-126.   \nGrum B,Asefa D,HesselR,etal.2Ol7.Efectof insitu water harvesting techniques onsoiland nutrentlosesinsm-arid northern Ethiopia.Land Degradation & Development,28(3):1016-1027.   \nHadjmohammadiM,harifi V.2O12.Smultaneous optimizationoftheresolutionandanalysis timeoflavonoidsinreverephase liquid chromatography using Derringer's desirability function. Journal of Chromatography B,880: 34-41.   \nHessel R,Messng I,Liding C,etal.2o3.Soil erosion simulations of land use scenarios forasmallLoess Plateaucatchment. Catena,54(1-2): 289-302.   \nHuang CH,Laften JM.1996.Sepage and soil erosion foraclayloam soil.Soil Science Societyof AmericaJournal,60(2): 408-416.   \nHuang CH.1998.Sediment regimes under different slope and surface hydrologic conditions.Soil Science Societyof America Journal,62(2): 423-430.   \nKnapen A,PoesenJ,Govers G,eal.2O7.Resstanceofsoilstoconcentratedflowerosion.Arview.Earth-ScienceReviews, 80(1-2): 75-109.   \nLal R.1990. Ridge-tillage. Soil &Tillage Research,18(2-3): 107-111.   \nLegates DR,McCabe GJ.1999.Evaluating the useof \"goodness-of-fit\" measures in hydrologic and hydroclimatic model validation.Water Resources Research,35(1): 233-241.   \nLiu H,Lei TW,ZhaoJ,etal.2Ol1.Effectsofrainfallintensityandantecedentsoilwatercontentonsoil infiltrabilityunder rainfall conditions using the run off-on-out method.Journal of Hydrology,396(1-2): 24-32.   \nLiuL,Liu QJ,Yu X X.2016.The influences of row grade,ridge height and field slope on the sepage hydraulicsof row sideslopes in contour ridge systems. Catena,147: 686-694.   \nLiu QJ,Shi ZH,Yu XX,etal.2O14a.Influenceof microtopography,rdgegeometryandrainfallintensityonsoilerosion induced by contouring failure.Soil & Tillage Research,136:1-8. 11-18.   \nLiu QJ,AnJ, WangLZ,et al.2015.Influenceof ridge height,row grade,and fieldslope on soil erosionincontourridging systems under seepage conditions. Soil and Tillage Research,147: 50-59.   \nLiu QJ,AnJ,ZhangGH,etal.2016.The efect ofrow gradeand length onsoilerosion from concentratedflowinfurrows of contouring ridge systems. Soil and Tillage Research,16O: 92-100.   \nNachshon U.2016. Seepage weathering impacts on erosivity of arid stream banks: Anew conceptual model. Geomorphology, 261: 212-221.   \nNiLS,FangNF,ShiZH,etal.2O17.Validatingabasicasumptionofusingcesium-137methodtoassessoillossinasmall agricultural catchment.Land Degradation & Development, 28(5): 1772-1778.   \nNishigakiT,ugiaraS,KiasaraM,etal.Ol7.urfacerunofgeneratioandsoillossunderdirentslandrinfallproertie in the Uluguru Mountains,Tanzania.Land Degradation & Development,28(1): 283-293.   \nNouwakpo SK,Huang CH,BowlingL,et al.2O10.Impactof vertical hydraulicgradientonrillerodibilityandcritical shear stress. Soil Science Society of America Journal, 74(6): 1914-1921.   \nNouwakpoSK,Huang C H.2012.The role of subsurface hydrologyin soil erosion and channel network development on a laboratory hillslope. Soil Science Society of America Journal,76(4): 1197-1211.   \nQuintonJN,CattJA.2O04.Theeffctsofmnial illgeandcontourcultivatioonsurfacerunoff,soillossandcopyieldin the long-term Woburn Erosion Reference Experiment onsandysoil at Woburn,England.SoilUse and Management,20(3): 343-349.   \nRazafison U,CordierS,DelestreO,etal.2O12.Ashalow water modelforthe numericalsimulationofoverlandflowonsurfaces with ridges and furrows.European Journal of Mechanics B/Fluids,31: 44-52.   \nRegmiRK,Jung K,Nakagawa H,etal.2O17.Numericalanalysis ofmultiple slopefiluredue torainfal: Basedon laboratory experiments. Catena,150: 173-191.   \nSato M,KuwanoR.2015.Suffusionandcloggngbyone-dimensionalsepage testsoncohesivesoil.SoilsandFoundations, 55(6): 1427-1440.   \nShi ZH,CaiCF,DingSW,etal.2O04.Soilconservationplanningat thesmallwatershed levelusing RUSLEwithGS:acase study in the Three Gorge Area of China. Catena,55(1): 33-48.   \nShi ZH,ChenLD,FangNF,etal.2Oo9.ResearchontheSC-CNinitialabstractionatiousingrainfal-runoffeventaalyis in the Three Gorges Area, China. Catena,77(1): 1-7.   \nShi ZH,AiL,LiXY,etal.20l3.Partialleastsquaresregressonfor linkingland-coverpates tosoilerosionandedment yield in watersheds.Journal of Hydrology,498:165-176.   \nSt-Pierre NR,WeissWP.2O9.Technical note:Designingandanalyzingquantitative factorial experiments.Journalof Dairy Science,92(9): 4581-4588.   \nTang QY. 2O10.DPS Data Processing System—Experimental Design, Statistical Analysis and Data Mining ( $2 ^ { \\mathrm { n d } }$ ed.). Beijing: Science Press,258-269.(in Chinese)   \nUSDA-ARS(US Department of Agriculture-Agriculture Research Service).2008a. User's reference guide,Revised Universal SoilLoss Equation Version2.[2013-03-01].htp://www.ars.usda.gov/sp2UserFiles/Place/64080510/RUSLE/RUSLE2_User _Ref_Guide.pdf.   \nUSDA-ARS.2008b.Draftscience documentation，Revised Universal Soil Loss Equation Version 2.[2013-03-01]. http://www.ars.usda.gov/sp2UserFiles/Place/64080510/RUSLE/RUSLE2_Science_Doc.pdf.   \nValentin C,Poesen J,Li Y.2005. Gully erosion: Impacts,factors and control. Catena, 63(2-3): 132-153.   \nWilson G V,PeriketiRK,FoxGA,etal.2o7.Soilpropertiescontrollngseepageerosioncontributionststreambankfailure. Earth Surface Processes and Landforms,32(3): 447-459.   \nWiyo KA,Kasomekera ZM,Feyen J.1999.Variability inridgeandfurrowsizeand shapeandmaizepopulationdensityosmall subsistence farms in Malawi. Soil & Tillage Research,51(1-2): 113-119.   \nYan B,FangN,Zhang P,etal.2O13.Impactsoflandusechangeon watershed streamflowandsediment yield: Anassessment using hydrologic modeling and partial least squares regression. Journal of Hydrology, 484: 26-37.   \nYanFL,ShiZH,LiZX,etal.o.EstimatinginteillsolerosionfromaggregatestabilityofUisols insubropicalChina. Soil & Tillage Research,100(l): 34-41.   \nZhengFL,Huang CH,NortonLD.2oo.Verticalhydraulicgradientandrun-onwaterandsediment efectsonerosionprocses and sediment regimes. Soil Science Society of America Journal, 64(1): 4-11.   \nZiegler AD,GiambelucaTW,PlondkeD,etal.2Oo7.Hydrologicalconsequencesoflandscape fragmentationin mountainous northern Vietnam: Buffering of Hortonian overland flow.Journal of Hydrology,337(1-2): 52-67. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

@@ -1,0 +1,227 @@
+# 基于粒子群辨识的高压架空ACCC导线载流温升模型
+
+童璇应展烽张旭东（南京理工大学能源与动力工程学院南京210094）
+
+![](images/4d2564c11680f99df2cb398308e515a1d4448b280077b03d163b720d73703d4b.jpg)
+
+童璇女1992年生，硕士研究生，主要研究方向为高压架空输电线路状态监测。
+
+摘要：架空导线载流温升模型是线路动态增容决策、安全运行状态监测和载流量评估等领域的理论基础。但由于碳纤维复合芯导线（ACCC导线）与传统架空导线在材料、结构及运行温度上的差异，使得当前的载流温升计算模型无法直接应用于ACCC导线，限制了ACCC导线动态增容的发展和输电潜力的挖掘。为此，本文根据热平衡原理和热电类比理论建立了ACCC导线的载流量温升模型，并利用粒子群优化算法对模型参数进行了辨识求解。设计了ACCC导线载流温升实验平台，在自然对流条件下对其热动态过程进行了实测和模拟。结果表明，粒子群辨识方法可有效辨识出模型参数，该模型在计算导线温升过程上具有较高的精度。
+
+关键词：ACCC导线 载流温升模型 参数辨识中图分类号：TM751
+
+# Current-Temperature Model of ACCC Conductors Based on PSO Identification Method
+
+![](images/92295d0c905962fc41a8ced6b8726c9444de43ea23afc3756877b3e4e8811a5a.jpg)
+
+Tong XuanYing Zhanfeng Zhang Xudong (Nanjing University of Science and TechnologyNanjing210093 China ）
+
+应展烽男 1982年生，博士，副研究员，主要研究方向为高压架空输电线路状态监测及电气设备电热耦合计算。
+
+Abstract: The current-temperature model of overhead conductors has used as the theoretical foundation of various areas, such as dynamic capacity-increasing decision, safe operation monitoring and ampacity evaluation. However, ACCC conductor is different from traditional overhead conductors on material, construction and operating temperature. Consequently, the current model cannot be directly applied to ACCC conductor, which has limited the development of dynamic capacity-increasing and the promotion of transmission capacity for ACCC conductor. This paper proposed the current-temperature model for ACCC conductor considering thermal equilibrium principle and thermoelectricity analogy theory. And then PSO identification method was used to identify the model parameters. Finally, a temperature rise experiment platform for current-carrying ACCC conductor was established to measure and simulate the dynamic thermal process of ACCC conductor within natural convection condition.The result shows that the model parameters can be obtained effectively by PSO identification method,and the model is high in precision while calculating the temperature rising process for ACCC conductor.
+
+Keywords: ACCC conductors,current-temperature model, identification method
+
+# 1 引言
+
+架空导线运行温度是架空输电线路状态监测的重要指标之一，是线路载流量确定、动态增容决策及安全运行的主要依据[1-2]。导线载流温升计算模型即计算导线运行温度与载流量间的关系，可准确获知导线温升过程，对电力系统输电线路具有重要的指导意义。导线载流温升计算模型常被用于线路安全运行状态的监测和载流容量的评估等领域，此外还被应用于修正线路等值参数、提高潮流计算精度、实现电热协调调度及最优潮流计算等领域[3-4]，对传统电力系统安全运行分析及调度理论的深入研究带来重大影响，具有重要的理论意义和工程实用价值。
+
+目前，关于架空导线的载流温升模型的研究发展已较为成熟，主要可分为标准模型、数值模拟模型及热路模型。其中，标准模型主要指IEC61597—1995标准模型[4]和IEEE738—2006标准模型[5],可用于计算不同气象、载流条件下的导线运行温度，以确定线路载流量。而IEEE模型还可实时计算导线温度动态过程，相比IEC模型更具实用价值[，至今仍在不断完善并已实际应用于动态增容技术中。基于数值传热学理论的数值模型将描述导线热动态过程的偏微分在空间及时间上离散求解，来模拟导线的温度场[7-9]。但该模型计算量极大，难以实现实际应用。热路模型是将热电类比理论引入IEEE模型，通过电路计算有效地简化了复杂的传热计算[10-12]。相比IEEE 模型，热路模型能够利用更少的参数反推导线热动态特性，可有效运用于线路动态增容中。
+
+然而，对于新型碳纤维复合芯（AluminumConductorCompositeCore，ACCC）导线而言，虽具有重量轻、强度高、载流量大、弧垂低和耐腐蚀等优点，在线路增容改造中有明显的优势和广阔的应用前景[13-18]，但由于ACCC 导线与传统架空导线在材料、结构及运行温度上存在差异，故其电学和热学参数也有所不同，导致上述载流温升模型无法应用于ACCC导线。遗憾的是，ACCC导线现仍处于发展研究阶段，针对该导线参数的研究还较少，制约了ACCC导线的载流温升模型的建立。
+
+为此，本文以ACCC导线为对象，在热平衡原理和热电类比理论的基础上，建立针对ACCC导线的载流温升模型，并通过粒子群优化算法，提出了模型参数的辨识方法，为ACCC导线的线路的动态增容和安全运行提供必要依据。
+
+# 2 高压ACCC导线载流温升模型
+
+ACCC导线的截面图和物理模型如图1所示。在架空导线运行过程中，导线受日照、环境温度和风速等环境因素影响而与外界环境发生热交换。因此，根据热平衡原理，可将ACCC导线的热动态过程描述为
+
+$$
+C { \frac { \mathrm { d } T _ { \mathrm { c } } } { \mathrm { d } t } } { = } q _ { \mathrm { I } } + q _ { \mathrm { s } } - q _ { \mathrm { c } } - q _ { \mathrm { r } }
+$$
+
+式中， $t$ 为时间； $T _ { \mathrm { c } }$ 为导线温度； $C$ 为导线热容； $q _ { \mathrm { I } } =$ $I ^ { 2 } R ( T _ { \mathrm { { c } } } )$ 为导线的自身发热功率； $R \big ( T _ { \mathrm { c } } \big )$ 为导线温度为$T _ { \mathrm { c } }$ 时的导线交流电阻； $q _ { \mathrm { s } }$ 为日照吸热功率； $q _ { \mathrm { c } }$ 为对流散热功率； $q _ { \mathrm { r } }$ 为辐射散热功率。
+
+![](images/43b536f079f7cab3acebb3db3daa59d5f70e28d7641eadcb0cd4f2f6a980f4ac.jpg)  
+图1国产ACCC的截面图及物理模型 Fig.1The section and physical model of domestic ACCC conductor
+
+根据热电类比理论，ACCC导线的热路模型可表示为图2所示的电路模型，热路模型可改写为
+
+$$
+C { \frac { \mathrm { d } T _ { \mathrm { c } } } { \mathrm { d } t } } { = } q _ { \mathrm { I } } + q _ { \mathrm { s } } - { \frac { T _ { \mathrm { c } } - T _ { \mathrm { e } } } { R _ { \mathrm { e } } } } { - } q _ { \mathrm { r } }
+$$
+
+线路的载流量可表达为
+
+$$
+I _ { \mathrm { m a x } } = \sqrt { \frac { \displaystyle \frac { T _ { \mathrm { m a x } } - T _ { \mathrm { e } } } { R _ { \mathrm { e } } } - q _ { \mathrm { s } } + q _ { \mathrm { r } } } { R ( T _ { \mathrm { m a x } } ) } }
+$$
+
+式中， $R _ { \mathrm { e } }$ 为导线表面与环境之间的等效环境热阻；$T _ { \mathrm { m a x } }$ 为导线最大允许运行温度。有研究表明，ACCC导线持续运行温度高达 $1 6 0 ^ { \circ } \mathrm { C }$ ，短时运行温度可超200℃[19]
+
+热路模型中各参数计算如下
+
+$$
+q _ { \mathrm { s } } = \gamma D S _ { \mathrm { i } }
+$$
+
+$$
+q _ { \mathrm { r } } = \pi s D k _ { \mathrm { e } } ( T _ { \mathrm { c } } ^ { 4 } - T _ { \mathrm { e } } ^ { 4 } )
+$$
+
+$$
+R ( T _ { \mathrm { c } } ) = R _ { \mathrm { r e f } } \left[ 1 + \alpha ( T _ { \mathrm { c } } - T _ { \mathrm { r e f } } ) \right]
+$$
+
+式中， $\alpha$ 为电阻温度系数； $R _ { \mathrm { r e f } }$ 为参考温度 $T _ { \mathrm { r e f } }$ 时的导线交流电阻； $T _ { \mathrm { r e f } }$ 一般取 $2 0 \ \mathrm { { ^ c } }$ ； $D$ 为导线外径；$S _ { \mathrm { i } }$ 为日照强度； $s$ 为斯蒂芬－玻尔兹曼常数； $\gamma$ 和 $k _ { \mathrm { e } }$ 分别为导线表面材料的吸收率和发射率，工程中通常取为0.5。
+
+![](images/adf20f64c1d140d7883f0fdee421e26ebf5e3c590472f7ac248a9fe1c52b590f.jpg)  
+图2ACCC导线热路模型  
+Fig.2Thermal circuit model ofACCC conductor
+
+# 3热路模型参数的粒子群辨识
+
+在上述提出的热路模型中，模型参数 $C$ ， $R _ { \mathrm { r e f } }$ 及$\alpha$ 的确定还缺乏理论依据。这主要由两方面原因引起：其一，ACCC导线线芯为柱状碳纤维复合材料，其热容难以直接根据理论计算得到。其二，由于绝缘树脂的包裹，线芯具有不导电、不导磁的物理特性，消除了导线的涡流磁损。因此，与传统架空导线不同，ACCC导线交流电阻中由涡流和磁滞引起的电阻增量可以忽略，式（6）中的 $R _ { \mathrm { r e f } }$ 和 $\alpha$ 也难以参考传统架空导线计算。
+
+由文献[20]可知，环境热阻 $R _ { \mathrm { e } }$ 本质上与导线及环境之间的温差有关。考虑到指数函数能够描述变量的线性或非线性变化，本文将环境热阻表示为
+
+$$
+R _ { \mathrm { e } } = a ( T _ { \mathrm { c } } - T _ { \mathrm { e } } ) ^ { b }
+$$
+
+式中， $\boldsymbol { a }$ 为比例因子，与导线线径及空气密度有关；$b$ 为指数因子。 $\boldsymbol { a }$ 和 $b$ 均为未知量，需由辨识方法获得。
+
+为得到上述模型参数，需首先建立相应目标函数。设时刻 $k + 1$ 时，导线温度为 $T _ { \mathrm { c } } ( k + 1 )$ 。从热路模型的微分形式上可看出， $T _ { \mathrm { c } } ( k + 1 )$ 可由 $k + 1$ 时刻前的输入量及初始边界条件推得。那么，将式（4）～式（7）带入热路模型，并进行时间上的离散，可推得$k + 1$ 时刻导线温度 $T _ { \mathrm { c } } ( k + 1 )$ 函数为
+
+$$
+T _ { \mathrm { c } } \left( k + 1 \right) = f _ { k + 1 } ( T _ { \mathrm { c } } ( 0 ) , I ( 0 ) , I ( 1 ) , \cdots , I ( k ) , R _ { \mathrm { e } } ( k ) ,
+$$
+
+$$
+T _ { \mathrm { e } } ( 0 ) , T _ { \mathrm { e } } ( 1 ) , \cdots , T _ { \mathrm { e } } ( k ) , { \bf x } , \Delta t )
+$$
+
+式中， $\Delta t$ 为离散步长。 $x$ 为辨识参数向量
+
+$$
+\mathbf { \boldsymbol { x } } = [ C , \alpha , R _ { \mathrm { r e f } } , a , b ] ^ { \mathrm { \scriptscriptstyle T } }
+$$
+
+由此，得到热路模型参数辨识的目标函数
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle { \cal J } ( \displaystyle x ) = \operatorname* { m i n } \sum _ { k = 0 } \left\| \tilde { T } _ { \mathrm { c } } ( k + 1 ) - T _ { \mathrm { c } } ( k + 1 ) \right\| ^ { 2 } } \\ { \mathrm { s . t . } } & { \displaystyle x \geqslant 0 } \end{array} \right.
+$$
+
+式中， $\tilde { T } _ { \mathrm { c } } ( k { + } 1 )$ 为 $k + 1$ 时刻导线的实测温度。
+
+由于本文提出的热路模型待辨识参数较多，且为非线性优化问题，需要良好的全局寻优能力，本文采用粒子群优化算法对目标函数进行求解。
+
+首先定义搜索种群 $\textbf { \textit { G } }$
+
+$$
+G = \left\{ \bigcup _ { u = 1 } ^ { n } P _ { u } { \Big | } P _ { u } \in R ^ { 5 } , n \in N , \forall 1 \leqslant u \leqslant n \right\}
+$$
+
+式中， $\scriptstyle { R ^ { 5 } }$ 为由待辨识参数构成的五维搜索空间； $\pmb { P } _ { u }$   
+为搜索粒子。
+
+种群初始化完成后，将每个粒子的位置向量代入目标函数，计算目标函数适应度值，并筛选出最优粒子与最优适应度值。之后，更新粒子位置与速度向量，进行下一轮寻优，第 $s$ 次寻优的更新公式为
+
+$$
+V _ { u } ^ { s } = w ^ { s } V _ { u } ^ { s - 1 } + c _ { 1 } ( P _ { u b } - L _ { u } ^ { s - 1 } ) + c _ { 2 } ( \pmb { G } _ { b } - \pmb { L } _ { u } ^ { s - 1 } )
+$$
+
+$$
+\pmb { { \cal L } } _ { u } ^ { s } = \pmb { V } _ { u } ^ { s } + \pmb { { \cal L } } _ { u } ^ { s - 1 }
+$$
+
+式中， $\pmb { P } _ { u b }$ 为粒子最优解； $\pmb { G } _ { b }$ 为种群最优解； $c _ { 1 }$ ， $c _ { 2 }$ 为学习因子，分别代表粒子向自身和其他粒子的学习能力； $\boldsymbol { w } ^ { s }$ 为权重系数； $\boldsymbol { L _ { u } } = [ \boldsymbol  l _ { u } ^ { \mathrm { ~ 1 ~ } } l _ { u } ^ { \mathrm { ~ 2 ~ } } l _ { u } ^ { \mathrm { ~ 3 ~ } } l _ { u } ^ { \mathrm { ~ 4 ~ } } l _ { u } ^ { \mathrm { ~ 5 ~ } } ]$ 为粒子的位置向量，代表辨识参数值结果， $\boldsymbol { V } _ { u } = \left[ \boldsymbol { \nu } _ { u } ^ { 1 } \quad \boldsymbol { \nu } _ { u } ^ { 2 } \right.$ $\nu _ { u } ^ { 3 } \nu _ { u } ^ { 4 } \nu _ { u } ^ { 5 } ]$ 为粒子的速度向量，表示粒子向下一位置搜索的方向。
+
+利用粒子群优化算法，经过若干轮寻优过程后，可实现上述目标函数的求解，完成ACCC导线热路模型的建立。
+
+# 4 实验验证及结果分析
+
+# 4.1实验平台
+
+为辨识求解热路模型参数，并验证其正确性和精度，设计了如图3所示的ACCC导线载流温升实验平台。
+
+实验平台主要包括：钢架、实验导线、大电流发生器、温度探头、差分电压探头、霍尔电流互感器、数采装置及PC机构成。钢架由两个侧架和一根横梁组成，横梁上悬挂有玻璃纤维绳来架设实验导线。玻璃纤维绳可耐高温、导热系数小，使得架设材料对导线导热的影响最小。本文采用硅谷化工生产的ACCC导线作为实验对象，其相关参数见表1。
+
+![](images/526547b216e105925545f7e8f190c627a7800e5a6135fabbc261abcd13595b22.jpg)  
+图3ACCC导线载流温升实验平台示意图 Fig.3The schematic diagram of temperature rise experiment platform for current-carrying ACCC conductor
+
+表1 ACCC-240/35参数  
+Tab.1 Parameter ofACCC-240/35   
+
+<html><body><table><tr><td>参数名</td><td>参数值</td></tr><tr><td>规格</td><td>ACCC-240/35</td></tr><tr><td>导线长度/m</td><td>5</td></tr><tr><td>层数</td><td>2</td></tr><tr><td>铝股数</td><td>25</td></tr><tr><td>芯线直径/mm</td><td>7.5</td></tr><tr><td>线径/mm</td><td>21.7</td></tr><tr><td>20℃直流电阻/(Ω·km)</td><td>0.1209</td></tr><tr><td>允许连续使用温度/℃</td><td>160</td></tr></table></body></html>
+
+实验平台放置于封闭的室内，室内空气流速小于 $0 . 1 \mathrm { m / s }$ ，属自然对流，温度和湿度在实验阶段近似不变。实验时，大电流发生器将电流耦合至ACCC导线。同时，导线实时运行温度、环境温度及导线电流通过温度探头及霍尔电流互感器由数采装置采集以0.5s为周期上传至后台PC数据库存储起来。
+
+# 4.2 结果及分析
+
+为获取较为全面的导线温升过程甚至过载时的温升，实验选取 $4 0 0 \sim 1 ~ 0 0 0 \mathrm { A }$ ，间隔100A的电流值作为加载电流。
+
+将实验结果带入目标函数，并利用粒子群优化算法辨识求解得到ACCC导线热路模型参数见表2。
+
+首先，验证交流电阻参数的有效性。将辨识结果带入式 (5)，计算出不同导线温度下的交流电阻，与通过矢量电流电压法测得的交流电阻值对比，如图4所示。其最大误差仅为 $1 . 2 \%$ ，表明参数和 $R _ { \mathrm { r e f } }$ 的辨识结果具有较高的精度。
+
+表2模型参数辨识结果  
+Tab.2The identification results of model parameters   
+
+<html><body><table><tr><td>辨识参数</td><td>辨识结果</td></tr><tr><td>热容C/(J·K"1 · m-1)</td><td>4087.7</td></tr><tr><td>交流电阻温度系数α</td><td>0.0030</td></tr><tr><td>20℃时的导线交流电阻Rrer(Ω·km-1)</td><td>0.1559</td></tr><tr><td>环境热阻系数a</td><td>1.6024</td></tr><tr><td>环境热阻系数b</td><td>0.1782</td></tr></table></body></html>
+
+![](images/74af63551a2db4aaad97fd444237c3a78e622e50bb9fce06572fb6f1d1bf26fd.jpg)  
+图4交流电阻计算值与实测值
+
+然后，将所有的参数辨识结果带入热路模型，可模拟出导线在各加载电流下的温度动态过程，如图5所示。图6给出了模拟结果的相对误差，其模拟结果的误差不超过 $2 . 8 \%$ ，体现了粒子群优化算法辨识方法的有效性。
+
+![](images/99ea2c048d54f592f396af2cda545cd6379dcbfcce7992b7cd99a7fbf74d3444.jpg)  
+Fig.4The calculation and measure results of ac resistance   
+图5不同电流等级下的导线室内温升实测与模拟结果 Fig.5The measured and simulation results of conductor temperature rise with different current in the indoor conditior
+
+另一方面，为进一步验证模型精度，选择参与辨识以外的电流等级，增补以 $4 5 0 \sim 8 5 0 \mathrm { A }$ ，间隔100A的电流值为加载电流的导线温升实验。并对比实测结果与相应加载电流的模拟结果，如图7所示。
+
+![](images/80e66f9cd71f045279f6e8ad90aab4e6c75ab59b39cc7419d6c7e2d153ac501c.jpg)  
+图6导线模拟结果的相对误差
+
+![](images/9efbcfe7b31723f8d1b79424039167744c1d8e3567cf956d657285db0e3b465f.jpg)  
+Fig.6The relative error of simulation result
+
+图8给出了其相对误差，最大值不超过 $2 . 2 \%$ 。显然模型具有较高的精度，可较为准确地描述导线的温升动态过程。
+
+![](images/ac70eef3bfbd5f390ea49ce16c23af28392a281422fe1f7f1ba607aa06b041b1.jpg)  
+图7增补加载电流下的导线温升实测与模拟结果 Fig.7The measured and simulation results of conductor temperature rise foradded current   
+图8增补加载电流下的导线模拟结果的相对误差Fig.8The relative error of simulation result foradded current
+
+# 5 结论
+
+本文提出了基于粒子群优化算法辨识的高压ACCC导线载流温升模型，通过实验验证了辨识计算方法的可行性和模型的精确性，确定了模型各参数的具体计算方法，并得到如下结论：
+
+（1）基于粒子群参数辨识的辨识方法可有效确定ACCC导线载流温升模型中的电参数及热参数，为导线热动态过程的计算提供必要依据。
+
+(2）实验结果与计算结果对比表明，自然对流条件下，ACCC导线载流温升模型具有较高的精度，可准确反映导线的温升过程，为复杂气象条件下的导线载流温升模型提供了理论基础。
+
+#
+
+奓考乂啊   
+[1] 黄新波，孙钦东，张冠军，等．输电线路实时增 容技术的理论计算与应用研究[J]．高电压技术, 2008，34(6):1138-1144. Huang Xinbo, Sun Qindong, Zhang Guanjun,et al. Theoretical calculation and capacity-increase application study on real-time of transmission lines[J]. High Voltage Engineering,2008,34(6): 1138-1144.   
+[2] 张启东，钱之银．输电线路实时动态增容的可行 性研究[J]．电网技术，2005，29(19)：18-21. Zhang Qidong, Qian Zhiyin. Study on real-time dynamic capacity-increase of transmission line[J]. Power System Technology, 2005,29(19): 18-21.   
+[3] Cecchi V, Knudson M, Miu K. System impacts of temperature-dependent transmission line models[J]. IEEE Transactions on Power Delivery,2014,30(28): 2300-2308.   
+[4] IEC 61597-1995, Overhead electrical conductorscalculation methods for stranded bare conductors[S]. International Electrotechnical Commission,1995.   
+[5] IEEE Std 738-2006, IEEE Standard for calculating the current-temperature of bare overhead conductors[S]. New York, Institute of Electrical and Electronics Engineers, 2006.   
+[6] 韩晓燕，黄新波，赵小惠，等．输电线路摩尔根 载流量简化公式的初步研究[J]．电力系统及其自 动化学报，2009，21(5)：92-96. Han Xiaoyan, Huang Xinbo, Zhao Xiaohui, et al. Preliminary study on morgan transmission capacity simplified formula of transmission lines[J]. Proceedings of the CSU-EPSA, 2009,21(5): 92- 96.   
+[7] Black W Z,Collins S S. Theoretical model for temperature gradients within bare overhead conductors[J]. IEEE Transactions on Power Delivery, 1988, 3(2): 707-715.   
+[8] Morgan V T.The radial temperature distribution and effective radial thermal conductivity in bare solid and stranded conductors[J].IEEE Transactions on Power Delivery, 1990, 5(3): 1443-1452.   
+[9] Minambres JF,Alvarez-Isasi R, Zorrozua MA, et al. Radial temperature distribution in ACSR conductors applying finite elements[J].IEEE Transactions on Power Delivery,1999,14(2): 472-480.   
+[10] 刘刚，阮班义，张鸣．架空导线动态增容的热路 法暂态模型[J]．电力系统自动化，2012，36(16)： 58-62，123. Liu Gang,Ruan Banyi,Zhang Ming.A transient model for overhead transmission line dynamic rating based on thermal circuit method[J].Automation of Electric Power Systems,2012,36(16): 58-62,123.   
+[11] 刘刚，阮班义，林杰，等．架空导线动态增容的 热路法稳态模型[J]．高电压技术，2013，39(5)： 1107-1113. Liu Gang,Ruan Banyil,Lin Jie,et al. Steadystate model of thermal circuit method for dynamie overhead lines rating[J]. High Voltage Engineering, 2013,39(5): 1107-1113.   
+[12] Boguslaw Wiecek,Gilbert De Mey,Vasilis Chatziathanasiou,et al. Harmonic analysis of dynamic thermal problems in high voltage overhead transmission lines and buried cables[J].Electrical Power and Energy Systems,2014,58(6): 199-205.   
+[13] Alawar A, Bosze E J,Nutt S R.A composite core conductor for low sag at high temperatures[J]. IEEE Transactions on Power Delivery, 2005,20(3): 2193- 2199.   
+[14] Burks B.Failure prediction analysis of an ACCC conductor subjected to thermal and mechanical stresses[J].IEEE Transactions on Dielectrics and Electrical Insulation, 2010,17(2): 588-596.   
+[15] 何州文，陈新，王秋玲，等．国内碳纤维复合 芯导线的研究和应用综述[J]．电力建设，2010, 31(4): 90-93. He Zhouwen,Chen Xin,Wang Qiuling,et al. Research and application overview of ACCC conductor in china[J]. Electric Power Construction, 2010, 31(4): 90-93.   
+[16] Zamora I,Mazón A J,Eguia P,et al. Hightemperature conductors: a solution in the uprating of overhead transmission lines[M].Power Tech,IEEE Porto,2001(4).   
+[17] 张 荐，焦重庆．空间交叉跨越导线间互电感的计 算与分析[J]．电气应用，2016，35(14)：28-33.   
+[18] Deve H E, Clark R, Stovall J, et al. Field testing of ACCR conductor[J]. Electric Power Construction, 2007(4): 24.   
+[19] 陈原，宋福如，周国华，等．碳纤维复合芯导线 及应用[M]．北京：中国电力出版社，2014.   
+[20] 应展烽，徐捷，张旭东，等．基于脉动参数热路 模型的架空线路动态增容风险评估[J]．电力系统 自动化，2015，39(23)：89-94. Ying Zhanfeng,Xu Jie, Zhang Xudong,et al. Risk assessment of dynamic overhead lines rating based on thermal circuit model considering pulsating characteristic of parameters[J].Automation of Electric Power System,2015,39(23): 89-94.

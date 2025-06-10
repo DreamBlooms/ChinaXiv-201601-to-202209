@@ -1,0 +1,112 @@
+# Precipitation Retrievals in typhoon domain combining of FY3C MWHTS Observations and WRF Predicted Models
+
+HE Jieying1, ZHANG Shengwei¹,LI Na1,2
+
+1.Key Laboratory of Microwave Remote Sensing, National space science center, Chinese Academy of Sciences,Beijing 100190, China ² University of Chinese Academy of Sciences, Beijing 100190, China
+
+Abstract.A passve sub-millimeter precipitation retrievals algorithm is provided based on Microwave Humidity and Temperature Sounder (MWHTS) onboard the Chinese Feng Yun 3C (FY-3C） satellite. Using the validated global reference physical model NCEP/WRF/ VDISORT), NCEP data per 6 hours are downloaded to run the Weather Research and Forecast model WRF,and derive the typical precipitation data from the whole world. The precipitation retrieval algorithm can operate either on land or on seawater for global. To simply the calculation procedure and save the training time, principle component analysis (PCA） was adapted to filter out the redundancy caused by scanning angle and surface effects, as well as system noise.According to the comparison and validation combing with other precipitation sources,it is demonstrated that the retrievals are reliable for surface precipitation rate higher than $0 . 1 \ \mathrm { m m / h }$ at $1 5 \mathrm { k m }$ resolution.
+
+Key Words: FY3C,MWHTS,118.75GHz, WRF,VDISORT, precipitation
+
+# 1.Introduction
+
+Global monitoring of precipitation is important because of its significant human consequences. However， the multiplicity of hydrometeor types and their small-scale and large-scale spatial inhomogeneities make accurate measurements diffcult. For example, rain gauge measurements are significantly impaired by wind, poor global coverage,and the non-uniformity of rain. Both groundbased radars and passive microwave satellite sensors sense precipitation aloft and are generally unable to discern how much of that precipitation evaporates before impact. Both are also sensitive to unknown local hydrometeor size，form,and vertical velocity distributions,as are simple single frequency radars on satelites. The resulting lack of adequate ground truth seriously complicates development and validation of global precipitation sensing methods.
+
+This paper addresses the following: 1） the consistency between histograms of millimeter-wave atmospheric radiances observed by satellite instruments FY-3C MWTHS [1-2] and those predicted by a mesoscale numerical weather prediction (NWP) model WRF (http://www2.mmm.ucar.edu/wrf/users/） in combination with a four-stream radiative transfer model (VDISORT). WRF was initialized by National Center for Environmental Prediction NCEP [3] analyses on a $1 \textdegree$ grid approximately $6 \mathrm { ~ h ~ }$ prior to each FY-3C MWHTS transit and employed the Goddard explicit cloud physics model. The scattering behavior of icy hydrometeors, including snow and graupel was considered. Retrievals of precipitation can have a coefficient of 0.61 now,and with the more and more observing data and validation data from radar and other techniques,this work is continuing and will have a better result.
+
+# 2.Instrument description
+
+MWHTS onboard FY-3C satelite is a fifteen-channel total power microwave radiometer in the range of 89GHz to 191GHz and has been launched in the September,2013.Combining 13 horizontal polarized channels near 118.75GHz (which is the first operated to detect atmosphere on current operational polar orbiting satelite） and 183GHz,also window channels at 89GHz and 150GHz, precipitation content and path can be predicted.
+
+Data assimilation of MWHS is demonstrated to improve the analysis of numerical weather prediction (NWP) and play an important role in the ECMWF forecast mode [4]. Based on sounding channels operated between 89 to 191 GHz (horizontal and vertical polarization)， the MWHTS operated in cros-track scanning mode and willbe used for deriving atmospheric vertical distribution of temperature and humidity,rainfall, etc.The chosen observation channels are at 89 GHz (vertical polarization),118.75 GHz (horizontal polarization,eight-channel), $1 5 0 ~ \mathrm { G H z }$ (vertical polarization), 183.31 GHz (horizontal polarization, five-channel) [5].
+
+Table1 Channel characteristics ofMWHTS receivers   
+
+<html><body><table><tr><td>No.</td><td>frequency</td><td>polarization</td><td>B(MHzdt</td><td>preLsion</td><td>Drnagmic</td><td>NEAT</td><td>Calegration</td><td>wh</td></tr><tr><td>1</td><td>89.0</td><td>V</td><td>1500</td><td>50</td><td>3-340</td><td>1.0</td><td>1.3</td><td>2.0°</td></tr><tr><td>2</td><td>118.75±0.08</td><td>H</td><td>20</td><td>30</td><td>3-340</td><td>3.6</td><td>2.0</td><td>2.0°</td></tr><tr><td>3</td><td>118.75±0.2</td><td>H</td><td>100</td><td>30</td><td>3-340</td><td>2.0</td><td>2.0</td><td>2.0°</td></tr><tr><td>4</td><td>118.75±0.3</td><td>H</td><td>165</td><td>30</td><td>3-340</td><td>1.6</td><td>2.0</td><td>2.0°</td></tr><tr><td>5</td><td>118.75±0.8</td><td>H</td><td>200</td><td>30</td><td>3-340</td><td>1.6</td><td>2.0</td><td>2.0°</td></tr><tr><td>6</td><td>118.75±1.1</td><td>H</td><td>200</td><td>30</td><td>3-340</td><td>1.6</td><td>2.0</td><td>2.0°</td></tr><tr><td>7</td><td>118.75±2.5</td><td>H</td><td>200</td><td>30</td><td>3-340</td><td>1.6</td><td>2.0</td><td>2.0°</td></tr><tr><td>8</td><td>118.75±3.0</td><td>H</td><td>1000</td><td>30</td><td>3-340</td><td>1.0</td><td>2.0</td><td>2.0°</td></tr><tr><td>9</td><td>118.75±5.0</td><td>H</td><td>2000</td><td>30</td><td>3-340</td><td>1.0</td><td>2.0</td><td>2.0°</td></tr><tr><td>10</td><td>150.0</td><td>V</td><td>1500</td><td>50</td><td>3-340</td><td>1.0</td><td>1.3</td><td>1.1°</td></tr><tr><td>11</td><td>183.31±1</td><td>H</td><td>500</td><td>30</td><td>3-340</td><td>1.0</td><td>1.3</td><td>1.1°</td></tr><tr><td>12</td><td>183.31±1.8</td><td>H</td><td>700</td><td>30</td><td>3-340</td><td>1.0</td><td>1.3</td><td>1.1°</td></tr><tr><td>13</td><td>183.31±3</td><td>H</td><td>1000</td><td>30</td><td>3-340</td><td>1.0</td><td>1.3</td><td>1.1°</td></tr><tr><td>14</td><td>183.31±4.5</td><td>H</td><td>2000</td><td>30</td><td>3-340</td><td>1.0</td><td>1.3</td><td>1.1°</td></tr><tr><td>15</td><td>183.31±7</td><td>H</td><td>2000</td><td>30</td><td>3-340</td><td>1.0</td><td>1.3</td><td>1.1°</td></tr></table></body></html>
+
+aNote: In column 3, V/H means quasi V/H polarization
+
+# 3.Data collecting and processing
+
+# 3.1. Data collecting
+
+NCEP datasets(per 6 hours) from January,1, 2014 to Oct, 31, 2014are chosen to run the Weather Research and Forecast model WRF,and derive the typical precipitation data from the whole world, especially for the extreme weather, such as typhoon, cyclone and rainfall. Bring out the incomplete cases and latitude values smaller than O degree and larger than 3O degree.The whole global datasets observed by FY-3C MWHTS from January,1, 2014 to Oct,31, 2014 are used to evaluated and analysis the validation of retrieval algorithm.
+
+Radiance data in Level-1B format from FY-3C MWHTS are employed for this study [6-7]. Both FY-3C has afternoon-configureured orbit. MWHTS is a self-calibrating total-power radiometer, which is a cross-track step-scan instrument and executes one complete revolution every 8/3 s period. The
+
+MWHTS antenna systems have a nominal field of view (FOV) of 1.1 degree at the half-power points (covering a $1 6 \mathrm { - k m }$ diameter footprint at nadir) and execute a cross-track scan with 98 Earth FOVs (within $\pm 5 3 . 3 5 \$ degreefrom nadir ), one cold space FOV, and one warm blackbody FOV per 8/3-s scan period. FOVs 1 and 98 (at $\pm 5 3 . 3 5 \$ degree from the nadir, respectively) are the outermost scan positions of the Earth views. The FOVs 49 and 50 (at $\pm 1 . 1 \circ$ from nadir) straddle the nadir. The space view center is at 107.1o.The space views and internal warm target views are used to complete on-orbit twopoint calibration for MWHTS.
+
+For FY-3C MWHTS,channel 9 and channel 15 are sensitive to precipitation. Combined with window channels distributed at 89GHz and $1 5 0 \mathrm { G H z } .$ ， people can retrieve precipitation rate using neural network estimators.
+
+![](images/daeafb24468d08b962cfb386e5cacc976756bdc250fec4430c6f1ee363c09460.jpg)  
+Figure.1 Global brightness temperature values of 89 and $1 5 0 \mathrm { G H z } . \$ （204号
+
+# 3.2. Data processing
+
+3.2.1. Surface classification. MWHTS-observed footprints were classified as snow-free land, seawater, or sea ice and snow-covered land using the surface classfication algorithm adapted from Chinnawat's paper [8][9](Surussavadee, C 2006,2008), where inputs include MWHTS channels land 10,land/sea flag,and surface temperature, which has been validated. In this paper, the authors focus on MWHTS footprints classified as snow-free land or seawater for global.
+
+3.2.2.Matching. Microwave humidity and temperature sounder (MWHTS) are onboard the Chinese FY-3Csatellite is a cross-track scanning radiometer with a swath width of $2 6 5 0 \mathrm { k m }$ .MWHTS has a nadir footprint size of $1 5 ~ \mathrm { k m }$ ，and 98 fields of view per scan line. The absolute visiting period is 5.5 days. The limitation threshold of matching domain is 0.05degree for both altitude and longitude with 20 mins.
+
+The atmospheric and surface conditions are used for producing global simulations of brightness temperatures that are measured by MWHTS.The vertical profiles of temperature, specific humidity, and pressure, the surface parameters of surface skin temperature, $2 { \cdot } \mathrm { m }$ wind speed, and wind direction from the National Center for Environmental Prediction (NCEP) 6-h reanalysis data are used as input to WRF. The NCEP/WRF data field shave a horizontal resolution $0 . 0 5 \circ \times 0 . 0 5 \circ$ and 29 vertical levels, with the highest vertical level located near $0 . 1 \mathrm { { h P a } }$
+
+3.2.3.Correction for small brightness temperature biases between NCEP/WRF/VDISORT and MWHTS. Considering the calibration accuracy and model error， bias correction of brightness temperature are in needed. According to the bias calculations and error corrections about cold and Warm target， variable target, nonlinearity error and system random noise,the primary calibration results can be derived, which are shown in Figure.2 and 3, which meet the requirements of design and development of MWHTS onboard FY-C satelite.To demonstrate that system requirements are appropriate and can be met, the paper provides the analysis of brightness temperatures through calibration process and profile retrievals using observing data of MWHTS.
+
+![](images/3c6cdfa71808bae17ae0a76a589d3ba7e41b2efc3046f166fcd5cbeaab6c955a.jpg)  
+Figure.2 Comparisons of brightness temperature between observation and simulation.   
+Figure.3 Bias distribution of brightness temperature between observation and simulation.
+
+700 ！   
+500 600 血   
+400   
+300   
+200   
+100   
+-1.2 -0.6 -0.4 -0.2 0 0.2 0.4 0.6
+
+3.2.4. Omission of extreme values. The following values are omitted: 1) any brightness temperature for that footprint is less than $5 0 ~ \mathrm { K }$ or greater than $4 0 0 ~ \mathrm { K }$ ，which is invalid,2) the surface altitude is above $2 ~ \mathrm { k m }$ for |latitudel $< 6 0 0$ , or above $1 . 5 \mathrm { k m }$ for $6 0 0 { \leq } | \mathrm { l a t i t u d e } | < 7 0 0$ ,or above $0 . 5 \mathrm { k m }$ elsewhere, which could be covered by snow and are sensed more strongly and is called too-high, or 3) MWHTS channel 9 is less than $1 9 0 ~ \mathrm { K }$ ，which implies that the atmosphere is so cold and potentially dry that precipitation is unlikely and that even the most opaque channel, i.e., $1 8 3 { \pm } 1$ GHz,may sense the surface and yield false detections of precipitation, and is called too-cold.
+
+3.2.5. Principal component analysis $( P C A )$ . The method of principal component analysis is to extract only good signals that provide useful information about precipitation but are insensitive to most angle and surface efects,and other noises. Therefore,this method willfilter out the redundancy caused by scanning angle and surface efects,as well as system noise. Also,the dimensions of data matrix are reduced, which is helpful to save time and make the retrievals easier.
+
+# 4. Retrievals and analysis
+
+ANN is essentially a nonlinear statistical regression between a set of predictors (in this case the observation vectors X) and a set of predictands (in this case profiles of atmospheric temperature Z). The ANN model consists 3 layers 1,2,and 3,which represent the input layer, the hidden layer,and the output layer, respectively, as shown in Figure.4.
+
+The neurons of the input layer are represented by vector Xi (X1, X2X3, ·, XL), where L is the number of the input neurons. The neurons of the middle layer are represented by vector Yi (Y1, Y2, Y3,·…YM),where M is the number of the hidden neurons. The neurons of the output layer are represented by vector Zi (Z1, Z2, Z3), where $Z$ is the rain detection and precipitation rate for different surface types and situations [10-12].
+
+![](images/05e673bcf1548a07a98580c33dfb332645f2c437777520fb3637b05b406c7a9d.jpg)  
+Figure.4 The schematic ofartificial neural network
+
+Estimates over land are usually slightly less accurate than those over sea, as expected, particularly at the lower rain rates where the surface remains visible. Using the artificial neural network retrieval algorithm of rain detection and precipitation presented above, and considering difference distributions of brightness temperatures as model inputs，as well as observing angles, the global map of rain detection can be retrieved as Figure.5 shows.
+
+In Table2, for most cases, the root mean square eror (rms) errors are among the rain rate range, while for rain rate larger than $3 0 \mathrm { m m / h }$ ,the rms error is less than the lower bound, which suggests good retrieval performance. While in typhoon region, the retrievals of rain rate are slightly worse and need more training data to improve the retrieving model.
+
+![](images/022f02d65597d5e101e4059067fc9fc62a88d0c1c5504e7132c93811810c2cbe.jpg)  
+(a) Global distributions of brightness temperatures on Jan20,2O15for(a) channel 1(b) channel 10 for FY-3C MWHTS
+
+![](images/83c74ab456442da6eecd6735f69b0099486d0530c48f55e16a3a9e7b3cf4f8f9.jpg)  
+Figure.5 Brightness temperatures and rain detection results based on MWHTS on time 22:4Jan, 20, 2015 to 00:30 Jan, 20, 2015.
+
+Table2 Rain detection of typhoon domain byFY-3C MWHTS between Jan,1 to Oct,31, 2014   
+
+<html><body><table><tr><td>Location</td><td>rain Rate(mm/h)</td><td>Land rms/K</td><td>sea rms/K</td></tr><tr><td rowspan="6">Typhoon domain</td><td>0.1-1</td><td>0.88</td><td>0.84</td></tr><tr><td>1-5</td><td>3.95</td><td>3.54</td></tr><tr><td>5-10</td><td>7.11</td><td>6.78</td></tr><tr><td>10-30</td><td>22.1</td><td>17.21</td></tr><tr><td>30-50</td><td>24.21</td><td>21.23</td></tr><tr><td>50-65</td><td>34.2</td><td>32.4</td></tr></table></body></html>
+
+The correlation coefficients between rain rate detection and retrievals were found to be approximately 0.79 and 0.81 for land and sea, respectively.
+
+# 5.Conclusion
+
+For the recent work, the surface is classified the land mark as land and sea, and using the observing data to test and validate the accuracy of the rain rate. The work is not enough,and the authors are doing further improvement, like considering the surface covered by snow, ice and rainforest. Also, according to convection and stratiform, and classifying different rain rate from 0.1 to 50 as detail as possible to retrieve the rain rate. The radar data are also needed to validate the accuracy of rain detection. All of above will be described in future paper.
+
+# References
+
+[1] S W. Zhang, J. Li, J. Jiang, Y. Zhang, Z. Wang and X. Dong.2006. Microwave Humidity Sounder (MWHS) of Chinese Meteorological Satellite FY-3.Proceedings of the Microwave Technology and Techniques Workshop -Enabling Future Space Systems, ESA/ESTEC, Noordwijk, The Netherlands, May 15-16,2006,ESA SP-632.   
+[2] S W. Zhang, J. Li and Z Z Wang 2012 .Design of the second generation microwave humidity sounder (MWHS-II) for Chinese meteorological satellite FY-3. Geosciences and Remote Sensing Symposium (IGARSS),2012 IEEE International, ISSN: 2153-6996, pp: 4672-4675, Munich, 22-27 July 2012.   
+[3] NCEP Global Tropospheric Analyses, $1 \mathrm { ~ x ~ } 1$ Daily Sep.15,1999-Present.[Online]. Available: http://dss.ucar.edu/datasets/ds083.2/   
+[4] Http://www.ecmwf.int/en/about/media-centre/news/2014/ecmwf-starts-using-chinese-satellitedata   
+[5] J Y.He， S W. Zhang and Z Z. WANG 2015 Advanced Microwave Atmospheric Sounder (AMAS） Channel Specifications and T/V Calibration Results on FY-3C satellite. IEEE Trans. Geosci. Remote Sens.1, 1481-93.   
+[6] X H. Tang and Z H. Cheng 2011 The data processing method of FY-3 meteorological satellite, Conference on Communications and Networking in China (CHINACOM). 2011 6th International ICST,17-19 Aug. DOI: 10.1109/ChinaCom.2011.6158286.   
+[7] Z D. Yang, N M. Lu and Shi Jinming 2013 Overview of FY-3 Payload and Ground Application System.IEEE Trans. Geosci. Remote Sens.12 4846-53.   
+[8] Surussavadee, C and D.H. Staelin 2006 Comparison of AMSU Millimeter-Wave Satellite Observations，MM5/TBSCAT Predicted Radiances，and Electromagnetic Models for Hydrometeors. IEEE Trans. Geosci.Remote Sens 10 2667-78.   
+[9] Surussavadee, C and D. H. Staelin 20o8 Global milimeter-wave precipitation retrievals trained with a cloud-resolving numerical weather predictionmodel, Part I: Retrieval design,” IEEE Trans. Geosci. Remote Sens 1 99-108.   
+[10] JY.He， S W. Zhang and Z Z. WANG 2012 The retrievals and analysis of water vapor density in arctic regions using FY-3A satellite MWHS, Radio Science. 2,301-11.   
+[11]JY. He and S W. Zhang 2012 Humidity retrievals in mid-latitude and tropical regions using FY-3 MWHS. Journal of remote sensing. 3, 581-97   
+[12] Surussavadee, C. Blackwell, W.J.; Entekhabi, D. Leslie and R.V 2012 A global Precipitation retrieval algorithm for Suomi NPP ATMS, Geoscience and Remote Sensing Symposium (IGARSS),22-27 July 2012.DOI: 10.1109/IGARSS.2012.6351128.

@@ -1,0 +1,204 @@
+# 改进遗传算法优化BP神经网络的语音情感识别
+
+陈闯」，RyadChellalil†，邢尹 ²
+
+(1．南京工业大学 电气工程与控制科学学院，南京 211816;2.桂林理工大学 测绘地理信息学院，广西 桂林 541004)
+
+摘要：语音情感识别技术在人类生活中正扮演着越来越重要的作用。为了更为有效识别语音信号中的情感类型，提出一种改进遗传算法优化 BP 神经网络的识别算法(IAGA-BP)。该算法一方面改进了自适应遗传算法中的选择算子，另一方面更改了自适应遗传算法中的交叉和变异概率公式。通过对自适应遗传算法的改进，提升了遗传算法的寻优性能，并以此对 BP神经网络初始的权阈值进行优化。在与BP、GA-BP和AGA-BP 网络比较中，实验结果表明，IAGA-BP 网络能够有效提高语音情感识别率，并加快了网路收敛速度。
+
+关键词：遗传算法；BP神经网络；语音情感识别；自适应；优化 中图分类号：TP183 doi: 10.3969/j.issn.1001-3695.2017.08.0711
+
+Speech emotion recognition based on improved genetic algorithm optimized BP neural network
+
+Chen Chuang1, Ryad Chellalil†, Xingyin² (1.ColegeofElectricalEngineering&ControlScience,NanjingTechUniversityNnjing1816,China;2.Collgef Geomatics & Geoinformation, Guilin University of Technology,Guilin Guangxi 541004, China)
+
+Abstract: Speech emotionrecognition technologyis playinganincreasingly importantroleinhuman life.Inordertoidentify the emotion types in speech signals,this paper proposedan improved genetic algorithmoptimized BP neural network (IAGABP).This algorithm enhances the optimization performance of genetic algorithm by improving the selection operator and the adaptivecrossoverand mutation probabilityformula,such thatoptimizingthe initial weightsandthresholdsof theBP neural network.The experimental results showthat the IAGA-BP network can efectively improve therecognition rate and speed up the convergence compared with the BP, GA-BP and AGA-BP networks.
+
+Key Words: genetic algorithm (GA); BP neural network; speech emotion recognition; adaptive; optimization
+
+# 0 引言
+
+随着科学技术的日新月异和人类对计算机的依赖性不断增强，人机的交互能力越来越受到研究者的重视。斯坦福大学Reeves 和Nass 的研究发现表明[1]，在人机交互中需要解决的问题实际上与人和人交流中的重要因素是一致的，最关键的都是“情感智能”的能力。因此有效识别人类语音信号中的情感类型，分析说话者的情感状态，使得人机交互更为友好，是今后信息处理研究的发展方向[2]。语音情感识别技术已成功应用于辅助测谎[3]、远程教学[4]、临床医学[5]等各个领域。
+
+用于语音情感识别的方法有很多，主要有高斯混合模型、隐马尔科夫模型、支持向量机和人工神经网络等[]。人工神经网络是借鉴生物学中神经网络结构和原理提出来的，它模拟了人脑的神经网络，可以处理复杂的输入输出信息，寻找到它们之间的非线性映射关系[7。其中，BP神经网络是人工神经网络中应用最为广泛的一种。但由于BP神经网络存在易陷入局部极小值、收敛速度慢等问题，而遗传算法具有良好的全局搜索性能，为了进一步提升语音情感的识别率，本文将探讨改进遗传算法和BP神经网络相结合的识别模型。
+
+# 1 BP神经网络
+
+BP 神经网络是一种包含输入层、隐含层和输出层的不低于3层的网络，其结构如图1所示。它采用误差函数梯度下降法进行学习，其学习过程主要包括输入信号的正向传播和误差的反向传播过程[8]。在正向传播时，由输入层输入信号，经隐含层处理，传递给输出层。若实际输出与期望输出不符，则转入误差反向传播过程。反向传播时，误差由输出层向输入层逐层传递，并不断修正连接权值，最终使得误差减小。两个过程循环进行，直到均方误差值达到设定标准或达到最大迭代次数为止。但在BP神经网络的实际使用中，人们发现它收敛速度较慢、且易陷入局部收敛。其中，网络初始的权值和阈值深刻影响着网络训练结果。
+
+![](images/cd3e440336b87086ed5e573114276b9534e568b1c68420f2b099e1923907ef2f.jpg)  
+图13层BP神经网络结构
+
+# 2 改进的自适应遗传算法优化BP神经网络
+
+针对BP神经网络自身的缺陷，可以利用遗传算法的全局搜索能力来优化BP神经网络。遗传算法模拟了生物进化过程，包含选择、交叉和变异等操作，依靠不断地进化，得到最优解[9]。但由于标准遗传算法同样存在易陷入局部最优，影响自身的寻优能力。为此，本文通过改进遗传算法的选择算子以及更改交叉、变异概率公式，以期提升算法寻优性能，进而达到优化BP神经网络初始的权阈值目的。
+
+# 2.1编码和适应度函数选择
+
+BP神经网络的权值和阈值为-1和1之间的小数且数量庞大，不适宜二进制编码，这里本文采用实数编码规则。算法搜索过程中，以均方误差的倒数作为评价个体优劣的标准。适应度函数公式如下：
+
+$$
+f i t n e s s ( x ) = 1 / E ( x )
+$$
+
+其中： $x$ 为种群个体，对应于BP网络的权值和阈值排列。适应度值越大表示该个体 $x$ 越优秀。
+
+# 2.2遗传操作
+
+# 2.2.1改进选择算子
+
+遗传算法的选择算子常采用适应度比例法和最优个体保存策略。适应度比例法存在随机误差问题，即会出现淘汰适应度高的个体，选中适应度低的个体，体现出不好的竞争力，尤其在大种群数目下更易发生此类问题。最优个体保存策略通过将最优个体直接复制到下一代，避免被交叉和变异操作破坏，但忽略了其余个体破坏种群多样性的可能性[10]。为此，本文提出一种新的选择操作方法，该方法思路新颖，可以在种群中有效地选择较优个体。算法步骤如下：a）确定一个初始种群，计算种群内每个个体的适应度值；b)将种群内的个体按照适应度由大到小降序排列；c）选取前两个个体直接遗传到下一代，其余个体按照已排序好的顺序等分为优、良、中、差四份；d）对优的那份个体复制两份，良、中的个体各复制一份，差的个体不复制。下面以标有个体适应度值和编号的种群数14为例，对上述思想进行图形化表示。
+
+a)确定一个种群数为14的初始种群：
+
+<html><body><table><tr><td>6</td><td>4</td><td>19</td><td>13</td><td>3</td><td>11</td><td>20</td><td>17</td><td>25</td><td>1</td><td>9</td><td>29</td><td>10</td><td>22</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td></tr></table></body></html>
+
+b)种群内个体适应度由大到小降序排列：
+
+<html><body><table><tr><td>29</td><td>25</td><td>22</td><td>20</td><td>19</td><td>17</td><td>13</td><td>11</td><td>10</td><td>9</td><td>6</td><td>4</td><td>3</td><td>1</td></tr><tr><td>12</td><td>9</td><td>14</td><td>7</td><td>3</td><td>8</td><td>4</td><td>6</td><td>13</td><td>11</td><td>1</td><td>2</td><td>5</td><td>10</td></tr></table></body></html>
+
+c)前两个体直接遗传至下一代，其余个体分为优良中差四份：
+
+<html><body><table><tr><td colspan="10">： ·</td><td colspan="5">：</td></tr><tr><td>29</td><td>25</td><td>22</td><td>20</td><td>19</td><td>17</td><td></td><td>13</td><td>11</td><td>10</td><td>9</td><td>6</td><td>4</td><td>3</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>优</td><td></td><td></td><td>良</td><td></td><td></td><td>中</td><td></td><td></td><td>差</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+d)优的个体复制两份，差的个体淘汰，其余个体各复制一份：
+
+<html><body><table><tr><td>22</td><td>20</td><td>19</td><td>22</td><td>20</td><td>19</td><td>17</td><td>13</td><td>11</td><td>10</td><td>9</td><td>6</td></tr><tr><td></td><td></td><td>两份优</td><td></td><td></td><td></td><td></td><td>一份良</td><td></td><td></td><td>一份中</td><td></td></tr></table></body></html>
+
+这样选择出的种群，群体平均适应度得到改善，且维持了种群多样性。
+
+# 2.2.2交叉操作
+
+根据实数编码规则，从种群中选择两个个体以一定概率交叉得到的新个体，分别为
+
+$$
+\begin{array} { r } { w _ { k j } = w _ { k j } ( 1 - b ) + w _ { l j } b } \\ { w _ { l j } = w _ { l j } ( 1 - b ) + w _ { k j } b } \end{array}
+$$
+
+其中： $w _ { k j }$ 和 $w _ { l j }$ 分别表示第 $k$ 和第 $\mathbf { \xi } _ { l }$ 个基因的第 $j$ 位； $b$ 为[0,1]的随机数。
+
+# 2.2.3变异操作
+
+从种群中随机选择一个个体以一定概率变异得到的新个体为
+
+$$
+w _ { i j } = \left\{ \begin{array} { l l } { w _ { i j } + \big ( w _ { i j } - w _ { \operatorname* { m a x } } \big ) f ( g ) , r \geq 0 . 5 ; } \\ { w _ { i j } + \big ( w _ { \operatorname* { m i n } } - w _ { i j } \big ) f ( g ) , r < 0 . 5 . } \end{array} \right.
+$$
+
+$$
+f ( g ) = r _ { 2 } ( 1 - g / G _ { \mathrm { m a x } } )
+$$
+
+其中： $w _ { \mathrm { m a x } }$ 和 $w _ { \mathrm { m i n } }$ 分别是基因 $w _ { i j }$ 取值的上下界， $\boldsymbol { r }$ 和 $r _ { 2 }$ 均为[0,1]的随机数， $g$ 为当前迭代次数， $G _ { \mathrm { m a x } }$ 为最大进化代数。
+
+# 2.3自适应交叉和变异概率
+
+标准遗传算法采用固定的交叉和变异概率，在实际使用中难以调至最佳。当交叉率过小，算法易早熟，交叉率过大，又易破坏优良个体；当变异率过小，算法难产生新的模式结构，变异率过大，又使得算法成为纯粹的随机算法。针对这种问题，Srinivas等人[1]提出自适应遗传算法（AdaptiveGeneticAlgorithm，AGA)，即种群中个体能够根据周围环境自适应调整交叉和变异概率，具体公式如下：
+
+$$
+P _ { c } = \left\{ \begin{array} { l l } { \displaystyle { k _ { 1 } ( f _ { \mathrm { m a x } } - f ^ { ' } ) } } \\ { \displaystyle { f _ { \mathrm { m a x } } - f _ { a v g } } } \\ { \displaystyle { k _ { 2 } } } \end{array} , \ f ^ { ' } \geq f _ { a v g } \right.
+$$
+
+$$
+P _ { _ m } = \left\{ \begin{array} { l } { \displaystyle { { k _ { 3 } } ( f _ { _ { \mathrm { m a x } } } - f ) } } \\ { \displaystyle { f _ { _ { \mathrm { m a x } } } - f _ { _ { a \nu g } } } } \\ { \displaystyle { k _ { 4 } } } \end{array} \right. , ~ f \geq f _ { _ { a \nu g } }
+$$
+
+其中： $\boldsymbol { \mathscr { f } } ^ { \prime }$ 为待交叉的两个个体中较大的适应度值； $f _ { \mathrm { m a x } }$ 为种群的最大适应度； $f _ { a v g }$ 表示种群的平均适应度； $f$ 表示变异个体的适应度； $k _ { 1 } \sim k _ { 4 }$ 均为自适应控制参数。Srinivas等人认为，当个体适应度低于当代种群平均适应度时，如果该个体被选中则应采用较高的交叉和变异概率，以提升该个体性能；当个体接近当代种群最大适应度时，如果该个体被选中则应采用较低的交叉和变异概率，以尽可能保留该个体的优良模式。但AGA在进化初期并不明显，因为此时期群体中的较优个体几乎不发生变化，而此时的优良个体并不一定是全局最优解，这容易使进化走向局部收敛的可能性增加[12]。
+
+# 2.4改进的自适应交叉和变异概率
+
+遗传算法中，反映种群适应度值的平均水平用 $E X$ 表示，反映种群适应度值的离散程度用 $D X$ 表示。
+
+$$
+E X = f _ { a v g } = { \frac { f _ { 1 } + f _ { 2 } + \cdots + f _ { M } } { M } }
+$$
+
+$$
+D X = \frac { f _ { 1 } ^ { 2 } + { f _ { 2 } } ^ { 2 } + \cdots f _ { M } { } ^ { 2 } } { M } - { f _ { a \nu g } } ^ { 2 }
+$$
+
+定义相似系数公式[13]为
+
+$$
+\varphi = \frac { E X + 1 } { \sqrt { D X } }
+$$
+
+其中： $\varphi$ 表示当前种群的相似系数， $M$ 表示种群规模，$f _ { i } ( i = 1 , 2 , \cdots M )$ 表示种群中个体适应度值。随着遗传算法进化代数的增加，种群适应度平均水平不断提高，重复个体也逐渐增多，使得群体中个体适应度离散程度逐渐减低，并最终使得个体之间越来越相似。依据AGA算法的设计原则，结合相似系数定义，改进后的自适应遗传算法交叉概率和变异概率公式为：
+
+$$
+P _ { c } = \left\{ \begin{array} { l l } { \displaystyle { \frac { k _ { 1 } } { 1 + e ^ { \frac { k _ { 2 } } { \varphi } } } \cdot \frac { f _ { \mathrm { m a x } } - f ^ { ' } } { f _ { \mathrm { m a x } } - f _ { a \nu g } } + k _ { 3 } \mathrm { ~ , ~ } f ^ { ' } \geq f _ { a \nu g } } } \\ { \displaystyle { k _ { 4 } } } & { \mathrm { , ~ } f ^ { ' } < f _ { a \nu g } } \end{array} \right.
+$$
+
+$$
+P _ { _ m } = \left\{ \begin{array} { l l } { \displaystyle { \frac { k _ { 5 } } { 1 + e ^ { \frac { k _ { 6 } } { \varphi } } } \cdot \frac { f _ { \mathrm { m a x } } - f } { f _ { \mathrm { m a x } } - f _ { a v g } } + k _ { 7 } \mathrm { ~ , ~ } f \ge f _ { a v g } } } \\ { \displaystyle { k _ { 8 } } } & { \mathrm { , ~ } f < f _ { a v g } } \end{array} \right.
+$$
+
+其中： $P _ { c }$ 为交叉概率； $\boldsymbol { P _ { m } }$ 为变异概率； $k _ { \mathrm { 1 } } \sim k _ { \mathrm { 8 } }$ 均为自适应控制参数。当 $f ^ { ' } \geq f _ { a v g }$ 时， $\frac { f _ { \mathrm { m a x } } - f ^ { ' } } { f _ { \mathrm { m a x } } - f _ { a \nu g } } \in [ 0 , 1 ]$ ；由于 $\frac { k _ { 1 } } { 1 + e ^ { \frac { k _ { 2 } } { \varphi } } }$ 是增函数，且由上分析知相似系数 $\varphi$ 在不断增大，那么 $\frac { k _ { 1 } } { 1 + e ^ { \frac { k _ { 2 } } { \varphi } } } \in ( 0 , \frac { k _ { 1 } } { 2 } )$ （ 因此，交叉概率 $P _ { c } \in ( k _ { 3 } , \frac { k _ { 1 } } { 2 } + k _ { 3 } )$ ,+k），同理可得变异概率Pm∈(k, $P _ { m } \in ( k _ { 7 } , \frac { k _ { 5 } } { 2 } + k _ { 7 } )$ +k）。本文将自适应交叉概率 $P _ { c }$ 设定于0.6和0.9之间，变异概率设定于0.001和0.1之间， $k _ { 2 }$ 和 $k _ { 6 }$ 取常数，因此所设定的控制参数$k _ { \mathrm { 1 } } \sim k _ { \mathrm { 8 } }$ 分别为 $k _ { 1 } = 0 . 6$ ， $k _ { 2 } = 1$ ， $k _ { 3 } = 0 . 6$ ， $k _ { 4 } = 0 . 9$ ， $k _ { 5 } = 0 . 1 9 8$ ， $k _ { 6 } = 1$ ，$k _ { 7 } = 0 . 0 0 1$ ， $k _ { 8 } = 0 . 1$ 。
+
+# 2.5IAGA-BP算法实施步骤
+
+a)给定实验样本，划分为训练样本和测试样本，并进行归一化处理；
+
+b)设置种群规模 $N$ ，最大进化代数 $G _ { \mathrm { m a x } }$ ，初始隐含层节点数等运行参数；
+
+c)随机生成 $N$ 个体作为初始种群，并进行实数编码;
+
+d)对每个个体进行解码，获得隐含层节点的初始连接权值和阈值；训练BP神经网络，依据式（1）计算个体适应度值；
+
+e)对个体适应度值进行降序排列，按照3.2.1中的改进选择算子选取个体；
+
+f)对选取的个体以式（10）和（11）的自适应交叉和变异概率进行3.2.2和3.2.3中的交叉和变异操作;
+
+g)判断是否达到最大进化代数，若满足，则输出最优个体；否则，进入d);
+
+h)将最优个体解码，获取BP网络初始连接权值和阈值，建立IAGA-BP 模型。
+
+# 3 基于IAGA-BP算法的语音情感识别
+
+本文的语音情感数据库来自于柏林情感语音库[14]。柏林情感语音库由柏林工业大学通过10名非专业演员（5男5女）对10 句录音脚本采用生气、开心、平静、伤心、害怕、厌恶和无聊7种情感进行演绎，共录制了800条语句。经过20名志愿者试听辨别，最终保留了535条语句，本实验选取前5种语音情感，保留了400条语句，训练样本与测试样本按照1:1分配。
+
+为有效体现语音信号中的情感信息，本文提取了短时能量、基音频率、共振峰、梅尔频率倒谱系数这4类特征及其他们的衍生系数，共构成140维的语音情感特征，具体为：短时能量、基音频率、浊音帧差分基音、第一二三共振峰、0-12阶MFCC及一阶差分的最大值、最小值、均值和方差；短时能量的抖动、线性回归系数和线性回归系数的均方误差； $0 { \sim } 2 5 0 \mathrm { H z }$ 频段能量占总能量的百分比；基音频率的一阶、二阶抖动；第一二三共振峰的一阶抖动；第二共振峰比率的最大值、最小值和均值，具体计算方法详见参考文献[15]。
+
+经过多次实验，选取140-19-5的三层BP网络结构，具体参数设置为：最大迭代次数3000，目标精度0.001，学习率0.1。GA参数具体设置为：初始种群规模50，最大迭代次数200,交叉率为0.8，变异率为0.05。基于柏林情感数据集，分别采用BP、GA-BP、AGA-BP和IAGA-BP网络进行5种情感识别，识别结果如表1所示。
+
+从表1可以看出，采用IAGA-BP网络对5种情感的识别率高达 $9 4 . 5 0 \%$ ，其次分别是AGA-BP网络的 $9 2 . 5 0 \%$ ，GA-BP网络的 $91 . 0 0 \%$ 和BP网络的 $9 0 . 0 0 \%$ 。可以发现，优化后的BP网络对于伤心的识别率提升显著，由BP网络的 $67 . 7 4 \%$ 到GA-BP网络的 $8 7 . 1 0 \%$ 和AGA-BP网络的 $8 3 . 8 7 \%$ ，尤其是采用IAGA-BP网络将伤心识别率提升至 $9 6 . 7 7 \%$ ，说明IAGA-BP网络对负面情感的感知更为敏感。一般来说负面情感对人的影响最大，如果能有效地识别这些负面情感，将有助于提高个体认知和工作效率，减少影响认知和工作能力的因素[16]。在5类情感识别中，IAGA-BP网络对各个情感的识别率分别为 $100 \%$ ，$8 2 . 3 5 \%$ / $9 4 . 8 7 \%$ 、 $9 6 . 7 7 \%$ 、 $9 3 . 9 4 \%$ ，除开心情感识别率略低外，其余情感均保持着较高的识别率，说明IAGA-BP网络对于语音各类情感识别均衡，具备良好的综合识别性能。
+
+表1不同网络的语音情感识别结果  
+
+<html><body><table><tr><td rowspan="2">模型</td><td colspan="4">各类情感正确识别率/%</td><td rowspan="2">平均识别率/%</td></tr><tr><td>生气</td><td>开心 平静</td><td>伤心</td><td>害怕</td></tr><tr><td>BP</td><td>100.00</td><td>88.24 92.31</td><td>67.74</td><td>90.91</td><td>90.00</td></tr><tr><td>GA-BP</td><td>98.41</td><td>73.53 92.31</td><td>87.10</td><td>96.97</td><td>91.00</td></tr><tr><td>AGA-BP</td><td>100.00</td><td>76.47 94.87</td><td>83.87</td><td>100.00</td><td>92.50</td></tr><tr><td>IAGA-BP</td><td>100.00</td><td>82.35</td><td>94.87 96.77</td><td>93.94</td><td>94.50</td></tr></table></body></html>
+
+![](images/cfada05424648431cf1209c99358825612f8d12bee5c7af92b641552213a1845.jpg)  
+图2GA、AGA和IAGA最优个体适应度值曲线
+
+GA、AGA和IAGA三种优化算法的最优个体适应度值曲线，如图2所示。由图2可见，IAGA在寻优能力上明显强于AGA和GA。虽然GA和AGA较快地收敛，但是并没有寻求到最佳的个体。在演化过程中，GA和AGA出现多次适应度下降现象，说明GA和AGA每次进化过程中，最优个体有被破坏的可能性。IAGA则通过最优个体保存策略，保护了最优个体；通过分组选择淘汰策略，使得整体水平提高。在GA进化至24代和AGA进化至29代时，GA和AGA收敛，都无法逃离旧模式，而IAGA则显示了较好的自适应周围环境性能，它通过调整交叉率和变异率逃离旧模式，利用新的模式带动算法继续进行。IAGA呈阶梯上升状，摆脱了局部收敛，体现出了较强的自适应性能。
+
+![](images/6c0f283bd62e87fa7559324061a5fbaf8e0eb46123eab47189d75f3678742e50.jpg)  
+图3网络训练误差曲线
+
+GA-BP、AGA-BP和IAGA-BP网络训练误差曲线，如图3所示。GA-BP网络在迭代1608次时达到目标精度；AGA-BP网络在迭代1392次达到目标精度；而IAGA-BP网络在迭代1276次就达到了目标精度，说明IAGA-BP网络的收敛速度更快。
+
+# 4 结束语
+
+本文提出了一种改进的自适应遗传算法优化BP神经网络的语音情感识别模型。改进的自适应遗传算法通过个体适应度值大小的排序，选取前两个最优个体直接遗传至下一代，其余个体进行分组选择与淘汰；同时，引入相似系数概念，更改了自适应交叉和变异概率。将改进后的自适应遗传算法应用于BP神经网络初始的权阈值优化。在提取柏林数据集140维情感特征参数的基础上，分别采用GA-BP、AGA-BP和IAGA-BP网络对5种语音情感进行识别，实验结果表明，采用IAGA-BP模型有效提高语音情感识别率，并加快了网络的收敛速度。
+
+# 参考文献：
+
+[1]Cheng Y M,O'Shaughnessy D,Mermelstein P. Statistical recovery of wideband speech from narrowband speech [J]. IEEE Trans on Speech and Audio Processing,1994,2(4): 544-548.   
+[2]韩文静，李海峰，阮华斌，等．语音情感识别研究进展综述[J].软件 学报,2014,25 (1):37-50.   
+[3]Fragopanagos N,Taylor JG.Emotion recognition in human-computer interaction [J]. Journal of the International Neural Network Society,2001, 18 (1): 32-80.   
+[4]Cowie R, Douglas-Cowie E, Tsapatsoulis N, et al. Emotion recognition in human-computer interaction [J]. Neural Networks,2005,18 (4): 389-405.   
+[5]France D J, Shiavi R G, Silverman S,et al.Acoustical properties of speech as indicators of depression and suicidal risk[J].IEEE Trans on Bio-medical Engineering,2000,47(7): 829-837.   
+[6]Ayadi ME, Kamel M S,Karray F. Survey on speech emotion recognition: Features,classification schemes,and databases [J].Pattern Recognition, 2011,44 (3): 572-587.   
+[7]Xing H H,Lin H Y.An intelligent method optimizing BP neural network model [J].Advanced Materials Research,2013,607: 2470-2474.   
+[8]Li X W, Ouyang HB.Evaluating artistic voice of singing objectivly using BPNN[J].Advanced Materials Research,2012, 546-547: 1240-1244.   
+[9]Hou W,Liu X,Chen D,et al. Finance-based scheduling for construction project in China with improved genetic algorithms [J]. Journal of Convergence Information Technology,2012,7(18): 29-38.   
+[10]刘浩然，赵翠香，李轩，等．一种基于改进遗传算法的神经网络优化算 法研究[J].仪器仪表学报,2016,37(7):1573-1580.   
+[11] Srinivas M,Patnaik L M.Adaptive probabilities of crossover and mutation in genetic algorithms [J]. IEEE Trans on Systems Man and Cybernetics, 2002,24(4): 656-667.
+
+[12]王小平，曹立明．遗传算法：理论、应用与软件实现[M].西安：西安
+
+交通大学出版社,2002:73-74.  
+[13] Liu Hao,Qiu Jianxin.Improved adaptive genetic algorithm in optimal layoutof leather rectangular parts [J].Advances in Natural Science,2O15,8 (3):20-26.  
+[14]Burkhardt F,Paeschke A,Rolfes M,etal.A database of German emotionalspeech[C]//ProcofINTERSPEECH.2005:1517-1520.  
+[15]梁瑞宇，赵力，魏昕.语音信号处理实验教程[M].北京：机械工业出版社，2016:231-234.  
+[16]张潇丹，胡峰，赵力．基于改进的蛙跳算法与支持向量机的实用语音情感识别[J].信号处理,2011,27(5):678-689.

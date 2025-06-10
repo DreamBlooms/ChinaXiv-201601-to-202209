@@ -1,0 +1,477 @@
+[
+    {
+        "type": "text",
+        "text": "基于电磁感应数据的南疆棉田土壤pH反演研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王佳文¹，彭杰¹，纪文君²，白建铎'，冯春晖¹，李洪义³(1.塔里木大学植物科学学院,新疆 阿拉尔843300；2.中国农业大学土地科学与技术学院,北京100083;3.江西财经大学旅游与城市管理学院，江西 南昌330052)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：土壤盐渍化是限制新疆农业发展的主要因素之一，准确获取土壤盐渍化信息,有利于调节农业灌溉用水量大与淡水资源相对匮乏的矛盾,对提高农业生产及环境可持续发展具有重要意义。以南疆阿拉尔垦区9块棉田土壤的pH为研究指标，以EM38-MK2大地电导率仪获取的棉田土壤表观电导率数据及室内测定土壤pH为数据源,采用全区、分区2种建模方法构建土壤剖面pH与土壤表观电导率间的线性回归模型,利用地统计软件对土壤剖面pH进行空间分析。结果表明：(1）分区条件下,土壤表观电导率与土壤剖面pH相关系数为0.60\\~0.95;全区条件下相关系数为0.28\\~0.46,均呈极显著负相关,表明EM38-MK2大地电导率仪可用于土壤pH的测定。（2）分区建模模型 $0 . 7 4 \\leqslant R ^ { 2 } \\leqslant 0 . 9 3 , 2 . 0 0 \\leqslant \\mathrm { R P D } \\leqslant 3 . 5 0$ ,RMSE较小，均优于全区模型，表明分区模型精度优于全区模型，且土壤含盐量较高的棉田,模型反演精度也较高。（3)空间分析结果表明受冬灌、棉花根系及棉花枯枝落叶等的影响,棉田深层土壤pH均高于表层土壤。研究结果可为土壤pH的快速测定提供思路,对土壤盐渍化的科学管理提供指导。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土壤pH；土壤表观电导率；反演模型；棉田；空间分布；南疆 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "土壤pH作为土壤的重要属性，影响着发生在地球表面的所有化学、物理和有机过程[],其动态变化也会影响植物生长、土壤养分转化和土壤养分积累等[2-6]。自然状态下土壤pH变化十分缓慢，但受人类活动影响，土壤pH变化速率较自然状态越来越快，土壤pH变化加速会改变动植物、微生物等生存环境,终将影响农业生产和生态建设[7]。因此,研究土壤pH可变性及潜在的变化，对农业用地、粮食安全、土地管理和环境科学等方面具有重要意义[8]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，我国农田土壤质量正处于快速变化阶段，郭治兴等指出，20世纪80年代至21世纪初我国农田土壤呈显著酸化状态；白树彬等分析了辽宁省1982年、2012年的耕地土壤pH时空动态变化，发现2012年较1982年，有超过 $8 8 \\%$ 面积的耕地土壤发生了不同程度酸化;王寅等[\"分析了吉林省连续8a的农田耕层土壤pH空间变异，认为土壤酸化的主要因素是化学肥料的大量投入;潘永敏等[12]对宜兴地区土壤pH进行分析,发现该地区表层土壤呈酸化趋势。我国新疆地区，尤其以灌溉农业发展的南疆地区，受地理位置及气候影响，土壤盐渍化及次生盐渍化问题频发。目前，因土壤盐渍化造成的农田土壤肥力衰退、生态环境恶化问题已十分严重。新疆盐渍化土壤因盐含量高，土壤碱性过高，对农作物的生长产生盐害，且碱性土壤易受外因条件如自身结构、灌溉、降雨等影响较中性土壤更易板结，土壤板结会导致土壤环境中水气传导能力减弱，限制作物根系的生长和离子交换[13]。因此，针对土壤盐渍化严重地区，了解土壤pH空间变化趋势，快速、简便、高效的获取土壤pH数据，对改良土壤盐渍化有重大意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "电磁感应技术具有快速、高效及非破坏性的优势被广泛用于土壤属性研究[14]。大地电导率仪是典型的基于电磁感应原理设计的仪器，该仪器具有非接触方式进行土壤属性测定的优势。赵长巍[15]对吉林省土壤表观电导率与土壤pH展开研究发现二者呈极显著正相关，为本研究的开展奠定了基础。本文以南疆阿拉尔垦区棉田土壤pH为核心指标展开研究，利用EM38-MK2大地电导率仪采集了",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "9块不同盐渍化程度棉田土壤的表观电导率数据及$0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m } , 0 . 3 7 5 { \\sim } 0 . 7 5 \\ \\mathrm { m } , 0 . 7 5 { \\sim } 1 . 0 0 \\ \\mathrm { m }$ 的土壤剖面样品，分析探讨利用电磁感应技术监测土壤 $\\mathrm { \\ p H }$ 的可行性，以期为土壤 $\\mathrm { \\ p H }$ 的快速无损测定提供思路及方法，为盐渍化土壤的改良提供技术支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阿拉尔垦区地处亚欧大陆腹地(图1)，地理位置为 $8 0 ^ { \\circ } 3 0 ^ { \\prime } { \\sim } 8 1 ^ { \\circ } 5 8 ^ { \\prime } \\mathrm { E }$ ， $4 0 ^ { \\circ } 2 2 ^ { \\prime } { \\sim } 4 0 ^ { \\circ } 5 7 ^ { \\prime } \\mathrm { N }$ ，总面积约$3 . 9 \\times 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 }$ ,海拔 $9 9 0 { \\sim } 1 0 4 0 \\ \\mathrm { m }$ ,地势北高南低、西高东低。垦区多年平均降水量不足 $5 0 ~ \\mathrm { m m }$ ,多年平均蒸发量超过 $1 9 9 2 ~ \\mathrm { m m }$ ,蒸降比为40:1[16-17],是我国典型的极端干旱区。垦区拥有丰富的光热资源，适合棉花等经济作物的种植，是新疆最大的棉花生产基地之一。棉花种植方式为覆膜种植，灌溉模式为春、冬灌采用大水漫灌，棉花生育期内为膜下滴灌，灌溉水源以塔里木河为主。垦区北部与荒漠区相邻，土壤盐渍化程度高。盐渍化土壤的改良需消耗大量的淡水资源，加剧了生态用水与农业用水的矛盾。特殊的地理位置、极端的气候条件及不合理的灌溉，导致垦区土壤盐渍化与次生盐渍化现象频发,是我国典型的盐渍化区域之一。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 EM38-MK2结构",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EM38-MK2大地电导率仪(图2)是获取土壤属性数据的主要仪器，该仪器包含1个发射线圈和2个接收线圈，有垂直与水平2种测定模式。仪器处于水平模式可测定 $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m } , 0 { \\sim } 0 . 7 5 \\ \\mathrm { m }$ 的土壤表观电导率 $( \\mathrm { E C } _ { \\mathrm { h 0 . 3 7 5 } } , \\mathrm { E C } _ { \\mathrm { h 0 . 7 5 } } )$ ；垂直模式时可测定0\\~0.75$\\mathrm { m } , 0 { \\sim } 1 . 0 \\mathrm { m }$ 的土壤表观电导率 $( \\mathrm { E C } _ { \\mathrm { v 0 . 7 5 } } , \\mathrm { E C } _ { \\mathrm { v 1 . 0 } } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ddd1b301872187845e5c50472548726247f900dccfc2795886222ed03bb52e2a.jpg",
+        "img_caption": [
+            "图1研究区地理位置"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d20747a13e717662e3f5201c8267d9a890c2ea2fde749f61ee1d6d13ada32808.jpg",
+        "img_caption": [
+            "Fig.1 Geographic position of study area ",
+            "图2EM38-MK2大地电导率仪 Fig.2 Conductivity meter EM38-MK2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3数据获取与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区土壤表观电导率数据获取过程如下：在样地选取 $1 0 0 \\mathrm { m } { \\times } 1 0 0 \\mathrm { m }$ 样方，将EM38-MK2设置为手动测定模式，表观电导率采集频率为1个· $\\mathbf { s } ^ { - 1 }$ ，以$2 0 ~ \\mathrm { m }$ 为行距，分别采集样地水平和垂直2种模式的表观电导率数据，具体过程如图3a所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采集时间为2019年3月中旬至3月末，根据EM38-MK2大地电导率仪掌机端获取的土壤表观电导率数据，按梯度分别于测量点选取18个样点进行土壤剖面管柱样品的采集，并同步记录样点的土壤表观电导率数据及经纬度坐标。土壤管柱样品的采集采用美国RhinoS1土壤样品采集器(图3b)，钻机管柱内配套长度为 $1 \\mathrm { m }$ 的PVC管(图3c)，将采集的管柱样品密封带回实验室，按比例分别在管柱$0 . 3 7 5 \\mathrm { ~ m ~ } , 0 . 7 5 \\mathrm { ~ m ~ }$ 处切割土壤管柱，共获得 $0 { \\sim } 0 . 3 7 5$ $\\mathrm { ~ m ~ } , 0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m ~ } , 0 . 7 5 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 土壤剖面样品486个。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤 $\\mathrm { \\ p H }$ 的测定为土水比1:2.5,土壤电导率的测定为土水比1:5。采用SPSS26.0软件对土壤表观电导率与土壤 $\\mathrm { \\ p H }$ 数据进行相关性分析，Microsoft",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Excel2019对土壤表观电导率与土壤 $\\mathrm { \\ p H }$ 数据进行线性拟合，利用地统计软件ArcGIS10.7对土壤 $\\mathrm { \\ p H }$ 进行空间分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4模型构建及精度验证 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用全区与分区2种思路构建模型。全区建模是将486个土壤剖面数据按 $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m } _ { \\cdot } 0 . 3 7 5 { \\sim } 0 . 7 5$ $\\mathrm { ~ m ~ } . 0 . 7 5 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 土层分别进行汇总，构建不同土壤剖面的反演模型；分区建模将9块样地土壤样品分别按不同土壤剖面建立单独的反演模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究建模方法为多元线性回归（MultipleLinearRegression，MLR），采用决定系数 $R ^ { 2 }$ 、均方根误差RMSE、相对分析误差RPD来评价模型精度。模型精度评价见文献[18」。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1样本土壤 $\\mathbf { p H }$ 描述性统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$6 . 5 { \\leqslant } \\mathrm { p H } < 7 . 5$ 为中性土壤, $\\mathrm { p H } \\geqslant 7 . 5$ 为碱性土壤[19]。研究区土壤剖面 $\\mathrm { \\ p H }$ 描述性统计特征见表1。由表1可知，在 $0 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 剖面，随土层深度的增加，土壤 $\\mathrm { \\ p H }$ 逐渐增大且研究区土壤多为碱性。对3个土层土壤 $\\mathrm { \\ p H }$ 分别进行分析，土壤 $\\mathrm { \\ p H }$ 最大值为9.09,主要分布于 $0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m }$ 土层；最小值为7.46,分布于 $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m }$ 王层，极值相差1.63个单位。标准差是反映1个数据集离散程度的变量。表1还表明， $0 . 7 5 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 土层土壤 $\\mathrm { \\ p H }$ 离散程度最低， $0 \\sim$ $0 . 3 7 5 \\mathrm { ~ m ~ } . 0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m ~ }$ 王层土壤 $\\mathrm { \\ p H }$ 较 $0 . 7 5 { \\sim } 1 . 0 0 \\mathrm { ~ m }$ 土层离散程度高，表明 $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m } , 0 . 3 7 5 { \\sim } 0 . 7 5 \\ \\mathrm { m }$ 土层土壤 $\\mathrm { \\ p H }$ 存在较大差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/837f18e51e577efeb029aa408899235547840dd075d2a825c4eb7dafaf48357f.jpg",
+        "img_caption": [
+            "图3样点分布示意图",
+            "Fig.3Samples point distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/23e1f854020807d8610ae9a471400c89a14c0fd8d62e5aab33ec1f771dcef97c.jpg",
+        "table_caption": [
+            "Tab.1 Statistical characteristics of soil pH of the soil samples $\\scriptstyle ( n = 4 8 6 )$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层/m</td><td>样本数/个</td><td>最大值</td><td>最小值</td><td>均值</td><td>标准差</td><td>变异系数/%</td></tr><tr><td>0~0.375</td><td>162</td><td>8.71</td><td>7.46</td><td>7.92</td><td>0.31</td><td>3.91</td></tr><tr><td>0.375~0.75</td><td>162</td><td>9.09</td><td>7.74</td><td>8.40</td><td>0.33</td><td>3.93</td></tr><tr><td>0.75~1.0</td><td>162</td><td>9.07</td><td>8.03</td><td>8.60</td><td>0.26</td><td>3.02</td></tr><tr><td>0~1.00</td><td>486</td><td>9.09</td><td>7.46</td><td>8.31</td><td>0.41</td><td>4.93</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合所有样本分析，土壤 $\\mathrm { \\ p H }$ 标准差最大，表明$0 { \\sim } 1 . 0 0 \\mathrm { m }$ 剖面土壤 $\\mathrm { \\ p H }$ 变化较大；不同土层及所有样本变异系数均小于 $10 \\%$ ,表明其变异程度均为低程度变异。对9块样地 $0 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 土层分别进行分析(表2)，土壤 $\\mathrm { \\ p H }$ 最大值为9号样地,最小值为3号样地；就离散程度而言,2号样地最低,9号样地最高；其中,9号样地土壤 $\\mathrm { \\ p H }$ 变异性最强,2号样地变异最弱;经实地调查发现3个样地分别位于棉田高产区（2号）湿地区(3号)及排碱渠环绕区(9号）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 土壤 $\\mathbf { p H }$ 与土壤表观电导率的相关性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对土壤pH与土壤表观电导率进行相关性检验时，需先对土壤表观电导率数据进行可信度分析[20-21]，其可信度结果见表3。由表3可知，在 $P { < } 0 . 0 1$ 条件下，表观电导率 $\\mathrm { E C } _ { \\mathrm { h 0 . 3 7 5 } }$ 和 $\\mathrm { E C } _ { \\mathrm { h 0 . 7 5 } } \\mathrm { , E C } _ { \\mathrm { v 0 . 7 5 } }$ 和 $\\mathrm { E C } _ { \\mathrm { v 1 . 0 } }$ 相关系数分别为0.96、0.92，表明表观电导率数据可信度较高，可用来构建反演模型，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对土壤 $\\mathrm { \\ p H }$ 数据与多模式土壤表观电导率数据进行相关性分析，全区、分区相关系数分别见表3、图4。表3数据表明，3个土层土壤 $\\mathrm { \\ p H }$ 均与土壤表观电导率间存在极显著负相关( $\\stackrel { \\cdot } { P } < 0 . 0 1$ )，其中 $0 \\sim$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbeb4847e9a5525d5910ef0e4ce6c674d46323d3d62c3c29c42e9cebb3d4787d.jpg",
+        "table_caption": [
+            "表1土壤样品pH统计特征 $\\scriptstyle ( n = 4 8 6 )$ ",
+            "表2各样地土壤样品pH统计特征 $\\scriptstyle ( n = 4 8 6 )$ "
+        ],
+        "table_footnote": [
+            "注：1\\~9分别代表9块样地。"
+        ],
+        "table_body": "<html><body><table><tr><td>样地</td><td>样本数</td><td>最大值</td><td>最小值</td><td>均值</td><td>标准差</td><td>变异系数/%</td></tr><tr><td>1</td><td>18</td><td>9.02</td><td>7.96</td><td>8.58</td><td>0.38</td><td>4.43</td></tr><tr><td>2</td><td>18</td><td>8.80</td><td>8.03</td><td>8.47</td><td>0.18</td><td>2.16</td></tr><tr><td>3</td><td>18</td><td>8.72</td><td>7.46</td><td>8.09</td><td>0.39</td><td>4.83</td></tr><tr><td>4</td><td>18</td><td>8.93</td><td>7.55</td><td>8.31</td><td>0.43</td><td>5.20</td></tr><tr><td>5</td><td>18</td><td>8.94</td><td>7.83</td><td>8.43</td><td>0.34</td><td>3.99</td></tr><tr><td>6</td><td>18</td><td>8.59</td><td>7.55</td><td>8.20</td><td>0.32</td><td>3.94</td></tr><tr><td>7</td><td>18</td><td>8.99</td><td>7.89</td><td>8.41</td><td>0.35</td><td>4.17</td></tr><tr><td>8</td><td>18</td><td>8.66</td><td>7.66</td><td>8.29</td><td>0.31</td><td>3.68</td></tr><tr><td>9</td><td>18</td><td>9.09</td><td>7.81</td><td>8.34</td><td>0.48</td><td>5.75</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bbefba0aed2fc2d02c7d5a784825b1e01236452a9617ec2a34e957d6f7254a5.jpg",
+        "table_caption": [
+            "Tab.2 Statistical characteristics of soil pHof the soil samples from each sample area $\\scriptstyle ( n = 4 8 6 )$ ",
+            "表3不同土层土壤pH与土壤表观电导率间的Pearson相关系数",
+            "Tab.3Pearson correlation coefficients between soil pHand soil apparent conductivity in diferent soil layers "
+        ],
+        "table_footnote": [
+            "注： $* *$ 表示相关性显著 $\\cdot P { < } 0 . 0 1$ ） $\\mathrm { p H } _ { 0 . 3 7 5 }$ 表示 $0 { \\sim } 0 . 3 7 5 \\mathrm { m }$ 土层土壤pH; $\\mathrm { p H } _ { 0 . 7 5 }$ 表示 $0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m }$ 土层土壤 $\\mathrm { \\ p H ; p H _ { 1 , 0 } }$ 表示 $0 . 7 5 { \\sim } 1 . 0 \\ \\mathrm { m }$ 土层土壤pH。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>EChb0.375</td><td>ECh0.75</td><td>ECo0.75</td><td>ECv1.0</td><td>pH0.375</td><td>pH0.75</td><td>pH1.0</td></tr><tr><td>ECh0.375</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ECh0.75</td><td>0.96**</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ECv0.75</td><td>0.94**</td><td>0.97**</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>ECv1.0</td><td>0.79**</td><td>0.91**</td><td>0.92**</td><td>1</td><td></td><td></td><td></td></tr><tr><td>pH0.375</td><td>-0.30**</td><td>-0.34**</td><td>-0.28**</td><td>-0.31**</td><td>1</td><td></td><td></td></tr><tr><td>pH0.75</td><td>- 0.44**</td><td>- 0.45**</td><td>- 0.46**</td><td>- 0.45**</td><td>0.50**</td><td>1</td><td></td></tr><tr><td>pH1.0</td><td>- 0.42**</td><td>- 0.42**</td><td>- 0.43**</td><td>- 0.42**</td><td>0.53**</td><td>0.82**</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/678a8be7f40608d3d9603812cdd24bf7eb5cb510dfc5f13ef3e6ebe587ceb5ee.jpg",
+        "img_caption": [
+            "图4各样地不同土层土壤pH与土壤表观电导率间的Pearson相关系数",
+            "Fig.4PearsoncorrelationcoeficientsbetweesoilpHandsoilapparentconductivityindiferentsoillayersineachsamplearea "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$0 . 3 7 5 \\mathrm { m }$ 土层土壤 $\\mathrm { \\ p H }$ 与 $\\mathrm { E C } _ { \\mathrm { h 0 . 7 5 } }$ 相关性最高，相关系数为0.34，表明 $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m }$ 土层土壤 $\\mathrm { \\ p H }$ 与EM38-MK2水平模式存在强相关性；而 $0 . 3 7 5 { \\sim } 0 . 7 5 \\ \\mathrm { m } \\cdot 0 . 7 5 { \\sim } 1 . 0 0$ m土层土壤 $\\mathrm { \\ p H }$ 与 $\\mathrm { E C } _ { \\mathrm { v 0 . 7 5 } }$ 相关性最高，相关系数分别为0.46、0.43，表明 $0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m ~ } , 0 . 7 5 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 土层土壤 $\\mathrm { \\ p H }$ 与EM38-MK2垂直模式存在强相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4表明，各样地土壤 $\\mathrm { \\ p H }$ 与土壤表观电导率相关系数存在显著差异且分区思路相关系数均高于全区。各样地相关系数表明， $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m }$ 土层土壤$\\mathrm { \\ p H }$ 主要贡献来自于 $\\mathrm { E C } _ { \\mathrm { h 0 . 3 7 5 , } } \\mathrm { E C } _ { \\mathrm { h 0 . 7 5 } }$ ,其中 $\\mathrm { E C } _ { \\mathrm { h 0 . 3 7 5 } }$ 贡献最高； $0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m ~ }$ 土层土壤 $\\mathrm { \\ p H }$ 主要贡献来自于$\\mathrm { E C _ { h 0 . 7 5 } \\setminus E C _ { v 0 . 7 5 } ; 0 . 7 5 \\sim 1 . 0 0 ~ m }$ 土层土壤 $\\mathrm { \\ p H }$ 主要贡献来自于 $\\mathrm { E C } _ { \\mathrm { v 0 . 7 5 } } \\mathrm { , E C } _ { \\mathrm { v 1 . 0 } }$ ，这符合EM38-MK2非线性响应函数[16.21-22]。但2、3、9号样地EM38-MK2贡献率与非线性响应函数存在差异，为探究原因，本研究后续以2、3、9号样地作为典型样地对土壤 $\\mathrm { \\ p H }$ 进行研究分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3建模因子的确定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，土壤pH与土壤表观电导率间存在极显著相关关系。以EM38-MK2两种测定模式的土壤表观电导率数据与土壤pH数据建立线性回归模型，建模因子的确定充分考虑EM38-MK2两种测定模式获取的表观电导率数据。根据EM38-MK2非线性响应函数，不同测量模式对土壤深度响应的强烈程度存在差异。本研究建模过程综合EM38-MK2仪器对土层的响应范围，以EM38-MK2获取的4组数据进行建模，具体模型精度见表4。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，模型 $R ^ { 2 }$ 随土层深度增加均表现为先减小后增大。不同土层深度范围，以 $\\mathrm { E C } _ { \\mathrm { h 0 . 3 7 5 } } +$ $\\mathrm { ' } \\mathrm { E C } _ { \\mathrm { h 0 . 7 5 } } + \\mathrm { E C } _ { \\mathrm { v 0 . 7 5 } } ) / 2 + \\mathrm { E C } _ { \\mathrm { v 1 . 0 } }$ 为建模因子，模型 $R ^ { 2 }$ 最高。EM38-MK2非线性响应函数表明， $\\mathrm { E C } _ { \\mathrm { h 0 . 3 7 5 } } 8 5 \\%$ 的信号来自 $6 0 ~ \\mathrm { c m }$ 土层以上[22],本研究反演模型 $R ^ { 2 }$ 最小值均出现在 $0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m ~ }$ 土层，结果符合EM38-MK2的非线性响应函数。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/351f5af4c660527cb0706326d69e352d3c725cdf7513c07d56be41c5779e5646.jpg",
+        "table_caption": [
+            "Tab.4Determinationcoeficients of the model fora soil layers relative to soil depthand modeling factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层/m</td><td colspan=\"6\">建模因子</td></tr><tr><td>ECh0.375</td><td>(ECh0.75+ECv0.75)/2</td><td>ECv1.0</td><td>ECh0.375+(ECh0.75+ECv0.75)/2</td><td>(ECh0.75+ECv0.75)/2+ECv1.0ECh0.375+(ECh0.75+ECv0.75)/2+ECv1.0</td><td></td></tr><tr><td>0~0.375</td><td>0.80</td><td>0.76</td><td>0.72</td><td>0.87</td><td>0.83</td><td>0.88</td></tr><tr><td>0.375~0.75</td><td>0.67</td><td>0.62</td><td>0.56</td><td>0.84</td><td>0.78</td><td>0.84</td></tr><tr><td>0.75~1.00</td><td>0.81</td><td>0.80</td><td>0.79</td><td>0.82</td><td>0.80</td><td>0.84</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4全区模型与分区模型精度对比",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全区模型以9块样地162个土壤剖面数据为总体，按2:1比例划分为建模集与验证集，利用108个数据进行建模，54个数据进行模型验证。分区模型以每个样地18个土壤剖面数据为总体，以2:1比例划分，每个样地取12个数据进行建模，6个数据进行验证。模型精度分别见表5、表6。由表5可知，全区模型建模集与验证集 $R ^ { 2 }$ 、RPD均较低，以本文选取的模型评价标准，全区模型不具备预测能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdbca04cc34996dd3e709a7dca0073ce8a36fe506f854a8eeb0a999e2fed88f6.jpg",
+        "table_caption": [
+            "表5全区模型pH反演模型精度",
+            "Tab.5Global model pH inversion model accuracy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层/m</td><td colspan=\"3\">建模集</td><td colspan=\"3\">验证集</td></tr><tr><td>R</td><td>RMSE</td><td>RPD</td><td>R</td><td>RMSE</td><td>RPD</td></tr><tr><td>0~0.375</td><td>0.21</td><td>0.26</td><td>0.87</td><td>0.13</td><td>0.31</td><td>0.82</td></tr><tr><td>0.375~0.75</td><td>0.38</td><td>0.26</td><td>1.06</td><td>0.33</td><td>0.26</td><td>1.05</td></tr><tr><td>0.75~1.00</td><td>0.29</td><td>0.22</td><td>0.95</td><td>0.21</td><td>0.22</td><td>0.99</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，分区模型 $0 . 7 4 \\leqslant R ^ { 2 } \\leqslant 0 . 9 3 \\setminus 2 . 0 0 \\leqslant$ $\\mathrm { R P D } { \\leqslant } 3 . 5 0 , 0 . 0 1 { \\leqslant } \\mathrm { R M S E } { \\leqslant } 0 . 1 2$ ,均优于全区模型对应值，表明分区模型有较优的预测能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上所述，分区模型精度均优于全区模型，下文对土壤 $\\mathrm { \\ p H }$ 预测及插值均在分区模型基础上完成。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.5不同剖面土壤pH空间分布特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "魏孝荣等23对土壤pH的空间分布进行模拟，研究表明克里格插值可用于土壤pH空间分析。以ArcGIS10.7对9块样地土壤pH进行空间分布模拟。为进一步分析研究区内土壤 $\\mathrm { \\ p H }$ 的变化，分别选取研究区内具代表性2号（棉田高产区）、3号（湿地区）9号(排碱渠环绕区)3块样地对土壤pH进行插值分析，插值结果见图5。图5表明，典型样地土壤pH在水平及垂直尺度变化均较大，且3个土层间土壤pH均表现出随深度增加而变大的趋势。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图5还表明，不同区域棉田土壤pH也具有差异，高产棉田区(2号样地） $0 { \\sim } 1 . 0 0 \\mathrm { ~ m ~ }$ 剖面土壤pH极差相差0.97个单位，为3个样地中最低；高 $\\mathrm { \\ p H }$ 区域主要集中在该样地的东部、北部区域。被排碱渠环绕(9号样地)的棉田土壤pH极差最大，相差1.37个单位。造成该现象的原因可能与排碱渠内盐分的积累与渗透有关，排碱渠为西北-东南走向，渠内积累的盐分通过渗透作用进入土壤，由点向面扩散，使该地块西南部盐渍化程度明显高于东北部，",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/057398857a509e2a7cb38faa7a6016de33fb5a761e75f463436845f951fadf84.jpg",
+        "table_caption": [
+            "表4不同建模因子下各土层的决定系数",
+            "表6不同样地pH反演模型精度",
+            "Tab.6 Different samples pH inversion model accuracy "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td>土层/m</td><td>R</td><td>RMSE</td><td>RPD</td></tr><tr><td>1</td><td>0~0.375</td><td>0.77</td><td>0.03</td><td>2.01</td></tr><tr><td></td><td>0.375~0.75</td><td>0.79</td><td>0.04</td><td>2.17</td></tr><tr><td></td><td>0.75~1.00</td><td>0.87</td><td>0.01</td><td>2.07</td></tr><tr><td>2</td><td>0~0.375</td><td>0.87</td><td>0.04</td><td>2.02</td></tr><tr><td></td><td>0.375~0.75</td><td>0.83</td><td>0.08</td><td>2.07</td></tr><tr><td></td><td>0.75~1.00</td><td>0.82</td><td>0.05</td><td>2.18</td></tr><tr><td>3</td><td>0~0.375</td><td>0.93</td><td>0.04</td><td>3.50</td></tr><tr><td></td><td>0.375~0.75</td><td>0.75</td><td>0.10</td><td>2.00</td></tr><tr><td></td><td>0.75~1.00</td><td>0.84</td><td>0.03</td><td>2.02</td></tr><tr><td>4</td><td>0~0.375</td><td>0.75</td><td>0.12</td><td>2.13</td></tr><tr><td></td><td>0.375~0.75</td><td>0.89</td><td>0.09</td><td>2.94</td></tr><tr><td></td><td>0.75~1.00</td><td>0.90</td><td>0.09</td><td>3.09</td></tr><tr><td>5</td><td>0~0.375</td><td>0.83</td><td>0.08</td><td>2.30</td></tr><tr><td></td><td>0.375~0.75</td><td>0.84</td><td>0.10</td><td>2.29</td></tr><tr><td></td><td>0.75~1.00</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td>0.74</td><td>0.08</td><td>2.11</td></tr><tr><td></td><td>0~0.375</td><td>0.87</td><td>0.12</td><td>2.14</td></tr><tr><td></td><td>0.375~0.75</td><td>0.87</td><td>0.06</td><td>2.06</td></tr><tr><td>7</td><td>0.75~1.00</td><td>0.88</td><td>0.05</td><td>2.25</td></tr><tr><td></td><td>0~0.375</td><td>0.89</td><td>0.04</td><td>2.08</td></tr><tr><td></td><td>0.375~0.75</td><td>0.81</td><td>0.08</td><td>2.13</td></tr><tr><td>8</td><td>0.75~1.00</td><td>0.79</td><td>0.06</td><td>2.08</td></tr><tr><td></td><td>0~0.375</td><td>0.81</td><td>0.08</td><td>2.32</td></tr><tr><td></td><td>0.375~0.75</td><td>0.85</td><td>0.08</td><td>2.50</td></tr><tr><td></td><td>0.75~1.00</td><td>0.90</td><td>0.11</td><td>2.21</td></tr><tr><td>9</td><td>0~0.375</td><td>0.77</td><td>0.08</td><td>2.01</td></tr><tr><td></td><td>0.375~0.75</td><td>0.89</td><td>0.07</td><td>2.03</td></tr><tr><td></td><td>0.75~1.00</td><td>0.89</td><td>0.07</td><td>2.21</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9e39ac00a0841305f5f3bdf1436287a1f9575503fea40d6a24c187f0c1fe3eed.jpg",
+        "img_caption": [
+            "图5代表性样地土壤剖面pH分布",
+            "Fig.5Distribution of typical samples of soil pH in different areas "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "湿地区(3号样地)表层土壤pH均小于7.80,受冬灌影响，土壤盐分大部分积聚在耕作层( $\\mathrm { 4 0 ~ c m } )$ 以下，但水库附近较其他区域地下径流量大，水量丰富，地下水对土壤反复进行淋洗，固相与液相进行质子交换，虽有大量可溶性盐溶于地下水，但深层土壤盐含量还是呈下降趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "综合3块典型样地可以发现， $0 . 3 7 5 { \\sim } 0 . 7 5 \\mathrm { ~ m }$ 土层较 $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { m } , 0 . 7 5 { \\sim } 1 . 0 0 \\ \\mathrm { m }$ 土层，极值相差最大，原因可能与研究区的冬灌有关。土壤盐分经冬灌后，集中分布于 $4 0 \\ \\mathrm { c m }$ 王层以下，3月气温较低，土壤蒸发微弱，盐分向表层迁移的动力不足，导致大部分盐分仍累积在土壤 $4 0 \\ \\mathrm { c m }$ 土层及以下。弋鹏飞等[24]研究发现，使用膜下滴灌技术种植作物，随着种植年限的增加，土壤盐分会持续累积，且累积的盐分易向地表迁移形成盐分表聚。多年累积的土壤盐分表聚改变了表层土壤pH，冬灌后盐分虽淋洗至耕作层以下，但盐分表聚造成表层土壤pH不会随灌溉在短期内发生改变。其次，在 $0 { \\sim } 4 0 ~ \\mathrm { c m }$ 耕作层，作物根系分泌物也会直接影响土壤pH。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过电磁感应技术快速获取了阿拉尔垦区不同区域棉田土壤表观电导率数据，对典型样地土壤剖面pH进行分析。综合模型精度，分区模型表现出更高精度，其原因可能与土壤质地、施肥及棉花枯枝落叶的腐烂分解等因素有关。首先，EM38-MK2测量值反映的是土壤空间范围内游离态电解质的含量[16],单个样地内，土壤各属性指标变化较稳定，获取的表观电导率数据间差异较小，分区模型预测能力高，模型稳定性强；而全区模型为所有样地的组合，受田间管理措施影响，各样地在施肥、灌溉等方面可能存在差异，导致土壤属性变化剧烈，降低了全区模型精度。其次，在进行表观电导率数据获取时，耕地处于未翻耕状态，棉花枯枝落叶覆盖于地表且根系尚存，根系的分泌物质及枯枝落叶腐烂分解在一定程度上影响了土壤 $\\mathrm { \\ p H }$ 的变化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为探究EM38-MK2测定土壤pH的机理，对土壤实测电导率数据与土壤表观电导率数据进行线性拟合，结果表明土壤实测电导率与土壤表观电导率间相关系数高达0.98，且RMSE均低于0.16，RPD为 $2 . 0 1 { \\sim } 7 . 8 6$ 。进一步对土壤 $\\mathrm { \\ p H }$ 与土壤实测电导率进行相关性检验， $0 { \\sim } 0 . 3 7 5 \\ \\mathrm { ~ m ~ } , 0 . 3 7 5 { \\sim } 0 . 7 5 \\ \\mathrm { ~ m ~ } , 0 . 7 5 { \\sim }$ $1 . 0 0 \\mathrm { ~ m ~ }$ 土层深度，土壤 $\\mathrm { \\ p H }$ 与土壤电导率在 $P { < } 0 . 0 1$ 条件下均呈极显著负相关，相关系数介于 $0 . 6 6 \\sim$ 0.95。同时土壤表观电导率、土壤电导率与土壤pH间相关系数变化表现一致。通过建模发现，靠近水库及棉田产量较高的区域，相关系数均表现为较低的值；而土壤盐碱现象较严重及位于垦区北部的棉田土壤,相关系数则表现为高度相关,表明土壤盐碱是影响土壤pH的重要因素之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "“盐效应零点\"观点解释了土壤盐分会影响土壤pH变化[25],该观点认为对于可变电荷土壤而言，存在一个净电荷零点，当土壤处于净电荷零点状态时，土壤pH不受溶液中盐浓度的影响，为盐效应零点。土壤pH越靠近盐效应零点，受盐分影响越小，而一般可变电荷的盐效应零点在 $\\mathrm { p H } 3 . 5 { \\sim } 5 . 0$ ，当pH小于5.0时土壤pH受盐分的影响较小，而垦区土壤$\\mathrm { \\ p H }$ 均在7.5及以上，根据盐效应零点观点，土壤盐分对土壤pH存在很大影响。Miller等[26-27通过大量调查数据发现,对一特定土壤而言，盐浓度越高，pH受盐分浓度的影响越大。此外，本研究还表明，土壤表观电导率与土壤pH间为极显著负相关，而赵长巍[5在吉林省的研究表明，土壤表观电导率与土壤pH为极显著正相关，出现此差异的原因可能与土壤质地及土壤离子类型有关。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究以土壤电导率为媒介，构建了土壤表观电导率与土壤pH间的线性回归模型，实现了对土壤pH的测定。此外，如何有效提高全区模型精度，对EM38-MK2大范围测定土壤pH具有重要意义。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以阿拉尔垦区9块棉田土壤pH为研究目标，利用EM38-MK2大地电导率仪水平与垂直2种测量模式获取了土壤的表观电导率数据，采用全区与分区2种建模方法构建了表观电导率与土壤pH的线性",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "回归模型，所得结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）双尾检验结果表明表观电导率与土壤pH在 $P < 0 . 0 1$ 条件下分区思路相关系数为 $0 . 6 0 { \\sim } 0 . 9 5$ 全区思路相关系数为 $0 . 2 8 \\mathrm { \\sim } 0 . 4 6$ ,均呈极显著负相关，表明EM38-MK2可用于土壤pH的测定。（2）综合EM38-MK2水平和垂直模式获得的数据作为建模因子，可显著提高模型精度。(3）分区模型 $0 . 7 4 \\leqslant R ^ { 2 } \\leqslant 0 . 9 3 , 2 . 0 0 \\leqslant \\mathrm { R P D } \\leqslant 3 . 5 0$ RMSE均较小，精度更高，表明分区模型精度优于全区模型;同时土壤盐分含量较高的样地，模型精度也较高。(4)空间分析结果表明，受冬灌、棉花根系及枯枝落叶的影响，各样地土壤 $\\mathrm { \\ p H }$ 经冬灌后均表现为深层高于表层。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Gardi C, Yigini Y. Continuous mapping of soil $\\mathrm { p H }$ using digital soil mapping approach in Europe[J]. Eurasian Journal of Soil Science,2012,1(2): 64-68.   \n[2]谷晓静.陕西省泾惠渠灌区土壤质量分析与评价[D].西安：长 安大学,2OO9.[Gu Xiaojing.Analysis and Assessment of Soil Quality in Jinghuiqu Irrigation District, Shaanxi Province[D].Xi'an: Chang'an University,2009.]   \n[3]巩杰,陈利顶,傅伯杰,等.黄土丘陵区小流域土地利用和植被 恢复对土壤质量的影响[J].应用生态学报,2004,15(12):2292- 2296.[Gong Jie,Chen Liding,Fu Bojie,et al. Effects of land use and vegetation restoration on soil quality in small catchment of the Loess Plateau[J]. Chinese Journal of Applied Ecology,2004,15 (12): 2292-2296.]   \n[4]高海峰,白军红,王庆改,等.霍林河下游典型洪泛区湿地土壤 pH值和土壤含水量分布特征[J].水土保持研究,2011,18(1): 268-271.[Gao Haifeng,Bai Junhong,Wang Qinggai,et al. Distribution of soil pH values and soil water contents in floodplain wetlands in the lower reach of Huolin River[J].Research of Soil and Water Conservation,2011,18(1): 268-271.]   \n[5]李涛,于蕾,万广华,等.近30年山东省耕地土壤pH值时空变 化特征及影响因素[J].土壤学报,2021,58(1):180-190.[Li Tao, Yu Lei,Wan Guanghua,et al. Spatio-temporal variation of farmland soil pH and associated affecting factors in the past 3O years of Shandong Province,China[J].Acta Pedologica Sinica,2021,58 (1): 180-190.]   \n[6]阿斯古丽·木萨,阿不都拉·阿不力孜,瓦哈甫·哈力克,等.新疆 克里雅绿洲土壤盐分、pH和盐基离子空间异质性分析[J].土 壤,2017,49(5): 1007-1014.[Asigul Musa,Abdulla Abliz,Wahap Halik,et al. Spatial heterogeneity of soil salinity,pH and base cations in Keriya Oasis of Xinjiang[J]. Solis,2017,49(5):1007-1014.]   \n[7]张玲玉,赵学强,沈仁芳.土壤酸化及其生态效应[J].生态学杂 志,2019,38(6): 1900-1908.[Zhang Lingyu, Zhao Xueqiang, Shen Renfang.Soil acidification and its ecological effects[J]. Chinese Journal of Ecology,2019,38(6): 1900-1908.]   \n[8]Sun Y,Guo G,Shi H,et al. Decadal shiftsin soil pHandorganic matter differ between land uses in contrasting regions in China[J]. Science of the Total Environment,2020,740: 139904.   \n[9]郭治兴,王静,柴敏,等.近30年来广东省土壤pH值的时空变 化[J].应用生态学报,2011,22(2): 425-430.[Guo Zhixing,Wang Jing, Chai Min,etal. Spatiotemporal variationof soil pHin Guangdong Province of China in past 3O years[J]. Chinese Journal of Applied Ecology,2011,22(2): 425-430.]   \n[10] 白树彬,裴久渤,李双异,等.30年来辽宁省耕地土壤有机质与 pH时空动态变化[J].土壤通报,2016,47(3):636-644.[Bai Shubin,Pei Jiubo,Li Shuangyi, et al. Temporal and spatial dynamics of soil organic mater and pHin cultivated landofLiaoning Province during the past 3O years[J]. Chinese Journal of Soil Science, 2016,47(3): 636-644.]   \n[11] 王寅,张馨月,高强,等.吉林省农田耕层土壤pH值的时空变化 特征[J].土壤通报,2017,48(2):387-391.[Wang Yin, Zhang Xinyue,Gao Qiang,et al.Temporal and spatial variability of soil pH in the cropland of Jilin Province[J]. Chinese Journal of Soil Science,2017,48(2): 387-391.]   \n[12] 潘永敏,华明,廖启林,等.宜兴地区土壤pH值的分布特征及时 空变化[J].物探与化探,2018,42(4): 825-832.[Pan Yongmin, Hua Ming,Liao Qilin,et al. Distribution properties and time-series comparisons of soil pH-values in Yixing area[J]. Geophysical and Geochemical Exploration, 2018,42(4): 825-832.]   \n[13] 张丽丽,史庆华,巩彪.中、碱性土壤条件下黄腐酸与磷肥配施 对番茄生育和磷素利用率的影响[J].中国农业科学,2020,53 (17):3567-3575.[Zhang Lili, Shi Qinghua, Gong Biao.Applicationoffulvicacidandphosphorus fertilizeron tomato growth,development,and phosphorus utilization in neutral and alkalie soil [J]. Scientia Agricultura Sinica,2020,53(17): 3567-3575.]   \n[14] 蒋志云,李小雁,张志华,等.基于EM38电导率仪土壤水分探 测研究[J].干旱区研究,2015,32(1):48-55.[Jiang Zhiyun, Li Xiaoyan, Zhang Zhihua,et al.EM38 for soil moisture content estimation in the farming-pastoral ecotone in inner mongolia[J].Arid Zone Research,2015,32(1): 48-55.]   \n[15]赵长巍.吉林省西部盐渍土空间变异性与均质化改良研究[D]. 北京：中国科学院大学,2014.[Zhao Changwei.Spatial Variations and Homogenized Reclamation of Sodic Soil of West Jilin Province[D]. Beijing: Northeast Institute of Geography and AgroEcology, CAS, 2014.]   \n[16] 刘新路,彭杰,冯春晖,等.基于电磁感应仪数据的南疆棉田土 壤电导率反演模型研究[J].土壤学报,2020,57(3):646-655. [Liu Xinlu,Peng Jie,Feng Chunhui,et al. Inversion model for soil conductivity in cotton field in South Xinjiang based on EM38- MK2 data[J]. Acta Pedologica Sinica,2020,57(3): 646-655.]   \n[17] 彭杰.荒漠土壤盐渍化遥感监测与开垦方案分析——以空台里 克冲积扇为例[D].杭州:浙江大学,2019.[Peng Jie.Salinization Monitoring and Reclamation Strategy Analysis in Desert Soils using Remote Sensing: A Case Study in the Kongtailike Alluvial Fan [D]. Hangzhou: Zhejiang University, 2019.]   \n[18] Saeys W,Mouazen A M,Ramon H.Potential for onsite and online analysis of pig manure using visible and near infrared reflectance spectroscopy[J]. Biosystems Engineering, 2005,91(4): 393-402.   \n[19] 宋江辉,朱永琪,陈建华,等.基于电磁感应仪的土壤盐渍化剖 面特征解译研究[J].土壤通报,2017,48(3):552-559.[Song Jianghui, Zhu Yongqi, Chen Jianhua,et al.Interpretation of soil profile salinization characteristics based on electromagnetic inductor [J]. Chinese Journal of Soil Science,2017,48(3): 552-559.]   \n[20] 吕真真,杨劲松,刘广明.基于EM38-MK2的滨海土壤电导率 精确解译模型[J].排灌机械工程学报,2014,32(10):894-900. [Lyu Zhenzhen, Yang Jingsong, Liu Guangming. Accurate models of interpreting soil electrical conductivity based on EM38-MK2 [J].Journal of Drainage and Irigation Machinery Engineering, 2014,32(10): 894-900.]   \n[21]Heil K,Schmidhalter U. Comparison of the EM38 and EM38- MK2 electromagnetic induction-based sensors for spatial soil analysis at field scale[J]. Computers and Electronics in Agriculture, 2015,110: 267-280.   \n[22] 李洪义.滨海盐土三维土体电导率空间变异及可视化研究[D]. 杭州:浙江大学,2008.[Li Hongyi. Three Dimensional Variability and Visualization of Soil Electrical Conductity in Coastal Saline Land[D]. Hangzhou: Zhejiang University,2008.]   \n[23] 魏孝荣,邵明安.黄土沟壑区小流域土壤pH值的空间分布及条 件模拟[J].农业工程学报,2009,25(5): 61-67.[Wei Xiaorong, Shao Ming'an.Spatial distribution and conditional simulation of soil pH values insmall watershedof loessial gully region[J]. Transactions of the Chinese Society of Agricultural Engineering,2009, 25(5): 61-67.]   \n[24] 弋鹏飞,虎胆·吐马尔白,吴争光,等.棉田膜下滴灌年限对土壤 盐分累积的影响研究[J].水土保持研究,2010,17(5):118-122. [Yi Pengfei,Hudan Tumaerbai,Wu Zhengguang,et al. Research on soil salt accumulation influence by the years of covered cotton under drip irrigation[J]. Research of Soil and Water Conservation, 2010,17(5): 118-122.]   \n[25] Aitken RL, Moody P W.Interrelations between soil pH measurements in various electrolytes and soil solution pH in Acidic Soils [J]. Soil Research,1991,29(4): 483-491.   \n[26] Miller R O, Kissel D E. Comparison of soil pH methods on soils of North America[J].Soil Science Society of America Journal,2010, 74(1): 310-316.   \n[27]Minasny B, McBratney AB,Brough D M,et al. Models relating soil pH measurementsin waterandcalcium chloride that incorporate electrolyte concentration[J]. European Journal of Soil Science, 2011, 62(5): 728-732. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Soil pH inversion based on electromagnetic induction data in cotton field of southern Xinjiang ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Jiawen'，PENG Jie'，JI Wenjun²，BAI Jianduo'，FENG Chunhui'，LI Hongyi³ (1. College of Plant Science,Tarim University,Alar 8433O0,Xinjiang, China;2. College of Land Science and Technology,China Agricultural University,Beijing 1Ooo83,China；3.Schoolof Tourismand Urban Management, Jiangxi University of Finance and Economics,Nanchang 33oo52, Jiangxi, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil salinity aggregation will change soil acidity or alkalinity.As an important land resource reserve area in China,soil salinization and secondary salinization problems are frequent in Xinjiang，Therefore, accurately obtaining soil salinity information and effectively improving soil salinity is beneficial to regulating the contradiction between agricultural irigation and freshwater resources.Such regulation is of considerable important to the sustainable development of agricultural production and ecological environment. In this study, the soil pH value of coton fields in Alar Reclamation Area,southern Xinjiang,was taken as the research object,and the EM38-MK2 geodetic conductivity meter was used on the basis of electromagnetic induction technology to obtain soil apparent conductivity data of nine coton fields in the Reclamation Area.In each coton field,soil apparent conductivity thresholds were collcted in accordance with cotton fields of 0-0.375, 0.375-0.75, $0 . 7 5 \\mathrm { - } 1 . 0 0 \\mathrm { ~ m ~ }$ depth,54 profile samples were collected from three soil layers,and 486 soil profile samples were collected from nine cotton fields.The linear regression model between soil $\\mathfrak { p H }$ and soil apparent conductivity was constructed using two ideas ofthe global and diferent regions and combined with geostatistical software to quantify in cotton fields in the Reclamation Area.The two-tailed test results revealed that the correlationcoeffcients between apparent conductivity and soil $\\mathfrak { p H }$ were $0 . 6 0 \\mathrm { - } 0 . 9 5$ for the idea of different regions under the condition of $P < 0 . 0 1$ ; while those for the global regions were 0.28-0.46.Both findings were highly significant negative corelations,indicating that $\\mathrm { E M } 3 8 – \\mathrm { M K } 2$ could be used for the determination of soil pH. Linear regresson models between apparent conductivity data and soil $\\mathsf { p H }$ were constructed using the global region and different regions. The zonal models $0 . 7 4 \\leqslant R ^ { 2 } \\leqslant ~ 0 . 9 3$ and $2 . 0 0 \\leqslant \\mathrm { R P D } \\leqslant 3 . 5 0$ ，which have smaller RMSE, showed high accuracy, indicating that the accuracy of the diferent region model is beter than that ofthe global region models.Meanwhile,the accuracy of the soil $\\mathsf { p H }$ inversion model is also higher in areas with higher salinity. The Kriging interpolation results showed that the soil $\\mathsf { p H }$ in the dep layer of cotton fields in the Reclamation Area was higher than that in the surface layer due to the influence of winter irigation,cotton root system and cotton dead leaves.This study aims to provide ideas for the rapid determination of soil $\\mathfrak { p H }$ . Therefore,soil acid- base risk prediction can be accurate,and effective risk countermeasures can be formulated rationally. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil $\\mathfrak { p H }$ ；soil apparent conductivity； inversion model;； cotton fields； the spatial distribution; south-ern Xinjiang",
+        "page_idx": 9
+    }
+]

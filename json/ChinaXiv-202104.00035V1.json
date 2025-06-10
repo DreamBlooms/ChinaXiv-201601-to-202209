@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "中国西部河谷型城市土壤与灰尘粒级组分分布特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高瑜1,2, 李小平1,2 张钰超1,2 曹瑜函1,2李 涛，杨涛，王利(1.陕西师范大学环境科学系，陕西 西安710062；2.陕西省污染暴露与生态环境健康国际联合研究中心，陕西 西安710062)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过采集兰州市和延安市主城区的土壤灰尘样品，测量了其粒径组成，界定了土壤和灰尘不同粒径的空间分布，分析了环境影响。结果表明：兰州市和延安市城市土壤灰尘粒径组成有明显的分布特征，主要集中在小于 $1 0 0 ~ { \\mu \\mathrm { m } }$ 的部分，整体粒径分布情况为：粉黏粒( $< 5 0 ~ \\mu \\mathrm { m } ) >$ 极细砂（2 $( 5 0 { \\sim } 1 0 0 \\mu \\mathrm { m } )$ >细砂 $( 1 0 0 { \\sim } 2 5 0 \\mu \\mathrm { m } ) >$ 中砂 $( 2 5 0 { \\sim } 5 0 0 \\mu \\mathrm { m } ) { \\asymp }$ 粗砂 $( 5 0 0 { \\sim } 1 0 0 0 \\mu \\mathrm { m } )$ 。其中兰州市小于 $1 0 0 \\mu \\mathrm { m }$ 灰尘颗粒物粒径所占比例（ $( 6 9 . 1 7 \\%$ )大于延安市 $( 5 3 . 4 9 \\%$ )，极易在外动力条件下再次扬起成为扬尘污染的潜在污染源。从2个城市土壤和灰尘 ${ \\bf \\mathrm { < P M _ { 1 0 } } }$ 粒径组分空间分布特征来看，同粒度的上风向城市土壤是同粒度下风向的城市灰尘的潜在来源，工业活动对土壤小粒径组分的影响可能更大，频繁的人类活动对灰尘小粒径组分的影响可能更大。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键词：土壤灰尘；粒径分布；环境效应；兰州市；延安市",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城市土壤是指在城区或郊区受人为活动影响的土壤[1]。土壤粒径分布是指不同粒级的土粒混合在一起表现出的土壤粗细状况。土壤粒径影响土壤的肥力状况、水力特征以及土壤侵蚀等，能够有效的指示环境及其变化[2-3]。城市灰尘是指分散于城市各个位置的非透水表面固体颗粒物，粒径一般小于 $0 . 9 2 0 \\mathrm { m m } ^ { [ 4 ] }$ 。与城市土壤和大气颗粒物相比，城市灰尘的物质组成和来源更为复杂，在工业生产、交通运输和城市建设等人类活动的强烈干扰影响下，城市灰尘成为城市环境污染的重要来源和指示器[2.5-6]。国外城市土壤研究起步于20世纪80年代，刚开始主要研究土壤的分类、理化性质，现在主要集中于土壤污染风险评估和土壤修复技术等[7-1]。我国城市土壤研究起步晚，已有的研究大都集中于城市土壤污染方面，缺乏对城市土壤基本性质与形成演化规律较为系统的研究，和城市土壤基础信息的观测和积累[12-14]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "城市土壤和灰尘颗粒物中的小颗粒会在风力的影响下受到侵蚀进入大气，而大气中的颗粒物是人类呼吸系统疾病的主要致病因子[15-16]。某些可溶性离子可以吸附在颗粒物质表面而进入人体呼吸道内，从而导致居民呼吸系统疾病(例如尘肺)的高发性[17-18]。一些有毒有害的重金属也容易富集在土壤表层中[19]。有研究表明,城市灰尘中污染物的含量随着其粒径的减小而增大[20-22]。兰州市和延安市都属于西北地区河谷型城市，是西北地区重要的石油化学工业和能源城市，且沙尘天气频繁[23],土壤和灰尘中的细颗粒易进人大气造成灰霾污染，但目前对该地区城市土壤灰尘粒径特征等基础数据的研究还有不足。鉴于此，课题组对兰州市和延安市市区土壤灰尘进行了系统的采集，分析了其粒径组成分布特征和环境意义。以期为城市环境保护与城市规划等提供科学理论数据和依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区域在我国的地理位置如图1所示。兰州市地处甘肃省中部，是中国陆地版图的几何中心，也是我国西北部重要的工业城市[24]。兰州市具有独特的河谷盆地地貌特征，其高频率逆温与静风条件不利于污染物的扩散，易造成严重的大气污染[25]。延安市位于陕西省北部，陕北高原南半部，属高原大陆性季风气候，北部属半干旱地区，南部属半湿润地区。延安市建成区在三条主要的河谷川道中形成和发展,因为受河谷地形的限制，城市一直呈\"Y”字形格局[26]。本文主要的研究区域是兰州市和延安市的主城区。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品的采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据河谷型地貌地形分布特征，结合野外调查的基础，依据中华人民共和国环境保护行业标准土壤环境监测技术规范(HJ/T166-2004)，结合城市道路走向进行多密度布点采样。在每个采样点先扫除碎石，植物根系等杂物，后采取3\\~5个土壤样品，采集受人类影响较大的深度为 $0 { \\sim } 2 0 ~ \\mathrm { c m }$ 表层土壤,并用四分法进行混合组成一个分析样品[27]。城市灰尘的样品采集主要是利用毛刷收集离地面 $1 . 0 \\sim$ $1 . 5 \\mathrm { m }$ 的窗台及水泥台上的降尘。每个分析样品重约 $2 0 0 { \\sim } 5 0 0 ~ \\mathrm { g }$ ,密封在贴好标签标记的聚乙烯塑料样品袋。在样品采集时利用GPS对采样点进行定位并记录。按照上述采样方法和原则，采集土壤分析样品、城市灰尘分析样品。其中兰州市土壤灰尘样品各99个，采样点分布如图2所示；延安市土壤灰尘样品各38个，采样点分布如图3所示",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5b37155c472cdb22f97cb226f82fd2e27891b2031f5c82702f68a95a97240a0.jpg",
+        "img_caption": [
+            "图1研究区域示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad04fc57dd9f4de4e88acc9a525a0c2a0f05878008db0ceb80a34faf25ae7e4c.jpg",
+        "img_caption": [
+            "Fig.1Geographical location of the research area ",
+            "图2兰州市采样点分布图",
+            "Fig.2 Sampling sites ofLanzhou City "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品的处理与测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将样品放置实验室自然风干后过 $2 \\mathrm { m m }$ 网筛，其中土壤过筛前需研磨，去除影响测定的杂物。取样品约 ${ 1 \\mathrm { g } }$ 放入英国的mastersizer2000激光粒度分析仪中，先用超声波分散 $3 0 ~ \\mathrm { s }$ ，然后进行土壤颗粒体积分数曲线的测定。每个土样重复测量3次，取平均值。按照美国制土壤粒级划分标准， $< 5 0 ~ \\mu \\mathrm { m }$ 为粉黏粒,$5 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m }$ 属于极细砂， $1 0 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m }$ 为细沙， $2 5 0 \\sim$ $5 0 0 \\mu \\mathrm { m }$ 为中砂， ${ . 5 0 0 } { \\sim } 1 0 0 0 \\mu \\mathrm { m }$ 属于粗砂[28]。粒度组成可以反映城市土壤灰尘不同粒径组分的相对含量[29]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1兰州市城市土壤粒径及分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "就地区进行分析，采样点分布在4个区域，分别为城关区（1\\~32号，35\\~48号），七里河区(33号，34号，49\\~63号，65\\~67号，81\\~82号），西固区（64号，83\\~99号)和安宁区(68\\~80号）。兰州市不同区域市土壤粒径组成及数据分析见表1。从表中可以看出4个城区的城市土壤粒径分布有所差异，但总体趋势相似。其中第一众数为 $1 0 { \\sim } 5 0 ~ \\mu \\mathrm { m }$ ,占样品组成的 $3 6 . 4 \\% { \\sim } 4 1 . 2 2 \\%$ ;第二众数为 $5 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m }$ ，占样品组成的 $1 8 . 8 4 \\% { \\sim } 2 0 . 8 2 \\%$ ;第三众数为 $1 0 0 { \\sim } 2 5 0 \\mu \\mathrm { m }$ ，占样品组成的 $1 1 . 0 6 \\% { \\sim } 1 3 . 7 5 \\%$ 。整体粒径质量分数分布情况：粉黏粒 $>$ 极细砂>细砂>中砂>粗中砂。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2延安市城市土壤粒径及分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "把所采样的地点划分为4个区域，分别为西北方向（1\\~7号和11\\~14号），城南方向（20\\~26号），城中区(8\\~10号，15\\~19号，27\\~29号），东北方向（ $3 0 \\sim$ 38号)。延安市不同区域城市土壤粒径组成及数据分析见表2。从表2可以看出4个区域粒度分布基本相同。其中第一众数为 $1 0 { \\sim } 5 0 ~ \\mu \\mathrm { m }$ ，占样品组成的$3 3 . 7 5 \\% { \\sim } 4 0 . 6 4 \\%$ ;第二众数为 $5 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m }$ ,占样品组",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/561937b73380a80d22f0b8d70cb4a417869e2f870b07920a99854f759bc163e5.jpg",
+        "img_caption": [
+            "图3延安市采样点分布图",
+            "Fig.3Sampling sites of Yan'an City "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1兰州市土壤粒径组成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9abb378e91825fc034922551f877d1c07e573a509c45ea6c8bf387c47a580b5.jpg",
+        "table_caption": [
+            "Tab.1 Grain particle size distribution of urban soil of Lanzhou City ",
+            "表2延安市城市土壤粒径分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td rowspan=\"2\">参数</td><td colspan=\"10\">粒级划分/μm</td></tr><tr><td>0.1~1</td><td>1~2.5</td><td>2.5~5</td><td>5~10</td><td>10~50</td><td>50~100</td><td>100~250</td><td>250~500</td><td>500~800</td><td>800~1000</td><td>1000~2000</td></tr><tr><td>城关区</td><td>占比/%</td><td>1.83</td><td>2.75</td><td>3.46</td><td>5.78</td><td>36.40</td><td>18.84</td><td>13.75</td><td>10.39</td><td>4.94</td><td>1.06</td><td>0.80</td></tr><tr><td></td><td>变异系数/%</td><td>35.90</td><td>37.82</td><td>37.05</td><td>37.14</td><td>29.69</td><td>23.48</td><td>41.11</td><td>65.47</td><td>93.31</td><td>163.84</td><td>274.44</td></tr><tr><td></td><td>极差/μm</td><td>2.95</td><td>4.73</td><td>5.60</td><td>9.46</td><td>44.31</td><td>19.98</td><td>25.90</td><td>27.67</td><td>19.15</td><td>6.93</td><td>12.71</td></tr><tr><td></td><td>标准差/μm</td><td>0.66</td><td>1.04</td><td>1.28</td><td>2.15</td><td>10.81</td><td>4.42</td><td>5.65</td><td>6.80</td><td>4.61</td><td>1.74</td><td>2.21</td></tr><tr><td>七里河区</td><td>占比/%</td><td>2.01</td><td>2.96</td><td>3.66</td><td>6.02</td><td>40.12</td><td>20.04</td><td>11.06</td><td>8.59</td><td>4.29</td><td>0.81</td><td>0.43</td></tr><tr><td></td><td>变异系数/%</td><td>34.36</td><td>33.93</td><td>31.03</td><td>29.11</td><td>27.57</td><td>22.12</td><td>50.15</td><td>88.35</td><td>116.63</td><td>185.48</td><td>261.16</td></tr><tr><td></td><td>极差/μm</td><td>2.61</td><td>3.86</td><td>4.32</td><td>6.52</td><td>39.29</td><td>18.33</td><td>20.70</td><td>28.49</td><td>20.26</td><td>6.28</td><td>4.88</td></tr><tr><td>西固区</td><td>标准差/μm</td><td>0.69</td><td>1.01</td><td>1.14</td><td>1.75</td><td>11.06</td><td>4.43</td><td>5.55</td><td>7.59</td><td>5.00</td><td>1.51</td><td>1.12</td></tr><tr><td></td><td>占比/%</td><td>2.04</td><td>3.01</td><td>3.78</td><td>6.25</td><td>41.22</td><td>20.82</td><td>11.63</td><td>7.01</td><td>3.05</td><td>0.61</td><td>0.59</td></tr><tr><td></td><td>变异系数/%</td><td>26.43</td><td>27.70</td><td>26.71</td><td>26.26</td><td>22.51</td><td>18.10</td><td>36.56</td><td>68.09</td><td>131.40</td><td>253.30</td><td>274.25</td></tr><tr><td></td><td>极差/μm</td><td>2.18</td><td>3.74</td><td>4.40</td><td>6.62</td><td>32.03</td><td>12.85</td><td>16.08</td><td>18.39</td><td>14.20</td><td>4.90</td><td>5.42</td></tr><tr><td></td><td>标准差/μm</td><td>0.54</td><td>0.83</td><td>1.01</td><td>1.64</td><td>9.28</td><td>3.77</td><td>4.25</td><td>4.77</td><td>4.01</td><td>1.56</td><td>1.61</td></tr><tr><td>安宁区</td><td>占比/%</td><td>2.11</td><td>3.30</td><td>4.12</td><td>6.76</td><td>40.26</td><td>19.86</td><td>12.61</td><td>7.31</td><td>2.87</td><td>0.50</td><td>0.29</td></tr><tr><td></td><td>变异系数/%</td><td>25.73</td><td>27.88</td><td>27.14</td><td>26.06</td><td>18.30</td><td>13.72</td><td>34.68</td><td>58.38</td><td>105.97</td><td>205.58</td><td>289.49</td></tr><tr><td></td><td>极差/μm</td><td>1.61</td><td>2.92</td><td>3.71</td><td>6.06</td><td>23.00</td><td>8.99</td><td>15.35</td><td>13.73</td><td>10.91</td><td>3.72</td><td>3.16</td></tr><tr><td></td><td>标准差/μm</td><td>0.54</td><td>0.92</td><td>1.12</td><td>1.76</td><td>7.37</td><td>2.72</td><td>4.37</td><td>4.27</td><td>3.04</td><td>1.03</td><td>0.84</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e2a07e8b48700dbe16c030f7ab437adc3398eca6a5d58d7e8b047a8e0cb2c4a.jpg",
+        "table_caption": [
+            "Tab.2 Grain particle size distribution of urban soil of Yan'an City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td rowspan=\"2\">参数</td><td colspan=\"10\">粒级划分/μm</td></tr><tr><td>0.1~1</td><td>1~2.5</td><td>2.5~5</td><td>5~10</td><td>10~50</td><td>50~100</td><td>100~250</td><td>250~500</td><td>500~800</td><td>800~1000</td><td>1000~2000</td></tr><tr><td>西北</td><td>占比/%</td><td>1.85</td><td>2.80</td><td>3.49</td><td>5.53</td><td>36.66</td><td>20.01</td><td>9.16</td><td>10.70</td><td>6.93</td><td>1.73</td><td>1.14</td></tr><tr><td></td><td>变异系数/%</td><td>30.69</td><td>34.96</td><td>33.28</td><td>28.49</td><td>19.35</td><td>24.24</td><td>41.61</td><td>49.14</td><td>67.63</td><td>97.73</td><td>116.53</td></tr><tr><td></td><td>极差/μm</td><td>1.74</td><td>3.14</td><td>3.85</td><td>5.12</td><td>19.22</td><td>13.50</td><td>14.06</td><td>15.99</td><td>14.80</td><td>5.19</td><td>3.61</td></tr><tr><td></td><td>标准差/μm</td><td>0.57</td><td>0.98</td><td>1.16</td><td>1.58</td><td>7.09</td><td>4.85</td><td>3.81</td><td>5.26</td><td>4.69</td><td>1.69</td><td>1.33</td></tr><tr><td>城南</td><td>占比/%</td><td>2.18</td><td>3.55</td><td>4.41</td><td>6.96</td><td>40.04</td><td>18.59</td><td>8.04</td><td>9.39</td><td>5.31</td><td>0.97</td><td>0.56</td></tr><tr><td></td><td>变异系数/%</td><td>27.44</td><td>33.96</td><td>28.62</td><td>21.25</td><td>13.97</td><td>16.11</td><td>29.51</td><td>46.23</td><td>57.95</td><td>111.73</td><td>146.30</td></tr><tr><td></td><td>极差/μm</td><td>2.02</td><td>4.02</td><td>4.23</td><td>4.98</td><td>17.22</td><td>9.74</td><td>7.30</td><td>14.08</td><td>9.78</td><td>3.12</td><td>2.25</td></tr><tr><td></td><td>标准差/μm</td><td>0.60</td><td>1.20</td><td>1.26</td><td>1.48</td><td>5.59</td><td>3.00</td><td>2.37</td><td>4.34</td><td>3.08</td><td>1.08</td><td>0.82</td></tr><tr><td>城中</td><td>占比/%</td><td>1.63</td><td>2.61</td><td>3.31</td><td>5.30</td><td>33.75</td><td>17.42</td><td>9.76</td><td>14.39</td><td>8.77</td><td>2.03</td><td>1.03</td></tr><tr><td></td><td>变异系数/%</td><td>47.23</td><td>48.47</td><td>48.50</td><td>45.18</td><td>36.71</td><td>31.32</td><td>30.59</td><td>74.97</td><td>89.43</td><td>109.40</td><td>129.98</td></tr><tr><td></td><td>极差/μm</td><td>2.59</td><td>4.10</td><td>5.18</td><td>7.56</td><td>39.89</td><td>17.40</td><td>7.59</td><td>33.05</td><td>21.73</td><td>6.38</td><td>3.83</td></tr><tr><td></td><td>标准差/μm</td><td>0.77</td><td>1.26</td><td>1.60</td><td>2.39</td><td>12.39</td><td>5.46</td><td>2.99</td><td>10.79</td><td>7.84</td><td>2.22</td><td>1.34</td></tr><tr><td>东北</td><td>占比/%</td><td>2.10</td><td>3.08</td><td>3.87</td><td>6.55</td><td>40.64</td><td>19.28</td><td>8.79</td><td>9.68</td><td>5.04</td><td>0.80</td><td>0.17</td></tr><tr><td></td><td>变异系数/%</td><td>33.46</td><td>33.41</td><td>30.87</td><td>28.84</td><td>19.97</td><td>16.91</td><td>38.30</td><td>69.45</td><td>74.77</td><td>123.45</td><td>195.55</td></tr><tr><td></td><td>极差/μm</td><td>2.44</td><td>3.32</td><td>3.77</td><td>5.92</td><td>27.45</td><td>11.86</td><td>10.56</td><td>22.81</td><td>12.46</td><td>3.24</td><td>1.10</td></tr><tr><td></td><td>标准差/μm</td><td>0.70</td><td>1.03</td><td>1.20</td><td>1.89</td><td>8.11</td><td>3.26</td><td>3.36</td><td>6.72</td><td>3.77</td><td>0.99</td><td>0.34</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "成的 $1 7 . 4 2 \\% { \\sim } 2 0 . 0 1 \\%$ ;第三众数为 $2 5 0 { \\sim } 5 0 0 ~ { \\mu } \\mathrm { m }$ ，占样品组成的 $9 . 3 9 \\% \\sim 1 4 . 3 9 \\%$ 。整体粒径的分布情况为：粉黏粒 $>$ 极细砂 $\\mathrm { > }$ 细砂 $>$ 中砂 $\\mathrm { > }$ 粗中砂。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3兰州市城市灰尘粒径及分布特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "兰州市不同区域城市灰尘粒径组成及数据分析见表3。从表中可以看出4个城区粒度分布都主要集中在 $1 0 { \\sim } 5 0 ~ \\mu \\mathrm { m }$ 之间。其中第一众数为10\\~50$\\mu \\mathrm { m }$ ，占样品组成的 $3 1 . 6 7 \\% \\sim 4 0 . 3 2 \\%$ ;第二众数为 $5 0 \\sim$ $1 0 0 \\mu \\mathrm { m }$ ,占样品组成的 $2 2 . 6 8 \\% { \\sim } 2 5 . 3 6 \\%$ ;第三众数为$1 0 0 { \\sim } 2 5 0 \\mu \\mathrm { m }$ ,占样品组成的 $1 5 . 5 2 \\% { \\sim } 2 2 . 1 5 \\%$ 。整体粒径分布情况为：粉黏粒 ${ \\bf > }$ 极细砂 $\\mathrm { > }$ 细砂 $\\gtrdot$ 中砂 $\\mathrm { > }$ 粗中砂。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4延安市城市灰尘粒径及分布特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "兰州市不同区域城市灰尘粒径组成及数据分析见表4。从表4可以看出4个区域粒度分布基本相同,主要集中在 $1 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m }$ 。其中第一众数为 $1 0 \\sim$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$5 0 ~ \\mu \\mathrm { m }$ ，占样品组成的 $2 1 . 5 5 \\% { \\sim } 2 5 . 3 4 \\%$ ;第二众数为$5 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m }$ ，占样品组成的 $2 0 . 8 4 \\% { \\sim } 2 4 . 5 9 \\%$ ;第三众数为 $1 0 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m }$ ，占样品组成的 $2 3 . 5 2 \\% { \\sim } 2 6 . 0 8 \\%$ ○整体粒径分布情况为：粉黏粒 $>$ 极细砂 $>$ 细砂 $>$ 中砂>粗中砂。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/687eda87338161ed8858b14ced819d89ee933850ea999c1547495f922ca92f06.jpg",
+        "table_caption": [
+            "Tab.3 Grain particle size distribution of urban dust of Lanzhou City ",
+            "表4延安市城市灰尘粒径分布"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td rowspan=\"2\">参数</td><td colspan=\"10\">粒级划分/μm</td></tr><tr><td>0.1~1</td><td>1~2.5</td><td>2.5~5</td><td>5~10</td><td>10~50</td><td>50~100</td><td>100~250</td><td>250~500</td><td>500~800</td><td>800~1000</td><td>1000~2000</td></tr><tr><td>城关区</td><td>占比/%</td><td>1.69</td><td>2.29</td><td>2.60</td><td>3.65</td><td>35.41</td><td>22.68</td><td>19.65</td><td>10.51</td><td>1.52</td><td>0.01</td><td>0.00</td></tr><tr><td></td><td>变异系数/%</td><td>29.09</td><td>28.19</td><td>28.73</td><td>30.94</td><td>28.05</td><td>17.37</td><td>36.34</td><td>45.20</td><td>66.07</td><td>623.34</td><td>0.00</td></tr><tr><td></td><td>极差/μm</td><td>2.59</td><td>3.60</td><td>3.70</td><td>4.48</td><td>49.63</td><td>17.72</td><td>32.35</td><td>21.45</td><td>4.72</td><td>0.29</td><td>0.18</td></tr><tr><td></td><td>标准差/μm</td><td>0.49</td><td>0.64</td><td>0.75</td><td>1.13</td><td>9.93</td><td>3.94</td><td>7.14</td><td>4.75</td><td>1.01</td><td>0.04</td><td>0.03</td></tr><tr><td>七里河区</td><td>占比/%</td><td>1.61</td><td>2.12</td><td>2.37</td><td>3.27</td><td>36.16</td><td>23.19</td><td>18.43</td><td>11.10</td><td>1.74</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>变异系数/%</td><td>31.75</td><td>31.31</td><td>30.64</td><td>31.87</td><td>28.93</td><td>21.89</td><td>42.43</td><td>58.42</td><td>65.59</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>极差/μm</td><td>2.22</td><td>2.60</td><td>2.90</td><td>4.47</td><td>44.75</td><td>16.71</td><td>30.79</td><td>23.62</td><td>4.26</td><td>0.01</td><td>0.00</td></tr><tr><td></td><td>标准差/μm</td><td>0.51</td><td>0.66</td><td>0.73</td><td>1.04</td><td>10.46</td><td>5.08</td><td>7.82</td><td>6.49</td><td>1.14</td><td>0.00</td><td>0.00</td></tr><tr><td>西固区</td><td>占比/%</td><td>1.73</td><td>2.11</td><td>2.39</td><td>3.29</td><td>40.32</td><td>25.36</td><td>15.52</td><td>7.99</td><td>1.23</td><td>0.03</td><td>0.04</td></tr><tr><td></td><td>变异系数/%</td><td>16.41</td><td>17.75</td><td>20.13</td><td>25.22</td><td>17.46</td><td>9.96</td><td>31.52</td><td>30.48</td><td>42.88</td><td>411.38</td><td>412.31</td></tr><tr><td></td><td>极差/μm</td><td>2.27</td><td>2.88</td><td>3.39</td><td>5.45</td><td>52.62</td><td>29.35</td><td>23.50</td><td>12.38</td><td>2.26</td><td>0.47</td><td>0.78</td></tr><tr><td></td><td>标准差/μm</td><td>0.28</td><td>0.37</td><td>0.48</td><td>0.83</td><td>7.04</td><td>2.53</td><td>4.89</td><td>2.44</td><td>0.53</td><td>0.11</td><td>0.18</td></tr><tr><td>安宁区</td><td>占比/%</td><td>1.42</td><td>1.92</td><td>2.19</td><td>3.06</td><td>31.67</td><td>24.18</td><td>22.15</td><td>11.63</td><td>1.78</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>变异系数/%</td><td>28.90</td><td>26.77</td><td>25.80</td><td>26.10</td><td>26.14</td><td>15.28</td><td>30.41</td><td>49.39</td><td>66.56</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>极差/μm</td><td>1.44</td><td>1.75</td><td>1.87</td><td>2.56</td><td>27.91</td><td>12.08</td><td>24.81</td><td>18.34</td><td>4.40</td><td>0.00</td><td>0.00</td></tr><tr><td></td><td>标准差/μm</td><td>0.41</td><td>0.51</td><td>0.56</td><td>0.80</td><td>8.28</td><td>3.69</td><td>6.74</td><td>5.74</td><td>1.19</td><td>0.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c20bf9c1e5179ba45a5060b80a0b27c3a8dfc2d4083f73590ac626d6168b507.jpg",
+        "table_caption": [
+            "表3兰州市城市灰尘粒径分布",
+            "Tab.4 Grain particle size distribution of urban dust of Yan'an City "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td rowspan=\"2\">参数</td><td colspan=\"10\">粒级划分/μm</td></tr><tr><td>0.1~1</td><td>1~2.5</td><td>2.5~5</td><td>5~10</td><td>10~50</td><td>50~100</td><td>100~250</td><td>250~500</td><td>500~800 800~1000 1000~2000</td><td></td><td></td></tr><tr><td rowspan=\"4\">西北</td><td>占比/%</td><td>1.27</td><td>1.78</td><td>1.87</td><td>2.61</td><td>24.71</td><td>24.59</td><td>23.52</td><td>16.48</td><td>3.18</td><td>0.00</td><td>0.00</td></tr><tr><td>变异系数/%</td><td>25.77</td><td>19.59</td><td>21.22</td><td>22.27</td><td>32.86</td><td>25.33</td><td>29.54</td><td>43.89</td><td>48.24</td><td>0.00</td><td>0.00</td></tr><tr><td>极差/μm</td><td>0.96</td><td>1.08</td><td>1.32</td><td>1.94</td><td>23.44</td><td>21.51</td><td>20.28</td><td>24.80</td><td>5.51</td><td>0.01</td><td>0.00</td></tr><tr><td>标准差/μm</td><td>0.33</td><td>0.35</td><td>0.40</td><td>0.58</td><td>8.12</td><td>6.23</td><td>6.95</td><td>7.23</td><td>1.53</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"4\">城南</td><td>占比/%</td><td>1.12</td><td>1.59</td><td>1.66</td><td>2.29</td><td>21.55</td><td>20.84</td><td>26.08</td><td>20.95</td><td>3.92</td><td>0.00</td><td>0.00</td></tr><tr><td>变异系数/%</td><td>30.64</td><td>29.81</td><td>30.11</td><td>25.73</td><td>28.73</td><td>26.40</td><td>19.09</td><td>29.88</td><td>33.83</td><td>0.00</td><td>0.00</td></tr><tr><td>极差/μm</td><td>1.14</td><td>1.53</td><td>1.61</td><td>1.85</td><td>20.28</td><td>16.40</td><td>14.50</td><td>17.52</td><td>3.63</td><td>0.00</td><td>0.00</td></tr><tr><td>标准差/μm</td><td>0.34</td><td>0.47</td><td>0.50</td><td>0.59</td><td>6.19</td><td>5.50</td><td>4.98</td><td>6.26</td><td>1.33</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"4\">城中</td><td>占比/%</td><td>1.23</td><td>1.69</td><td>1.75</td><td>2.46</td><td>25.34</td><td>23.56</td><td>23.74</td><td>17.07</td><td>3.15</td><td>0.00</td><td>0.00</td></tr><tr><td>变异系数/%</td><td>34.10</td><td>21.94</td><td>21.53</td><td>20.80</td><td>48.26</td><td>31.70</td><td>36.94</td><td>55.52</td><td>58.24</td><td>0.00</td><td>0.00</td></tr><tr><td>极差/μm</td><td>1.62</td><td>1.35</td><td>1.33</td><td>1.85</td><td>45.12</td><td>22.99</td><td>32.03</td><td>30.85</td><td>6.91</td><td>0.00</td><td>0.00</td></tr><tr><td>标准差/μm</td><td>0.42</td><td>0.37</td><td>0.38</td><td>0.51</td><td>12.23</td><td>7.47</td><td>8.77</td><td>9.48</td><td>1.84</td><td>0.00</td><td>0.00</td></tr><tr><td rowspan=\"4\">东北</td><td>占比/%</td><td>1.18</td><td>1.70</td><td>1.77</td><td>2.46</td><td>23.03</td><td>21.92</td><td>23.98</td><td>19.81</td><td>4.15</td><td>0.00</td><td>0.00</td></tr><tr><td>变异系数/%</td><td>45.11</td><td>39.63</td><td>40.85</td><td>36.63</td><td>45.39</td><td>22.36</td><td>29.79</td><td>44.42</td><td>53.36</td><td>0.00</td><td>0.00</td></tr><tr><td>极差/μm</td><td>1.92</td><td>2.25</td><td>2.36</td><td>2.87</td><td>38.10</td><td>16.96</td><td>25.79</td><td>33.16</td><td>8.48</td><td>0.01</td><td>0.00</td></tr><tr><td>标准差/μm</td><td>0.53</td><td>0.67</td><td>0.72</td><td>0.90</td><td>10.46</td><td>4.90</td><td>7.14</td><td>8.80</td><td>2.21</td><td>0.00</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1城市土壤与灰尘粒径分布的环境影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于粉砂级的粉尘来说，近地面气流是其主要搬运营力，近地面风以短距离悬浮方式将粉尘搬运到沉积区，再上升到高空大气。对于黏土级以下的细粒粉尘来说，高空悬浮是其运动的主要方式[30]。根据相关文献可知，粒径介于 $5 { \\sim } 5 0 ~ \\mu \\mathrm { m }$ 的物质被认为是沙尘暴主要的降尘物[31],兰州市和延安市在这区间所占比例分别为 $3 9 . 2 1 \\%$ 和 $2 6 . 1 1 \\%$ 。由此推测，沙尘是兰州市和延安市城市灰尘的部分贡献源，这与秦松等2的研究结果相一致。兰州市城市灰尘颗粒物粒径小于 $1 0 0 ~ { \\mu \\mathrm { m } }$ 所占比例为 $6 9 . 1 7 \\%$ ，延安市为 $5 3 . 4 9 \\%$ ,所占比例较高并且研究区地处西北干旱区，属于西北沙尘高发区，小粒径城市灰尘极易在外动力条件下再次扬起，对城市市貌和人体健康造成影响[33-34]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "粒径小于 $1 0 \\mu \\mathrm { m }$ 的大气颗粒物能长时间漂浮在大气中，故称其为大气飘尘[35]。包括 $\\mathrm { P M } _ { 1 0 }$ （空气动力学当量直径小于或等于 $1 0 \\mu \\mathrm { m }$ )和 $\\mathrm { P M } _ { 2 . 5 }$ （空气动力学当量直径小于或等于 $2 . 5 ~ { \\mu \\mathrm { m } }$ ）。大气中 $\\mathrm { P M } _ { 1 }$ 、$\\mathrm { P M } _ { 2 . 5 } \\mathrm { , } \\mathrm { P M } _ { 1 0 }$ 在大气干湿沉降等的作用下会沉降在土壤表层或进入近地表大气灰尘中[36]。近地表大气灰尘及土壤中的 $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { P M } _ { 1 0 }$ 又会在风、人流等的作用下重新回到大气层中，是大气中细颗粒的重要贡献源。大气中 $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { P M } _ { 1 0 }$ 仅因其粒径大小就对人体有极大的危害，此类颗粒物吸入人体后，$9 0 \\%$ 会沉积在肺泡和呼吸道，沉积在肺泡上的污染物会侵入血液，直接引起中毒[37]。细颗粒物对于处在生长发育阶段的儿童的危害更大[38]。因此,城市土壤和灰尘对人体和环境造成危害的程度与土壤和灰尘颗粒物的粒度组成特征有着直接关系。为了进一步探索兰州市和延安市城市土壤与灰尘细颗粒组分的空间特征及其相互关系，利用反距离权重法对城市土壤和城市灰尘中的 $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { P M } _ { 1 0 }$ 的含量进行对比分析，结果如图4和图5。此方法假定所映射的变量因受到与其采样位置间的距离的影响而减小[39]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1兰州市城市土壤与灰尘细颗粒组分空间特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据图4可以看出，兰州市城市灰尘和城市土壤中， $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { P M } _ { 1 0 }$ 的分布情况整体趋势相似。小粒径的土壤主要分布在兰州市的西部和中部，兰州市西部是甘肃省和兰州市的核心工业区、是中国西部最大的石油化工基地。由此推断重工业对小粒径的土壤影响更大。在兰州市的东部，城市灰尘中的 $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { P M } _ { 1 0 }$ 的含量较高。东部雁滩是兰州市主要的居住区之一，并且有兰州大学等诸多学校，人流量较多，人类活动频繁。由此推测人类活动对小颗粒的城市灰尘影响更大。兰州市常年盛行西北风，同粒径土壤在上风向含量更高，城市灰尘在下风向更高。推测同粒度上风向土壤是下风向灰尘的来源之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e849e16976f234ef4b21c44c0e7592c0a744605a54836acaadb48f489eefd8b7.jpg",
+        "img_caption": [
+            "图4 兰州市土壤、灰尘中的 $\\mathrm { P M _ { 1 } } \\setminus \\mathrm { P M _ { 2 . 5 } } \\setminus \\mathrm { P M _ { 1 0 } }$ ",
+            "Fig. 4 $\\mathrm { P M } _ { 1 }$ $\\mathrm { P M } _ { 2 . 5 }$ $\\mathrm { P M } _ { 1 0 }$ of soil or dust of Lanzhou City "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1.2延安市城市土壤与灰尘细颗粒组分空间特征",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图5可知，延安市无论是城市灰尘还是城市土壤, $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 } \\ 、 \\mathrm { P M } _ { 1 0 }$ 的分布情况整体趋势相似。土壤均为城东北及西南偏西的地方含量高，这2个地方都是延安市的核心工业区，由此推测工业对小粒径的土壤影响更大。城市灰尘主要分布在城西北",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/72256014425f757b56f4b01bfccee0964e5aa0299aca6fd71c6a55093c6e18d7.jpg",
+        "img_caption": [
+            "图5延安市土壤、灰尘中的 $\\mathrm { P M _ { 1 } } \\setminus \\mathrm { P M _ { 2 . 5 } } \\setminus \\mathrm { P M _ { 1 0 } }$ Fig.5 $\\mathrm { P M } _ { \\mathrm { 1 } }$ ， $\\mathrm { P M } _ { 2 . 5 }$ $\\mathrm { P M } _ { 1 0 }$ of soil or dust of Yan'an City"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "部，这是延安市的教育中心，有延安大学、延安中学等众多学校，人流量较大，人类活动频繁，由此推测人类活动对小粒径的城市灰尘影响较大。延安市近地面层每年盛行偏西风（占全年 $8 0 \\%$ )[40],对比图中城市土壤和灰尘的分布可发现一个趋势，即城市土壤在上风向分布占比更高，城市灰尘在下风向的分布占比更高，推测为同粒度的上风向城市土壤为同粒度下风向的城市灰尘的来源之一。与兰州市的结果相一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2城市土壤与灰尘的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "使用Spass21软件分别对兰州市和延安市城市土壤灰尘之间不同粒级组分占比进行相关性分析，结果见表5。通过表5可以看出，兰州市城市土壤和灰尘之间不同粒级呈现显著相关关系， $r$ 值为0.967，属于极强相关;延安市城市土壤灰尘之间也是呈显著相关关系， $\\boldsymbol { r }$ 值为0.767，属于强相关。推测城市土壤细颗粒可能是城市灰尘细颗粒的部分贡献源，这与兰州市和延安市空间分布推测出来的结果相似。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ffa37044c7820a21a63f9da62c8577646672089f00349d4d882fb9bc56bd78c.jpg",
+        "table_caption": [
+            "表5土壤灰尘的相关性",
+            "Tab.5 Correlation between urban soil and dust "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平(双侧)上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">区域</td><td colspan=\"2\">相关性</td></tr><tr><td>r值</td><td>P值</td></tr><tr><td>兰州市</td><td>0.967**</td><td><0.01</td></tr><tr><td>延安市</td><td>0.767**</td><td><0.01</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）兰州市和延安市城市土壤灰尘粒径组成有非常明显的趋势。其中第一众数为粉黏粒 $( 1 0 { \\sim } 5 0 \\mu \\mathrm { m } )$ ，占样品组成的 $2 3 . 6 6 \\% { \\sim } 3 9 . 5 0 \\%$ ;第二众数为极细砂0 $5 0 { \\sim } 1 0 0 ~ \\mu \\mathrm { m }$ )，占样品组成的 $1 8 . 8 3 \\% { \\sim } 2 3 . 8 5 \\%$ ；第三众数为细沙 ( $1 0 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m } ,$ ，占样品组成的 $8 . 9 4 \\%$ 2$2 4 . 3 3 \\%$ 。整体粒径分布情况为：粉黏粒 $>$ 极细砂 $>$ 细砂 $\\mathrm { > }$ 中砂 $\\mathrm { > }$ 粗中砂。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（(2）兰州市城市灰尘颗粒物粒径小于 $1 0 0 ~ { \\mu \\mathrm { m } }$ 所占比例为 $6 9 . 1 7 \\%$ ,延安市为 $5 3 . 4 9 \\%$ ,极易在外动力条件下再次扬起，成为扬尘的潜在污染源。所带来的生态环境效应不宜被忽视，",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）经过对比发现,城市土壤在上风向分布占比更高，城市灰尘在下风向的分布占比更高，推测为同粒度的上风向城市土壤为同粒度下风向的城",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "市灰尘的来源之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4）不同粒径的城市土壤和城市灰尘分布趋势大体相似；工业活动对小粒径的城市土壤影响可能更大，人类活动频繁对小粒径的城市灰尘影响可能更大。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]胡宏昌,田富强,胡和平.新疆膜下滴灌土壤粒径分布及与水盐 含量的关系[J].中国科学:技术科学,2011,41(8):1035-1042. [Hu Hongchang,Tian Fuqiang,Hu Heping. Soil particle size distribution and its relationship with soil water and salt under mulched drip irrigation in Xinjiang of China[J].Scientia Sinica Technologica,2011,41(8): 1035-104.]   \n[2]郭中领,符素华,王向亮,等.北京地区表层土壤分形特征研究 [J].水土保持通报,2010,30(2):154-158.[Guo Zhongling,Fu Suhua,Wang Xiangliang,et al.Fractal dimension characteristic of soil particle-size distribution in Beijing region[J].Bulletin of Soil and Water Conservation,2010,30(2):154-158.]   \n[3]王陇,高广磊,张英,等.毛乌素沙地风沙土粒径分布特征及其 影响因素[J].干旱区地理,2019,42(5):1003-1010.[Wang Long, Gao Guanglei, Zhang Ying,et al.Particle size distribution of aeolian soils in the Mu Us Sandy Land and the influence factors[J].Arid Land Geography,2019,42(5): 1003-1010.]   \n[4]杜佩轩,田晖,韩永明.城市灰尘概念、研究内容与方法[J].陕西 地质,2004,22(1): 73-79.[Du Peixuan,Tian Hui,Han Yongming. Concept,research content and method of urban dust[J]. Geology of Shaanxi,2004,22(1): 73-79.]   \n[5]Shi Guitao,Chen Zhenluo,Bi Chunjuan,et al.A comparative study of health risk of potentially toxic metals in urban and suburban road dust in the most populated city of China[J]. Atmospheric Environment,2011,45(3): 764-771.   \n[6]Charlesworth S,Everett M, Mccarthy R,et al.A comparative study of heavy metal concentration and distribution in deposited street dusts in alarge and a small urban area: Birmingham and Coventry,west Midlands,UK[J].Environment International,2003,29(5):563-573.   \n[7]李小平,吴婷,王继文,等.城市土壤重金属研究进展[J].国外医 学(医学地理分册),2016,37(3):195-212.[Li Xiaoping,Wu Ting, Wang Jiwen,et al.Review of heavy metals in urban soils[J].Foreign Medical Sciences(Section of Medgeography),2016,37(3): 195-212.]   \n[8]Mankin K R, Ward A D, Boone K M. Quantifying changes in soil physical properties from soil and crop management: A survey of experts[J]. Transactions of the Asae American Society of Agricultural Engineers,1996,39(6): 2065-2074.   \n[9]Keshavarzi B,Najmeddin A, Moore F,et al. Risk-based assessment of soil pollution by potentially toxic elements in the industrialized urban and peri-urban areas of Ahvaz metropolis,southwest of Iran [J].Ecotoxicology and Environmental Safety,2019,167(1):365-375.   \n[10] Barsova N, Yakimenko O,Tolpeshta I,et al.Current state and dynamics of heavy metal soil pollution in Russian Federation: A review[J].Environmental Pollution,2019,249(6): 200-207.   \n[11] Swallow MJB,O'sullvan G. Biomimicry of vascular plants as a means of saline soil remediation[J]. Science of the Total Environment,2019,655(10): 84-91.   \n[12]Ljung K, Otabbong E,Selinus O.Natural and anthropogenic metal inputs to soils in urban Uppsala Sweden[J]. Environmental Geochemistry and Health,2006,28(4): 353-364.   \n[13]吴珊珊,孙慧兰,周永超,等.伊宁市道路土壤重金属污染现状 及其环境质量评价[J].干旱区研究,2019,36(3)：752-760.[Wu Shanshan, Sun Huilan, Zhou Yongchao,et al. Heavy metal pollution in urban soil and environment quality in Yining[J].Arid Zone Research,2019,36(3): 752-760.]   \n[14]米晓军,任雯,雒琼,等.新疆准噶尔盆地未开垦盐碱地土壤重 金属评价及其来源[J].干旱区研究,2019,36(4):824-834.[Mi Xiaojun,Ren Wen,Luo Qiong,et al.Evaluation and their sources of heavy metals in uncultivated saline-alkaline soil in the Junggar Basin, Xinjiang[J].Arid Zone Research,2019,36(4): 824-834.]   \n[15] Zou Xueyong,Li Huiru, Liu Wei,et al.Application of a new wind driving force model in soil wind erosion area of northern China[J]. Journal of Arid Land,2020,12(3): 423-435.   \n[16] 李乃健,李冰,冉丕鑫.大气颗粒物对肺部微生态的影响及在慢 性阻塞性肺疾病发病中的作用[J].中国呼吸与危重监护杂志, 2018,17(2): 206-209.[Li Naijian,Li Bin,Ran Pixin.Effect of atmospheric particulate matter on pulmonary microecology and its role in the pathogenesis of chronic obstructive pulmonary disease [J].Chinese Journal of Respiratory and Critical Care Medicine, 2018,17(2): 206-209.]   \n[17]朱梦婵,陈小燕,潘珏.大气颗粒物与呼吸系统疾病研究进展 [J].国际呼吸杂志,2017,37(11): 859-862.[Zhu Mengchan, Chen Xiaoyan,Pan Yu.Relationship between atmospheric matter and respiratory diseases[J]. International Journal of Respiration, 2017, 37(11): 859-862.]   \n[18] 张彩云,庞奖励,常美蓉,等.农业耕作土壤与人工经济林地土 壤磁化率和质地特征对比[J].土壤与作物,2009,25(1):91-94. [Zhang Caiyun,Pang Jiangli, Chang Meirong,et al. Comparative research on soil granularity and magnetic susceptibility of the cultivated soil and anthropogenic forest soil[J].Soil and Crop,2009, 25(1): 91-94.]   \n[19]Zhang Mingxin,Lu Xinwei, Shi Dongqi,et al. Toxic metal enrichment characteristics and sources of arid urban surface soil in Yinchuan City,China[J]. Journal of Arid Land,2018,10(4): 653-662.   \n[20]Deletic A B,Orr D W.Pollution buildup on road surfaces[J]. Journal of Environmental Engineering,2005,131(1): 49-59.   \n[21]Ferreira-Baptista L,De Miguel E.Geochemistry and risk assessment of street dust in Luanda,Angola: A tropical urban environment[J]. Atmospheric Environment,2005,39(25): 4501-4512.   \n[22] 帕丽达·牙合甫,杨鹏月.乌鲁木齐市近几年大气颗粒物中重金 属的浓度特征[J].干旱区地理,2019,42(3):492-498.[Yahefu Palida,Yang Pengyue. Concentration characteristics of heavy metals in the atmospheric particles in Urumqi City in recent years[J]. Arid Land Geography,2019,42(3): 492-498.]   \n[23] 赵敬国,王式功,张天宇,等.兰州市大气重污染气象成因分析 [J].环境科学学报,2015,35(5):1547-155.[Zhao Jinggo,Wang Shigong,Zhang Tianyu,et al. The analysis of meteorological factors causing heavy air pollution in Lanzhou[J]. Acta Scientiae Circumstantiae,2015,35(5): 1547-1555.]   \n[24] Meng Caihong,Yang Yongchun,Liu Yanjun, et al. A GIS-based urban landscape change analysis of Lanzhou City, China[J]. Proceedings of SPIE-The International Society for Optical Engineering,2011,8286(4): 1-5.   \n[25] Zhang Yaqun,Li Min, Bravo M,etal. Air quality in Lanzhou,a major industrial city in China: Characteristics of air pollution and review of existing evidence from air pollution and health studies[J]. Water Air Soil Pollut,2014,225(11),doi:10.1007/s11270-014- 2187-3.   \n[26]WilliamRE,Richard V.Th genesis,lassfcaiondapping of soils inurban areas[J]. Urban Ecosystems,1997,1(4): 217- 228.   \n[27] 魏光普,闫伟,于晓燕,等.轻稀土尾矿库区植被修复的镧、铈 富集植物筛选[J].林业科学,2019,55(5):20-26.[Wei Guangpu, Yan Wei, Yu Xiaoyan,etal.Selection of La and Ce hyper-tolerant plants for vegetation rehabilitation in light rare earth tailing [J]. Scientia Silvae Sinicae,2019,55(5): 20-26.]   \n[28] 高广磊,丁国栋,赵媛媛,等.四种粒径分级制度对土壤体积分 形维数测定的影响[J].应用基础与工程科学学报,2014(6): 1060-1068.[Gao Guanglei,Ding Guodong, Zhao Yuanyuan,et al. Effects of soil particle size classification system on calculating volume-based fractal dimension[J]. Journalof Basic Science and Engineering,2014(6): 1060-1068.]   \n[29] 潘美慧,薛雯轩,伍永秋,等.西藏定结地区爬坡沙丘粒度特征 分析[J].干旱区地理,2019,42(6):111-119.[Pan Meihui, Xue Wenxuan,Wu Yongqiu,et al.Grain size characteristics of the climbing dunes in Dinggye area of Tibet[J]. Arid Land Geography, 2019, 42(6): 111-119.]   \n[30] 孙东怀,鹿化煜,David Rea,等.中国黄土粒度的双峰分布及其 古气候意义[J].沉积学报,2000,11(3):327-336.[Sun Donghuai, Lu Huayu, David Rea,et al. Bimode grain-size distribution of Chinese loess and its paleclimate implication[J]. Acta Sedimentologica Sinica,2000,11(3): 327-336.]   \n[31] 李占宏,海春兴,刘广通.内蒙古土默特平原降尘特征研究[J]. 干旱区资源与环境,2007,21(1):78-81.[Li Zhanhong,Hai Chunxing, Liu Guangtong. Research on diameter characteristics of dust-fall in Tumote Plain Inner Mongolia[J]. Journal of Arid Land Resources and Environment, 2007,21(1): 78-81.]   \n[32] 秦松,南忠仁.兰州市西固城区街道灰尘粒径特征及环境效应 分析[J].环境影响评价,2013,35(增刊1):15-17.[Qin Song, Nan Zhongren.Assessment for particle size distribution and associated environment effects for street dust in Xigu District of Lanzhou, Gansu Province[J]. Environmental Impact Assessment, 2013,35 (Suppl 1): 15-17.]   \n[33] 李天杰,赵烨,张科利,等.土壤地理学[M].北京:高等教育出版 社,2004: 130-131.[Li Tianjie,Zhao Ye, Zhang Keli,et al. Soil ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "geography[M]. Beijing: Higher Education Press,20O4:130-131.]   \n[34] 杨忠平,张强,张梁,等.长春市城区近地表灰尘粒度特征及其 环境意义[J].吉林大学学报(地球科学版),2014,44(1):319- 327.[Yang Zhongping, Zhang Qiang, Zhang Liang, et al. Particle size character and environment implication of urban dust near the ground in Changchun City,China[J]. Journal of Jilin University (Earth Science Edition),2014,44(1): 319-327.]   \n[35]张大年.城市大气可吸入颗粒物的研究[J].上海环境科学, 1999,18(4):154-157.[Zhang Danian. Study on inhalable particulates in urban ambient air[J]. Shanghai Environmental Sciences, 1999, 18(4): 154-157.]   \n[36]KellyJ,ThorntonI,SimpsonPR.Urban geochemistry:A study of the influence of anthropogenic activity on the heavy metal content ofsoils in traditionally industrial and non-industrial areas of Britain[J].Applied Geochemistry,1996,11(1-2): 363-370.   \n[37] 施泽明,倪师军,张成江.成都市近地表大气尘的矿物学特征及 其环境指示意义[J].矿物岩石,2006,16(2):117-160.[Shi Zeming,Ni Shijun, Zhang Chengjiang.The mineralogy character of the air dust near the ground in Chengdu and its environmental indication significance[J]. Journal of Mineralogy and Petrology,2O06,16 (2): 117-160.]   \n[38] 魏复盛,胡伟,滕恩江,等.空气污染与儿童呼吸系统患病率的 相关分析[J].中国环境科学,2000,20(3):220-224.[WeiFusheng,Hu Wei,Teng Enjiang,et al.Relation analysis of air pollution and children's respiratory system disease prevalence[J]. China Environmental Science,2000,20(3): 220-224.]   \n[39]谭继强,丁明柱.空间数据插值方法的评价[J].测绘与空间地理 信息,2004,27(4):11-13.[Tan Jiqiang,Ding Mingzhu.An evaluation of spatial data interpolation methods[J].Geomatics & Spatial Information Technology,2004,27(4): 11-13.]   \n[40]杜毓龙,贾根喜,雷崇典.延安城区大气污染特征及成因分析 [J].陕西气象,2004,13(4):32-35.[Du Yulong,Jia Gengxi,Lei Chongdian. Characteristics and causes of air pollution in Yan'an City[J]. Journal of Shaanxi Meteorology,2004,13(4):32-35.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Spatial distribution of particle fractionations of dust and soil in the valley-city of northwest China ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GAO Yu1²， LI Xiaoping'²， ZHANG Yuchao'²， CAO Yuhan12, LI Tao¹²，YANG Taol²，WANG Lijun',²   \n(1.DepartmentofEnvironmentSciences,ShaanxiNormalUniversityXi'an7O62,haani,China；2.InteratioalJoint   \nResearch Centerof Shaanxi Province forPolltion Exposure and Ecoenvironment Health,Xi'an71Oo62,Shaanxi, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Both Lanzhou and Yan’an are vally cities in northwest China thatare critical for the petrochemical industry and energy and have frequent dusty weather.The fine particles and dust in the soil easily enter the atmosphere and cause haze polution.However,basic data,such as urban soil characteristics and dust particle size in this area are lacking.This study collcted soil and dust samples in the main urban area ofLanzhou and Yan'an. The particle size composition was measured using a laser particle size analyzer.The environmental effects were analyzed through spatial distribution and particle size of soil and dust.We provide scientific data and a theoretical basis for the urban environmental protection in Lanzhou and Yan’an.The results show that the principal size fractions of soil and dust in Lanzhou and Yan'an were no more than $1 0 0 ~ { \\mu \\mathrm { m } }$ .The overall grain size distribution trend decreased as silty clay $( < 5 0 ~ \\mu \\mathrm { m } ) >$ impalpable sand $( 5 0 - 1 0 0 ~ \\mu \\mathrm { m } ) >$ fine sand $( 1 0 0 - 2 5 0 ~ \\mu \\mathrm { m } ) >$ medium sand $( 2 5 0 - 5 0 0 ~ \\mu \\mathrm { m } ) >$ coarse medium sand $( 5 0 0 - 1 0 0 0 ~ \\mu \\mathrm { m } )$ . The proportion of dust particle size less than $1 0 0 ~ { \\mu \\mathrm { m } }$ in Lanzhou is $6 9 . 1 7 \\%$ ,which was larger than in Yan'an $( 5 3 . 4 9 \\% )$ . The results indicate that the fractionation in dust of less than $1 0 0 ~ { \\mu \\mathrm { m } }$ was easy to increase under an external power condition and become the potential source of pollution and human health risk.The results of spatial distributions of $\\mathrm { P M } _ { 1 }$ ， $\\mathrm { P M } _ { 2 . 5 }$ ，and $\\mathrm { P M } _ { 1 0 }$ in soil and dust showed that the same size of urban soil in the upper wind direction was a source of urban dust under the same size wind direction.Furthermore,industrial activities significantly influence small-sized soils，and frequent human activities significantly influence smal-sized dust. Correlation analysis was conducted using Spass 21 software on a proportion of diferent particle levels between soil dust in Lanzhou and Yan'an,respectively. A significant correlation exists between diferent soil and dust particle levels in Lanzhou,with acorrelation coefficient of $r { = } 0 . 9 6 7$ ,which is a strong correlation.A significant correlation also exists between soil and dust in Yan'an, with $r { = } 0 . 7 6 7$ , indicating that soil fine particles might partly contribute to dust. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: soil and dust; particle size distribution; environment effect; Lanzhou City； Yan'an City ",
+        "page_idx": 9
+    }
+]

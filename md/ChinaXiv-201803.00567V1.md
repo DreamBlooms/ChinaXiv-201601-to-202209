@@ -1,0 +1,197 @@
+# 生物阻抗技术在手臂红外治疗中的初步应用研究
+
+顾陈磊 刘宇航 李景振 王　磊 聂泽东（中国科学院深圳先进技术研究院，深圳518055）
+
+摘要：红外理疗采用红外光对人体部位进行照射，已在各种疾病的辅助治疗中得到了广泛的应用。红外理疗效果一般由医护人员的经验进行定性评估，目前鲜有关于红外理疗效果定量分析的报道。鉴于理疗身体部位血流信息的变化能反映红外理疗效果，实现无创、安全、实时监测红外理疗过程中的血流信息，将有助于引导红外理疗的疗程安排，提升红外理疗效果。文章提出了一种基于生物阻抗的方法来对手臂血流红外理疗效果进行评估。首先，选用BIOPAC 生理信息记录仪为系统核心，利用二电极法测量人体心电信号，四电极法同步测量人体手臂在红外光照射前、中、后的生物阻抗变化；其次，通过小波变换进行基线漂移去除与特征提取分析，并运用朴素贝叶斯模型对特征点的稳定性进行评估。实验结果表明：手臂生物阻抗信号特征频率与心率变化趋势相同，平均数值误差在 $0 . 0 9 \% \sim 1 . 6 0 \%$ ；经红外光照射后，手臂生物阻抗单周期信号内次级波与主波比值上升，幅度为 $3 . 9 1 \% \sim 1 3 . 0 5 \%$ ，即生物阻抗信号能够反应手臂血流信息，且具有感知红外理疗过程中血流变化的灵敏性。
+
+关键词：红外理疗；生物阻抗；血流；小波变换
+
+中图分类号：Q64
+
+# Preliminary Study on the Applicationof Bioimpedance Technology
+
+in Arm Infrared Physiotherapy
+
+GU Chenlei LIU Yuhang LI Jingzhen WANG Lei NIE Zedong (Shenzhen Institutes ofAdvanced Technology,Chinese Academy of Sciences, Shenzhen 518055, China)
+
+Abstract：Infrared physiotherapyisanew method withtheapplicationof infrared lighttohumanbodyparts,whoseeffecthas beenwidelyreported inthetreatmentofvariousdiseases.Nowadays,theeffectivenessoftheinfraredphysiotherapywasgenealy assessedbytheexperenceofthe medicalstafqualitatively.Astheparametersofbloodflowisthekeyofphysiotherapyevaluation, usinga noninvasive,safe,andrealtime monitoring wayonbloodflow during therapy willbenefit guiding the physiotherapy arrangementtoenhance thetherapyeffect.Thispaper proposesamethod basedonbioimpedance technology forinfrared physiotherapyevaluation inhumanarm.Firstlywechose the BIOPACphysiological informationrecorderasthecoreof measure system,withdouble-probemethod tomeasureECGsignal,andfour-probe waytosychronouslymeasurethebioimpedancechangeof humanarmbefore,duringandafter the infrared iradiation.Thenremoving baseline driftand extracting featurepoints byusing wavelettransform,aplyingsimple Bayesianmodel toensure thestabilityofthefeaturepoints.Theexperimentalresultsshowthat (1)The arm bioimpedance signal characteristic frequency matches the heart rate with an average difference $0 . 0 9 \% - 1 . 6 0 \%$ (2)After the infrared irradiation,the ratio between secondary and the main wave peaks of arm bioimpedance rises $3 . 9 1 \% 1 3 . 0 5 \%$ ，namely, bioimpedancecanrepresentthechange inarm bloodflow,and sensitiveenough tomakean evaluationofinfrared physiotherapy.
+
+Key words: Infrared physiotherapy; bioimpedance; blood flow;wavelet transform
+
+# 1引言
+
+红外理疗是采用红外光对身体部位进行照射，从而达到一定的理疗效果[]。目前市场上已有的各种红外理疗仪，其本质都是基于生物体对红外辐射的应激反应：当红外辐射达到足够强度、生物体内组织产热大于散热时，被照射部位的局部温度便会上升，从而引起一系列的生物效应。在适当距离和时间安排下的红外光理疗具有激活生物大分子活性、促进和改善血液循环、增强新陈代谢等功能，而过度的红外光照则会引起皮肤烧伤[2,3]。
+
+目前在国内外，对于红外理疗的效果评估主要依赖于医护人员的经验，属于一种定性评估，如是否加快炎症伤口愈合[3]、减缓疼痛感[1,4]、肿胀消除[5]和问卷调研[]等，可借助的医疗辅助评判参数较少。研究表明，血流信息对于身体局部健康的评估至关重要，其对于血管狭窄或血栓等具有一定敏感性，因此可以将血流信息作为理疗效果的评估特征[]。常用的血流信息测量方法包括有创和无创方法。其中，有创方法通过接触或采集血液，可获得大量血流动力学和物质输送等信息。如近年来迅速发展的血管内超声技术，其优点在于能准确地测定管腔横截面积、血管病变长度和血流信息等，缺点是增加了患者的手术痛楚[89]。无创方法则主要分为光学与非光学测量技术。光学式测量方法，如光学相干断层成像技术，其显著优点是测量精确度高，缺点是额外光源的存在会影响红外光温度场分布，以及成本过高的问题[10,I]；非光学式测量方法，如多普勒彩超技术，优点是能够准确标识出血流速度变化，缺点是超声耦合剂和探头的位置移动会影响红外光温度场分布的问题[12.13]。
+
+因此，鉴于上述两种方法对实时测量手臂血流存在的问题，本文提出了采用生物阻抗的方法来测量人体手臂理疗中的血流信息。生物阻抗，即人体组织与器官的电特性，如阻抗、导纳、介电常数和电导率等，其数值特征和变化情况与人体生理参数、病理状况息息相关[14]。生物阻抗技术通常是借助置于体表的电极系统向检测对象输入微小的交流电流/电压进行在体测量，获取相应的电阻抗信息及其变化情况。生物阻抗的医学价值在近年来被不少学者与专家证实，且其测量方法具有安全、无毒无害、操作简单和功能丰富等特点，临床医生或是病人都易于接受[15.16]。此外，生物阻抗的测量方法采用与皮肤表面贴合的电极，保证了接触式测量的准确性，同时受光照部分面积具有的可调控性，保证了血流信息测量结果不受干扰。本文通过生物阻抗技术测量人体手臂在红外理疗仪照射前、中、后的生物阻抗信息变化，再利用数字信号处理方法总结规律，为生物阻抗技术在血流分析的临床应用上的进一步发展打下基础。
+
+# 2生物阻抗变化原理
+
+血液作为一种特殊的人体组织，含有丰富的电解质、阻抗较小、导电性能好。在一个心动周期内，当心脏处于收缩期时，外周组织和器官的血管充盈、血管容量增大、血流速度加快，使得阻抗降低；相反，当心脏处于舒张期时，外周组织和器官血液向心脏回流，血管容量降低，使得阻抗升高。因此，生物阻抗值会随着每个心动周期有规律地进行变化。这种根据体表电极测量的电阻抗信息来反应皮下组织、器官由于血液循环引起容积变化的方法称为阻抗描记图[7]。
+
+由于测量部位的组织或器官存在不同生理、病理状况影响，血流搏动引起的阻抗变化值会△Z会发生变化，因此根据上述电阻抗变化的原理，描记血流搏动引起的容积变化可作为表征血流信息的依据，进而对引起血流信息发生变化的因素进行评估。目前，血管容积变化的测量原理采用图1所示的单支血管与组织并联模型[16]。
+
+![](images/1091dc09e03541510039d31d8e7b7b42e003ca3b204b581b79a7ba900d31e0b6.jpg)  
+图1单支血管与组织的并联模型
+
+Fig.1Parallel model of single blood vessels and tissue设血液阻抗为 $Z _ { \mathrm { b } }$ 、外围组织基础阻抗为 $Z { \mathfrak { p } }$ ，则截断部分的阻抗 $Z$ 为：
+
+$$
+Z { = } \frac { Z _ { \mathrm { { b } } } Z _ { \mathrm { { p } } } } { Z _ { \mathrm { { b } } } + Z _ { \mathrm { { p } } } }
+$$
+
+两边微分可得：
+
+$$
+\begin{array} { r } { d Z = ( \frac { z _ { p } } { z _ { b } + z _ { p } } ) ^ { 2 } d Z _ { b } + ( \frac { z _ { b } } { z _ { b } + z _ { p } } ) ^ { 2 } d Z _ { p } } \end{array}
+$$
+
+由于阻抗的变化仅由血管容积变化引起，手臂血管外围组织的基础阻抗 $Z { \mathfrak { p } }$ 在一个心动周期内可视为不变，则：
+
+$$
+\mathrm { d } Z { = } \frac { \underset { \mathbb { H } \times } { \mathbb { H } \times } } { \underset { \mathbb { H } \times } { \mathbb { H } \times } + Z _ { \mathrm { b } } / Z _ { \mathrm { p } } } ^ { 2 } \quad \mathrm { d } Z _ { \mathrm { b } }
+$$
+
+与周围组织相比，血液的电阻率较低、阻抗值较小，即有 $Z _ { \mathrm { { p } } }$ ？ $Z _ { \mathrm { { b } } }$ ，因此可以认为有 $\mathrm { d } Z { \approx } \mathrm { d } Z _ { \mathrm { b } }$ ，则近似得到：
+
+$$
+\Delta Z { \approx } \Delta Z _ { \mathrm { { b } } }
+$$
+
+由公式(4)可知，通过运用阻抗描记图监测生物阻抗信号，可以间接获取血液电阻抗值的变化情况，进一步分析特征即可得到相应的血流信息。
+
+综上所述，生物阻抗信号可以反应血流信息的瞬时变化，特别是在器官生理活动（如呼吸、心脏搏动）的不同时期差别显著，因此对于医学研究和疾病诊断具有重大意义。
+
+# 3实验方案与数据处理
+
+本文实验对象为6名成年健康志愿者，其中3名男性、3名女性，年龄 $2 3 \sim 3 0$ 岁，体重 $4 5 \mathrm { \sim } 7 0 \mathrm { k g }$ 。实验主要设备有：BIOPAC16 通道 MP150生理信息记录仪、BIOPAC EBI100C 生物电阻抗放大模块、BIOPAC ECG100C 心电放大模块（BIOPAC 系统所含主机和测量模块均在 BIOPAC System Inc.公司采购），若干 $\mathrm { \ A g / A g C l }$ 纽扣式心电电极，飞利浦InfraCare 红外理疗仪（HP3631、 $3 0 0 ~ \mathrm { W }$ 、光照覆盖范围$4 0 \mathrm { c m } { \times } 3 0 \mathrm { c m }$ ）。
+
+# 3.1实验方案
+
+本实验选用的实验方案和关键设备（如图2）的具体参数设置如下：
+
+$\textcircled{1}$ 双电极法测量人体心电信号，电极间隔 $1 0 { \sim } 1 5 \mathrm { c m }$ $\textcircled{2}$ 四电极法测量手臂生物阻抗信号，其中包括2个激励电极 $( \mathrm { I } + , \mathrm { G } ^ { \prime }$ ）和2个测量电极（ $\mathrm { V } { + } , \mathrm { V } { - } ,$ ），测量电极间固定距离为11cm；$\textcircled{3}$ 激励电流幅值为 $\mathrm { \ l m A }$ ，频率为 $2 5 \mathrm { k H z }$ $\textcircled{4}$ 心电信号与生物阻抗信号采样率 $f$ 均为 $1 \mathrm { k H z }$ ：$\textcircled{5}$ 实验环境温度为 $2 3 { \sim } 2 4 ^ { \circ } \mathsf C _ { \circ }$
+
+![](images/1e2795972b613b3759614a049c4b834505b4281c0029457150ffcfb31d4a64a1.jpg)  
+图2实验测量示意图  
+Fig.2 Experiment structure
+
+实验测量前，志愿者在连接仪器后静坐 $1 0 \mathrm { m i n }$ ，以排除走动、讲话和电流的影响。之后，志愿者保持静坐的姿势，在平静状态下，连续、同步采集手臂阻抗信号与心电信号。实验过程分为以下3个连续阶段
+
+$\textcircled{1}$ 静息阶段： $0 \mathrm { \sim } 1 0 \mathrm { m i n }$
+
+$\textcircled{2}$ 红外理疗阶段： $1 0 { \sim } 2 0 \mathrm { m i n }$ ，打开红外理疗仪，手臂接收红外光照射；
+
+$\textcircled{3}$ 冷却阶段： $2 0 { \sim } 3 0 \mathrm { m i n }$ ，关闭红外理疗仪，手臂进入冷却状态。
+
+为保证结果的客观性和准确性，实验重复进行3次，每次实验参数设置保持一致。最终共获得6人 $\times 3$ 组 $\times 3 0 \mathrm { m i n } \times 6 0 \mathrm { s } \times 1 0 0 0 \mathrm { H z } = 3 . 2 4 \times 1 0 ^ { 7 }$ 组数据，试验现场如图3所示。
+
+![](images/90e0f2aaaaa663b6f47d15c141063f5f43f2d4c45bed836f2d27e43441b82fe8.jpg)  
+图3实验现场图Fig.3Experiment scene
+
+# 3.2实验数据处理
+
+3.2.1信号筛选
+
+考虑到实验处理方法包括对信号进行傅里叶变换的频域分析，且对于信号进行预处理时，其主要频率在 $0 { \sim } 1 5 \mathrm { H z }$ 。因此，我们截取长度为 $5 0 \sim 6 0 \mathrm { s }$ 的稳定信号作为处理对象，则其频率分辨率△f至少为$0 . 0 2 \mathrm { H z }$ 。
+
+# 3.2.2小波变换去除高频噪声和基线漂移
+
+由于手臂血流信号在采集过程中存在环境噪声以及人体呼吸等生理活动等干扰的影响，生物阻抗信  
+号中存在高频噪声和呼吸基线漂移。利用小波变换的多层频率分辨性可区分不同频率区间的信号成分，呼  
+吸频率在 $0 { \sim } 0 . 3 \mathrm { H z }$ ，即存在于小波分解的第10层近似信号内。将高频噪声和呼吸信号的小波系数置零，并重建去噪信号后，即得到了去除高频噪声和基线漂移的手臂生物阻抗信号，结果如图4、5所示。
+
+![](images/f38501c064f71971241cde10749cfb8aa2c258744e9500efe586f3493ede07f3.jpg)  
+图4原始阻抗信号
+
+![](images/403ae405b8b6afe8848dc589c25c3c18aefa12985c86e6b02a5660c655eaf35d.jpg)  
+Fig.4 Arm bioimpedance signal   
+图5小波变换处理后信号  
+Fig.5The signal after wavelet transform processing
+
+3.2.3特征提取
+
+$\textcircled{1}$ 通过心电图R波检测算法，提取筛选后信号心电部分的心率值，单位为每分钟心跳次数(Beats PerMinute，BPM)，结果如图6所示。
+
+![](images/2ba6703467e89bb4d42634ade3c71f951ad3486390b7b3f291c6f017aeb9e9ce.jpg)  
+图6心率计算图
+
+通过傅里叶变换后的频谱分析结果，提取筛选后信号生物阻抗部分的一级特征频率(即基波频率值)，结果如图7所示。
+
+![](images/ce78424f98e2d8e2dea06ac203afe367a519f29e71af149f0c90d8f0c0bdfad4.jpg)  
+Fig.6 Heart rate calculation
+
+$\textcircled{2}$ 通过对连续时域信号的特征提取，我们将波谷间单周期手臂生物阻抗信号作为研究对象，即获取由一次心脏波动引起的手臂阻抗描记图，如图8所示。以波谷A、 $B$ 亮点为基准，提取主波峰、次波峰的相对位置坐标，高度值 $h _ { 1 }$ 、 $h _ { 2 }$ 等特征信息。
+
+![](images/5a6e343005184942dfd58c9117512cdd5743b818aef6f5391898f5c92b4faa7f.jpg)  
+Fig.7 Fourier transform spectrum   
+图8单周期阻抗血流图  
+Fig.8Bioimpedance flowchart of a single period
+
+![](images/e49b0527bdbffd6453edc0aa85eaddc0691282d37c543ab04b5981e258bbea12.jpg)  
+图7信号傅里叶变换频谱图
+
+# 4结果与分析
+
+# 4.1实验结果
+
+4.1.1心率与手臂生物阻抗信号特征频率
+
+在实验过程中，6名志愿者的心率和生物阻抗信号对比结果如图9所示。从图9可看出，手臂阻抗信号特征频率与心率变化趋势相匹配，数值平均差距在 $0 . 0 9 \% { \sim } 1 . 6 0 \%$ 。
+
+# 4.1.2次级波与主波峰值
+
+在手臂生物阻抗信号变化单周期内，计算比值主波峰 $h _ { 1 }$ 与次波峰 $h _ { 2 }$ 的幅度比值 $h _ { 2 } / h _ { 1 }$ ，记为 $X$ ，结果如图10所示。从图10可看出，经过红外光照射后，手臂阻抗信号的次级波峰 $h _ { 2 }$ 与主波峰值 $h _ { 1 }$ 比值 $X$ 升高，上升幅度为 $3 . 9 1 \% \sim 1 3 . 0 5 \%$ ，并且该特征值 $X$ 在冷却阶段回复至正常值。
+
+![](images/4cc4d220499a4d17b7c115fb8d9ea4fbd44823c1e309260a1e5190db75204ca8.jpg)  
+图9特征频率与心率趋势变化图  
+Fig.9The characteristic frequency and heart rate variation   
+图10特征值 $X$ 变化趋势  
+Fig.l0Change trend of characteristic value $X$
+
+# 4.2结果分析与讨论
+
+由实验结果可知：（1）实验选择单独采集心电信号作为参考对比，采集到的手臂阻抗信号特征频率与心率变化趋势相同，且与心电信号周期相匹配，两者的数值平均差距为 $0 . 0 9 \% { \sim } 1 . 6 0 \%$ ，即生物阻抗信号可以反应手臂血流信息。因此，通过分析阻抗脉搏波的频域特征即可体现心脏搏动引起的手臂血流变化信息。（2）经过红外光照射后，手臂血流信号的次级波峰值与主波峰值比升高，特征量 $X$ 上升幅度为$3 . 9 1 \% \sim 1 3 . 0 5 \%$ ，即阻抗脉搏波具有反应手臂血流信息变化的灵敏性。红外光照射后，人体皮肤表面的温度上升，血管管径增大，而受血管自身弹力的影响，次级波的峰值上升幅度相对于主波更加明显，即血管管径增大后次级波将会更加明显。
+
+同时，相比于文献3通过对比伤口愈合时间来对红外理疗效果进行评估，其利用伤口愈合进程作为表征、统计时间参数作为特征对比（逾160h），本实验方法借助特征量 $X$ ，能够定量、更短时间获得理疗评估结果，以此对现实生活中疗程安排能够做到及时调整。此外，针对于医护人员根据患者信息（如疼痛感有无减缓、肿胀有无消除）等基础上[46]，通过多年来获得的观察经验加以判断，本实验方法则能在定性分析血流信息的基础上对理疗效果加以辅助参考性评判，同时也还需要寻找更多辅助参数，来进一步完善对红外理疗效果的评估。
+
+# 5总结与展望
+
+# 5.1小结
+
+本文提出了一种基于生物阻抗技术的方法对手臂红外理疗过程中的血流信息进行检测。根据红外理疗环境与生物阻抗信息特定的测量要求，设计并搭建了符合实验条件的测量系统，在征询志愿者主观意愿的基础上制定了相关实验方案，最终，6位志愿者在相同条件下完成了3组实验。通过对比手臂阻抗信号的时域、频域特性与人手臂血流经红外光照射后的信息变化，实验最终结果与分析表明：
+
+（1）生物阻抗信号特征频率与人体心电频率相匹配，两者变化趋势与数值差距均十分相近，即由于心跳搏动引起全身范围内的血液循环，生物阻抗信号能够作为反应血流信息变化的依据;
+
+（2）本文针对生物阻抗信号单周期内的波形特征研究发现，次波峰与主波峰峰值比在手臂“静息-红外理疗-冷却”实验过程中表现出较为明显的规律性特征，即生物阻抗信号能够检测血液流动引起的皮下组织容积(血管管径）变化，并且对这种微弱变化具有一定的敏感性，以此可以作为红外理疗效果的评估参考。
+
+本文对生物阻抗技术在手臂红外治疗中的应用进行了初步研究，存在部分不足之处，下一步研究将进行完善和改进。本文的研究要求 $3 0 \mathrm { m i n }$ 内连续手臂生物阻抗信号检测，前期准备工作时间较长，实验过程中要求严格，实验环境布置相对理想，但与真实生活环境下测量的生理数据复杂程度还存在一定差距需进一步在医护人员指导下进行临床采样，增加数据样本容量；对手臂生物阻抗信号的频域特性深入研究，信号通过傅里叶变换后，频谱在 $0 { \sim } 1 0 \mathrm { H z }$ 能量集中带内成分复杂，且存在谐波，其层数大小与血液流动的通畅程度的联系有待进一步发掘；在临床应用中需要结合病理情况对不同血管的变化特性进行研究分析，目前生物阻抗技术难以对特定血管进行测量，需要寻找其他方法分析对比不同病理状况与生物阻抗信号的相关性。
+
+# 参考文献
+
+[1]朱峥蝶.红外理疗按摩床结合手法治疗急性腰扭伤 52例[J].中国中医急症,2008,17(4):552-553.   
+[2]杨景发,徐景智,赵庆勋,等.红外理疗的机理探讨与红外理疗仪的发展前景分析[J].红外,1999(11):9-13.   
+[3]Dougal G,Lee SY.Evaluation of the efficacy of low-level light therapy using $1 0 7 2 \mathrm { n m }$ infrared light for the treatment of herpes simplex labialis[J]. Clinical &Experimental Dermatology,2013,38(7):713-718.   
+[4] ErvolinoF,GazzeR.Farfraredwvelengthtreamentforlobackpain:Evaluationofo-invasivedeviceJ].Work,Ol5,():7.   
+[5] LiK,Zangb in Medical Science,2017,32(3):485-494.   
+[6] KulickMEaatdddalsic (cellulite) ina limited treatment area[J].Journal of Cosmetic & Laser Therapy,2O06,8(4):185-190.   
+[7]it hemodialysis patients[J].Journal of the American Society ofNephrology,2007,18(3): 985-992.   
+[8] 左辉华,刘强,张志玲,等,血管内超声或血流储备分数指导冠状动脉临界病变介入治疗的临床效果[J].南方医科大学学报,2014,34(5):704-708.   
+[9] Garcia-Gs Journal of Cardiovascular Imaging,2011,27(2): 215-224.   
+[10]uoLtoet optical propertiesand blood flowimaging simultaneously[J].JournalofBiomedicalOptics,2016,21(8):081202.   
+[]il Biomedical Optics,2016,21(4): 40501.   
+[12]ChagctotCretepredctifrdofrbtigsadsfes colourDopperultrasondaninitrolood-perfusedovineliverodelJ].BritishJoualofadiology,():6661.   
+[13]成爱琴，杨益春,邹健,等.彩超评价高血压患者颈动脉粥样硬化的临床价值[J].现代中西医结合杂志,2012,21(4):418-419.   
+[4etJli of Applied Physiology,1997,82(5):1542-1558.   
+[15]丧飞霸,张和华,尹军.生物电阻抗测量技术研究与应用[J].中国医学物理学杂志,2015,32(2):234-238.   
+[16]任超世.生物电阻抗测量技术[J].中国医疗器械信息,2004,10(1):21-25.   
+[17]董秀珍.生物电阻抗技术研究进展[J].中国医学物理学杂志,2004,21(6):311-320.
+
+# 作者贡献声明：
+
+顾陈磊：进行试验、论文起草  
+刘宇航：数据分析、最终版本修订  
+李景振：最终版本修订  
+王磊： 研究命题提出  
+聂泽东：研究命题提出、设计

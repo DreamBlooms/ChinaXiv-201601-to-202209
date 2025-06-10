@@ -1,0 +1,671 @@
+[
+    {
+        "type": "text",
+        "text": "Low Scale Composite Higgs Model and 1.8 \\~ 2 TeV Diboson Excess ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ligong Bian,1 Da Liu,1 and Jing Shu $^ { 1 , 2 , * }$ （2   \n$^ { 1 }$ State Key Laboratory of Theoretical Physics and Kavli Institute for Theoretical Physics China,   \nInstitute of Theoretical Physics，Chinese Academy of Sciences，Beijing 100190，P.R. China. 2 CAS Center for Excellence in Particle Physics， Beijing 10o049， China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We consider a simple solution to explain the recent diboson excess observed by ATALS and CMS Collaborations in models with custodial symmetry $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }  S U ( 2 ) _ { c }$ . The $S U ( 2 ) _ { L }$ （204号 triplet vector boson $\\rho$ with mass range of $1 . 8 \\sim 2$ TeV would be produced through the Drell-Yan process with sizable diboson decay branching to account for the excess.The other $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }$ （204号 bidoublet axial vector boson $a$ would cancel all deviations of electroweak obervables induced by $\\rho$ even if the SM fermions mix with some heavy vector like (composite） fermions which couple to $\\rho$ （\"non-universally partially composite\")，therefore alows arbitrary couplings between each SM fermion and $\\rho$ .We present our model in the “General Composite Higgs” framework with $S O ( 5 ) \\times U ( 1 ) _ { X }  S O ( 4 ) \\times U ( 1 ) _ { X }$ breaking at scale $f$ and demand the first Weinberg sum rule and positive gauge boson form factors as the theoretical constraints.We find that our model can fit the diboson excess very well if the left-handed SM light quarks, charged leptons and tops have zero, zero/moderately small and moderate/large composite components for reasonable values of $g _ { \\rho }$ and $f$ . The correlation between tree level $S$ parameter and the $h  Z \\gamma$ suggest a large $a$ contribution to $h  Z \\gamma$ and it is indeed a $\\mathcal { O } ( 1 )$ effect in our parameter space which provides a strong hint for our scenario if this diboson excess is confirmed by the $1 3 \\sim 1 4$ TeV LHC Run II. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Standard Model (SM) of particle physics,which isour current deepest understanding of microscopic physics，has been intensively tested in the last few decades. At present，we are in a stage to probe new physics at the Terascale by the Large Hadron physics at CERN.All scientists in particle physics are looking for the new data and see if there are some hints for physics beyond SM. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Very recently, the ATALS and CMS collaboration have reported several excesses over the SM backgrounds in the invariant mass distributions around $1 . 8 \\sim 2$ TeV. (1): the ATLAS collaboration [1] has reported that a $3 . 4 \\sigma$ ， $2 . 6 \\sigma$ and $2 . 9 \\sigma$ deviation are observed around 2 TeV in the invariant mass distribution of boosted WZ,WW and ZZ [47],with the global significance of the discrepancy in the WZ channel being $2 . 5 \\sigma$ .The CMS experiment reported a moderate excess,about $1 . 4 \\sigma$ for the dijet resonances,without distinguishing between the W- and Ztagged jets [2,3]. (2): CMS experiment reported a ${ \\sim } 2 \\sigma$ excess slightly below 2 TeV( $\\sim 1 . 8$ TeV）in the dijet resonance channel search [4] and $W ^ { \\prime }  W h  b b l \\nu$ search with a highly boosted SM like Higgs. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To explain the above excesses,the new physics contributions to the resonance production of $W Z$ ， $W W$ and $Z Z$ are required to be around $6 \\sim 1 0$ fb.There have been several papers on explaining this diboson excesses at $1 . 8 \\sim 2$ TeV [5-21] by either some massive spin one vector bosons $( \\rho )$ or exotic spin zero or two objects.For spin one explanations,the vector bosons are either based on $S U ( 2 ) _ { 1 } \\times S U ( 2 ) _ { 2 } \\times U ( 1 ) _ { X } \\to S U ( 2 ) _ { L } \\times U ($ 1)γ or SU $( 2 ) _ { L } \\times S U ( 2 ) _ { R } \\times U ( 1 ) _ { B - L }  S U ( 2 ) _ { L } \\times U ( 1 ) _ { \\mathrm { T } }$ y symmetry breaking pattern or some extended variations. The former,which is the prototype of many models explaining electroweak symmetry breaking(EWSB),in general induce a large tree-level $S$ parameter $S = 4 \\pi v ^ { 2 } / m _ { \\rho } ^ { 2 } = 0 . 2$ (in gauge eigenstate basis) through the kinetic term of Higgs and scalars which triggers the symmetry breaking [48].While this large positive $S$ alone might marginally fit the $S \\mathrm { ~ - ~ } T$ plane with a very optimal positive $T$ other effects from one-loop diagrams of heavy resonances [22, 23],modifed Higgs couplings [24] and effective operators from UV [25] would spoil the electroweak precision tests (EWPT).The other difficulty is that while alarge qqp coupling is required to explain the diboson excess,constraints from $p p  \\rho ^ { 0 }  l ^ { + } l ^ { - }$ would violate fermion universality in the $f f \\rho$ couplings which further contributes to EWPT [49]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here we consider a simple solution of the above two issues to account for the diboson excess by introducing an axial vector boson $a$ which transforms as $( 2 , 2 )$ representation of $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }$ which do not couples to the SM fermions before EWSB.For convenience,we use the “General Composite Higgs” set up of Ref. [26] which is the CCWZ construction of $S O ( 5 ) / S O ( 4 ) \\times U ( 1 ) _ { X }$ with vector meson dominance for spin one fields as an illustration.We find that the $a$ field contributions can not only cancel the large positive $S$ ，but also the couplings between composite fermions and SM gauge bosons by integrating out $\\rho$ .The latter allows the partially composite SM fermions to have tiny EWPT contributes with arbitrary couplings to $\\rho$ in a very wide range.In our model of vector bosons ( $\\rho$ and $a$ ),we use the first Weinberg's sum rule and positive EWSB form factor (in the spirit of Witten's theorem [27]）as our theoretical constraints. We find that the current diboson excess can be explained very well for $\\xi \\sim ( 0 . 0 5 , 0 . 2 )$ ， $g _ { \\rho } \\sim ( 1 . 5 , 2 . 5 )$ and left-handed SM light quarks,charged leptons and top/bottoms have zero,zero or moderately small and moderate or large composite components composite components where the last one is a good sign for correct Coleman Weinberg Higgs potential. Notice that the $S$ parameter and $h  Z \\gamma$ decay can come from the same operators which has large correlations,we also calculate the $a$ contribution to $h  Z \\gamma$ and find that the corrections are very large ( $\\mathcal { O } ( 1 )$ of the SM one). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BASIC SETUP OF COMPOSITE HIGGS MODEL ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the Minimal Composite Higgs Model, the Higgs arises as a pseudo-Nambu Goldstone boson (pNGB) from the spontaneous symmetry breaking of the global symmetry group $S O ( 5 ) \\times U ( 1 ) _ { X }  S O ( 4 ) \\times U ( 1 ) _ { X }$ of the strongly-interacting sector. The unbroken $S O ( 4 )$ is isomorphic to $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }$ , so the custodial symmetry is preserved. The extra $U ( 1 ) _ { X }$ is introduced to reproduce the right hyper-charge for the SM fermions.Since it doesn't play an important role in our following discussion，we will neglect it from now on.The four NGBs （204号 $h ^ { \\hat { a } }$ can be described as the fluctuations along the broken generators $T ^ { \\hat { a } }$ ( $\\hat { a } = 1 , \\hdots , 4$ )： $U = \\exp ( i \\sqrt { 2 } \\pi ^ { \\hat { a } } T ^ { \\hat { a } } / f )$ 5 where $f$ is the decay constant for those pNGB fields. Under a transformation $g \\in S O ( 5 )$ ,this field transforms non-linearly as $U  g U h ^ { \\dagger } ( g , h ^ { \\hat { a } } ( x ) )$ ，where $h \\in S O ( 4 )$ Going to the unitary gauge, we can bring the NGBs to the form $h ^ { \\hat { a } } = ( 0 , 0 , 0 , h )$ . With this choice, the matrix $U$ takes the simple form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU = \\left( \\begin{array} { l l l l l } { { 1 } } & { { 0 } } & { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 1 } } & { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 1 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { \\cos { \\frac { h } { f } } } } & { { - \\sin { \\frac { h } { f } } } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } & { { \\sin { \\frac { h } { f } } } } & { { \\cos { \\frac { h } { f } } } } \\end{array} \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The interactions with the elementary fields of the SM explicitly break the $S O ( 5 )$ symmetry and will induce a potential for the Higgs through loop corrections,such that modulus of the NGB fields, $h$ ，acquires a vev breaking $S O ( 4 )$ to the custodial subgroup $S O ( 3 ) _ { c }$ and the electroweak symmetry to $U ( 1 ) _ { \\mathrm { e m } }$ ，at the scale $v = f \\sqrt \\xi =$ $f \\sin \\langle h \\rangle / f$ .The CCWZ structures [28] are defined by $i U ^ { \\dagger } D _ { \\mu } U = d _ { \\mu } ^ { \\bar { a } } T ^ { \\bar { a } } + E _ { \\mu } ^ { a } T ^ { a }$ with $T ^ { \\hat { a } } , \\hat { a } = 1 , 2 , 3 , 4$ being generators in the broken direction and $T ^ { a _ { L } , a _ { R } } , a _ { L , R } =$ $1 , 2 , 3$ being generators in the unbroken direction. It follows that $d _ { \\mu }$ transforms covariantly under the local symmetry group,while $E _ { \\mu }$ transforms like a gauge field. Expanding over $h / f$ ，we have: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ \\begin{array} { r l } { { d _ { \\mu } ^ { \\hat { a } } = } } & { { - \\frac { \\sqrt { 2 } } { f } ( D _ { \\mu } h ) ^ { \\hat { a } } + . . . } } \\\\ { { E _ { \\mu } ^ { a } = } } & { { g _ { 0 } A _ { \\mu } ^ { a } + \\frac { i } { f ^ { 2 } } ( h \\stackrel {  } { D _ { \\mu } } h ) ^ { a } + . . . } } \\end{array} \n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At the leading order in the chiral expansion,the Lagrangian describing the dynamics of the NGBs is given ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } = { \\frac { f ^ { 2 } } { 4 } } \\mathrm { T r } \\left( d _ { \\mu } d ^ { \\mu } \\right) = { \\frac { f ^ { 2 } } { 2 } } ( \\partial _ { \\mu } \\Sigma ) ^ { t } ( \\partial ^ { \\mu } \\Sigma ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where we have defineda linearly-tranformed field byusing $S O ( 4 )$ invariant vacuum $\\Sigma _ { 0 } ^ { t } = ( 0 , 0 , 0 , 0 , 1 )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Sigma = U ( h ^ { \\hat { a } } ) \\Sigma _ { 0 } = \\frac { \\sin h / f } { h } ( h ^ { 1 } , h ^ { 2 } , h ^ { 3 } , h ^ { 4 } , h \\cot h / f ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The gauging of the EW symmetry group $S U ( 2 ) _ { L } \\ \\times$ $U ( 1 ) _ { Y }$ can be performed in the chiral Lagrangian showed above just by promoting the derivative to a covariant one, $\\partial _ { \\mu }  \\partial _ { \\mu } - i ( g _ { 0 } W _ { \\mu } ^ { a } T _ { L } ^ { a } + g _ { 0 } ^ { \\prime } B _ { \\mu } T _ { R } ^ { 3 } )$ . The leading order Lagrangian for the gauge fields and the Nambu-Goldstone bosons then reads ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } ^ { ( 0 ) } = - \\frac { 1 } { 4 } W _ { \\mu \\nu } ^ { a } W ^ { a \\mu \\nu } - \\frac { 1 } { 4 } B _ { \\mu \\nu } B ^ { \\mu \\nu } + \\frac { f ^ { 2 } } { 2 } ( D _ { \\mu } \\Sigma ) ^ { t } ( D ^ { \\mu } \\Sigma ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To give formal $S O ( 5 )$ transformations to the gauge bosons,one can use the method of spurions introducing fake fields to complete the $S O ( 5 )$ multiplet and gauge the whole group: $A _ { \\mu } = A _ { \\mu } ^ { a } T ^ { a } + A _ { \\mu } ^ { \\hat { a } } T ^ { \\hat { a } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most general $S O ( 5 ) \\times U ( 1 ) _ { X }$ -invariant Lagrangian depending on the gauge fields and the NGBs,at the quadratic order in the gauge fields and in momentum space,is ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { L } ^ { e f f } = \\frac { P _ { T } ^ { \\mu \\nu } } { 2 } ( \\Pi _ { 0 } ( p ^ { 2 } ) \\mathrm { T r } ( A _ { \\mu } A _ { \\nu } ) + \\Pi _ { 1 } ( p ^ { 2 } ) \\Sigma ^ { t } A _ { \\mu } A _ { \\nu } \\Sigma ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { T } ^ { \\mu \\nu } = \\eta ^ { \\mu \\nu } - p ^ { \\mu } p ^ { \\nu } / p ^ { 2 }$ is the projector on the transverse field configurations.Performing an $S O ( 4 )$ transformation to get $\\vec { h } = ( 0 , 0 , 0 , h )$ and turning off the spurionic gauge fields keeping only the $S U ( 2 ) _ { L } \\times U ( 1 ) _ { Y }$ ones, namely $A _ { \\mu } ^ { a _ { L } } = W _ { \\mu } ^ { a }$ ， $A _ { \\mu } ^ { 3 _ { R } } = B _ { \\mu }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The effective Lagrangian for the SM gauge bosons in $S O ( 5 ) / S O ( 4 )$ with the explicit dependence on the Higgs field can be written as: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { L } ^ { e f f } = } & { \\frac { P _ { T } ^ { \\mu \\nu } } { 2 } \\Bigg ( \\Pi _ { 0 } W _ { \\mu } ^ { a } W _ { \\nu } ^ { a } + \\Pi _ { 1 } \\frac { s _ { h } ^ { 2 } } { 4 } \\left( W _ { \\mu } ^ { 1 } W _ { \\nu } ^ { 1 } + W _ { \\mu } ^ { 2 } W _ { \\nu } ^ { 2 } \\right) + } \\\\ & { \\Pi _ { B } B _ { \\mu } B _ { \\nu } + \\Pi _ { 1 } \\frac { s _ { h } ^ { 2 } } { 4 } \\left( \\frac { g _ { 0 } ^ { \\prime } } { g _ { 0 } } B _ { \\mu } - W _ { \\mu } ^ { 3 } \\right) \\left( \\frac { g _ { 0 } ^ { \\prime } } { g _ { 0 } } B _ { \\nu } - W _ { \\nu } ^ { 3 } \\right) } \\\\ & { \\qquad + c _ { h } \\Pi _ { L R } \\left( W _ { \\mu } ^ { a } W _ { \\nu } ^ { a } - \\frac { g _ { 0 } ^ { \\prime 2 } } { g _ { 0 } ^ { 2 } } B _ { \\mu } B _ { \\nu } \\right) \\Bigg ) , \\qquad ( } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\Pi _ { B } = g _ { 0 } ^ { \\prime 2 } / g _ { 0 } ^ { 2 } \\Pi _ { 0 }$ . From this Lagrangian one can easily obtain the relation $\\Pi _ { W _ { 3 } B } = - g _ { 0 } ^ { \\prime } / g _ { 0 } \\frac { s _ { h } ^ { 2 } } { 4 } \\Pi _ { 1 }$ , which is directly related with S-parameter. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "THESPINONERESONANCES ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper， we are going to introduce one vector resonance $\\rho _ { \\mu } ^ { a _ { L } , a _ { R } }$ transforming as $( 3 , 1 ) \\oplus ( 1 , 3 )$ and one axial resonance $a _ { \\mu } ^ { \\tilde { a } }$ transforming as $( 2 , 2 )$ under the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }$ symmetry group. The Lagrangian for vector and axial resonances could be summarized by the following equations [29]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\mathcal { L } _ { \\rho _ { L } } } } & { { = } } & { { \\displaystyle - \\frac { 1 } { 4 } \\mathrm { T r } \\left( \\rho _ { L , \\mu \\nu } \\rho _ { L } ^ { \\mu \\nu } \\right) + \\frac { f _ { \\rho } ^ { 2 } } { 2 } \\mathrm { T r } \\big ( g _ { \\rho } \\rho _ { L \\mu } - E _ { \\mu } ^ { L } \\big ) ^ { 2 } } } \\\\ { { \\mathcal { L } _ { \\rho _ { R } } } } & { { = } } & { { \\displaystyle - \\frac { 1 } { 4 } \\mathrm { T r } \\left( \\rho _ { R , \\mu \\nu } \\rho _ { R } ^ { \\mu \\nu } \\right) + \\frac { f _ { \\rho } ^ { 2 } } { 2 } \\mathrm { T r } \\big ( g _ { \\rho } \\rho _ { R \\mu } - E _ { \\mu } ^ { R } \\big ) ^ { 2 } } } \\\\ { { \\mathcal { L } _ { a } } } & { { = } } & { { \\displaystyle - \\frac { 1 } { 4 } \\mathrm { T r } \\left( a _ { \\mu \\nu } a ^ { \\mu \\nu } \\right) + \\frac { f _ { a } ^ { 2 } } { 2 \\Delta ^ { 2 } } \\mathrm { T r } \\big ( g _ { a } a _ { \\mu } - \\Delta d _ { \\mu } \\big ) ^ { 2 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the mass parameters can be defined as: $m _ { \\rho } = g _ { \\rho } f _ { \\rho }$ $m _ { a } = g _ { a } f _ { a } / | \\Delta |$ .The electroweak field strengthes are: $W _ { \\mu \\nu } = \\partial _ { \\mu } W _ { \\nu } - \\partial _ { \\nu } W _ { \\mu } - i g _ { 0 } [ W _ { \\mu } , W _ { \\nu } ]$ ， $B _ { \\mu \\nu } = \\partial _ { \\mu } B _ { \\nu } - \\partial _ { \\nu } B _ { \\mu }$ For the axial resonances,the notation in the kinetic term reads: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { \\mu \\nu } = \\nabla _ { \\mu } a _ { \\nu } - \\nabla _ { \\nu } a _ { \\mu } , \\quad \\nabla _ { \\mu } = \\partial _ { \\mu } - i E _ { \\mu }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The leading tri-linear interaction terms involving one Higgs boson read: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { { \\mathcal { L } _ { h } = ( \\frac { 1 } { 4 } f ^ { 2 } + \\frac { 1 } { 2 } f _ { a } ^ { 2 } ) \\sqrt { \\xi } \\sqrt { 1 - \\xi } \\frac { h } { f } ( g _ { 0 } W _ { \\mu } ^ { a } - g _ { 0 } ^ { \\prime } \\delta ^ { a 3 } B _ { \\mu } ) ^ { 2 } } } } \\\\ { { { { } } } } \\\\ { { { { } + \\frac { f _ { \\rho _ { L } } ^ { 2 } } { 2 } \\sqrt { \\xi } \\frac { h } { f } \\left( g _ { \\rho _ { L } } { \\rho } _ { \\mu } ^ { a L } - g _ { 0 } W _ { \\mu } ^ { a } \\right) ( g _ { 0 } W _ { \\mu } ^ { a } - g _ { 0 } ^ { \\prime } \\delta ^ { a 3 } B _ { \\mu } ) ) } } } \\\\ { { { { } } } } \\\\ { { { { } - \\frac { f _ { \\rho _ { R } } ^ { 2 } } { 2 } \\sqrt { \\xi } \\frac { h } { f } \\left( g _ { \\rho _ { R } } { \\rho } _ { \\mu } ^ { a R } - g _ { 0 } ^ { \\prime } \\delta ^ { a 3 } B _ { \\mu } \\right) ( g _ { 0 } W _ { \\mu } ^ { a } - g _ { 0 } ^ { \\prime } \\delta ^ { a 3 } B _ { \\mu } ) } } } \\\\ { { { { } } } } \\\\ { { { { } - \\frac { f _ { a } ^ { 2 } } { \\sqrt { 2 } \\Delta } \\sqrt { 1 - \\xi } \\frac { h } { f } g _ { a } a _ { \\mu } ^ { a } ( g _ { 0 } W _ { \\mu } ^ { a } - g _ { 0 } ^ { \\prime } \\delta ^ { a 3 } B _ { \\mu } ) } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $\\xi = v ^ { 2 } / f ^ { 2 }$ ,and $a = 1 , 2 , 3$ . Note that $h \\rho W$ coupling is suppressed by an additional $\\sqrt { \\xi }$ compared with that of the axial resonance and as a result,its contribution to the Higgs process is subdominant. See below for the calculation of the $h  Z \\gamma$ decay width. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "THESPARAMETERANDELECTROWEAK PRECISIONCONSTRAINTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The explicit form of the form factors is obtained by integrating out the heavy vector resonances at tree-level. For simplicity,assuming only one vector and axial resonances,we simply get ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\Pi _ { 1 } ( p ^ { 2 } ) ~ = ~ g _ { 0 } ^ { 2 } f ^ { 2 } + 2 g _ { 0 } ^ { 2 } p ^ { 2 } \\left[ { \\frac { f _ { a } ^ { 2 } } { ( p ^ { 2 } + m _ { a } ^ { 2 } ) } } - { \\frac { f _ { \\rho } ^ { 2 } } { ( p ^ { 2 } + m _ { \\rho } ^ { 2 } ) } } \\right] ^ { \\mathrm { ( } } } } \\\\ { { \\Pi _ { 0 } ( p ^ { 2 } ) ~ = ~ p ^ { 2 } + g _ { 0 } ^ { 2 } p ^ { 2 } { \\frac { f _ { \\rho } ^ { 2 } } { ( p ^ { 2 } + m _ { \\rho } ^ { 2 } ) } } , ~ \\Pi _ { 0 } ^ { X } ( p ^ { 2 } ) = p ^ { 2 } . ~ ( } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The $\\Pi _ { 1 } ( p ^ { 2 } )$ form factor involves NGBs and measures EWSB effects. We regulate its UV behavior by imposing ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\Pi _ { 1 } ( p ^ { 2 } )$ to zero at high energy as the first Weinberg sum rule in QCD ([32]): ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { l i m } _ { p ^ { 2 }  + \\infty } g _ { 0 } ^ { - 2 } \\Pi _ { 1 } ( p ^ { 2 } ) = f ^ { 2 } + 2 f _ { a } ^ { 2 } - 2 f _ { \\rho } ^ { 2 } \\equiv 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Unlike the QCD，we do not impose $\\mathrm { { I I } _ { 1 } }$ goes to zero faster than $1 / p ^ { 2 }$ for large momenta.Instead,we use a parameter $\\alpha$ categorizes the deviation to relaxing the second Weinberg's sum rule,we have ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname * { l i m } _ { p ^ { 2 }  + \\infty } g _ { 0 } ^ { - 2 } p ^ { 2 } \\Pi _ { 1 } ( p ^ { 2 } ) = 2 ( f _ { \\rho } ^ { 2 } m _ { \\rho } ^ { 2 } - f _ { a } ^ { 2 } m _ { a } ^ { 2 } ) = 2 \\alpha ^ { 2 } f ^ { 4 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the natural size for the $\\alpha$ is $\\alpha \\sim g _ { \\rho } , g _ { a }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The form factor $\\Pi _ { W _ { 3 } B }$ is also related to the $S$ parameter: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = - \\frac { 1 6 \\pi } { g g ^ { \\prime } } \\Pi _ { W _ { 3 } B } ^ { \\prime } ( 0 ) = \\frac { 1 6 \\pi } { g ^ { 2 } } \\frac { s _ { h } ^ { 2 } } { 4 } \\Pi _ { 1 } ^ { \\prime } ( 0 )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As well known, $S$ is the main phenomenological electroweak bound constraining Composite Higgs Models, that requires $s _ { h } \\ll 1$ . From eq.(13) and eq.(16),we readily obtain the tree-level contribution to the $S$ -parameter: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS \\simeq 8 \\pi s _ { h } ^ { 2 } \\left( \\frac { f _ { \\rho } ^ { 2 } } { m _ { \\rho } ^ { 2 } } - \\frac { f _ { a } ^ { 2 } } { m _ { a } ^ { 2 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where we have approximated $g _ { 0 } \\simeq g$ for simplicity. [50]. In the simple case without $a$ ，we have $S \\ : = \\ : 4 \\pi v ^ { 2 } / m _ { \\rho } ^ { 2 }$ which marginally fits $S \\lesssim 0 . 2 5$ when $m _ { \\rho } \\gtrsim 2$ TeV. Notice that in our parametrization,we do not expect $m _ { \\rho } \\simeq m _ { a }$ （204号 and $f _ { \\rho } \\simeq f _ { a }$ in the “walking region” to get a suppressed tree level $S$ parameter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is interesting to think about the generic condition $\\Pi _ { 1 } ( p ^ { 2 } ) ~ \\geqslant ~ 0$ as suggested by Witten's theorem if the underlying strong dynamics is vector confining [27]. In this case, the first Weinberg sum rule Eq.(14) suggests that $\\Pi _ { 1 } ( 0 ) \\geqslant 0$ since $f _ { \\rho } \\geqslant f _ { a }$ and Eq.(15）guarantees that $\\Pi _ { 1 } ( + \\infty ) \\geqslant 0$ ．There could be one other minima （20 $\\Pi _ { 1 } ( p _ { * } ^ { 2 } ) = ( f _ { a } m _ { a } + f _ { \\rho } m _ { \\rho } ) ^ { 2 } / ( m _ { \\rho } ^ { 2 } - m _ { a } ^ { 2 } )$ in the intermediate region $( \\Pi _ { 1 } ^ { \\prime } ( p _ { * } ^ { 2 } ) = 0$ ） $p _ { * } ^ { 2 } = m _ { a } m _ { \\rho } ( f _ { a } m _ { \\rho } - f _ { \\rho } m _ { a } ) / ( f _ { \\rho } m _ { \\rho } -$ $f _ { a } m _ { a } ) \\geqslant 0$ if $S < 0$ ，which suggests that $m _ { \\rho } \\geqslant m _ { a }$ for negative $S$ .Therefore in vector confining theory, $S$ is always positive if $m _ { \\rho } < m _ { a }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are also contributions from the composite Higgs at one-loop: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\Delta S = \\frac { 1 } { 6 \\pi } \\left[ s _ { h } ^ { 2 } \\log \\left( \\frac { \\Lambda } { m _ { h } } \\right) + \\log \\left( \\frac { m _ { h } } { m _ { h , r e f } } \\right) \\right] , } \\\\ { \\Delta T = - \\frac { 3 } { 8 \\pi c _ { w } ^ { 2 } } \\left[ s _ { h } ^ { 2 } \\log \\left( \\frac { \\Lambda } { m _ { h } } \\right) + \\log \\left( \\frac { m _ { h } } { m _ { h , r e f } } \\right) \\right] } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to decrease the lepton $\\rho$ coupling which could make our model less constrained by the $\\rho  l ^ { + } l ^ { - }$ decay,we allow our leptons mix moderately with composite leptons $l ^ { * }$ which is of order $g / \\sqrt { g _ { \\rho } g _ { \\rho } ^ { l * } }$ ，where $g _ { \\rho } ^ { l * }$ （204号 is the coupling between $\\rho$ and composite leptons (See the middle panel of Fig.1). On the other hand,this extra composite components of light fermions will induce operators like $\\mathrm { i } ( l ^ { + } \\gamma ^ { \\mu } l ) ( H ^ { \\dagger } D _ { \\mu } H )$ by integrating out the vector fields $\\rho$ and $a$ .Because of the existence of $a$ ，one can adjust the coupling between $a$ and ${ \\mathit { l } } ^ { * }$ $( g _ { \\rho } ^ { l * } ( \\xi / 2 ) m _ { \\rho } ^ { 2 } / g _ { \\rho } \\sim g _ { a } ^ { l * } \\sqrt { \\xi / 2 } m _ { a } ^ { 2 } g _ { a } )$ so that couplings between $l ^ { * }$ and SM gauge bosons $W / B$ are further suppressed or even cancelled [51]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/16227477e0caa03389efe85ae35e9e690dfd70b2c57cc5b507d1bf51013b3d38.jpg",
+        "img_caption": [
+            "FIG.1:Cancellation mechanisms between the $\\rho$ and $a$ contributions to the EW precision observables and $\\rho - l - l$ couplings.Upper:cancellation occurs between the contributions to the SM gauge boson vacuum polarization diagram.Middle: cancellation occurs between the $\\rho$ and SM lepton couplings.. Bottom: cancellation occurs between the SM gauge boson and composite fermion couplings. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FITTHELHC2TEVDIBOSONEXCESS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The ATLAS（[1]） and CMS（[3O]) collaborations have reported the observed and expected bounds at 95% C.L. around 2 TeV in the diboson invariant mass distributions, which we summarize in Table.I.We can see clearly the excess in both CMS and ATLAS.Note that the search is dedicated to the hadronically decaying Z and W and the ability to accurately distinguish the two gauge bosons is highly limited,the three channels are not exclusive.To explain the excesses with new physics,the new physics need to contribute somehow $6 - 8$ fb [6]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section，we focus on the $\\rho _ { L }$ and investigate the possibility to account for the excesses of $\\sigma ( \\mathrm { W Z } )$ and $\\sigma ( \\mathrm { W W } )$ at ATLAS ([5-12]) [52]. The two parameters $( m _ { a } , f _ { a } )$ of the axial resonance can be obtained by the Weinberg first and relaxed second sum rule (eq.14,15) as functions of $( \\xi , m _ { \\rho } , g _ { \\rho } , \\alpha )$ . All right-handed SM model fermions are not relevant here since we embed them in the singlet representation of $S O ( 4 )$ . For SM top quark,only the compositeness of $t _ { L }$ plays an important role in the phenomenology of $\\rho _ { L }$ .Here we introduce the parameter $\\epsilon _ { t L }$ to measure the degree of compositeness for $t _ { L }$ (see appendix for detail). Now we have five parameters in our model $( M _ { \\rho } , g _ { \\rho } , \\xi , \\alpha , \\epsilon _ { t L } )$ ， where $M _ { \\rho } ^ { 2 } \\sim m _ { \\rho } ^ { 2 } ( 1 + g ^ { 2 } / g _ { \\rho } ^ { 2 } )$ is the physical mass of the $\\rho ^ { \\pm , 0 }$ .We will work in the large coupling limit $g _ { \\rho } \\gg g , g _ { 0 } \\sim g , g _ { 0 } ^ { \\prime } \\sim g ^ { \\prime }$ and at leading order in $\\xi$ .The convention and expressions for the couplings can be found in the appendix. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9da381890e0eb0dea04f66bbde3a1a7fb762c884a62ade2afb30d44fbde2709b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Chanel</td><td>1.8 TeV</td><td>2.0 TeV</td></tr><tr><td>ATLAS WZ ATLAS WW ATLAS ZZ CMS ZH [36]</td><td>1 30 fb 14fb 1 19 fb 19fb 1 29fb 11fb [36] 15 fb (9fb) 12 fb (8fb)</td><td>38fb (11fb) 30 fb (14 fb) 30 fb (10 fb) 7 fb (7 fb) 7fb 7fb</td></tr><tr><td>CMS WZ [30] WW</td><td>17 fb （12fb） （29fb)</td><td>14 fb (8fb)</td></tr><tr><td>CMS CMS ZZ CMS WH</td><td>[30] 38fb [30] 28 fb (21fb)</td><td>28 fb (20 fb) 23fb (14fb)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TABLE I: Summary of the observed and expected bounds at $9 5 \\%$ C.L.around 2 TeV at ATLAS and CMS,with and without the brace to denote expected and observed values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EXPLANATIONOF THEDIBOSONEXCESS ANDCONSTRAINTSFROMTHELHC ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d29d48156da06ef1b23dc0204dbeae2eaedd5d22243081986fd6f4c4d8341db3.jpg",
+        "img_caption": [
+            "FIG. 2: Contours for the $\\sigma ( p p \\to \\rho ^ { \\pm } ) \\times B R ( \\rho ^ { + } \\to W ^ { + } Z )$ ： To begin with,we first consider the $\\rho ^ { \\pm } \\to W ^ { \\pm } Z$ channel for ${ \\cal M } _ { \\rho ^ { + } } = 2$ TeV to get a rough idea about the size of our parameters.The production cross sections of $\\rho ^ { \\pm }$ at 8 TeV LHC are given by, "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\sigma ( p p  \\rho ^ { + } ) \\sim { \\displaystyle \\frac { g ^ { 4 } } { g _ { \\rho } ^ { 2 } } } \\times 5 2 8 \\mathrm { f b } , } } \\\\ { { \\sigma ( p p  \\rho ^ { - } ) \\sim { \\displaystyle \\frac { g ^ { 4 } } { g _ { \\rho } ^ { 2 } } } \\times 1 3 2 \\mathrm { f b } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where we have applied a $\\mathrm { K }$ factor $K = 1 . 3 4$ ([38])． Remember for the dijet search,we cannot distinguish the ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/056fab4e6677d613ed7d09a3fa15983f8044fdf83b295df8d2d1d9093df03c76.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Channel</td><td>Process</td><td>1.8 TeV</td><td>2.0 TeV</td></tr><tr><td>ATLAS ll [31] ATLAS lv [34] CMS ll [33] CMS lv[35]</td><td>pp→Z'→ll pp→W'→lv pp→Z'→ll pp→W'→lv</td><td>0.23 fb 0.54 fb 0.24 fb 0.4 fb</td><td>0.20 fb 0.44 fb 0.24 fb 0.30 fb</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "TABLE II: Summary of the relevant stringent observed bounds at $9 5 \\ \\%$ C.L.from LHC. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\rho ^ { + }$ from $\\rho ^ { - }$ ，so that we should add them together.The WZ excess being observed at ATLAS can be expressed as the production cross section of $\\rho ^ { \\pm }$ times the branching ratio of WZ,which can be expressed as a function of $( g _ { \\rho } , \\epsilon _ { t _ { L } } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle ( \\sigma ( p p  \\rho ^ { + } ) + \\sigma ( p p  \\rho ^ { - } ) ) \\times \\mathrm { { B R } } ( \\rho ^ { + }  W ^ { + } Z ) } } \\\\ { { \\displaystyle \\sim 2 8 2 \\mathrm { { f b } } \\times \\frac { \\epsilon _ { g } ^ { 2 } ( 1 + \\epsilon _ { g } ^ { 2 } ) ^ { 2 } } { ( 1 + \\epsilon _ { g } ^ { 2 } ) ^ { 2 } + 1 + 4 8 \\epsilon _ { g } ^ { 4 } + 1 2 \\epsilon _ { t _ { L } } ^ { 4 } - 2 4 \\epsilon _ { g } ^ { 2 } \\epsilon _ { t _ { L } } ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where we have defined the $\\epsilon _ { g } = { g } / { g _ { \\rho } } , \\epsilon _ { t _ { L } }$ ,which measure the degree of compositeness for the SM gauge bosons. Note that we also neglected the $\\xi$ correction in the calculation of the decay width. The behavior of $\\sigma ( p p $ $\\rho ^ { \\pm } ) \\times \\mathrm { B R } ( \\rho ^ { + } \\to W ^ { + } Z )$ as a function of $g _ { \\rho }$ and $\\epsilon _ { t _ { L } }$ is shown in Fig.2,from which we can infer that a large regions $g _ { \\rho } \\lesssim 4 . 0 , \\epsilon _ { t _ { L } } \\lesssim 1 . 0$ are allowed for the excess.Note that a not too small degree of compositeness for the $t _ { L }$ is needed to get the correct EWSB. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is essential to check whether our resonance is consistent with the other $W ^ { \\prime } , Z ^ { \\prime }$ searches at LHC and the strongest constraints come from the dilepton searches (see Table.II).In Fig.3,we plot the three bounds in the $( M _ { \\rho } , g _ { \\rho } )$ plane coming from the searches described above by choosing the following parameters: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi = 0 . 1 , ~ \\alpha = 2 . 1 , ~ \\Delta = 1 , ~ \\epsilon _ { t _ { L } } = 0 . 5 , 0 . 9 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the mass ranges from 1.8 TeV to 2.0 TeV.We also show the bound (the grey region) from the first Weinberg sum rule: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\rho } > \\frac { f } { \\sqrt 2 } \\Rightarrow g _ { \\rho } < \\frac { \\sqrt 2 m _ { \\rho } } { f }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The most strong contraints come from the fully lepton ical search for the $W ^ { \\prime }$ ，which gives $g _ { \\rho } \\gtrsim 2 . 0$ for ${ { M } _ { \\rho } } = 2$ TeV.The white region with star labelled indicates the preferred range from EWPT at $9 5 \\%$ .Combing all the constraints,we can see that the prefered vaule for $g _ { \\rho }$ is $\\sim 2 - 2 . 5 \\$ and the cross sections for the $\\sigma ( \\mathrm { W Z } )$ and $\\sigma ( \\mathrm { W W } )$ are consistent with ATLAS di-boson excess.For example, for $M _ { \\rho } \\sim 2$ TeV, $g _ { \\rho } \\sim 2 . 5$ ， $\\epsilon _ { t _ { L } } = 0 . 5$ ， $\\sigma ( W Z ) \\sim$ 6.78 fb and $\\sigma ( W ^ { + } W ^ { - } ) \\sim 3 . 7 4$ fb. $( m _ { a } , g _ { a } )$ are obtained by solving the (eq.14，15)，where in this benchmark point,we get $( m _ { a } , g _ { a } ) = ( 1 . 4 6 \\mathrm { T e V } , 2 . 6 8 )$ .Decreasing the mass and the coupling a little bit can make the cross section larger by a factor of $\\sim 2$ (see Table. III). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff27b998ca4389180bee6aa9d22e669810051f4e781ad952e58289d2e74fe9b2.jpg",
+        "img_caption": [
+            "FIG.3: Bounds from LHC searches and EWPT with $\\epsilon _ { t _ { L } }$ being fixed as O.5 and O.9 for the upper and downer pannel. For ${ \\epsilon _ { t } } _ { L } ~ = ~ 0 . 9$ ，we have assumed the compositness of lepton make the couplings with $\\rho _ { L }$ vanish and the bounds from leptonical searches disappear. The gray region is excluded by the theoretical consideration of the first Weinberg sum rule (see text). The blue/magenta contours corresponds to the cross section $\\sigma ( p p  W Z / W W )$ and the light orange and green shaded region are excluded by the LHC search $\\sigma ( p p \\to Z ^ { \\prime } \\to e ^ { + } e ^ { - } / \\mu ^ { + } \\mu ^ { - } )$ （[31]）and $\\sigma ( p p \\to W ^ { \\prime } \\to e \\nu / \\mu \\nu$ ） ([35]).The light red region indicates the constraints from EWPT at $9 5 \\%$ C.L.and the green contours depict the ratio $\\Gamma ( h \\to Z \\gamma ) / \\Gamma ( h \\to Z \\gamma ) _ { S M }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$h  Z \\gamma$ DECAYWIDTH ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The additional axial resonance is introduced to play the important role in relieving the stringent constraint of the S parameter as discussed before.While, the additional non-diagonal gauge interactions from mixing effects between electroweak gauge bosons and the axial resonance will contribute to a gauge invariant amplitude for ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ac97a8b70fbd4073dcfc3f7075bead44f3fd9c4e9278b56c4aca47e57ca3d12.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(Mp[TeV],9p)</td><td>σ(WZ)</td><td>σ(WW)</td><td>ma [TeV]</td><td>ga</td><td>T(h→Zγ) r(h→Zq)sM</td></tr><tr><td>(2.0, 2.5)</td><td>6.78</td><td>3.74</td><td>1.46</td><td>2.68</td><td>0.38</td></tr><tr><td>(1.85, 2.0</td><td>4.23</td><td>3.32</td><td>1.29</td><td>1.87</td><td>0.17</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TABLE III: Benchmark points (star in Fig.3) for the allowed region assuming $\\epsilon _ { t _ { L } } ~ = ~ 0 . 5$ and $\\epsilon _ { t _ { L } } ~ = ~ 0 . 9$ for the first and second row. The cross sections are shown in fb. the $h  Z \\gamma$ process.In principle the $\\rho _ { L }$ will also contribute to the $h  Z \\gamma$ ，but its result will be suppressed by an additional $\\xi$ or $( g ^ { 2 } / g _ { \\rho } ^ { 2 } )$ compared with the axial resoance and thus can be safely neglected. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The general results for the $h  Z \\gamma$ decay width with respect to the SM value can be expressed as a simple form: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\Gamma ( h  Z \\gamma ) } { \\Gamma ( h  Z \\gamma ) _ { S M } } \\simeq | a _ { W } + 0 . 0 8 c _ { Z \\gamma } | ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where we have neglected the small top contribution and the coefficient $c _ { Z \\gamma }$ (see appendix for the definition of the coeffcients.） can be calcualted at 1-loop level ([39]): ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { Z \\gamma } \\ = \\ 2 c _ { a W } c _ { Z a W } c _ { Z \\gamma } ^ { ( 1 ) } \\left( m _ { W } , m _ { a } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle c _ { Z \\gamma } ^ { ( 1 ) } ( m _ { W } , m _ { a } ) ~ \\simeq ~ \\cot \\theta _ { w } \\cdot \\left( \\frac { 7 m _ { a } ^ { 2 } } { 4 m _ { W } ^ { 2 } } + \\frac { 9 } { 2 } \\log \\left( \\frac { m _ { a } ^ { 2 } } { m _ { W } ^ { 2 } } \\right) \\right. } } \\\\ { { \\displaystyle ~ + \\frac { 5 m _ { h } ^ { 2 } - 4 7 m _ { Z } ^ { 2 } - 4 5 m _ { W } ^ { 2 } } { 3 6 m _ { W } ^ { 2 } } \\Bigg ) } } \\\\ { { \\displaystyle ~ + ~ \\mathcal { O } \\left( \\frac { 1 } { m _ { a } ^ { 2 } } \\log \\left( \\frac { m _ { a } ^ { 2 } } { m _ { W } ^ { 2 } } \\right) \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The couplings in the mass eigenstates can be obtaind by diagonalizing the mixing mass matrix in the charged and neutral sector: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { a _ { W } = \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } ( \\frac { g ^ { 2 } } { g _ { a } ^ { 2 } } \\xi ) \\right) } \\\\ & { c _ { a W } = - \\displaystyle \\frac { \\Delta } { \\sqrt { 2 } } \\frac { g } { g _ { a } } \\sqrt { \\xi } \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } ( \\frac { g ^ { 2 } } { g _ { a } ^ { 2 } } \\xi ) \\right) } \\\\ & { c _ { a } = \\displaystyle \\frac { \\Delta ^ { 2 } g ^ { 2 } } { 4 g _ { a } ^ { 2 } } \\xi \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } ( \\frac { g ^ { 2 } } { g _ { a } ^ { 2 } } \\xi ) \\right) } \\\\ & { c _ { Z a W } = ( 1 - \\displaystyle \\frac { 1 } { 2 } \\frac { 1 } { \\cos ^ { 2 } \\theta _ { W } } ) \\frac { \\Delta } { \\sqrt { 2 } } \\frac { g } { g _ { a } } \\sqrt { \\xi } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note that we find different results with Ref.[39],especially for the couplings $a _ { W } , c _ { Z a W }$ , where Ref. [39] has missed one term for the $c _ { Z a W }$ . The non-diagonal contribution interferes with SM amplitude deconstructively,as shown in Fig.3,where we plot the contours (in green) for the $\\Gamma ( h \\to Z \\gamma ) / \\Gamma ( h \\to Z \\gamma ) _ { S M }$ with the same parameters in eq.22.From the benchmark points shown in Table.II,the deviation from the SM can be as large as 70% and this could provide the strong evidence on the existence of axial resonances if such a deviation is observed at 14 TeVLHC. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION AND OUTLOOK ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this paper，we have considered the possibility of spin one resonances in the minimal composite Higgs scenario based on the $S O ( 5 ) / S O ( 4 ) \\times U ( 1 ) _ { X }$ （ $S O ( 4 ) \\ \\simeq$ $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }$ ）symmetry breaking pattern to account for the recent diboson excess reported in both ATLAS and CMS Collaborations. The relevant model is constructed in the CCWZ language with vector meson dominance and imposing the first Weinberg sum rule and positive SM gauge boson form factors.We emphasis that the presence of axial vector resonance $a$ as a bidoublet of $S U ( 2 ) _ { L } \\times S U ( 2 ) _ { R }$ is crucial to dramatically improve the EWPT if a $S U ( 2 ) _ { L }$ triplet vector boson $\\rho$ with a mass $1 . 8 \\sim 2$ TeV is used to explain the diboson excess.The suppressed couplings between $a$ and SM quarks $( \\sim \\sqrt { \\xi } g / g _ { a } )$ suggest that $a$ is hided in the $7 \\sim 8$ TeVLHC resonance searches.We find that our model can fit the diboson excess very well if the left-handed SM light quarks,charged leptons and top/bottoms have zero, zero or moderately small and moderate or large composite components for reasonable value of $g _ { \\rho }$ and $f$ . If such a diboson excess is indeed confirmed at the $1 3 \\sim 1 4$ TeV LHC run two, the large deviation in the $h  Z \\gamma$ decay width would be a strong hint for the existence of $a$ expected in our model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "There are indeed various interesting aspects to pursue since current paper only provide the first order sketch of our model. Here we just listed a few of them below: (1): unitarity bounds on the cut off scale from the longitudinal gauge boson scattering by including both $\\rho$ and $a$ (2):realistic log divergent Coleman Weinberg Higgs potential from a composite top, $\\rho$ and $a$ to get the correct Higgs mass (3): direct axial vector boson searches at the $1 3 \\sim 1 4$ TeV LHC Run II (4): full calculation of $h  \\gamma \\gamma$ and $h  Z \\gamma$ including both $\\rho$ and $a$ ，etc.We will leave the above issues for future studies and expect that our scenario can attract people's interests in the axial vector bosons studies. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "APPENDIXA:DECAYWIDTHANDTRIPLE COUPLINGS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the mass eigenbasis,the general Lagrangian involving cubic interactions terms between the heavy reso",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "nances and the SM fields reads ([40]): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathcal { L } _ { p } = \\ i g _ { \\rho } \\cdot w _ { 2 } \\{ \\mathcal { ( \\partial _ { \\rho } g - \\partial _ { \\rho } g _ { \\rho } ) W ^ { \\rho } - \\mathcal { L } _ { \\rho } \\nu }  } \\\\ { \\ : } & { \\ : -   \\partial _ { \\rho } W _ { \\rho } ^ { \\rho } - \\partial _ { \\rho } W _ { \\rho } ^ { \\rho }  \\mathcal { H } ^ { \\rho + } Z ^ { \\nu } } \\\\ { \\ : } & { \\ : +  \\partial _ { \\rho } g _ { \\rho } - \\partial _ { \\rho } Z _ { \\rho }  \\rho ^ { \\rho + } W ^ { \\rho - } + \\hbar . c . | } \\\\ { \\ : } & { \\ : +  i g _ { \\rho } w _ { \\rho } W [ ( \\partial _ { \\rho } W _ { \\rho } ^ { \\rho } - \\partial _ { \\rho } W _ { \\rho } ^ { \\rho } ) W ^ { \\rho } - \\beta ^ { \\rho } W ^ { \\rho }  } \\\\ { \\ : } & { \\ : + \\frac { 1 } { 2 } ( \\partial _ { \\rho } g _ { \\rho } \\nu ^ { \\rho } - \\partial _ { \\rho } g _ { \\rho } ^ { \\rho } ) W ^ { \\rho \\nu } W ^ { \\rho - } + \\hbar . c . | } \\\\ { \\ : } & { \\ : +  g _ { \\rho } w _ { \\rho } ( b \\rho _ { \\rho } ^ { + } W ^ { \\rho } - \\hbar . c . ) + g _ { \\rho } z _ { \\rho } h b \\rho _ { \\rho } ^ { 0 } Z ^ { \\rho } } \\\\ { \\ : } & { \\ : + \\frac { 1 } { \\sqrt { 2 } } g _ { \\rho } ( \\rho _ { \\rho } ^ { + } \\hat { f } _ { \\rho } ^ { \\dagger } t ^ { \\rho } f ^ { \\dagger } + \\hbar . c . ) } \\\\ { \\ : } & { \\ : + g _ { \\rho } \\ : + f ( \\rho _ { \\rho } ^ { + } \\hat { f } _ { \\rho } ^ { \\dagger } t ^ { \\rho } f ^ { \\dagger } + h . c . ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $f$ stands for any of the SM chiral fermions and $\\rho$ （204号 can be either $\\rho _ { L }$ or $\\rho _ { R }$ . We will only show the couplings in the large coupling limit $g _ { \\rho } \\gg g$ for $\\rho _ { L }$ and keep the leading term in $\\xi$ . We will make some comments for $\\rho _ { R }$ in the end. First,we list the mass formulae for the $\\rho _ { L }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM _ { \\rho ^ { \\pm , 0 } } ^ { 2 } \\sim m _ { \\rho } ^ { 2 } \\left( 1 + \\frac { g ^ { 2 } } { g _ { \\rho } ^ { 2 } } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Secondly, we show the couplings involving the SM gauge bosons and the Higgs: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { g _ { \\rho ^ { + } W Z } \\sim \\displaystyle \\frac { m _ { Z } m _ { W } } { m _ { \\rho } ^ { 2 } } g _ { \\rho } , ~ g _ { \\rho ^ { + } W h } \\sim m _ { W } g _ { \\rho } \\nonumber , } } \\\\ { { \\displaystyle g _ { \\rho ^ { 0 } W W } \\sim \\displaystyle \\frac { m _ { W } ^ { 2 } } { m _ { \\rho } ^ { 2 } } g _ { \\rho } , ~ g _ { \\rho ^ { 0 } Z h } \\sim m _ { Z } g _ { \\rho } \\nonumber . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For the couplings with fermions, there are in general two sources: the mixing of the SM gauge boson with composite $\\rho$ resonances and the mixing of the SM fermions with composite fermionic resonances. The first effect is universal and scales like $g ^ { 2 } / g _ { \\rho }$ .The second effect depends on the masses of the fermion and only the SM top can have a significant size. Under the assumption of $t _ { R }$ being a $S O ( 4 )$ singlet and the coupling involving it will start at $\\xi$ .So only the partial compositeness of $t _ { L }$ has an impor tant impact on the phenomenology of the $\\rho$ and we define （204号 $\\epsilon _ { t _ { L } }$ as the degree of its compositeness.We summarize the results below: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle g _ { \\rho ^ { + } f _ { c l } f _ { c l } ^ { \\prime } } \\sim - \\frac { g ^ { 2 } } { g _ { \\rho } } , \\ g _ { \\rho ^ { + } f _ { L } b _ { L } } \\sim - \\frac { g ^ { 2 } } { g _ { \\rho } } + g _ { \\rho } \\epsilon _ { t _ { L } } ^ { 2 } \\ , } } \\\\ { { \\displaystyle g _ { \\rho ^ { 0 } f _ { c l } f _ { c l } } \\sim - T _ { f } ^ { 3 L } \\frac { g ^ { 2 } } { g _ { \\rho } } , } } \\\\ { { \\displaystyle g _ { \\rho ^ { 0 } t _ { L } t _ { L } } \\sim \\frac { 1 } { 2 } ( - \\frac { g ^ { 2 } } { g _ { \\rho } } + g _ { \\rho } \\epsilon _ { t _ { L } } ^ { 2 } ) \\ , } } \\\\ { { \\displaystyle g _ { \\rho ^ { 0 } b _ { L } b _ { L } } \\sim - \\frac { 1 } { 2 } ( - \\frac { g ^ { 2 } } { g _ { \\rho } } + g _ { \\rho } \\epsilon _ { t _ { L } } ^ { 2 } ) \\ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where we have neglected the $\\xi$ correction and $f _ { e l }$ is the fully elementary chiral SM fermions. The difference of $\\rho _ { R }$ is that it only mixing with the SM hyper-charge field, as a result only $\\rho _ { R } ^ { 0 }$ has a non-zero coupling with SM elementary fermions before EWSB and scale like $- Y g ^ { \\prime 2 } / g _ { \\rho }$ where $Y$ is the hyper charge field.We finally present the analytical formulae for the decay widths of $\\rho$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\Gamma ( \\rho ^ { + } \\to W ^ { + } Z ) = M _ { \\rho ^ { + } } ^ { 5 } g _ { \\rho ^ { + } + W Z } ^ { 2 } / ( 1 9 2 \\pi m _ { W } ^ { 2 } m _ { Z } ^ { 2 } ) } \\\\ & { \\Gamma ( \\rho ^ { + } \\to W ^ { + } h ) = M _ { \\rho ^ { + } } g _ { \\rho ^ { + } + W h } ^ { 2 } / ( 1 9 2 \\pi m _ { W } ^ { 2 } ) , } \\\\ & { \\Gamma ( \\rho ^ { + } \\to \\psi _ { f } \\bar { \\psi } _ { f ^ { \\prime } } ) = N _ { c } M _ { \\rho ^ { + } } g _ { \\rho ^ { + } + f f ^ { \\prime } } ^ { 2 } / 4 8 \\pi , } \\\\ & { \\Gamma ( \\rho ^ { 0 } \\to W ^ { + } W ^ { - } ) = M _ { \\rho ^ { 0 } } ^ { 5 } g _ { \\rho ^ { 0 } W W } ^ { 2 } / ( 1 9 2 \\pi m _ { W } ^ { 4 } ) , } \\\\ & { \\Gamma ( \\rho ^ { 0 } \\to Z h ) = M _ { \\rho ^ { 0 } } g _ { \\rho ^ { 0 } Z h } ^ { 2 } / ( 1 9 2 \\pi m _ { Z } ^ { 2 } ) , } \\\\ & { \\Gamma ( \\rho ^ { 0 } \\to \\psi _ { f } \\bar { \\psi } _ { f } ) = N _ { c } M _ { \\rho ^ { 0 } } g _ { \\rho ^ { 0 } f f } ^ { 2 } / 2 4 \\pi . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { c }$ is the color factor for the SM fermions and $f$ denotes any SM chiral fermions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "APPENDIXB:THEMODEL AND THECOUPLINGS RELEVANT TO $h  Z \\gamma$ （204号",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The effective Lagrangian parametrizing the Higgs interactions with the gauge bosons is: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle \\mathcal { L } _ { e f f } } \\ = \\ { a _ { W } } { \\displaystyle \\frac { 2 m _ { W } ^ { 2 } } { v } } { h } { \\displaystyle W _ { \\mu } ^ { + } } W _ { \\mu } ^ { - } + { a _ { Z } } { \\displaystyle \\frac { m _ { Z } ^ { 2 } } { v } } { h } { Z _ { \\mu } } { Z _ { \\mu } } \\ ~ ( 3 4 ) } } \\\\ { { \\displaystyle ~ + c _ { \\rho } { \\displaystyle \\frac { 2 m _ { P } ^ { 2 } } { v } } { h } { \\rho } _ { L \\mu } ^ { + } { \\rho } _ { L \\mu } ^ { - } } } \\\\ { { \\displaystyle ~ + c _ { a } { \\displaystyle \\frac { 2 m _ { a } ^ { 2 } } { v } } { h } { a _ { \\mu } ^ { + } } { a _ { \\mu } ^ { - } } + c _ { a W } { \\displaystyle \\frac { m _ { a } ^ { 2 } } { v } } { h } \\left( W _ { \\mu } ^ { + } { a _ { \\mu } ^ { - } } + W _ { \\mu } ^ { - } { a _ { \\mu } ^ { + } } \\right) } } \\\\ { { \\displaystyle ~ + c _ { a \\rho _ { L } } { \\displaystyle \\frac { m _ { a } ^ { 2 } } { v } } { h } \\left( { \\rho } _ { L \\mu } ^ { + } { a _ { \\mu } ^ { - } } + { \\rho } _ { L \\mu } ^ { - } { a _ { \\mu } ^ { + } } \\right) + c _ { f } \\left( { \\displaystyle \\frac { m _ { f } } { v } } { \\bar { f } } \\right) { h } \\ ~ } } \\\\ { { \\displaystyle ~ + c _ { \\gamma } { \\displaystyle \\frac { \\alpha } { 8 \\pi v } } { h } { A ^ { \\mu \\nu } } { A _ { \\mu \\nu } } + c _ { Z \\gamma } { \\displaystyle \\frac { \\alpha } { 4 \\pi v } } { h } { Z ^ { \\mu \\nu } } { A _ { \\mu \\nu } } ~ , ~ ( 3 5 ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We can obtain the relevant couplings for $h  Z \\gamma$ process in the presence of the axial resonance by diagonalizing the mass matrix at leading order: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { a _ { W } = \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } \\big ( \\frac { g ^ { 2 } } { g _ { W } ^ { 2 } } \\xi \\big ) \\right) } } \\\\ { { a _ { Z } = \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } \\big ( \\frac { g ^ { 2 } } { g _ { W } ^ { 2 } } \\xi \\big ) \\right) } } \\\\ { { c _ { \\alpha W } = - \\frac { \\Delta } { \\sqrt { 2 } } \\frac { g } { \\mathcal { g } _ { W } } \\sqrt { \\xi } \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } \\big ( \\frac { g ^ { 2 } } { g _ { W } ^ { 2 } } \\xi \\big ) \\right) } } \\\\ { { c _ { \\alpha } = \\frac { \\Delta ^ { 2 } g ^ { 2 } } { 4 g _ { W } ^ { 2 } } \\xi \\sqrt { 1 - \\xi } \\left( 1 + \\mathcal { O } \\big ( \\frac { g ^ { 2 } } { g _ { W } ^ { 2 } } \\xi \\big ) \\right) } } \\\\ { { c _ { Z \\alpha W } = \\big ( 1 - \\frac { 1 } { 2 } \\frac { 1 } { \\cos ^ { 2 } \\theta _ { W } } \\frac { \\Delta } { \\sqrt { 2 } g _ { W } } \\sqrt { \\xi } } } \\\\ { { c _ { \\alpha } = \\mathcal { O } \\big ( \\frac { g ^ { 2 } } { g _ { W } ^ { 2 } } \\xi \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "By power counting，we can roughly estimate the other couplings involving the $\\rho _ { L }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { c _ { \\rho } \\sim { \\displaystyle \\frac { g ^ { 2 } } { g _ { \\rho } ^ { 2 } } } \\xi , \\qquad c _ { a \\rho _ { L } } \\sim { \\displaystyle \\frac { g } { g _ { \\rho } } } { \\displaystyle \\frac { g } { g _ { a } } } \\sqrt \\xi } }  \\\\ { { { c _ { Z a \\rho _ { L } } \\sim { \\displaystyle \\frac { g } { g _ { \\rho } } } { \\displaystyle \\frac { g } { g _ { a } } } \\sqrt \\xi } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As expected, the mixing couplings for the $( a , \\rho _ { L } )$ are sup pressed by $g / g _ { \\rho }$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "\\* Electronic address: e-mail: jshu@itp.ac.cn   \n[1] G.Aad et al. [ATLAS Collaboration]，“Search for high-mass diboson resonances with boson-tagged jets in proton-proton collisions at $\\sqrt { s } = 8$ TeV with the ATLAS detector,”arXiv:1506.00962 [hep-ex].   \n[2]V.Khachatryan et al.[CMS Collaboration], JHEP 1408, 173(2014) [arXiv:1405.1994 [hep-ex]].   \n[3] V. Khachatryan et al. [CMS Collaboration], JHEP1408, 174 (2014) [arXiv:1405.3447 [hep-ex]].   \n[4]V.Khachatryan et al. [CMS Collaboration],Phys.Rev. D 91,no.5,052009 (2015) [arXiv:1501.04198 [hep-ex].   \n[5] G.Cacciapaglia，A. Deandrea and M. Hashimoto, arXiv:1507.03098 [hep-ph].   \n[6] A. Carmona, A. Delgado, M. Quiros and J. Santiago, arXiv:1507.01914 [hep-ph].   \n[7] Y.Gao,T. Ghosh， K. Sinha and J. H. Yu, arXiv:1506.07511 [hep-ph].   \n[8] Q.H. Cao,B. Yan and D.M. Zhang,arXiv:1507.00268 [hep-ph].   \n[9] K. Cheung, W. Y. Keung, P.Y. Tseng and T. C. Yuan, arXiv:1506.06064 [hep-ph].   \n[10] T.Abe, T. Kitahara and M. M. Nojiri,arXiv:1507.01681 [hep-ph].   \n[11] V.Sanz,arXiv:1507.03553 [hep-ph].   \n[12] A.Thamm,R. Torre and A. Wulzer,arXiv:1506.08688 [hep-ph].   \n[13] L.A.Anchordoqui,I.Antoniadis,H.Goldberg, X.Huang,D.Lust and T.R.Taylor,arXiv:1507.05299 [hep-ph].   \n[14] Y.Omura,K. Tobe and K.Tsumura,arXiv:1507.05028 [hep-ph].   \n[15] C. H. Chen and T. Nomura,arXiv:1507.04431 [hep-ph].   \n[16] C.W. Chiang,H. Fukuda,K. Harigaya，M.Ibe and T.T.Yanagida,arXiv:1507.02483 [hep-ph].   \n[17] B.A. Dobrescu and Z. Liu,arXiv:1507.01923 [hep-ph].   \n[18] J.Brehmer,J.Hewett,J.Kopp,T.Rizzo and J. Tattersall,arXiv:1507.00013 [hep-ph].   \n[19] B.A.Dobrescu and Z. Liu,arXiv:1506.06736 [hep-ph].   \n[20] J.Hisano,N.Nagata and Y.Omura,arXiv:1506.03931 [hep-ph].   \n[21] W. Chao,arXiv:1507.05310 [hep-ph].   \n[22] A.Orgogozo and S. Rychkov, JHEP 1306,014 (2013); A.Orgogozo and S.Rychkov，JHEP 1203,046 (2012) [arXiv:1111.3534 [hep-ph]].   \n[23] R. Contino and M. Salvarezza,arXiv:1504.02750 [hepph].   \n[24] R. Barbieri, B. Bellazzini, V. S. Rychkov and A. Varagnolo,Phys.Rev.D 76,115008 (2007) [arXiv:0706.0432 [hep-ph]].   \n[25] R.Contino,D.Marzocca,D.Pappadopulo and R.Rattazzi, JHEP 1110,081(2011) [arXiv:1109.1570 [hep-ph]]. (2012)[arXiv:1205.0770 [hep-ph].   \n[27] E. Witten, Phys. Rev. Lett. 51,2351 (1983).   \n[28] S.R. Coleman, J.Wess and B. Zumino, Phys.Rev.177, 2239(1969)；C.G.Callan Jr.,S.R.Coleman,J.Wess and B. Zumino, Phys.Rev.177,2247 (1969).   \n[29] D.Marzocca,M. Serone and J.Shu,JHEP 1208 (2012) 013[arXiv:1205.0770 [hep-ph]].   \n[30] [CMS Collaboration],“Search for massive resonances in dijet systems containing jets tagged as W or Z boson decays in pp collisions at $\\sqrt { s } = 8$ TeV” [arXiv:1405.1994 [hep-ex].   \n[31] G. Aad et al.[ATLAS Collaboration],Phys.Rev.D 90, no.5,052005 (2014) [arXiv:1405.4123 [hep-ex]].   \n[32] S.Weinberg,Phys.Rev.Lett.18 (1967) 507.   \n[33] V.Khachatryan et al.[CMS Collaboration], JHEP 1504, 025（2015） [arXiv:1412.6302 [hep-ex]].   \n[34] G. Aad et al. [ATLAS Collaboration], JHEP 1409, 037 (2014) [arXiv:1407.7494 [hep-ex].   \n[35] V.Khachatryan et al.[CMS Collaboration], Phys.Rev. D 91,no.9,092005 (2015) [arXiv:1408.2745 [hep-ex]].   \n[36] V.Khachatryanetal.[CMS Collaboration], arXiv:1506.01443 [hep-ex].   \n[37] V.Khachatryanetal. [CMS Collaboration], arXiv:1506.03062 [hep-ex].   \n[38] Q.H. Cao, Z. Li, J. H. Yu and C. P. Yuan, Phys. Rev. D 86(2012) 095010 [arXiv:1205.3769 [hep-ph]].   \n[39]H.Cai,JHEP 1404 (2014) 052 [arXiv:1306.3922 [hepph]].   \n[40] D.Greco and D. Liu,JHEP 1412 (2014)126 [arXiv:1410.2883 [hep-ph].   \n[41] L. Bian, J. Shu and Y. Zhang, arXiv:1507.02238 [hep-ph].   \n[42] C. Grojean, W. Skiba and J. Terning, Phys. Rev. D 73, 075008 （2006） [hep-ph/0602154].   \n[43] K. Agashe, A. Delgado,M. J. May and R. Sundrum, JHEP 0308,050（2003）[hep-ph/0308036].   \n[44] J.Shu,K. Wang and G. Zhu, Phys.Rev.D 85,034008 (2012）[arXiv:1104.0083 [hep-ph].   \n[45] C. Csaki, C.Grojean, L. Pilo and J. Terning, Phys. Rev. Lett.92,101802 (2004) [hep-ph/0308038].   \n[46] G. Cacciapaglia, C. Csaki, C. Grojean and J. Terning, Phys.Rev.D 71,035015(2005) [hep-ph/0409126].   \n[47] Given that the mass resolution in the jet mass reconstruction of the W and Z is $\\pm 1 3$ GeV,it is logically possible that the ZZ reconstructed events do in fact involve Ws.   \n[48] The models based on the latter symmetry breaking pattern are less constrained from EWPT [44].   \n[49] This problem is even more severe if there are other large decay channels of $\\rho$ . for instances, in composite Higgs models where a large $t \\bar { t } \\rho ^ { 0 }$ or $t b \\rho ^ { + }$ coupling is expected.   \n[50] It is important to notice that all the calculations in this section are based on the gauge eigenstate, where in many other papers like Ref.[6],the EW precision observables are calculated in the Kaluza-Klein basis which is the mass eigenstate basis before EWSB.In this case, the tree level $S$ parameter is transmitted into universal shift between SM gauge bosons and light fermions [42, 43], where additional anomalous triple gauge boson couplings are also expected and might be probed in the future [41].   \n[51] Notice that our cancellation mechanism here is very different from the“delocalization” scenario in Higgsless theory [45,46].In the“delocalization” scenario,cancellation occurs between elementary and composite components of SM light fermions when integrating the $\\rho$ ，so that the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "localization or the elementary-composite mixture of SM fermions is fixed for a given model of $\\rho$ .While in our scenario,cancellation occurs in the coupling of composite fermions and SM gauge bosons between integrating out $\\rho$ and $a$ ，therefore allows arbitrary localization or elementary-composite mixture. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[52] For $\\rho _ { R }$ ,the couplings with SM fermions are suppressed by an additional $\\xi$ for the charged resonance and $g ^ { \\prime 2 } / g ^ { 2 }$ for the neutral resonance.It may not account for the $W Z$ excess even including the contamination from $W W$ channel. ",
+        "page_idx": 8
+    }
+]

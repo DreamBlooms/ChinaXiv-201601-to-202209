@@ -1,0 +1,201 @@
+吴金平　褚志鹏　陈细华\* 唐　丹　乔新美　李创举　岳华梅　阮　瑞　刘　伟（中国水产科学研究院长江水产研究所，农业部淡水生物多样性保护重点实验室，武汉
+
+430223)
+
+5摘要：为了解达氏蝗（Husodauricus）幼鱼对不同蛋白质原料的消化能力，以 $0 . 4 \%$ 的二  
+6 氧化钛 $\left( \mathrm { T i O } _ { 2 } \right)$ 为指示剂，分别将鱼粉、鸡肉粉、肉骨粉、羽毛粉、双低菜粕和玉米蛋白粉这  
+7 6种蛋白质原料与基础饲料按照3:7的比例配制试验饲料，测定达氏鲤幼鱼对这6种蛋白质  
+8 原料干物质、粗蛋白质、粗脂肪、总能和总氨基酸的表观消化率。挑选初始体质量为  
+9 （66.79±2.18）g的达氏蝗幼鱼420尾，随机分为7组，每组3个重复，每个重复放鱼20  
+10 尾。基础饲料投喂2周后，开始用试验饲料投喂，试验饲料投喂1周后采用捞网收集成形  
+11 的粪便，共收集 $1 0 \mathrm { d }$ 。结果表明：达氏鲤幼鱼对鱼粉、鸡肉粉、肉骨粉、羽毛粉、双低菜  
+12 粕和玉米蛋白粉这6种蛋白质原料中干物质、粗蛋白质、粗脂肪、总能和氨基酸的表观消  
+13 化率分别为 $5 4 . 7 9 \% \sim 8 8 . 0 7 \%$ 、 $7 3 . 6 2 \% \sim 8 9 . 4 7 \%$ ， $9 9 . 8 0 \% \sim 1 0 0 . 7 4 \%$ ， $6 6 . 6 4 \% \sim 8 9 . 2 4 \%$ ，  
+14 $5 1 . 2 7 \% { \sim } 9 8 . 6 2 \%$ 。在6种蛋白质原料中，粗脂肪的表观消化率均在 $9 9 \%$ 以上，而干物质、  
+15 粗蛋白质和总能表观消化率则以鱼粉和鸡肉粉较高，玉米蛋白粉和双低菜籽粕次之，肉骨  
+16 粉和羽毛粉较差。其中，鱼粉的粗蛋白质表观消化率最高，为 $8 9 . 4 7 \%$ ，显著高于其他蛋白  
+17 质原料（ $\scriptstyle P < 0 . 0 5 .$ ）；鸡肉粉次之，为 $8 1 . 1 4 \%$ ，与肉骨粉、双低菜籽粕和玉米蛋白粉差异  
+18 不显著（ $\cdot P { > } 0 . 0 5 \$ ）；羽毛粉的粗蛋白质表观消化率最低，为 $7 3 . 6 2 \%$ ，与肉骨粉差异不显  
+19 著（ $P { > } 0 . 0 5$ ），与其他蛋白质原料差异显著（ $P { < } 0 . 0 5$ ）。各蛋白质原料中总氨基酸的表  
+20 观消化率与粗蛋白质的表观消化率的变化趋势基本一致。由此可知，对于达氏蝗幼鱼饲
+
+关键词：达氏鲤幼鱼；蛋白质原料；营养物质；表观消化率  
+中图分类号：S963 文献标识码：A文献编号：  
+达氏（Husodauricus）是鲟形目鲟科中2种蝗属鱼类之一，也是我国黑龙江流域2种土著鲟鱼之一。以达氏为母本、同产黑龙江的施氏鲟（Acipenser schrenckii）为父本杂交产生的“鲟龙1号"是目前我国主养鲟鱼品种之一。目前已有一些关于鲟鱼蛋白质、脂类、糖类、维生素和矿物质等需要量的研究[1-3]，但这些研究还不能满足鲟鱼产业的需求。据调查，产业用的鲟鱼饲料配方主要参考鳗、鳖等，缺乏必要的基础研究，同时尚没有获得任何一种鲟鱼的全套营养学资料[4]，为此，开展鲟鱼相关的饲料研究已迫在眉睫。鲟鱼是偏肉食性鱼类，养殖商品鲟鱼的饲料粗蛋白质含量需达到 $40 \%$ 左右，亲鱼料或苗料中粗蛋白质含量甚至要更高，因此，寻找适合鲟鱼的动、植物蛋白质源很重要。在水产饲料的生产中，测定养殖动物对饲料原料营养物质的表观消化率是评定饲料原料营养价值的重要手段，也是配制营养平衡、成本合理的渔用配合饲料的重要步骤[5-6]。这对于控制各种原料在饲料中的适宜添加比例、提高水产饲料的消化利用率、减少饲料养殖水域的污染及节约养殖成本等有关键性的作用[7]。目前，关于鲟对蛋白质原料营养物质消化利用的报道仅见李向松等[]、Liu 等[9]和 Safari 等[10]，他们分别报道了杂交鲟幼鱼(A.gueldenstaedti $\hat { \mathcal { S } } { \times } A$ .baerii $\cdot { \bigcirc }$ )、西伯利亚鲟(A.baerii)幼鱼和欧洲鲤亚(Huso huso)成鱼对蛋白质原料营养物质的消化利用，而关于达氏幼鱼对蛋白质原料营养物质消化利用的研究还未见报道。鉴于此，本试验以达氏鲤幼鱼为研究对象，测定其对鱼粉等6种蛋白质原料营养物质的表观消化率，以期为鲟绿色环保饲料的开发提供理论支撑。
+
+31.1待测蛋白质原料与试验饲料
+
+试验选用的6种蛋白质原料为鱼粉、鸡肉粉、肉骨粉、羽毛粉、双低菜籽粕和玉米蛋白粉等，其中鱼粉（秘鲁）、羽毛粉（不详）、双低菜籽粕（加拿大）和玉米蛋白粉（河南）来自武汉大北农水产科技有限公司；鸡肉粉（美国）和肉骨粉（澳大利亚）来自于浙江兴龙马饲料有限公司，其营养水平及氨基酸组成见表1。以 $0 . 4 \%$ 的二氧化钛 $\left( \mathrm { T i O } _ { 2 } \right)$ 为指示剂，配制基础饲料，其组成及营养水平见表2。所有原料粉碎后过60目筛，添加 $0 . 4 \%$ 的二氧化钛作为标记物，采用逐级混匀法混合均匀制成基础饲料。分别将鱼粉、鸡肉粉、肉骨粉、羽毛粉、双低菜粕和玉米蛋白粉这6种蛋白质原料与基础饲料按照3:7的比例配制试验饲料。取 $70 \%$ 添加 $\mathrm { T i O } _ { 2 }$ 的基础饲料和 $30 \%$ 的待测蛋白质原料，充分混匀后，添加$20 \%$ 左右的水，再次混匀，用小型绞肉机制成直径约 $3 \mathrm { m m }$ 的条状饲料。风扇吹干后，置于 ${ } - 2 0 \ { } ^ { \circ } { \mathrm { C } }$ 冰箱中保存备用。
+
+# 表1基础饲料组成及营养水平（干重）
+
+Table 1 Composition and nutrient levels of the basal diet (DM basis)
+
+项目Items 含量Content
+
+# 原料Ingredients
+
+白鱼粉 White fish meal 32.00  
+鸡肉粉 Chicken meal 8.00  
+豆粕 Soybean meal 25.00  
+鱼油Fish oil 3.25  
+豆油 Soybean oil 3.25  
+面粉Wheat flour 23.90  
+氯化胆碱Cholinechloride 0.20  
+磷酸二氢钙 $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } }$ 1.00  
+预混料Premix 3.00  
+二氧化钛TiO2 0.40  
+合计Total 100.00  
+营养水平 Nutrient levels  
+粗蛋白质 Crude protein 50.60  
+粗脂肪Crude lipid 11.59  
+水分Moisture 8.10  
+粗灰分 Ash 11.47  
+总能Gross energy/ $\mathrm { \langle M J / k g \rangle }$ 20.69  
+总磷 Total phosphorus 2.28
+
+维生素预混料为每千克饲料提供Vitaminpremixprovidedthe followingper $\mathrm { k g }$ of thediet : $\mathrm { V B } _ { 1 } 5 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 2 0 0 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 5 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 2 0 \ : \mathrm { m g }$ ，叶酸 folic acid $1 5 \mathrm { m g }$ ， VC 325 mg$( 3 0 \% )$ ，泛酸 pantothenate $4 0 0 ~ \mathrm { { m g } }$ ，肌醇inositol $1 5 0 0 \mathrm { m g }$ ， $D$ 生物素 $D$ -biotin $5 \mathrm { m g } ( 2 \% )$ ，烟酸niacin $7 5 0 ~ \mathrm { m g }$ ，VA $2 . 5 ~ \mathrm { m g }$ ，VE $1 0 0 ~ \mathrm { { m g } }$ $( 5 0 \% )$ ， $\mathrm { V D } _ { 3 } \ 2 \ \mathrm { m g }$ ，VK $2 0 ~ \mathrm { m g }$ ， $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } }$ 1$8 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { K H _ { 2 } P O _ { 4 } } \ 1 \ 3 5 0 \ \mathrm { m g }$ ，NaCl $5 0 0 ~ \mathrm { m g }$ ， $\mathrm { M g S O _ { 4 } }$ · $7 \mathrm { H } _ { 2 } \mathrm { O }$ 750 mg， $\mathrm { N a H _ { 2 } P O _ { 4 } } \cdot 2 \mathrm { H _ { 2 } O }$ 650mg，KI $1 . 5 ~ \mathrm { m g }$ ，COSO4· $6 \mathrm { H } _ { 2 } \mathrm { O }$ 2.5 mg， CuSO4 · $5 \mathrm { H } _ { 2 } \mathrm { O }$ $1 5 ~ \mathrm { m g }$ ， $Z n S O _ { 4 } \bullet 7 \mathrm { H } _ { 2 } \mathrm { O } \ 3 5 0 \ \mathrm { m g }$ ，$\mathrm { F e S O _ { 4 } } \bullet 7 \mathrm { H _ { 2 } O } 1 2 5 0 \mathrm { m g }$ ， $\mathrm { M n S O _ { 4 } \cdot 4 H _ { 2 } O 8 0 m g }$ ， $\mathrm { N a _ { 2 } S e O _ { 3 } 6 . 0 0 m g }$
+
+# 表2待测蛋白质原料的营养水平和氨基酸组成（干物质）
+
+65 basis) % 项目 鱼粉 鸡肉粉 肉骨粉 羽毛粉 双低菜籽粕 玉米蛋白粉 Items Fish meal Chick meal Meat and Feather meal Canola Corn gluten meal bone meal meal
+
+<html><body><table><tr><td>营养水平 Nutrient levels</td></tr><tr><td></td><td>10.75</td><td>7.66</td><td>6.25</td><td></td><td>11.57</td><td>9.55</td></tr><tr><td>水分Moisture 粗蛋白质 Crude protein</td><td>67.53</td><td>68.83</td><td>46.65</td><td>7.70 87.72</td><td>43.02</td><td>65.93</td></tr><tr><td>粗脂肪 Crude lipid</td><td>6.94</td><td>12.03</td><td>9.05</td><td>9.50</td><td>0.58</td><td>0.75</td></tr><tr><td>粗灰分Ash</td><td>22.34</td><td>12.51</td><td>38.75</td><td>0.72</td><td>7.27</td><td>3.44</td></tr><tr><td>总磷Total phosphorus</td><td>3.63</td><td>2.27</td><td>7.57</td><td>0.15</td><td>1.27</td><td>0.44</td></tr><tr><td>总能Gross energy/(MJ/kg)</td><td></td><td></td><td>14.81</td><td></td><td>19.85</td><td>23.67</td></tr><tr><td></td><td>19.56</td><td>22.39</td><td></td><td>25.78</td><td></td><td></td></tr><tr><td colspan="7">氨基酸组成 Amino acid composition</td></tr><tr><td>天冬氨酸Asp</td><td>6.31</td><td>6.01</td><td>3.10</td><td>4.97</td><td>3.23</td><td>3.95</td></tr><tr><td>谷氨酸Glu</td><td>10.40</td><td>11.89</td><td>5.83</td><td>9.27</td><td>8.21</td><td>16.56</td></tr><tr><td>丝氨酸Ser</td><td>3.17</td><td>1.01</td><td>1.66</td><td>2.56</td><td>1.82</td><td>3.44</td></tr><tr><td>组氨酸His</td><td>1.33</td><td>0.69</td><td>0.61</td><td>1.17</td><td>1.10</td><td>1.30</td></tr><tr><td>甘氨酸Gly</td><td>5.01</td><td>7.59</td><td>7.70</td><td>6.68</td><td>2.24</td><td>1.95</td></tr><tr><td>苏氨酸Thr</td><td>2.99</td><td>4.25</td><td>1.33</td><td>2.46</td><td>1.86</td><td>2.30</td></tr><tr><td>精氨酸Arg</td><td>4.76</td><td>7.03</td><td>3.66</td><td>2.27</td><td>2.73</td><td>2.15</td></tr><tr><td>丙氨酸Ala</td><td>4.27</td><td>4.07</td><td>3.70</td><td>9.20</td><td>1.94</td><td>6.13</td></tr><tr><td>酪氨酸Tyr</td><td>1.76</td><td>2.50</td><td>0.70</td><td>1.74</td><td>0.98</td><td>2.77</td></tr><tr><td>半胱氨酸Cys</td><td>0.22</td><td>2.44</td><td>0.10</td><td>0.24</td><td>0.29</td><td>0.38</td></tr><tr><td>氨酸Val</td><td>3.36</td><td>6.85</td><td>1.72</td><td>3.02</td><td>2.22</td><td>3.14</td></tr><tr><td>蛋氨酸Met</td><td>1.94</td><td>0.81</td><td>0.51</td><td>1.28</td><td>0.39</td><td>1.80</td></tr><tr><td>苯丙氨酸Phe</td><td>2.67</td><td>4.44</td><td>1.37</td><td>2.49</td><td>1.84</td><td>4.44</td></tr><tr><td>异亮氨Ile</td><td>3.01</td><td>4.70</td><td>1.23</td><td>2.60</td><td>1.92</td><td>3.01</td></tr><tr><td>亮氨酸Leu</td><td>5.18</td><td>7.63</td><td>2.47</td><td>4.60</td><td>3.14</td><td>11.47</td></tr></table></body></html>
+
+<html><body><table><tr><td>赖氨酸Lys</td><td>5.72</td><td>2.28</td><td>2.37</td><td>4.25</td><td>2.50</td><td>1.16</td></tr><tr><td>脯氨酸Pro</td><td></td><td></td><td>5.18</td><td>4.86</td><td>1.75</td><td></td></tr><tr><td></td><td>2.25</td><td>11.23</td><td></td><td></td><td></td><td>5.19</td></tr></table></body></html>
+
+1.2试验鱼与养殖条件
+
+达氏鲤受精卵来源于黑龙江抚远江段野生个体自然繁殖的，受精卵运至长江水产研究所荆州太湖基地进行孵化培育，待体质量达到试验要求的规格后进行分组。试验开始前，挑选规格一致、表观健康的初始体质量为（ $6 6 . 7 9 { \scriptstyle \pm 2 . 1 8 }$ D $\mathrm { \bf { g } }$ 的达氏鲤幼鱼420尾，随机分养于21个流水养殖桶（直径 $1 0 5 \mathrm { c m }$ ，体积 $0 . 4 3 ~ \mathrm { m } ^ { 3 }$ ）中，每桶放鱼20尾。分桶后，先用基础饲料投喂，每天表观饱食投喂2次（08:00、15:00），基础饲料投喂2周后，开始用试验饲料投喂，每种试验饲料投喂3桶鱼，投喂1周后开始采用捞网收集成形的粪便，共收集10d。试验期间采取自然光照，水源为过滤后的地下水，水温 $1 8 . 2 { \sim } 2 0 . 0 \mathrm { ~ ~ \textdegree ~ }$ ，溶氧浓度≥5mg/L, $\mathrm { p H } 7 . 8 { \sim } 8 . 2 \$ 。
+
+# 1.3粪便收集
+
+每天的上午和下午投喂后 $0 . 5 \mathrm { ~ h ~ }$ 进行排污，排出桶中残余的饲料和粪便，于每天的10：00—13：00和17：00—18：00用密网捞取饱满和成形的粪便，并放入对应编号的培养皿中，随后置于-20℃冰箱中冻藏。待粪便收集至足够的量后，于真空冷冻干燥机中干燥，干燥时间约 $7 2 \mathrm { { h } }$ ，粉碎后放入样品袋中，于-40℃冰箱中冷藏备用。
+
+# 1.4指标测定
+
+饲料和粪便的粗蛋白质、粗脂肪、粗灰分含量分别采用凯氏定氮法（GB/T5009.5-  
+2003）、索氏抽提法（GB/T5009.6-2003）和灼烧称重法（GB/T5009.4-2003）测定，总能  
+采用氧弹测热仪（Parr-6200）直接测定，氨基酸含量采用氨基酸分析仪（安捷伦-1260）参  
+照GB/T 5009.124-2016中方法测定，TiO2含量参照文献[11]中方法测定。饲料磷含量采用  
+酸消化后比色法（GB/T5009.87-2016）测定。饲料(包括基础饲料和试验饲料)的粗蛋白质、粗脂肪、氨基酸和总能表观消化率按式
+
+（1）计算，饲料的干物质表观消化率按式（2）计算：
+
+$A D C _ { \mathrm { d } } ~ ( \% ) ~ = [ 1 - ( P _ { \mathrm { f } } / P _ { \mathrm { d } } ) \times ( R _ { \mathrm { d } } / R _ { \mathrm { f } } ) ] { \times } 1 0 0 ;$ （1）$A D C _ { \mathrm { d m } } \ : \ : \left( \% \right) \ : = \lbrack 1 { - } ( R _ { \mathrm { d } } / R _ { \mathrm { f } } ) ] { \times } 1 0 0 _ { \circ }$ (2）  
+式中： $A D C _ { \mathrm { d } }$ 为试验饲料的粗蛋白质、粗脂肪、氨基酸或总能表观消化率 $( \% )$ ）； $A D C _ { \mathrm { d m } }$ 为  
+试验饲料的干物质表观消化率； $P _ { \mathrm { f } }$ 为粪便中粗蛋白质、粗脂肪、氨基酸含量（质量分  
+数， $9 \%$ ）或总能（ $\bf { M J / k g }$ ）； $P _ { \mathrm { d } }$ 为试验饲料中粗蛋白质、粗脂肪、氨基酸含量（质量分  
+数， $\%$ ）或总能（ $\bf { M J / k g }$ ）； $R _ { \mathrm { d } }$ 为试验饲料中 $\mathrm { T i O } _ { 2 }$ 的含量（质量分数， $\%$ ）； $R _ { \mathrm { f } }$ 为粪便中  
+$\mathrm { T i O } _ { 2 }$ 的含量（质量分数， $0 \%$ ），6种待测蛋白质原料的营养物质表观消化率按式（2）计算：$A D C _ { \mathrm { i } } { = } A D C _ { \mathrm { t } } { + } [ ( A D C _ { \mathrm { t } } { - } A D C _ { \mathrm { r } } ) { \times } ( 0 . 7 { \times } E _ { \mathrm { r } } ) / ( 0 . 3 { \times } E _ { \mathrm { i } } ) ] \circ$ 式中： $A D C _ { \mathrm { i } }$ 为待测蛋白质原料的干物质、粗蛋白质、粗脂肪、氨基酸或总能的表观消  
+化率（%）； $A D C _ { \mathrm { t } }$ 为含 $30 \%$ 待测蛋白质原料的试验饲料的干物质、粗蛋白质、粗脂肪、氨  
+基酸或总能表观消化率 $( \%$ ），根据式（2）计算； $A D C _ { \mathrm { r } }$ 为基础饲料的干物质、粗蛋白  
+质、粗脂肪、氨基酸或总能表观消化率 $( \%$ ），根据式（1）计算； $E _ { \mathrm { r } }$ 为基础饲料中干物  
+质、粗蛋白质、粗脂肪、氨基酸含量（质量分数， $9 \%$ ）或总能（ $\mathrm { M J / k g } \mathrm { \cdot }$ ）； $E _ { \mathrm { i } }$ 为待测蛋白质  
+原料中干物质、粗蛋白质、粗脂肪、氨基酸含量（质量分数， $\%$ ）或总能（ $\mathrm { | M J / k g \rangle }$ ）。  
+1.5 数据处理与分析试验结果以平均值 $\pm$ 标准差表示。所有数据采用SPSS22.00软件，经one-wayANOVA和  
+Duncan氏法多重比较， $P { < } 0 . 0 5$ 表示组间有显著性差异。  
+2结果达氏鲤幼鱼对6种蛋白质原料中干物质、粗蛋白质、粗脂肪和总能的表观消化率见表  
+3。达氏蝗幼鱼对6种蛋白质原料中干物质表观消化率为 $5 4 . 7 9 \% \sim 8 8 . 0 7 \%$ ，其中鱼粉的干  
+物质表观消化率最高，鸡肉粉次之，均达到 $80 \%$ 以上，二者显著高于肉骨粉和双低菜籽粕
+
+（ $P { < } 0 . 0 5$ ）；肉骨粉的干物质表观消化率最低，与其他蛋白质原料相比差异显著（ $P <$ 0.05）；羽毛粉的干物质表观消化率为 $7 2 . 3 5 \%$ ，与鸡肉粉、双低菜籽粕和玉米蛋白粉无显著差异（ $P { > } 0 . 0 5$ ）。达氏鲤幼鱼对6种蛋白质原料中粗蛋白质的表观消化率较高，均在$73 \%$ 以上，其中鱼粉的粗蛋白质表观消化率最高为 $89 . 4 7 \%$ ，显著高于其他蛋白质原料（ $P$ $< 0 . 0 5$ ）；鸡肉粉次之，为 $8 1 . 1 4 \%$ ，与肉骨粉、双低菜籽粕和玉米蛋白粉差异不显著（ $P$ ${ > } 0 . 0 5$ ）；羽毛粉的粗蛋白质表观消化率最低，为 $7 3 . 6 2 \%$ ，与肉骨粉差异不显著（ $P >$ 0.05），与其他蛋白质原料差异显著（ $\scriptstyle P < 0 . 0 5 .$ ）。达氏鲤幼鱼对6种蛋白质原料中总能的表观消化率为 $6 6 . 6 4 \% \sim 1 0 3 . 1 8 \%$ ，其中鱼粉的总能表观消化率最高，鸡肉粉次之，均达到$89 \%$ 以上，二者显著高于肉骨粉和羽毛粉（ $P { < } 0 . 0 5$ ）；羽毛粉的总能表观消化率最低，为$6 6 . 6 4 \%$ ，显著低于鱼粉、鸡肉粉和玉米蛋白粉（ $\cdot P { < } 0 . 0 5$ ），与肉骨粉和双低菜籽粕差异不显著（ $P { > } 0 . 0 5$ ）。达氏鲤幼鱼对6种蛋白质原料中粗脂肪的表观消化率均在 $9 9 \%$ 以上，6种蛋白质原料之间差异不显著（ $P { > } 0 . 0 5$ ），其中双低菜籽粕的粗脂肪表观消化率最高，为$1 0 0 . 7 4 \%$ 。
+
+表3达氏鲤幼鱼对6种蛋白质原料中干物质、粗蛋白质、粗脂肪和总能的表观消化率 Table 3 Apparent digestibility of dry matter, crude protein, crude lipid and gross energy in six
+
+protein ingredients of juvenile kaluga (Huso
+
+126 dauricus) %
+
+<html><body><table><tr><td>项目</td><td>干物质</td><td>粗蛋白质</td><td>总能</td><td>粗脂肪</td></tr><tr><td>Items</td><td>Dry matter</td><td>Crude protein</td><td>Gross energy</td><td>Crude lipid</td></tr><tr><td>鱼粉Fishmeal</td><td>88.07±3.84d</td><td>89.47±1.51d</td><td>103.18±5.12c</td><td>100.34±0.08</td></tr><tr><td>鸡肉粉 Chickmeal</td><td>83.18±7.06cd</td><td>81.14±3.16bc</td><td>89.24±6.48b</td><td>100.07±0.04</td></tr><tr><td>肉骨粉 bone and meat meal</td><td>54.79±4.44a</td><td>76.24±2.08ab</td><td>70.86±4.52a</td><td>99.89±0.04</td></tr><tr><td>羽毛粉Feather meal</td><td>72.35±7.10bc</td><td>73.62±2.71a</td><td>66.64±7.63a</td><td>99.80±0.08</td></tr></table></body></html>
+
+同列数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。
+
+Table 4 Apparent digestibility of amino acids in six protein ingredients for juvenile kaluga   
+
+<html><body><table><tr><td>双低菜籽粕Canola meal</td><td>68.68±4.94b</td><td>79.52±2.11cb</td><td>76.81±7.80ab</td><td>100.74±1.06</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>79.34±7.80bcd</td><td>79.52±3.78b</td><td>88.57±8.80b</td><td>100.47±0.94</td></tr></table></body></html>
+
+Values in the same column with different letter superscripts were significantly different $( P { < } 0 . 0 5 )$ ：达氏鲤幼鱼对6种蛋白质原料中氨基酸的表观消化率见表4。各蛋白质原料中各氨基酸的表观消化率与其粗蛋白质的表观消化率呈相同的变化趋势。6种蛋白质原料中，鱼粉的总氨基酸表观消化率是最高的，为 $9 8 . 6 2 \%$ ，与其他蛋白质原料差异显著（ $P { < } 0 . 0 5$ ）；羽毛粉的总氨基酸表观消化率在6种蛋白质原料中是最低的，为 $5 1 . 2 7 \%$ ，与其他蛋白质差异显著（ $\scriptstyle P < 0 . 0 5$ ）；鸡肉粉、双低菜籽粕和玉米蛋白粉的总氨基酸表观消化率居中，这3种蛋白质原料之间无显著差异（ $P { > } 0 . 0 5$ ），并均显著高于肉骨粉（ $\cdot < 0 . 0 5$ ）。
+
+# 表4达氏鲤幼鱼对6种蛋白质原料中氨基酸的表观消化率
+
+137 (Huso dauricus) %
+
+鱼粉 鸡肉粉 羽毛粉 肉骨粉 双低菜籽粕 玉米蛋白粉 Fish meal Chick meal Feather meal bone and meat Canola meal Corn gluten meal meal
+
+非必需氨基酸Non-essentialaminoacids
+
+<html><body><table><tr><td>天冬氨酸Asp</td><td>97.97±4.09e</td><td>71.41±6.58℃</td><td>40.82±6.37a</td><td>58.88±1.34b</td><td>83.75±5.90d</td><td>85.84±2.21d</td></tr><tr><td>谷氨酸Glu</td><td>97.49±5.05e</td><td>79.12±4.84bc</td><td>51.76±3.83a</td><td>69.63±8.53b</td><td>90.39±1.87de</td><td>81.22±5.74cd</td></tr><tr><td>丝氨酸 Ser</td><td>96.95±4.37e</td><td>79.45±4.26c</td><td>38.14±4.18a</td><td>69.47±6.24b</td><td>79.47±3.18c</td><td>80.61±6.62℃</td></tr><tr><td>甘氨酸Gly</td><td>98.09±3.26c</td><td>83.95±3.09b</td><td>57.37±4.48a</td><td>76.59±6.70b</td><td>80.43±4.77b</td><td>81.13±1.74b</td></tr><tr><td>酪氨酸Tyr</td><td>95.09±4.26d</td><td>77.57±4.16c</td><td>54.87±4.01a</td><td>67.12±5.76b</td><td>85.15±2.73c</td><td>81.10±5.44c</td></tr><tr><td>丙氨酸Ala</td><td>97.50±3.69c</td><td>79.21±5.41b</td><td>68.99±7.24a</td><td>75.82±6.43ab</td><td>82.15±2.74b</td><td>80.38±5.43b</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>半胱氨酸Cys</td><td>100.35±2.09e</td><td>76.76±5.45℃</td><td>19.81±1.81a</td><td>45.75±4.83b</td><td>88.49±3.68d</td><td>78.84±7.77℃</td></tr><tr><td>脯氨酸Pro</td><td>100.40±3.81c</td><td>87.54±6.02b</td><td>24.05±4.67a</td><td>82.80±6.83b</td><td>88.53±5.72b</td><td>89.50±3.86b</td></tr><tr><td colspan="7">必需氨基酸 Essential amino acids</td></tr><tr><td>组氨酸His</td><td>95.08±5.08cd</td><td>71.45±8.71a</td><td>66.17±2.87a</td><td>68.78±3.24a</td><td>85.43±3.26bd</td><td>80.23±2.80b</td></tr><tr><td>精氨酸Arg</td><td>98.50±2.81d</td><td>85.44 ±2.82bc</td><td>42.42±6.61a</td><td>79.13±6.51b</td><td>91.32±0.96cd</td><td>84.41±6.58bc</td></tr><tr><td>苏氨酸Thr</td><td>97.40±4.15e</td><td>76.04±5.33c</td><td>43.98±4.71a</td><td>65.25±0.51b</td><td>76.02±3.69c</td><td>78.81±1.56c</td></tr><tr><td>氨酸Val</td><td>98.56±5.26d</td><td>78.42±3.84℃</td><td>43.01±6.30a</td><td>68.67±3.17b</td><td>80.86±3.86c</td><td>78.29±6.73c</td></tr><tr><td>蛋氨酸Met</td><td>96.76±1.60d</td><td>77.74±4.66bc</td><td>73.35±6.70ab</td><td>68.39±2.75a</td><td>98.35±6.21d</td><td>85.58±5.32℃</td></tr><tr><td>苯丙氨酸 Phe</td><td>96.72±5.11d</td><td>78.20±4.57℃</td><td>52.02±4.48a</td><td>66.54±3.02b</td><td>82.86±3.86c</td><td>81.42±6.35c</td></tr><tr><td>异亮氨酸Ile</td><td>98.91±3.05c</td><td>77.30±4.81b</td><td>56.02±5.43a</td><td>59.77±5.77a</td><td>79.39±6.51b</td><td></td></tr><tr><td>0</td><td>98.63±4.90d</td><td>77.41±6.79c</td><td>49.85±3.49a</td><td></td><td></td><td>79.82±7.69b</td></tr><tr><td>亮氨酸Leu 8</td><td></td><td></td><td></td><td>68.40±2.67b</td><td>84.32±3.69c</td><td>80.94±5.59c</td></tr><tr><td>赖氨酸Lys 0</td><td>98.86±3.54d</td><td>77.74±2.73b</td><td>66.67±0.95a</td><td>73.22±3.81b</td><td>87.96±2.60c</td><td>87.01±0.34c</td></tr><tr><td>2 总氨基酸 Total</td><td>98.62±3.86d</td><td>81.53±4.55c</td><td>51.27±4.88a</td><td>69.61±1.96b</td><td>85.68±3.97℃</td><td>81.31±6.02c</td></tr></table></body></html>
+
+138 同行数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ 。  
+139 Values in the same row with different letter superscripts were significantly different $( P { < } 0 . 0 5 )$   
+140 3讨论  
+141 3.1外源指示剂和营养物质表观消化率计算方法的选择  
+142 本试验采用Cho等[12]的方法配制试验饲料，即用待测原料取代一部分基础饲料，取代  
+143 比例为 $30 \%$ 。但Cho等[12]的计算方法没有考虑到基础饲料和待测原料的养分对测定结果的  
+144 影响。为此，采用Bureau等[13-14]在Cho等[12]研究的基础上对计算方法进行了改进[公式  
+145 （2）]，进一步减小了因基础饲料与待测原料的养分差异导致对待测原料营养物质表观消  
+146 化率的影响，从而提高了结果的准确度。
+
+根据营养成分及指示剂在粪便和饲料中的含量，间接测定动物对饲料原料营养物质的  
+利用率，是研究动物对饲料消化率的常见方法。常见的指示剂有 $\mathrm { T i O } _ { 2 }$ 、三氧化二钇、二氧  
+化钛和酸不溶灰分等。 $\mathrm { T i O } _ { 2 }$ 具有化学性质稳定，不溶于水和稀酸，摄入 $2 { \sim } 3 ~ \mathrm { g / d }$ 对动物无  
+害，并能完全排泄到粪中 $9 5 \%$ 以上的回收率)等特点。与其他指示剂相比， $\mathrm { T i O } _ { 2 }$ 具有回收率  
+变异较小，不改变饲料颜色，无致癌性，可合法添加，检测灵敏度高，在饲料中的添加量  
+低（一般为 $0 . 2 \% { \sim } 0 . 5 \% )$ 等优点[15-16]。因此，本试验选用 $\mathrm { T i O } _ { 2 }$ 为指示剂，以确保数据的准确  
+性。  
+3.2达氏鲤幼鱼对6种蛋白质原料中营养物质的表观消化率干物质的消化率反映了鱼类对饲料原料总体的消化利用水平，其高低与饲料中粗纤维  
+和粗灰分含量以及养分（蛋白质和脂肪）等的消化吸收程度有关。达氏蝗幼鱼对6种蛋白  
+质原料中干物质的表观消化率为 $5 4 . 7 9 \% \sim 8 8 . 0 7 \%$ ，其中以鱼粉和鸡肉粉的干物质表观消化  
+率较高，羽毛粉、双低菜籽粕和玉米蛋白粉居中，肉骨粉最低（ $54 . 7 9 \%$ ）。前人报道的杂  
+交鲟[8]和西伯利亚鲟[9]对肉骨粉的干物质表观消化率均较低（ $5 5 . 8 \% \sim 6 4 . 7 3 \%$ ），与本研究  
+结果一致，这可能与肉骨粉中粗灰分含量高有关。Kitagima等[17]报道斑点叉尾（Ictaluruspunctatus）对粗灰分含量高的鱼粉和虾下脚料粉的干物质表观消化率较低。此  
+外，在杂交罗非鱼[18]（Oreochromisniloticus $\cdot \times$ Oreochromisaureus）、虹鳟[13]（Oncorhynchus mykiss）和乌苏[19]（Pseudobagrus ussuriensis）等的研究上也有类似的结  
+果。饲料能量的消化率反映了鱼类对饲料中蛋白质、脂肪和碳水化合物的总体可利用程  
+度。达氏鲤幼鱼对6种蛋白质原料中总能的表观消化率类似于干物质表观消化率的变化趋  
+势。6种蛋白质原料中，以鱼粉（本试验测得鱼粉的总能表观消化率 $> 1 0 0 \%$ ）和鸡肉粉的  
+总能表观消化率较高，双低菜籽粕和玉米蛋白粉居中，肉骨粉和羽毛粉较低。本试验中，  
+双低菜籽粕和玉米蛋白粉的干物质和总能表观消化率均低于鱼粉，与在乌苏[19]、大黄鱼
+
+[20](Pseudosciaena crocea)和欧洲蝗[1]等上的研究结果一致，这可能是因为植物性蛋白质中纤维素所占比例较高，而水生动物缺乏消化纤维素的酶系统，饲料中的纤维素不易被鱼类消化吸收[21]，而高含量的纤维素 $( > 8 \% )$ 可能降低鱼类对饲料干物质和能量的消化率[22]。达氏鲤幼鱼对羽毛粉的干物质和总能表观消化率分别为 $7 2 . 3 5 \%$ ， $6 6 . 6 4 \%$ ，与杂交鲟[8]、西伯利亚鲟[9]和团头鲂[23](Megalobramaamblycephala)对羽毛粉的干物质和总能表观消化率的结果较为接近。
+
+本试验中，达氏蝗幼鱼对6种蛋白质原料中粗脂肪的表观消化率都在 $9 9 \%$ 以上，表明幼鱼有很强的利用蛋白质原料中脂肪的能力，这与姜雪姣等[23]报道的团头鲂对膨化羽毛粉和玉米蛋白粉的粗脂肪表观消化率（ $9 5 . 7 \%$ 、 $1 0 3 . 4 \%$ ），Che等[19]报道的乌苏对鱼粉和肉骨粉的粗脂肪表观消化率（ $9 4 . 0 7 \%$ ， $91 . 0 1 \%$ ）和Safari等[10]报道的欧洲蝗亚成鱼对鱼粉的粗脂肪表观消化率（ $9 8 . 1 \%$ ）的结果较为一致。但达氏鲤幼鱼对玉米蛋白粉和双低菜籽粕的粗脂肪表观消化率是高于欧洲亚成鱼[10]和乌苏[19]的。  
+蛋白质原料中蛋白质的质量是影响鱼类营养的首要因子，而鱼类对其蛋白质的消化率是判断原料可利用性的重要指标[24]。本试验中，各蛋白质原料的粗蛋白质表观消化率均在73%以上，其中鱼粉和鸡肉粉的粗蛋白质表观消化率分别达到 $8 9 . 4 7 \%$ 和 $8 1 . 1 4 \%$ ，均高于双低菜低粕（ $7 9 . 5 2 \%$ ）和玉米蛋白粉（ $7 9 . 5 2 \%$ ），这可能与以下2个方面的因素有关：一是植物蛋白质存在必需氨基酸的不平衡性[25]；二是植物蛋白质存在抗营养因子[26-27]，会影响鱼类的消化吸收。本试验中，双低菜籽粕和玉米蛋白粉的粗蛋白质表观消化率均接近$80 \%$ ，表明上述2种蛋白质原料也能较好地被达氏蝗幼鱼消化吸收。Sullivan 等[28]认为植物蛋白质原料虽然不具有动物蛋白质原料那样高的粗蛋白质含量，但是许多植物蛋白质原料能够像动物蛋白质原料一样被肉食性鱼类和杂食性鱼类有效地消化，因此，植物蛋白质原料双低菜籽粕和玉米蛋白粉也可以作为达氏幼鱼人工配合饲料的蛋白质来源之一。达氏鲤幼鱼对羽毛粉的粗蛋白质表观消化率为 $7 3 . 6 2 \%$ 、低于西伯利亚鲟[9]的 $8 8 . 2 \%$ ，接近欧洲鲤[10]的 $7 5 \%$ ，高于杂交鲟[8]的 $50 . 5 4 \%$ ；达氏鲤幼鱼对肉骨粉的粗蛋白质表观消化率为$7 6 . 2 4 \%$ ，低于杂交鲟[8]的 $8 4 . 9 5 \%$ 、西伯利亚鲟[9]的 $8 3 . 9 \%$ ，接近杂交鲟[8]的 $7 7 . 5 4 \%$ ，究其原因，一方面可能是杂交鲟在消化吸收方面的遗传特性与其他鲟有差异[8]；另一方面可能是受原料加工方式及来源不同的影响，原料及营养成分的差异也可导致消化吸收的差异[8]。  
+本试验中，达氏鲤幼鱼对各蛋白质原料中氨基酸和粗蛋白质的表观消化率变化趋势较为一致，同时发现不同的蛋白质原料中同一种氨基酸的表观消化率有很大的差异，同种蛋白质原料中不同种氨基酸的表观消化率也存在很大的差异，这与部分学者的报道[23,29]相-致。本试验中，除羽毛粉和肉骨粉外，达氏幼鱼对其他4种蛋白质原料的总氨基酸表观消化率均在 $80 \%$ 以上，表明达氏鲤幼鱼对这4种蛋白质原料中的大部分氨基酸都能有效的利用。而达氏蝗幼鱼对羽毛粉和肉骨粉的总氨基酸表观消化率均在 $70 \%$ 以下，这可能与原料来源、新鲜度、营养组成和加工工艺等因素有关。
+
+# 4结论
+
+综上所述，达氏鲤幼鱼对6种蛋白质原料中干物质、粗蛋白质、粗脂肪、总能及总氨基酸和必需氨基酸的表观消化率均以鱼粉最好，鸡肉粉、双低菜籽粕和玉米蛋白粉次之，羽毛粉和肉骨粉较差，表明对于达氏幼鱼而言，鸡肉粉、双低菜籽粕和玉米蛋白粉可以作为其优质的动植物蛋白质来源之一。对于羽毛粉和肉骨粉，由于受到原料品质和加工工艺的影响，其营养成分变异范围较大，因此在使用时应考虑新鲜度、来源和营养组成等因素，并控制其在达氏鲤幼鱼饲料中的用量。
+
+参考文献：
+
+[1]徐奇友.鲟鱼营养与饲料研究进展[J].饲料工业,2014,35(24):1-6.   
+[2]HUNG S S O.Recent advances in sturgeon nutrition[J].Animal Nutrition,2017,3(3):191-204. [3]LUO L,AI L C,LIANG X F,et al.n-3 long-chain polyunsaturated faty acids improve the sperm,egg,and offspring quality of Siberian sturgeon (Acipenser baerii)[J].Aquaculture,2017,473:266-271.   
+[4] 陈细华,李创举,杨长庚,等.中国鲟鱼产业技术研发现状与展望[J].淡水渔 业,2017,47(6):108 - 112.   
+[5] DE SILVA S S,ANDERSON T A.Fish nutrition in aquaculture[M].London:Chapman & Hall,1995:103-142.   
+[6]CHO C Y,KAUSHIK S J.Nutritional energetics in fish:energy and protein utilization in rainbow trout (Salmo gairdneri)[J].World Review of Nutrition and Dietetics,1990,61:132-172. [7]董小林,解绶启,雷武,等.粪便收集方式对异育银鲫表观消化率测定的影响[J].水生生物学 报,2012,36(3):450 - 456.   
+[8]李向松,郭志强,韩冬,等.杂交鲟对六种蛋白原料的表观消化率[J].水生生物学 报,2015,39(2):431 - 435.   
+[9]LIU H,WU X,ZHAO W,et al.Nutrients apparent digestibility coefficients of selected protein sources for juvenile Siberian sturgeon (Acipenser baerii Brandt),compared by two chromic oxide analyses methods[J].Aquaculture Nutrition,2009,15(6):650-656.   
+[10] SAFARI O,NASERIZADEH M,ARANI M M.Digestibility of selected feedstuffs in subadult Caspian great sturgeon,Huso huso using settlement faecal collection and stripping methods[J].Aquaculture Nutrition,2016,22(2):293-303.   
+[11] RICHTER H,LUCKSTADT C,FOCKEN U,et al.Evacuation of peleted feed and the suitability of titanium (IV) oxide as a feed marker for gut kinetics in Nile tilapia[J].Journal of Fish Biology,2003,63(5):1080-1099.   
+[12]CHO C Y,SLINGER S J.Apparent digestibility measurement in feedstuffs for rainbow trout[M]//HALVER ? E,TIEW K.Finfish nutrition and fish feed technology.Berlin:Heenemann,1979:239-247.   
+[13]BUREAU D P,HARRIS A M,CHO C Y.Apparent digestibility of rendered animal protein ingredients for rainbow trout (Oncorhynchus mykiss)[J].Aquaculture,1999,180(3/4):345-358. [14] BUREAU D P,HUA K.Letter to the editor of Aquaculture[J].Aquaculture,2006,252(2/3/4):103 - 105.   
+[15]邓雪娟,刘国华,蔡辉益,等.分光光度计法测定家禽饲料和食糜中二氧化钛[J].饲料工 业,2008,29(2):57 - 58.   
+[16] AAFCO.Oficial publication[S].Atlanta,GA:Association of American Feed Control Officials,1996.   
+[17]KITAGIMA R E,FRACALOSSI D M.Digestibility of alternative protein-rich feedstuffs for channel catfish,Ictalurus punctatus[J].Journal of the World Aquaculture Society,2011,42:306-312. [18]ZHOU Q C,YUE Y R.Apparent digestibility coeficients of selected feed ingredients for juvenile hybrid tilapia,Oreochromis niloticus×Oreochromis aureus[J].Aquaculture Research,2012,43(6):806-814.   
+[19]CHE J,SU B,TANG B,et al.Apparent digestibility coefficients of animal and plant feed ingredients for juvenile Pseudobagrus ussuriensis[J].Aquaculture Nutrition,2017,23(5):1128- 1135.   
+[20] 李会涛,麦康森,艾庆辉,等.大黄鱼对几种饲料蛋白原料消化率的研究[J].水生生物学 报,2007,31(3):370 - 375.   
+[21] NRC.Nutrient requirements of fish[S].Washington,D.C.:National Academy Press,1993:114. [22] ANDERSON J,JACKSON A J,MATTY A J,et al.Effects of dietary carbohydrate and fibre on the tilapia Oreochromis niloticus (Linn.)[J].Aquaculture,1984,37(4):303-314. [23]姜雪姣,梁丹妮,刘文斌,等.团头鲂对8种非常规饲料原料中营养物质的表观消化率[J].水 产学报,2011,35(6):932 - 939.   
+[24] LEE S M.Apparent digestibility coefficients of various feed ingredients for juvenile and grower rockfish (Sebastes schlegeli)[J].Aquaculture,2002,207(1/2):79-95.   
+[25] HASAN M R,MACINTOSH D J,JAUNCEY K.Evaluation of some plant ingredients as dietary protein sources for common carp (Cyprinus carpio L.) fry[J].Aquaculture,1997,151(1/2/3/4):55-70.   
+[26] FRANCIS G,MAKKAR H P S,BECKER K.Antinutritional factors present in plant-derived alternate fish feed ingredients and their effects in fish[J].Aquaculture,2001,199(3/4):197-227. [27] KROGDAHL A.Alternative protein sources from plants contain anti-nutrients affecting digestion in salmonids[C]//Proceedings of the 3rd International Symposium on Feeding and Nutrition in Fish.Tokyo:Tokyo University of Fisheries,1989:253-261.   
+[28]SULLIVAN JA,REIGH R C.Apparent digestibility of selected feedstuffs in diets for hybrid striped bass (Morone saxatilis $ { \mathcal { G } } \times$ Morone chrysops?)[J].Aquaculture,1995,138(1/2/3/4):313 322.   
+[29]叶元土,林仕海,罗莉.草鱼对 27种饲料原料中氨基酸的表观消化率[J].中国水产科 学,2003,10(1):60 - 64.   
+Nutrient Apparent Digestibility in Six Protein Ingredients for Juvenile Kaluga (Huso dauricus） WU Jinping CHU Zhipeng CHEN Xihua\* TANG Dan QIAO Xinmei LI Chuangju YUE Huamei RUAN Rui LIU Wei   
+(Key Laboratory of Freshwater Biodiversity Conservation of Ministry ofAgriculture, Yangtze \*Corresponding author, professor, E-mail: chenxh@yfi.ac.cn (责任编辑营景颖)
+
+Abstract: In order to evaluate the digestive ability of different protein ingredients for juvenile kaluga （Huso dauricus） ，the test diets were consisted of $70 \%$ basal diet and $30 \%$ test ingredients, including fish meal, chick meal, feather meal, meat and bone meal, corn gluten meal and canola meal, and using $0 . 4 \%$ titanium dioxide( $\mathrm { T i O } _ { 2 }$ ）as an indicator to determine the apparent digestibility of dry matter, crude protein, crude lipid, gross energy and amino acids. The juvenile kaluga with an average body weight of $( 6 6 . 7 9 \pm 2 . 1 8 ^ { \circ }$ $\mathbf { g }$ were randomly divided into 7 groups with 3 replicates per group and 2O fish per replicate. The test fish fed the basal diet for 2 weeks, then fed the test diets for 1 weeks,and the fecal samples were collcted for 10 days with a fine mesh net. The results showed that the apparent digestibility of dry matter, crude protein, crude lipid, gross energy and total amino acids in fish meal, chick meal, meat and bone meal, feather meal, canola meal and corn gluten meal were $54 . 7 9 \ \%$ to $8 8 . 0 7 \%$ ， $7 3 . 6 2 \%$ to $89 . 4 7 \%$ $9 9 . 8 \%$ to $1 0 0 . 7 4 \%$ ， $6 6 . 6 2 \%$ to $1 0 3 . 1 8 \%$ and $5 1 . 2 7 \%$ to $9 8 . 6 2 \%$ ， respectively. Among the six protein ingredients, the apparent digestibility of crude lipid was $\geq 9 9 \%$ ， the higher apparent digestibility of dry matter, crude protein and gross energy was observed in fish meal and chick meal, followed by corn gluten meal and canola meal, and feather meal and meat and bone meal presented the worse. The crude protein apparent digestibility of fish meal was the highest, at $89 . 4 7 \%$ , which was significant higher than other protein ingredients( $P { < } 0 . 0 5$ ）.The chicken meal was followed by $8 1 . 1 4 \%$ ， and there was no significant difference compared with meat and bone meal, canola meal and corn gluten meal ( $P > 0 . 0 5$ ） ； the crude protein apparent digestibility of feather meal was the lowest, at $73 . 6 2 \%$ , and there was no significant difference compared with meat and bone meal( $P > 0 . 0 5$ ） and it was significantly different from other protein ingredients( $P { < } 0 . 0 5$ ） . The variation trend of the apparent digestibility of total amino acids was basically consistent with that of crude protein apparent digestibility. In conclusion, for juvenile kaluga diet, fish meal is the best protein source, chick meal, canola meal and corn gluten meal may be used as the good protein sources. When the feather meal and meat and bone meal are added as the protein sources, the added level in the diet must be controlled. Key words: juvenile kaluga (Huso dauricus); protein ingredient; nutrient; apparent digestibility

@@ -1,0 +1,458 @@
+[
+    {
+        "type": "text",
+        "text": "地黄SCoT分子标记体系的建立和指纹图谱的构建",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨珂」，周延清’2,31，段红英」，郭萌萌」(1.生命科学学院 河南师范大学，河南 新乡 453007；2.资源微生物与功能分子河南省高校重点实验室培育基地 河南师范大学，河南 新乡453007；3.地道中药材保育及利用河南省高校工程技术研究中心河南师",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "范大学，河南 新乡 453007)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目标起始密码子多态性分子标记（SCoT）标记是一种基于单引物扩增反应的新型目的基因分子标记。研究采用 $\\mathrm { L 2 5 ~ ( 5 ^ { 6 } ) }$ 正交设计和单因素两种方法，对影响地黄SCoT-PCR反应的5个因素（模板DNA浓度，引物浓度， $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 和Mix的用量以及退火温度）进行优化，优化后的反应体系为：总体积为 $2 5 \\mu \\mathrm { L }$ ，含有 $\\mathrm { 8 \\mu L d d H _ { 2 } O , 1 \\mu L }$ 模板DNA( $8 0 \\mathrm { n g } { \\bullet } \\mathrm { \\mu L } ^ { - 1 } )$ ,1$\\mu \\mathrm { L }$ 引物（ $\\mathrm { \\cdot 8 ~ \\mu m o l \\bullet L ^ { - 1 } }$ ）和 $1 5 \\mu \\mathrm { L M i x }$ 退火温度为 $4 5 ^ { \\circ } \\mathrm { C }$ 。运用30份地黄种质材料，对优化的SCoT-PCR正交体系进行多次重复验证，获得了多态性丰富、条带清晰的扩增图谱，证明该反应体系稳定可靠。利用该体系对32条SCoT引物进行两次筛选，得到14个扩增产物清晰、重复性好且多态性条带相对较高的引物。最终利用SCoT4等5条引物构建了上述地黄2个种共30份种质的SCoT指纹图谱。利用这5个SCoT引物指纹图谱可以将7个地黄常用栽培品种区分开。研究表明，SCoT分子标记体系适用于地黄主要品种亲缘关系及遗传多样性的研究，所构建的指纹图谱也为地黄常见的7个栽培品种的区分提供参考依据。这些结果为地黄种质资源亲缘关系、分子育种和遗传多样性等研究奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：目标起始密码子多态性（SCoT)，单因素试验，正交设计，引物筛选，品种鉴定中图分类号：O413 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SCoT molecular marker system and fingerprint in ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rehmannia glutinosa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG $\\mathsf { K e } ^ { 1 }$ , ZHOU Yanqing1.2.3\\*, DuanHongying1，GUO Mengmeng (1. College ofLifeSciences,Henan Normal University,Xinxiang 453oo7,Henan,China; 2.Key Laboratoryfor Microorganisms and Functional Molecules,Henan Normal University,Xinxiang 453oo7,Henan,China; 3. Engineering Technology Research Center of Nursing and Utilization of Genuine Chinese Crude Drugs,Henan Normal University,Xinxiang 4530o7,Henan, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The target initiation codon polymorphism molecular marker (SCoT) marker is a novel target gene molecular marker based on single primer amplification reaction. The study used L25 （20 $( 5 ^ { 6 } \\cdot$ ）orthogonal design and single factor method to optimize the five factors (template DNA concentration,primer concentration, $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ ，Mix amount and annealing temperature） that affect the SCoT-PCR reaction of Rehmannia glutinosa. The reaction system was: a total volume of $2 5 ~ \\mu \\mathrm { L }$ containing ${ 8 \\mu \\mathrm { L } }$ of $\\mathrm { d d H } _ { 2 } \\mathrm { O }$ $1 \\mu \\mathrm { L }$ of template DNA $( 8 0 \\mathrm { n g } \\bullet \\mathrm { \\textmu L } ^ { - 1 } )$ ， $1 \\mu \\mathrm { L }$ of primer $( 8 ~ \\mathrm { \\mu m o l \\bullet L } ^ { - 1 } )$ and （204号 $1 5 ~ \\mu \\mathrm { L }$ of Mix, and an annealing temperature of $4 5 ~ ^ { \\circ } \\mathrm { C }$ . The optimized SCoT-PCR orthogonal system was repeatedly verified by using 3O parts of Rehmannia germplasm materials,and the amplified spectrum with rich polymorphism and clear bands was obtained, which proved that the reaction system was stable and reliable. Using this system, $3 2 \\thinspace \\mathrm { S C o T }$ primers were screened twice, and 14 primers with clear, reproducible and relatively high polymorphic bands were obtained. Finally, SCoT fingerprints of 30 species of the above two species of Rehmannia were constructed by using five primers such as SCoT4. Using these five SCoT primer fingerprints, seven common cultivars of Rehmannia glutinosa can be distinguished. Studies have shown that the SCoT molecular marker system is suitable for the study of genetic relationship and genetic diversity of the main varieties of Rehmannia glutinosa. The fingerprints constructed also provide reference for the differentiation of seven cultivars commonly found in Rehmannia glutinosa. These results laid the foundation for the study of genetic relationship,molecular breeding and genetic diversity of Rehmannia germplasm resources. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: target initiation codon polymorphism (SCoT), single factor test, orthogonal design, primers screening,variety identification ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "地黄(Rehmanniaglutinosa)是玄参科地黄属多年生草本植物,包括天目地黄、裂叶地黄、高地黄、湖北地黄、茄叶地黄与地黄6个种，分布于中国、日本和韩国等国家。在我国，地黄主要分布于河南、山西、辽宁、山东、陕西和安徽等地。地黄根作为药材和食材，具有重要的经济价值。因此，地黄备受人们青睐，广为研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "就地黄DNA分子标记研究而言，迄今，已经有RAPD、ISSR、SRAP、SCAR、ITS、AFLP、叶绿体DNA非编码区片段和EST-SSR分子标记应用于地黄遗传多样性评价、分类、鉴定、指纹图谱、居群遗传关系、结构及诊断茎尖快速繁殖地黄品种和F1代杂种（郭冠瑛，2013；周延清等,2015；王婉坤，2016；夏至等，2016）、种的鉴定等方面（冯法节等,2015;Liuetal,2015)。但是，这些标记各有缺点。譬如，RAPD 标记、AFLP 标记和 SSR 标记依次具有不稳定性、费时与昂贵和难以开发等缺点，所以，需要开发新地黄分子标记。目标起始密码子多态性分子标记（startcodon targeted polymorphism，SCoT）标记是一种基于单引物扩增反应的新型目的基因分子标记，是根据植物基因ATG起始密码子侧翼保守区域设计单引物，对基因组中ATG两侧的区域进行扩增，产生偏向候选功能基因区显性多态性标记，具有能获得与性状联系紧密的目的基因、能对性状进行跟踪、操作简单、重复性好、多态性丰富与引物通用性好等优点，已被广泛应用于硬粒小麦遗传多样性分析（Guoetal，2016)、中间偃麦草与普通小麦种的系统关系（徐林涛,2015）、突尼斯柑橘种的鉴定（Mahjbi et al,2015）、君迁子分类（Yang etal，2015）、指纹图谱构建（罗霆等,2013）、间接器官发生途径再生火索麻植株的遗传纯合率（Mariappan etal，2016）、基因差异表达和分子遗传连锁图谱构建等方面（龙治坚等，2015)。另外，由于地黄长期营养繁殖和区间的引种交流，多数品种经过长年栽种后品种退化，质量和产量严重下降，外部形态参差不齐[14]。然而，现在对地黄的研究主要包括育种、化学、病虫害防治等方面（刘承伟等，2007；纪薇等，2008；陈大霞等，2009，2011)，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "迄今，SCoT标记技术尚未见在地黄应用的报道，从分子角度探讨地黄遗传多样性和亲缘关系的研究也相对较少（陈大霞等，2012)。为此，本研究以开发地黄新分子标记为目的，以地黄为材料，构建与优化地黄 SCoT-PCR体系，并筛选合适引物，对30份种质进行了SCoT指纹图谱的构建，为地黄遗传多样性分析和品种鉴定等研究奠定基础，也为地黄常见的7个栽培品种红薯王、抗育 831、北京3号、北京2号、金状元、金九和温85-5的区分提供",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参考依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验用地黄种质收集于河南4个市县、山东2个区县和上海华东师范大学，包括裂叶地黄（Rehmannia piasezkii）和地黄（Rehmannia glutinosa）这2个种，共30份种质。2016年5月由研究生王婉坤于表1各地采集地黄的新鲜幼嫩叶子，每个产地共采集三株作为重复，经硅胶快速干燥后保存于-70℃冰箱备用。均经过河南师范大学段红英教授鉴定和王婉坤研究生ITS测序与NCBI比对，确定为裂叶地黄或地黄种质（王婉坤，2016）（表1)。实验用TaqMasterMix由北京康为世纪生物科技有限公司合成，具有稳定性好、灵敏度高、快速简便、特异性强等优点。从文献（陈大霞等，2012；李丕睿等,2013；蒋雅琴等,2014）查选32个单引物序列，由北京三博远志生物公司合成,命名为SCoT1-SCoT32。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/86bfcf652d429109011cd39bc427447f381ebdccfe311cb34d1bef1e216c095f.jpg",
+        "table_caption": [
+            "表1地黄资源材料",
+            "Table1 Rehmannia resources materials "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>中文名</td><td>拉丁名</td><td>采集地</td></tr><tr><td>NO.</td><td>Chinese name</td><td>Special name</td><td>Locality</td></tr><tr><td>1</td><td>灵宝野生</td><td>Rehmannia glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>2</td><td>上作1</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>3</td><td>山西北相</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>4</td><td>金线吊鱼</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>5</td><td>密县野生</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>6</td><td>郭里毛</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>7</td><td>红薯王</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>8</td><td>组培9302</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>9</td><td>抗育831</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>10</td><td>古贤地黄</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>11</td><td>皇后杂</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>12</td><td>北京3号</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>13</td><td>灵宝野生</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>14</td><td>三块</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>15</td><td>方庄地黄</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>16</td><td>温怀地黄</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>17</td><td>北京2号</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>18</td><td>金状元</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>19</td><td>范山地黄</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>20</td><td>狮子头</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>21</td><td>上作2</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>22</td><td>张寺961</td><td></td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>23</td><td>金九</td><td>R. glutinosa</td><td>温县农科所 Wen County Agricultural Science Institute</td></tr><tr><td>24</td><td>文昌地黄</td><td>R. glutinosa</td><td></td></tr><tr><td>25</td><td>泰山地黄</td><td>R. glutinosa</td><td>济南文昌山 Wenchang Mountain in Jinan</td></tr><tr><td>26</td><td>舞阳地黄</td><td>R. glutinosa</td><td>济南泰安泰山 TaiMountain in Jinan</td></tr><tr><td></td><td>野生地黄</td><td>R. glutinosa</td><td>漯河舞阳县 Luohe Wuyang County</td></tr><tr><td>27</td><td></td><td>R. glutinosa</td><td>灵宝县胡家原村 Hujiayuan Village,Lingbao County</td></tr><tr><td>28</td><td>裂叶地黄</td><td>R. piasezkii</td><td>华东师范大学 East China Normal University</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8f1d66962eefe5d96e9a7521d8f4941a6c67636effcab536c8d309fa81bdf83.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>29</td><td>温85-5</td><td>R. glutinosa</td><td>河南师范大学Henan Normal University</td></tr><tr><td>30</td><td>卫辉地黄</td><td>R. glutinosa</td><td>卫辉市比干庙Weihui City Bigan Temple</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2DNA的提取与检测 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "取新鲜地黄叶片，根据改良的CTBA提取叶片DNA，并用 $1 \\%$ 琼脂糖凝胶电泳检测DNA完整性，并用紫外分光光度计测定其浓度和纯度，将样品按所需浓度稀释，置于 $- 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 条件下保存备用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3基础SCoT-PCR体系的建立与目标引物的筛选 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据文献（罗霆等,2013；徐林涛,2015;Guo et al,2016;Mahjbi et al,2015）初步建立基础的地黄的 SCoT-PCR反应体系,对32条引物进行初次的筛选。SCoT-PCR反应体系为 $2 0 { \\mu \\mathrm { L } }$ 包含 ${ 8 \\mu \\mathrm { L } { \\mathrm { d d H } _ { 2 } \\mathrm { O } } }$ ， $1 \\mu \\mathrm { L }$ 模板DNA（ ${ \\mathrm { 8 0 ~ n g } } { \\mathrm { \\cdot } } { \\mathrm { \\mu L } } ^ { - 1 } ;$ ， $1 ~ \\mu \\mathrm { L }$ 引物（ $8 \\mu \\mathrm { m o l } \\cdot \\mathrm { L } ^ { - 1 } .$ ， $1 0 \\mu \\mathrm { L M i x }$ 。扩增程序： $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 预变性 $4 \\ : \\mathrm { { m i n } ; 9 4 ~ \\mathrm { { ~ ‰ ~ } } }$ 变性 $1 \\mathrm { m i n } , 5 0 \\mathrm { ~ \\textdegree ~ }$ 退火 $1 \\mathrm { m i n } , 7 2 \\mathrm { ~ \\textdegree ~ }$ 延伸 $2 \\operatorname* { m i n } , 3 6$ 个循环;$7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 $5 \\mathrm { m i n }$ . $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存。采用 $1 \\%$ 琼脂糖凝胶电泳检测PCR扩增产物，拍照分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4SCoT-PCR的正交实验设计 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "温85-5为地黄最常见的栽培品种。选取温85-5品种DNA为模板，以1.3中筛选的SCoT15为引物，针对模板DNA浓度、引物浓度， $\\mathrm { \\ d d H _ { 2 } O }$ 体积、PCR反应体系中Mix的用量和退火温度5种因素设置5个不同水平(表2)，采用 $\\mathrm { L } _ { 2 5 } ( 5 ^ { 6 } )$ 正交试验设计对基础 SCoT一PCR 进行体系优化，2次重复。PCR扩增反应在梯度PCR仪Tgradient上进行，扩增程序： $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 预变性 $4 \\mathrm { m i n }$ ; $9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 变性 $1 \\mathrm { m i n }$ ，退火温度的设定依据正交表 $1 \\mathrm { m i n }$ ， $7 2 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ }$ 延伸 $2 \\mathrm { m i n } { , } 3 6$ 个循环； $4 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 保存。扩增结束后，吸取扩增产物 $8 { \\sim } 1 0 ~ \\mu \\mathrm { L }$ 进行 $1 \\%$ 琼脂糖凝胶电泳，电极缓冲液为 $1 \\times \\mathrm { T A E }$ ，在GelDoctmEZ凝胶成像仪拍照。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/59a3c05aab960fc12de645af92c3841928ae8425e38440a4e915eb8976996d14.jpg",
+        "table_caption": [
+            "表2地黄SCoT-PCR反应体系 $\\mathrm { L } _ { 2 5 } ( 5 ^ { 6 } )$ 正交试验设",
+            "Table 1 Rehmannia glutinosa SCoT-PCR reaction system L25 $( 5 ^ { 6 } )$ ）orthogonal test des "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理</td><td>ddH2O</td><td>模板DNA用量</td><td>引物Primer</td><td>Mix</td><td>退火温度</td></tr><tr><td></td><td>uL</td><td>Template DNA(μg·mL*1)</td><td>(μmol-L−1)</td><td>uL</td><td>Temperature(℃)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6186bbe8116f36eaac7bcce52e54715c67008bd7f4fd755d4d58349056dfa8a6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>1</td><td>7</td><td>50</td><td>3.5</td><td>9.0</td><td>45</td></tr><tr><td>2</td><td>7</td><td>65</td><td>5.0</td><td>10.5</td><td>48</td></tr><tr><td>3</td><td>7</td><td>80</td><td>6.5</td><td>12.0</td><td>51</td></tr><tr><td>4</td><td>7</td><td>95</td><td>8.0</td><td>13.5</td><td>54</td></tr><tr><td>5</td><td>7</td><td>110</td><td>9.5</td><td>15.0</td><td>60</td></tr><tr><td>6</td><td>8.5</td><td>50</td><td>5.0</td><td>12.0</td><td>54</td></tr><tr><td>7</td><td>8.5</td><td>65</td><td>6.5</td><td>13.5</td><td>60</td></tr><tr><td>8</td><td>8.5</td><td>80</td><td>8.0</td><td>15.0</td><td>45</td></tr><tr><td>9</td><td>8.5</td><td>95</td><td>9.5</td><td>9.0</td><td>48</td></tr><tr><td>10</td><td>8.5</td><td>110</td><td>3.5</td><td>10.0</td><td>51</td></tr><tr><td>11</td><td>10</td><td>50</td><td>6.5</td><td>15.0</td><td>48</td></tr><tr><td>12</td><td>10</td><td>65</td><td>8.0</td><td>9.0</td><td>51</td></tr><tr><td>13</td><td>10</td><td>80</td><td>9.5</td><td>10.5</td><td>54</td></tr><tr><td>14</td><td>10</td><td>95</td><td>3.5</td><td>12.0</td><td>60</td></tr><tr><td>15</td><td>10</td><td>110</td><td>5.0</td><td>13.5</td><td>45</td></tr><tr><td>16</td><td>11.5</td><td>50</td><td>8.0</td><td>10.5</td><td>60</td></tr><tr><td>17</td><td>11.5</td><td>65</td><td>9.5</td><td>12.0</td><td>45</td></tr><tr><td>18</td><td>11.5</td><td>80</td><td>3.5</td><td>13.5</td><td>48</td></tr><tr><td>19</td><td>11.5</td><td>95</td><td>5.0</td><td>15.0</td><td>51</td></tr><tr><td>20</td><td>11.5</td><td>110</td><td>6.5</td><td>9.0</td><td>54</td></tr><tr><td>21</td><td>13.0</td><td>50</td><td>9.5</td><td>13.5</td><td>51</td></tr><tr><td>22</td><td>13.0</td><td>65</td><td>3.5</td><td>15.0</td><td>54</td></tr><tr><td>23</td><td>13.0</td><td>80</td><td>5.0</td><td>9.0</td><td>60</td></tr><tr><td>24</td><td>13.0</td><td>95</td><td>6.5</td><td>10.5</td><td>45</td></tr><tr><td>25</td><td>13.0</td><td>110</td><td>8.0</td><td>12.0</td><td>48</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5退火温度优化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "退火温度是影响 PCR 特异性的重要因素。根据正交试验筛选出的最有体系设计单因素实验，对退火温度再次进行梯度优化。试验设置了5个温度梯度： $4 5 . 0 \\mathrm { ^ { \\circ } C }$ 、 $4 7 . 0 ^ { \\circ } \\mathrm { C }$ 、 $5 1 . 3 ^ { \\circ } \\mathrm { C }$ 、$5 3 . 3 ^ { \\circ } \\mathrm { C }$ 、 $5 5 . 0 \\mathrm { ^ { \\circ } C }$ 。除退火温度不同外，反应程序与筛选出的正交试验体系相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.6正交试验最优体系的验证 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用1.3中筛选的14条引物和1.5中优化后的正交体系，对30份地黄种质DNA模板进行扩增，用 $1 \\%$ 琼脂糖凝胶电泳检测扩增产物，验证该体系的稳定性、通用性和重复性，同时对14 条引物进行第二次筛选。对所得的SCoT谱带保存并进行数据分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7数据处理",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据用人工读带的方法，根据 SCoT-PCR扩增产物在凝胶电泳上的相对位置，依据分子量从大到小的顺序读带，对电泳图谱上清晰且可辨认的条带记为1，无条带记为0，缺失记为9，模糊不清的不予记录，建立30份地黄种质的SCoT指纹图谱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1地黄DNA质量和浓度的检测 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用 $1 \\%$ 琼脂糖凝胶电泳检测DNA完整性，检测结果显示所得的DNA条带清晰完整，无拖尾和蛋白质污染。取 $1 ~ \\mu \\mathrm { L }$ 提取的DNA，以 $\\mathrm { \\ d d H } _ { 2 } \\mathrm { O }$ 作为基准，用微量分光光度计测定其浓度和纯度， $\\mathrm { O D } _ { 2 6 0 } / \\mathrm { O D } _ { 2 8 0 }$ 均在 $1 . 8 { \\sim } 2 . 0$ 之间，说明所提取的地黄DNA较纯净，无杂质污染，可进行PCR 扩增试验。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2基础SCoT-PCR体系建立和筛选引物",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用基础体系与扩增程序，以温85-5，金九，金状元，红薯王等地黄常见栽培种质的DNA模板，对32条SCoT引物进行SCoT-PCR 筛选（图1)，初次获得扩增产物清晰、重复性好且多态性条带相对较高的14条引物，并正式用于PCR扩增（表3)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/fd75be062cc720ec4b9652069b1676fecb5033fef9b14457cdc651dc7a062c90.jpg",
+        "table_caption": [
+            "表314条引物序列",
+            "Table 3 14 primer sequences "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>TaoleST+prhnersequelees</td></tr><tr><td>引物编号 引物序列（5'-3') Primer No. Sequence</td></tr><tr><td>SCoT4 ACCATGGCTACCACCGCG</td></tr><tr><td>SCoT5 ACGACATGGCGACCGCGA</td></tr><tr><td>SCoT11 CAACAATGGCTACCACGT</td></tr><tr><td>SCoT14 AAGCAATGGCTACCACCA</td></tr><tr><td>SCoT15 ACGACATGGCGACCATCG</td></tr><tr><td>SCoT16 ACGACATGGCGACCACGC</td></tr><tr><td>SCoT19 ACCATGGCTACCACCGGC</td></tr><tr><td>SCoT21 GCAACAATGGCTACCACC</td></tr><tr><td>ACCATGGCTACCACCGCA</td></tr><tr><td>SCoT23</td></tr><tr><td>SCoT25 CCATGGCTACCACCGGCC</td></tr><tr><td>SCoT26 CCATGGCTACCACCGGCG</td></tr><tr><td>SCoT27 CCATGGCTACCACCGCCT</td></tr><tr><td>SCoT28 CCATGGCTACCACCGCAG SCoT29 ACGACATGGCGACCAACG</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/110ae2b0d4f55f65a396cc7d466688939f8675e7f63f5345b3eec582b64a117c.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "M 1 2 3 4 5 6 7 8910 11121314151617 181920212223242526272829303132 "
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：M.D5000 marker；泳道1-32.依次代表引物 SCoT1-SCoT32。下同。  \nNote: M.D 5000 marker;Lanes1-32.The primer SCoT1-SCoT32.The same below.图1温85-5对32条引物SCoT1-SCoT32的初次筛选  \nFig.1 Primary screening of 32 primers for 32 primers SCoT1-SCoT32",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a400737f64666625a265742bdad645be6eb7ef2efd78051685925d65fd162810.jpg",
+        "img_caption": [
+            "图2金九对32条引物SCoT1-SCoT32的初次筛选 Fig.2 Primary screening of 32 primers SCoT1-SCoT32 by Jinjiu "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3正交试验的验证 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从正交试验扩增结果可以看出，25个处理组合中有18个产生谱带，其中10号、14号、16号、18号、20号、22号和23号处理组合没有扩增出产物，5号、6号、7号和19号扩增产物极少,8号和9号处理组合扩增谱带清晰、易于辨认，呈现多态性（图3)。综合各个条带的直观分析，最终确定地黄SCoT-PCR的最佳反应体系： $\\mathrm { \\ d d H _ { 2 } O \\ 8 \\ \\mu L }$ ，模板DNA用量$8 0 \\mathrm { n g } \\bullet \\mathrm { \\textmu L } ^ { - 1 }$ ，引物 $8 ~ { \\mu \\mathrm { m o l } } { \\cdot \\mathrm { L } } ^ { - 1 }$ ， $\\mathtt { M i x 1 5 \\mu L }$ ，退火温度 $4 5 \\ \\mathrm { ~ \\textdegree C }$ ，总体积 $2 5 ~ \\mu \\mathrm { L }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注：M.D5000marker；泳道1-25．从左到右依次为正交表L25 $( 5 ^ { 6 } )$ ）个处理。 Note: M. D 5000 marker; Lane 1-25. From left to right, orthogonal table L25 (56) processing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/987c7534915f103bfa16768705472f9f27d3f50b041006d18976b38fbc383ea6.jpg",
+        "img_caption": [
+            "Fig.3 Orthogonal design electrophoresis results "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4退火温度优化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在研究的5个退火温度中 （图4)， $4 5 . 0 \\mathrm { ~  ~ { ~ C ~ } ~ }$ 扩增条带背景较强，条带易于辨认且特异性强； $4 7 . 0 \\mathrm { ~ \\textdegree C }$ 和55.0℃扩增的条带少且背景较弱； $5 1 . 3 \\mathrm { ~ \\ ^ ~ C ~ }$ 和 $5 3 . 3 \\mathrm { ~ \\ ^ ~ C ~ }$ 随着退火温度的升高，扩增条带数目增加，背景增强，但当退温度上升到 $5 5 . 0 \\mathrm { ~ \\ ^ { \\circ } C }$ 时，背景又变弱。因此，以条带扩增清晰、呈现多态性为依据，确定本试验的最佳退火温度为 $4 5 . 0 \\mathrm { ~  ~ { ~ C ~ } ~ }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1443a5aaaa14088bf68d3d42bfefcf0fb776b2467f0bcdf4e09176a2717d5883.jpg",
+        "img_caption": [
+            "图3正交设计电泳结果",
+            "图4退火温度对地黄SCoT-PCR反应的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "注:M.D 5000 marker；泳道1-5.从左到右依次为5个温度梯度:45.0℃、47.0℃、51.3℃、53.3℃、55.0℃。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: M.D 5000 marker; Lanes 1-5.From left to right are 5 temperature gradients: 45.O ℃,47.0 ℃, $5 1 . 3 ^ { \\circ } \\mathrm { C } , 5 3 . 3 ^ { \\circ } \\mathrm { C } , 5 5 . 0 ^ { \\circ } \\mathrm { C } .$ （20 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Effects of annealing temperature on SCoT-PCR reaction of Rehmannia glutinosa ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5地黄最适反应体系的验证",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "用初次筛选的14条引物，对30份地黄种质DNA模板进行 SCoT-PCR分析，将产物进行琼脂糖凝胶电泳检测。除 SCoT21和 SCoT25外，所用引物均能在供试材料中扩增出条带清晰、亮度适中、多态性高的条带。如 SCoT15 和 SCoT27在30 份地黄材料中的扩增谱带清晰、易于辨认，呈现多态性（图5，6)。由此说明建立和优化的SCoT分子标记反应体系适用于地黄基因组DNA的遗传多样性等后续研究。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6dd592dcc7389558e01491b83d7696e6306382585d03ce48b15f5c33c73c44f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：M.D5000 marker；泳道1-30.1-30 份地黄品种。下同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Note: M.D 50oO marker; Lanes 1-30.1-30 parts of Rehmannia glutinosa.The same below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6e5f9ae0b6dbd1c2e74e793ef927d54764745d2400eb1a5f37853fe382896b1.jpg",
+        "img_caption": [
+            "图5SCoT15的扩增结果",
+            "Fig.5Amplification results of SCoT15 ",
+            "图6SCoT27的扩增结果",
+            "Fig.6 Amplification results of SCoT27 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6SCoT引物扩增分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "通过对32条 SCoT引物的两次筛选，得到14个扩增产物清晰、重复性好且多态性条带相对较高的引物。利用筛选的14条 SCoT引物对30份地黄种质资源进行扩增分析，研究结果显示：(1)14条 SCoT引物对31份地黄材料共扩增出103个位点，其中多态性位点有96个，多态率达 $94 . 2 \\%$ 。（2）31份材料的遗传相似系数在 $0 . 4 7 1 9 \\sim 0 . 9 2 2 3$ 之间，平均遗传相似系数为0.70，说明SCoT 标记能够显示品种间较高的遗传多样性。最终选择5条引物用于构建30分地黄种质的指纹图谱，利用这5条SCoT多态性引物指纹图谱可以将7个地黄常用栽培品种区分开。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.7指纹图谱构建 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据5条引物SCoT4、SCoT5、SCoT11、SCoT15、和 SCoT27的扩增结果，对电泳图谱上清晰且可辨认的条带记为1，无条带记为0，缺失记为9，模糊不清的不予记录，建立30份地黄种质的SCoT指纹图谱数字化表格(表4)，利用此5条SCoT多态性引物可有效区分地黄7个常用栽培品种。利用引物 SCoT4产生的特异性条带可以将北京2号、金状元和金九区分开；引物SCoT27可将红薯王和抗育831区别开；利用引物SCoT5可扩增出北京3号的特异性条带；引物 SCoT11可产生温85-5 的特异性条带；引物 SCoT27能扩增出金九的特异性条带。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/3656cbaed4e955b7defbe48cd7a75143d279164086b1cd87cb1fd35d83f8f4d5.jpg",
+        "table_caption": [
+            "表45条引物构建30份地黄材料的指纹图谱",
+            "Table4 5 primer construction 3O fingerprints of Rehmannia glutinosa material "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>引物</td><td>片段大小</td><td></td><td></td><td></td><td></td><td></td><td></td><td>30 份地黄资源</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primer</td><td>Amplified fragme</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SCoT4</td><td>size (bp)</td><td></td><td>123</td><td></td><td></td><td></td><td>456</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>7 89 101112 13141516 1718 19 20 2122 23 24 25 26 27 28 29 30</td><td></td><td></td><td></td><td></td><td></td><td></td><td>00</td><td></td></tr><tr><td></td><td>2500</td><td>2000</td><td>1 11 0</td><td>00</td><td></td><td>0</td><td>0</td><td>0</td><td>0 1</td><td>0</td><td>1 000</td><td>0 1</td><td>1 0</td><td>11 00</td><td></td><td>01 0</td><td>000</td><td></td><td>0</td><td>000 000</td><td></td><td>00</td><td>00 0</td><td>0</td><td></td><td>0 0</td><td>0</td></tr><tr><td></td><td></td><td>1 800</td><td>1</td><td>00000</td><td></td><td></td><td></td><td></td><td>0</td><td>0 0</td><td>0 0</td><td>10</td><td></td><td>00</td><td></td><td>00</td><td>010</td><td>0</td><td></td><td>010</td><td></td><td>0 1</td><td></td><td>1</td><td>11</td><td></td><td>0</td></tr><tr><td></td><td></td><td>1 500</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>11111100011</td><td>00</td><td></td><td>01</td><td></td><td>11</td><td>000</td><td>0</td><td></td><td>001</td><td></td><td>10</td><td>0</td><td></td><td>00</td><td></td><td>0</td></tr><tr><td>SCoT5</td><td>2000</td><td></td><td>1</td><td>11</td><td></td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td>1111</td><td>0</td><td>1</td><td>10</td><td></td><td>01</td><td>00</td><td>1 0</td><td></td><td>111</td><td></td><td>11</td><td>1</td><td>1</td><td>1</td><td>1</td><td></td></tr><tr><td></td><td>1 500</td><td></td><td>1</td><td>11</td><td></td><td></td><td></td><td></td><td></td><td>110110</td><td>11</td><td></td><td>01</td><td>00</td><td></td><td>01</td><td>000</td><td>1</td><td></td><td>100</td><td>10</td><td></td><td>0</td><td></td><td>01</td><td>0</td><td></td></tr><tr><td></td><td>1000</td><td></td><td>01111</td><td></td><td></td><td></td><td></td><td></td><td>11</td><td></td><td>1011</td><td></td><td>11</td><td>01</td><td></td><td>11</td><td>0 0</td><td></td><td>0</td><td>100</td><td>00</td><td></td><td>1</td><td></td><td>11</td><td>0</td><td></td></tr><tr><td>SCoT11</td><td>350</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>00000000000</td><td></td><td>10</td><td>10</td><td></td><td>00</td><td>000</td><td></td><td>0</td><td>000</td><td></td><td>01</td><td>1</td><td></td><td>00</td><td></td><td>0</td></tr><tr><td></td><td>2000</td><td></td><td>11111</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>111111</td><td></td><td>00</td><td>00</td><td></td><td>00</td><td>111</td><td></td><td>0 0</td><td>00</td><td></td><td>00</td><td>0</td><td></td><td>11</td><td></td><td>1</td></tr><tr><td></td><td>1800</td><td></td><td>011</td><td></td><td></td><td></td><td></td><td></td><td>0000</td><td>0 0</td><td></td><td>0 0</td><td>0</td><td>00</td><td></td><td>0 0</td><td>000</td><td>0</td><td></td><td>000</td><td>0</td><td>0</td><td>1</td><td></td><td>√</td><td>0</td><td>0</td></tr><tr><td></td><td>1 500</td><td></td><td>011</td><td></td><td></td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>00 1</td><td></td><td>00</td><td>00</td><td></td><td>00</td><td>000</td><td>0</td><td></td><td>000</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>1</td></tr><tr><td>SCoT15</td><td>1000</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>11110111111</td><td>00</td><td></td><td>01</td><td></td><td>01</td><td>111</td><td>1</td><td></td><td>001</td><td></td><td>11</td><td>1</td><td></td><td>1</td><td>1</td><td>1 0</td></tr><tr><td></td><td>2000</td><td></td><td>000000</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td></td><td>00000</td><td>01</td><td></td><td>01</td><td></td><td>01</td><td>100</td><td>0</td><td></td><td>000</td><td>01</td><td></td><td>9</td><td></td><td>00</td><td></td><td>0</td></tr><tr><td></td><td>1800</td><td></td><td>000</td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>1 1</td><td>00</td><td></td><td>01</td><td>00</td><td></td><td>111</td><td>1</td><td>00</td><td>000</td><td>01</td><td></td><td>9</td><td></td><td>00</td><td>11</td><td>1</td></tr><tr><td></td><td>1 500</td><td>1200</td><td>1111111</td><td></td><td>1111111000</td><td></td><td></td><td></td><td></td><td>1 1</td><td>1</td><td>100 101</td><td>00</td><td>00</td><td>00 00</td><td></td><td>000 000</td><td>0 0</td></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3 讨论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "传统的分子标记，如RAPD、ISSR、EST-SSR、SCAR和 SRAP等，已被证明是有效和可靠的，各有特点和不足（龙治坚等，2015)，如成本高，实验重复性差、稳定性不好等。分子标记SCoT标记作为一种新型 DNA分子标记技术，使用18bp的单引物，具有对 DNA 质量要求低、用量少，设计引物不需已知序列信息，引物错配率低且通用性好，扩增产物多态性高等优点。同时，用琼脂糖凝胶电泳检测其扩增产物，操作简单，成本低廉，耗时短。近年来已被应用与各种作物上，如西瓜（杨静等，2016）花生（熊发前等，2010）、丝瓜（将雅琴等，2014）、杨桃（欧景莉等，2015）和甘蔗（陈平华等，2011）等，也被应用于植物的遗传多样性分析（Guo et al,2016）、系统关系（徐林涛，2015）、种的鉴定（Mahjbi et al,2015）、分类（Yangetal,2015）、指纹图谱构建（罗霆等，2013）、再生植株的遗传纯合率（Mariappan et al，2016）和分子遗传连锁图谱构建等方面（龙治坚等，2015)，具有很好的前景。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "但就地黄而言，应用SCoT技术对地黄遗传多样性分析的几乎没有，仅见于陈大霞对玄参的遗传变异和分化的研究。已有的分子标记仅包括周延清（2015)，夏至（2016）等研究的 SRAP、SCAR、RAPD、ISSR、ITS、AFLP、种的鉴定(Mahjbi et al,2015）、叶绿体 DNA非编码区片段(rbcL、ndhF、rps16、trnL-F、psbA-trnH、和 matK)以 2015及冯法节（2015)，郭冠瑛（2013）和程月琴（2013）等发表的EST-SSR分子标记。为此，本试验利用SCoT分子标记技术分析30种地黄的遗传多态性，为地黄和其他物种提供新的分子标记技术，为地黄种质的鉴定提供依据。本试验筛选的14条 SCoT 引物在30 份地黄资源中具有很高的多态性，平均多态率达到 $9 4 . 2 \\%$ ，其引物多态性效果比一些报道的结果好。如在李丕睿(2013)等对18份的菊花材料进行多样性研究，12条SCoT引物的平均多态率为 $9 0 . 4 \\%$ ；在陈虎(2010)等对24个品种龙眼的研究中，24条引物的平均多态率为 $8 5 . 8 \\%$ ；在蒋雅琴等(2014)对81份丝瓜品种的研究中，10条引物的多态率为 $87 . 5 7 \\%$ 。利用这些引物能在部分栽培品种中扩增出特异性条带，这些特异性条带是否与特定性状关，还需要下一步试验证明。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究以开发地黄新分子标记为目的，克服上述 SCoT-PCR技术的不足，建立并优化出适宜的地黄SCoT-PCR反应体系为：总体积 $2 5 \\mu \\mathrm { L }$ ，包含 $\\begin{array} { r } { \\mathrm { d d H } 2 \\mathrm { O } \\ 8 \\mu \\mathrm { L } , } \\end{array}$ 模板DNA用量 $8 0 \\mathrm { n g \\bullet \\underline { { u } } L ^ { - 1 } }$ 引物 $\\mathrm { 8 \\mu m o l \\bullet L ^ { - 1 } }$ ，Mix $1 5 \\mu \\mathrm { L }$ ，退火温度 $4 5 \\mathrm { ^ \\circ C }$ 。并且该 SCoT-PCR 体系已在地黄栽培种、地黄属的2个不同种之间、农家种与野生种上进行了通用性和稳定性验证，都得到了特异性丰富的谱带，表明其适于地黄属种质的指纹图谱构建和鉴定及遗传传多样性分析等，也为其SCAR标记开发等后续研究奠定了基础。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHEN DX,LI LY,PENG R,et al, 2OO9. SRAP study on genetic relationship and genetic diversity of three cultivation types of Scrophularia sinensis[J]. Chin JMat Med, 34(2):138-142.[陈大 霞，李隆云，彭锐,等，2009．玄参3种栽培类型遗传关系和遗传多样性的 SRAP研究[J]. 中国中药杂志,34(2):138-142.] CHEN DX,LI LY, SONG CQ, et al, 2011. Several drugs to control the efficacy of Xuanxuan spot blotch[J].Anhui Agric Sci,22（15):13340-13341.[陈大霞，李隆云，宋春泉，等,2011．几 种药剂防治玄参斑枯病药效试验[J]．安徽农业科学,22(15):13340-13341.] CHEN DX, ZHANG X,WANG Y ,et al, 2012. Analysis of genetic diversity of Scrophularia germplasm resources by SCoT markers [J]. Chin J Mat Med, 37 (16): 2368-2372.[陈大霞, 张雪，王钰，等,2012．应用 SCoT标记分析玄参种质资源的遗传多样性[J].中国中药杂 志,37(16):2368-2372.] CHEN H, HE XH,LUO C, et al, 2010. Genetic diversity analysis of SCoT in 24 varieties of Longyan[J].JHortic,37(10):1651-1654.[陈虎，何新华，罗聪，等．龙眼 24个品种的 SCoT 遗传多样性分析[J]．园艺学报,37(10):1651-1654.] CHEN PH, CHEN RK, XU LP, et al, 2011. Whole genome amplification of sugarcane single pollen (WGA) and SCoT molecular markers[J].J Trop Crops,32(11): 2069-2075.[陈平华, 陈如凯，许莉萍，等，2011．甘蔗单花粉全基因组扩增(WGA)与 SCoT分子标记研究[J]. 热带作物学报,32(11):2069-2075.] CHENG YQ, JIAO ZB, ZHANG P, et al, 2013. Construction and characterization of microsatellite enriched library of Rehmannia glutinosa[J].Seed,32(5):12-16.[ 程月琴，焦振彬，张佩，等,   \n2013．地黄微卫星富集文库构建及特性分析[J]．种子,32(5):12-16.] FENG FJ,LI MJ,GU L, et al, 2015.Development of EST-SSR markers and establishment of amplification system for Rehmannia glutinosa [J]. Guangdong Agric Sci， 42(10):   \n120-126.[冯法节，李明杰，古力，等,2015．地黄EST-SSR标记的开发及扩增体系的建立 [J]．广东农业科学,42(10):120-126.] GUO GY, 2O13. Construction of large-capacity transcriptome library of Rehmannia glutinosa and development and identification of EST-SSR marker [D]. Zhengzhou: Henan Agricultral University.[郭冠瑛,2013．地黄大容量转录组文库的构建及EST-SSR 标记的开发与鉴定 [D]．郑州：河南农业大学.]   \nGUO J, YU X, YIN H, et al, 2016. Phylogenetic relationships of Thinopyrum and Triticum species revealed by SCoT and CDDP markers[J]. Plant Syst Evol, 302(9): 1301-1309.   \nJI W,LIANG ZS, JIANG ZM, et al,2008. Study on optimization formula fertilization technology of high-yield cultivation of Scrophularia sinensis [J]. J NW A & F Univ(Nat Sci Ed), 36（2）：170-174.[纪薇，梁宗锁，姜在民，等，2008．玄参高产栽培优化配方施肥技术 研究[J]．西北农林科技大学学报(自然科学版),36(2):170-174．]   \nJIANG YQ,LI Y,LI WJ, et al, 2014. Application of SCoT molecular marker technology in loofah[J].JS Agric Sci,45(12):2117-2122.[蒋雅琴，黎炎，李文嘉，等,2014.SCoT 分 子标记技术在丝瓜上的应用[J]．南方农业学报,45(12):2117-2122.]   \nLIU CW,BI ZM, ZHU YF, et al， 2OO7.HPLC quantitative analysis of four main active components in Scrophulariae [J]. Chin J Mat Med,42( 21) :1614-1616.[刘承伟，毕志明, 祝艳斐，等，2007．玄参中 4 种主要活性成分的 HPLC 定量分析[J]．中国药学杂志, 42(21) : 1614-1616.]   \nLI PR,JIANG JF, CHEN SM, et al, 2013. Application of SCoT molecular marker technology in genetic diversity analysis of Chrysanthemum [J].JHortic,40(10): 2015-2025.[李丕睿，蒋甲 福，陈素梅，等,2013．菊属植物 SCoT分子标记技术在遗传多样性分析中的应用[J]．园 艺学报,40(10): 2015-2025.]   \nLUO T, YANG HX, QIN HF, et al, 2013. Application of SCoT molecular markers in construction of cut-to-family genetic maps[J].J Plant Gene Resour, 14(4): 704-710.[罗霆，杨海霞，岑华 飞，等，2013．SCoT 分子标记在割手密遗传图谱构建中的应用[J]．植物遗传资源学报, 14(4): 704-710.]   \nLIU CY, YUAN C, LI XT, et al, 2015. Development of microsatellites from Rehmannia glutinosa transcriptome and evaluation of genetic diversity among Rehmannia glutinosa species[J]. Biochem Syst Ecol, 59: 177-182.   \nLONG ZJ, FAN LZ, XU G , et al, 2015. Progress in the application of SCoT molecular markers in plant research[J].JPlant Gene Resour,16(2):336-343.[龙治坚，范理璋，徐刚，等,2015. SCoT 分子标记在植物研究中的应用进展[J]．植物遗传资源学报,16(2）：336-343.]   \nMAHJBI A,BARAKET G, OUESLATI A, et al, 2015. Start codon targeted (SCoT） markers provide new insights into the genetic diversity analysis and characterization of Tunisian Citrus species[J]. Biochem Syst Ecol, 61:390-398 .   \nMARIAPPAN M, THIRUPPATHI SK, MANDALI VR, 2016. Organogenesis and evaluation of genetic homogeneity through SCoT and ISSR markers in Helicteres isora L.，a medicinally important tree[J]. Safr J Bot, 106:204-210.   \nOU JL,XUN JF, YU BN,et al, 2O15. Establishment and verification of SCoT labeled PCR reaction system in carambola[J]. S Chin Fruit Tree,44(3):16-21.[ 欧景莉，覃剑峰，余炳宁, 等,2015．杨桃SCoT标记PCR反应体系建立与验证[J].中国南方果树,44(3):16-21.]   \nWANG WS，2016. Screening and identification of DNA barcode sequences of Rehmannia glutinosa [D].Xinxiang: Henan Normal University.[王婉坤,2016.地黄 DNA 条形码序列 的筛选与鉴定研究[D]．新乡：河南师范大学.]   \nXIONG FQ, JIANG J, ZHONG RC,et al, 2010. Application of target codon polymorphism (SCoT) molecular marker technique in peanut[J]. Acta Agronom Sin,36(12): 2055-2061.[熊发前，蒋 菁，钟瑞春，等,2010．目标起始密码子多态性(SCoT)分子标记技术在花生属中的应用 [J].作物学报,36(12):2055-2061.] XU LT, 2015. Identification of wheat-intermediate ryegrass germplasm line [D]. Tai'an: Shandong Agricultral University．[徐林涛,2015．小麦—中间偃麦草种质系的鉴定[D]．泰安：山东 农业大学.] XIA Z, WANG LJ, HUANG Y, et al, 2016. Identification of DNA barcodes of Rehmannia and the origin of Rehmannia cultivation[J]. Chin Trad Herb Drugs,47(4): 648-654.[ 夏至，王璐静, 黄勇，等，2016．地黄属植物 DNA 条形码鉴定及地黄栽培起源研究[J]．中草药,   \n47(4):648-654. ] YANG Y, YANG TT, JING ZB,2O15. Genetic diversity and taxonomic studies of date plum (Diospyros lotus L.) using morphological traits and SCoT markers[J]. Biochem Syst Ecol, 61:   \n253-259. YANG J，WANG P, SHI L， 2016. Optimization of SCoT-PCR Reaction System and Primer Screening for Seed Watermelon[J]. NW Agric J,(6):889-896.[杨静，王萍，石磊,2016．籽 用西瓜SCoT-PCR反应体系优化及引物筛选[J]．西北农业学报,(6):889-896.] ZHOU YQ, YAO HL, ZHOU CE, et al, 2010. Research progress of Rehmannia breeding[J]. Guihaia，30(3):373-376.[周延清，姚换灵，周春娥，等，2010．地黄育种研究进展[J]．广 西植物,30(3):373-376.] ZHOU YQ, WANG WS, WANG XN, et al, 2015. Progress in DNA molecular markers and gene functions of Rehmannia glutinosa[J]. Chin JPlant Sci, 50(5): 665-672.[周延清，王婉坤，王 向楠，等,2015．地黄 DNA分子标记与基因功能研究进展[J]．植物学报,50(5):665-672.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

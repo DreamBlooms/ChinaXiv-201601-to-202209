@@ -1,0 +1,170 @@
+# 根际增氧对水稻根系形态和生理影响的研究进展
+
+周晚来1,2.3；易永健1；屠乃美²；谭志坚1；汪洪鹰1；杨媛茹1；王朝云1；易
+
+镇邪2.3
+
+(1.中国农业科学院麻类研究所长沙410205;2.湖南农业大学农学院长沙410128;3．南方粮油作物协同创新中心长沙410128)
+
+摘要：根际氧是影响稻田根际环境和水稻根系生理代谢的重要环境因子，已有的关于水稻根际氧的综述多为从低氧或缺氧胁迫的角度展开，随着技术进步和生产力的提高，越来越多的学者在水稻栽培中实施了主动的根际增氧措施，取得了一定的研究成果。根际增氧显著影响了水培水稻根系形态和结构，使水培水稻根系形态呈现细而长的特征，增氧条件下水稻根系形态、结构及其功能需求间存在内在的一致性；根际增氧对不同生育期水稻的根系活力均有明显的促进作用，其增幅从 $10 \%$ 到$1 5 0 \%$ 不等，并存在巨大的品种间差异；从水稻根系形态、生理活性以及根部氮素形态转化等多个方面看来，增氧处理有利于水稻根系吸收氮素，但其对水稻氮素积累量的影响则与增氧处理方式和程度有关，过度增氧抑制了水稻植株对氮的利用，从而限制了其生物量的增加，反过来抑制了对氮的吸收和积累。水稻对根际增氧的响应规律并非其对低氧和缺氧胁迫响应规律的简单倒转，饱和氧处理下水稻生物量和产量的剧烈降低表明了水稻对富氧响应的复杂性。探索根际增氧对三叶期前水稻幼苗的影响，完善根际增氧对水稻氮代谢的影响研究，并量化水稻田间需氧量，探索简单易行的苗期增氧措施，可能对于进一步完善水稻育秧技术理论，改进水稻育秧技术具有重要的意义。
+
+关键词：水稻；增氧；根系形态；根系活力；氮代谢中图分类号：S31 文献标识码：A
+
+# Advances in the effects of rhizosphere oxygen-increasing on rice root morphology and physiology
+
+ZHOU Wanlai1,2.3, YI Yongjian1, TU Naimei2, TAN Zhijian1, WANG Hongying1, YANG Yuanru1, WANG Chaoyun1\*\*,YI Zhenxie2,3\*\*
+
+1InstituteofastFiberCopsCinseAcademyofAgriculturalSiences,Changsha,405;CollegeofAgrooyHunanAiclua
+
+University,Changsha,4o28;3SouthRegioalColaborativeIovationCenterforGainandOilCropsinhina,Changsha4018)
+
+Abstract:Rhizosphereoxygen isanimportantenvironmental factorthat influencespaddyfiledenvironmentand physiological metabolism ofriceroot.Existingreviews aboutrhizosphere oxygenare usuallfromthe perspectiveof hypoxia oranoxiastress.In recent years,moreand moreresearchers implementedactiveoxygen-increasingintheiricecutivationandotainedalargenumber of results.Rhizosphereoxygen-increasingsignificantlyafects themorphologyandstructureofhydroponicriceroot,makingrice roots slenderand elongated,it maybedueto thereduced demand for preventing the leakageofoxygenand invasionofreducing substances,which means there is no need to form a barrier against radial $\mathrm { O } _ { 2 }$ loss,so the thickness of outer layer cell wall of root is smaller thanthatunder hypoxicoranoxicstressconditions.It'ssuggestedthatthereisan interalconsistencyamong theroot morphology，structureandfunctionalrequirementsofriceunderaerobiccondition.Rhizosphereoxygen-increasing significantly promoted root vigor with an increment from $10 \%$ to $1 5 0 \%$ and with great differences among varieties. From the aspects of root morphology,physiologicalactivityandtransformationofnitrogenforminroot-zone,e.g.,theincreasedfineroot,theraisedroot vigor,theehanceditrificationunderarobictreatment,zospereoxyge-inceasingisbeneficialtoceots touptakeniogen however its efects on nitrogen acumulation inrice iscomplexandrelated withthe methodand degree of oxygen-increasing treatment,excesieoxygencreasingiibitsteseofrogeniceplants,uslitingteiceaseinomassintu inhibits theabsorptionandaccumuationofnitrogen.Responseofricetooxygen-icreasingisnotasimplereverseofthattohpoxia oranoxiastress,thedramaticyielddecreaseofriceunderoxygen-saturationtreatmentdemonstratedthecomplexityofriceresponse tooxyge-enrchmentenvironment.It'sproposedthatexploringtheeffectsofzospereoxygen-increasingonpre-third-leaf stage ricesedling,complementingtheresearchontheefectsofrhizosphereoxygen-increasingonricenitrogen metabolism,aswells quantifying the demandforoxygenoffieldriceand seeking feasibleoxygen-increasing measures in seedling stage may beof great significance for further improving rice seedling raising technology and theory.
+
+Keywords: Rice; Oxygen-increasing; Root morphology; Root activity; Nitrogen metabolism供氧充足是维持稻田根际环境健康、保障水稻正常生理代谢的重要条件，根际缺氧会导致一系列的物理化学变化并严重影响水稻正常的生长发育[-5]。水稻属沼泽性植物，具有发达的通气组织，能将氧运输到根部，满足根系对氧的需求并改善根际环境，使其能够适应渍水环境。尽管如此，缺氧仍是影响水稻生长发育的关键因子[6-8]。水稻根系是直接与土壤氧发生作用的器官，因此，明确水稻根系形态及其生理对根际增氧的响应特性，探明根际增氧调控水稻根系的机理，探索有效的根际增氧措施，对于完善水稻栽培理论、提高水稻种植技术具有重要的意义。
+
+# 1 水稻根系对氧的需求
+
+氧参与了水稻根系细胞的氧化磷酸化，这一过程是水稻根系生长发育的主要能量来源。20 世纪 80 年代，日本学者森田茂纪率先对水稻氧需求量进行定量研究，并确定了水培条件下水稻不同生育期需氧量：分蘖期为 $0 . 2 7 { \sim } 0 . 7 9 \ \mathrm { \ m g { \cdot } g ^ { - 1 } { \cdot } h ^ { - 1 } }$ ，拔节期为 $0 . 9 5 { \sim } 0 . 8 8 \ \mathrm { m g { \cdot } g ^ { - 1 } { \cdot } h ^ { - 1 } }$ ，孕穗期为 $0 . 9 8 { \sim } 1 . 0 7 ~ \mathrm { m g \cdot g ^ { - 1 } { \cdot } h ^ { - 1 } }$ ，抽穗期为$0 . 9 3 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot h ^ { - 1 } }$ ，齐穗期为 $0 . 8 5 ~ \mathrm { m g \cdot g ^ { - 1 } \cdot h ^ { - 1 } }$ ，成熟期为 $0 . 6 8 ~ \mathrm { { m g \cdot g ^ { - 1 } \cdot h ^ { - 1 [ 9 ] } } }$ 。缺氧或无氧条件下水稻根系呼吸以无氧呼吸为主，产生的能量仅为氧气供应充足时能量的 $3 \% { \sim } 5 \% ^ { [ 1 0 - 1 2 ] }$ ，同时无氧呼吸会产生不利于水稻根系生长及代谢的中间产物，不仅对水稻根系产生严重影响，也在很大程度上限制地上部的生长发育。
+
+氧维持了正常的水稻根际环境，阻止了还原性物质对根系的侵害。土壤缺氧会导致土壤氧化还原电位降低，一些对植物根系具有毒害作用的水溶性还原物质，如 ${ \mathsf { N O } } _ { 2 } ^ { - }$ ， $ { \mathbf { M } }  { \mathrm { n } } ^ { 2 + }$ ， $\mathrm { F e } ^ { 2 + }$ ， $\mathrm { H } _ { 2 } \mathrm { S }$ 在水稻根际积累[1,13-16],而根系周围的氧，不管是原本存在于土壤中的氧，还是来自于水稻根系泌氧，均可以氧化这些还原性物质，避免其对根系的毒害作用。
+
+水稻根系中的氧，一部分是来自于地上部的，包括叶片和叶鞘从空气中吸收的氧气和光合作用产生的氧气，另一部分是根系从土壤中吸收的氧气。水稻地上部吸收的氧气有相当一部分通过叶鞘和茎秆的通气组织输送到根系，位于生育中期的水稻茎根交界处断面上的输氧量约为 $0 . 8 \ \mathrm { \ m g \cdot c m ^ { - 2 } } . \mathrm { h ^ { - 1 / 2 ] } }$ 。据白克智等[17]测定，水稻幼苗中氧气下运量占地上部总吸氧量的 $5 0 \%$ 左右，其范围为 $30 \% { \sim } 7 0 \%$ 。日本学者佐佐木乔研究也指出，水稻"席根"吸收的氧有 $4 0 \% { \sim } 4 8 \%$ 下运到浸在水中的根系[18]。尽管如此，仅由地上部经由通气组织提供的氧气是不足以满足水稻根系生长所需的，殷蔚薏等[9]的研究表明，湿培条件下水稻幼苗植株内的氧下运量仅能满足根呼吸需氧量的 $30 \% { \sim } 6 0 \%$ ，在水稻对氧和水需求量最大的孕穗至抽穗期阶段，水稻根系的缺氧情况尤为严重[20]。根系从土壤中摄氧以跨组织短距离的细胞间扩散方式进行，这种气体扩散是以根表皮细胞与氧直接接触为前提的，适宜的土壤氧浓度是水稻根系完成正常生理过程的必要条件。研究表明，当根表氧浓度低于 $0 . 0 0 1 \mathrm { m o l } \cdot \mathrm { m } ^ { - 3 }$ 时，根停止伸长[21]。稻田土壤中氧浓度相对空气含氧量至少保持在 $3 \% { \sim } 5 \%$ 时才能保证根系对氧的正常吸收[2.22]。然而稻田是复杂的固液气三相共存的综合体，气体氧和溶解氧可能同时存在于土壤中，现有的氧浓度测量指标均无法直接用来反映土壤氧浓度，一般通过土壤氧化还原电位(Eh)来反映土壤含氧状态。土壤Eh 的一般范围为- $- 4 5 0 { \sim } 7 2 0 \ \mathrm { \ m V } ^ { [ 2 3 ] }$ ，丁昌璞[以原位测定资料作基础，首次系统地总结了我国主要水稻土的Eh为 $- 7 0 { \sim } 6 7 0 \ \mathrm { m V } ,$ 而徐祥玉等[24]对冷浸田土壤氧化还原状况的研究表明,冷浸田土壤Eh 介于 $- 4 8 . 5 \mathrm { \sim } - 1 9 8 . 0 \mathrm { m V }$ 之间，据DeLaune 等[25]等测定，土壤 Eh 低于 $+ 3 5 0 \mathrm { m V }$ 也就意味着土壤中氧气耗尽，说明冷浸田土壤均处于严重缺氧状态。稻田土壤Eh 在 $3 0 0 { \sim } 4 0 0 ~ \mathrm { m V } ,$ 即处在氧化状态，有利于水稻根系的健康生长发育[2]。
+
+# 2 根际增氧对水稻根系形态和结构的影响
+
+水稻根系数量、根长、根粗、根表面积、根体积以及根重量均受到根际氧含量的影响。根际增氧可显著提高稻田氧化还原电位和硝态氮含量，而这两个因素会影响水稻最长根长，并诱导侧根的形成[26]。在数个气泵增氧水培试验中，不同学者就根际增氧对水稻根系形态的影响得到了相近的研究结果，如王丹英等[27]的研究中，增氧处理显著增加了7个品种水稻的根长和最大根长，而显著降低了其根数、根粗和单位长度根重，每株根干重有所增加；邓丹等[28]的试验中，增氧处理显著增加了最大根长，而显著降低了其根直径、不定根数量，根系总长度和根干重也显著降低；赵锋等[29]的试验中，无论是采用铵硝营养液还是采用全铵营养液培养，增氧处理( $8 . 5 { \sim } 9 . 0 \ \mathrm { m g { \cdot } L ^ { - 1 } } ,$ 水稻的根数、最大根长、根体积、根干质量显著大于对照 $( 0 . 5 \sim 2 . 0 \$ $\mathrm { m g \cdot L ^ { - 1 } } ,$ ，而根直径则小于对照(氨硝营养液)或无明显差别(全氨营养液)；相吻合的研究结果也可在Colmer[30]、Kotula 等[311、赵锋等[32]、徐春梅等[3-34]、赵霞等[35]的研究中发现，概括说来，增氧处理可增加水培水稻根系长度，并降低根粗，根系形态呈现细而长的特征，这与很多植物，如锯齿草和香蒲[36]、槐叶萍[26]为应对缺氧或低氧胁迫而缩短根系长度的反应相吻合。在一些学者的土壤栽培实验研究中，土壤控水(增氧）处理增加了根系数量[37-38]，而在另外一些学者的水培实验研究中，通气水培增氧处理却减少了根系数量[28,32-33.9]，这可能与增氧处理方式及增氧程度有关，根际氧浓度过高不利于增加根系数量[35]。总根长、根面积、根体积和根系重量理论上是单株根长、根粗以及根系数量数学运算的结果，根际增氧处理对这些指标的影响是其对根长、根粗以及根系数量影响在数学上的综合效应，并受增氧处理程度控制。根际增氧条件下水稻根系形态的变化与干旱胁迫下的具有一定的相似性。郝树荣等[40]以水分胁迫处理分蘖期水稻，发现胁迫处理使得水稻根直径变小，根系细而长，相吻合的形态变化也可见于其它学者关于水稻干旱胁迫的研究中[41-45]。
+
+从解剖结构上看，水稻的根由中柱、皮层、表皮3部分组成，从功能需求上看，水稻通过通气组织，将茎叶中通过光合作用及气体交换作用获得的氧气运输到根部，保持根部适宜的氧浓度，保持呼吸作用和代谢速率，同时通过根系径向氧气损失向根区释放氧气，形成一个小的"氧化圈”，以阻止根际还原物质危害。孔隙度用于反映通气组织的发育状况，水稻根系孔隙度越大，表明通气组织越发达，根系转运氧的功能越强。低氧或缺氧胁迫可诱导根系孔隙度增大，以此增加转运氧的能力[30.39]，同时根基区根表和皮层之间会诱导形成致密的泌氧屏障，以减少根系径向泌氧量，增加氧气向根尖的扩散，优先保障根尖区域正常的根际环境[25.30.39.46-511，同时这层高度木质化结构还有阻止土壤在淹水条件下产生的还原性物质侵害根内细胞的作用，大量研究亦表明：通气组织和泌氧屏障是水生植物根系耐受淹水胁迫的关键[47.5-56]；而根际增氧条件下，水稻根系的孔隙度显著降低[30,39,57-58]，同时也不会形成泌氧屏障或者诱导作用很弱[30.39.55]，这是水稻在解剖学结构上对根际增氧适应性调控的结果。一般认为泌氧屏障是由外皮层和/或厚壁组织发生栓质化和木质化形成的[51,56.58]，封克等[59]比较不同水分条件下水稻根系的解剖结构，发现淹水条件下外皮层厚壁细胞排列紧密，细胞壁加厚程度大，而旱作条件下，这层厚壁细胞的屏障作用弱化，细胞壁加厚程度小。增氧处理在某种程度上可类比于旱作处理，其根系均处于富氧条件下，弱化了对减少氧气外渗和阻止还原性物质内侵的需求，无须形成泌氧屏障，故而外皮层细胞壁加厚程度相对低氧或缺氧胁迫条件(淹水条件）下变小，在根系形态上表现为根径变小，根系细，这也解释了为什么水稻根系形态在根际增氧状态下的变化与干旱胁迫下的具有一定的相似性。综上所述，增氧条件下水稻根系形态、结构及其功能需求间存在内在的一致性。
+
+# 3 根际增氧对水稻根系活力的影响
+
+水稻根系活力的高低反映了根系代谢活动的强弱，是检测根系各项生理功能的重要指标之一，在绝大多数水稻根际氧研究中，根系活力都是重要的考察指标。目前根系研究中反映根系活力的指标主要包括水稻根系氧化 $\mathfrak { a }$ -萘胺的能力、水稻根系还原氯化三苯基四氮唑(TTC)的能力以及根系伤流强度这三项指标。 $\mathfrak { a } \mathrm { - }$ （204号萘胺氧化强度或四氮唑还原强度表示的是单位根重的根系活力，测定值的准确性与取样部位的代表性有关，相对而言，用水稻根系的伤流液强度来衡量水稻根系活力可以获得较高的重复性，试验结果比较可靠，并且对收集的根系伤流液的进一步分析可以得到更加深入的研究结果。
+
+通过控制灌溉制度、增氧灌溉、氧肥、通气水培等不同方式实施的增氧研究表明，根际增氧可显著提高水稻的根系活力，其增幅从 $10 \%$ 到 $1 5 0 \%$ 不等(表1)。根际增氧对水稻根系活力的影响存在巨大的品种间差异，王丹英等[27]认为这与不同品种水稻本身的根系活力有关系，如本身根系活力较高的常规粘稻湘早灿11和甬粳18在增氧处理中的根系活力明显提高，而本身根系活力相对较低的水稻品种湘早灿24和春江06的根系活力并无明显变化。根际增氧对不同生育期水稻的根系活力均有明显的促进作用，特别地，根际增氧提高了水稻生育后期的根系活力，提高了SOD活性，降低了MDA含量，延长了叶片的功能期，这对提高水稻产量尤为重要[60-62]。
+
+# 表1不同研究中根际增氧对根系活力的影响
+
+Table1Effects of rhizosphere oxygen-increasing on root activity in different research
+
+<html><body><table><tr><td>增氧方式</td><td>品种</td><td>生育期</td><td>考察指标</td><td>增幅</td><td>文献来源</td></tr><tr><td>Method of oxygen-increasing</td><td>Variety</td><td>Growth stage</td><td>Investigation index</td><td>Percentage of increase</td><td>Literature source</td></tr><tr><td>干湿交替</td><td>国稻1号</td><td>分蘖期</td><td>α-萘胺氧化强度</td><td>13.0%</td><td>赵锋等[57]</td></tr><tr><td>干湿交替</td><td>秀水09</td><td>分蘖期</td><td>α-萘胺氧化强度</td><td>12.6%</td><td>赵锋等[57]</td></tr><tr><td>连续通气氧饱和水培</td><td>国稻1号</td><td>分蘖期</td><td>α-萘胺氧化强度</td><td>11.8%</td><td>赵锋等[32]</td></tr><tr><td>连续通气氧饱和水培</td><td>秀水09</td><td>分蘖期</td><td>α-萘胺氧化强度</td><td>127.9%</td><td>赵锋等[32]</td></tr><tr><td>连续通气氧饱和水培</td><td>巴西陆稻</td><td>分蘖期</td><td>α-萘胺氧化强度</td><td>152.5%</td><td>赵锋等[32]</td></tr><tr><td>超微气泡水增氧灌溉</td><td>深优9586</td><td>分期</td><td>四氮唑还原强度</td><td>114.9%</td><td>肖卫华等[63]</td></tr><tr><td>连续通气氧饱和水培</td><td>国稻6号</td><td>分期</td><td>α-萘胺氧化强度</td><td>28.7%</td><td>徐春梅等[33]</td></tr><tr><td>连续通气氧饱和水培</td><td>秀水09</td><td>分期</td><td>α-萘胺氧化强度</td><td>4.1%</td><td>徐春梅等[33]</td></tr><tr><td>土壤根际通气</td><td>深优9586</td><td>分始期</td><td>四氮唑还原强度</td><td>23.6%</td><td>黄晓波等[64]</td></tr><tr><td>土壤根际通气</td><td>深优9586</td><td>分蘖盛期</td><td>四氮唑还原强度</td><td>25.4%</td><td>黄晓波等[64]</td></tr><tr><td>土壤根际通气</td><td>深优9586</td><td>分终期</td><td>四氮唑还原强度</td><td>20.9%</td><td>黄晓波等[64]</td></tr><tr><td>超微气泡水增氧灌溉</td><td>秀水09</td><td>齐穗期</td><td>伤流强度</td><td>33.4%</td><td>朱练峰等[61]</td></tr><tr><td>超微气泡水增氧灌溉</td><td>两优培九</td><td>齐穗期</td><td>伤流强度</td><td>22.9%</td><td>朱练峰等[61]</td></tr><tr><td>连续通气氧饱和水培</td><td>汕优63</td><td>齐穗期</td><td>四氮唑还原强度</td><td>119.5%</td><td>王丹英等[27]</td></tr><tr><td>连续通气氧饱和水培</td><td>国稻1号</td><td>齐穗期</td><td>四氮唑还原强度</td><td>72.7%</td><td>王丹英等[27]</td></tr><tr><td>连续通气氧饱和水培</td><td>湘早釉11</td><td>齐穗期</td><td>α-萘胺氧化强度</td><td>11.3%</td><td>王丹英等[27]</td></tr><tr><td>连续通气氧饱和水培</td><td>甬粳18</td><td>齐穗期</td><td>α-萘胺氧化强度</td><td>37.1%</td><td>王丹英等[27]</td></tr><tr><td>超微气泡水增氧灌溉</td><td>深优9586</td><td>齐穗期</td><td>四氮唑还原强度</td><td>135.3%</td><td>肖卫华等[63]</td></tr><tr><td>好气灌溉</td><td>中优6号</td><td>开花期</td><td>伤流强度</td><td>32.3%</td><td>林贤青等[65]</td></tr><tr><td>好气灌溉</td><td>两优培九</td><td>开花期</td><td>伤流强度</td><td>30.0%</td><td>林贤青等[65]</td></tr><tr><td>好气灌溉</td><td>中优6号</td><td>孕穗期</td><td>伤流强度</td><td>27.7%</td><td>林贤青等[65]</td></tr><tr><td>好气灌溉</td><td>两优培九</td><td>孕穗期</td><td>伤流强度</td><td>17.2%</td><td>林贤青等[65]</td></tr><tr><td>过氧化尿素</td><td>国稻1号</td><td>灌浆期</td><td>α-萘胺氧化强度</td><td>19.2%</td><td>赵锋等[57]</td></tr><tr><td>过氧化钙</td><td>国稻1号</td><td>灌浆期</td><td>α-萘胺氧化强度</td><td>32.6%</td><td>赵锋等[57]</td></tr><tr><td>干湿交替</td><td>国稻1号</td><td>灌浆期</td><td>α-萘胺氧化强度</td><td>31.0%</td><td>赵锋等[57]</td></tr></table></body></html>
+
+# 4根际增氧对水稻氮素吸收和利用的影响
+
+# a) 根际增氧对水稻氮素吸收的影响
+
+从水稻根系形态、生理活性以及根部氮素形态转化等多个方面看来，增氧处理有利于水稻根系吸收氮素。
+
+从形态方面讲，首先，如前面所述，增氧条件下，水稻根系形态呈现细而长的特征，意味着细根比例增加，而根系对土壤中水分、养分的吸收，主要通过根毛或细根来进行，细根被称为植物的活性根，是植物从土壤中吸收水分和养分的主要组织[6]。因此，增氧处理下水稻细根增加，有利于水稻对氮素的吸收。其次，根际增氧可增加水稻根系总吸收面积特别是活跃吸收面积进而有利于水稻对氮素的吸收。王丹英等[27的研究表明增氧对水稻的根系体积和总吸收面积没有影响，但能显著增加活跃吸收面积，而赵霞等[35]研究则表明适度增氧可同时增加活跃吸收面积和总吸收面积，与王秋菊等[37控水灌溉研究结果相吻合。再次，如前所述，增氧条件下，水稻在解剖学结构上会作出适应性调整，由于水稻根系弱化了对减少氧气外渗和阻止还原性物质内侵的需求，故而根系外皮层细肥壁加厚程度相对缺氧条件下变小[27]，外皮层厚壁组织细胞疏松、根系表面通透性增加，细胞结构上的这些变化也有利于氮素吸收。
+
+从生理活性方面讲，根系主动运输是水稻获取氮素的主要方式，直接受根系活力、呼吸强度等影响，而根系活力和呼吸强度直接受根部氧环境的影响。如前面所述，根际增氧显著提高了水稻的根系活力，从而增强了根系主动吸收氮素的能力。增氧后水稻根系可溶性糖含量较对照明显增加，有利于促进根部呼吸代谢[33]。徐春梅等[的研究还表明，低氧处理降低根系活力和呼吸强度，从而降低其对营养元素的吸收最终导致根系氮素吸收和积累量减少，根系氮含量、可溶性蛋白含量和氮积累量均显著降低，从反面证明了氧对水稻氮素吸收的重要性。
+
+根际增氧除了通过影响根系自身，还可通过影响根际环境从而促进水稻对氮素的吸收。何德胜等[67]发现，通过外源增氧，能够显著提高根际的氧化还原电位，改变原有养分的形态，从而更有利于水稻对氮素的吸收。增氧条件下，根际硝化作用加强, $\mathsf { N O } _ { 3 }$ -含量增加，形成铵硝混合营养环境，这样的环境有利于水稻吸收氮元素[68-70]。此外，稻田淹水环境对磷的吸附性强，磷有效性低，水稻生产常常出现缺磷现象，而干湿交替或通过根系泌氧增加根际溶氧量的方式都能使磷的有效性增加[71-72]，有利于养分平衡，养分平衡吸收对氮的吸收、干物质积累有着促进作用。
+
+# b) 根际增氧对水稻氮素积累的影响
+
+尽管增氧处理有利于提高水稻根系对氮素的吸收，但其对水稻氮素积累量的影响较为复杂。一方面，适度的根际增氧可以提高氮代谢关键酶活性，提高氮光合利用效率[35]，增加水稻对氮素的吸收和积累。如赵锋等[29]气泵增氧水培试验中，无论是采用铵硝营养液还是采用全铵营养液培养，增氧处理的根系氮积累量均显著高于对照，赵霞等[35的研究中两个品种水稻增氧处理的根、茎、叶氮积累量均显著高于CK，尤其是中氧处理(氧含量 $2 . 3 { \sim } 5 . 5 \ \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 } \rangle$ ，胡志华等[73]研究表明三种不同增氧模式 $( \mathbf { C a O } _ { 2 }$ 、微纳气泡水增氧灌溉和干湿交替灌溉）下水稻各时期对氮素的吸收与累积均较淹水对照有显著提高。另一方面，过度的根际增氧则显著降低了氮素积累[32.4,74]。进一步的分析可知，不同根际增氧处理下水稻植株氮含量的差异不显著，然而植株生物量则存在显著差异，过度增氧(饱和氧处理）显著抑制了水稻植株生长发育，不同品种不同生育期水稻植株生物量降幅达到了 $1 2 . 5 \% \sim 7 1 . 5 \% ^ { [ 3 2 , 3 4 , 7 4 ] }$ ，并伴随着植株氮积累量的显著降低。过度增氧促进地上部硝酸还原酶活性增加、抑制谷氨酰胺合成酶活性，这可能导致大量的氮素仅以硝态、亚硝态或铵态氮存在，不能及时转化成氨基酸，从而抑制氮代谢的顺利完成[32]，而当植物体内的氮同化受到抑制时会造成植物体内碳水化合物的积累，光合活性也显著降低，这可能最终影响水稻干物质积累及产量的形成[75]。
+
+综上，增氧处理有利于水稻根系对氮的吸收，但增氧条件下水稻根系对氮的吸收和积累的影响则与增氧方式和程度有关，过度增氧抑制了水稻植株对氮的利用，从而限制了其生物量的增加，反过来抑制了对氮的吸收和积累。
+
+# 5 水稻根际增氧研究展望
+
+# a) 开展根际增氧对水稻幼苗的影响研究
+
+根际氧对于水稻幼苗的影响可能尤为突出。在水稻育秧中，特别是育秧初期，育秧土处于浸湿状态，氧只能以溶解氧的形式进入育秧土中，由于氧在水中的扩散速率极低，仅为在空气中的万分之一[1,47,76-77]，使得外界氧进入育秧土的过程极为缓慢，在土壤微生物的竞争消耗下，育秧土中很快就会处于低氧或缺氧状态。作为根系常规发育的一部分，水稻幼苗根系形成之初即开始形成通气组织[78]，然而完善的通气组织则要等到三叶期才能形成[79]，在此之前秧苗植株内尚无畅通的氧气下行通道，根区环境氧是根系呼吸代谢氧的重要来源，水稻幼苗根系容易处于低氧或缺氧胁迫之中，殷蔚薏等[9]的研究结果表明湿培条件下三叶期水稻幼苗植株内的氧下运量仅能满足根呼吸需氧量的 $30 \% { \sim } 6 0 \%$ ，也证实了上述观点。
+
+目前对根际氧研究集中于对分蘖期及之后生育期水稻的研究，关于根际增氧对水稻幼苗影响的研究较少，鲜见有真正以三叶期前水稻幼苗为研究对象的研究报道，鉴于此，探索根际增氧对三叶期前水稻幼苗的影响，探索简单易行的苗期增氧措施，可能对于进一步完善水稻育秧技术理论，改进水稻育秧技术具有重要的意义。
+
+# b) 完善根际增氧对水稻氮代谢的影响研究
+
+在过去的将近一个世纪中，大量的关于氧与植物生长发育关系的研究都是从缺氧胁迫的角度出发，广泛研究了缺氧胁迫的的植物生理，取得了大量研究成果[4,14,80-81]。近年来，关于水稻对根际增氧响应的研究报道逐渐增多，如通过开丰产沟，搁田以及调整灌溉方式来协调水稻根系水、气的供需矛盾，如通过超微气泡水、增施氧化钙等措施来主动增加根际氧气供应，反映了人类在水稻高产栽培技术探索中从被动应对到主动改造的转变，相应地，关于根际增氧对水稻生长发育影响的认知也逐渐深化。尽管如此，目前关于根际增氧对水稻氮代谢影响的研究依然较为薄弱，根际增氧对水稻氮素吸收、代谢影响的认识依然较为模糊。譬如，赵锋等[32的研究表明，饱和氧水培处理显著提高了3个品种水稻的叶片硝酸还原酶活性（NRA），而降低了叶片谷氨酰胺合成酶活性(GSA)，徐春梅等[33]的类似研究中，饱和氧水培处理显著提高了2个品种水稻的根系GSA，而赵霞等[35]的研究中，增氧水培处理显著降低了2个品种水稻的叶片NRA，提高了叶片GSA，与此同时显著提高了根系NRA，降低了根系GSA，造成这些差异的原因可能在于增氧处理方式和程度的不同，也可能在于水稻品种的不同。此外，根际增氧对水稻氮素代谢中另外一个关键酶亚硝酸还原酶(NiR)影响的研究罕见报道。前人已对低氧或缺氧胁迫下的水稻氮代谢做了丰富而详尽的研究，譬如，大量研究表明，低氧或缺氧诱导根系 NRA 提高[3.82-83]，而抑制了NiRA，导致根系亚硝酸盐浓度提高[83-85]，这是因为低氧或缺氧条件下植物有氧呼吸受到抑制，根系将硝酸盐还原为亚硝酸盐替代氧分子作为电子接受者氧化细胞质中 NADH和 NADPH并生成 ATP[11,6]，由此可知，低氧或缺氧条件下水稻氮代谢的变化是对低氧或缺氧逆境的适应，是代谢途径上质的变化而非代谢速率上量的变化，相应地，富氧对水稻氮代谢的影响也绝非低氧或缺氧胁迫影响的简单倒转，而是需要综合增氧方式、增氧程度等多方面因素综合研究和分析，水稻增氧研究的关键是水稻的适宜需氧量及其品种间差异，以及氧与根际环境的互作。
+
+# C 量化水稻田间需氧量
+
+前人关于水稻增氧栽培的认识首先是来自于对水稻灌溉的研究，间歇灌溉、湿润灌溉、薄露灌溉和厢沟灌溉等方式，均通过控制灌水量或者灌水方式来调节土壤中水分与空气的比例，增加土壤通气，改善土壤环境，进而促进水稻生长发育，获得高产。近年来，也有部分学者在研究中施用化学氧肥来增加根际氧供应[57.86]。然而通过灌溉调控或者施用氧肥只能粗略控制稻田的通气状况，同时由于水分和肥料本身也会影响水稻的生长发育，在这些研究中难以清晰界定根际氧气对水稻生长发育的影响，其关于氧对水稻生长发育影响只能停留在粗略的定性认知水平上。近年来，越来越多的研究通过可控增氧措施，如微纳气泡水增氧灌溉、通气水培试验来研究根际增氧对水稻生长发育的影响，水稻根际氧研究从定性研究阶段进入了定量研究阶段。水稻根际氧浓度并非越高越好，而是存在一个阈值。胡志华等[74]在网室水培条件下，研究了不同根际氧浓度 $( 1 . 0 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $3 . 0 \ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 、 $5 . 5 \mathrm { m g } { \cdot } \mathrm { L } ^ { - 1 }$ 、 $7 . 5 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } .$ )对水稻产量及其氮素吸收利用的影响，结果表明3个水稻材料均在 $3 . 0 \ \mathrm { m g \cdot L ^ { - 1 } }$ 处理中具有最高的氮素利用效率和稻谷产量，此结论与赵霞等[35]的研究结果基本吻合，值得注意的是，高氧处理下 $( 7 . 5 \ \mathrm { \ m g } \cdot \mathrm { L } ^ { - 1 } ) ,$ ，3个品种水稻的产量均远远低于中氧处理(3.0$\mathrm { m g { \cdot } L ^ { - 1 } } , 5 . 5 \mathrm { m g { \cdot } L ^ { - 1 } } )$ 和低氧处理 $( 1 . 0 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } )$ ，最高降幅达到了 $8 8 \%$ ，暗示氧饱和胁迫可能比缺氧胁迫危害更大，相吻合的结果也可在赵锋等[32]、徐春梅等[34]的研究中发现。然而由于生产中稻田环境与试验中水培环境的巨大差异，上述研究结论在实际生产中的适用性仍有待进一步论证，特别是，由于稻田是复杂的固液气三相共存的综合体，气体氧和溶解氧可能同时存在于土壤中，现有的氧浓度测量指标均无法直接用来反映土壤氧浓度，上述研究结果也无法直接应用于田间水稻栽培中，因此，探索适用于田间土壤氧浓度指标及测定方法将是量化水稻田间需氧量的第一步，此外，在水稻大田生产中如何精确控制根际氧浓度仍需进一步的研究。
+
+# 参考文献References
+
+[1] Ponnamperuma FN.The chemistry of submerged soils[J]. Advances in Agronomy,1972,24: 29-96   
+[2] 唐建军，王永锐，傅家瑞．水稻对渍水稻田土壤缺氧胁迫的反应[J]．中国稻米,1995,(1):29-31 Tang JJ,Wang YR,FuJR.Theresponse ofpaddyrice to soil waterlogging hypoxia stressJ]. China Rice,1995,(1):29-31   
+[3]DrewM C.Oxygen deficiencyandroot metabolism: injuryand aclimation under hypoxiaand anoxia[J].Annual Reviewof Plant Physiology & Plant Molecular Biology,1997,48:223-250   
+[4]PezeshkiSR.Wetlandplantresponses tosoilflooding[J].EnvironmentalandExperimentalBotany,Ool,46(3):9912   
+[J]brav MNavsscr,oc,ea.Uxygenputcoos uesauaa eporaacsolarseatnesuae o floodedpaddysoilandintherhzosphereoflowlandrice(OryzasativaL.):Amicrocosmstudy[J].PlantandSoil,08,12 (1): 207-218   
+[6]丁昌璞．中国自然土壤、旱作土壤、水稻土的氧化还原状况和特点[J].土壤学报,2008,45(1):66-75 Ding CP.Oxidation-reductionregimesand characteristicsof natural soil,upland soil and paddy soil in China[J].ACTA Pedologica Sinica, 2008, 45(1): 66-75   
+[7]Hodg A,BertaG,DoussanC,etal.Plantrotgrowth,rchitectureandfunctionJ].Plantandsoil,,21(1):-87   
+[8] 梅少华，梅金先，陈兴国，等．洪涝灾害对水稻生产的影响评估及抗灾对策研究[J].作物杂志,2011,(2):89-93 Mei S H,MeiJX,Chen XG,etal.Floodimpact assessmentof riceproductionand disastercountermeasures[J]. Crops,2011, (2): 89-93   
+[9] 赵锋，王丹英，徐春梅，等．水稻氧营养的生理、生态机制及环境效应研究进展[J]．中国水稻科学,2009,23(4):335-341 ZhaoF,Wang DY,XuCM,etal.Progress inresearchonphysiologicaland ecologicalresponseofrice tooxygen nutritionand its environment effects[J]. China Journal of Rice Sciences,2009,23(4): 335-341   
+[10]AlmeidaAM,Vriezen WH,Straeten Dvander.Molecularandphysiologicalmechanismsoffloodingavoidanceandtolerance in rice[J]. Russian Journal of Plant Physiology,2003, 50(6): 743-751   
+[11] Stoimenova M,IgamberdievAU,GuptaKJ,etal.Nitrite-drivenanaerobicATPsynthesisinbarleyandriceroot mitochondria[J]. Planta, 2007,226(2): 465-474   
+[12] Tai Z L, Zeiger E. Plant physiology (4th edn)[M]. Sunderland,MA. USA: Sinauer Associates, 2016   
+[13] PonnamperumaFN.Eectsofflooding onsoils.In: KozlowskiTT,ed.Floodingand plant growthM].NewYork: Academic Press,1984,9-45   
+[14]LiesackW,SchnellS,RevsbechNP.Microbiologyoffloodedricepaddies[J]..Fems MicrobiologyReviews20,24(5): 625-45   
+[15] Kogel-Knabner I, Amelung W,Cao Z H,et al. Biogeochemistry of paddy soils[J]. Geoderma, 2010,157: 1-14   
+[16]FageriaNK,CarvalhoGD,Santos AB,etal.Chemistryoflowlandricesoilsand nutrientavailabilityJ].Communicatiosin Soil Science and Plant Analysis,2011,42(16): 1913-1933   
+[17]白克智，宋茂山，娄成后．水稻等植物的水培幼苗中茎叶向根系运输氧气数量的测定[J]．植物学报,1965,13(1):82-90 Bai K Z,Song MS,Lou CH. Quantitativeestimations ofdownward oxygen transportfom aerlal to subterraneanparts inintact seedlings of rice and other plants[J]. ACTA Botanica Sinica,1965,13(1): 82-90   
+[18]韩勃．增氧条件下水稻根系及地上部生长特性研究[D]．扬州：扬州大学,2007 Han B.Growth characteristics of rice root and upper land plant with increased oxygen supply[D]. YangZhou: Yang Zhou University, 2007   
+[19] 殷蔚薏，崔郁英,娄成后．水稻等幼苗在水培与湿培的条件下氧气的下运与体内空气间隙的关系[J]．植物学报，1966, 14(1): 26-33 Yin W Y,Cui YY,Lou CH. Relationship between downward oxygen transport and intercellar spaces inroot coptex in water cultured and moist cultured seedlings[J]. ACTA Botanica Sinica,1966,14(1): 26-33   
+[20]PezeshkiSR,DelauneRD.Responsesof spartinaalterifloraandspartinapatens tohzosphereoxygendeficiency[J].Acta Oecol,1996,17(5): 365-378   
+[21] Waters I,Armstrong W,Thompson CJetal.Diuralchanges inradial oxygen lossandethanol metabolismintsof submerged and non-submerged rice seedlings[J].New Phytologist,1989,113,439-451   
+[22] 裴鹏刚，张均华，朱练峰，等．根际氧浓度调控水稻根系形态和生理特性研究进展[J]．中国稻米,2013,19(2):6-8 PeiP G,Zhang JH,ZhuLF,etal.ResearchProgressonroot morphologyand physiological characteristicsofriceroots controlled by interrhizosphere oxygen concentration[J]. China Rice,2013,19(2): 6-8   
+[23] 黄昌勇．土壤学[M]．北京：中国农业出版社,2000:187 Huang C Y. Pedology[M]. BeiJing: Agricultural Press of China, 2000:187   
+[24]徐祥玉，张志毅，王娟，等．起垄和施肥对冷浸田土壤氧化还原状况的影响[J]．中国生态农业学报,2013,21(6):666-673 Xu XY,Zhang ZY,WangJ,etal.Effectofridgingandfertlizationonsoilredoxincoldwaterlogged paddyfields[J].Chnese Journal of Eco-Agriculture,2013,21(6): 666-673   
+[25] DeLauneRD,PezeshkiSR,PardueJH.Anoxidation-reductionbuferforevaluating physiologicalresponseofplantstooo oxygen stressJ]. Environmental & Experimental Botany,1990,30 (2) : 243-247   
+[26] Jampeetong A,Brix H.Oxygen stressin Salvinia natans: Interactive efectsofoxygenavalabilityandnitrogensource[J]. Environmental and Experimental Botany,2009,66(2): 153-159 Wang DY,Han B,Zhang XF,etal. Influenceof rhizosphere oxygenconcentrationonriceroot growth[J].ACTAAgronomica Sinica,2008,34(5): 803-808   
+[28] 邓丹，吴可为，邓泓．根区通氧状况对水稻幼苗生长及吸收镉的影响[J]．生态学报,2009,29(5):2520-2526 Deng D,Wu K W,Deng H. Efects of rot zone oxygenation on growth and Cd accumulation in paddy rice(OryzasativaL.)[J]. ACTA Ecologic Asinica,2009,29(5): 2520-2526   
+[29] 赵锋，徐春梅，张卫建，等．根际溶氧量与氮素形态对水稻根系特征及氮素积累的影响[J]．中国水稻科学，2011,25(2): 195-200 Zhao F,Xu CM,Zhang WJ,et al.Efectsof rhizosphere dissolvedoxygenandnitrogen formonroot characteristicsand nitrogen accumulation of rice[J]. China Journal of Rice Sciences,2011,25(2): 195-200   
+[30]ColmerTD.Aerenchyaandaniduciblearrertoadialoxygenlossfacilitaterootaeraioninupland,paddynddepwater rice(Oryza sativa L.)[J]. Annals of Botany,2003a,91(2): 301-309   
+[31] KotulaLanatngeK,SeberL,etal.Functioaldicalomparsonofapoplasticierstdialoxygosi rootsof rice (OryzasativaL.）grown inaeratedor deoxygenated solution[J].Journal ofExperimentalBotany，2009,60(7): 2155-2167   
+[32] 赵锋，张卫建，章秀福，等．连续增氧对不同基因型水稻分蘖期生长和氮代谢酶活性的影响[J]．作物学报，2012，38(2): 344-351 Zhao F,Zhang WJ,Zhang XF,etal.Efectofcontinuous aeration on growthand activityof enzymes relatedto nitrogen metabolism of different rice genotypes at tilering stage[J]. ACTA Agronomica Sinica,2012,38(2): 344-351   
+[33] 徐春梅，王丹英，陈松，等．增氧对水稻根系生长与氮代谢的影响[J]．中国水稻科学,2012,26(3):320-324 Xu CM,Wang DY,ChenS,etal.Effectof aerationonrotgrowthand nitrogenmetabolisminrice[J], ChinaJournalof Rice Sciences,2012,26(3): 320-324   
+[34] 徐春梅，谢涛，王丹英，等．根际氧浓度对水稻分蘖期养分吸收和根系形态的影响[J]．中国水稻科学，2015,29(6): 619-627 XuCM,XieT,WangDY,etal.Efectsofhzosphereoxygenconcentrationonnutrientuptakeandrootmorphologyofriceat tillering stage[J]. China Journal of Rice Sciences,2015,29(6): 619-627   
+[35] 赵霞，徐春梅，王丹英，等．根际溶氧量对分蘖期水稻生长特性及其氮素代谢的影响[J]．中国农业科学，2015,48(18): 3733-3742 Zhao X,XuC M,WangD Y,et al.Effectof rhizosphere oxygen on the growth characteristics of rice andits nitrogen metabolism at tillring stage[J]. Scientia Agricultura Sinica, 2015,48(18): 3733-3742   
+[36]LorenzenB,BrixH,MendelssonIA,etal.Growth,iomasalocationandutrientuseefciencyinCladumjamicesed Typha domingensis as affected by phosphorus and oxygen availability[J]. Aquatic Botany,2O01,70 (2):117-133   
+[37] 王秋菊，李明贤，赵宏亮，等．控水灌溉对水稻根系生长影响的试验研究[J]．中国农学通报,2008,24(8):206-208 Wang QJ,LingMX,ZhaoHL,etal.StudyoftheefectofcontrolirigationonthegrowthofricerootJ].Chinese Agriultural Science Bulletin,2008,24(8): 206-208   
+[38] 秦华东，肖巧珍，梁天锋，等．不同水分管理模式下免耕抛秧水稻立苗期根系生长特性[J]．广西植物，2011,31(5): 636-640 Qin HD,XiaoQZ,Liang TF,etal.Efectof diferent moisture management modeonroot growth characteristicsof cast transplanting rice in seedling standing period under no-tillge[J]. Guihaia,2011,31(5): 636-640   
+[39]ColmerTD,Gbbered MR,Wiengweera A,etal.Theariertoradial oxygenlossfromrootsof rice(Oryzasativa L.)is induced by growth in stagnant solution[J]. Journal of Experimental Botany,1998,49(325): 1431-1436   
+[40]郝树荣，郭相平，王为木，等．水稻分蘖期水分胁迫及复水对根系生长的影响[J].干旱地区农业研究，2007，25(1): 149-152 Hao S R,Guo X P,Wang W M,etal.Efects of water stressin tilering stage andre-watering onrice root growth[J]. Agricultural Research in the Arid Areas, 2007, 25(1): 149-152   
+[41]秦江涛，胡锋,李辉信，等．覆草旱作对水稻主要农艺性状的影响及节水效应[J]．中国水稻科学,2006,20 (2):171-176 Qin JT,HuF,LiHX,etal.Eectsofdrycultivation with strawmulchingonriceagronomictraitsand wateruseefficiency[J]. China Journal of Rice Sciences,2006,20 (2 ): 171 -176   
+[42] 马廷臣，余蓉蓉，陈荣军，等.PEG-6000 模拟干旱对水稻苗期根系形态和部分生理指标影响的研究[J]．中国农学通报， 2010, 26(8): 149-156 Ma TC,YuRR,ChenRJ,etal. Studyon effct of drought stress with PEG-60onroot morphologyand some physiological indices in rice seedling[J]. Chinese Agricultural Science Buletin, 2010,26(8): 149-156   
+[43] 马廷臣，余蓉蓉，陈荣军，等．PEG-6000 模拟干旱对水稻幼苗期根系的影响[J]．中国生态农业学报，2010,18(6): 1206-1211 MaTC,YuRR,ChenRJ,etal.Effectof droughtstressimulated with PEG-6onroot system inrice seedling[J].Chnese Journal of Eco-Agriculture,2010,18(6): 1206-1211   
+[44]汪妮娜，黄敏，陈德威，等．不同生育期水分胁迫对水稻根系生长及产量的影响[J]．热带作物学报，2013，34(9): 1650-1656 Wang NN,HuangM,ChenDW,etal.Efectsof waterstressonrotand yieldofriceatdifferent growth stages[J].Chinese Journal of Tropical Crops,2013,34(9): 1650-1656   
+[45]杨彩玲，刘立龙，Chung Nghiem Tien,et al．土壤水分对免耕水稻根系生长的影响[J].华中农业大学学报，2016,35(1): 8-16 Yang CL,LiuLL,Chung NT,et al.Efectsof soil moisture on root growth of no-tillge rice[J].Jourmalof HuaZhong Agricultural University,2016,35(1): 8-16   
+[46] Armstrong W. Oxygen diffusion from roots of some British bog plants[J]. Nature,1964,204: 801-802   
+[47] Armstrong W.Aeration in higher plants[J]. Advances in Botanical research,198o,7: 225-332   
+[48]Jackon MB,Armstrong W.Formationof aerenchymaandtheprocesesofplantventilationinrelationtsoilfloodingand submergence[J]. Plant Biology,1999,1(3): 274-287   
+[49] VisserEJW,ColmerTD,BloCW,etal.Changesingowth,prosityandradialoxygenlossfroadventitiouotsof selected mono-anddicotyledonous wetlandspecies withcontrastingtypesofaerenchyma[J].lant, CellandEnvironment,20, 23(11): 1237-1245   
+[50]Kirk GJD.Ricerotpropertiesforitealaerationandficientnutrientacquisitioninsubmergedsoil[J].NePhytologist, 2003,159(1): 185-194   
+[51] Shiono K, Ogawa S, Yamazaki S, et al. Contrasting dynamics of radial $\mathrm { O } _ { 2 }$ -loss barrier induction and aerenchyma formation in rice roots of two lengths[J]. Annals of Botany,2011,107(1): 89-99   
+[52]JacksonMB,DrewMC.Efectsofflooding ongrowthandmetabolismofherbaceousplants.In:KozlowskiTTed.Flooding and plant growth[M]. New York: Academic Press,1984, 47-128   
+[53]Justin SHFW,Armstrong W.Theanatomicalcharacteristicsofotsandplantresponse tosoilflooding[J].NewPhytologist, 1987,106(3): 465-495   
+[54] ColmerTD.Long-distance transportof gases inplants:aprspectiveoninteal arationandradial oxygenlossfromroots[J]. Plant Cell and Environment,2003b,26(1): 17-36   
+[5] ColmerTD,Cox MCH,VoesenekLACJ.Rot aeration inrice(Oryza sativa): evaluationofoxygen,carbondioxide,and ethylene as possible regulators of root acclimatizations[J]. New Phytologist,2006,17O(4): 767-778   
+[56]InsaludN,ellRW,CoerD,eal.orphologicalandpsiologicalresposesofice(ryasativ)tolitedposporus supply in aerated and stagnant solution culture[J]. Annals of Botany,2Oo6,98(5): 995-1004   
+[57]赵锋，王丹英，徐春梅，等．根际增氧模式的水稻形态、生理及产量响应特征[J]．作物学报,2010,36(2):303-312 Zhao F, WangDY,Xu CM,etal.Responseofmorphological, physiological and yieldcharacteristicsofrice(oryzasativaL.)to different oxygen-increasing patterns in rhizosphere[J]. ACTA Agronomica Sinica,2010,36(2): 303-312   
+[58]KotulaLaaungeK,hreibrLetal.unctioldicalompasoofpoplastics tdaloglosin roots ofrice(OryzasativaL.grown inaeratedordeoxygenatedsolution[J].JournalofExperimental Botany,2O09,0:2155 2167   
+[59]封克，司江英，汪晓丽，等．不同水分条件下水稻根解剖结构的比较分析[J]．植物营养与肥料学报,2006,12(3):346-351 Feng K,SiJY,Wang XL,et al.Comparativeanalysis onriceroot anatomical structureunder diferent soil moistureJ].Plant Nutrition and Fertilizer Science,2006,12(3): 346-351   
+[60]徐芬芬，曾晓春，石庆华，等．不同灌溉方式对水稻根系生长的影响[J].干旱地区农业研究,2007,25(1):102-104 XuFF,Zeng XC,Shi QH,etal.EectsofdifferentirigationpattersontegrowthofriceotJ]. AgriculturalReeachin the Arid Areas,2007,25(1): 102-104   
+[61] 朱练峰，刘学，禹盛苗，等．增氧灌溉对水稻生理特性和后期衰老的影响[J]．中国水稻科学,2010,24(3):257-263 Zhu L F, Liu X, $\mathrm { Y u } \ \mathrm { S } \ \mathrm { M }$ ,et al.Effects of aerated irrigation on physiological characteristics and senescence at late growth stage ofrice[J].ChinaJournal ofRice Sciences,2010,24(3):257-263   
+[62]NishiuchiS,YamauchiT,TakahashiH,etal.Mechanismsforcopingwithsubmergenceand waterloginginice[J].Rice,2012, 5(2): 1-14   
+[63] 肖卫华．张文萍．李子豪．等．不同增氧灌溉对水稻根系生长的影响研究.[J].湖南农业科学.2016.(2):19-21 Rice,2015,21(3): 12-15   
+[65] 林贤青，朱德峰，李春寿，等．水稻不同灌溉方式下的高产生理特性[J]．中国水稻科学,2005,19(4):328-332 Lin X Q,ZhuDF,LiCS,etal.Physologicalcharacteristicsof highyieldingriceunderdiferentrrigation methods[J].China Journal of Rice Sciences,2005,19(4): 328-332   
+[6] 徐春梅，陈丽萍，王丹英，等．低氧胁迫对水稻幼苗根系功能和氮代谢相关酶活性的影响[J]．中国农业科学,2016,49(8): 1625-1634 Xu CM,ChenLP,Wang DY,etal.Efectsoflowoxygenstressontherootfunctionand enzyme activities relatedtontrogen metabolism in roots of rice seedlings[J]. Scientia Agricultura Sinica,2016,49(8): 1625-1634   
+[67]何胜德，林贤青，朱德峰，等．杂交水稻根际供氧对土壤氧化还原电位和产量的影响[J]．杂交水稻,2006,21(3):78-80 HeDS,Lin XQ,ZhuDF,etal.Efectsofoxygesupply intherhizosphereonsoilEhand hbridrceyield.HybridRice,2006. 21(3): 78-80   
+[68]KrozuckerHJ,SiddiqiMY,GlassADM,etal.Nitrate-ammoumsyergisminrice:Aubcelularfluxnalysis[J].Plant Physiology,1999,119(3): 1041-1046   
+[69] Zhao X Q, Zhao S P, Shi W M. Enhancement of $\mathrm { N H } _ { 4 } { } ^ { + }$ uptake by $\mathrm { N O } _ { 3 } { } ^ { - }$ in relation to expression of nitrate induced genes in rice(oryza sativa) roots[J]. Pedosphere, 2008,18(1): 86-91   
+[70] Cao Y,FanXR,SunSB,etal.EfectofNitrateonActivitiesandTranscriptLevelsof NitrateReductaseandGlutamine Synthetase in Rice[J].Pedosphere,2008,18(5): 664-673   
+[71] 章永松，林咸永，罗安程．水稻根系泌氧对水稻土磷素化学行为的影响[J]．中国水稻科学,2000,14(4):208-212 Zhang Y S,Lin X Y,Luo A C. Chemical behavior of phosphorus in paddy soil as affected by $\mathbf { O } _ { 2 }$ secretion from rice root[J]. China Journal of Rice Sciences,2000,14(4): 208-212   
+[72]苏玲，章永松，林咸永．干湿交替过程中水稻土铁形态和磷吸附解吸的变化[J]．植物营养与肥料学报，2001，7(4): 410-415 SuL,Zang Y S,Lin X Y.Changesof iron oxides and phosphorus adsorption-desorption in paddysoils under alternating flooded and dried conditions[J]. Plant Nutrition and Fertilizer Science, 2Oo1,7(4): 410-415   
+[73]胡志华，朱练峰，林育炯，等．根部增氧模式对水稻产量与氮素利用的影响[J].植物营养与肥料学报，2016,22(6): 1503-1512 Hu ZH,ZhuLF,LinYJ,etal.Eectofrootaeration methodsonriceyieldandnitrogenutilization[J].PlantNutrionand Fertilizer Science,2016,22(6): 1503-1512   
+[74]胡志华，朱练峰，林育炯，等．根际氧浓度对水稻产量及其氮素利用的影响[J].中国水稻科学,2015,29(4):382-389 Hu ZH,ZhuLF,LinYJ,etal.Efectsofrizosphereoxygenconcentrationonricegrainandnitrogenutilzation[J].China Journal of Rice Sciences,2015,29(4): 382-389   
+[75]RuftyTW,HuberSCVolkRJAlteations inleafcarbodrate metabolisinspnse titrogenstressJ].Plantyiol, 1988,88(3): 725-730   
+[76]Gibbs J,GreenwayH.Mechanismsofanoxiatolerance inplants.Growth,survivalandanaerobiccatabolism[J].Functional Plant Biology,2003,30(1): 1-47   
+[77]MommerL,PedersonO,ViserEJW.Acimationofatestrialplant tsubmergencefacilitatesas exchangeunderater[J]. Plant, Celland Environment,2004,27: 1281-1287   
+[78]Kawai M,SamarajeewaPK,arreroRA,etal.Cellardisetionof thdegradatiopatterofcorticalcelleathduring aerenchyma formation of rice roots[J]. Planta,1998,204(3): 277-287   
+[79] 王荣栋，尹经章．作物栽培学：第2版[M]．北京：高等教育出版社,2015:76-80 Wang R D, Yin JZ. Crop cultivation: 2th Edition [M].Beijing: High Education Press,2015: 76-80   
+[80]LicausiF,PerataP.Lowoxygensgnalingnd toleranceinplants[J].AdvancesiBotaicalResearch,o,50(8):19198   
+[81] Dongen JTV, Licausi F. Low-Oxygen Stress in Plants[M]. Springer Vienna, 2014   
+[82]toimenovaM,HanschR,MendelR,etal.Theroleofitratereductioninthenoxicmetabolsmofroots.Charactertionof root morphology and normoxic metabolismof wildtype tobacoand atransformant lacking root nitrate reductase[J].Plant and Soil,2003,253(1): 145-153   
+[83]Morard,ilvestreJLacosteaL,etal.itrateuptakeadnitriterleasebyomatootsinresposetanoxia[J].Joualf Plant Physiology,2004,161(7): 855-865   
+[84]BotrelA,MagneC,KaiserWM.Nitratereduction,nitritereductionandammoumasiilationinbarleyroots insposeto anoxia[J]. Plant Physiol Biochem,1996,34(5): 645-652   
+[85]BrandaoAD,Sodek L.Nitrate uptakeandmetabolismbyrootsof soybeanunderoxygen dficiencyJ].BrazilianJouralof Plant Physiology,2009,21(1):13-23   
+[86] 余喜初，李大明，黄庆海，等．过氧化钙及硅钙肥改良潜育化稻田土壤的效果研究[J].植物营养与肥料学报,2015,21(1): 138-146 Yu XC,Li DM,HuangQH,etal.Amelioration efectsoftheapplicationofcalciumperoxideandsiliconcalcium fertilizein gleyed paddy fields[J]. Plant Nutrition and Fertilizer Science,2O15,21(1): 138-146

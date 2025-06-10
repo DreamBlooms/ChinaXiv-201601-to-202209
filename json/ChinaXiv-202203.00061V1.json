@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "天山中段南坡巴伦台地区不同海拔植物群落",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "物种多样性与土壤因子的关系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马紫荆’，2,，张云玲，刘彬1，2,3\\*  \n（1.新疆师范大学生命科学学院，乌鲁木齐 830054；2.干旱区植物逆境生物学实验室，乌  \n鲁木齐830054；3.新疆特殊环境物种保护与调控生物学实验室，乌鲁木齐830054；4.新疆维吾尔自治区草原总站，乌鲁木齐 830049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为探讨天山中段南坡巴伦台植物群落物种多样性随海拔梯度的分布特征及其与土壤环境因子的关系，该研究采用野外调查的方法，在和静县巴伦台地区海拔范围内设置34个样地进行了植物多样性和土壤因子的调查及室内指标的统计分析。结果表明：（1）研究区共调查到30科75属134种植物，草本层为主要优势层。不同海拔高度上土壤理化指标具有异质性，土壤含水量、全盐、有机质、全氮、全钾、有效氮和有效钾差异性显著（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ ），其中除全钾以外，其他土壤因子的含量均表现为中海拔大于低、高海拔区域。随海拔的升高，植物群落在低、高海拔段均匀指数较高；灌木层物种Patrick丰富度较低；草本层物种Shannon-Wiener指数、Simpson 指数随海拔升高先增加后减小。（2）RDA分析表明，影响植物群落物种多样性的主要环境因子是海拔、土壤含水量、全盐、有机质、全氮和有效氮。海拔作为主导因子，与草本层和群落总体各物种多样性指数呈正相关，与灌木层各物种多样性指数呈负相关关系；全盐是抑制植物群落总体物种 Simpson指数的主要土壤因子；氮元素一定程度上限制灌木、半灌木物种的生长，说明土壤因子对不同生活型物种多样性的形成具有一定的筛选作用及不同物种对环境变化的适应策略不同。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：植物群落，物种多样性，海拔梯度，土壤理化指标，巴伦台",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relationship between species diversity of plant communities and soil factors at different elevations in Baluntai area, the ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "southern slope of Mid-Tianshan Mountains ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Zijing1,2,3, ZHANG Yunling4, LIU Bin1,2,3\\* (1. College ofLife Sciences, Xinjiang Normal University, Urumqi 830054, China; 2. Key Laboratory of Plant Stress Biology in Arid Land, Urumqi 830054,China; 3. Xinjiang Key Laboratory of Special Species Conservation and Regulatory Biology, Urumqi 830o54, China; 4. Grassland Station of Uygur Autonomous Region, Urumqi 830o49, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to investigate the distribution characteristics of plant community species diversity with elevation gradient and its relationship with soil environmental factors on the southern slope of the middle part of Tianshan Mountain. We set up 34 sample plots in the elevation range of Baluntai area of Hejing County for statistical analysis and indoor indexes of plant diversity and soil factors by using field survey method. The results were as follows: (1) A 基金项目：国家自然科学基金地区基金项目(31360039;32160271)；新疆维吾尔自治区教育厅重点实验室“新 疆特殊环境物种多样性应用与调控重点实验室”项目；新疆师范大学校级重点实验室：干旱区 植物逆 境生物学实验室[Supported by National Natural Science Foundation of China (31360039;32l60271)；Key Laboratory of Application and Regulation of Species Diversity in Xinjiang Special Environment\" of Xinjiang Uygur Autonomous Region Education Department; Key Laboratory of Xinjiang Normal University: Laboratory of Arid Zone Plant Habitat Biology]。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第一作者：马紫荆，硕士研究生，研究方向为植物生态学，(E-mail) 963586516@qq.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*通信作者：刘彬，博士，教授，研究方向为植物生态学及植物区系地理学，(E-mail)onlinelb@163.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "total of 134 species in 75 genera of 30 families were recorded in the study area,and the herbaceous layer was the dominant layer. Soil physical and chemical indices were heterogeneous at different elevations,with significant differences $( P { < } 0 . 0 5 )$ in soil water content, total salt, organic matter, total nitrogen, total potassium, effective nitrogen and effective potassium, among which all soil factors except total potassium were higher at middle elevations than at low and high elevations. With the increase of elevation, the overall species diversity of the community had higher uniformity index in the low and high elevation zones; the Patrick richness of shrub layer community species was lower; Shannon-Wiener index and Simpson index of herbaceous layer species increased and then decreased with elevation.(2） RDA analysis showed that the main factors affecting the species diversity of plant communities were altitude, soil water content, total salt, Organic matter, total nitrogen and effective nitrogen .Elevation,as the dominant factor, was positively correlated with the diversity index of each species in the herbaceous layer and the community as a whole,and negatively correlated with the diversity index of each species in the shrub layer; total salt was the main soil factor that suppressed the Simpson index of the plant community as a whole; nitrogen limited the growth of shrub and semi-shrub species to a certain extent; and effective potassium was positively correlated with the diversity index of each species in the shrub layer.In this study,it shows that soil factors have a screening effect on the formation of diversity of different living species and different adaptation strategies of different species to environmental changes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: plant community, species diversity, elevation gradient, soil physicochemical index, Baluntai ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物群落物种多样性是物种丰富度、优势度、均匀度和变化程度的综合反映，是研究生态系统结构、功能及其稳定性的基础（王健铭等，2016）。海拔梯度的改变可以综合地反映出影响植物生长的生态环境因子规律性地变化，如温度、光照、湿度和土壤理化性质等（刘娜等，2018）。不同海拔高度上，局部微气候环境的改变使土壤理化性质具有明显的垂直分布特征（任启文等，2019），进而影响植物群落物种多样性及其垂直分布格局。近年来，很多学者对于海拔梯度上植物群落物种多样性与土壤因子的关系做了一定的研究。钟娇娇等（2019），贺静雯等（2020）和高辉等（2020）分别对秦岭山地天然次生林、干热河谷蒋家沟流域和西藏色季拉山的群落多样性沿海拔梯度对环境因子的响应进行研究，综合结果表明，不同生活型植物群落物种多样性的影响环境因子不同，沿海拔梯度垂直分布格局也不尽相同。目前，这些研究主要集中在暖温带大陆性季风气候、亚热带和半温润地区等，无法代表西北干旱地区植物群落分布格局，因此探究巴伦台地区海拔梯度上植物群落物种多样性及其影响土壤因子，可为研究我国西北干旱地区植物群落结构类型、组成及科学评估物种多样性与环境因子的耦合作用提供理论依据（刘冠成等，2018），对维持和恢复西北干旱地区生态系统生物多样性具有重要意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "新疆巴伦台地区位于天山中段南坡，为新疆天山山脉的重要区段，该地区生物多样性分布对于区域生态环境稳定性起着重要的作用，且该区域山脊线！ $( 4 5 0 0 \\sim 5 0 0 0 \\mathrm { m } )$ 与山脚（700$\\sim 8 0 0 \\mathrm { m }$ ）的相对高度差较大（Liu,2017），为植物区系与天然植被的垂直分异分布提供了较大的空间，是研究干旱山区物种多样性沿海拔分布格局的理想区域。近年来，宫珂等(2019)许多学者研究了天山北坡植物群落类型和空间分布特征，而对于天山中段南坡的植物多样性研究主要集中在巴音布鲁克高寒草地及库车山区（刘彬等，2018），目前对于巴伦台地区的研究主要集中在复杂的地质研究（高丽娟等，2018），对植物群落多样性与环境因子间的相关性研究较少，同时在全球气候多变及放牧等因素的驱动影响下，植物多样性在逐渐减少（王靓等，2020）。因此本文以巴伦台地区不同海拔高度上植物群落作为研究对象，依托样方中植物群落物种多样性指数与土壤因子指标为数据基础，对二者间的相互关系进行了系统分析，以期探讨如下科学问题：（1）巴伦台地区土壤因子海拔梯度上的变化规律及其原因；（2）巴伦台地区植物群落物种多样性在不同海拔高度上的垂直分布特征如何；（3）海拔和土壤因子对该地区植物群落物种多样性有何影响。期望通过解答这些科学问题为该地区及天山植物资源的保护及合理利用提供理论基础，同时丰富干旱山区物种多样性分布格局的理论研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "巴伦台位于新疆巴州和静县北部山区，天山中段南坡的峡谷地带，地处腾格尔峰南侧，$8 2 ^ { \\circ } 0 6 ^ { \\prime }$ 一 $8 7 ^ { \\circ } 5 5 ^ { \\prime } \\mathrm { N }$ 、 $4 2 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { - } 4 3 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E }$ 之间，区域总面积 $5 ~ 0 0 2 . 6 7 ~ \\mathrm { k m } ^ { 2 }$ ，温带大陆性气候，光热资源丰富，气温年较差大，日照充足，无霜期长，蒸发旺盛，风沙浮尘天气比较多；多年平均气温 $7 . 0 \\mathrm { ~ \\textdegree ~ }$ ；无霜期年平均 $1 7 8 \\mathrm { d }$ ，最多达 $2 4 4 \\mathrm { d }$ ；年平均日照时数 $2 ~ 4 0 0 { \\sim } 2 ~ 7 0 0 ~ \\mathrm { h }$ ；年平均降水量 $1 5 0 { \\sim } 3 5 0 . 7 \\mathrm { m m }$ ，降雨集中在每年5一8月（李立国等，2016）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/63c6b26cfad1e75f968d363a0a2aee3a490ba35b3dd3dfad5f4b52e4baa0faf9.jpg",
+        "img_caption": [
+            "图1巴伦台研究区及样地分布示意图",
+            "Fig.1 Distribution of study area and sample sites in Blauntai "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2样地设置与调查",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2017年7月和2019年8月在和静县巴伦台，莫托萨拉和古仁沟区域范围内（海拔1500$\\mathbf { m }$ 至 $3 7 0 0 \\mathrm { m }$ ）设置样带，海拔每升高 $2 0 0 \\mathrm { m }$ 布设3\\~4个 $2 0 \\mathrm { m } \\times 2 0 \\mathrm { m }$ 的样地，沿样地对角线设3个 $5 \\mathrm { m } \\times 5 \\mathrm { m }$ 的灌木样方和3个 $1 \\mathrm { m } \\times 1 \\mathrm { m }$ 的草本样方，同时记录每个样方中植物种类、数量、高度、盖度、密度、频度，其中草本植物数量分蘖性植物以丛计数，并拍摄植物及其周围生态环境照片；每个样地内梅花五点状去除地表枯落物后采集 $0 { \\sim } 2 0 \\ \\mathrm { c m }$ 地表土壤各100$\\mathbf { g }$ 混合作为一个土样放入自封袋，带回实验室进行处理。共设34个样地，54个灌木样方，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "102 个草本样方。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3样品处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参照土样指标常规方法（李敏菲等，2020），用重铬酸钾滴定法测定土壤有机质（soilorganic matter，SOM）、高氯酸\\~硫酸消化法测定全氮（total nitrogen，TN）、酸溶\\~钼锑抗比色法测定全磷（totalphosphorous，TP）、酸溶 $\\sim$ 原子吸收法测定全钾（totalpotassium，TK）、碱解蒸馏法测定有效氮（碱解氮）（availablenitrogen，AN）、碳酸氢钠浸提\\~钼锑抗比色法测定土壤中有效磷（available phosphorous，AP）、乙酸铵浸提 $\\ 、 \\sim$ 火焰光度计法来测定有效钾（available potassium，AK）、干渣法测定全盐（total salt，TS）、烘干称重法测定土壤含水量（soil water，SW）、雷磁 pH计测定pH。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4数据处理与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于研究区乔木物种组成较为单一，高大难以测量，本文只考虑灌草层植物的重要值。计算公式如下（Parketal.,2008）：灌木 $\\mathbf { \\Psi } = \\mathbf { \\Psi }$ （相对密度 $+$ 相对盖度 $+$ 相对高度） $/ 3$ ，草本 $\\underline { { \\underline { { \\mathbf { \\Pi } } } } } = \\mathbf { \\Pi }$ （相对密度 $^ +$ 相对盖度 $\\cdot +$ 相对高度 $+$ 相对频度）/4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "选取Patrick丰富度指数！ $( R )$ ）、Pielou均匀度指数 $\\mathbf { \\nabla } \\cdot E \\mathbf { \\vec { \\mathbf { \\nabla } } }$ ）、Shannon-Wiener指数（ $\\cdot H ^ { \\prime } )$ 和 Simpson 指数 $( D )$ 对不同海拔34个样方的植物群落 $\\mathfrak { a }$ 多样性进行分析。以物种的重要值作为运算单位，计算公式如下（罗清虎等，2018）：Patrick丰富度指： $R { = } ( S { - } 1 ) / \\mathrm { l n N }$ ；Pielou均匀度指数： $E = H ^ { \\prime } / \\mathrm { l n } S$ ； Shannon-Wiener指数： $\\scriptstyle H ^ { \\prime } = - \\sum P _ { i } \\mathbf { l n } P _ { i }$ ； Simpson 指数： ${ \\cal D } { \\bf \\Lambda } = { \\bf 1 } - \\sum { \\cal P } _ { i } ^ { 2 }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $S$ 代表样方中的物种数，N为样方中所有物种的个体总数， $P _ { i }$ 为第i个物种的相对重要值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "常规数据统计分析在 Excel2010 中完成，通过 SPSS19.0 对土壤因子和物种多样性指数进行单因素方差分析（one-way ANOVA），在Origin 2019中进行植物群落物种多样性指数统计作图，冗余分析(redundancyanalysis,RDA）通过Canoco $\\mathrm { ~ V ~ } 4 . 5$ 分析软件及CanoDrawV4.0作图软件实现。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1植物群落的物种组成及类型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究样区共调查到植物134种，隶属30科，75属，其中草本植物有26科70属126种，占研究区植物总科、属、种的比例分别为 $8 6 . 6 7 \\%$ 、 $9 3 . 3 3 \\%$ 、 $9 4 . 0 2 \\%$ ；灌木植物共9个样地中出现，有4科5属8种，占研究区总植物科、属、种的比例分别为 $1 3 . 3 3 \\%$ 、 $6 . 6 7 \\%$ 、 $5 . 9 8 \\%$ 主要分布在海拔 $2 \\ 3 0 0 { \\sim } 2 \\ 9 0 0 \\ \\mathrm { m }$ 处。根据《新疆植物志》（新疆植物志编委会，1999）及样地群落中物种重要值的大小将植物群落划分为八种群落类型（表1），其中群落VI的物种丰富度总数最大，分布于海拔 $3 0 0 0 { \\sim } 3 5 0 0 \\mathrm { m }$ 处，优势种有林地早熟禾（Poanemoralis）、黑花薹草（Carex melanantha）、细果薹草（Carex stenocarpa）、大赖草（Leymus racemosus）。在8个群丛中，主要优势种中的灌木物种有驼绒藜（Ceratoides latens）、蓝枝麻黄（Ephedraglauca）、鬼箭锦鸡儿(Caragana jubata)、小叶金露梅(Pentaphylloides parvifolia)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2dffa4b68395a88734bba2999b9d28631a5c9545ec3fa5eed9cfbb20bf7c7547.jpg",
+        "table_caption": [
+            "表1巴伦台地区植物群落类型及其结构组成"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">TableTTheplantcommunit typesanditsstructureinBaluntaiarea</td></tr><tr><td>群落类型</td><td>海拔梯度</td><td>海拔</td><td>主要优势种</td><td>伴生种</td></tr><tr><td>Community</td><td>Elevation</td><td>Elevation</td><td>Major dominant species</td><td>Companion species</td></tr><tr><td>type I</td><td>gradient <2 500</td><td>(m) 2360</td><td>驼绒藜、芨芨草、米瓦罐</td><td>新疆绢蒿、披碱草</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>Ceratoideslatens，Achnatherum splendens,</td><td>Seriphidiumkaschgaricum，Elymus</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ec0ad56ad6c0475990784893e7120d764d061be8e1bf356f326e681cd1e1ecd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\"></td><td>dahuricus</td></tr><tr><td>II</td><td><2 500</td><td>2 452</td><td>Silene conoidea 蓝枝麻黄、大赖草、天山黄耆 Ephedra glauca,Leymusracemosus,</td><td>冷蒿、芨芨草 Artemisia frigida,</td></tr><tr><td>Ⅲ</td><td>2 500~3 000</td><td>2 575</td><td>Astragaluslepsensis 披碱草、大赖草 Elymus dahuricus， Leymus racemosus</td><td>Achnatherum splendens 大叶橐吾、针茅 Ligularia macrophylla,</td></tr><tr><td>IV</td><td>2 500~3 000</td><td>2 732</td><td>鬼箭锦鸡儿、小叶金露梅、酸模、 亚欧唐松草 Caragana jubata,Pentaphylloides</td><td>Stipa capillata 芨芨草、针茅</td></tr><tr><td>V</td><td>2 500~3 000</td><td>2 925</td><td>parvifolia， Rumex acetosa， Thalictrum minus 仰卧早熟禾、大赖草、大苞点地梅 Poa supina， Leymus racemosus，Androsace</td><td>Achnatherum splendens, Stipa capillata 火绒草、二裂委陵菜 Leontopodium leontopodioides,</td></tr><tr><td>VI</td><td>3 000~3 500</td><td>3163</td><td>maxima 林地早熟禾、黑花薹草、细果薹草、 大赖草 Poa nemoralis，Carex melanantha，Carex</td><td>Potentilla bifurca 珠芽蓼、天山黄耆、 绢毛委陵菜 Polygonum viviparum， Astragalus</td></tr><tr><td>VII</td><td>3 000~3 500</td><td>3 373</td><td>stenocarpa, Leymus racemosus 林地早熟禾、针叶风毛菊、二裂委陵菜 Poa nemoralis，Saussurea chondrilloides, Potentillabifurca</td><td>frigidus，Potentilla sericea 绢毛委陵菜、细果薹草 Potentilla sericea,</td></tr><tr><td>VII</td><td>>3 500</td><td>3 578</td><td>林地早熟禾、大红红景天、天山羽衣草 Poa nemoralis，Rhodiola coccinea, Alchemillatianschanica</td><td>Carex stenocarpa 天山罂粟、阿尔泰狗娃花 Papaver canescens，Aster altaicus</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：I．驼绒藜-芨芨草 $^ +$ 米瓦罐；ⅡI．蓝枝麻黄-大赖草 $\\cdot +$ 天山黄耆；ⅢI. 披碱草 $^ +$ 大赖草；IV．鬼箭锦鸡儿 $^ +$ 小叶金露梅-酸模 $^ +$ 亚欧唐松草；V.仰卧早熟禾 $^ +$ 大赖草 $+$ 大苞点地梅；VI.林地早熟禾 $+$ 黑花草 $\\cdot +$ 细果薹草$^ +$ 大赖草；VII.林地早熟禾 $^ +$ 针叶风毛菊 $^ { \\circ } +$ 二裂委陵菜；VI.林地早熟禾 $^ { + }$ 大红红景天 $. +$ 天山羽衣草。Note:1: I. (Ass. Ceratoides latens -Achnatherum splendens $^ +$ Silene conoidea） ； II. （Ass. Ephedra glauca -Leymusracemosus $^ +$ Astragalus lepsensis）; III.（Ass. Elymus dahuricus $^ +$ Leymus racemosus）;IV.（Ass.Caragana jubata $^ +$ Pentaphylloidesparvifolia- Rumex acetosa $^ +$ Thalictrum minus）；V.（Ass.Poa supina $^ +$ Leymus racemosus $^ +$ Androsace maxima）;VI.（Ass. Poa nemoralis $^ +$ Carex melanantha $^ +$ Carex stenocarpa $+$ Leymusracemosus）；VII.(Ass.Poa nemoralis $^ +$ Saussureachondrilloides $^ +$ Potentilla bifurca);Vm.(Ass.Poanemoralis $^ +$ Rhodiolacoccinea $^ +$ Alchemilla tianschanica）.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2不同海拔高度土壤因子分布特征",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同海拔高度上，土壤理化性质和土壤母质的不同使植物生长在不同的微环境中。由表2可知，不同海拔高度上，除土壤酸碱度、全磷和有效磷差异不显著外（ $. P { > } 0 . 0 5 )$ ，其他土壤因子指标均呈现显著性差异（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\$ ），说明研究区样地土壤因子在垂直梯度上的分布存在空间异质性。在中海拔区域上 $\\left( 2 5 0 0 { \\sim } 3 5 0 0 \\mathrm { m } \\right)$ ），全盐、全磷出现了各自指标变化中的极值，说明该海拔区域内这两个土壤因子含量变化范围较大。土壤含水量在中高海拔与低海拔区域之间存在明显差异（ $\\cdot P { < } 0 . 0 5 \\$ ），说明中高海拔区域降雨量相对充足，气候温润，土壤质地更适合植物生长。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/79db8bc4886630f16ab6ae8b348d0836f87ce21a5dbac7d5097642fa64e7e0c3.jpg",
+        "table_caption": [
+            "表2不同海拔土壤环境因子分布特征",
+            "Table 2 Distribution characteristics of soil environmental factors at different elevations "
+        ],
+        "table_footnote": [
+            "注：同一列中不同小写字母表示在0.05水平上不同海拔高度各土壤养分含量的差异性。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">海拔 Elevation (m)</td><td rowspan=\"2\">土壤含水量 SW （%）</td><td rowspan=\"2\">酸碱度 PH</td><td rowspan=\"2\">全盐 TS （g:kg-1）</td><td rowspan=\"2\">有机质 SOM （g·kg1）</td><td rowspan=\"2\">全氮 TN （g:kg1）</td><td rowspan=\"2\">全磷 TP</td><td rowspan=\"2\">全钾 TK</td><td rowspan=\"2\">有效氮 AN （mg:kg1）</td><td rowspan=\"2\">有效磷 AP （mg:kg1）</td><td rowspan=\"2\">有效钾 AK (mg·kg-1)</td></tr><tr><td>（g·kg-1） （g·kg-1）</td></tr><tr><td><2 500</td><td>36.499±2.835a</td><td>7.736±0.032a</td><td>5.243±1.880a</td><td>40.018±0.853a</td><td>2.139±0.446a</td><td>0.859±0.040a</td><td>13.518±0.399a</td><td>98.054±1.120a</td><td>6.590±1.019a</td><td>195.543±1.396a</td></tr><tr><td>2 500~3 000</td><td>74.426±1.501b</td><td>7.761±0.067a</td><td>6.929±1.887a</td><td>75.409±2.279b</td><td>3.263±0.633b</td><td>1.055±0.244a</td><td>11.490±0.723b</td><td>129.327±0.843a</td><td>5.788±0.418a</td><td>241.950±2.556a</td></tr><tr><td>3000~3 500</td><td>66.706±1.393b</td><td>7.811±0.053a</td><td>2.036±0.333b</td><td>84.986±1.637b</td><td>4.263±0.622b</td><td>0.762±0.050a</td><td>12.835±0.271b</td><td>213.067±0.782b</td><td>4.200±0.710a</td><td>195.222±3.862a</td></tr><tr><td>>3500</td><td>66.184±1.457b</td><td>7.881±0.027a</td><td>2.516±0.893b</td><td>56.283±2.663a</td><td>3.018±0.288a</td><td>0.773±0.071a</td><td>13.669±1.481a</td><td>150.104±0.833c</td><td>4.253±0.281a</td><td>110.702±1.221b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Note: Different lowercase leters in the same column indicate the variability of each soil nutrient content at the 0.05level at different elevations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同海拔高度植物群落物种多样性特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图2可知，植物群落不同层次物种多样性在海拔上呈现不同的变化特征。结果表明灌木层物种主要出现在海拔小于 $3 0 0 0 \\mathrm { m }$ 的区域内，各海拔梯度灌木层各物种多样性指数偏低且差异不显著（ $P { > } 0 . 0 5 \\ '$ ），研究区草本层占主要优势。草本层物种Shannon-Wiener指数在不同海拔高度上具有显著性差异（ $_ { , P < 0 . 0 5 ) }$ ），且中海拔区域高于其他海拔梯度，说明中海拔区域草本层物种数目更为丰富，群落物种组成更为复杂，而低、高海拔区域受到人为干扰和自然条件等因素影响，草本层物种数目较少，群落结构较为简单。高海拔区域内，群落总体物种Pielou均匀度指数显著大于其他海拔（ $\\cdot P { < } 0 . 0 5 \\$ ），说明高海拔区群落总体物种分布最为均匀，且群落总体物种Pielou均匀度指数和 Shannon-Wiener指数随海拔升高先减小再增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/00c981bd6044444021553c573c33310e454e8e3fc59403c16b41c8501bc76dd3.jpg",
+        "img_caption": [
+            "注：不同小写字母表示在0.05水平上同一生活型物种多样性指数在不同海拔高度的差异性。",
+            "图2不同海拔段植物群落物种多样性指数分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:Different lowercase leters indicate the differenceofspecies diversity index ofthe same life form at diferent elevations at the level of 0.05. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 Distribution of species diversity indices of plant communities at different elevations 2.4植物群落物种多样性指数和环境因子的RDA排序分析 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对巴伦台34个样方中灌木层、草本层、群落总体的多样性指数及环境因子进行RDA排序分析，能有效地对环境梯度下多个环境指标进行排序解释。在RDA排序中,Monte-Carlo test显示所有的排序轴都是极显著的 （ $_ { \\mathrm { F } = 3 . 9 1 3 }$ ， $\\scriptstyle P = 0 . 0 0 2 .$ ）。多样性变量土壤累积解释率及多样性-环境关系累积解释率分别达 $6 4 . 1 \\%$ 和 $9 6 . 8 \\%$ ，说明排序结果可信，可以较好解释群落物种多样性指数指数与环境因子间的关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从表3中可知，与RDA第一轴存在极显著（ $_ { \\cdot  { P } < 0 . 0 1 }$ ）负相关关系的是海拔和有效氮，呈显著（ $\\scriptstyle \\cdot < 0 . 0 5 .$ ）负相关的是有机质和全氮，呈极显著正相关的是全盐。与第二排序轴呈极显著正相关的唯有土壤含水量。这表明11个环境因子中，影响植物群落物种多样性的主要因子是海拔、土壤含水量、全盐、有机质、全氮和有效氮。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/92da64bcca1da8e4ce385065a9729729bae50bd85ca52774d60a9ce7ad36b94b.jpg",
+        "table_caption": [
+            "表3巴伦台样地环境因子与RDA前两轴的相关系数",
+            "Table 3 Correlation coefficients of environmental factors with the first two axes of RDA in ",
+            "Baluntai "
+        ],
+        "table_footnote": [
+            "注：\\*表示影响显著（ $_ { . P < 0 . 0 5 }$ ）；\\*\\*表示影响极显著（ $_ { \\cdot \\textcircled { P } < 0 . 0 1 }$ ）。"
+        ],
+        "table_body": "<html><body><table><tr><td>Axes</td><td>E海ation</td><td>土含水</td><td>土壤pH</td><td>全</td><td>有机质</td><td>全氮</td><td>全</td><td>全</td><td>有效氨</td><td>有效磷</td><td>有效钾</td></tr><tr><td>1</td><td>-0.757**</td><td>0.024</td><td>-0.027</td><td>0.579**</td><td>-0.311*</td><td>-0.314*</td><td>0.200</td><td>-0.143</td><td>-0.397**</td><td>0.279</td><td>0.212</td></tr><tr><td>2</td><td>0.177</td><td>0.448**</td><td>0.125</td><td>0.071</td><td>0.280</td><td>0.286</td><td>0.125</td><td>0.062</td><td>0.2443</td><td>0.139</td><td>0.040</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note: \\* shows the significant effect ( $( P < 0 . 0 5 )$ ： $^ { * * }$ shows the extremely significant effect $( P < 0 . 0 1 \\dot$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由图3可以看出，灌木层各物种多样性指数与全盐和有效磷相关性最高，与海拔呈负相关；草本层各多样性指数与海拔、有机质、全氮和有效氮相关性较高，与全盐呈负相关；群落总体物种的丰富度指数Rt与土壤pH显著负相关，Simpson 指数Dt与全盐显著负相关，均匀度指数Et和Shannon-Wiener指数Ht均与海拔相关性较高。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/93b3e05f81f6da5e0b343a72ab64b1c42ebe2a57aff1b9de0faec3667cf652f6.jpg",
+        "img_caption": [
+            "图3植物群落物种多样指数与环境因子的RDA排序图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "AN.有效氮；AP.有效磷；AK.有效钾；EIev.海拔；SOM.有机质；SW.土壤含水量；pH.土壤pH；TN 全氮；TP.全磷；TK.全钾；TS.全盐；R.Patrick 丰富度指数；E.Pielou 均匀度指数；D.辛普森指数； H.香农-威纳指数；h.草本层；s.灌木层；t.群落总体。 AN. Available nitrogen; AP. Available phosphorus; AK. Available potassium; Elev. Elevation; SOM. Siol organic matter;SW.Soil water content;pH.Power of hydrogen;TN.Total nitrogen; TP.Total phosphorus;TK.Total potassium；TS.Total salt；R.Patrick richness index;E.Pielou evenness index；D. Simpson index;H. Shannon-Wiener index; h. Herbaceous layer; s. Shrub layer; t. Community population. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 RDA ordination chart of plant community species diversity index and environmental factors ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在干旱半干旱地区，小尺度生境异质性是导致群落组成不同和物种共存的重要因素（Bergholzetal.,2017）。本研究结果表明，中海拔区域土壤 SOM的含量显著高于低、高海拔区域（ $\\scriptstyle \\cdot P < 0 . 0 5 .$ ），分析原因是土壤表层SOM含量主要受到植物凋落物量和死亡根系等因素的影响（戴雯笑等，2021），研究区中海拔区域优势层-草本层物种多样性较高，SOM主要通过植物-凋落物-土壤补充进入土壤系统使得中海拔区域含量最高。研究发现，土壤 AN在不同海拔高度上差异性显著（ $P { < } 0 . 0 5$ ），随海拔升高，AN含量先增加后减小，本研究结果发现低海拔区域降雨量少，物种丰富度较低，表层裸露的土地被雨水冲刷会使得N含量流失，土壤AN易淋失使低海拔区域土壤AN含量最少（贺静雯等，2020），而高海拔区域较低的土壤温度一定程度上影响土壤AN的释放（王霖娇等，2018）），使得高海拔区域含量较低。值得注意的是，不同海拔梯度上土壤因子的异质性不仅能够影响植物群落的分布格局，也能反映和指示植物种群的生态适应对策（Pca et al.,2019）。pH值是土壤重要的基本性质之一，与土壤的肥力状况、土壤盐分及微生物活动等密切相关（罗巧玉等，2021），研究区样地土壤 $\\mathrm { p H } ( 7 . 7 3 6 { \\pm } 0 . 0 3 2 { \\sim } 7 . 8 8 1 { \\pm } 0 . 0 6 7 \\$ ）呈偏碱性，随海拔升高土壤pH值逐渐升高时禾本科和杂类草植物种类增加，这些植物更加耐旱、抗盐碱，对环境适应性更强。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同海拔高度微环境发生改变，植物的生态和生理特征随之变化，从而影响到植物群落的结构组成及垂直分布。研究发现，该地区草本植物占据优势，其占总植物种的比例为$9 4 . 0 2 \\%$ ，而海拔大于 $2 9 1 9 \\mathrm { m }$ 的区域鲜有灌木生长，这可能是地形因子中海拔极为重要，海拔高度的不同极大程度上影响到温度的改变，海拔越高，低温主导的恶劣环境条件迫使灌木的光合作用降低，限制灌木层生长（康红梅等，2020）。对比库车山区植物群落多样性的调查(常凤等，2018)，结果表明虽然两地纬度相似且同处天山中段南坡，但巴伦台地区草本层和灌木层物种都更为丰富，这是因为库车山区气候干燥，降水少，蒸发量大，而巴伦台地处天山阳面，光热资源丰富，年平均降水量大于库车山区年均降水量的一倍，植物受到热量和水分的综合调控，在水热资源更为适宜的巴伦台地区生长丰富。随着海拔的升高，植物群落总体物种丰富度指数（Rt）呈先升高后降低的分布规律，由于低海拔山地气候极端干旱，虽然温度较高，但水分相对缺少，水分是限制植物分布的主要因子，许多植物因不能在这样极端干旱的环境中完成生活史，加之受人为破坏和放牧等影响大而产生负面影响，因此主要以旱生的灌木和少数草本种类为主，植物物种种类较少；而高海拔区域主要受热量限制，昼夜温差大和土壤肥力降低等环境条件严重影响植物生长发育（张世雄等，2020），主要以耐寒型草本为主，物种丰富度指数减少，则中海拔段环境条件相对较好更适宜植物生长，物种丰富度指数更高。这与天山北坡野生无芒雀麦（Bromus inermis）群落物种丰富度在海拔梯度上的表现趋势不同（宫珂等，2019），影响物种多样性的因素是多方面的，包括地区间大尺度和海拔等小尺度下的差异，天山南北坡气候、水文、土壤环境及其他环境影响因子具有差异（秦莉等，2021），因此天山南北坡植物群落对不同海拔的响应情况也有所不同。植物群落总体 Pielou均匀度指数（Et）随海拔梯度升高表现出先减小再增加的变化，分析原因可能是中海拔区域样地土壤TS 和TP含量分别出现了各自指标变化中的最大值（ $6 . 9 2 9 \\pm 1 . 8 8 7$ $\\mathbf { g } { \\cdot } \\mathbf { k } \\mathbf { g } ^ { - 1 }$ 和 $1 . 0 5 5 { \\pm } 0 . 2 4 4 { \\mathrm { g } } { \\cdot } { \\mathrm { k g } } ^ { - 1 } ,$ ）和最小值（ $\\cdot 2 . 0 3 6 \\pm 0 . 3 3 3 \\mathrm { g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 和 $0 . 8 8 4 { \\pm } 0 . 0 5 0 { \\mathrm { g } } { \\cdot } { \\mathrm { k g } } ^ { - 1 } .$ ），植物赖以生存的土壤环境变化范围较大，且该海拔段物种种类较多，群落内小生境复杂，种群间的复杂关系导致植物群落总体Pielou均匀度指数较低，而低、高海拔区域植物群落总体分布向着均匀化方向发展。优势层-草本层物种Patrick 丰富度指数（Rh）、Shannon-Wiener（Hh）和 Simpson 指数（Dh）随海拔的升高先增减后减小，这与新疆天山南坡中段种子植物区系垂直分布格局呈现单峰分布格局表现吻合（刘彬等,2018）。单峰分布格局在西北干旱、半干旱地区较为普遍，研究区属温带大陆性气候，相对于暖温带大陆性季风气候、亚热带和半温润地区等地的研究来说（钟娇娇等，2019；贺静雯等，2020；高辉等2020），研究区样地由于远离海洋，或者地形阻挡，湿润气团难以到达，因而干燥少雨，气候呈极端大陆性，平均年降水量不足 $5 0 0 \\mathrm { m m }$ ，水土流失和荒漠化较严重，整体物种多样性受水分和温度调控较大，因而就小尺度而言，中海拔处的温度和降水量相对适宜，土壤质地和其水热条件更适宜优势层-草本层植被生长，从而形成物种多样性的峰值区域。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "海拔作为主要的地形因子，通过影响着山地生态系统的地理结构和水热过程，进而影响植物群落物种多样性的空间梯度变化。本研究区地质构造复杂，成土母质丰富，随海拔梯度的改变，各环境因子交互作用影响了该地区植物群落物种多样性，这与吴红宝等（2019）研究的结果一致，即海拔对藏北高寒草地物种多样性和生物量的影响中发现物种多样性的变化受到热量和水分的综合调控，不同的土壤因子对物种多样性海拔梯度格局的解释程度不同。RDA 排序结果表明，土壤理化指标中SW、AN和TS 对植物群落物种多样性影响显著。SW是植物群落生长的必要环境因子之一，直接影响植物生理生长状况。本研究发现，植物群落总体物种丰富度指数（Rt）与SW呈正相关关系，这与天山北坡植物群落多样性及其环境解释研究结果不同（陈乙实等，2019），天山南北坡气候环境迥异，天山南坡与北坡相比受到大西洋和北冰洋水汽作用较小，年降水量小于天山北坡，气候极端干旱，因此植物对 SW 更为敏感，SW 显著影响植物群落总体物种丰富度。灌木层各物种多样性指数与AN在RDA排序图上呈现负相关，土壤AN在中、高海拔区域内含量较高，而灌木层物种种类较少，这与潘占磊（2017）研究发现N素的过多会显著降低灌木、半灌木物种数的研究结果类似，N素含量过多会加剧种间竞争，使得弱势种群一定程度上受到抑制。有许多研究学者对影响天山南北坡植物群落物种多样性分布格局的主要环境因子进行分析，研究结果均发现土壤TS对物种多样性的分布格局作用微弱（陈乙实等，2019）。但本研究结果不同，RDA结果表明，TS与群落总体各物种多样性指数均呈负相关，对物种多样性的分布格局作用显著，这主要是因为研究区样地盐分较高的缘故（Naqinezhad etal.,2009），在干旱缺水的环境条件下，土壤中可溶性盐类过多，植物生长处于生理干旱状态，从而影响群落总体各物种多样性指数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1研究区共调查到植物有134种，30科，75属，划分为8个植物群落类型，植物群落在中海拔梯度物种最丰富，在低、高海拔分布较为均匀，说明在中海拔地区植物群落结构复杂、稳定性较高，适合植物生长。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2不同海拔高度上，土壤含水量、有机质和有效氮先升高再降低，影响植物群落物种多样性的主要因子是海拔、土壤含水量、全盐，其次是有机质、全氮和有效氮。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上所述，研究区内植物群落组成及土壤因子均受海拔梯度的显著影响，不同海拔高度上植物采取不同的生存策略来适应微生境，植物群落总体物种多样性指数与土壤养分、水分的分布格局大体一致，反映了环境筛选对植物群落物种多样性形成的作用及不同物种适应环境变化的适应策略。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "BERGHOLZ, MAY, GILADI, et al., 2017. Environmental heterogeneity drives fine-scale species assembly and functional diversity of annual plants in a semi-arid environment[J]. Perspect Plant Ecol, 24(-):138-146.   \nCHANG F， LIU B，LIU RK，et al.， 2018. Plant community diversity and environmental interpretation of adaptive region of gentianella turkestanorum in Kuche Mountain area[J]. Acta Agr Sin,26(5):1084-1090.[常凤，刘彬，刘若坤，等，2018．库车山区新疆假龙胆适生地 植物群落多样性及其环境解释[J]．草地学报，26(5)：1084-1090.]   \nCHEN YS,SUN HR，LI NN，et al.， 2019. Plantcommunity diversityin grazed Seriphidium semidesert grassand andits relationships with environmental factors[J].Acta Pratact Sci,28 (11):1-11.[陈乙实，孙海荣，李娜娜，等，2019.绵羊放牧绢蒿荒漠草地植物群落多样性 及其环境解释[J]．草业学报，28(11)：1-11.]   \nDAI WX,LOU CY, XU DM, et al.，2021. Spatial distribution of litter yield in an evergreen broadleaf forest and its effects on the heterogeneity of soil nutrients[J]. Acta Ecol Sin, 41( 2) : 513-521.[戴雯笑，楼晨阳，许大明，等，2021．浙西南常绿阔叶林凋落物空间分布及其对 土壤养分的影响[J].生态学报，41(2)：513-521.]   \nEditorial Commitee of flora of Xinjiangensis,199. Flora Xinjiangensis[M]. Urumqi: Xinjiang science technology and Health Press.[新疆植物志编委会，1999．新疆植物志[M].乌鲁木齐: 新疆科技卫生出版社.]   \nGAO H,LIU LJ,FANG JP, 2020.Distribution pattern and environmental interpretation of forest communities along elevation gradients in Sejila Mountain[J]. JHunan Norm Univ( Nat Sci Ed), 43; 184(5): $^ { 4 3 - 5 1 + 6 8 }$ ·[高辉，刘丽娟，方江平，2020.色季拉山沿海拔梯度的森林群落分 布格局及环境解释[J]．湖南师范大学自然科学学报，43；184(5)： $4 3 - 5 1 + 6 8 . ]$ （20   \nGAO LJ, ZHAO BB, XING XM, et al., 2018. Short term anomalies detected at balguntay station's component borehole strain before the Hutubi $\\mathbf { M } _ { \\mathrm { s } } 6 . 2$ earthquake，Xinjiang， China [J]. JGeod Geodyn,38(8):102-106.[高丽娟，赵彬彬，邢喜民，等，2018．巴伦台分量钻孔应变在呼 图壁 Ms6.2地震前的短临异常初探[J]．大地测量与地球动力学，38(8)：102-106.]   \nGONG K, JIN GL, YUE YH, et al., 2019. Community characteristics of bromus inermis on the northern slope of Tianshan Mountains[J]. Xinjiang Agric Sci, 56(3): 561-570.[宫珂，靳瑰丽, 岳永寰，等，2019.天山北坡野生无芒雀麦群落特征研究[J]．新疆农业科学，56(3)： 561-570.]   \nHE JW, LIU Y,LI SY, et al., 2020.Relationshio between shrub plant communities and soil at different altitudes in Jiangjiagou watershed[J]. Guihaia,40 (8): 34-42.[贺静雯，刘颖，李松阳, 等，2020．蒋家沟流域不同海拔灌草层群落特征与土壤关系的研究[J]．广西植物，40(8)： 34-42.]   \nKANG HM, LI HH, XU DH, et al., 2020. Effects of elevated $\\mathrm { C O } _ { 2 }$ and temperature on Caragana jubata (Alpine shrub )growth and antioxidant systems[J]. Acta Ecol Sin, 40 (1): 367-376 [康红 梅,李花花，徐当会，等,2020．大气CO2 浓度及温度升高对高山灌木鬼箭锦鸡儿(Caragana jubata)生长及抗氧化系统的影响[J]．生态学报，40(1)：367-376.]   \nLI MF, MA YC,LIU GH, et al., 2020. Parttern and drivers of phylogenetic diversity in Xinjiang grassland[J].Acta Ecol Sin,0(7):2285-2299.[李敏菲，马煜成，刘耘华，等，2020．新疆草 地群落谱系多样性变化特征及影响因素[J]．生态学报，40(7)：2285-2299.]   \nLI LG,2016. chief editor in chief ;Ministry of civil affairs of the people's Republic of China; GUO JP, LI NP, TOHUTI Y，chief editor of this volume, The grand ceremony of the people's Republic of China, Xinjiang Uygur Autonomous Region volume[M]. Beijing: China Social Press,August 08:1169-1171.[李立国总主编，2016.中华人民共和国民政部编；郭景平， 李宁平，托乎提·亚克夫本卷主编.中华人民共和国政区大典·新疆维吾尔自治区卷[M]．北 京：中国社会出版社，08月：1169-1171.]   \nLIU B,2017. Vertical paterns in plant diversity and their relationships with environmental factors on the southern slope of the Tianshan Mountains (middle section)in Xinjiang(China)[J]. J MT Sci-engl, 14(4): 742-757.   \nLIU B,BUMARYAM T, AIBIBAIMU K, et al., 2018. Vertical distribution paterns of the seed plant flora in the middle section on the southern slopes of the Tianshan Mountains in Xinjiang, China[J].Plant Sci J,36(2):191-202.[刘彬，布买丽娅木·吐如汗，艾比拜姆·克热木，等，   \n2018.新疆天山南坡中段种子植物区系垂直分布格局分析[J]．植物科学学报，36(2)：   \n191-202.] LIU GC, HUANG YX, WANG QG, et al., 2018. Efects of environmental factors on plant species diversity:research progress[J]. Chin Agric Sci Bull,34(13): 83-89.[刘冠成，黄雅曦，王庆贵， 等，2018．环境因子对植物物种多样性的影响研究进展[J]．中国农学通报，34(13)：83-89.] LIU N, BAI KY, YANG YH, et al., 2018. Effects of grazing on vegetation and soil nutrients of a desert steppe in Inner Mongolia[J].Pratact Sci,35(6): 1323-1331.[刘娜，白可喻，杨云卉，等，   \n2018．放牧对内蒙古荒漠草原草地植被及土壤养分的影响[J]．草业科学，35(6)：   \n1323-1331.] LUO QH, SUN F, CUI Y, et al., 2018. Interspecific association among main plant species in the unstable slope with high-frequency debris flow[J]. Chin J Appl Environ Biol, 24 (4): 689-696. [罗清虎，孙凡，崔羽，等，2018．泥石流频发流域失稳性坡面主要植物种间关联性[J]．应 用与环境生物学报，24(4)：0689-0696.] LUO QY, WANG YL, DU L, et al., 2021. Plant community diversity and soil factor interpretation of adaptive region of Deschampsia caespitosa in the source region of the Yellow River[J]. Acta Pratact Sci,30(4):80-89.[罗巧玉，王彦龙，杜雷，等，2021．黄河源区发草适生地植物群 落特征及其土壤因子解释[J]．草业学报，30(4)：80-89.] NAQINEZHAD A, JALILI A,ATTAR F, et al., 2009. Floristic characteristics of the wetland sites on dry southern slopes of the Alborz Mts.，N. Iran: The role of altitude in floristic composition[J]. Flora, 204(4):254-269. PAN ZL， 2017. The response of productivity and species diversity to warming and nitrogen addition in Stipa breviflora desert steppe[D]. Hohhot: Inner Mongolia Agricultural University :   \n1-68.[潘占磊,2017．短花针茅荒漠草原生产力与物种多样性对增温和氮素添加的响应[D]. 呼和浩特：内蒙古农业大学：1-68] PCA B, DCK C, D M J，et al., 2019. Classification, description and environmental factors of montane wetland vegetation of the Maloti-Drakensberg region and the surrounding areas - ScienceDirect[J]. S Afr JBot, 25(C):221-233. PARK HG， BARRELET CJ，WU Y， et al.， 2008.A wavelength-selective photonic-crystal waveguide coupled to a nanowire light source[J]. Nat Photonics, 2(10): 622-626. QIN L, SHANG HM, ZHANG TW, et al., 2021. Response comparison of the tree-rings $\\delta ^ { 1 3 } \\mathrm { C }$ to climate on the southern and northern slopes of Tianshan Mountain[J].Acta Ecol Sin, 41 (14):   \n5713-5724.[秦莉，尚华明，张同文，等，2021．天山南北坡树轮稳定碳同位素对气候的响 应差异[J]．生态学报，41(14)：5713-5724.] REN QW,WANG X,LI LD,et al.，2019. Vertical variation of soil physical and chemical properties at different altitudes in Xiaowutai Mountain[J]. J Soil Water Conserv, 33(1): 241-247. [任启文，王鑫，李联地，等，2019．小五台山不同海拔土壤理化性质垂直变化规律[J]．水 土保持学报，33(1)：241-247.] WANG L，XU XL，LIU L，2020. Remotely sensed dataset of grassland degradation on the Qinghai-Tibet Plateau[J].Acta Geogr Sin,69 (S1):159-163.[王靓，徐新良，刘洛，2020．青 藏高原草地退化类型空间分布数据集[J].地理学报，69(S1)：159-163.] WANG LJ,WANG P, SHENG MY,2018. Stoichiometric characteristics of soil nutrient elements and its influencing factors in typical karst rocky desertification ecosystems, Southwest China[J]．Acta Ecol Sin,38(18):6580-6593.[王霖娇，汪攀，盛茂银，2018．西南喀斯特典 型石漠化生态系统土壤养分生态化学计量特征及其影响因素[J]．生态学报，38(18): 6580-6593.]   \nWANG JM,DONG FY,BAHAI N,et al.，2016.Plant distribution paterns and the factors influencing plant diversity in the Black Gobi Desert of China[J]. Acta Ecol Sin,36(12): 3488-3498.[王健铭，董芳宇，巴海·那斯拉，等，2016．中国黑戈壁植物多样性分布格局 及其影响因素[J]．生态学报，36(12)：3488-3498.]   \nWU HB, SHUI HW, HU GZ, et al., 2019. Species diversity and biomass distribution patterns of alpine grassland along an elevation gradient in the northern Tibetan Plateau[J]. Ecol Environ, 028(6):1071-1079.[吴红宝，水宏伟，胡国铮，等，2019.海拔对藏北高寒草地物种多样性 和生物量的影响[J]．生态环境学报，028(6)：1071-1079.]   \nZHANG SX，QIN RM, YANG XY, et al.，2020.Pattrn of species diversity in herbaceous communities at different altitude gradient and their relationships with environmental factors in Luliang Mountains in Shanxi Province,China[J]. Guihaia, 40 (12):1860-1868.[张世雄，秦瑞 敏，杨晓艳，等，2020．山西吕梁山草本群落物种多样性的海拔梯度格局及与环境因子的 关系[J]．广西植物，40(12)：1860-1868.]   \nZHONG JJ, CHEN J, CHEN Q, et al., 2019. Quantitative classification of MRT, CCA ordination, and species diversity along elevation gradients of a natural secondary forest in the Qinling mountains[J].Acta Ecol Sin,39(1):277-285.[钟娇娇，陈杰，陈倩，等，2019.秦岭山地天 然次生林群落MRT数量分类、CCA 排序及多样性垂直格局[J]．生态学报,39(1):277-285.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

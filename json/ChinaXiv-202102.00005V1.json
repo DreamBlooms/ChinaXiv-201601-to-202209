@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "平谱射电类星体在逆康普顿机制中软光子来源的研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘小鹏，王泽睿，杜雷鸣，谢照华，徐云冰，邓雪娇，李海凤1(1．云南师范大学物理与电子信息学院，云南昆明650500；2．南京大学天体和空间中心，江苏 南京 210093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了验证逆康普顿机制中的主导过程，以及主导过程中软光子的起源。我们通过文献收集了75个平谱射电类星体多波段的（准）同时性数据，并利用对数抛物线函数拟合了频谱能量分布，分析同步峰流量与逆康普顿峰之比和多普勒因子的关系，运用自举法计算了样本的种子因子分布用以调查软光子的起源。分析结果如下：(1)、在轻子模型框架下，整个样本与子样本 $\\log \\left( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { s y n } \\right)$ 与log8的显著相关性表明平谱射电类星体的高能辐射优先由外康普顿过程主导。(2)、对于相对低同步峰峰频的种群，观测的种子因子分布与理论上尘埃环的种子因子范围相交表明其逆康普顿过程中的软光子很可能由尘埃环主导，而对于相对高同步峰峰频的种群，观测的种子因子超过了宽线区或尘埃环种子因子的范围，因此我们还无法确定其软光子的来源。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：辐射机制；活动星系核；平谱射电类星体；逆康普顿散射中图分类号：P157.6 文献标识码： 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "耀变体（Blazar）是观测者视线沿相对论性喷流轴向方向观测到的射电噪活动星系核[1]（Radio-Loud Active Galactic Nuclei）的一个子类，包括可以观测到强发射线的平谱射电类星体（Flat-Spectrum Radio Quasar,FSRQ)和观测到弱或者无发射线的蝎虎天体(BLLacerate,BLlac）两个子类2。观测上，耀变体的宽波段辐射是从射电到伽马射线波段的光谱能量分布（Spectral Energy Distribution,SED），在logv－logvFy图上呈现出典型的双峰结构。前人对这个双峰结构进行了大量的研究，在目前应用最为广泛的轻子模型框架下，低能峰被认为是相对论电子的同步辐射（Synchrotron Radiation,syn），高能峰被认为是相对论电子与软光子作用而产生的逆康普顿散射[3]（Inverse Compton cattering,IC）。如果软光子来自同步辐射，称为同步辐射自康普顿模型[4]（Synchrotron Self-Compton,SSC）；如果软光子来自喷流外部，则称为外部康普顿模型（ExternalCompton,EC）。在外康普顿模型的情况下,其软光子可能来源于吸积盘[5]（Accretion Disc,AD)，宽线区[]（Broad-Line Region,BLR）或尘埃环[7]（Dust Torus,DT）。到目前为止，逆康普顿散射的软光子来源仍然无法完全确定下来[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一些研究者认为耀变体的短时标光变现象意味着其辐射产生位置在 BLR 以内[9-10]。在标准的单区轻子模型框架下，无法解释FSRQ源 3C 279[],3C454.3[12]以及 $4 \\mathrm { C } 2 1 . 3 5 ^ { [ 1 3 ] }$ 观测到的甚高能伽马辐射（ $\\geq 1 0 0 \\mathrm { G e V }$ ）现象。利用甚长基线干涉技术[14]（Very-Long BaselineInterferometry,VLBI)对射电辐射进行观测，研究者们发现在射电波段有一些明亮的区域，这些区域被称为射电核，其位置远离中心黑洞，甚至在 DT之外[15]。文[16]Tan 收集了 60个有多波段准同时性数据的FSRQs，在单区模型框架下，IC 机制中同时考虑了BLR 和DT贡献的种子光子，他们发现 FSRQs 的高能辐射来源于 BLR 之外 DT 之内。文[17]Harvey收集了62个有多波段准同时性数据的 FSRQs，在轻子模型的框架下，引入一个参量，基于观测到的多波段 SEDs 去计算双峰结构的峰频频率和通量，来确定blazar 中IC 机制下EC过程中主要的软光子场。他们把这个参量称为种子因子（SeedFactor，SF）。结合运用自举法（Bootstrapping）发现观测的种子因子与期望上来自DT的种子因子在统计上显著一致，与期望上的 BLR不一致。他们研究结果表明IC 机制中的软光子场主要由DT贡献。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，目前仍然无法确定IC辐射的软光子起源，也无法确定辐射产生的位置。在本文中，我们使用包含同时性的大样本从统计视角分析IC机制中软光子的起源。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1样本",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从Feimi4-LAC 活动星系核目录收集了69个有多波段准同时性数据的平谱射电类星体[18]，另外在文献[19]中收集了6个有多波段准同时性数据的平谱射电类星体样本，共 75个平谱射电类星体。我们收集的样本都满足下列条件：有确定的红移；不考虑射电波段的数据，覆盖紫外到伽马射线波段，各个波段相交的观测时间小于2个月，可以构建双峰结构的 SEDs；有可以查到的体洛伦兹因子[20或多普勒因子[9]。在本文中，我们假设体洛伦兹因子与多普勒因子近似相等[21]，使用的磁场（ $\\mathbf { \\nabla } \\cdot \\mathbf { B }$ ）参数由文[16]中的模型拟合得到。我们的样本有一个相对高峰值频率的源（P $\\mathrm { K S } 2 1 4 1 \\substack { + 1 7 5 }$ ， $\\log \\nu _ { s y n } = 1 5 . 0 8 \\mathrm { H z } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分别使用ASDC SED Builder拟合来自 Feimi样本的 SEDs[22],Python拟合提取自文[19]的数据构成的 SEDs。我们用二次函数分别拟合耀变体 SED 的低能峰和高能峰，二次函数表达式为[23]：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\log ( \\nu F \\nu ) = c ( l o g \\nu ) ^ { 2 } + b ( l o g \\nu ) + a\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，a、b和c为常数。我们通过拟合观测数据得到的峰值频率和整个峰的积分光度都是在观测者坐标系下的，为了去除红移的影响，我们需要将这两个量转到AGN静止参考系，转换公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\nu _ { \\mathrm { s y n , I C } } = ( 1 + z ) \\nu _ { \\mathrm { s y n , I C } } ^ { \\mathrm { o b s } } } \\\\ { ( \\nu L _ { \\nu } ) _ { \\mathrm { s y n , I C } } = 4 \\pi D _ { \\mathrm { L } } ^ { 2 } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n , I C } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(2）中， $\\nu _ { \\mathrm { s y n , I C } } ^ { \\mathrm { o b s } }$ 是观测坐标系下的同步峰或逆康普顿峰峰值峰频， $z$ 为红移。式（3）中，$\\mathrm { \\Delta D _ { L } }$ 为光度距离， $( \\nu F _ { \\nu } ) _ { \\mathrm { s y n , I C } }$ 是观测者坐标系下的同步峰或逆康普顿峰的积分流量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1中展示了我们收集的75个样本，第（1）栏，源的名称；第（2）栏，红移；第（3）栏，（准）同时性时间（文[19]中的数据未注明时间）；第（4）栏，取对数后的同步峰峰值频率（以 $\\mathrm { H z }$ 为单位）；第（5）栏，取对数后的同步峰流量（以erg $\\mathrm { c m } ^ { - 2 } s ^ { - 1 }$ 为单位）；第（6）栏，取对数后的同步峰光度（以erg $s ^ { - 1 }$ 为单位）。第（7）栏，取对数后的IC 峰峰值频率（以 $\\mathrm { H z }$ 为单位）；第（8）栏，取对数后的逆康普顿峰流量（以erg $\\mathrm { c m } ^ { - 2 } \\thinspace s ^ { - 1 }$ 为单位）；第（9）栏，取对数的逆康普顿峰光度（以erg $s ^ { - 1 }$ 为单位）；第（10）栏，磁场能量密度（以erg $s ^ { - 3 }$ 为单位）；第（11)栏，体洛伦兹因子（多普勒因子以上角标a注明）；第（12）栏，观测的种子因子。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/68ce826aad876d4294796ad8c78d744c0fa2ac09b9819ace1d4ef2754bc4bd6d.jpg",
+        "table_caption": [
+            "表1样本 Table.1 The sample "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Source name</td><td rowspan=\"2\">Z</td><td rowspan=\"2\">Time</td><td rowspan=\"2\">logvsyn</td><td rowspan=\"2\">log(vFv)syn</td><td rowspan=\"2\">log(vLv)syn</td><td rowspan=\"2\">logvic</td><td rowspan=\"2\">log(vFv)1c</td><td rowspan=\"2\">log (vLv)1C</td><td rowspan=\"2\">UB</td><td rowspan=\"2\">Γ</td><td rowspan=\"2\">SF</td></tr><tr><td></td></tr><tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>（7)</td><td>(8)</td><td>(9)</td><td>(10)</td><td>(11)</td><td>(12)</td></tr><tr><td>PKS 0537-286</td><td>3.104</td><td>2010/3/7-12</td><td>12.10</td><td>-11.471</td><td>47.453</td><td>20.472</td><td>-9.541</td><td>49.383</td><td>0.05218</td><td>12.73</td><td>5.599</td></tr><tr><td>4C +04.42</td><td>0.966</td><td>2010-6-17</td><td>12.41</td><td>-10.738</td><td>46.943</td><td>21.749</td><td>-9.860</td><td>47.821</td><td>0.05361</td><td>12.11</td><td>4.020</td></tr><tr><td>TXS 0653-033</td><td>0.634</td><td>2010-3-31</td><td>12.58</td><td>-10.991</td><td>47.350</td><td>22.854</td><td>-10.201</td><td>47.009</td><td>0.07689</td><td>22.49</td><td>3.119</td></tr><tr><td>PKS 0605-085</td><td>0.872</td><td>2010-6-7</td><td>12.62</td><td>-10.914</td><td>46.635</td><td>22.989</td><td>-10.383</td><td>47.167</td><td>0.10023</td><td>14.94</td><td>2.904</td></tr><tr><td>3C 279</td><td>0.536</td><td>2010-1-15</td><td>12.62</td><td>-9.764</td><td>48.565</td><td>22.141</td><td>-9.173</td><td>47.861</td><td>0.01743</td><td>12.82</td><td>3.694</td></tr><tr><td>PKS 2325+093</td><td>1.841</td><td>2010/6/18-29</td><td>12.64</td><td>-11.133</td><td>47.219</td><td>21.546</td><td>-9.780</td><td>48.572</td><td>0.17865</td><td>26.84</td><td>4.710</td></tr><tr><td>PKS 0215+015</td><td>1.715</td><td>2010/1/29-2010/2/2</td><td>12.67</td><td>-10.419</td><td>47.878</td><td>21.895</td><td>-9.947</td><td>48.350</td><td>0.13171</td><td>25.67</td><td>3.908</td></tr><tr><td>PKS B1921-293</td><td>0.353</td><td>2010-9-30</td><td>12.73</td><td>-9.742</td><td>50.088</td><td>21.151</td><td>-9.764</td><td>46.840</td><td>0.03922</td><td>11.33</td><td>4.467</td></tr><tr><td>S5 1357+76</td><td>1.585</td><td>2010/5/24-2010/5/25</td><td>12.73</td><td>-11.318</td><td>48.842</td><td>22.267</td><td>-10.556</td><td>47.635</td><td>0.08655</td><td>14.34</td><td>3.763</td></tr><tr><td>PKS 1244-255</td><td>0.635</td><td>2010-6-25</td><td>12.74</td><td>-10.472</td><td>46.761</td><td>22.164</td><td>-9.462</td><td>47.771</td><td>0.03841</td><td>10.7</td><td>4.007</td></tr><tr><td>PKS 1730-13</td><td>0.902</td><td>2010-3-14</td><td>12.75</td><td>-10.218</td><td>47.389</td><td>22.946</td><td>-9.190</td><td>48.418</td><td>0.02501</td><td>13.78</td><td>3.261</td></tr><tr><td>3C 446</td><td>1.404</td><td>2010/5/22-27</td><td>12.75</td><td>-10.383</td><td>47.678</td><td>21.818</td><td>-10.028</td><td>48.033</td><td>0.04872</td><td>12.00</td><td>4.048</td></tr><tr><td>3C 454.3</td><td>0.859</td><td>2009/12/4-6</td><td>12.76</td><td>-9.234</td><td>48.299</td><td>22.029</td><td>-8.210</td><td>49.324</td><td>0.19190</td><td>16.95</td><td>4.173</td></tr><tr><td>3C 273</td><td>0.158</td><td>2010/6/7-23</td><td>12.76</td><td>-9.478</td><td>46.334</td><td>20.247</td><td>-8.575</td><td>47.239</td><td>0.04930</td><td>20.87</td><td>5.947</td></tr><tr><td>S3 0827+24</td><td>0.942</td><td>2010/4/18-19</td><td>12.77</td><td>-10.595</td><td>47.512</td><td>20.788</td><td>-11.064</td><td>46.569</td><td>0.09886</td><td>13.71</td><td>4.668</td></tr><tr><td>NRAO 512</td><td>1.66</td><td>2010-8-7</td><td>12.78</td><td>-10.879</td><td>47.383</td><td>22.800</td><td>-9.947</td><td>48.315</td><td>0.07356</td><td>14.87</td><td>3.370</td></tr><tr><td>B2 0743+25</td><td>2.979</td><td>2010-10-15</td><td>12.78</td><td>-11.595</td><td>47.451</td><td>21.697</td><td>-10.192</td><td>48.668</td><td>0.04276</td><td>13.48</td><td>4.722</td></tr><tr><td>TXS 0800+618</td><td>3.033</td><td>2010/4/3-4</td><td>12.79</td><td>-11.479</td><td>47.400</td><td>21.626</td><td>-10.339</td><td>48.539</td><td>0.48790</td><td>15.11</td><td>4.691</td></tr><tr><td>PKS 0454-234</td><td>1.003</td><td>2010/2/24-25</td><td>12.80</td><td>-10.417</td><td>47.304</td><td>22.122</td><td>-10.093</td><td>47.628</td><td>0.03834</td><td>8.66</td><td>3.764</td></tr><tr><td>4C 38.41</td><td>1.814</td><td>2010-3-7</td><td>12.82</td><td>-10.377</td><td>49.673</td><td>22.082</td><td>-9.194</td><td>49.142</td><td>0.06195</td><td>15.33</td><td>4.302</td></tr><tr><td>4C+47.44</td><td>0.735</td><td>2010/7/30-2010/8/1</td><td>12.85</td><td>-10.764</td><td>47.411</td><td>21.808</td><td>-10.093</td><td>47.274</td><td>0.03971</td><td>9.64</td><td>4.280</td></tr><tr><td>OP313</td><td>0.997</td><td>2009/12/12-21</td><td>12.86</td><td>-10.530</td><td>47.163</td><td>22.323</td><td>-9.900</td><td>47.795</td><td>0.19773</td><td>31.22</td><td>3.795</td></tr><tr><td>OK 290</td><td>0.707</td><td>2010/5/7-2010/6/15</td><td>12.88</td><td>-10.721</td><td>47.734</td><td>21.545</td><td>-10.228</td><td>47.098</td><td>0.12912</td><td>14.44</td><td>4.497</td></tr><tr><td>B2 1324+22</td><td>1.4</td><td>2010-3-30</td><td>12.88</td><td>-10.959</td><td>47.100</td><td>21.911</td><td>-10.080</td><td>47.978</td><td>0.06439</td><td>12.06</td><td>4.346</td></tr><tr><td>PKS 2209+236</td><td>1.125</td><td>2009/4/15-21</td><td>12.92</td><td>-10.886</td><td>46.937</td><td>23.142</td><td>-10.488</td><td>47.335</td><td>0.01172</td><td>9.30</td><td>2.817</td></tr><tr><td>OJ535 PKS 1335-127</td><td>1.418 0.539</td><td>2010/3/28-2010/4/8 2010/1/18-26</td><td>12.93 12.94</td><td>-11.219 -10.237</td><td>46.853 47.553</td><td>21.506 21.367</td><td>-10.357 -10.035</td><td>47.715 47.004</td><td>0.05034 0.12695</td><td>12.16 22.62</td><td>4.793 4.567</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a675009951d93e978500f7fea207bf059ec70539f5964e6a497017dc05a0671c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>TXS 2331+073</td><td>0.401</td><td>2009/12/20-21</td><td>12.94 -10.839</td><td></td><td>45.895</td><td>21.569 -10.425</td><td>46.308</td><td>0.34759</td><td>19.93</td><td>4.478</td></tr><tr><td>OI 280</td><td>0.889</td><td>210/4/1-12</td><td>12.95</td><td>-10.419</td><td>47.152</td><td>21.254</td><td>-10.270 47.300</td><td>0.05199</td><td>16.18</td><td>4.669</td></tr><tr><td>B3 0908+41</td><td>2.563</td><td>2010-2-25</td><td>12.97</td><td>-11.400</td><td>47.302</td><td>22.629</td><td>-10.851 47.853</td><td>0.13743</td><td>18.82</td><td>3.464</td></tr><tr><td>PKS 1144-379</td><td>1.048</td><td>2010-6-24</td><td>12.97</td><td>-10.544</td><td>48.150</td><td>22.050 -10.242</td><td>47.505</td><td>0.18700</td><td>20.18</td><td>3.948</td></tr><tr><td>S4 0917+44</td><td>2.19</td><td>2009/10/28-30</td><td>12.97</td><td>-10.710</td><td>47.825</td><td>22.214 -9.701</td><td>48.835</td><td>0.03139</td><td>12.08</td><td>4.179</td></tr><tr><td>0G 505</td><td>1.254</td><td>2010-4-25</td><td>12.98</td><td>-10.839</td><td>47.103</td><td>22.184 -9.870</td><td>48.071</td><td>0.02833</td><td>14.77</td><td>4.223</td></tr><tr><td>TXS 0404+075</td><td>1.133</td><td>2010/2/14-15</td><td>12.99</td><td>-11.052</td><td>46.779</td><td>21.935 -10.437</td><td>47.395</td><td>0.13658</td><td>19.47</td><td>4.274</td></tr><tr><td>PKS 1954-388</td><td>0.63</td><td>2010/4/9-14</td><td>13.02</td><td>-10.456</td><td>50.226</td><td>21.636 -9.857</td><td>47.348</td><td>0.04035</td><td>14.94</td><td>4.621</td></tr><tr><td>PKS 1546+027</td><td>0.414</td><td>2010/2/13-2010/2/20</td><td>13.04</td><td>-10.520</td><td>49.534</td><td>21.411 -10.021</td><td>46.744</td><td>0.29477</td><td>21.52</td><td>4.811</td></tr><tr><td>BZQ J1514+4450</td><td>0.57</td><td>2010-4-6</td><td>13.05</td><td>-11.043</td><td>49.257</td><td>22.111 -10.559</td><td>46.540</td><td>0.03243</td><td>8.30</td><td>4.069</td></tr><tr><td>B2 2319+31</td><td>1.489</td><td>2009-5-20</td><td>13.05</td><td>-11.434</td><td>46.691</td><td>22.734 -10.361</td><td>47.764</td><td>0.05423</td><td>22.10</td><td>3.771</td></tr><tr><td>PMN J2135-5006</td><td>2.181</td><td>2010/4/22-/2010/5/5</td><td>13.05</td><td>-11.854</td><td>50.503</td><td>22.307 -10.431</td><td>48.101</td><td>0.10296</td><td>13.78</td><td>4.409</td></tr><tr><td>PKS B1434+235</td><td>1.548</td><td>2010-6-14</td><td>13.06</td><td>-11.214</td><td>48.980</td><td>22.435 -10.684</td><td>47.483</td><td>0.09691</td><td>17.16</td><td>3.819</td></tr><tr><td>PKS 2345-16</td><td>0.576</td><td>2009/12/4-5</td><td>13.07</td><td>-10.460</td><td>47.533</td><td>22.030 -10.172</td><td>46.937</td><td>0.04487</td><td>17.42</td><td>4.084</td></tr><tr><td>PKS 0436-129</td><td>1.285</td><td>2010-7-1</td><td>13.07</td><td>-11.217</td><td>46.750</td><td>22.341 -10.590</td><td>47.376</td><td>0.04533</td><td>6.30</td><td>3.952</td></tr><tr><td>B3 0650+453</td><td>0.928</td><td>2010/3/22-24</td><td>13.13</td><td>-10.971</td><td>46.645</td><td>22.291 -10.079</td><td>47.538</td><td>0.11962</td><td>17.76</td><td>4.207</td></tr><tr><td>PKS 2255-282</td><td>0.926</td><td>2010/5/20-26</td><td>13.14</td><td>-10.285</td><td>47.329</td><td>21.771 -9.780</td><td>47.835</td><td>0.09318</td><td>16.34</td><td>4.573</td></tr><tr><td>PKS 0541-834</td><td>0.774</td><td>2009/11/8-11</td><td>13.17</td><td>-11.438</td><td>45.985</td><td>22.193 -10.315</td><td>47.106</td><td>0.01701</td><td>11.20</td><td>4.464</td></tr><tr><td>B2 2155+31</td><td>1.488</td><td>2009/7/8-12</td><td>13.23</td><td>-11.160</td><td>46.964</td><td>22.462 -10.132</td><td>47.992</td><td>0.17109</td><td>10.92</td><td>4.222</td></tr><tr><td>B2 1520+31</td><td>1.487</td><td></td><td>13.26</td><td>-13.330</td><td>44.814</td><td>22.339 -11.304</td><td>46.841</td><td>0.04295</td><td>22.62</td><td>4.942</td></tr><tr><td>4C +28.07</td><td>1.213</td><td>2010-2-5</td><td>13.29</td><td>-10.287</td><td>47.492</td><td>21.862 -9.561</td><td>48.343</td><td>0.13513</td><td>16.57</td><td>4.779</td></tr><tr><td>PKS 1406-076</td><td>1.494</td><td>2010-5-23</td><td>13.29</td><td>-10.796</td><td>47.329</td><td>22.239 -10.127</td><td>48.001</td><td>0.01978</td><td>10.82</td><td>4.319</td></tr><tr><td>PKS 2155-83</td><td>1.865</td><td>2010/7/5-17</td><td>13.31</td><td>-11.128</td><td>47.238</td><td>22.107 -9.971</td><td>48.396</td><td>0.02421</td><td>10.70</td><td>4.763</td></tr><tr><td>PKS 1502+106</td><td>1.839</td><td>2010-7-29</td><td>13.33</td><td>-10.721</td><td>49.119</td><td>22.810 -9.156</td><td>49.195</td><td>0.00408</td><td>25.09</td><td>4.290</td></tr><tr><td>B2 1846+32A</td><td>0.798</td><td>2010/10/6-19</td><td>13.35</td><td>-10.695</td><td>49.949</td><td>21.509 -9.987</td><td>47.466</td><td>0.06763</td><td>12.86</td><td>5.116</td></tr><tr><td>B3 1708+433</td><td>1.027</td><td>2009/12/1-2</td><td>13.39</td><td>-10.971</td><td>49.811</td><td>22.131 -9.971</td><td>47.756</td><td>0.04488</td><td>11.30</td><td>4.682</td></tr><tr><td>PMN 2345-1555</td><td>0.621</td><td>2010/4/1-30</td><td>13.40</td><td>-10.583</td><td>47.390</td><td>22.707</td><td>-10.029 47.160</td><td>0.33164</td><td>25.46</td><td>3.892</td></tr><tr><td>PMN J1959-4246</td><td>2.178</td><td>2010/4/5-14</td><td>13.41</td><td>-11.076</td><td>50.365</td><td>22.173 -10.082</td><td>48.447</td><td>0.12192</td><td>17.16</td><td>4.674</td></tr><tr><td>PKS 0420-01</td><td>0.916</td><td>2009-8-27</td><td>13.41</td><td>-9.762</td><td>47.840</td><td>22.218</td><td>-9.625 47.978</td><td>0.05968</td><td>12.43</td><td>4.209</td></tr><tr><td>PKS 1203-26</td><td>0.789</td><td>2010/11/1-2010/12/31</td><td>13.43</td><td>-10.932</td><td>48.288</td><td>21.246</td><td>-10.346 47.097</td><td>0.04521</td><td>12.40</td><td>5.437</td></tr><tr><td>PKS 0906+01</td><td>1.024</td><td>2010/4/18-2010/5/5</td><td>13.44</td><td>-10.556</td><td>47.167</td><td>21.426</td><td>-9.535 48.187</td><td>0.19362</td><td>15.32</td><td>5.503</td></tr><tr><td>PKS 1510-089</td><td>0.36</td><td></td><td>13.45</td><td>-12.256</td><td>44.388</td><td>22.138 -11.077</td><td>45.567</td><td>0.07864</td><td>12.08</td><td>4.884</td></tr><tr><td>MG2 J110606+2812</td><td>0.843</td><td>2010/2/07-2010/3/07</td><td>13.46</td><td>-10.842</td><td>48.011</td><td>21.994</td><td>-10.358 47.156</td><td>0.05902</td><td>17.42</td><td>4.652</td></tr><tr><td>4C+29.45</td><td>0.724</td><td>2010/5/28-2010/6/11</td><td>13.49</td><td>-10.337</td><td>47.014</td><td>22.319</td><td>-9.721 47.630</td><td>0.05231</td><td>25.90</td><td>4.433</td></tr><tr><td>MG2 J071354+1934</td><td>0.54</td><td>2009/12/15-17</td><td>13.51</td><td>-10.613</td><td>47.472</td><td>22.323 -10.061</td><td>46.980</td><td>0.15308</td><td>15.76</td><td>4.400</td></tr><tr><td>PMN J2145-3357</td><td>1.361</td><td>2009/9/22-24</td><td>13.52</td><td>-10.991</td><td>50.642</td><td>23.086</td><td>-10.378 47.650</td><td>0.00067</td><td>14.43</td><td>3.641</td></tr><tr><td>PKS 0601-70</td><td>2.409</td><td>2008/12/1-30</td><td>13.58</td><td>-10.924</td><td>47.714</td><td>22.717</td><td>-10.143 48.494</td><td>0.00129</td><td>33.06a</td><td>4.195</td></tr><tr><td>OC 457</td><td>0.859</td><td>-</td><td>13.60</td><td>-11.726</td><td>45.829</td><td>22.652 -11.588 21.974</td><td>45.967 -10.287 47.478</td><td>0.00032 0.00312</td><td>21.45a 20.63</td><td>3.916 5.047</td></tr><tr><td>PKS B1035-281 PKS 0347-211</td><td>1.066 2.944</td><td>2010/1/22-23</td><td>13.62 13.66</td><td>-11.118 47.873 -12.267 46.602</td></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc836762413119205f0bf6fac753a07267de6eb1dcf232ec3dce8220b15ea11f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>4C+55.17</td><td>0.896</td><td>2009/10/31-2009/11/2</td><td>13.82</td><td>-10.658</td><td>47.431</td><td>24.289</td><td>-9.682</td><td>47.897</td><td>0.00175</td><td>14.94</td><td>2.945</td></tr><tr><td>GB6 J0654+5042</td><td>1.253</td><td>2010-1-15</td><td>14.01</td><td>-10.910</td><td>47.030</td><td>23.221</td><td>-10.354</td><td>47.586</td><td>0.00141</td><td>14.77</td><td>3.965</td></tr><tr><td>PKS 1454-354</td><td>1.424</td><td></td><td>14.11</td><td>-12.441</td><td>45.656</td><td>22.441</td><td>-11.153</td><td>46.945</td><td>0.00299</td><td>16.00</td><td>5.290</td></tr><tr><td>PKS 2141+175</td><td>0.213</td><td></td><td>15.08</td><td>-11.710</td><td>44.412</td><td>23.918</td><td>-11.580</td><td>44.542</td><td>0.00308</td><td>10.00</td><td>4.114</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1同步与逆康普峰的流量比和多普勒因子",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "文[24]使用均匀的单区轻子模型进行分析，他们假设了电子是以截断幂律谱的形式注入到相对论性运动的等离子体团中，注入电子会随着时间演化。多波段的辐射全部来自这个以相对论性速度运动的致密辐射区。他们通过研究发现，如果IC过程是由EC过程占主导，则EC过程贡献的流量和同步峰流量的关系近似如下[24],",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } } { U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { s \\mathrm { y n } } } \\approx \\delta ^ { 1 + \\alpha } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $U _ { \\mathrm { B } } = B ^ { 2 } / 8 \\pi$ 是磁场能量密度， $U _ { \\mathrm { e x t } }$ 是外部光子的能量密度， $\\delta$ 是多普勒因子， $\\alpha$ 是光子谱指数， $B$ 是磁场。假设 $U _ { \\mathrm { e x t } }$ 是恒定的[17]，常数通常会离散数据，并不会影响相关性的分析。因此，（2)式可以预测IC 峰流量与同步峰流量的比值和多普勒因子之间的相关性。如果IC 过程是由 SSC 过程主导，那么 SSC 过程产生辐射的流量和同步辐射的流量之比，可以写成[24]：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\frac { ( \\nu F _ { \\nu } ) _ { \\mathrm { S S C } } } { ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } } \\approx \\frac { 2 } { 3 } ( \\sigma _ { \\mathrm { T } } n _ { e o } r _ { \\mathrm { b } } ) ( \\frac { \\epsilon _ { s } } { \\epsilon _ { \\mathrm { c } } } ) ^ { ( \\alpha - 1 ) } \\mathrm { l n } \\overline { { \\Sigma } } _ { \\mathrm { C } } ( \\epsilon _ { \\mathrm { C } } ) \\propto n _ { e o } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\sigma _ { \\mathrm { T } }$ 是汤姆森散射截面， $n _ { e o }$ 是非热辐射电子数密度的归一化因子， $r _ { \\mathrm { b } }$ 是辐射区的半径，$\\epsilon _ { s }$ 是同步峰分量定义的上限， $\\epsilon _ { \\mathrm { c } }$ 是高能康普顿分量定义范围的上限， $\\overline { { \\Sigma } } _ { \\mathrm { { C } } }$ 是转换后康普顿-同步的对数形式。此时，我们预期IC 峰流量与同步峰流量的比值和多普勒因子之间没有相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图1中展示了整个样本 $\\log \\left( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { s y n } \\right)$ 与 $\\log \\delta$ 的相关性。斯皮尔曼测试显示置信水平 $\\scriptstyle \\mathtt { p = 0 . 0 0 0 3 }$ （阈值 $p = 0 . 0 5$ ）以及相关系数 $\\scriptstyle \\mathrm { R = 0 . 4 7 0 }$ 。我们用最小二乘法做线性回归得到的结果为 $\\log \\bigl ( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } \\bigr ) = ( 2 . 4 0 \\pm 0 . 3 6 ) \\log \\delta + ( - 4 . 7 6 \\pm 0 . 4 3 )$ 。上述结果表明，FSRQs中IC 机制主要由EC过程主导。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d70ebd3036931fce936539c14c3e689921dec44f7a975431812fd8646c71126d.jpg",
+        "img_caption": [
+            "图1整个样本 $\\mathrm { o g } \\big ( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\scriptscriptstyle \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\scriptscriptstyle \\mathrm { s y n } } \\big )$ 与logδ的相关性分析，实线表示最佳拟合。 Fig.1 The correlation for the whole sample between $\\log \\left( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\scriptscriptstyle \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { s y n } \\right)$ and logδ.The solid line is the best linear fitting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据文[25]的说法，同步峰峰值频率可能跟粒子能被加速到达的最大能量有关。对于目前更为常见的LSP/ISP/HSP 分类法[2]，他们发现统计上FSRQs大部分属于LSPs，并且同步峰峰值频率集中在 $\\mathrm { \\ l o g v { s y n } \\approx { 1 3 . 3 } H z }$ ，还有逆康普顿散射发生在汤姆逊区域（TheThomsonregime）。所以在本文中，我们想要确定是否我们样本中不同峰频的FSRQ 也有一些物理上的不同，因此我们按照同步峰峰值频率集中在 ${ \\sim } 1 3 . 3 \\mathrm { H z }$ 把我们的样本分成了两个子样本，即相对低同步峰峰频种群（ $1 2 . 1 0 \\mathrm { H z } < \\mathrm { l o g } v _ { \\mathrm { s y n } } < 1 3 . 0 5 \\mathrm { H z }$ ，包含 38个源，称低峰频种群）与相对高同步峰峰频种群（ $1 3 . 0 5 \\mathrm { { H z } < \\log { v _ { \\mathrm { { s y n } } } } < 1 4 . 1 1 \\mathrm { { H z } } }$ ，包含37个源，称高峰频种群）。图2中分别展示了两个种群 $\\log ( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } )$ 与 $\\log \\delta$ 的相关性。低峰频的种群，斯皮尔曼测试显示置信水平 $\\scriptstyle \\mathtt { p } = 0 . 0 1 3$ 以及相关系数 $\\scriptstyle \\mathrm { R = 0 } . 5 2 0$ 。我们用最小二乘法做线性回归得到的结果为 $\\log \\bigl ( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } \\bigr ) = ( 2 . 1 3 \\pm 0 . 4 5 ) \\log \\delta +$ $( - 4 . 4 8 \\pm 0 . 5 5 )$ 。高峰频的种群，斯皮尔曼测试显示置信水平 $\\scriptstyle \\mathtt { p = 0 . 0 0 8 }$ 以及相关系数 $\\scriptstyle 1 = 0 . 4 3 3$ 我们用最小二乘法做线性回归得到的结果为 $\\log \\left( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } \\right) = ( 2 . 7 2 \\pm$ $0 . 5 8 ) \\mathrm { l o g } \\delta + ( - 5 . 0 9 \\pm 0 . 6 9 )$ 。上述分析结果表明，在分成两个子样本进行研究得到的结果与整个样本的结果没有明显差异，表明在FSRQs 样本中，IC机制主要由EC 过程主导。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/296bc20b5a733f9d7dc930ec29b25084e73f240f1f62c93042634443187823c6.jpg",
+        "img_caption": [
+            "图2两个种群 $\\mathrm { o g } \\big ( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\scriptscriptstyle \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\scriptscriptstyle \\mathrm { S y n } } \\big ) .$ 与logδ的相关性分析。左图为低峰频种群（ $1 2 . 1 0 \\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 3 . 0 5 \\mathrm { H z } \\rangle$ 包含38个"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "源，右图为高峰频种群 $1 2 . 1 0 \\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 3 . 0 5 \\mathrm { H z } \\rangle$ ，包含 37个源。实线表示最佳拟合。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 The correlation for two populations between $\\log \\left( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } \\right)$ and $\\log \\delta$ .The left panel is the low frequency peak populations $( 1 2 . 1 0 \\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 3 . 0 5 \\mathrm { H z } )$ containing 38 sources,and the right panel is the high frequency peak populations (13.05 $\\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 4 . 1 1 ~ \\mathrm { H z }$ containing of 37 sources.The solid line is the best linear fiting. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 种子因子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在上一节的研究中，我们发现FSRQs的IC 辐射都是由EC过程主导的，在EC过程中存在多种软光子起源，例如吸积盘（accretion disk,AD），宽线区（broad-line region,BLR）和尘埃环（dust torus,DT）等。为了进一步调查其软光子的来源。我们使用文[17]Harvey提出的自举法（bootstrapping）去计算低、高峰频种群的观测的种子因子分布（seed factordistribution）（数值见表1）。计算种子因子的表达式为[7]：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { S F } = \\log 1 0 \\left( \\frac { U _ { \\mathrm { e x t } } ^ { 1 / 2 } } { \\epsilon _ { 0 } } \\right) = \\log 1 0 \\left( 3 . 2 2 \\times 1 0 ^ { 4 } \\frac { C D ^ { 1 / 2 } \\nu _ { \\mathrm { s y n , 1 3 } } } { \\nu _ { \\mathrm { I C , 2 2 } } } \\right) \\mathrm { G a u s s } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其中， $U _ { \\mathrm { e x t } }$ 是喷流外部光子能量密度（在CGS 制下）； $\\epsilon _ { 0 }$ 是外部光子的特征能量（以静止电子的能量为单位）； $\\boldsymbol { c D }$ 是康普顿主导（ $C D = ( \\nu L \\nu ) _ { \\mathrm { I C , p e a k } } / ( \\nu L \\nu ) _ { s \\mathrm { y n , p e a k } }$ ，即IC 峰的峰值光度与同步峰的峰值光度的比值,以10为单位); $\\nu _ { \\mathrm { s y n } , 1 3 }$ 是同步峰的峰值频率（以 $1 0 ^ { 1 3 }$ 为单位）； $\\nu _ { { \\mathrm { I C } } , 2 2 }$ 是IC 峰的峰值频率（以 $1 0 ^ { 2 2 }$ 为单位）。BLR 和 DT 理论上期望的种子因子分布，是通过（6）式的外部光子场及外部光子特征能量进行估算的。我们采用Harvey 给出的范围，即： $\\mathrm { S F _ { B L R } } = 3 . 2 9 \\pm 0 . 1 1$ ： $\\mathrm { S F _ { D T } } = 3 . 9 2 \\pm 0 . 1 1$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "我们使用双侧柯尔莫戈洛夫检验（two-sided Kolmogorov-Smirnov test）对各个样本的种子因子分布进行了正态性检验。我们发现在低、高峰频种群中均不能拒绝正态性假设。在低峰频种群中，拒绝正态性假设的显著性为 $0 . 3 7 \\sigma \\ ( \\mathrm { p = } 0 . 7 1 )$ ；而在高峰频种群，拒绝正态性假设的显著性为0.01σ（ $\\scriptstyle \\mathtt { p = 0 . 9 9 }$ ）均小于 $2 \\sigma$ 的置信水平。因此，这些样本的种子因子分布服从正态分布。与Harvey的研究一致。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于自举法，我们从低、高峰频种群中观测的种子因子分布分别构建了观测种子因子的大样本（低峰频种群 $3 8 \\times 1 0 ^ { 4 }$ 个，高峰频种群 $3 7 \\times { 1 0 } ^ { 4 }$ 个），分别从大样本中构建 ${ 1 0 } ^ { 4 }$ 个包含相同源数目的替代样本。使用替代样本，分别估算了不同种群中观测的种子因子分布的中位数（ $0 \\mathrm { b s } _ { \\mathrm { m e d i a n } }$ 及 $2 \\sigma$ 置信区间，即：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图3中展示了两个种群的种子因子分布直方图，并且标注了理论上期望的宽线区种子因子和尘埃环种子因子分布。从图3上，可以发现直方图峰值处靠近尘埃环的位置。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e9cbc1ad9bc40bf8c8d9637e4add8edbd7ce93b169456be881d2a90773459fd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图3 两个种群的种子因子分布直方图。左图是低峰频种群 ( $1 2 . 1 0 \\mathrm { H z } < \\log \\nu _ { \\mathrm { s y n } } < 1 3 . 0 5 \\mathrm { H z } )$ ，包含 38个种子因子；右图是高峰频种群 $( 1 3 . 0 5 \\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 4 . 1 1 \\mathrm { H z } )$ ，包含37个种子因子。直方图用黑色区域展示。蓝色实线和虚线分别表示理论上的宽线区种子因子及范围。黄色实线和虚线分别表示理论上尘埃环的种子因子及范围。直方图的区间是由 matplotlib.pyplot.hist自动选择的。从两幅直方图上，可以发现在直方图的峰值处靠近尘埃环的位置。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Histogramof two populations observed seed factor.The left panelis the low frequencypeak populations (12.10 $\\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 3 . 0 5 \\ \\mathrm { H z }$ containing the seed factor of38 sources,and the right panel is the high frequency peak populations (13.05   \n$\\mathrm { H z < l o g } \\nu _ { \\mathrm { s y n } } { < } 1 4 . 1 1 \\ \\mathrm { H z } ,$ containing the seed factorof37sources.The histogram is ploted in black.The expected broad-lineregion seed   \nfactorandrangeareshowninblue,withsolidanddashedlinesrespectively.Theexpecteddusttorusseedfactorandrangeareshown   \ninyellow,withsolidanddashedlines,respectively.Thehistogramwasbinnedusingtheautooptionforthematplotlib.pylot.hist. As can beseen from this histogram,theseed factor distributionpeaks closeto the seed factordistributionofdust torus. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "种子因子分布的直方图，没有包含估计的不确定性。为了包含估计的不确定性，基于自举法实现了低、高峰频种群的核密度估计（kernel density estimation，KDE）。运用Silverman's Rule[27]对 KDE中的带宽自动进行了平滑处理[17]。图4展示了两个种群的核密度估计。在图4中，左图为低峰频种群，发现观测的种子因子分布与尘埃环的分布相交，表明软光子很可能由尘埃环主导；右图为高峰频种群，发现观测的种子因子分布与理论上的种子因子分布不相交，表明软光子可能不是由宽线区或尘埃环单一主导。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d428be98d2b5f9d13bf49725b45ff29429abd0b76f97eab9aca029ed9f0d7acf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图4两个种群的核密度估计。左图是低峰频种群（ $1 2 . 1 0 \\mathrm { H z } < \\log \\nu _ { \\mathrm { s y n } } < 1 3 . 0 5 \\mathrm { H z } )$ ，包含 38个源的种子因子，右图是高峰频种群（ $ { ^ { \\circ } } 1 3 . 0 5  { \\mathrm { H z } } <  { \\mathrm { l o g } } \\nu _ { \\mathrm { s y n } } < 1 4 . 1 1  { \\mathrm { H z } } )$ ，包含37个种子因子。黑色实线是核密度估计曲线，灰色区域是为了视觉辅助。蓝色实线和虚线分别表示期望上种子因子及范围；黄色实线和虚线分别表示期望上的尘埃环种子因子及范围；绿色实线和虚线分别表示观测上的种子因子中位数及2o置信区间。外观上，核密度估计近似一个正态分布。在 $2 \\sigma$ 的置信水平下，双侧柯尔莫戈洛夫检验显示均不能拒绝正态性假设，从左到右拒绝正态性假设的显著性分别为 $0 . 3 7 \\sigma$ （ $\\scriptstyle \\cdot = 0 . 7 1$ ）和 $0 . 0 1 \\sigma$ （ $\\scriptstyle \\cdot = 0 . 9 9$ ）。Fig.4 Kernel density estimate of two populations.The left panel is the low frequency peak populations $( 1 2 . 1 0 \\mathrm { H z } { < } \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } { < } 1 3 . 0 5 \\mathrm { H z } )$ （204containing the seed factor of 38 sources,and the right panel is the high frequency peak populations $( 1 3 . 0 5 \\mathrm { H z } < \\mathrm { l o g } \\nu _ { \\mathrm { s y n } } < 1 4 . 1 1 \\mathrm { H z } )$ （204号containingthesedfactorof37sources.Theblacksolidlineisthekeeldensityestimation,andthegrayareaisthevisuald.Theexpectedbroad-lineregionseedfactorandrangeareshoninlue,withsolidanddashedlinesrespectively.Theexpecteddustousseed factorandrange areshowninyellow,withsolidand dashedlines,respectively.The medianofobserved seed factorand $2 \\sigma$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "confidencintervalaresowningee,withsolidndasedlines,espectivelyheKDEhasteeneralappearanceofoal distribution.Atwo-sidedKolmogorov-Smimovtestindicatesthat normalitycannotberejectedsignificantly(usingarejection significance threshold of 2o), with rejection significance of $0 . 3 7 \\sigma$ $\\mathrm { \\langle p = 0 . 7 1 }$ and $0 . 0 1 \\sigma$ L $\\mathrm { { \\dot { p } } = 0 . 9 9 }$ )fromlefttoright,respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了进一步检验观测的种子因子分布是与宽线区还是尘埃环位置对应，我们分别计算了低、高峰频种群中观测种子因子分布与理论上期望的种子因子分布之间的拒绝中位数相等的显著性。在标准差方面，对于低峰频种群，拒绝的显著性为：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sigma ( 0 \\mathrm { b } \\mathrm { s } _ { \\mathrm { m e d i a n } } - \\mathrm { B L R } _ { \\mathrm { m e d i a n } } ) = 8 . 2 8 \\sigma } \\\\ { \\sigma ( 0 \\mathrm { b } \\mathrm { s } _ { \\mathrm { m e d i a n } } - \\mathrm { D T } _ { \\mathrm { m e d i a n } } ) = 2 . 5 5 \\sigma \\ } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "而在高峰频种群，拒绝的显著性为：",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\sigma ( 0 \\mathrm { { b s } _ { m e d i a n } - B L R _ { m e d i a n } ) = 1 0 . 3 9 \\sigma } } \\\\ { \\sigma ( 0 \\mathrm { { b s } _ { m e d i a n } - \\ D T _ { m e d i a n } ) = 4 . 6 6 \\sigma } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "因此，低峰频中观测的种子因子分布与理论上期望的DT种子因子分布的拒绝显著性最小，表明低峰频种群中软光子的起源应该很可能是由尘埃环主导的。而高峰频种群中虽然观测种子因子分布和DT种子因子分布的显著性比与BLR种子因子分布的拒绝显著性小，但是 KDE 显示出明显差异，表明软光子的起源对于尘埃环或许不是单一的位置，软光子可能有 BLR 和DT 的贡献。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3讨论与总结 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们研究发现无论是整个样本还是按数量均分的两个子样本，在$\\log \\left( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { B L R } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } \\right)$ 和logδ之间的相关性方面，图1与图2没有表现出明显的差异。这就表明，轻子模型的框架下，FSRQs 中的IC 机制很有可能由 EC 过程主导。图1中包含了75个FSRQs，而图2左和右分别包含了38和37个FSRQs，图上的数据分布两者均存在一定的弥散,这从某种程度上会削弱我们的结论。随着越来越多观测设备的加入，未来可以收集到更多的样本进一步的验证轻子模型框架下，高能辐射的主导过程。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "种子因子的计算基于多波段 SEDs 的拟合，要求宽带辐射没有明显的光变现象[17]。我们使用Harvey 提出运用自举法估算观测种子因子分布的方法去计算我们样本的种子因子。图3的直方图展示了观测的种子因子分布，该直方图没有包含估计的不确定性，图4的核密度估计包含了估计的不确定性。从图3可以发现，观测的种子因子分布集中在峰频位置，而图4的KDE 曲线同样展示了相同的结果，并且展示了由我们的样本计算得到观测的种子因子分布与Harvey 理论上期望的种子因子分布之间的差异。从图4（左）可以发现，观测的种子因子分布在统计上与DT 种子因子分布的范围相交，表明在低峰频的种群中软光子很可能由尘埃环主导。从图4（右）可以发现，观测的种子因子分布超过了理论上期望的宽线区和尘埃环种子因子分布的范围，表明在高峰频种群中DT很可能不是主导软光子的单一位置，可能有BLR 和DT共同的贡献。Harvey 的研究发现FSRQs 的辐射区与 DT的位置在统计上一致，表明软光子主要是DT的贡献。与Harvey 的研究结果相比，我们的样本在不同种群中显示出了不同的结果。图3的直方图分别包含38个和37个种子因子，因此统计上计算的种子因子偏少，会削弱我们的结论，希望未来进一步增加同时性样本，并且使用不同方法获得的观测量来作进一步分析验证。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文从统计上研究了75个平谱射电类星体中软光子的起源。通过相关性分析，结果表明平谱射电类星体的IC机制很可能由EC过程主导。运用种子因子分布进一步检验了EC过程中软光子的来源，结果表明不同的种群在统计上有不同的结果。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "致谢：我们感谢匿名老师提出宝贵的建议与帮助。感谢Harvey博士在种子因子方面的帮助。  \n这项工作得到了国家自然科学天文联合基金（U1431123，10973034）的资助。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Urry C M.unified schemes for radio-loud active galactic nuclei[J]. publications of the astronomical society of the pacific,1995.   \n[2] Roger,D,Blandford,et al. Extended and Compact Extragalactic Radio Sources: Interpretation and Theory[J]. Physica Scripta, 1978.   \n[3]Bottcher M. Modeling the emission processes in blazars[J]. Astrophysics and Space Science,2007,1(309): 95-104.   \n[4]Bloom S D ,Marscher A P .An Analysis of the Synchrotron Self-Compton Model for the Multi--Wave Band Spectra of Blazars[J]. Astrophysical Journal,1996, 461(2Pt1):657.   \n[5]Dermer CD,Schlickeiser R .Model for the High-Energy Emission from Blazars[J]. Astrophysical Journal, 1993, 416(2):458.   \n[6]Sikora, Marek, Begelman, et al. Comptonization of diffuse ambient radiation by a relativistic jet: The source of gamma rays from blazars?[J]. ApJ, 1994, 421:153-153.   \n[7] Castignani, G, De, et al. AGN torus emission for a homogeneous sample of bright flat-spectrum radio quasars[J]. Astronomy and astrophysics, 2015, 573(Pt.1).   \n[8] Patio-Lvarez V M，Fernandes S，Chavushyan V ，et al. Multiwavelength Photometric and Spectropolarimetric Analysis of the FSRQ 3C 279[J]. Monthly Notices of the Royal Astronomical Society(2):2037-2064.   \n[9] Tavecchio F,Ghisellini G，Bonnoli G,et al. Constraining the location of the emitting region in Fermi blazars through rapid $\\gamma$ -ray variability[J]. Monthly Notices of the Royal Astronomical Society: Letters, 2010, 405(1): L94-L98.   \n[10] Ramakrishnan V, Hovatta T, Nieppola E, et al. Locating the $\\gamma$ -ray emission site in Fermi/LAT blazars from correlation analysis between $3 7 ~ \\mathrm { G H z }$ radio and $\\gamma$ -ray light curves[J]. Monthly Notices of the Royal Astronomical Society，2015，452(2): 1280-1294.   \n[11] Albert J, Aliu E, Anderhub H, et al. Very-high-energy gamma rays from a distant quasar: how transparent is the universe?[J]. Science, 2008, 320(5884): 1752-1754.   \n[12] Tavecchio F,Ghisellini G，Bonnoli G,et al. Constraining the location of the emitting region in Fermi blazars through rapid $\\gamma$ -rayvariability[J].Monthly Notices of the Royal Astronomical Society: Letters,2010, 405(1): L94-L98.   \n[13] Aleksic J, Antonelli L A, Antoranz P, et al. MAGIC discovery of very high energy emission from the FSRQ PKS $1 2 2 2 +$ 21[J]. The Astrophysical Journal Letters, 2011, 730(1): L8.   \n[14]张浩,张娟,刘磊,郑为民,芮萍.空间VLBI数据记录格式 RDF 解析与数据解码[J]. 天文研究与技术,2020,17(02):163-170.   \n[15] Marscher A P, Jorstad S G,Larionov V M, et al. Probing the inner jet of the quasar PKS 1510-O89 with multi-waveband monitoring during strong gamma-ray activity[J]. The Astrophysical Journal Letters, 2010, 710(2): L126.   \n[16] Tan C, Xue R,Du L M, et al. The Physical Properties of Fermi-4LAC Flat Spectrum Radio Quasars[J]. The Astrophysical Journal Supplement Series, 2O2O, 248(2): 27.   \n[17] Harvey A L W, Georganopoulos M,Meyer E T.Powerful extragalactic jets dissipate their kinetic energy far from the central black hole[J]. Nature communications,2020, 11(1): 1-5.   \n[18] Abdollahi S,Acero F,Ackermann M, et al. Fermi Large Area Telescope Fourth Source Catalog[J]. The Astrophysical Journal Supplement Series,2O20, 247(1): 33.   \n[19] Hu W, Dai B Z, Zeng W, et al. The properties of jet in luminous blazars under the equipartition condition[J]. New Astronomy, 2017, 52: 82-95.   \n[20] Xiong D R, Zhang X. The connections between bulk Lorentz factor, black hole mass and accretion in Fermi FSRQs[J]. Astrophysics and Space Science,2014, 352(2): 809-818.   \n[21] Maraschi L,Tavecchio F. The jet-disk connection and blazar unification[J]. The Astrophysical Journal, 2003, 593(2): 667.   \n[22] Stratta G, Capalbi M, Giommi P, et al. The ASDC SED Builder Tool description and tutorial[J]. arXiv preprint arXiv:1103.0749, 2011.   \n[23] 彭瑞,谢照华,薛瑞,王泽睿,罗丹,黄红艳,徐云冰,刘文广,易庭丰,谭灿,刘小鹏,杜雷 鸣.费米耀变体峰值参量、康普顿主导、谱指数之间相关性的研究[J].天文研究 与技术,2019,16(04):401-409.   \n[24] Dermer C D, Sturner S J, Schlickeiser R. Nonthermal Compton and synchrotron processes in the jets of active galactic nuclei[J]. The Astrophysical Journal Supplement Series,1997,109(1): 103.   \n[25] Padovani P,Giommi P. The connection between X-ray-and radio-selected BL Lacertae objects[J]. The Astrophysical Journal, 1995, 444: 567-581.   \n[26] Abdo A A, Ackermann M, Agudo I, et al. The spectral energy distribution of Fermi bright blazars[J]. The Astrophysical Journal, 2010,716(1): 30.   \n[27] Silverman B W. Density estimation for statistics and data analysis[M]. CRC press, 1986. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Study on the origin of soft photons for the inverse Compton mechanism in flat-spectrum radio quasars ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Liu Xiaopeng1, Wang Zerui²,Du Leiming1, Xin Zhaohua', Xu yunbing1, Deng Xuejiaol,Li Haifeng1 (1.Schoolofpysicsadelectronic iformation,YunanNoralUiversityKunming6ooo,China.2.hoolofAstrooyd ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To verify dominating processes in the inverse Compton mechanism and the origin of soft photons in the dominating processes. We collected multi-wavelength (quasi-)simultaneity data of 75 flat-spectrum radio quasars from the literature.We fited the spectral energy distribution using logarithmic parabolic functions, then analyzed three correlations for the whole sample,the subsamples of two bins,respectively. The research results are summarizedasfollows.（1）Wefindsignificantcorrelations of $\\log ( U _ { \\mathrm { B } } ( \\nu F _ { \\nu } ) _ { \\mathrm { E C } } / U _ { \\mathrm { e x t } } ( \\nu F _ { \\nu } ) _ { \\mathrm { s y n } } )$ and logδ for the whole sample and subsamples of two bins, respectively. Our results show that the inverse Compton mechanism of the flat-spectrum radio quasar is preferentially dominant by the external Compton process under the leptonic model. (2) Based on the Bootstrap to calculate observed seed factor distribution, we apply this method to constrain the origin of soft photons of the dominant process of inverse Compton mechanism. The observed seed factor distribution suggests that soft photons are likely to be dominated by dust torus for populations with relatively low synchrotron peak frequencies.But, we cannot determine the origin of soft photons of the dominant process of inverse Compton mechanism for populations with relatively high synchrotron peak frequencies. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words: Jet-radiation mechanisms； Active-galaxies; Flat-spectrum radio quasar; InverseCompton scattering",
+        "page_idx": 11
+    }
+]

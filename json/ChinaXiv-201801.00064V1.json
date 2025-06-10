@@ -1,0 +1,503 @@
+[
+    {
+        "type": "text",
+        "text": "基于地形因子和随机森林的丘陵区农田土壤有效铁空间分布预测",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨其坡1,3；武伟 2.3；刘洪斌1,3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．西南大学资源环境学院重庆400716;2.西南大学计算机与信息科学学院重庆400715;3.重庆市数字农业重点实验室重庆400716)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了掌握丘陵地区农田土壤有效铁含量及其空间分布，本文以重庆市江津区永兴镇内同源成土母质的典型丘陵(2$ { \\mathrm { k m } } ^ { 2 } ,$ 为研究区，采集309个土壤样点，利用普通克里格(Ordinary Kriging,OK)、多元线性回归(Multiple Linear Regresion，MLR)、随机森林(RandomForest,RF)模型，结合高程、坡度、坡向、谷深、平面曲率、剖面曲率、汇聚指数、相对坡位指数、地形湿度指数等地形因子对土壤有效铁进行空间分布预测，并通过85个验证点评价、筛选预测模型。结果表明:(1)土壤有效铁与谷深、地形湿度指数存在极显著水平正相关关系，与坡度、平面曲率、剖面曲率、汇聚指数、相对坡位指数存在极显著水平负相关关系;(2)随机森林模型的预测精度明显高于多元线性回归和普通克里格插值，其平均绝对误差为 $2 2 . 3 3 ~ \\mathrm { m g { \\cdot k g ^ { - 1 } } }$ 均方根误差为 $2 7 . 9 8 ~ \\mathrm { m g { \\cdot k g ^ { - 1 } } }$ 、决定系数为0.76，是研究区土壤有效铁含量空间分布的最适预测模型;(3)地形湿度指数和坡度是影响该区域土壤有效铁含量空间分布的主要地形因子。可见，基于地形因子的随机森林预测模型可以较好地解释丘陵区农田土壤有效铁含量的空间变异，研究结果为丘陵区土壤中、微量元素含量及空间分布预测提供方法借鉴和理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：地形因子；随机森林模型；土壤有效铁；空间分布预测中图分类号：S158.9 文献标志码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prediction of spatial distribution of soil available iron at a typical hilly farmland based on terrain attributes and random forest model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANG Qipo1.3, WU Wei2.3,LIU Hongbin1,3\\*\\*   \n(1.CollgofesourceandEviroment,SouthestUiversityCongqg401,hina;.CollegeofComputeradfatio   \nScience,SouthwestUniversityChongqing 40o15,China;3.ChongqingKeyLaboratoryofDigitalAgriculture,Chongqing40716, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:SoilavailableonisssentialtoplantgrowthTeetailednformationaboutthespatialdistributionofsoilavailableon willbe importantforectivemanagementofsoilfertilityTdate,thepublishdworksmainlyfcusedonivestigatingtespatial variabilityofsoilavailableiron.Fewerof hemwereconductedtopredictthespatialdistributionofsoilavailableiron.Inrderto understandthespatialdistributionofsoilavailableironinhillyareasofsouthwest China,weconductedastudyin2O14atatypical hilly region which has uniform soil parent material and covers an area of $2 \\mathrm { k m } ^ { 2 }$ in Yongxing town, Jiangjin, Chongqing. A total of 309 samples were collected at a depth of $2 0 \\ \\mathrm { c m }$ of the cultivated soils.They were randomly divided into calibration (224 samples) andvalidtion(8samples）atasets.Nineterainaributes,amelylevation,slopespect,valleydepth,ozontalcature, profileurvature,onvergenceindexlatonpositioindex,andtopogaphicetessindex,reeractedfroadigitaleeation model with a spatial resolution of $2 \\mathrm { ~ m ~ }$ The models of Ordinary Kriging (OK),Multiple Linear Regression (MLR),and Random Forest(RF)wereusedtopredict thecontentofsoilavailableironbasedonthe terrinatributes.Accuracy indicators includingmean absolute error (MAE),root mean square error (RMSE),and coefficient of determination $( \\mathbf { R } ^ { 2 } )$ were applied to evaluate model's performance basedon thevalidation dataset.Theresultsofcorrelation showed that thetopographic wetnessindexandthe valley depth hadsignificant positivecorelationswithsoilavailableiron.The slope,the horizontalcurvature,theprofilecurvature,the convergence indexand therelationposition index hadsignificant negativecorrelations with soil available ion.Compared withOK and MLR methods,RF model performed best with MAE of $2 2 . 3 3 ~ \\mathrm { m g \\cdot k g ^ { - 1 } }$ ,RMSE of $2 7 . 9 8 ~ \\mathrm { { m g } \\cdot \\mathrm { { k g } ^ { - 1 } } }$ ,and $\\scriptstyle \\mathrm { R } ^ { 2 }$ of 0.76. Additionally, theresultsofRFmodelindicatedthattetopographic wetnesandthesopewere themajorfactorscontrolingtespatialdstriution of soilavailableiron.Therefore,RandomForest (RF)modelcombined withterrainatributescould explainthespatialvariabilityof soilavailableironoverthisarea.Theoutcomesof thecurrentwork will providevaluable information forpredictingthespatial distribution of the soil trace elements in hilly areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:terrain attribute; random forest model; soil available iron; prediction of spatial distribution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "铁是植物体内细胞色素和酶的重要组成部分，在植物光合、呼吸等代谢过程中发挥着重要作用，进而影响作物的产量与品质[-3]。土壤有效铁作为植物的可给态铁，是土壤对植物供铁能力的重要参考依据[4]。土壤有效铁的含量及其空间分布受到成土母质、气候、地形、土壤养分和土壤耕作方式等很多因素的影响[5-7]，造成了区域土壤有效铁含量变化幅度较大，影响植物的正常生长。丘陵是一种分布比较广泛的地貌类型，精准预测丘陵区土壤有效铁含量空间分布，了解土壤有效铁含量空间变异特征及其与地形之间的关系，对土壤地力评价和农用地利用规划具有极大的指导意义。然而，当前对于丘陵区土壤属性的空间分布预测研究也多见与土壤有机质和大量元素[8-9]，针对土壤有效铁的相关研究主要集中于空间特征分析。例如，廖琴[10]等研究了农田耕层区土壤有效铁的空间变异特征及分布规律，杜鹃[]等对耕层土壤有效铁的丰缺状况和空间变异特征进行了研究，刘永红[12]等综合评价了土壤有效铁的空间格局变异特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "至今，土壤属性空间预测的方法已经由传统土壤制图发展到数字化土壤制图，主要包括：地统计方法[13]、线性回归模型[14-15]和机器语言算法[16-18]。地统计学方法[19]在土壤属性空间预测中是以区域化变量为基础，空间相关和变异函数为工具的数学地质方法[20]。但是有时实际情况不符合二阶平稳或内蕴假设条件，造成不能可靠地应用地统计学来研究土壤属性空间预测的问题[21I；构建线性回归模型的前提条件是土壤属性与预测变量之间的关系是线性的，然而实际情况中两者的关系往往是非线性且复杂的[22]；机器语言算法：例如，决策树(Decision Trees，DT)23]、支持向量机(Support Vector Machine，SVM)[24]、BP 神经网络(BackPropagation Neural Networks,BPNN)[25]等，近年来也被应用于土壤属性制图。然而这些模型易出现过度拟合[26-27]等缺陷。随机森林模型也属于机器语言算法的一种，它的出现在一定程度上克服了上述缺陷，提高了预测精度，是对土壤属性空间预测方法的有效改进和及时补充。郭澎涛28]等利用随机森林模型结合环境变量对土壤全氮进行空间预测，其预测精度显著高于逐步线性回归模型、广义加性混合模型以及分类回归树模型。王茵茵[29]等利用遥感数据提取辅助环境因子结合随机森林算法对丘陵区表层土壤有机质进行空间预测，结果显示随机森林模型在复杂地貌区的预测更有效。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在一定区域尺度内，气候、成土母质等结构因素相对一致，地形对水热条件起到重分配作用并影响土壤发育[30]，是引起土壤属性空间变异的主要影响因素[31-32]。因此，近年来，很多关于土壤属性预测的研究都会考虑地形因子作为重要预测变量。连纲[33等应用地形因子和遥感指数，分析土壤属性与环境的关系并进行空间预测；Grimm[34]等以地形因子和成土母质等环境因子为辅助变量对土壤有机碳进行了预测；张素梅[35]等利用地形因子和植被指数建立了土壤养分空间分布预测模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究旨在仅以地形因子为预测变量，利用随机森林模型对丘陵区土壤有效铁含量进行空间分布预测，为丘陵区土壤中、微量元素的空间分布预测提供方法借鉴和理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以重庆市江津区永兴镇内一个典型丘陵地带为研究区，经纬度区间为 $1 0 6 ^ { \\circ } 0 9 ^ { \\prime } 2 7 ^ { \\prime \\prime } { \\sim } 1 0 6 ^ { \\circ } 1 0 ^ { \\prime } 9 ^ { \\prime \\prime } \\mathrm { E }$ $2 9 ^ { \\circ } 0 0 ^ { \\prime } 1 0 \" { \\sim } 2 9 ^ { \\circ } 0 0 ^ { \\prime } 9 ^ { \\prime \\prime } \\mathrm { N } .$ ，面积约为 $2 \\mathrm { k m } ^ { 2 }$ 。研究区属于亚热带季风气候区，年平均气温 $1 8 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ ，年日照时数1253小时，年降水量 $9 0 0 \\mathrm { m m }$ ，无霜期 $3 3 5 \\mathrm { d }$ 。研究区为丘陵地貌，海拔 $2 3 8 { \\sim } 3 2 8 \\ \\mathrm { m }$ 。研究区成土母质为侏罗系沙溪庙组紫色砂页岩，土地利用类型 $70 \\%$ 以上为耕地，主要是旱地和水田。按照土壤发生分类，旱地的土壤类型是紫色土类、中性紫色土亚类、灰棕紫泥土属；水田土壤类型是水稻土类、潜育水稻土亚类、潜育紫泥田土属。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤样品采集与化学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结合地形图和 $1 : 1 0 0 0$ 土地利用现状图，依据均匀性、代表性原则，按照全国耕地地力调查与质量评价技术规程在研究区农田进行布点，在不同地形部位和坡向均要布设采样点，土壤样点共309 个(旱地 258个，水田51个)，样点分布如图1所示。2014年11月进行土样采集，并记录土壤采样点坐标等信息，每个样点在同一样地中按照\"S\"形线路采样，取10钻 $( 0 { \\sim } 2 0 \\mathrm { c m } )$ 耕作层土样用四分法混匀成约 $1 \\mathrm { k g }$ 样品。将样品带回实验室风干、研磨、过筛，采用DTPA溶液浸提——原子吸收光谱法测定样品有效铁的含量[36]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9aa37af59948ae2bba73c8604b5da5dbfade2f00dc1544d4f76dcff949fbc54f.jpg",
+        "img_caption": [
+            "图1研究区DEM、土地利用及样点分布图",
+            "Fig.1Maps ofDEM,land use and samples sites of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 地形因子的提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据研究区尺度、地貌等信息，实地测量获得研究区6373个高程点和等高距为 $1 \\mathrm { ~ m ~ }$ 的地形图。在ArcGIS 中，使用3DAnalyst模块，以高程点、等高线为输入变量创建TIN表面，依据 TIN表面生成 $2 \\mathrm { m }$ 分辨率的数字高程模型(Digital Elevation Model,DEM)。借鉴地形与土壤养分的相关研究[37]，本文选择9 个地形因子：高程(Elevation,Ele)、坡度(Slope，Slo)、坡向(Aspect，Asp)、谷深(Valley depth，Vd)、平面曲率(Horizontal curvature,Hc)、剖面曲率(Profile curvature, $\\mathrm { P c }$ ）、汇聚指数(Convergence index,Ci)、相对坡位指数(Relation position index,Rpi)、地形湿度指数(Topographic wetness index,Twi)。各地形因子含义见[38]，运用SimDTA 软件[39]提取地形因子。参考DEM空间分辨率与地形信息之间关系[40-411的相关研究，对原始 DEM进行重采样，对比不同DEM分辨率( $2 \\mathrm { m }$ 、 $5 \\mathrm { m }$ 、 $1 0 \\mathrm { m }$ 、 $1 5 \\mathrm { m }$ 、 $3 0 \\mathrm { m } \\mathrm { \\dot { \\Omega } }$ 提取的地形因子对预测结果的影响，当DEM空间分辨率为 $2 \\mathrm { m }$ 时，模型的预测精度最高，所以本文选择 $2 \\mathrm { m }$ 空间分辨率的DEM。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 预测模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 普通克里格",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "普通克里格(Ordinary Kriging，OK)是地统计学的主要内容之一，以变异函数理论及结构分析为基础,根据已知采样点数据的线性组合，在一定区域内进行区域化变量取值的无偏最优估计[42]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle { Z ^ { * } ( x _ { 0 } ) = \\sum _ { i = 1 } ^ { n } \\lambda _ { i } } \\ Z ( x _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $Z ^ { * } ( x _ { O } )$ 表示待估点 $\\mathbf { \\Delta x } _ { 0 }$ 的值, $Z ( x i )$ 表示第i个有效观测值 $( \\mathrm { i } = 1 , 2 , 3 . . . , \\mathrm { n } )$ $\\lambda _ { i }$ 是通过半变异函数生成的权重且 $\\textstyle \\sum \\lambda _ { i } = 1$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 多元线性回归 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多元线性回归(Multiple Linear Regression，MLR)是基于普通最小二乘法，以多个解释变量的给定数据值为条件，研究一个因变量与多个自变量之间的线性关系[43]，普遍应用于土壤养分空间分布预测，其表达式为:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { i } = \\beta _ { 0 } + \\beta _ { 1 } x _ { 1 i } + \\beta _ { 2 } x _ { 2 i } + \\beta _ { 3 } x _ { 3 i } \\ldots + \\beta _ { n } x _ { n i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中: $x _ { i } ( \\mathrm { i } = 1 , 2 , 3 , . . . , \\mathrm { n } )$ 表示自变量, $y _ { i } ( \\mathrm { i } = 0 , 1 , 2 , . . . \\mathrm { n } )$ 和 $\\beta _ { \\mathrm { j } } ( \\mathrm { j } = 0 , 1 , 2 , . . . \\mathrm { n } )$ 分别表示因变量和自变量的回归系数。1.4.3随机森林模型",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "随机森林(RandomForest,RF)是一种基于分类树的多功能机器语言学习算法，运用 bootstrap 重抽样法从原始样本中随机抽取多个样本进行决策树模型的构建，通过对多棵决策树的预测进行投票得到最终结果。随机森林回归时对数据分布、数据类型、数据结构没有要求，并对噪声和异常值有良好的容忍度，并且不容易有过度拟合的状况[44]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 半方差函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "半方差函数是研究土壤属性变异性的函数，可以确定土壤属性的空间相关性[45]，其表达式为:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( h ) = \\frac { 1 } { 2 N ( h ) } \\sum _ { i = 1 } ^ { N ( h ) } [ z ( x _ { i } + h ) - z ( x _ { i } ) ] ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中: $r ( h )$ 表示间距为 $h$ 的点对之间的平均半方差, $N ( h )$ 表示距离为 $h$ 时的点对数量, $z ( x _ { i } )$ 则表示点 $x _ { i }$ 的观测值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.6预测模型构建及精度评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究随机选择 224个采样点(旱地190个，水田34个)作为训练集用于预测模型的构建，余下 85个样点(旱地68 个，水田17 个)作为验证集用来评价模型的预测精度。普通克里格方法根据已知点数据估计待测点，不需要加入预测变量。根据半方差分析得到的指数模型，在 ArcGIS 软件中进行插值。多元线性回归通过 SPSS 软件计算，随机森林模型使用R软件中RandomForest包[46]进行模拟，随机森林中参数ntree(决策树的数量)和mtry(每次树重建时节点分裂的次数)最终设定为分别为150、3。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模型预测精度的评价指标包括：平均绝对误差(mean absolute error,MAE)、均方根误差(root mean squareerror,RMSE)和决定系数(coefficient of determination, ${ \\bf R } ^ { 2 }$ )。MAE、RMSE 越小, $\\scriptstyle \\mathbf { R } ^ { 2 }$ 越大，表明模型预测精度越高。相关计算公式如下:",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { M A E = \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } \\lvert M _ { i } - P _ { i } \\rvert } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { R M S E = \\sqrt { \\frac { 1 } { n } { \\sum _ { i = 1 } ^ { n } ( M _ { i } - P _ { i } ) ^ { 2 } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\textstyle R ^ { 2 } = \\sum _ { i = 1 } ^ { n } ( P _ { i } - { \\overline { { M } } } ) ^ { 2 } / \\sum _ { i = 1 } ^ { n } ( M _ { i } - { \\overline { { M } } } ) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $M$ 为实测值, $P$ 为预测值， $\\overline { { M } }$ 为实测值均值， $n$ 则为验证集样本数量。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1土壤有效铁描述性统计",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究区土壤有效铁含量统计结果如表1所呈现。训练集土壤有效铁的含量范围 $( 3 . 0 0 { \\sim } 2 7 6 . 9 7 \\ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } } )$ （204号稍大于验证集有效铁的含量范围 $( 4 . 2 0 { \\sim } 2 0 8 . 3 8 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } } )$ ，训练集土壤有效铁含量的标准差 $( 5 7 . 3 5 ~ \\mathrm { m g { \\cdot } k g ^ { - 1 } } )$ 偏高于验证集有效铁含量的标准差 $( 5 3 . 8 5 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } )$ 。方差分析结果表明训练集与验证集土壤有效铁含量差异不显著，表明训练数据和验证数据对研究区土壤有效铁含量都具有较好的代表性。训练集和验证集的土壤有效铁变异系数均大于1，说明各采样点之间土壤有效铁含量存在明显差异，属于强变异性，与徐小逊等[47]采用地统计学方法研究沱江中游耕层土壤有效铁的空间分布时结果类似。训练集和验证集土壤有效铁含量的偏度都大于1,K-S检验结果p值小于0.05，表明研究区土壤有效铁含量不服从正态分布，对数转换后的土壤有效铁服从正态分布，可用于多重线性回归模拟和普通克里格插值。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9741e47840b8365f522a9dff871bee1fe8e8d7e81ac19f1889d6ea77eb5c609.jpg",
+        "table_caption": [
+            "表1研究区采样点土壤有效铁含量描述性统计",
+            "Table1Descriptive statistics of soil available iron "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样本组</td><td>样本数</td><td>最小值</td><td>最大值</td><td>中值</td><td>平均值</td><td>标准差</td><td>变异系数</td><td>偏度</td></tr><tr><td>Sample</td><td>Number of</td><td>Minimum</td><td>Maximum</td><td>Median</td><td>Mean</td><td>Std.Deviation</td><td>Coefficient of</td><td>Skewness</td></tr><tr><td>group</td><td> samples</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td><td>variation</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b9d9b3e63086ec916ab380abba0a6e203358129cd20226454d571e4afc4694a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>训练集 Calibration</td><td>224</td><td>3.00</td><td>276.97</td><td>27.36</td><td>49.94</td><td>57.35</td><td>1.15</td><td>1.80</td></tr><tr><td>samples 验证集</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Validation Samples</td><td>85</td><td>4.20</td><td>208.38</td><td>26.44</td><td>49.55</td><td>53.85</td><td>1.09</td><td>1.49</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2土壤有效铁的半方差分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究中根据土壤有效铁含量的统计结果，应用 $\\mathrm { G S + }$ 软件进行半方差计算，得到半方差最优拟合模型及特征参数见表2。表中块基比即基底效应，表示数据的空间相关性强弱。该值小于 $2 5 \\%$ 为较强的空间相关性,大于 $7 5 \\%$ 为较弱的空间相关性，介于 $2 5 \\% - 7 5 \\%$ 表示中等空间自相关。土壤有效铁的基底效应为 $1 4 . 5 \\%$ 说明具有较强的空间相关性，表明采样点之间土壤有效铁含量的差异主要受到结构性因素的影响，如气候、成土母质、地形等。因为该研究区属小尺度丘陵区域，成土母质相同、气候条件一致，所以表明地形是影响土壤有效铁空间分布的主要因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f3f19eaae0e29b4160beb3b9140774778c2d6c7754b2a529b0d1810c524df867.jpg",
+        "table_caption": [
+            "Table 2Semivariance parameters of soil available iron "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"6\"></td><td rowspan=\"5\">拟合模型 Model</td><td>块金值</td><td>基台值</td><td>块基比</td><td>变程</td><td>决定系数</td></tr><tr><td>Nugget</td><td>Sill</td><td>Proportion</td><td>Range</td><td>R²</td></tr><tr><td>(C0)</td><td>(Co+C)</td><td>[C0/(Co+C)] %</td><td>(m)</td><td></td></tr><tr><td>指数模型 560</td><td>3858</td><td></td><td></td><td></td></tr><tr><td>Exponential</td><td></td><td>14.5</td><td>561</td><td>0.898</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3土壤有效铁含量与地形因子的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3为土壤有效铁与地形因子之间的相关性。土壤有效铁与坡度、谷深、平面曲率、剖面曲率、汇聚指数、相对坡位指数、地形湿度指数均达到极显著水平相关关系，表明在研究区土壤有效铁受到地形因素的影响明显。土壤有效铁与谷深、地形湿度指数存在极显著水平正相关关系，相关系数分别是0.298、0.592,表明在地势低、土壤含水量大的区域有利于土壤有效铁的积累；土壤有效铁与坡度、平面曲率、剖面曲率、汇聚指数、相对坡位指数存在极显著水平负相关关系，相关系数分别是-0.371、-0.327、-0.228、-0.174、-0.428，表明在地势高、起伏大的区域，土壤有效铁的含量较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f15923c827db7d35b5f8b0b9c56a3ed8ea618db3b7755bcb46ae84df5f724c3.jpg",
+        "table_caption": [
+            "表2土壤有效铁的半方差模型参数",
+            "表3土壤有效铁与地形因子的相关性",
+            "Table 3Correlations between soil available iron and terrain attributes "
+        ],
+        "table_footnote": [
+            "注：表中的数据为训练集统计分析结果。Ele 为高程; Slo 为坡度;Asp 为坡向;Vd 为谷深;Hc 为平面曲率; $\\mathrm { P c }$ 为剖面曲率;Ci为汇聚指数;Rpi为相对坡位指数;Twi为地形湿度指数。\\*和\\*\\*表明地形因子与土壤有效铁的相关性达到了显著 $( \\mathrm { P } { < } 0 . 0 5 )$ 和极显著 $\\scriptstyle ( \\mathrm { P } < 0 . 0 1 )$ 水平。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Ele</td><td>Slo</td><td>Asp</td><td>Vd</td><td>Hc</td><td>Pc</td><td>Ci</td><td>Rpi</td><td>Twi</td></tr><tr><td>土壤有效铁 Soil available iron</td><td>-0.116</td><td>-0.371**</td><td>0.086</td><td>0.298**</td><td>-0.327**</td><td>-0.228**</td><td>−0.174**</td><td>-0.428**</td><td>0.592**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notetusss tor \\*\\* stand for that the relationship between terrain atributes and soil available iron reached the significant level $( \\mathrm { P } { < } 0 . 0 5 )$ and highly significant level $\\scriptstyle ( \\mathrm { P } < 0 . 0 1 )$ ）， respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤有效铁含量在不同土地利用类型的对比",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表 4 为土壤有效铁在研究区不同土地利用类型的对比。由表可知，旱地样本数(190 个)远远大于水田(34 个)，这是因为旱地与水田相比地形较复杂，地块小且破碎，旱地土壤有效铁含量的变化可能更易受地形的影响。经方差分析，土壤有效铁在水田中含量( $1 5 1 . 0 4 { \\pm } 1 1 . 5 4 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } )$ 明显大于旱地 $( 3 1 . 8 5 { \\pm } 2 . 2 0 \\mathrm { m g \\cdot k g ^ { - 1 } } )$ 且差异达到了显著性水平。同时旱地土壤有效铁的变异系数(0.95)大于水田(0.45)，但都属于中等变异性(变",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "异系数在 $0 . 1 { \\sim } 1$ 之间为中等变异)，说明在同一土地类型中各采样点之间土壤有效铁含量存在一定差异。",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f12963b9004e1f8f62d74e3ffa3f1e0bd47e09fda60594d7a9e9d5cdbc24b87d.jpg",
+        "table_caption": [
+            "Table 4Comparison of soil available iron between cropland and paddy field "
+        ],
+        "table_footnote": [
+            "注：表中的数据为训练集统计分析结果。 Note: the results were calculated based on the data of training set. "
+        ],
+        "table_body": "<html><body><table><tr><td>土地利用类型 Land use type</td><td>样本数 Number of samples</td><td>最小值 Minimum /(mg·kg-1)</td><td>最大值 Maximum (mg·kg-1)</td><td>中值 Median (mg·kg-1)</td><td>平均值 Mean /(mg·kg-1)</td><td>标准差 Std.Deviation /(mg·kg-1)</td><td>变异系数 Coefficient of variation</td></tr><tr><td>旱地 Dry land</td><td>190</td><td>3.00</td><td>156.60</td><td>21.24</td><td>31.85</td><td>30.37</td><td>0.95</td></tr><tr><td>水田 Paddy field</td><td>34</td><td>3.85</td><td>276.97</td><td>155.22</td><td>151.04</td><td>67.27</td><td>0.45</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤有效铁含量模型预测精度比较",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "研究区土壤有效铁含量模型预测精度通过85个采样点(旱地68 个，水田17个)进行验证，结果见表5。随机森林(RF)模型的平均绝对误差 $\\mathbf { M A E } ( 2 2 . 3 3 \\mathbf { m g } { \\cdot } \\mathbf { k g } ^ { - 1 } )$ 、均方根误差 $\\mathrm { R M S E } ( 2 7 . 9 8 ~ \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 } )$ 都明显低于普通克里格(OK)、多元线性回归(MLR)，决定系数 $\\mathtt { R } ^ { 2 } ( 0 . 7 6 )$ 明显高于普通克里格(OK)、多元线性回归(MLR)。这是因为多元线性回归(MLR)模型只能拟合土壤有效铁与地形因子之间的基本线性关系，而对非线性关系难以预测，制约了模型预测精度的提高；普通克里格(OK)模型预测精度较低，原因在于插值方法仅利用了土壤有效铁的空间自相关性，不能顾全研究区地形等环境的影响。随机森林(RF)模型充分考虑了地形对土壤有效铁的影响，并且捕捉到了它们之间除线性之外的复杂关系，预测精度较高。研究区土壤有效铁含量模型预测精度结果进一步表明了随机森林(RF)模型自身的优越性和利用地形因子预测小区域尺度丘陵农田土壤有效铁含量空间分布的可行性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由土壤有效铁在旱地和水田的比较可知，不同土地利用类型(旱地、水田)的土壤有效铁含量差异显著，所以构建预测模型时需要考虑土地利用类型的影响。因为土地利用类型属于定性变量，随机森林模型相比多元线性回归模型对定性变量具有更好的包容性，可以较多地捕捉土地利用类型与土壤有效铁之间的有效信息。同时通过表5的土壤有效铁含量预测模型精度比较可知，随机森林模型相比多元线性回归模型展现出较好的预测能力。于是挑选出具有较好预测精度的随机森林模型，在其预测变量中加入土地利用类型(旱地、水田)重新构建模型，检验土地利用类型是否可以进一步提高随机森林模型的预测精度。基于地形和土地利用的随机森林预测模型的平均绝对误差(MAE)为 $2 3 . 7 7 \\mathrm { m g } { \\cdot } \\mathrm { k g } ^ { - 1 }$ 、均方根误差(RMSE)为 $3 2 . 9 5 \\mathrm { m g { \\cdot } k g ^ { - 1 } }$ 、决定系数(R2)为0.66。结果显示随着预测变量中土地利用类型(旱地、水田)的加入，随机森林模型预测精度下降。这是因为水田、旱地的分布与地形密切相关[48-50]。土地利用类型是地形的一种综合、整体、定性表现形式，水田、旱地对其他地形因子造成了干扰、遮盖及共线性影响，使得各个地形因子对模型的贡献无法全部体现，导致模型预测误差增大，从而降低了模型的预测精度。综合模型精度评价指标，该研究区土壤有效铁含量的最适模型是基于地形因子的随机森林模型。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/43b17f1e170731e4d9f642c15ceb3dc7f4a06923d44c172ba0a92fc6e2792b31.jpg",
+        "table_caption": [
+            "表4土壤有效铁在旱地和水田之间的比较",
+            "表5土壤有效铁含量模型预测精度",
+            "Table 5Prediction accuracy of fitted models of soil available iron "
+        ],
+        "table_footnote": [
+            "2.5地形因子对土壤有效铁含量空间变异的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>预测模型</td><td colspan=\"3\">验证集 Validation dataset</td></tr><tr><td>Prediction</td><td>MAE</td><td>RMSE</td><td>R²</td></tr><tr><td>model</td><td>(mg·kg-1)</td><td>(mg·kg-1)</td><td></td></tr><tr><td>OK</td><td>32.97</td><td>52.38</td><td>0.11</td></tr><tr><td>MLR</td><td>23.58</td><td>35.25</td><td>0.60</td></tr><tr><td>RF</td><td>22.33</td><td>27.98</td><td>0.76</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图2 展示了研究区地形因子对随机森林土壤有效铁含量预测模型的影响。地形作为五大成土因素之一，影响土壤与环境之间的物质、能量交换，引起土壤的理化性质和养分变化[51-52]。由图可知，影响研究区土壤有效铁含量空间分布的主要地形因子是地形湿度指数(Twi)和坡度(Slo)。坡度通过影响区域降雨及入渗时间、表层土壤颗粒运动、径流挟沙能力和侵蚀方式等来间接影响土壤肥力特征[53-55]。地形湿度指数可定量模拟土壤水分含量状况和径流产生潜在能力，其值愈大，代表土壤含水量愈大[56-58]。由土壤有效铁含量与地形因子的相关性分析可知，土壤有效铁含量与地形湿度指数(Twi)呈极显著正相关(0.592)；与坡度(Slo)呈极显著负相关(-0.371)。表明随着坡度的增加，地表陡峭程度增加，降雨对土壤的侵蚀程度加重，通过淋溶作用造成土壤养分(土壤有效铁、全量铁、有机质等)的流失严重。土壤全量铁含量过低会直接导致有效铁含量的不足，同时土壤中有机质的缺乏也会引起土壤有效铁的缺失。随着地形湿度指数的增加，土壤含水量增加，导致土壤空气相对不足。在这种通气不良的条件下，土壤的还原性增强， $\\mathrm { F e } ^ { 3 + }$ 易于转换成 $\\mathrm { F e } ^ { 2 + }$ ，促进了土壤有效铁的增加[59-60]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/bebbb73afa207d8bdec86e77048d8bd206972b81b436b35bf63d98cc329059d5.jpg",
+        "img_caption": [
+            "图2随机森林自变量影响力评价",
+            "Fig.2Influence evaluationof independent variablesbyRandomForest "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图中IncMSE为均方误差增加量;Ele为高程;Slo为坡度;Asp 为坡向;Vd为谷深;Hc为平面曲率;Pc为剖面曲率;Ci为汇聚指数;Rpi为相对坡位指数;Ti为apealeisosistddept;Histeesindex.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6土壤有效铁空间分布预测",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "应用以地形因子为自变量的随机森林预测模型，在 ArcGIS 中得到土壤有效铁含量空间分布图(图 3)。由图可知，土壤有效铁含量分布趋势与研究区地形密切相关。地势陡峭的区域，土壤有效铁含量较低，这是由于降雨引起的土壤侵蚀、淋溶加重，造成土壤有效铁和其他土壤养分的流失，进而引起土壤有效铁含量的降低。地形低洼的区域，土壤有效铁含量较高，这是因为流失的土壤养分会在低洼处聚集，进一步积累。同时地形低洼处，土壤含水量大，造成了土壤的还原条件，更有利于土壤有效铁含量的增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbc046630315e3fc4625b68510478ef03bb15b0cb3fead336e2cc729e69cb59b.jpg",
+        "img_caption": [
+            "图3土壤有效铁含量空间分布图",
+            "Fig.3Prediction map of soil available iron "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文首先以地形因子为预测变量，通过普通克里格、多元线性回归、随机森林等模型对研究区土壤有效铁的空间分布进行预测，筛选出结果较好的随机森林模型。然后通过对比基于地形-土地利用的随机森林模型，最终得出该研究区土壤有效铁含量的最适预测模型是基于地形因子的随机森林模型。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1)研究区地形与土壤有效铁含量空间分布密切相关，土壤有效铁与坡度、谷深、平面曲率、剖面曲率、汇聚指数、相对坡位指数、地形湿度指数均达到极显著水平相关关系。土壤有效铁含量空间变异主要受到结构性因素的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2)利用以地形因子为自变量的随机森林模型，其平均绝对误差 MAE 为 $2 2 . 3 3 ~ \\mathrm { \\ m g { \\cdot } k g ^ { - 1 } }$ 、均方根误差RMSE为 $2 7 . 9 8 ~ \\mathrm { { m g } \\cdot \\mathrm { { k g } ^ { - 1 } } }$ 、决定系数 ${ \\bf R } ^ { 2 }$ 为0.76，显著优于其他预测模型，可以作为一种新的模型利用地形因子对土壤中、微量元素含量进行空间分布预测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3)地形湿度指数和坡度是影响该区域土壤有效铁含量空间分布的主要地形因子。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "随机森林模型能较好捕捉该研究区地形因子和土壤有效铁含量之间的关系，可以利用地形因子解释土壤有效铁含量空间变异的 $7 6 \\%$ ，但是预测精度有待进一步提高。在未来的研究中，应该考虑加入其它环境变量并筛选预测变量进行随机森林模型的建模，提高其在土壤中、微量元素空间分布的预测精度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] 汪李平．植物的铁素营养及缺铁症的防治(综述)[J].安徽农业大学学报,1995,(01):17-22.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WangLP.Reviewon ironnutritionandcontrolof iron deficiency in plants[J].Journal of Anhui Agricultural University, 1995,(01):17-22. [2] 申红芸，熊宏春，郭笑彤,等．植物吸收和转运铁的分子生理机制研究进展[J]．植物营养与肥料学报，2011, 17(6):1522-1530. Shen HY, Xiong HC,Guo XT,etal.Progresofmolecularand physiological mechanismofironuptakeand translocationin ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3] 李俊成，于慧，杨素欣,等．植物对铁元素吸收的分子调控机制研究进展[J]．植物生理学报,2016(6):835-842. Li JC,Yu H,Yang SX,etal.Research progressof molecularregulationof ironuptakeinplants[J].PlantPhysiologyJoural, 2016(6):835-842.   \n[4]张春梅．古浪灌区土壤耕层有效锌、锰、铜、铁含量分析与评价[J]．草业科学,2011,(06):1221-1225. Zhang CM.Analysisandevaluationof available Zn,Mn,CuandFecontentsof topsoil in Gulang Irigation Region[J]. Pratacultural Science,2011, 28(6):1221-1225.   \n[5] 李强，周冀衡，杨荣生,等．曲靖植烟土壤养分空间变异及土壤肥力适宜性评价[J].应用生态学报,2011,22(4):950-956. Li Q,ZhouJH,YangRS,etal.Soilnutrientsspatialvriabilityndsoilfertilitysuitabilityin Qujingtobaco-plantingarea[J]. Chinese Journal of Applied Ecology, 2011,22(4):950-956.   \n[6] 武婕，李玉环，李增兵,等．南四湖区农田土壤有机质和微量元素空间分布特征及影响因素[J].生态学报，2014, 34(6):1596-1605. WuJ,LiYH,LiZB,etal.Satialdistrbutionandinfuencingfactorsoffarmlandsoilorganicmatterandtraceelements nthe Nansihu Region[J]. Acta Ecologica Sinica,2014,34(6):1596-1605.   \n[7] Jenny H. The soil resource. Origin and behavior[J]. Vegetatio,1984,57(2-3):102-102.   \n[8] 黄安，杨联安，杜挺，等．基于多元成土因素的土壤有机质空间分布分析[J].干旱区地理(汉文版),2015,38(5):994-1003. Huang A,YangLA,DuT,etal.Spatial distributionof thesoilorganic materbasedonmultiplesoilfactors[J].AridLand Geography,2015,38(5):994-1003.   \n[9] 李启权,王昌全,张文江,余勇,李冰,杨娟,白根川,蔡艳．基于神经网络模型和地统计学方法的土壤养分空间分布预测[J].应 用生态学报,2013,(02):459-466. Li QQ,Wang CQ,Zhang WJ,etal.[Predictionof soil nutrients spatial distribution basedonneural network modelcombined with goestatistics][J]. Chinese Journal of Applied Ecology,2013, 24(2):459-466.   \n[10]廖琴,南忠仁,王胜利,黄璜,晋王强,周婷．干旱区绿洲农田土壤微量元素有效态含量空间分布特征[J].环境科学研 究,2011(03):273-280. Liao Q,Nan ZR,WangSL,etal.Spatialdistributioncharacteristicsofavailable microelementcontents inoasis croplandsoils of arid areas[J].Research of Environmental Sciences,2011,24(3):273-280.   \n[11] 杜娟,张永清,周进财,李明．尧都区耕层土壤微量元素有效态含量空间分布特征[J]．中国农学通报,2014,(03):162-167. Du J，ZhangYQ,Zhou JC,LiM,etal.Spatialdistributioncharacteristicsof available Microelementscontents in irrigation-silted soil in Yaodu District[J]. Chinese Agricultural Science Bulletin,2014,30(3):162-167.   \n[12] 刘永红,倪中应,谢国雄,徐立军,钟林炳,马立强．浙西北丘陵区农田土壤微量元素空间变异特征及影响因子[J].植物营养 与肥料学报,2016,(06):1710-1718. Liu YH,Ni ZY,Xie G X, XuLJ,ZhongLB,MaL Q.Spatial variability and impacting factors of trace elements in hilly regionofcropland in northwestern Zhejiang Province[J].Journal ofPlant Nutrition andFertilizer,2016,(O6):1710-1718.   \n[13]史文娇,岳天祥,石晓丽,宋伟．土壤连续属性空间插值方法及其精度的研究进展[J]．自然资源学报,2012,(01):163-175. ShiWJ,YueTX,Shi XL,etal.Research progressinsol property interpolatorsandtheiraccracy[J].Journalof Natural Resources, 2012,(01):163-175.   \n[14]张国平，郭澎涛，王正银,等．紫色土丘陵地区农田土壤养分空间分布预测[J]．农业工程学报,2013,29(6):113-120. Zhang GP,GuoPT, Wang ZY,Liu HB,et al. Prediction of spatialdistributionof hillyfarmland with purple soil nutrient[J]. Transactions of the Chinese Society of Agricultural Engineering, 2013,29(6):113-120.   \n[15] WANGJ,CUIL,GAOW,etal.Predictionoflowheavymetalconcentrationsinagricultural soilsusing visibleand nearinfrared reflectance spectroscopy[J]. Geoderma, 2014, 216(4): 1 - 9.   \n[16] 徐剑波，宋立生，夏振,等．基于GARBF 神经网络的耕地土壤有效磷空间变异分析[J].农业工程学报，2012, 28(16):158-165. Xu JB,SongLS,Xia Zetal. Spatialvariabilityof available phosphorus forcultivated soilbasedon GARBF neural network[J] Transactions of the Chinese Society of Agricultural Engineering,2012, 28(16):158-165.   \n[17]石伟,南卓铜,李韧,赵林,张秀敏,赵拥华．基于支持向量机的典型冻土区土壤制图研究[J]．土壤学报,2011,(03):461-469. Shi W,Nan ZT,LiR,ZhanL, Zhang XM, Zhan YH. Support vector machine based soil mappng of atypical permafrost area in the Qinghai-Tibet plateau[J]. Acta Pedologica Sinica, 2011,(O3):461-469.   \n[18]芦园园,张甘霖,赵玉国,等．复杂景观环境下土壤厚度分布规则提取与制图[J]．农业工程学报,2014,(18):132-141. Lu Y Y,Zhang GL,Zhao YG,etal.Extractingand mappngof soil depth distribution rules incomplex landscape environment[J]. Transactions of the Chinese Society of Agricultural Engineering,2014,30(18):132-141.   \n[19] Lark R M. Towards soil geostatistics[J]. Spatial Statistics,2012,1:92-99.   \n[21] 徐剑波,宋立生,彭磊．土壤养分空间估测方法研究综述[J].生态环境学报,2011,(Z2):1379-1386. Xu JB,Song L S,PengL.Research review onmethods of spatial prediction of soil nutrients[J].Ecology & Environmental Sciences,2011, (Z2):1379-1386.   \n[22] 丁建丽，王飞．干旱区大尺度土壤盐度信息环境建模——以新疆天山南北中低海拔冲积平原为例[J].地理学报，2017, 72(1):64-78. Ding JL, Wang F.Environmental modeling oflarge-scalesoil salinity information inan arid region:Acase studyof the low and middlealtitudealluvialplainnorthandsouth of the TianshanMountains，Xinjiang[J].Acta Geographica Sinica, 201772(1):64-78.   \n[23]BreimanLFredaJH,OsnRA,etal.ClaiicaondRegessiTes(CAT)[J].meis,,():358.   \n[24] BesalatpourA,Hajabbasi M,Ayoubi S,etal.Predictionofsoil physical properties byoptimizedsupport vectormachines[J]. International Agrophysics,2012, 26(2):109-115.   \n[25] KoleyS.Machine Learning for Soil FertlityandPlant Nutrient ManagementUsingBack Propagation Neural Networks[J]. Social Science Electronic Publishing,2016,2(2):292-297.   \n[26] Dietterich T. Overfiting and undercomputing in machine learing[J]. Acm Computing Surveys,1995,27(3):326-327.   \n[27] Hawkins D M. The problem of overfitting.[J]. Cheminform, 2004, 44(1):1.   \n[28]郭澎涛，李茂芬，罗微,等．基于多源环境变量和随机森林的橡胶园土壤全氮含量预测[J]．农业工程学报，2015, 31(5):194-202. Guo PT,LiMF,LuoL,etal.Predictionofsoil total nitrogen forrubber plantationatregional scalebasedonenvironmental variablesandrandom forest aproach[J].Transactions of the Chinese Societyof Agricultural Engineeing，2015, 31(5):194-202.   \n[29] 王茵茵,齐雁冰,陈洋,等．基于多分辨率遥感数据与随机森林算法的土壤有机质预测研究[J].土壤学报,2016,(02):342-354. Wang Y Y, Qi YB,Chen Y, et al. Prediction of Soil Organic Mater Based on Multi-resolution Remote Sensing Data and Random Forest Algorithm[J]. Acta Pedologica Sinica, 2016, (O2):342-354.   \n[30] 黄昌勇．土壤学[M]．北京:中国农业出版社,1999,141-142. Huang C Y. Soil Science[M]. Beijing: China Agricul Ture Press,1999,141-142.   \n[31]秦松，樊燕，刘洪斌,等．地形因子与土壤养分空间分布的相关性研究[J]．水土保持研究,2008,15(1):275-279. Qin S,Fan Y,Liu HB,etal.StudyontheRelationsBetween TopographicalFactorsandthe Spatial Distributionsof Soil Nutrients[J]. Research of Soil & Water Conservation,2008,15(1):275-279.   \n[32] 宋轩，李立东，寇长林,等．黄水河小流域土壤养分分布及其与地形的关系[J].应用生态学报,2011,22(12):3163-3168. Song X,LiLD,Kou CL,etal.[Soil nutrient distributionand itsrelations withtopographyin Huangshui Riverdrainage basin][J]. Chinese Journal of Applied Ecology,2011,22(12):3163-3168.   \n[33] 连纲，郭旭东，傅伯杰,等．基于环境相关法和地统计学的土壤属性空间分布预测[J]．农业工程学报,2009,25(7):237-242. Lian G,Guo XD,FuBJ,etal.Predictionofthespatial distributionof soil properties basedonenvironmentalcoelationand geostatistics.[J]. Transactions of the Chinese Society of Agricultural Engineering,20o9,25(7):237-242.   \n[34]GrimmR,Behrens T,MarkerM,etal.SoilorganiccarbonconcentrationsandstocksonBaroColoradoIsland-Digitalsoil mapping using Random Forest analysis [J]. Geoderma,2008,146(1-2): 102-113.   \n[35] 张素梅,王宗明,张柏,等．利用地形和遥感数据预测土壤养分空间分布[J]．农业工程学报,2010,(05):188-194. Zhang S M, Wang ZM, Zhang B,et al.Prediction of spatial distribution of soil nutrients using terrin atributesand remote sensing data.[J]. Transactions of the Chinese Society of Agricultural Engineering,2010, 26(5):188-194.   \n[36]鲍士旦．土壤农化分析 [M]．北京:中国农业出版社,2002,47－56. Bao S D.Soil and Agricultural Chemistry Analysis[M]. Beijing: China Agricul Ture Press,2002,47-56.   \n[37] 邓欧平,周稀,黄萍萍,等．川中紫色丘区土壤养分空间分异与地形因子相关性研究[J]．资源科学,2013.(12):2434-2443. Deng OP, Zhou X,Huang PP,et al. Correlations betweenspatial variabilityof soil nutrientsand topographic factors in the purple hilly region of Sichuan[J]. Resources Science,2013,(12):2434-2443.   \n[38]MooreID,GsserPE,esenGA,alSltrutepredicionuingterrainaalysis[J].oilSciSocAJ99,7:44 452.   \n[39] 秦承志,卢岩君,包黎莉,朱阿兴,等．简化数字地形分析软件(SimDTA)及其应用——以嫩江流域鹤山农场区的坡位模糊分 类为例[J]．地球信息科学学报,2009,(06):737-743. Qin CZ,Lu YJ,BaoLL,ZhuA X,etal.Simple Digital Terain Analysis Software (SimDTA1.0)and ItsApplicationinFuzzy Classification of Slope Positions[J]. Journal of Geo-Information Science,20o9,11(6):737-743.   \n[40] 呼雪梅，秦承志．地形信息对确定 DEM 适宜分辨率的影响[JI.地理科学进展.2014,33(1):50-56. Geography,2014,33(1):50-56.   \n[41] 黄晓力，汤国安，刘凯.DEM分辨率对地形纹理特征提取的影响[J].地球信息科学学报,2015,17(7):822-829. Huang XL,Tang GA,LiuK.The Influence of DEMresolutionon the extraction of terrain texture feature[J].地球信息科学学 报,2015,17(7):822-829.   \n[42]DaleL. Zimmerman,M.Bridget Zimmerman.AComparisonofSpatialemivariogramEstimatorsandCorrespondingOrdinary Kriging Predictors[J]. Technometrics,2012,33(1):77-91.   \n[43]FedotovaO,TeixeiraL，AlvelosH.SoftwareEfort Estimationwith Multiple LinearRegression:reviewandpractical application[J]. Journal of Information Science & Engineering,2013, 29(5):925-945.   \n[4]LindnerC，Bromiley PA,Ionita MC,etal.Robust and Accurate Shape Model Matching Using Random Forest Regression-Voting[J]. IEEE Transactions on Pattrn Analysis & Machine Intelligence,2015,37(9):1862-1874.   \n[45]GoovaertsP.Geostatisticaltolsforcharacterizingthespatialvariabilityof microbiologicalandphysico-chemicalsoil properties[J]. Biology & Fertility of Soils,1998,27(4):315-334.   \n[46] BreimanL,CutlerA.Beimanand Cutlersrandomforests forclasiicationandregression.RPackage Version4.6-7,2013.   \n[47]徐小逊,张世熔,余妮娜,等．沱江中游土壤有效铁空间分布及其影响因素分析[J].西南农业学报,2012,(03):977-981. Xu X X,Zhang SR,Yu NN,et al. Soil available iron spatial distributionand influencing factorsanalysis basedon GIS in middle reaches of Tuojiang[J]. Southwest China Journal of Agricultural Sciences, 2012,(03):977-981.   \n[48]韩建平，贾宁凤．土地利用与地形因子关系研究——以砖窑沟流域为例[J]．中国生态农业学报,2010,18(5):1071-1075. HanJP,JiaNF.Relationship between topographic factorand land use-acase studyof Zhuanyaogou watershedJ]. Chinese Journal of Eco-Agriculture,2010,18(5):1071-1075.   \n[49]哈凯，丁庆龙，门明新,等．山地丘陵区土地利用分布及其与地形因子关系——以河北省怀来县为例[J]．地理研究，2015, 34(5):909-921. Ha K,DingQL,Men M X,etal.Spatial distributionof landuseand itsrelationshipwith terrain factors inhillyarea[J]. Geographical Research,2015,34(5):909-921.   \n[50]武爱彬，刘欣，赵艳霞．地形因子对浅山丘陵区土地利用类型分布与转换的影响——以燕山浅山丘陵区为例[J]．农业现 代化研究,2014,35(1):103-107. Wu AB,LiuX,ZhaoYX.Influencesoftopographicondistributionandchangeoflandusetypes inhillregion-takingYanshan hilly region as an example[J]. Research of Agricultural Modernization, 2014,35(1):103-107.   \n[51]张丽萍，王小云，张赫斯.沙盖黄土丘陵坡地土壤理化特性随地形变化规律研究[J].地理科学,2011,(2):178-183. Zhang LP, Wang XY,Zhang HS.Evolutionof physical and chemcal characteristics of loesswithdiferent landforms inslope field under sand cover[J]. Scientia Geographica Sinica, 2011, (2):178-183.   \n[52] 徐国策，李占斌，李鹏,等．丹江鹦鹉沟小流域土壤侵蚀和养分损失定量分析[J]．农业工程学报,2013,29(10):160-167. Xu GC,LiZB,LiPetal. Quantitativeanalysis ofsoilerosionand nutrientlossinYngwugou watershedof theDanRiver[J]. Transactions of the Chinese Society of Agricultural Engineering,2013,29(10):160-167.   \n[53] 吴昊．秦岭山地松栎混交林土壤养分空间变异及其与地形因子的关系[J]．自然资源学报,2015,(05):858-869. Wu H.The Relationship between terrain factorsandspatial variabilityof soil nutrients for Pine-Oak mixedforest in Qinling Mountains[J]. Journal of Natural Resources,2015,(O5):858-869.   \n[54] 王丽，王力，王全九．不同坡度坡耕地土壤氮磷的流失与迁移过程[J]．水土保持学报,2015,29(2):69-75. Wang L,WangL,Wang QQ.The processes of nitrogen and phosphorus lossand migration in slope cropland under diferene slopes[J].Journal of Soil and Water Conservation,2015,29(2):69-75.   \n[55] 郑子成，秦凤，李廷轩．不同坡度下紫色土地表微地形变化及其对土壤侵蚀的影响[J].农业工程学报，2015，31(8):168- 175. Zheng ZZ,QinF,LiTX.Changes insoil surfacemicrorelief ofpurple soilunderdiferentslopegradientsanditsefectsonsoil erosion[J]. Transactions of the Chinese Society of Agricultural Engineering,2015,31(8):168-175.   \n[56] 张彩霞,杨勤科,李锐．基于DEM的地形湿度指数及其应用研究进展[J]．地理科学进展,2005,(06):116-123. Zhang CX,YangQK,LiR.Advancement inTopographic Wetness Indexand ItsApplication[J].ProgressinGeography2005, 24(6):116-123.   \n[57]Lewis GL,HoldenNM.The ModificationofSoil MoistureDeficitCalculation Using Topographic Wetness IndextoAccount For the Effect of Slope and Landscape Position[C]//2012 Dallas,Texas,July 29 - August 1,2012.2012.   \n[58]MaduakIN,NdukuRI,IfeanyichukwuC,etal.Multi-dex SoilMoistureEstimationfroSateliteEarthObseatios: Comparative Evaluation of the Topographic WetnessIndex (TW), te Temperature VegetationDrynessIndex (TVDI) nd the Improved TVDI (iTVDI)[J]. Journal of the Indian Society of Remote Sensing,2017,45(4):631-642.   \n[59]ZhuH,HuW,iR,etal.Scale-andlocationspecificelationshipsbetweensoilavailablemicronutrientsandeviotal factors in the Fen River basin on the Chinese Loess Plateau[J].Catena,2O16,147:764-772.   \n[60]ZhuH,ZhaoY,NanF,etalRelativeinfluenceofsilchemistryandtopographonsoilavailablemcronutrientsbyrctural equation modeling[J]. Journal of Soil Science & Plant Nutrition,2016,16(4):1038-1051. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

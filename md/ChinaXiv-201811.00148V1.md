@@ -1,0 +1,345 @@
+# 基于SimHash和混合相似度的多模式匹配方法\*
+
+曹卫东，胡炜，王家亮，王静(中国民航大学计算机科学与技术学院，天津 300300)
+
+摘要：为了解决多源异构民航旅客服务数据集成过程中存在多模式匹配的效率不高、精确性不足、完整模式信息获取难度较大等问题，提出了一种基于SimHash和混合相似度的多模式匹配方法。该方法首先基于PMI计算特征单元权重，并通过 SimHash 算法构造属性列的签名来表示属性特征，以降低特征维度，进而引入K-means $^ { + + }$ 算法对属性聚类并生成候选匹配集。最后基于属性的混合相似度构建属性映射图，以直观的方式展示属性间的匹配关系，同时提高多模式匹配效率。实验结果表明该方法具有可行性，为高效的解决多源异构民航旅客服务数据集成中的模式冲突问题提供新的解决方案。
+
+关键词：多模式匹配；签名；点互信息；混合相似度；属性映射图中图分类号：TP391 doi: 10.19734/j.issn.1001-3695.2018.06.0462
+
+# Multiple schema matching method based on simhash and mixed similarity
+
+Cao Weidong, Hu Wei, Wang Jialiang, Wang Jing (College ofComputer Science&Technology,Civil Aviationon UniversityofChina,Tianjin 300300,China)
+
+Abstract: Inorder to solvethe problems ofmultiple shema matchingin theprocess ofintegrating multi-source heterogeneous civilaviationpassenger servicedata,suchaslow eficiency,lowaccuracyandthecomplexityofobtainingcomplete schema information,this paper proposedthemultiple schema matching method basedon SimHash and mixed similarity.Firstly,the method calculated the weight offeature units based on PMI,and generated thesignatureofcolumns by SimHash to represent attribute features to reduce feature dimension.Further, it employed K-means $^ { + + }$ to generate candidate matching sets by clustering the columns.Finall,itconstructed te mapping graphofatributes basedonattibutes’mixed similarity,anddisplayed the matchingrelationship between atributes intuitively.Meanwhile,it improved eficiencyof multiple schema matching.The experimentalresults verifythe feasibilityofthe proposed method.The method providesanewsolution for eficientlyresolving the schema conflict in the proces of integrating multi-source heterogeneous civil aviation passenger service data.
+
+Key words: multiple schema matching; signature; PMI; mixed similarity; attribute mapping graph
+
+# 0 引言
+
+国内民航旅客服务信息系统中存有大量与收益相关的数据，如PNR(Passengername record,旅客姓名记录)、ET(ElectronicTicket,电子客票)、CKI(Check-In,离港信息)等。这些数据由不同应用产生并分散在各自的系统中,存在模式异构问题。如果对民航收益漏洞产生的原因进行综合分析,就需要对多源异构数据进行集成。而模式匹配技术是数据集成的关键技术,它可以发现属性之间的语义映射关系,消除数据模式的异构冲突。
+
+目前,因民航旅客服务领域数据安全性要求较高,数据的多级安全访问权限造成数据的详细模式信息获取较难,经分析传统的模式匹配方法应用在此领域存在如下问题：
+
+a)基于模式信息的匹配方法对模式信息的完整性要求较高，当模式信息不全时,仅通过计算属性之间的文本相似度来区分属性,无法获得理想的匹配结果。如表1中的psg_type 属性与表2 中的opt_type 属性之间的文本相似度很高,但它们指代意义却全然不同。
+
+b)基于数据实例的匹配方法无法解决因数据分布特征相似带来的误配问题。如表1中的orgn_city代表出发城市,表2中的destination表示到达城市，它们的数据实例分布相似,但若据此判断它们表示相同的语义就会导致错误。
+
+c)传统方法解决的是二元匹配问题，当 $n$ 个数据模式进行匹配时,传统方法每次匹配两个模式,需要迭代 $n ( n { - } 1 ) / 2$ 次，因此匹配效率不高。
+
+Tablel Civil aviation passenger booking records data sheet   
+表2电子客票数据表(ET)   
+
+<html><body><table><tr><td>tk_no</td><td>orgn_city</td><td>psg_type</td><td>：</td></tr><tr><td>9. 99979E+12</td><td>TAO</td><td>CIP</td><td>：</td></tr><tr><td>9. 99242E+12</td><td>TAO</td><td>VIP</td><td>：</td></tr><tr><td>9. 99852E+12</td><td>CGO</td><td>CIP</td><td></td></tr><tr><td>9. 99242E+12</td><td>SHE</td><td>CIP</td><td></td></tr></table></body></html>
+
+表1民航旅客订座数据表(PNR)  
+Table2 Electronic ticket data sheet   
+
+<html><body><table><tr><td>opt_type</td><td>destination</td><td>TICKET_NO</td><td></td></tr><tr><td>R</td><td>CGO</td><td>9. 99242E+12</td><td>：</td></tr><tr><td>R</td><td>BZV</td><td>9.99242E+12</td><td>：</td></tr><tr><td>V</td><td>SSG</td><td>9. 99852E+12</td><td>：</td></tr><tr><td>R</td><td>TAO</td><td>9.99442E+12</td><td>…</td></tr></table></body></html>
+
+针对上述问题,本文提出一种基于SimHash和混合相似度的多模式匹配方法来探究属性之间的匹配关系,将模式级的匹配问题转换成属性级的匹配问题,在简化多模式匹配过程的同时提高了匹配质量。
+
+# 1 相关工作
+
+模式匹配方法经多年发展,已经取得了较好的成果[1],根据辅助匹配信息的不同主要分为以下四种：
+
+a)基于模式信息的匹配,如COMA[2]和SEMINT[3]通过结合多种模式信息,取得了较好的匹配效果,但当多个模式匹配时，此类方法的时间复杂度较高。Ding 等人[4提出通过TF-IDF方法构造属性的特征向量对属性聚类分析降低了多模式匹配的时间复杂度问题,但存在“同名异义"和"同义异名"的属性，导致其匹配效果不佳。
+
+b)基于结构信息的匹配。早期的基于结构信息的模式匹配方法将源模式和目标模式通过树或图的结构表示出来,再通过计算对应节点之间的相似度来挑选最佳匹配[5-6],为了提高模式匹配的准确度，后来杜小坤等人[7又提出了IU_Based方法。
+
+c)基于数据实例的匹配:早期基于数据实例的匹配方法。通过获得数据实例的重复度来挖掘属性之间的匹配关系[89],该类方法挖掘出的数据实例分布特征并不完整。Ahmadi等人[10]提出用q-gram 方法结合互信息理论构造属性列的特征向量,但当数据实例相似时会导致误配情况(例如数值型的属性列之间无法区分)；Mehdi等人[1I提出通过正则表达式来匹配数据实例的方法就解决此问题,但是该方法最后仅借助谷歌相似度来区分误配属性,准确度受限；Gu等人[12]提出将实例匹配和模式匹配交互执行，从而提高模式匹配的准确度也是一种可行的方法,但匹配过程趋于复杂。
+
+d)基于其他信息辅助匹配的方法。如运用本体知识构造模式本体与全局本体进行匹配的方法[13],为解决多模式匹配问题提供了新的思路,但在实际匹配过程中需要的多种模式信息不易获得。
+
+在数据具有访问权限,无法获得详细模式信息的背景下,以上四类方法难以获得理想的匹配效果。因此本文提出使用属性的数据实例和属性名作为辅助匹配信息的方法,该方法在数据安全要求较高的民航领域同样适用。
+
+# 2 基于SimHash的聚类分析
+
+# 2.1基于点互信息的 SimHash 算法
+
+在多模式背景下,属性的数据实例又称为属性列。由于属性列与属性是一一对应的关系,因此可以用属性列的特征来表示属性特征。传统方法用互信息理论来计算属性之间的相似度时，由于提取的特征单元较多，导致属性列的特征向量维度较高，不利于后续的计算。本文使用基于点互信息(PMI)的SimHash 算法来生成固定位数的签名作为属性列的特征，有效的降低了特征向量的维度。并给出如下相关定义。
+
+定义1特征单元。指从数据实例中提取的具有实际含义可以用来表示数据实例特征的数值或者字符串。
+
+由于数据实例复杂多变,因此将数据实例分为字符串型、时间型和数值型三类,以便提取特征单元。跟据定义1对字符串类型的数据用 $\mathsf { q }$ -gram 提取特征单元。时间型数据按照年、月、日、时、分、秒等进行单位分割处理。数值类型具有稀疏性,可以采用等距划分法提取特征单元。属性列 $a$ 提取特征单元后，以键值对的形式表示为 $a = \{ < u _ { 1 } , t a ( u _ { 1 } ) > , < u _ { 2 } , t a ( u _ { 2 } ) > , \cdots , < u _ { i } , t a ( u _ { i } ) > \}$ ,其中 $, u _ { i }$ 是 $a$ 的特征单元, $t a \left( u _ { i } \right)$ 是 $u _ { i }$ 在属性列 $a$ 中出现的频次。 $n$ 个属性列的所有特征单元的交集为 $U = \left\{ u _ { 1 } , u _ { 2 } , u _ { 3 } , \cdots , u _ { m } \right\}$ ,代表属性列的特征集合。
+
+定义2点间互信息。指衡量任一属性列 $a _ { k }$ 与任一特征单元 $u _ { y }$ 之间所蕴涵信息量差异的一种量度,用 $\mathrm { p m i } ( a _ { k } , u _ { y } )$ 表示。
+
+$$
+\mathrm { p m i } \left( a _ { k } , u _ { y } \right) = l b \frac { t a _ { k } \left( u _ { y } \right) / T } { \left( \sum _ { i = 1 } ^ { n } t a _ { i } \left( u _ { y } \right) \middle / T \right) \times \left( \sum _ { y = 1 } ^ { m } t a _ { k } \left( u _ { y } \right) \middle / T \right) }
+$$
+
+其中： $t a _ { k } \left( u _ { y } \right)$ 表示特征单元 $u _ { y }$ 在属性列 $a _ { \scriptscriptstyle k }$ 中出现的频次,n $t a _ { i } \big ( \boldsymbol { u } _ { y } \big )$ 表示特征单元 $u _ { y }$ 在所有属性列中出现的频次和,$\sum _ { y = 1 } ^ { m } t a _ { k } { \big ( } u _ { y } { \big ) }$ $U$ $a _ { \scriptscriptstyle k }$ 现的频次和， $\mathbf { \Omega } _ { , T }$ 表示所有特征单元在所有属性列中出现的频次和，
+
+SimHash 算法[14]是一种计算海量文本相似度的高效算法,其原理是将高维文本特征转换为固定位数的签名,通过比较签名来获取相似关系。由定义2可知,属性列与其包含的特征单元之间的PMI值越大,则该特征单元与当前属性列的相关相关性越大。若两个属性列相同的特征单元越多，则这两个属性列匹配的可能性越大。因此本文使用特征单元与属性列的PMI值作为权重，提出基于PMI-SimHash的属性列签名生成算法。
+
+算法1生成属性列签名输入 $: n$ 个属性列集合 $A { = } \{ a _ { l } , a _ { 2 } , { \ldots } , a _ { n } \}$ 。
+
+输出：所有属性列的签名集合 $P$ 。
+
+（204号 $1 \mathrm { P } { = } \emptyset$   
+2 for $a \in A$ （204号   
+3 $a { = } \{ u _ { I } , u _ { 2 } { , } { \ldots } { , } u _ { y } \}$   
+4 S-0   
+5 for $u \in a$ （20   
+6 s=hash(u)   
+7 让 $\scriptstyle \cdot _ { S i } = = 0$ （204号   
+8 Si= pmi(a,u)   
+9 else   
+10 $\mathrm { \mathbf { s } _ { i } = - p m i ( a , u ) }$   
+11 end if   
+12 $\scriptstyle \mathbf { S } = + \mathbf { s }$   
+13 end for   
+14 if ${ S _ { i } { > } 0 }$   
+15 Si=1   
+16 else   
+17 Si=0   
+18 end if   
+19 P=P.add(S)   
+20 end for   
+21 return P
+
+具体步骤为：遍历属性列集合 $A$ 提取属性列 $\mathbf { \Delta } _ { a }$ 的特征单元集合 $a { = } \{ u _ { I } , u _ { 2 } { , } { \ldots } { , } u _ { y } \}$ ；用相同的hash 函数生成特征单元 $u$ 的 $f$ 位签名 $s ,$ 并根据式(1)计算 $\mathrm { p m i } ( a , u )$ 。若 $s$ 中第 $i$ 位为1,则更新 $s$ 的第 $i$ 位为 $\mathrm { \ p m i } ( a , u )$ ；否则,更新为 $\mathsf { \cdot p m i } ( a , u )$ ，并对属性列 $\mathbf { \Delta } _ { a }$ 中的所有特征单元 $\boldsymbol { u }$ 的签名 $s$ 进行按位求和得 $s ,$ 判断 $S _ { i }$ 并更新其值；最后将属性列的签名 $s$ 加入到集合 $P$ 中,最后返回所有属性列的签名集合 $P$ 算法结束。
+
+# 2.2聚类分析
+
+由于属性与属性列是一一对应的关系,因此用属性列的签名来表示属性特征并进行聚类分析，即可得出属性的聚类关系。k-means $^ { + + }$ 算法[15]作为一种基于划分的聚类算法其优点在于收敛速度快、稳定性高(和普通K-means 相比)。本文用属性列的签名集 $P$ 和聚类数 $k$ 作为K-means $^ { + + }$ 的输入。输出为包含 $k$ 个候选匹配集的集合 $R , R = \{ r _ { 1 } , r _ { 2 } , \cdots r _ { k } \}$ ,其中 $r _ { i }$ 为第 $i$ 个候选匹配属性集合。
+
+随着 $k$ 值的变化,聚类结果可能会出现两种情况：a)表示不同语义的属性可能聚为一类;b)表示相同语义的属性可能存在于不同类中。针对问题a)本文提出一种属性混合相似度计算方法来区分候选匹配集中语义不一致的属性。针对问题b)本文运用启发式思想动态寻优 $k$ 值。
+
+# 3 基于混合相似度的多模式匹配
+
+为了更加准确地区分候选匹配集中的误配属性,提出一种新颖的基于相似度区分能力的混合相似度计算模型,进而根据
+
+该模型计算属性的混合相似度并构造属性映射图来描述属性之间的匹配关系。
+
+# 3.1混合相似度计算方法
+
+# 3.1.1基于语法和语义的属性相似度计算
+
+民航旅客服务数据的属性存在词干表达和复合词表达的形式,在基于TF-IDF计算不同模式属性的语法相似度之后需要对其进行拆分和词形还原的标准化处理,再计算其语义相似度。例如(TICKET_NO) $\cdot >$ {ticket,number}。
+
+a)基于TF-IDF 的语法相似度计算[4]。首先将候选匹配集中的属性用 $\mathsf { q }$ -gram方法分割成字母单元,再通过TF-IDF方法计算字母单元的权重 $w _ { ; }$ 最后用一组权重向量 $\pmb { \nu } \mathrm { = } ( w _ { I } , w _ { 2 } , . . . , w _ { n } )$ 来表示属性，属性 $s n _ { i }$ 与 $s n _ { j }$ 之间的语法相似度表示为:
+
+$$
+\mathrm { E d S i m } ( s n _ { i } , s n _ { j } ) = \frac { \nu _ { i } \cdot \nu _ { j } } { \left\| \nu _ { i } \right\| \times \left\| \nu _ { j } \right\| }
+$$
+
+b)基于WordNet的语义相似度计算[16]。在WordNet中影响两个概念词之间相似度的因素有两个,分别是两个概念词在WordNet中的距离和概念词在WordNet中包含的信息内容(IC)。其中影响IC 值的因素有概念词的在WordNet中的深度和概念词在WordNet中的密度。IC值与概念词的密度呈负相关与概念词的深度呈正相关。为准确表示属性之间的语义相似度,本文使用基于IC的相似度计算模型来衡量属性之间的语义相似度。计算模型定义如下。
+
+$$
+\operatorname { I C } \big ( s n \big ) = 1 - \frac { \log \big ( \mathrm { h y p o } \big ( s n \big ) + 1 \big ) } { \log \big ( N o d e _ { \operatorname* { m a x } } \big ) } \times \frac { e ^ { \lambda \times \mathrm { d e p t h } \left( s n \right) } - e ^ { - \lambda \mathrm { d e p t h } \left( s n \right) } } { e ^ { \lambda \times \mathrm { d e p t h } \left( s n \right) } + e ^ { - \lambda \mathrm { d e p t h } \left( s n \right) } }
+$$
+
+$$
+\mathrm { L } \big ( \mathrm { I C } \big ) = \mathrm { I C } \big ( s n _ { i } \big ) + \mathrm { I C } \big ( s n _ { j } \big ) - 2 \times \mathrm { I C } \big ( s n _ { i } , s n _ { j } \big )
+$$
+
+$$
+\operatorname { L } { \big ( } { \mathrm { p a t h } } { \big ) } = { \frac { \log { \Big ( } { \mathrm { D i s } } { \big ( } s n _ { i } , s n _ { j } { \big ) } + 1 { \Big ) } } { \log { \big ( } 2 \times D e p t h _ { \operatorname* { m a x } } + 1 { \big ) } } }
+$$
+
+$$
+\mathrm { W t S i m } ( s n _ { i } , s n _ { j } ) = e ^ { - \left( \alpha \times \mathrm { L } \left( \mathrm { I C } \right) + \beta \times \mathrm { L } \left( \mathrm { p a t h } \right) \right) }
+$$
+
+其中 $\mathrm { I C } ( s n )$ 表示属性 $s n$ 包含的信息内容,L(IC)表示IC 语义距离,L(path)表示两个概念词基于最短路径的语义距离 $\mathrm { . W t S i m } ( s n _ { i } , s n _ { j } )$ 表示属性 $s n _ { i }$ 和 $s n _ { j }$ 之间的语义距离。hypo(sn)表示属性 $s n$ 在WordNet中的下位词数量 $\mathcal { N o d e } _ { m a x }$ 表示WordNet中所有概念节点的数量,depth $( s n )$ 表示 $s n$ 在WordNet 中的深度,$\mathrm { D i s } ( s n _ { i } , s n _ { j } )$ 表示属性 $s n _ { i }$ 和 $s n _ { j }$ 在WordNet 中的最短距离。 $\lambda , \alpha , \beta$ 为大于零的参数。
+
+对于模式中非复合表达形式的属性按照式(6计算其语义相似度，对于复合表达形式的属性经过还原处理后是由两个及以上的单词构成的词集时,先通过式(6)计算词集中单词的相似度,此时 $\mathrm { W t S i m } ( s n _ { i } , s n _ { j } )$ 为属性的词集相似度。
+
+# 3.1.2混合相似度计算模型
+
+由于单独使用语法或语义相似度无法准确表示属性之间的相似关系,因此结合两者提出一种新的混合相似度计算模型。
+
+对于一个标注为匹配的属性对,若使用语法(语义)相似度计算方法得到的相似度值越接近1,则可认为该种相似度的区分能力越强。对于一个标注为不匹配的属性对,若也使用该相似度计算方法得到的相似度值越接近0,则可认为该种相似度的区分能力越强。基于以上分析给出相似度区分能力定义。
+
+定义3相似度区分能力。对于带标签属性对集合 $X ^ { m }$ 和$X ^ { u } , X ^ { m }$ 中的属性对都被标注为匹配 ${ \mathcal { A } } ^ { u }$ 中的属性对都被标注为非匹配 $\mathbf { \nabla } _ { S I M _ { X } ^ { m } }$ 和 $S I M _ { X } { } ^ { u }$ 分别表示基于语法(语义)相似度方法得出的相似度集合。则相似度区分能定义为：
+
+$$
+\mathrm { d } \mathbf { p } _ { \mathrm { s i m } } = \frac { \displaystyle \sum _ { s i m \in S I M _ { \chi ^ { m } } } s i m _ { i } + \sum _ { s i m \in S I M _ { \chi ^ { w } } } 1 - s i m _ { i } } { \left| X ^ { m } \right| + \left| X ^ { u } \right| }
+$$
+
+其中 $\mathrm { \Delta } \mathrm { d p s i m }$ 表示相似度区分能力 $\mathrm { \ s i m _ { i } }$ 表示属性对的相似度， $| X ^ { m } |$ 和 $\left| X ^ { u } \right|$ 分别表示集合 $X ^ { m }$ 和 $X ^ { u }$ 中属性对的数量。
+
+结合定义3可以得出基于相似度区分能力的混合相似度计算模型定义如下：
+
+$$
+\begin{array} { r } { \sin ( s n _ { i } , s n _ { j } ) = ( \begin{array} { c } { \displaystyle \frac { \mathrm { d } { \mathtt { p } } _ { \mathrm { s i m } } \big ( \mathrm { E d S i m } \big ) } { \mathrm { d } { \mathtt { p } } _ { \mathrm { s i m } } \big ( \mathrm { E d S i m } \big ) + \mathrm { d } { \mathtt { p } } _ { \mathrm { s i m } } \big ( \mathrm { W t S i m } \big ) } \times \mathrm { E d S i m } \big ( s n _ { i } , s n _ { j } \big ) ^ { p } } \\ { + \displaystyle \frac { \mathrm { d } { \mathtt { p } } _ { \mathrm { s i m } } \big ( \mathrm { W t S i m } \big ) } { \mathrm { d } { \mathtt { p } } _ { \mathrm { s i m } } \big ( \mathrm { E d S i m } \big ) + \mathrm { d } { \mathtt { p } } _ { \mathrm { s i m } } \big ( \mathrm { W t S i m } \big ) } \times \mathrm { W t S i m } \big ( s n _ { i } , s n _ { j } \big ) ^ { p } \ ) } \end{array} ) ^ { \frac { 1 } { p } } } \end{array}
+$$
+
+其中: $\mathrm { { d p } _ { \mathrm { { s i m } } } ( \mathrm { { E d S i m } ) } }$ 和 $\mathrm { d } \mathsf { p } _ { \mathrm { s i m } } ( \mathrm { W t S i m } )$ 分别表示语法相似度和语义相似度的区分能力 $\mathbf { \Delta } , p$ 为参数,且 $p { > } 0$ 。
+
+# 3.2基于混合相似度的多模式匹配算法
+
+为了从候选匹配集中筛除误匹配项,获取最终的属性匹配关系,构建基于属性混合相似度的属性映射图,如算法2所示。
+
+算法2构建属性映射图 $G ( R , E )$
+
+输入：匹配属性对集合 $X ^ { m }$ 和非匹配属性对集合 $X ^ { u }$ 阈值 $\mathbf { \sigma } _ { \varepsilon }$ 和 $\theta ,$ 候选匹配集 $R { = } \{ r _ { I } , r _ { 2 } { , \ldots } , r _ { k } \}$ 。
+
+输出：属性映射图 $G ( R , E )$ 。
+
+$1 ~ \mathrm { d p } _ { \mathrm { s i m } } ( \mathrm { E d S i m } ) ^ { \prime } { = } \mathrm { d p } _ { \mathrm { s i m } } ( \mathrm { W t S i m } ) ^ { \prime } { = } 0 . 5$   
+$2 \ M = { \bf O } , \ U = { \bf O }$   
+3 for $\mathbf { x } ^ { \mathrm { { m } } } { \in } \mathrm { { X } ^ { \mathrm { { m } } } , \mathbf { x } ^ { \mathrm { { u } } } \in \mathrm { { X } ^ { \mathrm { { u } } } } }$   
+4 $\mathrm { M = M . a d d ( x ^ { m } ) , U = U . a d d ( x ^ { u } ) }$   
+5 if $| \mathrm { d } \mathrm { p } _ { \mathrm { s i m } } ( \mathrm { E d S i m } ) - \mathrm { d } \mathrm { p } _ { \mathrm { s i m } } ( \mathrm { E d S i m } ) ^ { \prime } | < \varepsilon$   
+6 return dpsim(edsim)   
+7 else   
+8 $\mathrm { d } \mathsf { p } _ { \mathrm { s i m } } ( \mathrm { E d S i m } ) ^ { \prime } { = } \mathrm { d } \mathsf { p } _ { \mathrm { s i m } } ( \mathrm { E d S i m } )$   
+9 end if   
+10 if （204号 $\begin{array} { r l } & { | \mathrm { d } \mathrm { p } _ { \mathrm { s i m } } ( \mathrm { W t S i m } ) \mathrm { - } \mathrm { d } \mathrm { p } _ { \mathrm { s i m } } ( \mathrm { W t S i m } ) ^ { \prime } | < \varepsilon } \\ & { \quad \mathrm { R E T U R N } \mathrm { d } \mathrm { p } _ { \mathrm { s i m } } ( \mathrm { W t S i m } ) } \end{array}$   
+11   
+12 else   
+13 $\mathrm { \ d p s i m ( W t S i m ) ^ { \prime } = d p _ { s i m } ( W t S i m ) }$   
+14 end if   
+15end for   
+（204号 $1 6 E { = } \emptyset$   
+17for $r \in R$   
+18 for sni,snj∈r   
+19 if sim(sni,snj)>=0   
+20 $E { = } E . \operatorname { a d d } ( ( s n _ { i , } s n _ { j } ) )$
+
+21 end if
+
+22 end for
+
+23end for
+
+24return $G ( R , E )$
+
+具体步骤如下：
+
+a)分别从标签为匹配和非匹配的集合 $X ^ { m }$ 和 $X ^ { u }$ 中每次挑选一个属性对分别加入集合 $M$ 和 $U$ 中,根据 $M$ 和 $U$ 用式(2)计算属性对的 TF-IDF 相似度 $\mathrm { E d S i m ( s n _ { i } , s n _ { j } ) }$ ,进一步根据式(7)计算TF-IDF方法的区分能力 $\mathrm { d } \mathsf { p } _ { \mathrm { s i m } } ( \mathrm { E d } \mathsf { S i m } )$ ，迭代这个过程直到$\mathrm { d } \mathsf { p } \mathrm { s i m } ( \mathrm { E d S i m } )$ 的变化小于给定阈值 $\mathbf { \sigma } _ { \varepsilon }$ 停止,并返回 $\mathrm { { d p } \mathrm { { s i m } ( E d S i m ) } } .$ 同理可得 $\mathrm { d } \mathsf { p } _ { \mathrm { s i m } } ( \mathrm { W t S i m } )$ 值(3-15行)。
+
+b)遍历集合 $R$ 先分别根据式(2)(6)计算 $r$ 中属性对 $( s n _ { i } , s n _ { j } )$ 的TF-IDF 相似度 $\mathrm { E d S i m ( s n _ { i } , s n _ { j } ) }$ 和 WordNet 相似度 $\mathrm { W t S i m } ( s n _ { i } , s n _ { j } )$ 进而根据式(8)计算其混合相似度 $\mathrm { s i m } ( s n _ { i } , s n _ { j } )$ ，若 $\scriptstyle \sin ( s n _ { i } , s n _ { j } ) > = \theta _ { i }$ （2则以属性 $s n _ { i }$ 和 $s n _ { j }$ 为顶点,将边 $( s n _ { i } , s n _ { j } )$ 加入集合 $E$ 中,最后输出属性映射图 $G ( R , E ) ( 1 7 { \sim } 2 4 \$ 行)算法结束。最后相互匹配的属性以边的形式连接,而误匹配的属性以孤立点的形式存在。属性之间的关系以图的形式直观的表示出来。
+
+另外,通过分析COMA方法[2发现影响多模式匹配时间复杂度的关键在于匹配过程中执行相似度计算的次数。参与匹配的模式数量以及模式中属性数量越多,需要执行相似度计算的属性对数量越多,COMA方法时间复杂度就越高。设有 $n ( n { > } { = } 2 )$ 个待匹配模式,每个模式平均包含了 $m ( m { > } 1 )$ 个属性。在实际匹配过程中,模式中的属性存在冗余并不是一一对应,当选用COMA方法来处理多模式匹配时，匹配过程主要分为三步,首先从 $n$ 个模式中挑选两个模式,进而根据模式的属性类型选择对应的匹配器计算相似度，最后集成不同匹配器的结果。在该过程中只需关注执行相似度计算的属性对数量,将其设为 $Y _ { 1 }$ 可得：
+
+$$
+Y _ { 1 } = \frac { 1 } { 2 } n ^ { * } ( n - 1 ) ^ { * } m ^ { 2 }
+$$
+
+本文的方法先对 $m ^ { * } n$ 个属性聚类分析,获得 $k ( k { > } 1 , k$ 为常数)个候选匹配集,进而根据候选匹配集中的属性计算相似度。设第$i ( i \leq k$ )个候选集中包含 $x _ { i }$ 个属性,则有 $m * n = \sum _ { i = 1 } ^ { k } x _ { i }$ 。若将本文算法执行相似度计算的属性对数量设为 $Y _ { 2 }$ 可得
+
+$$
+Y _ { 2 } = \sum _ { i = 1 } ^ { k } { \frac { 1 } { 2 } } x _ { i } * { \big ( } x _ { i } - 1 { \big ) } = { \frac { 1 } { 2 } } \sum _ { i = 1 } ^ { k } { \Big ( } x _ { i } ^ { 2 } - x _ { i } { \Big ) } = { \frac { 1 } { 2 } } \sum _ { i = 1 } ^ { k } x _ { i } ^ { 2 } - { \frac { 1 } { 2 } } \sum _ { i = 1 } ^ { k } x _ { i }
+$$
+
+在这里 $x _ { i } \geq 1$ ，当 $x _ { i } = 1$ 时表示候选匹配集中只有一个属性，不会进行相似度计算。实际情况下 $k { \approx } n$ 设 $\scriptstyle x _ { i } = m$ （实际情况下 $x _ { i }$ 的取值在 $\mathbf { \nabla } _ { m }$ 上下波动),则有 $Y _ { 2 } = \frac { 1 } { 2 } n * m ^ { 2 } - \frac { 1 } { 2 } n * m$ ,由于 $Y _ { 1 } > Y _ { 2 }$ 因此本文算法进行相似度计算的运算量更小。
+
+同时根据以上分析可知,本文算法的时间复杂度为 $\mathrm { O } ( n m ^ { 2 } )$ 而COMA方法的时间复杂度为 ${ \mathrm { O } } ( n ^ { 2 } m ^ { 2 } )$ ，因此本文算法的时间复杂度更低。
+
+综上所述,基于SimHash和混合相似度的多模式匹配方法对应的处理流程如图1所示。
+
+# 4 实验与评价
+
+# 4.1实验数据集
+
+本文选用的实验数据来自于民航旅客服务系统(PSS)中的民航旅客订座数据(PNR)、电子客票数据(ET)、离港数据(CKI)和客座率数据(INV四个数据源中的部分数据属性和大量数据实例。这些数据源的模式不同,而且各个系统又包含若干个功能模块,不同的功能模块为了提高查询速度设计了一些冗余的属性,这些属性虽名称不同,但却表示相同的语义。实验过程中将数据分成四组,代表四种来源的异构数据集。
+
+表3属性及实例数量  
+Table3 Number of attributes and instances   
+
+<html><body><table><tr><td colspan="4">TaoiesNumnoerorattrioute andistances</td></tr><tr><td>异构数据源</td><td>属性数量</td><td>每个属性的实例数量</td><td>匹配的属性数量</td></tr><tr><td>PNR</td><td>16</td><td>30000</td><td>14</td></tr><tr><td>ET</td><td>11</td><td>30000</td><td>10</td></tr><tr><td>CKI</td><td>14</td><td>30000</td><td>14</td></tr><tr><td>INV</td><td>11</td><td>30000</td><td>10</td></tr></table></body></html>
+
+# 4.2评价指标
+
+实验结果采用模式匹配领域中的查准率(Precision)、查全率(recall)和全面性(overall)三个指标进行评价。若 $T$ 为模式匹配算法返回的正确匹配结果数量 $P$ 为算法返回的所有匹配结果数量 $F$ 为算法返回的错误的匹配结果数量； $R$ 为实际所有正确的匹配结果数量。
+
+![](images/c6a00b0385d90d89449bf682d807bfe02f479884e952f45b6993e473e3279df1.jpg)  
+图1多模式匹配方法流程图  
+图2k取不同值时的聚类结果  
+Fig.2Cluster results with different k values
+
+查准率 $\mathrm { P r e c i s i o n } = \frac { T } { P }$   
+查全率 $\mathrm { R e c a l l } = { \frac { T } { R } }$   
+全面性 ${ \mathrm { O v e r a l l } } = { \frac { T - F } { R } } = { \mathrm { R e c a l l } } \times \left( 2 - { \frac { 1 } { { \mathrm { P r e c i s i o n } } } } \right)$
+
+# 4.3 实验结果及分析
+
+实验过程主要从聚类 $k$ 值、相似度区分能力、综合相似度阈值 $\theta$ 、数据实例的数量这四个角度考虑不同因素对匹配结果的影响,并设计了多组对比实验,验证本文方法的可行性。
+
+# $4 . 3 . 1 \mathrm { ~ k ~ }$ 值对聚类结果影响
+
+聚类数 $k$ 值的选择对实验结果有一定的影响。若 $k$ 值选择过小,类与类之间就不易区分,影响最终匹配的查准率。若 $k$ 值选择过大,本属于同一类的属性会被分开影响最终的查全率。实验中数据实例数量为500,聚类算法使用kmeans $^ { + + }$ 实验结果如图2所示。
+
+30 25   
+20 山   
+itettt 15 1 0   
+Vhte O 10 11 12 13 1 4 15 1 6 K Number
+
+根据图2可得，横坐标表示聚类数 $k$ 的取值，纵坐标表示 $k$ 取不同值时所有类中完全匹配的属性的数量之和。可以看出当$k { = } 1 5$ 时完全匹配的属性数量达到峰值,聚类效果最好。而由表3可知单个模式的属性最大数量为16,此时 $k$ 值与之相近。说明在实际匹配过程中 $k$ 取值应当与单个模式中属性的最大数量相近
+
+# 4.3.2探究不同相似度的区分能力
+
+每次从待匹配属性对中随机挑选适量的属性对,构成匹配集合和不匹配集合。其中匹配集合与不匹配集合中的属性对数量相等。根据文献[16],WordNet相似度的参数设置为$\lambda { = } 0 . 4 , \alpha { = } 0 . 2 , \beta { = } 0 . 1 ,$ 实验结果如图3所示。
+
+根据图3可得横坐标表示匹配属性对集合与不匹配属性对集合中元素的数量之和,纵坐标表示相似度区分能力。从图中可知WordNet的区分能力值稳定在0.69左右，而TF-IDF的区分能力值呈上升到平稳的趋势,最后稳定在0.61左右。由于TF-IDF方法对同义词构成的属性不敏感,因此与WordNet方法相比,TF-IDF方法的区分能力较弱。
+
+![](images/ba58ba2eafb2638c8a2b31e7a00c66713003d44f5683fe4ebd80e83f825b3167.jpg)  
+Fig.1Flow diagram of multiple schema matching method   
+图3不同相似度区分能力  
+Fig.3Distinguish ability of different similarity
+
+# 4.3.3阈值0的选择对匹配结果的影响
+
+构建属性映射图时，选择合适的阈值有助于提高最终匹配结果的准确性。实验中数据实例数量为500,阈值区间为[0.3,0.6],$\theta$ 以间隔0.05递增,实验结果如图4所示。
+
+![](images/1a9be3ed37cb0f06927ed23559ad08a83d4b58518856429210b22a015cac3726.jpg)  
+图4不同阈值下的匹配结果
+
+根据图4可得查准率总体处于一个上升的趋势。原因在于随着 $\theta$ 的增大,候选匹配集中的误匹配项被逐渐排除,所以查准率增大。查全率和全面性的总体趋势是先上升,后下降的趋势。当 $\theta$ 在 $0 . 3 { \sim } 0 . 4$ 时,召回率在 $\scriptstyle \theta = 0 . 4$ 时出现了下降,因为存在属性的相似度分布在不同区间的情况。而当 $\theta$ 取值为0.45时，查全率取值0.832,达到峰值。当 $\theta$ 大于0.45时，更多正确匹配的属性经过 $\theta$ 筛选后被排除变成了孤立点,所以查全率开始下降。结合全面性指标走势可以得出当 $\theta$ 取值0.45时，通过属性映射图获得的匹配结果最优。
+
+# 4.3.4实例数量对匹配结果的影响
+
+选用不同量级的数据实例进行对比实验，分析实例数量对匹配结果的影响。实验中 $k$ 取值15,阈值 $\theta$ 取0.45,实验结果如图5所示。
+
+Fig.4Matching results with different thresholds(0)   
+图5实例数量不同时的匹配结果  
+![](images/c7060b703f5d63db30296c92981e66a2478d8d894674b07b6cd1a02b7dbd09ee.jpg)  
+Fig.5Matching results with different instances number
+
+根据图5中可得三种指标总体上呈现一种微弱的上升趋势。当数据实例数量为500时的全面性指标为0.793,当数据实例的数量为1000时的全面性指标值较小为0.751。这主要是由于数据实例数量较少时实例分布不均导致的。而当数据实例的数量为30000时，全面性指标值达到0.830。因此,参与匹配的数据实例数量越多，匹配结果的准确性越高。
+
+# 4.3.5不同方法对比实验分析
+
+本文提出的基于SimHash和混合相似度的多模式匹配方法简称B_SHM方法。对比方法一来自文献[4]中的方法。该方法用TF-IDF 算法提取属性的特征并聚类分析,从而获取属性的匹配关系。在这里简称其为基于模式信息的匹配方法(B_ATT)。对比方法二来自文献[10]中的方法。该方法用 $\mathsf { q }$ -gram方法提取数据实例特征,并构造互信息向量,进而用聚类算法来求属性之间的匹配关系。在这里简称其为基于数据实例的匹配方法(B_INS)
+
+实验1本文提出的B_SHM方法的实验参数为 $k$ 取15,阈值 $\theta$ 取值0.45,数据实例数量为30000,实验结果如表4所示。
+
+Table4 Comparison experimental results with the three different methods   
+
+<html><body><table><tr><td>实验方法</td><td>Precision</td><td>Recall</td><td>Overall</td></tr><tr><td>B_SHM</td><td>0。951</td><td>0。875</td><td>0。830</td></tr><tr><td>B_ATT</td><td>0。758</td><td>0。791</td><td>0。538</td></tr><tr><td>B_INS</td><td>0。813</td><td>0。875</td><td>0。674</td></tr></table></body></html>
+
+实验2根据实验数据集,分别取2个模式,3个模式和4个模式进行分组实验,测试不同方法的运行时间,实验结果如表5所示。
+
+表4三种不同方法对比实验结果  
+表5三种不同方法运行时间对比实验结果  
+Table5 Comparison experimental results of running time with three different methods   
+
+<html><body><table><tr><td>实验方法</td><td>2个模式</td><td>3个模式</td><td>4个模式</td></tr><tr><td>B_SHM</td><td>0.303s</td><td>0.412s</td><td>0. 547s</td></tr><tr><td>B_ATT</td><td>0. 135s</td><td>0.216s</td><td>0.324s</td></tr><tr><td>B_INS</td><td>0. 576s</td><td>1. 296s</td><td>2.304s</td></tr></table></body></html>
+
+根据表4可得本文提出的B_SHM方法的查准率最高。B_INS方法的查准率高于B_ATT方法。同时对比查全率指标可以得出B_ATT方法的查全率相对最低,而B_SHM方法和BINS方法的查全率持平。最后结合全面性指标分析可知本文提出的B_SHM方法与B_ATT方法相比提高了0.292,与B_INS方法相比提高了0.156。这是因为B_ATT方法的匹配过程进使用属性的语法相似度来进行匹配,而不同模式的属性更可能发生"同名异义"或者“同义异名"的情况，所以匹配结果的查准率相对较低。B_INS方法仅使用数据实例来辅助匹配,但存在属性语义不同,数据实例特征相似的情况,因此查准率也会受限,而B_SHM方法正好弥补了B_ATT方法和B_INS方法的不足。同时,根据表5可得当模式数量相同时，B_INS方法的耗时最长,B_SHM次之,B_ATT方法耗时最短。原因在于B_ATT方法和B_SHM方法相比,B_SHM方法在聚类处理后又进行了必要的相似度计算来排除误配属性，因此耗时较长。BSHM方法和B_INS方法相比,B_SHM方法将高维的属性列特征转换成128位的指纹,因此聚类耗时远低于BINS方法。通过综合全面性指标和时间性能可知,本文提出的方法在处理民航旅客服务数据的模式匹配过程中具有相对较好性能。
+
+# 5 结束语
+
+通过对多源异构民航旅客服务数据的分析，并针对现有模式匹配方法存在的效率低、精确度不足的问题,本文提出了基于SimHash和混合相似度的多模式匹配方法。首先，本文使用属性列的签名集进行聚类得到属性的候选匹配集，达到对属性初步筛选的目的。在很大程度上避免了同名异义"或者“同义异名"的问题。其次,本文提出了一种更准确的混合相似度计算模型，平衡了单一相似度计算带来的误差。最后,根据混合相似度确定属性映射关系,有效区分了因为数据实例特征相似导致误配的属性。同时该方法也避免了获取完整数据模式信息的繁琐过程。通过实验和分析表明本文提出的方法在多源异构数据集成领域可以有效解决多模式匹配效率低下和精确性不足的问题,在民航旅客服务数据集成方面具有重要的应用价值。
+
+# 参考文献：
+
+[1]郑文怡，翰时光．模式匹配方法研究[J].计算机应用研究,2006,23(2): 60-63.(Zheng Wenyi,Ju Shiguang.Research on schema matching approaches [J].Application Research of Computers,2006,23 (2): 60-63.)   
+[2]Do Honghai,Rahm E.COMA:a system for flexible combination of schema matching approach [C]// Proc of the 28th International Conference on Very Large Data Bases.San Francisco,CA:Morgan Kaufmann Publishers Inc, 2002:610-621.   
+[3]Li,WenSyan,Clifton，et al.SEMINT:a tool for identifying attribute correspondences in heterogeneous databases using neural networks [J].Data & Knowledge Engineering,200o,33(1): 49-84.   
+[4]Ding G, Sun T,Xu Y.Multi-schema matching based on clustering techniques [C]//Proc of the 1Oth International Conference on Fuzzy Systems and Knowledge Discovery. Piscataway, NJ: IEEE Press,2013: 778-782.   
+[5]Melnik S,Garcia Molina H,Rahm E.Similarity flooding:a versatile graph matching algorithm and its application to Schema matching [C]//Proc of the 18th International Conference on Data Engineering.Washington,DC: IEEE Computer Society,2002:117-128.   
+[6]Madhavan J,Bernstein PA,Rahm E.Generic schema matching with cupid [C]//Proc of the 27th International Conference on Very Large Data Bases. San Francisco,CA:Morgan Kaufmann Publishers Inc.20o1: 49-58.   
+[7]杜小坤，李国徽，王江晴，等．基于信息元的模式匹配方法[J].软件 学报,2015,26 (10): 2596-2613.(Du Xiaokun,Li Guohui, Wang Jiangqing, et al. Schema matching method based on information unit [J]. Journal of Software,2015,26 (10): 2596 (2613.)   
+[8]Bilke A,Naumann F. Schema matching using duplicates [C]// Proc of the 21th International Conference on Data Engineering.Washington,DC: IEEE Computer Society,2005: 69-80.   
+[9]Dhamankar R,Lee Y,Doan A,et al. IMAP: discovering complex semantic matches between database schemas[C]// Proc of ACM SIGMOD International Conference on Management of Data.New York:ACM Press, 2004: 383-394.   
+[10] Ahmadi B,Hadjieleftheriou M,Seidl T,et al. Type-based categorization of relational attributes [C]// Proc of the l2th International Conference on Extending Database Technology:Advances in Database Technology. New York: ACM Press,2009: 84-95.   
+[11] Mehdi O, Ibrahim H,Affendey L.An approach for instance based schema matching with google similarity and regular expression [J]. International Arab Journal of Information Technology,2017,14(5):755-763.   
+[12] Gu B,Li Z, Zhang X,et al. The interaction between schema matching and record matching in data integration [J]. IEEE Trans on Knowledge & Data Engineering,2016,29(1): 186-199.   
+[13]石浩宏，杨卫东．基于全局本体的多数据源模式匹配方法的研究[J]. 小型微型计算机系统，2016,37(6):1148-1152.(Shi Haohong,Yang Weidong. Research on method of multiple data sources schema matching based on global ontology [J].Journal of Chinese Computer Systems,2016, 37 (6): 1148-1152. )   
+[14] Manku G S,Jain A, Sarma AD.Detecting near-duplicates for web crawling [C]// Proc of the 16th International Conference on World Wide Web.New York: ACM Press,2007: 141-150.   
+[15] Arthur D, Vassilvitski S.K-means+: the advantages ofcareful seeding[C]// Proc of the 18th ACM-SIAM Symposium on Discrete Algorithms. Philadelphia,PA: Society for Industrial and Applied Mathematics,2007: 1027-1035.   
+[16]张思琪，邢薇薇，蔡圆媛．一种基于WordNet的混合式语义相似度计算 方法[J].计算机工程与科学,2017,39 (5):971-977.(Zhang Siqi,Xing Weiwei，Cai Yuanyuan.A WordNet-based hybrid semantic similarity measurement [J]. Computer Enginering and Science,2017,39 (5): 971- 977.)

@@ -1,0 +1,136 @@
+[
+    {
+        "type": "text",
+        "text": "Expanding the genetic code for site-specific labelling of tobacco mosaic virus coat protein and building biotin-functionalized virus-like particles† ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 1st December 2013, Accepted 17th February 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.1039/c3cc49137d ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "F. C. Wu,≠abc H. Zhang,‡d Q. Zhou,ab M. Wu,a Z. Ballard,c Y. Tian,a J. Y. Wang,\\*d Z. W. Niu\\*a and Y. Huanga ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "www.rsc.org/chemcomm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A method for site-specific and high yield modification of tobacco mosaic virus coat protein (TMvCP) utilizing a genetic code expanding technology and copper free cycloaddition reaction has been established,and biotin-functionalized virus-like particles were built bythe self-assembly of the protein monomers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over the past few years,viruses and virus-like particles have received increasing attention in various areas of science,such as vaccinology1 and nanotechnology² due to their simple mass production, tunable shape and size,controllable self-assembly, and easy modification.Among these different viruses,the tobacco mosaic virus (TMv) has become a popular candidate for nanotechnology research due to its many functions.TMV serves as a biotemplate for depositing inorganic materials, acts as the carrier of tumor-associated carbohydrate antigens,4 exists as a promising building block for biosensors,and, asananotube,enhances the magnetoviscosity of ferrofluids. TMV is a rod shaped particle consisting of 213o identical coat protein subunits.It has a $3 0 0 \\ \\mathrm { n m }$ length,an $1 8 \\ \\mathrm { n m }$ outer diameter,anda $4 \\ : \\mathrm { n m }$ innerchannel diameter.Moreover,TMV capsids can remain stable at temperatures up to $9 0 ~ ^ { \\circ } \\mathbf { C }$ ,andcan withstand ranges of pH between 3.5 and 9. The TMVCP monomers have unique self-assembly characteristics and will form into disk-like and rod-like nanostructures under different conditions with or without RNA.' Moreover,it has been shown that the TMvCP canbe manipulated chemicallyand genetically, which has resulted in many interesting applications,including a template for the growth of inorganic materials,1° a light harvesting system,11 and a nanoenzyme.1² However, traditional techniques used for the modification of TMvCP have many drawbacks that limit the usefulness of the TMvCP to a great extent. For example,the labelling reactions of genetically introduced natural amino acids are not completely site-specific because the same amino acids at the other sites could still participate in the reactions.Furthermore,thechemicalmodifications on TMVCP typically require at least two steps,which are complex and time consuming.Also,the harsh conditions of many chemical reactions on proteins may lead to low yield and unstable products. Therefore,an effective method for site specific modification on TMVCP which does not significantly influence its self-assembly is needed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To solve the problems mentioned above,the amber codon technique wasutilized.It has already been used to modify some viruses and bacteriophages.1’ However, the amber codon technique has not yet been used on TMV, the most widely used and well characterized rod-shaped virus in nanotechnology. Using this technique,an arbitrarily large array of unnatural amino acids can be incorporated site-specifically into proteins by using a nonsense codon and orthogonal tRNA-synthetase pairs.14 The copper free cycloaddition reactions ofazide groupswith various dibenzylcyclooctyne derivativesare not only highly selective,but also have fast reactivity in biological solutions even at ambient temperatures.15 In this communication,it is demonstrated, for the first time,the incorporation of an unnatural amino acid containing an azide group into TMvCP using the amber codon technique.Under different pH conditions,the mutant proteins still maintained their self-assembly capability,and formed into disk-like and rod-like structures.Biotin molecules were conjugated on the mutant proteinsina completely site-specific way via the one step copper free cycloaddition reaction.These biotinfunctionalized TMvCPs self-assembled into large disk-like and normal rod-like structures under different conditions.This approach enables a new way of modifying virus coat proteins with synthetic amino acids,and thus provides a simple and useful method to achieve the site-specific labelling of the rodshaped virus-like particles. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cbf277975792bbcde898521d69598acad15f45d0506dcba0fac54bf7b48fa02.jpg",
+        "img_caption": [
+            "Fig.1Genetic incorporation of KPN into TMVCP.(A) Structure of TMVCP. (B)Structure of the unnatural amino acid KPN. (C) MALDl-TOF mass spectra of the TMVCP and KPN11-TMVCP.(D) SDS-PAGE analysis of purified KPN11-TMVCP (lane 1,molecular mass marker; lane 2,TMVCP; lane 3,KPN11-TMVCP). "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to express the mutant protein,the unnatural amino acid 2-amino-6-((3-azidopropoxy)carbonyl)amino)hexanoic acid (KPN) (Fig. 1C) was synthesized.Once incorporated into the protein,the KPN is accessible to cycloaddition protocols for the conjugation of the small functional molecules.The Phe11 (Fig.1A) was chosen as the substitution site because it is located on the external surface of TMvCP,and therefore has a minimal impact on the self-assembly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An amber stop codon (TAG) was substituted for Phe11 in TMVCP by the directed mutation.In order to establish an orthogonal tRNA-aminoacyl-tRNA synthetase pair,which selectively charges the unnatural amino acid of KPN in response to the amber codon,three rounds of positive selections and two roundsof negative selections were carried outwitha MbPylRS library.16 A KPN specific PylRS mutant was identified through the screening,which was termed KPNRs.Compared with the wild type PylRS, three amino acids were mutated in its protein sequence: L274M, C313A and Y349F.Then the corresponding DNA sequence of KPNRS was ligated sequentially into SalI/BglII and PstI/NdeI restriction sites of the pEVOL vector,17 and MbtRNA $_ { \\mathbf { C U A } } ^ { \\mathbf { p y l } }$ wasclonedintothepa/horestrictionsite the same vector.As a result, the plasmid of pEVOL-KPNRSMbtRNAPyA PUA was generated.For the expression of the mutant TMVCP,thetoaidsofVOPsd pET23a-TMVCP-Phe11TAG were co-transformed into the $E .$ coli BL 21 competent cell.The expression of the mutant TMvCP was induced with the addition of $1 \\mathrm { m M }$ KPN, $0 . 0 2 \\%$ L-arabinose and $\\mathbf { 0 . 5 \\ m M }$ IPTG (isopropyl $\\beta$ -D-thiogalactopyranoside) into the LB media.The protein cannot be expressed without the addition of KPN in the negative control (data not shown). The mutant protein was purified according to the procedure described by M. Endo et al.18 and subsequently analyzed by SDS-PAGE (Fig.1D).The results showa single band (lane 3) with the same molecular weight of TMvCP (lane 2),indicating the expression and purification of KPN11-TMvCP.To further confirm the selective incorporation of KPN and not Phe11，MALDI-TOF analysis was performed. The MODLI-TOF mass spectra of wild type TMvCP showed a single peak at $m / z \\ 1 7 4 7 7$ ,and the mass spectra of the mutant protein with the substitution KPN for Phe11 (Fig.1B),showa single peak at $m / z 1 7 5 8 6$ which matches the calculated KPN11-TMVCP molecular weight (17 584).These results confirma high fidelity and specificity for the incorporation of KPN into the TMVCP. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TodeterminewhethertheKPN11-TMVCPhadthe same selfassembly characteristics as the TMvCP,the monomers were dialyzed against different buffers.The self-assembled nanostructures of KPN11-TMvCP were examined by transmission electron microscopy (TEM). The experiments were repeated three times,with reproducible results.The disk-like structure (Fig.2A) was formed upon dialysis against $\\mathbf { 4 0 0 } ~ \\mathrm { m M }$ Tris-HCl, $\\mathrm { p H } ~ 7 . 6$ ，andhad an outer diameter of $1 8 ~ \\mathrm { n m }$ .Once dialyzed against $1 0 0 \\ \\mathrm { \\ m M }$ sodium acetate, $\\mathrm { p H } ~ 5 . 5$ ，rod-like structures (Fig.2B) were yielded.These results match the values reported in the literature19 and indicate that the incorporation of KPN11 into TMvCP has no influence on the assembly behaviours of monomer proteins. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dibenzocyclooctyne- $\\mathrm { \\cdot P E G } _ { 4 }$ -biotin (Fig.3A) was used asa model molecule in the site-specific modification.It was chosen because biotin can specifically bind tightly to streptavidin with a dissociation constant $\\left( K _ { \\mathrm { d } } \\right)$ of $1 0 ^ { - 1 4 } \\mathrm { M } , ^ { 2 0 }$ and such a system is one of the most widely used affinity pairs in molecular,1 immunological,²² and cellular assays.23 The copper free cycloaddition reaction between dibenzocyclooctyne- $\\mathbf { \\cdot P E G } _ { 4 }$ -biotin and KPN11- TMVCP was performed at $4 ~ ^ { \\circ } \\mathbf { C }$ in $\\mathbf { 4 0 0 \\ m M }$ Tris-HCl, $\\mathrm { p H } 7 . 6$ for $^ { 6 \\mathrm { ~ h ~ } }$ .The reaction product has an observed molecular mass of 18 336 Da (Fig.3B) from the MALDI-TOF analysis，in close agreement with the calculated mass.The normalized intensity of the mass spectra of the product KPN11-TMV-biotin is 10 times larger than the intensity of the peak at 17586,which is the substrate KPN11-TMvCP left over from the reaction,indicating that the yield of this reaction was high. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f150751c57fb563b3d832fb16e71fb02a451a9ca64cf9990053e58af5789b05.jpg",
+        "img_caption": [
+            "Fig.2TEM images of the self-assembly structures of KPN11-TMVCP. (A)Self-assembly of KPN11-TMVCP into disks;(B) self-assembly of KPN11- TMVCP into rods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbba6cc937c498afae754f727bfab7d37d18c563901a30abd3715bd4fad78ac9.jpg",
+        "img_caption": [
+            "Fig.3Site-specific modification and assembly of KPN11-TMVCP. (A) Conjugation of dibenzocyclooctyne- $\\cdot P E G _ { 4 }$ -biotin with KPN11-TMVCP by \"copper-free\"cycloaddition reaction.(B) MALDl-TOF mass spectrum of the biotin coupled KPN11-TMVCP. (C) TEM image of the self-assembly KPN11-TMVCP-biotin into disks.(D) TEM image of the self-assembly KPN11-TMVCP-biotin into rods. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To assess the self-assembly capacity of KPN11-TMvCP-biotin, the same dialysis experiments previously mentioned were performed.All the experiments were repeated three times with reproducible results.The TEM calibration (Fig.S1, $\\mathrm { E S I \\dag } \\$ was tested after measurements to ensure consistency.As expected, the biotin-functionalized tube structures with an $1 8 ~ \\mathrm { { n m } }$ diameter (Fig.3D) were formed in $1 0 0 ~ \\mathrm { { m M } }$ $\\mathrm { p H } 5 . 5$ sodium acetate buffer. However,when the KPN11-TMVCP-biotin was dialyzed against a $4 0 0 ~ \\mathrm { \\ m M }$ Tris-HCl, $\\mathrm { p H } ~ 7 . 6$ buffer,it formed the biotinfunctionalized big disk-like structures (Fig.3C) with about $3 0 ~ \\mathrm { { n m } }$ outer diameter and $1 6 ~ \\mathrm { { n m } }$ inside diameter.A possible explanationis that thecharges of the micro-environment where the biotin derivative occurs might have been changed due to the variation of the pH value.This change in the charges would perhaps have a substantial impact on the self-assembly of KPN11-TMVCP-biotin.As far aswe know，this was the first time thata big disk-like structure was observedin the TMVCP self-assembly.Such a phenomenon might be helpful in the research into the TMvCP self-assembly mechanism and chemically controlled protein assembly.Moreover, the biotin-functionalized rod-like and disk-like nanoparticles forming from the procedure mentioned previouslyhavemanyadvantages,suchashigh-density biotin arrays and biocompatibility,which can be further used in imaging and therapy. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wehave successfully demonstrated,for the first time,the incorporation of an unnatural amino acid into the TMvCP and showed its characteristics of self-assembly into rod-like and disk-like structures.Moreover, the site-specific labelling with high yield was done via a copper free cycloaddition reaction. Additionally,the biotin-functionalized virus-like particles were built.We have proved that the dibenzocyclooctyne $\\mathbf { \\cdot P E G } _ { 4 }$ -biotin modified TMvCP still has the capability of self-assembly. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition,the big disk-like structures were observed,which mayprovide insight into the self-assembly mechanism and the chemically controlled protein assembly.In conclusion，this work developed a new method for the site-specific labelling of TMVCP,which shows promise for a range of potential applications in the field of molecular recognition,biosensing,and targeted drug delivery. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the 973 Program of China (Grant No.2O13CB933800),the National Natural Science Foundation of China (Grant No.20174143,91027030,21104003),and Hundred Talents Program of the Chinese Academy of Sciences. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 A. Zeltins,Mol.Biotechnol.,2013,53,92.   \n2(a)F.J.Eber,S.Eiben,H. Jeske and C.Wege,Angew. Chem.,Int. Ed., 2013,52,7023; (b) X. Zan, S. Feng, E. Balizan, Y. Lin and Q. Wang, ACS Nano,2013,7,8385.   \n3 (a) C. X. Yang, C.-H. Choi, C.-S.Lee and H. Yi,ACS Nano,2013,7,13; (b) M.Knez,A.M.Bitter,F.Boes,C.Wege and K.Kern,Nano Lett., 2003,3,1079. 4 Z.Yin,H.G.Nguyen,S.Chowdhury,P.Bentley,M.A.Bruckman, A.Miermont,J. C.Gildersleeve,Q.Wang and X.Huang, Bioconjugate Chem.,2012,23,1694.   \n5 M.A. Bruckman, J. Liu, G. Koley, Y. Li, B. Benicewicz, Z. Niu and Q.Wang,J. Mater. Chem.,2010,20,5715.   \n6(a) Z.Wu,A.Mueller, S.Degenhard,S.E.Ruff,F.Geiger,A.M. Bittner,C.Wege and C.E. Krill,ACS Nano,2010,4,4531; (b) Z.Wu, R. Zierold,A. Mueller, S.E. Ruff, C. Ma,F. Geiger, C.Wege and C.E.Krill,Phys. Status Solidi B,2010,247,2412.   \n7 M. Knez, M. Sumer, A. M. Bittner, C. Wege,H. Jeske, T.P. Martin and K.Kern,Adv.Funct.Mater.,2004,14,116.   \n8(a)K.Raghavendra,D.M.Salunke,D.L.D.Caspar and T.M. Schuster, Biochemistry,1986,25,4; (b) S.J. Shire,P.McKay,D.W. Leung,G. J. Cachianes,E. Jackson and W. I. Woods, Biochemistry, 1990,29,8; (c) A. Mueller,F.J. Eber,C.Azucena,A.Petershans, A. M. Bittner, H. Jeske and C. Wege,ACS Nano,2011,5,9. 9 (a) T.L. Schlick,Z.Ding,E.W.Kovacs and M.B.Francis,J.Am. Chem. Soc.,2005,127,6;(b) M.A.Bruckman,C.M. Soto,H.McDowell, J. L.Liu, B.R.Ratna, K.V. Korpany,O. K. Zahr and A. S. Blum, ACS Nano, 2011,5,11.   \n10 (a) M. Kobayashi, M. Seki, H. Tabata,Y.Watanabe and I. Yamashita, Nano Lett,2010,10,773;(b) O.K. Zahr and A. S.Blum,Nano Lett., 2012,12,629.   \n11 R.A. Miller,N. Stephanopoulos, J. M. McFarland,A. S.Rosko, P.L.Geissler and M.B.Francis,J. Am. Chem. Soc.,2010,132,7.   \n12 C. Hou, Q. Luo,J. Liu, L. Miao,C. Zhang, Y. Gao, X. Zhang, J Xu, Z. Dong and J. Liu,ACS Nano,2012,6,8692.   \n13 E.Strable,D.E. Prasuhn,A.K. Udit, S.Brown,J.T.Ngo,J. Quispe, C. S.Potter and M. G. Finn,Bioconjugate Chem.,2008,19,866.   \n14 J. Wang,W. Zhang, W. Song, Y. Wang, Z. Yu,J. Li,M. Wu, L. Wang, J.ZangandQ.Lin,J Am Chem. Soc.,2010,132,7.   \n15 (a) Y.H. Oum anc Carrico,Bioconjugate Chem.,2012,23,1370; (b)M.Liong idore ,C.Min,C.Tassa,T.Reiner, H.Lee jugateChem.，2011，22，2390; (c) R. K. V. mun.,2010,46,1589.   \n16 Z. Yu, J. .,Int.Ed.,2012,124,5.   \n17 T. S.Young Schultz,J.Mol.Biol.,2010,395,361.   \n18 M. Endo,H. Wan Chem.-Eur.J.,2006,12,3735.   \n19 A.C.H. Durham, T.Finch andA.Klug,Nat.New Biol.,1971,229,37.   \n20 A.Holmberg,A.Blom O.Nord,M. Lukacs,J. Lundeberg and M.Uhlen,Electrophoresis,2005,26,501.   \n21 C.-Y. Zhang, H.-C. Yeh, M. T. Kuroki and T.-H. Wang, Nat. Mater., 2005,4,826.   \n22 L.Wang,Y. Zhang,X.Gao,Z.Duan and S.Wang,J.Agric.Food Chem.,2010,58,3265.   \n23 H.N. Joensson,M.L. Samuels,E.R.Brouzes,M.Medkova,D.R. Link and H. Andersson-Svahn, Angew. Chem., Int. Ed.,2009,48,4. ",
+        "page_idx": 2
+    }
+]

@@ -1,0 +1,129 @@
+基础研究
+
+# 透明带3多肽诱导的免疫性卵巢早衰小鼠模型子宫组织中Ki-67、ER的表达
+
+蔡慧华，付霞霏，任旭雯，陈夏珠，张冬梅，何援利南方医科大学珠江医院妇产科，广东广州510280
+
+摘要：目的以透明带3多肽(pZP3)诱导的免疫性卵巢早衰(POF)小鼠为研究对象,观察其子宫Ki-67、雌激素受体(ER)的表达，以进一步探讨免疫性卵巢早衰患者辅助生殖相关的子宫预处理方案。方法 取7\~8周龄的健康雌性BALB/c小鼠40只,随机分为对照组和模型组。通过阴道脱落细胞涂片、血清性激素、卵巢组织形态及抗卵巢ZP3抗体鉴定建模成功。检测两组小鼠子宫组织形态变化及子宫Ki-67、雌激素受体α亚型(ERα)及雌激素受体β亚型(ERβ)的表达。结果8周后 $80 \%$ 小鼠建模成功。与对照组相比,模型组子宫萎缩,内膜变薄,单位面积内腺体数量减少。模型组子宫内膜上皮细胞、腺上皮细胞及间质细胞中Ki-67的表达较对照组减弱,且有胞核转位至胞浆现象。对照组小鼠子宫内膜上皮细胞、腺上皮细胞及间质细胞的胞浆强表达ERα,而模型组呈阴性表达。两组小鼠子宫内膜ERβ均呈阴性表达。结论 pZP3可以诱导小鼠成功构建免疫性卵巢早衰疾病模型，同时引起子宫内膜上皮细胞及间质细胞的增殖降低和ERα表达减弱。
+
+关键词：免疫性卵巢早衰;透明带3多肽;子宫内膜;Ki-67;雌二醇
+
+# Expression of Ki-67 and estrogen receptor in the uterus of mice with autoimmune premature ovarian failure induced by peptide zona pellucida 3
+
+CAIHuihua,FUXiafei,RENXuwen,CHENXiazhu,ZHANGongmei,HEYuanli DepartmentofObstetricsandGynecology,ZhujiangHspital,SouthernMedicalUnioersityGuangzhou8,ina
+
+Abstract: Objective To investigate the histomorphologyand theexpressions ofthe proliferationmarker Ki-67and estrogen receptor in the uterus of mice withautoimmune premature ovarian failure (POF)induced by zona pelucida 3 peptide (pZP3). Methods Autoimmune POP models were established in 20 female BALB/c mice (7-8 weeks old) by immunization with pZP3 and another 20 mice served as thecontrol group. The POP models were verified by vaginal cytology, serum sex hormones, ovary histomorphologyand ZP3antibody immunohistochemistry.The histomorphologyand expressionsof Ki-67,estrogen receptor $\alpha$ and estrogen receptor $\beta$ in the uterus of the mice were detected. Results Autoimmune POP models were estblished successfully in $8 0 \%$ of the mice at 8 weeks after the immunization. Compared with those in the control group,the mice in the model group showedasmaler volumeof theuterus,thinner endometriumandareduced numberof glands.The luminal epithelialcells,glandular epithelialcellsandstromalcelsin theuterusof te model mice all presentedwitha lower expresion ofKi-67 thanthosein thecontrol group,and Ki-67translocationfromthenuclei tothecytoplasm wasfound in the model group.The luminal epithelialcells,glandularepithelialcellsand stromalcelshowed positiveERα immunoreactivity in the modelgroupbut not in the control group.Noobvious ERβ expression was found in the uterus in eitherof thegroups. Conclusion $\mathrm { p } Z \mathrm { P } 3$ can induce autoimmune POP, cause suppressed proliferation of the endometrial epithelial cells and stromal cells, and reduce the cellular expression of $\operatorname { E R } \alpha$ in the uterus of mice.
+
+Key words: autoimmune premature ovarian failure; peptide zona pellucida 3; endometrium; Ki-67; estrogen receptor
+
+卵巢早衰(POF)是指女性在40岁以前出现促性腺激素升高、雌激素降低，引起不规则月经、闭经、不孕及围绝经期表现的一种妇科内分泌疾病[1],发病率高达 $1 \%$ ${ \sim } 3 \% ^ { [ 2 ] }$ 。目前病因复杂,其中免疫性因素占 $10 \% { \sim } 3 0 \%$ ，可以是单纯的卵巢自身免疫性病变或伴有其他免疫性疾病,近年研究[3-5表明患有自身免疫性疾病的育龄女性发生POF的风险呈上升趋势。免疫性POF患者早期诊断困难，就诊时往往已处于卵巢功能衰竭状态，对于有生育要求的患者，无法在疾病早期将自身的卵母细胞、卵巢组织或胚胎冷冻以保存生育能力，因此，接受赠卵的体外受精-胚胎移植可能为最佳选择。然而，辅助生育成功率取决于多方面：卵子与胚胎的质量、胚胎的移植数量、子宫收缩性、子宫内膜厚度与回声反射性、子宫内膜转化的同步性等[。由此可见,容纳胚胎的子宫能否发挥正常功能也是影响辅助生育成功率的重要因素。有研究表明特发性POF患者子宫内膜偏薄，不利于移植胚胎；化疗性POF小鼠也出现子宫内膜偏薄，进一步检测提示子宫增殖降低[];但目前国内外尚未报道免疫性POF患者或小鼠的子宫功能研究。对于患者而言，子宫活检或解剖属于有创操作且无助于诊断,故本文拟采用pZP3构建经典的免疫性POF小鼠模型，通过检测其子宫组织的细胞核增殖抗原Ki-67反映子宫增殖活性包括子宫内膜厚度、子宫内膜腺体、子宫体积的变化；而子宫的增殖依赖于雌激素结合ER发挥生物学效应的调节[8，故同时检测子宫组织的ER反映子宫对雌激素的应答能力。研究免疫性POF小鼠子宫的增殖活性及对雌激素的应答能力，有利于评估其子宫能否直接移植胚胎或者需要哪种预处理方案以提高辅助生育成功率。
+
+# 1 材料与方法
+
+# 1.1实验动物
+
+选取7\~8周龄，体质量 $1 8 { \sim } 2 2 ~ \mathrm { g }$ 的健康雌性BALB/c小鼠40只（广东省医学实验动物中心提供，动物许可证号：SCXK(粤)2013-0002)，均经阴道脱落细胞涂片筛查动情周期正常。清洁环境饲养，室温 $1 8 { \sim } 2 2 ~ \mathrm { \textdegree C }$ ，相对湿度 $40 \% \sim 6 0 \%$ ,光照 $1 2 \mathrm { h }$ ，普通饲料饲养，自由进食饮水。
+
+# 1.2主要试剂和仪器
+
+小鼠ZP3的第330\~342个氨基酸系列(NSSSSQFQIHGPR),其分析纯度 $59 0 \%$ ,上海英基生物科技有限公司合成，批号:pep14071191。完全弗氏佐剂(CFA), $4 ~ \mathrm { m g / m L }$ 的灭活结核杆菌浓度，Chondrex产品。不完全弗氏佐剂(IFA),Sigma产品。兔抗小鼠ZP3抗体，美国SantaCruz公司产品。兔抗小鼠Ki-67抗体、兔抗小鼠ERα抗体及兔抗小鼠ERβ抗体，英国Abcam公司产品。血清 $\mathbf { E } _ { 2 }$ 、FSH及AMH（Anti MiillerianHormone)放免试剂盒，北京华英生物技术研究所产品。荧光显微镜(NikonEclipseTi-SR,日本),成像系统(NikonDS-U3，日本)，全自动放免计数仪(r-911，北京)等等。
+
+# 1.3动物分组、建模及取材
+
+随机分为模型组(20只)和对照组(20只）。模型组： $4 \mathrm { m g } \mathrm { p } Z \mathrm { P } 3$ 粉末溶解于 $4 ~ \mathrm { m L }$ 三蒸水，与CFA按1:1比例配成免疫试剂，与IFA按1:1比例配成免疫强化试剂。每只小鼠予 $0 . 1 5 \mathrm { m L }$ 免疫试剂多点注射足底、下腹及颈背部皮下(d1)，14d后予 $0 . 1 5 ~ \mathrm { m L }$ 免疫强化试剂皮下注射同样部位(d15)，次日开始每日8时阴道脱落细胞涂片观察小鼠动情周期的变化，首次免疫后8周(d57)摘除眼球采血，离心后血清储存于 $- 2 0 \ \mathrm { { ^ circ C } }$ ；留取卵巢及子宫组织，称湿质量，计算脏器指数(脏器质量/体质量)，石蜡包埋。对照组注射CFA/IFA-三蒸水1:1混合液，其他操作相同。
+
+1.4 检测指标  
+1.4.1小鼠模型鉴定100倍视野显微镜下观察阴道脱落细胞涂片;按照试剂盒说明，采用放免法测定血清 $\mathrm { E } _ { 2 }$ 、FSH、AMH的含量;均取右侧卵巢， $4 \mu \mathrm { m }$ 连续切片，每间隔15张取1张切片(即第16张)，HE染色，40倍视野拍一个全景照片,在100倍视野下计数各级卵泡及黄体数量；应用IPP(Image-ProPlus)6.0图像分析系统计算该视野面积;计算出单位面积内各级卵泡及黄体数量(数量/面积)。将小鼠发生的自身免疫性卵巢炎程度分为4个等级。1级：炎症累及卵巢间质,未浸润卵泡;2级：炎症累及卵泡,平均每个卵巢平面受累卵泡<5个;3级：平均每个卵巢平面受累卵泡 $> 5$ 个或出现炎性肉芽肿;4级：卵巢内卵泡明显减少，并停留在始基卵泡阶段，或出现卵巢萎缩;未出现自身免疫性卵巢炎为0级;采用免疫荧光方法检测AZP3Ab,ZP3一抗（兔抗小鼠，1：50),二抗(488-Alex山羊抗兔, $1 : 4 0 0 \rangle$ 。荧光显微镜观察，以卵母细胞的透明带位置有明亮的绿色荧光为阳性。结果采用半定量分析：低倍镜、高倍镜下均不可见为-;低倍镜下似乎可见，高倍镜下可见为 $^ +$ ；低倍镜下可见，高倍镜下清晰可见为 $^ { + + }$ ；低倍镜下清晰可见，高倍镜下耀眼为 $^ { + + + }$ ;低倍镜下耀眼,高倍镜下刺眼为 $+ + + +$ 。1.4.2 小鼠子宫病理观察 均取右角子宫， $4 ~ { \mu \mathrm { m } }$ 连续横切面切片,随机选取5张切片,HE染色,40倍视野拍一个全景照片,在100倍视野下计数子宫内膜腺体数量;应用IPP6.0图像分析系统计算该视野面积及子宫内膜厚度;计算出单位面积内子宫内膜腺体数量(数量/面积);采用免疫组织化学SP二步法检测Ki-67、ERα及ERβ的表达，所有切片显微镜下盲法观察，以子宫内膜上皮和(或)间质细胞呈棕黄色颗粒为阳性表达。结果采用Allredscore方法[i],根据染色阳性细胞的比例和染色强度,阳性细胞比例 $< 1 \%$ 为(-)， $1 \%$ ≤阳性细胞比例$< 1 0 \%$ 为 $( + ) , 1 0 \% \leqslant$ 阳性细胞比例 $45 0 \%$ 为 $\left( + + \right)$ ,阳性细胞比例 $5 5 0 \%$ 为 $( + + + )$ 。染色程度分为弱、中、强,若染色强度弱,则阳性级别下降一级。如：阳性细胞比例为$40 \%$ 判定为 $\left( + + \right)$ ,但其染色强度为弱,则判定为 $( + )$ ；采用免疫荧光方法检测Ki-67，一抗(兔抗小鼠，1:100)，二抗(488-Jakson 山羊抗兔, $1 : 4 0 0 \dot { , }$ ,荧光显微镜观察，以子宫内膜上皮和(或)间质细胞出现明亮的绿色荧光为阳性。
+
+# 1.5 统计学方法
+
+采用SPSS19.0统计软件进行数据处理,计量资料组间比较采用t检验，计数资料组间比较采用检验， $P <$ 0.05表示差异有统计学意义。
+
+# 2结果
+
+# 2.1小鼠动情周期的改变
+
+模型组 $80 \%$ 小鼠动情周期紊乱，其中 $1 2 . 5 \%$ 动情期缩短， $3 7 . 5 \%$ 动情周期延长， $5 0 \%$ 持续动情间期。对照组仅 $10 \%$ 发生动情周期紊乱，表现为动情周期延长。两者差异有统计学意义 $( \chi ^ { 2 } { = } 1 9 . 7 9 8 , \nu { = } 1 , P { = } 0 . 0 0 0$ ，表1)。
+
+表1两组小鼠动情周期的改变 Tab.1 Change of estrous cycle in the two groups $( n { = } 2 0 )$   
+
+<html><body><table><tr><td rowspan="2">Group</td><td rowspan="2">Estrous cycle</td><td colspan="4">Estrus disorder</td></tr><tr><td>Shortened estrus</td><td>Extended estrus cycle</td><td>Continuous estrus cycle</td><td>Summations</td></tr><tr><td>Control group</td><td>18</td><td>0</td><td>2</td><td>0</td><td>2</td></tr><tr><td>Model group</td><td>4</td><td>2</td><td>6</td><td>8</td><td>16</td></tr></table></body></html>
+
+2.2 两组小鼠血清性激素、卵巢组织形态的比较与对照组相比，模型组小鼠
+
+血清E2、AMH明显下降，FSH上升，差异均有统计学意义 $( P { < } 0 . 0 5 )$ ;模型组卵巢指数稍小 $( 0 . 4 5 { \scriptstyle \pm 0 . 2 9 \alpha }$ $0 . 3 4 \pm 0 . 1 4 \rangle$ ，其小鼠单位面积内初级卵泡个数明显减少，差异均有统计学意义 $( P { < } 0 . 0 5 )$ ，其他阶段的卵泡及黄体数量无明显差异(表2)。皮下注射pZP3后，卵巢组织学表现以淋巴细胞为主浸润的自身免疫性卵巢炎，模型组有 $90 \%$ 小鼠发生自身免疫性卵巢炎，对照组仅$30 \%$ ,差异有统计学意义 $( \chi ^ { 2 } { = } 1 5 . 0 0 0 , \nu { = } 1 , P { < } 0 . 0 5$ ，表3)。
+
+表2两组小鼠血清性激素、卵巢指数、卵泡计数及子宫组织形态的比较 Tab.2 Serum sex hormones,ovary index, folicle count and uterus histomorphology in the two groups   
+
+<html><body><table><tr><td>Item</td><td>Control group</td><td>Model group</td><td>t</td><td>P</td></tr><tr><td>E (pg/mL)</td><td>41.57±9.23</td><td>31.75±3.75</td><td>-4.413</td><td>0.000</td></tr><tr><td>FSH(mU/mL)</td><td>1.74±0.33</td><td>2.92±0.80</td><td>6.116</td><td>0.000</td></tr><tr><td>AMH (ng/mL)</td><td>3.54±0.37</td><td>2.63±0.32</td><td>-3.280</td><td>0.030</td></tr><tr><td>Ovarian index (mg/g)</td><td>0.45±0.29</td><td>0.34±0.14</td><td>-1.594</td><td>0.122</td></tr><tr><td>Primordial follicle number (/mm²)</td><td>18.47±8.65</td><td>19.23±11.26</td><td>0.238</td><td>0.813</td></tr><tr><td>Primary follicular number (/mm²)</td><td>2.72±1.65</td><td>0.87±0.37</td><td>4.896</td><td>0.000</td></tr><tr><td>Secondary follicular number (/mm²)</td><td>1.29±1.91</td><td>0.52±1.21</td><td>1.515</td><td>0.140</td></tr><tr><td>Mature follicular number (/mm²)</td><td>1.67±0.47</td><td>1.77±0.70</td><td>0.560</td><td>0.579</td></tr><tr><td>Corpus luteum number (/mm²)</td><td>0.72±0.49</td><td>0.99±0.89</td><td>1.209</td><td>0.234</td></tr><tr><td>Uterus index (mg/g)</td><td>2.94±1.75</td><td>1.36±0.33</td><td>-3.963</td><td>0.001</td></tr><tr><td>Endometrial thickness (mm)</td><td>0.15±0.04</td><td>0.10±0.02</td><td>4.728</td><td>0.000</td></tr><tr><td>Glands number (/mm²)</td><td>45.86±21.46</td><td>37.80±12.23</td><td>1.460</td><td>0.155</td></tr></table></body></html>
+
+表3两组小鼠发生自身免疫性卵巢炎的情况 Tab.3 Autoimmune oophoritis in the two groups $( n { = } 2 0 )$   
+
+<html><body><table><tr><td rowspan="2">Group</td><td colspan="6">Levels of autoimmune oophoritis</td></tr><tr><td>Level 0</td><td>Level 1</td><td>Level 2</td><td>Level 3</td><td>Level 4</td><td>Morbidity (%)</td></tr><tr><td>Control</td><td>14</td><td>4</td><td>1</td><td>1</td><td>0</td><td>30</td></tr><tr><td>Model</td><td>2</td><td>3</td><td>6</td><td>5</td><td>4</td><td>90</td></tr></table></body></html>
+
+# 2.3两组小鼠卵巢AZP3Ab的表达
+
+模型组(图1B、D)小鼠卵巢卵母细胞的透明带位置可见较强的绿色荧光表达;而对照组(图1A、C)只能看到模糊的暗绿色背景，AZP3Ab呈阴性表达。
+
+# 2.4两组小鼠的子宫组织形态变化
+
+与对照组相比，模型组小鼠的子宫指数明显减小，子宫内膜变薄,差异有统计学意义 $\scriptstyle ( P < 0 . 0 5 )$ ，单位面积内腺体数量亦相应减少 $4 5 . 8 6 { \pm } 2 1 . 4 6 \& 3 7 . 8 0 { \pm } 1 2 . 2 3$ ，表2)。
+
+![](images/237715e42898e8c4268162097fcf2ebd16bc637fb57e4dd4e4007720b2da3a29.jpg)  
+图1免疫荧光检测两组小鼠卵巢AZP3Ab表达的结果 Fig.1 Immunofluorescence assay of AZP3Ab expression in the ovary of the two groups (Original magnification: $\times 2 0 0$ ).A: Control group,AZP3Ab(-); B: Model group, $\mathrm { A Z P 3 A b ( + ) }$
+
+# 2.5两组小鼠子宫组织Ki-67的表达情况
+
+如图2所示，免疫组化分析表明，对照组子宫内膜 腔上皮细胞、腺上皮细胞及间质细胞均有Ki-67的阳
+
+性细胞，且主要表达于细胞核，模型组阳性表达减少减弱，且表达于细胞浆，胞核表达极少，免疫荧光结果基本一致。
+
+![](images/fe2b147379e47e6d575ef5af205b8baec91ee338c82688e6f22b2867f526a4f2.jpg)  
+图2免疫组化和免疫荧光方法检测两组小鼠子宫Ki-67表达的结果  
+Fig.2Immunohistochemistry (IHC)andimmunofluorescence (IF）assayof Ki-67expresionintheuterus inthetwogroups (Original magnification: $\times 4 0 0$ ).Cells with positive immunostaining within diferent uterine compartments are indicated by an triangleinthsurfaceepitelum(SE),coarsearrowinteglandulareptelium(GE),oratiarrowinestroaltu().A: IHC, Control group, Ki-67 $( + + )$ ; B: IHC,odel group,i-67 $( + )$ $c$ and E: IF, Control group; $D$ and F: IF, Model group.
+
+# 2.6两组小鼠子宫ERα、ERβ表达
+
+如图3所示，免疫组化分析表明，对照组小鼠子宫内膜上皮细胞、腺上皮细胞及间质细胞的胞浆ERa阳性表达,模型组呈阴性表达。对照组子宫内膜腔上皮细胞局部似乎可见ERβ,染色弱，判定为(-),模型组ERβ亦呈(-)。
+
+# 3讨论
+
+早在1992年Rhim等[12报道小鼠与人类ZP3蛋白具有 $67 \%$ 同源性，pZP3诱导小鼠产生AZP3Ab,与卵巢ZP3结合引起免疫反应，干扰卵母细胞与颗粒细胞之间的信息交换，可引起类似于人类POF的表现如卵巢萎缩、无排卵等。不同种系小鼠在免疫反应性、繁殖能力存在差异，文献[12]进而比较了不同种系小鼠建模，表明相同剂量pZP3可引起B6AF1、BALB/c小鼠自身免疫性卵巢炎。之后陆续有学者[13-15]应用小鼠pZP3诱导BALB/c小鼠成功建立免疫性POF模型。本研究采用该经典的建模方法，结果提示与对照组比较，模型组小鼠的动情周期紊乱，血清 $\mathrm { E } _ { 2 }$ AMH明显下降，FSH上升，卵巢萎缩，卵巢病理提示自身免疫性卵巢炎以及AZP3Ab阳性表达，符合免疫性POF的特点[16]
+
+![](images/9ec13c8e274a912253940bfd0e72224f63434c7da518b8a5fd0ecf27963afb57.jpg)  
+图3免疫组化检测两组小鼠子宫ERα、ERβ表达结果   
+Fig.3 Immunohistochemistry of ERα and $\mathrm { E R } \boldsymbol { \mu }$ expression in the uterus in the two groups (Original magnification: $\times 4 0 0$ ).Cells with positive immunostaining within different uterine compartments are indicated by an triangle in the surface epithelium (SE),a coarse arrow in the glandular epithelium (GE),or a thin arrow in the stroma tissue (ST).A: Control group, $\operatorname { E R } \alpha ( + ) ;$ B: Model group, $\mathrm { E R } \alpha ( - ) ;$ C: Control group, ERβ(-); D: Model group,ERβ(-).
+
+对于有生育要求的免疫性POF患者，由于自身卵泡耗竭，目前最为有效的方法可能是接受赠卵的体外受精-胚胎移植。子宫组织的增殖活性及对雌激素的应答能力影响了子宫内膜厚度、子宫内膜腺体及子宫体积的变化，与胚胎植入及辅助生殖的成功率息息相关。
+
+本研究中模型组小鼠子宫内膜的细胞核增殖抗原Ki-67表达减弱，表现为子宫萎缩、子宫内膜变薄及单位面积内腺体数量减少，与Chen等实验结果一致，不利于胚胎直接移植；本研究还发现模型组小鼠子宫内膜上皮细胞、腺上皮细胞及间质细胞的Ki-67出现胞浆转位，以浆表达为主，提示免疫性POF小鼠子宫Ki-67的表达不仅数量减少，且由于表达的位点转移，使之不能有效发挥增殖活性。
+
+雌激素结合ER产生的生物学效应可以调控子宫的增殖活性。Naredi等研究表明与未预处理组相比，特发性POF患者经雌激素预处理，在胚胎移植日具备理想子宫内膜厚度的几率升高 $8 6 . 4 \% \& 6 0 . 8 \%$ ，妊娠率亦稍为提高 $( 4 0 \% \& 2 5 \% , t = 0 . 8 2 2 , P = 0 . 4 1 1 )$ 。该研究可能由于临床伦理问题，并未获取子宫组织进一步研究。推测POF患者可能存在子宫上皮细胞ER表达减弱甚至缺乏，使子宫对雌激素的应答能力减弱、雌激素不能完全发挥生物学功能，从而子宫内膜厚度、妊娠率未得到明显改善。目前已知ER有两种亚型：ERα、ERβ,前者主要表达于子宫、乳腺、垂体、下丘脑和卵巢卵泡膜细胞，后者主要分布于卵巢颗粒细胞、肺和前列腺[17]本研究结果也显示了两组小鼠子宫均可见ERα表达，且模型组表达减弱，对雌激素的应答能力也相应减弱；两组小鼠子宫ERβ呈阴性表达。ERα是子宫发挥雌激素效应的主要介导者。Harris等i8采用ERα选择性激动剂PPT，与ERα高效结合，发现ERα刺激子宫增重和C3基因上调。Winuthayanon等[19]发现ERα基因敲除小鼠子宫内膜凋亡明显，提示ERα可以预防子宫上皮细胞的凋亡，维持其对雌激素的应答。由此可见，ERα在维持子宫上皮细胞增殖和调亡的平衡中发挥重要作用。
+
+综上所述，pZP3诱导小鼠可以成功构建免疫性卵巢早衰疾病模型，同时引起其子宫内膜上皮细胞及间质细胞的增殖降低和ERα表达减弱。显然，免疫性POF小鼠的子宫不利于直接移植胚胎，个体化的雌激素处理方案或调控ER药物的应用可能改善子宫增殖活性及对雌激素的应答能力，进而提高辅助生殖成功率。
+
+# 参考文献：
+
+[1］Nelson LM.Primary ovarian insufficiency[J].N Engl JMed,2009,
+
+360(6): 606-14.   
+[2]Panay N, Kalu E.Management of premature ovarian failure[J].Best Pract Res Clin Obstet Gynaecol,2009,23(1):129-40.   
+[3]Silva CA,Bonfa E,Ostensen M.Maintenance of fertility in patients with rheumatic diseases needing antiinflammatory and immunosuppressive drugs[J].Arthritis Care Res (Hoboken),2010,62(12): 1682-90.   
+[4]Ostensen M, Brucato A,Carp H,et al. Pregnancy and reproduction inautoimmune rheumatic diseases [J].Rheumatology (Oxford), 2011,50(4): 657-64.   
+[5]Aikawa NE,Sallum AM,Pereira RM,et al. Subclinical impairment of ovarian reserve in juvenile systemic lupus erythematosus after cyclophosphamide therapy[J].Clin Exp Rheumatol,2012,30(3): 445-9.   
+[6]Naredi N,Sandeep K,Jamwal VD.Can hormone replacement therapy prior to oocyte donation cycle in women with premature ovarian failure improve pregnancy rate?[J].Medical Journal Armed Forces India,2013,69(4):357-60.   
+[7]Chen XY,Gu C,Ma M,et al.A mouse model of premature ovarian insufficiency induced by tripterygium glycoside via subcutaneous injection[J]. Int JClin Exp Pathol,2014,7(1): 144-51.   
+[8]Sukjumlong S,Persson E,Kaeoket K,et al. Immunohistochemical studies on oestrogen receptor alpha (ERalpha) and the proliferative marker Ki-67 in the sow uterus at oestrus and early pregnancy[J]. Reproduction in Domestic Animals,2004,39(5):361-9.   
+[9]付 莉,赵怡璇,李守柔.卵巢早衰实验动物模型的建立[J].生殖医学 杂志,2006,15(3):179-83.   
+[10]彭 伟,刘郑荣.两种IgA肾病大鼠模型的比较[J].南方医科大学学 报,2008,28(10):1842-5.   
+[11]张艺裴,杨忠毅,张勇平，等.8F-FES在乳腺癌患者体内摄取与病理免 疫组化的关系[J].中国癌症杂志,2014,24(2):128-34.   
+[12]Rhim SH,Millar SE,Robey F,et al.Autoimmune disease of the ovary induced by a ZP3 peptide from the mouse zona pellucida[J]. J Clin Invest,1992,89(1): 28-35.   
+[13]孙晓溪,李大金,王明雁,等.自身免疫性卵巢功能损伤与TH1/TH2型 细胞因子表达关系的研究[J].中国免疫学杂志,2001,17(2):96-8.   
+[14] O'leary S,Lloyd ML，Shellam GR,et al. Immunization with recombinant murine cytomegalovirus expressing murine zona pellucida 3 causes permanent infertility in BALB/c mice due to follicle depletion and ovulation failure[J].Biol Reprod,2O08,79 (5): 849-60.   
+[15]Mande PV, Thomas S,Khan S,et al. Immunization with ovarian autoantigens leads to reduced fertility in mice following follicular dysfunction[J].Reproduction,2012,143(3): 309-23.   
+[16] Silva CA,Yamakami LY,Aikawa NE,et al. Autoimmune primary ovarian insufficiency[J].Autoimmun Rev,2014,13(4/5):427-30.   
+[17]Couse JF,Korach KS.Estrogen receptor null mice:what have we learned and where will they Lead us?[J].Endocr Rev,1999,20(3): 358-417.   
+[18]Harris HA,Katzenellenbogen JA,Katzenellenbogen BS. Characterization of the biological roles of the estrogen receptors,ERalpha and ERbeta,in estrogen target tissues in vivo through the use of an ERalpha-selective ligand[J].Endocrinology,2002,143(11): 4172-7.   
+[19]Winuthayanon W,Hewitt SC,Orvis GD,et al.Uterine epithelial estrogen receptor $\mathfrak { a }$ is dispensable for proliferation but essential for complete biological and biochemical responses[J]. Proc Natl Acad Sci USA,2010,107(45):19272-7.
+
+(编辑：经媛)

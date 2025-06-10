@@ -1,0 +1,532 @@
+[
+    {
+        "type": "text",
+        "text": "冰川冰储量计算方法及发展趋势",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高永鹏'，姚晓军'，刘时银2,，宫鹏」，安丽娜'，李晓锋'，祁苗苗}，段红玉'",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1西北师范大学地理与环境科学学院,甘肃兰州730070;2云南省国际河流与跨境生态安全重点实验室,云南昆明650091;3云南大学国际河流与生态安全研究院,云南昆明650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：冰川冰储量不仅是冰川的重要属性，而且是核算冰川水资源及预测冰川变化的基础数据，因此准确计算冰川冰储量及其变化具有重要的理论与现实意义。目前冰川储量估算的主要方法有经验公式法、冰厚模型估算法、探地雷达法;冰川储量相对变化计算方法有实地测量法和遥感监测法。通过系统分析和讨论各计算方法的原理、现状及存在的问题,以期为冰川储量估算提供方法参考。研究表明,对于冰川冰储量计算而言，经验公式法适用于区域性或全球性的冰川储量估算；模型估算法适用于个体或小范围冰川储量估算;探地雷达法适用于人类易到达区域冰川储量的估算。对于冰川冰储量相对变化计算，实地测量法适用于对精度要求高且满足实地测量条件的单条或中小型冰川,遥感监测法适用于全球性冰储量变化估算，但需改进算法和提高数据空间分辨率。目前，随着无人机技术的逐步应用，以及冰川流速等理论模型的提出，这为冰川冰储量估算方法的发展提供了新契机。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冰川；冰川储量；冰川厚度；物质平衡；计算方法中图分类号：P931.4 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冰川是冰冻圈的重要组成部分，被誉为气候变化的记录器和预警器[1]。据统计,全球冰川和冰帽面积（不包括南极和格陵兰冰盖）约 $5 . 5 4 \\times 1 0 ^ { 5 }$ $ { \\mathrm { k m } } ^ { 2 }$ ,体积为 $( 1 . 7 0 \\pm 0 . 2 1 ) \\times 1 0 ^ { 5 } \\ \\mathrm { k m } ^ { 3 } ( 0 . 4 3 \\pm 0 . 0 6 \\mathrm { m }$ SLE)[2]。根据中国第二次冰川编目,我国冰川共48571条，面积约 $5 . 1 8 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ ,仅次于加拿大、俄罗斯和美国[3]。冰川是我国极其重要的固体水资源，我国西部主要的大江大河都有冰川融水补给，尤其对于西北十旱区，冰川融水对维系区域脆弱的生态平衡及社会经济可持续发展具有重要意义，因此冰川研究一直以来备受中国政府和学术界关注[4」",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冰储量作为冰川重要的参数，既是建立冰川水文模型、动力模型及灾害模型的重要输入参数[5]也是评估冰川变化对河川径流影响及制定积极防灾减灾措施的重要指标，还是预测冰川及海平面未来变化的重要前提[6]。然而，目前只有极少数冰川拥有准确的厚度和储量数据，大多数冰川冰储量需要通过间接方法进行估算，而且冰川研究多注重冰川面积变化，对冰川储量的研究相对较少。为充分认识中国冰川资源分布及变化状况，2013年中国科技部启动了科技基础性工作专项“中国西部主要冰川作用中心冰量变化调查”项目，任务之一就是完成中国主要冰川作用区的冰储量估算，认清中国冰川储量的现状与变化。近年来，国内外学者提出估算冰储量的不同方法，如刘时银等基于经验公式法估算中国冰川储量约 $( 4 . 3 \\sim 4 . 7 ) \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 3 }$ ; HUSS等[2]基于冰厚空间分布模型估算全球冰储量为（2 $( 1 7 0 \\pm 2 1 ) \\times 1 0 ^ { 3 } ~ \\mathrm { k m } ^ { 3 }$ ;FREY等[7]基于经验公式法、冰川表面坡度估算法及冰厚空间分布模型估算整个喜马拉雅山一喀喇昆仑山地区冰川储量介于2955$\\sim 4 ~ 7 3 7 ~ \\mathrm { k m } ^ { 3 }$ 之间。本文初步总结国内外冰川冰储量及其变化估算方法，并对比分析不同方法的适用性，以期为准确评估冰川资源总量及其变化，研究冰川水资源的现状及变化规律，量化冰川对海平面变化的贡献等研究提供方法参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1冰川冰储量估算方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 冰储量一面积经验公式法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "冰川冰储量一面积经验公式法是对传统野外监测方法的补充，其原理是理想状态下气候、冰川流动和冰川形态保持持续稳定，通过对相关参数实地测量的冰川样本进行回归分析，构建特征参数与冰川储量相关关系，从而估算无实地测量数据冰川的储量[8]。由于此方法相对简单,不需要气象、水文、高程等较难获取的参数，而且随着冰川编目数据逐步完善，冰川面积数据容易获取，冰储量一面积经验公式法成为估算冰川储量最为简便的方法，表1汇总了目前国内外经验公式。冰川冰储量一面积经验公",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式基本形式为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV = c A ^ { \\gamma }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $V$ 表示冰储量( $\\mathrm { k m } ^ { 3 } \\mathrm { \\cdot }$ ; $A$ 表示冰川面积 $\\left( \\mathrm { { k m } } ^ { 2 } \\right)$ ;  \n$\\boldsymbol { c }$ 和 $\\gamma$ 为比例参数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式(1)也可以转换为冰厚一面积比例关系，公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = c A ^ { \\beta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $H$ 表示平均冰厚 $\\mathrm { ( m ) } { \\bf { ; } } A$ 表示冰川面积 $(  { \\mathrm { k m } } ^ { 2 } )$ ;$\\boldsymbol { c }$ 和 $\\beta$ 为比例参数， $\\beta = \\gamma - 1$ 。表2汇总了部分估算冰川平均厚度的经验公式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 冰厚模型估算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为解决无实测数据冰川冰储量估算问题，HUSS[2]、FARINOTTI[27]、GANTAYAT［28]等学者提出了模型估算法，表3汇总了目前用于估算冰厚的主要模型[27]。其原理是采用物理模型模拟冰川物质或能量传输过程来估算冰川储量[29]。基于假设条件的不同，冰厚模型估算法可分为以下4种。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 浅冰近似法基于PATERSON 提出的浅冰层近似（SIA）理论[30],HAEBERLI 和 HOELZEL[31]提出沿冰川表面中流线平均坡度估算冰厚的方法：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1不同地区冰储量估算经验公式",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e95361262e9ee05302b4ddd96d8f394d5f735467c4d66754bd9771804f7a206.jpg",
+        "table_caption": [
+            "Tab.1 Empirical formulas for the estimation of ice volume in different regions "
+        ],
+        "table_footnote": [
+            "注： $V$ 表示冰储量( $\\mathrm { k m } ^ { 3 }$ )；A表示面积（ $\\cdot \\mathrm { k m } ^ { 2 }$ )；k表示可变系数"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">经验公式</td><td rowspan=\"2\">适用区域</td><td rowspan=\"2\">提出者</td></tr><tr><td>冰川</td><td>冰帽</td></tr><tr><td>V= 0.027 ·A1.5</td><td rowspan=\"10\"></td><td>亚洲中部地区</td><td>ERASOV[9]</td></tr><tr><td>V= 0.036 1· A1.406</td><td>祁连山</td><td>SHI et al. [10]</td></tr><tr><td>V= 0. 059 7 · A1. 12</td><td>Svalbard地区</td><td>MACHERET and ZHURAVLEV[11]</td></tr><tr><td>V = 0. 04 · A1. 25</td><td>冰帽和冰原</td><td>CHIZHOV and KOTLYAKOV[12]</td></tr><tr><td>V= 0. 037 1 · A1.357</td><td>Svalbard地区</td><td>MACHERET et al.[13]</td></tr><tr><td>V= 0. 03· A1.36</td><td>欧洲</td><td>ZHURAVLEV[14]</td></tr><tr><td>V= 0.021 8· A1.124</td><td>美国西北部</td><td>DRIEDGER and KENNARD[15]</td></tr><tr><td>V= 0. 048 · A1.186</td><td>欧洲</td><td>ZHURAVLEV[16]</td></tr><tr><td>V= 0. 029 8· A1.379</td><td>阿尔泰山、天山</td><td>MACHERET et al.[17]</td></tr><tr><td>V= 0. 028 5· A1.357</td><td>阿尔卑斯山</td><td>CHEN and OHMURA[18]</td></tr><tr><td>V= k · A1.36</td><td>V= k·A1.22</td><td>全球</td><td>MEIER and BAHR[19]</td></tr><tr><td>V = k · A1.375</td><td>V= k · A1.25</td><td>典型冰川区</td><td>BAHR[20]</td></tr><tr><td>V= 0.0276·A1.36</td><td></td><td>阿尔卑斯山</td><td>BAHR et al.[21]</td></tr><tr><td>V= 0.021 3· A1.375</td><td rowspan=\"7\"></td><td>全球</td><td>VAN deWal and WILD[22]</td></tr><tr><td>V= 0. 04 · A1.35</td><td>祁连山和天山</td><td>LIU et al.[23]</td></tr><tr><td>V= k · A[1.56-2.90]</td><td>全球</td><td>RADIC et al.[24]</td></tr><tr><td>V= 0. 036 5 · A1.375</td><td>全球 V= 0. 053 8 · A1. 25</td><td>RADIC and Hock[25]</td></tr><tr><td>V= [0. 024 -0. 042] · A[1.26-1.355]</td><td></td><td></td></tr><tr><td></td><td>全球</td><td></td></tr><tr><td>V= k ·A[1.38-1.46]</td><td>全球</td><td>ADHIKARI and MARSHALL[26] HUSS and FARINOTTI[2]</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表2不同区域冰厚估算经验公式",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/46aa78723d903c042a729756b523eb7e9ad7a930ed288bbfdaa5ba350dd53865.jpg",
+        "table_caption": [
+            "Tab.2Empirical formulas for the estimation of ice thickness in different regions "
+        ],
+        "table_footnote": [
+            "注： $\\overline { { H } }$ 表示冰川平均冰厚 $\\mathrm { ( m ) }$ ;A表示冰川面积( $\\cdot \\mathrm { k m } ^ { 2 }$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>公式</td><td>适用区域</td><td>提出者</td></tr><tr><td>H= -11.32 +53.21A0.3</td><td>天山</td><td>苏珍[27]</td></tr><tr><td>H= 5.2 +15.4A0.5</td><td>阿尔卑斯山</td><td>CHEN[18]</td></tr><tr><td>H = 34.4A0.45</td><td>祁连山</td><td>王宗太[28]</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { f } = \\frac { \\tau } { f \\rho g \\mathrm { s i n } ( \\alpha ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $h _ { f }$ 表示冰厚 $\\mathrm { ( m ) }$ ； $\\tau$ 表示沿中流线的平均基底剪切应力 $\\left( \\mathrm { k P a } \\right) ; f$ 表示形状要素； $\\rho$ 为冰川密度( $\\mathbf { k g }$ ： $\\mathrm { ~ m ~ } ^ { - 3 }$ ）； $\\boldsymbol { g }$ 为重力加速度 $( \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 2 }$ ）； $\\alpha$ 为沿中流线的表面平均坡度。其中， $\\tau$ 的计算参考Haeberli和Hoelzle提出的冰川中流线平均基底剪切应力经验计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau = \\left\\{ \\begin{array} { l l } { 0 . 5 + 1 5 9 . 8 \\Delta H - 4 3 . 5 ( \\Delta H ) ^ { 2 } } & { \\Delta H { \\leqslant } 1 . 6 \\mathrm { ~ k m } } \\\\ { 1 5 0 } & { \\Delta H > 1 . 6 \\mathrm { ~ k m } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { \\tau }$ 为平均基底剪切应力 $\\left( \\mathrm { { k P a } } \\right) ; \\Delta H$ 为冰川最高海拔与最低海拔的高程差 $\\mathrm { ~ ( ~ m ~ ) ~ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.2基于质量守恒的冰厚估算模型此类模型是基于质量守恒定律来估算冰川厚度，通常当冰被视为一个不可压缩的介质，并用相对应的连续介质",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "运动方程来表示。冰通量散度 $( \\nabla q )$ 的变化与冰厚变化速率 $( \\partial h / \\partial t )$ 和表观物质平衡 $( \\dot { b } )$ 有关，可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nabla q = \\frac { \\partial h } { \\partial t } - \\dot { b }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过估算冰厚变化速率 $( \\partial h / \\partial t )$ 和表观物质平衡 $( \\dot { b } )$ 的空间分布，从而量化冰川的物质转换并依据Glen 流动定理[34]将冰通量转化为冰厚,其公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = { \\sqrt [ n + 2 ] { { \\frac { q } { 2 A } } \\times { \\frac { n + 2 } { \\left( f \\rho g \\mathrm { s i n } \\alpha \\right) ^ { n } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $h$ 表示每个海拔带的冰厚 ${ \\mathrm { ~ ( ~ m ~ ) ~ } } ; \\alpha$ 表示冰川表面平均坡度 $( { } ^ { \\circ } ) { \\mathfrak { ; } } q$ 表示通过冰川横截面宽度的标准冰通量 $( \\mathbf { m } ^ { 3 } \\cdot \\mathbf { a } ^ { - 1 } )$ : $A$ 为流动速率因子； $n$ 为流动规律指数： $_ { ; \\rho }$ 为冰密度( $\\mathbf { k g } \\cdot \\mathbf { m } ^ { - 3 }$ ）； $g$ 表示重力加速度$( \\mathbf { m } \\cdot \\mathbf { s } ^ { - 2 } )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3最小值法最小值法的本质是将冰川的厚度问题转化为最小值问题，通过定义一个成本函数来判定模型与实测值之间的区别。通常，从实测数据中可获得冰川表面的数字高程模型(DEM)数据，并给冰川基岩地形一个初始的猜测值，然后运用Forward模型预测可观测的冰川，最终依据模型预测值与实测值之间的不同通过重复迭代（满足最小成本函数)对模型进行校正，从而获得冰川厚度数据。Forward模型[43]表达式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7dce199b3798c53c8f012ede63f6b139ee85096631afa886f789b38a354e6833.jpg",
+        "table_caption": [
+            "表3冰厚估算模型",
+            "Tab.3Models for the estimation of ice thickness "
+        ],
+        "table_footnote": [
+            "注;OL表示冰川轮廓,DEM表示数字高程模型,SMB表示表面物质平衡,Vel.表示表面冰流速率， $\\partial h / \\partial t$ 表示冰厚变化速率,Y表示需要该数据，$N$ 表示不需要该数据"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">模型</td><td rowspan=\"2\">类型</td><td colspan=\"4\">所需数据</td><td rowspan=\"2\">适用类型</td></tr><tr><td>OL + DEM</td><td>SMB</td><td>Vel.</td><td>ah/at</td></tr><tr><td>浅冰近似法</td><td>Machguth（GlabTop2）[7]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川、冰帽</td></tr><tr><td rowspan=\"5\">质量守恒法</td><td>Linsbauer(GlabTop）[35]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川、冰帽</td></tr><tr><td>RAAJglabtop2[27]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川</td></tr><tr><td>Farinotti(ITEM）[36]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川、冰帽</td></tr><tr><td>GCbedstress[37]</td><td>Y</td><td>(Y)</td><td>N</td><td>(Y)</td><td>冰川、冰帽</td></tr><tr><td>Maussion(OGGM）[38]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川、冰帽</td></tr><tr><td rowspan=\"4\">最小值法</td><td>Huss(HF -model）[2]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川、冰帽</td></tr><tr><td>Morlighem[39]</td><td>Y</td><td>Y</td><td>(Y)</td><td>N</td><td>冰川</td></tr><tr><td>VanPeltLeclercq[40]</td><td>Y</td><td>Y</td><td>(Y)</td><td>N</td><td>冰川</td></tr><tr><td>Brinkerhoff -v2[41]</td><td>Y</td><td>Y</td><td>(Y)</td><td>N</td><td>冰川</td></tr><tr><td rowspan=\"4\">冰川流速法</td><td>Fuerst[42]</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>冰川、冰帽</td></tr><tr><td>Rabate1[27]</td><td>Y</td><td>Y</td><td>Y</td><td>N</td><td>冰川</td></tr><tr><td>Gantayat[43]</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>冰川、冰帽</td></tr><tr><td>Gantayat - v2[28]</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>冰川、冰帽</td></tr><tr><td rowspan=\"3\">其他</td><td>RAAJgantayat[27]</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>冰川</td></tr><tr><td>Brinkerhoff[44]</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>冰川</td></tr><tr><td>GCneuralnet[45]</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>冰川</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } & { \\frac { \\partial H } { \\partial t } { = } \\frac { \\partial } { \\partial x } \\ \\left[ { \\cal D } \\frac { \\partial ( b + H ) } { \\partial x } \\right] } & { + \\beta , x _ { 1 } < x < x _ { 2 } , t _ { i } < t < t _ { f } } \\\\ & { H ( x , t ) = 0 , } & { x = x _ { 1 } , x _ { 2 } , \\ t _ { i } \\leqslant t \\leqslant t _ { f } } \\\\ & { H ( x , t _ { i } ) = s _ { i } ( x ) - b ( x ) , } & { x _ { 1 } < x < x _ { 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $H$ 表示冰厚 $\\left( \\mathbf { m } \\right) ; t _ { i } , t _ { f }$ 分别为初始时间和终止时间 ${ \\mathbf { \\Pi } } ( { \\mathbf { \\Pi } } _ { \\mathrm { a } } ) : { b \\mathbf { \\Pi } }$ 和 $s$ 分别表示冰床和冰川表面地形$\\mathbf { \\Psi } ( \\mathbf { m } ) , \\beta$ 表示冰川物质平衡 $( \\mathrm { \\textbf { m } } ^ { 3 } \\mathrm { \\textbf { w } } . \\mathrm { \\textbf { e } } . \\mathrm { \\textbf { ) } } ; D$ 表示扩散系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4基于冰川流速的冰厚模型基于CUFFEY和 PATERSON[46]提出的层流流动方程,GAN-TAYAT 等[30]引入冰川流速来估算冰川厚度的模型，其计算公式为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = \\frac { n + 1 } { 2 A } \\times \\frac { u _ { s } - u _ { b } } { \\tau ^ { n } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $h$ 表示冰厚 $\\mathbf { \\Psi } ( \\mathbf { m } ) : u _ { s }$ 和 $\\boldsymbol { u } _ { b }$ 分别为冰川表面和基底的速率 $\\mathbf { \\chi } ( \\mathbf { m } \\cdot \\mathbf { \\chi } _ { \\mathrm { ~ a ~ } } ^ { - 1 }$ ）； $A$ 为流动速率因子( $\\mathrm { P a } ^ { - 3 }$ ：$\\mathbf { s } ^ { - 1 } ) : n$ 为流动规律指数; $\\tau$ 为平均基底剪切应力$\\left( \\mathrm { { k P a } } \\right)$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3基于探地雷达测厚估算冰储量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探地雷达(GPR)是通过发射和接收高频率、短脉冲电磁波，根据接收到的反射电磁波的双程走时、振幅、波形和频率等特征来分析和推断地下介质的结构与性质特征等随深度的变化情况。由于冰川与岩石介电性质的巨大差异，在探地雷达图像资料中很容易识别冰一岩界面的位置，从而获得测点位置的冰川厚度[47]。基于此原理,在运用探地雷达获取冰厚数据之后，绘制冰川厚度等值线图，通过空间插值方法获得冰川厚度空间格网数据[48],从而计算冰川储量和平均厚度。其公式为[49]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh = \\Delta t ( C _ { i c e } / 2 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $h$ 表示冰厚 ${ \\bf \\Xi } ( { \\bf \\Lambda } _ { \\bf m } ) { \\bf \\Lambda } _ { 3 t }$ 为回波延时 ${ \\bf \\Xi } ( \\mu \\bf { s } )$ $C _ { i c e }$ 为冰内波速 $( \\mathbf { m } \\cdot \\mathbf { \\mu } \\mathbf { \\ s } ^ { - 1 }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "探地雷达具有全天时、全天候和不受大气传播及气候影响的特点，可很好的弥补遥感光学影像的不足，且得到的冰厚数据也最为精确。但雷达数据获取渠道有限，数据处理复杂，而且由于冰川区自然条件特殊，冰厚测量一般集中于冰川消融区，积累区缺乏实测数据，因此，通过空间插值得到整条冰川的冰厚分布误差较大。对于山地冰川，探地雷达测厚只适用于人类可以到达的冰川区域，而不适于大范围冰川测量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2冰川冰储量相对变化估算方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 直接测量法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "直接测量法是指利用花杆和雪坑直接实地测量来获得冰川表面物质收支状况的方法[50]。该方法通过实地测量，获取冰川相对于前一年消融季末的表面高程变化，结合冰川近表层的物质密度，对冰川物质平衡水平进行估算。利用花杆和雪坑测量冰川物质平衡，在不考虑冰川面积变化的情况下，冰川物质平衡可作为冰川储量变化的近似参考值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 冰川地形测量法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "冰川地形测量方法主要针对单条冰川，对于大范围冰川主要依靠遥感手段。通过对冰川表面高程重复测量，可获得冰川储量变化信息。该方法假设冰下基岩形态和冰川近表层冰雪密度分布不随时间变化，利用其他年份的测厚资料和表面高程数据，反演冰下地形，再与其他年份冰面高程数据相结合，计算冰川储量变化。目前，国内外已有的观测手段主要包括立体摄影测量、干涉合成孔径雷达(InSAR)测量和差分GPS 测量及经纬仪等[36]。虽然此方法最为常用，但也存在一定缺陷，即一般获取时间间隔较长(从几年到几十年不等)的物质平衡数据，难以反映冰川冰储量的年内变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于多源地形数据和多时相遥感影像估算冰川储量",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "近年来，雷达技术的发展、激光高度计的应用、摄影测量技术与遥感科学的结合，使冰川变化的三维研究取得突破性进展，因此利用多源地形数据和多时相遥感影像数据结合获取冰川变化的三维参数，成为当前冰川遥感技术研究的热点之一。运用遥感手段估算冰川储量主要是通过多源地形数据和多时相遥感影像来提取冰川区域的立体信息。如通过生成DEM数据得到每条冰川表面高程分布函数，按面积加权得出冰储量[51];将两期DEM数据进行偏差纠正后相减，在假设冰川面积不变前提下，与厚度变化相乘得到冰储量变化[52];计算不同高程下DEM数据的差值,按高程与厚度变化的关系计算得到总体厚度变化值，与早期面积相乘得到冰储量变",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "化[53-54] 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 重力测量法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "重力法测厚是用重力仪在测厚点处测出重力异常值，再推算出冰体厚度的方法。20世纪60年代初我国在珠峰绒布冰川、巴基斯坦巴托拉冰川等考察中普遍采用重力法进行冰川测厚[49]。重力测量法基于测点相对于周围非冰川区的重力异常，因此，当冰川范围小、厚度薄时，仪器误差将高于重力异常引起数值波动，造成较大的测量误差。随着重力卫星（GRACE)的成功发射，重力测量法得到广泛应用。GRACE通过高精度的 $K$ 波段微波测距系统探测两颗卫星之间持续的空间距离差异，对地球重力场微小变化进行测算，获取探测对象物质变化。地球重力场变化主要由极地冰盖和高山冰川冰雪质量、陆地水储量变化引起，通过观测重力场随时间的变化,可以反演上述变化状况[55]。GRACE卫星在两极地区的应用主要是监测极地冰盖厚度变化及其对海平面上升的贡献量[56];在高山冰川区的应用则侧重于估算冰川消融速率、转化为等效冰厚度、获取冰储量变化信息等[57]。但是,GRACE卫星只能提供优于月尺度时间分辨率的物质变化数据，空间分辨率较为粗糙，难以应用到小区域。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1冰储量一面积经验公式法的适用性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选取表(1)中3个估算全球冰川储量的经验公式和4个估算阿尔卑斯山冰川储量的经验公式分别做对比分析。在选取的3个估算全球冰川储量公式中,RadiC估算结果最大,Macheret估算结果居中，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Van deWal估算结果最小;当冰川面积小于 $4 ~ \\mathrm { k m } ^ { 2 }$ 时，RadiC估算结果和Macheret的估算结果相同（图1a）。在选取的4个估算阿尔卑斯山冰川储量经验公式中，Shi估算结果最大;CHENandOHMU-RA和BAHR估算结果居中，且前者比后者估算结果略大;ZHURAVLEV估算结果最小;当冰川面积为$2 1 ~ \\mathrm { k m } ^ { 2 }$ 时,ZHURAVLEV 和 CHEN and OHMURAa估算结果相等，为 $1 . 7 8 ~ \\mathrm { k m } ^ { 3 }$ ;面积小于 $2 1 ~ \\mathrm { k m } ^ { 2 }$ 时，前者的估算结果高于后者；当冰川面积等于23.9$\\mathrm { k m } ^ { 2 }$ ,ZHURAVLEV和BAHR估算结果相等（图1b）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，同一区域冰川冰储量一面积经验公式估算结果虽较为接近，但也存在差别，表明冰川地形特征、物质平衡变化等要素的复杂性。经验公式本质上是基于统计学的估算方法，冰川类型、规模、地形、局地气候等细微差异都会对参数确定产生影响，因此不同经验公式参数难以达到绝对统一。此外，经验公式具有区域性，不适用于特定冰川储量估算,如ARENDT等[58]运用BAHR[20]基于144条冰川实测数据提出的经验公式估算美国楚加奇山西部20条冰川的冰储量，误差竟高达 $64 \\%$ 。由于经验公式法计算简单高效，转换系数及面积因子的变化范围窄，且同类冰川间的差异较小，因此广泛用于冰川编目工作以及区域冰川变化研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 冰厚估算模型的适用性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "浅冰近似法基于有限边界的冰体静力分析，其基本假设是冰川整体处于静力平衡状态，因此，该方法适用于物质平衡和运动速度变化相对较小的冰盖和冰帽储量及厚度估算。在区域尺度上，限于冰川类型、气候、地形等的显著差异，且统一特征参数难以确定以及缺少有关物质平衡的区域性数据，因此该方法在区域研究中具有较大的局限性。对于山地冰川，可变参数 $\\tau$ 和 $f$ 的取值分别与冰川谷壁横向阻力和冰川横截面的形状有关[7],实测值与理论值往往有很大差异,如王宁练等[47]基于浅冰近似方法估算得到祁连山八一冰川中部地区冰厚为 $1 2 0 \\mathrm { ~ m ~ }$ ，实测的该地区平均冰厚为 $9 0 \\mathrm { ~ m ~ }$ ,两者误差达 $30 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e463e3d57e76e7c1170300ad821b03acc8f98fa09c983f8e1235247aa13ebe44.jpg",
+        "img_caption": [
+            "图1不同经验公式估算全球(a）阿尔卑斯山(b)冰川储量",
+            "Fig.1Different empirical formulas for estimatingglobal（a）and Alps（b）glacier volume (M-Macheret,V-Van de Wal,R-Radi C,S-Shi,Z-Zhuravlev,C-Chen and Ohmura,B-Bahr) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "质量守恒法的理论基础是质量守恒定律，冰川物质平衡分布由冰通量散度和冰川表面高程变化共同决定，然后根据冰通量推导出冰厚。该方法引入表观物质平衡概念，与经验公式法相比，其最大优势在于可以估算非稳定性冰川的冰储量。表观物质平衡作为冰川实际物质平衡与冰川厚度变化率的差值，只需满足在整条冰川范围内积分值为零，无需考虑冰川上任意一处的厚度变化率是否为零，即使冰川处于非稳定状态，该方法依然适用。但模型参数难以确定与校正限制了该方法的广泛应用，尤其是表观物质平衡梯度与实际物质平衡梯度的不一致，以及不同气候条件、冰川类型和规模等都会造成冰川物质平衡的差异，如海洋型冰川与大陆型冰川存在明显的物质平衡差异，海洋型冰川的物质平衡梯度远大于大陆型冰川的物质平衡梯度[59]；另一方面校正系数难以确定，校正系数变化0.1，平均冰厚变化 $9 \\%$ [36],且校正系数的确定还与剪切应力的近似分布、冰通量、基底滑动速度、流动因子有关。即便如此，该方法对估算个别或小区域冰川储量仍有很大帮助。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "最小值法着眼于冰下地形及表面物质平衡变化，适用于特定冰川与冰盖储量的估算。该方法最大的优势是引入成本函数，其包括三个方面：首先是量化模型与实测表面高程的差异、判别基岩海拔的空间差异及设定冰川边界以外冰厚为零[28],然后通过Forward模型将其转换为冰川表面与基底高程的冰流模型。但是，该方法只对处于稳定状态下的冰川与冰盖适用，对于准静正态及瞬时态冰川与冰盖储量的估算还有待进一步改进与验证；此外，成本函数在使用过程中，如厚度值为负、模拟与观测的冰川表面流速不匹配、模拟与观测的冰川表面物质平衡不匹配等也亟待解决[40]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "冰川流速法是依据层流理论，基于遥感影像计算冰川表面和底部冰流速率，从而估算冰川储量的方法。近年来，随着遥感技术的快速发展，遥感数据获取更加简易方便，因此，该方法适用于无实测冰川冰帽的冰储量估算。但由于流速、冰川表面坡度、形状因子等模型参数的不确定性，加之冰川不同区域(如粒雪盆、冰川末端)垂直方向上的冰雪密度差异大,且在不同海拔带之间也有较大差异[6],影响该方法的估算精度及应用。如GANTAYAT等[28]运用该方法估算喜马拉雅山地区GANGOTRI冰川的储量,误差达 $\\pm 1 8 \\%$ ;HELBING[61]曾对比了阿尔卑斯山Unteraargletscher冰川野外观测数据与数值冰流模型的模拟结果，发现冰川底部滑动速度占表面速度的 $5 0 \\%$ ，若对底部滑动不加以校正往往会高估冰川储量，需引入校正系数加以修正，且有无实测数据参与校正系数的修正对估算结果影响较大，均方根误差可相差 $20 \\%$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GCneuralnet是基于人工神经网络方法的冰川冰厚估算模型[45],其基本假设是被冰覆盖的冰床地形与邻近无冰覆盖的地形相似，然后选择感兴趣区，获取模型参数，如表面高程、坡度、坡向等，确定神经网络体系结构，对样本进行反复训练获得最佳参数，不断优化输出层冰厚度的精度。由于假设当前无冰覆盖区地形是由表面平坦无起伏的冰川侵蚀而形成，所以人工神经网络法更适合估算表面平缓的冰川厚度。人工神经网络法对输入样本质量要求高，计算量大，不适合应用于大范围冰川储量估算。同时，人工神经网络法更多地依赖神经网络算法,忽略了冰川本身的一些物理特性，如能将算法与冰川物理特性进行结合使之参与样本训练，将会在很大程度上提高该方法的适用性和估算精度。BRINKER-HOFF等[44]提出运用贝叶斯理论推断冰床海拔,其基本假设是在未知协方差的情况下，冰川海拔和冰通量散度可用高斯随机场进行模拟，因此该模型适用于具有观测数据的特定冰川，而不适用于全球性冰川储量的精确估算。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3冰川冰储量相对变化估算方法的适用性",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "直接测量法是最为直接和精确的物质平衡测量方法，其能反映详尽的年内冰川物质平衡空间分布差异，也可以精确地反映冰川储量的相对变化情况[8],适用于特定冰川测量与冰储量估算。然而,数据获取过程中的测量误差（随机误差）和方法误差(系统误差)均会增加冰川物质平衡估算结果误差，如花杆在粒雪中的下沉、测量点空间分布的合理性和代表性及空间插值方法误差等[62]。此外,该方法需要重复实地测量，对于处于高海拔和寒冷偏远地区的冰川来说,需要付出较大的财力和人力成本，难以在较多冰川上开展，在规模更大冰川上开展物质平衡观测难度更大。目前，全球范围内只有大约70条冰川拥有超过20a持续观测数据,39条冰川有超过30a连续数据，并且受监测的冰川主要分布在欧洲和北美等地区，亚洲地区覆盖较少，因此，数据代表性差，并且世界冰川监测服务处（WGMS）发布的数据缺乏不确定性分析和精度评估，影响了数据使用的可信度[50]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "多源DEM数据的出现，使获得冰川厚度变化成为可能[63]。然而,由于不同来源 DEM数据在生成时自身存在误差，在DEM数据空间坐标系统和分辨率转换及匹配等处理过程中也会出现误差，继而对冰川表面高程变化估算带来误差，最终影响冰储量相对变化的估算精度[64]。航天遥感数据在获取过程中，遥感平台自身姿态稳定性误差，卫星传感器解析力和获取能力不足导致的数据失真，大气辐射和干涉对获取信号的干扰等[65],均会影响探测对象在遥感影像上的反映。采用立体遥感数据提取DEM数据过程中，软件平台、地面控制点和提取数据点的数量与分布、空间内插方式、DEM数据空间坐标系统和空间分辨率等因素的不同也会导致提取DEM数据产生差异，这些非系统性误差最终导致相同研究区域内多源遥感DEM间产生较大的空间配准误差，反映为DEM数据间相对平面扭曲和垂直差异，进而影响冰川冰量估算结果精度[60]。再者,如何在不同源DEM数据间求出冰川厚度变化，如何评价其精度，也成为研究中需要解决的难题。虽然如此，遥感技术仍为冰川储量的估算在一定程度上提供了强有力的技术支持。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论与展望 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冰川储量是评估全球海平面上升、冰川变化对气候变化响应、水量平衡等的重要指标。本文系统总结并对比分析了目前国内外估算冰川储量及相对冰量变化的方法，研究表明冰川储量估算方法各有优缺点，经验公式法简单快速，适合估算区域性或全球性大尺度上的冰储量，模型估算法适合估算其他观测数据丰富却难以展开实地测厚工作的个体或小范围冰川储量，探地雷达适合人类易到达冰川的储量估算。在冰川冰储量相对变化计算方法中，直接测量法适合估算对精度要求高且满足实地测量条件的中小型冰川；冰川地形测量法适合单个特定冰川冰量变化估算而不适用于区域尺度；基于遥感手段估算方法为全球冰川储量变化提供了有力的技术支撑；GRACE卫星覆盖范围广阔同时会带来空间分辨率低的问题，应用到小区域冰川，需在球谐域和空间域上进行改进，并提高空间分辨率。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着新技术、新理论的出现，多学科的交叉融合为冰川储量估算精度的提高提供了新机遇。卫星遥感技术的进步，特别是更高分辨率的雷达和光学影像的应用[66],提高了冰川面积获取的精确性,但表碛、积雪识别仍是冰川提取的难题，未来可尝试采用粗糙集理论及ICESat卫星波形提高提取精度，其中ICESat卫星搭载的地球科学激光测高仪系统(GLAS)获取的数据，被认为是目前全球范围所能获得最准确的地面高程数据[67]。在冰川厚度物探技术方面，探测精度不断提升，机载冰川厚度探测雷达的逐步应用也有望为区域性冰川测厚提供可能[68]。近年来,无人机也逐步应用到山地冰川的测量工作中[],其以小巧灵活的优势在山地冰川表面特征参数获取和冰川储量估算方面展现出极大的应用潜力。此外，诸如GRACE重力卫星、SAR等都已成为探测冰川厚度的有力工具。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "冰川厚度估算模型的不断发展及冰川编目数据的不断完善为冰川储量估算带来新契机与数据支撑。在冰厚模型估算方面，基于浅冰近似法、质量守恒法等估算冰川储量已取得丰富成果。FARINOTTI等对目前提出的所有模型性能进行了实验检验，发现模型估算法与实测平均冰厚偏差约为 $1 0 \\% \\pm$ $2 4 \\%$ ，因此，如何提高模型估算法的精度及简化模型参数成为提升模型性能的首要任务；其次，浅冰近似法中如何优化冰川底部剪应力的计算方法是日后应用研究的重点。随着雷达干涉测量技术的发展，大范围快速获取冰川表面流速成为可能，基于冰川流速模型估算冰川冰储量已然成为模型估算研究的一个新突破口。随着冰川编目工作的持续开展和不断更新，收录的冰川信息越来越完整准确，如何有效利用丰富的冰川编目资料及其他辅助数据研发新的或改进现有经验公式是今后应持续关注的问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] OERLEMANS J. Quantifying global warming from the retreat of glaciers[J].Science,1994,264(5156）:243-245.   \n[2] HUSS M,FARINOTTI D.Distributed ice thickness and volume of all glaciers around the globe[J].Journal of Geophysical Research,2012,117（F4).   \n[3] 刘时银,姚晓军,郭万钦,等.基于第二次冰川编目的中国冰 川现状［J].地理学报,2015,70（1）:3-16.［LIU Shiyin,YAO Xiaojun,GUO Wanqin,et al.The contemporary glaciers in China base on the Second Chinese Glacier Inventory[J].Acta Geographica Sinica,2015,70(1):3 -16.]   \n[4]SORG A,BOLCH T,STOFFEL M,et al. Climate change impacts on glaciers and runoffin Tien Shan（Central Asia）[J]. Nature Climate Change,2012,2（10）:725-731.   \n[5]HUGGEL C,KAAB A,HAEBERLI W,et al. Regional-scale GISmodels for assessment of hazards from glacier lake outbursts:Evaluation and application in the Swiss Alps[J].Natural Hazards & Earth System Sciences,2003,3(6）:647 -662.   \n[6]RESS HG,COLLINS D N.Regional diferences in response of flow in glacier-fed Himalayan rivers to climaticwarming[J]. Hydrological Processes,2006,20(10）:2157 -2169.   \n[7]FREY H,MACHGUTH H,HUSS M,et al.Estimating the volume of glaciers in the Himalayan-Karakoram region using dierent methods[J]. Cryosphere,2014,8(6）:2313-2333.   \n[8]RADIC V,HOCK R. Glaciers in the earth's hydrological cycle: Assessments of glacier mass and runoff changes on global and regional scales[J]. Surveys in Geophysics,2013,35（3）:813- 837.   \n[9]ERASOV N V. Method to determine the volume of mountain glaciers[J].Materialy Glyatsiologicheskikh Issledovanii: Khronika, Obsuzhdeniya,1968,14:307 -308.   \n[10]SHI Yafeng,WANG Zongtai,LIU Chaohai.Note on the glacier inventory in Qilian Shan Mountains[J].Glacier Inventory of China,1981,1:1-9.   \n[11]MACHERET Y Y,ZHURAVLEV A B. Radio echo-sounding of Svalbard glaciers[J].Journal of Glaciology,1982,28（99）:295- 314.   \n[12]CHIZHOV OP,KOTLYAKOVV M.Studies of the antarctic and present-day concepts of global glaciation[J].Annals of Glaciology,1983,3（1) :50-53.   \n[13]GRABIEC M,JANIA J,PUCZKO D,et al. Surface and bed morphology of Hansbreen,a tidewater glacier in Spitsbergen[J].Polish Polar Research,2012,33(33）:111-138.   \n[14]ZHURAVLEV A B.Thickness,subglacial relief and volume of Svalbard glaciers based on radio echosounding data[J].Polar Geography,1985,9(3） :224-243.   \n[15]DRIEDGER C L,KENNARD P M.Ice volumes on cascade volcanoes；Mount Rainier,Mount Hood,Three Sisters,and Mount Shasta[R]. US Geological Survey,1986.   \n[16］ZHURAVLEV A.The relation between glacier area and volume [J].Data of Glaciological Studies,1988,40(5）:441 -456.   \n[17]KOTLYAKOV V M,MACHERET Y Y. Radio echo-sounding of sub-polar glaciers in Svalbard:Some problems and results of soviet studies[J].Annals of Glaciology,1987,9(1):151-159.   \n[18］CHEN J,OHMURA A.Estimation of alpine glacier water resources and their change since the 1870s[J].IAHS publ,1990,193;127 -135.   \n[19]MEIER MF,BAHR D B. Counting glaciers:Use of scaling methods to estimate the number and size distribution of the glaciers of the world[M]//Glaciers,Ice Sheets and Volcanoes:A Tribute to Mark F.Meier.CRREL Special Report,1996,96:89 -94.   \n[20]BAHR D B.Global distributions of glacier properties:A stochastic scaling paradigm[J]. Water Resources Research,1997,33（7）: 1669 -1680.   \n[21] BAHR D B,MEIER M F,PECKHAM S D. The physical basis of glacier volume-areascaling[J].Journal of Geophysical Research:Solid Earth,1997,102（B9):20355-20362.   \n[22]WALRSWV D,WILD M. Modelling the response of glaciers to climate change by applying volume-area scaling in combination with ahigh resolution GCM[J].Climate Dynamics,2OO1,18（3/ 4) :359 -366.   \n[23]LIU Shiyin,SUN Wenxin,SHEN Yongping,et al. Glacier changes since the Little Ice Age maximum in the western Qilian Shan, northwest China,and consequences of glacier runoff for water supply[J]. Journal of Glaciology,2003,49(164）:117 -124.   \n[24]RADIC V,HOCK R,OERLEMANS J. Volume-area scaling vsflowlinemodelling in glacier volume projections[J].Annals ofGlaciology,2007,46(1) :234 - 240.   \n[25]RADIC V,HOCK R. Regional and global volumes of glaciers derived from statistical up-scaling of glacier inventory data[J]. Journal of Geophysical Research Earth Surface,2010,115（F1）: 87 -105.   \n[26]ADHIKARI S,MARSHALL S J. Glacier volume-area relation for high-order mechanics and transient glacier states[J]. Geophysical Research Leters,2012,39(16）:132-133.   \n[27]FARINOTTI D,BRINKERHOFF D,CLARKE G K C,et al. How accurate are estimates of glacier ice thickness? Results from ITMIX,the Ice Thickness Models Intercomparison Experiment Manuscript under review for journal［J].Cryosphere,2017,2 (11) :949 -970.   \n[28]GANTAYAT P,KULKARNI A V,SRINIVASAN J. Estimation of ice thickness using surface velocities and slope:Case study at Gangotri Glacier,India[J].Journal of Glaciology,2014,60（60）: 277 - 282.   \n[29]ENGELHARDT M,SCHULER T V,ANDREASSEN L M. Glacier massbalance of Norway1961-2010 calculated byatemperatureindex model[J].Annals of Glaciology,2013,54(63）:32-40.   \n[30]PATERSON W SB.The Physicsof Glaciers（Third Edition） [M]. Elsevier,1994.   \n[31]HAEBERLI W,HOELZLE M.Application of inventory data for estimating characteristics of and regional climate-change effects on mountain glaciers:A pilot study with the European Alps[J].Annals of Glaciology,1995,21(1）:206 -212.   \n[32］苏珍,丁良福,刘潮海.天山冰川厚度及其储量计算[J].新疆 地理,1984,7(2）:37-44.[SU Zhen,DING Liangfu,LIU Chaohai. Thickness and volume calculation of TianShan Mountains[J]. Xinjiang Geography,1984,7（2）:37 -44.]   \n[33］王宗太,刘潮海.祁连山区现代冰川发育条件、分布特征及区 划—据最新冰川编目资料分析[J].地理学报,1983,50（2）： 141-153.[WANG Zongtai,LIU Chaohai. The modern glacial development conditions,distribution characteristics and zoning of the Qilian Mountainsareanalyzed according to the latest glacier inventory data[J].Acta Geographica Sinica,1983,50（2）:141- 153.]   \n[34]GLENJW.The creep of polycrystalline ice[J].Proceedings of the Royal SocietyA Mathematical Physical& Engineeing Sciences， 1955,228(1175) :519 - 538.   \n[35]LINSBAUER A,PAUL F,HOELZLE M,et al. The Swiss Alps without glaciers-A GIS-based modellingapproach for reconstruction of glacier beds[J].Department of Geography University of Zurich, 2009,31:243 - 247.   \n[36]FARINOTTID,HUSS M,BAUDER A,et al.A method to estimate the ice volume and ice-thickness distribution of alpine glaciers [J]. Journal of Glaciology,2009,55(191）:422-430.   \n[37]CLARKE G KC,ANSLOWFS,JAROSCHAH,et al.Ice volume and subglacialtopography for western canadianglaciers from mass balance fields,thinning rates,and a bed stress model[J]. Journal of Climate,2013,26(12):4282-4303.   \n[38]MARZEION B,JAROSCH A H,HOFER M. Past and future sealevel change from the surface,mass balance of glaciers[J]. Cryosphere,2012,6(6):1295-1322.   \n[39]MORLIGHEM M,RIGNOT E,SEROUSSI H,et al.A mass conservation approach for mapping glacier ice thickness[J]. Geophysical Research Letters,2011,38(19）:1441-1458.   \n[40]VAN PELT WJJ,OERLEMANS J,REIJMER C H,et al.An iterative inverse method to estimate basal topography and initialize ice flow models[J]. Cryosphere,2013,7(3）:987 -1006.   \n[41]BRINKERHOFF D J,JOHNSON JV. Dynamics of thermally induced ice streams simulated with a higher-order flow model[J]. Journal of Geophysical Research Earth Surface,2015,120（9）: 1743 - 1770.   \n[42]GAGLIARDINI O,ZWINGER T,GILLETCHAULET F,et al. Capabilities and performance of Elmer/Ice,a new generation icesheet model[J]. Geoscientific Model Development,2013,6（4）: 1299 - 1318.   \n[43]MICHEL L,PICASSO M,FARINOTTI D,et al. Estimating the ice thickness of mountain glaciers with an inverse approach using surface topographyand mass-balance[J].Inverse Problems,2013,29 (3）:035002.   \n[44]BRINKERHOFF D,ASCHWANDEN A,TRUFFER M. Bayesian inference of subglacial topography using mass conservation[J]. Frontiers in Earth Science,2016,4(8）:1 -15.   \n[45]CLARKE G K C,BERTHIER E,SCHOOF C G,et al. Neural networks applied to estimating subglacial topographyand glacier volume[J].Journal of Climate,2009,22(8）:2146 -2160.   \n[46]CUFFEY K M,PATERSON W S B.The physics of glaciers fourth edition[M].Academic Press,2010.   \n[47］王宁练,蒲健辰.祁连山八一冰川雷达测厚与冰储量分析[J]. 冰川冻土,2009,31（3）:431－435.[WANG Ninglian,PU Jianchen.Ice thickness,sounded by groundpenetratingradar,on the Bayi Glacier in the Qilian Mountains,China[J]. Journal of Glaciology and Geocryology,2009,31(3）:431-435.]   \n[48］朱美林,姚檀栋,杨威,等.念青唐古拉山扎当冰川冰储量估算 及冰下地形特征分析[J].冰川冻土,2014,36(2）:268－277. [ ZHU Meilin,YAO Tandong,YANG Wei,et al. Ice volume and characteristics of sub-glacial topography of the Zhadang Glacier, Nyainqentanglha Range[J]. Journal of Glaciology and Geocryology,2014,36(2):268 -277.]   \n[49］刘时银.冰川观测与研究方法[M].北京：科学出版社,2012. [LIU Shiyin.Field observations in glaciological research[M]. Beijing:Science Press,2012.]   \n[50]ZEMP M,HOELZLE M,HAEBERLI W. Six decades of glacier mass-balance observations: A review of the worldwide monitoring network[J].Annals of Glaciology,2009,50(50）:101-111.   \n[51]KHALSA S J S,DYURGEROV M B,KHROMOVA T,et al. Space-based mapping of glacier changes using ASTER and GIS tools［J]. IEEE Transactions on Geoscience & Remote Sensing, 2004,42(10) :2177 -2183.   \n[52]BERTHIER E,ARNAUD Y,KUMAR R,et al. Remote sensing estimates of glacier mass balances in the Himachal Pradesh（Western Himalaya,India)[J].Remote Sensing of Environment,2007, 108(3) :327-338.   \n[53]KAAB A. Glacier volume changes using ASTER optical stereo. A test study in Eastern Svalbard[C]//Geoscience and Remote Sensing Symposium,2007. IGARSS 2007. IEEE International. IEEE,3994 - 3996.   \n[54］王祎婷,陈秀万,柏延臣,等.多源 DEM 和多时相遥感影像 监测冰川体积变化——以青藏高原那木纳尼峰地区为例[J]. 冰川冻土,2010,32（1):126-132.[WANG Yiting,CHEN Xiuwan,BO Yancheng,et al. Monitoringglacier volume change based on multi source DEMand multi temporalremote sensing images [J]. Journal of Glaciology and Geocryology,2010,32（1）:127- 132.]   \n[55］曹艳萍,南卓铜.GRACE 重力卫星数据的水文应用综述［J]. 遥感技术与应用,2011,26(5）:543-553.[CA0 Yanping,NAN Zhoutong. Applications of GRACE in hydrology:A review[J]. Remote Sensing Technology and Application,2011,26（5）:543- 553.]   \n[56]SCHLEGEL N J,WIESE D N,LAROUR E Y,et al.Application of GRACE to the assessment of model-based estimates of monthly Greenland Ice Sheet massbalance（2003- 2012）[J].Cryosphere,2016,10(5） :1 -35.   \n[57]LUTHCKE SB,ZWALLY H J,ABDALATI W,et al.Recent greenland ice mass loss by drainage system from satelite gravity observations[J].Science,2006,314(5803）:1286-1289.   \n[58]ARENDT A,ECHELMEYER K,HARRISON W,et al. Updated estimates of glacier volume changes in the western Chugach Mountains,Alaska,and a comparison of regional extrapolation methods[J]. Journal of Geophysical Research: Earth Surface, 2006,111（F3).   \n[59］苏勃,李忠勤,张明军,等.大陆型冰川与海洋型冰川物质平衡 对比研究——以天山和阿尔卑斯山典型冰川为例[J].冰川冻 土,2015,37（5）:1131-1140.[SU Bo,LI Zhongqin,ZHANG Mingjun,et al.A comparative study on mass balance between the continental glaciersand temperate glaciers: Tanking the typical glaciers in the Tianshan Mountains and the Alps as examples[J]. Journal of Glaciologyand Geocryology,2015,37（5）:1131- 1140.]   \n[60]HUSS M. Density assumptions for converting geodetic glacier volume change to mass change[J]. Cryosphere,2013,7（3） :877 - 887.   \n[61]HELBING J. Glacier dynamics of Unteraargletscher:Verifying theoretical concepts through flow modeling[J].Journal of Engineering for Gas Turbines & Power,2005,108(2）:246-253.   \n[62] HAGG W J,BRAUN L N,UVAROV V N,et al.A comparison f three methods of mass-balance determination in the Tuyuksu glacierregion,Tien Shan,CentralAsia[J].JournalofGlaciology, 2004,50(171) :505 -510.   \n[63]NECKEL N,BRAUN A, KROPACEK J,et al. Recent mass balance of Purogangri ice cap,central Tibetan Plateau,by means of differential X-band SAR interferometry[J].Cryosphere,2013,7 (2):1623-1633.   \n[64]BERTHIERE,VADON H,BARATOUXD,et al. Surface motion of mountain glaciers derived from satellite optical imagery[J].Remote Sensing ofEnvironment,2005,95(1）:14-28.   \n[65]NUTHC,KAAB A.Co-registration and bias corrections of satellite elevation data sets for quantifying glacier thickness change[J]. Cryosphere,2011,5（1） :271-290.   \n[66］怀保娟，李忠勤，孙美平，等.近50年黑河流域的冰川变化遥 感分析[J].地理学报,2014,69（3）：365-377.［HUANBaojuan,LI Zhongqin,SUN Meiping,et al.RS analysis of glaciers change in the Heihe River Basin in the last 5O years[J].Acta Geographica Sinica,2014,69(3）:365-377.]   \n[67]SCHUTZ BE,ZWALLY HJ,SHUMAN C A,et al.Overview of the ICESat Mission[J].Geophysical Research Letters,2005,32 (21):97 -116.   \n[68] GOGINENI S,TAMMANAD,BRAATEND,etal.Coherent radar ice thickness measurements over the greenland ice sheet[J]. Journal of Geophysical Research,2001,106(D24）:33761-33772.   \n[69］WHITEHEAD K,MOORMAN B J,HUGENHOLTZ C H.Brief Communication:Low-cost,on-demand aerial photogrammetry for glaciological measurement[J].Cryosphere,2003,7（3）:1879- 1884. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Methods and future trend of ice volume calculation of glacier ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GAO Yong-peng1， YAO Xiao-jun¹，LIU Shi-yin2,3， AN Li-na’， GONG Peng1, LI Xiao-feng¹，QI Miao-miao¹， DUAN Hong-yu1 (1CollegeofGeographyandEnvironmentSciences,NorthwestNormal University,Lanzhou730o7o,Gansu,China;   \n2Yunnan KeyLaboratoryofInternational Riversand Transboundary Eco-security,Kunming65oo91,Yunnan,China;   \n3Instituteof International Rivers and Eco-Security,Yunnan University,Kunming 65o5o,Yunnan,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Ice volumeis notonlythe crucial glacier property but also the foundational data in computing glacial waterresourcesand predicting glacial change.Therefore,itisof vitall theoretical and practical significance for exactly computing glacier volume and variation.In this paper,we analyzed and discussed the principles,developments and problems of existing methods in order to provide the reference for the estimation of glacier volume.At present, major methods of estimating glacier volume include volume-area empirical formula method,method of ice thickness estimation models and GPR,and computational methods to estimate relative change of glacier volume include mainly thefield measurement,the estimation method basedon remotely sensed data and gravimetric method.The volumearea empirical formula method was used to estimate regional or global glacier volume simplyand fletly;the method of icethickness estimation models were suitable to estimate single or smal-scale glacier volume and do not need the input of measured data.The GPR was appied to estimate glacier volume where human beings can reach easily.The field measurement with the most accurate result fits to estimate glacier volume change specifically for single glacier as well assmallor medium-sized glaciers that require the high accuracy and meet the conditions of field measurement.The method based on remotely sensed data is applicable to estimate glacier volume change globally,so it needs to improve the algorithm and enhance the spatial resolution of thedata.GRACE hasthe characteristic of wide coverage but has alow spatial resolution,so it is necessryto modify the spherical harmonic domainand spatial domain and improve the spatial resolution when applied to smallregional glaciers.Withthe emergence of new technology and theory,themulti-disciplinary fusion provides newopportunities for the improvementof theestimation accuracy of glacier volume.The development of the estimation models and continuous supplement of the glacier inventory data offer new chances and data support for estimation of glacier volume. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:glacier；glacier volume；glacier thickness；mass balance；calculation method ",
+        "page_idx": 9
+    }
+]

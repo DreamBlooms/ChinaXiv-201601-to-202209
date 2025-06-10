@@ -1,0 +1,385 @@
+[
+    {
+        "type": "text",
+        "text": "激活右腹外侧前额叶提高抑郁症患者对社2 会疼痛的情绪调节能力：一项TMS研究1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "莫李澄」郭田友1,2 张岳瑶」徐锋3 张丹丹1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4 ('深圳大学心理学院，深圳518060,²华中科技大学协和深圳医院，深圳 518052)  \n5 (深圳英智科技有限公司，深圳 518010)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7 摘要负性人际交往经历和负性社会事件是抑郁症的重要诱导因素，而社会功能受损是  \n8 抑郁症患者的重要特征之一，患者通常表现出对社会疼痛的情绪失调。为了提高抑郁症患者在负性社交情境中或面对负性社会事件时的情绪调节能力，本研究采用经颅磁刺激技术(transcranial magnetic stimulation,TMS)，考察抑郁症患者在腹外侧前额叶(the ventrolateralprefrontal cortex，VLPFC)被激活后其情绪调节能力的改变。结果表明，当右侧VLPFC 被TMS 激活且患者采用认知重评策略调节情绪时，实验组患者 $( n = 6 4 )$ 比对照组患者 $( n = 6 3 )$ 在社会排斥情境下报告了更弱的负性情绪体验，这说明激活右侧VLPFC 可以有效提高患者对社会疼痛的外显性情绪调节能力。本研究是采用TMS 提高抑郁症患者情绪调节能力的首次尝试，实验发现不但支持了VLPFC与认知重评策略的因果关系，还为临床改善抑郁症等社会功能障碍患者的情绪调节能力提供了明确的神经治疗靶点。后续研究还需探讨多疗程TMS刺激方案、改变社会疼痛的诱发方式、对比左右侧VLPFC的治疗效果、尝试使用其他的情绪调节策略，进一步验证本研究的结论，优化TMS 治疗方案。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词抑郁症，经颅磁刺激，腹外侧前额叶，社会疼痛，情绪调节 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B845; R395",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "221引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抑郁症是以持久的心境低落和快感缺失为特征的一种常见的精神疾病(APA,1994)。患者对自我、世界及未来抱有负性态度，对负性刺激过度关注，对负性事件存在记忆偏向(Gotlib&Joormann,2010)。这些认知障碍导致抑郁症患者的劳动力大大降低，以全球范围患者的\"劳动力丧失年\"(years lost to disability,YLD)计量，抑郁症共导致了7.6千万YLD（占YLD总数的 $1 0 . 3 \\%$ ，在所有疾病中排名第一(Smith,2014)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会互动和人际交往在我们的日常生活中占有举足轻重的地位，然而社会功能受损是抑郁症的重要特征(Henriques& Davidson,2000; Kupferberg,Bicks,& Hasler,2016)。与健康对照相比，抑郁症患者存在严重的社交快感缺失，他们参与社会活动的动机更小、频率更低(Hammen,2005)，倾向于从别人的言论中解读出侮辱、嘲笑和轻蔑(Beck&Alford,2009)。同时，负性的社会事件或经历也被认为是抑郁症发病的重要诱导因素(Lau& Waters,2017;Nolan,Flynn,&Garber,2003)。这些负性的社会事件包括：虐待或忽视等异常家庭关系、亲友的离世或分离、就业歧视、校园欺凌、社会拒绝等。由于它们会给人们造成类似于生理疼痛的负性情绪体验，因此被称为“社会疼痛\"(social pain；Eisenberger，2012，2015;Eisenberger &Lieberman,2004; Eisenberger,Lieberman,& Williams,2003)。情绪调节是一种可有效缓解社会疼痛的应对策略(DeWall et al.,2011;He et al.,2018)。然而，不少研究已发现，抑郁症患者通常表现出情绪失调(Rive et al.,2013)，特别是对社会疼痛的情绪调节能力受损(Davey et al.,2011; Jankowski etal.,2018)。同时，患者的社会疼痛阈限也显著低于健康人群(MacDonald,Kingsury,& Shaw,2005)，导致他们对社会排斥等负性社会事件更加敏感。例如，研究者发现在网络掷球游戏（cyberball）中遭受排斥后，重度抑郁症患者比健康对照被试表现出更强的杏仁核、前脑岛和前扣带回的激活(Jankowski etal.,2018;Kumar et al.,2017)，表明在遭受社会排斥时，患者会产生更强烈的负性情绪体验。因此，提高抑郁症患者在面对负性社交情境或负性社会事件时的情绪调节能力，是缓解疾病症状、帮助患者康复的有效手段(Laceulle et al.,，2019)。本研究拟采用经颅磁刺激技术(transcranial magneticstimulation,TMS)，考察抑郁症患者在相应情绪调节脑区被激活后，患者对社会疼痛的情绪调节能力是否有所提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "情绪加工的神经模型(Etkin,Büchel,& Gross,2015; Phillips,Ladouceur,& Drevets,2008;Rive etal.,2013)指出，内隐的或自动化的情绪调节主要依赖于内侧前额叶(medial prefrontalcortex,MPFC)和前扣带回皮层(anterior cingulate cortex,ACC)，而外显的或主动的情绪调节主要依赖于外侧前额叶皮层(lateral prefrontal cortex，LPFC)，后者包括背外侧前额叶(dorsolateral prefrontal cortex，DLPFC)和腹外 侧前额叶(ventrolateral prefrontal cortex,VLPFC)。本研究选择主动情绪调节脑区作为治疗的靶点，主要原因有二。第一，大量证据表明，主动或外显情绪调节比自动或内隐情绪调节的效果更好(Ajaya,Peckham,&Johnson,2016;Yuan etal.,2015)。第二，脑成像研究表明，相比于内侧前额叶皮层，抑郁症患者以及有自杀想法个体的外侧前额叶皮层的功能性损伤更严重(Hamilton et al.，2012；Schmaal etal.,2020)。例如，Rive 等(2013)的脑成像综述指出，抑郁症患者在进行外显性的主动情绪控制时其外侧前额叶的神经激活明显弱于健康对照，而在自动化情绪调节过程中患者的内侧前额叶功能与对照组无显著差异。与本研究更相关的，Jankowski等(2018)采用网络掷球范式发现，抑郁症患者组在遭受到社会排斥后，其前额叶（包括DLPFC 和VLPFC）的激活水平明显弱于健康对照组，说明患者对社会疼痛的情绪调节能力有所减弱。因此我们认为，外侧前额叶可能是采用TMS 或神经反馈技术改善抑郁症患者情绪调节能力的最合适的靶点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "主动情绪调节可通过数种策略实现，本研究选择\"认知重评\"(cognitive reappraisal)作为情绪调节策略。该策略被人们广泛使用，情绪调节效果好；且与表达抑制、沉思反刍等其他策略相比，该策略具有良好的进化和环境适应性，更适用于治疗抑郁症患者的情绪调节障碍(Goldin et al.,2008; Ochsner, Silvers,& Buhle,2012; Paul et al.,2013)。虽然 DLPFC 和VLPFC 均被认为是主动性情绪调节的核心脑区(Berkman& Lieberman,2009；Buhle et al.,2014; Kohn et al., 2014; Morawetz et al.,2017; Ochsner et al., 2012; Zilverstand, Parvaz,&Goldstein,2017)，但不少研究表明VLPFC是采用认知重评策略进行情绪调节的最关键脑区(Dörfel et al.,2014; Marques,Morello,& Boggio,2018; Moodie et al.,2020; R. B. Price, Paul,Schneider,& Siegle,2013;Riva&Eck,2016)，而DLPFC更主要负责采用“分心”策略进行的情绪调节(Kohn et al. 2014; Zwanzger et al. 2014)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对社会疼痛的情绪调节，目前已有许多基于健康人群的研究指出了VLPFC，特别是右侧的VLPFC(right VLPFC，rVLPFC)在此过程中的重要作用(Koban et al.，2017;Vijayakumar,Cheng,&Pfeifer,2017;Wang,Braun,&Enck,2017)。例如，不少脑成像研究发现，右侧或双侧VLPFC在被试体验到社会排斥引起的负性情绪后激活显著增强，且激活强度与被试报告的疼痛强度呈负相关(Chester et al.,2018;Eisenberger et al.,2003; Hooker et al.,2010; Masten et al.,2009; Onoda et al.,2010; Sebastian et al.,2011)。同时，研究者们利用经颅直流电刺激(transcranial direct current stimulation,tDCS)以及 TMS 技术证明了rVLPFC 在下调由社会疼痛诱发的负性情绪时的关键作用(Hsu etal.,2015;Riva et al.,2012;Riva,RomeroLauro,DeWall,et al.,2015; Riva,Romero Lauro,Vergallito,et al.,2015)。我们课题组近期采用外显情绪调节任务，要求健康被试在体验到社会疼痛时使用认知重评策略下调负性情绪,发现利用 tDCS/TMS 激活rVLPFC 能明显降低被试的负性情绪体验强度，提高其社会情绪调节能力(He etal.,2018,2020;He etal.,2019；张丹丹等,2019)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究拟采用TMS为技术手段。脑机制研究方面,TMS和tDCS技术通过激活或抑制特定脑区(例如rVLPFC)的功能来观察被试的行为和脑神经活动改变，从而获得特定脑区与认知功能的因果关系。精神疾病治疗方面，抑郁症可能是TMS应用最早、普及率最高的适应症(Somani&Kar,2019)。目前TMS 治疗抑郁的常用靶点为DLPFC，治疗过程通常激活左侧 DLPFC 或抑制右侧 DLPFC，以达到减少或缓解患者抑郁症状的效果(Brunoni et al,2012; George et al.,2010; Schutter,2010)。同时，一些脑成像(Paillere Martinot et al.,2011)和临床对照研究(Herbsman etal.,2009)发现，VLPFC脑区可能也是治疗抑郁症的重要神经靶点(Downar & Daskalakis,2013)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究的问题是：采用TMS激活抑郁症患者的rVLPFC能否提高其对社会疼痛的情绪调节能力？实验中我们使用社会排斥图片诱发患者的社会疼痛体验，并指导他们通过认知重评策略下调负性情绪。基于已有发现，我们假设：相比于对照组患者，rVLPFC被激活的实验组患者能更有效地通过情绪调节降低其负性情绪体验强度。本研究是采用TMS 提高抑郁症患者情绪调节能力的首次尝试，研究结果不但能深化我们对情绪调节脑机制的理解，更可为TMS治疗抑郁症提供认知和脑神经层面的证据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究的患者来自华中科技大学协和深圳医院的临床心理科，我们共招募了在2017.12\\~2020.7期间经门诊确诊为抑郁症的志愿者127名。所有患者均符合美国精神疾病诊断与统计手册第 5 版(Diagnostic and Statistical Manual,Fifth Edition,DSM-V;APA,1994)重性抑郁症的诊断标准，并符合贝克抑郁量表第 2 版(Beck Depression Inventory SecondEdition,BDI-II;Beck etal.,1996)的抑郁诊断标准 $( \\mathrm { B D I - I I } \\geq 1 4 ) $ )。排除标准： $\\textcircled{1}$ 合并其他轴I或轴II精神障碍者; $\\textcircled{2}$ 神经系统疾病患者； $\\textcircled{3}$ 有癫痫、脑外伤病史者。实验当天所有患者已停药两周以上或未服用过抗抑郁药物。患者均为右利手，视力或矫正视力正常，未接受过 TMS 治疗。本实验方案经实验所属机构的伦理委员会批准。实验前被试签署了知情同意书，实验后被试获取报酬80元。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b7ecbda5a9995ac5e3c3f509725f74df8155499d4d5755f930532bf8d8f4ca4d.jpg",
+        "table_caption": [
+            "表1本研究两组患者的人口学特征 $( \\mathbf { M } \\pm \\mathbf { S } \\mathbf { D } )$ "
+        ],
+        "table_footnote": [
+            "实验当天被试填写以下量表：BDI-II、李伯韦兹社交焦虑量表(the Liebowitz Social"
+        ],
+        "table_body": "<html><body><table><tr><td>变量</td><td>实验组(n = 64)</td><td>对照组(n = 63)</td><td>统计学</td></tr><tr><td>年龄</td><td>29.0 ± 2.3</td><td>28.8 ± 2.7</td><td>t = 0.5,p = .593</td></tr><tr><td>性别(女/男)</td><td>34/30</td><td>33/30</td><td>x² = 0.007,p = .933</td></tr><tr><td>抑郁(BDI-II)</td><td>23.3 ± 6.5</td><td>22.3 ± 5.8</td><td>t = 0.9,p = .382</td></tr><tr><td>社交焦虑(LSAS)</td><td>39.4 ± 20.2</td><td>39.8 ± 20.3</td><td>t = -0.1,p = .911</td></tr><tr><td>拒绝敏感性(RSQ)</td><td>9.0 ± 3.4</td><td>8.8 ± 3.8</td><td>t = 0.3,p = .763</td></tr><tr><td>共情(IRI)</td><td>51.1 ± 9.7</td><td>49.4 ± 10.5</td><td>t = 1.0,p = .328</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Anxiety Scale，LSAS；Liebowitz，1987)、拒绝敏 感性 问卷(the Rejection SensitivityQuestionnaire，RSQ；Downey& Feldman 1996)、人际反应指针量表(the InterpersonalReactivity Index,IRI; Davis,1980)。随机将被试分为实验组和控制组，平衡两组的年龄、性别、抑郁水平(BDI-II)、社交焦虑水平(LSAS)、拒绝敏感性(RSQ)、共情能力(IRI)，如表 1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2实验材料及实验过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验包含两个变量。被试内变量为\"任务\"(被动观看/认知重评)，被试间变量为\"TMS类型\"(实验组/对照组)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "40 张社会排斥图片从课题组先前研究的图片库中选取(He etal.，2018,2019,2020；张丹丹等,2019)。图片中的社会排斥事件发生在公园(8张)、校园(7张)、办公室(7张)、教室(6 张)、街道(4 张)等场所；图中人物年龄主要为青年成人(28 张)，此外还有青少年(8 张)、老年人(4 张)。每张社会排斥图片包含一个被排斥者和一群排斥者(2\\~4 人)，我们提前将被排斥者用红圈圈出，便于被试辨认(图1A)。图片的亮度和对比度在“被动观看”和“认知重评”两个条件间平衡，图片呈现在液晶显示器的正中，视角为 $3 . 0 ^ { \\circ } \\times 3 . 5 ^ { \\circ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "主实验分为两个block，分别对应\"被动观看\"和\"认知重评\"任务。40张图片被随机分配至两个block，每个block包含20张图片。为了避免情绪调节指导语对被动观看任务的影响，被试先进行被动观看任务，然后再进行认知重评任务(Heetal.,2018,2019,2020；张丹丹等2019)。每个试次的流程如图1B所示，社会排斥图片呈现时间为 $5 \\mathrm { ~ s ~ }$ ，被试需要被动观看图片或通过认知重评策略调节他们的情绪。图片消失后,被试需对自己的负性情绪强度进行1\\~9点的评定(1分表示最低强度的负性情绪,5分表示中等强度的负性情绪,9分表示最高强度的负性情绪)，最长反应时5s。情绪评分结束后有3s的休息时间(空屏)。情绪评定通过鼠标单击数字上方的方块完成。“被动观看”任务的指导语为：“在这部分实验中，想象你是图片里被红圈圈起来的那个人，观看图片后请对你的不愉悦感觉强度进行打分”。“认知重评\"任务的指导语为:“在这部分实验中，仍然想象你是图片里被红圈圈起来的那个人，但请你从一个比较乐观的角度来解释图片中的情境。例如，你可以想象图片中的那群人并不是在批评你，他们或许在讨论你的优点或是一些你不感兴趣的话题；也有可能，目前这种你不太受欢迎的局面，可以通过日后你稍加努力得到明显的改善。解释完图片中的情境之后，请对你的不愉悦感觉强度进行打分”。主试讲解指导语后，要求被试复述指导语，以保证他们完全理解了任务要求。在复述完认知重评的指导语后，被试被要求自己举一个例子，对生活中的一次社会排斥事件进行认知重评。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "整个实验的流程如图1C所示，被试填写问卷并分组后，在任务前接受 $2 0 \\ \\mathrm { m i n }$ 的TMS刺激，接着进行“被动观看\"和\"认知重评\"任务，每个任务不超过 $5 ~ \\mathrm { m i n }$ 。主任务结束后被试休息 $3 0 \\ \\mathrm { m i n }$ ，其间让被试完成与情绪无关的填充任务(工作记忆、空间注意等)。在休息30min 后，让被试对40张图片的效价进行9点评分(1分表示最负性,5分表示中性,9分表示最正性)，本任务约 $5 \\ \\mathrm { m i n }$ 。设置图片评分任务的目的是考察TMS效应的持续性，即TMS效应能否在TMS 刺激结束、且外显性情绪调节结束后还能持续一段时间（即 $3 0 \\mathrm { m i n }$ ）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/96a343d3618d49632738c20b5b1a3de572fbcc5abb8c1bb9649852998f5b874e.jpg",
+        "img_caption": [
+            "图1实验材料及实验流程。A，实验材料示例。本实验部分图片选自互联网，为了不侵犯他人版权和肖像权，此处图片中的人物为课题组研究生。B，单个试次的刺激呈现内容。C,实验流程图。"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 TMS参数设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究采用离线的TMS刺激方案，主要原因有二：先进行TMS刺激再完成实验任务，可避免因头皮疼痛、仪器噪声等引起的对实验效果的干扰；离线方案更接近临床实践，因为治疗后需要使疗效尽可能长时间的保留。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验采用经典的\"8字形\"线圈，TMS设备为深圳英智科技有限公司生产的M-100Ultimate TMS 系统。实验组TMS 的靶点为rVLPFC，对照组TMS 的靶点为中央顶区(vertex;Hartwright etal.,2016;Masina et al.,2019)。线圈的定位依据国际脑电10/20 系统,rVLPFC 位于 F8点，中央顶区位于 $\\mathrm { C z }$ 点。两组被试在TMS作用下的脑区电流分布见图2(SimNIBS,www.simnibs.org)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验前，先在C3点测试每名被试的静息运动阈值，本研究定义该值为在10次刺激中至少 5次可以使放松的右手拇指发生抽动所需要的最小刺激强度(Schutter& van Honk,2006)。实验中采用 $1 0 \\mathrm { H z }$ 的 $90 \\%$ 静息运动阈值，重复性脉冲方案(repetitiveTMS,rTMS),20min 的刺激时间包含40 个磁场串(train)，每个串持续4 s，串间间歇时间为26 s (Raedt et al.,2010)，每名被试共接受1600个脉冲刺激。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92f2f518313a083c86f2fbed52353abb9a638d8e2da9b9402d685c4445261aee.jpg",
+        "img_caption": [
+            "图2TMS 电流分布模拟图。图中的颜色代表了归一化的电流场强度，蓝色表示0，红色表示个体最大值。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4 统计方法",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计分析采用 SPSS Statistics 20.0 (IBM,Somers,USA)进行。除非另有说明，描述性统计量表示为\"均值 $\\pm$ 标准差”。对\"负性情绪强度\"及“事后图片效价评分\"进行多因素重复测量方差分析，被试内因素为“任务”，被试间因素为“TMS类型”。以认知重评任务中“负性情绪强度\"为因变量，以抑郁水平(BDI-II)、社交焦虑水平(LSAS)、拒绝敏感性(RSQ)、共情能力(IRI)、TMS类型(0表示对照组，1表示实验组)为五个预测变量，进行线性回归分析(enter方法)，考察各因素对情绪调节效果的影响。显著性水平为 $p < 0 . 0 5$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1负性情绪强度",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "任务的主效应显著, $F ( 1 , 1 2 5 ) = 5 0 9$ $p < 0 . 0 0 1$ ， $\\eta ^ { 2 } { } _ { p } = 0 . 8 0 3$ ：认知重评条件下的负性情绪强度 $( 3 . 3 3 \\pm 1 . 1 9 )$ 显著低于被动观看条件 $( 5 . 9 0 \\pm 1 . 2 1 ) \\$ ，该结果说明了外显性情绪调节操纵的有效性。组别的主效应显著, $F ( 1 , 1 2 5 ) = 1 8 . 1 , p < 0 . 0 0 1$ ， $\\eta _ { \\mathrm { ~ } p } ^ { 2 } = 0 . 1 2 7$ ：实验组的负性情绪强度 $( 4 . 2 6 \\pm 1 . 8 2 ) \\$ 显著低于对照组 $( 4 . 9 7 \\pm 1 . 6 3 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "更重要的是，任务和组别的交互作用显著, $F ( 1 , 1 2 5 ) = 1 0 . 0 \\$ $p = 0 . 0 0 2$ ， $\\eta ^ { 2 } { } _ { p } = 0 . 0 7 4$ （图3A)。简单效应分析表明，实验组和对照组在“被动观看”任务下其负性情绪强度无显著差异， $F ( 1 , 1 2 5 ) = 2 . 7$ $p = 0 . 1 0 4$ ， $\\eta ^ { 2 } { } _ { p } = 0 . 0 2 1$ (实验组 $. = 5 . 7 3 \\pm 1 . 0 5$ ，对照组 $= 6 . 0 8 \\pm 1 . 3 3 )$ ；然而，在“认知重评”任务中实验组报告的负性情绪强度 $( 2 . 8 0 \\pm 1 . 0 9 ) \\$ 显著低于对照组 $( 3 . 8 7 \\pm 1 . 0 4 ) \\$ ，$F ( 1 , 1 2 5 ) = 3 1 . 8 , p < 0 . 0 0 1$ ， $\\eta ^ { 2 } { } _ { p } = 0 . 2 0 3$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为考察被试的个体差异对情绪调节改善效果的影响，进行回归分析，五个预测因子为：以抑郁水平、社交焦虑水平、拒绝敏感性、共情能力、TMS 类型。结果显示，回归模型显著 $F ( 4 , 1 2 2 ) = 8 . 5 \\$ $p < 0 . 0 0 1$ 。对模型有显著贡献的预测因子有三个。TMS 类型：实验组比控制组报告了更低的负性情绪强度，归一化系数 $\\beta = - 0 . 3 7 8 , t = - 5 . 0 , p < 0 . 0 0 1$ 。抑郁水平：BDI 得分越低(即抑郁程度越轻)的患者报告的负性情绪强度越低, $\\beta = 0 . 2 0 2$ ， $t = 2 . 6$ ， $p =$ 0.010。社交焦虑水平：LSAS得分越低(即社交焦虑程度越轻)的被试报告的负性情绪强度越低, $\\displaystyle { 3 = 0 . 1 8 2 , t = 2 . 2 , p = 0 . 0 2 8 }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 事后图片效价评分",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "情绪调节任务结束 $3 0 \\mathrm { m i n }$ 后的图片效价评分结果表明，组别主效应显著, $F ( 1 , 1 2 5 ) =$ 14.2, $p < 0 . 0 0 1$ ， $\\eta ^ { 2 } { _ p } = 0 . 1 0 2$ ：实验组报告的效价 $( 3 . 2 4 \\pm 0 . 6 1 ) \\$ 显著高于对照组 $( 2 . 8 2 \\pm 0 . 6 1 ) \\$ ，说明实验组认为社会排斥图片更偏正性(图3B)。任务和组别的交互作用以及任务主效应不显著 $( p \\mathrm { s } > 0 . 0 5 0 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/39a0a3861525c3b4bf85b1555d5919200836b653e210a421caac60f261c672dc.jpg",
+        "img_caption": [
+            "图3实验结果。A，被动观看和认知重评过程中的负性情绪强度评分(1\\~9点评分，1分表示最低强度的负性情绪,9分表示最高强度的负性情绪)。B，情绪调节 $3 0 \\mathrm { m i n }$ 后的图片效价评分(1\\~9 点评分,1分表示最负性,9分表示最正性)。图中的误差条表示均值的标准误。 $^ { * } p <$ 0.05。"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究采用TMS 技术刺激抑郁症患者的rVLPFC 脑区，考察在外显情绪调节任务中该脑区与负性情绪下调功能之间的因果关系。结果发现，当患者的rVLPFC被TMS激活时，采用认知重评策略能显著降低其对社会排斥引起的负性情绪体验，这说明激活rVLPFC 可以有效提高患者对社会疼痛的情绪调节能力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "VLPFC 是外显性情绪控制的重要脑区(Kohn et al.,2014; Morawetz et al.,2017; Ochsneret al.,2012)，更是采用认知重评进行情绪调节的最核心脑区(Buhle et al.,2014;Marques etal.,2018,R.B.Price et al.,2013;Wager et al.,2008; Zilverstand et al.,2017)。VLPFC 通过从语义记忆中挑选出与当前调节目标相符的对情绪事件的解释，并抑制与调节目标不相符的解释，从而达到重新理解和释义情绪性情境的目的(Dörfel et al.，2014；Helion,Krueger,&Ochsner, 2019; Morawetz, Baudewig,& Heekeren, 2016; Ochsner et al.,2009,2012; Wager et al.,2008)。在神经通路上，VLPFC 通过与腹内侧前额叶-杏仁核网络(ventral MPFC-amygdalanetwork)的连接对情绪反应进行自顶向下的调节(Park et al.,2019; Silvers et al.,2017)，同时它还通过对前扣带回和脑岛的神经投射，对不符合调节目标的情绪反应进行抑制(Kohn etal.,2014;Lieberman et al.,2011)。虽然也有一些脑成像研究发现，基于认知重评的情绪调节在某些情况下不但需要VLPFC 还需要 DLPFC 的参与(Dörfel et al.，2014;Morawetz et al,2017;Ochsner etal.,2012)，但是近期的一项 tDCS 研究表明，保证情绪重评能成功完成的关键脑区是 VLPFC 而非 DLPFC(Marques et al.，2018)。本研究通过在抑郁症患者中激活VLPFC 并指导他们进行认知重评，进一步支持了VLPFC与重评策略的因果关系。需要指出的是，VLPFC 作为情绪调节的核心脑区，不但可对由负性事件引起的心理性疼痛进行主动控制(Buhle et al.，2014; Kohn et al., 2014; Morawetz et al.,2017; Ochsner et al.,2012;Zilverstand et al.,2017)，还参与生理性疼痛的调节(Wiech et al.,2008)。例如Lieberman 等(2004)考察了安慰剂效应在慢性腹痛患者大脑中的表现，发现服药后比服药前rVLPFC 脑区激活的增加可以正向预测腹痛症状的改善。本研究结果表明，VLPFC不但可下调生理性的或非社会(non-social)心理性的疼痛反应，还可对由社会情境或社会事件诱发的负性情绪进行控制和调节(Eisenberger et al.,2003;He et al.,2018；Masten et al.,2009; Onoda et al.,2010;Riva et al.， 2012; Riva, Romero Lauro，DeWall, et al.，2015；Riva,Romero Lauro,Vergallito, et al., 2015; Yanagisawa et al., 2011)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要贡献在于，我们首次尝试通过激活rVLPFC以提高抑郁症患者对社会疼痛的情绪调节能力。先前对抑郁症患者的研究发现，他们在加工负性社会反馈(TaylorTavares et al.,2008)和外显性情绪控制任务中(Erk etal.,2010)均表现出VLPFC 的激活比健康对照更弱；该脑区在负性情绪调节过程中的激活增加可有效预测六个月后患者抑郁症状的缓解(Heller et al.,2013)。与本文类似的一项研究发现(Elliotet al.,2012)，当患者被社会排斥图片诱发出负性情绪体验时，患者的rVLPFC 激活明显弱于健康对照。在这些已有研究基础上，我们采用神经操纵性技术TMS，在抑郁症患者中证明了rVLPFC 激活与社会疼痛外显性下调的因果关系，从而为临床治疗抑郁症患者的社会情绪调节障碍提供了明确的神经靶点。除了本研究关注的抑郁症，我们认为本实验的结果还可以推广到其他的具有社会功能障碍的人群中。精神疾病患者的脑成像综述表明，在下调负性情绪的过程中,VLPFC脑区的功能失常(通常表现为欠激活)不仅可在抑郁症(Park etal.,2019;Rive et al.,2013)、焦虑障碍(Pico-Pérez et al.,2017)、双向障碍(Philips et al.,2008)患者中观察到，在很多其他患者包括成瘾、精神分裂症、人格障碍等(Zilverstand et al.，2017)的患者中均发现了VLPFC的功能性损伤。此前已有一些研究者尝试采用 tDCS 激活rVLPFC，改善自闭症谱系障碍患者的情绪控制功能，治疗患者的情绪失调(Pitskel et al.,2014; Scarpa&Reyes,2011)。我们的研究结果进一步提示，rVLPFC可能是治疗社会疼痛情绪调节障碍的最直接靶点，采用tDCS/TMS 激活该脑区有望显著提高社会功能障碍患者(包括抑郁症、社交焦虑症、自闭症谱系障碍、精神分裂症等)的情绪调节能力，改善他们的社会功能(Kupferberg et al.，2016;Rive et al., 2013)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究不但考察了情绪调节过程中被试报告的负性情绪强度评分，还关注了在情绪调节任务之后TMS 效应的保持效果，因为我们希望患者在接受完TMS 治疗之后其社会情绪调节能力的改善能有一定延续性。结果正如预期，实验组患者在外显性情绪调节任务完成后 $3 0 ~ \\mathrm { m i n }$ 、即TMS刺激结束后 $4 0 \\ \\mathrm { m i n }$ ，对社会排斥图片的情绪效价判断仍更偏正性(与对照组患者相比)。但是也需注意，本研究中我们发现的TMS 效应较弱：对负性情绪强度评分进行的方差分析仅显示出较小的效应量(交互作用 $\\begin{array} { r } { \\eta _ { \\mathrm { ~ p ~ } } ^ { 2 } = 0 . 0 7 4 _ { , } ^ { \\cdot } } \\end{array}$ 。（注： $\\mathfrak { n } _ { \\mathfrak { p } } ^ { 2 }$ 为0.05代表小效应量,0.10 代表中等水平效应量,0.20及以上为大效应量(Pfabigan etal.,2011))。已有研究表明,单次、短时间的 tDCS/TMS 治疗(例如 $2 0 { \\sim } 2 5 \\ \\mathrm { m i n }$ 的rTMS)所带来的认知功能改变非常微弱(Cavaleri， Schabrun，& Chipchase，2017；Horvath，Forte,& Carter, 2015；A.R.Price &Hamilton,2015; Smits et al.,2020; Song et al.,2019; Vanneste & Ridder,2013)，且对神经可塑性的改变效应仅能保持 $3 0 ~ \\mathrm { m i n }$ 左右(Thut & Pascual-Leone,2010; Valero-Cabréet al.,2017)。因此虽然本研究中事后图片评分结果提示了TMS用于改善患者情绪调节障碍的可行性，但未来研究还需要继续探讨并考察多次甚至多疗程的TMS方案，尽量提高并延长治疗效果。此外，本研究在情绪调节任务和事后图片评分中采用了相同的材料，这可能引入混淆变量(例如记忆相关因素)，因此我们建议后续研究在实验任务和事后图片评分中采用同质但具体内容不一致的材料。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除了探讨多疗程的 TMS 治疗方案之外，后续研究还需要从以下几个方面努力。第一，改变社会疼痛的诱发方式，进一步验证本文的结论。本研究采用看图片的方法让被试想象自己是图片中被排斥的人，被试并非身临其境。虽然这一范式已被证实可以有效诱发社会疼痛(Ochsner et al.,2002; Ochsner et al.,2004,Wager et al.,2008)，但由于该任务需要情绪调节之外的另一个认知模块——共情的参与，实验结果可能会被干扰。因此我们建议后续实验采用网络掷球(Cyberball)、聊天室(Chat Rooms)、孤岛求生(Island Getaway)等能诱发\"第一手\"社会疼痛的范式以排除共情的干扰。第二，在同一项研究中激活患者的左、右脑VLPFC，对比治疗效果。本研究根据以往的基于健康人群的研究(例如He etal.,2018,2019,2020;Morawetz et al.,2017; Ochsner et al.,2012)，选取了rVLPFC 作为治疗靶点。然而抑郁症的许多研究已表明，患者往往在左侧额区的损伤比右侧额区更严重(Allen&Reznik,2015;Henriques & Davidson,1991)。因此本文提出的 TMS 治疗靶点还需通过在患者中比较左右脑区进行优化。第三，尝试使用其他的情绪调节策略训练抑郁症患者，当然这可能需要重新确认TMS 刺激靶点。需要这样做的原因是：研究发现与健康人群相比，抑郁症患者更少使用认知重评策略(更多使用表达抑制策略)进行情绪调节(Dryman & Heimberg 2018;Schäfer etal.,2017;Visted etal.,2018)，而更少使用可能导致训练效果不佳。因此我们建议后续研究尝试\"分心\"(distraction)、“远离\"(distancing)等抑郁症患者更容易掌握的情绪调节策略,优化TMS治疗方案。第四，对比考察患者和健康对照组接受TMS干预后的行为和神经学改变。虽然此前已基于健康被试进行了多项相关研究，但还有必要在一项研究中对比观察患者和健康对照的实验结果，从而对情绪调节脑区与情绪调节效果的因果关系形成更完整、深入的理解。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了提高抑郁症患者在面对负性社交情境或负性社会事件时的情绪调节能力，本研究采用TMS技术激活rVLPFC脑区，并指导患者使用认知重评策略对社会疼痛引起的负性情绪体检进行调节。结果显示，当患者的rVLPFC被TMS 激活时，采用认知重评策略能显著降低其负性社会情绪体验，这说明激活rVLPFC 可以有效提高患者对社会疼痛的情绪调节能力。本文结果不但支持了rVLPFC脑区与外显性情绪调节功能的因果关系，还为临床治疗抑郁症、社交焦虑症、自闭症谱系障碍、精神分裂症等社会功能障碍患者的社会情绪调节障碍提供了明确的神经靶点。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ajaya,Y.,Peckham,A.D.,& Johnson,S.L.(2016).Emotion regulation and mania risk: Differential responses to implicit and explicit cues to regulate.Journal of Behavior Therapy and Experimental Psychiatry,50, 283-288.   \nAPA,1994.Diagnostic and Statistical Manual of Mental Disorders,4th ed.American Psychiatric Association, Washington, DC.   \nAllen, J.J.B.,& Reznik,S.J. (2015).Frontal EEG Asymmetry as a Promising Marker of Depression Vulnerability: Summary and Methodological Considerations. Current Opinion in Psychology,4,93-97.   \nBeck，A. T.，& Alford,B.A. (2009). Depresson: Causes and Treatment (2nd Edition). Philadelphia, Pennsylvania: University of Pennsylvania Press, Inc.   \nBeck,A.T., Steer,R.A.& Brown,G. K. (1996). Beck Depression Inventory-Second Edition Manual. San Antonio, TX: The Psychological Corporation.   \nBerkman,E.T.,& Lieberman,M.D. (2009). Using Neuroscience to Broaden Emotion Regulation: Theoretical and Methodological Considerations.Social and Personality Psychology Compass,3(4),475-493.   \nBrunoni,A.R.,Ferrucci,R.,Fregni,F.,Boggio,P.S.&Priori,A. (20l2).Transcranial direct current stimulation for the treatment of major depresive disorder: asummary of preclinical, clinical and translational findings. Progress in Neuro-psychopharmacology & Biological Psychiatry,39(1),9-16.   \nBuhle,J. T., Silvers, J. A., Wager,T. D.,Lopez,R.,Onyemekwu, C., Kober,H., Weber,J.,& Ochsner, K. N. (2014). Cognitive reappraisal of emotion: A meta-analysis of human neuroimaging studies. Cerebral Cortex, 24(11), 2981-2990.   \nCavaleri, R., Schabrun, S.M.,& Chipchase,L. S. (2017). The number of stimuli required to reliably assess corticomotor excitability and primary motor cortical representations using transcranial magnetic stimulation (TMS): a systematic review and meta-analysis. Systematic Reviews, 6(1), 48.   \nChester, D. S.,Lynam, D.R., Milich,R., & DeWall, C.N. (2018). Neural mechanisms of the rejection-aggression link. Social Cognitive and Affective Neuroscience,13(5), 501-512.   \nDavey, C. G.,Allen,N.B., Harrison,B.J.,&Yüicel, M. (2O11). Increased amygdala response to positive social fedback in young people with major depressive disorder. Biological Psychiatry, 69(8), 734-741.   \nDavis,M. H. (1980).A multidimensional approach to individual differences in empathy. Journal of Personality & Social Psychology, 10, 85.   \nDeWall, C.N.,Twenge,J. M., Koole, S.L.,Baumeister,R.F., Marquez,A., & Reid, M. W. (2011).Automatic emotion regulation after social exclusion: Tuning to positivity. Emotion,11(3), 623-636.   \nDorfel,D.,Lamke,J.P.,Hummel,F., Wagner,U.,Erk,S.,& Walter,H. (2014). Common and diferential neural networks of emotion regulation by Detachment, Reinterpretation, Distraction,and Expressive Suppression: A comparative fMRI investigation. NeuroImage,101,298-309.   \nDownar, J.,& Daskalakis, Z. J. (20l3). New targets for rTMS in depression: areview of convergent evidence. Brain Stimulation, 6(3),231-240.   \nDowney, G.,& Feldman, S.I. (1996). Implications of rejection sensitivity for intimate relationships. Journal of Personality and Social Psychology,70(6),1327-1343.   \nDryman, M.T.,& Heimberg,R. G. (2018). Emotion regulation in social anxiety and depresson: a systematic review of expressive suppression and cognitive reappraisal. Clinical Psychology Review, 65,17-42.   \nEisenberger, N.I. (2Ol2). The pain of social disconnection: Examining the shared neural underpinnings of physical and social pain. Nature Reviews Neuroscience, 13(6), 421-434.   \nEisenberger, N. I. (20l5). The pain of social disconnection: Examining the shared neural underpinnings of physical and social pain.e. Annual Review of Psychology, 66, 601-629.   \nEisenberger, N.I., & Lieberman, M. D. (2o04). Why rejection hurts: Acommon neural alarm system for physical and social pain. Trends in Cognitive Sciences,8(7),294-300.   \nEisenberger, N.I.,Lieberman, M.D.,& Wiliams, K.D. (2003). Does rejection hurt? AnFMRI study of social exclusion. Science,302(5643),290-292.   \nElliott,R.,Lythe,K.,Lee,R.,McKie,S.,Juhasz,G.,Thomas,E.J.,..Anderson,I. M. (2012).Reduced medial prefrontal responses to social interaction images in remitted depresson. Archives of General Psychiatry, 69(1), 37-45.   \nErk,S.,Mikschl,A., Stier, S., Ciaramidaro,A., Gapp, V., Weber,B.,& Walter, H. (2010). Acute and sustained effects of cognitive emotion regulation in major depression. The Journal of Neuroscience $\\therefore$ The Official Journal of the Society for Neuroscience,30(47),15726-15734.   \nEtkin,A., Bichel, C.,& Gross,J. J. (20l5). The neural bases of emotion regulation. Nature Reviews. Neuroscience,16(11), 693-700.   \nGeorge,M. S.,Lisanby,S.H., Avery,D., McDonald, W.M.,Durkalski, V., Pavlicova,M.,..Sackeim, H. A. (2010). Daily left prefrontal transcranial magnetic stimulation therapy for major depressive disorder: a sham-controlld randomized trial. Archives of General Psychiatry, 67(5),507-516.   \nGoldin,P.R.,McRae, K.,Ramel, W.,& Gros,J.J. (2o08).The neural basesof emotionregulation: Reappraisal and suppresson of negative emotion. Biological Psychiatry, 63(6),577-586.   \nGotlib,I. H., & Joormann, J. (2o10). Cognition and depresson: Current status and future directions. Annual Review of Clinical Psychology, 6, 285-312.   \nHamilton,J.P.,Etkin,A.,Furman,D.J.,Lemus,M. G.,Johnson,R.F.,& Gotlib,I. H. (2012).Functional neuroimaging of major depressive disorder: A meta-analysis and new integration of base line activation and neural response data. The American Journal of Psychiatry,169(7), 693-703.   \nHammen, C. (2005). Stress and depression. Annual Review of Clinical Psychology,1, 293-319.   \nHartwright, C.E. Hardwick,R. M. Apperly,I. A.,& Hansen, P.C. (2016). Resting state morphology predicts the effect of theta burst stimulation in false belief reasoning. Human brain mapping,37(10),3502-3514.   \nHe, Z.,Lin,Y., Xia,L.,Liu,Z., Zhang,D,& Elliott,R. (2018). Critical role of the right VLPFC in emotional regulation of social exclusion: A tDCS study. Social Cognitive and Affective Neuroscience,13(4),357-366.   \nHe, Z.,Liu, Z.,Zhao,J.,Elliot,R.,& Zhang,D. (2019). Improving emotion regulation of social exclusion in depression-prone individuals: A tDCS study targeting right VLPFC. Psychological Medicine, doi: 10.1017/S0033291719002915. Online ahead of print.   \nHe, Z.,Zhao,J.,Shen,J.,Muhlert,N.,Elliot,R.,& Zhang,D. (202O).The right VLPFC and downregulationof social pain: A TMS study. Human Brain Mapping, 41(5),1362-1371.   \nHelion, C., Krueger,S. M.,& Ochsner, K.N. (2019).Emotion regulation across the life span. Handbook of Clinical Neurology,163,257-280.   \nHeller, A. S., Johnstone,T.,Peterson,M.J.,Kolden, G.G., Kalin,N.H.,& Davidson,R.J. (2013). Increased prefrontal cortex activity during negative emotion regulation as a predictor of depression symptom severity trajectory over 6 months. JAMA psychiatry, 70(11),1181-1189.   \nHenriques, J.B.,& Davidson, R.J.(1991).Left frontal hypoactivation in depression.Journal of abnormal psychology,100(4), 535-545   \nHenriques, J. B.,& Davidson,R. J. (20o). Decreased responsiveness to reward in depresson. Cognition and Emotion, 14(5),711-724.   \nHooker,C.I., Gyurak,A., Verosky,S. C.,Miyakawa, A., & Ayduk, O.(2010). Neural activity to a partner's facial expression predicts self-regulation after conflict. Biological Psychiatry, 67(5), 406-413.   \nHorvath,J. C.,Forte,J.D., Carter, O.(2015). Quantitative review finds no evidence of cognitive effects in healthy populations from single-session transcranial direct current stimulation (tDCS). Brain Stimulation, 8(3), 535-550.   \nHerbsman,T.,Avery,D.,Ramsey,D.,Holtzheimer,P., Wadjik, C.,Hardaway,F.,.. Nahas,Z. (2009).More lateral and anterior prefrontal coil location is associated with better repetitive transcranial magnetic stimulation antidepressant response. Biological Psychiatry, 66(5), 509-15.   \nHsu,D.T.,Sanford,B.J.,Meyers,K.K.,Love,T.M.,Hazlet,K.E., Walker,S.J.,...Zubieta,J.-K.(215). It still hurts: Altered endogenous opioid activity in the brain during social rejection and acceptance in major depressive disorder. Molecular Psychiatry,20(2),193-200.   \nJankowski, K.F,Batres,J.,Scot,H.,Smyda, G.,Pfeifer,J. H.,& Quevedo,K. (2018).Feeling left out: Depressed adolescents may atypically recruit emotional salience and regulation networks during social exclusion. Social Cognitive and Affective Neuroscience,13(8), 863-876.   \nKoban,L., Jepma,M., Geuter, S.,& Wager,T.D. (2017). What's ina word? How instructions,suggestions,nd social information change pain and emotion. Neuroscience and Biobehavioral Reviews, 81(Pt A), 29-42.   \nKohn,N.,Eickhof,S.B.,Scheler,M.,Laird,A.R.,Fox,P.T.,&Habel,U.(2o14).Neural network ofcognitive emotion regulation--an ALE meta-analysis and MACM analysis. NeuroImage, 87, 345-355.   \nKupferberg,A., Bicks,L., & Hasler, G. (2016). Social functioning in major depressive disorder. Neuroscience and Biobehavioral Reviews,69,313-332.   \nLaceulle, O. M., Veenstra, R., Vollebergh, W.A. M., & Ormel, J. (2019). Sequences of maladaptation: Preadolescent self-regulation, adolescent negative social interactions,and young adult psychopathology. Development and Psychopathology,31(1),279-292.   \nLau, J. Y.F., & Waters, A. M. (2017). Annual Research Review: An expanded account of information-processing mechanisms in risk for child and adolescent anxiety and depression. Journal of Child Psychology and Psychiatry, and Allied Disciplines,58(4),387-407.   \nLieberman,M.D., Inagaki,T.K.,Tabibnia, G.,& Crockett,M. J. (2011).Subjective responses to emotional stimuli during labeling,reappraisal, and distraction. Emotion,11(3),468-480.   \nLieberman,M.D.,Jarcho,J.M.,Berman,S.,Naliboff,B.D.,Suyenobu,B.Y.,Mandelkern,M.,& Mayer,E.A. (2004). The neural correlates of placebo effects: a disruption account. Neuroimage, 22(1), 447-455.   \nLiebowitz, M.R.(1987). Social phobia. Modern Problems in Pharmacopsychiatry,22,141-173.   \nMacDonald, G., Kingsury,R.,& Shaw,S.(20o5).Adding insult to injury: social pain theory and response to social exclusion. In K. D.Williams, J.P.Forgas,& W. von Hippel. (Eds.), Sydney Symposium of Social Psychology series The Social Outcast: Ostracism,Social Exclusion,Rejection,& Bullying(pp.77-90).New York: Psychology Press.   \nMarques,L. M., Morelo,L.Y.N,& Boggio, P.S. (2018). Ventrolateral but not Dorsolateral Prefrontal Cortex tDCS effectively impact emotion reappraisal - effects on Emotional Experience and Interbeat Interval. Scientific Reports,8(1),15295.   \nMasina,F.,Tarantino, V., Vallesi, A.,& Mapell,D.(2O19). Repetitive TMS over the left dorsolateral prefrontal cortex modulates the error positivity: An ERP study. Neuropsychologia,133,107153.   \nMasten, C.L.,Eisenberger,N.1.,Borofsky,L.A.,Pfeifer,J. H., McNealy,K., Mazziotta,J. C.,& Dapretto,M. (2009). Neural correlates of social exclusion during adolescence: Understanding the distress of peer rejection. Social Cognitive and Affective Neuroscience,4(2), 143-157.   \nMoodie, C.A.,Suri, G., Goerlitz,D.S.,Mateen, M.A., Sheppes, G., McRae, K.,.. Gross, J. J. (2020). The neural bases of cognitive emotion regulation: The roles of strategy and intensity. Cognitive, Affective & Behavioral Neuroscience,20(2),387-407.   \nMorawetz, C., Bode, S., Baudewig, J., Kirilina,E., & Heekeren, H.R. (2016). Changes in Effective Connectivity Between Dorsal and Ventral Prefrontal Regions Moderate Emotion Regulation. Cerebral Cortex, 26(5), 1923-1937.   \nMorawetz, C., Bode,S., Derntl, B., & Heekeren,H. R. (2017). The effect of strategies, goals and stimulus material on the neural mechanisms of emotion regulation: A meta-analysis of fMRI studies. Neuroscience and Biobehavioral Reviews,72,111-128.   \nNolan, S.A.,Flynn, C.,& Garber, J. (20o3). Prospectiverelations between rejection and depression in young adolescents. Journal of Personality and Social Psychology,85(4),745-755.   \nOchsner,K.N., Bunge,S.A., Gross,J.J.,& Gabrieli,J.D.E. (2002). Rethinking feelings: AnFMRI studyof the cognitive regulation of emotion. Journal of Cognitive Neuroscience,14(8),1215-1229.   \nOchsner, K.N.,Ray,R.D.,Cooper,J.C.,Robertson,E.R.,Chopra,S.,Gabrieli,J.D.,& Gross,J.J. (2004).For beter or for worse: neural systems supporting the cognitive down- and up-regulation of negative emotion. NeuroImage, 23(2), 483-499.   \nOchsner, K.N., Silvers,J.A.,& Buhle, J.T. (2012). Functional imaging studies of emotion regulation: A synthetic review and evolving model of the cognitive control of emotion. Annals ofthe New York Academy of Sciences,1251, E1-24.   \nOnoda,K.,Okamoto,Y.,Nakashima,K.'i.,Nittono,H.,Yoshimura,S., Yamawaki, S.,...Ura,M. (2010).Does low self-esteem enhance social pain? The relationship between trait self-esteem and anterior cingulate cortex activation induced by ostracism. Social Cognitive and Affective Neuroscience,5(4),385-391.   \nPaillere Martinot,M.L.,Martinot,J.L.,Ringuenet,D., Galinowski,A., Gallarda,T.,Bellivier,F...Eric,A. (2011). Baseline brain metabolism in resistant depression and response to transcranial magnetic stimulation. Neuropsychopharmacology, 36(13), 2710e9.   \nPark, C., Rosenblat, J.D.,Lee,Y.,Pan,Z., Cao,B., Iacobucci, M.,& McIntyre,R.S. (2019). The neural systems of emotion regulation and abnormalities in major depressive disorder. Behavioural Brain Research, 367, 181-188.   \nPaul, S.,Simon,D., Kniesche,R., Kathmann,N.,& Endrass,T.(2o13).Timing effects of antecedent- and response-focused emotion regulation strategies. Biological Psychology,94(1),136-142.   \nPfabigan, D.M.,Alexopoulos, J., Bauer, H.,& Sailer, U. (2011). Manipulation of feedback expectancy and valence induces negative and positive reward prediction error signals manifest in event-related brain potentials. Psychophysiology, 48(5), 656-664.   \nPhilips,M.L.,Ladouceur, C.D.,& Drevets, W. C. (2008). A neural model of voluntary and automatic emotion regulation: implications for understanding the pathophysiology and neurodevelopment of bipolar disorder. Molecular Psychiatry, 13(9), 829-857.   \nPicó-Pérez,M., Radua,J., Steward,T.,Menchon, J. M.,& Soriano-Mas,C.(20l7).Emotion regulation inmood and anxiety disorders: A meta-analysis of fMRI cognitive reappraisal studies. Progress in Neuro-Psychopharmacology & Biological Psychiatry,79(Pt B),96-104.   \nPitskel,N.B., Boling,D. Z., Kaiser,M.D., Pelphrey, K.A,& Crowley, M.J. (2014). Neural systems for cognitive reappraisal in children and adolescents with autism spectrum disorder. Developmental Cognitive Neuroscience,10,117-128.   \nPrice,A.R.,& Hamilton, R. H. (2015).A Re-evaluation of the Cognitive Effects From Single-session Transcranial Direct Current Stimulation. Brain Stimulation,8(3), 663-665.   \nPrice,R.B.,Paul, B., Schneider, W., & Siegle,G.J. (2013). Neural Correlates of Three Neurocognitive Intervention Strategies: APreliminary Step Towards Personalized Treatment for Psychological Disorders. Cognitive Therapy and Research,37(4), 657-672.   \nRiva,P.,& Eck,J.(2016).Social exclusion: Psychological approaches to understanding and reducing its mpact. New York: Springer.   \nRiva,P.,Romero Lauro,L. J.,DeWal, C.N.,& Bushman, B.J. (2012). Buffer the pain away: Stimulating the right ventrolateral prefrontal cortex reduces pain following social exclusion. Psychological Science,23(12), 1473-1475.   \nRiva,P.,Romero Lauro,L.J.,DeWal, C.N., Chester,D.S.,& Bushman,B.J.(2015). Reducing aggessive responses to social exclusion using transcranial direct current stimulation. Social Cognitive and Affective Neuroscience,10(3),352-356.   \nRiva,P.,Romero Lauro,L.J., Vergalito,A.,DeWall, C.N.,& Bushman,B.J. (2015).Electrified emotions: Modulatory effects of transcranial direct stimulation on negative emotional reactions to social exclusion. Social Neuroscience,10(1), 46-54.   \nRive,M. M., van Rooijen, G., Veltman,D.J.,Philips, M.L., Schene,A. H.,& Ruhe, H. G. (2013). Neural correlates of dysfunctional emotion regulation in major depressive disorder. A systematic review of neuroimaging studies. Neuroscience and Biobehavioral Reviews,37(10 Pt 2), 2529-2553.   \nScarpa,A.,& Reyes, N. M. (2011). Improving emotion regulation with CBT in young children with high functioning autism spectrum disorders: A pilot study. Behavioural and Cognitive Psychotherapy， 39(4), 495-500.   \nSchafer,J. O.,Naumann,E., Holmes,E.A, Tuschen-Caffier,B.,& Samson,A.C.(2017). Emotion Regulation Strategies in Depressve and Anxiety Symptoms in Youth: A Meta-Analytic Review. Journal of Youth and Adolescence, 46(2), 261-276.   \nSchmaal,L., van Harmelen,A.L.,Chatzi, V.,Lippard,E.T.C., Toenders, Y. J.,Averill,L.A.,. Blumberg, H. P. (2020). Imaging suicidal thoughts and behaviors: A comprehensive review of 2 decades of neuroimaging studies. Molecular Psychiatry,25(2), 408-427.   \nSchuter,D. J. (2010). Quantitative review ofthe efcacy of slow-frequency magnetic brain stimulation in major depressive disorder. Psychological Medicine, 40(11),1789-1795.   \nSebastian,C.L.,Tan,G.C.,Roiser,J.P.,Viding,E.,Dumontheil,1.,& Blakemore,S.J. (2011).Developmental influences on the neural bases of responses to social rejection: implications of social neuroscience for education. Neurolmage, 57(3), 686-694.   \nSilvers,J.A., Insel, C.,Powers,A.,Franz,P., Helion, C.,Martin,R.E,... Ochsner, K.N. (2017). Vlpfc-vmPFC-Amygdala Interactions Underlie Age-Related Diferences in Cognitive Regulation of Emotion. Cerebral Cortex, 27(7),3502-3514.   \nSmith, K. (2014). Mental health: A world of depression. Nature,515(7526),181.   \nSmits,F.M.,Schuter,D.,van Honk,J.,& Geuze,E.(202o). Does non-invasive brain stimulation modulate emotional stress reactivity?. Social Cognitive and Affective Neuroscience, 15(1),23-51.   \nSomani,A..,& Kar, S.K. (2O19). Eficacy ofrepetitive transcranial magnetic stimulation in treatment-resistant depression: the evidence thus far. General Psychiatry, 32(4),e100074.   \nSong,S., Zilverstand,A., Gui, W.,Li,H.-J.,& Zhou, X. (219).Efcts ofsingle-sesion versus multi-sesion non-invasive brain stimulation on craving and consumption in individuals with drug addiction, eating disorders or obesity: A meta-analysis. Brain Stimulation,12(3), 606-618.   \nTaylor Tavares,J.V.,Clark,L.,Furey,M.L.,Wiliams, G.B.,Sahakian,B.J.,&Drevets, W.C. (2o08). Neural basis of abnormal response to negative feedback in unmedicated mood disorders. NeuroImage, 42(3), 1118-1126.   \nThut, G.,& Pascual-Leone,A. (2010). A review of combined TMS-EEG studies to characterize lasting effcts of repetitive TMS and assess their usefulnessin cognitive and clinical neuroscience. Brain Topography, 22(4), 219-232.   \nValero-Cabré,A., Amengual, J.L., Stengel, C.,Pascual-Leone,A.,& Coubard,O.A. (2017). Transcranial magnetic stimulation in basic and clinical neuroscience: A comprehensive review of fundamental principles and novel insights. Neuroscience and Biobehavioral Reviews,83,381-404.   \nVanneste,S.,& Ridder, D.de (2Ol3). Differences between a single session and repeated sessions of $1 \\ \\mathrm { H z }$ TMS by double-cone coil prefrontal stimulation for the improvement of tinnitus. Brain Stimulation, 6(2), 155-159.   \nVijayakumar, N., Cheng,T. W.,& Pfeifer,J. H. (2O17).Neural correlates of social exclusion across ages: A coordinate-based meta-analysis of functional MRI studies. NeuroImage,153,359-368.   \nVisted,E., Vellstad,J.,Nielsen,M.B.,& Schanche,E.(2018).Emotion Regulation inCurrentandRemitted Depression: A Systematic Review and Meta-Analysis. Frontiers in Psychology,9,756.   \nWager,T.D.,Davidson,M.L.,Hughes,B.L.,Lindquist,M.A.,& Ochsner,K.N. (2o08).Prefrontal-subcortical pathways mediating successful emotion regulation. Neuron,59(6),1037-1050.   \nWang,H.,Braun,C.,& Enck,P.(2017). How the brain reacts to social stress(exclusion) - A scoping review. Neuroscience and Biobehavioral Reviews,80, 80-88.   \nWiech,K., Ploner, M.,& Tracey,1. (20o8). Neurocognitive aspects of pain perception. Trends on Cognitive Science,12(8),306-313.   \nYanagisawa,K.,Masui,K.,Furutani,K.,Nomura,M., Ura,M.,&Yoshida,H. (2ol1).Does higher generaltrust serve as a psychosocial bufer against social pain? An NIRS study of social exclusion. Social Neuroscience, 6(2), 190-197.   \nYuan, J.,Ding,N.,Liu, Y.,& Yang,J. (20l5). Unconscious emotion regulation: Nonconscious reappraisal decreases emotion-related physiological reactivity during frustration. Cognition & Emotion, 29(6), 1042-1053.   \nZilverstand,A., Parvaz, M.A., & Goldstein, R. Z. (2O17). Neuroimaging cognitive reappraisal in clinical populations to define neural targets for enhancing emotion regulation. A systematic review. NeuroImage,151, 105-116. Zhang.D.,Liu.Z., C.Y.,& M. X.(2019).The role ofright ventrolateral prefrontal cortex on social emotional regulation in subclinical depression: An tDCS study. Acta Psychologica Sinica, 51(02),207-215. [张丹丹，刘珍莉，陈钰，买晓琴.(2019).右腹外侧前额叶对高抑郁水平成年人社会情绪调节的作用：-   \n项 tDCS 研究．心理学报,51(02)，207-215.]   \nZwanzger.P.,Steinberg. C.,Aliss.M.,Brockelmann.A.,Dobel. C.,Zavorotnyy.M.,Domschke.K., Junghfer. M.(2014). NeuroImage Inhibitory repetitive transcranial magnetic stimulation(rTMS ）of the dorsolateral prefrontal cortex modulates early affective processing. NeuroImage. 101,193-203. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The role of ventrolateral prefrontal cortex on emotional regulation of social pain in depressed patients: A TMS study ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "MO Licheng1; GUO Tianyoul,2; ZHANG Yueyaol; XU Feng²; ZHANG Dandan1 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1 School of Psychology, Shenzhen University, Shenzhen 518060,China) (² Union Shenzhen Hospital (Nanshan Hospital),Shenzhen 518052,China) 0 $^ 3$ Shenzhen Yingchi Technology Co.Ltd.,Shenzhen 518010,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Increasing evidence shows that the right ventrolateral prefrontal cortex (rVLPFC) plays an important role in emotion regulation, especially for social-relevant negative emotions.Negative interpersonal experiences and social events contribute largely to the occurrence of depression. Meanwhile, patients diagnosed with major depressive disorder are characterized by impaired social functions. Previous studies have revealed that depressed patients frequently show impaired emotional regulation for social pain. Recently, the work of our lab found that using transcranial magnetic stimulation (TMS） to activate the rVLPFC significantly reduced the subjects’ negative emotional feelings and improved their emotional regulation ability for down-regulating social pain. In order to improve the emotional regulation ability in depressed patients when they are in front of negative social events,this study examined the changed emotional regulation ability in depression following the activation of the rVLPFC using the TMS. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A total of 127 patients who were diagnosed with major depressive disorder were recruited in this study. Participants were randomly assigned to experimental ( $( n = 6 4 )$ ） or control group $( n =$ 63） while their age， gender, depressive level， social anxious level， rejection sensitivity and empathy ability were counterbalanced between the two groups. During the experiment, the participants were required to view pictures containing social exclusion events or reinterpret the situation using reappraisal strategy, followed by rating their negative emotional feling on a 9-point scale. The experiment had two conditions, i.e., a passive viewing block and a cognitive ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "reappraisalblock. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The results showed that the main effect of the task was significant: the negative emotional intensity reported by participants was lower during cognitive reappraisal when compared to that during passive viewing, indicating a successful manipulation of explicit emotional regulation. Meanwhile, the main effect of the group was significant: the negative emotional intensity reported by the experimental group was significantly reduced compared to that reported by the control group,suggesting the critical role of rVLPFC in emotional regulation. More importantly, the interaction between task and group was significant: while the two groups reported comparable distressful feelings during the passive view block, the experimental group reported decreased negative feelings compared to the control group during the cognitive reappraisal block. This result indicated that enhanced activation of the rVLPFC could effectively improve the ability of explicit down-regulating social pain using the cognitive reappraisal strategy in depressed patients. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The current findings provide strong evidence for the causal relationship between the VLPFC and explicit emotional regulation using the cognitive reappraisal strategy. Also this study provides a potential neural target for clinical treatments of emotional regulation impairment in patients with social dysfunctions including individuals diagnosed with major depressive disorder, social anxiety disorder, and autism spectrum disorder. Future studies are suggested to use other paradigms (e.g.， Cyberball, Chat Rooms, Online Ostracism, and Island Getaway） to induce a “first-hand” social pain and exclude the potential influence of empathy. Furthermore, optimized multi-session TMS protocols are required to enhance and prolong the TMS effects observed in this study. Also, the TMS-based treatment effects in depression should be compared between the left and the right part of the ventrolateral prefrontal cortices,and across different emotional regulation strategies including cognitive reappraisal, distraction, distancing, etc. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key words: depression, transcranial magnetic stimulation, ventrolateral prefrontal cortex, social pain, emotion regulation ",
+        "page_idx": 16
+    }
+]

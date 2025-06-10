@@ -1,0 +1,156 @@
+# 基于分组模型及仿生蜗舌的多翼离心风机设计
+
+王 珂　琚亚平　张楚华(西安交通大学能源与动力工程学院，西安710049)
+
+摘要为提高多翼离心风机的流动效率，提出一种适合于该类型风机特点的分组设计模型，并借助于流场计算与试验设计相结合的分析方法，依次对多翼离心风机的叶轮、蜗壳和蜗舌进行分组设计。结果表明：具有更多设计自由度的双圆弧叶片气动性能明显优于单圆弧叶片；在保证蜗壳结构尺寸不变的前提下，采用等边基方法设计的蜗壳性能略优于三段圆弧设计出的蜗壳；基于长耳翼型前缘的仿生蜗舌能够有效减弱分离流动现象；利用本文方法改进后的多翼离心风机设计效率提高了 $4 . 3 3 \%$ ，变工况性能明显改善。研究工作对深刻认识多翼离心风机内部复杂流动机理及发展优化设计方法具有学术意义和工程应用价值。
+
+关键词多翼离心风机；分组模型；试验设计法；仿生蜗舌；风机效率中图分类号：TH432 文献标识码：A 文章编号:0253-231X(2017)08-1671-05
+
+# Design of Multi-blade Centrifugal Fan Based on Grouping Model and Bionic Volute Tongue
+
+WANG KeJU Ya-PingZHANG Chu-Hua (School of Energy and Power Engineering,Xi'an Jiaotong University，Xi'an 71o049,China)
+
+Abstract In order to improve the efficiency of multi-blade centrifugal fan,a design method based on grouping model is proposed for this kind of fans.With the combination of numerical simulation and design of experiment,the impellr,the volute profile and the volute tongue of a multi-blade centrifugal fan are designed successively. The results indicate that aerodynamic performance of double-arc blade with a higher free degree of design is better than that with single-arc blade.Without changing the structure dimension of volute,the volute with equilateral-element profile performs better than that with triple-arc profile. The bionic volute tongue based on the leading edge of owl's wing can effectively reduce the flow separation. The design effciency of the multi-blade centrifugal fan is increased by $4 . 3 \%$ and the aerodynamic performance is improved remarkably using the proposed design method. This work is of academic significance for a deep insight into the complex internal flow mechanism and of engineering application value for a design optimization of multi-blade centrifugal fan.
+
+Key wordsmulti-blade centrifugal fan; grouping model; design of experiment; bionic volute tongue; fan efficiency
+
+# 0前言
+
+与常规的后向离心风机相比，多翼离心风机采用前向叶片且叶片数目多，具有压力系数高、流量系数大、结构紧凑等优点，以及流动分离严重、效率低、能源浪费巨大等缺点，因此，提高多翼离心风机的气动性能，对拓展该类型风机的应用范围、发展节能环保型产品具有至关重要的作用。
+
+集流器、叶轮和蜗壳是多翼离心风机的主要通流部件，国内外学者对上述部件的气动性能进行了广泛研究。温选锋等[1研究了椭圆形集流器的影响，周水清等[2]研究了偏心集流器的偏心距和偏心角对风机性能的影响，发现较佳参数组合的集流器可以有效提高风机性能；罗嘉陶等[3]研究了翼型叶片尾缘切割方式对多翼离心风机性能的影响，发现沿圆周线方向切除的翼型叶片具有较大的风量和全压；王湛[4]研究了圆弧叶片型线对风机性能的影响，结果表明双圆弧叶片性能优于单圆弧叶片；Han等[5]采用神经网络算法，刘小民等[6]采用仿生技术，对蜗舌形状进行了优化，这些方法均有利于改
+
+善蜗舌附近的流动状况。
+
+上述研究工作对多翼离心风机通流部件设计具有一定的指导意义。然而，这些工作大多侧重于风机单个部件的改进或优化，未能细致考虑动静部件尤其是叶轮与蜗壳间的匹配情况，限制了风机效率的进一步提高。事实上，受结构尺寸的限制，多翼离心风机大多数没有扩压器，叶轮与蜗壳之间的非轴对称影响非常明显，基于真实流动准确模拟的多翼离心风机系统综合设计研究还较为匮乏。鉴于此，本文以某双吸多翼离心风机为研究对象，借助计算流体力学（Computational Fluid Dynamics，CFD）和均匀实验设计相结合的研究方法，依次对多翼离心风机的叶轮、蜗壳和蜗舌进行了系统改进，以全面提高风机效率。
+
+# 1 多翼离心风机几何模型
+
+本文所研究的原始风机几何结构如图1所示。该多翼离心风机由进口集流器、叶轮以及蜗壳组成，其中，集流器中心线和叶轮中心线重合；叶轮由单圆弧前向叶片、轮盘和轮盖组成；蜗壳型线由三段圆弧组成。各部件的主要结构参数如表1所示。风机的设计流量 $Q _ { \mathrm { v } } = 8 5 3 7 ~ \mathrm { m ^ { 3 } { \cdot } h ^ { - 1 } }$ ，设计转速 $n = 1 0 5 0$ r·min-1。
+
+![](images/b3a75b5dbad6492ec304adab6517a92ea580c3e25f8dced97440c915178494ff.jpg)  
+Fig.1 Structure of original multi-blade centrifugal fan
+
+# 表1原始多翼离心风机主要结构参数
+
+Table 1 The key structural parameters of original multi-blade centrifugal fan   
+
+<html><body><table><tr><td>名称</td><td>参数</td><td>名称</td><td>参数</td></tr><tr><td>叶轮外径D2/mm</td><td>400</td><td>集流器进口圆弧</td><td>48</td></tr><tr><td>叶轮内径Di/mm</td><td>326</td><td>蜗壳宽度B/mm</td><td>448.2</td></tr><tr><td>叶片进口安 装角β1A/()</td><td>83.49</td><td>叶片厚度t/mm</td><td>1</td></tr><tr><td>叶片出口安 装角β2A/(°)</td><td>164.97</td><td>蜗舌半径Rv/mm</td><td>28</td></tr><tr><td>叶片数z</td><td>38</td><td>叶轮与集流器轴向 间隙ε/mm</td><td>23</td></tr></table></body></html>
+
+# 2数值方法及其验证
+
+利用ANSYS-CFX商业CFD软件，数值求解三维雷诺平均Navier-Stokes方程组，获得多翼离心风机的气动性能参数和内部流场。考虑到风机内部流动马赫数小于0.3，将其视为不可压缩流动，湍流模型采用 $k { - } \varepsilon$ 模型。对流项采用高分辨率格式、粘性项采用二阶中心格式、时间导数项采用二阶后向格式。为降低双吸进气离心风机的流场计算量，仅选取风机的一侧吸气结构进行研究，同时为了方便设定边界条件，对风机的进出口段进行适当延长，最终的计算区域如图2所示。进口给定总压为大气压力和轴向进气条件，出口给定质量流量，壁面满足无滑移边界条件，动静交界面按照多重参考系（MultipleReferenceFrame，MRF)方法处理，进口流域和蜗壳流域采用静止坐标系，叶轮流域采用旋转坐标系来描述。
+
+为提高网格质量，将计算流域首先分为三部分：进口流域、叶轮流域和蜗壳流域，其中，进口流域和蜗壳流域采用ANSYS-ICEM生成非结构混合网格，叶轮流域采用TurboGrid 生成六面体结构网格，对流域近壁区进行适当加密。通过网格无关性验证，网格总数约为598万，对应三部分流域的网格数分别为43万、385万和170万。
+
+对多翼离心风机进行整机流场计算，获得设计流量下的气动性能参数，并与试验数据进行对比，结果如表2所示。可见，风机效率的计算结果与试验数据较为吻合。
+
+![](images/68807e71d2d047462f8e0697757a3b2e053b50795344e27ee7d38e89a6b2b0f7.jpg)  
+图1原始多翼离心风机结构  
+图2 风机计算流域  
+Fig.2 Computational domain of fan
+
+表2设计流量下试验结果与计算结果对比 Table 2 Comparisons of experimental and CFD results at the design flow rate   
+
+<html><body><table><tr><td>结果</td><td>全压/Pa</td><td>静压/Pa</td><td>风机效率/%</td><td>叶轮效率/%</td></tr><tr><td>实验</td><td>826.54</td><td>681.38</td><td>70.00</td><td></td></tr><tr><td>计算</td><td>780.12</td><td>661.54</td><td>71.41</td><td>86.92</td></tr></table></body></html>
+
+# 3多翼离心风机分组设计
+
+由于多翼离心风机叶片数较多、叶轮及蜗壳宽度较大、内流流动复杂[7]，为降低设计过程中巨大的CFD计算量，本文提出设计参数分组方法，依次对离心叶轮、蜗壳和蜗舌进行改进设计，旨在计算量适中的前提下，大幅度提高风机效率。
+
+# 3.1 叶轮
+
+原始风机叶轮采用单圆弧叶片造型技术，即使在设计工况下仍有较大的分离流区，为此，利用双圆弧叶片造型技术对原始风机进行改造。双圆弧叶片几何参数模型，如图3所示，共有4个设计自由度，分别为进口安装角 $\beta _ { \mathrm { 1 A } }$ 、出口安装角 $\beta _ { \mathrm { 2 A } }$ 、两圆弧交接位置 $R _ { \mathrm { f } }$ 和交接处的安装角 $\beta _ { \mathrm { f A } }$ 。对应地，单圆弧叶片只有前两个设计自由度。
+
+首先，固定进出口安装角 $\beta _ { \mathrm { 1 A } }$ 和 $\beta _ { \mathrm { 2 A } }$ ，通过改变 $R _ { \mathrm { f } }$ 和 $\beta _ { \mathrm { f A } }$ 获得不同形状的双圆弧曲线，研究其对叶轮效率的影响，这里，综合考虑计算成本和计算精度，采用单通道计算模型。图4给出了不同 $R _ { \mathrm { f } }$ 和 $\beta _ { \mathrm { f A } }$ 组合所得的叶轮效率计算结果，可以看出，当 $\beta _ { \mathrm { f A } } = 9 0 ^ { \circ } { \sim } 1 2 0 ^ { \circ }$ 、 $R _ { \mathrm { f } } \ = \ 1 8 0 { \sim } 1 9 5 \ \mathrm { m m }$ 时，双圆弧叶片的叶轮效率均高于单圆弧叶片。在该范围内，双圆弧交接位置 $R _ { \mathrm { f } }$ 均处于叶片中间靠近出口的位置，且从叶片入口起的第一圆弧半径大于第二段圆弧半径。可见，双圆弧叶片具有优于单圆弧叶片的潜力。
+
+![](images/5b6da7d169b2226dede408bf28e09314d96229a63e33357586bdc4087a5a8e94.jpg)  
+图3 双圆弧叶片几何结构Fig.3 Geometric structure of double-arc blade
+
+进一步，参考Adachi[8]的推荐，对原始叶片的进出口安装角稍加变化，确定其变化范围为 $\beta _ { \mathrm { 1 A } } =$ $7 5 ^ { \circ } { \sim } 9 0 ^ { \circ }$ 、 $\beta _ { \mathrm { 2 A } } = 1 6 0 ^ { \circ } { \sim } 1 8 0 ^ { \circ }$ 。采用均匀设计方法在上述设计空间内进行试验设计[9]，基于均匀设计表$U _ { 3 1 } ( 3 1 ^ { 3 0 } )$ ，选出31个具有代表性的叶轮样本，并采用CFD方法计算出各叶轮样本的效率。其中，性能最佳的样本（记作NEW_IMP)效率为 $9 2 . 8 3 \%$ ，其设计参数为 $\beta _ { 1 \mathrm { A } } = 8 1 . 7 2 ^ { \circ }$ 、出口安装角 $\beta _ { \mathrm { 2 A } } = 1 8 0 ^ { \circ }$ 、 $R _ { \mathrm { f } }$ $= 1 8 7 . 7 6 ~ \mathrm { m m }$ 和 $\beta _ { \mathrm { f A } } = 9 5 . 1 7 ^ { \circ }$
+
+![](images/a73abdf089d48accd2aa14a245465a8d1b89fd8173ce223baaecb0ab0c31175a.jpg)  
+图4 $\beta _ { \mathrm { f A } }$ 与 $R _ { \mathrm { f } }$ 组合对叶轮效率的影响 Fig.4 Influence of $\beta _ { \mathrm { f A } }$ and $R _ { \mathrm { f } }$ on impeller efficiency
+
+对原始蜗壳和双圆弧叶片叶轮NEW_IMP进行整机CFD计算，可得风机效率为 $7 3 . 2 8 \%$ ，叶轮效率为 $8 9 . 2 5 \%$ ，较原始风机分别提高了 $1 . 8 7 \%$ 和 $2 . 3 3 \%$ 0截取 $z { = } 8 1 \ \mathrm { m m }$ 处（叶轮轴向中心处）的叶轮流域和蜗壳流域，观察叶轮改进前后风机的内部流场，如图5、6所示。由图5看出，NEW_IMP叶轮在远离蜗舌流道内的旋涡强度有所减小、流动分离得到缓解。从图6看出，NEW_IMP风机蜗舌下游的分离区仍然较大，有进一步改进余地。
+
+![](images/f62ca4457f249a00e841b0b903db0c005d61ae04fcca543c94562e874f25bf1f.jpg)  
+图5 $z = 8 1 \ \mathrm { m m }$ 处叶轮内相对流线
+
+![](images/96139a816d08a33ceba0e4af045618162224f1d424a045139d1555c2d5a3c18f.jpg)  
+Fig.5 Relative flow streamlines in impeller at $z { = } 8 1 \ \mathrm { m m }$   
+图6 $z = 8 1 \ \mathrm { m m }$ 处蜗壳内绝对流线  
+Fig.6 Absolute flow streamlines in volute at $z { = } 8 1 \ \mathrm { m m }$
+
+# 3.2蜗壳
+
+为改善叶轮与蜗壳间的匹配，在上述NEW_IMP叶轮的基础上，对蜗壳进行改进设计，以期消除蜗舌下游的旋涡强度，从而进一步提高风机效率。
+
+原始风机的蜗壳型线是由三段非光滑过渡圆弧组成，本文在保证蜗壳结构尺寸不变的前提下，采用等边基方法对蜗壳型线重构设计，根据设计参数确定等边基方，以基方的四角为中心，用四段光滑连接的圆弧形成蜗壳型线。此外，考虑到原始风机的集流器与叶轮的轴向间隙较大，将原始蜗壳的宽度减小，以改进集流器与叶轮的轴向匹配。为方便起见，将原始风机的蜗壳记作OLD_VOL，改进后的蜗壳记作NEW_VOL。
+
+将改进叶轮NEW_IMP与改进蜗壳NEW_VOL进行组合，记为NEW_IM $\mathrm { { I P + N E } }$ W_VOL，进行整机CFD 计算，可得风机效率为 $7 4 . 3 9 \%$ ，叶轮效率为$8 9 . 8 1 \%$ ，与上述的NEW_IMP风机相比，风机效率和叶轮效率进一步提高了 $1 . 1 1 \%$ 和 $0 . 5 6 \%$ ，表明蜗壳的改进使叶轮和蜗壳的性能均得到一定的提高。提取NEW_IMP $+$ NEW_VOL内的绝对流线和静压分布，如图7所示，可见，改进后蜗壳内的流动更加均匀，蜗舌下游流动分离现象明显减弱，对应流动损失减小，风机效率再次得到提高。
+
+![](images/530192e482b9e83e5f1465a1f8155d26e3cd259ac9abb7aadcd18bf2c84361ed.jpg)  
+图7NEW_IMP $+$ NEW_VOL中 $z = 8 1 \ \mathrm { m m }$ 处蜗壳流场 Fig.7Flow fieldofNEW_IMP $+$ NEW_VOLat $z { = } 8 1 \ \mathrm { m m }$
+
+# 3.3蜗舌
+
+考虑到 NEW_VOL 蜗舌附近依然存在流动分离，在上述改进设计的基础上，基于长耳翼型前缘，对蜗舌进行仿生设计。提取长耳翅膀 $4 0 \%$ 翼展方向上的翅膀剖面型线[6]，采用Birnbaum-Glauert函数[9,10] 对中心线拟合：
+
+$$
+{ \frac { z _ { c } } { c } } = { \frac { z _ { c ( \operatorname* { m a x } ) } } { c } } \cdot \eta ( 1 - \eta ) \sum _ { n = 1 } ^ { 3 } S _ { n } \cdot ( 2 \eta - 1 ) ^ { n - 1 }
+$$
+
+式中， $z _ { c }$ 为中弧线坐标； $\eta = x / c$ 为弦坐标比; $x$ 为弦向坐标； $z _ { c ( \mathrm { m a x } ) }$ 为最大弧度坐标; $\boldsymbol { \mathbf { \mathit { c } } }$ 为翼型弦长； $S _ { n }$
+
+为待定系数，翼型厚度拟合公式为：
+
+$$
+\frac { z _ { t } ( t ) } { c } = \frac { z _ { t ( \operatorname* { m a x } ) } } { c } \cdot \sum _ { n = 1 } ^ { 4 } A _ { n } \cdot ( \eta ^ { n + 1 } - \sqrt { \eta } )
+$$
+
+式中， $z _ { t }$ 为厚度； $z _ { t ( \mathrm { m a x } ) }$ 为最大厚度； $A _ { n }$ 为待定系数。式 $( 1 ) { \sim } ( 2 )$ 中的待定系数见表3。
+
+# 表3中弧线和厚度分布关系式中的系数
+
+Table 3 Coefficients in camberline and thickness   
+
+<html><body><table><tr><td colspan="5">formula</td></tr><tr><td>系数</td><td>n=1</td><td>n=2</td><td>n=3</td><td>n=4</td></tr><tr><td>Sn</td><td>3.9362</td><td>-0.7705</td><td>0.8485</td><td>1</td></tr><tr><td>An</td><td>-29.4861</td><td>66.4565</td><td>-59.8060</td><td>19.0439</td></tr></table></body></html>
+
+图8为拟合所得长耳翅膀的翼型剖面。本文中拟取自前缘 $6 . 5 \% ^ { [ 6 ] }$ 弦长部分对风机的蜗舌进行改进设计。为使其与风机蜗壳型线匹配良好，设定两个变量，放大倍数 scale 和旋转角度 $\theta _ { \mathrm { r o a t e } }$ ，其变化范围分别是 $2 0 0 { \sim } 8 0 0$ 和 $0 ^ { \circ } \sim 4 0 ^ { \circ }$ ，并根据均匀设计表 $U _ { 3 1 } ( 3 1 ^ { 3 0 } )$ ，通过CFD 计算确定出 scale 和 $\theta _ { \mathrm { r o a t e } }$ 的最佳组合，性能最优的蜗壳样本如图9所示，记作 VOL_FS，与改进的叶轮 NEW_IMP 相结合，进行三维整机计算，可得风机效率为 $7 5 . 7 4 \%$ ，叶轮效率为 $9 0 . 1 7 \%$ ，与 $\mathrm { N E W \_ I M P + N E W \_ V O }$ L相比，风机效率和叶轮效率分别提高了 $1 . 3 5 \%$ 和 $0 . 3 6 \%$ ，与原始风机相比，风机效率和叶轮效率分别提高了 $4 . 3 3 \%$ 和$3 . 2 5 \%$ 。提取 $\mathrm { N E W \_ I M P + N E W \_ F S }$ 的流场，如图10所示，可见，采用仿生蜗舌后，蜗壳内的流动更加均匀，蜗舌处的分离减小，降低了气体在蜗壳内的流动损失，使风机效率进一步得到提高。
+
+将NEW_IMP $+$ VOL_FS应用到其他工况并与原始风机进行对比，如图11所示，可知，优化后的风机效率整体较原始风机明显提高，气动性能得到改善。
+
+![](images/79402c01c4fb258e91e856f2876d35334eb7402f3a885f66285748939241d6e1.jpg)  
+图8翼型剖面 Fig.8Airfoil profile
+
+![](images/a051785c209a07d553f4f5f8bef27d0b94dfde799306802769f749d9139acc48.jpg)  
+图9仿生蜗舌Fig.9 The bionic tongue
+
+![](images/aea059214af703f467013a6fc792fdfebfa1628e2785b36c6c7d0d912de16e5e.jpg)  
+图10NEW_IMP $+$ VOL_FS中 $z = 8 1 \ \mathrm { m m }$ 处蜗壳流场Fig.10 Flow fieldin NEW_IMP $+$ VOL_FSat $z = 8 1 \ \mathrm { m m }$
+
+![](images/1d5905d9e9e745adf62ab6780f8f0fa64f8005da7c243bc0ad7a4fcc678e6c80.jpg)  
+图11性能曲线对比 Fig.11 Comparison of performance curves
+
+# 4结论
+
+针对多翼离心风机流动分离严重、效率低的缺陷，本文提出一种适合于该类型风机特点的分组设计模型，并借助于流场计算与试验设计相结合的分析方法，依次对多翼离心风机的叶轮、蜗壳和蜗舌进行分组设计，得到如下主要结论：
+
+1）双圆弧叶片的设计自由度更高，该型多翼离心风机的气动效率优于单圆弧叶片；2)采用等边基方法设计的蜗壳性能优于三段圆孤蜗壳；3）基于长耳翅膀前缘的蜗舌仿生设计技术，能够有效缓解蜗舌附近的流动分离现象，进而提高风机气动效率；4)本文的分组模型及仿生蜗舌技术能够有效提高风机效率，使风机设计效率提高了 $4 . 3 3 \%$ ，风机变工况效率也有显著提升。
+
+# 参考文献
+
+[1]温选锋，杨昕，祁大同，等.椭圆形进口集流器对多翼离心
+
+风机性能影响的实验研究[J]．西安交通大学学报，2011, 45(11): 45-51 WEN Xuanfeng,YANG Xin,QI Datong,et al. Experimental Study on the Effect of Elliptical Inlet Nozzle on Performance of Multi-Blade Centrifugal Fan [J]. Journal of Xi'an Jiaotong University,2011,45(11): 45-51   
+[2] 周水清,李辉,王军,等.集流器偏心对前弯离心风机气动性 能影响分析[J].工程热物理学报，2015,36(7)：1466-1470 ZHOU Shuiqing, LI Hui,WANF Jun,et al． Study on the Effect of Inlet Nozzle Installation on Performance of Forward-Curved Blades Centrifugal Fan [J]. Journal of Engineering Thermophysics,2015,36(7):1466-1470   
+[3]罗嘉陶,王嘉冰.多翼离心通风机叶片翼型的研究[J].风机 技术,2004,46(3):20-22 LUO Jiatao,WANG Jiabing. Research on the Airfoil of Multi-blade Centrifugal Fan [J]. Compressor Blower & Fan Technology,2004,46(3): 20-22   
+[4]王湛．双圆弧叶片多翼风机内流场的数值模拟及叶型研究 [D].济南:山东大学,2007 WANG Zhan. Study on Flow Numerical Simulation and Blade Structure of Dual-arc Blade in Multi-blade Fan [D]. Jinan:Shandong University, 2007   
+[5] Han S Y, Maeng J S. Shape Optimization of Cut-off in a Multi-blade Fan/Scroll System Using Neural Network [J]. International Journal of Heat and Mass Transfer, 2003, 46(15): 2833-2839   
+[6] 刘小民,李烁.仿翼前缘蜗舌对多翼离心风机气动性能和 噪声的影响[J].西安交通大学学报,2015,49(1)：14-20 LIU Xiaomin, LI Shuo. Effects of Bionic Volute Tongue Bioinspired by Leading Edge of Owl Wing on Aerodynamic Performance and Noise of Multi-Blade Centrifugal Fan[J]. Journal of Xi'an Jiaotong University 2015,49(1): 14-20   
+[7] Montazerin N, Damangir A, Mirzaie H. Inlet Induced Flow in Squirrel-cage Fans [J].Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy, 2000,214(3): 243-253   
+[8] Adachi T,Sugita N, Yamada Y. Study on the Performance of a Sirocco Fan (Flow Around the Runner Blade) [J]. International Journal of Rotating Machinery， 2004,10(5): 415-424   
+[9]琚亚平，张楚华．基于人工神经网络与遗传算法的风力机 翼型优化设计方法[J]．中国电机工程学报，2009，29(20)： 106-111 JU Yaping，ZHANG Chuhua. Optimal Design Method for Wind Turbine Airfoil Based on Artificial Neural Network Model and Genetic Algorithm [J]. Proceedings of the CSEE,2009,29(20):106-111   
+[10]Klän S,Bachmann T,Klaas M,et al. Experimental Anal ysis of the Flow Field over a Novel Owl Based Airfoil [J]. Experiments in Fluids, 2009,46(5):975-989   
+[11]廖庚华,杨莹，胡钦超,等.长耳翅膀的三维建模[J].吉林 大学学报：工学版,2012,42(S1)：423-427 LIAO Genghua, YANG Ying,HU Qinchao,et al. Threedimensional Modeling of Long-eared Wing [J]: Journal of Jilin University:Engineering and Technology Edition, 2012,42(S1): 423-427

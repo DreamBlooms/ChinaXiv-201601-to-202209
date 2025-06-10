@@ -1,0 +1,474 @@
+[
+    {
+        "type": "text",
+        "text": "社会化标注中用户动态标签云构建研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谢梦瑶 潘旭伟",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(浙江理工大学经济管理学院杭州 310018)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】标签云可用于信息检索推荐和导航，由于用户标注具有时序特征，为有效揭示用户兴趣动态变化，提出基于时序演化的用户动态标签云构建方法。【方法】利用心理学中记忆的遗忘和加强特征构建标签的动态权重，从而建立用户动态标签云以反映用户关注点的变化。【结果】与现有的标签云算法比较，构建的用户动态标签云算法能够根据用户动态变化的兴趣有效地对标签进行排序，在用户兴趣标签的预测效果上明显高于其他算法，并具有更高的推荐准确率。【局限】因为用户兴趣在短时间周期内不会有太大变化，动态的方法在短时间周期内的预测效果不是很显著，但在长时间周期表现上更为显著。【结论】基于时序演化的用户动态标签云能有效地把握用户当前的兴趣热点，提高个性化检索和导航的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:社会化标注标签用户兴趣动态标签云分类号：TP311",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，Web 2.0 为互联网带来了实质性的变化,用户在网络环境中的角色也从网络信息的被动接受者转换为网络信息的主动创造者。社会化标注作为Web2.0的一个核心构件，允许大众用户采用标签的方式对自己感兴趣的资源基于自身理解进行无约束标注，且所有用户的标注都互为可见[1]。以Flicker、Delicious为代表的一系列以大众用户参与为中心的社会化标签站点逐渐发展壮大，社会化标签站点已成为用户有效获取信息资源的一种新渠道。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "标签作为社会化标注系统的载体，成为Web2.0时代一种重要的信息组织工具。社会化标签具有丰富的信息，标签云(Tag Cloud)作为具有可视权重的标签集合，它的出现很好地解决了标签信息的可视化问题，帮助用户快速从大量标签中获取有价值的信息。目前关于标签云的研究主要有排序算法[2]、个性化推荐[3]及可视化布局[4-5]等，这些研究与实践有力地推动了标签云应用与理论的发展。同时标签云作为一种新兴的检索推荐技术，通过标签的可视化属性体现不同标签的重要程度，可以对用户浏览产生导向作用，从而将用户的关注点吸引到特定字段或区域。Millen 等研究用户在标签云形势下的查询浏览习惯，发现社会化标签是提高社会化导航的重要途径。Hassan-Montero等[5通过定义标签描述资源的程度、覆盖资源的数量等指标的方式来计算标签的有用性，并通过聚类算法提高浏览体验。此外，标签云作为社会化信息的导航接口，通过可视化形式对标签属性及内容分类后可以对不同用户进行个性化搜索推荐。夏璃等[2基于Wikidata知识库的结构和内容，通过构建标签云将信息进行标签化处理，最终实现信息的检索和页面的排序。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现有标签云主要是根据标签累计被标注的次数为权重，定量地计算出每个标签的权值，并使用不同的颜色或字体大小形象直观地实现可视化，以便于用户检索和浏览。用户所使用的标签在一定程度上能够体现用户的兴趣，随着时间的变化，用户的兴趣偏好和关注点将产生变化，而现有基于标签累计频次构建的标签云并不能很好地反映出这种变化。因此，如何根据用户在不同时间所使用的标签构建出用户动态的标签云，以揭示用户的兴趣和关注点变化，已成为如何利用标签云更好地支持用户信息检索和导航的一个重要问题。为此，本文将从用户标注的时序特征出发，研究反映用户兴趣动态变化的标签云构建方法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2用户动态标签云构建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户动态标签云的构建需要充分考虑时序信息对用户标签使用的影响。根据心理学的遗忘特征和记忆加强现象，将整个用户标注的过程看作是遗忘过程和重复学习过程。即距离用户标注时间越远的标签重要性越低，重复出现的标签重要性又会强化，通过这样的过程动态地计算不同标签的权重，构建动态标签云，以提高用户浏览体验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 标签权重的动态更新 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户的兴趣会随着时间不断地发生变化，用户兴趣的改变是一种遗忘现象，根据心理学的遗忘特征和记忆加强现象[7]，具有如下基本特征:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）距离当前时刻越近的兴趣具有更高的权重,  \n且兴趣的权重会随着时间的推移逐渐下降;(2）当相同的兴趣重复出现时，会有一个兴趣重  \n复强化的过程，与原有兴趣合并构成新的用户兴趣。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "所以对于每个兴趣而言，都有遗忘的过程和重复学习的过程。标签是用户自身态度和兴趣的表达，因此可以利用兴趣记忆的遗忘和加强特征来更新用户标签的动态权重，以反映时间对标签权重的影响，从而支持动态标签云的构建。用权重来衡量用户对标签 $t _ { k }$ 的兴趣程度，那么标签权重 $w _ { t _ { k } }$ 也有衰减和强化的变化过程，形成多阶段衰减过程，如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/89194b78a0e39ebb13647cd84f91afc8f998f6fd49aa74d636b7707ab15e9e42.jpg",
+        "img_caption": [
+            "图1标签权值 $w _ { t _ { k } }$ 多阶段衰减过程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在图1中，在某个时间段内(如从dno至dni)，Wtk随着时间的推移发生了衰减。而当用户持续地在社会化标签系统中进行标注的过程中，相同的兴趣会阶段性地重复出现(如在 $d _ { \\mathrm { n 1 } }$ 和 $d _ { \\mathrm { n } 2 }$ 时刻重复出现了标签 $t _ { \\mathrm { k } } ^ { \\dagger }$ ）则标签权重 $w _ { t _ { k } }$ 得到加强而重新上升。这样的重复活动将用户整个标注过程分成多个子阶段，每一个子阶段都是一个新的遗忘过程。因此，根据于洪涛等[7、印桂生等[8构建的类似的遗忘曲线计算公式，笔者在此基础上改进并提出标签动态权重的计算公式。标签 $t _ { k }$ 的动态权重 $w _ { t _ { k } }$ 的计算涉及的三个主要环节：特定时间点上权重计算、遗忘衰减和记忆加强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1）时间点上的标签权重计算",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "标签 $t _ { k }$ 在特定时间点 $T$ 上的权重 $\\boldsymbol { w _ { t _ { k } } ^ { T } }$ 通过 TF(词频)方法计算，即用标签 $t _ { k }$ 使用的次数占该时间点上(如可取某一天)所有标签使用次数的比例，计算方法如公式(1)所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { t _ { k } } ^ { T } = \\frac { t f ( t _ { k } ) } { \\sum _ { s = 1 } ^ { m } t f ( t _ { s } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $m$ 为该时间点上所有标签数量, $t f ( t _ { s } )$ 为标签 $t _ { s }$ 出现的频数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2）标签权重的遗忘衰减 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "标签 $t _ { k }$ 没有重复出现，那么标签 $t _ { k }$ 的权重 $w _ { t _ { k } }$ 随时间发生了衰减，可采用指数形式的遗忘函数进行计算，$w _ { t _ { k } }$ 遗忘过程的量化函数定义为公式(2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { t _ { k } } \\left( d \\right) = w _ { t _ { k } } \\left( d _ { n - 1 } \\right) ^ { \\prime } e ^ { - \\frac { \\ln 2 } { h l _ { u } } \\left( d - d _ { n - 1 } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $w _ { t _ { k } } ( d )$ 为衰减后的标签权重， $w _ { t _ { k } } ( d _ { n - 1 } ) ^ { \\prime }$ 为标签 $t _ { k }$ 第 $n { - } 1$ 次出现时的权重(即上一个遗忘阶段的初始值); $h l _ { u }$ 是用户 $u$ 的半衰期，随着用户知识获取行为周期而不同; $d - d _ { n - 1 }$ 表示距离上次标签 $t _ { k }$ 出现的时间差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(3）标签权重的记忆强化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图1所示，在 $d _ { n 1 }$ ， $d _ { n 2 }$ ， $d _ { n 3 }$ 三个时间点，标签 $t _ { k }$ 重复出现，可以看到 $w _ { t _ { k } } ( d _ { n } ) ^ { \\prime }$ 的值由上一阶段标签 $t _ { k }$ 权重衰减的剩余量和新的标注活动同一标签 $t _ { k }$ 带来的权重增加量合并而成，使用公式(3)计算每个遗忘阶段的初始兴趣度 $w _ { t _ { k } } ( d _ { n } ) ^ { \\prime }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { t _ { k } } ( d _ { n } ) ^ { \\prime } = w _ { t _ { k } } ^ { n e w } ( d _ { n } ) + w _ { t _ { k } } ( d _ { n - 1 } ) ^ { \\prime } e ^ { - \\frac { \\ln { 2 } } { h l _ { u } } ( d _ { n } - d _ { n - 1 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $w _ { t _ { k } } ( d _ { n } ) ^ { \\prime }$ 为 $d _ { n }$ 时间点的初始标签权重, $d _ { n }$ 代表标签 $t _ { k }$ 第 $n$ 次出现的时间点，那么 $d _ { n } - d _ { n - 1 }$ 则是相邻两次标签 $t _ { k }$ 出现的时间差； $w _ { t _ { k } } ^ { n e w } ( d _ { n } )$ 为第 $n$ 次标签 $t _ { k }$ 出现时的权重，其计算方法已经由公式(1)给出，在这里代表在 $d _ { n }$ 时间点的标注活动为标签 $t _ { k }$ 带来的权重增加量。W(dn-1)'e $w _ { t _ { k } } ( d _ { n - 1 } ) ^ { \\prime } e ^ { - \\frac { \\ln 2 } { h l _ { u } } ( d _ { n } - d _ { n - 1 } ) }$ 即为标签 $t _ { k }$ 权重从上一阶段衰减到 $d _ { n }$ 时间点的剩余量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 动态标签云构建算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据上述标签权重的动态更新机制，建立如下动态标签云构建算法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输入：用户 $\\boldsymbol { u }$ 的标注历史记录(含标注的时间、资源和使用的标签)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "输出：用户 $\\boldsymbol { u }$ 的动态标签云",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法描述：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 利用公式(1)计算用户标注初始的标签兴趣权重，得到每个标签在不同时间点上(通常以天为计)的权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 将标签按时间先后顺序进行排序，判断标签 $t _ { k }$ 有没有重复出现，如果没有则进入步骤 $\\textcircled{3}$ 对标签权重进行更新；如果有则进入步骤 $\\textcircled{4}$ 对标签权重进行更新。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 根据公式(2)计算标签衰减后的标签权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{4}$ 根据公式(3)计算强化后的标签权重，由上一阶段的衰减值和新标注活动带来的权重增加量合并而成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{5}$ 综合每个标签的权重并进行归一化处理，得到用户 $\\mathbf { \\Omega } _ { u }$ 的动态标签云。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 实验数据 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验数据来源于Last.fm和Delicious 两个具有代表性的社会化标注系统，Delicious的数据取自北京大学DAIM研究组收集的Delicious网站在2009年1月至6月期间18万多用户的社会化标注数据，下载网址为:http://www.datatang.com/data/42989;Last.fm的数据取自于马德里自治大学信息检索组收集的1892名用户的音乐标注数据信息，下载网址为：http://grouplens.org/datasets/hetrec-2011。实验数据的基本统计如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a224c84d2c021f2ad0dbe77ad713c7b1dae7962ee73fb7a1f2dc09f5921b8ffb.jpg",
+        "table_caption": [
+            "表1实验数据基本统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>用户数</td><td>资源数</td><td>标签数</td><td>时间跨度</td></tr><tr><td>Delicious</td><td>185 068</td><td>4 153 293</td><td>939 036</td><td>2009.1-2009.6</td></tr><tr><td>Last.fm</td><td>1892</td><td>17 632</td><td>11 946</td><td>2005.8-2011.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取活跃度(即标注的资源数)较高的用户，对其标注活动数据进行实验研究，选取的标注数据包含用户、资源、标签和标注时间等信息，若有多个标签用于一个资源的标注，则形成多条记录，示例数据如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5816bd48d5463bfa11d10d0a6c39690d101c6f8e1ccc7ae86c24ebe764633a5e.jpg",
+        "table_caption": [
+            "表2标注数据示例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>UserID</td><td>ResourceID</td><td>TagID</td><td>TagTime</td></tr><tr><td>626177</td><td>7864044</td><td>2521</td><td>2009/1/27</td></tr><tr><td>626177</td><td>7864044</td><td>7833</td><td>2009/1/27</td></tr><tr><td>626177</td><td>7864044</td><td>7192</td><td>2009/1/27</td></tr><tr><td>626177</td><td>34862262</td><td>7833</td><td>2009/1/29</td></tr><tr><td>626177</td><td>34862262</td><td>94</td><td>2009/1/29</td></tr><tr><td>625254</td><td>7864044</td><td>2521</td><td>2009/1/30</td></tr><tr><td>625254</td><td>7864044</td><td>7833</td><td>2009/1/30</td></tr><tr><td>625254</td><td>7864044</td><td>289</td><td>2009/1/30</td></tr><tr><td>625254</td><td>7864044</td><td>5032</td><td>2009/1/30</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2用户动态标签云的可视化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为直观反映动态标签云的效果，选取典型用户的标签云可视化结果进行比较。分别使用现有的累计标注频次方法和上述提出的动态标签云构建方法建立可视化标签云，以字体大小对标签权重进行区分。图2为Delicious某活跃用户(UserID：12116)到第6个月末时(即标注截止时间)两种方法构建的标签云可视化结果(对前50个热门标签进行显示)，标签的字号越大表示该标签的权重越高。该用户在6个月内共进行2710次标注，其中标注资源数995个，使用标签数424个，使用最多的标签频次达到447次，最低的为1次。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "im network update email rs sms communication linkedin webapps socialsoftware media tumblrtwitertolsWeb2.Osocialsofwareproductivitymashupyaoowebservice internet socialmedia msn Microblog pownce ping.fm technology community tWitter no_tag satus marketing fe plurk web SOcialnetWOrk sn aggregator facebook tOolSblog delicious pi aps wordpres mobile jaiku ping flickr todo (a)现有累计标注频次构建的静态标签云 too_evaluate web2.0app mashup content-rules netapps lino media tirinhas personal the_hour socialweb economics facebook aggregator Socialbookmarks illustrate network desenho timferris web2.0 pixelpipe announce marketing web tWitter socialmedia solosso wesitesScis to_read blog realestate microblog social blog/tools socialnetworking-tools software ping repo yammer @office content-ideas ping.fm followup ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(b)考虑标注时序信息的动态标签云",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2的可视化标签云可见，以现有累计标注频次构建的静态标签云与本文提出的考虑标注时序信息构建的动态标签云所得到的标签权重相对大小是有差异的，因而在引导用户对信息检索和导航的相对优先顺序上也将产生不同效果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3用户动态标签云导航效果评价",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步检验提出构建的动态标签云是否更好地反映了用户兴趣的变化，起到更好的信息检索和导航作用，开展了定量化的比较实验研究。因为若用户当前对某个标签感兴趣，则其会在未来一段时间继续使用，所以以在某个时间点上标签权值大的前 $N$ 个标签在未来一段时间内被用户再次标注使用的情况构建评价指标，以表征标签云对用户兴趣刻画情况。为此首先定义两个基本的评价指标公式，分别如公式(4)和公式(5)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA c c = \\frac { n _ { _ N } } { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR e c = \\frac { n _ { N } } { n _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $n _ { \\scriptscriptstyle { N } }$ 为排名前 $N$ 个标签在未来一段时间内被标注使用的总次数； $n _ { 0 }$ 为在未来一段时间内用户标注使用的标签总次数。从指标定义可见, $_ { A c c }$ 表示排名前$N$ 个标签在未来一段时间被标注使用的平均频次，Rec表示排名前 $N$ 个标签使用的总频次占用户在该段时间内所有使用标签频次的比率。因此，这两个基本指标分别从不同视角表征排名前 $N$ 个标签在未来一段时间被使用的情况，为此结合二者定义新的指标作为综合评价指标，如公式(6)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA R = A c c \\cdot R e c = \\frac { n _ { N } } { N } \\cdot \\frac { n _ { N } } { n _ { 0 } } = \\frac { n _ { N } ^ { 2 } } { N \\cdot n _ { 0 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以Delicious实验数据集为例，选取数据集中15个有比较完整标注历史的用户(即这些用户基本上有6个月的持续标注活动)为对象。将数据集跨越的6个月时间按先后顺序分为36个周期，每个周期为5天。令$k { = } 1 , 2 , \\ \\cdots , 3 6 .$ ，取第 $k$ 个周期结束时的标签权值，按大小排名前10、前20和前30个标签，计算这些标签在第 $k { + } 1$ 个周期的5天内的使用情况，计算出AR评价指标值。例如，当取 $k { = } 2$ 时，计算出到第10天时用户标签权重排名的前10、20和30个标签，然后使用之后5天(即从第11天到第15天的第3个周期)的用户标注数据来计算评价指标值，依次类推。为避免用户在标注开始阶段的随机性影响，在具体实验过程中从第20个周期开始计算相应的评价指标值。同样，Last.fm以15个活跃用户为研究对象，由于该数据集时间跨度比较大，将数据集跨越的6年时间按先后顺序分为12个周期，每个周期6个月，评价方法同Delicious数据集。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为检验本文提出的标注时序信息构建的动态标签云与现有以累计标注频次构建的静态标签云在反映用户兴趣度上的差异，在分别计算得到两者综合评价指标 $_ { A R }$ 值后，计算它们的比值，如公式(7)所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\frac { A R _ { D } } { A R _ { S } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $A R _ { D }$ 和 $A R _ { S }$ 分别为动态标签云方法和静态标签云方法计算得到的综合评价指标值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为选取15个用户用两种方法进行比较的结果。可见，在观测的标签权值排前10、20和30个标签，动态方法相较于静态方法都有不同程度的提升，Delicious数据集的提升从 $4 \\%$ 到 $11 \\%$ 不等，而Last.fm数据集提升显著，从 $1 8 \\%$ 到 $82 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86d5399848e1a8a56c61807908f718b6f71759176186ec34583fa8702bf79384.jpg",
+        "img_caption": [
+            "图3动态标签云相较于静态标签云的提升效果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现有的实验结果来看，Delicious数据集的提高效果并不是十分显著，因为在6个月的短时间内的兴趣通常并没有发生本质上的变化，对于时间周期更长的",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Last.fm数据集，动态方法相较于静态方法的提高效果显著，这表明基于标注时序信息构建的动态标签云能够更好地反映用户兴趣的变化，更好地起到对信息检索和导航作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另外，在上述Last.fm实验数据和相同的测评指标下，将动态方法和其他方法进行对比实验，选择的对比方法为基于累计频次的方法(TF)和文献[8]提出的标签时间权策略，包括 TF 时间权和 TFIDF 时间权。由图4可知，动态方法的效果高于其他方法，具有较高的推荐准确率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.00  \n3.00  \n2.00  \n1.00  \n0.00TOP5 TOP8 TOP10 TOP15 TOP20 TOP25 TOP30-TFIDF时间权TF时间权一TF -动态方法",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为使标签云更好地反映出用户当前的动态兴趣基于用户兴趣动态变化的特性和社会化标注的时序特征，提出基于时序演化的用户动态标签云构建方法。该方法基于心理学中记忆的遗忘和加强特征构建标签的动态权重。从实验结果看，动态标签云的可视化结果有别于现有以累计标注频次构建的静态标签云，与现有的标签排序算法比较，动态方法优于其他算法，并且能够刻画和把握用户当前兴趣，有利于更好地帮助用户利用标签云进行信息检索和导航。标签只是反映用户兴趣的一个单一词汇，而用户的兴趣往往是由多个标签形成的集合所刻画的主题，因此如何在现有动态标签云基础上进一步挖掘用户的兴趣主题将是下一步开展的工作。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 魏建良，朱庆华．基于社会化标注的个性化推荐研究进展[J]. 情报学报，2010，29(4):625-633．(Wei Jianliang，Zhu Qinghua.Advances in Personalized Information Recommendation Based on Social Tagging[J]. Journal of the China Society for Scientific and Technical Information,2010,29(4): 625-633.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[2]夏璃，葛佳琦，马秀，等．基于Wikidata和标签云的搜索算 法研究[J]．软件导刊,2016,15(8):42-46.(Xia Yu,Ge Jiaqi, Ma Xiu,et al. Research on Searching Algorithm Based on Wikidata and Tag Cloud[J]. Software Guide,2016,15(8):   \n42-46.) [3]曾子明，张振．社会化标注系统中基于社区标签云的个性 化推荐研究[J]．情报杂志，2011，30(10):128-133.(Zeng Ziming,Zhang Zhen．A Personalized Recommendation Approach Based on Community Tag Cloud in Social Tagging System[J]. Journal of Intelligence,2011,30(10):128-133.) [4]毕强，周姗姗，马志强，等．面向知识关联的标签云优化 机理研究[J]．现代图书情报技术，2014(5)：33-40.(Bi Qiang，Zhou Shanshan，Ma Zhiqiang，et al．Studyon Optimization Mechanism of Tag Cloud for Knowledge Relation [J].New Technology of Library and Information Service,2014(5): 33-40.) [5]Hassan-Montero Y, Herrero-Solana V.Improving Tag-Clouds as Visual Information Retrieval Interfaces[C]//Proceedings of International Conference on Multidisciplinary Information Sciences and Technologies,Merida,Spain.2006. [6]Millen D R,Feinberg J. Using Social Tagging to Improve Social Navigation [OL]. [2016-09-30]. https://www.researchgate.net/ publication/28904554_Using_social_tagging_to_improve_s ocial_navigation. [7]于洪涛，崔瑞飞，董芹芹．基于遗忘曲线的微博用户兴趣 模型[J]．计算机工程与设计，2014，35(10):3367-3372,   \n3379.(Yu Hongtao,Cui Ruifei, Dong Qinqin. Micro-blog User Interest Model Based on Forgetting Curve [J]. ComputerEngineering and Design， 2014， 35(10):   \n3367-3372, 3379.) [8]印桂生，崔晓晖，马志强．遗忘曲线的协同过滤推荐模型 [J]．哈尔滨工程大学学报，2012，33(1):85-90.(Yin Guisheng,Cui Xiaohui,Ma Zhiqiang.Forgetting Curve-based Collaborative Filtering Recommendation Model [J]. Journal of Harbin Engineering University,2012,33(1):85-90.) [9]赵开慧.基于社会化标注的个性化信息推荐方法研究[J].情 报科学，2015,33(6):39-42.(Zhao Kaihui.Recommendation Method of Personalized Information Based on Socialized Tagging [J]. Information Science,2015,33(6): 39-42.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "谢梦瑶：方法研究和数据实验，论文起草；  \n潘旭伟：提出研究思路、实验方案设计和论文修订。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "支撑数据[1]见期刊网络版http:/www.infotech.ac.cn；支撑数据[2-4]由作者自存储,E-mail: panxw@zstu.edu.cn。[1]谢梦瑶，潘旭伟．实验数据.zip.选取的Delicious、Last.fm的用户实验数据.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2] 谢梦瑶，潘旭伟．静动态方法比较.xlsx．动态方法相对于静态方法的提升效果.  \n[3]谢梦瑶，潘旭伟．动态方法与其他时间权方法的比较.xlsx.动态方法相对于其他方法的提升效果，  \n[4]谢梦瑶，潘旭伟.实验数据库文件.sql.数据库代码.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-10-12   \n收修改稿日期:2016-12-09 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Constructing Dynamic Social Tag Cloud for User Interests ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Xie Mengyao Pan Xuwei (School of Economics and Management, Zhejiang Sci-Tech University, Hangzhou 310018, China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] Social tags canbeused forthe recommendationand navigation sections of information retrieval systems.This paper proposes a method to construct a dynamic user tag cloud based on the temporal evolution to reveal the changes ofuser interests.[Methods] We established the tags’dynamic weights withtheforgeting and strengthening characteristics of memory in psychology.Thus,the dynamic user tag cloud reflect user's changing focus.[Results] Compared with the existing ones，the proposed algorithm could efectively sort the tags,and then make accurate predictions or recommendations.[Limitations]The proposed method performed wellover long periodof time because user's interests do notchange significantly in a short periodof time.[Conclusions]The proposed algorithm could effectively identify user's interests and then improve the personalized services. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Social TaggingTagUser InterestsDynamic Tag Cloud ",
+        "page_idx": 5
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "type": "text",
+        "text": "基于相位一致性和方向滤波冕环震荡识别与跟踪",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯松1,²，王洋1,²，赵燕1,²，袁泉1,2， 杨云飞1,²，邓辉}²，王锋1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.昆明理工大学信息工程与自动化学院计算机系，云南昆明650500；2.昆明理工大学云南省计算机技术应用重点实验室，云南昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：冕环结构的准确识别和跟踪有利于更好地研究和分析冕环特征以及同耀斑爆发和日冕物质抛射之间的关系。提出基于相位一致性和方向滤波的冕环震荡识别和跟踪方法。识别过程如下：首先，使用相位一致性技术对太阳图像中的冕环特征进行识别；其次，对识别后的图像进行二值化处理；接着使用方向滤波去除非冕环的结构特征；然后，对其进行形态学处理；最后，再对识别结果进行二次曲线拟合。运用所提算法对2011年9月6日由太阳动力学观测站（SolarDynamics Observatory，SDO）在FeIX $\\mathrm { ~ \\AA ~ } 1 7 . 1 \\ \\mathrm { n m }$ 波段观测到的冕环震荡进行了识别和跟踪，结果验证了所提算法的可行性和准确性。证明所提算法能被用于冕环特性以及震荡过程的研究和分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：相位一致性；方向滤波；冕环震荡；震荡周期中图分类号：TP391.41 文献标识码：A 文章编号：1672-7673(2016)03-0345-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "日冕位于太阳大气的最外层，在上面可以观测到一些亮的环形结构，它们被称为冕环。冕环由日冕磁场束缚的热等离子体发亮而形成环状结构，是太阳磁场结构的一种表现形式。它们同日冕物质抛射、太阳耀斑、太阳风暴等有密切的关系[1]。研究冕环及其演化过程对于理解太阳大气层的磁场活动和预报太阳风暴具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "太阳耀斑爆发和日冕物质抛射释放的大量能量引起附近局部磁场结构的急剧变化，导致附近的冕环结构产生震荡[2-4]。这些震荡不仅仅发生在一条冕环结构上，也同时出现在多条冕环结构上。最近的研究表明，这种震荡是驻波的一种表现形式，但是每个环上由于震荡的频率、相位以及衰减系数的不同，往往呈现不同的震荡特征[5-9]。研究这些特征对于更好地理解耀斑爆发和日冕物质抛射对日冕磁场的影响具有很大的帮助。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而准确地识别和提取冕环特征结构面临非常大的困难。这是由于：（1)冕环是由日冕磁场束缚的热等离子体形成，这些等离子体分布并不均匀，虽然冕环结构的强度较大，但强度变化（梯度)较小，导致冕环结构的边缘模糊，造成提取困难；（2)各个冕环之间的距离较近而且相互交错，导致产生的二维图像环形结构彼此交叉重叠；（3)由于磁场活动的复杂性导致了冕环结构呈现多种形态，如环形结构出现断裂等问题；（4)在冕环附近还存在非环形的太阳特征，如海绵状亮斑，这些都增加了冕环提取的复杂性和准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前冕环的识别方法主要分为两类[10-13]：一类是运用图像空间域的强度和梯度阈值对特征结构进行识别和提取；另一类是利用频域或小波域对不同的频率特征进行滤波，识别和提取冕环特征。广义上讲，图像的结构特征，如特征边缘、尺度和纹理等大量底层信息存储在图像的相位谱中。文[14-15]证明了相位一致性在表征特征结构时对强度、对比度、照度具有不变性，而且通过计算图像的局部能量实现了对图像特征的稳定提取。目前，相位一致性技术已经应用于黑子本影亮点和本影耀斑以及光球米粒等低对比度太阳图像特征的提取和识别[16-19] O",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文运用相位一致性技术并结合方向滤波的方法对一个由太阳动力学观测站搭载的太阳大气成像仪（Atmospheric Imaging Assembly，AIA）[20]在2011年9月6日由谱线 $\\mathrm { F e ~ I X ~ 1 7 . ~ 1 ~ n m }$ 波段观测到的冕环震荡进行识别和分析，并同已有的文献结果进行比较来检验所提方法的可行性和准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "论文首先介绍所用的实验数据，其次简述冕环震荡的识别过程，然后对识别的冕环震荡进行统计分析，并同已有文献结果作比较，最后对本文进行总结。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1实验数据 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择震荡事件发生在编号为11283的活动区为实验数据，时间从2011年9月6日22时17分到2011年9月6日22时34分。观测资料由太阳大气成像仪在谱线 $\\mathrm { F e ~ I X ~ 1 7 . ~ 1 ~ n m }$ 波段记录。冕环震荡由一个附近爆发的X2.1级耀斑引起。该组数据共包含65 幅图像，间隔时间为 $1 2 \\mathrm { ~ s ~ }$ ，图像的像元分辨率是 $0 . 6 ^ { \\prime \\prime }$ 。图1（a)展示了2011年9月6日22时17分获得的图像，其中白色箭头所示的位置为耀斑爆发的位置，它引起了图1(a)中白色方框标记区(即图1(b))冕环产生了震荡。图1(b)展示了这个区域的细节。它的大小为 $2 1 0 \\times 1 4 4 ^ { \\prime \\prime }$ 。在图1(b)中，由数字1和2指示的位置为耀斑爆发能量释放所产生的图像结构特征，它导致了附近的冕环产生剧烈震荡，尤其是箭头Loop $A$ 和Loop $B$ 指示的两个冕环结构震荡尤为明显。为了同文[9]做比较，本文主要针对冕环 $A$ 和冕环 $B$ 的震荡运用所提算法进行识别和跟踪，并对其结果进行统计分析来检验算法的可行性和准确性。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/10070d3e2a3259beeacd3bc1a03a74febe4c8848277fc92d4f179f33fbd5126e.jpg",
+        "img_caption": [
+            "图1冕环Fig.1Loops"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 识别和跟踪方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法首先运用文[14-15]提出的图像的相位一致性方法计算图1(b)中的相位一致性特征。图2(a)是获得相位一致性中的局部加权平均相位角图像。它的取值范围在 $[ - \\pi / 2 , \\pi / 2 ]$ 之间。 $- \\pi / 2$ （204号和 $\\scriptstyle { \\pi / 2 }$ 分别表示原始图像中一个局部区域内明暗特征极值的位置。0表示特征由明到暗（或由暗到明)的分界。从图2(a)可以看到，在图1(b)中的环形结构以及由耀斑爆发产生的特征和海绵状亮斑也被同时识别出来。由于在原始图像中冕环结构为亮度较大的特征(即冕环比较明亮)，因此，识别算法在对图2(a)进行二值化处理时选择阈值为0，即图2(a)中大于0的被置为1，否则为0，其二值化结果如图2（b）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图2(b)可以看出，那些海绵状亮斑和由于耀斑爆发产生的近似垂直的一些特征(如图中上方中间位置被白色方框标记)干扰冕环 $A$ 和 $B$ 的提取。所要识别和提取的冕环A和冕环 $B$ 方向近似水平。因此算法选用方向滤波思想识别近似垂直的特征并去除。算法选用sobel边缘检测算子$g ( g = \\left[ 1 , 0 , - 1 ; 2 , 0 , - 2 ; 1 , 0 , - 1 \\right] ) ,$ )作为方向滤波算子检测干扰线段的垂直边缘并去除它们，处理结果如图2(c)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2(c)可以发现，那些近似垂直的干扰特征通过使用方向滤波的方式已经被很准确地去除。然而所需提取的冕环结构仍然存在不连续以及冕环上存在小的孔洞且边缘不规则、噪声点大和冕环粗细不均匀等问题。算法采用形态学的去除小面积、填充、膨胀、闭运算、细化等一系列操作对上述问题进行处理，处理结果如图2（d）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图2(d)箭头处可以看出，识别的冕环结构不光滑，存在许多分支结构，并且图中除了所要识别的冕环A和冕环 $B$ 外，还有一些短的非目标线。因此算法根据节点处各分枝的长短，保留最长的分枝结构，去除短的分枝杂点，并根据环的长度，提取了冕环 $A$ 和冕环 $B$ ，结果如图2(e）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后对所识别的65幅图像中的冕环 $A$ 和冕环 $B$ 进行了二次方程的曲线拟合，获取一个光滑的弧线，其二次方程定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = a x ^ { 2 } + b x + c ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $x$ 为图像中冕环的横坐标； $y$ 为图像中冕环的纵坐标； $\\textit { a , b , c }$ 为参数。图2(e)中冕环 $A$ 和冕环 $B$ 二次拟合参数 $\\mathbf { \\Omega } _ { a }$ 、b、 $\\scriptstyle { \\begin{array} { l } { c } \\end{array} }$ 的值如表1。图2(e)环的拟合结果被叠加到原图上并显示在图2(f)中。由于冕环震荡导致每一幅图像中冕环 $A$ 和冕环 $B$ 的形态均不相同，因此本文分别对其进行了逐一拟合，其它的拟合参数并未在此列出，这些拟合线为本文要进行统计分析的特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9298d744ec639f44bd5f525ea61fa9549b5f0328f26b25c7b4ce5ba8fd6aa023.jpg",
+        "img_caption": [
+            "图2识别过程",
+            "Fig.2The process of Identification "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证所识别冕环的结果，分别选取冕环$A$ 和冕环 $B$ 上在 $X$ 轴方向上10个位置，然后根据每幅图的二次拟合方程(1)得到Y值，并对这10个 $Y$ 值分别取它们在每1幅图像上的均值作",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3710b8f21d2aba2998ddb31f88b00479334d9e2086382465b0f0bf604c64f6b.jpg",
+        "table_caption": [
+            "表1对图1(b)中冕环 $A$ 和 $\\textbf {  { B } }$ 的二次拟合参数Table1 Parameters of quadratic fitting"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>a b</td><td>C</td></tr><tr><td>冕环A -0.002 801</td><td>1. 088</td><td>19. 33</td></tr><tr><td>冕环B</td><td>-0.003 805</td><td>1. 512 17. 19</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为这一幅图像冕环震荡的位置。图3(a)和(b)中星号标记的位置即为冕环 $A$ 和冕环 $B$ 的 $Y$ 均值位置随时间 $T$ 的变化情况。在图3中，横轴表示时间(单位为分钟)，纵轴表示冕环移动距离（单位为千米）。从图中可以看出这些星号呈现一个类似衰减的正弦函数，因此采用如下函数拟合这些位移，具",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "体的衰减正弦拟合函数定义如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( t ) = A e ^ { - t / \\tau } \\mathrm { s i n } ( 2 \\pi t / T + \\pi \\varphi / 1 8 0 ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $A$ 为振幅； $\\boldsymbol { \\tau }$ 为衰减时间； $\\mathbf { \\chi } _ { t }$ 为时间(单位为分钟)； $T$ 为周期； $\\varphi$ 是初相位(单位为度）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f6b0d7437a547c670f1236bc5f47e1dbab7e1689639f566ede78187b279f572.jpg",
+        "img_caption": [
+            "图3震荡",
+            "Fig.3 Oscillations "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于这两个曲线的震荡周期，是采用傅里叶变换的频率分析方法获得。这两个振荡信号的频谱分析图如图4。依据傅里叶频谱分析，这两个环的震荡频率约为 $8 . 4 \\ : \\mathrm { M H z }$ ，周期为 $1 1 8 \\mathrm { ~ s ~ }$ 。运用这个周期值T(即118s)和拟合方程(2)拟合图3中的星号位置。拟合的曲线如图3(a)和(b)，它们的衰减系数约为 $1 2 2 \\mathrm { s }$ ，但两个震荡序列的相位差近似 ${ 4 1 } ^ { \\circ }$ ，冕环 $B$ 先于冕环 $A$ ，而且 $B$ 环的振幅也高于 $A$ 环。这表明由耀斑所引起的冕环震荡不是从最近位置的冕环震荡开始，而是导致较远位置的冕环首先震荡。不过这种位置的远近也可能是由成像的视角导致的。这个分析结果同文[9]的结论一致，进一步验证了本文所提的方法可以运用于冕环特征的研究和分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/41ad32dda01d56d1d9e839ad244f8443aa3fc553bc1f5304cc73be46fc638192.jpg",
+        "img_caption": [
+            "图4频谱分析图",
+            "Fig.4Spectrum analysis diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论与总结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "大多数的冕环震荡是由附近的耀斑爆发和日冕物质抛射引起的，对这些冕环的震荡进行分析可以更好地理解冕环的磁场特征与太阳耀斑爆发和日冕物质抛射的能量释放之间的关系，准确地识别和提取冕环特征至关重要。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文运用相位一致性和方向滤波的方法分析了一个由太阳大气成像仪在 $1 7 . 1 \\mathrm { n m }$ 波段观测到的冕环震荡。然而，由于冕环结构的复杂性，本文仅选取了震荡区域中两个比较明显的冕环结构运用相位一致性和方向滤波的图像特征提取方法识别和追踪它们，并根据识别和追踪的结果对这两条冕环的周期、相位差以及衰减系数进行统计分析，并同已有文献的结果进行比较，证明算法可行，识别结果准确。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "尽管相位一致性可以很好地解决低信噪比条件下图像特征提取的问题，但由于冕环特征存在于复杂的背景之中以及冕环结构边缘模糊和信噪比低等因素，使得提取的冕环结构不太完整，一些比较细、暗的冕环结构未能识别成功。对于这些情况仅仅从图像处理的角度识别和提取是不够的，需要结合其他波段的数据及磁场反演等物理过程分析，提高冕环识别的准确性，这也是下一阶段研究工作的重点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Vaiana G S，Rosner R. Recent advances in coronal physics [J]. Annual Review of Astronomy and Astrophysics，1978，16:393-428.   \n[2] Aschwanden M J. The 3D geometry，motion，and hydrodynamic aspects of oscillating coronal loops [J]. Space Science Reviews，2009，149(1-4） : 31-64.   \n[3] White R S，Verwichte E.Transverse coronal loop oscilltions seen in unprecedented detail by AIA/SDO [J]. Astronomy & Astrophysics，2012，537:A49-A58.   \n[4] Wang T J,Ofman L，Davila JM，et al. Growing transverse oscillations of a multistranded loop observed by SDO/AIA [J]. The Astrophysical Journal Letters，2012，751(2）:L27-L32.   \n[5] Aschwanden M J,Fletcher L，Schrijver C J，et al. Coronal loop oscillations observed with the transition region and coronal explorer[J]. The Astrophysical Journal,1999,52O(2）:880-894.   \n[6] Luna M，Terradas J，Oliver R，et al. Transverse oscillations of two coronal loops［J]. The Astrophysical Journal，2008，676(1) : 717-727.   \n[7] Luna M，Terradas J,Oliver R，et al. Transverse oscillations of a multi-stranded loop [J].The Astrophysical Journal，2010，716(2）：1371-1380.   \n[8] Terradas J，Arregui I, Oliver R,et al. Resonant absorption in complicated plasma configurations : applications to multistranded coronal loop oscillations [J]. The Astrophysical Journal,2008,679 (2):1611-1620.   \n[9] Jain R，Mauryal R A，Hindman B W. Fundamental-mode oscillations of two coronal loops within a solar magnetic arcade [J]. The Astrophysical Journal Lettrs，2015,804(1）:L19-L27.   \n[10] Lee JK，Newman T S,Gary G A. Oriented connectivity-based method for segmenting solar loops [J].Pattern Recognition，2006,39(2）:246-259.   \n[11] Carcedo L，Brown D S，Hood A W,et al.A quantitative method to optimise magnetic field line fitting of observed coronal loops [J]. Solar Physics，2003，218(1）:29-40.   \n[12]Steger C.An unbiased detector of curvilinear structures [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence，1998，20(2）：113-125.   \n[13]James McAteer R T, Kestener P，Arneodo A,et al. Automated detection of coronal lops using a wavelet transform modulus maxima method[J]. Solar Physics，2010，262(2）:387-397.   \n[14]Kovesi P. Image features from phase congruency [J]. Journal of Computer Vision Research, 1999,1(3) : 1-27.   \n[15]Kovesi P.Phase congruency:a low-level image invariant [J]. Psychological Research，2000, 64(2) : 136-148.   \n[16] Feng Song， Xu Zhi，Wang Feng，et al. Automated detection of low-contrast solar features using the phase-congruency algorithm [J]. Solar Physics，2014，289(10）: 3985-3994.   \n[17]Feng Song，Yu Lan,Yang Yunfei,et al. Identification of emision sources of umbral flashes using phase congruency [J]. Research in Astronomy and Astrophysics，2014，14(8)：1001-1010.   \n[18] Feng Song，Zhao Yan，Yang Yunfei，et al. Identifying and tracking of peripheral and central umbral dots [J].Solar Physics，2015，290(4）：1119-1133.   \n[19] 韩翠翠，蒋霞，杨云飞，等.基于NVST观测的米粒识别和形态特征分析［J].科学通报， 2016,61(8): 881-890. Han Cuicui， Jiang Xia，Yang Yunfei，et al. Identification and morphology analysis of granules using the New Vacuum Solar Telephone Observations [J]. Chinese Science Bulletin，2016,61 (8): 881-890.   \n[20]Lemen JR,Title A M,Akin D J,et al. The Atmospheric Imaging Assembly（AIA）on the Solar Dynamics Observatory（SDO）[M]// The solar dynamics observatory. New York:Springer US, 2012:17-40. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Identification and Tracking of Coronal Loop Oscillation Using Phase Congruency and Directional Filter ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Feng Song $^ { 1 , 2 }$ ， Wang Yang $^ { 1 , 2 }$ , Zhao Yan $^ { 1 , 2 }$ ，Yuan Quan1,²，Yang Yunfei1,²，Deng Hui $^ { 1 , 2 }$ ， Wang Feng1,2   \n(1.FacultyofInformationEngineeringndAutomation，KunmingUniversityofScienceandTechnology，Kunming6505o,China; 2.Computer Technology Application KeyLaboratory of Yunnan Province,Kunming Universityof Scienceand Technology, Kunming 65050o,China,Email：ynkmfs@ escience.cn） ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Solar flares occurring usually cause oscillations of nearby coronal loops.A precondition of studying these oscilations is to explore how to identify coronal loops.Meanwhile，accurate identification is also crucial to studyand analyzethe statisticalfeatures ofthe coronal loops and therelationship to coronal magnetic field.However，the traditional identification methods based on intensityand/or gradient threshold have some limitations，because coronal loops hold arelatively low contrast，blurred boundary，and the image noise is close to coronal loops. So we propose a new method to identify coronal loops using phase congruency and directional filter.The identification procedures are as folows：firstly，phase congruency technique is used to identifylinear shape in a coronal image；secondly，a binary image is obtained from the image of phase congruency for detecting the loop features；thirdly，a directional filter based on Sobel Operator is applied to remove the redundant features that are nearly perpendicular to those target loops；fourthly，morphological filters are used to extract the shapeof those loops；finally，quadratic fiting is used to smooth the identified loop features.For illustrating the performance of the method，the coronal loop oscilltions taken with the Atmospheric Imaging Assembly on aboard the Solar Dynamic Observatory on September 11,2011 are used to evaluate the identification and tracking process.The coronal loop oscilltions were caused bya nearby X2.1 flare emission.We analyzed the identified results，and calculated their oscilation period,phase diffrence and decay coeficient.Theyare in good agreement with those of previous works.This implies that the proposed method can accurately identify the shape of a loop in an image；furthermore，the results can also be used to study the physical properties of coronal loop oscillations and the relationship to others solar phenomena. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words:Phase congruency；Directional filter；Coronal loop oscillation；Oscillation period ",
+        "page_idx": 5
+    }
+]

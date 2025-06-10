@@ -1,0 +1,224 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "影响不典型阑尾炎超声诊断的Logistic二元回归分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "邓妙珍",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "佛山市顺德区第一人民医院附属杏坛医院功能科，广东佛山528325摘要：目的探讨导致不典型阑尾炎超声误诊及漏诊的影响因素。方法 回顾性分析被漏诊或误诊的急性不典型阑尾炎的临床、解剖及超声等特点，并进行二元因素赋值，通过Logistic回归分析比较以上因素对超声诊断阑尾炎影响。结果经6步回归分析,发现大量肠气、右下腹积液、腹膜后位阑尾、右下腹局部回声增强是成人阑尾炎被超声误诊漏诊是主要原因，而肠系膜淋巴结显影及憩室炎是小儿阑尾炎误诊的主要因素(均 $P { = } 0 . 0 0 0$ ，且模型分类判对率均大于 $8 5 \\%$ )。结论右下腹回声增强、积液以及肠内气体干扰是导致超声误诊漏诊急性阑尾炎的主要原因,对于小儿急性右下腹痛应仔细鉴别其与肠系膜淋巴结炎及麦克尔憩室炎的区别。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：急性阑尾炎;超声;Logistic回归分析；回声",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Logistic regression for risk factors impacting ultrasound diagnosis for patients with acute appendicitis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DENG Miaozhen Functionalepartment,hefistpeople'sospitalofundeailiaedingtanhospial,oshanina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Objective To investigate the cause of atypical appendicitisultrasound misdiagnosis and missd diagnosisof influencing factors.MethodsTheclinicalanatomyandultrasoniccharacteristicsofatypicalappendicitiswithissed diagnosis or misdiagnosis wereretrospectivelyanalysed.Theeffectofthefactorsonultrasonicdiagnosisof appendicitis were explored byLogisticregression analysisafter assignmentfordualfactors.ResultsBowel gas，theright lowerquadrant abdominal efusion,retroperitonealappendixandlocal echogenicitywerethemainfactorofadultappendicitis withulrasonic misdiagnosis through 6 step regresionanalysis. Diverticulitis was a major cause of pediatric appendicitis misdiagnosis $P =$ 0.000, classification and model of rate of not less than $8 5 \\%$ ). Conclusion The right lower abdomen echogenicity, effusion and intestinalgas interferenceisamajorcauseof lead tomisdiagnosis andultrasound misdiagnosisofacute appendicitis.The mesentericlymphadenitisand Michael diverticulis should becarefullyidentifiedforchildren withacutelowerabdominal pain . ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: acute appendicitis; ultrasound; Logistic regression analysis; echo ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "急性阑尾炎是最常见的急腹症之一，该病的治疗方案已很明确，但在急性阑尾炎的早期诊断方面却有诸多需要探讨的细节。国内外大量研究表明超声是诊断急性阑尾炎的可行手段，其具有简便可行、廉价、可重复等优点，也有较高的敏感度1，但由于患者临床或病理等方面的因素，超声在诊断急性阑尾炎方面仍有一定的漏诊及误诊率，这对于提高的超声检出率是不利的，尤其在小儿急腹症的辅助诊断方面，具有重要的临床意义及社会价值[2]。为此,本研究采用Logistic二元回归法分析了本院被误诊及漏诊的急性阑尾炎特点，在一定程度上有助于提高超声医师对急性阑尾炎的诊断率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 患者资料",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "选取2005年1月 ${ \\sim } 2 0 1 6$ 年1月我院的阑尾炎患者作为研究对象，入选条件如下：经临床、腹部CT、术后病理等依据确诊为急性阑尾炎;治疗前行超声检查[3]。共入选395例患者，其中男性273例，女性122例，年龄2.2\\~81岁；首次超声确诊为急性阑尾炎共337例；漏诊及误诊共58例，其中被误诊为急性阑尾炎以外的其他疾病49例，漏诊急性阑尾炎共9例。以上58例男性37女性21例，年龄1.8\\~73岁，含小儿16例 $2 7 . 5 8 \\%$ ）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.2 超声检查方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应用日立7500彩超仪，取平卧位，先采用低频$( 2 . 5 { \\sim } 5 . 0 ~ \\mathrm { M H z } )$ 凸阵探头和高频 $( 5 . 0 { \\sim } . 1 2 ~ \\mathrm { M H z } )$ 线阵探头联合扫查腹腔。探头于右下腹盲肠下缘内侧为中心，顺、逆时针探查寻找阑尾开口，再探查阑尾全貌4；观察阑尾的形态、大小、管壁厚度及轮廓、内腔和周围组织回声变化，同时观察阑尾尾部与其周围组织的关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.3 分析方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "结合临床、解剖、病理、超声、统计等学科知识,初步认为以下个因素(均属于两分类变量)与阑尾炎的超声误诊漏诊相关，分别为：饱餐(X1）、右下腹局部回声增强(X2)；便秘(X3)；体型肥胖(X4)；肠气(X5)；憩室炎(X6);回盲部管壁增厚(X7);高Alvarado评分(X8);右下腹积液(X9);肠蠕动过快(X10);是否小儿(X11,赋值：0代表否，1代表是);腹膜后位阑尾(X12);急性腹膜炎(X13);肠系膜淋巴结显影(X14);合并腹部外伤(X15);检查的配合度(X16)[5]。（赋值:0代表无，1代表有）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4 统计学处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "患者信息及赋值录入数据表，采用二分类非条件Logistic回归,通过统计软件包SPSS17.0对进行分析。分析过程如下：首先对上述15个影响因素进行单因素分析，为避免首轮遗漏假阴性因素，以 $P { > } 0 . 1 0$ 为剔除变量的标准，以 $\\textstyle P { \\leqslant } 0 . 0 5$ 为入选变量的标准并进入下一步的回归模型分析。回归模型选入方程内变量的方法采用\"基于偏最大似然估计的前进法\"(forwardLR)[4],最后以 $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1初步筛选结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "初筛以 $P { < } 0 . 0 5$ 判断界限,初步排除饱餐、肥胖、检查配合度3个因素对急性阑尾炎的超声诊断无显著性差异(均为 $P { > } 0 . 0 5$ ),剩余的13个因素进入后续的逐步回归分析(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/548ed8f285c6565682a046356f7e2aadd77d3340b80034f8d0136ba4541b5608.jpg",
+        "table_caption": [
+            "表1阑尾炎漏诊/误诊的因素初筛表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素(赋值)</td><td>分值</td><td>自由度</td><td>P</td></tr><tr><td>右下腹局部回声增强(1)</td><td>3.821</td><td>1</td><td>0.019</td></tr><tr><td>便秘(1)</td><td>0.387</td><td>1</td><td>0.796</td></tr><tr><td>肠气(1)</td><td>6.518</td><td>1</td><td>0.002</td></tr><tr><td>憩室炎(1)</td><td>1.928</td><td>1</td><td>0.036</td></tr><tr><td>回盲部管壁增厚(1)</td><td>1.274</td><td>1</td><td>0.069</td></tr><tr><td>高Alvarado评分(1)</td><td>0.134</td><td>1</td><td>0.127</td></tr><tr><td>右下腹积液(1)</td><td>5.282</td><td>1</td><td>0.006</td></tr><tr><td>肠蠕动过快(1)</td><td>0.035</td><td>1</td><td>0.834</td></tr><tr><td>是否小儿(1)</td><td>1.024</td><td>1</td><td>0.096</td></tr><tr><td>腹膜后位阑尾(1)</td><td>5.024</td><td>1</td><td>0.013</td></tr><tr><td>急性腹膜炎(1)</td><td>0.675</td><td>1</td><td>0.207</td></tr><tr><td>肠系膜淋巴结显影(1)</td><td>2.282</td><td>1</td><td>0.023</td></tr><tr><td>合并腹部外伤(1)</td><td>0.821</td><td>1</td><td>0.209</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 逐步回归 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经6步回归分析，大量肠气、右下腹积液、腹膜后位阑尾、右下腹局部回声增强是成人阑尾炎被超声误诊漏诊是主要原因，而肠系膜淋巴结显影及憩室炎是小儿阑尾炎误诊的主要因素(均 $P { = } 0 . 0 0 0$ ，且模型分类判对率超过 $8 5 \\%$ ，表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于阑尾的位置深在，且个人解剖变异大，加上部分患者早期症状不典型或合并其他系统症状而易发生误诊。此外,由于缺乏操作诊断经验,且受到气患者体型、临床表现等原因影响，超声医师诊断急性阑尾炎的准确度变化极大，其敏感度范围约 $4 4 \\% { \\sim } 1 0 0 \\%$ ，特异度范围 $4 7 \\% { \\sim } 9 9 \\%$ 。但在基层医院,以上数值属于偏下游的范围，故敏感度及特异度均不够理想。本研究发现，本院10年间的急性阑尾炎的首次诊断准确率为 $8 2 . 7 9 \\%$ (279/337)，与本市其他地区二级以上医院相当。在被漏诊及误诊的58例患者当中，小儿占 $2 7 . 5 8 \\% ( 1 6 / 5 8 )$ ，该比例较同级别单位稍高，故小儿腹部超声的诊断技能有待提高。因此，分析本单位的阑尾炎超声误诊资料具有显著的实用性及借鉴作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在可能导致超声漏诊或误诊急性阑尾炎的诸多因素中，笔者将其归纳为“临床、解剖、病理、超声\"4大因素，结合专业及统计学知识,并在大量复习文献的基础上，入选以下16个因素;其中临床因素包括饱餐、便秘、体型肥胖、是否小儿、合并腹部外伤、检查的配合度、高Alvarado评分共7个因素；解剖及病理因素包括：肠系膜淋巴结显影、腹膜后位阑尾、憩室炎、急性腹膜炎、肠蠕动过快5个因素；超声因素包括：右下腹局部回声增强、肠气、回盲部管壁增厚[9-10]右下腹积液4个因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在被误诊及漏诊的16例小儿案例当中，最常见的情形是由于肠系膜淋巴结的显影而漏诊阑尾炎(5例)，以及急性阑尾炎误诊为回末麦克尔憩室炎(4例)，以上对小儿急性阑尾炎的及时诊治不利，可能增加医疗风险,故应加强对小儿肠系膜淋巴结及憩室解剖的认识[]，尤其对于不同龄段憩室的好发部位等特点，应有更深入的了解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对成人而言，大量肠气、右下腹积液、腹膜后位阑尾、右下腹局部回声增强是成人阑尾炎被超声误诊漏诊是主要原因，常见的肠气情形主要有：老年女性(7例)，尤其是胃肠道功能紊乱者，以及部分餐后患者(尤其是饮用豆浆、牛奶等食物发病者)。右下腹积液见于5例肝硬化并发原发性腹膜炎、4例腹部术后患者及2例结核性腹膜炎。正常阑尾是腹膜内位器官，但腹膜后位急性阑尾炎并不少见；由于腹膜后位急性阑尾炎的阑尾在位置、走行和周围组织结构回声方面均与腹腔内阑尾存在着较大不同，故后位急性阑尾炎是误诊漏诊的主要原因。本研究发现后位阑尾除多位于后腹膜强回声界线后方，与后腹膜组织结构紧邻，且非加压深度 ${ > } 3 . 5 ~ \\mathrm { c m }$ 多存在后腹膜间隙脂肪组织炎症性强回声以及后腹膜下积液分离征象等，与毛建强等报道具有一致性。右下腹局部回声增强见于13例患者，分别是8例阑尾穿孔（导致周围网膜炎性粘连形成包块，超声不易找到管状的阑尾回声，代之以不均质回声包块)，3例卵巢巧克力囊肿及2例右半结肠癌，提示应该注意继发性腹膜炎、妇科疾病及肿瘤的鉴别诊断。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c248a58d126e9944c1fa7ff30f1ae376d84b8b0d815e8411df8f31363dfd075.jpg",
+        "table_caption": [
+            "表2逐步回归与入选变量表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">回归 步骤</td><td colspan=\"3\">模型改善情况检验</td><td colspan=\"3\">整个模型检验</td><td rowspan=\"2\">模型分类 判对率(%)</td><td rowspan=\"2\">入选模型 的变量</td></tr><tr><td></td><td>自由度</td><td>P</td><td>3</td><td>自由度</td><td>P</td></tr><tr><td>1</td><td>54.192</td><td>1</td><td>0.000</td><td>56.752</td><td>1</td><td>0.000</td><td>85.7%</td><td>憩室炎</td></tr><tr><td>2</td><td>47.981</td><td>1</td><td>0.000</td><td>69.116</td><td>2</td><td>0.000</td><td>88.3%</td><td>肠系膜淋巴结显影</td></tr><tr><td>3</td><td>41.283</td><td>1</td><td>0.000</td><td>102.571</td><td>3</td><td>0.000</td><td>91.2%</td><td>右下腹局部回声增强</td></tr><tr><td>4</td><td>36.927</td><td>1</td><td>0.000</td><td>135.832</td><td>4</td><td>0.000</td><td>93.7%</td><td>腹膜后位阑尾</td></tr><tr><td>5</td><td>30.273</td><td>1</td><td>0.000</td><td>156.118</td><td>5</td><td>0.000</td><td>95.2%</td><td>右下腹积液</td></tr><tr><td>6</td><td>16.385</td><td>1</td><td>0.000</td><td>174.924</td><td>6</td><td>0.000</td><td>96.8%</td><td>肠气</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过本研究笔者认为，右下腹回声增强及积液以及肠内气体干扰是导致超声误诊漏诊急性阑尾炎的主要原因，对于小儿急性右下腹痛应仔细鉴别其与肠系膜淋巴结炎及麦克尔憩室炎的鉴别。熟悉解剖并了解个体变异，并有机结合临床病史，是提高超声诊断急性阑尾炎的有效手段。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[1]Sanchez TR,Corwin MT,Davoodian A,et al. Sonography of ab dominal pain in children: appendicitis and its common mimics[J].J Ultrasound Med,2016,35(3): 627-35. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[2」刘建新，陈勇，赵珊珊,等.超声鉴别儿童穿孔与非穿孔性阑尾炎[J]中国医学影像技术，2014,30(7)：1050-3.  \n[3]张丽,包凌云,韩冰,等.Alvarado评分、超声及CT对急性阑尾炎的诊断策略分析[J].现代实用医学，2015,27(3):298-300,封3.  \n[4]丁姣姣,高军喜,孙艳,等.超声直接征象与间接征象诊断急性阑尾炎单因素及多因素分析[J].中国超声医学杂志,2014,30(8):719-22.  \n[5」官一平，朱鹏,朱代华,等.异位阑尾炎的临床诊治[J.重庆医科大学学报,2012,37(11):1008-10.  \n[6]胡峰,邵飞，黄伟强.超声与改良Alvarado评分对老年人急性阑尾炎的诊断价值[J].上海交通大学学报：医学版，2014,34(6)：939-42.  \n[7]郭奇虹,黎练达,吴智鑫,等.Alvarado评分结合B超检查对社区急性阑尾炎的诊断价值[J].中国全科医学,2010,13(32):3694-6.  \n[8]吴芳,崔凤荣,芦桂林,等.急性阑尾炎的超声征象与病理分型之间的关系研究[J].中国全科医学，2013,16(33):3998-4000.  \n[9]王文利，林礼务,王姝,等.超声显示阑尾盲端在诊断急性阑尾炎中的价值[J].中华超声影像学杂志,2015,24(12):1084-5.  \n[10]张魁，俞子东，吕银祥,等.超声间接征象对急性阑尾炎的诊断价值研究[J].中国超声医学杂志,2012,28(3):281-3.  \n[11]汪海燕.高频超声对小儿正常阑尾及急性阑尾炎诊断的应用价值[J].国际儿科学杂志，2013，40(5)：538-40  \n[12]毛建强,邢旭峰,金兰萍,等.超声在腹膜后位急性阑尾炎诊断中的应用价值[J].中华超声影像学杂志,2013,22(2):182-3.",
+        "page_idx": 2
+    }
+]

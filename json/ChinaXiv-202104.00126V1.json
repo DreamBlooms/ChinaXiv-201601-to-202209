@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "1960一2019年黄河源区气候变化时空规律研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘彩红'，王朋岭²，温婷婷¹，余迪¹，白文蓉1(1.青海省气候中心，青海 西宁 810001；2.国家气候中心,北京100001)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：黄河源区是气候变化敏感区及生态环境脆弱区,也是黄河的主要产流区,其气候变化问题备受关注。利用黄河源区均一化气温和降水观测数据，系统分析了近60a黄河源区平均气候与极端气候事件的变化特征。结果表明：1960—2019年黄河源区年平均气温、平均最高及最低气温表现出增温趋势的一致性，且源区东部增温幅度高于西部；黄河源区年均气温在2000年前后发生突变转折，转折后升温速率达 $0 . 6 1 \\ \\mathrm { \\mathcal { C } } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，高于1960—2019年的增温率 $0 . 3 7 \\ \\mathrm { \\mathcal { C } } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。1960—2019年黄河源区年降水量总体呈微弱增加趋势 $\\bar { 7 } . 6 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } \\mathrm { ] } ,$ 2003年后进入降水偏多阶段，近10a(2010—2019年)源区平均年降水量达到 $6 1 0 ~ \\mathrm { m m }$ ;春、夏、冬季降水增多，秋季降水减少;其中源区东部夏、秋季降水减少明显,阶段性干旱风险加剧。近10a源区平均气温、降水量均为60a来最高值，总体处于最暖湿阶段。受持续暖湿化影响,1960—2019年黄河源区平均极端气温阈值呈显著的增大趋势，而霜冻日数减少;年最大3日降水量和强降水日数增多,降水强度增大，其中尤以夏季最为显著,对源区生态保护和水资源利用乃至黄河全流域高质量发展均可能带来风险挑战。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：黄河源区；气候变化；极端事件；暖湿化；时空格局",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "被誉为“中华水塔”的三江源地处青藏高原腹地，是我国重要生态安全屏障，也是亚洲最重要的生态安全屏障和全球气候环境变化敏感区之一[1]。黄河源区是三江源的重要组成部分，系黄河十流唐乃亥水文站以上的汇水区域，有着独特的自然生态系统和丰富的自然资源，为高原大陆性气候区和黄河的主要产流区[2]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，黄河源区气候变化问题受到众多学者、各级政府的广泛关注，并展开了一系列研究，郝振纯等3分析表明，1954—2007年黄河源区总体呈升温趋势，速率为 $0 . 3 1 \\ \\mathrm { { ^ circ C } \\cdot ( 1 0 \\mathrm { { a } ) ^ { - 1 } } }$ ,其中玛沁升温幅度最大，而河南县气温降幅最大;杨昭明等4采用青海境内代表性气象站点研究得出，1961—2017年黄河源区年平均最高气温先上升后趋于稳定，而年平均最低气温升温速率2008年后有所降低。年降水量总体微弱增加5，年最大5日降水量和年无降水日数西部减小、东部增大[6]。年降水量和年均气温的变化周期及相位都具有很好的一致性，基本上都存 $7 \\sim 1 1$ a $, 3 \\sim 5$ a等时间尺度的周期[7]。近年来以增暖为主要特征的气候变化已经对黄河源区水资源及生态系统产生了显著影响，总体呈现出冻土环境退化[8-9],冰川退缩[10]、植被覆盖整体缓慢升高[11-13]、河流径流总体呈下降趋势[14-15],湖泊显著扩张、数量增多的趋势[16-17],而在未来气候持续变暖情景下，黄河源区潜在的生态风险将持续加剧[18]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "可以看出，以往黄河源区的研究取得了一些有意义的结论，但多数研究成果主要集中在气候变化产生的影响，针对黄河源区气候变化观测事实的研究相对较少，且多数研究中以个别站点代表源区，或未考虑迁站等非均一性因素对观测资料的影响，致使研究成果存在差异和矛盾，不能客观准确的反映黄河源区气候变化时空格局及时间动态变化特征。为此，本文基于研究区均一化气温和降水观测资料，系统分析近60a黄河源区平均气候与极端气候事件变化特征，全面认识区域气候变化的基本事实，尤其本世纪初以来的阶段新特征，以期为保护“黄河水塔”及黄河流域高质量发展系列工程的实施提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "黄河源区是黄河中上游的主要产流区[19],位于青藏高原东北部 $9 5 ^ { \\circ } 5 0 ^ { \\prime } \\sim 1 0 3 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E } , 3 2 ^ { \\circ } 1 2 ^ { \\prime } \\sim 3 6 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { N }$ (图1)，以青海省玛多县和曲麻莱县为源头，唐乃亥水文站为源区出口，流经四川、青海和甘肃三省，海拔高度在 $2 7 0 6 \\sim 6 2 4 8 \\mathrm { ~ m ~ }$ ，属于高原亚寒带半湿润-半干旱大陆性季风气候[20]。黄河源区是黄河流域重要的水资源形成区，源区流域面积 $1 2 . 2 { \\times } 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 }$ 占黄河流域面积( $( 7 5 . 2 \\times 1 0 ^ { 4 } ~ \\mathrm { k m } ^ { 2 } )$ 的 $1 6 . 2 \\% ^ { [ 2 1 ] }$ ,多年平均天然径流量为 $2 0 5 . 2 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 }$ ，占黄河流域总径流量（利津水文站， $5 8 0 . 0 { \\times } 1 0 ^ { 8 } \\mathrm { m } ^ { 3 } ,$ 的 $4 0 \\% ^ { [ 2 2 ] }$ 。源区内水网发达、支流众多，积雪、冰川、草原、湖泊广布，亦有大面积多年冻土与季节性冻土发育。高寒地貌景观与气候环境使其具有独具特色的水资源系统[21],",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "96°E 97E 98E 99E 100°E 101°E 102°E 103E   \nN9g + 390 同德   \n320 多 全库 350 河南   \nN00 气象站点 达甘 天 玛曲若尔盖 2000   \n300 海拔高/ 大治 红原 33 6253   \n22 2706 60 km 220 96°E 97E 98E 99°E 100E101E102°E103E ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "是黄河上游最重要的水资源涵养区，直接影响着黄河中下游的供水安全。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "均一化的长时间序列观测数据是气候变化研究的基础，对真实、准确评估区域气候和极端事件变化至关重要。黄河源区有玛多、玛沁、达日、久治、同德、河南、泽库、甘德、玛曲、若尔盖和红原共11个国家气象站(图1),从国家气象信息中心(http://data.cma.cn/)获取黄河源区1960—2019年气温和降水观测数据[23-24]。近60a黄河源区共有2个气象站出现迁站，其中，同德2001年由马场( $3 2 8 9 . 4 \\mathrm { ~ m } \\rangle$ 迁站至同德县城 $\\left( 3 1 4 8 . 2 \\mathrm { ~ m } \\right)$ )，海拔落差 $1 4 1 . 2 \\mathrm { ~ m ~ }$ ；河南站1981年由柯生乡 $( 3 4 1 4 . 1 \\ \\mathrm { m } )$ 迁站至河南县城0 $3 5 0 0 . 0 \\mathrm { ~ m } ,$ )，海拔落差 $8 5 . 9 \\mathrm { ~ m ~ }$ ,均一化订正前后两站年平均气温序列对比见图2。极端气候指标采用了STARDEX项目“欧洲地区极端事件统计和区域动力降尺度”25]的发展基于逐日气温和降水量观测资料的极端指数，主要选取10个核心指数来分析极端气温、降水强度及频率的变化(表1)。季节划分：3—5月为春季，6—8月为夏季，9—11月为秋季，12月至翌年2月为冬季。气候要素变化特征与趋势的分析计算主要采用气候趋势分析、Man-Kendall突变检验和显著性检验等方法[26]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1黄河源区气温变化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 黄河源区平均气温长期变化与阶段特征气温作为最核心的基本气候要素，其变化通过影响冰川、积雪与冻土融化及蒸发、下渗进而对区域径流产生影响[27]。1960—2019年黄河源区年平均气温呈显著上升趋势，升温速率为 $0 . 3 7 ~ \\mathrm { ^ { \\circ } C } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，且通过0.001的显著性检验。从四季平均气温的变化来看，黄河源区春、夏、秋、冬四季呈一致增暖的趋势，升温速率依次为 $0 . 2 8 \\textrm { , } 0 . 3 5 \\textrm { , } 0 . 4 1 \\textrm { \\textit { \\circ } C } \\cdot ( 1 0 \\mathrm { { a } ) } ^ { - 1 }$ 和$0 . 5 6 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 a ) ^ { - 1 } }$ ,以冬季升温最为显著,其中2月升温速率最高，达到 $0 . 5 9 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 a ) ^ { - 1 } }$ 。近 $6 0 \\mathrm { ~ a ~ }$ 来,黄河源区年平均气温存在明显的年代际变化，1960s—2010s平均气温逐年代上升（图 $3 \\mathrm { a }$ )，M-K检验显示，源区年平均气温在2000年发生突变，突变后升温速率达到 $0 . 6 1 ~ \\mathrm { ^ { \\circ } C } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ （图 $\\mathrm { 4 a }$ ），为突变前的2.7倍。2010—2019年源区平均气温达 $1 . 1 5 ~ \\mathrm { ^ { \\circ } C }$ ,较前一年代(2000—2009年)上升 $0 . 5 6 ^ { \\circ } \\mathrm { { C } }$ ,为1960s以来最暖，且年代际增温幅度最大。1960—2019年黄河源区年平均最高气温、最低气温的变化趋势与年平均气温相似，升温率分别为 $0 . 2 5 , 0 . 4 8 ~ \\mathrm { { \\sc ~ C } } \\cdot ( 1 0 \\mathrm { { a } } ) ^ { - 1 }$ ,均通过了0.001显著性水平，表现出增温的不对称性(图4b，4c），这与刘光生[]、李林等[28]的研究结论相吻合。近 $6 0 \\mathrm { ~ a ~ }$ 年平均最高、最低气温均在1998年发生突变,突变时间略微早于年平均气温，突变前后平均最低气温升温幅度均高于最高气温。近10a(2010—2019年)黄河源区平均最低气温表现出急剧增温，较前一年代上升幅度高达到 $0 . 8 1 ~ \\mathrm { { ^ { \\circ } C } }$ （图3b)。而从季节尺度来看，源区冬季极端气温升温最为显著，冬季平均最高及最低气温升温率分别达到 $0 . 4 0 \\ 、 0 . 7 1 \\ \\mathrm { { ^ { c } } { \\cdot } ( 1 0 a ) ^ { - 1 } } ,$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2f702f72f0fe7a79bf771f8b8b9da1bb8eff9d6ca5eed62dfbcba6896947f32.jpg",
+        "img_caption": [
+            "图1黄河源区气象站点分布",
+            "Fig.1 Distribution of meteorological stations in the Yellow River source area ",
+            "图2 1960—2019年同德站(a)和河南站(b)年平均气温均一化前后对比",
+            "Fig.2Raw and homogenized time series of the annual average surface air temperature at Tongde Station (a) and Henan Station (b) from 1960 to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b75e4f37dde40b38d34f15911c682cad44e4a453122e1a5dc3dffbac0554d2b8.jpg",
+        "table_caption": [
+            "表1极端气候指标",
+            "Tab.1 The definition of extreme climate index "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>极端气候指标</td><td>含义</td></tr><tr><td>气温 暖日阈值/℃</td><td>日最高气温的第90%分位值</td></tr><tr><td>冷日阈值/℃</td><td>日最高气温的第10%分位值</td></tr><tr><td>暖夜阈值/℃</td><td>日最低气温的第90%分位值</td></tr><tr><td>冷夜阈值/℃</td><td>日最低气温小于10%分位值</td></tr><tr><td>霜冻日数/d</td><td>年内日最低温度低于0℃的天数</td></tr><tr><td>降水持续干期/d</td><td>日降水量小于1mm的最大持续日数</td></tr><tr><td>持续湿期/d</td><td>日降水量大于1mm的最大持续日数</td></tr><tr><td>最大3日 降水量/mm</td><td>最大连续3日总降水量</td></tr><tr><td>强降水日数/mm</td><td>日降水量大于有雨日90%分位值降</td></tr><tr><td></td><td>水量的日数 降水强度/(mm·d）有雨日降水量与有雨日数的比值</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 黄河源区气温变化趋势的空间格局从空间分布来看（图 $5 \\mathrm { a }$ ),1961—2019年黄河源区各地年平均气温上升速率在 $0 . 3 2 \\sim 0 . 4 6 ~ \\mathrm { { ^ { \\circ } C } \\cdot ( 1 0 a ) ^ { - 1 } }$ ，东部升温幅度高于西部,其中泽库、达日、久治及玛曲增温速率均在 $0 . 4 0 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 a ) ^ { - 1 } }$ 以上,河南站年平均气温上升速率最大为 $0 . 4 6 ~ \\mathrm { { ^ circ C } \\cdot ( 1 0 a ) ^ { - 1 } }$ 。近60a各地年平均最高气温普遍升高(图5b)，除达日外[升温速率$0 . 5 7 ~ \\mathrm { \\textdegree C } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } ]$ ，大部分地区升温速率为 $0 . 2 1 \\sim$ $0 . 3 1 \\ \\mathrm { { ^ circ C } \\cdot ( 1 0 \\mathrm { { a } ) ^ { - 1 } } }$ 。年平均最低气温变化趋势的空间分布与平均气温较为相似，总体呈东高西低分布（图5c)，其中，达日升温率最小，玛曲升温率最大。在季节尺度上，各站在四季均表现出一致的气温升高趋势，其中冬季最低气温升温幅度最大，共有7个气象站冬季升温速率超过 $0 . 7 0 ^ { \\circ } \\mathrm { C } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。上述分析表明,黄河源区各站点年平均气温、平均最高气温和平均最低气温均呈总体一致升高趋势,年平均最低气温明显高于年平均气温和年平均最高气温的升温率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2黄河源区降水变化",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1黄河源区降水变化大气降水是黄河源区水资源的重要补给来源[29]。1960—2019年黄河源区多年平均降水量为 $5 6 4 . 9 \\ \\mathrm { m m }$ ,区域平均年降水量总体呈现出微弱增加趋势,平均每10a增加 $7 . 6 ~ \\mathrm { m m }$ ，但未通过显著性检验(图6a)。从区域平均年降水量序列的多项式拟合曲线可以看出，降水年代际波动明显，20世纪60年代为少雨期，70年代到80年代中期降水增加，80年代末至本世纪初为降水偏少;2003年以来黄河源区降水波动增加（图6b），2003—",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 (a) 1.0 (b)864202 0.8/ 0.60.44 0.28 限 0.0-10 -0.21960s 1970s 1980s 1990s 2000s 2010s 1960s 1970s1980s 1990s 2000s 2010s  \n■平均气温 -0.72 -0.47 -0.29 -0.08 0.59 1.15 ■平均气温 0.00 0.25 0.18 0.21 0.51 0.56  \n□最高气温 8.01 7.92 7.80 8.04 8.85 9.13 □最高气温 0.00 0.09 -0.12 0.24 0.81 0.28  \n□最低气温-7.64 -6.95 -6.59 -6.48 -5.85 -5.04 □最低气温 0.00 0.69 0.36 0.11 0.63 0.81",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Inter-decadal variation of temperature of Yelow River source area from 1960 to 2019 (a)andits magnitude (b) ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b5f4aa55019803f123f46024704e526e85fbc25a27df2df64031008ee1b0cf13.jpg",
+        "img_caption": [
+            "图41960—2019年黄河源区年平均气温(a)、平均最高(b)及最低气温(c)变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/92282b17a73903ed9fa5d863704a20c374be6609f281eb6339dcd4efc0994281.jpg",
+        "img_caption": [
+            "图51960—2019年黄河源区年平均气温(a)、平均最高(b)及最低气温(c)变化速率空间分布",
+            "Fig.5Spatial distribution of the annual average temperature (a),average maximum(b),and minimum temperature (c) of the Yellow River source area from 196O to 2019 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2019年区域平均降水量较1960—2002年偏多$8 . 7 \\%$ ,其中近 $1 0 \\mathrm { ~ a ~ }$ 源区平均年降水量达到 $6 1 0 ~ \\mathrm { m m }$ ，较1960s、1970s、1980s、1990s及2000s分别偏多$1 0 . 0 \\% \\ 、 9 . 9 \\% \\ 、 4 . 8 \\% \\ 、 1 3 . 5 \\%$ 和 $1 0 . 9 \\%$ ，处于近60a来的降水相对最为丰沛的阶段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从黄河源区季节降水量变化来看，四季降水变化趋势不相一致：春、夏、冬季降水量呈增加趋势，平均每10a分别增加 $4 . 7 , 1 . 5 \\ : \\mathrm { m m }$ 和 $1 . 2 \\ \\mathrm { m m }$ ,其中以春季增加最为显著，并通过0.001的显著性水平检验；而秋季降水呈微弱减少趋势，平均每 $1 0 \\mathrm { ~ a ~ }$ 减少$0 . 5 \\mathrm { m m }$ 。上述黄河源区降水量变化存在明显的季节性差异，与三江源区降水的变化特征基本一致[30]需要指出的是，近10a(2010—2019年)黄河源区春季降水量持续偏多，平均降水量较历年均值偏多$2 0 . 7 \\%$ ，对源区河流流量的贡献不容忽视。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9429a67480fa8708036d15e7375ad3329da9ff63ceb5e1b05ea9d53e2aa04029.jpg",
+        "img_caption": [
+            "Fig.4Trends of annual average temperature(a),average maximum(b) and minimum temperature(c) ofYellow River source area from 1960 to 2019 ",
+            "图61960—2019年黄河源区年降水量变化(a)及其差积曲线(b) Fig.6Variation of annual precipitation of Yellow River source area from 1960 to 2019 (a) and its differential product curve (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.2黄河源区降水变化的空间格局从空间分布来看，近60a源区年降水量变化趋势区域间差异明显(图 $7 \\mathrm { a }$ ),东部地区降水变化幅度小于西部，位于源区中、西部的同德、泽库、玛多、达日降水增多最为显著,增加速率 $1 2 . 7 \\sim 1 6 . 8 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,其中玛多增加速率最大;河南站年降水量呈减少趋势，平均减少 $7 . 2 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ;而其余地区年降水量增加速率为 $0 . 1 \\sim 6 . 8 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } \\$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "黄河源区降水量季节分配不匀，春、夏、秋和冬季降水量分别占年降水量的 $1 9 . 4 \\% . 5 4 . 5 \\% . 2 3 . 8 \\%$ 和$2 . 3 \\%$ 。，近 $6 0 \\mathrm { ~ a ~ }$ 源区季节降水变化不尽相同：春季各地降水表现为一致性的增多趋势，增加速率为 $0 . 7 \\sim$ $8 . 3 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ;其中,达日增加最为明显(图7)。在夏季，位于东部的河南、久治及红原降水呈减少趋势,分别减少 $6 . 8 \\ 、 6 . 1 \\ 、 0 . 9 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,其他地区均呈增加趋势，以玛多增加最为明显，增加速率为7.9$\\mathrm { m } \\mathrm { m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。在秋季，源区东南部(黄河主要产流区)降水呈略微减少趋势,减少 $1 . 6 \\sim 4 . 0 \\ : \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 其中，玛曲减少最明显，而其他地区秋季降水增多，增加速率为 $0 . 1 \\sim 4 . 7 \\ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } .$ ，以泽库增幅最大。冬季与春季相似，各地降水呈一致性增多趋势，甘德和若尔盖冬季降水增多最为显著，增加速率均为$1 . 8 \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3黄河源区极端事件变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气候变暖直接影响着极端气候的变化，而极端天气气候事件的微小变化可能会使青藏高原脆弱的生态系统发生一系列变化[31]。近年来，国内外学者对高原地区极端气候研究表明，过去50a青藏高原极端低温事件呈减小趋势，极端暖事件更加频繁,强降水和洪涝灾害出现的频率增大[30-32],且预估结论显示21世纪该趋势将持续[33-34]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表2可以看出，近60a来在源区气候暖湿化背景下，黄河源区极端气温指标均发生了显著变化。1960—2019年源区年平均暖夜阈值、暖日阈值、冷夜阈值和冷日阈值呈显著的增大趋势，其中冷夜阈值增加最为显著，增加速率达到 $0 . 9 2 ~ \\mathrm { ^ { \\circ } C }$ .$( 1 0 \\mathrm { a } ) ^ { - 1 }$ ;四季极端气温阈值亦呈一致增大趋势，其中",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0ac8b16c85f1a405ede89559d4dfbc6ce5f25e6d4b24273583f34b16ea3d7ea.jpg",
+        "img_caption": [
+            "图71960—2019年年降水量(a)及春(b)夏(c)秋(d)、冬季(e)降水量变化趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Spatialdistributioofal(a),spring(b),summe(c),utum(d),ndwiter(e)precipitatiotrendsfro6t19 ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6927f6c9586911d566b63903a4ddc66107a2dc9677574d9916e2391fd181d2c6.jpg",
+        "table_caption": [
+            "表21960—2019年黄河源区极端指标变化",
+            "Tab.2Variability of extremeclimate indices in the source regionof the Yelow River from1960 to 2019 "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示通过 $P { < } 0 . 0 5$ 显著性检验水平。"
+        ],
+        "table_body": "<html><body><table><tr><td>极端气温指标</td><td>变化速率</td><td>极端降水指标</td><td>变化速率</td></tr><tr><td>暖夜阈值[C·(10a)]</td><td>0.37**</td><td>持续干期[d·(10a)1]</td><td>-0.568</td></tr><tr><td>暖日阈值[℃C·（10a)]</td><td>0.269**</td><td>持续湿期[d·(10a)]</td><td>-0.578</td></tr><tr><td>冷夜阈值[C·(10a)-]</td><td>0.917**</td><td>最大3日降水量/[mm·（10a)-1]</td><td>0.449**</td></tr><tr><td>冷日阈值[C·(10a)]</td><td>0.478**</td><td>强降水日数/[d·(10a)]</td><td>0.158</td></tr><tr><td>霜冻日数/[d·（10a)-]</td><td>-8.479**</td><td>降水强度/[mm·d·(10a)-]</td><td>0.059**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "秋、冬季增幅大于春、夏两季。近60a源区年霜冻日数显著减少，减少速率为 $8 . 5 ~ \\mathrm { d } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ,通过0.05的显著性检验，这与三江源地区极端气温事件的变化规律相一致[35]。与极端气温相比,极端降水指标在年和季节尺度上的变化存在明显差异，其中持续干期和持续湿期均呈减少趋势，分别减少 $0 . 5 7 , 0 . 5 8 \\mathrm { d }$ ·$( 1 0 \\mathrm { a } ) ^ { - 1 }$ ，表明近60a来源区降水的年内振荡变率增大。最大3日降水量和强降水日数增多，降水强度呈显著增大的趋势，对于源区年降水量的增加有着明显的作用。值得关注的是，四季中以夏季降水强度和强降水日数增加最为明显(表略)，暴雨次数增多，由于黄河源区极端降水事件的增多和降水不稳定性增大，对三江源国家公园建设、源区生态环境保护和水资源利用乃至黄河全流域高质量发展均可能带来安全风险挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近60a黄河源区呈一致性的显著升温趋势，并表现出升温季节的不对称性，冬季升温幅度明显高于夏季，且源区整体升温率明显高于同期全球与全国平均升温水平[36]。进入21世纪后黄河源区升温加剧，近10a源区处于最为温暖且快速升温阶段。与前期已有黄河源区气温变化评估结论相比[37-39]总体相符，但从区域变化特征来看，源区东北部（如河南站)重新估算升温速率明显高于已发表结果，其差别除研究分析时段略有不同外，均一化气温资料的使用也是重要原因。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文对黄河源区降水长期变化及其时空格局分析表明，20世纪60年代以来，黄河源区降水量总体增加，且区域间及季节差异性突出。前述黄河源区降水增多趋势[40],与全球变暖背景下我国西北地区及欧亚大陆中纬度地区更大空间尺度上的暖湿化趋势相一致41，说明其并非局地现象。而对于源区降水变化时空差异性和复杂性，除源区独特的地理环境外，研究表明源区降水变化与西风环流增强和赤道太平洋海表温度年际变率(ENSO)密切相关[28.42-43],同时降水增多可能主要源自水汽平流输送44和地表潜热通量下降45的贡献，降水强度也随之发生了变化[46]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作为对全球气候变暖加速的响应[47],2010—2019年黄河源区处于近60a有观测记录以来的最暖湿阶段。李林等[28研究表明，自2006年以来青藏高原出现了增暖趋缓的迹象，并且气候变湿滞后于变暖。本文通过综合分析近60a黄河源区气温和降水变化，20世纪末以来源区呈加速升温趋势，并未出现增暖趋缓现象[48]。同时,21世纪初以来，源区降水整体波动增加，尤其是近 $1 0 \\mathrm { ~ a ~ }$ 气温和降水变化具有同步性，气候暖湿化趋势尤为显著。此外，伴随黄河源区暖湿化趋势持续，极端气温和降水事件趋多、趋强，尽管21世纪以来气温升高冰雪融水补给及降水增加，,但黄河源区河川径流量减少[49],源区多年冻土退化，典型冰川表面高程均有所下降，湖泊漫溢、冰崩等生态灾害事件频发，已对源区生态修复与环境保护及可持续发展带来安全风险。气候变化是极为复杂的问题，本文仅从长时间序列、均一化台站观测资料来重新分析黄河源区气温和降水变化基本特征，尤其是近10a区域气候变化事实，然而对于黄河源区蒸散发等其他气候要素的协同变化、其成因机制及未来黄河源区气候变化对区域及下游水文水资源和冰冻圈服务功能50可能产生的影响还需进一步加强系列观测与研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于均一化气温和降水数据对黄河源区近60a平均气候与极端气候事件变化开展全面分析,得出以下主要结论：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）1960—2019年黄河源区年和季节平均气温、最高气温和最低气温均呈显著升高趋势，以年平均最低气温的升幅最大，冬季升温幅度最为明显，源区东部地区增幅总体大于西部地区；且2000年以来，黄河源区升温加速，近10a黄河源区处于20世纪60年代以来最为温暖的阶段。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）1960—2019年黄河源区年降水量总体呈增加趋势，春、夏、冬季降水增多，而秋季表现出微弱减少趋势；降水变化区域间差异明显，同德、泽库、玛多、达日降水增多最为明显。冬、春季各地降水呈一致性增多趋势，夏、秋季源区西部降水增多，而东部呈明显减少趋势，阶段性干旱风险加大。近10a,黄河源区平均年降水量达到 $6 1 0 ~ \\mathrm { m m }$ ，为20世纪60年代以来降水最多的 $1 0 \\mathrm { ~ a ~ }$ ，区域气候暖湿化趋势加剧。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）1960—2019年黄河源区平均暖夜阈值、暖日阈值、冷夜阈值、冷日阈值呈显著的增大趋势，而霜冻日数呈显著减少趋势;年最大3日降水量和强降水日数增多，降水强度增大，其中尤以夏季降水强度和强降水日数增加最为明显，暴雨频次增多。在气候暖湿化背景下，黄河源区极端气候事件频率和强度增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]姚檀栋,邬光剑,徐柏青,等.“亚洲水塔\"变化与影响[J].中国科 学院院刊,2019,34(11):1203-1209.[Yao Tandong,Wu Guangjian,Xu Boqing,et al.Asian water tower change and its impacts[J]. Bulletinof the Chinese Academy of Sciences,2019,34 (11): 1203- 1209.]   \n[2] 李霞,高艳红,王婉昭,等.黄河源区气候变化与GLDAS 数据 适用性评估[J].地球科学进展,2014,29(4):531-540.[Li Xia, Gao Yanhong,Wang Wanzhao,et al. Climate changes and applicability ofGLDAS in the headwater of the Yellow River Basin[J].Advances in Earth Science,2014,29(4): 531-540.]   \n[3]郝振纯,王加虎,李丽,等.气候变化对黄河源区水资源的影响 [J].冰川冻土,2006,28(1):1-7.[Hao Zhenchun,Wang Jiahu,Li Li,et al.Impact of climate change on water resources in the source region of the Yellow River[J].Journal of Glaciology and Geocryology,2006,28(1): 1-7.]   \n[4] 杨昭明,白文蓉,时兴合,等.黄河源区气温变化特征及预估分 析[J].冰川冻土,2019,41(4):818-827.[Yang Zhaoming,Bai Wenrong,Shi Xinghe,et al.Variation featuresand prediction of air temperature in the source regions of the Yellow River[J].Journal of Glaciology and Geocryology,2019,41(4): 818-827.]   \n[5]马莲,卢素锦,司剑华,等.黄河源区1961-2017降水序列趋势 及突变识别[J].四川农业大学学报,2019,37(6):842-851.[Ma Lian,Lu Sujin,Si Jianhua,et al. Trends and sudden change identification of precipitation series in the source region of the Yellow River from 1961 to 2017[J]. Journal of Sichuan Agricultural University,2019,37(6): 842-851.]   \n[6]乔士娇,袁飞,王妍.黄河源区近50a极端气候变化趋势分析 [J].人民黄河,2015,37(5):20-23.[Qiao Shijiao, YuanFei, Wang Yan. Analysis of extreme climate change trends in the source area of the YellowRiver in the past 5O years[J].Yellow River,2015,37 (5): 20-23.]   \n[7]刘光生,王根绪,胡宏昌,等.长江黄河源区近45年气候变化特 征分析[J].资源科学,2010,32(8): 1486-1492.[Liu Guangsheng, Wang Genxu, Hu Hongchang,et al. Analysis of climate change in the source regions of the Yangtze River and the Yellow River in recent 45 years[J]. Resource Science,2010,32(8): 1486-1492.]   \n[8]马帅,盛煜,曹伟,等.黄河源区多年冻土空间分布变化特征数 值模拟[J].地理学报,2017,72(9):1621-1633.[Ma Shuai, Sheng Yu,Cao Wei, et al.Numerical simulation of spatial distribution of permafrost in the source region of the Yellow River[J]. Acta Geographica Sinica,2017,72(9): 1621-1633.]   \n[9]罗栋梁,金会军,吕兰芝,等.黄河源区多年冻土活动层和季节 冻土冻融过程时空特征[J].科学通报,2014,59(14):1327- 1336.[Luo Dongliang,Jin Huijun,Lyu Lanzhi,etal. Temporal and spatial characteristics of permafrost active layer and seasonal frozen soil in the source region of the Yellow River[J]. Chinese Science Bulletin,2014,59(14): 1327-1336.]   \n[10] 蒋宗立,刘时银,郭万钦,等.黄河源区阿尼玛卿山典型冰川表 面高程近期变化[J].冰川冻土,2018,40(2):231-237.[Jiang Zongli,Liu Shiying, Guo Wanqin,et al. Recent surface elevation changes of three representative glaciers in Anyemaqen Mountains, source regionof YellowRiver[J]. Journal of Glaciologyand Geocryology,2018,40(2): 231-237.]   \n[11] 马守存,保广裕,郭广,等.1982-2013年黄河源区植被变化趋 势及其对气候变化的响应[J].干旱气象,2018,36(2):226-233. [Ma Shoucun,Bao Guangyu, Guo Guang,et al. Change trend of vegetation and its responses to climate change in the source region of the Yellow River[J].Journal of Arid Meteorology,2018,36(2): 226-233.]   \n[12] 康悦,李振朝,田辉,等.黄河源区植被变化趋势及其对气候变 化的响应过程研究[J].气候与环境研究,2011,16(4):505-512. [ Kang Yue,Li Zhenchao,Tian Hui, etal.Trend of vegetation evaluation and its responses to climate change over the source region of the Yellow River[J].Climatic and Environmental Research, 2011, 16(4): 505-512. ]   \n[13]史丹丹,杨涛,胡金明,等.基于NDVI的黄河源区生长季植被 时空变化及其与气候因子的关系[J]).山地学报,2018,36(2): 184-193.[Shi Dandan,Yang Tao,Hu Jinming,et al. Temporal and spatial changes of vegetation in the growing season of the source region of the Yellow River based on NDVI and its relationship with climate factors[J]. Journal of Mountain Science,2018,36 (2): 184-193.]   \n[14] 王道席,田世民,蒋思齐,等.黄河源区径流演变研究进展[J].人 民黄河,2020,42(9): 90-95.[Wang Daoxi,Tian Shimin,Jiang Siqi,et al. Research progress of the evolution of runoff in the source area of the Yellow River[J].Yellow River,202O,42(9): 90- 95.]   \n[15] 郑子彦,吕美霞,马柱国.黄河源区气候水文和植被覆盖变化及 面临问题的对策建议[J].中国科学院院刊,2020,35(1):61-72. [Zheng Ziyan,Lyu Meixia,Ma Zhuguo. Climate,hydrology，and vegetation coverage changes in source region of Yellw River and countermeasures for challenges[J]. Bulletin of the Chinese Academy of Sciences,2020,35(1): 61-72.]   \n[16]段水强,范世雄,曹广超,等.1976—2014年黄河源区湖泊变化 特征及成因分析[J].冰川冻土,2015,37(3):745-756.[Duan Shuiqiang,Fan Shixiong, Cao Guangchao,et al. The changing features and cause analysis of the lakes in the source regions of the YellowRiverfrom1976 to2014[J].Journalof Glaciologyand Geocryology,2015,37(3): 745-56.]   \n[17] 李林,吴素霞,朱西德,等.21世纪以来黄河源区高原湖泊群对 气候变化的响应[J].自然资源学报,2008,23(2):245-254.[Li Lin, Wu Suxia,Zhu Xide,et al. Response of plateau lakes in the source region of the Yellw River to climate change since the 21st Century[J]. Journal of Natural Resources,2008,23(2): 245-254.]   \n[18] 王莺,李耀辉,孙旭映.气候变化对黄河源区生态环境的影响 [J].草业科学,2015,32(4): 539-551.[Wang Ying,Li Yaohui, Sun Xuying. Impact of climate change on the eco-environment in the Yellow River Source[J].Pratacultural Science,2O15,32(4): 539-551.]   \n[19] 刘希胜,李其江,段水强,等.黄河源径流演变特征及其对降水 的响应[J].中国沙漠,2016,36(6):1721-1730.[Liu Xisheng,Li Qijiang，Duan Shuiqiang,et al.Evolution of the Yellow River Source runoff and its response to precipitation[J]. Journal of Desert Research,2016,36(6): 1721-1730.]   \n[20] 朱丽,刘蓉,王欣,等.基于FLEXPART模式对黄河源区盛夏降 水异常的水汽源地及输送特征研究[J].高原气象，2019,38(3): 484-496.[Zhu Li, Liu Rong,Wang Xin,et al. The characteristics of the water vapor transport and associated sources under abnormal precipitation conditions in the source region of the Yellow River using FLEXPAR[J]. Plateau Meteorology,2019,38(3): 484- 496.]   \n[21]牛玉国,张学成.黄河源区水文水资源情势变化及其成因初析 [J].人民黄河,2005,27(3): 31-33.[Niu Yuguo,Zhang Xuecheng. Preliminary analysis on variations of hydrologicand water resources regime and its genesis of the Yelow River source region[J]. Yellow River,2005,27(3): 31-33.]   \n[22] 蓝永超,鲁承阳,喇承芳,等.黄河源区气候向暖湿转变的观测 事实及其水文响应[J].冰川冻土,2013,35(4):920-928.[Lan Yongchao,Lu Chengyang,La Chenfang,etal. The fact to climate shift to warm-humid in the source regions of the Yellow River and its hydrologicresponse[J]. Journal of GlaciologyandGeocryology, 2013,35(4): 920-928.]   \n[23]曹丽娟,严中伟.地面气候资料均一性研究进展[J].气候变化研 究进展,2011,7(2):129-135.[Cao Lijuan,Yan Zhongwei.Progress in research of homogenization of climate data[J].Advances in Climate Change Research,2011, 7(2): 129-135.]   \n[24] Cao L J, Zhu Y N,Tang G L,et al. Climatic warming in China according to a homogenized data set from 2419 stations[J].International Journal of Climatology,2016,36: 4384-4392.   \n[25]Climatic Research Unit,School of Environmental Sciences,University of East Anglia.Statistical and regional dynamical downscaling of extremes for European regions[EB].[2005-11-01]. http: // www.cru.uea.ac.uk/projects/stardex.   \n[26] 魏凤英.现代气候统计诊断与预测技术[M].北京:气象出版社, 2007: 37-55.[Wei Feiying. Modern Climate Statistical Diagnosis and Prediction Technology[M]. Beijing:Meteorological Press,2007: 37-55.]   \n[27] 石明星,蓝永超,沈永平,等.1961-2014年黄河源区蒸发皿蒸 发量变化的多尺度特征及突变分析[J].冰川冻土,2018,40(4): 666- 675.[Shi Mingxing,Lan Yongchao, Shen Yongping,et al. Analyses of multiple time scales characteristics and mutation of pan evaporation variation in the source regions of the Yelow River from 1961 to 2Ol4[J].Journal of Glaciology and Geocryology, 2018,40(4): 666-675.]   \n[28] 李林,李凤霞,郭安红.近43年来\"三江源\"地区气候变化趋势 及其突变研究[J].自然资源学报,2006,21(1):79-86.[Li Lin,Li Fengxia,Guo Anhong. Studyon climate change trends and abrupt changes in the“Three River Sources” in the past 43 years[J]. Journal of Natural Resources,2006,21(1):79-86.]   \n[29] 李开明,李绚,王翠云,等.黄河源区气候变化的环境效应研究 [J].冰川冻土,2013,35(5):1183-1192.[Li Kaiming,Li Xu, Wang Cuiyun, et al. Research on the environmental effect caused by climate change in the source region of the Yellow River[J]. Journal of Glaciology and Geocryology,2013,35(5): 1183-1192.]   \n[30] Zhou Y K. Characterizing the spatiotemporal dynamics and variability in climate extremes over the Tibetan Plateau during 1960- 2012[J]. Journal of Resources and Ecology,2019,10(4): 397-414.   \n[31] 尹红,孙颖.基于ETCCDI指数 2017年中国极端温度和降水特 征分析[J].气候变化研究进展,2019,15(4):363-373.[Yin Hong,Sun Yin. Characteristics of extreme temperature and precipitation in China in 2017 based on ETCCDI indices[J].Climate Change Research,2019,15 (4): 363-373.]   \n[32] 王婷婷,冯起,李宗省,等.1960—2012年祁连山东段古浪河流 域极端气候事件研究[J].冰川冻土,2018,40(3):598-606. [Wang Tinging,Feng Qi, Li Zongxing,et al. Extreme climate research on Gulang River basin in eastern Qilian Mountains during 1960-2012[J]. Journal of Glaciology and Geocryology,2018,40 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3): 598-606.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[33] 刘彩红,余锦华,李红梅.RCPs情景下未来青海高原气候变化 趋势预估[J].中国沙漠,2015,35(5):1353-1361.[Liu Caihong, Yu Jinhua,Li Hongmei. Prediction of future climate change trends on the Qinghai Plateau under RCPs scenarios [J]. Journal of Desert Research,2015,35(5): 1353-1361.]   \n[34] 徐集云,石英,高学杰,等.RegCM3对中国21世纪极端气候事 件变化的高分辨率模拟[J].科学通报,2013,58(8):724-733. [XuJiyun,Shi Ying,Gao Xuejie,et al.RegCM3 high-resolution simulation of extreme climate events in China in the 21st century [J]. Chinese Science Bulletin,2013,58(8): 724-733.]   \n[35] 李红梅,李林,张金旭,等.21世纪前中期三江源地区极端气候 事件变化趋势分析[J].冰川冻土,2012,34(6):1403-1408.[Li Hongmei,Li Lin, Zhang Jinxu,et al. Change in extreme climatic events over the sources of the three rivers in the prometaphase 21stcentury[J]. Journal of Glaciology and Geocryology,2012,34 (6): 1403-1408.]   \n[36] 中国气象局气候变化中心.中国气候变化蓝皮书(2020)[M].北 京：科学出版社,2020:11-25.[CMA Climate Change Center. Blue Book on Climate Change in China (2O2O)[M]. Beijing: Science Press,2020: 11-25.]   \n[37] 李林,李红梅,申红艳,等.青藏高原气候变化的若干事实及其 年际振荡的成因探讨[J].冰川冻土,2018,40(6):1079-1089. [Li Lin,Li Hongmei, Shen Hongyan,et al.The truth and interannual oscillation causes for climate change in the Qinghai-Tibet Plateau[J].Journal of Glaciology and Geocryology，2018,40(6): 1079 -1089.]   \n[38] 蓝永超,朱云迪,刘根生,等.黄河源区气候变化的季节特征与 区域差异研究[J].冰川冻土,2016,38(3):741-749.[Lan Yongchao, Zhu Yundi,Liu Gensheng,et al. Study of the seasonal characteristics and regional differences of climate change in source regions of the Yellow River[J].Journal of Glaciology and Geocryology,2016,38(3): 741-749.]   \n[39]Iqbal M,Wen J,Wang X,et al.Assessment of air temperature trends in the source region of Yellow River and its sub-basins, China [J].Asia-pacific Journal of Atmospheric Sciences, 2O18,54(1), 111-123.   \n[40] Li Q, Yang M X,Wan G N,et al. Spatial and temporal precipitation variability in the source region of the Yellow River[J].Envi  \n[41]Wang Q, Zhai P M,Qin D H. New perspectives on‘warming-wetting'trend in Xinjiang,China[J].Advance in Climate Change Research,2020,11(3): 252-260.   \n[42] Zhang Q,Lin J, Liu W,et al. Precipitation seesaw phenomenon and its formation mechanism in the eastern and western parts of Northwest China during the flood season[J]. Science China Earth Sciences,2019,62 (12),2083-2098.   \n[43]Jiang P,Yu ZB,Yuan FF,et al. The multi-Scale temporal variability of extreme precipitation in the source region of the Yellow River[J]. Water,2019,11(1),92-94.   \n[44]Wu P,Ding YL,Liu YJ,et al. The characteristics of moisture recycling and its impact on regional precipitation against the background of climate warming over Northwest China[J]. International Journal of Climatology,2019,39 (14): 5241-5255.   \n[45] 祁艳,颜玉倩,李金海,等.青藏高原5-10月地表潜热通量与青 海同期降水之间的关系[J].干旱区研究,2019,36(3):529-536. [Qi Yan,Yan Yuqian,Li Jinhai,et al. Relationship between surface latent heat flux over the Qinghai Tibetan Plateau and precipitation in Qinghai from May to October[J].Arid Zone Research, 2019,36(3):529-536.]   \n[46] 杨昭明,张调风.1961—2017年青藏高原东北部雨季降水量变 化及其贡献度分析[J].干旱区研究,2021,38(1): 22-28.[Yang Zhaoming, Zhang Tiaofeng.Analysis of rainy season rainfall change and its contribution in the Northeast of Qinghai-Tibet Plateau from 1961 to 2017[J].Arid Zone Research,2021,38(1): 22-28.]   \n[47]Cheng L J,Abraham J, Zhu J,et al. Record-seting ocean warmth continued in 2019 [J].Advances in Atmospheric Sciences,2020, 37(2): 137-142.   \n[48]Duan A M, Xiao Z N.Does the climate warming hiatus exist over the Tibetan Plateau?[J]. Scientific Reports,2015,5: 13711.   \n[49]Meng F C, Su F G,Yang D Q,et al. Impacts of recent climate change on the hydrology in the source region of the Yellow River basin[J]. Journal of Hydrology: Regional Studies,2016,6: 66-81.   \n[50] 效存德,苏勃,王晓明,等.冰冻圈功能及其服务衰退的级联风 险[J].科学通报,2019,64(19): 1975-1984.[Xiao Cunde, Su Bo, Wang Xiaoming,et al. Cascading risks to the deterioration in cryospheric functions and services[J]. Chinese Science Bulletin,2019, 64(19): 1975-1984.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal characteristics of climate change in the Yellow River source area from 1960 to 2019 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "LIU Caihong'， WANG Pengling²， WEN Tingting'， YU Di'， BAI Wenrong'1. Qinghai Climate Centre,Xining 810o1,Qinghai, China;2.National Climate Center,Beijing 100081, Chir",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As a fragile ecological environment,the source region of the Yellow River (SRYR) is sensitive to climate change.It is also the primary region generating runoffin the Yellow River Basin.The issue of climate change in the SRYR has attracted substantial attntion. This study systematically re-examined changes in the average climate and extreme climate events in the SRYR over the past 6O years using homogenized temperature and precipitation data.From 1960 to 2019,the annual average temperature and average maximum and minimum temperatures of the SRYR increased consistently,with the most substantial warming in the eastern part of he source area.After the turning point in 2Ooo, the warming rate reached $0 . 6 1 ~ \\mathrm { ‰ } \\left( 1 0 \\mathrm { { a } } \\right) ^ { - 1 }$ ，which was significantly higher than that for the period of 1960-2019 $[ 0 . 3 7 ~ \\mathrm { ^ { \\circ } C } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 } ]$ . From 1960 to 2019, the annual precipitation in the SRYR generally showed a slight increase,at a rate of $7 . 6 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ . After 2003,it entered a stage of more precipitation, with the regional average annual rainfall reaching $6 1 0 \\mathrm { m m }$ during 2010-2019. Spring, summer, and winter precipitation increased over the past 60 years, while autumn precipitation decreased.Meanwhile,summer and autumn precipitation in the eastern part ofthe source area decreased substantially,leading to an increased risk of staged drought. Of the last 6O years,the average temperature and precipitation in the source area were highest in the past 1O years,and the research region was generally at its warmest and wettst stage simultaneously. Affected by the background of warming and wetting,from 1960 to 2019,the average extreme temperature threshold of the SRYR increased significantly，while the number of days with frost decreased,the annual maximum three days of precipitation and the number of heavy precipitation days increased,and precipitation intensity strengthened,most notably in summer.Thus,all of these changes possbly bring series of risks and challenges to ecological protection and utilization of water resources in the SRYR and to the development of the entire Yellow River Basin. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Yellow River source area; climate change; extreme event; warming-wetting; spatial-temporal pattern ",
+        "page_idx": 9
+    }
+]

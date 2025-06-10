@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "宝塔区土地利用的地形梯度效应与空间格局",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵益祯¹，曹建农1，张晓栋²，何高波²(1 长安大学地质工程与测绘学院,陕西 西安710064；2中煤航测遥感集团有限公司,陕西 西安71019摘要：地形是多种地理因子中对土地利用变化产生重要影响的因素之一，黄土高原区域土地利用格局与资源配置深受地形因素的制约。为了给黄土高原地区未来土地利用、保护森林资源和经济健康发展提供依据，需要分析地形变化对土地利用影响。以黄土高原地区中部的宝塔区为讨论范围,采取2017年末土地利用矢量数据,选用坡度、高程、土地利用综合度和地形指数多项影响因子,全面剖析地形对土地利用类型分布的影响特征;在此探讨的结果下,利用分形理论探讨各土地利用类型的空间分布结构特点。结果表明：(1)宝塔区不同地形各地类分布表现出显著的空间分布差异，高程、坡度和地形位是宝塔区土地利用分布格局形成的重要影响因素。(2)水域、建设用地、耕地和未利用地的优势分布主要聚集在海拔 $< 1 2 0 0 \\mathrm { m }$ 坡度 $\\angle 1 0 ^ { \\circ }$ 的范围内，林地和草地的优势分布集中在高程 $> 2 0 0 \\mathrm { ~ m ~ }$ 坡度 $> 1 5 ^ { \\circ }$ 的区域内。(3）宝塔区土地利用程度综合指数随着地形位指数的增大而逐渐减小。土地利用程度较高的区域集中于人类活动频繁的区域，较低的区域集中于自然地貌区。(4)宝塔区各地类具备明显的分形特点，分维数处于 $1 . 2 4 3 7 \\sim 1 . 7 3 6 0$ 之间。宝塔区土地利用受地形制约，各地类受地形影响变化明显，本研究以期优化黄土高原土地资源配置,加快推进该地区经济发展速度。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：土地利用类型；地形；分维数；宝塔区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分析土地利用/土地覆被变化(LUCC)能够为自然资源管理部门在进行合理土地规划时提供详尽可靠的参考信息[1-3],LUCC也是自然活动和人类生产的综合结果[4]。土地利用变化会影响周围的自然环境并导致其发生一系列变化，并与资源的持续利用和生物植被的平衡密切相关[5]。土地利用分布受到经济发展、地理位置、水文气候、气温差异和城市物理空间等的综合影响。地形因素对研究范围内自然资源的调用分配有着显著影响，从而间接决定人类生产生活对土地进行利用的方向和速率，因此地形是对研究范围内土地利用分布格局产生影响的关键因素[7-9]。最近几年,有研究表明,高程、坡度等地形因子对研究区域地类分布有显著影响，决定了垂直景观带上的土地利用强度，各土地利用类型在不同的地形等级下也呈现出较为显著的分布差异[10]。依此可知,对土地利用分布与地形梯度之间的联系进行探讨，能够合理有效的分析土地利用受地形因子影响而表现出的分布特点[]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对土地资源的高效利用能够在一定意义上提升区域社会经济的优化程度和速率。在黄土高原地区，高程和坡度等地形因子会对区域社会经济的科学高速发展产生影响。宝塔区境内地貌以黄土高原为主，各类型的生产活动受地形的限制较大，土地利用的变化对当地经济可持续发展产生直接的影响。宝塔区地处黄土高原区，生态环境抵御风险能力较低，政策法规对土地利用和生态环境产生较大影响，如退耕还林还草、耕地保护、封山育林等,也影响着区域经济发展模式[12]。黄土高原地区土地分布的梯度等级效应及优化配置深受研究者的关注。当前，刘迪等[13]学者以黄土丘陵区米脂县",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "6a间土地利用为数据来源,将生态风险与地形分布指数进行有机结合，分析结果表明，研究区高风险区域也集中分布于起伏度较低的地区；段艺芳等[14]针对短时序延安市的情况开展研究工作，分析土地生态风险及空间集聚效应的时空演化规律，提出延安市内宝塔区内城镇热点区面积持续增加，应注意加强生态管理;李蕴琪等15通过定量分析与模型构造，指出生态建设与区域经济价值发展相协调，但人口增长依旧导致环境压力，应当继续进一步推进生态文明建设。在分析地形因子对土地利用类型分布的影响时，其他研究多以单个因素对各地类分布的影响为切入点，而将各项因素相结合的分析尤显缺乏。为详尽阐述宝塔区地表植被覆盖和生态环境的地形梯度效应，评价黄土高原地区土地利用的空间格局，制定宝塔区未来科学合理发展土地发展规划，本文采用宝塔区2017年末土地变更调查矢量数据集对宝塔区土地利用和空间格局进行分析。本文不但将高程、坡度等作为单一影响因子对各地类分布进行探讨，也将两者联合综合分析土地利用在空间上的分布变化。基于此，本文采用地形位指数和分布指数作为影响因子，从整体上探讨宝塔区土地分布的空间效应;在讨论的基础上，采用分形理论探究各地类的图斑复杂程度，以期为宝塔区乃至整个黄土高原地区优化土地资源配置和加快经济社会健康发展速度提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "宝塔区 $\\mathrm { 1 0 9 ^ { \\circ } 2 1 ^ { \\prime } } \\sim 1 1 0 ^ { \\circ } 0 3 ^ { \\prime } \\mathrm { E } , 3 6 ^ { \\circ } 1 1 ^ { \\prime } \\sim 3 7 ^ { \\circ } 0 9 ^ { \\prime } \\mathrm { N } \\}$ 行政辖区隶属于陕西省延安市，素称“塞上咽喉”。宝塔区东接延长县，北毗子长、延川县，西靠安塞区、南邻甘泉县、宜川县、富县。研究区域总面积$3 ~ 5 4 0 . 7 9 ~ \\mathrm { k m } ^ { 2 }$ 。境内地势高低起伏较大，地形复杂。宝塔区气候类型属于中温带半干旱气候，垂直带状分异显著，四季差异显著，冬季寒冷干燥，雨热同期。境内山沟互相交错，梁岿密布，山高坡陡，地貌形态属于典型的西北黄土高原区。伴随着区域内高密度农耕行为及社会经济高速发展带来的住宅和交通用地面积扩大，宝塔区土地利用程度不断加深，土地利用生态安全性和持续健康发展日益引起高度重视。研究区域土地资源分布如图1所示",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac81dcd362b8311e901f03aa5f4e61dc1b63279c16177a1d2de3e129775c3c18.jpg",
+        "img_caption": [
+            "图12017年地类分布图Fig.1Land use map in 2017"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据处理与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文土地数据以覆盖研究区域的2017年末土地调变更调查数据库为基础，该数据库可靠性和现势性程度较高。按照研究区域地类的数量、质量、分布状况及研究目的，参考政府间气候变化专门委员会所用分类体系[16],将研究区域土地利用类型为同一类的碎图斑合并，合并为6个一级类。地形因子包含了数字高程模型(DEM）、坡度和地形位指数，如图2所示。对地表形态数字化模拟所用的DEM来源于中国科学院地理空间数据云的AST-GTM栅格数据，其空间分辨率为 $3 0 \\mathrm { ~ m ~ }$ 。采用ArcGIS10.3软件,借助工具箱的Spatial Analyst功能，由DEM计算得坡度，再由地形位指数公式利用RasterCalculator由高程和坡度求得地形位指数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.1地形梯度分析法地形因素对各地类空间分布的产生方式和城市建设模式有着关键影响[17]。在黄土高原地区，坡度和高程在很大程度上影响了土地资源的利用程度和经济的发展规模[18]。地形位指数可以综合高程变化和坡度信息特点，重新计算某一地区的地形分布特征[19]。基于此,本文选用高程、坡度、土地利用综合程度指数和地形位指数等因子来分析研究区域各地类在各影响因子下的分布特点。依据黄土丘陵沟壑区地形特点及宝塔区地类分布情况，利用ArcGIS的reclassify模块对生成的高程、坡度和地形位指数进行分级，以定量探讨宝塔区土地利用分布特点。宝塔区的高程在 $8 1 5 \\sim$ $1 5 2 1 \\mathrm { m }$ 之间，当高程小于 $1 0 0 0 \\mathrm { m }$ 和大于 $1 2 5 0 \\mathrm { m }$ 时，土地利用结构较为简单。因此,可将高程在 $1 0 0 0 \\mathrm { m }$ 以下的区域单独划分为一类， $1 2 5 0 \\mathrm { m }$ 以上的分为一类；而高程在 $1 \\ 0 0 0 \\sim 1 \\ 2 5 0 \\ \\mathrm { m }$ 之间的区域，人类活动密集，在该区间内以 $5 0 \\mathrm { ~ m ~ }$ 为间隔，用内插法划为5级，将研究区域高程分为7个级别。参考《第三次全国国土调查技术规程》20]中的坡度分级规则和水土保持坡度[2],并结合研究区域的实际地表形态，将坡度重分类为7个级别。同时，将地形位指数也和高程坡度对应的重分类为7级，如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/42b14224002729de1cad5a5eefd889a19de0b47f11709ab79b5af6a9c47af09e.jpg",
+        "img_caption": [
+            "图2研究区域地形因子示意图",
+            "Fig.2Maps of topography factor in Baota District "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）地形位指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地形是影响区域经济健康发展和土地利用合",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1宝塔区地形因子分级",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a9efd30a09ed6a99387d1561ec864210bae080266b80159d54e45b76570f1df.jpg",
+        "table_caption": [
+            "Tab.1 Classification of topography factor ofBaotaDistrict "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>级别</td><td>高程/m</td><td>坡度/</td><td>地形位指数</td></tr><tr><td>1级</td><td><1000</td><td>0~2</td><td>0.55~0.95</td></tr><tr><td>2级</td><td>1000~ 1050</td><td>2~6</td><td>0.95~1.10</td></tr><tr><td>3级</td><td>1050~1100</td><td>6~10</td><td>1.10 ~ 1.25</td></tr><tr><td>4级</td><td>1 100~1150</td><td>10~15</td><td>1.25~ 1.40</td></tr><tr><td>5级</td><td>1150~1200</td><td>15~20</td><td>1.40 ~ 1.55</td></tr><tr><td>6级</td><td>1 200~1250</td><td>20~25</td><td>1.55 ~ 1.70</td></tr><tr><td>7级</td><td>>1250</td><td>> 25</td><td>1.70 ~ 2.45</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "理分布的重要因素，单一高程或海拔难以全面分析地形因素的影响特点，采用地形位指数可以将高程和坡度联系以综合分析地形因素对地类分布的影响[22],公式为[23]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\ln \\left[ \\left( \\frac { E } { \\overline { { E } } } + 1 \\right) \\times \\left( \\frac { S } { \\bar { S } } + 1 \\right) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $T$ 表示地形位指数； $E$ 表示区域内栅格任意某点的高程； $\\overline { { E } }$ 表示该点所在单元的平均高程； $s$ 表示区域内栅格任意某点的坡度； $\\bar { S }$ 各自代表该点所在单元的平均坡度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）分布指数",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分布指数用来分析各地类在不同地形区间上的分布概率，分布指数作为比值可以减小不同地类间面积差异过大带来的量纲影响,公式为[24]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. P = \\frac { S _ { i e } } { S _ { i } } \\middle / \\frac { S _ { e } } { S } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 表示分布指数； $S _ { i e }$ 表示第 $i$ 地类在 $e$ 地形下的分布面积； $S _ { i }$ 表示研究区域内第 $i$ 地类的总面积； $S _ { e }$ 表示 $e$ 地形区间在研究区域内的总分布面积; $s$ 表示研究区域的总面积。当 $P > 1$ 时，即表示该地类属于优势分布[25]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）土地利用程度综合指数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土地利用程度综合指数[26]可以定量地表述土地利用程度在不同地形下的分布特点也能够反应生产活动对土地改造的影响方式和程度，公式参考文献[27]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考前人的研究成果28并综合研究区域土地利用实际状态，将各地类的分级指数依次赋值为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "建设用地为4,耕地为3,林地、草地和水域为2,未利用地为1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2分形理论分形理论综合体现了土地利用图斑面积、周长和数量之间的关系，地类图斑是分形理论的应用之一，定量求得分形维数的面积一周长数学模型为[29]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ln \\bigl [ S ( r ) \\bigr ] = \\frac { 2 } { D } \\mathrm { l n } \\bigl [ Q ( r ) \\bigr ] + C\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $S ( \\boldsymbol r )$ 表示某一单个地类图斑的面积; $Q ( r )$ 表示周长； $C$ 为常数项。根据上式对面积和周长分别取对数，然后建立线性回归方程，再由直线斜率 $2 / D$ ,即可计算得各地类的分维数。分维数与土地利用图斑空间镶嵌结构的复杂程度成正比， $D$ 越大，镶嵌结构越复杂， $D$ 的取值范围是[1,2」， $D$ 为1时代表结构最简略的斑块，比如正方形； $D$ 为2时表示图斑面积相同时边界最为繁杂的斑块，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1土地利用格局分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1不同高程各地类分布格局图3反映出了宝塔区各地类在高程梯度上呈现出较明显的分布差异。水域和建设用地在高程为 $1 0 0 0 \\mathrm { m }$ 以下的分布指数呈现出先快速减小而后在高程为 $1 0 0 0 \\mathrm { m }$ 以上平稳降低的趋向。未利用地的分布指数呈现出剧烈变化的态势，在高程 $1 \\ : 2 0 0 \\ : \\mathrm { m }$ 以下时,急剧增加后减小,而高程大于 $1 2 0 0 \\mathrm { m }$ 时波动下降。耕地和草地的分布指数类似，均表现出先逐渐上升后平稳下降的趋向，在高程为 $1 \\ 0 0 0 \\sim 1 \\ 0 5 0 \\ \\mathrm { m }$ 时达到最大。林地的分布指数表现出平稳上升的趋向。其中，耕地、草地、水域、建设用地和未利用地在高程 $1 0 0 0 \\sim$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fab4eead2e9fa380b60b645f42706a86ae59912c13e3b8da0f74cf30a89a9d9f.jpg",
+        "img_caption": [
+            "图3各地类分布指数地形分异"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$1 2 0 0 \\mathrm { m }$ 的区域时属于优势分布，表明该高程下自然条件和水土资源环境属于人类生活适宜区且该5种地类在该区域存在竞争关系。另外，水域的优势分布基本上处于海拔较低的区域。而林地的分布指数在高程大于 $1 2 5 0 \\mathrm { m }$ 时大于1,表明林地优势分布区间多处于海拔较高的地区。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2不同坡度各地类分布格局图4反映出伴随着坡度变陡，宝塔区分布指数呈现出减小态势的地类有水域、建设用地和耕地。当坡度为 $0 ^ { \\circ } \\sim 1 0 ^ { \\circ }$ 这3种地类属于优势分布，此时，该地类分布互相竞争，在进行土地规划时应当合理配置这3种地类。在坡度为 $0 ^ { \\circ } \\sim 1 0 ^ { \\circ }$ 区域内，水域属于优势分布，其分布指数随着坡度的增大快速减小，水体在重力影响下，导致水域在坡度较低时分布变化剧烈。林地和草地的分布指数非常接近，并且随着坡度的增加逐渐增大，在坡度为 $1 5 ^ { \\circ }$ 以上的区域时分布优势逐渐增强，且缓慢趋于稳定。林地和草地分布占据优势，即自然生态系统的优势在增强，宝塔区呈现出黄土高原独特的林地草地风光。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3不同地形位各地类分布格局图5反映出随着地形位指数的增加，宝塔区分布指数表现出逐渐减小的势态的地类有水域、建设用地、耕地和未利用地。其中，建设用地、耕地和未利用地的优势分布处于地形位指数为 $0 . 5 5 \\sim 1 . 2 5$ 所在的区域，而后快速减小直至接近0，表明地形条件对这些地类分布的影响程度较高，其优势分布区间集中在海拔较低和坡度较小的区域。林地和草地的分布指数呈上升趋向，当地形位指数大于1.40时属于优势分布，表明在地形位较大的区域主要分布的土地类型是林地和草地，未来在进行发展规划时充分考虑各地类的优势区间。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6e6902b6763597ec2dfdd9bbe00ff1f06a1d39a5586d1e2d632c7fe81e7ec10.jpg",
+        "img_caption": [
+            "图4各地类分布指数坡度分异"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8b5841a83980bb829cc565bb3b1bc46ffd6b70703ef714643f676230628d2a2.jpg",
+        "img_caption": [
+            "Fig.3Distribution index of land use types in different elevation ",
+            "Fig.4Distribution index of land use types in different slope ",
+            "图5各地类分布指数地形位分异",
+            "Fig.5Distribution index of land use types in different terrain niche "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4不同地形梯度下土地利用程度分析图6反映出随着地形位指数的增大，宝塔区土地利用程度综合指数逐渐减小，地形位指数较大的区域意味着坡度较大和高程较高，人类在此区域开发土地进行土地开发难度较大，建设用地所占比例较小，土地利用程度降低，这是造成这种分布特点的主要原因。在第5级之后减小速度变慢，主要是由于此区域范围内的高程、坡度较大，难以用地进行现代化建设，土地利用类型以林地和草地为主，土地利用结构相对单一。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/62c54fe1b8b510d77824281a530b584728408d1ebfbd5ac82ef1a6283a882c06.jpg",
+        "img_caption": [
+            "图6土地利用程度综合指数Fig.6Land use degree composite index"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土地利用综合程度指数反应土地利用结构，可用来描述人类生产活动对不同地类的影响强度。分别计算各地类在 $1 0 \\ \\mathrm { m } { \\times } 1 0 \\ \\mathrm { m }$ 栅格范围内所占比例，再利用栅格计算器计算出综合程度指数，如图7所示。对照宝塔区土地利用现状分布图，可以在地图上直观的看出宝塔区综合程度指数在建设用地密集的区域较大，在林地草地集中的区域综合程度指数较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2各地类分形维数分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分形维数能够综合表现地类图斑的面积、周长和数量，是用来描述地类图斑空间结构形态的复杂程度，其结果越大，表明该地类图斑边界线形态越繁杂;相反，则越简单。导出宝塔区各地类斑块的面积和周长后分别取对数，在统计软件中生成散点图后做一元回归分析拟合，结果如图8所示，统计其他参数如表2所示。计算结果表明，对各地类的面积周长取对数后的计算得到的相关性系数均大于0.72,表明面积和周长线性拟合效果较好，存在较强的线性相关性，表明应用分型理论讨论研究区域地类图斑的空间结构特征是科学有效的。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/792726aad05438281eddd7e96d77a7ad55bfb2c5a629af9bd7e8f3c0ede77d8b.jpg",
+        "img_caption": [
+            "图7土地利用程度综合指数",
+            "Fig.7Land use degree composite index "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2反映出宝塔区各地类的分形维数的结果依次为：水域、耕地、林地、草地、建设用地和未利用地。其中水域分维值的结果最大，为1.7360，说明水域边界形态最复杂，这是因为水域边界大多是自然形成的不规则形状，受其他因素影响较小，人类活动难以影响水域边界的形成过程。耕地、林地和草地的分维值分别是1.3581、1.3438和1.3412。这3种地类均属于自然形成，受环境影响较大，受人类生产影响较小，且地块较不规整，结构较复杂。建设用地和未利用地的分维值的计算结果分别为1.3177和1.2437，这两种地类的空间结构为简单方正的规则形状，空间结构较简单。各地类的分维值可以体现各地类的空间分布模式，能够为LUCC研究提供新的思路。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究利用宝塔区2017年末土地利用变更数据，从地形、土地利用程度和分维数3个角度对宝塔区土地分布空间格局进行分析，探讨了各土地利用类型在不同地形因子下的分布特点，得到以下结论：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/512a1fe111f012abe3fd9ef30855af89162cd2d6591416918a7bd9406a4eeb1d.jpg",
+        "img_caption": [
+            "图8宝塔区2017年各地类散点图",
+            "Fig.8Scatter plots of each land use of Baota District in 2017 "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3b5c3c7e73d71047ea23dba3d8e94bd8a348550f7f537f6d74d3ed281f6986e.jpg",
+        "table_caption": [
+            "表2各地类分布形态的分形结构模型及相关统计量",
+            "Tab.2Fractal model and other statistic parameters of distribution configuration of sorted land types "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土地利用类型</td><td>分形结构模型</td><td>R</td><td>样本数</td><td>分维值D</td></tr><tr><td>耕地</td><td>y=1.472 6x-0.273 1</td><td>0.8921</td><td>28 664</td><td>1.358 1</td></tr><tr><td>林地</td><td>y=1.488 3x-0.2711</td><td>0.9248</td><td>36 799</td><td>1.343 8</td></tr><tr><td>草地</td><td>y=1.491 2x-0.450 1</td><td>0.908 9</td><td>15 617</td><td>1.341 2</td></tr><tr><td>水域</td><td>y=1.152 1x+1.182 4</td><td>0.7262</td><td>2401</td><td>1.736 0</td></tr><tr><td>建设用地</td><td>y=1.517 8x-0.507 6</td><td>0.944 5</td><td>17 545</td><td>1.317 7</td></tr><tr><td>未利用地</td><td>y=1.608 1x-0.836 2</td><td>0.9375</td><td>16</td><td>1.243 7</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）各地类在高程、坡度和地形位指数3个指标上的空间分布表现出明显区别。耕地、草地、建设用地和水域优势分布集中于海拔低于 $1 2 0 0 \\mathrm { m }$ 坡度较小的区域。林地优势分布则集中于海拔大于$1 2 0 0 \\mathrm { m }$ 、坡度较大的山地丘陵区域。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）随着地形位指数的增加宝塔区土地利用程度综合指数逐渐减小，这表明，地形是影响研究区域土地利用综合程度的主要因素。宝塔区土地利用程度综合指数在人类活动密集处较大，在植被覆盖集中的区域较小。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）通过对宝塔区各地类进行分形维数分析，发现各地类的分布均具有典型的分形特性，其中水域分形维数最大，未利用地最小。水域的分形维数最大是由于水岸线多为复杂曲线；未利用地的分维值最小,边界形态最单一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "奓义(Keterences) ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]靳含,杨爱民,夏鑫鑫,等.基于CA-Markov模型的多时间跨度 土地利用变化模拟[J].干旱区地理,2019,42(6):1415-1426 [JIN Han,YANG Aiming,XIA Xinxin,et al. Simulation of land use change at diffrent time spans based on CA-Markov model[J]. Arid Land Geography,2019, 42 (6): 1415-1426.]   \n[2]FOLEY Jonathan A,DEFRIES Ruth,ASNER Gregory P,et al. Global consequences of land use[J].Science,2005,309(5734): 570-574.   \n[3]张景华,封志明,姜鲁光.土地利用/覆盖分类系统研究进展[J]. 资源科学,2011,33(6):1195-1203.[ZHANG Jinghua,FENG Zhingming,JIANG Luguang.Progress on studies of land use/land cover change clasification systerms[J]. Resources Science, 2011, 33(6): 1195-1203.]   \n[4]陈曦,常存,包安明,等.改革开放40a来新疆土地覆被变化的 空间格局与特征[J].干旱区地理,2020,43(1):1-11.[CHEN Xi, CHANG Cun,BAO Anming,et al. Spatial pattern and characteristics of land cover change in Xinjiang since past 40 years of the economic reform and opening up[J].Arid Land Geography,2020, 43(1): 1-11. ]   \n[5]肖建设,乔斌,陈国茜,等.黄河源区玛多县土地利用与生态系 统服务价值演变研究[J].生态学报,2020,40(2):510-521. [XIAO Jianshe,QIAO Bin,CHEN Guoqian,et al.Land use change and evolution of ecosystem service value in Maduo County of source region of the Yellow River[J].Acta Ecologica Sinica, 2020,40(2): 510-521.]   \n[6]李旭亮,杨礼箫,田伟,等.中国北方农牧交错带土地利用/覆盖 变化研究综述[J].应用生态学报,2018,29(10):331-339.[LI Xuliang,YANG Lixiao,TIAN Wei,et al. Land use and land cover change in agro-pastoral ecotone in Northern China: A review[J]. Chinese Journal of Applied Ecology,2018,29(10):31-339.]   \n[7]SU Zhengan, ZHANG Jianhui.Landform change due to soil redistribution by intensetillage based on high-resolution DEMs[J].Geomorphology,2012(175/176):190-198.   \n[8]沈泽昊,张全发,岳超,等.南水北调中线水源区土地利用/土地 覆被的空间格局[J].地理学报,2006,61(6):633-644.[SHEN Zehao,ZHANG Quanfa,YUE Chao,et al. The spatial pattern of land use/land cover in the water supplying area of the middleroute of the South-to-North water diversion (MR-SNWD) project [J]. Acta Geographica Sinica, 2006,61(6): 633-644.]   \n[9]孙丕苓,许月卿,王数.环京津贫困带土地利用变化的地形梯度 效应分析[J].农业工程学报,2014,30(14):277-288.[SUN Piling,XU Yueqing,WANG Shu. Terrain gradient effect analysis of land use change in poverty area around Beijing and Tianjin [J]. Transactions of the Chinese Society of Agricultural Engineering, 2014, 30(14): 277-288.]   \n[10]张静,任志远.秦巴山区土地利用时空格局及地形梯度效应 [J].农业工程学报,2016,32(14): 250-257.[ZHANG Jing,REN Zhiyuan.Spatiotemporal pattern and terrain gradient effect of land use change in Qinling-Bashan Mountains [J]. Transactions of the Chinese Societyof Agricultural Engineering,2016,32(14): 250- 257.]   \n[11] 徐小任,徐勇.黄土高原地区人类活动强度时空变化分析[J].地 理研究,2017,36(4): 661-672.[XU Xiaoren,XU Yong.Analysis of spatial-temporal variation of human activity intensity in Loess Plateau region [J]. Geographical Research,2017,36(4): 661-672.]   \n[12] 刘宇,傅伯杰.黄土高原植被覆盖度变化的地形分异及土地利 用/覆被变化的影响[J].干旱区地理,2013,36(4):1097-1102. [LIU Yu, XU Yong.Topographic variation of vegetation cover evolution and the impact of land use/cover change in the Loess Plateau[J].Arid Land Geography,2013,36(4): 1097-1102.]   \n[13] 刘迪,陈海,梁小英,等.黄土丘陵沟壑区生态风险动态变化及 其地形梯度分析——以陕西省米脂县为例[J]. 生态学报, 2018,38(23): 8584-8592.[LIU Di, CHEN Hai,LIANG Xiaoying, et al.The dynamic changes to ecological risk in the loess hilly-gully region and its terrain gradient analysis: A case study of Mizhi County,Shaanxi Province,China[J].Acta Ecologica Sinica,2018, 38(23): 8584-8592.]   \n[14] 段艺芳,任志远,周晓,等.延安市土地生态风险时空格局演变 研究[J].国土资源遥感,2020,32(1):120-129.[DUAN Yifang, REN Zhiyuan, ZHOU Xiao,et al. Spatio-temporal variation in the land ecological risk of Yan'an City[J].Acta Remote Sensing for Land and Resources,2020,32(1): 120-129.]   \n[15] 李蕴琪,韩磊,朱会利,等.基于土地利用的延安市退耕还林前 后生态服务价值变化[J].西北林学院学报,2020,35(1):203- 211.[LI Yunqi,HAN Lei, ZHU Huili,et al. Changes of ecological service value in Yan'an Citypreand post returning farland to forestland based on land use[J]. Journal of Northwest Forstry University,2020,35(1): 203-211.]   \n[16] 张磊,吴炳方,李晓松,等.基于碳收支的中国土地覆被分类系 统[J].生态学报,2014,34(24):7158-7166.[ZHANG Lei,WU Bingfang,LI Xiaosong,et al. Classification system of China land cover for carbon budget[J].Acta Ecologica Sinica,2014,34(24): 7158-7166.]   \n[17] 姜坤,戴文远,胡秋凤,等.浙闽山地丘陵区地形因子对土地利 用格局的影响分析：以福建省永泰县为例[J].生态与农村环境 学报,2019,35(6): 707-715.[JIANG Kun,DAI Wenyuan,HU Qiufeng,et al.Analysis on the influence of terrain factors on land use pattern in the hilly area of Zhejiang and Fujian provinces: A case study of Yongtai County,FujianProvince[J]. Journal of Ecology and Rural Environment,2019,35(6): 707-715.]   \n[18]周万村.三峡库区土地自然坡度和高程对经济发展的影响[J]. 长江流域资源与环境,2001,10(1):15-21. [ZHOU Wancun.Impact of land nature slope and sea level elevation on the economic ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "development in the three gorge area[J]. Resources and Environment in the Yangtze Basin,2001,10(1):15-21.]   \n[19] 武爱彬,秦彦杰,赵艳霞,等.地形综合指数及其在土地利用地 形梯度效应分析中的应用——以太行山浅山丘陵区为例[J]. 地理与地理信息科学,2018,34(6):93-118.[WU Aibin,QIN Yanjie,ZHAO Yanxia,et al. Terrain composite index and its application in terrain gradient effect analysis of land use change:A case study of Taihang hilly areas [J]. Geography and Geo-Information Science,2018,34(6): 93-118.]   \n[20] TD/T1055-2019.第三次全国国土调查技术规程[S].中华人民 共和国自然资源部,2019.TD/T 1055-2019.Technical regulation of the third nationwide land survey[S]. Ministry of Natural Resources of the People's Republic of China.   \n[21] 杨斌,王占岐,姚小薇,等.鄂西北山区土地利用的地形梯度效 应与空间结构特征[J].长江流域资源与环境,2019,(2):313- 321.[YANG Bin, WANG Zhanqi, YAO Xiaowei,et al. Terrain gradient effect and spatial structure characteristics of land use in mountain areas of northwestern Hubei Province [J]. Resources and Environment in the Yangtze Basin,2019(2): 313-321.]   \n[22]PIGNATTI S. Impact of tourism on the mountain landscape of central Italy.Landscape and Urban Planning,1993,24 (14): 49-53.   \n[23]臧玉珠,刘彦随,杨园园.山区县域土地利用格局变化及其地形 梯度效应—以井冈山市为例.自然资源学报,2019,34(7): 1391-14O4.[ZANG Yuzhu,LIU Yansui,YANG Yuanyuan.Land use pattern change and its topographic gradient effect in the mountainous areas:A case study of Jinggangshan City [J]. Journal of Natural Resources,2019,34(7): 1391-1404.]   \n[24] 李京京,吕哲敏,石小平,等.基于地形梯度的汾河流域土地利 用时空变化分析[J].农业工程学报,2016,34(7):230-236.[Li Jingjing,LV Zhemin,SHI Xiaoping,et al. Spatiotemporal variations analysis for land use in Fen River Basin based on terrain gradient[J]. Transactions of the Chinese Society of Agricultural Engineering,2016,34(7):230-236.]   \n[25]哈凯,丁庆龙,门明新,等.山地丘陵区土地利用分布及其与地 形因子关系:以河北省怀来县为例.[J]地理研究,2015,34(5): 909-921.[HA Kai,DING Qinglong,MEN Mingxin,et al. Spatial distribution of land use and its relationship with terrain factor in hilly area[J]. Geographical Research,2015,34(5): 909-921.]   \n[26] 郭洪峰,许月卿,吴艳芳.基于地形梯度的土地利用格局与时空 变化分析—以北京市平谷区为例[J].经济地理,2013,33(1): 160-166.[GUO Hongfeng,XU Yueqing,WU Yanfang.Analysis of the land use spatial pattern and spatio-temporal changes based on terrain gradient: A case study of Pinggu District in Beijing[J]. Economic Geography,2013,33(1):160-166.]   \n[27] 马新萍,韩申山,王磊,等.大西安地区土地利用类型时空演变 分析[J].干旱区地理,2020,43(2):499-507.[MA Xinping,HAN Shenshan,WANG Lei,et al. Spatial and temporal evolution of land use types in the greater Xi'an area[J].Arid Land Geography, 2020,43(1): 499-507.]   \n[28]庄大方,刘纪远.中国土地利用程度的区域分异模型研究[J] 自然资源学报,1997,12(2):105-111.[ZHUANG Dafang,LIU Jiyuan. Study on the model of reginoal differentiation of landuse degree in China[J]. Journal of Natural Resources,1997,12(2):105- 111.]   \n[29]卢德彬,禹真,毛婉柳,等.基于GIS 和分形理论的山区土地利 用空间结构研究[J].水土保持研究,2016,23(2):220-224.[LU Debin,YU Zhen,MAO Wanliu,et al.Research on the spatial structure of the mountainous land use based on GIS and fractal ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "theory[J].Research of Soil and Water Conservation,2O16,23(2): 220-224.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Topographic gradient effect and spatial pattern of land use in Baota District ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Yi-zhen'， CAO Jian-nong'， ZHANG Xiao-dong²， HE Gao-bo² (1School ofGeology Engineering and Geomatics,Chang'an University,Xi'an 710o64,China; 2Aerial Photogrammetry and Remote Sensing Information Co.,LTD,Xi'an 710199,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Terrain is an important geographical factor afecting land use.Loess Plateau land resources and their development and utilization methodsare deeplyrestricted by terrinconditions.Topography isoneof themost important natural environmental factors determining land use paterns,and the land use patterns and spatial structure characteristics of the Loess Plateau are deeply restricted by topography.To provide ascientific basis for future landuse,protection of forest resources,and economic development in the Loess Plateau,it is necessary to analyze the efects landformchanges have on land use.This study analyzed land use data from theend of 2017 for Baota District.Inaddition,slope,elevation,topographic index,and other indicators were selected to explore land use mechanisms.Onthisbasis，fractal theoryisapplied to analyze each landuse type’s spatial structure characteristics.Theresultsshow that the spatial distribution of land use types in Baota District has obvious topographic gradient characteristics.Height,slope,and topography significantlyinfluence the formation of land use paterns in Baota District.The predominantdistributionof water,construction land,cultivated land,and unusedland is mainly concentrated in a range where elevation is less than $^ { 1 , 2 0 0 \\mathrm { ~ m ~ } }$ and the slope is less than $1 0 ^ { \\circ }$ .The predominant distribution offorestlandand grassland is concentratedin an area where the elevationis greater than 1, $2 0 0 \\mathrm { ~ m ~ }$ and the slope is greater than $1 5 ^ { \\circ }$ . With the increase of the topographic index,the comprehensive index of the land usedegree in Baota District graduallydecreased,thus terrain is the main factor affecting thecomprehensive degree of landuse in the study area based onthis analysis.The comprehensive indexof landuse degre in Baota District is larger in areas where human activities are concentrated and smaler where vegetation coverage is concentrated.The distribution of land use types in Baota Districtshows obvious fractal characteristics,with fractal dimensions between 1.2437and1.7360.The water fractal dimension is the largest among these and the unused land dimension is the smallest.The large water fractal dimension is due to thecomplicated water boundaries,whereas the small unused land dimension is due to its simple structure.Landuse in the Baota District is restricted bythe terain,and various types of landare afectedby the terrain.This study aims tooptimize the allocation of land resources on the Loess Plateau and accelerate economic development in the area. Eforts to optimize land resource allocationand promote povertyreduction in poor areas in the Loess Plateau should fully consider the ffcts of topographical factors，follow the principlesof adapting to local conditions，guide the situation according to circumstances,and provide advantageous development by attaching importance to optimizing land use structure and layout. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:land use; terrain gradient; fractal theory；Baota District ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "院士专家在塔里木河生态水文监测研究站指导项目实验布设",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2020年10月15日，中国工程院胡春宏院士、王超院士、邓铭江院士，中国科学院倪晋仁院士等一行调研中国科学院新疆生态与地理研究所塔里木河生态水文监测研究站，对“塔里木河下游生态输水轮渗灌溉植被恢复响应监测研究与示范\"项目进行指导。新疆生地所凌红波研究员介绍了相关情况。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "专家组在大西海子水库考察了水库的调度运行情况。在塔里木河流域管理局委托项目“塔里木河下游生态输水轮渗灌溉植被恢复响应监测研究与示范”和中科院STS项目“塔里木河下游生态调度关键技术集成与应用\"的资助下，项目组将通过求解中长期以及短期、实时的大西海子生态调度模型，优化大西海子水库生态调度方案。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当日，专家组还重点调研了沟汊轮渗灌溉实验区，听取了有关实验的目的、拟解决的科学问题、技术流程以及目前设施布设情况的汇报。针对项目如何实现重大成果产出，并有效转化服务于塔河的生态文明建设，院士专家组给出了具体建议。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "“塔里木河下游生态输水轮渗灌溉植被恢复响应监测研究与示范”项目是以延续和深化以往的研究为立足点,通过交叉融合应用生态学、水文学、水资源管理学等学科的基本理论和方法，解析塔河下游沟汉轮渗灌溉的水文生态协同变化过程和植被恢复响应规律，建立集生态灌溉分区、沟汊连通工程布局、生态灌溉制度为一体的轮渗灌溉系统，构建面向轮渗灌溉需求的大西海子水库调度系统。该项目不仅可以丰富干旱区生态水调度的科学理论体系，也可为相似区域开展生态保护与修复提供技术支撑和借鉴方案。",
+        "page_idx": 8
+    }
+]

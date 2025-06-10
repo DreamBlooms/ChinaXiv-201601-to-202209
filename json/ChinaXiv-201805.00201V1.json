@@ -1,0 +1,487 @@
+[
+    {
+        "type": "text",
+        "text": "一种改进的R-LWE同态掩码方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李子臣1,²，孙亚飞1，杨亚涛1,，梁斓1，曹广灿³(1．西安电子科技大学 通信工程学院，西安 710071;2.北京印刷学院，北京 102600;3．北京电子科技学院，北京100070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对格上加密方案的差分能量攻击,Reparaz等人在PQC 2016上提出一种具有加法同态的R-LWE掩码方案。该方案能够有效的抵抗差分能量攻击，但由于密文的同态加法造成密文中噪声尺寸增大，降低解密正确率。针对这一问题，提出一个改进的R-LWE同态掩码方案。引入模转换技术，对同态加密之后的密文进行模规约，在保证明密文对应的前提下，降低密文中的噪声尺寸，提高方案的解密正确率。为了保护子密钥，引入随机矩阵对子密钥进行掩码保护，并给出正确性分析及安全性证明。分析表明，相对于原方案，新方案从安全性和效率上都有较大的提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：格密码；R-LWE；侧信道攻击防御；掩码矩阵；模数转换；同态 中图分类号：TP doi:10.3969/j.issn.1001-3695.2017.07.0703 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved R-LWE homomorphic masking scheme ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Zichen1, ², Sun Yafei1, Yang Yataol,3, Liang Lan1, Cao Guangcan³ (1. College of Communication Engineering，Xidian University，Xi'an 710071，China;2.Beijng InstituteofGraphic Communication,Beijing102600,China;3.BeijingElectronic cience&Technology Institute,Beijing10o70,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimingatthediferential poweratackof theencryptionscheme basedonlattice,Reparaz proposedanadditively homomorphicR-LWEmaskingscheme inPQC2016.Thisschemecanagainstthe differential powerattack efectively,butthe additivelyhomomorphicalgorithmbetween the ciphertexts makes the sizeofnoise increase.Itdeclines therateof decryption correctness. In view ofthis problem,this paper proposed an improved R-LWE homomorphic masking scheme.Byintroducing the modular switching technology,it made amodular reduction withthecipher textof aditively homomorphic.Under the premising that plaintextand the ciphertext werecoresponding,itdeclined the sizeof noiseinthe ciphertext.And itcould improve the decryption correctnessofthe scheme.Iorder toprotect te sub keys,itintroduceda therandom matrix to mask thesub key. Andit makes thecorrectnessanalysis andthe safety proof.Theproposed scheme has better securityand effcincy compared to the original scheme. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: lattice cryptography; R-LWE; side channel defense; mask matrix; modular switch; homomorphic ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IBM公司于2017年5月17日宣布成功研制一台拥有17个量子位的量子计算处理器，这标志着传统密码面临的挑战越来越严峻。格公钥密码体制是量子环境下安全的密码体系之一，具有很好的密码学性质，受到许多密码学专家的关注。2005年，Regev 将格理论与学习理论结合在一起，提出了一个格上的新的困难问题——错误学习问题（LWE，Learningwith errors）[1],2010年Lyubashevsky等在欧密会上提出了一种LWE的变体R-LWE（learningwith errors over ring）[2]，并同时给出了基于R-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LWE困难问题的公钥加密方案。但是，现有的基于格密码体制的后量子密码方案也存在侧信道攻击[]的风险。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文献[4]通过对多项式进行分割，设计一种针对R-LWE密码体制的掩码方案，该方案能够有效的抵抗侧信道攻击，但是需要特定的解码器。文献[5]针对文献[4]作出改进，通过分析R-LWE的加法同态特性，在解密过程中引入同态的思想，从而改变解密的流程，提高方案的效率，该方案根据同态特性进行解密，不需要特定的解码器，但是，解密正确率有所下降。文献[6]针对高斯取样的实现进行侧信道攻击，并且针对滑动策略的防御措施进行了侧信道攻击。在CHES 会议上提出的文献[7],利用Cache攻击来恢复高斯取样算法的一些输出，从而形成针对格上的签名方案给出了第一个侧信道攻击的方案。文献[8]针对 R-LWE 密码算法的实现设计了一种8比特的处理器，使得其能够更加高效的实现加解密过程。文献[9]描述了一种新型的代数编码技术，提出一种简单的随机盲化技术来抵抗计时攻击和能量攻击，并针对高斯取样算法提出一种分割一预计算技术来抵抗侧信道攻击。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文对文献[5]中的方案进行了深入的分析，指出方案设计中存在的问题：a)解密正确率低；b)未对子密钥进行掩码保护。在原方案的基础上，引入随机矩阵掩码与模数转换技术，通过掩码矩阵对子密钥进行保护，使用模数转换技术降低密文中的噪声尺寸，提高解密正确率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 原方案分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1基础知识 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义1设 $m$ 个线性无关的向量 $v _ { \\scriptscriptstyle { 1 } , \\ldots , V _ { m } } \\in R ^ { n }$ ，则一个 $\\mathbf { \\Omega } _ { m }$ 维满秩格 $\\mathbf { \\Psi } _ { \\Lambda }$ 定义为向量 $v _ { 1 } , . . . , v _ { m }$ 的所有整系数线性组合所构成的集合，即 $\\Lambda = { \\cal L } ( V _ { \\uparrow } , . . . , V _ { m } ) = \\{ \\sum _ { i = 1 } ^ { m } c _ { i } V _ { i } \\left| c _ { i } \\in Z \\right. \\}$ ，向量 $\\boldsymbol { v } _ { 1 } , . . . , \\boldsymbol { v } _ { m }$ 称为格 $\\Lambda$ 的基。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义2错误学习问题（Learningwith error，LWE）：已知矩阵 $A \\in Z _ { q } ^ { n \\times m }$ ，向量 $\\pmb { V } \\in \\ b { Z } _ { q } ^ { n }$ ，向量 $\\boldsymbol { \\mathscr { e } }$ 服从于 $Z _ { q } ^ { m }$ 上的概率分布 $\\chi ^ { m }$ ，整数 $n , m \\geq n , q > 2$ 。则有：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）LWE 判定问题： $\\boldsymbol { Z } _ { \\boldsymbol { q } } ^ { n }$ 与 $\\pmb { V } = \\pmb { A } \\pmb { S } + \\pmb { e }$ 在计算上是不可区分的，判定向量 $v$ 是均匀取自 $Z _ { q } ^ { n }$ ，还是由 $V = A s + e$ 计算得出。该问题已被证明能够规约到多项式理想格中的近似最短向量问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2）LWE 搜索问题：求出向量 $\\pmb { S } \\in Z _ { q } ^ { m }$ ，使得其满足$V = A s + e$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引理1假设 $p , q$ 是2个奇数， $c$ 是整数向量， $c ^ { \\prime }$ 是与（204号 $( p / q ) c$ 接近的向量且 $c ^ { \\prime } = c { \\bmod { 2 } }$ 。对于任意 $s$ ，= $\\cdot { c , } { s } > \\mathrm { m o d } q \\| < q / 2 - ( q / p ) l _ { 1 } ( s )$ ，同时，",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n< c ^ { \\prime } , s > \\mathrm { m o d } p = < c , s > \\mathrm { m o d } p \\mathrm { m o d } 2 \\\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "且 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\| < c ^ { \\prime } , s > \\mathrm { m o d } p \\right\\| < ( p / q ) \\left\\| < c , s > \\mathrm { m o d } p \\right\\| + l _ { 1 } ( s )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中, $l _ { 1 } ( s )$ 是 $s$ 的 $l _ { 1 }$ 范数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该引理表明可在不知密钥的前提下，只需知道密钥长度的界，就可以把密文从一个较大模数转换到一个较小的模数下，且仍可以正确解密。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 原方案回顾 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于R-LWE的密码方案主要涉及三个算法：密钥生成算法、加密算法、解密算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参数生成： $g$ 为全局已知多项式， $\\mathbf { \\Omega } _ { n }$ 是多项式环的维度，$p , q , q > p$ 为模数， $\\sigma$ 是离散高斯分布的标准差， $\\boldsymbol { e } _ { 1 } , \\boldsymbol { e } _ { 2 } , \\boldsymbol { e } _ { 3 }$ 是经由离散高斯取样产生的错误向量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "密钥生成算法：从离散高斯分布中取样产生两个多项式$^ { r , s }$ ，计算 $p _ { _ k } = r - g * s$ 。其中 $s$ 为私钥， $p _ { k }$ 为公钥。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "加密算法：首先，对消息进行编码，通过对每比特乘以 $\\scriptstyle q / 2$ ，将 $n$ 比特输入数据转换为环上的元素 $m \\in R _ { q }$ 。然后计算（204号 $c _ { 1 } = g * e _ { 1 } + e _ { 2 }$ ， $c _ { 2 } = p * e _ { 1 } + e _ { 3 } + m$ ，输出密文 $( c _ { 1 } , c _ { 2 } )$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "解密算法：接收方收到明文 $\\mathbf { \\Sigma } _ { m }$ 对应的密文 $( c _ { 1 } , c _ { 2 } )$ ，首先在本地产生随机消息 $m _ { 1 }$ 并加密产生密文 $( c _ { 1 } ^ { \\prime } , c _ { 2 } ^ { \\prime } )$ ，其次，对两个密文进行加法运算 $( c _ { 1 } ^ { \\prime \\prime } , c _ { 2 } ^ { \\prime \\prime } ) = ( c _ { 1 } , c _ { 2 } ) + ( c _ { 1 } ^ { \\prime } , c _ { 2 } ^ { \\prime } )$ ，然后，对密文 $( c _ { 1 } ^ { \\prime \\prime } , c _ { 2 } ^ { \\prime \\prime } )$ （204号进行解密运算 $c _ { 1 } ^ { \\prime \\prime } { \\pmb { S } } + c _ { 2 } ^ { \\prime \\prime }$ ，得明文 $m \\oplus m _ { 1 }$ ，最后，根据只有解密方拥有的消息m进行解密，得mmm=m。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "具体的解密过程如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/59d19c80331a74ecbe94c4ad682998fc9166e6845b7965d819e399d28d9138c7.jpg",
+        "img_caption": [
+            "图1具有加法同态的R-LWE 掩码方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3方案分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "首先，该加法同态解密策略可以看做是对密文的盲化处理，同时，将密钥随机分割为两部分能够使得密钥与密文混合，改变了原有的数据关系，消除了数据之间的依赖性。直观上来讲，该方法能够有效的抵抗一阶差分能量攻击，但是，在软件编程实现时，需要将子密钥载入寄存器进行计算，因此，未加保护的子密钥也是方案的潜在攻击点，攻击者可对子密钥进行恢复，从而获取最终密钥。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其次，由于密文之间的代数相加，造成密文中的噪声尺寸也是代数相加，当噪声尺寸过大，超过解密阈值时，就会出现解密失败的现象。根据文献[5]中的研究结果表明，密文相加使得解密失败率从 $3 . 6 \\times 1 0 ^ { - 5 }$ 增加至 $3 . 3 \\times 1 0 ^ { - 3 }$ ，扩大了将近一百倍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了解决上述解密正确率降低的问题，引入模数转换技术，对进行加法运算之后的密文使用模数转换技术，将原模数转换至一个较小的模数，在保证能够正确解密的前提下，降低密文中噪声尺寸的大小，提高了解密正确率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了保护子密钥，引入随机掩码矩阵，对子密钥进行掩码处理。使得子密钥处于保护状态，能够有效的避免差分能量攻击。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进的R-LWE方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "第1章通过分析原始方案，指出其中存在的些许安全隐患，本章针对上述缺陷进行改进，从而提高方案的解密正确率，同时保护子密钥的安全性。方案的密钥生成、加密算法均和原始方案相同。本文只对解密过程进行改进，改进后的解密过程如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)解密方接收到明文 $m _ { 1 }$ 对应的密文 $( c _ { 1 } ^ { \\prime } , c _ { 2 } ^ { \\prime } )$ ，本地产生随机消息 $m _ { 2 }$ 并加密得密文 $( c _ { 1 } ^ { \\prime \\prime } , c _ { 2 } ^ { \\prime \\prime } )$ ，对两个密文进行加法运算，并使用模数规约进行噪声的约减，最终得密文 $( c _ { 1 } , c _ { 2 } )$ 。计算过程如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6102a01440aeae6e8d4c258413e1dc25817ecb79c039e40b1280ee3599dc0b8c.jpg",
+        "img_caption": [
+            "图2对密文进行模规约计算"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)用户生成随机矩阵用于对子密钥进行掩码处理。假设生成随机矩阵为 $\\boldsymbol { \\mathscr { M } }$ ，计算 $\\pmb { S } _ { 1 } \\oplus \\pmb { M }$ ， $\\pmb { S } _ { 2 } \\oplus \\pmb { M }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)在每条分支语句中，根据掩码后的子密钥对密文进行解密计算。分别有 $\\left( \\pmb { \\mathscr { s } } _ { 1 } \\oplus \\pmb { M } \\right) \\pmb { \\mathscr { e } } _ { 1 } + \\pmb { c } _ { 2 }$ ， $\\left( \\pmb { S } _ { 1 } \\oplus \\pmb { M } \\right) \\pmb { e } \\ c _ { 1 }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)按照解密规则 $m { \\boldsymbol { \\sigma } } = { \\boldsymbol { s } } \\cdot { \\boldsymbol { c } } _ { 1 } + { \\boldsymbol { c } } _ { 2 }$ 进行解密运算，得解密结果 $m _ { 1 } \\oplus m _ { 2 } \\circ$ （20 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)根据本地随机消息 $m _ { 2 }$ ，求得最终原始消息 $m _ { 1 } = m _ { 1 } \\oplus m _ { 2 } \\oplus m _ { 2 } \\ \\odot$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/69d842f922c59fee241672c18e4e45ded67d99fb8b8386fc930df2fb337bb998.jpg",
+        "img_caption": [
+            "图3改进的解密方案"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { 1 } = m _ { 1 } \\oplus m _ { 2 } \\oplus m _ { 2 } \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 安全性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.1抗计时攻击 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计时攻击是根据不同比特位在执行密码算法过程中消耗的时间不同来进行攻击的。根据改进后的密码方案执行流程可知，算法对密钥的处理不是按照原始密钥比特位进行迭代处理的，而是将密钥进行了分割，每个子密钥单独处理，而子密钥的分割是随机进行的，攻击者无法知晓具体的分割方法，也就无法通过计时攻击确认每个子密钥执行的起始点，因此，不能根据计时信息对密钥进行恢复。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.2抗简单能量攻击 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "简单能量攻击是对密码算法执行过程中所采集到的能量消耗曲线进行直接分析的技术。本文通过对密钥进行随机分割，改变了原有的计算顺序，攻击者无法确定每个子密钥计算的起始点，也就使得攻击者无法根据能量消耗曲线直观的对密钥进行猜测，从而有效地防止简单能量攻击。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.3抗差分能量攻击 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "差分能量攻击主要是根据中间值之间的数据依赖关系进行攻击，只要能够证明数据之间不存在关联，即数据之间的概率分布与密钥无关，就能够有效的抵抗差分能量攻击。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节通过实现R-LWE解密算法，并证明其能够有效的抵抗差分能量攻击。R-LWE密码算法的解密实现如下所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { I m p a r t s } , \\boldsymbol { \\mathsf { S } } _ { 2 } , \\boldsymbol { \\mathsf { C } } _ { 2 } , \\boldsymbol { \\mathsf { M } } , m _ { 1 } } \\\\ & { \\mathrm { O n g u l p u l : } m _ { 1 } } \\\\ & { 1 . } \\\\ & { 2 . } \\\\ & { 2 . } \\\\ & { 3 . \\boldsymbol { \\mathsf { a c } } \\gets \\boldsymbol { \\mathsf { s } } _ { 1 } \\gets \\boldsymbol { \\mathsf { A } } _ { 1 } } \\\\ & { 2 . } \\\\ & { 3 . \\boldsymbol { \\mathsf { a c } } ^ { \\prime } \\gets \\boldsymbol { \\mathsf { a c } } ^ { \\prime } : \\boldsymbol { \\mathsf { c } } _ { 2 } } \\\\ & { 4 . \\boldsymbol { \\mathsf { a d } } ^ { \\prime } \\gets \\mathrm { R T T } ( \\boldsymbol { \\mathscr { A } } ^ { \\prime } ) } \\\\ & { 5 . \\boldsymbol { \\mathsf { a d } } , \\boldsymbol { \\mathsf { e } } \\gets \\boldsymbol { \\mathsf { A } } _ { 2 } \\succeq \\mathsf { M } } \\\\ & { 6 . \\boldsymbol { \\mathsf { a d } } ^ { \\prime } \\gets \\boldsymbol { \\mathsf { e } } _ { 2 } \\cdot \\boldsymbol { \\mathsf { c } } _ { 4 } } \\\\ & { 7 . \\boldsymbol { \\mathsf { a d } } ^ { \\prime } \\gets \\mathrm { R T T } ( \\boldsymbol { \\mathscr { A } } ^ { \\prime } ) } \\\\ & { 8 . \\boldsymbol { \\mathsf { a d } } - \\boldsymbol { \\mathsf { a d } } ^ { \\prime } + \\boldsymbol { \\mathscr { A } } ^ { \\prime } } \\\\ & { 9 . \\boldsymbol { \\mathsf { a d } } , \\boldsymbol { \\mathsf { e } } _ { 2 } \\gets \\boldsymbol { \\mathsf { D } } \\gets \\boldsymbol { \\mathsf { a d } } } \\\\ & { 1 . \\operatorname { m i n } _ { i } < - \\boldsymbol { \\mathsf { a d } } , \\boldsymbol { \\mathsf { e } } _ { 2 } \\odot \\mathsf { m } _ { 2 } , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 方案分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 正确性分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "正确性证明：为了证明该方案的正确性，首先，验证同态加法的解密正确性， $D e c ( c _ { 1 } , c _ { 2 } ) = D e c ( c _ { 1 } ^ { \\prime } + c _ { 1 } ^ { \\prime \\prime } , c _ { 2 } ^ { \\prime } + c _ { 2 } ^ { \\prime \\prime } ) =$ $D e c ( c _ { 1 } ^ { \\prime } , c _ { 2 } ^ { \\prime } ) \\oplus D e c ( c _ { 1 } ^ { \\prime \\prime } , c _ { 2 } ^ { \\prime \\prime } ) = m _ { 1 } \\oplus m _ { 2 } \\ \\cdot$ （号",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然后，使用 $\\alpha ^ { \\prime } , \\alpha ^ { \\prime \\prime }$ 表示 INTT 操作的输出，且 $\\alpha = \\alpha ^ { \\prime } + \\alpha ^ { \\prime \\prime }$ 。$\\alpha ^ { \\prime } , \\alpha ^ { \\prime \\prime }$ 分别计算为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\alpha ^ { \\prime } { = } \\mathrm { I N T T } \\big ( ( \\pmb { S } _ { 1 } \\oplus { \\pmb { M } } ) \\cdot \\mathbf { c } _ { 1 } + c _ { 2 } \\big ) } } \\\\ { { \\alpha ^ { \\prime \\prime } { = } \\mathrm { I N T T } \\big ( ( \\pmb { S } _ { 2 } \\oplus { \\pmb { M } } ) \\cdot \\mathbf { c } _ { 1 } \\big ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\alpha = \\mathrm { I N T T } ( \\pmb { \\mathscr { s } } \\cdot \\mathscr { c } _ { 1 } + \\mathscr { c } _ { 2 } ) = \\mathrm { I N T T } ( ( \\mathscr { s } _ { 1 } + \\mathscr { s } _ { 2 } ) \\cdot \\mathscr { c } _ { 1 } + \\mathscr { c } _ { 2 } ) } \\\\ & { \\quad = \\mathrm { I N T T } ( ( \\mathscr { s } _ { 1 } \\oplus M \\oplus M + \\mathscr { s } _ { 2 } ) \\cdot \\mathscr { c } _ { 1 } + \\mathscr { c } _ { 2 } ) } \\\\ & { \\quad = \\mathrm { I N T T } ( ( \\mathscr { s } _ { 1 } \\oplus M ) \\cdot \\mathscr { c } _ { 1 } + \\mathscr { c } _ { 2 } + ( \\mathscr { s } _ { 2 } \\oplus M ) \\cdot \\mathscr { c } _ { 1 } ) } \\\\ & { \\quad = \\mathrm { I N T T } ( ( \\mathscr { s } _ { 1 } \\oplus M ) \\cdot \\mathscr { c } _ { 1 } + \\mathscr { c } _ { 2 } ) + \\mathrm { I N T T } ( ( \\mathscr { s } _ { 2 } \\oplus M ) \\cdot \\mathscr { c } _ { 1 } ) } \\\\ & { \\quad = \\alpha ^ { \\prime } + \\alpha ^ { \\prime \\prime } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最后，对 $\\alpha$ 解密可得消息 $D e c ( \\alpha ) = D e c ( c _ { 1 } , c _ { 2 } ) = m _ { 1 } \\oplus m _ { 2 }$ ，则",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定理1当矩阵 $\\boldsymbol { \\mathscr { M } }$ ，随机消息 $m _ { 2 }$ 均为 $R _ { \\boldsymbol { q } }$ 上的独立均匀分布时，解密算法中的中间变量与敏感信息 $s \\ , \\ m _ { \\mathrm { 1 } }$ 服从独立分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "证明为了证明上述定理，本文分析每行中变量的分布并且证明所有的中间值与敏感信息 $s \\ , \\quad m _ { \\scriptscriptstyle 1 }$ 服从独立分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第1,5行：矩阵 $M$ 是一个随机变量，通过异或运算，使用该变量对中间值进行掩码处理，掩码处理后的变量服从原有的分布，并且不产生任何的敏感信息泄露。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第2,3,6行：在 $R _ { \\boldsymbol { q } }$ 上， $s _ { 1 } , s _ { 2 }$ 服从独立于 $s$ 的分布，并且每条语句的结果都不能用来恢复有关 $s$ 的任何信息。由于 $c _ { 2 }$ 依赖于密钥 $s$ ，但是根据 R-LWE 的假设，攻击者不能通过观察 $c _ { 2 }$ 获得有关 $s$ 的任何信息。同时， $c _ { 1 } , c _ { 2 }$ 是密文的一部分，其中包含随机消息 $m _ { 2 }$ 对应的密文,因此, $c _ { 1 } , c _ { 2 }$ 与密钥 $s$ 和明文消息 $m _ { 1 }$ 也是相互独立的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第4,7行：相互独立的变量 $\\alpha ^ { \\prime } , \\alpha ^ { \\prime \\prime }$ 经过INTT转换后仍是相互独立的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第8行：由第4,7行可知，两个相互独立的变量相加之后仍然是一个独立的变量，且不泄露任何敏感信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第9行：输入 $\\alpha$ 是经掩码后的数据，因此，该解密结果没有任何的信息泄露。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第10行：消息 $m _ { 2 }$ 是由本地随机产生并保存，通过异或运算可得最终消息m。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述：解密算法中的所有中间变量的分布与敏感信息S， $m _ { 1 }$ 相互独立。因此，对于攻击者来说，不能有效的对该算法进行差分能量攻击。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文设计的掩码防护方案对R-LWE算法进行了改进，通过密钥分割技术与同态解密策略，消除了数据与密钥之间的依赖性，能够有效的抵抗计时攻击、简单能量攻击及一阶差分能量攻击和高阶差分能量攻击。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3效率分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "解密正确率分析：文献[5]中指出，由于密文之间的同态加法运算，导致密文中噪声尺寸的增长，一旦噪声尺寸超过阈值，则会出现解密失败的现象。为了避免出现解密失败，本文引入了模数转换技术，通过模数转换，将模数转至一个较小的模数，并能够保证在相同的密钥下解密出正确的消息，这样就能够使得密文中的噪声尺寸降低，从而提高解密正确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "文献[13]中定理1证明了通过模数转换技术，在不知道密钥的值，仅知道密钥的界的前提下，能够将密文转换为一个新的密文，同时模数由原来的模数 $q$ 转换至一个数值较小的模数$p$ ，并且密文对应的明文消息不变。通过该技术降低了密文中的噪声尺寸，能够将噪声大小从 $\\| e _ { q } \\|$ 降低至$( p / q ) \\| e _ { q } \\| + 1 + n \\| s \\|$ ，从而提高解密的正确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对比分析：功耗平衡技术[1需要消耗大量的能量，且电路一般都需要重新设计；功耗扰乱技术[12]相比功耗平衡技术能够降低部分能量消耗，但是通常需要大量的数据处理，影响整体性能。对比布尔掩码，布尔掩码需要构建查找表，将所有的可能值都进行存储，加大了存储空间。而本文的同态解密，改变了算法的执行过程，不需要大量的能量开销，仅需要一个用于存储随机消息的寄存器即可。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4对比分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过分析对比，本文所提出的方案，比之文献[4]、文献[5]更加安全，增加了对子密钥的保护；效率上通过模数规约能够降低密文中的噪声尺寸，提高解密正确率，从而达到和原始方案相同的解密正确率。对比分析结果如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ab1bb5be5ac436aefdf3c10253acd49cec243908fb0e4d60fc0666c5e1cc72a.jpg",
+        "table_caption": [
+            "表1不同方案之间的对比分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方案</td><td>抗侧信道攻击能量</td><td>解密正确率</td><td>安全性</td><td>是否易于实现</td></tr><tr><td>文献[4]</td><td>√</td><td>一般</td><td>中</td><td></td></tr><tr><td>文献[5]</td><td>√</td><td>较低</td><td>中</td><td>√</td></tr><tr><td>本文方案</td><td>√</td><td>高</td><td>√</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在Reparaz 等人提出的具有加法同态的R-LWE 掩码方案基础上，引入模数转换技术，改变密文的处理方式，降低密文中噪声尺寸，提高了解密正确率。通过产生随机掩码矩阵，对子密钥进行掩码处理，使得子密钥得到保护，提高了方案的侧信道防御能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Regev O.On lattice，learning with errors，random linear codes，and cryptography [C]//Proc of STOC.2005: 113-127.   \n[2]Lyubashevshy V,Peikert C,Regev O.On ideal latice and learning with errors over rings [C]//Proc of Eurocrypt 2010.[S.1.]: Spring-Verlag,2010: 1-23.   \n[3]Kocher P,Jaffe J,Jun B.Differential power analysis $[ \\mathrm { C } ] / \\hbar$ Proc of International Cryptology Conference on Advances in Cryptology.[S.1.] : Springer-Verlag,1999: 388-397.   \n[4]Reparaz O，Roy S S，Vercauteren F,et al.A masked ring-LWE implementation [C]// Proc of Cryptographic Hardware and Embedded Systems.Berlin: Springer,2015.   \n[5]Reparaz O, Clercq R D,Roy S S, et al. Additively homomorphic ring-LWE masking [C]// Proc of Post-Quantum Cryptography.[S.1.]: Springer International Publishing, 2016.   \n[6]Pessl P.Analyzing the shuffling side-channel countermeasure for lattcebased signatures [C]// Proc of Progress in Cryptology-INDOCRYPT 2016. [S.1.] : Springer International Publishing,2016.   \n[7]Bruinderink LG, Hulsing A,Lange T,et al.Flush, Gauss,and reload: a cache attack on the BLISS lattice-based signature scheme [C]// Proc of Cryptographic Hardware and Embedded Systems. Berlin: Springer, 2016.   \n[8]Liu Z,Seo H,Roy S S,et al. Efficient ring-LWE encryption on 8-bit AVR processors [Cl// Proc of Cryptographic Hardware and Embedded Systems. Berlin: Springer,2015: 663-682.   \n[9]Saarinen MJO.Arithmetic coding and blinding countermeasures for lattice signatures [J/OL]. Journal of Cryptographic Engineering (2017):1-14. https://link.springer.com/article/10.1007/s13389-017-0149-6.   \n[10] Tong Y,Wang Z,Dai K,et al.A DPA and HO-DPA resistant implementation of AES [J]. Journal of Computer Research & Development, 2009,46 (3): 377-383.   \n[11] Burns F,Bystrov A,Koelmans A,et al.Design and security evaluation of balanced 1-of-n circuits [J].Iet Computers & Digital Techniques,2012,6 (2): 125-135.   \n[12] Liu PC, Chang HC,Lee C Y.A low overhead DPA countermeasure circuit based on ring oscillators[J]. IEEE Trans on Circuits & Systems II Express Briefs,2010,57(7): 546-550.   \n[13]汤殿华，祝世雄，王林，等．基于 RLWE 的全同态加密方案[J].通信 学报,2014,35(1):173-182. ",
+        "page_idx": 3
+    }
+]

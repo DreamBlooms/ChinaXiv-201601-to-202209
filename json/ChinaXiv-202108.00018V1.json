@@ -1,0 +1,504 @@
+[
+    {
+        "type": "text",
+        "text": "风电场对草地土壤湿度的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "贾馨，李国庆，王刚，曹煜(鲁东大学资源与环境工程学院，山东 烟台264025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：全球不可再生能源的日益短缺使风力发电场的陆地覆盖面积空前扩大，风力发电机的运行已经开始改变局地气候和环境。土壤湿度的细微变化能反映出气候和环境的重大变化，因此判断风电场建成前后土壤湿度的变化对评价风电场对局地气候和环境的影响具有重要作用。针对目前存在的数据空间分辨率低、没有与建成前土壤湿度进行对比、缺少土壤实测数据、实测点状数据无法表达空间差异、极少有建成前土壤湿度实测数据等问题，以内蒙古灰腾梁地区的风电场为研究区，以风电场建成前(1984—2006年）建成后（2009—2019年)的Landsat影像和实测土壤湿度数据为数据源，通过模型模拟和显著性检验的方法，判断风电场对草地土壤湿度的影响区域和影响程度。结果表明：(1)风电场会导致土壤湿度变化，但风电场内、上风向以及下风向土壤湿度的变化程度存在明显的差异；(2)风电场对下风向土壤湿度影响最为明显，下风向受影响的像元个数占下风向总像元个数的 $5 5 \\%$ ；(3）风电场对4月和8月土壤湿度的影响最为显著，风电场会降低草地的土壤湿度，加重牧草返青期和成熟期的干旱化。在风电场快速发展的背景下,研究结果期待为风电场的建设、探讨风电场对土壤湿度的影响、草原生态系统的可持续发展提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：风电场；土壤湿度；草地；内蒙古灰腾梁地区",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "风能以其资源丰富、技术成熟、成本低廉的优势成为可再生能源中发展最快的清洁绿色能源，其发展前景非常广阔[1-2]。2009年以来，风力发电机在中国快速发展，风电总装机容量居世界首位3，已成为全球风电行业发展的带头人，风能未来会在中国能源结构中占据着重要地位。风能在改善能源结构单一、推动环保事业、保持经济和社会可持续发展等方面发挥积极作用的同时，风电场引起的环境变化也引起了人们关注[4]。目前，大量研究主要集中在风电场对动植物生存环境、景观格局及气候变化等方面[5-8],对土壤湿度的影响研究还较少。土壤湿度作为土壤的重要理化性质之一，是生态、气候、水文、农业等领域的主要参数，在地表与大气界面的水分和能量交换中起着至关重要作用，特别是在干旱区与半干旱区，土壤湿度的变化对生态系统的影响更为明显[9-10]。目前判断风电场对土壤湿度的影响主要有遥感和实测2种方式，例如曹阳\"通过建立旱情均值指数、降水量、归一化植被指数(ND-VI)等多个因子与风机数量变化的关系模型，发现研究区风机的增长对研究区旱情加重具有一定的促进作用。Tang等[2]利用 $0 . 2 5 ^ { \\circ } { \\times } 0 . 2 5 ^ { \\circ }$ 的土壤湿度数据，比较风电场区和非风电场区年际土壤湿度的差异，发现风电场会导致土壤湿度降低。Xia等5通过利用网格化 $0 . 2 5 ^ { \\circ } { \\times } 0 . 2 5 ^ { \\circ }$ 帕尔默干旱严重程度指数(Palmer drought severity index,PDSI),发现风电场建成后的PDSI异常有干燥趋势 $\\scriptstyle ( P < 0 . 0 5 )$ 。解云虎[13]通过对不同投产期限的风电场区和非风电场区进行土壤样品采集，发现风电场区样地土壤含水量小于非风电场区的土壤含水量值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "虽然前人的研究已经取得了一定的成果，但目前还存在几个关键性问题没有解决：（1）所用数据空间分辨率低；(2）没有与建成前的土壤湿度进行",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对比且缺少土壤湿度实测数据补充；（3）实测点状数据无法表达空间差异；（4）极少有建成前土壤湿度实测数据等。而这些问题将直接影响研究结果的准确性和代表性。因此，本文以内蒙古灰腾梁风电场为例，以遥感技术为主要方式，结合实测土壤湿度数据，通过模型模拟和显著性检验的方法，探求风电场对草地土壤湿度的影响区域和影响程度，期待为风电场的建设、客观评价风电场对生态环境的影响提供借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于内蒙古灰腾梁地区，是中国百万千瓦级风力发电基地之一，截止2009年2月底，灰腾梁地区风电场装机容量为 $4 0 0 { \\mathrm { M W } }$ ,包括8个风电场工程：国华锡林浩特风电场工程、大唐锡盟灰腾梁风电场工程、吉相华亚风电场工程、北方龙源风电场工程、中水建风电场工程、国泰风电场工程、中广核风电场工程、北方联合电力风电场工程[14]。研究区总的气候特点为：春季气温骤升，多大风天气；夏季短促，雨热同期；秋季气温骤降，霜冻来临时间早；冬季严寒漫长,寒潮天气多[15]。研究区内植被类型以克氏针茅草原和羊草草原为主。常见的禾本科植物有克氏针茅、羊草、大针茅、贝加尔针茅、糙隐子草、冰草等，体现了较为明显的典型草原植被类型[16]。研究区土壤类型主要为适合典型草原植被生长的栗钙土,土壤质地主要为壤质、沙壤质[16]研究区位置及气象站、风力发电机、土壤温湿度探头分布如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 遥感与土地利用数据由于土温小于 $0 \\mathrm { { ^ { \\circ } C } }$ 时，土壤表面结冰，土湿几乎不再发生改变，所以本文选择土温大于 $0 \\mathrm { { ^ { \\circ } C } }$ 的月份进行分析。另外，需要剔除有云的遥感数据。本文最终选择4、5、7、8月的遥感数据进行研究和讨论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用GEE平台获取了覆盖研究区的Landsat-5和Landsat-8影像，时间范围和影像数量如下：（1）风电场建成前，1984—2006年4、5、7、8月的Landsat-5影像21幅。(2）风电场建成后，2009—2019年4、5、7、8月的Landsat-5影像5幅、Landsat-8影像16幅;行、列号分别为124、30。（3）土壤湿度反演需要的2018年和2019年Landsat-8数据5幅。具体数据如表1、表2所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土地利用类型数据来自于欧空局全球陆地覆盖数据集（网址:https://www.esa-landcover-cci.org）,从中下载了1992、1996、2001、2006、2010年和2015年共6a的土地利用类型图。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e69903625f40e71bbfe6290be6e618c6dc8f8d6ba4e71d861f9392fe9755de39.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1 Location of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/af5ecbc0b88c397db309d2d8eab37e913e3217262c15caa4813c8914e1291347.jpg",
+        "table_caption": [
+            "Tab.1 Remote sensing image data used in soil moisture analysis "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>日期</td><td colspan=\"7\">成像时间/年-月-日</td></tr><tr><td>建成前</td><td>1984-04-17</td><td>1985-04-04</td><td>1992-04-23</td><td>1994-04-29</td><td>1995-04-16</td><td>1996-04-18</td><td>1998-04-08</td></tr><tr><td></td><td>2001-04-16</td><td>1989-05-01</td><td>1989-05-17</td><td>1990-05-04</td><td>1996-05-04</td><td>1996-05-20</td><td>2003-05-24</td></tr><tr><td></td><td>1987-07-31</td><td>1995-07-21</td><td>2000-07-18</td><td>1991-08-11</td><td>1992-08-29</td><td>1997-08-27</td><td>2004-08-14</td></tr><tr><td>建成后</td><td>2009-04-06</td><td>2011-04-12</td><td>2014-04-04</td><td>2016-04-09</td><td>2017-04-12</td><td>2017-04-28</td><td>2018-04-15</td></tr><tr><td></td><td>2019-04-18</td><td>2013-05-03</td><td>2014-05-22</td><td>2015-05-25</td><td>2016-05-27</td><td>2017-05-30</td><td>2018-05-01</td></tr><tr><td></td><td>2014-07-09</td><td>2017-07-17</td><td>2019-07-07</td><td>2009-08-12</td><td>2010-08-31</td><td>2011-08-02</td><td>2014-08-26</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2土壤湿度反演所使用的遥感影像数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/14c4cce4976b5d634b02db486552474b1aab2cc0fa846bec6623e151b20948b8.jpg",
+        "table_caption": [
+            "表1土壤湿度分析所使用的遥感影像数据",
+            "Tab.2 Remote sensing image data used in soil moisture retrieval "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>成像时间/年-月-日</td></tr><tr><td>2018-04-15 2018-05-01 2019-04-18 2019-07-07 2019-08-24</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2土壤湿度和气象数据本研究所使用的土壤温度与湿度传感器型号为武汉能慧科技有限公司生产的NHSF50WS-R，土壤湿度测量范围为 $0 { \\sim } 1 0 0 \\%$ 容积含水率， $0 \\sim 5 3 \\%$ 范围内的误差为 $\\pm 2 \\%$ ， $5 3 \\%$ 2$100 \\%$ 范围内误差为 $\\pm 4 \\%$ ；温度测量范围为 $- 4 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C } \\sim$ $8 0 { \\pm } 0 . 4 \\ \\mathrm { ^ \\circ C }$ 。数据采集时间为2017年9月27日一2019年8月31日，土壤温度及湿度的记录时间间隔为每 $5 \\mathrm { m i n }$ 一条。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "风向数据为风电场建成后的2009—2019年4、5、7、8月内蒙古锡林浩特市气象站的数据，来源于中国气象数据网中国地面气候资料日值数据集(V3.0)（网址:https://data.cma.cn）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1风向数据处理与区域划分为判断风电场建成后对各风向上土壤湿度的影响，本文利用中国气象数据网中国地面气候资料日值数据集(V3.0)中锡林浩特气象站的风向数据，分别统计风电场建成后2009—2019年4、5、7、8月最大风速的风向频率，最终确定NNW方向为上风向，SSE方向为下风向。为准确划分上、下风向区域的范围，从风电场区的左右端点作风向的平行线，确定风电场的上风向区域和下风向区域，如图2所示，上、下风向面积基本相等，约为 $9 4 1 . 6 7 \\mathrm { k m } ^ { 2 }$ O",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2土地利用类型未变化区域的获取为了排除其他土地利用类型对研究结果的影响，利用1992、1996、2001、2006、2010年和2015年6a的土地利用类型图，通过求交集得到上述时间段中草地的公共区域，将公共区域作为本研究的草地范围，如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/54146f5e9e01a058190532efc1c9cc9d4bb6d0e797e2fdfed48398a562dab32c.jpg",
+        "img_caption": [
+            "图2上、下风向的区域划分",
+            "Fig.2 Division of upwind and downwind direction "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3土壤湿度的模拟本文选择基于改进型垂直干旱指数(MPDI)进行对研究区土壤湿度的反演。计算公式如下[17]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M P D I } = \\frac { R _ { \\mathrm { r e d } } + K \\times R _ { \\mathrm { n i r } } - f _ { \\mathrm { v } } \\left( R _ { \\mathrm { r e d } _ { - } \\mathrm { v } } + K \\times R _ { \\mathrm { n i r } _ { - } \\mathrm { v } } \\right) } { \\left( 1 - f _ { \\mathrm { v } } \\right) \\sqrt { K ^ { 2 } + 1 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $R _ { \\mathrm { r e d } } \\setminus R _ { \\mathrm { n i r } }$ 分别为红光波段、近红外波段的反射率; $R _ { \\mathrm { r e d \\_ v } } \\setminus R _ { \\mathrm { n i r \\_ v } }$ 分别为植被在红光和近红外波段的反射率，结合研究区的实际情况，同时为了满足快速反演的需求, $R _ { \\mathrm { r e d \\_ v } }$ 和 $R _ { \\mathrm { n { \\dot { r } } _ { - } v } }$ 取经验值,即 $R _ { \\mathrm { r e d \\_ v } } =$ 0.05, $R _ { \\mathrm { n \\mathrm { i r \\_ v } } } { = } 0 . 5 0 ^ { [ 1 8 ] }$ ; $f _ { \\mathrm { v } }$ 为植被覆盖度; $K$ 为土壤线斜率，通过人工识别的方式确定裸露土壤，建立土壤",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/551fb966c534b1e191623666f140e7c7b93545597ec68908a4e8df86443c8648.jpg",
+        "img_caption": [
+            "图3土地利用类型分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "线方程,确定 $K$ 值[19]。 $f _ { \\mathrm { v } }$ 计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\mathrm { v } } = 1 - \\left( { \\frac { \\mathrm { N D V I } _ { \\mathrm { m a x } } - \\mathrm { N D V I } } { \\mathrm { N D V I } _ { \\mathrm { m a x } } - \\mathrm { N D V I } _ { \\mathrm { m i n } } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { N D V I \\rvert _ { \\operatorname* { m a x } } } \\setminus \\mathrm { N D V I \\rvert _ { \\operatorname* { m i n } } }$ 分别为研究区NDVI的最大值和最小值。由于研究区地表覆盖复杂，计算得到的NDVI最大、最小值可能存在误差，拟取累积概率约为 $5 \\%$ 和 $9 5 \\%$ 的NDVI值作为最小值和最大值[20]利用以上研究方法，计算风电场建成前后遥感影像的MPDI值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用表2中的遥感影像，提取5幅遥感影像的土壤温湿度探头所在处的MPDI值，将其与对应时间土壤湿度实测数据建立散点图进行线性拟合，构建线性拟合方程。利用拟合方程计算表1中42幅遥感影像的土壤湿度空间分布图。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.4土壤湿度变化的显著性分析利用ENVI/IDL工具对风电场建成前后相同位置像元的土壤湿度进行单因素方差分析[21],判断风电场建成前后相同月份土壤湿度的差异是否具有显著性。划分范围和等级如下： $P { > } 0 . 0 5$ 为在0.05的水平上无统计学差异，以下简称无差异； $0 . 0 1 { < } P { \\leqslant } 0 . 0 5$ 为有统计学差异，以下简称有差异； $0 . 0 0 1 { < } P { \\leqslant } 0 . 0 1$ 为有显著性统计学差异，以下简称有显著差异； $0 { < } P { \\leqslant } 0 . 0 0 1$ 为有极显著性统计学差异，以下简称有极显著差异。其计算公式为[22]：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = { \\mathrm { I M S L } } \\_ { \\mathrm { A N O V A } 1 ( n , \\ y ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $P$ 为显著性水平值；IMSL_ANOVA1函数是方差分析中的单项分类模型22， $P$ 值越小显著性差异越明显； $n$ 是进行单因素方差分析时需要的风电场建成前后遥感影像的数量； $y$ 是所有遥感影像同一位置的像元值集合。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1土壤湿度的反演与精度评价 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文选用MPDI指数对土壤湿度进行计算后，通过实测数据进行检验，平均相对误差为 $1 9 \\%$ 。按照2.2.3部分中的方法，得到实测土壤湿度数据和遥感影像MPDI的线性关系（图4)。从拟合结果来看，MPDI与实测土壤湿度呈负相关关系，即MPDI值越高，土壤湿度越低，决定系数 $\\left( R ^ { 2 } \\right)$ 为0.4311( $\\scriptstyle P <$ 0.01)。所以本文采用该线性关系计算表1中所有遥感影像的土壤湿度。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfc06edc3073698ae8ad60af5a02bf37d1b253b8d54f3505efe37603ebb7f79b.jpg",
+        "img_caption": [
+            "Fig.3Distribution of land use types ",
+            "图4改进型垂直干旱指数(MPDI)与土壤湿度的线性关系 Fig.4 Linear relationship between modified perpendicular drought index (MPDI) and soil moisture "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2风电场对土壤湿度的影响分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文将建成前后的所有遥感影像利用ENVI/IDL进行单因素方差分析，得到了风电场建成前后土壤湿度显著性水平的空间分布图(图5)。由图5可知，风电场建成后的土壤湿度与风电场建成前的土壤湿度差异明显。为详细分析图5中上风向、下风向和风场内不同显著性水平的土壤湿度差异，本文利用ArcGIS统计不同显著水平的像元在上风向、下风向和风场内占总像元数量的比例，并归纳得到表3。由表3可以看出，在风电场建设前后风电场内、上风向和下风向区域像元的显著性水平存在显著性差异。上风向 $0 < P { \\leqslant } 0 . 0 5$ 的像元所占的比例最小，下风向 $0 < P { \\leqslant } 0 . 0 5$ 的像元所占的比例最大，可见下风向土壤湿度受风电场的影响要比上风向和风电场内部明显。风电场对土壤湿度的影响主要由于下面2个原因：一方面，风电场的建设不仅会加快风场内部区域的蒸散发[23]，而且会引起风场内部区域地表温度的升高[24]；另一方面，由于在施工过程中开挖表土、破坏原地貌植被，导致了风场内土壤结构的改变和土壤含水率的降低[16]。而上、下风向的土壤湿度变化主要与上、下风向的地表温度相关，由于下风向的增温要比上风向和风电场内部增温明显25，所以下风向的蒸散发也比上风向及风电场内部强烈，土壤湿度的变化也更加明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6b0196fbfccb61d5c88aec1f3c41e283616c723c64dc78f8297b248a7084149.jpg",
+        "img_caption": [
+            "图5全年的土壤湿度 $P$ 值分布",
+            "Fig. 5 $P$ value distribution of soil moisture throughout one year "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步研究风电场对各个月份土壤湿度的影响，分别得到了4、5、7、8月的土壤湿度 $P$ 值图。风电场对各个月份土壤湿度的影响程度是不同的(图6)。4月比5月和7月的土壤湿度显著性差异更为明显。这是因为4月研究区大风天气多且风速大[26]，延长了风电场的运行时间，加上当时研究区刚刚返青，草地基本处于裸露状态，风力发电机的影响将直接作用在土壤上，且当风力发电机运行时会使得区域增温更加明显[27],所以4月土壤湿度受风电场的影响较大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而在5月，差异性显著的像元所占比重有所下降。原因主要是：研究区草原返青大约在四月上旬或者中旬开始[28],5月时的草地属于生长季,其根部可以起到增加土壤水分下渗和增加土壤储水空间的作用，在一定程度上缓和了风电场对土壤湿度的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这一现象同时出现在7月，与其他月份相比，差异性显著的像元所占比例最低。其原因为：一方面，7月是草地生长的旺季，生长旺季的草地会缓解风电场对土壤湿度产生的影响，加上夏季土壤水分的增加，使得风电场对土壤湿度的影响较小；另一方面，7月的大风天气相对较少、风速较慢，减少了风电场的运行时间，所以风电场对7月土壤湿度影响较小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "而在8月，与其他3个月相比，差异显著的像元所占比例最高。这主要由于该区域存在众多打草场，这些打草场在8月中上旬会集中刘割牧草，植被的减少会削弱草场蓄水的能力，加重了风电场对土壤湿度影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了评估风电场对土壤湿度改变的具体数值，分别计算了风电场建成后、建成前的土壤湿度平均值，然后将建成后与建成前的土壤湿度平均值相减，得到土壤湿度空间差异分布图，正值则表示风电场建成后土壤湿度增加，负值则表示风电场建成后土壤湿度减少(图7)。为了定量分析其土壤湿度变化情况，将土壤湿度等级分类，得到表4。从表4可以看出，上风向、下风向和风场内土壤湿度轻度减少的面积占草地面积的百分比最大，分别为$7 2 . 4 0 \\% . 7 7 . 8 9 \\%$ 和 $8 9 . 2 5 \\%$ 。在上、下风向区域,土壤湿度减少的面积达到上、下风向草地面积的 $7 3 . 3 0 \\%$ 和 $8 5 . 9 2 \\%$ ，在风场内区域，土壤湿度减少的面积则达到了风场内草地面积的 $9 7 . 0 3 \\%$ ,可见风电场对上风向、下风向和风场内的土湿影响明显，土壤湿度以减少为主。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/803b95e71f881448a5d67d64c3531bd2dd1b9122a04df4febf87be25b8d50510.jpg",
+        "table_caption": [
+            "表3不同等级差异显著像元所占比例统计",
+            "Tab.3Proportion of pixels with significant difference in different level: ",
+            "1% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">级别</td><td>全年</td><td>4月</td><td>5月</td><td>7月</td><td>8月</td></tr><tr><td>上风向/下风向/ 风场内</td><td>上风向/下风向/ 风场内</td><td>上风向/下风向/ 风场内</td><td>上风向/下风向/ 风场内</td><td>上风向/下风向/ 风场内</td></tr><tr><td>0.00<P≤0.001</td><td>7/17/10</td><td>2/5/4</td><td>2/3/2</td><td>0/0/0</td><td>3/13/12</td></tr><tr><td>0.001<P≤0.01</td><td>9/18/15</td><td>5/14/14</td><td>4/6/4</td><td>1/2/1</td><td>16/29/36</td></tr><tr><td>0.01<P≤0.05</td><td>15/20/22</td><td>11/22/19</td><td>8/11/10</td><td>4/10/7</td><td>28/22/33</td></tr><tr><td>0.00<P≤0.05</td><td>31/55/47</td><td>18/41/37</td><td>14/20/16</td><td>5/12/8</td><td>47/64/81</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c7050a006a9a1ee23a6dac14ae6d0d400a650136def26a04fa33e88eae6fdf0.jpg",
+        "img_caption": [
+            "图64、5、7、8月的土壤湿度P值分布",
+            "Fig. 6 $P$ value distributions of soil moisture in April,May, July and August "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）本文讨论的是风电场建成前后对土壤湿度的影响，其数据和结论仅适用于内蒙古典型草原区的草地类型。在世界范围内，风电场广泛分布在湿润区、半湿润区、半干旱区和干旱区，这些区域中有森林、草原、湿地、荒漠等多种生态系统类型。在不同的生态类型下，风电场对土壤湿度的影响是不同的，因此判断风电场对不同地区、不同生态系统类型下的土壤湿度的影响还需要进一步研究，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）光学遥感影像中，近红外和红光波段反射率构建的反演指数对近地表土壤湿度信息较为敏感，由于其穿透能力较弱，对地下较深层次的土壤湿度反演精度略低[20]。微波遥感能够不受光照条件限制，全天候、全天时工作且穿透能力强，但在微波遥感反演土壤湿度过程中，主动微波遥感成像时间晚，不适于长时间序列土壤湿度的反演；被动微波遥感成像时间较早，但其空间分辨率较低，不利于土壤湿度的高精度反演[29]。因此我们利用Land-sat数据对土壤湿度进行反演。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）土壤水分是干旱和半干旱草原区牧草生长发育的一个重要限制因子[30],其时空变化对天然牧草的生长有着举足轻重的作用。本研究表明风电场的建设会对土壤湿度产生一定程度的影响，其影响主要体现在4月和8月，即牧草的返青期和成熟期。于牧草而言，在一定土壤水分条件下，其产量与水量成正相关关系，即水分越充足，产量越高，水分亏缺程度愈严重产量就愈低[31]。因此，当牧草返青期和成熟期土壤湿度降低时，一定程度上会引起草地产草量的下降。并且春季牧草返青生长对土壤水分的依赖性较强，当水分不足导致草地返青延迟时，会加大春季沙尘暴的概率[32],直接影响着社会经济和草原生态的可持续发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c0a822070c36ab926f192731c63f0cad780e6cad37c36c8f7dd7ec8d4623ead.jpg",
+        "img_caption": [
+            "贾馨等：风电场对草地土壤湿度的影响",
+            "注：d表示土壤水分变化范围。",
+            "图7土壤湿度空间差异分布",
+            "Fig.7Spatial difference distribution of soil moisture "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ada2a3c094e2693988605558f511b746eb4b18a32763f3bf16dea2426f8b06b.jpg",
+        "table_caption": [
+            "表4不同土壤湿度变化范围所占面积统计",
+            "Tab.4 Area of different soil moisture variation ranges ",
+            "1% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土壤水分变化范围(d)/%</td><td>所占上风向草地面积百分比</td><td>所占下风向草地面积百分比</td><td>所占风场内草地面积百分比</td></tr><tr><td>d<-6</td><td>0.06</td><td>0.07</td><td>0.04</td></tr><tr><td>-6≤d<-3</td><td>0.84</td><td>7.96</td><td>7.73</td></tr><tr><td>-3≤d<0</td><td>72.40</td><td>77.89</td><td>89.25</td></tr><tr><td>0≤d<3</td><td>26.18</td><td>12.85</td><td>2.96</td></tr><tr><td>3≤d<6</td><td>0.51</td><td>1.14</td><td>0.02</td></tr><tr><td>d≥6</td><td>0.01</td><td>0.09</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）目前，有关风电场对土壤湿度的影响还存在一些争议。首先，并不是所有研究都表明风电场会对土壤湿度产生影响。如Armstrong等[33]在研究风力涡轮机运行对苏格兰泥炭地风电场的地面气候的影响时发现，风电场影响下土壤湿度的差异性不显著 $( P { > } 0 . 0 5 )$ 。其结果与我们结论不同的原因可能为不同的下垫面所导致，但具体的原因还需进一步的验证。也有研究表明，不同投产期限风电场区的土壤湿度比非风电场区土壤湿度的平均降低了约 $4 \\%$ ,这与我们研究发现土壤湿度减少在同样量级[13]。另外，将我们对土壤湿度的研究结果与曹阳1的研究结果相比，其差异在于后者并未探究风电场对上、下风向及不同月份的影响，二者的共同点在于认为风电场加重了研究区的干旱化。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "风能具有成本低、效益高、来源广、前景广阔等优点，是世界各地建造风力发电厂的核心驱动力。风力发电机的大规模推广也对环保和节能事业做出了重大贡献，但是，风电场项目对生态环境的影响也需要引起人们的反思。风电场的建立是人类对大自然的人为干预，其建设应以保护生态环境为基本准则，因此当风电场对局部生态环境产生不利影响时，应严格控制，尽可能减少其负面影响。本文以内蒙古典型草原区的风电场为例，对风电场不同月份和不同风向土壤湿度的变化进行了分析，具体结论如下：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）从全年来看，风电场的运行确实引起了草地土壤湿度的变化，但风电场对上风向、下风向和风场内区域土壤湿度的影响具有差异性。(2）风电场对下风向土壤湿度的影响最大，对上风向土壤湿度的影响最小;风电场下风向的土壤湿度 $0 < P { \\leqslant } 0 . 0 5$ 像元所占比例为 $5 5 \\%$ ,上风向的土壤湿度 $0 < P { \\leqslant } 0 . 0 5$ 像元所占比例为 $3 1 \\%$ 。(3）从时间上看，风电场对不同月份土壤湿度的影响具有差异性，风电场对4月和8月的土壤湿度的影响比5月和7月明显。且风电场建成后，土壤湿度以下降为主，风电场的运行会加重牧草返青期和成熟期的干旱化程度。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Feng Y,Lin H,Ho SL,et al. Overview of wind power generation in China: Status and development[J].Renewable and Sustainable Energy Reviews,2015,50:847-858.   \n[2] Leung DYC,Yang Y.Wind energy development and its environmental impact:A review[J].Renewable and Sustainable Energy Reviews,2012,16(1) :1031-1039.   \n[3] 张晶晶，王克,邹骥.论CDM对中国风电发展的影响[J].可再生 能源,2011,29(2):147-151.[Zhang Jingjing,Wang Ke,Zou Ji. Analysis on the influence of CDM on wind power in China[J].Renewable Energy,2011,29(2): 147-151.]   \n[4] Xu J,He D, Zhao X.Status and prospects of Chinese wind energy [J].Energy,2010,35(11):4439-4444.   \n[5] Xia G, Zhou L.Detecting wind farm impacts on local vegetation growth in Texas and Illinois using MODIS vegetation greenness measurements[J]. Remote Sensing,2017,9(7): 698-714.   \n[6] Dai K,Bergot A,Liang C,et al.Environmental issues associated with wind energy: A review[J].Renewable Energy,2O15,75: 911-921.   \n[7]Jerpasen G B,Larsen K C. Visual impact of wind farms on cultural heritage: A Norwegian case study[J]. Environmental Impact Assessment Review,2011,31(3): 206-215.   \n[8]赵宗慈,罗勇,江滢.风电场对气候变化影响研究进展[J].气候 变化研究进展,2011,7(6):400-406.[Zhao Zongci,Luo Yong, Jiang Ying.Advances in assessment on impacts of wind farms upon climate change[J]. Advances in Climate Change Research, 2011,7 (6): 400-406.]   \n[9]姚春生,张增祥,汪潇.使用温度植被干旱指数法(TVD)反演新 疆土壤湿度[J].遥感技术与应用,2004,19(6):473-478.[Yao Chunsheng, Zhang Zengxiang,Wang Xiao.Evaluating soil moisture status in Xinjiang using the temperature vegetation dryness index(TVDI)[J]. Remote Sensing Technology and Application,2004,19 (6): 473-478.]   \n[10] 李素英,李晓兵,符娜,等.内蒙古典型草原区土壤硬度与土壤 水分的空间变化分析——以锡林浩特为例[J].干旱区地理, 2007,30(2):96-22.[iSuying,iXiaobing,FuNaetall change of soil hardness and soil moisture in typical steppe area of Inner Mongolia[J]. Arid Land Geography,2007,30(2): 196-202.]   \n[11] 曹阳.辉腾锡勒草原风电场遥感旱情动态监测研究[D].呼和浩 特:内蒙古农业大学,2017.[Cao Yang. Study on remote sensing drought monitoring in Huitengxile grassand wind farm[D]. Hohhot: Inner Mongolia Agricultural University,2017.]   \n[12] Tang B,Wu D, Zhao X,et al. The observed impacts of wind farms on local vegetation growth in northern China[J]. Remote Sensing, 2017, 9(4): 332-344.   \n[13] 解云虎.风力发电场对植被及土壤性质的影响[D].呼和浩特: 内蒙古师范大学,2015.[Xie Yunhu.Effects of wind farms on vegetation and soil properties[D]. Hohhot: Inner Mongolia Normal University,2015.]   \n[14] 李威杰.锡林郭勒盟灰腾梁地区百万风电场风电项目及送出方 案浅谈[C]/2009年风电场接人电网技术专题研讨会论文集.中 国电力企业联合会科技服务中心,全国风力发电技术协作网, 中国电力科学研究院新能源研究所：中国电力企业联合会科 技开发服务中心,2009:177-182.[LiWeijie.A brief discussion on wind power project and delivery scheme of million scale wind power plants in Huitengliang Area Xilingol League[C]/Proceedings of the 2OO9 Symposium on Wind Farm Connecting to Grid Technology. Science and Technology Service Center of China Electricity Council,，National Wind Power Technology Collaboration Network,New Energy Research Institute,China Electric Power Research Institute: Science and Technology Development Service Center of China Electricity Council,2009:177-182.]   \n[15] 代海燕,李丹,娜日苏,等.内蒙古干湿环境演变与地区生态建 设优势气候背景分析[J].干旱区地理,2019,42(4):745-752. [Dai Haiyan,Li Dan,Na Risu,et al.Dry and wet environment evolution and climatic background analysis of regional ecological con",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "struction in Inner Mongolia[J].Arid Land Geography,2O19,42(4): 745-752.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16]张爽爽.风电场建设对生态环境影响的研究——以锡林郭勒盟 灰腾梁风电场为例[D].呼和浩特:内蒙古大学,2012.[Zhang Shuangshuang. Research on the impact of wind farm construction on ecological environment[D]. Hohhot: Inner Mongolia University, 2012.]   \n[17] 高中灵,王建华,郑小坡,等.ADI土壤水分反演方法[J].光谱学 与光谱分析,2016,36(5):1378-1381.[Gao Zhongling,Wang Jianhua, Zheng Xiaopo,et al.Soil moisture monitoring based on angle dryness index[J]. Spectroscopy and Spectral Analysis,2016,36 (5): 1378-1381.]   \n[18]荣祁远,何祺胜,刘宝柱.基于Landsat 8数据的干旱监测研究 [J].科学技术与工程,2015,15(31):205-211.[Rong Qiyuan,He Qisheng,Liu Baozhu. Study of drought monitoring based on Landsat 8 data[J]. Science Technology and Engineering,2O15,15(31): 205-211.]   \n[19] 杨国范,翟光耀,张婷婷,等.基于环境小卫星的土壤线提取研 究[J].遥感技术与应用,2014,29(3):428-432.[Yang Guofan, Zhai Guangyao,Zhang Tingting,etal.Studyon the soil line deriving based on HJ Satellites[J]. Remote Sensing Technology and Application,2014,29(3): 428-432.]   \n[20] 聂艳,马泽玥,周逍峰,等.阿克苏河流域土壤湿度反演与监测 研究[J].生态学报,2019,39(14):5138-5148.[Nie Yan,Ma Zeyue, Zhou Xiaofeng, et al. Soil moisture retrieval and monitoring in the Aksu River Basin[J].Acta Ecologica Sinica,2019,39(14): 5138-5148.]   \n[21]Bustos O H,Frery A C. Statistical functions and procedures in IDL 5.6 and 6.O[J]. Computational Statistics & Data Analysis,2006,50 (2): 301-310.   \n[22]董彦卿.IDL程序设计:数据可视化与ENVI二次开发[M].北 京：高等教育出版社,2012:317.[Dong Yanqing.IDL programming:Data visualization and ENVI secondary development[M]. Beijing: Higher Education Press,2012: 317.]   \n[23] 李国庆,刘志锋,常学礼,等.风电场对草地蒸散发影响分析[J]. 生态科学,2016,35(6): 146-151.[Li Guoqing,Liu Zhifeng,Chang Xueli,et al. Effects of wind farms on grassland regional surface evapotranspiration[J]. Ecological Science,2016,35(6): 146-151.]   \n[24] Zhou L M,Tian Y H,Roy SB,et al.Impacts of wind farms on land surface temperature[J]. Nature Climate Change,2012,2(7): 539- 543.   \n[25]Walsh-Thomas JM, Cervone G,Agouris P,et al.Further evidence of impacts of large-scale wind farms on land surface temperature [J].Renewable and Sustainable Energy Reviews,2012,16(8): 6432-6437.   \n[26] 王静,牛生杰,沈建国.锡盟沙尘暴的时空分布及其与气候因子 的关系[J].自然灾害学报,2009,18(1):209-216.[Wang Jing, Niu Shengjie, Shen Jianguo.Spatiotemporal distribution of sandduststorm in Xilingol League and its correlation with climate factors[J]. Journal of Natural Disasters,2009,18(1): 209-216.]   \n[27] 胡菊.大型风电场建设对区域气候影响的数值模拟研究[D].兰 州：兰州大学,2012.[Hu Ju.Numerical simulation study on the influence of large-scale wind farm construction on regional climate [D]. Lanzhou: Lanzhou University,2012.]   \n[28] 郭剑,陈实,徐斌,等.基于SPOT-VGT数据的锡林郭勒盟草原 返青期遥感监测[J].地理研究,2017,36(1):37-48.[Guo Jian, Chen Shi, Xu Bin, et al.Remote sensing monitoring of grassland vegetation greenup based on SPOT-VGT in Xilingol League[J]. Geographical Research,2017,36(1): 37-48.]   \n[29] 薛超玉.基于Landsat系列遥感影像的区域土壤水分信息研究 [D].杨凌:西北农林科技大学,2017.[Xue Chaoyu.Regional soil moisture information research based on Landsat series remote sensing images[D]. Yangling: Northwest Agriculture Forestry University,2017.]   \n[30] 侯琼,魏学占,宋学峰.不同水分因子对内蒙古典型草原牧草产 量的影响[J].草业科学,2009,26(2):5-10.[Hou Qiong,Wei Xuezhan, Song Xuefeng. Influence of different moisture factors on forage yield of Inner Mongolian typical steppe[J]. Pratacultural Science,2009,26(2): 5-10.]   \n[31] 苏佩凤,郭克贞,赵淑银.典型草原天然牧草群落耗水规律研究 [J].内蒙古水利,2006(2): 21-23.[Su Peifeng,Guo Kezhen, Zhao Shuyin. Study on water consumption law of typical grassand natural herbage community[J]. Inner Mongolia Water Conservancy, 2006(2): 21-23.]   \n[32] 李锦荣.基于RS 和GIS 的沙尘暴灾害风险评价研究[D].北京: 北京林业大学,2011.[Li Jinrong.Research on risk assessment of sandstorm disaster based on RS and GIS[D]. Beijing: Beijing Forestry University,2011.]   \n[33] Armstrong A, Burton RR,Lee S E,et al. Ground-level climate at a peatland wind farm in Scotland is affected by wind turbine operation[J]. Environmental Research Letters,2016,11(4): 044024. doi: 10.1088/1748-9326/11/4/044024. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of wind farms on soil moisture in grassland ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "JIA Xin， LI Guoqing， WANG Gang， CAO Yu (Resources and Environmental Engineering College,Ludong University,Yantai 264025,Shandong,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In recent years，wind farms have gained increasing atention in China.The global shortage of nonrenewable energy has led to an unprecedented and rapid expansion in the amount of land coverage allocated to wind farms,and by the end of 2019, China's cumulative installed wind power capacity had reached $1 5 . 8 5 \\times 1 0 ^ { 6 }$ kW.Although wind farms play an active role in improving the country's energy structure,promoting environmental protection,and maintaining sustainable economic and social development,the environmental changes caused by wind farms have also caught the attntion ofresearchers.Soil moisture,as one of the most important physical and chemical properties of soil, is one of the main parameters used in the fields of climate,hydrology,ecology,and agriculture.It plays an essential role in the exchange of water and energy between the surface and the atmosphere. Slight changes in soil moisture levels may reflect more significant changes in the climate or environment; thus,it is important to studyany change of soil moisture levels after the construction of wind farms if the influence of a wind farm on its local climate and environment is to be evaluated.In this paper,the Huitengliang wind farm in Inner Mongolia,China is used as the study area. Forty-two Landsat remote sensing images (taken before and after the wind farm was built)and soil moisture data were used to construct a model that establishes the linear relationship between the modified perpendicular drought index of the remote sensing images and the measured levels of the soil moisture.The one-way ANOVA method was then used to judge the influence of the extents and variances of the wind farm on the soil moisture in grassland areas.Our results show that (1)the construction of a wind farm could lead to a change in the soil moisture,but there were significant differences in the range of these soil moisture changes in the upwind and downwind directions surrounding wind farms. (2)The most obvious influence on soil moisture was in the downwind direction from the wind farm.The number of pixels affected in the downwind direction accounted for $5 5 \\%$ of the total number of pixels of the downwind direction.The least influence on soil moisture was seen in the upwind direction,and the number of pixels affected in this direction was $31 \\%$ of the total pixels.(3) The wind farm had the most significant influence on soil moisture in April and August, which could reduce the soil moisture of the grassand area,thus aggravating the drought of the grass,in its reviving and maturing stages. The construction of wind farms is a human intervention on nature,and their construction should consider the protection of the ecological environment as the most basic criterion. Using remote sensing technology combined with the measured soil moisture data,through model simulation and a significance test,this paper discusses the influence of the extents and variances of the wind farm on the soil moisture in the grassland area to produce recommendations for the construction of wind farms to ensure that there are minimal efects on the soil moisture levels and the sustainable development of the grassland ecosystem. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: windfarm; soil moisture; grasslands； Huitengliang area in Inner Mongolia ",
+        "page_idx": 9
+    }
+]

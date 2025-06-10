@@ -1,0 +1,218 @@
+低聚木糖对花鲈幼鱼生长性能、血清生化和免疫指标及肠道菌群组成的影响胡晓伟 1,2上官静波 1,2 黎中宝1,2\* 杨敏1,2徐安乐1,2（1.集美大学水产学院，厦门361021；2.福建省海洋渔业资源与生态环境重点实验室，厦门 361021）
+
+摘要：本试验旨在研究低聚木糖（XOS）对花鲈（Lateolabrax japonicus）幼鱼生长性能、血清生化和免疫指标及肠道菌群组成的影响。选用360尾规格一致[( $\cdot 1 9 . 3 7 { \scriptstyle \pm 0 . 1 9 6 }$ ）g]的花鲈幼鱼，随机分为6组，每组3个重复，每个重复20尾鱼。各组分别饲喂在基础饲料中添加0（对照组）、200（D200组）、400（D400组）、600（D600组）、800（D800组）和 $\mathrm { 1 ~ 0 0 0 ~ m g / k g }$ 低聚木糖（D1000 组）的饲料。试验期 $4 5 \mathrm { d }$ 。结果表明：1）与对照组相比，D200、D400、D600 组的增重率（WGR）和特定生长率（SGR）提高（ $_ { . P > 0 . 0 5 ) }$ ，D800（ $. P { > } 0 . 0 5$ ）和D1000组（ $. P { < } 0 . 0 5$ ）的WGR和 SGR均降低。2）与对照组相比，D200、D400、D600、D800 和D1000 组的血清总蛋白含量均显著提高（ $\scriptstyle P < 0 . 0 5$ ），D400、D800组的血清高密度脂蛋白胆固醇含量显著提高（ $. P { < } 0 . 0 5 \$ )，D200 组的血清总胆固醇含量显著降低（ $_ { . P < 0 . 0 5 }$ )。3）与对照组相比，D400、D600、D800 和D1000 组的血清超氧化物歧化酶活性均显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，D200、D400组的血清过氧化氢酶活性均显著降低（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 { \ : } .$ )，D400 和D800 组的血清溶菌酶活性均显著提高（ $\scriptstyle P < 0 . 0 5 .$ )，D200 组的血清丙二醛含量降低（ $P { > } 0 . 0 5$ )。4）与对照组相比，D200、D400、D600、D800 和D1000 组的肠道中沙门氏菌数量显著降低（ $P { < } 0 . 0 5$ ），D200、D400 和D1000 组的肠道中大肠杆菌数量均显著降低（ $_ { . { P < 0 . 0 5 } }$ ），D200、D400和D600 组的肠道中双歧杆菌数量显著增加( $_ { . P < 0 . 0 5 ) }$ 。由此可见，综合各试验指标，饲料中添加 $3 5 0 { \sim } 5 6 0 ~ \mathrm { m g / k g }$ 的低聚木糖对花鲈幼鱼生长性能、免疫功能及肠道健康影响效果最佳。
+
+关键字：花鲈；生长性能；低聚木糖；非特异性免疫；肠道菌群中图分类号：S963.73 文献标识码： 文章编号：
+
+花鲈（Lateolabrax japonicus），又称七星鲈，属硬骨鱼纲（osteichsthyes），鲈形目（perciformes），鮨科
+
+（servanidate)，花鲈属（Lateolabrax)，主要分布在朝鲜半岛，中国沿海及越南沿海。花鲈具有广温广盐性，肉质鲜美，因此养殖范围广泛。花鲈作为我国水产品中主要的养殖品种，其安全性受到广泛的关注。随着集约化养殖发展，抗生素等药物的滥用带来耐药性和药物残留等问题。许多科研人员致力于寻求替代抗生素的物质。益生元不被消化酶消化，但在肠道中发酵后能被肠道有益菌利用，产生的代谢产物和微量营养物质为机体提供能量和营养，并且能降低肠道pH，促进有益菌增殖和抑制有害菌繁殖。目前一些益生元，如果寡糖、甘露寡糖，作为生长促进剂代替抗生素的使用，已广泛应用于家禽饲粮中。低聚木糖（XOS）又称木寡糖，通过木聚糖酶水解木聚糖中β-1,4糖苷键获得，主要是以木二糖、木三糖为主的低聚木糖混合物。低聚木糖能促进肠道中乳酸菌和双歧杆菌等有益菌的增殖[1-4]。有研究表明，低聚木糖促进双歧杆菌数量增加的幅度要大于其他寡糖[5]。另外，低聚木糖原料广泛来源于价格便宜且木聚糖含量较高的一些农副产物中，如玉米芯、蔗渣、棉籽壳等。由于具有独特的性能，低聚木糖作为益生元改善动物的健康和生长性能备受人们关注。研究表明，低聚木糖对刺参、欧洲海鲈、草鱼、白鱼、奥尼罗非鱼等水产养殖动物具有促进生长、免疫和改善肠道菌群的作用[7-]。因此，本研究是通过检测花鲈幼鱼的生长性能、血清生化和免疫指标及肠道菌群组成来探讨不同水平的低聚木糖对花鲈幼鱼机体的影响，从而为低聚木糖作为绿色添加剂在水产饲料中运用提供理论基础。
+
+# 1材料与方法
+
+# 1.1试验设计和基础饲料
+
+在满足花鲈幼鱼基本营养的前提下，以鱼粉（粗蛋白质含量 $7 4 . 3 5 \%$ ，粗脂肪含量 $8 . 4 3 \%$ ）、豆粕（粗蛋白质含量 $4 8 . 2 5 \%$ ，粗脂肪含量 $1 . 0 6 \%$ ）为主要蛋白质源，以鱼油、大豆油为主要脂肪源，用面粉配平以保持配方总量的平衡，配制基础饲料，基础饲料组成及营养水平见表1。采用单因子试验设计，选用360尾规格一致[( $1 9 . 3 7 { \scriptstyle \pm 0 . 1 9 6 }$ ）g]的花鲈幼鱼，随机分为6组，每组3个重复，每个重复20尾鱼。各组分别饲喂在基础饲料中添加0（对照组）、200（D200组）、400（D400组）、600（D600 组）、800（D800 组）和1000$\mathrm { m g / k g }$ 低聚木糖（D1000组）的饲料。低聚木糖购自江苏康维生物有限公司。原料粉碎后60目筛后逐级混匀，并且用小型挤条机制成大小 $2 . 5 \mathrm { m m }$ 的配合饲料，放入55℃烘箱中烘干，自然冷却后保存于-20℃下备用。
+
+# 表1基础饲料组成及营养水平(干物质基础)
+
+%
+
+Table1Composition and nutrient levels of the basal diet（DM basis）  
+
+<html><body><table><tr><td>项目Items</td><td>含量Con</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>鱼粉 Fishmeal</td><td>46.7</td></tr><tr><td>豆粕 Soybean meal</td><td>21.0</td></tr><tr><td>面粉 Flour</td><td>15.0</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>3.6</td></tr><tr><td>酵母粉 Beer yeast powder</td><td>2.0</td></tr><tr><td>鱼油Fish oil</td><td>3.5</td></tr><tr><td>豆油 Soybean oil</td><td>2.5</td></tr><tr><td>卵磷脂Lecithin</td><td>2.6</td></tr><tr><td>矿物质预混料 Mineral premixl)</td><td>0.5</td></tr><tr><td>维生素预混料 Vitamin premix2</td><td>0.6</td></tr><tr><td>胆碱 Choline</td><td>0.5</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.5</td></tr><tr><td>合计 Total</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels3)</td><td></td></tr><tr><td>粗蛋白质 Crude protein</td><td>50.62</td></tr><tr><td>粗脂肪 Crude fat</td><td>9.56</td></tr></table></body></html>
+
+灰分 Ash
+
+12.56
+
+1每千克矿物质预混料含 Per kg mineral premix contained: $\mathrm { M g S O _ { 4 } \bullet H _ { 2 } O }$ 4 000 mg, $\mathrm { M n S O _ { 4 } { \bullet } 4 H _ { 2 } O }$ 50 mg,KI $1 0 0 ~ \mathrm { { m g } }$ ， $\mathrm { C o C l } _ { 2 }$ （ $1 \%$ 100 mg， $\mathrm { C u S O } _ { 4 } { \bullet } 5 \mathrm { H } _ { 2 } \mathrm { O }$ 20 mg， FeSO4·H2O $2 6 0 \mathrm { m g }$ ， $\mathrm { Z n S O _ { 4 } { \bullet } H _ { 2 } O }$ 150 mg, ${ \mathrm { N a } } _ { 2 } { \mathrm { S e O } } _ { 3 }$ （ $1 \%$ （20 $5 0 \mathrm { m g }$ 。
+
+2)每千克维生素预混料含 Per $\mathrm { k g }$ vitamin premix contained:硫胺素 thiamine $2 5 ~ \mathrm { m g }$ ，核黄素riboflavin 45mg，盐酸吡哆醇 pyridoxine hydrochloride $2 0 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } \ : 0 . 1 \ : \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 1 0 ~ \mathrm { m g }$ ，肌醇inositol $8 0 0 ~ \mathrm { { m g } }$ ，泛酸pantothenic acid $6 0 ~ \mathrm { m g }$ ，烟酸 nicotinic acid $2 0 0 \mathrm { { m g } }$ ，叶酸 folic acid $2 0 ~ \mathrm { m g }$ ，生物素biotin $1 . 2 \mathrm { m g }$ ，维生素A乙酸酯 vitamin A acetate $3 2 \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } \ 5 \ \mathrm { m g }$ ， $\mathfrak { a }$ 生育酚 $\mathfrak { a }$ -tocopherol $1 2 0 ~ \mathrm { m g }$ ，乙氧基喹啉 ethoxyquin $1 5 0 \mathrm { m g }$ 胆碱choline（ $50 \%$ ） $5 0 0 0 \mathrm { m g }$ 。
+
+3)实测值 Measured values 。
+
+1.2 试验用鱼的驯化养殖试验在集美大学海水试验场进行。花鲈幼鱼（购自福建省漳浦县锦兴育苗场）暂养于循环过滤桶（1200L)。暂养阶段投喂自制饲料，并逐级淡化至纯淡水养殖。纯淡水暂养2周后试验鱼准备就绪。
+
+# 1.3 饲养管理
+
+暂养结束后选用360 尾健康、规格一致的花鲈幼鱼随机分配到18个循环水系统玻璃鱼缸（ $8 0 ~ \mathrm { c m } { \times } 4 5$ $\mathrm { c m } { \times } 4 5 ~ \mathrm { c m }$ ）中进行试验，每缸20尾。养殖试验阶段每日定时投喂2次（ $0 8 { : } 0 0 { \sim } 0 8 { : } 3 0$ 、 $1 8 { : } 0 0 { \sim } 1 8 { : } 3 0 \$ ，及时收集残饵和清除粪便，每天换水2次，每次换水1/3。试验期45d。试验期间不断充气增氧，溶氧含量 $\mathord { \geq } 7$ $\mathrm { m g / L }$ 、水温（ $2 8 { \pm } 1$ ） $\mathrm { { } ^ { \circ } C }$ ， $\mathrm { p H } 7 . 3 \sim 8 . 1 \$ 。每天观察花鲈摄食情况、死亡情况等并及时记录下来。
+
+# 1.4样品采集与处理
+
+45d养殖结束后，进行 $2 4 \mathrm { h }$ 饥饿处理。用丁香油水门汀对鱼进行麻醉后对各试验缸鱼进行整体称重和计数。每缸随机取5尾鱼测体重和体长，并用 $1 ~ \mathrm { m L }$ 无菌注射器对其尾部取血，并置于 $1 . 5 ~ \mathrm { m L }$ 离心管中，放在 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 下静置 $1 2 \mathrm { h }$ ，4℃、 $3 5 0 0 \mathrm { r / m i n }$ 条件下离心 $1 0 \mathrm { m i n }$ 收集上清液 (即血清)，这5尾鱼的血清混合并保存于-80℃下，用于血清生化和免疫指标检测。随机取10尾鱼，进行解剖，快速取肠（在生理盐水下剔除表面脂肪)，其中5尾鱼肠道组织在液氮中速冻，运回实验室于-80℃冷藏，以备肠道消化酶的测定，另外5尾鱼肠道两端用细绳绑住，拿回实验室在无菌操作台上取出内容物用于肠道菌落组成的测定。
+
+# 1.5 指标检测
+
+# 1.5.1生长性能指标及计算公式
+
+增重率（WGR， $\%$ ） $= 1 0 0 \times$ （ $W _ { \mathrm { t } } { - } W _ { 0 }$ ） $/ W _ { 0 }$ 特定增长率（SGR， $\%$ ） $= 1 0 0 \times$ [ln( $W _ { \mathrm { t } } \mathrm { \dot { \Omega } }$ ）-ln（Wo）]/d;存活率（SR， $\% ) \ = 1 0 0 { \times } N _ { \mathrm { t } } / N _ { 0 }$ ：肥满度（CF， $\% ) \ = 1 0 0 \times W _ { \mathrm { t } } / L ^ { 3 }$ 饲料转化率（ $\ : \mathrm { F C R } , \ : \ : \% \ : ) \ : = 1 0 0 \times$ （投饵饲料干重—残饵干重）／（ $\left( W _ { \mathrm { t } } { - } W _ { 0 } \right)$ 。式中： $W _ { 0 }$ 为初体重（g)； $\boldsymbol { W _ { \mathrm { t } } }$ 为末体重（g)；d为养殖天数； $N _ { 0 }$ 为初始尾数； $N _ { \mathrm { t } }$ 为成活尾数； $L$ 为鱼体长度（cm）。
+
+# 1.5.2 血清生化和免疫指标测定
+
+血清生化和免疫指标包括：甘油三酯（TG）、总胆固醇（TC）、超氧化物歧化酶（SOD）、碱性磷酸酶（AKP)、丙二醛（MDA）、总蛋白（TP）、过氧化氢酶（CAT）、高密度脂蛋白胆固醇（HDL-C）、溶菌酶(LZM)。以上所测指标均由南京建成生物研究所提供试剂盒，按试剂盒说明书进行检测。主要使用的仪器有酶标仪（Biotek）、UV-1200 型紫外分光光度计、组织破碎仪。
+
+# 1.5.3 肠道菌群组成的测定
+
+称取肠道内容物 $0 . 5 \mathrm { ~ g ~ }$ ，按1:9（质量：体积）加入 $4 . 5 ~ \mathrm { m L }$ 无菌生理盐水中，振荡离心制得浓度为 $1 0 ^ { - 1 }$ 原液，取 $0 . 5 ~ \mathrm { m L }$ 上清液加入到 $4 . 5 ~ \mathrm { m L }$ 无菌生理盐水中进行10倍稀释，并依次进行稀释，稀释到 $1 0 ^ { - 5 }$ 。每个稀释梯度设3个平行，每板涂 $1 0 0 { \mathrm { u L } }$ 菌液。厌氧菌要在无氧环境下进行以上操作，厌氧菌置于自制的厌
+
+氧箱（箱中放置三菱AnaeroPackTM-Anaero 厌氧产气袋）中培养 $7 2 \mathrm { { h } }$ 。培养结束后，挑选菌落 $3 0 \sim 3 0 0$ 的培养皿进行平板计数。计算方法采用每克肠道菌落形成单位的对数值即 $\scriptstyle \log ( \mathrm { C F U / g } )$ 。培养基均购于青岛高科园海博生物科技有限公司。
+
+# 表2细菌培养的培养基及培养条件
+
+Table 2Culture medium and culture condition for bacterial culture   
+
+<html><body><table><tr><td>菌种</td><td>培养基</td><td>培养条件</td><td>稀释浓度</td></tr><tr><td>Strain</td><td>Culture medium</td><td>Culture condition</td><td>Dilution concentration</td></tr><tr><td>双歧杆菌</td><td>双歧杆菌培养基</td><td>37℃下厌氧培养72h</td><td>10-3、10-4、10-5</td></tr><tr><td>Bifidobacterium</td><td></td><td></td><td></td></tr><tr><td>大肠杆菌</td><td>伊红美蓝琼脂（EMB）培养</td><td>37℃下有氧培养24h</td><td>10-、10-4、10-5</td></tr><tr><td>Escherichia coli</td><td>基</td><td></td><td></td></tr><tr><td>沙门氏菌</td><td></td><td></td><td></td></tr><tr><td></td><td>亚硫酸铋琼脂培养基</td><td></td><td></td></tr><tr><td>Salmonella</td><td></td><td>37℃下有氧培养24h</td><td>10-、10-4、10-5</td></tr></table></body></html>
+
+# 1.6 数据统计与分析
+
+试验数据采用 SPSS19.0软件进行单因素方差分析，若有差异显著，采用Duncan氏多重比较法检验，$P { < } 0 . 0 5$ 为显著性差异。试验结果用平均值 $\cdot \pm$ 标准差（mean±SD）表示。
+
+# 2结果
+
+# 2.1低聚木糖对花鲈幼鱼生长性能的影响
+
+由表2可知，与对照组相比，D200、D400、D600、D800 和 D1000 组的WGR 和 SGR 有先升高后降低的趋势，D200、D400、D600 组的WGR和SGR均有所提高（ $. P { > } 0 . 0 5 \$ ，D800（ $. { \cal P } { > } 0 . 0 5$ ）和D1000组（ $\scriptstyle \cdot - 0 . 0 5$ ）的WGR和 SGR均降低。各组间FCR、CF 和 SR无显著差异（ $P { > } 0 . 0 5 )$ 。
+
+Table 3Effects of xylooligosaccharide on growth performance of juvenile Japanese seabass（Lateolabrax
+
+japonicus)
+
+<html><body><table><tr><td colspan="7">项目 组别 Groups</td></tr><tr><td>Items</td><td>对照 Control</td><td>D200</td><td>D400</td><td>D600</td><td>D800</td><td>D1000</td></tr><tr><td>初重 IBW/g</td><td>19.53±0.18</td><td>19.52±0.36</td><td>19.84±0.47</td><td>19.35±0.10</td><td>19.98±0.06</td><td>19.47±0.49</td></tr><tr><td>末重FBW/g</td><td>69.83±2.85ab</td><td>77.20±6.25c</td><td>74.25±3.85ab</td><td>73.83±4.12ab</td><td>68.47±3.32b</td><td>60.03±4.24a</td></tr><tr><td>增重率 WGR/%</td><td>257.99±9.59bc</td><td>296.10±39.34c</td><td>274.50±23.27bc</td><td>281.45±21.02bc</td><td>242.62±16.82ab</td><td>208.83±28.91a</td></tr><tr><td>特定生长率</td><td>2.83±0.06bc</td><td>3.05±0.22c</td><td>2.93±0.14bc</td><td>2.97±0.12bc</td><td></td><td></td></tr><tr><td>SGR/(%/d)</td><td></td><td></td><td></td><td></td><td>2.73±0.11ab</td><td>2.50±0.21a</td></tr><tr><td>饲料转化率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>FCR/%</td><td>1.24±0.10</td><td>1.24±0.28</td><td>1.27±0.08</td><td>1.30±0.10</td><td>1.29±0.07</td><td>1.50±0.19</td></tr><tr><td>肥满度 CF/%</td><td>1.26±0.02</td><td>1.25±0.06</td><td>1.30±0.02</td><td>1.28±0.03</td><td>1.30±0.07</td><td>1.28±0.03</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>存活率 SR/%</td><td>96.39±3.13</td><td>98.33±2.89</td><td>100.00±0.00</td><td>98.15±3.21</td><td>98.15±3.21</td><td>100.00±0.00</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { P < 0 . 0 5 }$ ），相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。
+
+In the same row, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,while with the same or no letter superscripts mean no significant difference ( $( P { > } 0 . 0 5 )$ .The same as below.
+
+通过回归方程计算得到增重率（Y， $9 \%$ ）与低聚木糖添加量（X， $\mathrm { m g / k g }$ ）的关系：
+
+$$
+Y { = } { - } 1 . 9 1 3 \times 1 0 ^ { - 4 } X ^ { 2 } { + } 0 . 1 3 4 2 2 X { + } 2 6 3 . 2 7 1
+$$
+
+由上述公式计算得出，低聚木糖添加量为 $3 5 0 . 8 \mathrm { m g / k g }$ 时增重率最大。
+
+2.2低聚木糖对花鲈幼鱼血清生化指标的影响由表3可知，与对照组相比，D200、D400、D600、D800 和 D1000 组的血清 TP 含量均显著提高( $_ { ( P < 0 . 0 5 ) }$ ：D200（ $\scriptstyle \cdot < 0 . 0 5$ ）、D400组（ $P { > } 0 . 0 5$ ）的血清TC含量降低，但D600（ $P { > } 0 . 0 5$ ）、D800（ $\scriptstyle P < 0 . 0 5$ ）、D1000
+
+组（ $P { > } 0 . 0 5$ ）的血清TC 含量均提高；D200（ $P { > } 0 . 0 5$ ）、D400组（ $P { < } 0 . 0 5$ ）的血清TG含量降低，但D600（ $\cdot P { > } 0 . 0 5$ ）、D800（ $_ { . } { \scriptstyle P < 0 . 0 5 }$ ）、D1000组（ ${ \it P } { > } 0 . 0 5 { \it \Psi }$ ）的血清TG含量均提高；D200（ $_ { .  { P } > 0 . 0 5 }$ ）、D400（ $_ { . } { \cal P } { < } 0 . 0 5$ ）D600 （ $\scriptstyle \cdot > 0 . 0 5$ ）、D800（ $\scriptstyle \cdot < 0 . 0 5$ ）和D1000组（ $\cdot P { > } 0 . 0 5$ ）的血清 HDL-C 含量均提高。
+
+# 表4低聚木糖对花鲈幼鱼血清生化指标的影响
+
+Table 4Effects of xylooligosaccharide on serum biochemical indices of juvenile Japanese seabass（Lateolabrax
+
+japonicus)
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="5">组别 Groups</td></tr><tr><td>Items</td><td>对照</td><td>D200</td><td>D400</td><td>D600</td><td>D800</td><td>D1000</td></tr><tr><td></td><td>Control</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总蛋白 TP/(μg/mL)</td><td>44.62±1.96a</td><td>69.27±2.56d</td><td>68.96±3.49d</td><td>56.02±2.54b</td><td>61.42±3.50c</td><td>69.85±3.32d</td></tr><tr><td>总胆固醇 TC/(mmol/g prot)</td><td>5.67±0.35bc</td><td>4.91±0.24a</td><td>5.11±0.12ab</td><td>6.27±0.31cd</td><td>6.56±0.59d</td><td>5.82±0.25c</td></tr><tr><td>甘油三酯 TG/(mmol/g prot)</td><td>2.42±0.15bc</td><td>2.17±0.12ab</td><td>2.11±0.07a</td><td>2.71±0.21cd</td><td>2.93±0.19d</td><td>2.49±0.20c</td></tr><tr><td>高密度脂蛋白胆固醇</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>5.07±0.34a</td><td>5.11±0.51a</td><td>6.24±0.24b</td><td>5.64±0.40ab</td><td>6.62±0.61b</td><td>5.99±0.92ab</td></tr><tr><td>HDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3低聚木糖对花鲈幼鱼血清免疫指标的影响
+
+由表4可知，与对照组相比，D200（ $P { > } 0 . 0 5 \$ ）、D400（ $P { < } 0 . 0 5$ ）、D600（ $P { < } 0 . 0 5$ ）、D800（ $P { < } 0 . 0 5$ ）和D1000组 $( P { < } 0 . 0 5 )$ ）的血清 SOD 活性均降低；D200（ $\scriptstyle P < 0 . 0 5 .$ ）、D400（ $\scriptstyle \cdot < 0 . 0 5$ ）、D600( $_ { P > 0 . 0 5 }$ ）、D800( $P { > } 0 . 0 5$ ）和D1000组（ $. { \cal P } { > } 0 . 0 5$ ）的血清CAT活性均降低；D200（ $\scriptstyle \cdot > 0 . 0 5$ ）、D400（ $P { < } 0 . 0 5$ ）、D600（ $P { > } 0 . 0 5$ ）、D800（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）和D1000组（ $\cdot P { > } 0 . 0 5$ ）的血清LZM活性均提高；D200 组的血清MDA含量降低（ $. P { > } 0 . 0 5 \$ ，D400（ $P { < } 0 . 0 5$ ）、D600（ $P { > } 0 . 0 5$ ）、D800（ $_ { . P < 0 . 0 5 }$ ）和D1000组（ $P { < } 0 . 0 5$ ）的血清MDA含量均提高。各组间血清AKP活性无显著差异（ $P { > } 0 . 0 5 \$ ）°
+
+# 表5低聚木糖对花鲈幼鱼血清免疫指标的影响
+
+Table 5Effcts of xylooligosaccharide on serum immune indices of juvenile Japanese seabass（Lateolabrax
+
+japonicus)
+
+项目
+
+组别 Groups
+
+<html><body><table><tr><td>Items</td><td>对照 Control</td><td>D200</td><td>D400</td><td>D600</td><td>D800</td><td>D1000</td></tr><tr><td>超氧化物歧化酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>15.15±1.33d</td><td>14.12±0.57cd</td><td>9.06±1.03b</td><td>6.44±0.56a</td><td>8.16±0.82b</td><td>12.95±1.00c</td></tr><tr><td>SOD/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>碱性磷酸酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AKP/(金氏单位/dL)</td><td>2.34±0.28</td><td>2.28±0.14</td><td>2.15±0.28</td><td>2.19±0.28</td><td>2.34±0.31</td><td>2.34±0.16</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>16.06±5.51a</td><td>15.55±3.07a</td><td>44.82±8.07d</td><td>24.16±8.57ab</td><td>32.70±7.14bc</td><td>38.83±4.27cd</td></tr><tr><td>MDA/(nmol/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>溶菌酶 LZM/(U/mL)</td><td>244.94±27.62a</td><td>255.31±28.86a</td><td>355.56±37.38c</td><td>261.73±25.63ab</td><td>314.57±30.76bc</td><td>265.19±23.16ab</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>过氧化氢酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>61.58±4.56ab</td><td></td><td></td></tr><tr><td></td><td>68.80±8.78b</td><td>55.37±3.71a</td><td>52.66±2.76a</td><td></td><td>57.87±9.41ab</td><td>64.47±6.30ab</td></tr></table></body></html>
+
+通过回归方程计算得到血清LZM活性（Y， $\mathrm { U } / \mathrm { m L }$ ）与低聚木糖添加量（ $X ,$ ， $\mathrm { { m g / k g } }$ ）的关系：
+
+由上述公式计算得出，低聚木糖添加量为 $5 6 0 ~ \mathrm { m g / k g }$ 时血清LZM活性最佳。
+
+2.4低聚木糖对花鲈幼鱼肠道菌群组成的影响
+
+由表5可知，与对照组相比，D200、D400、D600、D800 和D1000 组的肠道中沙门氏菌数量显著降低（ $P { < } 0 . 0 5$ ）；D200（ $P { < } 0 . 0 5$ ）、D400（ $\cdot - 0 . 0 5$ ）、D600（ $. P { > } 0 . 0 5$ ）和D1000组（ $. P { < } 0 . 0 5$ ）的肠道中大肠杆菌数量均降低，D800 组的肠道中大肠杆菌数量显著增加（ $\scriptstyle P < 0 . 0 5 .$ ）；肠道中双歧杆菌数量随着低聚木糖添
+
+加量的增加呈先增加后降低的趋势，D200、D400 和D600 组的肠道中双歧杆菌数量显著增加（ $\scriptstyle P < 0 . 0 5 .$ ），D800、D1000组的肠道中双歧杆菌数量降低（ $\scriptstyle P > 0 . 0 5$ ）。
+
+# 表6低聚木糖对花鲈幼鱼肠道菌群组成的影响
+
+Table 6Effects of xylooligosaccharide on intestinal microflora composition of juvenile Japanese seabass
+
+(Lateolabrax japonicus) lg (CFU/g)
+
+项目
+
+组别Groups
+
+Items
+
+对照
+
+<html><body><table><tr><td></td><td>Control</td><td>D200</td><td>D400</td><td>D600</td><td>D800</td><td>D1000</td></tr><tr><td>沙门氏菌 Salmonella</td><td>7.09±0.06d</td><td>6.35±0.04b</td><td>6.52±0.06c</td><td>6.18±0.07a</td><td>6.44±0.04bc</td><td>6.25±0.04a</td></tr><tr><td>大肠杆菌 Escherichia coli</td><td>7.06±0.07c</td><td>6.50±0.09a</td><td>6.76±0.06b</td><td>6.92±0.06c</td><td>7.18±0.06d</td><td>6.79±0.08b</td></tr><tr><td>双歧杆菌Bifidobacterium</td><td>7.94±0.08ab</td><td>8.37±0.01d</td><td>8.64±0.01f</td><td>8.15±0.02c</td><td>7.99±0.01b</td><td>7.90±0.04a</td></tr></table></body></html>
+
+通过回归方程计算得肠道中双歧杆菌数量[（Y，lg（CFU/g）]与低聚木糖添加量（ $X _ { i }$ ， $\mathrm { | m g / k g }$ ）的关系：
+
+由上述公式计算得出，低聚木糖添加量为 $4 3 4 . 2 \mathrm { m g / k g }$ 时肠道中双歧杆菌数量最多。
+
+# 3讨论
+
+3.1低聚木糖对花鲈幼鱼生长性能及肠道菌群组成的影响
+
+低聚木糖作为益生元，已有研究表明其具有促生长的作用。本试验中,低聚木糖添加量为 $2 0 0 { \sim } 6 0 0 \mathrm { m g / k g }$ 时，花鲈幼鱼WGR 有所提高，这与Li等[12]在大比目鱼和 Xu等[13]在异育银鲫上的研究相近，而当添加量超过 $8 0 0 ~ \mathrm { m g / k g }$ 时，对花鲈幼鱼WGR的影响呈现出了抑制作用，这与Li等[12]和 $\mathrm { \Delta X u }$ 等[13]的研究结果存在偏差。对于这些结论的差异性，其可能的原因为：1）低聚木糖作为非营养性物质，过量添加起到抗营养因子的作用。并且饲料组成不同结果会有很大差异，Guerreiro 等[]报道，欧洲海鲈饲料中添加 $1 \%$ 低聚木糖，以植物蛋白质源为主则促进生长，以鱼粉蛋白质源为主则抑制生长。2）寡糖类具有促进肠道有益菌的作用，本试验肠道中双歧杆菌数量就呈先增加后降低趋势，过量添加是否会降低肠道有益菌数量还有待做进一步研究。3）动物肠组织和菌群结构在各动物之间存在巨大差异，消化道长短、消化液性质及肠道内优势菌群也存在较大差异。到目前为止，低聚木糖对水产动物的报道很有限，尤其是对花鲈的促生长作用还有待进一步研究。
+
+沙门氏菌和大肠杆菌是一种严重威胁人类及动物生命健康的病原菌，饲料生产过程中很容易感染大肠杆菌和沙门氏菌，鱼食用饲料以后其有害菌易定植在肠道中，有报道表明，银鲫感染沙门氏菌后导致肠充血、肝肥大而死[14]。双歧杆菌是众所周知的有益菌，对促进吸收和改善肠道环境有很重要的作用。低聚木糖作为一种功能性寡糖，在动物肠道内不能被消化吸收，但在肠道内发酵后，被有益菌吸收利用，促进双歧杆菌增殖的同时抑制有害菌的繁殖[15-16]。本试验结果表明，添加低聚木糖降低了肠道中沙门氏菌和大肠杆菌的数量，同时增加了双歧杆菌的数量，添加量为200、 $4 0 0 \mathrm { m g / k g }$ 时效果最好。人服用低聚木糖可增加肠道中双歧杆菌数量[17]。Petersen 等[18]报道，果寡糖和低聚木糖有效增加小鼠肠道菌双歧杆菌的数量，并且抑制沙门氏菌生长。本试验结果与之相近，添加低聚木糖有效增加花鲈幼鱼肠道中双歧杆菌的数量，并且抑制沙门氏菌和大肠杆菌的生长。由表3和表6可知，低聚木糖添加量在 $2 0 0 { \sim } 6 0 0 \mathrm { m g / k g }$ 时对改善花鲈幼鱼肠道菌群效果最佳，此添加量相对应的 WGR 也最高。从本文的试验数据来看，花鲈幼鱼的生长性能与肠道菌群的改善存在正相关性。其原因可能是低聚木糖在肠道内发酵被有益菌利用产生短链脂肪酸和降低肠道 $\mathsf { p H } ^ { [ 1 9 ] }$ ，为肠黏膜细胞提供能量，促进细胞代谢、生长和防止肠功能紊乱[20]，从而促进肠黏膜对营养物质的吸收和利用。低pH环境下有害菌生长受到抑制，却有助于双歧杆菌等有益菌增殖。同时，低 $\mathfrak { p H }$ 有助于钙溶解和吸收。Zafar 等[211证实，寡糖可以增加钙的生物利用度和保持力。非消化性寡糖能提高一些矿物质的吸收和骨骼的形成，对骨代谢有一定的影响[22]。由此可知，添加适量的低聚木糖不仅可以促进生长性能，改善花鲈幼鱼肠道微生态环境，而且可以促进双歧杆菌的增殖，降低大肠杆菌和沙门氏菌的数量，可以大大提高肉质的安全系数，减少食用感染大肠杆菌和沙门氏菌水产品的机率。
+
+# 3.2低聚木糖对花鲈幼鱼血清免疫指标的影响
+
+非特异性免疫在鱼类免疫防御方面发挥重要作用。SOD是生物体内氧自由基的天然去除剂。LZM的作用主要是破坏细菌细胞壁，其活性增强说明巨噬细胞、多型核白细胞的吞噬活性加强。MDA 是油脂酸败的重要有害物质之一，间接反映了动物细胞损伤程度。庞丽姣等[23]报道，低聚木糖有效提高了草鱼血清 SOD和LZM 活性。低聚木糖降低了大菱鲆幼鱼血清 SOD、CAT和AKP 活性[24]。徐磊等[25]报道，甘露寡糖降低了异育银鲫血清MDA含量。欧洲海鲈摄食添加 $1 \%$ 低聚木糖的饲料，结果肝脏中的 SOD和CAT活性受到抑制[9]。低聚木糖提高了草鱼和鲤鱼免疫功能，尤其有效增强血清 LZM 活性[23.26]。本试验结果与上述研究结果基本一致。本试验结果发现，血清 MDA含量与 SOD 活性在一定程度上具有负相关性。血清 MDA 含量增加说明了衰老自由基含量的增加，从而导致血清 SOD活性降低。D200 组血清 MDA 含量低于对照组，说明低剂量低聚木糖可降低血清MDA含量，此观点还有待进一步论证。本试验中，添加低聚木糖有效提高了血清LZM活性，反映了免疫细胞吞噬细胞增强，因此，本试验中低聚木糖提高花鲈幼鱼的非特异性免疫主要是通过增强血清LZM活性来提高的。
+
+# 3.3低聚木糖对花鲈幼鱼血清生化指标的影响
+
+鱼类血脂水平的变化反映鱼脂类代谢水平。HDL-C 的主要作用是将血液中的胆固醇脂运输到肝脏中，其含量较高对机体的健康比较有利。血清 TP来自肝脏合成和肠道的吸收。有研究表明，TP对动物的生长发育至关重要，并且其含量的高低能反映动物机体的免疫应激状态，处于应激状态下鱼类中的血清 TP 含量会下降[27-29]。添加低聚木糖降低了欧洲海鲈的血清中TG 和 TC 含量[9]，Gobinath 等[30]研究表明，添加 $10 \%$ 低聚木糖降低了大鼠胆固醇含量。低聚木糖还可有效降低肉鸡血清中TG 含量[31]。Yang 等[32]研究显示，壳寡糖能提高断奶仔猪血清 TP 含量。黄鑫玮等[33报道，壳寡糖可有效提高幼建鲤血清 HDL-C 含量。本试验中，添加低聚木糖提高了血清 TP和HDL-C 含量，添加量低于 $6 0 0 \mathrm { m g / k g }$ 时降低了血清 TG和TC 含量，与上述研究相似，但随着添加量超过 $6 0 0 ~ \mathrm { { m g / k g } }$ ，血清 TG 和TC 含量高于对照组。这说明低剂量的低聚木糖可以降低血清中TG 和TC 含量。其原因可能是少量的低聚木糖可促进肠道有益菌的增殖，降低肠道pH，促使胆固醇排出体外，降低血液中胆固醇的含量，并且血清 TP 和HDL-C 含量增加对降低血脂也具有促进
+
+作用。
+
+# 4结论
+
+$\textcircled{1}$ 添加 $2 0 0 { \sim } 6 0 0 \mathrm { m g / k g }$ 的低聚木糖可提高花鲈幼鱼生长性能，抑制血清中 SOD、CAT活性，提高LZM活性。
+
+$\textcircled{2}$ 添加 $2 0 0 { \sim } 4 0 0 ~ \mathrm { m g / k g }$ 的低聚木糖能较好改善花鲈幼鱼血脂；降低花鲈幼鱼肠道中沙门氏菌和大肠杆菌数量，增加双歧杆菌数量。
+
+$\textcircled{3}$ 综合本试验中各指标结果及线性回归方程计算，建议低聚木糖添加量为 $3 5 0 { \sim } 5 6 0 ~ \mathrm { m g / k g } .$
+
+# 参考文献：
+
+[1] WANG T H,LU S.Production of xylooligosaccharide from wheat bran by microwave assisted enzymatic hydrolysis[J].Food Chemistry,2013,138(2/3):1531-1535.   
+[2] JAIN I,KUMAR V,SATYANARAYANA T.Xylooligosaccharides:an economical prebiotic from agroresidues and their health benefits[J].Indian Journal of Experimental Biology,2015,53(3):131-142.   
+[3] YANG JP,SUMMANEN P,HENNING S M,et al.Xylooligosaccharide supplementation alters gut bacteria in both healthy and prediabetic adults:A pilot study[J].Frontiers in Physiology,2015,6:216.   
+[4] SAMANTA A K,JAYAPAL N,JAYARAM C,et al.Xylooligosaccharides as prebiotics from agricultural by-products:production and applications[J].Bioactive Carbohydrates and Dietary Fibre,2015,5(1):62-71.   
+[5] RYCROFT C E,JONES M R,GIBSON G R,et al.A comparative in vitro evaluation of the fermentation properties of prebiotic oligosaccharides[J].Journal of Applied Microbiology,2001,91(5):878-887.   
+[6] 杨瑞金,许时婴,王璋.低聚木糖的功能性质与酶法生产[J].中国食品添加剂,2000(2):89-93.   
+[7] 陈晓瑛,曹俊明，黄燕华,等.饲料中添加低聚木糖对凡纳滨对虾幼虾生长性能、非特异性免疫力、抗氧化 功能及抗对虾白斑综合征病毒能力的影响[J].动物营养学报,2014,26(8):2397-2407.   
+[8]李君华,刘佳亮,曹学彬,等.饲料中添加低聚木糖对仿刺参幼参生长性能、肠道消化酶活力和免疫力的影 响[J].动物营养学报,2016,28(8):2534-2541.   
+[9] GUERREIRO I,OLIVA-TELES A,ENES P.Improved glucose and lipid metabolism in European sea bass (Dicentrarchus labrax) fed short-chain fructooligosaccharides and xylooligosaccharides[J].Aquaculture,2015,441:57-63.   
+[10] HOSEINIFAR S H,SHARIFIAN M,VESAGHI M J,et al.The effects of dietary xylooligosaccaride on mucosal parameters,intestinal microbiota and morphology and growth performance of Caspian white fish (Rutilus frisii kutum) fry[J].Fish & Shellfish Immunology,2014,39(2):231-236.   
+[11]张荣斌,曹俊明,黄燕华,等.低聚木糖对奥尼罗非鱼肠道形态、菌群组成和抗嗜水气单胞菌感染的影响 [J].上海海洋大学学报,2012,21(2):233-240.   
+[12] LI Y,WANG Y J,WANG L,et al.Influence of several non-nutrient additives on nonspecific immunity and growth of juvenile turbot,Scophthalmus maximus L.[J].Aquaculture Nutrition,2008,14(5):387-395.   
+[13] XU B H,WANG Y B,LI JR,et al.Efect of prebiotic xylooligosaccharides on growth performances and digestive enzyme activities of allgynogenetic crucian carp (Carassius auratus gibelio)[J].Fish Physiologyand Biochemistry,2009,35(3):351-357.   
+[14]王玉佩,韩英俊,李军,等.沙门氏菌对鱼类的致病作用及治疗试验观察[J].动物科学与动物医 学,2002,19(7):27-30.   
+[15] HSU C K,LIAOJW,CHUNG Y C,et al.Xylooligosaccharides and fructooligosaccharides aect the intestinal microbiotaand precancerous colonic lesion development inrat[J].The Journal of Nutrition,2o04,134(6):1523-1528. [16] OKAZAKI M,FUJIKAWA S,MATSUMOTO N.Effect of xylooligosaccharide on the growth of bifidobacteria[J].Bifidobacteria and Microflora,1990,9(2):77-86.   
+[17] FINEGOLD S M,LI Z P,SUMMANEN P H,et al.Xylooligosaccharide increases bifidobacteria but not lactobacilli in human gut microbiota[J].Food & Function,2014,5(3):436-445.   
+[18] PETERSEN A,BERGSTROM A,ANDERSEN J B,et al.Analysis of the intestinal microbiota of oligosaccharidefedmiceexhibitingreducedresistancetoSalmonellainfection[J].Beneficial Microbes,2010,1(3):271-281.   
+[19] 张晓萍,勇强,余世袁.青春双歧杆菌体外代谢低聚木糖的研究[J].南京林业大学学报：自然科学 版,2010,34(1):5-8.   
+[20] 王子花,申瑞玲,李文全.短链脂肪酸的产生及作用[J].畜牧兽医科技信息,2007(2):12-13.   
+[21] ZAFAR T A,WEAVER C M,ZHAO Y D,et al.Nondigestible oligosaccharides increase calcium absorption and suppress bone resorption in ovariectomized rats[J].The Journal of Nutrition,2004,134(2):399-402.   
+[22] 黄纪明,白树民,朱德兵,等.低聚异麦芽糖对模拟失重大鼠肠道益生菌以及钙代谢和骨矿盐密度影响的 初步研究[J].中国微生态学杂志,2002,14(4):3-5.   
+[23]庞丽姣，吴志新，熊娟，等.低聚木糖对草鱼非特异性免疫功能的影响[J].动物营养学 报,2010,22(6):1687-1693.   
+[24] 蔡胜昌,张利民,张德瑞,等.壳寡糖与低聚木糖对大菱鲆(Scophthalmus maximus)幼鱼生长、体组成和血 液生化指标的影响[J].渔业科学进展,2015,36(6):29-36.   
+[25]徐磊,刘波,谢骏,等.甘露寡糖对异育银鲫生长性能、免疫及HSP70基因表达的影响[J].水生生物学 报,2012,36(4):656-664.   
+[26] 王俊丽，单金峰,朱浩拥,等.饲料中添加低聚木糖对鲤鱼免疫力和生长性能的影响[J].水产科 学,2014,30(10):611-615.   
+[27] WHITE W B,BIRD H R,SUNDE M L,et al.Viscosity of $\beta$ -glucan as a factor in the enzymatic improvement of barley for chicks[J].Poultry Science,1983,62(5):853-862.   
+[28]畅雅萍,徐奇友,王常安,等.几种诱食剂对施氏鲟(Acipenser schrencki)生长性能、体成分和血液生化指 标的影响[J].水产学杂志,2009,22(3):23-27,46.   
+[29] MAGNADOTTIRA B,CRISPIN M,ROYLE L,et al.The carbohydrate moiety of serum Ig M from Atlanticcod (Gadus morhua L.)[J].Fish & Shelfish Immunology,2002,12(3):209 - 227.   
+[30] GOBINATH D,MADHU A N,PRASHANT G,et al.Beneficial efect of xylo-oligosaccharides and fructo-oligosaccharides in streptozotocin-iduced diabetic rats[J].British Journal of Nutrition,2010,104(1):40-47. [31] LI D D,DING X M,ZHANG K Y,et al.Efects of dietary xylooligosaccharides on the performance,egg quality,nutrientdigestibilityandplasmaparametersoflayinghens[J].AnimalFeedScienceand Technology,2017,225:20-26.   
+[32] YANG H S,XIONG XLI JZ,et al.Effects of chito-oligosaccharide on intestinal mucosal amino acid profiles andalkalinephosphataseactivities,and serumbiochemical variablesinweanedpiglets[J].Livestock Science,2016,190:141-146.   
+[33] 黄鑫玮,杨莎莎,刘毅,等.壳寡糖对幼建鲤生长性能、脂肪代谢、非特异性免疫功能和肠道健康的影响 [J].动物营养学报,2015,27(7):2106-2114.   
+Effects of Xylooligosaccharide on Growth Performance,Serum Biochemical and Immune Indices and Intestinal Microflora Composition of Juvenile Japanese Seabass(Lateolabrax japonicus ) HU Xiaowei1.2SHANGGUAN Jinbo1.,2LI Zhongbao1.2\* YANG Ming1,2XUAnle1,2   
+(1.Fisheries College ofJimei University, Xiamen 361021,China; 2.Fujian Provincial KeyLaboratoryofMarine Fishery Resources and Eco-Environment, Xiamen 361021, China)
+
+Abstract: This study was conducted to determine the efects of xylooligosaccharide (XOS) on growth performance, serum biochemical and immune indices and intestinal microflora composition of juvenile Japanese seabass （Lateolabrax japonicus） .A total of 360 juvenile Japanese seabass were randomly assigned to 6 groups with 3 replicates per group and 2O fish per replicate.Fish in the 6 groups were fed the basal diets supplemented with 0 （control group）,200（D200 group）,400（D400 group）,600（D600 group）,800（D800 group）and 1000 mg/kg XOs(D1000 group）,respectively.The experiment lasted for 45 days.The results showed as follows: 1) compared with thecontrol group,the weight gain rate (WGR)and specific growth rate（SGR）of D200,D400 and D600 groups were increased $( P { > } 0 . 0 5 )$ , but the WGR and SGR of D800（ $P { > } 0 . 0 5$ ）and D1000 groups( $\cdot - 0 . 0 5$ ） were decreased.2) Compared with the control group,the serum total protein content of D200,D400,D600,D800 and D1ooo groups was significantly increased $( P { < } 0 . 0 5 )$ , the serum high-density lipoprotein cholesterol content of D400 and D800 groups was significantly increased $( P { < } 0 . 0 5 )$ , the serum total cholesterol content of D200 group was significantly decreased $( P { < } 0 . 0 5 )$ . 3) Compared with the control group, the serum superoxide dismutase activity of D400, D600, D800 and D1000 groups was significantly decreased $( P { < } 0 . 0 5 )$ , the serum peroxidase activity of D200 and D40o groups was significantly decreased $( P { < } 0 . 0 5 )$ ，the serum lysozyme activity of D400 and D500 groups was significantly increased $( P { < } 0 . 0 5 )$ ， the serum malondialdehyde content of D200 group was decreased $( P { > } 0 . 0 5 )$ . 4) Compared with the control group,the intestinal Salmonella number of D200,D400,D600, D800 and
+
+D1000 groups was significantly decreased $( P { < } 0 . 0 5 )$ ,the intestinal Escherichia coli number of D200,D40O and D1000 groups was significantly decreased $( P { < } 0 . 0 5 )$ ， the intestinal Bifidobacterium number of D200, D40O and D600 groups was significantly increased $( P { < } 0 . 0 5 )$ . In conclusion,comprehensive all the experimental indices,die supplemented with 350 to $5 6 0 \ \mathrm { \ m g / k g }$ XOS has best effects on growth performance, immunity function and intestinal health of juvenile Japanese seabass.   
+Key words: Lateolabrax japonicas; growth performance; xylooligosaccharide; non-specific immune; intestinal microflora

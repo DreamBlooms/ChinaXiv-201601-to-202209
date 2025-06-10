@@ -1,0 +1,622 @@
+[
+    {
+        "type": "text",
+        "text": "CellHost&Microbe HIV-1 Exploits the Host Factor RuvB-like 2 to Balance Viral Protein Expression ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Graphical Abstract ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Authors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fc1b73126b59fa5899317d69eae987a6b826769b169216d00b572f89a6d62ba.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xin Mu, Yajing Fu, Yiping Zhu,..., Hong Shang, Stephen P.Goff, Guangxia Gao ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence gaogx@moon.ibp.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InBrief ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The correct ratio of HIV-1 Gag to envelope (Env) is important for virion infectivity. Mu etal. demonstrate that host factorRVB2 inhibits Gag protein expression but is antagonized by Env and that HiV-1 uses thismechanismto balance the relative expression of Gagand Env for virion production. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highlights ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RVB2 inhibits HIV-1 Gag expression in a matrix (MA)-   \ndependent manner   \nRVB2 interacts with MA and the translating mRNA and   \npromotes RNA degradation   \nHIV-1-encoded envelope protein antagonizes RVB2 by   \ncompetitive interaction with MA   \nHIV-1 makes use of RVB2 for efficient production of infectious   \nvirionparticles ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HIV-1 Exploits the Host Factor RuvB-like 2 to Balance Viral Protein Expression ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "XinMu,1 Yajing Fu,2 Yiping Zhu, Xinlu Wang,1 Yifang Xuan,1 Hong Shang,² StephenP.Gof,andGuangxia Gao1\\*   \n1CAS KeyLaboratoryof Infectionand Immunity,InstituteofBiophysics,ChineseAcademyofSciences,Beijing001Chna   \n2KeyLaboratorofDmunoogyoftioalHealthndFamilyannngommisioneFirstAfilatedospital,Cadical   \nUniversity, Shenyang 110001,China   \n3DepartmentofiochemistryandMolecularBiophysics,DepartmentofMicrobiologyandmmunologyandHoward Hughes Medical   \nInstitute,Columbia University Medical Center, Columbia University,New York NY,10032, USA   \n\\*Correspondence: gaogx@moon.ibp.ac.cn   \nhttp://dx.doi.org/10.1016/j.chom.2015.06.018 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The correct ratio of the HIV-1 structural protein Gag to the envelope protein(Env) is important for maximal virion infectivity. How the virus ensures the production of Gag and Env proteins in an appropriate ratio remains unknown.We report that HiV-1 exploits the host factor RuvB-like 2 (RVB2) to balance relative expression of Gagand Env for efficient production of infectious virions.RVB2 inhibits Gag expression by interactingwith both the encoded Matrix (MA) domain of Gag protein and ${ \\pmb 5 } ^ { \\prime }$ UTR of the translating mRNA and promoting mRNA degradation in a translation-dependent manner. This inhibitory activity of RVB2 is antagonized by Env through competitive interaction with MA,allowing Gag synthesis to proceed when Env levelsareadequate for virion assembly. In HiV-1-positive patients,RVB2 levels positively correlate with viral loads and disease progression status.These findings reveal a mechanism by which HiV-1 regulates its protein expression. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thevirion particles of the human immunodeficiencyvirus type 1 (HIV-1) encapsidate the RNA genome inacore particle formed from the Gag proteins,surrounded by a membrane bilayer containing the viral envelope (Env) protein.Gag is synthesized as a polyprotein from the unspliced viral RNA and cleaved into individual structural proteins by the viral encoded protease, includingMatrix (MA),Capsid (CA)，Nucleocapsid (NC) and a protein of $6 ~ { \\mathsf { k D a } }$ (p6),during virion maturation (Sundquist and Kräusslich，2012)．Env is translated from a singly spliced mRNA as a polyprotein.With an endoplasmic reticulum (ER) localization signal at the N terminus,Env translocates into ER during its synthesis.The complete translocation of Env into ER is prevented bya hydrophobic transmembrane domain, leaving the C-terminal domain (CTD) exposed in the cytoplasm. Env proteins form trimers in ER and are cleaved into the surface protein (gp120) and the transmembrane protein (gp41) in Golgi (Checkley et al., 2011). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results from previous studies suggest that atthe early stage of viral gene expression,Gag expression precedes or coincides with Env expression (Guatelli et al.，1990; Mohammadi et al., 2013).Gagalone isable to formnoninfectious“bald’particles on the plasma membrane and bud from the producer cells (Gheysen et al., 1989).When Env is present on the membrane, the particles formed from Gag carry the membrane together with Env to form infectious particles.There are several lines of evidence indicating that the interaction between MA and Env CTD is important for the incorporation of Env into viral particles, although debates existwith respect to the necessityof this interaction (Tedbury and Freed, 2014). How the virus ensures a correct numberof Envmolecules to be incorporated into thevirions is not clear. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RVB2 is a member of the $\\mathsf { A A A + }$ (ATPases associated with a variety of cellular activities) superfamily and is ubiquitously expressed (Nano and Houry,2013).RVB2 and its homolog RuvBlike1 (RVB1) can formacomplex,which has been reported to participate ina variety of biological processes,such as transcription,DNA repair,and telomerase complexassembly (Nano and Houry，2013). They also participate in the nonsense-mediated mRNA decay through interactions with SMG-1 and the mRNP, suggesting a role of RVB1/RVB2 in mRNA metabolism (lzumi etal.,201O).There are several lines of evidence showing that RVB2 also functions independently of RVB1 (Diop et al., 2008; Kakugawa et al., 2009). For example, RVB2 inhibits influenza A virus replication in an RVB1-independent manner by interfering with the oligomerization of the viral nucleoproteins (Kakugawa etal.,20o9).A recent study showed that RVB2 is a key regulator inhumoral immunity，essential for T cell development and maximal T cell-dependent antibody responses (Arnold et al., 2012). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here,we show that RVB2 inhibits HIV-1 Gag expression and that this inhibitory activity is antagonized by the viral Env.We provide evidence indicating that the interactions between RVB2 and the viral proteins balance their relative expression levels forefficient production of infectious virion particles. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RVB2Inhibits VSV-G Pseudotyped HIV-1 Vector Production ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Given the important roles MA plays in the life cycle of HIV-1 (Hearps and Jans, 2007),we set out to identify MA-interacting (A and B) VSV-G pseudotyped HIV-1 vector-producing plasmids were transfected into HEK293 cells together with an indicated plasmid.A plasmid expressing renilla luciferase,which is not responsive to RVB2,was included to serve as a control for transfection efficiency and sample handling.A fraction of the culture supernatant was used to infect recipient cells,and the rest was concentrated by ultracentrifugation for p24 levels measurement by western blotting (upper panel).At $4 8 ~ \\mathsf { h r }$ postinfection，firefly luciferase activity was measured in the recipient cells and normalized by the renilla luciferase activity in the producer cells (lower panel).Relative luciferase activity in the recipient cells infected with the virus produced from empty vector-transfected cells was setas1.Data presentedaremeans $\\pm \\mathsf { S D }$ ofthree independent experiments. Ctrli,control shRNA;R2i, shRNA targeting RVB2；Rm,a rescue RVB2-expressing plasmid that is not targeted by R2i. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9e810ae046a5312fecc395242937cb26109f2923ac3699489ed87d62412ee16.jpg",
+        "img_caption": [
+            "Figure 1. RVB2 Inhibits VSV-G Pseudotyped HIV-1 Vector ProductionthroughInhibitingGagExpression "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(C and D) HiV-1 vector-producing plasmids indicated were transfected into HEK293 cells together with a plasmid indicated.A plasmid expressing myctagged GFP was included to serve asa control.At 48 hr posttransfection,cells were lysed and analyzed for protein levels by western bloting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The band intensities of p24,p55,and GFP were measured using Image J software.The intensity of p55 in the cell lysate was normalized with that of GFP.The relative intensity of p55 or p24 in the control cells was set as 1. Data presented are means $\\pm$ SD of three independent experiments.See also Figures S1-S4. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "proteins as host factors potentially involved in HiV-1 replication. MA was fused at the C terminus with a tandemaffinity purification (TAP) tag and expressed ina tetracycline-inducible manner in293TRex cells.MA-TAP and associated proteins were subjected to electrophoresis on SDS-PAGE.A protein of about $5 0 \\mathsf { k D a }$ that specifically bound to MA-TAP but not to TAP alone was analyzed by MALDl-TOF and identified as RuvB-like 2 (RVB2) (see Figure S1A available online).The interaction between RVB2 and MA was confirmed by coimmunoprecipitation assays (Figure S1B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To probe the function of RVB2 in HiV-1 replication，we first analyzed whether overexpression of RVB2 affects the production of vesicular stomatitis virus G (VSV-G)-pseudotyped HIV-1 vector NL4-3luc,in which an engineered stop codon abolishes Env expression and a luciferase reporter is inserted into the coding sequence of Nef (Connor et al., 1995).The pseudovirus was produced in HEK293 cells with or without the expression of Flag-tagged RVB2，and the released virion particles were used to infect recipient HeLa cells.Data showed that overexpression of RVB2 reduced CA (p24) levels in culture supernatants in a dose-dependent manner (Figure 1A,upper panel). Consistently，the luciferase activity in the recipient cells expressed from the virus was reduced by RVB2 overexpression (Figure 1A, lower panel).To test the function of endogenous RVB2,an shRNA targeting RVB2 was designed and confirmed for its ability to downregulate RVB2 expression (Figure S2A). Indeed,downregulation of endogenous RVB2 in HEK293 cells increased CA levels in culture supernatants and luciferase activity in the virus-infected recipient cells (Figure 1B).When MT-4 cells, a $\\mathsf { C D 4 ^ { + } }$ T cell line that effectively support HiV-1 replication, were transfected with plasmids to produce VSV-G pseudotyped NL4-3luc,downregulation of endogenous RVB2 also increased thevirus production (Figure S2B).Notably，the viral protein expression levels in the transfected cells were within the range of those in HIV-1-infected MT4 cells (Figure S2C). HIV-1 infection of MT4 cells did not obviously affect the expression levels of RVB2 (Figure S2C). Taken together, these results indicate that RVB2 at its endogenous levels and upon overexpression inhibits the production of VSV-G pseudotyped NL4-3luc virus.In addition,RVB2 expression also inhibited VSV-G pseudotyped HIV-2 and SIVmac virus vectors (Figure S3). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RVB2 Inhibits Gag Expression ina Manner Dependenton ItsInteractionwith MA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next analyzed transfected producer cells for the protein levels of Gag (p55).Data showed that overexpression of RVB2 reduced the levels of Gag expressed from NL4-3luc genome (Figure 1C),and downregulation of endogenous RVB2 increased Gag levels in the producer cells (Figure 1D). In consideration of the fact that in many cases RVB2 functions in complex with RVB1，we tested whether RVB1 inhibits Gag expression. In contrast to RVB2,overexpression of RVB1 had little effect on Gag levels,and downregulation of endogenous RVB1 failed to increase Gag levels (Figure S4). These results indicate that RVB2,but not RVB1,acts to reduce production of VSV-G pseudotyped NL4-3luc by reducing Gag levels in the producer cells. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To understand how RVB2 expression reduces Gag levels, the coding sequence of Gag was cloned into a mammalian expression vectorwith orwithout the ${ \\boldsymbol { 5 } } ^ { \\prime }$ untranslated region (UTR),both under the transcriptional control of the CMV promoter (Figure 2A).The resulting constructs,referred to as pUTRGag and pGag，respectively，were tested for their sensitivity to RVB2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(A)Schematic representation of Gag expression constructs.The fork before the coding sequence of MA represents a point mutation in the start codon. Thearrow represents an engineered translation start codon.SL,stem-loop region. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(B and C) The indicated Gag-expressing plasmids were transfected into HeLa cells together with a plasmid expressing RVB2.A plasmid expressing GFP was included to serve as a control.Gag expression was detected by western blotting. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a16ab922e05a545f56ff7ad273e6a5b6d799691f59dadd5b0d425dca023209b3.jpg",
+        "img_caption": [
+            "Figure 2. The 5' UTR of gag mRNA and CodingSequenceof MA Are Required forRVB2 to Inhibit Gag Expression ",
+            "luciferaseactivity in theabsence of RVB2 divided by thatin the presence of RVB2.Datapresented are means $\\pm \\mathsf { S D }$ ofthree independent experiments. Thebandintesgprotesndremeasudsiasaretegproteeaidito relative intensity of Gag proteins in the control cells was set as 1.Data presented are means $\\pm \\mathsf { S D }$ of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(D)Flag-tagged RVB2 and firefly luciferase reporters indicated were separately expressed in HEK293T cells.The cell lysates were mixed and RVB2was immunoprecipitated.Firefly luciferase activity was measured in the total lysates and precipitates.Relative interactions between RVB2 and luciferase reporters were calculated as the firefly luciferaseactivityin the precipitatesdivided bythatinthetotallysates.Therelative interaction in the absence of RVB2 was set as 1. Data presented are means $\\pm$ SD of three independent experiments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(E)Firefly luciferase reporters indicated were transfected into HeLa cels together with an empty vector ora plasmid expressing Flag-tagged RVB2.A plasmid expressing renilla luciferase was included to serve as a control.Firefly luciferase activity was normalized by the renilla luciferase activity. Fold inhibition was calculated as the normalized ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Gag protein levels expressed from these constructs were generally lower than those expressed from NL4-3luc (data not shown), likely due to the lack of RRE in these constructs.Data showed that the levels of Gag expressed from pUTRGag were reduced by RVB2 (Figure 2B). However, the levels of Gag expressed from pGag were litle affected (Figure 2B).These results suggest that the ${ \\boldsymbol { 5 } } ^ { \\prime }$ UTR is required for RVB2 inhibition of Gag expression and that RVB2 inhibits Gag expression without directlyaffecting the protein once it is synthesized.The ${ \\boldsymbol { 5 } } ^ { \\prime }$ UTR is composed of sequences dubbed R,U5, the primer binding site,and three putative stem-loop structures (referred to as the SL region) (Ramezani and Hawley, 2o02). Deletion ofa fragment up to the SL region had little effect on RVB2 inhibition of Gag expression (Figures 2A and 2B).These results indicate that the SL region in the $5 ^ { \\prime }$ UTR is required for RVB2 inhibition of Gag expression. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Given the known interaction between RVB2 and MA,we investigated the role of MA in RVB2 inhibition of Gag expression.The coding sequence of MA was deleted (△MA), or the start codon of MA $_ { [ ( - ) \\mathsf { M A } ] }$ was mutated and an ectopic start codon was engineered upstream of the coding sequence of CA (Figure 2A). In contrast to the Gag expression from pUTRGag,protein expression from these constructs was not inhibited by RVB2(Figure 2C). Furthermore,a reporter containing only the SL region and the coding sequence of MA was sufficient to be responsive to RVB2 (Figure 2B).These results indicate that both the $5 ^ { \\prime }$ UTR andMA expressionare required for RVB2 inhibition. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To develop a more quantitative assay to evaluate the inhibitory effect of RVB2 and to probe the relationship between MA interaction with RVB2 and its sensitivity to RVB2,a luciferase reporter was constructed,wherein the SL region and the coding sequence of MA were fused in frame with that of firefly luciferase (SLMA-luc).The reporterand RVB2 were separately expressed in HEK293T cells.The cell lysates were mixed,RVB2 was immunoprecipitated,and the luciferase activity in the precipitates reflects MA interaction with RVB2.Using this assay，MA sequences from different HiV-1 subtypes were screened for an RVB2 interaction variant.The MA from group O (O pCMO2.5, hereafterreferred toas OCM) displayed little interaction,while the MA from group N (N O2CM SJGddd,hereafter referred to as NO2) interacted with RVB2 almost as well as the MA from NL4-3 (Figure 2D).These reporters were analyzed for their sensitivity to RVB2.Data showed that RVB2 significantly inhibits the expression of the reporter containing the MA from NL4-3and N02 (Figure 2E). In contrast,RVB2 had little effecton the reporter containing the MA from OCM(Figure 2E).These results indicate that interactionofMAwithRVB2is required forRVB2to inhibit MA expression. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RVB2 InteractswithTargetmRNAina Translation-DependentManner ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to investigate why both the SL regionand MA interaction are required for RVB2 to inhibit reporter expression,we asked whether RVB2 interactswith the translating mRNAand whether (Aand B) Firefly luciferase reporters indicated were transiently expressed in HeLa cells with or without Flag-tagged RVB2.RVB2 was immunoprecipitated and detected by western blotting.The reporter mRNA in the lysates (input) and in the precipitates (IP) was detected by reverse-transcription PCR.(B) Cells were mock treated or treated with cycloheximide (CHX) for6 hr to block global translation. $+ \\mathsf { R T }$ ,RNA was reverse transcribed;-RT,no reverse transcriptase wasadded. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c7b832e36a597d6fec24e3ea5c24b4c2827555f3050a71da2cd359fe70bb5d7.jpg",
+        "img_caption": [
+            "Figure 3.RVB2 Interactswith TargetmRNA in an MA TranslationDependentManner "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "the interaction requires MA expression.To serve as negative controls,reporters SL(-)MA-luc and SL-luc were constructed wherein the coding sequence of firefly luciferase was cloned downstream of SL(-)MA [SL(-)MA-luc]or downstream of the SLregion (SL-luc)，respectively.The reporters were coexpressed with Flag-tagged RVB2,and RVB2 protein was immunoprecipitated and the associated RNA was detected by reverse-transcription PCR.Data showed that the mRNA of SLMA-luc coprecipitated with RVB2 (Figure 3A). In contrast, the mRNA of SL(-)MA-luc or SL-luc failed to do so (Figure 3A). These results suggest that RVB2 interacts with target mRNA in amanner dependent on the translation of MA.To substantiate thisnotion further,the interaction between RVB2 and SLMAluc mRNA was assayed in cells treated with cycloheximide (CHX),which blocks global translation.Indeed,treatment with CHX abolished the interaction between RVB2 and target mRNA (Figure 3B). Notably， these results also revealed that RVB2 reduced the mRNA level of SLMA-luc but not that of the nonresponsive reporters，and this reduction in the target mRNA level was removed by blocking translation (Figure 3B, reporter RNA input panel). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RVB2 Promotes Target mRNA Decay in a Translation-DependentManner ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Wenext analyzed the effect of RVB2 on the levels of target mRNA.NL4-3luc was expressed with or without RVB2，and gagmRNA levels were determined by reverse-transcription PCR.Data showed that RVB2 significantly reduced gag mRNA levels in the cytoplasm with little effect on the mRNA levels in the nucleus (Figure 4A). In contrast, RVB2 barelyaffected nefluc,vif or env mRNA levels (Figure 4A) in the cytoplasm or nucleus.Similar results were obtained when the samples were analyzed with quantitative reverse-transcription PCR(Figure 4B). These results suggest that RVB2 does not affect the transcription of the viral mRNA but instead specifically promotes target mRNA degradation in the cytoplasm.To further support this notion,we measured the decay rates of gag mRNA in the cytoplasm with or without RVB2.Data showed that RVB2 significantly increased the decay rate of gag mRNA (Figure 4C). In contrast，RVB2 overexpression had little effect on the decay rate of nef-luc,vif,env,or cellular gapdh mRNA (Figure 4C). In line with the above results (Figure 3B),blocking translation protected target viral mRNA from RVB2-mediated degradation (Figure 4D).Collectively, these results indicate that RVB2 promotes targetmRNA decay in the cytoplasm using a mechanism dependent on the translation of MA. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RVB2 Associates with Ribosomes,and Downregulation ofPeloPreventsRVB2-MediatedTargetmRNA Degradation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next investigated the mechanism by which RVB2 promotes target mRNA degradation.We hypothesized that simultaneous binding of RVB2 to nascent MA and the translating mRNA might cause ribosome stalling and subsequent degradation of target mRNA,which was conceptually similar to no-go decay (NGD) in mRNA surveillance (Graille and Séraphin, 2012). It is known that stalling ribosomes recruit Pelo and Hbs1L to initiate target mRNA degradation (Beckeretal., 2011;Graille and Séraphin, 2012).Our hypothesis predicted that (1) RVB2 should associate with ribosomes,probably in a target mRNA-dependent manner; and (2) downregulation of Pelo or Hbs1L should reduce target mRNA degradation to some extent.To test this hypothesis,we firstanalyzedwhetherRVB2associateswithribosomes.Three reporters were used:SLMA-luc,MA-luc,and SL-luc.Consistent with the foregoing results，RVB2 specifically inhibited the expression of SLMA-luc but not MA-luc or SL-luc (Figure 5A). Ribosomes in the lysates of the cells expressing RVB2 and these reporters were pelleted through sucrose cushion, the associated proteins were detected bywestern blotting,and the associated RNAs were detected by reverse-transcription PCR.RVB2 was easily detected in the ribosome pellet in the presence of the RVB2-responsive reporter SLMA-luc (Figure 5B). In comparison, in the presence of MA-luc,which is barely responsive to RVB2 (Figure 5A), the level of ribosome-associated RVB2 was considerably reduced (Figure 5B).In the presence of the control reporter SL-luc,very little RVB2 was detected in the ribosome pellet (Figure 5B).All the reporter mRNAs were detected in the ribosome pellet (Figure 5B). These results indicate that RVB2 indeed associates with ribosomes ina reporter mRNA-dependent manner. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further test our hypothesis,Pelo was downregulated by an siRNA,and the effect on RVB2-mediated targetmRNAdegradation of SLMA-luc was evaluated.The siRNA targeting Pelo effectively downregulated the mRNA level of endogenous Pelo (Figure 5C). Downregulation of endogenous Pelo did not affect RVB2 inhibition of SLMA-luc protein expression (Figure 5D). However,downregulation of Pelo almost prevented RVB2-mediated slma-/uc mRNA degradation (Figure 5E).These results support our hypothesis that RVB2 induces ribosome stalling and the following targetmRNA degradation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RVB2 Is Antagonizedby HiV-1 Env ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The inhibitory effects of RVB2 on Gag expression described above were detected using HIV-1 vector NL4-3luc.We next analyzed the effectof RVB2 on the replication-competentvirus NLenv-luc.In contrast to NL4-3luc，Gag expression from NLenv-luc was little affected by RVB2 overexpression (Figure 6A) ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/68de7362ad8517bc1f0dc540f455372d0880c06288def2fd9b2fb91ec27ea908.jpg",
+        "img_caption": [
+            "Figure 4.RVB2 Promotes Target mRNA Degradation in a Translation-Dependent Manner "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(A-C)pNL4-3luc was transfected into HeLa cells with orwithout a plasmid expressing RVB2. (A) At $4 8 \\ \\mathsf { h r }$ posttransfection,nuclear and cytoplasmic RNA was extracted and detected by reversetranscription PCR. (B)At $4 8 ~ \\mathsf { h r }$ posttransfection, cytoplasmic RNA was extracted and detected byreal-time PCR.The viral mRNA levels were normalized by gapdh mRNA levels.The normalized mRNA levels in empty vector-transfected cells were set as 1.(C) At 36 hr posttransfection, cells were treated with actinomycin D (act.D) to stop global transcription.Cytoplasmic RNA was extracted at the time points indicated and quantified by real-time PCR.The mRNA level in the cells without actinomycin D treatment was set as 1. Data presented in (B) are means of $\\pm \\mathsf { S D }$ of two independentmeasurements,representative of two independent experiments.Data presented in (C) are means $\\pm$ SEMof two independent measurements,representative of two independent experiments.EV,empty vector. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(D)Gag-expressing plasmids indicated were transfected into HeLa cells with or without aplasmid expressing RVB2.At $4 0 \\ h r$ posttransfection，cellsweremocktreatedortreated with CHX.At $4 \\ \\mathsf { h r }$ thereafter，RNA levels were analyzed. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "HIV-1 for the loss of interaction with NL4-3 MA,and the Env CTD from the N02 subtype was identified as a noninteracting variant (Figure 6F).We then analyzed whether various Env CTDs can or by downregulation of endogenous RVB2 (Figure 6B).Since the onlydifference between NLenv-luc and NL4-3luc is that NLenvlucexpresses a functional full-length Env，which is absent in NL4-3luc,we reasoned that the activity of RVB2 might be antagonized by Env.Indeed,coexpression of HiV-1 Env relieved the inhibitory effect of RVB2 on Gag expression from NL4-3luc (Fig ures 6C and 6D). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The full-length HiV-1 Env is synthesized in the ER and transported onto the plasma membrane.Thus,only the C terminus of Env is expected to be accessible to Gag,which is synthesized in the cytosol.In addition,a fragment of the CTD of HIV-1 Env, derived from proteolytic cleavage of the protein or fromalternative splicing of the Env-encoding mRNA,was recently identified in HIV-1-infected or HIV-1 vector-transfected cells (Pfeiffer et al., 2013).We thus reasoned that this CTD might be a functional RVB2-antagonizing domain.Indeed，expression of Env CTD alone relieved the inhibitory effectof RVB2 on Gag expression (Figure 6E). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is well established that HiV-1 Env CTD interacts with MA (Checkley et al.，2011). Since the interaction between RVB2 and MA is required for RVB2 inhibition of Gag expression,we hypothesized that Env CTD might antagonize RVB2 by competitively interacting with MA.The sequences of HIV-1 Env CTDs from different subtypes differ considerably (Buonaguro et al. 2007).We first screened Env CTDs from different subtypes of inhibit the interaction between RVB2 and MA.The proteins were coexpressed in HEK293 cells,and the interactions were analyzed by coimmunoprecipitation assays. In the absence of Env CTD，immunoprecipitation of MA coprecipitated RVB2 efficiently (Figure 6G).When the Env CTD from NL4-3 was coexpressed with MA and RVB2,immunoprecipitation of MA coprecipitated only Env CTD but not RVB2 (Figure 6G). In contrast, when the Env CTD from No2 was coexpressed,it failed to disrupt the interaction between MA and RVB2 (Figure 6G).These results strongly suggest that the Env CTD from NL4-3 antagonizes RVB2 inhibition of Gag expression through competitively interacting with MA.To further support this notion, the Env CTD in NLenv-luc was replaced with that from NO2 (NLNo2-luc).The production of the chimeric virus was considerably reduced (Figure S5A) and was now significantly enhanced by downregulation of endogenous RVB2,whereas the production of NLenv-luc was little affected (Figure S5B). In line with these results, Gag and CA levels expressed from NLNo2-luc were enhanced by downregulation of RVB2,whereas those expressed from NLenv-luc were little affected (Figure 6H). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RVB2ModulatesHlV-1 InfectivityatanEarly Stageof Virus Production ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We next analyzed the effect of RVB2 inhibition of Gag expression and the antagonism of the inhibition by Env on the infectivity (Aand B) Firefly luciferase reporters indicated were transiently transfected into HeLa cells withor without a plasmid expressing Flag-tagged RVB2.A plasmid expressingrenilla luciferasewas included to serve as a control. (A) A fraction of the cell lysate was used to measure luciferase activities.Firefly luciferase activity was normalized by renilla luciferase activity.Fold inhibitionwas calculated as the normalized luciferase activity in the absence of RVB2 divided by that in the presence of RVB2.Data presented are means of $\\pm \\mathsf { S D }$ of two independent measurements,representative of two independent experiments.(B) The rest of the cell lysate was purified through sucrose cushion to pellet ribosomes. The pellets were analyzed for protein levels by western bloting and for RNA levels by reversetranscription PCR.S16 is a component of the 40S ribosome subunit. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5cca1fe33336ffc3d9c5be999f1f8859b437517e57f63e4f684aee13b7cfe0e.jpg",
+        "img_caption": [
+            "Figure 5.Downregulation of Pelo Prevents RVB2-Mediated TargetmRNA Degradation ",
+            "presented are means $\\pm \\mathsf { S D }$ oftwoindependentmeasurements,epresentativeofreeindependentexperiments.CtrlontrolsiA;PeloiiNAtargtingelo. (Dadi) Flag-tagdi) andNAlevespdpoctiii lucifersectiti wereolizedytevesofil.oalidAintelsransfecdithteptyvectodotroasata presented are means $\\pm \\mathsf { S D }$ of two independent measurements,representative of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(C)An siRNA targeting Pelo was transiently transfected into HeLa cells.At $4 8 \\ \\mathsf { h r }$ posttransfection, cytoplasmic RNA was extracted and mRNA levels were analyzed by real-time PCR.The levels of pelomRNA were normalized by the levels of gapdh mRNA.The normalized mRNA level in control siRNA-transfected cellswas setas 1.Data of the produced virus.An optimally infectious HIV-1 virion particle requires proper amounts of Gag and Env,which are expressed from two different species of mRNAs.It has been reported that Gag expression precedes or coincides with Env expression (Guateli et al., 1990; Mohammadi et al., 2013). We reasoned that in the absence of enough Env,robust Gag expression would lead to the production of noninfectious “bald\" virions,and RVB2 inhibition of Gag expression and the antagonism of RVB2 by Env would help to balance the relative expression levels of Gag versus Env.To test this hypothesis，we analyzed the effect of downregulating endogenous RVB2 on the production of infectious virions.The virus producing plasmid pNL4-3 was transfected into HEK293T cells with or without anshRNA targeting RVB2.The expression levels of both Gag and Env increased over time posttransfection (Figure 7A).At 12 hr posttransfection,when Env was expressed at a low level, downregulation of RVB2 increased Gag levels but had little effect on Env expression (Figure 7A). The concentrations of the virions in the culture supernatants were so low that they could be detected only after concentration by centrifugation. Inagreementwith the increased Gag levels in the producer cells, downregulation of RVB2 increased virion-associated CA levels (Figure 7B).However,at 24 hr posttransfection,when Envwas expressed at a higher level,downregulation of RVB2 had little effect on Gag levels in the producer cells (Figure 7A) or on the virion-associated CA levels in the culture supernatants (Fig ure 7B).To measure the infectivity of the produced virus,equal amounts of the virus,as measured by the CA levels,were used to infect TZM-bl indicator cells (Da et al., 2011). In these cells the expression level of a luciferase reporter is proportionally dependent on the amount of incoming infectious virus,thereby reflecting the infectivityof thevirus.At $1 2 \\mathsf { h r }$ posttransfection, downregulation of RVB2significantly reducedthe infectivity of the produced virus (Figure 7C). In comparison,at $2 4 ~ \\mathsf { h r }$ posttransfection, downregulation of RVB2 had little effect (Figure 7C). These results support the notion that at an early stage of virion production HIV-1 uses RVB2 to balance viral Gag and Env expression for efficient production of infectious virions.As a proof of concept，these experiments were performed in HEK293T cells.We performed similar experiments using $\\mathsf { C D 4 ^ { + } }$ Tcells,but the titer of the produced virus was too low to be detectedatan early time posttransfection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is conceivable that in vivo,without RVB2，production of noninfectious bald virions would alert the immune system before infectious virus is produced and thus viral replication wouldbe better controlled by the host.To test this idea，we analyzed RVB2 mRNA levels in HIV-1-positive patients who were divided into two groups: rapid progressors (RPs)and long-term nonprogressors (LTNPs) (see Supplemental Information for more information on the patients).Data showed that theaverage RVB2 mRNA levels in LTNPs were significantly lower than those in RPs (Figure 7D).Furthermore,RVB2 levels positively correlated with the viral loads (Figure 7E)and inversely correlated with $\\mathsf { C D 4 ^ { + } }$ T cell numbers (Figure 7F) in HIV-1-positive patients.Collectively，although these results arejust correlative and suggestive，they support the notion (F)V5-tagged NL4-3 MA was transiently coexpressed with myc-tagged Env CTDs indicated.The lysates were immunoprecipitated with the antibody to V5 and detected by western blotting. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b48898dffd228cab8161e6382ec6849533b7a2cdc415703a8130cd9137432c6.jpg",
+        "img_caption": [
+            "Figure 6. RVB2 Is Antagonized by HIV-1 Env (Aand B) Infectious clone pNLenv-luc was transfected into HEK293 cells with a plasmid expressing RVB2(A)oran shRNA targeting RVB2 (B).A plasmid expressing GFPwas included to serve asa control. Gag expression was detected by western bloting. (C and D) Gag was transiently expressed from pNL4-3luc in HEK293 cells with HIV-1 Env,with or without RVB2 (C) or an shRNA targeting RVB2 (D). Gag expression was detected by western blotting. (E) Gag was transiently expressed from pNL4-3luc in HEK293 cells with the Env CTD from NL4-3 with or without RVB2.Gag expression was detected by western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(G) Flag-tagged NL4-3 MA was transiently coexpressed in HEK293 cells with myc-tagged RVB2 and the Env CTD from NL4-3 or N02.Lysates were immunoprecipitated with anti-Flag affinity gel,and the precipitated proteins were analyzed by western blotting. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(H)The indicated HIV-1 virus-producing plasmids were transfected into HEK293 cells togetherwith aplasmid expressing anshRNA targeting RVB2. Gag (p55) expression levels in the producer cells were measured by western blotting.CA levels in the culture supernatants were measured by ELISA. The CA level expressed from NLenv-luc in the cells transfected with a control shRNA was set as 100. The ELISA data presented are means $\\pm$ SDof two independent measurements,representative of three independent experiments. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The band intensities of Gag and GFP were measuredusing ImageJsoftware.The intensitiesof Gagwere normalized with those of GFP.The relative intensity of Gag in the control cells was set as 1. Data presented are means $\\pm \\mathsf { S D }$ of three independent experiments. See also Figure S5. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "also use RVB2 to balance their viral protein expressions,though further investigation will be needed to prove this. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RVB2 promotes the degradation of gag mRNA in a translation-dependent manner. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "that HiV-1 exploits RVB2 for effective production of infectious virions to minimize its premature exposure to the host immune system. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HIV-1 replication requires the assistance of a variety of host factors (Goff,2007).We show here that the virus makes use of the RVB2 inhibition of Gag expression and the antagonism of the inhibition by Env to balance the relative Gag and Env expression levels for efficient production of infectious virions.RVB2 plays important roles ina varietyof biological processesand is evolutionarily very conserved (Parfait et al.， 2ooO).Our observation that RVB2 also inhibited the production of VSG-G pseudotyped HIV-2 and SiV (Figure S3) suggests that other lentiviruses might ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We provided evidence implicating thatRVB2binding to nascent MA and the $5 ^ { \\prime }$ UTR of the translating mRNA causes ribosome stalling and subsequent target mRNA degradation.Nascent peptide-mediated ribosome stallingand subsequent degradation of the translating mRNA have been widely observed in many settings.Ribosome stalling can be elicited by usage of rare codons (Buchan and Stansfield， 2oo7； Lemm and Ross, 2002；Plotkin and Kudla， 2011), interference by an upstream open reading frame (Law et al.，20o1)，interactions between nascent peptide and ribosome exit tunnel components (Lawrence et al., 20o8; Nakatogawa and Ito, 2002),and heat shock protein-dependent modulations in stress stimuli (Liu et al., 2013).Ribosome stalling-induced mRNA decay has been reported with $\\beta$ -tubulin (Caron et al.， 1985) and CGS1 (Onouchi et al.，20o5) mRNAs and other settings in yeast (Doma and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A h.p.t 12 24 h.p.t 12 24 shRNA Ctrli R2i Ctrli R2i shRNA Ctrli R2i Ctrli R2i p55 (eeriete 3210 1 ese = short 0.5 exposure 0 gp160 1.8 1.4 gp120 12 0.7 GFP 0 0   \nB suo!ia p24 t(sudu 42 140 exposure 0 0   \nC 8880 12 h.p.t 8 24 h.p.t rieler 1 reieler Ctrli R2i Ctrli R2i   \nD E F p=0.006 Hhrr rnr lraeY 2.1 p=0.328 p=00.0455 2.0 1815 1.5 1.5 … 黑 1200003 1.2 十 1055 我 8 海 …： . 0.0 NC RP LTNP 0.0 VL (ig copes/ml) CD4T 10051 $( \\mathsf { n } { = } 2 0 )$ 1 $\\scriptstyle ( 1 7 = 2 8 )$ 1 $( n = 2 5 )$ (n=53) (n=53) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(A-C) pNL4-3 and a plasmid expressingan shRNA targeting RVB2 were cotransfected into HEK293T cells.A plasmid expressing GFP was included to serve as a control.At 12 and 24 hr posttransfection, culture supernatants were collected and concentrated by centrifugation.(Aand B) Viral proteins in thecell lysates (A) or in the culture supernatants (B) were detected by western blotting. (C) CA (p24) levels in the culture supernatants were quantified by ELISA. Equal amounts of CA-containing virus were used to infectTZM-bl indicator cells.At $4 8 \\mathsf { h r }$ postinfection， luciferase activity was measured. Relative luciferaseactivity in the cells infected with the virus produced from control shRNA-transfected cells was set as 10o.Data presented are means $\\pm \\mathsf { S D }$ of two independent measurements, representativeof three independent experiments. The band intensities p55,gp160,and p24 were measured using the Image J software.The intensities of p55 and gp160 in the cell lysate were normalized by those of GFP.The relative intensity in the control cells was set as 1.Data presented are means $\\pm \\mathsf { S D }$ of three independent experiments. (D-F)PBMC were collected from HIV-1-negative controls (NC)，HIV-1-positive rapid disease progressors (RP)，and long-termnonprogressors (LTNP). $\\mathsf { C D 4 ^ { + } }$ Tcell count,viral load (VL),and RVB2 mRNA levels were measured. See also Figure S6. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Comparedwithotherretroviruses, lentiviralenvelopeshavelongcytoplasmic tails (Postler and Desrosiers, 2013; Santos da Silva et al.， 2013). It is not fully understood why such a long ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Parker， 20o6).Ribosome stalling serves as a signal for mRNA surveillance (Graille and Séraphin，2012)，as most commonly seen in NGD (Doma and Parker, 2006). In NGD,Pelo/Hbs1Lassociates with the stalling ribosome and induces target mRNA degradation (Beckeretal.,2011; Graille and Séraphin，2012). RVB2-mediated mRNA degradation is conceptually similar to but mechanistically distinct from these reported processes. RVB2 interacts with MA,and such interaction appears to facilitate RVB2 binding to the ${ \\boldsymbol { 5 } } ^ { \\prime }$ UTR of the translating mRNA (Figures 3A and 3B). Simultaneous binding of RVB2 to nascent MA and the ${ \\boldsymbol { 5 } } ^ { \\prime }$ UTR of the translating mRNA likely causes ribosome stalling on the mRNA,which leads to targetmRNA degradation.This notion is supported by our observations that RVB2 associated with ribosomes in a reporter mRNA-dependent manner (Figure 5B) and that downregulation of Pelo almost prevented RVB2-mediated target mRNA degradation without affecting RVB2 inhibition of the reporter protein expression (Figures 5C5E).Noticeably, RVB2 association with ribosomes was detectablewhen MA-luc reporterwas used,although the association was much weaker than that in the presence of the RVB2-responsive reporter SLMA-luc (Figure 5B).A plausible explanation is that RVB2 binds to the nascent MA and that this binding bridges RVB2 to the translating ribosome.Without the ${ \\boldsymbol { 5 } } ^ { \\prime }$ UTR in the reporter mRNA,RVB2 binding to the nascent MA did not cause ribosome stalling. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CTD is conserved，although multiple functions of Env CTD have been reported (Postler and Desrosiers,2013).While the interaction between MA and Env CTD is thought to contribute to the incorporation of Env into virions (Muranyi et al.,2013), envelopeswith truncated CTD still function in some cell types (Murakami and Freed, 2ooo).Here，we constructeda recombinant HIV-1 virus containing the MA and Env CTD that do not interact with each other.The chimeric virus was still viable,although its production was considerably compromised (Figure S5).These results indicate that the interaction between MA and Env CTD isimportant but not absolutely required for virus production. Our observation that the production of the chimeric virus was significantlyenhancedbydownregulation ofendogenous RVB2 not only highlights the importance to the virus of the threat from RVB2 but also implies a function of Env CTD in supporting viral production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on the results reported here,we propose a working model for RVB2 inhibition of Gag expression (Figure S7). During the translation of Gag,RVB2 binds to the nascent MA,which facilitates RVB2 binding to the $5 ^ { \\prime }$ UTR of the translating mRNA. Simultaneous binding of RVB2 to the $5 ^ { \\prime }$ UTR and the nascent peptide results in ribosome stalling,which recruits Pelo to initiate mRNA degradation.The CTD of the viral envelope antagonizes RVB2 by competitively preventing RVB2 interaction with MA. This relief from RVB2 inhibition is timed during viral genome expression to coordinate translation and packaging during virion assemblyat the plasmamembrane. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Information about plasmids,antibodies，cell culture，virus productionand infection,and HiV-1-positive patients can be found in the Supplemental Information. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "VirusPreparation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To produce VSV-G pseudotyped HIV-1 vectors in HEK293 cells,plasmids pNL4-3-luc and pVSV-G were transfected into the cells using Lipofectamine 2000(lnvitrogen） following the manufacturer's instruction．To produce VSV-G pseudotyped HiV-1 vectors in MT-4 cells,the cels were nucleofected with the HiV-1 vector-producing plasmids using nucleofector (AMAXA) following manufacturer's instructions.For western blotting analyses of virion particles,culture supernatants were loaded on a $2 5 \\%$ sucrose cushion in TNE bufferand centrifuged at 25,oo0 rpm for $2 \\mathsf { h r }$ at $4 ^ { \\circ } \\mathsf { C }$ ,and pellets were resuspended in SDS-PAGE loading buffer.For ELISA assays,culture supernatants were collected and $\\mathsf { p } 2 4$ levels were measured using HIV-Ag/Ab ELISA kit following the manufacturer's instruction (Wantai, Beijing, China). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Luciferase Assays ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unless otherwise indicated,for all the transfections of constructs expressing firefly luciferase,a plasmid expressing renilla luciferase was included to serve asa control for transfection efficiency and sample handling.Luciferase activities were measured with the Luciferase Assay System for firefly luciferase or with the Dual-Luciferase Reporter Assay System (Promeaga).The firefly luciferase activity was normalized by renilla luciferase activity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RVB2-MA-luc Interaction Assays ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Theassaywas adapted from a similarassay previously described (Cosson, 1996).Briefly,Flag-tagged RVB2 and MA-luc reporter were separately expressed in HEK293T cells.At 48 hr posttransfection,cells were lysed.The clarified lysates were mixed and incubated with protein G beads (GE Healthcare) and anti-Flag antibody for 8 hr.The beads were washed three times with PBS (Hyclone),resuspended in PBS,and measured for firefly luciferase activitywith the Luciferase Assay System. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RNADetection ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To measure the mRNA levels,RNA was extracted with TRlzol (Invitrogen) and treated with RNase-free DNase (Promega) to avoid plasmid DNA contamination followed by heat inactivation of the enzyme.The RNA was reverse transcribed and detected by PCR.The method for detecting protein-associated mRNA has been described previously (Xuan et al.,2013). Briefly,HeLa cells were transfected with plasmids expressing Flag-tagged RVB2 and the luciferase reporter.At $4 8 ~ \\mathsf { h r }$ posttransfection,cells were lysed with RNase-free passive lysis buffer (Promega).The lysates were immunoprecipitated with anti-Flag antibody to precipitate RVB2 and associated RNA.The RNAwas extracted with TRlzol reagent,reverse transcribed,and detected by PCR. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ribosome Pelleting Assays ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The method was adapted from a protocol described previously (Shao et al., 2013).Briefly,HeLa cells were transfected with a plasmid expressing Flagtagged RVB2 and luciferase reporters.At $2 4 ~ \\mathsf { h r }$ posttransfection,cells were lysedwith RNCbuffer $5 0 ~ \\mathsf { m M }$ HEPES [pH7.4],100 mM KAc,5 mM ${ \\mathsf { M g C l } } _ { 2 } )$ supplemented with NP-40 at a final concentration of $0 . 1 \\%$ (v/v).The lysates were incubated on ice for $1 0 \\mathrm { m }$ before loading ontoa $0 . 5 \\mathsf { M }$ sucrose cushion in RNC buffer.The samples were centrifuged at 78,0o0 rpm for $9 0 ~ \\mathrm { { m i n } }$ at $4 ^ { \\circ } \\mathsf { C }$ .The pellet was resuspended in RNC buffer and subjected to protein and RNA detections. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DataAnalysisand Presentation ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The arithmetic mean values $\\pm \\mathsf { S D }$ were calculated from three independent experiments.The p values were calculated using the two-tailed paired Student's t test,and $\\mathsf { p } < 0 . 0 5$ was considered significant.Mann-Whitney U test was used for comparison of RVB2 levels.Spearman rank correlations were used to analyze the correlation between RVB2 mRNA levelsand $\\mathsf { C D 4 ^ { + } }$ T cell counts and viral loads. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTALINFORMATION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes seven figures and Supplemental Experimental Procedures and can be found with this article at http://dx.doi.org/10. 1016/j.chom.2015.06.018. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "X.M.,Y.F.,Y.Z.,X.W.,and Y.X.conducted the experiments.X.M.,Y.F.,H.S., S.P.G.,and G.G.designed the experiments,analyzed the data,and wrote the paper. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.Jean Rosenbaum for providing plasmid expressing human RVB2,Dr.Yonghui Zheng for providing pNLenv-luc,Dr.Paul D.Bieniasz for providing GFP-based lentivectors pHIV-2 and pSIVmac,Dr. Liguo Zhang for providing TZM-bl cells,and Dr.Yongtang Zheng for providing monoclonal antibody to p24.We thank Zhenwei Yang from the Institute of Biophysics, CAS,for technical assistance.This work was supported by grants to G.G. from the Ministry of Science and Technology (973 Program 2012CB910203), the Ministry of Health (2012ZX10001)，and National Science Foundation (81361120390) of China and Chinese Academy of Sciences (KJZD-EWL10-01)，and by a grant to X.W.from the National Science Foundation (81101262) of China.This work was also supported by a grant to Hong Shang from the Ministry of Health of China (2012ZX10001) and a grant to S.P.G.from NIH, USA (R01 AI 106629). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Received:March18,2015   \nRevised:June1,2015   \nAccepted: June 29,2015   \nPublished: July 23,2015 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Arnold,C.N., Pirie,E.,Dosenovic, P.,Mclnerney, G.M., Xia, Y.,Wang,N.,Li,X., Siggs, O.M., Karlsson Hedestam, G.B.,and Beutler, B. (2012). A forward genetic screen reveals roles for Nfkbid, Zeb1,and Ruvbl2 in humoral immunity. Proc. Natl. Acad. Sci. USA 109,12286-12293.   \nBecker，T.，Armache，J.P.，Jarasch，A.，Anger，A.M.，Villa,E.，Sieber，H., Motaal，B.A.，Mielke，T.，Berninghausen，O.，and Beckmann，R. (2011). Structure of the no-go mRNA decay complex Dom34-Hbs1 bound to a stalled 80S ribosome. Nat. Struct. Mol. Biol. 18, 715-720.   \nBuchan, J.R.,and Stansfield, I. (2o07). Halting a celllar production line: responses to ribosomal pausing during translation. Biol. Cell 99, 475-487. Buonaguro,L., Tornesello, M.L., and Buonaguro, F.M. (2007). Human immunodeficiency virus type 1 subtype distribution in the worldwide epidemic: pathogenetic and therapeutic implications. J.Virol. 81， 10209-10219.   \nCaron,J.M., Jones,A.L.,Rall, L.B.,and Kirschner, M.W.(1985). Autoregulation of tubulin synthesis in enucleated cells. Nature 317, 648-651.   \nCheckley, M.A., Luttge, B.G.,and Freed, E.O. (2011). HIV-1 envelope glycoprotein biosynthesis, trafficking,and incorporation. J.Mol. Biol. 410, 582-608. Connor, R.l., Chen, B.K., Choe, S.,and Landau, N.R.(1995). Vpr is required for efficient replication of human immunodeficiency virus type-1 in mononuclear phagocytes. Virology 206, 935-944.   \nCosson, P.(1996). Direct interaction between the envelope and matrix proteins of HIV-1.EMBO J. 15,5783-5788.   \nDa, Q., Yang, X., Xu, Y., Gao, G., Cheng, G.,and Tang, H. (2011). TANK-binding kinase 1 attenuates PTAP-dependent retroviral budding through targeting endosomal sorting complex required for transport-l. J. Immunol.186,3023- 3030.   \nDiop,S.B., Bertaux, K., Vasanthi, D., Sarkeshik, A., Goirand, B., Aragnol, D., Tolwinski, N.S., Cole, M.D., Pradel, J., Yates, J.R., 3rd., et al. (2008). Reptin and Pontin function antagonistically with PcG and TrxG complexes to mediate Hox gene control. EMBO Rep. 9, 260-266.   \nDoma, M.K., and Parker， R. (20o6). Endonucleolytic cleavage of eukaryotic mRNAs with stalls in translation elongation. Nature 440, 561-564.   \nGheysen, D., Jacobs, E., de Foresta,F., Thiriart, C., Francotte, M., Thines, D. and De Wilde, M. (1989). Assembly and release of HIV-1 precursor Pr55gag virus-like particles from recombinant baculovirus-infected insect cells. Cell 59, 103-112.   \nGoff, S.P. (2007). Host factors exploited by retroviruses. Nat. Rev. Microbiol. 5, 253-263.   \nGraille,M.,and Séraphin, B. (2012). Surveillance pathways rescuing eukaryotic ribosomes lost in translation. Nat. Rev. Mol. Cel Biol. 13, 727-735. Guatelli, J.C., Gingeras, T.R.，and Richman，D.D. (1990). Alternative splice acceptor utilization during human immunodeficiency virus type 1 infection of cultured cells. J. Virol. 64, 4093-4098.   \nHearps, A.C.,and Jans, D.A. (2007). Regulating the functions of the HIV-1 matrix protein. AlDS Res. Hum. Retroviruses 23, 341-346.   \nIzumi, N., Yamashita, A., lwamatsu, A., Kurata, R., Nakamura, H., Saari, B., Hirano, H., Anderson,P., and Ohno, S. (2010). AAA+ proteins RUVBL1 and RUVBL2 coordinate PIKK activity and function in nonsense-mediated mRNA decay. Sci. Signal. 3, ra27.   \nKakugawa， S.，Shimojima， M.， Neumann,G.， Goto，H.，and Kawaoka，Y. (2009). RuvB-like protein 2 is a suppressor of influenza A virus polymerases. J. Virol. 83, 6429-6434.   \nLaw, G.., Raney, A., Heusner, C., and Moris, D.R. (2001). Polyamine regulation of ribosome pausing at the upstream open reading frame of S-adenosylmethionine decarboxylase.J. Biol. Chem. 276, 38036-38043.   \nLawrence,M.G., Lindahl, L.,and Zengel, J.M. (20o8). Effects on translation pausing of alterations in protein and RNA components of the ribosome exit tunnel. J. Bacteriol. 190, 5862-5869.   \nLemm,l., and Ross, J. (2002). Regulation of c-myc mRNA decay by translational pausing in a coding region instability determinant. Mol. Cell. Biol. 22, 3959-3969.   \nLiu, B., Han, Y.,and Qian, S.-B. (2013). Cotranslational response to proteotoxic stress by elongation pausing of ribosomes. Mol. Cell 49, 453-463. Mohammadi, P., Desfarges, S., Bartha, I., Joos, B., Zangger, N., Munoz, M., Günthard, H.F.,Beerenwinkel, N., Telenti, A.,and Ciuffi, A. (2013). 24 hours in the life of HiV-1 ina T celline. PLoS Pathog. 9,e1003161.   \nMurakami, T.,and Freed, E.O. (200o). The long cytoplasmic tail of gp41 is required in a cell type-dependent manner for HiV-1 envelope glycoprotein incorporation into virions. Proc. Natl. Acad. Sci. USA 97, 343-348. Muranyi, W.,Malkusch, S.,Muller, B., Heilemann，M.,and Kräusslich,H.G. (2013). Super-resolution microscopy reveals specific recruitment of HiV-1 envelope proteins to viral assembly sites dependent on the envelope C-terminal tail. PLoS Pathog. 9, e1003198.   \nNakatogawa, H., and Ito, K. (2oo2). The ribosomal exit tunnel functions as a discriminating gate. Cell 108, 629-636.   \nNano,N.,and Houry,W.A. (2013). Chaperone-like activity of the AAA+ proteins Rvb1 and Rvb2 in the assembly of various complexes. Philos. Trans. R. Soc. Lond. B Biol. Sci.368, 20110399.   \nOnouchi, H., Nagami, Y., Haraguchi, Y., Nakamoto,M., Nishimura, Y., Sakurai, R., Nagao, N., Kawasaki, D., Kadokura, Y.,and Naito, S. (20o5). Nascent peptide-mediated translation elongation arrest coupled with mRNA degradation in the CGS1 gene of Arabidopsis. Genes Dev. 19,1799-1810.   \nParfait, B., Giovangrandi, Y., Asheuer, M., Laurendeau, I., Olivi, M., Vodovar, N.,Vidaud,D., Vidaud，M.,and Bieche, I. (2000). Human TIP49b/RUVBL2 gene: genomic structure，expression pattern， physical link to the human CGB/LHB gene cluster on chromosome 19q13.3. Ann. Genet. 43,69-74. Pfeiffer, T., Ruppert, T., Schaal, H., and Bosch, V. (2013). Detection and initial characterization of protein entities consisting of the HIV glycoprotein cytoplasmic C-terminal domain alone. Virology 441, 85-94.   \nPlotkin, J.B.,and Kudla, G. (2011). Synonymous but not the same: the causes and consequences of codon bias. Nat. Rev. Genet. 12, 32-42.   \nPostler, T.S.,and Desrosiers, R.C. (2013). The tale of the long tail: the cytoplasmic domain of HIV-1 gp41. J. Virol. 87, 2-15.   \nRamezani, A.,and Hawley, R.G. (2002). Overview of the HIV-1 Lentiviral Vector System. Curr. Protoc. Mol. Biol. Chapter 16. Unit 16 21.   \nSantos da Silva, E., Mulinge, M.,and Perez Bercoff, D. (2013). The frantic play of the concealed HIV envelope cytoplasmic tail. Retrovirology 10, 54.   \nShao,S., von der Malsburg，K.,and Hegde, R.S. (2013). Listerin-dependent nascent protein ubiquitination relies on ribosome subunit dissociation.Mol. Cell 50, 637-648.   \nSundquist, W.l.,and Kräusslich, H.-G. (2012). HIV-1 assembly, budding,and maturation. Cold Spring Harb. Perspect. Med.2, a006924.   \nTedbury, P.R.,and Freed, E.O. (2014). The role of matrix in HIV-1 envelope glycoprotein incorporation. Trends Microbiol. 22, 372-378.   \nXuan, Y., Gong, D., Qi, J., Han, C., Deng, H., and Gao, G. (2013). ZAP inhibits murine gammaherpesvirus 68 ORF64 expression and is antagonized by RTA. J. Virol. 87, 2735-2743. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

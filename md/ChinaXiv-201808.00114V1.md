@@ -1,0 +1,180 @@
+# 长链非编码RNATERRA的研究进展
+
+范源¹，罗嘉¹，甘麦邻¹，谭娅1²，张顺华1\*，朱砺（1.四川农业大学动物科技学院，成都 611130；2.贵州省农业科学院畜牧兽医研究所，贵阳 550005）
+
+摘要：端粒是染色体末端的特殊结构，对染色体具有保护作用，并且和衰老及很多疾病相关。长链非编码RNA是长度大于200bp且一般不具有编码功能的RNA。TERRA(telomericrepeat-containingRNA）是由端粒重复序列转录的一类长链非编码RNA，研究表明TERRA具有参与调控端粒长度，促进异染色体形成和保护染色体末端等功能，并且TERRA的表达与疾病和衰老相关。由于TERRA对于端粒具有重要作用，因此对于TERRA的研究已经成为端粒相关研究中的热点。目前对于TERRA的转录调控及生物学功能已有较为深入的了解。现对TERRA的生物学特性，功能和与疾病及衰老的关系进行综述，以期为TERRA后续的研究如作为疾病治疗靶点，延缓衰老等提供参考。
+
+关键词：TERRA；端粒；端粒长度；染色体末端；长链非编码RNA
+
+# The Research Advance of Long Non-coding RNA TERRA
+
+FAN Yuan1,LUO Jia1, GAN Mai-lin', TAN $\mathrm { Y a } ^ { 1 , 2 }$ , ZHANG Shun-hua1\*, ZHU Lil\* (1.CollegeofAnimal ScienceandTechnology,SichuanAgricultural University,Chengdu61130,China2.InstituteofAnial
+
+Iusbandry and Veterinary,Guizhou Academy of Agricultural Science,Guiyang 55ooo5, China)
+
+Abstract: Telomeres are specialized structures at the ends of the chromosomes, which have protective effects on the ends of chromosomes,and are associated with aging and many diseases. Long non-coding RNAs are RNAs that are greater than 2OO bp in length and generally do not produce a protein product. TERRA (telomeric repeat-containing RNA） is a type of long non-coding RNA that transcribed from telomere repeats. Emerging studies have shown that TERRA hasfunctionsof regulating telomere length， promoting the formationof heterochromosomes， also protecting the ends of chromosomes,and the expresson levels of TERRA are related to diseases and aging. Since TERRA plays an important role in telomeres, the studies of TERRA has become a spotlight in researches related to telomere. At present, the transcriptional regulation and biological functions of TERRA have been well studied. Reviewing the biological characteristics and functions of TERRA and its relationship with disease and aging provides reference for the subsequent study of TERRA，which may be act as a target for the treatment of disease treatment and aging.
+
+Key words: TERRA; telomere; telomere length; chromosomal ends; long-non coding RNA
+
+端粒是广泛存在于真核生物染色体末端的核酸蛋白复合体，作为染色体末端的特殊结构，能够避免染色体被识别为DNA双链断裂（DNAdouble-strandbreaks，DSBs）并降解[1]。端粒DNA序列是由富含G的TTAGGG 短双链重复序列组成，其中单链重复序列会在5'端-3'端的核酸外切酶的作用下在3'端形成G-单链悬垂（G-overhangs)，3'端的G-单链悬垂反折插入端粒双链区，形成拥有保护作用的T-环（T-loop）[2]。结合端粒DNA的端粒特异性蛋白复合体被称为Shelterin， 包含 TRF1 (telomeric repeat binding factor-1)、 TRF2 (telomeric repeatbinding factor-2)、 RAP1 (repressor/activator protein-1)、 TIN2 (TRF1-interactingprotein-2)、TPP1(TINT 1/PIP 1/PTOP1)和 POT1 (protection of telomeres-1)这六个蛋白，它们具有促进和维持T环结构，保护端粒的作用[3-5]。大量的研究表明：端粒的功能异常不仅会导致细胞周期的阻滞甚至凋亡，还与衰老和肿瘤的发生密切相关[。因此，进行端粒长度调控的相关研究显得十分必要。
+
+目前的研究表明，端粒附近区域具有转录活性，且会转录产生一类长链非编码RNA，并将其命名为端粒重复序列RNA（telomeric repeat-containingRNA,TERRA）[7]。研究表明TERRA主要参与端粒的调控，具有调控端粒长度，参与保护染色体末端以及细胞分化和发育等功能[8-10]。本文就TERRA的生物学特点及功能，参与的生物学过程等研究进展作一综述。
+
+# 1TERRA的生物学特征及检测方法
+
+# 1.1TERRA的概况
+
+TERRA的转录起始位点位于靠近染色体末端的亚端粒区域，并且拥有UUAGGG的重复序列，一般认为TERRA的长度在 $1 0 0 ~ \mathrm { b p }$ 至9Kb之间，最近也有报道认为TERRA的长度可超过 $1 0 0 \mathrm { K b } ^ { [ 7 , 1 1 ] }$ 。RNA 聚合酶ⅡI是参与TERRA转录的主要聚合酶，研究表明RNA聚合酶I和RNA聚合酶II可能也参与到这一过程[12]。TERRA广泛分布于哺乳动物的大部分组织，且通过核质定位发现，TERRA仅定位于细胞核内，并且几乎所有哺乳动物染色体的末端都有TERRA[13,14]。但Le等在细胞水平的试验发现，可检测到的 TERRA仅约一半定位于端粒，意味着TERRA还可能参与除调控端粒外的其他生物学进程[15]。
+
+# 1.2TERRA的修饰和加工处理
+
+绝大多数的lncRNA 拥有5’帽子结构和 polyA 尾巴，如同它们一样，TERRA也拥有5'帽子结构和polyA 尾巴。人的全部 TERRA 转录本和酵母的大部分TERRA 转录本都拥有 5'端的 7-甲基鸟苷（m7G,7-methylguanosine)帽子结构[16]。并且几乎全部的酵母TERRA分子都拥有polyA结构，但是仅约 $7 \%$ 的人类TERRA分子拥有polyA结构，并且只有没有polyA结构的TERRA转录本与端粒的异染色质相关[8,13,17]。上述结果提示 TERRA 的不同修饰可能会决定其参与的调控途径。修饰对TERRA的稳定性具有重要意义。Rat1是一种与酵母TERRA多聚腺苷化相关的5'-3'核酸外切酶，研究发现Rat1可以通过Rapl（repressor-activator protein1）及其互作蛋白Rifl 和 Rif2 负调控TERRA的表达水平[8]。TRF4，一种非经典型的PolyA 聚合酶，与外显子介导的RNA 降解有关，在Rat1敲低的细胞中可能促进TERRA的降解。核糖核酸酶H（RNAseH）是一种可以降解RNA/DNA杂交中的RNA链的酶，在出芽酵母中超表达核糖核酸酶H可以降低TERRA的表达[18]。Translin和Trax 是两种调控核酸降解的核酸结合蛋白，可以相互结合执行功能调控核酸降解。最近的研究发现，Translin可以抑制TERRA的表达水平，而Trax可以维持TERRA的表达水平，说明它们可以独立执行功能，维持TERRA的动态平衡[19]。除了上述对TERRA进行处理或降解的因子外，TERRA的降解主要是由NMD（nonsense-mediated RNAdecay）机制进行，研究表明干扰UPF1、SMG1和EST1A/SMG6等NMD 信号通路分子的mRNA表达，均呈现出细胞内TERRA表达量的显著上升，CHIP实验也表明这些蛋白质分子能直接作用于TERRA[20]。
+
+# 1.3TERRA的转录调控
+
+目前已经发现有大量的分子或通路能够直接或间接地调控TERRA的转录（图1)。TERRA是由端粒转录，因此端粒的开放程度会影响到TERRA的转录。有研究将 Suv39h和 Suv4-20h 两种甲基转移酶分别突变，发现TERRA的表达上升，同时 Schoeftner 等利用曲古抑菌素A（Trichostatin A）抑制组蛋白去乙酰化酶（histone deacetylase,HDAC）也发现了TERRA的表达量上升，这两个结果提示提升端粒的开放程度可能会促进TERRA的转录[10,13]。大量的研究也发现了许多转录因子可以直接结合到亚端粒区域的TERRA启动位点促进TERRA的转录，例如 p53 蛋白[21]、Rb1蛋白[2]、CTCF[23]、HSP1[24]和 NRF1[25]。其中HSP1是一种应激反应蛋白，在环境或者热应激的情况下，机体会表达热休克因子1（heat shock factor1，HSP1）避免有害蛋白的形成和聚集。Koskas等的研究发现，HSP1可以结合亚端粒区域，促进TERRA的转录，维持端粒的完整性，这可能是机体规避环境或热应激的一种新的途径[24]。Diman 等通过检测锻炼后的人体肌肉组织发现AMPK/PGCla 通路的活化会促进NRF1（nuclear respiratory factor1）结合到亚端粒促进TERRA的转录[25]。Snail1是一种维持细胞干性的转录因子，Mazzolini等通过在小鼠间充质干细胞（MSCs）中过表达或者敲除 Snail1发现，TERRA的表达量出现了相应的下降或上升，说明Snail1可以负调控TERRA的转录[26]。TERRA的转录主要依赖与RNA聚合酶II，也有一些研究发现有些因子会通过RNA聚合酶II影响TERRA的转录。TRF是端粒 Shelterin的组成部分之一，免疫共沉淀实验（Co-Immunoprecipitation，Co-IP）发现 TRF1与RNAII有直接接触，并且利用 siRNA干扰TRF1的表达或者构建载体过表达TRF1，TERRA的表达量均出现了下降，说明TRF1可能通过RNA聚合酶II促进TERRA的转录[10]。TLR4 是一种受体蛋白，且在癌症中具有较高的表达量。Zheng 等在肝癌干细胞中的研究发现了TLR4会通过抑制RNA 聚合酶II在TERRA转录区域的结合抑制 TERRA 的转录，从而促进肝癌干细胞的增殖[27]。FGF2蛋白具有维持细胞干性的作用，Zeng 等在hESCs 细胞中抑制FGF 通路，发现TRF1蛋白的表达量下降，TERRA的表达量上升，而通过siRNA干扰TRF1，也出现了TERRA表达量的下降，提示FGF2可能通过TRF影响TERRA的表达[28]。PAF1是一类保守的转录延长因子，可以和RNA聚合酶ⅡI结合，在酵母中包含Cdc73,Pafl,Ctr9,LeolandRtfl等部分，Rodrigues等的研究发现对Paf1和 $\mathrm { C t r 9 }$ 进行突变能促进端粒的转录，而对PAF1内的其它因子进行突变则没有此类效果，但是
+
+PAF1是否是通过RNA 聚合酶II调控TERRA的转录还需进一步的研究[29]。除了上述细胞内的转录因子外，有研究也发现激素等分子也会影响TERRA的表达，在卵巢颗粒细胞中发现睾酮（Testosterone,TTE）会抑制TERRA的表达，促进端粒酶的活性，但是其中具体的机制还有待进一步研究[30]。
+
+![](images/6e58a14e46506da7c2dc912c59191703aa4252abddbafa49e3f25c940c3665d1.jpg)  
+图1长链非编码RNATERRA的转录调控  
+Fig1Transcriptional Regulation ofLncRNATERRA
+
+# 1.4 TERRA的检测方法
+
+Northernblot是检测TERRA最常见的方法。伴随着技术的发展，实时定量PCR也被应用于检测TERRA，但是鉴于TERRA序列的特殊性，为排除DNA对结果的干扰，在抽提总RNA时应采用加入DNase酶等方法除去DNA，以确保后续实验结果的准确性[31]。FISH探针也常用于检测TERRA,Wang等利用FISH探针较好地检测了外周血白细胞的TERRA表达水平[32,33]。活细胞荧光成像技术（livingcell imaging）能够对目标分子进行连续的观察和记录分析，Laprade等在出芽酵母中利用构建转染融合MS2茎环结构和TERRA序列的载体（MS2-pUG6-loxP-kan）和MS2与GFP融合蛋白的载体，表达后的TERRA-MS2的RNA分子可以和MS2-GFP结合，然后通过观察GFP的表达变化，可间接地观察到TERRA的表达变化，Laura等也通过构建转染TERRA-MS2载体在AGS胃腺癌细胞中观察到TERRA的表达变化[34,35]。
+
+# 2．TERRA的生物学功能
+
+# 2.1TERRA维持端粒长度稳态
+
+端粒的缩短会使得端粒丧失保护染色体的功能。在细胞内，有两种途径可以预防端粒的缩短。其中端粒酶可以和端粒结合，延长端粒的重复序列，并且优先对短的端粒进行结合[36]。而另外一种则是端粒延伸替代机制（altermativelengthening of telomeres，ALT)，ALT主要通过 ALT 相关的PML小体（APBs）诱导一系列的蛋白促进DNA 重组进行同源定向修复（homology-directed repair,HDR）维持端粒长度[37,38]。
+
+# 2.1.1TERRA促进端粒缩短
+
+TERRA可以促进端粒的缩短。TERRA拥有UUAGGG重复序列，研究发现这一序列使得TERRA可以分别和端粒酶RNA（telomeraseRNA，TR）和端粒酶反转录酶（telomerase reverse transcriptase，TERT）结合，抑制端粒酶的活性，促进端粒的缩短[10,39]。然而也有研究表明TERRA的UUAGGG 重复序列可以被hnRNPA1蛋白结合，使得TERRA无法和端粒酶结合抑制其活性[40]（如图2A）。除此之外，Farmung等通过试验构建了外源的端粒，称为转录诱导端粒（transcriptionally inducible telomeres，tiTELs），通过增强外源端粒的转录产生TERRA并不能抑制端粒的延长。说明TERRA抑制端粒酶的活性这一过程可能在正常的细胞周期内受到了阻滞[41]。Ku是一种保护端粒的蛋白，可以避免端粒被核酸外切酶1（exonuclease1，EXO1）识别切除[42]。Pfeiffer 等的研究发现，TERRA可以和Ku蛋白结合，使得端粒被EXO1识别并切除，构建Ku的缺失则可以抑制这种TERRA诱导的端粒缩短[43]（图2A）。
+
+# 2.1.2TERRA促进受损端粒延长
+
+TERRA的序列可以和端粒DNA进行配对形成RNA/DNA杂交，也称为R-环（R-loops）结构[44]。当R-环在正常细胞中形成时会破坏基因组完整性，并且常常伴随着基因突变和染色体易位等异常状况[45,46]。因此，R-环的形成受到了严格的调控，研究发现，THO/TREX蛋白复合物和核糖核酸酶H（包括核糖核酸酶H1和核糖核酸酶H2）都可以抑制R-环的形成[45,47]。Yu等和Balk 等的研究均发现，在缺乏端粒酶活性或者同源定向修复的细胞中，R-环的形成会导致端粒的损伤和细胞的快速衰老，但是在拥有端粒酶活性和同源定向修复的细胞中，R环的形成会促进端粒的延长[48,49]。Graf 等的研究进一步阐明了这一机制，Rif2是一种与端粒相关的蛋白，能和端粒的Rap1蛋白结合，在较长的端粒中，Rif2蛋白特异性地将核糖核酸酶H2和Rat1（一种核内的 $5 ^ { \circ } { \circ } { - } 3 ^ { \circ } \mathrm { R N A }$ 外切酶）招募到长端粒上，使得TERRA和R-环在端粒延长前就被降解。而在极度短的端粒中，端粒出现受损，并不能与Rif2蛋白结合，TERRA和R-loops聚集在缩短部位，并激活DNA损伤反应，同时可促进同源定向修复来延长端粒避免细胞出现早衰[50]（图 2B)。TERRA也可能通过端粒酶促进端粒延长，研究发现在酵母当中，端粒受损会促进TERRA的表达，同时TERRA可以作为“支架”招募端粒酶，并且促进端粒酶招募簇（telomerase recruitment clusters，T-Resc）的形成促进端粒酶延长端粒[51,52]（图 2C)。Moravec 等在酵母中的研究也验证了这一结果，他们发现只有拥有polyA结构的TERRA可以招募端粒酶并且促进端粒酶活性，使得端粒延长[53]。
+
+![](images/463e384ad9cf21591b5c97644d656fceda3241bbe6d4c1d8a892541efe06da5e.jpg)  
+图2长链非编码RNATERRA维持端粒长度稳态
+
+Fig1LncRNA TERRA maintain homeostasis of telomere length
+
+# 2.2TERRA调控染色体
+
+# 2.2.1TERRA促进异染色质形成
+
+在细胞周期的某些时候，染色体会固缩形成异染色质抑制基因的表达[54]。组蛋白H3K9三甲基化（H3K9me3）是异染色质的标志之一，研究发现TERRA可以直接和H3K9me3,组蛋白甲基化酶 Suv39h1和异染色质蛋白1（HeterochromatinProtein1，HP1）结合[55,56]。因此TERRA的表达和染色体异染色质化形成一个负反馈调节：即TERRA在S期会通过募集组蛋白甲基化酶 Suv39h1和HP1蛋白促进H3K9 在端粒的三甲基化，抑制TERRA 的转录和表达[57]。ATRX是一种参与染色解构的解旋酶，ATRX可以和H3K9me3结合并且稳定H3K9me3的结构，但是这一结合会受到H3K4me3 的抑制[58,59]。Porro 等的研究发现 TERRA 还可以和组蛋白去甲基化酶LSD1蛋白结合促进H3K4me3的去甲基化，稳定ATRX和H3K9me3的结合，维持染色体的异染色质状态[60]（图3A）。
+
+# 2.2.2TERRA保护染色体末端
+
+TERRA的表达也对染色体的稳定具有重要作用。Montero等利用CRISPR-Cas9敲除HCT116，Hela以及U2OS细胞系中的20q亚端粒区域的TERRA启动区域，导致了TERRA的表达量显著下降，并且诱导细胞大规模的DNA 损伤应答（DNAdamage response，DDR)，说明 TERRA对于维持染色体的完整性具有重要意义[6]。在端粒复制的过程中，暴露出的单链DNA（single-stranded DNA，ssDNA）会被PRA 蛋白识别激活ATR 蛋白诱发DNA损伤应答[62]。端粒 shelterin 中的POT1蛋白可以通过抑制ATR 避免端粒出现DNA损伤应答[63]。研究还发现hnRNPA1蛋白可以取代PRA蛋白结合到端粒的单链DNA上，TERRA则可以和 hnRNPA1蛋白结合，使得hnRNPA1蛋白被POT1蛋白取代，让端粒可以正常的形成帽子结构[64,65]（如图3B)。
+
+研究还发现，TERRA除了作为顺式作用元件调控端粒外，还可以作为反式调控作用元件染色体的其他部分。Chu 等利用iDRiP蛋白质组学技术发现了ATRX是TERRA的主要互作蛋白，且互相拮抗，而且进一步利用CHIRT-seq,即 联合 ChIRP（chromatin isolation by RNA purification）和 CHART（capturehybridizationanalysisofRNA targets）技术，发现TERRA和ATRX占有相同的motif，并且TERRA的结合对ATRX的靶基因有正调节作用[11]。上述的结果说明TERRA可以通过反式调控作用拮抗ATRX维持端粒的完整性。
+
+![](images/715e68f3c407f5a4666934b09b51e33e6502d19be39b4d16fe788b3eeeaadc99.jpg)  
+图3长链非编码RNATERRA调控染色体 Fig3LncRNA TERRA regulates chromosome
+
+# 2.3长链非编码RNATERRA参与细胞分化和发育
+
+在胚胎干细胞分化前，TERRA分布在所有的性染色体上，分化后就仅存在于雌性的一条X 染色体和雄性的Y 染色体上[10]。Chu 等发现 TERRA在小鼠胚胎干细胞中主要由性染色体的拟常染色体区域（pseudoautosomal regions,PAR）转录，并将其命名为PAR-TERRA，在X 染色体灭活（X-chromosome inactivation,XCI）过程中，PAR-TERRA作为中介链接拟常染色体区域和XIC（X-inactivationcenter）区域使得一条X染色体灭活[6]。另外，Marion等[67]在由成纤维细胞诱导而来的多能干细胞（IPSCs）中检测到端粒RNA的水平显著上升，Sagie等[68]在有ICF患者成纤维细胞诱导而来的IPSCs也发现了TERRA水平的上升并且伴随着端粒的延长，意味着在这一过程中，TERRA并没有通过抑制端粒酶抑制端粒的延长。Reigviader等在小鼠和人的减数分裂过程的研究中发现,TERRA与TERT共定位于端粒，除了维持端粒结构外还可能参与染色体在减数分裂过程中的变化。同时，通过对比不同物种（人和小鼠）和性别，发现TERRA在减数分裂时期具有物种特有和性别特有的变化特征[69]。S.Zeng 等的研究发现，TERRA在小鼠胚胎干细胞增殖过程中表达量逐渐下降，使得细胞内端粒长度的增加，维持了细胞的干性[28]。对着床前的小鼠胚胎检测，发现TERRA在胚胎的2-细胞（2-cell)阶段产生，并且TERRA的表达量以与细胞周期相关的节律呈现逐步上升[70]。这些结果提示，TERRA在细胞的分化发育中可能通过调节端粒长度，并且可能与细胞干性有关，但是这一机制还需进一步的研究。
+
+# 3．TERRA与衰老和疾病
+
+# 3.1TERRA与衰老
+
+Stefano等通过构建出芽酵母的衰老模型，发现了进行衰老诱导后仍存活的酵母中均具有较高的TERRA表达量，表明TERRA表达量的上升可能会延缓衰老[71]。人体的衰老和健康与端粒息息相关，端粒的异常缩短会导致机体的早衰。有研究对10名志愿者进行45分钟的自行车耐力训练，通过检测肌肉活检样本发现在运动后AMPK信号通路激活，并且TERRA的表达量得到了显著的提升，说明适当的耐力运动可以通过促进TERRA转录，维持端粒的完整，延缓端粒功能障碍带来的衰老[25]。长期暴露在环境持久性有机污染物中会导致DNA的损伤和人体的衰老，Yuan 等对长期暴露在环境持久性有机污染物的人群中检测发现，相比对照人群，暴露人群的TERRA的表达量出现了显著升高，但是也发现在暴露人群中TERRA的表达量与端粒长度存在负相关，说明长期暴露在环境持久性有机污染物会提高TERRA的表达量促进衰老[72]。
+
+# 3.2TERRA与疾病
+
+最近，越来越多的研究也表明了TERRA的表达水平与疾病存在密切相关（表1)。S.Sagie等的研究通过对ICF综合征患者的细胞进行检测，发现TERRA的表达异常升高，并且和端粒DNA序列形成DNA/RNA杂交链，导致端粒功能紊乱[73]。Wang等的研究发现外周血白细胞中的TERRA表达水平与多囊性卵巢综合征（PCOS,polycystic ovary syndrome）存在及显著的负相关，提示 TERRA可能作为治疗PCOS 的一个靶点[30]。特发性肺纤维化（IPF,idiopathic pulmonaryfibrosis）是一类与衰老相关的肺部疾病，有研究发现TERRA在IPF患者的外周血单核细胞中极显著升高，在细胞模型中干扰TERRA的表达发现端粒和线粒体的功能均得到了改善，说明TERRA可能IPF的一类新的生物标记和治疗靶点[74]。
+
+病毒入侵细胞会使得TERRA的表达量上升，但是TERRA在病毒入侵中的潜在功能尚未见相关报道[75]。外泌体（exosome）是一类细胞分泌的胞外囊泡，具有包被非编码RNA、传递信息的功能。Wang等的研究发现TERRA会出现在BJ-hTERT细胞分泌的外泌体当中，并将其命名为cfTERRA（cell-freeTERRA），通过诱导BJ-hTERT细胞出现端粒功能障碍，发现外泌体中cfTERRA表达量上升。将这类外泌体加入外周血单核细胞（PBMCs）孵育，发现cfTERRA会刺激细胞炎性细胞因子的分泌，同时cfTERRA能在血清中被检测到，说明cfTERRA可能作为早期癌症或者衰老相关或病毒入侵带来的炎症所带来的端粒功能障碍的生物标记[76,77]。
+
+肿瘤细胞一般都通过端粒酶活性（TA，telomeraseactivity）或端粒延伸替代途径（ALT,alternative lengtheningof telomeres）维持端粒长度获得永生化。Theresa等的研究在6种癌细胞中过表达TERRA，发现过表达TERRA可以减少端粒酶阳性的癌细胞系的克隆形成，但是对ALT 阳性的癌细胞系则没有此类效果[78]。Vitelli等的研究通过对23例患者的分析，发现TERRA的表达量与的头颈部鳞状细胞癌肿瘤侵袭性存在极显著相关，肿瘤中TERRA较低的患者拥有更差的临床预后[79]。有研究发现TERRA与吲哚并喹啉衍生物CK1-14结合诱发TRF2变构从而使得U2OS骨肉瘤癌细胞的端粒出现DNA损伤反应，抑制癌细胞的增殖，说明TERRA可能作为药物的靶点治疗特定的癌症[80]。Naderlinger的综述阐述了拥有端粒酶活性的神经胶质瘤病人的预后较差，TERRA可通过抑制TA活性作为神经胶质瘤的治疗靶点[81]。
+
+表1TERRA参与的疾病调控  
+Table1TERRA involves in disease regulation   
+
+<html><body><table><tr><td>疾病</td><td>TERRA的相关功能</td><td>参考文献</td></tr><tr><td>ICF综合征</td><td>TERRA表达异常升高，和端粒DNA序列形成DNA/RNA杂交链并且导致端</td><td>[73]</td></tr><tr><td></td><td>粒功能紊乱</td><td></td></tr><tr><td>多囊性卵巢综合征</td><td>TERRA表达量与PCOS成显著负相关</td><td>[30]</td></tr><tr><td>特发性肺纤维化</td><td>干扰TERRA的表达改善端粒和线粒体的功能</td><td>[74]</td></tr><tr><td>头颈部鳞状细胞癌</td><td>TERRA与头颈部鳞状细胞癌肿瘤侵袭性存在极显著相关，拥有较低TERRA</td><td>[79]</td></tr><tr><td></td><td>的患者预后较差</td><td></td></tr><tr><td>骨肉瘤</td><td>TERRA与吲哚并喹啉衍生物CK1-14抑制癌细胞增殖</td><td>[80]</td></tr><tr><td>神经胶质瘤</td><td>TERRA可通过抑制TA活性作为神经胶质瘤的靶点</td><td>[81]</td></tr></table></body></html>
+
+# 4．小结和展望
+
+端粒与机体的衰老和疾病具有密切关系，TERRA的相关研究已经成为了科研人员了解端粒及端粒参与的生物学进程的一个新的突破口。TERRA可以通过端粒酶调控端粒的长度，这对衰老和癌症具有重要意义，但是TERRA对端粒酶的调控是双向的，在什么情况下TERRA是募集激活端粒酶延长端粒，在什么情况下TERRA是抑制端粒酶使得端粒受损，是今后TERRA调控端粒酶研究的重点。TERRA除了顺式调控端粒外还可以通过作为反式作用元件参与调控，因此对于TERRA的反式作用元件的角色还亟待进一步研究阐明。现有的研究发现TERRA也和衰老及疾病相关，但是大多都处于比较初级的研究，主要集中在与疾病的相关性研究或者在细胞系上的试验研究。同时随着高通量测序等技术的持续发展，去挖掘在不同疾病下TERRA的转录谱，也对于TERRA的后续研究具有重要意义。
+
+参考文献
+
+[1] Lange T D. How telomeres solve the end-protection problem [J]. Science,2009,326(5955): 948-52. [2] Verdun R E, Karlseder J. Replication and protection of telomeres [J]. Nature, 2007, 447(7147):
+
+924-31.   
+[3] De L T. Shelterin: the protein complex that shapes and safeguards human telomeres [J]. Genes & Development, 2005,19(18): 2100-10.   
+[4] Palm W,De L T. How shelterin protects mammalian telomeres [J]. Annual Review of Genetics, 2008, 42(1): 301-34.   
+[5] Walker J R, Zhu X D.Post-translational modifications of TRF1 and TRF2 and their roles in telomere maintenance [J]. Mechanisms of Ageing & Development, 2012,133(6): 421-34.   
+[6] Shay JW. Role of Telomeres and Telomerase in Aging and Cancer [J]. Cancer Discovery, 2016, 6(6): 584.   
+[7] Azzalin C M, Reichenbach P, Khoriauli L, et al. Telomeric repeat containing RNA and RNA surveillance factors at mammalian chromosome ends [J]. Science, 2007, 318(5851): 798-801. [8] Luke B, Panza A, Redon S, et al. The Ratlp $5 ^ { \prime }$ to $3 ^ { \prime }$ Exonuclease Degrades Telomeric Repeat-Containing RNA and Promotes Telomere Elongation in Saccharomyces cerevisiae [J]. Molecular Cell, 2008, 32(4): 465-77.   
+[9] Deng Z， Norseen J，Wiedmer A，et al. TERRA RNA binding to TRF2 facilitates heterochromatin formation and ORC recruitment at telomeres [J]. Molecular Cell, 2009,35(4): 403-13.   
+[10] Schoeftner S, Blasco M A. Developmentally regulated transcription of mammalian telomeres by DNA-dependent RNA polymerase I [J]. Nature Cell Biology, 2008, 10(2): 228-36.   
+[11] Chu H P, Cifuentes-rojas C, Kesner B, et al. TERRA RNA Antagonizes ATRX and Protects Telomeres [J]. Cell, 2017, 170(1): 86.   
+[12] Djardin J, Kingston R E. Purification of proteins associated with specific genomic Loci [J]. Cell, 2009,136(1): 175-86.   
+[13] Azzalin C M, Lingner J. Telomeres: the silence is broken [J]. Cell Cycle,2008,7(9): 1161-5. [14] Zhang L F, Ogawa Y, Ahn JY, et al. Telomeric RNAs mark sex chromosomes in stem cells [J]. Genetics,2009,182(3): 685.   
+[15] Le P N, Maranon D G, Altina N H, et al. TERRA, hnRNP A1,and DNA-PKcs Interactions at Human Telomeres [J]. Front Oncol, 2013, 3:91.   
+[16] Feuerhahn S, Igleslas N, Panza A,et al. TERRA biogenesis, turnover and implications for function [J]. Febs Letters,2010, 584(17): 3812.   
+[17] Rippe K, Luke B. TERRA and the state of the telomere [J]. Nature Structural & Molecular Biology,2015,22(11): 853.   
+[18] Arora R,Lee Y, Wischnewski H, et al. RNaseHl regulates TERRA-telomeric DNA hybrids and telomere maintenance in ALT tumour cells [J]. Nature Communications, 2014, 5:5220. [19] Gomezescobar N, Almobadel N, Alzahrani O, et al. Translin and Trax diferentially regulate telomere-associated transcript homeostasis [J]. Oncotarget, 2016, 7(23): 33809.   
+[20] Chawla R, Azzalin C M. The telomeric transcriptome and SMG proteins at the crosroads [J]. Cytogenetic & Genome Research, 2008,122(3-4): 194-201.   
+[21] Tutton S, Azzam G A, Stong N, et al. Subtelomeric p53 binding prevents accumulation of DNA damage at human telomeres [J]. Embo Journal, 2016, 35(2): 193-207.   
+[22] Gonzalezvasconcellos I, Schneider R,Anastasov N,et al. The Rbl tumour suppressor gene modifies telomeric chromatin architecture by regulating TERRA expression [J]. Scientific Reports, 2017, 7:42056.   
+[23] Beishline K, Vladimirova O, Tutton S,et al. CTCF driven TERRA transcription facilitates completion of telomere DNA replication [J]. Nature Communications, 2017, 8(1):   
+[24] Koskas S,Decotignies A，Dufour S,et al. Heat shock factor 1 promotes TERRA transcription and telomere protection upon heat stress [J]. Nucleic Acids Research, 20l7, 45(11): 6321-33.   
+[25] Diman A, Boros J,Poulain F,et al. Nuclear respiratory factor 1 and endurance exercise promote human telomere transcription [J]. Science Advances, 2016, 2(7): e1600031.   
+[26] Mazzolini R, Gonzlez N, Garciagarijo A, et al. Snaill transcription factor controls telomere transcription and integrity [J]. Nucleic Acids Research,2017, 46(1).   
+[27] Zheng Q,Xu J,Lin Z,et al. Inflammatory factor receptor Toll-like receptor 4 controls telomeres through heterochromatin protein 1 isoforms in liver cancer stem cell [J]. Journal of Cellular & Molecular Medicine,2018,22(6).   
+[28] Zeng S,Liu L, Sun Y, et al. Role of telomeric repeat-containing RNA in telomeric chromatin remodeling during the early expansion of human embryonic stem cells [J]. Faseb Journal, 2017, fj.201600939RR.   
+[29] Rodrigues J, Lydall D. Pafl and $\mathrm { C t r 9 }$ ，core components of the PAF1 complex, maintain low levels of telomeric repeat containing RNA [J]. Nucleic Acids Research,2017, 46(2): 621-34. [30] Wang C， Shen F, Zhu Y, et al. Telomeric repeat-containing RNA (TERRA） related to polycystic ovary syndrome (PCOS)[J]. Clinical Endocrinology, 2016, 86(4):   
+[31] Feretzaki M, Lingner J. A practical qPCR approach to detect TERRA, the elusive telomeric repeat-containing RNA[J]. Methods, 2016, 114.   
+[32] Koo D H, Zhao H, Jiang J. Chromatin-associated transcripts of tandemly repetitive DNA sequences revealed by RNA-FISH[J]. Chromosome Research, 2016,24(4): 467-80.   
+[33] Wang C, Shen F, Zhu Y, et al. Telomeric repeat - containing RNA(TERRA） related to polycystic ovary syndrome (PCOS)[J]. Clinical Endocrinology, 2016, 86(4).   
+[34] Laprade H, Lalonde M, GU RIT D, et al. Live-cell imaging of budding yeast telomerase RNA and TERRA[J]. Methods, 2016, 114.   
+[35] Avogaro L, Querido E, Dalachi M, et al. Live-cellimaging reveals the dynamics and function of single-telomere TERRA molecules in cancer cells [J]. RNA Biology, 2018,1-10.   
+[36] Teixeira M T,Arneric M, Sperisen P, et al. Telomere Length Homeostasis Is Achieved via a Switch between Telomerase- Extendible and -Nonextendible States [J]. Cell， 2004，117(3): 323-35.   
+[37] Bryan T M,Englezou A,Dallapozza L,et al. Evidence for an alternative mechanism for maintaining telomere length in human tumors and tumor-derived cellines [J]. Nature Medicine, 1997, 3(11): 1271-4. [38] Yeager T R, Neumann A A, ENGLEZOU A, et al. Telomerase-negative immortalized human cells contain a novel type of promyelocytic leukemia (PML） body [J]. Cancer Research,1999, 59(17): 4175-9.   
+[39] Redon S, Reichenbach P, Lingner J. The non-coding RNA TERRA is a natural ligand and direct inhibitor of human telomerase [J]. Nucleic Acids Research, 2010, 38(17): 5797.   
+[40] Redon S, Zemp I, Lingner J.A three-state model for the regulation of telomerase by TERRA and hnRNPA1 [J]. Nucleic Acids Research,2013,41(19): 9117.   
+[41] Farnung B O，Brun C M，Rajika A， et al. Telomerase Efficiently Elongates Highly Transcribing Telomeres in Human Cancer Cells [J]. Plos One,2012, 7(4): e35714.   
+[42] Maringele L, Lydall D. EXO1-dependent single-stranded DNA at telomeres activates subsets of DNA damage and spindle checkpoint pathways in budding yeast yku7ODelta mutants [J]. Genes Dev,2002,16(15): 1919-33.   
+[43] Pfeifer V,Lingner J. TERRA promotes telomere shortening through exonuclease 1-mediated resection of chromosome ends [J]. Plos Genetics, 2012, 8(6): e1002747.   
+[44] Pfeiffer V, Critin J, Grolimund L，et al. The THO complex component Thp2 counteracts telomeric R-loops and telomere shortening [J]. Embo Journal, 2013,32(21): 2861-71.   
+[45] Aguilera A, Garc A-Muse T. R Loops: From Transcription Byproducts to Threats to Genome Stability [J]. Molecular Cell,2012, 46(2): 115-24.   
+[46] Bermejo R, Lai M S, Foiani M. Preventing replication stress to maintain genome stability: resolving conflicts between replication and transcription [J]. Molecular Cell, 2012, 45(6): 710. [47] Rond N A G, Jimeno S,Aguilera A. The interface between transcription and mRNP export: from THO to THSC/TREX-2[J]. Biochimica Et Biophysica Acta, 2010,1799(8): 533-8.   
+[48] Yu T Y, Kao Y W,Lin J J. Telomeric transcripts stimulate telomere recombination to suppress senescence in cells lacking telomerase [J]. Proc Natl Acad Sci U S A, 2014,111(9): 3377-82. [49] Balk B, Dees M, Bender K,et al. The differential processing of telomeres in response to increased telomeric transcription and RNA-DNA hybrid accumulation [J]. RNA Biology, 2014, 11(2): 95-100.   
+[50] Graf M, Boneti D,Lockhart A,et al. Telomere Length Determines TERRA and R-Loop Regulation through the Cell Cycle [J]. Cell, 2017, 170(1): 72.   
+[51] Gallardo F, Laterreur N, Cusaneli E, et al. Live Cell Imaging of Telomerase RNA Dynamics Reveals Cel Cycle-Dependent Clustering of Telomerase at Elongating Telomeres [J]. Molecular Cell, 2011, 44(5): 819-27.   
+[52] Cusanelli E, Romero C A, Chartrand P. Telomeric noncoding RNA TERRA is induced by telomere shortening to nucleate telomerase molecules at short telomeres [J]. Molecular Cell, 2013, 51(6): 780-91.   
+[53] Moravec M, Wischnewski H, Bah A, et al. TERRA promotes telomerase-mediated telomere elongation in Schizosaccharomyces pombe [J]. Embo Reports, 2016,17(7): 999-1012.   
+[54] Volpe T A, Kidner C, Hall I M, et al. Regulation of Heterochromatic Silencing and Histone H3 Lysine-9 Methylation by RNAi [J]. Science,2002,297(5588): 1833-7. [55] Porro A,Feuerhahn S,Delafontaine J,et al. Functional characterization of the TERRA transcriptome at damaged telomeres [J]. Nature Communications, 2014, 5:5379.   
+[56] Episkopou H, Draskovic I,Beneden A V, et al. Alternative Lengthening of Telomeres is characterized by reduced compaction of telomeric chromatin [J]. Nucleic Acids Research, 2014, 42(7): 4391.   
+[57] Arnoult N,Van B A，Decottignies A. Telomere length regulates TERRA levels through increased trimethylation of telomeric H3K9 and HP1α[J]. Nature Structural & Molecular Biology, 2012, 19(9): 948-56.   
+[58] Goldberg A D, Banaszynski L A,NOH K M, et al. Distinct factors control histone variant H3.3 localization at specific genomic regions [J]. Cel, 2010,140(5): 678-91.   
+[59] Muramatsu D, Singh P B, Kimura H, et al. Pericentric heterochromatin generated by HP1 protein interaction-defective histone methyltransferase Suv39hl [J]. Journal of Biological Chemistry,2013,288(35): 25285.   
+[60] Porro, Antonio,Feuerhahn, et al. TERRA-Reinforced Association of LSDl with MRE11 Promotes Processing of Uncapped Telomeres [J]. Cell Reports, 2014, 6(4): 765-76.   
+[61] Montero J J,López d S I， Grana O,et al. Telomeric RNAs are essential to maintain telomeres[J]. Nature Communications,2016, 7:12534.   
+[62] Verdun R E，Karlseder J. The DNA damage machinery and homologous recombination pathway act consecutively to protect human telomeres [J]. Cell, 2006,127(4): 709-20.   
+[63] Denchi E L, De L T. Protection of telomeres through independent control of ATM and ATR by TRF2 and POT1 [J]. Nature,2007, 448(7157): 1068-71.   
+[64] Lopez d S I, Stagno D A M, Blasco M A. TERRA transcripts are bound by a complex array of RNA-binding proteins [J]. Nature Communications, 2010,1(3): 33.   
+[65] Litman F R, Centore R C, O'Sulivan R J, et al. TERRA and hnRNPA1 Orchestrate an RPA-to-POT1 Switch on Telomeric Single-Stranded DNA[J]. Nature,2011,471(7339): 532-6. [66] Chu H P, Froberg JE, Kesner B,et al. PAR-TERRA directs homologous sex chromosome pairing [J]. Nature Structural & Molecular Biology,2017, 24(8):   
+[67] Marion R M, Strati K, LI H, et al. Telomeres acquire embryonic stem cell characteristics in induced pluripotent stem cells [J]. Cel Stem Cell, 2009, 4(2): 141-54.   
+[68] Sagie S, Ellran E,Katzir H, et al. Induced pluripotent stem cells as a model for telomeric abnormalities in ICF type I syndrome [J]. Human Molecular Genetics,2014, 23(14): 3629. [69] Reigviader R, Vilacejudo M, Viteli V, et al. Telomeric repeat-containing RNA (TERRA) and telomerase are components of telomeres during mammalian gametogenesis [J]. Biology of Reproduction, 2014, 90(5): 103.   
+[70] Wang F H, Navarro P A, Robinson L G, et al. Telomeric repeat-containing RNA (TERRA) is activated during early mouse development， from 2-cell to blastocyst stages， in a cell cycle-dependent manner [J]. Fertility & Sterility,2017,108(3): e51.   
+[71] Misino S, Bonetti D,Luke-Glaser S, et al. Increased TERRA levels and RNase H sensitivity are conserved hallmarks of post-senescent survivors in budding yeast [J]. Differentiation,2018, 100:37.   
+[72] Yuan J, Liu Y, Wang J,et al. Long-term persistent organic polutants exposure induced telomere dysfunction and senescence-associated secretary phenotype [J]. Journals of Gerontology, 2018.   
+[73] Sagie S, Toubiana S, Hartono S R, et al. Telomeres in ICF syndrome cells are vulnerable to DNA damage due to elevated DNA:RNA hybrids [J]. Nature Communications, 2017, 8:14015. [74] Gao Y, Zhang J,Liu Y, et al. Regulation of TERRA on telomeric and mitochondrial functions in IPF pathogenesis [J]. Bmc Pulmonary Medicine,2017,17(1): 163.   
+[75] Deng Z, Kim E T, Vladimirova O, et al. HSV-1 Remodels Host Telomeres To Facilitate Viral Replication [J]. Cell Reports, 2014, 9(6): 2263-78.   
+[76] Wang Z, Deng Z, Dahmane N, et al. Telomeric repeat-containing RNA (TERRA) constitutes a nucleoprotein component of extracellular inflammatory exosomes [J]. Proceedings of the National Academy of Sciences of the United States of America, 2015,112(46): E6293.   
+[77] Wang Z, Lieberman P M. The crosstalk of telomere dysfunction and inflammation through cell-free TERRA containing exosomes [J]. Rna Biology, 2016, 13(8): 690-5.   
+[78] Theresa K,Doris M,Marlene H,et al.Telomere Transcripts Target Telomerase in Human Cancer Cells [J]. Genes, 2016, 7(8): 46.   
+[79] Viteli V, Falvo P, S G N, et al. Telomeric Repeat-Containing RNAs (TERRA) Decrease in Squamous Cell Carcinoma of the Head and Neck Is Associated with Worsened Clinical Outcome [J]. International Journal of Molecular Sciences, 2018,19(1): 274.   
+[80] Zhang Y， Zeng D，Cao J，et al. Interaction of Quindoline derivative with telomeric repeat-containing RNA induces telomeric DNA-damage response in cancer cells through inhibition of telomeric repeat factor 2 [J]. Biochimica et Biophysica Acta (BBA） - General Subjects,2017, 1861(12): 3246-56.   
+[81] Naderlinger E，Holzmann K. Epigenetic Regulation of Telomere Maintenance for Therapeutic Interventions in Gliomas [J].Genes,2017,8(5):

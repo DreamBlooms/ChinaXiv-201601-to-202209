@@ -1,0 +1,171 @@
+# 覆盖逆温强度对干旱区超厚对流边界层影响的大涡模拟
+
+王蓉1²，黄倩²，张强(1.甘肃省人工影响天气办公室,甘肃 兰州 730020；2.兰州大学大气科学学院,半干旱气候变化教育部重点实验室,甘肃 兰州 730000；3.甘肃省气象局,中国气象局兰州干旱气象研究所,甘肃省干旱气候变化与减灾重点实验室,甘肃 兰州 730020)
+
+摘要：基于干旱沙漠地区敦煌野外观测资料和大涡模式，模拟研究了覆盖逆温强度对干旱区超厚对流边界层发展及边界层顶夹卷作用的影响。结果表明： $\textcircled{1}$ 覆盖逆温层被打破之前，覆盖逆温强度越弱，混合层越不稳定，越有利于湍流垂直向上发展，对流边界层、混合层和夹卷层都较厚，夹卷速度较大，边界层顶夹卷作用较强。当覆盖逆温层被充分发展的边界层对流完全贯穿以后，原本被限制在厚度小但能量大的强覆盖逆温层下的边界层对流，湍流混合更剧烈，边界层顶夹卷作用更强，更有利于混合层与覆盖逆温层之上的中性层结混合，形成厚度较大的超厚边界层。 $\textcircled{2}$ 覆盖逆温层被打破之前，驱动边界发展的湍流动能主要由热浮力提供；覆盖逆温层被打破以后，混合层中的切变产生项对边界层湍流动能贡献最大。
+
+关键词：大气边界层；覆盖逆温强度；超厚对流边界层；夹卷作用；大涡模拟
+
+大气边界层是受地面影响最直接、最强烈的那部分对流层[1。大气边界层不仅是气候系统热量、动量和物质交换与输送的关键环节[2]，还与一些重要的天气现象尤其是沙尘暴、暴雨等突发性灾害天气气候事件的形成和发展密切相关[3-5]。因此，对大气边界层特征及其形成机理的研究一直以来都备受关注，也是目前地球科学研究的重要方向之一[6]。
+
+大气边界层具有明显的日变化特征，一般情况白天太阳辐射加热地表，在垂直方向形成混合强烈的对流边界层（CBL)；到了夜间，因地面辐射冷却，则在近地面形成稳定边界层（SBL)，其上覆盖的是一层白天CBL残留的大气即残余层（RL)。大气边界层不仅随着时间变化，还会因经纬度和地表状态的不同呈现出空间变化特征[7]。近几十年来，众多学者对不同地区对流边界层进行了研究，发现不同地区对流边界层厚度、结构及其形成机制具有较大差异[8-10]。普遍认为，白天对流边界层的厚度一般为 $1 { \sim } 2 \mathrm { k m }$ ，也有研究表明[]，大气热力边界层受特殊气候背景的影响十分显著。新德里地区处在印度西南季风爆发前，其对流边
+
+收稿日期：2019-05-08；修回日期：2019-06-25
+
+界层能够发展到 $4 . 7 ~ \mathrm { k m }$ 的高度，而位于季风发生地的班加罗尔地区大气对流边界层却只能发展到 $0 . 9 \mathrm { k m }$ 左右。周明煜等[12]对高原复杂下垫面条件下大气边界层特征的研究结果显示，青藏高原在其特殊的大地形影响下，对流边界层相比于一般地区较厚，能够达到 $2 ~ \mathrm { k m }$ 。陈陟等[13]的研究认为，高原地区强烈的地表辐射加热、复杂下垫面形成的边界层斜压不稳定，以及边界层内的平流活动等都是影响高原对流边界层发展的重要因素。近年来在极端干旱的沙漠地区，观测到厚度超过 $4 \mathrm { k m }$ 的超厚对流边界层[14-16]，从而对以往研究的边界层有了新的认识。
+
+干旱区分布十分广泛，气候环境特殊，是全球气候变化响应的敏感区域。自21世纪初，在我国西北干旱地区的敦煌荒漠戈壁区发现夏季晴天出现高达 $4 \mathrm { k m }$ 以上的超厚对流大气边界层[9,15,17]，随后在新疆博斯腾湖流域戈壁[18]和非洲的撒哈拉沙漠[16,19.20]也发现了类似的超厚对流边界层现象。可见，在干旱区夏季晴天出现厚度超过 $4 \mathrm { k m }$ 的超厚对流边界层现象具有一定普遍性。近年来，有不少学者对干旱区超厚对流边界层形成机制进行了研究。张强等[2]从热力机制的角度解释了极端干旱的敦煌地区深厚边界层的形成机制，认为出现这种超厚大气热力边界层的根本原因是地表白天强烈加热和夜间快速冷却。赵建华等[21利用热力数值模型定量分析了感热和夹卷对CBL发展的贡献，表明在夏季浮力夹卷对CBL发展的作用更突出。也有一些研究[2-3]指出，干旱的沙漠地区，在一定的背景条件下，由前一天 CBL转化而来的RL 能够一直维持到次日早晨，从而为新的CBL发展提供较好的热力基础，白天CBL 突破 SBL 进入RL之后也就更容易混合形成深厚的边界层。Zhang 等[24]提出，干旱沙漠地区夏季出现超厚对流边界层是其强烈的地表加热、显著的风切变、深厚的残余层背景等因素综合作用的结果。
+
+尽管，以往的研究从地表热通量、风切变、边界层顶夹卷作用及深厚的残余层背景等方面分析了其对超厚对流边界层形成及发展的影响[25-26],然而覆盖逆温强度也是一个不可忽视的重要因素[27]。观测表明，夜间通常会形成贴地逆温层，在其上部还存在很强的逆温顶盖，这必然会影响日出后对流边界层的发展[28]。万静等[29]从夹卷速度参数化的角度探讨了边界层发展受覆盖逆温强度的影响，认为当初始覆盖逆温强度增强时，会使夹卷层结构参数显著增大，而边界层高度的增幅却明显减小。赵建华等[30]在对敦煌干旱区边界层高度、逆温强度及其频率密度的分析中指出，逆温强度越弱，边界层越容易垂直向上发展；相反，逆温强度越强，覆盖逆温层对湍流活动产生负浮力作用，反而会抑制边界层的垂直发展。赵采玲等[31利用WRF模式对巴丹吉林地区深厚边界层的模拟研究表明，近中性的残余层是除感热通量以外，使得巴丹吉林地区出现深厚对流边界层的关键因素之一，而CBL上方覆盖大气的层结状况往往会影响CBL顶附近的夹卷速度，从而对CBL发展高度造成影响。显然，覆盖逆温强度能在一定程度上反映出边界层发展的潜力，但日出后随着边界层对流的发展，覆盖逆温层会逐渐被打破，那么，覆盖逆温层被打破前后，覆盖逆温强度对超厚对流边界层的发展，以及边界层顶夹卷作用会产生怎样的影响，这些都有待进一步的研究。
+
+我国西北干旱区是对全球气候变化响应最敏感的地区之一[32]，不仅白天下垫面受太阳辐射加热很强，且受西风带和夏季风边缘区的共同影响[33]，其大气边界层形成和发展具有一定特殊性，极易形成超厚边界层[7。鉴于此，本文以敦煌荒漠地区野外试验夏季典型晴天资料为基础，结合大涡模式，模拟不同强度的覆盖逆温（需要强调的是，文中的覆盖逆温指的是日落后由于地表辐射冷却形成的辐射逆温，而不是混合层顶的逆温顶盖）对干旱区超厚边界层热力、动力结构的作用，以及覆盖逆温被打破前后，不同覆盖逆温强度对边界层顶夹卷作用的影响，从而揭示其对混合层与残留层之间贯通的影响机理，以期为今后更加深入地认识和理解干旱区超厚大气热力边界层物理过程及其影响机制提供一定的理论参考。
+
+# 1模式及方法介绍
+
+本研究采用英国气象局的大涡模式Large Eddy Model（LEM）Version $2 . 4 ^ { [ 3 4 ] }$ ，该模式是一个非静力平衡的三维高分辨率数值模式，可以用于模拟范围较广的湍流尺度及云尺度等问题[35]。模式利用滤波方法通过对 Navier-Stokes 方程组求网格体积平均，直接计算大于网格尺度的湍流涡旋运动，而对小于网格尺度的湍流通量和能量采用一阶湍流闭合的次网格模式进行模拟[36]，关于模式计算方程组的详细描述见文献[25]。
+
+利用"西北干旱区陆-气相互作用野外观测实验”（具体实验介绍见张强等[9]）加密观测期间2000年6月3日（典型晴天）12:00（该时次覆盖逆温的形态比较明显）敦煌站的位温、水汽混合比及风速探空廓线作为模式的初始场。需要注意的是，在模式初始化之前，首先对探空资料进行预处理，即将实测的气压 $P$ （hPa）、温度 $T \ ( { ^ \circ } \mathrm { C } )$ 和相对湿度 $f \left( \% \right)$ 分别转化为高度 $h ( \mathbf { m } )$ 、位温 $\theta$ （K）和比湿 $q \ ( \mathbf { g } { \cdot } \mathbf { k } \mathbf { g } ^ { - 1 } )$ 。另外，利用敦煌双墩子戈壁站实测的随时间变化的地表热通量驱动模式发展。模拟时，水平区域设置为 $1 0 ~ \mathrm { k m } \times 1 0 ~ \mathrm { k m }$ ，垂直高度取为 $6 \mathrm { k m }$ ，水平 $X$ 和 $Y$ 方向均采用 $2 0 0 \mathrm { ~ m ~ }$ 的等距网格(共52个格点)，垂直方向采用张弛网格，其中近地面取较高的分辨率约为 $1 . 4 \mathrm { m }$ ，在 $3 ~ \mathrm { k m }$ 以上采用较粗的垂直分辨率约为 $1 5 8 \mathrm { ~ m ~ }$ ，垂直分层共85层。模式采用周期侧边界条件和刚性上下边界条件，为了减少由模式上边界反射引起的重力波影响，在约为模式2/3 高度（即 $4 ~ \mathrm { k m }$ 左右）以上加入了牛顿阻尼吸收层。模式初始化所用地表地转风是由NCEP/NACR $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ 再分析资料计算得到，地转风切变是用地表地转风资料和小球探空资料 $1 \mathrm { k m }$ 高度的风速求得。模拟过程中采用有限差分的方法，时长约 $^ { 5 \mathrm { ~ h ~ } }$ ，模式平衡时间约为 $^ \textrm { \scriptsize 1 h }$ ，每隔1800s输出一次数据。根据定义，逆温强度 ${ \mathrm { = d } } T / { \mathrm { d } } z$ ，随着高度的增大，位温的增加幅度减小，覆盖逆温强度减弱；反之，覆盖逆温增强。根据研究的需要，分别在以实测资料为背景的标准试验E0（ $4 0 0 { \sim } 8 0 0 \mathrm { m }$ 的$\mathrm { d } T / \mathrm { d } z = 0 . 0 1 2 \mathrm { k } \cdot \mathrm { m } ^ { - 1 } .$ )基础上，设计了初始覆盖逆温减小 $0 . 0 0 2 \mathrm { k } \cdot \mathbf { m } ^ { - 1 } ( 4 0 0 { \sim } 8 0 0 \mathrm { m }$ 的 $\mathrm { d } T / \mathrm { d } z { = } 0 . 0 1$ $\mathbf { k } \cdot \mathbf { m } ^ { - 1 }$ ）和增大 $0 . 0 0 2 \mathbf { k } \cdot \mathbf { m } ^ { - 1 }$ （ $4 0 0 { \sim } 8 0 0 \mathrm { m }$ 的 $\mathrm { d } T / \mathrm { d } z = 0 . 0 1 4 \mathrm { k } \cdot \mathrm { m } ^ { - 1 } .$ ）的试验，如表1所示：
+
+表1各敏感性试验中初始覆盖逆温强度大小  
+Tab.1 The intensity of capping inversion in each sensitive numerical test   
+
+<html><body><table><tr><td></td><td>E0</td><td>E1</td><td>E2</td></tr><tr><td>dT/dz (k·m-1)</td><td>0.012</td><td>0.01</td><td>0.014</td></tr></table></body></html>
+
+# 2模拟结果与分析
+
+# 2.1覆盖逆温强度对边界层对流发展的影响
+
+![](images/7567d8e32b463de37dee2beff9ceb056e435383e12220135c1674632b3729ca4.jpg)
+
+注： 实线、点线和虚线分别为试验E0、E1和E2的结果
+
+从图1可以看出，13:00（北京时，下同）逆温减弱的试验E1模拟的CBL厚度约为0.65km，CBL的平均位温约为312.6K；而逆温增强的试验E2模拟的CBL厚度相对较小，仅有$0 . 5 5 \mathrm { k m }$ 左右，且CBL相对较暖，其平均位温约为 $3 1 3 \mathrm { K }$ 。随着时间的发展，地表持续加热大气，边界层湍流逐渐向上发展，CBL厚度增大，到了14:00虽然覆盖逆温层厚度有所减小，但覆盖逆温层依然存在。15:00覆盖逆温层已经基本消失，并与充分发展的对流边界层完全混合，另外，还注意到15:00 以后试验E2中的CBL厚度增长较快，已经超过了 $4 ~ \mathrm { k m }$ 的高度。上述分析表明，覆盖逆温层被边界层对流贯穿之前，覆盖逆温强度越弱，CBL厚度越厚，平均位温相对偏低；当覆盖逆温被充分发展的边界层对流贯穿以后，覆盖逆温强度越强，CBL 发展的高度相对越高。由于覆盖逆温越强，CBL之上的气层越稳定，对流边界层越不容易向上发展，边界层对流被限制在覆盖逆温层之下，相同的地表热通量用于加热厚度较小的CBL时加热效率更高，使得对流边界层相对较暖；而当覆盖逆温较强的边界层对流发展到足以冲破覆盖逆温层后，原来被限制在厚度较小但能量较大的对流边界层，将更加有效地使混合层与覆盖逆温层之上的中性层结混合形成一层厚度较大的CBL，也就是超厚边界层。
+
+![](images/19af857e46a1a80b550d6df4196a5d3013e2bb698b94d7f47fb5e572c2e8c457.jpg)  
+图1各试验模拟的不同时次位温（K）廓线  
+Fig.1 Simulated profiles of potential temperature (K) from each test at different times   
+图2各试验模拟不同时间的理查森数廓线  
+Fig.2 Profiles of the Richardson number from each test at different times
+
+大气层结稳定度是用来判断湍流能否发展的一个重要参数，由于理查森数同时包含了影响稳定度的热力和动力因子，通常被作为层结稳定度判据来分析大气湍流运动的状态。根据$R i$ 数的物理意义， $R i$ 可以表示为：
+
+$$
+R i = \frac { \displaystyle { \frac { g } { \overline { { \theta } } } \frac { \partial \theta } { \partial z } } } { \displaystyle { \left( \frac { \partial u } { \partial z } \right) ^ { 2 } + \left( \frac { \partial \nu } { \partial z } \right) ^ { 2 } } }
+$$
+
+其中， $g$ 为重力加速度 $( 9 . 8 \mathrm { m } \cdot \mathrm { s } ^ { - 2 } ) $ ， $\overline { { \theta } }$ 为两个高度上的平均位温（单位：K)；∂0/δz、u/Oz和 $\hat { o } \nu / \hat { o } z$ 分别为两个高度之间的位温梯度、纬向和经向风速梯度。一般地，当 $R i < 0 . 2 5$ （大气层结不稳定条件临界值）时，有利于湍流发展；当 $R i > 0 . 2 5$ 时，湍流发展受到抑制[18]。图2给出了不同覆盖逆温强度的各试验模拟的不同时间的理查森数（ $R i$ ）随高度的变化。从图2可以看出，总体上 $R i$ 数的最小值在近地面，随着高度的增加逐渐增大，在夹卷层达到最大后又随高度增加而减小，是由于贴近地面的气层温度梯度和风速梯度都较大，使得 $R i$ 数较小；随着高度的增加温度梯度减小， $R i$ 数逐渐增大；到了边界层顶附近，由于覆盖逆温层的存在，位温梯度急剧增大， $R i$ 数增大较快，气层较稳定。通过对比图2中不同覆盖逆温强度的各试验模拟结果可以看出，13:00（图2a）覆盖层被打破之前，覆盖逆温强度减弱的试验E1中， $R i$ 数由小于0.25变为大于0.25 的高度比逆温强度增强的试验E2模拟的要高，也说明初始覆盖逆温层被打破之前，覆盖逆温强度越弱，越有利于边界层湍流垂直向上发展，且发展的高度较高，混合层（层结由不稳定变为稳定的高度）较厚。到了14:00（图2b)，虽然各个试验模拟的湍流发展的高度逐渐增大，但可以看出逆温增强的试验E2模拟的混合层厚度略厚。另外，此时覆盖逆温层的厚度明显变薄，从 $R i$ 数大于0.25的气层厚度可以看出。到了15:00（图2c)，覆盖逆温层已经基本消失，混合层已经完全吞噬了覆盖逆温层之上的中性层结并发展成厚度较大的对流边界层，此时 $R i$ 数垂直分布受覆盖逆温强度的影响较小，表现为 $0 . 2 \mathrm { k m }$ 以下层结较不稳定， $0 . 2 \mathrm { k m }$ 以上基本为中性层结，说明此时湍流得到了充分的发展。
+
+![](images/587aaf6f49ec2e5ec2f35d74fce8b21c2a91cd82557ec9bc4073d306f373b09e.jpg)  
+图3各试验模拟不同时间垂直速度的垂直剖面  
+Fig.3 Vertical profile of each test simulated vertical velocity atdifferent times
+
+为了更清晰地了解改变覆盖逆温强度对边界层对流时空结构特征的影响，采用各试验模拟不同时间垂直速度垂直剖面（图3)。13:00覆盖逆温层被打破之前，覆盖逆温强度较弱的试验E1模拟的热泡最大上冲高度较高，约为 $1 . 1 \mathrm { k m }$ （如图3a中 $Y { = } { - } 3 . 2 \mathrm { k m }$ 处的热泡)，而标准试验E0 和初始覆盖逆温增强的试验E2中热泡的最大上冲高度仅为 $0 . 9 \mathrm { k m }$ （如图3b中$Y { = } { \mathrm { - } } 1 . 7 \mathrm { k m }$ 处的热泡）和 $0 . 7 \mathrm { k m }$ （如图3c中 $Y { = } { \mathrm { - } } 4 . 0 \mathrm { k m }$ 处的热泡）左右，并且试验E1中的边界层对流的强度（以气流的最大上升速度表示）比试验E2中的强。另外，从13:00—15:00随着时间的发展，地面热量逐渐向上输送，边界层对流运动不断增强，热对流泡上升的高度也增大。到了15:00，由于覆盖逆温层已经彻底被充分发展的边界层对流贯通，此时对流边界层发展较通畅，厚度较大，初始覆盖逆温较强的试验E2（图3i）中边界层热对流上冲的高度更高，能够达到约 $4 . 9 \mathrm { k m }$ 的高度。
+
+# 2.2覆盖逆温强度对夹卷作用的影响
+
+边界层顶的夹卷对对流边界层的发展是极为重要的，有必要进一步分析不同强度的覆盖逆温对边界层顶夹卷作用的影响。从图4a、4d 和4g可以看出，热通量在近地面最大，随着高度的增加线性递减，热通量减小为负的区域即为夹卷层，且在边界层顶附近达到负的最大值，而热通量由正值变为负值的高度就是混合层顶高度。对流边界层的厚度、混合层厚度和夹卷强度（用负的最大热通量值表示）受覆盖逆温强度的影响较显著，而夹卷层厚度受其影响较小。13:00覆盖逆温层被边界层对流贯穿之前（图4a)，逆温增强试验E2模拟的对流边界层的厚度仅有 $5 3 0 \mathrm { m }$ 左右，而逆温减弱的试验E1中对流边界层顶高度能达到近 $7 0 0 \mathrm { m }$ 。并且覆盖逆温强度越强，混合层的厚度越小，主要由于覆盖逆温强度增强，混合层湍流运动受到抑制，混合层发展的高度相对较低。随着边界层湍流不断发展，边界层顶夹卷作用增强，到了14:00 各试验模拟的对流边界层的厚度和混合层厚度都有所抬升（图4d)，尤其在覆盖逆温增强的试验E2中表现更明显。到了15:00 湍流发展较充分（图 ${ 4 \mathrm { g } }$ ，覆盖逆温层已经被完全打破，此时试验E2模拟的对流边界层厚度较大，与其边界层顶的夹卷作用更强有关。
+
+由于近地面地表热通量较大，使得热泡与其周围空气温度差异较明显，因而位温方差往往较大(4b,4e,4h)。随着高度的增加，湍流混合逐渐增强，温度差异减小，位温方差也减小，在边界层中部达到最小。再往上到混合层顶附近，由于夹卷作用，使得该层空气的温度梯度变化明显，因此，位温方差又逐渐增大，在夹卷层出现极大值之后又随高度减小。同时，从13:00—15:00，随着边界层对流不断发展，位温方差也逐渐增大。对比不同覆盖逆温强度的各试验模拟结果可以看出，13:00覆盖逆温层被打破之前（图4b)，覆盖逆温强度减弱，边界层顶的夹卷作用会增强，向下卷入的暖空气较多，使得其与相对较冷的上冲热泡之间的温度差异较大，因此，逆温减弱的试验E1中位温方差最大。到了15:00，覆盖逆温层被发展旺盛的对流边界层完全贯通，位温方差明显较大(图3h)，主要是此时逆温增强的试验中边界层顶的夹卷作用较强，向下卷入的暖空气较多，与周围相对较冷的空气之间温度差异更大有关。
+
+![](images/7be354cc3cf5b20cbdbcbc792b696bcfa7c0385ed54d35fa3e2f49b1b0fcd1d2.jpg)  
+注：（c）、（f）和（i）中的实线、点线和虚线分别代表u方差、v方差和w方差  
+图4各试验模拟不同时间动力学热通量、湍流统计量位温方差及水平和垂直速度方差廓线  
+Fig.4Profiles of the kinematic heat flux，potential temperature variances，horizontal and vertical variance from each test at different times
+
+由于近地面地表摩擦作用使得近地面风切变较大，因此水平速度方差也较大(4c,4f,4i)。随着高度的增加，水平速度方差不断减小，到边界层中部随高度变化很小。当到达边界层顶附近时，由于热泡的垂直上升运动，上部覆盖逆温层的限制转化为水平运动，使得该层水平速度方差增大。对于垂直速度方差而言，其先随着高度的增加而增大，到边界层中层达到最大后，又随着高度的增加而减小。另外，通过对比覆盖逆温层被打破前后不同覆盖逆温强度的试验结果发现，13:00覆盖逆温减弱的试验E1中水平和垂直速度方差都较大（图4c)，其原因是由于覆盖逆温层被打破之前，覆盖逆温强度减弱，有利于混合层中热泡的上升运动，边界层对流的强度也较强，因此，不仅垂直速度方差较大，且转化形成的水平速度分量也较多。随着时间的发展，覆盖逆温层逐渐被发展旺盛的边界层对流所贯穿，逆温增强的试验中边界层湍流混合更强，热泡的上升速度更大，因此，图4i中试验E2模拟的水平和垂直速度
+
+方差都较大。
+
+![](images/a885035978dcc4e9903b1170257d9185a4b497b297fd15711ad2408e3e1a488f.jpg)  
+图5各试验模拟的不同时间的夹卷速度廓线  
+Fig.5Profiles of clamping speed for each test at different times
+
+从图5来看，夹卷速度从边界层中部向上随着高度的增加而增大，在边界层顶附近达到最大值后又随高度的增大而减小，表明边界层顶附近的夹卷作用最为强烈。另外，对比不同试验的模拟结果可以看出，13:00覆盖逆温层被打破之前（图5a)，逆温强度减弱试验 E1模拟的夹卷层的夹卷速度较大，说明覆盖逆温强度越弱，边界层顶附近的夹卷作用越强，即单位时间内会将更多的上层暖空气夹卷到混合层中，越有利于边界层向上发展，混合层也越厚。随着时间的发展，覆盖逆温层逐渐被充分发展的边界层对流所贯穿，各试验模拟的夹卷层夹卷速度逐渐增大，其中逆温增强的试验 E2 中夹卷速度增大最快。到了15:00 覆盖逆温增强的试验E2模拟的夹卷层夹卷速度较大（图5c)，其最大值能达到 ${ 9 \mathrm { m } \cdot \mathrm { s ^ { - 1 } } }$ 左右，说明此时逆温强度较强的试验中边界层顶附近的夹卷作用更强，混合层与夹卷层的湍流混合更加剧烈，对于混合层与其上部中性层结之间的混合贯通十分有利，更容易形成较深厚的对流边界层。通过比较不同覆盖逆温强度的各试验中夹卷速度的垂直分布特征发现，在覆盖逆温层被打破前后，不同强度的覆盖逆温对夹卷层夹卷速度的影响不同，且影响十分显著，因此，在研究夹卷速度的参数化问题时，正确考虑覆盖逆温强度的作用具有重要的意义。
+
+通过对不同覆盖逆温强度的各试验模拟结果分析发现，覆盖逆温强度对边界层发展及边界层顶夹卷作用有着十分重要的影响，因此，有必要进一步研究覆盖逆温强度对决定边界层发展的湍流动能收支方程中各项的作用。一般在水平、略去下沉的条件下，湍流动能收支方程可以表示为
+
+$$
+\frac { \hat { c } e } { \hat { \partial } t } = \frac { g } { \overline { { \theta _ { \nu } } } } \overline { { w ^ { ' } \theta _ { \nu } ^ { ' } } } - \left[ \overline { { u ^ { ' } w ^ { ' } } } \frac { \hat { c } U } { \hat { \partial } z } + \overline { { \nu ^ { ' } w ^ { ' } } } \frac { \hat { c } V } { \hat { \partial } z } \right] - \varepsilon - \frac { \hat { \partial } \overline { { w ^ { ' } e } } } { \hat { \partial } z } - \frac { 1 } { \rho _ { 0 } } \frac { \hat { \partial } \overline { { w ^ { ' } P ^ { ' } } } } { \hat { \rho } z }
+$$
+
+其中， $e$ 是湍流动能，可以用（3）式表示[1
+
+$$
+e = \frac { 1 } { 2 } ( \overline { { u ^ { ' 2 } } } + \overline { { \nu ^ { ' 2 } } } + \overline { { w ^ { ' 2 } } } )
+$$
+
+式中， $u$ 、 $\nu$ 、 $w ^ { \dagger }$ 是脉动速度分量， $U$ 、 $V$ 是平均风速的水平分量； $P$ 是气压； $\overline { { \rho _ { \mathrm { 0 } } } }$ 是标准密度； $\overline { { \theta _ { \nu } } }$ 是背景虚位温。公式（2）中等号左边为湍流动能储存项，等号右边依次为浮力项（B）、湍流动能的切变产生项（S）、耗散项（D）、湍流输送项（T）和气压传输项（P)，其中，前两项是湍流动能的源，第3项是汇，最后两项即不产生湍流动能也不消耗湍流动能，只是对湍流动能的垂直分布进行再分配。
+
+从图6可以看出，在近地面由于地表热通量较大，使得浮力对湍流动能产生正的贡献，因此，浮力项在近地面有正的最大值。随着高度的增加地表热通量的作用逐渐减弱，浮力项呈线性减小，到夹卷层浮力项变为负值，在此过程中浮力对湍流由做正功变为做负功的临界高度即为混合层顶高度。从切变产生项的垂直分布来看，在整个边界层内切变产生项对湍流动能的贡献都为正，在近地面由于地表摩擦作用使得风切变较大，切变产生项也往往较大；随着高度的增加，垂直方向的湍流充分混合，切变产生项在边界层中部较小且基本不随高度变化；到边界层顶附近又随高度增加，在夹卷层出现最大值。对于耗散项而言，由于湍流动能的耗散主要是小尺度涡旋的作用，湍流的耗散主要发生在近地层，随着高度的增加对湍流动能的耗散变小。另外，通过对比不同覆盖逆温强度的各试验模拟结果可以看出，13:00 覆盖逆温层被打破之前，覆盖逆温强度对湍流动能收支方程中各项的影响不大，而对混合层厚度的影响较明显，逆温减弱的试验E1（图6a）中混合层厚度比逆温增强的试验E2（图6c)要厚近 $1 0 0 \mathrm { m }$ 。此外还可以看出，覆盖逆温层被打破之前，混合层中的浮力项比切变产生项大很多，也说明此时驱动边界发展的湍流动能主要由热浮力提供。随着时间的发展，湍流动能收支方程中各项也逐渐增大，其中切变产生项增大最明显。到了15:00 覆盖逆温层被充分发展的边界层对流完全贯穿以后，混合层中的切变产生项对边界层湍流动能起主要贡献。另外，由于覆盖逆温增强的试验E2中湍流的垂直混合更强，边界层对流的强度更大，因此，图 6i中的切变产生项比图6g中要大。
+
+![](images/2a80e1f062feeef974b29ed29618c99216161d19b566b26834584e20a7414a32.jpg)  
+注：B表示浮力项；S表示切变产生项；D表示耗散项； $\mathrm { T } { + } \mathrm { P }$ 表示湍流输送项T和气压传输项P之和图6各试验模拟的不同时间的湍流动能收支方程中各项随高度的变化
+
+Fig.6 Vertical distribution of the various terms in the TKE budget for each testat different times
+
+# 4结论与讨论
+
+利用“西北干旱区陆-气相互作用野外观测实验”加密观测期间探空资料，结合大涡模式，模拟研究了覆盖逆温强度对干旱区超厚对流边界层形成及发展的影响，并通过进一步分析覆盖逆温层被打破前后，改变覆盖逆温强度对边界层顶夹卷作用的影响，从动力夹卷的角度探讨了混合层与残余层之间混合贯通的作用机理。结果表明：
+
+（1）覆盖逆温层被打破之前，覆盖逆温强度越强，CBL之上的气层越稳定，CBL越不容易向上发展，热泡上冲的高度较低且强度较弱，CBL和混合层厚度都较低；此时相同的地表热通量用于加热厚度较低的CBL时，加热效率更高，对流边界层相对较暖。当覆盖逆温层被发展旺盛的边界层对流贯穿以后，覆盖逆温强度增强时，原本被限制在厚度较小但能量较大的边界层对流，将更加有效地使混合层与覆盖逆温层之上的中性层结混合，更容易形成较为深厚的对流边界层。
+
+（2）覆盖逆温层被打破之前，减弱覆盖逆温强度，边界层顶夹卷作用增强，夹卷速度较大，垂直方向的湍流混合更强烈，CBL、混合层和夹卷层厚度也都相对较大；并且增强的夹卷作用将上层更多的暖空气向下卷入，造成夹卷层位温方差增大。另外，减弱覆盖逆温强度，边界层对流强度增强，热泡的上升运动更加剧烈，垂直速度方差越大，由此转化而来的水平速度分量也越多，因此水平速度方差也较大。当覆盖逆温层被充分发展的边界层对流完全贯穿后，覆盖逆温强度较强时，边界层顶夹卷作用较强，夹卷速度较大，边界层对流发展更旺盛，此时位温方差、水平及垂直速度方差也都相对较大。
+
+（3）覆盖逆温层被打破之前，改变覆盖逆温强度对湍流动能收支方程中各项的影响不大，而对混合层厚度的影响较明显，此时驱动边界发展的湍流动能主要由热浮力提供。当覆盖逆温层逐渐被发展旺盛的边界层对流贯穿以后，湍流动能收支方程中各项明显增大，其中切变产生项增大最显著，此时混合层中的切变产生项对边界层湍流动能起主要作用。另外，由于覆盖逆温增强时，边界层湍流的垂直混合更强，使得切变产生项也相对较大。
+
+需要说明的是，为了验证以上模拟结果，除了表1所列试验外，笔者以标准试验E0为基础分别将覆盖逆温强度 $\mathrm { d } T / \mathrm { d } z$ 改变 $\pm 0 . 0 0 1 \ \mathrm { K \cdot m ^ { - 1 } }$ （初始化位温廓线 $4 0 0 { \sim } 8 0 0 \mathrm { m }$ 变化 $\pm 0 . 5$ K）、 $\pm 0 . 0 0 4 \mathrm { K } \cdot \mathrm { m } ^ { - 1 }$ （初始化位温廓线 $4 0 0 { \sim } 8 0 0 \mathrm { m }$ 变化 $\pm 1 . 5 \mathrm { K }$ ）和 $\pm 0 . 0 0 5 \mathrm { K } \cdot \mathrm { m } ^ { - 1 }$ （初始化位温廓线 $4 0 0 { \sim } 8 0 0 \mathrm { m }$ 变化 $\pm 2 . 0 \kappa$ ）的三组试验。通过对比分析不同敏感性试验模拟结果发现，所得结论均与上述结论一致，唯一不同的是覆盖逆温强度越强，边界层对流贯穿覆盖逆温层所需的时间越长。
+
+本文利用高分辨率的大涡模式模拟研究了覆盖逆温层被打破前后，不同强度的覆盖逆温对干旱区超厚对流边界层发展的影响，但文中敏感性试验都是对较为理想环境条件的模拟，没有考虑复杂下垫面的影响。另外，该工作仅是对一次过程的敏感性试验，对模拟结果的分析还需要更多过程的敏感性试验进行补充。
+
+# 参考文献
+
+[1]Roland B S. An Introduction to Boundary Layer Meteorology[M]. Netherlands: Springer, Atmospheric Sciences Library,1988.   
+[2] 张强，赵映东，王胜,等．极端干旱荒漠区典型晴天大气热力边界层结构分析．地球科 学进展[J], 2007,22(11):1150-1159.[Zhang Qiang, Zhao Yingdong,Wang Sheng,et al. A study on atmospheric thermal boundary layer structure in extremely arid desert and gobi region on the clear day in summer[J]. Advances in Earth Science,2007,22(11): 1150- 1159.]   
+[3] 刘辉志，冯健武，王雷,等.大气边界层物理研究进展[J].大气科学，2013，37(2): 467-476.[Liu Huizhi, Feng Jianwu,Wang Lei,et al. Overview of recent studies on atmospheric boundary layer physics at LAPC[J]. Chinese Journal of Atmospheric Sciences, 2013, 37(2): 467-476.]   
+[4] 张强，王胜．论特强沙尘暴(黑风)的物理特征及其气候效应[J]．中国沙漠，2005, 25(5):675-681.[Zhang Qiang, Wang Sheng. On physical characteristics of heavy dust storm and its climatic effect[J]. Journal of Desert Research,2005,25(5) 675-681.]   
+[5] 张之贤，张强，陶际春．边界层对青藏高原东北边坡地区一次冰雹天气影响的数值诊 断分析[J].干旱区研究,2015,32(2):321-328.[Zhang Zhixian, Zhang Qiang,Tao Jichun. Diagnosti analysis of the effect of planet boundary layer on a hail vent in the northeastern edge of Qianghai-Tibetan Lateau [J].Arid Zone Research,2015,32(2):321-328.]   
+[6] 张强,王蓉,岳平．复杂条件陆-气相互作用研究领域有关科学问题探讨[J].气象学报, 2017, 75(1):39-56.[ Zhang Qiang, Wang Rong, Yue Ping,et al,2017.Several scientific issues about the land-atmosphere interaction under complicated conditions[J]. Acta Meteorologica Sinica,2017,75(1):39-56.]   
+[7]张强，王胜．西北干旱区夏季大气边界层结构及其陆面过程特征[J]．气象学报，2008, 66(4):599-608.[Zhang Qiang, Wang Sheng.2008 .A study on atmospheric boundary layer structure on a clear day in the arid region in northwest china[J]. Acta Meteorologica Sinica , 66(4):599-608.]   
+[8]胡非，洪钟祥，雷孝恩．大气边界层和大气环境研究进展[J].大气科学，2003,27(4): 712-728.[Hu Fei, Hong Zhongxiang, Li Xiaoen. Recent progress of atmospheric boundary layer physics and atmospheric environment research in IAP[J]. Chinese Jour of Atmospheric Science,2003, 27(4): 712-728.]   
+[9] 张强，卫国安，侯平．初夏敦煌荒漠戈壁大气边界结构特征的一次观测研究[J]．高原 气象，2004，23(5): 587-597.[Zhang Qiang，Wei Guoan，Hou Ping. 2004. Observation studies of atmosphere boundary layer characteristic over Dunhuang gobi in early summer[J]. Plateau Meteorology,2004, 23(5): 587-597.]   
+[10]黄倩．不同下垫面上行星边界层对流的数值模拟研究[D]．兰州:兰州大学, 2008.[Huang Qian. Simulations of planetary boundary layer convection over different underling surfaces [D]. Lanzhou: Lanzhou University, 2008.]   
+[11] Raman S, Templeman B, Templeman S,et al. Structure of the Indian southwesterly pre-monsoon and monsoon boundary layers: observations and numerical simulation[J]. Atmospheric Environment. Part A. General Topics,1990,24(4): 723-734.   
+[12] 周明煜，徐详德，卞林根，等．青藏高原大气边界层观测分析与动力研究[M]．北京: 气象出版社,2000: 68-72. [Zhou Minyu, Xu Xiangde,Bian Lingen, et al. Observational analysis and dynamic study of atmospheric boundary layer on Tibetan Plateau[M]. Beijing: Meteorological Press,2000: 68-72.]   
+[13]陈陟，周明煜，钱粉兰，等．我国西部高原大气边界层中的对流活动[J]．应用气象学 报,2002,13(2): 142-155.[Chen Zhi, Zhou Minyu, Qian Fenlan, et al. Convective activities in the atmospheric boundary layer over the plateau western China[J]. Journal of applied Meteorological Science, 2002,13(2): 142-155.]   
+[14] Gamo M. Thickness of the dry convection and large-scale subsidence above deserts[J]. Boundary-Layer Meteorology, 1996, 79(3): 265-278.   
+[15]张强．极端干旱荒漠地区大气热力边界层厚度研究[J]．中国沙漠,2007,27(4):614-620. [ Zhang Qiang. Study on depth of atmospheric thermal boundary layer in extreme arid desert regions[J]. Journal of Desert Research, 2007, 27(4):614-620.]   
+[16] Marsham JH，Parker D J，Grams C M，et al. Observations of mesoscale and boundary-layer scale circulations affecting dust transport and uplift over the Sahara[J]. Atmospheric Chemistry and Physics,2008,8(23): 6979-6993.   
+[17] Takemi T, Satomura T. Numerical experiments on the mechanisms for the development and maintenance of long-lived squal lines in dry environments[J]. Journal of the Atmospheric Sciences,2000,57(11):1718-1740.   
+[18]杨洋，刘晓阳，陆征辉，等．博斯腾湖流域戈壁地区大气边界层高度特征研究[J]．北 京大学学报(自然科学版),2016,52(5):829-836.[Yang Yang,Liu Xiaoyang,Lu Zhenghui, et al. Study on depth of atmospheric boundary layer in gobi desert regions of the Bosten LakeBasin[J]. ActaScientiarumNaturaliumUniversitatisPekinensis, 2016, 52(5):829-836.]   
+[19] Messager C,Parker D J,Reitebuch O,et al. Structure and dynamics of the Saharan atmospheric boundary layer during the west african monsoon onset: Observations and analyses from the research flights of 14 and 17 July 2OO6[J]. Quarterly Journal of the Royal Meteorological Society, 2010, 136(Suppl.):107-124.   
+[20] Parker D J, Thorncroft C D,Burton R R,et al. Analysis of the african easterly jet,using aircraft observations from the JET2OOO experiment[J]. Quarterly Journal of the Royal Meteorological Society, 2010, 131(608):1461-1482.   
+[21]赵建华,张强,王胜．西北干旱区对流边界层发展的热力机制模拟研究[J]．气象学报, 2011, 69(6):1029-1037.[Zhao Jianhua, Zhang Qiang,Wang Sheng. A simulative study of the thermal mechanism for development of the convective boundary layer in the Arid Zone of Northwest China [J]. Acta Meteorologica Sinica,2011, 69(6):1029-1037.]   
+[22] Yi C, Davis K J,Berger B W,et al. Long-term observations of the dynamics of the continental planetary boundary layer[J]. Journal of the Atmospheric Sciences,2Oo1, 58(10): 1288-1299.   
+[23]张强，乔梁，岳平，等．干旱区夏季晴空期超厚对流边界层发展的能量机制[J]．科学 通报，2019,15(64):1637-1650.[Zhang Qiang,Qiao Liang,Yue Ping,et al. The energy mechanism controlling the continuous development of a super-thick atmospheric convective boundary layer during continuous summer sunny periods in an arid area[J]. Chinese Scienec Bulletin,2019,15(64):1637-1650.]   
+[24] Zhang Q, Wang S,Li Y Y. The Study of physical mechanism of influence on atmospheric boundary layer depth in arid regions of Northwest China[J]. Journal of Meteorological Research,2006,20(5):1-12.   
+[25]黄倩，王蓉，田文寿,等．风切变对边界层对流影响的大涡模拟研究[J]．气象学报, 2014,2014(1):100-115.[ Huang Qian, Wang Rong,Tian Wenshou,et al,2014. Study of the impacts of wind shear on boundary layer convection based on the large eddy simulation[J]. Acta Meteorologica Sinica,2014, 72 (1):100-115.]   
+[26]王蓉，黄倩，田文寿,等．边界层对流对示踪物抬升和传输影响的大涡模拟研究[J]．大 气科学,2015,39(4):731-746.[Wang Rong, Huang Qian, Tian Wenshou, et al. Study of a large eddy simulation of the effects of boundary layer convection tracer uplift and transmission[J]. Chinese Journal of Atmospheric Sciences,2015,39 (4):731-746.]   
+[27]王敏仲，徐洪雄，王寅钧，等．塔克拉玛干沙漠夏季晴空对流边界层大涡模拟[J]．中 国沙漠，2018,38(6):161-172.[Wang Minzhong，Xu Hongxiong，Wang Yinjun,et al. Large-eddy simulation of summer clear sky convective boundary layer in the Taklimakan desert[J]. Journal of Desert Research,2018,38(6):161-172.]   
+[28] Balsley B B,Frehlich R G,Jensen ML, et al. Extreme gradients in the nocturnal boundary layer: structure,evolution,and potential causes[J]. Journal of the Atmospheric Sciences, 2003,60(20):2496-2508.   
+[29]万静，孙鉴泞．对流边界层发展受覆盖逆温影响的大涡模拟研究[J].气象科学，2010, 30(5): 715-723.[ Wan Jing, Sun Jianning. Impact of capping inversion on development of convective boundary layer: evaluating the parameterization of entrainment rate through large-eddy simulation[J]. Scientia Meteorologica Sinica, 2010,30(5):715-723.]   
+[30] 赵建华，张强，王胜，等．西北干旱区夏季大气边界层逆温强度和高度的频率密度研 究[J]．高原气象,2013,32(2） :377-386.[Zhao Jianhua, Zhang Qiang，Wang Sheng,et al. Studies on frequency density of inversion intensity and height of atmospheric boundary layer in arid region of Northwest China[J]. Plateau Meteorology,2O13, 32(2) :377-386.]   
+[31] 赵采玲，吕世华，韩博，等．夏季巴丹吉林沙漠残余层与深厚对流边界层的关系研究 [J].高原气象,2016(4):1004-1014.[Zhao Cailing,Lyu Shihua,Han Bo,et al. Relationship between the convective boundary layer and residual layer over Badain Jaran Desert in summer[J]. Plateau Meteorology, 2016, 35(4):1004-1014.]   
+[32]姚俊强，杨青，毛炜峄，等．西北干旱区大气水分循环要素变化研究进展[J].干旱区 研究，2018,35(2):269-276.[Yao Junqiang， Yang Qing,Mao Weifeng,et al. Progress of study on variation of atmospheric water cycle factors over arid region in northwest china[J].Arid zone research,2018,35(2):269-276.]   
+[33]乔娟．西北干旱区大气边界层时空变化特征及形成机理研究[D].北京：中国气象科学 研究院，2Oo9.[Qiao Juan．The temporal and spatial characteristics of atmospheric boundary layer and ts formation mechanism over arid region of northwest china[D]. Beijing:China Institute of Meteorology, 2009.]   
+[34] Gray M E B, Petch J, Derbyshire S H, et al. Version 2.3 of the Met. Office large eddy model[J]. Met Office (APR) Turbulence and Diffusion Rep, 2001, 276.   
+[35]王蓉，黄倩，岳平．大涡模式水平分辨率对边界层夹卷过程及示踪物垂直传输的影响 [J].干旱气象,2019,37(1):48-56.[Wang Rong,Huang Qian, Yue Ping,Eect of large eddy horizontal resolution on simulation of entrainment and tracer vertical transport[J]. Jounal of Arid Meteorology, 2019,37(1):48-56.]   
+[36] 任燕，黄倩，张君霞,等．大涡模式分辨率对海洋信风区大气边界层结构和演变模拟的 影响[J].热带气象学报,2018,34(1):23-33.[Ren Yan,Huang Qian, Zhang Junxia,et al. Effect of large eddy resolution on simulation of structure and evolution of the marine trade-wind boundary layer[J]. Journal of Tropical Meteorologica, 2O18,34(1):23-33.]
+
+# Large eddy simulation of the effect of intensity of capping inversion on super-thick convective boundary layer in arid
+
+area
+
+Wang Rong1,2, Huang Qian², Zhang Qiang
+
+(1.Gansu Weather Modification Office, Lanzhou 730020, China； 2.Key Laboratory for Semi-Arid Climate Change of the Ministry Education, Colege of Atmospheric Sciences, Lanzhot
+
+University, Lanzhou 730000, China； 3. Gansu Meteorological Bureau, Lanzhou 730020, China).
+
+Abstract: The impacts of intensity of capping inversion on development of super-thick convection boundary layer and entrainment process in arid area were simulated by using field intensive observation data of Dunhuang in arid desert area and large eddy model (LEM). The results show that: (1) Before the capping inversion was broken, the weaker inversion was,the more unstable the mixed layer was,the more favorable the turbulent vertical upward development ，convective boundary layer, mixed layer and entrainment layer were thicker, the entrainment speed was larger, and the top of boundary layer has a strong entrainment effect. When the cover inversion layer was completely convective through the fully developed boundary layer, the boundary layer convection, which was originally confined to the strong overlying inversion layer with small thickness and large energy, the convection mixing was more intense,the entrainment was stronger, and it was more beneficial to the mixing of the mixed layer and the neutral layer above the inversion layer to form a super-thick boundary layer. (2) Before the capping inversion was broken,the boundary layer turbulent kinetic energy was mainly provided by thermal buoyancy. After the cover inversion layer was broken,the shear production term in the mixing layer contributed the most to the turbulent kinetic energy of the boundary layer.
+
+Key words: atmospheric boundary layer； intensity of capping inversion； super-thick convectiveboundary layer； entrainment；large eddy simulation

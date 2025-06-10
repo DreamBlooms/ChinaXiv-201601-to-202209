@@ -1,0 +1,160 @@
+高效液相色谱-电感耦合等离子体质谱法测定富硒蛋白多糖中纳米单质硒含量王凤芹 程远之　肖肖李笑笑　宋德广　路则庆 汪以真\*（浙江大学饲料科学研究所，生物饲料安全与污染防控国家工程实验室，农业部华东动物营养与饲料重点实验室，杭州310058）
+
+摘要：本试验旨在建立高效、准确、快速测定富硒蛋白多糖中纳米单质硒含量的方法。将$2 5 \mathrm { m g }$ 阴沟肠杆菌(Enterobacter cloacae)Z0206产富硒蛋白多糖样品悬浮在 $3 ~ \mathrm { m L }$ 蒸馏水中,在3mgXIV型蛋白酶作用下超声处理 $3 0 \mathrm { m i n } ( 3 7 ~ \mathrm { ~ \textdegree ~ } )$ ，将酶解液离心得到的沉淀物(纳米单质硒)在常温下经双氧水-盐酸（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCI）体系消解，所得溶液直接经高效液相色谱-电感耦合等离子体质谱（HPLC-ICP-MS）分析[以PRPX100 阴离子色谱柱对样品中的 $\mathrm { S e O } _ { 3 } { } ^ { 2 } \cdot$ 进行分离，流动相组成为 $5 \mathrm { m m o l / L }$ 柠檬酸水溶液（pH4.5）]，测得样品中纳米单质硒含量为$2 4 3 9 \mu \mathrm { g / g }$ 。以国家标准（GB/T13883-2008）[样品以硝酸（ ${ \mathrm { H N O } } _ { 3 }$ ）-高氯酸（ $\mathrm { H C l O _ { 4 } }$ ）体系消解处理，经氢化物发生-原子荧光（HG-AFS）分析]为对照，测得样品中纳米单质硒含量为 $2 4 5 0 ~ \mu \mathrm { g / g }$ 。2 种方法的测定结果高度一致。与GB/T13883-2008中描述的方法相比，采用本试验建立的氧化体系条件更温和、快速并且易于控制，适用于纳米单质硒的快速检测。
+
+关键词：高效液相色谱；电感耦合等离子体质谱；富硒蛋白多糖；纳米单质硒中图分类号：Q657.32；Q936文献标识码：A 文章编号：
+
+硒(Se)是许多动物体内必需的营养物质[1]。我国的《饲料添加剂品种目录（2013)》中将亚硒酸钠和酵母硒作为矿物元素饲料添加剂用于养殖动物补硒剂。亚硒酸钠作为硒添加剂，来源丰富，价格较低，但是存在生物有效性低、中毒量与需要量之间范围小、毒性大、易污染环境等缺陷，因而被严格限制其使用量。欧盟等一些国家和地区已经限制或禁止使用亚硒酸钠作为硒的营养补充剂，例如瑞典已限制其在乳猪料中使用。而日本则禁止在动物饲料中添加亚硒酸钠。因此，目前呈现出其他形式硒逐渐取代亚硒酸钠在饲料中添加的趋势。天然
+
+收稿日期：2017-08-31
+
+基金项目：现代农业生猪产业体系（CARS-36)；浙江大学实验技术研究项目（SJS201711）作者简介：王凤芹（1976一），女，湖北黄梅人，博士，从事动物营养与饲料分析方法建立研究。E-mail: wangfq@zju.edu.cn\*通信作者：汪以真，教授，博士生导师，E-mail: yzwang@zju.edu.cn
+
+3存在的硒主要有硒醚、单质硒、硒酸盐、亚硒酸盐和有机硒几种形式[2-3]。亚硒酸盐和硒酸1 盐的中毒量与需要量范围很窄，而单质硒被认为既无毒也无生物活性[4-6]。然而，粒径在$2 0 { \sim } 3 5 0 ~ \mathrm { n m }$ 范围内的红色纳米单质硒颗粒由于其突出的安全性和生物活性引起了越来越多5 的关注[5-6]。许多研究表明，一些细菌可以通过将亚硒酸钠还原成为红色纳米单质硒从而有7 效地降低毒性[7-9]，与此同时，纳米单质硒分散在细菌分泌的蛋白质或者多糖表面上，又显3 著提高了富硒蛋白多糖产品的抗氧化活性等功能[10]。在本研究前期工作中，对产多糖菌种） 进行耐硒驯化得到产多糖耐硒阴沟肠杆菌(Enterobacter cloacae)的细菌菌株 Z0206，并运用） 形态学、生理生化特征和16SrDNA 基因序列分析相结合的方法鉴定其为Enterobacter一 cloacae。Enterobacter cloacae Z0206 能耐受高浓度的亚硒酸钠并可产生大量的胞外蛋白多> 糖，在小鼠和家禽上的应用发现其具有较强的抗氧化和免疫功能[1l-13]。最近的研究发现部分； 硒为零价并具备纳米粒子的大小，判断为纳米单质硒[14]，本研究将着眼于定量分析纳米单1 质硒。  
+5 目前常规测定零价硒的技术手段是敞口湿法消解、微波辅助密闭消解[15-16]，文献报道的5 方法一般是通过向试样中加入强氧化剂[如硝酸（HNO3）或高氯酸（ $\mathrm { H C l O _ { 4 } }$ ）]或者混合酸反7 复加热回流或者微波消解。如国家标准（GB/T13883-2008）对于饲料中硒的测定方法中在3 对试样的前处理上，是先将试样在混合酸（ $_ \mathrm { H N O _ { 3 } - H C l O _ { 4 } }$ ）中消化过夜，次日再在电热板上） 反复加热。前处理的方法原理均是先将零价硒氧化成四价硒（ ${ \mathrm { S e } } ^ { 4 + }$ ）[17-22]再进行检测，但上） 述过程冗长，试剂耗量大，尤其是在高浓度酸介质存在时操作需要十分谨慎，并且需要进一一 步采取除酸措施以避免对后续 HPLC-ICP-MS 测定产生仪器损害和信号抑制。因此，本研究> 在传统的消解基础上加以改进，以双氧水（ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ）-盐酸（HCI）体系室温下反应代替 ${ \mathrm { H N O } } _ { 3 }$ 3 和 $\mathrm { H C l O _ { 4 } }$ 加热消化的方法，实现纳米单质硒的氧化，获得可直接进行HPLC-ICP-MS 检测的1 溶液，实现对富硒蛋白多糖中纳米单质硒的快速、准确、安全测定，使整个样品处理周期控5 制在 $2 \mathrm { h }$ 以内。  
+5 1 材料与方法  
+7 1.1 试验材料  
+3 1.1.1 试剂  
+） XIV型蛋白酶[由灰色链霉菌（Stretomyces griseus）产生]、硒粉（纯度 $2 9 9 . 9 5 \%$ ）、标准） 品亚硒酸钠(纯度 $2 9 8 \%$ )和色谱级甲醇购自美国 Sigma-Aldrich 公司。柠檬酸、HCl、 $30 \%$ $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 、
+
+硼氢化钾（ $\mathrm { K B H _ { 4 } }$ ）、氢氧化钾（KOH）均为分析纯，购自国药集团化学试剂有限公司。
+
+1.1.2 主要仪器
+
+Nexion 300 高效液相色谱-电感耦合等离子体质谱（HPLC-ICP-MS）联用仪（美国PerkinElmer公司)；KQ-500E 超声波清洗器（昆山市超声仪器有限公司)；超纯水仪（德国EMD Millipore 公司)；电子分析天平（瑞士Mettler Toledo 公司);ST40R离心机(美国 Thermo公司)；pH计（美国 Mettler Toledo 公司)；AFS-8220氢化物原子荧光光度计（北京吉天仪器有限公司）配备高性能空心阴极灯（波长： $1 9 6 . 0 \mathrm { n m }$ ，北京有色金属研究总院）。
+
+# 1.2富硒蛋白多糖样品的制备
+
+参考课题组前期研究报道[12]，对 Enterobacter cloacae Z0206 菌株添加亚硒酸钠，深层发酵获得发酵液，先离心除去菌丝体，再将上清液经 $9 5 \%$ 乙醇沉淀，最后对沉淀物进行冷冻干燥，即获得富硒蛋白多糖样品。该样品将作为本试验的材料。
+
+1.3富硒蛋白多糖样品的前处理
+
+称取 $2 5 ~ \mathrm { m g }$ 富硒蛋白多糖于 $5 ~ \mathrm { m L }$ 离心管中，加入 $3 ~ \mathrm { m g }$ XIV型蛋白酶，再加入 $3 ~ \mathrm { m L }$ 的蒸馏水，置于超声波清洗机中超声 $3 0 \mathrm { m i n }$ ，温度设置为 $3 7 ^ { \circ } \mathrm { C }$ ，将上述酶解液离心 $3 0 \mathrm { m i n }$ 转速设为 $1 0 0 0 0 \mathrm { r / m i n }$ ，收集沉淀，并向沉淀中加入 $3 ~ \mathrm { m L }$ 的蒸馏水，混匀后 $1 0 0 0 0 \mathrm { r / m i n }$ 离心 $3 0 \mathrm { m i n }$ ，离心结束后弃去上清，向沉淀中加入 $1 0 0 ~ \mu \mathrm { L }$ 浓度为 $6 \mathrm { m o l / L }$ 的 HCI，再向其中加入3mL $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 常温下反应 $3 0 \mathrm { m i n }$ ，将上述反应液转移到容量瓶中，并用蒸馏水定容至500mL，过 $0 . 4 5 ~ { \mu \mathrm { m } }$ 滤膜，进行HPLC-ICP-MS 分析。
+
+1.4标准曲线的制备
+
+准确称取 $2 5 . 0 \mathrm { m g }$ 亚硒酸钠溶解在 $2 5 0 ~ \mathrm { m L }$ 水中，逐步稀释成0.500、0.300、0.200、0.050以及 $0 . 0 2 5 ~ \mu \mathrm { g / m L }$ 的亚硒酸钠标准工作液，进行HPLC-ICP-MS 分析。1.5HPLC-ICP-MS及氢化物发生-原子荧光（HG-AFS）分析条件1.5.1HPLC-ICP-MS分析条件PRP-X100 阴离子色谱柱( $2 5 0 \ \mathrm { m m } { \times } 4 . 1 \ \mathrm { m m } { \times } 1 0 \ \mathrm { \mu m }$ ，美国 Hamilton 公司)；进样量 $2 5 ~ \mu \mathrm { L }$ 流动相为5mmol/L 柠檬酸水溶液（ $\mathrm { \cdot p H } 4 . 5 \mathrm { \cdot }$ ；流速 $0 . 8 \mathrm { m L / m i n } ^ { [ 2 3 ] }$ 。射频功率：1100W；等离子气[氩气(Ar)]流速： $1 6 . 0 \mathrm { L / m i n }$ ；辅助气(Ar)流速： $1 . 3 ~ \mathrm { L / m i n }$ 雾化气(Ar)流速： $0 . 9 1 ~ \mathrm { L / m i n }$ ；碰撞气[氨气 $\mathrm { ( H e ) } ]$ 流速： $3 ~ \mathrm { m L / m i n }$ ；质荷比78。1.5.2HG-AFS分析条件
+
+仪器参数：光电倍增管负高压 $2 9 0 { \mathrm { V } }$ ，原子化器高度 $8 \mathrm { m m }$ ；空心阴极灯电流 $8 0 ~ \mathrm { m A }$ 载气流量 $3 0 0 ~ \mathrm { m L / m i n }$ ；屏蔽气流量 $8 0 0 ~ \mathrm { m L / m i n }$ ；载流液为 $5 \% \mathrm { H C l }$ ；进样体积 $0 . 5 ~ \mathrm { m L }$ 。硒标准工作液浓度为 $\mathrm { 1 0 \ n g / m L }$ ，制作标准曲线时，采用 $5 \%$ HCl为稀释液，仪器自动稀释为2、4、6、8和 $\mathrm { 1 0 \ n g / m L }$ 。系列浓度，测定不同标准溶液中硒含量。所有样品硒含量平行测定3次，取平均值。
+
+1.6数据处理与分析
+
+数据处理采用Excel2010统计分析软件进行处理和计算，以平均值来表示。
+
+2结果与分析
+
+2.1富硒蛋白多糖样品的前处理
+
+富硒蛋白多糖样品经前处理，最后离心得到的沉淀如图1-A所示；加入 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 、HCl振摇混匀后，沉淀得到很好的分散，如图1-B所示；在室温放置 $3 0 \mathrm { m i n }$ 后，所有样品表现出清晰、无色透明状，如图1-C所示。这种现象表明，红色的纳米单质硒在常温下可以被$_ { \mathrm { H } _ { 2 } O _ { 2 } - \mathrm { H C l } }$ 体系快速消解成无色溶液状态。
+
+![](images/d82ff5785c8c80093d505d637e419803d5c33c9398d25ed7090b4995f0093f22.jpg)  
+图1纳米单质硒消解变化过程  
+Fig.1The appearance of nano elemental selenium during the digestion
+
+2.2线性范围与准确度
+
+亚硒酸钠标准工作液色谱图见图2，保留时间为 $5 . 0 0 8 \mathrm { m i n }$ ，以亚硒酸钠浓度为横坐标$( x )$ ，以78硒（ $^ { 7 8 } \mathrm { S e }$ ）积分面积为纵坐标 $( \boldsymbol { y } )$ ，拟合计算得到亚硒根离子（ $\mathrm { S e O } _ { 3 } { } ^ { 2 - } \mathrm { \overline { { \Omega } } } .$ ）浓度的标准曲线方程及相关系数：y=167993.58x+2364.94（ $R { = } 0 . 9 9 9$ ）°将 $_ { \mathrm { H } _ { 2 } O _ { 2 } - \mathrm { H C l } }$ 体系作为本文消解处理方法的对照，将离心沉淀得到的纳米单质硒同时经过 $_ { \mathrm { H } _ { 2 } O _ { 2 } - \mathrm { H C l } }$ 和 $\mathrm { H N O } _ { 3 } { \mathrm { - } } \mathrm { H C l O } _ { 4 }$ 体系消解处理并分别进行HPLC-ICP-MS 和HG-AFS分析。纳米单质硒经 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCI体系消解后的色谱图如图3，经HPLC-ICP-MS分析，测得样品中纳米单质硒含量为 $2 4 3 9 \mu \mathrm { g / g }$ (表1)；而采用 $\mathrm { H N O } _ { 3 } { \mathrm { - } } \mathrm { H C l O } _ { 4 }$ 体系消解处理，经HG-AFS分析，测得样品中纳米单质硒含量为 $2 4 5 0 ~ { \mu \mathrm { g / g } }$ 。2 种方法的测定结果十分接近。
+
+# 表1 HPLC-ICP-MS 法测定富硒蛋白多糖中纳米单质硒含量
+
+<html><body><table><tr><td rowspan="2">序号No.</td><td colspan="2">纳米单质硒含量 Nano elemental selenium content/(μg/g)</td><td rowspan="2">相对标准偏差RSD/%</td></tr><tr><td>测定值 Measured values</td><td>平均值Mean</td></tr><tr><td>1</td><td>2 449</td><td rowspan="3"></td><td rowspan="3">3.32</td></tr><tr><td>2</td><td>2 366</td></tr><tr><td>3</td><td>2 350</td></tr><tr><td>4</td><td>2486</td><td rowspan="3"></td><td rowspan="3"></td></tr><tr><td></td><td>2 542</td></tr><tr><td>5</td><td></td></tr></table></body></html>
+
+![](images/f4ae42bff3b0d1b8fb59fa59b464f355c7b24610d21e9aa9d885a4e2eff5ea46.jpg)  
+图2亚硒酸钠标准工作液（ $0 . 3 0 ~ \mu \mathrm { g / m L }$ ）色谱图
+
+![](images/fc765cbb77e80d11121a5c0252ca401b625415d01351256db5232947fdf6f226.jpg)  
+Fig.2Chromatogram of $0 . 3 0 \mu \mathrm { g / m L N a _ { 2 } S e O _ { 3 } }$ standard solution   
+图3纳米单质硒经 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCI体系消解后的色谱图
+
+Fig.3Chromatogram of nano elemental selenium digested by $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCl system
+
+3讨论
+
+3.1样品酶解处理对纳米硒定量分析的影响
+
+富硒蛋白多糖中硒的存在形式有纳米硒和有机硒甚至可能有亚硒酸盐，为了有效地提取纳米单质硒，本试验参考文献报道[24]对有机硒进行了酶水解提取，使样品中的大分子含硒化合物水解成水溶性小分子化合物从而与纳米硒进行分离。在对酶的选择上，试验比对了文献报道所提及的不同的酶，如XIV型蛋白酶、蛋白酶K以及链蛋白酶等。试验结果表明，XIV型蛋白酶在 $3 0 \mathrm { m i n }$ 内即可使样品酶解完全，并且在超声波辅助作用下完全可以替代常规的摇床培养 （ $4 8 \mathrm { ~ h ~ } \rangle$ 。通过XIV蛋白酶的加入，使样品中的蛋白质水解，样品酶解物经水洗后，在离心机的作用下纳米单质硒能够沉淀下来，从而使疏水性的纳米单质硒与水溶性的硒代氨基酸以及样品中可能存在的亚硒酸钠得以分离[25-28]。
+
+3.2 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HC1和 $\mathrm { H N O } _ { 3 } { \cdot } \mathrm { H C l O } _ { 4 }$ 消解处理对测定结果的影响
+
+目前对于饲料中硒的测定国家标准（GB/T13883-2008）中对于试样的前处理是先将试样在混合酸（ $\mathrm { H N O } _ { 3 } { \mathrm { - } } \mathrm { H C l O } _ { 4 }$ ）中消化过夜，次日再在电热板上反复加热。上述操作对于样品是否消解完全，一是从高氯酸冒烟上判断，二是从色泽上判断，整个过程操作需要十分谨慎，以防止电热板上加热的样品被蒸干。因此，若将饲料中硒的测定方法移植至富硒蛋白多糖中纳米单质硒的检测中，前处理步骤不但耗时，而且烦琐。
+
+$\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 在硒测定中的氧化作用已经在前人研究得以证实[29-30]，原理如下：
+
+$$
+2 \mathrm { H C l } + 3 \mathrm { H } _ { 2 } \mathrm { O } _ { 2 } + \mathrm { \bf ~ S e }  3 \mathrm { H } _ { 2 } \mathrm { O } + \mathrm { \bf ~ C l } _ { 2 } + \mathrm { \bf ~ H } _ { 2 } \mathrm { S e O } _ { 3 }
+$$
+
+在传统的测定硒的方法中，通常采用的是HG-AFS法：样品经 $\mathrm { H N O } _ { 3 } { \cdot } \mathrm { H C l O } _ { 4 }$ 混合酸加热消解后，在HCI介质中 $\mathrm { S e ^ { 6 ^ { + } } }$ 还原为 ${ \mathrm { S e } } ^ { 4 + }$ ，用 $\mathrm { K B H _ { 4 } }$ 作为还原剂,将 ${ \mathrm { S e } } ^ { 4 + }$ 还原为硒化氢( $\mathrm { S e H } _ { 2 }$ )，再由载气带入仪器中进行检测。考虑到样品消解需要静置过夜，一般测试1个样品需要12h以上。而本试验采用 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCI体系对纳米单质硒进行前处理时发现，加入 $1 0 0 \mu \mathrm { L }$ 浓度为6mol/L的HCl和 $3 \mathrm { \ m L } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ ，常温静置 $3 0 \mathrm { m i n }$ ，纳米单质硒即可反应完全得到 $\mathrm { S e O } _ { 3 } { } ^ { 2 - }$ 。参考饲料中硒的测定（GB/T13883-2008)，采用 HG-AFS 法对纳米单质硒检测得到样品中纳米单质硒含量为 $2 4 5 0 ~ { \mu \mathrm { g / g } }$ ，采用 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCI 体系消解，经HPLC-ICP-MS 法检测得到样品中纳米单质硒含量 $2 4 3 9 \mu \mathrm { g / g }$ ，2 种处理方法所得结果基本一致。相比于传统的建立在 ${ \mathrm { H N O } } _ { 3 }$ -HClO4体系上的测定方法，本试验建立的纳米单质硒测定方法快速、简便、环保、准确度高、安全性好，适用于纳米单质硒的快速检测。
+
+$\textcircled{1}$ 本试验成功建立了采用超声波辅助XIV型蛋白酶水解富硒蛋白多糖的方法。将富硒蛋白多糖样品悬浮在水中，在XIV型蛋白酶作用下保持 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 超声 $3 0 \mathrm { m i n }$ ，样品得到充分酶解。  
+$\textcircled{2}$ 由酶解液离心得到纳米单质硒在常温下经 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ -HCI体系可以完全消解得到 $\mathrm { S e O } _ { 3 } { } ^ { 2 - }$ 。离心得到的纳米单质硒在 $1 0 0 \mu \mathrm { L }$ 浓度为 $6 \mathrm { m o l / L }$ 的HC1和 $3 \mathrm { \ m L } \mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 作用下，常温静置 $3 0 \mathrm { m i n }$ 即可反应完全，得到便于检测的 $\mathrm { S e O } _ { 3 } { } ^ { 2 - }$ 。  
+$\textcircled{3}$ 本试验建立了一种直接定量检测上述反应液中 $\mathrm { S e O } _ { 3 } { } ^ { 2 \cdot }$ 的HPLC-ICP-MS分析方法。
+
+采用PRPX100 阴离子色谱柱对 $\mathrm { S e O } _ { 3 } { } ^ { 2 . }$ 进行分离，流动相组成为 $5 \mathrm { m m o l / L }$ 柠檬酸水溶液（ $\mathsf { p H } 4 . 5 \AA )$ ，流速 $0 . 8 ~ \mathrm { m L / m i n }$ ，HPLC-ICP-MS可在 $1 0 \mathrm { m i n }$ 内对完成对 $\operatorname { S e O } _ { 3 } { } ^ { 2 } \cdot$ 的检测。
+
+$\textcircled{4}$ 采用本试验建立的方法对富硒蛋白多糖中纳米单质硒含量进行得出，所得结果与经典的 $\mathrm { H N O } _ { 3 } { \cdot } \mathrm { H C l O } _ { 4 }$ 消解HG-AFS分析检测结果高度一致，表明本试验建立的方法快速、简便、环保、准确度高、安全性好，适用于纳米单质硒的快速检测。
+
+参考文献：   
+[1]KESSI J,HANSELMANN K W.Similarities between the abiotic reduction of selenite with glutathione and the dissimilatory reaction mediated by Rhodospirillum rubrum and Escherichia coli[J].Journal of Biological Chemistry,2004,279(49):50662-50669.   
+[2]LOESCHNER K,HADRUP N,HANSEN M,et al.Absorption,distribution,metabolism and excretion of selenium following oral administration of elemental selenium nanoparticles or selenite in rats[J].Metallomics,2014,6(2):330-337.   
+[3] VIAMAJALA S,BEREDED-SAMUEL Y,APEL W A,et al.Selenite reduction by a denitrifying culture:batch-and packed-bed reactor studies[J].Applied Microbiology and Biotechnol0gy,2006,71(6):953-962.   
+[4] NOGUEIRA C W,ROCHA JB T.Toxicology and pharmacology of selenium:emphasis on synthetic organoselenium compounds[J].Archives of Toxicology,2011,85(11):1313-1359.   
+[5] WANG H L,ZHANG J S,YU H Q.Elemental selenium at nano size possesses lower toxicity without compromising the fundamental effect on selenoenzymes:comparisonwith selenomethionine in mice[J].Free Radical Biology and Medicine,2007,42(10):1524-1533.   
+[6] ZHANG J S,WANG X F,XU T W.Elemental selenium at nano size (nano-Se) as a potential chemopreventive agent with reduced risk ofselenium toxicity:comparisonwith Se-methylselenocysteine in mice[J].Toxicological Sciences,2008,101(1):22-31.   
+[7]DEBIEUX C M,DRIDGE E J,MUELLER C M,et al.A bacterial process for selenium nanosphere assembly[J].Proceedings of the National Academy of Sciences of the United States of America,2011,108(33):13480-13485.   
+[8] JAIN R,JORDAN N,WEISS S,et al.Extracelular polymeric substances govern the surface
+
+charge of biogenic elemental selenium nanoparticles[J].Environmental Science& Technology,2015,49(3):1713-1720.
+
+[9] ZHENG S X,SU J,WANG L,et al.Selenite reduction by the obligate aerobic bacterium Comamonas testosteroniS44 isolated from a metal-Contaminated soil[J].BMC Microbiology,2014,14(1):204-230.
+
+[10] LIAO W Z,YU Z Q,LIN Z H,et al.Biofunctionalization of selenium nanoparticle with Dictyophora indusiata polysaccharide and its antiproliferative activity through death-receptor and mitochondria-mediated apoptotic pathways[J].Scientific Reports,2015,5:18629.   
+[11] JIN M L,WANG Y M,XU C L,et al.Preparation and biological activities of an exopolysaccharideproduced byEnterobactercloacaeZ0206[J].Carbohydrate Polymers,2010,81(3):607-611.   
+[12] LU Z Q,JIN M L,HUANG M,et al.Bioactivity of selenium-enriched exopolysaccharides produced by Enterobacter cloacae Z0206 in broilers[J].Carbohydrate Polymers,2013,96(1):131-136.   
+[13] XU C L,WANG Y Z,JIN M L,et al.Preparation,characterization and immunomodulatory activity of selenium-enriched exopolysaccharide produced by bacterium Enterobacter cloacae Z0206[J].Bioresource Technology,2009,100(6):2095-2097.   
+[14] SOND D G,CHENG Y Z,LI X X,et al. Biogenic nano-selenium particles effectively attenuate oxidative stress-induced intestinal epithelial barrier injury by activating the Nrf2 antioxidant pathway[J].ACS Applied Materials & Interfaces,2017,9(17):14724-14740.   
+[15] SULLIVAN D,ZYWICKI R,YANCEY M.Method for the determination of total selenium in a wide variety of foods using inductively coupled plasma/mass spectrometry[J].Journal of AOAC International,2013,96(4):786-794.   
+[16] DUFAILLY V,NOEL L,GUERIN T.Determination of chromium,iron,and selenium in foodstuffs of animal origin by collision cell technology,inductively coupled plasma mass spectrometry (ICP-MS) after closed vessel microwave digestion[J].Analytica Chimica Acta,2006,565(2):214-221.
+
+[17] CREWS H M,DUCROS V,EAGLES J,et al.Mass spectrometric methods for studying nutrient mineral and trace element absorption and metabolism in humans using stable isotopes.A review[J].Analyst,1994,119(11):2491-2514.
+
+[18] DIAL A R,MISRA S,LANDING W M.Determination of low concentrationsof iron,arsenic,selenium,cadmium,and other trace elements in natural samples using an octopole colision/reactioncellequippedquadrupole-inductivelycoupledplasma mass spectrometer[J].Rapid Communications in Mass Spectrometry,2015,29(8):707-718.
+
+[19] EL ATI-HELLAL M,HELLAL F,HEDHILI A.Application of plackett-burman and doehlert designs for optimization of selenium analysis in plasma with electrothermal atomic absorption spectrometry[J].Clinical Biochemistry,2014,47(15):95-100.
+
+[20] THOSAIKHAM W,JITMANEE K,SITTIPOUT R,et al.Evaluation of selenium species in selenium-enriched pakchoi (Brassica chinensis Jusl var parachinensis (Bailey) Tsen & Lee) using mixed ion-pair reversed phase HPLC-ICP-MS[J].Food Chemistry,2014,145:736-742.
+
+[21] WELNA M,SZYMCZYCHA-MADEJA A,POHL P.Improvement of determination of trace amounts of arsenic and selenium in slim coffee products by HG-ICP-OES[J].Food Analytical Methods,2014,7(5):1016-1023.
+
+[22]倪润祥,雒昆利.湿消解-原子荧光法测定煤中硒和碑[J].光谱学与光谱分 析,2015,35(5):1404-1408.
+
+[23]俞宏明.基于HPLC-ICP-MS 技术分析测试常见食品及富硒食品中不同形态硒含量的研究[D].硕士学位论文.杭州.浙江工业大学,2015,22-25.
+
+[24]王欣,幸苑娜,陈泽勇,等.高效液相色谱-电感耦合等离子体质谱法检测富硒食品中6种硒形态[J].分析化学,2013,41(11):1669-1674.
+
+[25] GODIN S,FONTAGNE-DICHARRY S,BUENO M,et al.Influence of dietary selenium species on selenoamino acid levels in rainbow trout[J].Journal of Agricultural and Food Chemistry,2015,63(28):6484-6492.
+
+[26] JAGTAP R,MAHER W,KRIKOWA F,et al.Measurement ofselenomethionineand selenocysteine in fish tissues using HPLC-ICP-MS[J].Microchemical Journal,2016,128:248-257.
+
+[27] KLOGNEROVA K,VOSMANSKA M,SZAKOVA J,et al.Efect of growing conditions on selenium speciation in rapeseed (Brassica napus) tissue[J].Chemicke Listy,2015,109(3):216-222.
+
+.28] KROFLIC A,GERM M,MECHORA S,et al.Selenium and its compounds in aquatic plant Veronica anagallis-aquatica[J].Chemosphere,2016,151:296-302.
+
+[29] STANCIU-BURILEANU M M,CONSTANTIN L,RADU L,et al.Determination of selenium content in soil and parent material by HG-AAS[J].Revista de Chimie (Bucharest,Romania) 2012,63(6):553-556.
+
+[30] 连建洲,黄逸文,李重庆,等.铜铟镓硒的回收方法:中国,CN201010214393.8[P].2010-06-25. Measurement of Nano Elemental Selenium in Selenium-Enriched Polysaccharides Using High Performance Liquid Chromatography Coupled With Inductivity Coupled Plasma Mass Spectrometry Method   
+WANG Fengqin CHENG Yuanzhi XIAO Xiao LI Xiaoxiao SONG Deguang LU Zeqing WANG Yizhen\* (Feed Science Institute of Zhejiang University, National Engineering Laboratory of Bio-Feed Safety and Polution Prevention, Key Laboratory of Animal Nutrition and Feed Science (Huadong), Ministry of Agriculture, Hangzhou 310058, China)   
+Abstract: This experiment was conducted to establish a novel method which could eficiently,   
+accurately and quickly determine the nano elemental selenium (Nano-Se) content extracted from   
+selenium-enriched polysaccharides. Approximately $3 ~ \mathrm { m g }$ of protease X IV was added into $3 ~ \mathrm { m L }$   
+of $_ \mathrm { H _ { 2 } O }$ contained $2 5 ~ \mathrm { m g }$ selenium-enriched polysaccharides which produced by Enterobacter   
+cloacae ZO206,and the resulting mixture was maintained at $3 7 \mathrm { ~ \textdegree C }$ in an ultrasonic bath for 30   
+min.After centrifugation, the precipitate (Nano-Se) was oxidized by HCl- ${ \bf \cdot H } _ { 2 } { \bf O } _ { 2 }$ system at room   
+temperature. Then the consequent solution was directly analyzed by high performance liquid   
+chromatography coupled with inductivity coupled plasma mass spectrometry（HPLC-ICP-MS ）
+
+# ChinaXiv合作期刊
+
+(equipped with PRP-X1oO anion column and the mobile phase was $5 \mathrm { m m o l / L }$ citric acid with a pH of 4.5) and the content of Nano-Se was $2 4 3 9 \mu \mathrm { g / g }$ . As a contrast, the same samples were oxidized by ${ \mathrm { H N O } } _ { 3 }$ -HClO4 system and determined by the method described in GB/T 13883-2008 using hydride generation atomic fluorescence spectrometry (HG-AFS) and the content of Nano-Se was 2 $4 5 0 ~ \mu \varrho / \varrho$ which was similar to the result above. Compare with the method described in GB/T 13883-2008,the oxidation system in the current method is much milder and faster and easy to control which is suitable for Nano-Se detection.
+
+Key words: high performance liquid chromatography； inductively coupled plasma mass spectrometry; selenium-enriched polysaccharides; nano elemental selenium

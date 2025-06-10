@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "A new method of searching for concealed Au deposits by using the spectrum of arid desert plant species ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CUI Shichao1.23.4， ZHOU Kefa1,2.34\\*， ZHANG Guanbin5\\*， DING Rufu， WANG Jinlin1,2.3.4,CHENG Yinyi1,2.34,JIANGGuo14",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "State KeyLaboratoryofDesertandOasisEcology,Xinjiang InstituteofEcologyandGeoraphy,ChineseAcademyofSciences, Urumqi 830011, China;   \n2 Xinjiang KeyLaboratory of Mineral Resources and Digital Geology, Urumqi 830011,China;   \n3Xinjiang Research Centre for Mineral Resources, Chinese Academy of Sciences,Urumqi 830011,China;   \n4 University of Chinese Academy of Sciences,Beijing 100049,China;   \n5 Xinjiang Academy of Science and Technology for Development, Urumqi 830011,China;   \n6 China Non-Ferrous Metals Resources Geological Survey, Beijing 100oi2, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: With the increase of exploration depth,it is more and more diffcult to find Au deposits.Due to the limitation of time and cost,traditional geological exploration methods are becoming increasingly difficult to be effectively applied.Thus,new methods and ideas are urgently needed.This study assessd the feasibility and effectiveness of using hyperspectral technology to prospect for hidden Au deposits.For this purpose, 48 plant (Seripbidium terre-albae) and soil (aeolian gravel desert soil) samples were first colected along a sampling line that traverses an Au mineralization alteration zone (Aketasi mining region in an arid region of China) and were used to obtain soil Au contents by a chemical analysis method and the reflectance spectra of plants obtained with an Analytical Spectral Device (ASD) FieldSpec3 spectrometer. Then,the corresponding relationship between the soil Au content anomaly and concealed Au deposits was investigated. Aditionally, the characteristic bands were selected from plant spectra using four different methods, namely， genetic algorithm (GA), stepwise regresson analysis (STE), competitive adaptive reweighted sampling (CARS), and correlation coefficient method (CC),and were then input into the partial least squares (PLS) method to constructa model for estimating the soil Au content. Finaly,the quantitative relationship between the soil Au content and the 15 different plant transformation spectra Was established using the PLS method.The results were compared with those of a model based on the full spectrum.The results obtained in this study indicate that the location of concealed Au deposits can be predicted based on soil geochemical anomaly information, and it is feasible and efective to use the fullplant spectrum and PLS method to estimate the Au content in the soil. The cross-validated coefficient of determination $( \\mathrm { R } ^ { 2 } )$ and the ratio of the performance to deviation (RPD)between the predicted value and the measured value reached the maximum of O.8218 and 2.37, respectively, with a minimum value of $6 . 5 6 ~ \\mu \\mathrm { g / k g }$ for the root-mean-squared error (RMSE) in the full spectrum model. However,in the process of modeling, it is crucial to select the appropriate transformation spectrum as the input parameter for the PLS method. Compared with the GA,STE,and CC methods, CARS was the superior characteristic band screening method based on the accuracy and complexity of the model. When modeling with characteristic bands, the highest accuracy, $R ^ { 2 }$ of 0.8016,RMSE of $7 . 0 7 \\mu \\mathrm { g } / \\mathrm { k g } .$ and RPD of 2.20 were obtained when 56 characteristic bands were selected from the transformed spectra $( 1 / \\mathrm { l n } \\mathrm { R } ) ^ { \\prime }$ (where it represents the first derivative of the reciprocal of the logarithmic spectrum) of sampled plants using the CARS method and were input into the PLS method to construct an inversion model of the Au content in the soil. Thus, characteristic bands can replace the full spectrum when constructing a model for estimating the soil Aucontent.Finally, tis study proposes a method of using plant spectra to find concealed Au deposits, which may have promising application prospects because of its simplicity and rapidity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: concealed Au deposits; reflectance spectroscopy； soil Au content; characteristic band;soil geochemical orospecting; competitive adaptive reweighted sampling; Seripbidium terrae-albae ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil geochemical prospecting involves studying the regularity of the dispersion and concentration of metallic elements in the soil and the corresponding relationship with ore bodies in the bedrock. This approach is based on systematic measurements of the distribution of metallic elements in the soil and then prospecting for hidden ore bodies by identifying chemical anomalies and interpreting evaluation anomalies (Yang et al., 2O18). Soil geochemical methods have been widely used in geological prospecting because they offer advantagessuch asstrong reliability， low cost, simple implementation,and short operation period (Arias,1996; Smee,1998; Smith et al., 2011；Wang et al.，2013；Timofeev et al.，2016). However， in traditional soil geochemical prospecting,the metal content in the collected soil samples is mainly measured by laboratory chemical methods (Von Steiger et al.,1996; Kemper and Sommer, 2002); although the accuracy is high,this process is time consuming and laborious,and the heavy metal content in the soil is only determined in a small area (Yousefi et al.,2018; Han et al.,2020). Additionally, it is difficult to obtain continuously distributed information related to heavy metals at large scales,resulting in high levels of uncertainty regarding the exploration of concealed deposits (Liu et al., 2019). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The emergence of hyperspectral remote sensing technology has provided new methods to macroscopically and rapidly acquire soil heavy metal information over large areas (Sun and Zhang,2017; Shi et al., 2018). Hyperspectral remote sensing provides multiband, high-spectralresolution,and continuous results. Thus,continuous soil spectra in the visible, near-infrared, and mid-infrared ranges can be obtained (Cheng et al.,2019). Additionally,heavy metal elements are usually adsorbed or hosted in clay minerals,iron oxides,and organic matter,and exhibit relatively significant spectral characteristics in the soil spectrum; therefore,hyperspectral techniques can potentially be used to remotely retrieve information related to metal elements in the soil (Vega et al.,2006; Sun et al.,2O18).Scholars have increasingly used mathematical regression methods to establish the quantitative relationships between heavy metals and spectral characteristic parameters (Kooistra et al., 2001; Kemper and Sommer,2002; Moros et al.,2009; Chakraborty et al.,2015; Sawut et al.,2018; Yousefi et al.， 2018). Moreover, many researchers have predicted the spatially continuous distribution of heavy metals in the soil (Tan et al., 2021; Wang et al., 2021). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the above studies have verified that hyperspectral techniques have considerable potential for predicting the metal content in the soil, it is extremely difficult to use these methods to retrieve the metal content in the soil because of interference from plants in plant-covered areas. However, many studies have shown that several plants can absorb metal elements from the soil through their roots during growth (Bandaru et al.，2016; Cui et al., 2021). When heavy metal elements excessively accumulate in plants,the chlorophyll content, cell structure,and water vapor content of the plants change,resulting in changes to their reflectance spectra (Hoque and Huntzler, 1992; Dunagan et al.,20o7; Ren et al.,2008), which can provide a theoretical basis for the indirect inversion of metal element contents in the soil. Some scholars have successfully estimated the heavy metal content in the soil beneath plants by using plant spectra. For instance, Kooistra et al. (2003）found that a vegetation index (Modified Soil-Adjusted Vegetation Index 2 Model (MSAVI2)) constructed based on the reflectance spectra of perennial ryegrass (Lolium perenne) could be used to characterize the level of Zn polution in the soil. Shi etal.(2O16a) studied rice and found that a three-band vegetation index displayed greater potential than a two-band vegetation index for estimating the metal content in the soil because of its ability to use more spectral information. Among all the various indices,the three-band vegetation index $( ( \\mathrm { R } _ { 7 1 6 }  – \\mathrm { R } _ { 5 6 8 } ) / ( \\mathrm { R } _ { 5 5 2 }$ $\\mathtt { - R _ { 5 6 8 } } )$ (where $ { \\mathrm { R } } _ { 7 1 6 }$ $\\mathrm { R } _ { 5 6 8 }$ ,and $\\mathrm { R } _ { 5 5 2 }$ represent the reflectivity at 716, 568,and $5 5 2 \\ \\mathrm { n m }$ wavelengths, respectively) is considered the optimal index for estimating soil metal contents.The above studies have shown that plant spectra and indices ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "constructed based on spectra can be used to effectively monitor the heavy metal content in the soil in plant-covered areas. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Arid and semi-arid regions in China is rich in mineral resources,but it is dificult to find valuable mineral deposits there due to the presence of thick Quaternary formations.Thus, new prospecting methods and ideas are urgently needed.A small half-shrub species called Seriphidium terrae-albae is widely distributed in the mining area,which encompasses the Aketas gold-copper mine,the Kalatongke copper-nickel mine,the Xilekudute copper-molybdenum mine,and the Ketebieteti copper-nickel mine. Scholars have verified that the plant is able to absorb Au from the soil without hindrance and displays a geochemical anomaly (Song et al., 2016; Song et al., 2017). Such an anomaly may provide a reference for the exploration of hidden Au deposits. Although extensive past research has demonstrated that plant spectra can be used to accurately estimate the contents of metals in the soil (Kooistra et al.,2003; Shi et al.,2016a,b), plant species and soil type are also two key factors related to the plant response to metals (Horler etal.,198O).Therefore,it is necessry to further verify whether the spectrum of Seriphidium terrae-albae can be used to estimate the Au content in arid desert soils. To the best of our knowledge, this topic has not been addressed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore,the first goal of this study is to determine whether abnormalities in the soil Au content can be used as a prospecting indicator for concealed Au deposits; if so,can they indicate the location of deep hidden ore deposits? The second purpose of this study is to determine whether the spectrum of a plant species (Seriphidium terrae-albae) widely distributed in the arid desert area can be used to estimate the Au contents in the soil with high accuracy.If these two tasks are proven feasible,it would suggest that plant spectra can be used to quickly identify the hidden Au deposits. This finding would be of considerable significance for expanding the prospecting space， improving the prospecting efficiency, and accelerating the pace of mineral exploration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Methods and materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Study area and experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area is located in the Aketasi mining region in arid areas ofChina, where the main mineral types are Au and Cu. The main soil type in the study area is aeolian gravel desert soil (Song et al., 2017). Traditional geological prospecting methods cannot be effectively implemented in this area because quaternary deposits cover most of the area. By contrast, soil geochemical prospecting has notable potential in this area due to its deep penetration ability. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The main plant species distributed in the study area is Seriphidium terrae-albae (as shown in Fig. 1), which is a small half-shrub with small leaves and a relatively developed root system; it can grow in extremely dry and harsh environments because of its high resistance to drought, high temperature, sand damage,and poor soil. It is a small half-shrub that usually germinates in late March and grows rapidly,reaching a peak in mid-May. After a brief summer dormancy, it germinates in early August, blooms in mid-August,and seeds in September before ripening in late October. The plant species enters a drought stage in November and effectively makes it through the winter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1e17547414f7340f1aba35ce671d2d7483da8199c29e728dd8249c7be94f5dc.jpg",
+        "img_caption": [
+            "Fig.1Natural landscape of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine whether the Au content in the soil can be estimated using Seriphidium terrae-albae plant spectra, we designed a 1-km-long sampling line with 48 sampling points at $2 0 \\mathrm { m }$ intervals (as shown in Fig. 2) in accordance with the locations of a known hidden Au deposit. The sampling line crossed the deposit in the north-south direction and crossed the upper part of the deposit and the background area.The geographic locations of the 48 sampling points were recorded using a handheld global positioning system (GPS). The purposes of this design are to ensure that the range of Au contents in the collected soil samples is wide and to obtain representative samples. Next, the plant and soil samples were collected along the sampling line. Healthy plants (Seriphidium terrae-albae) growing around the sampling points were sampled,and the weight of each sample was measured as $2 0 0 \\ \\mathrm { g }$ . The location of each soil sample was the same as that of a corresponding plant, and each soil sample was also weighed approximately $2 0 0 \\ \\mathrm { g }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "180° 5Q.10 152025..30 35 40 4548 Q 4 物 ululg N sh Db Legend Andesitic breccia lava Q Quaternary Sampling location D。 Middle Devonian Beitashan Formation sh Alteration zone Gritty soils Eluvial deposit Sericite phyllite I Copper ore body qQuartz vein +NPlagiogranite 5 Chlorite phyllite ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Measurement of the Au content in the soil samples ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The collected soil samples were packaged in fresh-keeping bags and taken to the laboratory. They were dried, ground,and stored in sealed containers to measure the heavy metal content. Before element analysis,the soil samples were dissolved using the nitric acid-hydrogen peroxide digestion method,and then the Au content in the soil samples was measured with a ZEEnit65OP atomic absorption spectrometer produced by Analytik Jena AG Company in Jena, Germany. The detection limit of the ZEEnit650P atomic absorption spectrometer is $0 . 2 \\mathrm { n g / g }$ . The statistical results for the Au content in the 48 soil samples collected are shown in Table 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/da57cfa64f1d0da17f0c95921f9af61be31d0cf59ccfec68c758a9c68705d0fe.jpg",
+        "table_caption": [
+            "Table 1Statistics of the Au content in the 48 collected soil samples "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Element type</td><td>Minimum value (ug/kg)</td><td>Maximum value (ug/kg)</td><td>Average value (ug/kg)</td><td>Standard deviation (ug/kg)</td><td>Coefficient of variation</td></tr><tr><td>Au</td><td>0.3437</td><td>77.5711</td><td>6.0543</td><td>15.7080</td><td>2.5945</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Collection of plant spectra and preprocessing ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The canopy plant reflectance spectra were measured using an Analytical Spectral Device (ASD) Fieldspec3 portable spectrometer (Analytical Spectral Devices, Boulder, CO, USA) in clear and windless weather. To reduce the influence of frequent changes in the elevation angle of the sun on the spectral measurements, we selected the measurement period from 12:00 to 14:00 Beijing time on 20 July 2016. During the measurement process, the spectrometer probe was placed vertically downward with a $2 5 ^ { \\circ }$ field of view, and the distance between the probe and the plant canopy top was $0 . 2 \\mathrm { m }$ . Five reflectance curves were first collected from plant samples at each sampling point; then, spectral curves that highly varied from the others were removed. Finally, the average value of the remaining spectral curves was taken as the final reflection spectrum of each plant sample at each sampling point. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reflectance spectra in the range of less than $4 0 0 \\ \\mathrm { n m }$ and greater than $2 4 0 0 \\ \\mathrm { n m }$ were removed to reduce noise (Sun and Zhang,2017).Reflectance spectra in the ranges of 1300-1400 and 1800-2000 nm were also removed to eliminate the influence of atmospheric water vapor (Wang et al., 2015). Finally, each sample included 170o bands. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The adjacent bands of hyperspectral data are highly correlated, leading to information redundancy. Therefore,in this study, the original spectra were resampled by calculating the average value of five adjacent bands. The reflectance spectrum of each plant sample was reduced to 340 bands after resampling. The reflectance spectra of the plant samples collected after pretreatment are shown in Figure 3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.8 Legend 0.7- Sample 1 Sample 17 Sample 33 Sample 2 Sample18 Sample 34 0.6 Sample 3 Sample 19 Sample35 Sample 4 Sample 20 Sample 36 0.5 Sample 5 Sample 21 Sample 37 Rrreeeeee Sample 6 Sample22 Sample38 0.4 Sample 7 Sample23 Sample 39 Sample 9 Sample 25 Sample 41 0.3 Sample10 Sample 26 Sample 42 Sample11 Sample 27 Sample 43 0.2 Sample 12 Sample28 Sample 44 Sample13 Sample 29 Sample 45 0.1 Sample 14 Sample 30 Sample 46 Sample 15 Sample 31 Sample 47 0.0+ Sample 16 — Sample 32 Sample 48 0 400 800 1200 1600 2000 2400 Wavelength (nm) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Partial least squares (PLS) method ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The PLS method is a multiple linear regresson approach that combines the advantages of principal component analysis, typical correlation analysis,and multiple linear regression analysis (Han et al., 2020).This method is especially suitable for modeling when there is multicollinearity between independent variables and the number of samples is less than the number of variables (Huang et al., 2004). The PLS method can simplify the structure of hyperspectral data by effectively reducing the information redundancy and overcoming multiple correlation issues among bands (Jin and Wang, 2019).Additionally,a hyperspectral inversion model established based on the PLS method can maximize the use of spectral information through principal component analysis to improve the modeling accuracy and estimates; therefore,the PLS method was chosen in this study. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During the modeling process using the PLS method, the number of optimal principal components was determined using the coefficient of determination $( R ^ { 2 } )$ between the predicted value obtained through leave-one-out cross-validation method and the measured value. The number of principal components corresponding to the maximum $R ^ { 2 }$ value was selected as the optimal number of principal components. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The leave-one-out cross-validated $R ^ { 2 }$ , the ratio of performance to deviation (RPD),and the rootmean-squared error (RMSE) were computed for model evaluation.In general, a good model should have high $R ^ { 2 }$ ,high RPD,and low RMSE values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5Spectral transformations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Various spectral transformations, the original spectrum $( R )$ , logarithmic spectrum $( \\ln R )$ ,reciprocal spectrum $( 1 / R )$ ， square root of the original spectrum $( { \\sqrt { R } } )$ , reciprocal of the logarithmic spectrum $( 1 / \\mathrm { l n } R )$ ，and the corresponding first and second derivatives,were input into the PLS method as independent variables to construct a quantitative model for estimating the Au content in the soil.The sequence numbers of the 15 transformed spectra and the corresponding calculation methods are as follows: $\\mathrm { S T _ { 1 } }$ , original reflectance spectrum $( R )$ · $\\mathrm { S T } _ { 2 }$ , the first derivative of the original reflectance spectrum $( R ^ { \\prime } )$ ， $\\mathrm { S T } _ { 3 }$ , the second derivative of the original reflectance spectrum $( R \" )$ $\\mathrm { S T _ { 4 } }$ , logarithm of the original spectrum $( \\ln R )$ $\\operatorname { S T } _ { 5 }$ , the first derivative of the logarithm of the original spectrum $( \\mathrm { l n } R ) ^ { \\prime }$ ：， $\\mathrm { S T } _ { 6 }$ ， the second derivative of the logarithm of the original spectrum $( \\ln R ) \"$ ：， $\\mathrm { S T } _ { 7 }$ ，reciprocal of the original spectrum $( 1 / R )$ $\\mathrm { S T _ { 8 } }$ , the first derivative of the reciprocal of the original spectrum $( 1 / R ) ^ { \\prime }$ $\\mathrm { { S T } _ { 9 } }$ the second derivative of the reciprocal of the original spectrum $( 1 / R ) \"$ ·， $\\mathrm { S T } _ { 1 0 }$ , square root of original spectrum $( \\sqrt { R } ) ; \\operatorname { S T } _ { 1 1 }$ , the first derivative of the square root of the original spectrum $( { \\sqrt { R } } ) ^ { \\smash { \\mathstrut } }$ ， $\\mathrm { S T } _ { 1 2 }$ ,the second derivative of the square root of the original spectrum $( { \\sqrt { R } } ) \"$ ·， $\\mathrm { S T } _ { 1 3 }$ , reciprocal of logarithmic spectrum $( 1 / \\mathrm { l n } R )$ $\\mathrm { S T } _ { 1 4 }$ , the first derivative of reciprocal of logarithmic spectrum $( 1 / \\mathrm { l n } R ) ^ { \\prime }$ ; and $\\operatorname { S T } _ { 1 5 }$ the second derivative of reciprocal of logarithmic spectrum $( 1 / \\mathrm { l n } R ) \"$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Derivative spectroscopy has been increasingly used in spectroscopic analysis,and this study is no exception.Notably,in the derivatives of plant spectra, the influence of the soil background was effectively removed,and derivatives can be used to accurately extract physiological information from crop canopy spectra (Shi et al.， 2014; Cui et al.， 2018). In short, derivative spectroscopy can conveniently determine the characteristic parameters of a spectrum, such as the bending points and wavelength positions associated with the maximum and minimum reflectivity (Cui et al., 2018). Thus,subtle spectral changes in soil or plants caused by metal stress can be identified. We used the difference method to calculate the first and second derivatives because the collected plant spectra were discrete data.The formulas for calculating the first and second derivatives are shown in Equations 1 and 2, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { \\prime } ( \\lambda ) = \\frac { S ( \\lambda _ { i + 1 } ) - S ( \\lambda _ { i - 1 } ) } { 2 \\Delta \\lambda } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS ^ { \" } ( \\lambda ) = \\frac { S ^ { \" } ( \\lambda _ { \\scriptscriptstyle i + 1 } ) - S ^ { * } ( \\lambda _ { \\scriptscriptstyle i - 1 } ) } { 2 \\Delta \\lambda } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $S ( \\lambda _ { i + 1 } )$ represents the value at wavelength $\\lambda _ { i + 1 }$ (nm) under different spectral transformations; $S ( \\lambda _ { i - 1 } )$ represents the value at wavelength $\\lambda _ { i - 1 }$ (nm）under different spectral transformations; $S ( \\lambda )$ （204号 represents the first derivative at wavelength $\\lambda ( \\mathrm { n m } )$ under different spectral transformations; $S \" ( \\lambda )$ （204号 represents the second derivative at wavelength $\\lambda ( \\mathrm { n m } )$ under different spectral transformations;and $\\Delta \\lambda ( \\mathrm { n m } )$ represents the wavelength interval. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.6Feature band selection method and evaluation of the constructed model ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The reflectance spectra of plants collected using the ASD spectrometer included a vast number of spectral bands,and different bands may make different contributions in the estimation of the Au content in the soil.The characteristic wavelength variables that significantly contribute to the Au content estimates were selected via various methods to reduce the modeling time and simplify the modeling process. The most important goal was to eliminate irrelevant variables and establish a robust and accurate quantitative model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, four methods, including the genetic algorithm (GA), stepwise regression analysis (STE), competitive adaptive reweighted sampling (CARS),and correlation coeficient (CC) method, were used to select the characteristic bands from all spectral bands in the range of $4 0 0 { - } 2 4 0 0 \\ \\mathrm { n m }$ ; the result was then input into the PLS method to construct an inversion model of the Au content in the soil.Because the number of samples was small, the $R ^ { 2 }$ between the predicted Au content obtained using leave-one-out cross-validation method and the measured Au content was used to evaluate the accuracy and stability of the constructed model. The larger the $R ^ { 2 }$ value, the greater the accuracy and stability of the constructed model. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The GA is a stochastic global search and optimization algorithm based on natural selection and natural genetic mechanisms in the biological world (Hong et al.,2018). This algorithm can simulate natural selection and the phenomena of replication, crossover, and mutation in the genetic process. Through continuous genetic iterations, variables that increase the value of the objective function are retained, comparatively poor variables are eliminated,and globally optimal results are ultimately obtained (Jarvis and Goodacre,2Oo5). Additionally,a parallel search method that can improve the accuracy and stability of the analysis results is used.Therefore, in this study, the GA and partial least squares (GA-PLS) method were combined to estimate the Au content. First, the Au content in the soil was identified as the optimization objective,and plant spectral data were used as genes.Binary coding was then performed to randomly generate the initial population. The root-mean-squared error of cross-validation (RMSECV) was used as the fitness function,and the GA was used to optimize the input characteristic bands.The selected characteristic bands were then entered into the PLS method to establish an estimation model of the Au content. In using the GA method for feature band screning,the population size was set to 30,the maximum number of iterations was 100, the crossover probability was O.5,and the mutation probability was 0.01. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The STE screening of characteristic bands involved first sequentially adding each spectral band to the statistical model and then performing an $F$ test of the statistical model after each spectral band was introduced. The $P$ -valueof the $F$ test was used for spectral band introduction and elimination (Jin and Wang,2019). In this study, the maximum $P$ -value for a spectral band to be included was defined as O.05,and the minimum $P$ -value for a spectral band to be removed was defined as 0.10. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, the CC method was also used to select characteristic bands.First, the coefficient and $P$ -value between each band within the range of $4 0 0 { - } 2 4 0 0 ~ \\mathrm { n m }$ and the Au content in the soil were calculated, and then spectral bands with $P$ -values less than O.O1 were screened and removed from the selected characteristic bands. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The CARS algorithm simulates Darwin's \"adaptive survival\" principle (Li et al., 2Oo9; Hong et al.,2018). In the processof characteristic band selection using this method,each wavelength variable was individually regarded, wavelength variables associated with regression coefficients with large absolute values in the PLS model were retained, and wavelengths associated with regression coefficients with small absolute values were eliminated by using an adaptive resampling weighting method and an exponential decay function. In this way, many subsets of spectral variables can be screened,and the optimal spectral variable subset can be selected on the basis of the RMSECV obtained using cross-validation. The subset corresponding to the minimum RMSECV was chosen as the optimal variable subset. In this study,the Monte Carlo sampling frequency was defined as 50. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1Analysis and evaluation of soil geochemical characteristics ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From Figure 4 it can be sen that, there was an M-shaped soil Au content anomaly in the area corresponding to sampling points 25-33.Furthermore,Figure 5 shows that the soil Au content in this area was significantly higher than that in other areas $( P { < } 0 . 0 0 1 )$ ,which indicates that abnormal soil Au contents may be present. Moreover, concealed gold mineralization zones have been found below these areas,and the drilling data indicate a tenor of ore in the range from 1.5 to $4 . 0 \\ \\mathrm { g / t }$ (Song et al., 2017).The above results imply that the abnormal soil Au contents can potentially indicate the locations of hidden Au deposits. Therefore,using the proposed soil geochemical method for mineral exploration in this area is feasible and effective.However,it is time consuming and laborious to use traditional methods to measure the Au content in the soil. Therefore,in later sections,we used hyperspectral technology to quickly estimate the Au content in the soil. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2Influence of spectral transformation on the estimation of the Au content ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows that when using all bands in the range of $4 0 0 { - } 2 4 0 0 ~ \\mathrm { n m }$ in Seriphidium terrae-albae plant spectra and the PLS method to construct the model for estimating the Au content in the soil, there were significant differences in the estimation accuracies of the model for different forms of the transformed spectra. The $R ^ { 2 }$ between the predicted Au content obtained using the leave-one-out crossvalidation method and the measured Au content in the soil varied widely from O.1785 to O.8218.The RMSE and RPD values of the estimation models constructed using diferent forms of the transformed spectra also considerably varied.The lowest RMSE value was $6 . 5 6 \\mu \\mathrm { g / k g }$ ,and the highest was 14.53 $\\mu \\mathrm { g / k g }$ ; additionally, the lowest RPD value was 1.07,and the highest was 2.37.These results indicate that it is crucial to choose the appropriate spectral transformation when establishing a model for estimating the Au content in the soil using plant spectra. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 2 also indicates that the Au content estimation model obtained by inputting five spectra $\\mathrm { S T _ { 1 } }$ $\\mathrm { S T _ { 4 } }$ $\\mathrm { S T } _ { 7 }$ $\\mathrm { S T } _ { 1 0 }$ ,and $\\mathrm { S T } _ { 1 3 }$ as independent variables into the PLS method is comparatively inaccurate, with maximum $R ^ { 2 }$ and RPD values of 0.4451 and 1.31,respectively; the lowest RMSE was as high as $1 1 . 8 7 ~ { \\mu \\mathrm { g / k g } }$ . These results imply that some types of transform spectra are not suitable for estimating the Au content in the soil.By contrast, the accuracy of the estimation model of the soil Au content constructed by inputting the first and second derivatives of these five types of transformed spectra as independent variables into the PLS method was significantly increased.The lowest $R ^ { 2 }$ and RPD values were 0.2974 and 1.07,respectively,and the highest values even reached 0.8218 and 2.37, respectively. Compared with those of the original spectra, the $R ^ { 2 }$ and RPD values of the model constructed based on derivative spectra were greatly improved, with increasing ranges of $1 6 . 9 6 \\text{‰}$ $23 5 . 3 2 \\%$ and $- 0 . 9 2 6 \\% - 8 0 . 9 1 6 \\%$ ，respectively. Finally， the results indicated that the $\\mathrm { S T } _ { 1 4 }$ $( ( 1 / \\mathrm { l n } R ) ^ { \\prime } )$ index provides the best spectral transformation. The modeling accuracy in estimating the Au content was highest when using this type of spectral transformation compared to the 14 other types of transformed spectra selected in this study. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/50ba5c080cdcd0185d7bf4214a75d6ab96cdbcb9a09d48857c09e92dc1b71cd7.jpg",
+        "img_caption": [
+            "Fig.4Distribution of the soil Au content at the 48 sampling points "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/91f7c92709d46320759487f38e9b7c8f93ec74c844098400481eca43e06c1877.jpg",
+        "img_caption": [
+            "Fig.5Number and average Au content of soil samples grown in mineralized and non-mineralized altered zones. Note that boxes represent interquartile ranges ( $2 5 ^ { \\mathrm { t h } }$ to $7 5 ^ { \\mathrm { t h } }$ percentiles); thick horizontal bars in each box denotes the median $5 0 ^ { \\mathrm { t h } }$ percentile); whiskers (thin horizontal bars)represent the highest and the lowest values,respectively; red and green rectangles denote the average value; and red and green dots represent the Au content ofeach soil sample in the mineralized altered zone and non-mineralized altered zone,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 6 shows the scatter diagram of the predicted soil Au content obtained using the leave-oneout cross-validated method versus measured soil Au content. Notably, when the Au content in the soil was greater than $5 \\mu \\mathrm { g / k g }$ , the prediction effect was better, and the predicted and measured values were evenly distributed on both sides of the 1:1 line.By contrast, when the Au content was less than $5 ~ { \\mu \\mathrm { g / k g } }$ ,the prediction effect was poor, and the predicted Au contents of some samples were negative. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/62cc93f1035c1baf6f2b97fcf65073a936c465fcf35ebaeb1357419d3368bd9d.jpg",
+        "table_caption": [
+            "rangelrrernrrerierlerrsl aiqe "
+        ],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Sequence number</td><td rowspan=\"2\">Spectral transformation</td><td colspan=\"3\">All bands</td><td colspan=\"3\">GA</td><td colspan=\"3\">STE</td><td colspan=\"3\">CARS</td><td colspan=\"3\">CC</td></tr><tr><td>R²</td><td>RMSE</td><td>RPD</td><td>R²</td><td>RMSE</td><td>RPD</td><td>R²</td><td></td><td>RPD</td><td>R²</td><td>RMSE</td><td>RPD</td><td>R RMSE</td><td>RPD</td></tr><tr><td>ST1</td><td>R</td><td>0.2268</td><td>13.82</td><td>1.12</td><td>0.3594</td><td>12.44</td><td>1.25</td><td>0.1497</td><td>14.54</td><td>1.07 0.4712</td><td>11.44</td><td>1.36</td><td>0.0988</td><td>15.26</td><td>1.02</td></tr><tr><td>ST2</td><td>R</td><td>0.7605</td><td>7.96</td><td>1.95</td><td>0.8011</td><td>7.33</td><td>2.12 0.4725</td><td></td><td>12.98 1.20</td><td>0.7068</td><td>8.51</td><td>1.83</td><td>0.5827</td><td>10.09</td><td>1.54</td></tr><tr><td>ST3</td><td>R\"</td><td>0.6028</td><td>10.23</td><td>1.52</td><td>0.6833</td><td>9.16</td><td>1.70 0.3496</td><td></td><td>13.51 1.15</td><td>0.5255</td><td>10.85</td><td>1.43</td><td>0.5453</td><td>10.66</td><td>1.46</td></tr><tr><td>ST4</td><td>lnR</td><td>0.1785</td><td>14.43</td><td>1.08</td><td>0.2128</td><td>14.10</td><td>1.10 0.0180</td><td></td><td>17.39 0.89</td><td>0.1079</td><td>15.22</td><td>1.02</td><td>0.1504</td><td>14.50</td><td>1.07</td></tr><tr><td>ST5</td><td>(lnR)</td><td>0.4260</td><td>14.53</td><td>1.07</td><td>0.4144</td><td>14.76</td><td>1.05 0.3402</td><td></td><td>14.40 1.08</td><td>0.4350</td><td>12.50</td><td>1.24</td><td>0.4209</td><td>19.75</td><td>0.79</td></tr><tr><td>ST6</td><td>(lnR)\"</td><td>0.4355</td><td>11.85</td><td>1.31</td><td>0.3837</td><td>12.68</td><td>1.23 0.3277</td><td></td><td>13.76 1.13</td><td>0.2394</td><td>14.20</td><td>1.09</td><td>0.2857</td><td>13.18</td><td>1.18</td></tr><tr><td>ST7</td><td>1/R</td><td>0.2259</td><td>13.96</td><td>1.11</td><td>0.3008</td><td>13.24</td><td>1.17 0.0082</td><td></td><td>16.57 0.94</td><td>0.2824</td><td>14.84</td><td>1.05</td><td>0.1381</td><td>14.92</td><td>1.04</td></tr><tr><td>ST8</td><td>(1/R)</td><td>0.2974</td><td>13.05</td><td>1.19</td><td>0.3330</td><td>12.71</td><td>1.22 0.3355</td><td></td><td>12.69 1.22</td><td>0.1454</td><td>16.02</td><td>0.97</td><td>0.3014</td><td>13.31</td><td>1.17</td></tr><tr><td>ST9</td><td>(1/R)\"</td><td>0.3434</td><td>12.60</td><td>1.23</td><td>0.3245</td><td>12.83</td><td>1.21 0.3115</td><td></td><td>13.07 1.19</td><td>0.3051</td><td>12.99</td><td>1.20</td><td>0.3312</td><td>13.14</td><td>1.18</td></tr><tr><td>ST10</td><td>R</td><td>0.2056</td><td>14.00</td><td>1.11</td><td>0.2235</td><td>13.85</td><td>1.12 0.1206</td><td></td><td>14.90 1.04</td><td>0.1828</td><td>14.34</td><td>1.08</td><td>0.0790</td><td>15.45</td><td>1.01</td></tr><tr><td>ST11</td><td>(R)</td><td>0.5972</td><td>10.18</td><td>1.53</td><td>0.6040</td><td>10.05</td><td>1.55 0.3934</td><td></td><td>13.80 1.13</td><td>0.4251</td><td>12.90</td><td>1.20</td><td>0.5237</td><td>11.08</td><td>1.40</td></tr><tr><td>ST12</td><td>（R)</td><td>0.5826</td><td>10.26</td><td>1.51</td><td>0.5237</td><td>10.77</td><td>1.44 0.3111</td><td></td><td>12.92 1.20</td><td>0.4928</td><td>11.10</td><td>1.40</td><td>0.4789</td><td>11.28</td><td>1.38</td></tr><tr><td>ST13</td><td>1/lnR</td><td>0.4451</td><td>11.87</td><td>1.31</td><td>0.4329</td><td>12.33</td><td>1.26</td><td>0.5312</td><td>12.58 1.24</td><td>0.5639</td><td>10.46</td><td>1.49</td><td>0.4970</td><td>11.50</td><td>1.35</td></tr><tr><td>ST14</td><td>(1/lnR)</td><td>0.8218</td><td>6.56</td><td>2.37</td><td>0.7601</td><td>7.86</td><td>1.98</td><td>0.6946</td><td>8.87 1.75</td><td>0.8016</td><td>7.07</td><td>2.20</td><td>0.7868</td><td>8.17</td><td>1.90</td></tr><tr><td>ST15</td><td>(1/lnR)\"</td><td>0.5206</td><td>10.84</td><td>1.43</td><td>0.5459</td><td>10.48</td><td>1.48</td><td>0.3755</td><td>18.75 0.83</td><td>0.6557</td><td>9.20</td><td>1.69</td><td>0.5318</td><td>11.06</td><td>1.41</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8daee8c4bd827b8784be7a9184e6f835190bfb1ce6c591d9c6ae9406078e740.jpg",
+        "img_caption": [
+            "Fig.6Scatter diagram of the predicted soil Au content obtained using the leave-one-out cross-validated method versus measured soil Au content. $R ^ { 2 }$ ,coefficient of determination;RMSE,root-mean-squared error;RPD,ratio of performance to deviation; $1 / \\mathrm { l n } R$ ,reciprocal of logarithmic spectrum;', first derivative. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3Influence of the band selection method on the Au content estimations ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To study the effects of different band selection methods on the estimation of the Au content in the soil, we first selected the characteristic bands of 15 types of different transformed spectra using the GA, CARS, STE,and CC methods.Then, we input the selected characteristic bands into the PLS model to build an estimation model of the Au content in the soil; constructed 15 estimation models for each band selection method,and calculated the $R ^ { 2 }$ ,RMSE,and RPD between the predicted value obtained using the leave-one-out cross-validation method and measured Au content (see Table 2). Finally, we used the average values of the $R ^ { 2 }$ ,RMSE,and RPD for the 15 models,which were respectively defined as the M1,M2,and M3 values,as indicators to evaluate the stability and generalization ability of characteristic band selection with diferent methods.The larger the values of M1 and M3,the smaller the M2 value,and the higher the stability and accuracy of the band selection method. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows that the M1 and M3 values of the GA method were slightly higher than those of the full spectrum method,and the M2 value of the GA method was slightly lower than that of the full spectrum method. Additionally, the M1 and M3 values of the CARS method were slightly lower than the full spectrum method, and the M2 value of the CARS method was slightly higher than those of the full spectrum method. The M1 and M3 values of the STE and CC methods were considerably lower than those of the full spectrum method,and the M2 value was significantly higher than that of the full spectrum method. If deciding among methods based only on the M1, M2,and M3 values,the GA was the best band selection method.However, in the process of modeling,the number of characteristic bands used was also a key factor that should be considered. Using too many characteristic bands can increase the complexity of the model and reduce its antiinterference capabilities. Therefore,when determining the optimal band selection method, the accuracy and complexity of the constructed model need to be comprehensively considered. Thus, the average numbers of characteristic bands in the 15 estimation models constructed based on four band selection methods were also calculated. Figure 7b indicates that the number of characteristic bands selected by the GA method was the largest, reaching as high as 147, or accounting for $4 3 . 2 4 \\%$ （204号 of the 340 total bands; the CC method used the second-largest number of bands.However, the numbers of characteristic bands used in the STE and CARS methods were the lowest,at 14 and 96, respectively, accounting for $4 . 1 2 \\%$ and $1 5 . 0 0 \\%$ of the 340 total bands.Although the M1 and M3 values of the GA method were slightly higher than those of the CARS method and the M2 value was slightly lower,the number of characteristic bands selected by the GA method was also far greater than that selected by the CARS method. Considering the accuracy and complexity of the model,CARS is the optimal band selection method for the estimation of the Au content in the soil using Seriphidium terrae-albae plant spectra. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 7b also suggests that three of the band selection methods, including the GA, CARS,and CC methods,can greatly reduce the number of bands used in the constructed model without greatly reducing the Au content estimation accuracy. The bands used in the models were only in the range of $4 0 0 { - } 2 4 0 0 \\ \\mathrm { n m }$ ，accounting for $1 5 . 0 0 \\% - 4 3 . 2 4 \\%$ of the total number of possible bands. Thus, filtering for noise may greatly reduce the complexity of the model. Nevertheless, the selected characteristic bands can be used to replace all bands in constructing an estimation model of the Au content in the soil. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "0.7(a) M1 -1.6 550-(b)Number of characteristic band 16 0.6- M3 1.4 500 M2 value 14 1.2 12 0.5   \nVnee 0.4- 108 Vaaee 350   \nM0.3- B 250 W 0.6 2 200 6 d 0.2- 0.4 Nnnuat 150 4 100 0.1- 0.2 50 2 0.0 0.0 0 0 All band GA STE CARS CC All band GA STECARS CC Characteristic band screeningmethod Characteristic band screeing method ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4Optimal estimation model of the Au content in the soil ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 2 indicates that the highest accuracy was obtained when the characteristic bands were selected from the transformed spectrum $( 1 / \\mathrm { l n } R ) ^ { \\prime }$ ofSeriphidium terrae-albae using the CARS method and were input into the PLS method to construct an inversion model of the Au content in the soil.The $R ^ { 2 }$ , RMSE,and RPD values obtained using leave-one-out cross-validation method constructed by 15 different transformed spectra for the model based on the CARS method were 0.8016, $7 . 0 7 \\mu \\mathrm { g / k g }$ and 2.20,respectively,and the number and distribution of characteristic bands included in the model are shown in Table 3. The number of characteristic bands was 56,accounting for only $1 6 . 5 0 \\%$ of all bands in the range of $4 0 0 { - } 2 4 0 0 \\ \\mathrm { n m }$ . Compared with those of the model based on the full spectrum, the $R ^ { 2 }$ and RPD values of the model based on the characteristic band selected by the CARS method did not decrease significantly (0.8016 (model based on the CARS method) vs 0.8218 (model based on the full spectrum) for $R ^ { 2 }$ ,and 2.20 (model based on the CARS method) vs 2.37 (model based on the full spectrum) for RPD),and the RMSE did not significantly increase (7.07 vs $6 . 5 6 \\mu \\mathrm { g / k g ) }$ ; however, the number of bands used in the model was greatly reduced (56 for the model based on the CARS method $\\nu s 3 4 0$ for the model based on the full spectrum),indicating that this simplified model constructed based on the characteristic bands selected by the CARS method provided high accuracy,stability and generalization ability. This model is the best for the inversion of the Au content in the soil using the Seriphidium terrae-albae plantspectra. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table 3 shows the distribution of characteristic bands in the spectral transformation $( 1 / \\mathrm { l n } R ) ^ { \\prime }$ screened with the CARS method.The selected characteristic bands were distributed in the visiblelight, near-infrared,and short-wave infrared ranges.Among them,some of the bands that have been verified to be highly correlated with metal stress by other scholars (Hoque and Huntzler,1992; Yang et al.,2016; Zhang et al.,2020) were screened and removed,including a band within the green peak range $( 5 4 2 \\mathrm { n m } )$ , a band within the red valley range $( 6 5 2 \\mathrm { n m } )$ , two bands within the red edge (692 and $7 7 2 ~ \\mathrm { n m }$ ),and a band within the water vapor absorption range( $\\cdot 1 4 5 7 ~ \\mathrm { n m } )$ .The above result suggests that the Au content estimation model constructed based on the characteristic bands selected by the CARS method has a strong physical significance. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/7b6769b7daaca4321ea83832cc14a0d09a9c7528c550673c681edf08cb160420.jpg",
+        "table_caption": [
+            "Table 3Distribution of characteristic bands in the spectral transformations $( \\mathrm { S T } _ { 1 4 } ~ ( 1 / \\mathrm { l n } R ) ^ { \\prime } )$ selected by the competitive adaptive reweighted sampling(CARS) method "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Numberof characteristic bands</td><td>Band distribution range (nm)</td></tr><tr><td>56</td><td>412-427,517,542,577,652,692,772,842,922,947,1032,1047-1052,1092,1127,1147,1167-1172, 1197,1212,1402,1427,1457,1487,1622-1627,1652,1672,1692-1697,1702,1712-1727,1737,1782, 1792,2022,2042,2127,2147-2152,2167,2197,2242,2257,2292-2297,2322-2327,2342,2352</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The emergence of hyperspectral technology is an important milestone in the development ofremote sensing technology. Hyperspectral technology can be used to quickly detect tiny changes in plant spectra associated with metal stress,thus potentially providing quick and nondestructive estimates of the metal content. Currently, most scholars have used physical and statistical models to estimate the metal content (Liu et al.,2011,2018; Hede et al.,20i5; Zhang et al.,2017a, b,2019; Zhang et al.,2018). Compared with physical models,statistical models have the advantages of being fast and simple; therefore,they have been widely used. However, although improved spectral resolutions can considerably enhance the amount of information and aid in the identification of characteristic parameters related to the degree of metal stress,the effects of interference factors such as soil background, canopy structure, and atmosphere make the canopy reflection spectra of plants extremely complex and variable (Cui et al., 2018). Additionally, statistical models could construct the quantitative relationship between the obtained plant spectrum (independent variable) and the metal content (dependent variable).A subtle error in the spectrum will often greatly affect the accuracy of the metal content estimates (Shi et al.,2016b; Wang et al.,2018). Therefore, eliminating background and noise efects while extracting useful spectral data has become a current research hotspot (Wang et al., 2018). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study, the Au content in the soil was estimated using plant spectra, and then 15 different forms of spectral transformation were explored to find the optimal spectral transformation form. The results indicate that the inversion model constructed using derivative spectroscopy provides a high accuracy. The reason for this phenomenon may be that the canopy reflectance spectrum of the plant canopy,rather than that of plant leaves, was measured in this study. Hyperspectral sensors are commonly mounted on aerospace and aviation platforms to vertically observe the ground and obtain the canopy spectra of plants. However, Seriphidium terrae-albae is a small shrub,and the leaves are small;thus, the canopy is not completely covered by leaves, which causes the canopy spectrum to contain noise, such as soil background information. In addition, canopy structure parameters, such as the leaf inclination of a plant, will affect the canopy reflectance spectrum. Due to the existence of this interference,some spectral information that contributes to the inversion of the Au content may be hidden.Thus,after the first-order and second-order derivatives are obtained, the soil background information and some random noise can be eliminated to some extent (Demetriades-Shah et al.,1990; Philpot,1991; Smith et al.,2004).Moreover, the derivative spectra can be used to extract the inflection point and slope information hidden in the plant spectra,amplify the differences between the spectra to a certain extent, and improve the inversion accuracy of the corresponding model (Cui et al., 2018). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It was found that the first derivative of reciprocal of logarithmic spectrum $( ( 1 / \\mathrm { l n } R ) ^ { \\prime } )$ is the best spectral transformation among the 15 spectral transform methods considered in this study. Notably, the plant canopy reflectance spectrum contains not only multiplicative noise but also additive noise. Calculating the reciprocal of the logarithm of the original spectrum can reduce the influence of multiplicative noise caused by the changes in light conditions to some extent (Bhargava and Mariam,1992; Gong et al.,2001; Wang et al.,2011); afterwards, determining the first derivative can reduce the influence of additive noise (Zhang et al.， 1997). Specifically, the spectral transformation $( 1 / \\mathrm { l n } R ) ^ { \\prime }$ not only reduces the effect of multiplicative noise but also decreases the effect of additive noise, allowing many tiny changes in the plant spectrum caused by the metal stress to be extracted. Consequently,among all the models considered, the metal content estimation model constructed with this transformed spectrum displays the highest accuracy. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this study, the spatial coupling relationship between the Au content in the soil and concealed Au ore bodies was first analyzed,and the feasibility and effectiveness of estimating the Au content in the soil by using the spectra of plants in the visible, near-infrared,and short-wave infrared ranges were discussed.The results indicate that the Au content in the soil above an ore body is much higher than that in other areas,and the abnormal Au content in the soil corresponds well with the locations of ore bodies.Au content anomalies in the soil can be used as markers for the delineation of metallogenic targets.Then, the Au content in the soil can be accurately estimated by establishing a predictive model using the characteristic bands selected from plant spectra. However,in the modeling process, it is crucial to select the appropriate transform spectrum and band selection method. Among them, the PLS model based on the transformed spectrum $( 1 / \\mathrm { l n } R ) ^ { \\prime }$ and the CARS method perform well in estimating the Au content in the soil, with the $R ^ { 2 }$ ,RMSE,and RPD between the predicted value obtained by leave-one-out cros-validation method and measured value reaching 0.8016, $7 . 0 7 ~ \\mu \\mathrm { g / k g }$ ， and 2.20,respectively. Overall, this study proposes a method to identify the concealed Au deposits by using plant spectra; this approach may have promising application prospects because of its simplicity and speed. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The greatest advantages of the proposed method are its simplicity and speed. Our research group has further constructed a \"super low-altitude detection platform\" thatcan obtain observations at the \"submeter level\" based on an airborne XT-912 power suspension glider and a HySpex hyperspectral sensor. Therefore,our next research goal is to apply the model constructed in this study in conjunction with the ultralow-altitude detection platform to determine whether the model is still valid.If feasible,the Au content in the soil could be quickly estimated over large areas,and metallogenic target areas could be remotely delineated. These advantages could greatly improve the efficiency of prospecting. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This research was funded by the National Natural Science Foundation of China (U1803117),the Young Scholars in Western China, Chinese Academy ofSciences (2020-XBQNXZ-014),the Tianchi Doctoral Plan (Y970000317), the Key Project of Natural Science Foundation of China-Xinjiang Joint Fund (U1803241),the Xinjiang Uygur Autonomous Region Talent Special Plan-Tianshan Outstanding Youth (2019Qo33),and the Geological Exploration Project of Xinjiang Bureau of Geo-exploration and Minera development (XGMB202143). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "AriasD.1996.Acaseof succesful soil geochemistry:theRubiales Zn-Pborebody(NWSpain).Journalof Geochemical Exploration,56(3):229-235. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Banuaru V,DaugntryS,ouingEE,elal.Uo.Evauaung lealanu canopyreectanceolsuressea iceplans tooor arseniccontamination.International Journal of Environmental Research andPublic Health，13(6):606，doi: 10.3390/ijerph13060606.   \nBhargava D S,Mariam DW.1992.Cumulative efects ofsalinityand sediment concentrationonreflectance measurements. International Journal of Remote Sensing,13(11): 2151-2159.   \nChakrabortyS,WeindorfDC,PaulS,etal.2015.Difusereflectance spectroscopyformonitoringleadinlandfillagriculturalsoils of India. Geoderma Regional,5: 77-85.   \nCheng H,ShenRL,ChenY,etal.019.Estmatinghavymetalconcentrations insuburbasoilsithreflctancespectosopy. Geoderma,336: 59-67.   \nCuiSC,ZhouKF,DingRF,etal.2018.Comparingtheeffectsofdiferent spectral transformationsontheestimationof the coppercontentofSeriphidium terrae-albe.JournalofAppliedRemote Sensing,12(3):036003,doi:10.117/1.JRS.12.03600.   \nCui S C,ZhouKF,Ding RF,etal.2O21.Absorptionandaggegationcharacteristicsandchanges inthereflectancespectrumof an arid desert plant under gold,copper,zinc and nickel stress.Natural Resources Research,30(3): 2715-2731.   \nDemetriades-ShahTH,StevenMD,ClarkJA.1990.High resolutionderivativespectra inremote sensing.Remote Sensing of Environment,33(1): 55-64.   \nDunagan S C,Gilmore M S,Varekamp JC.2Oo7.Efects of mercuryonvisible/near-infrared reflectance spectraof mustard spinach plants (Brassica rapa P.). Environmental Pollution,148(1): 301-311.   \nGongP,PuRL,YuB.2Oo1.Coniferspeciesrecognition:efectsofdatatransformation.InterationalJoualofRemoteSensing, 22(17): 3471-3481.   \nHanL,ChenR,ZhuHL,etal.2O20.Estimatingsoilarseniccontent withvisibleandnear-infrared hyperspectralreflectance. Sustainability,12(4):1476,doi: 10.3390/su12041476.   \nHede ANH,Kashiwaya K,Koike K,etal.2O15.Anew vegetation index fordetecting vegetationanomaliesdue tomineral deposits with application to a tropical forest area.Remote Sensing of Environment,171: 83-97.   \nHongYS,ChenYY,YuL,etal.018.Combiningfractionalorderderivativeandspectralvariableselectionfororganic matter estimationofhomogeneoussoil samples byVIS-NIR spectroscopyRemote Sensing,10(3): 479,doi: 10.3390/rs0030479.   \nHoqueE,HuntzlerJS.1992.Spectralblue-shiftofred edge minitorsdamage classofbeechtrees.Remote SensingofEnvironment, 39(1): 81-84.   \nHorlerDNH,BarberJ,BarringerAR.1980.Eectsofheavymetalsontheabsorbanceandreflectance spectraof plants. International Journal of Remote Sensing,l(2): 121-136.   \nHuang Z,TurnerBJ,DurySJ,etal.2Oo4.EstimatingfoliagenitrogenconcentrationfromHYMAPdatausingcontinumremoval analysis. Remote Sensing of Environment,93(1-2):18-29.   \nJarvis RM,GoodacreR.20o5.Genetic algorithmoptimization forpre-processingand variable selectionofspectroscopic data. Bioinformatics,21(7): 860-868.   \nJin J,WangQ.2019.Selectionof informative spectral bandsforPLS models toestimate foliarchlorophyllcontent using hyperspectral reflectance.IEEE Transactions on Geoscience and Remote Sensing,57(5): 3064-3072.   \nKemperT,Sommer S.20o2.Estimateofheavy metalcontaminationinsoilsaftera mining acidentusingreflectancespectroscopy. Environmental Science & Technology,36(12): 2742-2747.   \nKooistraL,WerensR,LuvenRSEW,tal.Posbilitisofvisibleearfrardspectrooyforthssssmtofsoil contamination in river floodplains.Analytica Chimica Acta, 446(1-2): 97-105.   \nKooistraL,LeuvenR SEW,Wehrens R,etal.2003.Acomparisonof methods torelate grassreflectance tosoil metal contamination.International Journal of Remote Sensing,24(24): 4995-5010.   \nLi HD,LiangYZ,XuQS,etal. 2009.Keywavelengthssreening using competitive adaptive reweighted sampling method for multivariate calibration.Analytica Chimica Acta, 648(1):77-84.   \nLiu ML,LiuXN,DngWC,etal.211Monitoringstresslevelsoncewithavymetalpolutionfromhyperspetralreflectance datausing wavelet-fractalanalysis.nterationalJournalofAppliedEarthObservationandGeoiformation,3(2):246-25.   \nLiu ML,WangTJ,SidmreAK,etal.2018.Havymetal-inducedstressinice cropsdetectedusing multi-temporalSentiel2 satelite images.Science of the Total Environment, 637-638:18-29.   \nLiu ZH,LuY,Peng YP,etal.2019.Estimationofsoil heavymetalcontentusing hperspectraldata.RemoteSensing,1(12): 1464,doi: 10.3390/rs11121464.   \nMorosJ,de ValljuelSFOGredillA,etal9.Useofrelectanceifraredspectroscopyformonitoringthe metalcotentof the estuarinesedimentsof theNerbioi-Ibaizabal River(Metropolitan Bilbao,BayofiscayasqueCountry).Environmental Science & Technology,43(24): 9314-9320.   \nPhilpotW D.1991.The derivative ratio algorithm:avoiding atmospheric effects in remote sensing.IEEE Transactions on Geoscience and Remote Sensing,29(3): 350-357.   \nRen HY,ZhuangDF,PanJJ,etal.2o8.Hyper-spectralremotesensingtomonitorvegetationstress.JouralofSoilsand Sediments,8(5): 323-326.   \nSawutR,KasiN,AbzA,etal18.Poibilityfotimedidicsforthssmtofeytalotets iolod an open pit coal mine area.International Journalof Applied Earth Observation and Geoinformation,73:14-25.   \nShiTZ,ChenYY,LiuYL,etal.214.Visibleandnea-ifraredreflectancespectroscopyAnalterativeformonitorgil contamination by heavy metals. Journal of Hazardous Materials,265: l66-176.   \nShiTZ,LiuHZ,ChenYY,eal6a.stimatinofarseicingiculturalsoilsusinghprspectralvegetatioidcesorice. Journal of Hazardous Materials,308: 243-252.   \nShiTZ,Wang JJ,ChenYY,etal.2O16b.Improving thepredictionofarseniccontents inagriculturalsoils bycombiningthe reflectance spectroscopyof soilsand riceplants.Intermational Journal of Applied Earth Observation and Geoinformation,52: 95-103.   \nShiT Z,GuoL,ChenYY,et al.2018.Proximal andremotesensing techniques for mappngof soilcontamination with heavy metals.Applied Spectroscopy Reviews,53(10): 783-805.   \nSme B W.1998.Anewtheory to explain the formationofsoil geochemicalresponses over deplycovered gold mieralization in arid environments. Journal of Geochemical Exploration,61(1-3):149-172.   \nSmith DB,Cannon WF,WoodruffLG.2011.Anational-scalegeochemicalandmineralogicalsurveyofsoilsoftheconterinous United States.Applied Geochemistry,26: S250-S255.   \nSmith KL,Steven MD,ColsJJ.2O04.Useof hyperspectral derivativeratios inthered-edgeregionto identifyplantstress responses to gas leaks.Remote Sensing of Environment, 92(2): 207-217.   \nSong CA,Song W,DingRF,etal.2017.PhytogeochemicalcharacteristicsofSeriphidium terrae-albe (Krasch)Poljaknthe metalic ore deposits in North partof East Junggardesert area, Xinjiangand their prospecting significance.Geotectonica et Metallogenia,41(1):122-132.(in Chinese)   \nSong W,LeiLQ,SongCA,etal.2O16.Characteristicsofphytogeochemistryand prospectingchicesofeffective plantsand elements inKalatongkeCu-Niorefield,Xinjiang.JournalofGuilingUniversityofTechnology36(2):195-206.(inChinese)   \nSun WC, Zhang X.017.Estimating soil zincconcentrations usingreflectance spectroscopy. International Journalof Applied Earth Observation and Geoinformation,58:126-133.   \nSun WC,Zhang X,SunXJ,etal.2O18.Predicting nickelconcentrationinsoilusingreflectance spectroscopyassociatedwith organic matter and clay minerals. Geoderma,327: 25-35.   \nTanK,Ma WB,ChenLH,etal,2O21.Estimatingthedistributiontrendofsoilhavymetals inminingareafromHyMapiboe hyperspectral imagerybased on ensemble learning. Journal ofHazardous,401:123288,10.1016/j.jhazmat.2020.123288.   \nTimofeevIV,KasimovNS,KoshelevaNE.2O16.oilcovergeochemistryofmininglandscapes in thesouth-eastofTransbikalia (City of Zakamensk). Geography and Natural Resources,37: 200-211.   \nVegaFA,CoveloEF,Andrade ML.2o6.Competitive sorptionand desorptionof heavy metals in mine soils: Influenceof mine soil characteristics.Journal of Colloid and Interface Science,298(2): 582-592.   \nVon SteigerB,WebsterR,SchulinR.1996.Mapping havy metalsinpolutedsoilbydisjunctive kriging.EnvironmentalPolution, 94(2): 205-215.   \nWangFH,GaoJ,ZhaY,etal.2O18.Hyperspectralsensingofhavymetalsinsoilandvegetation:Feasibilityandhallenges. ISPRS Journal of Photogrammetry and Remote Sensing,136: 73-84.   \nWang JJ,WangTJ,ShiTZ,etal.2015.Awavelet-basedarea parameterforindirectlyestimatingcopperconcentrationinCarex leaves from canopy reflectance.Remote Sensing,7(11): 15340-15360.   \nWangL,BaiYL,LuYL,etal.2O.Eectonretrieval precisionforcoNcontentbyspectrumdatatransformationRemote Sensing Technology and Application,26(2): 220-225.(in Chinese)   \nWang R,WuS,WuK,etal.2021.Estimationand spatialanalysisofheavy metals in metal ailing pondbasedonimproved PLS with multiple factors.IEEE Access,9: 64880-64894.   \nWang Z,PanW,YangX,etal.20l3.Soil geochemicalanomalycharacteristicsandthegeologicalgnificanceofsoil geohemical surveyat Kavanga area inKigoma,Tanzania.Contributions to Geology & Mineral Resources Research,28(4): 634640.(in Chinese)   \nYang KM,Zhuo W,Zhang WW,etal.016.Studyonthered edgeresponseon derivative spectraofpottedco leaves stressed by lead ions.Science Technology and Engineering,l6(11):110-114,127.(in Chinese)   \nYang X X,LuoXR,ZhengCJ,etal.2018.Geochemicalcharacteristics ofsoil and prospecting directioninthe Guoqing Area, Northern Margin of the Hengyang Basin. Geology and Exploration, 54(4): 762-771. (in Chinese)   \nYousefiG,HomaeeM,NorouziAA.l8.Estimatingsoilavymetalsoncentratioatlrgesaleusngsiblendearfrared reflectance spectroscopy.Environmental Monitoringand Assessment,190(9):513,doi:10.1007/s1066l-018-6898-6.   \nZhang CY,RenHZ,QinQM,etal.2017a.Anewnarrowbandvegetationindexforcharacterizing thedegreeofvegetationstress due to copper: the copper stress vegetation index (CSVI). Remote Sensing Letters,8(6): 576-585.   \nZhang CY,RenHZ,LiangYZ,etal.2017bAdvancingthePROSEC-5model tosimulatethespectralreflectanceofcoper stressed leaves.Remote Sensing,9(11):1191,doi: 10.3390/rs9111191.   \nZhang CY,RenHZ,DaiXJ,etal.l9.Spectralharacteristicsofoppertressdgetatiolavsndurthrerading of the copper stress vegetation index.International Journal of Remote Sensing, 40(12): 4473-4488.   \nZhang C,YangKM,LiY,etal.220.Spectralcharacteristicsand thestudyofpolutiondegreeofmaize leavesundercopperand lead stress. Journal of the Indian Society of Remote Sensing,48(1): 21-33.   \nZhangLP,ZhengLF,TongQX.1997.The estimationofvegetationvariablesbasedonhighresolutionspectra.JournalofRemote Sensing,2(1): 111-114.(in Chinese)   \nZhang ZJ,LiuML,LiuXN,etal.218.Anewvegetationindexbasedonmultitemporalsentinel-2imagesfordiscriminating heavy metal stress levels in rice.Sensors,18(7):2172,doi:10.3390/s18072172. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    }
+]

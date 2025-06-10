@@ -1,0 +1,213 @@
+# 情绪效价可预测性对时间捆绑效应的影响
+
+黄昕杰1,2　张 弛」万华根」　张灵聪²(浙江大学心理科学研究中心，杭州 310058)(闽南师范大学教育科学学院，漳州 363000)
+
+摘要时间捆绑效应指的是主观上主动动作和动作结果的时间点相互靠近的现象。其中，时间捆绑效应可分为动作捆绑和结果捆绑，分别对应主动动作和动作结果的时间点变化。本研究通过一个混合设计实验考察了情绪效价可预测性对时间捆绑效应的影响。情绪效价可预测性(可预测、不可预测)为被试内因素，刺激模态(听觉刺激、视觉刺激)为被试间因素。结果发现，情绪效价为可预测时，结果捆绑在主动按键后产生听觉刺激或视觉刺激都出现了增强，而动作捆绑仅在产生视觉刺激时才出现增强。结果表明，情绪效价为可预测时会增强时间捆绑效应，但该作用在动作捆绑和结果捆绑中存在差异。由于时间捆绑效应是反映主动控制感的主要指标，本研究结果对先进驾驶辅助系统的交互设计具有一定的参考意义。
+
+关键词情绪效价可预测性，时间捆绑效应，刺激模态，主动控制感，人机交互，先进驾驶辅助系统
+
+# 分类号
+
+# 1引言
+
+个体通过控制主动动作对外界造成一定影响的体验，称之为“Sense of Agency”(Gallagher,2000;Haggard,2017;M00re,2016)。国内有研究者翻译为“主动控制感”(吴迪 等,2019；张淼 等,2018)，也有研究者翻译为“施动感”(安灿翎 等,2021；田昊月 等,2018)。但为叙述统一起见，本文采用“主动控制感”这一翻译。时间捆绑效应(Temporal Binding)是与主动控制感密切相关的一种效应，指的是主观上主动动作和动作结果的时间点相互靠近的现象(Haggard et al.,2002)。时间捆绑效应被认为是主动控制感的主要量化指标，用于反映主动控制感的具体变化(Moore&Obhi,2012)。最早 Haggard 等人(2002)使用指针不断转动且转动一圈耗时2560ms 的Libet 钟表范式，在被试主动按键后 $2 5 0 \mathrm { { m s } }$ 给予一个听觉刺激，发现被试感知主动按键的时间点向后发生了偏移，听觉刺激产生的时间点则向前发生了偏移，前者被称为动作捆绑(Action Binding)，而后者被称为结果捆绑(Outcome Binding).
+
+前人研究发现时间捆绑效应除了会受到动作意图、延迟、概率信息等因素的影响(如 Antusch et al,2019;Moore& Haggard,2008;Moore et al.,2009; Wen,2019)之外，还会受到情绪的影响，特别是动作结果的情绪效价的影响。研究表明，情绪效价会影响个体对动作结果的归因倾向(Gentsch& Synofzik,2014)，在时间捆绑效应上也有相应的表现。但是，以往对情绪效价和时间捆绑效应关系的研究结果并不一致。有研究发现被试主动动作后产生积极的动作结果会增强时间捆绑效应，产生消极的动作结果则会削弱时间捆绑效应(Yoshie&Haggard,2013)，也有研究发现情绪效价对时间捆绑效应不存在任何的影响(Moreton etal.,2017)。这些研究表明，情绪效价对时间捆绑效应的影响可能还与其他因素存在交互作用(Barlas et al,2018)。
+
+有研究发现，情绪效价对时间捆绑效应的影响在一定意义上取决于情绪效价是否可预测。Yoshie 和Haggard (2017)发现只有当个体能够预测即将产生的动作结果是积极还是消极时，情绪效价才会对时间捆绑效应产生影响。积极的动作结果增强时间捆绑效应，消极的动作结果削弱时间捆绑效应。然而Christensen等人(2016)却发现积极的动作结果在情绪效价为不可预测时也会增强时间捆绑效应。总体而言，仍不清楚情绪效价可预测性如何影响情绪效价和时间捆绑效应的关系(Kaiser et al.,2021)。更值得注意的是，情绪效价可预测性是否会直接影响时间捆绑效应，至今仍未见有报道。
+
+探究情绪效价可预测性对时间捆绑效应的影响在工程心理学领域具有一定的现实意义。在人机交互情境中，主动控制感是指用户对系统状态的改变负有责任的体验(Limerick et al.,2014; Seinfeld et al.,2021)。对于自动化技术来说，主动控制感的缺失会影响用户对系统状态的监控和系统失控时的介入(Berberian，2019;Wen&Imamizu,2022)，保证用户的预期反馈和实际反馈之间具有一定的可预测性是维持主动控制感的重要手段(Madary,2022)。驾驶辅助技术作为目前较常见的自动化技术，也需要考虑如何在车辆驾驶过程中维持驾驶员的主动控制感(Wen et al.,2019)，以保证驾驶员能在遇到系统无法处理的突发情况时能够迅速介入。最近有研究尝试在车辆驾驶过程中利用情绪刺激影响驾驶员的行为(Ditrich&Mathew,2021)，那么，情绪刺激的可预测性会如何影响主动控制感呢？本研究通过探究情绪效价可预测性对时间捆绑效应的影响，对先进驾驶辅助系统(Advanced Driver Assistance Systems,ADAS)的交互设计具有一定的参考价值。
+
+综上，本研究聚焦于探究情绪效价可预测性对时间捆绑效应的影响。我们假设，相对于情绪效价为不可预测的情况，情绪效价为可预测时会增强时间捆绑效应。在同一个组块中，情绪效价可预测性通过操纵被试主动按键后产生不同情绪刺激的呈现概率实现。情绪效价为可预测时，组块中有大约 $80 \%$ 的概率呈现固定情绪的刺激，大约 $20 \%$ 的概率平均呈现除固定情绪外其他情绪的刺激；情绪效价为不可预测时，组块中则是平均地呈现消极、中性和积极三种情绪的刺激。此外，考虑到刺激模态有可能对实验结果造成影响(Ruess et al.,2018; Sarma & Srinivasan,2021)，为更加全面地探究情绪效价可预测性对时间捆绑效应的影响，本研究将刺激模态(听觉刺激、视觉刺激)作为被试间因素，对两组被试进行一个混合设计实验。
+
+# 2 研究方法
+
+# 2.1 被试
+
+共招募了60 名被试，其中女性30名，男性30名(年龄： $M = 2 3$ 岁， $S D = 2 . 2 5$ 岁)。被试被随机分到听觉刺激和视觉刺激两个组，每组男女比例为1：1均衡。
+
+# 2.2实验仪器与材料
+
+实验程序采用软件版本为2017.4.40cl(64-bit)的Unity进行编写，程序呈现的电脑屏幕大小为23.8英寸，分辨率为 $1 9 2 0 \times 1 0 8 0$ ，背景颜色为灰色，刷新率为 $6 0 \mathrm { H z }$ 。被试与屏幕的距离为 $6 0 \mathrm { c m }$ 。本研究采用的是Libet钟表范式。实验开始时，直径为 $6 . 6 \mathrm { c m }$ ，中心带有“ $+$ ”符号，外周标有数字以常规间隔排布(5，10，15 等)的钟面呈现在屏幕中央。钟面呈现 ${ 5 0 0 } \mathrm { m s }$ 后，以“+”符号为圆心，长度为 $3 . 2 \mathrm { c m }$ 的指针在钟面随机的一个位置出现并开始转动，转动一圈耗时 $2 5 6 0 \mathrm { m s }$ (见图1)。
+
+![](images/62d6acee24ea21053ba099c47616e38ea3dd8787dfbc60c00b0faa7d35f546ef.jpg)  
+图1实验装置示意图
+
+以往经典Libet 钟表范式大多使用 $1 0 0 \mathrm { { m s } }$ 左右的刺激(如 Antusch et al.,2019; Haggard et al.,2002; Rueset al.,2018)。但是，要研究与情绪相关的时间捆绑效应，刺激的呈现时长需要更长一些。对于听觉刺激，700ms 的呈现时长是个体能够成功识别刺激情绪的最低要求(见 Yoshie & Haggard,2013,SupplementalInformation)。对于视觉刺激,以往有研究将刺激的呈现时长设为 $4 0 0 \mathrm { { m s } }$ ,但使用的是时距估计范式(Moretonet al.,2017)。为了使被试在Libet 钟表范式下能够成功地识别刺激的情绪并顺利地进行时间点判断，本研究中听觉刺激的呈现时长设为平均 $8 4 0 \mathrm { m s }$ ，选用 Sauter 等人(2010)研究中的消极、中性和积极人声音频，通过耳机播放呈现；视觉刺激的呈现时长设为 $3 0 0 \mathrm { { m s } }$ ，选用https://image.baidu.com/中的消极、中性和积极人脸图片，以直径为 $4 . 9 \mathrm { c m }$ 的圆形在钟面中央呈现。
+
+# 2.3实验设计与程序
+
+实验为2(情绪效价可预测性：可预测、不可预测) $\times 2 \time 4$ (刺激模态：听觉刺激、视觉刺激)混合设计实验。情绪效价可预测性为被试内变量，刺激模态为被试间变量，动作捆绑和结果捆绑为因变量。
+
+(1)基线阶段：该阶段共有两个任务，分别为按键动作和出现刺激时间判断任务。在按键动作时间判断任务中，被试需要在指针开始转动后一到两圈之间(2560ms\~5120ms)进行按键动作。并且，被试不能总是选择特定的时间点进行按键，要保持一定的随机性。被试按键后指针会再转动 $1 0 0 0 \mathrm { { m s } }$ ，随后Libet 钟表消失，被试用键盘输入1\~60的整数表示主动按键时指针所在的位置。在出现刺激时间判断任务中，被试需要保持静止地等待听觉刺激或视觉刺激的出现。刺激在指针开始转动后一到两圈之间的随机时间点出现。其中，听觉刺激为呈现时长 $8 4 0 \mathrm { m s }$ 的纯音音频，视觉刺激为呈现时长 $3 0 0 \mathrm { { m s } }$ 、直径 $4 . 9 \mathrm { c m }$ 的圆形纯色图片，呈现时位于钟面中央。刺激消失后指针也会再转动 $1 0 0 0 \mathrm { { m s } }$ ，随后Libet 钟表消失，被试用键盘输入1\~60的整数表示出现刺激时指针所在的位置。为抵消可能由顺序效应带来的额外影响，任务的顺序通过ABBA抵消平衡法进行了排序。每个任务有25个实验试次，其中前4个试次为练习。基线阶段有两个任务共计 50 个试次。
+
+(2)操作阶段：该阶段和基线阶段一样，也包含按键动作时间判断任务和出现刺激时间判断任务。但在该阶段中，每个任务各有4个组块：可预测的积极刺激组块、可预测的中性刺激组块、可预测的消极刺激组块和不可预测的情绪刺激组块。实验开始后，被试需要保持一定的随机性在规定的时间范围内(2560ms\~5120ms)进行按键动作，不能选择特定的时间点进行反应。被试主动按键后 $2 5 0 \mathrm { m s }$ 会出现听觉情绪刺激或视觉情绪刺激，情绪刺激消失后指针会再转动 $1 0 0 0 \mathrm { { m s } }$ ，随后Libet 钟表消失。在按键动作时间判断任务中，被试最后需要用键盘输入1\~60的整数表示主动按键时指针所在的位置；类似地，在出现刺激时间判断任务中，被试最后也需要输入1\~60的整数表示出现刺激时指针所在的位置。按键动作到出现刺激之间的时间间隔为 $2 5 0 \mathrm { m s }$ 是时间捆绑效应研究中的常用设置(Haggard et al.,2002)。由于时间间隔的长短和变化可能会对实验结果造成额外的影响(Humphreys ＆ Buehner,2009;Ruess et al.,2017)，本实验中按键动作到出现刺激的时间间隔固定为 $2 5 0 \mathrm { { m s } }$ 。在情绪效价为可预测的组块中，大约 $80 \%$ 的概率呈现某一固定情绪(消极、中性或积极)的刺激，大约 $20 \%$ 的概率平均呈现除固定情绪外其他情绪的刺激，如在可预测的积极刺激组块中，大约 $80 \%$ 的概率呈现积极的刺激， $10 \%$ 的概率呈现中性的刺激， $10 \%$ 的概率呈现消极的刺激。而在情绪效价为不可预测的组块中，消极、中性和积极的刺激则是按照相同的概率呈现。任务的顺序通过ABBA 抵消平衡法进行了排序，组块的顺序通过拉丁方抵消平衡法进行了排序。每个任务的前 4个实验试次为练习，练习中呈现的听觉和视觉刺激与基线阶段中的一样。每个组块有21个试次，操作阶段有两个任务八个组块共计 176 个试次。基础和操作阶段程序见图 2A、B。
+
+(3)评分阶段：在完成所有时间判断任务后，被试需要对操作阶段中出现的情绪刺激进行情绪效价评分。评分使用的是9分制的Likert量表，1分表示被试对情绪刺激感到相当不愉悦(即该情绪刺激为最消极的)，9分则表示感到相当愉悦(即该情绪刺激为最积极的)。
+
+每个被试完成实验的所有阶段耗时需要大约40分钟。
+
+![](images/79a61c8183f64e0b2233d849bb29aca87e74edb05226525080f6ea4e07306f5a.jpg)  
+图2A听觉刺激组的基线和操作阶段程序示意图
+
+![](images/913a7bac40ee2364a76cedd921bbc7d357473cee453af04b16ab91960acac80a.jpg)  
+图2B视觉刺激组的基线和操作阶段程序示意图
+
+# 2.4数据分析
+
+使用的数据分析软件为 IBMSPSS Statistics 26.0。进行主要统计分析之前，距离实际发生时间超过640ms 的时间判断误差被视为极端值进行了剔除(Aarts etal.,2012)。听觉刺激组中的极端值数量占该组所有值数量的 $0 . 5 \%$ (按键动作： $0 . 2 5 \%$ ；出现刺激： $0 . 2 5 \%$ ；视觉刺激组中的极端值数量占该组所有值数量的 $0 . 7 5 \%$ (按键动作： $0 . 4 1 \%$ ；出现刺激： $0 . 3 4 \%$ 。
+
+每个实验试次中，时间判断误差的计算公式如下：
+
+$$
+t _ { e } = t _ { j } - t _ { a }
+$$
+
+其中，时间判断误差 $t _ { e }$ 是指被试输入按键动作或出现刺激时的主观判断时间值和相对应的实际时间值之间的差异， $t _ { j }$ 为主观判断时间值， $t _ { a }$ 为实际时间值。
+
+由此可得，按键动作的时间判断误差计算公式如下：
+
+出现刺激的时间判断误差计算公式如下：
+
+$$
+t _ { e } ( \mathcal { L } ) \mathcal { Z } ( \mathcal { H } / \mathcal { H } / \mathcal { H } \rangle ) = t _ { j } ( \mathcal { L } / \mathcal { H } / \mathcal { H } / \mathcal { H } ) - t _ { a } ( \mathcal { L } / \mathcal { L } / \mathcal { H } / \mathcal { H } \rangle ) \frac { \mathcal { H } } { \mathcal { H } \mathcal { H } } )
+$$
+
+接着，时间判断偏移量的计算公式如下：
+
+$$
+t _ { s } = t _ { O e } - t _ { B e }
+$$
+
+其中，时间判断偏移量 $t _ { s }$ 是指被试在操作阶段中按键动作或出现刺激时的时间判断误差与基线阶段中相对应的时间判断误差之间的差异。 $t _ { O e }$ 为操作阶段中的时间判断误差， $t _ { B e }$ 为基线阶段中的时间判断误差。
+
+由此可得，主动动作的时间判断偏移量计算公式如下：
+
+$$
+t _ { s } ( \ I \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = y } } \mathbin { \ddot { \ = z } } ) = t _ { O e } ( \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } } \mathbin { \ddot { \ = z } }
+$$
+
+动作结果的时间判断偏移量计算公式如下：
+
+$$
+t _ { s } ( \vec { z } ) / / \xi _ { \mathcal { H } } ^ { \pm \pm } \mathcal { R } ) = t _ { O e } ( . \mathcal { L } / \mathcal { H } \mathcal { H } \mathcal { H } \mathcal { \hat { H } } ) - t _ { B e } ( . \mathcal { L } / \mathcal { H } \mathcal { H } \mathcal { H } \mathcal { H } \mathcal { \hat { H } } \mathcal { \hat { H } } )
+$$
+
+其中， $t _ { s }$ (主动动作)为正时，表示被试产生了动作捆绑；否则，表示被试没有产生动作捆绑。 $t _ { s }$ （动作结果)为负时，表示被试产生了结果捆绑；否则，表示被试没有产生结果捆绑。
+
+在以往与情绪相关的Libet 钟表范式研究中(如Christensen etal.,2016;Tanaka&Kawabata,2021; Yoshie& Haggard,2013)，刺激的呈现时长都远大于 $1 0 0 \mathrm { { m s } }$ 。为了排除较长的刺激呈现时长对实验结果的影响，我们比较了以往经典 Libet 钟表范式研究中的数据(Antusch et al.,2019; Haggard et al.,2002; Ruess et al,2018)，结果发现本研究中呈现时长较长刺激的时间判断误差与呈现时长为100ms 左右刺激的时间判断误差无显著差异(详情见附录)，故本研究的实验结果基本可排除较长刺激呈现时长的影响。
+
+# 3结果分析
+
+# 3.1刺激的情绪效价有效性检验
+
+分别对听觉刺激和视觉刺激的情绪效价评分进行单因素方差分析。结果表明，情绪效价的主效应显著：听觉刺激， $F ( 2 , 8 7 ) = 3 5 . 2 6 \$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 4 5$ ；视觉刺激， $F ( 2 , 8 7 ) = 3 4 0 . 6 5$ ， $p { < } 0 . 0 0 1$ ， $\eta _ { p } ^ { 2 } = 0 . 8 9$ 事后比较表明，在听觉刺激中，消极刺激的评分 $\mathit { M } = 2 . 0 0$ ， $9 5 \%$ CI[1.44，2.56])显著低于中性 $( p = 0 . 0 0 1$ Cohen's $d = 1 . 3 1$ )和积极刺激 $( p < 0 . 0 0 1$ ，Cohen's $d = 1 . 7 9 .$ )，中性刺激的评分 $\scriptstyle ( M = 3 . 4 9$ ， $9 5 \%$ CI [2.92, 4.05])显著低于积极刺激 $\left( M = 5 . 3 7 \right.$ ， $9 5 \%$ CI[4.80, 5.93], $p < 0 . 0 0 1$ ，Cohen's $d = 1 . 0 0 \AA$ ；在视觉刺激中，消极刺激的评分 $\displaystyle ( M = 1 . 3 9$ ， $9 5 \%$ CI[1.10，1.68])显著低于中性 $( p < 0 . 0 0 1$ ，Cohen's $d = 4 . 3 2$ )和积极刺激 $( p < 0 . 0 0 1$ Cohen's $d = 6 . 4 6 )$ ，中性刺激的评分 $( M = 4 . 8 6$ ， $9 5 \%$ CI[4.57，5.16])显著低于积极刺激 $M = 6 . 7 3$ ， $9 5 \%$ CI[6.44，7.03]， $p { < } 0 . 0 0 1$ ，Cohen's $d = 1 . 9 9 .$ )。上述结果表明，本研究中使用的实验材料是有效的，听觉和视觉刺激的情绪效价都能够被成功感知且清楚区分(见表1)。
+
+表1听觉刺激和视觉刺激情绪效价评分的方差分析结果  
+
+<html><body><table><tr><td rowspan="2">实验材料</td><td colspan="3">情绪效价评分(M±SD)</td><td rowspan="2">F检验显著性</td><td rowspan="2">事后比较</td></tr><tr><td>消极</td><td>中性</td><td>积极</td></tr><tr><td>听觉刺激</td><td>2.00±1.20</td><td>3.49±1.07</td><td>5.37±2.17</td><td>p<0.001</td><td>消极<中性** 消极<积极***</td></tr><tr><td rowspan="2">视觉刺激</td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2"></td><td>消极<中性***</td></tr><tr><td>消极<积极***</td></tr><tr><td rowspan="2"></td><td rowspan="2">1.39±0.42</td><td rowspan="2">4.86±0.93</td><td rowspan="2">6.73±0.95</td><td rowspan="2">p <0.001</td><td></td></tr><tr><td>中性<积极***</td></tr></table></body></html>
+
+注：\*表示p $\cdot < 0 . 0 5$ ，\*\*表示p $< 0 . 0 1$ ，\*\*\*表示 $) < 0 . 0 0 1$ 。
+
+# 3.2情绪效价可预测性对时间捆绑效应的影响
+
+能够对动作结果的情绪效价形成预期，除了操纵呈现概率外，还需要一定数量的实验试次作为先前经验(Moore&Haggard,2008)。对于可预测组块，有4个干扰情绪刺激试次，17 个有效情绪刺激试次。在这17个有效试次中，前10个用于让被试对动作结果的情绪效价形成预期，后7个用于数据分析。即可预测的积极刺激、中性刺激和消极刺激三个组块中用于数据分析的试次共 21个。而对于不可预测组块，所有21个试次都用于分析。
+
+为检验情绪效价可预测性对时间捆绑效应的影响，以及其在听觉刺激和视觉刺激组中的表现，以情绪效价可预测性为被试内因素，以刺激模态为被试间因素，分别对动作捆绑和结果捆绑进行 $2 \times 2$ 重复测量方差分析。结果表明，在动作捆绑中，情绪效价可预测性的主效应不显著， $F ( 1 , 5 8 ) = 0 . 0 9$ ， $p = 0 . 7 6 4$ $\eta _ { p } ^ { 2 } = 0 . 0 0 2$ ；情绪效价可预测性和刺激模态的交互作用显著， $F ( 1 , 5 8 ) = 6 . 4 9$ ， $p = 0 . 0 1 4$ ， $\eta _ { p } ^ { 2 } = 0 . 1 0$ 。事后比较表明，在视觉刺激组中，情绪效价为可预测时的动作捆绑 $\scriptstyle { \mathcal { M } } = 2 8 . 0 1$ ， $9 5 \% \mathrm { C I } [ 5 . 3 8 , \ 5 0 . 6 4 ] )$ 强于不可预测时的动作捆绑 $( M = 1 6 . 0 2 \$ ， $9 5 \%$ CI[-8.58, 40.61], $p = 0 . 0 4 9$ ，Cohen's $d = 0 . 2 5$ )；而在听觉刺激组中，情绪效价为可预测时的动作捆绑 $( M = 3 2 . 2 4 \$ ， $9 5 \%$ CI[9.60，54.87])和不可预测时的动作捆绑 $\boldsymbol { ( M = 4 1 . 6 9 }$ ，$9 5 \%$ CI[17.10,66.29], $\begin{array} { r } { p = 0 . 1 1 8 } \end{array}$ ，Cohen's $d = 0 . 6 3$ )并无显著差异。在结果捆绑中，情绪效价可预测性的主效应显著， $F ( 1 , 5 8 ) = 4 . 1 7$ ， $\begin{array} { r } { p = 0 . 0 4 6 } \end{array}$ ， $\eta _ { p } ^ { 2 } = 0 . 0 7$ ，即情绪效价为可预测时的结果捆绑 $\scriptstyle ( M = - 4 6 . 2 8$ ， $9 5 \%$ CI[-72.04, $- 2 0 . 5 2 ] \mathrm { }$ 强于不可预测时的结果捆绑 $\scriptstyle ( M = - 3 3 . 5 9$ ， $9 5 \%$ CI[-58.13，-9.05], $\scriptstyle p = 0 . 0 4 6$ ， Cohen's（2 $d = 0 . 1 3 )$ ；情绪效价可预测性和刺激模态的交互作用不显著， $F ( 1 , 5 8 ) = 0 . 1 0 \$ ， $ { p } = 0 . 7 5 4$ ， $\eta _ { p } ^ { 2 } = 0 . 0 0 2$ 。以上结果表明，情绪效价为可预测时，无论主动按键后产生听觉刺激还是视觉刺激，结果捆绑都出现了增强。而动作捆绑仅在主动按键后产生视觉刺激才出现增强(见图 3)。
+
+图3情绪效价可预测性对时间捆绑效应的影响表现  
+![](images/54f069a59b6058f2cb57b7af3b5ee53464248f9c8271ce39e7dc82216199f434.jpg)  
+注：\*表示p $< 0 . 0 5$ ， $^ { * * }$ 表示p $< 0 . 0 1$ ， $\ast \ast \ast$ 表示p $\cdot < 0 . 0 0 1$ 。误差棒代表标准误。
+
+# 4讨论
+
+综合本研究结果，动作结果的情绪效价为可预测时会增强时间捆绑效应。其中，结果捆绑在主动按键后产生听觉刺激或视觉刺激都出现了增强，而动作捆绑仅在产生视觉刺激时才出现增强。经计算，本研究主要结果的统计效力都处于0.8以上，表明本研究的主要结果具有较高的可靠性。
+
+在关于情绪效价和时间捆绑效应关系的讨论上，至今未有一致的结果(Kaiser etal.,2021)。例如,Yoshie和 Haggard(2013)的研究表明情绪效价影响时间捆绑效应，Moreton 等人(2017)的研究却表明情绪效价不影响时间捆绑效应。尽管有研究发现情绪效价对时间捆绑效应的不一致影响是由于情绪效价可预测性的调节作用，情绪效价仅在其为可预测的情况下才会对时间捆绑效应产生影响(Yoshie &Haggard,2017)，但有研究发现情绪效价为不可预测时也会影响时间捆绑效应(Christensen et al.,2016)。这意味着在情绪效价和情绪效价可预测性的交互作用中还存在其他的干扰因素。基于前人的研究，本研究单独考察情绪效价可预测性对时间捆绑效应的影响，发现情绪效价可预测性本身就能影响时间捆绑效应，这表明情绪效价可预测性不仅是情绪效价和时间捆绑效应关系中的一个调节因素，还是时间捆绑效应的一个直接影响因素。
+
+个体对动作结果的归因差异可能是情绪效价可预测性影响时间捆绑效应的原因。以往的研究表明，时间捆绑效应会受到动作结果是否产生的概率信息影响(Moore &Haggard,2008;Moore et al.,2009)，但不会受具体哪种动作结果产生的概率信息影响(Desantis et al.,2012; Hughes et al.,2013)。Haering 和 Kiesel(2014)认为以上差异在于概率信息是否会影响个体对动作结果由主动动作产生的归因推理。他们表示主动动作后产生哪种动作结果的概率信息并不会破坏主动动作和动作结果之间的因果关系，动作结果的产生依然能够被归因到个体的主动动作上。但是，当一定产生的动作结果具有不同的情绪效价时，这个归因推理的过程就会受到影响(Gentsch& Synofzik,2014)。在本研究中，情绪效价为可预测时，个体更倾向于认为动作结果是由自己的动作产生的，拥有更强的主动控制感体验，时间捆绑效应表现得更强。
+
+本研究的结果还发现情绪效价可预测性对动作捆绑和结果捆绑的影响存在差异。情绪效价为可预测时，无论主动按键后产生的是听觉刺激还是视觉刺激，结果捆绑的表现都要更强；而动作捆绑仅在产生视觉刺激时才表现得更强。以上结果不仅进一步证实了动作捆绑和结果捆绑的产生机制不同(如 Tanaka etal,2019;Ton etal.,2021; Waszak et al.,2012; Wolpe et al.,2013)，与动作捆绑相比，结果捆绑的变化更依赖于可预测性(Tanaka& Kawabata,2021)，而且为刺激模态会影响时间捆绑效应提供了更多的证据支撑(Ruesset al.,2018)，尤其是它在情绪效价和时间捆绑效应关系中的潜在影响(Sarma＆ Srinivasan,2021)。
+
+本研究表明，情绪效价为可预测时会增强主动控制感；这种增强作用在动作感知和结果感知中还存在着刺激模态差异。如果在先进驾驶辅助系统中需要使用情绪刺激来增强主动控制感，建议尽可能地保持其情绪效价的一致性，比如仅使用积极或消极这一种情绪效价的刺激作为反馈。此外，建议在车辆操控过程中使用视觉刺激，在车辆监督过程中使用视听觉组合刺激，以提高增强主动控制感的效率。
+
+为了能够分别得到动作捆绑和结果捆绑的变化，更加全面地考察情绪效价可预测性对时间捆绑效应的影响，本研究使用了Libet钟表范式。虽然按键动作是被广泛使用于心理学、认知神经科学、计算机科学等领域的动作反应方式(吴迪 等,2019)，但是在有关主动控制感的人机交互研究中，连续的运动控制任务可能是更好的实验设置。其中，相比于Libet 钟表范式，时距估计范式更适用于连续的运动控制任务(Wen etal.,2017)。未来研究可选择更适用于人机交互方面研究的任务与范式。
+
+# 5结论
+
+(1)动作结果的情绪效价为可预测时会增强时间捆绑效应；
+
+(2)情绪效价可预测性对动作捆绑和结果捆绑的影响存在差异。具体来说，情绪效价为可预测时，结果捆绑在主动按键后产生听觉刺激或视觉刺激都出现了增强，而动作捆绑仅在产生视觉刺激时才出现增强。
+
+参考文献   
+AtH predictsreadtssece).s:/   
+An,CLLil Psychological Science,44(5),1273-1279. htps:/doi.org/10.16719/j.cnki.1671-6981.20210533   
+[安灿翎，李力红，田昊月，李飞，金丹，布宇博，曹玲珊.(2021).施动感双层结构的发展．心理科学,44(5),1273-1279]   
+Antusch.atsstes)etetialrthosin https://doi.org/10.3389/fpsyg.2019.01124   
+Barlas,ZHE)ede bindingandfeelingsofcontrol.ExperimentalBrainResearch,36(1),12939.htps://oiorg/10.0/s02-011   
+Berberian.   
+Chistese.d Consciousness and Cognition,43,1-10. https://doi.org/10.1016/j.concog.2016.02.016   
+Desatis,A.,k)teasecdot e29557. htps://doi.org/10.1371/journal.pone.0029557   
+itrich,.c,s) Internationalconferenceonpersuasivetechnology(p.88-11).Springer,Cham.hps:/doog/0.0/78--03-946068   
+Gallgher，S.()hilosoicaloceptiosofteselfmplicatiosforcogitivescien.TredsinCogitiveciences4()41. https://doi.0rg/10.1016/s1364-6613(99)01417-5   
+Gentsch，A，&Synofzik，M.(2014).Afectivecoding:ThemotionaldimensionofagencyFrontersinHumanNeuroscience，8，608. https://doi.org/10.3389/fnhum.2014.00608   
+Hering,C&eaeptfic. https://doi.org/10.1016/j.actpsy.2014.07.015   
+Haggard,P.().eegnb.NeisNuoee,(4).s://4   
+ad   
+Hughes,Gk identityprediction,ndmotorpredictionPsychologicalBulltin,39()33-151.htps:/irg/107/56   
+Hupheys,Ge.easteoeof Human Perceptionand Performance,35(5),1542-1549.ttps://oiorg/10.1037/a0014492   
+KaiseJ regulation: Areview.Frontiers in Psychology,12,716220. https:/doi.org/10.3389/fpsyg.2021.716220   
+LierickHotects 643.https://doi.org/10.3389/fnhum.2014.00643   
+Madary(tec)   
+Moore，J，&Hagard，P.(2008)Awarenessofaction:Inferenceandprediction.ConsciousnessandCognition，17(1)，36144. https://doi.org/10.1016/j.concog.2006.12.004   
+MreJds/   
+ed https://doi.org/10.1016/j.cognition.2008.11.006   
+MoreJ.W.，&Obh,S..(o)Intentioalbindingndheensefgency:Areview.CosciousnessandCognition)46561. https://doi.org/10.1016/j.concog.2011.12.002   
+oreton,J 49,25-34. https://doi.org/10.1016/j.concog.2016.12.008   
+Rues,e https://doi.0rg/10.3758/s13414-017-1292-y   
+Rues,Msel)teoadngalttioetioi https://doi.0rg/10.3758/s13414-017-1479-2   
+SamaD&gocdi Consciousness andCognition,92,103136. htps:/oorg/10.116/j.concog2021.103136   
+eld 438. https://doi.0rg/10.1080/07370024.2020.1724790   
+TanakaT&KawbataH)seesulatedbteractictieedpcabil Psychology,40(4),1795-1806.htps:/doi.0rg/10.1007/s12144-018-0121-3   
+TaakaTtsbcd and meta-analysisoftemporalbinding.Timing&TimePerception,7(3),189-218.htps://oi.org/10.1163/22134468-20191150   
+TianHY https://doi.0rg/10.3724/SP.J.1042.2018.00872   
+[田昊月，李力红，徐喆,李飞，金丹，安灿翎.(2018).最小自我中的施动感．心理科学进展,26(5),872-885]   
+o. Consciousness and Cognition, 96,103219. https://doi.org/10.1016/j.concog.2021.103219   
+WaszakF.di, Biobehavioral Reviews,36(2),943959.hps:/diorg/10.1016/j.neubiorev211..004   
+Wen，W.(2019).Doesdelayinfedbackdiminishsenseofagency?Areview.ConsciousnessandCognition，73，102759. https://doi.rg/10.1016/j.concog.2019.05.007   
+WenW.&)ue https://doiorg/10.1038/s44159-022-00030-6   
+Wen，W.，Kuroki,Y，&Asama，H.(2019).Thesenseofagencyindrivingautomation.FrontiersinPsychology，10,2691. https://doi.org/10.3389/fpsyg.2019.02691   
+Wen,W, 89-98. https://doi.org/10.1016/j.concog.2017.06.008   
+Wlpe.Hd, 229(3),467-474. htps://doi.org/10.1007/s00221-013-3419-2   
+Wu,D.Gu,JoLcd bindingfectforolutaryctiAdanesinsyhogialiec,(5),0410.ps:/r./sp.490   
+[吴迪，顾晶金，李明，张淼，张明，赵科，傅小兰.(2019).动作的主动控制感与因果关系的主动控制感：主动动作时间压缩效应的产生机制．心理科 学进展,27(5),804-810]   
+Yoshied)tiea https://doi.org/10.1016/j.cub.2013.08.034   
+Yoshie,M&gard.)fetsofotioaleseogecedictieodelientfieprs. https://doi0rg/10.1038/s41598-017-08803-3   
+Zhang,M.uDa,)sssecl Science,26(10),1787-1793. htps://doi.org/10.3724/sp.J.1042.2018.01787   
+[张淼，吴迪,李明，凌懿白，张明，赵科.(2018).主动控制感的测量及认知神经机制．心理科学进展,26(10),1787-1793]
+
+# Effect of predictability of emotional valence on temporal binding
+
+HUANG Xinjie1,2, ZHANG Chi1, WAN Huagen1, ZHANG Lingcong²
+
+('CenterforPsychological Science,Zhejiang University,Hangzhou 31oo58,China) (School of Educational Science,Minnan Normal University,Zhangzhou 363ooo China)
+
+# Abstract
+
+The sense ofagency refers to the experience of"Iam the initiator ofactions,controlling the external world". Temporal binding, which is related to the sense of agency,refers to the subjective compresson of the perceived time interval between voluntary action and its action outcome.Previous studies have explored the effect of emotional valence on temporal binding by setting the predictability of emotional valence as the control variable. However, the effect ofthe predictability of emotional valence on temporal binding remains unknown.This study explored the efect of the predictability of emotional valence of action outcomes on temporal binding,based on the hypothesis that temporal binding is stronger when emotional valence is more predictable.
+
+This study used Libet's clock paradigm to investigate the eect of the predictability of emotional valence of action outcomes on temporal binding.A 2 (predictability of emotional valence，within: predictable vs. unpredictable) $\times ~ 2$ (stimulus modality, between: auditory vs. visual) mixed design was employed. A total of 60 participants were randomly assigned to one of two between-subject conditions,resulting in 30 in the auditory group and 3O in the visual group. There were two main phases of the study.During the baseline phase,the participants in the two groups were asked to either pressthe keyata freelychosen point from2,560ms to 5,120ms or perceive the auditory/visual stimulus randomly from 2,560ms to 5,120ms after the trial start.Next,they were asked to estimate the position ofthe clock hand at the onset of either the key-pressor the stimulus.During the operant phase, participants were also asked to press the keyat a freely chosen point from 2,560ms to 5,120ms. The key-press would cause the auditory/visual emotional outcome (negative, neutral or positive) follwing a delay duration of 250ms.Next,they were asked to estimate the position of the clock hand at the onset of either the key-press or the emotional outcome.When the emotional valence was predictable,there would be a fixed emotional outcome to the key-press (negative, neutral or positive） in $80 \%$ of trials and the other remaining emotional outcome in $20 \%$ of trials. When the emotional valence was unpredictable, the key-press would result in one of the three emotional outcomes.
+
+The results showed that temporal binding was enhanced when the emotional valence was predictable. Furthermore, when emotional valence was predictable,the outcome binding was stronger in both the auditory and visual groups, whereas the action binding was stronger only in the visual group.
+
+In conclusion, the predictability of emotional valence is an important factor afecting temporal binding.The predictability of emotional valence can enhance outcome binding in both auditory and visual modalities,but can only enhance action binding in the visual modality. This may be due to the difference between action and outcome binding mechanisms or between the timing systems of auditory and visual stimuli.These results have an important implication for the interactive design of Advanced Driver Assistance Systems (ADAS） since temporal binding is the main index of the sense of agency.
+
+Key wordspredictability ofemotional valence,temporal binding, stimulus modality,sense of agency,humancomputer interaction, advanced driver assistance systems
+
+# 附录：
+
+本研究中听觉刺激单独呈现时的时间判断误差与 Haggard 等人(2002)和 Antusch 等人(2019)研究中对应时间判断误差的独立样本 $\mathbf { \chi } _ { t }$ 检验结果发现：与Haggard 等人(2002)的比较无显著差异， $t ( 3 7 ) = - 0 . 7 2$ $\begin{array} { r } { p = 0 . 4 7 9 } \end{array}$ ,Cohen's $d = 0 . 2 9$ ；与 Antusch 等人(2019)的比较也无显著差异， $t ( 6 4 ) = - 1 . 0 7 , p = 0 . 2 8 7$ ,Cohen's$d = 0 . 2 6$ 。本研究中视觉刺激单独呈现时的时间判断误差与Ruess 等人(2018)研究中对应时间判断误差的独立样本 $t$ 检验结果无显著差异， $t ( 7 6 ) = - 0 . 8 1 , p = 0 . 4 2 2$ ,Cohen's $d = 0 . 1 8$ 。以上结果表明，对刺激的时间判断不受呈现时长的影响，详细数据见附表1。
+
+附表1不同刺激呈现时长下刺激的时间判断误差及其标准差  
+
+<html><body><table><tr><td rowspan="2">刺激呈现时长</td><td rowspan="2">样本量</td><td colspan="2">时间判断误差(ms)</td></tr><tr><td>M</td><td>SD</td></tr><tr><td>听觉刺激</td><td></td><td></td><td></td></tr><tr><td>100ms，Haggard 等人(2002)</td><td>9</td><td>15</td><td>72</td></tr><tr><td>100ms，Antusch 等人(2019)</td><td>36</td><td>19.46</td><td>58.37</td></tr><tr><td>840ms，本研究</td><td>30</td><td>40.53</td><td>99.05</td></tr><tr><td>视觉刺激</td><td></td><td></td><td></td></tr><tr><td>150ms，Ruess 等人(2018)</td><td>48</td><td>21</td><td>65.47</td></tr><tr><td>300ms，本研究</td><td>30</td><td>36.01</td><td>98.81</td></tr></table></body></html>

@@ -1,0 +1,349 @@
+[
+    {
+        "type": "text",
+        "text": "舞动治疗：一种自下而上的精神分裂症干预探索\\*1",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李谷静」张丽蓉²米莉’贺辉’卢竟」　罗程」尧德中‘(电子科技大学生命科学与技术学院，成都611731）（电子科技大学文化素质教育中心，成都611731)（成都市第四人民医院，成都610036）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要皮层-基底节-丘脑网络与脑岛网络属于感觉运动相关网络，这两个网络的改变可能是导致精神分裂症的重要原因。目前主流研究与临床干预聚焦于患者的高级脑区异常，对感觉运动系统的关注不足。对健康个体的研究发现舞蹈训练对感觉运动相关脑网络具有显著提升作用，并自下而上地促进高级功能。以上研究提示舞蹈训练可能是干预精神分裂症，改善其认知功能的新途径。本研究拟借助多模态磁共振成像技术，以精神分裂症感觉运动相关网络为着力点，通过分析精神分裂症患者在舞蹈训练前后的脑影像、临床及认知行为的改变，揭示舞蹈训练临床干预的神经机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词静息态脑网络，精神分裂症，舞蹈训练，感觉运动相关脑网络分类号B845.1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.问题提出",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "精神分裂症（Schizophrenia）是一种重性精神疾病，世卫组织2004 年调查显示全球发病率约为 $4 \\text{‰}$ (World Health Organization,2004)，我国确诊病例约 780 万(管丽丽 等,2012)。该病的复发率及致残率较高，完全痊愈率低于 $30 \\%$ (Harrison et al., 2001; Robinson et al.)2004)，因此对社会及家庭造成极大负担。目前传统药物治疗对精神分裂症患者的阳性症状效果明显，但对其认知障碍的恢复收效甚微，急需探索有效促进患者认知功能恢复的创新治疗手段，真正帮助患者回归社会(Insel,2010)。以往对患者认知障碍的研究集中于高级功能脑区，自上而下地解释精神分裂的认知加工缺陷。其临床干预手段多集中于药物治疗对高级脑功能的效用(Miyamoto etal.,2005)。然而，近期大量研究指出感知觉运动加工障碍也是精神分裂症的核心特征之一，并自下而上导致认知加工障碍(Kaufmann etal.,2015)。精神分裂症患者在视、听、触、嗅、动等多种感觉运动通道的信息加工表现异常，这些内部异常表征进一步造成其认知功能和行为能力的缺陷。因此影响并改善精神分裂患者初级感觉运动的内部表征，提高其对感觉运动信息的整合处理能力，有可能改善患者的认知功能障碍，为治疗精神分裂症提供新思路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "舞蹈训练是一种复杂技艺练习过程，需要机体对各类感觉运动信息进行高效处理和整合，尤其需要通过动觉信息与其他感觉协同和连结，将内部感知与外部世界联系起来，从而促进认知的产生与修正。动觉能力对个体来说是一种基本而强大的功能，在整个生命发展历程中都能够帮助有机体适应外界环境，进行内外信息的交互。在个体发育的前语言阶段，认知的发生主要依靠感觉与动觉，即使个体随着发展逐渐依靠语言进行学习与交流，感觉运动能力仍然是个体认识外界事物的一种基本能力(Mochizuki-Kawai etal.,2004)。因此足见动觉能力对个体认知发生发展的重要影响。研究表明长期舞蹈训练能够提高感觉运动系统神经整合水平，提升个体的动觉能力，进而影响个体的高级认知功能。舞蹈训练对初级感觉运动能力的直接影响，及其具有的高级认知提升价值，提示我们它有可能是一种良好的干预精神分裂症的途径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2．国内外研究现状",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1感觉运动信息处理机制与精神分裂症",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于精神分裂症新的病因学模型以及大量精神分裂症的相关研究发现，自下而上的感觉运动加工障碍可能是致其认知功能缺陷的重要机制。疾病的系列临床症状可能反应了一个累积衰退和破坏的结果，即是感知觉信息的处理异常以及高级过程与初级过程的失整合共同导致了精神分裂症的系列症状(Hugdahl,2009)。感觉运动信息的筛选、过滤和输入机制的失调，可能是精神分裂症症状和认知受损的致病因素(Geyer et al.,2001)。患者常常因为大脑无法进行无关信息的过滤和筛选，抑制功能受损，导致过量的信息涌入意识，进而出现各种异常感知觉体验，最终影响认知功能。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1）感觉运动信息加工障碍",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "精神分裂症皮层-基底节-丘脑网络的病理机制研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人类及动物研究均表明皮层（额叶)-基底节-丘脑网络高度参与感觉运动信息的门控过程，也即是对输入的感觉运动信息进行处理过滤，进一步自下而上为高级信息处理提供基础(Hazlett etal.,2001)。此回路内丘脑扮演整合中枢的作用，它既接收感觉运动信息并进一步传送至大脑皮层，此外也接收来自小脑的信息，并将来自小脑的信息传递给基底节，基底节进一步把信息返回至前运动皮层并作出动作计划，丘脑的传入和传出神经纤维将皮层-基底节-丘脑连成一个神经回路(梅锦荣,2011; Zikopoulos& Barbas,2007)。此外丘脑也是多巴胺能主要受体，大部分丘脑核团接收多巴胺能激动并投射到前额叶皮层(Riecketal.,2004)。精神分裂患者在这一回路中存在异常，并导致其无法整合感觉运动加工与认知加工过程，从而产生系列临床症状(Kumari etal.,2003)。如有研究发现患者的感觉运动皮层、辅助运动皮层出现功能降低(Schroder etal.,1995)，其基底节功能与结构的改变(Heckers,1997)。Konick 等人的荟萃分析则发现在近500名精神分裂患者的各类研究中，绝大多数结果显示患者的丘脑体积减少(Konick& Friedman,2001)。一些精神分裂症阳性症状，如幻听、幻视等也和丘脑核团功能降低相关(Noda et al.,1993)。研究进一步发现精神分裂症的皮层-基底节-丘脑网络内胶质增生，导致信息传递功能降低(Heckers,1997)，患者在此网络内的低激活程度与其较差的PPI任务表现显著相关(Hazlett etal.,2008)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "精神分裂症脑岛网络的病理机制研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "凸显网络参与人类感觉运动信息处理的过滤与加工。其中脑岛是机体处理及整合内外感觉运动信息的一个重要节点，它对相关信息进行凸显性分配，并与注意的信息选择密切相关(Craig,2009)。首先，来自身体内部的体感信号以及来自外部的感觉运动信号在后脑岛进行初级加工，形成本体感受并进一步维持个体内部稳态(Craig,2009)。之后，后脑岛将感觉运动信息进一步传递到前脑岛，在这里前脑岛联合来自杏仁核、前扣带、腹侧纹状体、腹侧前额叶的相关信号（情感的、认知的、动机的），进一步对来自后脑岛的感觉运动信号进行表征(Tian&Zalesky,2018)。脑岛网络犹如一个感觉运动信息的高级筛选器，会在整合来自情绪、动机、认知网络信息基础上，对加工的感觉运动信息赋予不同的显著性和意义，让机体有选择性地注意加工信息，进而影响情绪、认知等高级功能(Namkung etal.,2017; Singer et al.2004)，产生具有个体主观性的认知和感觉，如\"自我\"感(Uddin,2015)。因此，通过脑岛对内外感觉运动信息的凸显性过滤，个体能够对动机相关或具有生存意义的刺激进行注意处理，能够从信息的整合与凸显中区分自我与他人，形成自我概念。关于精神分裂症的一种假设认为，该病是大脑无法将有关自我的感觉运动刺激信息凸显选择出来，无法区分\"我”与\"非我”的信息，进而导致幻觉、妄想与自知力障碍等(Wylie& Tregellas,2010)。这种信息凸显的异常，还将影响中央执行网络与默认模式网络间的切换与调控，并进一步引发注意力、工作记忆缺陷(Menon&Uddin,2010)。相关研究均发现精神分裂症患者脑岛结构与功能的异常，揭示了精神分裂症脑岛的病理机制，如因脑岛与杏仁核、前额叶、前扣带区域的连接异常，导致患者对情绪表情（尤其是消极表情）的识别困难(Leppanenetal.,2008)与语言情绪分辨障碍(Bozikas etal.,2006)；由于后脑岛对来自丘脑及感觉皮层信息的加工不足，以及前脑岛与边缘系统及额叶连接受损，共同导致患者痛觉感受异常(Singh etal.,2006)、产生幻觉相关的融入感(Modinos etal.,2009)等，并进一步与其临床指标相关(Shepherd etal.,2012)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）精神分裂患者的脑可塑性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最新研究指出精神分裂症是一种由多个脑回路改变而引发的系列神经发展性精神障碍(Insel,2010)。随着脑内神经突触发生可塑性改变，各神经回路的协调调控发生改变，同步化出现异常，脑内的功能连接与结构出现改变，因而产生系列的精神症状(Uhlhaas& Singer,2010)。那么精神分裂患者的脑是否还存在可塑性变化的可能，其大脑能否对特定的治疗手段产生可塑性改变，从而为症状改善提供可能性？目前已有一些研究获得了进展。Pajonk等人对精神分裂症患者进行有氧训练，发现其海马灰质体积显著增大，认知功能改善(Pajonket al.,2010)。Eack 等人则通过认知训练，缓解精神分裂症患者灰质体积的进展性缩小(Eack etal.,2010)。作者所在课题组通过音乐干预精神分裂患者，有效提升了患者们的脑岛功能，其临床症状也出现显著缓解(He etal.,2017)。这些研究提示精神分裂症患者的大脑仍具有神经可塑性，通过训练与干预可产生正向可塑性改变，进而改善其认知功能与临床症状。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综上所述，感觉运动系统信息加工的缺陷可能是导致精神分裂症临床症状与认知功能障碍的重要原因。具体而言，皮层-基底节-丘脑网络与脑岛网络可能是造成这种加工缺陷的主要网络。因此，影响和改善精神分裂症患者的这些网络有望缓解其临床症状及认知功能障碍。然而，目前主流研究与临床干预仍关注患者的高级脑区的异常，对初级感觉运动系统的研究与干预不足。研究证明精神分裂患者的脑仍存在可塑性，有可能通过外部刺激与训练发生改变。因此，本研究通过改善精神分裂患者的感觉运动相关网络，有可能改善其整体大脑功能，并最终帮助患者提升相关认知功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2舞蹈训练的潜在治疗价值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "舞蹈训练是一种高度复杂的感觉运动过程，区别于日常行为与体育运动。大量研究表明，无论是系统长期的舞蹈训练还是间断业余的舞蹈训练，都可能导致个体外显行为能力的显著提升与改变，如专业舞者表现出高超的身体姿态控制(Rein etal.,2011)，短期训练就可导致更优的平衡力(Ricotti&Ravaschio,2011)，更为出色的身体动作协调能力(Golomer et al.,2009)，更优异的空间及节奏感知力(Stevens et al.,2011)，更显著的空间想象力(Golomer et al,2008)等。以上系列行为能力等改变涉及脑对身体空间运动位置的控制、舞蹈动作与音乐节奏的同步、动作情感的表达等。在此过程中舞者大脑需要反复整合多种感知觉、认知及动作反馈信号，因此舞者的感觉运动相关脑网络在舞蹈训练中不断地被强化。大量研究均发现舞蹈训练对大脑具有显著的可塑性影响，其变化主要集中于感觉运动相关脑网络，并通过提升感觉运动系统的整合水平进而影响高级脑功能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）舞蹈训练对皮层-基底节-丘脑网络的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "舞蹈训练的脑可塑性影响与皮层-基底节-丘脑网络高度相关。该网络负责加工整合各类感觉运动信息，促成流畅动作的执行以及产生具有目标导向的行为，并参与调控动机与情绪对行为的驱动(Haber&Calzavara,2009)。长期舞蹈训练能够激活这一网络内更为广泛的区域(Brown etal.,2006)，可以提升感觉运动皮层对熟悉动作的反应(Calvo-Merino etal.,2005)，同时促进感觉运动网络新反应模式的形成(Ono etal.,2014)，并能有效提高丘脑-皮层的功能连接，使受训者具有更高效的自下而上的前额叶调控(Burzynska etal.,2017)。舞蹈当中具有情感性的动作则能更大程度地影响感觉运动网络(Cruz-Garza etal.,2014)。作者前期的研究工作也发现舞蹈训练对大脑皮层-基底节网络的功能连接具有增强作用(Lietal.,2015)。除了功能增强，舞蹈训练还引起该网络内结构的改变，表现出多个区域大脑灰质与白质体积的降低(Hanggietal.,2010)；感觉运动白质纤维束结构改变，连接到更为广泛的感觉运动皮层，连接更为长程(Giacosaetal.,2016)。另一些研究则发现该网络内与舞蹈训练特异性相关的局部脑区灰质体积增大，如与动-听整合相关的颞上回(Karpati et al.,2017)、感觉运动皮层表征足部的区域(Jessica etal.,2016)等。以上健康舞蹈受训者脑内皮层-基底节回路的变化，均与其外显的动觉能力相关，反应了较高的感觉运动信息处理水平。因此，基于已有舞蹈训练的在健康群体中的脑可塑性证据，以及精神分裂症患者大脑仍存在可变化的潜力，我们推测舞蹈训练也有可能对精神分裂患者的皮层-基底节-丘脑网络产生类似效应，进而改善精神分裂患者感觉运动信息处理缺陷，起到干预治疗作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（2）舞蹈训练对脑岛网络的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "相关研究发现舞蹈训练会激活脑岛相关网络(Zabicki etal.,2016)。长期舞蹈训练将增强以脑岛为节点的脑岛网络功能，促进感觉运动信息筛选加工水平,进一步影响脑的高级功能，出现转移效应（Transfer Effect）。如长期接受舞蹈训练的舞者表现出更好的工作记忆(Cortese&Rossi-Armaud,2010)、创造力(Fink etal.,2009)等。笔者的研究也有类似发现：舞蹈家脑岛与全脑的功能连接增强，对感觉运动信息凸显选择更高效；尤其是舞蹈训练改变了后脑岛的功能连接模式，使其整合感觉信息的处理能力更强，以上增强的脑岛网络功能进一步影响大脑的高级功能，个体表现出更高的共情能力(Gujing etal.,2019)。基于上述研究结果，我们推断对精神分裂患者实施舞蹈训练，也可能影响和改善患者的高级感觉运动信息处理系统（脑岛网络）功能，进而影响高级脑功能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，舞蹈训练是一种高效的多维度感觉运动刺激手段，能够特异性地使脑内皮层-基底节-丘脑网络与脑岛网络产生广泛的结构与功能改变，从而进一步影响受训者的高级认知功能。另一方面，精神分裂症患者的以上两个感觉运动相关网络存在广泛病理性改变，因此舞蹈训练有可能改善患者的以上两个网络，从而提升其感觉运动信息的处理能力与整合水平，为精神分裂症的治疗提供新途径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3．研究构想",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究关注精神分裂症的感觉运动相关脑网络（皮层-基底节-丘脑网络与脑岛网络），基于舞蹈训练在健康人当中对以上网络的可塑性影响，拟对精神分裂症患者施以舞蹈训练，提升其感觉运动信息加工水平，从而改善患者认知功能控制临床症状。本研究采用静息态fMRI、高分辨结构MRI(sMRI)和弥散张量成像(DTI)手段，结合临床症状评估及认知功能评估，从脑成像、临床和心理多个方面综合分析精神分裂症感觉运动相关脑网络与临床心理数据间的关联，描绘患者在舞蹈训练前后的脑功能与结构网络动态变化（见图1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9741384fc85480ccf505d49854132df70ad7b87cfd9973415940ae9b0acb5aa0.jpg",
+        "img_caption": [
+            "图1.舞蹈训练对精神分裂症感觉运动相关脑网络影响的研究构想示意图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1研究一 精神分裂症患者多模态数据的获得",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了被试的基本信息（性别、年龄、婚姻状况、受教育年限、用药情况、首发年龄、病程等）与脑成像数据外，本研究将在舞蹈训练干预前后，由精神科医师运用阳性与阴性症状量表（PANSS）对患者临床症状进行评估。针对精神分裂症患者的认知功能，我们将使用“认知功能成套测验\"(MATRICS Consensus Cognitive Battery，MCCB)测评系统。该成套测验由美国国立精神卫生研究所联合美国食品药品管理局（FDA）发起，对认知损害进行全面的评价，适用于精神类疾病所致认知功能障碍患者的认知能力评估。目前MCCB是精神分裂认知疗效评定的标准化测量工具，其重测信度高、练习效应较少、与精神分裂症患者功能相关度高，实用性和耐受性均非常好(Marder&Fenton,2004)。我国 2008年引入，并进一步建立了MCCB的国内常模数据库，中文版测验为9个分测验，代表七个认知领域，具体为信息处理速度、注意/警觉性、工作记忆、词语学习、视觉学习、推理及问题解决和社会认知。其次，对于被试舞蹈训练的效果评估，本研究在训练干预前后，邀请专业舞蹈训练教师，根据舞蹈方案设计思路，以及舞蹈训练实际，选取音乐节奏感、平衡力、动作协调性、动作完成度四大指标作为评估舞蹈训练效果的行为学指标，来评估舞蹈训练的效果。根据综合评定得分，分为训练合格者和不合格者，合格者的相关数据进入研究分析。以上获取的各类数据获将进一步整合到脑成像的数据分析中，最终实现多模态的综合分析。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2研究二精神分裂症患者舞蹈训练方案的拟定",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "相关研究指出，精分患者的大脑仍具有可塑性，无论是哪种形式的干预都会对脑产生可塑性影响。如进行为期6个月的有氧运动（骑自行车）增强了精分患者白质纤维的完整性(Svatkovaetal.,2015)，进行为期三个月每周3次的太极训练后，精神分裂症病人的心理生理指标发生显著改善(Ho etal.,2016)。此外，还有荟萃研究指出，无论是针对精神分裂病人的瑜伽训练、有氧操还是其他有氧运动，其持续时间一般在 $8 { \\sim } 1 2$ 周之间，每周训练频在2\\~4次之间。其结果大都报告精神分裂患者的认知功能发生相应改变(Firth etal.,2017)。这些研究所采用的形式和舞蹈训练有一定的相似性，都有身体的运动，感觉运动的训练，虽然没有关于精神分裂病人舞蹈训练与脑可塑性的直接证据，但是根据以上相关研究，我们设定了本研究的训练时间和频率。考虑到精神分裂症患者的症状严重程度以及医院的实际条件，本研究的精神分裂症被试进行为期12周，每周2次，每次约1小时的舞蹈训练。每次课程分为热身(约15分钟)，动作学习与训练(约30分钟)，整合阶段(约15分钟)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "上课时，重点组织成员进行舞蹈动作观察与动作模仿，强调个体对舞蹈动作的掌握以及对身体动作的感知。训练时被试以个体为单位进行，不安排被试间的舞蹈互动，亦不安排他们间的社交互动，从而尽量避免训练中的人际社交影响。训练分为三个阶段。第一阶段为入门初级阶段，持续3周，主要训练被试的舞蹈动作感知、定位、协调、节奏等能力，训练被试习得基本舞蹈动作，如基本的呼吸训练、身体位置感知训练、舞步节奏训练、动作柔韧性训练等。第二阶段为巩固期，持续6周，主要在前一个阶段基础上，增加舞蹈动作的复杂度(动作的组合性与变化性)，但又可保障被试能够胜任。在此阶段开始训练被试掌握基本舞蹈动作单元(每个单元两个八拍)，总共学习 $^ { 6 \\sim 8 }$ 个舞蹈动作单元。第三阶段为整合阶段，持续3周，训练被试对动作的准确性协调性进行修正，要求被试对舞蹈动作进行整合记忆，让被试能够尽其最大可能独立完成所学全套舞蹈动作。此外，训练组在每周两次训练课程之外，安排所有训练组被试每周进行一次至二次30分钟的单人跳舞机训练。舞蹈专业训练由一名高校舞蹈教师及一名具有舞动治疗训练背景的注册系统心理师共同完成。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3研究三舞蹈训练对精神分裂症患者影响的整合分析研究",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究纳入3组被试，分别为：精神分裂症舞蹈干预组，精神分裂症对照组，健康对照组。采集三组被试基线状态下多模态脑影像数据、行为心理数据、临床数据。同时采集精神分裂症舞蹈干预组和精神分裂症对照组干预后的相关数据，见图2。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c8a1f54c9c7bca0f00488c8e7e9301ee026644151f3567c8955f2525a04ca04.jpg",
+        "img_caption": [
+            "图2.舞蹈训练对精神分裂症感觉运动相关脑网络影响的实验设计"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数据分析内容。首先，分析精神分裂症感觉运动相关脑网络的病理特征。在基线水平上通过分析患者的fMRI、sMRI、DTI数据，构建精神分裂症的脑网络（功能与结构）图谱，在此基础上通过组间对比，进一步构建精神分裂症感觉运动相关脑网络（皮层-基底节-丘脑网络与脑岛网络）的病理特征。其次，分析舞蹈训练对精神分裂症感觉运动相关脑网络内脑区的影响。分析对比舞蹈训练前后精神分裂症患者的 fMRI、sMRI、DTI数据，研究舞蹈训练对精神分裂症感觉运动相关脑网络内脑区的可塑性影响，明确舞蹈训练对精神分裂症起效的核心脑区。再次，分析舞蹈训练对精神分裂症感觉运动相关脑网络内功能连接与结构连接的影响。对比舞蹈训练前后精神分裂患者的fMRI与DTI数据，研究舞蹈训练对精神分裂症的感觉运动相关脑网络（皮层-基底节-丘脑网络与脑岛网络）的影响。同时探索以上相关网络与其它主要脑网络之间的关联，从脑区节点间和脑网络间水平上考察舞蹈训练对全脑网络结构和功能的影响，揭示舞蹈训练对精神分裂症起效的神经网络机制。最后，进行舞蹈训练干预精神分裂症的整合分析。将干预前后所有脑影像指标、临床及认知指标进行整合分析，并将这些特征改变与临床及认知指标进行关联，研究精神分裂症感觉运动相关脑网络及其与其他脑网络间的关系，从而进一步刻画精神分裂症脑网络变化与其临床认知评估的相关关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "整体数据分析思路。通过 $1 ^ { * } 3$ ANOVA分析方法进行基线数据统计对比，探究精神分裂症的异常功能脑网络。进而，对两组精神分裂症患者的干预前后数据，通过 $2 ^ { * } 2 \\mathrm { A N O V A }$ 分析方法探究舞蹈训练对精神分裂症患者功能脑网络的可塑性影响。最后，结合1\\*3ANOVA和 2\\*2ANOVA分析结果，确定舞蹈训练对精神分裂症患者异常脑区的改善和对非异常脑区的调控机制。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "具体分析方法。首先，本研究将采用数据驱动方法进行分析。除了采用主流分析工具DARTEL与FSL获取灰质脑区结构特征与白质结构网络特征外，还将使用独立成分分析（Independent Component Analysis,ICA）与功能连接密度（Functional Connectivity Density,FCD）两种数据驱动分析方法。使用FCD来刻画舞蹈训练对大脑局部脑区功能特征的显著性影响，进而选取感兴趣脑区（种子点），通过功能连接分析方法（FunctionalConnectivity，FC）刻画其功能网络的变化。同时，我们也通过ICA探究舞蹈训练对精神分裂症网络内及网络间功能连接的可塑性影响。其次，本研究还将基于假设驱动的进行脑功能网络分析。根据前文所述以及本研究的研究假设，选取脑岛三个功能亚区（后脑岛PI，腹侧前脑岛vAI，背侧前脑岛dAI）、中央前回、中央后回、视觉V1V2区、基底节各亚区、双边丘脑为种子点，然后利用FC计算以上种子点间的相关性连接以及与全脑的连接。最后，根据重复测量方差分析ANOVA的统计结果，通过Pearson相关分析计算方法，对精神分裂舞蹈训练前后的影像数据与临床认知数据进行协变量分析。从而进一步获得关于舞蹈训练对精神分裂症影响的整合分析结果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.理论构建 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1全新研究观点与视角",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "关于精神分裂的疾病成因仍存在各种假设与理论。其中占主流的假说聚焦于脑高级功能，认为精神分裂的致病机制在于脑内高级功能区的紊乱，自上而下地影响个体各层级水平的脑功能，并基于此进行药物与治疗方案的设计。但在临床实践中，发现有部分患者的治疗效果不佳，后期认知和社会功能的恢复缓慢。人脑是一个动态连接的复杂网络系统，精神分裂的致病机制除了对脑高级功能区的研究，也需要将初级功能区的影响纳入考虑。基于前期关于初级感觉运动脑功能对高级功能影响的研究，我们假设初级感觉运动信息的过滤和处理不良也可能是精神分裂症的患病因素之一，因此提升精神分裂症患者的感觉运动相关脑网络有可能影响高级脑网络，从而改善高级认知功能。为此，本研究采用自下而上的脑信息加工思路，利用舞蹈训练对精神分裂症进行干预研究。通过整合脑影像信息、临床及心理行为信息，综合分析舞蹈训练对精神分裂症患者感觉运动相关脑网络的特异影响，解释其可能的神经机制。这一新视角的开拓，有望揭示精神分裂患者自下而上信息处理与交互的神经机制，对精神分裂症的病因理论假设具有重要意义。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 聚焦精神分裂症临床治疗中的难点",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如前所述，目前对精神分裂症的治疗还是以药物干预为主，而主流治疗手段对精神分裂症的阳性症状控制效果明显，尤其在精神分裂症发病初期的疗效显著。但随着患者病程逐渐延长，其认知功能的衰退显得不可避免。有相当一部分患者因为病程较长，认知功能严重下降，以至于后期这些患者丧失回归社会的可能性。因此关于精神分裂症的有效治疗与精准治疗还需要进行更为多元化、交叉性的探索性研究，从而寻求更有针对性的途径。本研究结合信息科学、艺术训练与临床医学的各家所长，从多元的角度去研究精神分裂症。通过舞蹈训练特异性影响提升患者感觉运动能力，依靠神经信息科学的研究分析方法，验证舞蹈训练对精神分裂症感觉运动脑网络的作用机制，结合临床医学观察与诊断锚定舞蹈干预方案。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3对精神分裂治疗体系的丰富",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究基于精神分裂症症感觉运动相关网络异常，首次利用舞蹈训练影响精神分裂症患者的上述网络。这是一次舞蹈治疗在精神分裂症治疗中的深度应用，舞蹈训练的精准度与有效性将成为关键。正因如此，项目充分理解、深入运用舞蹈治疗中各项技术，充分考虑精神分裂症患者的认知特点和接受水平，设计行之有效的训练方案。这一方案将具有较强的科学性、针对性与操作性，并有望成为精神分裂症临床治疗中的具有可推广性的有效途径。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "管丽丽，杜立哲，马弘.(2012)．精神分裂症的疾病负担(综述)．中国心理卫生杂志,v.26(012),   \n913-919.   \n梅锦荣.(2011)．神经心理学：中国人民大学出版社.   \nBozikas, V.P., Kosmidis, M. H., Anezoulaki, D., Giannakou, M., Andreou, C., & Karavatos, A.   \n(2006).Impaired perception of affective prosody in schizophrenia. The Journal   \nofNeuropsychiatry and Clinical Neurosciences, 18(1), 81-85.   \nBrown, S., Martinez, M. J.,& Parsons, L. M.(2oo6). The neural basis of human dance. Cereb   \nCortex, 16(8), 1157-1167.   \nBurzynska, A. Z., Finc, K., Taylor,B. K., Knecht, A. M., & Kramer, A.F. (2017). The dancing brain: structural and functional signatures of expert dance training.Frontiers in Human Neuroscience, 11,566.   \nCalvo-Merino,B., Glaser,D.E., Grezes,J., Passingham,R.E.,& Haggard,P.(2005). Action observation and acquired motor skills: an fMRI study with expert dancers. Cereb Cortex, 15(8), 1243-1249.   \nCortese,A., & Rossi-Arnaud, C.(2010). Working memory for ballet moves and spatial locations in professional ballet dancers. Applied Cognitive Psychology, 24(2), 266-286 1099-0720.   \nCraig,A. D. (20o9). How do you feel--now? The anterior insula and human awareness.Nature Reviews Neuroscience, 10(1),59-70.   \nCruz-Garza, J. G., Hernandez, Z. R., Nepaul, S., Bradley, K. K., & Contreras-Vidal, J.L. (2014).   \nNeural decoding of expressive human movement from scalp electroencephalography (EEG).   \nFrontiers in Human Neuroscience, 8,188.   \nEack, S. M., Hogarty, G.E., Cho, R. Y., Prasad, K. M.R., Greenwald, D.P., Hogarty, S.S., et al. (2010).Neuroprotective efects of cognitive enhancement therapy against gray matter loss in early schizophrenia results from a 2-year randomized controlled trial. Archives of General Psychiatry, 67(7), 674-682.   \nFink, A., Graif, B.,& Neubauer,A. C. (20o9). Brain correlates underlying creative thinking: EEG alpha activity in professional vs. novice dancers. Neuroimage, 46(3), 854-862.   \nFirth, J., Stubbs,B.,Rosenbaum, S., Vancampfort, D., Malchow,B., Schuch,F., et al. (2017). Aerobic exercise improves cognitive functioning in people With Schizophrenia: A Systematic Review and Meta-Analysis. Schizophrenia Bulletin, 43(3), 546-556.   \nGeyer, M. A., Krebs-Thomson, K., Braff, D.L., & Swerdlow, N. R.(2001). Pharmacological studies of prepulse inhibition models of sensorimotor gating deficits in schizophrenia: a decade in review. Psychopharmacology (Berl), 156(2-3),117-154.   \nGiacosa, C., Karpati,F.J., Foster,N.E., Penhune, V.B.,& Hyde, K.L. (2016). Dance and music training have different efects on white matter diffusivity in sensorimotor pathways. Neuroimage, 135,273-286.   \nGolomer,E., Boulliette, A., Mertz, C.,& Keller, J. (2008). Effects of mental imagery styles on shoulder and hip rotations during preparation of pirouettes. Journal of Motor Behavior, 40(4),281-290.   \nGolomer, E., Toussaint, Y., Bouillete,A., & Keller, J. (2009). Spontaneous whole body rotations   \nand classical dance expertise: how shoulder-hip coordination influences supporting leg   \ndisplacements. Journal of Electromyography and Kinesiology, 19(2), 314-321.   \nGujing, L., Hui, H., Xin,L.,Lirong, Z., Yutong, Y., Guofeng, Y., et al. (2019). Increased Insular   \nConnectivity and Enhanced Empathic Ability Associated with Dance/Music Training. Neural   \nPlasticity, 2019, 9693109.   \nHaber, S. N., & Calzavara, R. (2o09). The cortico-basal ganglia integrative network: the role of   \nthe thalamus. Brain Research Bulletin, 78(2-3),69-74.   \nHanggi, J., Koeneke,S., Bezzola,L., & Jancke,L. (2010). Structural neuroplasticity in the sensorimotor network of professional female ballet dancers. Human Brain Mapping, 31(8), 1196-1206.   \nHarrison, G., Hopper, K., Craig,T.,Laska,E., Siegel, C., Wanderling, J., et al. (2001).Recovery from psychotic illness: a 15- and 25-year international follow-up study.the British Journal of Psychiatry, 178, 506-517.   \nHazlett, E. A., Buchsbaum, M. S., Tang, C. Y., Fleischman, M. B., Wei, T. C., Byne, W., et al. (2001). Thalamic activation during an attention-to-prepulse startle modification paradigm: a functional MRI study. Biological Psychiatry, 50(4),281-291.   \nHazlet,E.A.,Buchsbaum, M.S., Zhang,J.,Newmark,R.E., Glanton, C.F.,Zelmanova,Y.,etal. (2008). Frontal-striatal-thalamic mediodorsal nucleus dysfunction in schizophrenia-spectrum patients during sensorimotor gating. Neuroimage, 42(3), 1164-1177.   \nHe,H., Yang, M., Duan, M., Chen, X.,Lai, Y., Xia, Y., et al. (2017). Music Intervention Leads to   \nIncreased Insular Connectivity and Improved Clinical Symptoms in Schizophrenia. Frontiers in   \nNeuroscience, 11,744.   \nHeckers, S. (1997). Neuropathology of schizophrenia: cortex, thalamus, basal ganglia, and neurotransmitter-specific projection systems. Schizophrenia Bulletin, 23(3),403-421.   \nHo, R. T. H.,Fong, T. C. T., Wan, A. H. Y., Au-Yeung,F. S. W., Wong, C. P. K., Ng, W. Y. H., et al. (2016). A randomized controlled trial on the psychophysiological effects of physical exercise and Tai-chi in patients with chronic schizophrenia. Schizophrenia Research, 171(1-3), 42-49.   \nHugdahl, K. (2Oo9). \"Hearing voices\": auditory hallucinations as failure of top-down control of   \nbottom-up perceptual processes. Scandinavian Journal of Psychology, 50(6), 553-560.   \nInsel,T.R. (2010). Rethinking schizophrenia. Nature, 468(7321),187-193.   \nJessica, M., Sofie, T. M.,& Jurgen, H. (2016). Differences in Cortical Representation and Structural Connectivity of Hands and Feet between Professional Handbal Players and Ballet Dancers. Neural Plasticity,2016,(2016-5-9), 2016(8-9,part 1),1-17.   \nKarpati,F.J., Giacosa, C., Foster, N.E., Penhune, V.B.,& Hyde,K.L. (2017). Dance and music share gray matter structural correlates. Brain Research, 1657, 62-73.   \nKaufmann, T., Skatun, K. C., Alnaes, D., Doan, N.T., Duff, E.P., Tonnesen, S., et al. (2015). Disintegration of Sensorimotor Brain Networks in Schizophrenia. Schizophrenia Bulletin, 41(6),1326-1335.   \nKay, S.R., Fiszbein, A., & Opler, L. A. (1987). The positive and negative syndrome scale (PANSS) for schizophrenia. Schizophrenia Bulletin, 13(2),261-276.   \nKonick,L. C.,& Friedman,L. (2o01). Meta-analysis of thalamic size in schizophrenia. Biological Psychiatry, 49(1),28-38.   \nKumari, V., Gray, J. A., Geyer, M. A., ffytche,D., Soni, W., Mitterschiffthaler, M. T., et al. (2003). Neural correlates of tactile prepulse inhibition: a functional MRI study in normal and schizophrenic subjects. Psychiatry Research, 122(2), 99-113.   \nLeppanen, J. M., Niehaus, D.J., Koen,L.,Du Toit,E., Schoeman, R.,& Emsley,R. (2008). Deficits in facial affect recognition in unaffected siblings of Xhosa schizophrenia patients: evidence for a neurocognitive endophenotype. Schizophrenia Research, 99(1-3), 270-273.   \nLi, G.,He, H., Huang, M., Zhang, X.,Lu,J., Lai, Y.,et al. (2015). Identifying enhanced cortico-basal ganglia loops associated with prolonged dance training. Scientific Report, 5, 10271.   \nMarder, S. R., & Fenton, W. (2004). Measurement and Treatment Research to Improve Cognition in Schizophrenia: NIMH MATRICS initiative to support the development of agents for improving cognition in schizophrenia. Schizophrenia Research, 72(1), 5-9.   \nMenon, V.,& Uddin,L. Q. (2010). Saliency, switching, attention and control: a network model of insula function. Brain Structure & Function, 214(5-6), 655-667.   \nMiyamoto, S., Duncan, G. E., Marx, C.E.,& Lieberman, J. A. (2005). Treatments for   \nschizophrenia: a critical review of pharmacology and mechanisms of action of antipsychotic drugs.   \nMolecular Psychiatry, 10(1), 79-104.   \nMochizuki-Kawai, H., Kawamura, M., Hasegawa, Y., Mochizuki, S., Oeda, R., Yamanaka, K., et al. (2004). Deficits in long-term retention of learned motor skills in patients with cortical or subcortical degeneration. Neuropsychologia, 42(13), 1858-1863.   \nModinos, G., Vercammen, A., Mechelli, A., Knegtering, H., McGuire, P. K., & Aleman, A.   \n(2009). Structural covariance in the hallucinating brain: a voxel-based morphometry study.   \nJournal of Psychiatry & Neuroscience, 34(6), 465-469.   \nNamkung, H.,Kim, S.H.,& Sawa,A. (2017). The Insula: An Underestimated Brain Area in   \nClinical Neuroscience, Psychiatry,and Neurology. Trends in Neurosciences, 40(4),200-207.   \nNoda, S., Mizoguchi, M.,& Yamamoto, A. (1993). Thalamic experiential hallucinosis. Journal of Neurology Neurosurgery and Psychiatry, 56(11),1224-1226.   \nOno, Y., Nomoto, Y., Tanaka, S., Sato, K., Shimada, S., Tachibana, A., et al. (2014). Frontotemporal oxyhemoglobin dynamics predict performance accuracy of dance simulation gameplay: temporal characteristics of top-down and bottom-up cortical activities. Neuroimage, 85 Pt 1, 461-470.   \nPajonk, F. G., Wobrock, T., Gruber, O., Scherk, H., Berner, D., Kaizl, 1., et al. (2010). Hippocampal Plasticity in Response to Exercise in Schizophrenia. Archives of General Psychiatry, 67(2),133-143.   \nRein, S., Fabian, T., Zwipp, H., Rammelt, S., & Weindel, S. (2011). Postural control and functional ankle stability in professional and amateur dancers. Clinical Neurophysiology, 122(8),1602-1610.   \nRicotti,L., & Ravaschio, A. (2011). Break dance significantly increases static balance in 9 years-old soccer players. Gait & Posture, 33(3), 462-465.   \nRieck, R. W., Ansari, M. S., Whetsell, W. O., Jr., Deutch,A. Y., & Kessler, R. M. (2004). Distribution of dopamine D2-like receptors in the human thalamus: autoradiographic and PET studies. Neuropsychopharmacology, 29(2), 362-372.   \nRobinson, D.G., Woerner, M. G., McMeniman, M., Mendelowitz,A.,& Bilder, R. M.(2004).   \nSymptomatic and functional recovery from a first episode of schizophrenia or schizoaffective   \ndisorder. American Journal ofPsychiatry, 161(3), 473-479.   \nSchroder, J., Wenz, F., Schad, L. R., Baudendistel, K., & Knopp, M. V. (1995). Sensorimotor cortex and supplementary motor area changes in schizophrenia. A study with functional magnetic resonance imaging. the British Journal of Psychiatry, 167(2),197-201.   \nShepherd, A. M., Matheson, S.L., Laurens, K.R., Car, V.J., & Green, M. J. (2012). Systematic Meta-Analysis of Insula Volume in Schizophrenia. Biological Psychiatry, 72(9), 775-784.   \nSinger, T., Seymour, B., O'Doherty,J., Kaube, H., Dolan, R.J.,& Frith, C. D. (2004). Empathy for pain involves the affective but not sensory components of pain. Science, 303(5661), 1157-1162.   \nSingh,M. K., Giles,L.L.,& Nasralah, H. A. (20o6). Pain insensitivity in schizophrenia: trait or state marker? Journal of Psychiatric Practic, 12(2), 90-102.   \nStevens, C. J., Ginsborg, J.,& Lester, G. (2011). Backwards and forwards in space and time: Recalling dance movement from long-term memory. Memory Studies, 4(2), 234-250.   \nSvatkova, A.,Mandl, R. C. W., Scheewe,T.W., Cahn, W., Kahn, R. S., & Pol, H. E. H. (2015). Physical Exercise Keeps the Brain Connected: Biking Increases White Matter Integrity in Patients With Schizophrenia and Healthy Controls. Schizophrenia Bulletin, 41(4), 869-878.   \nTian,Y.,& Zalesky,A. (2O18). Characterizing the functional connectivity diversity of the insula cortex: Subregions, diversity curves and behavior. Neuroimage, 183,716-733.   \nUddin,L.Q. (2O15). Salience processng and insular cortical function and dysfunction. Nature Reviews Neuroscience, 16(1),55-61.   \nUhlhaas,P.J.,& Singer, W. (201o). Abnormal neural oscillations and synchrony in schizophrenia. Nature Reviews Neuroscience,11(2),100-113.   \nWylie,K.P.,& Tregellas, J.R. (201O).The role of the insula in schizophrenia. Schizophrenia Research, 123(2-3),93-104.   \nWorld Health Organization. The global burden of disease: 20O4 update. Retrieved October 21, 2020 from http:// www.who.int /healthinfo / global_burden_ disease /GBD_report_ 2004update_full. pdf   \nZabicki, A., de Haas,B., Zentgraf,K., Stark,R., Munzert, J., & Kruger, B. (2016). Imagined and Executed Actions in the Human Motor System: Testing Neural Similarity Between Execution and Imagery of Actions with a Multivariate Approach. Cereb Cortex.   \nZikopoulos, B., & Barbas, H. (2oo7). Circuits formultisensory integration and attentional modulation through the prefrontal cortex and the thalamic reticular nucleus in primates. Reviews in the Neurosciences, 18(6),417-438. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Dance therapy : Explorations of a bottom-up intervention for schizophrenia ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "LI Gujing1, ZHANG Lirong², MI Li³, HE Hui³, LU Jing1, LUO Cheng1 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "YAO Dezhong ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "('School ofLife Science and Technology, University of Electronic Science and Technology of China,Cheng Du, ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "611731） ( Education Center of Students Cultural Qualities, University ofElectronic Science and Technology of ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "China,Cheng Du, 611731) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(TheFourth People'sHospital ofChengdu, ChengDu, 610036) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "AbstractGrowingstudieshavereportedthealternationsofthecortico-basal ganglia-corticothalamic loops and insular networks,which belong to the sensorimotor system, might be responsible for the clinical symptoms and cognitive deficits in schizophrenes.However, the mainstream researches and clinical treatments have focused on the abnormity of high-leveled brain regions and paid little attention to the primary sensorimotor system in schizophrenes. Relevant studies have revealed the dance training could promote the cortico-basal ganglia-corticothalamic loops and insular networks, which would improve the advanced brain functions. It indicates the dance training might be an eficient treatment for the schizophrenia and the related cognitive deficits. Based on multimodal magnetic resonance imaging technology, this study focuses on the sensorimotor network of schizophrenia. It aims to reveal the neuro mechanism of the dance training effects on schizophrenia, in a way of integrative analyzation involving the image/clinical/cognitive data pre-and post- intervention. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key wordsresting state brain network, schizophrenia, dance training, sensorimotor network ",
+        "page_idx": 14
+    }
+]

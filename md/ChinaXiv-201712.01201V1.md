@@ -1,0 +1,141 @@
+临床研究
+
+# 哮喘患者气道过敏毒素C3a的变化特点
+
+张静，丁艳苓，陈亚红,姚婉贞北京大学第三医院呼吸科，北京100191
+
+摘要：目的研究诱导痰中过敏毒素C3a在支气管哮喘发病中的变化特点及临床意义。方法自2006年9月\~2007年2月于我院呼吸科门诊和病房就诊的哮喘急性发作期患者共33例，收集其人口学资料、病史及家族史、肺功能数据及诱导痰中C3a水平，进行分析和总结。结果(1)哮喘急性发作期诱导痰中C3a水平 $[ 2 . 2 4 ( 1 . 6 8 { \sim } 5 . 5 8 ) ~ \mathrm { n g / m l ] }$ 高于治疗后哮喘临床缓解期C3a水平[0.7$( 0 . 2 4 { \sim } 2 . 3 1 ) ~ \mathrm { n g / m l } ] ( P { < } 0 . 0 1 )$ ,哮喘临床缓解期C3a水平高于对照组[0.12(0.07\~0.39) $\mathrm { n g / m l } \mathrm { \cdot }$ 0 $P { < } 0 . 0 5 )$ ;(2)哮喘急性发作期，诱导痰C3a水平随轻度急性发作 $[ 0 . 2 5 ( 0 . 0 9 { \sim } 0 . 4 0 ) ~ \mathrm { n g / m l ] }$ 、中度急性发作 $[ 2 . 2 1 ( 1 . 1 6 { \sim } 3 . 4 1 ) ~ \mathrm { n g / m l } ]$ 、重度急性发作[4.69(2.69\~6.59) $\mathrm { n g / m l } \mathrm { \overline { { \Omega } } }$ 依次升高，且存在明显差异 $( P { < } 0 . 0 1 )$ ;(3)哮喘急性发作期组患者诱导痰C3a水平与诱导痰细胞总数呈正相关( $\scriptstyle \left. r = \frac { } { } \right.$ 0.718, $P { < } 0 . 0 5$ ),嗜酸性粒细胞计数呈正相关( $_ { r = 0 . 4 9 5 }$ $P { < } 0 . 0 5$ ),巨噬细胞计数呈正相关 $( r { = } 0 . 6 0 0 , P { < } 0 . 0 5 )$ 。结论诱导痰C3a水平与哮喘严重程度和局部炎症细胞学分类相关，可能成为重要的临床标志物指导哮喘的治疗。
+
+关键词：过敏毒素； $\mathrm { C } 3 \mathrm { a }$ ;诱导痰；哮喘
+
+# Changes of C3a in induced sputum in patients with asthma
+
+ZHANG Jing,DING Yanling,CHEN Yahong,YAO Wanzhen Departmentofespiratory isease,Pekingniversity hirdHospital,BeijingO91,ina
+
+Abstract: ObjectiveToinvestigatetheclinical significanceofanaphylatoxin C3aininducedsputum inpatients withasthma. MethodsThe patients with acute exacerbationof asthma treated atour department between September,2006andFebruary 2007 were included inthe study.The demographicdata,medical history,levelsof lung functionand C3a levels ininduced sputum were assessed.Results Atotal of 33 patients were included in the study.The level of C3a in induced sputum was significantly higher in patients with acute exacerbation of asthma $( 2 . 2 4 ~ \mathrm { n g / m l } ,$ range $1 . 6 8 { - } 5 . 5 8 \mathrm { n g / m l } ;$ than thatin patientswith asthma remission $( 0 . 7 ~ \mathrm { { n g / m l } , }$ range $0 . 2 4 { - } 2 . 3 1 ~ \mathrm { n g / m l } ,$ $P { < } 0 . 0 5 \mathrm { ; }$ ). Sputum C3a levels in the remission patients were significantly higher than those in the healthy controls $( 0 . 1 2 ~ \mathrm { n g / m l } ,$ range $0 . 0 7 \mathrm { - } 0 . 3 9 ~ \mathrm { n g / m l }$ $P { < } 0 . 0 5 \mathrm { ; }$ ). Thelevelsof C3ainpatientswith severe exacerbation $( 4 . 6 9 ~ \mathrm { n g / m l } ,$ range $2 . 6 9 { - } 6 . 5 9 ~ \mathrm { n g / m l } \rangle$ were significantly higher than those in patients with mild exacerbation (0.25 $\mathrm { n g / m l } ,$ range $0 . 0 9 { - } 0 . 4 0 ~ \mathrm { n g / m l } _ { , }$ ）andmoderateexacerbation $( 2 . 2 1 ~ \mathrm { n g / m l } ,$ range $\mathrm { 1 . 1 6 - 3 . 4 1 \ n g / m l } _ { \mathrm { \ell } }$ ? $( P { < } 0 . 0 1 )$ ，andwere significantly higher in patients with moderate exacerbation than in those in mild exacerbation $( P { < } 0 . 0 1 )$ . The level of C3a in induced sputum was positively correlated with the number of total cell count $_ { ( r = 0 . 7 1 8 }$ $P { < } 0 . 0 5 \ '$ , eosinophils $\scriptstyle : r = 0 . 4 9 5 ,$ $P { < } 0 . 0 5$ ) and macrophages $\scriptstyle ( r = 0 . 6 0 0 ,$ $P { < } 0 . 0 5 )$ in patients with acute exacerbation of asthma. Conclusion Induced sputum C3a level can serve as an important clinical biomarker for clinical asthma management.
+
+Key words: anaphylatoxin; C3a; pulmanory disease; asthma
+
+哮喘是由易感人群对于正常环境中抗原的免疫异  
+常引起的慢性气道炎症性疾病。除了经典的由 $\mathrm { C D 4 ^ { + } T }$   
+细胞活化后产生Th2型细胞因子依赖的获得性免疫反  
+应以外，先天免疫反应在哮喘发病过程中也发挥着重要  
+的作用。目前的观点认为，补体系统中重要的效应分子过敏毒素C3a,不仅参与了哮喘发病时的先天性免  
+疫过程，同时也对获得性免疫过程中的Th2细胞和
+
+Th17细胞发挥重要的调节作用[1-2]
+
+临床研究显示，在哮喘患者的血清和肺泡灌洗液(BALF)中均存在C3a升高，提示C3a既参与了哮喘的全身炎症反应，也在气道局部炎症反应中发挥效应[3-4]BALF中的C3a水平升高与哮喘的病情严重程度相关，且可能成为哮喘的诊断指标之一。但由于BALF获得较为不易，找到一种新有效，且简便易行的提示气道局部炎症的生物标志物就显得尤为重要。
+
+本研究旨在通过观察诱导痰中C3a的水平与哮喘急性发作及发作严重程度的关系，评价诱导痰C3a水平是否可能替代BALFC3a水平，成为一种新的简单、无创的评价哮喘急性发作期局部炎症的指标;并进一步探讨哮喘局部炎症与疾病进展之间的关系。
+
+# 1对象和方法
+
+# 1.1 对象
+
+2006年9月\~2007年2月于我院呼吸科门诊和病房就诊的哮喘急性发作期患者。哮喘诊断符合2003年我国《支气管哮喘防治指南》标准[5]。排除标准包括：近6周内有呼吸道感染、近3月内曾接受糖皮质激素治疗（包括吸入及全身使用)严重心脑血管疾病、恶性肿瘤、妊娠等。所有哮喘急性发作期患者均接受规范化临床治疗，如达到临床缓解，则纳入临床缓解期组。
+
+健康对照组入选标准为：非吸烟者，无慢性支气管炎、肺气肿等慢性呼吸系统病史，无呼吸道症状及其他疾病病史，肺功能检查示无阻塞性通气障碍，入组前四周内无呼吸道感染史。本研究方案获北京大学第三医院伦理委员会批准(伦理批号：2008014)，所有研究对象均获知情同意。
+
+# 1.2 方法
+
+1.2.1肺功能测定所有研究对象均采用美国产Sensor-medics6200肺功能仪检测坐位肺功能，测定FEV1，计算其占预计值百分比 $( \mathrm { F E V 1 \% }$ 预计值）FEV1/FVC。
+
+1.2.2诱导痰的收集和处理所有受试者在做诱导痰前先用清水漱口，吸入沙丁胺醇气雾剂 $2 0 0 ~ { \mu \mathrm { g } } , 1 5 ~ \mathrm { m i n }$ 后开始雾化吸入 $4 \%$ 氯化钠溶液收集痰标本 $3 { \sim } 5 ~ \mathrm { m l } _ { \odot }$ 。将所收集的痰液与1倍体积的 $0 . 1 \%$ 二硫苏糖醇溶液混匀后$3 7 ~ \mathrm { { ^ { \circ } C } }$ 恒温振荡 $1 5 \mathrm { m i n }$ ，再用吸管轻轻吹打数次，使痰液充分均质化。使用直径 $4 8 ~ { \mu \mathrm { m } }$ 尼龙网过滤入一个洁净的烧杯中，去除粘液和碎片。将滤液称重，取 $1 0 ~ \mu \mathrm { l }$ 痰液用血细胞计数板进行细胞计数，其后使用 $1 5 0 0 ~ \mathrm { r / m i n }$ 转速,离心 $1 0 \mathrm { m i n }$ ，分离上清，储存于 $- 8 0 \mathrm { { ^ { \circ } C } }$ 冰箱待用。将细胞沉淀分以PBS重悬细胞沉淀，调整细胞浓度为 $1 \times$ $1 0 ^ { 7 } / \mathrm { m l }$ ，涂片，使用瑞氏吉姆萨染色(Wright-Giemsa)进行细胞分类，每张涂片计数400个非鳞状上皮细胞计算分类，分别计数出中性粒细胞、巨噬细胞、淋巴细胞及嗜酸性粒细胞所占细胞总数的百分比。鳞状上皮细胞 ${ < } 2 0 \%$ 者为合格标本。
+
+1.2.3诱导痰C3a检测采用ELISA法测定诱导痰上清中C3a(试剂盒购置美国BD公司)，具体操作步骤严格按试剂盒说明书操作，在酶标仪上读取数值。
+
+# 1.3统计学方法
+
+诱导痰细胞计数及诱导痰上清中C3a水平属于非正态分布样本，以中位数(四分位数)表示，2个独立样本作采用Mann-WhitneyU检验,多样本间比较采用秩和检验，哮喘急性加重期与临床缓解期各项指标间比较WilcoxonSignedRank检验;相关性检验采用Spearman相关分析。研究对象年龄、肺功能情况为正态分布样本，以均数 $\trianglerighteq$ 标准差表示表示；多样本间比较采用单因素方差分析，哮喘急性加重期与临床缓解期各项指标间比较采用配对t检验，相关性检验采用Spearman直线相关性分析。统计学计算均由SPSS11.5统计软件完成。 $P <$ 0.05为差异有统计学意义。
+
+# 2结果
+
+# 2.1 哮喘患者的基本信息
+
+33例哮喘急性期患者入组本研究，其中男性20例，女性13例；年龄 $4 6 . 3 { \pm } 1 3 . 9 ( 1 9 { \ - } 7 1 )$ 岁；25例达到临床缓解并回访，其中男性15例，女性10例,年龄 $4 3 . 6 \pm$ 13.6(21\~71)岁；健康对照组共13例，男性6例，女性7例,年龄 $3 0 . 7 { \scriptstyle \pm 6 . 8 }$ 岁。哮喘组与对照组在性别上差异无统计学意义 $( P { > } 0 . 0 5 )$ ;对照组年龄小于哮喘患者年龄（204号 $( t { = } { - } 3 . 9 9 5 , P { < } 0 . 0 1 )$ 。
+
+# 2.2哮喘患者的肺功能情况
+
+哮喘急性发作期患者肺功能明显下降， $F E V 1 \%$ 预计值、FEV1/FVC值及 $\mathrm { P E F \% }$ 预计值均显著低于对照组（204号 $\left( { t = 8 . 0 3 5 , 7 . 8 1 1 , 7 . 3 0 5 , P } \right.$ 值均 $< 0 . 0 1$ )，治疗后临床缓解期肺功能较急性发作期明显缓解，差异有统计学意义（204号 $( t { = } - 5 . 0 3 2 , - 3 . 5 5 8 , - 4 . 2 8 4 , P$ 值均 $< 0 . 0 1$ )。与对照组相比，哮喘临床缓解期患者肺功能下降， $F E V 1 \%$ 预计值、FEV1/FVC值及 $\mathrm { P E F } \%$ 预计值明显低于对照组( $\scriptstyle { t = 3 . 5 0 7 }$ ,4.957,2.635, $P { < } 0 . 0 1$ ，表1)。
+
+# 2.3诱导痰细胞总数和细胞分类计数结果
+
+哮喘急性发作期诱导痰细胞总数及诱导痰中嗜酸 性粒细胞百分比、嗜酸性粒细胞绝对值高于哮喘临床缓 解期组及对照组（ $_ { \scriptstyle P < 0 . 0 1 } )$ ;中性粒细胞绝对值高于哮喘
+
+表1研究对象肺功能情况Tab.1 Lung function of the participants (Mean±SD)  
+
+<html><body><table><tr><td>Group</td><td>Number</td><td>FEV1%pred (%)</td><td>FEVi/FVC (%)</td><td>PEF%pred (%)</td></tr><tr><td>Control</td><td>13</td><td>91.4±6.1</td><td>82.1±4.7</td><td>94.4±13.5</td></tr><tr><td>Stable asthma</td><td>25</td><td>78.5±12.4a</td><td>70.0±8.9a</td><td>84.1±16.9a</td></tr><tr><td>Asthma exacerbation</td><td>33</td><td>52.8±18.5ab</td><td>56.0±12.7ab</td><td>52.2±19.6ab</td></tr><tr><td>F</td><td></td><td>38.138</td><td>33.381</td><td>29.917</td></tr><tr><td>P</td><td></td><td><0.01</td><td><0.01</td><td><0.01</td></tr></table></body></html>
+
+"Compared with control group, $P { < } 0 . 0 1$ ; Compared with stable asthma, $P { < } 0 . 0 1$
+
+临床缓解期组 $( P { < } 0 . 0 5 )$ 及对照组 $( P { < } 0 . 0 1 )$ ；巨噬细胞百分比显著低于哮喘临床缓解期组及对照组 $( P { < } 0 . 0 1 )$ 。
+
+哮喘临床缓解期患者诱导痰细胞总数高于对照组，
+
+差异有统计学意义 $( P { < } 0 . 0 1 )$ ;诱导痰中中性粒细胞数及嗜酸性粒细胞数显著高于对照组 $( P { < } 0 . 0 5 )$ ,诱导痰中巨噬细胞百分比显著低于对照组( $\scriptstyle \cdot < 0 . 0 5$ ，表2)。
+
+表2诱导痰细胞计数及分类计数结果 Tab.2 Differential count of cells from induced sputum [median (quatile)]   
+
+<html><body><table><tr><td></td><td>Control</td><td>Stable asthma</td><td>Asthma exacerbation</td><td>x</td><td>P</td></tr><tr><td>Mass cell count (×10/ml)</td><td>3.4 (2.5~4.1)</td><td>9.4 (5.0~13.2)a</td><td>11.6 (5.8~23.1)ab</td><td>9.536</td><td><0.01</td></tr><tr><td>Neutrophil (%)</td><td>18.3 (14.1~32.8)</td><td>50.0 (19.4~63.0)a</td><td>55.4 (28.8~75.1)a</td><td>5.507</td><td>>0.05</td></tr><tr><td>Eosinophil (%)</td><td>0.7 (0.0~1.1)</td><td>3.1 (1.0~6.0)</td><td>9.7 (1.5~38.6)ab</td><td>13.185</td><td><0.01</td></tr><tr><td>Monophage (%)</td><td>66.9 (55.0~82.0)</td><td>42.0 (30.8~69.0)a</td><td>27.5 (9.3~47.8)ab</td><td>18.739</td><td><0.01</td></tr></table></body></html>
+
+"Compared with control group, $P { < } 0 . 0 5$ ;Compared with stable asthma group, $P { < } 0 . 0 5$
+
+# 2.4 诱导痰中C3a水平
+
+哮喘急性发作期、哮喘临床缓解期、对照组诱导痰C3a的水平分别为： $2 . 2 4 ( 1 . 6 8 { \sim } 5 . 5 8 ) ~ \mathrm { n g / m l } . 0 . 7 ( 0 . 2 4 \sim$ 2.31) $\mathrm { n g / m l }$ 和 $0 . 1 2 ( 0 . 0 7 { \sim } 0 . 3 9 ) ~ \mathrm { n g } / \mathrm { m l } , 3$ 组间比较差异有统计学意义 $( \chi ^ { 2 } { = } 1 2 . 0 6 8 , P { < } 0 . 0 1 )$ 。治疗后，哮喘临床缓解期C3a水平较急性发作期下降 $( z { = } { - } 2 . 8 9 7 , P { < } 0 . 0 1 )$ O哮喘临床缓解期C3a水平较对照组升高，差异有统计学意义 $( z { = } { - } 1 . 9 6 4 , P { < } 0 . 0 5$ ，图1)。
+
+![](images/2b1730f04506176ef946d445e0e3c9bb17c4c79f91410809d28b52f7e022e968.jpg)  
+图1哮喘患者与对照组诱导痰C3a水平比较 Fig.1Sputum C3a levels increasedin remmision and exacerbation asthma patients.
+
+哮喘急性发作期不同严重程度C3a水平不同，差异有统计学意义。重度哮喘急性发作C3a水平为4.69$( 2 . 6 9 { \sim } 6 . 5 9 ) \mathrm { n g / m l }$ ，高于中度哮喘急性发作患者C3a水平 $\left( \mathrm { z } = - 2 . 3 9 7 , P { < } 0 . 0 1 \right)$ ;中度哮喘急性发作C3a水平为$2 . 2 1 ( 1 . 1 6 { \sim } 3 . 4 1 ) \mathrm { n g / m l } .$ ，高于轻度哮喘急性发作患者C3a水平 $[ 0 . 2 5 ( 0 . 0 9 { \sim } 0 . 4 0 ) \mathrm { n g / m l } , z { = } { - } 2 . 9 1 5 , P { < } 0 . 0 1$ ，图2]。
+
+# 2.5相关性分析
+
+哮喘急性发作期组患者诱导痰C3a水平与诱导痰细胞总数呈正相关 $( r { = } 0 . 7 1 8 , P { < } 0 . 0 5$ ，图3)；与诱导痰中嗜酸性粒细胞绝对值呈正相关 $( r { = } 0 . 4 9 5 , P { < } 0 . 0 5$ ，图4);与诱导痰中单核巨噬细胞绝对值呈正相关 $\scriptstyle ( r = 0 . 6 0 0 , P <$ 0.05，图5)。哮喘患者诱导痰C3a水平与肺功能指标无明显相关。
+
+![](images/3b669aada36b1cb1b1b4ac0d1b9c0166ee2cdd6474fa21d85f62497de3435e66.jpg)  
+图2哮喘急性发作期不同严重程度诱导痰C3a 水平比较 Fig.2Sputum C3a levels in patients with asthma exacerbation ofdifferent severities.
+
+# 3讨论
+
+过敏毒素C3a是炎症反应早期通过裂解补体成分C3产生的强效促炎症因子。许多哮喘急性发作时的特征性改变，如平滑肌收缩、粘液高分泌、炎症细胞聚集，均可由过敏毒素C3a导致或加重。近来，一些临床研究显示，过敏毒素C3a可能作为效应分子参与哮喘的发病。VandeGraaf等4进行的临床试验提示：稳定期哮喘患者BALF中的C3a水平较健康对照组增加。Humble等的研究中，在轻度稳定期哮喘患者中，抗原激发后4到6hC3a水平较盐水对照组升高，向气道内趋化嗜酸性粒细胞增多。Norbert等进行更进一步的研究发现，轻度稳定期过敏性哮喘患者经抗原激发后，BALF中C3a水平升高，而非过敏的健康对照者无类似改变。上述研究结果均提示，BALF中的过敏毒素C3a水平可以作为哮喘气道局部炎症的评价指标之一，同时C3a可能参与了哮喘急性发作的发生。以上研究中均使用BALF来研究气道炎症情况。
+
+![](images/22387102686c0f648257732f43db41c7fc63f42ea4ee389fb30a559c75d91423.jpg)  
+图3诱导痰 $\mathrm { C } 3 \mathrm { a }$ 与诱导痰细胞总数正相关 Fig.3 Sputum C3a is positively correlated with total suputm cell count.
+
+![](images/39792ccf2f4f6c54e501a30fd6bc8a61b8e245113cfb9119955672d358173b8e.jpg)  
+图4诱导痰C3a与诱导痰中嗜酸性粒细胞绝对 值呈正相关 Fig.4 Sputum C3a is positively correlated with suputm eosinophil count.
+
+![](images/0955e60e6671247d388a4265a68ecd1149e411f311cc5db16a5830392daf12d2.jpg)  
+图5诱导痰 $\mathrm { C } 3 \mathrm { a }$ 与诱导痰中单核巨噬细胞绝对 值呈正相关 Fig.5 Sputum C3a is positively correlated with suputm macrophage count.
+
+本研究的结果显示，诱导痰C3a水平在哮喘急性发作期、缓解期及健康对照组中依次降低；诱导痰C3a水平与急性发作时病情越重诱导痰中C3a水平越高。其变化趋势与报道的BALF中C3a水平变化趋势相似，提示诱导痰C3a替代BALF中C3a水平的可能性。由于支气管镜检查会加重严重气道阻塞患者的气流阻塞，所以在哮喘急性发作期时，无法通过检测BALF标本来研究哮喘的气道炎症程度。诱导痰技术是一种简单、无创、安全和有效的监测气道炎症的方法，广泛用于哮喘等慢性气道炎症性疾病的研究。目前，已有研究对其安全性进行评价，并证实监护下可安全有效地用于严重气流阻塞性疾病的研究[8]
+
+感染是常见的致儿童及成人哮喘急性发作的原因。补体活化在机体先天免疫系统抵御粘膜病毒、霉菌、细菌和其他病原体感染方面起着核心作用。目前对于气道局部过敏毒素水平的升高是由于气道局部产生增多所致还是循环中产生增多出现的继发现象还不明确。由于在哮喘急性发作期的患者中未发现明显全身炎症反应征象，进而推测，过敏毒素的增加以气道局部产生为主。已有的研究显示，哮喘加重时气道局部浸润的单核细胞可能是C3a的主要来源，其他气道细胞如：肺泡Ⅱ型上皮细胞、气道平滑肌细胞及血管内皮细胞等均有报道可能合成和分泌 ${ \bf C } 3 ^ { [ 1 0 ] }$ L
+
+C3a在气道局部炎症中，不仅通过经典的补体途径还可以激活C3a受体(C3aR)，发挥其促炎作用。当C3aR被激活后，可以调节炎症部位局部的Th1/Th2型免疫应答，并维持淋巴细胞的极化状态;并进一步趋化炎症细胞,刺激肥大细胞和嗜碱性粒细胞释放组胺，上调嗜酸细胞阳离子蛋白(ECP)的合成，增加肺内半胱氨酰白三烯合成";同时，可以介导炎症细胞与气道固有细胞之间的相互作用,促进平滑肌收缩[12]。临床研究中发现，致死性哮喘患者肺组织中C3aR的表达较轻度哮喘和非肺疾病患者明显增加[13],从受体水平为过敏毒素参与哮喘的发病提供依据。
+
+随着对过敏毒素病理生理作用理解的深人，已经在动物研究中通过使用C3aR拮抗剂治疗疾病的尝试。Mathieu等[14]首先成功合成了C3aR拮抗剂SB290157;Lim等[15发现SB290157可以拮抗肥胖和代谢综合征的发生。C3aR是否可以成为哮喘治疗的靶点尚需进一步研究。上述研究虽然还只是初步的尝试，但仍为哮喘的
+
+治疗提出了新的思路。
+
+本研究对于哮喘不同病程及不同严重程度哮喘的诱导痰中过敏毒素水平进行比较，进行与气道炎症细胞计数的相关性分析，但未涉及过敏毒素对于获得性免疫系统的调节能力和对其他炎症介质的影响。
+
+# 参考文献：
+
+[1]Mizutani N,Goshima H,Nabe T,et al. Complement C3a-induced IL-17 plays a critical role in an IgE-mediated late-phase asthmatic responseandairwayhyperresponsivenessvianeutrophilic inflammation in mice[J].JImmunol,2012,188(11): 5694-705.   
+[2]Zhang X,Kohl J.A complex role for complement in allergic asthma [J].Expert Rev Clin Immunol,2010,6(2): 269-77.   
+[3]Onyemelukwe GC.Complement components in Nigerianswith bronchial asthma[J].Ann Allergy,1989,63(4): 309-12.   
+[4]van de Graaf EA，Jansen HM,Bakker MM,et al.ELISA of complement C3a in bronchoalveolar lavage fluid[J].J Immunol Methods,1992,147(2):241-50.   
+[5］中华医学会呼吸病学分会哮喘学组.支气管哮喘防治指南(支气管哮 喘的定义、诊断、治疗及教育和管理方案)[J].中华内科杂志,2003，16 (11): 68-73.   
+[6]Humbles AA，Lu B,Nilsson CA,et al．A role for the C3a anaphylatoxin receptor in the effector phase of asthma[J].Nature, 2000,406(6799): 998-1001.   
+[7]Krug N, Tschernig T, Erpenbeck VJ, et al. Complement factors C3a and C5a are increased in bronchoalveolar lavage fluid after segmental allergen provocation in subjects with asthma[J].Am J Respir Crit Care Med,2001,164(10 Pt1):1841-3.   
+[8]曾勉,吴健锋,谢灿茂,等.慢性阻塞性肺疾病急性加重期患者规范化 痰诱导安全性的初步研究[J].中华结核和呼吸杂志,2005,28(4): 238-41.   
+[9] Clark HW,Reid K, Sim RB.Collections and innate immunity in the lung[J].Microbes Infect,2000,2(3): 273-8.   
+[10] Strunk RC,Eidlen DM,Mason RJ.Pulmonary alveolar type II epithelial cells synthesize and secrete proteins of the classical and alternative complement pathways [J].J Clin Invest,1988,81(5): 1419-26.   
+[11]Ames RS,Li Y,Sarau HM,et al．Molecular cloning and characterization of the human anaphylatoxin C3a receptor[J].J Biol Chem,1996,271(34): 20231-4.   
+[12]Thangam EB,Venkatesha RT,Zaidi AK,et al.Airway smooth muscle cellsenhance C3a-induced mast cell degranulation following cell-cell contact[J].FASEB J,2005,19(7):798-800.   
+[13]Fregonese L,Swan FJ,van Schadewijk A,et al. Expression of the anaphylatoxin receptors C3aR and C5aR is increased in fatal asthma [J].JAllergy Clin Immunol, 2005,115(6): 1148-54.   
+[14] Mathieu MC,Sawyer N,Greig GM,et al. The C3a receptor antagonist SB 290157 has agonist activity[J]. Immunol Lett, 2005, 100(2): 139-45.   
+[15]Lim J,Iyer A,Suen JY,et al. C5aR and C3aR antagonists each inhibit diet-induced obesity,metabolic dysfunction,and adipocyte and macrophage signaling[J].FASEBJ,2013,27(2): 822-31. （编辑：吴锦雅）

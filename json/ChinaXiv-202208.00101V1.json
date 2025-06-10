@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "NursRxiv ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.12209/issn2708-3845.20220705001 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "运用PDCA循环持续改进首台择期手术开台时间管理质量",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙铱钒'，徐旭'，王岳娜²（1.西安医学院第二附属医院质控科，陕西西安，710038;2.西安医学院第二附属医院 消毒供应室，陕西西安，710038)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的探讨运用PDCA循环持续改进首台择期手术开台时间管理质量的效果。方法调查和分析医院2020年7月—2021年7月首台择期手术开台时间,应用PDCA循环进行首台择期手术开台时间管理,对比分析实施PDCA管理前后手术开台时间。结果实施PDCA循环后，医院首台择期手术开台时间较实施PDCA循环前提前，首台择期手术开台时间延迟的问题得到改善。结论PDCA循环的实施提高了医院外科科室、手术麻醉科等对首台择期手术准时开台的重视程度,相关制度要求逐项落实,首台择期手术开台时间管理质量得到提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：择期手术；PDCA循环；手术室管理；首台手术开台时间",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of PDCA cycle in continuous quality improvement of elective surgery schedule ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUN Yifan1,XU Xu1，WANG Yuena²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.Department of Quality Control,The Second Afiliated Hospital of Xi'an Medical University,Xi'an，Shaanxi,710038; 2.Central Sterile Supply Department,The Second Afiliated Hospital of Xi'anMedical University，Xi'an，Shaanxi,710038) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: ObjectiveTo evaluate the effect of PDCA cycle in continuous quality improvement of elective surgery schedule.MethodsThe first case on-time starts of the day between July 2020 and July 2O21 was retrospectively analyzed. The PDCA cycle was used to in the management of first case on-time starts of the day.The difference in first case on-time starts before and after implementation of PDCA cycle was analyzed.ResultsThe rate of first case on-time starts was increased after implementation of PDCA cycle，and potential risks causing the delay of first case on-time starts were addressed.ConclusionThe implementation of PDCA cycle is effective to increase the awareness of first case on-time starts among surgeons，anesthesiologist，surgical nurses and other medical workers.The PDCA cycle helps hospital managers to establish scientific process and improve the management quality of elective surgery schedule. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KEY WORDS: elective surgery; PDCA cycle ; surgical management; first case on-time starts ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "手术室是医院重要部门，各种医疗资源密集，运行成本高，被认为是降低成本最优潜力的部门[。一台手术通常需要外科、手术部、麻醉科工作人员共同配合完成，手术室需要有计划地安排手术开台时间，以确保在单位时间内最大效率地使用手术室的资源。首台择期手术开台时间的延迟，会对患者心理状态和手术效果造成一些不良影响[2]。首台择期手术能够准时开台，不仅能确保充分利用手术室医疗资源，降低手术室运行成本，避免不必要的医疗消耗和浪费，保障手术室医疗质量与安全，也是外科手术相关环节流程的顺畅有序、提高工作效率和降低医疗安全隐患的前提[3-4]。医院规定首台择期手术开台时间(切皮时间)不晚于8：30，但目前首台择期手术延迟开台现象仍然存在，导致医院每日手术例数的减少，也会造成手术室各项医疗设备不必要的消耗和浪费。2018年2月医院制定《关于首台择期手术准时开台管理暂行规定》，旨在加强首台择期手术开台时间管理，但效果不理想。医院质控科作为医疗质量与安全管理办公室，针对这一重要问题进行现状分析，并运用PDCA质量管理工具，采取有效措施解决问题。现将实践效果报告如下",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1一般资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2018年2月医院制定《关于首台择期手术准时开台管理暂行规定》，主要内容见表1。调查医院2020年7月一11月首台择期手术开台时间。汇总麻醉科、手术室、临床科室的意见，分析手术开台时间较晚的原因，查找问题，确定导致首台开台时间延迟的主要原因，并以此拟定实施计划。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f16ed483dcbcc71d87176604f2d4f76c8db831b7c7837f4446ecdbd4964c905d.jpg",
+        "table_caption": [
+            "表1《关于首台择期手术准时开台管理暂行规定》主要内容"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>涉及部门</td><td>质控内容</td><td>考核标准</td></tr><tr><td>手术科室</td><td>手术当日至少于手术预定时间前60分钟完成手术患者所有术 前准备工作，以保证手术部人员能及时将患者接入手术室。</td><td></td></tr><tr><td>手术室</td><td>手术当日至少于手术预定时间前40分钟将患者接入手术室。</td><td rowspan=\"3\">请各相关科室严格按照规定时间完成相应工作，质控结果 将纳入医院绩效考核，每违反一次扣罚责任科室5分。</td></tr><tr><td></td><td>麻醉科手术当日至少于手术预定时间前40分钟将患者接入手术室。</td></tr><tr><td>三方部门 间即为麻醉开始执行时间。</td><td>患者进入手术间时间即为手术安全核查开始时间,核查结束时</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1成立项目调查小组：以质控科主任作为组长，管理专干、手术室护士长、麻醉师代表和临床医生代表作为组员，组长工作职责：布置工作任务、协调组员帮助解决问题；管理专干工作职责：会议资料、文案编写和数据整理；各组员工作职责：完成任务、贡献技能、提出意见，引导方向等。调查医院2020年7月一11月首台择期手术51台，汇总开台时间，见图1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9256d100e5d1e684b247aefc56f33e5d94f6bab1c4ef257f2bcfb1c93d6ab1ff.jpg",
+        "img_caption": [
+            "图12020年7月一11月首台择期手术开台时间抽查情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 2.2 原因分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2.1现况分析：项目小组通过会议讨论和第一次“头脑风暴”，结合前5个月的检查情况，对可能导致首台择期手术开台时间延迟这一现象原因进行排列分析，项目小组通过对51例首台择期手术开台时间的抽查，每位组员发言总结导致首台择期手术开台时间延迟的原因及其发生的频次。通过对调查的90例相关工作人员提供的原因进行排序，利用“二八定律”，发现其中“手术医生迟到”“手术室护士与病区护士交班时间较长”、“麻醉医师迟到\"发生频率占所有问题的前三位，占总频次的 $8 0 . 0 0 \\%$ ,其中\"手术医生迟到\"因素占总频次的 $5 3 . 3 3 \\%$ ，可视为主要问题。见表2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2.2主要原因分析：项目组长组织组员进行第二次“头脑风暴”。“手术医生迟到\"发生的频次占所有事件频次的 $5 3 . 3 3 \\%$ ,是首台择期手术开台时间延迟的主要问题，通过鱼骨图对手术医生迟到进行原因分析，见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2.3制定对策：通过对调查结果和存在的问题进行分析，结合实际情况，项目组长组织组员进行第三次“头脑风暴”，对主要原因拟定以下具体措施和对策，见表3和表4。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e6f560d160176e9b3cc63cab8a77b460115b58a4ccf573c243419c8c4598a08.jpg",
+        "table_caption": [
+            "表251例首台择期手术开台时间延迟的原因频次及其所占比例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主要原因</td><td>频次</td><td>百分比/%</td><td>累计百分比/%</td></tr><tr><td>手术医生迟到</td><td>48</td><td>53.33</td><td>53.33</td></tr><tr><td>手术室护士与病区护士交接时间较长</td><td>12</td><td>13.33</td><td>66.67</td></tr><tr><td>麻醉医师迟到</td><td>12</td><td>13.33</td><td>80.00</td></tr><tr><td>临时取消或更改手术</td><td>7</td><td>7.78</td><td>87.78</td></tr><tr><td>病人术前准备不充分</td><td>6</td><td>6.67</td><td>94. 44</td></tr><tr><td>麻醉机、监护仪等设备故障</td><td>5</td><td>5.56</td><td>100.00</td></tr><tr><td>合计</td><td>90</td><td>100.00</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3cef657a6375161afa810a5a6cfc0c52d1caafe3dcc7ba0d13e8101ec129309.jpg",
+        "img_caption": [
+            "图2手术医生迟到的原因分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/adb1821a9f965a57ad99e4b84fb1f469bcbc00813074cc3bf80417b194d1cd00.jpg",
+        "table_caption": [
+            "表3“手术医生迟到\"原因分析及对策"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>要因</td><td>措施</td><td>提案人</td></tr><tr><td>交通不便利</td><td>手术前天医生可提前一小时下班，保证医生休息时间,手术当日可提前一小 时上班。</td><td>管理专干</td></tr><tr><td>医生早交班时间与手术时间冲突</td><td>允许手术医生不参加早交班</td><td>临床医生代表</td></tr><tr><td>医生需要查房</td><td>除危急重症病人，手术医生可不参加查房，由诊疗组其他医生代查。</td><td>临床医生代表</td></tr><tr><td>原制度无时间质控点</td><td>明确具体的时间质控点。</td><td>管理专干</td></tr><tr><td>主管职能部门监管不到位</td><td>主管部门重新修改检查记录表，并纳入绩效考核</td><td>组长</td></tr><tr><td>未完成术前准备</td><td>给各手术科室培训术前准备内容</td><td>管理专干</td></tr><tr><td>对规章制度不知晓</td><td>定期组织全院培训，到科室组织培训</td><td>管理专干</td></tr><tr><td>医生对术前准备流程不熟悉，不参与术前 准备</td><td>组织培训</td><td>管理专干</td></tr><tr><td>手术医生不陪同患者入室</td><td>修订制度+组织培训</td><td>手术室护士长</td></tr><tr><td>医院无医护专用电梯</td><td>手术室新增两名护士，安排排班，错开电梯早高峰。</td><td>组长</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3 实施阶段",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.1召开医疗质量与安全管理委员会：2020年12月医院召开医疗质量与安全委员会，通过以下决议： $\\textcircled{1}$ 允许第二天安排首台手术的医生提前1小时下班，合理安排医生作息时间； $\\textcircled{2}$ 允许安排首台手术的医生早交班时提前离场; $\\textcircled{3}$ 早查房可由小组其他成员代查； $\\textcircled{4}$ 各手术相关科室必须按照《关于首台择期手术准时开台管理暂行规定的修订》中的要求严格执行，质控科不定期监督、检查、反馈、进行绩效考核。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.2修订制度，严格执行：医疗质量与安全委员会还决议通过对《关于首台择期手术准时开台管理暂行规定的修订》，具体内容如下： $\\textcircled{1}$ 对术前准备的时间质控具体到时间，并制作时间流程图。 $\\textcircled{2}$ 明确各手术室、麻醉科、手术科室的分工与职责，充分做好术前准备； $\\textcircled{3}$ 质控科作为督查部门将不定期抽查和检查科室执行情况。 $\\textcircled{4}$ 除患者因素外，由于医护人员原因造成首台择期手术未按时开台，将实行责任科室扣罚，每推迟1分钟扣罚责任科室1分，推迟时间 ${ \\geqslant } 3 0$ 分钟扣罚责任科室40分，并实行月通报制。质控结果将纳入医院绩效考核。 $\\textcircled{5}$ 根据时间质控点对首台择期手术检查新增\"病人入室时间”“是否有医生陪同”、“三方核查时间即麻醉执行时间\"和“\"切皮时间”质控点。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccbbeed2700ae2d03b802eb690e0af04ad6ce280c38758388226661238fa3fe5.jpg",
+        "table_caption": [
+            "表4针对\"手术医生迟到\"具体措施和对策 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>问题</td><td>措施</td><td>对策</td><td>时间截点</td></tr><tr><td>交通不便利</td><td>手术前天医生可提前一小时下班，保证 医生休息时间，手术当日可提前一小时</td><td>对策一：</td><td rowspan=\"4\">2020年12月底之 前</td></tr><tr><td>医生早交班时间与手术时间冲突</td><td>上班。 允许手术医生不参加早交班</td><td>医疗质量与安全管理委员会 决议</td></tr><tr><td>医生需要查房</td><td>除危急重症病人，手术医生可不参加查 房，由诊疗组其他医生代查。</td><td></td></tr><tr><td>原制度无时间质控点</td><td>明确具体的时间质控点。 主管部门重新修改检查记录表，并纳入</td><td>对策二： 修订制度，</td></tr><tr><td>主管职能部门监管不到位</td><td>绩效考核</td><td>严格执行</td><td rowspan=\"3\"></td></tr><tr><td>未完成术前准备</td><td>给各手术科室培训术前准备内容</td><td></td></tr><tr><td>对规章制度不知晓</td><td>定期组织全院培训，到科室组织专项培 训</td><td>对策三：</td></tr><tr><td>医生对术前准备流程不熟悉，不参与术 前准备</td><td>组织培训</td><td>组织培训 相关内容</td><td rowspan=\"2\">2021年1月</td></tr><tr><td>手术医生不陪同患者人室</td><td>修订制度+组织培训</td><td></td></tr><tr><td>医院无医护专用电梯</td><td>手术室新增两名护士，合理安排时间，保 证护士休息时间,错开电梯早高峰。</td><td>对策四： 报备人事科 招人计划</td><td>2021年2月</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.3组织培训相关内容：通过住院医师晚自习对全院医帅、包括质控员和路径员进行培训，培训内容主要包括： $\\textcircled{1}$ 对《关于首台择期手术准时开台管理暂行规定的修订》的解读。 $\\textcircled{2}$ 学习术前准备的内容和流程。 $\\textcircled{3}$ 要求至少有一名手术医生陪同患者入室，完成三方核查。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.3.4手术室向人事科提交招人计划：科室已于2021年1月新招聘两名护士，负责接送手术病人，通过岗前培训,1月底正式开始工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.4检查阶段2020年12月—2021年7月，项目小组制作检查表，每月对首台择期手术开台情况进行抽查，除常规检查如术前病历是否完整、术前检查是否完善、麻醉前访视记录和麻醉评估情况、手术知情同意书签署情况等，着重对新增质控时间点进行检查，每月对存在问题的科室按照规定进行考核和通报。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "截止2021年7月共抽查46台手术，检查情况以及首台择期手术开台时间见图5。可见，实施PDCA循环后首台择期手术开台时间较实施PD-CA循环前提前。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/25af494b4bed0b06bb891a01e1abfe42254afdfa6fa3422814481071761c3417.jpg",
+        "img_caption": [
+            "图52020年12月-2021年7月首台择期手术开台时间抽查情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www. nursrxiv. org. cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首台择期手术开台时间和手术室医疗资源利用效率密切相关，开台手术时间管理是手术室管理的一项重要内容[5-6]。图5中显示,1台手术开台时间为8：45，原因为该患者为骨科患者，存在术前体位摆放困难;1台手术开台时间为9：00，原因为该患者术前血压较高，需降压到正常后才可手术。但首台择期手术开台平均时间仍为8：24。可见通过对首台择期手术准时开台管理的修订，并对修订内容、术前准备的培训以及智能部门对首台择期手术开台的监督等一系列措施的执行，提高了医院外科科室、手术麻醉科对首台择期手术准时开台的重视程度，各相关科室能均够按照制度要求逐项落实，提前了首台择期手术的开台时间。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "通过PDCA循环法，医院首台择期手术开台时间能够按时在8：30之前开始，说明修订《首关于首台择期手术准时开台管理暂行规定》开展术前准备培训、加强职能部门监督考核对保证医院首台择期手术准时开台具有积极效果，可继续贯彻执行。项目小组在检查过程中发现手术管理存在以下问题：手术部位标识不正确；手术安全核查、手术风险评估不按流程进行和患者术前病历缺失；术前 $0 . 5 \\sim 1 \\mathrm { ~ h ~ }$ 抗生素的执行在病房执行会导致患者在手术室意外拔针，并且对接台手术不适用等问题。针对上述，可以进入到下一个PD-CA循环中，运用PDCA循环工具分析、解决。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：作者声明本文无利益冲突。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] 陈汝雪，欧阳晶，谢倩，等．综合干预对首台手术开台时间管理成效分析[J].中国医院管理，2015,35(5):33-34.  \n[2] 王莉，周娅颖，程勤，等．手术室流程优化和时间管理效果评价[J].解放军医院管理杂志，2017，24(12):1123-1125.  \n[3] TUCKER M E.First case on-time starts soar afterrapid process improvement training[J]. OR Manag-er,2014,30(2):1,9-1,11.  \n[4] MATHEWSL，KLAKM，MAROLENKN，etal.Measuring and improving first case on-time startsand analysis of factors predicting delay in neurosurgi-cal operating rooms[J].J Neurosurg Anesthesiol,2015，27(3):203-208.  \n[5] 李晶，杨松凯．优化手术室业务流程提升手术台利用率[J].齐鲁医学杂志，2010，25(2)：178-179.  \n[6] 赵亮，金昌晓，王军，等．提高手术室效率的方法研究[J].中国医院，2008，12(10)：45-49.",
+        "page_idx": 4
+    }
+]

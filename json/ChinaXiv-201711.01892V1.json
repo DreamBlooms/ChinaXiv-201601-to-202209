@@ -1,0 +1,681 @@
+[
+    {
+        "type": "text",
+        "text": "A revision of Anhuichelys Yeh, 1979, the earliest known stem Testudinidae (Testudines: Cryptodira) from the Paleocene of China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TONG Hai-Yan'² LI Lu² LI Ding-Sheng³ CHEN Li-Min LI Tao³ YU Shu-Hua³ YU Guo-Sheng4 CHENG Xiao-Qing4 DI Ye-Li’ Julien CLAUDE6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1PalaeontologicalResearchandEducation Centre,Mahasarakham University Kantarawichai,Mahasarakham44150, Thailand htong09@yahoo.fr)   \n(2KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology andPaleoanthropology,Chinese Academy of Science Beijing looo44,China)   \n(3 Museum of Qianshan County Qianshan 246300,Anhui, China)   \n(4 Tianzhushan Global Geopark Qianshan 2463oo,Anhui,China)   \n(5Shanghai Natural History Museum Shanghai 20oo41,China)   \n(6Institutdes Sciences del'Evolution deMontpellierMontpellier Cedex5,34095,France) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractOur systematic revision of Anhuichelys Yeh,1979,based on abundant new material from the Paleocene of Qianshan Basin, Anhui Province, China provides evidences for its assignment to the stem Testudinidae.Anhuichelys contains three species in the Paleocene of Qianshan Basin: A. siaoshihensis Yeh,1979 from the Early Paleocene of Wanghudun Formation, A.tsienshanensis Yeh,1979 from both Wanghudun and Doumu formations and $A$ .doumuensis sp. nov. from the Middle Paleocene Doumu Formation.A. xinzhouensis Chen,1983 from the Paleocene of Xinzhou,Hubei Province is synonymized with $A$ .tsienshanensis.Associated with a terrestrial vertebrate fauna,Anhuichelys is likelya land turtle and also the first testudinoid to develop the hinge on the shell. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key wordsQianshan Basin,China; Paleocene; turtle,Testudinidae ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation Tong H,LiL,Li D S et al.,2016.A revision of Anhuichelys Yeh,1979, the earliest known stem Testudinidae（Testudines: Cryptodira） from the Paleocene of China. Vertebrata PalAsiatica, 54(2):156-179 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 1970-1971, the Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences (IVPP), has collected several turtle shells in the Paleocene deposits of the Qianshan Basin,Anhui Province,central-eastern China. On the basis of this material, Ye Xiangkui (Yeh,1979a) erected the genus Anhuichelys and its two species: A. siaoshihensis and A. tsienshanensis.Yeh (1979a) assigned Anhuichelys to the family Emydidae,and considered it as the oldest representative of that family. Brinkman and co-authors (2Oo8) retained this classification, but noted that“Anhuichelys shares derived features of the carapace with the Testudinidae, and may be a sister-group to this family” (Brinkman et al., 20o8:80). During the past decades, abundant additional specimens of Anhuichelys have been collected in the Qianshan Basin. The material, mainly consisting of shells, is housed in several museums in China. In this paper, we provide a systematic revision of Anhuichelys which includes the type series of the known taxa and new material. The purpose of this study is to review the validity of the taxa and their phylogenetic relationships. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Qianshan Basin is located in the southwest part of Anhui Province, central-eastern China. According to Qiu et al. (1977), the redbeds in the Qianshan Basin are subdivided into three formations. They are, in ascending order, the Cretaceous Wanghe Formation, and the Paleocene Wanghudun and Doumu formations.The Wanghudun Formation is further divided into the Lower, Middle and Upper members and Doumu Formation is further divided into the Lower and Upper members.Both Wanghudun and Doumu formations are rich in vertebrate remains,and fossil mammals have been recorded from all members except the Middle Member of the Wanghudun Formation. To date,more than fifty species of vertebrates have been reported, including reptiles,birds and mammals (Qiu et al.,1977; Wang et al., 2016). Previously dated as Middle and Late Paleocene respectively (Qiu et al.,1977), the Wanghudun and Doumu formations are now considered Early and Middle Paleocene in age,according to the recent correlation based on the mammalian faunas.For more geological and stratigraphical information see Wang et al., 2016 (this volume). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/204e08f1c218c95a73c36e6d0aa555277494d04882427e81371f336b1e16f8f8.jpg",
+        "img_caption": [
+            "Fig.1Map showing the location of Qianshan Basin and turtle localities ▲Anhuichelys siaoshihensis(1.IVPPV 5598;2.TZSGP QT2;3.MQSC $\\mathrm { ~ V ~ } 0 0 5$ ;■A.tsienshanesis(4. MQSCV012; 5.MQSCV023-2; 6.MQSCV00133; 7.MQSCV061; 8.TZSGPQT15); $\\blacktriangle$ A.doumuensis (9.IVPPV 5599;10.MQSC $\\mathrm { ~ V ~ } 0 0 9$ ； 11.MQSCV 002;12.MQSCV065); $\\bullet$ Anhuichelys sp.(13.MQSC V 023-1; 14. MQSC V011-2; 15.TZSGP QT19); Ar. Archean; E1d. Doumu Fm. (Middle Paleocene); E1w. Wanghudun Fm. (Early Paleocene); K2w.Wanghe Fm.(Late Cretaceous) "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Turtle remains have been collected from all members of the two Paleocene formations except the Middle Member of the Wanghudun Formation. The specimens of A. siaoshihensis have been collected from the Lower and Upper members of the Wanghudun Formation; A. tsienshanensis has been collected from the Upper Member of the Wanghudun and both members of the Doumu Formation; and the specimens of $A$ .doumuensis have been collected only from the Upper Member of the Doumu Formation (Fig. 1). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Institutional abbreviations AHM, Anhui Provincial Museum (Hefei, Anhui Province); HBGM, Hubei Geological Museum (Wuhan); IVPP, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences (Beijing); MQSC,Museum of Qianshan County (Qianshan, Anhui Province); RGSTHB, Regional Geological Surveying Team of Hubei (Hubei Province); SHNHM, Shanghai Natural History Museum (Shanghai); TZSGP, Tianzhushan Global Geopark (Qianshan,Anhui Province). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Systematic paleontology ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Testudines Linnaeus,1758 Cryptodira Cope,1868 TestudinoideaBatsch, 1788 AnhuichelysYeh,1979 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Typespecies A. siaoshihensis Yeh,1979. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Emended diagnosisCarapace oval and relatively high domed; wide nuchal; elongate hexagonal neurals with short anterolateral sides and a neural formula of $4 > 6 > 6 > 6 > 6 > 6 > 6 > 6 > 6 > 6$ alternate costals (costals 2, 4,and 6 with short medial end and expanded lateral end; while costals 3 and 5 with expanded medial end and short lateral end); narrow vertebrals, vaseshaped vertebral 1 with its anterior part restricted to the nuchal; wel developed plastron with large and sub-rectangular anterior and posterior lobes; anterior rim of the plastron concave, extending up to or beyond the anterior margin of the carapace; epiplastra forming a pair of strong and upturned horn-shaped lateral processes; anal notch extremely shallow or absent; xiphiplastra expanded, with the hypoplastron/xiphiplastron suture straight and situated close to the base of the posterior lobe; intergular absent, femoral scute short at the midline. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Included species A. tsienshanensis Yeh,1979 and A.doumuensis sp. nov. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Distribution Early-Middle Paleocene of Qianshan Basin,Anhui Province and Paleocene of Xinzhou, Hubei Province, China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AnhuichelyssiaoshihensisYeh,1979 (Figs. 2-3) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HolotypeIVPP V 5598 (Field number: 71080),a complete shell with articulated carapace and plastron. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensTZSGP QT2（ $1 5 0 \\ \\mathrm { m }$ east to Zhangjiawu, Qianshan; Upper Member of Wanghudun Fm.) and MQSC $\\mathrm { ~ V ~ } 0 0 5$ (Zhangchong, Wufan, Huangpu; lower part of the Upper member of Wanghudun Fm.). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Type locality and horizon Dinghuawu, Mao'an, Xiaoshi Town, Huaining County, Anhui Province, China; Lower Member of Wanghudun Formation (Early Paleocene). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Emended diagnosisA species of Anhuichelys; different from A. tsienshanensis in having a hinge between the epiplastra/entoplastron and hyoplastra; the entohyoplastral suture and epihyoplastral suture together forming a straight line situated posterior to the entoplastron; ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/831c10875e06ff991384318b158250847db1315a240605869e1a3c2d37688541.jpg",
+        "img_caption": [
+            "Fig.2 Shell of Anhuichelys siaoshihensis (IVPP V 5598, holotype) A-B.dorsal view; C-D.ventral view;E-F.leftlateral view "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc99572581e9db01332aeedb00d9e6b4c43e86f763a67355b2f0a58301ce9030.jpg",
+        "img_caption": [
+            "Fig.3Shell of Anhuichelys siaoshihensis (TZSGP QT2) A-B.dorsal view; C-D.ventral view; E-F.anterior view; G-H.left lateral view "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "and the humeropectoral sulcus matching or close to the entohyoplastral and epihyoplastral sutures. It further differs from A. tsienshanensis and A. doumuensis in having a long midline contact of the epiplastra; a half circle-shaped entoplastron; long gulars which extend onto the entoplastron; the humeropectoral sulcus matching the posterior margin of the entoplastron; a short pectoral scutes and a straight pectoroabdominal sulcus. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Distribution Early Paleocene (Wanghudun Formation) of Qianshan Basin. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AnhuichelystsienshanensisYeh,1979 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Figs.4-5,6E-F) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Synonymy Anhuichelys xinzhouensis Chen, 1983. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Holotype AHM V 71079-3 (Field number: 71079),anterior 4/5 of a shell with articulated carapace and plastron; the middle portion of the carapace is damaged, as well as the anterior part of the right bridge region of the plastron. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ParatypeAHM V 71079-1,a shell exposed dorsally with worn surface so that the structure is obscure (from the type locality (Yeh,1979a)). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensAHM V 71079-2, fragments of a carapace (from the type locality (Yeh, 1979a)); TZSGP QT15 (Xudawu, Qianshan; Lower Member of Doumu Fm.), MQSC V ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/87a96831a7f9749318ef2141beb409f6fad4bd3b23a2eefcc534d39a15e4be30.jpg",
+        "img_caption": [
+            "Fig.4Shell of Anhuichelys tsienshanensis (AHM V 71079-3,holotype) A.dorsal view;B-C.ventral view;D-E.anterior view "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/13a6babdadbb36eb22ec0648b856f6e2a3eddd9f5e20071cd5917ae2cd191308.jpg",
+        "img_caption": [
+            "Fig.5Shell of Anhuichelys tsienshanensis (TZSGP QT15) A-B.dorsal view; C-D.ventral view; E-F.anterior view; G-H. right lateral view "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "001 (Yangxiaowu, Wangling, Huangpu, Qianshan; Upper Member of Doumu Fm.), MQSC V 061 (Hanjiashanbao, Qipan Village, Pailou Township, Qianshan; Lower Member of Doumu Fm. or the base of the Upper Member of Doumu Fm.), MQSC V O23-2 (Jinshi Village, Qinglou Township, Qianshan; upper part of the Upper Member of Wanghudun Fm. or Lower Member of Doumu Fm.), MQSC V O12 (hilside southeast of Wangjiazha, Qianshan; Upper Member of Wanghudun Fm.?), MQSC V O10 (South of Lianhuatang, Huangpu, Qianshan; Upper Member of Wanghudun Fm.?) and MQSC V O66 (Yangxiaowu, Huangpu, Qianshan; Upper Member of Doumu Fm.), RGSTHB V.H751, RGSTHB V.H753 and HBGM V.H752 (Zhaigang, Jiujie, Xinzhou County, Hubei Province), ten shels; IVPP V 23137,anterior portion of a plastron (Fujiashanzui, Qianshan; upper part of Upper Member of Wanghudun Fm.). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Type locality and horizonHanhuawu, Huangpu Township,Qianshan County, Anhui Province, China; Lower Member of Doumu Formation (Middle Paleocene). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Emended diagnosisA species of Anhuichelys,different from A. siaoshihensis and A. doumuensis in the absence of a hinge at the base of the anterior lobe of the plastron; in having the epihyoplastral suture situated lateral to entoplastron, the humeropectoral sulcus posterior to the epihyoplastral suture; a short midline contact of epiplastra; a diamond-shaped entoplastron which is roughly as long as wide; wide gulars which do not or barely extend onto the entoplastron; a long pectoral scute and the pectoroabdominal sulcus convex backward. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DistributionEarly-Middle Paleocene (Upper Member of the Wanghudun Formation and Doumu Formation) of Qianshan Basin and Paleocene of Xinzhou Basin. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1a6b6f74b6f8c413efcdd4c488a95a5a660177355431fb39efe37eeab523c68.jpg",
+        "img_caption": [
+            "Fig.6Shell of Anhuichelys doumuensis (A-D,IVPPV 5599,holotype) and A. tsienshanensis (E-F,IVPPV 23137) A-B.dorsal view; C-D.ventral view; E-F.anterior portion of the plastron showing the epiplastral lips in ventral (E) and dorsal (F) views "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys doumuensis sp. nov. ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(Figs. 6A-D,7) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Holotype IVPP V 5599 (Field number: 71071),a shell with damaged carapace and complete plastron. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Etymology From Doumu Formation, where the specimens of this species come from. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensMQSC V O02 and MQSC $\\mathrm { ~ V ~ } 0 0 7$ (Yangxiaowu, Wangling, Huangpu, Qianshan; Upper Member of Doumu Fm.),MQSC $\\mathrm { ~ V ~ } 0 0 9$ (Yanglaowu,Wenliang Village, Lingtou Township, Qianshan; Upper Member of Doumu Fm.), MQSC V O65 (Meiyuan, Doumu Township; Upper Member of Doumu Fm.), SHNHM 1945 (Qianshan Basin (?), Anqing; Paleocene), five shells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Type locality and horizon Yangxinwu, Qianshan; Upper Member of the Doumu Formation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DiagnosisA species of Anhuichelys which has a hinge on the base of the anterior lobe between the epiplastra/entoplastron and the hyoplastra.It differs from $A$ .siaoshihensis and A. tsienshanensis in having a sub-oval to oval shaped and longer than wide entoplastron; a moderate epiplastral midline contact. In addition, it differs from A. siaoshihensis in having wide gulars,a long pectoral scute and a backward convex pectoroabdominal sulcus; and from $A$ tsienshanensis in the gulars extending onto the entoplastron in most specimens. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Distribution Middle Paleocene (Doumu Formation) of Qianshan Basin. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbafb1723cd69705882894f5cca546b3a7e933caa289768079a39da29e7492e7.jpg",
+        "img_caption": [
+            "Fig.7Shell of Anhuichelys doumuensis (SHNHM1945) A-B.dorsal view; $\\mathrm { C - D }$ .ventral view; E-F.right lateral view; $\\mathrm { G \\mathrm { - } H }$ .anterior view "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys sp. ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Referred specimensThree shells: TZSGP QT19 (Fujiashanzui, Qianshan; upper part of Upper Member of Wanghudun Fm.); MQSC V O11-2 (East to Niuxing Reservoir, Wanfeng, Yujing, Qianshan; base of Doumu Fm. or top of Wanghudun Fm.); MQSC V O23-1 (Jinshi Village, Qinglou Township, Qianshan; upper part of Upper Member of Wanghudun Fm. or Lower Member of Doumu Fm.); and IVPP V 18674,an internal mold of a juvenile shell (location and horizon unknown). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MeasurementsSee Table 1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5fdef7f520e59e0f356ffcebd4b02ea1dd57f3c9f96499fde20165d6f6ba4e5.jpg",
+        "table_caption": [
+            "Table1 MeasurementsofAnhuichelys ",
+            "(cm) "
+        ],
+        "table_footnote": [
+            "Note: estimated complete value in parenthesis. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td rowspan=\"2\">Carapace Length/ Width/Height</td><td colspan=\"4\">Plastron</td></tr><tr><td>Total Length/Width</td><td>Anterior lobe Length/Width</td><td>Bridge length</td><td>Posterior lobe Length/Width</td></tr><tr><td>A.siaoshihensis</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IVPPV5598</td><td>29/26.5/11.6</td><td>27.8/20</td><td>7/14</td><td>12</td><td>8.3/15.5</td></tr><tr><td>TZSGP QT2</td><td>23/18.5/7</td><td>20/15</td><td>5.3/9.8</td><td>8</td><td>6.8/11.5</td></tr><tr><td>MQSCV005</td><td>22/17.5/5</td><td>19.5/13</td><td>4.5/9.3</td><td>9.5</td><td>5.5/10.5</td></tr><tr><td>A.doumuensis</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IVPPV 5599</td><td>9.3/8.3/3.8</td><td>7.9/7.4</td><td>2.1/5.6</td><td>4.7</td><td>2.5/5.8</td></tr><tr><td>SHNHM1945</td><td>15.5/12.1/6.5</td><td>15/10.1</td><td>4.2/6.7</td><td>52</td><td>5.5/7.2</td></tr><tr><td>MQSCV002</td><td>32/18(25)/13</td><td></td><td></td><td></td><td></td></tr><tr><td>MQSCV009</td><td>22.5/18/9.2</td><td>21.5/12.5</td><td>4.5/11</td><td>10.5</td><td>7/11.7</td></tr><tr><td>MQSCV065</td><td></td><td>25.5/17.5</td><td>6/12.5</td><td>11</td><td>8.5/-</td></tr><tr><td>A.tsienshanensis</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AHMV71079-3</td><td>20.3(24.5)/22/-</td><td>20.7(23.5)/14.2</td><td>6/10.5</td><td>11.5</td><td>(5.5)/12.3</td></tr><tr><td>AHMV71079-1</td><td>17/13.5/4.5</td><td></td><td></td><td></td><td></td></tr><tr><td>TZSGP QT15</td><td>15.2/13.8/4.5</td><td>14/10</td><td>4.2/5.9</td><td>5.5</td><td>4.6/7.7</td></tr><tr><td>MQSCV001</td><td>18.5/17/7</td><td>16.5(18)/14.5</td><td></td><td>7.5</td><td>6.5/12.8</td></tr><tr><td>MQSCV 061</td><td>18(19.5)/15.5/3.5</td><td>17(18)/12</td><td>3.7/7.2</td><td>7.5</td><td>(4.5)/9.4</td></tr><tr><td>MQSCV023-2</td><td>19/17.5/7.5</td><td>18.5/14</td><td>4.3/-</td><td>8.1</td><td>5.2/10.5</td></tr><tr><td>MQSCV012</td><td>(22)/(19)/7</td><td>20/15</td><td></td><td></td><td></td></tr><tr><td>MQSCV010</td><td>17(18)/17.1/5.8</td><td>12.5(17)/13.2</td><td>4.8/8</td><td>8</td><td></td></tr><tr><td>MQSCV 066</td><td>23/20/9.5</td><td>22.5/16</td><td>5.5/10</td><td>9</td><td>8.5/12.4</td></tr><tr><td>Anhuichelys sp.</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TZSGPQT19</td><td>18(20)/18/6</td><td></td><td></td><td></td><td></td></tr><tr><td>MQSC V 011-2</td><td>22.5(29)/25.7/11</td><td>19(28)/19.5</td><td></td><td></td><td>9.5/14.5</td></tr><tr><td>MQSCV 023-1</td><td>22(24)/22/9.5</td><td>(19)/18.5</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Description The description is based on three species of Anhuichelys with a total of more than twenty shells, including juveniles and adult individuals. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The carapace size ranges from $9 . 3 ~ \\mathrm { c m }$ (juvenile) to $3 0 \\ \\mathrm { c m }$ (adult) in length. One of the largest specimens is the holotype of $A$ .siaoshihensis (IVPP V 5598),with a carapace length of $2 9 \\ \\mathrm { c m }$ . The shell is thick.The carapace is moderate to high domed with a height/length ratio ranging from $30 \\%$ to $42 \\%$ (see Table 2); in most specimens this ratio is about $40 \\%$ . The carapace outline is sub-rectangular rather than oval, with somewhat parallel lateral borders. The cervical notch is deep. The posterolateral margin of the carapace is flared and serrated. The pygal is sub-vertical. A caudal notch is present, formed entirely by pygal (SHNHM 1945, TZSGP QT5 and TZSGP QT2) or by both pygal and peripherals 11 (MQSC V 002). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The complete nuchal and neural series are preserved in two specimen of A. siaoshihensis (IVPP V 5598 and TZSGP QT2),one specimen of $A$ . doumuensis (SHNHM 1945),and one specimen of A. tsienshanensis (TZSGP QT15). The nuchal is trapezoid in shape and wider than long. The complete neural series includes eight neurals with a neural formula of $4 { > } 6 { > } 6 { > } 6 { > } 6 { > } 6 { > } 6 { > } 6 { > } 6$ .The neurals 1-5 are elongate,while the more posterior neurals are shorter. SHNHM 1945 has an additional small neural between the neural 8 and the suprapygal 1. The suprapygals, two in number, are preserved in IVPP V 5598, MQSC V 005 and TZSGP QT2 (A. siaoshihensis), MQSC $\\mathrm { ~ V ~ } 0 0 2$ ，MQSC $\\mathrm { ~ V ~ } 0 0 9$ and SHNHM 1945 (A. doumuensis) and TZSGP QT15 (A. tsienshanensis). Their morphology is variable and may be grouped in two morphotypes.Morphotype 1, represented by SHNHM 1945 and MQSC $\\mathrm { ~ V ~ } 0 0 9$ ，has a suprapygal 1 clearly smaller and narrower than the suprapygal 2. Morphotype 2 is well represented in MQSC $\\mathrm { ~ V ~ } 0 0 2$ , and also includes IVPP V 5598, TZSGP QT2 and TZSGP QT15. It has a large suprapygal 1 that bounds posteriorly the oval-shaped suprapygal 2 which is wider than long but narrower than the suprapygal 1. The pygal, well preserved in MQSC $\\mathrm { ~ V ~ } 0 0 2$ ， is high,almost vertical and trapezoid, with backward convergent lateral borders and a deep caudal notch. This morphology is also present in IVPP V 5598 (A. siaoshihensis), MQSC V 009 (A. doumuensis), TZSGP QT19 and MQSC V 011-2 (Anhuichelys sp.). In TZSGP QT2 (A. siaoshihensis), SHNHM 1945 (A. doumuensis) and TZSGP QT15 (A. tsienshanensis), the pygal is low, wider than high with rather parallel lateral borders.There are eight costals. Costal 1 is much longer than costal 2 and contacts the peripherals 1 to 4. Costals 2 to 6 alternate in length in nearly all specimens,with costals 2,4 and 6 being longer laterally than medially, while costal 3 and 5 are longer medially than laterally. However the degree of the alternation is variable, from strongly alternate in IVPP V 5598 and TZSGP QT15 to slightly alternate (TZSGP QT2 and SHNHM 1945).In one specimen (MQSC V 009) the costals have almost parallel anterior and posterior borders. There are eleven pairs of peripherals. The anterior peripherals are relatively short.The bridge peripherals are high with a wide angle between the dorsal sheet and the ventral sheet.The posterolateral peripherals are flared. The peripherals 1l are expanded posteriorly when the pygal is narrowed posteriorly. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The scute sulci are deeply imprinted and wide. The cervical scute as preserved in TZSGP QT2 is large,wider than long with the lateral margins convergent forward. The vertebrals are narrow, with the vertebrals 1-3 clearly longer than wide. However, IVPP V 5598 and TZSGP QT2 (A. siaoshihensis),MQSC $\\mathrm { ~ V ~ } 0 0 1$ ， RGSTHB V.H751, RGSTHB V.753 and HBGM V.752 (A. tsienshanensis), and MQSC V O09 (A. doumuensis) appear to have narrower vertebral 2-3 compare to other specimens. Vertebral 1 is vase-shaped with a constriction at its anterior part. Vertebral 4 is roughly as wide as long. Vertebral 5 is trapezoid and wider than the vertebral 4.The pleural scutes are much wider than the vertebrals.The marginal scutes are all restricted to the peripherals.Marginals 1-2 are short, with their length less than half length of corresponding peripherals.Marginals 12 do not cover the suprapygal 2; they are lower than the pygal in IVPP V 5598 and TZSGP QT2 (A. siaoshihensis), MQSC $\\mathrm { ~ V ~ } 0 0 2$ (A. doumuensis) and TZSGP QT19 and MQSC V 011-2 (Anhuichelys sp.); while in TZSGP QT15 (A.tsienshanensis) and SHNHM 1945 (A. doumuensis), the vertebral 5/marginals 12 sulcus matches the suprapygal 2/pygal suture. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f953d5e3a0a29c05eea05d4334021ff0f1ec501829d4b3b919551f39cd2a9abf.jpg",
+        "table_caption": [
+            "Crh7111-111111:71111111 ",
+            "Tarrerrtreiglnetteeeairreerrrlihar "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Characters</td><td colspan=\"3\">A.siaoshihensis</td><td colspan=\"6\">A. doumuensis</td><td colspan=\"3\">Anhuichelys sp.</td></tr><tr><td>VVP8</td><td>TZSGP</td><td>MQSC</td><td>VP99</td><td></td><td>MOS2 SHNHM 1945</td><td>MQSC</td><td>M0SC</td><td>MOSC</td><td>M011C2</td><td>M0231</td><td>TQGP</td></tr><tr><td>CHeight/Length ati)</td><td>4ig</td><td></td><td></td><td>High (41%)</td><td></td><td>High (42%)</td><td>1</td><td>1</td><td>High (41%)</td><td>High (38%)</td><td>High (40%)</td><td></td></tr><tr><td></td><td></td><td>M30%te</td><td>1</td><td></td><td>Present</td><td>Present</td><td></td><td></td><td></td><td>Absent</td><td></td><td>Present</td></tr><tr><td>Caudal notch</td><td></td><td>Present</td><td>1</td><td>一</td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td>一</td><td></td></tr><tr><td>Costals alternate Suprapygalsa)</td><td>Yes 2</td><td>Yes</td><td>1</td><td>1</td><td>Yes</td><td>Yes 1</td><td>一</td><td>一</td><td>No 1</td><td>Yes 1</td><td>Yes</td><td>2</td></tr><tr><td>Pygalb)</td><td>1</td><td>2？ 1</td><td>2 1</td><td>1</td><td>2 2</td><td>Intermediate</td><td></td><td>一 1</td><td>2？</td><td>2</td><td>1</td><td>2</td></tr><tr><td>Marginala 12 lower than pygal (1) or as</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>2</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>high as pygal (2) Hianteriothe bese</td><td>Present</td><td></td><td>Present</td><td></td><td>Present</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr><tr><td> Open hypoxiphiplastal</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Present Yes</td><td></td><td>Present Yes</td><td>Present Yes</td><td>Present</td><td>Present</td><td>1</td><td>1</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>一</td><td></td><td></td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>1</td></tr><tr><td> Pectsmatchina</td><td>Yirely</td><td></td><td>mest</td><td></td><td></td><td>Yest</td><td></td><td>Yesdte</td><td></td><td>Yesdt</td><td>No</td><td>1</td></tr><tr><td>hypoxiphiplastral suture</td><td></td><td></td><td>portion</td><td></td><td></td><td>portion</td><td>一</td><td>portion</td><td></td><td>portion</td><td></td><td></td></tr><tr><td>Anal notch</td><td>Absent</td><td>portion Present</td><td>Absent</td><td>portion Present</td><td></td><td>Present</td><td>1</td><td>一</td><td>Absent</td><td>Present</td><td>1</td><td>1</td></tr><tr><td>Epiplastral midline midlint lengtastron</td><td>Long</td><td></td><td></td><td>Short (36%)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>entoplastron length)</td><td>(106%)</td><td>Long (70%)</td><td>Lon</td><td></td><td>1</td><td>Long (54%)</td><td>Long (68%)</td><td>Short (25%)</td><td>Short (29%)</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Entoplastron shape</td><td>Hale</td><td>Half circle Half circle</td><td></td><td>Sub>wl,</td><td>1</td><td>Oval, L>W</td><td>Oval,L>W</td><td>rectangular, L>W</td><td>Sub-oval,</td><td>1</td><td>1</td><td>1</td></tr><tr><td>Epihyoplastral suture</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>一</td><td>一</td><td>1</td></tr><tr><td>Gulars</td><td>Long</td><td>Long</td><td>Long</td><td>Wide</td><td>一</td><td>Wide</td><td>Intermediate</td><td>Wide</td><td>Intermediate</td><td></td><td></td><td></td></tr><tr><td> Gutlarntopndirgon</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>？</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>一</td><td>一</td><td>一</td></tr><tr><td> Hutmeg ontoporat sulcus</td><td>No</td><td>No</td><td>No</td><td>No</td><td></td><td>No</td><td>No</td><td>postersgredge</td><td></td><td>一</td><td></td><td>一</td></tr><tr><td>Pectoral scute</td><td>Short</td><td>Short</td><td>1</td><td>Long</td><td>一</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>一</td><td>Long</td><td>1</td></tr><tr><td>Pectoroabdominal sulcus</td><td>Straight</td><td>Sraight</td><td>1</td><td>Comward</td><td>一</td><td>Straight</td><td>Convard</td><td>Cokward</td><td></td><td>1</td><td>Conward</td><td></td></tr><tr><td> Short femoral</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>1</td><td>Yes</td><td>1</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>1</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/de01ab5514055a5d9597d5305213df5fea2f876c2bc8afdfead287d2ee3a0b39.jpg",
+        "table_caption": [
+            "zr11111-111111:11111111 ",
+            "penujuoa "
+        ],
+        "table_footnote": [
+            "武"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Characters</td><td colspan=\"10\">A. tsienshanensis</td></tr><tr><td>AHM V71079-3</td><td>TZSGP QT15</td><td>MQSC V061</td><td>MQSC V023-2</td><td>MQSC V012</td><td>MQSC V010</td><td>MQSC V066</td><td>MQSC V001</td><td>RGSTHB V.H 751</td><td>HBGM V.H 752</td><td>RGSTHB V. H 753</td></tr><tr><td>CHeighiLenghratio)</td><td></td><td>Mod%ate</td><td></td><td>High (40%)</td><td>一</td><td>Moderate</td><td>High (41%)</td><td>High (38%)</td><td></td><td>一</td><td>一</td></tr><tr><td></td><td></td><td>Present</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Caudal aternate</td><td></td><td></td><td>Yes</td><td>Yes</td><td>二</td><td>Yes</td><td>二</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td></tr><tr><td>Suprapygalsa Pygal</td><td></td><td>21</td><td></td><td></td><td>一 1</td><td>1</td><td>一</td><td>1</td><td>1?</td><td></td><td>一</td></tr><tr><td>Marginala 12 lower than pygal (1) or as</td><td></td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>high as pygal (2)</td><td></td><td></td><td></td><td></td><td></td><td>一</td><td>一</td><td>一</td><td></td><td>一</td><td>1</td></tr><tr><td>Hianterthebese</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td><td>Absent</td></tr><tr><td> Open hypoxiphiplastral</td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes be ostior</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes be Itsrior</td><td>Yes</td></tr><tr><td> Pectus madominal</td><td>Yest</td><td>Not bmtclose Notbut lose</td><td></td><td>Yesdle</td><td>Yes</td><td></td><td></td><td>Yes, at middle</td><td></td><td>est</td><td>Yesat</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Yedt</td><td>Yest</td><td></td><td>Yesdt</td><td></td><td></td></tr><tr><td> Aya ohiplastral sature</td><td>portion</td><td> Aortion</td><td>portion</td><td> Prtiont</td><td>portion</td><td>portion</td><td>prtiont</td><td> prtion</td><td>portion</td><td>portion</td><td>portion</td></tr><tr><td>Epiplastral midline</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> ontact (englaston</td><td>Short (11%)</td><td>Short (21%)</td><td>Short (21%)</td><td></td><td></td><td>Short (17%)</td><td>Short (28%)</td><td></td><td>Short (23%)</td><td>Short (26%) Short (27%)</td><td></td></tr><tr><td>entoplastron length)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Entoplastron shape</td><td>Dia>ond,</td><td>Dia=wnd,</td><td>Diamond,</td><td>Diamwnd,</td><td>Diamond,</td><td>Diamond,</td><td>Diamond,</td><td></td><td>Diamond,</td><td>Diamond,</td><td>Diamond,</td></tr><tr><td>Epihyoplastral suture)</td><td>1</td><td></td><td>1</td><td>1</td><td>1?</td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td></tr><tr><td>Gulars</td><td>Wide</td><td>Wide</td><td>Wide</td><td></td><td></td><td>Wide</td><td>Wide</td><td></td><td>Wide</td><td>Wide</td><td>Wide</td></tr><tr><td> Gularntopnditnon</td><td>No</td><td>Bearly</td><td>No</td><td></td><td>一</td><td>No</td><td>No</td><td></td><td></td><td>No</td><td>No</td></tr><tr><td> Hutieroentopral sulcus</td><td>Yes</td><td>No</td><td>No</td><td>Yes</td><td></td><td>No</td><td>Yes</td><td></td><td>Yes</td><td>Yes</td><td>Yes</td></tr><tr><td>Pectoral scute</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td><td>Long</td></tr><tr><td>Pectoroabdominal sulcus</td><td>Convex</td><td>Convex</td><td>Slightly</td><td>Convex</td><td>Convex</td><td>Convex</td><td>Convex</td><td>Convex</td><td>Convex</td><td>Convex</td><td>Convex</td></tr><tr><td></td><td>backward</td><td>backward</td><td>convex backward</td><td>backward</td><td>backward</td><td>backward</td><td>backward</td><td>backward</td><td>backward</td><td>backward</td><td>backward</td></tr><tr><td> Shdlinemoral</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td></td><td>Yes</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The plastron is sutured to the carapace. The plastron is wide, with a sub-rectangular outline. The anterior lobe of the plastron extends greatly forward, with its front margin up to the anterior edge of the carapace (A. tsienshanensis: TZSGP QT15, MQSC V 061; A. doumuensis: IVPP V 5599, SHNHM 1945) or extending beyond it (A. siaoshihensis: IVPP V 5598,TZSGP QT2; A. tsienshanensis: AHM V 71079-1, MQSC V 010; A. doumuensis: MQSC $\\mathrm { ~ V ~ } 0 0 9 _ { , }$ ).The anterior lobe is wide and sub-rectangular in ventral view, with a concave anterior border. The epiplastra form large,upturned horn-shaped processes on the anterolateral corner of the plastron, which are separated one from another by a rather flat space.The lateral rim of the epiplastron is greatly convex laterally. The bridge is long and narrow, and is longer than the anterior or posterior lobes.The posterior lobe is wide,with convex lateral margins. The anal notch is very shallow (A. siaoshihensis: IVPP V 5598, TZSGP QT2; A. tsienshanensis: MQSC V 066; A. doumuensis: SHNHM 1945) or absent (A. siaoshihensis: MQSC $\\mathrm { ~ V ~ } 0 0 5$ ， A. tsienshanensis: TZSGP QT15; A. doumuensis: IVPP V 5599). The axillary and inguinal buttresses are short, contacting the posterior part of peripheral 3 and the anterior part of peripheral 7 respectively. On the internal mold of IVPP V 18674 (Anhuichelys sp.), the axillary buttresses reach half of the width of costal 1 and the inguinal buttresses insert at the mid length of the costal 5.The slender rib heads are remained in situ on the right side. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The epiplastron midline suture is short in most specimens,representing about $1 / 3$ to 1/4 of the entoplastron length or even shorter. In A. siaoshihensis (IVPP V 5598,TZSGP QT2 and MQSC V O05), the midline suture of the epiplastra is longer, being almost as long as (IVPP V 5598 and TZSGP QT2) or even longer (MQSC V O05) than the entoplastron length. MQSC $\\mathrm { ~ V ~ } 0 6 5$ and SHNHM 1945 show the intermediate state, in which the epiplastra midline length is about half the length of the entoplastron.In A. siaoshihensis and A. doumuensis, there is a hinge at the base of the anterior lobe, situated between the epiplastra/entoplastron and the hyoplastra. In these species, the entohyoplastral suture is straight,and the epihyoplastral suture aligns with the entohyoplastral suture laterally, instead of being lateral to the entoplastron as in most other turtles. The shape of the entoplastron varies: it is a half circle in A. siaoshihensis (IVPP V 5598, TZSGP QT2 and MQSC $\\mathrm { ~ V ~ } 0 0 5$ ); but sub-rectangular to sub-oval and longer than wide in MQSC V 007, MQSC V 009,MQSC $\\mathrm { ~ V ~ } 0 6 5$ and IVPP V 5599 (A. doumuensis). In SHNHM 1945 (A. doumuensis), the entoplastron is a small oval that is separated from the hinge and anterior to it. In A. tsienshanensis,a hinge is absent on the base of the anterior lobe. In this species the entoplastron is diamond-shape, as long as wide, slightly wider than long or slightly longer than wide; and the epihyoplastral suture is lateral to the entoplastron ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The hyoplastron midline length is roughly equal to that of the hypoplastron. The xiphiplastron is expanded,which makes up nearly the entire posterior lobe,with the hypoxiphiplastral suture close to the base of the posterior lobe. The xiphiplastra are loosely connected to the hypoplastra in most specimens, with a hypoxiphiplastral suture which is more open compared to other sutures on the plastron, indicating some degree of mobility of the posterior lobe. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The gular is paired. The morphology of the gular is variable. In A. siaoshihensis (IVPP V 5598, TZSGP QT2 and MQSC V Oo5), each gular is longer than wide, triangular in shape and extending onto the entoplastron. In other specimens the gular is very short, much wider than long and entirely anterior to the entoplastron (A. tsienshanensis: AHM V 71079-3, MQSC $\\mathrm { ~ V ~ } 0 6 1$ ，MQSC $\\mathrm { ~ V ~ } 0 1 0$ and MQSC V O66) or covering the anterior end of the entoplastron (A. tsienshanensis: TZSGP QT15; A. doumuensis: SHNHM 1945 and IVPP V 5599) or barely reaching entoplastron (A. doumuensis: MQSC $\\mathrm { ~ V ~ } 0 0 7 \\$ ).MQSC $\\mathrm { ~ V ~ } 0 6 5$ (A. doumuemsis) represents an intermediate morphology, with a wide but relatively long gular which covers the anterior end of the entoplastron. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In A. siaoshihensis and A. doumuensis, the humeropectoral sulcus matches the hinge (IVPP V 5598, TZSGP QT2, MQSC V 005, MQSC V 009 and MQSC V 065) or is slightly anterior to the latter at the middle portion (SHNHM 1945 and MQSC $\\mathrm { ~ V ~ } 0 0 7 \\$ ). In A. tsienshanensis, the humeropectoral sulcus crosses the entoplastron in AHM V 71079-3 and MQSC V 023-2, or passing through the posterior edge of the entoplastron (TZSGP QT15 and MQSC $\\mathrm { ~ V ~ } 0 6 1$ ） The pectoral scute is very short in A. siaoshihensis (IVPP V 5598 and TZSGP QT2) with its length about half the length of the abdominal scute and a straight pectoroabdominal sulcus; while in other specimens this scute is much longer, being almost as long as the abdominal scute,with a straight or almost straight pectoroabdominal sulcus (A. doumuensis: MQSC $\\mathrm { ~ V ~ } 0 0 9$ and SHNHM 1945; A. tsienshanensis: MQSC V 061) or strongly backward convex pectoroabdominal sulcus (A. tsienshanensis: AHM V 71079-3, TZSGP QT15, MQSC V 012, MQSC V 023-2,MQSC $\\mathrm { ~ V ~ } 0 1 0$ and MQSC V 066; A. doumuensis: MQSC $\\mathrm { ~ V ~ } 0 0 7$ ， MQSC V 065 and IVPP V 5599). The abdominofemoral sulcus matches completely the hypoxiphiplastral suture (IVPP V 5598), or mostly except the lateral ends (MQSC V 011-2), or only in the middle portion in other specimens.The femoral scute is very short at the midline in all specimens. In SHNHM 1945,the vestige of inframarginals is visible as broken sucli around the carapace/ plastron suture on the right side. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Limb bones: The proximal portion of the left humerus is exposed ventrally in IVPP V 5598. The large medial process is separated from the small lateral process by a deep intertubercular fossa. The shaft is strong and relatively straight. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The left foot is partly preserved in MQSC V O11-2,including the posterior half of the femur and some disarticulated phalanges,likely of middle digits. The femur, exposed in lateral view, has a robust and straight shaft. The phalanges are slender but relatively short. The most lateral two elements seem to be the claws; they are stronger than other phalanges but exposed proximally and damaged; no details are visible. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3Discussion ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys has axillary buttresses reaching costal 1 and inguinal butresses contacting costal 5,which are the synapomorphies of Testudinoidea. In Lindholmemydidae,the contact of the inguinal buttresses is mainly with costal 5, but close to its posterior margin (e.g. Gravemys barsboldi and Paramongolemys khosatzkyi), or slightly overlapping costal 6 (e.g. Lindholmemys martinsoni) (Danilov and Sukhanov, 2001, 2013; Danilov, 2003). Cadena et al. (2013) indicated some variation in the inguinal buttress/costals contact in Mongolemys elegans: it is restricted to costal 5 in IGM90/11; but in the holotype of the species,this contact is with costal 5 on the left side,and with both costal 5 and 6 on the right side.In modern testudinoids,the contact of the inguinal butresses is restricted to costal 5 in Emydidae,and with costal 5 or costals 5 and 6 in Geoemydidae.In Testudinidae the inguinal buttresses contact both costals 5 and 6,or even the costal 6 only (e.g., Geochelone pardalis). Inframarginal scutes are absent in Anhuichelys,a derived character found in modern testudinoids,different from primitive testudinoid lindholmemydids which retained a complete row of inframarginals. The vestige of the inframarginals present in SHNHM 1945 is considered as individual variation that occasionally occurs in the extant testudinoids (e.g., in one specimen of emydid Chrysemys picta (Natural History Museum of Basel no 1863-c1108)). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.1Affinities with Testudinidae ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys present a clear synapomorphic feature of Testudinidae: alternating costal pattern: the costals 2,4 and 6 have the expanded distal end but narrow proximal end, inversely the costals 3 and 5 are shortened distally but expanded proximally. This character is present in nearly all specimens of Anhuichelys,but the degree of the alternation varies from strong (e. g. IVPP V 5598 and TZSGP QT15) to slight (e. g. TZSGP QT2 and SHNHM 1945); only one specimen (MQSC $\\mathrm { ~ V ~ } 0 0 9 \\$ ） has no alternating costals. The alternating costals 2 to 6 is characteristic of Testudinidae; while the geoemydids have parallel anterior and posterior margins of the costals (Auffenberg,1974; Claude and Tong,2004). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Some characters exhibited in Anhuichelys are polymorphic,with states being synapomorphies of Testudinidae or found only in that family: ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1） There are two morphotypes on the morphology of the suprapygals in Anhuichelys (Fig. 8). In morphotype 1, the suprapygal 1 is smaller and narrower than suprapygal 2, with some variations in the relative size of the suprapygals 1 and 2. This morphology is similar to the primitive condition found in Lindholmemydidae, Emydidae and Geoemydidae,and occurs in four specimens among nine ( $44 \\%$ of total specimens observed) of Anhuichelys. Morphotype ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2 has a large suprapygal 1 with a concave posterior border and an oval suprapygal 2 that is relatively short and slightly narrower than suprapygal 1. This morphology, present in $56 \\%$ of specimens with well preserved suprapygals that were observed (five specimens among nine), is close to the condition found in some Testudinidae, such as Indotestudo,although suprapygal 1 is not fully bifurcated as in that taxon. In I. elongata the suprapygal 1 is bifurcated and bounds laterally the suprapygal 2. It should be noted that variation in suprapygal morphology is present within the extant testudinid species. For example in Gopherus or Testudo graeca, the two morphotypes are observed in the same species (Auffenberg,1976; Lapparent de Broin et al., 2006). ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/01df6c75797133bd1b32f72c94a98e0e73e7d6e4d7d087b6abf29d51c394b590.jpg",
+        "img_caption": [
+            "Fig.8Posterior part of the carapace showing the variations of the suprapygals and pygal in Anhuichelys A. Anhuichelys sp. (MQSC V 011-2); B,D.A. doumuensis (B. SHNHM 1945,D.MQSC $\\mathrm { ~ V ~ } 0 0 2 \\$ ） C,F.A.siaoshihensis (C.TZSGPQT2,F.IVPPV5598); E.A. tsienshanensis (TZSGP QT15).Not to scale "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) The pygal (Fig. 8) is tall and sub-vertical, with the lateral margins convergent posteriorly in $7 5 \\%$ of the specimens of Anhuichelys with preserved pygal (6 specimens among eight).This morphology is observed in Testudinidae, such as Indotestudo,Agrionemys or Testudo graeca (Lapparent de Broin et al., 2O06). Two specimens of Anhuichelys have a low and wide pygal with parallel lateral margins as in Lindholmemydidae,Emydidae and Geoemydidae, but different from the latters in that the pygal is still more vertical in comparison with the gently sloping pygal typical of Geoemydidae, such as is seen in Siebenrokiella crassicolis. In addition, the peripherals 1l of Anhuichelys are expanded posteriorly with an oblique medial border when the pygal is narrowed posteriorly. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) Marginal 12 (Fig. 8) is lower than pygal in 5 specimens of Anhuichelys among 7 (morphotype 1), while 2 specimens have the vertebral 5/marginals 12 sulcus matching the suture between the suprapygal 2 and the pygal (morphotype 2). Morphotype 1 is primitive and found in most lindholmemydids (except Gravemys) (Danilov, 2003; Danilov et al., 2012) and Emydidae, such as Emys orbicularis and Trachemys scripta; while morphotype 2 appears to be derived and found in Testudinidae.In Geoemydidae, marginal 12 is taller than pygal, covering the posterior part of the suprapygal 2. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "(4) The pectoral scute is short, with its length about half the length of abdominal scute in $A$ siaoshihensis.In this species,a short pectoral is associated not only with a hinge,but also with a half circle-shaped entoplastron which is placed at the base of the anterior lobe.A.doumuensis and A.tsienshanensis have a longer pectoral which is as long as the abdominal scute. All testudinids have a short pectoral scute, while geoemydids have a longer pectoral scute with its length slightly shorter or equal to that of the abdominal scute. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Associated with a terrestrial fauna composed mainly of mammals,Anhuichelys were probably land turtles since their morphology is very close to the extant Testudinidae which are all terrestrial. The above mentioned testudinid characters in Anhuichelys seem not due to the convergence for the terrestrial habitat, since their combination is absent in terrestrial geoemydids (e. g. Geoemyda, Heosemys, Cuora) and emydids (e. g. Terrapene). It should be noted that these characters are observed only in some of the specimens of Anhuichelys and the variation is found throughout the stratigraphical range of Anhuichelys from the Qianshan Basin in the Early-Middle Paleocene, indicating that these testudinid synapomorphic features were still unstable at the beginning of their development. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, Anhuichelys retains some primitive characters.The neurals in all Anhuichelys specimens are elongated hexagonal in shape with short anterolateral sides and undifferentiated as in the basal testudinoid Lindholmemydidae. The neurals of Geoemydidae and Emydidae, as well as the primitive Testudinidae (e.g. Kansuchelys, Hadrianus and Stylemys) are hexagonal and undifferentiated, while those of advanced Testudinidae are highly differentiated with alternation of octagonal and tetragonal neurals (Hay, 1908; Yeh, 1963, 1979b; Auffenberg,1974). In addition, the majority of modern members of Testudinoidea have wider neurals. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys lacks developed epiplastral lip,an important synapomorphy of Testudinidae (Auffenberg, l974), although their epiplastra form a pair of strong and upturned lateral processes. Contrary to the epiplastral lip in Testunididae which is a continuous high bony bulge at the front border of the plastron,the left and right processes of Anhuichelys are independent one from another, and the area between the processes are rather flat as in geoemydids, such as Palaeoemys,Batagur, Kachuga and Pangshura (Fig. 6E-F). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "3.2Character variation in Anhuichelys and validity of the species ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys from the Paleocene of Qianshan Basin show great variation in both derived and primitive characters. The distribution of characters is shown in Table 2. Anhuichelys contains three species based on the combination of the characters: A. siaoshihensis Yeh,1979; A. tsienshanensis Yeh,1979 and A. doumuensis sp. nov. Both A. siaoshihensis and A. doumuensis have a hinge on the base of the anterior lobe of the plastron, but differ one from another by a series of characters (see diagnoses and Table 2). Concerning the distribution of the species, so far as the stratigraphical information is available, the three specimens of A. siaoshihensis are from the Early Paleocene Wanghudun Formation; A. tsienshanensis is recorded from the Upper Member of Wanghudun Formation and Doumu Formation; while A. doumuensis is only recorded from the Upper Member of Doumu Formation. Thus $A$ . tsienshanensis was living in sympatry with A. siaoshihensis during part of the Early Paleocene and with $A$ doumuensis during the Middle Paleocene. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We exclude the possibility that the presence or absence of an anterior hinge as a sexual dimorphism because of its position. In some Testudinidae (e. g. Testudo graeca),a hinge on the posterior lobe between the hypoplastra and xiphiplastra is present only in females, but such a hinge is incipient in males.The loose articulation of the posterior lobe facilitates oviposition. In the extant testudinid Pyxis arachnoides from Madagascar, a hinge at the base of the anterior lobe may be present as the geographical variation that characterizes a subspecies (Bonin et al., 2006). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Chen (1983) described three shells from the Paleocene of Xinzhou, Hubei Province and erected Anhuichelys xinzhouensis. Chen (1983) noted the close resemblances between the Xinzhou specimens and A. siaoshihensis on the carapace,and with $A$ .tsienshanensis on the plastron, since the carapace of $A$ .tsienshanensis is poorly preserved. Chen pointed out five differences which allow Xinzhou specimens to be distinguished from A. tsienshanensis: 1) deeper cervical notch; 2) entoplastron wider than long; 3) the gularohumeral sulcus anterior to the entoplastron; 4) the pectoroabdominal sulcus close to the hyoplastra/hypoplastra suture or reaching the latter; and 5) the femoroanal sulcus curved,instead of V-shaped as in $A$ tisenshanensis.Al these differences are contained in the intraspecific variations in Anhuichelys from the Qianshan Basin.A. xinzhouensis is therefore synonymised with $A$ tsienshanensis because of the absence of a hinge on the plastron; the epihyoplastral suture situated lateral to entoplastron, the humeropectoral sulcus posterior to the epihyoplastral suture; a short midline contact of epiplstra; a diamond-shaped entoplastron roughly as long as wide; the wide gulars which does not or barely extend onto the entoplastron; a long pectoral scute and the pectoroabdominal sulcus convex posteriorly. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "3.3Development of the hinge ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A. siaoshihensis and A. doumuensis developed a hinge at the base of the anterior lobe between the epiplastra/entoplastron and the hyoplastra.The presence of the hinge is associated with a series of modification of the surrounding plastral elements: the entoplastron has a straight posterior edge to fit the hinge; the suture between the epiplastra and hyoplastra is moved posteriorly to align with the entoplastron/hyoplastra suture;and the humeropectoral sulcus matches,or is close to the hinge. On the posterior lobe of the plastron, the xiphiplastra are loosely connected to the hypoplastra in most specimens of Anhuichelys. Among them, a hinge is clearly present at the base of the posterior lobe between the hypoplastra and the xiphiplastra in IVPP V 5598 (A. siaoshihensis) with the abdominofemoral sulcus matching perfectly the hypoplatra/xiphiplastra suture. In other specimens,the hypoplastra/xiphiplastra suture is often more open compared with other sutures on the plastron, indicating some degree of mobility around this suture.Furthermore, the abdominofemoral sulcus is close to the hypoplastra/xiphiplastra suture, especially its middle portion which matches or almost matches the suture. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The hinge is an adaptive apomorphic feature in turtles that allows the shell to be closed for a better protection of the animal and/or for an easier oviposition (the later case occurs only in females). It has evolved independently in various groups of turtles and occurs at various position of the shell. In Adocidae,a hinge is developed between the epiplastra and entoplastron/hyoplastra in Shachemys from the Cretaceous of Asia (Lapparent de Broin, 2004; Danilov et al., 2Oo7). In Kinosternidae,a hinge is present at the base of the anterior lobe, between the epiplastra/entoplastron and the hyoplastra in Staurotypus, while Kinosternon has an additional hinge at the base of the posterior lobe. In Testudinoidea,a hinge is located between the hyoplastra and hypoplastra in Cuora (Geoemydidae) and Terrapene (Emydidae), or on the posterior part of the carapace in Kinixys (Testudinidae). In pleurodires,a hinge has evolved at the base of the anterior lobe in Pelusios (Pelomedusidae).Anhuichelys is the first Testudinoidea to develop hinges on the shell. The hinge on the base of the anterior lobe of the plastron in Anhuichelys certainly acted as a protective structure. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "3.4 Phylogenetic analysis ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the phylogenetic relationships of Anhuichelys,a data matrix of 30 informative characters is gathered in Anhuichelys,5 well known Cretaceous and Palaeocene Lindholmemydidae (Lindholmemys,Mongolemys, Gravemys, Elkemys, Pseudochrysemys), two testudinoid fossils known in the Early Eocene (Palaeoemys and Achilemys),and 12 living genera representing Chelydridae, Kinosternidae,Dermatemydidae, Platysternidae, Emydidae, Geoemydidae and Testudinidae. Ordosemys is included for rooting the tree. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Two analyses were run, one using only morphological characters and one constrainig the relationship among living taxa using a molecular scaffold based on the phylogenies obtained by Crawford et al. (2015),Lourenco et al. (2012) and Guillon et al. (2012). Character description and distribution are given in Appendix 1 and 2. All characters except one were ordered,and all ordered multi-state characters were scaled so that those characters would not have a disproportionate effect above binary characters on phylogeny estimation. Parsimony analyses were performed in PAUP $4 . 0 \\ \\mathrm { b l } 0$ (Swofford, 1998) using random addition sequence, and the tree bisection-reconnection branch swapping algorithm across 1oooO replicates. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The unconstrained analysis resulted in 8 equally parsimonious trees of 77.5 steps (Fig. 9,strict consensus 1). In this analysis,Anhuichelys is found in a clade with Achilemys rooting other Testudinidae. Gravemys,Lindholmemys and Mongolemys are rooting Emydidae, while the positions of Elkemys and Pseudochrysemys were variable. Contrary to the results obtained by molecular phylogenies,none of the hypothesis recorded Platysternon within Testudinoidea. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The analysis constrained by a molecular scaffold resulted in a single tree of 84.5 steps (Fig. 9, Tree 1).As in the unconstrained analysis, Anhuichelys is found in a clade with Achilemys rooting other Testudinidae. In this analysis,Mongolemys is rooting Emydidae, while Pseudochrysemys, Elkemys, Gravemys and Lindholmemys form a grade to Testudinidae $+$ Geoemydidae. The topology is, however, not very robust. For instance, removing either character 24 (shape of vertebrals 2 to 4) or character 29 (shape of the epihyoplastral suture) resulted in the alternative topologies illustrated in Fig.9 (Consensus 2). In these topologies, Anhuichelys forms a clade with Platysternon which is the sister group of Lindholmemys+Mongolemys+emydids (a hypothesis formerly proposed by Claude and Tong,2oo4); and Elkemys and Gravemys are sister groups of Testudinidae $^ +$ Geoemydidae. The position of Pseudochrysemys is unstable. Removing character 24 resulted in two trees of 78 steps,while removing character 29 resulted in two trees of 80 steps. By removing other single character (data not shown), alternative topologies were obtained, but Anhuichelys was always found within Testudinoidea. In conclusion, Anhuichelys is resolved as a testudinoid in all analyses; it is found as the sister taxon of modern Testudinidae when all characters are included but this position is not strongly supported by the data. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Tree 1 Consensus 1 Consensus 2 Ordosemys Claudius Chelydra Chelydra Chelydra Claudius Claudius Platysternon -Dermatemys Dermatemys Dermatemys -Pseudochrysemys -Platysternon -Pseudochrysemys -Elkemys -Mongolemys -Elkemys Gravemys Clemmys Gravemys -Rhinoclemmys -Chrysemys -Lindholmemys -Heosemys Pseudochrysemys Mongolemys Malayemys Elkemys -Clemmys LPalaeoemys Gravemys -Chrysemys Geochelone LLindholmemys Rhinoclemmys Gopherus -Rhinoclemmys -Heosemys -Manouria -Heosemys -Malayemys Achilemys Malayemys -Palaeoemys Lindholmemys -Palaeoemys Geochelone Mongolemys Geochelone Gopherus -Clemmys Gopherus Manouria -Chrysemys Manouria -Achilemys Platysternon Achilemys Anhuichelys Anhuichelys -Anhuichelys Ordosemys Ordosemys ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Left, single tree obtained by using a molecular scaffold; middle,consensus tree obtained when the molecular constrained is removed; right,consensus tree obtained using a molecular scaffold when eithercharacter24 or29 is removed ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Anhuichelys Yeh,1979 from the Paleocene of Qianshan Basin represents the earliest known stem Testudinidae and is the first Testudinoidea to develop a hinge.In Qianshan Basin, the genus Anhuichelys contains three species: A. siaoshihensis Yeh,1979 from the Early Paleocene Wanghudun Formation,A. tsienshanensis Yeh, 1979 from the Wanghudun and Doumu formations and A. doumuensis sp. nov. from the Middle Paleocene Doumu Formation, which differ from one another by a combination of characters.A. xinzhouensis Chen,1983 is a junior synonymy of A. tsienshanensis.The shell morphology and associated vertebrate fauna suggest that Anhuichelys is likely a land turtle as are all other members of the family Testudinidae. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "AcknowledgementsWe would like to thank Wang Yuanqing (IVPP) for inviting Tong Haiyan to study turtle remains from Qianshan Basin and providing facilities for access to the new material; Liu Jun for his support; Zheng Longting (Anhui Provincial Museum), Zheng Fang (IVPP),and colleagues of the Geological Museum of Hubei Province for access to the specimens in their care. This study was supported by the Conservation Program of the Geological Heritage Sites of the Ministry of Finance and the Ministry of Land and Resources, China. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "最早的基干陆龟 安徽龟(AnhuichelysYeh,1979)的再研究",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "佟海燕²　李 录²李丁生³陈立民³李 ³余淑华³余国盛4 程小青4底野力Julien CLAUDE6 ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(1泰国马哈萨拉坎大学古生物研究与教育中心马哈萨拉坎44150)",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "(2 中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)  \n(3 潜山县博物馆 安徽潜山246300)  \n(4天柱山世界地质公园安徽潜山246300)  \n(5上海自然博物馆上海200041)  \n(6 法国蒙彼利埃进化科学院蒙彼利埃34095)",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于安徽省潜山盆地大量新材料，对安徽龟属(Anhuichelys Yeh,1979)进行了系统再研究，将其归入了陆龟科基干类型(Testudinidae)。安徽龟属包含了潜山盆地古新统地层中的三个种：产自下古新统望虎墩组的小市安徽龟(A.siaoshihensis Yeh,1979),望虎墩组和痘姆组的潜山安徽龟(A.tsienshanensis Yeh,1979)以及中古新统痘姆组的新种痘姆安徽龟(A.doumuensis sp.nov.)。产自湖北新洲古新统的新洲安徽龟(A.xinzhouensis Chen,1983)为潜山安徽龟的晚出同物异名。作为陆相脊椎动物群的成员，安徽龟很可能是一种陆生龟类并且是第一个甲壳具有铰链的陆龟超科成员。",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "关键词：潜山盆地，古新世，龟鳖类，陆龟科",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "中图法分类号：Q915.864 文献标识码：A 文章编号：1000-3118(2016)02-0156-24",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "References   \nAuffenbergW,1974.Checklistoffosil land tortoises (Testudinidae).BullFlorida State Mus,Biol Sci,18:121-251   \nAuffenberg W,1976.The genus Gopherus (Testudinidae): PtI. Osteologyandrelationshipsof extant species.Bull Florida State Mus,Biol Sci,20: 48-110   \nBonin F,Devaux B,Dupré A,2oo6.Toutes les tortues du monde.Paris: delachaux et niestlé.1-415   \nBrinkmanD,LiJL,YeXK,2008.Order Testudines.In:LiJL,WuXC,ZhangFCeds.The Chinese Fossil Reptiles and Their Kin. Beijing: Science Press.35-102   \nCadena EA,KsepkaDT,NorellMA,20l3.New material of Mongolemys elegans Khosatzkyand Mlynarski,1971 (Testudines: Lindholmemydidae)from the Late Cretaceous of Mongolia with comments on bone histology and phylogeny. Am Mus Novit, 3766: 1-27   \nChen G,1983.Chelonian fossils from Xinzhou Basin of Hubei Province.Vert PalAsiat,21: 42-48   \nClaude J,Tong H,2o4.EarlyEocene testudinoidturtles fromSaint-Papoul,France,withcommentsontheearlyevolution of modern Testudinoidea. Oryctos,5: 3-45   \nCrawfordNG,ParhamJF,Bells ABetal.,2O15.Aphylogenomicanalysisof turtles.MolPhylogenetEvol,83:250- 257   \nDanilovI,20o3.Gravemys ukhanovandNarmandakh,983(Testudinoidea:Lindholmemydidae)fromtheLate Cretaceous of Asia: new data.Paleo Bios,23: 9-19   \nDanilovI,SukhanovVB,Oo1.Newdataonlindholmemydid turtleLindholmemys from the LateCretaceousofMongolia. Acta Palaeont Pol,46:125-131   \nDanilov I, Sukhanov VB,2013.A new basal testudinoid turtle (Testudinoidea:“Lindholmemydidae\"） from the Upper Paleocene of Mongolia. Paleont J,47: 104-113   \nDanilovIG,SyromyatnikovaEV,SukhanovVB,20o7.Turtlesof the genus Shachemys fromtheUpper Cretaceous ofAsia. In: RozanovAY,LopatinAV,ParkhaevPYeds.Modern Paleontology: Classical and New Methods -07.Third all-Russian School 20o6.Moscow: Palaeontological Institute.59-72   \nDanilov I, ClaudeJ, SukhanovVB,2012.A redescriptionof Elkemys australis (Yeh,1974),a poorly known basal testudinoid turtle from the Paleocene of China.Proc Zool Inst RAS,316: 223-238   \nGuillon J-M,GueryL,Hulin Vetal.,2012.Alarge phylogenyof turtles (Testudines)using molecular data.Contrib Zool, 81: 147-158   \nHay OP,1908.The fossil turtles of North America.Carnegie Inst Wash,75:1-568   \nLapparent de BroinF,2004.Anew Shachemydinae (Cheloni, Cryptodira) from the Lower Cretaceous ofLaos: preliminary data. C R Palevol, 3: 387-396   \nLapparentdeBroinF,BourR,PeralaJ,2O6.MorphologicaldefinitionofEurotestudo(Testudinidae,Cheloni):firstpart. Ann Paleont,92: 255-304   \nLourenco JM,ClaudeJ, GaltierNetal.,2012.Datingcryptodiran nodes:originanddiversificationof theturtle superfamily Testudinoidea.Mol Phylogenet Evol, 62: 496-507   \nQiu Z X,Li C K,Huang X S et al.,1977.Paleocene of Anhui with mammal fossils.Vert PalAsiat,15: 85-93   \nWang YQ,LiCK,LiDSet al.,2O16.AsynopsisofPaleocene stratigraphyand vertebrate paleontology intheQianshan ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Basin,Anhui,China.VertPalAsiat,54(2):89-120 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "YehHK,1963.Fossil turtles of China.Palaeont Sin,New SerC,18:1-112   \nYehHK,1979a.Paleocene turtles from Anhui.Vert PalAsiat,17: 49-56   \nYeh HK,1979b.Fossil testudinids from Jiyuan,Henan.Vert PalAsiat,17:310-317 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Appendix1 Character states ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1.Alternating costal plates: O no,1 polymorphic or intermediate,2 yes.   \n2.Inguinal and axillary buttresses contacting costals: O no,l yes.   \n3.Second suprapygal larger than first: O no,1 polymorphic or intermediate,2 yes.   \n4.Longer than wide pygal plate: O no,1 polymorphic or intermediate,2 yes.   \n5.Marginal 12 relative to pygal: O marginals 12 higher than pygal,1 marginals $1 2 =$ pygal,2 marginals 12 lower than   \npygal.   \n6.Neurals: all hexagonal with shortest sides facing anterolaterally: O yes,1 no.   \n7. Costal 1 reaching peripheral 4: 0 yes,1 polymorphic, 2 no.   \n8.Lateral epiplastral lip present: O yes,1 no.   \n9.Epiplastral lip present in the middle: Oyes,forming an elevated bulge,l yes but forming a flat bulge,2 no.   \n10. Gular reaching entoplastron: 0 no,1 polymorphic,2 yes.   \n11.Humeropectoral sulcus behind entoplastron: O yes,1 polymorphic,2 no.   \n12.Presence of a strong central carina in juvenile: O no,1 yes.   \n13.Cervical scute: O as long as wide or wider than long,l narrow,2 absent.   \n14.Coalescent trochanters on the femur: O no,l yes.   \n15. Bony bridge: O no,1 yes.   \n16.Anal midlinelngthrelative tothatoffemoral:Oanallongerthan femoral,lanalequaltofemoral,2analshorterthan   \nfemoral.   \n17.Midline length of xiphiplastron greater than that of the hypoplastron: O no,1 yes.   \n18.Anal notch: O absent,1 small,2 clearly present.   \n19.Inframarginal row complete: O yes,1 polymorphic,2 no.   \n20.Wide entoplastron: O yes,l polymorphic or intermediate,2 no.   \n21.Lateral carina in juveniles: O no,1 yes.   \n22.Pairs of musk duct: O no,l yes.   \n23.Nuchal emargination: O absent,1 small or variable,2 well developed.   \n24.Vertebrals 2-4: O wider than long,1 longer than wide.   \n25.Vertebral 1: O wide,1 narrow (included in nuchal plate).   \n26.Contact between nuchal plate and first peripheral: O nearly parallel to body axis,l convergent forward.   \n27.Gular notch: O absent,1 present.   \n28.Inguinal buttresses: O do not reach costal or reach costal 5 only,1 reaches costal 6.   \n29.Suture between epiplastron and hyoplastron:O nearly perpendicular to bodyaxis or backward laterally,1 forward   \nlaterally.   \n30. Disappearance of pectoral scutes: 0 no,1 yes. ",
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dc2fda92ac4d8a29940aedc8e469d4f6e43aa73dee6f3f9baf12441832028bf.jpg",
+        "table_caption": [
+            "Appendix2 Data matrix "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Anhuichelys</td><td>1111{12}</td><td>00021</td><td>100?1</td><td>01{01}01</td><td>00111</td><td>11100</td></tr><tr><td>Achilemys</td><td>21000</td><td>10010</td><td>00011</td><td>10200</td><td>00011</td><td>10{12}00</td></tr><tr><td>Manouria</td><td>2102{01}</td><td>12011</td><td>00011</td><td>20200</td><td>00100</td><td>10110</td></tr><tr><td>Gopherus</td><td>21121</td><td>12002</td><td>00011</td><td>20200</td><td>00000</td><td>10110</td></tr><tr><td>Geochelone</td><td>21221</td><td>12001</td><td>00{12}11</td><td>20200</td><td>00000</td><td>10210</td></tr><tr><td>Palaeoemys</td><td>01000</td><td>00012</td><td>01001</td><td>20200</td><td>11111</td><td>10210</td></tr><tr><td>Rhinoclemmys</td><td>01000</td><td>11012</td><td>21001</td><td>20200</td><td>0100{01}</td><td>10110</td></tr><tr><td>Heosemys</td><td>01000</td><td>10012</td><td>21001</td><td>20200</td><td>11101</td><td>10110</td></tr><tr><td>Malayemys</td><td>01000</td><td>00012</td><td>21001</td><td>20200</td><td>11101</td><td>10210</td></tr><tr><td>Chrysemys</td><td>01022</td><td>01012</td><td>21101</td><td>00100</td><td>00000</td><td>10110</td></tr><tr><td>Clemmys</td><td>01022</td><td>02012</td><td>21101</td><td>00100</td><td>00000</td><td>10110</td></tr><tr><td>Platysternon</td><td>00002</td><td>02021</td><td>11000</td><td>11220</td><td>0020{01}</td><td>10000</td></tr><tr><td>Mongolemys</td><td>01022</td><td>01021</td><td>0?001</td><td>10121</td><td>00010</td><td>00{12}00</td></tr><tr><td>Lindholmemys</td><td>01002</td><td>01022</td><td>0?0?1</td><td>20120</td><td>00011</td><td>10210</td></tr><tr><td>Gravemys</td><td>01000</td><td>00022</td><td>0?0?1</td><td>20220</td><td>00111</td><td>10110</td></tr><tr><td>Elkemys</td><td>01002</td><td>11012</td><td>210?1</td><td>10220</td><td>00111</td><td>11{12}10</td></tr><tr><td>Pseudochrysemys</td><td>01002</td><td>12012</td><td>0?1?1</td><td>10110</td><td>00111</td><td>10110</td></tr><tr><td>Dermatemys</td><td>00022</td><td>12122</td><td>01001</td><td>10220</td><td>00110</td><td>10011</td></tr><tr><td>Chelydra</td><td>00002</td><td>12120</td><td>01000</td><td>01022</td><td>10200</td><td>00000</td></tr><tr><td>Ordosemys</td><td>00000</td><td>1212?</td><td>00000</td><td>10022</td><td>00200</td><td>10000</td></tr><tr><td>Claudius</td><td>00001</td><td>12122</td><td>01000</td><td>11000</td><td>10000</td><td>10001</td></tr></table></body></html>",
+        "page_idx": 23
+    }
+]

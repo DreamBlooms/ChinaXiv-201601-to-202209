@@ -1,0 +1,576 @@
+[
+    {
+        "type": "text",
+        "text": "饲料胆固醇含量对斜带石斑鱼生长性能、组织生化指标和肝脏脂肪代谢相关酶活性的影响（1.广东海洋大学水产学院，水产动物营养与饲料实验室，湛江524088；2.通威股份有限公司，成都摘要：本试验旨在研究饲料胆固醇含量对斜带石斑鱼生长性能、组织生化指标和脂肪代谢相关酶活性的影响。在以酪蛋白为主要蛋白质源的基础饲料中分别添加0（对照组）、5、10、15、20 和 $2 5 ~ \\mathrm { g / k g }$ 的胆固醇，配制成6种等氮等能试验饲料，并分别命名为C0、C0.5、C1、C1.5、C2和C2.5，饲料中胆固醇实测含量分别为2.6、7.5、12.7、17.2、22.2和 $2 7 . 2 ~ \\mathrm { g / k g }$ ，投喂 360尾平均初重为（ $8 4 . 3 0 { \\scriptstyle \\pm 0 . 2 5 }$ ） $\\mathrm { \\bf ~ g }$ 的斜带石斑鱼10周。每种试验饲料设3个重复，每个重复投喂 20尾鱼。结果表明：随着饲料胆固醇含量的升高，增重率（WGR）、蛋白质效率（PER）和饲料效率（FE）呈先上升后下降的趋势。C0.5组WGR、PER 和FE 最高且显著高于对照组（ $. P { < } 0 . 0 5$ ）。各添加组全鱼粗脂肪含量显著高于对照组（ $P { < } 0 . 0 5$ ），粗灰分含量显著低于对照组（ $P { < } 0 . 0 5$ ）。肝脏总胆固醇（TC）和甘油三酯（TG）含量随饲料胆固醇含量的升高而上升，肌肉TC 和 TG含量不受饲料胆固醇含量的显著影响（ $. P { > } 0 . 0 5$ ）。随饲料胆固醇含量的上升，血清TC、TG、高密度脂蛋白胆固醇（HDL-C）和低密度脂蛋白胆固醇（LDL-C）含量先上升后趋于平稳，血清HDL-C/LDL-C呈下降趋势。C2.0 组血清 TG含量显著高于对照组（ $\\scriptstyle P < 0 . 0 5 .$ ），C2.5 组血清HDL-C含量显著高于对照组和C0.5、C1.5组（ $\\scriptstyle P < 0 . 0 5$ ），C2.5组血清LDL-C含量显著高于其他各组（ $P { < } 0 . 0 5$ ），对照组血清HDL-C/LDL-C显著高于各添加组（ $\\cdot < 0 . 0 5$ ）。随着饲料胆固醇含量的升高，斜带石斑鱼肝脏ME 活性呈升高趋势，C1.5、C2.0和C2.5组显著高于其他组（ $\\scriptstyle \\cdot < 0 . 0 5$ ）；肝脏肉毒碱棕榈酰转移酶I（CPTⅠ）活性先下降后趋于平稳，对照组显著高于其他组（ $\\cdot P { < } 0 . 0 5$ ）；肝脏CYP7A1 活性则先上升后趋于平稳，以C2.5 组活性最高，较对照组升幅达 $3 5 . 4 8 \\%$ （ $\\cdot < 0 . 0 5$ ）。本试验中，以WGR和肝脏CYP7A1活性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：2015-12-23  \n基金项目：公益性行业（农业）科研专项（201003020）；广东省教育厅科技创新基金(2013KJCX0096)  \n作者简介：张武财（1992一），男，广东汕尾人，硕士研究生，从事水产动物营养与饲料方向研究。E-mail:  \n1life41dream@ sina.com  \n\\*通信作者：董晓慧，教授，硕士生导师，E-mail:dongxiaohui2003@163.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为评价指标进行折线模型分析得出，斜带石斑鱼对饲料中胆固醇的需要量分别为7.43 和 $8 . 7 0 \\ \\mathrm { g / k g }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：斜带石斑鱼；胆固醇；生长性能；生化指标；脂肪代谢中图分类号：S963.1 文献标识码：A 文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鱼粉是配合饲料中的重要原料，含有丰富的胆固醇。近年来，随着渔业资源的日益紧缺，鱼粉被其他蛋白质原料大量替代，导致部分配合饲料的胆固醇含量越来越低，而摄食低鱼粉饲料鱼类的生长性能会较摄食高鱼粉的低下[-4]。胆固醇是鱼体重要的化学组成成分，可以调节细胞膜流动性，是肾上腺激素、性激素、维生素D 和胆汁酸等生命物质的重要前体[5-7]。胆固醇在人类健康领域已经进行了深入的研究，然而关于海水鱼类对胆固醇需求的研究却较少[6.8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究者普遍认为鱼类饲料中不需要额外添加胆固醇[9]。在以动物性蛋白质原料为蛋白质源的基础饲料中添加胆固醇对大西洋鲑]（Salmo salarL.）、杂交条纹鲈[7](Morone chrysops×M.saxatilis）和军曹鱼[10]（Rachycentroncanadum）的生长无显著影响。但国内有学者报道，在以脱脂鱼粉为蛋白质源的饲料中添加胆固醇促进了大菱鲆的生长[]。有学者发现在以植物蛋白质为蛋白质源的基础饲料中添加 $1 \\%$ 的胆固醇能显著促进鱼类的生长和摄食[12-15]。在大鼠上的试验证实，胆固醇会提升肝脏甘油三酯的蓄积，并且会造成脂肪酸 β-氧化下降[16]。也有国外学者报道饲料中添加胆固醇会提高虹肌肉粗脂肪含量并且可使鱼体内脂肪酸 $\\beta$ -氧化下降[17]。目前为止，胆固醇对鱼类脂肪代谢影响的相关研究还很少。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "斜带石斑鱼（Epinephelus coioides）是一种热带亚热带的底栖型鱼类，是我国南方沿海地区重要的海水养殖品种，但至今斜带石斑鱼养殖大部分依然使用饲料鱼进行投喂，高效健康的配合饲料还处在发展阶段，关于胆固醇在斜带石斑鱼生长上的作用还尚未见报道。本试验主要探究饲料胆固醇含量对斜带石斑鱼生长性能、组织生化指标和肝脏脂肪代谢相关酶活性的影响，以期为斜带石斑鱼合理配合饲料的研制提供相关试验依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验饲料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以酪蛋白（甘肃华羚实业集团有限公司产品）、俄罗斯白鱼粉和明胶（罗塞洛明胶有限公司产品）为主要蛋白质源，并分别添加0（对照）、5、10、15、20 和 $2 5 ~ \\mathrm { g / k g }$ 的胆固醇配制成6种等氮等能的试验饲料（表1），分别用C0、C0.5、C1、C1.5、C2和C2.5进行命名，对应的试验饲料中胆固醇含量分别为2.6、7.5、12.7、17.2、22.2和 $2 7 . 2 ~ \\mathrm { g / k g }$ 。所有原料粉碎之后过40目筛，按配方比例放到V型立式混合机中混匀，将胆固醇均匀溶于鱼油和玉米油后，再将混合油与其他各原料混合均匀，最后用F-26 型双螺杆挤条机常温加工成沉性颗粒饲料（直径为 $6 . 0 \\mathrm { m m }$ ），室内常温风干至水分含量约 $1 3 \\%$ 左右后用密封保鲜袋分装，于-20℃冰箱冷冻备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1试验饲料组成和营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/17571f00cb9652d96b19a59a8d4025d7eb3b325c80f83a1910e49714ba581747.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of experimental diets (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>C0</td><td>C0.5</td><td>C1</td><td>C1.5</td><td>C2</td><td>C2.5</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>白鱼粉 White fish meal</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td><td>16.00</td></tr><tr><td>酪蛋白Casein</td><td>33.00</td><td>33.00</td><td>33.00</td><td>33.00</td><td>33.00</td><td>33.00</td></tr><tr><td>明胶Gelatin</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td><td>7.00</td></tr><tr><td>玉米淀粉 Corn flour</td><td>27.00</td><td>27.00</td><td>27.00</td><td>27.00</td><td>27.0</td><td>27.00</td></tr><tr><td>鱼油 Fish oil</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>玉米油 Corn oil</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>维生素CVitamin C (35%)</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td><td>0.05</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>维生素预混料 Vitamin premixl)</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>矿物质预混料 Mineral premix2)</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>诱食剂 Attractant</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>乙氧基喹啉 Ethoxyquin</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td><td>0.03</td></tr><tr><td>磷酸二氢钙 Ca(HPO4)2</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2880cf5d1bc9645dad448ad4f2a7e7ab86203c6ccf713f59b546a2c902c9b23e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>胆固醇 Cholesterol</td><td></td><td>0.50</td><td>1.00</td><td>1.50</td><td>2.00</td><td>2.50</td></tr><tr><td>纤维素 Cellulose</td><td>4.92</td><td>4.42</td><td>3.92</td><td>3.42</td><td>2.92</td><td>2.42</td></tr><tr><td>羧甲基纤维素钠 CMC-Na</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrientlevels</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>水分Moisture</td><td>12.88</td><td>13.38</td><td>13.26</td><td>12.95</td><td>13.09</td><td>13.36</td></tr><tr><td>粗灰分 Ash</td><td>6.05</td><td>5.99</td><td>6.06</td><td>6.01</td><td>5.89</td><td>5.93</td></tr><tr><td>粗蛋白质 Crude protein</td><td>51.37</td><td>50.99</td><td>51.55</td><td>51.64</td><td>51.93</td><td>51.34</td></tr><tr><td>粗脂肪 Crude lipid</td><td>9.55</td><td>10.16</td><td>10.68</td><td>11.13</td><td>11.67</td><td>12.18</td></tr><tr><td>胆固醇 Cholesterol</td><td>0.26</td><td>0.75</td><td>1.27</td><td>1.72</td><td>2.22</td><td>2.72</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1’ 每克维生素预混料含 One gram vitamin premix contained the following：VA 29 O70 IU，VD3 2 000 000IU,VE 99 mg,VK3 5.0 mg, $\\mathrm { V B } _ { 1 } 2 5 . 5 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 2 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 5 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 1 \\ : \\mathrm { m g }$ ，泛酸钙 calcium pantothenate$6 1 ~ \\mathrm { m g }$ ，烟酸 nicotinic acid $1 0 1 ~ \\mathrm { { m g } }$ ，生物素biotin $2 . 5 \\mathrm { m g }$ ，肌醇inositol $1 5 3 . 0 6 \\mathrm { m g }$ ，叶酸 folic acid $6 . 2 5 \\mathrm { m g }$ 纤维素 cellulose $4 1 1 . 5 9 \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2）每克矿物质预混料含 One gram mineral premix content: $\\mathrm { K I O } _ { 4 }$ $_ { \\textrm { 4 } } 0 . 0 3 \\mathrm { m g }$ ， $\\mathrm { C o C l } _ { 2 }$ （号 $\\mathrm { 6 H _ { 2 } O }$ 4.07 mg,CuSO4-5H2O $1 9 . 8 4 ~ \\mathrm { m g }$ ，柠檬酸铁 ferric citrate $1 3 . 7 1 ~ \\mathrm { m g }$ ， $\\mathrm { Z n S O _ { 4 } }$ $7 \\mathrm { H } _ { 2 } \\mathrm { O }$ 28.28 mg,MnSO4:7HO 0.12 mg,MgSO4 $_ \\mathrm { H _ { 2 } O }$ 12.43 mg,KCl 15.33 mg, $\\mathrm { N a _ { 2 } S e O _ { 3 } } 2 \\mathrm { m g }$ ， $\\mathrm { C a ( P O _ { 4 } ) _ { 2 } 8 0 m g }$ ，沸石粉 zeolite powder $8 2 4 . 1 9 ~ \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验用鱼及饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验用斜带石斑鱼购于广东湛江东海岛东简镇后海村鱼场，养殖试验在循环水养殖系统里进行。鱼苗运回后在方形水泥池中投喂对照组饲料驯化2周。挑选体质健康、平均体重为（ $8 4 . 3 0 { \\scriptstyle \\pm 0 . 2 5 }$ ） $\\mathrm { \\bf { g } }$ 的斜带石斑鱼，随机分为6组，每组3个重复，每个重复20尾鱼，以重复为单位放养于室内容积为 $1 ~ \\mathrm { m } ^ { 3 }$ 的圆柱玻璃钢桶(加水量约为900L)内。试验期间水温 $2 6 { \\sim } 3 0 ~ ^ { \\circ } \\mathrm { C }$ ，盐度 25\\~28,pH7.8\\~8.2,溶解氧浓度不低于 $5 \\mathrm { m g / L }$ 。每日饱食投喂2次（08:00和17:00），试验水为经过沙滤、沉淀的海水，试验期间每日早晨换水1次，换",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "水量为总体积 $6 0 \\% \\sim 8 0 \\%$ ，试验周期为10周。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3样品采集及分析方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 样品采集",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "养殖试验结束禁食 $2 4 \\mathrm { h }$ ，取样前桶内试验鱼用丁香酚麻醉后称重、点数，每重复随机取3尾鱼， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 保存备测鱼体常规成分；每重复另随机取3尾鱼，分别测量体重和体长，计算肥满度，然后分离内脏团并称重后计算脏体比，从内脏团中剥离脂肪和肝脏并称重后分别计算腹脂比和肝体比；每重复再随机选取 5尾鱼，尾静脉采血，将血样放入离心管中， $4 ^ { \\circ } \\mathrm { C }$ 静置 $6 \\mathrm { { h } }$ 后 $4 0 0 0 \\times g$ 、 $4 ^ { \\circ } \\mathrm { C }$ 离心 $1 5 \\mathrm { m i n }$ ，收集血清并于- $8 0 ~ ^ { \\circ } \\mathrm { C }$ 保存备测血清生化指标；最后每重复再随机取5尾鱼，分离肝脏和肌肉， $- 8 0 ~ ^ { \\circ } \\mathrm { C }$ 保存备测甘油三酯（totaltriglyceride,TG）、总胆固醇（total cholesterol,TC）含量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 测定方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验饲料、全鱼常规成分的测定参照AOAC（2006）[18]的方法进行，水分含量采用 $1 0 5 ^ { \\circ } \\mathrm { C }$ 干燥法测定，  \n粗蛋白质含量采用凯氏定氮法测定，粗脂肪含量采用索式抽提法（抽提溶剂为石油醚）测定，粗灰分含量  \n采用 550℃马福炉灼烧法测定。饲料中的胆固醇含量参照 Yun 等[2的方法测定，具体操作如下：取饲料  \n$5 0 0 \\mathrm { m g }$ ，以1:9（质量体积比）加入氯仿与甲醇的混合液（2:1，体积比）提取脂肪， $2 4 \\mathrm { h }$ 后 $3 5 0 0 \\mathrm { r / m i n }$ 离  \n心 $5 \\mathrm { m i n }$ ，取上清含脂肪溶液 ${ 5 0 0 \\mu \\mathrm { L } }$ ，用高纯度氮气吹干得到油脂沉淀，用1mL异丙醇（含 $1 0 0 \\ \\mathrm { g / L }$ Triton  \nX-100）溶解，将溶解后样品使用南京建成生物工程研究所生产的TC生化试剂盒进行测定。斜带石斑鱼血清 TG、TC、高密度脂蛋白胆固醇（high density lipoprotein cholesterol,HDL-C）、低密度  \n脂蛋白胆固醇（low density lipoprotein cholesterin,LDL-C)含量及碱性磷酸酶（alkaline phosphatase，AKP）  \n和谷草转氨酶（glutamic oxalacetic transaminase,GOT）活性均用日立7020 全自动生化分析仪测定，肝脏、  \n肌肉中的TC 和 TG 含量分别按Folch 等[19]和Fletcher[20]的方法进行处理，测定方法参照 Yun 等[12]。肝脏脂肪代谢相关酶活性测定：在 $2 { \\mathrm { m L } }$ 预冷的磷酸盐缓冲液（pH7.4）中剪取 $_ { \\textrm { 1 g } }$ 的肝脏，在冰水浴  \n中制备肝脏匀浆液， $4 ~ { ^ \\circ } \\mathrm { C }$ 条件下 $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心 $2 0 ~ \\mathrm { { m i n } }$ ，小心吸取上清液分装并保存于 ${ } . 8 0 ~ ^ { \\circ } \\mathrm { C }$ 备测。肝脏  \n苹果酸酶（malic enzyme,ME）和肉碱棕榈酰基转移酶I（carnitine palmitoyltrans-ferase I，CPTI)活性采用南  \n京建成生物工程研究所生成的试剂盒测定，胆固醇 $7 a$ 羟化酶（cholesterol $7 a$ hydroxylase,CYP7A1)活性采",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用北京冬歌生物有限公司生成的酶联免疫吸附试验（ELISA）试剂盒测定，操作步骤均按说明书进行。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4计算公式",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "增重率（weight gain rate,WGR, $\\%$ ） ${ \\bf \\tau } = 1 0 0 \\times ( W _ { \\mathrm { f } } - W _ { \\mathrm { i } } ) / W _ { \\mathrm { i } } ;$ 蛋白质效率（protein efficiency ratio,PE $\\mathsf { R } , \\% ) \\ = 1 0 0 \\times ( W _ { \\mathrm { f } } - W _ { \\mathrm { i } } ) / \\rfloor$ Fp；饲料效率（feed efficiency,FE） $= ( W _ { \\mathrm { f } } - W _ { \\mathrm { i } } ) / F _ { \\mathrm { C } }$ 成活率（survival rate,SR $\\%$ ） ${ = } 1 0 0 { \\times } N _ { \\mathrm { f } } / N _ { \\mathrm { i } }$ 摄食率（feeding intake rate,FI $\\%$ ） $= 1 0 0 { \\times } F _ { \\mathrm { C } } / [ ( W _ { \\mathrm { f } } { + } W _ { \\mathrm { i } } ) / 2 ] / D$ 肥满度（condition factc $\\mathrm { { r } } , \\mathrm { { C F } } , \\% ) = 1 0 0 { \\times } W / L ^ { 3 }$ 脏体比（viscerasomatic index,VSI $\\mathcal { I } _ { o } ) _ { } = 1 0 0 \\times W _ { \\mathrm { 1 } }$ /W;腹脂比（intraperitoneal fat $\\mathrm { I P F } , \\% ) = 1 0 0 { \\times } W _ { z } / W ;$ 肝体比（hepeto somatic index,HSI $\\%$ ） $= 1 0 0 { \\times } W _ { \\mathrm { g } } / W ,$ 0式中：Wi为平均初始体重（g）；Wf为平均终末体重（g）； $F _ { \\mathrm { P } }$ 为平均蛋白质摄入量（g）； $F _ { \\mathrm { C } }$ 为平均饲料摄入量（g）； $N _ { \\mathrm { i } }$ 为初始鱼尾数（尾）； $N _ { \\mathrm { f } }$ 为终末鱼尾数（尾）； $D$ 为饲喂天数（d）；W为体重（g）；$L$ 为体长（cm）； $W _ { \\mathrm { m } }$ 为内脏团重量（g）； $W _ { \\mathrm { z } }$ 为腹腔脂肪重量（g）； $W _ { g }$ 为肝脏重量（g）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本试验所得到数据均以平均值 $\\pm$ 标准差（mean±SD）表示，并应用SPSS17.0软件对数据进行单因素方差分析，当组间差异显著时，进行Duncan氏多重比较分析， $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲料胆固醇含量对斜带石斑鱼形态学指标的影响如表2所示，随着饲料胆固醇含量的升高，斜带石斑鱼的脏体比和肝体比有上升趋势，但各组间差异不显著（ $\\cdot P { > } 0 . 0 5$ ）。饲料胆固醇含量对斜带石斑鱼的肥满度和腹脂率无显著影响（ $\\cdot P { > } 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2饲料胆固醇含量对斜带石斑鱼形态学指标的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 2Efects of dietary cholesterol content on morphology indexes of orange-spoted grouper % ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/d73ba98770462cd9c01842b75ff55785a60705349095c5b0163227d9273ee656.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>C0</td><td>C0.5</td><td>C1.0</td><td>C1.5</td><td>C2.0</td><td>C2.5</td></tr><tr><td>肥满度CF</td><td>2.52±0.15</td><td>2.67±0.14</td><td>2.55±0.09</td><td>2.53±0.12</td><td>2.60±0.63</td><td>2.60±0.16</td></tr><tr><td>脏体比 VSI</td><td>8.12±0.73</td><td>8.17±0.76</td><td>8.32±0.89</td><td>8.47±0.77</td><td>8.62±0.73</td><td>8.53±0.50</td></tr><tr><td>肝体比 HSI</td><td>1.60±0.20</td><td>1.63±0.38</td><td>1.79±0.48</td><td>1.95±0.30</td><td>1.89±0.39</td><td>2.01±0.40</td></tr><tr><td>腹脂率IPF</td><td>2.27±0.46</td><td>2.31±0.57</td><td>2.37±0.31</td><td>2.79±0.69</td><td>2.62±0.49</td><td>2.82±0.56</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲料胆固醇含量对斜带石斑鱼生长性能的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "如表3所示，饲料胆固醇含量对斜带石斑鱼的成活率无显著影响（ $P { > } 0 . 0 5$ ），各组试验鱼的成活率均在 $9 1 . 1 1 \\% \\sim 1 0 0 . 0 0 \\%$ 。随着饲料胆固醇含量的升高，增重率、蛋白质效率和饲料效率呈先上升后下降的趋势。C0.5组的增重率显著高于其他各组（ $\\scriptstyle P < 0 . 0 5$ ），C1.0和C1.5组的增重率显著高于对照组并显著低于C0.5组（ $\\cdot P { < } 0 . 0 5$ ），与其他2组无显著差异（ $\\cdot P { > } 0 . 0 5$ ）。蛋白质效率与增重率的变化趋势相似。C2.5组的蛋白质效率和饲料效率最低。摄食率随着饲料胆固醇含量的升高呈逐渐上升趋势，但各组间差异并不显著（ $\\mathrm { \\Delta } P { > } 0 . 0 5$ ）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "饲料胆固醇含量（ $( x$ ）和斜带石斑鱼增重率（y）的关系如图1所示，通过折线模型拟合后得到：$y { = } 4 . 5 5 9 x { + } 1 2 3 . 7 ( R ^ { 2 } { = } 1 . 0 0 0 )$ 和 $y = - \\ 0 . 8 2 2 x + 1 6 3 . 7 ( R ^ { 2 } = 0 . 9 2 0 )$ 。以增重率为评价指标，当饲料胆固醇含量为7.43$\\mathrm { g / k g }$ 时，斜带石斑鱼的增重率达到最大值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2饲料胆固醇含量对斜带石斑鱼生长性能的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/42ec57f58242a7844502bcd4b724fc01642a59b5b31e8fbd911e4805609eec71.jpg",
+        "table_caption": [
+            "Table 3Effects of dietary cholesterol content on growth performance of orange-spotted grouper "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>项目Items</td><td>CO</td><td>C0.5</td><td>C1.0</td><td>C1.5</td><td>C2.0</td><td>C2.5</td></tr><tr><td>初重 IBW/g</td><td>84.32±0.03</td><td>84.30±0.01</td><td>84.30±0.03</td><td>84.33±0.03</td><td>84.30±0.03</td><td>84.31±0.02</td></tr><tr><td>末重FBW/g</td><td>198.75±5.37a</td><td>217.53±1.59c</td><td>212.81±5.93b</td><td>211.88±7.63b</td><td>204.55±3.61ab</td><td>204.85±4.32ab</td></tr><tr><td>增重率 WGR/%</td><td>135.71±6.34a</td><td>158.05±1.89c</td><td>152.44±7.05b</td><td>151.26±9.01b</td><td>142.65±4.30ab</td><td>142.94±5.07ab</td></tr><tr><td>蛋白质效率PER/%</td><td>195.59±1.67ab</td><td>206.38±0.81c</td><td>202.49±1.95b</td><td>201.72±9.22b</td><td>193.46±4.20ab</td><td>191.86±3.37a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/63c8855397d2f45bf54de141be0d6f518efd6b350f150a3b4db9a04454d1658a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>摄食率FI/%</td><td>1.14±0.02</td><td>1.17±0.01</td><td>1.18±0.04</td><td>1.18±0.05</td><td>1.19±0.02</td><td>1.21±0.01</td></tr><tr><td>饲料效率 FE</td><td>1.00±0.01ab</td><td>1.09±0.02c</td><td>1.04±0.01bc</td><td>1.04±0.05bc</td><td>1.00±0.02ab</td><td>0.98±0.02a</td></tr><tr><td>成活率 SR/%</td><td>100.00</td><td>100.00</td><td>91.11±3.85</td><td>100.00</td><td>91.11±10.18</td><td>100.00</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标无字母或相同字母表示差异不显著， $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著（ $P { < } 0 . 0 5$ ）。下表同。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ， while with different small letter superscripts mean significant difference ( $\\lceil P { < } 0 . 0 5$ ).The same asbelow. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/84d4bd40061f40f951acbdd571a2a722c15e585c3bad4071eb4675f6317bcfa7.jpg",
+        "img_caption": [
+            "图1饲料胆固醇含量与斜带石斑鱼增重率关系的折线模型分析 Fig.1 The relationship between dietary cholesterol content and WGR of orange-spoted grouper analyzed by broken-line model "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.3饲料胆固醇含量对斜带石斑鱼体成分的影响如表4所示，各组全鱼水分和粗蛋白质含量差异不显著（ $\\cdot P { > } 0 . 0 5$ ）。对照组全鱼粗脂肪含量显著低于  \n各添加组（ $\\cdot P { < } 0 . 0 5$ ），各添加组间无显著差异（ $P { > } 0 . 0 5$ ）。对照组全鱼粗灰分含量显著高于各添加组（ $P$   \n$< 0 . 0 5 \\$ ），各添加组间体无显著差异（ $\\cdot P { > } 0 . 0 5 \\$ ）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 4Efects of dietary cholesterol content on body composition of orange-spotted grouper (DM basis) % ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce24c79a9bbce87db0b2967a85beee26b8560e8708f527c5425001706f55b8bd.jpg",
+        "table_caption": [
+            "表4饲料胆固醇含量对斜带石斑鱼体成分的影响(干物质基础)"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\"></td></tr><tr><td>项目Items</td><td></td><td>C0</td><td>C0.5</td><td>C1.0</td><td>C1.5</td><td>C2.0</td><td>C2.5</td></tr><tr><td>水分Moisture</td><td></td><td>70.37±0.79</td><td>69.13±1.15</td><td>68.35±0.29</td><td>68.33±0.60</td><td>68.41±0.87</td><td>68.73±0.91</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a543b8ff817f5d6c2621535ace07830411bb04f009ab9c827cc4e4cc2a515b3c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粗脂肪 Crude lipid</td><td>21.97±2.38a</td><td>27.00±0.30b</td><td>26.35±0.93b</td><td>26.52±1.27b</td><td>25.47±1.46b</td><td>25.77±2.30b</td></tr><tr><td>粗蛋白质 Crude protein</td><td>60.70±0.74</td><td>60.20±0.52</td><td>59.41±0.26</td><td>59.76±0.46</td><td>59.57±1.07</td><td>59.62±0.61</td></tr><tr><td></td><td></td><td>13.12±0.15a</td><td>13.25±0.38a</td><td>13.42±0.46a</td><td>13.38±0.52a</td><td>13.45±0.05a</td></tr><tr><td>粗灰分 Ash</td><td>14.10±0.10b</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.4饲料胆固醇含量对斜带石斑鱼血清、肝脏和肌肉生化指标的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "如表5所示，随着饲料胆固醇含量的升高，斜带石斑鱼血清TG、TC、HDL-C 和LDL-C 含量均先上升后趋于平稳。C2.0 组血清 TG 含量显著高于对照组（ $\\scriptstyle P < 0 . 0 5$ ），但和其他组无显著差异（ $\\cdot P { > } 0 . 0 5$ ）。C2.5组血清HDL-C含量与C1.0 和C2.0 组无显著差异（ $( P { > } 0 . 0 5 )$ ），但显著高于对照组和C0.5、C1.5组（ $P$ <0.05）。C2.5 组血清LDL-C含量显著高于其他各组（ $\\scriptstyle P < 0 . 0 5$ ），C1.0、C1.5 和C2.0 组血清LDL-C显著低于C2.5 组并显著高于对照组（ $\\scriptstyle P < 0 . 0 5$ ）。对照组血清 HDL-C/LDL-C 显著高于各添加组（ $\\scriptstyle P < 0 . 0 5 .$ ），C0.5 组血清HDL-C/LDL-C 显著低于对照组并显著高于C2.5 组( $\\scriptstyle P < 0 . 0 5 .$ ),与其他组差异不显著( $P { > } 0 . 0 5 )$ 。各组血清AKP和GOT活性无显著差异 ${ ( P { > } 0 . 0 5 }$ ）。肝脏TC含量随饲料胆固醇含量的升高而上升，C1.0、C1.5、C2.0 和C2.5组显著高于对照组（ $P { < } 0 . 0 5$ ）。肝脏TG含量随饲料胆固醇含量的升高而上升，C1.5和C2.5组显著高于对照组和C0.5组（ $. P { < } 0 . 0 5$ ）。各组肌肉TG、TC含量无显著差异（ $\\cdot P { > } 0 . 0 5$ ）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5饲料胆固醇含量对斜带石斑鱼血清、肝脏和肌肉生化指标影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table 5Efects of dietary cholesterol content on serum, liver and muscle biochemical indexes of orange-spotted ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f984657f7d404dc9f1acc691969ed74eafb01c522f9b3682e737f92affa18e75.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">grouper</td></tr><tr><td></td><td colspan=\"6\">组别 Groups</td></tr><tr><td>项目Items</td><td>C0</td><td>C0.5</td><td>C1.0</td><td>C1.5</td><td>C2.0</td><td>C2.5</td></tr><tr><td>血清 Serum</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯 TG/(mmol/L)</td><td>2.30±0.30a</td><td>2.63±0.68ab</td><td>2.90±0.56ab</td><td>3.10±0.44ab</td><td>3.63±0.78b</td><td>3.03±0.75ab</td></tr><tr><td>总胆固醇 TC/(mmol/L)</td><td>0.84±0.08a</td><td>3.30±0.58b</td><td>4.05±0.61bc</td><td>3.39±0.30b</td><td>4.88±0.76bc</td><td>5.36±0.68c</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高密度脂蛋白胆固醇</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1.34±0.10b</td><td>1.66±0.13bc</td><td>1.53±0.16b</td><td>1.63±0.63bc</td><td></td></tr><tr><td></td><td>0.52±0.04a</td><td></td><td></td><td></td><td></td><td>1.93±0.29c</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bc77c4aa9d0c03d362f7ca8b1db3bf6bd5020a6b4d12034d873e9d193069f36.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">低密度脂蛋白胆固醇</td></tr><tr><td></td><td>0.16±0.01a</td><td>1.16±0.30ab</td><td>1.61±0.40b</td><td>1.58±0.26b</td><td>1.96±0.66b</td><td>3.69±0.81c</td></tr><tr><td>LDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高密度脂蛋白胆固醇/低密度脂蛋白胆</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3.08±0.26c</td><td>1.22±0.41b</td><td>1.06±0.16ab</td><td>1.00±0.25ab</td><td>0.87±0.24ab</td><td>0.59±0.25a</td></tr><tr><td>固醇 HDL-C/LDL-C</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>碱性磷酸酶 AKP/(U/L)</td><td>72.67±13.32</td><td>83.67±12.86</td><td>86.33±14.15</td><td>89.00±12.12</td><td>86.33±16.97</td><td>89.67±20.95</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷草转氨酶 GOT/(U/L)</td><td>22.00±3.61</td><td>28.33±2.83</td><td>35.00±3.00</td><td>25.67±1.15</td><td>29.33±1.53</td><td>31.33±8.38</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肝脏（湿重基础）Liver（wet weight basis)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇 TC/(g/kg)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2.19±0.63a</td><td>2.99±0.63ab</td><td>3.40±0.39b</td><td>3.40±0.32b</td><td>3.58±0.40b</td><td>3.76±0.33b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯 TG/(g/kg)</td><td>0.27±0.05a</td><td>0.30±0.05ab</td><td>0.34±0.03abc</td><td>0.39±0.04cd</td><td>0.37±0.05bcd</td><td>0.42±0.02d</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肌肉（湿重基础）Muscle（wet weight basis)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇 TC/(g/kg)</td><td>0.57±0.03</td><td>0.69±0.06</td><td>0.58±0.08</td><td>0.66±0.06</td><td>0.72±0.07</td><td>0.77±0.19</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯 TG/(g/kg)</td><td>1.57±0.30</td><td>1.83±0.14</td><td>1.81±0.06</td><td>1.67±0.26</td><td>2.16±0.35</td><td>1.79±0.26</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.5饲料胆固醇含量对斜带石斑鱼肝脏脂肪代谢相关酶活性的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如表6所示，随着饲料胆固醇含量的升高，斜带石斑鱼肝脏ME 活性呈升高趋势，C1.5、C2.0 和C2.5组显著高于其他组（ $\\cdot < 0 . 0 5$ ），其中C2.5 组较对照组升高 $1 8 . 8 1 \\%$ ；肝脏肉毒碱棕榈酰转移酶I（CPTI)活性则先下降后趋于平稳，对照组显著高于其他组（ $\\scriptstyle P < 0 . 0 5$ ）。肝脏CYP7A1活性随饲料胆固醇含量的升高先上升后趋于平稳，C1.5、C2.0和C2.5组间无显著差异（ $\\mathrm { \\Delta } P { > } 0 . 0 5 \\mathrm { \\Delta }$ ），以C2.5 组活性最高，较对照组升幅达 $3 5 . 4 8 \\%$ （ $P { < } 0 . 0 5$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲料胆固醇含量 $( x )$ ）与斜带石斑鱼肝脏CYP7A1活性（y）的关系如图2所示，经折线模型拟合得到：$y { = } 2 1 . 5 7 1 x { + } 3 5 2 . 7 1$ ( $R ^ { 2 } { = } 1 . 0 0 0$ ）和 $y = 4 . 3 7 4 1 x + 5 0 2 . 2 4$ ( $R ^ { 2 } { = } 0 . 8 3 4$ ）。以肝脏CYP7A1活性为评价指标，斜带石斑鱼对饲料中胆固醇的需要量为 $8 . 7 0 ~ \\mathrm { g / k g }$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "表6饲料胆固醇含量对斜带石斑鱼肝脏脂肪代谢相关酶活性的影响",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Table 6Effects of dietary cholesterolcontent on lipid metabolism related enzyme activities of orange-spotted ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "项目Items",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4f270bd38b622826f5aa941c76ab58507ee539eefc9ab26f8ac1c31ffd3aa1d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>CO</td><td>C0.5</td><td>C1.0</td><td>C1.5</td><td>C2.0</td><td>C2.5</td></tr><tr><td>苹果酸酶 ME</td><td>34.96±0.42a</td><td>36.37±3.52a</td><td>39.44±2.93ab</td><td>41.42±1.94b</td><td>42.56±1.63b</td><td>43.06±1.96b</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>肉毒碱棕榈酰转移酶I</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>12.42±0.15d</td><td>11.83±0.19c</td><td>11.56±1.49bc</td><td>11.26±0.33ab</td><td>10.91±0.27a</td><td>11.28±0.43ab</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CPTI ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "胆固醇7a-羟化酶 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "CYP7A1 ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f481b4699bdbffb07ac4ea2697370ea7a50680e0e139d5c81653075c4fd26f0.jpg",
+        "img_caption": [
+            "图2饲料胆固醇含量与斜带石斑鱼肝脏CYP7A1活性关系的折线模型分析 Fig.2The relationship between dietary cholesterol content and liver CYP7Al activity of orange-spoted grouper analyzed by broken-line model "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.1饲料胆固醇含量对斜带石斑鱼生长性能的影响 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "研究表明，鱼体自身能够合成胆固醇或利用饲料中的胆固醇以满足生理代谢需求[21-2]。随着渔业资源的日益减少，为了降低成本，鱼粉被越来越多的植物蛋白质源所替代。水产动物饲料中的植物性蛋白质源是影响饲料原料消化率的一个重要因素[23]，当鱼粉大量被植物性蛋白质源所代替时，鱼的生长性能和饲料利用率会下降[24-26]。有研究者发现，在以动物性蛋白质源为主的基础饲料中添加胆固醇对大西洋鲑[6]、杂交条纹鲈[7]和虹鳟[17]的增重率和饲料利用率无显著影响。然而，在本试验中，在以酪蛋白为蛋白质源的基础饲料中添加胆固醇对斜带石斑鱼的增重率、蛋白质效率和饲料效率均具有显著影响，上述指标随饲料胆固醇含量的升高呈现先上升后下降趋势，在胆固醇含量为 $7 . 4 3 ~ \\mathrm { g / k g }$ 时增重率达到最大，可以推测在以酪蛋白为蛋白质源的基础饲料中添加适量的胆固醇对斜带石斑鱼的生长有促进作用，但关于胆固醇促进生长的原因尚待进一步研究。类似结果还出现在摄食高植物蛋白质源基础饲料的大菱鲆[12]、斑点叉尾[13]、牙鲆[14]和虹鳟[27]上。然而，当饲料胆固醇含量超过需要量时，斜带石斑鱼的增重率、蛋白质效率和饲料效率出现下降，在胆固醇含量为 $2 7 . 2 \\ \\mathrm { g / k g }$ 时，蛋白质效率和饲料效率的值最低，这可能由于高含量的胆固醇使鱼机体代谢负载过重导致。但摄食以脱脂鱼粉为蛋白源的基础饲料的大菱鲆，超量胆固醇的添加对其生长并无抑制作用，推测造成试验结果的差异可能与不同鱼的习性、食性、规格、饲料基本组成和养殖环境等有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "在以植物蛋白质源为主的基础饲料中添加胆固醇可以促进大菱鲆[12]、牙鲆[14]和虹[15]的摄食，研究者推测胆固醇在饲料以植物蛋白质源作为主要蛋白源时可能具有诱食作用，但具体作用机理还未确定。本研究中，随着饲料胆固醇含量的升高，斜带石斑鱼的摄食率有升高的趋势，并且在投喂过程也观察到添加胆固醇的组试验鱼的摄食比对照组要快，但在各组间并无显著差异，这个结果与 Zhu 等[的结果一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.2饲料胆固醇含量对斜带石斑鱼体成分和组织生化指标的影响",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "饲料中添加胆固醇可以促进大菱鲆胆汁酸的分泌和脂肪的沉积[12]，可提高牙鲆肠道脂肪酶活性和脂肪表观消化率[28]。在本试验中，饲料胆固醇含量对斜带石斑鱼全鱼粗脂肪含量影响显著，这与大菱鲆[1-12]和牙鲆[28]的研究结果相似，对照组全鱼粗脂肪含量显著低于其他组，表明饲料中适量的胆固醇可促进斜带石斑鱼对脂肪的吸收，增加脂肪的储存。但是饲料胆固醇含量对斜带石斑鱼全鱼水分和粗蛋白质含量无显著影响，相同研究结果还出现在大西洋鲑[6]、大菱鲆[1-2]、牙鲆[28]上。本试验中，对照组斜带石斑鱼全鱼粗灰分含量显著高于其他各组，这与大菱鲆[l-2]和牙鲆[28]的结果有差异，具体原因还有待进一步研究。有研究表明，胆固醇能够显著提高大鼠肝脏中 TG 和 TC 的含量[16]。同样地，在本试验中，斜带石斑鱼肝脏中 TG 含量随饲料胆固醇含量的升高而上升，表明胆固醇促进了斜带石斑鱼肝脏中TG 的合成。类似的研究在杂交条纹鲈[7]上也曾被报道过。肝脏 TG 含量是反映脂肪沉积的一个重要指标，肝脏 TG 含量上升可能会引起脂肪肝，从而干扰肝脏的脂肪代谢。肝脏也是合成胆固醇的主要场所，是肝外组织胆固醇的主要来源。本试验中，随着饲料胆固醇含量的上升，斜带石斑鱼肝脏TC 含量逐渐升高，这与在大菱鲆[11-2]上的研究结果相同，表明饲料中胆固醇促进了胆固醇在斜带石斑鱼肝脏中的沉积。肝脏 TG 和 TC 含量的升高都可能会造成肝脏脂肪代谢紊乱，从而影响鱼类的生理代谢，这也可能是饲喂高含量胆固醇饲料组斜带石斑鱼生长性能下降的原因之一。  \n血液生化指标的变化能客观地反映鱼类的健康状况，血清中过高的 TG 和 TC 含量有可能对动物体产生危害[29-30]。本试验中，随着饲料胆固醇含量的升高，血清中 TG、HDL-C 和 LDL-C 的含量都呈现升高的趋势，类似结果 Zhu 等[11、Yun 等[12]和陈京华等[28]曾报道过，表明血清中的 TG、HDL-C 和LDL-C 含量与饲料中胆固醇含量呈正相关。TG 作为鱼类的能源物质，参与能量的释放和储存，血清中 TG 含量升高表明肝脏中脂肪的分解能力下降[31l。HDL-C/LDL-C 能够反映鱼体内胆固醇的转运状况，同时也是反映动脉粥脉硬化程度的指标[12]。本试验中，随饲料胆固醇含量的升高，斜带石斑鱼血清 HDL-C/LDL-C 呈下降趋势，这与在大菱鲆[1I-12]上的研究结果相同，表明随着饲料胆固醇含量的升高，鱼体中可能积累了更多的胆固醇[11]。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3饲料胆固醇含量对斜带石斑鱼肝脏脂肪代谢相关酶活性的影响",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "CYP7A1是肝脏中胆固醇合成胆汁酸过程的关键酶[32]。而胆汁酸具有亲水性和亲油性，能有效乳化脂肪和增强消化道脂肪合成酶的活性，促进脂肪的吸收，并且提高机体脂肪的沉积[33]。在本研究中，随饲料胆固醇含量的升高，肝脏CYP7A1活性先上升后趋于平稳，这与 Zhu 等[1和 Yun 等[2的研究结果相似，表明胆固醇促进了斜带石斑鱼肝脏胆汁酸合成能力。以肝脏CYP7A1活性为评价指标，得出斜带石斑鱼对饲料中胆固醇的需要量为 $8 . 7 0 ~ \\mathrm { g / k g }$ ，这一需要量高于以增重率为评价指标的需要量（ $7 . 4 3 ~ \\mathrm { g / k g } \\dot { }$ ），可见，肝脏CYP7A1活性与生理稳态的密切相关，且维持正常生理功能对胆固醇的需要量高于正常生长对胆固醇的需要量。在哺乳动物的试验中已被证实胆固醇会影响动物机体的脂肪酸代谢[34-35]。ME 在肝脏脂肪酸合成中提供烟酰胺腺嘌呤二核苷磷酸(NADPH)，是脂肪酸合成中的关键酶。本研究结果显示，随着饲料胆固醇含量的升高，斜带石斑鱼肝脏ME 活性有升高的趋势，这表明胆固醇可能增强了肝脏脂肪酸合成，肝脏TG 含量的升高可能与此有关。对大鼠进行的试验表明摄食胆固醇会降低大鼠肝脏ME 的活性[16]，大鼠与斜带石斑鱼结果的差异可能与它们体内脂肪酸代谢机制不同有关[36-37]。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "肝脏是鱼类脂肪酸 $\\beta$ -氧化的主要场所，是鱼体调节脂肪蓄积的重要器官[38]。CPTI是线粒体中进行脂肪酸 β-氧化分解功能的关键酶，对脂肪的分解具有重要的调控功能。CPTI在线粒体外膜内侧催化脂酰辅酶 A转化为脂酰肉碱，运送到达线粒体基质进行 $\\beta$ -氧化[33]。当CPTI活性下降时，脂肪酸分解水平可能也会下降。有研究表明，胆固醇会降低大鼠肝脏肉毒碱棕榈酰转移酶（CPT）活性，并且降低CPTI和CPTII的表达量[16]。国外也有学者报道，添加 $1 \\%$ 的胆固醇会降低虹体内脂肪酸β-氧化分解[17]。本研究中，各添加组试验鱼肝脏CPTI活性均显著低于对照组，表明胆固醇降低了斜带石斑鱼肝脏脂肪酸分解能力。肝脏脂肪酸 β-氧化活力降低是脂肪酸转化为TG 和胆固醇酯的重要原因[39],肝脏 TG 含量的升高可能也与此有关。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 以增重率和肝脏CYP7A1活性为评价指标，通过折线回归模型得出斜带石斑鱼对饲料中胆固醇的需要量分别为7.43 和 $8 . 7 0 \\ \\mathrm { g / k g }$ 。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 饲料中添加胆固醇可提升鱼体脂肪沉积，提高肝脏TC和TG含量及ME 活性，但降低肝脏CPTI活性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]王淑雯,黄先智,罗莉,等.蚕蛹替代鱼粉对吉富罗非鱼生长性能、体成分及血清生化指标的影响[J].动物营养学报,2015,27(9):2774-2783.  \n[2]刘运正,何艮,麦康森,等.新型复合动植物蛋白源部分替代鱼粉对大菱鲆幼鱼生长和肉质的影响[J].中国海洋大学学报,2016,46(1):33-39.  \n[3]史东杰,梁拥军,孙砚胜,等.蝇蛆粉替代鱼粉对罗非鱼生长、肌肉组成和肝脏非特异性免疫指标的影响[J].水产科技情报,2015,42(6):319-323.  \n[4]王嘉,薛敏,吴秀峰,等.鱼类对不同蛋白质源饲料选择性摄食调控机制的研究进展[J].动物营养学报,2014,26(4):833-842.  \n[5]SHEEN S S.Dietary cholesterol requirement of juvenile mud crab Scylla serrata[J].Aquaculture,2000,189(3/4):277-285.  \n[6] BJERKENG B,STOREBAKKEN T,WATHNE E.Cholesterol and short-chain fatty acids in diets for",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Atlantic salmon Salmo salar (L.):effects on growth,organ indices,macronutrient digestibilityand faty acid composition[J].Aquaculture Nutrition,1999,5(3):181-191. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[7]SEALEY W M,CRAIG S R,GATLIN II D M.Dietary cholesterol and lecithin have limited effects on growth and body composition of hybrid striped bass (Morone chrysopsxM.saxatilis)[J].Aquaculture Nutrition,2001,7(1):25-31.   \n[8] ASCHOFF L.Observations concerning the relationship between cholesterol metabolism and vascular disease[J].The British Medical Journal,1932,2(3755):1131-1134.   \n[9] NRC.Nutrient requirement of fish[S].Washington,D.C.:National Academy of Press,1993:114. [10] 骆艺文,艾庆辉,麦康森,等.饲料中添加牛磺酸和胆固醇对军曹鱼生长、体组成和血液指标的影响 [J].中国海洋大学学报,2013,43(8):31-36.   \n[11]ZHU T F,AI Q H,MAI K S,et al.Feed intake,growth performance and cholesterol metabolism in juvenile turbot (Scophthalmus maximus L.） fed defatted fish meal diets with graded levelsof cholesterol[J].Aquaculture,2014,428-429:290-296.   \n[12]YUN B,MAI K S,ZHANG W B,et al.Effects of dietary cholesterol on growth performance,feed intake and cholesterol metabolism in juvenile turbot (Scophthalmus maximus L.） fed high plant protein diets[J].Aquaculture,2011,319(1/2):105-110.   \n[13]TWIBELL R GWILSON R PPreliminary evidence that cholesterol improves growth and feed intake ofsoybeanmeal-baseddietsinaquariastudieswithjuvenilechannelcatfish,Ictalurus punctatus[J].Aquaculture,2004,236(1/2/3/4):539-546.   \n[14]DENG J,MAI K,AI Q,et al.Interactive effects of dietary cholesterol and protein sources on growth performance and cholesterol metabolism of Japanese flounder (Paralichthys olivaceus)[J].Aquaculture Nutrition,2010,16(4):419-429   \n[15]DENG J M,BI B L,KANG B,et al.Improving the growth performance and cholesterol metabolism of rainbow trout (Oncorhynchus mykis） fed soyabean meal-based diets using dietary cholesterol ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "supplementation[J].British Journal of Nutrition,2O13,11O(1):29-39. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[16] 王玉明,王静凤,薛长湖.胆固醇影响大鼠脂肪代谢的机制研究[J].营养学报,2007,29(6):530-534. [17]NORAMBUENA F,LEWIS M,HAMID N K A,et al.Fish oil replacement in current aquaculture feed:is cholesterol a hidden treasure for fish nutrition?[J].PLoS One,2013,8(12):e81705. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[18] AOAC.OfficialmethodsofanalysisofAOACinternational[S].Gaithersburg,MD:AOAC International,2006.   \n[19]FOLCH J,LEES M,SLOANE STANLEY G H.A simple method for the isolation and purification of total lipids from animal tissues[J].Journal of Biological Chemistry,1957,226(1):497-509.   \n[20]FLETCHER M J.A colorimetric method for estimating serum triglycerides[J].Clinica Chimica Acta,1968,22(3):393-397.   \n[21]LEAVER M J,VILLENEUVE L A N,OBACH A,et al.Functional genomics reveals increases in cholesterol biosynthetic genes and highly unsaturated fatty acid biosynthesis after dietary substitution of fish oil with vegetable oils in Atlantic salmon (Salmo salar)[J].BMC Genomics,2008,9(1):299.   \n[22]PARISH E J,LI S,BELL A D.Chemistry of waxes and sterols[M]//AKOH C C,MIN D B.Food lipids:chemistry,nutrition,and biotechnology.3rd ed.Boca Raton,FL:CRC Press,2Oo8:99-123.   \n[23]杨奇慧,谭北平,周小秋,等.植物蛋白质复合物替代凡纳滨对虾饲料中鱼粉的研究[J].动物营养学 报,2014,26(6):1486-1495.   \n[24]张俊智,吕富,郁志利,等.膨化豆粕替代不同比例鱼粉对黄鳝生长性能、体成分、肠道消化酶活力 及血清生化指标的影响[J].动物营养学报,2015,27(11):3567-3576.   \n[25]孙宏,叶有标,姚晓红,等.发酵棉籽粕部分替代鱼粉对黑鲷幼鱼生长性能、体成分及血浆生化指标 的影响[J].动物营养学报,2014,26(5):1238-1245.   \n[26]陈文燕,陈拥军,彭祥和,等.罗非鱼低鱼粉饲料中桑叶发酵蛋白替代鱼粉的研究[J].动物营养学 报,2015,27(12):3968-3974.   \n[27]DENG JM,ZHANG X,LONG X W,et al.Effects of dietary cholesterol supplementation on growth and ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "cholesterol metabolism of rainbow trout (Oncorhynchus mykiss)fed diets with cottonseed meal or rapeseed meal[J].Fish Physiology and Biochemistry,2014,40(6):1827-1838. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[28]陈京华.微生物发酵、外源酶制剂和促摄食物质对牙鲆(Paralichthys olivaceus)利用豆粕蛋白的影 响[D].博士学位论文.青岛:中国海洋大学,2006.   \n[29]FUNGWE T V,FOX J E,CAGEN L M,et al.Stimulation of fatty acid biosynthesis by dietary cholesterol andofcholesterol synthesisbydietaryfattyacid[J].JournalofLipid Research,1994,35(2):311-318.   \n[30]BOND C E.Circulation,respiration,and the gas bladder[M]//BOND C E.Biology of fishes.London:W.B Saunders Company Press,1979:347-374.   \n[31]KIM K N,JOO E S,KIM K I,et al.Effect of chitosan oligosaccharides on cholesterol level and antioxidant enzyme activities in hypercholesterolemic rat[J].Journal of the Korean Society of Food Science and Nutrition,2005,34(1):36-41.   \n[32]HUBACEK J A,BOBKOVA D.Role of cholesterol $7 a$ -hydroxylase(CYP7A1） in nutrigenetics and pharmacogenetics of cholesterol lowering[J].Molecular Diagnosis & Therapy,2006,10(2):93-100.   \n[33]邹思湘.动物生物化学[M].4版.北京:中国农业出版社,2005:181-196.   \n[34]GARG M L,THOMSON A B,CLANDININ M T.Effect of dietary cholesterol and/or omega 3 fatty acids on lipid composition and delta 5-desaturase activity of rat liver microsomes[J].The Journal of Nutrition,1988,118(6):661-668.   \n[35]MURIANA F J GRUIZ-GUTIERREZ V,VAZQUEZ C M.Influence of dietary cholesterol on polyunsaturated fatty acid composition,fluidity and membrane-bound enzymes in liver microsomes of rats fed olive and fish oil[J].Biochimie,1992,74(6):551-556.   \n[36]VAGNER M,SANTIGOSA E.Characterization and modulation of gene expresson and enzymatic activity of delta-6 desaturase in teleosts:a review[J].Aquaculture,2011,315(1/2):131-143.   \n[37]EMERY J A,HERMON K,HAMID N K A,et al.△-6 desaturase substrate competition:dietary linoleic ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "acid (18:2n-6) has only trivial effects on $\\mathfrak { a }$ -linolenic acid（18:3n-3） bioconversion in the teleost rainbow trout[J].PLoS One,2013,8(2):e57463. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[38]LOFTUS T M,JAWORSKY D E,FREHYWOT G L,et al.Reduced food intake and body weight in mice treated with fatty acid synthase inhibitors[J].Science,2000,288(5475):2379-2381. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[39] FUKUDA N,ONTKO J A.Interactions between fatt acid synthesis,oxidation,and esterification in the production of triglyceride-rich lipoproteins by the liver[J].Journal of Lipid Research,1984,25(8):831-842. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Cholesterol Content on Growth Performance,Tissue Biochemical Indices and Liver Lipid Metabolism Related Enzyme Activities of Orange-Spotted Grouper (Epinephelus coioides) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Wuchai1DONG Xiaohui1\\* TAN Beiping1 ZHANG Shuangl CHI Shuyan1YANG Qihui1LIUHongyu’CHEN Xiaoru²",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "(1. Laboratory of Aquatic Animal Nutrition and Feed, College of Fisheries, Guangdong Ocean University, Zhanjiang 524088, China; 2. Tongwei Co., Ltd., Chengdu 610041, China) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Abstract: A feeding trial was conducted to evaluate the effects of dietary cholesterol content on growth performance,tissue biochemical indices and liver lipid metabolism related enzyme activities of orange-spotted grouper (Epinephelus coioides). Taking casein as main protein source, six isoenergetic and isonitrogenous diets were formulated with the cholesterol adding levels of O (control group),5,10,15,20 and $2 5 ~ \\mathrm { g / k g }$ , named as CO、 C0.5、C1、C1.5、C2 and C2.5,and the measured values of cholesterol content in those diets were 2.6,7.5,12.7, 17.2, 22.2 and $2 7 . 2 ~ \\mathrm { g / k g }$ ，respectively，and then fed to 36O orange-spoted grouper with initial average body weight of $( 8 4 . 3 0 { \\pm } 0 . 2 5 ) \\$ g for 1O weeks. Each diet was randomly assigned to three replicates with 2O fishes in each replicate.The results showed as follows: weight gain rate (WGR)，protein efficiency ratio (PER) and feed effciency (FE）were firstly increased and then decreased with the dietary cholesterol content increasing.The WGR,PER and FE of the CO.5 group were the highest and significantly higher than those of the control group \\*Correspinding author, professor, E-mail:_dongxiaohui 20o3@163.com (责任编辑菅景颖) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "$( P { < } 0 . 0 5 )$ . The whole body crude lipid content of adding groups was significantly higher than that of the control group $( P { < } 0 . 0 5 )$ ，whereas the ash content of supplementation groups was significantly lower than that of the control group $( P { < } 0 . 0 5 )$ . The total cholesterol (TC) and triglyceride (TG) contents in liver were increased with the dietary cholesterolcontent increasing,but the muscle TCand TG contents were not affected by dietarycholesterol content $( P { > } 0 . 0 5 )$ . With dietary cholesterol content increasing,serum TC, TG, high-density lipoprotein cholesterol (HDL-C)and low-density lipoprotein cholesterol (LDL-C） contents were firstly increased and changed to be steady,and the HDL-C/LDL-C had a down trend.The serum TG content of the C2.O group was significantly higher than that of the control group $( P { < } 0 . 0 5 )$ , the serum HDL-C content of the C2.5 group was significantly higher than that of the CO.5 and C1.5 groups, control group $( P { < } 0 . 0 5 )$ , the serum LDL-C content of the C2.5 group was significantly higher than that of the other groups $( P { < } 0 . 0 5 )$ ， and the HDL-C/LDL-C of control group was significantly higher than that of the adding groups $( P { < } 0 . 0 5 )$ . With the dietary cholesterol content increasing, the activity of malic enzyme (ME) in liver was increased,and it of C1.5, C2.0 and C2.5 group was significantly higher than that of the other groups $( P { < } 0 . 0 5 )$ ; the activity of carnitine acyltransferase I(CPT I） in liver had a downtrend and then to be stable,and it of control group was significantly higher than thatof the other groups $( P { < } 0 . 0 5 )$ ; the activity of cholesterol $7 a$ hydroxylase (CYP7A1) had a uptrend and then to be stable,and it of the C0.5 group was the highest and increased by $3 5 . 4 8 \\%$ than that of the control group $( P { < } 0 . 0 5 )$ . In this experiment, based on the WGR and liver CYP7Al activity as evaluation indices，the cholesterol requirement for the orange-spotted grouper determined by broken-line model analysis is 7.43 and $8 . 7 0 ~ \\mathrm { g / k g }$ diet, respectively. Kev words: orange-spoted grouper: cholesterol: growth performance: biochemical indices: lipid metabolism ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    }
+]

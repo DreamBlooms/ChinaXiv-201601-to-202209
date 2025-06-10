@@ -1,0 +1,464 @@
+[
+    {
+        "type": "text",
+        "text": "Maximized photosynthetic capacity and decreased hydraulic failure risk during aging in the clump bamboo, Bambusa chungii ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhenzhen Zhang1,23, Juan Zhou1,2, Xiuhua Zhao1,2, Ping Zhao1, Liwei Zhu', Lei Ouyang', Guangyan Nil ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "lKey Laboratory of Vegetation Restoration and Management of Degraded Ecosystems， South China Botanical Garden， Chinese Academy of Sciences, Guangzhou 510650, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2University of Chinese Academy of Sciences, Beijing 10o049, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3College of Geography and Environmental Sciences, Zhejiang Normal University, Jinhua 321004, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correspondence to: P. Zhao (zhaoping@scib.ac.cn, +86-020-37252881) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highlights ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We depicted the anisohydric behavior of Bambusa chungi stomata to maximize carbon assimilation We found their structural compensation to maintain the hydraulic safety ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To assess the water use of a clumped bamboo species,we investigated water use, physiological responses,and structural changes related to culm aging in the clumped bamboo species Bambusa chungii. Anisohydric behavior was characterized by the changed leaf water potential $( \\Psi _ { \\mathrm { L } } )$ ， constant stomatal conductance $\\mathrm { ( g _ { s } ) }$ ，and the low stomatal sensitivity $( - \\mathfrak { m } )$ in the young (O.52) and mature groups as well as the aged group (0.41). Intercellular $\\mathrm { C O } _ { 2 }$ (Ci) was negatively related to ${ \\bf g } _ { \\mathrm { s } }$ , especially during the dry season ( $\\mathrm { R } ^ { 2 } = 0 . 6 2 )$ .Hydraulic conductivity $\\mathrm { ( k _ { s } ) }$ decreased by $5 7 . 9 \\%$ and $5 8 . 8 \\%$ in the mature and aged groups. This was accompanied by a leaf area $( \\mathrm { A _ { L } } )$ that decreased by $5 5 . 7 \\%$ and $6 3 . 7 \\%$ and water transport path (h) that shortened by $8 . 5 \\%$ and $23 . 3 \\%$ to maintain the hydraulic safety. The photosynthetic rate $\\left( \\mathbf { A } _ { \\mathrm { n } } \\right)$ was similar among the three age groups even during the dry season when water deficits occurred. This might be due to compensation by increased chlorophyll content $( 5 . 3 \\%$ greater for the mature group) and stomata density ( $7 . 4 \\%$ and $8 . 1 \\%$ greater for the mature and aged groups). Physiological and structural regulation contributes to reproductive success for $B$ chungii. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Bamboo， TDP method， senescence， hydraulic balance， carbonassimilation.",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carbon and water cycle balances in forest ecosystems have changed profoundly by the direct or indirect effects of increased atmospheric temperature and altered precipitation patterns resulting from increased greenhouse gas levels (Schimel et al., 2001; et al.， 2012). Knowledge of how physiological regulation and structural adaptations of plants are linked to environmental conditions provides the base for predicting their future development (Dudley, 1996). Bamboo plantations are widely planted in subtropical Asia, and they contribute to precipitation circulation, soil water conservation, and soil fertility improvement (Wang et al., 2004; Christanty et al., 1997; Nandy et al., 2004), (Singh and Singh,1999; Ohtsuka et al. 2007; Wang et al., 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bamboo species are fast growing with well-developed rhizomes and clonal reproduction. They are able to rapidly colonize disturbed habitats and produce a bamboo-dominated forest canopy (Manges, 20o0; Gagnon et al., 2008; Wang et al., 2016) that can significantly alter plant species composition compared to natural conditions (Zheng et al., 20o3). Bamboo has great potential for biomass production and might be a net sink for $\\mathrm { C O } _ { 2 }$ carbon sequestration especially in native areas (Li et al., 2000; Pearson et al.， 1994; Ohtsuka et al., 2007). Leaf stomata simultaneously regulate both the influx of carbon dioxide and the efflux of water between a leaf and its environment (Anderson et al.， 2OoO)， so substantial water loss would also be expected. The Moso bamboo forest has an annual transpiration of $5 6 7 ~ \\mathrm { ~ m m }$ accounting for ${ \\sim } 3 2 \\%$ of the annual precipitation (Komatsu et al., 2O1O). This is quite similar to the $6 2 0 . 5 \\mathrm { - m m }$ annual transpiration of the Abies amabilis forest (Martin et al.,1997),and greater than the $2 5 0 \\mathrm { - m m }$ annual transpiration of a Fagus sylvatica forest (Keitel et al., 2003). However, shallow bamboo root systems are distributed mostly within the upper $0 { - } 2 0 ~ \\mathrm { m m }$ of soil may not be well adapted for water uptake during drought conditions (Liese, 1987; Zhong et al.,2014). In addition, the gradually decreased xylem conductivity in secondary growth also increases the possibility of hydraulic failure (Liese and Weiner, 1996; Kleinhenz and Midmore,2001). Hydraulic failure occurs when the water in xylem conduits cavitates under high tension. The resulting embolisms restrict water transport to the canopy, ultimately resulting in tissue death due to desiccation. Clarification of the relationship between large transpiration demand and a vulnerable conductive system increases our understanding of plant responses to variable resource supplies (Onozawa et al., 2o09; Dierick et al., 2010). Few studies have addressed how bamboos maximize carbon assimilation while maintaining conductive system hydraulic safety. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generally, stomata respond to increasing vapor pressure deficit between leaf and air by partial closure (Oren et al.， 2Oo1),avoiding high transpiration and a water potential decline (Liese and Weiner, 1996). This prevents excessive dehydration and physiological damage to the photosynthetic apparatus but decreases carbon assimilation (Manzoni et al., 2O13). However, some species have low midday leaf water potential as soil water potential decreases with drought while maintaining high stomatal conductance with increasing VPD 一 an example of anisohydric behavior (West et al., 20o8). It is not known if such behavior exists in bamboo species during growth when they balance water consumption needs with hydraulic limitations in response to environment conditions. Some anisohydric shrubs and herbs wilt in response to extreme drought stress to avoid sustained damage to their photosynthesis functions (Chiariello et al.， 1987; Tardieu et al., 1996, Fortini et al., 2003; Schultz, 2003). Many studies have reported isohydric (reduced stomatal conductance to limit transpiration) behavior in bamboo. Some adaptions to water stress such as leaf rolling by unique bulliform cells have also been found in Gramineae species (including bamboo) (Zheng et al., 2Oo1). In this manner, the leaf area as well as the boundary layer conductance are reduced (Dauzat et al.， 2001; Kadioglu et al.， 2011). We hypothesize that anisohydric behavior might also be a water stress regulation strategy ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "for bamboo. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Age-related tree structure can significantly influence plant water regulation. Some researchers propose that plant structure is prone to converge on adaptations most suitable to a given set of conditions (Meinzer et al.， 2O04; McJannet et al., 2007).However, this conclusion has been validated only for dicotyledon species. These species have active cambium for the production of new xylem tissues to maintain the ability to transport water and to avoid hydraulic limitations caused by aging and allometric growth. In contrast, water use by monocotyledon species such as bamboo may not exhibit allometric change with age because secondary growth is absent. The hydraulic system of bamboo, formed during the early growth stages, will not change with age. However, increased embolization by methylcellulose can block conduits within the xylem, leading to a decline of hydraulic conductivity (Liese and Weiner,1996). The physical limitations on water flow through hydro-active tissue (sapwood in the xylem) influences stomatal behavior and transpiration in trees, which can be expressed, based on Darcy's law, as ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { \\Delta J _ { S } }$ is the sap flux density, ${ \\bf k } _ { \\mathrm { s } }$ is the sap wood specific hydraulic conductivity (whole-plant conductance per unit sapwood). $\\Delta \\Psi$ represents the water potential difference between rhizosphere and leaf, and h is the tree height. This equation can be used to quantify the change in whole tree water conductivity. If isohydric behavior is present in bamboo water use regulation, based on this equation, the decreased ${ \\bf k } _ { \\mathrm { s } }$ caused by physical limitations will be compensated by the reduced leaf water status $( \\Delta \\Psi )$ if $\\mathrm { \\Delta J _ { S } }$ is related carbon assimilation and h is assumed to be constant, which will put the bamboo species in danger of hydraulic failure. Thus，other hydraulic (architectural or physiological) regulations are expected. However, it remains unclear if bamboo species can maintain anisohydric behavior and still optimize carbon assimilation as the plants age. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among the Asia-Pacific region countries,China has the highest bamboo diversity (626 species) (Bystriakova et al.,20o3). The greatest bamboo species richness occurs in the forests of south China. Morphologically, all bamboo species can be categorized as either monopodial or sympodial (Banik, 2015； Valade and Dahlan，1991). Monopodial bamboos are native to temperate climates with cool wet winters, while sympodial bamboos are adapted to tropical climates with a pronounced dry season (Kleinhenz and Midmore, 2001). The tight clumping habit of tropical species exposes less rhizome surface to dehydration during extended dry seasons (Farrelly, 1984). In this study, we attempt to characterize the hydraulic regulation, at different ages, of a sympodial species， Bambusa chungii， Specifically， we determine if anisohydric behavior for the stomatal control of water use exists in this species and if it is maintained with aging. We test hydraulic compensation for the decreased xylem water conductance of the $B$ . chungii culm and determine if carbon assimilation is maintained. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.Experimental site and sap flow measurements ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The field observations were conducted from January to December 2O14 in the South China Botanical Garden in Guangzhou ( $2 3 ^ { \\circ } 1 0 ^ { \\prime } 3 9 . 9 \" \\mathrm { N }$ ， $1 1 3 ^ { \\circ } 2 1 ^ { \\prime } 1 7 . 6 \" \\mathrm { E }$ ).This is a transitional zone between tropical and subtropical regions. The entire year is divided, by hydrothermal conditions, into a wet season that extends from April to September and a dry season that extends from October to the following March (Zhu et al., 2013). The altitude of this site is above $4 1 \\mathrm { ~ m ~ }$ ，with an annual precipitation of 1,612-1,909 mm and a mean annual temperature of $2 1 . 4 { - } 2 1 . 9 ^ { \\circ } \\mathrm { C }$ ， The minimum and maximum temperatures usually occur in February and July, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three clumps of $B$ . chungii with an average density of 18O individuals were chosen for sap flow measurements. Fifteen individuals in each clump were chosen and classified by age (1-2 years, 3-4 years, ${ \\geq } 5$ years, corresponding to young, mature and aged individuals, respectively） according to the morphological differences that characterize different growth stages (Zhao et al.， 2O16). Sap flux densities were calculated using the equation of Granier (1987) with newly derived parameters in the unpublished paper (unpublished data),where we shortened the original $2 0 ~ \\mathrm { m m }$ TDP probes to $5 \\mathrm { m m }$ and did the calibration both with a cut experiment of a culm segment under laboratory conditions and a pot experiment under field condition. Detailed mounting procedures of in situ measurements refer to measurements made on woody species (Granier, 1987; Schäfer et al., 2000) except that the two probes were installed across the bamboo knots,namely on both sides of a knot. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.Stand parameters ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Diameter at breast height (DBH) of all sample bamboo culms was determined with a diameter tape. The cross-section area $( \\mathrm { A _ { C } } )$ of the culm wall was determined by placing a hook to cover the wall depth through a hole of $2 \\mathrm { m m }$ in diameter drilled into the wall (Figure S1). The depth covered by the hook corresponded to the wall thickness. The depth of four orientations was measured and averaged to improve $\\mathbf { A } _ { \\mathrm { C } }$ accuracy. After the field measurements were taken, twelve individuals (4 for each age group） were cut down to collect all of the leaves and measure the height (H) and numbers of knots $\\left( \\mathrm { n _ { k } } \\right)$ . Subsamples of leaves (5） for each individual were used to measure the leaf area with a portable leaf area meter (Licor-3ooo, USA) and the total fresh weight with an electric balance.The total leaf area $( \\mathrm { A _ { L } } )$ ofa culm was estimated by the relationship between fresh mass and leaf area derived from the subsamples collected on each individual. We fitted $\\mathrm { \\mathbf { A } _ { L } }$ to DBH to estimate the $\\mathbf { A } _ { \\mathrm { L } }$ of sample culms for sap flow measurements. H was unrelated to DBH, but it was positively related ( $\\mathrm { R } ^ { 2 }$ $= 0 . 6 8 )$ with $\\mathtt { n _ { k } }$ ,which was expressed as ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Canopy stomatal conductance ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In forests where transpiration is well-coupled with atmosphere conditions, the mean stomatal conductance can be calculated based on a simplified equation (Kostner et al. 1992). Assuming that the $\\mathrm { \\Delta J _ { S } }$ are scaled by the ratio of cross-section area of culm wall and leaf area $\\mathrm { ( A _ { C } / A _ { L } ) }$ is equal to the transpiration rate per unit of leaf area $\\mathrm { ( E _ { L } ) }$ . The mean stomatal conductance for individual culms, $\\mathrm { G } _ { \\mathrm { s } }$ , can be calculated as: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E } _ { \\mathrm { L } }$ is whole-culm transpiration per unit leaf area $( \\mathbf { g \\ m } ^ { - 2 } \\mathbf { \\ s } ^ { - 1 } )$ ， $\\mathrm { G } _ { \\mathrm { V } }$ is the universal gas constant adjusted for water vapor ( $\\left( 0 . 4 6 2 ~ \\mathrm { { m } ^ { 3 } \\mathrm { { k P a } ~ K ^ { - 1 } ~ k g ^ { - 1 } } } \\right)$ ）， $\\mathrm { { T _ { a } } }$ is the air temperature (K), p is the density of water $( 9 9 8 \\mathrm { k g } \\mathrm { m } ^ { - 3 } )$ ), and VPD is in $\\mathrm { { k P a . G s } }$ is in units of mmol $\\mathbf { m } ^ { - 2 } \\mathbf { s } ^ { - 1 }$ (Monteith & Unsworth, 2013). In this study, the bamboo canopy was open and met the application requirements of equation (3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Leaf area $( \\mathrm { A _ { L } } )$ was assumed to be equal in dry and wet seasons, and the $\\mathbf { G } _ { \\mathrm { s } }$ calculation is therefore not subject to the seasonality of leaf area dynamics. It was estimated after(1） performing a cross-correlation analysis between VPD and $\\mathrm { F _ { d } } ,$ and using the time lag to infer a time-corrected $\\mathrm { F _ { d } }$ and (2) filtering out data for $\\mathrm { V P D } < 0 . 6$ kPa in the hours of early morning and late afternoon (Oren et al. 1999). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.Stomatal sensitivity to vapor pressure deficit ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Granier et al. (1996) proposed that stomatal sensitivity is proportional to the magnitude of $\\mathrm { G } _ { \\mathrm { s } }$ at low VPD $\\mathrm { ( V P D = 1 \\ k P a }$ ） when soil moisture is not limiting, which was expressed as: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { G } _ { \\mathrm { S r e f } }$ is the intercept (i.e., the value of $\\mathrm { G } _ { \\mathrm { S } }$ at $\\mathrm { \\Delta V P D = 1 \\ k P a }$ in a log-linear relationship), and $- \\mathbf { m }$ is the slope of the regression fit representing stomatal sensitivity to VPD (i.e., dGs/dln VPD). Oren et al. (1999) demonstrated that m is approximately 0.6. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study, the $- \\mathbf { m }$ and $\\mathrm { G } _ { \\mathrm { S r e f } }$ in the wet and dry seasons were used to delineate the stomatal control of transpiration. Thus, a boundary line analysis of the relationship between VPD and $\\mathrm { G } _ { \\mathrm { s } }$ was performed following the principle proposed by Schäfer et al. (20oo) after excluding nighttime data ( $\\mathrm { \\langle Q _ { 0 } = 0 }$ ). The relationship between lnVPD and Gs of each small subset was linearly fitted，and the intercept and slope corresponded to the $\\mathrm { G } _ { \\mathrm { s r e f } }$ （ $\\mathrm { \\Delta G } _ { \\mathrm { { S } } }$ at $\\mathrm { { V P D } = 1 \\ k P a }$ ） and the sensitivity in response to VPD (dGs/dlnVPD，mmol $\\mathrm { { m } ^ { - 2 } \\ \\ s ^ { - 1 } \\ k P a ^ { - 1 } }$ )，respectively (Oren et al. 1999). Then， the relationship between $\\mathrm { G } _ { \\mathrm { S r e f } }$ and $- \\mathrm { d } { \\bmod { d } } \\mathrm { G } _ { \\mathrm { s } }$ for both seasons was linearly fitted to estimate $- \\mathbf { m }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. Leaf gas exchange and physiological characters ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Daily courses of leaf net photosynthetic rate $\\left( \\mathbf { A } _ { \\mathrm { n } } \\right)$ ， stomatal conductance $\\mathrm { ( g _ { s } ) }$ ， transpiration rate $\\mathrm { ( E _ { t } ) }$ were measured at $2 \\mathrm { ~ h ~ }$ intervals from 5:00 am to $7 { : } 0 0 \\ \\mathrm { p m }$ with a portable photosynthesis measurement system (LI-6400,Li-Cor,Lincoln, NE,USA) under ambient conditions on typical clear days during the dry (January 15-17, 2014) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "and wet seasons (July 19-21,2014). Ambient $\\mathrm { C O } _ { 2 }$ concentration was ${ \\sim } 3 9 0$ mmol $\\mathrm { m o l ^ { - 1 } }$ ， air humidity ranged from $5 5 \\mathrm { - } 6 5 \\%$ ， leaf temperature was between $1 2 ^ { \\circ } \\mathrm { C }$ and $2 8 ^ { \\circ } \\mathrm { C }$ and VPD between 1.2 and $1 . 5 \\mathrm { { k P a } }$ .For each measurement, leaves were exposed to the above conditions for $2 { - } 5 \\ \\mathrm { m i n }$ to allow the stabilization of photosynthetic parameters. Three sun-exposed mature shoots from each culm of each age group were selected for the measurement. Leaf water potential $( \\Psi _ { \\mathrm { L } } )$ was measured with a pressure chamber (PMS,Albany, OR, USA) on the detached shoots after the gas exchange measurements. Chlorophyll content and stomatal density were determined in four leaves collected from the culms selected for gas exchange measurement. For the chlorophyll content determination, the fresh leaves $( 0 . 1 \\mathrm { - } 0 . 2 \\ \\mathrm { g } )$ were cut into strips of ${ \\sim } 1 ~ \\mathrm { m m }$ in width and soaked in the mixture of acetone and ethyl alcohol (1:2, $3 0 ~ \\mathrm { m l }$ ） for $2 4 \\mathrm { ~ h ~ }$ . The extract solution was used to measure chlorophyll content with a spectrophotometric method that was calculated according to Arnon's equation (Arnon, 1949). The number of stoma was counted in a fixed field of vision under an optical microscope to calculate the leaf stomatal density. The diameter of stoma was regarded as a proxy for the stomatal size. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ANOVA was used to compare differences in parameter values in different age groups and seasons. Statistical analyses were performed with SAS 9.2 (Statistical analysis system, NC, USA). For graphing, Origin 9.0 (Origin Lab, Northampton, MA, USA) was used. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. Sap flow response to PAR and VPD ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On a daily basis, PAR and VPD induced leaf transpiration changes and leaf water status,which drives sap movements (Green et al., 20o3). Sap flow increased in the morning with increasing daylight intensity, reached a maximum around $1 2 { : } 0 0 \\ \\mathrm { p . m }$ noon, and then gradually decreased until $\\mathbf { P A R } = 0$ , in both dry and wet season (Figure 1). Sap flow data for all the culms in the wet season was used to quantify the indirect regulation of PAR and VPD with Partial Correlation Analysis. This showed a PARdominating sap flow variances ( $0 . 6 3 < \\mathbf { r } < 0 . 9 6$ with a mean of 0.88, $\\mathrm { \\tt ~ p } < 0 . 0 0 1 \\$ ),but no dominance of VPD (mean $\\mathbf { r } = 0 . 1 3 , \\mathbf { p } > 0 . 0 5$ . We continually fitted the exponential relationship between PAR and $\\mathrm { \\Delta J _ { S } }$ for each culm ( $0 . 6 8 < \\mathrm { R } ^ { 2 } < 0 . 8 9$ ）to obtain the predicted $ { \\mathrm { J } _ { \\mathrm { S } } } \\left(  { \\mathrm { J } _ { \\mathrm { S } \\cdot  { \\mathrm { p } } } } \\right)$ from the fitted curves. The $\\mathsf { J } _ { \\mathsf { S } - \\mathsf { P } }$ of each culm was then normalized by their maximum (at max PAR) and averaged by all the culms within each group. Figure 2a shows the response of normalized $ { \\mathrm { J _ { S } } } (  { \\mathrm { J _ { S ^ { - } N } } } )$ to PAR.Different response sensitivity to PAR was found among the three age groups. The PAR at $\\mathrm { J } _ { \\mathrm { S } ^ { - } \\mathrm { N } } = 0 . 8$ was 557.7, 1074.3 and $8 5 6 ~ { \\mu \\mathrm { m o l } } ~ { \\mathrm { m } } ^ { - 2 } ~ { \\mathrm { s } } ^ { - 1 }$ for young, mature and aged groups. We chose the $\\mathrm { \\Delta J _ { S } }$ during the time period of $1 1 { : } 0 0 \\mathrm { ~ - ~ } 1 5 { : } 0 0$ to fit with VPD and found a constant transpiration in a VPD range of $1 . 7 { - } 3 . 0 \\ \\mathrm { k P a }$ for all the tree age groups (Figure 2b). Accordingly, the mean $\\mathrm { \\Delta J _ { S } }$ was 21.9, 13.4 and $1 7 . 4 \\mathrm { g } \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ with significant differences among all the age groups ( $\\mathrm { \\Phi } ( \\mathrm { p } < 0 . 0 1$ , ANOVA). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1.1 Leaf physiological characters ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { A } _ { \\mathrm { n } }$ reached a maximum of $6 . 9 ~ { \\mu \\mathrm { m o l } } ~ { \\mathrm { m } } ^ { - 2 } ~ { \\mathrm { s } } ^ { - 1 }$ ， $4 . 7 ~ { \\mu \\mathrm { m o l } } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { s } ^ { - 1 }$ and $5 . 2 ~ \\mathrm { \\mu m o l ~ m } ^ { - 2 } ~ \\mathrm { \\sigma } ^ { - 1 }$ for young，mature and aged individuals before the “midday depression” under high radiation $( \\mathrm { P A R } > 9 1 0 . 7 ~ \\mu \\mathrm { m o l } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { s } ^ { - 1 } )$ ） for all groups in wet season; however, this depression was not observed in the dry season (Figure 3a). $\\mathbf { A } _ { \\mathrm { n } }$ differences among groups were not significant except at 9:00 $( \\mathtt { p } = 0 . 0 2 )$ ） in the wet season. The daily mean of An was much higher in the wet season $( 3 . 4 \\pm 1 . 6 ~ \\mu \\mathrm { m o l } ~ \\mathrm { m } ^ { - 2 } ~ \\mathrm { s } ^ { - 1 } )$ than in the dry season ( $( 1 . 8 \\pm 0 . 9 \\mu { \\mathrm { m o l } } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 } )$ ） $( \\mathtt { p } < 0 . 0 0 1 \\$ ） $\\mathbf { g } _ { \\mathrm { s } }$ showed daily variation similar to An, while no significant difference was found between dry and wet season $( 0 . 0 1 8 \\pm$ （204号 $0 . 0 0 5 \\mathrm { ~ m o l ~ m ^ { - 2 } ~ s ^ { - 1 } }$ and $0 . 0 2 \\pm 0 . 0 1 \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ respectively, ${ \\tt p } = 0 . 4 9 _ { , } ^ { }$ ） $\\mathrm { E } _ { \\mathrm { t } }$ values for young and aged individuals were significantly higher than for mature ones (Figure 3c, ${ \\bf p } = { \\bf 0 . 0 3 6 } )$ in the wet seasons,especially when light intensity was high,which was consistent with $\\mathrm { \\Delta J _ { S } }$ (Figure lc, d). However, no differences were observed among the age groups in the dry season. Leaf water potential $( \\Psi _ { \\mathrm { L } } )$ decreased rapidly after 7:00 and recovered after 11:00 when the stomata partially closed at 9:00 (Figure 3d). A rapid increase of transpiration occurred after 13:00 (Figure 3c) when the stomata reopened. This pattern mirrored the dramatic consumption of water from the stem in the morning (before 11:0O am). In addition, we found a $\\Psi _ { \\mathrm { { L } } }$ sequence of young $>$ aged $>$ mature that was significant in the dry season $( \\mathtt { p } < 0 . 0 5 )$ ，and positively related to their $\\mathrm { \\Delta J _ { S } }$ and transpiration (Figure 2b). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition, we also found a seasonal difference in the dynamics of intercellular $\\mathrm { C O } _ { 2 }$ (Ci) (Figure 4a). Ci started to decrease gradually at 6:0O in response to the increase of An with the rising PAR until 9:00,and increased again after 15:O0, in the dry season. We did not conduct measurements at 5:OO in the wet season and it was predicted that Ci had the same value as in the dry season before sunrise (6:00). We observed that Ci decreased to a very low value (mean of $7 0 . 5 \\ \\mathrm { \\textmu m o l } \\ \\mathrm { C O } _ { 2 } \\ \\mathrm { m o l } ^ { - 1 }$ for all culms) at 7:00 in the morning，which was caused by the rapidly increasing PAR (Figure 4a) before being promoted by increased $\\mathbf { g } _ { \\mathrm { s } }$ at 9:00, and then decreasing again at 11:0O until 17:00 when it recovered. No significant differences were observed among the age groups. It seems that Ci has a dynamic trade off with $\\mathrm { g } _ { \\mathrm { s } }$ . Thus we fitted Ci to $\\bf { g } _ { \\mathrm { s } }$ for all the individuals and found that they were negatively related, especially during the dry season (Figure 4b). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.2 Stomatal response to Ci ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We fit the relationship between $\\mathrm { G } _ { \\mathrm { S r e f } }$ and -dlnVPD/dGs of the three age groups for both dry and wet seasons (Figure 5). The young group had the highest slope (i.e., $- \\mathrm { m }$ ） of 0.52 $( \\mathtt { p } < 0 . 0 1 \\$ ） without differences between the two seasons. The slopes of the mature and aged group were similar $( \\mathtt { p } > 0 . 0 5 )$ . They had slopes of 0.40 and 0.41 in the wet and the dry season; the -dlnVPD/dGs in the wet season tended to be higher than in dry season. All the -m values were significantly lower than the standard value of 0.6 proposed by Oren et al.(1999). This indicated that the stomas were partially decoupled from the VPD induced stomatal regulation (decreased $\\mathrm { g } _ { \\mathrm { s } }$ ） when VPD was very high. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1.3 Age effects on culm form features and leaf morphology ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "At the whole-culm level, both H and $\\mathrm { \\mathbf { A } _ { L } }$ significantly decreased with age (Figure 6a, b). Meanwhile, $\\mathbf { A } _ { \\mathrm { C } }$ unexpectedly decreased (by $1 3 . 1 \\%$ and $8 . 1 \\%$ ） for mature and aged (data not shown). The climatic variations among the adjacent years induced growth differences of bamboo shoots might be responsible for such changes among the age groups. We found a gradual increase (decrease） in annual mean relative humidity (temperature) from 2009 to 2014 (corresponding to the aged to young age groups), which was favorable for the growth of younger bamboo (Zheng et al.， 2O01). We estimated the individual height of nine culms that were used to conduct $\\Psi _ { \\mathrm { { L } } }$ measurement based on equation 3 and calculated their ${ \\bf k } _ { \\mathrm { s } }$ combining $\\Psi _ { \\mathrm { L } }$ and $\\mathrm { \\Delta J _ { S } }$ in the dry season with equation 1. The ${ \\bf k } _ { \\mathrm { s } }$ of the mature and aged individuals decreased by $5 7 . 9 \\%$ and $5 8 . 8 \\%$ compared to those of the young groups,which revealed that conduits were significantly blocked as they grew older. At the leaf level, mature groups had the highest chlorophyll content (Chl) of $1 . 0 2 \\ \\mathrm { m g \\ g ^ { - 1 } }$ ，while levels of the young and aged groups were $0 . 9 7 \\mathrm { m g } \\mathrm { g } ^ { - 1 }$ and $0 . 7 5 \\mathrm { m g } \\mathrm { g } ^ { - 1 }$ , respectively (Figure 6c). In contrast, young groups had the lowest leaf stomatal density than the other two age groups. Stomatal density in the young group was $6 . 9 \\%$ and $7 . 5 \\%$ lower than the mature and aged groups, respectively (Figure 6d). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Stomatal control in woody species under high light conditions is an adaptation for maintaining leaf water potential in situations of excessive transpiration (Oren et al., 2001; Nilson and Assmann, 2Oo7). We found a rapid decrease of $\\mathbf { g } _ { \\mathrm { s } }$ that began at 9:00 when $\\mathrm { P A R } = 9 1 0 . 7 \\mu \\mathrm { m o l } \\ \\mathrm { m } ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ with a mean $\\Psi _ { \\mathrm { L } }$ of $- 1 . 2 5 \\mathrm { M P a }$ in the wet season. However, this did not occur in the dry season with a significantly lower mean $\\Psi _ { \\mathrm { { L } } }$ （204号 $( - 2 . 5 3 \\mathrm { { M P a } ) }$ when PAR reached a maximum of $7 9 2 . 8 \\ \\mathrm { \\textmu m o l \\ m ^ { - 2 } \\ s ^ { - 1 } }$ (Figure la). In addition,we compared $ { \\mathrm { g } _ { \\mathrm { s } } }$ of all the culms at 11:0o (Figure 3b)，and found no differences among age groups or between seasons $( \\mathtt { p } > 0 . 0 5 )$ . This implied that the stomatal control might not be a complete response to leaf water status for bamboo. The constant $\\mathrm { \\Delta J _ { S } }$ with increased VPD (Figure 2b) also mirrored weak stomatal control of transpiration in the dry season as $\\Psi _ { \\mathrm { L } }$ was quite low (Figure 3d). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "However, the decreased $\\mathrm { g } _ { \\mathrm { s } }$ ， shown in Figure 4, indicated a Ci induced stomatal regulation, especially during the dry season. The regulation of stomatal conductance is a response to release of leaf abscisic acid (ABA) that tends to be activated when pH is low (for example when Ci is high) (Ackerson et al., 1982; Kaiser et al., 1981), which eventually leads to stomatal closure. Thus, the rapidly increased Ci in our study between 9:0o-11:00 in the wet season could be responsible for the stomatal closure at 9:00 and for the PAR-dominating $\\mathrm { \\Delta J _ { S } }$ (Figure 2a). This has already been demonstrated in the bamboo Indocalamus barbatus that had a more profound “midday depression\" (decreased $\\mathrm { g _ { s } } )$ ） when exposed to simulated acid deposition (Xie et al., 20o8). The traditional view of plant leaf water potential induced stomatal control (Nilson and ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Assmann, 2Oo7) may not be true for B. chungii. ABA induced stomatal regulation is an acclimatory response to drought in some herbs, shrubs and tree species (Chaves et al.,1987; Socias et al.,1997). As a result, increased water use efficiency occurs under moderate stress in these plants due to the maintenance of photosynthesis (Socias et al.,1997). These results imply a reduced effect on photosynthesis caused by the leaf water status and the maintenance of high carbon assimilation in bamboo even under desiccating conditions (high VPD). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our results indicate that $B$ . chunggi may not maintain the minimum leaf water potential during the dry season. It maintained $\\mathrm { g _ { s } }$ when the leaf water potential was low, showing anisohydric behavior. The relation of stomatal conductance and VPD showed that $- \\mathbf { m }$ , in all three age groups, was significantly less than the standard value of 0. $5 \\left( \\mathbf { p } < 0 . 0 1 \\right)$ , especially for the mature and aged groups $( \\mathrm { m e a n } = 0 . 4 1 \\$ ). Oren et al. (1999) reported that if stomata do not regulate the leaf potential near a constant value (anisohydric behavior),a lower slope is expected.Anisohydric behavior has been observed in many plant groups including species such as juniper (Juniperus formosana, sugar maple (Acer saccharum)， sunflower (Helianthus annuus),and eucalyptus (Eucalyptus gomphocephala). Anisohydric behavior allows a greater $\\Psi _ { \\mathrm { L } }$ （204号 range than that which occurs in isohydric species (West et al., 2Oo8; Franks et al., 2007). Anisohydric species benefit from higher rates of gas exchange during drought, however, at the risk of a higher probability of hydraulic failure (West et al., 2008). These plants are more likely die of cavitation rather than carbon starvation (McDowell et al., 2Oo8). As illustrated in Figure 3a and b, the significant reduction of leaf water potential during the dry season did not lead to a decrease of $\\bf { g } _ { \\mathrm { s } }$ and An at noon,and no differences of $\\mathbf { g } _ { \\mathrm { s } }$ were found between wet and dry seasons. The $\\Psi _ { \\mathrm { L } }$ reached a minimum of $- 3 . 1 \\ \\mathrm { M P a }$ for the mature group in dry season. The wilting point leaf water potential $( \\pi _ { \\mathrm { t l p } } )$ across 71 tree species in tropical forest ranged from -1.4MPa--3.1MPa，and only $1 . 5 \\%$ of the species had $\\pi _ { \\mathrm { t l p } }$ lower than $- 3 . 0 \\ \\mathrm { M P a }$ （204号 (Maréchaux et al.， 2015). Despite the maintenance of $\\mathbf { g } _ { \\mathrm { s } }$ in dry season,An still suffered a significant decrease,which may be an indication of the damage to the photosynthetic apparatus induced by drought stress (Foyer et al., 1994; Wingler et al., 2000） Further studies on photosynthetic characteristics， such as chlorophyll fluorescence, are needed to clarify these results. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Our results also showed a non-significant difference in $\\mathbf { A } _ { \\mathrm { n } }$ among the three age groups in both seasons (Figure 3a) and when leaves suffered a significant water deficit during the dry season (Figure 3d). Meanwhile, the mature and aged groups tended to be more anisohydric than the young group with a lower stomatal sensitivity 1 $\\mathrm { \\langle - m = 0 . 4 0 }$ and O.41), but with a greater negative $\\Psi _ { \\mathrm { { L } } }$ value in both seasons (Figure 5). The biosynthesis of ABA can be triggered by a reduction in leaf turgor in angiosperms 一 a higher sensitivity of ABA synthesis to leaf turgor corresponded with a higher stomatal sensitivity (higher $- \\mathrm { m }$ ）to VPD (McAdam and Brodribb，2016). Thus, decreasing -m with increased plant age may relate to the partial loss of enzyme activity for the ABA synthesis. This possibility needs further verification. Our results suggest a stronger tendency to maximize carbon assimilation in the mature and aged groups. This is in consistent with the study results of Emanuel et al. (2007). The carbon-sequestrating ability of five-year-old bamboo (Phyllostachys pubescens） was significantly higher than three- and one-year-old bamboos during the peak growth period (Zhong et al., 2014). The increased chlorophyll content (Figure 6c) for mature groups and higher stomatal density for mature and aged group (Figure 6d) might be associated with this tendency (Xu and Zhou, 20o8). Mature and aged bamboos transfer ${ \\sim } 8 0 \\%$ of all the nutrient storage to the bamboo shoots,which significantly contributes to their reproductive and dispersal success (Kleinhenz and Midmore, 2001). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "However, weak stomatal control would expose the bamboo to the risk of hydraulic failure since the shallow roots and decreased conductivity cannot provide sustained available water for transpiration. The water content in bamboo stems decreased significantly during a maturation phase of up to three years (Sattar et al., 1994). In B. chungii, a significantly decreased $\\mathrm { \\Delta J _ { s } }$ and its sensitivity to PAR were seen in the mature and aged groups (Figure 2). Thus, a decrease in stomatal conductance as well as in transpiration rate was not unexpected as this has been found previously in Woody tree species (Delzon and Loustau, 2Oo5). However, such a change in $\\mathrm { E } _ { \\mathrm { t } }$ and $\\mathbf { g } _ { \\mathrm { s } }$ was not observed for $B$ . chungii bamboo，especially under high light conditions (Figure 1b,c). Instead, the young group had the minimum $\\mathrm { E } _ { \\mathrm { t } }$ and $\\mathbf { g } _ { \\mathrm { s } }$ with a mean of 0.77 mmol $ { \\mathbf { m } } ^ { - 2 } \\  { \\mathbf { s } } ^ { - 1 }$ and $0 . 0 1 8 7 \\ m o l \\ m ^ { - 2 } \\ \\mathrm { s } ^ { - 1 }$ during the wet season. The hydraulic architectures are reported to be convergent in plant water regulation (Zeppel et al., 2013). Whitehead et al. (1984) proposed an identity equation showing the manner in which $\\mathbf { g } _ { \\mathrm { s } }$ and $\\Psi _ { 1 }$ are linked to structural features such as the ratio of leaf area to sapwood area $( \\mathrm { A _ { L } } / \\mathrm { A _ { C } } )$ , axial flow path length (h), and xylem permeability $\\left( \\mathrm { k _ { s } } \\right)$ ： ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(4) ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "where $\\Psi \\mathrm { s }$ is the soil water potential, $\\mathbf { g }$ is gravitational acceleration,h is the vertical distance,and $\\rho , \\eta$ and $\\rho _ { \\mathrm { w } }$ are the density, dynamic viscosity and molar volume of water, respectively. To maintain hydraulic balance for an given $\\mathrm { g } _ { \\mathrm { s } }$ ， the decreased $\\mathbf { k } _ { \\mathrm { s } }$ (lower by $5 7 . 9 \\%$ and $5 8 . 8 \\%$ in mature and aged groups) in bamboo must be offset either by a reduction in h and $\\mathbf { A _ { \\mathrm { L } } } / \\mathbf { A _ { \\mathrm { C } } }$ or in $\\Psi _ { 1 }$ . Culm height is expected to be constant after one year of growth (Liese, 1987), but a decrease of $8 . 5 \\%$ and $23 . 3 \\%$ in culm height for mature and aged groups, compared to that of young culm height, was found in this study. The decreased h is associated with dead tissues at the top of the stem due to hydraulic failure associated with the growth sequence of bamboo shoots (up to down, Zhong et al., 2014). $\\mathbf { A } _ { \\mathrm { L } }$ also declined by $5 5 . 7 \\%$ and $6 3 . 7 \\%$ (Figure 6a). A significant decline of $\\mathbf { A } _ { \\mathrm { L } }$ also occurs in the bamboo species， Phyllostachys heterocycle,as they age (Zhao et al., 2O16). Thus, the compensation for decreased $\\mathrm { \\mathbf { A } _ { L } }$ and h allows for a decreased $\\Psi _ { 1 }$ that in turn maintains hydraulic safety. These results suggest an adaptive adjustment of the hydraulic architecture to cope with the conduits that are blocked by tyloses in the stems (Liese， 1987). Although the decrease of individual carbon assimilation caused by decreased $\\mathrm { \\mathbf { A } _ { L } }$ may not be completely compensated, the increased life span eventually contributes more to the carbon sink for each individual. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "B. chungii is a fast-growing species with significant eco-hydraulic effects. It maximized carbon assimilation by anisohydric behavior from the beginning of growth, while xylem cavitation and embolization triggered structural changes such as decreased leaf area and water path length possibly by reducing the tissues required to maintain hydraulic safety. To compensate for the reduced carbon assimilation caused by decreased $\\mathrm { \\bf A } _ { \\mathrm { L } }$ ， the mature and aged groups improved their photosynthetic capacity by way of increased stomata density， higher chlorophyll content，and enhanced anisohydric behavior in response to water deficit. This helped older plants to maintain an $\\mathbf { A } _ { \\mathrm { n } }$ similar to the young groups as well as to maximize their fitness. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The study Was supported by National Nature Science Foundation of China (Grant No. 41630752, 31170673, 41030638) and CAS/SAFEA International Partnership Program for Creative Research Teams. Data used in this study were collected by the author and are available from the author upon request. We thank LetPub (www.letpub.com) for its linguistic assistance during the preparation of this manuscript. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Ackerson RC. 1982. Synthesis and movement of abscisic acid in water-stressed cotton leaves. Plant Physiology 69, 609-613.   \nAnderson MC, Norman JM, Meyers TP, Diak GR. 2OOo. An analytical model for estimating canopy transpiration and carbon assimilation fluxes based on canopy lightuse efficiency. Agricultural and Forest Meteorology 101, 265-289.   \nArnon DI. 1949. Copper enzymes in isolated chloroplasts. Polyphenoloxidase in Beta vulgaris. Plant physiology 24, 1.   \nBanik RL． 2015. Bamboo Silviculture. In Bamboo (pp.13-174)． Springer International Publishing.   \nBystriakova N，Kapos V, Lysenko I, Stapleton CMA. 2O03. Distribution and conservation status of forest bamboo biodiversity in the Asia-Pacific Region. Biodiversity and Conservation 12, 1833-1841.   \nChaves MM, Harley PC, Tenhunen JD, Lange OL. 1987. Gas exchange studies in two Portuguese grapevine cultivars. Physiologia Plantarvm 70, 639-47.   \nChiariello NR, Field CB,Mooney HA. 1987. Midday wilting in a tropical pioneer tree. Functional Ecology 1, 3-11.   \nChristanty L,Kimmins JP, Mailly D. 1997. 'Without bamboo, the land dies': A conceptual model of the biogeochemical role of bamboo in an Indonesian agroforestry system. Forest Ecology and Management 91, 83-91.   \nDauzat J, Rapidel B, Berger A. 2Oo1. Simulation of leaf transpiration and sap flow in virtual plants: model description and application to a coffee plantation in Costa Rica. Agricultural and Forest Meteorology 109, 143-160.   \nDelzon S, Loustau D. 20o5. Age-related decline in stand water use: sap flow and transpiration in a pine forest chronosequence. Agricultural and Forest Meteorology 129, 105-119.   \nDierick D, Holscher D, Schwendenmann L. 2O1O. Water use characteristics of a bamboo species (Bambusa blumeana) in the Philippines. Agricultural and Forest Meteorology 150, 1568-1578.   \nDudley SA. 1996. Differing selection on plant physiological traits in response to ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "environmental water availability: A test of adaptive hypotheses. Evolution 50, 92-102. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Emanuel RE, D'Odorico P, Epstein HE. 20O7. Evidence of optimal water use by vegetation across a range of North American ecosystems. Geophysical Research Letters 34. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Farrelly,D.1984. The Book of Bamboo.280.   \nFortini LB, Mulkey SS, Zarin DJ, Vasconcelos SS, de Carvalho CJR. 2003. Drought constraints on leaf gas exchange by Miconia ciliata (Melastomataceae) in the understory of an eastern Amazonian regrowth forest stand. American Journal of Botany 90, 1064-1070.   \nFoyer CH,Lelandais M，Kunert KJ. 1994. Photooxidative stress in plants. Physiologia Plantarum 92, 696-717.   \nFranks PJ, Drake PL， Froend RH. 2OO7. Anisohydric but isohydrodynamic: seasonally constant plant water potential gradient explained by a stomatal control mechanism incorporating variable plant hydraulic conductance. Plant Cell and Environment 30, 19-30.   \nGagnon PR, Platt WJ. 2O08. Multiple disturbances accelerate clonal growth in a potentially monodominant bamboo. Ecology 89, 612-618.   \nGranier A, Biron P, Kostner B, Gay LW, Najjar G. 1996. Comparisons of xylem sap flow and water vapour flux at the stand level and derivation of canopy conductance for Scots pine. Theoretical and Applied Climatology 53, 115-122. Granier A. 1987. Evaluation of transpiration in a Douglas-fir stand by means of sap flow measurements. Tree Physiology 3, 309-319.   \nGreen S, Clothier B, Jardine B. 2OO3. Theory and practical application of heat pulse to measure sap flow. Agronomy Journal 95,1371-1379.   \nKadioglu A, Saruhan N, Saglam A, Terzi R, Acet T. 2O11. Exogenous salicylic acid alleviates effects of long term drought stress and delays leaf rolling by inducing antioxidant system. Plant Growth Regulation 64, 27-37.   \nKaiser WM, Hartung W. 1981. Uptake and release of abscisic acid by isolated photoautotrophic mesophyll cells, depending on pH gradients. Plant Physiology 68, 202-206.   \nKeitel C,Adams MA,Holst T, Matzarakis A, Mayer H, Rennenberg H, Gessler A. 2003. Carbon and oxygen isotope composition of organic compounds in the phloem sap provides a short-term measure for stomatal conductance of European beech (Fagus sylvatica L.). Plant Cell and Environment 26, 1157-1168. Kleinhenz V, Midmore DJ. 2001. Aspects of bamboo agronomy. Advances in Agronomy, 74, 99-153.   \nKomatsu H, Onozawa Y, Kume T, Tsuruta K, Kumagai T, Shinohara Y, Otsuki K.2010. Stand-scale transpiration estimates in a Moso bamboo forest: II. Comparison with coniferous forests. Forest Ecology and Management 260, 1295-1302.   \nKostner BMM, Schulze ED,Kelliher FM, Hollinger DY, Byers JN, Hunt JE, McSeveny TM, Meserth R, Weir PL. 1992. Transpiration and canopy conductance in a pristine broad-leaved forest of Nothofagus: an analysis of xylem sap flow and eddy correlation measurements. Oecologia 91, 350-359.   \nLeonardi S, Gentilesca T, Guerrieri R, Ripullone F, Magnani F, Mencuccini M, Noije TV, Borghetti M. 2012. Assessing the effects of nitrogen deposition and climate on carbon isotope discrimination and intrinsic water-use efficiency of angiosperm and conifer trees under rising CO2 conditions. Global Change Biology 18, 2925-2944.   \nLi R,Werger MJA, de Kroon H, During HJ, Zhong ZC. 2000. Interactions between shoot age structure. nutrient availability and physiological integration in the giant bamboo Phyllostachys pubescens. Plant Biology 2, 437-446.   \nLiese W, Weiner G. 1996. Ageing of bamboo culms. A review. Wood Science and Technology 30, 77-89.   \nLiese W. 1987. Research on bamboo. Wood Science and Technology 21, 189-209. Manzoni S, Vico G, Palmroth S, Porporato A, Katul G. 2013. Optimization of stomatal conductance for maximum carbon gain under dynamic soil moisture. Advances in Water Resources 62, 90-105.   \nMarechaux I, Bartlett MK, Sack L, Baraloto C, Engel J, Joetzjer E, Chave J. 2015. Drought tolerance as predicted by leaf water potential at turgor loss point varies strongly across species within an Amazonian forest. Functional Ecology 29,1268- 1277.   \nMartin TA， Brown KJ, Cermak J, Ceulemans R, Kucera J， Meinzer FC, Rombold JS, Sprugel DG, Hinckley TM. 1997. Crown conductance and tree and stand transpiration in a second-growth Abies amabilis forest. Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 27, 797-808.   \nMcAdam SAM, Brodribb TJ. 2016. Linking Turgor with ABA Biosynthesis: Implications for stomatal responses to vapor pressure deficit across land plants. Plant Physiology 171, 2008-2016.   \n18 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "McDowell N, Pockman WT, Allen CD, Breshears DD, Cobb N, Kolb T, Plaut J, Sperry J, West A, Williams DG, Yepez EA. 2O08. Mechanisms of plant survival and mortality during drought: why do some plants survive while others succumb to drought? New Phytologist 178, 719-739. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "McJannet D, Wallace J, Fitch P, Disher M, Reddell P. 2OO7. Water balance of tropical rainforest canopies in north Queensland, Australia. Hydrological Processes 21, 3473-3484.   \nMeinzer FC, James SA, Goldstein G. 2O04. Dynamics of transpiration, sap flow and use of stored water in tropical forest canopy trees. Tree Physiology 24, 901-909. Menges ES. 2ooo. Population viability analysesin plants: challengesand opportunities. Trends in Ecology & Evolution 15,51-56.   \nMonteith J,Unsworth M. 2013. Principles of Environmental Physics: Plants, Animals, and the Atmosphere. Academic Press.   \nNandy S,Das AK, Das G. 2004. Phenology and culm growth of Melocanna baccifera (Roxb.) Kurtz in Barak Valley, North-East India. Journal of Bamboo and Rattan 3, 27-34.   \nNilson SE，Assmann SM. 20o7. The control of transpiration. Insights from Arabidopsis. Plant Physiology 143, 19-27.   \nOhtsuka T, Mo WH, Satomura T, Inatomi M, Koizumi H. 20O7. Biometric based carbon flux measurements and net ecosystem production (NEP) in a temperate deciduous broad-leaved forest beneath a flux tower. Ecosystems 10, 324-334.   \nOnozawa Y, Chiwa M, Komatsu H, Otsuki K. 2009. Rainfall interception in a moso bamboo (Phyllostachys pubescens) forest. Journal of Forest Research 14, 111-116. Oren R, Sperry J, Katul G, Pataki D, Ewers B, Phillips N, Schäfer K. 1999. Intra-and inter-specific responses of canopy stomatal conductance to vapour pressure deficit. Plant, Cell and Environment 22,1515-1526.   \nOren R, Sperry JS,Ewers BE, Pataki DE, Phillips N,Megonigal JP.2001. Sensitivity of mean canopy stomatal conductance to vapor pressure deficit in a flooded Taxodium distichum L. forest: hydraulic and non-hydraulic effects. Oecologia 126, 21-29.   \nPearson AK, Pearson OP, Gomez IA. 1994. Biology of the bamboo Chusquea culeou (Poaceae: Bambusoideae) in southern Argentina. Vegetatio 1l1, 93-126. Sattar M, Kabir M, Bhattacharjee D. 1990. Effect of age and height position of muli (Melocanna baccifera) and borak (Bambusa balcooa) bamboos on their physical ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and mechanical properties. Bangladesh Journal of Forest Science 19, 29-37. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Schafer KVR, Oren R, Tenhunen JD.2Oo0. The effect of tree height on crown level stomatal conductance. Plant Cell and Environment 23, 365-375.   \nSchimel DS,House JI, Hibbard KA, Bousquet P, Ciais P, Peylin P, Braswell BH, Apps MJ, Baker D, Bondeau A, Canadell J, Churkina G, Cramer W, Denning AS, Field CB, Friedlingstein P, Goodale C, Heimann M, Houghton RA, Melillo JM,Moore B, Murdiyarso D, Noble I, Pacala SW, Prentice IC, Raupach MR, Rayner PJ，Scholes RJ， Steffen WL，Wirth C. 2OO1. Recent patterns and mechanisms of carbon exchange by terrestrial ecosystems. Nature 414, 169-172. Schultz HR. 20o3. Differences in hydraulic architecture account for near-isohydric and anisohydric behaviour of two field-grown Vitis vinifera L. cultivars during drought. Plant Cell and Environment 26, 1393-1405.   \nSingh AN, Singh JS. 1999. Biomass, net primary production and impact of bamboo plantation on soil redevelopment in a dry tropical region. Forest Ecology and Management 119, 195-207.   \nSocias X, Correia MJ, Chaves M, Medrano H. 1997. The role of abscisic acid and water relations in drought responses of subterranean clover. Journal of Experimental Botany 48,1281-1288.   \nTardieu F,Lafarge T, Simonneau T. 1996. Stomatal control by fed or endogenous Xylem ABA in sunflower: Interpretation of correlations between leaf water potential and stomatal conductance in anisohydric species. Plant Cell and Environment 19, 75- 84.   \nValade I, Dahlan, Z.1991. Approaching the underground development of a bamboo with leptomorph rhizomes: Phyllostachys viridis (Young) McClure. J. Am. Bamboo Soc, 8,23-42.   \nWang YQ, Wang YJ, Zhang HJ. 2OO4. Research on litter hydrology characteristic of typical vegetation in Jinyun Mountain in Chongqing city. Journal of Soil and Water Conservation 18, 41.   \nWang YX, Bai SB, Binkley D, Zhou GM, Fang FY. 2O16. The independence of clonal shoot's growth from light availability supports moso bamboo invasion of closed-canopy forest. Forest Ecology and Management 368, 105-110.   \nWest AG,Hultine KR, Sperry JS,Bush SE, Ehleringer JR. 2OO8. Transpiration and hydraulic strategies in a pinon-juniper woodland. Ecological Applications 18, 911-927. Whitehead D, Jarvis PG, Waring RH. 1984. Stomatal conductance, transpiration, and resistance to water uptake in a Pinus sylvestris spacing experiment. Canadian Journal of Forest Research-Revue Canadienne De Recherche Forestiere 14, 692-700. Wingler A, Lea, PJ, Quick WP, Leegood RC, 200O. Photorespiration: metabolic pathways and their role in stress protection. Philosophical transactions of the Royal Society of London. Series B, Biological sciences 355, 1517-1529.   \nXie YF, Yang WH, Lu M. R., Cai X L, Zhou J. 2O08. Effects of silicon on photosynthetic characteristics of Indocalamus barbatus under simulated acid rain stress. The journal of applied ecology 19,1179-1184.   \nXu Z, Zhou G. 2O08. Responses of leaf stomatal density to water status and its relationship with photosynthesis in a grass. Journal of Experimental Botany 59, 3317- 3325.   \nZeppel M. 2O13. Convergence of tree water use and hydraulic architecture in waterlimited regions: a review and synthesis. Ecohydrology 6, 889-900.   \nZhao XH, Zhao P, Zhang ZZ, Niu JF, Ni GY, Hu YT, Ouyang L. Sap flow-based transpiration in Phyllostachys pubescens: applicability of the TDP methodology, age effect and rhizome role. Trees,1-15.   \nZheng C, He J, Luo C， Fang Y. 2003. Changes of species diversity at different cultivation intensities of bamboo (Phyllostachys pubescens） forest. Chinese Journal of Ecology 22, 1-6.   \nZheng W, Chen G, Zhang C, Hu X, Li L, Lin J. 2OO1. Physiological adaptation of habitat by ion distribution in the leaves of four ecotypes of reed (Phragmites australis). Acta Botanica Sinica 44, 82-87.   \nZhong Y, Jiang X, Lou C. 2014. Research progress in growth rhythm of bamboos. World Bamboo and Rattan 12, 35-43.   \nZhu LW, Zhao P. 2O13. Temporal variation in sap-flux-scaled transpiration and cooling effect of a subtropical Schima superba plantation in the urban area of Guangzhou. Journal of Integrative Agriculture 12, 1350-1356. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Figure 1.Daily course of PAR, VPD (a, b) and sap flux density (Js,c, d) in dry and wet seasons. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure 2.(a) Normalized sap flow density $( \\mathrm { J } _ { \\mathrm { S - N } } )$ of each age group (by their maximum) plotted against photosynthetically active radiation (PAR) and (b) the sap flow density $( \\mathrm { { J } _ { \\mathrm { { S } } } ) }$ in the time period of 11:00-13:00 in response to VPD in dry season (2014.01.01-2014.01.10). Bars indicate the $\\pm$ standard error of allthe culms within the age group. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Figure 3. Daily dynamics of net photosynthetic rate $( \\mathbf { A } _ { \\mathrm { n } } )$ ， stomatal conductance $\\mathrm { ( g _ { s } ) }$ , leaf level transpiration $\\left( \\mathrm { E _ { t } } \\right)$ and leaf water potential $( \\Psi _ { \\mathrm { L } } )$ of three $B$ . chungii individuals in each age group for three clear days in dry (January 16-18,2014,open symbols and dash lines) and wet seasons (July 19-21,2014, solid symbols and lines). For b,c,d, e and f, different symbols stand for the young (square),mature (circle) and aged (triangle) groups. Error bars correspond to the $\\pm$ standard error of three individuals in each group. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Figure 4.(a) Daily dynamics of intercellular $\\mathrm { C O } _ { 2 }$ (Ci) in dry (January 16-18,2014,open symbols and dash lines) and wet seasons (July 19-21,2014,solid symbols and lines) and (b) Ci in relationship with leaf stomatal conductance $\\mathrm { ( g _ { s } ) }$ . Bars refers to the standard error of the culms within each age group $( \\mathrm { n } = 1 5 ^ { \\cdot }$ ), the dash and lines are the least squares fit in dry and wet season, the asterisk is the predicted data of Ci in wet season at 5:OO am. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Figure 5. Sensitivity of mean stomatal conductance $\\mathrm { ( G _ { S } ) }$ of bamboo culms of each age group in response to increasing vapor pressure deficit $\\left( - \\mathrm { d } \\mathrm { G } _ { \\mathrm { s } } / \\mathrm { d } \\mathrm { l n D } \\right)$ as a function of canopy stomatal conductance at ${ \\bf D } = 1$ kPa $\\mathrm { ( G _ { S r e f } ) }$ in dry and wet seasons. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Figure 6. (a) Leaf area $( \\mathrm { A } _ { \\mathrm { L } } )$ ，conductive area $( \\mathrm { A c } )$ and (b) tree height (H),(c) chlorophyll content (Chl) and (d) stomatal density of $B$ .chungii, for each age group. Vertical bars are one standard deviation.Different letters refer to significant differences at the O.O5 level. ",
+        "page_idx": 25
+    }
+]

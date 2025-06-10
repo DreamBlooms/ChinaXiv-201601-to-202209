@@ -1,0 +1,185 @@
+[
+    {
+        "type": "text",
+        "text": "FGF14在神经退行疾病中的研究进展",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王宝慧¹许诺’杨丹¹李校堃‘2\\*\\*（1温州大学生命与环境科学学院，浙江温州3250352 温州医科大学药学院，浙江温州325035)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：成纤维细胞生长因子14（FGF14）是成纤维细胞生长因子家族中一员，主要在发育中及成熟的神经系统中表达，研究发现，FGF14在退行性神经系统中的脊髓小脑共济失调27型中发挥着重要的作用，FGF14的功能与各种离子通道关系密切，以钠离子通道为主，活性被神经元的兴奋性调节，根据FGF14的特点，本文归纳总结了FGF14目前的研究进展，为FGF14的基础和工程化研究提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：FGF14；脊髓小脑共济失调（SCA)；海马神经元；离子通道中图分类号：Q819",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "成纤维细胞生长因子14（fibroblast growth factor14）是成纤维细胞生长因子中一员。成纤维细胞生长因子（FGF）在发育期间和整个生命过程中存在于中枢和外周神经系统中Ⅲ，促进胚胎发育、血管形成、组织修复等方面发挥重要作用[2]。FGF家族有 22个成员。FGFs分为7个亚家族，即 FGF1/2、FGF4/5/6、FGF3/7/10/22、FGF8/17/18、FGF9/16/20、FGF19/21/23、FGF11/12/13/14。FGF14与FGF11、FGF12、FGF13为同一亚家族成员，该亚家族称为FGF同源因子家族（iFGF）[2][3]如图1，该家族与成纤维细胞生长因子具有高度串联性及结构同源性并与肝素具高亲和性，但它不能激活成纤维细胞生长因子受体(FGFRs)，不与FGFR结合，但在细胞内引发细胞活性[4]，不合成能天然检测到的或转染的细胞[5]。FGF14在2003年被首次克隆，人FGF14由252个氨基酸编码，分子量为27kDa，等电点约为9.6。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb829c439aa92121c55eea517413cff16e162ac9235a84f0ace409e9abbed205.jpg",
+        "img_caption": [
+            "图1 FGFs家族成员图 (Fig.1 FGFs family member map) "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FGF14基因位于13号染色体的13q34的位置上，由5个外显子组成[7],FGF14位于轴突的初始片段(axonal initial segment，AIS)[8-10]。FGF14 有多种亚型（1a、1b、2、3、4、5、6、7、8、9)，主要分为FGF14-1a及FGF14-1b两种亚型，两种亚型主要是第一外显子有所不同，FGF14-1a由247个氨基酸编码，FGF14-1b由252个氨基酸编码，FGF14-1a主要位于细胞核中，FGF14-1b主要位于细胞质中[1]。FGF14-1a与FGF12-1a、FGF13-1a具有序列同源性，而FGF14-1b 的氨基端含有独特的69个氨基酸序列，并且是中枢神经系统(CNS)中更普遍的同种型[12]。鼠FGF14共有2种亚型，位于14号染色体上，鼠中FGF14a亚型与人类FGF14-1a氨基酸序列有 $9 8 . 8 \\%$ 的一致性，仅有3个氨基酸序列不同，FGF14b亚型与人类FGF14-1b氨基酸序列有 $9 9 \\%$ 的一致性，仅有2个氨基酸序列不同。人类中以FGF14-1b的表达为主，在疾病中FGF14-1b发挥着更重要的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从结构上来说iFGF亚家族成员与FGF显示相同的β-三叶草核心以支持12条反向平行的β链，但iFGF家族成员缺少分泌信号肽[13]，与其他生长因子成员有 $58 \\% - 7 1 \\%$ 的氨基酸序列同一性，但在外显子2和外显子3上仍保留核心氨基酸残基，iFGFs与电压门控钠通道（Nav）的成孔α亚基直接相互作用，并调节门控特性和这些通道的密度[3,14,15]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FGF14 起初被发现主要在发育中的脑、脊髓、胸腺中[I]表达，而进一步研究证实FGF14主要在发育中及成熟的神经系统表达，在CNS中高表达[16]。临床研究发现FGF14与脊髓小脑共济失调（SCA27）有重要关联，与此同时，经研究发现FGF14在调节浦肯野神经元的兴奋性以及钠离子通道、钙离子通道、钾离子通道[17]方面也发挥着重要的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2FGF14与神经退行性疾病",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脊髓小脑共济失调（SCAs）是由小脑和脑干功能障碍以及相关的途径和关系引起的症状，并伴有常染色体显性遗传模式的异质性退行性疾病组[18]。脊髓小脑共济失调属于常染色体显性共济失调，是以进行性小脑共济失调为特征的异质性神经疾病，常染色体显性共济失调表现为阵发性运动障碍，认知障碍等[19-20]。脊髓小脑共济失调在婴儿、青少年及中年人中均有发病现象。在成人中发病的症状多以震颤开始[6,7,21]，婴儿发病在一岁前产生震颤，随着年龄的增长，逐步出现运动技能的下降，以及智力低于正常水平的共济失调症状[21]。在成人中SCA27表现出步态紊乱，运动障碍，记忆力及执行力障碍，智商偏低，眼球震颤等症状。调查研究显示在含有遗传共济失调的家族中，家庭成员的受教育水平明显降低[2]，并且具有家族遗传性特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "脊髓小脑共济失调到目前为止分为30多种类型，临床调查研究发现，FGF14与脊髓小脑共济失调27型（SCA27）密切相关，SCA27是家族性共济失调的罕见原因，是常染色体显性遗传病，SCA27是一种天然的神经退行性疾病，目前认为发病机制是FGF14在突触可塑性中的新作用[22]。研究发现FGF14外显子4上的F145S突变会引起 SCA27[21,23,24]，而FGF14 单倍体缺失[25]、移码突变[7,26]同样会引起SCA27，同时，FGF14的外显子缺失能够引发发作性共济失调(Episodic ataxias，EAs)[23]。通过对小鼠的研究发现，FGF14基因敲除（FGF14-/-)小鼠可以生存，可以繁殖但出现阵发性运动障碍和空间学习缺陷，该症状与人类共济失调临床症状相同[9,21,23]。除了对人类及小鼠的研究外，目前对羔羊的研究中显示，FGF14与羔羊的脊髓小脑共济失调相关，相关基因突变的羔羊会显示出自发性和姿势性眼球震颤以及临床的功能障碍。因此，通过人类、小鼠以及羔羊的实验可以证明FGF14基因的异常引起脊髓小脑共济失调。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阿尔兹海默症（Alzheimer'sdisease，AD）是一种多发于老年人的神经退行性疾病，它的特征在于记忆和其他认知功能的进行性丧失，在AD的研究中发现，AD 患者单核苷酸多态性（single nucleotide polymorphisms，SNPs）的功能性富集显示FGF14由于其被JNK磷酸化而在AD中显着过量表达，FGF14的mRNA在早发性阿尔兹海默症的患者中过量表达[27]。目前将FGF14以外源性蛋白方式作用于AD模型的PC12细胞，显示FGF14具有良好的神经保护作用，根据现有FGF14与AD的相互作用关系，推测FGF14与阿尔兹海默症相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3FGF14的神经生理功能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1FGF14在调节海马神经元突触可塑性方面作用",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FGF14在海马锥体神经元和齿状回中表达[14,28]，并发现FGF14蛋白在海马  \n功能中起作用，对FGF14基因敲除小鼠的海马进行短期和长期增强（long-termpotentiationLTP）研究， $\\mathrm { F G F 1 4 ^ { - / - } }$ 小鼠的突触可塑性受损，FGF14的缺乏会  \n引起突触小泡数量的减少，表明FGF14的缺失与突触可塑性受损直接相关。  \nFGF14通过调节囊泡释放概率和突触前机制有助于短期和长期突触可塑性，所以  \nFGF14是突触可塑性的调节器[1,29]，FGF14在海马突触的正常功能中必不可少。  \nFGF14的缺失会影响齿状回的突触活性，损害齿状回电路中神经元的突触整合[10]。  \n综上所述可以看出FGF14在调节海马神经元突触可塑性方面发挥着重大的作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2FGF14调节细胞兴奋性",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究表明，FGF14与Nav相关，在缺乏FGF14的浦肯野神经元中Nav1.6表达减少，导致细胞中的放电受损[13.30]。FGF14在小脑浦肯野神经元中的基本调节特征是减缓Nav通道失活，以促进复活电流[31]。FGF14调节海马及颗粒细胞层的兴奋性[3,28,29,32]。FGF14 的缺乏伴随着小脑颗粒和浦肯野神经元兴奋性的变化[33,34]，FGF14 的破坏减少了FGF14在AIS处的表达，降低了Nav 通道的密度和海马神经元的兴奋性[35]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3FGF14与离子通道",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FGF14与Nav通道形成α亚基的C末端相互作用，调节Nav 通道α亚基的细胞表面表达[8.35]。FGF14在通道异构体和细胞背景上有效地调节 $\\mathrm { \\Delta N a ^ { + } }$ 电流的幅度和电压依赖性，产生Na+电流幅度和方向上的功能性结果[3,8,14]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FGF14与Na+通道有着密不可分的作用，主要有两种亚型FGF14-1a和FGF14-1b，分别调节由Navl.2和Navl.6通道产生的电流。iFGF和Nav通道对功能的调节可以是亚型特异性的，例如，Nav通道与FGF14-1b共表达显着降低Navl.5和Nav1.1电流密度，并调节两个通道在相反方向失活的电压依赖性，而FGF14-la 抑制Navl.5，但不抑制Navl.1，随着电流和去极化Nav1.1的激活，不再抑制Navl.5[14]。Nav 通道与FGF14-1a(但不是FGF14-1b)共表达改变了Nav1.2电流失活的电压依赖性，而FGF14-1b（但不是FGF14-1a）改变了Nav1.2电流激活的电压依赖性[8]。尽管FGF14-1a和FGF14-1b蛋白结构域共享少量保守序列，但FGF14-1a 和FGF14-1b都针对AIS[14]。在对浦肯野神经元的研究中发现，FGF14--的浦肯野神经元和正常的颗粒细胞层中Nav1.6功能的破坏相比,FGF14--的浦肯野神经元中Nav1.6功能的破坏对运动控制和协调性有更大的影响，FGF14--的浦肯野神经元中Nav1.6表达降低[14,34]。在FGF14b的浦肯野神经元Nav电流的主要调节成分位于FGF14b的N末端内[31]。但当在海马神经元中表达时，FGF14-1b的突变体FGF14bF150S 降低Nav通道电流并以显性负性方式抑制神经元兴奋性[36]。目前的研究表明糖原合成酶激酶3（GSK3）给FGF14与Nav的复合物提供了新的靶点，FGF14控制位于AIS的导航通道的细胞，通过GSK-3-中心网络，可以调节对AIS的定位，调节神经兴奋性[33]。通过对GSK3的药理性抑制发现减少了FGF14和Nav1.2通道的组装，改变了FGF14对Navl.6的功能性调节，修饰了FGF14依赖性的 $\\mathrm { \\Delta N a ^ { + } }$ 电流调制，并诱导天然FGF14和Nav 通道复合体在海马神经元中的亚细胞再分布[9]。通过对酪蛋白激酶2（CK2）研究发现，CK2是FGF14与Nav相互作用及神经元兴奋性所必需，CK2是GSK-3的启动激酶，当加入CK2有效的抑制剂TBB（4,5,6,7-四溴苯并三唑）时，迅速消除FGF14 和Navl.6相互作用，降低FGF14结合Navl.6和Nav1.2的能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FGF14是与离子通道作用的关键性辅助蛋白，FGF14的缺失下调Nav电流的活性[37],FGF14不仅作用于Nav通道，也调节 $\\mathrm { C a } ^ { 2 + }$ 通道，研究表明内源性FGF14影响颗粒细胞 $\\mathrm { C a } ^ { 2 + }$ 通道，FGF14能够调节突触前Cav2.1和Cav2.2的 $\\mathrm { C a } ^ { 2 + }$ 通道[36]。FGF14对海马神经元中KCNQ2通道的调节是至关重要的，FGF14--导致AIS中KCNQ2的丢失，并降低KCNQ2/3电流。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FGF14作为成纤维细胞生长因子家族中的一员，在细胞内具有多种生物学功能。已知FGF14在SCAs中发挥重要作用，在神经退行性疾病方面的研究有着丰富的潜在价值，目前我们的研究已经证明了FGF14作为外源性蛋白具有一定的生物学活性，对于FGF14以外源性蛋白作用在Aβ25-35诱导的PC12细胞构建的AD模型中具有神经保护作用，但有关FGF14神经系统疾病方面的具体作用机制以及作为外源性蛋白的具体功能研究尚不明确，对于FGF14深入的研究仍需继续。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献   \n[1] Zhou Y,Wang Z,Li J,et al.Fibroblast growth factors in the management of spinal cord injury.[J]. Journal of cellular and molecular medicine, 2017, 22(1).   \n[2] Beenken A,Mohammadi M. The FGF family: biology, pathophysiology and therapy[J]. Nature Reviews Drug Discovery,2009, 8(3):235-253.   \n[3] Laezza F,Gerber B R,Lou JY,et al. The FGF14(F145S) mutation disrupts the interaction of FGF14 with voltage-gated $\\mathrm { { N a + } }$ channels and impairs neuronal excitability.[J]. Journal of Neuroscience the Official Journal of the Society for Neuroscience,2007, 27(44):12033-44.   \n[4] Li X,Wang C, Xiao J,et al. Fibroblast growth factors,old kids on the new block[J]. Seminars in Cell & Developmental Biology,2016,53:155-167.   \n[5] Schoorlemmer J，Goldfarb M.Fibroblast growth factor homologous factors are intracelular signaling proteins.[J]. Current Biology, 2001, 11(10):793-797.   \n[6] Swieten JC V,Brusse E, Graaf B M D, et al. A Mutation in the Fibroblast Growth Factor 14, Gene Is Associated with Autosomal Dominant Cerebral Ataxia[J]. American Journal of Human Genetics, 2003, 72(1):191-199.   \n[7] Dalski A,Atici J, Kreuz F R,et al. Mutation analysis in the fibroblast growth factor 14 gene: frameshift mutation and polymorphisms in patients with inherited ataxias.[J]. European Journal of Human Genetics Ejhg, 2005,13(1):118.   \n[8] Laezza F,Lampert A, Kozel M A, et al. FGF14 N-terminal splice variants differentially modulate Nav1.2 and Nav1.6-encoded sodium channels[J]. Molecular & Cellular Neurosciences, 20o9, 42(2):90. [9] Shavkunov A S, Wildburger N C, Nenov M N, et al. The fibroblast growth factor 14·voltage-gated sodium channel complex is a new target of glycogen synthase kinase 3 (GSK3)[J]. Journal of Biological Chemistry,2013,288(27):19370-19385.   \n[10] Alshammari M A, Alshammari T K,Nenov M N, et al. Fibroblast Growth Factor 14 Modulates the Neurogenesis of Granule Neurons in the Adult Dentate Gyrus[J]. Molecular Neurobiology， 2016, 53(10):7254-7270.   \n[11] Wang Q, Mcewen D G, Ornitz D M. Subcelllar and developmental expression of alternatively spliced forms of fibroblast growth factor 14.[J]. Mechanisms of Development, 2000, 90(2):283-287. [12] Munozsanjuan I, Smallwood P M, Nathans J. Isoform diversity among fibroblast growth factor homologous factors is generated by alternative promoter usage and diferential splicing.[J]. Journal of Biological Chemistry,2000,275(4):2589-97.   \n[13] Wang Q, Bardgett M E,Wong M, et al. Ataxia and Paroxysmal Dyskinesia in Mice Lacking Axonally Transported FGF14[J]. Neuron, 2002,35(1):25-38.   \n[14] Lou J Y,Laezza F, Gerber B R, et al. Fibroblast growth factor 14 is an intracelular modulator of voltage-gated sodium channels.[J]. Journal of Physiology, 2005, 569(1):179-193.   \n[15] Rush A M, Wittmack E K, TyrrellL, et al. Differential modulation of sodium channel $\\mathrm { N a } ( \\mathrm { v } ) 1 . 6$ by two members of the fibroblast growth factor homologous factor 2 subfamily.[J]. European Journal of Neuroscience,2006,23(10):2551-2562.   \n[16] Alshammari T K,Alshammari MA,Nenov MN,et al. Genetic deletion of fibroblast growth factor 14recapitulatesphenotypicalterationsunderlyingcognitiveimpairment associatedwith schizophrenia[J]. Translational Psychiatry,2016, 6(5):e806.   \n[17] Pablo JL,Pitt G S.FGF14 is a regulator of KCNQ2/3 channels[J]. Proceedings of the National Academy of Sciences of the United States of America,2017,114(1):154.   \n[18] Shakkottai V G，Fogel B L. Clinical Neurogenetics :Autosomal Dominant Spinocerebellar Ataxia[J]. Neurologic Clinics, 2013, 31(4):987-1007.   \n[19] Peter Bauer, Thorsten Schulte,Ludger Schols. Autosomal dominant cerebellar ataxias: clinical features, genetics, and pathogenesis[J]. Lancet Neurology,2004, 3(5):291-304.   \n[20] Taroni F, Didonato S.Pathways to motor incoordination: the inherited ataxias.[J]. Nature Reiview Neuroscience, 2004, 5(8):641.   \n[21] Brusse E, De Koning I, Maat - Kievit A, et al. Spinocerebelar ataxia associated with a mutation in the fibroblast growth factor 14 gene (SCA27): A new phenotype.[J]. Movement Disorders,2006, 21(3):396 - 401.   \n[22] Teive H A G, Arruda W O. Cognitive dysfunction in spinocerebelar ataxias[J]. Dementia & Neuropsychologia, 2009,3(3):180-187.   \n[23] Choquet K,La PR, Brais B.A novel frameshift mutation in FGF14 causes an autosomal dominant episodic ataxia.[J]. Neurogenetics,2015,16(3):233-236.   \n[24] Coebergh JA, De F V D P, Snoeck I N, et al. A new variable phenotype in spinocerebellar ataxia 27 (SCA 27) caused by a deletion in the FGF14 gene[J]. European Journal of Paediatric Neurology, 2014, 18(3):413-415.   \n[25] Misceo D, Fannemel M, Baroy T,et al. SCA27 caused by a chromosome translocation: further delineation of the phenotype[J]. Neurogenetics,2009,10(4):371-374.   \n[26] Soong B W, Paulson H L. Spinocerebellar ataxias: an update.[J]. Current Opinion in Neurology, 2007, 20(4):438-446.   \n[27] Re JD,Wadsworth P A,Laezza F. Intracelular Fibroblast Growth Factor 14: Emerging Risk Factor for Brain Disorders[J]. Frontiers in Cellular Neuroscience, 2017,11.   \n[28] Xiao M, Xu L, Laezza F, et al. Impaired hippocampal synaptic transmission and plasticity in mice lacking fibroblast growth factor 14[J]. Molecular & Cellular Neuroscience,2007,34(3):366-377. [29] Wozniak D F, Xiao M, Xu L, et al. Impaired spatial learning and defective theta burst induced LTP in mice lacking fibroblast growth factor 14[J]. Neurobiology of Disease, 2007,26(1):14.   \n[30] Cody JD, Heard P, Hale D. Identification of two novel chromosome regions associated with isolated growth hormone deficiency.[J]. Journal of Pediatric Endocrinology & Metabolism Jpem, 2010, 23(11):1159-64.   \n[31] Yan H, Pablo JL, Wang C, et al. FGF14 modulates resurgent sodium current in mouse cerebellar Purkinje neurons[J]. Elife, 2014, 3(3):e04193.   \n[32] Goldfarb M, Schoorlemmer J, Williams A, et al. Fibroblast Growth Factor Homologous Factors Control Neuronal Excitability through Modulation of Voltage-Gated Sodium Channels[J]. Neuron, 2007, 55(3):449-463.   \n[33] Bosch M K, Nerbonne JM, Townsend R R, et al. Proteomic analysis of native cerebellar iFGF14 complexes[J]. Channels,2016,10(4):297-312.   \n[35] Hsu W J, Scala F, Nenov M N, et al. CK2 activity is required for the interaction of FGF14 with voltage-gated sodium channels and neuronal excitability.[J]. Faseb Journal Official Publication of the Federation of American Societies for Experimental Biology,2016, 30(6):2171.   \n[34] Shakkottai V G, Xiao M, Xu L,et al. FGF14 regulates the intrinsic excitability of cerebellar Purkinje neurons. Neurobiol Dis[J]. Neurobiology of Disease, 2009,33(1):81.   \n[36] Yan H，Pablo J，Pitt G. FGF14 Regulates Presynaptic Ca $2 +$ ， Channels and Synaptic Transmission[J]. Cell Reports, 2013, 4(1):66.   \n[37] Wildburger N C,Laezza F. Control of neuronal ion channel function by glycogen synthase kinase-3: new prospective for an old kinase[J]. Frontiers in Molecular Neuroscience,2012, 5:80. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Research progress of FGF14 in neurodegenerative diseases ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WANG Bao-hui1XU Nuol YANG Dan1 Li Xiao-kun1,2\\*\\* (1 Wenzhou University, Wenzhou325035, China) (2 Wenzhou Medical University, Wenzhou 325035,China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Fibroblast growth factor 14(FGF14) is a member inFGF family,which mainly expressed in the developing and mature nervous system,FGF14 plays an important role in Spinocerebellar ataxia type 27, which is a neurodegenerative syndromes.Function of FGF14 main closely associated with $\\mathrm { { N a ^ { + } } }$ channels,and the activity adjusted by neurons excitability.According to the characteristics of theFGF14,the paper summarizes the current research progress ofFGF14 and provides theoretical basis for the foundation and engineering research of FGF14. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Keyword: FGF14; Spinocerebellar ataxia type(SCA); hippocampal neurons; ion channel ",
+        "page_idx": 6
+    }
+]

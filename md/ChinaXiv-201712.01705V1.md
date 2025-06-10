@@ -1,0 +1,210 @@
+# 中华弼猴桃在中国潜在分布及其对气候变化响应的研究
+
+王茹琳(1,2);李庆(1);何仕松(3);刘原(3)
+
+(1）四川农业大学农学院成都 611130;(2).四川省农村经济综合信息中心成都 610072:(3).四川苍溪猕猴桃研究所苍溪628400
+
+摘要：中华猕猴桃为中国特有果种，由于其独特的口感和较高的经济价值，近年来种植规模逐年扩大。在引种过程中，由于缺乏合理的布局规划和适生性分析，出现了品种单一化、易感病虫害等问题。近年来四川、陕西、贵州、重庆和湖北等猕猴桃主产省份相继开展了猕猴桃气候适宜性区划的研究，但目前的研究多未考虑未来气候变化对猕猴桃种植分布的影响，且伴随着气候变化的加剧，已有的研究结果已不能完全适应实际生产的需求。本文运用生态位模型软件MaxEnt，模拟和预测气候变化背景下大尺度范围中华猕猴桃适生区分布及其变化的可行性，以利于科学地优化产业结构、促进产业发展。基于当前数据和IPCCAR5提出的3种气候情景以及中华猕猴桃的分布信息，采用MaxEnt生态位模型和ArcGIS预测了中华猕猴桃的适生区及未来的变化趋势，用受试者工作特征曲线(receiver operatingcharacteristiccurve,ROC 曲线)检测模型精度、刀切法(jackknifetest)筛选主导环境变量。结果表明，基于当前和未来情景构建的中华猕猴桃地理分布模型的AUC(areaundercurve)值均达到“极好"的标准，说明模型预测结果可用于本研究。当前气候条件下，中华猕猴桃的高适生区主要在四川、陕西、重庆、湖北、贵州、浙江、湖南、安徽、河南、江苏和甘肃等省份，面积达 $1 . 0 1 { \times } 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ 。中适生区则以高适生区为中心向外扩散，包括河南、湖北、安徽、江苏和山东等地，面积为 $6 . 7 9 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ 。 $\mathrm { R C P } 2 . 6$ 和RCP4.5排放情景下，中华猕猴桃高适生区的分布、面积及中心点位置都有所不同，面积均呈增加趋势,RCP8.5排放情景下，高适生区面积呈减少趋势。RCP4.5和RCP8.5排放情景下，中华猕猴桃高适生区中心点均有向北移动趋势。MaxEnt模型对未来气候变化条件下中华猕猴桃适生区的准确模拟与预测具有潜在应用价值，对该果树的气候适宜性区划具有重要指导意义。
+
+关键词：中华猕猴桃;MaxEnt 模型；环境变量；气候变化；适生区分析；典型浓度路径情景中图分类号：S601.9
+
+# Potential distribution of Actinidia chinensis in China and its predicted response to climate change\*
+
+WANG Rulin1,2,LI Qing1\*\*,HE Shisong³,LIU Yuan3 (1.CollegeofAgronomy,SichuanAgriculturalUniversity,Chengdu 61130,China;2.SichuanProvincial Rural Economic Information Center, Chengdu 610072,China; 3.Kiwifruit Institute of Cangxi County,Cangxi 628400,China)
+
+Abstract:Kiwifruit (Actinidiaspp.)elongedtoActinidiaceaeisatypeofprenialdeciduous woodylianaandanimportantclas of beryfruit.Withichsugar,protein,aminoacids,vitaminsandespeciallhighvitaminCcontent,theKiwifruitisknownas‘the kingofthe fruit”andhasagood market prospect.A.chinensisisaspecies endemic in China withafast-expanding plantingareadue to itsunique subtleflavorandhigheconomic value.Optimizationof plantingscaleand distributionof thecrophasbeen the major concernforregionalplanning.Theobjectiveof thisstudywasto testand determinetheposibilityof usingtheMaxEnt(the maximum entropy） model to simulate and predict future large-scale distribution of $A$ ，chinensis.Based on current environmental factors,threefuture climatescenariossuggested intheICCfifthreportandcurrnt distributionsitesofA.chinensis,teMaxEnt model was used in combination with ArcGIS to predict the potential geographic distribution and trend of change of $A$ .chinensis in China.Thedominant factors werechosenusingthe jackknifetestand thereceiveroperatingcharacteristiccurve(ROC)used to evaluate the simulation.Theresults showed that highvalueofarea under curve (AUC)denoted goodresults which significantly difered fromrandom predictions.Basedontheevaluationcriterion,theaccuraciesof the predictionsof A.chinensispotential distribution inthecurentand futureperiodswereexcellent.Thepredictedresultofthe MaxEnt modelwasimported into ArcGIS10.O for further analysis and showed that under present climatic conditions,the total suitable area was $2 6 . 9 2 \%$ of the total landareain China.The potentialdistribution was highlyconsistent withthelocationsof specimenrecordsandfieldsurveys.The highlysuitableareas werein Schuan,Shanxi,Chongqing,Hubei,Guizhou,Zhejiang,Hunan,Anhui,Hnan,JiangsuandGansu Provinces.Theareasofhighlysuitable habitat inthemainproducing provinces wereanalyzedstatisticall.Theresultsshowedthat under the current conditions,the most suitable area for A.chinensis cultivation was $1 . 0 1 { \times } 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ ,accounting for $3 8 . 9 4 \%$ of the total suitable areas.The moderately suitable areas were in Henan,Hubei,Anhui and Shandong Provinces,with thearea of $6 . 7 9 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ accounting for $2 6 . 2 6 \%$ of the total suitable areas. Comparison of future suitable areas with currnt suitable areas showed that areas of high suitability increased under scenarios $\mathsf { R C P 2 } . 6$ and ${ \mathrm { R C P 4 . 5 } }$ ,but decreased under scenario RCP8.5.Under scenarios ${ \tt R C P 4 . 5 }$ and RCP8.5, the mean center of highly suitable area of $A$ .chinensis moved northward. The result showed that the MaxEnt model was highly reliable in determining not only the range of geographic distribution of $A$ ， chinensis， but also in identifying dominant environmentalfactors drivingthegeographicdistrbution.Whereas climate asadecisivefactor inspecies distribution,change in distribution patternof species was the most direct effectof climate change.Theresults provided acritical referencebase for $A$ chinensis plantation pattern and countermeasures to cope with climate change in China.
+
+Keywords:Actinidiachinensis;MaxEntmodel;Environmentalvariables; Climatechange;Suitableareaanalysis;Representative concentration pathway scenario
+
+生物与气候之间相互作用对物种的分布影响巨大，气候变化不仅可以改变物种所在的生态系统，且造成的改变往往是不可逆的。在区域尺度上，气候是影响物种分布的主要环境因素[l。农业生产强烈依赖气候生态条件，气候变化将改变农作物已有的适宜性区划，影响其生长、发育及产量[2-4]。物种分布模型(species distribution models，SDM)是研究实际气候变化对物种分布影响的重要工具，近年来该类模型在国内外得到广泛应用，目前常用的有最大熵模型 MaxEnt (maximum entropy model)、基于遗传算法的规则组合模型 GARP(genetic algorithm for rule set produciton model)、生物气候模型 BIOCLIM(biological climatic model)和气候动态模拟软件 Climex (match climate and compare location model)等约14 种物种分布模型[5-7]。MaxEnt模型的模拟精度要高于其他模型，加之该软件具有运行时间短、操作简便、运行结果稳定和所需样本量小等特点在业内得到了广泛认可[8]。近年来，国内学者利用 MaxEnt 模型成功研究了气候变化对水稻(Oryzasativa)[9]、玉米(Zea mays)[10]、小麦(Triticum aestivum)[等粮食作物的影响，并分析了气候因子与种植分布之间的关系，取得了较的模拟效果。
+
+猕猴桃(Actinidia spp.)，又称奇异果，隶属于猕猴桃科(Actinidiaceae)，猴桃属(Actinidia)，为浆果类落叶藤本果树，是20 世纪人工驯化栽培野生果树最有成就的四大果树之一[12]。中国是世界猕猴桃起源中心，猕猴桃属66个种中有62个种原产于中国[131]。近年来，随着我国农业产业结构调整，猕猴桃产业发展迅速，猕猴桃的栽培面积和产量都得到长足的发展，目前我国猕猴桃年产量已超过意大利，成为世界第一产出国。中华猕猴桃(Actinidia chinensis)和美味猕猴桃(Actinidia deliciosa)是我国栽培最广泛的两个种。中华猕猴桃为中国特有果种，由于其口感独特、经济价值高，近年来种植规模逐年扩大。在引种过程中，由于缺乏合理的布局规划和适生性分析，出现了品种单一化、易感病虫害等问题[14-15]。针对上述问题，近年来四川[16],陕西[17]、贵州[18]、重庆[19]和湖北[20]等省份开展了猕猴桃气候适宜性区划的研究，并在实际生产中起到了积极作用。但目前的研究多未考虑未来气候变化对猕猴桃种植分布的影响，且伴随着气候变化的加剧，已有的研究结果已不能完全适应实际生产的需求，因此有必要开展针对中华猕猴桃的气候适宜性研究，以利于科学地优化产业结构、促进产业发展。本研究利用 MaxEnt模型，结合GIS 技术，模拟中华猕猴桃在中国的潜在分布范围，预测、对比、分析中华猕猴桃在未来3种气候情景(RCP2.6、RCP4.5和RCP8.5)下分布范围和空间格局的变化规律，旨在探索中华猕猴桃合理区划的有效手段，以期为其生产布局及应对未来气候变化提供基本的数据支持。
+
+# 1材料与方法
+
+# 1.1 预测软件来源
+
+选用基于最大熵理论的 MaxEnt 模型软件来预测中华猕猴桃在中国的适生分布。登录普林斯顿大学Robert Schapire 计算机科学研究中心的MaxEnt主页可免费下载该软件，当前最新版本为3.3.3k 版[21]。
+
+选用ArcGIS软件将MaxEnt模型的运算结果投射到地图上显示，预测中华猕猴桃的实际分布和潜在分布。
+
+# 1.2 物种分布记录
+
+运用生态位模型模拟物种适生区时[22-23]，首先应获取目标物种的实际分布数据，本研究中四川境内中华猕猴桃的分布数据为实地考察获得，采用GPS 记录经纬度，其他地区的分布数据则通过查询物种分布数据库和检索国内外公开发表的中华猕猴桃相关的期刊论文获得。本研究查询的数据库包括“国际农业与生物科学中心(CABI,htp://www.cabi.org/)"数据库、“全球物种多样性信息库(GBIF,htp://www.gbif.org/)"和"教学标本资源共享平台"(htp://mnh.scu.edu.cn/)。通过上述方式共获得分布点283个，使用Google Earth 软件查询分布点的经纬度信息，按照MaxEnt软件要求，去除重复记录、模糊记录和邻近记录的分布点。将最终确定的经纬度数据使用Excel处理，保存格式为\*.CSV[24]。
+
+# 1.3环境变量的选择
+
+构建物种生态位模型，还应选取合适的环境变量。本研究从worldclim 网站下载了67个环境变量，包括19 个具有较强的生物学意义的生物气候变量(这些变量是以温度和雨量为基础数据，根据不同需求计算演生而来的气候变量，可反映温度与降水的特点及季节性变化特征)、月平均温度、月最高稳定、月最低温度和月降水量。上述数据的空间分辨2.5arc-minutes(约 $4 . 5 \mathrm { k m } ^ { 2 } .$ )。当前情景的数据在worldclim网站下载。气候变化专门委员会(IPCC)第5次评估报告共发布的4 种典型浓度路径[25](representative concentrationpathways，RCP)，即 RCP2.6、RCP4.5、RCP6.0 和 $\mathsf { R C P 8 . 5 }$ 。其中 RCP4.5 和 $\mathrm { R C P 6 . 0 }$ 均为中等 $\mathrm { C O } _ { 2 }$ 排放情景，且前者优先性大于后者，因此本研究选择RCP2.6(最低 $\mathrm { C O } _ { 2 }$ 排放情景)、RCP4.5(中等 $\mathrm { C O } _ { 2 }$ 排放情景)和RCP8.5(最高 $\mathrm { C O } _ { 2 }$ 排放情景)3种排放情景作为未来气候数据。未来时段包括 2030s(2021—2040 年)、2050s(2041—2060 年)、2070s(2061—2080 年)和 2080s(2071—2090 年)，数据在国际热带农业中心(IntermationalCentre for Tropical Agriculture,CIAT)网站下载[26]。
+
+# 1.4中华猕猴桃生境模型构建与结果评价
+
+模型的使用：输入中华猕猴桃分布点数据和环境因子数据，随机选取 $7 5 \%$ 的中华猕猴桃分布点作为训练集(training data)建立预测模型，剩余 $2 5 \%$ 的中华猕猴桃分布点作为测试集(test data)验证模型，选择刀切法(jackknife test)测定各变量权重，选择创建环境变量响应曲线，其余参数均选择模型的默认值[27]。
+
+模型输出的数据为ASCⅡI格式，利用 ArcGIS 的 ArcToolbox的格式转换工具，将该数据转为Raster 格式，使该结果可在 ArcGIS 中显示。MaxEnt 软件模拟输出的结果值在0\~1之间，值越接近1表示物种越可能存在。本研究采用受试者工作特征曲线(ROC 曲线,receiver operating characteristic curve)分析法对模拟结果进行精度评价，曲线下面积值(area under curve,AUC)反映预测精度，理论上AUC 指标取值范围为0.5\~1,AUC值越接近1表示模型预测结果精度越高。具体评价标准见表1[28-29]。
+
+表1曲线下面积值(AUC值)取值范围及其与MaxEnt模型准确性的关系  
+able 1Relationship between area under curve (AUC)and the accuracy of the MaxEnt model   
+
+<html><body><table><tr><td>AUC取值范围 Rangeof AUC value</td><td>评价标准 Evaluation criterion</td></tr><tr><td>0.5≤AUC<0.6</td><td>失败Fail</td></tr><tr><td>0.6≤AUC<0.7</td><td>较差Poor</td></tr><tr><td>0.7≤AUC<0.8</td><td>一般Fair</td></tr><tr><td>0.8≤AUC<0.9</td><td>好Good</td></tr><tr><td>0.9≤AUC<1.0</td><td>极好Excellent</td></tr></table></body></html>
+
+# 1.5中华猕猴桃适生等级划分
+
+MaxEnt模型输出结果为ASCII格式文件，首先使用ArcGIS的ArcToolbox的格式转换工具，将该数据转为Raster格式，使该结果可在ArcGIS中显示，而后使用“提取分析"功能得到中华猕猴桃在研究区的存在概率分布图[24,30]。MaxEnt软件模拟输出的结果值为0\~1，值越接近1表示物种越可能存在。参考 IPCC 报告[31-32]关于评估可能性的划分方法，结合中华猕猴桃的实际情况，利用"Reclasify"功能，划分分布值等级及相应分布范围，并使用不同颜色表示，划分标准为：存在概率 $< 0 . 0 5$ 为不适生区; $0 . 0 5 \leqslant$ 存在概率 $< 0 . 3 3$ 为低适生区； $0 . 3 3 \leqslant$ 存在概率 $< 0 . 6 6$ 为中适生区；存在概率 ${ \geqslant } 0 . 6 6$ 为高适生区。
+
+# 1.6几何中心及位移计算
+
+参考 Yue 等[33的计算方法，统计了高适生区在未来不同时期的面积变化情况以及其中心点的位移，具体计算公式如下：
+
+$$
+\begin{array} { l } { \left\{ { x ( t ) = \sum _ { i = 1 } ^ { I } \frac { s _ { i } ( t ) \bullet { X } _ { i } ( t ) } { S ( t ) } } \right. } \\ { \left. \left[ { y ( t ) = \sum _ { i = 1 } ^ { I } \frac { s _ { i } ( t ) \bullet { Y } _ { i } ( t ) } { S ( t ) } } \right. \right. } \end{array}
+$$
+
+式中： $t$ 表示不同的时段; $I$ 为高适生区的单位栅格数目; $s _ { i } ( t )$ 为 $t$ 时段第 $i ( i { = } 0 , 1 , 2 , . . . , I )$ 个单位栅格的面积;$S ( t )$ 为 $t$ 时段高适生区的总面积; $X _ { i } ( t )$ 和 $Y _ { i } ( t )$ 分别为 $t$ 时段第 $i$ 个单位栅格质心的经度和纬度; $x ( t ) , y ( t )$ 分别为$t$ 时段高适生区质心的经度和纬度。
+
+$$
+\begin{array} { c } { D = \sqrt { \Big ( x \big ( t + 1 \big ) - x \big ( t \big ) \Big ) ^ { 2 } + \Big ( y \big ( t + 1 \big ) - y \big ( t \big ) \Big ) ^ { 2 } } } \\ { \theta = \operatorname { a r c t g } \Bigg ( \frac { y \big ( t + 1 \big ) - y \big ( t \big ) } { x \big ( t + 1 \big ) - x \big ( t \big ) } \Bigg ) } \end{array}
+$$
+
+式中： $D$ 为 $t$ 时段到 $_ { t + 1 }$ 时段高适生区的位移距离； $\theta$ 为 $t$ 时段到 $_ { t + 1 }$ 时段高适生区的位移方向, $0 ^ { \circ } < \theta _ { \mathrm { \Phi } } < 9 0 ^ { \circ }$
+
+表示位移方向为东北, $9 0 ^ { \circ } < \theta < 1 8 0 ^ { \circ }$ 表示位移方向为西北, $1 8 0 ^ { \circ } < \theta < 2 7 0 ^ { \circ }$ 表示位移方向为西南,$2 7 0 ^ { \circ } < \theta < 3 6 0 ^ { \circ }$ 表示位移方向为东南。
+
+# 2结果与分析
+
+# 2.1影响中华猕猴桃分布的关键环境变量的筛选及模拟评价
+
+# 2.1.1潜在环境变量的筛选
+
+本研究选择的初始环境变量包括预测物种分布通用的19个生物气候变量和月平均气候数据，研究表明[34-35]，这些变量之间存在不可避免的自相关及多重线性重复等问题，这些高度相关的变量在模型预测过程中会引入冗余信息，影响预测结果。因此，应首先对环境变量进行相关分析和有效筛选。本研究中，参考Worthington等[36]方法，筛选潜在环境变量，具体过程为：首先全部环境变量构建初始模型，选择MaxEnt软件中的刀切法(Jackknife)检验来测定环境变量对模型预测的贡献大小，以此剔除对 MaxEnt 模型预测结果贡献较小的环境变量。其次，利用 SPSS 软件对贡献较大的关键限制因子进行 spearman 相关分析，若相关系数 $| r | \geqslant 0 . 8$ ，则对比初始模型中二者的贡献率，剔除贡献率较小的变量，提高模型模拟的精度。经过上述过程，共保留了22 个环境变量(代码和计算单位见表 2)，在此基础上重建中华猕猴桃在中国分布的最大熵模型，并对模拟结果进行准确性评价。
+
+表2影响中华猕猴桃分布的22个环境变量及其代码和计量单位  
+Table2Codes and units ofenvironmental variables used for simulationofpotential distributionof Actinidia chinensis   
+
+<html><body><table><tr><td>代码</td><td>变量名称</td><td>单位</td></tr><tr><td>Code</td><td>Environmental variable</td><td>Unit</td></tr><tr><td>Bio2</td><td>平均日较差 Mean diurnal temperature range</td><td>℃</td></tr><tr><td>Bio5</td><td>最暖月最高温度 Max temperature of the warmest month</td><td>℃</td></tr><tr><td>Bio6</td><td>最冷月最低温度 Min temperature of the coldest month</td><td>℃</td></tr><tr><td>Bio7</td><td>年均温变化范围 Annual temperature range</td><td>℃</td></tr><tr><td>Bio9</td><td>最干季度平均温度 Mean temperature of the driest quarter</td><td>℃</td></tr><tr><td>Bio11</td><td>最冷季度平均温度 Mean temperature of the coldest quarter</td><td>℃</td></tr><tr><td>Bio12</td><td>年降水量 Annual precipitation</td><td>mm</td></tr><tr><td>Bio14</td><td>最干月降水量Precipitation of the driest month</td><td>mm</td></tr><tr><td>Prec5,9,12</td><td>5、9 和12月平均雨量 Precipitation in May,September,December 2月、4月、9月、10月、11月和12月最高温度</td><td>mm</td></tr><tr><td>Tmax2,4,9,10,11,12</td><td>Maximum temperature in February,April,October,November,December,and September</td><td>℃</td></tr><tr><td>Tmin3,4,10,11</td><td>3月、4月、10 月和11 月最低温度 Minimum temperature in March,April, October,and November</td><td>℃</td></tr><tr><td>Tmean5</td><td>5月平均温度 Mean temperature in May</td><td>℃</td></tr></table></body></html>
+
+2.1.2ROC曲线和AUC值对模型准确性评价
+
+图1是当前时段气候条件下的ROC曲线图，图中表明基于主导环境变量构建的中华猕猴桃在中国的地理分布模型的AUC值为0.960，依据表1的AUC值评价标准，本次构建模型的预测准确性达到"极好"的标准；图2为未来不同气候情境下MaxEnt模拟结果的ROC 曲线图，由图可知所有预测结果的AUC 值都达到"极好"的标准。上述结果说明模型预测可信度较高，可用于分析气候变化对中华猕猴桃在中国分布的影响。
+
+![](images/47c7bed4e5f43549ff7a41b3ce25353999629f2217ce2d47db1b722bcf046fd6.jpg)  
+图1当前气候情景中华猕猴桃MaxEnt模型的ROC曲线 Fig.1ROC curve ofMaxEnt model for Actinidia chinensis under current scenario
+
+![](images/6828c644d9728740203fec49c9e0d9ec79b7f181583f465808fb0813c69a63db.jpg)  
+  
+图23种气候变化情景下中华猕猴桃MaxEnt模型的ROC曲线 Fig.2ROC curves of MaxEnt model for Actinidia chinensis under 3 climate change scenario
+
+# 2.2中华猕猴桃在中国的潜在分布
+
+由预测结果(图3)和统计分析(表4)可知，当前气候条件下，中华猕猴桃在中国的适生区在 $2 5 ^ { \circ } { \sim } 3 6 ^ { \circ } \mathrm { N }$ $1 0 1 ^ { \circ } { \sim } 1 2 2 ^ { \circ } \mathrm { E }$ ，由东向西呈不连续分布，总面积达 $2 . 5 8 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ ，占中国国土面积的 $2 6 . 9 2 \%$ 。其中高适生区主要位于四川、陕西、重庆、湖北、贵州、浙江、湖北、安徽、河南、江苏和甘肃等省份，面积达 $1 . 0 1 { \times } 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ 占总适生面积的 $3 8 . 9 4 \%$ ；中适生区沿高适生区周围分布，主要在中国中东部地区，包括河南、湖北、安徽、江苏和山东等地，面积为 $6 . 7 9 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ ，占总适生面积的 $2 6 . 2 6 \%$ ；低适生区包括云南、江西、河北和辽宁等省份，面积为 $8 . 9 9 \times 1 0 ^ { 5 } \mathrm { k m } ^ { 2 }$ ，占总适生面积的 $3 4 . 8 \%$
+
+本研究选取的未来时段为2030s、2050s、2070s和2080s,3种气候模式为RCP2.6、RCP4.5 和RCP8.5,由图4和表4可知，上述情景下中华猕猴桃在研究区的高、中适生区仍主要集中在四川、陕西、重庆、湖北等省区，只是在不同时段、不同气候情景下分布范围及面积有所不同。
+
+![](images/f6ce5fce0529889db2667ef8ff5a386cd66edd657db219ee9a2b73a4a1a32c11.jpg)  
+图3基于MaxEnt模型预测的中华猕猴桃在中国的适生分析图
+
+![](images/5d57ee963c9788a5851db8570c8b6a21c1542943b6f7274736cdc8f785dda485.jpg)  
+Fig.3Potential distribution of Actinidia chinensis in China based on MaxEnt model   
+图4未来3种气候变化背景下中华猕猴桃潜在适生区的预测结果  
+Fig.4Predicted future suitable areas for Actinidia chinensis under 3 climate change scenarios
+
+able 4Predicted suitable areas for Actinidia chinensis under current and future climatic conditions   
+
+<html><body><table><tr><td rowspan="2">年代</td><td rowspan="2">气候情景 Climates</td><td colspan="2">低适生区 Lowly suitable area</td><td colspan="2">中适生区 Moderately suitable area</td><td colspan="2">高适生区 Highly suitable area</td></tr><tr><td>Predictedea (×104 km²)</td><td>占当前情景预测 Proportion of current predicted area (%)</td><td>Predietdaea (x104km²)</td><td>占当前情景预测 Proportion of current</td><td>Ped面积 area</td><td>占当前情景预测 Proportion of current</td></tr><tr><td>当前(1950—2000 年) Current (1950-2000)</td><td>1</td><td>89.91</td><td>1</td><td>67.86</td><td>predicted area (%) 1</td><td>(x104km²) 100.62</td><td>predicted area (%) 1</td></tr><tr><td rowspan="4">21世纪30年代 2030s</td><td>RCP2.6</td><td>91.77</td><td>102.07</td><td>70.39</td><td>103.37</td><td>108.84</td><td>108.18</td></tr><tr><td>RCP4.5</td><td>101.27</td><td>112.64</td><td>86.81</td><td>127.92</td><td>86.89</td><td>86.36</td></tr><tr><td>RCP8.5</td><td>122.19</td><td>135.90</td><td>62.01</td><td>91.38</td><td>106.94</td><td>106.29</td></tr><tr><td>RCP2.6</td><td>102.34</td><td>113.83</td><td>66.93</td><td>98.62</td><td>108.43</td><td>107.77</td></tr><tr><td rowspan="3">2050s 21世纪70年代</td><td>RCP4.5</td><td>93.77</td><td>104.29</td><td>59.29</td><td>87.37</td><td>116.97</td><td>116.25</td></tr><tr><td>RCP8.5</td><td>112.79</td><td>125.44</td><td>65.02</td><td>95.82</td><td>110.06</td><td>109.39</td></tr><tr><td>RCP2.6</td><td>45.85</td><td>1 123.55</td><td>75.87 79.71</td><td>111.81 117.15</td><td>113.10</td><td>112.41</td></tr><tr><td rowspan="4">2070s 21世纪80年代 2080s</td><td>RCP4.5</td><td>111.01</td><td>134.38</td><td>58.53</td><td>86.24</td><td>108.49 122.72</td><td>107.83</td></tr><tr><td>RCP8.5</td><td>120.82</td><td>99.91</td><td>81.41</td><td>119.96</td><td>108.28</td><td>121.96</td></tr><tr><td>RCP2.6</td><td>89.82</td><td>89.19</td><td>68.21</td><td>100.52</td><td>148.29</td><td>107.62</td></tr><tr><td>RCP4.5 RCP8.5</td><td>80.19 100.49</td><td>111.77</td><td>80.21</td><td>118.19</td><td>109.38</td><td>148.37 108.70</td></tr></table></body></html>
+
+# 2.3中华猕猴桃在中国高适生区面积变化及中心点位移
+
+当前及RCP2.6情景下，高适生区面积呈波动增加的变化趋势。总体上由当前的 $1 . 0 1 { \times } 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ 增加至2080s的 $1 . 0 8 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 } ( \cdot$ 表4)。当前至 2080s，高适生区中心点由重庆云阳(当前)经重庆巫山(2030s)、重庆奉节(2050s 和 2070s)位移至湖北恩施(2080s)(图5)，总体上向东南方向移动 $8 2 . 3 9 \mathrm { k m }$ (表5)。
+
+当前及 ${ \tt R C P 4 . 5 }$ 情景下，高适生区面积呈先减少后增加的变化趋势。总体上由当前的 $1 . 0 1 { \times } 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ 增加至2080s的 $1 . 4 8 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 } ( \ddagger$ 4)。当前至2080s，高适生区中心点由重庆云阳(当前和 2030s)经湖北恩施(2050s)、重庆奉节(2070s)位移至重庆巫溪(2080s)(图5)，总体上向西北方向移动 $3 2 . 4 4 \mathrm { k m } ( \$ 表5）。
+
+当前及 $\mathsf { R C P 8 . 5 }$ 情景下，高适生区面积呈先增加后减少变化趋势。总体上由当前的 $1 . 0 1 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ 增加至2080s的 $1 . 0 9 \times 1 0 ^ { 6 } \mathrm { k m } ^ { 2 }$ (表4)。当前至2080s，高适生区中心点由重庆云阳(当前)经重庆巫山(2030s)、重庆巫溪(2050s)、四川宣汉(2070s)位移至重庆巫溪(2080s)(图5)，总体上向东北方向移动 $4 0 . 8 2 \mathrm { k m } ( \$ 表5）。
+
+表4中华猕猴桃在当前情景(1950—2000年)及未来气候条件下的适生区面积预测  
+表53种气候变化情景下中华猕猴桃高适生区中心点位移距离和方向  
+distance and direction of mean center of highly suitable area of Actinidia chinensis under3 climate ch   
+
+<html><body><table><tr><td rowspan="2">时期 Period</td><td colspan="3">RCP2.6气候情景 SRES-RCP2.6</td><td colspan="3">RCP4.5气候情景 SRES-RCP4.5</td><td colspan="3">RCP8.5 气候情景 SRES-RCP8.5</td></tr><tr><td>位移 Displacement (km)</td><td>方向 Direction</td><td>角度 Angle</td><td>位移 Displacement (km)</td><td>方向 Direction</td><td>角度 Angle</td><td>位移 Displacement (km)</td><td>方向 Direction</td><td>角度 Angle</td></tr><tr><td>当前至2030s From current to 2030s</td><td>108.84</td><td>东南 Southeast</td><td>279.2</td><td>9.68</td><td>东南 Southeast</td><td>290.23</td><td>106.56</td><td>东北 Northeast</td><td>66.37</td></tr><tr><td>2030s至2050s From 2030s to 2050s</td><td>58.65</td><td>西北 Northwest</td><td>94.87</td><td>47.70</td><td>东南 Southeast</td><td>344.09</td><td>73.01</td><td>西南 Southeast</td><td>265.52</td></tr><tr><td>2050s 至2070s From 2050s to 2070s</td><td>60.54</td><td>东北 Northeast</td><td>31.19</td><td>33.70</td><td>东北 Northeast</td><td>32.51</td><td>88.50</td><td>西北 Northwest</td><td>97.14</td></tr><tr><td>2070s至2080s From 2070s to 2080s</td><td>62.73</td><td>东南 Southeast</td><td>357.39</td><td>74.00</td><td>西北 Northwest</td><td>132.39</td><td>92.80</td><td>东南 Southeast</td><td>281.38</td></tr><tr><td>当前至2080s From current to 2080s</td><td>82.39</td><td>东南 Southeast</td><td>316.83</td><td>32.44</td><td>西北 Northwest</td><td>153.71</td><td>40.82</td><td>东北 Northeast</td><td>43.31</td></tr></table></body></html>
+
+![](images/a20004bc009b7604708f2e5d1cf8fe18002d1dbdb0fe9a44a32c4ee6b1068afa.jpg)  
+图53种气候变化情景下中华猕猴桃高适生区中心点迁移轨迹 Fig. 5Variation of mean centers of highly suitable areas under different 3 climate change scenarios
+
+# 3讨论与结论
+
+MaxEnt软件基于最大熵原理，以物种分布变量和环境变量为基础，利用数学模型统计分析熵最大时物种的分布状态。众多研究表明[37]，在分布数据较少时MaxEnt模型的预测结果比同类预测模型更精确，因此本研究选取MaxEnt软件来预测并分析中华猕猴桃的适生区及适生等级。目前普遍应用ROC曲线法(即AUC法)对模型精度进行评价[38],AUC的取值范围在0.5\~1，值越接近于1模型精度越高[39]。本研究结果表明，当前及未来气候模式下中华猕猴桃的适生区预测的AUC值均大于0.9，预测准确性达"极好"标准，说明此次模型预测的地理分布与中华猕猴桃实际分布拟合度较高，可以用于中华猕猴桃在中国地理分布与气候关系的研究。另外，本研究利用地理信息系统软件ArcGIS对MaxEnt输出的栅格文件进行后期处理，使目标物种的分布数据与环境变量数据在栅格单元上相对应，有效降低了系统误差，进一步提高了数据的准确性。
+
+本研究利用 ArcGIS 软件统计了未来3种气候变化情景下中华猕猴桃适生区面积变化情况，结果显示，至2080s，高、中适生区面积在RCP2.6、RCP4.5和RCP8.5 情景下均有所增加，只是增加的幅度不同。这说明在不同排放情景下气候变化对中华猕猴桃潜在分布的影响有一定的不确定性。环境变量的选择和作物分布点数据的多少对 MaxEnt模型的模拟准确性有较大影响。张杰等[40]利用 MaxEnt分析了中等温室气体排放情景下(RCP4.5)中华猕猴桃在中国潜在分布区的变化趋势，结果表明，至 2050年，中华猕猴桃适生区面积较当前情景略有下降，此结论与本文研究结果并不完全吻合，可能是选择了不同的变量和不同的分布点数据所致。
+
+气候是决定地球上物种分布的最主要因素，而物种分布格局的变化则是对气候变化最明确和直接的反应。气候变暖可能实质性地改变陆地生态系统的结构和功能，使生物栖息地范围与分布区发生变化。本文参考Yue等[33的计算方法，以面积作为权重，计算了不同等级适生区中心点位置，着重分析了适生区中心点随时间变化的位移趋势，展示了中华猕猴桃对气候变化的响应过程，结果显示，到2080s，高、中适生区的中心点均将发生不同程度的改变。其中高适生区中心点在3种情景下均向偏北方向移动，原因可能与研究区的年平均气温与年降水量的增加有关(表6)；从结果中还可看出，不同概率等级的中心点位没有明显的规律性，其原因可能在于当前和未来气候变量的不连贯，当前气候数据的起止时间为1950—2000年，而未来气候数据的起止时间为2030—2080年,2000—2030年的数据缺失可能造成中心点移动方向的往复。
+
+表6气候变化情景下中国年平均气温与年降水量的变化 Table 6Changes in annual mean temperature and annual precipitation under diferentclimate change scenarios in China   
+
+<html><body><table><tr><td>气候变化情景 Climate change scenario</td><td>年份 Year</td><td>年平均气温范围 Range of annual mean</td><td>年平均气温 Annual mean temperature(℃)</td><td>年降水量范围 Range of annual</td><td>年降水量 Annual precipitation</td></tr><tr><td>当前 Current</td><td>1950—2000</td><td>temperature(℃) -13.8~25.8</td><td>6.15</td><td>precipitation (mm) 12~4 199</td><td>(mm) 621.59</td></tr><tr><td>RCP2.6气候情景</td><td>2030s</td><td>-18.2~27.1</td><td>6.68</td><td>16~5 062</td><td>824.16</td></tr><tr><td>SRES-RCP2.6</td><td>2050s</td><td>-17.7~27.3</td><td>6.94</td><td>18~5149</td><td>857.32</td></tr><tr><td rowspan="4">RCP4.5气候情景 SRES-RCP4.5</td><td>2070s</td><td>-17.6~27.4</td><td>6.89</td><td>22~5155</td><td>849.40</td></tr><tr><td>2080s</td><td>-17.9~27.3</td><td>6.79</td><td>22~5101</td><td>845.79</td></tr><tr><td>2030s</td><td>-18.0~27.2</td><td>6.73</td><td>16~5086</td><td>822.52</td></tr><tr><td>2050s</td><td>-17.1~27.6</td><td>7.28</td><td>19~5 201</td><td>849.65</td></tr><tr><td rowspan="6">RCP8.5气候情景 SRES-RCP8.5</td><td>2070s</td><td>-16.6~27.8</td><td>7.74</td><td>22~5 155</td><td>858.04</td></tr><tr><td>2080s</td><td>-16.4~27.9</td><td>7.69</td><td>21~5143</td><td>859.39</td></tr><tr><td>2030s</td><td>-17.5~27.4</td><td>11.92</td><td>21~5 054</td><td>819.23</td></tr><tr><td>2050s</td><td>-16.4~27.9</td><td>11.65</td><td>21~5 149</td><td>858.42</td></tr><tr><td>2070s</td><td>-14.4~29.0</td><td>11.49</td><td>27~5 261</td><td>2 024.12</td></tr><tr><td>2080s</td><td>-13.4~29.4</td><td>11.99</td><td>29~5286</td><td>2 075.86</td></tr></table></body></html>
+
+生态位模型假设物种的生态位需求是保守的，样本大小、空间尺度和环境变量等因素会影响此类模型的预测能力和稳定性[4I。本研究中发现以下问题:1)文中选取的19个环境变量是以温度和雨量为基础，根据不同需求计算演生而来，因此这些变量之间存在不可避免的自相关及多重线性重复等问题，在模型预测过程中会引入冗余信息，影响预测结果。因此本文首先运用刀切法对环境变量进行相关分析和有效筛选.计算各因子对物种分布的贡献率大小，剔除贡献率较小的环境变量，基于主导环境变量重建模型，提高了预测结果的准确性。2)本研究预测了未来情景下中华猕猴桃的适生区变化，使用RCP2.6、RCP4.5和RCP8.53种气候模式数据。需要注意的是，预测是以当前中华猕猴桃的发生点作为分布数据变量，这就可能会忽略未来实际分布点的影响，不可避免地造成系统误差。3)影响中华猕猴桃在中国种植分布的环境因子不仅仅包括气候条件、土壤类型、植被类型和地形因子、品种类型、人类活动等非生物因子，社会经济结构、生产技术水平等因素同样会对其分布产生重要影响[42-43]。基于上述原因，可以推测,MaxEnt 模型预测的生态位比中华猕猴桃所占据的实际生态位要宽。本研究由于数据限制，仅考虑了温度和降水这两类气候变量对适生分布的影响，在下一步工作中，还应注重考量各种因素相互作用的可信表达，以改善模型的预测效果。
+
+# 参考文献 References
+
+[1] 吴建国，吕佳佳，艾丽．气候变化对生物多样性的影响：脆弱性和适应[J].生态环境学报,2009,18(2):693-703   
+WuJGLvJJ，AiL.Theimpactsof climatechangeonthebiodiversity:Vulnerabilityandadaptation[J].Ecologyand Environmental Sciences,2009,18(2): 693-703   
+[2] 李勇，杨晓光，王文峰，等．全球气候变暖对中国种植制度可能影响V.气候变暖对中国热带作物种植北界和寒害风险的 影响分析[J]．中国农业科学,2010,43(12):2477-2484   
+LiY,Yang XGWangWF,etal.Thepossibleeffectsofglobal waringoncroppingsystms ininaV.Thepossbleectsof climate warmingongeographicalshift insafe northern limitof tropical crops andtheriskanalysisofcold damage in China[J]. Scientia Agricultura Sinica, 2010, 43(12): 2477-2484   
+[3] 邓振镛，张强，宁惠芳，等．西北地区气候暖干化对作物气候生态适应性的影响[J]．中国沙漠,2010,30(3):633-639   
+Deng ZY,ZhangQ,Ning HF,etal.Influenceof climate warmingand dryingoncropeco-climateadaptabilityinNorthwestern China[J]. Journal of Desert Research,2010,30(3): 633-639   
+[4] 王晓煜，杨晓光，孙爽，等．气候变化背景下东北三省主要粮食作物产量潜力及资源利用效率比较[J].应用生态学报， 2015,26(10): 3091-3102 Wang XY,YangXGSunS,etal.Comparisonofpotentialyieldandresourceutilzationeficiencyofainfoodcrosthee provinces of Northeast China under climate change[J].Chinese Journal ofApplied Ecology,2015,26(10):3091-3102   
+[5]AndersonRP,Raza A.Theefectof theextentof the studyregiononGISmodelsof species geographicdistributions and estimatesof nicheevolution:Preliminarytestswithmontanerodents(genusNephelomys）inVenezuela[J].Journalof Biogeography,2010,37(7): 1378-1393   
+[6]朱耿平，刘国卿，卜文俊，等．生态位模型的基本原理及其在生物多样性保护中的应用[J].生物多样性，2013，21(1): 90-98 Science,2013,21(1): 90-98   
+[7] 许仲林，彭焕华，彭守璋．物种分布模型的发展及评价方法[J]．生态学报,2015,35(2):557-567   
+Xu ZL,Peng HH,PengSZ.The developmentandevaluationofspecies distributionmodels[J].ActaEcologica Sinica,215,5(2) 557-567   
+[8] 李国庆，刘长成，刘玉国，等．物种分布模型理论研究进展[J]．生态学报,2013,33(16):4827-4835   
+Li G Q,LiuCC,LiuYGetal.Advances inteoreticalissuesofspeciesdistributionmodels[J].ActaEcologica Sinca,2013, 33(16): 4827-4835   
+[9] 段居琦，周广胜．中国水稻潜在分布及其气候特征[J].生态学报,2011,31(22):6659-6668 DuanJQ,ZhouGS.Potentialdistributionoficeinchinaanditsclimatecharacteristics[J].ActaEcologica Sinica,1(22): 6659-6668   
+[10] 何奇瑾，周广胜．我国春玉米潜在种植分布区的气候适宜性[J]．生态学报,2012,32(12):3931-3939 He QJ,ZhouGS.Climaticsuitabilityofpotential spring maizecultivationdistribution inChina[J].ActaEcologica Sinica,2012, 32(12): 3931-3939   
+[11] 孙敬松，周广胜．利用最大熵法(MaxEnt)模拟中国冬小麦分布区的年代际动态变化[J]．中国农业气象，2012，33(4): 481-487 SunJS,ZhouGS.Inter-decadal variabilityof winter wheatplanting zone in Chinaduring 1961toOlOsimulated bymaximum entropy (MaxEnt)[J]. Chinese Journal of Agrometeorology, 2012,33(4): 481-487   
+[12] 黄宏文，龚俊杰，王圣梅，等．猕猴桃属(Actinidia)植物的遗传多样性[J].生物多样性,2000,8(1):1-12 Huang HW,GongJJ, WangSM,etal.eneticdiversity inthe genusActinidia[J].Chinese Biodiversity2O,8(1):112   
+[13] 徐小彪，张秋明．中国猕猴桃种质资源的研究与利用[J]．植物学通报,2003,20(6):648-655   
+XuXB,ZhangQM.Researchesandutilzationsof germplasmresourceof kiwifruitinChina[J].ChineseBuletinofBotany,003, 20(6): 648-655   
+[14] 刘瑶，朱天辉，樊芳冰，等．四川猕猴桃溃疡病的发生与病原研究[J]．湖北农业科学,2013,52(20):4937-4942 Liu Y,ZhuTH,FanFB,etal.OcurrenceandpathogenidentificationofkiwifruitbacteralcankerinSichuan[J].Hubei Agricultural Sciences,2013,52(20): 4937-4942   
+[15] 涂美艳，江国良，陈栋，等．四川省猕猴桃产业发展现状及对策[J]．湖北农业科学,2012,51(10):1945-1949 Tu MY,JiangGL,ChenD,etal.DevelopmentstatusandcoutermeasuresofiwifruitindustryinichuanProvinceJ].Hubei Agricultural Sciences,2012,51(10): 1945-1949   
+[16] 于成，叶丽君，刘泽全，等．都江堰市海沃特猕猴桃种植的气候适应性区划[J].安徽农业科学,2010,38(11):5741-5743 Yu C,YeLJ,LiuZQ,etal.ClimateadaptabilitydivisionofActiidiadeliciosacv.Haywardinujiangyan[J].JoualofAhi Agricultural Sciences,2010,38(11): 5741-5743   
+[17]贺文丽，李星敏，朱琳，等．基于GIS 的关中猕猴桃气候生态适宜性区划[J]．中国农学通报,2011,27(22):202-207 He WL,LiXM,ZhuL,etal.Climateecologicalapplicabilityregionalization for kiwifruit basedonGISin Guanzhongof Shaanxi Province[J]. Chinese Agricultural Science Bulletin,2011,27(22): 202-207   
+[18］莫建国，池再香，汤苾，等．贵州山区红心猕猴桃种植气候区划[J]．中国农业气象,2016,37(1):36-42 MoJG ChiZX,Tang B,etal.Climatesuitabilityforredcartridgekiwifruit planting inGuizhou mountainousarea[J].Chinese Journal of Agrometeorology,2016,37(1): 36-42   
+[19] 曾永美，高阳华，杨世琦．基于GIS 的重庆市万盛区猕猴桃气候区划分析[J].重庆师范大学学报：自然科学版，2012, 29(2): 89-93 Zeng YM,GaoYH,YangSQ.Thekiwifruit climate divisionanalysis ofChongqing Wansheng District thatbased on geographic information system[J]. Journal of Chongqing Normal University: Natural Science Edition, 2012,29(2): 89-93   
+[20] 刘敏，刘云鹏，刘宗芳，等．夷陵区野生猕猴桃生态气候适应性及其区划[J]．湖北气象,2003,(2):18-20 Liu M,Liu YP,LiuZF,etal.Wild ChinesegooseberryecologicclimatizationinYi-Ling Countyand itsregiondivision[J]. Meteorology Journal ofHubei,2003,(2):18-20   
+[21]Ha H,HumanBW,LieschM,etal.Modelingpotentialconservationeasementlocationsusingphysicalandsociooic factors: A case-study from south-east Michigan[J]. Applied Geography,2016,75: 104-115   
+[22]郭杰，刘小平，张琴，等．基于MaxEnt 模型的党参全球潜在分布区预测[J].应用生态学报,2017,28(3):992-1000   
+Guo J,Liu XP,Zhang Q,etal.Predictionforthe potentialdistributionareaofCodonopsis pilosulaat globalsale basedonMaxEnt model[J]. Chinese Journal of Applied Ecology,2017,28(3): 992-1000   
+[23] 张天蛟，刘刚．提高生态位模型时间转移能力的方法研究[J]．中国农业大学学报,2017,22(2):98-105 ZhangTJ,LiuG Studyof methodstoimprovethetemporaltransferabilityof nichemodel[J].Journalof ChinaAgricultural University,2017,22(2): 98-105   
+[24] 曹学仁，陈林，周益林，等．基于 MaxEnt 的麦瘟病在全球及中国的潜在分布区预测[J]．植物保护,2011,37(3):80-83   
+Cao XR,ChenL,ZhouYL,etal.Potential distributionof Magnaporthegriseain China andthe world,predictedbyMaxEnt[J]. Plant Protection,2011,37(3): 80-83   
+[25] 闫冠华，李巧萍，邢超．不同温室气体排放情景下未来中国地面气温变化特征[J]．南京信息工程大学学报：自然科学版， 2011,3(1): 36-46 YanGH,LiQP,XingC.Future surface air temperaturechanges inChinaunderdiferent greenousegasemision scenarios[J]. Journal of Nanjing Universityof Information Science and Technology: Natural Science Edition,201,3(1):36-46   
+[26] 张晓华，高云，祁悦，等.IPCC 第五次评估报告第一工作组主要结论对《联合国气候变化框架公约》进程的影响分析[J]. 气候变化研究进展,2014,10(1):14-19   
+Zhang XH,GaoY,Qi Y,etal.Implications of thefindings from the working groupIcontribution totheIPCCfifthassessment report on the UNFCCC procesJ].Progressus Inquisitiones de Mutatione Climatis,2014,10(1): 14-19   
+[27] 王雷宏，杨俊仙，徐小牛.基于 MaxEnt 分析金钱松适生的生物气候特征[J]．林业科学,2015,51(1):127-131 WangLH,YangJX,XuXN.AnalysisofsuitablebioclimaticcharacteristicsofPseudolarixamabilisbyUsingMaxEntmodel[J]. Scientia Silvae Sinicae,2015,51(1):127-131   
+[28]王运生，谢丙炎，万方浩.ROC 曲线分析在评价入侵物种分布模型中的应用[J].生物多样性,2007,15(4):365-372 Wang Y S,Xie B Y,WanFH.Application ofROCcurve analysis in evaluating the performanceof alien speciespotential distribution models[J]. Biodiversity Science,2007,15(4): 365-372   
+[29] 赵力，朱耿平，李敏，等．入侵害虫西部喙缘蝽和红肩美姬缘蝽在中国的潜在分布[J].天津师范大学学报：自然科学版， 2015,35(1): 75-78 ZhaoL,ZhuG,Li,etal.PotentialdistributionofLeptogosssoccidentalisndJaderahematolomainChina[J].Jouaof Tianjin Normal University: Natural Science Edition,2015,35(1): 75-78   
+[30] 赵文娟，陈林，丁克坚，等．利用 MaxEnt 预测玉米霜霉病在中国的适生区[J]．植物保护,2009,35(2):32-38   
+Zhao WJ,ChenL,DingKJ,etal.Predictionofpotential geographicdistributionareasofthemaizedownymildewinChina by using MaxEnt[J].Plant Protection,2009,35(2): 32-38   
+[31] 韩乐琼，韩哲，李双林．不同代表性浓度路径(RCPs)下 21 世纪长江中下游强降水预估[J]．大气科学学报，2014,37(5): 529-540   
+HanLQ,HanZ,LiSL.Projectionofheavyrainfallevents inthemidleandlowerreachesoftheYangtzeRivervalleyinthe 21st centuryunderdifferentrepresentativeconcentrationpathways[J].Transactions ofAtmospheric Sciences,2O14,37(5):529-540   
+[32]赵泽芳，卫海燕，郭彦龙，等．人参潜在地理分布以及气候变化对其影响预测[J]．应用生态学报，2016,27(11): 3607-3615   
+Zhao ZF,WeiHYGuoYL,etal.PotentialdistributionofanaxginsengnditspredictedresposestomatechangeJ].Che Journal of Applied Ecology,2016,27(11): 3607-3615   
+[33]YueTX,FanZM,ChenCF,etal.Surfacemodellngof globalterestrialecosystemsunder threecimatehangeceaios[J]. Ecological Modelling,2011,222(14): 2342-2361   
+[34] 陈新美，雷渊才，张雄清，等．样本量对 MaxEnt 模型预测物种分布精度和稳定性的影响[J]．林业科学，2012,48(1): 53-59   
+Chen XM,LeiYC,Zhang XQ,etal.Efects of sample sizes on accuracyand stabilityof maximum entropy modelinpredicting species distribution[J]. Scientia Silvae Sinicae,2012, 48(1): 53-59   
+[35]朱耿平，刘强，高玉葆．提高生态位模型转移能力来模拟入侵物种的潜在分布[J].生物多样性,2014,2(2):223-230   
+Zhu GP,LiuQ,GaoYB.Improving ecologicalnichemodel ransferabilitytopredictthepotentialdistributionof invasiveexotic species[J].Biodiversity Science,2014,22(2):223-230   
+[36]WorthingtonTA,ZhangTJ,LogueDR,etal.Landscapeandowmetricsaectingthedistributionofafederalltreatend fish: Improving management,model fit,and model transferability[J]. Ecological Modeling,2016,342:1-18   
+[37]蔡静芸，张明明，粟海军，等．生态位模型在物种生境选择中的应用研究[J].经济动物学报,2014,18(1):47-52   
+Cai JY,ZhangMM,SuHJ,etal.Applicationofecologicalnichemodelsforselectioofspecies habitat[J].JournalofEconomic Animal,2014,18(1): 47-52   
+[38]韩阳阳，王焱，项杨，等．基于MaxEnt 生态位模型的松材线虫在中国的适生区预测分析[J].南京林业大学学报：自然科 学版,2015,39(1):6-10   
+HanYY,WangY,XiangY,etal.PredictionofpotentialdistributionofBursaphelenchus xylophilusinChinabasedonaxEnt ecological niche model[J].Journal of Nanjing Forestry University: Natural Sciences Edition,2O15,39(1): 6-10   
+[39] 康传志，周涛，郭兰萍，等．全国栽培太子参生态适宜性区划分析[J].生态学报,2016,36(10):2934-2944   
+Kang CZ,ZhouTGuoLP,etal.EcoogicalsuitabilityndregionalizationofPseudostellriaeteropyll(Miq.)axxaxet Hoffm. in China[J].Acta Ecologica Sinica,2016,36(10): 2934-2944   
+[40] 张杰，敖子强，吴永明，等．中华猕猴桃(Actinidia chinensis)在中国的适生性及其潜在地理分布模拟预测[J]．热带地理， 2017,37(2): 218-225   
+Zhang J,AoZQ,WuYM,etal.PredictionofpotentialgeographicdistributionofActinidiachinensis inChinabasedonmaximum entropy niche model and ArcGIS[J]. Tropical Geography,2017,37(2): 218-225   
+[41]乔慧捷，胡军华，黄继红.生态位模型的理论基础、发展方向与挑战[J]．中国科学：生命科学,2013,43(11):915-927   
+QiaoHJ,HuJH,HuangJHTheoreticalbasis,futuredirections,andchalengesforecologicalniche models[J].Scientiainica Vitae,2013,43(11): 915-927   
+[42] 杨妙贤，肖德兴，梁红，等．中华猕猴桃性别分化的细胞形态学观察[J]．园艺学报,2011,38(2):257-264   
+YangMX,XiaoDX,Liang H,etal.CytomorphologicalobservationonsexdiferentiationofActinidiachinensis[J].Acta Horticulturae Sinica,2011,38(2): 257-264   
+[43] 任丹，漆雁斌，于伟咏，等．农户机械使用程度及其影响因素研究——基于四川省 205 户猕猴桃种植户的调查[J].四川 农业大学学报,2016,34(4): 528-534   
+RenD,QiYB,YuWY,etal.Researchonthedegreeofuseandtheinfluencing factorsoffarmers'machinery—basedonthe surveyof2O5 householdsofkiwifruitfarmersin Sichuan Province[J].JournalofSichuanAgricultural University,2O16,34(4): 528-534

@@ -1,0 +1,664 @@
+[
+    {
+        "type": "text",
+        "text": "量子斯特林致冷循环性能研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "殷勇1,2 吴锋² 陈林根1,3,4,\\* ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.海军工程大学热科学与动力工程研究室，武汉4300332.武汉工程大学理学院武汉4300333．海军工程大学舰船动力工程军队重点实验室，武汉4300334.海军工程大学动力工程学院，武汉430033）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：建立了以无数个无限深势阱中的粒子为工质的不可逆量子斯特林致冷循环模型。势阱中粒子在能级上的分布由吉布斯分布函数决定。该致冷循环由两个等能量过程与两个等势阱壁宽度过程组成，具有高低温热源间的热漏和不完全回热因素。导出了性能系数、致冷率、熵产率和生态学目标函数性能解析式，制冷率与生态学函数的关系曲线是回原点的扭叶型。分析了热漏系数与不完全回热因子对性能系数、致冷率和生态学函数的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：有限时间热力学；一维无限深势阱；量子制冷循环；生态学性能优化中图分类号：TK123 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on the performance of quantum Stirling refrigeration cycle ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YIN Yongl,2，WUFeng2CHEN Lin-gen1,3,4\\* (1 InstituteofThermal Science and Power Enginering,Naval UniversityofEngineering,Wuhan 430o33,PR China 2 School of Science,Wuhan Institute of Technology,Wuhan 430073,China 3Military KeyLaboratoryforNaval ShipPower Engineering,Naval UniversityofEngineering,Wuhan 430033,PR China 4 College of Power Engineering, Naval University of Engineering, Wuhan 43o033,PR China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: An irreversible quantum Stirling refrigeration model is established in which working substance is a single particle contained in a one-dimensional infinite potential well,and the system consists of countless replicas.The occupation probabilities in each eigenstates of the particleare expressd by the thermal equilibrium Gibbs distributions.The cycle is made of two iso-energy branches and two isochoric branches and with heat leakage between heat reservoirs and imperfect regeneration. Analytical expressions of COP,cooling rate,entropy generation rate and ecological function are derived.The curve between coing rate and ecological function is a loop-shaped one.Effects of heat leakage and imperfect regeneration on COP,cooling rate and ecological function are analyzed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:finite time thermodynamics；one-dimensional infinite potential well; quantum refrigeration cycle; ecological performance optimization ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "收稿日期：  \n基金项目：国家自然科学基金项目(No.51576207)  \n作者简介：殷勇（1976-），男，副教授，主要从量子热力学研究。通信作者：陈林根，教授，Email:lingenchen@hotmail.com",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在微纳米尺度[1-4]、低温或高密度条件下，需要考虑热力循环工质的量子特性。应用有限时间热力学理论和方法[5-15]，可以建立各种量子循环模型[16-24], 研究其热力性质与性能参数，优化其运行区间。实际热机中，存在着热阻、热漏、摩擦、涡流、惯性效应及非平衡的影响，循环为不可逆循环[25]。一些学者也研究了不可逆因素对量子热力循环性能的影响。金晓昌等[26]考虑高、低温热源间的弱耦联作用，引入了旁通热漏。Feldmann 和Kosloff[27]引入了内摩擦系数来描述量子非绝热现象。吴锋等[28]考虑热漏、热阻以及有限速率传热对不可逆量子斯特林制冷机性能的影响．金晓昌[29]从火用经济学角度研究了量子斯特林制冷机最优性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在文献[3,10,14,16,23,28,30]的基础上，本文将建立一个包含高低温热源间的热漏与不完全回热的不可逆斯特林制冷机循环，其工质为无数个囚禁于一维无限深势阱中的粒子。导出循环的性能系数、致冷率、熵产率、生态学函数，分析这些重要的性能参数与热漏率和不完全回热因子之间的关系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1系统的量子力学描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究的对象是一个囚禁于宽度为 $L$ 的一维无限深势阱中的粒子。其定态波函数满足：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ^ { 2 } \\Psi / d x ^ { 2 } + 2 m E \\Psi / \\hbar ^ { 2 } = 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据波函数 $\\psi$ 必须满足的边界条件 $\\scriptstyle { \\psi ( 0 ) = 0 }$ 和$\\scriptstyle \\psi ( L ) = 0$ ，可求出波函数为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Psi ( x ) = \\sum _ { n = 1 } ^ { \\infty } a _ { n } \\varphi _ { n ( x ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\varphi _ { n } ( x )$ 是归一化的本征函数：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\phi _ { n } ( x ) = \\sqrt { 2 / L } \\sin ( n \\pi x / L )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "系数 $a _ { n }$ 满足归一化条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n = 1 } ^ { \\infty } \\left| a _ { n } \\right| ^ { 2 } = \\sum _ { n = 1 } ^ { \\infty } p _ { n } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $p _ { n } { = } a _ { n } { } ^ { 2 }$ ，为概率密度，系统的能量本征值为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { n } = n ^ { 2 } \\pi ^ { 2 } \\hbar ^ { 2 } / ( 2 m L ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\mathbf { \\nabla } _ { m }$ 和 $n$ 分别为粒子的质量与量子数，哈密顿量的期望值为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE = \\sum _ { n = 1 } ^ { \\infty } \\bigl | a _ { n } \\bigr | ^ { 2 } E _ { n } = \\sum _ { n = 1 } ^ { \\infty } p _ { n } E _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经典循环中，活塞在气缸中做往复运动，假设势阱壁像经典循环中的活塞一样运动，当势阱宽度$L$ 变化时，系统的波函数与能级都会随着 $L$ 变化。定义广义力为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { n } = - d W / d y _ { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\mathbf { y } _ { n }$ 是与广义力 $Y _ { n }$ 对应的广义坐标。因此，作用在势阱壁的力可以表示成：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = - d E / d L = \\sum _ { n = 1 } ^ { \\infty } p _ { n } [ n ^ { 2 } \\pi ^ { 2 } \\hbar ^ { 2 } / ( m L ^ { 3 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.量子斯特林致冷循环",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究囚禁于一维无限深势阱中的粒子，为简单起见，只考虑两个能级。循环工质为无数个这样的粒子，每一个都被囚禁在一个一维无限深势阱中，粒子在能级上的占有几率由吉布斯分布决定。循环由两个等能量过程与两个等势阱壁的回热过程组成，分别与经典循环中的等温过程与等容过程对应。考虑不完全回热与高低温热源之间的热漏，系统从温度为 $T _ { L }$ 的低温热源吸收热量，放出热量给温度为 $T _ { H }$ 的高温热源，如图1所示。该循环是一个不可逆量子斯特林致冷循环。过程1-2为等能量过程，在此过程中系统的总能量保持不变，由此可得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } { \\mathrm { } } & { { } E _ { h } = p _ { 1 1 } E _ { 1 1 } + p _ { 1 2 } E _ { 1 2 } = } \\\\ { \\mathrm { } } & { { } p _ { L 1 } E _ { L 1 } + p _ { L 2 } E _ { L 2 } = p _ { 2 1 } E _ { 2 1 } + p _ { 2 2 } E _ { 2 2 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中 $P _ { i n } , E _ { i n }$ ? $\\stackrel { \\cdot } { \\iota } = 1 , 2 , L ; \\mathrm { _ n } = 1 , 2 \\stackrel { \\cdot } { \\iota }$ ）分别表示概率密度与对应能级的能量本征值， $\\scriptstyle , i = L$ 表示任意态， $n$ 为量子数。把式(4)和(5)代入式(9)可得：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 4 - 3 p _ { 1 1 } ) / L _ { 1 } ^ { 2 } = ( 4 - 3 p _ { _ { L 1 } } ) / L ^ { 2 } = ( 4 - 3 p _ { _ { 2 1 } } ) / L _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2869914745bd98526f0a62d076b2ab7ed8fb8a71422776b6b713c423ba93645d.jpg",
+        "img_caption": [
+            "图1量子斯特林致冷循环示意图. Figure 1. Sketch of a quantum Stirling refrigeration cycle. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式(8)和(10)可以求得在等能量过程1-2中，作用在势阱壁上的力为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { 1 2 } = \\pi ^ { 2 } \\hbar ^ { 2 } ( 4 - 3 p _ { 1 1 } ) / ( m L L _ { 1 } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等能量过程中系统的总能量保持不变，系统从低温热源吸收的热量全部用来对外做功，因此：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 1 2 } = W _ { 1 2 } = \\int _ { L _ { 1 } } ^ { L _ { 2 } } \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m } \\frac { 1 } { L _ { 1 } ^ { 2 } } ( 4 - 3 p _ { 1 1 } ) \\frac { d L } { L }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\pi ^ { 2 } \\hbar ^ { 2 } ( 4 - 3 p _ { 1 1 } ) ( m L _ { 1 } ^ { 2 } ) ^ { - 1 } \\ln ( L _ { 2 } / L _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，在过程3-4中，系统释放给高温热源的热量与外界对系统所做的功等于：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 3 4 } = \\bigl | W _ { 1 2 } \\bigr | = \\left| \\int _ { L _ { 2 } } ^ { L _ { 1 } } \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m } \\frac { 1 } { L _ { 2 } ^ { 2 } } ( 4 - 3 p _ { 3 1 } ) \\frac { 1 } { L } d L \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n= \\pi ^ { 2 } \\hbar ^ { 2 } ( 4 - 3 p _ { 3 1 } ) ( m L _ { 2 } ^ { 2 } ) ^ { - 1 } \\ln ( L _ { 2 } / L _ { 1 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "过程2-3与4-1为回热过程，理想回热过程中，在回热器中交换的热量分别为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 2 3 } = \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m } \\frac { 1 } { L _ { 1 } ^ { 2 } } [ ( 4 - 3 p _ { 1 1 } ) - \\frac { L _ { 1 } ^ { 2 } } { L _ { 2 } ^ { 2 } } ( 4 - 3 p _ { 3 1 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { 4 1 } = \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m } \\frac { 1 } { L _ { 1 } ^ { 2 } } [ ( 4 - 3 p _ { 1 1 } ) - \\frac { L _ { 1 } ^ { 2 } } { L _ { 2 } ^ { 2 } } ( 4 - 3 p _ { 3 1 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从式(14)和(15)可以看出， $\\mathrm { Q } _ { 2 3 } \\mathrm { = } \\mathrm { Q } _ { 4 1 }$ ,这说明，理想量子斯特林制冷机可以实现完全回热。假设高低温热源之间存在热漏，热漏率由下式决定：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { Q } _ { i } = \\pi ^ { 2 } \\hbar ^ { 2 } \\alpha / ( m L _ { 1 } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\alpha$ 为常数。则每一个循环的漏热量为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { Q _ { e } } = \\boldsymbol { \\stackrel { \\triangledown } { \\boldsymbol { Q _ { i } } } } \\boldsymbol { \\tau }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中t为循环周期。在4-1这个回热过程中，如果是理想回热过程，系统会在状态1结束回热过程；由于内部不可逆性，实际的斯特林制冷机存在回热损失，因为非理想回热，系统在状态 $_ { 1 } \\prime$ 结束回热过程。引入一个非理想回热因子 $\\mu ( \\mu { > } 0 )$ ，则非理想回热过程中的损失可表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { r } = \\mu Q _ { 4 1 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，从低温热源吸收的净热量与释放给高温热源的净热量分别可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { h } = Q _ { 3 4 } + Q _ { r } + Q _ { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nQ _ { L } = Q _ { 1 2 } - Q _ { r } - Q _ { e }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "粒子在某一能级上的概率密度由吉布斯分布为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { P _ { 1 1 } = 1 / \\{ 1 + \\exp [ \\pi ^ { 2 } \\hbar ^ { 2 } / ( k T _ { L } 2 m L _ { 1 } ^ { 2 } ) ] \\} } \\\\ & { P _ { 2 1 } = 1 / \\{ 1 + \\exp [ \\pi ^ { 2 } \\hbar ^ { 2 } / ( x ^ { 2 } k T _ { L } 2 m L _ { 1 } ^ { 2 } ) ] \\} } \\\\ & { P _ { 3 1 } = 1 / \\{ 1 + \\exp [ \\pi ^ { 2 } \\hbar ^ { 2 } / ( x ^ { 2 } k T _ { H } 2 m L _ { 1 } ^ { 2 } ) ] \\} } \\\\ & { P _ { 4 1 } = 1 / \\{ 1 + \\exp [ \\pi ^ { 2 } \\hbar ^ { 2 } / ( k T _ { H } 2 m L _ { 1 } ^ { 2 } ) ] \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3．循环周期",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设势阱壁以速度 $\\nu ( t )$ 运动，平均速度为 $\\nu ,$ 可得：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { 2 } \\mathrm { - } L _ { 1 } = \\int _ { L _ { 1 } } ^ { L _ { 2 } } \\nu ( t ) d t = \\overline { { \\nu } } \\tau _ { 1 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "等能量过程1-2与3-4所需的时间为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tau _ { 1 2 } = \\tau _ { 3 4 } = ( L _ { 2 } - L _ { 1 } ) / \\nu\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "过程2-3与4-1为等势阱壁过程，在此过程中系统内能变化。假设内能随时间的变化率为常数，因为在势阱宽度不变时，系统内能是温度的单值函数，故有：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd \\mathrm { T } / d t = \\pm \\mathrm { M } _ { \\mathrm { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中 $M$ 是一个与系统能量无关的常数，它只取决于回热材料的回热特性。正负号分别表示过程2-$3 ( i { = } 1 )$ 与过程 $\\scriptstyle 4 - 1 ( i = 2 )$ ．为简单起见，假设 $\\scriptstyle { M _ { I } = M _ { 2 } }$ 。因此，回热过程2-3与4-1所需的时间可分别表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\tau _ { 2 3 } = ( \\mathrm { T } _ { H } - T _ { L } ) / \\mathrm { M } } \\\\ { \\tau _ { 4 1 } = ( \\mathrm { T } _ { H } - T _ { L } ) / \\mathrm { M } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "整个循环的周期可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\tau = \\tau _ { 1 2 } + \\tau _ { 2 3 } + \\tau _ { 3 4 } + \\tau _ { 4 1 } = } \\\\ & { 2 ( L _ { 2 } - L _ { 1 } ) / \\stackrel { - } { \\nu } + 2 ( T _ { H } - T _ { L } ) / M } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.不可逆斯特林制冷循环一些重要性能参数及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（12）和(13)可得循环的输入功为：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW = { \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m L _ { 1 } ^ { 2 } } } \\ln x [ ( 4 - 3 p _ { 1 1 } ) - { \\frac { 1 } { x ^ { 2 } } } ( 4 - 3 p _ { 3 1 } ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中 $\\scriptstyle x = L _ { 2 } / L _ { 1 }$ ，表示势阱宽度比。由式(19)和(31)可得该不可逆量子斯特林制冷机的性能系数(COP)为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c l c r } { { c o p = \\{ ( 4 - 3 p _ { 1 1 } ) \\ln x - \\alpha \\tau - \\mu [ ( 4 - 3 p _ { 1 1 } ) } } \\\\ { { - ( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} / \\{ \\ln x [ ( 4 - 3 p _ { 1 1 } ) } } \\\\  { - ( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "联立式(19)与(30)可得的致冷率为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { R = \\{ ( 4 - 3 p _ { 1 1 } ) \\ln x - \\alpha [ 2 L _ { 1 } ( x - 1 ) / \\stackrel { - } { \\nu } + } } \\\\ { { 2 ( T _ { H } - T _ { L } ) / M ] - \\mu [ ( 4 - 3 p _ { 1 1 } ) - } } \\\\ { { ( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} / \\{ 2 L _ { 1 } ( x - 1 ) / \\stackrel { - } { \\nu } } } \\\\ { { + 2 ( T _ { H } - T _ { L } ) / M \\} } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "熵产率为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\sigma = \\displaystyle \\frac { 1 } { \\tau } \\displaystyle \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m L _ { 1 } ^ { 2 } } \\displaystyle \\{ \\frac { 1 } { T _ { L } } \\{ ( 4 - 3 p _ { 1 1 } ) \\ln x - \\alpha \\tau - \\mu [ ( 4 - 3 p _ { 1 1 } ) - ( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} + \\displaystyle \\frac { 1 } { T _ { H } } \\{ - \\displaystyle \\frac { 1 } { x ^ { 2 } } ( 4 - 3 p _ { 3 1 } ) \\log x - \\mu [ ( 4 - 3 p _ { 1 1 } ) - \\lambda ( 8 p _ { 1 1 } ) - \\lambda ( 8 p _ { 1 2 } ) ] \\} + } } \\\\ { { \\ln x + \\alpha \\tau + \\mu [ ( 4 - 3 p _ { 1 1 } ) - ( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} + 3 [ \\displaystyle \\frac { k m L _ { 1 } ^ { 2 } } { \\pi ^ { 2 } \\hbar ^ { 2 } } \\ln p _ { 3 1 } + \\displaystyle \\frac { 1 } { 2 T _ { H } x ^ { 2 } } ( 1 - p _ { 3 1 } ) ] - 3 [ \\displaystyle \\frac { k m L _ { 1 } ^ { 2 } } { \\pi ^ { 2 } \\hbar ^ { 2 } } \\ln p _ { 2 1 } - \\lambda ( 8 p _ { 1 2 } ) ] } } \\\\ { { + \\displaystyle \\frac { 1 } { 2 T _ { L } x ^ { 2 } } ( 1 - p _ { 2 1 } ) ] + 3 [ \\displaystyle \\frac { k m L _ { 1 } ^ { 2 } } { \\pi ^ { 2 } \\hbar ^ { 2 } } \\ln p _ { 1 1 } + \\displaystyle \\frac { 1 } { 2 T _ { L } x ^ { 2 } } ( 1 - p _ { 1 1 } ) - 3 [ \\displaystyle \\frac { k m L _ { 1 } ^ { 2 } } { \\pi ^ { 2 } \\hbar ^ { 2 } } \\ln p _ { 4 1 } + \\displaystyle \\frac { 1 } { 2 T _ { H } x ^ { 2 } } ( 1 - p _ { 4 1 } ) ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "烟输出率为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { A } { \\tau } = \\frac { 1 } { \\tau } [ ( \\frac { T _ { 0 } } { T _ { L } } - 1 ) Q _ { L } + ( \\frac { T _ { 0 } } { T _ { H } } - 1 ) Q _ { H } ] = \\frac { 1 } { \\tau } \\{ ( \\frac { T _ { 0 } } { T _ { L } } - 1 ) \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m L _ { 1 } ^ { 2 } } \\{ ( 4 - 3 p _ { 1 1 } ) \\ln x - \\alpha \\tau - \\mu [ ( 4 - 3 p _ { 1 1 } ) - 1 ] \\cos ( 2 \\beta _ { 1 1 } ) \\} \\} / 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} + ( \\frac { T _ { 0 } } { T _ { H } } - 1 ) \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m L _ { 1 } ^ { 2 } } \\{ - \\frac { 1 } { x ^ { 2 } } ( 4 - 3 p _ { 3 1 } ) \\ln x + \\alpha \\tau + \\mu [ ( 4 - 3 p _ { 1 1 } ) - ( 4 - 3 p _ { 3 1 } ) / x ^ { 2 } ] \\} \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "生态学目标函数[31-33]为：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\zeta = \\frac { \\mathcal { A } } { \\tau } - \\sigma T _ { 0 } = \\frac { 1 } { \\tau } \\{ ( \\frac { T _ { 0 } } { T _ { \\ell } } - 1 ) \\frac { \\pi ^ { 2 } } { m _ { l } ^ { 2 } } \\} ^ { \\gamma _ { 2 } } \\{ ( 4 - 3 p _ { 1 } ) \\ln x - \\alpha \\tau - \\mu [ ( 4 - 3 p _ { 1 } ) - ( 4 - 3 p _ { 1 } ) ^ { j } x ^ { 2 } ] + ( \\frac { T _ { 0 } } { T _ { n } } - 1 ) } \\\\ & { \\frac { \\varepsilon ^ { 2 } \\gamma _ { 2 } } { m _ { l } ^ { 2 } } \\{ ( - \\frac { 1 } { x ^ { 2 } } ( 4 - 3 p _ { 1 } ) ) \\ln x + \\alpha \\tau + \\mu [ ( 4 - 3 p _ { 1 } ) - ( 4 - 3 p _ { 1 } ) / x ^ { 2 } ] \\} - \\frac { T _ { 0 } } { \\tau } \\frac { \\pi ^ { 2 } \\hbar ^ { 2 } } { m _ { l } ^ { 2 } } \\{ \\frac { 1 } { T _ { \\ell } } \\{ 4 } - 3 p _ { 1 } \\} \\ln x  \\\\ & { \\pi T - \\mu [ ( 4 - 3 p _ { 1 } ) - ( 4 - 3 p _ { 1 } ) / x ^ { 2 } ] \\} + \\frac { 1 } { T _ { n } } \\{ - \\frac { 1 } { x ^ { 2 } } ( 4 - 3 p _ { 1 } ) \\ln x + \\alpha \\tau + \\mu [ ( 4 - 3 p _ { 1 } ) - ( 4 - 3 p _ { 1 } ) ] } \\\\ &  \\ \\times ^ { 2 } \\} \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "令 $\\boldsymbol { E } ^ { * } = \\boldsymbol { E } m L _ { 1 } ^ { 2 } / \\left( \\pi ^ { 2 } \\hbar ^ { 2 } \\right)$ （204号 为无量纲生态学目标函 数。由式(27),(28)和(31)可知，对于给定的 $T _ { H } ,$ （ $T _ { L } ,$ $T _ { 0 } , L _ { I } , M , \\overline { { { \\nu } } } , \\alpha , \\mu , C = \\pi ^ { 2 } \\hbar ^ { 2 } / ( m L _ { 1 } ^ { 2 } )$ ,制冷机的制冷 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "率、COP和生态学目标函数都是势阱宽度比 $x$ 的函数。图2给出了非理想回热因子u取不同的值时，性能系数随 $x$ 的变化关系。计算中取",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T } _ { L } \\mathrm { - } 2 0 0 \\mathrm { K } , \\mathrm { T } _ { 0 } \\mathrm { - } 3 0 0 \\mathrm { K } , \\qquad \\mathrm { M } \\mathrm { - } 1 5 , M \\mathrm { = } 1 5 , 2 / ( L _ { 1 } \\overline { { { \\nu } } } ) = 1 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\alpha = 0 . 0 1 , C / k = 3 0 0$ 。由图可知，制冷机的性能系数随势阱宽度比 $x$ 的增加而减小。随着非理想回热因子μ的增加，COP减小。图3给出了 $\\scriptstyle \\mu = 0 . 0 1$ ，$\\alpha$ 取不同的值时，COP 随 $x$ 的变化关系。计算中参数取值与图2相同。从图可知，COP随着 $\\alpha$ 的增加而减小。图4给出了制冷率随 $x$ 的变化关系，计算中 $\\scriptstyle \\alpha = 0 . 1$ ， $\\mu .$ 取不同的数值，其他参数的取值与图2相同。从图可知，制冷率随 $x$ 的变化关系为类抛物线关系，由极值条件 $\\partial R / \\partial x = 0$ 得：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { { \\displaystyle { [ \\frac { 2 L _ { 1 } } { \\bar { \\nu } } ( x - 1 ) + \\frac { 2 } { M } ( T _ { \\scriptscriptstyle H } - T _ { \\scriptscriptstyle L } ) ] \\{ \\frac { 4 - 3 p _ { 1 1 } } { x } - \\frac { 2 \\alpha L _ { 1 } } { \\bar { \\nu } } - \\frac { 2 \\mu } { x ^ { 3 } } [ ( 4 - 3 p _ { 3 1 } ) + 3 \\beta \\gamma _ { L } ( \\frac { 2 \\mu } { \\nu } ) ] } } } }  \\\\ { { { - \\frac { 2 L _ { 1 } } { \\bar { \\nu } } \\{ ( 4 - 3 p _ { 1 1 } ) \\ln x - \\alpha \\tau - \\mu [ ( 4 - 3 p _ { 1 1 } ) - \\frac { 1 } { x ^ { 2 } } ( 4 - 3 p _ { 3 1 } ) ] \\} = 0 } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式(36)给出了制冷率与势阱宽度比 $x$ 间优化关系。图5给出了 $\\scriptstyle \\mu = 0 . 0 1$ ， $\\alpha$ 取不同的数值时，制冷率随 $x$ 的变化关系，制冷率随着热漏的增大而降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6给出了无量纲生态学目标函数与制冷率之间的优化关系 $( \\boldsymbol { E } ^ { * } { - } \\boldsymbol { R } )$ 。从图可知， ${ \\boldsymbol { E } } ^ { * } { \\boldsymbol { R } }$ 优化关系曲线为扭叶型，存在着一个生态学目标函数的极大值点与一个制冷率的极大值点，且每一个生态学目标函数值(除极大值点外)对应两个制冷率取值，显然要取对应的制冷率较大的状态点。热漏不改变曲线的类型，但随着热漏的增加，生态学目标函数值和制冷率都变小，在生态学目标函数取值较小时，热漏对其影响较小，在生态学目标函数取值较大时，热漏对其影响较大。图7给出了 $\\mu$ 对 $\\boldsymbol { E } ^ { * } { - } \\boldsymbol { R }$ 关系曲线的影响，比较图6和7可知，热漏对 $E ^ { * } – R$ 关系的影响比非理想回热因子的影响大，即热漏是比非理想回热更重要的不可逆因素。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2be242f2d3402be685cc53d4f8ae0d800a94565e711c1e13b6b7cf0c0fbafeff.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1543eed1043102fd389b978c1a430eb64f07b2ddc8ffd9fdc564b823f2a60280.jpg",
+        "img_caption": [
+            "图2u对COP与势阱宽度比的关系的影响 Figure 2.Effects of $\\mu$ on COP with the ratio of potential well width. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ddf7bcf154138843ceb13bed18ba535ad382c67a6dd62e8b19f92d58686a1cd.jpg",
+        "img_caption": [
+            "图 $3 \\mathrm { ~ d ~ }$ 对COP与势阱宽度比的关系的影响. Figure 3.Effects of $\\alpha$ on COP with the ratio of potential well width. ",
+            "图 $4 . \\mu \\vec { x }$ 寸致冷率与势阱宽度比关系的影响 Figure4.Effects of $\\mu$ on cooling rate $( R )$ with the ratio of potential well width "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文建立了以无数个无限深势阱中的粒子为工质的不可逆量子斯特林致冷循环模型。基于薛定谔方程的求解分析了该不可逆量子斯特林制冷机的性能，给出了性能系数、致冷率、熵产率和生态学目标函数，分析了热漏系数与不完全回热因子对性能系数、致冷率以及生态学函数的影响。制冷率与生",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e292664fedf97a5ae84aaf028a0c063789313009b69b56a0b206ab21c600111.jpg",
+        "img_caption": [
+            "图 $5 \\alpha$ 对致冷率与势阱宽度比的关系的影响， Figure 5.Effects of $\\alpha$ on cooling rate versus the ratio of potential well width . "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/367070737325fb960231f7495d732c83895a5cac2f19d3adce84d28560c05703.jpg",
+        "img_caption": [
+            "图 $6 \\alpha$ 对致冷率与无量纲生态学函数关系的影响.",
+            "Figure 6.Effects of $\\alpha$ on cooling rate versus dimensionless ecological objective function. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a4a563a9226c01e412084eb8285d4405449324cfbe7cb2ca33270e0922a9cd2.jpg",
+        "img_caption": [
+            "图 $7 \\mu$ 对致冷率与无量纲生态学函数关系的影响.",
+            "Figure7.Effects of $\\mu$ on cooling rate versus "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "dimensionless ecological objective function.制冷率与生态学函数的关系曲线是回原点的扭叶型。存在着一个生态学目标函数极大值与一个制冷率的极大值。这两个极大值之间区域是该制冷机的最优运行区间。本文结果有助于加深对以无限深势阱中粒子为工质的不可逆量子斯特林制冷循环性能的理解。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] WU Feng，CHEN Lingen， SUN Fengrui，et al Performance Characteristicsof a Magnetic Stirling Cooler[J]. International Journal of Energy Research,2002, 26(3):217-228.   \n[2] WUFeng,CHENLingen,Wu Chi, et al .Optimization of Irreversible Magnetic Stirling Cryocoolers[J].International Journal of Engineering Science,2001,39(4): 361-368.   \n[3] WU Feng，CHEN Lingen，SUN Fengrui.Finite-time Exergoeconomic Performance Bound for a Quantum Stirling Engine[J]. International Journal of Engineering Science,2000,38(2):239-247.   \n[4] Vroylandt H, Bonfils A,Verley G.Efficiency Fluctuations of Small Machines with Unknown Losses[J]. Physical Review E,2016,93(5):052123   \n[5] Curzon FL,Ahlborn B.Efficiency of a CarnotEngine at Maximum Power Output[J]. American Journal of Physics, 1975,43(1): 22-24.   \n[6] Andresen B,Salamon P,BerryR S.Thermodynamics in Finite Time[J].Physics Today,1984 (Sept.): 62-70.   \n[7] CHEN Lingen，WU Chi，SUN Fengrui.Finite Time Thermodynamic Optimization orEntropy Generation Minimization of Energy Systems[J].Journal of NonEquilibrium Thermodynamics,1999,24(4): 327-359.   \n[8] HoffmanKH,BurzlerJ,FischerA,etal. Optimal Process Paths for Endoreversible Systems[J].Journal of NonEquilibrium Thermodynamics,2003,28(3):233-268.   \n[9] CHEN Lingen,SUN Fengrui.Advances in Finite Time ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thermodynamics: Analysis and Optimization[M]. New York:Nova Science Publishers,2004.   \n[10] 陈林根．不可逆过程和循环的有限时间热力学分析[M]. 北京：高等教育出版社,2005. CHEN Lingen. Finite Time Thermodynamics Analysis for Irreversible Processes and Cycles[M]. Beijing: Higher Education Press,2005.   \n[11] AndresenB.Current Trends in Finite-time Thermodynamics[J]. Angewandte Chemie International Edition,2011,50(12): 2690-2704.   \n[12] CHENLingen,MENGFankai,SUNFengrui. ThermodynamicAnalysesandOptimizationsfor Thermoelectric Devices: the State of the Arts[J].Science China: Technological Sciences，2016,2016,59(3): 442- 455.   \n[13] 陈林根，夏少军．不可逆过程的广义热力学动态优化 [M]．北京：科学出版社,2016. CHEN Lingen, XIA Shaojun. Generalized Thermodynamic Dynamic-Optimization for Irreversible Processes. Beijing: Science Press,2016.   \n[14] 陈林根，夏少军．不可逆循环的广义热力学动态优化 [M]．北京：科学出版社,2016. CHEN Lingen, XIA Shaojun. Generalized Thermodynamic Dynamic-Optimization for Irreversible Cycles.Beijing: Science Press, 2016.   \n[15] Kosloff R. Quantum Thermodynamics: A Dynamical Viewpoit J]. Entropy,2013,15(6): 2100-2128.   \n[16] YIN Yong, CHEN Lingen, WU Feng. Optimal Power and Efficiency of Quantum Stirling Heat Engines[J].European Physical Journal Plus,2017,132:45.   \n[17] 吴锋.斯特林机的有限时间热力学研究[D].博士学位论 文，武汉：海军工程学院，1998. WU Feng. Finite Time Thermodynamics Research for Stirling Engine[D].Doctorial Dissertations,WuHan:Naval Engineering College,1998.   \n[18] 吴锋，陈林根，孙丰瑞，等.斯特林机的有限时间热力 学优化[M].北京：化学工业出版社，2008. WU Feng, CHEN Lingen, SUN Fengrui, et al. Finite Time Thermodynamic Optimization for Stirling Engine[M]. BeiJing: Chemical Industry Press,2008.   \n[19] Kosloff R.A Quantum Mechanical Open System asa Model of a Heat Engine[J]. Journal of Chemical Physics, 1984, 80(4): 1625-1631.   \n[20] Geva E,Kosloff R. On the Classical Limit of Quantum Thermodynamics in Finite Time[J]. Journal of Chemical Physics,1992,97(5):4398-4412.   \n[21]吴锋，孙丰瑞，陈林根．活塞式量子Stirling发动机最优 性能[J]．电站系统工程，1996,12(1):41-43. WU Feng， SUN Fengrui, CHEN Lingen. Optimum Performance of a Piston Quantum Stirling Engine[J].Power System Engineering,1996,12(1):41-43.   \n[22] WU Feng,YANG Zhichun,CHEN Lingen, et al. Work Output and Eficiency of a Reversible Quantum Otto Cycle[J]. Thermal Science,2010, 14(4): 879-886.   \n[23]吴锋，汪拓，陈林根，等.量子斯特林热机的输出功 和热效率[J].机械工程学报，2014,50(4):150-154. WU Feng, WANG Tuo, CHEN Lingen, et al. Work Output and Efficiency of Quantum Stirling Engine[J].Journal of Mechanical Engineering,2014,50(4):150-154.   \n[24] 王建辉，熊双泉，何济洲，等.以一维谐振子势阱中的 单粒子为工质的量子热机性能分析[J]. 物理学报, 2012,61(8): 080509. WANG Jinhui, XIONG Shuangquan, HE Jizhou, et al. Performance Analysis of a Quantum Heat Engine Working with a Particle in a One-dimensional Harmonic Trap[J]. Acta Physica Sinica,2012,61(8):080509.   \n[25] Correa L A,Palao JP,Alonso D. Internal Dissipation and Heat Leaksin Quantum Thermodynamic Cycles[J]. Physical ReviewE,2015,92(3): 032136.   \n[26]金晓昌，吴锋，孙丰瑞，等.经典极限下量子卡诺热机 火用经济最优性能[J]．电站系统工程，1996,12(6)：42- 45. JIN Xiaochang,WU Feng, SUN Fengrui, et al. Optimum Exergoeconomic Performance of Quantum Carnot Heat Engine Under the Classical Limit[J].Power System Engineering,1996,12(6):42-45.   \n[27] Feldmann T,Kosloff R.Performance of Discrete Heat Engines and Heat Pumps in Finite Time[J].Physical Review E,2000,61(5): 4774-4790.   \n[28] 吴锋，孙丰瑞．不可逆量子斯特林制冷机的最大制冷率 [J]．应用科学学报，1997,15(2)：223-228. WU Feng, SUN Fengrui. Maximum Cooling Rate of a Irreversible Quantum Stirling refrigerator[J].Journal of Applied Science,1997,15(2):223-228.   \n[29] 金晓昌．量子斯特林制冷机火用经济优化准则[J]．武汉 化工学院学报，1997,19(3)：85-88. JIN Xiaochang. Exergoeconomic Optimum Criterion of Quantum Stirling refrigerator[J].Journal of Wuhan institute of Chemical Technology,1997,19(3):85-88.   \n[30] Acikkalp E, Caner N. Application of Exergetic Sustainable Index to the Quantum Irreversible Diesel Refrigerator Cycles for 1D Box System[J].The European Physical Journal Plus,2015,130: 73.   \n[31] Angulo-Brown F.An Ecological Optimization Criterion for Finite-Time Heat Engines [J].Journal of Applied Physics,1991,69(11): 7465-7469.   \n[32] Yan Z. Comment on“Ecological Optimization Criterion for Finite-Time Heat Engines”[J].Journal of Applied Physics,1993, 73(7): 3583.   \n[33] 陈林根，孙丰瑞，陈文振．热力循环的生态学品质因素 [J]．热能动力工程,1994,9(6):374-376. CHEN Lingen， SUN Fengrui， CHEN Wenzheng. The EcologicalQuality Factor for Thermodynamic Cycles[J].Journal of Engineering for Thermal Energy and Power,1994,9(6): 374-376. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "附：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "联系人：陈林根教授  \n地址：430033武汉 海军工程大学 动力工程学院手机号码：13871164396  \n邮箱：lingenchen@hotmail.com, lgchenna@yahoo.com",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 7
+    }
+]

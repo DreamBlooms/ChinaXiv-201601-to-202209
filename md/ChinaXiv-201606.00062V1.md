@@ -1,0 +1,137 @@
+# 创建与使用型人以优化机构知识库—基于文献计量的实证研究
+
+□顾立平
+
+摘要分析了香港城市大学经济与金融学系的博硕士论文，指出作者们有不同的特征和习惯,因而需要不同程度的建议和信息服务。结论是采用书目计量的方法分析机构知识库,是创建与使用型人(多重用户模型)来扩展知识服务的新取向之一,有助于提高机构知识库的使用率。
+
+关键词机构知识库文献计量 知识服务用户行为用户模型
+
+# 1研究背景与目的
+
+英国伦敦大学的用户行为观察研究"对图书馆开展新一轮知识服务颇有启发，即：透过计算主题类别的集中度与整理核心期刊的影响度，而对经济与商业类研究生，进行文献与知识推荐的服务试点。此例若成，估计未来会推展到不同学科与不同程度的用户群体中去。除乐观其成外,本文也从机构知识库的角度,采用文献计量的方法、型人模型的理论去拓展它的研究范畴与深度。
+
+！机构知识库（R)目前面临许多共同难题,例如:内容尚少、效果不佳、任务受到质疑、技术有待更新、缺少真正意义上的机构参与等。造成这些难题的原因很多，其中之一是“大多数教职员工仍然不明白自己为什么要使用机构知识库：它既不利于传播工作成果,也不利于得到经费资助。当然,也不会对资历和晋升有所帮助”[2][3]。换言之,增加用户参与感,或者利用知识服务使之感到机构知识库能够协助他们进行科学研究,是一项待开发的图书馆新型服务。
+
+Maness等人较早进行这种新型服务的研究[4]，即透过改善交互设计而达到提升用户体验的R型人研究。因为初期投入IR的图书馆面临许多未知变量，特别是 $\mathrm { O p e n A c c e s s }$ 以及R的定位都尚未形成共识的时候，只能着重于数据库建设与呈缴制度的规范性研究。若要突破现有收藏与服务的局限，就需要开发新的服务，而具备实证性研究特点的型人就是这样一种可以拓展R服务的模式。然而Maness等人尚未将R的力量充分运用,对型人的使用也未脱离经典教科书[5]上的技术与范围,而缺乏独自开辟一条新方向的尝试,实为可惜。
+
+综上，为扩展推荐信息的能力、提高机构知识库的质量以及利用型人创新图书馆服务，本文展开综合三者的实证研究设计。
+
+# 2研究设计
+
+将R型人和用户行为结合是目的，手段是文献计量，实证对象是香港城市大学的经济与金融学院。
+
+# 21理论依据与研究框架
+
+采用源自拉丁文的Personas作为理论依据。本文翻译为“型人”。尚存于世界的通用语言中,西班牙语仍使用Persona此字,其含义等于英语Person的含义，而Personas为西班牙语“人"这个名词的复数。开发VisualBasic的AlanCooper曾说：“型人不是真正的人，..”[]。指称 Personas在他的语言中不代表人,而是具有科学与工程的含义。反之,中文翻译Personas不应只照英文,而不参照拉丁文和西班牙文的原意。
+
+国内对Personas的普遍翻译有二：文学理论领域翻译为“人物”计算机领域翻译为“人物角色”,其定义略有不同。文学的Personas指虚构人物在作品中的应用与对读者的影响,而计算机中的Personas有两个意义，一是与“界面”有关，比如手机操作系统的模式，一是与“软件设计”有关,指程序员如何思考使用者行为。但图书情报学应用此字时,兼具上述所有含义。
+
+故此,取中文里“典型”、“类型”、“模型”三字字尾,结合中华儒家文化的“天（不可知）、地（可知）人（可为）"概念中的“人"字为要义,在扩展Personas含义的基础上，翻译Personas为“型人”,应该较“人物"或“人物角色"更为简练和贴近英文、西班牙文与拉丁文的扩展义和原始义。
+
+根据此理论而推导之研究框架，着重在“创建”与“使用”型人：创建型人着重在经验研究的基础上，依据实际情况或代换研究方法，或开发研究技术；使用型人着重在创建之后的实际应用，乃至于对基础技术的改进要求。故两者实为理论与实践之结合。
+
+# 22研究假设
+
+根据行为主义与认知心理学的主要观点与假设,本文设定的研究假设为：（1)R中的文献的利用率与用户的特征和行为必然有关；（2)不同用户的行为需要不同的信息服务；（3)合适的信息服务会强化假设（1)的关联性。
+
+# 23研究问题
+
+根据理论框架与研究假设，所研究问题包括三个主要问题：(1)用户的特征与行为；(2)从用户的特征与行为中,可分析出哪些不同类型的用户；（3)针对不同的用户，应该推荐哪些信息。
+
+# 24研究定位
+
+采用书目计量法，但研究定位是案例研究（香港城市大学-经济与金融学系-收录于R的博硕士论文）,分析单位是单篇论文而非个人或机构。
+
+另，数据源（http //dspace cityu edu hk /hand le /2031/709/bmw se-title)是支持 Open Access的 IR网址。最后访问日期是2009年10月10日，后续研究人员可重复验证。
+
+# 3结果
+
+# 31用户特征与行为
+
+据分析，30个样本的参考文献虽不尽相同，但集中反映出期刊所占的比率较高,其次是工作报告、会议论文、公司报表等具有研究价值（档案分析法）的灰色文献;一般列举少量Cambrilge或Harvard出版社的专著作为理论框架或实验技术的依据，个别作者（如:Chong B-P-S和Law，K-C)偏好大量图书与期刊。一般不采用网络文献,仅部分作者（如：LqW-L和 Chong B-P-S)依需要酌量参考,见表1。
+
+表1作者使用的文献类别  
+
+<html><body><table><tr><td>时间</td><td>作者</td><td>图书</td><td>期刊</td><td></td><td>网络其他</td><td></td><td>大比例偏重的数据来源</td></tr><tr><td>1994</td><td>Shum,</td><td>3</td><td>90</td><td></td><td>0</td><td>8</td><td>Joumal of F inan ce</td></tr><tr><td>2001</td><td>C-K-R LoW-L</td><td>4</td><td></td><td>24</td><td>18</td><td>16</td><td>Annual(differmt com pa ies)</td></tr><tr><td>2003</td><td>Law K-C</td><td>22</td><td></td><td>40</td><td>0</td><td>63</td><td>W orking paper</td></tr><tr><td></td><td>2003</td><td>1</td><td></td><td>67</td><td>0</td><td>4 A verage Joumal</td><td>of A ccounting Re-</td></tr><tr><td>2004</td><td>Y-K Hung</td><td>7</td><td></td><td>100</td><td>6</td><td>9 search</td><td>Harvard Bus iness Review</td></tr><tr><td></td><td>2004|Sun, Y-J</td><td>17</td><td></td><td>132</td><td>0</td><td>13</td><td>Joumal of Finance Am erican Econom ic Rev iew</td></tr><tr><td>2004</td><td>Lam, C-F-Y</td><td>E- 1</td><td></td><td>41</td><td>1</td><td>4</td><td>Joumalof PolitialEconomy Econom trica</td></tr><tr><td>2004</td><td>Jing L-H</td><td>7</td><td></td><td>90</td><td>0</td><td>14</td><td>Joumal of Financial Econm ics Joumal of F inan ce</td></tr><tr><td>2004</td><td>YaoJ</td><td>16</td><td></td><td>92</td><td>0</td><td>12 at ion</td><td>Joumal of Financial Econom ics Joumal of F ina cial Intem edi</td></tr><tr><td>2005</td><td>CaiJ</td><td>15</td><td></td><td>57</td><td>0</td><td>11</td><td>A verage</td></tr><tr><td>2005</td><td>H9 W-H</td><td>3</td><td></td><td>16</td><td>0</td><td>3</td><td>A verage</td></tr><tr><td>2005</td><td>WuL-L</td><td>8</td><td></td><td>125</td><td>0</td><td>2</td><td>Joumal of Financial Econm ics</td></tr><tr><td>2005</td><td>Cpg</td><td>40</td><td></td><td>131</td><td>12</td><td>25</td><td>Con fe rences paper</td></tr><tr><td>2005</td><td>LiY</td><td>11</td><td></td><td>55</td><td>9</td><td>19</td><td>Intemet Engineering Task Force</td></tr><tr><td>2006</td><td>Kw ok W-H</td><td>17</td><td></td><td>111 </td><td>0</td><td>20</td><td>A verage</td></tr><tr><td>2006</td><td>L-L Fag</td><td>3</td><td></td><td>19</td><td>0</td><td>5</td><td>Average</td></tr><tr><td></td><td>2006Guq F</td><td>2</td><td>64</td><td></td><td>0</td><td>2</td><td>Joumal of F ina ce Joumal of Econom ics</td></tr><tr><td>2006</td><td>Jor W-S</td><td>5</td><td></td><td>10</td><td>0</td><td>5</td><td>A verage</td></tr><tr><td>2006Ge H</td><td></td><td>6</td><td>36</td><td></td><td>0</td><td>17</td><td>A verage</td></tr><tr><td>2006</td><td>W</td><td>6</td><td>57</td><td></td><td>2</td><td>24</td><td>Joumal ofFinancial Econm ics</td></tr><tr><td>200YW</td><td></td><td>15</td><td>49</td><td></td><td>0</td><td>17</td><td>A verage</td></tr><tr><td>2007</td><td>X-P Hong</td><td>1</td><td>31</td><td></td><td>0</td><td>6</td><td> Joumal of F inan ce</td></tr><tr><td>2007</td><td>Chem,</td><td>Q 2</td><td>102</td><td></td><td>0</td><td>15 A verage</td><td></td></tr><tr><td>2007</td><td>QiY-H</td><td>4</td><td>73</td><td></td><td>8</td><td>4</td><td>Joumal fFinanecl Ecoanis</td></tr><tr><td>2007</td><td>Au</td><td>Y- 3</td><td>68</td><td></td><td>0</td><td>6</td><td> Joumal ofFinancialEconics</td></tr></table></body></html>
+
+<html><body><table><tr><td>时间</td><td>作者</td><td>图书期刊</td><td></td><td>网络</td><td>其他</td><td>大比例偏重的数据来源</td></tr><tr><td>2007</td><td>L-k C-</td><td>2</td><td>113</td><td>0</td><td>0</td><td>Joumal ofF ina cialEconm ics Joumal ofF inance F inancialM anegmen t</td></tr><tr><td>2007</td><td>Zhang A</td><td>5</td><td>43</td><td>0</td><td>21</td><td>Joumal of Intemational E o" non ics</td></tr><tr><td>2007</td><td>HC-Y</td><td>8</td><td>45</td><td>0</td><td>18</td><td>Joumal ofPolitical Econmy</td></tr><tr><td>2007</td><td>Chow, F- W-M</td><td>0</td><td>28</td><td>1</td><td>9</td><td>F inancial A nalys is Joumal</td></tr><tr><td>2008</td><td>L-K Wong</td><td>1</td><td>21</td><td>1</td><td>2</td><td>Joumal ofF ina cial Econm ics</td></tr></table></body></html>
+
+进一步分析,可以发现多数引用的期刊是：Journal of Political E conomy、Am erican E conom ic Rev iaw、Journal f Financial E conom ics Journal of $F$ inanceE conom trica H arvard Business Rev iw、Financial Analy-|sis Journal
+
+# 32用户的类型
+
+以图书馆员对“分类”的敏锐直觉，可以观察到：作者虽然同属经济与金融专业，但所关心的区域经济问题有所不同，见表2
+
+表2作者关心的区域经济问题  
+
+<html><body><table><tr><td>作者</td><td>中国香港</td><td>中国大陆</td><td>其他地区</td><td>不涉地区</td></tr><tr><td>Shum, C-K-R</td><td></td><td></td><td></td><td></td></tr><tr><td>Lq W-L</td><td></td><td></td><td></td><td></td></tr><tr><td>Law，K-C</td><td></td><td></td><td></td><td>·理论</td></tr><tr><td>Zhou K-G</td><td>.</td><td></td><td></td><td></td></tr><tr><td>Hung Y-K</td><td></td><td></td><td></td><td></td></tr><tr><td>Sun Y- J</td><td></td><td></td><td>马来西亚</td><td></td></tr><tr><td>Lam,E-C-F-Y</td><td></td><td></td><td></td><td>●理论</td></tr><tr><td>Jing L-H</td><td>.</td><td>：</td><td></td><td></td></tr><tr><td>Ya9J</td><td></td><td></td><td>●日本</td><td></td></tr><tr><td>CaiJ</td><td></td><td></td><td></td><td></td></tr><tr><td>Hq W-H</td><td></td><td></td><td></td><td>●知识产权</td></tr><tr><td>WuL-L</td><td></td><td></td><td>●日本</td><td></td></tr><tr><td>Chong B-P-S</td><td></td><td></td><td></td><td>●电子商务</td></tr><tr><td>LiY</td><td></td><td></td><td></td><td>●技术</td></tr><tr><td>Kwok,W-H</td><td></td><td></td><td></td><td></td></tr><tr><td>Feng L-L</td><td></td><td></td><td></td><td></td></tr><tr><td>GuqF</td><td></td><td></td><td>●日本</td><td></td></tr><tr><td>Jor W-S</td><td>?</td><td>?</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>GeH</td><td></td><td></td><td></td><td>●行贿问题</td></tr><tr><td>Zhou W-Q</td><td>.</td><td></td><td></td><td></td></tr><tr><td>Y ip M-W</td><td></td><td></td><td></td><td></td></tr><tr><td>H ong X-P</td><td>：</td><td></td><td></td><td></td></tr><tr><td>Chen Q</td><td></td><td></td><td>●日本</td><td></td></tr><tr><td>QiY-H</td><td>.</td><td></td><td></td><td></td></tr><tr><td>Au Y-C-K</td><td></td><td></td><td></td><td>●资本结构</td></tr><tr><td>Lui C-W-K</td><td></td><td></td><td>澳大利亚</td><td></td></tr><tr><td>Zh ang A</td><td></td><td></td><td>欧美各国</td><td></td></tr><tr><td>Hq C-Y</td><td></td><td>：</td><td></td><td></td></tr><tr><td>Chow, F-W -M</td><td></td><td></td><td>●英国</td><td></td></tr><tr><td>Wong L-K</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+因研究样本来自香港城市大学，因此偏好香港并不为其奇，但有越来越偏向于研究中国大陆的经济问题的倾向。此外，以日本为首的其他地区经济研究（在经济学中不称“案例研究”，也非图书馆分类的“比较经济”,而是以企业研究或制度研究等名义称之,但不见于关键词和题名)也是另一特征。而理论研究(指“以数学公式建立模型并用数据进行检验而无法证伪"的假说的集合)逐渐减少，但数理化模型则在“非理论"的研究中占越来越大的比例(篇幅和字数)。
+
+# 33R可提供的信息种类
+
+根据现有R内的信息，可发现不同学科、类别的信息，同时开放存取的信息组织机制使得多数IR能够互用其元数据内容，并且在开放存取的共同标准下，可实现多种信息的分类、收集与推荐，见表 $3$
+
+表3跨学科、类别、机构的R信息种类  
+
+<html><body><table><tr><td>信息种类</td><td>作用</td><td>例如</td></tr><tr><td>跨学科的信息</td><td>以进行交叉学 科研究之用</td><td>经济、管理、工程、情报、生 物等</td></tr><tr><td>跨类别的信息</td><td>新想法、交流机 会、数据、成果</td><td>期刊、会议、专著、文集、专著 或文集的章节、研究报告、演 示报告等</td></tr><tr><td>跨机构的信息</td><td>不同区域、不同 观点、不同重点</td><td>香港大学、北京大学、台湾大 学等</td></tr></table></body></html>
+
+比方说,如果香港城市大学的金融系的研究生要撰写毕业论文，主题是有关科学园区的群聚效应，图书馆除了透过书目系统,推荐克鲁曼（PaulRobinKrugman)在麻省理工大学出版社出版的的专著或电子书外，也可通过IR推荐台湾政治大学吴思华的期刊论文等。
+
+# 4讨论
+
+以ChongB-P-S研究电子商务为例（注：比方在淘宝网或阿里巴巴如何叫价与交易）,该研究需要参考微观经济学、企业管理案例、传播学期刊文献和最新发展的会议论文。因此她的参考文献经计算呈现“Average”分布,而与LiY不同。后者的研究,除了参考经济与金融期刊外，还大量参考了IntermetEngineeringTaskForce等工程类别期刊的信息,经计算,其“非本专业”信息量占参考总量的一半。而${ { \mathbb { W } } _ { \sf } } { { \mathbf { u } } }$ L-L的参考文献就几乎全部集中在经济与金融类期刊,而且明显以JournalofFinancialEonomics为主。见表1
+
+换言之，关键在：图书馆能否加深知识服务的力度？
+
+进一步分析这个关键，就问：图书馆能否对不同用户进行不同程度的知识服务？再进一步，就问：图书馆有没有条件？再进一步,再问:如果IR是唯一的补充条件,那么如何做？案例在哪？成功率有多大？再进一步，总结关键问题和子问题,一言以蔽之，就问：图书馆如何利用IR增加它的知识服务深度？
+
+假设上述30个样本的作者，未来仍然持续相关研究，而需要图书馆的知识服务，那么图书馆在分析他们提交给R的论文的基础上，可以推荐符合他们研究行为与特征的信息。这种“基于型人的知识服务机制”,将是表1与表2的综合，见图1
+
+根据图1分述知识服务机制如下：（1)为群1推荐期刊，但是区分全文获取和文摘获取，并利用关键词本体以及基于期刊网的发展，给予情报分析报告；（2)为群2推荐网络信息、会议信息、工作报告等“非正式”学术交流信息,但是需要经过整理，可以是网络导航也可以是内容聚合；（3)为群3推荐灰色文献,如实验数据、工作报告、公司报告等，以及“非专业"的期刊文献；（4)为群4推荐各种功能的选择,同时遴选经典图书,以及著名作者（例如诺贝尔奖得主）、知名出版社（如百年老店Springer)、或者全球各地专业类极强的出版机关(如中国高等教育出版社)等,满足其心理与实际工作的需求。
+
+建议图书馆员在讨论如何服务上述用户时，可在书自计量的基础上，通过访谈、照相（如果对方愿意）、咨询等方式创建与使用型人，以达到相互交流与累积经验以提升机构知识库的目标。
+
+群体2  
+网络 Qi(2007)Li(2005) 群体3L0(2001）  
+报纸 Law(2003)Ge(2006) Chong(2005)YIP(2006)Chen(2007)HOwh(2005) Jor(2006)  
+期刊  
+图书 群体4 Kwok(2006) Ya0(2001)Cai(2005） Sun(2004)不涉地区中国香港中国大陆其他地区Lam(2004) Zhou(2003) Hocy(2007) Chow(2007)Au(2007) Jing（2004） Guo(2006)Hung(2004) Feng(2006)Wu(2005)  
+群体1 Zhouwq(2006) Lui(2007)Wong(2008)Shum(1994) Zhang(2007)Hong(2007)
+
+# 参考文献
+
+1CEBRUnivers ity CollegeLondonJSCUserBehaviourOb servational S tudy: Work ing paper on sch olrly digital use and in foim ation seek ing beh aviour in busin ess and econ m ics.（2009- O7- 01）[2009- 09 - 22].htp:/www. jisc ac uk/whaw edo /programm es/infll u ser" behaviousu sagedata aspx   
+2A b anese A Rh stitutinal Repos itories Th inking Beyond the BoxR epos itories leapt into the nat ional spotlight in 2OO8Now whaβ (2009-04- 02)[2009-09-09]   
+3AbaneseAR著,熊瑞编译.机构知识库：跳出“盒子"来思考 2008年机构知识库成为国内关注焦点，而如今呢?.图书情报工 作动态，2009(5)：17-18   
+4M aness JM,M iask iew icz T Sum ner T.Using Personas to U nder stand the Needs and Goals of Institu tional Repos itory U sersD-L b Magazine 2008(9/10):14 [2008- 10-13]. http //www.dlib. org/dlib/sep ten berO8 /m aness/O9m an ess html   
+5Mulder S& Yaar Z．The user is aw ays righta practical guide to creating and us ing personas for theWeb.Berkeley, CA:New R iders Press 2006   
+6CooperA.The inmates are nnn ing the asy lim: why high tech products drive us crazy and how to restore the san ity.USA,Sam pub lishing 2006:0-1
+
+作者单位：香港城市大学图书馆，香港收稿日期：2009年11月30日
+
+# Survey and Analysis on Current S tatus of the L ecturers Teaching L iterature R etrieval Course in B eijing Universities
+
+Zhou Xuan WangMengli He Ji Du Weichun
+
+Abstract A questbnnaire w as conducted on the L iterature RetrievalCourse lectu rers at $3 3 ~ \mathrm { c o }$ lleges and un iver sities n Beijing The survey ncludesthe ntegral strucure of lecturerstheir work ng situationteaching manage ment etc The feedback result shows hat bts of lecturers own a higher educatin degreeand ihe leaming-origin stucture is comparatively good Howeverhere stillexitssme dissatisfactoy aspects Thediscplnary structureof lecturers wasstillto beimprovedandthe teachng skills to be enhancedAlsothe situatinthat lecturers lack training opportunis ts and assessm en t is a w ilespread and serious prob lm.
+
+Keywo rdsInfo mation Literacy Educatibn L iteratureR etrievalCourses Lecurers Survey Analys is
+
+（接第52页）
+
+# Creating and U sing Personas for mproving Institutional R epository: An Em p irical Study of B ib liom etrics
+
+Ku L ipng
+
+Abstract For expending the research fieH of“ JISC User Behavior Observatoinal Study” reportadding the functionsof instiutibnalrepository（IR）and innovatig lbrary servicesthe dissertations ofeconom ic and business co leage intheCityUniversityofHong Kong were analyzed Theresult isthat there are diferent authors who need diferent levels ofsuggestins and nfomationservices Theconclusion is that using bblim ric tomake analysis on the content of $\mathbb { R }$ is one of new approachs to crea te and use personas(multiuser model） for expending know ledge serv ice and itm aybe helps add ing the usage rate of R.
+
+Keywo rdsInstitutionalR epository B b limetric Know ledge Serv ice User Behav ibr U serModel
+
+# 移动图书馆解决方案
+
+：移动图书馆是指依托成熟的无线移动网络、互联网以及多媒体技术，使人们不受时间、地点和空间的限制,通过各种便携移动设备(手机、PDA手持阅读器、平板电脑、MP4等)方便灵活地进行图书馆的信息查询、浏览和获取资源内容的服务。目前国内高校数字图书馆要实现上述功能,还存在一些问题,主要是无法解决对馆藏资源的全文访问和对各类数据库资源进行统一检索。要做到这一点并非易事，首先上网资费是一大难题,其次在技术层面又涉及三方面问题,一是大量的数据库平台都不一样,没有通用的接口供访问；二是数据存储的格式不同,各自的加工方式以及加密保护的办法也不一样；三是移动终端品种庞杂,操作系统各不相同。
+
+2010年6月，北京书生公司推出了“移动图书馆解决方案”,有效地解决了上述主要技术难题。首先通过UOML文档交换服务器，解决了不同数据库平台无法统一访问，以及不同数据存储格式不能通读的问题，其次解决了不同手持设备实现统一搜索的问题,支持塞班（Symb ian)、安卓（android)、W indowMobile linuxphone甚至是山寨机等各类型的可上网手机,以及具有WiFi功能的MP4电子书阅读器等手持终端设备,第三突破了过去的 IP控制方式,直接针对每个读者终端进行权限控制。在知识产权保护方面，“书生移动图书馆系统”花大力气进行合法手机用户的惟一性认证，限定每个手机号绑定一次就是一次，如果失效的话就得重新认证。对MP4以及专用阅读器,也有惟一的 ID绑定。另外对访问过程中链接传播的安全性控制也重点加以考虑。

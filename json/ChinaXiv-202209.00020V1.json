@@ -1,0 +1,358 @@
+[
+    {
+        "type": "text",
+        "text": "室内 $\\mathbf { C O } _ { 2 }$ 浓度、温湿度和光照变化对碰碰香挥发物",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "释放量的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "崔静娴'，刘慧 $^ { 1 , 2 ^ { * } }$ ，刘红1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1．北京航空航天大学 生物与医学工程学院 环境生物学与生命保障技术研究所，北京100191；2.北京航空航天大学 空天生物技术与医学工程国际联合研究中心，北京100191)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：碰碰香（Plectranthus hadiensis var.tomentosus）的芳香气味具有改善身心健康的作用，但其挥发物的释放易受到室内环境影响进而降低效果。为探究碰碰香挥发物对常见室内环境变化的响应，并为其高效稳定地应用于构建舒适的亲生物环境提供科学依据，该研究采用混合正交设计，使用动态顶空和气相色谱质谱联用技术测定了碰碰香挥发物对温度、湿度、$\\mathrm { C O } _ { 2 }$ 浓度及光照这4种常见室内环境因素的响应。结果表明：（1）在温度、湿度、 $\\mathrm { C O } _ { 2 }$ 浓度和光照4个环境因素中， $\\mathrm { C O } _ { 2 }$ 浓度和温度对碰碰香植株挥发物释放量的影响较大，而湿度和光照的影响较弱。（2）正常光周期下培养的碰碰香，在夜晚无光照时， $\\mathrm { C O } _ { 2 }$ 浓度500$\\mathrm { \\mu \\mathrm { m o l } \\cdot \\mathrm { m o l } ^ { - 1 } }$ 、温度 $2 5 \\mathrm { ~ \\textdegree C }$ 和湿度 $60 \\%$ 的环境条件最适于碰碰香植株释放挥发物。此环境条件下碰碰香挥发物的释放总量为 $8 6 . 2 3 ~ { \\mu \\mathrm { g \\cdot L ^ { - 1 } \\cdot k g ^ { - 1 } } }$ ，具有改善身心健康的活性成分含量为78.03$\\mathrm { \\sf { k g } { \\cdot } L ^ { - 1 } \\cdot k g ^ { - 1 } }$ 。综上所述，应用碰碰香构建室内亲生物环境，维持或改善人员身心健康时，应主要注意控制 $\\mathrm { C O } _ { 2 }$ 浓度和温度相关的环境条件，从而充分高效地发挥碰碰香的园艺效益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：碰碰香，挥发性有机物，温度，相对湿度，二氧化碳浓度，光照条件，混合水平正交试验",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：Q948；S609.9 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of indoor $\\mathbf { C O } _ { 2 }$ concentration, temperature, humidity and light condition on volatile organic compounds released ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "by Plectranthus hadiensis var. tomentosus ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CUI Jingxian1,LIU Hui1,2\\*,LIU Hong1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.InstituteofEnvironmentalBiologyandLife SupportTechnologySchoolofBiologicalScienceandMedical ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enginering,Beihang Univerrity,Beijing 100191,China ;2.Internet JointResearch CenterofAerospace ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biotechnology&Medical Engineering,Beihang University,Beijing1oo191,China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The aromatic odor of Plectranthus hadiensis var. tomentosus has been found to have the potential to improve physical and mental health of people in indoor environment, but the release of volatile organic compounds from plants is susceptible to indoor environmental changes and thus the stability of its efectiveness.The purpose of this study was to investigate the response of volatile organic compounds released by Plectranthus hadiensis var. tomentosus to common indoor environmental changes,and to provide a scientific basis for its efficient and sustainable application in building a comfortable pro-biotic environment to improve the physical and mental health of indoor personnel. Thus,the effects of four typical indoor environmental factors,such as air temperature,air relative humidity, $\\mathrm { C O } _ { 2 }$ concentration and light condition,on the release of volatile organic compounds from Plectranthus hadiensis var. tomentosus were investigated in this study. And the dynamic headspace and gas chromatography-mass spectrometry techniques were used to analyze the volatile organic compounds in different indoor environments with an environmental control device based on mixed-level orthogonal array design. The results were as follows: (1) Among the four typical indoor environmental factors of air temperature,air relative humidity, $\\mathrm { C O } _ { 2 }$ concentration and light condition, $\\mathrm { C O } _ { 2 }$ concentration and air temperature had greater effects on the release of volatile organic compounds from Plectranthus hadiensis var. tomentosus,than air relative humidity and light. (2) For Plectranthus hadiensis var. tomentosus cultivated under normal photoperiod, an environmental condition with $\\mathrm { C O } _ { 2 }$ concentration of 500 $\\mathrm { \\mu \\mathrm { m o l } } \\cdot \\mathrm { m o l } ^ { - 1 }$ ，air temperature of $2 5 \\mathrm { ~ \\textdegree C }$ and air relative humidity of $60 \\%$ was most suitable for releasing volatile organic compounds from Plectranthus hadiensis var. tomentosus in the absence of light. Under this environmental condition, the total amount of volatile organic compounds released by Plectranthus hadiensis var. tomentosus was $8 6 . 2 3 ~ \\mu \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } \\cdot \\mathrm { k g } ^ { - 1 }$ ，and the content of biological active components with potentials for the positive intervention of physical and mental health was $7 8 . 0 3 \\mu \\mathrm { g } \\cdot \\mathrm { L } ^ { - 1 } \\cdot \\mathrm { k g } ^ { - 1 }$ 。In summary, the results suggested that when the aroma plant Plectranthus hadiensis var. tomentosus was used to build an indoor pro-biotic environment to maintain or improve the physical and mental health of people in indoor, the environmental conditions should be controlled properly, especially $\\mathrm { C O } _ { 2 }$ concentration and air temperature,so as to fully and efficiently produce the positive health benefits from Plectranthus hadiensis var. tomentosus. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Plectranthus hadiensis var. tomentosus, volatile organic compounds, temperature, humidity, $\\mathrm { C O } _ { 2 }$ concentration, light, mixed horizontal orthogonal test ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "药食同源的芳香植物碰碰香（Plectranthus hadiensis var.tomentosus）是唇形科延命草属的多年生灌木状草本植物，原产自西南亚地区及非洲好望角（张玉晶等，2020），为花卉市场常见的小型香草盆栽，常用于装饰室内或工作环境(赵小珍等，2016)。植株茎叶不仅可以作为食用香料在炒菜或凉拌时提味，还可以泡茶、泡酒(张旋等，2019)。植株芳香浓郁，其香气已被证明可显著改善紧张焦虑情绪(荆小洁等，2020)。现代人类 $80 \\%$ 的时间在室内度过，久处于室内的人们情绪和睡眠问题日益凸显(Mazlan＆Abas,2021)。近年来，新型冠状病毒（COVID-19)的隔离防控措施限制了户外活动，并使人们焦虑、抑郁的情绪分别增长了 $1 6 \\%$ 和 $28 \\%$ (Rajkumar,2020)。而将碰碰香应用于构建对身心健康有益的室内环境，是一种用于维护久居室内人群的生理心理健康的行之有效的方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，芳香植物挥发物（volatile organic compounds,VOCs）的合成与释放是一个受多种因素影响的复杂生理过程，与光周期、温湿度等影响生理状态的外界环境因素密切相关，许多植物VOCs释放在不同环境下存在较大差异。研究发现矮牵牛中的苯环类物质在夜间释放，而一些香气物质如异丁子香酚仅在白天释放，白玉兰鲜花在低温下仅释放几种挥发物，大多数萜烯类化合物为痕量或不释放（李莹莹，2012）。此外，高光强、高温或湿度增加在一定程度上会刺激植物释放VOCs (Holopainen& Gershenzon,2010)，环境湿度增加可使赤松和云杉释放的VOCs成分发生改变，且湿度增加与芳香物质α-蒎烯的释放呈显著正相关（李洪远等，2015）。然而，也有研究显示一些植物的VOCS释放对于高湿度并不敏感，甚至会受到抑制。大气中 $\\mathrm { C O } _ { 2 }$ 浓度对植物VOCs释放的影响可能因物种而异，目前尚未有统一观点，如高浓度的 $\\mathrm { C O } _ { 2 }$ 使花旗松VOCs释放量显著降低，而令洋葱的VOCs释放量显著升高（Jasoni etal.,2018）。因此，不同植物的VOCs释放对环境变化的响应存在较大差异，需进一步研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "室内环境与通风方式、人员密度、季节更替等密切相关。常见的室内环境具有空间较小、光照强度低、 $\\mathrm { C O } _ { 2 }$ 浓度高等特点。教室内 $\\mathrm { C O } _ { 2 }$ 浓度最低值为 ${ 5 7 3 \\ \\mathrm { \\textmu m o l { \\cdot } m o l { \\cdot } l } }$ ，最高值高达4991$\\mathrm { \\mu \\mathrm { m o l } } \\cdot \\mathrm { m o l } ^ { - 1 }$ （姬长发等，2019）；室内平均居住温度在 $1 9 . 7 8 \\sim 3 1 . 1 8 ~ \\mathrm { ^ { \\circ } C }$ 范围内，室内相对湿度季节性变化强，冬季最低，夏季最高，且与室内空气温度密切相关（Tamerius etal.,2013）。环境变化是碰碰香在实际室内应用中需要考虑的主要潜在影响因素，可能会通过影响碰碰香VOCs的释放，进而影响其对生理心理健康的干预效果。但以往尚未针对室内环境因素对碰碰香VOCs释放的影响展开系统的研究。本研究采用混合正交试验方法，探究温度、湿度、$\\mathrm { C O } _ { 2 }$ 浓度及光照条件等室内主要环境因素对碰碰香植株VOCs释放的影响，旨在明确影响碰碰香植株VOCs释放的主要因素，进而提供其VOCs高效稳定释放的最佳环境条件，以便针对性地在日常室内工作和生活环境中使用碰碰香植株，充分发挥其应用价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料及装置",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "供试植物：碰碰香3盆，泥炭土种植与圆形花盆中（直径 $2 7 \\mathrm { c m }$ ，高 $1 8 \\mathrm { c m }$ ），培养环境为碰碰香生长较适宜的环境：温度（ $2 5 \\pm 2$ ） $\\mathrm { { } ^ { \\circ } C }$ 、空气相对湿度 $5 0 \\pm 1 0 ) \\ \\%$ 、光周期为$1 2 \\mathrm { h }$ 光照 $/ 1 2 \\mathrm { h }$ 黑暗（8:00打开光源，20:00关闭光源）。照明光源采用红白LED光源，光谱中红白光比例为1:1，光强 $1 2 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。培养碰碰香株高至 $1 6 \\sim 1 8 ~ \\mathrm { c m }$ 时开展所有的实验处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2常见室内环境的实验因素水平设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经文献调研(王茜等，2019)，确定温度、湿度、光照条件、 $\\mathrm { C O } _ { 2 }$ 浓度为可能影响碰碰香的VOCs释放的典型室内环境因素。依据室内通风状态及人员密度，室内实地测量结合文献调研(Tameriusetal.,2013；姬长发等，2019)，确定变化范围为温度 $2 0 \\sim 3 0 ~ \\mathrm { ~ \\textdegree ~ }$ ，湿度 $4 0 \\% \\sim$ $80 \\%$ 。 $\\mathrm { C O } _ { 2 }$ 浓度范围 $5 0 0 \\sim 4 ~ 5 0 0 ~ \\mathrm { \\mu m o l { \\cdot } m o l ^ { - 1 } }$ ，光照强度为光照 $2 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 或黑暗0$\\mathrm { \\mu } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。各个环境因子的水平设置见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据混合正交试验设计原理，选择相近的L18.3.6.6.1正交表，使用拟水平法进行正交试验设计(武凯等，2021)，测试顺序随机，每个处理平行3次，结果取平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6022581d69e648ed13b33e53ff6dd92fbfe7d12a6e61cde664c527fc99d03fa8.jpg",
+        "table_caption": [
+            "表1常见室内办公或居家环境的实验因素水平设置",
+            "Table 1 Experimental factor level design of typical indoor office or home environi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>水平 Level</td><td>光照条件 Light condition</td><td>温度 Temperature（℃)</td><td>湿度 Humidity (%)</td><td>CO2浓度 CO2 concentration</td></tr><tr><td></td><td></td><td></td><td>40</td><td>(μmol:mol-1)</td></tr><tr><td>1 2</td><td>光照Light 黑暗 Dark</td><td>20 25</td><td>60</td><td>500 1 500</td></tr><tr><td>3</td><td></td><td>30</td><td>80</td><td>2 500</td></tr><tr><td>4</td><td></td><td></td><td></td><td>3 500</td></tr><tr><td>5</td><td></td><td></td><td></td><td>4 500</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3VOCs采样方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用于碰碰香VOCs采集的实验装置（图1）上部为有机玻璃罩，在植物茎基部使用有机玻璃板和聚四氟乙烯薄膜将土壤上部的植株与下方的土壤隔开，用硅胶圈密封固定(Daussy& Staudt,2020)，构成上方密封空间以避免土壤VOCs的干扰。采样时间为每日9:00-16:00,采样前先将碰碰香放置在实验装置中，使用经过过滤的空气冲洗！ $( 4 \\mathrm { L } { \\cdot } \\mathrm { m i n } ^ { - 1 }$ ）有机玻璃罩10min，以消除安装过程中残留的VOCs。空气的过滤净化使用GDX-101和活性炭两种吸附管（Lietal.,2019），以避免外界空气中VOCs的干扰。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "环境条件控制通过向装置内通入不同温度、湿度、 $\\mathrm { C O } _ { 2 }$ 浓度的空气，以及控制外界光源的开闭来实现。使用温湿度控制器来控制温湿度，气体流量调节器控制装置内 $\\mathrm { C O } _ { 2 }$ 气体的浓度。当装置内 $\\mathrm { C O } _ { 2 }$ 传感器示数保持相对稳定不变 $3 \\mathrm { m i n }$ 以上时，判定植株已适应了此环境条件，即此环境下碰碰香植株的光合作用强度已经达到稳定状态，继续稳定 $3 0 \\mathrm { m i n }$ 后进行VOCs 吸附采样(Daussy& Staudt,2020)。在装置出气口接 Tenax-TA吸附管，以 $1 0 0 \\mathrm { { m L } \\cdot \\mathrm { { m i n } ^ { - 1 } } }$ 的恒定流量采样 $3 0 ~ \\mathrm { m i n }$ ，重复3次。采样结束后，称量碰碰香植株地上部分鲜重质量，用于计算碰碰香植株单位鲜重生物量的VOCs释放量。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e9a7c8016b720f8ebe52f805b63409506f7c7a40184b71a000c82199be951a1.jpg",
+        "img_caption": [
+            "图1用于测量碰碰香VOCs释放的装置",
+            "Fig.1 Device for measuring VOCs released by Plectranthus hadiensis var. tomentosus "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4GC-MS检测与VOCs成分分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采集的样品使用热解析仪（TD-20，中国）进行热脱附，进行气相色谱质谱联用分析（QP2020气质联用仪，日本）。具体条件为：HP-5MS色谱柱（ $6 0 \\ \\mathrm { m } \\times 0 . 2 5 \\ \\mathrm { m m } \\times 0 . 2 5 \\ \\mu \\mathrm { m } )$ ，初始温度 $5 0 \\ \\mathrm { ^ \\circ C }$ ，保持 $1 0 \\mathrm { m i n }$ ，以 $5 \\ \\mathrm { { ^ circ C } \\cdot \\operatorname* { m i n ^ { - 1 } } }$ 速率程序升温到 $2 5 0 \\mathrm { ~ \\textdegree C }$ ，保持 $5 \\mathrm { m i n }$ ；载气为高纯氨气（ $9 9 . 9 9 9 9 \\%$ ）。MS 离子源在 $7 0 \\mathrm { e V }$ 、 $2 0 0 \\mathrm { ~ \\textdegree ~ }$ ，全扫描模式下运行，质量扫描范围为$3 0 \\mathrm { \\ a m u } \\sim 8 0 0 \\mathrm { \\ a m u }$ 。通过NIST化合物数据库，具有保留指数或将质谱与已发表的数据进行比较来鉴定化合物。使用北京坛墨质检标准物质中心的混合VOCs作为标样并绘制标准曲线，进行现化合物的定量计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依据网络药理学方法(钟钰等，2019)，利用TCMSP中药系统药理学数据库(http://tcmspw.com/tcmsp.php）、Pubchem有机小分子生物活性数据库(https://pubchem.ncbi.nlm.nih.gov/）， TGSC香料信息数据库(http://www.thegoodscentscompany.com/)，预测筛选碰碰香VOCs 中具有抗焦虑抑郁，镇静催眠等生理活性的成分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据混合正交实验设计原理，计算极差R并按大小进行排序，筛选出最佳适用环境条件(武凯等，2021)，计算分析各环境因素的影响趋势：I、II、II、IV分别为每个环境因素不同水平的实验值之和。K1-K4分别是每个因素第1-4个水平的值，根据各个因素的2个、3个或4个的水平值设置，分析该因素对试验指标的影响趋势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1碰碰香VOCs释放总量及其主要成分的变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2为不同环境组合下碰碰香植株VOCs释放总量的结果，光照（A）、温度（B）、湿度（C）和 $\\mathrm { C O } _ { 2 }$ 浓度（D）的极差 $\\mathrm { R _ { D } { > } R _ { B } { > } R _ { C } { > } R _ { A } }$ ，说明 $\\mathrm { C O } _ { 2 }$ 浓度对碰碰香VOCs释放总含量的影响最大，其次是温度因素、湿度，而是否有光照对VOCs释放的影响较小。各环境因素对VOCs释放总含量的影响趋势如图2：A。黑暗条件下碰碰香VOCs释放量要高于有光照环境下。碰碰香VOCs 的释放总量先随温度、湿度的升高而增加，但是当温湿度超过一定限度时，VOCs释放总量会发生了明显的降低。随着 $\\mathrm { C O } _ { 2 }$ 浓度的升高，碰碰香VOCs的释放总量表现降低的趋势，释放量在 $5 0 0 \\ \\mu \\mathrm { m o l { \\cdot } m o l { \\cdot } l \\ C O _ { 2 } }$ 浓度下最高， $3 ~ 5 0 0 ~ { \\mu \\mathrm { m o l { \\cdot } m o l { \\cdot } l } }$ 时最低,$4 5 0 0 \\mu \\mathrm { m o l { \\cdot } m o l { \\cdot } l }$ 处表现出明显的升高趋势，但仍低于 ${ 5 0 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m o l } ^ { - 1 } }$ 下VOCs的释放量。直观分析可以看出，促使碰碰香VOCs释放的较佳环境条件为 A2B2C2D1，即黑暗、温度$2 5 \\mathrm { ~ \\textdegree C }$ 、湿度 $60 \\%$ ， $\\mathrm { C O } _ { 2 }$ 浓度 ${ 5 0 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m o l } ^ { - 1 } }$ ，碰碰香VOCs 释放总量可达到 $8 6 . 2 3 ~ { \\mu \\mathrm { g \\cdot L ^ { - 1 } \\cdot k g ^ { - 1 } } }$ 即每千克碰碰香植物释放到每升空气中的挥发物质量为 $8 6 . 2 3 ~ \\mu \\mathrm { g }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同环境条件下碰碰香植株释放的VOCs成分差异较大（表3）。在黑暗条件下，大多数实验组VOCs中含量最多的物质均为d-柠檬烯，且部分处理组的柠檬烯含量超过了 $50 \\%$ （组2、组4、组5、组17），推测可能在黑暗条件下碰碰香VOCs中d-柠檬烯的合成与释放较为稳定。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/37fe85270e55129089fa4546d7526594e5719c5c6b798d9278cd195d89b9067f.jpg",
+        "table_caption": [
+            "表2不同环境对碰碰香VOCs释放总含量影响的正交试验结果 Table 2 Results of mixed horizontal orthogonal test on the total components in VOCs released by "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">Plectranthushadiensisvar.tomentosus</td></tr><tr><td></td><td>A 光照条件</td><td>B 温度</td><td>C</td><td>D</td><td>VOCs总含量</td></tr><tr><td rowspan=\"2\">处理 Treatment</td><td></td><td></td><td>湿度</td><td>CO2浓度</td><td>Total VOCs release</td></tr><tr><td>Liton</td><td>TempeCature</td><td>Humidity</td><td>CO contemortion</td><td></td></tr><tr><td>1</td><td>光照Light</td><td>20</td><td>40</td><td>500</td><td>8.10</td></tr><tr><td>2</td><td>黑暗Dark</td><td>25</td><td>60</td><td>500</td><td>86.23</td></tr><tr><td>3</td><td>光照Light</td><td>20</td><td>60</td><td>1 500</td><td>11.71</td></tr><tr><td>4</td><td>黑暗Dark</td><td>25</td><td>80</td><td>1 500</td><td>58.84</td></tr><tr><td>5</td><td>黑暗Dark</td><td>20</td><td>80</td><td>2 500</td><td>37.75</td></tr><tr><td>6</td><td>光照Light</td><td>25</td><td>40</td><td>2 500</td><td>39.73</td></tr><tr><td>7</td><td>光照Light</td><td>30</td><td>80</td><td>3 500</td><td>4.16</td></tr><tr><td>8</td><td>黑暗 Dark</td><td>30</td><td>40</td><td>3 500</td><td>10.34</td></tr><tr><td>9</td><td>光照Light</td><td>30</td><td>60</td><td>4 500</td><td>7.79</td></tr><tr><td>10</td><td>黑暗Dark</td><td>20</td><td>80</td><td>4 500</td><td>33.64</td></tr><tr><td>11</td><td>黑暗Dark</td><td>30</td><td>80</td><td>500</td><td>37.15</td></tr><tr><td>12</td><td>光照Light</td><td>30</td><td>40</td><td>1500</td><td>6.22</td></tr><tr><td>13</td><td>黑暗Dark</td><td>30</td><td>60</td><td>2 500</td><td>11.75</td></tr><tr><td>14</td><td>光照Light</td><td>25</td><td>80</td><td>3 500</td><td>5.23</td></tr><tr><td>15</td><td>光照Light</td><td>25</td><td>40</td><td>4 500</td><td>26.67</td></tr><tr><td>16</td><td>黑暗Dark</td><td>20</td><td>40</td><td>2 500</td><td>8.48</td></tr><tr><td>17</td><td>黑暗Dark</td><td>20</td><td>60</td><td>3 500</td><td>15.83</td></tr><tr><td>18</td><td>光照Light</td><td>25</td><td>60</td><td>500</td><td>70.38</td></tr><tr><td>I</td><td>179.98</td><td>115.52</td><td>99.54</td><td>201.86</td><td>I+II+III+IV+V=</td></tr><tr><td>I</td><td>300.03</td><td>287.07</td><td>203.70</td><td>76.77</td><td>480.00</td></tr><tr><td>IⅢI</td><td></td><td>77.41</td><td>176.77</td><td>97.71</td><td></td></tr><tr><td>IV</td><td></td><td></td><td></td><td>35.56</td><td></td></tr><tr><td>V</td><td></td><td></td><td></td><td>68.10</td><td></td></tr><tr><td>K1</td><td>20.00</td><td>19.25</td><td>16.59</td><td>50.46</td><td></td></tr><tr><td>K2</td><td>33.34</td><td>47.85</td><td>33.95</td><td>25.59</td><td></td></tr><tr><td>K3</td><td></td><td>12.90</td><td>29.46</td><td>24.43</td><td></td></tr><tr><td>K4</td><td></td><td></td><td></td><td>8.89</td><td></td></tr><tr><td>K5</td><td></td><td></td><td></td><td>22.70</td><td></td></tr><tr><td>Max</td><td>33.34</td><td>47.85</td><td>33.95</td><td>50.46</td><td></td></tr><tr><td>Min</td><td>20.00</td><td>12.90</td><td>16.59</td><td>8.89</td><td></td></tr><tr><td>R</td><td>13.34</td><td>34.94</td><td>17.36</td><td>41.57</td><td></td></tr><tr><td>因素主次</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Primard and</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">D>B>C>A</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td colspan=\"2\"></td></tr><tr><td>factors 最优方案</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Optimal</td><td>A1/A2</td><td>B2</td><td>C2</td><td>D1</td><td></td></tr><tr><td>scheme</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A.VOCs释放总含量；B.VOCs中的有效活性成分含量。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d027ee555f71c5ecb65fe629bf57d493f0a5fa10ca53b108022984cd9390832.jpg",
+        "img_caption": [
+            "图2各因水平对碰碰香植株VOCs释放量的影响趋势"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A.Total release of VOCs；B.Content of effectively active components released in VOCs. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Influence trend of each factor on the VOCs released by Plectranthus hadiensis var. tomentosus ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2碰碰香VOCs中有效活性成分含量的变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利用相关数据库，结合文献(Zhang&Yao,2019)预测筛选出抗焦虑抑郁或镇静催眠的有效活性成分，得到碰碰香VOCs中与身心健康相关的41种有效活性成分（表4）。在筛选得到的有效活性成分中，多数为既可以缓解失眠症状亦可以缓解焦虑抑郁情绪的单萜类或倍半萜类物质，如含氧单萜烯（ $\\scriptstyle { \\mathfrak { a } } .$ -松油醇，芳樟醇等），单环单萜烯（d-柠檬烯，伞花烃等）等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "碰碰香VOCs中有效活性成分含量的变化与总含量变化趋势总体相似（表5，图2：B)，黑暗条件下有效活性成分的释放量要高于有光照条件。各环境因素的极差 $\\mathrm { R _ { D } { > } R _ { B } { > } R _ { C } { > } R _ { A } }$ 说明 $\\mathrm { C O } _ { 2 }$ 浓度对VOCs中的活性成分合成和释放影响最大。直观分析得出，在黑暗、温度$2 5 \\mathrm { ~ \\textdegree C }$ 、湿度 $60 \\%$ 、 $\\mathrm { C O } _ { 2 }$ 浓度 ${ 5 0 0 \\ \\mathrm { \\textmu m o l { \\cdot } m o l { \\cdot } l } }$ 环境下，碰碰香植株释放的VOCs中有效活性成分含量最高，为 $7 8 . 0 3 ~ { \\mu \\mathrm { g } } { \\cdot \\mathrm { L } ^ { - 1 } \\cdot \\mathrm { k g } ^ { - 1 } }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2a6bc944639909b98caacb71f293b845e572bdc38c905f7396e94597f92b5e5.jpg",
+        "table_caption": [
+            "表3 不同环境条件下碰碰香植株释放的VOCs中含量前三的成分及其百分含量abl3Coptsdgofisdttussisosdtaldio"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理 Treatment</td><td colspan=\"6\">各组含量前三的成分及其百分含量 Percentages of the top three components in each group</td></tr><tr><td>化合物Compound</td><td>百分含量 Percentage （%）</td><td>化合物Compound</td><td>百分含量 Percentage（%）</td><td>化合物Compound</td><td>百分含量 Percentage（%）</td></tr><tr><td>1</td><td>肉桂烯 Styrene</td><td>6.67</td><td>对伞花烃 p-Cymene</td><td>5.16</td><td>顺式-对-薄荷二烯醇 p-mentha-2,8-dien-1-ol</td><td>4.39</td></tr><tr><td>2</td><td>d-柠檬烯 d-Limonene</td><td>55.67</td><td>萜品油烯 Terpinolene</td><td>5.98</td><td>芳樟醇 Linalool</td><td>4.72</td></tr><tr><td>3</td><td>桧烯 Sabinene</td><td>9.21</td><td>2-乙基己醇 1-Hexanol,2-ethyl-</td><td>8.36</td><td>β-蒎烯 β-Pinene</td><td>6.32</td></tr><tr><td>4</td><td>d-柠檬烯 d-Limonene</td><td>53.55</td><td>桧烯 Sabinene</td><td>6.39</td><td>β-蒎烯 β-Pinene</td><td>4.80</td></tr><tr><td>5</td><td>d-柠檬烯 d-Limonene</td><td>53.60</td><td>桧烯 Sabinene</td><td>7.41</td><td>4-蕾烯 4-Carene</td><td>6.60</td></tr><tr><td>6</td><td>正癸醛 Decanal</td><td>11.91</td><td>萜品油烯 Terpinolene</td><td>8.57</td><td>芳樟醇 Linalool</td><td>8.54</td></tr><tr><td>7</td><td>萜品油烯 Terpinolene</td><td>11.12</td><td>芳樟醇 Linalool</td><td>9.62</td><td>4-蕾烯 4-Carene</td><td>8.04</td></tr><tr><td>8</td><td>桉叶油醇 Eucalyptol</td><td>6.71</td><td>芳樟醇 Linalool</td><td>5.97</td><td>左旋乙酸冰片酯 (-)-Bornyl acetate</td><td>5.85</td></tr><tr><td>9</td><td>丁基癸醚 Butyl decyl ether</td><td>15.14</td><td>d-柠檬烯 d-Limonene</td><td>13.65</td><td>4-蕾烯 4-Carene</td><td>7.50</td></tr><tr><td>10</td><td>d-柠檬烯 d-Limonene</td><td>29.41</td><td>月桂酸 Dodecanoic acid</td><td>5.79</td><td>4-蕾烯 4-Carene</td><td>4.89</td></tr><tr><td>11</td><td>d-柠檬烯 d-Limonene</td><td>41.80</td><td>α-蒎烯 α-Pinene</td><td>5.45</td><td>桧烯 Sabinene</td><td>5.31</td></tr><tr><td>12</td><td>4-蕾烯 4-Carene</td><td>11.49</td><td>乙酸乙酯 Ethyl acetate</td><td>10.72</td><td>左旋乙酸冰片酯 (-)-Bornylacetate</td><td>8.29</td></tr><tr><td>13</td><td>d-柠檬烯 d-Limonene</td><td>13.99</td><td>4-蕾烯 4-Carene</td><td>7.80</td><td>左旋乙酸冰片酯 (-)-Bornylacetate</td><td>6.29</td></tr><tr><td>14</td><td>月桂酸 Dodecanoic acid 2,2,4-三甲基戊二醇异丁酯</td><td>6.33</td><td>芳樟醇 Linalool</td><td>6.06</td><td>乙酸乙酯 Ethyl acetate</td><td>5.95</td></tr><tr><td>15</td><td>2,2,4-Trimethyl-1,3-pentand</td><td>21.95</td><td>月桂酸 Dodecanoic acid</td><td>5.68</td><td>反式-2,8-1-薄荷脑醇 trans-p-Mentha-2,8-dienol</td><td>3.81</td></tr><tr><td>16</td><td>iol diisobutyrate d-柠檬烯 d-Limonene</td><td>11.49</td><td>4-蕾烯 4-Carene</td><td>8.98</td><td>2-乙基已醇 1-Hexanol,2-ethyl-</td><td>7.25</td></tr><tr><td>17</td><td>d-柠檬烯 d-Limonene</td><td>57.29</td><td>桧烯 Sabinene</td><td>6.84</td><td>萜品油烯 Terpinolene</td><td>5.04</td></tr><tr><td>18</td><td>芳樟醇 Linalool</td><td>8.52</td><td>驱蛔萜 Ascaridole</td><td>6.84</td><td>柠檬烯 Limonene</td><td>5.85</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/db5969bb201b287c687bd34c0beaef11edc1e4d2c86b0d36c7ac1de408716787.jpg",
+        "table_caption": [
+            "表4应用网络药理学方法预测和筛选出碰碰香植株释放的VOCs中有效活性成分 Table4PredictioadsegofteectielyctivecomonntsiOseeasdylectratushdiesismentoususigetok "
+        ],
+        "table_footnote": [
+            "注：预测筛选依据 TCMSP中药系统药理学数据库、Pubchem 有机小分子生物活性数据库、TGSC 香料信息数据库。Note：Predictionand screening of theefectively active components accordingto databaseofTCMSP,PubChemandTGSC."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">pharmacologymethod 对应症状</td></tr><tr><td>Related diseases Depression</td><td>中文名 Chinese name 1</td><td></td><td>中文名 Chinese name</td><td></td><td>中文名 Chinese name</td><td></td><td>中文名 Chinese name</td></tr><tr><td></td><td>顺式-对-薄荷二烯醇</td><td>邻伞花烃 o-Cymol</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"10\">失眠、焦虑 Insomnia, anxiety</td><td></td><td>p-Mentha-2,8-dien-1-ol</td><td>9</td><td>桧烯 Sabinene</td><td>17</td><td>驱蛔萜 Ascaridole</td><td>25 衣兰烯 Ylangene</td></tr><tr><td>2</td><td>萜品油烯 Terpinolene</td><td>10</td><td>莰烯 Camphene</td><td>18</td><td>β-瑟林烯 β-Selinene</td><td>26t-杜松醇 t-Cadinol</td></tr><tr><td>3</td><td>2,6,10-三甲基十二烷 Farmesane</td><td>11</td><td>4-蕾烯 4-Carene</td><td>19</td><td>右旋香芹酮d-Carvone</td><td>27 B-Pheandrene</td></tr><tr><td>4 芳樟醇 Linalool</td><td></td><td>12</td><td>月桂烯 β-Myrcene</td><td>20</td><td>乙酸龙脑酯 Bornyl acetate</td><td>28 桃醛y-Undecalactone</td></tr><tr><td>5</td><td>α-华澄茄油萜 α-Cubebene</td><td>13</td><td>长叶烯 Longifolene</td><td>21</td><td>d-柠檬烯 d-Limonene</td><td>29 环己酮Cyclohexanone</td></tr><tr><td></td><td>6对薄荷-1,3,8-三烯 1,3,8-p-Menthatriene</td><td>14</td><td>γ-萜品烯 y-Terpinene</td><td>22 α-古巴烯 α-Copaene</td><td></td><td></td></tr><tr><td>7</td><td>(+)-二氢香芹酮 Dihydrocarvone</td><td>15</td><td>桉叶油醇 Eucalyptol</td><td>23 马鞭草烯酮Verbenone</td><td></td><td></td></tr><tr><td>8</td><td>乙酸小茴香酯 Fenchyl acetate</td><td>16</td><td>α-松油醇α-Terpineol</td><td>24</td><td>(-)-香芹酮 (-)-Carvone</td><td></td></tr><tr><td>失眠、焦虑、 1</td><td>左旋乙酸冰片酯 (-)-Bornyl acetate</td><td>5</td><td>石竹烯 Caryophyllene</td><td>9</td><td>α-水芹烯 α-Phellandrene</td><td></td></tr><tr><td>2</td><td>(1R,5R)-rel-香芹醇 cis-Carveol</td><td>6</td><td>异丁香烯 Isocaryophyllene</td><td>10</td><td>α-律草烯 α-Humulene</td><td></td></tr><tr><td>抑郁 insomnia,</td><td>3 香芹酮 Carvone</td><td></td><td>7</td><td>冰片 endo-Borneol</td><td>大牛儿烯Germacrene 11</td><td></td><td></td></tr><tr><td>anxiety, depression</td><td>4 γ-杜松烯 y-Cadinene</td><td></td><td>8</td><td>β-蒎烯 β-Pinene</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/813cc96a289c3384056292c8d0272ba6a7860963370b78dfb845c4eb67cc2411.jpg",
+        "table_caption": [
+            "表5碰碰香植株释放的VOCs中有效活性成分含量正交试验结果 Table 5 Results of mixed horizontal orthogonal test on the effectively active components in "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">ranthushadiensisVar.tomentosus</td></tr><tr><td>处理</td><td>A 光照条件</td><td>B 温度</td><td>C 湿度</td><td>D CO2浓度</td><td>有效活性成分释放量</td><td>Effectively active</td></tr><tr><td>Treatment</td><td>Light condition</td><td>Temperature (℃)</td><td>Humidity (%)</td><td>CO2 concentration (umol:mol-1)</td><td></td><td>components release （μg·L-1·kg-1)</td></tr><tr><td>1</td><td>光照Light</td><td>20</td><td>40</td><td></td><td>500</td><td>2.46</td></tr><tr><td>2</td><td>黑暗Dark</td><td>25</td><td>60</td><td></td><td>500</td><td>78.03</td></tr><tr><td>3</td><td>光照Light</td><td>20</td><td>60</td><td></td><td>1 500</td><td>6.10</td></tr><tr><td>4</td><td>黑暗Dark</td><td>25</td><td>80</td><td></td><td>1 500</td><td>50.39</td></tr><tr><td>5</td><td>黑暗Dark</td><td>20</td><td>80</td><td></td><td>2 500</td><td>31.77</td></tr><tr><td>6</td><td>光照Light</td><td>25</td><td>40</td><td></td><td>2 500</td><td>21.99</td></tr><tr><td>7</td><td>光照Light</td><td>30</td><td>80</td><td></td><td>3 500</td><td>2.53</td></tr><tr><td>8</td><td>黑暗Dark</td><td>30</td><td>40</td><td></td><td>3 500</td><td>4.69</td></tr><tr><td>9</td><td>光照Light</td><td>30</td><td>60</td><td></td><td>4 500</td><td>3.80</td></tr><tr><td>10</td><td>黑暗Dark</td><td>20</td><td>80</td><td></td><td>4 500</td><td>21.04</td></tr><tr><td>11</td><td>黑暗Dark</td><td>30</td><td>80</td><td></td><td>500</td><td>27.10</td></tr><tr><td>12</td><td>光照Light</td><td>30</td><td>40</td><td></td><td>1 500</td><td>3.06</td></tr><tr><td>13</td><td>黑暗Dark</td><td>30</td><td>60</td><td></td><td>2 500</td><td>7.13</td></tr><tr><td>14</td><td>光照Light 光照Light</td><td>25</td><td>80</td><td></td><td>3500</td><td>1.99</td></tr><tr><td>15</td><td>黑暗Dark</td><td>25</td><td>40 40</td><td></td><td>4 500</td><td>7.10</td></tr><tr><td>16</td><td></td><td>20</td><td></td><td></td><td>2 500</td><td>4.14</td></tr><tr><td>17</td><td>黑暗Dark</td><td>20</td><td>60</td><td></td><td>3 500</td><td>14.05</td></tr><tr><td>18</td><td>光照Light</td><td>25</td><td>60</td><td></td><td>500</td><td>43.01</td></tr><tr><td>I</td><td>92.04 238.34</td><td>79.56</td><td>43.45</td><td></td><td>150.60</td><td>I+II+III+IV+V=</td></tr><tr><td>II</td><td></td><td>202.51</td><td>152.12</td><td></td><td>59.54</td><td>330.38</td></tr><tr><td>IⅢI</td><td></td><td>48.31</td><td>134.82</td><td></td><td>65.04</td><td></td></tr><tr><td>IV</td><td></td><td></td><td></td><td></td><td>23.25</td><td></td></tr><tr><td>V</td><td></td><td></td><td></td><td></td><td>31.94</td><td></td></tr><tr><td>K1</td><td>10.23</td><td>13.26</td><td>7.24</td><td></td><td>37.65</td><td></td></tr><tr><td>K2</td><td>26.48</td><td>33.75</td><td>25.35</td><td></td><td>19.85</td><td></td></tr><tr><td>K3</td><td></td><td>8.05</td><td>22.47</td><td></td><td>16.26</td><td></td></tr><tr><td>K4</td><td></td><td></td><td></td><td></td><td>5.81</td><td></td></tr><tr><td>K5</td><td></td><td></td><td></td><td></td><td>10.65</td><td></td></tr><tr><td>Max</td><td>26.48</td><td>33.75</td><td>25.35</td><td></td><td>37.65</td><td></td></tr><tr><td>Min</td><td>10.23</td><td>8.05</td><td>7.24</td><td></td><td>5.81</td><td></td></tr><tr><td>R</td><td>16.26</td><td>25.70</td><td></td><td>18.11</td><td>31.84</td><td></td></tr><tr><td>因素主次 Primary and</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> secondary</td><td></td><td></td><td>D>B>C>A</td><td></td><td></td><td></td></tr><tr><td>factors 最优方案</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Optimal</td><td>A1/A2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>B2</td><td>C2</td><td></td><td>D1</td><td></td></tr><tr><td>scheme</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "常见芳香盆栽碰碰香的香气广受人们喜爱(荆小洁等,2020)，具有改善情绪和睡眠的巨大应用潜力(赵小珍等,2016; Zhang&Yao,2019)。但是，针对不同室内的环境条件，碰碰香VOCs 的释放量可能存在较大变化(李洪远等,2015)。本研究从碰碰香VOCs组分及其释放量变化的角度，探究了温度、湿度、 $\\mathrm { C O } _ { 2 }$ 浓度及光照条件等典型室内环境对其VOCs释放的影响。结果发现碰碰香VOCs的释放对 $\\mathrm { C O } _ { 2 }$ 浓度和温度较为敏感，而对湿度变化和有无光照的敏感度较低。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "大气中 $\\mathrm { C O } _ { 2 }$ 浓度的升高会一定程度上抑制碰碰香光合作用速率和VOCs的释放。推测高浓度 $\\mathrm { C O } _ { 2 }$ 抑制碰碰香VOCs释放可能归因于两方面：一方面是萜类物质合成之后需储存于特定的分泌器官中，此类器官的分化和维护的代谢成本较大(Staudt et al.,2001)；另一方面，高浓度 $\\mathrm { C O } _ { 2 }$ 提升了光合速率，初级代谢增加，引起次生代谢物的糖基化和氧化，减少了碰碰香萜类化合物的挥发性（Yazaki etal.,2017）。碰碰香VOCs中的单萜物质芳樟醇，经CytP450s氧化为8-羟代，8-氧代或8-羧基芳樟醇，从而挥发性降低，以非挥发性物质的形式积累在叶片中（Yazaki etal.,2017）。此外，糖基化和氧化反应可能导致亲水性和分子质量的增加，同时引起叶片干物质密度增加，含水率降低等变化。 $\\mathrm { C O } _ { 2 }$ 浓度过高甚至可以改变叶绿体的超微结构，造成植物叶片损伤(Velikova etal.,2009)。此外，室内 $\\mathrm { C O } _ { 2 }$ 浓度升高也会对情绪和睡眠造成负面影响，显著降低睡眠质量(Zhang etal.,2021)。因此，室内保持较低水平的$\\mathrm { C O } _ { 2 }$ 浓度既有利于碰碰香VOCs的稳定释放，亦能维持具有较高人体舒适感的活动环境。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "温度是 $\\mathrm { C O } _ { 2 }$ 浓度之外另一个影响碰碰香VOCs释放的重要环境因素。碰碰香VOCs主要成分为萜烯类物质，其可能是由萜烯合酶超家族(the terpene synthase super-family,TPSs)进行催化合成；TPSs酶将顺式或反式异戊二烯二磷酸酯转化为多种单萜或倍半萜（Muchlinski etal.,2019），然后释放到空气中。碰碰香VOCs中β-蒎烯、月桂烯、柠檬烯和 $\\beta \\cdot$ -水芹烯等萜类物质明显依赖于温度水平（Kopaczyketal.,2020），可能是由于低温或高温直接影响到TPSs酶的活性，即随温度上升VOCs合成和释放速率逐渐增加；当温度超过一定限度之后，高温降低 TPSs 酶的活性，碰碰香VOCs合成和释放速率也随之降低(李洪远等,2015)，甚至持续的高温可能对TPSs 酶造成不可逆转的结构损伤。温度还可能通过提高碰碰香萜烯的蒸气压和降低排放途径的阻力，进而提高大多数萜烯物质的排放速率(Llusia etal.,2012）。此外，低温还可能通过影响碰碰香初级代谢，导致次级代谢过程底物不足，从而影响VOCs 合成这一次级代谢过程（Kopaczyk etal.,2020）。因此，碰碰香植株在实际的应用中，低温或过于闷热的环境均可能通过降低碰碰香VOCs的释放，进而降低其园艺干预效果，应尽量保持室内温度稳定适宜，避免高温对碰碰香植物可能造成的损伤。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在本研究中，碰碰香VOCs的释放对湿度变化的响应敏感度较低，这可能是由于碰碰香VOCs 储存在如油腺和腺毛等特殊类型的组织中，而环境中空气相对湿度主要影响碰碰香叶片气孔的开闭(李佳佳等，2020)，而对储存VOCs的油腺无影响(Yazakietal.,2017)。有无光照是碰碰香VOCs释放响应不敏感的另外一个环境变化因素。推测这可能是因为其VOCs的成分多数为单萜或者倍半萜类物质。而碰碰香叶片内萜类合成酶的活性受光照强度的影响较小(李洪远等,2015)，有无光照通常不影响碰碰香VOCs 中倍半萜物质的释放(Leung et al.,2010)，因此在本研究中碰碰香植株VOCs的释放对有无光照的响应较小。此外，在黑暗条件下碰碰香VOCs中含量最高的成分基本稳定为一种具有镇静催眠作用的物质d-柠檬烯(Luet al.,2020），推测在黑暗条件下d-柠檬烯的合成与释放较为稳定，可能比较适合应用于夜晚室内环境改善睡眠，高效地发挥其对身心健康干预效用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在室内环境中，影响碰碰香植株VOCs释放的关键环境因素为 $\\mathrm { C O } _ { 2 }$ 浓度和温度。碰碰香植株应用于构建亲生物环境，改善人员身心健康时，最佳的环境条件为黑暗、 $\\mathrm { C O } _ { 2 }$ 浓度${ 5 0 0 \\mu \\mathrm { m o l } { \\cdot } \\mathrm { m o l } ^ { - 1 } }$ 、温度 $2 5 \\mathrm { ~ \\textdegree C }$ 和湿度 $60 \\%$ 。此环境条件下碰碰香植株VOCs释放量较高且稳定，其释放总量为 $8 6 . 2 3 ~ { \\mu \\mathrm { g \\cdot L ^ { - 1 } \\cdot k g ^ { - 1 } } }$ ，活性成分含量为 $7 8 . 0 3 ~ { \\mu \\mathrm { g } } { \\cdot \\mathrm { L } ^ { - 1 } { \\cdot } } \\mathrm { k g } ^ { - 1 }$ 。此项研究为碰碰香植株应用于室内亲生物构建的环境控制提供了科学依据，同时补充了芳香类植物VOCs释放的理论知识。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：   \nDAUSSY J, STAUDT M, 2020. Do future climate conditions change volatile organic compound emissions from Artemisia annua? Elevated $\\mathrm { C O } _ { 2 }$ and temperature modulate actual VOC emission rate but not its emission capacity[J].Atmos Environ,7: 100082.   \nHOLOPAINEN JK, GERSHENZON J, 2010. Multiple stress factors and the emission of plant VOCs[J]. Trends Plant Sci, 15(3): 176-184.   \nJASONI R, KANE C, GREEN C, et al., 2018.Altered leaf and root emissions from onion (Allium cepa L.) grown under elevated $\\mathrm { C O } _ { 2 }$ conditions[J]. Environ Exp Bot, 51(3): 273-280.   \nJI CF,XU YZ, LI L, et al., 2019.Monitoring and analyzing of carbon dioxide concentration in classrooms of a university in Xi'an[J].Build Energ Environ,38(3): 28-31.[姬长发，徐逸哲，李 亮，等，2019.西安某高校教室内二氧化碳浓度监测分析[J]．建筑热能通风空调，38(3): 28-31.]   \nJING XJ, ZHAO YH,LI H, et al.，2020. Effects of VOCs from the stems and leaves of Plectranthus hadiensis var. tomentosus and Galium odoratum on mouse behavior [J]. J NW For Univ,35(1):189-195.[荆小洁，赵玉花，李辉，等，2020.碰碰香，车轴草茎叶挥发物对小白 鼠自发行为的影响[J]．西北林学院学报，35(1):189-195.]   \nKOPACZYK JM, WARGULA J, JELONEK T,2020. The variability of terpenes in conifers under developmental and environmental stimuli[J]. Environ Exp Bot, 180: 104197.   \nLEUNG DYC, WONG P, CHEUNG BKH, et al., 2010. Improved land cover and emission factors for modeling biogenic volatile organic compounds emissions from Hong Kong[J]. Atmos Environ, 44(11): 1456-1468.   \nLI HY, WANG F, XIONG SG, et al., 2015. Research review on the role and the influential factors of the biogenic volatile organic compounds[J]. J Saf Environ,15(2): 292-296.[李洪远，王芳，熊 善高，等，2015．植物挥发性有机物的作用与释放影响因素研究进展[J].安全与环境学报， 15(2): 292-296.]   \nLI JJ, YANG ZQ, WEI TT, et al., 2020. Effect of high temperature and different air humidity on stomatal characteristics for tomato leaves[J].Northern Hortic,(6): 23-31.[李佳佳，杨再强，韦婷 婷，等，2020．高温与空气湿度交互对番茄叶片气孔特性的影响[J]．北方园艺,(6):23-31.] LI L,GUENTHER A B, XIE S,et al.,2019.Evaluation of semi-static enclosure technique for rapid surveys of biogenic volatile organic compounds (BVOCs) emission measurements[J]. Atmos Environ. 212: 1-5.   \nLI YY,2019. The main composition and affecting factors of aroma volatiles in flowers[J]. Northerm Hortic,(6):184-187.[李莹莹.2012.花香挥发物的主要成分及其影响因素[J]．北方 园艺，(6): 184-187.]   \nLLUSIA J, PENUELAS J, SECO R, et al., 2012. Seasonal changes in the daily emission rates of terpenes by Quercus ilex and the atmospheric concentrations of terpenes in the natural park of Montseny,NE Spain [J]. JAtmos Chem, 69(3): 215-230.   \nLU ZG, WANG JZ, QU LN, et al., 2020. Reactive mesoporous silica nanoparticles loaded with limonene for improving physical and mental health of mice at simulated microgravity condition[J]. Bioact mater, 5(4): 1127-1137.   \nMAZLAN SM,ABAS A, 2021. Systematic review on ecosystem services for indoor environment towards livable human indoor environment[J]. Fresen Environ Bull, 30(4A): 4177-4188.   \nMUCHLINSKI A，CHEN X,LOVELL JT,et al.，2019. Biosynthesis and emission of stress-induced volatile terpenes in roots and leaves of switchgrass (Panicum virgatum L.)[J]. Front Plant Sc1, I0: 1144.   \nRAJKUMAR RP, 2020. COVID-19 and mental health: A review of the existing literature[J]. Asian JPsychiatr, 52:102066.   \nSTAUDT M, JOFFRE R,RAMBAL S,et al.， 2001.Effect of elevated $\\mathrm { C O } _ { 2 }$ on monoterpene emission of young Quercus ilex trees and its relation to structural and ecophysiological parameters[J]. Tree Physiol, 21(7): 437-445.   \nTAMERIUS JD, PERZANOWSKI MS, ACOSTA LM, et al., 2013. Socioeconomic and outdoor meteorological determinants of indoor temperature and humidity in New York City dwelings[J]. Weather Clim Soc, 5(2): 168-179.   \nVELIKOVA V， TSONEV T，BARTA C，et al.，2009.BVOC emissons，photosynthetic characteristics and changes in chloroplast ultrastructure of Platanus orientalis L. exposed to elevated $\\mathrm { C O } _ { 2 }$ and high temperature[J]. Environ Poll, 157(10): 2629-2637.   \nWANG Q, REN BB, ZHANG ZX, 2019. Influence mechanism of volatiles release from garden plants[J].Rural Pract Technol,(8):87-88.[王茜，任彬彬，张中霞，2019．园林植物挥发物释放 的影响机理[J]．农村实用技术,(8):87-88.]   \nWU K, XIONG KS， SU C, et al.， 2021. Mixed horizontal orthogonal test of composite air separation technology[J].Ind Technol Innov,8(2):125-131.[武凯，熊开胜，苏囅，等，2021．复 合式风分技术的混合水平正交试验[J]．工业技术创新，2021，8(2):125-131.]   \nYAZAKI K,ARIMURA G, OHNISHI T, 2017. 'Hidden' terpenoids in plants: Their biosynthesis, localization and ecological roles[J]. Plant Cell Physiol, 58(10): 1615-1621.   \nZHANG JY, WANG LJ, 2020. Cultivation and management techniques of poted Plectranthus tomentosa in Northeast China[J].Jilin Veg,(2):77.[张玉晶，王连君，2020．东北地区盆栽碰碰 香的栽培管理技术[J]．吉林蔬菜，(2)：77.]   \nZHANG N, YAO L, 2019.Anxiolytic effect of essential oils and their constituents: A review[J]. J Agr Food Chem, 67(50): 13790-13808.   \nZHANG X, LUO G, XIE J, et al., 2021. Associations of bedroom air temperature and $\\mathrm { C O } _ { 2 }$ （20 concentration with subjective perceptions and sleep quality during transition seasons[J]. Indoor Air, 31(4): 1004-1017.   \nZHANG X, QI SY, SI QG, et al., 2019. The influence of pretreatment methods on the volatile components in Plectranthus tomentosa[J]. J Shenyang Agr Univ, 50(5): 621-627.[张旋，祁姝旖, 斯琴格日乐，等,2019.前处理方法对碰碰香挥发性成分的影响[J]．沈阳农业大学学报，50(5)： 621-627.]   \nZHAO XZ,LI C, CUI XD,et al.， 2016. Chemical composition and antimicrobial activity of Plectranthus tomentosa essential oil[J].Nat Prod Res Dev,28(3):377-381.[赵小珍，李晨，崔晓 东，等，2016.绒毛香茶菜精油化学成分的GC-MS 分析及其抑菌活性鉴定[J]．天然产物研究 与开发，28(3):377-381.]   \nZHONG Y, ZHENG Q,HU YP, et al.， 2019. Sedative and hypnotic effects of inhalation of compound anshen essential oil and GC-MS analysis of chemical constituents[J]. Nat Prod Res Dev, 31(9):1528-1536.[钟钰，郑琴，胡鹏翼，等，2019.复方安神精油吸入给药的镇静催眠作用 及化学成分的GC-MS分析[J]．天然产物研究与开发，31(9):1528-1536.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

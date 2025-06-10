@@ -1,0 +1,176 @@
+# 大肠杆菌细胞裂解系统的构建及其在真菌毒素降解酶表达中的应用
+
+赵程程 孙长坡 常晓娇 伍松陵 林振泉\*（国家粮食局科学研究院粮油加工研究所北京100037）
+
+摘要目的：大肠杆菌中分泌表达重组蛋白受限于其分泌效率，为此设计构建大肠杆菌诱导裂解系统以实现胞内重组蛋白的快速高效分泌。方法：利用大肠菌素E7对细胞的裂解能力，构建共表达目标重组蛋白和E7的大肠杆菌细胞裂解系统，使目标重组蛋白在E7表达后得以释放到培养基中。结果：首先以红色荧光蛋白（red fluorescent protein,RFP）为报告基因，在 $\mathsf { p E T 2 8 a ( + ) }$ 载体上构建大肠杆菌素 E7和红色荧光蛋白两个表达盒，通过对比分析IPTG一步诱导和IPTG-阿拉伯糖分步诱导系统蛋白的表达效果，发现分步诱导系统能够更高效的表达并释放目标蛋白到培养基。在IPTG-阿拉伯糖分步诱导裂解系统中表达玉米赤霉烯酮降解酶基因，培养基上清液中检测到玉米赤霉烯酮降解酶有较好的表达量和较高的活性，能够在$3 7 \ \mathrm { { ^ circ C } }$ 反应 $3 0 \mathrm { m i n }$ 的条件下降解约 $5 . 8 ~ \mu \mathrm { g }$ 玉米赤霉烯酮毒素。结论：利用大肠菌素E7成功构建大肠杆菌细胞裂解系统，并且此系统在快速释放胞内表达外源蛋白方面有适用性。
+
+关键词 大肠杆菌 细胞裂解系统 红色荧光蛋白 玉米赤霉烯酮降解酶
+
+# Construction and application of cell lysis systems in the expression of mycotoxin degrading enzyme in Escherichia coli
+
+Abstract Objective:Extracelular production of recombinant proteins in Escherichia coli is limited by the inefficiency of inherent secretion system.An inducible cellysis system was designed and constructed to enhance secretion of intracellular recombinant protein in $E$ .coli.Methods: Considering colicin E7 could promote cell lysis, E.coli cellysis systems were constructed by co-expressing target protein and colicin E7 lysis to release the recombinant proteins to culture medium. Results: A reporter protein (red fluorescent protein，RFP)，as a recombinant protein, was co-expressed with E7 in $E$ ，coli to evaluate the cell lysis systems. Expression of recombinant protein was controlled by T7 promoter. While E7 cassete was controlled by two promoters （T7 promoter and araBAD promoter） which determined the expresson timing of E7 and therefore determined the timing of cellysis. Compared to one-step induction by IPTG, the two-step induction by IPTG and L-arabinose was better for the production and secretion of recombinant proteins.The two-step inducible lysis system was also used to express Zearalenone (ZEN) degrading enzyme,and high enzyme activity was detectable in the culture supernatant samples. The secreted enzyme could degrade about $5 . 8 ~ \mu \mathrm { g }$ ZEN in 30 minutes at $3 7 \ \mathrm { { ^ { \circ } C } }$ . Conclusion: The colicin E7 assisted two-step inducible cell lysis system could be potential for expression of recombinant proteins and their secretion to extracellular in $E$ coli.
+
+Key words E. coli Cell lysis system Red fluorescent protein Zearalenone degrading enzyme
+
+大肠杆菌是广泛用于蛋白生物合成的微生物表达宿主。与其他原核表达系统相比，大肠杆菌具有遗传背景清楚、繁殖快、蛋白表达量高、成本低及适用范围广等优点[1]，但是大肠杆菌胞内表达重组蛋白会提高细胞破碎分离成本。目前细菌细胞的破碎方法有多种，包括高压匀浆破碎、玻璃珠研磨、超声破碎等机械法和洗涤剂破碎、碱裂解、酶溶壁等非机械法[2]。然而，机械法破碎过程通常伴随着产热，高温会使目的蛋白失活；非机械法破碎最大的问题是成本高。
+
+为了解决大肠杆菌胞内表达及细胞破碎带来的问题，重组蛋白分泌表达策略得到广泛的关注。革兰氏阴性菌有5种天然的分泌系统，常用于大肠杆菌分泌表达外源蛋白的分泌系统为I型和ⅡI型[3]，大肠杆菌α溶血素（HlyA）分泌系统是最典型的I型分泌系统[4-5]，但是此分泌系统未剪切信号序列可能影响蛋白活性，且受竞争性蛋白表达影响、重组蛋白表达量较低。ⅡI型分泌途径是由细胞周质转运介导胞外分泌的两步过程，此分泌途径复杂且分泌效率低[]。
+
+许多大肠杆菌和其他来源的信号肽已经成功用于重组蛋白在大肠杆菌中的分泌表达[7-8]。大肠杆菌自身的信号肽最为常用，外膜蛋白（如外膜蛋白OmpA和OmpF 等[9]）的信号肽可帮助与其融合表达的重组蛋白分泌到培养基中，周质蛋白如碱性磷酸酶（PhoA）的信号肽可引导重组蛋白到细胞周质[10]，然后通过表达细菌素释放蛋白（BRP）等将重组蛋白从细胞周质释放到胞外培养基[Il-13]。其他分泌蛋白的信号肽也可在大肠杆菌中成功分泌重组蛋白，如胡萝卜软腐欧文氏果胶酶裂解酶（PelB）信号肽[14]和来源于芽孢杆菌的信号肽[15]。然而，利用信号肽分泌重组蛋白的效率低，且信号肽通用性差，适用范围有限。
+
+在大肠杆菌中构建程序化细胞裂解系统为重组蛋白的分泌表达提供了新思路。该策略不需要给重组蛋白添加信号肽，在宿主中表达促裂解蛋白诱导细胞裂解促使重组蛋白释放到细胞外培养基。Morita 等[16]通过在大肠杆菌中表达T4噬菌体裂解蛋白引起细胞裂解生产 $\beta$ -葡萄糖醛酸苷酶。Yang 等[17]在大肠杆菌中表达温度敏感的 T4裂解酶以释放和回收β-半乳糖苷酶及其他蛋白。Lo等[18]设计构建了一个合成的基因通路使细胞产生密度依赖性的自主调控裂解机制以释放大分子物质，通过整合碳源饥饿型启动子、群体感应调节单元和大肠菌素E7来提取胞内的质粒DNA。大肠菌素E7首先作用于细胞内膜使其损伤后再激活细胞外膜上的磷脂酶 A(OMPLA)造成细胞裂解[19-20]。
+
+本文中，我们在大肠杆菌中构建了一个共表达目标蛋白和大肠菌素 E7的细胞裂解系统，诱导大肠菌素 E7表达以启动细胞裂解将重组蛋白释放到培养基。我们将大肠菌素E7和红色荧光蛋白（RFP）两个表达盒连接到 $\mathrm { p E T } 2 8 \mathrm { a } ( + )$ 载体上，分析比较了T7启动子同时控制大肠菌素 E7和目标蛋白表达的 IPTG一步诱导裂解系统与阿拉伯糖启动子（araBAD promoter）控制大肠菌素E7和T7启动子控制目标蛋白表达的两步诱导裂解系统，结果表明两步诱导系统的目标蛋白表达水平更高。根据结果将两步诱导系统应用于玉米赤霉烯酮降解酶（Zearalenone degrading enzyme,ZENd）生产，并通过检测释放蛋白的表达量与活性验证裂解系统的适用性。
+
+# 1材料与方法
+
+# 1.1菌株、质粒与引物
+
+本研究中所使用的菌株、质粒如表1所示。本研究中用到的引物由金唯智生物科技(北京)有限公司
+
+合成，引物序列如表2所示。
+
+# 表1.本研究中所用菌株和质粒
+
+Table 1.Strains and plasmids used in this study   
+
+<html><body><table><tr><td>Strains and plasmids</td><td>Characteristics</td><td>Source</td></tr><tr><td>E. coli DH5α</td><td>F-; φ80lacZ△M15; △(lacZYA-argF)U169; deoR;</td><td>Lab collection</td></tr><tr><td rowspan="6">E. coli BL21(DE3) pKD46</td><td>recA1; endA1; hsdR17(rk-, mk+); phoA; supE44; λ-;</td><td></td></tr><tr><td>thi1; gyrA96; relA1</td><td></td></tr><tr><td>F-; ompT; hsdSB(rB-, mB-); gal; dcm(DE3)</td><td>Lab collection</td></tr><tr><td>Amp, λ-Red recombinase under araBAD promoter,</td><td>Lab collection</td></tr><tr><td> temperature-conditional replicon</td><td></td></tr><tr><td>Kant, T7lac promoter, His-Tag (N, C) and T7-Tag (I)</td><td>Lab collection</td></tr><tr><td>pET28a(+) pET28a(+)-E7</td><td>pET28a(+) containing E7 gene</td><td>This study</td></tr><tr><td>pET28a(+)-Ara-E7</td><td>colicin E7 under the control of araBAD promoter in</td><td>This study</td></tr><tr><td rowspan="2">pET28a(+)-T7E7</td><td>pET28a(+)-E7</td><td></td></tr><tr><td>pET28a(+) containing a cassette of colicin E7</td><td>This study</td></tr><tr><td rowspan="2">pET28a(+)-T7E7-T7rfp</td><td>controlled by T7 promoter</td><td></td></tr><tr><td>pET28a(+)-T7E7 containing a cassette of rfp controlled</td><td>This study</td></tr><tr><td></td><td>by T7 promoter</td><td></td></tr><tr><td rowspan="2">pET28a(+)-AraE7</td><td> pET28a(+) containing a cassette of colicin E7</td><td>This study</td></tr><tr><td>controlled by araBAD promoter</td><td></td></tr><tr><td>pET28a(+)-AraE7-T7rfp</td><td> pET28a(+)-AraE7 containing a cassette of rfp</td><td></td></tr><tr><td rowspan="2">pET28a(+)-AraE7-T7ZENd</td><td>controlled by T7 promoter</td><td>This study</td></tr><tr><td> pET28a(+)-AraE7containing a cassette of ZENd</td><td>This study</td></tr></table></body></html>
+
+表2.本研究中使用的引物
+
+Table 2.Primers used in this study   
+
+<html><body><table><tr><td>Primers</td><td>Sequences(5'→3")</td><td>Restriction sites</td><td>Target genes</td></tr><tr><td>E7-F</td><td>5'-CATGCCATGGATGAAAAAAATAACAGG-3"</td><td>Nco I</td><td>Colicin E7</td></tr><tr><td>E7-R</td><td>5'-CCGCTCGAGTTACTGCGTTTCCACTCC-3"</td><td>Xho I</td><td>Colicin E7</td></tr><tr><td>PBAD-F</td><td>5'- CACTGATCCGCATGCTTATGAC -3'</td><td>Sph I</td><td>ParaBAD</td></tr><tr><td>PBAD-R</td><td>5'-TCTAGATCTAGATTCCCAAAAAAACGGGTATGGA-3'</td><td> Xba I</td><td>ParaBAD</td></tr><tr><td>rfp-F</td><td>5'-CCGGAATTCATGGCTTCCTCCGAAGACGTTATC-3'</td><td>EcoR I</td><td>rfp</td></tr><tr><td>rfp-R</td><td>5'-ACGCGTCGACTTAAGCACCGGTGGAGTGACGACC-3'</td><td>SalI</td><td>rfp</td></tr></table></body></html>
+
+<html><body><table><tr><td>ZENd-F</td><td>5'-CCGGAATTCATGCGTATCCGTAGCACCATTAG-3'</td><td>EcoR I</td><td>ZENd</td></tr><tr><td>ZENd-R</td><td>5'-ACGCGTCGACTTACAGATATTTCTGGGTAAATTC-3"</td><td>Sal I</td><td>ZENd</td></tr></table></body></html>
+
+Underline sequences are cleavage site of restriction enzyme.
+
+# 1.2工具酶与试剂
+
+本研究所用 TaKaRa Taq Polymerase、PrimeSTAR HS DNA Polymerase、DNA Ligation Kit 购于宝日医生物技术（北京）有限公司；质粒提取试剂盒、DNA 凝胶回收试剂盒和PCR 产物纯化试剂盒购于爱思进生物技术（杭州）有限公司；快速限制性内切酶购于赛默飞世尔科技（中国）有限公司；异丙基β-D-硫代半乳糖苷（IPTG）购于上海源叶生物科技有限公司；胰蛋白陈和酵母提取物购于OXOID 公司；其它常规试剂均为国产分析纯。
+
+# 1.3培养基
+
+LB 培养基配方： $1 0 \ \mathrm { g / L }$ 氯化钠， $1 0 \ \mathrm { g / L }$ 胰蛋白脉， $5 \mathrm { g } / \mathrm { L }$ 酵母提取物，用于活化和培养 $E$ coli $\mathrm { D H } 5 \mathrm { a }$ 和E.coli BL21(DE3)。在菌株构建和发酵过程中，培养基中添加的卡那霉素终浓度 $5 0 \mathrm { m g / L }$ 。
+
+# 1.4重组质粒的构建
+
+以合成的大肠菌素E7基因（Colicin $E 7$ ,GeneBank:OYN48152.1）为模板，用引物 $E 7 \mathrm { - F }$ 和 $E 7  – \mathrm { R }$ 克隆ColicinE7基因，扩增的 $E 7$ 和空白1 $9 \mathrm { E T } 2 8 \mathrm { a } ( + )$ 质粒用Nco $I$ 和Xho $I$ 进行双酶切，酶切产物用TaKaRaLigationKit过夜连接，转化大肠杆菌 $\mathrm { D H } 5 \mathrm { a }$ 感受态细胞，获得阳性转化子后提取质粒命名为（204 $\mathfrak { p E T } 2 8 \mathrm { a } ( + ) – E 7 .$ 。以实验室保藏的含阿拉伯糖启动子的质粒pKD46 为模板，用引物PBAD-F 和PBAD-R克隆阿拉伯糖启动子，扩增的阿拉伯糖启动子基因和 $\mathfrak { p E T } 2 8 \mathrm { a } ( + ) { - } E 7$ 质粒用SphI和Xba $I$ 进行双酶切，酶切产物过夜连接，转化 $\mathrm { D H } 5 \alpha$ 感受态细胞后获得阳性转化子，提取质粒命名为 $\mathtt { p E T } 2 8 \mathrm { a } ( + ) { \mathrm { - A r a } } { \mathrm { - } } E 7$ 。质粒$\mathfrak { p E T } 2 8 \mathrm { a } ( + ) { - } E 7$ 和质粒pET28a(+)-Ara- $. E 7$ 分别用 $S p h { \mathrm { I } }$ 和 $B g l \mathrm { I I }$ 双酶切得到T7-E7表达盒和Ara-E7表达盒。
+
+空白 $\mathsf { p E T 2 8 a ( + ) }$ 载体用 SphI和BglII双酶切，载体酶切产物与T7-E7表达盒和Ara-E7表达盒连接，转化DH5α感受态细胞，经测序验证的重组载体分别命名为 $\mathrm { p E T } 2 8 \mathrm { a } ( + ) { - } \mathrm { T } 7 E 7$ 和 $\mathsf { p E T } 2 8 \mathsf { a } ( + ) { \mathsf { - A r a } } E 7$ 。以实验室保藏的含红色荧光蛋白（RFP）基因的质粒为模板，用引物rfp-F和rfp-R克隆RFP基因，扩增的rfp与 pET28a(+)-T7E7和pET28a(+)-AraE7质粒用 EcoRI和 SalI双酶切，酶切产物连接后转化DH5α感受态细胞，经测序验证的重组载体分别命名为pET28a(+)-T7E7-T7rfp 和 $\mathtt { p E T 2 8 a ( + ) - A r a } E 7 - \mathrm { T } 7 r f p$ 。以实验室保藏的含玉米赤霉烯酮降解酶（ZENd）基因的质粒为模板，用引物 ZENd-F 和 ZENd-R 克隆 ZENd 基因，扩增的 ZENd 基因与 $\mathfrak { p E T } 2 8 \mathrm { a } ( + ) { \cdot } \mathrm { A r a } E 7$ 质粒用EcoRI和SalI双酶切，酶切产物连接后转化DH5α感受态细胞，经测序验证的重组载体命名为 $\mathsf { p E T } 2 8 \mathsf { a } ( + )$ -AraE7-T7ZENd。
+
+# 1.5大肠杆菌表达菌株的诱导表达
+
+测序验证正确的转化子提取质粒后转化表达宿主大肠杆菌BL21(DE3)后，挑取平板上单克隆接种到5 mLLB液体培养基（含 $5 0 \mathrm { m g / L }$ 卡那霉素), $3 7 \ \mathrm { ^ { \circ } C } \cdot 2 2 0 \ \mathrm { r / m i n }$ 条件下过夜培养，次日以 $1 \%$ 接种于 $3 0 ~ \mathrm { m L }$ LB 液体培养基（含 $5 0 ~ \mathrm { m g / L }$ 卡那霉素)， $3 7 \ \mathrm { { ^ circ C } }$ 、 $2 2 0 ~ \mathrm { r / m i n }$ 条件下培养至 $O D _ { 6 0 0 } { = } 0 . 6 { \sim } 0 . 8$ ，加入终浓度为$0 . 8 \mathrm { m m o l / L }$ 的 IPTG， $3 0 \ \mathrm { ^ { \circ } C }$ 、 $1 8 0 ~ \mathrm { r / m i n }$ 条件下诱导。含阿拉伯糖启动子的转化子在上述IPTG诱导 $2 \mathrm { h }$ 后再加入终浓度 $2 \mathrm { g } / \mathrm { L }$ 的L-阿拉伯糖（L-arabinose，Ara）进行第二步诱导，诱导裂解酶表达。发酵培养过程中每隔 $1 { - } 2 \mathrm { h }$ 取样测定菌体浓度（以分光光度计 $6 0 0 \mathrm { n m }$ 波长下的吸光值 $O D _ { 6 0 0 }$ 表示）以监测菌株生长情况。
+
+# 1.6SDS-PAGE
+
+将表达菌株培养过程中所取样品于 $1 2 0 0 0 ~ \mathrm { r / m i n }$ 离心 $2 ~ \mathrm { m i n }$ ，取 $4 0 \mu \mathrm { L }$ 培养基上清液加入相应量的Loading Buffer 制备 SDS-PAGE 样品。取 $4 0 0 { \mu \mathrm { L } }$ 培养基上清液，加入 $4 0 0 ~  { \mu \mathrm { L } }$ 无水乙醇，轻轻振荡混匀，置于 $4 \mathrm { { ^ \circ C } }$ 沉淀过夜，次日于 $1 3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，去掉上清液，白色沉淀用 $4 0 \mu \mathrm { L } \mathrm { P B S ( p H = 7 . 4 ) }$ 复溶，实现上清液的10 倍浓缩，加入相应量的Loading Buffer 制备 SDS-PAGE 样品。
+
+# 1.7荧光检测
+
+将表达菌株培养过程中各个时间点所取样品于 $1 0 0 0 0 \mathrm { r / m i n }$ 离心 $2 \mathrm { m i n }$ ，分别取 $2 0 0 ~ \mu \mathrm { L }$ 培养基上清液到黑色酶标板，用荧光酶标仪检测红色荧光强度，激发光波长为 $5 3 0 \mathrm { n m }$ ，发射光波长为 ${ 5 9 0 } \mathrm { n m }$ 。
+
+# 1.8玉米赤霉烯酮降解酶活性检测
+
+取菌株 $E .$ coli BL21(pET28a(+)-AraE7-T7ZENd)培养基上清液 ${ 5 0 \mu \mathrm { L } }$ 加入到含 $1 0 ~ \mu \ g$ 玉米赤霉烯酮（Zearalenone，ZEN）毒素的反应体系中，用PBS( $\mathrm { \bar { p } H } { = } 7 . 4 )$ 补足 ${ 5 0 0 \mu \mathrm { L } }$ ， $3 7 \ \mathrm { { ^ circ C } }$ 静置 $3 0 \mathrm { m i n }$ 和 $6 0 ~ \mathrm { { m i n } }$ ，然后加入 $5 0 ~ { \mu \mathrm { L } } \ 5 ~ \mathrm { m o l / L }$ 的盐酸终止反应，蒸干后加 $1 \mathrm { m L }$ 甲醇复溶，高效液相色谱（HPLC）检测，进样$1 0 ~ \mu \mathrm { L }$ 。色谱柱为WatersXBridge $\textsuperscript { \textregistered }$ C18( ${ 5 \mu \mathrm { m } }$ $4 . 6 { \times } 2 5 0 ~ \mathrm { m m }$ )，流动相为 $50 \%$ 乙腈、 $50 \%$ 水，流速为 $1 \mathrm { m L / m i n }$ 柱温为 $3 0 \ \mathrm { ^ { \circ } C }$ 。
+
+# 2结果与讨论
+
+# 2.1大肠杆菌细胞裂解系统的构建
+
+大肠菌素E7作用于细胞内膜引起膜通透性改变，激活细胞外膜上的磷脂酶 A造成细胞膜破损 [21],因此在大肠杆菌中表达E7能够实现细胞的裂解。为构建大肠杆菌细胞裂解系统，我们在大肠杆菌表达载体 $\mathsf { p E T } 2 8 \mathsf { a } ( + )$ 上构建重组蛋白和大肠杆菌素 E7两个蛋白表达盒(图1(a))，使两个蛋白在大肠杆菌细胞内共表达（图1(b))，目标重组蛋白在细胞内表达积累，E7在细胞内的表达引起细胞膜损伤细胞裂解(图1(c))，目标重组蛋白因而释放到培养基中(图1(d))。
+
+![](images/2262c513a7d6c18515a9ed2a0256ea1995fdf9c05716aa87b062132bb6767330.jpg)  
+图1.大肠杆菌诱导裂解系统中细胞裂解示意图
+
+为了构建可被诱导裂解的大肠杆菌系统，我们在 $\mathsf { p E T 2 8 a ( + ) }$ 载体T7启动子上游插入大肠菌素 E7的表达盒。质粒构建过程见图2。按照方法1.4，在 $\mathsf { p E T 2 8 a ( + ) }$ 载体多克隆位点中插入合成的E7基因构建T7-E7表达盒，将T7-E7表达盒中T7启动子替换成阿拉伯糖启动子构建Ara-E7表达盒。将两个表达盒分别插入空白 $\mathrm { p E T } 2 8 \mathrm { a } ( + )$ 载体的SphI和BglII位点间，构建成 $\mathsf { p E T } 2 8 \mathsf { a } ( + ) { - } \mathsf { T } 7 E 7$ 载体和 $\mathsf { p E T } 2 8 \mathsf { a } ( + ) \cdot$ -AraE7载体。
+
+![](images/576fd84571d11a33c2cf0dd023e81ca8f095b6a838cb01be8730822d04c4174b.jpg)  
+Figure 1. Schematic illustration of the cell lysis progress in the inducible lytic system of $E$ coli.
+
+为了验证所构建的大肠杆菌裂解系统的功能，我们分别在pET28a(+)-T7E7载体和 $\mathsf { p E T } 2 8 \mathsf { a } ( + )$ -AraE7载体的EcoRI和SalI位点间插入红色荧光蛋白基因rfp，构建成 $\mathsf { p E T } 2 8 \mathsf { a } ( + ) \cdot$ -T7E7-T7rfp和pET28a(+)-AraE7-T7rfp 表达载体。
+
+图2.大肠杆菌细胞裂解系统的质粒构建过程。表达质粒包含两个T7启动子控制的重组蛋白表达盒和T7启动子或araBAD启动子控制的E7表达盒。
+
+Figure2.Constructionofrecombinant plasmidscontaininganexpresioncasseteof target proteincontrolledbytheT7promoter and a cassette of colicin E7 lysis controlled by the T7 promoter or araBAD promoter ( $\mathbf { P } _ { \Pi 7 }$ and PBAD are short for T7 promoter and araBAD promoter, respectively).
+
+# 2.2大肠杆菌细胞裂解系统中红色荧光蛋白（RFP）的表达和释放
+
+2.2.1大肠杆菌诱导裂解菌株生长曲线：按照方法1.5对含重组表达载体 $\mathsf { p E T } 2 8 \mathsf { a } ( + )$ -T7E7、pET28a(+)-T7E7-T7rfp、pET28a0 $^ { ( + ) }$ -AraE7和r $\boldsymbol { \mathrm { J E T 2 8 a ( + ) } }$ -AraE7-T7rfp的大肠杆菌进行诱导表达。由图3可以看到，E.coliBL21(pET28a( $( + )$ -T7E7)和 $E$ ：coli BL21(pET28a(+)-T7E7-T7rfp)菌株，其 $O D _ { 6 0 0 }$ 在加入IPTG 后短暂提高随即开始下降,表明IPTG同时诱导RFP表达和细胞裂解; $E .$ coli BL21(pET28a( $^ { ( + ) }$ -AraE7)和E.coli BL21(pET28a(+)-AraE7-T7rfp)菌株，其 $O D _ { 6 0 0 }$ 在加入IPTG后在 $3 0 \ \mathrm { ^ { \circ } C }$ 下持续快速生长，加入阿拉伯糖后 $O D _ { 6 0 0 }$ 开始降低，菌液变澄清，表明阿拉伯糖诱导表达菌体裂解蛋白，菌体开始裂解。
+
+![](images/801f759c957a2ff8615ba102ad709285adc0c8e1d3d2c187a687fa79d9d15263.jpg)  
+图3.大肠杆菌诱导裂解菌株生长曲线  
+Figure 3.Time course ofbiomass for different recombinant $E$ coli strains.
+
+2.2.2 红色荧光蛋白的表达：按照方法1.6将所取样品的胞外蛋白（培养基上清液）制备成 SDS-PAGE 样品，进行 SDS-PAGE。由图4可以看到， $E .$ coliBL21(pET28a(+)-T7E7-T7rfp)菌株在经IPTG诱导后胞外蛋白（泳道3-4， $\operatorname { I - } 2 \mathrm { ~ h ~ }$ 和 $ { \mathrm { I } }  { - } 4 \mathrm { h }$ ）中存在约 $3 0 \mathrm { \ k D a }$ 的蛋白，与预期大小相符合，而在未经诱导的 $E .$ coliE $3 \mathrm { L } 2 1 ( \mathrm { p E T } 2 8 \mathrm { a } ( + ) { - } \mathrm { T } 7 E 7 { - } \mathrm { T } 7 r f p )$ 菌株的胞外蛋白（泳道2， $\operatorname { I - } 0 \mathrm { ~ h ~ }$ ）中未发现该蛋白，在经IPTG诱导的 $E .$ coliP $3 \mathrm { L } 2 1 ( \mathrm { p E T } 2 8 \mathrm { a } ( + ) { - } \mathrm { T } 7 E 7 )$ 菌株的胞外蛋白（泳道5，T7E7的 $ { \mathrm { I } }  { - } 4  { \mathrm { ~ h ~ } }$ ）中也未发现该蛋白。 $E$ coli$\mathsf { B L 2 1 } ( \mathsf { p E T 2 8 a } ( + ) \ – \mathsf { A r a } E 7 \ – \mathsf { T } 7 r f p )$ 菌株在经IPTG 和阿拉伯糖诱导后胞外蛋白（泳道 7-9,I-2h、A-2h、A-4 h)中存在约 $3 0 \mathrm { \ k D a }$ 的蛋白，与预期大小相符合，而在未经诱导的 E.coli BL21(pET28a(+)-AraE7-T7rfp)菌株胞外蛋白（泳道6）中未发现该蛋白，在经IPTG 和阿拉伯糖诱导的 $E$ ，coli BL21(pET28a( $^ { ( + ) }$ -AraE7)菌株的胞外蛋白（泳道10，AraE7的 $\mathrm { A } { - } 4 \mathrm { h }$ ）中也未发现该蛋白。这表明大肠杆菌细胞裂解系统已经成功构建，红色荧光蛋白（RFP）能在该系统中正常表达并通过细胞裂解释放到胞外。另外，由图4可以看出T7 启动子同时控制两个蛋白表达的一步诱导裂解系统中目的蛋白RFP表达量较少，而T7启动子和araBAD 启动子分别控制两个蛋白表达的两步诱导裂解系统中RFP表达量更多，表明 IPTG-阿拉伯糖两步诱导的大肠杆菌裂解系统对于重组蛋白的高效表达和胞外释放更有优势。这是由于T7启动子同时控制两个蛋白表达的一步诱导裂解系统中目的蛋白的表达和细胞裂解同时进行导致目标生物量不能够有效积累，而在两步诱导裂解系统中，目标蛋白的表达和细胞的裂解分阶段进行，诱导目的蛋白表达宿主生物量能够有效积累。
+
+![](images/4ee87e439db8c6c06194b21eb28e8b90a0589fed78157c4ab67dd285f901c2eb.jpg)
+
+图4.大肠杆菌裂解系统中红色荧光蛋白表达菌株培养基上清液的 SDS-PAGE。T7E7-T7RFP 表示 $E .$ coliBL21(pET28a $^ { ( + ) }$ -T7E7-T7rfp），T7E7表示 $E$ coli BL21(pET28a( $^ { ( + ) }$ -T7E7），AraE7-T7RFP表示 $E$ coliBL21(pET28a $( + )$ -AraE7-T7rfp)，AraE7表示 E.coli BL21(pET28a $( + )$ -AraE7)， $\operatorname { I - } 0 \mathrm { { h } }$ 、 $\operatorname { I - } 2 \mathrm { ~ h ~ }$ 和 $\mathsf { I } { - } 4 \mathrm { h }$ 表示 IPTG 诱导前、IPTG诱导2h和IPTG诱导 $^ { 4 \mathrm { h } }$ 的培养基上清液， $_ { \mathrm { A - 0 h } }$ 、 $\mathrm { A } { - } 2 \mathrm { h }$ 、 $\mathrm { A } { - } 4 \mathrm { h }$ 表示阿拉伯糖（ara）诱导前、ara 诱导 $2 \mathrm { h }$ 、ara诱导 $^ { 4 \mathrm { h } }$ 的培养基上清液。
+
+Figure 4. SDS-PAGE analysis of culture supernatants from the recombinant $E$ 、coli strains expressing RFP.T7E7-T7RFP refers to E. coli BL21(pET28a( $^ { ( + ) }$ -T7E7-T7rfp)，and T7E7 refers to $E$ ，coli BL21(pET28a( $^ { ( + ) }$ -T7E7).AraE7-T7RFP refers to $E$ coli BL21(pET28a $( + )$ -AraE7-T7rfp)，and AraE7 refers to $E$ 、coli BL21(pET28a( $( + )$ -AraE7).I-0 h,I-2 h and $ { \mathrm { I } }  { - } 4  { \mathrm { ~ h ~ } }$ refer to culture supernatants before IPTG induction, $^ { 2 \mathrm { ~ h ~ } }$ after IPTG induction and $^ { 4 \mathrm { ~ h ~ } }$ after IPTG induction,respectively.A-O h,A-2 h and A-4 h refer to culture supernatants before L-arabinose induction, $^ { 2 \mathrm { ~ h ~ } }$ after arabinose induction and $^ \textrm { \scriptsize 4 h }$ after arabinose induction, respectively.
+
+2.2.3培养基上清液中红色荧光强度的检测：按照方法1.7对所取样品的培养基上清液进行红色荧光强度检测。由图5可以看到，对于E.coli BL21(pET28a(+)-T7E7-T7rfp)和E.coli BL21(pET28a $^ { ( + ) }$ -AraE7-T7rfp)菌株，诱导前培养基上清液荧光很弱；分别经诱导细胞裂解后，E.coli BL21(pET28a( $^ { ( + ) }$ -AraE7-T7rfp)培养基上清液的荧光强度远高于E.coli BL21(pET28a(+)-T7E7-T7rfp)培养基上清液的荧光强度，前者约为后者的5倍，这反映培养基上清液中RFP含量的差别，与 SDS-PAGE 的结果相符。
+
+![](images/da882497814eaa1bff3e3b2ff3d428a591729b5e8704b347884e03851b178e20.jpg)  
+图5.红色荧光蛋白荧光强度随诱导时间变化。横坐标的时间指E.coliBL21(pET28a $( + )$ -T7E7-T7rfp)菌株经IPTG诱导的时间，E.coliBL21 $\mathrm { \Phi _ { p E T 2 8 a ( + ) } }$ -AraE7-T7rfp)经阿拉伯糖诱导的时间。
+
+Figure 5. Quantification of RFP fluorescence intensity in the culture supernatant of recombinant $E$ 、coli strains expressing RFP Time on the abscissa refers to induction time by IPTG for $E$ ：coli BL21(pET28a $( + )$ -T7E7-T7rfp） and induction time by L-arabinose for E.coli BL21(pET28a(+)-AraE7-T7rfp),respectively.
+
+2.2.4大肠杆菌显微镜下的形态观察：大肠杆菌表达菌株在培养过程中取样，将菌体重悬后在显微镜下进行形态观察。由图6可以看到 $E . ~ c o l i ~ \mathrm { B L } 2 1 ( \mathrm { p E T } 2 8 \mathrm { a } ( + ) \mathrm { - } \mathrm { T } 7 { \it E } 7 \mathrm { - } \mathrm { T } 7 r f p ) ^ { ; }$ 和E. coli BL21(pET28a(+)-AraE7-T7rfp)菌株在诱导前（图 5-(a)、(d)）菌体形态完整，呈细小杆状；经IPTG 和阿拉伯糖诱导后（图 5-(b)、(c)、(e)、(f)）杆状细胞几不可见，视野中出现大量细胞碎片，表明细胞已经裂解。
+
+![](images/5b0ce0acb12213407789a67131ee792295fc57e9b5caa6f185b8a60b9de00648.jpg)  
+图6.大肠杆菌 RFP 表达菌株显微镜下的菌体形态观察。其中：(a)、(b)、(c)分别为 $E$ coli BL21 $\mathrm { p E T } 2 8 \mathrm { a } ( + )$ -T7E7-T7rfpP)菌株经IPTG诱导前、经IPTG诱导2h和经IPTG诱导4h的细胞形态;(d)、(e)、(f)分别为E.coli BL21(pET28a $( + )$ -AraE7-T7rfp)菌株经Ara 诱导前、经Ara 诱导2h 和经Ara 诱导 $\boldsymbol { 4 } \mathrm { h }$ 的细胞形态。
+
+Figure 6.Cellar morphologyoftworecombinant strains expressng RFPby microscopy under theconditions with or without induction. (a), (b), (c) refer respectively to cell shapes of $E$ coli BL21(pET28a $( + )$ -T7E7-T7rfp) before IPTG induction, $^ { 2 \mathrm { ~ h ~ } }$ after IPTG induction and $^ { 4 \mathrm { h } }$ after IPTG induction. (d), (e), (f) refer respectively to cellshapes of E. coli BL21(pET28a $( + )$ -T7E7-T7rfp) before L-arabinose induction, 2 h after arabinose induction and $4 \mathrm { h }$ after arabinose induction.
+
+# 2.3大肠杆菌细胞裂解系统中玉米赤霉烯酮降解酶的表达和释放
+
+以红色荧光蛋白为展示蛋白的结果表明大肠杆菌细胞裂解系统成功构建，尤其IPTG-阿拉伯糖两步诱导裂解系统能够使得目的蛋白高效表达并释放到培养基上清液中。为了进一步探索此大肠杆菌裂解系统的适用性，我们尝试在此裂解系统中表达玉米赤霉烯酮降解酶（ZENd）基因。
+
+2.3.1玉米赤霉烯酮降解酶的表达：在 $\mathtt { p E T 2 8 a } ( + ) { \_ } \mathrm { A r a } E 7$ 载体的EcoRI和SalI位点间插入克隆自本实验室保藏的 ZENd 基因，构建成 pET28a(+)-AraE7-T7ZENd 表达载体。
+
+按照方法1.5对大肠杆菌表达菌株进行诱导表达，每隔 $1 { - } 2 \mathrm { h }$ 取样，按照方法1.6将所取样品的浓缩胞外蛋白（培养基上清液）制备成 SDS-PAGE 样品，进行 SDS-PAGE。由图7可以看到，E.coliBL21(ET28a(+)-AraE7-T7ZENd)菌株在经 IPTG 和阿拉伯糖诱导后胞外蛋白（泳道 3-7， $\operatorname { I - } 2 \mathrm { ~ h ~ }$ 、A-1 h、A-2h、 $\mathbf { A } { - } 4 \mathbf { \eta } { } \mathbf { h }$ 和 $_ { \mathrm { A - 6 ~ h ~ } }$ ）中明显可见约 $2 9 \mathrm { \ k D a }$ 的蛋白，与预期大小相符合；而在未经诱导的 $E .$ coliBL21(pET28a(+)-AraE7-T7ZENd)菌株的胞外蛋白（泳道2， $_ { \mathrm { I - 0 ~ h ~ } }$ ）中未发现该蛋白表达，在 $E .$ coliBL21(pET28a(+)-AraE7)菌株的胞外蛋白（泳道 8-9，AraE7的 $\operatorname { I - 0 } \mathrm { { h } }$ 和 $\mathrm { A } { - } 4 \mathrm { h }$ ）中也未发现该蛋白表达。 $E .$ （20coli BL21(pET28a(+)-AraE7-T7ZENd)菌株在 IPTG 诱导 $2 \mathrm { h }$ 后（Ara诱导前）上清液中即有细胞裂解（见泳道3)，释放出少量胞内酶，是因为在营养丰富的LB培养基中araBAD启动子控制的促裂解酶出现泄漏表达，诱导细胞裂解释放出少量胞内蛋白。表达菌株在阿拉伯糖诱导后 $1 { - } 2 \mathrm { h }$ 大部分细胞裂解释放大量胞内酶，使培养基上清液中出现较多的目的蛋白（见泳道4-5)，这表明在此大肠杆菌细胞裂解系统中能够表达玉米赤霉烯酮降解酶并将其释放到胞外。
+
+![](images/74aca84336ee8e47ba78ea379c80ed7632a548df3fd1cd1bfa0b16661bcdb170.jpg)
+
+图7.大肠杆菌裂解系统中玉米赤霉烯酮降解酶表达菌株培养基上清液浓缩10 倍后的 SDS-PAGE。AraE7-T7ZENd 表示 $E$ coli BL21(pET28a(+)-AraE7-T7ZENd)，AraE7 表示 E.coli BL21(pET28a(+)-AraE7)， $\operatorname { I - } 0 \mathrm { ~ h ~ }$ 、 $_ { \mathrm { I - 2 h } }$ 表示 IPTG 诱导前、IPTG诱导2h 的培养基上清液， $\mathrm { A } { - } 0 \mathrm { h }$ 、A-1h、A-2 h、 $\mathrm { A } { - } 4 \mathrm { h }$ 和 $_ { \mathrm { A - } 6 \mathrm { h } }$ 表示阿拉伯糖诱导前、ara 诱导 $^ { \textrm { 1 h } }$ 、ara诱导 $2 \mathrm { h }$ 、ara诱导4h和ara 诱导6h的培养基上清液。
+
+Figure 7. SDS-PAGE analysis of 1O-fold concentrated culture supernatants from the recombinant $E$ .coli strains expressing ZENd. AraE7-T7ZENd refers to $E$ 、coli BL21(pET28a $\left( + \right)$ -AraE7-T7ZENd),and AraE7 refers to $E$ coli BL21(pET28a $( + )$ -AraE7). I-0 h and $\operatorname { I - } 2 \mathrm { ~ h ~ }$ refer to culture supernatants before IPTG induction, $^ { 2 \mathrm { h } }$ after IPTG induction,respectively.A-O h,A-1h,A-2 h,A-4 h and A-6 h refer to culture supernatants before L-arabinose induction,1 h after arabinose induction, $^ { 2 \mathrm { ~ h ~ } }$ after arabinose induction,4 h after arabinose induction and $6 \mathrm { { h } }$ after arabinose induction,respectively.
+
+2.3.2玉米赤霉烯酮降解酶活性检测：按照方法1.8对大肠杆菌表达菌株释放到培养基中的玉米赤霉烯酮降解酶进行活性检测。由图8可以看到，IPTG 诱导前培养基上清液对 ZEN毒素无降解，阿拉伯糖诱导前培养基上清液对 ZEN 稍有降解，这是由于在LB 培养基培养中 araBAD 启动子调控的E7存在一定的泄露表达，诱导细胞裂解释放出少量玉米赤霉烯酮降解酶，致使在阿拉伯糖诱导细胞裂解前发酵培养基上清液中能够检测到玉米赤霉烯酮降解酶活性，这与 SDS-PAGE（图7泳道3）的结果是一致的。随着阿拉伯糖诱导时间延长，培养基上清液中ZEN 降解酶含量提高，对 ZEN 降解率从 $6 \%$ 到 $58 \%$ 。当阿拉伯糖诱导细胞裂解 $^ { 4 \mathrm { h } }$ 后，ZEN降解酶基本都释放到培养基上清液中，培养基上清液能够在 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 反应$3 0 \mathrm { m i n }$ 的条件下降解约 $5 . 8 ~ \mu \ g$ 玉米赤霉烯酮毒素， $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 反应 $6 0 \mathrm { m i n }$ 的条件下降解约 $9 . 6 ~ \mu \ g$ 玉米赤霉烯酮毒素。
+
+![](images/99e98e7e55d8ce58ce1c61bc299136f2e544b8c4fc907e6acf7cb0edf6c768cd.jpg)  
+图8.玉米赤霉烯酮降解酶表达菌株诱导过程培养基上清液对ZEN的降解 Figure 8.Degradation of ZEN by culture supernatants from the recombinant $E$ ，coli strains expressing ZEN
+
+# 3结论
+
+大肠杆菌表达系统是基因表达技术中发展最早，目前应用最广泛的经典表达系统。与其它表达系统相比，大肠杆菌表达系统表达重组蛋白有许多优越性，如遗传背景清楚、目的基因表达水平高、培养周期短、抗污染能力强等，但大肠杆菌胞内表达存在破碎细胞收集蛋白的成本问题，胞外分泌表达存在分泌效率低、适用范围小等缺点。
+
+本研究中，我们通过表达大肠菌素E7构建了大肠杆菌细胞裂解系统，使得在此系统中共表达的外源蛋白能够在胞内表达后经诱导性细胞裂解释放到培养基中，实现蛋白的快速回收。我们以红色荧光蛋白为展示蛋白，在 $\mathrm { p E T } 2 8 \mathrm { a } ( + )$ 载体上构建E7和红色荧光蛋白两个表达盒，其中一种是利用 T7启动子来同时调控E7和红色荧光蛋白的表达，在该系统中只需要进行一次诱导即可同时启动 E7和RFP 的表达；另一种是利用araBAD 启动子和T7启动子分别调控E7和红色荧光蛋白的表达，该系统可以实现分阶段调控目标蛋白的表达和E7的表达。通过比较分析这两种不同的调控方式对宿主菌株生长状况、细胞形态及目标重组蛋白表达量的影响，结果发现IPTG-阿拉伯糖分阶段诱导目标蛋白和E7的表达能够获得更高产量的重组蛋白并释放到培养基中。由于E7的表达会使得宿主菌致死，在IPTG一步诱导系统中目标蛋白开始表达的同时E7也启动表达启动细胞裂解使得生物量不能够有效积累，最终导致目标蛋白的产量较低。在此基础上，我们进一步探索 IPTG-阿拉伯糖两步诱导系统在玉米赤霉烯酮降解酶的应用，结果发现培养基上清液中检测到玉米赤霉烯酮降解酶有较好的表达量和较高的活性，表明该大肠杆菌细胞裂解系统在快速释放胞内蛋白方面有适用性。
+
+本文构建的两步诱导细胞裂解系统具有两方面的优势：一方面，由于无需对外源蛋白适配信号肽，胞外释放外源蛋白的细胞裂解系统与广泛应用的大肠杆菌胞内表达体系在外源蛋白的表达方面几乎一致，拥有大肠杆菌胞内表达系统对外源目的蛋白的适用性；另一方面，外源蛋白在大肠杆菌胞内表达后通过诱导细胞裂解实现蛋白的胞外释放，能降低破碎成本和简化蛋白纯化过程，可以应用于可溶性蛋白突变文库的快速筛选。
+
+# 参考文献
+
+[1] Baneyx F，Mujacic M. Recombinant protein folding and misfolding in Escherichia coli. Nature Biotechnol0gy,2004,22(11): 1399-1408.   
+[2] Bell PA. E.coli Expression Systems//Gerstein A S. Molecular Biology Problem Solver: A Laboratory Guide. New York: John Wiley and Sons Ltd, 2002: 461-490.   
+[3] Mergulhao F JM, Summers D K, Monteiro G A. Recombinant protein secretion in Escherichia coli. Biotechnology Advances,2005, 23(3): 177-202.   
+[4] Gentschev I,Dietrich G,Goebel W. The E. coli $\mathfrak { a }$ -hemolysin secretion system and its use in vaccine development. TRENDS in Microbiology, 2002, 10(1): 39-45.   
+[5] Fernandez L A,Lorenzo V D.Formation of disulphide bonds during secretion of proteins through the periplasmic-independent type I pathway. Molecular Microbiology,2001, 40 (2): 332-346.   
+[6] Koster M,Bitter W,Tommassen J. Protein secretion mechanisms in Gram-negative bacteria.International Journal of Medical Microbiology, 2000, 290 (4): 325-331.   
+[7] Humphreys D P, Sehdev M, Chapman A P, et al. High-level periplasmic expression in Escherichia coli using a eukaryotic signal peptide: importance of codon usage at the 5'end ofthe coding sequence. Protein Expression and Purification,2000,20(2): 252-264.   
+[8] Zamani M,Nezafat N, Negahdaripour M,et al. In silico evaluation of diferent signal peptides for the secretory production of human growth hormone in $E$ ，coli.International Journal of Peptide Research and Therapeutics, 2015,21(3): 261-268. [9] Jeong K J, Lee S Y. Excretion of human $\beta$ -endorphin into culture medium by using outer membrane protein F as a fusion partner in recombinant Escherichia coli.Applied and Environmental Microbiology,2002, 68(10): 4979-4985.   
+[10] Gray G L,Baldridge J S, McKeown K S,et al. Periplasmic production of correctly processed human growth hormone in Escherichia coli: natural and bacterial signal sequences are interchangeable. Gene,1985, 39(2-3): 247-254.   
+[11] Robbens J，Raeymaekers A， Steidler L,et al. Production of soluble and active recombinant murine interleukin-2 in Escherichia coli: high level expression，Kil-induced release，and purification.Protein Expression and Purification, 1995, 6(4): 481-486.   
+[12] Sommer B,Friehs K,Flaschel E.Efficient production of extracelular proteins with Escherichia coli by means of optimized coexpresson of bacteriocin release proteins. Journal of Biotechnology，2010,145(4): 350-358.   
+[13] Hsiung H M, Cantrell A, Luirink J, et al. Use of bacteriocin release protein in $E$ ，coli for excretion of human growth hormone into the culture medium. Nature Biotechnology,1989,7(3): 267-271.   
+[14] Kiany J， Zomorodipour A，Raji M A,et al. Construction of recombinant plasmids for periplasmic expression of human growth hormone in Escherichia coli under T7 and lac promoters. Journal of Sciences, Islamic Republic of Iran, 2003,14(4): 311-316.   
+[15] Yamabhai M, Emrat S, Sukasem S,et al. Secretion of recombinant Bacillus hydrolytic enzymes using Escherichia coli expression systems. Journal of Biotechnology,2008,133(1): 50-57.   
+[16] Morita M,Asami K,Tanji Y, et al. Programmed Escherichia coli cell lysis by expression of cloned T4 phage lysis genes. Biotechnology Progress, 2001, 17(3): 573-576.   
+[17] Yang YG,Tong Q,Hu T S,et al. The application of a novel lytic system to the recovery of recombinant proteins in $E$ .coli.Acta Biochimica et Biophysica Sinica,2000, 32(3): 211-216.   
+[18] Lo T M, Tan M H, Hwang I Y, et al. Designing a synthetic genetic circuit that enables cell density-dependent auto-regulatory lysis for macromolecule release. Chemical Engineering Science,2013,103: 29-35.   
+[19] Chen Y R, Yang TY,Lei G S,et al. Delineation of the translocation of colicin E7 across the inner membrane of Escherichia coli. Archives of Microbiology,2011,193(6): 419-48.   
+[20] Wang N, Guo X, $\mathsf { N g } \mathrm { ~ I ~ S ~ }$ .Simultaneous release of recombinant cellulases introduced by coexpressing colicin E7 lysis in Escherichia coli. Biotechnology and Bioprocess Engineering, 2016,21(4): 491-501. [21] Lin LJR,Liao C C,Chen YR,et al. Induction of membrane permeability in Escherichia coli mediated by lysis protein of the ColE7 operon. FEMS Microbiology Letters, 2009,298(1): 85-92.

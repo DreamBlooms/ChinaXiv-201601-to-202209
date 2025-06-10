@@ -1,0 +1,404 @@
+[
+    {
+        "type": "text",
+        "text": "Tristetraprolin Recruits Eukaryotic Initiation Factor 4E2 To Repress Translation of AU-Rich Element-Containing mRNAs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xianzun Tao,a,b Guangxia Gaoa ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ebt Chinab ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tristetraprolin(TTP)regulates theexpressionof AU-richelement-containing mRNAsthrough promoting thedegradationand repressing thetranslationoftarget mRNA.While the mechanism forpromoting targetmRNA degradationhasbeen extensively studied,themechanismunderlying translationalrepressionisnotwellestablished.HereesowthatTTPrecruits eukaryotic initiation factor4E2(eIF4E2)torepresstargetmRNA translation.TTPinteractedwitheIF4E2butnotwith eIF4E.OverexpressionofeIF4E2enhancedTTP-mediatedtranslationalrepresion,anddownregulationofendogenous eIF4E2oroverexpression ofatruncationmutantofeIF4E2impairedTTP-mediated translationalrepression.OverexpresionofaneIF4E2 mutantthatlost thecap-bindingactivityalsoimpairedTTP'sactivity,suggesting that thecap-bindingactivityofeIF4E2isimportantinTTPmediated translationalrepression.Wefurthershow thatTTP promotedeIF4E2 binding to targetmRNA.Theseresults imply thatTTPrecruitseIF4E2tocompetewitheIF4Etorepressthe translationoftargetmRNA.Thisnotionissupportedbythe findingthat downregulation ofendogenous eIF4E2 increased the production of tumor necrosis factor alpha (TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\cdot } \\mathbf { \\alpha }$ ）protein withoutafectingthemRNAlevels inTHP-1cels.Collctively,theseresultsuncoveranovelmechanismbywhichTPreprsestarget mRNA translation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ristetraprolin(TTP) plays important roles in immunity,development,and tumorigenesis by posttranscriptionally regulating the expression of a variety of genes(1).For example, TTP regulates the expression of tumor necrosis factor alpha（TNF $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ ） (2).Knockout of TTP in mice results in TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ excess and causes severe immune disorders (2,3). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TTP specifically recognizes AU-rich elements (AREs),which are cis elements with tandemAUUUA-likemotifs inacontext rich in A and/orU,mainly located in the $3 ^ { \\prime }$ untranslated region $\\langle 3 ^ { \\prime }$ UTR)of the mRNAs of stringently regulated genes,such as cytokine and growth factor genes and proto-oncogenes (4,5). TTP directly binds to ARE motifs and recruits cellular mRNA decay enzymes,including the deadenylase complex CCR4-NOT,decapping complex DCPla/DCP2, $3 ^ { \\prime }  – 5 ^ { \\prime }$ exoribonuclease complex exosome,and $5 ^ { \\prime }  – 3 ^ { \\prime }$ exoribonuclease Xrnl, to degrade target mRNAs (6-14).This activity ofTTP is regulated by phosphorylation modification (6-14).There is increasing evidence suggesting that TTP also regulates the translation of target mRNAs.It has been reported elsewhere that TTP associates with polysomes (15,16) and that a TTP-interacting protein, cullin 4B,promotes the loading of TTP-associated TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ mRNA complex onto polysomes (17).Recently,Qi et al.reported that TTP inhibits the translation of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ in anARE-dependent manner and the RNAhelicase RCK is involved in this process (18).In addition,Tiedje etal.reported that TTP represses the translation of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ through competing with HuR to bind to ARE(19).Nonetheless,detailed mechanisms underlying TTP-mediated translational repression are not well established. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Translation initiation is the main target of translational repression,although other mechanisms also exist (20).Most eukaryotic translation initiation is cap dependent. The cap-binding factor eukaryotic initiation factor 4E (eIF4E)binds to the cap structure ofan mRNAand recruits eIF4G,a scaffold protein which further recruits eIF4A,eIF4B,and the 43S preinitiation complex for the assembly of a translation initiation complex(20).This process can be disturbed by a variety of means (20,21).For example, the zinc finger antiviral protein(ZAP） represses the translation of target mRNA by interfering with the interaction between eIF4A and eIF4G (22). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eIF4E2,a homologue of eIF4E,can bind to the cap structure of an mRNA but does not interact with eIF4G (23,24) and thus can act as a translational repressor by competing with eIF4E.eIF4E2- knockout mice died withina few hours after birth,with an increase in general translation in brain tissues(25).eIF4E2 knockdown in HeLa cells also increased general protein synthesis (25). In addition to regulating general translation,eIF4E2 has been reported to repress the translation of specific mRNAs.Since the binding affinity of eIF4E2 for the cap structure is estimated to be much lower than that of eIF4E(26),eIF4E2 needs to be recruited byaspecific RNA binding protein to target mRNA to compete with eIF4E for cap binding.In Drosophila melanogaster,the eIF4E2 homologue,d4EHP,is recruited by Bicoid to repress the translation of caudal mRNA to drive embryo development (27). In oocytes developing in mice,eIF4E2 interacts with Prepl to repress the translation ofHoxb4 mRNA(28).eIF4E2hasalso been reported to be able to initiate translation under some circumstances.A recent study showed that in hypoxia eIF4E2 is recruited by the oxygenregulated protein hypoxia-inducible factor alpha and the RNA binding protein RBM4 to initiate the translation ofhypoxia response genes (29). This activity of eIF4E2 is exploited by cancer cells to produce hypoxia response proteins to drive tumor progression (30).The underlying mo lecular mechanism is not clear yet. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Research on TTP-mediated translational repression and mRNA decay is hampered by the low efficiency of each process. The total inhibition is often no more than 5-fold(18).As a result, it is diffcult to quantitatively evaluate the magnitudes of mRNA decay and translational repression separately.Multiplication of ARE motifs has been shown to amplifyARE-mediated inhibition of reporter expression (31).In the present study,using a reporter that contains eight ARE motifs,we investigated the mechanism underlying TTP-mediated translational repression.We provide evidence showing that TTP recruits eIF4E2 to repress target mRNA translation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALSANDMETHODS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA constructs and siRNAs.Fragments of AREm,ARE, $\\mathrm { A R E m } ^ { * } 2$ ,and $\\mathrm { A R E } ^ { * _ { 2 } }$ were generated by annealing paired oligonucleotides.The sequences of the oligonucleotides are as follows:AREm oligonucleotides, $5 ^ { \\prime }$ -CTAGAATCGATTATGTATTATGTATGTATTATGTATGT ATTTGGC- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GGCCGCCAAATACATACATAATACATACA TAATACATAATCGATT $\\cdot 3 ^ { \\prime }$ ; ARE oligonucleotides, $5 ^ { \\prime }$ -CTAGAATCG ATTATTTATTATTTATTTATTATTTATTTATTTAGC- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GG CCGCTAAATAAATAAATAATAAATAAATAATAAATAATCGATT$3 ^ { \\prime }$ $\\mathrm { A R E m } ^ { * } 2$ oligonucleotides, $5 ^ { \\prime }$ -CTAGTATGATGTATCATGTATCT ATGATCTATGTACTTGTCTAGAATCGGCGGCCGCATGATGTAT CATGTATCTATGATCTATGTACTTGCG $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GGCCCGCAA GTACATAGATCATAGATACATGATACATCATGCGGCCGCCGAT TCTAGACAAGTACATAGATCATAGATACATGATACATCATA- $\\cdot 3 ^ { \\prime }$ $\\mathrm { A R E } ^ { * _ { 2 } }$ oligonucleotides, $5 ^ { \\prime }$ -CTAGTATTATTTATTATTTATTTATTATTT ATTTATTTATCTAGAATCGGCGGCCGCATTATTTATTATTTATTTAT TATTTATTTATTTACG- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GGCCCGTAAATAAATAAATAATAA ATAAATAATAAATAATGCGGCCGCCGATTCTAGATAAATAAATAAA TAATAAATAAATAATAAATAATA $\\cdot 3 ^ { \\prime }$ . pFL-CMV was generated through replacing the renilla luciferase (RL) coding sequence in phRL-CMV (Promega)with the firefly luciferase (FL) coding sequence from pGL3-Luc-linker (32).pFL-CMV-AREm,pFL-CMV-AREm $^ { * } 2$ ，pFL-CMV-ARE,and pFLCMV-ARE $^ { * } 2$ were generated through inserting the fragments of AREm, ARE, $\\mathrm { A R E m } ^ { * } 2$ ,and $\\mathrm { A R E } ^ { * _ { 2 } }$ into pFL-CMV using restriction sites XbaI and NotI. pFL-CMV-AREm $^ { * } 4$ and pFL-CMV-ARE $^ { \\cdot \\ast } 4$ were generated by inserting fragments of $\\mathrm { A R E m } ^ { * } 2$ and $\\mathrm { A R E ^ { * } } 2$ into pFL-CMV-AREm $^ { * } 2$ and pFLCMV-ARE\\*2 using restriction sites XbaI and NotI. pFL-CMV-AREm $^ { * } 6$ and pFL-CMV- $\\mathrm { . A R E ^ { * } } 6$ were generated by inserting fragments of $\\mathrm { A R E m } ^ { * _ { 2 } }$ and $\\mathrm { A R E ^ { * } } 2$ into pFL-CMV-AREm $^ { * } 4$ and pFL-CMV-ARE $^ { \\cdot * } 4$ using restriction sites XbaI and NotI. pFL-CMV-AREm $^ { 1 ^ { * } 8 }$ and pFL-CMV-ARE $^ { \\cdot \\ast } 8$ were generated by inserting fragments of $\\mathrm { A R E m } ^ { * } 2$ and $\\mathrm { A R E } ^ { * _ { 2 } }$ into pFL-CMV-AREm $^ { 1 ^ { * } 6 }$ and pFL-CMV-ARE $^ { * } 6$ using restriction sites XbaI and NotI. pcDNA4-TTPmyc has been described previously (32).To generate pCMV-HF-eIF4E and pCMV-HF-eIF4E2a/b/c/d/e, the coding sequences of eIF4E and $\\mathrm { e I F 4 E 2 a / b / }$ $c / \\mathrm { d } / \\mathrm { e }$ were each PCR amplified from cDNAs from HeLa cells using specific primers and cloned into pCMV-HF (33) using restriction sites EcoRI and XhoI. Sequences of the primers are as follows: eIF4E primers $5 ^ { \\prime }$ -GCACGAA TTCATGGCGACTGTCGAAC- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GCACCTCGAGTTAAACAACA AACCT- $\\cdot 3 ^ { \\prime }$ ; eIF4E2a/b/c/d/e primers, $5 ^ { \\prime }$ -GCACGAATTCATGAACAACAA GTTCGAC $\\cdot 3 ^ { \\prime }$ (forward primer for all the isoforms), $5 ^ { \\prime }$ -GCACCTCGAGTC ATGGCACATTCAAC- $\\cdot 3 ^ { \\prime }$ (reverse primer for isoforms a and e), $5 ^ { \\prime }$ -GCACC TCGAGTCAGCGGCCGCTGCTGTTC- $\\cdot 3 ^ { \\prime }$ (reverse primer for isoform b)，and $5 ^ { \\prime }$ -GCACCTCGAGCTTGTGTACTCTCACAATGTG $\\cdot 3 ^ { \\prime }$ (reverse primer for isoforms c and d).The coding sequence of the N-terminal fragment of eIF4E2(eIF4E2N) was generated by PCR from pCMV-HFeIF4E2 using primers $5 ^ { \\prime }$ -GCACGAATTCATGAACAACAAGTTCGA $\\mathbf { C } \\mathbf { - } 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GCACCTCGAGTCATTCTTTGAAGAGATGGAAG $\\cdot 3 ^ { \\prime }$ .The coding sequence of the C-terminal fragment of eIF4E2 (eIF4E2C） was generated by PCR from pCMV-HF-eIF4E2 using primers $5 ^ { \\prime }$ -GCACGAA TTCGGAATTAAACCCATGTG- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -GCACCTCGAGTCATGGC ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ACATTCAAC $\\cdot 3 ^ { \\prime }$ .The Y78A mutation was generated by overlapping PCR from pCMV-HF-eIF4E2 using primers $5 ^ { \\prime }$ -CAGAGCGCTGAACAGAAT ATCAAAC- $3 ^ { \\prime }$ and $5 ^ { \\prime }$ -CTGTTCAGCGCTCTGTGAGCTCGTG $3 ^ { \\prime }$ .The short hairpin RNA (shRNA)-expressing vectors,pSR-Ctrli,pSR-TTPi, pSR-eIF4E2i-302,and pSR-eIF4E2i-977,were generated by annealing paired oligonucleotides and subsequently cloning them into pSR vector (OligoEngine) using restriction sites BglII and HindIII. Sequences of the oligonucleotides are as follows: Ctrli oligonucleotides, $5 ^ { \\prime }$ -GATCCCCGC GCGCTTTGTAGGATTCGTTCAAGAGACGAATCCTACAAAGCGCG CTTTTTA $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -AGCTTAAAAAGCGCGCTTTGTAGGATTCGTC TCTTGAACGAATCCTACAAAGCGCGCGGG- $\\cdot 3 ^ { \\prime }$ ； TTPi oligonucleotides, $5 ^ { \\prime }$ -GATCCCCCGCTGCCACTTCATCCACATTCAAGAGATGTGGATG AAGTGGCAGCGTTTTTA- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -AGCTTAAAAACGCTGCCACTTC ATCCACATTCAAGAGATGTGGATGAAGTGGCAGCGGGG- $3 ^ { \\prime }$ · eIF4E2i-302 oligonucleotides, $5 ^ { \\prime }$ -GATCCCCCACAGAGCTATGAACAGA ATATTCAAGAGATATTCTGTTCATAGCTCTGTGTTTTTA- $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ 1 AGCTTAAAAACACAGAGCTATGAACAGAATATCTCTTGAATATTCT GTTCATAGCTCTGTGGGG $3 ^ { \\prime }$ ; eIF4E2i-977 oligonucleotides, $5 ^ { \\prime }$ -GATCC CCAGCTGAGATCACTTAATAATTCAAGAGATTATTAAGTGATCTCA GCTTTTTTA $\\cdot 3 ^ { \\prime }$ and $5 ^ { \\prime }$ -AGCTTAAAAAAGCTGAGATCACTTAATAATC TCTTGAATTATTAAGTGATCTCAGCTGGG- $3 ^ { \\prime }$ . Small interfering RNAs (siRNAs) were purchased from GenePharma. The sense sequences are as follows: Ctrl, $5 ^ { \\prime }$ -UUCUCCGAACGUGUCACGUTT $\\cdot 3 ^ { \\prime }$ ; eIF4Ei, $5 ^ { \\prime }$ -GGAUG GUAUUGAGCCUAUGTT $\\cdot 3 ^ { \\prime }$ ; eIF4E2i, $5 ^ { \\prime }$ -CGAGACAAGAAUCAGAGCA GUTT $\\cdot 3 ^ { \\prime }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cell cultureand transfection.HeLa,HEK293,and HEK293T cells were maintained in Dulbecco's modified Eagle's medium (Invitrogen) supplemented with $1 0 \\%$ fetal bovine serum (Gibco).THP-1 cells were maintained in RPMI 1640 medium (Invitrogen) supplemented with $1 0 \\%$ fetal bovine serum (Gibco).THP-1 cells stably expressing a control shRNA or the shRNAs directed against TTP or eIF4E2were established through infecting THP-1 cells with vesicular stomatitis virus G protein (VSV-G)-pseudotyped shRNA-expressing retroviral vectors and subsequent puromycin selection. To induce TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ expression in THP-1 cells, cells were treated with phorbol myristate acetate(PMA; Sigma) ata final concentration of $2 0 0 \\mathrm { n M }$ for 2 days,followed by resting in fresh medium for1 day and then lipopolysaccharide (LPS)(Sigma; final concentration of $1 0 0 \\mathrm { n g / m l }$ )treatment for $\\boldsymbol { \\cdot } \\boldsymbol { \\mathrm { h } }$ .To knock down eIF4E or eIF4E2 in HeLa cells, siRNA was transfected into the cells using Lipofectamine 200o (Invitrogen).Twenty-four hours later,the cells were transfected with the reporters and a TTP-expressing plasmid using the Neofectin DNA transfection reagent (SciLight).Another $2 4 \\mathrm { h }$ later,cells were harvested. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Luciferase assay and RNA extract.Luciferase activities were measured with the Dual-Luciferase reporter assay system (Promega) according to the manufacturer's instructions,except that the cells were lysed with RNase-freeRLNlysis buffer ( $\\mathrm { 5 0 ~ m M }$ Tris-Cl, $\\mathrm { p H } 8 . 0$ 0 $1 4 0 ~ \\mathrm { m M }$ NaCl, 1.5 mM $\\mathrm { \\ M g C l } _ { 2 }$ $0 . 5 \\%$ NP-40, $1 \\mathrm { m M }$ dithiothreitol[DTT], $1 { , } 0 0 0 \\mathrm { U / m l }$ RNase inhibitor),which keeps the nuclei intact.Cytoplasmic RNA was extracted from clarified cellysate using TRIzol (Invitrogen) according to the manufacturer's instructions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polysome profling analysis.The polysome profiling analysis procedure was similar to that described previously (22).Briefly,cells were treated with fresh medium containing $1 0 0 \\mathrm { \\mu { g } / m l }$ cycloheximide to fix the polysomes for $3 0 \\mathrm { m i n }$ .The cells were lysed with the lysis buffer ( $\\mathrm { { 1 0 ~ m M } }$ HEPES,pH 8.0,300 mMKCl, $5 ~ \\mathrm { m M }$ （204号 $\\mathrm { \\ M g C l } _ { 2 }$ 0 $0 . 5 \\%$ NP-40, $1 0 0 ~ \\mathrm { \\mu g / m l }$ cycloheximide), $1 ~ \\mathrm { m l }$ for each $1 0 \\mathrm { - c m }$ dish.The clarified cell lysate was separated through ultracentrifugation in a $1 0 \\%$ to $5 0 \\%$ sucrose gradient. RNA concentrations of the samples were measured with a continuous $2 5 4 \\mathrm { - n m }$ absorbance detector to indicate the positions of ribosome subunits and polysomes.Twelve fractions, $\\mathrm { 1 m l }$ each,were collected for each sample.The RNA in each fraction was isolated by two rounds of extraction with phenol-chloroform-isopentanol (25:24:1） and one round of phenol removal with chloroform-isopentanol (49:1),followed by alcohol precipitation.The FL-ARE and renilla luciferase control reporter mRNA levels were measured by quantitative reverse transcription PCR (RTqPCR). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein-protein coimmunoprecipitation assay. Cells from a $3 5 \\mathrm { - m m }$ dishwere lysed in $3 0 0 ~ \\mu \\mathrm { l }$ lysis buffer ( $3 0 ~ \\mathrm { m M }$ HEPES $\\mathrm { [ p H } 7 . 5 ]$ ， $1 0 0 ~ \\mathrm { m M }$ $\\mathrm { \\Delta N a C l }$ $0 . 5 \\%$ NP-40, $1 \\mathrm { m M }$ NaF, $\\mathrm { 1 \\ m M \\ N a V O _ { 3 } }$ ,andaprotease inhibitor cocktail) for $3 0 \\mathrm { m i n }$ on a roller at $4 ^ { \\circ } \\mathrm { C }$ The lysate was clarified by centrifugation at $1 2 , 0 0 0 ~ \\mathrm { r p m }$ for $1 0 ~ \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ .The clarified cell lysate was incubated with antibodies and protein G-Sepharose (Amersham Pharmacia)for $^ { 2 \\mathrm { h } }$ on a roller at $4 ^ { \\circ } \\mathrm { C }$ ForRNaseA treatment,RNaseAwas added to a final concentration of $1 0 0 \\mu \\mathrm { g / m l }$ just before incubation.Immunoprecipitates were washed three times with phosphate-buffered saline (PBS), resuspended in SDS loading buffer,boiled for $5 \\mathrm { m i n }$ ,resolved by SDSPAGE,and detected by Western blotting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cap-binding assay.The cap-binding assay procedure was the same as the protein-protein coimmunoprecipitation assay except that the antibodies and protein G-Sepharose were replaced with M7-GTP-Sepharose (GE Healthcare Biosciences). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RNA-protein coimmunoprecipitation assay. Cells were lysed with optimizedRLNlysis buffer( $\\mathrm { \\Omega } 5 0 \\mathrm { \\ m M }$ Tris-Cl, $\\mathrm { p H } 8 . 0$ ,140 mMNaCl, 1.5 mM $\\mathrm { \\ M g C l } _ { 2 }$ 0 $0 . 5 \\%$ NP-40,1 mMDTT, $1 { , } 0 0 0 \\mathrm { U / m l }$ RNase inhibitor) for 30 min on a roller at $4 ^ { \\circ } \\mathrm { C }$ . The lysate was clarified by centrifugationat 2,000 rpm for $5 \\mathrm { ~ m ~ }$ at $4 ^ { \\circ } \\mathrm { C }$ .The clarified lysate was incubated with antibodies against eIF4E(A-10,sc-271480; Santa Cruz) or eIF4E2(YB-18,sc-100731; Santa Cruz) and protein G-Sepharose (Amersham Pharmacia) for $^ { 2 \\mathrm { h } }$ on a roller at $4 ^ { \\circ } \\mathrm { C }$ .Immunoprecipitates were washed three times with PBS. Half of the immunoprecipitate was resuspended in TRIzol (Invitrogen) for RNA extraction. The remaining immunoprecipitate was resuspended in SDS loading buffer for protein detection by Western blotting. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quantitative RT-PCR.RNA was reverse transcribed in a $2 0 \\mathrm { - } \\mu \\mathrm { l }$ reaction mixture [1 to $5 ~ { \\mu \\mathrm { g } }$ RNA, $1 ~ { \\mu \\mathrm { g } }$ oligo $\\left( \\mathrm { d T } \\right) _ { 1 8 }$ 0 $1 0 \\mathrm { m M }$ deoxynucleoside triphosphates (dNTPs),Tris-HCl $\\mathrm { ( p H } 8 . 3 \\mathrm { ) }$ ， $7 5 \\mathrm { m M }$ KCl, 3 mM $\\mathrm { M g C l } _ { 2 }$ ,5 mM DTT, $1 ~ \\mu \\mathrm { l }$ RT].The cDNA levels were measured by SYBR green real-time PCR in the Rotor-Gene 60oO system (Corbett Life Science). Sequences of the primers are as follows: qLuc-FP, $5 ^ { \\prime }$ -TGAGGCACTGGG CAGGTGTC $\\cdot 3 ^ { \\prime }$ (walking over the intron sequence,for both firefly luciferase and renilla luciferase reporter); qFL-RP, $5 ^ { \\prime }$ -ATGCAGTTGCTCTCCA GCGG $\\cdot 3 ^ { \\prime }$ ；qRL-RP, $5 ^ { \\prime }$ -ATGAAGGAGTCCAGCACGTTC $\\cdot 3 ^ { \\prime }$ ；qGAPDHFP， $5 ^ { \\prime }$ -TCGGAGTCAACGGATTTG $\\cdot 3 ^ { \\prime }$ ；qGAPDH-RP, $5 ^ { \\prime }$ -GCATCGCC CCACTTGATT $\\cdot 3 ^ { \\prime }$ ；qTNF-FP, $5 ^ { \\prime }$ -CCTCTCTCTAATCAGCCCTCTG $\\cdot 3 ^ { \\prime }$ qTNF-RP, $5 ^ { \\prime }$ -GAGGACCTGGGAGTAGATGAG- $\\cdot 3 ^ { \\prime }$ ; qTTP-FP, $5 ^ { \\prime }$ -GACTG AGCTATGTCGGACCTT $\\cdot 3 ^ { \\prime }$ ; qTTP-RP, $5 ^ { \\prime }$ -GAGTTCCGTCTTGTATTTG GGG $\\cdot 3 ^ { \\prime }$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Statistics.The mean values $\\pm$ standard deviations (SD) were calculated from three independent experiments or measurements. $P$ values were calculated using the Student t test. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TTP represses the translation of ARE reporters.In an attempt to increase the responsiveness of ARE reporters to TTP,reporters containing different numbers of a typical TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\propto$ ARE motif in the $3 ^ { \\prime }$ UTR of firefly luciferase were constructed (Fig.1A).To avoid plasmid DNA contamination of the RNA samples during quantitative RT-PCR(RT-qPCR) measurement of the reporter mRNA levels,an intron was inserted into the $5 ^ { \\prime }$ UTR (Fig. 1A). PCR using a forward primer walking over the intron sequence (Fig.lA) amplifies the cDNA reverse transcribed from the spliced mRNAs but not the fragment in the plasmids.Ano-RT control was used in the RT-qPCR assay to monitor plasmid contamination,and no plasmid contamination was observed. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The reporters and a plasmid expressing TTP were transfected into HeLa cells.The sensitivity of a reporter to TTP was indicated by fold inhibition,calculated as the luciferase activity expressed from the reporter in the absence of TTPdivided by the luciferase activity in the presence of TTP.Increased numbers ofARE motifs significantly increased the sensitivity of the reporter to TTP (Fig. 1B).Increased sensitivity to TTP was not likely caused by the increased length of the $3 ^ { \\prime }$ UTR since the reporter containing eight mutated ARE motifs $\\boldsymbol { ( \\mathrm { A R E m } ^ { * } 8 }$ )was not sensitive to TTP (Fig.1B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TTP inhibited the expression of the $\\mathrm { F L - A R E } ^ { \\ast } 8$ reporter by about l6-fold on the protein level,as indicated by the luciferase activity (Fig.1B).However, the mRNA level of the reporter was reduced by only about 3-fold,as determined by RT-qPCR (Fig. 1B),implying that translational repression exists in TTP inhibition of the reporter expression,which is consistent with the results reported previously by Qi et al. (18).Relative translational efficiency was calculated as the luciferase activity divided by the relative mRNAlevel to evaluate the inhibitory effect of TTP on reportermRNA translation.Data showed that TTP inhibited the translational efficiency of the reporter by about 5-fold (Fig. 1B). The reporter containing eight ARE motifs was used in the following studies and named FL-ARE. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We next examined whether the endogenous TTP inhibits the expression of the FL-ARE reporter.TTP was downregulated in HEK293 cells with an shRNA,and the reporter was expressed in these cells.Data showed that moderate downregulation of TTP (Fig.1C) increased the protein expression level, the mRNA level, and the translational efficiency of the FL-ARE reporter (Fig. 1D). These results indicate that the endogenous TTP regulates the mRNA abundance and translation efficiency of the reporter, which is consistent with the results reported previously by Qi et al., wherein a single ARE motif-containing reporter was used (18). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine whether TTP functions in a dose-dependent manner, the FL-ARE reporter was transfected into cells together with increasing amounts of the TTP-expressing plasmid.Increased expressionlevelsof TTPdisplayed increased fold inhibition on the ARE reporter(Fig.1E).Notably,when 5 ng of or more of the TTP-expressing plasmid per well of the 12-well plate was used to transfect cells,cytotoxicity was significant,as indicated by the decreased expression of the control renilla luciferase reporter (Fig.1E). To avoid the cytotoxicity,we used $2 ~ \\mathrm { n g }$ of the TTPexpressing plasmid per well in the following studies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TTP interacts with eIF4E2 but not eIF4E.A previous study suggested that ARE-mediated translational repression may be cap dependent (34).We speculated that TTP might repress cap-dependent translation initiation.To test this hypothesis,we analyzed the interactions of TTP with cap-binding proteins eIF4E and eIF4E2 by coimmunoprecipitation assays.To prevent nonspecifc RNA tethering,the cell lysate was treated with RNase A before immunoprecipitation.Data showed that TTP did not interact with eIF4E but interacted with eIF4E2 (Fig.2A).To validate the efficiency and the specificity of the coimmunoprecipitation assay, the interaction of endogenous eIF4G with eIF4E or eIF4E2 was detected. Consistent with the previously reported results (24), eIF4G interacted with eIF4E but not with eIF4E2(Fig.2A). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sequence analysis recently revealed that there are four additional eIF4E2 isoforms (NCBI; http://www.ncbi.nlm.nih.gov /gene/9470). Compared with prototype eIF4E2,isoform a,isoforms b,c,andd havedifferentC termini,and isoforms cand d lack a fragment close to the N terminus (Fig. 2B).We explored whether these eIF4E2 isoforms interact with TTP.Coimmunoprecipitationassays revealed thatall the eIF4E2 isoforms interacted with TTP (Fig. 2C). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of eIF4E2 enhances TTP-mediated translational repression.To probewhether eIF4E2is involved in TTPmediated translational repression,we analyzed the effect of overexpression of eIF4E2a on TTP inhibition of reporter expression. Overexpression of eIF4E was included as a control.While overexpressionof eIF4E modestlyreduced TTP-mediated translational repression,overexpression of eIF4E2a ata comparable expression level enhanced TTP-mediated translational repression (Fig. 3A and B).The fold inhibition on the mRNA levels was not significantly affected by overexpression of eIF4E or eIF4E2a (Fig. 3A). Notably,only the overexpression of eIF4E2a ata relatively high level enhanced TTP-mediated translational repression (Fig.3C and D). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbe779d7a31089c27f0402c4d188feb59bb3be2d1febbfc0b4461de657af2a1b.jpg",
+        "img_caption": [
+            "FIG1Trep luciferase(RL) reporter.In the firefly reporter,each black box in the $3 ^ { \\prime }$ UTR represents a wild-type or mutated ARE motif.The indicated primers were used for quantitativepli indicated number of ARE motifs $( \\mathrm { A R E ^ { * } } n )$ or mutated ARE motifs $( \\operatorname { A R E m } ^ { * } n$ ).The plasmid expressing control reporter RL was included to serve as a control for transfection eficiency and sample handling. At $4 8 \\mathrm { h }$ posttransfection,cell were harvested and lysed.One-tenth of the cellysate was used to measure luciferase actities,dsttcepeeseeasuased lucifeseci effey inthepresence(Cad)expessesTotrasetell $^ { * } 8$ （20 $1 / 1 0$ ofthcll (C)Teoaiatodgele (DFLcti amounts ofa plasmid expressng TTP-myc were transfected into HeLacelswith the FL $\\boldsymbol { \\cdot } \\boldsymbol { \\mathrm { A R E ^ { * } } 8 }$ and RL reporters. A plasmid expressing green fluorescent protein (GFP)-myc was included to serve as a control for transfection eficiency and sample handling. $\\mathrm { A t } 4 8 \\mathrm { h }$ postransfection,cells were lysed,luciferase activities were measuredd presented are means $\\pm \\ : \\mathrm { S D }$ from three independent experiments.\\*, $P < 0 . 0 5 ; * * , P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a18cc80eef761f9718ff993f57caf204acf56882c7230b4e45c3f1082ab3ac3.jpg",
+        "img_caption": [
+            "FIG 2 TTP interacts with eIF4E2 but not with eIF4E.(A) TTP-myc was transiently expressed in HEK293 cells together with FLAG-tagged eIF4E or eIF4E2a.At $^ { 4 8 \\mathrm { ~ h ~ } }$ posttransfection,cells were harvested and lysed.Cell lysates were immunoprecipitated (IP) with anti-FLAG antibody in the presence of RNase A.The precipitates were resolved by SDS-PAGE followed by Western blotting.(B) Schematic representation of eIF4E2 isoforms.(C) TTP-myc was transiently expressed in HEK293 cells together with each FLAG-tagged eIF4E2 isoform. At $^ { 4 8 \\mathrm { ~ h ~ } }$ posttransfection,cells were harvested and lysed. Cell lysates were immunoprecipitated with anti-FLAG antibody in the presence of RNase A.The precipitates were resolved by SDS-PAGE followed by Western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We next tested whether other eIF4E2 isoforms also function in TTP-mediated translational repression. Overexpression of any one of the isoforms had no significant effect on the fold inhibition on the mRNA levels (Fig.3E).While overexpression of isoforms a, b,c,andd significantly enhanced TTP-mediated translational repression,overexpression of isoform e had little effect (Fig. 3E). Notably,the expression level of isoform e was considerablylower than those of the other isoforms (Fig.3F),which may account for its lack of activity in this assay.In the following studies,we focused on isoforma (here referred to as $\\ \" e I F 4 E 2 \\ \"$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Downregulation of eIF4E2 impairs TTP-mediated translational repression.We next examined the effect of downregulating the endogenous eIF4E2 on TTP-mediated translational repression.An siRNA directed against the common sequence of all the isoforms of eIF4E2 was employed.An siRNA directed against eIF4E was used as a control.The siRNAs significantly reduced the expression levels of eIF4E and eIF4E2 (Fig.4A).While downregulation of eIF4E modestly enhanced TTP-mediated translational repression,downregulation of eIF4E2 significantly reduced TTPmediated translational repression (Fig. 4B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of an eIF4E2 truncation mutant impairs TTP-mediated translational repression.We next mapped the domains of eIF4E2 involved in its interaction with TTP.The fulllength eIF4E2 was divided into two fragments,the N-terminal domain eIF4E2Nand the C-terminal domain eIF4E2C.The interaction was analyzed by coimmunoprecipitation assays.To prevent nonspecific RNA tethering, the cell lysate was treated with RNase A before immunoprecipitation.Data showed that both eIF4E2N and eIF4E2C interacted with TTP (Fig.5A).Interestingly, for unknown reasons, the interaction ofTTPwith eIF4E2N seemed to be stronger than that with the full-length eIF4E2 (Fig.5A). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Based on the above results,we speculated that overexpression of the eIF4E2 truncation mutants might inhibit the activity ofTTP in a dominant negative manner.Indeed,overexpression of both truncation mutants significantly impaired TTP-mediated translational repression without a significant effect on the fold inhibition of the mRNA levels (Fig. 5B) or on TTP expression (Fig. 5C). These results further suggest that eIF4E2 is involved in TTP-mediated translational repression. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of eIF4E2N relieves TTP-mediated reduction of target mRNAassociation with polysomes.To further validate the roles of TTP and eIF4E2 in translation repression of ARE-containing mRNAs,we analyzed the effect of overexpression of TTP and eIF4E2N on the association of target mRNA with polysomes by the polysome profiling assay.Overexpression of TTP or eIF4E2N did not significantly affect the pattern of ribosome distribution (Fig. 6A)，suggesting that overexpression of TTP or eIF4E2N did not affect general translation under this condition. Overexpression of TTP significantly reduced the percentage of FL-ARE reporter mRNA in the polysome fractions,and overexpression of eIF4E2N partially relieved the reduction (Fig. 6B and C).These effects were specific since the distribution of the renilla luciferase control reporter mRNA was not significantly affected (Fig.6B and C).These results further indicate that TTP represses the translation of ARE-containing mRNAs and that eIF4E2 is involved in this process. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of an eIF4E2 mutant thatloses the cap-binding activityimpairs TTP-mediated translational repression.It is well established that eIF4E2 binds to the cap structure of an mRNA but does not interact with eIF4G (35).Hence,when eIF4E2 binds to the cap structure,it interferes with the assembly of the translation initiation complex.Residue Y78 is essential for cap binding of eIF4E2a (36).To investigate the role of the cap-binding activity of eIF4E2 in TTP-mediated repression,the FLAG-tagged eIF4E2Y78A mutant was constructed.The mutant was transiently expressed in HeLa cells and assayed for its ability to bind to the cap structure analog M7-GTP.Consistent with the previous results reported by others (36),the eIF4E2Y78A mutant failed to bind M7-GTP (Fig.7A).However, the mutation did not affect the interaction of eIF4E2 with TTP (Fig. 7B). Overexpression of the eIF4E2Y78A mutant impaired TTP-mediated translational repression (Fig.7C)without a significant effect on fold inhibition of the mRNA levels (Fig.7C) or on TTP expression (Fig. 7D). These results suggest that the eIF4E2Y78Amutant inhibited TTP-mediated translational repression in a dominant negative manner and that the cap-binding activity of eIF4E2 is required for its function in TTP-mediated translational repression. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b16611340b932c8439cb3c574e85bb4e3013b49ffa5801f1cb01ef9bab315fe2.jpg",
+        "img_caption": [
+            "FG3Oveexpd)p vector(EV)was transfected intoHeLacels withtheluciferasereporters,withor withoutaplasmid expressngTTP-myc.At $^ { 4 8 \\mathrm { ~ h ~ } }$ posttransfection,cells were areste 1B.（B)One-tethflateassofldestboti.CDdcatedotsofepldei FLAGtagged potre describednDlao FLAGtggedsfe TT-A wascalculatedl means $\\pm$ SD from three independent experiments. $^ *$ $P < 0 . 0 5$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TTP promotes eIF4E2 to bind to target mRNA.Based on the above results,we hypothesized that TTP promotes eIF4E2 to bind to the cap structure of target mRNA and thus compete with eIF4E to inhibit the assembly of the translation initiation complex. To test thehypothesis,we measured the relative levels of the FL-ARE reporter mRNA associated with eIF4E2 or eIF4E2 in the presence or absence of TTP.The reporter and TTP were transiently ex pressed in HeLa cells.eIF4E or eIF4E2 was immunoprecipitated, and the associated reporter mRNA levels were measured.TTP expression decreased the association of the FL-ARE reporter mRNA with eIF4E(Fig.8A) but increased its association with eIF4E2(Fig.8B).These effects were specific; the association of the renilla luciferase control reporter mRNA with eIF4E2 was minimal and little affected by TTP expression (Fig.8A and B). Western blotting revealed that comparable amounts of eIF4E2 were immunoprecipitated(Fig.8C).Collectively,these results imply that TTP specifically promotes eIF4E2 association with target mRNA. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7752aecf3ea5d69b84e831387b9b62f7567d584ca2797705422c9f0f626d7f99.jpg",
+        "img_caption": [
+            "FIG 4 Downregulation of eIF4E2 impairs TTP-mediated translational repression.A control siRNA $\\textstyle ( \\operatorname { C t r l } )$ oran siRNA targeting eIF4E or eIF4E2 was transfected into HeLa cells.At $2 4 \\mathrm { h }$ posttransfection,reporter plasmids were transfected into these cells with or without a plasmid expressing TTP-myc.At $2 4 \\mathrm { h }$ after the second round of transfection,cells were harvested and lysed.(A) One-tenth of the cell lysate was resolved by SDS-PAGE followed by Western blotting.(B)Luciferase activities and mRNAlevels of the reporters were measured,and fold inhibition was calculated as described in the legend to Fig.1B. Data presented are means $\\pm \\ : \\mathrm { S D }$ from three independent experiments.\\*, $P <$ 0.05.EV,empty vector. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Downregulation of eIF4E2 increases the production of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ in THP-1 cells.In the above-described experiments,we used an ARE reporter to explore the function of eIF4E2 in TTPmediated translational repression.We next investigated whether eIF4E2 is involved in TTP-mediated translational repression under physiological conditions.Macrophages are the main source of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } \\cdot \\mathbf { \\vec { \\alpha } } $ ,and TTP regulates the production of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ in these cells (3).Thus,we used macrophage-like PMA-treated THP-1 cells to analyze therolesof TTP and eIF4E2in theregulation of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\propto$ production.For this purpose,a THP-1 cell line was needed in which eIF4E2 is stably downregulated.Considering the fact that eIF4E2 knockout caused general translation dysregulation and perinatal lethality in mice (25), we reasoned that stably downregulatingall the isoforms of eIF4E2 might be toxic to the cells.We thus chose to downregulate only a subset of the isoforms of eIF4E2.Two shRNAs,one (sh302) targeting isoforms a,b,and c and the other(sh977) targeting isoforms a and e,were stably expressed in THP-1 cells.An shRNA targeting TTP was stably expressed in THP-1 cells to serve as a positive control.Western analysis revealed that eIF4E2 was efficiently downregulated but TTP was only moderately downregulated (Fig. 9A). These cells were treatedwithPMAand thenstimulated withLPS to induce TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\propto$ production.Downregulation of TTP modestly enhanced the mRNAlevelof TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\propto$ (Fig. 9B). In contrast, downregulation of eIF4E2 had litte effect on the mRNA levels (Fig.9B).Downregulation of TTP increased the production of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ in the culture medium,as wellas the pro-TNF and TNF- $\\mathbf { \\alpha } _ { \\cdot \\mathbf { \\alpha } \\propto }$ in the cell lysate (Fig. 9C).In comparison,downregulation of eIF4E2 increased the production of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\propto$ and the expression of pro-TNF as well as the downregulation of TTP (Fig. 9C).These results indicate that eIF4E2 is indeed involved in the expression of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha }$ in THP-1 cells. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/b98c366de5b8098ad8818b1e7957e0aafd69a143dc1da144a1b104eab2ee5f24.jpg",
+        "img_caption": [
+            "FG5Oveexpautalsp togetherwithdE)C)lE（E)eled antibodieepd oraplasmdexpressAG-Eo-E2CasrsfeeditoLclsiporesitoouapdexpessng-t $^ { 4 8 \\mathrm { ~ h ~ } }$ potre described in the legend to Fig.1B. Data presented are means $\\pm \\ \\mathrm { S D }$ from three independent experiments. $^ { * * }$ $P < 0 . 0 1$ .(C) The cell lysates were resolved by SDS-PAGE followed by Western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/beee96a37ce8cb3af1d4054ea5ed20cd8d3c1403609924d20733902a91655492.jpg",
+        "img_caption": [
+            "FIG6TP-medooiiseexps. expreingFLAG-taggedFE2(4E2)wastrasfeedintoHeLacelsittereporterstoiouaplasmdexpressigcAt $4 8 \\mathrm { h }$ posttransfection, cells were treated with cycloheximide for $3 0 ~ \\mathrm { { m i n } }$ and then lysed.The clarified cellysates were fractionated through sucrose gradient centrifugation. Polysoeprofedd.ccddrsee Thepecentagceei. fthRNAlctiosasllaeactdaleillcta are means $\\pm \\ : \\mathrm { S D }$ from three independent measurements,representative of two independent experiments.\\*, $P < 0 . 0 5$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd9db883a172049408d765aa32d1c37495c38cbcf43c0fc64a6bbe0f221c3fb9.jpg",
+        "img_caption": [
+            "FIG7Oveexptesl Y78Autantpdreead lysatesoto. FLAG-taggedouatCellateseopeiaediiGibodieee immunoprecipidalclsed-fdstoiCAtoodn FLAG-taggedeF4E2Y78Amutatwas ransfectedintoHeLacelsiththereporters,withowithoutaplasmidexpressingT-myc.At $4 8 \\mathrm { h }$ posttransfection, ces to Fig.1B.Data presented are means $\\pm \\operatorname { S D }$ from three independent experiments.\\*, $P < 0 . 0 5$ .(D) The cellysates were resolved by SDS-PAGE followed by Western blotting. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/68e1557c07b2c8cc8b17363a05dfc2c4cdcbf7ae9fa99de67e35e481fdad8ebc.jpg",
+        "img_caption": [
+            "FIG8 TTP promotes eIF4E2 binding to ARE-containing mRNAs.An empty vector (EV) ora plasmid expressing TTP-myc was transfected into HeLa cells with the FL-ARE and RL reporters. $\\mathrm { A t } 4 8 \\mathrm { h }$ posttransfection,one-fourth of the cell lysate was immunoprecipitated with anti-eIF4E or anti-eIF4E2 antibody. (A and B) RNA was extracted from one-eighth of the cell lysates and half of the precipitates.The reporter mRNA levels were measured byRT-qPCR.The percentage of input was calculated as the reporter mRNAlevel in the precipitates divided by the reporter mRNA level in the cell lysates.Data presented are means $\\pm \\ \\mathrm { S D }$ from three independent measurements,representative of two independentexperiments.\\*, $P < 0 . 0 5$ ；\\*\\*， $P < 0 . 0 1$ .(C) The cell lysates and the remaining precipitates were resolved by SDS-PAGE followed by Western blotting. IP,immunoprecipitation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TTP plays important roles in immunology,metabolism,and differentiation by regulating the expression of multiple target genes that contain type II AREs in the $3 ^ { \\prime }$ UTR (37). TTP regulates the expression of ARE-containing mRNAs by both promoting the degradation and repressing the translation of target mRNA (38). While the mechanisms by which TTP promotes the degradation of ARE-containing mRNAs have been extensively studied (39), the mechanismunderlying TTP-mediated translational repression is not so well established.A difficulty in the studies on TTP repression of translation is that the magnitude of inhibition is relatively small. Reporters containing tandem multiple responsive elements have been widely used to increase reporter sensitivity in studies of microRNA-mediated gene silencing (40,41).Tandem multiple AREs also exist in the $3 ^ { \\prime }$ UTR of many mRNAs, such as interleukin-6 (IL-6), IL-8, and IL-1O mRNA (http://rna.tbi.univie.ac.at /cgi-bin/AREsite.cgi). Here, we developed a reporter containing eight ARE motifs,which is much more sensitive to TTP than the reporter containing a single ARE motif (Fig. 1).Using this reporter,we probed the mechanism underlying TTP repression of translation and provide evidence showing that TTP recruits eIF4E2 to compete with eIF4E to block translational initiation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "TTP interacted with all the five isoforms of eIF4E2 but not with eIF4E in the coimmunoprecipitation assays (Fig. 2A and C). Sequence analyses revealed that isoforms band cdiffer from isoform a at the C-terminal domain.Isoforms d and e lack an exon containing the residue Y78,which is essential for the cap-binding activity of isoform a (Fig. 2B and 7A). However,our preliminary results showed that isoforms d and e also bound the cap structure analog M7-GTP(X.Tao and G.Gao,unpublished data),implying that they bind the cap structure in a manner distinct from that of isoforma.This possibility is supported by the finding that eIF4E3 binds to the cap in a manner that does not involve the Y78 equivalent residue (42). Overexpression of eIF4E2a enhanced TTP-mediated translational repression in a dose-dependent manner (Fig 3).Compared with the other isoforms,overexpression of isoform e appeared to fail to enhance TTP's activity (Fig. 3C). One plausible explanation is that the protein was expressed at a lower level than were the other isoforms (Fig.3F),although the cells were transfected with a large amount of the expressing plasmid. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/917188d59184e6c41b4491f8817fe3de947b22705c32432d5d8d4612c2cd51f1.jpg",
+        "img_caption": [
+            "FIG9 eIF4E2 is involved in the regulation of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha }$ protein synthesis in THP-1 cells.THP-1cells stably expressing an shRNA indicated were treated with PMA for2 days,followed by stimulation withLPS for $\\mathrm { 4 h }$ .Theculture media werecollected,andcells were lysed.(A)Celysates were resolvedbySDS-PAGEfollowed byWesternblotigB)CoplasicetracdocllsdAevelseeeauedCRee $\\cdot \\alpha$ was oalizedieeillss cellysates were resolved bySDS-PAGE followed byWesternbloting.Therelative intensitiesof thebands of TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ in the culture media and pro-TNF and $\\beta$ -actinnthecellysatesweequantidusingteImagesoftware.Teeatieintesitofadfpro-Fasormaledwiththao $\\mathbf { \\dot { \\boldsymbol { \\beta } } }$ -actin (left panel, bottom).Datapresentedarerepresentativeofthre independent experiments.Therelative intensityofthebandofTNF- $\\mathbf { \\alpha } _ { \\mathrm { ~ \\tiny ~  ~ } } \\alpha$ in the medium of the control cells was set as 1 (right panel).Data presented are means $\\pm \\ : \\mathrm { S D }$ from three independent experiments.\\*, $P < 0 . 0 5 ; { ^ { \\ast \\ast } }$ $P < 0 . 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "TTP is a phosphorylated protein with multiple phosphorylation status.It has been reported that phosphorylation modifica tioninactivates TTP-mediated mRNA decay but does not affect TTP-mediated repression in another step(s),probably translation (43).eIF4E2 seemed to interact with multiple species of phos phorylated TTP(Fig.2).It will be interesting to investigate whether phosphorylation modification of TTP affects its interaction with eIF4E2 and eIF4E2-mediated TTP repression of target mRNAtranslation. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Downregulation of the endogenous eIF4E2 compromised TTP inhibition of reporter expression (Fig.4),indicating that eIF4E2 is involved in TTP-mediated translational repression at endogenous levels.We further showed that overexpression of truncation mutantsof eIF4E2 significantly relieved TTP-mediated translational repression (Fig.5).Overexpression of TTP reduced the association of target mRNA with the polysomes,and expression of the N-terminal domain of eIF4E2 to some extent restored target mRNA association with the polysomes (Fig.6).In addition, overexpression of an eIF4E2 mutant that lost the cap-binding activity inhibited TTP-mediated translational repression (Fig.7C). These results imply that TTP represses the translation of target mRNA by promoting eIF4E2 to compete with eIF4E to bind to the cap structure.This notion is supported by the observation that overexpression of TTP increased the association of target mRNA with eIF4E2 but decreased target mRNA association with eIF4E (Fig.8).Based on these results,we propose that TTP inhibits the assembly of translation initiation complex on target mRNA through recruiting eIF4E2 to block the cap structure. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tovalidate the functionof TTPandeIF4E2 in TNF $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha }$ translational regulation under physiological conditions,we measured the effect of downregulation of TTP or eIF4E2 on TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ production in THP-1 cells.While downregulation of TTP increased the production of TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } ^ { }$ atboth mRNA and protein levels,downregulation of eIF4E2 increased the production of TNF- $\\mathbf { \\alpha } _ { \\cdot \\mathbf { \\alpha } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } } \\mathbf { \\alpha } _  \\cdot \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot } \\mathbf { \\alpha } _ { \\cdot }$ protein without affecting the mRNA levels (Fig. 9). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In addition to recruiting eIF4E2 to repress target mRNA translation,TTP may have other mechanisms to repress translation.It has been reported previously that TTP competes with HuR to bind to the ARE motif to inhibit translation (19).This mechanism seems to be distinct from the eIF4E2-mediated translational repression,although further investigation is needed to explore the relationship between these two processes.The RNA helicase RCK has been reported to interact with TTP and be required for TTPmediated translational repression(18).Our preliminary results showed that RCK interacted with eIF4E2a(Tao and Gao,unpublished).It will be interesting to investigate whether RCK is involved in eIF4E2-mediated translational repression. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In summary,we developed a reporter with increased sensitivity to TTP-mediated translational repression.Using this system,we investigated the mechanism underlying TTP-mediated translational repression.We provide evidence supporting a model that TTP binds to target mRNA and recruits eIF4E2 to the cap structure of the target mRNA to block translational initiation.This mechanism is further supported by the observation that downregulation of endogenous eIF4E2 enhanced TNF- $\\mathbf { \\alpha } _ { \\cdot \\propto }$ production. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants to Guangxia Gao from the Ministry of Science and Technology of China (973 Program 2012CB910203)and the Chinese Academy of Sciences (KJZD-EWL10-01). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1.Gruber AR,Fallmann J,Kratochvill F,Kovarik P,Hofacker IL.2011. AREsite: a database for the comprehensive investigation ofAU-rich elements. Nucleic Acids Res 39:D66-D69.http://dx.doi.org/10.1093/nar/gkq990.   \n2.Taylor GA,Carballo E,Lee DM,Lai WS,Thompson MJ,Patel DD, Schenkman DI,Gilkeson GS,Broxmeyer HE,Haynes BF,Blackshear PJ.1996.A pathogenetic role for TNF alpha in the syndrome of cachexia, arthritis,and autoimmunity resulting from tristetraprolin (TTP) deficiency. Immunity 4:445-454.http://dx.doi.org/10.1016/S1074-7613 (00)80411-2.   \n3. Carballo E,Lai WS,Blackshear PJ.1998.Feedback inhibition of macrophage tumor necrosis factor-alpha production by tristetraprolin. Science 281:1001-1005.http://dx.doi.org/10.1126/science.281.5379.1001.   \n4.Barreau C,Paillard L,Osborne HB.20o5.AU-rich elements and associated factors: are there unifying principles? Nucleic Acids Res 33:7138- 7150.http://dx.doi.org/10.1093/nar/gki1012.   \n5.Khabar KS.201o.Post-transcriptional control during chronic inflammation and cancer: a focus on AU-rich elements. Cell Mol Life Sci 67:2937- 2955. http://dx.doi.0rg/10.1007/s00018-010-0383-x.   \n6.Chrestensen CA,Schroeder MJ,Shabanowitz J,Hunt DF,Pelo JW, Worthington MT,Sturgill TW.2004. MAPKAP kinase 2 phosphorylates tristetraprolin on in vivo sites including Serl78,a site required for 14-3-3 binding.J Biol Chem 279:10176-10184.http://dx.doi.org/10.1074/jbc .M310486200.   \n7. Clement SL,Scheckel C, Stoecklin G,Lykke-Andersen J. 2011.Phosphorylation of tristetraprolin by MK2 impairs AU-rich element mRNA decay by preventing deadenylase recruitment.Mol Cell Biol 31:256-266. http://dx.doi.0rg/10.1128/MCB.00717-10.   \n8.Marchese FP,AubaredaA,Tudor C,Saklatvala J,Clark AR,Dean JL. 2010.MAPKAP kinase 2 blocks tristetraprolin-directed mRNA decay by inhibiting CAF1 deadenylase recruitment.JBiol Chem 285:27590-27600. http://dx.doi.org/10.1074/jbc.M110.136473.   \n9.Lai WS,Kennington EA,Blackshear PJ.2Oo3.Tristetraprolin and its family members can promote the cell-free deadenylation of AU-rich element-containing mRNAs by poly(A） ribonuclease.Mol Cell Biol 23: 3798-3812.http://dx.doi.org/10.1128/MCB.23.11.3798-3812.2003.   \nl0.Lykke-Andersen J,Wagner E.2oo5.Recruitment and activation of mRNA decay enzymes by two ARE-mediated decay activation domains in the proteins TTP and BRF-1. Genes Dev 19:351-361. http://dx.doi.org/10 .1101/gad.1282305.   \n[1.Hau HH,Walsh RJ,Ogilvie RL,Williams DA,Reilly CS,Bohjanen PR. 2007.Tristetraprolin recruits functional mRNA decay complexes to ARE sequences.J Cell Biochem 100:1477-1492.http://dx.doi.org/10.1002/jcb .21130.   \nl2.Frasca D,Romero M,Landin AM,Diaz A,Riley RL,Blomberg BB. 2010.Protein phosphatase 2A (PP2A) is increased in old murine B cells and mediates p38 MAPK/tristetraprolin dephosphorylation and E47 mRNA instability.Mech Ageing Dev 131:306-314. http://dx.doi.org/10 .1016/j.mad.2010.02.002.   \nl3.Johnson BA,Stehn JR,Yaffe MB,Blackwell TK.2002.Cytoplasmic localization of tristetraprolin involves 14-3-3-dependent and -independent mechanisms.J Biol Chem 277:18029-18036.http://dx.doi.org/10 .1074/jbc.M110465200.   \n14. Stoecklin G, Stubbs T, Kedersha N, Wax S, Rigby WF, Blackwel K, Anderson P.2004.MK2-induced tristetraprolin:14-3-3 complexes prevent stress granule association and ARE-mRNA decay. EMBO J 23:1313- 1324. http://dx.doi.org/10.1038/sj.emboj.7600163.   \n15．Brooks SA,Connolly JE,Diegel RJ,FavaRA,Rigby WF.2002.Analysis of the function,expression,and subcellular distribution of human tristetraprolin.Arthritis Rheum 46:1362-1370.http://dx.doi.org/10.1002/art .10235.   \n16.Rigby WF,Roy K,Collins J,Rigby S,Connolly JE,Bloch DB,Brooks SA.2005. Structure/function analysis of tristetraprolin (TTP):p38 stress-activated protein kinase and lipopolysaccharide stimulation do not alter TTP function. JImmunol 174:7883-7893. htp://dx.doi.org /10.4049/jimmunol.174.12.7883.   \n17.Pfeiffer JR,Brooks SA.2Ol2.Cullin 4B is recruited to tristetraprolincontaining messenger ribonucleoproteins and regulates TNF-alpha mRNA polysome loading. J Immunol 188:1828-1839. http://dx.doi.org /10.4049/jimmunol.1102837.   \n18. Qi MY,Wang ZZ, Zhang Z, Shao Q, Zeng A,Li XQ, Li WQ,Wang C, Tian FJ,Li Q,Zou J,Qin YW,Brewer G,Huang S, Jing Q.2012. AU-rich-element-dependent translation repression requires the cooperation of tristetraprolin and RCK/P54.Mol Cell Biol 32:913-928.http://dx .doi.org/10.1128/MCB.05340-11.   \n19.Tiedje C,Ronkina N,Tehrani M,Dhamija S,Laass K,Holtmann H, Kotlyarov A,Gaestel M.2012. The p38/MK2-driven exchange between tristetraprolin and HuR regulates AU-rich element-dependent translation.PLoS Genet 8:e1002977. htp://dx.doi.0org/10.1371/journal.pgen.1002977.   \n20.Jackson RJ,Helln CU,Pestova TV.201o.The mechanism of eukaryotic translation initiation and principles of its regulation.Nat Rev Mol Cell Biol11:113-127. http://dx.doi.org/10.1038/nrm2838   \n21.Hershey JW,Sonenberg N,Mathews MB.2012.Principles of translational control: an overview. Cold Spring Harb Perspect Biol 4:a011528. http://dx.doi.org/10.1101/cshperspect.a011528.   \n22. Zhu Y,Wang X, Goff SP,Gao G.2012.Translational repression precedes and is required for ZAP-mediated mRNA decay.EMBO J31:4236-4246. http://dx.doi.org/10.1038/emboj.2012.271.   \n23.Rom E,Kim HC,Gingras AC,Marcotrigiano J,Favre D,Olsen H, Burley SK, Sonenberg N.1998. Cloning and characterization of 4EHP,a novel mammalian eIF4E-related cap-binding protein. J Biol Chem 273: 13104-13109. http://dx.doi.0org/10.1074/jbc.273.21.13104.   \n24.Ptushkina M,Berthelot K,von der Haar T,Geffers L,Warwicker J, McCarthy JE.2001.A second eIF4E protein in Schizosaccharomyces pombe has distinct eIF4G-binding properties.Nucleic Acids Res 29:4561- 4569.http://dx.doi.org/10.1093/nar/29.22.4561   \n25.Morita M,Ler LW,Fabian MR, Siddiqui N,Mullin M,Henderson VC, Alain T,Fonseca BD,Karashchuk G, Bennett CF,Kabuta T,Higashi S, Larsson O,Topisirovic I, Smith RJ, Gingras AC, Sonenberg N.2012.A novel 4EHP-GIGYF2 translational repressor complex is essential for mammalian development. Mol CellBiol 32:3585-3593. htp://dx.doi.org /10.1128/MCB.00455-12.   \n26.Zuberek J, Kubacka D,Jablonowska A, Jemielity J, Stepinski J, Sonenberg N,Darzynkiewicz E. 20o7. Weak binding affinity of human 4EHP for mRNA cap analogs. RNA 13:691-697. http://dx.doi.org/10.1261/rna .453107.   \n27.Cho PF,Poulin F,Cho-Park YA, Cho-Park IB,Chicoine JD,Lasko P, Sonenberg N.2oo5.A new paradigm for translational control: inhibition via $5 ^ { \\prime }  – 3 ^ { \\prime }$ mRNA tethering by Bicoid and the eIF4E cognate 4EHP. Cel 121:411-423. http://dx.doi.org/10.1016/j.cell.2005.02.024.   \n28.Villaescusa JC,Buratti C, PenkovD,Mathiasen L, Planaguma J,Ferreti E,Blasi F.2009.Cytoplasmic Prepl interacts with 4EHP inhibiting Hoxb4 translation. PLoS One 4:e5213. http://dx.doi.org/10.1371/journal pone.0005213.   \n29.Uniacke J, Holterman CE, Lachance G, Franovic A, Jacob MD,Fabian MR,Payette J,Holcik M,Pause A, Lee S.2012.An oxygen-regulated switch in the protein synthesis machinery.Nature 486:126-129.http://dx .doi.org/10.1038/nature11055.   \n30.Uniacke J,Perera JK,Lachance G,Francisco CB,Lee S.20l4.Cancer cells exploit eIF4E2-directed synthesis of hypoxia response proteins to drive tumor progresson. Cancer Res 74:1379-1389. http://dx.doi.org/10 .1158/0008-5472.CAN-13-2278.   \n31．Wiklund L, Sokolowski M,Carlsson A,Rush M, Schwartz S.2002.Inhibition of translation by UAUUUAU and UAUUUUUAU motifs of the AUrich RNA instability element in the HPV-1 late $3 ^ { \\prime }$ untranslated region. J Biol Chem 277:40462-40471. http://dx.doi.0rg/10.1074/jbc.M205929200.   \n32.Guo X,Carroll JW,Macdonald MR,Goff SP,Gao G.20O4.The zinc finger antiviral protein directly binds to specific viral mRNAs through the CCCH zinc finger motifs.J Virol 78:12781-12787. http://dx.doi.org/10 .1128/JVI.78.23.12781-12787.2004.   \n33.Guo X,Ma J,Sun J,Gao G.20o7.The zinc-finger antiviral protein recruits the RNA processing exosome to degrade the target mRNA. Proc Natl Acad SciU SA 104:151-156.http://dx.doi.org/10.1073/pnas .0607063104.   \n34.Wax SD,Nakamura H,Anderson PJ.20o5.The tumor necrosis factoralphaAU-rich element inhibits the stable association of the 4OS ribosomal subunit with RNA transcripts.Biochem Biophys Res Commun 333:1100- 1106.http://dx.doi.org/10.1016/j.bbrc.2005.06.018.   \n35.Rhoads RE.2Oo9.eIF4E: new family members, new binding partners,new roles. JBiol Chem 284:16711-16715.http://dx.doi.org/10.1074/jbc.R900002200.   \n36.Rosettani P,Knapp S,Vismara MG,Rusconi L,Cameron AD.2007. Structures of the human eIF4E homologous protein,h4EHP,in its m7GTP-bound and unliganded forms.JMol Biol 368:691-705.http://dx .doi.org/10.1016/j.jmb.2007.02.019.   \n37.CiaisD,Cherradi N,Feige JJ.2013.Multiple functions of tristetraprolin/ TIS11 RNA-binding proteins in the regulation of mRNA biogenesis and degradation. Cell Mol Life Sci 70:2031-2044.http://dx.doi.org/10.1007 /s00018-012-1150-y.   \n38.Brooks SA,Blackshear PJ.2Ol3.Tristetraprolin(TTP):interactions with mRNA and proteins,and current thoughts on mechanisms of action. Biochim Biophys Acta 1829:666-679.http://dx.doi.org/10.1016/j.bbagrm .2013.02.003.   \n39.Sanduja S,Blanco FF,Dixon DA.2O1l.The roles of TTP and BRF proteins in regulated mRNA decay.Wiley Interdiscip Rev RNA2:42-57. http://dx.doi.org/10.1002/wrna.28.   \n40.Meijer HA,Kong YW,Lu WT,Wilczynska A,Spriggs RV,Robinson SW,Godfrey JD,Willis AE,Bushell M.2Ol3.Translational repression and eIF4A2 activityare critical for microRNA-mediated gene regulation. Science 340:82-85.http://dx.doi.org/10.1126/science.1231197.   \n41.Fukaya T,Tomari Y.20l2.MicroRNAs mediate gene silencing via multiple different pathways inDrosophila.Mol Cell48:825-836.http://dx.doi .org/10.1016/j.molcel.2012.09.024.   \n42.Osborne MJ,VolponL,KornblattJA,Culjkovic-KraljacicB,Baguet A, Borden KLB.2Ol3.eIF4E3 acts as a tumor suppressor by utilizing an atypical mode of methyl-7-guanosine cap recognition.Proc Natl Acad Sci U S A110:3877-3882. http://dx.doi.org/10.1073/pnas.1216862110.   \n43.KratochvillF,Gratz N,Qualls JE,VanDeVeldeLA,ChiH,KovarikP, Murray PJ.20l5.Tristetraprolin limits inflammatory cytokine production in tumor-associated macrophages in an mRNA decay-independent manner. Cancer Res 75:3054-3064.http://dx.doi.org/10.1158/0008-5472 .CAN-15-0205. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

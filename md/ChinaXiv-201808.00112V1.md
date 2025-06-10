@@ -1,0 +1,222 @@
+# 全球PD-1/PD-L1单抗市场竞争格局
+
+毛开云 范月蕾 王恒哲 王跃 陈大明\*\*（中国科学院上海生命科学研究院，上海，200031）
+
+摘要：目的：从产品开发角度分析PD-1/PD-L1单抗的发展现状和未来趋势。方法：检索科睿唯安（Clarivate Analytics）的Cortellis 数据库的数据，利用定量分析法和对比分析法对检索结果进行分析。结果：目前已有5种PD-1/PD-L1单抗上市,4种 PD-1/PD-L1单抗处于预注册及6种处于临床I期，未来市场上的PD-1/PD-L1单抗将呈现快速增长趋势。此外，PD-1/PD-L1单抗的商业交易也越来越多，目前共发生包括药物开发及商业化许可、专利资产出售以及早期药物研发合作等10余起交易，其中药物开发及商业化许可是最主要的交易模式。结论：虽然 PD-1/PD-L1单抗市场尚处于起步阶段，但随着未来技术的不断发展改进，相信未来有更多的PD-1/PD-L1单抗上市，为癌症及其他疾病的治疗提供新的契机。
+
+关键词：PD-1/PD-L1单抗；市场竞争；临床研发
+
+# Market competition pattern of global PD-1/PD-L1 monoclonal antibody
+
+MAO Kai-yun, FAN Yue-lei, WANG Heng-zhe, Wang-Yue CHEN Da-ming (Shanghai Information Center forLife Sciences,Chinese Academy of Sciences，Shanghai,2Ooo31,China)
+
+【Abstract】 Objective: To analyze the development status and trend of PD-1/PD-L1Monoclonal Antibody in the sense of product manufacturing. Methods: Based on the Cortellis database of Clarivate Analytics,this paper analyzed the searching results with utilizing quantitative analysis and comparative analysis methods.Results: Currently, five PD-1/PD-L1Monoclonal Antibodies have been launched into markets，another three PD-1/PD-L1Monoclonal Antibodies are at registration phase and four at Phase II clinical trial. In addition, business deals related to PD-1/PD-L1Monoclonal Antibody are increasing in recent years, including more than 12 deals so far,ranging from drug development, commercial license,and patent assets sales to drug R&D cooperation in early phase.As for China, several PD-1/PD-L1Monoclonal Antibodies are at clinical stage,and a bright prospect can be expected for Chinese Oligonucleotide therapeutic product markets. Conclusion: Although PD-1/PD-L1Monoclonal Antibody market still at its preliminary stage，however， with the continuous development and improvement of future technology,it is believed that more PD-1/PD-L1Monoclonal Antibody will be launched in the future, providing a new opportunity for the treatment of cancer and other diseases.
+
+Key Words: PD-1/PD-L1Monoclonal Antibody ;Market Competition; Clinical R&D
+
+近几年，肿瘤免疫疗法（Immuno-oncology Therapy，I-O）呈快速发展态势，在实体瘤和血液瘤的治疗中都显示出了极其突出的治疗效果。相比较传统治疗肿瘤的通过放疗和化疗手段借助药物杀灭肿瘤细胞，而I-O治疗则是通过激活自身的免疫能力对抗和杀伤肿瘤细胞。根据肿瘤免疫机制的不同，目前研究最多的免疫治疗主要包括细胞免疫治疗和免疫检查点抑制剂治疗，其中可用于临床上的免疫检查点抑制剂已经有细胞毒性T淋巴细胞相关抗原4（cytotoxic Tlymphocyteassociated antigen-4，CTLA-4）和程序性死亡受体-1（Programmed Cell DeathProtein-1，PD-1）)/程序性死亡受体-配体1（Programmed Cell Death-Ligand 1,PD-L1)。
+
+PD-1 最早由日本京都大学本庶佑教授于1992 年发现[1]，PD-L1 由中国科学家陈列平教授于1999 年发现[2]，2000 年TasukuHonjo与哈佛医学院的GordonFreeman合作证实了PD-L1能够与PD-1结合从而抑制T细胞活化和促使T细胞凋亡，使得T细胞无法正常发挥对肿瘤细胞的杀伤作用[3]。科学家对PD-1的发现以及相关研究为后续进一步成功发展 PD-1/PD-L1单抗奠定了基础，其中包括Nivolumab/Opdivo 以及 Pembrolizumab/Keytruda。因此，本文将 PD-1/PD-L1 单抗作为主要的研究对象，研究PD-1/PD-L1单抗及市场发展现状，希望为我国相关产业的发展提供参考。
+
+# 1．研究方法
+
+# 1.1数据来源
+
+采用科睿唯安（ClarivateAnalytics，原汤森路透知识产权与科技事业部）的Cortellis（原名ThomsonReuters Pharma）数据库检索对象，检索时间是2018年4月10日，其中药物研发和药物交易分别从高级检索中"Drugs"和"Deals"两个入口检索，药物研发和药物交易检索均采用两种方式（技术和靶点)同时进行限制，因此，总体检索策略是“单抗（Monoclonalantibody）and（（细胞程序性死亡蛋白1 调控剂（Programmed cell death protein1 modulator，PD-1）or（细胞程序性死亡配体1 调控剂（Programmed cell death ligand 1 modulator，PD-L1））”，其中“单抗”从"技术（Technologies）"分类中进行检索，PD-1/PD-L1从“作用靶点（Anyaction）”分类中进行检索。
+
+# 1.2分析方法
+
+主要采用定量分析法和对比分析法。在定量分析法方面，将数量特征、数量关系与数量变化进行统计分析，以作为对比分析的基础；在对比分析法方面，通过实际数与基数的对比来提示实际数与基数之间的差异，借以了解分析对象目前所处的现状和趋势。
+
+# 2．结果
+
+# 2.1总体研发现状
+
+PD-1/PD-L1抑制剂作为目前热门的癌症免疫疗法的主要方向之一，在学术、产业和投资界都受到极大的关注。因此，多家制药公司研发的PD-1/PD-L1制剂已经开始进入临床，在治疗包括肺癌、黑色素瘤、肠癌等领域都得到应用。基于Cortellis 数据库的分析结果来看，全球至今共记录有118个PD-1/PD-L1单抗，除去处于暂停、终止和没有研发报道状态的药物外，目前处于有效研发阶段药物共计107个，其中绝大多数产品处于研发与临床阶段，处于研发阶段的产品占产品总量的 $56 . 1 \%$ ，处于临床阶段的产品占产品总量的 $3 7 . 4 \%$ ，可见 PD-1/PD-L1单抗研发的热度升温。
+
+![](images/e7409054261d34e072d2dba47cebf5f9ad5edf3ab6ba7308132da880fbecb161.jpg)  
+图1全球PD-1/PD-L1单抗总体研发现状
+
+注：（1）预注册：已提交该药物上市的申请，在等待批准的阶段；（2）发现：包括发现/探索及临床前的阶段，在动物体内的临床前药理学/毒理学评价;
+
+# Fig.1 the Global R&D Status of PD-1/PD-L1Monoclonal Antibody
+
+# 2.2重要产品研发进展
+
+自 2013年美国《科学》杂志将癌症免疫治疗评为“重大突破”以来，免疫治疗在针对黑色素瘤、肺癌、胃癌、乳腺癌、卵巢癌及结直肠癌等的治疗上都取得了令人惊喜的临床进展。目前，共有12件产品处于临床Ⅲ期、注册与上市阶段，这些产品都是或极大可能上市造福患者，这些产品中有5件产品处于上市阶段（表1)，3件产品处于预注册阶段（表2)，4件产品处于临床IⅢ期（表3)。
+
+# 2.2.1已上市
+
+截至2018年4月10日，全球共有5款PD-1/L1单抗药物获批准上市(表1)，分别是两款针对T细胞上PD-1靶点的抗体药物：默沙东的Pembrolizumab/Keytruda 和百时美施贵宝的Nivolumab/Opdivo，以及三款针对肿瘤 细胞上PD-L1靶点的药物：罗氏的Atezolizumab/Tecentriq、辉瑞的Avelumab/Bavencio 以及阿 斯利康的Durvalumab/Imfinzi。自从 2014年Pembrolizumab/Keytruda 和Nivolumab/Opdivo 分别获批黑色素瘤适应症至今，5款PD-1/L1抗体药物已经获批用于10个大类肿瘤接近20项细分适应症的治疗，并且全球有各方发起的超过1000个关于各种适应症的PD-1/L1抗体药物的单药或联合用药的临床试验方案正在进行。可以说，PD-1/L1药物作为肿瘤免疫治疗领域的明星产品，为来将成为肿瘤临床治疗的基石性药物。
+
+# (1) Nivolumab/Opdivo
+
+2014年7月4日，由百时美施贵宝公司和小野制药株式会社合作开发PD-1单抗 Nivolumab（商品名：Opdivo）获得日本独立行政法人医药品及医疗器械综合管理机构（PMDA）批准上市，用于治疗用于不可切除的黑色素瘤（IV 期黑色素瘤)，之后又陆续在美国、欧盟、加拿大、巴西、墨西哥、韩国、中国台湾等国家（地区）上市。纽约大学Perlmutter 癌症中心研究认为，对于手术后的IIIB,IIIC 或IV期黑色素瘤患者,Nivolumab/Opdivo 辅助治疗的效果优于Ipilimumab[6]。2015年3月4日,Nivolumab/Opdivo 用于治疗转移性非小细胞肺癌获得美国 FDA批准上市，之后又陆续在日本、欧盟、澳大利亚、巴西、加拿大、墨西哥、韩国、中国台湾等国家（地区）获批上市。俄亥俄州立大学综合癌症中心的课题组研究表明对于PDL1表达水平超过 $5 \%$ 的、晚期及进展性非小细胞肺癌患者，较化疗相比，Nivolumab/Opdivo 治疗未延长患者的无进展生存期，但总生存期略优于化疗，患者的耐受性及不良事件率显著优于化疗[7]。此外，Nivolumab/Opdivo 用于治疗转移性肾细胞癌、转移性胃癌、肝细胞癌、转移性膀胱癌、转移性结直肠癌、转移性食管癌、颈部转移癌也获得批准上市。
+
+值得注意的是，2018年6月15日，百时美施贵宝PD-1单抗药物Nivolumab/Opdivo 的上市申请正式获得国家药品监督管理局的批准准，用于二线治疗非小细胞肺癌。Nivolumab/Opdivo 按照优先审评通道完成审批，从申报上市到获批历时不足7个月，成为第一个在中国上市的PD-1/PD-L1药物。
+
+# (2)Pembrolizumab/Keytruda
+
+2014年9月4日，由默沙东（Merck&CoInc）公司研发的PD-1单抗Pembrolizumab（商品名：Keytruda）获得获美国食品药品管理局（FDA）授权加速批准上市，用于治疗对其他治疗不再反应的晚期或不可切除的黑色素瘤（IV期黑色素瘤)。Pembrolizumab/Keytruda 是一种单克隆抗体，可与程序性死亡因子（PD-1）的受体结合，阻断其与其配体PD-L1、PD-L2 的相互作用，解除经PD-1通路介导的免疫反应（包括抗肿瘤免疫反应）抑制，在同源小鼠模型中，阻断PD-1 活性可减缓肿瘤生长。此外，Pembrolizumab/Keytruda 用于治疗IV 期黑色素瘤于2015年3月、2015年4月、2015年7月和2016年9月，又分别在韩国、澳大利亚、欧盟和日本又获得批准。法国癌症研究学会古斯塔夫·鲁西研究所（GustaveRoussy）课题组研究表明对比目前黑色素瘤标准治疗用药Ipilimumab,Pembrolizumab/Keytruda 能够延长晚期黑色素瘤患者的无进展生存期和总生存期，并减少相关毒副作用[4]。Pembrolizumab/Keytruda用于治疗转移性非小细胞肺癌于2015年10月2日首次获得FDA批准，并于2016年4月、2016年8月和2016年12月获得加拿大、欧盟和日本的批准，在晚期非小细胞肺癌、至少 $50 \%$ 的肿瘤细胞表达PD-L1的患者中，与基于铂的化疗相比，Pembrolizumab/Keytruda 治疗组患者有较长无进展生存期（Progression Free Survival）和较高的总生存率，并且有更少的不良事件[5]。此外，Pembrolizumab/Keytruda 用于治疗其他适应症如头颈部转移癌、霍奇金病、转移性膀胱癌、转移性结直肠癌、转移性尿路癌、转移性肾细胞癌也获得批准上市。
+
+值得注意的是,2018 年7月25 日,默沙东PD-1单抗Pembrolizumab/Keytruda的上市申请正式获得国家药品监督管理局的批准，用于黑色素瘤治疗。从2018年2月11日中国食品药品监督局（CFDA）受理申请到获批，不到6个月的时间创造了药物审批上市新的记录。它也成为继2018年6月15日百时美施贵宝Nivolumab/Opdivo 之后第2个获批在中国上市的PD-1/PD-L1单抗类药物
+
+# (3) Durvalumab/Imfinzi
+
+2017年5月1日，由阿斯利康公司研发PD-L1单抗Durvalumab（商品名：Imfinzi）获美国FDA加速批准上市，用于局部晚期或转移性尿路上皮癌[8]。(3)Durvalumab/Imfinzi为人源性 $\mathrm { I g G 1 _ { \kappa } }$ 单克隆抗体，可阻断PD-L1和PD-1 及CD80的相互作用，从而抑制免疫反应，且不引起抗体依赖的细胞毒性（ADCC)。在体外Durvalumab/Imfinzi 阻断 PD-L1可增加T 细胞活性，在人类肿瘤和免疫细胞异种移植小鼠模型中，阻断PDL1活性可减少肿瘤大小。此外，2018年2月16日，Durvalumab/Imfinzi用于治疗转移性非小细胞肺癌获得美国FDA批准。ATLANTIC研究的结果显示抗PD-L1单抗Durvalumab/Imfinzi用于既往经过多线治疗后的晚期非小细胞肺癌患者，有较好的临床疗效，且耐受性好。且无论患者的EGFR/ALK突变状态和PD-L1表达水平，均观察到了持久的疗效和较好总生存期（OS）的结果[9]。
+
+# (4) Atezolizumab/Tecentriq
+
+2016 年5月18日，美国FDA批准罗氏公司的PD-L1单抗Atezolizumab（商品名：Tecentriq）上市，用于治疗接受含铂化疗期间/之后或接受含铂化疗的新辅助疗法/辅助疗法12个月内疾病进展的局部晚期或转移性尿路上皮癌。Atezolizumab/Tecentriq可阻断PD-L1与PD-1和B7-1受体相互作用，释放PD-L1/PD-1介导的免疫反应抑制，包括激活不诱发抗体依赖细胞毒作用的抗肿瘤免疫应答。此外，Atezolizumab/Tecentriq 用于治疗尿路上皮癌又分别于 2017年1月12日、2017年4月18日和2017年9月23日获得韩国、加拿大和欧盟批准上市。2016年10月19日，Atezolizumab/Tecentriq 用于治疗转移性非小细胞肺癌获得美国FDA批准，并陆续获得澳大利亚、加拿大、欧盟和日本审批上市。加州大学戴维斯综合癌症中心研究人员评估了其与多西他赛相比对以往治疗过的非小细胞肺癌患者的疗效和安全性，结果表明用 Atezolizumab/Tecentriq 治疗比多西他赛能更好地改善以往治疗过的非小细胞肺癌患者临床相关的总体生存期，无论 PD-L1 的表达或肿瘤组织学特征如何，Atezolizumab/Tecentriq 治疗均具有良好的安全性[10]。
+
+# (5) Avelumab/Bavencio
+
+2017年3月23日，由德国默克公司与美国辉瑞公司合作开发的PD-L1免疫疗法Avelumab（商品名：Bavencio）获得美国FDA批准上市。用于治疗转移性Merkel 细胞癌[11]。Avelumab/Bavencio 以PD-1/PD-L1通道为靶向，PD-1/PD-L1蛋白存在于机体的免疫细胞和某些癌症细胞中。Avelumab/Bavencio 通过阻滞PD-1/PD-L1通道从而帮助机体免疫系统攻击和杀死癌细胞。2017年5月，FDA批准Avelumab/Bavencio 治疗局部晚期或转移性尿路上皮癌（mUC）[12]。目前辉瑞和默克开展avelumab 国际性临床开发项目超过30个，其中包括9个II期临床研究，涵盖超过15种肿瘤类型，包括乳腺癌、胃癌/胃食管交界腺癌、头颈部癌、默克细胞癌（MCC）、间皮瘤、黑色素瘤、非小细胞肺癌（NSCLC）、卵巢癌、肾癌及膀胱癌等等。
+
+# 2.2.2预注册
+
+目前全球处于预注册阶段的 PD-1/PD-L1单抗共有3个，其中2个来自中国企业（上海君实和信达生物）自主研发，另外1个分别来自赛诺菲公司和再生元制药公司，详细信息见表2。
+
+# (1) JS-001
+
+2018年3月9日，由上海君实生物医药科技有限公司研发的抗PD-1单克隆抗体注射液进入国家食品药品监督管理总局（CFDA）新药上市申请的受理程序，其适应症为黑色素瘤。JS001是国内企业首个获得CFDA临床试验批件的抗PD-1单克隆抗体注射液，目前正与国内多家临床中心开展黑色素瘤、鼻咽癌、胃癌、肺癌、食管癌、尿路上皮癌等10 余个适应症I\~III 期临床试验。JS001于 2018年1月获得FDA临床试验批准，是君实生物首个在全球开展临床试验的生物制品。2018年1月9日正式获得美国食品药品监督管理局（FDA）药物临床试验批准，2018年3月14日，进入临床Ⅰ期试验，用于治疗晚期实体肿瘤[13]。
+
+# (2) Cemiplimab/REGN-2810
+
+2017年9月9日，由赛诺菲公司和再生元制药公司共同研发的PD-1抑制剂Cemiplimab（REGN2810）获得美国FDA突破性疗法认定，适用于转移性皮肤鳞状细胞癌（Cutaneous Squamous Cell Carcinoma,CSCC）和具有局部晚期、不可切除的CSCC 的成人患者。2017年12月13日Cemiplimab/REGN-2810 进入美国FDA新药上市申请受理程序，并于2018年4月3日入欧盟药品监管（EMA）新药上市申请受理程序。在其他适应症方面，Cemiplimab/REGN-2810 治疗非小细胞肺癌和宫颈癌处于临床IⅢI期阶段、治疗基底细胞癌处于临床ⅡI期阶段。
+
+# (3)IBI-308
+
+2017年12月13日，由信达生物制药（苏州）有限公司研发的信迪利单抗注射液（IBI308）的首次上市申请获得国家食品药品监督管理总局药品审评中心（CDE）承办受理，用于治疗霍奇金淋巴瘤，信迪单抗也是继百时美施贵宝公司Opdivo 之后第2个提交中国上市申请的PD-1/PD-L1类药物。但信达生物制药（苏州）有限公司于2018年2月底左右主动撤回IBI308的上市申请，补充材料，并2018年4月19日又重新提交上市申请。IBI308是通过阻断体内PD-1与配体PD-L1之间的结合，使T细胞发挥正常作用，进而利用自身免疫将肿瘤细胞消灭。2018年4月23日IBI308被纳入CFDA的“拟纳入优先审评程序药品注册申请的公示（第二十八批）”。
+
+# 2.2.3临床II期
+
+目前全球处于临床期试验的 PD-1/PD-L1单抗共有4个，其中2 个来自中国企业（上海恒瑞和百济神州）自主研发，另外2个分别来自诺华制药公司和Biocad公司，详细信息见表3。
+
+# (1) SHR-1210
+
+2016 年11月15日，由上海恒瑞医药有限公司研发的 PD-1单抗 SHR-1210进入临床III期试验，用于治疗肝细胞癌。此外，2017年5月10日，SHR-1210用于治疗转移性食管癌、转移性非小细胞肺癌也进入临床II期试验。2016 年10月起，南京中医药大学附属八一医院全军肿瘤中心接受国家CFDA指令和江苏恒瑞医药股份有限公司的委托，开展了国产PD-1单抗 SHR-1210 治疗原发性肝癌的相关临床研究(CFDA批文号:2016L01455)，初步观察该药具有较好的疗效，安全性和耐受性良好，可是出现特有的不良反应即药物相关性皮肤毛细血管增生症[14]。
+
+# (2) Spartalizumab/PDR001
+
+2017年2月27日，由诺华制药公司研发的PD-1单抗 Spartalizumab 进入临床III期试验，用于治疗黑色素瘤。此外，Spartalizumab用于治疗内分泌肿瘤也于2017年12月31日进入临床I期试验。两项III期临床试验的数据将于2019 年
+
+发布，包括 Spartalizumab 联合该公司已经上市的Tafinlar（达拉菲尼）和Mekinist（曲美替尼）治疗恶性黑色素瘤，以及PDR001单药治疗内分泌肿瘤。
+
+# (3)BGB-A317
+
+2017年11月13日，由百济神州自主研发的PD-1抗体BGB-A317进入临床II期试验，用于治疗转移性非小细胞肺癌。此外，BGB-A317用于转移性食管癌于 2018年1月31日也进入临床II期试验。BGB-A317对PD-1有很高的亲和性和特异性。不同于目前获批的PD-1 抗体，BGB-A317通过生物工程技术在 Fc区域进行了优化，可减少与其他免疫细胞产生负面相互作用的几率。2017年9月 28日，百济神州在厦门中国临床肿瘤学会（CSCO）年会上发布了正在进行的 PD-1抗体 BGB-A317用于晚期实体瘤中国患者的I/II期试验的剂量验证部分的初步数据，数据显示BGB-A317总体而言耐受性良好，并且在晚期实体瘤的中国患者中显示了初步的抗肿瘤活性。
+
+# (4) BCD-100
+
+2017年8月31日，由俄罗斯Biocad公司研发的PD-1单抗BCD-100 进入临床IⅢ期试验，用于治疗晚期实体肿瘤。
+
+表1全球 PD-1/PD-L1单抗研发现状（最高研发状态：上市）Table 3 the Global R&D Status of PD-1/PD-L1Monoclonal Antibody(Highest Status: Launched)  
+
+<html><body><table><tr><td rowspan="2">药物名称/商品名</td><td rowspan="2">靶点</td><td rowspan="2">原研公司</td><td colspan="5">在研公司</td></tr><tr><td>国家/地区 阿拉伯联合酋长国</td><td>适应症 IV 期黑色素瘤</td><td>状态 注册</td><td>时间 2015年10月</td></tr><tr><td>Pembrolizumab/ Keytruda</td><td></td><td rowspan="9"></td><td rowspan="9">默沙东公司</td><td>澳大利亚</td><td>IV 期黑色素瘤</td><td>上市</td><td>2016年8月</td></tr><tr><td></td><td>冰岛</td><td>霍奇金病</td><td>上市</td><td>2017年5月</td></tr><tr><td></td><td></td><td>转移性膀胱癌</td><td>注册</td><td>2017年9月</td></tr><tr><td></td><td>韩国</td><td>IV 期黑色素瘤 转移性肾细胞癌</td><td>上市 上市</td><td>2015年4月 2017年12月</td></tr><tr><td rowspan="3"></td><td rowspan="3">加拿大</td><td>IV 期黑色素瘤</td><td>注册</td><td>2015年5月</td></tr><tr><td></td><td>上市</td><td>2016年4月</td></tr><tr><td>转移性非小细胞肺癌 霍奇金病</td><td>上市</td><td>2017年5月</td></tr><tr><td rowspan="2">列支敦士登</td><td>转移性膀胱癌</td><td>注册</td><td>2017年9月</td></tr><tr><td></td><td>IV 期黑色素瘤</td><td>上市</td></tr><tr><td rowspan="9"></td><td rowspan="8"></td><td>转移性非小细胞肺癌</td><td>上市</td><td>2014年9月 2015年10月</td></tr><tr><td>转移性头颈癌</td><td>上市</td><td></td><td>2016年8月</td></tr><tr><td>霍奇金病</td><td></td><td>上市</td><td>2017年3月</td></tr><tr><td></td><td>转移性膀胱癌、实体肿瘤、</td><td></td><td></td></tr><tr><td>美国</td><td>转移性结直肠癌</td><td>上市</td><td>2017年5月</td></tr><tr><td></td><td>腺癌</td><td>预注册</td><td>2017年5月</td></tr><tr><td></td><td>转移性胃癌 原发性纵隔大B细胞淋巴</td><td>注册</td><td>2017年9月</td></tr><tr><td></td><td>瘤</td><td>预注册</td><td>2017年12月</td></tr><tr><td></td><td>宫颈肿瘤</td><td>预注册</td><td>2018年3月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="7"></td><td rowspan="7"></td><td rowspan="7"></td><td rowspan="7">秘鲁 挪威</td><td>IV 期黑色素瘤</td><td>注册 上市</td><td>2015年10月 2017年5月</td></tr><tr><td>霍奇金病 转移性膀胱癌</td><td>注册</td><td>2017年9月</td></tr><tr><td>IV 期黑色素瘤</td><td>上市</td><td>2015年10月</td></tr><tr><td rowspan="3">欧盟</td><td></td><td></td><td>2016年8月</td></tr><tr><td>转移性非小细胞肺癌</td><td>上市</td><td>2017年5月</td></tr><tr><td>霍奇金病 转移性膀胱癌</td><td>上市 注册</td><td>2017年9月</td></tr><tr><td>瑞士</td><td>IV 期黑色素瘤</td><td>注册</td><td>2015年10月</td></tr><tr><td rowspan="10"></td><td>新西兰</td><td>IV 期黑色素瘤</td><td></td><td>注册</td><td>2015年10月</td></tr><tr><td></td><td>IV 期黑色素瘤</td><td></td><td>注册</td><td>2015年10月</td></tr><tr><td>以色列 英国</td><td>IV 期黑色素瘤</td><td></td><td>上市</td><td>2015年3月</td></tr><tr><td>中国</td><td>IV 期黑色素瘤</td><td></td><td>注册</td><td>2018年7月</td></tr><tr><td>中国澳门</td><td></td><td>IV 期黑色素瘤</td><td>注册</td><td>2015年10月</td></tr><tr><td>中国台湾</td><td></td><td>IV 期黑色素瘤</td><td>上市</td><td>2016年8月</td></tr><tr><td></td><td></td><td>IV 期黑色素瘤</td><td>上市</td><td>2017年2月</td></tr><tr><td rowspan="3">日本</td><td></td><td>霍奇金病</td><td>上市</td><td>2017年11月</td></tr><tr><td></td><td>转移性肾细胞癌、尿道癌、 转移性膀胱癌、转移性泌尿</td><td>上市</td><td></td></tr><tr><td>道癌 转移性非小细胞肺癌</td><td></td><td>上市</td><td>2017年12月 2017年2月</td></tr><tr><td></td><td></td><td>本）</td><td>日本</td><td>实体肿瘤 转移性肾细胞癌、IV 期黑色</td><td>预注册</td><td></td><td>2018年3月</td></tr><tr><td rowspan="2">Nivolumab/Opdiv 0</td><td>PD-1 抑制 剂</td><td>小野制药株式 百时美施贵宝 会社 公司</td><td>阿根廷</td><td>素瘤、转移性非小细胞肺癌</td><td>上市</td><td></td><td>2016年6月</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">澳大利亚</td><td>IV 期黑色素瘤 转移性肾细胞癌、转移性非</td><td>上市</td><td></td><td>2016年11月</td></tr><tr><td></td><td></td><td>上市</td><td>2017年8月</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="2">巴西</td><td colspan="3">小细胞肺癌</td></tr><tr><td rowspan="9"></td><td rowspan="2"></td><td>转移性膀胱癌 转移性肾细胞癌、IV 期黑色</td><td>上市</td><td>2018年2月</td></tr><tr><td>素瘤、转移性非小细胞肺癌</td><td>上市</td><td>2016年12月</td></tr><tr><td rowspan="4"></td><td>霍奇金病</td><td>上市</td><td>2017年11月</td></tr><tr><td>IV 期黑色素瘤</td><td>上市</td><td>2015年10月</td></tr><tr><td>转移性非小细胞肺癌 加拿大</td><td>上市</td><td>2016年3月</td></tr><tr><td>转移性肾细胞癌</td><td>上市</td><td>2016年4月</td></tr><tr><td>中国</td><td>转移性头颈癌</td><td>上市</td><td>2017年5月</td></tr><tr><td rowspan="7"></td><td>转移性非小细胞肺癌 转移性非小细胞肺癌、IV</td><td>注册</td><td></td><td>2018年6月</td></tr><tr><td rowspan="6"></td><td>期黑色素瘤</td><td>上市</td><td>2015年10月</td></tr><tr><td>转移性肾细胞癌</td><td>上市</td><td>2016年4月</td></tr><tr><td>霍奇金病</td><td>上市</td><td>2016年11月 2017年3月</td></tr><tr><td>转移性结直肠癌</td><td>预注册 上市</td><td></td></tr><tr><td>转移性头颈癌</td><td></td><td>2017年4月</td></tr><tr><td>转移性膀胱癌 黑色素瘤</td><td>上市</td><td>2017年6月 2017年10月</td></tr><tr><td rowspan="4"></td><td>德国</td><td>转移性非小细胞肺癌、IV</td><td>预注册 上市</td><td>2015年10月</td></tr><tr><td>墨西哥</td><td>期黑色素瘤 IV 期黑色素瘤、转移性非小</td><td>上市</td><td>2017年1月</td></tr><tr><td rowspan="2"></td><td>细胞肺癌</td><td>上市</td><td>2015年2月</td></tr><tr><td>IV 期黑色素瘤 转移性非小细胞肺癌</td><td>上市</td><td>2015年3月</td></tr><tr><td></td><td>美国</td><td>转移性肾细胞癌</td><td>上市</td><td>2015年11月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="9"></td><td rowspan="9"></td><td rowspan="9"></td><td rowspan="9"></td><td rowspan="9">百时美施贵宝</td><td rowspan="9"></td><td>霍奇金病 转移性头颈癌</td><td>上市 上市</td><td>2016年5月 2016年11月</td></tr><tr><td>转移性膀胱癌</td><td>上市</td><td>2017年2月</td></tr><tr><td>转移性结直肠癌</td><td>上市</td><td>2017年8月</td></tr><tr><td>肝细胞癌</td><td>上市</td><td>2017年9月</td></tr><tr><td>IV 期黑色素瘤</td><td>上市</td><td>2014年9月</td></tr><tr><td></td><td>上市</td><td>2015年12月</td></tr><tr><td>转移性非小细胞肺癌 转移性肾细胞癌</td><td>上市</td><td>2016年8月</td></tr><tr><td>霍奇金病</td><td>上市</td><td>2016年12月</td></tr><tr><td>转移性头颈癌</td><td>上市</td><td>2017年3月</td></tr><tr><td>转移性胃癌</td><td></td><td>上市 2017年9月</td></tr><tr><td>间皮瘤、黑色素瘤</td><td></td><td>预注册 2017年12月</td></tr><tr><td>IV 期黑色素瘤</td><td></td><td>上市</td></tr><tr><td>转移性非小细胞肺癌</td><td></td><td>2015年5月 2016年4月</td></tr><tr><td>霍奇金病、转移性肾细胞</td><td></td><td>上市</td></tr><tr><td rowspan="4">公司和小野制 韩国 药株式会社</td><td rowspan="4"></td><td>癌、转移性头颈癌、转移性</td><td rowspan="2">上市</td><td rowspan="2">2017年8月</td></tr><tr><td>膀胱癌</td></tr><tr><td>转移性食管癌、转移性胃癌 转移性非小细胞肺癌、IV</td><td>上市 上市</td><td>2018年3月 2016年5月</td></tr><tr><td>期黑色素瘤 转移性肾细胞癌</td><td>上市</td><td>2017年4月</td></tr><tr><td rowspan="4">转移性头颈癌</td><td rowspan="4"></td><td></td><td>上市</td><td>2017年8月</td></tr><tr><td>霍奇金病、转移性膀胱癌</td><td>上市</td><td>2017年10月</td></tr><tr><td>转移性胃癌</td><td>上市</td><td>2018年1月</td></tr><tr><td>肝细胞癌</td><td>上市</td><td>2018年3月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="3">Durvalumab/Imfi nzi</td><td rowspan="3">PD-L1 抑 制剂</td><td rowspan="3">Medimmune 公 司</td><td rowspan="3">阿斯利康公司 Medimmune 公</td><td>加拿大</td><td>转移性膀胱癌 转移性膀胱癌</td><td>注册 上市</td><td>2017年11月</td></tr><tr><td>美国</td><td>转移性非小细胞肺癌</td><td>上市</td><td>2017年5月 2018年2月</td></tr><tr><td rowspan="2">欧盟</td><td>非小细胞肺癌</td><td>预注册</td><td>2017年10月</td></tr><tr><td rowspan="2"></td><td rowspan="2">司 日本中外制药</td><td>美国</td><td>转移性非小细胞肺癌</td><td>注册</td><td>2018年2月</td></tr><tr><td>株式会社</td><td>日本</td><td>转移性非小细胞肺癌</td><td>注册</td><td>2018年1月</td></tr><tr><td rowspan="6">Atezolizumab/Tec entriq</td><td rowspan="6">PD-L1抑 制剂</td><td rowspan="6">基因泰克公司</td><td rowspan="6">罗氏制药公司</td><td>澳大利亚</td><td>激素难治性前列腺癌</td><td>预注册</td><td>2017年1月</td></tr><tr><td>加拿大</td><td>转移性非小细胞肺癌</td><td>注册</td><td>2017年7月</td></tr><tr><td>欧盟</td><td>转移性膀胱癌 转移性膀胱癌、转移性非小</td><td>注册</td><td>2017年4月 2017年9月</td></tr><tr><td></td><td>细胞肺癌 转移性非小细胞肺癌、转移</td><td>注册</td><td></td></tr><tr><td>韩国 中国台湾</td><td>性膀胱癌</td><td>上市</td><td>2018年1月</td></tr><tr><td>美国</td><td>激素难治性前列腺癌 转移性膀胱癌</td><td>注册 上市</td><td>2017年7月 2016年5月</td></tr><tr><td rowspan="6">Avelumab/Baven cio</td><td rowspan="6">PD-L1 抑 制剂</td><td rowspan="6">德国默克集团</td><td rowspan="6">德国默克集团 和辉瑞公司</td><td>加拿大</td><td>转移性非小细胞肺癌 Merkel细胞癌</td><td>上市 注册</td><td>2016年10月 2017年12月</td></tr><tr><td>欧盟</td><td>Merkel细胞癌</td><td>注册</td><td>2017年9月</td></tr><tr><td>冰岛</td><td></td><td>注册</td><td>2017年9月</td></tr><tr><td></td><td>Merkel细胞癌</td><td>注册</td><td>2017年9月</td></tr><tr><td>列支敦士登</td><td>Merkel细胞癌</td><td></td><td></td></tr><tr><td>挪威</td><td>Merkel细胞癌</td><td>注册 注册</td><td>2017年9月 2017年9月</td></tr><tr><td rowspan="4"></td><td rowspan="4"></td><td rowspan="2"></td><td>瑞士 英国</td><td>Merkel细胞癌 Merkel细胞癌</td><td>上市</td><td>2017年10月</td></tr><tr><td>澳大利亚</td><td>Merkel细胞癌</td><td>注册</td><td>2018年1月</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="3"></td><td rowspan="3"></td><td rowspan="3"></td><td>日本</td><td>Merkel细胞癌</td><td>上市</td><td>2017年11月</td></tr><tr><td rowspan="2"></td><td rowspan="2">Merkel细胞癌 上市</td><td rowspan="2"></td><td rowspan="2">2017年3月 2017年5月</td></tr><tr><td>美国</td></tr><tr><td></td><td></td><td></td><td></td><td>膀胱癌、转移性泌尿道癌、 转移性膀胱癌</td><td>上市</td><td></td></tr></table></body></html>
+
+表2全球 PD-1/PD-L1单抗研发现状（最高研发状态：预注册）Table 4 the Global R&D Status of PD-1/PD-L1Monoclonal Antibody（Highest Status: Pre-Registration）  
+
+<html><body><table><tr><td rowspan="2">药物名称/商品名</td><td rowspan="2">靶点</td><td rowspan="2">原研公司</td><td colspan="5">目前研发状态 在研公司 国家/地区</td></tr><tr><td></td><td></td><td>适应症 黑色素瘤</td><td>状态 预注册</td><td>时间 2018年3月</td></tr><tr><td rowspan="7">JS-001</td><td rowspan="7">PD-1抑制 剂</td><td rowspan="7">上海君实生物 医药科技有限 公司</td><td rowspan="7">上海君实生 物医药科技 有限公司</td><td rowspan="7">中国</td><td>转移性食管癌、胃肿瘤、鼻咽癌</td><td>临床Ⅱ期</td><td>2016年12月</td></tr><tr><td>转移性头颈癌、IV 期黑色素瘤</td><td></td><td></td></tr><tr><td>尿道癌</td><td>临床Ⅱ期</td><td>2017年4月</td></tr><tr><td>晚期实体肿瘤</td><td>临床I期</td><td>2016年3月</td></tr><tr><td>转移性乳腺癌</td><td>临床I期</td><td>2016年7月</td></tr><tr><td></td><td>转移性肾细胞癌</td><td>临床I期 2017年3月</td></tr><tr><td>神经内分泌肿瘤</td><td>临床I期</td><td>2017年4月</td></tr><tr><td rowspan="6">Cemiplimab/REGN- 2810</td><td rowspan="6">PD-1抑制 剂</td><td rowspan="6">赛诺菲公司 再生元制药公 和再生元制 司</td><td>美国</td><td>晚期实体肿瘤</td><td>临床I期 临床I期</td><td>2017年10月 2018年3月</td></tr><tr><td>欧洲</td><td>鳞状细胞癌</td><td>预注册</td><td>2018年4月</td></tr><tr><td>澳大利亚</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年6月</td></tr><tr><td>保加利亚</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年6月</td></tr><tr><td>格鲁吉亚</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年6月</td></tr><tr><td>俄罗斯联邦</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年6月</td></tr><tr><td></td><td></td><td>药公司</td><td>土耳其</td><td>非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年6月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2" colspan="3"></td><td rowspan="2">美国</td><td>非小细胞肺癌</td><td></td><td>临床Ⅲ期</td><td>2017年6月</td></tr><tr><td>美国</td><td>宫颈肿瘤</td><td>临床Ⅲ期</td><td>2017年10月</td></tr><tr><td colspan="3" rowspan="3">PD-1抑制</td><td>再生元制药 公司</td><td>美国</td><td>鳞状细胞癌</td><td>预注册</td><td>2017年12月</td></tr><tr><td>信达生物制药</td><td>信达生物制 中国</td><td>霍奇金病</td><td>预注册</td><td>2017年12月</td></tr><tr><td>(苏州)有限公</td><td>药(苏州)有限</td><td>中国</td><td>转移性非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年9月</td></tr><tr><td rowspan="3">IBI-308</td><td>司</td><td>公司</td><td>中国</td><td>实体肿瘤</td><td>临床I期</td><td>2016年9月</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+表3全球PD-1/PD-L1单抗研发现状(最高研发状态：临床I期)Table 5 the Global R&D Status of PD-1/PD-L1Monoclonal Antibody（Highest Status: Phase II Clinical Trail)  
+
+<html><body><table><tr><td rowspan="2">药物名称/商品 名</td><td rowspan="2">靶点</td><td rowspan="2">原研公司</td><td colspan="5">目前研发状态</td></tr><tr><td>在研公司</td><td>国家/地区</td><td>适应症</td><td>状态</td><td>时间</td></tr><tr><td rowspan="7">SHR-1210</td><td rowspan="7">PD-1抑制剂</td><td rowspan="7">上海恒瑞医 药有限公司</td><td rowspan="7">上海恒瑞医药有限公司</td><td rowspan="7"></td><td>肝细胞癌</td><td>临床Ⅲ期</td><td>2016年11月</td></tr><tr><td>转移性食管癌、转移性非 小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年5月</td></tr><tr><td>转移性胃癌 中国</td><td>临床Ⅱ期</td><td>2016年10月</td></tr><tr><td>转移性肝癌</td><td>临床Ⅱ期</td><td>2017年4月 2017年6月</td></tr><tr><td>霍奇金病</td><td>临床Ⅱ期</td><td></td></tr><tr><td>骨肉瘤、转移性乳腺癌</td><td>临床Ⅱ期</td><td>2018年1月</td></tr><tr><td>IV期黑色素瘤</td><td>临床Ⅰ期 临床I期</td><td>2016年4月 2017年4月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="18"></td><td rowspan="8"></td><td rowspan="8"></td><td rowspan="8"></td><td rowspan="8"></td><td>澳大利亚 芬兰</td><td>黑色素瘤 子宫内膜样癌、转移性乳 腺癌、转移性胰腺癌、IV</td><td>临床Ⅲ期 临床Ⅱ期</td><td>2017年2月 2016年6月</td></tr><tr><td></td><td>期黑色素瘤</td><td></td><td></td></tr><tr><td></td><td>癌症 癌症</td><td>临床Ⅱ期 临床Ⅱ期</td><td>2016年9月 2016年9月</td></tr><tr><td>加拿大</td><td>肝细胞癌</td><td>临床Ⅱ期</td><td>2016年6月</td></tr><tr><td>晚期实体肿瘤</td><td></td><td></td><td>2016年10月</td></tr><tr><td></td><td></td><td>临床Ⅱ期</td><td></td></tr><tr><td>子宫内膜样癌</td><td>内分泌肿瘤</td><td>临床Ⅲ期 临床Ⅱ期</td><td>2017年12月 2016年6月</td></tr><tr><td>转移性乳腺癌、转移性胰</td><td></td><td>临床Ⅱ期</td><td>2016年6月</td></tr><tr><td rowspan="8">诺华制药公 Spartalizumab PD-1抑制剂 司</td><td rowspan="8">诺华制药公司</td><td rowspan="8"></td><td></td><td>腺癌</td><td></td><td></td></tr><tr><td>鼻咽癌</td><td>临床Ⅱ期</td><td>2016年5月</td></tr><tr><td>神经内分泌肿瘤</td><td>临床Ⅱ期</td><td>2017年2月</td></tr><tr><td>IV 期黑色素瘤</td><td>临床Ⅱ期</td><td>2016年6月</td></tr><tr><td>黑色素瘤</td><td>临床Ⅲ期</td><td>2017年2月</td></tr><tr><td>欧洲 瑞士</td><td>癌症</td><td>临床Ⅱ期 2016年9月</td></tr><tr><td>晚期实体肿瘤</td><td>子宫内膜样癌、转移性乳</td><td>临床Ⅱ期 2016年10月</td></tr><tr><td>西班牙 腺癌、转移性胰腺癌、IV</td><td></td><td>临床Ⅱ期 2016年6月</td></tr><tr><td></td><td></td><td rowspan="2"></td><td rowspan="2">新加坡</td><td>期黑色素瘤 晚期实体肿瘤</td><td>临床Ⅱ期</td><td>2016年10月</td></tr><tr><td rowspan="2"></td><td rowspan="2">意大利</td><td>癌症</td><td>临床Ⅱ期</td><td>2016年2月</td></tr><tr><td></td><td>晚期实体肿瘤</td><td>临床Ⅱ期</td><td>2016年10月</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>癌症</td><td>临床Ⅱ期</td><td>2016年9月</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="2"></td><td rowspan="2">中国台湾</td><td>晚期实体肿瘤</td><td>临床Ⅱ期 2016年10月</td></tr><tr><td>中国香港</td><td>鼻咽癌 鼻咽癌</td><td>临床Ⅱ期</td><td>2016年5月</td></tr><tr><td rowspan="7">BGB-A317</td><td rowspan="7">PD-1 抑制剂</td><td rowspan="7">百济神州公 司；新基公司</td><td colspan="2">百济神州公司</td><td>晚期实体肿瘤</td><td>临床Ⅱ期</td><td>2016年5月</td></tr><tr><td colspan="2"></td><td>霍奇金病</td><td>临床Ⅱ期 临床Ⅱ期</td><td>2016年12月 2017年4月</td></tr><tr><td rowspan="6">百济神州公司</td><td rowspan="6"></td><td>韩国 美国</td><td>转移性食管癌、转移性头 颈癌、转移性卵巢癌、转</td><td>临床Ⅱ期</td><td>2017年9月</td></tr><tr><td></td><td>移性胃癌 肝细胞癌</td><td>临床Ⅲ期</td><td>2017年12月</td></tr><tr><td rowspan="4">中国</td><td>霍奇金病</td><td>临床Ⅱ期</td><td>2017年4月</td></tr><tr><td>转移性膀胱癌</td><td>临床Ⅱ期</td><td>2017年6月</td></tr><tr><td>转移性食管癌</td><td>临床Ⅲ期</td><td>2018年1月</td></tr><tr><td>转移性肺癌</td><td>临床Ⅱ期</td><td>2017年8月</td></tr><tr><td rowspan="6"></td><td rowspan="2"></td><td></td><td></td><td>转移性非小细胞肺癌</td><td>临床Ⅲ期</td><td>2017年11月</td></tr><tr><td>新基公司</td><td>中国台湾 美国</td><td>霍奇金病</td><td>临床Ⅱ期</td><td>2018年1月</td></tr><tr><td>PD-1抑制剂</td><td>Biocad 公司 Biocad 公司</td><td>俄罗斯联邦</td><td>实体肿瘤 晚期实体肿瘤</td><td>临床Ⅲ期 临床Ⅲ期</td><td>2018年2月 2017年8月</td></tr></table></body></html>
+
+# 2.3产品交易现状
+
+目前PD-1/PD-L1单抗研发领域的交易类型主要有三种，包括药物开发及商业化许可、专利资产出售以及早期药物研发合作，这几种交易类型中，药物开发及商业化许可是最主要的PD-1/PD-L1单抗领域的交易形式（占到所有交易的$50 \%$ ）（表4)。详细如下：
+
+# (1）默克和辉瑞达成28.5亿美元的Avelumab/Bavencio许可开发和商业化协议
+
+2014年11月17日，美国辉瑞公司与德国默克公司达成总额28.5亿美元的全球战略合作协议，双方将共同研发及推广癌症免疫疗法药物Avelumab/Bavencio。根据协议，辉瑞将向默克支付8.5亿美元预付资金，在研发药物取得监管或商业化的重要进展时，默克还将获得最高20亿美元的里程金。自2014 年7月交易开始至今，Avelumab/Bavencio 药物的研发状态处于上市。
+
+# (2）赛诺菲和再生元达成26.65亿美元的抗体药物许可开发和商业化协议
+
+2015年7月1日，赛诺菲和再生元在新兴的免疫肿瘤学领域达成全球合作，用于发现、开发和商业化新型抗体治疗药物，其中包括共同开发PD-1抑制剂Cemiplimab/REGN-2810。截止目前，赛诺菲与再生元的战略合作将投入高达26.65亿美元，其中包括6.4亿美元的预付款，潜在的3.75亿美元销售里程碑和16.50亿美元研发资助费，其中研发资助费包括1亿美元用于概念性验证（ProofofConcept，POC）的研究和6.5 亿美元用于Cemiplimab/REGN-2810 的开发。自2015 年7月交易开始至今，Cemiplimab/REGN-2810 药物的研发状态从临床Ⅰ期转到预注册。
+
+# (3)信达生物和礼来达成14.56亿美元的三个单抗战略合作协议
+
+2015年3月20日，信达生物公司与美国礼来制药达成了包括抗PD-1单抗IBI-308 在内的三个创新生物药的产品开发战略合作协议，将创新产品的海外市场授权给美国礼来，信达获得首付及里程碑付款等总额达14.56亿美元，其中包括 5600万美元首付款和14亿美元里程金。IBI-308是信达自主研发的具有全球自主知识产权的国家I类单抗新药，作用靶点是PD-1，拟用于治疗肺癌、肝癌、胃癌等多种恶性肿瘤。自2015年3月交易开始至今，IBI-308药物的研发状态已从临床Ⅱ期转到预注册。
+
+# (4)百济神州与新基达成13.93亿美元的战略合作协议
+
+2017年7月5日，美国新基公司（Celgene）与百济神州公司（BeiGene）达成13.93亿美元的战略合作协议（涉及BGB-A317、Azacitidine 和Paclitaxel药物），共同在实体肿瘤领域推进PD-1抑制剂 BGB-A317 的开发。根据协议，百济神州可获得2.63亿美元的首付款，溢价 $3 5 \%$ 的1.5亿美元股权投资和9.8亿美元的里程金，以及BGB-A317未来销售额的销售版税；而新基将获得百济神州用于治疗实体肿瘤的PD-1抑制剂 BGB-A317在亚洲（除日本）之外的全球授权。自2017年7月交易开始至今，BGB-A317药物的研发状态已从临床ⅡI期转到临床IⅢ期。
+
+# (5)Sorrento与Servier达成10亿美元PD-1单抗许可开发和商业化协议
+
+2016 年7月6 日，Sorrento Therapeutics 和Les Laboratoires Servier 达成一项PD-1单抗STI-A1110的许可和合作协议，Servier将获得在全球范围内开发、注册和商业化STI-A1110的独家许可，适用于STI-A1110所有可能的适应症，包括多种血液肿瘤和实体瘤。而 Sorrento将获得2823万美元的先期款项以及高达9.72亿美元的里程金。自2016年7月交易开始至今，STI-A1110药物的研发状态仍处于早期开发中，尚未进入临床。
+
+# (6)Incyte与MacroGenics达成9亿美元PD-1单抗许可开发和商业化协议
+
+2017年10月27日，Incyte公司与MacroGenics公司签订价值高达9亿美元的全球独家协作许可协议，获得 MacroGenics 公司的PD-1抑制剂（MGA-012）在全球开发和商业化权利。依据协议，Incyte 将向MacroGenics 支付1.5 亿美元的首付款和7.5 亿美元的里程金，如果MGA012被批准上市，MacroGenics 将有资格在MGA012未来的销售额中获得 $1 5 \% - 2 4 \%$ 的特许权使用费。自2017年10月交易开始至今，MGA-012药物的研发状态仍处于临床I期。
+
+# (7)药明生物与Arcus达成8.16亿美元PD-1单抗许可开发和商业化协议
+
+2017年8月17日，药明生物与Arcus公司达成协议，将誉衡药业委托无锡药明康德生物技术股份有限公司研发、共同申报的PD-1单抗GLS-010（用于癌症治疗）在北美、日本、欧洲等区域的独家开发、商业化权利有偿许可给 Arcus公司，Arcus 公司拟将协议产品与其拟开发的其他产品组合开发。根据协议，Arcus公司向誉衡药业、药明生物付款金额最高可达8.16亿美元，包括1,850万美元的首付款及7,975亿美元里程金。此外，誉衡药业、药明生物将会就协议产品的净销售额按约定比例享有销售提成。自2017年8月交易开始至今，MGA-012药物的研发状态仍处于临床I期。
+
+# (8)百时美施贵宝与默沙东达成6.25亿美元Pembrolizumab/Keytruda专利许 可协议
+
+2017年1月20日，BMS/小野制药公司宣布已经与默沙东就PD-1单抗Pembrolizumab/Keytruda（用于癌症治疗）的专利侵权诉讼签署了一项和解及全球专利许可协议。根据和解协议，默沙东首先要向BMS/小野制药支付6.25 亿美元的首付款。另外，在2017/1/1-2023/12/31期间，默沙东需按 $6 . 5 \%$ 的比例向后者支付Pembrolizumab/Keytruda的销售分成。在 $2 0 2 4 / 1 / 1 { - } 2 0 2 6 / 1 2 / 3 1$ 期间，默沙东需按 $2 . 5 \%$ 的比例向后者支付Pembrolizumab/Keytruda 的销售分成。自2017年1月交易开始至今，Pembrolizumab/Keytruda药物的研发状态仍处于上市。
+
+(9）阿斯利康与新基达成4.5亿美元Durvalumab/Imfinzi许可开发和商业化协议2015年4月24日，阿斯利康就与新基（Celgene）达成合作，共同开发Durvalumab/Imfinzi用于血液学恶性肿瘤治疗的联合疗法，阿斯利康从新基获得了4.5亿美元的首笔付款。自2015年4月交易开始至今，Durvalumab/Imfinzi药物的研发状态已从临床IⅢ期转到上市。
+
+# (10）Medivation和CureTech达成3.35亿美元pidilizumab 独家开发权利
+
+2014年10月23日，Medivation与CureTech公司达成一笔总额3.35亿美元的交易，获得其PD-1单抗Pidilizumab（CT-011)的全球独家开发权利。Medivation已经为Pidilizumab向CureTech支付了500万美元预付款，后面还要支付3.3亿美元里程金。自2015年10月交易开始至今，Durvalumab 药物的研发状态已从临床ⅡI期转到终止。
+
+表42017年PD-1/PD-L1单抗商业化交易TOP10（例举）Table 72017 Commercial Transactions of PD-1/PD-L1Monoclonal Antibody TOP10 （Examples ）  
+
+<html><body><table><tr><td>转让人</td><td>合伙人</td><td>交易类型</td><td>交易覆 盖领域</td><td>交易不 覆盖领 域</td><td>根据合同当 前的预计值 (USD M)</td><td>根据合同实际 已支付的金额 (USD M)</td><td>适应症</td><td>药物</td><td>药物最高研 发状态（交 易时）</td><td>药物最高 研发状态 （目前）</td><td>交易开始时 间</td></tr><tr><td>默克公司</td><td>辉瑞公司</td><td>药物一开 发/商业化 许可</td><td>全球 全球</td><td></td><td>2850.00</td><td>850.00</td><td>癌症 癌症；免疫障</td><td>Avelumab; anti-PD-1 antibody ; Crizotinib REGN-2810;</td><td>上市</td><td>上市</td><td>2014/11/17</td></tr><tr><td>再生元医 药公司</td><td>赛诺菲公司</td><td>药物一开 发/商业化 许可</td><td></td><td></td><td>2665.00</td><td>640.00</td><td>碍；</td><td>REGN-1979; REGN-3767; Anti-GITR Antibodies; Cemiplimab</td><td>临床I期</td><td>预注册</td><td>2015/7/1</td></tr><tr><td>信达生物礼来公司 制药（苏 州)有限公 司</td><td></td><td>药物一开 发/商业化 许可</td><td>中国； 全球</td><td></td><td>1456.00</td><td>56.00</td><td>癌；慢性淋巴细 胞白血病；血液 肿瘤；非霍奇金 淋巴瘤；非小细 胞肺癌</td><td>IBI-308; anti-PD-1 Bispecific Antibodies; Emibetuzumab; Rituximab biosimilar</td><td>临床Ⅱ期</td><td>预注册</td><td>2015/3/20</td></tr><tr><td>百济神州 公司</td><td>新基公司</td><td>药物一开 发/商业化 许可</td><td>欧洲； 日本； 美国； 全球</td><td>亚洲</td><td>1393.00</td><td>413.00</td><td>实体肿瘤</td><td>BGB-A317; Avadomide; Azacitidine; Lenalidomide; Paclitaxel</td><td>临床Ⅱ期</td><td>临床Ⅲ期</td><td>2017/7/5</td></tr></table></body></html>
+
+<html><body><table><tr><td>Sorrento Therapeut ics 公司</td><td>Servier 公司</td><td>药物一开 发/商业化 许可</td><td>全球</td><td></td><td>1000.48</td><td>28.23</td><td>癌症</td><td>STI-1110</td><td>发现</td><td>发现</td><td>2016/7/6</td></tr><tr><td>MacroGe nics 公司</td><td>Incyte 公司</td><td>药物一开 发/商业化 许可</td><td>全球</td><td></td><td>900.00</td><td>150.00</td><td>血液肿瘤；实体 肿瘤</td><td>MGA-012</td><td>临床I期</td><td>临床I期</td><td>2017/10/24</td></tr><tr><td>无锡药明 康德生物 公司</td><td>Arcus 生物 科学公司</td><td>药物一开 发/商业化 许可</td><td>欧洲； 日本； 北美</td><td></td><td>816.00</td><td>18.50</td><td>癌症</td><td>GLS-010</td><td>临床I期</td><td>临床I期</td><td>2017/8/17</td></tr><tr><td>默克公司</td><td>百时美施贵 宝</td><td>专利-独占 许可</td><td>全球</td><td></td><td>625.00</td><td>625.00</td><td>癌症</td><td>Pembrolizumab</td><td>上市</td><td>上市</td><td>2017/1/20</td></tr><tr><td>阿斯利康 公司</td><td>新基公司</td><td>药物一开 发/商业化</td><td>全球</td><td></td><td>450.00</td><td>450.00</td><td>白血病</td><td>Durvalumab</td><td>临床Ⅲ期</td><td>上市</td><td>2015/4/24</td></tr><tr><td>CureTech 公司</td><td>Medivation 公司</td><td>许可 药物一开 发/商业化 许可</td><td>全球</td><td></td><td>335.00</td><td>5.00</td><td>癌症</td><td>Pidilizumab</td><td>临床Ⅱ期</td><td>终止</td><td>2014/10/23</td></tr></table></body></html>
+
+注：如果一项交易涉及多个药物时，表格中“药物最高研发状态（交易时）”和“药物最高研发状态（目前）”是指交易药物涉及为PD-1/PD-L1单抗的药物研发状态（表格中已经加粗)。
+
+# 3．总结与展望
+
+PD-1/PD-L1免疫疗法是当前备受瞩目的一类抗癌免疫疗法。目前各研究机构逐步开展相应的临床项目，调查单药疗法和联合疗法用于多种癌症的治疗，以发掘该类药物的临床价值。自2014年Nivolumab/Opdivo以及Pembrolizumab/Keytruda上市以来，随着PD-1/PD-L1单抗药物在众多适应症上的获批，全球 PD-1/PD-L1 单抗药物销售规模快速增长，2017 年全球 PD-1/PD-L1单抗药物销售额累计超过90亿美元。未来随着更多适应症的获批，根据 EvaluatePharma 预测，2022 年 PD-1/PD-L1 单抗药物销售额累计将达 300 亿美元。面对未来数百亿美元级的市场规模，除了百时美施贵宝、罗氏、默沙东以及阿斯利康等跨国企业外，国内布局 PD-1/PD-L1单抗药物的企业竞争也异常激烈，主要企业包括信达生物、恒瑞医药、君实生物、百济神州等。其中，恒瑞医药的PD-1抗体 SHR1210 也已在国内进入III期临床。
+
+新靶点的研究和开发是目前抗体研究的趋势。国内外对新靶点的研发层出不穷，但是没有一个能与PD-1/PD-L1媲美。同时随着肿瘤联合治疗逐渐规范化，免疫治疗和其他药物组合的联合治疗模式也越来越清晰，成为未来肿瘤治疗的方向，但是何种药物组合可以达到延长生存期还有待研究。因此，应深入开展多种临床试验，从而发现免疫治疗药物的最佳用药方案，为安全、有效、合理的用药提供依据。
+
+此外，由于生物医药类产品科技含量高，附加值大，跨国企业会对新型单抗药物进行较为全面的专利保护，如尽可能多的适应症和保护范围往往涵盖全世界大多数国家。尽管目前国内有多个PD-1/PD-L1单抗药物进入临床，但是国内的PD-1/PD-L1单抗药物上市，可能会面临相关专利诉讼的风险。此前，默沙东和百时美施贵宝就因PD-1抗体的专利在全球范围内进行了多年的诉讼。因此，未来我国单抗研发企业在PD-1/PD-L1单抗专利布局上谨慎排查专利风险，在开发针对新靶点或有效靶点新表位的单抗药物的过程中也要积极占领专利制高点。
+
+# 参考文献
+
+[1] Ishida Y,Agata Y， Shibahara K. Induced expression of PD-1,a novel member of the immunoglobulingenesuperfamily,uponprogrammedcelldeath. EmboJournal,
+
+1992,11(11):3887-3895.
+
+[2]Dong HD, Zhu G F, Tamada K, et al. B7-H1,a third member of the B7 family, co-stimulates T-cell proliferation and interleukin-10 secretion. Nature Medicine,1999,5(12): 1365-1369.   
+[3]Freeman G J, Long A J, Iwai Y. Engagement of the PD-1 immunoinhibitory receptor by a novel B7-family member leads to negative regulation of lymphocyte activation. Blood, 2000, 96(11): 810A-811A.   
+[4] Robert C, Schachter J, Long G V, et al. Pembrolizumab versus Ipilimumab in Advanced Melanoma. New England Journal Of Medicine, 2015,372(26): 2521-2532.   
+[5] Martin R,Delvys R A，Andrew G R,et al. Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. New England Journal of Medicine, 2016, 375(19): 1823-1833.   
+[6] Weber J, Mandala M,Del V M, et al. Adjuvant Nivolumab versus Ipilimumab in Resected Stage II or IV Melanoma. New England Journal of Medicine, 2017, 377(19): 1824-1835.   
+[7] Carbone D P, Reck M, Paz-Ares L,et al. First-Line Nivolumab in Stage IV or Recurrent Non-Small-Cell Lung Cancer. New England Journal of Medicine, 2017, 376(25): 2415-2426.   
+[8]Massard C, Gordon M S, Sharma S, et al. Safety and Efficacy of Durvalumab (MEDI4736), an Anti-Programmed Cell Death Ligand-1 Immune Checkpoint Inhibitor, in Patients With Advanced Urothelial Bladder Cancer. Journal of Clinical Oncology，2016,34(26): 3119-3125.   
+[9] Garassino M C, Cho B C, Kim JH, et al. Durvalumab as third-line or later treatment for advanced non-smal-cell lung cancer (ATLANTIC): an open-label, single-arm, phase 2 study. Lancet Oncology,2018,19 (4): 521-536.   
+[10] Rittmeyer A, Barlesi F, Waterkamp D, et al. Atezolizumab versus docetaxel in patients with previously treated non-small-cell lung cancer (OAK): a phase 3, open-label, multicentre randomised controlled trial. Lancet, 2017, 3899(10066): 255-265.   
+[11] Kaufman HL, Russel J, Hamid O, et al. Avelumab in patients with chemotherapy-refractory metastatic Merkel cell carcinoma: a multicentre, single-group, open-label， phase 2 trial. Lancet Oncol0gy,2016,17(10): 1374-1385.   
+[12] Apolo A B， Infante J R，Balmanoukian A,et al. Avelumab，an Anti-Programmed Death-Ligand 1 Antibody, In Patients With Refractory Metastatic Urothelial Carcinoma:
+
+Results From a Multicenter, Phase Ib Study. Journal of Clinical Oncology, 2017,35(19): 2117-2124.
+
+[13] Yang S, Yang JL, Han Y, et al. A phase 1 trial of JSo01, a monoclonal antibody targeting programmed death-1 (PD-1) in patients with advanced or recurrent malignancies.Journal Of Clinical Oncology, 2017, 35(15): e14581-e14581.
+
+[14] Wang F, Qin S K，Fang W J，et al. Clinicopathological report of cutaneous capillary endothelial proliferation related with anti-PD-1 monoclonal antibody SH R -121O in the treatmentofprimaryhepaticcarcinoma. ChineseClinicalOncology, 2017, 22(12):1066-1072.

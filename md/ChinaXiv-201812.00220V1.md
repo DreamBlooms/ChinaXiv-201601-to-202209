@@ -1,0 +1,209 @@
+1 饲粮中添加不同生物制剂对杜寒杂交肉羊营养物质消化利用的影响
+
+2贾　鹏1.²马　涛」万凡1.²王文义³杨 东1.3王韵斐³郭宝林4　赵丽芳4　杨开 ； 伦²刁其玉1\*
+
+1 （1.中国农业科学院饲料研究所，农业部饲料生物技术重点实验室，北京100081；2.新疆农  
+； 业大学，乌鲁木齐 830052；3.巴彦淖尔市农牧业科学研究院，巴彦淖尔 015000；4.北京昕大洋科技有限公司，北京 100081)  
+7 摘要：本试验旨在比较在饲粮中添加不同生物制剂对杜寒杂交肉羊营养物质表观消化率、  
+> 氮和能量代谢的影响。采用单因素试验设计，选取体重约 $3 2 \mathrm { k g }$ 的杜寒杂交 $\mathrm { F } _ { 1 }$ 代肉羊160只，随机分为5组，每组4个重复，每个重复8只。对照组采用不添加任何生物制剂的基础  
+） 饲粮，试验组在基础饲粮中分别添加 $2 1 ~ \mathrm { m g / k g }$ 莫能菌素、 $4 \times 1 0 ^ { 9 }$ CFU/kg 地衣芽孢杆菌、3.2×109 CFU/kg 酿酒酵母菌、 $1 . 1 \ \mathrm { g / k g }$ 酶菌制剂（包含地衣芽孢杆菌、酿酒酵母菌、碱性蛋白酶)。预试期 $1 0 \mathrm { d }$ ，正试期 $5 6 \mathrm { d }$ 。当酶菌制剂组试验羊体重约达 $3 7 \mathrm { k g }$ 时，每组选取4只  
+； 羊进行消化代谢试验，预试期7d，正试期5d。结果表明：1）各试验组干物质表观消化率、  
+- 酸性洗涤纤维表观消化率均显著高于对照组 （ $\cdot P { < } 0 . 0 5 \$ ），酶菌制剂组干物质表观消化率、有  
+、 机物表观消化率最高，显著高于莫能菌素组和地衣芽孢杆菌组（ $P { < } 0 . 0 5$ ）。2）各试验组总  
+） 能表观消化率、总能代谢率显著高于对照组（ $\scriptstyle P < 0 . 0 5 .$ ）。3）各试验组氮表观消化率显著高  
+7 于对照组（ $\cdot P { < } 0 . 0 5$ ），酶菌制剂组表观可消化氮、氮表观消化率显著高于对照组、莫能菌素  
+； 组、地衣芽孢杆菌组（ $_ { . P < 0 . 0 5 }$ ）。结果提示，从作为饲料添加剂对杜寒杂交肉羊营养物质消  
+） 化利用、能量代谢和氮代谢的作用效果分析，地衣芽孢杆菌、酿酒酵母菌和酶菌制剂均优于  
+） 莫能菌素，酶菌制剂最佳。关键词：肉羊；营养物质；表观消化率；莫能菌素；地衣芽孢杆菌；酿酒酵母菌；酶菌制剂  
+> 中图分类号：S826  
+； 抗生素作为饲料添加剂应用于畜牧业，能够显著提高动物生产效益，因此成为应用最广  
+√ 泛的饲料添加剂之一。有数据显示，全球抗生素总产量的 $50 \%$ 左右被用于畜牧养殖行业[1]。
+
+作为离子载体抗生素的莫能菌素，是抗生素中应用最为广泛的动物生长促进剂。用莫能菌素饲喂反刍动物，能改变瘤胃发酵、提高碳水化合物和蛋白质的利用率、减少甲烷产量，起到促进动物生长的作用[2-3]。但随着抗生素对肉制品安全和生态环境的影响逐渐被人们认识，抗生素在养殖行业中的应用将被控制的更加严格，因此，急需能够替代抗生素的新型添加剂。益生菌作为饲料添加剂，具有无污染、无残留的特点，近年来成为人们研究的热点。农业部公告第 2045号《饲料添加剂品种目录（2013)》允许将33种益生菌作为饲料添加剂使用[4]。其中，关于地衣芽孢杆菌和酿酒酵母菌的研究较为广泛，应用效果较好。地衣芽孢杆菌属于硬壁菌门杆菌纲芽孢杆菌目芽孢杆菌科，能够促进动物胃肠道内有益菌的生长，分泌多种消化酶并能提高体内消化酶活性；酵母菌是子囊菌、担子菌等几科单细胞真菌的统称，自身含有多种营养物质并具有发酵功能，能促进动物胃肠道内有益菌的生长，为机体提供丰富的蛋白质[5-10]。将地衣芽孢杆菌和酿酒酵母菌作为饲料添加剂直接饲喂动物，能够提高生产效益，但将地衣芽孢杆菌、酿酒酵母菌和蛋白酶制成酶菌制剂用于动物饲粮中的效果还不明确。本试验在杜寒杂交肉羊饲粮中添加莫能菌素、地衣芽孢杆菌、酿酒酵母菌及酶菌制剂，开展消化代谢试验，研究不同生物制剂对杜寒杂交肉羊营养物质表观消化率、能量代谢和氮代谢的影响，为益生菌替代抗生素及其发展方向提供理论数据，促进我国羊产业高效健康生态发展。
+
+1材料与方法
+
+1.1 时间和地点
+
+试验于2016年9—11月在内蒙古自治区富川饲料科技股份有限公司现代化肉羊养殖基地进行，历时 $6 6 \mathrm { d }$ 。
+
+1.2 试验设计
+
+本试验采用单因素试验设计，以杜寒杂交肉羊为试验动物，选取体况良好、体重约 $3 2 \mathrm { k g }$ 相近的4\~6月龄公羔160只，随机分为5组，每组4个重复，每个重复8只羊。对照组采用不添加任何生物制剂基础饲粮，试验组在基础饲粮中分别添加莫能菌素、地衣芽孢杆菌、酿酒酵母菌、酶菌制剂。当酶菌制剂组试验羊平均体重约达 $3 7 \mathrm { k g }$ 时，每组选4只接近平均体重的试验羊进行消化代谢试验，预试期7d，正试期5d，采用全收粪尿法。
+
+# 1.3添加剂主要来源与特性
+
+莫能菌素（有效成分含量 $90 \%$ ）根据Mirzaei-Alamouti 等[1]的研究结果，将添加量定为
+
+$2 1 \mathrm { m g / k g }$ (每千克风干基础的基础饲粮中添加量，以下相同)，购自山东无棣瑞利康生物工程有限公司。地衣芽孢杆菌（活菌含量 $2 { \times } 1 0 ^ { 1 1 } \mathrm { C F U / g } ^ { \cdot }$ ）添加量为 $4 { \times } 1 0 ^ { 9 } \mathrm { C F U / k g }$ ；酿酒酵母菌（活菌含量 $1 { \times } 1 0 ^ { 1 0 } \mathrm { C F U } / \mathbf { g } $ ）添加量为 $3 . 2 { \times } 1 0 ^ { 9 } \mathrm { C F U / k g }$ ；酶菌制剂（包含地衣芽孢杆菌、酿酒酵母菌、碱性蛋白酶，活菌含量 $1 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / g } \dot { }$ ）添加量为 $1 . 1 \ \mathrm { g / k g }$ 。地衣芽孢杆菌、酿酒酵母菌、酶菌制剂由北京昕大洋科技发展有限公司提供，添加量均为厂家建议量。
+
+# 1.4 基础饲粮
+
+根据本团队提出的 $3 0 { \sim } 4 0 \mathrm { k g }$ 肉羊日增重 $3 0 0 ~ \mathrm { g }$ 的营养需要量[12-16]标准配制基础饲粮。饲喂方式为： $80 \%$ 全混合颗粒料 $+ 2 0 \%$ 羊草；各生物制剂添加于颗粒料原料中，混匀后制成颗粒料。饲粮自行配制，预混料由北京精准动物营养研究中心提供。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米 Com</td><td>24.0</td></tr><tr><td>麸皮 Wheat bran</td><td>8.0</td></tr><tr><td>豆粕 Soybean meal</td><td>4.0</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>4.0</td></tr><tr><td>苜蓿Alfalfa hay</td><td>4.0</td></tr><tr><td>干酒糟及其可溶物 DDGS</td><td>4.0</td></tr><tr><td>豆秸秆 Bean straw</td><td>28.0</td></tr><tr><td>羊草Leymus chinensis</td><td>20.0</td></tr><tr><td>葵仁粕 Sunflower meal</td><td>1.6</td></tr><tr><td>食盐 NaCl</td><td>0.4</td></tr><tr><td>石粉Limestone</td><td>0.7</td></tr><tr><td>碳酸氢钙 CaHPO4</td><td>0.5</td></tr><tr><td>预混料 Premix1)</td><td>0.8</td></tr><tr><td>合计Total</td><td>100.0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>总能 GE/(MJ/kg)</td><td>16.70</td></tr><tr><td>干物质 DM</td><td>93.10</td></tr><tr><td>粗蛋白质CP</td><td>14.60</td></tr><tr><td>粗脂肪 EE</td><td>3.23</td></tr><tr><td>粗灰分 Ash</td><td>14.00</td></tr><tr><td>中性洗涤纤维 NDF</td><td>54.40</td></tr><tr><td>酸性洗涤纤维 ADF</td><td>23.90</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets:VA 15 000 IU,VD 2200IU,VE 50 IU,Fe 55 mg,Cu 12.5 mg,Mn 47 mg,Zn 24 mg,Se 0.5 mg,I 0.5 mg,Co 0.1 mg。
+
+2)营养水平为实测值。Nutrient levels were measured values.
+
+# 1.5 饲养管理
+
+试验羊提前打好耳号，免疫注射三联四防疫苗，每只羊灌服伊维菌素溶液 $2 . 5 ~ \mathrm { m L }$ 进行驱虫处理。试验羊单栏饲养，每只羊占地约 $2 . 6 \mathrm { m } ^ { 2 }$ 。试验羊每天08:00 和18:00 各饲喂1次，自由饮水。试验期间羊舍温度为 $5 { \sim } 1 5 \ \mathrm { ~ \textdegree C }$ ，天气晴朗。根据提前预饲得到的试验羊采食量确定各组饲喂量，各组饲喂量相同且均为自由采食，正试验期开始后，确保每天饲槽中的剩料量占饲喂量的 $10 \%$ 左右。每次先饲喂羊草，1h后再饲喂颗粒料，避免羊只挑食。
+
+# 1.6消化代谢试验样品采集与处理
+
+消化代谢试验正试期每天饲喂前，准确记录每只试验羊饲喂量并采集饲粮样本，将1组各天采集的饲粮样本混匀作为整个正试期的饲粮样本，备测；将1组各天收集得到的剩料混匀作为剩料样本，备测；采用全收粪尿法收集粪、尿，每天称取并记录每只羊排粪量，充分混匀后按排粪量的 $10 \%$ 取样，将每只羊5d的粪样混匀-20℃冷冻保存，试验结束后，将粪样于65℃条件下烘干 $4 8 \mathrm { { h } }$ ，自然条件下回潮 $4 8 \mathrm { ~ h ~ }$ 后称重，计算初水分，然后粉碎，经40目网筛过滤后，测定营养成分含量；用盛有 $1 0 0 \mathrm { m L } 1 0 \% \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 的塑料桶收集尿液，以防止贮存过程中有尿酸沉淀，稀释至 $^ { 5 \mathrm { L } }$ ，将稀释尿液充分混合，用4层纱布过滤后每天取样$3 0 ~ \mathrm { m L }$ ，将每只羊5d的尿样混合后-20℃冷冻保存，以备测定尿能（UE）和尿氮。
+
+# 1.7 测定指标及方法
+
+# 1.7.1 养分表观消化率
+
+消化代谢试验过程中采集具有代表性的饲粮，依照AOAC(2000）[17]的方法测定其营养成分含量。总能(GE)以PARR-6400全自动氧弹量热仪测定;粗蛋白质(CP)含量以KDY-9830全自动凯氏定氮仪测定。
+
+饲粮养分表观消化率计算方法参照Adeola[18的公式：
+
+饲粮中某种养分的表观消化率 $( \% ) = 1 0 0 \times$ （饲粮采食量 $\times$ 饲粮中该养分的含量一排粪量 $\times$ 粪中该养分含量）／（饲粮采食量 $\cdot \times$ 饲粮中该养分的含量)。
+
+# 1.7.2 能量代谢指标
+
+粪能（FE）以及UE 测定参考AOAC（2000）[17]中的方法，采用Parr-6400全自动氧弹式热量测定仪。对于UE的测定，取5块定量滤纸分别测定能值，计算出滤纸的平均能值，将 $1 0 ~ \mathrm { m L }$ 尿液分多次滴在滤纸上，65℃烘干后测定能值，得到滴加尿液的滤纸能值，减去滤纸能值即得UE。饲粮消化能（DE）、UE、代谢能（ME）、GE表观消化率、GE 代谢率和DE 代谢率公式如下：
+
+DE（MJ/kg） $\ c =$ 摄入GE-FE;  
+UE（MJ/kg） $\ c =$ 滴加尿液的滤纸能值一滤纸能值；  
+ME（MJ/kg） $\scriptstyle =$ 摄入GE一FE一UE一甲烷能；  
+GE 表观消化率（%） $\ O =$ DE/摄入GE;  
+GE 代谢率（%）=ME/摄入GE;  
+DE代谢率 $( \mathrm { { 9 } _ { 0 } ) \mathrm { { \ = M E / D E } } }$ 。
+
+式中：甲烷能的具体数值依据本团队前期的研究结果，杜寒杂交肉羊育肥期甲烷能占GE 的比例为 $8 \% [ 1 9 ]$ 。
+
+# 1.7.3 氮代谢指标
+
+测定摄入氮、粪氮、尿氮，计算出总排出氮、表观可消化氮、沉积氮、氮表观消化率、氮利用率以及氮的生物学价值，公式如下：
+
+氮的生物学价值 $( \% ) = 1 0 0 \times$ ［食入氮一（粪氮 $_ { 1 } +$ 尿氮）」／(食入氮一粪氮)。
+
+# 1.8 数据处理分析
+
+试验数据采用Excel2010进行整理，采用SAS9.1统计软件的ANOVA过程进行单因素方差分析（one-wayANOVA)，差异显著则用Duncan 氏法多重比较检验。 $P { < } 0 . 0 5$ 作为差异显著的判断标准。
+
+# 2 结果与分析
+
+2.1不同生物制剂对杜寒杂交肉羊营养物质表观消化率的影响
+
+由表2可知，各试验组干物质（DM）表观消化率、酸性洗涤纤维（ADF）表观消化率显著高于对照组（ $\cdot P { < } 0 . 0 5$ ），酶菌制剂组中性洗涤纤维（NDF）表观消化率最高，并且显著高于莫能菌素组和地衣芽孢杆菌组（ $. P { < } 0 . 0 5$ ）；酶菌制剂组有机物（OM）表观消化率、ADF表观消化率显著高于对照组和莫能菌素组（ $_ { \cdot \textcircled { P } < 0 . 0 5 }$ ）。
+
+表 2不同生物制剂对杜寒杂交肉羊营养物质摄入量和表观消化率的影响  
+Table 2 Effects of different biological agents on nutrient intakes and apparent digestibility of Dorper $\cdot \times$ thin-tailed   
+
+<html><body><table><tr><td>125</td><td></td><td colspan="6">Han crossbred lambs</td></tr><tr><td></td><td rowspan="4"></td><td colspan="5">组别 Groups</td><td rowspan="4">P值 SEM P-value</td></tr><tr><td></td><td>对照</td><td>地衣芽孢杆菌 莫能菌素 Bacillus</td><td>酿酒酵母菌 Saccharomy</td><td>酶菌制剂 Enzyme-bacteri</td><td></td></tr><tr><td>Items</td><td>Control</td><td>Monensin licheniformis</td><td>ces cerevisiae</td><td>a agent</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1508.00 1 459.13</td><td>1 444.70</td><td></td><td>1 472.65</td><td>1 516.48</td><td>16.64</td><td>0.640</td></tr><tr><td>摄入量 Intake/g :AI</td><td></td><td>554.40b</td><td>552.73b</td><td>534.43b</td><td></td><td></td><td></td></tr><tr><td>排出量 Excretion/g eu</td><td>623.45a</td><td></td><td></td><td></td><td>531.68b</td><td>10.05</td><td>0.008</td></tr><tr><td>表观消化率 Apparent digestibility/% C</td><td>58.68c</td><td>61.90b</td><td>61.73b</td><td>63.70ab</td><td>64.98a</td><td>0.59</td><td>0.001</td></tr><tr><td>有机物OM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>摄入量 Intake/g</td><td>1373.78</td><td>1 325.80</td><td>1 337.10</td><td>1 339.10</td><td>1 371.43</td><td>18.25</td><td>0.912</td></tr><tr><td>排出量 Excretion/g</td><td>570.00</td><td>506.65</td><td>498.85</td><td>484.73</td><td>478.95</td><td>11.21</td><td>0.052</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>58.53c</td><td>61.63bc</td><td>62.73ab</td><td>63.78ab</td><td>65.18a</td><td>0.66</td><td>0.005</td></tr><tr><td>中性洗涤纤维 NDF</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>摄入量Intake/g</td><td>861.85</td><td>837.85</td><td>817.38</td><td>844.98</td><td>859.85</td><td>10.79</td><td>0.731</td></tr><tr><td>排出量 Excretion/g</td><td>353.48</td><td>331.53</td><td>319.13</td><td>321.65</td><td>310.73</td><td>5.34</td><td>0.089</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>58.95b</td><td>60.40b</td><td>60.95b</td><td>61.85ab</td><td>63.85a</td><td>0.52</td><td>0.020</td></tr></table></body></html>
+
+<html><body><table><tr><td>摄入量Intake/g</td><td>364.48</td><td>355.38</td><td>358.98</td><td>360.08</td><td>365.15</td><td>3.52</td><td>0.923</td></tr><tr><td>排出量 Excretion/g</td><td>209.58a</td><td>188.43b</td><td>187.75b</td><td>187.80b</td><td>180.13b</td><td>2.67</td><td><0.001</td></tr><tr><td>表观消化率 Apparent digestibility/%</td><td>42.48c</td><td>46.88b</td><td>47.70ab</td><td>47.80ab</td><td>50.65a</td><td>0.74</td><td>0.001</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著（ $. P { > } 0 . 0 5 \$ )，不同小写字母表示差异显著（ $_ { \cdot P < 0 . 0 5 ) }$ 。
+
+下表同。
+
+In the same row, values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ _， while with different small leter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below.
+
+# 2.2不同生物制剂对杜寒杂交肉羊能量代谢的影响
+
+由表3可知，各试验组GE 表观消化率和GE代谢率显著高于对照组（ $. P { < } 0 . 0 5 \$ ）；莫能菌素组、地衣芽孢杆菌组、酿酒酵母菌组、酶菌制剂组DE与对照组相比，尽管差异不显著（ $P { > } 0 . 0 5$ ），但分别提高了 $4 . 2 \%$ 、 $3 . 7 \%$ 、 $7 . 3 \%$ 、 $1 1 . 4 \%$ ；各试验组ME 和DE代谢率均高于对照组，大小关系均为：酶菌制剂组 $>$ 酿酒酵母菌组 $>$ 莫能菌素组 $>$ 地衣芽孢杆菌组 $> ^ { \cdot }$ 对照组，组间差异不显著（ $P { > } 0 . 0 5$ ）。
+
+表3不同生物制剂对杜寒杂交肉羊能量代谢的影响  
+Table 3Efcts of different biological agents on energy metabolism of Dorperxthin-tailed Han crossbred lambs   
+
+<html><body><table><tr><td rowspan="2">euiy 项目Items</td><td colspan="5">组别Groups</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照 Control</td><td>莫能菌素 Monensin</td><td>地衣芽孢杆菌 Bacillus licheniformis</td><td>酿酒酵母菌 Saccharomyces cerevisiae</td><td>酶菌制剂 Enzyme-bacte ria agent</td></tr><tr><td>摄入总能 GE intake/(MJ/d)</td><td>26.78</td><td>26.15</td><td>25.83</td><td>26.40</td><td>27.03</td><td>0.28</td><td>0.703</td></tr><tr><td>粪能 FE/(MJ/d)</td><td>11.25a</td><td>9.95b</td><td>9.70b</td><td>9.73b</td><td>9.70b</td><td>0.19</td><td>0.012</td></tr><tr><td>尿能 UE/(MJ/d)</td><td>0.90</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>0.02</td><td>0.092</td></tr><tr><td>消化能 DE/(MJ/d)</td><td>15.55</td><td>16.20</td><td>16.13</td><td>16.68</td><td>17.33</td><td>0.25</td><td>0.251</td></tr><tr><td>代谢能 ME/(MJ/d)</td><td>12.50</td><td>13.13</td><td>13.08</td><td>13.58</td><td>14.15</td><td>0.23</td><td>0.224</td></tr><tr><td>总能表观消化率</td><td>58.00b</td><td>62.03a</td><td>62.38a</td><td>63.20a</td><td>64.08a</td><td>0.62</td><td>0.007</td></tr></table></body></html>
+
+<html><body><table><tr><td>总能代谢率</td><td>46.63b</td><td>50.20a</td><td>50.45a</td><td>51.43a</td><td>52.38a</td><td>0.61</td><td>0.015</td></tr><tr><td>Metabolizability of GE/% 消化能代谢率</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Metabolizability of DE/%</td><td>80.43</td><td>80.93</td><td>80.90</td><td>81.28</td><td>81.75</td><td>0.18</td><td>0.177</td></tr></table></body></html>
+
+2.3不同生物制剂对杜寒杂交肉羊氮代谢的影响
+
+由表4可知，各试验组氮表观消化率显著高于对照组（ $. P { < } 0 . 0 5$ ）；各试验组总排出氮与对照组相比均有降低的趋势，但差异不显著（ $\scriptstyle \cdot P > 0 . 0 5$ ）；莫能菌素组、地衣芽孢杆菌组、酿酒酵母菌组、酶菌制剂组沉积氮与对照组相比，分别提高了 $8 . 3 \%$ 、 $1 7 . 8 \%$ 、 $9 . 6 \%$ 和 $1 5 . 4 \%$ 氮利用率比对照组分别提高了 $1 3 . 3 \%$ 、 $2 2 . 5 \%$ 、 $12 . 9 \%$ 和 $1 5 . 1 \%$ ，氮的生物学价值比对照组分别提高了 $7 . 5 \%$ ， $1 5 . 3 \%$ ， $3 . 4 \%$ 和 $3 . 2 \%$ ，但差异均不显著（ $P { > } 0 . 0 5$ ）；酶菌制剂组表观可消化氮、氮表观消化率显著高于对照组、莫能菌素组、地衣芽孢杆菌组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）。
+
+Table 4Effects of different biological agents on nitrogen metabolism of Dorper×thin-tailed Han crossbred lambs
+
+表4不同生物制剂对杜寒杂交肉羊氮代谢的影响  
+
+<html><body><table><tr><td>2 18 147</td><td colspan="3"></td></tr><tr><td>N 148</td><td colspan="3"></td></tr><tr><td>2 Ixeui</td><td colspan="3">450</td></tr><tr><td></td><td colspan="3"></td></tr><tr><td>151 152</td><td colspan="3"></td></tr><tr><td>153</td><td colspan="3"></td></tr><tr><td>154</td><td colspan="3"></td></tr><tr><td>155</td><td colspan="3"></td></tr><tr><td>156</td><td colspan="3"></td></tr><tr><td></td><td colspan="3"></td></tr><tr><td>项目Items 对照 莫能菌素 地衣芽孢杆菌 Saccharomyces Control</td><td></td><td>组别Groups 酿酒酵母菌</td><td>酶菌制剂</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>摄入氮 N intake/(g/d)</td><td>41.80</td><td>40.13</td><td>40.20</td><td>40.63</td><td>41.90</td><td>0.36</td><td>0.342</td></tr><tr><td>粪氮 Fecal N/(g/d)</td><td>14.35a</td><td>12.43b</td><td>12.20b</td><td>11.60b</td><td>11.28b</td><td>0.30</td><td>0.001</td></tr><tr><td>尿氮Urinary N/(g/d)</td><td>10.83</td><td>9.70</td><td>8.48</td><td>10.83</td><td>11.48</td><td>0.39</td><td>0.104</td></tr><tr><td>总排出氮 Total N excretion/(g/d)</td><td>25.20</td><td>22.13</td><td>20.68</td><td>22.43</td><td>22.75</td><td>0.52</td><td>0.075</td></tr><tr><td>表观可消化氮 Apparent digestible N/(g/d)</td><td>27.43b</td><td>27.70b</td><td>28.03b</td><td>29.03ab</td><td>30.63a</td><td>0.36</td><td>0.013</td></tr><tr><td>沉积氮 Retained N/(g/d)</td><td>16.60</td><td>18.00</td><td>19.55</td><td>18.20</td><td>19.15</td><td>0.41</td><td>0.182</td></tr><tr><td>氮表观消化率 Apparent digestibility of N/%</td><td>65.65c</td><td>69.05b</td><td>69.73b</td><td>71.48ab</td><td>73.10a</td><td>0.66</td><td><0.001</td></tr><tr><td>氮利用率 Utilization efficiency of N/%</td><td>39.70</td><td>44.98</td><td>48.63</td><td>44.83</td><td>45.70</td><td>1.05</td><td>0.092</td></tr><tr><td>氮的生物学价值 Biblogical value of N/%</td><td>60.53</td><td>65.05</td><td>69.80</td><td>62.60</td><td>62.48</td><td>1.27</td><td>0.169</td></tr></table></body></html>
+
+157 3讨论
+
+158 莫能菌素属于聚醚类离子抗生素，作为生长促进剂添加到动物饲料中，能够使机体内离  
+159 子更容易进出细胞[20]，通过改变细胞离子平衡，杀死原虫和抑制瘤胃内革兰氏阳性菌的生  
+160 长，改善瘤胃发酵，降低甲烷产量，改善饲料转化率。虽然莫能菌素在动物体内基本无残留，  
+161 但排出体外的莫能菌素可能通过生态循环系统影响到人类的健康，最终将被淘汰。益生菌具  
+162 有无公害、无污染等特点，能够抑制动物胃肠道有害菌的生长，改善瘤胃微生物区系，提高  
+163 机体免疫力和日增重，改善饲料转化率。有研究表明，复合菌制剂效果优于单一菌[21]，酶  
+164 菌制剂能够促进山羊增重[22]。在本课题组的另一篇报道中可见，各组生物制剂均有提高肉  
+165 羊平均日增重、改善饲料转化率的作用，酶菌制剂组效果最好[23]。
+
+3.1不同生物制剂对杜寒杂交肉羊营养物质表观消化率的影响
+
+DM表观消化率和OM表观消化率是动物对饲粮消化特性的综合反映。一般认为反刍动物的DM采食量是其体重的 $2 \% \sim 4 \% ^ { [ 2 4 ] }$ 。本试验中，各组肉羊DM采食量占其体重的比例均为 $4 \%$ ，处于正常范围内。本试验结果表明，地衣芽孢杆菌、酿酒酵母菌和酶菌制剂均能显著提高肉羊DM及OM表观消化率，而莫能菌素只显著提高了肉羊DM表观消化率。莫能菌素能够通过改变细胞膜内外的离子平衡，杀死原虫[25]，抑制瘤胃内革兰氏阳性菌生长，改善瘤胃发酵。有研究表明，饲喂羔羊莫能菌素，对DM采食量没有显著影响，但能改善饲料转化率[I]。但也有研究表明，莫能菌素不改变羊只的营养物质表观消化率[26]。地衣芽孢杆菌属于细菌，能够降低动物胃肠道内pH，改善动物胃肠道微生物环境，产生维生素、氨基酸、有机酸、促生长因子等营养物质，并能够为动物机体补充蛋白酶、脂肪酶、淀粉酶、纤维素酶等酶类，还具有类似淀粉酶和蛋白酶的活性；酵母菌属于真菌，在代谢过程中能够产生β-葡聚糖、甘露聚糖、有机酸等次级代谢产物，可有效降低胃肠道内pH，酵母菌还具有较强的类似淀粉酶、蛋白酶及脂肪酶活性，酵母培养物中含有有机酸、维生素、钙、磷等多种营养成[27]。以上研究表明，地衣芽孢杆菌和酿酒酵母菌均能够提高动物的营养物质表观消化率。小肠是动物营养物质消化吸收的主要场所。林谦等[研究表明，抗生素、益生菌和酶菌制剂均对十二指肠、空肠、回肠绒毛膜形态结构有促进发育作用，各组生物制剂可能通过促进小肠形态结构发育提高动物对营养物质的消化吸收。酶菌制剂组肉羊的DM及OM表观消化率高于其他各组，可能因为酶菌制剂中含有的活性蛋白酶，不仅为动物了提供了外源酶，还为酶菌制剂中的益生菌提供了必需的营养物质，有益于益生菌的生长繁殖，产生了协同作用。
+
+反刍动物因具有特殊的瘤胃结构，能够利用单胃动物难以利用的纤维素、半纤维素等难降解的结构性碳水化合物[28]。NDF 表观消化率和ADF表观消化率反映了反刍动物对饲粮的消化利用程度，瘤胃中纤维素的有效降解，不仅为反刍动物及其瘤胃中的微生物提供了能量，更是其唾液分泌、反刍、瘤胃液缓冲和瘤胃壁健康的有利保障[29]。因此，反刍动物对纤维的消化率具有重要意义。ADF 包括硅酸盐、纤维素以及木质素[30]。NDF 是目前认为最好的表示纤维的指标，是能够将非结构性碳水化合物与结构性碳水化合物分开的最好方法[31]，NDF 的降解主要是由瘤胃内数量相对稳定的纤维降解菌完成[24]。在本试验中，与对照组相比，各组生物制剂均显著提高了肉羊ADF 表观消化率，只有酶菌制剂显著提高了肉羊NDF 表观消化率，其他生物制剂有提高NDF 表观消化率的趋势。益生菌制剂含有活的微生物，影响肠道菌群的定植和组成。符运勤等[32]研究表明，益生菌能够提高瘤胃中白色瘤胃球菌、黄色瘤胄球菌、产琥珀丝状杆菌和溶纤丁弧菌的数量。酶菌制剂可能通过提高肉羊瘤胃中纤维分解菌的数量，提高了纤维利用率。
+
+3.2不同生物制剂对杜寒杂交肉羊能量代谢的影响动物能量代谢是指含能量的营养物质在体内变化过程中所生成的能量，或者动物做功时所产生的能量消耗，其实质就是生物氧化和还原的复杂过程。动物对能量的需求主要通过营养物质的氧化得来，一般经过糖酵解循环、三羧酸循环、氧化磷酸化3个循环系统实现[27]。反刍动物消化过程中造成的能量损失比非反刍动物大，主要是因为反刍动物含有瘤胃发酵过程中的能量损失，其中甲烷的产生是能量损失的主要途径。在本试验中，各组生物制剂均有提高DE 和 ME 的作用，均显著提高了肉羊GE 表观消化率和GE 代谢率。这可能因为莫能菌素和益生菌均有改变反刍动物瘤胃发酵的作用，降低瘤胃中乙酸含量，提高丙酸含量，降低乙酸/丙酸[33-34]。乙酸可使动物产生甲烷，并以暖气排出体外，其中的能量不能被动物利用；而丙酸是动物体内葡萄糖来源的底物，能够为动物提供有效能。韩金涛[34]研究表明，莫能菌素能够显著降低山羊瘤胃内总挥发性脂肪酸含量、丁酸含量和乙酸/丙酸，提高丙酸含量，能够显著降低甲烷产量但具有时效性；肖怡等[27]研究表明，饲喂肉羊芽孢杆菌和酵母菌，均能显著降低肉羊甲烷日排放量，提高GE 表观消化率和GE 代谢率，与本试验结果一致。还可能因为益生菌影响动物肠道菌群的定植，进而影响到肠道局部的免疫功能和全身的免疫功能[32]，最终提高动物免疫力，减少动物因为应激造成的能量损失。在本试验中各试验组DE、ME、GE 表观消化率、GE 代谢率和 DE 代谢率数值上均高于对照组，各组生物制剂均有提高肉羊能量代谢的作用，酶菌制剂效果最好。
+
+# 3.3不同生物制剂对杜寒杂交肉羊氮代谢的影响
+
+饲粮蛋白质进入瘤胃后，一部分被瘤胃微生物降解形成瘤胄降解蛋白质，用于瘤胃微生物的降解和形成微生物蛋白质，最终被机体消化吸收；而另一部分则直接通过瘤胃，形成瘤胃未降解蛋白质进入后消化道，最终未降解的氮和内源氮随尿液和粪便排出体外[35]。因此，反刍动物对饲粮中蛋白质消化代谢的强弱主要受瘤胃微生物对其降解作用的影响，另外还与粪和尿中氮的排出量有关。有研究结果表明，粪氮大于尿氮，但也有结果表明，尿氮大于粪氮。在本试验中，除酶菌制剂组尿氮高于粪氮，其他各组肉羊粪氮均高于尿氮。各组生物制剂均有降低肉羊总排出氮的趋势，显著提高了肉羊氮表观消化率。可能因为莫能菌素可以直接或者间接降低瘤胃中蛋白质的降解和脱氨酶的活性来减少饲粮蛋白质在瘤胃中的降解，增加过瘤胃蛋白质的数量，还能够抑制参与蛋白质代谢的瘤胃高效产氨菌群的数量，降低瘤胃氨产生量[36]；莫能菌素和益生菌均能改善瘤胃发酵，增加丙酸含量，随着丙酸含量的增加，可以有效地防止氨基酸通过生物转化成挥发性脂肪酸、二氧化碳、氨气；丙酸还参与生糖反应，间接减少了与生糖相关的氨基酸在动物肝脏中的降解量，提高了氮的利用率[37]。沉积氮是动物机体对饲粮蛋白质利用程度的直接指标，而氮表观消化率却不能准确地反映被消化吸收的程度。因此，沉积氮比氮表观消化率更有意义[24]，沉积氮是反映肉羊对氮利用率的直接指标。本试验中，各组生物制剂对肉羊摄入氮和粪氮影响不大，但尿氮在试验组间差异较大，地衣芽孢杆菌组最低。因此，各试验组肉羊沉积氮和氮表观消化率高于对照组，地衣芽孢杆菌组均为最高，沉积氮又直接影响氮利用率，所以地衣芽孢杆菌组肉羊的氮利用率在各组中最高。本试验中，肉羊的氮利用率普遍较高，虽然采用的饲养标准更适合杜寒杂交肉羊[38]，但对照组结果高于万凡等[39]采用同种饲养标准的研究结果，可能因为饲粮中蛋白质含量高于万凡等[39试验；也可能因为试验期间补饲羊草促进了羊只胃肠道发育，提高羊只对氮的消化吸收。从饲喂结果来看，生物制剂均能提高肉羊氮的消化利用率，促进肉羊对氮的吸收，能够防止水体和土壤富营养化，有利于环境保护，综合所有指标来看，酶菌制剂效果最佳。
+
+4结论
+
+本试验条件下：
+
+$\textcircled{1}$ 莫能菌素能够提高肉羊营养物质表观消化率，降低FE 和粪氮，提高GE 表观消化率、GE 代谢率和氮表观消化率。$\textcircled{2}$ 作为益生菌添加剂的地衣芽孢杆菌和酿酒酵母菌均具有与莫能菌素相同的作用。$\textcircled{3}$ 酶菌制剂显著提高了肉羊营养物质表观消化率、能量代谢和氮代谢，效果优于单一益生菌。参考文献:[1]林谦,戴求仲,宾石玉,等.饲粮添加益生菌与酶制剂对黄羽肉鸡生长性能的影响及相关机理[J].动物营养学报,2012,24(10):1955-1965.[2]宁豫昌,陈忠杰,郭宏伟,等.莫能菌素的应用现状[J].郑州牧业工程高等专科学校学报,2007,27(3):21-24.[3]张晓庆,那日苏.莫能菌素在动物生产中的应用[J].饲料工业,2006,27(4):15-17.[4]万凡,马涛,杨开伦,等.微生态制剂在肉羊营养与饲粮中的应用[J].家畜生态学报,2016,37(9):71-75.
+
+[5]罗建杰.日粮添加不同益生菌对肉仔鸡益生作用分子机制研究[D].硕士学位论文.北京:中国农业科学院,2013.  
+[6]邝哲师,田兴山,张玲华,等.芽孢杆菌制剂对断奶仔猪体内消化酶活性的影响[J].中国畜牧兽医,2005,32(6):17-18.  
+[7]周小辉,戴晋军,王绍辉,等.枯草芽孢杆菌制剂作用机理及应用效果浅析[J].饲料与畜牧,2008(5):61-62.  
+[8]燕红,杨谦.蜡样芽孢杆菌对稻草的降解作用[J].哈尔滨工业大学学报,2008,40(8):1242-1246.  
+[9]董尚智,王国霞,陈远凤,等.饲用地衣芽孢杆菌的生物学特性研究[J].饲料研究,2009(7):14-18.  
+[10]华均超,张邦辉.微生态制剂对仔猪肠道微生态调控的研究与应用进展[J].中国饲料,2011(3):19-22.  
+[11]MIRZAEI-ALAMOUTI H,MORADI S,SHAHALIZADEH Z,et al.Both monensin andplant extract alter ruminal fermentation in sheep but only monensin affects the expresson of genesinvolved in acid-base transport of the ruminal epithelium[J].Animal Feed Science&Technology,2016,219:132-143.  
+[12]MA T,DENG K D,TU Y,et al.Efect of dietary concentrate:forage ratios and undegradeddietary protein on nitrogen balance and urinary excretion ofpurine derivativesindorperXthin-tailedhancrossbredlambs[J].Asian-AustralasianJournalofAnimalSciences,2014,27(2):161-168.  
+[13]MA T,DENG K D,TU Y,et al.Effect of feed intake on metabolizable protein supply inDorper $\times$ thin-tailed Han crossbred lambs[J].Small Ruminant Research,2015,132:133-136.[14]DENG K D,DIAO Q Y,JIANG C G,et al.Energy requirements for maintenance and growthof Dorper crossbred ram lambs[J].Livestock Science,2012,150(1/2/3):102-110.  
+[15]邓凯东.育肥绵羊的能量和蛋白质需要量研究[R].博士后研究工作报告.北京:中国农业科学院,2010.  
+[16]XU G S,MA T,JI S K,et al.Energy requirements for maintenance and growth ofearly-weaned Dorper crossbred male lambs[J].Livestock Science,2015,177:71-78.  
+[17]AOAC.Official methods of analysis of AOCO international[S].17th ed.Gaithersburg:AOCOInternational,2000.  
+[18]ADEOLA O.Digestion and balance techniques in pigs [M]//LEWIS A J,SOUTHERN LL.Swine nutrition.2nd ed.Washington,D.C.:CRC Press,2000:906.  
+[19]DENG K D,JIANG C G,TU Y,et al.Energy requirements of Dorper crossred ewelambs[J].Journal of Animal Science,2014,92(5):2161-2169.  
+[20]李胜利,金鑫,范学珊,等.反刍动物生产与碳减排措施[J].动物营养学报,2010,22(1):2-9.[21]GIANG H H,VIET T Q,OGLE B,et al.Growth performance,digestibility,gut environmentand health status in weaned piglets fed a diet supplemented with potentially probiotic complexesof lactic acid bacteria[J].Livestock Science,2010,129(1/2/3):95-103.  
+[22]李忠玲,杜忍让,武和平,等.复合酶制剂对陕北绒山羊增重效果的研究[J].畜牧兽医杂志,2014,33(6):4-7.  
+[23]贾鹏,万凡,马涛,等.饲粮中添加不同生物制剂对杜寒杂交肉羊生产性能和屠宰性能的影响[J].动物营养学报, 2017, 29(12):  
+[24]许贵善,刁其玉,纪守坤,等.不同饲喂水平对肉用绵羊能量与蛋白质消化代谢的影响[J]中国畜牧杂志,2012,48(17):40-44.  
+[25]TAKAHASHI S,SHIBATA M,GOTOH J,et al.Astroglial cell death induced by excessiveinflux of sodium ions[J].European Journal of Pharmacology,20o0,408(2):127-135.  
+[26]ARAUJO JD S.Evaluation of the ionophore sodium monensin in intake,digestibility,weightgain and ruminal pH in sheep[D].Master's Thesis.Brazil:Universidade Federal de Lavras,2005.[27]肖怡.三种益生菌对肉羊甲烷排放、物质代谢和瘤胃发酵的影响[D].硕士学位论文.阿尔拉:塔里木大学,2016.  
+[28]肖怡,陶大勇,赵明明,等.地衣芽孢杆菌对肉羊甲烷排放及消化代谢的影响[J].动物营养学报,2016,28(2):515-523.  
+[29]楼灿,姜成钢,马涛,等.饲养水平对肉用绵羊妊娠期消化代谢的影响[J].动物营养学报,201426(1):134-143.  
+[30]计成.动物营养学[M].北京:高等教育出版社,2008:93-97.  
+[31]郑琛.不同处理饲粮及不同组合全饲粮颗粒料对绵羊瘤胃内环境和养分消化代谢的影  
+响[D].硕士学位论文.兰州:甘肃农业大学,2004.  
+[32] 刘虎传,张敏红,冯京海,等.益生菌制剂对早期断奶仔猪生长性能和免疫指标的影响[J].  
+动物营养学报,2012,24(6):1124-1131.  
+[33]符运勤.地衣芽孢杆菌及其复合菌对后备牛生长性能和瘤胃内环境的影响[D].硕士学  
+位论文.北京:中国农业科学院,2012.  
+[34]韩金涛.短期和长期添加莫能菌素对山羊甲烷产量和瘤胃发酵参数的影响[D].硕士学  
+位论文.杨凌:西北农林科技大学,2014.  
+[35] 李可,罗建杰,孟昆,等.益生菌对肉仔鸡生产性能、胴体性状、免疫功能和肉品质的影响  
+[J].动物营养学报,2015,27(9):2903-2910.  
+[36]杨洋.有机酸和瘤胃素组合对 SARA 奶山羊瘤胃发酵和细菌的影响[D].硕士学位论文.  
+呼和浩特:内蒙古农业大学,2009.  
+[37]刘薇,文奇男,杨运玲,等.肉牛料中添加莫能菌素的意义及其应用价值[J].饲料工  
+业,2013,34(23):62-64.  
+[38]万凡,马涛,马晨,等.不同饲养标准对杜寒杂交肉用绵羊生产和屠宰性能的影响[J].动物  
+营养学报,2016,28(11):3483-3492.  
+[39]万凡,马涛,马晨,等.不同饲养标准对杜寒杂交肉羊营养物质消化利用的影响[J].动物营  
+养学报,2016,28(12):3819-3827.Effects of Dietary Supplementation of Different Biological Agents on Nutrient Digestion andUtilization of Dorper $\cdot \times$ Thin-Tailed Han Crossbred Mutton LambsJIA Peng12MA Tao1WAN Fan1,2 WANG Wenyi³YANG Dong1,3 WANG Yunfei3GUO Baolin4 ZHAO Lifang4 YANG Kailun² DIAO Qiyu1\*(1. Key Laboratory of Feed Biotechnology of the Ministry ofAgriculture,Feed ResearchInstitute， Chinese Academy of Agricultural Sciences, Beijing 10o081, China; 2. XinjiangAgricultural University, Urumqi 830052, China; 3. Scientific Research Institute of Agriculturaland Animal Husbandry in Bayannaoer, Bayannaoer O150oo, China; 4. Beijing Xindayang
+
+Abstract: This study was conducted to compare the effects of dietary supplementation of different biological agents on nutrient apparent digestibility， nitrogen and energy metabolism of Dorper×thin-tailed Han crossbred mutton sheep. One hundred and sixty Dorper×thin-tailed Han crossbred $\mathrm { F } _ { 1 }$ mutton lambs (weighted about $3 2 ~ \mathrm { k g }$ ） were randomly assigned into 5 groups with 4 replicates in each group and 8 mutton lambs per replicate according to a single factor experimental design. Control group used a basal diet, $2 1 ~ \mathrm { m g / k g }$ monensin, $4 \times 1 0 ^ { 9 }$ CFU/kg Bacillus licheniformis, （204 $3 . 2 \times 1 0 ^ { 9 }$ CFU/kg Saccharomyces cerevisiae and $1 . 1 \ \ \mathrm { \ g / k g }$ enzyme-bacteria agent (Bacillus licheniformis， Saccharomyces cerevisiae and alkaline proteinase) were supplemented in experimental groups. The pretest lasted for $1 0 \mathrm { ~ d ~ }$ ，and the test lasted for $5 6 ~ \mathrm { d }$ Four lambs in each group were selected for a digestion and metabolism trial after the lambs in enzyme-bacteria agent group reached about $3 7 ~ \mathrm { k g }$ of body weight. The digestion and metabolism trial included $^ \textrm { \scriptsize 7 d }$ of adaptation period and $5 \mathrm { ~ d ~ }$ of trial period. The results showed as follows: 1) apparent digestibility of dry matter and acid detergent fiber in enzyme-bacteria agent group was significantly higher than that in control group $( P { < } 0 . 0 5 )$ ， apparent digestibility of dry matter and organic matter in enzyme-bacteria agent group was the highest, which was significantly higher than that in monensin group and Bacillus licheniformis group $( P { < } 0 . 0 5 )$ . 2） Apparent digestibility of gross energy, metabolizability of gross energy in experimental groups were significantly higher than those in control group $_ { ( P < 0 . 0 5 ) }$ . 3） Apparent digestibility of nitrogen in exprimental groups were significantly higher than that in control group $( P { < } 0 . 0 5 )$ ; apparent digestible nitrogen and apparent digestibility of nitrogen in enzyme-bacteria agent group were significantly higher than those in control group, monensin group and Bacillus licheniformis group $( P { < } 0 . 0 5 )$ . In conclusion, in terms of nutrient digestion and utilization, and energy and nitrogen metabolism in Dorperxthin-tailed Han crossbred mutton lambs, Bacilluslicheniformis， Saccharomycescerevisiae and enzyme-bacteria agents are better than monensin, and enzyme-bacteria agent has the best effect. Key words: mutton lamb; nutrient ；apparent digestibility; monensin; Bacillus licheniformis; Saccharomyces cerevisiae; enzyme-bacteria agent

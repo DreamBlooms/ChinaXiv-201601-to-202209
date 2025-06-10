@@ -1,0 +1,324 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "四波长内源光信号成像在GFAPVim小鼠脑梗塞周围扩散性去极化中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吕建平',曹志恺¹,Lee Jin-Moo²  \n1广州市第一人民医院神经外科,广东广州 510180;美国华盛顿大学医学院神经科,密苏里州 圣路易斯 63110",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 观测小鼠脑梗塞周围扩散性去极化(PIDs)的内源光信号变化特征，探索胶质纤维酸性蛋白(GFAP)和波形蛋白(Vim)基因敲除对PIDs的影响。方法以GFAP和Vim基因敲除 $( \\mathrm { G F A P ^ { \\cdot } V i m ^ { \\cdot / - } }$ )小鼠及其野生型 $\\mathrm { ^ { \\prime } G F A P ^ { + / + } V i m ^ { + / + } }$ 小鼠为研究对象,线栓法制备大脑中动脉梗塞(MCAO)模型,应用四波长内源光信号(OIS)成像技术监测两组动物4h内PIDs的发作情况。结果 OIS成像显示PIDs在空间分布上表现为连续的、红蓝相间的弧形波，由发源处向四周缓慢播散;PIDs存在5种不同空间播散类型;喙-尾播散类型、侧方-内侧播散类型、尾-喙播散类型、对侧播散类型和内侧-侧方播散类型。 $\\mathrm { { G F A P ^ { \\circ / - } V i m ^ { - / - } } }$ 小鼠和GFAP+$\\mathrm { { V i m ^ { + / + } } }$ 小鼠PIDs的发作次数、播散类型、速度及时程组间比较无统计学差异 $( P { > } 0 . 0 5 )$ 。结论 四波长OIS成像技术可获得PIDs的高分辨率彩色影像,为更深入研究PIDs的时空特性创造了条件;GFAP和 $\\mathrm { V i m }$ 基因敲除对MCAO模型制备后4h内PIDs的发作无显著影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脑梗塞;扩散性去极化;内源光信号;胶质纤维酸性蛋白;波形蛋白",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application of 4-wavelength optical intrinsic signal imaging in monitoring peri-infarct depolarizations in GFAP $\\mathbf { \\mu } ^ { - / - } \\mathbf { V _ { i m } } ^ { - }$ mice ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LU Jianping', CAO Zhikai’,LEE Jinmoo²   \nDepartmentofeurourgeryangzuisteople'sospitalagzhou8ina;epartmentofeurologygto   \nUniversitychool ofedicine,St.Louis,Missouri6311o, ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Objective To studyoptical intrinsic signal (OIS)imagingof peri-infarct depolarizations (PIDs) in mice and investigate the influence of knockout of glial fibrillary acidic protein and vimentin on PIDs.Methods $\\mathrm { G F A P ^ { \\ J \\cdot } V i m ^ { \\ J \\cdot } }$ mice and $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } }$ mice were subjected to MCAO by standard intraluminal filament method.The main characteristics of PIDs in $^ { 4 \\mathrm { h } }$ were studied by 4-wavelength OIS imaging technique. Results PIDs were identifiedas consistent,red and blue interaction waves in thecortical reflectance that slowly propagated peripherallyfrom theorigin site.There were5paterns of PID propagation,elyostradal,ateodial,dostraltralateralddial-ateral.Noigicant were found in PID frequency, propagation patterns, velocity or duration time between the two groups $( P { > } 0 . 0 5 )$ . Conclusion The4-wavelength OIS system allowsacquisition of high temporal-spatial resolution color images for analyzing temporal-spatial characteristics of PIDs in detail. Knockout of GFAP and vimentin do not afect PIDs in $^ { 4 \\mathrm { ~ h ~ } }$ following middle cerebral artery occlusion. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:braininfarction;spreadingdepolarization;optical intrinsicsignal; glialfibrilaryacidic protein;vimentin ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "扩散性去极化是在脑灰质中缓慢传播的一种特殊去极化波，在脑梗塞、蛛网膜下腔出血及脑外伤等疾病中广泛存在[1-2]。其中,局灶性脑缺血后发生的扩散性去极化被称为梗塞周围扩散性去极化(PIDs)，是脑梗塞的重要病理生理学机制之一[3-4]。多项研究证实PIDs发作与脑梗塞面积扩大密切相关，抑制PIDs发作的药物能使得脑梗塞面积减少[3-5]。尽管扩散性去极化这一现象已经被发现70年，但学术界对于很多基础性问题如其产生、播散及作用机制等仍未完全明确[1-2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "扩散性去极化的主要研究方法有电生理监测、MRI成像和内源光信号(OIS)成像等[1.6-7]。其中,电生理监测和MRI成像时间和空间分辨率均不够高；而OIS成像原理是通过测量光照后脑皮层反射光的光强，反映神经功能活动引起的相关区域血管中血红蛋白浓度的变化，从而间接了解脑部功能活动状况，具有更高的时间和空间分辨率[1.2.6]。本实验采用新的四波长OIS 照明光源,获得更为直观的高时空分辨率彩色影像，有助于更深入研究PIDs的时空特性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "扩散性去极化发作时的特征性改变包括细胞内外空间离子分布剧烈变化、脑电活动沉默、神经元肿胀和树突棘变形等[2]。星形胶质细胞通过调节突触活性、支持及保护神经元的代谢来维持神经元的功能，在扩散性去极化的产生和传播中发挥重要作用[12]。胶质纤维酸性蛋白(GFAP)和波形蛋白(Vimentin，Vim)是星形胶质细胞重要的细胞骨架蛋白，参与细胞很多重要的生命活动，如细胞运动、细胞内外物质运输和细胞信号转导等，但其在扩散性去极化相关机制中的作用尚不明确。本研究采用新的四波长OIS成像技术监测GFAP和Vim基因敲除 $( \\mathrm { G F A P ^ { \\scriptscriptstyle - / - } V i m ^ { \\scriptscriptstyle - / - } }$ )小鼠及其野生型号 $\\mathrm { ( G F A P ^ { + / + } V i m ^ { + / + } }$ )小鼠局灶性脑缺血后诱发的PIDs,分析PIDs发作时OIS变化的时间特性、空间分布特征及其传播方式等，同时探索GFAP和 $\\mathrm { V i m }$ 在PIDs发作相关机制中的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 实验仪器 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小动物专用吸人麻醉机（VMR，美国MATRX公司）、手术显微镜(德国CarlZeiss公司）、反馈式温度调节仪(mTCII,美国CellMicrocontrols公司）激光多普勒血流仪(PeriFlux5010,瑞典Perimed公司）标准脑立体定位仪（美国Stoelting公司）、四波长OIS成像系统（美国华盛顿大学医学院自行研制）、小鼠手术操作台和显微手术器械。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2实验动物及分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用SPF级成年雄性 $\\mathrm { { G F A P ^ { \\ J } \\cdot \\mathrm { { V i m ^ { - 1 } } \\cdot } } }$ 小鼠9只为实验组，3\\~4月龄，体质量 $2 5 { \\sim } 3 0 ~ \\mathrm { g }$ ；另选同龄雄性野生型$\\mathrm { ^ { \\prime } G F A P ^ { + / + } V i m ^ { + / + } } ,$ )小鼠9只为对照组，由美国华盛顿大学医学院实验动物中心提供。标准配方饲料喂养，自由进水。双盲对照法对两组小鼠制备大脑中动脉梗塞(MCAO)模型和分析PIDs的影像特征。所有程序均经过美国华盛顿大学医学院动物研究委员会批准(项目号：20110186)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1麻醉方法小鼠经 $3 \\%$ 异氟烷吸入麻醉，动物模型制备时将剂量调整为 $1 . 5 \\%$ ,OIS监测时调整为 $1 \\%$ ，以尽可能减少麻醉药物对PIDs发作的影响。操作过程中通过加热护垫维持肛温在 $3 7 . 0 { \\pm } 0 . 5 \\ \\mathrm { ^ { \\circ } C }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2MCAO模型的制备显微镜下采用传统线栓法制作左侧永久性MCAO模型[8,所有模型的制备均由一位经华盛顿大学医学院培训合格的研究者单独完成。小鼠俯卧位，取头顶部正中头皮切口，向两侧牵开后显露约 $1 ~ \\mathrm { c m } ^ { 2 }$ 颅骨，激光多普勒血流仪检测左侧大脑中动脉分布区的血流量(检测点：前白后 $2 \\mathrm { m m }$ ，中线旁开 $5 \\mathrm { m m }$ ）；体位调整为仰卧位，取颈正中切口长约 $1 \\mathrm { c m }$ ，分离皮肤与筋膜，显露左侧颈总动脉，分离颈内和颈外动脉，结扎颈总动脉，动脉夹夹闭颈内动脉远心端，在颈总动脉做斜切口并插入长 $1 2 \\mathrm { m m }$ 的6-0尼龙线(线端用硅胶包被处理)，松开动脉夹，继续插入尼龙线至稍遇阻力时中止插线，插线深度从颈总动脉分叉处计约 $1 0 \\mathrm { m m }$ 左右，线头前端到达大脑前动脉以阻断大脑中动脉血流。激光多普勒血流仪检测左侧大脑中动脉分布区的血流量，并计算术后脑血流量与术前脑血流量的百分比值。当血流量降低到原来的 $20 \\%$ 以下时提示栓塞成功，固定保留栓线，缝合手术切口。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 四波长 $\\mathrm { O I S ^ { [ 8 ] } }$ 成像系统监测PIDs如图1所示，小鼠置于立体定位仪，头顶部正中切开部位滴入少量润滑油，保持颅骨湿润状态。OIS照明光源为波长478、588、610和 $6 2 5 ~ \\mathrm { { n m } }$ 的发光二极管(RLS-5B475-S、B5B-4343-TY、B5B435-30S、OSCR5111A-WY,奥地利RoithnerLasertechnik公司），共同组成照明环（直径 $7 ~ \\mathrm { c m } ,$ ，于小鼠头顶上方约 $1 0 \\ \\mathrm { c m }$ 场续照明；采用低温帧传输EMCCD相机(iXon897,英国Andor公司),通过外部触发机制获得图像，照明环和相机时间同步，由计算机定制软件(MATLAB，美国Mathworks公司)控制；交叉线性偏光镜置于照明环和相机镜头前方，以防止小鼠颅骨表面单向反射；视野调整到约 $1 \\mathrm { c m } ^ { 2 }$ ，覆盖前到嗅球后到上丘的大部分脑皮质；通过相机 $4 { \\times } 4$ 像素组合方式获得数据，全帧速率为 $3 0 \\mathrm { H z }$ ，四个波长运行时帧速率为120Hz(输出图像由 $5 1 2 \\times 5 1 2$ 像素降为 $1 2 8 \\times 1 2 8$ 像素),后台数据处理后直接传输到硬盘( $\\mathrm { \\nabla } 5 \\mathrm { m i n }$ 扫描产生1.2GB的数据),最终像素为 $7 8 ~ \\mu \\mathrm { m } \\times 7 8 ~ \\mu \\mathrm { m }$ 。整套OIS成像系统置于Newport防震光学平台，避免环境震动可能造成的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2196d274a685a752582840258bdaaccb8ccee397e76c92bf4f2d92c5b022b47e.jpg",
+        "img_caption": [
+            "图1四波长OIS成像系统 Fig.1 The 4-wavelength OIS imaging system. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图像的光强转化基于修正的朗伯-比尔定律，通过光谱矩阵将血红蛋白吸收率转换为浓度变化的数据。为获得模拟白光照射下的彩色影像，最先开始从红色1 $6 2 5 ~ \\mathrm { n m }$ ）、黄色（ $5 8 8 ~ \\mathrm { n m }$ 和蓝色（ $( 4 7 8 \\ \\mathrm { n m } )$ 光照射产生的图像数据最大值归一化为1，然后存储在RGB图像的红绿蓝通道，通过MATLAB软件处理，最终形成高时空分辨率OIS彩色影像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.4TTC染色及计算脑梗死体积和脑水肿率术后6h小鼠麻醉后断头取脑，行厚 $1 . 5 \\mathrm { m m }$ 的冠状切片。将脑片置于 $2 \\%$ TTC磷酸盐缓冲液中， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $1 0 \\mathrm { m i n }$ 正常脑组织染为深红色，脑梗死区不着色呈白色。将脑片浸泡于 $4 \\%$ 多聚甲醛磷酸缓冲液固定 $3 0 \\mathrm { m i n }$ ，扫描仪扫描脑片获得原始数据，采用ImageProPlus6.0图像分析软件进行分析。计算脑水肿率 ${ \\mathrm { S } } { = } ( \\scriptstyle \\sum \\mathrm { L T } { - } \\sum \\mathrm { R T } ) / ( \\sum$ ${ \\mathrm { L T } } + \\sum { \\mathrm { R T } } ) { \\times } 1 0 0 \\%$ ，∑LT代表左侧大脑半球总体积，∑RT代表右侧大脑半球总体积;背景率 $\\scriptstyle \\mathbf { B } =$ 假手术组TTC未着色区域体积/总体积;脑梗死体积百分比 $\\scriptstyle \\mathbf { A } = \\sum$ SIN(1-S)/ $( \\Sigma \\mathrm { L T } + \\Sigma \\mathrm { R T } )$ $( 1 - \\mathbf { B } ) { \\times } 1 0 0 \\%$ ,∑SIN(1-S)代表扣除水肿率后总梗死体积。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4统计学分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在MATLAB计算平台下分析处理采集的PIDs波图像序列，选取感兴趣区域(ROI)，参照Brennan等的测量方法对光强信号进行计算分析。采用SPSS13.0统计软件进行数据分析。符合正态分布的计量资料数据以均数 $\\cdot \\pm$ 标准差表示，组间比较采用t检验;PIDs各种播散类型所占的百分比数据不符合正态分布，以中位数(M)及四分位数间距(IQR)表示，组间比较采用Fisher确切概率法， $P { < } 0 . 0 5$ 为差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1PIDs内源光信号变化的时空特性",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "小鼠MCAO模型制备后OIS监测4h,观察到一系列PIDs波，在空间分布上表现为连续的、红蓝相间的弧形波，由发源处呈同心圆样逐渐扩大，向四周缓慢均匀播散。两种不同起源点的PIDs波在播散中相遇后立即消失，不能继续向远处播散(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b724d4aa3a31484d1f7f12e259104ab06734ce19416250f34fb4c464762d7064.jpg",
+        "img_caption": [
+            "图2PIDs发作的OIS彩色影像 Fig.2 OIScolor images of PIDs.When two PIDs inopposite directions meet,theycan not pass throughand disappear.The interval among the three images is $2 0 \\mathrm { ~ s ~ }$ Directions: $\\mathbf { A } ,$ anterior; ${ \\mathrm { P } } ,$ posterior; $\\scriptstyle { \\mathrm { \\mathrm { ~ L , ~ } } }$ left; and $\\begin{array} { r } { \\left| \\mathrm { R } , \\right. } \\end{array}$ right. The color bar represents the changes in the intensity of reflectance signal as EMCCD camera counts. Scale bar $\\mathrm { \\Omega } = 1 \\ \\mathrm { m m }$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2PIDs的播散类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OIS成像显示存在5种不同空间播散类型的PIDs(图3):(1)喙-尾播散类型(Rostro-caudalpattern)起源于额叶，向顶枕区域播散。在 $\\mathrm { { G F A P ^ { \\scriptscriptstyle - } V i m ^ { \\scriptscriptstyle - } } }$ 小鼠和$\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } }$ 小鼠PIDs中所占比例分别为： $7 \\%$ (IQR,$3 \\% { \\sim } 1 2 . 3 \\%$ )和 $5 . 6 \\% ( \\mathrm { I Q R } , 2 \\% { \\sim } 1 1 . 8 \\% )$ ；(2)侧方-内侧播散类型(Latero-medialpattern)起源于侧方额顶区域，向内侧中线方向播散,止于中线旁。在 $\\mathrm { { G F A P ^ { \\circ / - } V i m ^ { - / - } } }$ 小鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } }$ 小鼠PIDs中所占比例分别为： $1 3 \\%$ (IQR, $6 \\% { \\sim } 2 7 . 8 \\%$ )和 $1 8 . 8 \\% ( \\mathrm { I Q R } , 8 \\% \\sim 6 3 . 6 \\% )$ ；(3)尾-喙播散类型(Caudo-rostralpattern)是最为常见的类型,起源于顶枕区域，向额部方向播散。在 $\\mathrm { { G F A P ^ { \\circ } V i m ^ { \\circ / - } } }$ 小鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } } ,$ 小鼠PIDs中所占比例分别为： $7 4 . 5 \\%$ (IQR, $3 8 . 2 \\% { \\sim } 8 5 . 6 \\%$ )和 $6 8 . 2 \\% ( \\mathrm { I Q R } , 3 1 . 7 \\% { \\sim } 8 9 . 7 \\% )$ ;(4)对侧播散类型(Contra-lateralpattern)相对少见，起源于梗塞对侧大脑半球额叶靠中线部位，向后外侧顶枕区域播散。在 $\\mathrm { { G F A P ^ { \\ J } \\cdot \\mathrm { { V i m ^ { - 1 } } \\cdot } } }$ 小鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } } ,$ 小鼠中各监测到5次和7次该类型PIDs的发作；(5)内侧-侧方播散类型(Medial-lateralpattern)起源于内侧中线旁区域，向外侧方向播散。该类型非常罕见，在2例$\\mathrm { G F A P ^ { \\ J \\cdot } V i m ^ { \\ J \\cdot } }$ 小鼠各发作1次。 $\\mathrm { { G F A P ^ { \\circ / - } V i m ^ { - / - } } }$ 小鼠和GFAP $^ { + / + } \\mathrm { V i m } ^ { + / + }$ 小鼠的PIDs播散类型分布无显著差异（20 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3PIDs的发作次数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "OIS影像系统监测 $4 \\mathrm { h } , \\mathrm { G F A P ^ { \\scriptscriptstyle - } V i m ^ { \\scriptscriptstyle - / - } } ,$ 小鼠和GFAP+/+$\\mathrm { V i m ^ { + / + } } .$ 小鼠PIDs的发作次数分别为 $1 9 . 5 { \\pm } 3 . 7 4 \\$ 和 $1 8 . 5 \\pm$ 3.56,两组比较无统计学差异( $( P { > } 0 . 0 5 )$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4PIDs的播散速度和时程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "统计3种常见播散类型的PIDs:喙-尾播散类型、侧方-内侧播散类型和尾-喙播散类型，计算不同播散类型PIDs的平均播散速度和平均时程。如表1所示：$\\mathrm { { G F A P ^ { \\circ / - } V i m ^ { - / - } } }$ 小鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } }$ 小鼠的PIDs播散速度和时程无显著差异 $( P { > } 0 . 0 5 )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5脑梗死体积和脑水肿率",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { { G F A P ^ { \\circ } V i m ^ { \\circ / - } } }$ 小鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } }$ 小鼠脑梗死体积分别为 $( 3 9 . 4 5 { \\pm } 4 . 2 2 ) \\%$ 和 $( 3 6 . 2 5 { \\pm } 3 . 8 6 ) \\%$ ，脑水肿率分别为 $( 1 0 . 5 8 { \\pm } 1 . 3 4 ) \\%$ 和 $( 8 . 9 6 \\pm 1 . 1 2 ) \\%$ 。上述指标两组比较差异无统计学意义 $( P { > } 0 . 0 5 )$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/52c5a14f778bfad79b014cac669b033ee503e2596fabd554226bcc705add1f4d.jpg",
+        "img_caption": [
+            "图3PIDs发作的5种不同空间播散类型 Fig.3Five diferntspatialproaationpaesof.A:Rostrodalpatt;B:Lateromedialate;C:Cudotalpat; D: Contra-lateral pattern; E: Medial-lateral pattern. The interval between consecutive images is $3 0 \\mathrm { { s } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/729a7f4e357f728082b348c7742677f14262c64d7960911d1715aca8c52c24d2.jpg",
+        "table_caption": [
+            "表1 $\\mathrm { G F A P ^ { \\cdot / \\cdot } V i m ^ { \\cdot / \\cdot } } / \\mathrm { l } \\mathrm { \\Omega }$ 鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } } J \\$ 小鼠不同类型PIDs的播散速度和时程$( n { = } 9 ,$ ",
+            "Tab.1Propagationvelocityand duration timeof diferent pattern PIDs in GFAP/Vimmice and GFAPVim mice Mean±SD) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Group</td><td colspan=\"3\">Propagation velocity (mm/min)</td><td colspan=\"3\">Duration time (s)</td></tr><tr><td>Rostro-caudal pattern</td><td>Latero-medial pattern</td><td>Caudo- rostral pattern</td><td>Rostro-caudal pattern</td><td>Latero-medial pattern</td><td>Caudo-rostral pattern</td></tr><tr><td>GFAPVim* mice</td><td>5.1±1.6</td><td>5.5±1.8</td><td>5.3±1.5</td><td>226.8±15.0</td><td>210.1±21.4</td><td>217.5±15.7</td></tr><tr><td>GFAP+/+Vim++ mice</td><td>5.5±1.7</td><td>5.8±1.9</td><td>5.6±2.4</td><td>207.5±18.3</td><td>211.8±18.5</td><td>208.0±9.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "OIS是一种非侵入性的活体脑功能成像技术，具有很高的时间和空间分辨率，特别适合小动物脑功能成像，也容易与其它监测方法联合使用，可以直接显示脑皮层扩散性去极化发作的图像，被公认为是研究扩散性去极化的可靠方法[1,2.6]。既往多数研究采用单波长或双波长OIS照明光源，我们采用新的四波长OIS照明光源，首次获得PIDs的高时空分辨率彩色影像，为更深入研究PIDs的时空特性创造了条件。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hartings等[1]通过电生理监测MCAO诱导PIDs的播散类型，证实起源于\"缺血半暗带\"的PIDs通常有3种播散类型：喙-尾播散类型，侧方-内侧播散类型,尾-喙播散类型。本实验也发现主要存在以上3种PIDs的播散类型。我们在制备MCAO模型后通过激光多普勒血流仪监测脑皮层血流变化情况，发现顶枕部区域血流减少最为明显，可达 $90 \\%$ 以上，而额部区域血流减少约 $80 \\%$ 左右。由于顶枕部区域较额部区域血流减少更为明显，神经细胞缺血缺氧更为严重，理论上该区域将更容易诱发PIDs。这可能是OIS成像发现尾-喙播散类型最为常见，而喙-尾播散类型相对较少的原因。本研究同时还发现远离\"缺血半暗带\"的2种少见播散类型：对侧播散类型和内侧-侧方播散类型，提示PIDs还可以起源于“缺血半暗带\"以外的区域，其发生机制及意义尚不清楚。另外，我们首次直接观察到两种相向播散的PIDs波相遇后立即消失的现象。PIDs是一种神经电生理活动，推测该现象类似于神经冲动相向传导时在相遇处消失的机制，由于两种PIDs波相遇时两侧神经细胞都刚受到刺激，处于绝对不应期，这将导致两种相向播散的PIDs波无法相互穿越到对方区域继续播散。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在扩散性去极化发生和播散过程中，K和谷氨酸发挥着重要作用[-2]。 $\\mathrm { \\nabla { K ^ { \\ d } } }$ 假说认为：起始阶段神经元受到刺激后兴奋释放 $\\mathrm { K } ^ { + }$ ，局部区域组织间隙K浓度升高，导致周围细胞去极化，这一过程自动重复形成恶性循环；同时K+不断向四周组织间隙弥散，引起邻近细胞去极化，细胞兴奋，重复循环,形成缓慢传播去极化波\"。另外，扩散性去极化发作时谷氨酸也大量释放到细胞外空间，谷氨酸N-甲基-D-天冬氨酸(NMDA)受体拮抗剂可使扩散性去极化的传播速度减慢、波幅变小及时程缩短[12]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GFAP-/-Vim-/-小鼠星形胶质细胞缺乏正常的GFAP和Vim，是研究星形胶质细胞骨架蛋白功能的理想动物模型[13]。Li等[14]研究发现 $\\mathrm { { G F A P ^ { \\ J } \\cdot \\mathrm { { V i m ^ { - 1 } } } } }$ 小鼠星形胶质细胞总谷氨酸摄取能力和谷氨酸转运体(GLT-1)介导的谷氨酸摄取能力均明显下降;Lian等[15证实星形胶质细胞参与扩散性去极化发作时细胞外K的调节，星形胶质细胞功能受影响可导致细胞外 $\\mathrm { K ^ { + } }$ 清除率下降。以上研究提示GFAP和 $\\mathrm { V i m }$ 基因敲除可能使得星形胶质细胞清除K+和谷氨酸的能力下降，理论上这将可能促进扩散性去极化的发作。但也有研究发现GFAP基因敲除后星形胶质细胞解剖结构发生改变，细胞突起数量减少，宽度变小，细胞外空间较少弥散障碍，细胞释放的K\\*弥散更快，GFAP基因敲除后细胞外K浓度反而升高不多[1],理论上这将可能有助于抑制扩散性去极化的发作。本研究系统分析比较 $\\mathrm { { G F A P ^ { \\ J \\cdot } V i m ^ { - / . } } }$ 小鼠和GFAP+/+$\\mathrm { V i m ^ { + / + } }$ 小鼠PIDs发作的各种特征，包括发作次数、播散类型、速度及时程等，发现两组间PIDs的发作特征并无明显差异。结果提示GFAP和Vim基因敲除并不能显著影响PIDs的发作，这可能由于以上促进和抑制PIDs发作的因素达到某种平衡。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究存在一些不足：(1)在制作模型方面，采用永久性MCAO模型，两组小鼠术后6h脑梗死体积均已超过 $30 \\%$ ,其脑缺血程度相对于暂时性MCAO模型更为严重，PIDs发作频率较高。如采用暂时性MCAO模型，$\\mathrm { { G F A P ^ { \\ J } \\cdot \\mathrm { { V i m ^ { - 1 } } \\cdot } } }$ 小鼠和 $\\mathrm { G F A P ^ { + / + } V i m ^ { + / + } }$ 小鼠的PIDs发作情况有无差异尚不清楚；(2)GFAP和Vim基因敲除对PIDs发作的促进和抑制作用的相关分子生物学改变没有检测,本课题组将在后续研究中进一步探讨。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，本研究通过新的四波长OIS成像技术获得更为直观的PIDs高时空分辨率彩色影像，为更全面研究PIDs的时空特性奠定了基础。另外，通过研究GFAP和Vim基因除后对PIDs发作的影响，有助于更深入解读PIDs的发作机制及细胞骨架蛋白在中枢神经系统生理和病理变化中的作用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Dreier JP. The role of spreading depression，spreading depolarization and spreading ischemia in neurological disease[J].Nat Med, 2011, 17(4): 439-47.   \n[2] Grafstein B. Subverting the hegemony of the synapse: complicity of neurons,astrocytes,and vasculature in spreading depression and pathology of the cerebral cortex[J].Brain Res Rev,2011,66(1/2): 123-32.   \n[3]Heiss WD.The ischemic penumbra: how does tisse injury evolve [J].Ann NY Acad Sci,2012,1268: 26-34.   \n[4]Risher WC,Ard D, Yuan JH, et al. Recurrent spontaneous spreading depolarizations facilitate acute dendritic injury in the ischemic penumbra[J].JNeurosci,2010,30(29): 9859-68.   \n[5] Nakamura H， Strong AJ，Dohmen CA，et al. Spreading depolarizations cycle around and enlarge focal ischaemic brain lesions[J].Brain,2010,133(7): 1994-2006.   \n[6]Brennan KC,Beltran-Parrazal L,López-Valdés HE,et al. Distinct vascular conduction with cortical spreading depression [J].J Neurophysiol,2007,97(6): 4143-51.   \n[7]Berg A, Zelano J,Pekna M,et al. Axonal regeneration after sciatic nerve lesion is delayed but complete in GFAP- and vimentindeficient mice[J].PLoS One,2013,8(11): e79395.   \n[8]Jackman K, Kunz A, Iadecola C. Modeling focal cerebral ischemia in vivo[J].Methods Mol Biol,2011,793:195-209.   \n[9]White BR,Bauer AQ, Snyder AZ,et al. Imaging of functional connectivity in the mouse brain[J].PLoS One,2011,6(1): e16322.   \n[10]Hartings JA,Rolli ML,Lu XC,et al.Delayed secondary phase of peri-infarct depolarizations after focal cerebral ischemia:relation to infarct growth and neuroprotection[J].J Neurosci,2003,23(37): 11602-10.   \n[11] Grafstein,B.Mechanisms of spreading cortical depression [J].J Neurophysiol,1956,19: 154-171.   \n[12] Smith JM,Bradley DP, James MF,et al.Physiological studies of cortical spreading depression[J]. Biol Rev Camb Philos Soc,2006, 81(4): 457-81.   \n[13]Pekny M.Astrocytic intermediate filaments:lessons from GFAP and vimentin knock-out mice[J].Prog Brain Res,2001,132: 23-30.   \n[14]LiL,Lundkvist A,Andersson D,et al. Protective role of reactive astrocytes in brain ischemia[J].J Cereb Blood Flow Metab,2008, 28(3): 468-81.   \n[15]Lian XY, Stringer JL.Astrocytes contribute to regulation of extracellular Calcium and Potassium in the rat cerebral cortex during spreading depression[J]. Brain Res,2004,1012(1/2): 177-84.   \n[16]Anderova M,Kubinova S,Mazel T,et al. Effect of elevated $\\mathrm { K ^ { + } }$ hypotonic stress,and cortical spreading depression on astrocyte swelling in GFAP-deficient mice[J].Glia,2001,35(3):189-203. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：黄开颜）",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,628 @@
+[
+    {
+        "type": "text",
+        "text": "我\"型\"我素：基于Web2.0用户行为的数字图书馆型人",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "香港城市大学图书馆香港中国科学院国家科学图书馆北京 100190",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要]为在Web2.0时代设计更好的数字图书馆和信息服务的交互性，创建和使用型人是一项前沿趋势,而它建立在理解用户行为的基础上。因此，调查中国科学院497位博硕士的社会软件经验，透过卡方分析、因子分析和聚类分析的调查结果建立了4个虚拟人物。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "送键词]Web2.0 群组社群用户行为人物角色份类号】G250",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "User Do What User Want :D ig italL ibrary Persona Based on Web2. O Users' Behaviors Gu L ip ing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "L ibrary of City University of HongKong，HongKong Library of Chine se Academy of Sciences,Beijing 100190 [Abstract]Iorder tdesignbetter interactionofdigitallibraryandinfomationserviceinWebOera，creatigandusingpesonas is anadvancingtrendItisbasedonunderstandingusers'behaviorsTherefore,thesocialsofwareexperiencesof497postgraduateand PhDstudentsin Chinese Academyof Sciences have beeninvestigatedandasaresultof thesurvey fourfictionpersonsare founded by Chi-square,factor analysis and cluster analysis ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[Keywords] web2 0 group communityuser behaviorpersona ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有一种称为“社会物理学“的观点，认为个人行为或许不能准确预测，但当个人身处群体之中，群体的结构和相互制约因子会造成个人的集体意识和行为。而透过研究这些结构和制约因子，多数情况下可预测人的行为[1-2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在多数情况下，对性别、专业和年龄的分类可以有效地判断某些人可能会具有哪些特征与行为[3，然而事实真是如此吗？对数字图书馆而言，如果不能找到真正的Web2.0群组，那么就意味着不能从群体的结构和相互制约因子，去知道用户特征、行为、交互习惯以及预测其需求。那么一些Web2.0服务就不能在理解用户的可靠基础上进行。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "户和用户想要完成的事\"[4]。国内翻译Persona为\"人物角色\"[4-5]。目前国内外数字图书馆领域创建并使用Personas的文献,有刊载于D-Lib网刊 $2 0 0 8 ~ \\mathrm { S e p } / \\$ Oct的\"对机构仓储用户所创建与使用的型人\"[6],以及同年九月刊载于本刊的\"基于Web2.0型人的数字图书馆交互界面设计\"[3]。前者在质化研究的基础上建立指导系统建设的用户模型，后者在量化研究的基础上，建立指导信息服务的用户模型以及型人可拓展的研究方向。本文延续后者的研究思路，从量化角度创建与使用型人。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3研究设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.1操作化定义和研究步骤",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本研究通过一种较为新颖的用户研究方式，将用户调查与软件设计结合的新方法：型人（Personas），引入数字图书馆领域，并加以实证。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2文献综述与核心概念 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "根据明确的概念定义，具体的操作化定义和研究步骤如下： $\\textcircled{1}$ 数据的统计描述，用于描述所观察变量的分布情况； $\\textcircled{2}$ 方差分析，用于检验社会属性(性别、年龄的生理特征及教育程度、专业的社会角色)是否与用户行为存在相关性； $\\textcircled{3}$ 因子分析，用于抽取适合进行聚类的因子； $\\textcircled{4}$ 聚类分析，用于分类用户，形成型人的类别；$\\textcircled{5}$ 型人特征与行为的判别；最后，对型人进行描绘。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AlanCooper对Persona的定义如下:\"精确描述用",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "<<情报研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2研究方法与工具",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据协办单位：中国科学院研究生院提供的学生数据，进行分层随机抽样问卷调查。在中国科学院文献情报中心的支持下，自2008年6月9日至2008年7月20日发放与回收问卷。邮寄发放3000份，有效回收501份，无效问卷4份。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "利用PSS120版进行数据分析，采用方差分析、因子分析、聚类分析、信度检验、(伪)平均值与标准差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4调查对象的Web20使用频率",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "使用频率如表1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8e54fcc78605c6a1315156f9e9b463d8c1da3306fa6216c91606fdcd4d6ab399.jpg",
+        "table_caption": [
+            "表1Web20使用频率"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>从未</td><td></td><td></td><td></td><td></td><td></td><td>每月一次每月三次每周一次每周数次每天一次每天数次</td></tr><tr><td>M</td><td>58 11. 7%</td><td>25 5%</td><td>21 4.2%</td><td>24 4.8%</td><td>87 17. 5%</td><td>96 19.3%</td><td>186 37.4%</td></tr><tr><td>P2P</td><td>75 15.1%</td><td>79 15.9%</td><td>63 12 7%</td><td>59 11. 9%</td><td>158 31.8%</td><td>22 4.4%</td><td>41 82%</td></tr><tr><td>Bbg</td><td>130 262%</td><td>78 15.7%</td><td>64 12 9%</td><td>70 14.1%</td><td>103 20.7%</td><td>37 7. 4%</td><td>15 3%</td></tr><tr><td>RSS</td><td>314 63.2%</td><td>80 161%</td><td>41 82%</td><td>15 2%</td><td>28 5.6%</td><td>13 26%</td><td>6 1. 2%</td></tr><tr><td>Tag</td><td>364 73.2%</td><td>65 13.1%</td><td>33 66%</td><td>10 2%</td><td>19 3.8%</td><td>5 1%</td><td>1 0.2%</td></tr><tr><td>SN S</td><td>372 74.8%</td><td>67 13.5%</td><td>23 4.6%</td><td>13 26%</td><td>15 3%</td><td>3 0.6%</td><td>4 08%</td></tr><tr><td>Podcast</td><td>176 35.4%</td><td>85 17. 1%</td><td>77 15.5%</td><td>46 9.3%</td><td>88 17. 7%</td><td>10 2%</td><td>15 3%</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5方差分析结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用列联表进行 $\\mathbf { \\boldsymbol { X } } ^ { 2 }$ 检验，亦即方差分析。过程为： $\\textcircled{1}$ 设立零假设与真假设； $\\mathrm { \\Delta H _ { 0 } }$ ：假设两量变相互独立；$\\textstyle \\mathrm { \\mathrm { ~ H } } _ { 1 }$ :两变量相互关联。 $\\textcircled{2}$ 再查 $\\boldsymbol { \\mathrm { X } } ^ { 2 }$ 分布表，取检验显著性水平 $\\texttt { a } = 0 . \\ 0 5$ ,观察自由度df在分布表中所对应的临界值 $\\lambda$ ;再比较方差值是否大于临界值。 $\\textcircled{3}$ 若前者大于后者，则推翻 $\\mathrm { \\Delta H _ { 0 } }$ 零假设， $\\mathrm { H } _ { 1 }$ 假设成立；反之亦然。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由性别、年龄、教育程度与专业等4个变量，对应M等7个使用频率的变量，共进行28次方差分析。其28个列联表在此节略，不悉数说明 (但是可从表1、和表14推算出来），仅将检验结果公布如表2所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中专业与其他6个变量具有相关性，但是如果去掉专业类别中的其他类别，方差分析中的相关性就不显著了，这表示以自然科学为主的研究对象可能与其它综合性大学的研究会有所出入。而另外的相关性检验中，只有性别与P2P年龄与Bbg有相关关系。如此少数的相关关系，不适合作为群组的划分依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6因子分析结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节通过因子分析，抽取适合进行聚类的因子。因此首先对\"即时通讯（M)\"、\"P2P\"、“博客 $\\left( \\mathbf { B } \\log \\right) ^ { \\prime \\prime }$ /\"RSS\"、“社会书签（Tag)\"、\"社会网络软件 $( \\mathrm { S N S } ) ^ { \\prime \\prime }$ /“播客（Podcast)\"进行相关矩阵计算,尔后进行因子分析，如表3所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/db04716a200187ecee1ef8956c83f2bb13d9d584ee0a27420942898de30dda92.jpg",
+        "table_caption": [
+            "表3Web20行为相关矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>M</td><td>P2P</td><td>Bbg</td><td>RSS</td><td>Tag</td><td>SNS</td><td>Podcast</td></tr><tr><td>M</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P2P</td><td>0422</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bbg</td><td>0.259</td><td>0314</td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>RSS</td><td>0.174</td><td>0.320</td><td>0341</td><td>1</td><td></td><td></td><td></td></tr><tr><td>Tag</td><td>Q123</td><td>0.262</td><td>Q.240</td><td>Q521</td><td>1</td><td></td><td></td></tr><tr><td>SNS</td><td>Q100</td><td>0207</td><td>Q146</td><td>0.369</td><td>0.611</td><td>1</td><td></td></tr><tr><td>Podcast</td><td>0.253</td><td>0.409</td><td>0.414</td><td>0.287</td><td>0.305</td><td>0.239</td><td>1</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "经巴特勒球形检验，其数值为814.265,显著水平0.000，说明这项数据可以用作因子分析，如表4所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/281717293e33ba1dbcdba75e160787d168a239bf870ecf2aedc1ab8a3080890c.jpg",
+        "table_caption": [
+            "表4KMO值和巴特勒球形检验"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">取样适当性检验 (Kaiser- Meyer- O Ikin Measure of Samp ling Adequacy)</td><td>0.749</td></tr><tr><td>Ba特tt球形检t验f Sphericity</td><td></td><td>814265</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "以表3为基础，通过主成分分析法，抽取因子轴未旋转前的共同性，如表5所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/98fb17e9a28e115f5b2e9209cad0b72b77087964bb641c60e9464a21fec32ffb.jpg",
+        "table_caption": [
+            "表5未旋转前的共同性"
+        ],
+        "table_footnote": [
+            "（抽取方法：主成成分分析）"
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>M</td><td>P2P</td><td>B bg</td><td>RSS</td><td>Tag</td><td>SNS</td><td>Podcast</td></tr><tr><td>抽取</td><td>0533</td><td>Q 587</td><td>Q 462</td><td>Q533</td><td>Q780</td><td>0.696</td><td>Q 501</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在因子分析中，采用主成成分分析法，根据凯沙准则，",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/58cc959cad58adc20afdd1aa37750d852262607fda6193e4b21cbab378d2ffb9.jpg",
+        "table_caption": [
+            "表2性别、年龄、教育程度、专业与Web20行为的方差分析的临界值与方差值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Item</td><td colspan=\"2\">性别df=6</td><td colspan=\"2\">年龄df=24</td><td colspan=\"2\">教育程度df=6</td><td colspan=\"2\">专业df=24</td></tr><tr><td>临界值</td><td>方差值</td><td>临界值</td><td>方差值</td><td>临界值</td><td>方差值</td><td>临界值</td><td>方差值</td></tr><tr><td>M</td><td>126</td><td>8.501</td><td>36.4</td><td>31.075</td><td>126</td><td>5.462</td><td>364</td><td>18.389</td></tr><tr><td>P2P</td><td>126</td><td>25.15</td><td>36.4</td><td>29.674</td><td>126</td><td>8869</td><td>364</td><td>38765</td></tr><tr><td>B bg</td><td>126</td><td>4.54</td><td>364</td><td>36422</td><td>126</td><td>4.892</td><td>364</td><td>45.082</td></tr><tr><td>RSS</td><td>126</td><td>2302</td><td>36.4</td><td>22636</td><td>126</td><td>9.984</td><td>364</td><td>39.123</td></tr><tr><td>Tag</td><td>126</td><td>6.958</td><td>36.4</td><td>31.140</td><td>126</td><td>5.537</td><td>364</td><td>45.685</td></tr><tr><td>SNS</td><td>126</td><td>7.347</td><td>36.4</td><td>29.091</td><td>126</td><td>7.894</td><td>364</td><td>48530</td></tr><tr><td>Podcast</td><td>126</td><td>6.095</td><td>36.4</td><td>21.776</td><td>126</td><td>9.702</td><td>364</td><td>40.441</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "抽取特征值大于1的 2个因子，方差最大旋转经3次收敛后，累积方差贡献率为 $58 ~ 7 2 7 \\%$ ,其因子负荷见表 $6$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "并得到了最大方差旋转后的因子矩阵，见表 $7 \\%$ （20",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "64·LIBRARYAND NFORMATION SERVICE· ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f99c097ef784d11ea79867345aaea6b843e4f8d9c17c69087d76af5d7b29f798.jpg",
+        "table_caption": [
+            "表6方差分析结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">因 子</td><td colspan=\"3\">初始特征值</td><td colspan=\"3\">提取特征值大于1的 因子累计负荷量</td><td colspan=\"3\">旋转后的累积负荷量</td></tr><tr><td>特征值</td><td>变异量</td><td>贡献率</td><td>特征值</td><td>变异量</td><td>贡献率</td><td>特征值</td><td>变异量</td><td>贡献率</td></tr><tr><td>M P2P B bg RSS Tag SNS Podcast</td><td>2832 1. 279 0.814 0. 662 0.581 0. 479</td><td>40. 459 18.268 11. 627 9.462 8.304 6.846</td><td>40 459 58727 70. 354 79.817 88 121 94.967</td><td>2832 1. 279</td><td>40.459 18.268</td><td>40.459 58.727</td><td>2058 2053</td><td>29.398 29.329</td><td>29.398 58727</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e2427415a1ee64bd3c6b38c33775ad460bc510c270e4d2d7055c93bb7134e78.jpg",
+        "table_caption": [
+            "表11最终聚类中心的相互距离"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>聚类</td><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td>第一种</td><td></td><td></td><td></td><td></td></tr><tr><td>第二种</td><td>2463</td><td></td><td></td><td></td></tr><tr><td>第三种</td><td>2487</td><td>1.314</td><td></td><td></td></tr><tr><td>第四种</td><td>2687</td><td>1.261</td><td>2542</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d16c553a51465aecd5719562c9b0d7c92de5260e58f15b87f312380b48db9d13.jpg",
+        "table_caption": [
+            "表7最大方差旋转法后的因子矩阵"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>因子1</td><td>因子2</td></tr><tr><td>M</td><td>0.728</td><td>-0057</td></tr><tr><td>P2P</td><td>0.745</td><td>Q179</td></tr><tr><td>Bbg</td><td>0.649</td><td>Q200</td></tr><tr><td>RSS</td><td>0324</td><td>0669</td></tr><tr><td>Tag</td><td>0146</td><td>Q871</td></tr><tr><td>SNS</td><td>Q037</td><td>Q833</td></tr><tr><td>Podcast</td><td>0.651</td><td>Q277</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第五步，计算分组分类后 (聚类结果)所包含的原有样本 (图表在此省略)及其数量 (见表12)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述5个步骤的K值聚类分析，得到4个群组的聚类中心以及每个群组所包含的个体的数量。通过聚类的方式分类用户，最终形成了型人的类别。通过型人数量的比较，人数最多和最少的型人类别分别为第二类和第一类型人，如表12所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba3a103df9b4ee155b7c08a84f2dc86d16e9a4067963336dc11046fa8a3aae41.jpg",
+        "table_caption": [
+            "表12聚类后的类型与人数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td>人数</td><td>69</td><td>187</td><td>147</td><td>94</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7聚类分析结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用K值聚类方法，具体步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一步，根据表7的因子1和因子2计算聚类中心，第一次结果如表8所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5bb01396c8f62b358f4f730f1ae301510013dca21f1558055f0543219dd1fe9.jpg",
+        "table_caption": [
+            "表8初始聚类中心"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td>第一因子</td><td>1.05494</td><td>-039673</td><td>1.86157</td><td>- 1. 73219</td></tr><tr><td>第二因子</td><td>4.80685</td><td>- 0 75108</td><td>1. 24852</td><td>1.98309</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二步，透过十二次迭代，计算出最优中心点，亦即：聚类中心，如表9所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/065221364562146eaab48fb865f90595850d15dda42fe702f823b24ee6991195.jpg",
+        "table_caption": [
+            "表9佚代过程(聚类中心转变）"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td>第一次</td><td>1.709</td><td>0300</td><td>1.618</td><td>1.665</td></tr><tr><td>第二次</td><td>Q872</td><td>0062</td><td>0158</td><td>0.248</td></tr><tr><td>第三次</td><td>Q428</td><td>0.040</td><td>0180</td><td>0.046</td></tr><tr><td>第四次</td><td>Q159</td><td>0.003</td><td>0.057</td><td>0.000</td></tr><tr><td>第五次</td><td>Q002</td><td>1.65E-005</td><td>0.000</td><td>491E-006</td></tr><tr><td>第六次</td><td>2 75E-005</td><td>8 85E-008</td><td>2 82E-006</td><td>5.06E-008</td></tr><tr><td>第七次</td><td>3.62E-007</td><td>476E-010</td><td>1.98E-008</td><td>522E-010</td></tr><tr><td>第八次</td><td>4.76E-009</td><td>256E-012</td><td>1.40E-010</td><td>5.38E-012</td></tr><tr><td>第九次</td><td>6 26E-011</td><td>1.39E- 014</td><td>9.84E- 013</td><td>5.51E-014</td></tr><tr><td>第十次</td><td>8 24E-013</td><td>000</td><td>7.01E- 015</td><td>375E-016</td></tr><tr><td>第十一次</td><td>1.11E-014</td><td>000</td><td>000</td><td>000</td></tr><tr><td>第十二次</td><td>000</td><td>000</td><td>000</td><td>000</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三步，经过十二次迭代后的聚类中心，在因子坐标轴上所反应的位置，如表10所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae19c4155c24005e13af720762a65ec00928bbe8939208cbae6b7f36f94e4d48.jpg",
+        "table_caption": [
+            "表 10最终聚类中心"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Item</td><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td>第一因子</td><td>Q 44411</td><td>-0.26332</td><td>1.04937</td><td>- 1. 44319</td></tr><tr><td>第二因子</td><td>1.96316</td><td>- 039625</td><td>- 0 44947</td><td>0.05013</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "8伪平均值与标准差比较",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过伪平均值与标准差的比较，判定每种用户类别的Web20行为使用程度。具体做法为：根据聚类分析的结果，将原先的497样本进行分组，在每个组内计算其平均数与标准差。分为：数值大于2的高度使用、数值大于1的中度使用、数值低于0的低度使用，如表13所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第四步，根据4个群组的聚类中心，计算其相应的位置距离，如表11所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e7bb0174bae4fc6b227cd7471dd46061fb76fe847a5b3cd57ad97aa1672e96e.jpg",
+        "table_caption": [
+            "表13型人行为判断"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">项目</td><td colspan=\"4\">用户类型</td></tr><tr><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td rowspan=\"2\">M</td><td>平值值</td><td>4.86</td><td>4.44</td><td>5.48</td><td>1.18</td></tr><tr><td>标准差</td><td>1.448</td><td>1.590</td><td>0.902</td><td>1.510</td></tr><tr><td rowspan=\"2\">P2P</td><td>平值值</td><td>4.03</td><td>222</td><td>401</td><td>0.91</td></tr><tr><td>标准差</td><td>1.505</td><td>1.468</td><td>1.329</td><td>1.094</td></tr><tr><td rowspan=\"2\">Bbg</td><td>平值值</td><td>3.30</td><td>1.61</td><td>338</td><td>0.81</td></tr><tr><td>标准差</td><td>1.546</td><td>1.528</td><td>1.589</td><td>1. 176</td></tr><tr><td rowspan=\"2\">RSS</td><td>平值值</td><td>286</td><td>0.38</td><td>Q87</td><td>0.26</td></tr><tr><td>标准差</td><td>1.683</td><td>0836</td><td>1.396</td><td>0.761</td></tr><tr><td rowspan=\"2\">Tag</td><td>平值值</td><td>267</td><td>019</td><td>Q18</td><td>0.24</td></tr><tr><td>标准差</td><td>1.400</td><td>0.478</td><td>0.506</td><td>0.581</td></tr><tr><td rowspan=\"2\">SNS</td><td>平值值</td><td>226</td><td>0.17</td><td>017</td><td>0.40</td></tr><tr><td>标准差</td><td>1. 754</td><td>0.489</td><td>0.444</td><td>0.896</td></tr><tr><td rowspan=\"2\">Podcast</td><td>平值值</td><td>3.07</td><td>084</td><td>3.01</td><td>0.62</td></tr><tr><td>标准差</td><td>1.458</td><td>1.143</td><td>1. 649</td><td>0881</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：本表将属于定类变量的\"使用频率\"看作是介于1至7的连续数值，其平均值、标准差不代表真正意义上的两种统计测量数值。因此，只用作直观判断，不用作数值计算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "即时通讯是使用程度最高的Web20服务。4种类型的用户普遍使用即时通讯，相较之下，第三类用户使用的程度较高，而第四类用户较为少用即时通讯的服务。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一类的用户与其他类型用户相比，较为关注",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "<情报研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Web2.0的服务，对于每种服务都有尝试与使用。而第四类用户则对每一种Web20服务接触都最少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9期望值与实际值比较 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过期望值与实际值的比较，判别型人的特征与行为。由于是”选择\"合适的特征来描绘型人，因此采用“是否与期望值差异过大\"的原则来选择。具体操作是：将表1中的性别、年龄、教育程度与专业的比例，设作期望值；再与表14中的比例相比较。大于总体比例的生理特征和社会角色，被选作该类型用户的型人特征。通过比例的比较，得出4类型人的生理特征和社会角色。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5831e74c63b8ad927f9c4e06e387d7dfda636066085c0a611b50e58575d10a11.jpg",
+        "table_caption": [
+            "表14型人特征判断表"
+        ],
+        "table_footnote": [
+            "注：本表作为直观判断的参考依据，不用作数值计算；其判断结果按照实际需要而作调整。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\" rowspan=\"2\">项目</td><td colspan=\"4\">用户类型</td></tr><tr><td>第一种</td><td>第二种</td><td>第三种</td><td>第四种</td></tr><tr><td rowspan=\"2\">性别</td><td></td><td>44</td><td>128</td><td>104</td><td>48</td></tr><tr><td>男女</td><td>25</td><td>59</td><td>43</td><td>46</td></tr><tr><td rowspan=\"5\">年龄</td><td>-23</td><td>10</td><td>20</td><td>13</td><td>9</td></tr><tr><td>24-25</td><td>23</td><td>60</td><td>65</td><td>23</td></tr><tr><td>26-27</td><td>20</td><td>68</td><td>45</td><td>37</td></tr><tr><td>28-29</td><td>9</td><td>19</td><td>16</td><td>9</td></tr><tr><td>30-</td><td>7</td><td>20</td><td>8</td><td>16</td></tr><tr><td rowspan=\"2\">学位</td><td>博士</td><td>46</td><td>131</td><td>100</td><td>72</td></tr><tr><td></td><td>23</td><td>56</td><td>47</td><td>22</td></tr><tr><td rowspan=\"5\">专业</td><td>基础</td><td>18</td><td>62</td><td>41</td><td>33</td></tr><tr><td>生命</td><td>15</td><td>46</td><td>42</td><td>21</td></tr><tr><td>环境</td><td>13</td><td>28</td><td>22</td><td>15</td></tr><tr><td>高新</td><td>12</td><td>43</td><td>28</td><td>24</td></tr><tr><td>其它</td><td>11</td><td>8</td><td>14</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10型人描绘 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据表12表13表14的分析结果，分别给予4组虚拟的姓名和籍贯以及经修改的照片，绘制成型人如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b79b9f64206b89ed543a68b563e995c069a082422bee23f4f7bdea41a83d3959.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/88d4ce2dab3d863b7452c1ca1771790f12bac53299f51fa6328bf3a3c09aac31.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "叶大雄（化名），男，24岁，福建人，力学研究所在读硕士，几乎喜欢所有的Web2.0服务，尤其是及时通讯、P2P和播客。需要的是全方位的服务，越新奇越好。王聪明（化名），男，27岁，吉林人，化学研究所在读博士，常常使用及时通讯、偶尔使用P2P,也会看看博客。只需要方便搜索和快速传输的网络工具。陈宜静（化名），女，25岁，四川人，遗传与发育研究所在读硕士，经常使用及时通讯和P2P,也常常利用播客，此外还有她自己的博客www.chenyijing blog $\\mathrm { c o m } _ { \\circ }$ 喜欢和其他人交流自己的所见所闻。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/76c5ddea715a6b82d73554b3fb9e074f7a111f4f0fdc77966c53176fa21223e9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "d ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "林福秀（化名），女，26岁，河北人，电子学研究所在读博士，平日不接触Web20,仅使用Email和手机简讯。她是一个传统的图书馆读者，只用网络来查找书",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "王聪明是最重要的服务对象，陈宜静则是相对重要的服务对象，相关的数字图书馆服务应该优先考虑这两类型人的需求。在此，次要型人（SubordinatePersona):叶大雄(69/497)与林福秀(94/497)的作用在于反衬主要型人 (MainPersona)：王聪明(187/497)与陈宜静(147/497)的行为、特征和需求。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11结论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11.1科学与实践意义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "过去数字图书馆考虑用户行为，大致分为两种方向： $\\textcircled{1}$ 从用户的社会属性，如：性别、年龄、专业、职业等测量； $\\textcircled{2}$ 从用户的行为属性，如：点击、浏览、搜索、发布等测量。在上述两种之外，本研究开发第三种方式进行测量：以用户所使用的软件类型和类别的习惯，对用户的特征、行为、交互习惯和期望，进行描述、解释或预测。任何图书馆都可以用这套方法建立用户模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11.2研究限制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "问卷调查不能进行深入解释，这对于研究问题的说明有一定的局限性。此外，进行研究推论时，需要注意调查对象的局限性。本研究仅提供一种使用与创建型人的方法及其具体操作细节。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11.3未来研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于用户行为的Web2.0群组分类，最终的目的在于更为细致地描述用户行为、期望与需求，仅从表面观测数值尚不能完整说明。需要实际的访问调查，追踪观察和焦点团体等研究，才能证实或者修正对于理解Web20用户的实际效果与意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "致谢：本文在数据分析的基础上，受到匿名评审老师们的其他修改建议，在此致谢。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]BallPP预知社会:群体社会的内在法则．暴永宁，译.北京：当代中国出版社，2007.  \n[2]BuchanaM.找出隐藏的逻辑：掌握群众行为的不败公式．叶伟文，译.台北：天下文化出版社，2007.  \n[3]顾立平.基于Web20型人的数字图书馆交互界面设计．图书情报工作，2007，52(9)：130-134.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（下转第114页）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "<<知识组织",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "体现的是运行绩效，对信息用户而言体现的是自我实现绩效，对于本文关注的任务维度而言体现的是信息任务的完成绩效。不同的绩效观也会产生不同的适配观：不同基点的适配对应的绩效分析也不同，信息系统的绩效主要是从系统使用看绩效，属协同适配；任务执行者绩效主要是从查询结果在任务执行者完成任务中的作用来看绩效，属目标适配；信息任务绩效强调的是信息查询的绩效，是从查询结果的输出来看待绩效，属产出适配。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文着眼于信息任务，是从产出适配看信息任务绩效。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先是完成信息任务所用的时间，是从缩短任务完成时间来提升绩效，强调信息的查找绩效，在任务确定的情况下，时间的缩短一般包括两个方面：①提高信息系统的易用性，主要体现在系统功能和系统交互上；$\\textcircled{2}$ 正确引导信息任务执行者的查询行为，包括信息查询交互和信息查找策略两个方面。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "其次是信息任务的完成程度，主要从任务最终的完成效果来看待绩效，强调信息的利用绩效，在任务确定的情况下，效果的提升一般包括两个方面：①提升系统输出信息的有用性，即输出信息的相关性、新颖性和可靠性是决定信息任务完成程度的重要因素； $\\textcircled{2}$ 缩小各级次任务目标的对比差距，信息任务执行者对任务目标、信息任务目标和信息查询目标这三个不同级次目标的准确把握和分解与各级任务在逐级完成过程中对上级任务目标的支持程度直接决定着信息任务的完成程度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "信息任务是信息需求和信息行为的初始驱动力，明确信息任务的特征和属性是高效完成信息任务的前提。自前无论关于信息资源利用绩效的研究或关于信息系统使用效果的研究，都鲜有对信息任务的深入完整分析，本文通过整合、梳理国内外关于任务研究的成果，将任务特征与信息任务完成的绩效关联起来，从任务特征出发，着力分析提升绩效的关键要素。但限于相关的研究还甚少，对信息任务及其绩效只能勾画出比较粗的线条，今后在基于任务特征的绩效指标梳理和测度上还有待进行更为深入的研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Zigurs I Buckland B.A theory of task/technobgy fit and group sys-tem s effectivenessMIS Quarterly，1998,22(3），313- 334.  \n[2]陈昭蓉，许佑中.采用知识管理信息系统对工作绩效影响之实证研究：以任务-科技适配理论观点[学位论文].台湾：树德大学,2004.  \n[3]Donald J.Campbell,Task comp lexity:A review and analysisA-cademyofManagementReview,1988，13（1) :40 - 52  \n[4]GebauerJ，Shaw MJ.A Theoryof Task/Technology Fit forMobileApp lications to Support Organizational Processes University of Illi-nois at Urbana-Champaign Working Paper,2002  \n[5]颜奕仁.资讯系统特性、任务特性与电脑自我效能对工作绩效的影响[学位论文].台湾：“中央\"大学资讯管理系，2002  \n[6]任婧，王二平.互依性与团队协作.心理科学进展,2007,15（1)：146 - 153.  \n[7]Kim J.Task as a predictable indicator for info mation seeking behav-ior on the web[dissertation].New Jesey:The State University ofNew Je sey,2006.  \n[8]Goodhue DL，Thomp son RL.Task-Technobgy Fit and IndividualPerfomance MIS Quarterly,1995,19(2) : 213 - 236.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者简介]李晓鹏,女，1976年生，博士研究生,发表论文10余篇,参编著作6部。雷银枝，女，1979年生，博士研究生，发表论文6篇。张晨，女，1974年生，馆员，发表论文3篇。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（上接第66页）",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[4]CooperA.交互设计之路-让高科技产品回归人性(第二版）.丁全钢，译.北京：电子工业出版社，2007.  \n[5]MulderS，YaarZ赢在用户：人物角色创建和应用实战指南.范晓燕，译.北京：机械工业出版社，2007.",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[6]Maness JM,Miaskiewicz T,Sumner T Using Personas to Under stand the Needs and Goals of Institutional Repository U sers[2008 -10-13].htp://www.dlib. org/dlib/september08/maness/ 09maness hml ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "作者简介]顾立平，男，1978年生，博士研究生，发表论文6篇。",
+        "page_idx": 4
+    }
+]

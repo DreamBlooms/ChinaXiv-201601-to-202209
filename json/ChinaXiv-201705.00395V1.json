@@ -1,0 +1,397 @@
+[
+    {
+        "type": "text",
+        "text": "Interlayer design for the graphite-like carbon film with high load-bearing capacity under sliding-friction condition in water ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yongxin Wanga,\\*, Jibin $\\mathsf { P u } ^ { \\mathsf { b } }$ , Jiafan Wanga,c, Jinlong Lia, Jianmin Chena,b, Qunji Xue a,t ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aKeyLabratoryfrineetealsdelatedchnologZejangKeyboratoryfrineatealsdrotectioncholgib   \nInstituteofMaterialTechnology $\\boldsymbol { \\varepsilon }$ Engineering,Chinese Academy ofSciences,Ningbo 315201,PR China   \nbStatKeyLboratoryflidubricationLnzouIsitutefhmicalsicsinesecdemyofiencesnouoin   \nMaterial Science and Engineering College,Lanzhou University ofTechnology,Lanzhou 73oo50,PR China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nGraphite-like carbon film   \nInterlayer design   \nLoad-bearing capacity   \nSliding-friction   \nWater ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GLC films with single Ti interlayer,single Cr interlayer,thickness gradient $\\operatorname { c r } / \\operatorname { c }$ interlayer and composition gradient $\\operatorname { c r } / \\operatorname { c }$ interlayer were fabricated by magnetron sputtering technique.The microstructures, mechanical properties and tribological performance under sliding friction in distilled water and seawater of the as-deposited GLC flms were investigated. Results showed that the adhesion strength and theload-bearing capacity under sliding-friction condition in water of GLC film could be improved effectively by interlayer design.GLC filmwith composition gradient $\\operatorname { c r } / \\operatorname { c }$ interlayer exhibited highestadhesion strength and load-bearing capacity under sliding-friction conditions in water,which was closely related to nano-interlocked microstructure and hard carbide phase formations inside the interlayer.The adhesion strength in scratch test and the critical bearing load under sliding-friction in water of the GLC film with composition gradient $\\operatorname { c r } / \\operatorname { c }$ interlayer exceeded $5 0 \\mathrm { N }$ and $2 . 7 3 \\mathsf { G P a }$ ,respectively. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The swift development of industry is in fact eager for the high performance materials to ensure the stable and long-life operations of thekeymechanical components,especially for tribo-pairs operated under sliding-friction condition in water such as mechanical seals,water-lubricated bearingsand so on[1,2].The main factors to the failures of such tribo-pairs were usually attributed to the high friction and severe wear during the unstable periods including starting-stopping,running-in,high speed and over load [3-5]. One of the most effective approaches to solve this problem was the usage of high performance film to lubricate and protect the working surfaces of these components.The graphite-like carbon (GLC), referring to the amorphous carbon with significant $\\mathsf { s p } ^ { 2 }$ bond,has great potential on the application of lubricating and protective film material for tribo-pairs in water since it has been demonstrated low friction and wear under either dry-sliding or water-lubricating condition [6-9].Yang etal.fabricateda kind of GLC films named Graphit-iC by using magnetron sputtering technique,and reported that fine graphite-like grains with some cross-bonding between the graphite-like layers resulted in the similarlow friction to those of graphite and the much higher hardness than graphite lead to the very high wear resistance [6]. Stallard et al. found that the Graphit-iC could exhibit low friction and wear accompanied with high load-bearing capacities under three environmental conditions including air,oil and water[7].Field et al.argued that the high hardness and lubricating transferred-layer formation led to the low friction and wear of the Graphit-iC in ambient air,and the water molecules absorbed on the top surface of graphite weakened the bonds between the basal planes of its hexagonal structure and gave it good frictional behavior in humidity or water environment [8]. Wang etal.demonstrated the nano-crystallites/amorphous matrix structure of the sputtering GLC flm,and confirmed its self-adapted tribological performance in both ambient air and water[9]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,further work informed that the interlayer design was significant to the tribological performance of GLC film in water environment.Different interlayers would generate different tribological performances of GLC film on the giving substrate in distilled water[1O].Partial delamination of GLC film on wear surface would appear in distilled water if there was an inappropriate interlayer [10,11]. And excellent tribological performances with low friction and “near-zero\"wear of GLC film coated on the giving substrate in distilled water could be achieved by selecting the interlayer material[11,12].In fact,most of the amorphous carbon films need to pre-deposit materials including Ti,Cr,W,Si,etc.on the substrate surface before the deposition of the amorphous carbon to improve the adhesion and load-bearing capacity of the as-deposition films [13-17].Moreover,multilayer designs were employed to get the high-performance interlayers.Yang etal.suggested that the pure sputtering amorphous coating could only exhibit good wear prop erties at low load while the amorphous carbon coating with $\\operatorname { C r } / \\operatorname { C }$ alternatively multilayer interlayer showed very good tribological properties at high load under dry-sliding condition[18]. In this paper,the GLC films with different interlayers were deposited on stainless steel substrate by magnetron sputtering technique. Microstructures,mechanical properties and load-bearing capacitiesunder sliding-friction condition in distilled waterand seawater of the as-deposited films were comparatively studied.Then the optimal interlayer design for the GLC film with high load-bearing capacity under the corresponding friction condition was deduced. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two kinds of substrates including P(1OO) Si wafer with dimension $3 0 \\mathrm { m m } \\times 2 0 \\mathrm { m m } \\times 0 . 6 2 5 \\mathrm { m m }$ and stainless steel 316L with dimension $3 0 \\mathrm { m m } \\times 2 0 \\mathrm { m m } \\times 2 \\mathrm { m m }$ were used for each deposition.The former was used for the microscopic observation of film microstructure,and the latter was used for the mechanical and tribological tests.The depositing system was configured of three magnetron target positions which focused on a substrate seat.The middle one fixed with the high pure graphite target,which was used to deposit the graphite-like amorphous carbon.The other two positions were twinborn targets which could be installed Ti or Cr targets if there wasa need to deposit metal layers.The graphite target was powered by a DC source.The twinborn metal targets of Ti or Cr were powered bya mid-frequency AC supply.The pressure in the chamber was controlled by a turbo molecular pumping system. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Prior to deposition,the substrates were cleaned ultrasonically in ethanol and acetone baths in succession and dried with a blower. The base pressure of the chamber before deposition was pumped to $1 . 0 \\times 1 0 ^ { - 3 } \\mathrm { P a }$ ,and the deposition pressure $1 . 0 \\mathsf { P a }$ was reached with a constant flow of Ar gas.The substrates were DC sputter-cleaned for $1 5 \\mathrm { m i n }$ at bias voltage $- 1 0 0 0 \\mathsf { V }$ with duty cycle $50 \\%$ .Different interlayers were first deposited on substrates followed by the GLC layers.Four different interlayers were employed including single Ti interlayer,single Crinterlayer,thickness gradient $\\mathrm { C r } / \\mathrm { C }$ interlayer and composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer.The corresponding GLC films were named GLC1,GLC2,GLC3 and GLC4,respectively. Single Ti interlayer was deposited with target current $2 . 0 \\mathsf { A }$ at bias voltage $- 5 0 0 \\mathrm { V }$ (duty cycle $5 0 \\%$ ).Single Crinterlayerwasdeposited with the same parameters to single Ti layer.Thickness gradient $\\operatorname { C r } / \\operatorname { C }$ interlayerwasanalternativelymutilayerwith the decreased/increased thickness of the $\\operatorname { C r } / \\operatorname { C }$ layer. The $\\mathrm { c r }$ layer was deposited with target current $2 . 0 \\mathsf { A }$ at bias voltage $- 5 0 0 \\mathrm { V }$ (duty cycle $5 0 \\%$ ),whiletheC layerwas deposited with target current $1 . 2 \\mathsf { A }$ at bias voltage $- 3 0 0 \\mathrm { V }$ (duty cycle $50 \\%$ ).Composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayerreferred to the gradient-structural layerwith the decrease/increase of the $\\operatorname { C r } / \\operatorname { C }$ content.The content variation was achieved by decreasing the Cr target current from 2.0 to OA while increasing the graphite target current from O to $1 . 2 \\mathsf { A }$ at bias voltage $- 3 0 0 \\mathrm { V }$ (duty cycle $5 0 \\%$ ) The GLC layer was deposited at graphite target current $1 . 2 \\mathsf { A }$ at bias voltage $- 3 0 0 \\mathrm { V }$ (duty cycle $50 \\%$ ) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cross-sectional and surface morphologies of the as-deposited GLC films were characterized with a S-48oO scanning electron microscope (SEM). Raman spectra in the range of $8 0 0 { - } 2 0 0 0 \\mathrm { c m } ^ { - 1 }$ （204 of the GLC films were acquired by an inVia-reflex Raman spectrometer using an $\\mathbf { A \\mathbf { r } ^ { + } }$ laser of $5 3 2 \\mathrm { n m }$ with a resolution of $1 \\mathrm { c m } ^ { - 1 }$ Composition and microstructure evolutions from the film surface to the interlayer were investigated byan Axis ultraDLD X-ray photoelectron spectroscopy(XPS) with Al $K \\alpha$ irradiation.Transmission electron microscopy (TEM) images and EDS analyses of different layers were obtained usinga JEOL 3O1O TEM operated at $3 0 0 \\mathrm { k V }$ Hardness and elastic modulus were measured by a NANO G200 nanoindenter apparatus.The nano-indentations performed with the continuous stiffness mode.The maximum indentation depth was $2 0 0 \\mathrm { n m }$ .Scratch tests were performed bya REVETEST? Scratch Testing instrument.A diamond tip, $2 0 0 \\mu \\mathrm { { m } }$ in radius,was used as the scratching stylus with increasing normal load from O to $5 0 \\mathrm { N }$ ata fixed loadingrate of $5 0 \\mathrm { { N / m i n } }$ and a scratching speed of $6 \\mathrm { { m m / m i n } }$ under ambient condition.The tribological performances in distilled water and seawater were tested bya reciprocating sliding tribometer at room temperature.The mating balls were uncoated WC withadiameterof $3 \\mathrm { m m }$ .Different normal loads ranged from $4 \\mathsf { N }$ to $1 2 \\mathsf { N }$ were used.According to the Hertz contact model for a ball on a flat surface,maximum contact pressures under giving normal loads were calculated,as shown in Table 1.The lowest maximum contact pressure resulting in the rupture of GLC film was defined asthe critical bearing load under sliding-friction condition in the two water environments.Then the critical bearing load was used to evaluate the load-bearing capacity of as-fabricated GLC film. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/09ade489969a6ab5b8959154f05ac0f5e9a74cfe06a0f80157d46259d02b5555.jpg",
+        "table_caption": [
+            "Table1 Maximum contact pressures under different normal loads. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Normal load (N)</td><td>4</td><td>6</td><td>8</td><td>10</td><td>12</td></tr><tr><td>Maximum contact pressure (GPa)</td><td>1.89</td><td>2.17</td><td>2.39</td><td>2.57</td><td>2.73</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Microstructures of GLC filmswith different interlayers ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cross-sectional and surface morphologies of GLC films with different interlayersare shown inFig.1.Seen from the cross-sectional morphologies,different interlayers with peculiar characteristics canbe clearly identified.Single Cr interlayeris thicker than single Tiinterlayer,which might be closelyrelated to the high deposition rate of Crarose from the high sputter yield.Meantime,there are clear interfaces between the metal layers and carbon layers in GLC1,GLC2 and GLC3,but the metal/carbon interface is obscure in GLC4.Itis because that the $\\mathsf { C r / C }$ interlayerwith composition gradient was formed in GLC4. Seen from the surface morphologies,GLC layers fabricated on thin single metal interlayers (GLC1 and GLC2) aredenseand fine,while GLClayers synthesized on thick gradient interlayers (GLC3 and GLC4) are coarse.The GLC layer on single Cr layerisdenserand finer than thaton single Ti layer.The GLClayer on composition gradient interlayer is denser and finer than that on thickness gradient interlayer. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Raman spectra of different GLC films are shown in Fig.2.All Raman spectra of GLC films reveal similar characteristic that is a brand bond includinga G peaks centered around $1 5 8 0 \\mathrm { c m } ^ { - 1 }$ andaD peaks centered at $1 3 6 0 \\mathrm { c m } ^ { - 1 }$ [19].The G band originated from optical zone center vibrations (E2g mode) of all the pairs of $\\mathsf { s p } ^ { 2 } \\mathsf { C }$ atoms inaromatic ringsand olefinic chains,and the D band originated from the breathing modes of $\\mathsf { s p } ^ { 2 }$ atoms in clusters of sixfold aromatic rings[2O,21].Based on the variation of the two bands,Raman spectrum can provide much information about the microstructure, suchas the Full-WidthHalf-Maximum(FWHM),the position of the D and G bands,the intensity of the $\\mathrm { { I D / I G } }$ ratio,etc.,and the estimation of the $\\mathsf { s p } ^ { 3 }$ -and $\\mathsf { s p } ^ { 2 }$ -hybridized carbon bonds can be thus indirectly drawn from the variation degree of the Gand theD bands [22].The area ratios of $I _ { \\mathrm { D } } / I _ { \\mathrm { G } }$ after peak fitting by Gaussian convolutional procedure are also shown in Fig.3.The values of $I _ { \\mathrm { D } } / I _ { \\mathrm { G } }$ for GLC films with different interlayers are near in the range from 3.1 to 3.4. The similar Raman spectra with high values of $I _ { \\mathrm { D } } / I _ { \\mathrm { G } }$ demonstrate the similar graphite-like carbonaceous microstructures for the GLC layers fabricated on thesedifferent interlayers.Itindicates that the interlayer design affected the microstructure of GLC layer slightly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eb13e85bae0f48facc2d8c947eb8398b53635be5580be0d55e6310baac9ccd5.jpg",
+        "img_caption": [
+            "Fig.1.Cross-sectional and surface morphologies of different GLC films:(a)GLC1;(b)GLC2;(c) GLC3;(d)GLC4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2.Mechanical properties of GLC filmswith different interlayers ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hardnesses of different GLC films are shown in Fig.3.With theincrease of indentation depth,each hardness increases.And the relationship of hardnesses before indentation depth $1 3 0 \\mathrm { n m }$ is $\\mathrm { G L C 1 } < \\mathrm { G L C 2 } < \\mathrm { G L C 3 } < \\mathrm { G L C 4 }$ 、After the indentation depth increases to $1 3 0 \\mathrm { n m }$ ,hardnesses of GLC1,GLC2 and GLC3 would be similar to each other,however,the hardness of GLC4 is still the highest one.It informs that the GLC layer on composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer washarder than that on single oralternative metallic layers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Elastic moduli of different GLC films are shown in Fig.4.With the increase of indentation depth,each elastic modulus increases aswell.The elastic moduli of GLC1,GLC2 and GLC3 are similar during the indention depth increase from O to $2 0 0 \\mathrm { n m }$ ,while,the GLC4 exhibits the highest elastic modulus.Combined with the highest hardness of GLC4,the GLC layer deposited on composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer would show the highest deformation resistance under normal pressure. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/27b77342da9deb4c21a20444d772eff994471e8c8db139fab8ff1dc2474daa3d.jpg",
+        "img_caption": [
+            "Fig.2.Raman spectra of different GLC films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccd9b11f0498c856564ea230ede9b03f08daf6d6ae0d647a0f101ede237cab05.jpg",
+        "img_caption": [
+            "Fig.3.Hardnesses of different GLC films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Scratch tracks of different GLC films are shown in Fig.5.There isaclear difference in the fracture behavior of the as-deposited film depending on interlayer design. The normal load corresponding to the first fracture or spallation was determined as the critical load $\\left( L _ { \\mathrm { c } } \\right)$ [23]. Seen from Fig.5, the $L _ { \\mathrm { c } } s$ for GLC1,GLC2 and GLC3 were 12,14 and $1 6 \\mathsf { N }$ ,respectively.But there is no valid $L _ { \\mathrm { c } }$ value for GLC4 can be detected during the normal load increase from O to $5 0 \\mathrm { N }$ .It means that the $L _ { \\mathrm { c } }$ of GLC4 exceeds $5 0 \\mathrm { N }$ ，which is distinctly higher than GLC1,GLC2 and GLC3.All that suggests that adhesion strength of GLC film with Crinterlayeris higher than thatwith Ti interlayer,the adhesion strength of GLC film with gradient interlayer is higher than that on single metal interlayer, and the adhesion strength of GLC film with composition gradient interlayer is higher than that with alternative thickness gradient interlayer.The adhesion of GLC film with composition gradient $\\mathsf { C r / C }$ interlayer exhibited the value exceed $5 0 \\mathrm { N }$ in the scratch test. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a24d9e77fbed1fd520f51b9ccca81b52dc07764c5b5141abcd35084b7fbca0a.jpg",
+        "img_caption": [
+            "Fig.4.Elastic moduli of different GLC films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea78d83d88e113ee38568daa80b6b127074560fe48ba4d778e48d0bfbc7d1457.jpg",
+        "img_caption": [
+            "Fig.5.Scratch tracks of different GLC films. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Tribological performancesofGLCfilmswith different interlayers ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Friction curves of different GLC films are shown in Fig.6.Fig. 6(a) shows the friction curves of GLC1.Under the normal load 4N,stable friction curves of GLC1 can be seen in both distilled water and seawater.When normal load increases to 6N,the abrupt variation of friction curve of GLC1 is observed in either distilled water or seawater.The friction coefficient of GLC1 drastically increases to the high level atabout27oo sin distilled waterand 13oO s in seawater. Fig.6(b)reveals the friction curves of GLC2.Stable friction curves of GLC2 in the two water environments can be seen if the normal load is less than 6N,while,abrupt variations occur when the normal load increases to 8N.The friction coefficient of GLC2 drastically increases to the high levelat 2ooO s in distilled water and 40O s in seawater.Fig.6(c) gives the friction curves of GLC3.Friction curves of GLC3 are stable in both distilled water and seawater under the normal load of $8 \\mathsf { N } .$ .When the normal load increases to $1 0 \\mathsf { N }$ the friction coefficient drastically increase to the high levelat 7OO sin seawater,though the friction curvesis still stable in distilled water. As seen in Fig.6(d),GLC4 exhibits stable friction curves in both distilled waterand seawater even the normal load increases to $1 2 \\mathsf { N }$ The abrupt variation of friction curves was proposed to be related to the early failure of the GLC film.Further investigations on the wear trackswere performed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wear tracks of different GLC films are shown in Fig.7.Fig.7(a) shows wear tracks of GLC1.Stable wear of GLC1 can be seen in both distilled water and seawater under 4N.Ruptures of GLC1 are observed in either distilled waterand seawater when the normal load increases to 6N.Fig.7(b) revealswear tracks of GLC2. Stable wear of GLC2 can be seen in both distilled water and seawater under 6N.Ruptures of GLC2 are detected in both distilled water and seawater when the normal load increases to 8 N.Fig.7(c) gives wear tracks of GLC3.Under normal load 8 N,GLC3 wear stably in both distilled water and seawater.When the normal load increased to $1 0 \\mathsf { N } .$ ，stable wear of GLC3 can still be seen in distilled water,but rupture ofGLC3 is detected in seawater.Fig.7(b)includes wear tracks of GLC4,illustrating that norupture is found even the normal load increased to $1 2 \\mathsf { N } .$ 、The wear stability is consistent with the friction curves.Rupture of wear track must correspond to the abrupt variation of friction curve.The GLC film would wear out when the friction coefficient increased to the high level. Therefore,it can be proposed that the order of load-bearing capacities under sliding-friction condition in water of the as-fabricated GLC films with different interlayers was $\\mathrm { G L C 1 } < \\mathrm { G L C 2 } < \\mathrm { G L C 3 } < \\mathrm { G L C 4 }$ Comparing with Figs.6 and 7,it could also be found that the GLC film wore out more easily in seawater than that in distilled water.Comparatively，the GLC4 exhibits highest critical bearing load under friction condition in water environment. Accordingto Table 1,the critical bearingload of GLC4in water exceeds2.73 GPa. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0269b3e9468acb94220329ee2580ec9c1928723b0ac151cc42014e6a89493401.jpg",
+        "img_caption": [
+            "Fig.6.Friction curves of different GLC films:(a) GLC1;(b) GLC2;(c) GLC3;(d) GLC4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.Discussions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.Microstructures of GLC films with different interlayers ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Though there was slight difference between the growth microstructure of GLC layers on different interlayer,the bond structure of the GLC layers were similar.The difference between growth microstructure must be closely related to the microstructureof interlayer.Thicker interlayer would result in the coarser top surface.Different interlayer provided different templates to the growth ofGLC layer.Consequently,GLClayers on different interlayers showed slight difference between the growth microstructures. However, the deposition parameters of GLC layers on different interlayers were same,meaning the similar energyof the plasma inside the vacuum chamber and the similar deposition condition for amorphous carbon.Therefore,the bond structures of GLC layers on different interlayers were similar.Italso informed that the differences between mechanical and tribological properties of GLC films would be closely related to the different microstructure of interlayers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0eb475fa5156ba52d490c51cfdbc361c0dfb36de958bc77d4cd7a37055339256.jpg",
+        "img_caption": [
+            "Fig.7.Wear tracks of different GLC flms: (a) GLC1;(b) GLC2;(c) GLC3;(d) GLC4. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2.Mechanical properties ofGLC filmswith different interlayers ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Overall,either the hardness or the elastic modulus ofGLC1,GLC2 and GLC3 were similar,which might be attributed to the similar metal-carbon interface between the GLC layer and metallic interlayer.While,both the hardness and the elastic modulus of GLC4 were higher than GLC1,GLC2 and GLC3,which informed that the composition gradient $\\operatorname { C r } / \\operatorname { C }$ layerprovided higher resistance under normal pressure.The higher adhesion strength of GLC2 than GLC1 mightberelatedto the betterafinityofCr interlayerwithstainless steel 316L and carbon than Ti interlayer.The higheradhesion strength of GLC3 than GLC2 must because that the thickness gradient multi-layer structure alleviated the stress between GLC layer and substrate more effectively.The highest adhesion strength of GLC4 indicated that the composition gradient $\\mathsf { C r / C }$ layer exhibited best adhesion between the metallic substrate and amorphous carbon layer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to seek the key factor to the high mechanical performances of GLC film with composition gradient $\\mathsf { C r / C }$ interlayer, the microstructure of composition gradient $\\mathsf { C r / C }$ interlayer was investigated.The composition and structure evolutions of GLC4 from surface to interlayer as the function of etch time in XPS analyses are shown in Fig.8.Fig.8(a) isthe composition evolution.At etch time $4 5 0 0 s \\mathrm { . }$ ，the Cr signal was observed.The depth before etch time 45oO s could be assigned to GLC layer,while the depthafter etch time $4 5 0 0 s$ should be considered to the $\\operatorname { C r } / \\operatorname { C }$ interlayer.The gradually increase/decrease of $\\mathsf { C r / C }$ with the increase of etchtimeafter etch time $4 5 0 0 s$ informeda gradientlayerof $\\mathrm { C r } / \\mathrm { C }$ Fig.8(b) is C1s core level peaksat different etch times.Seen from Fig.8(b), the C1s peek of film surface(etch time Os) is broad band containing $\\mathsf { C } { = } { \\mathsf { C } }$ 0 $\\cdot \\mathsf { s p } ^ { 2 }$ bond）peak at $2 8 4 . 4 \\mathrm { e V }$ and $c - c$ 0 $\\cdot s { \\mathsf { p } } ^ { 3 }$ bond) peak at $2 8 5 . 2 \\mathrm { e V }$ ,as well as the $c { - } 0$ peak at $2 8 6 . 8 \\mathrm { e V }$ and a carbonyl $\\scriptstyle { \\mathsf { C } } = 0$ peak at $2 8 8 . 5 \\mathrm { e V }$ [24,25].When the etch time increased to 3000 s,the C 1s peak shifts toward the lower binding energy, which mightbe related to the increase of the $\\mathsf { C } { = } \\mathsf { C }$ 0 $\\mathsf { i } \\mathsf { p } ^ { 2 }$ bond)arose from the energetic ion bombardment.The C1s peak at etch time $5 0 0 0 s$ included a low peak around $2 8 3 \\mathrm { e V }$ ，which was generally assigned to the $\\mathsf { C r { - } } { \\mathsf { C } }$ bonds [26]. That is to say the chromium carbide was formed inside the $\\mathrm { C r } / \\mathrm { C }$ layer.No distinct spectra could be acquired at etch time 1O.ooO s,suggesting that the pure Crlayer is reached.Therefore,the composition gradient $\\mathsf { C r / C }$ layer wasalso a microstructure gradient layer transformed from Cr on the surface of substrate to $\\mathsf { C r } + \\mathsf { C r C }$ when C was introduced,and consequently CrCas the decrease/increase ofCrand C,and $\\mathrm { C r C } + \\mathsf { C }$ when the Cr or C decreased or increased to the low or high level. It was sustained by the Cr $2 \\mathsf { p } _ { 3 / 2 }$ peak evolution which is shown in Fig. 8(c).Fig. 8(c) illustrates that no distinct Cr $2 \\mathsf { p } _ { 3 / 2 }$ peak could be acquired at film surface (etch time $0 s$ )and etch time $3 0 0 0 s$ The Cr $2 \\mathsf { p } _ { 3 / 2 }$ peak at etch time 5000 s includes $\\mathsf { C r { - } } { \\mathsf { C } }$ bond and $C \\mathrm { r - } C \\mathrm { r }$ bond [27]. When the etch time increased to $1 0 { , } 0 0 0 { s }$ ,the Cr $2 \\mathsf { p } _ { 3 / 2 }$ peak shifts toward the low binding energy,informing the domination of $C \\mathrm { r - } C \\mathrm { r }$ bond. It could be proposed that the gradual evolution of composition resulted in the transformation of phase microstructure.And the hard CrC phase was formed inside the composition gradient $\\mathsf { C r / C }$ interlayer,which would provide the strengthening effect undoubtedly.The strengthened interlayer might enhance the resistance of GLC film under normal pressure,resulting in the relative high hardness and elastic modulus of GLC with the composition gradient $\\mathsf { C r / C }$ interlayer. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b0e8947975cd2d945074138f2dd96926a83269d06f0b8bfb1c8883aaf3b9c56.jpg",
+        "img_caption": [
+            "Fig.8.Depth analyses of GLC4:(a) composition evaluation form film surface to interlayer;(b) C1s and (c) $\\mathrm { C r } 2 \\mathsf { p } _ { 3 / 2 }$ core level peaks at different etch times. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The cross-sectional microstructure of GLC with composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer was further investigated by TEM.The cross-sectional TEM analyses of GLC4 are shown in Fig.9.Fig.9(a) illustrates the three-layer microstructure of the as-deposited film: Layer1is the amorphous carbon,layer2is the mixture of amorphous carbon and Cr-rich phases,and layer3 is Cr.Fig.9(b)is the high resolution image of the gradient layer mixed with amorphous carbon and Cr-rich phases.It can be found that the interlocked microstructure was formed inside the $\\mathsf { C r / C }$ layer in nano-scale. Without a doubt,the nano-interlocked interface between the Cr adhesion layer and carbonaceous layerwould benefit to the high adhesion strength of the as-deposited GLC film.Therefore,it can be concluded that the composition and microstructure gradient in combination with the nano-interlocked interface between the Cr layerand carbon layer lead to the rather higheradhesion strength of GLC with the composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3.Tribological performancesofGLCfilmswith different interlayers ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The tribological test informed that the interlayer design could enhance the load-bearing capacity of GLC film under slidingfriction condition in water environment effectively,which would be closely related to the wear mechanism of GLC film in water.Due to the previous study[28],the wear mechanism of GLC film in water environment included micro-plough and local delamination. Since the delamination would induce spallation following rupture.Thus the local delamination was considered as the main reason to the wear failure of GLC film in water.In fact,both the stable abrasive wear and fragile delamination wear were detected in this study. As shown in Fig.1O,the abrasive wear track and the delamination or spallation region were clearly seen on wear surface of GLC3 film under normal load $1 2 \\mathsf { N }$ in distilled water,though the GLC3 film had not worn out yet. It indicated that the delamination wear was the key fact inducing wear failure undera certain normal pressure.The enhancement of load-bearing capacity for GLC film under slidingfriction condition in water environment by interlayer design might be ascribed to that delamination wear in water environment was controlled effectively by interlayer design. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to previous study [28], the occurrence of delaminationwear of GLC film in water could be attributed to two main reasons.First,the initiation and growth of micro-cracks generated through-film channel for erosion of water molecules.Second, the fracture strength between substrate and GLC layer was reduced by the penetrating water under cyclic stress.Therefore,the inhibition to the formation of through-film channel for water and the enhancement of adhesion strength between substrate and GLC film were feasible approaches to control the delamination of GLC film in water. The higher load-bearing capacities of GLC2 than GLC1 might be related to the higher adhesion strength of GLC2 than GLC1.The higher load-bearing capacities of GLC3 than GLC2 could beattributed to the higher adhesionas well as the inhibition to through-film channel formation by multi-layer structure inside the thickness gradient interlayer.Park et al.also argued that the multistep coating was effective in reducing the through-film defects, resulting in the stable wear without delamination of DLC film in water environment[11].The highest load-bearing capacity of GLC4 in water environment mustbe closely related to the highest adhesion strength and most effective inhibition to the formation of through-film channel forwater. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Due to the microstructure analysis,mechanism for the high load-bearing capacity of GLC with composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayerunder sliding-friction condition in water environment could be modeled by Fig.11.Fig.11(a）illustrates that normal load or cyclic stress would be transmitted to the internal substratecoating system.Each interface bears the load.Fig.11(b） shows the microstructure of GLC with composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer.The GLC layer included micro-defects due to the deposition process.The composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer contained hard carbide phase and formed interlocked interface with GLC layer in nano-scale.Unavoidably, the micro-cracks would initiate following growth under cyclic stress.However,the initiation and growth of micro-cracks could be stopped by the strengthened nano-interlocked interlayer (as shown in Fig.11(c)).Then the through-film channels for water erosion were inhibited effectively. Additionally,the strengthened inter-locked interlayer generates high adhesion strength (as shown in Fig.11(d)),resulting in the high fracture strength between the substrate and GLC film.In summary,the inhibition to water erosion and the enhancement of fracture strength inside the GLC film lead to the extremely high load-bearing capacity of GLC film with composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer under sliding-friction in water environment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/91b046e50a55934f92cfc5c8bde481ed374ddcc4427a298c8c6921dc0fe6fc31.jpg",
+        "img_caption": [
+            "Fig.9.ostialayf4(oale;)alls;(cigt $\\mathsf { C r / C }$ layer "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9defd4448be946a9e415ab565f5d6687a6c8920c2d8e706505cee4a3f3675e95.jpg",
+        "img_caption": [
+            "Fig.10.Wear surface of GLC3 under normal load $1 2 \\mathsf { N }$ in distilled water. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3fb8c88f06f600c36b294492e1b42ead3dd781cc51d8a3afe787a336af63b66.jpg",
+        "img_caption": [
+            "Fig.11.Model for the high load-bearing capacity of GLC with composition gradient $\\mathsf { C r / C }$ interlayer under sliding-friction condition in water:(a) model of ballon-disc sliding-frictionin waterof GLC onsubstrate with interlayer;(b) micre of composition gradient $\\mathsf { C r / C }$ interlayer;(c) micro-cracks were stopped by strengthened $\\mathsf { C r / C }$ interlayer;(d) nano-interlocked microstructure of the interlayer for high adhesion strength. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The bond structure of GLC films on single Ti interlayer,single Crinterlayer,thickness gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer and composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer were similar,though there was slight difference between the growth microstructure.The GLC film with composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer exhibited the highest hardness and elastic modulus due to the strengthened interlayer by hard CrC phases.The order of adhesion strength was $\\mathrm { G L C 1 } < \\mathrm { G L C 2 } < \\mathrm { G L C 3 } < \\mathrm { G L C 4 }$ 、aswell as the load-bearing capacity under sliding-friction condition in water environment.The inhibition to water erosion and enhanced fracture strength between the substrate and GLC layer lead to the high load-bearing capacity of GLC film under sliding-friction condition in water environment. The GLC film with composition gradient $\\operatorname { C r } / \\operatorname { C }$ interlayer exhibited the highest adhesion in the scratch test and critical bearing load under sliding-friction in water,which could exceed $5 0 \\mathrm { N }$ and $2 . 7 3 \\mathsf { G P a }$ ，respectively.The nano-interlocked microstructure formed between the substrate and carbon layer in combination with the hard strengthening carbide formed inside the interlayer were key factors to the high load-bearing capacity of GLC film with composition $\\operatorname { C r } / \\operatorname { C }$ interlayer under sliding-friction condition in water environment. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors gratefully acknowledge the financial support from the National Natural Science Foundation of China (Grant no. 51202261) and the National Basic Research Program of China (973 Program) (Grant no.2013CB632300). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]S.Meicke,R.Paasch,Renewable Energy 39(2012) 463. [2] Q. Wang, F. Zhou, X. Wang, K. Chen, M. Wang,T. Qian, Y.Li, Appl. Surf. Sci. 257 (2011) 7813. [3]S.L. Nie, G.H. Huang, Y.P. Li, Tribol. Int. 39 (2006) 1342. [4] I. Nogueira, A.M. Dias, R. Gras, R. Progri, Wear 253 (2002) 541. [5]S. Andersson, A. Soderberg,S. Bjorklund, Tribol. Int. 40 (2007) 580. [6] S.Yang，D. Camino， A.H.S. Jones，D.G. Teer， Surf. Coat. Technol. 124 (2000) 110. [7] J. Stallard, D.Mercs,M. Jarratt, D.G. Teer,P.H. Shipway, Surf. Coat. Technol.177 (2004) 545. [8]S.K. Field, M. Jarratt, D.G. Teer, Tribol.Int.37 (2004) 949. [9] Y. Wang, L. Wang, S.C. Wang, G. Zhang, R.J.K. Wood, Q. Xue, Tribol. Lett. 40 (2010)301. [10] Y. Wang, L. Wang, Q. Xue, Surf. Coat. Technol. 205 (2011) 2770. [11] S.J. Park, K.-R.1. Lee,S.-H. Ahn,J.-G. Kim, Diamond Relat. Mater.17 (2008) 247. [12]Y.Wang,L.Wang,Q. Xue,Appl.Surf. Sci.257(2011) 10246. [13] G. Capote,L.F.Bonetti,L.V. Santos,V.J. Trava-Airoldi,E.J. Corat, Thin Solid Films 516 (2008) 4011. [14] Y.S.Li, Y. Tang, Q. Yang, C. Xiao,A. Hirose, Appl. Surf. Sci. 256 (2010) 7653. [15]C.Wei,J.-Y.-g. Yen,Diamond Relat. Mater. 16 (2007) 1325. [16]L.F. Bonetti, G. Capote,L.V.Santos,E.J. Corat,V.J. Trava-Airoldi,Thin Solid Films 515 (2006)375. [17] Y.Wang, H. Li,L.Ji,F. Zhao, X. Liu, Q. Kong, Y.Wang, W. Quan, H. Zhou,J. Chen, J. Phys.D: Appl. Phys. 43(2010) 505401. [18] S. Yang, D.G.Teer, Surf. Coat. Technol. 131 (2000) 412. [19] S.E. Rodil, A.C. Ferrari,J. Robertson, W.I. Milne,J. Appl. Phys.89 (2006)5425. [20] M.V. Gradowski, A.C. Ferrari, R. Ohr, B. Jacoby, H. Hilgers,H.H. Schneider,H. Adrian, Surf. Coat. Technol. 174 (2003) 246. [21] A.C.Ferrari,J. Robertson,Phys. Rev. B: Condens. Matter 61(200O) 14095. [22] J.Robertson,Mater. Sci. Eng.,R: Rep.37 (2002) 129. [23] X. Chen, Z. Peng, Z. Fu,S. Wu, W. Yue, C.Wang, Surf. Coat. Technol.205 (2011) 3631. [24] J.X. Liao,W.M. Liu, T. Xu, Q.J. Xue, Carbon 42 (2004) 387. [25]M. Rybachuk,J.M. Bell, Carbon 47 (2009)2481. [26]V. Singh, J.C. Jiang, E.I. Meletis,Thin Solid Films189(2005) 150. [27] C.W. Zou, H.J. Wang,L. Feng, S.W. Xue, Appl. Surf. Sci. 286 (2013) 137. [28] Y. Wang, L. Wang, Q. Xue, Appl. Surf. Sci. 257 (2011) 4370. ",
+        "page_idx": 8
+    }
+]

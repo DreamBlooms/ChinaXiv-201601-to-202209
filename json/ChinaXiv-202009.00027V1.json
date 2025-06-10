@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "广西苦苣苔科植物濒危程度和优先保护序列研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "葛玉珍，辛子兵，黎舒，符龙飞，温放（广西壮族自治区中国科学院广西植物研究所，广西桂林541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在资料收集和实地调查的基础上，以已知广西现存分布的苦苣苔科24属236种珍稀特有植物（截止到2018年底）为研究对象，通过对其评价指标定量化和权重分配处理，计算了各物种的“濒危系数”和“优先保护值”，确定了其濒危等级及优先保护次序。结果表明：236 种广西苦苣苔科植物中有 58种处于极危状态（CR)，有70 种处于濒危状态（EN)，有72种处于易危状态（VU)，有31种处于近危状态（NT)，有5种处于无危状态（LC);优先保护值范围在 $0 . 9 5 2 { \\sim } 0 . 4 2 9$ 之间，其中I级保护植物107种，Ⅱ级保护植物75种，III级保护植物28种，IV级保护植物26种。该研究结果与国家级、省级植物保护的种类和级别以及根据文献和 IUCN 物种红色名录所综合得出的濒危等级情况在部分种类上存在着一定的差异，但与目前广西分布的苦苣苔科植物所受保护与受破坏的现象基本一致，大部分苦苣苔科植物在广西所遭受的威胁程度正在进一步加强，应当引起重视。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：广西，苦苣苔科，评价，濒危程度，优先保护中图分类号：Q948.3 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on endangered degree and conserved levels for plants of Gesneriaceae in Guangxi ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GE Yuzhen, XIN Zibing, LI Shu, FU Longfei, WEN Fang (Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences, Guilin 541006,Guangxi, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Based on data collection and field investigation, 236 species belonging to 24 genera of Gesneriaceae distributed in Guangxi were selected as the research objects by the end of 2O18.The \"coefficient of endangerment\"and the “value of superior conservation” were obtained through index quantification and weight allocation, thus the endangered levels and conservation priority classes were determined. The results showed that there were 58 critically endangered species,70 endangered species,72 vulnerable species,31 near threatened species,5 least concern species; the value of conservation priority ranged from 0.952-0.429,107 species were in the first grade protection,75 species as the second grade, 28 species as the third grade and 26 species as the fourth grade. The results are basically consistent with the protection and destruction of Gesneriaceae in Guangxi, but there were some differences between the species and levels of plant protection at national and provincial level. Most of the Gesneriaceae plants are under threat in this area,which should be paid more attention to. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: Guangxi, Gesneriaceae, evaluation, endangered degree, conservation priority ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生物多样性保护日益受到国际社会的高度重视，各国政府和科学家通过多方面多渠道，采取多种保护措施进行保护。然而，从保护的效率上来考虑，保护行动应有明确的目标或重点的对象（地区或类群等）（马克平，2001)。因此，评定物种的濒危状况和保护级别是一个国家或地区有效开展物种保护工作的前提，也是当前保护生物学研究的焦点问题（曹伟等，2012)。近年来，国内外学者对珍稀濒危植物优先保护评价的定量研究开展了大量工作（Rana& Samant,2010；石道良等，2011；Safonf et al.,2012；汪书丽等，2013；陈瑞冰等，2015；彭乾乾等，2017)，这些研究多以某个自然保护区内的植物为对象，根据实际情况设计了不同的评价体系，进行了珍稀濒危保护植物优先保护定量研究。而以某个类群为对象的研究则比较少见，刘蔚漪等（2011）对云南省珍稀濒危竹类进行了优先保护定量评价，其评价结果为云南竹类珍稀种质资源的保护提供了相关的参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苦苣苔科（Gesneriaceae）植物大多为多年生草本，在全世界约有150 属3500 种（Weberet al.,2013)，广泛分布于亚洲东部和南部、非洲、欧洲南部、大洋洲、南美洲至墨西哥等热带至温带地区。我国是苦苣苔科植物的分布中心之一，种类十分丰富，根据最新研究资料表明，截止2020年3月，我国共记录有苦苣苔科植物44属757种（含种下单位）（许为斌等，2017；温放等，2019，2020)。在我国，该科植物主要分布于长江以南，华南的广西和邻近的石灰岩区域以及西南更是这类植物的分布和多样性中心，同时大多数种类还有着分布范围狭窄、数量少等特点，其生存环境易受人为因素的威胁。在苦苣苔科植物中，有5种被《国家重点保护野生植物名录（第一批)》列为国家I级或Ⅱ级重点保护野生植物（国家林业局，1999)。《中国物种红色名录（第一卷)》中，有38种苦苣苔科植物濒危状况被评估（汪松和解焱，2004)，《中国高等植物受威胁物种名录》中评估了496 种苦苣苔科植物，其中有 73种受威胁（覃海宁等，2017)。然而这些评价多是从全国范围情况来考虑的，而且多为定性评价的结果。根据我们持续多年的野外跟踪调查，很多苦苣苔科植物在广西乃至华南和西南地区其濒危状况和上述文献中涉及的评估结果颇有差异，如何对广西苦苣苔科植物受威胁状况进行更精准的评估，对于苦苣苔科乃至将来拓展到其他科属珍稀植物的有效保护，具有较为重要的现实意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究以分布于广西壮族自治区（以下简称广西）的苦苣苔科植物（含自1998年中国植物志（英文版）（Wang etal.,1998）出版以来至2018年12月31日之间发表的分布于广西的新分类群）为研究对象，通过对其受威胁程度的定量分析和综合评价，确定其在广西区内的濒危程度和优先保护等级，以期为相关学者及有关部门制定具体的保护措施提供科学依据，也为将来从遗传多样性、就地保护和迁地保护等多角度实施保护措施奠定研究基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1自然概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "广西位于 $1 0 4 ^ { \\circ } 2 6 ^ { \\prime } - 1 1 2 ^ { \\circ } 0 4 ^ { \\prime } \\textrm { E }$ ， $2 0 ^ { \\circ } 5 4 ^ { \\prime } - 2 6 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { ~ N ~ }$ 之间，总面积23.67万 $\\mathrm { k m } ^ { 2 }$ 。地处云贵高原的东南边缘，两广丘陵西部，南面朝向北部湾，地跨北热带、南热带和中亚热带。广西有海拔 $2 0 0 0 \\mathrm { m }$ 以上的高山，也有海拔较低的平原、台地、谷地和丘陵。境内还有面积广大的喀斯特地貌出露于地表的碳酸盐约占全区总面积的 $40 \\%$ ，形成风景壮丽的峰丛、峰林、洞穴、溶蚀平原及河谷（王映文，1986)。广西地处低纬度地区，热量丰富，由于南北跨约5个纬度，不同地区气温相差较大，从南到北，年平均气温 $1 8 { \\sim } 2 3 \\ \\mathrm { ~ \\textdegree C }$ ，高海拔地带年均气温更低， $\\geq 1 0 \\ \\mathrm { ^ { \\circ } C }$ 年积温 $8 3 0 0 { \\sim } 5 6 0 0 ^ { \\circ } \\mathrm { C }$ 。广西为季风气候区，雨量丰富，年降水量一般在$1 3 0 0 { \\sim } 1 8 0 0 \\mathrm { m m }$ 之间，但各地差异明显，有雨季和旱季之分。土壤类型主要有砖红壤、赤红壤、红壤、黄壤、石灰土、紫色土和滨海盐土。广西复杂的地形地貌、不同的气候条件，为各种植物生存和发展提供了良好条件，孕育了极其丰富的植物区系，据不完全统计，广西有维管植物8565种，隶属于285科1819属。其中蕨类植物56科153属845种，种子植物229 科1666属7720种，仅次于云南而位居全国第二位(苏志尧等，1996；黄仕训等，2006；韦毅刚，2008)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1广西分布苦苣苔科植物的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "依据相关文献资料（许为斌等，2017；温放等，2019）、最近开展的广西本土植物全覆盖项目调查资料（韦毅刚等，2019）以及1998年至2018年12月31日止发表的所有产于广西的新分类群文献，共整理出广西已知分布的苦苣苔科珍稀特有植物237种（其中现存分布236 种,特有单型属圆果苣苔属(Gyrogyne W.T.Wang)的圆果苣苔(G. subaequifolia W.T.Wang)已被评为野外灭绝（EW）的等级)。确定广西苦苣苔科植物的珍稀与特有程度主要遵循以下原则：被《国家重点保护野生植物名录（第一批)》（国家林业局，1999）、《中国物种红色名录（第一卷)》（汪松和解焱，2004）及《中国高等植物受威胁物种名录》（覃海宁等，2017）评估的在广西有分布的珍稀濒危种类和受威胁的种类以及一些分布狭窄、数量稀少的种类，包括属于中国特有种和广西特有种以及在新分类群发表时经作者审定属于除无危（LC）和数据缺乏（DD）以外的所有IUCN濒危等级。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评价指标的建立与计算",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在参考其他学者对珍稀濒危植物优先保护定量研究的基础上（周繇,2006；曹伟等,2012;汪书丽等，2013；陈瑞冰等，2015；彭乾乾等，2017)，根据苦苣苔科植物的生物学特性，将指标做了相应的改动以适合于广西的具体实际情况。通过对珍稀特有植物的评价指标赋值计算出濒危系数、利用价值系数、保护现状系数和繁殖难易系数的优先保护值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1濒危系数：用以表示广西苦苣苔科珍稀特有植物在自然分布状态下其种群的濒危程度，指标见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/df8d56dcfb0800643b6fa5707f11e4b3a7e31d930b37a942878e49b8c367cc84.jpg",
+        "table_caption": [
+            "表1广西苦苣苔科珍稀特有植物濒危系数评分表",
+            "Table 1 Scoring of the endangered coefficient of rare and endemic plants for "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">Gesneriaceae in Guangxi</td></tr><tr><td>评定指标</td><td>定性描述</td><td>评分</td></tr><tr><td>Evaluation index</td><td>Qualitative description</td><td>Score</td></tr><tr><td>国内分布频度</td><td>1 省/区分布 Distribution of 1 province/region</td><td>5</td></tr><tr><td>Frequency in China</td><td>2～3 省/区分布 Distribution of 2 to 3 province/region</td><td>4</td></tr><tr><td rowspan=\"6\">广西分布频度</td><td>4～6 省/区分布 Distribution of 4 to 6 province/region</td><td>3</td></tr><tr><td>7～10 省/区分布 Distribution of 7 to 10 province/region</td><td>2</td></tr><tr><td>11 省/区以上分布 Distribution of 11 province/region and above</td><td>1</td></tr><tr><td>1～2 市(县)分布 Distribution of 1 to 2 cities or counties Frequency in Guangxi</td><td>5</td></tr><tr><td>3～5 市(县)分布 Distribution of 3 to 5 cities or counties</td><td>4</td></tr><tr><td>6～10 市(县)分布 Distribution of 6 to 10 cities or counties</td><td>3</td></tr><tr><td></td><td>11～15 市(县)分布 Distribution of 11 to 15 cities or counties</td><td>2</td></tr><tr><td></td><td>16 市(县)及以上分布 Distribution of 16 cities or counties and above</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8335dd6be87048411c87d91e00aae45c8e59cb5c7d65f3f75ed4761bf78676c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：\\*表示通过以下方式获得 $\\textcircled{1}$ 通过原产地当地居民的访谈； $\\textcircled{2}$ 原产地基建及林地地块使用估算； $\\textcircled{3}$ 最近10年左右的天气变化情况； $\\textcircled{4}$ 灾难性的极端天气情况（如长时间干旱、高级别台风等）和地质灾害（如山体滑坡等）等。"
+        ],
+        "table_body": "<html><body><table><tr><td>广西现存多度</td><td>草本植物（株）Herb (Individual plant)</td></tr><tr><td>Abundance in Guangxi</td><td><50 5</td></tr><tr><td>50~200</td><td>4</td></tr><tr><td>201~1000</td><td>3</td></tr><tr><td>1 001~10 000</td><td>2</td></tr><tr><td>>10 000</td><td>1</td></tr><tr><td>种群消失速度* Populationdisappearance</td><td>在近 50a间种群消失快 (种群消失大于原种群的1/2) 3</td></tr><tr><td></td><td>The population disappeared more than half of the original population in</td></tr><tr><td>rate*</td><td>the past 50 years</td></tr><tr><td></td><td>在近 50a 间种群消失中等(种群消失为原种群的 1/4～1/2) 2 The population disappeared to 1/4～1/2 of the original population in</td></tr><tr><td></td><td>the past 50 years</td></tr><tr><td></td><td>在近 50a 间种群消失缓慢(种群消失为原种群的1/4 以下) 1</td></tr><tr><td></td><td>The population disappeared to less than 1/4 of the original population</td></tr><tr><td>种群结构</td><td>in the past 50 years</td></tr><tr><td>Age structure</td><td>衰退型 Becession type 3</td></tr><tr><td></td><td>间歇型Intermittent type 2</td></tr><tr><td>抗灾能力</td><td>稳定型 Stable type 1</td></tr><tr><td></td><td>抗灾能力弱Weak type 3</td></tr><tr><td>Disaster resistance 抗灾能力强 Strong type</td><td>抗灾能力中等Moderate type 2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Note: \\* means getting in the following ways $\\textcircled{1}$ Interview with local residents of origin; $\\textcircled{2}$ Original capital construction and forest land use estimation; $\\textcircled{3}$ Weather changes in the last 1O years or so; $\\textcircled{4}$ Catastrophic extreme weatherconditions (such as prolonged drought, high-level typhoons,etc.)and geological disasters (such as landslides,etc.), etc. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在对上述表格中的6项指标定量评价后，计算各物种的濒危系数 $( \\mathbf { C _ { \\lambda ^ { \\sharp } } } )$ ，计算公式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { \\bf ~ C } } _ { { \\mathrm { \\bf ~ \\tiny ~ s p } } } = \\sum _ { i = 1 } ^ { 6 } X i / \\sum _ { i = 1 } ^ { 6 } M a X i\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $X i$ 为各项评价指标实际得分；MaXi为各项指标评价指标最高得分。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据濒危系数 $( \\mathbf { C _ { \\lambda ^ { \\sharp } } } )$ 值大小和国际濒危物种等级新标准（单章建等，2019)，物种濒危等级分为：极危（CR） ${ \\bf C } _ { \\mathrm { \\small \\ s g } } > 0 . 9 0$ ，濒危（EN） $\\mathrm { { C \\it \\ s u } } = 0 . 8 0 { \\sim } 0 . 9 0$ ，易危（VU） ${ \\bf C } _ { \\mathrm { \\tiny ~ \\it { 3 5 } } } = 0 . 6 0 \\sim$ 0.79，近危（NT） $\\mathrm { \\Delta C \\ a \\it { s } } = 0 . 4 0 \\sim 0 . 5 9$ ，无危（LC） $\\mathbf { C _ { \\lambda ^ { \\ast } \\lambda } } { < } 0 . 4 0$ （汪松和解焱,2004；汪书丽等，2013)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2利用价值系数：用以表示苦苣苔科植物在科研、经济、社会、生态等方面的价值大小，主要指迄今被人们认识并开发利用或具潜在的开发利用价值高低大小，如在观赏、科研、绿化、药用、食用等多方面的价值。评分最高设5分，其中：5分为具有很高的观赏、食用、药用价值以及重要的育种材料；4分为具有较好的观赏、食用、药用价值的种类；3分为具有一般观赏、食用、药用价值的种类；2分为观赏、食用、药用价值较差的种类；1分为无特殊用途的种类或目前发现仅具有基因保存价值的种类。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用价值系数（C价）计算公式为 $\\mathrm { { C } } _ { \\mathfrak { G } } { _ { = } } X / 5$ ，式中， $X$ 为各项评价指标实际得分2.2.3 保护现状系数：指迄今已采用保护措施的情况下，珍稀濒危植物得以保护的程度。其主要指标分为就地保护和迁地保护现状。就地保护现状根据广西苦苣苔科植物在原产地自然条件下受到保护的种群量大小而进行评分，最高设为4分，其中：4分为未进行就地保护或其已知所有的分布点都不在任何保护区、保护小区内，或已知的分布点自然生境目前已经受到各种因素（包括自然因素和人为因素）的影响；3分为有少量种群个体或1/4种群量以下的个体处于自然保护区、国家森林公园等受保护的栖息地内；2分为有部分个体或 $1 / 4 { \\sim } 1 / 2$ 种群量的个体位于上述的受保护栖息地内；1分为充分保护，有足够植株或1/2种群量以上植株处于自然保护区内。迁地保护现状最高设4分，根据多年来对苦苣苔科植物进行迁地保护的数量或扩大栽培的数量来评分。未有任何迁地保护措施，或虽经过迁地保护实验，引种后很难实现从种子到种子的一个生活史周期，或始终未能成活的评为4分；迁地能够引种成活，在一定特殊条件保障下便可以实现种子到种子的生活史周期的、或经种子及营养繁殖在100株以内的评为3分；较易于引种成活、在生长温室保护地内较容易实现生活史更替者、或繁殖量在 $1 0 0 { \\sim } 5 0 0$ 评为2分；极易引种成活、无需特殊护理能够自行完成整个生活史周期、引种营养繁殖或种子繁殖总繁殖量超过500 株的评为1分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "保护现状系数（ $\\mathbf { C } _ { \\mathit { l } _ { \\mathbb { K } } ^ { \\mathtt { H } } }$ ）计算公式为 $\\mathbf { C _ { \\ : \\Uparrow } } = \\sum _ { i = 1 } ^ { 2 } X i / \\sum _ { i = 1 } ^ { 2 } M a X i$ 式中， $X i$ 为各项评价指标实际得分，MaXi为各项指标评价指标最高得分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.4繁殖难易系数：主要指广西苦苣苔科珍稀植物迁地保护繁殖的难易程度。最高设3分，其中：3分为难繁殖（主要指播种繁殖难，发芽率不超过 $5 0 \\%$ 。扦插繁殖很难成活)；2分为繁殖难度中等（发芽率一般低于 $20 \\%$ ，扞插难度中等)；1分为各种繁殖方法都较容易，成活率高。其中，依托于广西植物研究所和桂林植物园的中国苦苣苔科植物保育中心（Gesneriad Conservation Center of China,GCCC）建立有低温种子库，已经收集了广西 $70 \\%$ 以上该科物种的种子，并在种子入库前按照属一等级开展了部分发芽实验，如陆氏石山苣苔和靖西石山苣苔（吴昊天，2017)，同时也参考部分关于我国及我区苦苣苔科植物种子萌发和发芽率的相关研究成果，如弥勒苣苔（Huetal.,2020）、盾叶粗筒苣苔和吊石苣苔等（赵大克等，2010)。综合从已掌握的同属物种角度出发进一步估算同属物种的种子萌发难易程度，结合在GCCC日常繁殖工作中使用的叶插、枝插等繁殖方式，得到本部分的计算公式。繁殖难易系数（ $\\mathrm { ~ C ~ } _ { \\ast }$ ）计算公式为 ${ \\mathrm { C } } _ { \\ast \\ast = X i / 3 }$ ，式中 $X i$ 为各项评价指标实际得分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3优先保护值的计算及等级划分",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据上述10个评价指标的相对重要程度而确定，经过各种资料反复研讨（周繇,2006;曹伟等，2012；陈瑞冰等，2015；彭乾乾等，2017；韦毅刚，2019)，确定权重分配：濒危系数为 $5 5 \\%$ ；利用价值系数为 $1 5 \\%$ ；保护现状系数为 $20 \\%$ ；繁殖难易系数为 $10 \\%$ 。优先保护等级根据优先保护值 $( \\textbf { V } _ { \\mathbb { R } } )$ ）评定： $\\begin{array} { r }  \\textbf { V } _ { \\mathrm { f i } } = 5 5 \\% \\cdot \\textbf { C } _ { \\mathrm { p } \\mathrm { s i n } } + 1 5 \\% \\cdot \\textrm { C } _ { \\mathrm { f i } \\mathrm { r } } + 2 0 \\% \\cdot \\textrm { C } _ { \\mathrm { f i } } + 1 0 \\% \\cdot \\textrm { C } _ { \\frac { \\mathrm { s i n } } { \\mathrm { s i n } } } \\mathrm { o } \\end{array}$ （20",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "优先保护级别： $\\mathrm { ~ V ~ } _ { \\nparallel } > 0 . 8 0$ ，急需保护，推荐优先保护等级为I级； $0 . 7 0 { < } \\mathrm { V } _ { \\mathrm { ~ } \\mathrm { f f } } { \\leqslant } 0 . 8 0$ 需要保护，推荐优先保护等级为Ⅱ级； $0 . 6 0 { < } \\mathrm { V } _ { \\mathrm { \\# } } { \\leqslant } 0 . 7 0$ ，适当保护，推荐优先保护等级为III级；V ${ \\mathfrak { x } } \\leqslant 0 . 6 0$ ，可以考虑在种群数量、生境等尚未受到严重危险，推荐目前维持原状，列为IV级。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1广西苦苣苔科珍稀特有植物的濒危程度",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表2可知，根据濒危系数 $( \\mathbf { C _ { \\lambda ^ { \\sharp } } } )$ 值的大小对广西苦苣苔科珍稀特有植物进行了分类，濒危程度情况为：评价为极危（CR）的有58种，占总种数的 $2 4 . 5 7 \\%$ ，主要种类有环江石蝴蝶、裂檐苣苔、方鼎苣苔、碎米荠叶报春苣苔、德保报春苣苔、瑶山苣苔、广西石山苣苔等；濒危（EN）的有70种，占总种数的 $2 9 . 6 6 \\%$ ，主要种类有报春苣苔、刺齿报春苣苔、红苞半蒴苣苔、广西异唇苣苔、弥勒苣苔、广西粗筒苣苔等；易危（VU）的有72种，点总种数的 $3 0 . 5 1 \\%$ ，主要种类有药用报春苣苔、条叶报春苣苔、毡毛后蕊苣苔、细叶蛛毛苣苔、匍茎短筒苣苔、小花苣苔等；近危（NT）的有31种，占总种数的 $1 3 . 1 4 \\%$ ，主要种类有单座苣苔、广西芒毛苣苔、紫花马铃苣苔、东南石山苣苔、桂黔吊石苣苔、大苞漏斗苣苔等；无危（LC）的有5种，分别是蚂蝗七、华南半蒴苣苔、旋蒴苣苔、贵州半蒴苣苔、牛耳朵。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2广西苦苣苔科植物优先保护等级评价",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据优先保护值的划分，由表2看出，被评为I级优先保护植物共有107种，占总种数的 $45 . 3 4 \\%$ ，主要种类有蒙自石蝴蝶、卷缘马铃苣苔、吴氏报春苣苔、珙桐状报春苣苔、黄花半蒴苣苔、密叶蛛毛苣苔等，它们的共同特点是种群极少，个体数量不多；Ⅱ级优先保护植物共有75种，点总种数的 $3 1 . 7 8 \\%$ ，主要种类有黄花牛耳朵、盾叶蛛毛苣苔、小横蒴苣苔、广西芒毛苣苔等；级优先保护植物共有28种，占总种数的 $1 1 . 8 6 \\%$ ，主要种类有单座苣苔、网脉蛛毛苣苔、药用报春苣苔、条叶报春苣苔、稀裂圆唇苣苔等；IV级优先保护植物有 26种，点总种数的 $1 1 . 0 2 \\%$ ，主要种类有河池报春苣苔、软叶大苞苣苔、湘桂马铃苣苔、紫花马铃苣苔、华南半蒴苣苔等。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "广西地处我国苦苣苔科植物分布中心，目前已知这一区域共有苦苣苔科珍稀特有植物24属236种。依据濒危系数（C濒）划分，其中极危种58种，濒危种70种，易危种72种，近危种31种，无危种5种；依据优先保护值（V优）评价划分为4个优先保护级别，其中I级107种，I级75种，I级 28种，IV级26种。《中国物种红色名录（第1卷)》中已评估的38种苦苣苔科珍稀濒危植物中有16种分布于广西，其中有14种被评估为极危（汪松和解焱，2004)。《中国高等植物受威胁物种名录》中评估了21种广西分布的苦苣苔科珍稀濒危植物，其中有8种极危（覃海宁等，2017)。在本研究的濒危程度评价结果中，被评为极危的种数就有58种，远远超出了红色名录收录的种数。目前被《国家重点保护野生植物名录（第一批)》收录的，已被优先保护的濒危苦苣苔科植物较少，在广西分布的仅有单座苣苔、瑶山苣苔和报春苣苔3个种被列为国家I级重点保护野生植物。但实际上除瑶山苣苔外，其余两个种从已经探明的种群大小、分布地范围、受自然和人为影响的程度出发，都已低于极危的标准。因此，在本研究结果仍然保持了瑶山苣苔的优先保护级别（I级)，其它两种都相应地降级了。另外，随着时间的推移和调查的日益深入，该科在广西分布的其它很多种类也被提升了优先保护级别，广西分布的苦苣苔科植物的生存环境和濒危现状得到了较真实的反映。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "作者所在团队前后考察时间长达20多年，基本对广西已知分布的所有苦苣苔科植物的产地展开了详细调查，掌握了海量的信息，并综合借鉴了较为全面的评价方法，评价结果的准确性和可靠性是有科学依据的，其结果与目前广西地区苦苣苔科植物受保护、受破坏的现象基本一致。但本研究制定的评价体系结果与国家级、省级植物保护的种类和级别在一些种类上存在着一定的差异。如条叶报春苣苔在中国物种红色名录上被列为极危（汪松和解焱，2004)，但是实际考察发现种群蕴含量较大，评价结果排在第185位，而刺齿报春苣苔则因为仅1个分布点，评价结果列在60位。再如，蒙自石蝴蝶在广西仅发现一个分布点，数量不足20株，尽管该种在云南蕴含量较大，但是本研究中必须考虑到仅局限在广西境内的数量，因此排名非常靠前，同样的现象还发生在了弥勒苣苔、蛛毛苣苔等物种之上。这充分说明，除了部分特产自广西的类群外，如果站在广西局部的角度来看，一些物种可能是濒危至极危的，但是站在华南、西南乃至全国的角度上看，它们则可能并不是濒危的物种。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近年来随着植物学研究者针对南方喀斯特及丹霞地貌的特殊生境深入考察，从2005 年1月开始到 2018年12月为止的13年间，共有191个在中国境内发表报道的苦苣苔科新分类群和3个中国分布新记录，发表于广西的新分类群达90种之多，占 $4 6 . 3 9 \\%$ （辛子兵等，2019)。新发表的种类数量则以广义报春苣苔属（Primulina）和广义石山苣苔属(Petrocodon)居多，这些新分类群绝大多数分布范围狭窄，种群数量少，极端依赖于特化的小生境，这也是和多数报春苣苔属和石山苣苔属植物在评价中处于濒危的保护等级状况相符。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1998 年后发表的广西分布的新分类群，除受评估物种由作者野外根据已知种群直接统计外，其他主要评价依据来源于该新分类群发表时的文章所提供的IUCN濒危等级及相关数据。如在文章发表中发现方鼎苣苔仅有43株（韦毅刚，2004)，桂林蛛毛苣苔野外仅存 20余株（徐良和韦毅刚，2004)，红苞半蒴苣苔仅发现个1个居群，且个体总数不超过100株（李振宇和刘演，2004)。这些数据随着对目标物种野外种群的进一步深入调查会有不间断的更新，从而对评价的结果会有一定的影响，但总体来说，文章发表时候的相关数据仍然对该物种的濒危现状评价有很大的参考价值。我们在前期的研究中，曾经充分地使用了国际上最新的IUCN物种红色名录濒危等级(标准3.1版)（韦毅刚等，2010)，也重点参考了中国红色植物名录评价体系的结果，但是在本研究中得到的结论显示三者并未全面达成一致，这固然有着随着野外考察的深入，一些基础数据实时不断更新的因素在内，也表明还需要在后续的科研中进一步深入研究和分析。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "生物多样性的保护依赖人与环境的和谐相处。在野外进行实地调查时发现，许多苦苣苔科植物种群逐渐变小，甚至有的已灭绝（如圆果苣苔）（李振宇和王印政，2005；韦毅刚等，2019，2010)。大部分苦苣苔科植物适应于较为特化的小生境，很多物种主要生长在热带亚热带雨林、季雨林和常绿阔叶林的林下、石灰岩洞穴、峡谷、岩穴、悬崖、近水地带（尤其是岩性地段）等。但目前由于石漠化和人为破坏，造成很多苦苣苔科植物生境受到影响，种群难以恢复。传统药用植物的涸泽而渔、焚林而猎式的过度采集让苦苣苔科植物中的许多具有药用价值的种类（如弄岗报春苣苔、河池报春苣苔、桂林小花苣苔等，（李振宇和王印政，2005；黄宁珍等，2010;Weber etal.,201la；覃国乐等，2013）受到威胁，直接造成了种群的严重衰退甚至死亡。不同的科研院所、大专院校对于同一种试验材料的反复、重复采集造成的居群破坏甚至种群退化、衰竭和消亡。这一影响主要是发生在对该物种模式标本采集地的模式居群的过度利用和采集上（温放，2008)。对广西苦苣苔科植物的生物多样性和重要程度认识不够，没有积极开展对于分布区内的人民群众的科普宣传和教育，长期以来缺乏有效的保护措施，也是造成苦苣苔科植物资源不断减少的重要原因之一（黎舒等，2018）。因此，对本区苦苣苔科植物资源的保护应引起足够重视，加大宣传力度，增强保护意识，加强濒危机理等方面的科学研究，实行就地和迁地保护，科学合理开发利用资源，有效地对植物进行保护。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "CAO W，LI Y，CONG XX，2012.Quantitative evaluation of conservation priority of theendangered plants in Northeast China[J]．For Res，25(2):190-194．[曹伟，李岩，丛欣欣，2012．中国东北濒危植物优先保护的定量评价[J]．林业科学研究，25(2):190-194.]CHEN RB， ZHANG GF，2015. Endangerment grade and protection priority of rare plant speciesin Baohuashan National Forest Park[J]．JEco Rur Environ，2:174-179.[陈瑞冰，张光富,2015．江苏宝华山国家森林公园珍稀植物的濒危等级及优先保护［J]．生态与农村环境学报，2:174-179.]HU XJ,LIU C, LI AR, et al., 2O20. Effect of temperature and moist conditions on seed dormancycycling of two sympatric limestone species, Begonia guishanensis and Paraisometrum mileense,",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "in southern China [J]. Seed Sci Res,1-8. https://doi.org/10.1017/S0960258520000069.  \nHUANG NZ,FU CM, ZHAO ZG, et al., 2010. Rapid propagation in vitro of Chiritopsis repandavar.guilinensis[J]．Chin BullBot,45(6): 744-750．[黄宁珍，付传明，赵志国，等,2010,桂林小花苣苔离体快速繁殖技术[J]．植物学报，45(6):744-750．]  \nHUANG SX， TANG WX, WANG Y, et al, 2O06, Distributional characteristics of rare andendangered plants in Guangxi [J]．JFujian For Sci Technol,33（4）169-173．[黄仕训，唐文秀，王燕，等，2006，广西珍稀濒危保护植物分布特征［J]．福建林业科技，33（4)169-173.]  \nLI S，XIN ZB，SU LY, et al.，2018. The importance of protection and conservation forGesneriaceae from the endangered categories of new publishes taxa in China[J].Bot Gard Chin,（21)：24-35.［黎舒，辛子兵，苏兰英，等，2018．从新发表的分类群濒危现状探讨中国苦苣苔科植物保护与保育的重要性[J]．中国植物园，（21)：24-35．]  \nLI ZY，WANG YZ, 2O05. Plants of Gesneriaceae in China [M]. Zhengzhou: Henan Science andTechnologyPublishing House．［李振宇和王印政，2005．中国苦苣苔科植物［M]．郑州:河南科学技术出版社.]  \nLI ZY, LIU Y, 2004. Hemiboea rubribracteata Z. Y. Li &Yan Liu, a new species of Hemiboea(Gesneriaceae) from Guangxi,China [J]． Acta Phytotax Sin,42（6)： 537-540.[李振宇，刘演，2004.广西半蒴苣苔属(苦苣苔科)一新种—红苞半蒴苣苔[J]．植物分类学报，42(6): 537-540.]  \nLIU WY，HUI CM， FAN SH, et al., 2011. Quantitative evaluation of conservation priorities forrare and endangered bamboo species in Yunnan Province [J] . JFujian Coll For, $3 1 ( 1 ) : 7 9 - 8 3$ ：［刘蔚漪，辉朝茂，范少辉，等，2011．云南省珍稀濒危竹种优先保护序列定量评价［J].福建林学院学报，31(1):79-83．]  \nMA KP, 2O01. Hotspots assessment and conservation priorities identification of biodiversity inChina should be emphasized [J]．Acta phytoecol Sin,25(1):124-125．[马克平，2001．中国生物多样性热点地区（Hotspot）评估与优先保护重点的确定应该重视［J]．植物生态学报，25（1)：124-125.]  \nPENG QQ，WANG ZX，LI TT，et al. 2017. Quantitative assessment of priority for rare andendangered plants in Wanchaoshan Nature Reserve of Hubei [J]. Guihaia， 37(7):859-867.[彭乾乾，汪正祥，李亭亭，等．2017．湖北万朝山自然保护区珍稀濒危植物优先保护定量研究[J]．广西植物，37(7):859-867．]  \nQIN GL, QIN WY, WEN F, et al., 2013. Aseptic seeding, tissue culture and rapid propagation ofPrimulina hochiensis[J].Heilongjiang Agric Sci,(8):14-17．[覃国乐，覃文渊，温放，等，2013，河池报春苣苔的无菌播种、组织培养和快速繁殖[J].黑龙江农业科学，(8):14-17.]  \nQIN HN, YANG Y, DONG SY, et al., 2017. Threatened species list of China's higher plants [J].Biodivers Sci,25(7):696-744．[覃海宁，杨永，董仕勇，等，2017．中国高等植物受威胁物种名录［J]．生物多样性，25(7):696-744．]  \nQIN HN, ZHAO LN, YU SX,et al.， 2017. Evaluating the endangerment status of China'sangiosperms through the red list assessment [J] .Biodivers Sci, 25 (7): 745-757． [覃海宁,赵莉娜,于胜祥,等，2017．中国被子植物濒危等级的评估[J］．生物多样性，25（7):745-757. ]  \nRANA MS, SAMANT SS, 2O10. Threat categorisation and conservation prioritisation of floristicdiversity in the Indian Himalayan Region: A state of art approach from manali wildlifesanctuary [J]. JNat Conserv，18: 159-168.  \nSAFONT E, VEGAS-VILAR RUBIA T, RULL V, 2012. Use of environmental impact assessment(EIA） tools to set priorities and optimize strategies in biodiversity conservation [J]. BiolConserv，149: 113-121.  \nSHAN ZJ, ZHAO LN, YANG YC, et al., 2019. An overview on assessment systems for threatenedplants in China[J]．Biodivers Sci,27(12):1352-1363.[单章建，赵莉娜，杨宇昌，等,2019.中国植物受威胁等级评估系统概述[J]．生物多样性，27(12):1352-1363.]  \nSHI DL，MEIH， ZHANG Y， et al.， 2011．Quantitative study on priority for conservation ofthe wild protected plants in Houhe National Nature Reserve [J]. JHubei For Sci Technol,2:12-18．［石道良，梅浩，张云，等，2011．后河自然保护区野生保护植物优先保护定量研究［J]．湖北林业科技，2:12-18.]  \nSU ZY,LIAO WB, CHANG HT, 2019. Vegetational and floristic characteristics of Guangxi I.Natural conditions and floristic composition [J]． Suppl J Sun Yatsen Univ,2：81-86.[苏志尧，廖文波，张宏达，1996.广西植被和植物区系基本特征I．自然条件及植物区系的组成[J]．中山大学学报论丛，（2)：81-86.]  \nThe State Forestry Administration，Ministry of Agriculture,1999.The four thorder of the StateForestry Administration，Ministry of Agriculture.List of wild plants of national priorityprotection［S]．[国家林业局，农业部，1999．国家林业局，农业部令(第4号）．国家重点保护野生植物名录(第一批)[S].]  \nWANG S,XIE Y,2004. China species red list, Vol.1: Red List [M].Beijing: Higher EducationPress.[汪松，解焱,2004．中国物种红色名录，第1卷：红色名录[M]．北京：高等教育出版社.]  \nWANG SL,LUO J，LANG XD，et al., 2013． Evaluation of conservation priority on rare andendangered plants in Shegyla mountains [J]． Acta Boreal-Occident Sin(Nat Sci Ed),1:177-182.[汪书丽，罗建，郎学东,等,2013.色季拉山珍稀濒危植物优先保护研究[J].西北植物学报(自然科学版)，1:177-182.]  \nWANG YW,1986. On the Karstic morphology of Guangxi [J].Geol Guangxi,6(1): 71-75.[王映文，1986．略论广西岩溶地貌［J]．广西地质，6（1)：71-75．]  \nWANG WT,PAN KY, LI ZY, et al.,1998． Gesneriaceae[M]//WU CY,RAVEN PH. Floraof China. Beijing: Science Press; St. Louis: Missouri Botanical Garden Press.  \nWEBER A，CLARK JL，MOLLER M，2013．A new formal classification of Gesneriaceae[J]．Selbyana, $3 1 ( 2 ) : 6 8 - 9 4$ ：  \nWEBER A，MIDDLETON DJ，FORREST AL，et al.，2011a. Molecular systematics andremodeling of Chirita and associate genera（Gesneriaceae）[J]． Taxon， 6O: 767-790.  \nWEI YG, 2004. Paralagarosolen Y. G. Wei, a new genus of the Gesneriaceae from Guangxi ,China[J]．Acta Phtotax Sin,42（6)：528-532．[韦毅刚，2004.广西苦苣苔科一新属—方鼎苣苔属[J]．植物分类学报，42（6)：528-532.]  \nWEI YG, 2Oo8.Fundamental features of Guangxi flora of China [J]. Acta Bot Yunnan, 30 (3):295－307．[韦毅刚，2008．广西植物区系的基本特征[J]．云南植物研究,30(3):295-307.  \nWEI YG, WEN F,FULF, et al.,2019.The distribution and conservation status of Native PlantsinGuangxi, China [M].Beijing: China Forestry Publishing House.[韦毅刚，温放，符龙飞，,等.2019.广西本土植物及其濒危状况［M］．北京：中国林业出版社.]  \nWEI YG, WEN F, MOLLER M, et al.,2010. Gesneriaceae of South China [M]. Guangxi Scienceand Technology Pubilishing House．［韦毅刚，温放，Michael Moller，等，2O10．华南苦苣苔科植物［M]．南宁：广西科学技术出版社.]  \nWEN F, 2OO8. Studies on Investigation and Introduction of Wild Ornamental Resources ofGesneriaceae in Guangxi[D].Beijing: Beijing Forestry University.[温放，2Oo8.广西苦苣苔科观赏植物资源调查与引种研究[D]．北京：北京林业大学.]  \nWEN F,LL S, XIN ZB,et al, 2O19.The updated plant list of Gesneriaceae in China under the newChinese naming rules [J]. Guangxi Sci, $2 6 ( \\ 1 ) : 3 7 - 6 3$ ．［温放，黎舒，辛子兵，等,2019.新中文命名规则下的最新中国苦苣苔科植物名录［J]．广西科学， $2 6 ( \\mathrm { ~ 1 } ) : 3 7 \\substack { - 6 3 . } ]$ （  \nWEN F，WEI YG,FU LF,et al.，2020. The Checklist of Gesneriaceae in China [EB/OL].http://gccc.gxib.cn/cn/about-68.aspx.[温放，韦毅刚，符龙飞，等，2020．中国苦苣苔科植物名录 [EB/OL]. Available download from http://gccc.gxib.cn/cn/about-68.aspx.]  \nWU HT, 2017. Study on habitat adaptation of two karst-cave dwelling Petrocodon (Gesneriaceae)species[D].Wuhu:Anhui Normal University.［吴昊天，2017．两种岩溶穴居性石山苣苔属植物的生境适应性研究[D]．芜湖：安徽师范大学.]  \nXIN ZB，FU LF，LI S，et al.,2019. The historical changes in the classification of Chinesegesneriaceae: On the analysis of new taxonomic group qualifiedly published in China and newrecords of national distribution of this family[J]. Guangxi Sci，26(1):102一117.[辛子兵,符龙飞，黎舒，等，2019.中国苦苣苔科植物的分类系统历史变化—一兼论该科植物在我国合格发表的新分类群与国家级分布新记录情况分析[J]．广西科学，26（1)：102-117.]  \nXU L,WEI YG, 2OO4. Paraboea guilinensis L. Xu &Y. G. Wei, a new species of Gesneriaceaefrom Guangxi,China [J]．Acta Phytotax Sin,42(4):380-382．[徐良，韦毅刚，2004．中国广西蛛毛苣苔属(苦苣苔科)一新种——桂林蛛毛苣苔[J].植物分类学报，42(4):380-382.]  \nXU WB，GUO J，PAN B，et al., 2O17.Diversity and distribution of Gesneriaceae in China[J]．Guihaia, $3 7 ( \\ 1 0 ) : 1 2 1 9 - 1 2 2 6$ ．［许为斌，郭婧，盘波，等，2017．中国苦苣苔科植物的多样性与地理分布[J]．广西植物， $3 7 ( 1 0 ) : 1 2 1 9 - 1 2 2 6 . ]$ （  \nZHAO DK,LU YX,SHI JF, et al.， 2010. Seed germination and chromosome numbers ofLysionotus pauciflorus and Briggsia longipes [J]. JYunnan Agric Univ, 25(2): 173-177. [赵大克，鲁元学，石景峰，等,2010．吊石苣苔和盾叶粗筒苣苔的种子萌发及染色体数目观察[J]．云南农业大学学报，25(2):173-177.]  \nZHOU Y,2Oo6.The research on the sequences of preferential protection of the rare andendangered plants in Chang Bai mountains [J]. For Res,19 (6): 740-749.[周繇,2006.长白山区珍稀濒危植物优先保护序列的研究［J]．林业科学研究，19(6)：740-749.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/2601f46c05ef813ecbd808cc41862798317fc892689dc041909f9acd4eac6131.jpg",
+        "table_caption": [
+            "表2236种广西苦苣苔科植物的评价指标",
+            "Table 2 Evaluation indexes of 236 species of Gesneriaceae in Guangxi "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号 Number</td><td rowspan=\"2\">中文名 Chinese name</td><td rowspan=\"2\">学名 Scientific name</td><td rowspan=\"2\">濒危程度 Endangered levels</td><td rowspan=\"2\">C濒</td><td rowspan=\"2\">C价</td><td rowspan=\"2\">C保</td><td rowspan=\"2\">C繁</td><td rowspan=\"2\">V优</td></tr><tr><td></td></tr><tr><td>1</td><td>环江石蝴蝶</td><td>Petrocosmea huanjiangensis Yan Liu & W.B.Xu</td><td>CR</td><td>0.958</td><td>1.000</td><td>0.875</td><td>1.000</td><td>0.952</td></tr><tr><td>2</td><td>蒙自石蝴蝶</td><td>Petrocosmea iodioides Hemsl.</td><td>CR</td><td>0.958</td><td>1.000</td><td>0.875</td><td>1.000</td><td>0.952</td></tr><tr><td>3</td><td>卷缘马铃苣苔</td><td>Oreocharis cotinifolia W.H.Chen & Y.M.Shui</td><td>CR</td><td>0.958</td><td>0.800</td><td>1.000</td><td>1.000</td><td>0.947</td></tr><tr><td>4</td><td>弯管马铃苣苔</td><td>Oreocharis curvituba J.J.Wei & W.B.Xu</td><td>CR</td><td>0.958</td><td>0.800</td><td>1.000</td><td>1.000</td><td>0.947</td></tr><tr><td>5</td><td>裂檐苣苔</td><td>Oreocharis pumila (W.T.Wang) Mich.Moller & A.Weber</td><td>CR</td><td>1.000</td><td>0.800</td><td>0.875</td><td>1.000</td><td>0.945</td></tr><tr><td>6</td><td>方鼎苣苔</td><td>Petrocodon fangianus (Y.G.Wei) J.M.Li & Y.Z.Wang</td><td>CR</td><td>0.958</td><td>1.000</td><td>1.000</td><td>0.667</td><td>0.944</td></tr><tr><td>7</td><td>全缘叶石山苣苔</td><td>Petrocodon integrifolius (D.Fang & L.Zeng) A.Weber & Mich.Moller</td><td>CR</td><td>0.958</td><td>1.000</td><td>1.000</td><td>0.667</td><td>0.944</td></tr><tr><td>8</td><td>吴氏报春苣苔</td><td>Primulina wuae F.Wen & L.F.Fu</td><td>CR</td><td>0.958</td><td>1.000</td><td>1.000</td><td>0.667</td><td>0.944</td></tr><tr><td>9</td><td>周氏小花苣苔</td><td>Primulina bipinnatifida (W.T. Wang) Yin Z.Wang & J.M.Li var. zhoui (F.Wen & Z.B.Xin) W.B.Xu & K.F.Chung</td><td>CR</td><td>0.958</td><td>1.000</td><td>1.000</td><td>0.667</td><td>0.944</td></tr><tr><td>10</td><td>德保报春苣苔</td><td>Primulina debaoensis Neng Jiang& Hong Li</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.942</td></tr><tr><td>11</td><td>恭城报春苣苔</td><td>Primulina gueilinensis Y.S.Huang & Yan Liu</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.942</td></tr><tr><td>12</td><td>獭叶报春苣苔</td><td>Primulina leprosa (Yan Liu & W.B.Xu) W.B.Xu & K.F.Chung</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.942</td></tr><tr><td>13</td><td>王氏报春苣苔</td><td>Primulina wangiana (Z.Y.Li) Mich. Moler & A.Weber</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.942</td></tr><tr><td>14</td><td>碎米荠叶报春苣苔</td><td>Primulina cardaminifolia Yan Liu & W.B.Xu</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.942</td></tr><tr><td>15</td><td>融水报春苣苔</td><td>Primulina rongshuiensis (Yan Liu & Y.S.Huang) W.b.Xu& K.F.Chung</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.942</td></tr><tr><td>16</td><td>光华报春苣苔</td><td>Primulina tribracteata (W.T.Wang) Mich.Moller & A.Weber var. zhuana (Z.Y.Li, Q.Xing & Y.B.Li) Mich.Moller& A.Weber</td><td>CR</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.333</td><td>0.942</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4341ed59ffa8acba8ffc83b54319642bd5725bb3d9647cbb738651f96b54423.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>17</td><td>广西石山苣苔</td><td>Petrocodon guangxiensis (Yan Liu & W.B.Xu) W.B.Xu & K.F.Chung</td><td>CR</td><td>1.000</td><td>0.600</td><td>1.000</td><td>1.000</td><td>0.940</td></tr><tr><td>18</td><td>珙桐状报春苣苔</td><td>Primulina davidioides F.Wen & Xin Hong</td><td>CR</td><td>1.000</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.933</td></tr><tr><td>19</td><td>巨叶报春苣苔</td><td>Primulina gigantea F.Wen, B.Pan & W.H.Luo</td><td>CR</td><td>1.000</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.933</td></tr><tr><td>20</td><td>靖西石山苣苔</td><td>Petrocodon jingxiensis (Yan Liu, H.S.Gao & W.B.Xu) A.Weber &</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>1.000</td><td>0.929</td></tr><tr><td>21</td><td>长毛石山苣苔</td><td>Mich.Moller Petrocodon villosus Xin Hong,F.Wen & S.B.Zhou</td><td>CR</td><td>0.917</td><td>0.800</td><td>1.000</td><td>1.000</td><td>0.924</td></tr><tr><td>22</td><td>齿叶瑶山苣苔</td><td>Oreocharis dayaoshanioides Yan Liu & W.B.Xu</td><td>CR</td><td>0.917</td><td>0.800</td><td>1.000</td><td>1.000</td><td>0.924</td></tr><tr><td>23</td><td>河池石山苣苔</td><td>Petrocodon hechiensis (Y.G.Wei, Yan Liu &F.Wen) Y.G.Wei & Mich.Moller</td><td>CR</td><td>0.917</td><td>1.000</td><td>1.000</td><td>0.667</td><td>0.921</td></tr><tr><td>24</td><td>黑丝报春苣苔</td><td>Primulina melanofilamenta Yan Liu & W.B.Xu</td><td>CR</td><td>0.958</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.910</td></tr><tr><td>25</td><td>薄叶报春苣苔</td><td>Primulina tenuifolia (W.T.Wang) Y.Z.Wang</td><td>CR</td><td>0.958</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.910</td></tr><tr><td>26</td><td>囊筒报春苣苔</td><td>Primulina carinata Y.G.W, F.Wen & H.Z.Lü</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.908</td></tr><tr><td>27</td><td>黄氏小花苣苔</td><td>Primulina huangii F.Wen & Z.B.Xin</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.908</td></tr><tr><td>28</td><td>陆氏石山苣苔</td><td>Petrocodon lui (Yan Liu & W.B.Xu) A.Weber& Mich.Moller</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.750</td><td>1.000</td><td>0.904</td></tr><tr><td>29</td><td>瑶山苣苔</td><td>Oreocharis cotinifolia (W.T.Wang) Mich.Moller & A.Weber</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.750</td><td>1.000</td><td>0.904</td></tr><tr><td>30</td><td>天等石山苣苔</td><td>Petrocodon tiandengensis (Yan Liu & B.Pan) A.Weber & Mich.Moller</td><td>CR</td><td>0.917</td><td>0.800</td><td>0.875</td><td>1.000</td><td>0.899</td></tr><tr><td>31</td><td>石蝴蝶状报春苣苔</td><td>Primulina petrocosmeioides B.Pan & F.Wen</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td></td><td></td></tr><tr><td>32</td><td>丽花石山苣苔</td><td>Petrocodon pulchriflorus Y.B.Liu & W.B.Xu</td><td>CR</td><td>0.917</td><td>0.600</td><td>1.000</td><td>0.667 1.000</td><td>0.896 0.894</td></tr><tr><td>33</td><td>歧色报春苣苔</td><td>Primulina dichroantha F.Wen, Y.G.Wei & S.B.Zhou</td><td>CR</td><td>0.917</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.888</td></tr><tr><td>34</td><td>都安报春苣苔</td><td>Primulina duanensis F.Wen & S.L.Huang</td><td>CR</td><td>0.917</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.888</td></tr><tr><td>35</td><td>变色报春苣苔</td><td>Primulina varicolor (D.Fang & D.H.Qin) Y.Z.Wang</td><td>CR</td><td>0.917</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.888</td></tr><tr><td>36</td><td>褐纹报春苣苔</td><td>Primulina glandaceistriata X.X.Zhu, F.Wen & H.Sun</td><td>CR</td><td>0.917</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.888</td></tr><tr><td>37</td><td>粗丝蛛毛苣苔</td><td>Paraboea crasifila W.B.Xu & J.Guo</td><td>CR</td><td>0.958</td><td>0.400</td><td>1.000</td><td>1.000</td><td>0.887</td></tr><tr><td>38</td><td>浅黄报春苣苔</td><td>Primulina lutescens B.Pan & H.S.Ma</td><td>CR</td><td>0.958</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.885</td></tr><tr><td>39</td><td>多花报春苣苔</td><td>Primulina floribunda (W.T.Wang) Mich.Moller & A.Weber</td><td>CR</td><td>0.958</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.885</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a5bb32fd319bc5da4234281b1ac91b17ce470a804d2898cfda7c6bad2b320ab.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>40</td><td>粗茎报春苣苔</td><td>Primulina crassirhizoma F.Wen,B.Zhao & Xin Hong</td><td>CR</td><td>0.958</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.885</td></tr><tr><td>41</td><td>李氏报春苣苔</td><td>Primulina leeii (F.Wen, Yue Wang & Q.X.Zhang) Mich.Moller & A.Weber</td><td>CR</td><td>0.958</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.885</td></tr><tr><td>42</td><td>贺州小花苣苔</td><td>Primulina hezhouensis (W.H.Wu & W.B.Xu) W.B.Xu & K.F.Chung</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.873</td></tr><tr><td>43</td><td>毛萼圆唇苣苔</td><td>Gyrocheilos lasiocalyx W.T.Wang</td><td>CR</td><td>0.917</td><td>0.800</td><td>0.875</td><td>0.667</td><td>0.866</td></tr><tr><td>44</td><td>匍茎报春苣苔</td><td>Primulina diffusa Xin Hong,F.Wen & S.B.Zhou</td><td>EN</td><td>0.875</td><td>1.000</td><td>1.000</td><td>0.333</td><td>0.865</td></tr><tr><td>45</td><td>阳朔报春苣苔</td><td>Primulina yangshuoensis Y.G.Wei & Fang Wen</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.863</td></tr><tr><td>46</td><td>多裂小花苣苔</td><td>Primulina multifida B.Pan & K.F.Chung</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.863</td></tr><tr><td>47</td><td>紫纹报春苣苔</td><td>Primulina pseudoeburnea(D.Fang&W.T.Wang) Mich.Moller&A.Weber</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.863</td></tr><tr><td>48</td><td>大根报春苣苔</td><td>Primulina macrorhiza (D.Fang & D.H.Qin) Mich.Moller & A.Weber</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.863</td></tr><tr><td>49</td><td>弯花报春苣苔</td><td>Primulina curvituba B.Pan, L.H.Yang & M.Kang</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.863</td></tr><tr><td>50</td><td>短头报春苣苔</td><td>Primulina brachystigma (W.T.Wang) Mich.Moller &A.Weber</td><td>CR</td><td>0.917</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.863</td></tr><tr><td>51</td><td>紫花半蒴苣苔</td><td>Hemiboea purpurea Yan Liu & W.B.Xu</td><td>CR</td><td>0.958</td><td>0.400</td><td>0.875</td><td>1.000</td><td>0.862</td></tr><tr><td>52</td><td>近革叶石山苣苔</td><td>Petrocodon pseudocoriaceifolius Yan Liu & W.B.Xu</td><td>CR</td><td>0.917</td><td>0.600</td><td>1.000</td><td>0.667</td><td>0.861</td></tr><tr><td>53</td><td>异片苣苔</td><td>Allostigma guangxiense W.T.Wang</td><td>CR</td><td>0.958</td><td>0.600</td><td>0.875</td><td>0.667</td><td>0.859</td></tr><tr><td>54</td><td>白萼报春苣苔</td><td>Primulina albicalyx B.Pan & Li H.Yang</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.858</td></tr><tr><td>55</td><td>异色报春苣苔</td><td>Primulina heterochroa F.Wen & B.D.Lai</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.858</td></tr><tr><td>56</td><td>长萼报春苣苔</td><td>Primulina longicalyx (J.M.Li& Y.Z.Wang) Mich.Moller&A.Weber</td><td>CR</td><td>1.000</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.858</td></tr><tr><td>57</td><td>罗城报春苣苔</td><td>Primulina luochengensis (Yan Liu & W.B.Xu) Mich.Moller& A.Weber</td><td>EN</td><td>0.833</td><td>0.800</td><td>0.875</td><td>1.000</td><td>0.853</td></tr><tr><td>58</td><td>宁明报春苣苔</td><td>Primulina ningmingensis (Yan Liu & W. H. Wu) W.B.Xu & K.F.Chung</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.750</td><td>0.667</td><td>0.848</td></tr><tr><td>59</td><td>锈色石山苣苔</td><td>Petrocodon ferrugineus Y.G.Wei</td><td>EN</td><td>0.875</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.846</td></tr><tr><td>60</td><td>刺齿报春苣苔</td><td>Primulina spinulosa (D.Fang & W.T.Wang) Y.Z.Wang</td><td>EN</td><td>0.875</td><td>0.800</td><td>0.875</td><td>0.667</td><td>0.843</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "61 异蕊马铃苣苔 Oreocharis $\\times$ heterandra D.Fang & D.H.Qin CR 0.958 0.600 0.625 1.000 0.842   \n62 焰苞报春苣苔 Primulina spadiciformis (W.T.Wang) Mich.Moller &A.Weber EN 0.833 1.000 1.000 0.333 0.842   \n63 复叶报春苣苔 Primulina pinnata (W.T.Wang) Y.Z.Wang EN 0.833 1.000 1.000 0.333 0.842   \n64 湘桂蛛毛苣苔 Paraboea xiangguiensis W.B.Xu & B.Pan EN 0.875 0.400 1.000 1.000 0.841   \n65 短柄紫花苣苔 Loxostigma brevipetiolatum W.T.Wang & K.Y.Pan EN 0.875 0.400 1.000 1.000 0.841   \n66 弄岗石山苣苔 Petrocodon longgangensis W.H.Wu & W.B.Xu CR 0.917 0.800 0.750 0.667 0.841   \n67 北流报春苣苔 Primulina beiliuensis B.Pan & S.X.Huang EN 0.875 1.000 0.875 0.333 0.840   \n68 博白报春苣苔 Primulina bobaiensis Q.K.Li, B.Pan&Q.Zhang EN 0.875 1.000 0.875 0.333 0.840   \n69 泡叶报春苣苔 Primulina bullata S.N.Lu &F.Wen EN 0.875 1.000 0.875 0.333 0.840   \n70 拟粉花报春苣苔 Primulina pseudoroseoalba Jian Li, F.Wen &L.J.Yan EN 0.875 1.000 0.875 0.333 0.840   \n71 冬花报春苣苔 Primulina hiemalis Xin Hong &F.Wen EN 0.875 1.000 0.875 0.333 0.840   \nPrimulina luzhaiensis (Yan Liu, Y.S.Huang & W.B.Xu) Mich.Moller &   \n72 鹿寨报春苣苔 EN 0.875 1.000 0.875 0.333 0.840   \nA.Weber   \n73 拟线叶报春苣苔 Primulina pseudolinearifolia W.B.Xu & K.F.Chung EN 0.875 1.000 0.875 0.333 0.840   \n74 滇黔石蝴蝶 Petrocosmea martini (H.Lev.) H.Lev. VU 0.750 1.000 0.875 1.000 0.838   \n75 长梗吊石苣苔 Lysionotus longipedunculatus (W.T.Wang) W.T.Wang CR 0.917 0.600 0.875 0.667 0.836   \n76 卷瓣半蒴苣苔 Hemiboea follcularis C.B.Clarke var.retroflexa YanLiu &YS.Huang CR 0.917 0.600 0.875 0.667 0.836   \n77 弥勒苣苔 Oreocharis mileensis(W.T.Wang) Mich.Moller & A.Weber EN 0.833 1.000 0.625 1.000 0.833   \n78 光叶双片苣苔 Didymostigma leiophyllum D.Fang & Xiao.H.Lu EN 0.833 0.600 0.875 1.000 0.823   \n79 小叶报春苣苔 Primulina parvifolia (W.T.Wang) Yin Z.Wang & J.M.Li VU 0.792 0.800 1.000 0.667 0.822   \n80 长檐苣苔 Petrocodon jasminiflorus (D.Fang & W.T.Wang) A.Weber & Mich.Moller EN 0.833 0.800 0.875 0.667 0.820   \n81 天等报春苣苔 Primulina tiandengensis (F.Wen & H.Tang)F.Wen & K.F.Chung VU 0.792 1.000 1.000 0.333 0.819   \n82 河口异叶苣苔 Whytockia hekouensis Yin Z.Wang EN 0.833 0.400 1.000 1.000 0.818   \n83 兔儿风叶石山苣苔 Petrocodon ainaliifolius W.H.Chen & Y.M.Shui EN 0.833 0.400 1.000 1.000 0.818   \n84 弯果奇柱苣苔 Deinostigma cyrtocarpa (D.Fang & L.Zeng) Mich.Moller & H.J.Atkins EN 0.833 1.000 0.875 0.333 0.817 ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/a97c3a1dcdb7aa02c47fe92178f7b732fc45e203691c7f9cac2f44dd466dfb96.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>85</td><td>羽裂小花苣苔</td><td>Primulina bipinnatifida (W.T.Wang) Y.Z.Wang & J.M.Li</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>86</td><td>香花报春苣苔</td><td>Primulina linglingensis (W.T.Wang) Mich.Moller&A.Weber var.fragrans F.Wen, Y.Z.Ge & B.Pan</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>87</td><td>融安报春苣苔</td><td>Primulina ronganensis (D.Fang & Y.G.Wei) Mich.Moller & A.Weber</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>88</td><td>莲座状报春苣苔</td><td>Primulina rosulata (F.Wen & Y.G.Wei) Z.L.Ning & X.Y.Zuang</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>89</td><td>漓江报春苣苔</td><td> Primulina lijiangensis (B.Pan & W.B.Xu) W.B.Xu & K.F.Chung</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>90</td><td>密毛小花苣苔</td><td>Primulina mollifolia (D.Fang & W.T.Wang) J.M.Li & Y.Z.Wang</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>91</td><td>三苞报春苣苔</td><td>Primulina tribracteata (W.T.Wang) Mich.Moller & A.Weber</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.817</td></tr><tr><td>92</td><td>密叶蛛毛苣苔</td><td>Paraboea velutina (W.T.Wang& C.Z.Gao) B.L.Burtt</td><td>EN</td><td>0.875</td><td>0.400</td><td>0.875</td><td>1.000</td><td>0.816</td></tr><tr><td>93</td><td>三苞蛛毛苣苔</td><td>Paraboea tribracteata D.Fang & W.Y.Rao</td><td>EN</td><td>0.833</td><td>0.600</td><td>1.000</td><td>0.667</td><td>0.815</td></tr><tr><td>94</td><td>广西粗筒苣苔</td><td>Oreocharis stewardi (Chun) Mich.Moller & A.Weber</td><td>EN</td><td>0.833</td><td>0.600</td><td>1.000</td><td>0.667</td><td>0.815</td></tr><tr><td>95</td><td>凤山报春苣苔</td><td>Primulina fengshanensis Fang Wen & Yue Wang</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.815</td></tr><tr><td>96</td><td>龙州小花苣苔</td><td>Primulina longzhouensis (B.Pan & W.H.Wu) W.B.Xu & K.F.Chung</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.815</td></tr><tr><td>97</td><td>靖西小花苣苔</td><td>Primulina jingxiensis (Yan Liu,W.B.Xu &H.S.Gao) W.B.Xu&K.F.Chung</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.815</td></tr><tr><td>98</td><td>黑腺报春苣苔</td><td>Primulina atroglandulosa (W.T.Wang) Mich.Moller & A.Weber</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.815</td></tr><tr><td>99</td><td>融安直瓣苣苔</td><td>Oreocharis ronganensis (K.Y.Pan) Mich.Moler & A.Weber</td><td>EN</td><td>0.750</td><td>1.000</td><td>0.750</td><td>1.000</td><td>0.813</td></tr><tr><td>100</td><td>长梗线柱苣苔</td><td>Rhynchotechum longipes W.T.Wang</td><td>EN</td><td>0.875</td><td>0.200</td><td>1.000</td><td>1.000</td><td>0.811</td></tr><tr><td>101</td><td>小石蝴蝶</td><td>Petrocosmea minor Hemsl.</td><td>VU</td><td>0.792</td><td>1.000</td><td>0.625</td><td>1.000</td><td>0.810</td></tr><tr><td>102</td><td>苍梧小花苣苔</td><td>Primulina cangwuensis X.Hong & F.Wen</td><td>EN</td><td>0.875</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.810</td></tr><tr><td>103</td><td>黄花半蒴苣苔</td><td>Hemiboea lutea F.Wen, G.Y.Wei & H.Q.Wen</td><td>EN</td><td>0.875</td><td>0.400</td><td>1.000</td><td>0.667</td><td>0.808</td></tr><tr><td>104</td><td>毛果半蒴苣苔</td><td>Hemiboea flaccida Chun ex Z.Y.Li</td><td>EN</td><td>0.875</td><td>0.400</td><td>1.000</td><td>0.667</td><td>0.808</td></tr><tr><td>105</td><td>齿萼紫花苣苔</td><td>Loxostigma fimbrisepalum K.Y.Pan</td><td>VU</td><td>0.750</td><td>0.600</td><td>1.000</td><td>1.000</td><td>0.803</td></tr><tr><td>106</td><td>白花异叶苣苔</td><td>Whytockia tsiangiana (Hand.-Mazz.) A.Weber</td><td>VU</td><td>0.750</td><td>0.600</td><td>1.000</td><td>1.000</td><td>0.803</td></tr><tr><td>107</td><td>窄叶马铃苣苔</td><td>Oreocharis argyreia Chun ex K.Y.Pan var. angustifolia K.Y.Pan</td><td>VU</td><td>0.792</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.800</td></tr><tr><td>108</td><td>三萼蛛毛苣苔</td><td>Paraboea trisepala W.H.Chen & Y.M.Shui</td><td>EN</td><td>0.833</td><td>0.600</td><td>0.750</td><td>1.000</td><td>0.798</td></tr></table></body></html>",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1b7d3b632a0f40b7bdcd21f28069f9d095fc14788d1225edd531f519a65f5ab.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>隆林报春苣苔</td><td>Primulina lunglinensis (W.T.Wang) Mich.Moller & A.Weber var. lunglinensis</td><td>VU</td><td>0.792</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.794</td></tr><tr><td>多花石山苣苔</td><td>Petrocodon multiflorus F.Wen & Y.S.Jiang</td><td>VU</td><td>0.792</td><td>0.600</td><td>1.000</td><td>0.667</td><td>0.792</td></tr><tr><td>心叶报春苣苔</td><td>Primulina cordataMich.Moller&A.Weber</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.792</td></tr><tr><td>尖萼报春苣苔</td><td>Primulina pungentisepala (W.T.Wang) Mich.Moller & A.Weber</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.792</td></tr><tr><td>文采苣苔</td><td>Primulina renifolia (D.Fang & D.H.Qin) J.M.Li et Y.Z.Wang</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.792</td></tr><tr><td>芥状报春苣苔</td><td>Primulina brassicoides(W.T.Wang) Mich.Moller&A.Weber</td><td>EN</td><td>0.875</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.790</td></tr><tr><td>合萼漏斗苣苔</td><td>Raphiocarpus petelotii(Pellegr.) B.L.Burtt</td><td>EN</td><td>0.875</td><td>0.600</td><td>0.750</td><td>0.667</td><td>0.788</td></tr><tr><td>革叶石山苣苔</td><td>Petrocodon coriaceifolius(Y.G.Wei) Y.G.Wei &Mich.Moller</td><td>EN</td><td>0.875</td><td>0.600</td><td>0.750</td><td>0.667</td><td>0.788</td></tr><tr><td>钝萼报春苣苔</td><td>Primulina lunglinensis (W.T.Wang) Mich.Moller & A.Weber var.</td><td>EN</td><td>0.833</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.787</td></tr><tr><td>紫腺小花苣苔</td><td>amblyosepala (W.T.Wang) Mich.Moller & A.Weber Primulina glandulosa (D.Fang,L.Zeng & D.H.Qin) Y.Z.Wang</td><td>EN</td><td>0.833</td><td>0.800</td><td>0.875</td><td>0.333</td><td></td></tr><tr><td>星萼石山苣苔</td><td> Petrocodon asterocalyx F.Wen, Y.G.Wei & R.L.Zhang</td><td>EN</td><td>0.833</td><td>0.400</td><td>1.000</td><td>0.667</td><td>0.787 0.785</td></tr><tr><td>广西异唇苣苔</td><td>Allocheilos guangxiensis H.Q.Wen,Y.G.Wei & S.H.Zhou</td><td>EN</td><td>0.875</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.783</td></tr><tr><td>广西吊石苣苔</td><td>Lysionotus kwangsiensis W.T.Wang</td><td>EN</td><td>0.833</td><td>0.600</td><td>1.000</td><td>0.333</td><td>0.782</td></tr><tr><td>灵川小花苣苔</td><td>Primulina lingchuanensis (Yan Liu & Y.G.Wei) Mich.Moller & A.Weber</td><td>EN</td><td>0.875</td><td>0.600</td><td>0.875</td><td>0.333</td><td>0.780</td></tr><tr><td>长萼半蒴苣苔</td><td>Hemiboea longisepala Z.Y.Li</td><td>EN</td><td>0.875</td><td>0.200</td><td>1.000</td><td>0.667</td><td></td></tr><tr><td>林生长蒴苣苔</td><td>Didymocarpus silvarum W.W.Sm.</td><td>VU</td><td>0.750</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.778 0.778</td></tr><tr><td>北流圆唇苣苔</td><td>Gyrocheilos chorisepalum W.T.Wang var. synsepalum W.T.Wang</td><td>VU</td><td>0.750</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.778</td></tr><tr><td>小横蒴苣苔</td><td>Beccarinda minima K.Y.Pan</td><td>EN</td><td>0.833</td><td>0.600</td><td>0.625</td><td>1.000</td><td>0.773</td></tr><tr><td>贵港报春苣苔</td><td> Primulina guigangensis L.Wu & Q.Zhang</td><td>VU</td><td>0.750</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.771</td></tr><tr><td>心叶小花苣苔</td><td>Primulina cordifolia (D.Fang & W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.750</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.771</td></tr><tr><td>菱叶报春苣苔</td><td>Primulina subrhomboidea (W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.750</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.771</td></tr><tr><td>九万山报春苣苔</td><td>Primulina jiuwanshanica (W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.792</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.769</td></tr><tr><td>疏花石山苣苔</td><td>Petrocodon laxicymosus W.B.Xu & Yan Liu</td><td>VU</td><td>0.792</td><td>0.600</td><td>0.875</td><td>0.667</td><td>0.767</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/10a134457b34203738bf55ff18e70fcba0e3a50dab1944c5a99c5746ac818551.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>132</td><td>凤山吊石苣苔</td><td>Lysionotus fengshanensis Yan Liu & D.X.Nong</td><td>VU</td><td>0.792</td><td>0.600</td><td>0.875</td><td>0.667</td><td>0.767</td></tr><tr><td>133</td><td>短毛报春苣苔</td><td>Primulina brachytricha (W.T.Wang & D.Y.Chen) R.B.Mao & Yin Z.Wang</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.767</td></tr><tr><td>134</td><td>大明山紫花苣苔</td><td>Loxostigma damingshanensis (L.Wu & B.Pan) Mich.Moller & H.Atkins</td><td>EN</td><td>0.875</td><td>0.400</td><td>0.625</td><td>1.000</td><td>0.766</td></tr><tr><td>135</td><td>红苞半蒴苣苔</td><td>Hemiboea rubribracteata Z.Y.Li &Yan Liu</td><td>EN</td><td>0.833</td><td>0.600</td><td>0.750</td><td>0.667</td><td>0.765</td></tr><tr><td>136</td><td>龙胜金盏苣苔</td><td>Oreocharis lungshengensis (W.T.Wang) Mich.Moller & A.Weber</td><td>VU</td><td>0.625</td><td>0.800</td><td>1.000</td><td>1.000</td><td>0.764</td></tr><tr><td>137</td><td>假烟叶报春苣苔</td><td>Primulina pseudoheterotricha (T.J.Zhou, B.Pan & W.B.Xu) Mich.Moler & A.Weber</td><td>VU</td><td>0.792</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.764</td></tr><tr><td>138</td><td>桂粤报春苣苔</td><td>Primulina fordi (Hemsl.) Y.Z.Wang</td><td>EN</td><td>0.833</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.762</td></tr><tr><td>139</td><td>桂海报春苣苔</td><td>Primulina guihaiensis (Y.G.Wei, B.Pan & W.X.Tang) Mich.Moller & A.Weber</td><td>EN</td><td>0.833</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.762</td></tr><tr><td>140</td><td>披针叶半蒴苣苔</td><td>Hemiboea angustifolia F.Wen & Y.G.Wei</td><td>EN</td><td>0.833</td><td>0.600</td><td>0.875</td><td>0.333</td><td>0.757</td></tr><tr><td>141</td><td>阳朔小花苣苔</td><td>Primulina pseudoglandulosa W.B.Xu & K.F.Chung</td><td>EN</td><td>0.875</td><td>0.600</td><td>0.750</td><td>0.333</td><td>0.755</td></tr><tr><td>142</td><td>折毛圆唇苣苔</td><td>Gyrocheilos retrichum W.T.Wang var. retrotrichum</td><td>VU</td><td>0.708</td><td>0.800</td><td>0.875</td><td>0.667</td><td>0.751</td></tr><tr><td>143</td><td>报春苣苔</td><td>Primulina tabacum Hance</td><td>EN</td><td>0.875</td><td>0.400</td><td>0.875</td><td>0.333</td><td>0.750</td></tr><tr><td>144</td><td>盾叶光叶苣苔</td><td>Glabrell longipes (Hemsl. ex Oliv.) Mich.Moller & W.H.Chen</td><td>VU</td><td>0.708</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.748</td></tr><tr><td>145</td><td>百寿报春苣苔</td><td>Primulina baishouensis (Y.G.Wei, H.Q.Wen & S.H.Zhong) Y.Z.Wang</td><td>VU</td><td>0.708</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.748</td></tr><tr><td>146</td><td>钟氏报春苣苔</td><td>Primulina tsoongi H.L.Liang, Bo Zhao & Fang Wen</td><td>VU</td><td>0.708</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.748</td></tr><tr><td>147</td><td>多痕奇柱苣苔</td><td>Deinostigma cicatricose (W.T.Wang) D.J.Middleton & Mich.Moller</td><td>VU</td><td>0.750</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.746</td></tr><tr><td>148</td><td>细叶蛛毛苣苔</td><td>Paraboea angustifolia Yan Liu & W.B.Xu</td><td>VU</td><td>0.750</td><td>0.600</td><td>0.875</td><td>0.667</td><td>0.744</td></tr><tr><td>149</td><td>紫萼报春苣苔</td><td>Primulina atropurpurea (W.T.Wang) Mich.Moler & A.Weber</td><td>VU</td><td>0.792</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.744</td></tr><tr><td>150</td><td>光叶报春苣苔</td><td>Primulina leiophylla (W.T.Wang) Y.Z.Wang</td><td>EN</td><td>0.833</td><td>1.000</td><td>0.500</td><td>0.333</td><td>0.742</td></tr><tr><td>151</td><td>假密毛小花苣苔</td><td>Primulina pseudomollifolia W.B.Xu & Yan Liu</td><td>VU</td><td>0.750</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.741</td></tr><tr><td>152</td><td>小花半蒴苣苔</td><td>Hemiboea parviflora Z.Y.Li</td><td>VU</td><td>0.792</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.737</td></tr><tr><td>153</td><td>革叶光叶苣苔</td><td>Glabrella mihieri (Franch.)Mich.Moller & W.H.Chen</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.735</td></tr></table></body></html>",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/39733806eb9c3a59d0377d08896835d2d226512f583a0b15d8c0246a3588fdbd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>154</td><td>微斑报春苣苔</td><td>Primulina minutimaculata (D.Fang & W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.875</td><td>0.667</td><td>0.735</td></tr><tr><td>155</td><td>龙州半蒴苣苔</td><td> Hemiboea longzhouensis W.T.Wang</td><td>EN</td><td>0.833</td><td>0.400</td><td>0.750</td><td>0.667</td><td>0.735</td></tr><tr><td>156</td><td>弄岗报春苣苔</td><td>Primulina longgangensis (W.T.Wang) Yan Liu & Y.Z.Wang</td><td>VU</td><td>0.667</td><td>1.000</td><td>0.750</td><td>0.667</td><td>0.733</td></tr><tr><td>157</td><td>弄岗半蒴苣苔</td><td>Hemiboea longgangensis Z.Y.Li</td><td>EN</td><td>0.875</td><td>0.400</td><td>0.625</td><td>0.667</td><td>0.733</td></tr><tr><td>158</td><td>绵毛石山苣苔</td><td>Petrocodon niveolanosus (D.Fang & W.T.Wang) A.Weber & Mich.Moller</td><td>VU</td><td>0.667</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.732</td></tr><tr><td>159</td><td>毡毛后蕊苣苔</td><td>Oreocharis sinohenryi (Chun) Mich.Moller & A.Weber</td><td>VU</td><td>0.708</td><td>0.600</td><td>0.750</td><td>1.000</td><td>0.730</td></tr><tr><td>160</td><td>双片苣苔</td><td>Didymostigma obtusum (C.B.Clarke) W.T.Wang</td><td>VU</td><td>0.708</td><td>0.600</td><td>0.750</td><td>1.000</td><td>0.730</td></tr><tr><td>161</td><td>拟大苞半蒴苣苔</td><td>Hemiboea pseudomagnibracteata B.Pan,W.H.Wu & W.B.Xu</td><td>EN</td><td>0.833</td><td>0.400</td><td>0.875</td><td>0.333</td><td>0.727</td></tr><tr><td>162</td><td>桂中报春苣苔</td><td>Primulina guizhongensis Bo Zhao, B.Pan & F.Wen</td><td>VU</td><td>0.667</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.725</td></tr><tr><td>163</td><td>异叶吊石苣苔</td><td>Lysionotus heterophyllus Franch.var.heterophyllus</td><td>VU</td><td>0.667</td><td>0.600</td><td>1.000</td><td>0.667</td><td>0.723</td></tr><tr><td>164</td><td>短茎半蒴苣苔</td><td>Hemiboea subacaulis Hand.-Mazz.</td><td>EN</td><td>0.833</td><td>0.200</td><td>1.000</td><td>0.333</td><td>0.722</td></tr><tr><td>165</td><td>黄棕芒毛苣苔</td><td>Aeschynanthus bracteatus Wall.ex A.DC. var. orientalis W.T.Wang</td><td>VU</td><td>0.708</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.718</td></tr><tr><td>166</td><td>厚叶蛛毛苣苔</td><td>Paraboea crassifolia (Hemsl.) Burtt</td><td>VU</td><td>0.708</td><td>0.400</td><td>1.000</td><td>0.667</td><td>0.716</td></tr><tr><td>167</td><td>龙州报春苣苔</td><td>Primulina lungzhouensis (W.T.Wang) Mich.Moller & A.Weber</td><td>VU</td><td>0.750</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.716</td></tr><tr><td>168</td><td>盾叶蛛毛苣苔</td><td>Paraboea peltifolia D.Fang & L.Zeng</td><td>VU</td><td>0.750</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.714</td></tr><tr><td>169</td><td>龙胜吊石苣苔</td><td>Lysionotus hterophyllus Franch.var.lasianthus W.T.Wang</td><td>VU</td><td>0.750</td><td>0.600</td><td>0.875</td><td>0.333</td><td>0.711</td></tr><tr><td>170</td><td>紫叶单座苣苔</td><td>Hemiboea purpureotincta (W.T.Wang)A.Weber &Mich.Moller</td><td>EN</td><td>0.833</td><td>0.400</td><td>0.625</td><td>0.667</td><td>0.710</td></tr><tr><td>171</td><td>棒萼蛛毛苣苔</td><td>Paraboea clavisepala D.Fang & D.H.Qin</td><td>VU</td><td>0.750</td><td>0.200</td><td>1.000</td><td>0.667</td><td>0.709</td></tr><tr><td>172</td><td>短萼长蒴苣苔</td><td>Didymocarpus glandulosus (W.W.Smith) W.T.Wang var. minor (W.T.Wang) W.T.Wang</td><td>VU</td><td>0.625</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.709</td></tr><tr><td>173</td><td>腺毛长蒴苣苔</td><td>Didymocarpus alandulosus (W.W.Sm.) W.T.Wang var. glandulosus</td><td>VU</td><td>0.667</td><td>0.600</td><td>0.750</td><td>1.000</td><td>0.707</td></tr><tr><td>174</td><td>桂林蛛毛苣苔</td><td>Paraboea guilinensis L.Xu & Y.G.Wei</td><td>VU</td><td>0.625</td><td>0.800</td><td>0.875</td><td>0.667</td><td>0.705</td></tr><tr><td>175</td><td>永福报春苣苔</td><td>Primulina yungfuensis(W.T.Wang)Mich.Moller & A.Weber</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.702</td></tr><tr><td>176</td><td>舌柱报春苣苔</td><td>Primulina liguliformis (W.T.Wang) Mich.Moller & A.Weber</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.702</td></tr><tr><td>177</td><td>寿城报春苣苔</td><td>Primulina shouchengensis (Z.Y.Li) Z.Y.Li</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.702</td></tr></table></body></html>",
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/0066316e09f1efd3989a6c8a6d891ee9e9e79e7a819dff56f3bf904ff06791d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>文采报春苣苔</td><td>Primulina wentsaii (D.Fang & L.Zeng) Y.Z.Wang</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.702</td></tr><tr><td>长筒漏斗苣苔</td><td>Raphiocarpus macrosiphon (Hance) B.L.Burtt</td><td>VU</td><td>0.625</td><td>0.600</td><td>1.000</td><td>0.667</td><td>0.700</td></tr><tr><td>肥牛草</td><td>Primulina hedyotidea (Chun) Y.Z.Wang</td><td>VU</td><td>0.667</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.700</td></tr><tr><td>那坡报春苣苔</td><td>Primulina napoensis (Z.Y.Li) Mich.Moller & A.Weber</td><td>VU</td><td>0.667</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.700</td></tr><tr><td>黄花牛耳朵</td><td>Primulina lutea (YanLiu&Y.G.Wei) Mich.Moller&A.Weber</td><td>VU</td><td>0.667</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.700</td></tr><tr><td>桂林小花苣苔</td><td>Primulina subulate (W.T. Wang) Mich.Moller & A.Weber var. guilinensis</td><td>VU</td><td>0.708</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.698</td></tr><tr><td>软叶报春苣苔</td><td>(W.T.Wang)W.B.Xu & K.F.Chung Primulina weii Mich.Moller & A.Weber</td><td>VU</td><td>0.667</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.695</td></tr><tr><td>条叶报春苣苔</td><td>Primulina ophiopogoides (D.Fang & W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.667</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.695</td></tr><tr><td>粗齿报春苣苔</td><td>Primulina macrodonta (D.Fang & D.H.Qin) Mich.Moller & A.Weber</td><td>VU</td><td>0.667</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.695</td></tr><tr><td>封开报春苣苔</td><td>Primulina fengkaiensis Z.L.Ning & M.Kang</td><td>VU</td><td>0.708</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.693</td></tr><tr><td>线萼报春苣苔</td><td>Primulina linearicalyxF.Wen,B.D.Lai& Y.G.Wei</td><td>VU</td><td>0.708</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.693</td></tr><tr><td>小花苣苔</td><td>Primulina repanda (W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.708</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.691</td></tr><tr><td>翅茎半蒴苣苔</td><td>Hemiboea subcapitata C.B.Clarke var. pterocaulis Z.Y.Li</td><td>VU</td><td>0.750</td><td>0.400</td><td>0.875</td><td>0.333</td><td>0.681</td></tr><tr><td>密毛蚂蝗七</td><td>Primulina fimbrisepala (Hand.-Mazz.) Y.Z.Wang var. mollis (W.T.Wang)</td><td>VU</td><td>0.625</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.677</td></tr><tr><td>齿萼报春苣苔</td><td>Mich.Moller & A.Weber Primulina verecunda (Chun) Mich.Moller & A.Weber</td><td>VU</td><td>0.708</td><td>0.800</td><td>0.500</td><td>0.667</td><td></td></tr><tr><td>无毛漏斗苣苔</td><td>Raphiocarpus sinicus Chun</td><td>VU</td><td>0.708</td><td>0.400</td><td>0.625</td><td>1.000</td><td>0.676 0.675</td></tr><tr><td>药用报春苣苔</td><td>Primulina medica (D.Fang & W.T.Wang) Y.Z.Wang</td><td>VU</td><td>0.667</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.670</td></tr><tr><td>多齿吊石苣苔</td><td>Lysionotus denticulosus W.T.Wang</td><td>VU</td><td>0.708</td><td>0.600</td><td>0.750</td><td>0.333</td><td>0.663</td></tr><tr><td>南丹报春苣苔</td><td>Primulina nandanensis (S.X.Huang,Y.G.Wei & W.H.Luo) Mich.Moller &</td><td>NT</td><td>0.542</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.656</td></tr><tr><td>粉绿异裂苣苔</td><td>A.Weber Pseudochirita guangxiensis (S.Z.Huang) W.T.Wang var. glauca Y.G.Wei & Yan Liu</td><td>NT</td><td>0.542</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.656</td></tr><tr><td>髯丝蛛毛苣苔</td><td>Paraboea martini (H.Lév.& Vaniot) B.L.Burtt</td><td>NT</td><td>0.583</td><td>0.600</td><td>0.875</td><td>0.667</td><td>0.653</td></tr></table></body></html>",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/fdaf093b103ef3079c789496336ac65033a1ad6df82580073788bce120340fb2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>199</td><td>垂花蛛毛苣苔</td><td>Paraboea nutans D.Fang & D.H.Qin</td><td>VU</td><td>0.625</td><td>0.600</td><td>0.750</td><td>0.667</td><td>0.650</td></tr><tr><td>200</td><td>滇南芒毛苣苔</td><td> Aeschynanthus austroyunnanensis W.T.Wang var. austroyunnanensis</td><td>NT</td><td>0.583</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.649</td></tr><tr><td>201</td><td>柳江报春苣苔</td><td>Primulina liujiangensis (D.Fang & D.H.Qin) Yan Liu</td><td>VU</td><td>0.625</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.647</td></tr><tr><td>202</td><td>龙氏报春苣苔</td><td>Primulina longi (Z.Y.Li) Z.Y.Li</td><td>VU</td><td>0.625</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.647</td></tr><tr><td>203</td><td>稀裂圆唇苣苔</td><td>Gyrocheilos retrichum W.T.Wang var. oligolobum W.T.Wang</td><td>VU</td><td>0.625</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.645</td></tr><tr><td>204</td><td>长圆吊石苣苔</td><td>Lysionotus oblongifolius W.T.Wang</td><td>VU</td><td>0.667</td><td>0.600</td><td>0.750</td><td>0.333</td><td>0.640</td></tr><tr><td>205</td><td>疏花报春苣苔</td><td>Primulina laxiflora (W.T.Wang) Y.Z.Wang</td><td>NT</td><td>0.542</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.631</td></tr><tr><td>206</td><td>滇黔紫花苣苔</td><td>Loxostigma cavaleriei (H.Lév.& Vaniot) B.L.Burtt</td><td>NT</td><td>0.583</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.623</td></tr><tr><td>207</td><td>荔波报春苣苔</td><td>Primulina liboensis (W.T.Wang & D.Y.Chen) Mich.Moller & A.Weber</td><td>NT</td><td>0.458</td><td>1.000</td><td>0.875</td><td>0.333</td><td>0.610</td></tr><tr><td>208</td><td>单座苣苔</td><td>Hemiboea ovalifolia(W.T.Wang)A.Weber &Mich.Moller</td><td>NT</td><td>0.542</td><td>0.800</td><td>0.625</td><td>0.667</td><td>0.610</td></tr><tr><td>209</td><td>茛山报春苣苔</td><td> Primulina langshanica (W.T.Wang) Yin Z.Wang</td><td>NT</td><td>0.542</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.606</td></tr><tr><td>210</td><td>光叶紫花苣苔</td><td>Loxostigma glabrifolium D.Fang & K.Y.Pan</td><td>NT</td><td>0.542</td><td>0.600</td><td>0.750</td><td>0.667</td><td>0.605</td></tr><tr><td>211</td><td>广西芒毛苣苔</td><td>Aeschynanthus austroyunnanensis W.T.Wang var. guangxiensis (Chun ex W.T.Wang & K.Y.Pan) W.T.Wang</td><td>NT</td><td>0.542</td><td>0.600</td><td>0.875</td><td>0.333</td><td>0.596</td></tr><tr><td>212</td><td>大叶石上莲</td><td>Oreocharis benthamii C.B.Clarke</td><td>NT</td><td>0.542</td><td>0.200</td><td>1.000</td><td>0.667</td><td>0.595</td></tr><tr><td>213</td><td>石上莲</td><td>Oreocharis benthamii C.B.Clarke var. reticulata Dunn</td><td>NT</td><td>0.542</td><td>0.200</td><td>1.000</td><td>0.667</td><td>0.595</td></tr><tr><td>214</td><td>石山苣苔</td><td>Petrocodon dealbatus Hance</td><td>NT</td><td>0.458</td><td>0.400</td><td>0.875</td><td>1.000</td><td>0.587</td></tr><tr><td>215</td><td>东南石山苣苔</td><td>Petrocodon hancei (Hemsl.) A.Weber & Mich.Moller</td><td>NT</td><td>0.458</td><td>0.600</td><td>0.875</td><td>0.667</td><td>0.584</td></tr><tr><td>216</td><td>桂林报春苣苔</td><td>Primulina gueilinensis (W.T.Wang) Y.Z.Wang et Yan Liu</td><td>NT</td><td>0.500</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.583</td></tr><tr><td>217</td><td>桂黔吊石苣苔</td><td>Lysionotus aeschynanthoides W.T.Wang</td><td>NT</td><td>0.500</td><td>0.600</td><td>0.750</td><td>0.667</td><td>0.582</td></tr><tr><td>218</td><td>硬叶报春苣苔</td><td>Primulina sclerophylla (W.T.Wang) Yan Liu</td><td>NT</td><td>0.458</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.580</td></tr><tr><td>219</td><td>羽裂报春苣苔</td><td>Primulina pinnatifida (Hand.-Mazz.) Y.Z.Wang</td><td>NT</td><td>0.458</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.580</td></tr><tr><td>220</td><td>大苞漏斗苣苔</td><td>Raphiocarpus begonifolia (H.Lév.) Burrt</td><td>NT</td><td>0.458</td><td>0.800</td><td>0.875</td><td>0.333</td><td>0.580</td></tr><tr><td>221</td><td>白花蛛毛苣苔</td><td>Paraboea glutinosa (Hand.-Mazz.) K.Y.Pan</td><td>NT</td><td>0.458</td><td>0.400</td><td>1.000</td><td>0.667</td><td>0.579</td></tr><tr><td>222</td><td>紫花报春苣苔</td><td>Primulina purpurea Fang Wen,Bo Zhao & Y.G.Wei</td><td>NT</td><td>0.500</td><td>0.800</td><td>0.750</td><td>0.333</td><td>0.578</td></tr></table></body></html>",
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a4f5269a747bc1bd49bb200b6382e56987b3df726f66a9d5ef4e240b703c7b0.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "注：CR．极危；EN.濒危；VU．易危；NT.近危；LC.无危。 Note: CR. Critically Endangered; EN. Endangered; VU.Vulnerable; NT.Near threatened; LC.Least concern. "
+        ],
+        "table_body": "<html><body><table><tr><td>223</td><td>河池报春苣苔</td><td>Primulina hochiensis (C.C.Huang & X.X.Chen) Mich.Moler & A.Weber</td><td>NT</td><td>0.500</td><td>0.600</td><td>0.875</td><td>0.333</td><td>0.573</td></tr><tr><td>224</td><td>线叶报春苣苔</td><td>Primulina linearifolia (W.T.Wang) Y.Z.Wang</td><td>NT</td><td>0.542</td><td>0.600</td><td>0.750</td><td>0.333</td><td>0.571</td></tr><tr><td>225</td><td>软叶大苞苣苔</td><td>Anna mollifolia (W.T.Wang) W.T.Wang & K.Y.Pan</td><td>NT</td><td>0.583</td><td>0.400</td><td>0.750</td><td>0.333</td><td>0.564</td></tr><tr><td>226</td><td>大齿马铃苣苔</td><td>Oreocharis magnidens Chun ex K.Y.Pan</td><td>NT</td><td>0.458</td><td>0.800</td><td>0.625</td><td>0.667</td><td>0.564</td></tr><tr><td>227</td><td>湘桂马铃苣苔</td><td>Oreocharis xiangguiensis W.T.Wang et K.Y.Pan</td><td>NT</td><td>0.417</td><td>0.200</td><td>1.000</td><td>1.000</td><td>0.559</td></tr><tr><td>228</td><td>冠萼线柱苣苔</td><td>Rhynchotechum formosanum Hatus.</td><td>NT</td><td>0.417</td><td>0.200</td><td>1.000</td><td>1.000</td><td>0.559</td></tr><tr><td>229</td><td>圆唇苣苔</td><td>Gyrocheilos chorisepalum W.T.Wang</td><td>NT</td><td>0.458</td><td>0.400</td><td>0.875</td><td>0.667</td><td>0.554</td></tr><tr><td>230</td><td>蚂蝗七</td><td>Primulina fimbrisepala (Hand.-Mazz.) Y.Z.Wang</td><td>LC</td><td>0.375</td><td>1.000</td><td>0.750</td><td>0.333</td><td>0.540</td></tr><tr><td>231</td><td>紫花马铃苣苔</td><td>Oreocharis argyreia Chun ex K.Y.Pan</td><td>NT</td><td>0.458</td><td>0.600</td><td>0.625</td><td>0.667</td><td>0.534</td></tr><tr><td>232</td><td>旋蒴苣苔</td><td>Dorcoceras hygrometrica Bunge</td><td>LC</td><td>0.292</td><td>0.600</td><td>0.875</td><td>1.000</td><td>0.525</td></tr><tr><td>233</td><td>华南半蒴苣苔</td><td>Hemiboea follicularis Clarke</td><td>LC</td><td>0.375</td><td>0.200</td><td>1.000</td><td>0.333</td><td>0.470</td></tr><tr><td>234</td><td>纤细半苣苔</td><td> Hemiboea gracilis Franch.</td><td>NT</td><td>0.417</td><td>0.200</td><td>0.875</td><td>0.333</td><td>0.468</td></tr><tr><td>235</td><td>牛耳朵</td><td>Primulina eburnean (Hance) Y.Z.Wang</td><td>LC</td><td>0.250</td><td>1.000</td><td>0.625</td><td>0.333</td><td>0.446</td></tr><tr><td>236</td><td>贵州半蒴苣苔</td><td>Hemiboea cavaleriei H Lévl.</td><td>LC</td><td>0.292</td><td>0.400</td><td>0.875</td><td>0.333</td><td>0.429</td></tr></table></body></html>",
+        "page_idx": 20
+    }
+]

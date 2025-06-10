@@ -1,0 +1,300 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "抑制miR-23a表达增强卵巢癌顺铂敏感性的分子机制",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金爱红，周霞平，周凤珍深圳市第二人民医院妇科，广东深圳518035",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 分析抑制miR-23a表达后，耐药卵巢癌A2780细胞对化疗药物顺铂的敏感性变化及其分子机制。方法 选择顺铂耐药卵巢癌A2780细胞株为研究样本,并分为两组,其中对照组仅加入顺铂,实验组加入顺铂及antagomir $2 3 \\mathrm { a } _ { \\odot }$ 。应用MTT法检测antagomir-23a抑制miR-23a并经顺铂处理后细胞增殖抑制率;应用流式细胞仪分析细胞周期分布情况;应用Hoechst33258染色分析细胞凋亡形态学变化;应用Westemblot法分析耐药糖蛋白P-gp的表达变化。结果抑制miR-23a并经顺铂处理后,细胞增殖抑制率显著上升 $( P { < } 0 . 0 1 )$ ，顺铂中效浓度 $\\left( \\mathrm { I C } _ { 5 0 } \\right)$ 为 $1 7 . 8 9 \\ \\mathrm { \\textmu m o l { L } }$ ，比对照组 $\\mathrm { I C _ { 5 0 } ~ 1 1 0 . 1 8 ~ \\mu m o l / L }$ 降低了 $8 3 . 7 6 \\% ( P { < } 0 . 0 1 )$ ,细胞被阻滞于G0/G1期且凋亡率增加( ${ \\scriptstyle \\cdot } { \\cal P } { \\scriptstyle < } 0 . 0 1$ );Hoechst33258染色见细胞核浓缩、染色增强。Westerm blot检测提示细胞P-gp蛋白表达随着顺铂浓度加大而逐渐减低 $( P { < } 0 . 0 1 )$ 。结论抑制耐药卵巢癌A2780细胞内 $\\operatorname* { m i R } { - 2 3 \\mathrm { a } }$ 表达后，细胞对顺铂的敏感性显著增加,这可能miR-23a靶基因负性调控因素得以缓解,并由此引发P-gp蛋白表达受抑有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：微小RNA;顺铂;卵巢癌;耐药性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inhibition of microRNA-23a increases cisplatin sensitivity of ovarian cancer cells: the possible molecular mechanisms ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JINAihong,ZHOuXiaping,ZHOuFengzhen DepartmentofGynecology,Shenzhen Second People's Hospital,Shenzhen518035,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToinvestigate thechanges incisplatinsensitivityofresistantovariancancer A2780celsafterinhibitionof miR-23a expression and explore the molecular mechanisms. Methods The drug-resistant ovarian cancer A2780 cels were exposed tocisplatinaloneorincombination withantagomir-23a.Thecellinhibitionratesafterthetreatmentsweredetected using MTTassaycellcyclecangesaesed withflowcytometryndapototiccelsseed using Hechst328staing. The changes in glycoprotein P-gp expresion in the cells were detected using Western blotting.Results Inhibition of miR-23a combined with cisplatin treatment significantly increased the cell inhibition rate $_ { ( P < 0 . 0 1 ) }$ and lowered the $\\mathrm { I C } _ { 5 0 }$ of cisplatin by $8 3 . 7 6 \\%$ from $1 1 0 . 1 8 \\ \\mu \\mathrm { m o l / L }$ in the control group to $1 7 . 8 9 \\ \\mu \\mathrm { m o l / L }$ ${ \\bf \\langle } P { \\bf < } 0 . 0 1 )$ . The combined treatments also caused cell cycle arrest in $\\mathrm { { G 0 } / \\mathrm { { G 1 } } }$ phase, increased the cell apoptosis rate $( P { < } 0 . 0 1 )$ and the number of cells stained with Hoechst33258; the cellular expression of P-gp protein was significantly reduced as the cisplatin doses increased $( P { < } 0 . 0 1 )$ . Conclusion Inhibition of miR-23aexpresion increases the sensitivityof A2780cels tocisplatin posibly byinhibiting thenegativeregulation by miR-23a target genes that causes inhibition of P-gp protein expression. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: microRNA; cisplatin; ovarian cancer; drug resistance ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "铂类化疗药物是治疗卵巢癌的常用临床药物之一，近年来，越来越多卵巢癌对铂类化疗药物产生耐药性，降低了其综合治疗效果，从而严重影响了卵巢癌患者的5年生存率[]。探索、明确卵巢癌的化疗药耐药作用机制，提高卵巢癌化疗敏感性是妇科肿瘤研究领域的重要研究任务。目前认为耐药主要机制是由于卵巢癌拓扑异构酶II-a减少，进而显著减低铂类药物发挥其断裂细胞DNA双链的效能所致[2]。同时金属硫蛋白(MTN)、多药耐药相关蛋白(MDP)等升高，从而保护细胞膜不被攻击[3]。目前研究均是以单个蛋白为研究目标,然而面对复杂的卵巢癌耐药机制，依赖单个蛋白的量变或质变难于阐明其更精确及网络化的分子机制。MicroR-NA是最近发现存在于细胞质中的一大类短小非编码RNA，具有广泛的基因转录后水平调控作用4，研究发现，铂类药物耐药的卵巢癌细胞株中MiR-23a表达明显上升5,本研究拟通过分子生物学方法，降低耐药细胞内的MiR-23a含量，以观察细胞耐药性的变化及其初步机制，以期进一步解释卵巢癌铂类药物耐药机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1材料与主要仪器",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顺铂耐药株A2780由重庆医科大学附属第一医院妇产科陈国庆博士惠赠。miR-23a抑制物antagomir-23a、Lipofectamine2000购自上海吉玛生物技术公司；RPMI1640为杭州四季清生物公司产品，小牛血清为美国Gibco产品，甲基噻唑蓝(MTT)、蛋白提取试剂盒、",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ECL化学发光试剂、Heochst33258盒均为江苏碧云天生物公司产品;鼠抗人P-gp单克隆抗体、鼠抗人β-actin单克隆抗体及兔抗鼠IgG二抗等均为大连宝生生物公司产品;流式细胞仪为美国Becton Dickinson产品。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2细胞培养与实验分组",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A2780细胞在含有 $10 \\%$ 的小牛血清培养液中培养，$3 7 \\%$ $\\mathrm { C O } _ { 2 }$ 培养箱中培育，待细胞生长铺平后进行消化传代、接种。将A2780细胞分为对照组及实验组，其中对照组仅加入顺铂,实验组加入顺铂及antagomir- $2 3 \\mathrm { a } _ { \\odot }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3MTT试验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取生长对数期顺铂耐药株A2780细胞接种于96孔板中，每孔接种 $3 \\times 1 0 ^ { 3 }$ 个细胞，对照组以及实验组均分别加入顺铂，并调整其终浓度为0、20、40、60、80、$1 0 0 \\phantom { 0 } { , } 1 2 0 \\phantom { 0 } \\mu \\mathrm { m o l / L }$ ，每个浓度设3个复孔。实验组在上述基础上，再加入5pmol/孔antagomir-23a及转染试剂Lipofectamine20oo每孔 $0 . 3 ~ \\mu \\mathrm { l }$ ，常规培养 $4 8 \\mathrm { ~ h ~ }$ 后各孔均加入 $5 \\mathrm { g } / \\mathrm { L }$ MTT溶液 $2 0 \\mu \\mathrm { l }$ ，继续孵育 $^ { 4 \\mathrm { h } }$ 后取出并吸尽孔内上清液,每孔加入 $1 5 0 ~ \\mu \\mathrm { l }$ DMSO,振荡 $5 { \\sim } 1 0 \\ \\mathrm { m i n }$ 后放入酶标仪内，于 $4 9 0 \\ \\mathrm { n m }$ 波长处测定各孔的吸光度A值 $\\left( \\mathbf { A } _ { 4 9 0 } \\right)$ ，并依据吸光值计算各组细胞生长抑制率、药物半数抑制浓度 $\\mathrm { I C } _ { 5 0 \\odot }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4流式细胞分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验分组及药物处理同MTT试验，对照组及实验组细胞细胞接种于6孔板内，培育 $4 8 \\mathrm { h }$ 后应用经PBS洗涤，加入 $7 5 \\%$ 乙醇固定保存，检测前再次用PBS洗涤，并加 $1 8 0 \\mu { } 1 \\nu \\%$ RNA酶溶液混合， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 温度孵育 $3 0 \\mathrm { m i n }$ ，加 ${ 8 0 0 \\mu \\mathrm { l P I } }$ 后置 $4 ^ { \\circ } \\mathrm { C }$ 冰箱内 $3 0 \\mathrm { m i n }$ 后取出应用流式细胞仪检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5凋亡形态学检测 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采取Hoechst33258染色法，实验分组及处理同流式细胞检测，在6孔板内置入细胞爬片，培育 $4 8 \\mathrm { ~ h ~ }$ 后取出，经PBS清洗、 $4 \\%$ 甲醛固定后加入Hoechst33258染色工作液，暗室染色 $3 { \\sim } 5 ~ \\mathrm { m i n }$ 后置于荧光显微镜下观察，凋亡细胞胞核呈致密浓染，或呈碎块状致密浓染。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6Western blot实验 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验分组及处理同上，各组细胞培育 $4 8 \\mathrm { ~ h ~ }$ 后吸尽培养液，严格按照蛋白定量试剂盒操作说明进行蛋白定量，并取样本进行免疫印迹分析，先后按SDS-PAGE 电泳、转膜、封闭、加入一抗(鼠抗人P-gp单克隆抗体、鼠抗人β-actin单克隆抗体 $1 4 ~ \\mathrm { ^ { \\circ } C }$ 放置 $1 2 \\mathrm { ~ h ~ }$ 二抗 $3 7 \\ \\mathrm { { ^ circ C } }$ 孵育 $^ { \\textrm { 1 h } }$ 、ECL显色,最后放入发光成像系统中显像,并用QuantityOne分析软件对所获结果进行分析。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7统计学分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用统计软件SPSS17.0版对全文数据进行统计学分析。计量数据以均数 $\\cdot \\pm$ 标准差表示，两组比较采用成组 $\\mathbf { \\Phi } _ { t }$ 检验；计数数据以百分比表示，两组比较采用方差分析。 $P { < } 0 . 0 5$ 表示差异有统计学意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1antagomir-23a对耐药A2780细胞增殖抑制率的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MTT结果显示，与对照组比较，实验组细胞生长抑制率显著增高，差异具有显著统计学意义 $( P { < } 0 . 0 1 )$ ，且呈现出顺铂剂量依赖性(图1)。对照组 $\\mathrm { I C } _ { 5 0 }$ 为 $1 1 0 . 1 8 \\ \\mathrm { \\mu m o l / L }$ ，而实验组 $\\mathrm { I C } _ { 5 0 }$ 为 $1 7 . 8 9 \\ \\mathrm { \\mu m o l / L }$ ，较对照组降低了 $8 3 . 7 6 \\%$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/39a8f61049cc1d9096ceda0e3e58203082684f46389905bf6f626f5ce32ea4ab.jpg",
+        "img_caption": [
+            "图1antagomir-23a增加耐药A2780细胞对顺铂的增 殖抑制率 Fig.1 Antagomir-23a increases the inhibition rate of A2780 cells exposed to cisplatin. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2antagomir-23a对耐药A2780细胞增殖周期及凋亡率的影响",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与对照组比较，实验组A2780细胞S期细胞明显减少，G0/G1期细胞显著增多，A2780细胞被阻滞在G0/G1，实验组细胞凋亡率明显高于对照组(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3antagomir-23a对耐药细胞调亡形态的影响 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与对照组相比,经顺铂及antagomir-23a处理后的细胞，其细胞核Hoechst33258染色明显变亮，出现浓缩、固缩等凋亡形态学改变，中间浓度( $6 0 \\mathrm { \\ : \\mu m o l / L }$ 顺铂)对照组细胞凋亡率约 $4 . 2 3 \\%$ ，而中间浓度( $6 0 \\mathrm { \\ : \\mu m o l / L }$ 顺铂 $^ +$ 5pmolantagomir-23a)实验组细胞凋亡率为 $2 7 . 8 2 \\%$ ，差异具有统计学意义(图2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4antagomir-23a对耐药A2780细胞P-gp蛋白表达的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与对照组相比，实验组P-gp蛋白表达量随着顺铂浓度的加大而减低，差异具有统计学意义。而对照组各顺铂浓度处理后P-gp蛋白表达量未见明显变化(表2)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卵巢癌是致死率最高的妇科恶性肿瘤，近年有明显上升趋势。随着妇科手术方式的不断改进，对中晚期卵巢癌主要实行以肿瘤细胞减灭术及化学治疗相结合的综合治疗治疗方法，由于肿瘤细胞减灭术无法完全清除患者体内卵巢癌细胞，因而化学治疗作为最后的防线，直接关系到患者的预后及5年生存率。最近发现，肿瘤细胞对多种化疗药物均产生耐药性，导致治疗效果低下，同时由于化疗药物的副作用，从而进一步降低了综合治疗效果。探明卵巢癌细胞耐药机制，是改善卵巢癌临床治疗效果的重要途径。本研究结果证实，抑制耐药卵巢癌A2780细胞浆内miR-23a表达后，细胞对顺铂的敏感性显著提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e6519572b9169ae6d7b8060b73a45370a6bbf99a2d3ae25bf13901ca1627674.jpg",
+        "table_caption": [
+            "表1antagomir-23a对A2780细胞周期分布及凋亡率的影响Tab.1 Effect of antagomir-23a on cell cycle distribution and apoptosis of A2780 cells $( \\% )$ "
+        ],
+        "table_footnote": [
+            "Note: Compared to control group,the indexes of the same concentration in experiment group was $^ { \\mathrm { a } } P { > } 0 . 0 5$ ,and $^ { \\mathrm { { b } } } P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Group</td><td>Cisplatin (umol/L)</td><td>Inhibition (pmol/L)</td><td>G0/G1 term</td><td>S term</td><td>G2/M term</td><td>apoptosis rate</td></tr><tr><td rowspan=\"7\">Control group</td><td>0</td><td>0</td><td>46.15±1.25</td><td>39.96±1.76</td><td>13.89±0.85</td><td>1.22±0.14</td></tr><tr><td>20</td><td>0</td><td>44.61±2.36</td><td>40.42±2.05</td><td>14.97±0.91</td><td>2.10±0.09</td></tr><tr><td>40</td><td>0</td><td>48.97±1.96</td><td>41.20±1.33</td><td>9.83±0.53</td><td>1.56±0.27</td></tr><tr><td>60</td><td>0</td><td>52.14±1.52</td><td>38.58±1.94</td><td>9.28±0.61</td><td>3.69±0.53</td></tr><tr><td>80</td><td>0</td><td>55.53±1.16</td><td>31.37±2.14</td><td>13.10±0.82</td><td>4.52±0.46</td></tr><tr><td>100</td><td>0</td><td>60.08±2.37</td><td>27.51±1.30</td><td>12.41±0.13</td><td>7.04±0.69</td></tr><tr><td>120</td><td>0</td><td>64.91±1.80</td><td>23.08±2.22</td><td>12.01±0.47</td><td>9.62±0.85</td></tr><tr><td rowspan=\"6\">Experiment group</td><td>0</td><td>0</td><td>49.02±2.09a</td><td>35.60±3.15a</td><td>15.38±1.00a</td><td>2.42±0.24a</td></tr><tr><td>20</td><td>5</td><td>57.53±2.41a</td><td>33.61±1.62b</td><td>8.86±0.72b</td><td>3.19±0.15a</td></tr><tr><td>40</td><td>5</td><td>63.18±3.91b</td><td>29.85±1.51b</td><td>6.97±0.29b</td><td>9.13±0.61b</td></tr><tr><td>60</td><td>5</td><td>69.61±1.92b</td><td>23.10±1.29h</td><td>7.29±0.43b</td><td>13.66±1.02b</td></tr><tr><td>80</td><td>5</td><td>76.39±3.17b</td><td>19.00±1.10b</td><td>4.61±0.66b</td><td>20.63±1.16b</td></tr><tr><td>100</td><td>5</td><td>85.06±2.85b</td><td>7.15±0.42b</td><td>7.79±0.34b</td><td>34.13±2.34b</td></tr><tr><td></td><td>120</td><td>5</td><td>91.49±2.33b</td><td>2.13±0.19b</td><td>6.38±0.59b</td><td>51.17±3.91b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/004f251549a09f2e9e26969063d46c5315ca5ecfe6a422d0a3ee0ff9e1acf607.jpg",
+        "img_caption": [
+            "图2antagomir-23a对耐药A2780细胞凋亡形态的影响 Fig.2Morphological changesof apoptotic A2780cells exposed toantagomir-23aandcisplatin.A: Untreatedcels;B:Cells treated with $6 0 \\mu \\mathrm { m o l / L }$ cisplatin; C: Cells treated with $6 0 \\mu \\mathrm { m o l / L }$ cisplatin and $5 \\mathrm { p m o l / L }$ antagomir-23a. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e04b98341b00a5f5cc86d9368309ac66042a5248feb395646f6d3dddfa7c0e7.jpg",
+        "table_caption": [
+            "表2antagomir-23a对耐药A2780细胞P-gp蛋白相对表达量的影响",
+            "Tab.2 Effect of antagomir-23a and cisplatin on cell cycle and apoptosis rate of A2780 cells $( \\% )$ "
+        ],
+        "table_footnote": [
+            "Note: Compared to control group,the indexes of the same concentration in experiment group was $^ { \\mathrm { a } } P { > } 0 . 0 5$ ,and $^ { \\mathrm { b } } P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Group</td><td colspan=\"6\">Cisplatin (μmol/L)</td></tr><tr><td>20</td><td>40</td><td>60</td><td>80</td><td>100</td><td>120</td></tr><tr><td>Control group</td><td>1.13±0.02</td><td>0.95±0.03</td><td>1.09±0.02</td><td>0.87±0.01</td><td>1.24±0.04</td><td>1.21±0.03</td></tr><tr><td>Experiment group</td><td>0.98±0.01a</td><td>0.94±0.02a</td><td>0.83±0.03a</td><td>0.51±0.01b</td><td>0.34±0.01b</td><td>0.23±0.01b</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MicroRNA(miRNA)是近年研究证广泛存在于细胞浆内的一类长度为20\\~22个核苷酸的单链RNA分子，该分子不具备蛋白编码功能，但却通过与受控靶基mRNA3'-非编码区(3'-UTR)序列结合，抑制该mRNA的蛋白转录，从而发挥在转录后水平调节靶基因的表达的功能[7-9]。miR-23a作为MircoRNA的一种,具有广泛的基因调控功能,发挥相应生物学功能[9-10]。本研究结果发现，抑制耐药卵巢癌A2780细胞后，细胞对顺铂的敏感性显著增强，其 $\\mathrm { I C } _ { 5 0 }$ 为 $1 7 . 8 9 \\ \\mathrm { \\textmu m o l / L }$ ,比对照组 $\\mathrm { I C } _ { 5 0 }$ $1 1 0 . 1 8 ~ \\mathrm { \\textmu m o l / L }$ 降低了 $8 3 . 7 6 \\%$ ，且呈现出现顺铂浓度依赖性，即顺铂浓度越大，细胞增殖抑制率越高。流式细胞术也提示，抑制miR-23a表达并经顺铂处理后，细胞大多停滞于非增殖的G0/G1期，而增殖期S期细胞明显减少，凋亡率也随之明显加大。同时，细胞凋亡增加的现象得到形态学的证实，即细胞核浓缩，细胞核变小，染色亮度增加。研究者在实验过程中，将抑制miR-23a并经顺铂处理后的细胞置于显微镜下观察，发现细胞形态发生变化，即细胞铺平变大，边角折光性降低，部分细胞呈现\"烂菜叶\"状，为细胞生长极为不良的形态学表现，同时双核分裂细胞也较对照组显明减少。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为进一步探索抑制miR-23a表达增强A2780细胞对顺铂敏感性的分子机制，本实验应用免疫印迹法检测了糖蛋白(P-gp)的表达变化,结果发现,P-gp在实验组中表达明显减低，人类P-gp是由位于7号染色体长臂上肿瘤多耐药基因1(MDR1)所表达，相对分子质量为170000,由两个分子结构基本同相的亚基组成,每个亚基均包含6个跨膜区和一个ATP结合位点[11-12]。P-gp 存在于耐药细胞胞膜上，与ATP结合后获得能量发挥药物泵的功能，能将化疗药物反排出至细胞外，减少药物在细胞内存积,避免细胞受其伤害，这一耐药机制也称为经典耐药机制[13]。有研究者通过荧光素酶报告基因活性分析发现miR-23a直接结合RUNX3-3'UTR区，从而证实Runt相关转录因子3(Runx3)基因是miR-23a调控的靶基因[14]。Runx3是存在于细胞内的一种抑癌基因,其抑癌机制与TGF-β通路有关，后者是对多种发育和生理过程产生抑制作用的生长因子[15-16]。Runx3蛋白与Sin3A等转录辅助抑制因子结合，从而沉默MDR1基因表达，最终使P-gp等蛋白表达下降，由于耐药肿瘤细胞内高表达miR-23a，从而限制了Runx3的抑癌作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于本研究的实验结果及已证实的相关结果，我们推测，耐药卵巢癌A2780细胞中miR-23a表达显著增高，miR-23a与Runx33'UTR区结合，抑制Runx3的表达，从而限制了Runx3对MDR1的表达沉默作用，使得耐药细胞P-gp表达明显上升，进而通过经典途径发挥了耐药作用。而抑制miR-23a的表达使其调控作用减弱，可提高Runx3的表达量，促进Runx3对MDR1的表达沉默作用，使得P-gp蛋白表达减少，不同程度的抑制了经典耐药途径作用，从而提高耐药细胞对顺铂的敏感性。然而miR-23a具有多基因调控性质，因而其精确耐药作用机制，仍然有待进一步探索",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Wenham RM,Lapolla J,Lin HY,et al.A phase II trial of docetaxel ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and bevacizumab in recurrent ovarian cancer within l2 months of prior platinum-based chemotherapy[J].Gynecol Oncol, 2013,130 (1): 19-24.   \n[2] Wang C,Yan L,Wang Y,et al. Overexpression of lewis(y） antigen protects ovarian Cancer RMG-1 cells from carboplatin-induced apoptosis by the upregulation of Topo-I and Topo-II β[J].Anat Rec, 2011,294(6): 961-9.   \n[3]Surowiak P, Materna V,Maciejczyk A,et al. Nuclear metallothionein expression correlates with cisplatin resistance of ovarian cancer cells and poor clinical outcome[J].Virchows Arch,2007,450 (3): 279-85.   \n[4] Sessa R, Hata A. Role of microRNAs in lung development and pulmonary diseases[J].Pulm Circ,2013,3(2): 315-28.   \n[5]Chhabra R,Dubey R,Saini N.Cooperative and individualistic functions of the microRNAs in the miR-23a-27a-24-2 cluster and its implication in human diseases[J].Mol Cancer,2010,5: 232.   \n[6]Hall M,Gourley C，Mcneish I，et al. Targeted anti-vascular therapies for ovarian cancer: current evidence [J].Br J Cancer, 2013,108(2): 250-8.   \n[7] Cao M, Seike M, Soeno C,et al. MiR-23a regulates TGF $\\beta$ -induced epithelial-mesenchymal transition by targeting E-cadherin in lung cancer cells[J]. Int JOncol,2012,41(3): 869-75.   \n[8]He Y,Meng C, Shao Z,et al. MiR-23a functions as a tumor suppressor in osteosarcoma[J]. Cell Physiol Biochem,2014,34(5): 1485-96.   \n[9]Lubin J，Markowska A, Knapp P. Factors affecting response of chemotherapy in women with ovarian cancer[J].Eur J Gynaecol Oncol,2012,33(6): 644-7.   \n[10] Wang N,Zhu M,Wang X,et al. Berberine-induced tumor suppressor p53 up-regulation gets involved in the regulatory network of MIR-23a in hepatocellular carcinoma[J]. Biochim Biophys Acta, 2014, 1839(9): 849-57.   \n[11] XuL,Cai J,Yang Q，etal. Prognostic significanceof several biomarkers in epithelial ovarian cancer:a meta-analysisof published studies [J].J Cancer Res Clin Oncol，2013,139(8): 1257-77.   \n[12] Yang X, Zhou Y,Peng S,et al. Differentially expressed plasma microRNAs in premature ovarian failure patients and the potential regulatory function of mir-23a in granulosa cell apoptosis [J]. Reproduction,2012,144(2): 235-44.   \n[13]贺荣芳,谢黎明,赵 强,等.miR-23a与RUNX1在胃癌中的表达及其 临床意义[J].中国普通外科杂志,2012,21(5):563-7.   \n[14] Vaksman O,Stavnes HT, Kaern J,et al. miRNA profiling along tumour progression in ovarian carcinoma[J]. JCell Mol Med,2011, 15(7): 1593-602.   \n[15] Nishina S,Shiraha H, Nakanishi Y, et al. Restored expression of the tumor suppressor gene RUNX3 reduces cancer stem cells in hepatocellular carcinoma by suppressing Jagged1-Notch signaling [J]. Oncol Rep,2011,26(3): 523-31.   \n[16] Zheng Y, Wang R, Song HZ,et al. Epigenetic downregulation of RUNX3 by DNA methylation induces docetaxel chemoresistance in human lung adenocarcinoma cells by activation of the AKT pathway [J]. Int JBiochem Cell Biol,2013,45(11): 2369-78. (编辑.孙旦明) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,135 @@
+编号：164063
+
+# 偏三甲苯低温氧化实验和理论研究
+
+翁俊桀1，于丹1，刘岳曦1,2，王丙寅1,2，邢利利³，张李东³，田振玉1,2,\*(1 中国科学院工程热物理研究所，北京100190；²中国科学院大学,北京100049;3中国科学技术大学国家同步辐射实验室，安徽 合肥 230029)
+
+摘要利用射流搅拌反应器研究了偏三甲苯在当量为1.0、温度范围为 $7 0 0 - 1 1 0 0 \mathrm { ~ K ~ }$ 条件下的低温氧化过程。根据实验和理论计算结果，发展了一个544物种3248反应的机理，更新了偏三甲苯分解、异位加成和氢提取等反应的速率常数，并在新机理中引入了偏三甲苯1位和2位甲基上的脱氢反应。本机理可以很好地预测实验结果。反应路径分析表明，1、2和4位脱氢是偏三甲苯的主要消耗路径。根据灵敏度分析可知，脱氢反应和 $\mathrm { H O } _ { 2 } +$ 二甲基苄基分别起抑制和促进作用。
+
+关键词偏三甲苯；低温氧化；射流搅拌反应器；反应路径分析；灵敏度分析中图分类号：TK124 文献标识码：A 文章编号：164063
+
+Experimental and kinetic study of 1,2,4-trimethylbenzene oxidation
+
+under low temperature
+
+WENG Jun-Jiel YU Danl LIU Yue-Xi1,2 WANG Bing-Yin1,2 XING Li-Li ZHANG Li-Dong TIAN Zhen- $\cdot \mathrm { Y u } ^ { 1 , 2 , \ast }$
+
+(1. Institute of Engineering Thermophysics,Chinese Academy of Sciences,Beijing1O0190, China; 2.University of the Chinese Academy of Sciences,BeijinglOo19o, China; 3.University of Science and Technology of China,Hefei,Anhui 230029,China)
+
+Abstract: The present work aims to perform the experimental and kinetic study of 1,2,4-trimethylbenzene (TMB124） low-temperature oxidation under stoichiometric condition in a Jet-stired reactor (JSR).The experiment was carried out in the temperature range of $7 0 0 { - } 1 1 0 0 \mathrm { ~ K ~ }$ at atmospheric pressure.According to the measurements and theoretical calculations,a detailed chemical kinetic model involving 544 species and 3248 reactions was developed. Rate constants of TMB124 decomposition, reaction with $\mathrm { H O } _ { 2 }$ ，ipso-additions and metatheses with abstraction of methyl H-atom were updated.New pathways of H-abstraction from the 1- and 2- methyl groups were considered.The established model reproduces the measured mole fraction profiles of the major species and intermediates well. Rate-of-production analysis indicates that TMB124 is dominantly consumed by metatheses giving rise to three dimethyl benzyl radicals. Sensitivity analysis shows that the Habstraction reactions of TMBl24 exhibit strong inhibiting effect, while the reactions of $\mathrm { H O } _ { 2 }$ radical and the three dimethyl benzyl radicals have promoting effect.
+
+Keywords:1,2,4-Trimethylbenzene;Low temperature oxidation; JSR；Rate-of-production analysis； Sensitivity analysis.
+
+化性质[2,3]。苯[4]、甲苯[5,6]、二甲苯[7-9]、乙苯[10]等典型芳烃燃料的燃烧过程已被广泛研究，但是这些燃料的分子量与真实航空燃料的平均分子量（约 $1 4 0 { - } 1 5 0 ~ \mathrm { \ g / m o l / }$ [11]仍然存在差距，不能完全反映真实航空燃料的燃烧特性。此外，以上燃料的化学结构相对比较简单，因此无法模拟实际航空燃料中的复杂芳香族化合物。最近，由于具有更高的分子量和更复杂的化学结构，偏三甲苯被选作替代煤油的芳香族组分[2]。因此，研究偏三甲苯的燃烧特性具有非常重要的意义。
+
+目前，对于偏三甲苯氧化特性的实验和理论研究较为有限。Roubaud等人利用快速压缩机研究了偏三甲苯的自点火特性，研究发现偏三甲苯可以在较低的温度和压力下被点燃，并且显示出了类似于烷烃和烯烃的复杂特性，他们将偏三甲苯归属于“邻二甲苯组”[12]。Bikas 发展了一个偏三甲苯低温氧化机理[13]，该机理是建立在甲苯机理基础上的，并认为偏三甲苯早期的氧化过程主要是发生在4位甲基上的氢提取反应。Bikas的机理被用于验证点火延迟时间[12]及对冲火焰自燃的临界条件[13]等实验数据。此后Honnet等人提出了可替代Jet-A航空煤油的亚琛代用模型燃料，该燃料包括 $20 \%$ 偏三甲苯和 $80 \%$ 正癸烷（按重量比例混合)，他们研究了该模型燃料层流非预混火焰的熄火极限、自燃和炭烟体积分数等特性 [2]。在此基础上，Honnet 等人提出了半经验的偏三甲苯机理，此机理对Bikas 的偏三甲苯机理[13]做了更新。Hui等人利用对冲反应器研究了偏三甲苯的层流火焰速度和熄灭拉伸率，研究发现Honnet的机理明显低估了偏三甲苯的熄灭拉伸率和层流火焰传播速度[14，15]。Won 等人利用对冲反应器研究了偏三甲苯扩散火焰的熄灭特性，发现 Honnet的机理严重低估了熄火极限[16]。因此，偏三甲苯的机理迫切需要更新来对实验数据进行更加可靠的预测，特别是考虑到已报道的偏三甲苯机理中只考虑到4位的二甲基苄基自由基，而忽略了1位和2位形成的二甲基苄基自由基。此外，研究偏三甲苯低温氧化过程中的产物结构及浓度分布的研究十分匮乏，不利于深入分析偏三甲苯等模型燃料的动力学特性。
+
+本工作利用自行设计的射流搅拌反应器实验平台研究了偏三甲苯在700-1100K，1个大气压，当量比为1.0条件下的低温氧化过程。根据本实验工作及理论计算，结合前人文献结果[2]，我们提出了新的偏三甲苯详细化学动力学机理。本工作扩展了偏三甲苯低温氧化条件下的数据库，加深了对模型燃料燃烧过程和炭黑前驱体形成过程的理解。
+
+# 1实验与动力学模拟
+
+# 1.1 实验
+
+图1是偏三甲苯低温氧化实验系统示意图。本工作中所使用的射流搅拌反应器（JSR）的参数已经在文献中进行了详细描述[17]，在此只作简要介绍，反应器是由熔融石英制成的，中部是直径为50mm的圆球，球内有四个内径为 $0 . 3 \mathrm { m m }$ 的喷嘴。
+
+![](images/f4f8fe53696f5a8f5b47081a9825a11552540b7df5a7f9f57279930fe73dfb95.jpg)  
+图1偏三甲苯低温氧化实验系统示意图  
+Fig.1JSR system for TMB124 oxidation
+
+偏三甲苯购于TCI公司，纯度高于 $98 \%$ ，未做纯化处理。偏三甲苯通过汽化罐汽化，汽化罐的温度保持在473 K，略高于偏三甲苯的沸点（443K)。液态偏三甲苯的流量是 $0 . 0 6 1 \mathrm { \ m l / m i n }$ （相当于气体混合物中体积比例为 $1 . 0 \ \%$ )，该流量由一台高压输液泵（FL2200，福立仪器有限公司）精确控制，氧气（纯度为 $9 9 . 9 9 9 \%$ ）和氩气（纯度为$9 9 . 9 9 9 \%$ ）的流量由质量流量控制器（美国MKS公司）精确控制，分别占总气体的体积比为 $12 . 0 \%$ 和$87 . 0 \%$ ，反应物总流量为1.0SLM，当量比为1.0,碳氧比C/O为0.38。温度由若干台温度控制器（德国Horst公司）监控，温度由K型热电偶进行测量。在进入到反应器之前，所有的反应物都预热到$4 7 3 \mathrm { K }$ 。气体反应物持续不断的通入反应器，待反应器达到稳态时通过六通阀进行取样分析。气体产物由气质联用（GC-MS，安捷伦7890B-5977A）和气相色谱（GC，安捷伦7890B）进行分析，实验中采用三根色谱柱（Molecular Sieve-5A， $_ { \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 } - \mathrm { K C l } }$ 和HP-INNOWax分别用于检测无机物、轻烃和芳香族化合物)，检测器为热导检测器（TCD）和火焰离子检测器（FID)。在每次检测之前，使用标准气体对仪器进行标定。实验中温度的不确定度为±5K，主要产物摩尔分数的误差为 $1 5 \%$ ，中间体物种的误
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+差为 $12 \%$ 。
+
+# 1.2动力学模拟
+
+本工作采用Chemkin-II软件的PSRcode开展模拟工作[18]。本工作发展的动力学机理是建立在Honnet的偏三甲苯机理[2]及Diévart的均三甲苯机理[19]基础上，并且加入了邻二甲苯[8]、间二甲苯[9]、对二甲苯 [7]子机理。本工作还采用量子化学（CBS-QB3方法）[20]计算了一些关键反应的速率常数，如偏三甲苯分解反应、偏三甲苯与 $\mathrm { H O } _ { 2 }$ 自由基反应、甲基氢原子的异位加成和氢提取反应等。需要说明的是，本模型中新加入了1位和2位甲基上的氢提取反应及其衍生中间产物的反应，这在前人工作中是没有考虑到的。本工作发展的模型包括544个物种和3248个反应。表1列出了部分修改和新增加的有关偏三甲苯及其衍生中间产物的化学反应。大部分中间物种的热力学数据采用THERGAS软件计算得到[21]。部分无法通过THERGAS计算的中间产物的热力学数据利用从头计算的方法得到，具体来说是采用CBS-QB3方法[20]和Gaussian09软件。最后利用模型进行生成速率分析（Rate-of-ProductionAnalysis，简称ROP分析）和灵敏度分析（SensitivityAnalysis）研究了偏三甲苯的主要消耗路径和敏感反应。本工作采用电子结构理论结合过渡态理论计算了部分反应的速率常数，采用CBS-QB3方法[20]进行几何结构优化和振动频率分析。此外，还利用本征反应坐标计算来验证指定的过渡态和反应物或产物之间的关联性。本工作中所有量子化学计算均使用Gaussian09软件进行。动力学参数是根据过渡态理论结合ChemRate程序计算得到。除了本工作发展的动力学机理，Honnet的偏三甲苯机理也用于模拟实验结果，并和本工作机理进行对比。
+
+表1 部分修改及增加的有关偏三甲苯及其衍生中间产物的化学反应 $k = A T ^ { n } \mathbf { e x p } \left( - E \mathbf { a } / R T \right)$ ，单位为mol,s, $\mathrm { c m } ^ { 3 }$ 和kcal Table 1 Modified and some added reactions used in this study. $k = A T ^ { n } \mathrm { e x p } \left( - E \mathrm { a } / R T \right)$ ,units are mol, s, $\mathrm { c m } ^ { 3 }$ and kcal.   
+3 WORD批量转PDF工具-未注册 注册码购买联系QQ：3049816538   
+
+<html><body><table><tr><td>RNa</td><td>反应</td><td>A</td><td>n</td><td>E</td><td>Ref.</td></tr><tr><td>修改的反应</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>R1.</td><td>tmb124=CH34jC6H3CHz-12+CH3</td><td>2.66E16</td><td>0.00</td><td>97.88</td><td>b</td></tr><tr><td>R2.</td><td>tmb124+O2=d12mb4CH2+HO2</td><td>5.73E9</td><td>2.99</td><td>40.58</td><td></td></tr><tr><td>R3.</td><td>tmb124+H=o-xylene+CH3</td><td>5.67E8</td><td>1.43</td><td>5.65</td><td>d</td></tr><tr><td>R4.</td><td>tmb124+H=d12mb4CH2+H2</td><td>5.96E-1</td><td>4.88</td><td>6.57</td><td>C</td></tr><tr><td>R5.</td><td>tmb124+OH=d12mb4CHzOj+H2</td><td>9.15E8</td><td>1.47</td><td>15.54</td><td>C</td></tr><tr><td>R6.</td><td>d12mb4CH2+HO=>d12mb4CHO+H+OH</td><td>6.00E7</td><td>1.50</td><td>5.12</td><td>C</td></tr><tr><td>R7.</td><td>d12mb4CH2+HO2=>o-xylene+HCO+OH</td><td>2.38E7</td><td>1.71</td><td>2.92</td><td>c</td></tr><tr><td>R8.</td><td>d12mb4CH2+Oz=d12mb4CH2Oj+O</td><td>6.3E12</td><td>0.00</td><td>40.0</td><td>e</td></tr><tr><td>R9.</td><td>d12mb4CH2Oj+Oz=d12mb4CHO+HO2</td><td>6.0E10</td><td>0.00</td><td>1.60</td><td>f</td></tr><tr><td colspan="2">部分新加入的反应</td><td></td><td></td><td></td><td></td></tr><tr><td>R10.</td><td>d12mb4CHz+H=tmb124</td><td>1.0E14</td><td>0.00</td><td>0.00</td><td>g</td></tr><tr><td>R11.</td><td>d24mb1CH+H=tmb124</td><td>1.0E14</td><td>0.00</td><td>0.00</td><td>g</td></tr><tr><td>R12.</td><td>d24mb2CH2+H=tmb124</td><td>1.0E14</td><td>0.00</td><td>0.00</td><td>g</td></tr><tr><td>R13.</td><td>tmb124=CH34jC6H3CH3-13+CH3</td><td>4.0E17</td><td>0.00</td><td>97.00</td><td>h</td></tr><tr><td>R14.</td><td>tmb124=CH32jC6H3CH3-14+CH3</td><td>4.0E17</td><td>0.00</td><td>97.00</td><td>h</td></tr><tr><td>R15.</td><td>tmb124+O2=d24mb1CH2+HO2</td><td>4.2E12</td><td>0.00</td><td>38.60</td><td>i</td></tr><tr><td>R16.</td><td>tmb124+O2=d14mb2CH2+HO2</td><td>4.2E12</td><td>0.00</td><td>38.60</td><td>i</td></tr><tr><td>R17.</td><td>tmb124+H=d13mb+CH</td><td>5.67E8</td><td>1.43</td><td>5.65</td><td>d</td></tr><tr><td>R18.</td><td>tmb124+H=p-xylene+CH3</td><td>5.67E8</td><td>1.43</td><td>5.65</td><td>d</td></tr><tr><td>R19.</td><td>tmb124+O=t124mb5Oj+H</td><td>1.7E13</td><td>0.00</td><td>3.60</td><td>j</td></tr><tr><td>R20.</td><td>tmb124+OH=t124mb5OH+H</td><td>1.3E13</td><td>0.00</td><td>10.60</td><td>k</td></tr><tr><td>R21.</td><td>tmb124+H=d24mb1CHz+H2</td><td>5.96E-1</td><td>4.88</td><td>6.57</td><td>g</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>R22.</td><td>tmb124+OH=d24mb1CH2Oj+H2</td><td>2.29E12</td><td>0.00</td><td>-0.36</td><td>1</td></tr><tr><td>R23.</td><td>tmb124+H=d14mb2CH2+H2</td><td>5.96E-1</td><td>4.88</td><td>6.57</td><td>g</td></tr><tr><td>R24.</td><td>tmb124+OH=d14mb2CH2Oj +H2</td><td>2.29E12</td><td>0.00</td><td>-0.36</td><td>1</td></tr><tr><td>R25.</td><td>d24mb1CH2+HO2=>d24mb1CHO+H+OH</td><td>2.1E5</td><td>2.18</td><td>0.373</td><td>c</td></tr><tr><td>R26.</td><td>d24mb1CH2+HO2=>d13mb +HCO+OH</td><td>1.0E5</td><td>2.30</td><td>0.200</td><td>c</td></tr><tr><td>R27.</td><td>d14mb2CHz+HO2=>d14mb2CHO+H+OH</td><td>2.59E5</td><td>2.09</td><td></td><td></td></tr><tr><td>R28.</td><td>d14mb2CH2+HO2=>p-xylene+HCO+OH</td><td>1.56E5</td><td>2.20</td><td>0.401 0.231</td><td>C</td></tr></table></body></html>
+
+注：“RN指化学反应序号；b类比Oehlschlaeger等人机理[22]中 $\mathrm { C _ { 6 } H _ { 5 } C H _ { 3 } } \mathrm { = } \mathrm { C _ { 6 } H _ { 5 } } \mathrm { + } \mathrm { C H _ { 3 } }$ 的速率常数；‘本工作计算得到的速率常数；d类比Tian等人机理 [23]中 $\mathrm { C _ { 6 } H _ { 5 } C H _ { 3 } + H = C _ { 6 } H _ { 6 } + C H _ { 3 } }$ 的速率常数； $e$ 类比 Brezinsky 等人机理 [24]中$\mathrm { C } _ { 6 } \mathrm { H } _ { 5 } \mathrm { C H } _ { 2 } \mathrm { + } \mathrm { O } _ { 2 } \mathrm { = } \mathrm { C } _ { 6 } \mathrm { H } _ { 5 } \mathrm { C H } _ { 2 } \mathrm { O } \mathrm { + } \mathrm { O }$ 的速率常数； $f$ 类比Tian等人机理[23]中 $\mathrm { C } _ { 6 } \mathrm { H } _ { 5 } \mathrm { C H } _ { 2 } \mathrm { O } + \mathrm { O } _ { 2 } { = } \mathrm { H O } _ { 2 } \mathrm { + } \mathrm { C } _ { 6 } \mathrm { H } _ { 5 } \mathrm { C H O }$ 的速率常数； $g$ 本工作估算的速率常数；类比Colket 和Seery 机理[25]中 $_ { 0 }$ -xylene ${ } = \mathrm { C _ { 6 } H _ { 4 } C H _ { 3 } + C H _ { 3 } }$ 的速率常数；i类比Tian等人机理[23]中0-xylene $+ \mathrm { O } _ { 2 } { = } _ { 0 }$ -xylyl $+ \mathrm { H O } _ { 2 }$ 的速率常数；i类比 Tappe 等人机理[26]中o-xylene $+ \mathrm { O } { = } \mathrm { O C } _ { 6 } \mathrm { H } _ { 3 } ( \mathrm { C H } _ { 3 } ) _ { 2 } { + } \mathrm { H }$ 的速率常数；“类比Baulch等人机理 [27]中 o-xylene $\scriptstyle \mathrm { \cdot + O H = }$ $\mathrm { d } 1 2 \mathrm { m b } 4 \mathrm { O H + H }$ 的速率常数；/类比Honnet等人机理 [2]中0-xylene $\scriptstyle + \mathrm { O H = C H _ { 3 } C _ { 6 } H _ { 4 } C H _ { 2 } O - 1 } 2 + \mathrm { H } _ { 2 }$ 的速率常数。
+
+# 2结果与讨论
+
+# 2.1主要物种摩尔分数
+
+利用气相色谱共检测到了22个物种，其中，乙苯（ $\mathrm { \ C _ { 6 } H _ { 5 } C _ { 2 } H _ { 5 } } ^ { \prime }$ ）、间二甲苯（ $1 , 3 \mathrm { - C } _ { 8 } \mathrm { H } _ { 1 0 } \backslash$ 、对二甲苯（ $\phantom { + } 1 , 4 \mathrm { - C } _ { 8 } \mathrm { H } _ { 1 0 }$ ）和丙烯醛（ $\mathrm { \ C _ { 2 } H _ { 3 } C H O }$ ）在前人的实验研究中没有被检测到，Honnet的偏三甲苯机理[2]也没有考虑到这些物种。
+
+![](images/ff7136c7e11cbcf12ad5627d58d54b56ecbddf3a067eaa7418a4044052c67a5c.jpg)  
+图2偏三甲苯低温氧化过程中主要产物在不同温度下的实验摩尔分数曲线（点）和模拟摩尔分数曲线（线，其中实线为本工作机理结果，虚线为采用Honnet机理结果）Fig.2 Experimental(symbols） and modeling(lines） molefraction profiles of major species in the oxidation of TMB124 atlow temperature
+
+本文选取了一些典型的物种，包括反应物、芳烃及主要产物，这些物种的实验及模拟结果见图2-3。图2为偏三甲苯、 $\mathrm { H } _ { 2 }$ 、CO和 $\mathrm { C O } _ { 2 }$ 的实验和模拟结果，可以发现偏三甲苯在高于750K时开始分解， $\mathrm { H } _ { 2 }$ 、CO和 $\mathrm { C O } _ { 2 }$ 分别在高于975、900和 $9 5 0 \mathrm { ~ K ~ }$ 时开始产生。与Honnet的偏三甲苯机理相比，本工作发展的机理可以更好地模拟实验结果。然而，目前的机理高估了 $\mathrm { H } _ { 2 }$ 和CO的峰值浓度，低估了$\mathrm { C O } _ { 2 }$ 的峰值浓度。通过ROP分析可以发现， $7 7 \%$ 的$\mathrm { H } _ { 2 }$ 产生于偏三甲苯和H原子及OH自由基的反应，$90 \%$ 的CO来自于HCO和 $\mathrm { O } _ { 2 }$ 及活性产物分解反应，约 $65 \%$ 的 $\mathrm { C O } _ { 2 }$ 产生于CO与OH和 $\mathrm { H O } _ { 2 }$ 自由基的反应。因此，我们推测造成实验值和模拟值有偏差的原因是来源于部分基元反应速率常数的不确定性引起的误差。此外，实验引起的误差也可能会导致这些偏差。
+
+![](images/e0acc5aa52dcb837bd37d66a6a425ffa59fc7e4ceee64c1eeacced9cf22c7f2c.jpg)  
+图3偏三甲苯低温氧化过程中芳烃产物在不同温度下的实验摩尔分数曲线（点）和模拟摩尔分数曲线（线，其中实线为本工作机理结果，虚线为采用Honnet机理结果）  
+Fig.3 Experimental(symbols） and modeling(lines） molefraction profiles of aromatic species in the oxidation of TMB124at low temperature
+
+偏三甲苯低温氧化过程中产生的C6-C8产物的实验和模拟结果见图3。苯（ $\mathrm { \langle C _ { 6 } H _ { 6 } \rangle }$ 、甲苯（ $\mathrm { C _ { 6 } H _ { 5 } C H _ { 3 } }$ ）和乙苯（ $\mathrm { \ C _ { 6 } H _ { 5 } C _ { 2 } H _ { 5 } }$ ）在975K时摩尔分数达到最大值，而邻二甲苯、间二甲苯和对二甲苯在温度为925K时到达峰值浓度。总体来说，目前的机理比Honnet的机理能够更准确的模拟芳烃产物。值得注意的是，三种二甲苯（邻/间/对二甲苯）的摩尔分数是在同一个数量级，这表明偏三甲苯同时可能存在分解为三个二甲苯的分解路径。虽然三个二甲苯最大摩尔分数对应温度的预测值比实验温度值低 $2 5 \mathrm { K }$ 左右，但是本机理能够较好的模拟三个二甲苯摩尔分数的峰值浓度。
+
+目前机理模拟结果与实验结果仍然有一定的偏差。机理中某些反应的速率常数存在的不确定性对模拟结果会产生影响。目前工作是模拟偏三甲苯低温氧化过程的初步尝试，今后还需要更多的氧化实验数据对现有机理进行验证。
+
+# 2.2生成速率分析
+
+图4为偏三甲苯低温氧化过程中的ROP分析（温度为 $9 2 5 \mathrm { ~ K ~ }$ ，转化率为 $51 \%$ )。偏三甲苯低温氧化的主要反应路径是与H、OH和 $\mathrm { H O } _ { 2 }$ 自由基发生置换反应，从而生成三个二甲基苄基自由基（也就是 $\mathrm { d } 1 2 \mathrm { m b } 4 \mathrm { C H } _ { 2 }$ ， $\mathrm { \ d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 }$ 和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 }$ )，如图4中三个红色方框所示。值得说明的是，Bikas 和Honnet 的机理[2，13]只考虑了二甲基苄基自由基$\mathrm { { d } 1 2 m b 4 C H _ { 2 } }$ 的形成过程，没有考虑到1位和2位上甲基的C-H键断裂所形成的两个二甲基苄基自由基$\mathrm { \ d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 }$ 和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 }$ 。产生 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 和$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基的反应分别占到偏三甲苯消耗总量的 $9 \%$ 和 $1 1 \%$ 。少量的二甲苯可以通过发生在偏三甲苯上的原位取代反应而生成。
+
+![](images/96d4be84586eae560f6beea808a3bbe419bcee8be2cb69cdc69a72591c4f9915.jpg)  
+图4偏三甲苯低温氧化过程中的ROP分析（温度为 $9 2 5 \mathrm { K }$ ，转化率为 $51 \%$ Fig.4ROPanalysisofTMB124oxidation at $9 2 5 \mathrm { K }$ and $51 \%$ conversion
+
+除了重新生成偏三甲苯， $\mathrm { { d } 1 2 m b 4 C H _ { 2 } }$ 自由基主要转换为邻二甲苯和d12mb4CHO。少量的$\mathrm { { d } 1 2 m b 4 C H _ { 2 } }$ 自由基可以通过与OH自由基发生加成反应生成 $\mathrm { d } 1 2 \mathrm { m b } 4 \mathrm { C H } _ { 2 } \mathrm { O H }$ 。根据Bikas 的假设[13],偏三甲苯的分解路径与甲苯的分解路径是类似的，这也就意味着说 $\mathrm { { d } 1 2 m b 4 C H _ { 2 } }$ 和苄基自由基应该也有着类似的分解路径和反应比例。然而根据Metcalfe等人发展的甲苯机理[28]可知，生成 $\mathrm { C } _ { 6 } \mathrm { H } _ { 5 } \mathrm { C H } _ { 2 } \mathrm { O }$ 自由基、乙苯和联苄（ $\mathrm { C _ { 1 4 } H _ { 1 4 } }$ ）的反应路径分别占到苄基自由基消耗路径的 $52 \%$ 、 $23 \%$ 和 $1 6 \%$ 。这与本工作机理中 $\mathrm { { d } 1 2 m b 4 C H } _ { 2 }$ 自由基的反应路径差别较大，这种差异来源于 $\mathrm { { d } 1 2 m b 4 C H _ { 2 } }$ 和苄基自由基化学结构的差异及相关反应速率常数的差别。d12mb4CHO可以与H原子、OH自由基和O原子发生反应生成 $\mathrm { { d } 1 2 m b 4 C O j }$ 自由基，这占d12mb4CHO 消耗总量的 $71 \%$ 。 $\mathrm { { d } 1 2 m b 4 C O j }$ 自由基会脱除CO生成 $\mathrm { C H } _ { 3 } 4 \mathrm { j C } _ { 6 } \mathrm { H } _ { 3 } \mathrm { C H } _ { 3 ^ { - 1 2 } }$ 自由基，该自由基随后与 $\mathrm { O } _ { 2 }$ 反应生成d12mb4Oj自由基。 $36 \%$ 的
+
+# WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+d12mb4Oj自由基会脱除CO和H原子生成甲苯。其余的 $\mathrm { { d } 1 2 m b 4 O j }$ 自由基会与H原子反应生成$\mathrm { d 1 2 m b 4 O H }$ 。通过与OH自由基、O原子和 $\mathrm { O } _ { 2 }$ 反应，大约 $23 \%$ 的 $\mathrm { d 1 2 m b 4 C H O }$ 能够生成o-xylyl自由基，随后o-xylyl自由基最终会生成苯并环丁烯（benzocyclobutene）和邻二亚甲基苯（o-xylylene）。此外，几乎所有的 $\mathrm { d } 1 2 \mathrm { m b } 4 \mathrm { C H } _ { 2 } \mathrm { O H }$ 能够与H原子反应重新生成偏三甲苯。
+
+本研究工作发现，亚甲基的位置会显著影响偏三甲苯的分解路径。对于1位来说， $\mathrm { \ d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 }$ 自由基通过一系列反应能够生成 $\mathrm { d } 2 4 \mathrm { m b 1 C H O }$ ，间二甲苯，偏三甲苯和 $\mathrm { d } 2 4 \mathrm { m b 1 C H } _ { 2 } \mathrm { O H }$ 。通过类似的反应， $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 }$ 自由基可以生成 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H O }$ 、对二甲苯、偏三甲苯和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O H }$ 。Roubaud 等人[12]的研究表明，偏三甲苯具有和邻二甲苯类似的自点火特性，这也就是说明， $\mathrm { \ d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 }$ 和$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 }$ 自由基与o-xylyl自由基具有相似的反应特性。然而，从之前的讨论可知，大部分的 $\mathbf { \sigma } _ { o }$ xylyl自由基将会产生苯并环丁烯（benzocyclobutene）和邻二亚甲基苯（ $\scriptstyle O -$ xylylene)，这是由我们发展的偏三甲苯中所使用的由 Battin-Leclerc 等人[8]提出的邻二甲苯机理得到的结果。造成以上差异的原因是 $\mathrm { \ d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 }$ 和$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 }$ 自由基与o-xylyl自由基的化学结构及相关反应的速率常数存在差异。 $76 \%$ 的d24mb1CHO可以与H原子、O原子、OH自由基、 $\mathrm { H O } _ { 2 }$ 自由基及 $\mathrm { C H } _ { 3 }$ 自由基反应并生成 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C O j }$ 自由基。$\mathrm { d } 2 4 \mathrm { m b 1 C H O }$ 的另一个反应通道是与OH自由基、$\mathrm { H O } _ { 2 }$ 自由基、O原子及 $\mathrm { O } _ { 2 }$ 作用，生成 $m$ -xylyl自由基，该通道占 $\mathrm { d } 2 4 \mathrm { m b 1 C H O }$ 消耗总量的 $21 \%$ 。少量的 $\mathrm { d } 2 4 \mathrm { m b 1 C H O }$ （约 $1 \%$ ）还可以与H原子反应生成间二甲苯。 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C O j }$ 自由基会脱除CO生成$\mathrm { C H } _ { 3 } 4 \mathrm { j C } _ { 6 } \mathrm { H } _ { 3 } \mathrm { C H } _ { 3 } { - } 1 3$ 自由基，该自由基会接着与 $\mathrm { O } _ { 2 }$ 反应生成 $\mathrm { \ d 2 4 m b 1 0 j }$ 自由基。通过脱除CO和H原子， $64 \%$ 的d24mb1Oj自由基会生成甲苯。通过与H原子和 $\mathrm { H O } _ { 2 }$ 自由基反应， $34 \%$ 的 $\mathrm { \ d 2 4 m b l { O j } }$ 自由基可以生成 $\mathsf { d } 2 4 \mathrm { m b 1 { O H } }$ 。然而，与 $\mathrm { d 1 2 m b 4 O H }$ 的分解路径不同的是， $96 \%$ 的 $\mathrm { \ d 2 4 m b 1 O H }$ 会重新生成$\mathrm { \ d 2 4 m b 1 0 j }$ 自由基。然而，与 $\mathrm { d } 1 2 \mathrm { m b } 4 \mathrm { C H } _ { 2 } \mathrm { O H }$ 的分解路径不同， $\mathrm { d } 2 4 \mathrm { m b l C H } _ { 2 } \mathrm { O H }$ 主要通过与H原子、O原子及OH自由基反应产生 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基,二者分解路径的差别是来源于相似反应的活化能不同。少量 $\mathrm { d } 2 4 \mathrm { m b 1 C H _ { 2 } O H }$ 的能够转换为偏三甲苯、间二甲苯和 $\mathrm { d } 2 4 \mathrm { m b 1 C H O }$ 。
+
+与d24mb1CHO类似，d14mb2CHO可以分别转换为 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C O j }$ 自由基、 $p$ -xylyl自由基和对二甲苯。通过脱去CO， $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C O j }$ 自由基转换为$\mathrm { C H } _ { 3 } 2 \mathrm { j C } _ { 6 } \mathrm { H } _ { 3 } \mathrm { C H } _ { 3 } { - } 1 4$ 自由基，该自由基接着与 $\mathbf { O } _ { 2 }$ 反应生成 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { O j }$ 自由基。 $64 \%$ 的d14mb2Oj自由基脱除CO和H原子生成甲苯； $34 \%$ 的d14mb2Oj自由基与H原子和 ${ \mathrm { H O } } _ { 2 }$ 自由基反应产生 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { O H }$ 。与$\mathrm { \ d 2 4 m b 1 O H }$ 类似，通过与OH自由基、 $\mathrm { C H } _ { 3 }$ 自由基及O原子反应， $96 \%$ 的 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { O H }$ 重新生成$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { O j }$ 自由基。与 $\mathrm { d } 2 4 \mathrm { m b 1 C H _ { 2 } O H }$ 类似，$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O H }$ 分解后会形成 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基、偏三甲苯、对二甲苯和d14mb2CHO。
+
+除了生成三个二甲基苄基自由基的路径之外，少量的偏三甲苯还能够与OH自由基反应分别生成$\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ （ $9 \%$ ）和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ （ $1 1 \%$ ）自由基。生成 $\mathrm { d } 2 4 \mathrm { m b 1 C H _ { 2 } O H }$ 的反应消耗了 $81 \%$ 的$\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基；而生成 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O H }$ 的反应消耗了 $28 \%$ 的 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基。通过丢失$\mathrm { C H } _ { 2 } \mathrm { O }$ ， $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基可以分别产生 $\mathrm { C H } _ { 3 } 4 \mathrm { j C } _ { 6 } \mathrm { H } _ { 3 } \mathrm { C H } _ { 3 } { - } 1 3$ 和 $\mathrm { C H } _ { 3 } 2 \mathrm { j } \mathrm { C } _ { 6 } \mathrm { H } _ { 3 } \mathrm { C H } _ { 3 ^ { - } } 1 4$ 自由基。通过类似的反应，d24mb1CHO和$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H O }$ 可以分别来源于 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 和$\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基。虽然相似反应的速率常数相同，但这些反应在 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基分解路径中所占的比例有所区别。
+
+# 2.3灵敏度分析
+
+图5展示了偏三甲苯低温氧化过程中的灵敏度分析结果（温度为 $9 2 5 \mathrm { K }$ ，转化率为 $51 \%$ )。可以看
+
+d24mb1CH2+h=tmb124 tmb124+oh=d12mb4CH2+h2o d14mb2CH2+h=tmb124 d24mb1OH+o2=d24mb1Oj+ho2 d14mb2OH+o2=d14mb2Oj+ho2 d12mb4CH2+h=tmb124 d12mb4CH2+ho2=>d12mb4CHO+h+oh d14mb2Oj=>c3h4-a+c4h5-n+co tmb124+h=d24mb1CH2+h2 d14mb2CH2+ho2=>p-xylene+hco+oh d24mb1Oj=>c3h4-a+c4h5-n+co d24mb1CH2+ho2=>d13mb+hco+oh tmb124+oh=d14mb2CH2Oj+h2 d24mb1CH2+ho2=>d24mb1CHO+h+oh tmb124+oh=d24mb1CH2Oj+h2 d12mb4CH2+ho2=>o-xylene+hco+oh -0.3 -0.2 -0.1 0.0 0.1 0.2 Sensitivity Analysis
+
+# 6WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538
+
+出，偏三甲苯发生的H进攻反应对于偏三甲苯的消耗有着强烈的抑制效应。此外，在偏三甲苯1位和2位甲基发生C-H键断裂的单分子解离反应也会抑制偏三甲苯的消耗。而 $\mathrm { H O } _ { 2 }$ 自由基与三个二甲基苄基自由基的反应则会显著促进偏三甲苯的消耗过程。除了以上消耗路径，偏三甲苯的1位和2位甲基还可以与OH自由基反应，生成 $\mathrm { d } 2 4 \mathrm { m b } 1 \mathrm { C H } _ { 2 } \mathrm { O j }$ 和 $\mathrm { d } 1 4 \mathrm { m b } 2 \mathrm { C H } _ { 2 } \mathrm { O j }$ 自由基，这也是偏三甲苯较为重要的消耗路径。偏三甲苯4位甲基上C-H键断裂的单分子解离反应会促进偏三甲苯的消耗，这与1位和2位甲基C-H键断裂起到的作用相反。因此，偏三甲苯甲基的位置对于其消耗过程会有不同的影响，这也说明偏三甲苯比甲苯[5,6]、二甲苯[7-9]及均三甲苯[19]的反应更加复杂。
+
+# 3结论
+
+本文介绍了偏三甲苯低温氧化的实验及动力学模拟研究，实验在自行设计的射流搅拌反应器中进行，温度范围是700-1100K，当量比为1.0，压力为常压。实验中利用气相色谱仪检测到了22个物种，我们发展了一个新的偏三甲苯动力学机理，并且模拟值与实验值吻合较好。通过ROP分析可知，在1、2和4位分别生成三个二甲基苄基自由基是偏三甲苯的主要消耗路径。根据灵敏度分析可知，氢进攻反应对偏三甲苯的消耗具有强烈的抑制作用，而 $\mathrm { H O } _ { 2 }$ 自由基与三个二甲基苄基自由基的反应会明显促进偏三甲苯的消耗。
+
+# 参考文献
+
+[1]Edwards T,Maurice L Q.Surrogate mixtures to represent complex aviation and rocket fuels [J]. Journal of Propulsion and Power,2001,17(2):461-466   
+[2]Honnet S, Seshadri K,NiemannU,etal.A surrogate fuel for kerosene [J].Proceedings of the Combustion Institute,2009, 32(1): 485-492   
+[3]Won S H, Sun W T,Ju Y G.Kinetic effects of toluene blending on the extinction limit of n-decane diffusion flames [J]. Combustion and Flame,2010,157(3):411-420   
+[4] Saggese C,Frassoldati A,Cuoci A,et al. A wide range kinetic modeling study of pyrolysis and oxidation of benzene [J]. Combustion and Flame,2013,160(7):1168-1190   
+[5] Yuan W H,Li Y Y,Dagaut P,et al. Investigation on the pyrolysis and oxidation of toluene over a wide range conditions. I. Flow reactor pyrolysis and jet stirred reactor oxidation [J]. Combustion and Flame,2015,162(1): 3-21 [6] Yuan W H, Li Y Y,Dagaut P,et al. Investigation on the pyrolysis and oxidation of toluene over a wide range conditions. II. A comprehensive kinetic modeling study [J]. Combustion and Flame,2015,162(1): 22-40   
+[7] Gail S,Dagaut P.Experimental kinetic study of the oxidation of p-xylene in a JSR and comprehensive detailed chemical kinetic modeling [J]. Combustion and Flame,2005,141(3): 281- 297   
+[8] Battin-Leclerc F，Bounaceur R,Belmekki N,et al. Experimental and modeling study of the oxidation of xylenes [J]. International Journal of Chemical Kinetics,2006,38(4): 284-302 [9] Gudiyella S,Malewicki T,ComandiniA,etal.High pressure study of m-xylene oxidation [J]. Combustion and Flame,2011, 158(4): 687-704   
+[10] Li Y Y,Cai J H, Zhang L D,et al.Experimental and modeling investigation on premixed ethylbenzene flames at low pressure [J].Proceedings of the Combustion Institute,2011, 33(1): 617-624   
+[11] Dagaut P,Karsenty F,Dayma G,et al. Experimental and detailed kinetic model for the oxidation of a Gas to Liquid (GtL) jet fuel [J]. Combustion and Flame 2014,161(3): 835-847   
+[12] Roubaud A，Mineti R,Sochet L R.Oxidation and combustion of low alkylbenzenes at high pressure: comparative reactivity and auto-ignition [J]. Combustion and Flame, 2000, 121(3): 535-541   
+[13] Bikas G. Kinetic mechanisms for hydrocarbon ignition [D] Aachen, Germany: RWTH Aachen University, 2001   
+[14] Hui X, Das A K, Kumar K, et al. Laminar flame speeds and extinction stretch rates of selected aromatic hydrocarbons [J]. Fuel, 2012, 97: 695-702   
+[15] Hui X, Sung C J. Laminar flame speeds of transportationrelevant hydrocarbons and jet fuels at elevated temperatures and pressures [J]. Fuel,2013,109:191-200   
+[16] Won S H,Dooley S, Dryer F L, et al. Kinetic effects of aromatic molecular structures on diffusion flame extinction [J]. Proceedings of the Combustion Institute,2011,33(1): 1163-1170 [17] Weng J J,Liu Y X, Wang B Y, et al. Experimental and kinetic investigation of 1,2,4-trimethylbenzene oxidation at low temperature [J]. Proceedings of the Combustion Institute,2017: published online, htp://dx.doi.org/10.1016/j.proci.2016.09.002 [18] Glarborg P, Kee R J, Grcar JF,et al. A fortran program for modelling well stirred reactors [R]. Albuquerque, USA: Sandia National Laboratories,1986: Report No. SAND86-8209   
+[19] Diévart P,Kim H H, Won S H,et al. The combustion properties of 1,3,5-trimethylbenzene and a kinetic model [J]. Fuel,2013,109:125-136   
+[20]Montgomery JA,Frisch MJ,OchterskiJW,et al.A complete basis set model chemistry. VI. Use of density functional geometries and frequencies [J]. Journal of Chemical Physics,1999,110(6): 2822-2827   
+[21] Muller C,Michel V, Scacchi G, et al.A computer program for the evaluation of thermochemical data of molecules and free radicals in the gas phase [J]. Journal de Chimie Physique et de Physico-chimie Biologique,1995,92:1154-1177   
+[22] Oehlschlaeger M A,Davidson D F,Hanson R K.Thermal decomposition of toluene: Overall rate and branching ratio [J]. Proceedings of the Combustion Institute,2007,31(1):211-219 [23]Tian Z Y,Pitz WJ,Fournet R,et al.A detailed kinetic modeling study of toluene oxidation in a premixed laminar flame [J].Proceedings of the Combustion Institute,2011,33(1):233- 241   
+[24]Brezinsky K,Litzinger T A,Glassman I. The high temperature oxidation of the methyl side chain of toluene [J]. International Journal of Chemical Kinetics,1984,16(9):1053- 1074   
+[25] Colket M B, Seery D J.Reaction mechanisms for toluene pyrolysis [J].Proceedings of the Combustion Institute,1994, 25(1): 883-891   
+[26] Tappe M,Schliephake V,Wagner H G. Reactions of benzene, toluene and ethylbenzene with atomic oxygen (o-3p) in the gas-phase [J].Zeitschrift fur Physikalische Chemie,1989, 162:129-145   
+[27]BaulchDL,Cobos CJ,Cox R A,etal.Evaluated kinetic data for combustion modeling supplement-I [J]. Journal of Physical and Chemical Reference Data,1994,23(6): 847-1033 [28] Metcalfe W K,Dooley S,Dryer F L.Comprehensive detailed chemical kinetic modeling study of toluene oxidation [J].Energy& Fuels,2011,25(11):4915-4936
+
+# 8WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538

@@ -1,0 +1,386 @@
+[
+    {
+        "type": "text",
+        "text": "铁氧化菌对X80管线钢的腐蚀行为研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吕亚林，刘宏伟，熊福平，刘宏芳华中科技大学化学与化工学院材料化学与服役失效湖北省重点实验室，油田腐蚀与防护研究所，武汉，430074",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要采用电化学方法、腐蚀失重法及表面分析手段研究了X80 钢在含有铁细菌（IOB）的油田产出水中的腐蚀行为研究。结果表明，IOB 促进了X80 钢的腐蚀。在空白的油田产出水中，X80 钢腐蚀速率随时间增加先减小后增大。含有菌的油田产出水介质中，X80 碳钢腐蚀速率先快速减小后又快速增大。含有铁细菌(IOB)的体系形成的生物膜较为疏松，同时可以看到大量的腐蚀产物及IOB 细胞。而且通过3D三维立体显微镜可以看出含有IOB 体系表面腐蚀较为严重且具有点蚀坑产生。极化曲线分析和失重分析都表明IOB 的存在促进了X80 碳钢的腐蚀。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 X80 碳钢；铁细菌；生物膜；微生物腐蚀 分类号 TG142.71 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corrosion Behavior of X8o Pipeline Steel by Iron Oxidizing Bacteria ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LV Yalin, LIU Hongwei, XIONG Fuping, LIU Hongfang ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Laboratory for Large-Format Battery Materials and System, Ministry of Education， School of Chemistry and Chemical Engineering，Huazhong University of Science and Technology，Wuhan 430074, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractThe corrosion behavior of X80 carbon steel in oilfield produced water containing iron bacteria (IOB) was investigated by electrochemical method,corrosion weight loss method,3D microscope，SEM and other analytical methods.The results demonstrate that the presence of IOB can promote the corrosion of X80 carbon steel in oil field.In the presence ofbacteria,thebiofilm is relativelyloose,andthe X8Ocarbon steel surface have a large number of corrosion products and IOB cells. However,corrosion piting was observed on X80 carbon steel surface in the presence of bacteria.The corosion rate of the X80 carbon steel in the sterile production decreases with time lapsing.In oilfield produced water containing bacteria,the corrosion rate of X80 carbon steel rapidly decreases firstly then increases sharply.Polarization curve analysisand weight loss analysis showed that the presence of IOB promoted the corrosion of X80 carbon steel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.前言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于目前世界经济的发展，石油和天然气的开采依然很重要。近年来，我国石油，天然气等长输管道建设发展迅速，为了保证输送的安全，可靠和经济效益，高强度钢成为优先选择的对象。高强钢具有安全，经济效益好，寿命长等特点，其使用越来越广泛[1,2.3]。X80 钢及以上级别的钢材已经在我国西气东输工程中得到运用[4]。由于X80 钢具有优良的韧性和高强度，将会得到更加广泛的运用。X80高强钢多用管线钢，用于输送石油和天然气。对于管线钢的管道内、外壁的腐蚀问题需要加以重视。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "腐蚀是威胁钢材使用寿命和安全的重要原因[5]。近几年一些研究者对 X80碳钢腐蚀问题进行了研究。Xue 等对 X80 碳钢氢致开裂腐蚀进行研究，指出没有外部压力作用X80 碳钢易发生氢致开裂。Wang等7研究了应变对 X80 碳钢的腐蚀行为影响，指出随着应变的增加 X80 碳钢耐腐蚀性呈先降低后增加的趋势。Wang 等8研究了X80 碳钢应力腐蚀开裂。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微生物腐蚀在腐蚀中占有很重要的地位。据报道， $20 \\%$ 金属材料和建筑材料损失与微生物的活动有关。微生物腐蚀对于石油工业的影响更加严重[9]。发生微生物腐蚀的典型细菌有硫酸盐还原菌（SRB）、铁细菌（IOB）、产酸菌[10]。铁氧化菌是一种嗜酸类好氧菌，通过将 $\\mathrm { F e } ^ { 2 + }$ 氧化成 $\\mathrm { F e } ^ { 3 + }$ 获得能量合成有机物供给自身新陈代谢，直接加速阳极腐蚀过程。 $\\mathrm { F e } ^ { 2 + }$ 氧化会促进基体Fe 的溶解，其阳极反应 $\\mathrm { F e }  \\mathrm { F e } 2 + + 2 \\mathrm { e } .$ 和 $\\mathrm { F e } 2 +  \\mathrm { F e } 3 + + { \\bf e } -$ 与阴极反应1/202$+ \\mathrm { H } 2 \\mathrm { O } + 2 \\mathrm { e } .  2 \\mathrm { O H } . ^ { [ 1 1 ] } ,$ 。铁氧化菌是诱发钢材产生结瘤腐蚀的最常见的微生物[13.14]。铁氧化菌广泛存在于自然中，对钢材带来非常大的危害。据报道，在管道内壁腐蚀沉积物中有 IOB的存在[15]。然而，只有少量文章报道微生物对 X80 管线碳钢腐蚀行为的研究。 $\\mathrm { W u } ^ { [ 1 2 ] }$ 研究了硫酸还原菌（SRB）和屈服应力共同作用下的微生物腐蚀，指出 SRB和屈服应力协同促进X80 管线碳钢的腐蚀。对于铁氧化菌对X80高强碳钢的研究未见报道。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文研究当前使用较为广泛的X80管线钢，研究铁氧化菌对其腐蚀的影响，为防治X80管线钢腐蚀提供一些理论指导。主要运用微生物法、电化学方法、失重法以及腐蚀表面分析方法，对有、无IOB介质中X80腐蚀行为进行研究。探索IOB代谢和微生物膜对高强钢X80腐蚀行为的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验材料为APIX80钢，化学成分（质量分数 $\\%$ ）为：C0.07，Mn1.82，Si0.19,P0.007,S 0.023，Mo 0.010，Ni0.17，Cr 0.026，Cu 0.020，V0.002，Nb0.056，Ti0.012，Al0.028,N0.004，B0.0001，Fe余量。电化学实验所用电极为圆柱形电极 $\\mathrm { D } { = } 1 0 \\ \\mathrm { m m }$ ，并用环氧树脂密封非工作面。用180\\~1200#SiC 水性砂纸和金相砂对工作面进行逐级打磨，并用去离子水、乙醇和丙酮清洗后放入干燥器中保存备用。实验前用紫外灯灭菌 $3 0 \\mathrm { m i n }$ 。尺寸为25$\\mathrm { m m } { \\times } 1 0 \\ \\mathrm { m m } { \\times } 3 \\ \\mathrm { m m }$ 的试片用于腐蚀形貌观察和腐蚀失重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验所用的铁氧化菌（IOB，假单胞菌属）是从中石油油田污泥经过分离纯化而得[1]。IOB 培养基配方 $( \\mathbf { g } / \\mathrm { L } )$ 为： $\\mathrm { K _ { 2 } H P O _ { 4 } } 0 . 5$ ， $\\ N a \\ N O _ { 3 } 0 . 5$ ， $\\mathrm { C a C l } _ { 2 } 0 . 2 , \\mathrm { M g S O } _ { 4 } { \\cdot } 7 \\mathrm { H } _ { 2 } \\mathrm { O } 0 . 5$ ， $( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathrm { S O } _ { 4 }$ 0.5，柠檬酸铁铵10。用 $1 \\mathrm { m o l / L N a O H }$ 调节培养基 $\\mathfrak { p H }$ 值至6.5，并在手提式压力蒸汽消毒锅灭菌 $1 5 \\mathrm { m i n }$ 。本实验采用实验介质，一种是模拟油田产出水，其主要成分为（ $ { \\mathrm { \\ : ~ \\ : ~ } } _ { \\mathrm { m g / L } } ) :  { \\mathrm { K } } ^ { + }$ 和 $\\mathrm { N a } ^ { + } 4 0 5 3$ ， $\\mathrm { M g } ^ { 2 + } 7 . 5$ ， $\\mathrm { C a } ^ { 2 + } 3 7 . 7$ ，CI 4486， $\\mathrm { S O _ { 4 } } ^ { 2 - } 8 5 4$ ， $\\mathrm { H C O } _ { 3 } ^ { - } 2 1 0 5$ ，矿化度：11544。介质的 $\\mathsf { p H }$ 值为8.0。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电化学测试采用标准的三电极体系：工作电极为X80碳钢，参比电极为饱和甘汞电极（SCE），辅助电极为Pt电极。测试所用的工作站是CorrTest(CS350)电化学工作站。收集研究体系中的开路电位，电化学阻抗谱（EIS）以及动电位极化等电化学信号。EIS测试是在自腐蚀电位下进行的，激励信号为 $1 0 \\mathrm { m V }$ 的正弦波，测试频率范围为 $1 0 ^ { - 2 } \\mathrm { H z } { \\sim } 1 0 ^ { 5 } \\mathrm { H z }$ 动电位扫描速率 $0 . 5 \\mathrm { m v / s } ,$ 电位扫描范围是相对腐蚀电位 $\\pm 2 0 0 \\mathrm { m V }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用 $2 \\%$ 戊二醛固化试样表面的生物膜，并用 $50 \\%$ 、 $70 \\%$ 、 $80 \\%$ 、 $90 \\%$ 、 $9 5 \\ \\%$ 、 $100 \\%$ 乙醇溶液逐级脱水。用超景深3D 显微镜（VHX-1000E,Keyence,Japan）和扫描电子显微镜（SEM，Sirion200）观察试样表面的生物膜。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将尺寸为 $2 5 \\mathrm { m m } \\times 1 0 \\mathrm { m m } { \\times } 3 \\mathrm { m m }$ 的试片完全浸泡于上述研究体系中在 $3 7 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 下浸泡 $1 0 { \\mathrm { d } } ,$ 取出试片用酸洗液除去表面的腐蚀产物，再用水、乙醇和丙酮清洗。用分析天平称重，通过腐蚀前后试片的失重来计算总的腐蚀速率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "失重计算公式：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC R = \\frac { 8 . 7 6 \\times 1 0 ^ { 7 } \\times \\left( M - M _ { \\mathrm { 1 } } \\right) } { M t \\rho }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：CR（腐蚀速率， $\\mathrm { { \\ m m ^ { \\bullet } a } ^ { - 1 } }$ ）； $\\mathbf { \\delta M }$ （试片的初始质量，g）； $\\mathbf { M } _ { 1 }$ （清除腐蚀产物后的试片重量， $\\mathbf { g } )$ ）；A（试片的表面积， $\\mathrm { c m } ^ { 2 }$ ）； $\\mathrm { ~  ~ { ~ t ~ } ~ }$ （腐蚀实验时间，h）； $\\rho$ （金属材料的密度， $\\mathrm { k g } { \\bullet \\mathrm { m } ^ { - 3 } }$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.结果与讨论 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1生物膜形貌分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "X80 钢在含有IOB的腐蚀体系中浸泡20天后的生物膜形貌如图1。从图1a可以看出，在含有IOB的腐蚀体系中试样表面的生物膜较为疏松多孔，同时可以看到大量的腐蚀产物及IOB细胞。IOB通过氧化 $\\mathrm { F e } ^ { 2 + }$ 获得能量生长，能够加速Fe的氧化过程，从而生成大量的铁氧化合物覆盖在试样表面。疏松多空的生物膜会促进腐蚀介质中腐蚀性离子对试样的侵蚀，从而加速试样的腐蚀。在空白体系中，试样表面的腐蚀产物膜较为致密，从而可以起到对试样保护的作用，抑制试样的腐蚀。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a05aae56fb49a1b3700be3ea8ab9d83cb36582e9754d17ce9254852c19945c8d.jpg",
+        "img_caption": [
+            "图1X80钢试样在含有IOB及空白腐蚀体系中浸泡20天后的生物膜形貌图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure.1 SEM images showing biofilms formed on X80 surface after 20 days with presence of ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IOB (a) and blank (b) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2开路电位",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2是X80钢在油田产出水中的开路电位（OCP）随培养时间的变化过程。第一天时，接种铁氧化菌（IOB）的有菌体系和无菌的体系开路电位基本相同。主要是因为在培养初期IOB 菌量较少，对X80 钢的腐蚀性比较弱。在空白体系中，开路电位随时间整体上呈现上升的趋势，表面空白试样表面可能形成了一层致密的保护膜。而在含有IOB的体系中，OCP先降低又升高，最后又逐渐降低。OCP的降低说明IOB对试样的腐蚀加速，从而促进了OCP负移。但是当比较完整的致密生物膜形成之后，试样的OCP开始正移（6天）。这说明初期 IOB生物膜对试样具有一定的保护作用。随着培养时间的延长，OCP逐渐降低，一方面可能是由于生物膜的部分脱落引起溶液介质中腐蚀性离子对试样侵蚀增强；另一方面生物膜中IOB对试样的腐蚀也可能促进了OCP负移。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bab2b7fc6d1bf57bbf117bcfc2b4480017b3d8ec00636c6488efde64002d2182.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2不同实验体系中X80管线钢开路电位随时间变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure.2 Variation of open circuit potential with time for X80 carbon steel in different solutions ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3电化学阻抗分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3为X80钢在空白和含有IOB的油田产出水中能斯特图和波特图随时间的变化图。电化学阻抗图可以反映不同时间，试样表面腐蚀产物的变化情况。空白体系中（图3a和c），阻抗弧先增大后减小。一般情况，阻抗弧大小与电极表面形成腐蚀产物膜有关。腐蚀产物膜越致密，对电极具有保护作用，从而阻抗弧越大；阻抗弧变小，则形成的膜具有缺陷或膜被破坏。前8天阻抗弧变大，意味着形成了较为致密的腐蚀产物膜；随后阻抗弧变小，意味着膜被破坏或脱落[16,17]。由bode图（图3c）可以看出[18]，随着时间的增加，时间常数不断向低频移动。这也说明X80钢在空白体系中腐蚀速率随时间有一个先减少后增加随后又减小的过程。相位角先增大后变小，表明8天前逐渐形成完整的腐蚀产物膜，随后相位角变小，则表明腐蚀产物膜完整性破坏。在含有IOB的腐蚀体系中（图3b和d），阻抗弧先增大后减小，第四天阻抗弧最大。说明，培养四天后，IOB在电极表面形成致密的生物膜。之后阻抗弧快速减小，说明可能 X80 钢表面吸附的IOB 加速腐蚀或生物膜破坏脱落[19]。由 bode图（图3d）可看出，时间常数随时间向低频移动，说明IOB加速X80碳钢的腐蚀。4d前，相位角变大，表面碳钢表面生物膜形成比较完整，4d后，相位角变小，表明表面吸附的生物膜完整性被破坏。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3655b112aad06d2ab1e2a0804fc4e0f536034f1549e90055cb4300883e217d94.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/59d67193f7a7bcf9ac836e2dbc27e4406fec8ad3581f71e1a85c721a85373c5d.jpg",
+        "img_caption": [
+            "图3X80碳钢在空白和含有IOB的测试介质中能斯图和波特图随时间变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure.3Nyquistand Bode plots for X8Ocarbon stel in diferent solutions with time: (a)and(c)control,(b)and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(d) IOB ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图4是电化学阻抗拟合等效电路图，电化学阻抗谱拟合效果较好，拟合误差较小，均小于 $10 \\%$ ，其中 $R _ { \\mathrm { s } }$ 是溶液电阻， $R _ { f }$ 和 $Q _ { f }$ 分别是生物膜/腐蚀产物膜阻抗和电容， $R _ { \\mathrm { c t } }$ 和 $Q _ { \\mathrm { d l } }$ 分别是传递电阻和双电层电容[15]。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/838752ab0808a1ed8866cab08131200c1554a827c81e44beca4e73968101b621.jpg",
+        "img_caption": [
+            "图4电化学阻抗拟合等效电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "图5是电化学阻抗拟合结果， $R _ { p }$ 是极化电阻与腐蚀速率相关[20]。接种IOB 的体系，膜电阻先增大后减小，表明前期形成致密的保护性生物膜；之后膜电阻迅速减小，表明生物膜被破坏脱落或碳钢表面吸附的IOB加速腐蚀。由 $R _ { p }$ 随时间的变化可以看出，含有IOB 的测试体系中X80碳钢腐蚀速率先减小后迅速增大。空白体系中，X80碳钢腐蚀速率一直增加。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6971651f9a62edac46a46ab25f32e0e645388b3c7f0c6b7c2a70922f1ae3859.jpg",
+        "img_caption": [
+            "Figure.4Equivalent circuits used for fit experimental impedance diagrams ",
+            "图5X80碳钢在测试不同体系中电化学阻抗拟合 $R _ { p }$ 随时间变化",
+            "Figure.5 Time-dependent changes of $R _ { p }$ of X80 carbon steel in different media "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在 IOB 腐蚀过程中，IOB 吸附金属表面，金属材料表面发生同时腐蚀阳极和阴极反应， $\\mathrm { F e } ^ { 0 }$ 的氧化成 $\\mathrm { F e } ^ { 2 + [ 1 1 ] }$ 。IOB 通过加速氧化 $\\mathrm { F e } ^ { 2 + }$ 为 $\\mathrm { F e } ^ { 3 + }$ 获取能量用于新陈代谢。因为 $\\mathrm { F e } ^ { 2 + }$ 可以在金属基体表面也可以扩散到溶液中，所以 $\\mathrm { F e } ^ { 2 + }$ 的氧化可能发生在金属表面或者IOB生物膜内[19]。利用 BCSR 理论可以进一步解释 IOB 对金属的腐蚀，IOB 需要从金属材料中获得能量从而腐蚀金属的。铁的存在会促进IOB的生长繁殖，又会加速IOB 对金属材料的腐蚀。IOB在金属表面形成生物膜，不仅影响腐蚀阳极和阴极的反应，而且改变金属表面的物理化学性质，导致低或高的 $\\mathfrak { p H }$ 值和低溶氧（DO）。IOB 对碳钢主要电化学腐蚀反应如下[20]：阳极反应: $\\mathrm { F e }  \\mathrm { F e } ^ { 2 + } + 2 \\mathrm { e } ^ { - }$ 和 $\\mathrm { F e } ^ { 2 + } \\twoheadrightarrow \\mathrm { F e } ^ { 3 + } + \\mathbf { e } ^ { - }$ ，阴极反应： $1 / 2 \\mathrm { O } _ { 2 } + \\mathrm { H } _ { 2 } \\mathrm { O } + 2 \\mathrm { e } ^ { - }  2 \\mathrm { O H } ^ { - }$ 。阴极反应 $\\mathrm { O } _ { 2 }$ 的去极化过程中会产生 $\\mathrm { O H ^ { - } }$ ,OH与 $\\mathrm { F e } ^ { 2 + } , \\mathrm { F e } ^ { 3 + } ;$ 结合，进而形成 $\\mathrm { F e ( O H ) } _ { 2 }$ 和 $\\mathrm { F e ( O H ) } _ { 3 }$ $\\mathrm { F e ( O H ) } _ { 2 }$ 可以被继续氧化成FeOOH以及转化成 $\\mathrm { F e } _ { 3 } \\mathrm { O } _ { 4 }$ ，FeOOH 和 $\\mathrm { F e ( O H ) } _ { 3 }$ 不稳定，后续会分解成 $\\mathrm { F e } _ { 2 } \\mathrm { O } _ { 3 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4极化曲线分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图6是X80钢在不同体系中浸泡20d后的动电位极化曲线图，相应的拟合结果如表1。接种IOB 的体系中，试样的腐蚀电流密度大于空白体系，而且自腐蚀电位明显的负移。从拟合结果可以看出（表1），含有IOB的腐蚀体系中，IOB对试样的腐蚀速率大约是空白体系的2倍，表明IOB 存在加速了X80 钢的腐蚀。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ee1ab17345d814a120e08c2fd45841986a49072dc1ff2c512cc1b0e42181cc4.jpg",
+        "img_caption": [
+            "图6X80钢试样在不同腐蚀体系中浸泡20d的极化曲线",
+            "Figure.6 Polarization curves for X80 carbon steel in different solutions soaked after 2O days "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表1X80钢试样在有菌/无菌体系中浸泡20d的极化曲线拟合结果",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e86fb52640ab7bc06e0ce844fadf17ece891fe66c29a9eb4f163f0eedf96ee7.jpg",
+        "table_caption": [
+            "Table1 Fitting result of polarization curve "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>ba(mV)</td><td>bc (mV)</td><td>Ecorr (V vs.SCE)</td><td>icorr (A cm-2)</td><td>Corrosion rate(mm/a)</td></tr><tr><td>KB</td><td>99.72</td><td>-84.16</td><td>-0.70</td><td>2.64×10-6</td><td>0.0353</td></tr><tr><td>IOB</td><td>58.80</td><td>-171.6</td><td>-0.76</td><td>5.86×10-6</td><td>0.0758</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5失重分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图7是X80钢浸泡于含有IOB的油田产出水中20d后失重结果图。由图可以看出，含有IOB 的油田产出水中X80 钢的腐蚀速率比空白体系高，其腐蚀速率约是空白体系中试样腐蚀速率的两倍。铁氧化菌（IOB）可以加速碳钢的腐蚀。失重测试结果也与上述电化学阻抗和极化曲线分析结果相符。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5ac1a4dce235bf1bc065fd7eacb6bbcc81d339bab2478f167ea8cdd4a10f066.jpg",
+        "img_caption": [
+            "图7X80钢试样浸泡于不同腐蚀体系中20d后的失重图 Figure.7 The weight loss of X8O carbon steel in different solutions soaked after 2Odays "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6去除腐蚀产物的形貌分析",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "图8是X80 钢在油田产出水中浸泡20d后除去腐蚀产物的腐蚀形貌图。由下面图可以看出有菌体系的腐蚀更加严重，表面比较粗糙[16,17]。也就是说铁氧化菌的存在可以加速 X80钢在油田产出水的腐蚀。另外，从图8b可以比较明显的看出点蚀坑的存在，说明IOB不仅可以促进试样的均匀腐蚀还可以促进试样的局部腐蚀。这一结果与上述分析结果相一致。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd3bbab345dae82d9a492f90acf9e3621a0849e50c2fa678e7be3d020e53712a.jpg",
+        "img_caption": [
+            "图8 X80 钢试样在不同腐蚀体系中浸泡30d 后出去表面腐蚀产物的超景深三维显微镜图空白(a)和 IOB (b) Figure.8 3D-microscope images showing corrosion products removed on X80 surface after 20 days with presence of blank (a) and with presence of IOB (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1）在油田产出水中，X80 钢腐蚀速率先减小后增大，变化不是很明显。当接种IOB 后，X80钢腐蚀速率先快速减小后又快速减小。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2）在含有 IOB 的腐蚀体系中试样表面的生物膜较为疏松多孔，同时可以看到大量的腐蚀 产物及IOB细胞。含有IOB菌的腐蚀体系，除去腐蚀产物后可以看出碳钢表面更加粗 糙且腐蚀更加严重。也就是说铁氧化菌的存在可以加速X80碳钢在油田产出水的腐蚀。   \n(3）由极化曲线分析和失重分析可以看出IOB 可以加速 X80 碳钢在油田产出水的腐蚀。从 上述实验结果可以看出，IOB可以加速X80 管线碳钢的腐蚀。 参考文献   \n[1] Ping L,Yin W. Electrochemical behavior of X80 steel covered by a rust layer formed after short-term corrosion [J]. J. Chin. Soc. Corros. Prot.,2013,33(5): 371   \n(梁平,王莹．覆有短期腐蚀产物膜的 X80 钢的电化学行为 [J]．中国腐蚀与防护学报,2013,33(5):371) [2] Mahdi E, Rauf A,Eltai E O.Efect of temperature and erosion on piting corrosion of X100 steel in aqueous silica slurries containing bicarbonate and chloride content[J]. Corros.Sci.,2014,83: 48   \n[3] Cui Z Y, Wang L W,Liu ZY, et al. Influence of alternating voltages on passivation and corrosion properties of X80 pipeline steel in high pH 0.5 mol/LNaHCO 0.25 mol/L $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ solution[J]. Corros Eng. Sci. Technol., 2015, 50(3): 248   \n[4] Li HY, Kang W,Hu JD,et al. Electrochemical corrosion behavior of grade X70 and X80 pipeline steels [J]. Trans. Mater. Heat Treat.,2011,32(10): 151   \n(李红英，康巍，胡继东等.X70 和 X80 管线钢的电化学腐蚀行为[J].材料热处理学报,2011,32(10):151) [5] Liu HW,Liu HF, Qin S,et al. Investigation of bio-mineralization induced by sulfate reducing bacteria in sewage gathering pipelines in oilfield [J].Corros. Sci. Prot. Technol., 2015,27(1): 7   \n(刘宏伟，刘宏芳，秦双等.集输管线硫酸盐还原菌诱导生物矿化作用调查[J]．腐蚀科学与防护技术,2015, 27(1): 7)   \n[6] Xue HB, Cheng YF. Characterization of inclusions of X80 pipeline steel and its correlation with   \nhydrogen-induced cracking [J]. Corros. Sci.,2011, 53(4): 1201   \n[7] Wang Y,ZhaoW,AiH,etal. Effects ofstrain on thecorosionbehaviorof X80 stee[J].Corros.Sci.,2011, 53(9): 2761   \n[8] Wang L W,Du C W,Liu Z Y,et al. Influence of carbon on stress corrosion cracking of high strength pipeline steel [J]. Corros. Sci.,2013, 76: 486   \n[9] Liu H W, Xu D K, Wu YN, et al. Research progressin corosion of steels induced by sulfate reducing bacteria[J]. Corros. Sci. Prot. Technol.,2015,27(5): 409 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(刘宏伟，徐大可，吴亚楠等．微生物生物膜下的钢铁材料腐蚀研究进展[J].腐蚀科学与防护技术,2015,27(5):409)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10] Ye Q,Li K J, Gou PP,et al.Evolution of SRB biofilm and its influence on corrosion of Q235carbon steel in oilfield sewage [J]. Corros. Sci. Prot. Technol.,2013,25(3): 195   \n(叶琴，李克娟，郭佩佩等．油田污水中碳钢表面生物膜生长规律及腐蚀电化学行为[J].腐蚀科学与防护技术, 2013, 25(3): 195)   \n[11] Zhai FT,Li HH, Xu CM, et al. Corosion behavior of 2507duplex stainless steel in cooling water with different IOB contents [J]. J. Xi'an Technol. Univ., 2015,35(8): 654   \n(翟芳婷,李辉辉，胥聪敏.2507 双相不锈钢在含铁氧化菌冷却水中的腐蚀行为[J].西安工业大学学报,2015, 35(8): 654)   \n[12]Lin CF, Gong J.Recent progress in research on neutrophilic, microaerophilic iron(II）-oxidizing bacteria [J]. Acta. Ecologica. Sinica.,2012,32(18): 5889   \n(林超峰，龚骏．嗜中性微好氧铁氧化菌研究进展[J].生态学报,2012,32(18): 5889)   \n[13] Wakai S,ItoK,IinoT,etal.Corrosion of ironbyiodide-oxidizing bacteria isolated from brine inaniodine production facility [J]. Microb. Ecol.,2014, 68(3): 519   \n[14] Liu H, Gu T, Zhang G,et al. Corrosion inhibition of carbon steel in CO2-containing oilfield produced water in the presence of iron-oxidizing bacteria and inhibitors [J]. Corros. Sci., 2016   \n[15] Wu T, Xu J, Sun C,etal. Microbiological corosionofpipeline stelunder yield stressin soil environment [J]. Corros. Sci., 2014, 88: 291   \n[16] Liu H,Fu C, Gu T,et al. Corrosion behavior ofcarbon steel in the presence of sulfate reducing bacteria and iron oxidizing bacteria cultured in oilfield produced water[J]. Corros.Sci.,2015,100: 484   \n[17]Chongdar, S.,Gunasekaran, G.,Kumar,P. Corrosion Inhibition of Mild Steel by Aerobic Biofilm[J].   \nElectrochim. Acta., 2005, 50 (24): 4655   \n[18] Yadav A P,Nishikata A,Tsuru T.Electrochemical impedance studyon galvanized steel corrosion under cyclic wet-dry conditions—influence of time of wetness [J]. Corros. Sci., 20o4, 46 (1): 169   \n[19] Liu H, Xu D,Dao A Q,etal. Study of corosion behavior and mechanism of carbon stee in the presence of Chlorella vulgaris [J]. Corros. Sci., 2015,101: 84   \n[20]Liu H, Gu T,Zhang G,et al.The effect of magnetic field on bio mineralization and corrosion behavior of carbon steel induced by iron-oxidizing bacteria [J]. Corros. Sci.,2016,102: 93 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[21] Zhang F,Liu H W, Chen B,et al. Corrosion inhibition of imidazoline for carbon steel in $\\mathrm { C O } _ { 2 }$ -saturated artificial sewages with sulfate reduction bacteria [J].J. Chin. Soc.Corros.Prot.,2015,35(2): 156 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(张帆，刘宏伟，陈碧等.CO2 和 SRB 共存产出水中咪唑啉衍生物的环境行为及缓蚀长效性研究[J].中国腐蚀与防护学报,2015,35(2):156)",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,603 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Increased Sensitivity of DNA Damage Response-Deficient Cells to Stimulated Microgravity-Induced DNA Lesions ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nan Li1,2, Lili $\\Delta n ^ { 1 * }$ , Haiying Hang1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratory for Proteinand Peptide Pharmaceuticals,Instituteof Biophysics,Chinese Academy of Sciences, Beijing, China,2 University of Chinese Academy of Sciences, Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*hh91 $@$ sun5.ibp.ac.cn (HYH); afxdxz @ 163.com (LLA) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CrossMark click for updates ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: LiN,An L, Hang H (2015) Increased Sensitivity of DNA Damage Response-Deficient Cells to Stimulated Microgravity-Induced DNA Lesions. PLoS ONE 10(4):e0125236.doi:10.1371/journal. pone.0125236 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editor:Robert S.Weiss,Cornell University, UNITED STATES ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: October13,2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: March 22,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: April 27,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Li et al.This is an open access articledistributed under the termsof the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium, provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DataAvailabilityStatement:Dataareavailable from the Dryad database with the accession number doi:10.5061/dryad.3vc83. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding: This work was supported by the Strategic Priority Research Programon Space Science, the Chinese Academy of Sciences (XDA04020202-13 and XDA04020413, HYH); the National Natural Science Foundation of China (No.111790400, LLA); the National Natural Science Foundation of China (No.31370792, HYH);and the Ministry of Science and Technology of People's Republic of China (No. 2011YQ03013404, HYH).The funders had no role in ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Microgravity is a major stress factor that astronauts have to face in space.In the past,the effects of microgravity on genomic DNA damage were studied,and it seems that the effect on genomic DNA depends on celltypes and the length of exposure time to microgravity or simulated microgravity (SMG). In this study we used mouse embryonic stem (MES)and mouse embryonic fibroblast (MEF) cells to assess the effects of SMG on DNA lesions.To acquire the insight into potential mechanisms by which cells resist and/or adapt to SMG,we also included Rad9-deleted MES and Mdc1-deleted MEF cells in addition to wild type cells in this study.We observed significant SMG-induced DNA double strand breaks (DSBs) in $R a d 9 ^ { - 1 - }$ MES and Mdc $1 ^ { - / - }$ MEF cells but not in their corresponding wild type cells.A similar pattern of DNA single strand break or modifications was also observed in $R a d 9 ^ { - 1 }$ MES.As the exposure to SMG was prolonged, $R a d 9 ^ { - 1 }$ MES cells adapted to the SMG disturbance by reducing the induced DNA lesions.The induced DNA lesions in $R a d 9 ^ { - 1 }$ MES were due to SMGinduced reactive oxygen species (ROS). Interestingly, $M d c 1 ^ { - 1 }$ MEF cells were only partially adapted to the SMG disturbance.Thatis,the induced DNA lesions were reduced over time, but did not return to the control level while ROS returned to a control level.In addition,ROS was only partially responsible for the induced DNA lesions in Mdc $1 ^ { - / - }$ MEF cells.Taken together, these data suggest that SMG is a weak genomic DNA stress and can aggravate genomic instability in cells with DNA damage response (DDR) defects. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effects of space environment on human health are a major concern for manned space exploration. The integrity of genomic DNA is important for normal physiological functions of cells and DNA damage is related to many diseases such as cancer and aging[1,2]. A statistically significant increase in the yield of chromosomal aberrations in lymphocytes from cosmonauts at their first long-term space missons has been reported [3]. Ohnishi et al.observed the accumulation of p53 (an important DNA damage sensing molecule) in the skin and the muscle ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "study design, data collection and analysis,decision tc publish,or preparation of the manuscript. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "of rats,and increased DNA damage in human cancer cels cultured during space flight [4].Microgravity and space radiation are two important factors in space environment. It is well known that ionizing irradiation (IR) can lead to DNA damage.The effect of space radiation, especially the radiation of high-energy particles of high atomic mass (HZE) which are much more prevalent in space than on the earth,has aroused much attention.However,little is known about the effect of microgravity on cellular DNA damage. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because of the heavy costs and the limited access to space flight, simulated microgravity (SMG) on earth has been widely used in space life research.Previously, we found that SMG alone was unable to induce increased DNA damage in wild type mouse embryonic stem (MES) cells after 2 days of exposure [5].Degan et al. reported that exposure of freshly drawn lymphocytes and lymphoblastoid cels to SMG for 24 or 72 hours is not significantly associated with the induction of DNA damage [6].However, Kumari et al. reported that the exposure of human lymphocytes to SMG for 7 days significantly increased the level of DNA damage [7]. Roberts et al. also observed that human retinal pigment epithelial cels exposed to SMG for 24 hours suffered from significant damage in the form of single-stranded DNA breaks when compared with control cells [8]. It seems that the effect of SMG on DNA damage varies among different types of cells and depends on the time length of microgravity exposure.To counteract DNA damage, eukaryotes have evolved the DNA damage response (DDR). The DDR is carried out by a set of complex pathways that sense DNA damage and transduce the information to the cells to coordinate cellular responses to DNA damage [9].We hypothesize that SMG is a weak stress on cellular DNA. The final effects of SMG on DNA damage are determined by both the length of SMG exposure time and DDR status of the cell.The efficiency of the DDR system varies depending on the cell type and genetic background.This might be the reason why the researchers obtained the contradictory results mentioned above. Thus,studies using cell models with a deficient DDR system which are sensitive to DNA damaging agents might provide us with clearer information. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rad9 and Mdcl are two important components of the DDR network [10-14]. We used Rad9 deficient mouse embryonic stem cells and Mdc1 deficient mouse embryonic fibroblast (MEF)cells to investigate the effects of SMG on DNA damage in this study.This design was based on the following considerations.Ataxia telangiectasia mutated (ATM) and ATM-and RAD3 related (ATR) pathways are the cores of DDR network [15].Rad9 plays important roles in ATR-dependent Chkl activation [16] while Mdcl acts as a signal amplifier of the ATM pathway [17].It is not known which pathway participates in the response to SMG so both pathways were included in this study.Moreover, Rad9 also directly participates in base excision repair (BER), nucleotide excision repair (NER), mismatch repair (MMR) and homologous recombination repair (HR) [18-28]. $R a d 9 ^ { - { \\prime } - { } }$ MES cells demonstrated a remarkable increase in spontaneous chromosome aberrations and hypoxanthine-guanine phosphoribosyltransferase (HPRT) mutations,and were extremely sensitive to DNA damage agents such as UV light, gamma rays and hydroxyurea relative to wild type $R a d 9 ^ { + / + }$ MES controls[11].Mdc1-deficient mice have been shown to be hypersensitive to IR [29].Therefore, the $R a d g ^ { - / - } \\mathrm { M E S }$ and Mdc1-/- MEF cels with DDR defects are sensitive models for assessing the effects of SMG on DNA damage. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we systematically investigated the effects of SMG on mammalian cell DNA damage using $R a d 9 ^ { - { \\prime } - }$ MES cells, $M d c I ^ { - I - }$ MEF cells and their corresponding wild type cells. We observed significant SMG-induced DNA damage in $R a d 9 ^ { - / - }$ MES and $M d c I ^ { - I - }$ MEF cells but not in wild type cells. We found that SMG-induced reactive oxygen species (ROS) was at least partially responsible for DNA damage in these cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3D-clinostat ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The 3D-clinostat,a multidirectional G force generator used for SMG treatment, was produced by Center for Space Science and Applied Research, Chinese Academy of Sciences[30].By employing a simultaneous rotation on two axes,the 3D-clinostat is able to produce an environment with an average of $1 0 ^ { - 3 } \\mathrm { G }$ ,thus simulating microgravity conditions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cell culture ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$R a d 9 ^ { + / + }$ MES cells, $R a d 9 ^ { - { \\prime } - }$ MES cells and $R a d g ^ { - / - } \\mathrm { M E S }$ cells with ectopic expression of mRad9 $( R a d 9 ^ { - / - } + \\mathrm { m R a d } 9 .$ MES cells) were obtained from Lieberman's laboratory [11,31]. $R a d 9 ^ { + / + }$ and $R a d g ^ { - / - } \\mathrm { M E S }$ cells were maintained on gelatin-coated flasks in standard MES cell medium in the presence of leukemia inhibitory factor (LIF) without a feeder layer [32]. $R a d 9 ^ { - / - }$ MES cells were transfected with pZeoSV2-mRad9 and then challenged with $1 0 0 \\mathrm { m g / m l }$ zeocin to generate stable mutant cells ectopically expressing mRad9.The selected $R a d { g ^ { - / - } } { + } \\mathrm { m R a d } 9$ MES cells were cultured in the medium containing $2 5 \\mathrm { m g / m l }$ zeocin to maintain the transfected genes in the cells [33]. $\\boldsymbol { M } \\boldsymbol { d } \\boldsymbol { c } \\boldsymbol { l } ^ { + / + }$ and $M d c I ^ { - / - }$ MEF cells were obtained from Chen's laboratory [17]. The cells were cultured in DMEM(Invitrogen) supplemented with $10 \\%$ fetal bovine serum (Hyclone) and $\\boldsymbol { 1 0 0 } \\mathrm { U / m l }$ penicillin/streptomycin (Gibco). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The cells were seeded in culture flasks (Becton Dickinson) and cultured under a 1G (the gravity on the earth) environment for 18 hours to achieve adhesion. Then the flasks were filled with fresh and $5 \\%$ $\\mathrm { C O } _ { 2 }$ -balanced complete medium to eliminate air bubbles and to diminish turbulence as well as shear forces.The flasks were sealed air-tight.The samples were randomized to two groups. One group was cultured in the 3D-clinostat (group SMG) and the other was cultured in 1G environment (group 1G).The system was maintained at $3 7 ^ { \\circ } \\mathrm { C }$ The day on which the cells were mounted on the clinostat was referred to as Day 0.The culture medium was not changed during the experimental period. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Apoptosisassays ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MES cells were seeded at a concentration of ${ 5 } { \\times } { 1 0 } ^ { 5 }$ cells per $2 5 \\mathrm { c m } ^ { 2 }$ culture flask. Cultured cells were trypsinized for 3 min using $0 . 1 \\%$ trypsin at $3 7 ^ { \\circ } \\mathrm { C }$ (Sigma),washed twice with cold PBS, and resuspended in $1 \\times$ binding buffer $\\mathrm { 1 0 ~ m m o l / l }$ HEPES $\\mathrm { ( p H 7 . 4 ) }$ ， $1 4 0 \\mathrm { m m o l } / 1 \\mathrm { N a C l } _ { \\mathrm { \\cdot } }$ and $2 . 5 \\mathrm { m m o l } / 1 \\mathrm { C a C l } _ { 2 } ]$ at a concentration of $1 { \\times } 1 0 ^ { 6 }$ cells per milliliter. Then cells were stained with Alexa Fluor 488 annexin $\\mathrm { v }$ and PI (Invitrogen) for $1 5 \\mathrm { m i n }$ at room temperature,before flow cytometric analysis. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Comet assay ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The protocol published by Singh et al.[34] was used with minor modifications.The slides were pre-coated with a thin layer of $1 \\%$ normal melting agarose and allowed to dry. Single cell suspensions of either SMG-treated or control cells were harvested and resuspended to $5 { \\times } 1 0 ^ { 5 } \\mathrm { c e l l s } / \\mathrm { m l }$ .Twenty $\\mu { }$ of each final suspension was added to $8 0 ~ \\mu \\mathrm { l }$ of pre-melted $0 . 7 5 \\%$ low melting agarose and was pipetted onto the pre-coated slide. After solidification,the slides were placed in neutral or alkaline lysis solution and the cells were lysed in the dark at $4 ^ { \\circ } \\mathrm { C }$ for 2 hours. Slides were then placed in $1 \\times \\mathrm { T B E }$ (for neutral comet assay)/alkaline (for alkaline comet assay) buffer in the dark at $4 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ to allow for unwinding of the DNA. The slides were subjected to electrophoresis at ${ \\sim } 0 . 7 4 \\ \\mathrm { V / c m }$ for $3 0 \\mathrm { m i n }$ .Following electrophoresis, the slides were stained with propidium iodine (PI). Fluorescence images were captured using a microscope and analyzed by CASP-1.2.2 software (University of Wroclaw) for tail moment (the geometric mean of fluorescence on the tail from the Nucleus). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ROS activity assays ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Intracellular ROS activity was analyzed by staining the cells with $1 0 \\mathrm { m M } 2 ^ { \\cdot } 7 \\hat { z }$ dichlorodihydrofluorescin diacetate (DCF-DA) (Sigma, USA) [35]. The assay employed the cell-permeable fluorogenic probe DCF-DA, which diffused into cells and was deacetylcated by celllar esterases into the non-fluorescent DCFH.In the presence of ROS,DCFH was rapidly oxidized to highly fluorescent DCF.The fluorescence intensity was measured by flow cytometry (FACSCalibur,Becton Dickinson, USA) with excitation and emission settings of 488 and $5 3 0 \\mathrm { n m }$ ,respectively.For antioxidant treatment, $R a d 9 ^ { - { \\prime } - }$ MES and $M d c l ^ { - / - }$ MEF cells were mock-treated or treated with 0.05, 0.1 or $0 . 5 \\mathrm { m M }$ N-acetylcysteine under SMG for 1 day. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometric assessment of Histone H2AX Phosphorylation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometric assessment of $\\gamma$ -H2AX formation was performed according to Huang et al.[36] with minor modifications. $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - / - }$ MES cells were fixed in $\\mathrm { 1 m l }$ of $7 5 \\%$ ethanol at $2 0 ^ { \\circ } \\mathrm { C }$ for at least 2 hours and resuspended in $2 \\mathrm { m l }$ of PBS plus $1 \\%$ BSA $\\scriptstyle ( \\mathbf { w } / \\mathbf { v } )$ and $0 . 2 \\%$ Triton X100 (BSA-T-PBS) at room temperature for $5 \\mathrm { { m i n } }$ . Then the cells were incubated with anti $\\cdot \\gamma$ H2AX antibody (Upstate) at $4 ^ { \\circ } \\mathrm { C }$ overnight,rinsed with cold BSA-T-PBS twice and stained with fluorescent-conjugated secondary antibodies (Molecular Probes)at room temperature for 1 hour.Flow cytometric analyzes were performed on a FACSCalibur (Becton Dickinson). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Quantitative real-time PCR analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Total RNA was isolated with RNeasy Mini Kit (Qiagen) following the manufacturer's protocol. Forreverse transcription-PCR(RT-PCR), $2 \\mu \\mathrm { g }$ totalRNAwere reverse transcribed ina reaction volume of $2 0 \\mu \\mathrm { l }$ to form cDNA using the SuperScript First-Strand Synthesis System (Invitrogen). Real-time PCR was performed using the StepOnePlus system (ABI) with SYBR Green I(Takara) to label amplified DNA.A standard curve method of quantification was used to calculate the expression of target genes relative to the housekeeping gene GAPDH. Experiments were performed three times.The following primer pairs were used for the PCR reactions: Nox2, $5 ^ { \\circ }$ -TGT GGTTGGGGCTGAATGTC- $3 ^ { \\circ }$ and $5 ^ { \\circ }$ -CTGAGAAAGGAGAGCAGATTTCG- ${ 3 ^ { \\circ } }$ ；Nox4, $5 ^ { \\circ }$ G AAGGGGTTAAACACCTCTGC- ${ \\boldsymbol { 3 } } ^ { \\prime }$ and $5 ^ { \\circ }$ -ATGCTCTGCTTAAACACAATCCT- ${ \\boldsymbol { 3 } } ^ { \\prime }$ GAPDH, $5 ^ { \\circ } .$ AGGTCGGTGTGAACGGATTTG- $3 ^ { \\circ }$ and $5 ^ { \\circ }$ -TGTAGACCATGTAGTTGAGGTCA-3'. PCR procedures for these genes were template denaturation at $9 4 ^ { \\circ } \\mathrm { C }$ for $1 \\mathrm { m i n }$ ,then 40 cycles of $9 4 ^ { \\circ } \\mathrm { C }$ for 15 sec, $5 7 ^ { \\circ } \\mathrm { C }$ for 20 sec, $7 2 . 0 ^ { \\circ } \\mathrm { C }$ for 20 sec,and a final extension at $7 2 ^ { \\circ } \\mathrm { C }$ for $3 \\mathrm { m i n }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Western blotting analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The cell lysate was prepared in $1 \\times \\mathrm { S D S }$ -sample buffer,froma final concentration of ${ 1 0 } ^ { 4 }$ cells per microliter.Ten micrograms of protein were resolved on a $1 0 \\%$ SDS-PAGE gel, and proteins were transferred to a polyvinylidene difluoride membrane.The membrane was probed consecutively with primary and peroxidase-conjugated secondary antibodies,and the signal was detected using the SuperSignal West Pico Chemiluminescence Substrate system(Pierce), Primary and Secondary antibodies used in this study were mouse anti-GAPDH (Kang Chen),rabbit anti-NOX2 (Abcam), peroxidase-conjugated anti-rabbit IgG (sigma) and anti-mouse IgG (sigma). The mean normalized optical density (OD) of Nox2 protein band relative to the OD of GAPDH band from the same sample was calculated using ImageJ software. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Antioxidant enzyme activityassays ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The activity of superoxide dismutase (SOD),glutathione peroxidase (GSH- $\\mathrm { P x }$ ),andcatalase (CAT) in MES cellysates were determined with assay kits (BioAssay Systems) according to the manufacturer's protocols.The antioxidant enzyme activity of each sample was defined as the change in optical density and normalized to that of the sample of $R a d 9 ^ { + / + }$ MES cells cultured under 1G for lday. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cell number expansion analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mouse embryonic stem cells were seeded at a concentration of $3 { \\times } 1 0 ^ { 4 }$ cells per $2 5 \\mathrm { c m } ^ { 2 }$ culture flask and the samples were handled as described in $^ { \\mathrm { e } } \\mathrm { C e l l }$ culture\".Mouse embryonic fibroblast cells were seeded at a concentration of ${ 1 0 } ^ { 5 }$ cells per $2 5 \\mathrm { c m } ^ { 2 }$ culture flask and the samples were handled as mentioned in $^ { \\mathrm { c c } } \\mathrm { C e l l }$ culture\".At the indicated time points (day 1, day 2,day 3,day 4 and day 5) the attached cells were collected by trypsinization and the cellnumbers were determined using a hemocytometer. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Data were expressed as mean $\\pm \\thinspace \\mathrm { S D }$ .The Student's t-test was performed to determine statistical significance of the differences.A P value of $< 0 . 0 5$ was considered statistically significant. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Requirement of Rad9 and Mdc1 to prevent DNA damage in DDR deficient cells experiencing SMG ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Previously,we reported that SMG alone could not induce DNA damage in wild type MES cells after 2 days of exposure [5]. $R a d 9 ^ { - { \\prime } - }$ MES cells were shown to be extremely sensitive to DNA damaging agents compared with $R a d 9 ^ { + / + }$ MES cells [11]. Here, $R a d 9 ^ { - { \\scriptscriptstyle 2 } - }$ MES cells were used as a sensitive model to assess the effect of SMG on DNA damage. $R a d 9 ^ { + / + }$ MES cells and $R a d 9 ^ { - / - }$ MES cells were cultured under 1G and SMG for 1,2,3,4 and 5 days,respectively,and the levels of DNA double strand breaks (DSBs) in these cultured cels were assessed by neutral comet assay.As shown in Fig 1A,there was no statistically significant increase in DSB levels in wild type MES cels under either 1G or SMG.Interestingly,DSB levels in $R a d g ^ { - / - } \\mathrm { M E S }$ cells were significantly higher under SMG than those under 1G for 1,2 and 3 days.There was a trend that the enhancement of the SMG-induced DNA lesions in $R a d 9 ^ { - / - }$ MES cells was gradually attenuated with increasing culture time under SMG,and the increased DSB levels after 4or 5 days under SMG were no longer statistically diferent from those under 1G,suggesting that an adaptive response is gradually established through time under SMG and reduces DSBs. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Phosphorylated histone H2AX( $\\langle \\gamma$ -H2AX) is found at the site of nascent DNA DSBs,and the $\\gamma$ -H2AX antibody is frequently used to monitor DSBs [36].As shown in Fig 1B,the DSB levels in $R a d 9 ^ { - / - }$ MES cells cultured under SMG for 1 day were statistically significantly higher than those in cells maintained under 1G for 1 day,and this difference disappeared after 5 days of culture under SMG. $R a d 9 ^ { + / + }$ MES cels did not demonstrate a significant difference of DSB levels between the 1G group and the SMG group for either 1 day or 5 days. Altogether, these results indicate that SMG induces increased DSBs in $R a d 9 ^ { - { \\prime } - }$ MES cells at the early stage of treatment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The alkaline comet assay can be used to measure DNA lesions including single and double strand breaks and base modifications [34].Here we detected the effect of SMG on DNA damage using the alkaline comet assay. As shown in Fig 1C,there were significantly increased DNA lesions in $R a d 9 ^ { - / - }$ MES cells cultured under SMG for 1 day over those maintained under 1G for ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/acaaf135adc0805f65850a7e73a2d9f12f9cf250c113dd4d15fd42e88742d553.jpg",
+        "img_caption": [
+            "Fig 1. Effects of SMG on DNA damage and apoptosis in $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - 1 - }$ MES cells.(A) Evaluation of DNA double strand break by neutral comet assay in $R a d 9 ^ { + / + }$ and $\\boldsymbol { R a d 9 ^ { - / - } }$ MEScellsculturedunder1GorSMGcondition.Timepointswere1,2,3,4and5days.Atleast50celsforeachconditionwere scored for comet tail moment. (B)Flow cytometric analysis of y-H2AX formation in $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - 1 - }$ mMES cells cultured under 1G or SMG condition for1 or5 days.(C) Evaluation of DNA damage by alkaline comet assay in $R a d 9 ^ { + / + }$ and $\\scriptstyle { R a d 9 ^ { - 1 - } }$ MES cells cultured under1G or SMG condition for1 or5days.At least50cels foreachconditionwerescoredforcometailmoment. (D)EvaluationofDNAdamage byalkalinecometassayin $\\scriptstyle { R a d 9 ^ { - 1 - } }$ MES cells with ectopic expression of Rad9 $( R a d 9 ^ { - 1 - } + R a d 9$ MES cells)culturedunder1GorSMGcondition for1or5days.Atleast50cels foreachconditionwerescoredforcomet tai moment.(E) Flow cytometric analysis of $R a d 9 ^ { + / + }$ and $\\scriptstyle { R a d 9 ^ { - 1 - } }$ MES cells cultured under 1G or SMG condition for 1 day to assess apoptosis using Annexin Vlabeling.Expitseefodetidrestatialreoupr)partiatiasf apoptosis between the 1G Group and the SMG Group.The data represent mean $\\pm$ SD of at least three independent experiments. Student's t test, $^ { * } \\mathsf { P } { < } 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0125236.g001 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 day,and this difference disappeared after 5 days of culture under SMG. There was not a significant difference in DNA lesions between 1G-treated and SMG-treated $R a d 9 ^ { + / + }$ MES cells for either l or 5 days of culture.This pattern was similar to those of both neutral comet assay and $\\gamma$ -H2AX staining mentioned above.Furthermore, in $R a d 9 ^ { - / - }$ MES cells cultured under SMG for 1 day,DSB levels measured by neutral comet assay increased 1.8 times (2.79/1.52) while DNA lesions measured by alkaline comet assay increased 2.7 times (3.86/1.44) relative to those of cells cultured under 1G for 1 day.These results suggest that SMG also induces single strand breaks and/or base modifications besides DSBs in $R a d 9 ^ { - / - }$ MES cells at the early stage of SMG treatment. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The ectopic expression of mouse Rad9 in $R a d 9 ^ { - / - }$ MES cells at a level comparable to that in $R a d 9 ^ { + / + }$ MES cells rescued the sensitivity of $R a d 9 ^ { - / - }$ MES cells to DNA-damaging agents to the level of $R a d 9 ^ { + / + }$ MES cells [33]. The role of Rad9 in preventing SMG-induced DNA lesions was confirmed by the experiment in which the induction of DSBs under SMG was suppressed by ectopically expressing mRad9 in $R a d 9 ^ { - / - }$ MES cell (Fig 1D). There was not a significant difference in DNA lesions between the 1G group and the SMG group. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "One of the endpoint responses to DSBs is apoptosis.Here we examined whether SMG could induce apoptosis in MES cells, especially in $R a d g ^ { - / - } \\mathrm { M E S }$ cells which contained significantly more DNA lesions for the first three days under SMG.We found that the percentage of apoptotic $R a d 9 ^ { - / - }$ MES cells was significantly higher in cels under SMG for 1 day than that in cells under1G for1 day ( $2 . 4 3 \\%$ versus $1 . 6 4 \\%$ 0 $\\mathrm { P } = 0 . 0 3 \\$ ),while this phenomenon did not occur for $R a d 9 ^ { + / + }$ MES cells (Fig 1E). The result indicates that $R a d 9 ^ { - / - }$ MES cells are more susceptible of SMG-induced apoptosis than $R a d 9 ^ { + / + }$ MES cells. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We wondered if these phenomena could also occur to the deletion of other DNA repair genes and/or other types of cels such as Mdc1 deletion in MEF.Mdcl plays a critical role in the response to DNA DSBs [13,14] and Mdc1-deficient mice have been shown to be hypersensitive to IR [29].As shown in $\\operatorname { F i g } 2 , M d c I ^ { - / - }$ MEF cells cultured under SMG for 1 day contained significantly more DSBs than those under 1G. Similar to $R a d 9 ^ { - / - }$ MES cells,the SMG-induced DSBs in $M d c l ^ { - / - }$ MEF cels attenuated to a significantly lower level after 4 additional days of culture under SMG,although the reduced level of DSBs was still statistically higher than that ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1783aa888ef8295664e027b04d21979d49d0f3348a22f056692b129cafcd94ac.jpg",
+        "img_caption": [
+            "Fig 2. Effects of SMG on DNA damage in Mdc1+/+ and $M d c 1 ^ { - 1 - }$ MEF cells.Evaluation of DNA double strand break by neutral comet assay in Mdc $1 ^ { + / + }$ and Mdc $1 ^ { - / - }$ MEF cells cultured under 1G or SMG condition for1or5days.Atleast 50 cells for each condition were scored for comettail moment.The data represent mean± SD of three independent experiments.Student's ttest, $\\yen 123,45$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0125236.g002 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "under 1G condition. There was not a significant difference in DSB levels between the 1G group and the SMG group in $M d c { { I } } ^ { + / + }$ MEF cells for either 1 day's or 5 days' culture. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Roles of Rad9 and Mdc1 to inhibit ROS production in DDR deficient cells experiencingSMG ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ROS can inflict DNA lesions [37],and SMG can generate ROS in some cell types such as neuronal origin rat PC12 cells [38].In the last section we showed that SMG induced DNA lesions in $R a d g ^ { - / - } \\mathrm { M E S }$ cells and $M d c I ^ { - / - }$ MEF cells.We wondered if SMG induced ROS,which then caused DNA lesions in $R a d g ^ { - / - } \\mathrm { M E S }$ cells and $M d c I ^ { - \\prime - }$ MEF cells.We monitored total intracellular ROS using Dichloro-dihydro-fluorescein diacetate (DCFH-DA) fluorescent probe; the fluorescence intensity is proportional to the ROS level within a cell(Refer to Materials and Methods).As shown in Fig 3A,the ROS level was significantly higher in $R a d 9 ^ { - / - }$ MES cells cultured under SMG for 1 day than that in cells under1G,and the SMG-enhanced ROS in cells cultured for 5 days was reduced to a level which was not statistically different from that in cells under 1G.For $R a d 9 ^ { + / + }$ MES cells,the ROS level in cells cultured under SMG for either 1 or 5 days was slightly higher,but not statistically significantly diferent,from that in cells under 1G. Furthermore, for $R a d g ^ { - / - } { + } \\mathrm { m R a d } 9 1$ MES cells,there was not a significant difference in ROS production between the cels cultured under SMG and under 1G for either 1 or 5 days (Fig 3B). Thus,the pattern of the intracellular ROS concentration was closely correlated with that of SMG-induced DNA lesions,indicating that Rad9 is required for preventing ROS production MES cells experiencing SMG. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To check whether the SMG-induced ROS is responsible for the SMG-induced DNA lesions in $R a d 9 ^ { - / - }$ MES cells we used the ROS scavenger N-acetylcysteine to remove ROS and then measured DNA DSBs in $R a d 9 ^ { - / - }$ MES cells. N-acetylcysteine at 0.05, 0.1 or $0 . 5 \\mathrm { m M }$ concentrations was able to efectively suppress SMG-induced ROS production (Fig 3C). We used $0 . 5 \\mathrm { m M }$ N-acetylcysteine to reduce ROS and tested the effect of reduced ROS on SMG-induced DNA lesions.Without $0 . 5 \\mathrm { m M }$ N-acetylcysteine in culture, the DSB levels in $R a d 9 ^ { - / - }$ MES cells cultured under SMG for 1 day were significantly higher than those in cells maintained under 1G for 1 day (Fig 3D, between lanes 1 and 3, $\\mathrm { \\tt ~ p } < 0 . 0 5$ ),consistent with what we observed above (Fig 1A and1C).In the presence of $0 . 5 \\mathrm { m M N }$ -acetylcysteine in culture, there was not a significant difference in DSB levels between $R a d 9 ^ { - / - }$ MES cells cultured under 1G and those cultured under SMG (Fig 3D,between lanes 1 and 4, $\\mathrm { p } > 0 . 0 5$ ).Similarresultswere also obtained using alkaline comet assay to detect DNA lesions (Fig 3E). These data suggest that SMG inflicted DSBs as well as other DNA lesions by inducing ROS in $R a d 9 ^ { - / - }$ MES cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We also observed that the ROS level was significantly higher in $M d c l ^ { - / - }$ MEF cells cultured under SMG for 1 day than that in cells under 1G for 1 day,and SMG-induced ROS in $M d c I ^ { - \\prime - }$ （204号 MEF cels cultured for 5 days reduced to a level which was not statistically different from that in cells under 1G,a phenomenon obviously different from that of $M d c { { I } } ^ { + / + }$ MEF cells (Fig 4A). Another difference from MES cells is that a significantly higher ROS level in cells under SMG than that in cells under 1G after 1 or 5 days of culture was observed in $\\boldsymbol { M } \\boldsymbol { d c } \\boldsymbol { l } ^ { + / + }$ MEF cells (Fig 4A),although SMG did not induce DSBs in these cells (Fig 2). It is noteworthy that the SMG-induced ROS level in $M d c I ^ { - \\ d I }$ MEF cells was significantly higher than that in $\\boldsymbol { M } \\boldsymbol { d c } \\boldsymbol { l } ^ { + / + }$ （20 MEF cells after one day of culture, suggesting that Mdcl counteracts the ROS production induced by SMG,but does not completely prevent the ROS production which is different from the role of Rad9 in $R a d 9 ^ { - / - }$ MES cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We also used the ROS scavenger N-acetylcysteine to reduce ROS levels and then measured DNA DSBs in $M d c I ^ { - \\prime - }$ MEF cells. N-acetylcysteine at 0.05, 0.1 and $0 . 5 \\mathrm { m M }$ concentrations was able to effectively suppress SMG-induced DSBs (Fig 4B).We chose the concentration of ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/80169488176dacf7c17fa75997ea23fc36658ad1e36500b6cae2db1bb670d2ea.jpg",
+        "img_caption": [
+            "Fig3EffectsfeeatiodoectieseSdnddeloa of ROS activity in $R a d 9 ^ { + / + }$ and $\\bar { R a d 9 ^ { - 1 - } }$ MES cels exposedto1G or SMG condition for1or5days. (B)Flow cytometricanalysis of ROSactivity in $R a d g ^ { - / - } { + } R a d \\vartheta$ MEScellsexposedtoGorGonditioforor5days.C)NacetylysteineinbitedGinducedincreaseofOfomatioad "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MES cells. $\\scriptstyle { R a d 9 ^ { - 1 - } }$ MES cells were mock-treated or treated with 0.05,0.1 or $0 . 5 \\mathsf { m M }$ N-acetylcysteine under SMG for1 day. (D) Evaluation of DNA damage byalkaline cometassay in $R a d 9 ^ { - \\prime - }$ MES cells mock-treated or treated with $0 . 5 \\mathsf { m M }$ N-acetylcysteine under1G of SMG condition for1 day.(E) Evaluation of DNA damage by neutral comet assay in $R a d 9 ^ { - 1 - }$ MES cells mock-treated or treated with $0 . 5 { \\mathsf { m M } }$ N-acetylcysteine under 1G of SMG condition for1 day.The data representmean $\\pm \\mathsf { S D }$ of three independent experiments.Student's ttest $\\mathsf { \\Pi } ^ { * } \\mathsf { P } ^ { < } 0 . 0 5$ $\\ast \\ast \\mathsf { P } { < } 0 . 0 1$ # ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0125236.g003 doi:10.1371/journal.pone.0125236.g004 ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb8716c752ccc11d955d8e8d911afb542e8450f6f8b6d7a9191618f2540ebafd.jpg",
+        "img_caption": [
+            "Fig 4.Effects of simulated microgravity on the generation of endogenous reactive oxygen species (ROS)in Mdc1+/+ and Mdc1-/- MEFcells.(A)Flow cytometric analysis of ROS activity in Mdc $1 ^ { + / + }$ and Mdc $1 ^ { - 1 - }$ MEF cels exposed to 1G or SMG condition for1 or 5days.(B)N-acetylcysteine inhibited SMGinduced ROS formation in Mdc $1 ^ { - / - }$ MEFcells.Mdc $1 ^ { - / - }$ MEF cells were mock-treated or treated with O.05,0.1 or $0 . 5 \\mathsf { m M }$ N-acetylcysteine under SMG for1 day. (C) Evaluation of DNA damage by neutral comet assay in Mdc1-/- MEF cells mock-treated or treated with $0 . 5 \\mathsf { m M }$ N-acetylcysteine under 1G of SMG condition for 1 day.The data represent mean $\\pm \\mathsf { S D }$ of three independent experiments. Student's ttest, $\\mathsf { \\Pi } ^ { * } \\mathsf { P } ^ { < } 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$0 . 5 \\mathrm { m M }$ N-acetylcysteine to remove ROS and tested the effect of ROS removal on SMG-induced DNA lesions.Without $0 . 5 \\mathrm { m M }$ N-acetylcysteine in culture, the DSB level in $M d c I ^ { - / - }$ （204号 MEF cells under SMG for 1 day was significantly higher than that under 1G for 1 day (Fig 4C, lane l versus lane 3 $\\mathsf { , p } < 0 . 0 5 \\$ ,which was consistent with what we observed above (Fig 2). The DSB level in the group cultured under SMG combined with $0 . 5 \\mathrm { m M }$ N-acetylcysteine treatment was significantly lower than that in the group cultured under SMG alone (Fig 4C,lane 3 versus lane 4, $\\mathrm { \\tt ~ p } < 0 . 0 5 \\$ ,although still significantly higher than that in the group cultured under 1G (Fig 4C, lane 1 versus lane 4, $\\mathrm { \\tt ~ p } < 0 . 0 5 \\$ ). That is, $0 . 5 \\mathrm { m M }$ N-acetylcysteine could effectively suppress SMG-induced ROS generation in $M d c I ^ { - I - }$ MEF cells, but it only partly decreased SMG-induced DNA damage. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Effect of SMG on ROS generation enzymes and scavengers ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SMG-induced ROS can be derived from increasing the activities of ROS-generating enzymes or the activities of ROS scavengers [38].NADPH oxidase (Nox) enzymes are a main source of cellular ROS production. There are seven Nox enzymes [39]. Nox2,also known as gp9lphox, is the prototype NADPH oxidase and appears as the most widely distributed Nox isoform. Noxl, Nox2 and Nox4 were found to expressat low levels in MES cells [40].In this study, mRNA levels of Noxl,Nox2 and Nox4 in MES cells were analyzed by qRT-PCR.Nox2 mRNA was significantly induced in ${ \\mathrm { R a d } } 9 ^ { - / - } { \\mathrm { M E S } }$ cells after 1 day of culture under SMG,and after 5 days of culture under SMG was reduced to the levels in the same cells cultured 1 or 5 days under 1G (Fig 5A). The Nox2 mRNA levels in $R a d 9 ^ { + / + }$ MES cells remained almost the same between 1G and SMG conditions either cultured for1 day or 5 days,although the levels of Nox2 mRNA were slightly lower in thecells after 5 days'culture than those after1 day culture.There were not significant differences in Nox4 mRNA levels in MES cells cultured under 1G and SMG (Fig 5B).We were unable to detect Noxl mRNA.To check if the enhanced Nox2 mRNA can be translated into Nox2 protein, we analyzed Nox2 by Western blotting.As shown in Fig 5C and 5D,Nox2 expression was significantly higher in $\\mathrm { R a d } 9 ^ { - / - }$ MES cells cultured under SMG for 1 day than that under 1G. Enhanced Nox2 expression in these cels cultured for 5 days under SMG was reduced to a level that was not statistically different from that in cells under 1G.As for $R a d 9 ^ { + / + }$ MES cells,there was no significant difference in Nox2 expression between the SMG group and the 1G group for either 1 or 5 days of treatment. Antioxidant activity is a selfprotective celllar mechanism.The tolerance to ROS may correlate with the state of intracellular antioxidant enzymes such as superoxide dismutase (SOD),glutathione peroxidase (GSH-Px),and catalase (CAT) [41]. SMG did not affect the activities of ROS-scavenging enzymes, including SOD (Fig 6A), CAT (Fig 6B) and GSH- $\\operatorname { P x }$ (Fig 6C) in both $R a d 9 ^ { + / + }$ and $R a d g ^ { - / - } \\mathrm { M E S }$ cells for 1 or 5 days of treatment. The above data suggest that SMG-induced Nox2 expression makes a contribution to SMG-induced ROS production in $\\mathrm { R a d } 9 ^ { - / - }$ MES cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We also detected Nox2 expression in MEF cels using Western blotting analysis.Although SMG-induced ROS production could be observed in $M d c { { I } } ^ { + / + }$ MEF cells after 1 or 5 days of treatment, as well as in $M d c I ^ { - / - }$ MEF cells after 1 day of treatment, SMG did not have effect on Nox2 expression in either $M d c { { I } } ^ { + / + }$ or $M d c l ^ { - / - }$ MEF cells after 1 or 5 days of treatment (Fig 7A and 7B). In summary,ROS is only partially responsible for SMG-induced DNA damage in $M d c l ^ { - / - }$ MEF cells,and SMG-induced ROS production in both $M d c { { I } } ^ { + / + }$ and $M d c I ^ { - I - }$ MEF cells does not correlate with its effects on Nox2 expression. These findings are different from what we observed in $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - / - }$ MES cells. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c917ab6e8d980228522344b8f38f675046d429a08f970eeb77c4c5b45be35056.jpg",
+        "img_caption": [
+            "Fig 5. Effects of SMG on NADPH oxidase2 (Nox2)and NADPH oxidase4 (Nox4) expression in $R a d 9 ^ { + / + }$ and Rad9/- MES cells.(A) Quantitative realtime PCR analysis of Nox2 mRNA expression in $R a d 9 ^ { + / + }$ and Rad9-/- MES cels exposed to 1G or SMG condition for1 or5 days.The expression levels of Nox2werenomalizedtotheendogenouscontrolGAPHexpression.(B)QuantativerealtimePCRanalysisofox4mRNAexpressionin $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - 1 - }$ MEScellsexposedto1GorSGconditionfor1or5days.TheexpressionlevelsofNox4werenormalizedtotheendogenouscontroGAPDH expression.(C) Western blot analysis of $_ { \\mathsf { N o x } 2 }$ protein expression in Radg+/+ and $R a d 9 ^ { - 1 - }$ MES cells exposed to 1G or SMG condition for1 or 5 days.GAPDH wasusedastoatioepdtsatmp Datawerederivedrhredepedeexprseexpressvesofpoteinereoalidtodogesotrooten expression.The data represent mean± SD of three independent experiments. Student's ttest, $^ { * } \\mathsf { P } { < } 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0125236.g005 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Roles of Rad9 and Mdc1 in reducing cell number expansion during SMG treatment ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, we observed effects of SMG on mammalian cell DNA damage in $R a d 9 ^ { - { \\scriptscriptstyle 2 } - }$ （20 MES and $M d c I ^ { - / - }$ MEF cells but not in the corresponding wild type cells.We also saw effect of SMG in inducing apoptosis in $R a d g ^ { - / - } \\mathrm { M E S }$ but not in $R a d g ^ { + / + } { \\mathrm { M E S } }$ These effects could affect the total cell number in culture.Here we described the efect using the rate of cell number expansion which is the sum of cell proliferation and death through various ways including apoptosis. As for $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - { \\prime } - }$ MES cells cultured under 1G,the number of $R a d 9 ^ { - { \\prime } - }$ MES cells was significantly lower than that of $R a d 9 ^ { + / + }$ MES cells after 1 to 5 days under SMG,consistent with previous reports [33,42,43]. As shown in Fig 8A, the slope of the celldoubling curve for both $R a d 9 ^ { + / + }$ and $R a d 9 ^ { - { \\prime } - }$ MES cells under SMG was lower than that for the cells under 1G for 1 day,but was almost identical to the slopes for cells cultured under 1G from 2 to 5 days,suggesting that the effect of simulated SMG on cell expansion was acutely sensed in the ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0c63a7c51c30444d4e08465c2e73bc630723f574a1942d8fc1aeb95beb5b4f2.jpg",
+        "img_caption": [
+            "Fig 6. Effects of SMG on antioxidant enzyme activity in MES cells. $R a d 9 ^ { + / + }$ MES cells and $\\scriptstyle { R a d 9 ^ { - 1 - } }$ MES cells were cultured under1Gand SMG for1and 5days,respectively.The activitiesof the antioxidant enzymes in MEScellysates were determined. (A) Histograms of superoxide dismutase enzyme activity.(B) Histograms of catalase enzyme activity.(C) Histogram of Glutahione peroxidase.The data represent mean± SD of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0125236.g006 doi:10.1371/journal.pone.0125236.g007 ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/2e9e6609c8f47b743a2dfe80f702bb6aa20e12739df5fb0d1be298b95b8c0ae6.jpg",
+        "img_caption": [
+            "Fig7.Effects of SMG on NADPH oxidase2(Nox2)expression in Mdc1+/+ and Mdc1- MEFcells.(A) Western blot analysis of $_ { \\mathsf { N o x } 2 }$ protein expression in Mdc1+/+ and Mdc $1 ^ { - / - }$ MEF cells exposed to 1G or SMG condition for1or 5days.GAPDHwas used asan internal control.The representative resultsof three independent experiments were shown.(B) Quantitative comparison of Nox2 expression.Data were derived from three independent experiments as in A).The expression levels of Nox2 were normalized to the endogenous control GAPDH expression.The data representmean $\\pm \\mathsf { S D }$ of three independentexperiments. Student's t test, $\\mathsf { \\Pi } ^ { \\ast } \\mathsf { P } ^ { \\phantom { } < } 0 . 0 5$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "early stage of treatment and counterbalanced afterwards in both $R a d 9 ^ { + / + }$ and $R a d g ^ { - / - } \\mathrm { M E S }$ cells, thus that Rad9 does not play a role in the effect of SMG on cell number expansion. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "$M d c { { I } } ^ { + / + }$ MEF cells grew faster compared to $M d c I ^ { - I - }$ MEF cells under 1G. The expansion of both genotype cells was sensitive to SMG.However, the cell number expansion of $M d c I ^ { - / - }$ MEF cells was affected much more than that of $M d c { { I } } ^ { + / + }$ MEF cells by SMG (Fig 8B). The rate of cell number expansion of $M d c { { I } } ^ { + / + }$ MEF cels under SMG for the first day was significantly reduced, but later was close to that of cells under 1G,indicating that the acute effect of SMG is sensed by the cells mainly during the first day culture.The same efect of SMG also happened to $M d c I ^ { - I - }$ （20 MEF cells.However,the dynamics of the expansion rate of the cells under SMG was different from that of $M d c { { I } } ^ { + / + }$ MEF cells. The expansion rate of $M d c l ^ { - / - }$ MEF cells was still affected by SMG from day 1 to day 3,although not as much as for the first day.In contrast to the first three days, the expansion of $M d c I ^ { - / - }$ MEF cells from day 3 to day 5 was greater under SMG than 1G,and this was not because $M d c I ^ { - / - }$ MEF cells grew faster but because $M d c { { I } } ^ { + / + }$ MEF cells grew slower during the last two days. The slower growth of $M d c l ^ { + / + }$ MEF cells was most likely due to the crowdedness and contact inhibition during the last two days in culture (data not shown). ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c2ba9dd346ce3ac3419a7b1d60e8efb726135a61320ccfe8ced1b4a3ea849bc.jpg",
+        "img_caption": [
+            "Fig8.CellNumberExpansioanalyisofndFcellfterfivedasincubatiounder1GoSG.（A)iaSeldingmber was $3 { \\times } 1 0 ^ { 4 }$ .The cell doubling curve was generated by dividing the cell number by ${ | 0 ^ { 4 } }$ and then transforming the values to logarithm base2.(B) The initial MEF cells seeding number was $\\overline { { 1 0 } } ^ { 5 }$ .The cell doubling curve was generated by dividing the cell number by ${ | 0 ^ { 4 } }$ and then transforming the values to logarithm base2 The data represent mean $\\pm \\mathsf { S D }$ of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0125236.g008 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In summary, SMG slowed down the cell number expansion acutely during the first day of SMG exposure in both MES and MEF cells,either with intact Rad9/Mdc1,or their deficient versions.After the first day,Rad9 does not playa role in the slowdown of MES cellnumber expansion.However,Mdcl still plays a small but tangible role in the slowdown of MEF cell number expansion... ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this study,we investigated the effect of SMG on DNA damage using $R a d g ^ { - / - } \\mathrm { M E S }$ and $M d c l ^ { - { \\scriptscriptstyle 2 } - }$ MEF cells,as well as the corresponding wild type cells.We observed that SMG induced DNA damage in $R a d 9 ^ { - { \\prime } - }$ MES and $M d c I ^ { - / - }$ MEF cells but not in the corresponding wild type cells (Figs 1 and 2).As the culture time under SMG was lengthened,the increase in DNA lesions in $R a d g ^ { - / - } \\mathrm { M E S }$ cells gradually decreased,and disappeared after 5 days of culture under SMG (Fig 1).A similar pattern of change in DNA DSBs also happened in $M d c I ^ { - / - }$ MEF cells (Fig 2).The enhancement of DNA damage was mediated through SMG-induced ROS generation in $R a d g ^ { - / - } \\mathrm { M E S }$ cells (Fig 3) and partially in $M d c I ^ { - I - }$ MEF cells (Fig 4). Increased Nox2 transcription may contribute greatly to SMG-induced ROS generation in $\\boldsymbol { R a d 9 ^ { - / - } }$ MES cells (Fig 5). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Previously, we reported that SMG alone was unable to induce DNA DSBs in wild type MES cells after 2 days of exposure [5].In this study,we systematically investigated the effects of SMG on DNA DSBs in $R a d 9 ^ { + / + }$ MES cells,and found that SMG alone did not induce DNA DSBs in wild type MES cells after either short (1 day)orlong (5 days) durations of exposure to SMG.Although there were slight increases in DSBs in wild type MES cells cultured for 3 or 4 days under SMG,the SMG-induced DSBs did not reach levels that were statistically significantly different from those in cells cultured for the same time periods under 1G.We did not observe SMG-induced single strand or base modifications in wild type MES cells cultured for either1 or 5 days of SMG exposure (Fig 1C).We did not see enhanced DSBs in wild type MEF cells either after 1 or 5 days of SMG exposure (Fig 2).These results obviously contrast with the observation of SMG-induced DNA lesions in lymphocytes and human retinal pigment epithelial cells under SMG [6-8]. Therefore, whether DNA lesions are induced by SMG depends on the cell type. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "One of the explanations for the phenomena that the induction of DNA lesions by SMG depends on the celltype is that SMG is a weak genotoxin and its effect on DNA damage can be revealed only when the ability of DNA repair of a cell type is not strong enough to counter the level of DNA lesions in the cell.Accordingly,DNA repair capacities and the intracellular concentrations of ROS that can cause DNA lesions differ in different types of cells [44]. A strategy to create cells with a weaker capacity for DNA repair is to delete genes with functions in DDR. Both Rad9 and Mdcl plays important roles in DDR,and in this study we tested whether SMG could induce DNA lesions in $R a d 9 ^ { - { \\scriptscriptstyle 2 } - }$ MES and $M d c I ^ { - / - }$ MEF cells,but not in their wild type counterparts.The positive results of these tests suggest that SMG is a weak genotoxic stress. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We reasoned that SMG could induce DNA lesions either by raising the level of factors that cause DNA lesions or by impairing the DDR system.Alliving cells generate ROS, so we examined the levels of ROS in cells cultured under SMG and 1G.We observed time-dependent SMG-induced ROS generation in $R a d g ^ { - / - } \\mathrm { M E S }$ cells but not in wild type MES cells. There was no significant difference in ROS production between $R a d 9 ^ { - / - }$ and wild type MES cells cultured under 1G for1 day.Therefore,both Rad9 deletion and SMG were required for the enhancement of ROS,and ROS was reduced to a level close to that of cells under 1G when $R a d 9 ^ { - { \\prime } - }$ MES cells were cultured under SMG for 5 days (Fig 3A). One explanation is that SMG can raise ROS levels and Rad9 may help reduce ROS concentrations.In the absence of Rad9,when an enhanced level of ROS is sensed,another mechanism is activated and suppresses ROS to a level close to that of cells under 1G. Our data demonstrated that Nox2 transcription also changed in a time-dependent manner similar to the changes in ROS and DSBs (Fig 5A-5C),suggesting that Rad9 plays a role in suppressing Nox2 transcription.Interestingly, Yin et al. proposed that modulation of gene transcription is a mechanism by which Rad9 controls multiple cellular processes[45]. How Rad9 regulates Nox2 expression deserves further investigation. The similar pattern in the levels of DSBs and ROS in $R a d 9 ^ { - { \\scriptscriptstyle 2 } - }$ MES cells also suggests that the increased concentration of ROS is responsible for the increased DSBs,and this supposition was supported by the observation that the DSBs in $R a d 9 ^ { - / - }$ MES cells cultured under SMG for 1 day were suppressed by the ROS scavenger N-acetylcysteine to a level nearly identical to that of the same cells under 1G. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We tried to answer the question of whether ROS levels could also be raised in cells other than MES cells and in a genetic background deficient for another DDR gene.We found that 1 day culture under SMG induced a significantly higher level of ROS in $M d c l ^ { - / - }$ MEF cells, but also in wild type MEFcels although the increased level of ROS in the wild type cells was significantly lower than that in $M d c l ^ { - / - }$ MEF cels (Fig 4A). These data suggest that Mdc1 is partially responsible for inhibiting the enhancement of intracellular ROS concentration induced by SMG and that the SMG-induced ROS in wild type MEF cells,in contrast to MES cells,cannot be suppressed completely by an intrinsic mechanism. After 5 days of culture,the ROS level in $M d c I ^ { - \\ d I }$ MEF cells under SMG returned to that of cells under 1G,while the ROS level in wild type MEF cells under SMG was still significantly higher than that of cells under 1G.Similar to the pattern for $R a d 9 ^ { - { \\prime } - { } }$ MES cells, the ROS level increased in $M d c I ^ { - \\prime - }$ MEF cells under SMG for 1 day and then returned to that of cells under 1G; however,the dynamic change of the ROS concentration in wild type MEF cells was different from MES wild type cells.We did not observe that SMG had an effect on Nox2 transcription in either $M d c { { I } } ^ { + / + }$ or $M d c l ^ { - / - }$ MEF cells ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "cultured for 1 or 5 days.Thus the mechanisms of SMG-induced ROS production between MEF cells and MES cells are different,and Mdc1 is only partially responsible for the suppression of the SMG-induced ROS in MEF cells. It will be worthwhile to check if other DDR genes are also involved in this process and what is the outcome in other types of cells. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Another important question is whether the ROS induced by SMG in MEF cells is responsible for the SMG-induced DSBs.As described above,the SMG-induced ROS is responsible for the majority,if not all, of the SMG-induced DSBs in $R a d 9 ^ { - { \\prime } - }$ MES cells,but the SMG-induced ROS is only partially responsible for the DSBs caused by SMG in $M d c I ^ { - I - }$ MEF cells as the ROS scavenger N-acetylcysteine suppressed the ROS level in cells cultured for1 day under SMG to that of cells under 1G but was unable to reduce the DSB level to that of cells under 1G.This proposition is also supported by the observation that culturing $M d c l ^ { - / - }$ MEF cells under SMG for 5 days returned the ROS level to that of cells under 1G but could not reduce the SMG-induced DSBs to that of cells under 1G. These data suggest that there are other mechanism(s) through which SMG affects the level ofDSBs in $M d c I ^ { - I - }$ MEF cells.These mechanisms could involve repair,cell cycle control and/or signal transduction, three important elements in the DDR.We are unable to answer why MEF cells behaved differently from MES cells,or why Mdc1 deficient cells behaved differently than Rad9 deficient cells in response to SMG treatment. It would be ideal if $R a d 9 ^ { - { \\prime } - }$ MEF cells and $M d c I ^ { - I - }$ MES cells were available to compare Rad9 and Mdcl in the same cell type,and to compare MEF and MES cels deficient for Rad9 or Mdc1. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "It should be noticed that although SMG induced significantly higher levels of ROS in both $M d c { { I } } ^ { + / + }$ and $M d c I ^ { - / - }$ MEF cells, we only observed increased DSB levels in $M d c I ^ { - / - }$ MEF cells but not in $M d c { { I } } ^ { + / + }$ MEF cells.This indicates that wild type MEF cells whose DDR system is intact can effectively maintain genomic stability in response to the enhanced level of ROS induced by SMG. The different responses of MES and MEF cells to SMG indicates the importance of including multiple cell types in this type of research. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We observed the adaptations of both MES and MEF cells to SMG in several aspects.SMG induced acute effects on cells cultured for the first day,then the effcts were gradually reduced afterwards.We name the reduction of these effects after culturing these cels for more than one day as adaptation.As for cell number expansion,the adaptation occurred in both MES and MEF cells,and in both wild type and Rad9 or Mdc1 deficient genetic backgrounds,and the adaptation was nearly complete after 5 days ofculture as demonstrated by the nearly identical slopes of cell number expansion curves for cells under SMG and 1G (Fig 8). As for DNA lesions,the adaptation happened only to the cells with Rad9 or Mdc1 deletion (Figs l and 2).The adaptation of DNA lesions was complete for $R a d 9 ^ { - / - }$ MES cells,but not for $M d c l ^ { - / - }$ MEF cells, within 5 days under SMG.As for ROS enhancement,a complete adaptation occurred in both $R a d 9 ^ { - / - }$ MES cells and $M d c I ^ { - / - }$ MEF cells within 5 days under SMG, but not in wild type MEF cells (Fig 4A). Cell number expansion can be affected by the levels of DNA lesions and apoptosis.However,how ROS level affects cell number expansion is not understood.Whether adaptations of various cellular activities to microgravity actually happen in space warrants future investigations. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr Junjie Chen for providing $M d c { { I } } ^ { + / + }$ and $M d c l ^ { - \\prime - }$ MEF cells and Dr Zhixing Xu for technical assistance related to cell culture. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: HYH LLA NL. Performed the experiments: NL LLA.   \nAnalyzed the data: LLA NL HYH. Contributed reagents/materials/analysis tools: NL LLA.   \nWrote the paper: LLA HYH NL. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. Hoeijmakers JH.DNA damage,aging,and cancer.The New England journal of medicine.2009; 361 (15):1475-85.Epub 2009/10/09.doi: 10.1056/NEJMra0804615 PMID:19812404.   \n2. Lombard DB,Chua KF, MostoslavskyR_Franco S, Gostissa M,AItFW. DNA repair, genome stability and aging. Cell.2005;120(4):497-512. Epub 2005/03/01.doi: 10.1016/j.cell.2005.01.028 PMID: 15734682.   \n3．Durante M,Snigiryova G,AkaevaE,Bogomazova A,Druzhinin S,Fedorenko B,etal.Chromosome aberration dosimetry in cosmonauts after single or multiple space flights.Cytogenetic and genome research.2004;103(1-2):40-6. 4. Ohnishi T,Takahashi A,Ohnishi K, Matsumoto H. DNA damage formation and p53 accumulation in mammalian cels exposed to the space environment. Uchu Seibutsu Kagaku.1999; 13(2):82-7.Epub 2001/09/07.PMID:11542495.   \n5. Wang Y,AnL,Jiang Y,Hang H.Effects of simulated microgravity on embryonic stem cels.PloS one. 2011; 6(12):e29214. Epub 2012/01/05.doi: 10.1371/journal.pone.0029214 PMlD: 22216215; PubMed Central PMCID:PMCPmc3244445.   \n6.Degan P,SancandiM,Zunino A,Ottaggio L,Viaggi S,Cesarone F,etal.Exposure of human lymphocytes and lymphoblastoid cells to simulated microgravity strongly affects energy metabolismand DNA repair.Journal of celular biochemistry.2005; 94(3):460-9.Epub 2004/11/10.doi: 10.1002/jcb.20302 PMID: 15534877.   \n7.Kumari R,Singh KP, Dumond JW Jr. Simulated microgravity decreases DNA repair capacity and induces DNA damage in human lymphocytes.Journal of cellular biochemistry.2009;107(4):723-31. Epub 2009/05/06.doi: 10.1002/jcb.22171 PMID:19415677.   \n8. Roberts JE, Kukielczak BM, Chignel CF,Sik BH,Hu DN, Principato MA. Simulated microgravity induced damage in human retinal pigment epithelial cels.Molecular vision.2006;12:633-8.Epub 2006/ 06/09.PMID:16760899.   \n9. Ciccia A,Eledge SJ.The DNA damage response: making it safe to play with knives.Molecular cell. 2010; 40(2):179-204.Epub 2010/10/23.doi: 10.1016/j.molcel.2010.09.019 PMlD: 20965415; PubMed Central PMCID: PMCPmc2988877.   \n10. Lieberman HB.Rad9,an evolutionarily conserved gene with multiple functions for preserving genomic integrity.Journal of celular biochemistry.2006; 97(4):690-7.doi: 10.1002/jcb.20759 PMID:16365875.   \n11.Hopkins KM,Auerbach W,Wang XY,Hande MP, Hang H,Wolgemuth DJ,etal. Deletion of mouse rad9 causes abnormal cellular responses to DNA damage,genomic instabiity,and embryonic lethality. Molecular and cellular biology.2004; 24(16):7235-48.PMlD:15282322   \n12. Zhang C,Zhang CX,He Y, Hang H.Phosphorylation sites on Tyr28 and the C-terminus of Rad9 are required for inhibition of premature chromosomal condensation across the entire S phase.Cellular physiologyand biochemistry: international journal of experimental cellular physiology,biochemistry,and pharmacology.2008; 22(1-4):295-306. Epub 2008/09/05.doi: 10.1159/000149808 PMID: 18769057.   \n13. Coster G, Goldberg M.The cellular response to DNA damage: a focus on MDC1 and its interacting proteins.Nucleus (Austin,Tex).2010;1(2):166-78.Epub 2011/02/18.doi: 10.4161/nucl.1.2.11176 PMID: 21326949; PubMed Central PMCID:PMCPMC3030693.   \n14.Jungmichel S,Stucki M.MDC1: The artof keeping things in focus.Chromosoma.2010;119(4):337- 49.Epub 2010/03/13.doi: 10.1007/s00412-010-0266-9 PMID:20224865.   \n15.Marechal A, Zou L.DNA damage sensing bythe ATMand ATR kinases.Cold Spring Harbor perspectives in biology.2013; 5(9).Epub 2013/09/05.doi: 10.1101/cshperspect.a012716 PMID:24003211.   \n16. Parrilla-Castellar ER,Arlander SJ, KarnitzL. Dial9-1-1 for DNA damage: the Rad9-Hus1-Rad1 (9-1-1) clamp complex. DNA repair.2004; 3(8-9):1009-14.Epub 2004/07/29.doi: 10.1016/j.dnarep.2004.03. 032 PMID: 15279787.   \n17.Lou Z,Minter-Dykhouse K,Franco S,Gostissa M,Rivera MA, Celeste A,etal. MDC1 maintains genomic stability by participating in the amplification of ATM-dependent DNA damage signals.Molecular cell.2006; 21(2):187-200. Epub 2006/01/24. doi: 10.1016/j.molcel.2005.11.025 PMID: 16427009.   \n18. Shi G,Chang DY, Cheng CC, Guan X,Venclovas C,Lu AL. Physical and functional interactions between MutY glycosylase homologue (MYH) and checkpoint proteins Rad9-Rad1-Hus1.The Biochemical journal. 2006; 400(1):53-62.Epub 2006/08/02. doi: 10.1042/bj20060774 PMID: 16879101; PubMed Central PMCID: PMCPmc1635441.   \n19. Guan X, Bai H,ShiG,Theriot CA, Hazra TK, Mitra S,etal.The human checkpoint sensor Rad9-Rad1- Hus1 interacts with and stimulates NEIL1 glycosylase.Nucleic acids research.2007; 35(8):2463-72. Epub 2007/03/31.doi: 10.1093/nar/gkm075PMID:17395641; PubMed Central PMCID: PMCPMC1885643.   \n20. Guan X,MadabushiA,Chang DY,Fitzgerald ME,Shi G,Drohat AC,etal.The human checkpoint sen sor Rad9-Rad1-Hus1 interacts with and stimulates DNA repai eTDG glycosylase.Nucleic acids research.2007;35(18):6207-18.Epub 2007/09/15.doi: 10.1093/nar/gkm678 PMlD:17855402; PubMed Central PMCID: PMCPmc2094074.   \n21.GembkaA,Toueill M,SmrnovaE,PoltzR,FerrariE,VillaniG,etal.Thecheckpointclamp,Rad9- Rad1-Hus1 complex,preferentialy stimulates the activity of apurinic/apyrimidinic endonuclease 1and DNA polymerase beta in long patch base excision repair. Nucleic acids research.2007; 35(8):2596- 608.Epub 2007/04/12.doi: 10.1093/nar/gkl1139 PMID:17426133; PubMed Central PMCID: PMCPMC1885638.   \n22.Friedrich-Heineken E,Toueill M,TannlerB,Burki C,Ferrari E,Hottiger MO,etal.The two DNA clamps Rad9/Rad1/Hus1 complex and proliferating cellnuclear antigen differentially regulate flap endonuclease1 activity.Journal of molecular biology.2005;353(5):980-9.Epub 2005/10/12.doi: 10.1016/j.jmb. 2005.09.018 PMID:16216273.   \n23. Song W,LevinDS,VarkeyJ,PostS,BermudezVP,HurwitzJ,etal.Aconserved physicalandfunctional interaction between thecellcycle checkpoint clamp loaderand DNA ligase lof eukaryotes.The Journalof biological chemistry.2007; 282(31):22721-30. Epub 2007/06/15.doi: 10.1074/jbc.M703774200 PMID: 17561505.   \n24. Wang W,Lindsey-Boltz LA,Sancar A,Bambara RA.Mechanism of stimulation of human DNA ligasel by the Rad9-rad1-Hus1 checkpoint complex.The Journal of biological chemistry.2006; 281 (30):20865-72. Epub 2006/05/30.doi: 10.1074/jbc.M602289200 PMID:16731526.   \n25. HeW,Zhao Y,Zhang C,AnL,Hu Z,LiuY,etal.Rad9 playsan important role in DNA mismatch repair through physical interaction with MLH1.Nucleic acids research.2008;36(20):6406-17.Epub 2008/10/ 10.doi: 10.1093/nar/gkn686 PMID:18842633; PubMed Central PMCID:PMCPMC2582629.   \n26.Bai H, Madabushi A,Guan X,Lu A.Interaction between human mismatch repair recognition proteins and checkpoint sensor Rad9-Rad1-Hus1. DNA repair.2010; 9(5):478-87.doi: 10.1016/j.dnarep.2010. 01.011 PMID: 20188637   \n27.LiT,Wang Z,Zhao Y,HeW,AnL,LiuS,etal.Checkpoint protein Rad9 plays an important role in nucleotide excision repair.DNA repair.2013;12(4):284-92.Epub 2013/02/26.doi: 10.1016/j.dnarep. 2013.01.006 PMID:23433811.   \n28.Pandita RK,Sharma GG,LaszloA,Hopkins KM,Davey S,Chakhparonian M,etal. Mammalian Rad9 playsarole intelomerestability,S-andG2-phase-specificcellsurvival,andhomologous recombinational repair.Molecularand cellular biology.2006; 26(5):1850-64.Epub 2006/02/16.doi: 10.1128/mcb. 26.5.1850-1864.2006 PMID:16479004; PubMed Central PMCID: PMCPmc1430264   \n29.Minter-Dykhouse K,WardI,Huen MS,Chen J,Lou Z.Distinctversus overlapping functionsof MDC1 and 53BP1 in DNA damage response and tumorigenesis.The Journal of cellbiology.2008;181 (5):727-35. Epub 2008/05/28.doi: 10.1083/jcb.200801083 PMID:18504301; PubMed Central PMCID: PMCPMC2396806.   \n30. Jiang Y,LiW,WangL, Zhang Z,Zhang B.Several new type of clinostat.Space Medicine& Medical Engineering (Chinese).2008;21:368-71.   \n31. AuerbachW,DunmoreJ,Fairchild-HuntressV,Fang Q,AuerbachA,HuszarD,etal.Establishment and chimera analysis of 129/SvEv-and C57BL/6-derived mouse embryonic stem cellines.Biotechniques.2000;29(5):1024-8,30,32.PMID:11084865   \n32. Matise M,Auerbach W,Joyner A.Productionof targeted embryonic stemcellclones.In: Approach GTAP,editor.: Oxford University Press,NY; 2000.p.111-3.   \n33. Hopkins KM,Auerbach W,Wang XY,Hande MP, Hang H,Wolgemuth DJ,et al. Deletion of mouse rad9 causes abnormal cellular responses to DNA damage,genomic instability,and embryonic lethality. Molecular and celular biology.2004; 24(16):7235-48.Epub 2004/07/30.doi: 10.1128/mcb.24.16. 7235-7248.2004PMID:15282322;PubMed Central PMCID:PMCPmc479733.   \n34.Singh NP, McCoy MT,Tice RR,Schneider EL.A simple technique for quantitation oflow levels of DNA damage in individual cells.Experimental cellresearch.1988;175(1):184-91.PMID:3345800   \n35.Shen YC,Chou CJ, Chiou WF, Chen CF.Anti-inflammatory effects ofthe partially purified extract of radixStephaniae tetrandrae: comparative studiesof its active principles tetrandrine and fangchinoline on human polymorphonuclear leukocyte functions.Mol Pharmacol.2001; 60(5):1083-90. Epub 2001/ 10/20.PMID:11641437.   \n36. Huang X,Darzynkiewicz Z.Cytometric assessment of histone H2AX phosphorylation: a reporter of DNA damage.Methods in molecular biology (Clifton,NJ).2006;314:73-80.Epub 2006/05/06.doi: 10. 1385/1-59259-973-7:073 PMID:16673875; PubMed Central PMCID:PMCPMC1458374.   \n37. Schieber M, Chandel NS.ROS function in redox signaling and oxidative stress. Current biology: CB. 2014;24(10):R453-62.Epub 2014/05/23.doi: 10.1016/j.cub.2014.03.034 PMID:24845678; PubMed Central PMCID:PMCPMC4055301.   \n38. Wang J,Zhang J,Bai S,Wang G,MuL,Sun B,etal.Simulated microgravity promotes celularsenescence via oxidant stress in rat PC12 cels.Neurochemistry International.2009; 55(7):710-6.doi: 10. 1016/j.neuint.2009.07.002 PMID: 19616052   \n39. Bedard K, Krause KH.The NOX family of ROS-generating NADPH oxidases: physiology and pathophysiology.Physiological reviews.2007;87(1):245-313.Epub 2007/01/24.doi:10.1152/physrev. 00044.2005 PMID:17237347.   \n40. Buggisch M,Ateghang B,Ruhe C,Strobel C,Lange S,Wartenberg M,etal.StimulationofES-cell-derived cardiomyogenesis and neonatal cardiaccel proliferation by reactive oxygen speciesand NADPH oxidase.Journal of cellscience.2007;120(Pt5):885-94.Epub 2007/02/15.doi:10.1242/jcs.03386 PMID: 17298980.   \n41. Yildiz L, Kayaoglu N,Aksoy H.The changes of superoxide dismutase,catalase and glutathione peroxidaseactivities in erythrocytes of active and passive smokers.Clinical chemistry and laboratory medicine: CCLM/FESCC.2002;40(6):612-5.Epub 2002/09/05.doi: 10.1515/cclm.2002.106 PMID: 12211658.   \n42. Hu Z, LiuY,Zhang C,Zhao Y,HeW, Han L,etal.Targeted deletion of Rad9 in mouse skin keratinocytes enhances genotoxin-induced tumor development. Cancer research.2oo8; 68(14):5552-61. Epub 2008/07/18.doi: 10.1158/0008-5472.can-07-5670 PMID:18632607.   \n43. AnL,Wang Y,LiuY,YangX,Liu C,HuZ,etal.Rad9 is required forBcellproliferation and immunoglobulin class switch recombination.The Journalof biological chemistry.2010;285(46):35267-73. Epub 2010/08/24.doi:10.1074/jbc.M110.161208 PMID:20729201; PubMed Central PMCID: PMCPmc2975150.   \n44. Saretzki G,Armstrong L,Leake A,Lako M,von ZglinickiT.Stress defense in murine embryonic stem cells is superior to thatof various diferentiated murine cels.Stemcells (Dayton,Ohio).2004; 22 (6):962-71. Epub 2004/11/13. doi: 10.1634/stemcells.22-6-962 PMID:15536187.   \n45. Yin Y,ZhuA,JinYJ,Liu YX,Zhang X,Hopkins KM,etal. Human RAD9 checkpointcontrol/proapoptotic protein can activate transcriptionof p21.Proceedings of the National Academy of Sciences of the United States of America.2004;101(24):8864-9.Epub 2004/06/09.doi: 10.1073/pnas.0403130101 PMID: 15184659;PubMed Central PMCID:PMCPmc428438. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    }
+]

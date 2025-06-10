@@ -1,0 +1,237 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# 实测中激光测距方程的完善
+
+翟东升1,²，汤儒峰}，李春晓1,²，熊耀恒1(1.中国科学院云南天文台，云南 昆明650011；2.中国科学院大学，北京100049)
+
+摘要：考虑望远镜存在跟踪随机抖动及大气湍流引起的光斑抖动等因素，推导出新的激光测距方程。采用数值模拟的计算方法，研究分析激光发散角、望远镜跟踪随机抖动和大气湍流引起的光斑抖动对回波强度的影响，得出望远镜跟踪抖动及激光发散角是影响测距系统性能的重要因素。
+
+关键词：望远镜跟踪抖动；大气湍流；激光测距方程；激光发散角中图分类号：P228.5 文献标识码：A 文章编号：1672-7673(2017)01-0025-07
+
+激光测距方程是研究激光测距系统探测能力的基本理论依据，对激光测距方程进行分析能够对测距系统中使用的激光器的能量、激光发散角等参数的最优选取提供理论支持。传统激光测距方程的推导过程中假设激光脉冲能量的空间分布是均匀的，在激光大气传播过程中仅考虑了大气的衰减作用[1]。然而，在激光测距系统中，激光能量的分布形式，大气湍流对激光传输时抖动、扩展、闪烁以及望远镜在实测时的跟踪抖动都会导致回波强度的变化。文［2]在传统激光测距方程的基础上，考虑了激光束本身的分布形式和大气湍流对激光传输的影响，推导出激光测距方程的新的表达形式；文[3]基于对望远镜跟踪抖动满足高斯分布的假设，推导出含有望远镜跟踪抖动参量的激光测距方程。在实测过程中，大气湍流引起光束的抖动、扩展、闪烁以及望远镜的跟踪抖动同时影响回波强度，所以需将大气湍流与望远镜跟踪抖动同时考虑到激光测距方程中。
+
+# 1激光能量为高斯(Gaussian)分布时能量表达式
+
+在激光测距系统中使用的激光器，其光谐振腔发出的基模辐射场的横截面振幅与能量是高斯分布。激光束在传输距离为 $z$ 时能量分布 $E ( \rho )$ 和截面半径 $\begin{array} { r } { | \rho | = \rho ( x , \ y ) = \sqrt { x ^ { 2 } + y ^ { 2 } } } \end{array}$ 之间的关系为
+
+$$
+E ( \rho ) = A e ^ { - \frac { \rho ^ { 2 } } { \omega ( z ) ^ { 2 } } } \mathrm { ~ , ~ }
+$$
+
+其中， $A$ 为系数； $\omega ( z )$ 为表征激光传输距离 $z$ 时的光斑半径
+
+$$
+\omega \left( z \right) ^ { 2 } = \omega _ { 0 } { } ^ { 2 } \big [ 1 + \big ( \frac { \lambda z } { \pi \omega _ { 0 } { } ^ { 2 } } \big ) ^ { 2 } \big ] ,
+$$
+
+其中， $\boldsymbol { w } _ { 0 }$ 为激光的束腰半径； $z$ 为激光传输的距离。
+
+假设光束中心能量的 $1 / \mathrm { e }$ 处所对应的光束半径为 $\rho _ { \mathrm { e } }$ ，故有
+
+$$
+\frac { { \rho _ { \mathrm { e } } } ^ { 2 } } { \omega \left( z \right) ^ { 2 } } = 1 .
+$$
+
+将(3)式代入(1)式：
+
+$$
+E ( \rho ) = A e ^ { - \frac { \rho ^ { 2 } } { \rho _ { _ { \mathrm { e } } } ^ { \ 2 } } } \ .
+$$
+
+对(4)式进行积分可求出激光束能量分布 $E ( \rho )$ 与整个激光脉冲能量 $E _ { 0 }$ 的关系式：
+
+$$
+\begin{array} { l } { E _ { 0 } = \displaystyle \iint E ( \rho ) \rho \mathrm { d } \rho \mathrm { d } \varphi = A \displaystyle \int d \varphi \displaystyle \int e ^ { - \frac { \rho ^ { 2 } } { \rho _ { \mathrm { e } } ^ { 2 } } } \rho \mathrm { d } \rho = \pi A { \rho _ { \mathrm { e } } } ^ { 2 } } \\ { \displaystyle \Rightarrow A = \frac { E _ { 0 } } { \pi { \rho _ { \mathrm { e } } } ^ { 2 } } } \\ { E ( \rho ) = \frac { E _ { 0 } } { \pi { \rho _ { \mathrm { e } } } ^ { 2 } } e ^ { - \frac { \rho ^ { 2 } } { \rho _ { \mathrm { e } } ^ { 2 } } } . } \end{array}
+$$
+
+那么，
+
+由（5)式可知，当空间碎片位于高斯光束中心时反射的回波强度最强，当空间碎片相对高斯光束中心存在偏差时，回波强度降低，激光能量为高斯分布时的示意图如图1。
+
+![](images/69c5e48f1a387667c905a711063aab351291d63f65015d93e75a3b8d833d8337.jpg)  
+图1激光能量为高斯分布时的示意图  
+Fig.1Spatial distribution of the laser energy:Gaussian type
+
+2望远镜跟踪抖动导致目标偏离光束中心距离的概率分布表达式
+
+假设望远镜的跟踪抖动 $\stackrel { \longrightarrow } { \phi }$ 是满足高斯概率分布的随机变量，此时 $\stackrel { \longrightarrow } { \phi }$ 可表示为
+
+$$
+g _ { t } ( \vec { \phi } ; \stackrel {  } { \mu } , \sum _ { 1 } ) = \frac { 1 } { 2 \pi \mid \sum _ { 1 } ^ { \frac { 1 } { 2 } } } e ^ { - \frac { 1 } { 2 } ( \vec { \phi } - \stackrel {  } { \mu } ) ^ { \mathrm { T } } \sum _ { 1 } ^ { - 1 } ( \vec { \phi } - \stackrel {  } { \mu } ) } ,
+$$
+
+其中， $\stackrel {  } { \phi } = \big ( \phi _ { _ x } , \phi _ { _ y } \big )$ ; $\textstyle \phi _ { x }$ 为望远镜跟踪抖动 $\stackrel { \longrightarrow } { \phi }$ 在方位轴上的分量； $\boldsymbol { \phi } _ { \ u { y } }$ 为望远镜跟踪抖动 $\vec { \phi }$ 在高度轴上的分量; $\stackrel {  } { \mu } = ( \mu _ { _ x } , \mu _ { _ y } )$ 为望远镜的固定指向偏差; $\mu _ { x }$ 为望远镜方位轴上的固定指向偏差； $\mu _ { _ y }$ 为望远镜高度轴上的固定指向偏差。
+
+当望远镜不存在固定指向偏差时，有
+
+$$
+g _ { t } ( \stackrel {  } { \phi } ; 0 , \sum _ { 1 } ) = \frac { 1 } { 2 \pi \mid \sum _ { 1 } \stackrel { \mid } { | } ^ { \frac { 1 } { 2 } }  } e ^ { - \frac { 1 } { 2 } ( \stackrel {  } { \phi } ) ^ { \mathrm { T } } \sum _ { 1 } ^ { - 1 } ( \stackrel {  } { \phi } ) } ,
+$$
+
+其中，T为转置运算符； $\textstyle \sum _ { 1 }$ 为 $\stackrel { \longrightarrow } { \phi }$ 协方差矩阵，可表示为
+
+$$
+\begin{array} { r } { \sum _ { 1 } = \left( { \sigma } _ { x _ { 1 } } ^ { 2 } \quad \sigma _ { x _ { 1 } y _ { 1 } } \right) . } \\ { \sigma _ { x _ { 1 } y _ { 1 } } \quad \sigma _ { y _ { 1 } } ^ { 2 } \quad } \end{array}
+$$
+
+当望远镜的跟踪随机误差在高度和方位轴互不相关时有
+
+$$
+\begin{array} { r } { \sum _ { \mathrm { ~ \scriptsize ~ 1 ~ } } = \left( \begin{array} { c c } { \sigma _ { x _ { 1 } } ^ { 2 } } & { 0 } \\ { 0 } & { \sigma _ { y _ { 1 } } ^ { 2 } } \end{array} \right) . } \end{array}
+$$
+
+其中， $\sigma _ { { } _ { x _ { 1 } } }$ 为望远镜在方位轴的跟踪精度； $\sigma _ { { } _ { y _ { 1 } } }$ 为望远镜在高度轴的跟踪精度。
+
+假设望远镜跟踪抖动为高斯分布且仅考虑望远镜跟踪随机误差，由望远镜跟踪抖动导致的空间目标偏离光束中心的距离 $\vec { \rho _ { \mathrm { t } } }$ 也是满足高斯分布的随机变量， $\overrightarrow { \rho _ { \mathrm { t } } }$ 与 $\stackrel { \longrightarrow } { \phi }$ 的关系可表示为
+
+$$
+\stackrel {  } { \rho _ { \mathrm { t } } } = \stackrel {  } { \phi } R \mathrm { ~ , ~ }
+$$
+
+$R$ 是望远镜与被测目标的距离。所以有
+
+$$
+\stackrel {  } { \phi } = \stackrel { \longrightarrow } { \rho _ { \mathrm { t } } } / R \ .
+$$
+
+将其代入(7)式可推出：
+
+$$
+g _ { \mathrm { t } } ( \stackrel {  } { \rho _ { \mathrm { t } } } ; 0 , \sum _ { 1 2 } ) = \frac { 1 } { 2 \pi \mid { \sum _ { 1 } } ^ { \prime } \mid ^ { \frac { 1 } { 2 } } } e ^ { - \frac { 1 } { 2 } ( \stackrel {  } { \rho _ { \mathrm { t } } } ) T \sum _ { 1 } { } ^ { \prime } - 1 ( \stackrel {  } { \rho _ { \mathrm { t } } } ) } ,
+$$
+
+其中， $\sum _ { 1 } { ^ { \prime } = { \binom { \sigma _ { x _ { 1 } } ^ { 2 } R ^ { 2 } } { 0 } } \quad \quad 0 \atop 0 } ) $
+
+# 3大气湍流作用导致的目标偏离光束中心距离的概率分布表达式
+
+由于大气湍流的影响，激光在传播过程中不断随机地改变其波束特性，表现为光束的扩展、光斑漂移及脉冲宽度的增加等[4]。光斑漂移导致空间碎片相对于光束的中心距离 $\rho _ { \mathrm { a } } ^ { \mathrm { ^ { ' } } }$ 随机变化，假设随机变量 $\overrightarrow { \rho _ { \mathrm { a } } }$ 满足高斯概率分布函数 $g _ { \mathrm { a } }$ ， $g _ { \mathrm { a } }$ 可表示成：
+
+$$
+g _ { \mathrm { a } } ( \overrightarrow { \rho _ { \mathrm { a } } } ; 0 , \sum _ { 2 } ) = \frac { 1 } { 2 \pi \mid \sum _ { 2 } \mid ^ { \frac { 1 } { 2 } } } e ^ { - \frac { 1 } { 2 } ( \overrightarrow { \rho _ { \mathrm { a } } } ) ^ { \mathrm { T } } { \sum _ { 2 } } ^ { - 1 } ( \stackrel {  } { \rho _ { \mathrm { a } } } ) } ,
+$$
+
+其中， $\stackrel { \longrightarrow } { \rho _ { \mathrm { a } } } = ( x _ { 2 } , y _ { 2 } )$ ; $\mathbf { x } _ { 2 }$ 为 $\rho _ { \mathrm { a } } ^ { \mathrm { ^ { ' } } }$ 在望远镜方位轴的分量； $y _ { 2 }$ 为 $\overrightarrow { \rho _ { \mathrm { a } } }$ 在望远镜高度轴的分量；T为转置运算符；0代表光束的中心为随机变量 $\overrightarrow { \rho _ { \mathrm { a } } }$ 的均值； $\textstyle \sum _ { 2 }$ 为 $\rho _ { \mathrm { a } } ^ { \mathrm { ^ { \prime } } }$ 的协方差矩阵。当大气湍流引起的光斑漂移在望远镜方位和高度轴互不相关时有
+
+$$
+\begin{array} { r } { \sum _ { \mathrm { \Omega } _ { 2 } } = \left( \begin{array} { c c } { \sigma _ { { x } _ { 2 } } ^ { 2 } } & { 0 } \\ { 0 } & { \sigma _ { { y } _ { 2 } } ^ { 2 } } \end{array} \right) , } \end{array}
+$$
+
+其中， $\sigma _ { x _ { 2 } } ^ { 2 }$ 为望远镜方位轴的光斑漂移方差； $\sigma _ { { } _ { y _ { 2 } } } ^ { 2 }$ 为望远镜高度轴的光斑漂移方差。
+
+根据文[4]，大气湍流导致光束中心漂移的均方差为
+
+$$
+< { \rho _ { \mathrm { c } } } ^ { 2 } > \approx \frac { 1 0 . 2 2 R ^ { 2 } } { { k ^ { 2 } r _ { 0 } } ^ { \frac { 5 } { 3 } } D ^ { \frac { 1 } { 3 } } } .
+$$
+
+当光斑漂移方差在望远镜方位轴和高度轴相等时，可推出：
+
+$$
+\sigma _ { x _ { 2 } } ^ { 2 } = \sigma _ { y _ { 2 } } ^ { 2 } = < \rho _ { \mathrm { c } } ^ { ~ 2 } > ~ \approx \frac { 1 0 . 2 2 R ^ { 2 } } { { k ^ { 2 } r _ { 0 } } ^ { \frac { 5 } { 3 } } D ^ { \frac { 1 } { 3 } } } ~ ,
+$$
+
+其中， $r _ { 0 }$ 为大气相干长度； $k = \frac { 2 \pi } { \lambda }$ $\lambda$ 为激光波长。
+
+# 4综合考虑两随机作用源时的激光测距方程推导
+
+漫反射目标相对于光束中心的偏差距离是望远镜跟踪抖动与大气湍流共同作用的结果，且这两个作用相互独立，根据概率论，两个物理过程对同一参数的作用可表示成两个函数的卷积[5-6]，即
+
+$$
+g _ { _ \mathrm { \scriptsize { t o t a l } } } ( { \vec { \rho } } _ { _ \mathrm { \scriptsize { t o t a l } } } ; ~ 0 , ~ \sum _ { _ \mathrm { \scriptsize { t o t a l } } } ) = g _ { _ \mathrm { \scriptsize { t } } } \otimes g _ { \mathrm { \scriptsize { a } } } ~ .
+$$
+
+具体形式可表示为
+
+$$
+\mathrm { \Upsilon } _ { \mathrm { g _ { t o t a l } } } ( \vec { \rho } _ { \mathrm { t o t a l } } ; { \mathrm {  ~ \Omega ~ } } 0 , \sum _ { \mathrm { t o t a l } } ) = \frac { 1 }  2 \pi \mathrm {  ~ \Big | ~ \sum ~ } _ { \mathrm { t o t a l } } \mathrm {  ~ \Big | ~ \frac { 1 } { \rho } ~ } e ^ { - \frac { 1 } { 2 } ( \vec { \rho } _ { \mathrm { t o t a l } } ) \mathrm { T } \sum _ { \mathrm { t o t a l } } - 1 ( \vec { \rho } _ { \mathrm { t o t a l } } ) } ~ ,
+$$
+
+其中， $\Sigma _ { \mathrm { \ t o t a l } }$ 可表示为
+
+$$
+\sum _ { \mathrm { \scriptsize ~ { t o t a l } } } = \sum _ { 1 2 } + \sum _ { 2 } = \left( \begin{array} { c c } { { \sigma _ { x _ { 1 } } ^ { 2 } R ^ { 2 } + \sigma _ { x _ { 2 } } ^ { 2 } } } & { { 0 } } \\ { { 0 } } & { { \sigma _ { y _ { 1 } } ^ { 2 } R ^ { 2 } + \sigma _ { y _ { 2 } } ^ { 2 } } } \end{array} \right) = \left( \begin{array} { c c } { { \sigma _ { x t } ^ { 2 } } } & { { 0 } } \\ { { 0 } } & { { \sigma _ { y t } ^ { 2 } } } \end{array} \right) ,
+$$
+
+其中， $\stackrel { \longrightarrow } { \rho } _ { \mathrm { t o t a l } }$ 为综合考虑两个作用元时，漫反射目标相对于光斑中心的距离偏差；T为转置运算符。
+
+根据 $E ( \rho ) = { \frac { E _ { \mathrm { 0 } } } { \pi { \rho _ { \mathrm { e } } } ^ { 2 } } } e ^ { - { \frac { \rho ^ { 2 } } { { \rho _ { \mathrm { e } } } ^ { 2 } } } }$ ，能够求出在两个随机作用源共同作用时，激光在传输至 $z$ 处的能量均值 $\stackrel { - } { \boldsymbol { { E } } }$ ：
+
+$$
+\overline { { E } } = \iint \frac { E _ { \mathrm { 0 } } } { \pi { \rho _ { \mathrm { e } } } ^ { 2 } } e ^ { - \frac { \rho _ { \mathrm { t o t a l } } ^ { 2 } } { \rho _ { \mathrm { e } } ^ { 2 } } g } g _ { \mathrm { t o t a l } } ( \vec { \rho } _ { \mathrm { t o t a l } } ; 0 , \sum _ { \mathrm { \mathrm { \scriptsize ~ t o t a l } } } ) \mathrm { d } x \mathrm { d } y
+$$
+
+$$
+= \frac { E _ { 0 } } { \pi \mid \sum _ { \mathrm { \scriptsize ~ t o t a l } } \left| \begin{array} { l } { \frac { 1 } { 2 } \sqrt { \left( \frac { { \rho _ { \mathrm { e } } } ^ { 2 } } { \sigma _ { x t } ^ { 2 } } \right) + 2 } \sqrt { \left( \frac { { \rho _ { \mathrm { e } } } ^ { 2 } } { \sigma _ { y t } ^ { 2 } } \right) + 2 } } \end{array} \right. } .
+$$
+
+假设激光脉冲能量为 $\phantom { + } E _ { 0 }$ ，激光发散角半角 $\theta _ { \mathrm { { e } } }$ ，漫反射目标距测站距离为 $R$ ，在距离为 $R$ 时的光斑面积为 $s _ { \ast }$ ，大气透过率 $T _ { \mathrm { e } }$ ，测距系统激光发射光路光学透过率为 $T _ { \mathrm { r } }$ ， $\boldsymbol { h }$ 为普朗克常量； $\upsilon$ 为光波频率； $\eta$ 为探测器的量子效率； $T _ { \mathrm { r } } ^ { \prime }$ 为接收光路的光学透过率； $\mathbf { \Omega } _ { a }$ 为大气衰减系数。被测目标为均匀漫反射体(反射光强度在 $2 \pi$ 立体角内各向同性），有效反射面为 $s$ ，反射率为 $\rho _ { \mathrm { r } }$ ，当 $S \ll S _ { \ast }$ 时，口径为$D$ 的望远镜接收光电子数 $n _ { \mathrm { s } }$ 可表示为
+
+$$
+ { n _ { \mathrm { s } } } = \frac {  { \overline { { E } } } S  { \rho _ { \mathrm { r } } } T _ { \mathrm { r } } T _ { \mathrm { r ^ { ' } } } T _ { \mathrm { e } } ^ { 2 } \eta  { \pi } \frac { D ^ { 2 } } { 4 } } { 2 \pi R ^ { 2 } h \upsilon } \ ,
+$$
+
+将 $\stackrel { - } { \boldsymbol { { \cal E } } }$ 代入可得
+
+$$
+n _ { \mathrm { s } } = \frac { E _ { \mathrm { 0 } } } { \pi \Big | \sum _ { \mathrm { \scriptsize ~ t o t a l } } \Big | ^ { \frac { 1 } { 2 } } \sqrt { \left( \frac { \rho _ { \mathrm { e } } ^ { 2 } } { \sigma _ { x t } ^ { 2 } } \right) + 2 } \sqrt { \left( \frac { \rho _ { \mathrm { e } } ^ { 2 } } { \sigma _ { y t } ^ { 2 } } \right) + 2 } } \frac { S \rho _ { \mathrm { r } } T _ { \mathrm { r } } T _ { \mathrm { r } } ^ { \prime } T _ { \mathrm { e } } ^ { 2 } \eta \pi \frac { D ^ { 2 } } { 4 } } { 2 \pi R ^ { 2 } h \upsilon } ,
+$$
+
+其中， $\rho _ { \mathrm { e } }$ 为光束传输距离为 $z$ 时的光斑半径，可表示为
+
+$$
+\rho _ { \mathrm { e } } = { \frac { D } { 2 } } + \theta _ { \mathrm { e } } R + \rho _ { \mathrm { a e } } \ ,
+$$
+
+$\rho _ { \mathrm { a e } }$ 为大气湍流引起的光束扩展的均值，假设大气湍流引起的光束扩展的均值为0，将其代入方程中可得空间碎片漫反射激光测距方程：
+
+$$
+n _ { \mathrm { s } } = \frac { E _ { \mathrm { 0 } } } { \pi \sqrt { \left( D / 2 + \theta _ { \mathrm { e } } R \right) ^ { 2 } + 2 \sigma _ { \mathrm { x } } ^ { 2 } } \sqrt { \left( D / 2 + \theta _ { \mathrm { e } } R \right) ^ { 2 } + 2 \sigma _ { \mathrm { y } } ^ { 2 } } } \frac { S \rho _ { \mathrm { r } } T _ { \mathrm { r } } T _ { \mathrm { e } } ^ { \prime } T _ { \mathrm { e } } ^ { 2 } \eta \pi \frac { D ^ { 2 } } { 4 } } { 2 \pi R ^ { 2 } h \nu } \ ,
+$$
+
+# 5数值模拟计算分析
+
+5.1望远镜跟踪精度对不同激光发散角测距时的回波强度影响图2 显示了在忽略大气湍流对光束的作用时，望远镜口径为 $1 . 0 5 \mathrm { m }$ ，目标距离为 $1 5 0 0 \mathrm { k m }$ ，激光发散角为 $1 ^ { \prime \prime }$ 时的回波能量分别与激光发散角为 $5 ^ { \prime \prime }$ 、 $1 0 ^ { \prime \prime }$ 时回波能量的比值随望远镜跟踪精度的关系。如图，当望远镜跟踪精度小于 $1 ^ { \prime \prime }$ 时，采用高倍率的激光发射扩束系统以减小激光发散角，对提高回波强度的作用非常明显。而随着望远镜跟踪性能的下降，减小激光发散角并不能提高望远镜接收的回波强度。
+
+![](images/0904f608742d86baae2cff14dda49e28c44050bef63ddeee7ea68d882780d27a.jpg)  
+图2激光发散角为 $1 ^ { \prime \prime }$ 、 $5 ^ { \prime \prime }$ 、 $1 0 ^ { \prime \prime }$ 时的回波能量比值随望远镜跟踪精度的关系
+
+在不同大气相干长度条件下，激光发散角为 $1 ^ { \prime \prime }$ 时，望远镜跟踪精度对回波强度的影响。图3显示了在激光发散角为 $1 ^ { \prime \prime }$ ，望远镜跟踪精度为 $1 ^ { \prime \prime }$ 与跟踪精度为 $5 ^ { \prime \prime }$ 、 $1 0 ^ { \prime \prime }$ 所接收的回波能量比值随大气相干长度的变化关系。由图，在不同跟踪精度下的回波能量比值随大气相干长度的增加而提高，在大气相干长度为 $1 \mathrm { c m }$ 时，跟踪精度为 $1 ^ { \prime \prime } .$ 与 $1 0 ^ { \prime \prime }$ 所接收的回波能量比值约为30，而当大气相干长度为 $1 0 \mathrm { c m }$ 时， $1 ^ { \prime \prime }$ 跟踪精度的回波强度比跟踪精度为 $1 0 ^ { \prime \prime }$ 时提高了近80倍。
+
+![](images/b2dccc91a7eb76c0006a5f0370462577279502d7a772d32c5ab6d0fed77e9b9a.jpg)  
+Fig.2Echo energy ratio variations as a function of tracking precision with a laser divergence angle of $1 ^ { \prime \prime }$ ， $5 ^ { \prime \prime }$ and $1 0 ^ { \prime \prime }$   
+图3望远镜跟踪精度为 $1 ^ { \prime \prime }$ 、 $5 ^ { \prime \prime }$ 、 $1 0 ^ { \prime \prime }$ 时的回波能量比值随大气相干长度的关系
+
+Fig.3Echo energy ratio variations as a function of atmospheric coherence length with tracking precision of $1 ^ { \prime \prime }$ ， $5 ^ { \prime \prime }$ and $1 0 ^ { \prime \prime }$
+
+5.2大气湍流强度对不同激光发散角测距时的回波强度影响图4显示了在忽略大气湍流作用的条件下，激光发散角为 $1 ^ { \prime \prime }$ 时的回波强度分别与发散角为 $5 ^ { \prime \prime }$ 、
+
+$1 0 ^ { \prime \prime }$ 时的回波强度比值随大气相干长度的变化。由图，在大气相干长度为 $1 \ \mathrm { c m }$ 时，激光发散角为 $1 ^ { \prime \prime }$ 时的回波强度与发散角为 $1 0 ^ { \prime \prime }$ 时的回波强度的比值约为10。随着大气相干长度的增加，比值也随之提高，在大气相干长度为 $1 0 \mathrm { c m }$ 时，二者比值约为55，而且随着大气相干长度的增加回波强度还有一定的提升空间。
+
+![](images/9141fad82a13b7a6ab6de0650f3f27a075f5ceba49eba5838c76e2b2c8e3f660.jpg)
+
+在不同望远镜跟踪精度的条件下，激光发散角为 $1 ^ { \prime \prime }$ 时，大气相干长度对回波强度的影响。图5显示了激光发散角为 $1 ^ { \prime \prime }$ 时，大气相干长度为 $2 0 \mathrm { c m }$ 的回波能量与相干长度分别为 $1 \mathrm { c m }$ 、 $5 \mathrm { c m }$ 和 $1 0 \mathrm { c m }$ 时，回波强度的比值随望远镜跟踪精度的关系。如图，在望远镜跟踪精度为 $1 ^ { \prime \prime }$ 时， $2 0 ~ \mathrm { c m }$ 与 $1 \ \mathrm { c m }$ 的大气相干长度所对应的回波强度比值为2.8，随着望远镜跟踪精度的降低，大气湍流强度的改善并不能有效提高回波强度，在同样的跟踪精度下，大气相干长度从 $5 ~ \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 分别提高到 $2 0 ~ \mathrm { c m }$ 后，回波强度分别提高了1.2和1.1倍。
+
+![](images/2f6e750c91b332f89679e0b5cc53a44ceae9d83e2a7913982fc0c13f9763e46f.jpg)  
+图4激光发散角为 $1 ^ { \prime \prime }$ 、 $5 ^ { \prime \prime }$ 、 $1 0 ^ { \prime \prime }$ 时的回波能量比值随大气相干长度的关系 Fig.4Echo energy ratio variations as a function of atmospheric coherence length with a laser divergence angle of $1 ^ { \prime \prime }$ ， $5 ^ { \prime \prime }$ and $1 0 ^ { \prime \prime }$   
+图5大气相干长度为 $1 \mathrm { c m }$ 、 $5 \mathrm { c m }$ 、 $1 0 \ \mathrm { c m }$ 、 $2 0 \mathrm { c m }$ 时回波强度的比值随望远镜跟踪精度的关系 Fig.5Echo energy ratio variations as a function of tracking precision with atmospheric coherence length of $1 \mathrm { c m }$ ， $5 \mathrm { c m }$ ， $1 0 \mathrm { { c m } }$ and $2 0 \mathrm { c m }$
+
+# 6总结
+
+激光测距系统的回波强度受激光发散角、望远镜跟踪精度与大气湍流强度共同作用的影响。对低轨的目标进行测距时，当站址处的大气相干长度不小于 $1 0 \ \mathrm { c m }$ 时，大气湍流造成的光斑抖动对测距系统探测性能的影响不明显；在保证望远镜跟踪精度的前提下，减少激光发散角能够大幅提高测距系统的探测性能，然而在激光器光束质量确定后，减少激光发散角需增加望远镜口径，提高大口径望远镜的跟踪精度对伺服控制系统及驱动系统提出更高要求。在现有的技术条件下，利用测距系统成像终端对目标进行闭环跟踪，通过实时控制高速压电摆镜以修正激光发射方向，采用这种方式来减小望远镜跟踪精度对测距系统性能的影响。
+
+# 参考文献：
+
+[1] 叶叔华，黄城.天文地球动力学［M］．山东：山东科学技术出版社，2000.  
+[2] Xiong Yaoheng，Feng Hesheng.Modification of laser ranging equation ［R]// Proceedings ofthe 13th International Laser Ranging Workshop.2002.  
+[3] Degnan JJ. Millimeter accuracy satelite laser ranging:a review ［J].Contributions of SpaceGeodesy to Geodynamics:Technology，1993：133-162.  
+[4] Yura H T. Short-term average optical-beam spread in a turbulent medium [J]. Journal of theOptical Society of America，1973，63(5） : 567-572.  
+[5] 范建兴，杨福民，陈启秀.卫星激光测距中的激光脉冲波形变化的理论分析及数值计算[J]．中国科学（A辑），2001，31(1)：63-69.  
+[6] 施雨，李耀武.概率论与数理统计应用［M］．西安：西安交通大学出版社，1997.
+
+# An Improvement of Laser Ranging Equation in Practical Use
+
+Zhai Dongsheng $^ { 1 , 2 }$ ， Tang Rufeng'， Li Chunxiao $^ { 1 , 2 }$ ， Xiong Yaoheng1 (1.Yunnan Observatories，Chinese Academy of sciences，Kunming 65oo11,China，Email；zdsxy@ ynao.ac.cn; 2.University of Chinese Academy of Sciences，Beijing1OoO49，China)
+
+Abstract:In this article a new laser-radar ranging equation is deduced.This equation takes into consideration the tracking jiterof a telescope and the beam jiter causedby atmosphere turbulence.Numerical simulation is applied to theequationon echo intensity；this paper also explores in detail factors such as laser divergence angle，tracking jitter of telescopes and beam jiter caused byatmosphere turbulence.Analyses indicate that both tracking jiter and beam jiter are crucial factors for the performance of a ranging system.
+
+Key words: Tracking jitter of telescopes；Beam jiter caused by the atmosphere turbulence；Laser ranging equation； Laser divergence angle

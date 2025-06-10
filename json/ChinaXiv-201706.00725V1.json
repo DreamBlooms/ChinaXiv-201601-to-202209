@@ -1,0 +1,560 @@
+[
+    {
+        "type": "text",
+        "text": "Investigation on the Forced Response of a Radial Turbine under Aerodynamic Excitations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MA Chaochen\\*, HUANG Zhi, QI Mingxu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "School of Mechanical Engineering, Beijing Institute of Technology, Beijing,10o081, China $\\copyright$ Science Press and Institute of Engineering Thermophysics, CAS and Springer-Verlag Berlin Heidelberg 2016 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rotor blades in a radial turbine with nozzle guide vanes typically experience harmonic aerodynamic excitations due to the rotor stator interaction.Dynamic stresses induced by the harmonic excitations can result in high cycle fatigue(HCF)of the blades.Areliable prediction method for forced response issue is essential to avoid the HCF problem.In this work,the forced response mechanisms were investigated based ona fluid structure interaction (FSI) method. Aerodynamic excitations were obtained by three-dimensional unsteady computational fluid dynamics (CFD) simulation with phase shifted periodic boundary conditions.The first two harmonic pressures were determined as the primary components of the excitation and applied to finite element (FE) model to conduct the computational structural dynamics (CSD) simulation.The computed results from the harmonic forced response analysis show good agreement with the predictions of Singh's advanced frequency evaluation (SAFE) diagram. Moreover, the mode superposition method used inFE simulation offers an eficient way to provide quantitative assessments of mode response levels and resonant strength. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: radial turbine,forced response,aerodynamic excitation,FSI, SAFE diagram ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "come the main concern for the reliabilities of radial turbines. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nowadays,turbocharger plays an important role to improve fuel economy in internal combustion engines.In order to improve operational range and performance efficiency of the turbocharger, nozzle guide vanes are often employed to control the flow of exhaust gas to the radial turbine.However,using of the stator vanes is inevitable accomplished with the harmonic aerodynamic excitations caused by the interaction between the stator vanes and rotorblades.The harmonic excitations can excite natural frequencies within the turbine rotor, resulting in resonance of the rotor blades.Dynamic stresses induced by the harmonic excitations can lead to HCF and eventually result in failure of part [1,2]. To ensure the operation safety of turbocharger, the forced response issue has be",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Avoiding resonance conditions is one of the most critical issues regarding bladed disk design. The most simple and common approach to prevent resonance excitations is the Campbell diagram criterion. However, this approach is too conservative for bladed disk system,which has modes with very close natural frequencies [3].A more effective criterion for bladed wheel design is represented by SAFE diagram.The importance of both frequency and shape matching conditions is explained in the book written by Bloch and Singh [4]. The SAFE diagram method was applied in more recent papers and its effectiveness has been demonstrated [5,6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The SAFE diagram method is a qualitative analysis approach; thus,it cannot provide information about re",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nomenclature ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/824c35e5067c9c8c7429a7e85d7a84c8bc7676537c4979e9d772e609d1323fd1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Am</td><td>Fourier coefficient</td><td>UL</td><td>flow condition at the lower boundary</td></tr><tr><td>[q]</td><td>damping matrix</td><td>Uu</td><td>flow condition at the upper boundary</td></tr><tr><td>dn</td><td>ND of the n-th harmonic pressure</td><td>VR</td><td>velocity of rotor (m/s)</td></tr><tr><td>{F}</td><td>harmonic load vector</td><td>{x}</td><td>nodal displacement vector</td></tr><tr><td>F1</td><td>real load component</td><td colspan=\"2\">Greek symbols</td></tr><tr><td>F</td><td>imaginary load component</td><td></td><td>phase angle of load (degree)</td></tr><tr><td>[K]</td><td>stiffness matrix</td><td>@</td><td>circular frequency of rotor (rad/s)</td></tr><tr><td>[M]</td><td>mass matrix</td><td>Ω</td><td>excitation frequency (Hz)</td></tr><tr><td>m, n</td><td>harmonic index</td><td>Ω'</td><td>fundamental frequency (Hz)</td></tr><tr><td>NB</td><td>number of rotor blade</td><td colspan=\"2\">Abbreviations</td></tr><tr><td>Nv</td><td>number of stator vane</td><td>CFD</td><td>Computational Fluid Dynamics</td></tr><tr><td>P1.0</td><td>time averaged value of pressure (Pa)</td><td>CSD</td><td>Computational Structural Dynamics</td></tr><tr><td>P1n</td><td>real pressure component of the n-th harmonic</td><td>EO</td><td>Engine Order</td></tr><tr><td>P2.n</td><td>imaginary pressure component of the n-th harmonic</td><td>FE</td><td>Finite Element</td></tr><tr><td>PR</td><td>pitch length of rotor (m)</td><td>FSI</td><td>Fluid Structure Interaction</td></tr><tr><td>Ps</td><td>pitch length of stator (m)</td><td>HCF</td><td>High Cycle Fatigue</td></tr><tr><td>t</td><td>time (s)</td><td>ND</td><td>Nodal Diameter</td></tr><tr><td>T</td><td>period of one pressure fluctuation cycle (s)</td><td>SAFE</td><td>Singh's Advanced Frequency Evaluation diagram</td></tr><tr><td>△t</td><td>time interval (s)</td><td>VPF</td><td>Vane Passing Frequency</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "sonant strength.To evaluate the dynamic stresses or strains in bladed disk system,utilizing experimental test method is a credible option.However，it has distinct drawbacks in terms of test preparation time and cost to conducting an experiment (e.g., by applying strain gauges orusing tip-timing methods).The FSI method,an interdisciplinary analytical approach which coupled CFD and CSD analysis,has been developed to speed design cycles.Besides the time and cost advantages, transient CFD simulations provide opportunity to investigate the character of aerodynamic excitations causing resonance. Moreover, the stresses and vibration amplitudes of structure can be derived from CSD analysis.The FSI method has been presented and validated in several research works [7-10]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To achieve improvements of resonance prediction quality and avoid HCF problems early in the design pro cess,furtherknowledge of the underlying forced response mechanisms that govern HCF failures is still desired.In this paper, a weakly coupled FSI analysis was conducted to investigate the forced response behavior of radial turbine.Aerodynamic excitations were obtained by a threedimensional unsteady CFD simulation.Harmonic pressure data including the frequency,amplitude and phase angle information was transferred to the FE model to perform structural dynamics analysis.The results were analyzed and compared with the predictions of SAFE diagram. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Radial Turbine Description ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The radial turbine under investigation was designed to achieve an expansion ratio of 1.75 at rotational speed of $6 3 2 0 0 \\mathrm { \\ r / m i n }$ . The main geometrical parameters of the radial turbine are summarized in Table 1.The material used for the turbine rotor is Fe-Ni-Cr alloy, the density is $7 8 6 0 ~ \\mathrm { k g / m } ^ { 3 }$ ,the Poisson's ratio is O.3, the Young's modulus is $1 . 1 { \\times } 1 0 ^ { 5 } \\mathrm { M P a }$ , and the yield strength is $7 2 6 \\mathrm { M P a }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/cb7d91483a685425549f2510387bc9c0f14422ad1272c69aad5d3a46b5b6aeda.jpg",
+        "table_caption": [
+            "Table1 Geometrical parameters of radial turbine "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Impeller blade number</td><td>13</td></tr><tr><td>Stator vane number</td><td>15</td></tr><tr><td>Impeller inlet diameter (mm)</td><td>96.5</td></tr><tr><td>Impeller tip width (mm)</td><td>14</td></tr><tr><td>Impeller exit hub diameter (mm)</td><td>21</td></tr><tr><td>Impeller exit shroud diameter (mm)</td><td>77</td></tr><tr><td>Inner diameter of nozzle (mm)</td><td>100</td></tr><tr><td>Outer diameter of nozzle (mm)</td><td>136</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CFDModel ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, the unsteady flow field information was obtained by transient CFD simulation，which was implemented in a time-implicit Navier-Stokes equation solver in combination with shear stress transport turbu lence model. The radial turbine has prime number of blades.To get accurate results,it need to model all the turbine passages to reduce the pitch scale ratio to unity. This would be a very expensive calculation. For this reason, the rotational phase shifted periodic boundaries were used to enable only a small section of the full geometry to be modeled.The phase-shifted periodic condition is based on the principle that the flow condition at the upper boundary of the stator $U _ { U }$ at a certain time $t _ { 0 } \\mathrm { + } \\Delta t$ is the same as at the lower boundary of the stator $U _ { L }$ at time instant $t _ { 0 }$ [11].The periodicity of the boundary condition in phase shift is illustrated in Fig.1 and can be expressed in the following equation [12]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU _ { L } \\left( t _ { 0 } \\right) = U _ { U } \\left( t _ { 0 } + \\Delta t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The time interval $\\Delta t$ that the lower boundary lags the upper boundary is defined by $( P _ { R } { - } P _ { S } ) / V _ { R }$ .Here $P _ { R }$ and $P _ { S }$ are the pitch lengths of the rotor and stator, respectively, and $V _ { R }$ is the velocity of the rotor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/96ecd3f1bfd118a7228a7a0affd23ab58e2e96e63d32e8e86c69718af67695fc.jpg",
+        "img_caption": [
+            "Fig.1 Phase shifted periodic boundary condition "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the phase shifted periodic boundary condition,the Fourier transformation method was applied for efficient calculation of the unsteady aerodynamic flow. The Fourier transformation method makes use of temporal Fourier series decomposition (Equation 2） at the fundamental frequency $\\omega$ to avoid storing the flow signal for a full time period on all pitch-wise boundaries,similar to the method proposed by He L[13]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf \\left( t \\right) = \\sum _ { m = - M } ^ { M } A _ { m } e ^ { - j \\left( m \\omega t \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $m$ is the harmonic index, $\\omega$ is circular frequency of the turbine rotor, $A _ { m }$ is the Fourier coefficients. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Only the Fourier coefficients $A _ { m }$ need to be stored to reconstruct the flow solution at an arbitrary time and pitch-wise location. The Fourier transformation method uses a double-passages model, where the Fourier coefficients are sampled and collected at the middle interface between the two adjacent passages. The fluid mesh used for the double-passages approach is shown in Fig. 2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CSD Model ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Todetermine vibration characteristics of elastic struc",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "tures,a modal analysis can be performed first.The linear equation of motion for free vibration is written as: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ M ] \\{ \\ddot { x } \\} + [ C ] \\{ \\dot { x } \\} + [ K ] \\{ x \\} = \\{ 0 \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $[ M ]$ is structural mass matrix, $[ C ]$ is structural damping matrix, $[ K ]$ is structural stiffness matrix, $\\{ x \\}$ is nodal displacement vector. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The response of the structure under harmonic loads is obtained by solving the general equation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n[ M ] \\{ \\ddot { x } \\} + [ C ] \\{ \\dot { x } \\} + [ K ] \\{ x \\} = \\{ F \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $\\{ F \\}$ is applied harmonic load vector. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By using Euler's identities,the harmonic load applied on the structure with different phases can be represented compactly with complex notation: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\{ F \\} = \\{ F _ { m } e ^ { j \\psi } \\} e ^ { i \\Omega t } = \\{ F _ { 1 } + j F _ { 2 } \\} e ^ { i \\Omega t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where $F _ { m }$ is magnitude of the load, $\\psi$ is phase angle of the load, $\\Omega$ is excitation frequency, $F _ { 1 }$ is real load component and $F _ { 2 }$ is imaginary load component. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the assumption that the structure vibrates with harmonic motion, the governing equation (3) can be converted to an eigenvalue equation. The Block Lanczos method was applied for searching eigenvalues (natural frequencies) and eigenvectors (mode shapes) of the equation.Then the mode superposition method was employed to solve the general equation (4) in modal coordinates. The dynamic response of a structure to harmonic excitation can be characterized by using the eigenvalues and eigenvectors obtained from the modal analysis.In mode superposition method the nodal displacement is calculated from a superposition of eigenvector [14]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ef037f29eaf0fd6050e344e96d013a435a5605371178f13756ff8fdc1205211.jpg",
+        "img_caption": [
+            "Fig.2Double-passages fluid mesh "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For structures with cyclic symmetric nature, structural dynamics analysis can be performed for the entire structure by modelling only one sector of the structure. The basic sector is duplicated in the dynamic analysis to satisfy the cyclic constraint relationships and to obtain nodal displacements.This technique was introduced by Dickens [15]. Fig.3 shows the FE mesh of the basic radial turbine rotor sector used in this study. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/78c8a617ad426a21a76b8ac03e556d1423b8d27d7d7ad7a61581d723be6bc48b.jpg",
+        "img_caption": [
+            "Fig.3FE mesh of the basic rotor sector. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UnsteadyAerodynamicLoads ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The mechanism responsible for the unsteadiness in the flow field was studied by transient CFD simulations.As regards this radial turbine,a rotor blade interacts 15 times with the stator vanes after a complete revolution of the impeller; thus,a 15th engine order (EO) excitation can be expected.EO represents the number of pulses per-revolution.A representative position at mid-span was chosen to investigate the unsteady behavior of flow within the turbine passages. Fig. 4 shows the entropy contours of flow field at four time points covering the time interval of rotor blade passing. Here $T$ is the time a blade needed to cross one pitch length of stator. The stator wake impinging on the blade surfaces is a significant source of the periodic pressure fluctuation in the rotor blade passage. It can be observed that the stator wake is chopped into short segment by the moving rotor blade.The chopped-off wake segment migrates toward the suction side of the blade and decays downstream. After being cut by the stator vane, the chopped wake segment drifts across the blade passage due to the negative jet effect. The chopped wake segment acts as a negative jet because the tangential velocity component of the wake flow is higher than the mean flow in reference frame of rotor [16]. The chopped wake segment migrates with direction from the suction side to the pressure side and subsequently mixes with the vortex flow near leading edge of the blade. The unsteady velocity field induced by the stator wakes strongly affects the pressure field of blade passages. The contours of fluctuating pressures at the same four time points are shown in Fig. 5.Another mechanism which significantly influence the pressure field of blade passages is the potential field interaction. The potential fields of isolated stator row and blade row are steady in their respective reference frame. Since the blade row has a relative motion with reference to the stator row, the spatially non-uniform potential field of stator row can also cause the pressure fluctuation in the blade passages.In order to study the variation of the pressures from one time to the next, three monitoring points (P1, P2 and P3,as shown in Fig.5）were selected along the blade chord direction. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b6638bb52a6b98db909405d22b506af9691a805f04f11b1052df14a63141906.jpg",
+        "img_caption": [
+            "Fig.4Entropy contours at mid-span "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/30834470bb16e0331d7a018c473655d75fec45c153608254f200714ccd32727b.jpg",
+        "img_caption": [
+            "Fig.5Pressure fluctuation and the positon of monitoring points "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 shows the curves of the pressures changed with time at the monitoring points.It can be found that the variation curves exhibit periodic changing characteristics. These variation pressures have the same period, but they are out of phase with each other and have different amplitude values. Monitoring point P1 located near the blade leading edge has the highest averaged pressure, followed by the monitoring point P2， the monitoring point P3 has the minimum averaged pressure.The averaged pressure decreases along the blade passages because the gas expands adiabatically and the pressure energy is transferred to kinetic energy. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The pressure variations at the fluid mesh nodes of blade surfaces are periodic functions of time $t$ ；therefore, these functions can be expanded in Fourier series.By using complex notation to implicitly consider both amplitudes and phase angles of the pressure loads,the Fourier series of pressure functions at blade surface nodes can be represented as: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( t ) = P _ { 1 , 0 } + \\sum _ { n = 1 } ^ { N } \\left( \\left( P _ { 1 , n } + j P _ { 2 , n } \\right) e ^ { i n \\Omega ^ { \\prime } t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/980d031b9bf90e4e5d78389af856814b64e693ae7f19715b1017c9327d073eb7.jpg",
+        "img_caption": [
+            "Fig.6Variation of the pressures "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where $n$ is the harmonic index, $P _ { 1 , n }$ and $P _ { 2 , n }$ is the real and imaginary pressure components of the $n$ -th harmonic, $\\Omega ^ { \\prime }$ is the fundamental frequency, and $P _ { 1 , 0 }$ is the time averaged value. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the period of one pressure fluctuation cycle is the time a blade needed to cross one pitch length of stator. the fundamental frequency of Fouries series (6) is identified equal to the vane passing frequency (VPF). VPF can be calculated by the circular frequency of turbine rotor times the number of stator vanes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To perform CSD analysis subsequently, the pressure data at fluid mesh nodes was transferred to solid finite elements by proximal interpolation algorithm.The distributions of the first two harmonic pressures at blade surface elements are shown in Fig.7 and Fig.8,respec tively.According to the Fourier decomposition,the first harmonic pressures ( $\\langle P _ { 1 , 1 }$ and $P _ { 2 , 1 }$ at 15th EO） and the second harmonic pressures $\\mathcal { ( P } _ { 1 , 2 }$ and $P _ { 2 , 2 }$ at 30th EO) have much larger amplitudes than the high-order $( n \\geq 3 )$ （20 harmonic pressures；thus,the first two harmonic pressures were determined as the primary components of the aerodynamic excitation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Modal Analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The eigenvalues can be changed by the stress stiffening because of the fact that the stress state would influence the values of the stiffness matrix. Therefore a prestressed modal analysis was conducted on the turbine rotor considering the initial stress state,which included the centrifugal stress caused by rotor spinning and the stress caused by time averaged aerodynamic pressure. Fig.9 shows the equivalent stress distribution of the rotor under these two static loads.The maximum static stress occurs at roots of the blades and shows compliance with strength requirements. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mode shapes of cyclic symmetry structures are characterized by specifying the number of nodal diameters (ND).The SAFE diagram can be used to determine the critical frequency and corresponding ND.The basic idea behind SAFE diagram is that the resonance happens when the frequency and periodic shape of harmonic excitation match the natural frequency and mode shape of the structure.The shape matching conditions have been analytically derived in reference [3]. The matching number of ND for the $n$ -th harmonic excitation can be calculated by the following equation: ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cc4df9e8dae1da944380ec2df97cef330d3fcaed63f4e110ce4d6d5e4e8fac3.jpg",
+        "img_caption": [
+            "Fig.7Distribution of the first harmonic pressures "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb68eafeaa3c66298b38df6adaebe3f47be78af385b275c7c909dacbe0d5da8c.jpg",
+        "img_caption": [
+            "Fig.8Distribution of the second harmonic pressures "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff65f8cbdf0dc67004294ad656bf22c88b675a7c21134ae40aa73a7e32cff114.jpg",
+        "img_caption": [
+            "Fig.9Static stress distribution "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { n } = \\left| n N _ { V } - N _ { B } \\Big \\lfloor \\left( n N _ { V } + \\Big \\lfloor N _ { B } / 2 \\Big \\rfloor \\right) \\Big \\rfloor / N _ { B } \\right|\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Where $d _ { n }$ is ND of the $n$ -th harmonic excitation, $N _ { B }$ is the number of rotor blade, $N _ { V }$ is the number of stator vane, ${ \\ \" } \\bigcup \\sp { \\prime \\prime }$ is the notation of the floor function which find the integer part of real number. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ND of the first two harmonic pressures was calculated by using equation 7. The high-order harmonic pressures were neglected in this study because the amplitude is small.Regarding the radial turbine with $N _ { B } =$ 13 and $N _ { V } = 1 5$ ，the results $d _ { 1 } = 2$ and $d _ { 2 } = 4$ can be obtained. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to show a clear view of the matching conditions,a SAFE diagram(as shown in Fig.1O) was constructed, which comprises the information of natural frequency, ND and the first two order harmonic pressures. The solid points in the SAFE diagram represent the natural modes arranged by frequency and ND.Because the maximum number of ND is not larger than half of the blade number,this turbine rotor with 13 blades has up to 6 NDs. The excitation line crossing frequency of each EO excitation was also plotted with dashed line. Since the CFD analysis was conducted for the design speed condition, the turbine rotor running at $6 3 2 0 0 ~ \\mathrm { r / m i n }$ has the first harmonic pressure occurring at $1 5 8 0 0 ~ \\mathrm { H z }$ and the corresponding EO is 15.The second harmonic pressure occurs at $3 1 6 0 0 \\mathrm { H z }$ ,and the corresponding EO is 30. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The SAFE diagram shows that there is no full resonance excited since no frequency is coincident with the first harmonic pressure or the second harmonic pressure. However,mode 6 and mode 7of $2 \\exp$ modes have frequency value close to the first harmonic pressure and the shape matching is verified.Thus the excitations of these two modes still can be expected. Similarly, the mode 15 and mode 16 of $4 \\mathrm { N D }$ modes can also be verified as the critical modes for they have the same shape and close frequency value with the second harmonic pressure. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.11 shows the two critical $2 ~ \\mathrm { N D }$ modes obtained from modal analysis.The appearances of the turbine rotor all contain areas of zero displacement where the nodal lines cross the entire disk.Although these two modes can be classified as $2 ~ \\mathrm { N D }$ modes and have the same mode shape, the deformation forms of rotor blades are different. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d98283038f4b46de0c827ea42ff7cfc0882e0ab4730fe3896daba9ebf27fa713.jpg",
+        "img_caption": [
+            "Fig.10SAFE diagram "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/95b2d702f9771cc4e5fcd93c8d96451da46c4485ae01829285d794c5a7267b36.jpg",
+        "img_caption": [
+            "Fig.11 Critical modes "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The phenomenon that local regions of the impeller exhibit dominant mode shapes and frequencies nearly identicalto thatofa blade fixedalonehasdescribed inthe reference [17]. Thus a particular impeller mode is considered to be the modal coupling of the impeller back wall and blades. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Harmonic Forced Response Analysis ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To have an insight into the dynamic behavior of the rotor blade system,a harmonic response analysis was carried out by utilizing the mode superposition method, which provides an effective solution for multi degree-offreedom system dynamics problems.In mode superposition method, total response of a system can be obtained by summation of the mode shapes,each multiplied by a modal coefficients.The values of modal coefficients represent the response amplitudes applied to each mode shape. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The aerodynamic loads obtained from the unsteady CFD results were applied as boundary conditions of the finite element solutions.According to reference [7],aerodynamic damping was ignored because of the small blade size.The modal coefficient histogram of the modes excited by the first harmonic pressure was plotted in Fig.12 The plot was limited only to display the modal coefficients of $2 ~ \\mathrm { N D }$ modes because only these modes have response to the first harmonic pressure.The results show that mode 6 and mode 7 are significantly excited,which is consistent with the prediction of SAFE diagram. Furthermore, the influence of each mode on the modal response can be evaluated.Although mode 6 and mode 7 play more prominent roles in the overall response，the lower order modes are also responsive to the first harmonic pressure.However, for modes with high natural frequency, the responses are small.For example,mode 2 and mode 3 are excited considerably but there are less responses for the mode order larger than 12. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.13 shows the modal coefficient histogram of 4 ND modes excited by the second harmonic pressure. It is found that the response behavior has the similar character compared with that of the first harmonic pressure. Only the $4 ~ \\mathrm { N D }$ modes have response to the second harmonic pressure due to the shape matching conditions.Likewise, mode 15 and mode 16 are significantly excited, corresponding to the expectation of SAFE diagram. In general, the contribution of the modes which have low frequency or close frequency value with the excitation are more pronounced than the others. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The spatial distribution of the harmonic pressures is another key factor affecting the response of the modes. The effect is reflected in that some modes (e.g., mode 4, mode 7 and mode 11 in Fig.13)have relatively small response to the excitation.As mentioned above, the blade deformation form of a particular mode is different from others;therefore,the distribution of the pressure loads on blade surfaces should be considered.In most cases,it is hard to estimate the response level by physical intuition The mode superposition method provides a useful approach to estimate which modes will be excited effectively by the spatial distribution of the harmonic pressures. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/917abe282d2504cca5545a92fafe60900eaf2597b41532fce7fafb040045e8fa.jpg",
+        "img_caption": [
+            "Fig.12Modal coefficients of2 ND Modes "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cc5952c9941de7404004c545bbe021b01e0c45237c932ed4302eac5d299405e.jpg",
+        "img_caption": [
+            "Fig.13Modal coefficients of 4 ND Modes "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although the SAFE diagram is able to indicate the critical modes that encounter forced response,it provides no information about the resonant strength of structure. The application of mode superposition method in finite element analysis not only can judge whether the resonance conditions are acceptable,but also obtain the results of resonant amplitudes and dynamic stresses in detail. The contour of dynamic stress induced by the first harmonic pressure is shown in Fig. 14.It can be seen that the dynamic stress distribution is in a pattern with $2 \\mathrm { N D s }$ presenting on the disk because the resonance is contributed by the excited $2 ~ \\mathrm { N D }$ modes,and the maximum stress is located on the leading edges of the rotor blades. Fig.15 shows the contour of dynamic stress induced by the second harmonic pressure. The dynamic stress distribution is in a pattern with 4 NDs presenting on the disk and the maximum stress is also located on the leading edges of the rotor blades.The dynamic stress induced by the first harmonic pressure is six times larger than that by the second harmonic pressure,which could be considered as the major alternating stress on the rotor. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9e3d678ab946e06a6b3b5adf940e2213b85dec789145a47108fd7fbaf219f32.jpg",
+        "img_caption": [
+            "Fig.14 Dynamic stress distribution under the first harmonic pressure "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c069dbd10e1ef3070362e8e82ec6d2261abca679f8578da0ce86437450f22ce5.jpg",
+        "img_caption": [
+            "Fig.15Dynamic stress distribution under the second harmonic pressure "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A FSI method adapted for the forced response analysis ofbladed disk subjected to excitations has been applied to a radial turbine.The major goal of the approach is to quantify the forced response of the turbine rotor under aerodynamic excitations caused by the rotor stator interaction.From the analysis results, following conclusions can be derived. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The periodic pressure fluctuations in the rotor blade passages are arising from the wake interaction and the potential field interaction.The periodic functions of surface pressure can be expanded in Fourier series with the fundamental frequency equal to VPF. According to the Fourier decomposition, the first two harmonic pressures were determined as the primary components of the excitation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A SAFE diagram was constructed to predict critical modesof the turbine rotor.Mode6 andmode7of $2 \\mathrm { N D }$ modesareverifiedasthe criticalmodes because the frequency values are close to the first harmonic pressure and the shape matching is verified.And mode 15 and mode16of $4 \\mathrm { N D }$ modes are likewise verified as the critical modes. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The computed results from the harmonic forced re sponse analysis show good agreement with the prediction of SAFE diagram.The critical modes are significantly excited and play a more prominent role in the overall response.Quantitative assessment of the mode response levels was obtained.On the whole, the contribution of the modes which have low frequency or close frequency value with the excitation are more pronounced than the others. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It is found that the maximum dynamic stresses induced by the first two harmonic pressures both are located on the leading edges of the rotor blades. The dynamic stress induced by the first harmonic pressure is considered as the major alternating stress.These stress data will be used to perform fatigue and durability analy sis in the next stage of research work. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China (Grant No.51276018). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Janicki G, Pezouvanis A,Mason B,et al. Turbine Blade Vibration Measurement Methods for Turbochargers[J]. American Journal of Sensor Technology,2014,2(2): 13-19.   \n[2]Heuer T,Gugau M, Klein A,et al. An Analytical Approach to Support High Cycle Fatigue Validation for Turbocharger Turbine Stages[C].Berlin: ASME Turbo Expo 2008,No.GT2008-50764.   \n[3]Bertini L,Neri P, Santus C,et al. Analytical Investigation of the SAFE Diagram for Bladed Wheels,Numerical and Experimental Validation[J]. Journal of Sound and Vibration,2014,333(19): 4771-4788.   \n[4] Bloch HP, Singh M. Steam Turbines:Design,Application,and Re-Rating[M].New York:McGraw Hill Professional, 2008.   \n[5]Neri P, Peeters B. Non-Harmonic Fourier Analysis for Bladed Wheels Damage Detection[J]. Journal of Sound and Vibration, 2015,356:181-194.   \n[6]Bertini L,Monelli B,Neri P, et al. Robot Assisted Modal Analysis on a Stationary Bladed Wheel[C]. Copenhagen: 12th Biennial Conference on Engineering Systems Design and Analysis,2014,No.ESDA2014-20636. [7]Liu Y, Yang C,Ma C,et al.Forced Responses on a Radial Turbine with Nozzle Guide Vanes[J].Journal of Thermal Science,2014,23(2): 138-144. [8]Schwitzke M, Schulz A, Bauer H J. Prediction of HighFrequency Blade Vibration Amplitudes in a Radial Inflow Turbine with Nozzle Guide Vanes[C]. San Antonio: ASME Turbo Expo 2013,No.GT2013-94761. [9]Hu L,Sun H,Yi J,et al. Investigation of Nozzle Clearance Effects on a Radial Turbine:Aerodynamic Performance and Forced Response[C]. Detroit: SAE 2013 World Congress,No.2013-01-0918.   \n[10]Kulkarni A,LaRue G. Vibratory Response Characterization of a Radial Turbine Wheel for Automotive Turbocharger Application[C].Berlin:ASME Turbo Expo 2008, No.GT2008-51355.   \n[11]Erdos JI,Alzner E,McNally W. Numerical Solution of Periodic Transonic Flow Through a Fan Stage[J].AIAA Journal,1977,15(11): 1559-1568.   \n[12]Biesinger T,Cornelius C,Rube C, et.al. Unsteady CFD Methods in a Commercial Solver for Turbomachinery Applications[C]. Glasgow:ASME Turbo Expo 2010, No. GT2010-22762.   \n[13]He L. Fourier Methods for Turbomachinery Applications [J].Progress in Aerospace Sciences,2010,46(8): 329-341.   \n[14]Bathe K J. Finite Element Procedures in Engineering Analysis[M]. Upper Saddle River: Prentice-Hall,1982.   \n[15]John M. Dickens. Numerical Methods for Dynamic Substructure Analysis[D]. Berkeley: University of California, 1980.   \n[16]Sanders A J, Papalia J,Fleter S.Multi-blade Row Interactions in a Transonic Axial Compressor:Part I-Stator Particle Image Velocimetry (PIV) Investigation[J]. Journal of Turbomachinery,2002,124(1):10-18.   \n[17]Snyder L E,Burns D W. Forced Vibration and Flutter Design Methodology[M]// Platzer M F,Carta F O. AGARD Manual on Aeroelasticity in Axial Flow Turbomachinery: Volume 2. Essex: Specialised Printing Services Limited,1987. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

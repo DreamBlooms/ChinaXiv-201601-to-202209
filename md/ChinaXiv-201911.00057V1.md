@@ -1,0 +1,199 @@
+# 潜在蒸散发估算的简化方法及其应用
+
+张颖}²，郝兴明'，花顶1²，孙海涛'²，李玉朋1,2（1．中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室,新疆 乌鲁木齐830011;2．中国科学院大学,北京100049)
+
+摘要：潜在蒸散发在区域水量平衡、干旱程度评价、农作物需水量等方面的研究中具有重要的作用。然而,潜在蒸散发的空间化处理一直以来都是相关研究面临的一个挑战。基于新疆地区1960—2017年66个气象站的观测数据,通过一种简单的参数方程,实现了潜在蒸散发( $\cdot E T _ { 0 }$ )的空间化处理。研究结果表明： $\textcircled{1}$ 简化参数方程中的2个重要参数 $^ { a , c }$ 的空间分布呈现一定的规律，参数 $\mathbf { \alpha } _ { a }$ 在空间上呈现东南高，西北低的特点；参数 $\mid c \mid$ 则随海拔的增加而增大。 $\textcircled{2}$ 简化参数方程与Penman-Monteith方法相比,拟合结果在日、月和季节尺度上的 $R ^ { 2 }$ 值均大于0.90,且 $R ^ { 2 }$ 值随时间尺度的增加而增大。 $\textcircled{3}$ 将简化参数方程的拟合结果与CRU数据和MOD16A2数据进行对比发现：简化参数方程与Penman-Monteith方法拟合的 $\textstyle R ^ { 2 }$ 值较高，拟合效果和偏差指标表现更佳,而CRU、MOD16A2数据拟合的$R ^ { 2 }$ 值较低。简化参数方程所获得的潜在蒸散发精度高且空间分辨率更高( $5 0 0 \mathrm { ~ m } \times 5 0 0 \mathrm { ~ m }$ ),是一种适用于新疆地区潜在蒸散发估算的简便有效的方法。
+
+关键词：潜在蒸散发( $E T _ { 0 }$ )；参数方程；Penman-Monteith公式；空间插值
+
+潜在蒸散发是指具备充分土壤水分条件下垫面的全部蒸发量(1]。它是区域水分循环和能量平衡的重要环节，对地区干旱程度评价、农业灌溉管理、水文模型建立、气候变化影响等方面的研究具有重要意义[2-5]。潜在蒸散发也被称作参考作物蒸散发，用 $E T _ { 0 }$ 表示。 $E T _ { 0 }$ 的计算方法较多，但认可度高且常用的方法为Penman-Monteith公式（PM公式）,它是联合国粮农组织计算潜在蒸散发的首选公式[7]。PM公式基于物理常量来计算 $E T _ { 0 }$ ,需要测量某地区的众多气候要素，包括气温、净辐射、日照时数、风速、空气相对湿度[7]。PM公式计算的${ E T } _ { 0 }$ 常常作为与其他模型结果比较的基准[8-10）。但是，由于PM公式的计算需要较多气象观测数据，因此，在一些缺少资料的地区应用就受到了极大的限制[1]。针对这种情况，一些替代性公式开始出现。这些公式可概括为2种类型，一是基于温度的计算方法[12-13]；二是基于温度和辐射的计算方法[14-15]前者使用气温数据计算，后者则是使用气温和总辐射计算 $E T _ { 0 }$ 值。然而，由于这些计算方法发展于特定的气候条件和地区，其模拟结果会因不同地区的气候条件而产生偏差，因此，更多的研究开始针对本地 $E T _ { 0 }$ 模型的校准工作。Allen 等[16]首次将这类模型用于当地 $E T _ { 0 }$ 估算,他们利用当地关于风速的函数校准并验证了Blaney-Criddle模型对彭曼数据的有效性，并且用日蒸渗仪测量了首蓿的蒸散量。类似的模型还有 Blaney-Criddle 模型[13）、Priestley-Tay-lor 模型[14]、Thornthwaite 模型[17]和 Hargreaves 参数方程[18]。近年来,经PM公式改进的三参数和两参数模型(8,11,19]因其计算方式简便,数据容易获取,故被广泛应用于气象站点数据不完善或气象数据获取难的地区的 $E T _ { 0 }$ 估算。
+
+除了模型模拟和校准 $E T _ { 0 }$ 数据，潜在蒸散发空间数据产品,例如GLDAS[20] $\mathrm { C R U } ^ { [ 2 1 ] }$ 、MOD16A2[22]等是目前使用较多的可靠空间数据集。但由于这些数据产品空间分辨率和时间分辨率较低(23],一定程度上限制了它们的广泛应用。针对此，有研究利用简化参数模型，通过实现温度和总辐射空间化，进而对 $E T _ { 0 }$ 进行空间插值运算，得到了更高分辨率的潜在蒸散发的空间化产品(4)
+
+本研究旨在利用简化参数方程进行新疆地区${ E T } _ { 0 }$ 的计算与空间插值，并通过与PM公式计算结果的对比，评价简化参数方程在站点尺度上的估算精度。利用决定系数( $R ^ { 2 }$ ）、平均绝对误差（MAE）、相对偏差(BIAS)等指标评估基于简化参数方程的$E T _ { 0 }$ 空间数据与CRU和MOD16A2数据产品的拟合精度与偏差，评估简化参数方程在新疆地区的适用性。
+
+# 1数据来源与研究方法
+
+# 1.1 数据来源
+
+本研究采用新疆地区66个气象站点（图1）所记录的每日平均气压、气温、相对湿度、风向风速和日照时数等数据。数据来源于中国气象数据共享网(http://data.cma.cn）。新疆地区的潜在蒸散发空间数据分别来自时序为1961—2014年的CRUTS3.2月尺度 $E T _ { 0 }$ 数据(http://data.ceda.ac.uk/badc/cru/data/cru_ts/cru_ts_3.23/data/)和 MOD16A2 提供的2000—2014年全球 $E T _ { 0 }$ 月尺度数据（http://files.ntsg.umt.edu/data/NTSG_Products/MOD16/MOD16A2_MONTHLY.MERRA_GMAO_1kmALB/
+
+GEOTIFF_0.5degree/），它们的空间分辨率均为$0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 。
+
+# 1.2 研究方法
+
+1.2.1简化参数方程及拟合效果评估方法在气象要素缺少的地区，PM公式的应用受到限制。针对此,有研究者提出仅依赖于温度和总辐射计算$E T _ { 0 }$ 的新方法[19]。简化参数方程[以下简称参数方程,公式(1)」与经典 PM公式有一定关系，其中$a R _ { a }$ 代表PM公式中辐射项,表示输入辐射与输出辐射的差值。 $( 1 - c T )$ 是PM公式中分母项的近似值[19]。参数方程公式如下：
+
+$$
+P E T = { \frac { a R _ { a } } { 1 - c T } }
+$$
+
+式中： $P E T$ 指参数方程计算的潜在蒸散发值； $T$ 指该站点的每日平均气温 $( \operatorname { \mathcal { C } } ) _ { : } R _ { a }$ 是指理想大气晴天下各站点每日大气上界的总辐射量 $( \mathrm { M J } \cdot \mathrm { m } ^ { - 2 } \cdot \mathrm { d } ^ { - 1 } )$ ，与当地纬度和太阳高度角有关，用公式（2）计算得到。
+
+$$
+R _ { a } = { \frac { 2 4 ( 6 0 ) } { \pi } } G _ { S C } d _ { r } \big [ \omega _ { s } \mathrm { s i n } ( \varphi ) \mathrm { s i n } ( \delta ) + \mathrm { c o s } ( \varphi )
+$$
+
+$$
+\cos ( \delta ) \sin ( \omega _ { s } ) \big ]
+$$
+
+![](images/ead577c2639f8f625045e5610da0410d8b0b957c8a8df650e6a9dc36d1429db7.jpg)  
+图1新疆地区66个站点空间分布示意图  
+Fig.1Spatial distribution of 66 meteorological stations in Xinjiang
+
+式中： $G _ { s c }$ 是太阳常数等于 $8 2 \mathrm { ~ k J ~ } \cdot \mathrm { ~ m ~ } ^ { - 2 } ; d$ $d _ { r }$ 是日地平均距离的倒数; $\omega _ { s }$ 为当地太阳高度角; $\varphi$ 是地理纬度； $\delta$ 为太阳赤纬角，以上3个变量单位为弧度(rad)， $d _ { r }$ 和 $\delta$ 由日序数计算得到，而 $\omega _ { s }$ 由地理纬度和日序数计算得出[6], ${ \mathbf { } } R _ { a }$ 的计算在 MATLAB 软件中实现。参数 $a \left( \mathrm { \text k g { \cdot } \ k J ^ { - 1 } } \right.$ )和参数 $c ( { } ^ { \circ } \mathrm { C } ^ { - 1 } )$ 是由联合国粮农组织提供的FAO-56Penman-Monteith公式[7]计算的 $E T _ { 0 }$ 拟合得到,采用 SigmaPlotl1.0 中非线性方程拟合实现。公式如下：
+
+归分析，建立参数 $\textit { a } , \textit { c }$ 的拟合方程; $\textcircled{2}$ 基于该拟合方程和相关因子进行参数 $\mathbf { \alpha } _ { a }$ 和 $\boldsymbol { \mathbf { \mathit { c } } }$ 的栅格运算,标记为 $\boldsymbol { a ^ { \prime } }$ 和 $\boldsymbol { c } ^ { \prime }$ · $\textcircled{3}$ 以 $\cdot \bf { \Phi } ^ { \prime }$ 和 $\boldsymbol { c ^ { \prime } }$ 作为协同变量，采用样条曲线法进行参数 $\textit { a } , \textit { c }$ 空间插值。最后，基于每日平均气温 $T$ 、总辐射 ${ \mathbf { } } R _ { a }$ 和参数 $\textit { a } , \textit { c }$ 的空间插值结果，利用参数方程(1)进行 $E T _ { \mathrm { 0 \_ m o d } }$ 空间栅格运算,得到新疆全区的 $E T _ { 0 }$ 空间分布。
+
+# 2 研究结果
+
+$$
+f ( x _ { 1 } , x _ { 2 } ) = { \frac { a x _ { 1 } } { 1 - c x _ { 2 } } }
+$$
+
+式中： $x _ { 1 }$ 表示每日总辐射 $R _ { a } ; x _ { 2 }$ 表示每日平均气温$T ( \mathrm { ~ \mathcal { C } ~ } ) : f ( x _ { 1 } , x _ { 2 } )$ 是 PM公式计算得到的每日 $E T _ { 0 }$ 号分别给参数 $\textit { a } , \textit { c }$ 赋值为0.0001和0.01，得到与站点一一对应的参数 $\textit { a } _ { \mathrm { v } }$ ○
+
+PM 公式计算得出的 $E T _ { 0 }$ 值简写为 $E T _ { \mathrm { 0 _ { - } p m } }$ ,与参数方程计算的 $E T _ { 0 } \left( E T _ { 0 \mathrm { - } \mathrm { m o d } } \right)$ )进行对比，使用决定系数 $( R ^ { 2 } )$ 、平均绝对误差（MAE）、相对偏差（BIAS)来评价和校准参数方程在模拟估计 $E T _ { 0 }$ 时的拟合效果[8]。其中， $R ^ { 2 }$ 越接近1,代表拟合效果越佳,平均绝对误差MAE( $\mathbf { m m } ^ { \prime }$ )与相对偏差 $\mathrm { B I A S } ( \% )$ 越小，表示 $E T _ { \mathrm { 0 _ { - } p m } }$ 和 $E T _ { \mathrm { 0 \_ m o d } }$ 间的偏差值越小。
+
+1.2.2空间插值方法参数方程实现 ${ E T } _ { 0 }$ 的空间化需要以下几个步骤。首先，使用Anusplin软件对每日平均气温进行空间插值，该软件采用的插值方法是薄板样条函数法(24]。然后,基于日序数和地理纬度，利用公式(2)在ArcGIS软件中实现每日总辐射 ${ \mathbf { } } R _ { a }$ 的空间栅格运算。
+
+最为关键的2个参数 $\textit { a } , \textit { c }$ 空间化的具体步骤为： $\textcircled{1}$ 将 $\textit { a } , \textit { c }$ 分别与站点经度、海拔和温度进行回
+
+# 2.1 不同时间尺度下 $E T _ { \mathrm { 0 \_ m o d } }$ 与 $E T _ { \mathbf { 0 . p m } }$ 的分析对比
+
+由图2可以看出,采用参数方程计算的 ETo_mod与PM公式计算的 $E T _ { \mathrm { 0 _ { - } p m } }$ 结果趋势一致，精度较高。在日时间尺度上， $E T _ { \mathrm { 0 \_ m o d } }$ 表现为高估的时间段主要为年初 $( 1 \sim 8 6 \mathrm { ~ d ~ } )$ 、年中（ $( 1 6 7 \sim 2 3 0 \mathrm { ~ d } )$ 和年末( $3 0 0 \sim$ 365d)，平均高估幅度为 $0 . 2 8 ~ \mathrm { { \ m m } }$ ;其余时间段$E T _ { \mathrm { 0 \_ m o d } }$ 则表现为低估状态，平均低估幅度为0.25$\mathbf { m } \mathbf { m }$ 。总体上， $E T _ { \mathrm { 0 \_ m o d } }$ 表现为高估状态，平均高估$0 . 0 8 ~ \mathrm { m m }$ （图2a）。在月时间尺度上， $E T _ { \mathrm { 0 \_ m o d } }$ 与$E T _ { \mathrm { 0 _ { - } p m } }$ 相比,在4月、5月、8月、9月、10月表现为低估,平均低估 $7 . 4 7 \ \mathrm { m m }$ ,低估幅度最大为 $1 0 . 1 9 ~ \mathrm { m m }$ 。与此相对，在其余月份 $E T _ { \mathrm { 0 \_ m o d } }$ 则表现为高估状态，平均高估 $7 . 7 4 \ \mathrm { m m }$ ,最大高估幅度 $1 2 . 1 9 \ \mathrm { m m }$ （图2b）。在季节尺度上, $E T _ { \mathrm { 0 \_ m o d } }$ 与 $E T _ { \mathrm { 0 _ { - } p m } }$ 相比趋势最为接近，总体上 $E T _ { \mathrm { 0 \_ m o d } }$ 高估了 $5 . 3 1 \ \mathrm { m m }$ （图2c）。平均绝对偏差MAE的年内变化（图2a）和月尺度变化（图2b)都随着时间的增加而上下波动，1月、4月、7月、9月和12月在波峰，3月、6月、8月、10月处在波谷；并且季节尺度上（图2c），MAE冬季最高，夏秋季节最低。
+
+此外,基于站点数据计算的多年日、月、季节的
+
+![](images/15f3397c5652256bcff1b6ed33afaf1866a890bdb96b90938ad640c3be5ba98d.jpg)  
+图2不同时间尺度PM公式计算的潜在蒸散发( $\langle E T _ { \mathrm { 0 _ { - } p m } }$ )与参数方程 $E T _ { 0 }$ 值 $\cdot E T _ { \mathrm { 0 \_ m o d } } ^ { }$ )的年内平均变化和平均绝对偏差(MAE)  
+Fig.2Compared results of the potential evapotranspiration $( E T _ { \mathrm { 0 _ { - } p m } }$ ）calculated by the PM formula and the $E T _ { 0 }$ value of the parametric equation ( $\left( E T _ { \mathrm { 0 \_ m o d } } \right)$ ）at different time scales and mean absolute error（MAE）trend
+
+$E T _ { \mathrm { 0 \_ m o d } }$ 与 $E T _ { \mathrm { 0 _ { - } p m } }$ 之间的决定系数 $R ^ { 2 }$ 评价结果表明,$R ^ { 2 }$ 值在日尺度、月尺度和季节尺度分别为0.991、$0 . 9 9 1 \ 、 0 . 9 9 3$ ，拟合精度会随时间尺度增加而增加。因在月尺度下, $E T _ { \mathrm { 0 \_ m o d } }$ 与 $E T _ { \mathrm { 0 _ { - } p m } }$ 在66个站点上的决定系数 $R ^ { 2 }$ 平均值为0.94,有 $3 3 . 3 3 \%$ 的站点 $E T _ { \mathrm { 0 _ { - } p m } }$ （204号与 $E T _ { \mathrm { 0 \_ m o d } }$ 的 $R ^ { 2 }$ 值大于0.95,有 $5 7 . 0 9 \%$ 的站点 $R ^ { 2 }$ 值介于 $0 . 9 2 \sim 0 . 9 5$ 之间,仅有 $3 . 0 3 \%$ 的站点 $R ^ { 2 }$ 值小于0.90。因此,笔者采用月尺度下的 $E T _ { \mathrm { 0 \mathrm { - } p m } }$ 来校准评价参数模型下的 $E T _ { \mathrm { 0 \_ m o d } }$ 值,并计算各个站点参数 $\textit { a } _ { \boldsymbol { \cdot } } c$ 的值。
+
+$E T _ { \mathrm { 0 \_ m o d } }$ 与 $E T _ { \mathrm { 0 \mathrm { - } p m } }$ 在各个站点上的平均绝对偏差(MAE)与相对偏差(BIAS)可以反映出参数方程与PM公式的偏差程度（图3）。评价结果表明： $\textcircled{1}$ 新疆66个站点的MAE均值为 $0 . 3 8 ~ \mathrm { m m }$ ,其中MAE大于0.50的站点占总数的 $1 2 . 1 2 \%$ ;MAE介于 $0 . 4 0 \sim$ 0.50的站点占总数 $1 8 . 1 8 \%$ ;MAE介于 $0 . 2 0 \sim 0 . 4 0$ 的站点占总数 $6 5 . 1 5 \%$ ；而MAE介于 $0 . 1 0 \sim 0 . 2 0$ 的站点占总数的 $4 . 5 5 \%$ 。总体上，超过 $5 9 . 9 8 \%$ 的站点MAE值小于0.40，因此，MAE总体较小。 $\textcircled{2}$ 66个站点的BIAS均值为0.0160，其中大于0.04的站点占总数 $1 . 5 2 \%$ ；介于 $0 . 0 2 \sim 0 . 0 4$ 之间的站点占总数的 $3 7 . 8 8 \%$ ： $0 . 0 1 \sim 0 . 0 2$ 之间的站点占总数的 $3 7 . 8 8 \%$ ;小于0.01的站点占总数的 $2 2 . 7 2 \%$ 0总体上，有超过 $5 0 . 0 0 \%$ 的站点相对偏差值小于0.02，偏差较小，说明拟合效果较优。 $\textcircled{3}$ 全疆MAE空间分布（图3a)表明，北疆大部分站点MAE偏高，南疆站点MAE 相对较低,其中塔中站MAE最低，为$0 . 1 6 \mathrm { \ m m }$ ;全疆BIAS空间分布和MAE类似（图3b），北疆多数站点BIAS偏高，南疆多数站点BIAS
+
+值偏低。
+
+# 2.2参数 $^ { a , c }$ 和 ${ E T _ { 0 } }$ 的空间分布特征
+
+将参数方程与PM公式计算的每月 $\phantom { } { E T _ { 0 } }$ 均值进行拟合，得到各个站点的参数 $\textit { a } , \textit { c }$ 值，参数 $\boldsymbol { a }$ 最大值为0.0001,最小值为 $0 . \ 0 0 0 \ 0 4 7$ ;参数 $\mid c \mid$ 最大值为0.04，最小值为0.015。运用样条曲线法对2个参数进行空间插值，得到参数 $\textit { a } _ { \boldsymbol { \cdot } } c$ 的空间分布规律（图$\mathrm { 4 a , 4 b ) }$ 。结果表明：参数 $\mathbf { \Delta } _ { a }$ 的空间分布与太阳辐射相关,在低纬度地区太阳辐射越高， $\mathbf { \alpha } _ { a }$ 值则越大，而高纬度地区太阳辐射较低，参数 $\mathbf { \Delta } _ { a }$ 也随着辐射的降低而减小，其空间变化呈现东南高，西北低。而参数$\boldsymbol { \mathbf { \mathit { c } } }$ 则与海拔相关性高， $\boldsymbol { \mathscr { c } }$ 的分布会随着海拔高度的变化而变化，海拔越高 $\scriptstyle { \begin{array} { l } { c } \end{array} }$ 值越大，海拔越低 $\boldsymbol { \mathbf { \mathit { c } } }$ 值越小。
+
+由参数方程空间插值得到的新疆地区全年和7月 $E T _ { 0 }$ 空间分布表明：
+
+（1）1960—2017年新疆地区多年平均 $E T _ { 0 }$ 为$1 \ 0 2 8 \ \mathrm { m m }$ ,并且存在显著空间差异（图4c）。从全疆来看，平原区年均 $\phantom { } { E T _ { 0 } }$ 为 $1 1 3 0 \ \mathrm { { \ m m } }$ ，山区为864$\mathbf { m } \mathbf { m }$ ,平原区的蒸发量远远大于山区。平原区的全年温度高，降水稀少，蒸发过程强烈，而山区温度随着海拔的升高而降低，温度整体较低，且降水较多，蒸发过程较弱。
+
+(2）南北疆的多年平均 $E T _ { 0 }$ 也存在明显差异（图4c），南疆地区年均 $E T _ { 0 }$ 值为 $1 ~ 0 4 7 ~ \mathrm { m m }$ ,北疆地区为 $9 9 6 ~ \mathrm { m m }$ 。在南疆平原区, $E T _ { 0 }$ 达到 $1 \ 1 8 7 \ \mathrm { m m }$ ：南疆山区潜在蒸散发较低，为 $8 9 9 ~ \mathrm { m m }$ 。北疆平原区多年平均 ${ E T } _ { 0 }$ 为 $1 \ 0 7 6 \ \mathrm { m m }$ ，山区为 $7 8 0 ~ \mathrm { m m }$ 。新疆地区 $E T _ { 0 }$ 空间变化趋势差异显著，主要原因是：南疆地处暖温带,有塔克拉玛干沙漠,气候干燥少雨，全年平均气温较高，蒸发量明显偏大;而北疆地处中温带，纬度高，全年平均气温较低，相对湿润，潜在蒸散发较低。
+
+![](images/7c0f074c290c7c32be78ae6d34e948f6e00336830086b3a2a3c876f47d7eb818.jpg)  
+图3新疆66个站点在月尺度下平均绝对偏差(MAE)、相对偏差(BIAS)的空间分布Fig.3Spatial distribution of mean absolute error（MAE）and relative bias（BIAS）of 66 meteorological stationsin Xinjiang at monthly scale
+
+![](images/efc8c93f0402146d2330b1fff681a6f28612dd9041166a2736b044a7fe786312.jpg)  
+图4参数 $\textit { a } , \textit { c }$ 和新疆地区年 $E T _ { 0 }$ 和7月 $E T _ { 0 }$ 的空间分布  
+Fig.4Spatial distribution of the parameters $a$ and $c$ ,and the annual $E T _ { 0 }$ and $E T _ { 0 }$ in July in Xinjiang
+
+（3）蒸散发最强烈的月份7月，新疆 $E T _ { 0 }$ 均值为 $1 6 4 ~ \mathrm { m m }$ ,其空间分布与多年平均 $\mathbf { \nabla } { E T _ { 0 } }$ 相似，呈现出平原区高，山区低的特点，而平原区中南北疆的蒸发量相近。相比较全年 $E T _ { 0 }$ 的空间变化，7月份的$E T _ { 0 }$ 空间变化更加明显，分异也更显著(图4d）。
+
+# 2.3基于参数方程的 $E T _ { 0 }$ 空间插值数据的精度分析
+
+以PM公式计算的 $\mathbf { \nabla } { E T _ { 0 } }$ 值为标准，分析了MOD16A2和CRU数据对月平均潜在蒸散发的拟合精度（图5）。结果表明：MOD16A2数据的 $E T _ { 0 }$ 产品与 $E T _ { \mathrm { 0 \mathrm { - } p m } }$ 的决定系数 $R ^ { 2 }$ 均值为0.87，由于MOD16A2数据在裸地、荒漠及高山积雪层的缺失，仅能提取46个站点的 ${ E T } _ { 0 }$ 值,其中有31个站点 $R ^ { 2 }$ 值大于0.90。相较 MOD16A2数据而言，CRU数据产品表现更佳，决定系数 $R ^ { 2 }$ 均值为0.95,66个站点中有63个站点的 $R ^ { 2 }$ 值大于0.90。
+
+$E T _ { \mathrm { 0 _ { - } p m } }$ 与 $E T _ { \mathrm { 0 \_ m o d } }$ ） $\mathrm { M O D } 1 6 \mathrm { A } 2$ 数据和CRU数据的决定系数 $R ^ { 2 }$ （表1）分析结果表明：CRU数据的 $\textstyle R ^ { 2 }$ 均值在三者中最高，为0.95,其中有 $9 5 . 4 5 \%$ 的站点$R ^ { 2 }$ 值大于0.90;参数方程仅次于CRU数据， $R ^ { 2 }$ 均值为0.94,但有 $9 6 . 9 7 \%$ 的站 $R ^ { 2 }$ 值大于0.90；而MOD16A2的 $R ^ { 2 }$ 均值为0.87，只有 $6 7 . 3 9 \%$ 站点 $R ^ { 2 }$ 值大于0.90。另外,不同计算方式下的平均绝对偏差MAE值在不同范围的站点个数也各不相同（表2），
+
+# 表1不同 $E T _ { 0 }$ 计算方式 $R ^ { 2 }$ 值的分段站点个数
+
+Tab.1Number of the segmented meteorological stations for $\scriptstyle { R ^ { 2 } }$ of different $E T _ { 0 }$ calculation methods   
+
+<html><body><table><tr><td rowspan="2">ET0 计算方式</td><td rowspan="2">站点 总数</td><td colspan="3">不同R值对应的站点数</td></tr><tr><td><0.50 0.50~0.70</td><td>0.70~0.90</td><td>0.90~1.00</td></tr><tr><td>参数方程</td><td>66</td><td>0</td><td>0</td><td>64</td></tr><tr><td>MOD16A2</td><td>46</td><td>1</td><td></td><td>31</td></tr><tr><td>CRU</td><td>66</td><td>0</td><td>1</td><td></td></tr></table></body></html>
+
+![](images/09ec2a18166f228bd015938e4e45cefd3d6650eed008f14903f253314463ea22.jpg)  
+图5PM公式计算的 $\mathbf { \nabla } _ { E T _ { 0 } }$ 与 MOD16A2 和CRU 提取的 $E T _ { 0 }$ 间决定系数的对比 Fig.5Compared results of the determination coefficients between $E T _ { 0 }$ calculated by Penman-Monteith formula and $E T _ { 0 }$ extracted by MOD16A2 and CRU
+
+当 $\mathrm { M A E } { \leqslant } 0 . 5 0$ 时，CRU和MOD16A2数据的站点数分别为41和0个，而参数方程在该范围内的站点数有58个，占总数的 $8 7 . 8 8 \%$ 。各种计算方式的相对偏差（BIAS）也存在差异，参数方程的BIAS为0.0154，MOD16A2数据为0.21，CRU数据为-0.006 5。
+
+2000—2014年，CRU数据、MOD16A2数据和参数方程与PM公式计算的 $E T _ { 0 }$ 月均值散点图(图6)
+
+表2不同 ${ E T _ { 0 } }$ 计算方式MAE值的分段站点个数  
+Tab.2Number of the segmented meteorological stations with MAE values of different $E T _ { 0 }$ calculation methods   
+
+<html><body><table><tr><td rowspan="2">ET0 计算方式</td><td rowspan="2">站点 总数</td><td colspan="3">不同MAE值对应的站点数</td></tr><tr><td>≤0.50</td><td>0.50~1.00</td><td>1.00~2.002.00~5.50</td></tr><tr><td>参数方程</td><td>66</td><td>58</td><td>8 0</td><td>0</td></tr><tr><td>MOD16A2</td><td>46</td><td>0</td><td>2 22</td><td>22</td></tr><tr><td>CRU</td><td>66</td><td>41</td><td>17 5</td><td>3</td></tr></table></body></html>
+
+![](images/2fc11a38ca6118479fc62083865a9daf54714808453424374a66daea70dad54b.jpg)  
+图6CRU、MOD16A2 和参数方程与PM公式计算的 $E T _ { 0 }$ 对比散点图  
+Fig.6Comparison scatter plot between CRU,MOD16A2 and parameter formula with the $E T _ { 0 }$ calculated by Penman-Monteith formul
+
+表明：CRU数据和参数方程拟合效果明显优于MOD16A2数据，而MOD16A2数据出现了对 $E T _ { 0 }$ 值的高估。通过以上分析得出，参数方程相比其他2种数据产品（CRU、MOD16A2），决定系数 $R ^ { 2 }$ 值大于0.90的站点个数以及绝对平均偏差MAE值小于0.50的站点数都较高，因而拟合效果较好。
+
+# 3讨论与结论
+
+# 3.1 讨论
+
+目前，潜在蒸散发估算方法主要分为3种类型[6] $\textcircled{1}$ 基于辐射的方法,包括 Priestley-Taylor、
+
+Makkink 及 Turc 法[14-15,25）]。 $\textcircled{2}$ 基于温度的方法,包括 Thornthwaite 和 Blaney-Criddle 公式[12-13]。 $\textcircled{3}$ 基于辐射、温度和空气动力学项的Penman-Monteith方法[26]。Penman-Monteith方法具有很好的物理机制，计算精度高，常被作为 $E T _ { 0 }$ 估算的标准。然而，Penman-Monteith方法的最大缺点在于过度依赖观测数据,在缺少资料地区难以推广和应用[11]。另一方面，区域 $E T _ { 0 }$ 的高精度空间插值一直以来都是挑战[27]，目前多数研究都是针对已知站点的插值运算[28-30]。如 Mcvicar等[31]运用PM公式估算了黄河流域的 $E T _ { 0 }$ ，并进行了空间栅格运算，得到了黄河流域月尺度上 ${ E T } _ { 0 }$ 的空间分布。虽然一些数据产品（如MOD16A2、CRU）可提供空间化 $E T _ { 0 }$ ,但其精度与空间分辨率较低[21.32]。本研究所应用的参数化方案，结构简单，数据易获取（仅需要温度和总辐射数据)。而且参数化方程计算精度较高，日、月、季节尺度下的 $R ^ { 2 }$ 值均大于0.90。马亮等[33]在新疆阿克苏地区运用3种潜在蒸散发模型计算的 $\phantom { } { E T _ { 0 } }$ 与PM公式计算的 $E T _ { 0 }$ 的相关系数低于0.70。相比较，本文中的研究方法拟合精度较高。除了拟合结果十分接近PM公式外，参数方程还可实现 $\phantom { } { E T _ { 0 } }$ 的空间栅格运算，与PM公式的拟合精度较高，而且分辨率为 $5 0 0 \mathrm { ~ m ~ }$ ，高于CRU数据与MOD16A2数据的空间分辨率。利用参数方程得到新疆地区的潜在蒸散发空间分布，分布特点是：平原区大于山区；南疆高于北疆，符合新疆地区 $E T _ { 0 }$ 空间分布特征,与张山清等[34]研究结果一致。
+
+参数方程是由彭曼公式演化而来，简化参数方程中参数 $\textit { a } , \textit { c }$ 的空间变化有一定的规律。参数 $\boldsymbol { a }$ 和太阳辐射相关，呈现出东南高、西北低的特点，与新疆总辐射的空间分布相近[35]；参数 $\mid c \mid$ 与海拔有关,海拔越高，参数 $\mid c \mid$ 越大。这是由于参数 $\scriptstyle { \begin{array} { l } { c } \end{array} }$ 与温度呈负相关，而温度与海拔呈负相关，海拔越高温度越低，因而参数 $\mid c \mid$ 与海拔高度存在正相关关系，参数$\textit { a } , \textit { c }$ 在空间分布上总体符合气象因素的变化规律，具有一定的参考价值[8]
+
+参数方程可为 $E T _ { 0 }$ 空间插值运算提供可靠支撑，当某研究区域缺乏PM公式所需数据集时，这种方程将有可能成为替代PM 公式的方法(1],经过校准后的模型参数更符合当地的气候条件，并为一些表征干旱程度的指标提供参考,如干燥度指数(21]水文模型等。综上所述，参数方程的优点是结构简单,数据易获取，计算精度高。在观测手段不断进步、观测网络逐渐完善的背景下，简化参数方程在站点和区域尺度的 $E T _ { 0 }$ 计算上具有更大的应用价值和潜力。
+
+# 3.2 结论
+
+本文通过新疆66个站点1960—2017年的气象观测数据，评价和校准了简化参数方程的适用性，重点分析了参数方程、CRU数据和MOD16A2数据与PM公式间的拟合程度，得出以下结论：
+
+（1）参数方程与PM公式在日、月及季节尺度上的拟合效果都表现较好， $R ^ { 2 }$ 值均大于0.90，且 $R ^ { 2 }$ 值随时间尺度的增加而增大。 $E T _ { \mathrm { 0 \mathrm { - p m } } }$ 与 $E T _ { \mathrm { 0 \_ m o d } }$ 的MAE和BIAS均值分别为0.38和0.0160，总体偏差较小，拟合结果较优。
+
+(2）参数 $\textit { a } , \textit { c }$ 经空间插值后，在空间分布上呈现一定规律，参数 $\mathbf { \alpha } _ { a }$ 呈现东南高，西北低的特点，与太阳辐射的空间变化规律相似，随着太阳辐射的降低而减小；参数 $\mid c \mid$ 的空间分布则随着海拔高度的增加而增大。通过参数方程的空间插值得到新疆 $E T _ { 0 }$ 的空间分布总体表现为南疆大于北疆，平原区大于山区的格局。
+
+（3）评价了参数方程、CRU数据和MOD16A2数据与PM公式的拟合效果及偏差程度，参数方程在拟合效果和空间分辨率方面表现更佳， $R ^ { 2 }$ 大于0.90，空间分辨率为 $5 0 0 \mathrm { ~ m ~ } \times 5 0 0 \mathrm { ~ m ~ }$ ,可以提高 $E T _ { 0 }$ 的计算精度和空间分辨率。参数方程适用于新疆地区的潜在蒸散发计算，为气象资料缺乏地区提供了一种结构简单,数据容易获取的 $E T _ { 0 }$ 估算新方法。
+
+# 参考文献（References）：
+
+[1] Jiang C,Nie Z,Mu X,et al.Potential evapotranspiration change and its attribution in the Qinling Mountains and surrounding area, China,during 1960-2012[J].Journal of Water $\&$ Climate Change,2016,7(3):526-541.   
+[2] Lv MX,Ma ZG,Lv M Z.Effects of climate/land surface changes on streamflow with consideration of precipitation intensity and catchment characteristics in the Yellow River Basin[J].Journal of Geophysical Research：Atmospheres,2018,123（4）:1 942 - 1958.   
+[3]武建军,耿广坡,周洪奎,等.全球农业旱灾脆弱性及其空间分 布特征[J].中国科学：地球科学,2017,47(6)：733-744.［Wu Jianjun,Geng Guangpo,Zhou Hongkui,et al.Global agricultural drought vulnerability and spatial distribution characteristics[J]. Scientia Sinica Terrae,2017,47(6) :733-744.]   
+[4]Malamos N,Tegos A,Tsirogiannis IL,et al.Implementation of a regional parametric model for potential evapotranspiration assessment[C]//Montesano FF,Lamaddalena N.IrriMed 2015-Modern Technologies,Strategies and Tools for Sustainable Irrigation Management and Governance in Mediterranean Agriculture.Bari : Ciheam Valenzano,2015:1-11.   
+[5] 刘远,周买春.空间插值气象数据在 Shuttleworth-Wallace 潜在 蒸散发模型中的应用[J].水利水电科技进展,2017,37（1)： 8 -16.[Liu Yuan,Zhou Maichun.Application of spatially interpolated meteorological data in estimation of potential evapotranspiration using Shuttleworth-Wallace model[J].Advances in Science and Technology of Water Resources,2017,37(1）:8-16.]   
+[6] Mcmahon T A,Finlayson BL,Peel M C.Historical developments
+
+of models for estimating evaporation using standard meteorological data[J].Wiley Interdisciplinary Reviews Water,2016,3（6):788 -818.
+
+[7]Allen R G,Pereira L S,Raes D,et al. Crop Evapotranspiration: Guidelines for Computing Crop Water Requirements.FAO Irrigation and Drainage Paper 56[M].Italy: Food and Agriculture Organization of the United Nations Rome,1998:15.   
+[8]Tegos A,Malamos N,Efstratiadis A,et al.Parametric modelling of potential evapotranspiration: A global survey[J]. Water,2017,9 (10) :795.   
+[9]Hao X M,Zhang SH,Li W H,et al.The uncertainty of PenmanMonteith method and the energy balance closure problem[J]. Journal of Geophysical Research: Atmospheres,2018,123（14）:7 433 -7 443.   
+[10］王永东,邱永志,许波,等.参考作物蒸散量计算方法在极端干 旱区的适用性[J].干旱区研究,2014,31（3）：390－396. [Wang Yongdong,Qiu Yongzhi,Xu Bo,et al.Referencecrop evapotranspiration in hinterland of the Taklimakan Desert[J].Arid Zone Research,2014,31(3）:390 -396.]   
+[11]Tegos A,Malamos N,Koutsoyiannis D.A parsimonious regional parametric evapotranspiration model based on a simplification of thePenman-Monteith formula[J].Journal of Hydrology,2015, 524:708 - 717.   
+[12]Thornthwaite C W.An approach toward a rational classfication of climate[J].Geographical Review,1948,38（1）:55-94.   
+[13]Heydari MM,Tajamoli A,Ghoreishi SH,etal. Evaluation and calibration of Blaney-Criddle quation for estimating reference evapo transpiration in semiarid and arid regions[J].Environmental Earth Sciences,2015,74(5):4 053-4 063.   
+[14]Ai ZP,Yang Y H. Modification and validation of Priestley-Taylor model for estimating cotton evapotranspiration under plastic mulch condition[J].Journal of Hydrometeorology,2016,17(4）:1 281- 1 293.   
+[15]Alexandris S,Stricevic R,Petkovic S. Comparative analysis of reference evapotranspiration from the surface of rainfed grass in central Serbia,calculated by six empirical methods against the PenmanMonteith formula[J].European Water,2008,21/22:17 -28.   
+[16]Allen RG,Pruitt W O.Rational use of the FAO Blaney-Criddle formula[J]. Journal of Irigation & Drainage Engineering,1986, 112(2) :139 -155.   
+[17]Zhao S H,Yang Y H,Zhang F,et al.Rapid evaluation of reference evapotranspiration in Northern China[J].Arabian Journal of Geosciences,2015,8(2):647 -657.   
+[18]Haslinger K,Bartsch A. Creating long-term gridded fields of reference evapotranspiration in Alpine terrain based on a recalibrated Hargreaves method[J]. Hydrology and Earth System Sciences, 2016,20(3) :1 211 -1 223.   
+[19]Tegos A,Efstratiadis A,Koutsoyiannis D.A parametric model for potential evapotranspiration estimation based on a simplified formulationof the Penman-Monteith equation[C]//Alexandris SG. Evapotran Spiration:An Overview.Rijeka: InTech,2013:143- 165.   
+[20]Baik J,Choi M. Multi-satelite-based water budget components in south Korea[J]. Environmental Earth Sciences,2018,77:93.   
+[21]Mccabe GJ,Wolock DM.Variability and trends in global drought [J].Earth and Space Science,2015,2(6）:223-228.   
+[22] Mu Q Z,Zhao M S,Running S W.Improvements to a MODIS global terrestrial evapotranspiration algorithm[J].Remote Sensing of Environment,2011,115（8）:1781-1 800.   
+[23]Dhungel R,Allen R G,Trezza R,et al. Comparison of latent heat flux using aerodynamic methods and using the Penman-Monteith method with satelite-based surface energy balance[J].Remote Sensing,2014,6(9) :8 844 -8 877.   
+[24]Hutchinson MF,Xu TB.Anusplin Version 4.4 User Guide[M]. Canberra :The Austranlian National University,2O135-13.   
+[25]Makkink G F.Ekzameno de la formula de Penman[J].Netherlands Journal of Agricultural Science,1957(5）:290-305.   
+[26]Penman HL. Natural evaporation from open water,bare soil and grass[J].Proceedingsof the Royal Society of London,1948,193 (1 032):120 -145.   
+[27]Mcmahon T A,Peel M C,Lowe L,et al. Estimating actual,potential,reference crop and pan evaporation using standard meteorological data: A pragmatic synthesis[J]. Hydrology and Earth System Sciences Discussions,2013,17(4):1 331-1 363.   
+[28]史建国,严昌荣,何文清,等.黄河流域潜在蒸散量时空格局变 化分析[J].干旱区研究,2007,24（6）:773-778.[ShiJiangu, Yan Changrong,He Wenqing,et al. Study on spatiotemporal change of evapotranspiration in the Yellow River Basin[J].Arid Zone Research,2007,24(6) :773 -778.]   
+[29]Wang J,Lv X,Wang JL,et al. Spatiotemporal variations of reference crop evapotranspiration in Northern Xinjiang,China[J].The Scientific World Journal,2014,2 014:931515,doi:10.1155/ 2014/931515.   
+[30]普宗朝,张山清,王胜兰,等.近48a新疆干湿气候时空变化特 征[J].中国沙漠,2011,31（6):1563-1572.[Pu Zongchao, Zhang Shanqing,Wang Shenglan,et al.The spatial-temporal variation characteristic of dry-wet climate in rencent 48 years in Xinjiang Province,China[J]. Journal of Desert Research,2011,31 (6):1 563 -1 572.]   
+[31]Mcvicar TR,Van Niel TG,Li L T,etal.Spatially distributing monthly reference evapotranspiration and pan evaporation considering topographic influences[J]. Journal of Hydrology,2007,38（3 -4):196 -220.   
+[32]Choudhury B J. Global pattern of potential evaporation calculated from the Penman-Monteith equation using satelite and assimilated data[J].Remote Sensing of Environment,1997,61(1）:64 -81.   
+[33］马亮,魏光辉.新疆塔里木盆地西缘参考作物蒸散发模型的适 用性评价〔J].干旱区资源与环境,2015,29（8）：132－137. [Ma Liang,Wei Guanghui.Applicability evaluation on the $E T _ { 0 }$ （20号 model in western margin of Tarim Basin[J]. Journal of Arid Land
+
+Resources and Environment,2015,29(8）:132-137.] [34]张山清，普宗朝.新疆参考作物蒸散量时空变化分析[J].农业 工程学报,2011,27（5）:73-79.[Zhang Shanqing,Pu Zongchao. Temporal and spatial variations characteristics of reference evapotranspiration in Xinjiang[J].Transactions of the Chinese Society of Agricultural Engineering,2011,27(5）:73-79.]
+
+[35]辛渝，赵逸舟，毛炜峰，等.新疆太阳总辐射资料的均一性检验 与气候学估算式的再探讨[J].高原气象，2011，30（4)：878- 889.[Xin Yu,Zhao Yizhou,Mao Weiyi,etal.Homogeneity test of the total solar radiation data series and further research on climatologicalcalculationoverXinjiang[J].PlateauMeteorology,2O11,30 (4):878 -889.]
+
+# A Simplified Method and Its Application for Estimating Potential Evapotranspiration
+
+ZHANG Ying $^ { 1 , 2 }$ ，HAO Xing-ming'，HUA Ding1.²，SUN Hai-tao12，LI Yu-peng $^ { 1 , 2 }$ (1．Stake Key Laboratory of Desert and Oasis Ecology,Xinjiang Institute of Ecologyand Geography, Chinese Academy of Sciences,Urumqi 830011,Xinjiang,China; 2.University of Chinese Academy of Sciences,Beijing 1Ooo49,China)
+
+Abstract：Potential evapotranspiration plays an important role in estimating the regional water balance and crop water demand and also assssng drought.However,the spatial interpolation of potential evapotranspiration is always achallenge for relevant researches.In this study,a simple parametric model was used toachieve the spatialization of the potential evapotranspiration ( $\mid E T _ { 0 }$ ）in Xinjiang based on the observed data from 66 meteorological stations in Xinjiang from 1960 to 2017.The results indicated that : $\textcircled{1}$ There was a certain regularity of spatial distribution of the two important parameters $a$ and $c$ of the simplified parametric model. The parameter $a$ was spatially high in the southeast but low in the northwest of Xinjiang.The parameter $c$ ,however,was increased with the increase of altitude ; $\textcircled{2}$ Compared with the Penman-Monteith method,the $R ^ { 2 }$ values of the simplified parametric model at the daily, monthlyand seasonal scales were allhigher than O.9O,and they were increased with the increase of time scale ; $\textcircled{3}$ Thecompared results between the fiting resultsof the simplified parametric model and the CRU data and MOD16A2 data revealed that the $R ^ { 2 }$ values of the simplified parametric model and of the Penman-Monteith method were high,the fitting results and errors were better,but the $R ^ { 2 }$ values fitted with CRU and MOD16A2 were low. Moreover,the accuracy of potential evapotranspiration and the spatial resolution ( $5 0 0 ~ \mathrm { m } \times 5 0 0 ~ \mathrm { m }$ ）obtained by the simplified parametric model were high.Therefore,thesimplified parametric model is a convenientand efective model for calculating the $E T _ { 0 }$ at regional scale,and can be applied to estimate the potential evapotranspiration in Xinjiang.
+
+Key words:potential evapotranspiration ( $\mathbf { \nabla } _ { E T _ { 0 } }$ ）； parametric equation； Penman-Monteith method；spatial interpo-lation

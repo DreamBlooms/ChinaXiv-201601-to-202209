@@ -1,0 +1,729 @@
+[
+    {
+        "type": "text",
+        "text": "用户移动搜索与桌面搜索行为对比研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴丹 毕仁敏",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(武汉大学信息管理学院武汉 430072)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】发掘桌面搜索的优势，为移动搜索的完善提供借鉴。【方法】通过用户搜索实验，对比分析用户移动搜索与桌面搜索行为的差异。【结果】用户移动搜索与桌面搜索行为在搜索平台、搜索信息种类、搜索场合、搜索过程、用户体验、搜索准确率、用户满意度等方面存在差异。【局限】实验人群和数量有限，实验过程中存在不可避免的误差。【结论】移动搜索和桌面搜索各具优缺点，可取长补短，桌面搜索优势更大，可为移动搜索的完善提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：移动搜索 桌面搜索 搜索行为 分类号：G354 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以智能手机、平板电脑为代表的移动端便捷和人性化的操作体验，丰富的功能支持，以及应用商店内提供的海量APP，使得移动端对人们的生活渗透得越来越深。目前，人们可以利用移动端进行购物支付、点餐、打车、查路线、导航、读书看报等，移动端的便捷服务正在改变着人们的生活习惯，惠及到人们学习、生活、工作中的各个方面。研究移动端用户信息搜索行为，可以为完善移动搜索工具，提高用户搜索效率提出建议，从而有助于移动端更好地服务于人们的生活。桌面搜索作为传统的网络信息搜索工具，相比移动搜索历史更悠久，因此对比研究用户移动搜索与桌面搜索行为，可以发掘桌面搜索的优势，为移动搜索的完善提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 研究综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于桌面搜索的研究自桌面搜索诞生就已经开始，而近十年来关于移动搜索的研究也硕果累累，主要有关于移动搜索查询式的研究、用户移动搜索行为的研究、移动搜索情景的研究等。关于移动搜索与桌面搜索的比较研究是近年来的研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "国内外学者关于移动搜索和桌面搜索的比较研究主要集中在搜索模式的研究。Kim 等[1对比在固定和移动两种设备上进行同样的检索任务时用户检索行为的差异，发现在移动设备上需要花费更多的时间来完成同样的任务；Kamvar 等2基于日志进行了电脑、iPhone手机和普通手机的搜索模式比较，发现普通手机用户搜索行为比电脑搜索行为更多，而iPhone手机搜索行为和电脑搜索行为更相似；Kamvar等[3还通过谷歌移动搜索界面进行了大规模的搜索模式的研究,并对比键盘手机、PDA和电脑的搜索模式；杨海波等[4]从运行平台、用户数量、使用特性、使用区域等方面对移动搜索与桌面搜索的优劣势进行了比较宏观的对比。关于固定与移动的网络环境下用户检索行为的差异研究,Albers等[5指出固定与手持设备网络环境的主要不同，并构建了关于这两种环境下检索行为的不同之处的理论框架。关于移动搜索和桌面搜索的互补应用，Carpineto 等通过将桌面搜索的成功案例应用到移动场景中研究搜索结果聚类的应用，发现聚类引擎对于桌面搜索引擎和移动搜索引擎是一种可行的互补方式，尤其是对于多主题信息搜索。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，国内外关于移动搜索与桌面搜索的对比研究内容很少，如仅从搜索用时或查询输入等方面进行研究，缺乏相对系统的对比研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3实验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "笔者通过用户实验，比较用户在手机、iPad、电脑等三种设备上的搜索行为，并得出移动搜索与桌面搜索行为的不同。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择百度搜索引擎作为搜索工具，利用录屏软件记录用户的搜索行为，通过采集用户搜索实验中产生的数据如搜索时长、查询输入的字符串长度等，结合用户搜索背景资料问卷和实验调查问卷、用户访谈等内容比较分析用户在不同设备上搜索行为的特点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验调查问卷主要采集用户实验过程中对搜索工具、搜索结果的评价，用户访谈则主要调查用户关于移动搜索与桌面搜索差异的比较。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 实验用户 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此次实验参与者均为武汉大学的学生。用户人数为18，其中5位男性，13位女性。从参与者学科背景来看，2/3以上的参与者接受过专业的信息素养教育，具有较好的信息检索能力；从参与者对搜索引擎的使用情况来看，百度搜索引擎在移动端和桌面端都是用户量最大的搜索引擎，大部分实验用户对搜索引擎比较熟悉，对检索结果的判断比较有信心，代表了检索能力比较高的用户群体，这有利于实验的顺利进行及实验数据的深度挖掘；从搜索的信息种类来看，用户移动搜索集中在生活类信息，桌面搜索相对分散在生活类信息和学术类信息；从搜索的场合来看，移动搜索的时间相对碎片化，场所不太固定，桌面搜索的时间较充裕，场所相对固定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3 实验过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于搜索主题的选择，根据前期关于搜索信息种类的对比研究，学术信息在移动搜索和桌面搜索中差别很小。因此，搜索主题忽略学术类信息，分别在新闻资讯、商务类信息、生活类信息中各出一题,共三个搜索主题。搜索主题参考了“百度无限全国高校搜索大赛\"的题目，涵盖了多种用户与设备可能存在的交互行为，在难度上大致一样。搜索主题如表1所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/24c0a0c869bf7e6ce9bbb05da964b2e5228ffdf59fb0503575936eb1991966e8.jpg",
+        "table_caption": [
+            "表1用户实验搜索主题"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>编号</td><td>类型</td><td>内容</td></tr><tr><td>主题1</td><td>新闻 资讯</td><td>2015年两会总理记者见面会结束后向李克强 总理抢问的记者，提出了什么问题？这位记 者之前曾供职于哪一家电视台？这家电视台 的记者，在2013年两会总理记者见面会中提 出了什么问题? 根据以下规格参数说出这是什么电子产品，</td></tr><tr><td>主题2</td><td>商务类 信息</td><td>并给出该电子产品的图片： CPU:ARMCortex-A9处理器 (4核) GPU:SGX543MP4+ 屏幕分辨率：960×544、约1677万色、有机EL屏 尺寸：182.0×18.6×83.5mm(长×高×宽) 触摸屏：前后触摸屏，多点式触摸(电容式) 摄像头：前置摄像头+后置摄像头 声音：立体声喇叭麦克风 传感器：六轴动态感应系统(三轴加速计和三</td></tr><tr><td>主题3</td><td>生活类 信息</td><td>定位：内置GPS支持WiFi定位服务 网络无线功能：移动网络通信3G机能WiFi蓝牙 某外国歌手一袭白裙，投影一开，震惊全场。 请问该歌手演唱的是哪一部电影的主题曲？ 将该演唱视频分享到任一社交网络。请问该 电影有哪三个名字?</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本次实验中，搜索主题分别用序号1、2、3表示，搜索工具手机百度APP、iPad百度APP、百度桌面搜索引擎分别用字母a、b、c表示。为避免搜索主题、搜索工具的顺序所造成的影响，笔者用如表2所示的方阵对每个用户搜索主题、搜索工具及搜索顺序进行排列。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8235f3134440906dc3ca320145444b65b1dcda32b0c187ea737efba86e424285.jpg",
+        "table_caption": [
+            "表2用户搜索任务分配"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>用户编号</td><td>搜索主题、搜索工具及搜索顺序</td></tr><tr><td>S1</td><td>1a 2b 3c</td></tr><tr><td>S2 1a</td><td>2c 3b</td></tr><tr><td>S3 1b</td><td>2a 3c</td></tr><tr><td>S4 1b</td><td>2c 3a</td></tr><tr><td>S5 1c</td><td>2a 3b</td></tr><tr><td>S6 1c</td><td>2b 3a</td></tr><tr><td>S7 2a</td><td>3b 1c</td></tr><tr><td>S8 2a</td><td>3c 1b</td></tr><tr><td>S9 2b</td><td>3a 1c</td></tr><tr><td>S10 2b</td><td>3c 1a</td></tr><tr><td>S11 2c</td><td>3a 1b</td></tr><tr><td>S12 2c</td><td>3b 1a</td></tr><tr><td>S13 3a</td><td>1b 2c</td></tr><tr><td>S14 3a</td><td>1c 2b</td></tr><tr><td>S15 3b</td><td>la 2c</td></tr><tr><td>S16 3b</td><td>1c 2a</td></tr><tr><td>S17 3c</td><td>la 2b</td></tr><tr><td>S18 3c</td><td>1b 2a</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用户在听取实验介绍并填写背景资料问卷后，根据表2中分配的搜索任务，依次用搜索工具搜索相应主题并计时，每个搜索任务完成后填写一份实验调查问卷。三个搜索任务都结束后，进行用户访谈。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4移动搜索与桌面搜索行为对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1用户与设备的交互行为分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "参考Amin 等7关于用户与设备交互行为的相关研究，对交互行为进行分类，移动设备上的交互行为共分为13种，即输入、删除、点击、截屏、滑动、选中、复制、粘贴、放大、缩小、拖电、双击、扫描；桌面设备上的交互行为共分为12种，即输入、删除、点击、截屏、滑动、选中、复制、粘贴、拖曳、双击、查找、扫描。统计三种设备上用户与设备交互行为(共14种)出现次数的平均值，结果如表3所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c68b797b807547c2a95bd4c51e2513c8d0175029c5f8dc12ec3ea0a52b57b46d.jpg",
+        "table_caption": [
+            "表3用户与手机、iPad、电脑交互行为平均次数统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>平均次数行为</td><td>输入</td><td>删除</td><td>点击</td><td>截屏</td><td>滑动</td><td>选中</td><td>复制</td><td>粘贴</td><td>拖电</td><td>双击</td><td>扫描</td><td>查找</td><td>放大</td><td>缩小</td></tr><tr><td>设备</td><td></td><td></td><td>52.9</td><td>1.6</td><td>41.3</td><td>1.3</td><td>1</td><td>0.9</td><td>0.2</td><td>0</td><td>0</td><td>0</td><td>0.6</td><td>0.2</td></tr><tr><td>手机 iPad</td><td>11.5 10.1</td><td>6.3 3.1</td><td>38.2</td><td>1.7</td><td>23.8</td><td>1.3</td><td>0.8</td><td>1</td><td>0</td><td>0.2</td><td>0.1</td><td>0</td><td>1.5</td><td>0.5</td></tr><tr><td>桌面</td><td>18.7</td><td>5.6</td><td>77.2</td><td>1.3</td><td>40.1</td><td>9.9</td><td>2.8</td><td>3.6</td><td>4.2</td><td>2.2</td><td>0.1</td><td>0.4</td><td>1</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索输入次数多于移动搜索，表明用户在桌面搜索中输入行为更频繁。联系用户访谈的内容分析原因:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)输入法特点的影响。移动搜索输入不方便，速度慢，增删不便，使得用户在输入时会更谨慎。而桌面搜索键盘输入更习惯、方便，用户在选择搜索策略，构造检索式和输人关键词时谨慎性就要逊于移动搜索，表现在输人上，桌面搜索输入行为比移动搜索输入行为次数更多。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)搜索结果编辑方式的影响。用户在移动搜索时对搜索结果的编辑多采用截屏的方式，而桌面搜索中截屏次数少于移动搜索，文字编辑的方式更多，这也会造成桌面搜索输入行为的次数增加。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索点击行为多于移动搜索。一方面，桌面搜索的点击行为包括的内容更丰富，如浏览器页面小工具更丰富，桌面搜索广告更多，增加点击行为。另一方面，单位时间交互行为次数的影响因素也是点击行为次数的重要影响因素。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索截屏行为次数少于移动搜索。原因分析如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）用户对截屏方式熟悉程度的影响。移动搜索设备和桌面搜索设备都有两种截屏方式。移动设备上的快捷键和功能键截屏方式都相对比较固定，用户日常生活中使用也较多，因此比较熟悉。桌面搜索设备上的快捷键随设备变化具有不一致性，且截屏工具多种多样，用户在对于实验设备不太熟悉时，可能会放弃截屏这种方式。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)用户对搜索结果编辑方式的影响。截屏在搜索实验中主要用于对搜索结果的编辑，桌面搜索进行文字编辑比移动搜索方便，而移动搜索利用截屏则比较方便，因此，截屏行为次数呈现出桌面搜索少于移动搜索的现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选中行为在移动搜索和桌面搜索中差异较大，这与选中行为的作用是有关系的。选中词句不仅可以用来复制，还具有突出显示的作用。一方面，桌面搜索复制行为的次数多于移动搜索。另一方面，桌面搜索由于屏幕展现信息量大，注意力容易被分散，不易抓住重点，用户多用选中词句的方式突出关键信息，这就造成选中行为在移动搜索和桌面搜索上的差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索查找行为多于移动搜索。查找行为主要有两种方式：快捷键 $\\mathrm { C t r l + F }$ ：浏览器自带工具。从用户访谈内容看，有用户知道移动搜索可以进行页内查找，但从未使用过。还有用户以为查找只能在桌面搜索中进行，移动搜索不具备这一功能。据笔者调查，移动搜索中可以进行查找，但只有某些浏览器具有此功能，如QQ 浏览器，因此，移动搜索的查找功能还不够完善，也缺乏广泛的认可度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "放大和缩小行为属于较典型的触屏行为，目前主要出现在移动搜索中，此次桌面搜索中不涉及触屏行为。移动搜索中的放大和缩小行为相对于桌面搜索表现出一定优势，便利了用户的搜索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 搜索时间分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)搜索总时长",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户在每种设备搜索时长的平均值、交互行为的总次数、单位时间内交互行为的次数统计结果如表4所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/992a6aa4bb8ddcfd079f586e1758dee9499562982e2fe344899ba739df077953.jpg",
+        "table_caption": [
+            "表4搜索时间及交互行为次数统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备</td><td>时长(分钟)</td><td>交互行为总次数单位时间交互行为次数</td></tr><tr><td>手机</td><td>13.7</td><td>112.9 8.3</td></tr><tr><td>iPad</td><td>9.9</td><td>80.8 8.1</td></tr><tr><td>桌面</td><td>19.8</td><td>173.4 8.9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用SPSS的非参数检验法检验三种设备上搜索时长和交互行为总次数的显著差异性，其渐进显著性值分别为0.003和0.002，小于参数0.05，因此具有统计学意义。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索时长大于移动搜索时长，表明搜索同样的主题时，桌面搜索比移动搜索更费时。联系用户访谈内容分析其原因：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 桌面搜索受广告和干扰信息的影响更多，增加用户桌面搜索的时间;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 移动搜索界面排版紧凑，易把握重点，桌面搜索界面空白多，且一次展现的信息量大，易错过有用信息，因此搜索时长增加;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 移动搜索网页反应速度更快，节约时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索单位时间交互行为次数多于移动搜索，表明桌面搜索需要更多更复杂的操作。联系用户访谈内容分析原因：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 受搜索设备的影响。桌面搜索可以同时做几件事情，如播放视频的同时，可以进行文字输入或是浏览搜索结果，等待Word页面打开的时候可以操作浏览器，客观上增加了操作的次数。移动搜索恰好相反，一次只能做一件事，如播放视频时，视频占据整个屏幕，不能进行其他操作;",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 受搜索界面功能的影响。桌面搜索浏览器提供更多小工具，桌面搜索标签切换方便、网址导航切换方便、搜索平台切换方便。这些交互行为主要为点击行为，需要时间短，无疑增加了桌面搜索单位时间交互行为的次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）搜索结果浏览时间",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对搜索结果的浏览主要通过滑动行为，每一个滑动的过程就是用户浏览的过程，因此滑动的时间长短也代表着用户浏览该页面或是该搜索结果的时间长短。滑动的时间为从滑动行为开始到进行下一个动作止所持续的时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "移动设备上的滑动行为包括上下滑动和左右滑动，电脑上则指鼠标滚动。统计三种设备上移动搜索和桌面搜索滑动行为的平均次数及时间，如表5所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c361bbd7fef014f0271c60a1fa7bf825bd133e1250239c00e657b56d915a9872.jpg",
+        "table_caption": [
+            "表5移动搜索和桌面搜索滑动行为统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备</td><td>滑动次数</td><td>总时长(秒)</td><td>平均时长(秒)</td></tr><tr><td>手机</td><td>41.3</td><td>294.6</td><td>7.1</td></tr><tr><td>iPad</td><td>23.8</td><td>139.8</td><td>5.9</td></tr><tr><td>桌面</td><td>40.1</td><td>294.7</td><td>7.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三种设备上滑动行为总时长渐进显著性值为0.019，具有显著性差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "用户在桌面搜索浏览时间长于移动搜索。一方面，桌面搜索内容更全面、详细、丰富，图文并茂，桌面搜索提示信息、相关推荐信息更多，因此用户用于浏览搜索结果的时间比移动搜索长。另一方面，桌面搜索干扰信息多，同样会影响到用户的浏览时间。此外，移动搜索界面排版紧凑，易把握重点，桌面搜索界面空白多，不易把握重点，因此用户在桌面搜索时用于浏览搜索结果的时间就要长于移动搜索。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3查询式构造行为分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）输入法",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "输入法在移动搜索中包括文字、语音、照片、二维码，桌面搜索中包括文字和图片。此次搜索实验中所有用户都使用文字输入，文字输入法历史最长，用户使用最习惯。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "搜索实验中，用户没有用到语音搜索。移动搜索中的照片搜索包括对照片中的文字识别和全图识别。有一位用户在移动搜索中使用了照片搜索，即对搜索任务进行拍照，选择要搜索的关键信息进行文字识别后搜索答案。这种搜索方式快捷，但搜索结果准确度不高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索中，有一位用户用到了图片搜索，即使用搜狗识图，将图片放到输入框里进行搜索。这种方式与移动搜索中的全图识别是一样的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)输入时长",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对用户在三种设备上的输入次数、输入总时长、平均时长、输入字符总长度、字符平均长度进行统计,并计算每种设备上的平均值，结果如表6所示",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "现代图书情报技术",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/91de53bf6aa4ab37d1174fd160dc0388c59e9064a714a06b063e614ecb8dad54.jpg",
+        "table_caption": [
+            "表6输入时长和字符长度统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备</td><td>输数</td><td>总时长</td><td>平均时长</td><td>字符总</td><td>字符平度均</td></tr><tr><td>手机</td><td>8.6</td><td>186.7</td><td>20.6</td><td>111.1</td><td>13.4</td></tr><tr><td>iPad</td><td>6.4</td><td>97.7</td><td>18.2</td><td>74.6</td><td>13.1</td></tr><tr><td>桌面</td><td>11.4</td><td>190.1</td><td>17.1</td><td>141.3</td><td>11.9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "移动搜索平均输入时长大于桌面搜索。移动搜索输入法增删不便，文字不能拖曳，因此导致输入时间长，且由于屏幕小，容易点错，导致时间上的浪费，这使得移动搜索平均输入时长大于桌面搜索。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索输入字符总长度大于移动搜索。这是由于输入次数上的差异导致的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索输人字符的平均长度小于移动搜索。用户桌面搜索输入更方便，查询重构也更方便，因此在构造检索式、输入检索词时谨慎性低于移动搜索，可以进行多次试探性的搜索。因此，输入次数多，平均输入字符长度小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3）查询式来源",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "统计用户输入的查询式来源，共分为任务描述、归纳概括、已有知识、系统提示、历史搜索5种。每种设备查询式来源所占比例如图1所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2d68c22e1efb28a29af84955f68a786a4333af05cb2736f90c21b96e2c1efb4.jpg",
+        "img_caption": [
+            "图1检索词来源比例分布",
+            "图2检索词种类出现次数比例分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“归纳概括\"指对任务描述或搜索结果进行概括，归纳出检索词。“归纳概括\"是最常见的检索词来源方式，移动搜索和桌面搜索中，“归纳概括\"所占比例都是最大的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "“任务描述\"指基本按照给定的搜索任务中的描述语言组织检索词。通常任务描述由句子组成，字符长度较大，其中包含一些不太重要的信息，因此不太适合直接作为检索词进行检索。桌面搜索检索词来源中，“任务描述\"所占比例比移动搜索小，这与上文中提到的桌面搜索输入的检索词平均长度小于移动搜索是一致的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "移动搜索中，“系统提示\"和\"历史搜索\"所占比例都要大于桌面搜索。说明用户进行移动搜索时，更喜欢通过系统的提示来节约输入上的时间。这与移动搜索输人法不方便有关系。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(4)查询式种类 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用户输入的查询式大致分为词语、词组、句子、图片。三种设备上查询式种类出现次数所占比例如图2所示：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14  \n210  \n8  \n6 T  \n4  \n2  \n0搜索 搜索 搜索 对实验 个人 个人结果 结果 结果 任务描述 已有 搜索的排序 的标题 的摘要 的理解 知识 经验■手机 ■iPad ■电脑",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "词语指单个的字或词，词组则是由两个或两个以上的词语构成，两种查询式在移动搜索中所占比例比桌面搜索都要高。词语、词组字符长度较小，输入方便，适合简单任务的搜索和有步骤的搜索。移动搜索输入不便，且搜索的信息多为简单的生活类信息，因此适合构造简短的查询式。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "句子在桌面搜索中所占比例高于移动搜索。虽然桌面搜索输入字符平均长度小于移动搜索，但桌面搜索输入字符长度的极差要大于移动搜索，这说明桌面搜索字符长度的分布不如移动搜索稳定。桌面搜索输入方便且屏幕大，句子的输入也比移动搜索更方便，因此句子在桌面搜索中出现次数更多。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5）查询重构 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "用户在检索一个主题时，往往要通过多次建构查询式才能完成检索任务。查询重构之间的关系，笔者参考了Soo等的研究，选取以下6种查询式重构关系：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 详细化重构：缩小检索范围，用\"S\"表示;  \n$\\textcircled{2}$ 粗略化重构：扩大检索范围，用\"G\"表示;  \n$\\textcircled{3}$ 平行化重构：平行关系，用\"P\"表示;$\\textcircled{4}$ 形式化重构：查询式形式改动，用\"F\"表示;  \n$\\textcircled{5}$ 重复化重构：重复查询式，用\"R\"表示;  \n$\\textcircled{6}$ 动态化重构：不确定模式，用\"D\"表示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "统计三种设备上6种查询重构关系各自单独出现的频率，如表7所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/02645852eaeb781b2f90750bae1cbab0b32d6746c2e3080a997b5cf0b4ee4278.jpg",
+        "table_caption": [
+            "表7单个查询重构关系统计"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>设备</td><td>s</td><td>G</td><td>P</td><td>F</td><td>R</td><td>D</td></tr><tr><td>手机</td><td>26</td><td>15</td><td>11</td><td>7</td><td>0</td><td>61</td></tr><tr><td>iPad</td><td>10</td><td>4</td><td>0</td><td>3</td><td>4</td><td>33</td></tr><tr><td>桌面</td><td>21</td><td>17</td><td>9</td><td>10</td><td>3</td><td>73</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体来说，桌面搜索中查询重构频率大于移动搜索，说明用户在桌面搜索时构造查询式随意性大于移动搜索，以至于需要多次重构才能完成检索任务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "详细化重构和平行化重构在手机搜索中出现频率大于桌面搜索。移动搜索设备屏幕小，输人不便，用户在初次构造查询式时，会尽量简洁，当无法检索到相关信息时才会更加具体地描述从而缩小检索范围。桌面搜索详细化重构频率小，并不代表用户构造检索式更谨慎详细，而是桌面搜索存在更复杂的重构关系组合，重构次数最多的达到18次，而移动搜索重构次数最多的为14次，因此重构关系“S\"较多出现在移动搜索中反而表明移动搜索中用户构造的查询式更有效，很多用户只需一次详细化重构就可完成检索任务。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.4搜索结果处理行为分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1）搜索结果的判断 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用户判断搜索结果的相关性主要根据搜索结果的排序、搜索结果的标题、搜索结果的摘要、对任务描述的理解、个人已有知识、个人检索经验等信息。统计根据这些信息判断搜索结果的用户数量，如图3所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/99e0b846f62f6ff3d89207fdd5819b2933b7cba4c7a830b62c47d5a5c3334678.jpg",
+        "img_caption": [
+            "图3判断搜索结果的相关信息统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "桌面搜索中，除根据\"搜索结果的摘要\"判断搜索结果的用户少于iPad搜索，其他信息的用户数量都要大于或等于移动搜索，说明在桌面搜索中用户更加充分地综合了各种信息进行搜索结果的判断。这与用户提到的“桌面搜索的结果数量更多”、“桌面搜索结果更丰富、详细、图文并茂”、“桌面搜索广告多、干扰信息多\"等因素有关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2）搜索结果的编辑",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "用户对搜索结果的编辑主要有截图、文本编辑、发送邮件、分享到社交网络等方式。不同方式的用户数量如图4所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/db4bfc8bb4c2fd9a2cce6c12ed35c6fa8d36fac6e980bda549bccad5c0fb5d1d.jpg",
+        "img_caption": [
+            "图4搜索结果的编辑方式统计"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "移动搜索和桌面搜索中，用户对搜索结果编辑的差异主要表现在屏幕截图和文本编辑上，原因在于截屏和文本编辑在移动搜索和桌面搜索中便捷性的差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本次实验设计中不同搜索主题的设置主要目的是排除不同信息种类对实验数据的影响。从实验数据来看，商务类信息平均搜索时长小于新闻资讯和生活类信息，这与搜索主题的性质和难易程度有一定关系，但因为三种设备上各个主题的分布都是平均的，所以不影响实验结果的准确性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过移动搜索与桌面搜索行为的对比分析，可以发现移动搜索与桌面搜索的行为差异如表8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "此外，在对比分析数据的过程中还可以发现,iPad搜索统计的数据基本是最小的，如搜索时长、浏览时间、输人时长、输入字符长度等数据都是手机搜索和桌面搜索中最小的。在搜索结果准确率的分析中,iPad搜索准确率处于中间位置，但用户对搜索结果满意度调查中，选择对iPad搜索结果非常满意的用户是最多的。可见，iPad搜索在搜索功能等方面结合了手机搜索和桌面搜索的优势，虽然准确率低于桌面搜索，但用户体验很好，用户满意度高。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/155cc264b335d0303cf26a9d69b21b82edf0d1dfe65a7ca1facc92a43e12455a.jpg",
+        "table_caption": [
+            "表8移动搜索与桌面搜索行为差异"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">对比项</td><td>移动搜索</td><td>桌面搜索</td></tr><tr><td colspan=\"2\">搜索平台</td><td>更习惯使用APP搜索，搜索引擎主要为百度</td><td>多使用搜索引擎，搜索引擎使用种类较多</td></tr><tr><td colspan=\"2\">搜索信息种类</td><td>主要为生活类信息</td><td>主要为生活类信息和学术类信息</td></tr><tr><td colspan=\"2\">搜索场合</td><td>时间碎片化、场所不太固定</td><td>时间较充裕、场所固定</td></tr><tr><td rowspan=\"8\">搜索过程</td><td>搜索用时</td><td>用时较少</td><td>用时更多</td></tr><tr><td>交互行为</td><td>次数较少</td><td>次数较多</td></tr><tr><td>浏览时间</td><td>浏览时间短</td><td>浏览时间长</td></tr><tr><td>查询输入</td><td>平均输入时间长，输入次数少，平均字符长度长</td><td>平均输入时间短，输入次数多，平均字符长度短</td></tr><tr><td>查询式来源</td><td>“系统提示\"和\"历史搜索\"多</td><td>“系统提示\"和\"历史搜索\"少</td></tr><tr><td>查询式种类</td><td>句子较少</td><td>句子较多</td></tr><tr><td>高级检索</td><td>使用较少</td><td>使用较多</td></tr><tr><td>结果判断</td><td>对各类信息综合较少</td><td>更充分综合各类信息</td></tr><tr><td>结果编辑</td><td>截屏方式多</td><td>文字编辑多</td></tr><tr><td colspan=\"2\">用户体验</td><td>差异大 差异小</td></tr><tr><td colspan=\"2\">搜索准确率 较低</td><td>较高</td></tr><tr><td colspan=\"2\">用户满意度 较低</td><td>较高</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对比研究移动搜索和桌面搜索行为，可以发现移动搜索和桌面搜索各自具有优缺点，从而取长补短。桌面搜索历史悠久，更具优势，对移动搜索的完善具有借鉴意义。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）在搜索界面上，移动搜索要尽量简洁，个性化定制功能更完善；将一些重要的功能键呈现在界面，方便用户使用，如截图工具和复制链接。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）输入法要提供用户可选的文字输入法，方便用户使用；要提高语音照片搜索的准确度，发挥移动搜索在语音照片搜索上的优势，吸引更多用户；增加图片搜索功能，在用户搜索过程中可随时对图片进行识别；增加文字拖电功能，减少用户修改检索词速度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)搜索功能上，完善页内查找功能，改进窗口缩放功能，改进视频播放功能，让用户可以“一心二用”。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "笔者在研究移动搜索与桌面搜索行为差异的基础上，未来将继续研究移动搜索的情景、任务等，希望对移动搜索这一领域有更深人的了解。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] KimL,Albers MJ.Web Design Issues When Searching for InformationUsing HandheldInterfaces[J]. Technical Communication,2002,49(3):314-329.   \n[2] Kamvar M,Kellar M,Patel R,et al.Computers and iPhones and Mobile Phones,Oh My!:A Logs-based Comparison of Search Users on Different Devices [C].In: Proceedings of the 18th International Conference on World Wide Web.ACM, 2009:801-810.   \n[3] Kamvar M,Baluja S.ALarge Scale Study ofWireless Search Behavior: Google Mobile Search [C].In: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.ACM,2006: 701-709.   \n[4] 杨海波，赵文龙，黄成．移动搜索与桌面搜索比较研究[J]. 医学信息学杂志，2012，33(4):35-38.(Yang Haibo，Zhao Wenlong，Huang Cheng.A Comparative Study on Mobile Search and Desktop Search [J]．Journal of Medical Informatics,2012,33(4):35-38.)   \n[5] Albers MJ,Kim L.User Web Browsing Characteristics Using PalmHandheldsforInformation Retrieval [C].In: Proceedings of IEEE Professional-Communication-Society International Professional Communication Conference/ACM Special Interest Group on Documentation Conference.New York:IEEE,2000.   \n[6] Carpineto C,Mizzaro S,Romano G, et al.Mobile Information Retrieval with Search Results Clustering:Prototypes and ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "毕仁敏：文献调研，实验实施，论文起草。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Evaluations [J]. Journal of the American Societyfor Information Science and Technology,20o9,60(5): 877-895.   \n[7] Amin A,Townsend S,Van Ossenbruggen J,et al.Fancy a Drink in Canary Wharf?:A User Study on Location-based Mobile Search [C].In: Proceedings of the 12th IFIP International Conference on Human-Computer Interaction. SpringerBerlinHeidelberg,2009:736-749.   \n[8] Soo Y R， Hong X. Analysis of Multiple Query Reformulations on the Web: The Interactive Information Retrieval Context [J]. Information Processingand Management,2006,42(3):751-768. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "支撑数据见期刊网络版http://www.infotech.ac.cn。  \n[1]吴丹，毕仁敏.sysj.doc.实验统计数据.  \n[2]吴丹，毕仁敏.bjzlwj.doc.背景资料问卷.  \n[3]吴丹，毕仁敏.sywj.doc.实验问卷.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "吴丹：确定选题，提出研究思路，设计实验以及修改论文;",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2015-08-13   \n收修改稿日期:2015-10-04 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mobile and Desktop Search Behaviors: A Comparative Study ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wu DanBi Renmin (School of Information Management, Wuhan University, Wuhan 43o072, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Objective] This study investigated the advantages of desktop search for the purpose of improving mobile search services.[Methods] We analyzed the diferences between mobile and desktop search behaviors through user search experiment.[Results] The mobile and desktop search behaviors are diferent in search platforms,types of searched information,search situation,search process,user experience,search result precision, and user satisfaction,etc.[Limitations] The types and number of experimental population are limited,thus, further studies are needed to generalize our findings to a larger population.[Conclusions] Both mobile search and desktop search have advantages and disadvantages.However,desktop search has more advantages over its mobile counterpart. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Mobile searchDesktop search Searchbehavior ",
+        "page_idx": 7
+    }
+]

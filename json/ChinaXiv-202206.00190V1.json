@@ -1,0 +1,570 @@
+[
+    {
+        "type": "text",
+        "text": "喀斯特季节性雨林优势树种叶片微形态与光合生理特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "及其生态适应性",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "董燕平1,2，王斌2\\*，韦玉莲1,2，何凤2.3，陆芳²，李冬兴²， 黄甫昭²，郭屹立²，向悟生²，李先琨1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.广西师范大学生命科学学院，广西桂林541006；2．广西壮族自治区中国科学院广西植物研究所广西喀斯特植物保育与恢复生态学重点实验室，广西 桂林 541006;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3．桂林理工大学旅游与风景园林学院，广西桂林，541006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为研究喀斯特季节性雨林优势树种对异质性生境条件的适应策略，以广西弄岗原生性森林7个优势树种为对象，测定各树种成年个体叶片微形态指标及生长季光合生理特征，探讨树种叶片结构功能对喀斯特峰丛山地异质性生境的响应规律。结果表明：（1）沿喀斯特地貌部位的洼地-中坡-山顶生境梯度，树木的叶片紧密度、栅栏组织厚度、角质层厚度、上表皮厚度等9个微形态指标呈现显著上升趋势，叶片疏松度呈现显著下降趋势；（2）沿洼地-中坡-山顶生境梯度，树木的光补偿点、暗呼吸效率、最大蒸腾速率等呈现显著上升趋势;而最大水分利用效率、最大胞间 $\\mathrm { C O } _ { 2 }$ 浓度、表观量子效率等呈现显著下降趋势；（3）叶片紧密度与光合能力、蒸腾能力等相关指标表现为显著正相关；叶片疏松度与这两类指标表现为显著负相关。综上所述，喀斯特季节性雨林优势树种叶片功能性状存在光合效率和耐旱性之间的权衡，洼地生长的树木具有显著的弱光适应特征，中坡生长的树木表现较广的生境适应范围，山顶分布的树种受强光、高温和裸岩限制，表现出较强的干旱适应特征以及保守的生态适应策略。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：喀斯特季节性雨林，生境异质性，叶片微形态，光合特性，生态适应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Leaf micromorphological, photosynthetic characteristics and their ecological adaptability of dominant tree species in a ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "karst seasonal rain forest in Guangxi, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DONG Yanping 1.2, WANG Bin ²\\*, WEI Yulian 1.2, HE Feng 2.3, LU Fang ², LI Dongxing ², HUANG Fuzhao ², GUO Yili ², XIANG Wusheng ²， LI Xiankun1,2 (1. College ofLife Sciences, Guangxi Normal University, Guilin 541006, Guangxi, China; 2. Guangxi Key Laboratory of Plant Conservation and Restoration Ecology in Karst Terrain, Guangxi Institute of Botany, Guangxi Zhuang Autonomous Region and Chinese Academy of 基金项目：国家自然科学基金项目（31660130，31800371，32071540）；广西师范大学珍稀濒危动植物生 态与环境保护教育部重点实验室研究基金（ERESET2021k03）［Supportedby National Natural Science Foundation of China (31660130,31800371,32071540); Key Laboratory of Ecology of Rare and Endangered Speciesand Environmental Protection(GuangxiNormal University)，Ministryof Education，China （ERESET2021k03）]。 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "第一作者：董燕平（1995-），硕士研究生，研究方向为植物学，（E-mail）dypl20437@163.com。  \n\\*通信作者：王斌，硕士研究生，助理研究员，主要从事植物生态学研究，（E-mail）wangbinzjcc@qq.com。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sciences, Guilin 541006, Guangxi, China; 3. College of Tourism & Landscape Architecture, Guilin University of technology,Guilin 541006,Guangxi, China) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In order to study the adaptive strategy of dominant tree species in a karst seasonal rain forest to heterogeneous habitat conditions, seven dominant tree species in a virgin forest in Nonggang, China, were taken as the research objects.The leaf micromorphological indexes of adult individuals of each tree species and the photosynthetic indexes of leaves in the growing season of these trees were measured. The ecological adaptability of these leaf structural and functional indexes to the habitat gradient in the karst peak cluster depression landform was tested. The results were as follows: (1) Along the karst habitat gradient from depresson to peak, nine leaf micro-morphological indexes， such as leaf compactness， palisade tissue thickness， cuticle thickness,and upper epidermis thickness,showed a significant upward trend, while leaf looseness showed a significant downward trend. (2) Along the karst habitat gradient from depression to peak, the light compensation point, dark respiration efciency, and maximum transpiration rate of these leaves all showed a significant upward trend. However, the maximum water use eficiency, the maximum intercellular $\\mathrm { C O } _ { 2 }$ concentration， and the apparent quantum efficiency showed a significant downward trend. (3) Leaf compactness was positively correlated with photosynthetic and transpiration ability indexes. Leaf looseness was negatively correlated with these two types of indexes.The above results show that there is a trade-off relationship between photosynthetic efficiency and drought tolerance in leaf functional traits of dominant tree species in the karst seasonal rain forest. Trees distributed in the depressions have obvious adaptive characteristics to weak light. Trees distributed on the middle slopes show extensive habitat adaptability. Due to the limitation of strong light, high temperature and exposed rock, the trees distributed on the mountain peaks show strong drought adaptability and conservative ecological adaptive strategies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: karst seasonal rain forest, habitat heterogeneity， leaf micromorphology, photosynthetic characteristics, ecological adaptation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物功能性状(functional trait)是指能够响应生存环境变化且影响植物生态功能的植物核心属性（刘晓娟和马克平，2015）。植物功能性状间存在着普遍的权衡关系(trade-off)，也被称为生态策略(ecological strategy)，与具体生境条件相适应（Wright et al.，2004；Li et al.,2021）。在干旱环境下植物生态策略之一是维持光合作用效率与水力运输安全之间的权衡。前者与植物的光资源竞争能力、固碳能力等密切相关，后者与植物抗旱能力、元素耐受能力等密切相关。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶片是植物进行光合作用和水分运输等生理活动的重要器官（李耀琪和王志恒，2021)。叶片解剖结构性状与植物光合作用效率等密切相关（Tian etal.,2016；李冬林等，2019）。叶片表皮细胞为光进入叶肉提供了窗口，栅栏组织包含大量叶绿体有利于最大化吸收光能，海绵组织具有较大细胞间隙可以改善气体运输。叶片水力安全性状与植物耐旱性密切相关（刘金玉等，2012；潘莹萍 等,2014）。当水分供应无法满足植物蒸腾时，可能引起叶片水分运输通道坍塌和栓塞，威胁叶片水力运输安全。叶片水力安全性状，是维持植物叶片水分运输安全的功能性状，涉及植物叶片机械强度和叶脉导管抗坍塌能力等，与叶片硬度、细胞壁厚度、细胞排列紧密度、单位面积叶片重量等相关。此外，叶片气孔性状也与植物生境适应策略密切相关，稳定指标包括气孔大小、气孔密度、气孔开度等（Sun etal.，2021）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物可通过关键功能性状差异来应对环境变化，实现植物光合作用效率和水分运输安全之间的权衡（陈莹婷等，2014；Lietal.,2022）。在湿润地区，植物可能更注重光合作用效率，积累生物量，提高个体竞争能力(孙梅等，2017；张小燕等，2021)。研究表明，植物的比叶面积、林冠层高度、光合能力、气孔导水率等相关性状和降雨量具有正相关性。在干旱地区，植物可能更注重水力安全问题，增强抗旱型性状，维持个体生存能力（谭凤森等，2010;Zhang etal.,2021）。耐旱型植物叶片通常具有较大的叶片硬度、角质层厚度、叶肉组织紧密度、栅栏组织比例、气孔密度、叶氮磷含量、叶片暗呼吸速率等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "喀斯特季节性雨林是在热带喀斯特地质背景下发育形成的独特森林植被，具有生境异质性强烈、群落类型多样、特有物种丰富等特点(李先琨等，2003；苏宗明等，2014；刘长成等，2021)。广西弄岗国家级自然保护区保存着典型的原生性喀斯特季节性雨林，属于典型的喀斯特峰丛洼地地貌，以\"峰丛—洼地—峰丛\"结构为典型特征，不同地貌部位生境条件具有强烈异质性，从洼地到山峰方向上的光照、水分、土壤条件、岩石裸露率等环境因子都会发生剧烈变化（王斌等，2014；郭屹立等，2016；向悟生，2018）。植物为适应喀斯特异质性生境选择不同生存策略，在峰丛洼地梯度上形成生态位分化，不同物种聚集分布在特定喀斯特地貌部位，在局域尺度上呈现出丰富的群落类型（郭柯等，2011；陈洪松等，2013；曹坤芳等，2014；黄甫昭等，2021）。为了解释这种植物沿喀斯特生境梯度形成的生态位分布格局以及物种生存策略，学者们从不同角度开展研究。Zhang 等(2021)发现喀斯特峰丛洼地植物枝叶水力结构特征有助于解释植物生态位分化模式。黄甫昭等(2019）发现基于稳定性同位素技术的叶片水分利用效率在不同喀斯特生境代表树种中具有差异性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "然而，在喀斯特季节性雨林中，优势树种叶片器官的结构功能如何协同变异，实现光合作用效率与水力运输安全之间的权衡，以应对喀斯特不同地貌部位的干旱环境梯度？目前尚未明确。不同生境类型的群落优势树种可以更好维持资源竞争力和耐旱能力之间的权衡，以适应喀斯特异质性生境梯度。因此，本文以广西弄岗原生性森林上层优势树种为研究对象，测定树木叶片的微形态结构与光合生理特征等指标，结合每一株树木个体周围的野外环境因子，来探讨优势树种生存策略及其对喀斯特异质生境的响应。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究区概况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文以广西弄岗原生性喀斯特季节性雨林典型优势树种为研究对象。研究区位于广西弄岗国家级自然保护区内，地理位置 $( 1 0 6 ^ { \\circ } 4 2 ^ { \\prime } 2 8 ^ { \\prime \\prime } \\mathrm { ~ \\_ ~ } 1 0 7 ^ { \\circ } 0 4 ^ { \\prime } 5 4 ^ { \\prime \\prime } \\mathrm { E }$ ， $2 2 ^ { \\circ } 1 3 ^ { \\prime } 5 6 ^ { \\prime \\prime } - 2 2 ^ { \\circ } 3 3 ^ { \\prime } 0 9 ^ { \\prime \\prime } \\mathrm { N } )$ ，保护区为典型热带季风气候，年均温 $2 2 \\ \\mathrm { { ^ \\circ C } }$ ，年最低温和最高温分别为 $1 3 ^ { \\circ } \\mathrm { C }$ 和 $3 9 \\mathrm { ~ \\textdegree ~ }$ ，年降水量在 $1 \\ 1 5 0 { \\mathrm { - } } 1 \\ 5 5 0 \\ \\mathrm { m m }$ ，雨季集中在5一9月，11月到次年2月为旱季，有明显干湿季节交替。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据广西弄岗喀斯特季节性雨林的土壤及植被分布规律，该森林植被的生境类型大致划分为3类（苏宗明等，1998）： $\\textcircled{1}$ 洼地；水化棕色石灰土连续分布，土层厚度达 $6 0 \\ \\mathrm { c m }$ 以上，受山体遮挡，郁闭度高，光照时间短，岩石分布不均匀，常年保持湿润，季节降雨时会有水淹可能；分布着由喜湿耐阴性的树种组成的典型季节性雨林，优势树种为中国无忧花（Saraca dives）、大叶风吹楠（Horsfieldia kingii）、对叶榕（Ficus hispida）等； $\\textcircled{2}$ 中坡;棕色石灰土斑块分布，土层厚度 $3 0 { \\sim } 6 0 ~ \\mathrm { c m }$ ，光照充足，岩石裸露 $70 \\%$ 左右，湿度适中；优势树种为蚬木（Excentrodendron tonkinense）、金丝李（Garcinia paucinervis）、肥牛树（Cephalomappa sinensis）、海南椴（Diplodiscus trichospermus）等； $\\textcircled{3}$ 山顶；岩石裸露达$90 \\%$ 以上，岩隙有黑色石灰土分布，土层厚度 $< 3 0 \\mathrm { c m }$ ，全天候阳光直射，夏季地表温度高可 $6 0 \\ \\mathrm { { ^ \\circ C } }$ ；分布着由耐旱性极强的树种组成的山顶矮林，优势树种为毛叶铁榄（Sinosideroxylonpedunculatum）、黄梨木（Boniodendron minus）、清香木（Pistacia weinmanniifolia）等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究团队于2011年建立广西弄岗喀斯特季节性雨林 $1 5 \\mathrm { h m } ^ { 2 }$ 动态监测样地（王斌等，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2014）。弄岗样地内包含一个小型山峰和一个完整的洼地，具有\"洼地-中坡-山顶\"喀斯特变异生境梯度，海拔范围 $1 8 4 { \\sim } 3 7 4 \\mathrm { m }$ ，平均海拔 $2 6 2 . 7 \\mathrm { m }$ ，平均坡度 $4 1 . 7 ^ { \\circ }$ ，平均岩石裸露度 $6 8 . 8 \\%$ 。样地内有 $\\mathrm { D B H } \\geqslant 1 ~ \\mathrm { c m }$ 的木本植物68101株，隶属 223 种157属56科，每株树木个体具有树木编号、物种名称、胸径、空间坐标、生长动态、周围地形因子等数据，样地植被包括8个群落类型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表1弄岗样地内7个优势树种90株采样树木周围的地形因子（平均值±标准差）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/019c63f1b9a659bc363a14eb153fe638112f9752c3bcd12b7204f0e5f06ed433.jpg",
+        "table_caption": [
+            "Table 1 Topographic factors (mean± standard deviation) around 9O sample trees of 7 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">dominant tree species in Nonggang plot</td></tr><tr><td>编号 No.</td><td>树种 Species</td><td>生境 Habitat</td><td>海拔 Elevation</td><td>坡度 Slope</td><td>岩石裸露度 Rock bareness</td><td>地形湿润度 Topographic wetness</td><td>干旱度 Altitude above</td></tr><tr><td>sp1</td><td>对叶榕</td><td>洼地Valley</td><td>（m） 185.4±1.1</td><td>13.4±4.4</td><td>rate(%) 33.3±29.3</td><td>index 12.8±1.3</td><td>channel -0.5±0.8</td></tr><tr><td>sp2</td><td>Ficus hispida 中国无忧花</td><td>洼地 Valley</td><td>210.3±7.3</td><td>32.0±4.8</td><td>69.1±21.1</td><td>7.7±0.7</td><td>-0.7±2.2</td></tr><tr><td>sp3</td><td>Saraca dives 金丝李</td><td>洼地 Valley</td><td>212.0±4.4</td><td>35.2±3.2</td><td>83.4±14.9</td><td>7.5±0.5</td><td>-0.5±1.3</td></tr><tr><td></td><td>Garcinia paucinervis 海南椴</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>sp4</td><td>Diplodiscus trichospermus 金丝李</td><td>中坡 Slope</td><td>262.5±25.3</td><td>46.9±8.7</td><td>65.7±17.8</td><td>6.5±0.7</td><td>3.7±6.9</td></tr><tr><td>sp5</td><td>Garcinia paucinervis 蚬木</td><td>中坡 Slope</td><td>268.2±21.0</td><td>43.5±8.5</td><td>76.0±10.8</td><td>7.3±0.6</td><td>-0.7±1.4</td></tr><tr><td>sp6</td><td>Excentrodendron tonkinense 金丝李</td><td>中坡 Slope</td><td>293.6±44.0</td><td>38.3±11.2</td><td>70.8±29.8</td><td>6.7±1.3</td><td>0.2±2.4</td></tr><tr><td>sp7</td><td>Garcinia paucinervis 黄梨木</td><td>山顶 Hilltop</td><td>345.4±5.7</td><td>52.3±3.6</td><td>68.0±16.5</td><td>5.6±0.4</td><td>1.7±1.6</td></tr><tr><td>sp8</td><td>Boniodendronminus 毛叶铁榄</td><td>山顶 Hilltop</td><td>352.3±3.6</td><td>50.5±5.7</td><td>91.5±6.1</td><td>5.2±0.2</td><td>9.2±3.9</td></tr><tr><td>sp9</td><td>Sinosideroxylon pedunculatum</td><td>山顶 Hilltop</td><td>353.4±7.4</td><td>59.3±11.0</td><td>96.8±3.0</td><td>5.0±0.3</td><td>10.5±5.1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2试验方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2.1叶片样品采集",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "沿弄岗 $1 5 \\mathrm { h m } ^ { 2 }$ 样地内\"洼地-中坡-山顶\"坡面，在3个典型生境类型中，分别选择3种群落上层优势树种。每个树种选择10株成熟树木，每个树木采集5片成熟叶片。其中，洼地优势树种，对叶榕、中国无忧花、金丝李（洼地）；中坡优势树种，海南椴、金丝李（中坡）、蚬木；山顶优势树种，金丝李（山顶）、黄梨木、毛叶铁榄。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体野外采样步骤为：选择胸径 ${ > } 1 0 \\ \\mathrm { c m }$ 的成熟个体，使用高枝剪沿4不同方位剪取无病虫害的林冠层枝条，摘取枝条中部的成熟功能叶片，每棵树选取的叶片数不少于5片，避开主脉，在中脉至叶缘1/2 处剪取若干 $0 . 5 \\mathrm { c m } { \\times } 0 . 5 \\mathrm { c m }$ 的小块，立即投入装有体积分数 $2 . 5 \\%$ 戊二醛液试管固定，带回实验室进行乙醇逐级脱水、临界点干燥以及镀金，真空电子扫描电镜（ZEISSEVO18）下观察拍照。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "使用AxioVision SE64Rel.4.9.1扫描电镜配套软件，测定叶片厚度（leaf thickness， $L _ { t } ^ { }$ ）、角质层厚度（cuticle thickness， $C _ { t }$ ）、上表皮厚度（epicuticle thickness， $E _ { t }$ ）、下表皮厚度(hypodermis thickness, $H _ { t }$ ）、栅栏组织厚度（palisade tissue thickness， $P _ { t }$ ）、海绵组织厚度（spongy tissue thickness， $S _ { t }$ ）、气孔长度（stomatal length）、气孔宽度（stomatalwidth）、气孔个数（stomatalnumber）等，计算栅海比 $( P _ { t } / S _ { t } )$ 、叶片紧密度（satio ofPalisade/leafthickness, $P _ { t } / L _ { t } )$ 、叶片疏松度（ratio of spongy/leaf thickness， $S _ { t } / L _ { t } )$ 、气孔开度（stomatalaperture, $S A$ ）、气孔密度（stomataldensity, $\\boldsymbol { S D }$ ）等。其中，栅海比 $\\scriptstyle : = ,$ 栅栏组织厚度/海绵组织厚度，叶片紧密度 $\\scriptstyle \\mathbf { \\equiv } ,$ 栅栏组织厚度/叶片厚度，叶片疏松度 $\\varXi$ 海绵组织厚度/叶片厚度，气孔开度 $\\dot { \\bf \\Phi } = { \\bf \\Phi }$ 气孔宽度/气孔长度，气孔密度 $\\vdots = \\vdots$ 视野下气孔数/视野下的面积。每个叶片剪成小块测定叶片微形态性状，随机重复测定5次以上。因此，每个叶片微形态指标，共有2250个数据（3个生境 $\\times 3$ 个树种 $\\times 1 0$ 株树 $\\times 5$ 片成熟叶片 $\\times 5$ 次重复 $= 2 2 5 0$ 个数据）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "记录每株树木个体在弄岗 $1 5 \\ \\mathrm { H m } ^ { 2 }$ 样地中的编号，查找每株树木周围的地形因子数据（表1）。干旱度指数越大，代表地形条件越干旱；湿润指数越大，代表地形条件越潮湿（郭屹立等，2016）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2.2光合生理指标的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选择喀斯特季节性雨林生长季，于2021年9月下旬至10月上旬（天气晴朗）每天9:00-12:00，测定不同生境类型优势树种的光合生理指标。自然光诱导 $0 . 5 \\substack { - 1 \\mathrm { ~ h ~ } }$ 后，采用LI-6400XT便携式光合测定系统进行离体测定（郑威等，2017）， $\\mathrm { C O } _ { 2 }$ 浓度控制在（ $4 0 0 { \\pm } 2 \\ \\cdot$ ） $\\mu \\mathrm { m o l } \\cdot \\mathrm { m o l } ^ { - 1 }$ ，光合有效辐射的梯度设置为2000、1800、1500、1200、1$0 0 0 , \\ 8 0 0 , \\ 5 0 0 , \\ 3 0 0 , \\ 2 0 0 , \\ 1 5 0 , \\ 1 0 0 , \\ 5 0 , \\ 2 0 , \\$ 和 $0 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ 下测定，设置温度 $2 5 \\ \\mathrm { { ^ \\circ C } }$ 。每个树种测定3-5 株的净光合速率(net photosynthesis rate， $P _ { n _ { - } }$ ）、气孔导度(stomatalconductance， $G _ { s _ { \\lambda } } ^ { ~ \\cdot }$ 和胞间 $\\mathrm { C O } _ { 2 }$ 浓度(intercellular $\\mathrm { C O } _ { 2 }$ concentration， $\\mathbf { \\nabla } C _ { i } ^ { \\cdot }$ ）、气孔限制系数(stomatal limitation coefficient， $L _ { s }$ )等，然后用模型拟合光响应曲线，得到光响应曲线的表观量子效率(apparent quantum efficiency， $A Q E )$ 、光饱和点(light saturation point,$L S P$ ）、最大净光合速率(maximumnetphotosynthetic rate， $P _ { n \\cdot m a x } )$ 、光补偿点(lightcompensation point， $L C P _ { \\it 3 } ^ { \\prime }$ ）、暗呼吸速率(darkrespirationrate， $R _ { d _ { \\star } }$ 、最大蒸腾速率(maximum transpiration rate， $T _ { r \\cdot m a x } )$ ，并计算叶片水分利用效率（water use efficiency，WUE），与此同时记录下当时仪器测到的空气温度，以便后续分析生境温度对光合的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "光响应曲线采用直角双曲线修正模型对光响应曲线进行拟合。",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { P n ( I ) = Q \\frac { 1 - \\beta I } { 1 + \\gamma I } I - R _ { d } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { n }$ 净光合速率；I光合有效辐射；Q 光响应曲线的初始斜率； $P _ { n m a x }$ 最大净光合速率； $R _ { d }$ 暗呼吸速率； $\\gamma$ 光饱和项，其值为 $\\mathbb { Q } / P _ { n m a x }$ 。  \n水分利用效率（ $\\mu \\mathrm { m o l } { \\cdot } \\mathrm { m m o l } ^ { - 1 }$ ）的公式为：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { W U E = \\frac { P _ { n } } { T _ { r } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { s } = 1 - { C _ { i } } _ { { \\Big / } _ { C _ { a } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $L _ { s }$ 表示气孔限制值， $C _ { i }$ 表示胞间 $\\mathrm { C O } _ { 2 }$ 浓度， $C _ { a }$ 表示大气 $\\mathrm { C O } _ { 2 }$ 浓度。 $L _ { s }$ 能够反映叶片进行光合作用的气孔限制（姚庆群和谢贵水，2005）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "使用光合计算软件4.1.1（叶子飘等，2016)拟合光响应曲线以及光合参数，使用R4.2.0软件（RCore Team，2022）进行数据统计及绘图。叶片微形态、光合生理指标等和海拔因子间使用一元线性回归分析；叶片微形态指标与光合生理指标间使用 Pearson 相关性分析。箱线图中从下至上的4条线段，分别代表原始数据的 $2 . 5 \\%$ 、 $2 5 \\%$ 、 $50 \\%$ 、 $7 5 \\%$ 、 $9 7 . 5 \\%$ 分位数的数值，箱线图中的圆圈代表偏离 $2 . 5 \\% \\sim 9 7 . 5 \\%$ 范围的数值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1不同生境树种叶片微形态",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对7个优势树种叶片剖面结构进行了观察，发现均为异面型叶，表明叶片在解剖结构上具有明显的栅栏组织、海绵组织区分（图1）。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e4cbf641776989c7eba41d926c16b8ffbc2e77e126cd7682e71777a48403495.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "sp1.对叶榕；sp2.中国无忧花；sp3 金丝李（洼地）；sp4.海南椴；sp5.金丝李（中坡）；sp6.   \n蚬木；sp7.金丝李（山顶）；sp8.黄梨木；sp9.毛叶铁榄。下同。 Pt.Palisade tissue thickness; St. Spongy tissue thickness; sp1.Ficus hispida; sp2. Saraca dives; sp3.   \nGarcinia paucinervis (Valley); sp4.Diplodiscus trichospermus; sp5. Garcinia paucinervis (Slope); sp6.   \nExcentrodendron tonkinense; sp7. Garcinia paucinervis (Hilltop); sp8. Boniodendron minus; sp9.   \nSinosideroxylon pedunculatum var. pubifolium. The same below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图17个优势种叶片横切面（放大200倍，标尺 $2 0 ~ \\mu \\mathrm { m }$ ）Fig.1Leaf cross section of seven dominant species (2oo-fold magnification, scale $2 0 ~ \\mu \\mathrm { m }$ ）",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "不同树种的叶片解剖特征参数具有变异性 (图2)。在山顶优势种中，毛叶铁榄具备最强的耐旱叶片结构，叶片厚度、角质层厚度、上表皮厚度等数值最大，分别为（ $2 1 9 . 1 1 { \\scriptstyle \\pm 2 6 . 5 5 }$ ）$\\mu \\mathrm { m }$ （平均值 $\\pm$ 标准差）、（ $( 7 . 2 7 { \\pm } 1 . 1 2 ) \\$ ） $\\mu \\mathrm { m }$ 、 $( 4 4 . 0 1 \\pm 7 . 2 5 ) \\$ ） $\\mu \\mathrm { m }$ ；黄梨木耐旱性次之。在中坡优势种中，蚬木表现较强的耐旱性，其下表皮厚度、栅栏组织厚度、气孔开度等最大，为 $1 7 . 7 1 { \\pm } 2 . 8 2 \\ { \\mu \\mathrm { m } }$ 、 $9 6 . 3 9 { \\pm } 1 9 . 0 8 ~ { \\mu \\mathrm { m } }$ 、 $0 . 5 8 { \\pm } 0 . 1 0 \\$ ；金丝耐旱性次之。在洼地优势树种中，中国无忧花的栅栏组织厚度、叶片紧密度、气孔开度等数值均最小，为( $2 5 . 8 8 { \\scriptstyle \\pm 5 . 0 8 }$ ） $\\mu \\mathrm { m } \\backprime 0 . 2 6 { \\pm } 0 . 0 4$ ，$0 . 2 4 { \\scriptstyle \\pm 0 . 0 7 }$ ，对叶榕的角质层厚度、下表皮厚度、气孔开度等最小，为（ $1 . 9 8 { \\pm } 0 . 3 2 \\$ ） $\\mu \\mathrm { m }$ 、（204号 $( 9 . 2 7 { \\scriptstyle \\pm 1 . 6 7 } \\$ ） $\\mu \\mathrm { m }$ 、 $0 . 2 4 { \\scriptstyle \\pm 0 . 0 6 }$ ；两个树种具备一定的阴生植物结构；另外，对叶榕的气孔密度最大，为‘ $\\cdot 7 8 7 . 9 { \\pm } 1 1 7 . 3 \\$ ）个 $/ \\mathrm { m } \\mathrm { m } ^ { 2 }$ ，然而，中国无忧花的气孔密度最小，为‘ $( 2 9 5 . 5 { \\pm } 5 3 . 7 ) \\$ 个 $/ \\mathrm { m } \\mathrm { m } ^ { 2 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "局域广布种金丝李在3个生境中叶片解剖结构具有变异性。洼地分布的金丝李的下表皮厚度、气孔开度等最大；中坡分布的金丝李的气孔密度、角质层厚度、栅栏组织厚度、栅海比、叶片紧密度等最大；山顶分布的金丝李的叶片厚度、海绵组织厚度、上表皮厚度、叶片疏松度等最大。表明，中坡金丝李的抗旱性结构最强，其次是山顶、洼地；这可能与金丝李生长的生境条件有关，因为洼地-中坡-山顶的金丝李周围的岩石裸露度逐渐降低（表1）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "叶片微形态解剖特征与生境海拔因子存在相关性（图3）。栅栏组织厚度、叶片厚度等9个指标表现出沿洼地-中坡-山顶生境梯度呈现显著上升趋势（ $\\cdot P < 0 . 0 5 .$ ），其中显著性强度（t 检验统计值，T-score）为栅栏组织厚度 $\\mathrm { > }$ 叶片厚度 $\\mathrm { > }$ 角质层厚度 $\\ >$ 上表皮厚度 $>$ 叶片紧密度>栅海比 $>$ 下表皮厚度 $>$ 气孔开度 $\\ >$ 海绵组织厚度；而叶片疏松度沿洼地-中坡-山顶生境梯度呈现逐渐下降趋势（ $\\ P < 0 . 0 5$ ）。气孔密度在生境海拔的的变化中无明显差异。结果显示，随着生境梯度的升高，树种叶片旱生结构逐渐增强，即叶片增厚、角质层增厚、栅栏组织增厚，而海绵组织厚度的占比在下降。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2500e5f992f8401f1bfb2508b5513270da6962b725fe7a7aedeab6032d8eaec9.jpg",
+        "img_caption": [
+            "图2优势树种叶片微形态解剖性状"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { \\mathcal { P } } _ { t }$ ．栅栏组织厚度； $\\boldsymbol { S } _ { t }$ .海绵组织厚度； $_ { S D }$ ，气孔密度。下同。   \n$\\mathbf { } _ { P _ { t } }$ . Palisade tissue thickness; $\\boldsymbol { S } _ { t }$ . Spongy tissue thickness; $s D$ .stomatal density. The same below. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Leaf micromorphological anatomical characters of dominant species ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "真 (um)'s 150 100 R²=003 8 8 品 。8 海 8。。 正 1000 800 。88 。 8 600 - -- 50 9 400 8 品 中 r 200   \n出建囊 's/'d 54321 中 翠上古 srtrt gtess 07005440322 。&0n 商 v   \nr) eresiteant 186 美 （r) errerts g 302020 $R ^ { 2 } \\div 0 . 2 6 , T s c o \\dot { r } e = 1 7 . 0 2 , \\dot { R _ { 1 } } < 0 . 0 5$ 品   \n出 上古 S 8 150 4 = OD 100 品 2 + 品 8 1 50   \n上古 rtertd 0.7 000544 品 R²=0.083, 亮 新 (r)rrrsiss sirairsrh 25205 30 R²=0.055,T score =6.9,P <0.05 量 。 。q e ： 8 0.3 建 10 0 8 名 品 H 品 弗 0.2 。。 5 0.1 曼   \nrelesaanrsn 60 R²=0.21,T score=14.83,P<0.05 150 A R²=0.329,T score=20.11,P<0.05 5040 100 8 3020 。。 8 上 中 。 50 10 0 。 8 5 8品 哪 品 0 0   \nsronnrreeretett 80004 星 200 海5拔 Elevation(m) 350 % A X 。 360 0.2 0 200 250 300 350 海拔 Elevation (m) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.2不同生境叶片光合生理特征",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "不同树种的叶片光合生理特征参数具有差异性 (图4)。在山顶优势树种中，毛叶铁榄的水分利用效率较低，而最大蒸腾速率的数值最大，为（ $5 . 0 { \\pm } 0 . 9 )$ mmol $\\mathbf { m } ^ { - 2 } { \\cdot } \\mathbf { s } ^ { - 1 }$ （平均值 $\\pm$ 标准差），净光合效率则次于黄梨木；黄梨木则表现对光照强度的广泛适应特征，其光补偿点、最大气孔导度、光饱和点的数值最大，分别为( $( 1 9 . 1 \\pm 2 . 5 ) \\$ 号 $\\mathrm { \\mu \\mathrm { m o l } } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 、 $( 0 . 3 { \\pm } 0 . 1 ) \\$ μmol·m-²·s-1、$( 2 4 2 7 . 6 { \\pm } 1 3 . 6 )$ ） $\\mathrm { \\mu \\mathrm { m o l } } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。在中坡优势树种中，海南椴的光合积累和消耗处于较高水平，最大净光合速率、暗呼吸速率的数值最大，分别为 $( 1 3 . 4 { \\pm } 1 . 8 )$ （204号 $\\mathrm { \\mu \\mathrm { m o l } } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 、 $( 1 . 2 { \\pm } 0 . 1 ) \\$ （204号$\\mathrm { \\mu } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。在洼地优势树种中，中国无忧花的最大胞间 $\\mathrm { C O } _ { 2 }$ 浓度的数值最大，为 $( 4 5 8 . 7 { \\scriptstyle \\pm 3 0 . 8 } )$ $\\mathrm { \\mu } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ ；对叶榕的表观量子效率的数值最大，为 $( 0 . 0 8 { \\scriptstyle \\pm 0 . 0 2 } ) ,$ $\\mathrm { \\mu } \\mathrm { m o l } { \\cdot } \\mathrm { m } ^ { - 2 } { \\cdot } \\mathrm { s } ^ { - 1 }$ 。整体光合能力中坡 $>$ 洼地 $>$ 山顶，山顶的光合能力明显受限。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "局域广布种金丝李在3个生境中叶片光合生理特性具有变异性。洼地分布的金丝李，最大光合值、最大气孔导度、光饱和点、表观量子效率等最大；中坡分布的金丝李，最大水分利用效率、最大气孔限制系数等最大；山顶分布的金丝李，最大蒸腾速率、光补偿点、暗呼吸速率、最大胞间 $\\mathrm { C O } _ { 2 }$ 浓度等最大。表明，金丝李在洼地的光合作用效率最高；在中坡，受气孔和水分限制，光合作用效率降低；在山顶，受高温影响，蒸腾作用增大，暗呼吸消耗增加。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "叶片光合生理特征与生境海拔因子存在显著相关性（图5）。叶片光补偿点、最大蒸腾速率、暗呼吸速率等沿着生境海拔梯度的升高呈现显著的上升趋势（ $P < 0 . 0 5$ ），说明树种的水分散失和呼吸消耗沿着生境梯度上升而升高。而最大水分利用效率、最大胞间 $\\mathrm { C O } _ { 2 }$ 浓度、表观量子效率则沿着生境海拔梯度的升高而显著下降（ $P < 0 . 0 5$ ），说明沿生境梯度的上升，优势种光合作用受到一定的限制。典型树种最大水分利用效率沿着生境梯度上升而下降，是由最大蒸腾速率沿生境梯度上升而显著升高引起的。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5d9e099b2a8be7e198695aa34a217723d8d838c3d9edfe24bc1d630af29b9f0.jpg",
+        "img_caption": [
+            "图4优势树种光响应曲线特征参数"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$T _ { r \\cdot m a x }$ ，最大蒸腾速率； $P _ { n \\cdot m a x . }$ ，最大净光合速率； $_ { L C P }$ ，光补偿点； $L _ { s . m a x . }$ 气孔限制系数； $G _ { s . m a x . }$ 气孔导度； $\\scriptstyle { R _ { d } }$ ，暗呼吸速率； $L S P$ ，光饱和点； $W U E _ { m a x }$ ．叶片水分利用效率； $A Q E$ 表观量子效率； $C _ { i . m a x }$ ．胞间 $\\mathrm { C O } _ { 2 }$ 浓度。下同。 $T _ { r \\cdot m a x . }$ Maximum transpiration rate; $P _ { n \\cdot m a x . }$ Maximum net photosynthetic rate; $L C P$ . Light compensation point; $L _ { s . m a x . }$ Stomatal limitation coefficient; $G _ { s , \\operatorname* { m a x } }$ Stomatal conductance; $\\pmb { R } _ { d } .$ （204号 Dark respiration rate; $L S P$ . Light saturation point; ${ \\pmb { W U } } { \\pmb { E } } _ { m a x }$ .Water use efficiency; $A Q E$ Apparent quantum efficiency; $C _ { i , m a x . }$ Intercellular $\\mathrm { C O } _ { 2 }$ concentration.The same below. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Characteristic parameters of light response curves of dominant species ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/d679e430319a3cd1aa68ed6c48a40d0d2ebc13a6603226f0e90868d73f88d5e6.jpg",
+        "img_caption": [
+            "图5优势树种光响应曲线特征参数沿生境海拔变化规律 ",
+            "Fig. 5Variation of characteristic parameters of light response curve of dominant species along habitat altitude "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.3叶片解剖微形态与光合生理特征的相关性分析 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "叶片解剖微形态与光合生理特征之间存在普遍相关性（图6）。栅海比与光饱和点、暗呼吸速率、最大气孔导度、最大净光合速率极显著正相关（ $\\cdot { \\cal P } { < } 0 . 0 1$ ），与光补偿点、最大蒸腾速率显著正相关（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ），与最大气孔限制系数显著负相关（ $_ { . { P < 0 . 0 5 } }$ ）。叶片紧密度呈现出相似的规律。表明叶片栅栏组织比例的增大，提高了叶片组织的紧密度，增加了最大气孔导度、光合作用效率和暗呼吸消耗。同时，结合前文结果可知，栅栏组织比例也与叶片抗旱生理性状具有相关性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "叶片疏松度与最大净光合速率、光饱和点极显著负相关（ $\\cdot P { < } 0 . 0 1$ ），与最大蒸腾作用、光补偿点、暗呼吸速率、最大气孔导度显著负相关（ $_ { , P < 0 . 0 5 ) }$ ），与最大气孔限制值极显著正相关（ $\\cdot P { < } 0 . 0 5 \\$ ）。叶片疏松度升高说明叶片海绵组织比例增加而栅栏组织比例减小，整体来看，叶片疏松度表现出与叶片紧密度呈现相反的模式。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "上表皮厚度与最大蒸腾作用呈显著正相关（ $( P { < } 0 . 0 5 )$ ）。叶片上表皮增厚是旱生性的表现，可以一定程度上限制水分散失。蒸腾作用在干旱强光条件下有增大趋势。因此，两者呈现出相关性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "气孔密度和气孔导度呈显著正相关（ $( P { < } 0 . 0 5 )$ ），与暗呼吸速率呈较弱的正相关（ $( P { < } 0 . 1 )$ 。说明较密叶片气孔结构有助于气体交换，增加气孔导度，同时可能增加暗呼吸消耗。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1b997174b310f4bf5b528b026fb00c993ab1de267db84001902c89fc403d3af.jpg",
+        "img_caption": [
+            "Leaf micromorphology index "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "$S _ { t } / L _ { t } .$ 叶片疏松度； $\\mathbf { \\nabla } _ { S _ { t } }$ .海绵组织厚度； $L _ { t } .$ 测定叶片厚度； $C _ { t }$ 角质层厚度； $\\pmb { H _ { t } }$ 下表皮厚度； $s _ { A }$ 气孔开度； $\\mathbf { } _ { P _ { t } }$ .栅栏组织厚度； $E _ { t }$ 上表皮厚度； $_ { S D }$ .气孔密度； $\\scriptstyle P _ { t } / L _ { t } .$ 叶片紧密度； $\\pmb { P } _ { t } / \\pmb { S } _ { t } .$ （20 栅海比。 $^ { * * * } P < 0 . 0 1$ ， $^ { * * } P < 0 . 0 5$ ， $^ { * } P < 0 . 1$ ，灰色方格代表 $P { \\gtrsim } 0 . 1$ 。 $\\pmb { S } _ { t } / \\pmb { L } _ { t }$ Ratio of spongy /leaf thickness; $S _ { t } .$ Spongy tissue thickness; $L _ { t } .$ Leaf thickness; $C _ { t }$ Cuticle thickness; $H _ { t }$ Hypodermis thickness; $s A$ . Stomatal aperture; $P _ { t }$ .Palisade tissue thickness; $E _ { t }$ Epicuticle thickness; $\\pmb { S D }$ . Stomatal density ; $\\pmb { P } _ { t } / L _ { t } .$ Ratio of Palisade /leaf thickness; $\\pmb { P } _ { t } / \\pmb { S } _ { t } .$ Ratio of palisade / spongy tissue thickness. $^ { * * * } P < 0 . 0 1$ ， $^ { * * } P < 0 . 0 5$ ， $^ { * } P < 0 . 1$ ， the gray squares ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "represent $P { \\gtrsim } 0 . 1$ ：",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fig.6 Correlation analysis between leaf anatomical micromorphology and photosynthetic physiological characteristics of dominant tree species ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3讨论与结论",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "本文中的海拔梯度，反映的是喀斯特峰丛洼地的坡位变化，代表了不同生境类型中水热条件的综合变化梯度。山顶区域光照强度大、水分欠缺、昼夜温差大、岩石裸露度高、土层薄，在中坡位置则次之，在洼地则相反（李先琨等，2008）。本研究中7个优势树种叶片微形态与光合生理性状呈现普遍的生境关联性，这些功能性状中存在光合效率和耐旱性间的权衡，是树种应对喀斯特生境异质性的生态策略。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.1异质性生境下叶片解剖微形态特征 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "叶片形态所发生的变化是植物在选择压力条件下对异质性生境的适应的一种表现，反映植物对环境变化的适应策略（Liu etal.，2020；李耀琪和王志恒，2021）。本研究发现，在喀斯特季节性雨林海拔高差 $2 0 0 \\mathrm { m }$ 范围内，随着生境干旱程度上升，叶片的抗旱性结构逐渐增加。植物趋向于增加叶片紧密度、叶片厚度、角质层厚度、上表皮厚度、栅栏组织厚度、海绵组织厚度等。这些叶片解剖结构增厚可能与叶片水分运输安全密切相关，有利于植物抵御干旱胁迫。整体而言，山顶的优势种表现出较强的耐旱性，中坡优势种次之，洼地优势种较差。7个优势树种对干旱适应性依次为黄梨木 $>$ 毛叶铁榄 $>$ 金丝李 $>$ 蚬木 $>$ 海南椴 $>$ 中国无忧花 $>$ 对叶榕，与树种分布的平均海拔、地形干旱度等正相关。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.2异质性生境下叶片光合生理特征 ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "光合生理性状是植物在环境适应性进化过程中较敏感的生理指标，沿着有利于植物光合作用方向发展是植物进化的重要特征（高松等，2009）。一般来说，最大净光合速率越大，表明光合作用潜力越大；植物拥有高的表观量子效率和低的光补偿点，表明对弱光的利用能力较强，耐阴性也就更好（曾小平等，2006）。干旱胁迫下，气孔限制是最大净光合速率下降的关键因子（姚庆群和谢贵水，2005）。本研究中，洼地的树种对弱光和潮湿环境有着较强的适应能力，这与洼地优势树种有更快的生长速度是相一致的。中坡的优势树种在耐受干旱时有着积极的应对策略，水分利用效率最高，光合潜力最大，说明对生境的适合度最高。山顶优势树种拥有更高的光饱和点，对强光的适应能力更高，说明山顶优势种对于光照强度有更大的耐受范围。然而，由于山顶生境中光照强烈、极易干旱，叶片蒸腾效率、暗呼吸效率的提升幅度可能大于光合效率的提升幅度，因此平均水分利用效率最低。这表明山顶分布树种受到气孔限制和非气孔限制的共同影响，对高温、强光、裸岩采取保守的应对策略。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "黄甫昭等利用 $^ { 1 3 } \\mathrm { C }$ 同位素方法测算植物长期水分利用效率，发现从洼地到山顶不同喀斯特生境代表性树种的水分利用效率逐渐增大（黄甫昭等，2019）。也有研究表明，植物在轻度和中度干旱的情况下，其水分利用效率是增大的，而随着干旱程度进一步加剧，植物水分利用效率会下降（哈申格日乐等，2006）。本研究中得出优势种的水分利用效率的光响应曲线沿着生境梯度先升高而后下降，并且水分利用效率的下降是由于生境梯度的升高、叶片的蒸腾速率上升幅度较大引起的。这可能是因为植物水分利用效率在时间尺度有一定变异性，$^ { 1 3 } \\mathrm { C }$ 同位素测算的是植物长期水分利用效率，光合仪测算的是植物瞬时水分利用效率。本研究测算的植物水分利用效率体现的是9-10月份9时-12时的植物水分利用效率，此时还属于喀斯特季节性雨林的雨季，山顶植物可能并未受到长期干旱胁迫，采用比较“奢侈”的水分利用策略，气孔导度和蒸腾速率都比较高，水分利用效率较低。但随着旱季（11月-2月）的到来，生境的干旱程度逐渐增加，植物有可能采用更“保守”的用水策略，降低气孔导度、减少蒸腾，但为了避免植物碳饥饿，提高了水分利用效率。这需要的旱季相关实验进行验证。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.3异质性生境下叶片微形态与光合生理特征相关性",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "叶肉是叶片进行光合作用最主要的部位，栅栏组织与海绵组织厚度及其比值的变化，必然对叶片的光合效率产生影响（李冬林 等，2019）。叶片的解剖结构与植物的光合能力密切相关，不同环境条件下光照强度的差异会导致植物叶片的解剖结构发生变化，从而影响植物的生长发育（李芳兰和包维楷，2005）。叶片厚度减小、表皮结构发达、海绵组织疏松通气则是叶片适应弱光和水分供给充足环境的一种适应特性（Cobleetal.，2017）。本研究表明了叶片栅栏组织在叶肉组织中的占比越大，即叶片紧密度越大、栅海比增加，叶片光合作用和利用强光的能力显著上升。相反，海绵组织比例增大，则叶片疏松度增加，生长速度和利用弱光的能力也显著提高。同时，结果也表明，叶片功能性状同时受到提高光合效率和耐旱性两种驱动力影响，表现出一定的权衡策略。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3.4本文不足及研究展望",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "本文研究存在一些不足，将在后续工作中改进。本文研究对象为三种典型喀斯特生境类型中群落上层优势树种，研究结果具有一定代表性，然而在更大范围内是否具有普适性，需要采集更多树种进行验证。本研究中植物叶片微形态指标没有包含叶脉结构性状，在指示叶片水力运输安全方面有一些不足，需要完善。叶片功能性状权衡策略可能受到物种进化历史的影响，需要结合物种间系统发育距离信息进行检验。树种生存策略分析，需要考虑树木的群落生物环境，结合树木生长动态和树种竞争能力等深入探讨。植物光合生理过程在时间尺度有一定变异性，本研究中使用光合仪测算生长季上午时间段的瞬时光合生理特征，存在一定的不足，因此，后续需要更长时间尺度上相关实验来验证研究结果。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "致谢：在实验室分析以及野外采样过程中，获得韦宇静、王登惠、李佳奇、阮枰臻、曹天龙、李磊、李惠怡、苏中平等人的协助；两位匿名审稿人对本文给予诸多宝贵意见，谨此一并表示衷心的感谢！",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Cao KF,Fu PL, Chen YJ, et al.,2014.Implications of the ecophysiological adaptation of plants on tropical karst habitats for the ecological restoration of desertified rocky lands in southern China. [J].Sci Sinica vitae,44(3):238-247.[曹坤芳，付培立，陈亚军，等，2014．热带岩溶植物生理 生态适应性对于南方石漠化土地生态重建的启示[J]．中国科学：生命科学，44(3)：238-247.]   \nCHEN HS, NIE YP, WANG KL, 2013. Spatio-temporal heterogeneity of water and plant adaptation mechanisms in karst regions: areview[J].Acta Ecol sin,33(2): 317-326.[陈洪松，聂云鹏，王克 林,2013．岩溶山区水分时空异质性及植物适应机理研究进展[J].生态学报，33(2):317-326.]   \nCHEN YT, XU ZZ,2014. Review on research of leaf economics spectrum [J]. Chin J Plant Ecol, 38(10):1135-1153.[陈莹婷，许振柱，2014．植物叶经济谱的研究进展[J]．植物生态学报， 38(10): 1135-1153.]   \nCOBLE A,FOGEL M, PARKER G, 2017. Canopy gradients in leaf functional traits for species that differ in growth strategies and shade tolerance [J]. Tree Physiol, 37(10): 1415-1425.   \nGAO S, SU PX, YAN QD, et al., 2009.Leaf anatomical structure and Photosynthetic Physiological Characteristics of C4 desert species Salsola collina and S. arbuscula [J]. Chin JPlant Ecol, 33(2): 347-354.[高松，苏培玺，严巧娣，等，2009.C4 荒漠植物猪毛菜与木本猪毛菜的叶片解剖结 构及光合生理特征[J]．植物生态学报，33(2)：347-354.]   \nGUO K,LIU CC, DONG M, 2011. Ecological adaptation of plants and control of rocky desertification on karst region of Southwest China [J]. Chin JPlant Ecol,35(10): 991-999.[郭柯，刘长成，董鸣, 2011．我国西南喀斯特植物生态适应性与石漠化治理[J]．植物生态学报，35(10)：991-999.]   \nGUO YL, WANG B, XIANG WS, et al., 2016. Response of spatial pattern of woody plants' basal area to topographic factors in a tropical karst seasonal rainforest in Nonggang, Guangxi, southern China[J].Biodivers Sci,24(1):30-39.[郭屹立，王斌，向悟生，等，2016.喀斯特季节性雨林 木本植物胸高断面积分布格局及其对地形因子的响应[J].生物多样性，24(1)：30-39.]   \nHA SGRL,LI JY, ZHOU ZF,2006. Effects of drought stress on diurnal variation of transpiration water consumption of seedlings of three tree species [J].JNorthwest sci-Tech Univ of Agri and For (Nat Sci Ed),34(9):157-162.[哈申格日乐，李吉跃，周泽福，2006.干旱胁迫对3个树种苗木蒸 腾耗水日变化的影响[J]．西北农林科技大学学报(自然科学版)，34(9)：157-162.]   \nHUANG FZ, LI DX, WANG B, et al., 2019. Foliar stable carbon isotope composition and water use efficiency of plant in the Karst seasonal rain forest [J]. Chin JAppl Ecol,30(6): 1833-1839.[黄甫 昭，李冬兴，王斌，等，2019．喀斯特季节性雨林植物叶片碳同位素组成及水分利用效率[J]. 应用生态学报，30(6)：1833-1839.]   \nHUANG FZ,LI JX,LI DX, et al., 2021. Physiological and ecological adaptation of karst woody plants to drought[J].Guihaia,41(10):1644-1653.[黄甫昭，李健星，李冬兴，等，2021．岩溶木本植 物对干旱的生理生态适应[J].广西植物，41(10)：1644-1653.]   \nLI DL,JIN YQ, CUI MF, et al., 2019. Photosynthetic characteristics and leaf anatomical structure of cercidiphyllum japonicum seedlings under shading condition [J]. Acta Bot Boreal,39(6): 1053-1063.[李冬林，金雅琴，崔梦凡，等，2019．遮光对连香树幼苗光合特性及其叶片解剖 结构的影响[J]．西北植物学报，39(6)：1053-1063.]   \nLI FL,BAO WK,2005. Response and adaptation of plant leaf morphological and anatomical structures to environmental changes [J].Chin Bull Bot,22(S1):118-127.[李芳兰，包维楷，2005．植物叶 片形态解剖结构对环境变化的响应与适应[J]．植物学通报，22(S1)：118-127.]   \nLI XK, HE CX, TANG JS,et al.， 2008. Evolution and ecological processes of karst ecosystem of Guangxi[J].Guangxi Sci,28(1):80-86.[李先琨，何成新，唐建生，等，2008．广西岩溶山地 生态系统特征与恢复重建[J].广西科学，28(1)：80-86.]   \nLI XK, SU ZM, LV SH, et al., 2003. The spatial patern of natural vegetation in the karst regions of guangxi and the ecological signality for ecosystem rehabilitation and reconstruction [J]. J Mount Sci,21(2):129-139.[李先琨，苏宗明，吕仕洪，等，2003．广西岩溶植被自然分布规律及对 岩溶生态恢复重建的意义[J]．山地学报，21(2)：129-139.]   \nLI Y, LIU C, XU L,et al., 2O21. Leaf trait networks based on global data: Representing variation and adaptation in plants [J]. Front Plant Sci,12: 710530.   \nLI YQ, WANG ZH, 2021. Leaf morphological traits: ecological function, geographic distribution and drivers[J].Chin JPlant Ecol,45(10):1154-1172.[李耀琪，王志恒，2021．植物叶片形态的生态 功能、地理分布与成因[J]．植物生态学报，45(10)：1154-1172.]   \nLI YZ, JIANG Y, ZHAO KN, et al., 2022. Exploring trait-performance relationships of tree seedlings alongexperimentallymanipulatedlightandwatergradients[J].Ecology, https://doi.org/10.1002/ecy.3703   \nLIU CC, WANG B, GUO K, et al.,2021. Karst vegetation clasification system of China[J]. Guihaia. 41(10):1618-1631.[刘长成，王斌，郭柯，等，2021．中国喀斯特植被分类系统[J]．广西植物, 41(10): 1618-1631.]   \nLIU JY,FU PL,WANG YJ, et al., 2012. Diferent drought-adaptation strategies as characterized by hydraulic and water-relations traits of evergreen and deciduous figs in a tropical karst forest [J]. Plant SciJ.30(5):484-493.[刘金玉，付培立，王玉杰，等，2012．热带喀斯特森林常绿和落 叶榕树的水力特征和水分关系与抗旱策略[J]．植物科学学报，30(5)：484-493.]   \nLIU WS, ZHENG L, QI DH, 2020.Variation in leaf traits at different altitudes reflects the adaptive strategy of plants to environmental changes[J]. Ecology & Evolution,10(15): 8166-8175.   \nLIU XJ, MA KP. 2015. Plant functional traits-concepts, applications and future directions [J]. Sci Sin Vit,45(4):325-339.[刘晓娟，马克平，2015．植物功能性状研究进展[J]．中国科学：生命科 学，45(4): 325-339.]   \nPAN YP, CHEN YP,2014. Recent advances in leaf hydraulic traits [J]. Chin JEcol,33(10): 2834-2841. [潘莹萍，陈亚鹏，2014．叶片水力性状研究进展[J]．生态学杂志，33(10)：2834-2841.]   \nR Core Team (2022). R:A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.   \nSU ZM, ZHAO TL, HUANG QC,1998. Vegetation survey report of Nonggang Nature Reserve [J]. Guihaia,supplement1:185-214.[苏宗明，赵天林，黄庆昌，1998．弄岗自然保护区植被调查 报告[J]．广西植物，增刊1：185-214.]   \nSU ZM，LI XK, DING T,et al.， 2014. The vegetation of Guangxi [M]. Beijng: China Forestry Publishing House:70-74.[苏宗明，李先琨，丁涛，等，2014．广西植被[M]．北京：中国林业 出版社：70-74.]   \nSUN JG,LIU CC, HOU JH, et al.,2021. Spatial variation of stomatal morphological traits in grassland plants of the Loess Plateau [J]. Ecol Ind,128 (2021): 107857.   \nSUN M,TIAN K, ZHANG Y, et al.,2017. Research on leaf functional traits and their environmental adaptation[J].Plant Sci J,35(6): 940-949.[孙梅，田昆，张贊，等，2017．植物叶片功能性状 及其环境适应研究[J]．植物科学学报，35(6)：940-949.]   \nTAN FS, SONG HQ,LI ZG, et al.,2010. Hydraulic safety margin of 17 co-occurring woody plants in a seasonal rain forest in Guangxi's Southwest karst landscape, China[J]. Chin J Plant Ecol, 43 (3): 227-237.[谭凤森，宋慧清，李忠国，等，2010．桂西南喀斯特季雨林木本植物的水力安全[J]. 植物生态学报，43(3):227-237.]   \nTIAN M, YU GR, HE NP, et al., 2016. Leaf morphological and anatomical traits from tropical to temperate coniferous forests: Mechanisms and influencing factors [J]. Sci Rep, 6: 19703.   \nWANG B, HUANG YS,LI XK, et al., 2014. Species composition and spatial distribution of a 15 ha northern tropical karst seasonal rain forest dynamics study plot in Nonggang, Guangxi, southern China[J].Biodivers Sci.22(2):141-156.[王斌，黄俞淞，李先琨，等，2014．弄岗北热带喀斯 特季节性雨林 15 ha 监测样地的树种组成与空间分布[J].生物多样性，22(2)：141-156.]   \nWRIGHT IJ, REICH B,WESTOBY M, et al.， 2004. The worldwide leaf economics spectrum [J]. Nature, 428(6985): 821-827.   \nXIANG WY, 2018. Gap characteristics and its effct on seedling regeneration in a karst ecosystem of Guangxi[D].Guilin: Guangxi Normal University.[向悟生，2018．喀斯特季节性雨林群落林隙 ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "特征及其对幼苗更新的影响[D]．桂林：广西师范大学.]  \nYAO QQ,XIE GS,2005.The photosynthetic Stomatal and Non-stomatal limitation under droughtstress [J].Chin JTrop Agri Sci,25(4):80-85.[姚庆群，谢贵水，2005．干旱胁迫下光合作用的气孔与非气孔限制[J]．热带农业科学，25(4)：80-85.]  \nYE ZP,YANG XL, KANG HJ,2016. Comparison of light-use and water-use efficiency for C3 and C4species[J].Acta Agric Zhengjiang,28(11):1867-1873.[叶子飘，杨小龙，康华靖，2016.C3 和C4 植物光能利用效率和水分利用效率的比较研究[J]．浙江农业学报，28(11)：1867-1873.]  \nZENG XP, ZHAO P, CAI XA, et al., 2006. Shade-tolerance of 25 low subtropical plants[J]. J BeijingFor Univ,28(4):88-95.[曾小平，赵平，蔡锡安，等，2006.25种南亚热带植物耐阴性的初步研究[J]．北京林业大学学报，28(4)：88-95.]  \nZHANG QW, ZHU SD, JANSEN S, et al., 2021. Topography strongly affects drought stress and xylemembolism resistance in woody plants from a karst forest in Southwest China [J]. Funct Ecol. 35(3):566-577.  \nZHANG XY, ALISON WKS, TADASHI K, et al., 2021. Effects of provenance on leaf structure andfunction of two mangroves species: the genetic adaptation to temperature[J]. Chin J Plant Ecol,45(11):1241-1250.[张小燕，Alison WEE Kim Shan，Tadashi Kajita，等，2021．种源地对两种红树叶片结构和功能的影响：对温度的适应性遗传[J]．植物生态学报，45(11)：1241-1250.]  \nZHENG W,HE QF,PENG YH, et al.,2017. Comparison of photosynthesis-light response curve for sixkinds of trees in karst area[J].JCent South Univ Forest & Technol,37(12): 85-90.[郑威，何琴飞,彭玉华,等,2017.石漠化区6种退耕树种光响应曲线研究[J]．中南林业科技大学学报,37(12):85-90.]",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "附录",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f6792e63dcd80d138705e4597915256b6412607a8fe477cf3be07b6371b0bd2.jpg",
+        "img_caption": [
+            "附录图版17个优势种叶片气孔（放大500倍，标尺 $2 0 ~ \\mu \\mathrm { m }$ ））Plate 1 Leaf stomata of 7 dominant species (2oo-fold magnification, scale $2 0 ~ \\mu \\mathrm { m }$ ）"
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1：黄梨木；2：毛叶铁榄；3：金丝李（山顶）；4：海南椴；5：蚬木; ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "6：金丝李（洼地）；7：对叶榕；8：中国无忧花；9：金丝李（洼地）。  \n1: Boniodendron minus; 2: Sinosideroxylon pedunculatum; 3: Garcinia paucinervis (Hilltop);  \n4: Diplodiscus trichospermus； 5: Excentrodendron tonkinense;  \n6: Garcinia paucinervis (Slope） ; 7: Ficus hispida; 8: Saraca dives; 9: Garcinia paucinervis  \n（Valley）.",
+        "page_idx": 18
+    }
+]

@@ -1,0 +1,153 @@
+# 酸处理对干法纺甲纶聚酰亚胺纤维增强体性能的影响
+
+陈乐1,²龙柱1 王士华³李志强³郭 帅³王 斌²
+
+1江南大学生态纺织教育部重点实验室无锡214122  
+2华南理工大学制浆造纸工程国家重点实验室广州510640  
+3连云港市工业投资集团有限公司连云港222002
+
+摘要以HCI为湿化学处理液，研究了HCI处理对聚酰亚胺纤维增强体浸润性能、微观形貌、热性能、细度及力学性能、化学结构和微观聚集态结构的影响，在分析纤维浸润性能改善的同时也分析了其他性能及结构的变化。结果表明:HCI处理后纤维表面凹凸不平，粗糙度增加，局部发生了刻蚀，引入了活性基团,表面能提高，浸润性能改善。且随着HCI浓度或温度的提高、处理时间的延长浸润性能改善趋势加快，热性能保持较好，细度及力学性能略有降低。在 $\mathrm { H } ^ { + }$ 的作用下纤维酰亚胺环少量开环水解为聚酰胺酸，化学结构变化不明显，微观聚集态结构发生改变，非结晶区比例上升。HCI处理能有效地对纤维表面进行功能化改性。
+
+关键词复合材料，酸处理，聚酰亚胺纤维，浸润性能，性能及结构中图分类号TB332,TQ327.9
+
+文章编号 1005-3093(2017)02-0096-06
+
+# Influence of Acid Treatment on Properties of Dry-spinning Jialun Polyimide Fibers Reinforcement
+
+CHENLe $^ { 1 , 2 }$ , LONG Zhu',WANG Shihua³,LI Zhiqiang³,GUO Shuai³,WANG Bin² 1 Key Laboratory ofEco-textiles,Ministry ofEducation,Jiangnan University,Wuxi 214122,China 2State Key Laboratory of Pulp and Paper Engineering, South China University of Technology, Guangzhou 510640, China 3Lianyungang Industry Investment Group Co.,Ltd,Lianyungang 222002, China   
+Correspondent: LONG Zhu, Tel: (0510)85807529,E-mail: longzhu@jiangnan.edu.cn   
+Supportedby National Natural Science Foundation of China (No.31270633),State Key Laboratory of Pulp and Paper Engineering (No.201512), Lianyungang“555 Talents Project” Program (No. 2015-13), Hangzhou Qianjiang Distinguished Experts Programme of China and A Project Funded by the Priority Academic Program Development of Jiangsu Higher Education Institutions
+
+Manuscript received 2016-05-16,in revised form 2016-08-24
+
+ABSTRACTThe effect of chemical treatment with HCl solution on the weting properties,surface morphology，thermal properties，fineness and mechanical properties，chemical structure and microscopic state of aggregation structure was investigated for polyimide fiber-reinforcements The results show that after HCl treatment,the fiber surface exhibits characters of etching with increased surface roughness, higher surface free energy，and enhanced wetability,while certain reactive group is introduced onto the surface;With the increase of HCl concentration,the rise of temperature as wellas the the increase of processing time,the wetability was sharply enhanced,the fineness and mechanical properties decrease slightly while the thermal property keeps preferably within a certain range.The existence of $\mathsf { H } ^ { + }$ in the treatment solution could resultin thatafew of imide rings on the fiber was broken and then hydrolyzed to polyamide acid,thereby its microscopic state of aggregation structure was changed and the ratio of amorphous region was enhanced,therewith its chemical structure does not change significantly.In general, HCl treatment is feasible for modifying the polyimide fiber surface.
+
+KEY WORDS composites,acid treatment, polyimide fibers, wetting properties,properties and structure
+
+聚酰亚胺纤维具有优异的耐高低温、高强高模、高电绝缘、耐腐蚀等性能，主要应用于高温除尘过滤、防护面料、工业阻燃隔热材料、功能性复合材料等领域[1-3]。聚酰亚胺纤维的分子链中特殊的酰亚胺结构使纤维表面光滑、表面能较低，呈现较强的化学惰性，与基体树脂之间的界面粘结性能较差，不利于与树脂复合，复合材料的层间剪切性能不佳[4-5]。但是只是改善纤维的浸润性能忽略热性能和力学性能的变化，也不能得到整体性能优异的复合材料。为了更好地发挥纤维本身的性能，在纤维其他性能不降低或降低较小的前提下可对纤维表面进行功能化改性处理，提高表面性能、改善纤维与树脂之间的浸润效果，最终优化复合材料界面性能[6-8]。
+
+聚酰亚胺的表面处理方法有湿化学处理、干处理(等离子处理、离子束处理)以及表面接枝处理[9,10]。干处理能提高纤维吸湿和摩擦性能，但是纤维力学性能的降低较严重，且成本较高。用碱溶液处理湿法纺PI纤维，可使纤维的表面性能得到一定程度的提高]。但是，纤维的耐碱性能较差，特征酰亚胺结构在碱性条件下极易水解，纤维分子结构破坏严重，使纤维的性能严重下降。同时，碱处理水解程度不易控制。本文以HC1为湿化学处理液，在不同的浓度和温度下对干法纺二步法甲纶聚酰亚胺纤维进行不同时间的处理，着重研究HC1处理对纤维浸润性能、微观形貌、热性能、细度及力学性能、化学结构、微观聚集态结构的影响，在改善纤维浸润性能、提高表面粗糙度的同时，分析其他性能及结构的变化。
+
+# 1实验方法
+
+配制HCI(质量浓度 $3 6 \% { \sim } 3 8 \%$ ，分子量36.46，AR)( $7 . 2 \%$ ， $1 0 . 8 \%$ )溶液，在HH-1型数显搅拌水浴锅中升温至所需温度，后在溶液中加入 $3 0 \ \mathrm { c m }$ 的干法纺二步法甲纶聚酰亚胺纤维复丝(480D/240f)，使纤维浸没在液面以下，密封处理。根据实验方案，在不同时间段依次剪取 $1 0 \ \mathrm { c m }$ 左右纤维，用去离子水冲洗纤维表面，洗净残余试剂。于烘箱 $8 0 ^ { \circ } \mathrm { C }$ 条件下，烘 $^ { 4 \mathrm { h } }$ ，密封保存，备用。
+
+将纤维平整笔直地固定在刻度尺上，纤维末端与刻度尺“0"刻度线相平，刻度尺垂直浸入亚甲基蓝(分子量 $3 7 3 . 9 0 , \mathrm { I n d } )$ 溶液 $( 0 . 1 \% ) 1 ~ \mathrm { c m }$ ，在室温条件下静置 $2 0 \mathrm { m i n }$ 后测量纤维浸润部分的长度。
+
+使用SU1510扫描电镜(日本HITACHI公司)观察纤维表面微观形貌，操作电压 $5 \mathrm { k V }$ 。使用Q-500热重分析仪(美国TA仪器公司)测试纤维热稳定性及组分变化情况， ${ \bf N } _ { 2 }$ 氛围，升温速率 $1 0 ^ { \circ } \mathrm { C } / \mathrm { m i n }$ ，温度变化范围 $2 0 ^ { \circ } \mathrm { C } { \sim } 9 0 0 ^ { \circ } \mathrm { C }$ 。使用YG002C型纤维检测系统，配备型号为 $\mathrm { W V - C P 5 0 0 L / C H }$ 的彩色闭路监控摄像机，物镜： $1 0 / 0 . 2 5 \ 1 6 0 / 0 . 1 7 ,$ 测试纤维直径，每组样品测试10根。参见(GB/T14337-2008)《化学纤维短纤维拉伸性能试验方法》，使用YG001B型单纤维电子强力仪(常州金松纺织仪器有限公司)测定纤维的断裂强度及断裂伸长率，拉伸速度 $2 0 \mathrm { m m } / \mathrm { m i n }$ ，夹持距离 $2 0 ~ \mathrm { m m }$ ，预加张力0.5cN/dtex，每组样品测试50根。
+
+断裂强度损失百分数
+
+$$
+( E _ { \mathrm { 0 } } - E _ { \mathrm { t } } ) / E _ { \mathrm { 0 } } \times 1 0 0 \%
+$$
+
+断裂伸长率下降百分数
+
+$$
+( L _ { 0 } - L _ { \mathrm { t } } ) / L _ { 0 } \times 1 0 0 \%
+$$
+
+公式中 $E _ { 0 } \setminus E _ { \mathrm { t } }$ 一原纤维、不同条件下纤维断裂强度(cN/dtex); $L _ { 0 } , L _ { i }$ 一原纤维、不同条件下纤维断裂伸长率 $( \% )$ 。
+
+使用Nicoletis10傅立叶变换红外光谱仪(美国ThermoFisherScientific有限公司)测定纤维化学结构，扫描波数范围为 $4 0 0 0 \mathrm { c m } ^ { - 1 } { \sim } 4 0 0 \mathrm { c m } ^ { - 1 }$ ，分辨率 $4 ~ \mathrm { { c m } ^ { - 1 } }$ ，扫描次数16次。使用TTR-II样品水平大功率X射线粉末衍射仪(日本理学电机公司)表征纤维微观聚集态结构，配备铜靶，石墨单色器滤波，波长 $0 . 1 5 4 0 5 6 \mathrm { n m }$ ，电压电流 $4 0 \mathrm { \ k V / 2 0 0 m A }$ ，扫描角度 $2 \theta$ 为 $3 { \sim } 6 0 ^ { \circ }$ ，扫描速度 $4 ^ { \circ } / \mathrm { m i n }$ 。结晶指数 $X _ { \mathrm { c } } { = } A _ { \mathrm { K } } / ( A _ { \mathrm { K } } { + } A _ { \mathrm { A } } ) { \times } 1 0 0 \% ( 1 { - } 3 )$ 其中 $A _ { \mathrm { K } }$ 为晶区衍射峰积分面积， $\mathrm { \mathbf { A } _ { A } }$ 则为无定形区积分面积。
+
+# 2结果和讨论
+
+# 2.1HCI处理对纤维浸润性能及微观形貌影响
+
+聚酰亚胺纤维增强体与基体树脂之间良好的相溶性、界面性是提高复合材料界面性能的关键，界面性能越好，复合材料的层间剪切性能指标也越好。
+
+要得到良好的界面浸润性能，要求聚酰亚胺纤维增强体与基体树脂两相之前的接触角尽可能小，纤维表面能越低，与极性液体之间的浸润性越差，纤维表面能越大，越有利于基体树脂对纤维的浸润。表1给出了HC1处理前后纤维在亚甲基蓝溶液中的浸润高度变化情况，反映了HC1处理对纤维的浸润性能的影响，未处理纤维的浸润高度为 $6 . 1 ~ \mathrm { c m }$ 。与原纤维相比，用HC1处理后纤维的浸润性提高。浸润性能提高的程度与所用HC1浓度、温度及处理时间有关。随着HC1浓度、温度及处理时间的增加，亚甲基蓝溶液在纤维中的浸润高度呈上升趋势。当HC1浓度为 $7 . 2 \%$ 、处理温度为 $9 0 ^ { \circ } \mathrm { C }$ 、处理时间为 $3 \mathrm { ~ h ~ }$ 时，浸润高度为 $7 . 8 ~ \mathrm { c m }$ ；浓度为 $10 . 8 \%$ 、处理温度为 $9 0 ^ { \circ } \mathrm { C }$ ，处理时间为 $3 \mathrm { ~ h ~ }$ 时，浸润高度达到 $8 . 0 \mathrm { c m }$ 。
+
+图1纤维SEM照片表明，原纤维表面非常光滑，粗细均匀， $7 . 2 \% \mathrm { H C l } , 9 0 ^ { \circ } \mathrm { C }$ 处理 $3 \mathrm { ~ h ~ }$ 时，纤维细度与原纤维相差不大，但是表面粗糙度提高，局部发生了刻蚀，破坏了纤维表层，表面凹凸不平，出现不规则沟槽。且随着HC1浓度的提高，粗糙化程度有上升的趋势。
+
+# $2 . 2 \ : \mathrm { H C l }$ 处理对纤维热性能影响
+
+图2给出了HC1处理纤维的TG与DTG变化曲线。可以看出，处理前后的纤维质量损失情况主要分为三个阶段：第一阶段从 $2 0 ^ { \circ } \mathrm { C }$ 到 $5 5 0 ^ { \circ } \mathrm { C }$ ，纤维质量基本不变，因为纤维具有优良的耐高温性能；第二阶段从 $5 5 0 ^ { \circ } \mathrm { C }$ 到 $6 5 0 ^ { \circ } \mathrm { C }$ ，纤维质量损失明显。因为发生了剧烈的化学反应，分子链断裂开环，纤维结构发生了变化；第三阶段从 $6 5 0 ^ { \circ } \mathrm { C }$ 到 $9 0 0 ^ { \circ } \mathrm { C }$ ，纤维质量减少的趋势逐渐变缓，表明分子链断裂、化学结构破坏基本完成。
+
+表1HC1处理纤维浸润性能测试结果  
+Table 1 Fiber wetting properties test results by HCl treatment   
+
+<html><body><table><tr><td rowspan="2">Temperature/℃</td><td rowspan="2">Time/h</td><td>7.2%</td><td>10.8%</td></tr><tr><td>Height/cm</td><td>Height/cm</td></tr><tr><td rowspan="2">30</td><td>1</td><td>6.6</td><td>6.8</td></tr><tr><td>2</td><td>7.1</td><td>7.3</td></tr><tr><td rowspan="5">60</td><td>3</td><td>7.3</td><td>7.5</td></tr><tr><td>1</td><td>7.0</td><td>7.2</td></tr><tr><td>2</td><td>7.4</td><td>7.7</td></tr><tr><td>3</td><td>7.6</td><td>7.8</td></tr><tr><td>1</td><td>7.2</td><td>7.4</td></tr><tr><td rowspan="2">90</td><td>2</td><td>7.5</td><td>7.6</td></tr><tr><td>3</td><td>7.8</td><td>8.0</td></tr></table></body></html>
+
+HC1处理后，纤维的最终损失质量呈下降趋势。其原因是，未经任何处理的原纤维，其纤维分子链结构含有较多的不耐HC1结构。这些结构在高温环境中相继分解；经HC1处理的纤维，在热处理之前已经破坏或失去了这些不耐HC1的结构，所以损失质量降低，理论上HC1处理条件越苛刻纤维损失质量越少。两种浓度的纤维热性能变化相近，损失 $5 \%$ 对应的温度大约为 $5 4 0 ^ { \circ } \mathrm { C }$ ，比原纤维的分解温度下降约 $2 4 ^ { \circ } \mathrm { C }$ ，且失重热分解速率最快时的温度吻合。
+
+# $2 . 3 \ : \mathrm { H C l }$ 处理对纤维细度和力学性能影响
+
+表2和表3分别给出了聚酰亚胺纤维经HC1处理后的细度、断裂强度、断裂伸长率测试结果及力学性能的变化。原纤维细度为 $2 1 . 2 1 \ \mu \mathrm { m }$ ，断裂强度4.63cN/dtex，断裂伸长率 $1 5 . 4 9 \%$ 。可以看出，处理后的纤维其细度和力学性能随着HC1浓度、温度、时间的增加均有下降的趋势，但是下降的趋势不同。HC1浓度为 $7 . 2 \%$ 时，同样处理 $^ { \textrm { 1 h } }$ ，温度为 $3 0 ^ { \circ } \mathrm { C }$ 时纤
+
+![](images/0ae350e4226529e155ee2a33e888a898a0a5ec64d02f5f8a5f5aac98ccfb84c4.jpg)  
+图1未处理和在不同条件下HC1处理的纤维的SEM照片Fig.1 SEM images under different HCl treating conditions(a) untreated; (b) $7 . 2 \%$ HC1 $9 0 ^ { \circ } \mathrm { C }$ 3 h; (c) $10 . 8 \%$ HC1 $9 0 ^ { \circ } \mathrm { C }$ 3h
+
+# 表2HC1处理纤维细度及力学性能测试结果
+
+Table2 Fiber fineness and mechanical properties test results by HCl treatment   
+表3HC1处理纤维细度及力学性能变化情况  
+
+<html><body><table><tr><td rowspan="2">Temperature/℃</td><td rowspan="2">Time/h</td><td colspan="3">7.2%</td><td colspan="3">10.8%</td></tr><tr><td>Fineness/μm</td><td></td><td>Strength/cN/dtex Elongation/%</td><td></td><td>Fineness/μm Strength/cN/dtex</td><td>Elongation/%</td></tr><tr><td rowspan="3">30</td><td>1</td><td>21.02</td><td>4.14</td><td>14.11</td><td>20.12</td><td>4.12</td><td>14.20</td></tr><tr><td>2</td><td>19.69</td><td>4.08</td><td>13.83</td><td>19.28</td><td>4.05</td><td>13.65</td></tr><tr><td>3</td><td>18.38</td><td>4.00</td><td>13.20</td><td>18.36</td><td>3.97</td><td>13.16</td></tr><tr><td rowspan="3">60</td><td>1</td><td>18.38</td><td>4.01</td><td>13.43</td><td>18.87</td><td>3.96</td><td>13.23</td></tr><tr><td>2</td><td>18.36</td><td>3.93</td><td>13.24</td><td>18.68</td><td>3.88</td><td>12.98</td></tr><tr><td>3</td><td>18.22</td><td>3.85</td><td>12.78</td><td>18.68</td><td>3.81</td><td>12.65</td></tr><tr><td rowspan="3">90</td><td>1</td><td>17.69</td><td>3.99</td><td>13.38</td><td>19.72</td><td>3.91</td><td>13.07</td></tr><tr><td>2</td><td>17.81</td><td>3.91</td><td>12.86</td><td>19.45</td><td>3.80</td><td>12.63</td></tr><tr><td>3</td><td>18.03</td><td>3.81</td><td>12.82</td><td>17.26</td><td>3.75</td><td>12.53</td></tr></table></body></html>
+
+Table 3 Change of the fiber mechanical properties by HCl treatment   
+
+<html><body><table><tr><td rowspan="2">Temperature/℃</td><td rowspan="2">Time/h</td><td colspan="2">7.2%</td><td colspan="2">10.8%</td></tr><tr><td>Strength loss/%</td><td>Elongation loss/%</td><td>Strength loss/%</td><td>Elongation loss/%</td></tr><tr><td rowspan="3">30</td><td>1</td><td>10.58</td><td>8.91</td><td>11.02</td><td>8.33</td></tr><tr><td>2</td><td>11.88</td><td>10.72</td><td>12.53</td><td>11.88</td></tr><tr><td>3</td><td>13.61</td><td>14.78</td><td>14.25</td><td>15.04</td></tr><tr><td rowspan="4">60</td><td>1</td><td>13.39</td><td>13.30</td><td>14.47</td><td>14.59</td></tr><tr><td>2</td><td>15.12</td><td>14.53</td><td>16.20</td><td>16.20</td></tr><tr><td>3</td><td>16.85</td><td>17.50</td><td>17.71</td><td>18.33</td></tr><tr><td>1</td><td>13.82</td><td>13.62</td><td>15.55</td><td>15.62</td></tr><tr><td rowspan="2">90</td><td>2</td><td>15.55</td><td>16.98</td><td>17.93</td><td>18.46</td></tr><tr><td>3</td><td>17.71</td><td>17.24</td><td>19.01</td><td>19.11</td></tr></table></body></html>
+
+维的细度 $2 1 . 0 2 \ \mu \mathrm { m }$ ，断裂强度为 $4 . 1 4 ~ \mathrm { c N / d t e x }$ ，损失$1 0 . 5 8 \%$ ，断裂伸长率为 $14 . 1 1 \%$ ，下降 $8 . 9 1 \%$ ；温度为$6 0 ^ { \circ } \mathrm { C }$ 纤维细度 $1 8 . 3 8 \mu \mathrm { m }$ ，断裂强度为 $4 . 0 1 \mathrm { c N / d t e x }$ ，损失 $1 3 . 3 9 \%$ ，断裂伸长率为 $1 3 . 4 3 \%$ ，下降 $1 3 . 3 0 \%$ ；温度为 $9 0 ^ { \circ } \mathrm { C }$ 纤维细度 $1 7 . 6 9 \mu \mathrm { m }$ ，断裂强度为 $3 . 9 9 \mathrm { c N } / \mathrm { d t e x }$ 损失 $1 3 . 8 2 \%$ ，断裂伸长率为 $1 3 . 3 8 \%$ ，下降 $1 3 . 6 2 \%$ 。这些结果表明，HC1浓度和时间一定时，温度越高，细度变化越明显，力学性能下降越严重。同样地，HC1浓度和温度一定时，随着处理时间的延长细度及力学性能的下降越明显；温度和时间一定时，HC1浓度越大细度及力学性能下降的幅度越大。
+
+# $2 . 4 \ : \mathrm { H C l }$ 处理对纤维化学结构影响
+
+从图3HC1处理纤维的红外谱图可以看出，在$3 4 3 9 \mathrm { c m } ^ { - 1 }$ 处有一个宽大的吸收峰，是杂环结构中N-H的伸缩振动引起的，在 $1 7 7 3 \ \mathrm { c m } ^ { - 1 } , 1 6 8 5 \ \mathrm { c m } ^ { - 1 } , 1 3 6 6 \ \mathrm { c m } ^ { - 1 }$ 处谱带分别对应酰亚胺基团 $\mathrm { ( C O ) } _ { 2 } \mathrm { N }$ 中 $\scriptstyle { \mathrm { C = O } }$ 对称和非对称振动以及C-N-C振动， $7 2 1 ~ \mathrm { c m } ^ { - 1 }$ 代表酰亚胺的环状结构的面外振动。上述四处谱带代表了聚酰亚胺特有的红外特征吸收峰， $8 1 6 ~ \mathrm { c m } ^ { - 1 }$ 为多取代苯环的吸收振动峰[10],聚酰亚胺聚合物在酸碱性条件下会发生水解，生成聚酰胺酸，如图4。
+
+但是HC1处理的红外谱图中并没有检测到酰胺基团中 $1 6 4 8 ~ \mathrm { { c m } ^ { - 1 } }$ 处 $\scriptstyle { \mathrm { C = O } }$ (CONH)、 $1 7 1 9 \mathrm { c m } ^ { - 1 }$ 处 $\scriptstyle { \mathrm { C = O } }$ (COOH)的伸缩振动吸收峰，说明在此条件下酰亚胺环的水解程度小，聚酰胺酸在纤维表面含量较小，对应峰的吸收强度低，红外光谱无法准确测定出来。红外谱图能检测到HC1处理后酰亚胺结构的特征峰，纤维化学结构没有发生太大的变化。
+
+# 2.5HCI处理对纤维微观聚集态结构影响
+
+从图5可以看出，原纤维呈现相当宽化的弥散峰。根据峰形可判断，纤维具有明显的结晶结构，在$0 { \sim } 4 0 ^ { \circ }$ 范围内出现6个衍射峰，分别在 $2 \theta { = } 4 ^ { \circ }$ 、 $1 5 ^ { \circ }$ 、$2 0 ^ { \circ } , 2 2 ^ { \circ } , 2 5 ^ { \circ } , 3 5 ^ { \circ }$ 附近， $2 \theta = 3 5 ^ { \circ }$ 的衍射峰强度较弱，其中 $2 \theta { = } 1 5 ^ { \circ } \cdot 2 2 ^ { \circ }$ 是 $2 \theta { = } 2 0 ^ { \circ }$ 的肩峰。肩峰的出现，是干法纺丝在后续拉伸过程中纤维结构有序排列引起结晶造成的。并且拉伸的倍数越大，结晶度越大，肩峰强度也越大[12-13]。原纤维的结晶度为 $64 . 7 0 \%$ 。与原纤维相比, $7 . 2 \% \mathrm { H C l }$ ，在 $9 0 ^ { \circ } \mathrm { C }$ 处理 $3 \mathrm { ~ h ~ }$ 的纤维其XRD图谱基本上没有变化。结晶度为 $6 4 . 5 8 \%$ ，非结晶区比例略微上升，在此条件下纤维的聚集态结构破坏不严重，而对于 $1 0 . 8 \% \mathrm { H C l }$ ，在 $9 0 ^ { \circ } \mathrm { C }$ 处理 $3 \mathrm { ~ h ~ }$ 时的纤维其XRD图谱发生了明显改变。表现为衍射峰在 $2 \theta ^ { = }$ $1 5 { \sim } 3 0 ^ { \circ }$ 范围内较为平滑，峰值高度也在下降，但在$2 \theta { = } 1 5 { \sim } 3 0 ^ { \circ }$ 仍然能观察到不同强度的衍射峰，结晶度下降为 $5 5 . 6 5 \%$ 。酰亚胺结构在酸性条件下发生水解，生成聚酰胺酸，而聚酰胺酸和聚酰亚胺结构单元不同的散射因子便是其峰值高度下降的原因，这与聚酰胺酸聚合物的无序状态的结论一致[14]。总之，HCI处理会造成聚合物分子链刚性的下降，微观聚集态的有序性也受一定的破坏，HC1对纤维的影响效应与HC1的条件有关。
+
+![](images/5a4070e237a6c3e4e47426dc1d3cb8d25179a40e5dd018002d51b632424c1afa.jpg)  
+图2HCI处理纤维的TG与DTG曲线 Fig.2 TG (a) and DTG (b) curves of polyimide fibers by HCl, $9 0 ^ { \circ } \mathrm { C }$ , 3 h treatment
+
+![](images/996a91587acde43c4626b4ac8e5a38a726cd9a48fb1128f2ff2d80b7778847b3.jpg)  
+图 $3 \mathrm { H C l }$ 处理纤维的FT-IR图谱Fig.3FT-IR patternof polyimide fibersbyHCl treatment
+
+![](images/dd9cb075a09e2409df1c9d9c05284d64dfec4b881811053f09dcc2af04ddeb01.jpg)  
+图4聚酰亚胺纤维在酸碱条件下的水解过程
+
+# 2.6HCI处理对纤维性能的影响
+
+纤维表面活性基团、聚集态结构、表面几何形状、截面形状、纤维间毛细空隙尺寸和分布等因素，决定了纤维-树脂体系的润湿情况。本文实验中使用的聚酰亚胺纤维用干法纺二步法纺丝制得，截面没有明显孔洞缺陷[15]，用HC1处理后纤维依然成束，单纤维之间孔隙尺寸分布均匀。以上因素对纤维浸润效果影响不大。聚酰亚胺在酸碱性条件下发生水解，生成极性更强的聚酰胺酸。同时，酰胺键有较强的供电子能力。在亲电试剂HC1作用下发生亲电取代反应，生成羟基。于是，用HC1处理会在纤维表面引入极性基团(-OH、-COOH、-NH-等),提高了纤维表面活性基团数量，改善了纤维表面活性，使更多的水分子能够在纤维表面以氢键的形式结合，使纤维获得良好的相溶性、界面性，纤维经HC1处理后的红外谱图中依然能检测到酰亚胺结构的特征峰。说明此时的纤维分子主链结构并没有破坏，这也是纤维热性能、细度及力学性能变化不太大的原因。图5中纤维结晶指数有一定程度的下降，说明纤维表层有一部分结晶区转化为非结晶区。在转化过程中纤维分子的取向结构和超分子结构受到影响，聚合物分子链变松弛，非结晶区比例的增加为后来被吸附的边缘的结合力较弱的水分子进入纤维表层开辟了通道。这部分水分子停留在纤维表面刻蚀和沟槽的毛细孔内，对纤维的浸润性有提升作用。但是，纤维分子取向结构和超分子结构受HC1影响程度越大则纤维力学性能损失越严重，分子链越松弛，破坏纤维结构需要的能量越低，则纤维的热性能越差。图1中的纤维SEM照片表明，经HC1处理后纤维表面粗糙度增加，局部有刻蚀并伴随沟槽生成，表面由光滑平整变得凹凸不平，亚甲基蓝溶液在毛细管芯吸作用下沿着纤维表面的沟槽上升。随着HC1浓度、温度的增加和处理时间的延长纤维表面的刻蚀程度加重，纤维表面更为粗糙。粗糙化程度的增加使浸润高度随之提高，局部的刻蚀也使热性能、细度及力学性能有一定程度的降低。
+
+![](images/f44eb7333fe5e7a535b943b30619e8d69957342eeb30a6ca1b37f7602aa6cc1c.jpg)  
+Fig.4Hydrolysis process of polyimide fibers in acidic and alkaline condition
+
+![](images/0961c18defd4d4535b70cc2aa1958c5eaefffaf74d02f5c750756f835cfbd83b.jpg)  
+图5HC1处理纤维的XRD图谱Fig.5 XRD pattern of fibers by HCl treatment
+
+# 3结论
+
+(1)用HC1处理后纤维的表面凹凸不平，粗糙度提高，局部发生刻蚀，引入了活性基团，提高了表面能，改善了浸润性能。随着HC1浓度或温度提高以及处理时间的延长，浸润性能改善的趋势加快，纤维的相溶性、界面性，热性能保持较好，细度及力学性能略微下降。
+
+(2)在 $\mathrm { H } ^ { + }$ 作用下纤维酰亚胺环少量开环水解为聚酰胺酸，化学结构变化不明显，纤维表层有一部分结晶区转化为非结晶区。在转化过程中纤维分子的取向结构和超分子结构受到影响，聚合物分子链变松弛，分子链刚性下降，微观聚集态结构有序性也受到破坏，非结晶区比例的上升，对纤维的浸润性能也有促进作用。
+
+(3)HC1处理工艺条件温和，在兼顾纤维其他性能的同时能有效对纤维表面进行功能化改性，有助于改善增强体纤维与树脂基体之间的界面粘结性能。
+
+# 参考文献
+
+[1] G.Deng,Q.H. Zhang. Simulation of dry-spinning process of poly
+
+imide fibers[J]. J.Appl. Polym. Sci.,2009,113(5): 3059   
+[2] J. Dong, Q.H. Zhang. Hydrogen-Bonding Interactions and Molecular Packing in Polyimide Fibers Containing Benzimidazole Units [J].Macromol. Mater. Eng.,2014,299(10): 1170   
+[3] I. Butnaru, D.Serbezeanu. Physical and thermal properties of poly (ethylene terephthalate)fabric coated with electrospun polyimide fibers[J].High. Perform.Polym,2015,27(5): 616   
+[4] Y.M. Zhang,L. Ionov. Actuating Porous Polyimide Films[J]. ACS. Appl. Mater Inter.,2014,6(13): 10072   
+[5]A.A.Harchenko,D.I.Brinkevich.Modification of the subsurface layers of polyimide films upon boron-ion implantation[J]. J. Surf. Investig-X-Ra.,2015,9(1): 87   
+[6] Liu Y,Liang G Z. Surface modification and interface properties of enzymemediated grafting kevlar fibers[J]. Chinese Journal of Materials Research,2015,29 (10): 794 (刘 洋,梁国正.生物酶催化接枝芳纶纤维和复合材料的界面性 能[J].材料研究学报,2015,29(10):794)   
+[7] Ma X L,Ao Y H, Xiao L H,et al.Effect of surface modification of carbon fiber on friction properties of carbon fiber/phenolic resin matrix composite[J]., Chinese Journal of Materials Research,2015,29 (2): 101 (马小龙,敖玉辉,肖凌寒等.表面改性对碳纤维/酚醛树脂基复合 材料摩擦性能的影响[J].材料研究学报,2015,29(2):101)   
+[8] Yi Z B,Feng L B, Hao X Z, et al. Effect of surface treatment on properties of carbon fiber and reinforced composites[J]. Chinese Journal of Materials Research,2015,29(1): 67 (易增博,冯利邦,郝相忠等.表面处理对碳纤维及其复合材料性 能的影响[J].材料研究学报,2015,29(1):67)   
+[9] M.Kim, H. Mi. Tunable biaxial in-plane compressive strain in a Si nanomembrane transferred on a polyimide film[J].Appl.Phys. Lett., 2015,106(21): 1   
+[10] Que ZB, Wang X D,Huang P, et al. Surface modification of polyimide film by acid-base treatment[J]. Polymer Materials Science and Engineering,2010,26(5): 39 (阙正波,王晓东，黄培等.酸碱处理对聚酰亚胺薄膜的表面改性 [J].高分子材料科学与工程,2010,26(5):39)   
+[11] Z. Q. Han, S.L. Qi, W.Liu, et al. Surface-modified polyimide fiber-filled ethylenepropylenediene monomer insulations for a solid rocket motor: processing, morphology,and properties[J]. Ind. Eng. Chem. Res.,2013,52(3): 1284   
+[12] G.Deng, Q.H. Zhang. Simulation of polyimide fibers with trilobal cross section produced by dry-spinning technology[J].Polym. Eng. Sci.,2015,55(9): 2148   
+[13] J.J. Chang,D. Z. Wu. Structures and properties of polyimide fibers containing ether units[J]. J. Mater. Sci.,2015,50(11): 4104   
+[14] I. Stoica,A.I. Barzc. Surface topography effect on fibroblasts population on epiclon- based polyimide films[J]. J.Adhes. Sci. Technol.,2015,29(20): 2190   
+[15] H. B. Xiang, Z. Huang. Structure and properties of polyimide (BTDA-TDI/MDI co- polyimide) fibers obtained by wet- spinning[J]. Macromol. Res.,2011,19(7): 645
+
+(责任编辑:黄青)

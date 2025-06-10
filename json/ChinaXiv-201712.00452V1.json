@@ -1,0 +1,251 @@
+[
+    {
+        "type": "text",
+        "text": "综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "泛素连接酶Fbw7的调控异常及在肿瘤中的作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "林 靖',刘 蓉²,宋朝理1  \n1西部战区空军医院神经外科，神经内科，四川成都610021",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：泛素蛋白酶系统对于维持细胞正常生理功能具有重要作用，Fbw7是E3泛素连接酶的底物结合单位，参与泛素化降解与细胞增殖、分化、凋亡有关的重要分子，其调控异常在肿瘤细胞中极为常见。Fbw7调控的底物包括一系列促癌分子和癌症相关转录因子,被认为是重要的抑癌分子。比如Fbw7可以通过调控Cyclin E、c-Myc、AuroraA减少因细胞周期异常而造成的染色体不稳,通过调控p63、Mcl1来影响细胞损伤修复并增加细胞凋亡,通过调控TGFβ、mTOR抑制肿瘤转移，再者可以通过对Notch和Bcl2家族分子的调控增加肿瘤细胞对化疗的敏感性。因此稳定Fbw7的表达可以抑制肿瘤表型的产生和发展,本文就Fbw7结构功能、突变机制，调控通路及其在肿瘤发生发展中的作用进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：Fbw7;泛素蛋白酶系统;泛素连接酶；肿瘤",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deregulation of Ubiquitin Ligase Fbw7 and its role in Tumor Progression ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LINJing,LIURong²,SONG Chaoli’ 1DepartmentofNeurosurgery,DepartmentofNeurology,General HospitalofWesternAirForce,Chengdu 600China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Ubiquitin proteasome system isphysicallyesential tonormal cellfunctions.Fbw7isasubunitofE3 ligase specifically binding toaseriesof substratesto promote their lysosomal degradation,theregulation of which iscommonly mutated intumors.ostubstratesofbw7aredominantoncogenes,icludingCyclinE,c-Myc,Notch,AuroraAd, which itensivelyregulatecell cycle， DNA repair， metastasisas wellas chemoresistance. Therefore，Fbw7 targeting interventioncaninhibit malignanttransformationofcels.Thisreview focusesonthebiologicalfunctions,genetic alterations and regulation networks of Fbw7 in order to highlight its role in tumor progression. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Fbw7; ubiquitin proteasome system; ubiquitin ligase; tumor ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "泛素蛋白酶系统通过迅速降解蛋白质来调节多种细胞生理过程[-2]。泛素酶包括泛素激活酶E1,形成并调节泛素分子链的泛素结合酶E2和直接与底物连接的泛素连接酶E3，E3连接酶直接决定泛素化调控的特异性，它主要包括APC（分裂后期促进复合物），和SCF(SKP1-CUL1-F-box复合物)这两大类型，而Fbw7是SCF型E3连接酶的底物结合单位3，其调控异常在所有泛素体系中最为常见，高通量大样本的芯片检测和生物信息分析证实Fbw7在多种肿瘤中发生突变[4]。Fbw7参与降解的底物包括一系列已知的促癌因子，其中有一大部分是参与细胞恶性转化的转录因子和促癌信号通路上的蛋白分子[4-5],因此,Fbw7被认为是重要的抑癌分子而逐渐受到重视。本文旨在对Fbw7的结构功能，异常调控机制和底物泛素化在肿瘤恶性生物行为中的作用等研究进展进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Fbw7的结构和功能",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fbw7是泛素蛋白酶系统中的SCF型E3连接酶的底物识别组份，包含F-box域、WD40-repeat域和D域3个功能域。Fbw7通过WD40域β-螺旋形成的口袋结构与底物特异结合,然后通过F-box序列与另外3个亚单位SKP1,CUL1,及RBX1一起构成E3连接酶复合物骨架，将泛素结合酶上的泛素Ub(链)连接到相应底物上[7]。Fbw7发挥泛素化功能的前提是与底物分子的特异性结合，Fbw7的底物具备一个或两个磷酸化识别区，磷酸化后的CPDs与单体或二聚化Fbw7的底物识别序列形成稳定结合并被泛素化[8-9]，随后被细胞内26S溶酶体降解。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 Fbw7的调控异常 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1Fbw7基因突变 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fbw7的突变类型有3种，最常见为错义突变，此种突变发生在Fbw7的WD-repeats域的3个精氨酸残基上，由于这些残基形成的肽链结构对于Fbw7与底物CPDs的特异结合至关重要,因此该型突变导致显性负效应，使Fbw7与底物的亲和力严重受损。第2种突变属于无义突变，该型突变的转录终止位点可发生在决定二聚化的D序列前或后，从而对正常Fbw7单体的功能产生影响，以上两型同属点突变，占所有突变种类的3/4。第三种突变型是单个等位基因删失，这种情况下细胞依靠另一完好的等位基因产生正常野生型Fbw7单体，因此对底物降解功能的影响较小。另外，在乳腺癌中尚发现有Fbw7的启动子甲基化引起其功能失活[5.10-1]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2CPDs的磷酸化调控异常 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "底物CPDs的磷酸化由相应的激酶参与,比如Cy-clinE的CPD区第384位丝氨酸和380位苏氨酸分别由CDK2(细胞周期激酶2)和GSK3(糖原合成激酶3)磷酸化，往上游第380位苏氨酸则由GSK3(糖原合成激酶3)磷酸化。GSK3另可磷酸化HIF-1α以及在细胞不同周期进程中磷酸化JunB及Mcl1,促进它们与Fbw7的结合和降解[1-14]。GSK3的磷酸化作用受到丝裂原刺激的PI3K-AKT通路及Wnt通路抑制，而抑癌因子PTEN则可通过拮抗PI3K而正向调控GSK3，这些通路发生异常的肿瘤细胞中，GSK3功能出现异常失活，从而导致癌症相关蛋白分子的积累[15]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3Fbw7的上游分子异常 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mao等报道细胞受到UV照射或阿霉素作用后胶质瘤细胞中诱导p53表达而引起Fbw7β的表达增加。小分子RNA近年来被发现可以调节Fbw7的表达，在白血病、胃癌、肺癌中，MiR-223、MiR-25、Mir-503等通过抑制Fbw7水平而促使细胞表达干性表型，细胞周期失控,增殖侵袭异常以及产生化疗耐药[17-18]。再者,NF-kB1、SREBP2等转录因子也通过调节microRNA来影响Fbw7表达[19-20]。新发现的一些Fbw7调控因子还有C/EBP-8、PIN1、Hes-5、ERK激酶等[21-24]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3Fbw7的底物及其在肿瘤中的调控作用",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如前所述，Fbw7通过泛素化降解途径调控底物，广泛参与细胞增殖、分化、凋亡、代谢等生物行为。Fbw7的底物大部分是与肿瘤发生发展密切相关的促癌因子以及重要转录因子，深入研究Fbw7对这些底物的调控作用，有助于我们了解Fbw7是如何参与肿瘤细胞的恶性转化和恶性生物学行为，并开发针对其调控机制的肿瘤治疗措施和手段。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1Fbw7参与细胞周期调控 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "细胞周期进程由周期依赖激酶CDKs驱动并由周期蛋白Cyclins和CDK共同调节，细胞周期的异常调控引起细胞生长和分化异常,并由此引发肿瘤[25]。泛素蛋白酶系统对细胞周期的调节至关重要，F-box蛋白Fbw7最早就是在酵母菌中发现能够调控细胞周期相关蛋白而被命名为 $\\mathrm { C d c } 4 ^ { [ 2 6 ] }$ ，后来的研究逐渐发现其泛素化调控的底物广泛参与周期进程",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CyclinE与细胞周期激酶CDK2共同调节细胞从G1到S期的进程，对细胞增殖起到关键限速作用。作为细胞周期的重要调控因子，CyclinE受到泛素蛋白酶系统的精确调控，其突变异常在肿瘤细胞中早已确认，过度激活的CyclinE引起染色体基因组不稳定从而引发肿瘤。有研究发现p53和Fbw7可协同调控CyclinE,减少因细胞周期异常产生的基因组不稳性[27-28]。CyclinE是典型的双CPDs底物，肽链C端的T380/S384,和N端的T62/S58被磷酸化后可分别于Fbw7单体形成连接，相应的当其中S384或T62位点磷酸化受到抑制导致对应CPD亲和力下降时Fbw7则须形成二聚体才能与其结合[8-9]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c-Myc是控制细胞进入以及离开分裂周期的关键转录因子，在许多恶性肿瘤中发现具有拷贝数扩增，基因转位等突变而导致表达水平升高，其转录活性参与调控细胞增殖、蛋白合成、凋亡、代谢以及细胞分化等生物过程[29],因此c-Myc在细胞内的合理调控对细胞的正常生长至关重要，其降解或调控异常即可导致细胞恶性转化。正常生长的细胞中,c-Myc蛋白极不稳定,半衰期仅有 $3 0 \\mathrm { m i n }$ ，,这是因为细胞中泛素化体系的存在使其在细胞完成分裂后随即受到降解。c-Myc与Fbw7结合的磷酸化位点位于其CPD区的T58和S62残基，两者共同决定与Fbw7的亲和力，这两个位点在肿瘤细胞中经常检测到基因突变[30],导致c-Myc在G1和S期的异常表达水平。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notch蛋白家族属于配体激活的单次跨膜异二聚体转录因子，其胞内区域由γ-分泌蛋白水解酶切割后进入核内，并激活数种细胞分化、增殖、调亡等生理过程[31]。Fbw7首先在线虫中由基因筛查发现是Notch的负性调控因子，并证实Notch1,Notch4的具备转录活性的胞内段，以及切割它们的y-分泌蛋白水解酶复合物的亚单位presenilin,均受到Fbw7泛素化降解[32]。Fryer等[33]研究指出,Fbw7与Notch的结合,是基于CyclinE:CDK8对Notch蛋白分子PEST区域中CPD的T2512残基的磷酸化。业已发现在 $5 0 \\%$ 的T细胞急性淋巴白血病(T-ALL)发生Notch1的基因突变，且突变集中发生在上述与Fbw7互作的PEST序列,结合T-ALL中高频率的Fbw7突变，可见Notch1与Fbw7的异常表达对于T-ALL极具相关性。但是当在另一种细胞胚胎成纤维细胞中上调Notch过后却观察到细胞增殖减少，说明Fbw7在该类细胞中可能是调控了别的底物来发挥抑瘤效果的，由此可见Fbw7对周期的调控具有细胞和器官特异性[34]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c-Jun是API转录因子复合物的组份，在多种肿瘤细胞中呈组成性激活[35]。早期发现c-Jun基因敲除的成纤维细胞增殖抑制，并且在体外试验中失去促角化细胞增殖的能力。在成纤维细胞受到UV照射发生周期阻滞后，c-Jun的存在可以使得细胞重新进入周期进程。Musti3研究最早发现c-Jun受到Fbw7的负性调控，而调控的前提就是c-Jun的N端序列被JNK磷酸化。Wei等[7发现除了N端磷酸抗原识别区，C端的T239/S243也同样可以被GSK3磷酸化而启动与Fbw7的结合，因此c-Jun可能与CyclinE一样同属双CPDs底物。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AuroraA是一种有丝分裂激酶，在细胞G2-M进程中发挥重要作用，一方面参与着丝粒形成和染色体分布，另一方面响应纺锤体组装检验蛋白MAD2，参与维持有丝分裂检验点的正常机制[38]。在正常细胞中,Au-roraA的表达受到节律性严格调节，仅在处于在分裂旺盛的细胞中可以检测到。而在肿瘤细胞中，发现AuroraA表达过度上调，导致着丝粒功能异常以及检验点机制紊乱，从而造成细胞多倍分裂而产生恶性转化[39]Kwon[4%对Fbw7泛素化结合AuroraA进行了研究，发现AuroraA与Fbw7结合的区域位于其催化亚基的T217/E221,此位点被GSK3β磷酸化后才能受到Fbw7泛素化降解。再者，另一抑癌基因Pten敲减过后，可以通过Akt/GSK3β途径抑制Fbw7对AuroraA的调控。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2Fbw7参与DNA损伤反应和细胞凋亡",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fbw7对于维持细胞染色体和基因组稳定性有重要作用，这个作用与其底物参与DNA损伤的修复以及继发的凋亡等过程有关，而对Fbw7参与细胞损伤修复和凋亡的研究，始于对p53-Fbw7途径的了解，众所周知，p53参与DNA修复，保持基因组稳定，是重要的抑癌因子,p53可以正向调控Fbw7β的表达，而Fbw7也可以反过来稳定p53水平，从而触发有丝分裂抑制剂引起的周期检验机制。目前与细胞损伤和凋亡相关的Fbw7底物有如下几种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P63是一种p53相关的凋亡诱导分子，但是在肿瘤中的作用与p53相反，其基因拷贝和表达在肿瘤细胞中呈异常上调，因此可能是一种促癌分子。P63可由转录剪切形成6种异构体，均含有与p53同源的DNA结合区以及蛋白寡聚化区，其中，△Np63与Fbw7的关系最为密切，研究发现△Np63在MDM2的细胞核定位信号的引导下离开细胞核然后被Fbw7降解。另外，在UV照射或者阿霉素引起细胞损伤后，胞浆中Fbw7β的表达被激活，在MDM2的存在下降解内源性的△Np63从而造成细胞凋亡[41]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TGIF1是转化生长因子TGFβ的负性调控因子，TGFβ信号通路调控凋亡在内的许多重要的细胞生理活动，其表达和功能异常可引起肿瘤以及血管疾病。TGIF1是近来发现的受Fbw7泛素化调控的底物，通过下调TGIF1,Fbw7增强TGFβ依赖的转录活性，反过来，通过基因敲减抑制Fbw7活性后，TGIF1在细胞聚积并抑制TGFβ的正常转录活性，从而导致细胞异常增殖、侵袭等恶性行为，另外,通过Fbw7-TGIF1-TGFβ途径，可以改变细胞的凋亡反应，从而成为潜在的肿瘤治疗靶点[42-43]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mcl-1是凋亡家族Bcl-2成员，其作用是抑制该家族的促凋亡因子Bax、Bak从而对凋亡起到负向调控。Wertz等[44]证明Mcl-1的调控是由蛋白酶系统Fbw7参与，由GSK3激酶对Mcl-1的CPD区S121/E125位进行磷酸化，而Inuzuka则证明磷酸化的S159/T163与Fbw7的亲和力更高，他们进一步分别在卵巢癌和T-ALL来源的肿瘤细胞株中慢病毒siRNA转染抑制掉Fbw7后，Mcl-1原本在有丝分裂期的下调受到抑制，瘤细胞凋亡减少，表明Fbw7通过调控Mcl-1从而增加细胞凋亡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3Fbw7参与肿瘤细胞转移 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人类癌症的死因 $90 \\%$ 是由肿瘤细胞发生转移造成的，肿瘤细胞往邻近或远隔器官的转移、侵袭,需要一系列与细胞粘附、接触相关的整合素、蛋白酶分子的参与。已证实在一些肿瘤中，Fbw7可以调控一些与细胞侵袭迁移有关的分子的表达，有研究发现c-Myc可以通过激活TGFβ从而激活SNAIL转录因子，进而促进表皮-间质细胞转换(EMT)，而EMT的发生是肿瘤细胞侵袭和迁移的必要因素。在对TGFβ的研究中发现该分子在肿瘤的不同阶段有不同的促瘤效应，在肿瘤早期因引发凋亡而起到抑瘤作用，而在肿瘤晚期则可激活EMT而造成肿瘤转移[45]。以上c-Myc和TGFβ均是已知的Fbw7调控底物。另外一个与肿瘤转移密切相关的信号通路是C/EBP8-mTOR-HIF1α，该通路与Fbw7的功能也密不可分,Balamurugan[2在乳腺癌细胞中研究发现，在缺氧条件下肿瘤细胞可诱导CCAAT增强子结合蛋白C/EBP8的表达，并直接抑制Fbw7，从而激活Fbw7的底物mTOR,激活的mTOR通过mTOR/AKT/S6K1通路上调缺氧诱导因子HIF1α的表达，从而使得肿瘤细胞适应缺氧环境并发生侵袭和转移，该研究也是首次将Fbw7和肿瘤转移行为联系起来。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4Fbw7参与肿瘤耐药 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肿瘤耐药机制非常复杂，包含多种蛋白分子和信号通路。肿瘤细胞可以利用能量依赖型转运蛋白（如ABC家族蛋白)将毒性化学药物泵至胞外；同时在负责将化疗药物跨膜输送进胞内的分子上也发生突变[46]；DNA双链断裂修复(错配修复MMR、核苷酸修复NER)机制的过度激活，凋亡、自噬及衰老过程的调控失常，都可引起肿瘤细胞经受住细胞毒药物引起的DNA损伤反应并逃避死亡命运[47-48];更近的研究发现,肿瘤细胞还可以通过改变细胞的行为和性状来逃避化疗杀伤作用，这其中就包含表皮-间质转化以及细胞干性转化[49]。Fbw7在肿瘤细胞耐药机制中的作用是最近几年的研究中得到证实，Wertz等[44]在研究Fbw7与Mcl-1的调控作用中发现Fbw7失活导致的Mcl-1水平上调使结肠癌及卵巢癌细胞对抗微管药物Taxol及长春新碱耐药，而在Fbw7敲除的细胞中利用RNA干扰抑制Mcl-1水平则使细胞凋亡显著增加从而恢复对药物的敏感性。Inuzuka[2的另一项研究则发现，高表达Mcl-1的Fbw7敲除T-ALL细胞，对多激酶抑制剂sorafenib高度敏感，但是却对Bcl-2蛋白家族抑制剂ABT-737表现出耐药。另外，Fbw7同样参与了细胞对gamma分泌酶抑制剂GSI的药物反应，其机制是GSI可以抑制Notch分子胞内活性片段ICN的生成，而敲减Fbw7则可增加Notch的ICN水平从而稳定其下游分子c-Myc,进而导致细胞继续增殖并耐药[50]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fbw7作为细胞泛素蛋白酶系统中的关键组份，通过特异性结合底物使其进人泛素化降解途径来发挥调控细胞周期、生长增殖、调亡、损伤修复等重要生理过程的功能。当Fbw7的功能因为其基因、转录、或者表观修饰层面上的突变而发生异常时，受其控制的各种底物分子相应发生异常积累，从而导致细胞发生过度增生、侵袭转移、耐药等恶性行为。针对Fbw7及其上下游通路的分子靶标实施干预将为临床肿瘤治疗提供新的手段。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Hershko A,Ciechanover A.The ubiquitin system[J].Annu Rev Biochem,1998,67(4): 425-9.   \n[2]Nakayama KI, Nakayama K.Ubiquitin ligases:cell-cycle control and cancer[J].Nat Rev Cancer,2006,6(5): 369-81.   \n[3]Lau W,Fukushima H,Wei W. The Fbw7 and betaTRCP E3 ubiquitin ligases and their roles in tumorigenesis[J].Front Biosci, 2012,17(6): 2197-212.   \n[4]Bredel M,Bredel C,Juric D,et al. Functional network analysis reveals extended gliomagenesis pathway maps and three novel MYC-interacting genes in human gliomas[J]. Cancer Res,2005,65 (19): 8679-89.   \n[5]Welcker M,Clurman E.FBW7 ubiquitin ligase:a tumour suppressor at the crossroadsof cell division， growth and differentiation[J].Nat Rev Cancer,2008,8(2): 83-93.   \n[6]Wang L,Ye XT,Liu YY,et al.Aberrant regulation of FBW7 in cancer[J]. Oncotarget,2014,5(8): 2000-15.   \n[7]Hao B, Oehlmann S, Sowa E,etal. Structure of a Fbw7-Skpl-cclin E complex:multisite-phosphorylated substrate recognition by SCF ubiquitin ligases[J].Mol Cell,2007,26(1): 131-43.   \n[8]Welcker M,Larimore A,Swanger J,et al．Fbw7 dimerization determines the specificity and robustness of substrate degradation [J].Genes Dev,2013,27(23): 2531-6.   \n[9]Koepp M,Schaefer K,Ye X,et al.Phosphorylation-dependent ubiquitination of cyclin E by the SCFFbw7 ubiquitin ligase [J]. Science,2001,294(40):173-7.   \n[10] Cheng YB,Li G.Role of the ubiquitin ligase Fbw7 in Cancer progression[J]. Cancer Metastasis Rev,2012,31(1/2): 75-87.   \n[11]Akhoondi S,Lindstrom L,Widschwendter M,et al. Inactivation of FBXW7/hCDC4 $\\cdot \\beta$ expression by promoter hypermethylation is associated with favorable prognosis in primary breast cancer [J]. Breast Cancer Res,2010,12(6): R105-8.   \n[12]Inuzuka H, Shaik S,Onoyama I,et al．SCF(FBW7） regulates cellular apoptosis by targeting MCL1 for ubiquitylation and destruction[J]. Nature, 2011,471(36): 104-9.   \n[13] Fluigel D, Gorlach A,Kietzmann T. GSK- $3 \\beta$ regulates cell growth, migration，and angiogenesisvia Fbw7 and USP28-dependent degradation of HIF-1α[J].Blood,2012,119(5): 1292-301.   \n[14]Pérez BB,Farras R. Regulation of GSK3β-FBXW7-JUNB axis[J]. Oncotarget,2013,4(7): 956-7.   \n[15]Ren H,Zhao LQ,Li YK,etal.The PI3 kinase inhibitor NVP-BKM120induces GSK3/FBXW7-dependent Mcl-1 degradation，contributingtoinductionofapoptosisand enhancement of TRAIL-induced apoptosis [J]. Cancer Lett, 2013, 338(2): 229-38.   \n[16]Mao H,Perez LJ,Wu D,et al. Fbxw7/Cdc4 is a p53-dependent, haploinsuficient tumour suppressor gene [J]. Nature， 2004,432 (718): 775-9.   \n[17]Kurashige J,Watanabe M, Iwatsuki M,et al. Overexpression of microRNA-223regulatestheubiquitin ligase FBXW7in oesophageal squamous cell carcinoma[J]. Br J Cancer,2012,106 (1): 182-8.   \n[18] LiL, Sarver AL, Khatri R,et al. Sequential expression of miR-182 and miR-503 cooperatively targets FBXW7，contributing to the malignant transformation of colon adenoma to adenocarcinoma[J]. J Pathol,2014,234(4): 488-501.   \n[19] Kumar V, PalermoR,Talora C,et al. Notch and NF-kB signaling pathwaysregulatemiR-223/FBXW7axisinT-cellacute lymphoblastic leukemia[J].Leukemia,2014,28(12): 2324-35.   \n[20] Esquejo M, Jeon TI, Osborne F. Lipid-cell cycle nexus: SREBP regulates microRNAs targeting Fbxw7[J]. Cell Cycle,2014,13(3): 339-40.   \n[21] Balamurugan K,Wang M, Tsai H, et al. The tumour suppressor $\\mathrm { C } /$ （204 EBPδ inhibits FBXW7 expression and promotes mammary tumour metastasis[J].EMBO J,2010,29(24): 4106-17.   \n[22] Min H,Lau W,Lee H,et al. Negative regulation of the stabilityand tumor suppressor function of Fbw7 by the Pinl prolyl isomerase[J]. Mol Cell,2012,46(6): 771-83.   \n[23] Sancho R,Blake M, Tendeng C,et al. Fbw7 repression by hes5 creates a feedback loop that modulates Notch-mediated intestinal and neural stem cell fate decisions[J].PLoS Biol,2013,11(6): e1001586-94.   \n[24]Ji S,Qin Y,Shi S,et al.ERK kinase phosphorylates and destabilizes the tumor suppressor FBW7 in pancreatic cancer[J]. Cell Res,2015,25(5): 561-73.   \n[25]Evans T,Rosenthal T,Youngblom J,et al．Cyclin: a protein specified by maternal mRNA in sea urchin eggs that is destroyed at each cleavage division[J]. Cell,1983,33(2): 389-96.   \n[26]Hartwell LH, Culotti J. Genetic control of the celldivision cycle in yeast[J].Science,1974,183(4120): 46-51.   \n[27] Spruck H, Won A,Reed I. Deregulated cyclin E induces chromosome instability[J]. Nature,1999,401(50): 297-300.   \n[28]Minella C,Grim E，Welcker M,et al．p53 and SCFFbw7 cooperatively restrain cyclin e-associated genome instability [J]. Oncogene,2007,26(48): 6948-53.   \n[29]Eilers M,Schirm S,Bishop M. The MYC protein activates transcription of the alpha-prothymosin gene[J].EMBO J,1991,10 (1): 133-41.   \n[30] Yada M,Hatakeyama S,Kamura T,et al. Phosphorylation-dependent degradation of c-Myc is mediated by the F-box protein Fbw7 [J].EMBO J,2004,23(10): 2116-25.   \n[31]Artavanis TA,Rand S,Lake RJ,et al.Notch signaling:cell fate control and signal integration in development[J]. Science,1999,32 (284): 770-6.   \n[32] Oberg C,Li J,Pauley A,et al. The notch intracelllar domain is ubiquitinated and negatively regulated by the mammalian Sel-10 homolog[J].JBiol Chem,2001,276(38): 35847-53.   \n[33]Fryer J,White B,Jones A.Mastermind recruits CycC:CDK8 to phosphorylate the Notch ICD and coordinate activation with turnover[J]. Mol Cell,2004,16(4): 509-20.   \n[34]Ishikawa Y,Onoyama I,Nakayama I,et al. Notch-dependent cell cycle arrest and apoptosis in mouse embryonic fibroblasts lacking Fbxw7[J]. Oncogene,2008,27(47): 6164-74.   \n[35]Hartl M,Bader G,Bister K.Molecular targets of the oncogenic transcription factor jun[J].Curr Cancer Drug Targ，2O03,3(1): 41-55.   \n[36]Musti M,Treier M,Bohmann D.Reduced ubiquitin-dependent degradation of c-Jun after phosphorylation by MAP kinases [J]. Science,1997,275(98): 400-2.   \n[37]Wei WY,Jin JP, Schlisio S,et al. The v-Jun point mutation allows c-Jun to escape GSK3-dependent recognition and destruction by the Fbw7 ubiquitin ligase[J]. Cancer Cell,2005,8(1): 25-33.   \n[38]Marumoto T, Zhang D, Saya H. Aurora-A- a Guardian of poles[J]. Nat Rev Cancer, 2005,5(1): 42-50.   \n[39] Giet R,Petreti C,kinases C.Aurora prigent,aneuploidy and cancer: a coincidence or a real Link[J].Trends Cell Biol,2005,15(7): 241-50.   \n[40]Kwon W,Kim J,Wu D,et al.Pten regulates Aurora-A and cooperates with Fbxw7 in modulating radiation-induced tumor development[J].Mol Cancer Res,2012,10(6): 834-44.   \n[41] GalliF, Rossi M,D'alessandra Y,et al. MDM2 and Fbw7 cooperate to induce p63 protein degradation following DNA damage and cell differentiation[J].JCell Sci,2010,123(Pt 14): 2423-33.   \n[42]Massagué J,Wotton D. Transcriptional control by the TGF-beta/ Smad signaling system[J].EMBO J,2000,19(8): 1745-54.   \n[43]Bengoechea AT,Ericsson J. Tumor suppressor Fbxw7 regulates TGFβ signaling by targeting TGIF1 for degradation[J]. Oncogene, 2010,29(38):5322-8.   \n[44]Wertz IE,Kusam S,Lam C,et al. Sensitivity to antitubulin chemotherapeutics is regulated by MCL1 and FBW7[J].Nature, 2011,471(7336): 110-4.   \n[45] Wolfer A,Ramaswamy S.MYC and metastasis[J].Cancer Res, 2011,71(63): 2034-7.   \n[46]Fletcher JI, Haber M,Henderson MJ.ABC transporters in cancer: more than just drug efflux pumps[J].Nat Rev Cancer,2O1o,10(2): 147-56.   \n[47]Happold C,Roth P,Wick W,et al.Distinct molecular mechanisms of acquired resistance to temozolomide in glioblastoma cells[J].J Neurochem,2012,122(2): 444-55.   \n[48] Zhang JH, Stevens F, Laughton A,et al.Acquired resistance to temozolomide in glioma cell lines: molecular mechanisms and potential translational applications [J].Oncology，201o,78(2): 103-14.   \n[49]Dean M,Fojo T,Bates S. Tumour stem cels and drug resistance[J]. Nat Rev Cancer,2005,5(4): 275-84.   \n[50]O'neil J,Grim J, Strack P,et al. FBW7 mutations in leukemic cells mediateNOTCHpathwayactivationandresistance to gamma-secretase inhibitors[J].JExp Med,2007,204(8):1813-24. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

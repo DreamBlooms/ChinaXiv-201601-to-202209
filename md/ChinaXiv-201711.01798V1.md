@@ -1,0 +1,244 @@
+李玉1,2 陶焕青²\* 张玉蝶²　徐怡钟²　郝宁²　邹苏萍²　冯士彬²　王希春²周裔彬」吴金节²宛晓春 1\*\*（1.安徽农业大学茶树生物学与资源利用国家重点实验室，合肥230036；2.安徽农业大学动物科
+
+技学院，合肥230036)
+
+摘要：本试验旨在探究绿茶粉及绿茶多酚对犬的抗氧化作用。选用5月龄杂交幼犬15只，随机分为3个组，每组5只。对照组饲喂基础饲粮，绿茶粉组饲喂基础饲粮 $+ 1 . 0 \%$ 的绿茶粉，绿茶多酚组饲喂基础饲粮 $+ 0 . 2 5 \%$ 的绿茶多酚。试验期为 $8 4 { \mathrm { ~ d ~ } }$ 。结果表明：与试验开始时相比，试验结束时对照组犬体重增长了 $1 6 2 \%$ ，绿茶粉组犬体重增长了 $101 \%$ ，绿茶多酚组犬体重增长 $132 \%$ 且绿茶粉组和绿茶多酚组试验结束时犬体重显著低于对照组( $( P { < } 0 . 0 5 )$ ，比对照组分别降低了 $61 \%$ 和 $30 \%$ 。试验第84天，绿茶粉组及绿茶多酚组犬血清中谷丙转氨酶（ALT）、谷草转氨酶（AST）、乳酸脱氢酶（LDH）活性均显著或极显著低于对照组（ $P { < } 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { ~ . ~ } }$ )，血清超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH- $\mathbf { \cdot P x }$ )的活性极显著高于对照组( $_ { \cdot } P { < } 0 . 0 1 \$ ，血清丙二醛（MDA）含量极显著低于对照组（ $_ { \scriptstyle P < 0 . 0 1 }$ )，肝脏抗氧化基因[谷氨酸半胱氨酸连接酶催化亚基（GCLC)、谷氨酸半胱氨酸连接酶修饰亚基（GCLM)、血红素氧合酶1（HO-1）、过氧化氢酶（CAT）]和I相解毒酶基因[谷胱甘肽硫转移酶 M1（GSTM1）和醌氧化还原酶1（NQO1）]的mRNA 相对表达量显著高于对照组( $_ { , P < 0 . 0 5 ) }$ 。综上所述，在本试验条件下，在犬饲粮中添加 $1 . 0 \%$ 的绿茶粉或 $0 . 2 5 \%$ 的绿茶多酚均具有保护肝脏、抗氧化、促进Ⅱ相解毒酶基因表达及控制体重的作用。
+
+关键词：犬；绿茶粉；绿茶多酚；肝功能；抗氧化基因；Ⅱ相解毒酶基因中图分类号：S816 文献标识码：A 文章编号：
+
+1 近年来，随着医疗水平和宠物诊疗水平的不断提高，对自由基的研究也不断深入，逐步发现  
+2犬的慢性病与机体内自由基堆积引起的氧化损伤有关系。熊前等[指出，幼犬（一般小型犬指从
+
+断奶到8月龄左右，大型犬指断奶到12月龄左右）免疫体系不健全，抗病能力低下，发病率和  
+死亡率都是最高的，在这个阶段要饲喂幼犬饲粮以满足生长所需的营养；成犬（一般指 8\~12 月  
+龄以上的犬）发育基本成熟，免疫体系健全，抗病能力强，在这个阶段饲喂成犬饲粮。对于幼犬  
+的饲养管理，不仅需要根据其生长发育的特点补充营养，还需要添加一些功能性的物质来维护幼  
+犬不健全的消化系统，提高免疫力。我国茶叶资源丰富，茶叶中富含多种有效成分，开发茶叶的新用途具有重要的意义。茶叶的  
+功能是由茶叶中的各种成分共同决定的，其中起主要作用的是茶叶中的多羟基酚类物质，即茶多  
+酚。自从日本科学家发现茶多酚具有抗氧化性以来，其分离制取、应用研究受到广泛的关注[2]。  
+目前，绿茶粉和绿茶多酚在畜牧业和饲料行业中的应用已取到良好的效果。但是绿茶粉及绿茶多  
+酚作为一种天然的抗氧化剂在犬等伴侣动物类上的应用很少见报道。因此，本试验旨在研究绿茶粉和绿茶多酚对犬的抗氧化作用，探究其在犬上的应用效果，为  
+绿茶粉和绿茶多酚在犬上的应用提供一定的理论指导，为含茶宠物饲粮的研发提供理论依据。  
+1材料与方法  
+1.1试验材料绿茶粉由安徽农业大学茶与食品科技学院馈赠，绿茶多酚购于芜湖天远科技有限公司，二者  
+主要成分含量见表1。犬不同阶段基础饲粮均为上海淘乐思科技有限公司与美国淘乐思实验中心联合研制的  
+Hentoo（恩途）全价犬粮，为膨化颗粒料，其营养水平见表2。
+
+表1本试验所用绿茶粉和绿茶多酚中主要成分含量  
+
+<html><body><table><tr><td>Table 1</td><td colspan="8">The major component contents of green tea powder and GTPs used in this experiment</td><td>%</td></tr><tr><td rowspan="4">项目Items</td><td>没食</td><td>没食子</td><td>表没食</td><td>儿茶</td><td>四氢</td><td>表儿</td><td>表没食子儿</td><td>没食子儿茶</td><td>表儿茶素</td><td></td></tr><tr><td>子酸</td><td>儿茶素</td><td>子儿茶</td><td>素</td><td>喃</td><td>茶</td><td>茶素没食子</td><td>素没食子酸</td><td>没食子酸</td><td>咖</td></tr><tr><td>GA</td><td>GC</td><td>素 EGC</td><td>C</td><td>THF</td><td>EC</td><td>酸酯 EGCG</td><td>酯GCG</td><td>酯ECG</td><td>CAF</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>绿茶粉</td><td></td><td>0.32</td><td></td><td>0.26</td><td>0.12</td><td>4.16</td><td>41.67</td><td></td><td></td><td></td></tr><tr><td>Greentea</td><td>0.31</td><td></td><td>12.96</td><td></td><td></td><td></td><td></td><td>1.10</td><td>6.01</td><td>0.98</td></tr><tr><td>powder</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td></td></tr><tr><td>绿茶多酚</td></tr><tr><td>0.16 42.85 32.03</td></tr><tr><td>0.54 0.74 4.51 67.50</td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>
+
+# 1.2试验动物与饲养管理
+
+试验动物为15只5月龄杂交幼犬，购于合肥本地犬场。试验过程中所有试验犬均饲养于安徽农业大学动物医院犬舍，免疫均按照正常的免疫程序进行。每天09:00 和17:00定点饲喂2次，根据体重的变化调整试验犬的采食量，自由饮水。每天对犬舍进行清理，保持清洁卫生、无异味，犬舍定期消毒。
+
+# 1.3 试验分组
+
+将 15 只试验犬随机分成3组，分别为对照组、绿茶粉组和绿茶多酚组，每组5只。将基础饲粮粉碎，对照组饲喂基础饲粮，绿茶粉组饲喂在基础饲粮中添加 $1 . 0 0 \%$ 绿茶粉的饲粮，绿茶多酚组饲喂在基础饲粮中添加 $0 . 2 5 \%$ 绿茶多酚的饲粮，绿茶粉和绿茶多酚均需与基础饲粮充分混匀。
+
+# 表 2基础饲粮营养水平 (饲喂基础)
+
+Table 2Nutrientlevels ofbasal diets（as-fed basis)   
+
+<html><body><table><tr><td>项目Items</td><td colspan="2">含量Content</td></tr><tr><td></td><td>5～6月龄 5 to 6months of age</td><td>7～8月龄 7 to 8 months of age</td></tr><tr><td>粗蛋白质 CP/%</td><td>36</td><td></td></tr><tr><td>粗脂肪 EE/%</td><td>14</td><td>15</td></tr><tr><td>粗纤维 Crude fiber/%</td><td>3.0</td><td>3.05</td></tr><tr><td>粗灰分 Ash/%</td><td>5.2</td><td>6.14</td></tr><tr><td>水分 Moisture/%</td><td>7.07</td><td>7.24</td></tr><tr><td>钙Ca/%</td><td>1.4</td><td>1.42</td></tr><tr><td>总磷 TP/%</td><td>1.17</td><td>1.18</td></tr><tr><td>钠 Na/%</td><td>0.75</td><td></td></tr><tr><td>水溶性氯化物 Water soluble</td><td></td><td>0.82</td></tr><tr><td>chloride/%</td><td></td><td></td></tr><tr><td>n-6 多不饱和脂肪酸n-6PUFA/%</td><td>2.85</td><td>2.61</td></tr><tr><td>n-3 多不饱和脂肪酸n-3PUFA/%</td><td>0.84</td><td>0.71</td></tr></table></body></html>
+
+<html><body><table><tr><td>赖氨酸 Lys/%</td><td>1.21</td><td>1.10</td></tr><tr><td>天门冬氨酸 Asp/%</td><td>2.45</td><td>2.36</td></tr><tr><td>苏氨酸 Thr/%</td><td>1.17</td><td>1.10</td></tr><tr><td>丝氨酸 Ser/%</td><td>1.35</td><td>1.30</td></tr><tr><td>谷氨酸 Glu/%</td><td>4.78</td><td>4.66</td></tr><tr><td>脯氨酸 Pro/%</td><td>1.64</td><td>1.54</td></tr><tr><td>甘氨酸 Gly/%</td><td>1.62</td><td>1.51</td></tr><tr><td>丙氨酸 Ala/%</td><td>1.67</td><td>1.44</td></tr><tr><td>半胱氨酸 Cys/%</td><td>0.27</td><td>0.24</td></tr><tr><td>氨酸 Val/%</td><td>0.28</td><td>0.24</td></tr><tr><td>蛋氨酸 Met/%</td><td>0.49</td><td>0.39</td></tr><tr><td>异亮氨酸 Iso/%</td><td>0.97</td><td>0.88</td></tr><tr><td>亮氨酸 Leu/%</td><td>2.05</td><td>1.90</td></tr><tr><td>酪氨酸 Tyr/%</td><td>0.75</td><td>0.61</td></tr><tr><td>苯丙氨酸 Phe/%</td><td>1.06</td><td>0.98</td></tr><tr><td>组氨酸His/%</td><td>0.74</td><td>0.68</td></tr><tr><td>精氨酸 Arg/%</td><td>1.85</td><td>1.60</td></tr><tr><td>色氨酸 Try/%</td><td>0.34</td><td>0.24</td></tr><tr><td>铁Fe/(mg/kg)</td><td>358</td><td>328</td></tr><tr><td>锌 Zn/(mg/kg)</td><td>149</td><td>136</td></tr><tr><td>维生素 AVA/(IU/kg)</td><td>2.34×104</td><td>2.29×104</td></tr><tr><td>维生素DVD3/(IU/kg)</td><td>7.75×103</td><td>7.68×10³</td></tr><tr><td>维生素E VE/(IU/kg)</td><td>54.4</td><td>52.9</td></tr><tr><td>维生素BVBl/(mg/kg)</td><td>6.97</td><td>6.74</td></tr><tr><td>维生素BVB2/(mg/kg)</td><td>10.25</td><td>9.44</td></tr><tr><td>维生素 B VB6/(mg/kg)</td><td>16.8</td><td>5.3</td></tr><tr><td>烟酸 Niacin/(mg/kg)</td><td>61.4</td><td>59.7</td></tr></table></body></html>
+
+<html><body><table><tr><td>泛酸 Pantothenic acid/(ug/kg)</td><td>4.28×104</td><td>3.94×104</td></tr><tr><td>叶酸 Folic acid/ （μg/kg）</td><td>1 640</td><td>1470</td></tr><tr><td>生物素 Biotin/（ug/kg）</td><td>335</td><td>318</td></tr><tr><td>维生素Bl2VBl2/(μg/kg)</td><td>89.2</td><td>86.8</td></tr><tr><td>胆碱 Choline/(mg/kg)</td><td>2280</td><td>2170</td></tr></table></body></html>
+
+# 1.4试验样本采集
+
+血液样本：在试验第0（试验开始前）、7、14、21、28、35、42、49、56、63、70、77 和 84天逐只在早上空腹 $1 2 \mathrm { h }$ 后称量体重，前肢静脉采集 $4 \mathrm { m L }$ 血液， $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，分离血清，-20℃保存待测。
+
+肝脏组织样本：试验结束时，每组选择6条试验犬，按照 $0 . 1 ~ \mathrm { m L / k g }$ 体重的量肌肉注射速眠新后，打开腹腔采集犬肝脏组织，放置于液氮速冻以后，保存于-80℃冰箱，用于测定抗氧化基因和ⅡI相解毒基因的 mRNA相对表达水平。
+
+# 1.5 血清生化指标测定
+
+采用试剂盒（长春汇力生物技术有限公司产品）测定血清中谷丙转氨酶（ALT）、谷草转氨酶（AST）和乳酸脱氢酶（LDH）的活性，采用酶联免疫吸附测定（ELISA）试剂盒（南京森贝伽生物技术有限公司产品）测定血清中超氧化物歧化酶（SOD）、谷胱甘肽过氧化物酶（GSH-Px)的活性和丙二醛（MDA）的含量，上述指标的测定方法均参照试剂盒说明书进行。
+
+1.6肝脏抗氧化基因和II相解毒酶基因mRNA相对表达量的测定
+
+肝脏组织中总RNA 的提取采用 Trizol Reagent 快速提取试剂盒（TaKaRa，日本）进行。将提取到的总RNA采用逆转录试剂盒（TaKaRa，日本）合成cDNA，反应结束后 $- 2 0 \mathrm { { } ^ { \circ } C }$ 呆存备用。根据 NCBI数据库中的目的片段序列，采用Primer5设计引物，引物序列见表3。使用 SYBR GreenI（TaKaRa，日本）荧光染料，采用ABI-7500（ABI，美国）实时荧光定量PCR 检测犬肝脏中抗氧化基因[谷氨酸半胱氨酸连接酶催化亚基(GCLC）、谷氨酸半胱氨酸连接酶修饰亚基(GCLM)、血红素氧合酶1（HO-1)、过氧化氢酶(CAT)]和II相解毒酶基因[谷胱甘肽硫转移酶M1（GSTM1)和醌氧化还原酶1（NQO1）]mRNA相对表达量。选用 $\beta$ -肌动蛋白（ $\beta$ -actin）作为内参基因，结果以 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 表示。
+
+# 表3实时荧光定量PCR引物序列
+
+Table 3Sequences of primers for real-time qPCR   
+
+<html><body><table><tr><td>目的基因</td><td>序列</td><td>引物序列</td><td>产物大小</td><td>退火温度</td></tr><tr><td>Target genes</td><td>ID</td><td>Primer sequence (5'-3')</td><td>Product size/bp</td><td>Anneal</td></tr><tr><td>织中谷胱甘肽</td><td></td><td></td><td></td><td>temperature/℃</td></tr><tr><td>硫转移酶</td><td>479912</td><td>F:ACGCTCCCGACTATGACAGAAGAT</td><td>136</td><td>58</td></tr><tr><td>M1 GSTM1</td><td></td><td>R:CGAGCAATGTAGCGAAG</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷氨酸半胱 氨酸连接酶催</td><td></td><td>F :AAGTCCGGTTGGTCCTGTCT</td><td></td><td></td></tr><tr><td>化亚基</td><td>609822</td><td>R:TATGGCTGTCCAGGTGTGCCT</td><td>139</td><td>58</td></tr><tr><td>GCLC</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>谷氨酸半胱氨</td><td></td><td></td><td></td><td></td></tr><tr><td>酸连接酶修饰</td><td>612283</td><td>F :GAGGAGCTGCCTTCGAGATT</td><td>237</td><td>60</td></tr><tr><td>亚基</td><td></td><td>R:CCAAGGACTGAACAGGCCATATC</td><td></td><td></td></tr><tr><td>GCLM</td><td></td><td></td><td></td><td></td></tr><tr><td>醌氧化还原酶1</td><td></td><td>F:AACTTCAACCCCGTCATCTC</td><td></td><td></td></tr><tr><td></td><td>610935</td><td></td><td>238</td><td>59</td></tr><tr><td>NQ01</td><td></td><td>R:ACTCTCCGATGAGCACTCGCT</td><td></td><td></td></tr><tr><td>血红素氧合酶</td><td></td><td>F:TGCATACCCAGGCAGAGAAT</td><td></td><td></td></tr><tr><td></td><td>442987</td><td></td><td>220</td><td>58</td></tr><tr><td>HO-1</td><td></td><td>R :TACCAGAAGGCCATGTCCCT</td><td></td><td></td></tr><tr><td>过氧化氢酶</td><td></td><td>F :AGCGACCAGATGAAGCTCTG</td><td></td><td></td></tr><tr><td></td><td>403474</td><td></td><td>112</td><td>59</td></tr><tr><td>CAT</td><td></td><td>R:GCCCTGCTGTCATCACATTA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>β-肌动蛋白</td><td></td><td>F:GGCATCCTGACCCTGAAGTA</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>403580</td><td></td><td>278</td><td>60</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>β-actin</td><td></td><td>R :GAGTCCATCACGATGCCAGT</td><td></td><td></td></tr></table></body></html>
+
+# 1.7 数据统计分析
+
+试验数据用"平均值 $\pm$ 标准差（mean±SD）"表示，采用 SPSS17.0统计软件进行单因素方差分析（one-way ANOVA）和Duncan 多重比较， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。2结果
+
+# 2.1 绿茶粉及绿茶多酚对犬体重的影响
+
+如表4所示，试验开始时3组犬初始体重相近（ $. P { > } 0 . 0 5 )$ ，在第 $0 { \sim } 2$ 周时各组犬体重快速增长，但是绿茶粉组和绿茶多酚组犬体重与对照组之间均没有显著的差异（ $P { > } 0 . 0 5 )$ 。随着试验的进行，各组犬体重均在逐渐上升。从第3周开始，绿茶粉及绿茶多酚组犬体重开始低于对照组，但在第3周差异不显著（ $P { > } 0 . 0 5 \$ ；从第4周起绿茶粉及绿茶多酚组犬体重显著低于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ )，这种显著性差异一直维持到第12周。试验进行到12周时，对照组犬体重较第0周增长了 $1 6 2 \%$ ，绿茶粉组犬体重较第0周增长了 $101 \%$ ，绿茶多酚组犬体重较第0周增长 $132 \%$ 且绿茶多酚组和绿茶粉组犬体重显著低于对照组（ $\scriptstyle P < 0 . 0 5 .$ )，比对照组分别降低了 $61 \%$ 和 $30 \%$ 。结果表明，在饲粮添加 $1 . 0 0 \%$ 绿茶粉和 $0 . 2 5 \%$ 绿茶多酚均能控制犬体重的增长。
+
+# 表4绿茶粉和绿茶多酚对犬体重的影响
+
+Table 4Effects of green tea powder and GTPs on body weight of canine kg   
+
+<html><body><table><tr><td>时间</td><td>对照组Control group</td><td>绿茶粉组Green tea powder</td><td>绿茶多酚组GTPs group</td></tr><tr><td>Time</td><td colspan="3">group</td></tr><tr><td>第0周Week 0</td><td>3.500±0.125</td><td>3.460±0.081</td><td>3.420±0.517</td></tr><tr><td>第1周Week1</td><td>3.550±0.127</td><td>3.560±0.085</td><td>3.540±0.147</td></tr><tr><td>第2周Week 2</td><td>4.080±0.108</td><td>4.380±0.086</td><td>4.260±0.220</td></tr><tr><td>第3周Week3</td><td>5.230±0.141</td><td>4.580±0.116</td><td>4.880±0.198</td></tr><tr><td>第4周Week 4</td><td>5.680±0.182a</td><td>4.640±0.140b</td><td>5.500±0.270a</td></tr><tr><td>第5周Week 5</td><td>6.060±0.180a</td><td>4.940±0.144b</td><td>5.860±0.040a</td></tr><tr><td>第6周Week6</td><td>6.480±0.124a</td><td>5.200±0.095b</td><td>5.940±0.206b</td></tr><tr><td>第7周Week7</td><td>6.830±0.193a</td><td>5.520±0.120b</td><td>6.660±0.087a</td></tr><tr><td>第8周Week 8</td><td>7.100±0.209a</td><td>5.340±0.229b</td><td>6.920±0.384a</td></tr><tr><td>第9周Week 9</td><td>7.280±0.207a</td><td>5.440±0.199b</td><td>6.900±0.192a</td></tr><tr><td>第10周Week</td><td>7.700±0.137a</td><td>5.740±0.175b</td><td>7.400±0.138a</td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>第11周Week</td><td>8.333±0.126a</td><td>6.000±0.252b</td><td>7.620±0.146b</td></tr></table></body></html>
+
+同行数据肩标相同小写字母或不标者表示差异不显著（ $P { > } 0 . 0 5 )$ ，不同小写字母者表示差异显著（ $. P { < } 0 . 0 5 \mathrm { ~ , ~ }$ ，不同大写字母者表示差异极显著（ $P { < } 0 . 0 5 \$ 。下表同。
+
+In the same line,values with the same smallor no lettr superscripts mean no significant difference （ $P { > } 0 . 0 5 )$ ,while with different small letter superscripts mean significance difference( $P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significance difference（ $P { < } 0 . 0 1 )$ .The same as below.
+
+2.2绿茶粉和绿茶多酚对犬血清肝功能指标的影响
+
+2.2.1 绿茶粉和绿茶多酚对犬血清ALT活性的影响
+
+由表5可知，血清 ALT活性，试验第 28天，绿茶粉组显著低于对照组（ $_ { . P < 0 . 0 5 ) }$ ，绿茶多酚组极显著低于对照组（ $_ { - P < 0 . 0 1 ) }$ ；试验第35天、第42天、第 56天和第63天，绿茶粉组和绿茶多酚组均显著低于对照组( $( P { < } 0 . 0 5 )$ ；试验第 49天和第 70天，绿茶粉组显著低于对照组 $( P { < } 0 . 0 5 )$ ，绿茶多酚组极显著低于对照组（ $_ { . P < 0 . 0 1 }$ )；试验第77天和第 84天时，绿茶粉组和绿茶多酚组均极显著低于对照组（ $_ { - P < 0 . 0 1 ) }$ 。
+
+表5绿茶粉和绿茶多酚对犬血清ALT活性的影响  
+Table 5Effects of green tea powder and GTPs on ALT activity in serum of canine U/L   
+
+<html><body><table><tr><td>时间Time</td><td>对照组Control group</td><td>绿茶粉组Green tea powder group</td><td>绿茶多酚组GTPs group</td></tr><tr><td>第0天Day0</td><td>36.94±2.77</td><td>37.22±5.67</td><td>36.66±4.67</td></tr><tr><td>第7天Day 7</td><td>38.94±2.21</td><td>39.16±6.30</td><td>38.41±6.32</td></tr><tr><td>第14天Day 14</td><td>37.02±5.60</td><td>38.45±4.39</td><td>39.75±7.90</td></tr><tr><td>第21天Day 21</td><td>36.43±5.90</td><td>33.95±5.50</td><td>32.37±6.10</td></tr><tr><td>第28天Day28</td><td>45.86±7.43Bb</td><td>38.86±6.38ABa</td><td>29.94±4.37Aa</td></tr><tr><td>第35天Day35</td><td>44.71±7.18b</td><td>44.71±7.18b</td><td>33.87±8.22a</td></tr><tr><td>第42天Day 42</td><td>37.71±5.94b</td><td>30.56±4.42a</td><td>30.99±2.34a</td></tr><tr><td>第49天Day 49</td><td>33.01±2.96Bb</td><td>27.34±3.12ABa</td><td>25.88±3.70Aa</td></tr><tr><td>第56天Day 56</td><td>36.05±7.46b</td><td>27.41±2.25a</td><td>26.40±5.89a</td></tr></table></body></html>
+
+<html><body><table><tr><td>第63天Day 63</td><td>32.77±3.36b</td><td>27.49±2.31a</td><td>25.98±6.22a</td></tr><tr><td>第70天Day 70</td><td>35.65±2.56Bb</td><td>27.66±5.54ABa</td><td>23.53±4.85Aa</td></tr><tr><td>第77天Day 77</td><td>36.79±5.56Bb</td><td>24.32±3.53Aa</td><td>25.29±1.51Aa</td></tr><tr><td>第84天 Day 84</td><td>32.05±1.93Bb</td><td>26.24±3.39Aa</td><td>26.66±4.67Aa</td></tr></table></body></html>
+
+2.2.2绿茶粉和绿茶多酚对犬血清AST活性的影响
+
+由表6可知，血清AST活性，试验第 56天，绿茶粉组和绿茶多酚组均显著低于对照组中 $\cdot P { < } 0 . 0 5 )$ ；试验第63天和第70天，绿茶多酚组显著低于对照组（ $P { < } 0 . 0 5 )$ ；试验第77天，绿茶粉组和绿茶多酚组均显著低于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 )$ ；试验第84天，绿茶粉组和绿茶多酚组均极显著低于对照组 （ $_ { . P < 0 . 0 1 ) }$ 。
+
+表6绿茶粉和绿茶多酚对犬血清AST活性的影响  
+Table 6Effects of green tea powder and GTPs on AST activity in serum of canine U/L   
+
+<html><body><table><tr><td>时间Time</td><td>对照组Control group</td><td>绿茶粉组Green tea powder group</td><td>绿茶多酚组GTPs group</td></tr><tr><td>第0天Day0</td><td>39.75±1.50</td><td>40.75±2.79</td><td>39.92±2.20</td></tr><tr><td>第7天Day7</td><td>39.92±2.40</td><td>41.51±3.39</td><td>40.26±2.52</td></tr><tr><td>第14天Day 14</td><td>37.03±5.06</td><td>40.97±3.44</td><td>39.75±5.75</td></tr><tr><td>第21天Day 21</td><td>39.86±5.52</td><td>41.38±4.73</td><td>36.73±6.44</td></tr><tr><td>第28天Day 28</td><td>38.63±3.90</td><td>39.24±5.12</td><td>35.46±1.46</td></tr><tr><td>第35天Day 35</td><td>39.26±3.71</td><td>38.94±5.60</td><td>38.23±2.40</td></tr><tr><td>第42天Day 42</td><td>38.04±4.96</td><td>37.77±1.81</td><td>35.30±4.13</td></tr><tr><td>第49天Day 49</td><td>39.46±3.01</td><td>35.96±4.42</td><td>34.62±2.80</td></tr><tr><td>第56天Day 56</td><td>36.86±2.86b</td><td>32.82±3.11a</td><td>31.33±2.25a</td></tr><tr><td>第 63天Day 63</td><td>35.73±2.43b</td><td>34.73±2.65b</td><td>30.77±2.76a</td></tr><tr><td>第70天Day 70</td><td>34.10±2.12b</td><td>32.73±2.18ab</td><td>31.13±1.29a</td></tr><tr><td>第77天Day 77</td><td>33.80±0.65Bc</td><td>31.98±1.44ABb</td><td>30.21±1.54Aa</td></tr><tr><td>第84天Day 84</td><td>33.23±1.14Bb</td><td>29.03±1.42Aa</td><td>28.07±1.80Aa</td></tr></table></body></html>
+
+113 2.2.3绿茶粉和绿茶多酚对犬血清LDH活性的影响
+
+由表7可知，血清 LDH 活性，试验第 28 天，绿茶粉组和绿茶多酚组均显著低于对照组（ $_ { \cdot P < 0 . 0 5 ) }$ ；试验第35天，绿茶多酚组显著低于对照组（ $\scriptstyle \cdot { P < 0 . 0 5 } )$ ；试验第49天，绿茶粉组显著低于对照组（ $_ { . P < 0 . 0 5 ) }$ ，绿茶多酚组极显著低于对照组（ $P { < } 0 . 0 5 )$ ；试验第56天、第63天、第70天和第 77天，绿茶粉组和绿茶多酚组均极显著低于对照组（ $_ { . P < 0 . 0 1 } )$ ；试验第84天，绿茶粉组和绿茶多酚组均显著低于对照组（ $P { < } 0 . 0 5 )$ 。
+
+表7绿茶粉和绿茶多酚对犬血清LDH活性的影响  
+Table 7Effects of green tea powder and GTPs on LDH activity in serum of canine U/I   
+
+<html><body><table><tr><td>时间Time</td><td>对照组Control group</td><td>绿茶粉组Green tea powder group</td><td>绿茶多酚组GTPs group</td></tr><tr><td>第0天Day0</td><td>145.83±8.16</td><td>145.65±8.62</td><td>146.09±4.39</td></tr><tr><td>第7天Day 7</td><td>143.78±14.83</td><td>140.68±7.66</td><td>144.78±7.94</td></tr><tr><td>第14天Day 14</td><td>142.83±11.04</td><td>136.85±8.74</td><td>139.09±9.07</td></tr><tr><td>第21天Day 21</td><td>140.47±12.04</td><td>128.05±6.89</td><td>130.95±8.85</td></tr><tr><td>第28天Day 28</td><td>141.65±5.33b</td><td>131.09±6.27a</td><td>132.27±5.76a</td></tr><tr><td>第35天Day 35</td><td>142.65±5.41b</td><td>129.37±11.55ab</td><td>127.45±11.52a</td></tr><tr><td>第42天Day 42</td><td>142.62±9.45b</td><td>128.38±5.62a</td><td>125.48±11.55a</td></tr><tr><td>第49天Day 49</td><td>142.17±9.33Bb</td><td>127.85±9.22ABa</td><td>124.77±3.98Aa</td></tr><tr><td>第56天Day 56</td><td>138.04±8.12Bb</td><td>124.46±5.25Aa</td><td>122.20±8.64Aa</td></tr><tr><td>第63天Day 63</td><td>137.76±6.96Bb</td><td>120.97±7.36Aa</td><td>115.10±8.71Aa</td></tr><tr><td>第70天Day 70</td><td>136.34±8.02Bb</td><td>119.96±6.04Aa</td><td>118.05±3.95Aa</td></tr><tr><td>第77天Day 77</td><td>137.64±2.84Bb</td><td>119.09±6.11Aa</td><td>117.27±6.95Aa</td></tr><tr><td>第84天Day 84</td><td>136.04±9.55b</td><td>116.46±5.25a</td><td>119.20±7.06a</td></tr></table></body></html>
+
+2.3绿茶粉和绿茶多酚对犬血清抗氧化指标的影响
+
+2.3.1 绿茶粉和绿茶多酚对犬血清GSH- $\mathbf { \cdot P x }$ 活性的影响
+
+由表8可知，血清GSH-Px 活性，试验第 42天，绿茶多酚组显著高于对照组（ $_ { . } { \cal P } { < } 0 . 0 5 )$ ；试 验第 49天、第56天，绿茶粉组和绿茶多酚组均显著高于对照组（ $P { < } 0 . 0 5 )$ ；绿茶多酚组显著高 于对照组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ；试验第63天，绿茶粉组极显著高于对照组（ $_ { . } { P } { < } 0 . 0 1 \$ ，绿茶多酚组显著高 于对照组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ；试验第70天，绿茶粉组和绿茶多酚均显著高于对照组（ $_ { . P < 0 . 0 5 ) }$ ；试验第 77天和第84天，绿茶粉组和绿茶多酚组均极显著高于对照组（ $_ { \cdot  { P } < 0 . 0 1 }$ )。试验数据显示：整体上 3个组的血清GSH $\mathbf { \nabla \cdot P x }$ 活性均随着试验时间的增加而逐渐上升，且从第14天开始绿茶粉组和绿茶 多酚组的血清GSH $\mathbf { \cdot P x }$ 活性高于同期的对照组。
+
+表8绿茶粉和绿茶多酚对犬血清GSH- $\mathbf { \nabla \cdot P x }$ 活性的影响  
+Table 8Effects of green tea powder and GTPs on GSH- $\mathbf { \nabla } \cdot \mathrm { P x }$ activity in serum of canine U/mL   
+
+<html><body><table><tr><td>时间Time</td><td>对照组Control group</td><td>绿茶粉组Green teapowder group</td><td>绿茶多酚组GTPs group</td></tr><tr><td>第0天Day0</td><td>998.10±49.51</td><td>997.71±32.71</td><td>1 000.95±52.33</td></tr><tr><td>第7天Day7</td><td>1 004.73±40.53</td><td>1008.38±47.16</td><td>1 003.65±52.33</td></tr><tr><td>第14天Day 14</td><td>1 011.27±29.04</td><td>1021.43±22.22</td><td>1 015.08±76.09</td></tr><tr><td>第21天Day 21</td><td>1 015.06±48.12</td><td>1 031.88±23.28</td><td>1 028.14±43.98</td></tr><tr><td>第28天Day28</td><td>1019.50±14.76</td><td>1 036.84±74.56</td><td>1 047.50±47.74</td></tr><tr><td>第35天Day 35</td><td>1 027.33±40.03</td><td>1 051.11±39.48</td><td>1 059.68±25.81</td></tr><tr><td>第42天Day42</td><td>1036.13±40.84a</td><td>1068.38±35.12a</td><td>1 072.37±14.25b</td></tr><tr><td>第49天Day 49</td><td>1 042.63±36.82a</td><td>1083.38±27.86b</td><td>1 087.63±19.08b</td></tr><tr><td>第56天Day 56</td><td>1 052.13±28.98a</td><td>1 100.13±22.97b</td><td>1096.38±22.08b</td></tr><tr><td>第63天Day 63</td><td>1 059.38±17.46Aa</td><td>1 121.63±42.22Bb</td><td>1 106.38±25.66ABb</td></tr><tr><td>第70天Day 70</td><td>1 066.63±16.89a</td><td>1 133.63±50.65b</td><td>1 120.38±25.66b</td></tr><tr><td>第77天Day 77</td><td>1070.13±28.98Aa</td><td>1 145.62±42.22Bb</td><td>1 134.38±14.25Bb</td></tr><tr><td>第84天Day 84</td><td>1 075.57±14.25Aa</td><td>1 158.51±39.48Bb</td><td>1 145.24±43.98Bb</td></tr></table></body></html>
+
+2.3.2绿茶粉和绿茶多酚对犬血清 SOD活性的影响
+
+由表9可知，血清 SOD 活性，试验第 42天，绿茶多酚组显著高于对照组（ $P { < } 0 . 0 5 )$ ；试验第 49天、第56天，绿茶粉组和绿茶多酚组均显著高于对照组（ $_ { . P < 0 . 0 5 ) }$ ；试验第63天、第70天，绿茶粉组显著高于对照组（ $P { < } 0 . 0 5 )$ ，绿茶多酚组极显著高于对照组（ $P { < } 0 . 0 5 )$ ；试验第77天，绿茶粉组和绿茶多酚组均显著高于对照组（ $_ { . P < 0 . 0 5 ) }$ ；试验第84天，绿茶粉组和绿茶多酚组均极显著高于对照组（ $\cdot \mathrm { \nabla } P { < } 0 . 0 1$ )。试验数据显示：整体上3个组的血清 SOD活性随着试验时间的增加呈现逐渐上升的趋势，且从第14天开始绿茶粉组和绿茶多酚组的血清 SOD活性高于同期的对照组。
+
+表9绿茶粉和绿茶多酚对犬血清 SOD活性的影响  
+Table 9Effects of green tea powder and GTPs on SOD activity in serum of canine U/mL   
+
+<html><body><table><tr><td>时间 Time</td><td>对照组Control group</td><td>绿茶粉组Green tea powder group</td><td>绿茶多酚组GTPsgroup</td></tr><tr><td>第0天Day0</td><td>44.48±2.53</td><td>44.17±1.81</td><td>44.64±1.62</td></tr><tr><td>第7天Day 7</td><td>45.09±2.73</td><td>44.95±2.35</td><td>45.21±2.73</td></tr><tr><td>第14天Day 14</td><td>45.21±2.13</td><td>46.02±1.40</td><td>45.43±1.77</td></tr><tr><td>第21天Day 21</td><td>45.83±1.61</td><td>46.43±0.98</td><td>46.83±1.19</td></tr><tr><td>第28天Day28</td><td>46.11±1.44</td><td>46.62±0.98</td><td>47.39±1.50</td></tr><tr><td>第35天Day 35</td><td>46.07±1.39</td><td>47.29±1.15</td><td>48.18±1.95</td></tr><tr><td>第42天Day 42</td><td>46.43±0.79a</td><td>48.51±1.94ab</td><td>48.87±1.36b</td></tr><tr><td>第49天Day 49</td><td>45.65±2.45a</td><td>47.82±3.17b</td><td>49.40±1.39b</td></tr><tr><td>第56天Day56</td><td>46.45±2.14a</td><td>49.95±2.19b</td><td>50.31±1.78b</td></tr><tr><td>第 63天Day 63</td><td>46.92±2.31Aa</td><td>50.05±1.54ABb</td><td>50.85±0.93Bb</td></tr><tr><td>第70天Day 70</td><td>47.38±1.60Aa</td><td>50.29±2.23ABb</td><td>50.92±0.79Bb</td></tr><tr><td>第77天Day 77</td><td>47.52±1.88a</td><td>50.88±2.76b</td><td>51.61±0.48b</td></tr><tr><td>第84天Day 84</td><td>47.17±1.60Aa</td><td>50.94±2.37Bb</td><td>51.09±0.54Bb</td></tr></table></body></html>
+
+2.3.3绿茶粉和绿茶多酚对犬血清MDA含量的影响
+
+由表10可知，血清 MDA含量，试验第 49天，绿茶多酚组显著低于对照组（ $( P { < } 0 . 0 5 )$ ；试验第 56 天和第63天，绿茶粉组和绿茶多酚组均显著低于对照组（ $_ { , P < 0 . 0 5 ) }$ ；试验第 70天、第 77天和第 84天时，绿茶粉组和绿茶多酚组均极显著低于对照组（ $\cdot  { P } { < } 0 . 0 1$ )。试验数据显示：整体上3 个组的血清 MDA 含量随着试验时间的增加呈现逐渐下降的趋势，且从第7天开始绿茶粉组和绿茶多酚组的血清 MDA含量低于同期的对照组。
+
+# 表10绿茶粉和绿茶多酚对犬血清MDA含量的影响
+
+Table 10Effects of green tea powder and GTPs on MDA content in serum of canine nmol/mL
+
+<html><body><table><tr><td>时间Time</td><td>对照组Control group</td><td>绿茶粉组Green tea powder group</td><td>绿茶多酚组GTPs group</td></tr><tr><td>第0天Day0</td><td>4.66±0.47</td><td>4.66±0.54</td><td>4.62±0.47</td></tr><tr><td>第7天Day7</td><td>4.62±0.55</td><td>4.45±0.27</td><td>4.49±0.54</td></tr><tr><td>第14天Day 14</td><td>4.61±0.50</td><td>4.51±0.44</td><td>4.49±0.48</td></tr><tr><td>第21天Day 21</td><td>4.59±0.45</td><td>4.48±0.44</td><td>4.44±0.34</td></tr><tr><td>第28天Day 28</td><td>4.63±0.26</td><td>4.38±0.36</td><td>4.37±0.42</td></tr><tr><td>第35天Day 35</td><td>4.59±0.25</td><td>4.31±0.32</td><td>4.25±0.39</td></tr><tr><td>第42天Day 42</td><td>4.56±0.32</td><td>4.28±0.37</td><td>4.19±0.20</td></tr><tr><td>第49天Day 49</td><td>4.52±0.25b</td><td>4.22±0.24ab</td><td>4.17±0.14a</td></tr><tr><td>第56天Day 56</td><td>4.52±0.44b</td><td>4.08±0.20a</td><td>4.13±0.57a</td></tr><tr><td>第 63天Day 63</td><td>4.47±0.29b</td><td>3.99±0.28a</td><td>4.00±0.32a</td></tr><tr><td>第70天Day 70</td><td>4.41±0.35Bb</td><td>3.86±0.18Aa</td><td>3.94±0.25Aa</td></tr><tr><td>第77天Day 77</td><td>4.29±0.28Bb</td><td>3.76±0.19Aa</td><td>3.84±0.17Aa</td></tr><tr><td>第84天Day 84</td><td>4.22±0.31Bb</td><td>3.72±0.40Aa</td><td>3.76±0.12Aa</td></tr></table></body></html>
+
+2.4绿茶粉和绿茶多酚对犬肝脏抗氧化基因和Ⅱ相解毒酶基因mRNA 相对表达量的影响由表11可知，与对照组相比，绿茶粉组和绿茶多酚组犬肝脏组织GSTM1、GCLC、GCLM、NQO1、HO-1、CATmRNA相对表达量均显著升高（ $P { < } 0 . 0 5 \rangle$ ）°
+
+表11绿茶粉和绿茶多酚对犬肝脏抗氧化基因和ⅡI相解毒酶基因 mRNA 相对表达量的影响Table 11 Effect of green tea powder and GTPs on mRNA expression levels of antioxidant genes andphase II detoxification enzyme genes in liver of canine  
+
+<html><body><table><tr><td>目的基因Target genes</td><td>对照组Control group</td><td>绿茶粉组Green tea powder group</td><td>绿茶多酚组GTPs group</td></tr><tr><td>谷胱甘肽S-转移酶M1</td><td></td><td></td><td></td></tr><tr><td>GSTM1</td><td>1.00±0.00a</td><td>1.15±0.16b</td><td>1.18±0.18b</td></tr><tr><td>谷氨酸半胱氨酸连接酶催化亚基</td><td></td><td></td><td></td></tr><tr><td>GCLC</td><td>1.00±0.00a</td><td>1.49±0.16b</td><td>1.47±0.15b</td></tr></table></body></html>
+
+谷氨酸半胱氨酸连接酶修饰亚基  
+
+<html><body><table><tr><td>GCLM</td><td>1.00±0.00a</td><td>1.47±0.13b</td><td>1.58±0.15b</td></tr><tr><td>醌氧化还原酶</td><td></td><td></td><td></td></tr><tr><td>NQ01</td><td>1.00±0.00a</td><td>1.37±0.15b</td><td>1.43±0.14b</td></tr><tr><td>血红素氧合酶</td><td></td><td></td><td></td></tr><tr><td>HO-1</td><td>1.00±0.00a</td><td>1.18±0.18b</td><td>1.38±0.17b</td></tr><tr><td>过氧化氢酶</td><td></td><td></td><td></td></tr><tr><td>CAT</td><td>1.00±0.00a</td><td>1.16±0.15b</td><td>1.21±0.18b</td></tr></table></body></html>
+
+3讨论
+
+3.1 绿茶粉和绿茶多酚对犬血清生化指标的影响
+
+ALT、AST 和LDH等主要存在于肝脏细胞的线粒体内，其在外周血液中的活性很低，当自由基破坏肝脏细胞膜的组成成分脂质时，脂质发生过氧化，细胞膜的完整性就会遭到破坏，大量ALT、AST 和 LDH 流入血液中造成外周血中 ALT、AST 和 LDH的活性明显增高，ALT、AST和LDH是反映肝细胞受损程度的比较灵敏的检测指标[3-4]。
+
+关于绿茶粉和茶多酚对肝脏的作用，有很多研究者做过相关的研究。何冰等研究了茶多酚对小鼠实验性肝损伤的作用，结果表明，茶多酚可以显著降低肝损伤所致的血清ALT活性升高，茶多酚对四氯化碳（ $\mathrm { C C l } _ { 4 }$ ）和乙醇所致的实验性肝损伤均有明显的改善作用。张宇等通过事先给大鼠灌喂酒精造成大鼠酒精性肝损伤，然后在给予一定浓度的茶多酚一段时间，之后检测大鼠血清氨基转移酶活性，结果发现茶多酚组大鼠血清氨基转移酶活性显著低于酒精组。李建祥等[7]研究了茶多酚中的儿茶素类化合物对 $\mathrm { C C l } _ { 4 }$ 所致的大鼠慢性肝损伤的作用，结果发现中剂量（100mg/kg）和高剂量（ $2 0 0 \mathrm { m g / k g } ,$ ）的儿茶素类化合物均能显著降低大鼠血清中ALT的活性以及脂质过氧化产物 MDA 的含量。周晓蓉等8研究了茶多酚及儿茶素对酒精性肝损伤大鼠肝脏的保护作用及其作用机制，分别给肝损伤的大鼠灌胃不同浓度（100、 $2 0 0 ~ \mathrm { { m g / k g } }$ ）的茶多酚和不同浓度的（50、 $1 0 0 \ \mathrm { m g / k g }$ ）的儿茶素，结果发现不同浓度的茶多酚及儿茶素均能显著降低大鼠血清 ALT活性。李晶等在老年犬饲粮中添加不同浓度的绿茶粉，结果发现，绿茶粉的添加量为 $2 \ : 0 0 0 \ : \mathrm { m g / k g }$ 时，可以显著提高老年犬血清抗氧化水平，显著降低老年犬血清中ALT、AST 活性，具有保护肝脏的作用。陈武等[1]通过研究茶多酚对铅所致的大鼠肝损伤的作用,结果发现高剂量 $( 2 . 0 \mathrm { m g / k g } )$ 、中剂量（ $1 . 0 \mathrm { m g / k g }$ ）的茶多酚均使血清ALT、AST活性显著降低，表明茶多酚对铅所致的大鼠肝损伤具有一定的保护作用。LDH是细胞内的标记酶，LDH 的释放量可以反映细胞膜的通透性和细胞受损程度。王振云等[1研究了茶多酚对氧化应激导致的奶牛乳腺上皮损伤的作用，发现 TP可以显著降低乳腺上皮细胞 LDH活性，而且具有浓度依赖性。俞慧等[12]通过研究茶多酚对一种除草剂诱导的小鼠辜丸支持细胞损伤的影响，发现茶多酚能显著提高支持细胞存活率，使细胞内LDH释放量减少，降低支持细胞的凋亡率，茶多酚对该除草剂所致的小鼠支持细胞损伤具有保护作用。以上的研究结果均表明一定浓度的茶多酚能显著或极显著降低血清 ALT、AST 和LDH的活性。本试验中，通过在正常犬的基础饲粮中添加 $1 . 0 0 \%$ 的绿茶粉或 $0 . 2 5 \%$ 的茶多酚，结果发现在试验结束时二者均能显著或极显著降低血清 ALT、AST 和 LDH的活性，说明添加一定水平的绿茶粉和绿茶多酚对犬的肝脏具有一定的保护作用。3组试验数据存在波动变化，可能与犬饲养过程中发生的生理性的波动有关，但数据的整体趋势是稳定的。
+
+# 3.2 绿茶粉和绿茶多酚对犬抗氧化能力的影响
+
+动物机体的正常生命活动会产生自由基，过量的自由基会对机体造成危害，是癌症、心血管疾病等疾病的病理因子[13]。GSH-Px、SOD 和CAT 都是机体的抗氧化酶，它们可以单独或协同发挥抗氧化作用；MDA 是脂质过氧化反应的终末代谢产物，性质稳定，其含量变化可以反映机体脂质过氧化的程度，间接反映细胞受自由基侵害的程度[14]。
+
+蔡海莹等[15]研究发现，在饲粮中分别添加 $0 . 3 \%$ 和 $0 . 4 \%$ 的茶多酚不仅能改善猪肉的品质，而且还能显著提高血清GSH-Px 活性。汪丽伟等[16]在仔公鸡饲粮中添加茶多酚，结果发现一定浓度（ $2 0 0 \mathrm { m g / k g } ,$ ）的茶多酚可以显著提高各组织器官的GSH-Px 活性。洪兴华等[17]每天在每只波尔山羊的饲粮中添加 $8 0 ~ \mathrm { m g }$ 的茶多酚，试验第30天时发现波尔山羊血清中GSH- $\mathbf { \cdot P x }$ 的活性显著提高。胡文琴等[18]研究发现茶多酚可以提高鸡血清中GSH- $\mathbf { \cdot P x }$ 的活性。本试验的结果与前人报道结果一致，即在犬的基础饲粮中添加 $1 . 0 0 \%$ 的绿茶粉或 $0 . 2 5 \%$ 的茶多酚在试验结束时均可以极显著提高犬血清中GSH $\mathbf { \cdot P x }$ 的活性。
+
+李晶等9研究发现，在老年犬饲粮中添加 1.0、2.0、 $3 . 0 ~ \mathrm { g / k g }$ 的绿茶粉均能显著提高血清中SOD 的活性。徐玮等[19]在犬饲粮中添加 $0 . 3 \%$ 的茶多酚，结果发现， $0 . 3 \%$ 的茶多酚可使幼犬机体内具有很强的抗氧化特性，可以显著提高血清中 SOD 的活性。程雯丽[20在犬粮中添加 $0 . 5 \%$ 的茶多酚，结果表明， $0 . 5 \%$ 的绿茶多酚可以显著提高血清中 SOD的活性，证明添加绿茶多酚的犬粮可以提高犬的抗氧化能力。Marmewick 等[21]研究发现，饲喂含绿茶和红茶饲粮的大鼠，其肝组织匀浆中氧自由基浓度显著下降，SOD活性显著高于对照组。少量自由基对机体是有利的，过量的自由基能攻击生物膜的多不饱和脂肪酸，引发脂质过氧化作用，形成脂质过氧化物（lipidperoxide,LPO)。曹明富等[22]通过在小鼠的体内外添加茶多酚，发现茶多酚能显著抑制脂质过氧化，降低细胞内 LPO 的含量，具有抗衰老作用。李丽等[23研究表明，肉鸡饲粮中茶多酚添加量达到$3 0 0 \mathrm { \ m g / k g }$ 以上时能显著降低肝脏组织中 MDA 的含量，改善肉的品质。李丽莉[24通过在饲粮中添加超微绿茶粉后发现超微绿茶粉可以显著降低肉鸡血清脂质过氧化水平，且随着饲喂时间的延长，降低效果更明显。尹靖东[25研究发现，茶多酚可极显著降低产蛋鸡肝脏、血浆和蛋黄中的LPO 含量。李春美等[2研究给予小鼠一定浓度的茶色素，结果发现小鼠红细胞中 SOD 活性显著提高，血清 MDA含量显著降低，且呈剂量效应关系。本试验中，在犬饲粮中添加 $1 . 0 0 \%$ 的绿茶粉或 $0 . 2 5 \%$ 的绿茶多酚在试验结束时均能极显著升高血清中GSH- $\mathbf { \cdot P x }$ 和 SOD 的活性，极显著降低犬血清中 MDA的含量，可能和本试验中所采用的绿茶粉和绿茶多酚所含有的茶多酚和儿茶素有关，其独特的化学结构本身就具有直接清除自由基的作用，从而提高了犬的抗氧化能力。
+
+3.3绿茶粉和绿茶多酚对犬肝脏抗氧化基因表达的影响
+
+谷胱甘肽（GSH）是哺乳动物细胞内的重要还原剂，主要是通过氧化还原反应来保护细胞免受氧化应激损伤、维持细胞内的氧化还原平衡以及参与DNA 和蛋白质等大分子的生物合成等。而细胞内的GSH是在谷氨酸半胱氨酸连接酶（GCL）和谷胱甘肽合成酶（GSS）这2种酶的共同作用下合成的。前体氨基酸半胱氨酸和谷氨酸结合形成的二肽，这是一个限速反应，然后在GSS催化作用下二肽结合甘氨酸形成 GSH；GCL 的活性决定GSH的合成速率，并最终影响GSH的合成，而GCL又包括2个亚基，一个是催化亚基，即GCLC，另一个是修饰亚基，即GCLM[27]。其中，GCLC具有催化功能，含有与底物催化亚基结合的位点；GCLM不具有催化功能，但具有调节 GCL 活性的作用[28]。HO-1是一种抗氧化蛋白，具有抗氧化、抗炎、抑制细胞凋亡的作用，能够催化血红素降解，生成胆红素、一氧化碳（CO）和亚铁离子（ $\mathrm { F e } ^ { 2 + }$ ）等，这些物质都具有抗氧化损伤的功能。如果能了解 HO-1在保护细胞免受氧化损伤的机制，那么对治愈氧化损伤所引起的疾病会有很多的帮助。黄小平等[29]研究表明，当机体遭到氧化损伤时，组织中 MDA、一氧化氮（NO）的含量升高，SOD 活性和GSH含量降低，组织中HO-1mRNA 和蛋白质表达增强。CAT是一种含血红素的酶，对过氧化物及紫外线敏感，催化过氧化氢分解为水和氧气，阻止自由基对细胞的破坏。CAT 和GSH-Px、SOD共同构成机体内的酶保护系统，清除体内的超氧化物阴离子和过氧化氢产生的水和氧气，在机体应对环境物理、化学刺激的反应中发挥重要作用，保护细胞、核酸和蛋白质免受自由基的攻击。
+
+GCLC、GCLM、HO-1、CAT都是肝脏的抗氧化基因，当肝脏遭到外界不良环境的刺激时，抗氧化剂可以上调这类基因的表达，使机体发挥抗氧化作用。有研究表明，肝细胞内GCLC 的缺失会导致肝细胞脂肪变性和肝衰竭，小剂量蛋白酶抑制剂可上调GSS及GCLC 的表达，治疗大鼠酒精性肝病，GCLC 在缓解多种病因所导致的氧化损伤性肝损伤方面发挥重要作用[30-31]。Na 等[32]研究发现，儿茶素可以上调人乳腺上皮细胞GCLC、HO-1mRNA 的表达。Yu等[3］研究发现，普洱红茶提取物可以上调喹烯酮处理的 SD大鼠肝脏 HO-1mRNA 的表达。陈雪[34通过对不同类型茶叶的抗氧化功能比较发现，各种类型茶叶均可以上调小鼠肝脏 SOD 和CATmRNA的相对表达量，使 SOD 和CAT 蛋白质的合成量增多，而且绿茶提高肝脏 SOD 和CATmRNA 相对表达量的能力高于其他类型茶叶。本研究发现，绿茶粉和绿茶多酚均可以不同程度的提高上述抗氧化基因的表达，可能与绿茶粉和绿茶多酚所含有的直接清除自由基的成分有关，基因的表达影响下游抗氧化蛋白质的表达，这与上述绿茶粉和绿茶多酚升高抗氧化酶的活性相符合，但其具体的机制有待进一步研究。
+
+# 3.4绿茶粉和绿茶多酚对犬肝脏Ⅱ相解毒基因表达的影响
+
+GSTM1 和 NQO1都属于肝脏内的Ⅱ相解毒基因。GSTM1 是谷胱甘肽 S-转移酶（GSTs）的1个基因型，GSTs是一组与肝脏解毒有关的Ⅱ相代谢酶，主要存在于肝脏中，少量存在于肾脏、小肠和睾丸等组织中[35]。GSTs 主要参与机体的氧化还原反应，催化各种代谢产物和氧化应激产生的各种有毒物质，环境中的有毒物质进入机体，首先经过I相代谢酶的转化，然后被Ⅱ相代谢酶降解，形成易溶于水的化合物排出体外，保护细胞免受氧化损伤的危害[3]。NQO1存在于大多数真核生物细胞中，对许多天然的或合成的化合物毒性都有抵抗作用，同时它也可以降低氧化活性物质对细胞器及遗传物质的损伤，保证细胞正常生理功能。NQO1是一种高度可诱导的还原酶，还原型辅酶I(NADH)或还原型辅酶II(NADPH)可为NQO1提供电子，进而催化醌类化合物发生还原反应，醌类物质活性降低有利于减少由氧化还原循环所产生活性氧中间体的产生，NQO1的还原性可以保护机体的正常细胞不被外界的醌类物质所损伤。
+
+李娅楠[37研究表明，对小鼠灌喂抗氧化性的食物可以显著提高肝脏GSTM1和NQO1 mRNA的表达，增加小鼠机体的抗氧化作用。Espinosa 等[38研究发现，白茶可以显著提高小鼠肝脏 GST、NQO1 等基因的表达，提高机体抵御氧化损伤的能力。本研究结果发现，在犬基础饲粮中添加$1 . 0 0 \%$ 的绿茶粉或 $0 . 2 5 \%$ 的绿茶多酚均可以显著提高犬肝脏GSTM1 和NQO1mRNA 的相对表达量，说明一定浓度的绿茶粉和绿茶多酚具有解毒作用，从而达到保护肝脏的作用。
+
+4结论本试验条件下，在饲粮中添加 $1 . 0 0 \%$ 的绿茶粉或 $0 . 2 5 \%$ 绿茶多酚均能够改善犬的肝功能，  
+降低氧化应激水平，提高肝脏中抗氧化基因和Ⅱ相解毒基因的表达，并能控制犬体重的增长。  
+参考文献：  
+[1]熊前,方乐民,李川武,等.杜伯文幼犬生长发育规律的初步研究[J].中国工作犬业,2006(3):28-31.  
+[2]杨贤强,沈生荣,贾之慎,等.茶多酚(TP)清除自由基和抗氧化作用的机理及应用基础研究[J].中国茶叶加工,1994(1):41-44.  
+[3]VAN BEEK JHD A,DEMOOR M H M,DE GEUS E J C,et al.The Genetic Architecture of LiverEnzyme Levels:GGT,ALT and AST[J].Behavior Genetics,2013,43(4):329-339.  
+[4]金惠铭.病理生理学[J].中华医学杂志,1995,75(12):777-778.  
+[5]何冰,陈小夏.茶多酚对小鼠实验性肝损伤的保护作用[J].中药药理与临床,2004,20(4):19-20.  
+[6]张宇,陈韶华,张幸国,等.茶多酚治疗慢性酒精性肝损伤的实验研究[J].中华肝脏病杂志,2005,13(2):125-127.  
+[7]李建祥,陈跃进,章瑜,等.儿茶素类化合物对四氯化碳致大鼠慢性肝损伤的保护作用[J].工业卫生与职业病,2003,29(1):20-22,26.  
+[8]周晓蓉,龚作炯,袁光金,等.茶多酚及没食子酸表没食子酸儿茶素对实验性酒精性肝病大鼠肝脏的保护作用及机制研究[J].中国现代医学杂志,2006,16(6):840-843.  
+[9]李晶,颜泽清,李群.绿茶粉对老年犬生化指标及抗氧化能力的影响[J]).畜牧与兽医,2011,43(4):32-35.  
+[10]陈武,徐锦龙,陈元娜.茶多酚对染铅大鼠肝脏的保护作用[J].医药导报,2012,31(7):849-851.
+
+[11]王振云,周璇,李惠侠,等.茶多酚对氧化应激所致奶牛乳腺上皮细胞损伤的保护作用[J].南京
+
+农业大学学报,2012,35(3):101-106.  
+[12]俞慧,赵文红,刘春芳,等.茶多酚对草甘麟诱导小鼠睾丸支持细胞损伤的影响[J].蚌埠医学院学报,2013,38(6):652-654.  
+[13]王人悦,宛晓春,耿照玉,等.绿茶粉对产蛋鸡生产性能及脂类代谢的影响[J].茶业通报,2007,29(3):127-129.  
+[14]MARTYNOWICZ H,SKOCZYNSKA A.Cadmium toxicity.Cadmium and hypertension[J].Polskie Archiwum Medycyny Wewnetrznej,2004,111(2):243-249.  
+[15]蔡海莹,张伟,朱建和.茶多酚提高生长猪机体免疫力[J].畜禽业:南方养猪,2006(9):54-55.  
+[16]汪丽伟.绿茶提取物对蛋用仔公鸡生长性能、免疫力及抗氧化效应的研究[D].硕士学位论文.合肥：安徽农业大学,2013:29-30.  
+[17]洪兴华,孟慧,孙长勉,等.日粮中添加茶多酚对山羊抗氧化性能的影响[J].中国畜牧杂志,2009,45(21):29-31.  
+[18]胡文琴,孟庆利,王恬.茶多酚在养鸡生产中的应用[J].中国禽业导刊,2004(2):25.  
+[19] 徐玮,王利华.茶多酚对幼犬免疫功能及抗氧化性能的影响[J].中国兽医杂志,2010,46(7):19-21.  
+[20]程雯丽.茶多酚在犬粮中的应用与研究[D].硕士学位论文.无锡:江南大学,2014:33-34.  
+[21] MARNEWICK J L,JOUBERT E,SWART P,et al.Modulation of hepatic drug metabolizingenzymes and oxidative status by rooibos (Aspalathus linearis) and honeybush (Cyclopiaintermedia),green and black (Camelia sinensis) teas in rats[J].Journal of Agricultural & FoodChemistry,2003,51(27):8113-8119.  
+[22] 曹明富,邵惠琴.茶多酚复合物抑癌及对细胞免疫功能的影响[JJ.药物生物技术,1999,6(4):212-217.  
+[23]李丽,闵育娜,张伟,等.茶多酚对高酒糟日粮肉鸡生产性能和抗氧化特性的影响[J].畜牧与兽医,2012,44(3):17-22.  
+[24]李丽莉.超微绿茶粉对快大型优质鸡脂类代谢及免疫机能的影响[D].硕士学位论文.南宁:广西大学,2007:55-57.  
+[25]尹靖东.类黄酮对鸡蛋胆固醇及其氧化物形成的影响[D].博士学位论文.北京:中国农业科学
+
+院,2000:88-89.   
+[26]李春美,谢笔钧,姚平.茶色素体外清除氧自由基及对老龄小鼠脂质过氧化作用的影响[J].中国 药理学通报,2001,17(2):233-234.   
+[27]DENEKE S M,FANBURG B L.Regulation of cellular glutathione[J].The American Journal of Physiology,1989,257(4):L163-L173.   
+[28] AGARWAL A,NICK H.Renal response to tissue injury:lessons from heme oxygenase-1 Gene ablation and expression[J].Journal of the American Society of Nephrology,2000,11(5):965-973.   
+[29] 黄小平,邓常清,邱咏园,等.黄芪甲苷和三七的三种有效成分配伍对小鼠脑缺血/再灌注后氧 化应激和 Nrf2/HO-1途径的影响[J].中国药理学通报,2013,29(11):1596-1601.   
+[30]CHEN Y,YANG Y,MILLER M L,et al.Hepatocyte-specific Gclc deletion leads to rapid onset of steatosis with mitochondrial injury and liver failure[J].Hepatology,2007,45(5):1118-1128.   
+[31]BARDAG-GORCE F,OLIVA J,LIN A,et al.Proteasome inhibitor up regulates liver antioxidative enzymesinratmodelofalcoholicliverdisease[J].Experimental&Molecular Pathology,2010,90(1):123-130.   
+[32]NA H K,KIM E H,JUNG J H,et al.(-)-Epigallcatechin gallate induces Nrf2-mediated antioxidant enzyme expression via activation of PI3K and ERK in human mammary epithelial cells[J].Archives of Biochemistry and Biophysics,2008,476(2):171-177.   
+[33] YU M,WANG D,YANG W,et al.Mechanisms of Nrf2/HO-1 pathway up-regulation induced by pu-erh black tea extract supplementation for quinocetone-treated Sprague-Dawley rats[J].Journal of Functional Foods,2015,14:767-778.   
+[34]陈雪.不同类型茶叶抗氧化功能的比较研究[D].硕士学位论文.长沙:湖南农业大 学,2012:56-58.   
+[35]KOBAYASHI A,OHTA T,YAMAMOTO M.Unique function of the Nrf2-Keap1 pathway in the inducibleexpressionofantioxidantanddetoxifyingenzymes[J].Methodsin Enzymology,2004,378:273-286.   
+[36]NEBERT D W,VASILIOU V.Analysis of the glutathione S -transferase (GST) gene family[J]. Human Genomics,2004,1(6):1-5.
+
+[37]李娅楠.大米蛋白调控 Nrf2 通路及抗氧化机制研究[D].硕士学位论文.哈尔滨:哈尔滨工业大学,2012:49-51.
+
+[38]ESPINOSA C,PEREZ-LLAMAS F,GUARDIOLA F A,et al.Molecular mechanisms by which white tea prevents oxidative stress[J].Journal of Physiology and Biochemistry,2014,70(4):891-900
+
+Antioxidant Effects of Green Tea Powder and Green Tea Polyphenols on Canines LI Yu1,2 TAO Huanqing2\* ZHANG Yudie² XU Yizhong² HAO Ning² ZOU Suping² FENG Shibin² WANG Xichun²ZHOU Yibin1 WU Jinjie² WAN Xiaochun1\*\*   
+(1. State Key Laboratory of Tea Plant Biology and Utilization,Anhui Agricultural University, Hefei   
+230036, China; 2. College of Animal Science and Technology,Anhui Agricultural University,Hefei 230036, China)
+
+Abstract: The present study was conducted to investigate the antioxidant effects of green tea powder and green tea polyphenols (GPTs)on canines.Fifteen five-month old canines were selected and randomly divided into three groups (5 canines in each group). The canines in control group were fed a basal diet, the canines in green tea power group were fed the basal diet plus $1 . 0 0 \%$ green tea power, and the canines in GPTs group were fed the basal diet plus $0 . 2 5 \%$ GPTs.The feeding experiment lasted for 84 days. The results showed as folows: 1) compared with the initial body weight, the final body weight of control group, green tea power group and GTPs group was increased by $1 6 2 \%$ ， $101 \%$ and $1 3 2 \%$ ， respectively. The final body weight of green tea power group and GTPs group was significantly lower than that in control group $( P { < } 0 . 0 5 )$ , which was decreased by $61 \%$ and $30 \%$ compare with control group, respectively. On the 84th day of experiment, the activities of serum alanine transaminase (ALT), aspartate aminotransferase (AST) and lactic dehydrogenase (LDH) in green tea power group and GTPs group were significantly or extremely significantly lower than those in control group ( $_ { \it P < 0 . 0 5 }$ or $\scriptstyle P < 0 . 0 1 { \\dot { } }$ )， the activities of serum glutathione peroxidase (GSH-Px) and superoxide dismutase (SOD) were extremely significantly higher than those in control group $( P { < } 0 . 0 1 )$ ，the content of serum
+
+malondialdehyde (MDA) was extremely significantly lower than that in control group $( P { < } 0 . 0 1 )$ ,and the relative mRNA expression levels of antioxidant genes [glutamate cysteine ligase catalytic subunit (GCLC)，glutamate cysteine ligase subunit modification (GCLM),heme oxygenase 1 (HO-1） and catalase (CAT)] and phase I detoxification genes [quinone oxidoreductase 1 (NQO1) and glutathione S transferase ml (GSTMl)] in liver were significantly higher than those in control group $( P { < } 0 . 0 1 )$ .In summary, adding $1 . 0 0 \%$ green tea powder or $0 . 2 5 \%$ GTPs in the diet of canines have the effects of liver protection,antioxidant, activating phase I detoxification gene expression and controlling body weight under the condition of the present study.   
+Key words: canines; green tea powder; green tea polyphenols; liver function; antioxidant genes; phase I detoxification genes

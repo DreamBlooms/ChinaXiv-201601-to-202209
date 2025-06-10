@@ -1,0 +1,219 @@
+# 叶身/端壁融合扩压叶栅气动性能实验与数值研究
+
+伊卫林¹　李嘉宾²季路成2(1．北京理工大学大学机械与车辆学院，北京100081;2．北京理工大学大学宇航学院，北京 100081)
+
+摘要已有的数值研究表明叶身/端壁融合设计能有效推迟、减弱或消除压气机角区分离，但实验数据缺乏。为了弥补这一不足，本文针对一 $4 2 ^ { \circ }$ 折转角的 NACA65 扩压叶栅进行了吸力面叶身/端壁融合设计，并首次在低速平面叶栅风洞中进行了对比实验，证实了叶身/端壁融合扩压叶栅性能提升能力。基于实验结果，进一步校验了RNG-KE、SST等不同湍流模型的模拟精度，并基于 SST 模型结果揭示了叶身/端壁融合设计的作用机理。实验结果表明：叶身/端壁融合扩压叶栅能在设计攻角及正攻角下改进叶栅性能，提高总压损失系数 $7 \% \sim 8 \%$ 。数值结果表明：融合的加入重新组织了端区流场，避免了流体在叶栅后部吸力面角区内的过度堆积而发生的强三维分离，有效缓解了原型叶栅高损失流动。
+
+关键词扩压叶栅；角区分离；叶身/端壁融合；风洞实验；CFD中图分类号：V235.11 文献标识码：A 文章编号:0253-231X(2017)08-1655-10
+
+# Experimental and Numerical Investigation on the Aerodynamic Performance of a Compressor Cascade Using Blended Blade and End Wall
+
+YIWei-Lin1 LI Jia-Bin²JI Lu-Cheng2 (1.Schoolof Mechanical Engineering,Beijing Institute of Technology，Beijing 10o081,China; 2.School of Aerospace and Engineering,Beijing Institute of Technology，Beijing 100081,China)
+
+AbstractThe design of blended blade and end wall had been proved to be useful in delaying, reducing,and eliminating the corner separation at the compressor.But an experience hasn't been made to verify the numerical study yet. In order to make up for the problem,this paper makes an experiment to verify that the design of blended blade and end wall can promote the aerodynamic performance through an NACA65 diffusion cascade with the turning angle 42 degrees. Based on the experiment,the numerical study was made through two diferent turbulence model RNG-KE,and SST. Then the details of the flow field and the effect of the blended blade and end wall design on the corner separation are discussed and analyzed through the SST results. The experiment shows that the design of blended blade and end wall can improve the performance of the cascade when the incidence angle was positive or at the design point,and the total pressure loss coefficient was reduced by 7%-8%. The numerical study shows that the design of the blended blade and end wallcan have a good effect on the corner flow of the cascade.The strong 3-d corner separation caused by the stack of the flow happened at the tail end of the suction side was avoided,and the fow losses of the prototype cascade were reduced.
+
+Key wordsdiffusion cascade; corner separation; blended blade and end wall(BBEW); wind tunnel experiment; CFD.
+
+# 0引言
+
+近 20年来，随着认识积累和技术手段的逐步完善，有关压气机气动设计的研究极大丰富，但其发展仍面临诸多疑难问题，端区复杂流动及角区三维分离就是尚待解决的主要问题之一[1，大量学者已就其形成机理、流动结构、控制措施等方面开展了深入研究[2-4]。抛开基元叶栅负荷过高导致附层面分离在端区加强为更大范围的角区分离外，端区流动大体包含下述流动结构[1,5,6]：1）由上游端区二次流、相对旋转、排间泄漏流等因素导致的来流附面层扭曲；2）叶片在端区阻滞附面层流动所形成的马蹄涡；3)叶表/端壁附面层交汇而原生的角区分离；4）端区叶片通道内压力面、吸力面压差驱动的横向二次流。这几种因素交织促成了端区复杂三维流动，是严重制约高负荷压气机发展的重要原因，因此寻找并探索行之有效的端区复杂流动控制措施十分重要。
+
+用于调控流动的重要手段曾集中于三维叶片设计[7-9],也是早期角区分离控制措施的主要形式。回顾三维叶片设计的发展历程，已明显历经分别着重于“基元叶型”和“展向积叠”的两代发展。第一代三维叶片主要体现于随基元叶型的演化发展：从起始的标准叶型，到单圆弧叠加厚度分布，再到双圆弧、多圆弧叶型，以及由超临界翼型引申而来的可控扩散叶型和现在的定制叶型，S1/S2两元流面理论为基元叶型设计的展向配合问题提供了理论依据。第二代三维叶片突出强调叶片的弯、掠积叠，如弯掠叶片，其重点在于宏观上的展向负荷匹配。
+
+虽然三维叶片已能很好调控叶栅流动，压气机负荷水平因此得到显著提升。但是对端区精细流动控制存在不足使得角区分离问题难以得到彻底解决，并随压气机负荷发展日益凸显。基于此，专业研究人员针对角区复杂流动分别提出了其他抑制措施，如非轴对称端壁[10]、附面层吹吸[11]、等离子体激励[12]、端壁沟槽[13]等主动流动控制技术。
+
+由于角区分离问题非常复杂，涉及影响因素较多，且各个因素间并不是孤立存在，而是相互作用、相互影响的，要有效研究和解决角区分离问题，就不能割裂看待流道、基元叶栅设计和展向积叠而进行三维叶栅设计。因此，未来三维叶片设计，应以关注端区精细流动控制、抑制角区分离为基本出发点，实施叶片与端壁一体化关联设计。基于此，本研究团队先后提出了叶身/端壁融合技术[14]、前缘边条叶片技术[15]技术等，数值结果表明这些技术均能有效改善端区来流状况和涡系结构，并先后将其应用于扩压叶栅、轴流压气机、离心压气机叶轮及叶片式扩压器等[16-19]，显示了其有效性。
+
+但遗憾的是，上述相关研究均集中于数值层面，缺乏可靠的实验证实。为了弥补这一不足，本文针对一 $4 2 ^ { \circ }$ 折转角的NACA65扩压叶栅进行了吸力面叶身/端壁融合改型设计，并在低速平面叶栅风洞中进行了对比实验，首次实验证实了叶身/端壁融合叶栅对性能改进的有效性，并进一步校验了数值模拟方法，给出了作用机理。
+
+# 1扩压叶栅设计
+
+# 1.1原型叶栅几何参数
+
+本文所研究的原型扩压叶栅为以经典NACA65
+
+叶型积叠而成的直叶片，见图1所示。其几何和气动参数如表1所示：
+
+![](images/f568ab9615ffca67251cdd9f8b469b1a14560c0f89e4b51f966c6a6f3fe1a1b6.jpg)  
+图1叶栅几何参数示意图
+
+表1叶栅几何和气动参数  
+Table1 Geometryparameters   
+
+<html><body><table><tr><td>叶片弦长b/mm</td><td>128.23</td></tr><tr><td>叶片高度h/mm</td><td>160</td></tr><tr><td>弦长/节距b/t</td><td>1.6</td></tr><tr><td>展弦比h/b</td><td>1.25</td></tr><tr><td>轴向弦长 B (mm)</td><td>125.87</td></tr><tr><td>几何进气角β1P/(°)</td><td>-32</td></tr><tr><td>几何出气角β2P/(°)</td><td>10</td></tr><tr><td>弯曲角0/(°)</td><td>42</td></tr><tr><td>安装角βb/()</td><td>-11</td></tr></table></body></html>
+
+# 1.2叶身/端壁融合叶栅几何参数
+
+为了实现灵活可靠的叶身/端壁融合叶栅设计，作者已自行开发了一套基于 Fortran 语言的造型程序。该程序采用对展向某一高度角区附近各叶型的形状修改获得，该方法可实现前、尾缘及吸、压力面的全周或局部融合设计，详细的方法介绍可参见文献[20]。
+
+在本文，仅在上述原型叶栅的基础上进行吸力面叶身/端壁融合设计 (以下称 BBEW)。两个主要设计参数中融合长度位于吸力面距前缘 $2 5 \%$ 轴向弦长位置，融合最大宽度为 $1 6 ~ \mathrm { m m }$ 。叶身/端壁融合叶栅与原型的几何对比可见图2。
+
+![](images/7eb70c0db0164c7979c4db50c4efb5dbfac862916a55c709c78c2283d1ee7e2f.jpg)  
+Fig.1 Parameters definition of the cascade   
+(a)端壁处融合叶型与原型对比
+
+![](images/8b5fcd5f80ad9fb131cccc7694efedb1749b496d6084e0791d5e5994beabad13.jpg)  
+图2原型及融合叶栅几何对比
+
+实验中叶栅进口马赫数为0.2，进口附面层测量截面位于前缘前 $1 0 0 ~ \mathrm { { m m } }$ 处，出口测量截面平行于叶片尾缘位于下游距尾缘 $8 0 ~ \mathrm { m m }$ 处。测点位置为沿节距方向 25个非等距测量点和沿叶高方向 17 个非等距测量高度，见图6。为了有效地捕捉流场细节，
+
+# 2实验研究方法
+
+# 2.1实验装置
+
+本文叶栅性能实验在大连海事大学船舶动力工程研究所的低速矩形叶栅实验台上完成，该实验台布局如图3所示。实验台的来流气流由一台额定功率为 $1 3 2 \mathrm { k W }$ 、工作电压为 $3 8 0 \mathrm { V }$ 的三相异步电动机驱动的离心通风机吹入，通过变频器调节电压频率控制电动机转速实现来流风速大小的调节。
+
+![](images/cc8e4925dd24a1168cb46d41bf2cf14590d834a181e607423947f18800bb5d98.jpg)  
+Fig.2 The comparison of the geometry between the prototype cascade and the BBEW cascade   
+Fig.3 The prototype cascade and the experiment bench
+
+# 2.2实验方法
+
+原型叶栅及叶身/端壁融合叶栅实验件均是由七片叶片组成，原型叶栅由不锈钢切削而成。考虑到加工的难度及成本，叶身/端壁融合叶栅由原型叶栅与单独三维打印成型的融合部分组合而成。其具体过程是：首先利用CAD软件进行融合体的切割，获得尺寸较小的融合几何，对其进行3D打印获得实体，再与原型叶片进行粘接获得不同的叶身/端壁融合实验叶栅，其流程示意见图4，实验台安装效果见图5。
+
+H在近壁面和尾迹区域适当加密测点布置。由于本实验上下半叶高相对于中径对称，为了缩短实验周期，实验中仅测量了下半叶高截面。，…
+
+![](images/f456aa6931b010519a413edd7f3a1659620725c6c13f8fb1c56a999c535f5177.jpg)  
+Fig.4 The processing of the BBEW cascade for experiment   
+图5叶身/端壁融合叶栅加工示意图
+
+![](images/f7e45da5c1a48310ef8fb47d258bd21348b96aa3670001594ef52be981cb44d7.jpg)  
+图3实验台示意及原型叶栅  
+Fig.5 The BBEW cascade on the experiment bench   
+图6出口截面测量点分布示意图  
+Fig.6 The measure point distribution at the outlet section
+
+总压损失系数定义为： $\stackrel { \mathrm { \scriptsize ~ \hat { \iota } } } { \hat { \iota } } \stackrel { \mathrm { \scriptsize ~ \hat { \iota } } } { \mathbb { H } } \mathrm { \Lambda } _ { \circ } $
+
+# 3实验结果及分析
+
+# 3.1攻角特性对比分析
+
+图7给出了不同攻角下出口下游测量截面总压损失系数对比结果。对于原型叶栅：其最佳攻角出现在 $- 5 ^ { \circ }$ 左右，总压损失系数为0.077；当攻角向两侧偏移时，能量损失系数逐渐增加；当攻角增加至 $+ 1 0 ^ { \circ }$ 时，其损失系数达到了0.109。对于叶身/端壁融合叶栅：其最佳攻角有所变化，向 $0 ^ { \circ }$ 攻角处偏移；当攻角向两侧偏移时，能量损失系数的变化趋势与原型类似。从图中可以清晰看出，两者相比较而言：叶身/端壁融合叶栅在 $0 ^ { \circ }$ 攻角及正攻角下均明显降低了总压损失；与原型相比，在 $0 ^ { \circ }$ 和 $1 0 ^ { \circ }$ 攻角下绝对值分别下降0.0062和0.0077，相对幅度分别为 $8 \%$ 和 $7 \%$ ；但在 $- 5 ^ { \circ }$ 攻角下总压损失略有所升高，这是下一步叶身/端壁融合设计中所需要改进的方面。
+
+![](images/9fcc789ddaba957d807035cf29fbab9fd10982b0810b73972670327a1ebf7670.jpg)  
+图7不同攻角下测量截面总压损失系数对比 Fig.7 The comparison of the total pressure loss coefficient at different attack angle
+
+上述实验结果表明，施加于叶片吸力面的叶身/端壁融合设计可以在大部分攻角下改进叶栅性能，降低总压损失，证实了其有效性。
+
+# 3.2参数展向分布对比分析
+
+图8给出了四种不同攻角下总压损失系数的展向对比分析结果。可以看出：在 $- 5 ^ { \circ }$ 攻角下,其展向分布变化幅度很小，也因此整体总压损失变化很小；在 $0 ^ { \circ }$ 攻角下，总压损失改善区域主要集中在 $1 0 \%$ 至 $2 0 \%$ 展高。同时在 $3 0 \%$ 至 $5 0 \%$ 展高也有所减小，但此处为主流区，有可能是实验工况略有偏差导致的，将在下一次实验中进行对比证实。在$+ 5 ^ { \circ }$ 攻角下总压损失改善区域扩大到 $1 0 \%$ 至 $2 5 \%$ 区域；在 $+ 1 0 ^ { \circ }$ 攻角时 $4 0 \%$ 展高以下总压损失皆有改善，但在 $4 0 \% { \sim } 5 0 \%$ 叶高总压损失略有增加。因此可以得出，叶身/端壁融合设计对性能改善的主要区域位于 $1 0 \% \sim 2 5 \%$ 展高，随着攻角的增加，这一范围和幅度进一步扩大。
+
+![](images/eb5bbd6b2d0bf2995e8a44947380d3998a4b939595713b82ce68021d045bbc01.jpg)
+
+![](images/d961b8d1f1b2960744a331885f244968b75e88349f8f8941c0f9b76e095db183.jpg)  
+图8不同攻角下测量截面总压损失系数对比 Fig.8 The total pressure coefficient distribution at the outlet with different attack angle
+
+# 4数值研究方法
+
+上文的相关实验研究证实了叶身/端壁融合设计的有效性，但仅能给出较为宏观的总体参数，为了进一步分析叶身端壁融合设计对叶栅性能影响的作用机理，本文进一步开展了数值模拟研究。
+
+具体选用CFX商用软件，差分格式为其独有的高分辨率方法，计算边界条件按常规设置，即进口给定总温、总压、气流角，出口调整静压至实验马赫数，下端壁及叶表固壁为绝热无滑移边界。结构化网格利用AutoGrid生成，计算域为单通道。为模拟栅前来流附面层，进口段做了适当前伸，距叶栅前缘$1 0 0 0 \ \mathrm { m m }$ ，发展至栅前 $1 0 0 ~ \mathrm { { m m } }$ 处附面层厚度约为$2 0 ~ \mathrm { m m }$ ，出口做了适当延伸为距尾缘下游 $1 8 0 ~ \mathrm { m m }$ 5其示意图见图9所示。基于实验数据，分别进行了网格无关性校验及不同湍流模型模拟对比分析。
+
+万、260万、360万四套网格，基于上述设置及SST湍流模型进行数值模拟。其中260万网格下的 $Y ^ { + }$ 分布示于图11，最大 $Y ^ { + } < 3 . 5$ 。相应对比结果示于图10，可以看出在 $0 ^ { \circ }$ 攻角下，260万、360万两套网格的模拟结果无论在趋势上还是量值上都十分一
+
+![](images/f49ae1ea7abc6233241c87f3ff3a281f9b8e8be9b25f72a7e50c02cea25cc2db.jpg)  
+图9计算域示意
+
+![](images/2b3cdcb37727c930f35c3c577db2e833a81aff1d16d1b6986d0111dbacb069e3.jpg)  
+Fig.9 The computation domain of the cascade   
+图10网格无关性校验Fig.10 Analysis of grid independence
+
+# 4.1网格无关性分析
+
+为校验网格无关性，本文分别生成100万、160致。在 $+ 1 0 ^ { \circ }$ 攻角下，由于流动要更复杂，误差相比$0 ^ { \circ }$ 攻角稍大，主要体现在 $3 0 \% { \sim } 5 0 \%$ 展高预测值偏小。尽管如此，260万、360万两套网格的模拟结果无论在趋势上还是量值上都基本吻合。因此，260 万网格能够较准确的模拟当前叶栅的流动细节，获得可信的总体性能数据，下文的数值模拟工作皆基于260万网格开展。
+
+![](images/72677cb19e3afd78bbbdc068d8ae25997b842dc80683024578410990d6b9bfcc.jpg)  
+图11 壁面YplusFig.11 Yplus of solid surface
+
+![](images/739e52f357052049edae519ed16b9f76169316b8199ad4c95ebec80a637e1add.jpg)  
+图12不同湍流模型模拟结果分析 Fig.12 Spanwise distribution of the total pressure loss coefficient with different turbulence model
+
+# 4.2不同湍流模型对比分析
+
+图12进一步对比分析了RNG_KE和SST两种湍流模型对当前叶栅的模拟精度，可以发现与SST湍流模型相比，RNG_KE模型虽然在趋势上也较为一致，但幅值上相差较大。尤其是随着正攻角的增加，RNG_KE 模型的模拟结果偏差更为明显。因此，SST湍流模型是较为合适的选择，下文的数值模拟工作皆基于 SST 湍流模型展开。
+
+![](images/fa536d47ffe507058b3584cb4c2a3cd9b4af62e7097eaa440f8dff53d98e5832.jpg)  
+(a) 攻角
+
+# 5数值结果及分析
+
+在上文，作者已针对原型叶栅实验结果开展了详细的网格无关性校验和湍流模型选取分析，认为260万网格及SST湍流模型能较为准确地模拟当前叶栅性能及流动。因此在本部分将基于上述设置对比分析叶身/端壁融合叶栅性能及流动机理。
+
+# 5.1叶身/端壁融合叶栅性能分析
+
+图13给出了基于相同数值方法得到的 $0 ^ { \circ }$ 和$1 0 ^ { \circ }$ 攻角下总压损失系数分布对比。可以看出，对叶身/端壁融合叶栅而言，其趋势模拟的仍旧较为一致但量值误差与原型相比有所增加，尤其是 $1 0 ^ { \circ }$ 攻角下要更加明显。数值模拟得到的结果改善幅度要更大一些。分析误差加大的原因，可能有：1)叶身/端壁融合设计的加入，使得端区乃至主流区的流态更加复杂，增加了模拟难度，当前选定的数值模型仍旧需要改进；2）网格质量有待进一步提高。当前网格皆为结构化网格，由于叶身/端壁融合设计的加入，使得几何复杂，网格最小正交角度由原型的 $> 3 0$ 下降为 $> 5$ 左右，因此带来了数值误差；3）实验工况的差异及测量仪器误差。尽管如此，从现有对比结果而言，当前数值模拟方法仍旧具有较高的可信度。
+
+![](images/d89295e7d25373b713a67e8733d51e4e5acad1643ae286a02dbfb87fa3132dc1.jpg)
+
+![](images/cf4ffeb012307a7656db28878981230cd4260c6f0ff61f21bab75b9826eed9ae.jpg)  
+图13不同攻角下叶身/端壁融合叶栅性能分析 Fig.13 Performance analysis of BBEWcascade at different attackangle
+
+从图13的数值模拟结果还可以看出，性能改善明显的区域集中在 $1 0 \% { \sim } 2 0 \%$ 展高，因此分别针对原型和改型叶栅截取 $1 5 \%$ 展高截面，对比静压系数变化示于图14。可以发现，在两种攻角下叶身/端壁融合叶栅的负荷能力都有了明显提高，其负荷提高最大的轴向位置接近于融合施加的位置 $- 2 5 \%$ 轴向弦长。
+
+# 5.2叶身/端壁融合叶栅流动机理分析
+
+当前所研究叶栅的进口附面层厚度为 $2 0 ~ \mathrm { m m }$ 为展高的 $1 2 \%$ 。而融合叶栅的融合宽度为 $1 6 ~ \mathrm { m m }$ 为展高的 $1 0 \%$ ，略低于附面层厚度。综合上述结果，融合叶栅对性能改进却主要集中于 $1 0 \%$ 展高之上，因此需要深入探究其流场结构的变化，分析其作用机理。
+
+![](images/14dba81a0dd0e0d6315dad3121ef22d5d410a9807ca22aac0162c9e2677212c3.jpg)  
+图14不同攻角下 $1 5 \%$ 展高静压系数对比 Fig.14 Comparison of the static pressure coefficient of $1 5 \%$ height section at different attack angle
+
+图15，16分别给出了端壁与叶片表面极限流线图谱和流道内不同轴向位置截面总压损失系数及三维流线对比。对于原型叶栅，来流进入流道后，受近下端壁横向二次流动的影响，逐渐聚集于吸力面角区，并持续向展高方向卷起，进而形成大范围的三维分离。这一趋势随着攻角(如 $+ 1 0 ^ { \circ }$ 攻角)的增加而明显增强。也因此其最紊乱的区域并非紧贴壁面而是在 $1 0 \%$ 叶高以上。这一点无论是从壁面极限流线还是三维流线都可清晰看出。同时，对于原型叶栅，尤其是在 $+ 1 0 ^ { \circ }$ 攻角下，前缘吸力面附近还存在较为明显的分离泡，也对其性能产生一定影响。而对于融合叶栅，虽然流道内仍存在着较为明显的横向二次流动，但由于融合的加入，使得流体在融合位置即开始较为温和的向展高方向偏转，并强有力的向下游输运，避免了流体在叶栅后部吸力面角区内的过度堆积进而无法控制而发生强烈的三维分离，也因此其有效缓解了原型叶栅在 $1 0 \%$ 展高以上区域的高损失，重新组织了流场结构。从图16中也可以看出，在各轴向位置皆从范围和量值上减小了总压损失，这一点在图 16中 $+ 1 0 ^ { \circ }$ 攻角下看得十分明显。另一方面，叶身/端壁融合叶栅也在一定程度上消除了前缘吸力面附近分离泡，进一步提升了气动性能。
+
+![](images/7c006ef9d863610a1b0b890d683717344256283857fb6125afc9d8221891ef83.jpg)  
+Fig.15 Contrastive analysis of limit streamlines on the wall surface
+
+![](images/acd6c9cd20c7008ef1022ccfb66a4c1197bddcaeee159423f854884a82fc3d7e.jpg)  
+图15壁面极限流线对比分析  
+图16三维流线及不同轴向截面总压损失对比分析  
+Fig.163-D streamlines and contrast analysis of total pressure loss in different axial cross section
+
+# 6结论
+
+如何控制压气机内的角区分离是提升其气动负荷的关键，已有的数值研究表明叶身/端壁融合设计能有效推迟、减弱或消除压气机角区分离，但实验数据缺乏。为了弥补这一不足，本文针对一 $4 2 ^ { \circ }$ 折转角的 NACA65扩压叶栅进行了吸力面叶身/端壁融合设计，并首次在低速平面叶栅风洞中进行了对比实验，进一步校验了RNG-KE、SST等不同湍流模型的模拟精度，并基于SST模型结果揭示了叶身/端壁融合设计的作用机理，主要结论有：
+
+1)针对一 $4 2 ^ { \circ }$ 折转角的NACA65扩压叶栅进行  
+了吸力面距前缘 $2 5 \%$ 轴向弦长、融合宽度 $1 6 ~ \mathrm { m m }$ 的  
+叶身/端壁融合设计。2)实验结果表明：该叶身/端壁融合扩压叶栅能  
+在大部分攻角尤其是正攻角下改进叶栅性能，提高  
+叶栅总压损失系数 $7 \% - 8 \%$ 3)基于原型叶栅结果，验证了不同数值方法的  
+模拟精度。260万网格及SST湍流模型能够较为准  
+确的模拟参数分布趋势与幅值。但对于叶身端壁融  
+合叶栅，因流态更加复杂及网格质量影响，模拟误  
+差稍大4)数值结果表明：虽然同样存在端区横向二次  
+流动，叶身/端壁融合叶栅由于融合的加入，使得  
+流体在融合位置即开始较为温和的向展高方向偏转，  
+并强有力的向下游输运，避免了流体在叶栅后部吸  
+力面角区内的过度堆积进而无法控制而发生强烈的  
+三维分离，有效缓解了原型叶栅高损失。提升叶身/端壁融合叶栅网格质量及数值模拟精  
+麻」角田白目
+
+度、设计全攻角范围内有效的叶身/端壁融合叶栅是下一步工作的重点。
+
+致谢：感谢大连海事大学轮机工程学院钟兢军教授、孙鹏教授、傅文广博士生对本文相关实验工作
+
+的大力支持和帮助。
+
+# 参考文献
+
+[1] Lei V M,Spakovszky Z S.A Criterion for Axial Compressor Hub-Corner Stall [J]. Journal of Turbomachinery, 2006,130(3): 475-486   
+[2] Denton J D.Loss Mechanisms in Turbomachinery [J]. Journal of Turbomachinery,1993,115:621-656   
+[3] Semiu A G，Nicholas A C.Three-Dimensional Separations in Axial Compressors [J]. Journal of Turbomachinery,2005,127(2): 457-469   
+[4] Semiu A G,Nicholas A C.Control of Three-Dimensional Separations in Axial Compressors by Tailored Boundary Layer Suction [J]. Journal of Turbomachinery,2008, 130(1): 125-128   
+[5] 季路成,李嘉宾,伊卫林.第三代三维叶片技术思路分析[J]. 工程热物理学报，2015,36(5):989-994 JI Lu-cheng,LI Jia-bin,YI Wei-lin. The Way to the Third Generation of 3-D Blades [J]. Journal of Engineering Thermophysics,2015,36(5): 989-994   
+[6] Staats M,Nitsche W.Active Control of the Corner Separation on a Highly Loaded Compressor Cascade With Periodic Nonsteady Boundary Conditions by Means of Fluidic Actuators [J]. Journal of Turbomachinery, 2015, 138(3): 339-364   
+[7] Lippett D，Woollatt G. The Design，Development and Evaluation of 3D Aero Foils for High Speed Axial Compressors:Part1—Test Facility.Instrumentation and Probe Tranverse Mechanism [R].ASME IGTI GT2005- 68792,2005   
+[8] Woollatt G,Lippett D，The Design，Development and Evaluation of 3D Aero Foils for High Speed Axial Compressors: Part1-Simulation and Comparison With Experiment [R].ASME IGTI GT2005-68793,2005   
+[9] Gallimore S J. The Use of Sweep and Dihedral in Multistage Axial Flow Compressor Blading [J]. Journal of Turbomachinery, 2002,124(4): 33-47   
+[10] 陈得胜,刘波，那振颉，王雷，曹志远．针对轴流压气机的非 轴对称端壁造型优化设计[J].燃气涡轮试验与研究,2013, 26(1):16-21 CHEN De-sheng,LIU Bo,NA Zhen-zhe,et al. Optimized Non-Axisymmetric Endwall Contouring for Axial Compressor [J].Gas Turbine Experiment and Research,2013, 26(1): 16-21   
+[11] Merchant A A,Design and Analysis of Axial Aspirated Compressor Stage [D]. MA:MIT,1999   
+[12] 赵勤，吴云，李应红，赵小虎．端壁等离子体气动激励抑制 高负荷压气机叶栅角区流动分离实验[J]．航空动力学报, 2013,28(9): 2129-2139 ZHAO Qin,WU Yun,LI Yin-hong,et al. Experiment of Flow Separation Control in Highly Loaded Compressor Cascade Corner by Endwall Plasma Aerodynamic Actuation [J]. Journal of Aerospace Power,2013,28(9):2129- 2139   
+[13]伊卫林,李嘉宾，季路成.端区流向槽对扩压叶栅角区流动 控制性能研究[C]//中国工程热物理年会热机气动热力学 分会,2015 YI Wei-lin,LI Jia-bin，JI Lu-cheng.Research on the Performance of Compressor Cascade Corner Endwall flow Groove Control [C]//Annual Meeting of China Engineering Thermal Physics,2015   
+[14]季路成,伊卫林，田勇,刘艳明．一种叶轮机械叶片与端壁融 合设计方法：中国，201010623606.2[P].2012 JI Lu-cheng，YI Wei-lin,TIAN,Yong,et al．A Design Method for the Fusion of Blade and end wall of Impeller Machinery:China,201010623606.2 [P].2012   
+[15]伊卫林,唐方明,陈志民,季路成.改善压气机端区流动的新 方法：前缘边条叶片技术[J].航空动力学报，2014，30(7): 1691-1698 YI Wei-lin，TANG Fang-ming，CHEN,Zhi-min，et al.New Approach to Improve the Endwall Flow of Compressor-Leading Edge Strake Blade Technique [J]. Journal of Aerospace Power,2014,30(7):1691-1698   
+[16]彭学敏,季路成，伊卫林,刘艳明．高负荷压气机叶栅的叶 身/端壁融合研究[J]，工程热物理学报，2014，35(2)：242- 246 PENG Xue-min,JI Lu-cheng,YI Wei-lin,et al. Study on Blended Blade and Endwall Technique Applied to HighLoaded Compressor Cascades [J]. Journal of Engineering Thermophysics,2014,36(2):242-246   
+[17]Yong Tian，Lucheng Ji,Weilin Yi,Weiwei Li,Yunhan Xiao，Numerical Studies on Improving Performance of Rotor-67 by Blended Blade and Endwall Technique [R]. ASME Turbo Expo 2012-GT-68535,2012   
+[18]伊卫林,陈志民,季路成,田勇,李伟伟.离心压气机叶身/端 壁融合技术应用初探[J]，工程热物理学报，2014，35(2): 256-261 YI Wei-lin,CHEN,Zhi-min,JI Lu-cheng,et al, Study on Blended Blade and Endwall Technique Applied to Centrifugal Compressor [J].Journal of Engineering Thermophysics,2014,35(2):256-261   
+[19]伊卫林,陈志民，季路成.叶身融合在径向扩压器中的应用 初探[J].工程热物理学报，2015,36(6)：1213-1217 YI Wei-lin,CHEN Zhi-min,JI Lucheng,et al,Investigationon ApplicationofBlendedBlade andEndwall Technique on Radial Diffuser [J]. Journal of Engineering Thermophysics,2015,36(6):1213-1217   
+[20]陈志民．压气机修型技术研究及应用[D].北京：北京理工 大学，2015 CHEN Zhi-min, Investigation and Application of Endwall Modified Technique on Compressor [D].Beijing:Beijing Institute of Technology,2015

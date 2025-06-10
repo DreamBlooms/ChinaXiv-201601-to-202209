@@ -1,0 +1,530 @@
+[
+    {
+        "type": "text",
+        "text": "2002—2018年叶尔羌河流域积雪时空变化研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "易颖1²，刘时银12，朱钰1²，吴坤鹏1,2（1.云南大学国际河流与生态安全研究院，云南昆明 650500;2.云南省国际河流与跨境生态重点实验室，云南昆明 650500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：积雪是冰冻圈中较为活跃的因子，对气候环境变化敏感，其变化影响着全球气候和水文的变化。积雪覆盖日数(SCD)、降雪开始时间(SCOD)和融雪开始时间(SCMD)是影响地表物质和能量平衡的主要因素。使用MODIS无云积雪产品提取了叶尔羌河流域2002年7月—2018年6月逐日积雪覆盖率(SCP),基于像元计算了SCD、SCOD和SCMD,系统地分析了其空间分布与变化特征，并探讨了其变化的原因及积雪面积的异常变化与ENSO的联系。结果表明：(1)研究时段内,流域的积雪覆盖面积呈微弱减少趋势，与气温呈显著负相关，与降水呈显著正相关;2002—2018年,SCP随海拔的升高呈明显的线性增加趋势： $\\left( R ^ { 2 } { = } 0 . 9 2 \\sqrt { < } 0 . 0 1 \\right)$ );各海拔高度带最大SCP出现的月份大致随海拔的上升往后推迟，最小SCP出现月份无显著变化(集中在8月），海拔 $4 0 0 0 \\mathrm { ~ m ~ }$ 以下，春季的SCP小于冬季，海拔 $4 0 0 0 \\mathrm { ~ m ~ }$ 以上，春季的SCP大于冬季。（2）SCD、SCOD和SCMD有明显的海拔梯度,在流域内，从东北至西南，呈现出SCD增加,SCOD提前,SCMD推迟的特征；变化趋势上，流域$9 1 . 9 \\%$ 的区域SCD表现为减少， $6 5 . 6 \\%$ 的区域SCOD有往后推迟的趋势， $7 7 . 4 \\%$ 的区域SCMD表现出提前的趋势。（3）2006、2008年和2017年积雪覆盖面积异常偏大，而在2010年则异常偏小，其原因可能是ENSO影响了积雪的变化。(4）以喀喇昆仑为主的高海拔地区，包括帕米尔高原东部的部分地区,其SCD、SCOD和SCMD分别表现出增加、提前和推迟的趋势，这种变化与其春秋温度的持续走低以及降水量的增加有关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：叶尔羌河流域；积雪覆盖日数；降雪开始时间；融雪开始时间文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "积雪作为冰冻圈中最活跃的自然元素之一，以其特殊的物理特征（如高反照率、高融化潜热和低导热率)和广泛的地理分布影响着地气系统的能量交换、水循环和气候变化[1-2]。积雪面积的减少会引起地表反照率的降低，进而影响下垫面吸收太阳短波辐射,导致地表温度和地表热通量的变化[3-4]。积雪对气候变化的高度敏感性，使其在气候系统变暖的背景下减少显著。IPCC的最新报告指出，几乎所有地区，特别是在低海拔地区，积雪持续时间平均每10a减少5d，另外，包括积雪在内的冰冻圈内自然元素的减少已经改变了大多数相关自然灾害发",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生的频率、强度和位置[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，遥感技术以其多尺度、多时相、多谱段、多层次等特点为相关研究者开展高海拔山区的积雪研究提供了相对更为优质的数据来源[6,已有不少学者对不同地区的积雪时空变化及其对气候因子的响应进行了研究。其中一些研究基于多源遥感数据在大尺度上对积雪进行了时空变化分析，发现北半球的积雪面积自1922年以来都呈现出减少的趋势[7-8]；亚欧大陆春季融雪开始时间在1972—2006年显著提前；中国积雪覆盖日数在2000—2014年，夏季呈减少趋势，而在冬季、春季和秋季都",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "呈现增加的趋势[\"；青藏高原中部积雪持续日数在2001—2014年呈增加趋势[11]。也有一些研究者在流域尺度上对积雪变化进行了研究,如Zheng等[12]对新疆玛纳斯河流域积雪的垂直分布特征及其与气温的关系进行了研究；Ahmad等[13对印度河支流奇特拉尔河流域积雪面积的时空变化趋势进行了分析，发现奇特拉尔河流域的积雪范围在整个流域尺度以及各个高度带都呈显著增加趋势;Hasson等[14]和Tahir等[15-16]都研究了印度河子流域阿斯托河流域和洪扎河流域的积雪变化，Hasson等观察到阿斯托河流域和洪扎河流域的积雪在减少，而Tahir等的研究表明阿斯托河流域和洪扎河流域的积雪面积略有增加。影响积雪变化的气象因子中，气温和降水是影响积雪年内分配与年际变化以及空间分布的两大主要气象因子[17-18],已有不少研究者就积雪对气候变化的响应进行了研究，Xiong等[19]通过对高亚洲地区近35a融雪开始时间序列的分析及其与平均气温的比较，发现平均气温与融雪开始日期具有较强的相关性，除喀喇昆仑山和昆仑山西部部分地区外，1988—2015年高亚洲地区的融雪开始时间逐渐提前;曾小箕等[20]利用MODIS积雪数据对土库曼斯坦山区的积雪进行了监测，发现积雪面积随气温的降低、降雨量的减少而增加;姜康等[2研究发现，温度是影响积雪日数、积雪初日和积雪终日等积雪特性参数变化的重要因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "叶尔羌河流域属于新疆干旱区，流域内的喀喇昆仑山和东帕米尔高原是我国现代冰川作用的主要区域之一，尤其喀喇昆仑山是亚洲山岳冰川最集中的地区[22],冰雪融水是叶尔羌河流域重要的淡水来源[23]。在全球变暖背景下,北半球的积雪积累期普遍缩短，消融期普遍延长，积雪覆盖面积普遍减少，但是各区域由于气候和地形等条件的不同，积雪的积累和消融过程也有所不同，研究叶尔羌河流域的降雪开始时间、融雪开始时间和积雪覆盖日数的时空变化特征对进一步理解其积雪的积累和消融过程具有重要意义。因此，本文采用MODIS无云积雪产品，研究了叶尔羌河流域积雪覆盖范围的变化以及降雪开始时间、融雪开始时间和积雪覆盖日数的时空分布和变化特征，并探讨了其变化的原因及积雪面积异常变化与ENSO的联系，以期为叶尔羌河流域的洪水、泥石流和雪灾预警等研究提供新依据，为冰雪水资源的合理利用提供新参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于青藏高原西北部边缘的叶尔羌河流域，介于 $3 5 ^ { \\circ } 2 8 ^ { \\prime } { \\sim } 3 9 ^ { \\circ } 4 5 ^ { \\prime } \\mathrm { N }$ 和 $7 3 ^ { \\circ } 4 1 ^ { \\prime } { \\sim } 7 8 ^ { \\circ } 4 7 ^ { \\prime } \\mathrm { E }$ 之间(图1)。流域总面积 $9 8 2 4 1 ~ \\mathrm { k m } ^ { 2 }$ ,南部为喀喇昆仑山和西昆仑山，西北部为帕米尔高原，东依塔克拉玛干沙漠边缘，东北部为山前冲积平原，地势西南高东北低，平均海拔约 $3 3 3 9 \\mathrm { ~ m ~ }$ 。流域内主要的山脉为喀喇昆仑山(北坡)，按特定的地理位置和地形条件大致分为山区与平原两大气候区，山区为高原高寒干旱半干旱气候,平原属干旱半干旱气候,全年干旱少雨[24]。流域内发育着丰富的冰川（图1中的冰川数据采用中国第二次冰川编目数据25），冰川融水占河流多年平均径流量的 $6 4 \\%$ ，降雨和积雪融水补给占 $1 3 . 4 \\%$ ,地下水补给占 $2 2 . 6 \\% ^ { [ 2 6 - 2 7 ] }$ ,地面观测数据显示叶尔羌河流域多年平均气温在 $3 . 6 { \\sim } 1 2 . 7 ~ ^ { \\circ } \\mathrm { C }$ ，年平均降水量在 $5 7 . 3 { \\sim } 7 8 . 8 ~ \\mathrm { m m } ^ { [ 2 8 ] }$ 。受西风气流控制，其降水主要集中在冬春两季，流域高大的山势和高山冷储作用使得降水主要以固态水的形式降落下来，高大山体截留高空水汽的能力又使得高山上的降水随海拔逐渐递增，为积雪的持续发育提供了较为丰富的物质来源[29]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8fdf1711afa774faa84bbc1653ac50e72b51de4abbb233120a60c342cf2c0b2.jpg",
+        "img_caption": [
+            "图1研究区概况图",
+            "Fig.1Sketch map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1 积雪数据本文的积雪数据源于青藏高原地区MODIS逐日无云积雪产品[30],空间分辨率为500m，时间范围是2002年7月一2018年6月，由中国科学数据中心提供 $\\mathrm { \\left( h t t p { : } / / w w w . c s d a t a . o r g / e n / p / \\right) }$ 。与地面观测数据相比，卫星获取的观测数据具有空间覆盖大、时间分辨率高等优点，尤其在人口稀少的帕米尔高原和喀喇昆仑山地区，观测站点十分稀少，卫星积雪产品为研究未观测地区的积雪特征提供了重要的数据集。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为验证MODIS积雪数据在研究区的精度，利用空间分辨率为 $3 0 \\mathrm { m }$ 的LandsatOLI数据来源于美国地质勘探局（USGS），https://landsatlook.usgs.gov/viewer.html]通过snowmap算法提取积雪面积,并使用决定系数 $\\left( R ^ { 2 } \\right)$ 、偏差(Bias）均方根误差(RMSE）、相对均方根误差(rRMSE)来评价MODIS积雪数据在研究区的表达情况。验证数据选取的时段为2014年7月1日—2015年6月30日整个积雪年，包括图1所示的研究区中所有云覆盖率 $\\leqslant 1 0 \\%$ 的影像（行列号为150033、149033、149034、148034和148035），共计32景。经统计，MODIS积雪数据与landsatOLI提取的积雪数据一致性较好，能较好地反映研究区的积雪时空分布特征(图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8895d1d2bc48fe881fdb2a612b6b8b6cc19cc692d750ddd18e555ce6036aa22c.jpg",
+        "img_caption": [
+            "图2MODIS积雪产品的精度验证 Fig.2Validation of MODIS snow cover product "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注： $R ^ { 2 }$ 、Bias、RMSE和rRMSE分别表示决定系数、偏差、均方根误差和相对均方根误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2气象数据由于研究区域内气象站点非常有限，为研究气温和降水的空间差异对积雪分布及变化的影响，本文采用格网气象数据，以避免站点数据代表的空间范围有限带来的影响。数据来源于Climatic Research Unit(CRU)(https://crudata.uea.ac.uk/cru/data/hrg/cru_ts_4.03/)，采用TS数据集，版本为v4.03,为逐月气象数据,空间分辨率为0.5°X0.50[31]此外，本文以2002年7月一2018年6月流域内莎车和喀什气象站点观测的气温和降水数据[中国地面气候资料日值数据集(V3.0)，来源于国家气象信息中心（http://data.cma.cn/）]验证同期CRU的气温和降水数据，气温数据之间的相关系数高达0.99，降水数据的相关数据在 $0 . 6 3 \\mathrm { \\sim } 0 . 6 7$ 之间，说明CRU气温和降水数据在研究区的精度较高，能满足研究需要。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3DEM数据DEM数据采用SRTM(Shuttlera-dartopographymission），数据版本为V.0o3,来源于美国地质勘探局（USGS）（https://lpdaac.usgs.gov/products/srtmgl1v003/)，空间分辨率为 $3 0 \\mathrm { m }$ 。本文利用DEM数据研究不同海拔高度的积雪特征，为与积雪数据相匹配，将其重采样和重投影与积雪数据一样的分辨率和投影。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.4ENSO指数MEI 表征厄尔尼诺-南方涛动(ENSO)的指数MEI(MultivariateENSOIndex）（数据版本为V2）由NOAA提供(https://www.esrl.noaa.gov/psd/enso/mei/)。相比于其他的ENSO指数,如SOI和Nino3.4SST，MEI更加完整、有效地描述了ENSO现象，能较好的反映海气耦合的性质，且不易受到数据更新的偶然误差造成的影响[32]。本文利用2002—2018年的MEI指数探究积雪异常与大气环流异常的联系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 积雪参数的提取 积雪覆盖率(Snow coverpercentage,SCP)代表相对积雪覆盖面积,是研究区积雪覆盖面积占研究区总面积的百分比，积雪覆盖日数(Snow covered days,SCD)指一个积雪年中有积雪覆盖的天数，降雪开始时间（Snowcover onsetdates,SCOD)代表一个积雪年中首次降雪的日期，融雪开始时间（Snowcover meltingdates,SCMD）则表示一个积雪年中积雪开始融化的日期，本研究基于Wang等[33]提出的算法计算每个积雪年的降雪开始时间、融雪开始时间。为便于积雪特征的研究，选取当年7月1日一次年6月30日为一个积雪年。本文利用逐日积雪覆盖产品计算了叶尔羌河流域每日的SCP，并基于像元，计算每个像元中的SCD、SCOD以及SCMD，具体计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S C P } = { \\frac { P _ { s } } { P } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S C D } = \\sum _ { i = 1 } ^ { n } ( S _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S C O D } = \\mathrm { F d } 1 - \\mathrm { S C D } 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S C M D } = \\mathrm { F d } 2 + \\mathrm { S C D } 2\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $P _ { s }$ 代表研究区中积雪覆盖的面积； $P$ 代表研究区的总面积; $n$ 代表一个积雪年内包含的天数; $S _ { i }$ 为1表示为积雪日，为0表示为非积雪日；Fd1为冷季中固定的某一天，鉴于叶尔羌河流域的降雪一般多发于9—12月，Fd1取12月1日，即 $\\mathrm { F d } 1 { = } 3 3 5 \\mathrm { ~ d ~ }$ 或336d;SCD1为每个积雪年中9月1日一12月1日的积雪覆盖日数;Fd2为冷季中固定的某一天，鉴于流域的融雪一般多发于2—5月，Fd2取2月1日，即$\\mathrm { F d } 2 { = } 3 2 \\mathrm { d }$ ,SCD2为每个积雪年中2月1日一5月1日的积雪覆盖日数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2时序分解由于本文所用的积雪数据和气象数据均为时序数据，要明确时序数据的具体变化特征,就需要分解时序以获得精细信息。STL（Season-al-trend decomposition procedure based on Loess ）作为一种常用的时序分解方法，广泛应用于气象和水文相关的研究，其将时间序列 $Y$ 分为趋势分量 $T$ 周期分量(季节分量) $s$ 及余项 $R$ ,以精细化地表征时序数据在不同层面的变化特点[34-35]。对于时间序列$Y$ ,其 $i$ 时刻的STL分解可表示为式（5）[36]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = T _ { i } + S _ { i } + R _ { i } \\ ( i = 1 , 2 , \\cdots , N )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究过程中主要使用STL进行积雪覆盖率、气温、降水等时序数据的分解，以分析其各分量的特征，发掘有效信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3趋势检验方法本文利用Mann-Kendall非参数检验方法和Theil-SenMedian趋势分析在像元尺度上对SCD、SCOD和SCMD进行趋势分析[37和趋势率的估计[37-40]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1积雪范围时空变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3展示了叶尔羌河流域2002—2018年多年平均SCP的年内变化情况，由图可知积雪从9月开始积累，缓慢增长至11月，从12月开始快速增长，直至次年2月达到峰值( $3 5 . 9 4 \\%$ ；之后，随着春季气温的回暖，积雪开始加速消融，至8月SCP降至最低值；此外，SCP在冬季的波动较大，其中12、1月和2月的波动尤其大，夏季SCP的波动相对较小，其中7月和8月的波动最小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为研究积雪覆盖面积的年际变化特征，采用2.2.2部分的方法对流域SCP以及气温和降水的时间序列进行分解，获得其各自的趋势项、季节项及残差项(图4)。从SCP的季节项可以发现，积雪覆盖面积的季节变化特征十分明显，2、3月为SCP的峰值期，7、8月为谷值期。通过对SCP的时间序列做线性趋势拟合，得出其变化的斜率为-0.0164，说明2002—2018年流域的积雪覆盖面积呈微弱减少趋势。SCP趋势项代表积雪覆盖面积的总体变化趋势，从叶尔羌河流域2002—2018年SCP的变化趋势可以发现,从2002年至2006年，积雪面积呈现出上升的趋势，2006年至2007年，随着气温的上升和降水的减少，积雪面积骤减，然后至2012年，积雪面积呈微弱的波动上升趋势，至2013年，随着气温的上升,积雪面积再度骤减,而后缓慢上升至2017年，到2018年，随着气温的上升和降水的减少，积雪面积再次骤减，可以发现SCP与降水呈总体一致的变化趋势，而与气温呈相反的变化趋势。进一步将流域每月平均SCP与每月平均气温和降水做相关性分析，发现SCP与降水呈显著正相关，相关系数为0.61，与气温呈显著负相关，相关系数为-0.73（表1)，说明流域积雪覆盖面积受气温和降水的影响，且对气温的敏感性大于对降水的敏感性。SCP的残差项可以反映流域积雪覆盖面积波动的特征，是极端降雪事件最有力的证据,在一定程度上可以反映极端气候事件，由图4中SCP残差项的变化趋势可见，2006、2008年和2017年的SCP异常偏大，而2010年的SCP则异常偏小,这可能与这些年份的气候异常有关。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a6471343a6b7f6ac66f352fc33ca4b348759b19b213bc36be34a70fedbbbe41f.jpg",
+        "img_caption": [
+            "图32002—2018年叶尔羌河流域积雪覆盖率(SCP)的年内变化",
+            "Fig.3Annual cycle of SCP in the Yarkant River Basin during 2002—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图5a可知，SCP表现出明显的海拔梯度，随",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ed4b23868047fe10cc19245a5f79a979e8f33771c8c833bd056e59fbb7884e8.jpg",
+        "img_caption": [
+            "图42002—2018年叶尔羌河流域积雪覆盖率(SCP)以及气温、降水变化"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表1叶尔羌河流域积雪覆盖率(SCP)与气温、降水的相关系数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/be871533c8f136b0bdb6fdc1615bc6f67146f680ff441d32ff3ad019dc4eeebf.jpg",
+        "table_caption": [
+            "Tab.1Pearsoncorrelationcoefficientsbetween SCP and temperature,precipitationin the Yarkant River Basin on monthly basis "
+        ],
+        "table_footnote": [
+            "注：\\*\\*表示在0.01水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>气温</td><td>降水</td></tr><tr><td>积雪覆盖率</td><td>-0.73**</td><td>0.61**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "海拔的升高呈明显的线性增加趋势( $R ^ { 2 } { = } 0 . 9 2$ 、 $P <$ 0.01)，积雪覆盖面积以 $5 2 0 0 { \\sim } 5 2 5 0 \\ \\mathrm { m }$ 海拔高度带为中心向低海拔和高海拔呈正态分布(图5b)。图6为不同海拔高度带多年平均SCP的年内变化，可以发现海拔越高，SCP的年内波动越小;海拔大于 $6 5 0 0 \\mathrm { m }$ 的区域各月的SCP都接近 $100 \\%$ ;海拔小于 $4 0 0 0 \\mathrm { ~ m ~ }$ 的高度带春季的SCP小于冬季，而大于 $4 0 0 0 \\mathrm { m }$ 的高度带春季的SCP大于冬季，这可能是因为在海拔较高的区域冬季积雪升华、风吹雪导致积雪发生了再分布，从而造成积雪大量损失[41]。此外，受西风影响，海拔 $4 0 0 0 { \\sim } 5 0 0 0 \\mathrm { ~ m }$ 和 $5 0 0 0 { \\sim } 6 0 0 0 \\ \\mathrm { m }$ 的SCP在冬春两季较高。各海拔高度带最大SCP出现的月份大致随着海拔的上升往后推迟，海拔 $2 0 0 0 { \\sim } 3 0 0 0 \\mathrm { ~ m }$ 以及 $3 0 0 0 { \\sim } 4 0 0 0 \\mathrm { m }$ 高度带最大SCP出现在2月，随着海拔的上升，海拔 $4 0 0 0 { \\sim } 5 0 0 0 \\mathrm { ~ m }$ 以及 $5 0 0 0 { \\sim } 6 0 0 0 \\ \\mathrm { m }$ 高度带最大SCP出现的月份依次往后推迟为3月和5月；与此同时，除海拔 $2 0 0 0 { \\sim } 3 0 0 0 \\mathrm { ~ m }$ 以及3000\\~4000$\\mathrm { ~ m ~ }$ 高度带的SCP分别在5月和7月达最小值，其余海拔在 $4 0 0 0 \\mathrm { m }$ 以上的高度带最小SCP均出现在8月。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c145e18ff61e02fa2a296e42a1252f5b4bbe63c3011f81c92d6e4f1266797ca.jpg",
+        "img_caption": [
+            "Fig.4Variations of SCP,temperature,and precipitation in the Yarkant River Basin during 2O02—2018 ",
+            "图5叶尔羌河流域积雪覆盖率(SCP)(a）、积雪覆盖面积和流域面积随海拔变化(b)",
+            "Fig.5Variations of the annual mean SCP(a),snow cover areaand basinareaunderdifferentaltitude in the Yarkant River Basin (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2积雪参数时空变化特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由叶尔羌河流域2002—2018年多年平均积雪",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "干旱区地理",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "100 -2000\\~3000m 80 4-3000\\~4000m %/dCS 60 -4000\\~5000m 40 \\*- 6000\\~6500m - 6500\\~7953m 20 -最小值月 0 --最大值月 7 8 9 10 11 12 1 2 3 4 5 6 月份 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "日数的空间分布可以看出(图7a)，受地势和气候等因素的影响，SCD大致呈现出由东北向西南递增的特征，海拔越高，SCD越高(图8)，例如，喀喇昆仑、西昆仑以及帕米尔高原的高海拔冰川区，其SCD大于240d,而小于60d的SCD低值区主要分布在流域中海拔较低的河谷和山前冲积平原。SCOD的分布随地势的变化则表现出由东北向西南逐渐提早的变化特点，高海拔冰川区的SCOD普遍较早，9月初就开始出现积雪，主要分布在喀喇昆仑山以及帕米尔高原东部和西昆仑山的部分地区；随着海拔的降低，SCOD逐渐推迟，至流域中海拔较低的河谷和下游地区，11月底至12月初才出现积雪，在空间分布上，SCOD有明显的海拔梯度，海拔越高，SCOD越早（图8)。而SCMD则表现出由东北向西南逐渐往后推迟的特征，SCMD的这种分布特征主要是受流域地势特征的影响，积雪消融最早在流域中海拔较低的河谷和下游地区，主要开始于2月上旬，随着海拔的上升，融雪初日逐渐后推，至高海拔的冰川区，融雪一般开始于5月上旬和中旬，同SCD和SCOD一样，SCMD也有比较明显的高度梯度，随海拔的升高SCMD逐渐往后推迟，",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5dc5c1e3903c8eed9be23c4bd5a7f989f38b3236c4883e8b5d80e58542a5b36.jpg",
+        "img_caption": [
+            "图62002—2018年叶尔羌河流域各海拔高度带积雪覆盖率(SCP)的年内变化",
+            "Fig.6Mean monthly variations of SCP for different elevation zones in the Yarkant River Basin during 2oo2—2018 ",
+            "图72002—2018年叶尔羌河流域积雪覆盖日数(SCD）、降雪开始时间(SCOD)和融雪开始时间(SCMD)的空间分布、变化趋势及显著性Fig.7 Annual mean distribution, variation trend,and its significance of SCD, SCOD,and SCMD in the Yarkant River Basin during 2002—2018"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "变化趋势上（图 $7 \\mathrm { b } \\mathrm { \\sim } \\mathrm { c }$ ），2002—2018年，叶尔羌河流域 $9 1 . 9 \\%$ 的区域SCD表现为减少的趋势，其中显著减少的区域主要分布在帕米尔和西昆仑山的部分地区，增加的区域主要位于喀喇昆仑山和帕米尔高原的少部分地区，这与孙燕华等[观察到的帕来尔高原的积雪变化一致。从SCOD的变化趋势来看(图7e\\~f)，流域大部分地区的SCOD略有推迟，其",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "400 400 150 R²=0.92 0200 y=-1.17x+356.52 R²=0.94 350 p/Ocs 100 -1.14x+22.87 300 100 R²=0.92 50 y 4.51x-67.02 250 0 .... 上 上 1 上 上 mml 海拔/m ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "中 $6 5 . 5 8 \\%$ 的区域SCOD有往后推迟的趋势，但仅 $2 \\%$ 的区域SCOD显著推迟，主要分布在西昆仑和帕米尔高原的东部，提早的区域主要位于喀喇昆仑山和帕米尔东部的部分地区，尤其是喀喇昆仑山的部分地区表现出显著提前的趋势，提前速率 ${ \\cdot } { > } 2 \\mathrm { ~ d } { \\cdot } \\mathrm { a } ^ { - 1 }$ 。流域中 $7 7 . 4 \\%$ 的区域SCMD表现出提前的趋势（图7h\\~i),但其中仅 $2 . 0 6 \\%$ 的区域SCMD显著提前，主要分布在西昆仑山以及帕米尔东部，以喀喇昆仑为主的高海拔地区，包括帕米尔高原东部的部分地区的融雪开始时间呈现出推迟的趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1大气环流与积雪变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "积雪变化主要是大尺度大气环流或气候强迫作用的结果[42-45],例如西风环流、季风、北极涛动和厄尔尼诺-南方涛动等。叶尔羌河流域位于青藏高原西北部，其积雪的分布特征受西风环流运动路径以及水汽输送方向的影响。西风带高空冷槽通过青藏高原西北部上空时，受地形阻流作用，出现分支，北支绕过天山，南支沿青藏高原西侧南下，叶尔羌河流域西部的帕米尔高原以及西南部的喀喇昆仑山正处于南支西风的上升运动区，因此，降水较多，在高海拔地区降水以积雪的形式降落，使得其积雪覆盖日数较大；当气流爬坡翻越流域西部和西南部的山区向东北前行时，所剩水汽较少，使得流域山区的北部虽海拔较高，但因离水汽较远，降水较少，因此,积雪覆盖日数也较少[46-48]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "积雪异常与大气环流异常密切相关，当环流形势出现异常变化时，就会直接影响天气和气候，甚至引发极端气候事件，造成降雪和积雪异常[49-50]有关研究表明，大气环流遥相关通过改变温度、降水以及大气的动力和热力作用，从而引起积雪的变化[51-53],其中,以厄尔尼诺-南方涛动(ENSO)遥相关最为典型。ENSO是热带太平洋海气相互作用的结果，具有2\\~7a的准周期，对气候的季节-年际变化起着重要的作用[54-57]。从4.1.1部分的分析中可知,2006、2008年和2017年叶尔羌河流域积雪覆盖面积异常偏大，而2010年的积雪覆盖面积则异常偏小。为探究其异常的原因，使用表征ENSO的指数MEI和流域SCP的残差项以及气温和降水的残差项进行分析。从图 $9 \\mathrm { a } \\mathrm { \\sim } \\mathrm { b }$ 可以看出，2006、2008年和2017年的MEI值连续数月小于零，与此同时，这些年份冬春季的气温偏小，降水偏大，其中尤以2008年最为典型，说明这些年份可能发生了ENSO冷事件，即拉尼娜；而2010年冬季的MEI值连续数月大于零，且气温偏大，降水偏小，说明2010年可能发生了ENSO暖事件，即厄尔尼诺。因此，推测叶尔羌河流域积雪覆盖面积的异常增大(减小)可能是由于拉尼娜(厄尔尼诺)事件通过海气作用的遥相关，对流域的气候产生了一定影响，从而引起了降雪和积雪的异常。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2气候变化与积雪变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "积雪变化与气候变化密切相关，气温和降水作为主要的气象因子，研究其空间分异和变化特征及与积雪变化的联系对揭示积雪分布和变化的成因",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/03011236dd458d204284d5db18d711bf7eae0e8380876e351aa7dc7f5b9a3aaf.jpg",
+        "img_caption": [
+            "图82002—2018年叶尔羌河流域积雪覆盖日数（SCD）降雪开始时间(SCOD)和融雪开始时间(SCMD)随海拔变化Fig.8Variations of SCD,SCOD,and SCMD with elevationin the YarkantRiver Basin during 2Oo2—2018",
+            "图92002—2018年叶尔羌河流域SCP残差项与MEI时间序列(a)以及气温与降水残差项时间序列(b)",
+            "Fig.9Variations ofMEI, residual component of SCP(a), temperature and precipitation (b) in the Yarkant River Basin during 2002—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "及与气候的相互关系据有重要意义。已有不少研究发现相对于降水，气温是影响积雪变化的主要因素[58-61]。本文通过对比积雪覆盖率与气温和降水的相关系数，发现这一地区积雪覆盖率与气温的相关性大于与降水的相关性，表明气温是影响叶尔羌河流域积雪面积变化较为主要的因素。受地势的影响，叶尔羌河流域的年平均气温表现出由西南向东北递增的空间变化特征，年均降水量的分布则大致呈现出由西南向东北递减的特征，以喀喇昆仑（北坡）、西昆仑和帕米尔高原东部为主的高海拔山区的年平均气温在零度以下，年均降水量总量则在$2 0 0 ~ \\mathrm { { m m } }$ 以上(图 $1 0 \\mathrm { { a } \\cdot \\mathrm { { b } } }$ )。因此，气温和降水的这种空间分异特征使得叶尔羌河流域的积雪覆盖日数也表现出由西南向东北递减的特征。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正如Peng等[62]所指出的，即使气温升高，当气温低于冰点时，降水加剧也会导致积雪深度增加。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究发现，叶尔羌河流域的SCD与其春季降水总量呈显著正相关，与秋季降水总量呈微弱正相关（表1)，说明春季和秋季降水量的增加会促进积雪的积累，延长SCD。因为叶尔羌河流域的降雪主要开始于秋季，而融雪主要发生在气温接近于冰点的春季，所以秋季的降水量变化和平均气温很大程度上决定着SCOD的变化，而春季降水量的变化和春季平均气温则决定着SCMD的变化。通过将SCOD和SCMD与秋季、春季降水总量和秋季、春季平均气温做相关分析，发现SCOD与秋季降水总量呈负相关，与秋季平均气温呈正相关,SCMD与春季降水总量呈正相关，与春季平均气温呈负相关，即秋季降水量的增加和气温的减少会促使SCOD提前，春季降水总量的增加和气温的减少会促使SCMD往后推迟（表2)。又如图10c\\~d所示，2002—2018年位于叶尔羌河流域西南部的喀喇昆仑山和西北部的帕米尔高原东部秋季降水总量呈现出微弱的增加趋势，在其秋季平均气温小于零的背景下，降水的增加促进了其积雪深度的增加，从而使得其SCOD表现出提前的趋势；同样，如图10e\\~f所示，流域中喀喇昆仑和帕米尔东部春季降水总量表现为增加，且春季平均气温小于零，低温和降水量的增加使其积雪深度增加，从而促使其SCMD往后推迟",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6864a59082f44ab0c6884d8c06ec0e7fe47650d1ac5cf7f7bdaf39596c43cb0.jpg",
+        "img_caption": [
+            "图10 2002—2018年叶尔羌河流域多年平均气温(a)和多年平均降水总量(b)空间分布、秋季平均气温(c)和 秋季降水总量变化趋势(d)以及春季平均气温(e)和春季降水总量(f)变化趋势 Fig.1OSpatialdistributionsofannual meantemperature(a)and precipitation (b),variationtrendsofaverage temperature (c) and total precipitation in autumn (d),and that of average temperature (e)and total precipitation in spring(f) in the Yarkant River Basin during 2002—2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/63284476affdb8e1da7214c2f8b28d0071f42267d5568dc1d5bf036317dd18f8.jpg",
+        "table_caption": [
+            "2叶尔羌河流域积雪覆盖日数(SCD)、降雪开始时间(SCOD)和融雪开始时间(SCMD)与气温、降水的相关系数Tab.2 Pearson correlation coefficients of SCD,SCOD and SCMD with temperature,precipitation in theYarkant River Basin on monthlybasis"
+        ],
+        "table_footnote": [
+            "注：\\*表示在0.05水平上显著相关。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>秋季降水总量</td><td>秋季平均气温</td><td>春季降水总量</td><td>春季平均气温</td></tr><tr><td>SCD</td><td>0.24</td><td>-0.26</td><td>0.43°</td><td>-0.20</td></tr><tr><td>SCOD</td><td>-0.40</td><td>0.34</td><td>-0.35</td><td>-0.07</td></tr><tr><td>SCMD</td><td>0.02</td><td>0.05</td><td>0.15</td><td>-0.47*</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）2002—2018年，流域积雪覆盖面积呈现出微弱的减少趋势，且与气温和降水的变化关系显著，与气温呈负相关，与降水呈正相关;年内变化上，积雪覆盖面积在8月最小，2月最大;空间变化上，SCP随海拔的升高呈明显的线性增加趋势( $R ^ { 2 } =$ $0 . 9 2 \\ 、 P { < } 0 . 0 1$ )，积雪覆盖面积则以 $5 2 0 0 { \\sim } 5 2 5 0 \\mathrm { m }$ 海拔高度带为中心向低海拔和高海拔呈正态分布，海拔$4 0 0 0 \\mathrm { ~ m ~ }$ 以下，春季的积雪面积小于冬季，海拔4000m以上，春季的积雪面积大于冬季;此外，各海拔高度带最大SCP出现的月份随着海拔的上升往后推迟，最小SCP出现月份无显著变化(集中在8月）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（2）SCD（随海拔的升高增加）、SCOD（随海拔的升高往前提早)和SCMD(海拔的升高往后推迟）有明显的海拔梯度;在流域内，从东北至西南，呈现出SCD增加，SCOD提前，SCMD推迟的特征；研究时段内，流域 $9 1 . 9 \\%$ 的区域SCD表现为减少， $6 5 . 5 8 \\%$ 的区域SCOD有往后推迟的趋势， $7 7 . 4 \\%$ 的区域SCMD表现为提前。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（3）2006、2008年和2017年积雪覆盖面积异常偏大，而在2010年则异常偏小，其原因可能是ENSO事件引起了降雪和积雪的异常。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(4）以喀喇昆仑为主的高海拔地区，包括帕米尔高原东部的部分地区，其SCD、SCOD和SCMD分别表现出增加、提前和推迟的趋势，这种变化与其春秋温度的持续走低以及降水量的增加有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Zhang T.Influence of the seasonal snow cover on the ground thermal regime: An overview[J]. Reviews of Geophysics,2005,43(4): RG4002.   \n[2]Zimov S A, Schuur E A G, Chapin II F S.Permafrost and the global carbon budget[J]. Science (Washington)，2006,312(5780): 1612-1613.   \n[3]Henderson G R,Leathers D J, Hanson B. Circulation response to Eurasian versus North American anomalous snow scenarios in the northern Hemisphere with an AGCM coupled to a slab ocean model[J]. Journal of Climate,2013,26(5):1502-1515.   \n[4]Kolstad E W. Causal pathways for temperature predictability from snow depth[J]. Journal of Climate,2017,30(23): 9651-9663.   \n[5]Portner HO,Roberts D, Masson-Delmote V,et al.IPCC special report on the ocean and cryosphere in a changing climate[J]. Geneva: IPCC Intergovernmental Panel on Climate Change,2019.   \n[6]肖鹏峰,冯学智,谢顺平,等.新疆天山玛纳斯河流域高分辨率 积雪遥感研究进展[J].南京大学学报(自然科学版),2015,51 (5): 909-92O.[Xiao Pengfeng,Feng Xuezhi, Xie Shunping,et al. Research progress of high-resolution remote sensing of snow in Manasi River Basin in Tianshan Mountains,Xinjiang Province[J]. Journal of Nanjing University (Natural Sciences),2015,51(5): 909-920.]   \n[7]Brown R D,Robinson D A. Northern Hemisphere spring snow cover variability and change over 1922—2010 including an assessment of uncertainty[J]. The Cryosphere,2011,5(1): 219-229.   \n[8] Wang Y,Huang X,Liang H,et al. Tracking snow variations in the northern Hemisphere using multi-source remote sensing data (2000- 2015)[J]. Remote Sensing,2018,10(1): 136.   \n[9]Zhang Y,Ma N.Spatiotemporal variability of snow cover and snow water equivalent in the last three decades over Eurasia[J]. Journal of Hydrology,2018,559: 238-251.   \n[10]Huang X,Deng J, Ma X,et al. Spatiotemporal dynamics of snow cover based on multi-source remote sensing data in China[J]. The Cryosphere,2016,10(5): 2453-2463.   \n[11] 孙燕华,黄晓东,王玮,等.2003—2010 年青藏高原积雪及雪水 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "干吴区地理",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "当量的时空变化[J].冰川冻土,2015,36(6):1337-1344.[Sun Yanhua, Huang Xiaodong,Wang Wei, et al. Spatio-temporal changes of snow cover and snow water equivalent in the Tibetan Plateau during 2003—2010[J].Journal of glaciology and cryopedology, 2015,36(6): 1337-1344.]   \n[12] Zheng W,Du J, Zhou X,et al.Vertical distribution of snow cover and its relation to temperature over the Manasi River Basin of Tianshan Mountains,northwest China[J]. Journal of Geographical Sciences,2017,27(4): 403-419.   \n[13]Ahmad S,Israr M,Liu S,et al. Spatio-temporal trends in snow extent and their linkage to hydro-climatological and topographical factors inthe Chitral River Basin (Hindukush,Pakistan)[J]. Geocarto International,2018: 1-24.   \n[14]Hasson S,Lucarini V, Khan MR,et al. Early 2lst century snow cover state over the western river basins of the Indus River system[J]. Hydrology and Earth System Sciences,2014,18(10): 4077-4100.   \n[15] Tahir A A,Chevallier P,Arnaud Y,et al. Snow cover trend and hydrological characteristics of the Astore River Basin (western Himalayas)and its comparison to the Hunza Basin (Karakoram region) [J]. Science of the Total Environment,2015,505: 748-761.   \n[16] Tahir A A,Adamowski JF, Chevallier P,et al. Comparative assessment of spatiotemporal snow cover changes and hydrological behavior of the Gilgit,Astore and Hunza River basins (HindukushKarakoram-Himalaya region,Pakistan)[J]. Meteorology and Atmospheric Physics,2016,128(6): 793-811.   \n[17] 何海迪,李忠勤,张明军.基于 MODIS 数据中国天山积雪面积 时空变化特征分析[J].干旱区地理,2018,41(2):367-374.[He Haidi,LiZhongqin,Zhang Mingjun.Spatiotemporalvaatial ysis of snow cover area of Tianshan Mountains in China using MODIS data[J]. Arid Land Geography,2018,41(2): 367-374.]   \n[18]Liu G,Wu R, Zhang Y,et al. The summer snow cover anomaly over the Tibetan Plateau and its association with simultaneous precipitation over the Mei-yu-baiu region[J].Advances in Atmospheric Sciences,2014,31(4): 755-764.   \n[19] Xiong C, Shi J, Cui Y,et al. Snowmelt pattern over high-mountain Asia detected from active and passve microwave remote sensing [J].IEEE Geoscience and Remote Sensing Letters,2O17,14(7): 1096-1100.   \n[20] 曾小箕,丁建丽,鄢雪英,等.基于MODIS数据的土库曼斯坦山 区积雪监测[J].干旱区地理,2013,36(4):717-723.[Zeng Xiaoji,Ding Jianli,Yan Xueying,et al.Snow monitoring using MODIS in Turkmenistan Mountains[J]. Arid Land Geography,2O13,36(4): 717-723.]   \n[21] 姜康,包刚,乌兰图雅,等.基于MODIS数据的蒙古高原积雪时 空变化研究[J].干旱区地理,2019,42(4):782-789.[Jiang Kang, Bao Gang, Wulan Tuya et al. Spatiotemporal changes of snow cover in Mongolian Plateau based on MODIS data[J]. Arid Land Geography,2019,42(4):782-789.   \n[22]张祥松,米德生.喀喇昆仑山现代冰川的研究[J].冰川冻土, 2012,4(3): 15-28.[Zhang Xiangsong, Mi Desheng. Study of present glaciers in the Karakoram[J]. Journal ofGlaciologyand Cryopedology 2012,4(3): 15-28.]   \n[23]Hewitt K.Glaciers of the Karakoram Himalaya[M]. Encyclopedia of Snow,Ice and Glaciers.Dordrecht: Springer,2014: 429-436.   \n[24] 孙本国,毛炜峰,冯燕茹,等.叶尔羌河流域气温,降水及径流变 化特征分析[J].干旱区研究,2006,23(2):203-209.[Sun Benguo,Mao Weiyi,Feng Yanru, et al. Study on thechange of air temperature,precipitation and runoff volume in the Yarkant River Basin[J]. Arid Zone Research,2006,23(2): 203-209.]   \n[25] Guo W,Liu S, Yao X,et al. The second glacier inventory dataset of China (Version 1.O)[DB]. Cold and Arid Regions Science Data Center at Lanzhou,2014,doi:10.3972/glacier.001.2013.db.   \n[26]Liu TL, Yang Q,Qin R,et al. Climate change towards warmingweting trend and its effects on runoff at the headwater region of the Yarkand River in Xinjiang[J]. Journal of Arid Land Resources and Environment, 2008,22(9): 49-53.   \n[27] Chen Y N,Xu C C,Hao X M,et al.Fifty-year climate change and its effect on annual runoff in the Tarim River Basin, China[J]. Quaternary International,2009,208(1-2): 53-61.   \n[28] 王翠,李生宇,雷加强,等.叶尔羌河流域气候变化特征及趋势 分析[J].干旱区资源与环境,2018,32(1):155-160.[Wang Cui, Li Shengyu,Lei Jiaqiang,et al. Regional climatic characteristics and its change trend in Yeerqiang River Basin[J]. Journal of Arid Land Resources and Environment, 2018,32(1): 155-160.]   \n[29]Zhang X S,Zhou Y C.Study on the sudden flood of the glacial lake of the Yeerjing River in the Karakoram Mountains[M]. Beijing: Science Press,1990.   \n[30]Qiu Y,Guo H, Chu D,et al. MODIS daily cloud-free snow cover products over Tibetan Plateau[J]. Science Data Bank,2016,doi: 10.11922/csdata.170.2016.003.   \n[31]Harris I, JonesPD,Osborn T J,et al. Updated high-resolution grids of monthly climatic observations: The CRU TS3.1O Dataset [J]. International Journal of Climatology,2014,34(3): 623-642.   \n[32]Wolter K,Timlin M S.El Nino/southern oscillation behaviour since 1871 as diagnosed in an extended multivariate ENSO index (MEI.ext)[J]. International Journal of Climatology,2O11,31(7): 1074-1087.   \n[33]Wang X, Xie H.New methods for studying the spatiotemporal variation of snow cover based on combination products of MODIS Terra and Aqua[J]. Journal of Hydrology,2009,371(1-4): 192-200.   \n[34]Rojo J,Rivero R,Romero-Morte J, et al. Modeling pollen time series using seasonal-trend decomposition procedure based on LOESS smoothing[J].International Journal of Biometeorology，2017,61 (2): 335-348.   \n[35] Sanchez-Vazquez MJ, Nielen M, Gunn G J,et al. Using seasonaltrend decomposition based on loess (STL) to explore temporal patterns of pneumonic lesions in finishing pigs slaughtered in England,2005—2011[J].Preventive Veterinary Medicine,2012,104 (1-2): 65-73.   \n[36]Cleveland RB,Cleveland W S.STL:A seasonal-trend decomposition procedure based on loess[J]. Journal of Offcial Statistics, 1990, 6: 3-33.   \n[37]Hirsch R M, Slack JR.A nonparametric trend test for seasonal da ta with serial dependence[J]. Water Resources Research,1984,20 (6): 727-732.   \n[38]Sen PK.Estimates of the regression coefficient based on Kendall's tau[J]. Journal of the American Statistical Association,1968,63 (324): 1379-1389.   \n[39]Deng H,Pepin N C,Liu Q,et al. Understanding the spatial differences in terrestrial water storage variations in the Tibetan Plateau from 2002 to2016[J].Cimatic Change,2018,151(3-4):379-393.   \n[40]Hamed K H. Trend detection in hydrologic data: The Mann-Kendalltrend testunderthscalinghypothesis[J]Journalofhdrology 2008,349(3-4): 350-363.   \n[41]Qin DH,Liu S Y,LiPJ. Snow cover distribution,variability,and response to climate change in western China[J]. Journal of climate, 2006,19(9): 1820-1833.   \n[42]Kripalani R H,Kulkarni A,Sabade S S.El Nifo southern oscilation,Eurasian snow cover and the Indian monsoon rainfall[J].Proceedings of the Indian National Science Academy: Part A,2001, 67(3): 361-368.   \n[43]Wu B,Wang J.Winter Arctic oscillation,Siberian high and east Asian winter monsoon[J]. Geophysical Research Letters, 2002, 29 (19): 3-1-3-4.   \n[44] 徐丽娇,李栋梁,胡泽勇.青藏高原积雪日数与高原季风的关系 [J].高原气象,2010,29(5):1093-1101.[Xu Lijiao,Li Dongliang, Hu Zeyong.Relationship between the snow cover day and monsoon index in Tibetan Plateau[J].Plateau Meteor,2O10,29(5): 1093-1101.]   \n[45]Birsan M V,Dumitrescu A.Snow variability in Romania in connection to large-scale atmospheric circulation[J]. International Journal of Climatology2014,34(1):134-144.   \n[46]李培基.高亚洲积雪监测[J].冰川冻土,1996,18:105-114.[Li Peiji.Monitoring snow cover on the High-Asia[J]. Journal of Glaciology and Geocryology,1996,18: 105-114.]   \n[47] 柯长青,李培基.青藏高原积雪分布与变化特征[J].地理学报, 1998,65(3): 209-215.[Ke Changqing,Li Peiji. Spatial and temporal characteristics of snow cover over the Qinghai-Xizang Plateau [J]. Acta Geographica Sinica,1998,65(3): 209-215.]   \n[48]王叶堂,何勇,侯书贵.2000—2005年青藏高原积雪时空变化 分析[J].冰川冻土,2007,29(6):855-861.[Wang Yetang,He Yong,Hou Shugui.Analysis of the temporal and spatial variations of snow cover over the Tibetan Plateau based on MODIS[J]. Journal of Glaciology and Geocryology,2007,29(6): 855-861.]   \n[49] Wang T,Peng S,Otle C,et al. Spring snow cover deficitcontrolledbyintraseasonalvariabilityofthesurfaceenergyfluxes[J]. Environmental Research Letters,2015,10(2):024018,doi: 10. 1088/1748-9326/10/2/024018.   \n[50]Ye K, Lau N C. Influences of surface air temperature and atmospheric circulation on winter snow cover variability over Europe [J]. International Journal of Climatology,2017,37(5): 2606-2619.   \n[51]Seager R, Kushnir Y,Nakamura J, et al. Northern Hemisphere win ter snow anomalies:ENSO,NAO and the winter of 2009/10[J]. Geophysical Research Letters，2010,37(14): L14703,doi: 10. 1029/2010GL043830.   \n[52]Ge Y, Gong G. North American snow depth and climate teleconnection patterns[J]. Journal of Climate,2009,22(2): 217-233.   \n[53]Sobolowski S,Frei A.Lagged relationships between North American snow massand atmospheric teleconnection indices[J]. International Journal of Climatology:A Journal of the Royal Meteorological Society,2007,27(2): 221-231.   \n[54] 刘颖,倪允琪.ENSO对亚洲夏季风环流和中国夏季降水影响 的诊断研究[J].气象学报,1998,56(6):681-691.[Liu Ying,Ni Yunqi.Diagnostic research of the effects of ENSO on the Asian summer monsoon circulation and the summer precipitation in China[J].Acta Meteorologica Sinica,1998,56(6): 681-691.]   \n[55] Feng J,Chen W.Interference of the East Asian winter monsoon in the impact of ENSO on the East Asian summer monsoon in decaying phases[J].Advances in Atmospheric Sciences,2014,31(2): 344-354.   \n[56] 李天然,张人禾,温敏.ENSO对中国冬半年降水影响的不对称 性及机制分析[J].热带气象学报,2017,33(1):1-10.[Li Tianran, Zhang Renhe,Wen Min.Impact of ENSO on the precipitation over China in winter half-years[J].Journal of Tropical Meteorology,2017,33(1): 1-10.]   \n[57] WallaeJM,Rasmusson E M, MitchellTP,etal.On thestructure and evolution of ENSO-related climate variability in the tropical Pacific: Lessons from TOGA[J]. Journal of Geophysical Research: Oceans,1998,103(C7): 14241-14259.   \n[58]Li X,Gao P,Li Q,et al. Muti-paths impact from climate change on snow cover in Tianshan Mountainousarea of China[J]. Climate Change Research,2016,12: 303-312.   \n[59]Tang Z,Wang X,Wang J,etal. Spatiotemporal variation of snow cover in Tianshan Mountains,Central Asia,based on cloud- free MODIS fractional snow cover product，2001—2015[J].Remote Sensing,2017,9(10): 1045.   \n[60] Saavedra F A, Kampf S K,Fassnacht S R,et al. Changes in Andes snow cover from MODIS data,2000—2016[J]. The Cryosphere, 2018,12(3): 1027-1046.   \n[61] 贾翔,陈蜀江,黄铁成,等.基于 MODIS 数据的新疆叶尔羌河流 域山区积雪特征分析[J].冰川冻土,2014,36(2):296-303.[Jia Xiang,Chen Shujiang,Huang Tiecheng,et al. Variability of snow cover in the mountain region of the Yarkant River Basin analyzed with MODISdata[J]. Journalof Glaciologyand Geocryology,2014, 36(2): 296-303.]   \n[62] Peng S,Piao S,Ciais P,et al. Change in winter snow depth and its impacts on vegetation in China[J].Global Change Biology,2010, 16(11): 3004-3013. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Spatiotemporal variation of snow cover in the Yarkant River Basin during 2002——2018 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "YI Ying1²，LIU Shiyin1²，ZHU $\\mathrm { Y u } ^ { 1 , 2 }$ ，WU Kunpeng1² (1.YunnanKeyLaboratoryof International RiversandTransboundary Eco-securityKunming 5o5oo,Yunnan,China; 2.Institute of International Rivers and Eco-Security Yunnan University,Kunming 65O5oo,Yunnan,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Snow cover is one of the active elements inthe cryosphere sensitive to climate changes.Its change can affect the global climate and hydrology changes,and its surface massand energy balance are affcted by the snow-covered days (SCD),snow cover onset dates (SCOD),and snow cover melting dates (SCMD). In this study, we employed the MODIS daily cloud-free snow cover product to calculate variations of snow cover percentage (SCP),SCD,SCOD,and SCMD from July 2002 to June 2018 in the Yarkant River Basin,south Xinjiang, China and thenanalyzed their distribution and spatiotemporal variations.We discussed the cause of the variation and the relation between the abnormal change of snow cover and ENSO.We found the following results: (1) In the study period,the snow cover area exhibited a slight decrease trend and had a significant negative correlation with temperature and a positive correlation with precipitation. SCP showed a clear linear increase trend with increasing altitude ( $R ^ { 2 } = 0 . 9 2$ ， $P { < } 0 . 0 1$ ).When the maximum SCP appears in each altitude zone,the month is generally delayed with the rise in altitude. In contrast, when the minimum SCP appears,the month has no obvious change with altitude (concentrated in August).SCP in spring is less than that in winter when below the $4 0 0 0 \\mathrm { m }$ altitude. On the other hand, SCP in spring is greater than that in winter when above the $4 0 0 0 \\ \\mathrm { m }$ altitude. (2) Clear elevation gradients were found for SCD,SCOD,and SCMD.The spatial distributions of SCD,SCOD, and SCMDare graduallyincreased,delayed,and advanced,respectively,inanortheast-to-southwest direction in the basin.In the basin, from 2002 to 2018,SCD decreased to $91 \\%$ ，SCOD delayed to $6 5 . 6 \\%$ ，and SCMD advanced to $7 7 . 4 \\%$ . (3)In 2006,2008,and 2017,the snow cover area was abnormally large,whereas,in 2010,it was abnormally small which may be affected by ENSO.(4) High mountains concentrated along the Karakoram, including Parts of the eastern Pamir Plateau, experienced a lengthened SCD,an advanced SCOD,and a delayed SCMD related to the continuous low temperature and the increase of precipitation in spring and autumn. Key words: Yarkant River Basin; snow covered days； snow cover onset dates; snow cover melting dates ",
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,403 @@
+# Explore Inert Dark Matter Blind Spots with Gravitational Wave Signatures
+
+Fa Peng Huang\* Theoretical Physics Division，Institute of High Energy Physics, Chinese Academy of Sciences，P.O.Box 918-4，Beijing 100049,P.R.China
+
+Jiang-Hao Yut Amherst Center for Fundamental Interactions,Department of Physics, University ofMassachusetts Amherst，Amherst，MA O1o02，USA
+
+Motivated by the absence of dark matter signals in direct detection experiments (such as the recent LUX and PandaX-IIexperiments) and the discovery of gravitational waves (GWs) at aLIGO, we discuss the possibility to explore a generic classes of scalar dark matter models using the complementary searches via phase transition GWs and the future lepton collider signatures. We focus on the inert scalar multiplet dark matter models and the mixed inert scalar dark matter models,which could undergo a strong first-order phase transitions during the evolution of the early universe,and might produce detectable phase transition GW signals at future GW experiments, such as eLISA,DECIGO and BBO.We find that the future GW signature,together with circular electron-positron collider,could further explore the model's blind spot parameter region,at which the dark matter-Higgs coupling is identically zero,thus avoiding the dark matter spin-independent direct detection constraints.
+
+PACS numbers:
+
+# I.INTRODUCTION
+
+A brand new door has been opened to study the fundamental physics and the particle cosmology by the gravitational waves (GWs) after the discovery of the GWs byAdvancedLaserInterferometer GravitationalWave Observatory (aLIGO）[1]. One active research field is the idea of probing the new physics through phase transition GWs,where a strong first-order phase transition (FOPT) is induced by the new physics models and can produce detectable GW signals from three mechanisms: collisions of expanding bubbles walls,magnetohydrody namic turbulence of bubbles and sound waves in the hot plasma of the early universe [2-9].Various new physics models have been studied by the new approach of GW signals in the post aLIGO era [10-27],such as the GW detection of the dark matter (DM) [23,24],the hidden sector [11,12,19,22,25] and the electroweak baryogenesis [10, 17,18, 21, 27].
+
+Another important puzzle in particle cosmology is the particle nature of the DM.Usually there are three ways to search for particle DM:direct detection,indirect detection,and collider searches. With the experimental precision of the DM direct detection are gradually approaching the neutrino backgrounds,such as the recent LUX and PandaX-II experiments [28, 29],GWs may become a new approach to explore the existence of DM since in a large classes of DM models where a FOPT can be trigged by the DM particles and other associated particles [30-32]. In general,a strong FOPT can be triggered by the DM candidates in generic new physics models,which can produce detectable GW spectrum by Evolved Laser Interferometer Space Antenna (eLISA) [33], Big Bang Observer (BBO） [34],Deci-hertz Interferometer Gravitational wave Observatory (DECIGO） [35] and Ultimate-DECIGO（U-DECIGO) [36].
+
+In this paper,we study the chance to explore a general classes of DM models through phase transition GW signals since the GW signal becomes a novel approach to study the property of the various new physics models with extended Higgs sector after the discovery ofHiggs boson at LHC and GWs at aLIGO. And the extended Higgs sector could incorporate the scalar DM candidate. One generic classes of new physics models are the inert multiplet scalar DM models [37, 38] and mixed scalar DM models [39, 40]. In these models,the scalar multiplets usually belong to a hidden sector,and thus contain the DM candidate.At the same time,we know that usually extra scalars could change the phase transition structure for the standard model (SM) Higgs boson around the temperature of the electroweak scale.Due to extra scalar degree of freedom in the thermal plasma,the extra inert scalars could enhance the strength of the electroweak phase transition. On the other hand,these models typically encounter the tension between tight direct detection constraints and the strong FOPT.To avoid the tighter and tighter direct detection constraints,we could focus on the blind spot region,at which the Higgs-DM coupling is identically zero, thus avoiding the DM spin-independent direct detection constraints.In the scalar multiplet DM models,usually there is strong correlation between the Higgs-DM coupling and the strong FOPT: zero Higgs-DM coupling indicates there is no effect on the electroweak phase transition from the inert DM sector. The only exception in the single scalar multiplet DM models is the inert doublet model (IDM) [41,42],in which although the direct detection rate could be tiny the strong FOPT could be realized.In the blind spot region,requiring the observed relic abundance, the allowed parameter space in IDM is very limited [43] To enlarge the allowed parameter region，we consider the mixed inert DM models,in which two inert scalars are mixed [39,4O],and thus there is large blind spot parameter region. We will study the possibility to obtain strong FOPT in the blind spot parameter region in the mixed DM models. We expect that the GW signature could further explore the parameter region which has not yet been explored by the direct DM detection experiments.
+
+This paper is organized as follows: In Section I, we discuss the general inert scalar DM model, and point out the IDM in the blind spot region could lead to the GW signals while avoiding the DM constraints.In Section II,the mixed inert scalar models are investigated in the blind spot region with the DM constraints and the GW signals.In Section IV,we show our final discussions and conclusions.
+
+# II. MULTIPLETDARKMATTERSAND GRAVITATIONALWAVES
+
+Let us start from a class of DM models in which the SM is extended by adding an electroweak scalar multiplet. The scalar multiplet is $Z _ { 2 }$ -odd under an imposed global $Z _ { 2 }$ symmetry. In certain hypercharge assignment, the neutral component in the scalar multiplet could be the lightest particle in the multiplet,and thus it could be a possible DM candidate. This class of models have been wellstudied in the inert isospin-singlet [44],doublet [41,42], and triplet [45] cases. And a general DM multiplets in terms of the $S U ( 2 ) _ { L }$ representations have also been investigated systematically [37,38]. In general, the scalar multiplet $H _ { n }$ belongs to the representation $n$ of the $S U ( 2 )$ group,withhypercharge $Y$ under the transformation of the $S U ( 2 ) _ { L } \times U ( 1 ) _ { Y }$ gauge group
+
+$$
+H _ { n } = \left( \begin{array} { l } { h ^ { + j } } \\ { \vdots } \\ { h ^ { - j } } \end{array} \right) \sim ( 2 j + 1 , Y ) ,
+$$
+
+where the $T ^ { 3 }$ charge $j$ runs from $- \frac { n - 1 } { 2 }$ to $\textstyle { \frac { n - 1 } { 2 } }$ The relevant Lagrangian is written as
+
+$$
+\mathcal { L } = D _ { \mu } H _ { n } ^ { \dagger } D ^ { \mu } H _ { n } - V ( \Phi , H _ { n } ) ,
+$$
+
+where $\Phi$ is the SM Higgs doublet.The scalar potential is usually taken to be
+
+$$
+\begin{array} { l } { { V ( \Phi , H _ { n } ) ~ = ~ V ( \Phi ) + M _ { n } ^ { 2 } H _ { n } ^ { 2 } + \lambda _ { 2 } H _ { n } ^ { 4 } + \lambda _ { 2 } ^ { \prime } ( H _ { n } ^ { \dagger } \tau _ { i } ^ { n } H _ { n } ) ^ { 2 } } } \\ { { ~ + ~ \lambda _ { 3 } \Phi ^ { 2 } H _ { n } ^ { 2 } + \lambda _ { 3 } ^ { \prime } ( \Phi ^ { \dagger } \tau _ { i } ^ { 2 } \Phi ) ( H _ { n } ^ { \dagger } \tau _ { i } ^ { n } H _ { n } ) , ~ ( 3 { \mathrm { } } ~ } } \end{array}
+$$
+
+where $V ( \Phi ) = - \mu ^ { 2 } \Phi ^ { 2 } + \lambda \Phi ^ { 4 }$ .For a real multiplet 1 the term $H _ { n } ^ { \dagger } \tau _ { i } ^ { n } H _ { n }$ is identical to zero,and thus the $\lambda _ { 2 } ^ { \prime }$ and $\lambda _ { 3 } ^ { \prime }$ terms disappear. As a consequence,only the term $\lambda _ { 3 }$ connects $H _ { n }$ to $\Phi$ ，and the tree-level masses of the multiplet components are degenerate with $m _ { n } ^ { 2 } =$ $M _ { n } ^ { 2 } + \frac { 1 } { 2 } \lambda _ { 3 } v ^ { 2 }$ 2. Similarly,inthecomplex singlet model, the $\lambda _ { 2 } ^ { \prime }$ and ${ \lambda } _ { 3 } ^ { \prime }$ terms do not exist. For complex doublet model, there will be more terms than Eq.(3) in the potential
+
+$$
+\begin{array} { l } { { V ( \Phi , H _ { 2 } ) ~ = ~ V ( \Phi ) + M _ { D } ^ { 2 } H _ { 2 } ^ { 2 } + \lambda _ { 2 } H _ { 2 } ^ { 4 } } } \\ { { ~ + ~ \lambda _ { 3 } \Phi ^ { 2 } H _ { 2 } ^ { 2 } + \lambda _ { 4 } | \Phi ^ { \dagger } H _ { 2 } | ^ { 2 } } } \\ { { ~ + ~ \lambda _ { 5 } / 2 \left[ ( \Phi ^ { \dagger } H _ { 2 } ) ^ { 2 } + h . c . \right] . } } \end{array}
+$$
+
+To make the real component $H$ as the DM candidate, $\lambda _ { 3 4 5 } = \lambda _ { 3 } + \lambda _ { 4 } + \lambda _ { 5 } < \lambda _ { 3 }$ and $\lambda _ { 5 } < 0$ is needed. For a complex multiplet with higher isospin,for simplicity we will only focus on the case with hypercharge $Y = 0$ （ $^ 3$ in this work.As shown in Ref.[38], typically the complex triplet with $Y = 0$ can be viewed as two real triplets.
+
+Firstly, we discuss the FOPT induced by the inert scalar models.Up to one-loop level, the effective potential at the finite temperature can be written as
+
+$$
+V _ { \mathrm { e f f } } ( \Phi , T ) = V _ { 0 } ( \Phi ) + V _ { \mathrm { C W } } ( \Phi ) + V _ { \mathrm { t h e r } } ( \Phi , T ) + V _ { \mathrm { d a i s y } } ( \Phi , T ) ,
+$$
+
+where $V _ { \mathrm { t h e r } } ( \Phi , T ) + V _ { \mathrm { d a i s y } } ( \Phi , T )$ is the thermal effects with the daisy resummation and $V _ { \mathrm { C W } } ( \Phi )$ is the ColemanWeinberg potential at zero temperature.In the inert scalar models,the necessary potential barrier for the strong FOPT in the effective potential at the finite temperature origins from thermal loop effects,where the bosons contribute to the effective potential with the form $V _ { \mathrm { T } } \ni \left( - T / 1 2 \pi \right) \left( m _ { \mathrm { b o s o n } } ^ { 2 } ( \Phi , T ) \right) ^ { 3 / 2 }$ in the limit of hightemperature expansion.For the heavy fields whose masses are much larger than the critical temperature,the contributions from heavy particles can be omitted due to Boltzmann suppression. This can help to simplify our discussions when the models have many new fields at different energy scales.Thus,due to the above considerations and the fact that we only study the inert scalar models and the thermal barrier induced strong FOPT, the parameter space of very large mass scalar new bosons arenot favored since the field independent term in the thermal masses should be small enough in order not to dilute the cubic terms. We focus our study in the case without very heavy scalars.Therefore, to begin with the concrete prediction of the GW signals in the following examples,the general effective potential near the phase transition temperature can be further approximated by
+
+$$
+V _ { \mathrm { e f f } } ( h , T ) \approx \frac 1 2 \left( - \mu ^ { 2 } + c T ^ { 2 } \right) h ^ { 2 } - \frac { \varepsilon T } { 1 2 \pi } h ^ { 3 } + \frac \lambda 4 h ^ { 4 } .
+$$
+
+Here, $h$ represents the Higgs boson field in the unitary gauge as $\langle \Phi \rangle = h / \sqrt { 2 }$ ，where the angle bracket means the vacuum expectation value(VEV)of the field. The coefficient $\varepsilon$ quantifies the total interactions between the light bosons and the Higgs boson.In the SM,we have $\begin{array} { r } { \varepsilon _ { \mathrm { S M } } = \frac { 6 m _ { W } ^ { 3 } + 3 m _ { Z } ^ { 3 } } { v ^ { 3 } } } \end{array}$ 6mw+3m²2 and csM = $\begin{array} { r } { c _ { \mathrm { S M } } = \frac { 6 m _ { t } ^ { 2 } + 6 m _ { W } ^ { 2 } + 3 m _ { Z } ^ { 2 } + \frac { 3 } { 2 } m _ { H } ^ { 2 } } { 1 2 v ^ { 2 } } } \end{array}$ （24
+
+Thus,in this case of qualitative analysis, the washout parameter can be obtained as {u)(Te)≈ x,and it should be larger than one for a strong FOPT.In inert scalar models, the washout parameter usually is approximately proportional to the Higgs-inert scalar coupling $\lambda _ { 3 }$ for the potential in Eq.(3). Roughly,a larger Higgs-inert scalar coupling produces a stronger FOPT.For high multiplets, the situation becomes more complicated due to the large thermal mass coming from gauge interactions. The large thermal masses on the new scalars cause plasma screening, and thus decrease the strength of the phase transition. Therefore,there are two parameters which control the strong FOPT:the Higgs-inert scalar coupling，and the thermal mass coming from gauge interactions.
+
+We know that the Higgs-inert scalar coupling is usually constrained by the DM direct detection experiments. The tree-level interaction between the DM and the nucleon is through the Higgs boson exchange,which induces the elastic spin-independent cross section
+
+$$
+\sigma _ { \mathrm { S I } } \simeq f _ { N } ^ { 2 } \frac { \lambda _ { h \chi \chi } ^ { 2 } } { \pi } \left( \frac { m _ { N } ^ { 2 } } { m _ { \chi } m _ { h } ^ { 2 } } \right) ^ { 2 } ,
+$$
+
+where the Higgs-DM coupling $\lambda _ { h \chi \chi } = \lambda _ { 3 4 5 } / 2$ for inert doublet,and $\lambda _ { h \chi \chi } = \lambda _ { 3 } / 2$ for other intert multiplet.Current DM direct detection experiments [28,29] constrain that the $\lambda _ { h \chi \chi }$ is around 0.012 for about 100 GeV DM mass. In general, the coupling $\lambda _ { h \chi \chi }$ in direct detection is the same as the one which mainly controls the strong FOPT.Thus the tighter direct detection constraint, the less significance of the FOPT.The only exception is the IDM.In the IDM,due to the extra interaction terms in the scalar potential, the strong correlation between direct detection constraints and FOPT can be avoided.We will focus on the blind spot region in IDM, in which although the direct detection constraint can be evaded, the strong FOPT can be induced.Thus, the corresponding phase transition GWs can be produced and the DM abundance can be explained.
+
+# A．Inert Singlet,Triplet and Multiplet Scalar Models
+
+In the inert singlet model, the Higgs portal term $\lambda _ { 3 } | \Phi | ^ { 2 } S ^ { 2 } / 2$ is crucial, where we use $S$ represent the inert
+
+singlet scalar instead of $\boldsymbol { H } _ { 1 }$ . The corresponding washout parameter in the inert singlet model is approximately
+
+$$
+{ \frac { \langle v \rangle ( T _ { c } ) } { T _ { c } } } \approx { \frac { { \frac { 6 m _ { W } ^ { 3 } + 3 m _ { Z } ^ { 3 } } { v ^ { 3 } } } + \left( \lambda _ { 3 } / 2 \right) ^ { 3 / 2 } } { 6 \pi \lambda } } .
+$$
+
+In the inert triplet model,we only consider a simple model with an $S U ( 2 ) _ { L }$ triplet scalar $H _ { 3 } ( 1 , 3 , 0 )$ with a zero hypercharge.The relevant term involving the triplet scalar $H _ { 3 }$ should be $\lambda _ { 3 } \Phi ^ { \dagger } \Phi \mathrm { T r } ( H _ { 3 } ^ { 2 } )$ . The corresponding washout parameter in the inert triplet model is approximately
+
+$$
+{ \frac { \langle v \rangle ( T _ { c } ) } { T _ { c } } } \approx { \frac { { \frac { 6 m _ { W } ^ { 3 } + 3 m _ { Z } ^ { 3 } } { v ^ { 3 } } } + 3 \left( \lambda _ { 3 } / 2 \right) ^ { 3 / 2 } } { 6 \pi \lambda } } .
+$$
+
+However, in both models the direct DM search puts strong constraint $\lambda _ { 3 } \lesssim 0 . 0 1$ ,which means the FOPT is forbidden by the DM direct experiments.
+
+For a general $n$ -multiplet inert scalar $H _ { n }$ models, there are two competing sources which affect the strong FOPT [46]:
+
+· Higgs-inert multiplet coupling with $\varepsilon$ new   
+（20 $n \left( \lambda _ { 3 } / 2 \right) ^ { 3 / 2 }$ ；   
+plasma screening due to large thermal mass coming from gauge interactions.
+
+Typically the higher multiplet,the larger screening and decoupling effects,which weaken the FOPT.According to Ref.[46], for a multiplet with $n > 3$ ，the screening effects significantly decrease the strength of the FOPT. Furthermore,another severe constraint for high multiplet model is from Higgs diphoton rate with all the charged scalars running in the loop. For the real scalar multiplet with $n > 3$ , the Higgs coupling measurement data put very strong constraints on the masses of the scalar multiplet to be greater than 30o GeV,which makes the scalar degree of freedom decoupled from the plasma.
+
+# B.Inert Doublet Model
+
+As mentioned above,usually the blind spot region with zero Higgs-DM coupling indicates the DM sector does not affect the electroweak phase transition.In IDM,zero Higgs-DM coupling does not indicate zero Higgs-inert scalar couplings are zero.There is no correlation between direct detection and strong FOPT in IDM.Therefore,we expect to obtain the strong FOPT and detectable GW signals in the blind spot parameter region.
+
+We investigate the finite temperature effective potential and discuss conditions of strong FOPT in detail [46- 49].The relevant scalar potential in the IDM is given in Eq.(4)where $H _ { 2 }$ stands for the inert doublet scalar without VEV.In the IDM,we assume that only $\Phi$ can acquire VEV, namely $\Phi ^ { T } = ( 0 , v + h ) / \sqrt { 2 }$ and $\mathrm { H }$ is the lightest component of the inert doublet $H _ { 2 }$ with the mass $m _ { H } ^ { 2 } = M _ { D } ^ { 2 } + { \textstyle { \frac { 1 } { 2 } } } \lambda _ { 3 4 5 } v ^ { 2 }$ .Thus, the particle $\mathrm { H }$ is the DM candidate here.The other neutral scalar mass is $m _ { A } ^ { 2 } = M _ { D } ^ { 2 } + { \textstyle { \frac { 1 } { 2 } } } ( \lambda _ { 3 } + \lambda _ { 4 } - \lambda _ { 5 } ) v ^ { 2 }$ , and the charged scalar massis $\begin{array} { r } { m _ { H ^ { \pm } } ^ { 2 } = M _ { D } ^ { 2 } + \frac { 1 } { 2 } \lambda _ { 3 } v ^ { 2 } } \end{array}$ Thethermal phase transition with full 2-loop effective potential has been studied recently [50] and it shows the one-loop effective potential in the high temperature expansion is rather reliable in the IDM.To clearly see the phase transition physics and simplify the following discussions on the phase transition GW signals,we take the following approximation of the one-loop effective potential including the daisy resummation:
+
+$$
+\begin{array} { l } { { V _ { \mathrm { e f f } } ( h , T ) ~ \approx ~ \frac { 1 } { 2 } \left( - \mu ^ { 2 } + c _ { I D M } T ^ { 2 } \right) h ^ { 2 } + \frac { \lambda } { 4 } h ^ { 4 } } } \\ { { \mathrm { ~ - ~ } ~ \frac { T } { 1 2 \pi } \Sigma n _ { b } ( m _ { b } ^ { 2 } ( h , T ) ) ^ { 3 / 2 } } } \\ { { \mathrm { ~ - ~ } ~ \Sigma n _ { b } \frac { m _ { b } ^ { 4 } ( h , T ) } { 6 4 \pi ^ { 2 } } \log \frac { m _ { b } ^ { 2 } ( h , T ) } { c _ { a } T ^ { 2 } } } } \\ { { \mathrm { ~ - ~ } ~ n _ { t } \frac { m _ { t } ^ { 4 } ( h ) } { 6 4 \pi ^ { 2 } } \log \frac { m _ { t } ^ { 2 } ( h ) } { c _ { b } T ^ { 2 } } , } } \end{array}
+$$
+
+where $\log c _ { a } = 5 . 4 0 8$ and $\log c _ { b } = 2 . 6 3 5$ . In the effective potential, the particles running in the loop are the particles in the model with the following degrees of freedom:
+
+$$
+\begin{array} { r l r } & { } & { n _ { W ^ { \pm } } = 4 , \ n _ { Z } = 2 , \ n _ { \pi } = 3 , } \\ & { } & { n _ { h } = n _ { H } = n _ { H ^ { + } } = n _ { H ^ { + } } = 1 , \ n _ { t } = - 1 2 . } \end{array}
+$$
+
+The field-dependent masses of the gauge bosons and the top quark at zero temperature are given by
+
+$$
+m _ { W } ^ { 2 } ( h ) \ = \ \frac { g ^ { 2 } } { 4 } h ^ { 2 } , \ m _ { Z } ^ { 2 } ( h ) = \frac { g ^ { 2 } + g ^ { \prime 2 } } { 4 } h ^ { 2 } , m _ { t } ^ { 2 } ( h ) = \frac { y _ { t } ^ { 2 } } { 2 } h ^ { 2 } ,
+$$
+
+where $y _ { t }$ is the top Yukawa coupling. The field-dependent thermal masses at the temperature $T$ are
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { m _ { h } ^ { 2 } ( h , T ) ~ = ~ m _ { \pi } ^ { 2 } \approx 3 \lambda h ^ { 2 } - \mu ^ { 2 } + c _ { 1 } T ^ { 2 } , } } \\ { { } } & { { } } & { { m _ { H } ^ { 2 } ( h , T ) ~ \approx ~ \displaystyle \frac { 1 } { 2 } ( \lambda _ { 3 } + \lambda _ { 4 } + \lambda _ { 5 } ) h ^ { 2 } + M _ { D } ^ { 2 } + c _ { 2 } T ^ { 2 } , } } \\ { { } } & { { } } & { { m _ { A } ^ { 2 } ( h , T ) ~ \approx ~ \displaystyle \frac { 1 } { 2 } ( \lambda _ { 3 } + \lambda _ { 4 } - \lambda _ { 5 } ) h ^ { 2 } + M _ { D } ^ { 2 } + c _ { 2 } T ^ { 2 } , } } \\ { { } } & { { } } & { { m _ { H ^ { \pm } } ^ { 2 } ( h , T ) ~ \approx ~ \displaystyle \frac { 1 } { 2 } \lambda _ { 3 } h ^ { 2 } + M _ { D } ^ { 2 } + c _ { 2 } T ^ { 2 } , } } \end{array}
+$$
+
+where $\begin{array} { r } { c _ { 1 } = { \frac { \lambda } { 2 } } + { \frac { 2 \lambda _ { 3 } + \lambda _ { 4 } } { 1 2 } } + { \frac { 3 g ^ { 2 } + g ^ { ' 2 } } { 1 6 } } + { \frac { y _ { t } ^ { 2 } } { 4 } } } \end{array}$ and $\begin{array} { r } { c _ { 2 } = \frac { \lambda _ { 2 } } { 2 } + } \end{array}$ $\begin{array} { r } { \frac { 2 \lambda _ { 3 } + \lambda _ { 4 } } { 1 2 } + \frac { 3 g ^ { 2 } + g ^ { ' 2 } } { 1 6 } } \end{array}$ . In the above formulae, we have considered the contribution from daisy resummation,which readsas
+
+$$
+V ~ \supset ~ - \frac { T } { 1 2 \pi } \sum _ { i = \mathrm { b } } n _ { b } \left( \left[ m _ { i } ^ { 2 } ( h , T ) \right] ^ { 3 / 2 } - \left[ m _ { i } ^ { 2 } ( h ) \right] ^ { 3 / 2 } \right) .
+$$
+
+Here,the thermal field-dependent masses $m _ { i } ^ { 2 } ( h , T ) \equiv$ （204号 $m _ { i } ^ { 2 } ( h ) + \Pi _ { i } ( h , T )$ ，where $\Pi _ { i } ( h , T )$ is the bosonic field $i$ ,S self-energy in the IR limit.As in the SM,this cubic term is the unique source to produce a thermal barrier in the effective potential, and in the Higgs sector extended models,the new degree of freedoms in the inert scalar models increase the barrier and hence produce strong FOPT.However,the cubic terms should be large enough to produce a strong FOPT.To avoid diluting the cubic contribution to the thermal barrier,the Higgs boson field independent term needs to be very small [31, 51]. Thus, in this limit,we hae $\begin{array} { r } { \varepsilon _ { \mathrm { I D M } } \approx \varepsilon _ { \mathrm { S M } } + 2 \left( \frac { \lambda _ { 3 } } { 2 } \right) ^ { 3 / 2 } + \left( \frac { \lambda _ { 3 } + \lambda _ { 4 } - \lambda _ { 5 } } { 2 } \right) ^ { 3 / 2 } + \left( \frac { \lambda _ { 3 4 5 } } { 2 } \right) ^ { 3 / 2 } } \end{array}$ $\begin{array} { r } { c _ { \mathrm { I D M } } \ \approx \ c _ { \mathrm { S M } } + \frac { 2 \lambda _ { 3 } + \lambda _ { 4 } } { 1 2 } } \end{array}$ washout parameter in the IDM is roughly
+
+$$
+{ \frac { \langle v \rangle ( T _ { c } ) } { T _ { c } } } \approx { \frac { e _ { \mathrm { S M } } + 2 \left( { \frac { \lambda _ { 3 } } { 2 } } \right) ^ { 3 / 2 } + \left( { \frac { \lambda _ { 3 } + \lambda _ { 4 } - \lambda _ { 5 } } { 2 } } \right) ^ { 3 / 2 } + \left( { \frac { \lambda _ { 3 4 5 } } { 2 } } \right) ^ { 3 / 2 } } { 6 \pi \lambda } } .
+$$
+
+From Eq.(6) and the washout parameter, we find that small DM direct detection rate and strong FOPT can be realized when we take the blind spot region, in which $\lambda _ { h \chi \chi } = \lambda _ { 3 4 5 } / 2$ approaches to zero 4.The DM model of IDM needs to satisfy the required DM relic density observed from Planck: $\Omega h ^ { 2 } = 0 . 1 1 8 4 \pm 0 . 0 0 1 2$ [52]. This put very strict constraints on the IDM: the DM mass is determined to be $m _ { \chi } > 5 4 0$ GeV [38] except for the parameter region with large mass splitting between charged and neutral components. For the DM mass lower than $m _ { h } / 2$ the Higgs invisible decay puts very tight constraint on the parameter space.According to the latest study [43], there are two viable mass regions:
+
+near Higgs funnel region with large mass splitting between charged and neutral components: $m _ { \chi }$ around （204号 $5 5 \sim 7 5$ GeV with $\lambda _ { 3 4 5 } < 0 . 0 4$ ， · heavy DM region: $m _ { H } > 5 4 0$ GeV with $\lambda _ { 3 4 5 }$ ina broader range as $m _ { \chi }$ gets heavier.
+
+To keep the scalar non-decoupled from the thermal plasma, it is necessary to have light DM.The dominant DM annihilation channel will be $\chi \chi  W W ^ { * } ,$ （20 $Z Z ^ { * }$ with contact, $t$ and $s$ -channels.We will focus on the DM mass around $5 5 \sim 7 5$ GeV,and the blind spot region with $\lambda _ { 3 4 5 } \simeq 0$ ： Combined the direct DM constraints, the DM relic density, collider constraints [43] and the conditions for strong FOPT, this light mass region $5 5 \sim 7 5$ GeVis favored. The strong FOPT can be produced if $\lambda _ { 3 } / 2$ and $( \lambda _ { 3 } + \lambda _ { 4 } - \lambda _ { 5 } ) / 2$ are order 1, then detectable GW signals can be produced, while keep the coupling between Higgs boson and DM pair small enough to satisfy DM direct experiments and relic density.
+
+Considering the above discussion,we take one set of benchmark points $\lambda _ { 3 } = 2 . 8 4 7 2 6$ ， $\lambda _ { 4 } = \lambda _ { 5 } = - 1 . 4 1 2 9 3$ （204号 and $M _ { D } = 6 0 . 8 9$ GeV. Then,the corresponding DM mass is 66 GeV,the pseudo scalar mass and the charged scalar mass are both 300 GeV, $\lambda _ { h \chi \chi } = \lambda _ { 3 4 5 } / 2 = 0 . 0 1 0 7$ Taking this set of benchmark points,the relic density, DM direct search, collider constraints and a strong FOPT can be satisfied simultaneously. Using the methods and formulae in the appendix, the phase transition GW signal is shown in Fig.1,which is just within the sensitivity of BBO and U-DICIGO.The colored regions represent the sensitivities of different GW experiments (DECIGO [53], eLISA [54],BBO,andU-DECIGO [36]),and the black line corresponds to the GW signals,which also means the hZ cross section ( $e ^ { + } + e ^ { - }  h + Z .$ ）deviation from the SM in 240 GeV circular electron-positron collider (CEPC). At the 240 GeV CEPC [55] with an integrated luminosity of $\mathrm { 1 0 ~ a b ^ { - 1 } }$ , the precision of $\sigma _ { h Z }$ could be about $0 . 4 \%$ [56].And at the 240 GeV CEPC,the deviation of the hZ cross section $\begin{array} { r } { \delta _ { h Z } \equiv \frac { \sigma - \sigma _ { S M } } { \sigma _ { S M } } } \end{array}$ at one-loop level [57] is about $1 . 6 8 \%$ [58,59],which is well within the sensitivity of CEPC.The international linear collider (ILC）[56] can also test this model. The GW signal and the hZ cross section deviation at future lepton collider can make a double test on the DM of IDM as shown in Fig.1.
+
+![](images/cf9ca00b437168ca31d6b352fdc2c47e374dbe14f3d3bccf0353fd52970c2207.jpg)  
+FIG.1: The phase transition GW spectra $h ^ { 2 } \Omega _ { \mathrm { G W } }$ in the IDM. The colored regions represent the expected sensitivities of GWinterferometers U-DECIGO,DECIGO,BBO and eLISA, respectively. The black line depicts the GW spectra in the IDM for the set of benchmark points,which also represents the corresponding hZ cross section deviation at the 240 GeV CEPC and the corresponding DM coupling.
+
+# III. GRAVITATIONAL WAVESINMIXED DARKMATTERS
+
+We have discussed FOPT and GWs if there is only one single multiplet scalar dark matter in the dark sector. Due to the tight correlation between strong FOPT and the DM direct detection,only the IDM is viable for strong FOPT and detectable GWs.Based on the relic density requirement,the IDM has very limited viable parameter region: $m _ { \chi } \simeq 5 5 \sim 7 5$ GeV,and the blind spot region $\lambda _ { 3 4 5 } \simeq 0$ .In this section,we would like to extend the single DM multiplet models into the mixed scalar DM models.
+
+The mixed scalar DM scenario involves in several $Z _ { 2 }$ # odd scalar multiplets in the dark sector,which could be mixed.The simplest models involve in two dark matter multiplets: the mixed singlet-doublet model (MSDM) and the mixed singlet-triplet model (MSTM) [39,40] Compared to the single scalar DM, the advantages of the mixed DM scenario are
+
+· It is easy to obtain a large blind spot region，at which the DM-Higgs coupling is zero.;   
+· If the DM is mixture of a singlet and multiplet (welltempered),the relic density could be realized in a large DM mass range;   
+· There are more degree of freedoms which contribute to the thermal barriers of the electroweak phase transition.
+
+From the above,we note that it is necessary to have a singlet component to reduce the large annihilation cross section during freeze-out. The higher multiplet $n > 3$ is also tightly constrained by the plasma screening and Higgs diphoton constraints.
+
+We will focus on the strong FOPT and GWs in the blind spot region with broad DM mass range in the MSDM and MSTM.Here,we adapt the effective Lagrangian in Ref. [40]. Denote the SM singlet as $S$ and the neutral component of the multiplet as $H _ { n } ^ { 0 }$ . Due to the mixing between two fields, the mass eigenstates have
+
+$$
+\begin{array} { r } { \chi \ = \ \cos \theta S - \sin \theta H _ { n } ^ { 0 } , } \\ { s \ = \ \sin \theta S + \cos \theta H _ { n } ^ { 0 } . } \end{array}
+$$
+
+The effective Lagrangian for the mass eigenstates has
+
+$$
+{ \mathcal { L } } _ { \mathrm { e f f } } = a _ { h \chi \chi } h \chi \chi + a _ { h s s } h s s + \cdot \cdot \cdot .
+$$
+
+Define the dimensionless coupling $\lambda _ { h \chi \chi } = a _ { h \chi \chi } / ( 2 v )$ and $\lambda _ { h s s } = a _ { h s s } / ( 2 v )$ . According to Ref. [40], the mixed DM scenario could have large viable parameter region after imposing the direct detection constraints and requirement on the DM relic abundance.Unlike the IDM,the DM mass could be arbitrary. The viable parameter region strongly depends on two parameters: the $\lambda _ { h \chi \chi }$ ,and the mixing angle $\theta$ . The spin-independent direct detection rate is dominated by the Higgs exchange with the cross section:
+
+$$
+\sigma _ { \mathrm { S I } } \simeq f _ { N } ^ { 2 } \frac { \lambda _ { h \chi \chi } ^ { 2 } } { \pi } \left( \frac { m _ { N } ^ { 2 } } { m _ { \chi } m _ { h } ^ { 2 } } \right) ^ { 2 } .
+$$
+
+Thus,the $\lambda _ { h \chi \chi }$ needs to be small to avoid tight direct detection constraints.In this study,we take the blind spot region: $\lambda _ { h \chi \chi } \sim 0$ .The dominant thermal annihilation channels could be very different and distinct depending on the DM mass region. To produce detectable GW signature,we would like to focus on the moderate DM mass region ( $. m _ { W } < m _ { \chi } < 3 0 0 ~ \mathrm { G e V }$ ）5.The dominant annihilation channels are
+
+· the $s$ -channelannihilations: $\chi \chi \quad \to \quad h \quad \to \quad$ （20 （204号 $W W , Z Z , f f$ , in which the annihilation rate depends on the Xhxx;   
+·the contact four point annihilation: $\chi \chi \to W W$ for real multiplet and $\chi \chi  W W , Z Z$ for doublet;   
+· the $t$ -channel annihilation: $\chi \chi \to W W$ via exchanging of the charged scalars;
+
+Given $\lambda _ { h \chi \chi } \sim 0$ in the blind spot region,we assume that the contact and $t$ -channel annihilation processes are dominant 6.In this case,the annihilation cross sections only depend on the gauge interactions,and the annihilation rate near the blind spot region is greatly simplified as
+
+$$
+\sigma _ { \chi \chi  V V } v ^ { 2 } \simeq \frac { 3 g ^ { 4 } + 6 g ^ { 2 } g ^ { \prime 2 } + g ^ { \prime 2 } } { 2 5 6 \pi m _ { \chi } ^ { 2 } } \sin ^ { 2 } \theta ,
+$$
+
+for the mixed singlet-doublet,and
+
+$$
+\sigma _ { \chi \chi \to W W } v ^ { 2 } \simeq \frac { g ^ { 4 } } { 4 \pi m _ { \chi } ^ { 2 } } \sin ^ { 2 } \theta ,
+$$
+
+for the mixed singlet-triplet model. To obtain the required relic abundance,the mixing angle $\sin \theta$ needs to satisfy
+
+$$
+\begin{array} { l } { \displaystyle \sin \theta \simeq \frac { m _ { \chi } } { 5 4 0 \mathrm { { G e V } } } ( \mathrm { { d o u b l e t } } ) , } \\ { \displaystyle \sin \theta \simeq \frac { m _ { \chi } } { 2 0 0 0 \mathrm { { G e V } } } ( \mathrm { { t r i p l e t } } ) , } \end{array}
+$$
+
+which could be deduced from Ref.[37,38].Note that this simple relation is only valid near the blind spot region. In the interested mass region ( $m _ { W } < m _ { \chi } < 3 0 0 \ \mathrm { G e V } ,$ ）， the well-tempered DM is favored.Therefore,we could choose the benchmark points by acquiring $\lambda _ { h \chi \chi }$ is close to zero(blind spots) and $\sin \theta$ is determined by the above Eq.(17).Using these two conditions,we could obtain correct relic abundance,while escaping the DM direct detection constraints and obtaining a strong FOPT with detectable GWs.
+
+# A.The Mixed Singlet-Doublet Model
+
+The MSDM contains a singlet $S$ with hypercharge $Y =$ O,and a doublet with hypercharge $Y = 1 / 2$ .The tree level potential in the MSDM is
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { V _ { 0 } ~ = ~ \displaystyle \frac { 1 } { 2 } M _ { S } ^ { 2 } S ^ { 2 } + M _ { D } ^ { 2 } H _ { 2 } ^ { \dagger } H _ { 2 } + \displaystyle \frac { 1 } { 2 } \lambda _ { S } S ^ { 2 } \left| \Phi \right| ^ { 2 } + \lambda _ { 3 } \Phi ^ { \dagger } \Phi H _ { 2 } ^ { \dagger } H _ { 2 } } } \\ { { } } & { { } } & { { ~ + ~ \lambda _ { 4 } | \Phi ^ { \dagger } H _ { 2 } | ^ { 2 } + \displaystyle \frac { \lambda _ { 5 } } { 2 } [ ( \Phi ^ { \dagger } H _ { 2 } ) ^ { 2 } + h . c . ] + { \cal A } \left[ S \Phi H _ { 2 } ^ { \dagger } + h . c . \right] . } } \end{array}
+$$
+
+Here,we omit all interactions involving only $S$ and $H _ { 2 }$ and the kinetic terms.The mixed mass matrices are
+
+$$
+\mathcal { M } _ { \mathrm { n e u t r a l } } ^ { 2 } = \left( \begin{array} { c c } { { \tilde { M } _ { S } ^ { 2 } } } & { { A v } } \\ { { A v } } & { { \tilde { M } _ { D } ^ { 2 } } } \end{array} \right) ,
+$$
+
+where $\begin{array} { r } { \tilde { M } _ { S } ^ { 2 } = M _ { S } ^ { 2 } + \frac { 1 } { 2 } v ^ { 2 } \lambda _ { S } } \end{array}$ and $\begin{array} { r } { \tilde { M } _ { D } ^ { 2 } = M _ { D } ^ { 2 } + \frac { 1 } { 2 } v ^ { 2 } \lambda _ { 3 4 5 } } \end{array}$ .The two eigenvalues of the mass-squared matrix are
+
+$$
+\frac { 1 } { 2 } \left[ \tilde { M } _ { S } ^ { 2 } + \tilde { M } _ { D } ^ { 2 } \pm \sqrt { \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { D } ^ { 2 } \right) ^ { 2 } + 4 v ^ { 2 } A ^ { 2 } } \right] ,
+$$
+
+with the smaller eigenvalue corresponding to DM mass square
+
+$$
+m _ { \chi } ^ { 2 } = \frac { 1 } { 2 } \left[ \tilde { M } _ { S } ^ { 2 } + \tilde { M } _ { D } ^ { 2 } - \sqrt { \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { D } ^ { 2 } \right) ^ { 2 } + 4 v ^ { 2 } A ^ { 2 } } \right] .
+$$
+
+The mixing angle is
+
+$$
+\tan 2 \theta = \frac { 2 A v } { \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { D } ^ { 2 } } .
+$$
+
+The coupling between the Higgs boson and DM is
+
+$$
+\begin{array} { l } { { a _ { h } \chi _ { \chi } = \displaystyle \frac { 1 } { 2 } v \left( \lambda _ { S } + \lambda _ { 3 4 5 } \right) } } \\ { { - \displaystyle \frac { 2 v A ^ { 2 } + \frac { 1 } { 2 } v \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { D } ^ { 2 } \right) \left( \lambda _ { S } - \lambda _ { 3 4 5 } \right) } { \sqrt { \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { D } ^ { 2 } \right) ^ { 2 } + 4 v ^ { 2 } A ^ { 2 } } } , } } \end{array}
+$$
+
+and the coupling between the Higgs boson and the singlet scalar is
+
+$$
+\begin{array} { l } { { a _ { h s s } ~ = ~ \displaystyle \frac { 1 } { 2 } { v } \left( \lambda _ { S } + \lambda _ { 3 4 5 } \right) } } \\ { { ~ + ~ \displaystyle \frac { 2 v A ^ { 2 } + \frac { 1 } { 2 } v \left( { \tilde { M } } _ { S } ^ { 2 } - { \tilde { M } } _ { D } ^ { 2 } \right) \left( \lambda _ { S } - \lambda _ { 3 4 5 } \right) } { \sqrt { \left( { \tilde { M } } _ { S } ^ { 2 } - { \tilde { M } } _ { D } ^ { 2 } \right) ^ { 2 } + 4 v ^ { 2 } A ^ { 2 } } } . } } \end{array}
+$$
+
+In the DM favored parameter spaces (small Xhxx （204号 $s i n \theta \approx m _ { \chi } / 5 4 0$ GeV and $m _ { W } ~ < ~ m _ { \chi } ~ < ~ 3 0 0 ~ \mathrm { G e }$ V)，a strong FOPT can be induced due to the fact that the strong FOPT can occur in the IDM and the mixing with an_inert singlet can enhance the FOPT.The mixing term $A \left[ S \Phi D ^ { \dagger } + h . c . \right]$ does not significantly change the phase transition property except for the change of the eigenvalues of the masses. Taking the same approximations as in the IDM and writing in the forms of Eq.(5),we have $\begin{array} { r } { \cdot \varepsilon _ { \mathrm { M S D M } } \approx \varepsilon _ { \mathrm { S M } } + 2 \left( \frac { \lambda _ { 3 } } { 2 } \right) ^ { 3 / 2 } + \left( \frac { \lambda _ { 3 } + \lambda _ { 4 } - \lambda _ { 5 } } { 2 } \right) ^ { 3 / 2 } + \left( \lambda _ { h \chi \chi } \right) ^ { 3 / 2 } + } \end{array}$ $\left( \lambda _ { h s s } \right) ^ { 3 / 2 }$ . The strong FOPT can be easily realized if $\lambda _ { 3 }$ and $\lambda _ { h s s }$ are order one which are allowed by the above DM constraints.
+
+We take one set of benchmark points $\lambda _ { 3 } = 3 . 0 0 6$ ， $\lambda _ { 4 } =$ $- 1 . 5$ ， $\lambda _ { 5 } = - 1 . 5$ ， $\lambda _ { S } = 4 . 0 0 6$ ， $A = 9 1$ GeV and ${ \cal M } _ { D } =$ $M _ { S } = 1 1 7 . 5$ GeV.Then，we have $m _ { \chi } = 1 0 0 . 6$ GeV, $\lambda _ { h \chi \chi } = 0 . 0 0 0 9$ and $\lambda _ { h s s } = 2 . 0 0 5$ . The corresponding GW spectra are shown in Fig.2.This set of benchmark points can evade the constraints from DM direct experiments, give the correct relic density and produce detectable GW signals by eLISA，BBO,DECIGO andU-DECIGO.We estimate the deviation of the hZ cross section $\delta _ { h Z }$ at oneloop level is about 2.78% [58, 59] at the 240 GeV CEPC, which is well within the sensitivity of CEPC and ILC.As for the precise prediction on the collider signals at the CEPC and ILC in this MSDM model, we leave it in our future study.
+
+![](images/b43d2f27474bfc958777b16b78e668813a17dd0d04dc8e3069c7ce2458e270e4.jpg)  
+FIG.2: The phase transition GW spectra $h ^ { 2 } \Omega _ { \mathrm { G W } }$ in the MSDM.The colored regions represent the expected sensitivitiesofGWinterferometersU-DECIGO，DECIGO，BBOand eLISA,respectively.The black line depicts the GW spectra in the MSDM and the corresponding DM coupling for the set of benchmark points.
+
+# B． The Mixed Singlet-Triplet Model
+
+Similarly, the MSTM contains a real singlet and a real triplet with $Y = 0$ . The relevant potential in the MSTM is
+
+$$
+\begin{array} { l } { { V _ { 0 } ~ = ~ \frac { 1 } { 2 } M _ { S } ^ { 2 } S ^ { 2 } + M _ { \Sigma } ^ { 2 } \mathrm { T r } ( H _ { 3 } ^ { 2 } ) + \kappa _ { \Sigma } \Phi ^ { \dagger } \Phi \mathrm { T r } ( H _ { 3 } ^ { 2 } ) } } \\ { { ~ + ~ \frac { \kappa } { 2 } | \Phi | ^ { 2 } S ^ { 2 } + \xi S \Phi ^ { \dagger } H _ { 3 } \Phi . } } \end{array}
+$$
+
+The coupling between the Higgs boson and DM is
+
+$$
+\begin{array}{c} a _ { h \chi \chi } = \frac { 1 } { 2 } v ( \kappa + \kappa _ { \Sigma } )  \\ { - \frac { \frac { 1 } { 4 } v ^ { 3 } \xi ^ { 2 } + \frac { 1 } { 2 } v \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { \Sigma } ^ { 2 } \right) ( \kappa - \kappa _ { \Sigma } ) } { \sqrt { \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { \Sigma } ^ { 2 } \right) ^ { 2 } + \frac { 1 } { 4 } v ^ { 4 } \xi ^ { 2 } } } , } \end{array}
+$$
+
+with the DM mass square
+
+$$
+m _ { \chi } ^ { 2 } = \frac { 1 } { 2 } \left[ \tilde { M } _ { S } ^ { 2 } + \tilde { M } _ { \Sigma } ^ { 2 } - \sqrt { \left( \tilde { M } _ { S } ^ { 2 } - \tilde { M } _ { \Sigma } ^ { 2 } \right) ^ { 2 } + \frac { \xi ^ { 2 } } { 4 } v ^ { 4 } } \right] ,
+$$
+
+![](images/fef7129a1f963d8c525de2506c1d315bad789956b709a24db5d48dbdc4920c0f.jpg)  
+FIG.3: The phase transition GW spectra $h ^ { 2 } \Omega _ { \mathrm { G W } }$ in the MSTM.The colored regions represent the expected sensitivitiesofGWinterferometersU-DECIGO,DECIGO,BBOand eLISA,respectively.The black line depicts the GW spectra and the corresponding DM coupling in the MSTM for the set of benchmark points.
+
+where $\tilde { M } _ { S } ^ { 2 } = M _ { S } ^ { 2 } + \textstyle { \frac { 1 } { 2 } } v ^ { 2 } \kappa$ and $\begin{array} { r } { \tilde { M } _ { \Sigma } ^ { 2 } = M _ { \Sigma } ^ { 2 } + \frac { \kappa _ { \Sigma } } { 2 } v ^ { 2 } } \end{array}$ .The coupling between the Higgs boson and the singlet is
+
+$$
+\begin{array} { l } { { a _ { h s s } ~ = ~ \displaystyle \frac { 1 } { 2 } v \left( \kappa + \kappa _ { \Sigma } \right) } } \\ { { ~ + ~ \displaystyle \frac { \frac { 1 } { 4 } v ^ { 3 } \xi ^ { 2 } + \frac { 1 } { 2 } v \left( { \tilde { M } } _ { S } ^ { 2 } - { \tilde { M } } _ { \Sigma } ^ { 2 } \right) \left( \kappa - \kappa _ { \Sigma } \right) } { \sqrt { \left( { \tilde { M } } _ { S } ^ { 2 } - { \tilde { M } } _ { \Sigma } ^ { 2 } \right) ^ { 2 } + \frac { 1 } { 4 } v ^ { 4 } \xi ^ { 2 } } } . } } \end{array}
+$$
+
+Taking the same approximations as in the above discussions, we have $\varepsilon _ { \mathrm { M S T M } } = \varepsilon _ { \mathrm { S M } } + { ( \lambda _ { h \chi \chi } ) } ^ { 3 / 2 } + { ( \lambda _ { h s s } ) } ^ { 3 / 2 } +$ $2 \left( \kappa _ { \Sigma } / 2 \right) ^ { 3 / 2 }$ . In the MSTM, we take the set of benchmark points $\kappa = 0 . 0 1$ ， $\kappa _ { \Sigma } = 3 . 0$ ， $\xi = 0 . 3 1 3 3 7$ ， $M _ { \Sigma } = 5 0$ （204 GeV, $M _ { S } = 1 1 9 . 9 3$ GeV.Then,we have $m _ { \chi } = 1 2 0$ GeV, $\lambda _ { h \chi \chi } = 0 . 0 0 1$ and $\lambda _ { h s s } = 1 . 5 0 4$ . The GW spectrum is shown in Fig.3，which is within the sensitivity of the BBO,eLISA，DECIGO andU-DECIGO.Wealso leave the study of collider signals in the MSTM in our future study.
+
+# IV.CONCLUSION
+
+We have investigated the GW signatures associated with the possible strong FOPT in the early universe in a generic class of inert scalar multiplet DM models.We have found that there is usually a strong tension between the strength of the phase transition and the DM direct detection,except the blind spot region with narrow DM mass range in the IDM.In the IDM,we have shown that although the direct detection experiments could not probe the blind spot region,at which the Higgs-DM coupling is zero,the GW detection and lepton colliders could help us further explore the parameter space which cannot be addressed by the DM searches.
+
+To enlarge the blind spot region with broader DM mass range,we considered the mixed scalar DM scenario. We focused on the minimal singlet-doublet dark matter and minimal singlet-triplet DM models,and showed that the blind spot region in these models could avoid all the relevant constraints,have required relic density, and produce strong FOPT in the early universe. The GW signatures are explored in this scenario,and we found that the blind spot region could be further explored via the GW signatures and collider signatures in future. This provides us a new way to detect the DM in future.And our strategy could also be used to more general DM scenarios than the scalar multiplet DM models. We expect the future GW and collider experiments,such as eLISA and TianQin [6O]，CEPC and ILC,could probe these DM scenarios beyond the reaches of the DM direct detection experiments.
+
+# Acknowledgements
+
+JHY was supported in part under U.S.Department of Energy contract de-sc0011095.FPH was supported in part by the NSFC(Grant Nos.11121092，11033005, 11375202) and by the CAS pilotB program.FPH was also supported by the China Postdoctoral Science Foundation under Grant No. 2016M590133.
+
+# Appendix
+
+In this appendix, the details on the calculation of phase transition GW spectrum are shown. In general, there exist three mechanisms to produced phase transition GWs: the first one is the well-known bubble collisions [5], the second oneis the turbulence in the fluid,wherea certain fraction of the bubble walls energy is converted into turbulence [7,8],and the last one is the new mechanism of sound waves [6].
+
+When a strong FOPT occurs,via thermally fluctuating or quantum tunneling the potential barrier,bubbles are nucleated with the nucleation rate per unit volume $\Gamma =$ $\Gamma _ { 0 } ( T ) \mathrm { e } ^ { - S _ { E } ( T ) }$ and $\Gamma _ { 0 } ( T ) \propto T ^ { 4 }$ [61]. The Euclidean action （20 $S _ { E } ( T ) \simeq S _ { 3 } ( T ) / T$ [62,63],and then $\Gamma = \Gamma _ { 0 } \mathrm { e } ^ { - S _ { 3 } / T }$ [61] where
+
+$$
+S _ { 3 } ( T ) = \int d ^ { 3 } x \left[ { \frac { 1 } { 2 } } ( \nabla \Phi ) ^ { 2 } + V _ { \mathrm { e f f } } ( \Phi , T ) \right] .
+$$
+
+Thus,the bubble nucleation rate can be obtained [64] by calculating the profile of the scalar field $\Phi$ through solving the following bounce equation:
+
+$$
+\frac { d ^ { 2 } \Phi } { d r ^ { 2 } } + \frac { 2 } { r } \frac { d \Phi } { d r } - \frac { \partial V _ { \mathrm { e f f } } ( \Phi , T ) } { \partial \Phi } = 0 ,
+$$
+
+with the boundary conditions $\begin{array} { r } { \frac { d \Phi } { d r } ( r = 0 ) = 0 } \end{array}$ and $\Phi ( r = $ $\infty ) = 0$ . The phase transition terminates if it satisfies
+
+$$
+S _ { 3 } ( T _ { * } ) / T _ { * } = 4 \ln ( T _ { * } / 1 0 0 \mathrm { G e V } ) + 1 3 7 .
+$$
+
+The phase transition GW spectrum depends on four parameters.The first parameter is Prad(T），where T is hetyginga $\begin{array} { r } { \epsilon ( T _ { * } ) = [ T \frac { d V _ { \mathrm { e f f } } ^ { \mathrm { m i n } } } { d T } - V _ { \mathrm { e f f } } ^ { \mathrm { m i n } } ( T ) ] | _ { T = T _ { * } } } \end{array}$ g andtet plasma thermal energy density $\begin{array} { r } { \rho _ { \mathrm { r a d } } ( T _ { * } ) ~ = ~ \frac { \pi ^ { 2 } } { 3 0 } g _ { * } ( T ) T ^ { 4 } } \end{array}$ The parameter $\alpha$ represents the strength the FOPT, namely, a larger value of $\alpha$ produces stronger GW sig$\begin{array} { r } { \frac { \beta } { H _ { * } } = \left. T \frac { d ( S _ { 3 } / T ) } { d T } \right| _ { T = T _ { * } } ; } \end{array}$ $\begin{array} { r } { \beta \equiv - \frac { d S _ { E } } { d t } | _ { t = t _ { * } } \simeq \frac { 1 } { \Gamma } \frac { d \Gamma } { d t } | _ { t = t _ { * } } } \end{array}$ $\beta ^ { - 1 }$ corresponds to the typical time scale of the phase transition.The third parameter is the efficiency factor $\lambda _ { i }$ （204号 (i=co,tu,sw),and the last parameter is the bubble wall velocity $v _ { b }$ ：
+
+Once the four parameters are known, the corresponding phase transition GWs in the three mechanisms can be directly obtained after considering the red-shift effects $\begin{array} { r } { \frac { a _ { * } } { a _ { 0 } } = 1 . 6 5 \times { 1 0 ^ { - 5 } } \mathrm { { H z } } \times { \frac { 1 } { H _ { * } } } \left( { \frac { T _ { * } } { 1 0 0 G \mathrm { { e V } } } } \right) \left( { \frac { g _ { * } ^ { t } } { 1 0 0 } } \right) ^ { 1 / 6 } } \end{array}$ ．The current peak frequency at each mechanism is $f _ { \mathrm { i } } = f _ { \mathrm { i } } ^ { \ast } a _ { \ast } / a _ { 0 }$ with i=co,tu,sw,respectively. In the bubble collision mechanism, the GW spectrum is expressed as [65]
+
+$$
+\begin{array} { r } { \Omega _ { \mathrm { c o } } ( f ) h ^ { 2 } \simeq 1 . 6 7 \times 1 0 ^ { - 5 } \Big ( \frac { H _ { * } } { \beta } \Big ) ^ { 2 } \Big ( \frac { \lambda _ { c o } \alpha } { 1 + \alpha } \Big ) ^ { 2 } \Big ( \frac { 1 0 0 } { g _ { * } ^ { t } } \Big ) ^ { \frac { 1 } { 3 } } } \\ { \times \Big ( \frac { 0 . 1 1 v _ { b } ^ { 3 } } { 0 . 4 2 + v _ { b } ^ { 3 } } \Big ) \Big [ \frac { 3 . 8 ( f / f _ { \mathrm { c o } } ) ^ { 2 . 8 } } { 1 + 2 . 8 ( f / f _ { \mathrm { c o } } ) ^ { 3 . 8 } } \Big ] } \end{array}
+$$
+
+with the peak frequency $f _ { \mathrm { c o } } ^ { * } = 0 . 6 2 \beta / ( 1 . 8 - 0 . 1 v _ { b } + v _ { b } ^ { 2 } )$ [65] at $T _ { * }$ . In the turbulence mechanism, the GW signals have the peak frequency at about $f _ { \mathrm { t u } } ^ { * } = 1 . 7 5 \beta / v _ { b }$ at $T _ { * }$ [54], and the phase transition GW intensity is formulated by [8, 66]
+
+$$
+\begin{array} { r } { \Omega _ { \mathrm { t u } } ( f ) h ^ { 2 } \simeq 3 . 3 5 \times 1 0 ^ { - 4 } \bigg ( \frac { H _ { \ast } } { \beta } \bigg ) \bigg ( \frac { \lambda _ { \mathrm { t u } } \alpha } { 1 + \alpha } \bigg ) ^ { 3 / 2 } \bigg ( \frac { 1 0 0 } { g _ { \ast } ^ { t } } \bigg ) ^ { \frac { 1 } { 3 } } v _ { b } } \\ { \times \frac { ( f / f _ { \mathrm { t u } } ) ^ { 3 } } { ( 1 + f / f _ { \mathrm { t u } } ) ^ { 1 1 / 3 } ( 1 + 8 \pi f a _ { 0 } / \big ( a _ { \ast } H _ { \ast } \big ) ) } . } \end{array}
+$$
+
+In the sound wave mechanism, the GW spectrum can be written as [6, 54]
+
+$$
+\begin{array} { l } { \Omega _ { \mathrm { s w } } ( f ) h ^ { 2 } \simeq 2 . 6 5 \times 1 0 ^ { - 6 } \bigg ( \frac { H _ { * } } { \beta } \bigg ) \bigg ( \frac { \lambda _ { s w } \alpha } { 1 + \alpha } \bigg ) ^ { 2 } \bigg ( \frac { 1 0 0 } { g _ { * } ^ { t } } \bigg ) ^ { \frac { 1 } { 3 } } v _ { b } } \\ { \quad \times \left[ \frac { 7 ( f / f _ { \mathrm { s w } } ) ^ { 6 / 7 } } { 4 + 3 ( f / f _ { \mathrm { s w } } ) ^ { 2 } } \right] ^ { 7 / 2 } } \end{array}
+$$
+
+with the peak frequency $f _ { \mathrm { s w } } ^ { * } = 2 \beta / ( \sqrt { 3 } v _ { b } )$ at $T _ { * }$ [6,54], where $\lambda _ { s w } \simeq \alpha \left( 0 . 7 3 + 0 . 0 8 3 \sqrt { \alpha } + \alpha \right) ^ { - 1 }$ for relativistic bubbles [67].
+
+[l」D.r.ADDou el al. [LiGU ɔcienuc ana virgo CoHaDorations]，Phys.Rev.Lett.116,no.6,061102 (2016) [arXiv:1602.03837 [gr-qc]]. [2] E.Witten, Phys.Rev.D 30, 272 (1984).   
+[3] C. J. Hogan, Phys. Lett.B 133,172 (1983); C. J. Hogan, Mon. Not. Roy. Astron. Soc. 218, 629 (1986). [4] M.S. Turner and F.Wilczek,Phys.Rev. Lett.65,3080 (1990).   
+[5] M. Kamionkowski, A. Kosowsky and M. S. Turner,Phys. Rev.D 49, 2837 (1994) [astro-ph/9310044]. [6] M.Hindmarsh,S. J. Huber，K.Rummukainen and D．J.Weir，Phys.Rev.Lett．112，041301(2014) [arXiv:1304.2433 [hep-ph]]; [7] A. Kosowsky, A. Mack and T. Kahniashvili, Phys. Rev. D 66,024030 (2002)[astro-ph/0111483].   
+[8] C. Caprini, R. Durrer and G. Servant, JCAP 0912, 024 (2009) [arXiv:0909.0622 [astro-ph.CO]]. [9] M.Hindmarsh，S. J. Huber，K.Rummukainen and D.J.Weir，Phys.Rev.D 92，123009(2015) [arXiv:1504.03291 [astro-ph.CO]].   
+[10] F. P. Huang,Y. Wan, D. G.Wang,Y. F. Cai and X. Zhang，Phys.Rev.D 94,no.4，041702 (2016) doi:10.1103/PhysRevD.94.041702 [arXiv:1601.01640 [hepph]].   
+[11]J.Jaeckel, V. V. Khoze and M. Spannowsky, Phys. Rev. D 94, no. 10, 103519 (2016) doi:10.1103/PhysRevD.94.103519 [arXiv:1602.03901 [hep-ph]].   
+[12] P. S.B. Dev and A. Mazumdar， Phys.Rev.D 93, no.10,104001 (2016) doi:10.1103/PhysRevD.93.104001 [arXiv:1602.04203 [hep-ph]].   
+[13] K.Hashino,M. Kakizaki, S. Kanemura and T. Matsui, Phys. Rev.D 94， no.1, 015005(2016) doi:10.1103/PhysRevD.94.015005 [arXiv:1604.02069 [hepph]].   
+[14] R.Jinnoand M. Takimoto, Phys.Rev.D 95, no.1,015020 (2017) doi:10.1103/PhysRevD.95.015020 [arXiv:1604.05035 [hep-ph].   
+[15] H. Yu, B. M. Gu, F.P. Huang, Y. Q. Wang, X. H. Meng and Y. X. Liu, JCAP 1702,039 (2017) doi:10.1088/1475- 7516/2017/02/039 [arXiv:1607.03388 [gr-qc]].   
+[16] A.Kobakhidze,A.Manning and J. Yue,arXiv:1607.00883 [hep-ph].   
+[17] P. Huang,A. J. Long and L. T. Wang, Phys. Rev.D 94, no.7,075008 (2016) doi:10.1103/PhysRevD.94.075008 [arXiv:1608.06619 [hep-ph]].   
+[18] M.Artymowski，M.Lewicki and J.D.Wells, JHEP 1703,066(2017) doi:10.1007/JHEP03(2017)066 [arXiv:1609.07143 [hep-ph].   
+[19] A. Soni and Y. Zhang,arXiv:1610.06931 [hep-ph].   
+[20] C.Balazs，A. Fowlie,A.Mazumdar and G.White,Phys.Rev.D 95，no.4，043505 (2017) doi:10.1103/PhysRevD.95.043505 [arXiv:1611.01617 [hep-ph]].   
+[21] G. C. Dorsch, S. J. Huber, T. Konstandin and J. M. No, arXiv:1611.05874 [hep-ph].   
+[22] F.P. Huang and X. Zhang, arXiv:1701.04338 [hep-ph].   
+[23] W. Chao,H. K. Guo and J. Shu,arXiv:1702.02698 [hepph].   
+[24] A.Beniwal,M.Lewicki，J.D. Wells,M. White and A. G.Williams,arXiv:1702.06124 [hep-ph].   
+[25] A.Addazi and A.Marciano,arXiv:1703.03248 [hep-ph]   
+[26] L.Marzola,A.RacioppiandV.Vaskonen, arXiv:1704.01034 [hep-ph].   
+[27] L. Bian, H. K. Guo and J. Shu,arXiv:1704.02488 [hep-ph].   
+[28] A. Tan et al. [PandaX-I Collaboration], Phys.Rev. Lett.117, no.12, 121303(2016) doi:10.1103/PhysRevLett.117.121303 [arXiv:1607.07400 [hep-ex]].   
+[29] D. S. Akerib et al. LUX Collaboration], Phys. Rev. Lett. 118, no. 2, 021303(2017) doi:10.1103/PhysRevLett.118.021303 [arXiv:1608.07648 [astro-ph.CO]].   
+[30] J．R. Espinosa, T. Konstandin， J. M. No and M.Quiros,Phys.Rev.D 78，123528(2008) doi:10.1103/PhysRevD.78.123528 arXiv:0809.3215 [hepph]].   
+[31] T.A.Chowdhury，M. Nemevsek,G. Senjanovic and Y. Zhang，JCAP 1202,029 (2012) doi:10.1088/1475- 7516/2012/02/029 [arXiv:1110.5334 [hep-ph]].   
+[32] P.Schwaller，Phys.Rev.Lett．115，181101 (2015) [arXiv:1504.07263 [hep-ph].   
+[33] P.A. Seoane et al. [eLISA Collaboration], arXiv:1305.5720 [astro-ph.CO].   
+[34] V.Corbin and N.J.Cornish,Class.Quant.Grav.23, 2435(2006）[gr-qc/0512039].   
+[35] N. Seto, S.Kawamura and T.Nakamura, Phys.Rev. Lett. 87，221103 (2001） doi:10.1103/PhysRevLett.87.221103 [astro-ph/0108011].   
+[36] H.Kudoh,A.Taruya,T.Hiramatsu and Y.Himemoto, Phys. Rev. D 73, 064006 (2006) [gr-qc/0511145].   
+[37] M.Cirelli,N.Fornengo and A.Strumia,Nucl. Phys.B 753,178 (2006) doi:10.1016/j.nuclphysb.2006.07.012 [hepph/0512090].   
+[38] T.Hambye,F.-S. Ling,L. Lopez Honorez and J. Rocher, JHEP 0907，090（2009）Erratum:[JHEP 1005,066 (2010)] doi:10.1007/JHEP05(2010)066， 10.1088/1126- 6708/2009/07/090 [arXiv:0903.4010 [hep-ph]].   
+[39]O.Fischer and J.J.van der Bij, JCAP 1401,032 (2014) doi:10.1088/1475-7516/2014/01/032[arXiv:1311.1077 [hep-ph]].   
+[40] C. Cheung and D. Sanford, JCAP 1402,011 (2014) doi:10.1088/1475-7516/2014/02/011[arXiv:1311.5896 [hep-ph].   
+[41] E.Ma, Phys.Rev.D73, 077301 (2006) doi:10.1103/PhysRevD.73.077301 [hep-ph/0601225].   
+[42] R.Barbieri, L. J. Hall and V. S. Rychkov,Phys. Rev. D 74,015007 (2006) doi:10.1103/PhysRevD.74.015007 [hep-ph/0603188].   
+[43] A.Belyaev,G.Cacciapaglia, I.P.Ivanov,F.Rojas and M. Thomas,arXiv:1612.00511 [hep-ph].   
+[44] C.P. Burgess，M. Pospelov and T. ter Veldhuis, Nucl.Phys.B 619，709(2001） doi:10.1016/S0550- 3213(01)00513-2 [hep-ph/0011335].   
+[45]P.Fileviez Perez,H.H.Patel,M.J.Ramsey-Musolf and K.Wang，Phys.Rev.D 79，055024 (2009) doi:10.1103/PhysRevD.79.055024 [arXiv:0811.3957 [hepph]].   
+[46] S.“S. AbdusSalam and T. A. Chowdhury， JCAP 1405，026 (2014) doi:10.1088/1475-7516/2014/05/026 [arXiv:1310.8152 [hep-ph].   
+[47] D.Borah and J.M.Cline,Phys.Rev.D 86,055001 (2012) doi:10.1103/PhysRevD.86.055001 [arXiv:1204.4722 [hep-ph].   
+[48]G.Gil,P. Chankowski and M.Krawczyk,Phys.Lett. B 717，396 (2012） doi:10.1016/j.physletb.2012.09.052 [arXiv:1207.0084 [hep-ph].   
+[49]N.Blinov,S.Profumo and T.Stefaniak，JCAP 1507, no. 07,028(2015)doi:10.1088/1475-7516/2015/07/028 [arXiv:1504.05949 [hep-ph].   
+[50]M.Laine,M.Meyer and G.Nardini,arXiv:1702.07479 [hep-ph].   
+[51] D. J.H. Chung,A. J. Long and L. T.Wang,Phys.Rev. D 87,no.2,023509(2013) doi:10.1103/PhysRevD.87.023509 [arXiv:1209.1819 [hep-ph]].   
+[52]P.A.R.Ade et al.[Planck Collaboration],Astron.Astrophys.594，A13(2016)doi:10.1051/0004-6361/201525830 [arXiv:1502.01589 [astro-ph.CO].   
+[53]C.J.Moore,R.H.Cole and C.P.L.Berry, Class.Quant Grav.32,015014 (2015)[arXiv:1408.0740 [gr-qcl].   
+[54] C.Caprini et al.，JCAP 1604，no.04，001 (2016) doi:10.1088/1475-7516/2016/04/001 [arXiv:1512.06239 [astro-ph.CO]].   
+[55] CEPC-SPPC Study Group，IHEP-CEPC-DR-2015-01, IHEP-TH-2015-01,IHEP-EP-2015-01.   
+[56] M.Bicer et al.[TLEP Design Study Working Group Collaboration],JHEP 1401,164(2014) [arXiv:1308.6176 [hep-ex]].   
+[57] F.P. Huang,P.H.Gu，P.F.Yin，Z.H.Yu and X．Zhang，Phys.Rev.D 93，no．10，103515 (2016) doi:10.1103/PhysRevD.93.103515 [arXiv:1511.03969 [hepph]].   
+[58] A.Arhrib，R.Benbrik，J. El Falaki and A.Jueid, JHEP 1512,007 (2015)doi:10.1007/JHEP12(2015)007 [arXiv:1507.03630 [hep-ph]].   
+[59] S.Kanemura, M.Kikuchi and K. Sakurai， Phys. Rev. D 94, no. 11, 115011 (2016) doi:10.1103/PhysRevD.94.115011 [arXiv:1605.08520 [hep-ph]].   
+[60]J.Luo et al.[TianQin Collaboration]，Class.Quant. Grav. 33， no.3， 035010(2016） doi:10.1088/0264- 9381/33/3/035010 [arXiv:1512.02076 [astro-ph.IM]].   
+[61]A.D.Linde，Nucl.Phys.B 216，421（1983)Erratum:[Nucl.Phys.B 223,544(1983)]. doi:10.1016/0550- 3213(83)90293-6,10.1016/0550-3213(83)90072-X   
+[62]S.R.Coleman， Phys. Rev.D 15， 2929 (1977) Erratum: [Phys.Rev.D 16, 1248 (1977)]. doi:10.1103/PhysRevD.15.2929, 10.1103/PhysRevD.16.1248   
+[63]C.G.Callan,Jr.and S.R.Coleman,Phys.Rev.D16, 1762(1977).doi:10.1103/PhysRevD.16.1762   
+[64] R. G. Cai, Z. Cao, Z. K. Guo, S. J. Wang and T. Yang, arXiv:1703.00187 [gr-qc].   
+[65] S.J.Huber and T.Konstandin,JCAP 0809,022 (2008) [arXiv:0806.1828 [hep-ph]].   
+[66]P.Binetruy,A.Bohe,C.Caprini and J.F.Dufaux, JCAP 1206,027(2012) [arXiv:1201.0983 [gr-qc]].   
+[67]J.R.Espinosa,T.Konstandin,J.M.No and G. Servant, JCAP 1006,028(2010)[arXiv:1004.4187 [hep-ph]].

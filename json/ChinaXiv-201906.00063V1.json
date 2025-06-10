@@ -1,0 +1,516 @@
+[
+    {
+        "type": "text",
+        "text": "作物生产潜力变化的区域差异以陕西省为例①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王莺莺}，张依婧，李飞¹,²，吕妍西北大学城市与环境学院,陕西西安710127；2 陕西省地表系统与环境承载力重点实验室,陕西西安71012)3国家测绘地理信息局第二地形测量队，陕西西安710054)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：作物生产潜力变化具有明显的区域差异性，亟需针对不同地理单元实施有效应对措施和调控策略。选择陕西省三大地理单元(陕北高原、关中盆地和秦巴山区)为研究对象，运用全球生态区模型(GAEZ)分析了陕西省不同地理单元作物生产潜力变化趋势，探讨了不同作物生产潜力变化的区域差异，辨识出影响不同作物生产潜力变化的主要因素，结果显示：(1）1980—2015年间，陕西省玉米生产潜力总量增加了 $1 5 0 . 5 5 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ，小麦生产潜力总量则下降了 $4 0 2 . 6 9 \\times 1 0 ^ { 4 } ~ \\mathrm { { t } _ { \\circ } }$ (2)关中盆地的玉米和小麦生产潜力皆最大，陕北高原次之，秦巴山区的玉米和小麦生产潜力皆最小；陕北高原和秦巴山区的玉米生产潜力皆表现出先增加后减小再增加的变化趋势，关中盆地的玉米生产潜力则先减小后增加再减小;关中盆地和秦巴山区的小麦生产潜力都呈下降趋势，陕北高原的小麦生产潜力则有所提高。（3）土地利用变化呈现减产效应，这一效应在关中盆地尤为显著，其次为陕北高原；气候变化导致玉米生产潜力增加，使小麦生产潜力下降；气候变化对不同地理单元的影响也不相同，在陕北高原表现为增产效应，在关中盆地和秦巴山区则为减产效应。（4）在陕北高原,气候变化的增产效应是玉米和小麦生产潜力提高的主要原因，气候变化对玉米生产潜力的影响大于对小麦的影响，耕地向草地、林地和建设用地的转化是降低作物生产潜力最主要的土地利用变化因素;在关中盆地，作物生产潜力的变化主要是受气候变化的影响，小麦受气候变化的影响较玉米为大,以建设用地占用耕地为特征的土地利用变化对玉米生产潜力的影响大于对小麦的影响；在秦巴山区，土地利用变化是玉米生产潜力变化的主要原因，而小麦生产潜力的变化主要受气候变化影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键词：生产潜力；气候变化；土地利用变化；陕北高原；关中盆地；秦巴山区文章编号： 1000-6060(2019)03-0615-10(0615\\~0624)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作物生产潜力从根本上取决于农业气候资源和土地利用状态[1-2]。农业气候制约着作物生长发育所需的光、温、水、热条件，其变化必然导致作物生产潜力的提高或下降[3-4];而土地利用变化直接改变了土地资源的结构、质量和空间分布格局，最终导致作物生产潜力发生变化[5-6]。农业系统作为对气候变化最为敏感的系统之一[7-9],气候变化导致的各种农业气候资源在数量和质量上的变化直接影响着农业生产潜力、农业产品的生产和种植制度，并对全球粮食生产安全产生严重影响[10-14]。此外,气候变",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "化还通过影响土地利用变化而间接对作物生产潜力产生作用[15-22]。土地利用变化对作物生产潜力的影响也成为土地系统变化及其效应研究的重要内容[23-28] 。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，国际上较为成熟的作物生产潜力估算模型可以概括为3类：(1)潜力衰减法[29]；(2)气候因子综合法[30-31]；（3）作物生长过程模拟方法[32-36]等。其中，GAEZ 模型不单单考虑了影响作物发育的光照、气温、降水等因素，还根据种植作物的特征将作物不同生长阶段的生长期长度和水分需求等纳入到模型当中。因此，GAEZ模型因其基础数据的易得性、计算过程的简洁性以及模拟结果的可信性而在世界范围内得到广泛应用[5,26,28-29]。例如,刘纪远等在气候观测数据和土地利用遥感监测数据的支持下，利用GAEZ模型，分析了LUCC过程对粮食生产潜力的影响[29];徐新良等基于逐日气象站点数据和两期土地利用数据，采用GAEZ模型模拟了我国东北地区粮食生产潜力的变化及其对气候变化、土地利用变化的响应[5];LIU 等采用GAEZ 模型,结合中国气象、地形、土壤等因素，定量分析了中国耕地粮食生产潜力空间特征以及1990—2010 年中国耕地变化对粮食生产潜力的影响[26]。以上研究足可表明，GAEZ模型在中国具有较好的适用性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，作物生产潜力变化具有明显的区域差异性，即不同地区（如传统农区、农牧交错区、生态脆弱区等)不同作物的生产力潜力变化程度及方向不同，亟需针对不同农业地域类型、不同农业生产方式实施有效应对措施和调控策略[37-39]。因此,本研究拟选择陕西省三大地理单元(陕北高原、关中盆地和秦巴山区）为研究对象，分析陕西省不同地理单元作物生产潜力变化趋势，辨识影响不同作物生产潜力变化的主要因素，探讨不同作物生产潜力变化的区域差异。在气候变化的背景下，研究不同地理单元不同作物生产潜力的变化趋势和影响因素，不仅可以直接反映作物生产潜力与光照、气温和降水等之间的协调程度和差异水平，并且可以分析不同因素对不同地理单元作物生产潜力的影响，从而找出限制该地理单元作物生产力提高的主要因子。这对于合理利用气候资源，充分发挥作物生产潜力以提高粮食生产能力具有重要的理论和实践意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "陕西省位于我国西北地区东部（ $1 0 5 ^ { \\circ } 2 9 ^ { \\prime }$ \\~$1 1 1 ^ { \\circ } 1 ^ { \\circ } 5 ^ { \\prime } \\mathrm { E } , 3 1 ^ { \\circ } 4 2 ^ { \\prime } \\sim 3 9 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N } )$ ，总面积约 $2 0 . 5 7 \\times 1 0 ^ { 4 }$ $ { \\mathrm { k m } } ^ { 2 }$ ;全省南北狭长,地跨北温带和亚热带,整体属大陆季风性气候，年平均降水量为 $5 7 6 . 9 \\ \\mathrm { m m }$ ,年平均气温约 $1 3 . 0 ~ \\mathrm { { ^ { c } C } }$ ,无霜期218d左右;农作物种植以玉米、小麦为主;地形多变,根据地貌、水文等可将全省划分为三大地理单元，从南至北依次为陕北高原、关中盆地和秦巴山区，平均海拔分别为1221.8$\\textrm { m } , 5 4 5 , 2 \\mathrm { m }$ 和 $1 1 7 7 . 3 \\mathrm { m }$ 。陕北高原为栗钙土一黑泸土地带;关中盆地为棕壤一褐土地带;秦巴山区为黄棕壤一黄褐土地带。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1386bfc8fb3e896224b4c86485b687be788876c955ab49fc332b3ce4eefb9c6.jpg",
+        "img_caption": [
+            "图1研究区概况",
+            "Fig.1Overview of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 数据与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用数据主要包括：（1）土地利用数据，从中国科学院资源环境科学数据中心 $1 : 1 0$ 万土地利用数据库获得，包括陕西省1980、1990、2000、2005、2010年以及2015年共6期土地利用数据。(2）气候数据，从“中国气象数据网”下载，包括1980一2015年逐月的降雨量、最高气温、最低气温、风速、相对湿度、日照时数、降雨天数、日照百分比和总辐射量等，并采用Anusplin插值模型对站点气象数据进行了空间插值。（3）土壤数据，来源于中国科学院资源环境科学数据中心 $1 : 1 0 0$ 万全国土壤数据集，包含土壤类型、土壤深度、土壤持水力等属性。（4）地形数据，来源于美国航天飞机雷达地形测绘使命(SRTM)系统提供的数字高程模型（DEM)数据，空间分辨率为 $9 0 \\mathrm { ~ m ~ }$ 。（5）统计数据，主要来源于《陕西统计年鉴(1986—2016）》。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2全球农业生态区模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究采用全球农业生态区模型(GAEZ)进行作物生产潜力的估算。该模型首先根据气候条件估算种植某种作物的气候适宜性，然后利用经验公式对适宜种植的作物采用逐级限制法来计算作物生产潜力。模型结构及计算过程见图2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了便于空间分析，将研究区划分为若干1$\\mathrm { k m } \\times 1 ~ \\mathrm { k m }$ 的格网。在此尺度上，数据计算量适中，且能够清晰表示不同作物生产潜力的区域差异。对于某种特定作物,其在某一格网的生产潜力（ $\\mathbf { \\boldsymbol { y } } _ { i }$ $\\mathbf { k g } \\cdot \\mathbf { h m } ^ { - 2 }$ )的计算公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { y } _ { i } = \\boldsymbol { Q } _ { i } \\times \\boldsymbol { P } _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY = \\sum _ { i = 1 } ^ { n } \\ y _ { i } \\times a _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $Q _ { i }$ 为该作物在该格网的土地生产潜力； $\\boldsymbol { P } _ { i }$ 为该格网内的耕地百分比； $Y$ 为该作物生产潜力总量；$a _ { i }$ 为格网的面积； $n$ 为区域内格网总数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "某格网内某种作物生产潜力的变化 $( \\Delta y _ { i } )$ 取决于气候变化导致的土地生产潜力的变化( $\\left( Q _ { i t } - Q _ { i 0 } \\right)$ 和土地利用变化引起的耕地面积百分比的变化( $\\boldsymbol { P } _ { i t }$ $\\phantom { } - P _ { i 0 } ^ { \\phantom { } }$ ，即",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta y _ { i } = y _ { i t } - y _ { i 0 } = C _ { i } + L _ { i } + W _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { i } = ( Q _ { i t } - Q _ { i 0 } ) \\times P _ { i 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { i } = Q _ { i 0 } \\times ( P _ { i t } - P _ { i 0 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { i } = ( \\mathrm { \\it ~ Q _ { \\it \\it { i } } ~ { - } ~ } Q _ { i 0 } ) \\times ( \\mathrm { \\it ~ P _ { \\it { i } \\it { t } } ~ { - } ~ } P _ { i 0 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $C _ { i } \\setminus L _ { i } \\setminus W _ { i }$ 分别为该格网内气候变化、土地利用变化以及两者共同变化导致的作物生产潜力变化；0代表变化前， $\\mathbf { \\chi } _ { t } ^ { }$ 表示变化后。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "历史统计数据显示，陕西省粮食作物的种植以玉米、小麦为主。因此，本研究着重探讨这两种作物生产潜力变化的区域差异。研究结果表明，陕西省玉米生产潜力总量由1980 年的 $2 \\ 5 9 6 . 5 1 \\times 1 0 ^ { 4 } \\ \\mathrm { t }$ 增至2015年的 $2 7 4 7 . 0 1 \\times 1 0 ^ { 4 }$ t(表1),玉米生产潜力提高了 $7 3 . 1 8 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ （图3）；在此期间，小麦生产潜力则下降了 $1 9 5 . 7 3 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ （图4），小麦生产潜力总量由 $2 \\ 0 3 8 . 3 9 \\times 1 0 ^ { 4 } \\ \\mathrm { t }$ 减少至 $\\textrm { 1 6 3 5 . 7 \\times 1 0 ^ { 4 } t }$ (表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b2ccfa6393cdca0e7571576712ef70ad199f5eb535fa9546135da17f586c438.jpg",
+        "img_caption": [
+            "图2GAEZ模型结构及计算过程",
+            "Fig.2 Structure and calculation process of GAEZ model "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2a526cdff73708a67dff084fc7f8d2f80ef9ba26416c23f32a4569a5a19a8af.jpg",
+        "table_caption": [
+            "表1玉米和小麦生产潜力总量变化的区域差异",
+            "Tab.1Regional differences of changes in total production potential of maize and wheat "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>1980年</td><td>1990年</td><td>2000年</td><td>2005年</td><td>2010年</td><td>2015年</td></tr><tr><td rowspan=\"4\">玉米生产潜力总量／10t</td><td>陕北高原</td><td>760.43</td><td>887.47</td><td>674.99</td><td>759.94</td><td>937.24</td><td>1 283.32</td></tr><tr><td>关中盆地</td><td>1 404.52</td><td>1 155.88</td><td>917.82</td><td>1 182.97</td><td>1 231.38</td><td>1 040.83</td></tr><tr><td>秦巴山区</td><td>431.56</td><td>526.53</td><td>461.28</td><td>374.61</td><td>327.76</td><td>422.91</td></tr><tr><td>陕西省</td><td>2 596.51</td><td>2 569.88</td><td>2 054.09</td><td>2 317.52</td><td>2 496.38</td><td>2 747.06</td></tr><tr><td rowspan=\"4\">小麦生产潜力总量／104t</td><td>陕北高原</td><td>724.49</td><td>969.54</td><td>464.64</td><td>428.32</td><td>776.16</td><td>843.07</td></tr><tr><td>关中盆地</td><td>910.57</td><td>1 087.75</td><td>604.07</td><td>630.28</td><td>805.32</td><td>483.99</td></tr><tr><td>秦巴山区</td><td>403.33</td><td>446.18</td><td>346.03</td><td>276.42</td><td>280.28</td><td>308.64</td></tr><tr><td>陕西省</td><td>2 038.39</td><td>2 503.46</td><td>1 414.74</td><td>1 335.03</td><td>1 861.76</td><td>1 635.70</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2407cb2e973ad38205d01981f84636e627dc2dda283a631d642a9cb4380da12.jpg",
+        "img_caption": [
+            "Fig.3Distribution of maize production potential in Shaanxi Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf149a9e5ede0c55f113b5e69ca2ae3b01aa04e5000d30163939ab5924addac6.jpg",
+        "img_caption": [
+            "图3陕西省玉米生产潜力分布图",
+            "图4陕西省小麦生产潜力分布图",
+            "Fig.4Distribution of wheat production potential in Shaanxi Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体而言，在此35a间，玉米生产潜力的变化呈先减小后增加的趋势，在2000 年达到最小，为$9 9 8 . 4 3 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ;陕西省小麦生产潜力的变化起伏较复杂，整体呈减小的趋势（图5）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1不同地理单元间玉米生产潜力变化差异",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同地理单元间的玉米生产潜力变化差异明显。在1980—2015 年间,陕北高原的玉米生产潜力平均增加了 $5 2 9 . 3 3 ~ \\mathrm { k g } \\cdot \\mathrm { k m } ^ { - 2 }$ ;而在关中盆地和秦巴山区，玉米生产潜力则呈下降趋势，尤其是在关中盆地,玉米生产潜力减少了 $1 ~ 5 6 8 . 1 1 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ （图6)。在此期间，陕北高原和秦巴山区的玉米生产潜力皆表现出先增加后减小再增加的变化趋势;而在关中盆地，玉米生产潜力则先减小后增加再减小。虽然不同地理单元间玉米生产潜力变化差异客观存在，但并未改变关中盆地的玉米生产潜力 $>$ 陕北高原的玉米生产潜力 $>$ 秦巴山区的玉米生产潜力这一总体分布规律。从总量看，2010年之前，关中盆地的玉米生产潜力总量最大，在2010年之后，陕北高原成为玉米生产潜力总量最大的地区（表1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2不同地理单元间小麦生产潜力变化差异",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "同玉米生产潜力分布规律类似，关中盆地的小麦生产潜力 $>$ 陕北高原的小麦生产潜力 $>$ 秦巴山区的小麦生产潜力,但三大地理单元间的差异有明显缩小的趋势（图7）。如在1990年，关中盆地的小麦生产潜力和秦巴山区之间的差异最大（4238.29$\\mathbf { k g } \\cdot \\mathbf { h m } ^ { - 2 }$ )；到2015年，前者仅比后者高1774.36$\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 。近 $3 5 \\mathrm { ~ a ~ }$ 间,关中盆地和秦巴山区的小麦生产潜力都呈下降趋势，其中关中盆地的小麦生产潜力平均减少了 $1 ~ 8 3 9 . 2 6 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,而在陕北高原,小麦生产潜力提高了 $1 2 0 . 0 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ 。陕北高原的小麦生产潜力总量占全区总量的比例显著增加，在2015年，该比例高达 $5 1 . 5 \\%$ ,关中盆地的小麦生产潜力总量所占比例则由1980年的 $4 4 . 7 \\%$ 缩至2015年的 $2 9 . 6 \\%$ （表1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/287a776e170f4c1f03b120e65346555388d37750e8e9da8a0ea0aee7e9adaacb.jpg",
+        "img_caption": [
+            "图5陕西省玉米和小麦生产潜力的变化 Fig.5 Changes in maize and wheat production potential in Shaanxi Province "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/899cb109d833b1862d1d16b7b37c20421c458264a9db941c4a19946fa9d85b96.jpg",
+        "img_caption": [
+            "图6 玉米生产潜力在不同地理单元的变化Fig. 6 Change in maize production potential indifferent geographic units"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/994ff8fcb6bf67baff00fd45033176237a5cbc524bdcb56e3adddc3c43c0b374.jpg",
+        "img_caption": [
+            "图7小麦生产潜力在不同地理单元的变化Fig.7Change in wheat production potential indifferent geographic units"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土地利用变化和气候变化深刻影响着陕西省作物生产潜力。1980—2015年间，陕西省耕地面积减小了近 $4 0 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ （表2）,受此因素的影响，玉米和小麦生产潜力总量分别下降了 $1 6 1 . 2 4 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和$1 2 4 . 8 7 \\times 1 0 ^ { 4 }$ t(表3）。气候变化对不同作物的影响具有差异性，即气候变化对玉米有增产效应（增加了 $3 2 8 . 2 2 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ),对小麦则有减产效应（减小了$2 9 8 . 2 1 \\times 1 0 ^ { 4 } ~ \\mathrm { t } )$ 。值得注意的是,在土地利用变化和气候变化的共同作用下，玉米生产潜力下降了7.98$\\mathbf { k g } \\cdot \\mathbf { h m } ^ { - 2 }$ ,小麦生产潜力则平均提高了 $9 . 9 1 ~ \\mathrm { k g } ~ \\cdot$ $\\mathrm { h m } ^ { - 2 }$ （表4）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1陕北高原作物生产潜力变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "气候变化使得陕北高原更加适宜于玉米和小麦的种植，两种作物的生产潜力平均分别增加了$6 2 6 . 0 8 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ 和 $1 8 6 . 5 1 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ；土地利用变化导致玉米和小麦的生产潜力下降了 $6 1 . 9 1 \\ \\mathrm { k g }$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { h m } ^ { - 2 }$ 和 $6 1 . 6 3 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ;然而,土地利用和气候的共同变化对玉米生产潜力的影响为小麦的7.2倍(表4）。具体来看，近 $3 5 \\mathrm { ~ a ~ }$ 间在陕北高原共有$4 7 . 2 8 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 耕地转化为其他土地利用类型（表5），玉米和小麦生产潜力总量因此分别下降了$7 7 . 4 4 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和 $7 6 . 3 5 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,其中,耕地向草地、林地和建设用地的转化是作物生产潜力下降最主要的土地利用变化因素。相应地，共有 $1 8 . 2 5 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5299665e4182e72ad7f225d1b728be85d64c3c06b9a66d276e3c7f846940578.jpg",
+        "table_caption": [
+            "表21980—2015年陕西省土地利用转移矩阵/ $\\mathbf { 1 0 ^ { 4 } \\ h m ^ { 2 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">1980年</td><td colspan=\"7\">2015年</td></tr><tr><td>耕地</td><td>林地</td><td>草地</td><td>水体</td><td>建设 用地</td><td>未利 用地</td><td>总计</td></tr><tr><td>耕地</td><td>645.80</td><td>13.86</td><td>36.62</td><td>1.85</td><td>19.38</td><td>0.68</td><td>718.19</td></tr><tr><td>林地</td><td>3.49</td><td>452.21</td><td>3.86</td><td>0.14</td><td>1.06</td><td>0.46</td><td>461.22</td></tr><tr><td>草地</td><td>23.49</td><td>12.02</td><td>729.37</td><td>1.43</td><td>3.68</td><td>1.53</td><td>771.52</td></tr><tr><td>水体</td><td>2.75</td><td>0.17</td><td>1.22</td><td>14.30</td><td>0.24</td><td>0.06</td><td>18.74</td></tr><tr><td>建设用地</td><td>0.89</td><td>0.22</td><td>0.15</td><td>0.06</td><td>25.73</td><td>0.00</td><td>27.04</td></tr><tr><td>未利用地</td><td>2.05</td><td>0.79</td><td>13.34</td><td>0.21</td><td>1.99</td><td>42.24</td><td>60.61</td></tr><tr><td>总计</td><td>678.48</td><td>479.27</td><td>784.55</td><td>17.99</td><td>52.07</td><td>44.96</td><td>2 057.33</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表3玉米和小麦生产潜力总量变化的影响因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/097fc4d702c0cefed4cf47f70e922fb139b0ad347ea17cc898b7360917b42fd3.jpg",
+        "table_caption": [
+            "Tab.3Factors influencing changes in the total production potential of maize and wheat "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">玉米生产潜力总量 变化／104t</td><td colspan=\"3\">小麦生产潜力总量 变化／104t</td></tr><tr><td>土地 利用 变化 L</td><td>气候 变化 C</td><td>作物生 产潜力 变化 W</td><td>土地 利用 变化 L</td><td>气候 变化 C</td><td>作物生 产潜力 变化 W</td></tr><tr><td></td><td>陕北高原-61.16</td><td>618.46</td><td>-34.42</td><td>-60.88</td><td>184.24</td><td>-4.78</td></tr><tr><td>关中盆地</td><td>-94.15 -287.85</td><td></td><td>18.31</td><td>-58.61 -392.73</td><td></td><td>24.76</td></tr><tr><td>秦巴山区</td><td>-5.93</td><td>-2.40</td><td>-0.32</td><td>-5.37</td><td>-89.71</td><td>0.40</td></tr><tr><td>陕西省</td><td>-161.24</td><td>328.22</td><td></td><td>-16.43 -124.87 -298.21</td><td></td><td>20.38</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce965feb22ab522c5dfd408435ce485e154c29814576267eaa39f430060980b7.jpg",
+        "table_caption": [
+            "Tab.2Land use transfer matrix of Shaanxi Province from 1980 to $\\mathbf { 2 0 1 5 \\ / \\ 1 0 ^ { 4 } \\ \\ h m ^ { 2 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">1980年</td><td colspan=\"7\">2015年</td></tr><tr><td>耕地</td><td>林地</td><td>草地</td><td>水体</td><td>建设 用地</td><td>未利 用地</td><td>总计</td></tr><tr><td>耕地</td><td>303.89</td><td>11.23</td><td>31.38</td><td>0.30</td><td>3.76</td><td>0.61</td><td>351.17</td></tr><tr><td>林地</td><td>1.81</td><td>150.04</td><td>2.20</td><td>0.04</td><td>0.32</td><td>0.37</td><td>154.78</td></tr><tr><td>草地</td><td>13.73</td><td>7.58</td><td>384.08</td><td>0.31</td><td>3.15</td><td>1.40</td><td>410.25</td></tr><tr><td>水体</td><td>0.47</td><td>0.03</td><td>0.57</td><td>6.72</td><td>0.16</td><td>0.05</td><td>8.00</td></tr><tr><td>建设用地</td><td>0.31</td><td>0.01</td><td>0.06</td><td>0.01</td><td>4.20</td><td>0.00</td><td>4.60</td></tr><tr><td>未利用地</td><td>1.93</td><td>0.43</td><td>13.20</td><td>0.05</td><td>1.97</td><td>41.46</td><td>59.05</td></tr><tr><td>总计</td><td>322.14</td><td>169.33</td><td>431.49</td><td>7.44</td><td>13.57</td><td>43.89</td><td>987.84</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4玉米和小麦生产潜力变化的影响因素",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2af5a371e2e57360b4f963dc996fc3620fdcd67e1889bceb0d0afd57e5030c06.jpg",
+        "table_caption": [
+            "Tab.4Factors influencing changes in the production ",
+            "Tab.5Land use transfer matrix of Shaanbei Plateau from 1980 to $\\mathbf { 2 0 1 5 } / \\mathbf { 1 0 ^ { 4 } } \\ \\mathbf { h m ^ { 2 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">potential of maize and wheat</td></tr><tr><td colspan=\"3\">玉米生产潜力 变化／kg·hm-2</td><td colspan=\"2\">小麦生产潜力 变化／kg·hm-2</td></tr><tr><td>土地 利用 变化</td><td>气候 变化 C</td><td>作物生 产潜力 变化 W</td><td>土地 利用 变化</td><td>气候 作物生 产潜力 变化 变化 C</td></tr><tr><td>陕北高原-61.91</td><td>L 626.08</td><td>-34.84-61.63</td><td>L</td><td>W 186.51 -4.83</td></tr><tr><td>关中盆地-405.95-1241.11</td><td></td><td></td><td>78.95-252.69-1693.33</td><td>106.76</td></tr><tr><td>秦巴山区 -7.08</td><td>-2.86</td><td>-0.38</td><td>-6.42</td><td>-107.11 0.48</td></tr><tr><td>陕西省 -78.37</td><td>159.54</td><td></td><td>-7.98 -60.69</td><td>-144.95 9.91</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表51980—2015年陕北高原土地利用转移矩阵/ $\\mathbf { 1 0 ^ { 4 } ~ h m ^ { 2 } }$ ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的其他土地利用类型转化为耕地,致使玉米和小麦的生产潜力总量分别增加了 $1 6 . 2 9 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和15.46$\\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,其中，草地向耕地的转化对作物生产潜力提高的贡献最大，林地次之。虽然被开垦为耕地的未利用地的面积大于被开垦为耕地的林地的面积，但由于气候、土壤条件的差异，未利用地向耕地的转化仅使玉米和小麦的生产潜力总量增加了 $0 . 6 8 \\times 1 0 ^ { 4 }$ t和 $0 . 2 9 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,对作物生产潜力的影响远小于林地向耕地的转化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2关中盆地作物生产潜力变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然关中盆地的面积是三大地理单元当中最小的,但其作物生产潜力最大,在2010 年之前，关中盆地的玉米和小麦生产潜力总量也是最高的。在1980一2015年间，气候变化在大幅提高陕北高原的作物生产潜力的同时，导致关中盆地的作物生产潜力急剧下降，最终使得陕北高原的作物生产潜力总量在2015年超过关中盆地，成为作物生产潜力总量最大的地理单元。然而，气候变化对小麦生产潜力的影响比对玉米的影响更大，这与陕北高原恰好相反。另外，关中盆地土地利用变化的减产效应也较陕北高原明显。1980—2015 年间，关中盆地新增耕地 $5 . 8 7 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,使玉米和小麦生产潜力总量分别增加了 $6 2 . 1 2 \\times 1 0 ^ { 4 }$ t和 $4 3 . 8 9 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ;在此期间转化为其他土地利用类型的耕地面积尽管只有 $1 6 . 6 1 \\times$ $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ，但玉米和小麦生产潜力总量因此分别减少了 $1 5 6 . 2 7 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ 和 $1 0 2 . 4 9 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,其中仅建设用地占用耕地一项就使玉米和小麦生产潜力总量分别下降了 $1 2 7 . 5 5 \\times 1 0 ^ { 4 } { \\mathrm { ~ t ~ } }$ 和 $8 3 . 1 1 \\times 1 0 ^ { 4 }$ t(表6)。虽然土地利用变化和气候变化都表现出减产效应，然而在两者的共同作用下，关中盆地的作物生产潜力则有所提高，主要由于在耕地转化为其他土地利用类型的地区，气候变化引起的土地生产潜力的变化小于新增耕地上的土地生产潜力变化，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3秦巴山区作物生产潜力变化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "无论是从作物生产潜力，还是从其总量来看，秦巴山区都是三大地理单元中最不适宜玉米和小麦种植的区域。1980年以来的土地利用变化和气候变化则进一步降低了秦巴山区的作物生产能力。其中，玉米生产潜力主要受土地利用变化的影响，其次为气候变化（表4)；1980—2015年间，有 $8 . 5 \\times 1 0 ^ { 4 }$ $\\mathbf { h } \\mathbf { m } ^ { 2 }$ 耕地转化为其他土地利用类型，导致玉米生产潜力总量下降了 $1 1 . 9 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ }$ ,其中耕地转化为建设用地和草地是主要诱因；同时，秦巴山区新增耕地$8 . 5 6 \\times 1 0 ^ { 4 } \\ \\mathrm { h m } ^ { 2 }$ ，玉米生产潜力总量因此提高了$5 . 9 7 \\times 1 0 ^ { 4 }$ t(表7)。总之,秦巴山区耕地总面积变化虽然较小，但玉米生产潜力总量受土地利用变化的影响而减少了约 $5 . 9 3 \\times 1 0 ^ { 4 } \\mathrm { ~ t ~ } _ { \\odot }$ 。这是由于新增耕地上的玉米气候生产潜力平均仅为 $7 0 0 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ，远小于转化为其他土地利用类型的耕地上的气候生产潜力。对于小麦而言，气候变化对小麦生产潜力的影响最大,使其下降了 $1 0 7 . 1 1 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,土地利用变化次之（表4）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/75ea1c69d6b6686949be97ee30c826b83e0cae018708481008fffda2006569ea.jpg",
+        "table_caption": [
+            "表61980—2015关中盆地土地利用转移矩阵/ $\\mathbf { 1 0 ^ { 4 } ~ h m ^ { 2 } }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">1980年</td><td colspan=\"7\">2015年</td></tr><tr><td>耕地</td><td>林地</td><td>草地</td><td>水体</td><td>建设 用地</td><td>未利 用地</td><td>总计</td></tr><tr><td>耕地</td><td>159.85</td><td>0.97</td><td>0.96</td><td>1.06</td><td>13.60</td><td>0.03</td><td>176.46</td></tr><tr><td>林地</td><td>0.24</td><td>4.97</td><td>0.07</td><td>0.05</td><td>0.45</td><td>0.03</td><td>5.82</td></tr><tr><td>草地</td><td>3.10</td><td>0.23</td><td>17.72</td><td>0.74</td><td>0.36</td><td>0.08</td><td>22.21</td></tr><tr><td>水体</td><td>1.88</td><td>0.12</td><td>0.56</td><td>4.84</td><td>0.06</td><td>0.01</td><td>7.47</td></tr><tr><td>建设用地</td><td>0.53</td><td>0.02</td><td>0.04</td><td>0.03</td><td>18.09</td><td>0.00</td><td>18.70</td></tr><tr><td>未利用地</td><td>0.12</td><td>0.34</td><td>0.12</td><td>0.16</td><td>0.01</td><td>0.51</td><td>1.27</td></tr><tr><td>总计</td><td>165.72</td><td>6.65</td><td>19.46</td><td>6.88</td><td>32.58</td><td>0.65</td><td>231.93</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/22c7b5f639c7351e64b03b0f69985f692b7c345aa5bd13c551463cfaa55ad48a.jpg",
+        "table_caption": [
+            "Tab.6Land use transfer matrix of Guanzhong Basin from 1980 to $\\mathbf { 2 0 1 5 \\times 1 0 ^ { 4 } ~ h m ^ { 2 } }$ ",
+            "表71980—2015 年秦巴山地土地利用转移矩阵/ $\\mathbf { 1 0 ^ { 4 } \\ h m ^ { 2 } }$ Tab.7Land use transfer matrix of Qinba Mountainsfrom 1980 to $\\mathbf { 2 0 1 5 } \\mathrm { ~ / ~ } \\mathbf { 1 0 ^ { 4 } } \\mathrm { ~ h m } ^ { 2 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">1980年</td><td colspan=\"7\">2015年</td></tr><tr><td>耕地</td><td>林地</td><td>草地</td><td>水体</td><td>建设 用地</td><td>未利 用地</td><td>总计</td></tr><tr><td>耕地</td><td>182.07</td><td>1.65</td><td>4.29</td><td>0.49</td><td>2.02</td><td>0.04</td><td>190.56</td></tr><tr><td>林地</td><td>1.44</td><td>297.20</td><td>1.59</td><td>0.04</td><td>0.28</td><td>0.06</td><td>300.62</td></tr><tr><td>草地</td><td>6.66</td><td>4.20</td><td>327.57</td><td>0.39</td><td>0.17</td><td>0.06</td><td>339.06</td></tr><tr><td>水体</td><td>0.40</td><td>0.02</td><td>0.08</td><td>2.74</td><td>0.02</td><td>0.00</td><td>3.27</td></tr><tr><td>建设用地</td><td>0.05</td><td>0.20</td><td>0.05</td><td>0.01</td><td>3.43</td><td>0.00</td><td>3.74</td></tr><tr><td>未利用地</td><td>0.00</td><td>0.02</td><td>0.01</td><td>0.00</td><td>0.00</td><td>0.27</td><td>0.30</td></tr><tr><td>总计</td><td>190.62</td><td>303.30</td><td>333.60</td><td>3.68</td><td>5.93</td><td>0.43</td><td>837.55</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究利用气候、土地利用、土壤、DEM等数据，分析了不同地理单元之间玉米和小麦两种作物的生产潜力的差异及其主要影响因素，得出如下结论：",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）1980—2015年间，陕西省玉米生产潜力总量增加了 $1 5 0 . 5 5 \\times 1 0 ^ { 4 }$ t,小麦生产潜力总量则下降了 $4 0 2 . 6 9 \\times 1 0 ^ { 4 } ~ \\mathrm { t } ; 3 5$ a 间玉米生产潜力的变化呈减小后增加的趋势，在2000 年达到最小，为998.43$\\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ;陕西省小麦生产潜力的变化起伏较复杂，整体呈减小的趋势。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）关中盆地的玉米和小麦生产潜力皆最大，陕北高原次之，秦巴山区的玉米和小麦生产潜力皆最小；从玉米和小麦生产潜力总量来看，在2010 年之前，关中盆地 $>$ 陕北高原 $>$ 秦巴山区，而在2010年之后，陕北高原 $>$ 关中盆地 $>$ 秦巴山区；陕北高原和秦巴山区的玉米生产潜力皆表现出先增加后减小再增加的变化趋势，关中盆地的玉米生产潜力则先减小后增加再减小;关中盆地和秦巴山区的小麦生产潜力都呈下降趋势，陕北高原的小麦生产潜力则提高了 $1 2 0 . 0 4 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）近35a间，土地利用变化呈现减产效应，分别使陕西省玉米和小麦的生产潜力下降了78.37$\\mathbf { k g } \\cdot \\mathbf { h m } ^ { - 2 }$ 和 $6 0 . 6 9 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ ,这一效应在关中盆地尤为显著，其次为陕北高原;气候变化导致陕西省玉米生产潜力增加了 $1 5 9 . 5 4 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ,但使小麦生产潜力下降了 $1 4 4 . 9 5 ~ \\mathrm { k g } \\cdot \\mathrm { h m } ^ { - 2 }$ ;气候变化对不同地理单元的影响也不相同，在陕北高原表现为增产效应，在关中盆地和秦巴山区则为减产效应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（4）在陕北高原，气候变化的增产效应是玉米和小麦生产潜力提高的主要原因，气候变化对玉米生产潜力的影响大于对小麦的影响，耕地向草地、林地和建设用地的转化是降低作物生产潜力最主要的土地利用变化因素;在关中盆地，作物生产潜力的变化主要是受气候变化的影响，小麦受气候变化的影响较玉米为大，以建设用地占用耕地为特征的土地利用变化对玉米生产潜力的影响大于对小麦的影响;在秦巴山区，土地利用变化是玉米生产潜力变化的主要原因，而小麦生产潜力的变化主要受气候变化影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究分析了气候变化和土地利用变化对不同地理单元内作物生产潜力的影响，但并未探讨不同地理单元间气候和土地利用的具体变化趋势，以及这些变化是如何对作物生产潜力产生影响的;也未进一步辨识影响或限制作物生产潜力变化的主要气候因子（如气温、降水、光照等）。这对于制定不同区域的气候变化适应策略、保障农业生产尤为重要，将在以后的研究中详加讨论。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]刘彦随,刘玉，郭丽英.气候变化对中国农业生产的影响及应 对策略［J].中国生态农业学报,2010,18（4)：905-910.［LIU Yansui,LIU Yu,GUO Liying.Impact of climatic change onagricultural production and response strategies in China［J].Chinese Journal of Eco-Agriculture,2010,18(4）:905-910.]   \n[2]唐国平,李秀彬,FISCHERG,et al.气候变化对中国农业生产 的影响[J].地理学报,2000,55（5）：129-138.［TANGGuoping,LI Xiubin,FISCHER G,et al. Climate change and its impacts on China's agriculture[J].Acta Geographica Sinica,2000,55 (5):129 -138.]   \n[3]LOBELL D B, WOLFRAM S,JUSTIN C R. Climate trends and global crop production since 1980[J].Science,2011,333（6042）： 616-620.   \n[4]ANWAR MR,LIU D L,FARQUHARSON R,et al. Climate change impacts on phenology and yields of five broadacre crops at four climatologically distinct locations in Australia[J].Agricultural Systems,2015,132:133 - 144.   \n[5］徐新良,刘纪远,曹明奎,等.近期气候波动与LUCC 过程对东 北农田生产潜力的影响[J].地理科学,2007,27（3)：318- 324.[XU Xinliang,LIU Jiyuan,CAO Mingkui,et al. Impact of recent climate fluctuation and LUCC process on potential productivity for crops in northeast China[J].Scientia Geographica Sinica, 2007,27(3) :318 -324.]   \n[6]秦大河.气候变化科学与人类可持续发展[J].地理科学进展, 2014,33(7）:874-883.[QIN Dahe. Climate change science and sustainable development[J].Progress in Geography,2014,33（7）: 874 -883.]   \n[7]CIAIS P,REICHSTEIN M,VIOVY N,et al.Europe-wide reduction in primary productivity caused by the heat and drought in 2003 [J].Nature,2005,437（7058）:529.   \n[8]GAY C,ESTRADA F,CONDE C,et al. Potential impacts of climate change on agriculture:A case of study of coffee production in Veracruz,Mexico[J].Climatic Change,2006,79(3）:259-288.   \n[9]赵俊芳,郭建平,张艳红,等.气候变化对农业影响研究综述 [J].中国农业气象,2010,31（2）:200-205.[ZHA0 Junfang, GUO Jianping,ZHANG Yanhong,et al. Advances in research of impacts of climate change on agriculture[J]. Chinese Journalof Agrometeorology,2010,31（2）:200-205.]   \n[10]SCHMIDHUBER J,TUBIELLOFN. Global food securityunder climate change[J].Proceedings of the National Academy of Sciences,2007,104(50）:19703-19708.   \n[11]PIAO S,CIAIS P,HUANG Y,et al. The impacts of climate change on water resources and agriculture in China[J]. Nature,2010,467 (7311) :43 -51.   \n[12] HOWDEN S M,SOUSSANA JF,TUBIELLO F N,et al. Adapting agriculture to climate change[J].The Quarterly Review of Biology,2011,86(3) :19691-19696.   \n[13]TAO F,YOKOZAWA M,LIU J,et al. Climate-crop yield relationships at provincial scales in China and the impacts of recent climate trends[J].Climate Research,2008,38(1） :83-94.   \n[14］周义,覃志豪,包刚.气候变化对农业的影响及应对[J].中国 农学通报,2011,27（32）：299-303.[ZHOUYi,QIN Zhihao, BAO Gang.Impacts of climate change on agriculture and its responses[J]. Chinese Agricultural Science Bulletin,2011,27（32）： 299 -303.]   \n[15］熊伟,林而达,蒋金荷,等.中国粮食生产的综合影响因素分析 [J].地理学报,2010,65（4）:397－406.[XIONGWei,LINErda,JIANG Jinhe,et al.An integrated analysisof impact factors in determining China’sfuture grain production[J].Acta Geographica Sinica,2010,65(4) :397 -406.]   \n[16]LOBELL D B,ASNER G P. Climate and management contributions to recent trends in US agricultural yields[J].Science,2003,300 (5625） :1505.   \n[17］钟新科,刘洛,徐新良,等.近30 年中国玉米气候生产潜力时 空变化特征.农业工程学报,2012,28（15）:94-101.[ZHONG Xinke,LIU Luo,XU Xinliang,et al. Characteristics of spatial-temporal variation of maize climate productivity during last 3O yars in China[J].Transactions of the Chinese Society of Agricultural En gineering,2012,28（15）:94-101.]   \n[18]MISHRA A,SINGH R,RAGHUWANSHI N S,et al. Spatial variability of climate change impacts on yield of rice and wheat in the Indian Ganga Basin[J].Science of the Total Environment,2013, 468 :132 -138.   \n[19］葡涛,谢云,刘刚,等.黑龙江省气候变化对粮食生产的影响 [J]．自然资源学报,2008,23（2）:307-318.[LIN Tao,XIE Yun,LIU Gang,et al.Impact of climate change on crop yields in Heilongjiang Province[J]. Journal of Natural Resources,2008,23 (2) :307 -318.]   \n[20］袁彬,郭建平,冶明珠,等.气候变化下东北春玉米品种熟型分 布格局及其气候生产潜力［J].科学通报,2012,57（14）： 1252 -1262.[YUAN Bin,GUO Jianping,YE Mingzhu,et al. Variety distribution pattern and climatic potential productivity of spring maize in northeast China under climate change[J]. Chinese Science Bulletin,2012,57（14）:1252-1262.]   \n[21］杨春艳,沈渭寿,李海东.1985—2010 年西藏粮食产量对气候 和耕地变化的响应[J].农业工程学报,2015,31（17)：261- 269.［YANG Chunyan,SHEN Weitao,LI Haidong.Response of grain yield in Tibet to climate and cultivated land change during 1985—201o[J].Transactions of the Chinese Society of Agricultural Engineering,2015,31（17） :261-269.]   \n[22］吕硕,杨晓光,赵锦,等.气候变化和品种更替对东北地区春玉 米产量潜力的影响[J].农业工程学报,2013,29（18)：179－ 190.[LYU Shuo,YANG Xiaoguang,ZHAO Jin,et al. Effets of climate change and variety alternative on potential yield of spring maize in northeast China[J].Transactions of the Chinese Society of Agricultural Engineering,2013,29（18）:179-190.]   \n[23]FISCHER G,SUN L. Model based analysis of future land-use development in China[J].Agriculture Ecosystems & Environment, 2001,85(1):163 -176.   \n[24]FISCHER G,TEIXEIRA E,HIZSNYIK E T,et al. Land use dynamics and sugarcane production. Sugarcane ethanol; Contribution to climate change mitigation and the environment[R].Wageningen: Wageningen Academic,2008.   \n[25]GAAL M,QUIROGA S,FERNANDEZ-HADDAD Z.Potential impacts of climate change on agricultural land use suitability of the Hungarian counties[J].Regional Environmental Change,2014,14 (2):597 -610.   \n[26]LIU L,XU X,LIU J,et al. Impact of farmland changes on production potential in China during 1990—2010[J]. Journal of Geographical Sciences,2015,25(1） :19 -34.   \n[27]WANG J,WANG E,YANG X,et al. Increased yield potential of wheat-maize cropping system in the North China Plain by climate change adaptation[J]. Climatic Change,2012,113（3）:825- 840.   \n[28］谢俊奇,蔡玉梅,郑振源,等.基于改进的农业生态区法的中国 耕地粮食生产潜力评价[J].中国土地科学,2004,18（4）：31- 37.[XIE Junqi,CAI Yumei,ZHENG Zhenyuan,et al.AEZ-based assessment for food productivity potential of cultivated land in China[J].China Land Science,2004,18(4）:31 -37.]   \n[29]刘纪远,徐新良,庄大方,等.20 世纪90 年代LUCC 过程对中 国农田光温生产潜力的影响——基于气候观测与遥感土地利 用动态观测数据[J].中国科学（地球科学）,2005,35（6)： 483 -492.[LIU Jiyuan,XU Xinliang,ZHUANG Dafang,et al. Effects of LUCC process on light and temperature production po",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "tential of Chinese farmland in the $1 9 9 0 \\mathrm { s } [ \\mathrm { J } ]$ .Scientia Sinica(Ter rae）,2005,35(6):483-492.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[30]FISCHER G,SHAH M M,VAN VELTHUIZEN H T,et al. Agroecological zones assessment[R]. IIASA Research Report. IIASA, Laxenburg, Austria ; $\\mathrm { R P } - 0 6 - 0 0 3$ .Reprinted from Encyclopedia of Life Support Systems（EOLSS）,EOLSS Publishers,Oxford, UK,2006.   \n[31]ITTERSUM MKV,LEFFELAARPA,KEULENHV,et al.On approaches and applications of the Wageningen crop models[J]. European Journal of Agronomy,2003,18(3-4）:201 -234.   \n[32]JONES P G,THORNTON P K. The potential impacts of climate change on maize production in Africa and Latin America in 2055 [J].Global Environmental Change,2003,13（1）:51-59.   \n[33］YUN J. Predicting regional rice production in South Korea using spatial data and crop-growth modeling[J].Agricultural Systems, 2003,77(1) :23-38.   \n[34]PRIYA S,SHIBASAKI R.National spatial crop yield simulation using GIS-based crop production model[J].Ecological Modelling, 2001,136(2-3):113 -129.   \n[35]BASSO B,RITCHIE JT,PIERCE FJ,et al. Spatial validation of crop models for precision agriculture[J].Agricultural Systems, 2001,68(2) :97 -112.   \n[36]BATCHELOR W D,BASSO B,PAZ JO. Examples of strategies to analyze spatial and temporal yield variability using crop models [J].European Journal of Agronomy,2002,18(1-2）:141 -158.   \n[37］陈长青,类成霞,王春春,等.气候变暖下东北地区春玉米生产 潜力变化分析[J].地理科学,2011,31（10)：1272-1279. [CHEN Changqing,LEI Chengxia,WANG Chunchun,et al. Changes of spring maize potential productivity under the background of global warming in northeast China[J]. Scientia Geographica Sinica,2011,31(10):1272 -1279.]   \n[38］张晓峰,王宏志,刘洛,等.近50 年来气候变化背景下中国大 豆生产潜力时空演变特征[J].地理科学进展,2014,33（10)： 1414 -1423.[ ZHANG Xiaofeng,WANG Hongzhi,LIU Luo,et al. Spatial-temporal characteristics of soybean production potential change under the background of climate change over the past 50 years in China[J].Progress in Geography,2014,33（10）:1414- 1423.]   \n[39］钟章奇,王铮,夏海斌,等.全球气候变化下中国农业生产潜力 的空间演变[J]．自然资源学报,2015,30（12）:2018－2032. [ZHONG Zhangqi,WANG Zheng,XIA Haibin,et al.Temporal and spatial variation of the potential agricultural productivity of China under global climate change[J]. Journal of Natural Resources, 2015,30(12) :2018-2032.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Regional difference in crop production potential change: A case study of Shaanxi Province ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WANG Ying-ying1，ZHANG Yi-jing'，LI Fei $^ { 1 , 2 }$ ，LYU Yan³ (1College of Urban and Environmental Science,Northwest University,Xi'an 71O127,Shaanxi,China; 2Shaanxi KeyLaboratoryof Earth Surface Systemand EnvronmentalCarring Capacity,Xi'an71o127,Shaanxi,China 3The Second Topographic Surveying Brigade of the Ministryof Natural Resources,Xi'an710o54,Shaanxi,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract:There were obvious regional diferences in crop production potential change caused bythe changes in climateand land use.Therefore,it was inurgentneed to implement efective solutions andcontrol strategies fordifferent agricultural districts and agricultural production modes.Shaanxi Province,China which was divided into three geographical units was chosen asthe research object to explore the trends and influence factors of crop production potential change among diferent geographical units byusing GAEZ.The data required for the GAEZ model mainly included climate,land use,soil,topographyand statistics data.The food crops planted in Shaanxi Province were mainly maize and wheat.Through spatial analysis and statistics,the production potentialchanges of the two crops in diffrent geographical units werecalculated.Theresults showed that the total maize production potential in Shanxi Province was increased by $1 5 0 . 5 5 \\times 1 0 ^ { 4 } ~ \\mathrm { t }$ ,while the total wheat production potential was decreased by $4 0 2 . 6 9 \\times 1 0 ^ { 4 }$ （204号 tbetween 198O and 2O15.The maize and wheat production potential in Guanzhong Basin were the greatest,followed by Shaanbei Plateau.The maize production potential in Shaanbei Plateau and Qingling-Daba Mountains showed a trend of increasing first and then decreasing and then increasing again；however,it was decreased first and then increased and then decreased again in Guanzhong Basin.The wheat production potentials in Guanzhong Basin and Qinling-Daba Mountains were both decreased,while it was increased by $1 4 1 . 5 8 \\mathrm { ~ k g ~ } \\cdot \\mathrm { h m } ^ { - 2 }$ in Shaanbei Plateau. The landuse change had a subtractive efect on crop production potential,which was particularly significant in Guanzhong Basin.Climate change led to an increase in maize production potential and a decrease in wheat productionpotential.The impact of climate change on crop production potential presented ayield-increasing ffect in Shaanbei Plateauand ayield-decreasing efect in Guanzhong Basin and Qinling-Daba Mountains.In Shaanbei Plateau,the yield-increasing efect of climate change wasthe main reason for the improvement of maize and wheat production potential；the impactof climate change on maize production potential was greater than that of wheat；the transformationoffarmland to grassand,woodlandandconstruction land was the most important land use change reasonfor decreasing crop production potential.In Guanzhong Basin,the change of crop production potential was mainlyafected by climate change；the efect of climate change on wheat production potential was greater than that of maize;however,the efect of land use change characterized by construction land occupying farmland on maize production potential was greater than that on wheat.In Qinling-Daba Mountains,land use change was the main reason forthe change of maize production potential；the change of wheat production potential was mainly affected by climatechange.Itcanbe concludedthat the production potential of maize and wheat in Shaanbei Plateau were both increased,while the crop production capacity was generally declined in other geographical units in Shaanxi Province. Moreover,the increase in crop production potential in the Shaanbei Plateau was mainly caused by climate change. The decline in the production potential of crops in other geographical units was affctedby both climate change and land use change.Byanalyzing the impactof different factors on crop production potential in diffrent geographical units,the main factors limiting the change of crop production potential in diffrent geographicalunits can be identified.This had important theoretical and practical significance fortherational useof climate resources and giving full play to the potential of crop production in order to increase food production capacity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words:production potential； climate change;land use change； Shaanbei Plateau；Guanzhong Basin； Qin-ling-Daba Mountains",
+        "page_idx": 9
+    }
+]

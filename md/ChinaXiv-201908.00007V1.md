@@ -1,0 +1,288 @@
+# 中国华北东北强干旱事件的时空演变特征及重现期分析
+
+杨歆雨，李栋梁
+
+（南京信息工程大学气象灾害预报预警与评估协同创新中心/气象灾害教育部重点实验室/气候与环境变化国际合作联合实验室,江苏南京210044)
+
+摘要：利用中国华北、东北( $1 1 0 \sim 1 4 0 ^ { \circ } \mathrm { E } , 3 4 . 5 \sim 5 5 ^ { \circ } \mathrm { N } ,$ )126个站1901—2015年月尺度标准化降水蒸散指数(SPEI-1)，去除11月到次年2月（即北方冬季)的数据后，利用聚类分析将研究区域分为东北地区中北部（I区）、东北地区南部（Ⅱ区）、华北地区南部（I区）、华北地区北部（ⅣV区）以及华北地区西部(V区)5个气候区，利用游程理论在识别单站强干旱事件的基础上,给出区域强干旱事件的识别标准,并与实际干旱事件相比较,检验方法的适用性;分析不同区域强干旱事件年代际的分布特征和演变规律;基于拟合优度最高的Copula 函数，以华北西部（V区)为例，分析其强干旱事件的重现规律;分析在相同重现期条件下，干旱历时与干旱强度的分布特征。结果表明：(1)区域强干旱事件的识别标准对于中国华北、东北强干旱事件具有较好的适用性。（2）华北北部(V区)的强干旱最为严重，且较易发生连旱事件。（3）华北西部（V区)的一般性强干旱事件有约$5 \textrm { a } { \sim } 6$ a的周期,1929年、1941年和1965年分别有一次特别严重的强干旱事件发生，其重现期分别约为 $9 4 ~ \mathrm { a } \sim 1 0 2 \mathrm { ~ a } \mathrm { , } 9 3 ~ \mathrm { a } \sim 1 0 1$ a和 $3 5 \mathrm { ~ a ~ } { \sim } 4 1 \mathrm { ~ a ~ }$ 。（4）对于2a、5a $\phantom { + } \cdot 1 0$ a $\phantom { + } \cdot 2 0$ a、50a和100a一遇的强干旱事件，华北北部(V区)的强干旱事件最为严重，华北西部（V区)次之。
+
+关键词：区域强干旱事件；华北东北；SPEI指数；重现期文章编号： 1000-6060(2019)04-0810-12(0810\~0821)
+
+干旱是最严重的自然灾害之一，据统计，气象灾害引起的损失在各类自然灾害造成的总损失中约占$8 5 \%$ ，而干旱灾害又占气象灾害的 $5 0 \%$ 左右，因此早在20世纪30年代便受到关注。中国北方是干旱易发区域，近些年大范围的持续干旱是在全球气候变暖的大背景下发生的[1],气温和潜在蒸散量的显著升高可能是导致区域不断干旱化的主要原因[2」西北地区东部、华北和东北地区以干旱化趋势为主[3-4]。华北和西北东部干旱化趋势最为显著[5-7],特别是华北地区的干旱可能还将继续维持[8]。然而人们多研究一般性的干旱事件,对于强干旱事件由于样本量较少，研究还比较薄弱。张耀宗等[9]也仅是用干旱指标 SPEI确认强干旱年份，并指出强干旱事件由1980年代之前的区域规模发展到全宁夏，且强度不断增强。
+
+对于干旱事件需要多个干旱特征量来表征，如干旱历时、干旱强度、强度峰值和干旱空间范围等。目前对干旱的描述多侧重于干旱历时和干旱强度两个方面,且多使用降水资料来描述干旱事件[10-12]然而研究发现,干旱指数能更好地描述干旱的发生发展过程[13],如 $Z$ 指数[14]、标准化降水指数（stand-ardized precipitation index, $S P I )$ [15］、帕尔默干旱指数(palmer drought severity index, $P D S I$ )[16]、降水距平（precipitation anomaly, $P A$ )[17]、综合气象干旱指数(composite index, $C I$ )[18-19]、标准化降水蒸散指数(standardized precipitation evapotranspiration index,SPEI)[20-21]等,特别是考虑了多时间尺度特征和潜在蒸散发变化影响干旱评估的SPEI指数，近年来常用于干旱事件的研究。安迪等[22]利用标准化降水蒸散指数分析了黄淮流域及周边地区近54a夏季干旱变化及其异常成因;迪丽努尔·托列吾别克等[23]利用12个月尺度的标准化降水蒸散指数SPEI-12，对中亚地区近115a气候要素进行综合分析,揭示中亚地区干湿气候的时空变化;LI等[24]利用气象台站观测资料和CRU格点资料计算的SPEI指数(SPEI-obs和SPEI-CRU)揭示了中国季节性连旱的频次、持续时间、强度等特征。
+
+另外，用于评价气候事件严重程度的重要指标一一重现期，也受到了人们的关注。早年对于重现期的计算方法存在许多缺陷，近年来，引入的全历时重现期方法[25]、多元平稳随机过程游程分析［26]模糊聚类分析[27]、马尔科夫链模型[28]等,大大丰富了重现期的研究方法，但仍存在较多的局限性。SKLAR［29]于1959 年提出的Copula 作为一种联合函数近年来被广泛地引入到水文干旱、气象干旱等研究中。Copula函数能较好的对干旱问题中的多特征量进行多元拟合，并对多变量系统进行条件概率和重现期分析。许多研究表明，游程理论和Copula函数的联合应用能够为多变量干旱特征分析提供有效的研究途径[30-31],拟合得到的干旱历时和干旱强度的联合概率分布，其计算的重现期与实际受旱状况相符[32]
+
+回顾已有的工作发现，前人对北方干旱已有足够的认识，但对于强干旱事件有针对性的研究还较为薄弱，而现今强干旱事件的频发性、持续性及严重灾害性，迫使我们不得不加快对其成灾规律的研究。因此，本文定义了单站/区域强干旱事件的识别标准，利用该标准识别了1901—2015年中国华北、东北不同区域的强干旱事件，对其时空变化特征进行研究，以期对中国北方重大干旱事件的进一步认识提供参考。
+
+# 1资料和方法
+
+# 1.1资料
+
+（1）基于中国824站地面气候资料日值数据集（V3.0），剔除缺测日数大于 $10 \%$ 的站点后，选取中国华北、东北（ $1 1 0 \sim 1 4 0 ^ { \circ } \mathrm { E }$ $3 4 . 5 \sim 5 5 ^ { \circ } \mathrm { N }$ )126站1960—2012年的逐日降水数据。
+
+(2）中国气象局气象数据中心“中国干旱灾害数据集"（http://data.cma.cn/data/detail/data-Code/DISA_DRO_DIS_CHN)中描述干旱灾害的文字、统计图表和中国特大旱发生年主要受灾范围
+
+示意图。
+
+（3）中央气象局气象科学研究院等单位共同完成的《中国近五百年旱涝分布图集1470\~2000》。
+
+（4）1901—2015年月时间尺度的标准化降水蒸散指数（SPEI-1），去除11月 $\sim$ 次年2月（北方冬季）的数据，SPEI-CRU资料来源于GlobalSPEIdatabase(http://spei.csic.es/database.html）,分辨率为 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 。SPEI由VICTENCE-SERRANO等[33]提出,考虑了潜在蒸散发(PET)的作用,可反映干旱的不同时间尺度特征,是一个较为理想的干旱指数。依据 SPEI指数的干旱等级划分见表1。
+
+# 1.2 方法介绍
+
+1.2.1游程理论YEVJEVICH[34]最早应用游程理论对干旱事件进行描述和识别。游程理论(图1)可以很容易从干旱指数中分离出干旱历时（干旱事件的持续时间)和干旱强度(干旱的严重程度）。根据已有的研究[30-34],给定干旱指标阈值 $R _ { \mathrm { 0 } } = 0 . 5$ ，$R _ { 1 } = 0 . 5 , R _ { 2 } = { } - 1 . 5$ ,当SPEI值 $< R$ 时，初步判断该月为干旱,若干旱历时仅为一个月，且其对应的SPEI大于 $R _ { 2 }$ ,则忽略不计,否则计为1次干旱;对于两次相邻干旱过程，若间隔为1个月且间隔期的$S P E I < R _ { 0 }$ ,则将这两次相邻干旱合并成1次干旱过程，否则为2次独立干旱过程，干旱历时 $D$ 指SPEI值连续小于 $R _ { 0 }$ 的月份数。干旱间隔时间 $L$ 指
+
+表1依据SPEI的干旱等级划分  
+Tab.1 Drought categories according to SPEI value   
+
+<html><body><table><tr><td>干旱 等级</td><td>无旱</td><td>轻旱</td><td>中旱</td><td>重旱</td><td>特旱</td></tr><tr><td>SPEI</td><td>> -0.50</td><td>-0.99~ -0.50</td><td>-1.00~ -1.49</td><td>-1.50~ -1.99</td><td>≤-2.00</td></tr></table></body></html>
+
+![](images/4582fa4a1fa432efd108ac22b1e7bc3b66f9d126f2a1c56e0f7d86a0f9ecd73e.jpg)  
+图1游程理论示意 Fig.1Diagram of run theory
+
+从本次干旱起始时刻至下次干旱开始时刻的间隔时间。干旱强度 $s$ 为每次干旱事件SPEI的累计和，为方便起见，干旱强度 $S \times ( \mathbf { \nabla } - 1 )$ ,使其转为正值,即：
+
+$$
+S = - \sum _ { i = 1 } ^ { D } S P E I _ { \mathrm { i } }
+$$
+
+式中： $s$ 数值越大，则表示干旱越强。
+
+1.2.2Copula 函数当选用干旱历时和干旱强度两个干旱特征变量共同来描述干旱事件时，则需要解析两者之间的联系，即计算它们的联合概率分布函数。目前,应用较广泛的是ArchimedeanCopula函数族[35-37],主要包括:Clayton Copula、Frank Copu-la 和GumbelCopula。利用样本经验概率和Copula函数联合概率的离差平方和最小来选取最优Copula函数，离差平方和最小准则表达式为：
+
+$$
+O L S \ = \ \sqrt { \frac { 1 } { n } \sum _ { i = 1 } ^ { n } { ( P _ { e i } \ - \ P _ { i } ) ^ { 2 } } }
+$$
+
+式中： $\boldsymbol { P } _ { e i }$ 是经验概率， $\boldsymbol { P } _ { i }$ 是理论概率, $n$ 是样本数,OLS 值越小说明该Copula 函数拟合度越好。表2为研究区域126个站Copula函数偏向类型的统计结果。可以看出，有超过一半的站点偏向ClaytonCopula函数类型，因此,使用ClaytonCopula函数来模拟干旱强度和干旱历时的依存关系。
+
+# 表2最优Copula函数筛选
+
+Tab.2Selection table of optimal Copulas connecting function   
+
+<html><body><table><tr><td>Copula函数类型</td><td>Clayton Copula</td><td>Frank Copula</td><td>Gumbel Copula</td></tr><tr><td>该类型Copula函数 站点数/总站点数</td><td>97/126</td><td>29/126</td><td>0/126</td></tr></table></body></html>
+
+1.2.3边缘分布函数干旱历时和干旱强度分别服从指数分布和Gamma 分布[35],累积分布函数分别为：
+
+$$
+F _ { \scriptscriptstyle D } ( d ) = 1 - \mathrm { e } ^ { - d / \lambda } , d > 0
+$$
+
+$$
+F _ { s } ( s ) = \int _ { 0 } ^ { s } { \frac { s ^ { \alpha - 1 } } { \beta ^ { \alpha } { \cal T } ( \alpha ) } } { \mathrm { e } } ^ { s / \beta } \mathrm { d } s , s > 0
+$$
+
+式中： $F _ { p } ( d )$ 为干旱历时的累计分布函数， $F _ { s } \left( s \right)$ 为干旱强度的累计分布函数。其中， $\lambda$ 是指数分布的参数； $\alpha$ 和 $\beta$ 分别是Gamma分布的形状和尺度参数，可用极大似然估计法得到，并利用Kolmogorol-Smirnov（KS)法来检验每个边缘分布的拟合优度。
+
+干旱历时、干旱强度的联合分布函数和联合超越概率分别为：
+
+$$
+F _ { _ { D S } } ( d , s ) = ( F _ { _ { D } } ^ { - \theta } ( d ) + F _ { s } ^ { - \theta } ( s ) - 1 ) ^ { - 1 / \theta } ,
+$$
+
+$$
+\scriptstyle \theta \geq 0
+$$
+
+$$
+P ( D \geqslant d , S \geqslant s ) = 1 - F _ { \scriptscriptstyle D } ( d ) - F _ { \scriptscriptstyle S } ( S ) +
+$$
+
+$$
+F _ { { d s } } \left( d , s \right)
+$$
+
+式中： $F _ { D S } ( d , s )$ 为联合分布函数， $P ( D > d , S > s )$ 为联合超越概率， $\theta$ 是用来衡量 $F _ { p } ( d )$ 和 $F _ { s } ( s )$ 关联程度的参数。
+
+1.2.4重现期2001年SHIAU和 $\mathrm { S H E N } ^ { [ 3 6 ] }$ 推导出了干旱历时和干旱强度单变量重现期公式：
+
+$$
+T _ { \scriptscriptstyle D } = E ( L ) / ( 1 - F _ { \scriptscriptstyle D } ( d ) )
+$$
+
+$$
+T _ { s } = E ( L ) / ( 1 - F _ { s } ( s ) )
+$$
+
+式中： $T _ { \scriptscriptstyle D }$ 为干旱历时的单变量重现期， $T _ { s }$ 为干旱强度的单变量重现期， $L$ 为干旱间隔， $E ( L )$ 为干旱间隔的数学期望值。
+
+在干旱特征的分析中往往需考虑多个干旱特征量来分析干旱的重现期，因此本文引入干旱历时和干旱强度的联合属性和条件属性。2006年SHIAU提出基于Copula函数的干旱历时和干旱强度联合分布的重现期可以分为两种情况[37]： $D \geqslant d$ 或 $S \geqslant s$ 和 $D \geqslant d$ 且 $S \geqslant s$ ，对应的公式如下：
+
+$$
+T _ { \scriptscriptstyle D S } = E ( L ) / ( 1 - F _ { \scriptscriptstyle D S } ( d , s ) )
+$$
+
+$$
+\begin{array} { l } { { T ^ { \prime } { } _ { { D S } } } = E ( L ) / ( 1 - F _ { D } ( d ) - F _ { s } ( S ) } \\ { \quad \quad + F _ { D S } ( d , s ) ) } \end{array}
+$$
+
+式中： $T _ { p s }$ 和 $\boldsymbol { T ^ { \prime } } _ { D S }$ 分别为干旱历时和干旱强度的联合重现期和同现重现期。本文主要分析强干旱事件的同现重现期。
+
+# 2 强干旱事件的识别
+
+利用聚类分析法将中国华北、东北（ $1 1 0 \sim$ $1 4 0 ^ { \circ } \mathrm { E } , 3 4 . 5 \sim 5 5 ^ { \circ } \mathrm { N } ) 1 2 6$ 个站点的 $3 \sim 1 0$ 月（去除北方冬季)SPEI指数进行聚类，将研究区域分为5个气候区，分区结果如图2所示。其中I区为东北地区中北部,包括内蒙古东部、吉林省北部和黑龙江省；Ⅱ区为东北地区南部，包括吉林省大部和辽宁省；Ⅲ区为华北地区南部,主要包括北京、天津、河北大部、山东省以及河南省北部；V区为华北地区北部，包括内蒙古中部和河北北部；V区为华北地区西部，包括山西、内蒙古和河北的部分地区。对于站点强干旱事件，当其 $S P E I \leqslant - 1 . 5$ 时，则认为该站点发生了一次强干旱事件。以区域站点SPEI指数的平均值代表所在区的SPEI平均水平。根据游程理论，区域干旱事件的等级划分如表3所示：
+
+![](images/20a6e06b0545c52534ac5463847ae06672c21b6ec36635ad69c39cfd2df38cf5.jpg)  
+图2中国华北、东北干旱气候分区及126个站点分布情况 Fig.2Regional division in North China,Northeast China and distribution of 126 stations
+
+表3依据干旱历时 $s$ 和干旱强度 $\textbf {  { D } }$ 的区域干旱等级划分  
+
+<html><body><table><tr><td>干旱等级</td><td>无旱</td><td>轻旱</td><td>中旱</td><td>重旱或特大旱</td></tr><tr><td>干旱历时/mon</td><td>D<2</td><td>D≥2</td><td>D≥2</td><td>2≤D<3,S≥2;</td></tr><tr><td>干旱强度</td><td></td><td>1≤S<1.5</td><td>1.5≤S<2</td><td>D≥3,S≥2.5</td></tr></table></body></html>
+
+根据表3的标准，当区域干旱事件的干旱历时$D = 2$ 、干旱强度 $\scriptstyle { S \geq 2 }$ 或干旱历时 $D \geqslant 3$ 、干旱强度 $s$ ${ \geqslant } 2 . 5$ 时，则认为该区域发生了一次强干旱事件。
+
+利用1901—2015年的标准化降水蒸散指数(SPEI)客观识别出的区域强干旱事件与“干旱灾害数据集"提供的历史上(1949一1999 年)发生的重大强干旱事件的年份比较，结果如表4所示。可以看出，“干旱灾害数据集”给出的年份与同期客观识别结果还是非常一致的（表4各区第1列加粗斜体字所示），但有部分年份客观方法与“干旱灾害数据集”不尽一致。
+
+如Ⅱ区的1952、1958、1960 年，其中1960 年是“干旱灾害数据集”中有记载，但客观方法未能识别出，原因是1960年的强干旱事件发生在辽西、冀东北、内蒙古东南部,只占Ⅱ区的一部分,而本文用于识别区域强干旱事件的SPEI指数值为区域的平均状况，小范围干旱事件被平均掉了；1952，1958年是客观方法识别有干旱，但干旱灾害数据集中没有记载。1952年的干旱时段为5～8月，其中5月和8月区域内大部分站点的SPEI值为一个绝对值较大的负值，6、7月也有部分站点发生了干旱，平均后也还有干旱发生，但“干旱灾害数据集”中未有记载，原因可能是其余月份的降水量正常，对农业或水资源的影响不大。因此可以认为客观识别标准对区域性的强干旱事件具有一定的适用性，但仍需结合实际情况使用。
+
+为了进一步对区域强干旱事件的干旱特征进行分析，图3显示了不同区域干旱历时、干旱强度和干旱次数的平均水平。可以看出，平均干旱历时的最大值出现在华北南部（即Ⅲ区），但平均干旱强度的最大值及发生强干旱事件平均次数最多的是华北西部（V区），东北中北部（I区)干旱次数最少。在识别出的干旱事件中，最大的干旱历时为8个月，最大干旱强度为14.33，均出现在1940年的华北西部（V区）。因此可以认为，华北西部（V区)的强干旱事件较为严重。
+
+Tab.3Regional drought categories according to drought duration and drought severity   
+表4客观识别与干旱灾害数据集中的强干旱事件发生年份对比  
+Tab.4Comparison of the years of occurrence of strong drought events between objective identification   
+
+<html><body><table><tr><td colspan="9">methods and drought disaster datasets</td></tr><tr><td>区域</td><td>客观识别出的干旱年份 (1901—2015)</td><td colspan="5">干旱灾害数据集中的干旱 年份(1949—1999)</td><td colspan="2">客观识别与干旱灾害数据集 共有年份(1949—1999)</td></tr><tr><td>I区</td><td>1906 1909 19141917 1919 1925 1933 1950 1965 1977 1979 1982 1993 2001 2007 2011 2014</td><td>1950 1965 1982 1993</td><td></td><td></td><td></td><td></td><td>1950 1965 1982 1993</td><td></td></tr><tr><td>Ⅱ区</td><td>1901 1906 1913 1917 1920 1925 1926 1935 1952 1958 1965 1967 19721980 1982 1997 1999 2000 2001 2009 2014</td><td>1960196519671972 1980 1997 1999</td><td></td><td></td><td></td><td></td><td>1999</td><td>196519671972 1980 1997</td></tr><tr><td>Ⅲ区</td><td>190219031913191719201927192919351936193919411943 1947 1957 1962 1965 1968 1972 1981 1997 1999 2000 2002 2006 2011</td><td>196219651972 1980 1997 1999</td><td></td><td></td><td></td><td></td><td></td><td>196219651972 19971999</td></tr><tr><td>Ⅳ区</td><td>1928 1929 1935 1957 1961 1962 1965 1967 1972 1980 1982 1985 1986198719891993 199419951997 2000 2001 2002 2005 2007 2009 2010 2011 2014 2015</td><td>196219651972 1997</td><td></td><td></td><td></td><td>1980 1991</td><td>1962 1965 1972 1980 1997</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1993</td><td></td><td></td><td></td><td></td></tr><tr><td>V区</td><td>1920 192119241925 192719291935 1936 1940 19411943 1947</td><td>1950 1955 1962</td><td></td><td></td><td>19651968</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>19501955 1962 19651968</td></tr><tr><td></td><td></td><td>1972</td><td>1980</td><td></td><td>1995</td><td>1997</td><td></td><td></td></tr><tr><td></td><td>1950 195519571962 19651968 1972 1976 198619911993 1995</td><td></td><td></td><td></td><td></td><td></td><td>1972 1993199519971999</td><td></td></tr><tr><td></td><td>19971999 2001 2002 2010 2015</td><td>1999</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/e4e903058db20ea8be69ce7bc74dec1cb37aa5002be342c45ff19edb9cb442af.jpg)  
+图3中国华北、东北不同区域干旱历时、干旱强度和干旱次数的平均状况
+
+![](images/b52f5108ae39b68ee0102df81d5ee792eff07d24f352533c7f7b1a2a9dd0591d.jpg)  
+g.3Averageconditionofdroughtduration,droughtseverityanddroughtimesindiferentregionsofNorthChina,NortheastChir   
+图41901—2015年中国华北、东北各年代干旱特征量的演变  
+Fig.4Evolutionof drought characteristicvariables ineach periodfrom19Olto2O15inNorth China,Northeast China
+
+结合游程理论对研究区域1901—2015年间126站点的强干旱事件进行逐站识别，中国华北、东北在20世纪00年代至21世纪00年代后强干旱事件的干旱特征量（干旱次数、平均干旱历时和平均干旱强度)的年代际变化如图4所示。可以看出，各干旱特征量的变化趋势基本一致，20世纪70 年代之前，每20a的时期，各干旱特征量值会有一个整体上升或者下降趋势，最大平均干旱强度和干旱历时出现在20世纪20年代和60年代；70年代后平均干旱历时和强度只有一些轻微的变化,但干旱次数在21世纪有明显增多现象。总体上看，115a来研究区域平均干旱间隔时间约为1.4a,平均干旱历时 $1 . 2 \ \mathrm { m o n }$ ,平均干旱强度达2.0,即达到特旱标准(标准参考表1），且这126站中有121站最大干旱历时大于3个月（包括3个月），干旱历时最长达到8个月。
+
+# 3强干旱事件的分布特征及演变规律
+
+结合强干旱事件的识别标准和游程理论，得到各年代强干旱事件的干旱特征（干旱次数、平均干旱历时和平均干旱强度)的分布。20 世纪00 年代（图5a,6a,7a），东北地区部分区域发生强干旱事件次数较多，旱情也较为严重;20世纪10年代（图5b，6b,7b），发生强干旱事件次数较多的地区几乎覆盖了整个东北，且扩张到华北地区;到20年代（图5c，6c，7c），华北北部和东北南部强干旱事件发生频次明显增多，华北南部和东北中北部强干旱事件持续时间较长，强度较强，旱情最为严重;到了30年代(a)1901—1909;(b)1910—1919;(c)1920—1929;(d)1930—1939;(e)1940—1949;(f)1950-1959;(g)1960-1969;(h)1970-1979;
+
+![](images/1bb08f8a4aad57a655e15de42c46ba1c4d8fa11929406d2d8a69d5868c3cdd1c.jpg)  
+图51901—2015 年中国华北、东北各年代干旱次数分布(次)
+
+![](images/3b8a13ef615b6b8316acf61a8a37df7b0b5452e702b4fe17f4f8ac9c4788fa69.jpg)  
+Fig.5Distribution of drought times(unit:times）in North China,Northeast China from 190l to 2015   
+图61901—2015 年中国华北、东北各年代平均干旱历时分布（月)  
+Fig.6Distribution of average drought duration in North China,Northeast China from 19Ol to 2015
+
+(a)1901-1909;(b)1910—1919;(c)1920—1929;(d)1930—1939;(e)1940—1949;(f)1950-1959;(g)1960-1969;(h)1970-1979; (i)1980—1989；(j)1990—1999；(k)2000—2015
+
+![](images/76c753e91f0b8789d7b2632f2c1cbbb95a3d1eb7ac6f4a9c1edd353fd0d1b807.jpg)  
+图71901—2015 年中国华北、东北各年代平均干旱强度分布
+
+(a)1901—1909;(b)1910—1919;(c)1920—1929;(d)1930—1939;(e)1940-1949;(f)1950-1959;(g)1960-1969;(h)1970—1979; /:)1000 3015
+
+![](images/d720e6531a6f818ce433ef41f7416975e5e5095758d0c9a4ca45dd29cb770580.jpg)  
+Fig.7Distribution of average drought severity in North China,Northeast China from 19O1 to 2015   
+图81901—2015 年中国华北、东北115a的干旱特征属性分布
+
+(a)平均干旱历时(mon);(b)平均干旱强度;(c)最大干旱历时(mon);(d)最大干旱强度;(e)干旱次数(次);(f)平均干旱间隔(mon）Fig.8Distributionof drought characteristics inthepast115years inNorth China,Northeast China from190lto 2015（图5d，6d，7d），旱情整体有所缓解；40年代（图5e,6e,7e)旱情又有所加剧，东北南部干旱次数依然偏多，华北西部和南部发生强干旱事件较为严重；50年代(图5f,6f,7f)仅有华北北部多发生强干旱事件;60年代（图 $5 \mathrm { g } , 6 \mathrm { g } , 7 \mathrm { g } )$ 旱情加剧,强干旱事件发生次数基本呈现全区增多趋势，特别是华北北部强干旱事件频发,东北中部和南部旱情严重;70 年代（图5h，6h，7h）旱情又有所减轻；到了80年代（图5i,6i,7i)，仅东北北部存在一些较为严重的干旱事件，而干旱次数均有所减少；而90 年代(图5j)华北北部干旱次数偏多，21世纪（图 $5 \mathrm { k \Omega }$ )研究区域强干旱事件发生次数进一步增多，特别是华北北部、华北西部和东北中北部;20 世纪90 年代至21世纪旱情总体增强，分布较为均匀（图6j，7j,6k，7k），但只有小范围地区存在持续时间较长的强干旱事件。余卫红等[5],符崇斌等[6],马柱国等[7],罗健等[8],也证明60年代以来中国北方大部进入了一个相对较长的干旱阶段，80年代中期以来，干旱次数异常增多，干旱化的趋势不断加剧。本文给出了1901—2015 年不同年代强干旱事件的分布情况，更加清晰地看出强干旱事件在一个较长时间尺度下的年代际演变规律及其分布特征。
+
+图8显示了研究区域115a多个干旱属性的分布情况，可以看出，干旱历时(图8a,8c)与干旱强度(图8b，8d)的分布情况大致相同，大值区基本位于华北北部和华北西部，表明干旱持续时间越长的干旱事件其干旱强度也越强。干旱次数(图8e)与干旱间隔(图8f)呈相反的分布，其中华北北部、东北南部干旱次数较多，但华北北部的干旱间隔相对较短，因此可以认为该地区易发生连旱事件。
+
+综上，华北北部的强干旱事件最为严重，该区域在20世纪60年代有一个较为明显的增强形势，之后旱情虽有所减缓,但相比其他区域旱情仍比较严重，且该区域较易发生连旱事件，需重点关注。
+
+# 4强干旱事件重现期的演变规律和分布特征
+
+# 4.1 区域强干旱事件重现期的演变规律
+
+本文选取ClaytonCopula函数用以拟合干旱强度和干旱历时的联合分布，以此分析强干旱事件的重现期问题。以旱情较为严重的华北西部（V区)为例，首先利用区域强干旱事件的定义初步识别出该地区强干旱事件的干旱历时、干旱强度以及干旱间隔，然后基于SPEI指数序列，利用极大似然法计算出公式(3）～（5)中干旱历时和干旱强度的累计分布函数以及它们的联合分布函数的参数，再将识别出的干旱历时与干旱强度值代入公式（3）～（5），得到其累计分布函数和联合分布函数，最后代入公式(10)计算出其重现期值(表5）。其中1929 年、1941年和1965 年华北西部分别发生了一次特别严重的强干旱事件，其中1929年的重现期约为 $9 4 \sim$ 102a,1941年的重现期约为 $9 3 \sim 1 0 1 \$ a,1965年的重现期约为 $3 5 \sim 4 1 \mathrm { ~ a ~ }$ 。参考《中国近五百年旱涝分布图集》，这3a华北西部确实发生了严重的干旱，特别是1929年和1941年，可谓是“百年不遇”的强于旱事件，其可能重现期分别大约在21世纪20 年代和30年代。1965年的干旱事件似乎在上世纪末至本世纪初（1999一2000年)已经重现了。其余的一般性强干旱事件存在约5\~6a的周期。
+
+# 表5华北西部三次特别严重干旱事件的干旱历时、干旱强度和重现期
+
+Tab.5Drought duration,drought severity and return period for three particularly strong drought events in the western part of North China   
+
+<html><body><table><tr><td>干旱年份</td><td>干旱历时/mon</td><td>干旱强度</td><td>重现期/a</td></tr><tr><td>1929</td><td>7</td><td>7.97 ∈[7.9,8]</td><td>[94,102]</td></tr><tr><td>1941</td><td>8</td><td>7.91∈[7.9,8]</td><td>[93,101]</td></tr><tr><td>1965</td><td>5</td><td>6.79 ∈[6.7,6.8]</td><td>[35,41]</td></tr></table></body></html>
+
+为了进一步分析3次特别严重干旱事件的重现期，本文将1929、1941和1965年的SPEI指数序列单独进行识别，得到各站点的干旱历时与干旱强度，再进行平均得到新的区域干旱历时与干旱强度，并计算其重现期(表5)，最终得到华北西部强干旱事件干旱历时、干旱强度及其同现重现期变化情况（图9）。
+
+![](images/4c0c83ee20b0c75f35f6b7159cbd195f78a9071f66c4d4461dbd18c744f5bf93.jpg)  
+图9华北西部强干旱事件平均干旱历时、干旱强度及其重现期变化
+
+Fig.9Average drought duration,averagedroughtseverityand returnperiod of events inthe western partof North Chi
+
+![](images/85abe569f5cc13faada4df4c86f3bfe40cfacb0c49fc8c03d68b709b6fc74a72.jpg)  
+图10单变量重现期分别为2a $\cdot ^ { 5 }$ a $\phantom { + } \cdot 1 0$ a $\phantom { - } . 2 0$ a $\phantom { + } \sqrt { 5 0 }$ a $\cdot 1 0 0$ a 时干旱历时(月)与干旱强度的分布(al）、(b1）、(c1）、(d1）、（e1）、(f1)为干旱历时；(a2）、（b2）、（c2）、（d2）、（e2）、（f2)为干旱强度g.10Distributionof drought duration and drought severity when single variable recurrence periods were 2a,5a,10a20 a,50 a and 10O a respectively
+
+# 4.2相同重现期下强干旱事件的分布
+
+假定干旱历时和干旱强度单变量重现期分别为2 a、5 a、10 a $\phantom { - } . 2 0$ a $\phantom { + } \sqrt { 5 0 }$ a $\phantom { + } \cdot 1 0 0 \textrm { a }$ ，可以根据公式（7）和（8），求其逆函数，得到干旱历时与干旱强度。图10显示了干旱历时和干旱强度的分布情况，可以看出不论是多少年一遇的强干旱事件，干旱历时与干旱强度的高值区基本位于华北北部和华北西部，其中华北北部的旱情最为严重，华北西部次之
+
+别出了干旱灾害数据集以外的重大干旱事件，一定程度上丰富了干旱灾害信息
+
+（2）华北北部和东北南部干旱次数较多，且华北北部的强干旱最为严重，易发生连旱事件。
+
+（3）利用游程理论和Copula函数建立的干旱历时和干旱强度联合分布函数，可以揭示干旱事件的重现期，且干旱历时越长、强度越强，其重现期越远。
+
+# 5结论
+
+本文给出了强干旱事件的识别标准，利用该标准识别了1901—2015年中国华北、东北区域性强干旱事件，分析了强干旱事件的分布特征和演变规律，主要结论如下：
+
+（1）提出了区域强干旱事件的识别标准，对中国华北、东北地区的强干旱事件有较好的适用性，识
+
+（4）华北西部的一般性干旱事件存在约5\~6a的周期，1929年、1941年和1965年发生了3次特别严重的干旱事件,其重现期分别为 $9 4 \sim 1 0 2 \$ a $, 9 3 \sim$ 101a和 $3 5 \sim 4 1 \mathrm { ~ a ~ }$ 。
+
+(5）在假定干旱历时和干旱强度单变量重现期分别为2a $\cdot ^ { 5 }$ a、10 a $\phantom { - } , 2 0$ a $\phantom { + } \sqrt { 5 0 }$ a、100a时，华北北部的旱情最为严重，华北西部次之。
+
+本文主要对中国华北、东北强干旱事件的分布特征和演变规律进行了分析，但文中提出的识别标准还需要不断完善，个别干旱事件的重现结果存在一定的不确定性，原因可能有二：其一，SPEI指数和Copula模型参数均使用了区域站点平均值，强干旱事件有时只发生在区域内个别台站，其对于整个区域的影响不一，因此该识别标准识别出的强干旱事件并不能与干旱灾害数据集中的重大干旱事件完全对应;其二,关于区域强干旱事件形成原因，这里没有分析，将在之后的研究中进一步讨论和完善。
+
+# 参考文献(References)
+
+[1］李维京，赵振国,李想,等.中国北方干旱的气候特征及其成因 的初步研究［J].干旱气象,2003,21（4）：1-5.［LIWeijing, ZHAO Zhenguo,LI Xiang,et al. The drought characteristics analysisin North China and its causes of formation[J].Arid Meteorology,2003,21(4) :1-5.]
+
+[2]薛海丽,张钦,唐海萍.近60a内蒙古不同草原类型区极端气 温和干旱事件特征分析[J].干旱区地理,2018,41（4)：701- 710.［XUE Haili,ZHANG Qin,TANG Haiping.Extreme temperatureand drought events in four different grassland areas of Inner Mongoliain in recent 6O years[J].AridLand Geography,2018,41 (4):701-710.]
+
+[3］王文,王劲廷.1951—2009 年中国地表湿润状况变化趋势研究[J].气象与环境学报,2011,27（5）:1-6.[WANGWen,WANG Jinting.Variation trend of surface humid index in Chinafrom1951 to 2Oo9［J].Journal of Meteorology and Enviroment,2011,27(5):1-6.]
+
+[4］胡实,莫兴国,林忠辉.未来气候情景下我国北方地区干旱时空变化趋势［J].干旱区地理，2015，2（38）：239－248.［HUShi,MO Xingguo,LIN Zhonghui.Projections of spatial-temporalvariation of drought in north China[J].Arid Land Geography,2015,2(38):239-248.]
+
+[5］余卫红,方修琦.近50 年我国北方地区旱涝的时空变化[J].北京师范大学学报（自然科学版），2001，37（6）：838-842.[YUWeihong,FANG Xiuqi.The temporal and spatial change ofdrougjt-flood in northern China foe the last 5O years[J]. Journal ofBeijing Normal University（Natural Science）,2OO1,37(6）:838-842.]
+
+[6]符淙斌,安芷生,郭维栋.我国生存环境演变和北方干旱化趋 势[J].地球科学进展,2005,20（11）：1157-1167.［FUCongbin,AN Zhisheng,GUO Weidong.Evolution of life-supporting environment in our nation and the predicitive study of aridification in Northern China(I）:Main scientific issues and achievements[J]. Advances in Earth Science,2005,20(11）:1157-1167.]
+
+[7］马柱国,符淙斌.1951—2004 年中国北方干旱化的基本事实 [J].科学通报,2006,51（20）:2429-2439.[MAZhuguo，FU Congbin.Basic facts of aridification in northern China from1951— 2004［J].Chinese Science Bulletin,2006,51（20）:2429- 2439.]
+
+[8］罗健,郝振纯.我国北方干旱的时空分布特征分析[J].河海大 学学报,2001,29(4）:61-66.[LUO Jian,HAO Zhenchun. Study on characteristics of spatial and temporal distribution of drought in north China[J]. Journal of Hohai University,2001,29（4）:61- 66.]
+
+[9]张耀宗,张勃,刘艳艳,等.1960—2012年宁夏强干旱时空格局 及影响因素分析[J].灾害学,2016,31（1)：120 －127. [ZHANG Yaozong,ZHANG Bo,LIU Yanyan,et al. Spatial and temporal pattern of strong drought and its influence factors in Ningxia from 1960—2012[J]. Journal of Catastrophology,2016,31 (1):120 -127.]   
+[10］马明卫.Meta-elliptical copulas 函数在干旱分析中的应用研究 [D].杨凌：西北农林科技大学,2011.［MA Mingwei.Drought characteristics analysis using Meta-elliptical Copulas[D].Yangling：Northwest A&F University,2011.]   
+[11］张雨,宋松柏.Copulas 函数在多变量干旱联合分布中的应用 [J].灌溉排水学报,2010,29（3）:64-68.[ZHANG Yu,SONG Songbai.Application of archimedean Copulas in multi-variable drought distribution[J].Journal of Irrigation and Drainage,2010, 29(3):64 -68.]   
+[12］于艺,宋松柏,马明卫.Archimedean 族 Copulas 函数在多变量 干旱特征分析中的应用[J].水文,2011,31（2):6-10.[YU Yi,SONG Songbai,MA Mingwei.Archimedean Copulas for drought characteristicsanalysis[J].Journal of China Hydrology,2011,31 (2):6-10.]   
+[13］陆桂华,闫桂霞,吴志勇,等.基于Copula 函数的区域干旱分析 方法［J].水文科学进展,2010,21（2）:188-193.[LU Guihua, YAN Guixia,WU Zhiyong,et al. Regional drought analysis approach based on Copula function[J].Advances in Water Science, 2010,21(2) :188 -193.]   
+[14］蒋慧敏,刘春云,贾健,等.乌鲁木齐地区夏季气象干旱的变化 特征及成因分析[J].干旱区地理,2018,41（4）:693－700. [JIANG Huimin,LIU Chunyun,JIA Jian,et al.Characteristics and causes of meteorological drought in summer in Urumqi[J].Arid Land Geography,2018,41（4） :693-700.]   
+[15］林盛吉.基于统计降尺度模型的钱塘江流域干旱预测和评估 [D].杭州:浙江大学,2011.［LIN Shengji.Drought analysis using statistical downscaling models in Qiantang River Basin[D]. Hangzhou: Zhejiang University,2011.]   
+[16］余敦先,夏军,杜鸿,等.黄河流域极端干旱的时空演变特征及 多变量统计模型研究[J].应用基础与工程科学学,2012,20： 15-29.[SHE Dunxian,XIA Jun,DU Hong,et al.Spatio-temporal analysis and multi-variable statistical models of extreme drought events in Yellow River Basin,China[J].Journal of Basic Science and Engineering,2012,20:15 -29.]   
+[17］张玉虎,刘凯利,陈秋华,等.区域气象干旱特征多变量Copula 分析——以阿克苏河流域为例[J].地理科学,2014,34（12）： 1480 -1487.[ZHANG Yuhu,LIU Kaili,CHEN Qiuhua,et al. Bivariate probability distribution of meteorological drought characteristics in the Aksu Basin using Copula[J].Scientia Geographica Sinica,2014,34(12) :1480 -1487.]   
+[18］王文静,延军平,刘永林,等.基于综合气象干旱指数的海河流 域干旱特征分析[J].干旱区地理,2016,2（39)：337-344. [WANG Wenjing,YAN Junping,LIU Yonglin,et al.Characteristics of droughts in the Haihe Basin based on meteorological drought composite index[J].Arid Land Geography,2016,2（39）:337 - 344.]   
+[19］蔡新玲,李茜,方建刚.陕西区域性气象干旱事件及变化特征 [J].干旱区地理,2016,2（39）:294-300.[CAI Xinling,LI Qian,FANG Jiangang. Variation characteristics of regional meteorological drought events of ShaanxiProvinceJ].Arid Land Geography,2016,2(39):294-300.]   
+[20]何鑫,吴吉东,李颖,等.基于 SPEI的辽西地区气象干旱时空 分布特征[J].干旱区地理,2017,2（40）:340-347.[HE Xin, WU Jidong,LI Ying,et al. Spatio-temporal distribution characteristics of meteorological drought in western region of Liaoning Province based on standardized precipitation evapotranspiration index [J].Arid Land Geography,2017,2(40）:340 -347.]   
+[21］高涛涛,殷淑燕,王水霞.基于 SPEI指数的秦岭南北地区干旱 时空变化特征[J].干旱区地理,2018,4（41)：761-770.［GAO Taotao,YIN Shuyan,WANG Shuixia.Spatial and temporal variations of drought in northern and southernregions of Qinling Mountains based on standardized precipitation evapotranspiration index[J].Arid Land Geography,2018,4(41） :761-770.]   
+[22]安迪,李栋梁,王自强,等.基于 SPEI的黄淮地区夏季干旱时 空异常特征及成因[J].干旱气象,2018,36(4）：544-553. [AN Di,LI Dongliang,WANG Ziqiang,etal. Spatial and temporal Characteristics of summer drought anomaly andits causes based on SPEI in Huang-Huai area[J].Journal of Arid Meteorology,2018, 36(4) :544 -553.]   
+[23］迪丽努尔·托列吾别克，李栋梁.近115a中亚干湿气候变化 研究[J].干旱气象,2018,36（2）：185-195.［TUOLIEWUBIEKE Dilinuer,LI Dongliang.Characteristics of dry/wet climate change in Central Asia in recent 115 years[J]. Journal of Arid Meteorology,2018,36(2）:185-195.]   
+[24]LI X,LI D,LI X,et al. Prolonged seasonal drought events over northern China and their possible causes[J]. International Journal of Climatology,2018,38（13）:4802-4817.   
+[25］冯国章.多年持续干旱历时的概率分布与重现期确定方法的 研究[J].水文,1995,16:6-14.[FENG Guozhang.A study on probability distribution of persistent multi-year drought durations and method fordeterminationof itsreturn periods[J].Hydrology, 1995,16:6 - 14. ]   
+[26］张学成,马秀峰,丁晶,等.多元平稳随机过程游程计算方法的 探讨及其应用[J].水科学进展,1996,7（3）：231－238. [ZHANG Xuecheng,MA Xiufeng,DING Jing,et al.An approach to calculate runs in multi-dimensional random processes and its application in drought events research[J].Advances in Water Science,1996,7(3) :231-238.]   
+[27］朱廷举,胡和平.基于随机模拟和模糊聚类的水文干旱特性分 析[J].清华大学学报（自然科学版）,2001,41（8）：103－106. [ZHU Tingju,HU Heping.Drought analysis basedonstochastic simulation and fuzzy classification[J]. Journal of Tsinghua University Science and Technology,2001,41（8）:103 -106.]   
+[28］孙鹏,张强,白云岗,等.基于马尔科夫模型的新疆水文气象干 旱研究［J].地理研究,2014,33（9）：1647-1657.［SUNPeng, ZHANG Qiang,BAI Yungang,et al. Transitional behaviorsof hydrometeorological droughts in Xinjiang using the Markov chain model[J]. Geographical Research,2014,33（9）:1647 -1657.]   
+[29]SKLAR A.Fonctions derépartition an dimensionset leus marges [J].Publications del'Institut de Statistique del'Université de Paris,1959,8:229 - 231.   
+[30］徐春晓,袁潇晨,金菊良,等.基于Copula 的区域干旱空间分布 特征分析［J].资源科学,2011,33（12）：2308－2313.［XU Chunxiao,YUAN Xiaochen,JIN Juliang,etal.Analysis of characteristics of spatial distribution of drought based on Copula[J].Resources Science,2011,33（12） :2308 -2313.]   
+[31］周玉良,袁潇晨,金菊良,等.基于Copula 的区域水文干旱频率 分析［J].地理科学,2011,31（11）：1383－1388.［ZHOU Yuliang,YUAN Xiaochen,JINJuliang,etal.Regional hydrological drought frequency based on Copulas[J].Scientia Geographica Sinica,2011,31(11) :1383 -1388.]   
+[32］李天水,王顺,庄文化,等.游程理论和Copula 函数在二维干旱 变量联合分布中的应用[J].干旱区域资源与环境,2016,30 (6）:77 -82.[LI Tianshui,WANG Shun,ZHUANG Wenhua,et al.Application of the theory of run and Copula function to the joint distribution of two-dimension drought variables[J].Journal of Arid Land Resources and Environment,2016,30(6）:77 -82.]   
+[33]VICENTE-SERRANO S M,BEGUERIA S,LOPEZ-MORENO JI. A multiscalar drought index sensitive to global warming:The standardized precipitation evapotranspiration index[J]. Journal of Climate,2010,23(7) :1696 -1718.   
+[34]YEVJEVICH V.An objective approach to definitions and investigations of continental hydrologic droughts[J]. Journal of Hydrology, 1969,7(3) :353.   
+[35]SHIAU JT,MODARRES R.Copula-based drought severity-duration-frequencyanalysis in Iran[J].Meteorlogical Applications, 2009,16(4) :481-489.   
+[36]SHIAU JT,SHEN H W.Recurrence analysis of hydrologic droughts of differing severity[J].Journal of Water Resources Planning and Management,2001,127(1）:30-40
+
+[37］SHIAU JT.Fitting drought duration and severity with two-dimensional Copulas[J].Water Resources Management,2OO6,20（5）： 795-815.
+
+# Temporal and spatial evolution characteristics of strong drought events in north and northeast China
+
+YANG Xin-yu，LI Dong-liang   
+(Collborative Innovation CenteronForecastandEvaluationof MeteorologicalDisasters(CIC-FEMD)/KeyLaboratoryof   
+MeteorologicalDisaster,MinistryofEducation（KLME）/JointInternationalResearchLaboratoryofClimateandEnvironment Change（ILCEC）,Nanjing Universityof Information Science&Technology,Nanjing 21O044,Jiangsu,China)
+
+Abstract：In the eastern partof northwest,north China and northeast China,there is a trendof drought,and the trend of drought is the most significant in north Chinaand theeastern part of northwest China.Especialy,the drought in north China may remain a long time.Therefore,the studyon severe drought events and their recurrence periods is of great importance.Using the Standardized Precipitation Evapotranspiration Index（SPEI-1）from the 126 stations innorth and northeastChina from 1901 to 2O15［the data from Novemberto February（Winter in northern China）was removed],the studyarea was divided into 5climatic zones basedon the clusteranalysis:The north-centralof northeastern China（I）,the southern part of northeast China（II）,the southern partof north China （(III）,the northern part of north China（IV）,and the western partof north China（V）.The identificationcriteriaof regional severedrought events were defined based onthe identification ofthe strong drought events of a single stationusing run theory.Theapplicability of the method was verified by comparing it with theactual drought events and the distribution characteristics and evolution lawof the strong drought events in diferent regions were analyzed. Based onthe Copula function with the best fiting goodness,the western part of north China（V）was taken as an example to analyzethe recurence law ofthe strong drought events and the distributioncharacteristics of drought duration and drought severity under the same recurrence interval conditions.The results show as follows:（1）The identification criteria of regional strong drought events demonstrated good applicabilityto the strong drought events in NC and the identified major drought events outside the Drought Disaster Dataset enriched the drought disaster database to some extent.（2）In the 192Os,194Osand 1960s,strong drought events tended to increase,and the number of droughts was increased significantly in the $2 1 ^ { \mathrm { { s t } } }$ century.The northern part of north China and the southern part of northeast China suffered from more droughts,but the northern partof north China（IV）had the strongest drought and was prone to have prolonged drought events.（3）The general strong drought event in western part of north China（V）has a recurrence period of about 5 years to 6 years.In 1929,1941 and 1965,respectively,a particularly serious drought occurred with a recurrence interval being about 94 years to102 years,93 years to101 years and 35 years to 41 years respectively.The Yearly Charts of Dryness/Wetness in China for the Last 5OO-year Period shows thatserious droughtdid occurin these three years,this further provedthereliabilityof the identificationcriteria. (4）For the strong drought events with arecurrence period of2 years,5 years,10 years,2O years,5O years and 100 years respectively,allthe strong drought events were most serious in the northern part of north China (IV）,followed by those in the western partof north China（V).This paper can provide theoretical basis and reference for further understanding of major drought events in northern China.
+
+Key words:regional strong drought events； north China and northeast China； SPEI index；return period

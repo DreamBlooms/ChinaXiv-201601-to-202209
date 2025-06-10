@@ -1,0 +1,198 @@
+# 安徽省森林碳储量现状及固碳潜力
+
+汲玉河1,2 郭　柯1\*倪健³徐小牛4 王志高5 王树东
+
+1中国科学院植物研究所植被与环境变化国家重点实验室，北京 100093；中国气象科学研究院，北京 1081；3中国科学院地球化学研究所环境地球化学国家重点实验室，贵阳 550081；4安徽农业大学，合肥 230036；安庆师范学院，安徽安庆 246001；中国科学院遥感与数字地球研究所，北京100101
+
+摘要研究采用野外样地调查和BIOME4模型方法，拟阐明安徽省不同林龄的森林生态系统的碳储量现状，以及现有自然环境条件下顶极森林生态系统的固碳潜力。研究发现：安徽省森林生态系统的现状总碳储量为 $7 1 4 . 5 { \mathrm { ~ T g ~ C } } _ { \mathrm { { ~ \scriptsize ~ \cdot ~ } } }$ ，其中植被碳402.1TgC、土壤碳 $3 1 2 . 4 ~ \mathrm { T g } ~ \mathrm { C }$ 。从幼龄林至过熟林的生长过程中，森林生态系统的总碳密度和植被碳密度都呈现增长趋势。但土壤碳密度从幼龄林至近熟林阶段呈增加趋势，近熟林以后出现减少趋势。安徽省幼龄林和中龄林占森林总面积的 $7 5 \%$ ，若幼、中龄林发展到近熟林阶段，将增加 $1 2 5 . 4 \mathrm { T g } \mathrm { C } .$ 。BIOME4模拟显示：当森林发展到气候顶极森林时，安徽省森林生态系统将增加 $2 4 5 . 7 \mathrm { T g } \mathrm { C }$ ，即总固碳潜力，包括植被固碳 $1 5 3 . 7 \mathrm { T g } \mathrm { C } ,$ ，土壤固碳 $9 2 \mathrm { T g } \mathrm { C }$ 0
+
+关键词固碳潜力；顶极森林群落；土壤碳密度；土壤碳储量；植被碳密度；植被碳储量引用格式：汲玉河，郭柯，倪健，徐小牛，王志高，王树东(2016).安徽省森林碳储量现状及固碳潜力．植物生态学报，40,1-1.doi:10.17521/cjpe.2015.0147
+
+# Current forest carbon stocks and carbon sequestration potential in Anhui Province
+
+JI Yu-He1,2, GUO $\mathsf { K e } ^ { 1 * }$ , NI Jian³, XU Xiao-Niu4, WANG Zhi-Gao5,and WANG Shu-Dong6 StateKeyele fetel ciences KeyLabortortesieeiutefotegdiialarthadeeei
+
+# Abstract
+
+AimsThis study was conducted to investigate carbon stocks in forest ecosystems of different stand ages in Anhui province,and to identify the carbon sequestration potential of climax forests controled by the natural environment conditions.
+
+MethodsData were collcted based on field investigations and simulations were made with the BIOME4 carbon cycle model.
+
+Important findingsCurrently, the total forest carbon stocks in Anhui Province amounts to $7 1 4 . 5 \mathrm { T g } \mathrm { C } { : } 4 0 2 . 1 \mathrm { T g }$ C in vegetation and $3 1 2 . 4 \mathrm { T g } \mathrm { C }$ in soil. Generally,both the total and vegetation carbon density exhibit an increasing trend with the natural growth offorest stands.Soil carbon density increases from young to near mature forests, and then gradually decreases thereafter. Young and middle-aged forests account for $7 5 \%$ of the total forest area in Anhui Province,with potentially an additional $1 2 5 . 4 \mathrm { T g } \mathrm { C }$ to be gained after the young and middle-aged forests reach near mature stage. Results of BIOME4 simulations show that potentially an additional $2 4 5 . 7 \mathrm { T g } \mathrm { C }$ , including $1 5 3 . 7 \mathrm { T g } \mathrm { C }$ in vegetation and $9 2 \mathrm { T g } \mathrm { C }$ in soil, could be gained if the current forests are transformed into climax forest ecosystems in Anhui Province.
+
+Key wordscarbon sequestration; climax forest communities; soil carbon density; soil carbon stocks; vegetation carbon density;vegetation carbon stocks
+
+Citation: JiYH,GuoK,NiJ,Xu XN,WangZG,Wang SD(2O16).Currentforestcarbonstocksandcarbonsequestrationotetial in Anhui Province.Chinese Journal of Plant Ecology,40,1-1. doi: 10.17521/cjpe.2015.0147
+
+森林生态系统是陆地碳的主要储存库，在碳循环中具有十分重要的作用(IPCC,2007)。增加森林碳储量是应对气候变化的一个重要策略(Xuet al.,2013)。准确估算森林生态系统碳储量及其固碳潜力有利于理解陆地碳循环动态、过程和机制，也是加强森林生态系统科学管理和制定固碳减排具体措施的前提，一直受到国际社会的高度关注(Wanget al.2007; McKinley et al.,2011; Fang et al., 2014)。
+
+目前，估测森林碳储量及其潜力的方法主要有样地调查法、模型模拟法和遥感反演法。我国森林资源清查时采用了样地调查法，通过设立固定样地，定期进行抽样调查(一般为5年)，得到各类森林林分蓄积量(材积量)。然后根据林分蓄积量和生物量建立回归方程推算森林生物量，乘以碳含量系数即可得到森林碳储量。在推算森林生物量时一般采用平均生物量法、生物量转换因子法、生物量转换因子连续函数法等(Fangetal.，2001；方精云等，2007;Guo et al.,2010；徐冰等,2010；曹扬等,2014)。
+
+大空间尺度上(全球、大洲或国家)，一般采用模型模拟法和遥感法评估森林碳储量。Osnabruck、BIOME、EM、BIOME-BGC、MAPSS、FORCCHN、CASA、CENTURY、FORECAST和IBIS等，都可以用于模拟森林生态系统碳储量(Fangetal.,2007; Ni,2001;Zhao et al.,2012)。 Peng和Apps (1997)曾利用经验性的Osnabruck生物圈模型模拟了我国末次盛冰期和全新世中期的森林植被碳储量。由于采用的古植被图精度较低，造成模拟精度较低。Ni (2001)利用BIOME3模拟了中国的森林碳储量。尽管采用较旧的植被图，模拟精度受到限制，但是证明BIOME系列模型对我国植被碳储量的模拟是可行的。更多研究表明BIOME系列模型不仅适用于全球尺度，而且适用于局部区域的碳储量模拟，可以较精确地模拟我国生物群区分布、净初级生产力(NPP)和植被碳储量(Nietal.，2000；董卓瑶等，2011)。BIOME4增加了 $\mathbf { C } _ { 3 }$ 和C4植物功能型，大幅度提高了所模拟的生物群区数量，提升了模拟精度(倪健，2002)。王焓(2011)在BIOME4基础上提出了一个评估陆地生态系统潜在碳储量的改进方法。该方法假设生态系统碳循环处于稳定状态，从植被到土壤，以及从土壤到大气的碳转移速率均与NPP相等。这样植被碳库和土壤碳库完全由NPP和所在碳库的周转率决定。由周转率以及BIOME4模拟的NPP就可以得到植被碳库和土壤碳库的储量。
+
+利用遥感数据进行森林碳储量估测的原理比较简单，主要是根据遥感信息与生物量之间关系建立经验模型或半经验模型，求出森林生物量，然后乘以碳转化系数(即含碳率)得到森林碳储量(付甜，2013)。但是遥感法计算的森林碳储量容易受到土壤、大气条件、地形等外界因素影响。
+
+估算森林固碳潜力的大小，需要有一个最大碳储量参考值。根据顶极生态系统理论，当植被最终演替为顶极森林生态系统后，生态系统能量和物质的输入、输出趋于平衡，这时的森林碳储量最适宜作为森林最大碳储量参考值。但是，森林植被演替到顶极森林生态系统的时间周期比较长，而且现实中找到当地的顶极森林生态系统比较困难。一些研究将80-100年的成熟林碳储量作为森林最大碳储量参考值，与现有森林碳储量之差作为森林固碳潜力(Liuetal.,2014；刘迎春等2015)。采用成熟林作为参照，是探索碳储量潜力的重要途径之一。另外，还有研究依据各林业工程的规划林业建设面积，各植被的林木碳积累速率，推算出新增森林的固碳潜力；现有森林固碳潜力采用修正(固碳速率)因子法推算(吴庆标等,2008)。该方法适于估计森林发展到某一阶段的固碳潜力。
+
+20世纪70年代以来，我国已经进行了8次全国性森林清查，但是森林清查时忽略了灌丛、草本、枯落物和土壤碳的同步调查，林下植被及地下生物量缺失，因此基于森林清查估算森林生态系统碳储量，仍然精度较低。为查明我国森林生态系统碳储量及其固碳潜力，2011-2015年中国科学院主持的“中国科学院战略性先导科技专项(碳专项)"对各省森林生态系统碳储量进行了一次详细清查，包含了乔木、灌丛、草本、枯落物、土壤碳等。本研究是"碳专项"研究的一个组成部分，目的是通过更详细的森林样地调查，实测出安徽省森林生态系统碳储量；并且利用BIOME4模型模拟顶极森林植被潜在碳储量；以顶极森林的潜在碳储量为参照，与实际碳储量之差表示森林生态系统的固碳潜力。
+
+# 1材料和方法
+
+# 1.1 研究区域
+
+以安徽省作为研究区，总面积13.35万 $\mathrm { k m } ^ { 2 }$ 。安徽省地貌、气候和植被的南北差异都十分显著(图1-图4)。安徽省北部为淮河冲积平原，南部多山，以大别山和黄山为主，两山脉之间为长江中下游平原的一部分。气候属于北亚热带和暖温带的过渡区，尤其是大别山区的气候过渡特征最显著。大别山以北降水 $6 7 5 { - } 8 0 0 ~ \mathrm { m m }$ ，年平均气温 $1 4 { - } 1 5 \ \mathrm { ~ \textdegree ~ }$ ，大别山以南年降水 $1 5 0 0 { - } 2 0 0 0 \mathrm { m m }$ ，年平均气温 $1 5 \mathrm { - } 1 8 \ \mathrm { ^ circ C }$ 。
+
+![](images/608a8bab74c1d1eff1bedfb525f57fcc451b074b8e32263ceba378afa6b509c0.jpg)  
+图1安徽省地貌。 Fig.1Landform of Anhui Province.
+
+![](images/4f5a56fca940824232defa87b79b2579811e3df633159d179a01b4f10570717e.jpg)  
+图2安徽省平均年降水量。 Fig.2Mean annual precipitation in Anhui Province.   
+图3安徽省年平均气温。 Fig.3Annual mean temperature in Anhui Province.
+
+![](images/ece1842c98a86e04d0aacb32c87777320fa27a5d5a5ac1e144dfc2f573e0ae90.jpg)
+
+![](images/6bdf55d50aacdc8ce49ac9f275ca9576b96906dd15a6f27bec6b528e8f51ce98.jpg)  
+图4安徽省植被分布。 Fig.4Distribution of vegetation in Anhui Province.
+
+根据中国第七次森林资源清查资料(2009年),安徽省森林面积达3.6696万 $\mathrm { k m } ^ { 2 }$ ，森林覆盖率约$30 \%$ 。森林植被集中分布在西南部的大别山、南部的黄山和九华山。自北向南，森林类型由暖温带落叶阔叶林向北亚热带常绿-落叶阔叶混交林过渡，拥有温带落叶阔叶林、温带常绿针叶林、针阔混交林、亚热带常绿-落叶阔叶混交林、亚热带常绿阔叶林、亚热带常绿针叶林等森林类型。南部山地海拔较高，植被垂直分异显著，因此安徽省森林类型多种多样。自然环境的南北差异和垂直分异，是造成安徽省森林植被及其碳密度、碳储量等南北和海拔高度差异的主要因素。
+
+# 1.2 现状碳储量
+
+研究安徽省森林生态系统的碳储量现状时，采用中国林业普查的森林分类系统(具有近期的森林面积)。根据全国第七次森林普查的安徽省森林面积和2011-2012年森林生态系统调查数据，估算现存森林生态系统内各组分(乔木、灌丛、草本、枯落物、枯倒木及土壤)的碳储量。首先根据"碳专项"制定的统一要求，在安徽省森林分布区设置50个代表性调查样点(图5)。每个调查样点设置3个面积为 $5 0 \mathrm { ~ m ~ } \times$ $2 0 \mathrm { ~ m ~ }$ 乔木层标准样地。在每个标准样地，分别设置灌木层样方、草本层样方、收集地面枯落物以及土壤细根，并挖取土壤剖面，采集土壤样品。
+
+在乔木层标准样地内，对所有胸径(距离树干基部 $1 . 3 \mathrm { ~ m ~ }$ 处的直径, $D B H ) \geqslant 5 \ \mathrm { c m } ($ 人工幼龄林以$D B H \geqslant 2 \ \mathrm { c m }$ 起测)的乔木(包括活立木和死立木)进行每木检尺，逐一鉴别其种类，记录胸径和个体树高，统计株数。按大、中、小径级选择3-5株样木，采集优势乔木树种各器官(叶、枝、干、根)样品各约$3 0 0 \mathrm { ~ g ~ }$ ，分析碳含量。调查样方内所有枯倒木，记录枯倒木腐烂等级(轻度、中度和重度)、直径、长度，并截取不同腐烂等级的倒木样本约 $3 0 0 ~ \mathrm { g }$ ，在实验室估算枯倒木体积，测定碳含量。
+
+在灌木层样方内，对所有灌木 $( D B H < 5 \ \mathrm { c m }$ ，高度 $> 5 0 \mathrm { c m } \dot { } ,$ 进行调查，记录灌木种类及其盖度。将样方内所有灌木全部收获后，分叶、枝、根称鲜质量取约 $3 0 0 \mathrm { g }$ 测定鲜质量、干质量和碳含量。
+
+在草本层样方内，记录主要植物种类(包括高度小于 $5 0 \mathrm { c m }$ 的小灌木)及其盖度。将样方内所有植物全部收获，分地上和地下部分测定鲜质量、干质量和碳含量。
+
+![](images/3b06df727d18e05a545d6027c6500f74dd26b95fd16ffaffda0cce8e2cfe1d6e.jpg)  
+图52011-2012年安徽省森林调查样点分布图。Fig.5Map of sampling plots for forest survey in 2O11-2012.
+
+收集地面枯落物时，包括 $1 \mathrm { m } \times 1 \mathrm { m }$ 范围内的所有未完全腐烂的枝、茎、叶，不包括腐殖质。称质量后，保留约 $3 0 0 \ \mathrm { g }$ 调落物样品，测定湿质量、干质量和碳含量。
+
+收集土壤细根时，由于山地砾石较多，土钻法采集细根不适用，所以采用土柱法。分2层 $( 0 { - } 2 0 \mathrm { c m }$ $2 0 { - } 4 0 ~ \mathrm { c m } )$ 采集长、宽、深 $5 0 \mathrm { c m } \times 5 0 \mathrm { c m } \times 4 0 \mathrm { c r }$ n土柱内的直径小于 $2 \ \mathrm { c m }$ 的细根。漂洗、过筛，并挑拣出死根、活根，测定鲜重、干重和碳含量。
+
+挖取垂直深度 $1 0 0 ~ \mathrm { c m }$ 的土壤剖面(若土壤层无法达到 $1 0 0 ~ \mathrm { c m }$ ，至基岩为止，并记录实际深度)。按照0-10、10-20、20-30、30-50、50-100cm分为5个土壤层，用环刀取各个土壤层的原状土，测定土壤容重。在各个土层取土约 $3 0 0 \ \mathrm { g } .$ ，测定土壤碳含量。
+
+估算森林生态系统乔木层的碳储量时，采用了“中国森林生态系统固碳现状、速率、机制和潜力课题"调查获取的标准木资料、以及长期实验和历史数据，集成分析与整理，整合分优势树种的(干、枝、叶、根)生物量拟合方程(表1)。然后根据2011-2012年乔木层样方调查测量的胸径和树高，用生物量拟合方程分别计算干、枝、叶、根的生物量。利用调查测定的干、枝、叶、根的碳含量，分别乘以各自的单位面积生物量，求和得到乔木层单位面积的碳储量，即乔木层碳密度。
+
+表1安徽省优势树种(组)各个器官(干、枝、叶、根)的生物量方程 Table1Biomass equations fordiferentorgans(stem,branches,leaves,androts)ofdominanttrees (groups)inAnuiProvince   
+
+<html><body><table><tr><td></td><td>干 Stem</td><td>枝 Branch</td><td>叶 Leaf</td><td>根 Root</td><td>胸径 Diameter at breast height (cm)</td></tr><tr><td>马尾松 Pinus massoniana</td><td>W= 0.0337(D²H)^0.9551 R²= 0.996</td><td>W= 0.036(D²H)^0.7948 R²= 0.997</td><td>W=0.0016(D²H)^1.1007 R² =0.998</td><td>W= 0.015(D²H)^0.8322 R²= 0.974</td><td>1-50.4</td></tr><tr><td>杉木</td><td>W= 0.0411(D²H)0.8941 R²= 0.990</td><td>W= 0.0015(D²H)^1.062 R²= 0.999</td><td>W= 0.0108(D²H)^0.8246 R²= 0.999</td><td>W= 0.0314(D²H)0.7592 R²= 0.990</td><td>1-85.5</td></tr><tr><td>Cunninghamia lanceolata 甜栲栲</td><td>W= 0.0278(D²H)^0.9251</td><td>W= 0.0137(D²H)^0.9053</td><td></td><td>W= 0.0054(D²H)^0.9248 W= 0.0013(D²H)^1.2697</td><td>4.9-52.9</td></tr><tr><td>Castanopsis eyrei 苦赭栲</td><td>R² =0.998 W= 0.0201(D²H)^0.9719</td><td>R² = 0.994 W= 0.04101(D²H)^0.662</td><td>R²= 0.997 W= 0.0617(D²H)0.5259</td><td>R²= 0.975 W= 0.0281(D²H)^0.8011</td><td>4.7-36.4</td></tr><tr><td>Castanopsis sclerophylla 青冈</td><td>R²= 0.990 W= 0.0735(D²H)^0.8503</td><td>R²= 0.990 W= 0.0086(D²H)^1.0031</td><td>R² = 0.990 W= 0.0084(D²H) 0.8108</td><td>R²= 0.967 W= 0.0181(D²H)^0.8732</td><td>2.4-60.0</td></tr><tr><td>Cyclobalanopsis glauca 台湾松</td><td>R² = 0.967 W= 0.0581(D²H)^0.8159</td><td>R²=0.931 W= 0.0032(D²H)^1.128</td><td>R²=0.871 W=0.0091(D²H)^0.8579 W= 0.0133(D²H)^0.8872</td><td>R² = 0.952</td><td>4.0-79.5</td></tr><tr><td>Pinus taiwanensis 湿地松</td><td>R²= 0.991 W= 0.0474(D²H)^0.8841</td><td>R²= 0.987</td><td>R²= 0.986</td><td>R²= 0.988 W=0.0079(D²H)0.9572 W= 0.0166(D²H)^0.9734W=0.0070 (D²H)^1.1038</td><td>1.5-32.5</td></tr><tr><td>Pinus elliottii 黑杨</td><td>R²=0.994 W= 0.0635(D²H)^0.8227</td><td>R²= 0.993 W= 0.171(D²H)^0.5689</td><td>R²= 0.971 W= 0.0568(D²H)^0.56</td><td>R² = 0.990 W= 0.0118(D²H)0.8848</td><td>6.2-98.5</td></tr><tr><td>Populus nigra 麻栎</td><td>R²= 0.991 W= 0.0235(D²H)0.9792</td><td>R² = 0.995 W= 0.0004(D²H)1.3585</td><td>R²=0.978 W= 0.0028(D²H)^0.8444</td><td>R²= 0.984 W= 0.0125(D²H)^0.9308</td><td>2.2-47.1</td></tr><tr><td>Quercus acutissima 针叶混交林</td><td>R²= 0.950 W= 0.018(D²H)^1.089</td><td>R² = 0.988 W= 0.013(D²H)^0.857</td><td>R²= 0.976 W= 0.005(D²H)^0.929</td><td>R² = 0.978 W= 0.021(D²H)^0.809</td><td>3.1-84.5</td></tr><tr><td>Coniferous mixed forest 阔叶混交林</td><td>R² = 0.941 W= 0.045 (D²H)0.874</td><td>R²=0.793 W= 0.020 (D²H)^0.839</td><td>R²=0.884 W= 0.010 (D²H)0.780</td><td>R²=0.909 W= 0.009 (D²H)^0.974</td><td>2.0-98.6</td></tr><tr><td>Broadleaved mixed forest</td><td>R²=0.953</td><td>R²= 0.880</td><td>R² = 0.848</td><td>R²= 0.906</td><td></td></tr><tr><td>针阔混交林 Con-broadleaved mixed forest R² =0.955</td><td>W= 0.049(D²H)^0.870</td><td>W= 0.013(D²H)^0.867 R²= 0.817</td><td>W= 0.007(D²H)0.860 R²=0.843</td><td>W= 0.014(D²H)^0.874 R² = 0.891</td><td>2.0-98.6</td></tr></table></body></html>
+
+灌丛的根、干枝、叶生物量分别乘以各自碳含量求和得到灌木层碳密度；草本的地上、地下生物量分别乘以各自碳含量求和得到草本层碳密度；枯落物生物量乘以其碳含量得到枯落物层碳密度；细根生物量乘以其碳含量得到细根碳密度；各层土壤容重、碳含量、深度相乘求和得到土壤碳密度。
+
+将各组分(乔木、灌丛、草本、枯落物、枯倒木及土壤)的碳密度换算成统一的碳密度单位(g$\mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 } ,$ ，求和得到标准样地的森林生态系统碳密度。针对某一森林系统类型，标准样地的平均碳密度乘以该类型森林面积，得到该森林生态系统碳储量。所有森林系统类型的碳储量求和，得到整个森林生态系统的碳储量。
+
+# 1.3 碳储量潜力
+
+在森林样地调查基础上，结合BIOME4模型法模拟现存森林分布区的潜在顶极森林生态系统的碳储量。用顶极森林生态系统与现存森林生态系统的碳储量之差，表示森林生态系统的固碳潜力。
+
+BIOME4模型是一个交互式的、平衡耦合的生物地理和生物地球化学模型(倪健,2002)。它模拟顶极森林生态系统碳储量的基本前提是假设生态系统碳循环处于稳定状态，从植被到土壤以及从土壤到大气的碳转移速率均与NPP(碳从大气向植被中转移的速率)相等。这时植被中的碳库 $( C _ { \mathrm { v e g } } )$ 和土壤中的碳库 $( C _ { \mathrm { s o i l } } )$ 完全由NPP和所在碳库的周转率(表现为周转时间)决定。
+
+BIOME4模型输入包括1971-2000年30年平均的月平均温度、年最低温度、平均月降水、日照百分率(10'经纬度网格分辨率)，输出数据主要包括顶极植被生物群区、NPP等。本研究采用王焓(2011)、Wang等(2011)提出的一个碳储量估算改进方法，综合考虑植被与土壤的碳周转时间，将BIOME4模型模拟的NPP转换为碳储量，然后结合植被碳含量等信息，计算植被、土壤和总碳密度。
+
+研究森林生态系统固碳潜力时，采用了中国植被图的森林分类体系。按照中国植被图分类系统，安徽省顶极森林类型主要有温带落叶阔叶林、温带针叶林、亚热带落叶阔叶林、常绿-落叶阔叶混交林、亚热带常绿阔叶林和亚热带针叶林。借助1:100万中国植被分布图的森林分布信息(张新时等,2007)，获取森林生态系统碳储量的空间分布信息。并利用1:100万中国植被分布图对BIOME4模拟结果进行
+
+Kappa一致性检验。由于耕地等非林地受到太多人类干扰，且不属于本研究的范围，因此仅对有林地进行Kappa检验，结果为 $\mathrm { { K a p p a } = 0 . 9 }$ ，表明模拟与现状的森林植被分布非常吻合。
+
+# 2 结果和分析
+
+# 2.1安徽省森林生态系统的碳储量现状及变化
+
+在研究森林生态系统碳储量现状时，采用(第七次)林业普查的分类系统，将安徽省森林归为松类、杉类、杨类、硬阔类和软阔类。其中，分布最广的是松类，其次为硬阔类。2011-2012年调查结果显示，松类的植被和土壤碳密度分别为 $9 0 . 4 \times 1 0 ^ { 6 } \mathrm { g }$ $\mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ 和 $6 1 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } \mathrm { \cdot } \mathrm { h m } ^ { - 2 }$ ，其植被和土壤碳储量分别为 $9 3 . 4 ~ \mathrm { T g }$ C和 $6 3 \mathrm { T g } \mathrm { C }$ 。硬阔类的植被和土壤碳密度较大，分别为 $1 8 0 . 8 \times 1 0 ^ { 6 } { \mathrm { g } } { \mathrm { C } } { \cdot } { \mathrm { h m } } ^ { - 2 } .$ 和 $9 2 . 6 \times 1 0 ^ { 6 }$ $\textrm { g } \mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ ，其植被和土壤碳储量分别为162.4 Tg C和 $8 3 . 2 \mathrm { T g } \mathrm { C }$ 。
+
+从碳密度的动态变化看，安徽省森林从幼龄林至过熟林，森林生态系统的总碳密度一直呈现增加趋势(图6)。幼龄林时总碳密度为 $1 5 0 . 4 \times 1 0 ^ { 6 } \mathrm { ~ g ~ }$ $\mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ ，中龄林时增加到 $1 8 6 \times 1 0 ^ { 6 } \mathrm { ~ g ~ C { \cdot } h m } ^ { - 2 }$ ，过熟林时可高达 $4 6 4 . 9 \times 1 0 ^ { 6 } { \mathrm { g } } { \mathrm { C } } { \cdot } { \mathrm { h m } } ^ { - 2 }$ 。
+
+400   
+300   
+200   
+100 0 幼龄 中龄 近熟 成熟 过熟 Young MiddlePre-matureMature Over mature 林龄Standageof forest 土壤碳密度Soilcarbondensity 一植被碳密度Vegetationcarbondensity 总碳密度Totalcarbondensity
+
+植被碳密度与总碳密度的变化趋势基本一致(图6)。随林龄增加植被碳密度一直呈现显著增加趋势，从幼龄林的 $6 8 . 9 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } . \mathrm { h m } ^ { - 2 }$ 增加到中龄林时的 $9 9 . 5 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } \cdot \mathrm { h m } ^ { - 2 }$ ，直至过熟林时的 $3 9 5 . 1 \times 1 0 ^ { 6 } \mathrm { g }$
+
+$\mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ 。
+
+在森林生长过程中，土壤碳密度并非一直增加(图6)。幼龄林至近熟林阶段，土壤碳密度呈缓慢增加趋势，由幼龄林的 $8 1 . 5 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } \mathrm { \cdot } \mathrm { h m } ^ { - 2 }$ 增加到近熟林的 $9 6 . 9 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } \mathrm { \cdot } \mathrm { h m } ^ { - 2 }$ 。但是近熟林以后，土壤碳密度开始缓慢下降，成熟林时下降为 $7 6 . 8 \times 1 0 ^ { 6 } \mathrm { ~ g ~ }$ $\mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ ，过熟林时下降为 $6 9 . 8 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } . \mathrm { h m } ^ { - 2 }$ 。从总碳储量看，在安徽省各龄级森林中，中龄林分布面积最大，其总碳储量也最大 $( 2 5 5 . 2 \ \mathrm { T g } \ \mathrm { C } )$ ，其中土壤和植被碳储量分别为 $1 1 8 . 6 \mathrm { T g } \mathrm { C }$ 和 $1 3 6 . 6 \mathrm { T g } \mathrm { C }$ 。幼龄林面积仅次于中龄林，总碳储量也仅次于中龄林，为 $2 0 5 . 6 ~ \mathrm { T g } ~ \mathrm { C } ,$ ，其中土壤碳储量为 $1 1 1 . 4 \mathrm { ~ T g ~ C ~ }$ ，植被碳储量为 $9 4 . 2 \mathrm { T g } \mathrm { C }$ 。近熟林、成熟林和过熟林面积均较小，它们的总碳储量分别为123.0、92.9和37.8TgC。安徽省各龄级森林的碳储量总计为 $7 1 4 . 5 ~ \mathrm { T g }$ C，其中植被占 $4 0 2 . 1 \mathrm { ~ T g ~ C ~ }$ ，土壤占 $3 1 2 . 4 \mathrm { ~ T g ~ C ~ }$ （表2)。
+
+对比植被和土壤碳储量，安徽省森林生态系统的幼龄林阶段植被碳密度为 $6 8 . 9 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } \mathrm { \cdot } \mathrm { h m } ^ { - 2 }$ ，小于土壤碳密度 $8 1 . 5 \times 1 0 ^ { 6 } \mathrm { g } \mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ 。其他发育阶段的植被碳密度均大于土壤碳密度，尤其是近熟林以后，植被碳密度继续增大，而土壤碳密度开始下降，二者差距拉大(图6)。在安徽森林生态系统中，植被与土壤碳储量的比例大致为4:3，植被碳储量明显大于土壤碳储量(表2)。
+
+# 2.2安徽省森林生态系统的固碳潜力
+
+从目前森林状态看，安徽省的幼龄林和中龄林占森林总面积的 $7 5 \%$ 。而幼龄林和中龄林的总碳密度都比较低，近熟林、成熟林和过熟林的总碳密度相对较高(表2)。随着森林的自然生长，幼龄林和中龄林都必然向近熟林、成熟林和过熟林方向发展，因此安徽省森林生态系统的固碳潜力尚有比较大的增长空间，总碳储量必然增加。根据2011-2012年调查数据，当幼、中龄林发展到近熟林时，预计将有$1 2 5 . 4 \mathrm { T g } \mathrm { C }$ 的增长潜力。
+
+BIOME模拟结果显示，安徽省顶极的亚热带森林植被碳密度普遍高于顶极的温带森林植被碳密度(表3)。其中，亚热带常绿阔叶林的植被碳密度最大，为 $1 6 3 \times 1 0 ^ { 6 } { \mathrm { g } } { \mathrm { C } } { \cdot } { \mathrm { h m } } ^ { - 2 } .$ 。但是大多数顶极的亚热带森林的土壤碳密度相对较低。亚热带针叶林和亚热带常绿阔叶林的土壤碳密度分别为 $1 0 8 \times 1 0 ^ { 6 }$ 和 $1 0 3 \times$ $1 0 ^ { 6 } \mathrm { g } \mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 }$ ，均低于其对应的植被碳密度。由于安徽省森林集中分布在大别山、九华山和黄山地区，因此森林碳也集中分布在这些区域(图7-图9)。
+
+表22011-2012年安徽省森林生态系统中的土壤碳储量、植被碳储量和总碳储量 Table 2Carbon stocks in soil and vegetation in forest ecosystems of Anhui Province during 2011-2012   
+
+<html><body><table><tr><td></td><td>年数 Years</td><td>森林面积 Forest area (104 hm²)</td><td>土壤碳密度 Soil C density (10g C·hm-2)</td><td>植被碳密度 Vegetation C density (10g C·hm-2)</td><td>总碳密度 Total C density (10g C·hm-2)</td><td>土壤碳 Soil C stocks (Tg C)</td><td>植被碳 Vegetation C stocks (Tg C)</td><td>总碳 Total C stocks (Tg C)</td></tr><tr><td>幼龄林 Young stand</td><td>0-20</td><td>136.7</td><td>81.5</td><td>68.9</td><td>150.4</td><td>111.4</td><td>94.2</td><td>205.6</td></tr><tr><td>中龄林 Middle stand</td><td>20-40</td><td>137.2</td><td>86.4</td><td>99.5</td><td>186.0</td><td>118.6</td><td>136.6</td><td>255.2</td></tr><tr><td>近熟林 Pre-mature stand</td><td>40-60</td><td>57.5</td><td>96.9</td><td>117.2</td><td>214.0</td><td>55.7</td><td>67.3</td><td>123.0</td></tr><tr><td>成熟林 Mature stand</td><td>60-80</td><td>27.4</td><td>76.8</td><td>262.3</td><td>339.1</td><td>21.1</td><td>71.9</td><td>92.9</td></tr><tr><td>过熟林 Over mature stand</td><td>>80</td><td>8.1</td><td>69.8</td><td>395.1</td><td>464.9</td><td>5.7</td><td>32.1</td><td>37.8</td></tr><tr><td>总计Total</td><td></td><td>367.0</td><td></td><td></td><td></td><td>312.4</td><td>402.1</td><td>714.5</td></tr></table></body></html>
+
+表3BIOME4模拟的安徽省主要顶极森林类型(中国植被图的分类系统)的植被碳密度和土壤碳密度TableSolboideatobsofaarstsoofeasarince simulated by BIOME4  
+
+<html><body><table><tr><td>森林类型 Forest type</td><td>植被碳密度 Vegetation C density (t-hm-2)</td><td>土壤碳密度 Soil C density (-hm-2)</td></tr><tr><td>温带落叶阔叶林 Temperate deciduous broadleaf forests</td><td>126</td><td>121</td></tr><tr><td>温带针叶林 Temperate needle leaf forests</td><td>100</td><td>136</td></tr><tr><td>亚热带落叶阔叶林 Subtropical deciduous broadleaf forest</td><td>132</td><td>135</td></tr><tr><td>常绿-落叶阔叶混交林 Mixed evergreen-deciduous broadleaf forest</td><td>150</td><td>111</td></tr><tr><td>亚热带常绿阔叶林 Subtropical evergreen broadleaf forests</td><td>163</td><td>103</td></tr><tr><td>亚热带针叶林 Subtropical needle leaf forests</td><td>154</td><td>108</td></tr></table></body></html>
+
+基于BIOME4和改进的碳储量估算方法得到安徽省顶极森林生态系统的总碳储量为 $9 6 0 . 2 \mathrm { ~ T g ~ C ~ }$ 其中森林植被碳储量为555.8TgC，土壤碳储量为$4 0 4 . 4 ~ \mathrm { T g } ~ \mathrm { C }$ (表4)。以BIOME4模拟的潜在顶极森林生态系统的总碳储量、植被碳储量和土壤碳储量为参考值，与森林生态系统现存的总碳储量 $( 7 1 4 . 5 ~ \mathrm { T g }$ C)、植被碳储量 $( 4 0 2 . 1 \mathrm { T g } \mathrm { C } )$ 和土壤碳储量 $( 3 1 2 . 4 \mathrm { T g }$ C)相比较，结果显示：在现有森林面积不变的前提下，当森林发展到顶极森林生态系统时，安徽省整个森林生态系统尚有245.7TgC的固碳潜力。其中森林植被固碳潜力为 $1 5 3 . 7 \mathrm { ~ T g ~ C ~ }$ ，森林土壤固碳潜力为 $9 2 \mathrm { T g } \mathrm { C }$ 。
+
+# 3 讨论
+
+本研究显示2011-2012年安徽省森林植被碳(包括乔木、灌丛、草本、倒木和枯落物碳)为 $4 0 2 . 1 \mathrm { T g } \mathrm { C }$ 。吴庆标等(2008)利用全国第四、五和六次森林普查的数据，采用森林蓄积量资料估算安徽森林植被碳库在1990年为26.81 TgC，1995年为35.57Tg C,2000年为 $4 4 . 4 8 \mathrm { T g } \mathrm { C }$ 。刘迎春等(2015)利用全国第六次森林普查的分树种的森林蓄积量数据，采用生物量-蓄积量转换扩展因子法估算安徽省森林碳储量为 $5 8 \mathrm { T g } \mathrm { C }$ 。与上述估算相比，本研究计算的安徽省森林植被碳储量明显偏大，主要原因是：(1)已有研究利用国家森林蓄积量估算森林的碳储量，实际上估算的是乔木森林的碳储量。而本研究中的森林碳储量不仅包括了乔木森林的碳储量，还包括了林下灌木层碳储量、草本层碳储量、枯倒木和枯落物层的碳储量。(2)国家森林调查的蓄积量缺失灌木林和经济林(果树)蓄积量的统计资料，因此已有研究中未包括经济林碳、灌木碳。而本研究中包括了经济林和灌木森林的碳储量。(3)森林面积变化很大，也是导致估算结果差异很大的原因之一。安徽森林面积增长很快，第四次森林清查时森林面积为164.22$\times ~ 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ，第七次森林清查时 $3 6 6 . 9 6 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 。已发表文献与本研究所采用的森林面积有较大差异。(4)安徽省森林结构中以幼、中龄林为主，随着时间推移，新抚育的幼龄林向中龄林发展，中龄林向成熟林发展，迅速地提高了森林生态系统的碳储量。(5)本研究选取样地时并非完全机械随机布设，通常林分状况较好，可能造成估算的森林碳储量值相对偏高。
+
+![](images/13c94eacc7f4773b878a952973ae745f8452c6f46e00e0ccfe17e8f1c290e0e0.jpg)  
+图7BIOME4模拟的森林植被碳密度。 Fig.7Forest vegetation C density simulated by BIOME4.
+
+![](images/2d68fc1bcd92e5b84b92b3b520c582890e047f5a79b162a8b567ecb854a42218.jpg)  
+图8BIOME4模拟的森林土壤碳密度。 Fig.8Forest soil C density simulated by BIOME4.
+
+我国森林土壤碳储量一般大于植被碳储量，尤其是高纬度寒冷地区，土壤碳占的比例更大(周玉荣等,2000)。我们的研究结果显示：除幼龄林以外,其他林龄阶段安徽省森林植被碳储量都大于土壤碳储量。尤其是在成熟林和过熟林阶段，植被碳储量占的比例更大，甚至超过土壤碳储量3-4倍。人们已经观测到低温和潮湿有利于森林土壤碳累积。温度越低的寒冷地区森林枯落物分解越慢，土壤碳含量较大(Tewksbury& van Miegroet,2007)；降水量越大的潮湿地区森林土壤碳含量越大(Mehta et al.,2014)。安徽省处于中国南北气候过渡区，既不具有南方森林的潮湿条件，也不具有北方森林的寒冷条件，而是干湿交替比较频繁。干湿交替的气候更有利于土壤有机质分解氧化(张雪雯,2014)，促使有机碳很快分解散失到大气中，从而导致土壤碳储量小于植被碳储量。
+
+![](images/d9854a3ca04214d5d76a3de9c629612f00994f005a1163eb8a5c3e3f723ec52a.jpg)  
+图9BIOME4模拟的总碳密度。 Fig.9Total C density simulated by BIOME4.
+
+表4基于BIOME4得到的安徽省顶极森林生态系统的碳密度和碳储量 Table 4Carbon density and carbon stocks of climax forest ecosystems in Anhui province derived by BIOME4 simulations   
+
+<html><body><table><tr><td></td><td>森林面积 Forest area (104 hm²)</td><td>碳密度 Carbon density (10g C.hm-2)</td><td>碳储量 Carbon stocks (Tg C)</td></tr><tr><td>森林植被</td><td>366.96</td><td>151.5</td><td>555.8</td></tr><tr><td>Forest vegetation 森林土壤</td><td>366.96</td><td>110.2</td><td>404.4</td></tr><tr><td>Forest soil 森林生态系统 Forest ecosystem</td><td>366.96</td><td>261.7</td><td>960.2</td></tr></table></body></html>
+
+安徽省森林年龄结构中，幼、中龄林所占比重较大，占森林面积的 $7 5 \%$ 。随着林木的自然生长，幼、中龄林将必然向近熟林和成熟林发展。而幼、中龄林的碳密度 $( 1 5 0 \times 1 0 ^ { 6 } - 1 8 6 \times 1 0 ^ { 6 } { \mathrm { g } } { \mathrm { C } } { \cdot } { \mathrm { h m } } ^ { - 2 } )$ 比近熟林和成熟林的碳密度 $( 2 1 4 { \times } 1 0 ^ { 6 } - 3 3 9 { \times } 1 0 ^ { 6 } \mathrm { g } \mathrm { C } { \cdot } \mathrm { h m } ^ { - 2 } )$ 低。这意味着即使不扩大森林面积，依靠森林自然生长，安徽森林生态系统碳储量仍有较大的增长潜能，具有较大的固碳潜力 $( 2 4 5 . 7 \ \mathrm { T g } \ \mathrm { C } )$ ，将发挥碳汇的作用。
+
+然而，人们在利用森林资源过程中需要砍伐一部分森林，同时抚育一些幼林(蒲莹和黄国胜，2013)，这就必然存在一定比例的幼龄林、中龄林、近熟林、成熟林和过熟林，它们同时达到顶极森林群落阶段的现象很难发生。本研究得到的安徽省森林生态系统固碳潜力是固碳潜能增长的上限，只有在现有森林都发展顶极群落阶段才能发生。
+
+# 4结论
+
+安徽省森林生态系统总碳储量(植被碳 $^ +$ 土壤碳)总计 $7 1 4 . 5 \mathrm { T g } \mathrm { C }$ ，其中植被碳储量 $4 0 2 . 1 \mathrm { T g } \mathrm { C }$ ，土壤碳储量 $3 1 2 . 4 \mathrm { ~ T g ~ C ~ }$ ，植被碳储量明显大于土壤碳储量。从不同林龄看，幼、中、近熟、成熟和过熟林的总碳密度分别为 $1 5 0 . 4 \times 1 0 ^ { 6 }$ 、 $1 8 6 \times { { 1 0 } ^ { 6 } }$ ， $2 1 4 \times$ ${ 1 0 } ^ { 6 }$ （ $3 3 9 . 1 \times 1 0 ^ { 6 }$ 和 $4 6 4 . 9 \times 1 0 ^ { 6 } { \mathrm { g } } { \mathrm { C } } { \cdot } { \mathrm { h m } } ^ { - 2 }$ 。由于中龄林面积最大，幼龄林次之，造成中龄林的总碳储量（204号 $( 2 5 5 . 2 \ \mathrm { T g } \ \mathrm { C } )$ 最大，幼龄林的总碳储量 $( 2 0 5 . 6 \ \mathrm { T g } \ \mathrm { C } )$ （204号次之。随着林龄增长，安徽森林生态系统总碳储量和植被碳储量都呈现持续增加趋势。但土壤碳储量并非一直增加，当林龄达到近熟林时土壤碳储量达到最大值，此后逐渐降低。安徽省森林固碳潜力有较大增长空间。若幼、中龄林发展到近熟林阶段，将有约 $1 2 5 . 4 ~ \mathrm { T g }$ C的增长潜力。BIOME4模拟结果显示：在不增加森林面积情况下，安徽省顶极森林生态系统的潜在总碳储量 $9 6 0 . 2 \mathrm { ~ T g ~ C ~ }$ ，其中植被碳储量 $5 5 5 . 8 \mathrm { T g } \mathrm { C } \mathrm { , }$ ，土壤碳储量 $4 0 4 . 4 \mathrm { T g } \mathrm { C }$ 。当现有森林发展到顶极森林生态系统时，拥有固碳潜力约245.7TgC，其中植被固碳潜力153.7TgC，土壤固碳潜力 $9 2 \mathrm { T g } \mathrm { C }$ 。
+
+基金项目“中国科学院战略性先导科技专项"子专题“安徽省森林固碳现状、速率和潜力研究(XDA0505020401)"。
+
+致谢感谢中国科学院植物研究所的刘永刚、刘长成、李国厌等在野外调查工作中给予的大力协助。
+
+参考文献   
+Cao Y, Chen YM, Ji B,Qu M (2014). Carbon storage and density of forest vegetation and its spatial distribution pattern in Shaanxi Province. Journal of Arid Land Resources and Environment, 28(9),69-73. (in Chinese with English abstract）[曹扬，陈云明，晋蓓，渠美 (2014)．陕西省森林 植被碳储量、碳密度及其空间分布格局.干旱区资源与 环境,28(9),69-73.]   
+Dong ZY, Ouyang Y, Li H, Wang L, Zhao DH, An SQ, Liu SR (2011).Modeling the biome of North-South transect of eastern China in the future using BIOME4 model.Journal of Nanjing Forestry University (Natural Sciences Edition), 35(3),21-27.(in Chinese with English abstract)[董卓瑶, 欧阳琰，李航，王磊，赵德华,安树青，刘世荣 (2011). 基于BIOME4模拟未来中国东部南北样带生物群区的 分布．南京林业大学学报(自然科学版),35(3),21-27.]   
+Fang JY,Chen AP, Peng CH, Zhao SQ, Ci LJ (2001). Changes in forest biomass carbon storage in China between 1949 and 1998. Science,292,2320-2322.   
+Fang JY,Guo ZD,Hu HF, Kato T,Muraoka H, Son Y (2014). Forest biomass carbon sinks in East Asia, with special reference to the relative contributions of forest expansion and forest growth. Global Change Biology, 20,2019-2030.   
+Fang JY, Guo ZD,Piao SL, Chen AP (2007). Terrestrial vegetation carbon sinks in China,1981-2000. Science in China SeriesD:Earth Sciences,50,1341-1350.[方精云，郭兆 迪，朴世龙，陈安平 (2007).1981-2000年中国陆地植被 碳汇的估算．中国科学D辑：地球科学,37,804-812.]   
+Fang JY, Guo ZD,Piao SL, Chen AP (2007). Terrestrial vegetation carbon sinks in China,1981-2000.Science in China Series D:Earth Sciences,50,1341-1350.(本条文献与上 一条重复，请查实)   
+Fu T (2013). Carbon Estimation of Main Forest Ecosystem in Three Gorges Reservoir Area Using CBM-CFS3.PhD dissertation, Chinese Academy of Forestry,Beijing. 1-39. (in Chinese with English abstract）[付甜(2013).基于 CBM-CFS3模型的三峡库区主要森林生态系统碳计量. 博士学位论文，中国林业科学研究院，北京.1-39.]   
+Guo ZD,Fang JY,Pan YD,Birdsey R (201O). Inventory-based estimates of forest biomass carbon stocks in China: A comparison of three methods.Forest Ecology and Management, 259,1225-1231.   
+IPCC (2007). Climate change 2007: the physical science basis. In Solomon S, Qin D, Manning M, Chen Z, Marquis M, Averyt KB,Tignor M,Miller HL eds.Contribution of Working Group Ito the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge University Press,Cambridge,UK and New York, NY, USA. 1-18.   
+Liu YC, Yu GR,Wang QF Zhang YJ,Xu ZH (2014). Carbon carry capacity and carbon sequestration potential in China based on an integrated analysis of mature forest biomass. Science China Life Sciences, 57,1218-1229.   
+Liu YC, Yu GR, Wang QF, Zhang YJ, Xu ZH (2014). Carbon carry capacity and carbon sequestration potential in China based on an integrated analysis of mature forest biomass. Science China Life Sciences,57,1218-1229.[刘迎春，于 贵瑞，王秋凤，张扬建，徐泽鸿 (2015)．基于成熟林生 物量整合分析中国森林碳容量和固碳潜力．中国科学: 生命科学,45,210-222.]   
+McKinley DC,Ryan MG,Birdsey RA,Giardina CP,Harmon ME,Heath LS,Houghton RA, Jackson RB,Morrison JF, Murray BC,Pataki DE,Skog KE (2011).A synthesis of current knowledge on forests and carbon storage in the United States.Ecological Applications,21,1902-1924.   
+Mehta N,Pandya NR, Thomas VO, Krishnayya NSR (2014). Impact of rainfall gradient on aboveground biomass and soil organic carbon dynamics of forest covers in Gujarat, India. Ecological Research,29,1053-1063.   
+Ni J (2001). Carbon storage in terrestrial ecosystems of China: Estimates at different spatial resolutions and their responses to climate change. Climatic Change,49,339-358.   
+Ni J(2002). BIOME Models: Main principles and applications. Acta Phytoecologica Sinica,26,481-488.(in Chinese with English abstract）[倪健(2002).BIOME系列模型：主要 原理与应用．植物生态学报,26,481-488.]   
+Ni J, Sykes MT,Prentice IC, Cramer W (2000). Modelling the vegetation of China using the process-based equilibrium terrestrial biosphere model BIOME3.Global Ecology & Biogeography, 9,463-479.   
+Peng CH,Apps MJ (1997). Contribution of China to the global carbon cycle since the last glacial maximum.Tellus,49, 393-408.   
+Pu Y,Huang GS (2013). Analyses on young-and-middle aged forests characteristics and the tending potential in China. Journal of Southwest Forestry University， 33(4),53-57. (in Chinese with English abstract) [蒲莹，黄国胜 (2013). 我国中幼龄林资源特点及抚育潜力分析．西南林业大 学学报,33(4),53-57.]   
+Tewksbury CE, Van Miegroet H (2007). Soil organic carbon dynamics along a climatic gradient in a southern Appalachian spruce-fir forest. Canadian Journal of Forest Research, 37,1161-1172.   
+Wang H (2011). Modelling of Vegetation Patterns and Functions in China Responding to Changes of Climates and Atmospheric $C O _ { 2 }$ Concentration.PhD dissertation, Institute of Botany， Chinese Academy of Sciences,Beijing. 36-37.(in Chinese).[王焓 (2011).响应气候和大气 $\mathrm { C O } _ { 2 }$ （204号 浓度变化的中国植被格局与功能模拟研究．博士学位 论文，中国科学院植物研究所，北京.36-37.]   
+Wang H, Ni J, Prentice IC (2011). Sensitivity of potential natural vegetation in China to projected changes in temperature,precipitation and atmospheric $\mathrm { C O } _ { 2 }$ .Regional Environmental Change,11,715-727.   
+Wang S, Chen JM, Ju WM,Feng X,Chen M, Chen P, Yu G (2007). Carbon sinks and sources in China's forests during 1901-2001. Journal of Environmental Management, 85, 524-537.   
+Wu QB,Wang XK, Duan XN, Deng LB,Lu F, Ouyang ZY, Feng ZW (2008). Carbon sequestration and its potential by forest ecosystems in China. Acta Ecologica Sinica, 28, 517-524.(in Chinese with English abstract）[吴庆标，王 效科，段晓男，邓立斌，逯非，欧阳志云，冯宗炜 (2008)．中国森林生态系统植被固碳现状和潜力．生态 学报,28,517-524.]   
+Xu B,Guo ZD,Piao SL,Fang JY (2010). Biomass carbon stocks in China's forests between 2000 and 2050: A prediction based on forest biomass-age relationships. Science China Life Sciences,53,776-783.[徐冰，郭兆迪，朴世 龙，方精云 (2010).2000-2050年中国森林生物量碳库: 基于生物量密度与林龄关系的预测．中国科学：生命科 学,40,587-594.]   
+Xu ZL, Zhao CY, Feng ZD, Zhang F, Sher H, Wang C, Peng HH,Wang Y, Zhao Y,Wang Y,Peng SZ, Zheng XL (2013). Estimating realized and potential carbon storage benefits from reforestation and afforestation under climate change: A case study of the Qinghai spruce forests in the Qilian Mountains, northwestern China. Mitigation and Adaptation Strategies for Global Change,18,1257-1268.   
+Zhang WW (2014). Effect of Drying-Rewetting on Litter and Soil Organic Matter Decomposition in Zoigé Wetland. Master degree dissertation, Beijing Forest University, Beijing.11-33.(in Chinese with English abstract）[张雪雯 (2014).干湿交替对若尔盖湿地枯落物和土壤有机质分 解的影响．硕士学位论文，北京林业大学，北京. 11-33.]   
+Zhao JF,Yan XD,Jia GS (2O12). Simulating net carbon budget of forest ecosystems and its response to climate change in Northeastern China using improved FORCCHN. Chinese Geographical Science, 22,29-41.   
+Zhou YR, Yu ZL, Zhao SD (2000). Carbon storage and budget of major Chinese forest types.Acta Phytoecologica Sinica, 24,518-522.(in Chinese with English abstract)[周玉荣, 于振良，赵士洞 (2000).我国主要森林生态系统碳贮量 和碳平衡．植物生态学报,24,518-522.]
+
+特邀编委：韩士杰责任编辑：李敏

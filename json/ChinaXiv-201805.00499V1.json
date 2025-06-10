@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201701120099 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛莉芹,程占红.五台山旅游开发与植被景观相互影响的生态效应评价.生态学报,2018,38(10);3639-3652.   \nNiuLQatfoafeteadsittataEoc (10):3639-3652. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "五台山旅游开发与植被景观相互影响的生态效应评价",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛莉芹¹，程占红²，\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1山西财经大学环境经济学院，太原030006  \n2山西财经大学旅游管理学院，太原 030031",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究旅游对植被的影响对于景区生态管理具有重要的实践意义。从景观重要值（LIV）、物种多样性（SD）、群落结构比（PCS）阴生种比值(NSP）、伴人种比值(PS)和旅游影响系数(TII)6个方面,构建了一套涉及4个层次、27个具体指标的评价体系,并结合五台山景区进行了实证分析。结果表明：(1)在不同方向上,随着距离的增加,旅游活动越来越少,植被景观依次由居民区、商业区或人工植被区向草本区、灌草区和乔灌草区的方向演替。相应地,LIV、SD、PCS、NSP 和生态效应值（EIV）越来越大,PS 和 TII越来越小。（2)不同的植被类型,其景观特征明显不同。对于LIV SD,PCS、NSP 和EIV5 个特征值的表征,草本区<灌草区 $<$ 乔灌草区;至于PS 和TII,草本区>灌草区>乔灌草区。旅游干扰下不同种群有不同的生物生态学特性,其中,青杨种群相对独特。（3)就整个台怀镇而言,旅游开发程度的空间格局是景点分布和地形因素共同作用的结果,植被景观对此有着明显的生态响应。不同方向上样地的数量就是旅游开发程度强弱的表征。正南和东北方向开发程度最强,其次是正北、东南和西南、正东方向,西北和正西方向最弱。（4)根据EIV,将整个区域分为四类区：I类区为寺庙区、居民区和商业区,Ⅱ类区为草本区，Ⅲ类区是乔、灌、草的混合区，V类区是乔灌草区。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：五台山；旅游开发；植被景观；生态效应评价",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evaluation of the ecological effect of tourism development on vegetation landscapes in Mount Wutai ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NIU Liqin’，CHENG Zhanhong² n 1 College of Environment Economics，Shanxi University ofFinance& Economics，TaiyuanO3Oo06,China 2 College of Tourism Management，Shanxi University of Finance & Economics，Taiyuan O3oo31，China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Studying_the impact of tourism onvegetation hasan importantpractical significance for the ecological management of scenic spots.The evaluation system was constructed from landscape importance value（LIV），species diversity（SD），proportions in community structure（PCS），negative species proportion（NSP），proportion of species in close proximity to human beings（PS），and tourism influencing index（TII）and wasapplied to Mount Wutai，which includesfourlayersand27specificindicators.Itshowsthat（1）withanincrease indistanceindiferent directions,tourism activity decreases，andthe vegetation landscape changes fromresidential，commercial，or artificial vegetation areas toan area of herbs，an area of the shrubs and herbs，and an area of trees，shrubs，and herb,in turn.Accordingly，,LIV，SD, PCS,NSP，and ecological efect value（EIV）increase with distance，while PSand TII decrease.（2）The landscape characteristics of different vegetationtypesareobviouslydiferent.For thecharacteristic valusof LIV，SD，PCS，NSP, and EIV,the area of herbs $<$ the area of shrubs and herbs $<$ the area of trees，shrubs，and herbs.As for the characteristic values of PS and TII,the area of herbs $>$ the area of shrubs and herbs $>$ the area of trees，shrubs，and herbs.Different populations havebiologicalandecological characteristics inresponsing to tourism disturbance,nwhich Populus cathayana is relativelyunique.（3）From Taihuai town，the spatial paternof tourismdevelopment is theresultof likenessbetween scenic spot distributions and topographic factors，and vegetation landscapes have obvious ecological responses.The number ofsamples in diferent directions indicates the degreeof tourism development.Thedegreeof development was the highest to the southandnortheast；thesecond highesttothe north，southeast，southwest，and east；andthe lowesttothe northwest and westofthetown.（4）The wholeregion is divided into fourareas bytheEIV.AreaIisthe temple,residential，and commercialareas；Area IIis te areaof herbs；Area IIis te mixtureareaof trees，shrubs，and herbs；andArea IVis the coexistence area of trees，shrubs，and herbs. G A 2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Mount Wutai； tourism development ；vegetation landscapes;； evaluation of ecological ffect",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自 20 世纪90年代以来,伴随着旅游开发的不断深人,旅游目的地的生态环境问题日益严峻。五台山是典型的宗教旅游胜地、国家级重点风景名胜区,近3年来旅游接待人次持续攀升,年均接待400 多万人次,强烈的旅游活动已严重影响了当地的生态环境。五台山又是“华北屋脊”,海拔较高,旅游中心区——台怀镇也海拔 $1 6 0 0 \\mathrm { ~ m ~ }$ ,自然生态环境相对高寒。生态系统一旦受到过多的人为干扰将难以恢复,因而监测和评价旅游景区生态系统的变化尤为重要。而植被作为一种最为敏感的生态要素,分析旅游对植被的影响则最能反映旅游生态问题。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "20 余年来国内外学者们主要基于不同旅游干扰方式和不同植被生态响应两个视角来开展研究。国外的研究成果主要是从不同旅游活动干扰的视角来比较其对植被的影响,首先,将旅游活动与其他干扰方式相比较,如与放牧、全球气候变化等干扰源相比较,结果表明,全球气候变化的影响具有根本性,会涉及本土植物群落的变化,放牧活动具有广泛性,旅游影响则相对较小,具有一定的局部性[1]。其次,就不同游憩方式对植被的影响进行比较,Pickering 和Hill等比较了徒步 骑马和山地自行车活动对植被和土壤的生态影响[2],同时，还综合评价了徒步和山地自行车对亚高山草甸的影响[3]。Tom 等比较了在不同森林类型中徒步、骑马和滑雪运动对游径和植被的影响[4]。Roux-Fouilet 等利用长期的野外实地样方观测,比较了不同滑雪道的管理模式对山地植被和土壤的影响[5]。从植被生态的角度来开展的研究成果,国内外都很多,主要表现在敏感植物种的变化、群落结构、生物多样性、生态位、种间关系等领域。例如,Tzatzanis 等基于植物指示种和生物多样性,来测算景观的价值,从而揭示了植被景观对于旅游干扰的生态响应[6]。杨红玉等分析了抗踩踏植物的形态、结构及其存活策略等生物学特性[7]。朱珠等分析了九寨沟旅游干扰对林下植物多样性的影响及其差异[8]。张桂萍等基于种间关系的研究方法,分析了旅游干扰对历山亚高山草甸种间关联的影响[9]。晋秀龙等从物种多样性的视角研究了旅游活动对九华山植物群落的影响[10]。程占红等基于生态位理论,构建了物种生态响应的速率模式[1],并对五台山亚高山草甸的生态响应进行了测算[12]。上述这些研究工作更多的仅是单纯从物种多样性、种间关系、生态位、以及物种或植被的单个生态特征来测算和描述,至于从整体上来系统地评价旅游对景区植被影响的研究工作还较欠缺。李贞等构建了群落景观重要值、敏感水平等评价指标，并研究了旅游对丹霞山植被的影响[13],但其研究工作尚未构建起一个系统的评价体系,而且没有考虑群落结构、以及各种植被层的生态特性。不同地域植被生态不同,评价体系应有所不同。五台山是典型的温带山地型森林植被类型,以往关于植被生态学的研究主要涉及植物区系和物种多样性[14]、全球气候变化下的林线生态变化及其附近物种多样性[15]、旅游影响下的物种多样性[16]、生态位和格局等[17],缺乏旅游活动对植被影响的综合性评价。为此,在充分借鉴其他学者研究的基础上,将构建一套衡量旅游对植被影响的评价体系,并以五台山为例进行实证分析，以有助于五台山景区的生态环境建设。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 取样调查",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "取样调查具体参见文献[16] ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2指标体系及其计量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文建立的评价体系有4个层次、27个具体指标,包括植被景观重要值、物种多样性、群落结构比、阴生种比值、伴人种比值和旅游影响系数6个方面。 \\~",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1)景观重要值(landscape important value,简称 LIV)在本文中的含义和计量与以往李贞等[13]所采用的有所不同。以往的LIV考虑到群落的物种、结构、美学等因素,比较复杂,故其涵义既反映生态价值,又体现旅游价值,具有一定的复杂性和模糊性。在本研究中,LIV 仅仅反映其生态价值,包括乔木重要值、灌木重要值和草本重要值3个方面,其计算公式如下： C5",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "乔木重要值 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （相对密度 $^ +$ 相对高度 $^ +$ 相对优势度)/300；  \n灌木、草本重要值 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （相对盖度 $+$ 相对高度)/200。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "某一种的盖度其中， 相对盖度= × 100 ;同一样带上全部样地内的所有种盖度之和某一种的平均高度相对高度=同一样带上全部样地内的所有种的平均高度之和 × 100 ;某一种的密度相对密度 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ （204 ×100 ;同一样带上全部样地内的所有种密度之和某一种的平均胸面积×株数相对优势度 $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ × 100 c同一样带上全部样地内的所有种平均胸面积 $\\times$ 株数之和",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)物种多样性(species diversity,简称SD)主要包括丰富度、均匀度和多样性3个方面[18],本文用9个指标分别从乔木层、灌木层和草本层3个方面来反映植被景观中物种的丰富度、均匀度和综合多样性。对于3种多样性指数,各有不同的测量方法。为了避免样地中单优种的多样性指数为零或无穷大的情况，采用如下方法来进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "丰富度指数采用：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = S\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "均匀度指数采用：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { 4 } = \\left( 1 / \\lambda \\right) / e H ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物种多样性指数采用：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simpson 指数:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\sum _ { i = 1 } ^ { s } { \\frac { N _ { i } ( N _ { i } - 1 ) } { N ( N - 1 ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中,S：样地中的物种总数； $N { : } S$ 个种的全部重要值之和; $N _ { i }$ ：第 $i$ 个种的重要值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3)群落结构比（proportions in community structure,简称 PCS）是反映旅游开发对植物群落结构影响的一个重要指标。植物群落的成层现象主要决定于植物的生活型。根据朗基耶尔生活型,有高位芽植物、地上芽植物、地面芽植物、隐芽植物和一年生植物,其中,高位芽植物又依高度分为4个亚类,即大高位芽植物、中高位芽植物、小高位芽植物与矮高位芽植物[19]。群落结构比就是用不同生活型植物所占的重要程度来表征。根据生活型的具体分类,群落结构比共有3层、8个具体指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（4)阴生种比值(negative species proportion,简称 NSP)指样地中阴生植物种类所占的重要程度。其值愈大,说明其依存的生态环境愈佳。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5）伴人种比值(proportion of species in close proximity to human beings,简称PS)指伴人植物在样地中所占的重要程度。比值愈大,人为影响愈强。当样地为居民区、商业区或寺庙区时,伴人种比值均计为1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6)旅游影响系数(tourism influencing index,简称 TII)指旅游活动对植被景观的干扰程度。TII越大,说明旅游破坏强度越强,旅游管理质量越差。旅游影响主要包括垃圾、践踏、折枝损坏现象等,其赋值见文献[20]。当样地为居民区、商业区或寺庙区时,旅游影响系数均计为1。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从指标性质看,伴人种比值和旅游影响系数属于负值,其绝对值愈大,植被景观愈差,旅游活动的生态负效应愈大。景观重要值、物种多样性、群落结构比和阴生种比值属于正值,其值愈大,说明植被景观愈好,旅游干扰愈小。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 分析方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文运用层次分析法（analytic hierarchy process，AHP）逐层确定上述指标体系中各个层次的指标的权重。通过AHP确定各指标的权重以后,便可以定量地比较植被景观的各种特征,最终确定植被景观对旅游开发生态效应的性质和大小，从而划分出不同性质的生态区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在层次分析法中,需要进行一致性检验,其中，CI是一致性指标, $\\mathrm { C I } = 0$ ,表示有完全的一致性;CI接近于0,表示具有满意的一致性;CI越大,不一致性越严重。CR 是随机一致性比率,当 $\\mathrm { C R } { < } 0 . 1$ 时,表明具有满意的一致性。根据 AHP 法的计算结果可知（表1),在本研究中所构建的9个判断矩阵中,CI值都非常接近于0,CR 值也均都小于0.1，说明它们均具有满意的一致性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据AHP法,各层次的指标权重结果见表1。通过分析各指标的权重,可以看出各指标对于该层总目标的重要性。在第一层次中,对于旅游开发与植被景观之间的生态效应,景观重要值的权重最大,其次是群落结构比,第三是物种多样性,第四是旅游影响系数,最小的是伴人种比值和阴生种比值。在第二层次中,对于景观重要值而言,乔木重要值的权重最大,其次是灌木重要值,最小的是草本重要值;对于物种多样性而言,其重要性依次是乔木层、草本层、灌木层;在群落结构上,生活型植物的重要性依次是高位芽、地上芽、地面芽、隐芽、一年生植物;对于旅游影响系数而言,各指标的权重大小依次是林木更新影响系数 $>$ 植被层现状系数>垃圾影响系数>折枝影响系数>践踏影响系数。在第三层次中,对于乔木层、灌木层和草本层的物种多样性而言,丰富度的权重都是最大的,其次是多样性,最小的是均匀度;对于高位芽植物比例而言,各生活型的权重依次是大高位芽植物比例>中高位芽植物比例 $>$ 小高位芽植物比例>矮高位芽植物比例。依据各个指标的权重（表1），分别计算植被景观的各种特征值。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a5a89f6a7f3d8ecea0ed571549b815a91435b27a290a2d9ab9a6c0dea06ddfe.jpg",
+        "table_caption": [
+            "表1层次分析法确定的指标权重",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"7\">Table 1 The indices'weight coefficientcalculatingby Analytic HierarchyProcess</td></tr><tr><td>层次Hierarchy</td><td>Cha特征estic root</td><td>一致性指标 indicator</td><td>随机一致性比率 consistencyratio</td><td>Co号me</td><td>该层次权重 this hierarchy</td><td></td></tr><tr><td rowspan=\"7\">A层-B层 A Hierarchy- BHierarchy</td><td>6.1112</td><td>0.0223</td><td>0.0177</td><td>B1</td><td>0.2465</td><td>to total target 0.2465</td></tr><tr><td></td><td></td><td></td><td>B2</td><td>0.2100</td><td>0.2100</td></tr><tr><td></td><td></td><td></td><td>B3</td><td>0.2208</td><td>0.2208</td></tr><tr><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td rowspan=\"5\"></td><td>B4</td><td>0.0579</td><td>0.0579</td></tr><tr><td>B5</td><td>0.0610</td><td>0.0610</td></tr><tr><td>B6</td><td>0.2040</td><td>0.2040</td></tr><tr><td>C1</td><td>0.6185</td><td>0.1525</td></tr><tr><td>C2</td><td>0.2292</td><td>0.0565</td></tr><tr><td>B2-C层</td><td>3.003</td><td>0.0015</td><td>0.0030</td><td>C3</td><td>0.1524</td><td>0.0376</td></tr><tr><td rowspan=\"3\">B2—CHierarchy</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td>C4</td><td>0.4021</td><td>0.0844</td></tr><tr><td>C5</td><td>0.2767</td><td>0.0581</td></tr><tr><td>C6</td><td>0.3212</td><td>0.0675</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/00500da6e9feac9b658f1836467e0fc5a8e4454440a63096ad6fdb76d15c3bf4.jpg",
+        "table_caption": [
+            "续表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>层次 Hierarchy</td><td>特征根 Characteristic root</td><td>一致性指标 Coincidence indicator</td><td>随机一致性比率 Random consistency ratio</td><td>代号 Code name</td><td>该层次权重 The weight of this hierarchy</td><td>相对于总目标重 hierarchy Relative</td></tr><tr><td>B3-C层</td><td>5.1962</td><td>0.0489</td><td>0.0438</td><td>C7</td><td>0.3425</td><td>to total target 0.0756</td></tr><tr><td>B3—C Hierarchy</td><td></td><td></td><td></td><td>C8</td><td>0.2506</td><td>0.0553</td></tr><tr><td></td><td></td><td></td><td></td><td>C9 C10</td><td>0.2068</td><td>0.0457</td></tr><tr><td rowspan=\"5\">B6-C层</td><td rowspan=\"5\">5.1907</td><td rowspan=\"5\">0.0477</td><td></td><td></td><td>0.1127</td><td>0.0249</td></tr><tr><td></td><td>C11</td><td>0.0874</td><td>0.0193</td></tr><tr><td>0.0426</td><td>C12</td><td>0.1938</td><td>0.0395</td></tr><tr><td></td><td>C13</td><td>0.0729</td><td>0.0149</td></tr><tr><td>C14</td><td></td><td>0.1872</td><td>0.0382 0.0600</td></tr><tr><td></td><td></td><td>0</td><td></td><td>C15 C16</td><td>0.2942 0.2500</td><td>0.0510</td></tr><tr><td>C4-D层 C4—D Hierarchy</td><td>3</td><td></td><td>0</td><td>D1 D2</td><td>0.4540</td><td>0.0383</td></tr><tr><td></td><td></td><td></td><td></td><td>D3</td><td>0.2254 0.3206</td><td>0.0190 0.0271</td></tr><tr><td>C5-D层</td><td>3</td><td>0</td><td>0</td><td>D4</td><td>0.4540</td><td>0.0264</td></tr><tr><td>C5—D Hierarchy</td><td></td><td></td><td></td><td>D5</td><td>0.2254</td><td>0.0131</td></tr><tr><td></td><td></td><td></td><td></td><td>D6</td><td>0.3206</td><td>0.0186</td></tr><tr><td>C6-D层</td><td>3</td><td>0</td><td>0</td><td>D7</td><td>0.4540</td><td>0.0306</td></tr><tr><td>C6—D Hierarchy</td><td></td><td></td><td></td><td>D8</td><td>0.2254</td><td>0.0152</td></tr><tr><td></td><td></td><td>0.0150</td><td></td><td>D9</td><td>0.3206</td><td>0.0216</td></tr><tr><td>C7-D层</td><td>4.0450</td><td></td><td>0.0169</td><td>D10</td><td>0.3529</td><td>0.0267</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C7—D Hierarchy</td><td></td><td></td><td></td><td>D11</td><td>0.3436</td><td>0.0260</td></tr><tr><td></td><td></td><td></td><td></td><td>D12</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>D13</td><td>0.1999 0.1037</td><td>0.0151 0.0078</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A:旅游开发与植被景观之间的生态效应,Theecologicalefectof tourismdevelopmentonvegetationlandscapes；B1;景观重要值,Landscape importancevaueSpesdesity落比,roportosimityructureB生比值gatiespesrt B5:伴人种比值,roportonofspeciesincloseproximitytohumanbeingsB6;旅游影响系ourismifuencingindex;C1:乔木重要,ee importancevalue;C2灌木重要值,Shrubimportancevalue;C草本重要值,Herbimportancevalue;C4,乔木层物种多样性,Speciesdiverstyofre layer;C5：灌木层物种多样性,Species diversityof shrublayer;C6;草本层物种多样性,Species diversityof herblayer;C7:高位芽植物比例， Phanerophyte proportion;C8;地上芽植物比例,Chamaephyte proportion;C9;地面芽植物比例,Hemicryptophyte proportion;C10;隐芽植物比例， Cryptophyteproportion;C1l:一年生植物比例,ProportionofannualplantsC12;垃圾影响系,Rubbishinfluencingindex；C13：践踏影响系数， TramplinginfluencingindexC4折影响Dmagigrachifueingindex;C5木更影响系Forestegeneationincingide; C16:植被层现状Vegetatoatioifuecingidex;:乔木层度,ecessoftreler;D木层均匀度,eeefr layer;D3:乔木层性,eiversityofrelayer;D4灌木层富TheichessofublaerD5灌木层均匀度,heeveessofly;D6： 灌木层多样性,Thediversityofhubler;D草本层富度,Thechessofherbler;D草本层均匀度,heeveesofherblayer;D9:草本层多 样性,Thediversityofrlaer;DO高位比例,argeaeropeproportio;D1高位比例,idleaeropheorto； D12:小高位芽植物比例,Smallphanerophyte proportion;D13;矮高位芽植物比例,Short and small phanerophyte proprtion ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在五台山旅游区,由于旅游景点分布的空间差异,因而不同方向上旅游开发程度不一,相应地,不同方向上也有着不同的旅游吸引力和不同强度的旅游干扰。为此，从不同方向上（即不同样线上）,来分析旅游开发与植被景观之间的生态效应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1 正东方向",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "正东方向首先经过了塔院寺、街道区、居民区和商业区,这些区属于人为活动强烈干扰区,仅有一些乔木种或草本植物偶然出现,未能形成一个小的植物群落;其次,样线经过的植被区域才依次由单纯的草本层向乔灌草并存的区域类型过渡,其中 E6—E9 为草本群落,E10 和E11为青杨群落（Comm.Populus cathayana）,E12",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为华北落叶松群落（Comm.Larixprincipis-rupprechtii）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可知,样地E1—E5 的景观重要值（LIV）、物种多样性（SD）、群落结构比（PCS）和阴生种比值(NSP)均为0,而伴人种比值(PS)和旅游影响系数(TII)均为1,这一结果与这类区域的性质和植被现状相一致。随着距离的增加,即从E6—E12,LIV、SD、PCS 和 NSP4 种特征值在总体上有一个不断增长的趋势,PS 和TII值却在不断减小。这说明旅游干扰越来越小,植被景观的质量越来越好。就植被景观的类型来讲,乔木景观的各种特征远远要好于草本景观。在草本景观中(E6—E9),尽管建群种不同,但是随着距离的增加,即干扰越来越小的情况下,LIV、SD、PCS 和 NSP4 种特征值表现出一致增大的趋势;在乔木景观中,由于群落性质不同,景观却有不同的特征。从E1O—E12,除 NSP外,LIV、SD 和PCS 都在E11达到最大值,随后又开始下降。E11和E12的旅游干扰近乎相等,这说明在自然条件和旅游干扰近乎相等的情况下,青杨群落的景观特征要大于华北落叶松群落的景观特征。从生态效应值(EIV)来看,EIV 有正负之分,E1—E7为负值,E8—E12为正值。这说明对于旅游开发的生态响应，植被景观在近距离处表现出明显的生态负效应，而在远距离处EIV 越来越大。 \\~",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从自然条件来看,该样带的海拔不断升高,地形由平地向山地沿伸,且坡度越来越大,坡向在山地区域基本一致。而地形较陡的地方,植被景观较好,说明旅游开发程度大的区域首选地形平缓区。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7dbff1468490c34ff7e5e41d4845113c88b52e18ce246595fbc9304e6a4f71d.jpg",
+        "table_caption": [
+            "表2正东方向植被景观特征",
+            "Table 2The characteristics of vegetation landscape in due eas "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\"></td><td colspan=\"5\">伴人</td></tr><tr><td>样地l</td><td></td><td>S度</td><td>坡向</td><td>Som</td><td>Slope</td><td>></td><td>value Landscape</td><td></td><td> structure</td><td>proportion</td><td>human</td><td>index</td><td>value</td></tr><tr><td>E1</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>100</td><td>0</td><td>0</td><td>0</td><td></td><td>beings</td><td></td><td></td></tr><tr><td>E2</td><td>1600</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.9980</td><td>-0.2646</td></tr><tr><td>E3</td><td></td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>200</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.9980</td><td>-0.2646</td></tr><tr><td>E4</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>300</td><td>0</td><td>0</td><td>0</td><td>0 0</td><td>1</td><td>0.9980</td><td>-0.2646</td></tr><tr><td>E5</td><td>1600 1605</td><td>0 0</td><td>南坡 南坡</td><td>平地 平地</td><td>平地 平地</td><td>400 500</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1 1</td><td>0.9980 0.9980</td><td>-0.2646</td></tr><tr><td>E6</td><td>1610</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>600</td><td>0.0115</td><td>0.9633</td><td>0.1501</td><td>0</td><td>0.8164</td><td>0.8078</td><td>-0.2646 -0.1034</td></tr><tr><td>E7</td><td>1615</td><td>17</td><td>西北坡</td><td>线坡</td><td>下坡</td><td>700</td><td>0.0162</td><td>1.5331</td><td>0.1656</td><td>0.0340</td><td>0.6329</td><td>0.7909</td><td>-0.0693</td></tr><tr><td>E8</td><td>1660</td><td>25</td><td>西北坡</td><td>线坡</td><td>中坡</td><td>800</td><td>0.0229</td><td>1.5340</td><td>0.2057</td><td>0.1620</td><td>0</td><td>0.6953</td><td>0.0469</td></tr><tr><td>E9</td><td>1720</td><td>16</td><td>西北坡</td><td>线坡</td><td>中坡</td><td>900</td><td>0.0301</td><td>2.1190</td><td>0.2029</td><td>0.4725</td><td>0</td><td>0.6732</td><td>0.0813</td></tr><tr><td>E10</td><td>1760</td><td>25</td><td>西北坡</td><td>线坡</td><td>中坡</td><td>1000</td><td>0.2001</td><td>1.8030</td><td>0.3373</td><td>0.2946</td><td>0</td><td>0.4367</td><td>0.2742</td></tr><tr><td></td><td>1790</td><td>30</td><td>东北坡</td><td>线坡</td><td>中坡</td><td>1100</td><td>0.3822</td><td>3.1657</td><td>0.4179</td><td>0.2876</td><td>0</td><td>0.4477</td><td>0.4074</td></tr><tr><td>E11 E12</td><td>1820</td><td>22</td><td>西北坡</td><td>线坡</td><td>中坡</td><td>1200</td><td>0.3371</td><td>2.0837</td><td>0.3265</td><td>0.4842</td><td>0.0159</td><td>0.2008</td><td>0.414</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2东北方向",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "东北方向首先经过了寺庙区和居民区（NE1—NE7,NE9）,其次才是草本景观区（NE8,NE10—NE12）、乔木景观区（NE13—NE21）。在乔木景观区,群落类型比较复杂,有青杨群落（NE13、NE14 和 NE16）、华北落叶松群落（NE15 和 NE21）、杏树群落（Comm.Prunus armeniaca）（NE17）、青杆群落（Comm.Picea wilsonii）（NE18和NE19）油松群落（Comm.Pinus tabulaeformis）（NE20）。该样带海拔在 $1 6 0 0 { - } 1 7 0 0 \\mathrm { ~ m ~ }$ 之间,草本景观区部分属于农田弃耕地,乔木景观区的坡度普遍较陡,坡向基本为南坡或东南坡,坡形为线性,坡位为中下坡。东北方向是进入五台山的北大门,该样带除受旅游景点影响外,还受到附近交通线路的影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表3可知,样地 NE1—NE7和 NE9 的LIV、SD、PCS 和 NSP 均为0,PS和TII均为1。随着距离的增加,尽管LIV、SD、PCS 和NSP4 值因不同的群落类型而有所波动,但是它们都有一个不断增大的趋势;而PS 和TI都是在明显地下降。至于EIV,随着距离的增加,EIV越来越大。其中,在寺庙区和居民区、草本景观区,植被景观都表现出生态负效应,在乔木景观区则表现出正效应。从不同类型的植被景观而言,无论LIV、SD、PCS,还是NSP,乔木景观区都比草本景观区要大;但是乔木景观区的PS和TII都要小于草本景观区。在乔木景观区,因群落类型不同,植被特征变化复杂。相对而言,青杨群落的LIV、SD 和 NSP 都较小,而PCS 与其他群落类型近于相当。杏树群落的各种特征值也很小。青杆、油松和华北落叶松群落的4个特征值却相对较大。这种差异可能有2个原因:首先,青杨、杏树群落距中心区较近,受到的干扰大;青杆、油松和华北落叶松群落距中心区较远,旅游干扰很小。第二,可能由于种群的生物学特性所造成的。不同种群有不同的生态习性,相应地群落内的微环境如光照、水分等便有所差异,从而有着不同的植被特征。如实际调查中,青杨、杏树群落仅有乔木和草本两个植被层次,而青杆、华北落叶松群落中有时还会出现灌木层。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6dd51351a7b92ace6031b35a7df3eed4fc6499eca9edf0290383b63a341402cd.jpg",
+        "table_caption": [
+            "表3东北方向植被景观特征",
+            "Table 3The characteristics of vegetation landscape in the northeast "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">伴人 样地e</td></tr><tr><td>海aton/ m</td><td>度</td><td>e</td><td>m</td><td>坡位 position</td><td>Dance/ m</td><td>i poalance</td><td>diversity</td><td>）</td><td></td><td>p</td><td></td><td></td><td></td></tr><tr><td>NE1</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>100 0</td><td></td><td>0</td><td>0</td><td>0</td><td>beings 1</td><td>0.998</td><td></td></tr><tr><td>NE2</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>200 0</td><td></td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646 -0.2646</td></tr><tr><td>NE3</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>300 0</td><td></td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NE4</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>400 0</td><td></td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NE5</td><td>1605</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>500</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NE6</td><td>1610</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>600</td><td>02</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NE7</td><td>1620</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>700</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NE8</td><td>1630</td><td>8</td><td>东南坡</td><td>线坡</td><td>下坡</td><td>800</td><td>0.0072</td><td>1.6783</td><td>0.1529</td><td>0.049</td><td>0.7513</td><td>0.8078</td><td>-0.0991</td></tr><tr><td>NE9</td><td>1640</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>900</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NE10</td><td>1660</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>1000</td><td>0.0093</td><td>0.8227</td><td>0.1608</td><td>0.1171</td><td>0.3534</td><td>0.7323</td><td>-0.0642</td></tr><tr><td>NE11</td><td>1670</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>1100</td><td>0.0075</td><td>0.6823</td><td>0.1961</td><td>0.0697</td><td>0.6971</td><td>0.6863</td><td>-0.0599</td></tr><tr><td>NE12</td><td>1660</td><td>30</td><td>南坡</td><td>线坡</td><td>上坡</td><td>1200 0.0092</td><td></td><td>1.1038</td><td>0.2325</td><td>0.0781</td><td>0</td><td>0.6980</td><td>-0.0086</td></tr><tr><td>NE13</td><td>1680</td><td>17 南坡</td><td></td><td>线坡 中坡</td><td>1300</td><td>0.0555</td><td></td><td>1.7977</td><td>0.3254</td><td>0.272</td><td>0</td><td>0.6063</td><td>0.1545</td></tr><tr><td>NE14</td><td>1690</td><td>15</td><td>南坡 凹坡</td><td>下坡</td><td>1400</td><td>0.0731</td><td></td><td>2.5135</td><td>0.3286</td><td>0.63</td><td>0</td><td>0.5123</td><td>0.2374</td></tr><tr><td>NE15</td><td>1690 2</td><td>15</td><td>东北坡 线坡</td><td>下坡</td><td>1500</td><td>0.1952</td><td></td><td>2.0685</td><td>0.3774</td><td>0.5421</td><td>0.0252</td><td>0.5690</td><td>0.3323</td></tr><tr><td>NE16</td><td>1680</td><td>5 东坡</td><td>凹坡</td><td>下坡</td><td>1600</td><td>0.0927</td><td></td><td>1.5076</td><td>0.3292</td><td>0.1611</td><td>0.0174</td><td>0.6688</td><td>0.1785</td></tr><tr><td>NE17</td><td>1670</td><td>0 南坡</td><td>平地</td><td>平地</td><td>1700</td><td>0.0592</td><td></td><td>2.2314</td><td>0.2734</td><td>0.2682</td><td>0.0485</td><td>0.6405</td><td>0.1406</td></tr><tr><td>NE18</td><td>1680</td><td>23 东南坡</td><td>线坡</td><td>下坡</td><td>1800</td><td>0.1611</td><td></td><td>1.9070</td><td>0.4143</td><td>0.3569</td><td>0</td><td>0.4863</td><td>0.3488</td></tr><tr><td>NE19</td><td>1690</td><td>28 南坡</td><td>线坡</td><td>中坡</td><td>1900</td><td>0.0973</td><td></td><td>2.6326</td><td>0.3261</td><td>0.5056</td><td>0</td><td>0.3571</td><td>0.3123</td></tr><tr><td>NE20</td><td>1700</td><td>30</td><td>东南坡 线坡</td><td>中坡</td><td>2000</td><td>0.2211</td><td></td><td>2.3689</td><td>0.2671</td><td>0.4046</td><td>0.0752</td><td>0.2618</td><td>0.3511</td></tr><tr><td>NE21</td><td>1700</td><td>20</td><td>南坡</td><td>线坡</td><td>中坡</td><td>2100 0.1392</td><td></td><td>2.5147</td><td>0.3274</td><td>0.4787</td><td>0</td><td>0.1741</td><td>0.4093</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3正北方向",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "正北方向依次经过寺庙区（N1—N6）、乔木景观区（N7—N15）。其中,样地 N7—N9为青杨群落,N10—N15 为华北落叶松群落。该样带海拔在 $1 6 0 0 { - } 1 8 0 0 \\mathrm { ~ m ~ }$ 之间,地势逐渐升高。在乔木景观区,坡度较陡,坡形为线形。青杨群落在东坡,位于山坡上部;华北落叶松群落在东北坡,位于中下坡。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表4可知,寺庙区植被景观特征与上述样线相同。随着距离的增加,LIV、SD、PCS、NSP 和EIV都有增大的趋势,而PS 和TII都在减小。就不同群落类型看,青杨群落受到的旅游干扰明显要大于华北落叶松群落,SD、PCS、NSP 和EIV也反映了这一生态趋势,即前者的4种特征值要远远小于后者。至于LIV,青杨群落要大于华北落叶松群落,这可能说明青杨种群对于旅游干扰有着生物生态学方面的独特性。就同一群落类型如华北落叶松群落,不同距离带上有不同程度的旅游干扰,景观特征也有差异。距离愈远,LIV、SD、PCS 和NSP 相对愈大,但是在距离中等的地方,某些特征值却较大,如 N13 处的 LIV、PCS 和 NSP 分别为0.1504、0.3569和0.488,N12处的SD为2.5183,这说明中度干扰有利于植物生长,植被景观表现良好。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1c5c121704dc41d35188a7378d8fd61b5b8db4bc74123fc71892a60f4876873.jpg",
+        "table_caption": [
+            "表4正北方向植被景观特征",
+            "Table 4The characteristics of vegetation landscape in due north "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地 Sample</td><td>海拔 Eleraion/</td><td>坡度 Slope/(°)</td><td>坡向 Aspect</td><td>坡形 Slope form</td><td>坡位</td><td>距离 Distme/</td><td>量值 importance value Landscape</td><td>物种</td><td>维 Proi structure</td><td>值 Neeaiye proportion</td><td>伴人 human</td><td>旅游数 index</td><td></td><td>生态 value</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>beings</td><td></td><td></td><td></td></tr><tr><td>MN2</td><td>1600</td><td></td><td>南坡</td><td>平地</td><td>平地</td><td>1020</td><td>oo</td><td>o0</td><td></td><td></td><td></td><td></td><td>0.998</td><td>-0.246</td></tr><tr><td>N3</td><td>1605</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>300</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>N4</td><td>1615</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>400</td><td>0</td><td>0</td><td></td><td>3</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>N5</td><td>1630</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>500</td><td>0</td><td>0</td><td>0</td><td>20</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>N6</td><td>1645</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>600</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>N7</td><td>1650</td><td>25</td><td>东坡</td><td>线坡</td><td>上坡</td><td>700</td><td>0.1054</td><td>0.5213</td><td>0.1178</td><td>0</td><td>0</td><td></td><td>0.923</td><td>0.058</td></tr><tr><td>N8</td><td>1660</td><td>27</td><td>东坡</td><td>线坡</td><td>上坡</td><td>800</td><td>0.1266</td><td>1.7926</td><td>0.2896</td><td>0.0879</td><td>0.5675</td><td></td><td>0.7592</td><td>0.2164</td></tr><tr><td>N9</td><td>1700</td><td>33</td><td>东坡</td><td>线坡</td><td>上坡</td><td>900</td><td>0.0929</td><td>2.3625</td><td>0.3102</td><td>0.2057</td><td>0.1371</td><td></td><td>0.6050</td><td>0.2371</td></tr><tr><td>N10</td><td>1730</td><td>25</td><td>东坡</td><td>线坡</td><td>中坡</td><td>1000</td><td>0.0899</td><td>2.3401</td><td>0.3353</td><td>0.1368</td><td>0.0602</td><td></td><td>0.5409</td><td>0.2797</td></tr><tr><td>N11</td><td>1760</td><td>19</td><td>东南坡</td><td>线坡</td><td>下坡</td><td>1100</td><td>0.0763</td><td>1.9324</td><td>0.3216</td><td>0.2971</td><td>0.0499</td><td></td><td>0.4548</td><td>0.2641</td></tr><tr><td>N12</td><td>1780</td><td>28</td><td>东北坡</td><td>线坡</td><td>中坡</td><td>1200</td><td>0.0481</td><td>2.5183</td><td>0.3179</td><td>0.4305</td><td>0.0372</td><td></td><td>0.3443</td><td>0.2698</td></tr><tr><td>N13</td><td>1800</td><td>15</td><td>东北坡</td><td>线坡</td><td>中坡</td><td>1300</td><td>0.1504</td><td>2.2177</td><td>0.3569</td><td>0.488</td><td>0</td><td></td><td>0.2812</td><td>0.4126</td></tr><tr><td>N14</td><td>1750</td><td>15</td><td>东北坡</td><td>线坡</td><td>下坡</td><td>1400</td><td>0.0745</td><td>2.2226</td><td>0.3155</td><td>0.4049</td><td>0.1014</td><td></td><td>0.2215</td><td>0.3229</td></tr><tr><td>N15</td><td>1770</td><td>15</td><td>东北坡</td><td>线坡</td><td>下坡</td><td>1500</td><td>0.2360</td><td>2.7339</td><td>0.3789</td><td>0.4105</td><td>0.0342</td><td></td><td>0.1366</td><td>0.5079</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4 西北方向",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在西北方向上,NW2为居民区,NW1、NW3、NW4 和NW7为草本区,NW5和NW8为灌草区,NW6为青杨群落区,NW9和NW10 为青杆群落区。该样带海拔在 $1 6 0 0 { - } 1 7 3 0 \\mathrm { ~ m ~ }$ 之间,近距离处为居民区和弃耕地,其他样地坡度较陡,坡向为东坡或东南坡，坡形为线形，属于下坡。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表5可知,除居民区外,随着距离的增加,LIV、SD、PCS、NSP 和EIV 总体上都有一个不断增加的趋势,PS 和 TII却不断减小。这一总体态势体现了植被景观由草本区向灌草区、乔灌草区演替的趋势,也说明其生态效应由负性向正性发展。居民区和草本区基本属于负效应区,灌草区和乔灌草区属于正效应区。部分样地由于自身原因,其景观特征值有所变化。与其他样线相类似,LIV、SD、PCS、NSP 和EIV5个特征值有以下变化趋势：草本区<灌草区<乔灌草区。青杨群落区和青杆群落区相比,前者所受的旅游干扰大于后者,相应地,前者 SD、PCS 和NSP 值小于后者,但是前者的LIV却远大于后者,这又进一步说明了青杨种群有着独特的生物生态学特性。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.5 正西方向",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正西方向经过草本区（W1—W4,W6）、灌草区（W5）、乔灌草区（W7—W9)。W1—W5 为农田弃耕地和坟地区,因而PS非常高。乔灌草区均在坡地中部,坡度较缓,为线形坡,坡向为东坡。其中,W7为白杆群落区,W8 和W9 为华北落叶松群落区。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/142531f4d7f5a4c6f5497765ab63147b0b6418007348a8cddc5fd09eb3948dd7.jpg",
+        "table_caption": [
+            "Table 5The characteristics of vegetation landscape in the northwest "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\"></td><td colspan=\"5\">伴人</td></tr><tr><td>样地e</td><td></td><td>S度</td><td>坡向</td><td>Sm</td><td></td><td></td><td></td><td></td><td></td><td></td><td>i human</td><td>influencing</td><td></td></tr><tr><td>NW1</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>100</td><td>0.0146</td><td>1.5359</td><td>0.1087</td><td>0</td><td>beings 0.4017</td><td>0.8030</td><td>-0.0694</td></tr><tr><td>NW2</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>200</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>NW3</td><td>1620</td><td>5</td><td>东南坡</td><td>凹坡</td><td>上坡</td><td>300</td><td>0.0148</td><td>1.3919</td><td>0.1943</td><td>0.2463</td><td>0.4216</td><td>0.6909</td><td>-0.0165</td></tr><tr><td>NW4</td><td>1630</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>400</td><td>0.0109</td><td>0.5489</td><td>0.2262</td><td>0.149</td><td>0.6561</td><td>0.6936</td><td>-0.0408</td></tr><tr><td>NW5</td><td>1650</td><td>29</td><td>东南坡</td><td>线坡</td><td>中坡</td><td>500</td><td>0.0328</td><td>1.8174</td><td>0.2233</td><td>0.3262</td><td>0.0796</td><td>0.5848</td><td>0.1093</td></tr><tr><td>NW6</td><td>1660</td><td>30</td><td>东坡</td><td>线坡</td><td>下坡</td><td>600</td><td>0.3134</td><td>1.7984</td><td>0.3046</td><td>0.193</td><td>0.0218</td><td>0.5152</td><td>0.298</td></tr><tr><td>NW7</td><td>1680</td><td>10</td><td>东坡</td><td>线坡</td><td>上坡</td><td>700</td><td>0.0182</td><td>1.5367</td><td>0.1851</td><td>0.1621</td><td></td><td>0.5904</td><td>0.0292</td></tr><tr><td>NW8</td><td>1680</td><td>5</td><td>东南坡</td><td>线坡</td><td>下坡</td><td>800</td><td>0.2001</td><td>2.1035</td><td>0.2646</td><td>0.1408</td><td>0.1756</td><td>0.4743</td><td>0.1852</td></tr><tr><td>NW9</td><td>1700</td><td>21</td><td>东坡</td><td>线坡</td><td>下坡</td><td>900</td><td>0.1631</td><td>1.7942</td><td>0.3373</td><td>0.2414</td><td>0</td><td>0.3277</td><td>0.302</td></tr><tr><td>NW10</td><td>1730</td><td>23</td><td>东南坡</td><td>线坡</td><td>下坡</td><td>1000</td><td>0.2321</td><td>2.2165</td><td>0.3468</td><td>0.4567</td><td>0</td><td>0.1928</td><td>0.4616</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表6可知,随着距离的增加,植被景观由草本区向灌草区、乔灌草区过渡,LIV、SD、PCS、NSP 和 EIV 相应地增大,PS 和TII相应地减小。草本区除W6外,均为生态负效应区。白杆群落区和华北落叶松群落区相比,前者的LIV、SD、PCS、NSP 和EIV5 个特征值均小于后者。这说明不同类型的群落,其景观特征有所差异。就草本区而言,尽管建群种不相同,但仍有这种趋势—距离越近,LIV、SD、PCS、NSP 和EIV 越来越小。这说明在旅游干扰下,草本层中的建群种对于整个群落的生态作用非常有限,其作用远不及乔木层中的建群种。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fe80ef830ede7278a4d2341ef776f094cfcbbb7dece1c900919f3c414f3f67f.jpg",
+        "table_caption": [
+            "表5西北方向植被景观特征",
+            "表6正西方向植被景观特征",
+            "Table 6The characteristics of vegetation landscape in due west "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">地e</td><td rowspan=\"2\"></td><td rowspan=\"2\">度 向</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td colspan=\"7\">伴人</td></tr><tr><td>美 value</td><td></td><td> structure</td><td>proportion</td><td>m</td><td>index</td><td>value</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>human beings</td><td></td><td></td></tr><tr><td>W1</td><td>1610</td><td>15</td><td>东北坡 线坡</td><td></td><td>中坡</td><td>100</td><td>0.0110</td><td>1.2466</td><td>0.1457</td><td>0</td><td>0.6613</td><td>0.7276 0.7230</td><td>-0.1583</td></tr><tr><td>W2</td><td>1635</td><td>12 东北坡</td><td>线坡</td><td></td><td>中坡 平地</td><td>200 300</td><td>0.0093 0.0201</td><td>0.6845 1.5373</td><td>0.0933 0.1486</td><td>0 0</td><td>0.431 0.308</td><td>0.6569</td><td>-0.1693 -0.0797</td></tr><tr><td>W3 W4</td><td>1650 1670</td><td>0 南坡 南坡</td><td>平地 平地</td><td>平地</td><td></td><td>400</td><td>0.0175</td><td>1.3914</td><td>0.1364</td><td>0.0196</td><td>0.4157</td><td>0.5537</td><td>-0.0691</td></tr><tr><td>W5</td><td>1680</td><td>0 13 东坡</td><td>线坡</td><td></td><td>下坡</td><td>500</td><td>0.0812</td><td>1.9043</td><td>0.2703</td><td>0.343</td><td>0.0573</td><td>0.5767</td><td>0.171</td></tr><tr><td>W6</td><td>1700</td><td>0 南坡</td><td>平地</td><td>平地</td><td></td><td>600</td><td>0.0166</td><td>1.9701</td><td>0.1710</td><td>0.3052</td><td>0</td><td>0.5537</td><td>0.0311</td></tr><tr><td>W7</td><td>1730</td><td>18 东坡</td><td>线坡</td><td></td><td>下坡</td><td>700</td><td>0.2568</td><td>2.4842</td><td>0.3623</td><td>0.2124</td><td>0.0994</td><td>0.3162</td><td>0.4059</td></tr><tr><td>W8</td><td>1750</td><td>11 东坡</td><td>线坡</td><td></td><td>中坡</td><td>800</td><td>0.2557</td><td>2.6446</td><td>0.3943</td><td>0.2048</td><td>0.0703</td><td>0.2001</td><td>0.4518</td></tr><tr><td>W9</td><td>1760</td><td>15</td><td>东坡 线坡</td><td></td><td>中坡</td><td>900</td><td>0.3363</td><td>2.6467</td><td>0.3946</td><td>0.3224</td><td>0.0558</td><td>0.1366</td><td>0.5533</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.6 西南方向 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "西南方向经过街道区（SW1）、草本区（SW2—SW5,SW7—SW8,SW11—SW12）、灌草区（SW6,SW10,SW13)和乔灌草区（SW9,SW14)。其中,样地 SW4—SW8为农田区,弃耕时间较短。样地 SW9—SW13 位于弃耕时间较长、线形的中下坡上,坡向为东北坡,坡度较陡,不宜垦殖,现在已经演替为灌草区。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由表7可知,随着距离的增加,植被景观向草本区、灌草区和乔灌草区演替,相应地,LIV、SD、PCS、NSP 和EIV 越来越大,PS 和TII越来越小。只是由于演替中灌草区、草本区景观交错分布,某些特征值忽高忽低,但是并没有改变植被景观演替的总态势。SW9为青杨群落区,与其他样带相类似,LIV、SD、PCS、NSP 和EIV都偏大,又说明了青杨种群的独特性。样带末端为华北落叶松群落,因未受到旅游活动的干扰,各种特征值最大。 2",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fe209833d26ec10f116a672a4f8ef3ccae4f3dbe8f2d78b212bc54c07dc1b96.jpg",
+        "table_caption": [
+            "表7西南方向植被景观特征",
+            "Table 7The characteristics of vegetation landscape in the southwest "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地</td><td></td><td>S度</td><td>向e</td><td>m</td><td></td><td></td><td>景观</td><td>物种</td><td>群落</td><td>阴生</td><td>伴人 种比值 human</td><td>旅游影</td><td>生态效</td></tr><tr><td>SW1</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>100</td><td>0</td><td>0</td><td>O 0</td><td>0</td><td>1 beings</td><td>0.998</td><td></td></tr><tr><td>SW2</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>200</td><td>0.0097</td><td>1.1064</td><td>0.1905</td><td>0.2239</td><td>0.2526</td><td>0.5539</td><td>-0.2646 -0.0001</td></tr><tr><td>SW3</td><td>1605</td><td>10</td><td>东南坡</td><td>线坡</td><td>中坡</td><td>300</td><td>0.0149</td><td>1.3888</td><td>0.2117</td><td>0.4022</td><td>0</td><td>0.6171</td><td>0.0479</td></tr><tr><td>SW4</td><td>1610</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>400</td><td>0.0136</td><td>1.2477</td><td>0.1581</td><td>0.0653</td><td>0.7567</td><td>0.7469</td><td>-0.0788</td></tr><tr><td>SW5</td><td>1610</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>500</td><td>0.0075</td><td>1.1274</td><td>0.0968</td><td>0</td><td>0.9217</td><td>0.7276</td><td>-0.1173</td></tr><tr><td>SW6</td><td>1605</td><td>15</td><td>南坡</td><td>线坡</td><td>中坡</td><td>600</td><td>0.0836</td><td>2.5294</td><td>0.2515</td><td>0.0659</td><td>0.2129</td><td>0.5921</td><td>0.1511</td></tr><tr><td>SW7</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>700</td><td>0.0096</td><td>1.6778</td><td>0.2025</td><td>0.2086</td><td>0.0495</td><td>0.6143</td><td>0.0269</td></tr><tr><td>SW8</td><td>1600</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>800</td><td>0.0114</td><td>1.2473</td><td>0.1191</td><td>0.0483</td><td>0.5522</td><td>0.5933</td><td>-0.0454</td></tr><tr><td>SW9</td><td>1620</td><td>20</td><td>东北坡</td><td>凹坡</td><td>下坡</td><td>900</td><td>0.3847</td><td>2.0759</td><td>0.2980</td><td>0.6971</td><td>0.1205</td><td>0.5963</td><td>0.3286</td></tr><tr><td>SW10</td><td>1630</td><td>20</td><td>东北坡</td><td>凹坡</td><td>下坡</td><td>1000</td><td>0.0670</td><td>2.3564</td><td>0.2693</td><td>0.2901</td><td>0.0383</td><td>0.5139</td><td>0.1757</td></tr><tr><td>SW11</td><td>1650</td><td>25</td><td>东北坡</td><td>线坡</td><td>下坡</td><td>1100</td><td>0.0086</td><td>1.5320</td><td>0.2092</td><td>0.2495</td><td>0</td><td>0.4828</td><td>0.0818</td></tr><tr><td>SW12</td><td>1670</td><td>30</td><td>东北坡</td><td>线坡</td><td>中坡</td><td>1200</td><td>0.0115</td><td>1.9654</td><td>0.2111</td><td>0.2748</td><td>0</td><td>0.4211</td><td>0.1053</td></tr><tr><td>SW13</td><td>1690</td><td>30</td><td>东北坡</td><td>线坡</td><td>下坡</td><td>1300</td><td>0.0920</td><td>2.2452</td><td>0.2646</td><td>0.3232</td><td>0</td><td>0.3667</td><td>0.244</td></tr><tr><td>SW14</td><td>1700</td><td>26</td><td>东北坡</td><td>线坡</td><td>上坡</td><td>1400</td><td>0.2861</td><td>2.3581</td><td>0.3894</td><td>0.1601</td><td>0</td><td>0.2324</td><td>0.4431</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.7 正南方向",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "正南方向经过停车场（S1—S2）、草坪区（S3—S5）、居民区和商业服务区（S6—S7,S10—S28）、草本区（S8,S29—S30）、灌草区（S32—S33,S37—S38）和乔灌草区（S9,S31,S34—S36,S39—S41)。其中,S9,S31,S34,S36,S40—S41是青杨群落区,S35 是油松群落区,S39 是白桦群落区。样地 S1—S28 地势平坦,是居民区和旅游开发的中心地段。S32—S41位于交通路线附近的山坡上,坡度较陡,坡向为东坡、东北或东南坡,大部分样地为线形的中下坡。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由表8可知,在南线,居民区和商业区交错分布,旅游开发程度大,原有植被已经被人工景观所代替,仅在部分地段有人工植被存在或为弃耕地。如样地 S3—S5 为草坪区,S3和 S4为人工草地,S5为人工灌草地,它们只是因旅游业发展的需求而存在,其景观特征值相对远距离处要小。样地 S12在农田弃耕地上。样地 S8为草本区,样地 S9为乔灌草区,它们只是因梵仙山的地形阻隔而得以保存。如果排除人工植被和地形因素的影响,植被景观的LIV、SD、PCS、NSP 和EIV5 个特征值仍表现出随着距离的增加而不断增大的趋势,相应地，PS 和 TII越来越小。这与植被景观由人工区向草本区、灌草区和乔灌草区演化的趋势相吻合。就不同类型的植被景观而言,LIV、SD、PCS、NSP 和EIV 仍表现出:草本区<灌草区<乔灌草区。其中,人工区和草本区大部分是生态负效应区。在样地S31—S41段,灌草区和乔灌草区交错更替,这可能与人类活动有关。居民区附近因人类活动破坏,植被演替为灌草区,相应地,其植被景观特征值也减小,如样地 S37—S38;寺庙区附近由于宗教原因,植被完好,如样地 S35的LIV、SD、PCS、NSP 和EIV 都较大。在乔灌草区,不同种群的生态作用仍有差异。如青杨的LIV值相对比白桦的要大,但是青杨群落的结构相对简单,灌木层不发达。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/deb07288945c9310ccea0627ddceb02e7525c23172cd516fe2c10e942b53e3ff.jpg",
+        "table_caption": [
+            "表8正南方向植被景观特征",
+            "Table 8The characteristics of vegetation landscape in due soutl "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\">样地l</td><td colspan=\"3\">伴人</td><td colspan=\"3\"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>value</td><td>美</td><td> structure</td><td>proportion</td><td></td><td></td><td></td><td></td></tr><tr><td>S1</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>beings 1</td><td></td><td></td><td>-0.2646</td></tr><tr><td>S2</td><td>1590</td><td>0</td><td>南坡</td><td></td><td>平地</td><td>平地 平地</td><td>100 200</td><td>0 0</td><td>0 0</td><td>0</td><td>0</td><td></td><td>1</td><td>0.998 0.998</td><td>-0.2646</td></tr><tr><td>S3</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td></td><td>平地</td><td>300</td><td>0.0071</td><td>0.9625</td><td>0.1900</td><td>0.2581</td><td></td><td>0.4933</td><td>0.5199</td><td>0.006</td></tr><tr><td>S4</td><td>1590</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>400</td><td>0.0109</td><td>1.2486</td><td>0.1592</td><td>0.1644</td><td></td><td>0.5397</td><td></td><td>0.0069</td></tr><tr><td>S5</td><td>1590</td><td>0</td><td>南坡</td><td></td><td>平地 平地</td><td>平地</td><td>500</td><td>0.0238</td><td>1.6077</td><td>0.1826</td><td></td><td>0.1218</td><td></td><td>0.5566</td><td></td></tr><tr><td>S6</td><td>1585</td><td>0</td><td>南坡</td><td></td><td>平地</td><td>平地</td><td>600</td><td>0</td><td></td><td></td><td></td><td></td><td>0.8782</td><td>0.6244</td><td>0.0036</td></tr><tr><td>S7</td><td></td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>700</td><td>0</td><td>0 0</td><td></td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td></td><td>1585</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>800</td><td>0.0113</td><td>1.2456</td><td>0 0.1874</td><td></td><td>0</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>S8</td><td>1580</td><td>15</td><td>东北坡</td><td></td><td></td><td>下坡</td><td>900</td><td>0.0281</td><td>1.6487</td><td>0.2872</td><td>0</td><td>0.5527</td><td>0.6441</td><td>0.6441</td><td>-0.0323</td></tr><tr><td>S9 S10</td><td>1590 1580</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>1000</td><td>0</td><td>0</td><td></td><td>2</td><td></td><td>0.2185</td><td>0.6398</td><td>0.1272</td></tr><tr><td>S11</td><td>1580</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>1100</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S12</td><td>1570</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>1200</td><td>0.0049</td><td>1.6763</td><td>0.1198</td><td>0.0433</td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S13</td><td>1560</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>1300</td><td>0</td><td></td><td>0</td><td></td><td></td><td>0.4819</td><td>0.7783</td><td>-0.0715</td></tr><tr><td>S14</td><td>1560</td><td>0</td><td>南坡</td><td></td><td>平地</td><td>平地</td><td>1400</td><td>0</td><td></td><td>0</td><td></td><td></td><td>1</td><td>0.998 0.998</td><td>-0.2646</td></tr><tr><td>S15</td><td>1560</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>1500</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1 1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S16</td><td>1560</td><td>0</td><td>南坡</td><td>平地</td><td></td><td>平地</td><td>1600</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646 -0.2646</td></tr><tr><td>S17</td><td>1560</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>1700</td><td>02</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S18</td><td>1560</td><td>0</td><td>南坡</td><td></td><td>平地</td><td>平地</td><td>1800</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S19</td><td>1560</td><td>0</td><td>南坡</td><td>平地</td><td></td><td>平地</td><td>1900</td><td>0</td><td>0</td><td></td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S20</td><td>1560</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>2000</td><td>0</td><td>0</td><td>0 0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S21</td><td>1560</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>2100</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S22</td><td>1560</td><td>0</td><td>南坡</td><td>平地</td><td></td><td>平地</td><td>2200</td><td>0</td><td>0</td><td></td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S23</td><td>1560</td><td>0</td><td>南坡</td><td></td><td></td><td>平地</td><td>2300</td><td>0</td><td>0</td><td>0 0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S24</td><td>1560</td><td>0</td><td>南坡</td><td></td><td>平地 平地</td><td>平地</td><td>2400</td><td>0</td><td>0</td><td>0</td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S25</td><td>1560</td><td>0</td><td>南坡</td><td></td><td>平地</td><td>平地</td><td>2500</td><td>0</td><td>0</td><td></td><td></td><td></td><td>1</td><td>0.998</td><td>-0.2646</td></tr><tr><td>S26</td><td>1560</td><td>20</td><td>南坡</td><td></td><td>平地</td><td>平地</td><td>2600</td><td>0</td><td>0</td><td></td><td></td><td></td><td>1</td><td>0.998</td></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.8 东南方向",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "东南方向经过寺庙区（SE1）、草坪区（SE2—SE4）、居民区和商业区（SE5—SE8）、草本区（SE9—SE11）和乔灌草区（SE12—SE14)。大部分地段地势开阔和平坦，是居民区和商业区。仅有乔灌草区位于线形的中下坡上,坡向为北坡,坡度较大。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由表9可知,随着距离的增加,植被景观的LIV、SD、PCS、NSP 和EIV都有越来越大的趋势,而 PS 和 TI却越来越小。在近距离处的草坪区,各种特征值较大,这是由于人工植被的作用。不同类型的植被,其景观特征值不一样。乔灌草区的景观特征值大于草本区的景观特征值。样地 SE12—SE14 是青杨群落区,对青杨群落来讲,显然,距离愈远,各种特征值愈大,这是由于旅游活动的干扰在不断减小。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/07157b75fb05c9ff2cbad0ed3bfe29837db12e442c5076f60fd36b9b51d1fc7f.jpg",
+        "table_caption": [
+            "表9东南方向植被景观特征",
+            "Table 9 The characteristics of vegetation landscape in the southeast "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"10\"></td><td>eaPe</td><td></td><td>伴人</td><td></td><td></td><td></td><td></td></tr><tr><td>样地le</td><td></td><td>S</td><td>坡向</td><td></td><td>Soe m</td><td></td><td></td><td>Landscape</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE1</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>100</td><td>0</td><td>0</td><td></td><td>0</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>SE2</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>200</td><td>0.0086</td><td>1.1031</td><td></td><td>0.1634</td><td>0 0.1474</td><td>1 0.4575</td><td>0.998 0.5199</td><td></td><td>-0.2646 -0.0088</td></tr><tr><td>SE3</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>300</td><td>0.0164</td><td></td><td>1.2469</td><td>0.1128</td><td>0</td><td>0.9693</td><td></td><td>0.5566</td><td>-0.0352</td></tr><tr><td>SE4</td><td>1590</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>400</td><td>0.0768</td><td></td><td>1.8953</td><td>0.2106</td><td>0</td><td>0.8402</td><td></td><td>0.6244</td><td>0.0732</td></tr><tr><td>SE5</td><td>1585</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>500</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>SE6</td><td>1580</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>600</td><td>0.0110</td><td></td><td>1.6786</td><td>0.1253</td><td>0.0176</td><td>0.5839</td><td></td><td>0.805</td><td>-0.0559</td></tr><tr><td>SE7</td><td>1575</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>700</td><td>02</td><td></td><td>0</td><td>0</td><td>0</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>SE8</td><td>1575</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>800</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>1</td><td></td><td>0.998</td><td>-0.2646</td></tr><tr><td>SE9</td><td>1570</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>0 900</td><td>0.0209</td><td></td><td>1.5348</td><td>0.1662</td><td>0</td><td>0.8798</td><td></td><td>0.8171</td><td>-0.0803</td></tr><tr><td>SE10</td><td>1570</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>1000</td><td>0.0200</td><td></td><td>0.9620</td><td>0.1250</td><td>0</td><td>0.6122</td><td></td><td>0.7102</td><td>-0.0507</td></tr><tr><td>SE11</td><td>1570</td><td>0</td><td>南坡</td><td>平地</td><td>平地</td><td>1100</td><td>0.0219</td><td></td><td>1.6786</td><td>0.1677</td><td>0.1277</td><td>0.5131</td><td></td><td>0.6715</td><td>0.0152</td></tr><tr><td>SE12</td><td>1585</td><td>15</td><td>北坡</td><td>凹坡</td><td>下坡</td><td>1200</td><td>0.1485</td><td></td><td>2.2192</td><td>0.3454</td><td>0.2473</td><td></td><td>0.143</td><td>0.6524</td><td>0.2524</td></tr><tr><td>SE13</td><td>1610</td><td>25</td><td>北坡</td><td>线坡</td><td>中坡</td><td>1300</td><td>0.2535</td><td></td><td>2.2908</td><td>0.3599</td><td>0.2917</td><td></td><td>0.0306</td><td>0.3752</td><td>0.3873</td></tr><tr><td>SE14</td><td>1630</td><td>25</td><td>北坡</td><td>线坡</td><td>中坡</td><td>1400</td><td>0.4224</td><td></td><td>2.9527</td><td>0.3716</td><td>0.6306</td><td></td><td>0</td><td>0.2258</td><td>0.5774</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2.9 整体态势 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由上述可知,在台怀镇的东、东北、北、西北、西、西南、南和东南方向上,分别取12、21、15、10、9、14、41和14个样地。根据取样的原则(每条样带取至植被几乎没有受到干扰为止)可知,样地的数目在一定程度上反映了该样带上旅游开发程度的大小,样地数量愈多,旅游活动愈强。由此可以推断,在五台山旅游区,正南和东北方向开发程度最强,其次是正北、东南和西南、正东,最弱的是西北和正西方向。这种开发程度的空间格局,与旅游景点的分布和地形因素有着密切的关系。旅游景点主要指寺庙景观,不同寺庙有历史长短、规模和重要性等方面的差异,因而它们有着不同的影响力,而且其地理分布或多或少受佛教因素的影响。因此不同方向上旅游景点有多有少。正南、东北和正北方向上寺庙多,而西北和正西方向上就很少。地形因素首先制约着人类活动的范围,人类总是优先选择地势开阔和平坦的地方来从事生活和生产,如台怀镇的居民区和商业区的区位就是如此,正南和东北方向上都比较开阔和平坦,居民区和商业区在此密集分布,而在正西方向上全为山坡。相反,较大的坡度总是限制人类活动,如每条样带总是沿伸到坡度较大的地方,末端样地总是坡度较陡,植被生长良好。其次,地形有时候也制约着旅游景点的布局,如黛螺顶的地理位置地势较高,坡度较大，本应无人问津,相反,正是因为这种地势而成为人们“小朝台”的理想之处，从而使正东方向上的旅游活动有所增强。总之，五台山旅游开发的空间格局是景点分布和地形因素共同作用的结果。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "根据不同方向上的植被景观特征值可知，随着距大白塔距离的增加，植被景观依次由没有和零星区或人工植被区(即寺庙区、居民区和商业区、草坪区)向草本区、灌草区和乔灌草区的方向演替。相应地,LIV、SD、PCS、NSP 和EIV 越来越大,PS 和TII越来越小。这些说明在每条样带上,近距离处旅游开发强烈,距离愈远,旅游干扰愈小。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "如果根据EIV 进行如下划分：I类区, $\\mathrm { E I V } = - 0 . 2 6 4 6$ ;Ⅱ类区, $- 0 . 2 6 4 6 { < } \\mathrm { E I V } { \\leqslant } 0$ ;Ⅲ类区， $0 { < } \\mathrm { E I V } \\leqslant 0 . 2 5 ;  { \\mathbb { N } }$ T类区， $\\mathrm { E I V } { > } 0 . 2 5$ 。那么可将整个五台山旅游区分为如下植被景观区：I类区包括 E1—E5、NE1—NE7、NE9N1—N6、NW2、SW1、S1—S2、S6—S7、S10—S11、S13—S28、SE1、SE5、SE7—SE8 共47 个样地；Ⅱ类区包括E6—E7、NE8、NE10—NE12、NW1、NW3—NW4、W1—W4、SW2、SW4—SW5、SW8、S8、S12、S29—S30、SE2—SE3、SE6、SE9—SE10共 26 个样地;I类区包括 E8—E9、NE13—NE14、NE16—NE17、N7—N9、NW5、NW7—NW8、W5—W6、SW3、SW6—SW7、SW10—SW13、S3—S5、S9、S31—S34、S37—S38、SE4、SE11共33 个样地;IV类区包括 E10—E12、NE15、NE18—NE21、N10—N15、NW6、NW9—NW10、W7—W9、SW9、SW14、S35—S36、S39—S41、SE12—SE14共30个样地。I类区面积最大,包括寺庙区、居民区和商业区,旅游开发程度最强烈，原有植被已经不存在,仅有零星的植物种类;ⅡI类区均为草本区,距离中心区较近,旅游破坏强烈,原有植被退化为草本类型;Ⅲ类区植被类型复杂,既有灌草区,又有质量较好的草本区,还包括质量较差的乔灌草区,面积也较大,人为活动较多;V类区均为乔灌草区,距离中心区较远,受到的旅游干扰较小或者几乎没有。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3结论与讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本文针对旅游开发对植被景观的影响,构建了一套涉及4个层次、27个具体指标的评价体系,并结合五台山旅游区野外生态调查进行了实证分析,得出如下结论：(1)在不同方向上,随着距离的增加,旅游活动越来越少,植被景观依次由居民区、商业区或人工植被区向草本区、灌草区和乔灌草区的方向演替。相应地,LIV、SD、PCS、NSP 和EIV 越来越大,PS 和 TII越来越小。（2)不同的植被类型,其景观特征明显不同。对于LIV、SD、PCS、NSP 和EIV5个特征值的表征,草本区<灌草区<乔灌草区;至于PS 和TII,草本区>灌草区>乔灌草区。不同的群落类型,其景观特征也有所差异。如青杨群落区与华北落叶松群落区、白杆群落区的景观特征值的比较都说明了在旅游干扰下不同种群有不同的生物生态学特性,其中,青杨种群相对独特。同一类型的群落,距离愈近,其LIV、SD、PCS、NSP 和EIV愈小,而PS和TII却愈大。这是不同程度的旅游干扰所造成的。（3)不同类型的景观区代表不同强度的旅游干扰。居民区代表旅游干扰最强,其次是草本区、灌草区,乔灌草区则最弱。正是由于旅游干扰的不同,植被景观依次演替。从整个区域植被演替的过程来看,人类的负向或正向活动都可能加剧或促进这一生态过程,如居民区附近多为草本区和灌草区,部分寺庙附近却有良好的植被景观。(4)就整个台怀镇而言,旅游开发程度的空间格局是景点分布和地形因素共同作用的结果,植被景观对此有着明显的生态响应。不同方向上样地的数量就是旅游开发程度强弱的表征。正南和东北方向开发程度最强,其次是正北、东南和西南、正东方向,西北和正西方向最弱。（5)根据 EIV,将五台山整个区域分为4类区。不同类型的区域,植被景观不同。I类区为寺庙区、居民区和商业区,Ⅱ类区为草本区,IⅢ类区是乔、灌、草的混合区，V类区是乔灌草区。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "在未来的研究中,还有以下问题需要完善和探讨：(1)本文在借鉴国内外有关成果的基础上,结合我国温带旅游区的实际情况,构建了一套完整的评价指标体系,并以五台山为例进行了具体分析。尽管这些工作具有一定的尝试性,但是其研究无论是在理论上对于旅游生态学的发展、还是在实践上对于指导旅游区的生态管理,都具有重要的意义。就评价指标而言,其出发点是它们应该客观地反映植被景观对旅游开发的生态响应。LIV、SD、PCS、NSP、PS 和TII的涵义和计量都是从生态学角度进行的,并没有考虑植被景观的旅游价值，因而这些指标主要表达了一个景观的生态价值。植物群落具有视觉、美学等多方面的旅游价值,不同类型的景观拥有不同的植物色彩、林木尖削指数等形态特征,因而其旅游吸引力也相应地不同。但是该指标体系中并没有反映植被景观旅游价值的指标,至于如何建立一个反映旅游价值的指标,如何计量旅游价值的大小,都需要继续探讨。（2)从生态学的视角,揭示旅游对植被影响的生态机制有益于景区植被景观的保护和管理，具有重要的实践意义。本文的研究结果仅仅从宏观上给予了一个粗略的反映,虽然具有一定的可行性,但是并不能深刻地揭示这一生态学的机理过程。不同种群有不同的生物生态学特性。对于旅游干扰,它们的LIV、SD、PCS 和NSP都有所差异。但是本文并没有详细地探讨这种差异的来源,即去揭示不同种群对于旅游干扰生态响应的机制。（3)土壤作为旅游开发影响植被的一个中间环节,在本文所构建的指标体系中尚未涉及,未来尚需结合土壤性质来进一步研究旅游对植被影响的生态过程。 2",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[1]Scherre,ickergCfectsfan，ourismdlatecangelpinevegeatoofKoscsNatioalarkVitoNaturalist,2001,118(3)：93-99.  \n[2]PicerigC,HllD,ngY.omaingkingotagdegptsogedltland the United States of America.Journal of Environmental Management,2O10,91(3）：551-562.  \n3]PiceCiehctsoudingliegdilprotocol.Journal of Environmental Management，2011,92(12）：3049-3057.  \n[4]TorA,lvanA,NroorpiYTeroR，kakiP.Comparingtheipactsofhking，singdseidingontraldeatoidifferent types of forest. Journal of Environmental Management，2009,90(3）：1427-1434.  \n[5]Roux-Fil,ifS，nCgeactsfspsteageetolgedolalofo1,48(4) : 906-915.  \n[6]Tzatzanis，WbkaT,SaubererNLandscapendvegetatiorespoestouanipactinndycostsofWesteCrete，Gre.JoualforNature Conservation，2003，11(3）：187-195.  \n［7］杨红玉，张长顺.踩踏对植被影响研究.云南教育学院学报，1998，14(5)：50-55.  \n[8］朱珠，包维楷，庞学勇，闫晓丽，李玉武.旅游干扰对九寨沟冷杉林下植物种类组成及多样性的影响.生物多样性，2006，14（4)：284-291.  \n[9］张桂萍，张峰，茹文明.旅游干扰对历山亚高山草甸优势种群种间相关性的影响.生态学报，2005，25（11)：2868-2874.  \n[10] 晋秀龙，陆林，郝朝运，王立龙，巩.旅游活动对九华山风景区游道附近植物群落的影响.林业科学，2011,47（2）：1-8.  \n[11] 程占红，牛莉芹.五台山南台山地草甸种群对旅游干扰响应的识别.应用与环境生物学报，2008，14（3)：324-327.  \n[12] 程占红，牛莉芹.五台山南台山地草甸种群对旅游干扰的生态响应.水土保持研究，2008，15(6)：222-224.  \n[13] 李贞，保继刚，覃朝锋.旅游开发对丹霞山植被的影响研究.地理学报，1998，53(6)：554-561.  \n[14] 茹文明，张峰.山西五台山种子植物区系分析.植物研究，2000，20(1)：36-47.  \n[15] 戴君虎，潘螈，崔海亭，唐志尧，刘鸿雁，曹燕丽.五台山高山带植被对气候变化的响应.第四纪研究,2005，25（2)：216-223.  \n[16] 牛莉芹，程占红，赵蒙.旅游干扰下五台山不同植被景观区物种多样性特征.应用与环境生物学报，2012，18（4)：559-564.  \n[17］程占红，牛莉芹.五台山南台旅游活动对山地草甸优势种群格局的影响.生态学报,2008，28(1)：416-422.  \n［18］张金屯.数量生态学.北京：科学出版社，2004.  \n［19］宋永昌.植被生态学.上海：华东师范大学出版社，2001.  \n[20］牛莉芹，程占红.五台山森林群落中物种多样性对旅游干扰的生态响应.水土保持研究,2012，19(4)：106-111.",
+        "page_idx": 13
+    }
+]

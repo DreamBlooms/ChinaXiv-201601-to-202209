@@ -1,0 +1,634 @@
+[
+    {
+        "type": "text",
+        "text": "Couplinganalysisof social-economic water consumption and its effects on the arid environments in Xinjiang of China based on the water and ecological footprints ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Pei', DENG Mingjiang²,LONG Aihua1,3\\*, DENG Xiaoyal, WANG Hao], HAI Yangl, WANG Jie³, LIU Yundong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratoryof Simulationand Regulationof WaterCycle in River Basin,China Instituteof Water Resources and   \nHydropower Research,Beijing 10oo38,China;   \n2 Xinjiang Water Conservancyand Hydropower Plannngand Design Management Bureau, Urumqi 830o,China;   \n3College of Water Conservancy and Architectural Engineering,Shihezi University,Shihezi 8320o3,China;   \n4College ofSoil&WaterConservation,Beijing ForestryUniversityBeijing 10083,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: In arid areas,ecological degradation aroused by over-exploitation of fresh water, expansion of artificial oasis and shrinkage of natural oasis,has drawn atention of many scholars and officials.The water and ecological footprints can be used to quantitatively evaluate the water consumption of social-economic activities and their influence on the eco-environments.Inaddition,increase of the water footprint indicates the expansion of artificial oasis,and the influence on the natural oasis could be reflected by the variation of the ecological footprint. This study was conducted to answer a scientific question that what is the quantitative relationship between the expansion of the artificial oasis and the degradation of the natural Oasis in the arid environments of Xinjiang, China.Thus, based on the social-economic data,water consumption data and meteorological data during 2001-2O15,we calculated the water and ecological footprints to express the human-related pressure exerted on the water resources and arid environments in Xinjiang (including 14 prefectures and cities),and explore the relationship between the water and ecological footprints and its mechanism by using the coupling analysis and Granger causality test.The results show that both the water and ecological footprints of Xinjiang increased significantly during 2001-2015,and the increasing rate of the ecological footprint was much faster than that of the water footprint. The coupling degree between the water and ecological footprints was relatively high at the temporal scale and varied at the spatial scale. Among the 14 prefectures and cities examined in Xinjiang,the greater social-economic development (such as in Karamay and Urumqi) was associated with the lower coupling degree between the two footprints.Increases in the water footprint willcause the ecological footprint to increase,such that a 1- unit increase in the consumption of water resources would lead to 2-3 units of ecological degradation.The quantitative relationship between the increases of the water and ecological footprints,together with the intensities of water consumption both in the natural and artificial oases of Tarim River Basin,have approved the factthat the formation and expansion of 1 unit of the artificial oasis would bring about the degradation of 2 units of the natural oasis. These conclusions not only provide a technical basis for sustainable development in Xinjiang,but also offer a theoretical guide and scientific information that could be used in similar arid areas around the world. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: water consumption; ecological footprint; water footprint; Granger causality test; natural oasis;artificial oasis; Tarim River ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: ZHANG Pei,DENG Mingjiang,LONG Aihua,DENG Xiaoya, WANG Hao,HAI Yang, WANG Jie,LIU Yundong. 2020.Couplinganalysisof social-economic waterconsumptionandits efectsonthearid environments in Xinjiangof China basedonthe waterandecologicalfootprints.JouralofAridLand,12(1):73-89.htps:/doorg/10.100/s40333-0005-5 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Water is the source of life, the key element of production activity and the foundation of ecoenvironment (Chen, 2012). Rational utilization and optimal allocation of water resources are the primary prerequisites for achieving sustainable development in arid areas (Gao et al., 2O18). The scarcity, irreplaceability and imbalance of water resources in spatial and temporal distributions fundamentally restrict the speed of social-economic development in the oases of arid areas, which are inseparable from freshwater resources (Jiao et al.,2013; Gao et al.,2018).The amount of water consumption represents the developmental scale of regional oases (Liu et al., 2010; Chen et al., 2019). Prosperity or ruin of oases can be attributed to the abundance or lack of water, and many ancient civilizations on the Silk Road (such as Loulan and Niya) failed due to lack of water resources and over-exploitation of natural resources (Qin et al.,2012; Zhang,2016). In addition, there are plenty of contemporary examples worldwide that regional environmental degradation in arid areas was caused by excessive water use, such as Aral Sea Basin,Heihe River Basin and Tarim River Basin (e.g.,Liu et al.,2010; Zhang,2016; Gao et al.,2018; Chen et al.,2019). Therefore, unreasonable exploitation and utilization of water resources are regarded as the main causes of environmental degradation in arid areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ecological footprint analysis, proposed by Rees (1992) and improved by Wackernagel and Yount (1998), is an effective method to evaluate whether the current relationship between human beings and natural resources is sustainable or not (Wackernagel et al.， 1999; Xu et al.， 2003). The ecological footprint analysis approach reflects the most important advance in the quantitative evaluation of sustainable development. This approach attempts to define sustainable development using measurable indicators and to monitor the depletion of natural resources caused by humans. The ecological footprint, which contains the components of built-up land, carbon, cropland, fishing grounds, forest products and grazing land, can quantify all the resources consumed by a specific population for production activities and the total ecological area needed to eliminate allthe waste generated by the population. These objectives of the ecological footprint analysis are achieved by establishing a comprehensive accounting system that compares human ecological need and ecological carrying capacity of eco-environment, and explores the way of implementing sustainable development (Rees,1992; Wackernagel and Yount, 1998). If the ecological carrying capacity is larger than the ecological footprint, the ecosystem is sustainable, otherwise the ecosystem is unsustainable and humans have to change the current mode of development to make it sustainable. The ecological footprint has been widely applied on various scales, from global to national, community to family, and commercial enterprise to individual activity, for its advantages of vivid concept, abundant connotation and comprehensive theory. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Similar to the ecological footprint, the water footprint was developed to assess the water consumption by human activities (Ridha and Ben, 2O18). The water footprint is defined as the amount of water needed for any product and service consumed by human beings at the country, regional or individual scale over a certain period of time (Hoekstra et al.,2O11; Veetil and Mishra, 2016).The products and services here include foods and daily necessities for human life,domestic water and environmental water (Bosire et al.， 2O15). The water footprint analysis involves systematic evaluation of the impacts of human consumption activities on water resources in terms of the quantity, type and effciency of utilization. It also clarifies the demand for water resources and enables rational evaluation of the utilization of water resources in both economic production and daily life. Therefore, the water footprint is mainly applied to evaluate the security, carrying capacity and sustainable utilization of water resources (Zhang and Li, 2O12; Veettil and Mishra, 2016). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently， a series of integrated footprint approaches were put forward to assess the environmental impacts of production and consumption activities.For examples, Gali et al. (2012) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "developed a concept of \"footprint family\" in the One Planet Economy Network:Europe (OPEN:EU) project and selected the water footprint, the ecological footprint and the carbon footprint to define the concept. Ewing et al. (20l2) proposed a multi-regional input-output framework for the integrated calculation of the water and ecological footprints. Fang et al. (2014) conducted a theoretical exploration by combining the water footprint, the ecological footprint and the carbon footprint.To sum up, integrated footprints (Hertwich and Peters, 2009; Rushforth et al., 2013； Sun et al.， 2013; Hao et al.，2015） were widely used in assessing the environmental sustainability (Fang and Duan, 2015) and ecosystem services (Zhang and Zhang, 2013), evaluating the safety of drinking water(Qi and Chang,2Ol2)and exploring variations in the water, ecological and carbon footprints at different scales.However, most previous studies focused on the conceptual, theoretical and physical applications of the footprints,researches about the connections and mechanisms within the integrated footprints were scarce. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Indeed, the high consumption of water resources cannot only promote the social-economic development, but also damage the natural environments, as reflected by the expansion of the ecological footprint, especially in ecologically fragile region such as Xinjiang Uygur Autonomous Region, China. The total water footprint of Xinjiang ranked the $7 ^ { \\mathrm { t h } }$ in China and the per capita water footprint in Xinjiang was as high as $1 4 0 0 ~ \\mathrm { m } ^ { 3 } / \\mathrm { a }$ ，more than twice of the national average level in China (Ge et al., 2011). Synchronously, the total ecological footprint of Xinjiang ranked the $2 5 ^ { \\mathrm { t h } }$ in China, and the per capita ecological footprint was $2 . 9 1 \\ { \\mathrm { g h m } } ^ { 2 }$ (global hectare),which was slightly higher than the national average level in China $( 2 . 8 6 \\mathrm { g h m } ^ { 2 } )$ and the global average level $( 2 . 8 2 \\ \\mathrm { g h m } ^ { 2 } )$ （20 accordingtothe statistics from the EcologicalFootprintNetwork (https://data.footprintnetwork.org/#/). There is a consensus that over-exploitation of water resources by human activities will inevitably result in the degradation of environments (Yang et al., 2006; Salameh,20o8; Zhang et al.,2017), which could lead to the high water and ecological footprints. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In arid areas, oasis is the main area for the development of human production and consumption activities. The artificial oasis is the core area that human lives in, and the natural oasis spreads around outside the artificial oasis to prevent it suffering from desertification. The areas of both natural oasis and artificial oasis are approximate in Xinjiang,and in terms of modern land use dynamics,the natural oasis has been continuously transferred to the artificial oasis (Wu et al., 2014).Taking the Tarim River Basin as an example, with the expansion of the artificial oasis, the water amount consumed by human activities has risen sharply,thus resulting in a gradual decrease in the amount of water entering the terminal lakes.Further exacerbating the situation, the lower reaches of the Tarim River has dried up for almost 30 a from 1972 to 2000,severely afcting the local environment and making some areas no longer habitable; as a result, a housing transfer phenomenon happens. Thus,the dynamics of the artificial and natural oases have drawn attentions of many researchers. Suitable scale of oasis (Hu et al.，2007;Ling et al., 2012,2013） and appropriate area proportion of the natural and artificial oases (Li et al., 2Oo8; Guo et al., 2017) in arid areas have been studied. Yet, the mechanism of transformation from the natural oasis to the artificial oasis and the influence of expansion of the artificial oasis on the natural oasis have not been revealed clearly. The increase of the water footprint indicates the expansion of the artificial oasis (Chen et al.,2O19),and its influence on the natural oasis can be reflected by the variation of the ecological footprint. Understanding the development of the water and ecological footprints is essential to explore the mechanism between the dynamics of the natural and artificial oases. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The objectives of this research are to analyze the relationship between the water and ecological footprints, assess the quantitative influence of water over-exploitation on ecological degradation and reveal the mechanism and quantitative relations between the expansion of the artificial oasis and the degradation of the natural oasis. To achieve these goals,we calculated the water and ecological footprints of Xinjiang from 2001 to 2015,analyzed the connection between them at the spatial and temporal scales and explored the Granger causality relationship between the two indicators. This study not only provides a technical basis for sustainable development in Xinjiang, but also offers a theoretical guide and scientific information that can be used in similar arid areas around the world. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2Study area and data sources ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Xinjiang Uygur Autonomous Region is the hinterland of the Eurasian continent and has a total area of $1 . 6 6 \\times 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ ,accounting for almost one-sixth of China's land area.A total of 14 prefectures and cities are included in Xinjiang: Aksu Prefecture (abbreviated as Aksu), Altay Prefecture (Altay), Bayingol Mongolian Autonomous Prefecture (Bayingol)， Bortala Mongolian Autonomous Prefecture (Bortala), Changji Hui Autonomous Prefecture (Changji), Hami Prefecture (Hami), Hotan Prefecture (Hotan), Kashgar Prefecture (Kashgar), Karamay City (Karamay), Kizilsu Kirgiz Autonomous Prefecture (Kizilsu), Tacheng Prefecture (Tacheng),Turpan City (Turpan), Urumqi City (Urumqi), and Ii Kazak Autonomous Prefecture (Ii). Xinjiang locates in a temperate arid region with the mean annual precipitation of only $1 4 6 \\ \\mathrm { m m }$ and the mean annual potential evaporation of $1 6 0 0 { - } 2 3 0 0 \\mathrm { m m }$ . The annual mean temperature in Xinjiang is $7 . 9 ^ { \\circ } \\mathrm { C }$ ,and it is relative high in plains and basins and low in mountainous areas (Li et al., 2O13). The total oasis area is $0 . 1 6 { \\times } 1 0 ^ { 6 } \\mathrm { k m } ^ { 2 }$ ,occupying $9 . 6 \\%$ of the total area in Xinjiang (Wu et al., 2014). The average annual river runoff in Xinjiang is $8 . 7 9 \\times 1 0 ^ { 1 0 } \\mathrm { m } ^ { 3 }$ and the available water resources is $8 . 3 5 \\times 1 0 ^ { 1 0 } \\mathrm { m } ^ { 3 }$ (Deng, 2010). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Xinjiang is the most prominent region where the scarcity of water resources is severe in China. Nationally, the water consumption in 2017 was $5 . 5 2 \\times 1 0 ^ { 1 0 } ~ \\mathrm { m } ^ { 3 }$ ，which accounted for $6 6 . 1 \\%$ of the total regional available water resources. The regional gross domestic product (GDP) in 2017 was $1 . 0 9 \\times 1 0 ^ { 1 2 }$ CNY and the added value of primary industry was $0 . 1 6 \\times 1 0 ^ { 1 2 }$ CNY, accounting for $14 . 7 \\%$ （204号 of the regional GDP. Due to the superior in light and heat resources, the agricultural planting occupied a relatively large proportion in the national economy of China. The total planting area was $6 . 0 6 \\times 1 0 ^ { 6 } \\mathrm { h m } ^ { 2 }$ in 2017,which accounted for almost $78 . 0 \\%$ and $4 0 . 0 \\%$ of the artificial oasis and total oasis areas, respectively. Large-scale cultivation of agriculture has sharply risen the agricultural water consumption, and the water consumption in primary industry was $5 . 1 4 \\times 1 0 ^ { 1 0 } \\mathrm { m } ^ { 3 }$ ， accounting for $9 3 . 1 \\%$ of the total water consumption of Xinjiang. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In 2017, the per capita GDP in Xinjiang was $4 . 4 9 \\times 1 0 ^ { 4 }$ CNY, which was $7 5 . 0 \\%$ of the national level in China. The per capita GDP varied significantly among the 14 prefectures and cities inner Xinjiang.For instance, Karamay had the highest per capita GDP, with the value of $1 5 . 8 0 \\times 1 0 ^ { 4 }$ CNY; Urumqi, the capital of Xinjiang, had the medium-high per capita GDP of $7 . 7 8 \\times 1 0 ^ { 4 }$ CNY; Kashgar and Hotan had the lowest per capita GDP, with the value of approximately $1 . 0 7 \\times 1 0 ^ { 4 }$ CNY. Generally, Urumqi and Karamay had developed industries and low amounts of water consumption, whereas Kashgar and Hotan relied mainly on planting industries and the amounts of water consumption were relatively high. Therefore, the low-level economic structure has caused a serious imbalance in the water consumption structure,further influencing the ecological environments. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 Data sources ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Social-economic data describing the population, GDP, consumption of major foods by rural households, consumption expenditure of urban households, prices for farm products and energy consumption of Xinjiang during the period 2001-2015 were obtained from the China Statistical Yearbook (National Bureau of Statistics of China, 2O02-2016), China Energy Statistical Yearbook (National Bureau of Statistics of China, 2002-2016), Xinjiang Statistical Yearbook (Bureau of Statistics of Xinjiang Uygur Autonomous Region, 2002-2016) and Xinjiang Production and Construction Corps Statistical Yearbook (Bureau of Statistics of Xinjiang Production and Construction Corps, 2002-2016). We calculated the water footprint of main crops in Xinjiang: wheat，corn, rice, potatoes, beans, cotton, oil-bearing corps,vegetables, melons, apples, pears, grapes, jujube,alfalfa, hemp and medicinal materials.The agricultural added values (the increased values of agriculture,forestry,animal husbandry and fishery,which are the balance of the current value after deducting the intermediate input） at constant price were obtained from the aforementioned Xinjiang Statistical Yearbook and Xinjiang Production and Construction Corps Statistical Yearbook. The data describing the amount of water resources,regional consumption of water resources and agricultural water consumption were obtained from the Xinjiang Water ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Resources Bulletin (Water Kesources Bureau ot Xinjiang Uygur Autonomous Region, ZOul-2015). We divided the oasis into natural oasis and artificial oasis according to the land use types (Fan et al.,2002; Wang and Guo,2O18). Specifically, the natural oasis consists of forestland, grassland and natural water area; and the artificial oasis is composed of arable land,orchard, built-up land, reservoirs and water channels. The land use data with the spatial resolution of $3 0 ~ \\mathrm { m }$ in 2010 were obtained from the Geographic Information Monitoring Cloud Platform (htp://www.dsac.cn/). The climate data (including daily hours of sunshine, average wind speed, relative humidity, precipitation,and maximum and minimum temperatures) during the period 20oo-2015 for the water footprint calculations were obtained from the website of China Meteorological Administration (http://data.cma.cn/), which contained 88 meteorological stations in Xinjiang. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Methods ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Ecological footprint ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Following the approach developed by Wackernagel et al. (2004),we calculated the ecological footprint by combining the footprints of renewable resources, fossil-fuel and built-up areas. The ecological footprint of renewable resources, also called the biomass footprints (Feng, 2011), was used to estimate the area of bio-productive land occupied by humans (e.g., arable land, grassland, forestland and water area for fishery). It was determined by using the consumption data of 11 types ofrenewable products,i.e., crops,processed oils, vegetables,fruits, beef,lamb, pork, poultry, dairy products,eggs and aquatic products. The footprint of fossil fuels was estimated by using the consumption data of coal, fuel oil, crude oil, gasoline, kerosene,diesel oil and natural gas. The footprint of built-up areas was quantified as the bio-productive land area occupied by human settements and infrastructures. For a given region, the ecological footprint was calculated using the following formula (Wackernagel et al.,1998,1999,2004; Yang et al.,2000; Xie et al.,2001): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E F } = N \\times \\mathrm { e f } = N \\times r _ { j } \\times \\sum ( A _ { i } ) = N \\times r _ { j } \\times \\sum P _ { i } / \\mathrm { Y N } _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where EF is the ecological footprint $( \\mathrm { g h m } ^ { 2 } ) ; N$ is the amount of local population; ef is the per capita ecological footprint (ghm²/capita); $j$ is the type of land use; $r _ { j }$ is the equivalence factor of the $j ^ { \\mathrm { t h } }$ land use type (i.e., the ratio of the global average potential productivity from the $j ^ { \\mathrm { t h } }$ land use type to the global average potential productivity in terms of allbio-productive land use types), which is used to standardize different types of bio-productive land; $A _ { i }$ is the area of bio-productive land calculated by the consumed product $i ( \\mathrm { g h m } ^ { 2 } )$ $P _ { i }$ is the amount of each product $i$ consumed (t); and $\\mathrm { Y N } _ { i }$ is the Chinese average consumption of product $i$ ,or the carbon uptake capacity in the case of the fossil fuel footprints (t). To ensure the continuity of ecological footprint across different years, as well as the comparability between our results and the findings in the relevant literature, we obtained the constant factors of $\\mathrm { Y N } _ { i }$ and $r _ { j }$ from the calculation of Wackernagel and Yount (1998). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Water footprint ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The water footprint consists of the crop water footprint (CWF),the animal-related water footprint (AWF),the industrial water footprint (IWF） and the domestic water footprint (DWF). The calculation of CWF was based on the method described in the Water Footprint Assessment Manual (Hoekstra et al., 2011). The CWF was calculated as: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C W F } { = } \\sum _ { i = 1 } ^ { n } ( \\mathrm { W F } _ { i , \\mathrm { p r o c , b l u e } } { + } \\mathrm { W F } _ { i , \\mathrm { p r o c , g r e e n } } ) { \\times } Y _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where CWF is the total volume of the crop water footprint $( \\mathbf { m } ^ { 3 } )$ $i$ is the crop category; $\\mathrm { W F } _ { i }$ proc,blue is the blue water footprint of the crop $i \\left( \\mathrm { m } ^ { 3 } / \\mathrm { k g } \\right)$ $\\mathrm { W F } _ { i }$ .procsgreen represents the green water footprint of the crop $i ~ ( \\mathrm { m } ^ { 3 } / \\mathrm { k g } )$ ; and $Y _ { i }$ is the yield of the crop $i$ (kg). We calculated the green and blue water footprints of crops according to the procedures and descriptions in Hoekstra et al. (2011) and Zhang et al. (2018). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In determining the system boundary of the animal-related water footprint, only the related activities substantially contributing to the total water footprint were considered. Therefore, the animal-related water footprint primarily consisted of two parts:(1） the total amount (i.e., the theoretical amount) of virtual water consumed by the animals throughout the entire life cycle (from birth to slaughter);and (2) the total amount of water consumed during the processing of meat products after slaughter. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total amount of virtual water consumed by the animals throughout the entire life cycle was divided into three parts: growth and processing of feed water, drinking water and service water. The AWF can be calculated as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathbf { A W F } = ( \\mathbf { V W C } _ { \\mathrm { f e e d } } + \\mathbf { V W C } _ { \\mathrm { d r i n k } } + \\mathbf { V W C } _ { \\mathrm { s e r v i c e } } ) \\times P , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where AWF is the animal-related water footprint $( \\mathbf { m } ^ { 3 } )$ $\\mathrm { \\Delta V W C _ { f e e d } }$ $\\mathrm { V W C _ { d r i n k } }$ and VWCservice represent the growth and processing of feed water, drinking water and service water $( \\mathrm { m } ^ { 3 } / \\mathrm { t } )$ , respectively; and $P$ is the amount of animal meat products (t). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The water content in feed materials (i.e., growth and processing of feed water) consisted of two parts: the water requirement in mixed feed and the virtual water contained in different feed ingredients.The total drinking water supply was equal to the amount of virtual water in the drinking water.The amount of service water was equal to the amount of water used in the animal's life cycle to clean the housing (e.g., barns or sheep houses), clean the animals and keep the environment clean. The amount of water consumed following the slaughter of animals and during the processing of meat products was considered to be a part of the industrial production process. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The processes of formation and consumption of virtual water in the industrial production and domestic life were complicated, so we directly assumed the water consumptions by industry and domestic life as the IWF and DWF, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Homogeneous indices and coupling degree ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To match the ecological footprint with the water footprint， we conducted dimensionless normalization of the two footprints by using the following equation: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i } = { \\frac { X _ { i } } { 1 / n { \\displaystyle \\sum _ { i = 1 } ^ { n } X _ { i } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $X _ { i }$ is the sequence of the water footprint or ecological footprint; $Y _ { i }$ is a new sequence (i.e., homogeneous indices) of $X _ { i }$ after homogenizing;and $n$ is the capacity of sequence $X _ { i }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "According to the concept of capacity coupling in physics and a model of the capacity coupling coefficient, we obtained the coupling degree model of multiple systems or factor interactions. For analysis, the coupling function between urbanization and the environment can be directly obtained and expressed as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC = \\big \\{ ( u _ { 1 } \\times u _ { 2 } ) / [ ( u _ { 1 } + u _ { 2 } ) \\times ( u _ { 1 } + u _ { 2 } ) ] \\big \\} ^ { 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $C$ indicates the coupling degree between the water and ecological footprints; and $u _ { 1 }$ and $u _ { 2 }$ represent the dimensionless normalization of the water and ecological footprints,respectively, which can be calculated by Equation 4.According to Zhang et al. (2016), the $C$ value is between 0 (the minimum coupling degree) and 1 (the maximum coupling degree). When the $C$ value equals to 0, it implies that the coupling degree is extremely small, the increase of the water footprint is not related to that of the ecological footprint,and the system devolves to disorder. The specific division of the $C$ values and their implications are shown in Table 1. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Granger causality test ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The Granger causality test, firstly proposed by Granger (1969), is an important causal test method in economics. Granger (1988) then abstracted the definition of causality, introduced the concept of the information set and provided a general definition of causality based on the timing of an event occurrence. However,it should be noted that the early definition of causality based on a time series is easier to be understood and consequently it is most widely used.The regression of other variables (consisting of their own past values), including the hysteresis value of $x$ ,can significantly improve the prediction of Y. If an estimated or measured entity $x$ significantly improves the prediction of $Y ,$ （2 $x$ is considered to be the Granger cause of Y.Likewise, $Y$ can be defined as the Granger cause of $X ,$ which is the sequence of $x$ . The Granger test enabled the establishment of the following model: ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/ee0864f08c84e2ec6b1b0c63315746fe9c95eed5bc8f0c1e83b2e380f0196831.jpg",
+        "table_caption": [
+            ".able 1 Coupling degree between the water and ecological footprints "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Cvalue</td><td>Level of coupling</td><td>Correlation between the water and ecological footprints</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2ef981b81e72f1c8a2834a10fe82748ce128458808d19b6e1896d45b4b1f2af.jpg",
+        "table_caption": [
+            "ZHANG Pei et al.: Coupling analysis of social-economic water consumption and its effects on the arid.. "
+        ],
+        "table_footnote": [
+            "Note: $C$ indicates the coupling degree between the water and ecological footprints. "
+        ],
+        "table_body": "<html><body><table><tr><td>0.0-0.5</td><td>Low</td><td>Weak</td></tr><tr><td>0.5-0.8</td><td>Middle</td><td>Moderate</td></tr><tr><td>0.8-1.0</td><td>High</td><td>Strong</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { t } = \\sum _ { i = 1 } ^ { n } \\alpha _ { i } y _ { t - i } + \\sum _ { i = 1 } ^ { n } \\beta _ { i } x _ { t - i } + \\alpha ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is the time trend; $Y _ { t }$ is the time sequence; $y$ is the element of sequence $Y ;$ and $n$ is the lagging period.In this study, the water and ecological footprints were in turn fited to Equation 6as the lefthand side variables. Hurlin and Venet (2Oo1) have assumed that the autoregressive coefficient ${ \\bf { \\alpha } } _ { { \\bf { { a } } } _ { i } }$ and the regression coeficient slope $\\beta _ { i }$ are constant, and $i$ belongs to $[ 1 , n ]$ .They have also assumed that ${ \\bf { \\alpha } } { \\bf { { a } } } _ { i }$ is identical for all individuals,whereas the regression coefficient slope $\\beta _ { i }$ can have an individual dimension. This setting forms the basic framework for Granger causality in a panel data context. In Equation 6,c is a constant. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to Hurlin and Venet (20o1), the homogenous non-causality hypothesis test is required to identify the Granger causality between the water and ecological footprints,and it was given by: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { H } } _ { 0 } { \\cdot } { \\beta } _ { 1 } = { \\beta } _ { 2 } = \\cdots = { \\beta } _ { n } = 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { H } _ { 0 }$ (null hypothesis） is the non-existence of causal relationships across $n$ . If the null hypothesisisrejected, $x$ is proven to be the Granger causality of $Y _ { \\cdot }$ In the general case, the $F$ test statistic could be computed by using the following Wald test proposed by Hurlin and Venet (2001): ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF = \\frac { ( \\mathrm { R S S } _ { 2 } - \\mathrm { R S S } _ { 1 } ) / n } { \\mathrm { R S S } _ { 1 } / ( N - 2 n - 1 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\mathrm { R S S } } _ { 1 }$ is the unrestricted sum of squared residuals computed from Equation 6; $\\mathrm { R S } \\mathrm { S } _ { 2 }$ denotes the restricted sum of squared residuals obtained under the null hypothesis; $n$ is the degree of freedom (df) of $\\mathrm { R S } \\mathrm { S } _ { 2 }$ ; and $N$ denotes the total number of observations.Thus,the statistic obeyed $F$ -distribution with $d f ( n , N { - } 2 n { - } 1 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The analyses of correlation and statistical test were processed by software package SPSS 20.0 for Windows (SPSS Inc., Armonk,NY,USA),and the Granger causality test was conducted by EViews 8.0 for Windows (IHS Global Inc., Irvine, CA, USA). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 Results ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1Temporal and spatial variations of the water and ecological footprints ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "According to the methods stated above, we calculated the water and ecological footprints and analyzed their temporal and spatial variations,as shown in Figure 1.In Figure la, the total amount of the ecological footprint increased significantly (described by the regression equation: $y = 0 . 4 8 x ^ { 2 } -$ $1 9 0 2 x + 1 . 9 { \\times } 1 0 ^ { 6 }$ $R ^ { 2 } { = } 0 . 9 6$ ,from $3 8 . 8 0 \\times 1 0 ^ { 1 0 } { \\mathrm { g h m } } ^ { 2 }$ in 2001 to $1 4 6 . 9 4 \\times 1 0 ^ { 1 0 } { \\mathrm { g h m } } ^ { 2 }$ in 2015.The sharp increases in the ecological footprints of fossil-fuel land and farmland contributed the most to the increase of the total amount of the ecological footprint. Except for the decreasing magnitude of the ecological footprint of forestland, the ecological footprints of other components all increased. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The total amount of the water footprint also increased significantly during the study period, from $2 9 3 . 1 2 \\times 1 0 ^ { 8 } ~ \\mathrm { m } ^ { 3 }$ in 2001 to $5 5 8 . 4 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ in 2015 (Fig. 1b). Even though the individual water footprints of the IWF, DWF and AWF increased, their percentages in the total amount of the total water footprint declined because of the very large increase in the CWF. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(a) (b) 500 60 120 60 400 40 80 40 300 20 40 20 0 0 0 200 2000 22 3 4 5 6 门 8 0 0 1 123 4 2005 1000 0 二 401 2 20 20 20 20 20 20 20 Fossil-fuel landWater area Grassland ·Ecological footprint □IWFandDWF口AWF口CWF·TWF Build-up land ForestlandArable land ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ecological footprint varied significantly among prefectures and cities in Xinjiang (Fig. 2). Using 2015 as an example, Changji had the highest ecological footprint $( 3 1 . 1 8 \\times 1 0 ^ { 1 0 } \\ \\mathrm { g h m } ^ { 2 } ) .$ followed by Aksu $( 1 6 . 8 9 \\times 1 0 ^ { 1 0 } \\ \\mathrm { g h m } ^ { 2 } )$ ，Urumqi ( $( 1 6 . 7 0 \\times 1 0 ^ { 1 0 } \\ \\mathrm { g h m ^ { 2 } } \\cdot$ ，Kashgar( $( 1 5 . 8 3 \\times 1 0 ^ { 1 0 } ~ \\mathrm { g h m } ^ { 2 } )$ Karamay ( $( 1 2 . 2 0 { \\times } 1 0 ^ { 1 0 } \\mathrm { g h m } ^ { 2 } )$ ,Hami $( 1 1 . 6 4 \\times 1 0 ^ { 1 0 } \\mathrm { g h m } ^ { 2 } )$ and Ili ( $1 1 . 3 2 \\times 1 0 ^ { 1 0 } { \\mathrm { g h m } } ^ { 2 }$ ). Kizilsu had the smallest ecological footprint ( $( 1 . 1 0 { \\times } 1 0 ^ { 1 0 } \\mathrm { g h m } ^ { 2 } )$ , as shown in Figure 2. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f2b64d75e526d78bc6b5fc8197e3bb612854282d9f8dd7f221027488ef162fe.jpg",
+        "img_caption": [
+            "Fig.1Composition percentages and amounts ofthe ecological footprint (a)and the water footprint (b)in Xinjiang from 2001 to 2015.IWF,industrial water footprint; DWF,domestic water footprint; AWF,animal-related water footprint; CWF,crop water footprint; TWF, total water footprint. The red line represents the variation trend. ",
+            "Fig.2Water and ecological footprints of the 14 prefectures and cities in Xinjiang in2015.1,Aksu Prefecture (abbreviated as Aksu); 2,Altay Prefecture (Altay); 3,Bayingol Mongolian Autonomous Prefecture (Bayingol); 4, Bortala Mongolian Autonomous Prefecture (Bortala); 5, Changji Hui Autonomous Prefecture (Changji);6,Hami Prefecture (Hami); 7, Hotan Prefecture (Hotan); 8, Kashgar Prefecture (Kashgar); 9,Karamay City (Karamay);10, Kizilsu Kirgiz Autonomous Prefecture (Kizilsu); 11,Tacheng Prefecture (Tacheng); 12, Turpan City (Turpan); 13, Urumqi City (Urumqi); 14, Ili Kazak Autonomous Prefecture (Ili). "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 also illustrates the contrasting relationships between the water and ecological footprints of the 14 prefectures and cities. In some prefectures (Aksu, Altay,Bayingol, Bortala, Hotan, Kashgar, Kizilsu, Tacheng,Turpan and Ili), the ecological footprint was relatively small but the water footprint was relatively large. In contrast, in Changji, Hami, Karamay and Urumqi, the ecological footprint was large, while the water footprint was relatively smal. In Karamay and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Urumqi, the ecological footprints were relatively large but the water footprints were smal, because the secondary and tertiary industries were relatively developed in these two cities,while other prefectures and cities were mainly dominated by agricultural production and thus large amounts of irrigation water were used, resulting in the large water footprints. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Coupling relationship between the water and ecological footprints ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To examine the coupling relationship between the water and ecological footprints,we processed the two sequences as described in Section 3.3.As shown in Figure 3,both homogeneous indices for the water and ecological footprints showed increasing trends from 2001 to 2015,and the increase in the ecological footprint was larger than that of the water footprint. Specifically, the homogeneous indices of the water footprint increased from 0.73 in 2001 to 1.40 in 2015,with an increasing amplitude of 0.67 and obvious inter-annual variations. However, the homogeneous indices of the ecological footprint increased from 0.45 in 2001 to 1.71 in 2015,with an increasing amplitude 1.26,a level almost twice the increased amplitude of the water footprint. The coupling degree between the water and ecological footprints in Xinjiang during the study period remained extremely high, with an average coupling degree value of O.99 and a standard error of 0.01. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/6800948d2ef7fb4c69c7f909aa3adc135fc2774b3aa35cc15537fee886c83660.jpg",
+        "img_caption": [
+            "Fig.3Homogeneous indices of the water and ecological footprints and coupling degree between the two footprints in Xinjiang from 2001 to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Spatially, the coupling degree between the water and ecological footprints in the 14 prefectures and cities varied significantly (Fig. 4). Except for Karamay and Urumqi, the other prefectures and cities exhibited a relatively high coupling degree $( > 0 . 8 0 )$ . Thus,in these prefectures and cities, the ecological footprint changed at the same pace as the water footprint,i.e., prefectures and cities that had a large (or small) ecological footprint also had a large (or small water footprint. The coupling degree was relatively low (0.67) in Urumqi, thus the ecological footprint had a low coupling relationship with the water footprint. For Karamay, the coupling degree value of O.43 indicated that the ecological footprint was not coupled with the water footprint. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The low coupling degree values between the water and ecological footprints in Urumqi and Karamay indicated that the more developed a prefecture or city, the lower its water consumption. Agriculture in Urumqi and Karamay is underdevelopment; therefore, the CWF values were smaller than those in other prefectures and cities.In contrast, the urbanization and industrialization levels were relatively high in Urumqi and Karamay, resulting in large ecological footprints. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3Internal mechanisms between the water and ecological footprints ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The Granger causality test reflected the interactions and causal relationships between the water and ecological footprints (Table 2). Two different hypotheses (i.e.,\"the water footprint is not the Granger cause of the ecological footprint\" and \"the ecological footprint is not the Granger cause of the water footprint\") and five lagging periods were tested in the Granger causality analysis shown in Table 1.According to the principles of hypothesis testing, when the significance reached the 0.05 level $( P { < } 0 . 0 5 )$ , the null hypothesis was rejected.As shown in Table 1, the hypothesis \"the water footprint is not the Granger cause of the ecological footprint\" was rejected when the lagging periods were l and 2 years,thus leading to the conclusion that the increased water footprint was the Granger cause of the increased ecological footprint. This finding verified that an increase in the water footprint will cause an increase in the ecological footprint, but the effect emerges 1 and 2 years later. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/76b266eecf3e7bb2d55ffc0b9a88d3bb4c3250a1997ff8aeedd2aeaca6d6d8fa.jpg",
+        "img_caption": [
+            "Fig.4Coupling degree between the water and ecological footprints in the 14 prefectures and cities in Xinjiang in 2015.The numbers of the prefectures and cities are the same as in Figure 2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/aff871978dced961f73bb92a3c27c1e30a0dddc3b8c2409835ef2751954a44b1.jpg",
+        "table_caption": [
+            "Table 2 Granger causality test of the water and ecological footprints "
+        ],
+        "table_footnote": [
+            "Note:O,current year;1,one year later;2,two years later;3,three years later; 4,four years later. "
+        ],
+        "table_body": "<html><body><table><tr><td>Lagging period</td><td>Hypothesis</td><td>F statistic</td><td>Significance level</td><td>Coupling decision</td></tr><tr><td>0</td><td>Ttheoifti</td><td>4.3</td><td>0.05</td><td>Accept</td></tr><tr><td>0</td><td>Thegicerfoisoteofte</td><td>0.8</td><td>0.36</td><td>Accept</td></tr><tr><td>1</td><td>Theeo</td><td>3.4</td><td>0.05</td><td>Accept</td></tr><tr><td>1</td><td>Theogicarfinittagefte</td><td>7.4</td><td><0.01</td><td>Decline</td></tr><tr><td>2</td><td>Theeoptisttaefte</td><td>1.2</td><td>0.34</td><td>Accept</td></tr><tr><td>2</td><td>TheogicarfotprintisottheGrangercauseofthe</td><td>5.2</td><td>0.01</td><td>Decline</td></tr><tr><td>3</td><td>Theeopisteh</td><td>2.0</td><td>0.15</td><td>Accept</td></tr><tr><td>3</td><td>Theicarfoiisothefe</td><td>2.0</td><td>0.16</td><td>Accept</td></tr><tr><td>4</td><td>Theeoopitiaefth</td><td>2.4</td><td>0.12</td><td>Accept</td></tr><tr><td>4</td><td>Thegicarfotprintisotth Grangercauseofthe</td><td>1.2</td><td>0.37</td><td>Accept</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Granger causality analysis illustrated that in Xinjiang， the development of the social economy was dependent on the water consumption. However, this relationship did not always mean that the greater water consumption was associated with the higher level of social economy. For instance, Urumqi and Karamay were the two cities with the highest values of social economy in Xinjiang,but the water consumption and the water footprint were not very large, as compared with other prefectures and cities. The modest water footprints occurred because these two cities had high levels of industrialization and mainly focused on the secondary and tertiary industries. In contrast, the social economies in other prefectures and cities in Xinjiang were stilldependent on agriculture, which consumed more fresh water resources than industries. Thus, to decrease water consumption and preserve water resources in the arid environments in Xinjiang, it is extremely important to take measures to accomplish industrial transformation from the primary industry to the secondary and tertiary industries. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5 Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As shown in Figure 2, prefectures and cities such as Changji, Hami, Karamay, Turpan and Urumqi occupied a relative high ecological footprint but a low water footprint (shown as the dot of the water footprint was in the column of the ecological footprint in Fig.2), this was because these prefectures and cities were relatively more developed in the secondary and tertiary industries The secondary and tertiary industries have advantages of high economic benefit and low water consumption. For example, according to the Xinjiang Statistical Yearbook in 2016, the personal incomes ( $1 3 . 1 0 \\times 1 0 ^ { 4 }$ CNY) of Karamay was 13 times higher than that of Hotan ( $1 . 0 1 \\times 1 0 ^ { 4 }$ CNY), but the per capita water footprint in Hotan ( $( 1 . 1 0 \\times 1 0 ^ { 3 } ~ \\mathrm { m } ^ { 3 } )$ was more than three times of that in Karamay $( 0 . 3 2 \\times 1 0 ^ { 3 } ~ \\mathrm { m } ^ { 3 } )$ . Under this condition, the underdeveloped prefectures and cities intend to expand the scale of agriculture to bring more incomes. The agriculture consumes more fresh water resources, which willead to environmental degradation; the poor environment of these prefectures and cities has low attraction to external investment, and less external investment enlarges the incomes gap between the low and high developed prefectures.This is a kind of Matthew effect, i.e., the rich geting richer and the poor getting poorer. Therefore,changing the structure of economy is the only way to accomplish harmonious and sustainable development of economy, environment and natural resources. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ecological footprint represents the land area required to sustain the current levels of resource consumption and the wastes generated by a population or individual. On the one hand, the ecological footprint indicates the influence of human behavior on the natural environment; on the other hand, it reflects the development of society and economy. How does the ecological footprint contribute to the local economy? Can development that is sustainable from an economic perspective be used to estimate the increase in the ecological footprint (ecological degradation)? To answer these questions, we determined the production value of the ecological footprint through dividing the regional GDP by the amount of the ecological footprint (Fig. 5). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/575ee16fdf83c4cdc316465ab707c3262aa9f576b9f9ab6ada0e6bfd5bcc7f5a.jpg",
+        "img_caption": [
+            "Fig.5Output value per unit ecological footprint in Xinjiang from 2Ool to 2015 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows that in Xinjiang,the output value per unit ecological footprint increases from 3.8 to $6 . 4 { \\mathrm { ~ C N Y / g h m } } ^ { 2 }$ from 2001 to 2015.This phenomenon illustrates that the output benefit of resource utilization increases with the development of social economy. However, the high resource usage efficiency cannot offset the effects of ecological damage and resource consumption resulting from the increase in the total ecological footprint. Previous research has shown that the expansion of the ecological footprint does not decrease the ecological carrying capacity,and the total carrying capacity is nearly stable (Xue et al.,2Oo9). However, in the calculation of the ecological carrying capacity, only the area of land use was considered,resulting in the misunderstanding of the carrying capacity. For example, for the degenerated forests,if the area does not change,the calculated carrying capacity based on land use remains the same.However, it should be noted that the actual carrying capacity decreases. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In this study， we further examined the analysis of homogeneous indices of the water and ecological footprint to beter understand the relationship between the increases in the water and ecological footprints (Fig. 6). ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f0a8d719b2b157284bcb6feddfc6dc80ad9bb70c6198d7558f5249e80f42faa.jpg",
+        "img_caption": [
+            "Fig.6Relationships between the homogeneous indices ofthe water and ecological footprints (a)and between the waterand biomassfootprints (b)in Xinjiang from 200l to2015.Thebiomass footprintis the ecological footprint of renewable resources. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure 6a illustrates that the increase in the ecological footprint is larger than that in the water footprint. In Figure 6b, the biomass footprint refers to the consumption of renewable resources (calculated as the ecological footprint minus the footprint of fossil fuels as stated in Section 3.1), and it reflects the pressure of bio-productive requirement on the environment (Feng, 2011). The linear regressions between the homogeneous indices of the water and ecological footprints and between the water and biomass footprints show that as the water footprint increases,the ecological and biomass footprints rise up correspondingly,and the slopes of the regressions are 2.64 and 1.91, respectively. In other words, the regression equations indicate that when the water footprint increased by 1 unit, the ecological and biomass footprints increased by almost 3 and 2 units, respectively. That is to say,1-unit increase in the water footprint would result in approximately 2- unit increase in the biomass footprint or 3-unit increase in the ecological footprint. Thus,we proposed a hypothesis that an increase in the water resource usage in the artificial oasis can result in a twice to triple of the ecological degradation in the natural oasis. The logical conclusion from this finding is that the formation and expansion of 1 unit of the artificial oasis will cause the degradation of 2-3 units of the natural oasis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to validate this hypothesis,we took the Tarim River Basin as an example and try to contrast the water consumption in both natural and artificial oases.The water consumption and the area of the natural oasis were obtained from Ling et al. (2Ol4).We calculated the water consumption in the artificial oasis by statistic data from the Xinjiang Water Resources Bulletin (Water Resources Bureau of Xinjiang Uygur Autonomous Region, 2001-2015), and derived the areas of the artificial oasis in Tarim River Basin from the aforementioned land use in 2010 according to Fan et al. (2002) and Wang et al. (2018). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Ling et al. (2O14) has calculated the ecological water consumption of the natural oasis in the mainstream of Tarim River in the year of 2010 based on the remote sensing data.According to this previous result, we extracted the area of natural vegetation and the amount of water consumption of the natural oasis in different sections and regions in the mainstream of Tarim River, and then calculated the water consumption rate, as shown in Table 3. ",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b64dc3c8891a6195be4c50cb138deee966b2aae8cc60a8c2c37fc8868c2e8d5.jpg",
+        "table_caption": [
+            "Table 3Area and water consumption of the natural oasis in the mainstream of Tarim River "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Section 1:Alar-Xinquman</td><td colspan=\"3\">Section 2:Xinquman-Yingbazha</td></tr><tr><td>Areatofn (×10³ km²)</td><td>consumprion (×108m²)</td><td>consumprion (x105 m/km2)</td><td>vAreatifn (×10³ km²)</td><td>consumprion (×108m³)</td><td>consumprion (x105 m³/km2)</td></tr><tr><td>North bank</td><td>2.27</td><td>3.84</td><td>1.69</td><td>3.11</td><td>5.75</td><td>1.85</td></tr><tr><td>South bank</td><td>1.66</td><td>1.86</td><td>1.12</td><td>1.53</td><td>1.83</td><td>1.20</td></tr><tr><td>Total</td><td>3.93</td><td>5.70</td><td>1.45</td><td>4.64</td><td>7.58</td><td>1.63</td></tr><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Section 3:Yingbazha-Wusiman</td><td colspan=\"3\">Section 4: Wusiman-Qiala</td></tr><tr><td>Areatifn (×10³ km²)</td><td>conumption (×108m³)</td><td>consumprion (x105 m/km2)</td><td>Areation (×10³ km²)</td><td>conumprion (x108m3）</td><td>consumprion (x105 m/km2)</td></tr><tr><td>Narth</td><td>2.86</td><td>3.83</td><td>1.34</td><td>2.12</td><td>3.80</td><td>1.79</td></tr><tr><td>South bank</td><td>0.94</td><td>1.10</td><td>1.16</td><td>0.30</td><td>0.30</td><td>1.01</td></tr><tr><td>Total</td><td>3.80</td><td>4.93</td><td>1.30</td><td>2.42</td><td>4.10</td><td>1.70</td></tr><tr><td rowspan=\"2\">Region</td><td colspan=\"3\">Section5:Qiala-TaitemaLake</td><td colspan=\"3\">Tarim River</td></tr><tr><td>Area of vegetation (×10³ km²)</td><td>Water consumption (×108m³)</td><td>consumprion (x10³ m³/km2)</td><td>Area of vegetation (×10²km²)</td><td>Water consumption (×108m³)</td><td>consumprion (x10³ m²/km2)</td></tr><tr><td>North bank</td><td>0.93</td><td>1.33</td><td>1.43</td><td>11.29</td><td>18.56</td><td>1.64</td></tr><tr><td>South bank</td><td>0.57</td><td>1.21</td><td>2.14</td><td>5.00</td><td>6.30</td><td>1.26</td></tr><tr><td>Total</td><td>1.50</td><td>2.54</td><td>1.70</td><td>16.29</td><td>24.86</td><td>1.53</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "According to Table 3, the area of natural vegetation in the mainstream of Tarim River was $1 6 . 2 9 \\times 1 0 ^ { 3 } \\ \\mathrm { k m } ^ { 2 }$ ，and the total amount of water consumption was $2 4 . 8 6 \\times 1 0 ^ { 8 } \\mathrm { ~ m } ^ { 3 }$ .Due to the differences in the vigor and composition of natural vegetation among the sections (Ling et al., 2014), the water consumption rate varied from $1 . 0 1 \\times 1 0 ^ { 5 }$ to $2 . 1 4 \\times 1 0 ^ { 5 } ~ \\mathrm { m } ^ { 3 } / \\mathrm { k m } ^ { 2 }$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In order to contrast with the water consumption in the artificial oasis, we analyzed the area and the amount of water consumption of the artificial oasis in the five prefectures in Tarim River Basin. The results are also shown in Table 4.Kizilsu had the smallest artificial oasis area $( 0 . 8 0 { \\times } 1 0 ^ { 3 } \\mathrm { k m } ^ { 2 } )$ （204号 but the highest water consumption rate $( 6 . 8 5 \\times 1 0 ^ { 5 } \\mathrm { m } ^ { 3 } / \\mathrm { k m } ^ { 2 } )$ . This was due to that Kizilsu was popular in livestock husbandry and the water consumption of this region accounted for $54 \\%$ of the national water consumption. But in other prefectures, the irrigation water was the main source of water usage，varying from $5 5 \\%$ to $70 \\%$ of the regional total water consumption，and the water consumption rate varied from $2 . 3 2 \\times 1 0 ^ { 5 }$ to $4 . 4 0 { \\times } 1 0 ^ { 5 } \\ \\mathrm { m } ^ { 3 } / \\mathrm { k m } ^ { 2 }$ . To sum up, the ranges of the water consumption rate in the artificial and natural oases were $2 . 3 2 { \\times } 1 0 ^ { 5 } { - } 6 . 8 5 { \\times } 1 0 ^ { 5 }$ and $1 . 0 1 \\times 1 0 ^ { 5 } -$ $2 . 1 4 \\times 1 0 ^ { 5 } \\mathrm { m } ^ { 3 } / \\mathrm { k m } ^ { 2 }$ ,respectively (Tables 3 and 4). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above, the water consumption rate in the artificial oasis was 2-3 folds of that in the natural oasis.This result supports the hypothesis that the formation and expansion of 1 unit of the artificial oasis will cause the degradation of 2-3 units of the natural oasis. It should be emphasized that the existence of the natural oasis has particular importance.First, the natural oasis is home to numerous species of flora and fauna,and many of which are rare; thus,to protect the biodiversity, it is of importance to protect the natural oasis. Second, the natural oasis is a defensive 'shield' for humans who live there.The natural oasis surrounds the artificial oasis,thereby minimizing the exposure of the artificial oasis to the desert and providing a comfortable living environment. Thus, the protection of the natural oasis is to protect the living conditions of humans. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/ceee4510d0c8d482bfa044b4497bdacaba055452becfe9011f5476850464c33f.jpg",
+        "table_caption": [
+            "Table 4Area and water consumption of the artificial oasis in the five prefectures in Tarim River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Prefecture</td><td>Area (×10³km²)</td><td>Water consumption (×108m³)</td><td>Water consumption rate (×105 m³/km²)</td></tr><tr><td>Bayingol</td><td>12.33</td><td>28.66</td><td>2.32</td></tr><tr><td>Hotan</td><td>12.74</td><td>33.95</td><td>2.67</td></tr><tr><td>Aksu</td><td>16.19</td><td>71.23</td><td>4.40</td></tr><tr><td>Kashgar</td><td>18.44</td><td>73.55</td><td>3.99</td></tr><tr><td>Kizilsu</td><td>0.80</td><td>5.46</td><td>6.85</td></tr><tr><td>Total</td><td>60.50</td><td>212.85</td><td>3.52</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "According to the analysis of this research, the increase in the water consumption was the main cause of ecological deconstruction in Xinjiang. However, the cases of Urumqi and Karamay illustrate that the development of a city does not inevitably cause the increase of water consumption; that is, economic development does not always have a direct relationship with ecological degradation. Therefore,for the artificial oasis, the structure of economy should be transformed by enhancing technology to solve the problem of short-term overuse of resources. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The ecological footprint assessment is an eficient tool to evaluate the sustainability of socialeconomy and environment. While there stillbe some controversies and criticism on this method. In the progress of the ecological footprint calculation, equilibrium factors and yield factors are uniformed and offered by Wackernagel(1998)as global average value.However, the characteristics ofland resources vary significantly among different regions, which indicates that the use ofuniform values cannot really reflect the actual situation of the ecological productive land in a region, and it will mislead the sustainable use of resources (Li et al.,2011; Dai et al., 2015; Somogyi, 2016).In addition,the calculation of the ecological footprint was based on an ideal hypothesis that land resources merely have a single function, while in reality,land resources sometimes have more than one utility.For instance, in some regions, crops could be harvested for twice per year or three times every two years, but this situation is not considered in the ecological footprint model, resulting in errors in the calculation results. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The assessment of the water footprint has advantage of evaluating the spatial distribution. However, most of the previous researches cannot accurately reflect the changes of the global water footprint due to the lack of detailed spatial geographic features (Mekonnen and Hoekstra, 2014). Further, it is hardly to apply the water resource management accurately and effectively (Perry, 2014).Therefore, we suggest that researchers should considered the time and space information in the water footprint assessment in the future,in order to accurately evaluate and compare the consumptions of water resources by human activities. The global virtual water trade and water footprint in the production process should be accounted for separately, because of the different opportunity costs and impacts of the green， blue and grey water footprints (Hoekstra and Chapagain, 20o8). In addition, the CWF merely accounts the water consumption and pollution, and it cannot reflect the impact of water consumption on the environment directly (Gao et al., 2017). Therefore,it has a great significance to reveal the deeply interaction between the water and ecological footprints. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study,the variations in the water and ecological footprints in the 14 prefectures and cities in Xinjiang of China from 200l to 2015 were evaluated.The integrated relationship between the water and ecological footprints was analyzed with the Granger causality test. The relationship between the increases in the water and ecological footprints was quantified. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Both the water and ecological footprints increased significantly from 200l to 2015. Specifically, the water footprint increased from $2 9 3 . 1 2 \\times 1 0 ^ { 8 }$ to $5 5 8 . 4 7 \\times 1 0 ^ { 8 } \\ \\mathrm { m } ^ { 3 }$ and the ecological footprint increased from $3 8 . 8 0 \\times 1 0 ^ { 1 0 }$ to $1 4 6 . 9 4 \\times 1 0 ^ { 1 0 } ~ \\mathrm { g h m } ^ { 2 }$ . In general, the ecological footprint was highly coupled with the water footprint both at temporal and spatial scales, because most of the prefectures and cities in Xinjiang were dominated by agriculture. However, in the highly developed cities (Urumqi and Karamay,) the water and ecological footprints were relatively uncoupled. The increase in the ecological footprint was stimulated by the water footprint, but the effect lagged by 1 and 2 years.The increase in the ecological footprint was 2-3 folds that of the water footprint,and the water consumption rate in the artificial oasis was 2-3 folds that in the natural oasis; thus, we deduce that the formation and expansion of1 unit of the artificial oasis would lead to the degradation of 2-3 units of the natural oasis. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Key Technology Research and Development Program of China (2017YFC0404301,2016YFA0601602）and the National Natural Science Foundation of China (51479209, 51609260). We express our thanks to the anonymous reviewers for their great advices,and would like to express ourappreciation to the Intermational Science Editing,language editing company for improving the language of this manuscript. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Bosire CK,OgutuJO,SaidMY,etal.2O15.Trendsandspatialvariationinaterandlandfootprints ofmeatandmilk production systems in Kenya.Agriculture,Ecosystems& Environment,2o5:36-47.   \nBureau of Statisticsof Xinjiang Productionand Construction Corps.2002-2016.Xinjiang Production and Construction Corps Statistical Yearbook.Beijing: China Statistics Press.(in Chinese)   \nBureauofStatisticsofXinjiang Uygur Autonomous Region.2002-2016.Xinjiang Statistical Yearbook.Beijing: China Statistics Press.(in Chinese)   \nChenL.2012.Protectingthesourceof life,the backboneofproduction,the foundationof ecology-implementing the strictest water resources management system.Qiushi,14:38-40.(in Chinese)   \nChenYN,LiBF,FanYT,etal.2O19.Hydrologicaland watercycle processsof inlandriverbasins inthearidregionof Northwest China. Journal of Arid Land,11(2):161-179.   \nDai JJ,WuYJ,OuyangYR.2015.Calculationsof thenationalaverageyield,equivalencefactorandyieldfactorinteyars basedon national hectares'ecological footprint model-A case studyof Xiamen City.Communications in Computer& Information Science,482: 338-349.   \nDeng MJ.2010.Researchandthinking on water resources in Xinjiang.Quaternary Sciences,30(1):107-114.(in Chinese)   \nEwingBR,HawkinsTR,WiedmaTO,etal.12.Integratingecologicalandwaterfotprintaountinginaulti-ioal input-output framework.Ecological Indicators,23(4):1-8.   \nFan ZL,MuGJ,MaYJ,etal.22.Formationanddevelopmentoftheartificialliigatedoasesinthenorthernpiedmontof the Tianshan Mountains.Scientia Geographica Sinica,22(2):184-189.(in Chinese)   \nFang K,HeijungsR,deSnooGR.2014.Theoreticalexplorationfortecombinationoftheecological,ergycarbon,adater footprints: Overview of a footprint family.Ecological Indicators,36: 508-518.   \nFang K,Duan Z.0l5.Anintegratedasessmentofnationalenvironmentalsustanabilitybysythesiingcarbon,waterandland footprints and boundaries.Journal of Natural Resources,30(4): 539-548.(in Chinese)   \nFeng M.2011.Resource and environmental pressure and eficiencyof regional economies.PhD Disertation.Shenyang: Northeastern University,18-24.(in Chinese)   \nGali A,WiedmannT,ErcinE,tal.12.Integratingcological,carbonandwaterfootprintintoa\"fotprintfamily\"of indicators:Definition and role in tracking human pressureon the planet.Ecological Indicators,16:100-112.   \nGaoF,LiYZ,GuoJX,etal.2O17.Areviewofwater footprintassssmentforagricultural products.Chinese JoualofEco Agriculture,25(7):1071-1080.(in Chinese)   \nGao GY,ShenQ,ZhangY,etal.2O18.Determining spatitemporalvariationsofecologicalwaterconsumptionbyaturaloases for ustainable water resources allcation ina hyper-arid endorheic basin.JournalofCleaner Production,185:1-13. 2647.   \nGranger CWJ.1969.Investigatingcausal relations byeconometric modelsand cross-spectral methods.Econometrica,7(3): 424-438.   \nGrangerCWJ.1988.Some recent development in a concept ofcausality. Journalof Econometrics,39(1-2):199-211.   \nGuo HW,XuHL,LingHB,etal.217.Transformationprocessandappropriatearea proportionofartificialandnaturaloases in the Tarim River Basin. Chinese Journal of Soil Science,48(3): 532-539.(in Chinese)   \nHao HG,Zhang JP,LiXB,etal.2015.Impactof livelihooddiversificationofrural householdsontheirecologicalfoprintin agro-pastoral areas of northern China. Journal of Arid Land,7(5): 653-664.   \nHertwich EG,Peters GP.2009.Carbon footprintof nations:aglobal,trade-linked analysis.Environmental Science& Technology, 43(16): 6414-6420.   \nHoekstraAY,Chapagain AK.2O08.Globalizationof Water: Sharing the Planet'sFreshwaterResources.Oxford:Blackwell Publishing Press,23-25.   \nHoekstraAY,ChapagainA,AldayaA,etal.2011.The WaterFooprintAssessmentManual: Setingthe Global Standard.ondon: Earthscan Press,25-39.   \nHu SJ,SongYD,TianCY,etal.27.Suitablesaleof WeiganRiverplaioasis.cienceinChina,0(S1):56-64.(inCinese)   \nHurlin C,VenetB.2Ool.Grangercausalitytestsinpaneldatamodels withfixedcoeficients.Paris:EURIsCO,UniversityParis IX Dauphin,1-31.htps://basepub.dauphine.fr/bitstream/handle/123456789/6159/3F117993d01.pdf?sequence $\\scriptstyle : = 1$ ：   \nJiao JY,GuiLD,JiaGJ.20l3.Sustainabledevelopmentofecological economyofsmallwatersheds insemi-aridloss hilly region.Journal of Ecology and Rural Environment,29(5): 559-565.(in Chinese)   \nLi JL,FengQ,GuoQL.20o8.Fractal studyofsustainable proportionsofnaturalandarificial oases.EnvironmentalGeology, 55(7): 1389-1396.   \nLi JL,Zhang SQ,PuZCet al.2O13.Spatial-temporalvariationof seasonalandannual airtemperature in Xinjiang during 1961-2010.Arid Land Geography,36(2): 228-237. (in Chinese)   \nLiY,Guo TT,Zhao QY2011.Ecological fotprint model parameters revisedstudy.Applied Mechanicsand Materials,99-100: 582-586.   \nLing HB,XuHL,LiuXH,etal.2012.Suitablescaleofoasis in KeriyaRiverbasin,Xinjiang.Advances in Water Science, 23(4): 563-568. (in Chinese)   \nLing HB,XuHL,FuJY,etal.2013.Suitableoasisscaleinatypicalcontinentalriverbasin inaaridregionofChina: Acase study of the Manas River Basin. Quaternary International, 286(430): 116-125.   \nLing HB,GuoB,XuHL,etal.20l4.Configurationof waterresourcesforatypicalriverbasin inanaridregionofChinabased on the ecological water requirements (EWRs)of desert riparian vegetation.Global and Planetary Change,122:292-304.   \nLiu B,Zhao W Z,Chang X X,etal.2010.Water requirements and stabilityofoasis ecosystem inaridregion,China. Environmental Earth Sciences,59(6): 1235-1244.   \nMekonnen MM,Hoekstra AY.2014. Water footprint benchmarks forcrop production:A first global assessment.Ecological Indicators,46: 214-223.   \nNational BureauofStatisticsofChina.2002-2016.China Statistical Yearbook.Beijing: China Statistics Pres.(in Chinese)   \nPerry C.2014.Water footprints: Path toenlightenment,orfalse trail.Agricultural Water Management,134:119-125.   \nQi C,Chang NB.2012.Integratedcarbonfotprintandcost evaluationofadrinking waterinfrastructure system forscrenng expansion alternatives. Journal of Cleaner Production,27:51-63.   \nQin XG,LiuJQ,JiaHJ,etal.212.Newevidenceofagriculturalactivityndenvironmentalchangeasociatedithteaient Loulan kingdom, China,around 15oo years ago. The Holocene,22(1): 53-61.   \nRees WE.1992.Ecological footprints andappropriated carrying capacity: what urban economics leaves out.Environment and Urbanization,6(2):121-130.   \nRidha I,Ben S H.2O18. Water footprint and economic water productivityofsheep meat at farm scale in humid and semi-arid agro-ecological zones. Smal Ruminant Research,166:101-108.   \nRushforth RR,AdamsEA,RuddellBL.2013.Generalizngcological, waterandcarbonfootprint methodsandtheirworldview assumptions using Embedded Resource Accounting.Water Resources and Industry,1-2: 77-90.   \nSalamehE.2Oo8.Over-exploitationofgroundwaterresources andtheirenvironmentaland socio-economicimplications:thecase of Jordan.Water International,33(1): 55-68.   \nSomogyi Z.2016.A framework forquantifying environmental sustainability.Ecological Indicators,61: 38-345.   \nSunS,WuP,WangYB,etal.2O13.Theimpactsofinter-annual climatevariabilityandagriculturalinputsonwaterfootprintof crop production in an irrigation district of China. Science of the Total Environment, 444(2): 498-507.   \nVeetilA V, Mishra A K.2016.Watersecurity assessment using blueand green water footprintconcepts.Journalof Hydrology, 542: 589-602.   \nWackernagelM,YountJD.1998.Theecologicalfotprint:anindicatorofprogresstowardregionalsustainability.Enviromental Monitoring and Assessment, 51(1-2): 511-529.   \nWackernagelM,OnistoL,BellP,etal.99.Nationalnaturalcapitalacountingwiththeecologicalfootprintconcept. Ecological Economics,29(3):375-390.   \nWackernagelM,MonfredaCSchulzNB,etal.2O04.Calculating nationalandglobalecologicalfootprintimeseries:Resolving conceptual challenges.Land Use Policy,21(3): 271-278.   \nWangYJ,GuoYH2018.Characteristicsofoasisbeforeandaftertheecologywatertransportation inlowerreachesofthe Tarim River. Desert& Oasis Meteorology,12(2):37-42.(in Chinese)   \nWater Resources BureauofXinjiang Uygur Autonomous Region.200l-2015.Xinjiang WaterResources Buletin.Beijing:Water Resources and Electric Power Press. http://www.xjslt.gov.cn/zwgk/slgb/index.html.(in Chinese)   \nWuY,WuSX,ZhangJ,etal.2014.StudyofXinjiangoasis withmultitudeoftemporalandspatialdata.AridLand Geography 37(2): 333-341.(in Chinese)   \nXie GD,LuCX,Cheng SK,etal.2Oo1.Evaluationofnaturalcapitalutilizationwithecologicalfootprintin China.Resources Science,23(6): 20-23.(in Chinese)   \nXuZM,ZhangZQ,ChengGD,etal.2003.EcologicalfotprintcalculationanddevelopmentcapacityanalysisofChinain 1999.Chinese Journal of Applied Ecology,14(2): 280-285.(in Chinese)   \nXueNC,AniwarA,GongL.O9.Astudyonecologicalcapacityandecologicalfotprintinrecent10yearsin Xinjiang.Joual ofAridLand Resources and Environment,23(6):24-27.(in Chinese)   \nYang KZ,YangY,ChenJ.2Oo0.Ecological footpritanalysis:concept,methodandcases.Advances inEarth Science,15(6): 630-636.(in Chinese)   \nYang XP,Dong JF,WhitePD.20o6.The keyroleof waterresources management inecologicalrestoration in wester China. Geographical Research,44(2): 146-154.   \nZhangP,XuHL,DuQ,etal.0l7.Changeofecologicalconditions inthemainstreamareaoftheTarimRiverbasedonRSand GIS during the period of 1990-2010.Arid Zone Research,34(2): 416-422.(in Chinese)   \nZhang P,LongA H,Deng XY,etal.2O18.Impactof social factors in agricultural productionon thecropwater footprint in Xinjiang,China.Water,10(9): 1145.   \nZhangY,LiSS.2O12.The time-series studyofXiangjiang River watercarringcapacitybasedontheecologicalfootprintof water resource-the Changzhutan Region,for example.Advanced Materials Research,518-523: 4362-4370.   \nZhangY,Zhang H.20l3.Analysisof waterecological footprintin Guangxibasedonecosystemservices.ActaEcologicaSinica, 33(13): 4111-4124.(in Chinese)   \nZhangY,Yang QY,MinJ.2O16.Ananalysisofcouplingbetweenthebearingcapacityoftheecological environmentandthe quality of new urbanization in Chongqing.Acta Geographica Sinica,71(5):817-828.(in Chinese)   \nZhang Z.2016.The lost civilization of the Niya. Snowlotus,5: 41-45.(in Chinese) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

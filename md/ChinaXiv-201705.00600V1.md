@@ -1,0 +1,135 @@
+# Hollow Ag/carbon microporous spheres with high catalytic activity based on a bio-inspiration polydopamine reaction platform†
+
+Qian Zhang,ab Chen Zhoua and Aisheng Huang\*a
+
+Based on a bio-inspiration polydopamine reaction platform,hollow Ag/carbon microporous spheres were facilely prepared througha template-assisted method.The hollow Ag/carbon spheres,with a uniform shell thickness of $3 0 \mathsf { n m }$ and a high Ag loading,show high catalytic activity for the reduction of 4-nitrophenol by $N a B H _ { 4 }$ to 4-aminophenol. It is found that the 4-nitrophenol $( 1 0 \ \mathrm { m L }$ $1 \times 1 0 ^ { - 3 } ~ \mathsf { M } )$ can be completely converted to 4-aminophenol in 2 min by adding $2 0 ~ \mathsf { m g }$ of hollow Ag/carbon catalysts.The catalytic activity of the hollow Ag/carbon microporous spheres is also confirmed by CO oxidation.At $2 0 0 ^ { \circ } \mathsf C ,$ $100 \%$ CO conversions can be achieved by using holow Ag/carbon microporous spheres as catalysts, which is promising to replace other noble metal catalysts in metal catalyzed reactions.
+
+# Introduction
+
+Supported metal nanoparticles are widely used as heterogeneous catalysts in chemical industries.1² The surface of the metal nanoparticlesis the catalytic site where the reactants can beadsorbed and converted to products.Therefore,not only the size,shape,and composition of the metal nanoparticles,but also the shape,composition,and microstructure of the catalyst supports play an important role in determining the overall catalytic activity and the product selectivity.3,4 So far,various materials including metal oxides,5-7 silica,' and carbon,9-11 have been developed as catalyst supports.Among these catalyst supports，hollow carbon nanospheres (HCSs) have drawn considerable interest due to their high thermal and chemical stability,high surface-to-volume ratio,low density,excellent corrosion resistance,and easy chemical processing.12-14 Several strategies such as chemical vapor deposition,15 hydrothermal treatment,16 and template-assisted method17,18 were developed for the preparation of hollow carbon nanospheres.Templateassisted is the main method used to prepare hollow carbon spheres.Generally,a spherical core-shell structure is firstly formed through the deposition of carbon precursor on a hard template core,followed by carbonization at high temperature and then core removal to obtain hollow carbon spheres.It is well known that the carbon precursors have an important effect on the preparation and final physical and chemical properties of the resulting hollow carbon nanospheres.19 Besides a high carbon yield,the formation of thin and uniform carbon layer has to be considered in the template synthesis of hollow carbon nanospheres sincea thinand uniformcarbon layeris helpful to promote the facile and fast diffusion of the chemicals,thus resulting in a high catalytic activity of the catalysis.17 Therefore, it is high desired to develop a simple and powerful method to prepare thin and uniform carbon shell on the template core.
+
+Mussel adhesive protein excreted by marine mussel has attracted much attention because of its outstanding adhesion ability to almost all substrates.2 Inspired by the bioadhesion property of mussels,Messersmith and co-workers reported that dopamine (DPA) could polymerize to polydopamine (PDA),and stick to all kinds of organic and inorganic surfaces.21 The PDA has emerged asaversatileandpowerful platformof secondaryreaction for application in cells adhesion,proteins immobilization nanoparticles stabilization，and membranes preparation.22-7 Attributing to its adhesive ability through non-covalent adsorp tion and covalent reaction,PDA is very promising to be used as a carbon source to deposit on the template core for the preparation of thin and uniform hollow carbon spheres.17Further, the PDA is an extremely versatile platform for facile introduction of dispersive and adherent metal nanoparticles by electroless metallization.28 In the present work, we report the preparation of hollow Ag/carbon microporous spheres based on the PDA reaction platform (Fig. 1).The catalytic activity of the hollow $\mathbf { A } \mathbf { g } / \mathbf { \Lambda }$ carbon catalysts is evaluatedby the reduction of 4-nitrophenol and CO oxidation.
+
+![](images/113d281012a62812bdf6520b621c5b9d1c889fdc0ae060d4d05f503ebb6f6d45.jpg)  
+Fig.1 Schematic diagram of the preparation of hollow Ag/carbon spheres based on bio-inspiration polydopamine reaction platform.
+
+# Experimental
+
+# Materials
+
+Chemicalswere used asreceived: $^ { 2 , 2 ^ { \prime } }$ -azobis(2-methylpropionamidine)dihydrochloride $( 9 7 \%$ ，Aldrich)，methyl methacrylate (MMA, $9 7 \%$ ,Aldrich),dopamine ( $9 8 \%$ ,Aladdin), tris(hydroxymethyl)aminomethane (Tris-HCl, $9 9 \%$ ，Aladdin), silver nitrate (AR,Aladdin),ethanol $( 9 8 \%$ ,Aladdin)，4-nitrophenol $\left( \geq 9 9 . 0 \% \right)$ ,Aladdin),sodium borohydride $\mathrm { ( N a B H _ { 4 } }$ $9 8 \%$ Aladdin),doublydistilledwater.
+
+# Preparation of polymethyl methacrylate (PMMA) spheres
+
+Mono-disperse PMMA spheres were synthesized according to the procedure reported elsewhere. $^ { 2 9 } 1 5 0 0 \mathrm { m L }$ of water and $4 0 0 \mathrm { { m L } }$ of MMAwere added into a three-neck round-bottom flask which waspurged with nitrogen.The mixture was heated to ${ 7 5 ~ ^ { \circ } } \mathbf { C }$ with continued stirring. When the temperature kept constant, $1 . 5 ~ \mathrm { g }$ $^ { 2 , 2 ^ { \prime } }$ -azobis(2-methylpropionamidine)dihydrochloride was added asazo initiator to the above mixture,and then the reaction was continued for $^ { \mathrm { ~ 2 ~ h ~ } }$ to produce colloidal PMMA spheres.The PMMA spheres were obtained by centrifuging,filtrating and drying the colloidal PMMA.Before being used as templates, the PMMAcrystal pelletswere crushed withametal spatula to form a powder.
+
+# DPA modification of PMMA spheres
+
+Simple immersion of PMMA spheres (0.3 g) ina dilute aqueous solution of dopamine $\mathrm { ( 3 0 ~ m L ) }$ ）inairatatypical $\mathsf { p H }$ of marine environment $\mathrm { ( p H } = 8 . 5 \$ )，with constant agitation for $2 4 \mathrm { ~ h ~ }$ at $2 0 ~ ^ { \circ } \mathbf { C }$ .Dopamine can self-polymerize to polydopamine at an alkaline environment,resulting in polydopamine layer being deposited on the support surface of PMMA spheres.21,25 And then,the PDA-modified PMMA spheres were obtained by filtrating and washing with deionized water,and then drying at a low temperature $\left( < 5 0 ~ ^ { \circ } \mathbf { C } \right)$
+
+# Preparation of hollowAg/carbon microporous spheres
+
+Afterwards,the PDA-modified PMMA spheres were treated with ${ \bf A g N O } _ { 3 }$ solution $\mathbf { \left[ 0 . 1 \ m o l \ L ^ { - 1 } \right] }$ for $2 4 \mathrm { ~ h ~ }$ at $2 0 \ { } ^ { \circ } \mathbf { C } .$ ，After filtrating and washing with ethanol for several times,Ag/PDA-PMMA spheres were dried at a low temperature $( < 5 0 ~ ^ { \circ } \mathbf { C } )$ . Finally, carbonization was carried out under Ar atmosphere at $9 0 0 ~ ^ { \circ } \mathbf { C }$ for $^ { 4 \mathrm { ~ h ~ } }$ with a heating rate of $3 ~ ^ { \circ } \mathbf { C } \operatorname* { m i n } ^ { - 1 }$ to prepare hollow Ag/ carbon microporous spheres.
+
+For comparison, $\mathbf { A g }$ catalysts were also supported on the surface of PDA-modified carbon nanotubes (CNTs) and PDAmodified carbon black (CB) prepared with same method under same synthesis condition with Ag/carbon.
+
+# Characterization of hollow Ag/carbon microporous spheres
+
+Field emission scanning electron microscope (FESEM) micrographs were taken on an S-48oo (Hitachi) with a cold field emission gun operating at $4 ~ \mathrm { k V }$ and $1 0 \ \mu \mathbf { A } .$ ，The chemical composition of the Ag/PDA-PMMA spheres and hollow $\mathbf { A g } / \mathbf { \Lambda }$ carbon spheres were characterized by energy-dispersive X-ray spectroscopy (EDXS) using the same SEM microscope at $2 0 ~ \mathrm { k V }$ and $2 0 ~ \mu \mu$ ，Thesurface chemical compositions of the $\mathbf { A g / P D A ^ { - } }$ PMMA spheres and hollow Ag/carbon spheres analyzed by X-ray photoelectron spectroscopy (XPS,Axis Ultra DLD,Kratos) with $\mathbf { M g } \ \mathrm { K } \boldsymbol { \alpha }$ lines as an X-ray source.The XRD patterns were recorded at $2 0 ~ ^ { \circ } \mathbf { C }$ under ambient conditions with Bruker D8 ADVANCE X-ray diffractometer with $\mathbf { C u K } \alpha$ radiation at $4 0 ~ \mathrm { k V }$ and $4 0 ~ \mathrm { m A }$ .Textural properties of Ag/PDA-PMMA spheres and hollow Ag/carbon spheres,including Brunauer-Emmett-Teller (BET)-specific surface areas,and pore volumeswere analyzed by nitrogen adsorption/desorption isotherm data measured on an ASAP 2020M apparatus (at 77.3 K).
+
+# CatalyticactivityevaluationofthehollowAg/carbon microporous spheres
+
+The silver-catalyzed reduction of 4-nitrophenol by $\mathrm { N a B H _ { 4 } }$ to 4- aminophenol was chosen as a model reaction to evaluate the catalytic ability of the as-synthesized hollow Ag/carbon micro porous spheres. $1 0 ~ \mathrm { m L }$ （ $\left( 1 \times 1 0 ^ { - 3 } \mathrm { \ m o l \ L ^ { - 1 } } \right)$ 4-nitrophenol was mixed with freshly prepared aqueous solution of $\mathrm { { N a B H _ { 4 } } }$ (0.1 mL, $1 \times 1 0 ^ { - 1 } \mathrm { m o l } \mathrm { L } ^ { - 1 } .$ ). And then, $2 0 \mathrm { m g A g / }$ carbon spheres were added with constant magnetic stirring of $3 0 0 ~ \mathrm { r p m }$ UV/Vis absorption spectras were recorded to monitor the change in the reaction mixture.The conversion of 4-nitrophenol is defined as the percentage of 4-nitrophenol concentration that has reacted.
+
+$$
+\alpha ( \% ) = \frac { C _ { \mathrm { { i n i t i a l } } } - C _ { \mathrm { { f i n a l } } } } { C _ { \mathrm { { i n i t i a l } } } } \times 1 0 0 \%
+$$
+
+$C _ { \mathrm { i n i t i a l } }$ is the 4-nitrophenol concentration before reduction and $C _ { \mathrm { f i n a l } }$ is the 4-nitrophenol concentration after the addition of the hollow Ag/carbon catalyst in $2 ~ \mathrm { m i n }$ . The 4-nitropheno concentration was determined by UV/Vis according to the LambertBeer law.
+
+The catalytic activity of the hollow Ag/carbon microporous spheres was also confirmed by CO oxidation.For comparison, the catalytic activity of the $\mathbf { A g / C N T S }$ and $\mathbf { A g / C B }$ was also evaluated by CO oxidation.The CO oxidation was evaluated on a Finesorb 3o1o instrument with a fixed-bed U-shaped quartz reactor with $3 \ \mathrm { m m }$ internal diameter.30 $2 0 ~ \mathrm { m g }$ of Ag/carbon catalysts were used for each test,and the reaction temperature with a heating rate of $2 { } ^ { \circ } \mathbf { C } \operatorname* { m i n } ^ { - 1 }$ was controlled by using a K-type thermocouple which directly contacted with the upper quartz wool near the Ag/carbon powder (Fig. $\mathbf { S 1 \dag }$ ). The composition of the feed gas included $2 \%$ CO and $9 8 \%$ air (as the balance gas),and the total feed flow rate was $3 0 \mathrm { m L } \mathrm { m i n } ^ { - 1 }$ . The effluent gas was analyzed by using an FGA-41oo which was equipped with infrared sensor to detect CO, $\mathbf { C O } _ { 2 }$ and $\mathbf { O } _ { 2 }$ . The conversion of CO is defined as the percentage of CO feed that has reacted:
+
+$$
+\mathrm { C O ( \% ) = \frac { C O _ { \mathrm { i n } } - C O _ { \mathrm { o u t } } } { C O _ { \mathrm { i n } } } \times 1 0 0 \% }
+$$
+
+$\mathbf { C O } _ { \mathrm { i n } }$ is the CO concentration in the inlet gas and $\mathbf { C O _ { \mathrm { { o u t } } } }$ is the CO concentration in the outlet gas.
+
+# Results and discussion
+
+Asshown in Fig.2a,the as-synthesized PMMA spheres show asmooth surface and auniform size with a diameter of about $3 2 0 \ \mathrm { n m }$ .After PDA modification,thediameterof the PMMA spheres enlargesto about $4 0 0 \ \mathrm { n m }$ ，and the surface of PDAPMMA becomes much rougher (Fig.2b),suggesting that DPA can spontaneously self-assemble into PDA and deposit onto the surfaceofPMMAspheres.Furthermore,it can be learned that the thickness of the PDA layer is about $4 0 \ \mathrm { n m }$ ,which is in good agreement with the previous report.²1 Further, the metalbinding ability of catechols presented in the PDA coating is expected to deposit adherent and uniform metal nanoparticles onto substrates surface by electroless metallization.This is demonstrated through the deposition of silver nanoparticles onto the surface of PMMA spheres via simple immersion of PDA-modified PMMA spheres into silver nitrate solution.As shown in Fig.2c,after reaction with ${ \bf A } { \bf g } ^ { + }$ in ${ \bf A g N O } _ { 3 }$ solution, silvernanoparticles are scattered on the PDA-PMMA surface.It is observed that Ag nanoparticles with about $1 0 \ \mathrm { n m }$ appear as brighter spots on the PDA-PMMA surface (the inset in Fig. 2c). The formation of Ag nanoparticles on the PDA-PMMA surface is also confirmed by EDXs (Fig. 3a),XPS (Fig. 4a) and XRD pattern (Fig. S2at). The peaks in XRD pattern at $3 8 . 1 ^ { \circ }$ ， $4 4 . 2 ^ { \circ }$ ， $6 4 . 5 ^ { \circ }$ ,and $7 7 . 5 ^ { \circ }$ correspond to the (111),(200),(220),and (311) diffractions of metallic Ag.28
+
+![](images/79f10cf555f02a0b131bf835e0fea78e5bb18a36fef1856ec12e67263d293035.jpg)  
+Fig.2FESEM images of the PMMA spheres (a),PDA-modified PMMA spheres (b),Ag/PDA-PMMA spheres (c),hollow Ag/carbon spheres (d). The inset in (c) shows a magnified image of an Ag/PDA-PMMA sphere, and the inset in (d) shows a magnified image of a hollow Ag/carbon sphere.
+
+![](images/7a7956fb41e64a89996cbd249f28cab544419470f5d7990a9bc67a38c0f216ae.jpg)  
+Fig.3EDXS of the Ag/PDA-PMMA spheres (a) and hollow Ag/carbon spheres (b).
+
+![](images/bc936220d78a31f341101ffe7155ec7508944803b308e1cc12df620ca93aceb5.jpg)  
+Fig.4 XPS of the Ag/PDA-PMMA spheres (a) and hollow Ag/carbon spheres (b).The insets show corresponding narrow scan for Ag 3d peaks.
+
+At $9 0 0 ^ { \circ } \mathbf { C } ,$ ,the PMMA templates are easily removed, resulting in the formation of hollow Ag/carbon spheres with diameter of about $4 0 0 ~ \mathrm { { \ n m } }$ (Fig.2d).The hollow nanostructure is also observed by TEM image of the Ag/carbon spheres (Fig. $\mathbf { S } 3 \dagger .$ , showing a clear shell with thickness of about $3 0 ~ \mathrm { { n m } }$ ,which is comparable to the thickness of the PDA layer (about $4 0 \mathrm { n m }$ ).The Agnanoparticles are highly dispersed on the surface of hollow carbon spheres (the insetin Fig.2d).Furthermore,EDXS indicates the high purity of the carbon and silver composition with onlyasmall number of other elements (Fig.3b).Inaddition, the structure of metallic Ag keeps unchanged after carbonization at a high temperature,as confirmed by XPs (Fig. 4b) and XRD (Fig.S2bt).Nitrogen adsorption-desorption isotherm of the Ag/ carbon spheres shows a typical type-I curve，confirming a microporous structure of the hollow Ag/carbon spheres (Fig.S4t).The BET surface area of the hollowAg/carbon spheres is $2 4 2 \mathrm { m } ^ { 2 } \mathrm { g } ^ { - 1 }$ ,which is much higher than that of Ag/PDA-PMMA spheres $\left( 4 . 2 4 \mathrm { ~ m } ^ { 2 } \mathrm { ~ g } ^ { - 1 } \right)$ .Considering the high BET area and highly porous structure,the hollow Ag/carbon spheres can be used as an excellent catalyst.
+
+The catalytic ability of the hollow Ag/carbon spheres was evaluated with the reduction of 4-nitrophenol by $\mathrm { { N a B H } _ { 4 } }$ to 4-aminophenol. The reduction reaction can't start in the absence of hollow Ag/carbon catalyst.The bright yellow colour of the 4-nitrophenol and $\mathrm { { N a B H } _ { 4 } }$ mixture keeps unchanged for at least 5 days at $2 0 ~ ^ { \circ } \mathbf { C }$ (Fig. ${ \bf S } 5 { \bf a } { \dagger }$ )，anda strong and constant absorption peak of 4-nitrophenol is observed at $4 0 0 \mathrm { n m }$ (Fig. 5). However,when hollowAg/carbon catalyst was added into the 4- nitrophenol and $\mathrm { { N a B H } _ { 4 } }$ solution,the solution colour become weaker and weaker,and finally become colourless in $2 \ \mathrm { m i n }$ (Fig. S5b and a video in $\mathrm { E S I \dagger }$ ),indicating that the 4-nitrophenol is completely converted to 4-aminophenol. Correspondingly, the absorption at $4 0 0 ~ \mathrm { { n m } }$ quickly decreases and finally disap pears,and a new absorption of 4-aminophenol at $2 9 5 \ \mathrm { n m }$ is emerged (Fig. 5).
+
+Dai and colleagues reported the preparation and catalytic ability of Au $\textcircled{2}$ carbon yolk-shell nanocomposites.17 It was found that the Au@carbon yolk-shell nanocomposites showed high catalytic ability in the reduction of 4-nitrophenol,and the reduction of 4-nitrophenol ( $\mathrm { ~ 3 ~ m L }$ 5 $1 \times 1 0 ^ { - 4 } \mathrm { ~ M } )$ into 4-aminophenol was completely finished in $5 \ \mathrm { \ m i n }$ by using $5 ~ \mathrm { ~ m g ~ }$ Au@carbon.The high catalytic ability of Au@carbon was attributing to a facile diffusion of 4-nitrophenol through the porous and ultrathin carbon shell and the large free reaction voids inside the carbon sphere.In comparison with the Au@carbon yolk-shell nanocomposites, the present hollow $\mathbf { A g } / \mathbf { \Lambda }$ carbon spheres also show high catalytic ability，and only in $2 \mathrm { m i n }$ the 4-nitrophenol ( $\mathrm { \Delta } ^ { \cdot } 1 0 \mathrm { \ m L }$ ， $1 \times 1 0 ^ { - 3 } \mathrm { M } )$ canbe completely transformed to 4-aminophenol by adding $2 0 ~ \mathrm { m g }$ hollow $\mathbf { A g } / \mathbf { \Lambda }$ carbon catalysts.As shown in the inset in Fig.2d,Ag nanoparticles can highly disperse on the surface of hollow carbon, thus leading to the formation of more silver active sites for 4-nitrophenol reduction.
+
+![](images/fd160a682ffde0f37f5a0b3962548205ecca165e588ab97b21c62a8a038786b5.jpg)  
+Fig.5UV/Vis spectra of 4-nitrophenol solution before reduction (a) and after the addition of the hollow Ag/carbon catalyst in $2 \min$ (b).
+
+The catalysts stability isa very important factor for catalytic reaction.The stability of hollowAg/carbonwas investigated by performing the same reduction reaction.After each use,the hollow Ag/carbon catalyst was recycled by simple centrifugation,washing with distilled water and drying in an oven overnight. It can be seen that the hollow Ag/carbon catalyst still shows highly active after 6 successive cycles of reactions,with near $1 0 0 \%$ conversion in 2 min (Fig. S6t),indicating the high stability of the hollow Ag/carbon.
+
+The catalytic oxidation of CO to $\mathbf { C O } _ { 2 }$ using Ag catalyst at low temperature has attracted considerable interest due to its significance in a wide range of applications.31,32 The catalytic activity of the hollow Ag/carbon catalyst was also confirmed by the CO oxidation reaction.Fig.6 shows the CO conversion as a function of the reaction temperature by using Ag nano particles as catalysts which were loaded on the hollow carbon spheres,carbon nanotubes (CNTs)，and carbon black (CB), respectively.It can be seen that both Ag/CNTs and Ag/CB show low catalytic activity.No CO conversion is observed when the reaction temperature is lower than $1 0 0 ~ ^ { \circ } \mathbf { C }$ ,and the CO conversion begins to increase after the reaction temperature increases to $1 2 5 ^ { \circ } \mathrm { C } .$ But even the reaction temperature increases to $2 5 0 ^ { \circ } \mathbf { C } ,$ the CO conversions for Ag/CNTs and $\mathbf { A g / C B }$ are only $9 8 . 9 \%$ and
+
+![](images/b60c97407ef82dab64e11cbefd717756e0d1275dc9d1d492d4dd740c5232f08d.jpg)  
+Fig.6 Temperature-dependent CO conversion in the CO oxidation over the hollow Ag/carbon catalysts.For comparison, the results on the $\mathsf { A g / C N T s }$ and $\mathsf { A g / C B }$ catalysts are also included.
+
+$9 5 . 4 \%$ ，respectively.While for hollow Ag/carbon， the CO conversionsisabout $2 \%$ when reaction temperature increases to $1 0 0 ^ { \circ } \mathrm { C }$ ,and $1 0 0 \%$ CO conversions can be achieved at $2 0 0 ^ { \circ } \mathbf { C }$ indicating the hollow Ag/carbon showa higher catalytic activity for CO oxidation than Ag/CNTs and $\mathbf { A g / C B }$ .The characteristic temperaturesat the conversion of $1 0 \%$ ， $5 0 \%$ ， $9 0 \%$ ，named as ${ { T } _ { 1 0 } } , { { T } _ { 5 0 } }$ and $T _ { 9 0 }$ ,are $1 4 6 . 2 \ ^ { \circ } \mathrm { C } _ { \mathrm { ~ } }$ $1 8 4 . 6 \ ^ { \circ } \mathrm { C }$ . $1 9 4 . 8 \ ^ { \circ } \mathrm { C }$ ,respectively, showing an excellent activity close to the more expensive Au catalysts.3³ Recently,Nagy et al. reported the catalytic performance of $\mathrm { S i O } _ { 2 }$ supported $\mathbf { A g }$ nanoparticles for CO oxidation.4 It was found that the maximum CO conversion at $4 0 0 ^ { \circ } \mathrm { C }$ was only about $9 0 \%$ for ${ \bf A g } / { \bf S i O } _ { 2 }$ .It is well known that the catalyst supports play an important role to the catalytic activity of the catalyst. Since hollow carbon spheres have high BET area, the Ag nanoparticles can be highly dispersed on the surface of hollow carbon,thus showing higher catalytic activity for CO oxidation.Further work is in progress to evaluate catalytic activity of the hollow Ag/carbon for other catalytic reaction.
+
+# Conclusions
+
+In conclusion,a versatile and facile method was developed to synthesize hollow Ag/carbon spheres based on polydopamine reaction platform by using PMMA spheres as templates.The uniform Ag/carbon spheres with thin shell thickness of about $3 0 \mathrm { n m }$ were obtained easily bya simple immersion of the PMMA templates in a dopamine aqueous solution，following the reaction with ${ \bf A } { \bf g } ^ { + }$ ,and finally the carbonization to removal the PMMA templates.The hollow Ag/carbon spheres showed high catalytic ability in the 4-nitrophenol reduction and CO oxidation since $\mathbf { A g }$ nanoparticles can be highly dispersed on the surface of hollow carbon spheres,which is promising to replace othernoble metal catalysts in metal catalytic reactions.
+
+5 A.A. Herzing,C. J. Kiely，A. F. Carley，P. Landon and G.J. Hutchings, Science,2008,321,1331. 6 M.M. Schubert, V. Plzak, J. Garche and R.J. Behm, Catal. Lett., 2011,76, 143.   
+7 M. Comotti, W.-C.Li, B. Spliethoff and F. Schuth,J. Am. Chem. S0c., 2006,128, 917.   
+（20 $^ { 8 \mathrm { ~ M ~ } }$ ，Okumura， S. Nakamura， S. Tsubota，T. Nakamura, M. Azuma and M. Haruta, Catal. Lett.,1998,51,53.   
+9 J. Wang,D. Gao, G. Wang, S. Miao, H. Wu,J. Lia and X. Bao,J. Mater. Chem. A,2014,2,20067.   
+10 S. Ikeda， S. Ishino,T. Harada，N. Okamoto,T. Sakata, H. Mori， S. Kuwabata, T. Torimoto and M. Matsumura, Angew. Chem.,Int. Ed.,2006,45,7063.   
+11 K.T.Lee,Y.S. Jung and S.M. Oh,J. Am. Chem. Soc.,2003, 125,5652.   
+12 C.-H. Hsu, J.-Y. Jan, H.-P. Lin and P.-L. Kuo, New J. Chem., 2014, 38, 552.   
+13 F.Xu，Z. Tang，S.Huang，L.Chen，Y. Liang，W.Mai, H. Zhong, R. Fu and D. Wu, Nat. Commun., 2015,7,7221.   
+14 T. Yang, J. Liu, Y. Zheng, M. J. Monteiro and S. Z. Qiao, Chem.-Eur. J.,2013,19, 6942.   
+15 Z. X. Yang and R. Mokaya, Microporous Mesoporous Mater., 2008,113,378.   
+16 K.Tang,L. J. Fu,R. J. White,L. H. Yu,M.-M.Titirici, M.Antonietti and J. Maier,Adv. Energy Mater.,2012,2,873.   
+17 R.Liu,S.M. Mahurin,C.Li,R.R.Unocic,J.C.Idrobo, H. Gao, S. J. Pennycook and S. Dai, Angew. Chem., Int. Ed., 2011, 50,6799.   
+18 G.D.Li,C.L. Guo, C.H. Sun, Z. C.Ju,L. S.Yang,L.Q. Xu and Y. T. Qian,J. Phys. Chem. C,2008,112,189.   
+19 S.Y. Li,Y. R. Liang,D. C.Wu and R.W.Fu, Carbon,2010,48, 839.   
+20 J.H. Waite and M.L. Tanzer, Science,1981, 212,1038.   
+21 H.Lee,S.H.Dellatore,W.M.Miller and P.H. Messersmith, Science,2007,318,426.   
+22 H. Lee,J. Rho and P. B. Messersmith, Adv. Mater., 2009, 21, 431.   
+23 J. Ryu, S.H. Ku, H. Lee and C. B. Park,Adv. Funct. Mater., 2010,20,2132.   
+24 D. Ling, W.Park, Y.1 Park, N.Le,F.Li, C.Song, S.-G. Yang, S. H. Choi, K. Na and T. Hyeon,Angew. Chem., Int. Ed.,2011, 50, 11360.   
+25 Q. Liu, N. Wang, J. Caro and A. Huang, J. Am. Chem. Soc., 2013,135,17679.   
+26 Q. Liu, B.Huang and A. Huang,J. Mater. Chem. A, 2013,1, 11970.   
+27 A. Huang, Q. Liu, N. Wang and J. Caro,J. Mater. Chem. A, 2014,2,8246.   
+28 L. Zhang, S. Roy, Y. Chen, E. K. Chua,K.Y. See, X. Hu and M. Liu, ACS Appl. Mater. Interfaces, 2014,6,18644.   
+29 R.C. Schroden，M.Al-Daous，S.Sokolov，B.J. Melde, J. C. Lytle,A. Stein, M. C. Carbajo, J. T. Fernández and E.E.Rodriguez,J. Mater. Chem.,2002,12,3261.   
+30 C. Zhou, Y. Zhang, L. Hu, H. Yin and W. Wang, Chem. Eng. Technol.,2015,38, 291.   
+31 X. Zhang, Z. Qu, X. Li, M. Wen, X. Quan, D. Ma and J. Wu, Sep.Purif. Technol.,2010,72,395.
+
+# Acknowledgements
+
+Financial support by the National Natural Science Foundation of China (Grant No.21276262),External Cooperation Program ofBIC， ChineseAcademyofSciences(GrantNo. 174433KYSB20130o5),China Postdoctoral Science Foundation (Grant No.2015M571908)，Ningbo Science and Technology Innovation Team (Grant No.2014B81004),and Ningbo Municipal Natural Science Foundation (Grant No.2015A61oo55) are acknowledged.Mr H.Chen is thanked for help in FESEM measurement.
+
+1 A.Corma and H.Garcia,Chem. Soc.Rev.,20o8,37,2096.   
+2 R.J.White，R.Luque,V.L.Budarin，J.H.Clark and D.J.Macquarrie,Chem. Soc.Rev.,2009,38,481.   
+3 C.K. Tsung, J. N. Kuhn,W. Huang,C. Aliaga, L. Hung, G.A.Somorjai and P.Yang,J.Am. Chem. Soc.,20o9,131,   
+5816.   
+4 K.An，S.Alayoglu，N.Musselwhite，S.Plamthottam, G.Melaet,A.E.Lindeman and G.A. Somorjai,J.Am. Chem. Soc.,2013,135,16689.
+
+# References
+
+32 Z.Qu,M. Cheng, C. Shi and X.Bao,J.Mol. Catal.A: Chem., 2005,239,22.   
+33H.H.Kung,M.C.Kung and C.K. Costello,J.Catal.,2003, 216,425.   
+34 G.Nagy,T.BenkO,L.BorkO,T.Csay,A. Horvath,K.Frey and A.Beck,React.Kinet.,Mech.Catal.,2015,115,45.   
+35K.Na,S.Alayoglu,R.Ye and G.A. Somorjai,J.Am.Chem. Soc.,2014,136,17207.

@@ -1,0 +1,405 @@
+[
+    {
+        "type": "text",
+        "text": "视觉经验缺失对盲人听觉词汇识别的影响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冯杰」徐 娟² 伍新春1（北京电子科技学院北京100070)2（北京联合大学特殊教育学院北京 100075)3（北京师范大学心理学部北京 100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要听觉词汇识别包含复杂的认知加工过程。视觉通道受阻的盲人在听觉词汇加工中具有一定听觉补偿优势；但由于视觉经验的缺失，盲人对一些视觉相关词（比如颜色词)的语义加工和理解比明眼人弱。未来的研究应对词汇的视觉相关性进行分类讨论；对音、形、义等多层面及其神经生理机制进行深入探究，发展符合盲人感知特点的听觉词汇加工模型；并拓展不同年龄段的发展性研究。最终，揭示视觉经验缺失对盲人听觉词汇识别影响机制的全貌。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 盲人，听觉词汇识别，语音，语义，字形",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effect of blindness on auditory word recognition ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Feng Jie'Xu Juan²Wu Xinchun³ 1(Beijing Electronic Science and Technology Institute,Beijing looo70, China) (Special Education College,Beijing Union University,Beijing lOoo75, China) 3(Faculty of Psychology, Beijing Normal University, Beijing 100875, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Auditory word recognition involves complex cognitive processing. Blind people have certain advantages of auditory compensatory in word processing. However, due to the lack of visual input, the blind suffer more challenges in auditory word processing related with visual perceptual experience (e.g.，color terms). Future research should focus on (1） the word categorization based on the relationship with visual experience; (2) the multifaceted efects and neuropsychological mechanisms of factors in auditory word recognition, including phonology, orthography, and semantics, in order to develop the special model of spoken word processing conforming to the perceptual characteristics of the blind; (3） developmental studies in different ages.Finally， to reveal the overall mechanism of the effect of blindness on auditory word recognition of the blind. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Blind people, auditory word recognition, phonology, semantics, orthography ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "语言是人类所拥有的最复杂的认知能力之一，是人类用以表达思想、进行交流与学习的重要工具，具备良好的语言技能对个体的个性化和社会化都十分重要。个体的语言获得和发展受遗传与环境的共同影响。明眼人的语言习得以健全的视觉为基础，他们可以在对话时看到讲者嘴型的变化、面部的表情以及肢体的动作，也可以看到红色的花、绿色的树和白色的雪；然而，盲人（特别是先天盲和早盲者）的视觉通道受阻，他们在语言获得过程中缺乏鲜明形象的视觉信息的输入。从人类的角度来看，生活在相同的物理和文化环境中的盲人和明眼人有着迥异的视觉体验；从环境的角度来看，或许也可以理解为盲人和明眼人生活在视觉特征不同的物理和文化环境之中。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "环境对个体具有极强的塑造所用，视觉通道受阻的盲人在适应环境的过程中会产生一些与明眼人不同的心理和行为变化。语言是人类最为复杂的心理现象之一，它是个体赖以沟通和学习的重要工具，而言语对视觉通道受阻的盲人的重要性则更为突出。更加依赖听觉通道的盲人在听觉言语加工中是否更具优势，亦或是由于视觉信息的缺失而使盲人的言语加工产生一定劣势？并且，这种由视觉经验缺失所引发的认知加工机制上的变化具有什么样的脑神经生理基础？对这些问题的探讨有助于我们从视觉经验缺失的角度了解环境对个体心理发展变化的复杂影响机制。词在听觉言语理解中具有重要作用，听懂每个词是深入理解的前提。因此，本研究主要聚焦于视觉经验缺失对盲人听觉词汇识别的影响机制的探讨。本文首先对听觉词汇的构成及已有的关于明眼人听觉词汇识别的相关研究进行介绍之后对以往关于盲人听觉词汇识别方面的文献进行评述，进而探讨盲人听觉词汇识别的特点和机制，并对该领域今后的研究方向进行展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1听觉词汇的构成和加工机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "言语是一种高度结构化的声音组合，它由一些基本的言语单元组成。其中，音位（phoneme）是能够区分意义的最小语音单位。比如在英语中，单词/home/包含/h/、/o/和 $/ \\mathrm { m } /$ 三个音位。在西方字母文字体系中，音位主要包含元音（vowel）和辅音（consonant）两大类。元音在声谱图上的差别主要是共振峰（formant）的不同；辅音的区别性特征相对较多，其中，发音起始时间（voice onset time，VOT）是一个重要特征。在声调语言（比如汉语普通话）中，能够区分语义的最小语音单位除了元音（拼音中称为韵母）和辅音（拼音中称为声母）之外，还有声调。声调感知的最主要线索是声调音高的基频轮廓（fundamentalfrequency contour）。汉语普通话中有4种具有不同音高轮廓的声调，即一声、二声、三声和四声（Chao,1948）。例如，/mal/、/ma2/、/ma3/和/ma4/四个音节具有相同的声母-韵母构成，唯一的区别在于声调，然而它们却对应四个完全不同的词意一一“妈”、“麻”、“马”和“骂”。简而言之，组成声调语言的音位有三种：元音（或韵母）、辅音（或声母）和声调。不同语言体系中的人们按照一定的语音和语法规则，将音位组成语素，再由语素构成词。词是语言中可以独立运用的最小单位。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "词是语音和语义的结合体，同时，它还传递着语法和句法信息。词在听觉言语理解中具有重要作用，听懂每个词是深入理解的前提。比如，为了听懂“我爱我的祖国”这句话首先需要识别其中所包含的每个词。个体的词汇知识以表征的形式有组织地存储在心理词典（mentallexicon）之中。心理词典中的每个词有一个词条，每个词条包含词的字形、语音和语义等各种信息。在听觉词汇加工过程中，个体将听觉系统输入的声音信号与心理词典中已有的词汇表征（音-形-义）进行匹配，直至识别并理解词汇，研究者将这个过程称为听觉词汇识别（word recognition）或词汇通达（lexical access）（本文中统一使用“听觉词汇识别”）。听觉词汇识别包含复杂而精细的认知加工过程，在大量实证研究基础之上心理语言学家提出了很多不同的理论模型来揭示听觉词汇识别的加工过程，其中最具代表性的有Cohort模型和TRACE模型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cohort模型（Marslen-Wilson& Tyler,1980;Marslen-Wilson&Welsh,1978）是心理语言学研究领域中第一个针对听觉词汇识别的理论模型。在Cohort模型中，听觉词汇识别包括三个阶段：存取（access）、选择（selection）和整合（integration）。首先，在存取阶段，听觉输入的语音信息会同时激活心理词典中的一系列候选词群（cohort），这些词的词首信息与输入的语音信息一致。第二个阶段是词汇选择，随着输入的语音信息的增加，与新输入的语音信息特征不符合的候选词将会被移除，该过程一直重复，直至只剩下唯一一个与所输入的语音信息完全匹配的候选词，至此则达到对目标词的识别。前两个阶段属于前词汇水平的加工，而整合阶段发生在词汇水平。在整合阶段，个体提取目标词的语义和语法特征，并将其整合到语境之中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TRACE 模型（McClelland& Elman,1986;McClelland& Rumelhart,1981）是一个联结主义交互作用模型。该模型将听觉词汇识别系统分为由低到高三个层次，即特征层（feature layer）、音位层（phoneme layer）和词汇层（word layer）。每个层次内部都包含有多个识别单元，同一层的不同识别单元之间是相互抑制的，不同层之间的关系则是促进的、双向的。当有听觉语音信号输入时，特征层的语音表征单元首先被激活，这些单元进一步激活音位层和词汇层中相关的音位表征和词汇表征。随着输入刺激的不断增多，各层次中识别单元的激活水平发生着动态变化，符合所有输入特征的词的激活程度也最高，从而被识别。听觉词汇识别从最底层的特征层开始，自下而上地传递语音信息；同时，上层信息也会影响下层信息的加工，即词汇信息对前词汇阶段的加工也有影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cohort模型和TRACE模型都承认听觉词汇识别是语音输入与心理词典的表征进行匹配的过程，并认为听觉词汇识别过程包含前词汇水平的语音加工和词汇水平的语义加工。不同的是，Cohort模型认为听觉词汇识别是一种单向的自下而上的加工过程，并强调词首信息的重要性；而TRACE模型承认上层信息对下层加工的影响，认为词汇识别中自下而上的加工和自上而下的加工同时存在。目前，TRACE模型对听觉词汇加工过程的假设获得了更广泛的研究支持。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 明眼人听觉词汇加工",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以往对明眼人听觉词汇加工的很多研究都发现，语音变量和语义变量均对听觉词汇加工具有调节作用。采用启动实验范式的研究发现，当启动词与目标词的语义无关但首音节的语音相似时（比如/早退-早饭/），被试对目标词进行判断（判断目标词是否是真词）的表现比对与启动词语义无关且语音不同（比如/手段-早饭/）的目标词的判断表现更差（正确率更低、反应时更长）（Huang et al.,2016;Huang etal.,2014），该结果说明听觉词汇识别过程中有语音信息的激活。听觉词汇识别中也有语义信息的激活。比如研究发现，低频具体词比低频抽象词更容易识别（James,1975），含有意义较多的词比含有意义较少的词更容易识别（Hino&Lupker,1996），被试对与启动词语义相关的目标词的识别表现好于对与启动词语义无关的目标词的识别（正确率更高、反应时更短）（Huang etal.,2016;Huang etal.,2014）。并且，低水平的语音特征对高水平的语义提取和整合过程也有一定影响。使用事件相关电位技术的研究发现，与启动词首音节相似的目标词（比如/早退-早饭/）所诱发的N400效应大于与启动词首音节不同的目标词（比如/手段-早饭/）所诱发的N400 效应（Huang etal.,2016）。N400 表征语义提取或/和语义整合过程（Kutas&Hillyard,1980;Kutas&Hillyard,1984; Kutas&Federmeier,2011），因此，该结果说明低水平的语音特征对高水平的语义加工具有自下而上的影响作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，个体的阅读经验（Frith,1998；Seidenberg& Tanenhaus,1979;Qu& Damian,2017）、任务类型（Huang etal.,2016）等对听觉词汇加工具有自上而下的调节作用。个体的口语习得需要掌握语音和语义之间的联结，而在学习阅读时还需要将视觉符号（字形）与语音和语义表证进行匹配（Chen etal.,2016）。Frith（1998）指出，个体学习阅读与书写的经历可能会影响其口语加工。口语词汇加工受字形变量影响的证据支持该假设，比如字形一致性（即字形与语音匹配的一致性程度）、临近字形密度（即与目标词仅有一个字母不同的词的个数）等均对个体的听觉词汇加工具有影响作用。字形因素影响听觉词汇识别的最突出的证据可能是字形一致性效应，该效应是指相似的字形能够促进个体对听觉词汇的判断。具体来说，被试对字形不一致词对（比如/tie-rye/）的判断反应时比对字形一致词对（比如/tie-pie/）的判断反应时更短（Seidenberg&Tanenhaus,1979）。使用事件相关电位技术，研究者观察到当启动词-目标词词对具有相似的字形时（比如/beef-reef/）所诱发的 N400反应的波幅小于字形不匹配词对（比如/sick-reef/）所诱发的N400 反应的波幅（Perre,Midgley,& Ziegler,2009）。字形一致性现象在语音和字形具有高度匹配性的字母语言体系中已得到普遍验证（Chéreau,Gaskell,& Dumay,2007;Miller& Swick,2003;Pattamadilok et al.,2007; Pattamadilok et al.,2009; Taft et al.,2008; Ventura et al.,2004; Venturaet al.,2008;Ziegler,Petrova,&Ferrand,2008）。最近一些研究显示，在语音和字形匹配度相对较低的象形文字体系（比如汉语）中也有发现字形一致性效应（Chen etal.,2016;Qu&Damian,2017; Zouetal.,2012）。听觉词汇识别中的字形一致性效应体现了阅读和书写经验对听觉词汇识别自上而下的影响作用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "虽然口语主要被认为是一种听觉体验，但视觉通道输入的信息对口语感知也具有非常重要的作用。说话人嘴部的运动能够为听者提供有关声学信号的时间特征和语音特征信息这些视觉信息可被用来解码口语信号（Yehia et al.,1998;Grant&Greenberg,2001;Chandrasekaran etal.,2009）。个体可以利用说话人的口唇发音动作、面部肌肉活动和表情等“视觉信息”形成连续的视知觉，并与心理词典中储存的词汇表征进行比较和联系，进而理解说话者所讲的内容，该过程也称为“唇读”（lipreading）（Summerfield,1992；朴永馨,2006;徐诚,2013）。视觉信息对口语感知的影响已被广泛证实，比如研究者发现当视觉呈现的口部发音动作（即视觉信息）与听觉口语信息一致时，能够增强听力正常的成年被试和儿童被试的口语感知能力（Knowland et al.,2016;Lusk& Mitchel,2016; Sumby&Pollack,1954）；而不一致的视觉信息对个体的口语感知会产生干扰作用，比如麦格克效应（McGurkeffect），具体而言，给被试视觉呈现/ga/的嘴部发音动作，同时听觉呈现/ba/的声音刺激，而最终被试报告听到的是/da/（McGurk&MacDonald,1976）；对听觉通道受损的听障人群的研究发现，他们主要依赖视觉信息进行言语感知（雷江华&方俊明,2005），并且唇读有助于听觉障碍人群形成语音表征，与词汇知识也存在相互影响（赵英等,2020）。与唇读相关的视觉信息对口语感知的影响体现了视觉感知经验对听觉言语加工",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自上而下的影响作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以往关于明眼人听觉词汇加工的研究结果支持TRACE模型的理论建构，即听觉词汇识别包含前词汇水平的语音加工和词汇水平的语义加工；并且，在此过程中自下而上的加工和自上而下的加工同时存在。个体的词汇知识以形-音-义表征的形式存储于心理词典之中，词汇的语音特征、语义特征以及所对应的字形特征均对听觉词汇加工过程具有调节作用。听觉词汇识别是个体将语音信号与心理词典中已有的音-形-义表征进行匹配的过程，视觉经验的缺失可能会使盲人心理词典中的语音、字形和语义表征有所变化，盲人听觉词汇识别的加工机制可能与明眼人有所不同。那么，盲人与明眼人在听觉词汇识别中的差异究竟有什么样的具体表现呢，这些差异是程度的不同还是质的区别呢？下面，本研究将对以往与盲人听觉词汇识别相关的研究进行论述。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 盲人听觉词汇识别 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1盲人语音感知的补偿效应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "感觉补偿理论认为一种感觉通道的缺损可能会使个体更加依赖其他完整的感觉通道，从而使这些完整感觉通道的功能更加优化，产生一种优势补偿性变化（Kupers et al.,2011;Hotting＆Roder,2009）。视觉、听觉、触觉、嗅觉等是人类的重要感觉通道。盲人的视觉通道受阻，他们不能使用视觉通道来感知世界，因而更加依赖听觉、触觉等非视觉感觉通道来获取关于周围世界的信息，盲人在社会生活中也会更加主动地利用这些完整的感觉通道来获取信息（比如听电子书、听新闻等）。所谓“用进废退”，盲人对环境的适应性变化使他们形成了更强的对听觉信息的感知和加工能力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以往研究者在先天盲和早盲被试群体中观察到了很多听觉优势补偿现象。比如，研究者发现，盲人具有比明眼人更好的纯音音高区分能力(Armaud,Gracco,&Menard,2018;Gougoux et al.,2004;Wan et al.,2010)、音高节奏分类能力(Rammsayer,1992)、听觉时间间隔区分能力(Rammsayer,1992)、噪音间隔识别能力(Muchnik et al.,1991)、听觉切分能力(Boroujeni et al.,2017)以及声音空间定位能力（Gougoux et al.,2005;Lessard et al.,1998）等非言语信息的感知和加工优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "盲人的听觉补偿优势在语音感知方面也有一定体现。其中最突出的是成年先天盲个体能够加工和理解以超快速度所呈现的语音信息（16-22个音节/秒），这个速度远远超过明眼被试一般所能接受的语音呈现速度（6-8个音节/秒）（Dietrich,Hertrich,&Ackermann,2013a,2013b;Moos& Trouvain,2007）。并且，Gordon-Salant 和Friedman（2011）发现不管是在安静条件下还是在噪音条件下，老年盲人被试对快速语音的感知能力也好于老年明眼被试的感知能力，老年盲人被试对快速语音的感知能力与年轻明眼被试的表现无显著差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在音节（syllable）和音位（phoneme）水平，盲人也表现出一定听觉补偿优势（Hugdahl及其同事（2004）使用双耳分听测试程序对盲人和明眼人对辅音-元音（consonant-vowel，CV）音节的加工能力进行了直接的测量和比较。参加该实验的有14名以芬兰语为母语的先天盲或早盲被试，以及129名芬兰语明眼被试。实验包含三种条件，即让被试只注意右耳刺激、只注意左耳刺激或无特殊要求。结果发现，总体上盲人被试比明眼被试正确报告出的音节更多，说明盲人被试表现出更好的语音感知能力。并且，当被要求注意左耳刺激并且只报告左耳听到（右脑加工）的刺激时，盲人组的表现也显著好于明眼组，说明盲人大脑右半球对语音信息的加工能力比明眼人更好。Menard及其同事（2009）在研究盲人和明眼人对法语元音的感知与产生之间的关系时观察到，盲人被试对母语元音的感知能力好于明眼被试。最近一项研究也发现，成年盲人被试对母语元音的区分阈限小于明眼被试，即盲人对母语元音更加敏感（Arnaud,Gracco,&Menard,2018）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "与西方字母文字不同，声调语言（比如汉语）中所包含的音位除了元音和辅音外，还有声调。我国研究者曹婕琼（2004）对汉语盲生的音节感知能力进行了测量。研究者招募了上海盲校三年级（10人）、五年级（10人）、初一（10人）、初二（5人）和高一（9人）共84名盲生（分为全盲和低视力两组），以及正常学校相应年级每个年级各十名同学参加测试；被试需要判断其所听到的两个或三个音节是否一样。结果发现，低年龄段（9岁、11岁）盲童语音辨别的正确率低于同年龄段的明眼儿童，而高年龄段（13岁）盲童的正确率高于同龄明眼几童。该结果说明，盲童语音感知能力随年龄增长而有所提高，揭示了视觉经验缺失对盲童语音感知随年龄变化而产生的不同影响。同时，研究者报告，到16岁时三组儿童的正确率差不多。这可能是由于行为测试工具的局限性，该年龄段三组儿童的表现接近天花板效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "语音感知是言语加工的基础。西方字母文字的研究发现，盲人具有更好的元音-辅音音节区分能力和更加敏感的元音感知能力，并且盲人语音感知的偏侧化优势与明眼人也有所不同。声调语言中（比如汉语）的音位包括声母、韵母和声调，目前对声调语言环境中盲人语音感知能力的研究还相对匮乏，我们也并不清楚声调语言文化中盲人音位感知的脑神经可塑性变化机制，对声调语言文化环境中盲人的语音感知研究有待进一步深入。同时，音位是能够区分意义的最小语音构成单元，在听觉词汇识别中，盲人更加优化的音位加工能力可能会自下而上地对词层面的加工产生一定影响作用，后续研究可对该问题进行探究此外，视觉经验缺失对盲人语音感知和加工的影响可能会随着时间的发展而产生变化，有必要使用行为和认知神经科学等多层面的研究方法开展发展性研究，揭示视觉经验的缺失随年龄增长对个体语音感知和加工的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2盲人听觉词汇加工的补偿效应",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "盲人的听觉补偿现象在其他言语能力方面也有体现。在很多口语记忆任务中，先天盲被试的表现均优于明眼被试，比如短时记忆和长时回忆（Amedi etal.,2003;Pasqualotto,Lam,& Proulx,2013）、词汇再认（Amedi et al.,2003;Roder,Rosler,& Neville,2001）、连续词汇顺序（Raz et al.,2007）以及数字广度所表征的工作记忆（Tillman&Bashaw,1968;Smits & Mommers，1976;Hull & Mason，1995；Withagen et al.，2013）等。Roder 和Rosler（2003）发现，先天盲被试对周围环境声音（包括动物的声音、人声、交通的声音等）的记忆能力好于明眼被试，研究者认为这可能是因为先天盲个体对声音具有更好的物理编码能力。Occelli及其同事（2017）对比了先天盲被试与年龄和受教育年限匹配的明眼被试在口语任务（包括口语词汇记忆、口语语音流畅性、口语语义流畅性以及口语工作记忆）和空间任务（空间记忆和空间想象）中的表现，结果发现，在所有的口语任务上，盲人组的表现均好于明眼被试组；而在空间任务上，两组的表现无显著差异。由此说明，盲人具有的是更加优化的口语记忆能力而不是普遍的记忆优势。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在词汇加工方面，研究者发现，盲人被试对听觉词汇的判断速度快于明眼被试（Roder,Demuth, Streb,&Rosler,2003; Schild &Friedrich,2018）。Roder及其同事（2003）使用语义启动和语法启动实验范式，让以德语为母语的成年先天盲被试和明眼被试听启动词-目标词词对，其中启动词为形容词，目标词中一部分为名词真词，另一部分为假词。此外，研究者还操纵了真词词对中形容词和名词之间的语义相关性（语义相关或无关）和语法匹配性（词性匹配或不匹配）。被试需要判断所听到的目标词是否是一个符合规则的德语词。研究结果显示，两组被试判断的错误率无显著差异；但是，在所有实验条件下，盲人被试对目标词的判断速度均比明眼被试快。并且，所有被试在语义相关且语法匹配条件下的反应时小于在只有语义相关或只有语法匹配条件下的反应时，表现出语法启动和语义启动效应，但这种语义启动和语法启动效应在两组被试间没有显著差异。该结果说明，盲人和明眼人似乎可以相同程度地使用启动词-目标词之间的语义关系和语法关系来促进其行为判断。因此，研究者认为盲人的快速言语加工能力似乎与更精细的语义或语法分析无太大关联，可能主要是来自于其更加优化的语音感知分析能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在另一项研究中，Schild 和Friedrich（2018）使用词首启动（word onset priming）范式比较了成年盲人被试和明眼被试听觉词汇识别中的行为反应和电生理信号变化。实验中研究者向被试先后呈现启动刺激（词首语音）和目标刺激（整词语音），启动刺激和目标刺激存在语音相同和语音不同两种情况。该研究结果显示，盲人被试听觉词汇判断的反应速度比明眼被试快，盲人比明眼人的更快反应速度在两种实验条件下都有体现；但是，该研究未发现两组被试在脑电反应上的显著差异。研究者认为，这些结果说明在听觉词汇识别过程中，盲人和明眼人的语音编码和语义匹配的加工速度接近，盲人之所以具有更快的行为判断可能是因为他们不需要整合视觉线索，而明眼人听觉词汇识别过程中需要对记忆中所存储的视-听信息进行整合，因而其听觉词汇判断的反应时更长。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以上关于盲人言语加工方面的研究结果显示，与明眼人相比，盲人具有更好的口语记忆能力，他们在听觉词汇加工方面也表现出一定优势。其中，在听觉词汇加工方面，研究者一致发现盲人被试对听觉词汇的判断速度快于明眼被试，但对该现象的解释却存在争议Roder等（2003）认为盲人的快速言语判断能力可能来自其更加优化的语音感知和分析能力，而Schild和Friedrich（2018）则指出，可能是因为盲人在言语加工中不需要整合视觉线索，因而比明眼人的判断速度更快。听觉词汇识别包含前词汇水平的语音加工和词汇水平的语义加工。盲人在日常生活中更加依赖也更多使用言语信息，这种更多的使用和练习可能使他们能够更好地利用言语的内部信息。言语信息中既包含从基础到复杂的语音信息比如音长、波幅、音高、音素、音位、音节、语调等；也包含各种语义语法信息，比如词义、词频、词形、句法、词汇出现的语言背景等。换而言之，盲人更加快速的词汇识别能力可能与其对口语词汇中的语音信息和相关语义语法信息的加工和利用有一定关系；并且这些信息对听觉词汇识别的重要性可能也有所不同。这些都是在盲人听觉词汇加工方面有待进一步解决的疑问。同时，由于声调语言和非声调语言音位构成的不同，对于以上问题有必要在多种语言文化中进行跨文化研究和比较，以探讨其普遍性与特殊性。此外，视觉经验对盲人听觉词汇加工的影响及其相关影响因素也可能会随着时间的发展而有所变化，因此，为了全面揭示盲人听觉词汇识别优势的复杂加工机制，开展发展性研究也十分必要。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3盲人词汇语义理解",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "扎根认知理论（theGrounded Cognition Theory）认为，感觉与认知不是孤立的，个体的认知与感觉经验密切相关。模态模拟（modal simulation; Barsalou,1999;Decety& Grezes,2006;Goldman,2006）、躯体状态（bodily states; Barsalou,2003; Lakoff & Johnson,1980;Smith,20o5）以及情境活动（situated action;Barsalou,2003;Barsalou,Breazeal,& Smith,2007；Glenberg，1997； Prinz，1997；Rizzolatti & Craighero，2004；Robbins & Aydede,2008;Smith& Semin,2004;Yeh&Barsalou,2006）等是认知的基础。个体的知识表征以其感觉体验为基础，储存于感觉连接皮层（Barsalou etal.,2003;Martin,2016;Simmons et al,2007）。人类所使用的词语中有些具有一定的“视觉”特征（本研究中称之为视觉相关词），比如空间方位词、表示形状的词、视觉动词（观察、注视、啤睨、眺望等）、颜色词（红色、绿色、黑色、奶白、西瓜红、咖啡色等）等，这些视觉相关词蕴含着明眼人对世界的理解和定义。盲人（特别是先天盲和早盲个体）对世界缺乏直接的视觉感知体验，他们对这些视觉相关词的理解和表征可能与明眼人存在一定差异。根据扎根认知理论进行推测—一视觉经验的缺失可能会对盲人视觉相关词的语义表征和理解产生一些不利影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在该研究领域，早期教育心理学家Cutsforth（1932,1951）最先提出“verbalism\"这个概念。他指出，盲人所使用的一些词中，有一些对他们来说是没有意义的，比如颜色词、光亮词等（关于verbalism的相关研究详见综述Roseletal.,2005）。但是，更多的研究发现视觉相关词对盲人来说并不是毫无意义的，盲人对这些词有一定的理解，并能在语境中正确使用这些词（Landau&Gleitman,1985;Piskorska,2008）。比如，Piskorska（2008）报告三名11-12 岁的盲童能够对表示“美”（pretty、beautiful、handsome 和cute）的一系列词进行有效区分和使用，他们都认为“Eggs arebeautiful”的描述是错误的，“big”、“fast”、“small\"和“cute\"四个词中与其他三个词最不一样的是“cute”。这些结果说明，盲童在很早期时就能有意义地理解和使用一些视觉相关词。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然盲人对视觉相关词有一定理解，但他们对这类词的理解程度和表征特点却与明眼人有所不同。以往研究者采用词汇联想任务或词汇定义任务对盲人的词汇理解和语义表征进行了探究。McGinnis（1981）将具有视觉特征的词汇分成三类：（1）颜色词；（2）具有视觉参考的动词（看、盯着等）；（3）俚语中所用到的一些具有视觉参考特征的动词（理解、想象等）。研究者对比了盲人被试和明眼被试在词汇联想任务中对视觉相关词的使用情况，结果发现盲人被试对视觉相关词的使用少于明眼被试。研究者认为，出现这种现象可能是因为盲人视觉相关词的词汇量比明眼被试小，或者盲人视觉相关词的语义表征不如明眼人精细。在另一项研究中，Vinter及其同事（2013）让先天盲、后天盲和明眼儿童对包含有人、动物、可触摸但不可操作的物体（比如树和房子）、可触摸同时可用手操作的物体（比如牙刷和眼镜）以及不是固体但是可接触感受到的事物（比如雨和太阳）这五类常见词语进行定义和解释。通过对被试所产生的口语材料进行编码和分析，研究者发现明眼儿童比其他两组儿童有更多的关于感觉特征的描述，先天盲儿童的描述中所使用的听觉特征和触觉特征多于明眼儿童和后天盲儿童，而明眼儿童关于视觉特征的描述多于先天盲儿童。该结果说明，盲童的词汇表征具有较多的触觉和听觉表征，较少使用视觉表征此外，研究者还发现，成年明眼被试主要根据颜色特征对“水果和蔬菜”类词汇进行分类而盲人被试对这类词汇进行分类时并没有主动使用颜色策略（Connolly,Gleitman,&Thompson-Schill,2007）。Landau 和Gleitman（1985）对一名4岁的先天盲儿童进行追踪研究发现，该盲童可以将“look\"解释为“用手触摸”，将“seeing\"理解为“感知离说话者有一定距离的某个物体”。当盲童被问到“为什么觉得春天美”时，他们回答“有鸟儿唱歌”、“天气暖和”还有“喜欢春天的味道”，但没有像明眼儿童一样提到五颜六色的花和新长出的树叶，盲童使用听觉、触觉和嗅觉来感受和理解“美”（Piskorska,2008）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据上述论述可以看到，盲人使用听觉、触觉和嗅觉等非视觉感知途径来理解和表征一些视觉相关词，比如表示“美”的词（Piskorska,2008）、表示具体事物的词（Vinter etal.,2013））等，本研究将这些可通过其他感觉通道进行感知的词语称为“弱视觉相关词”（对于弱视觉相关词，盲人与明眼人的差异可能主要体现为表征维度的不同，他们对这些视觉相关词的理解程度可能相似。换而言之，视觉经验的缺失可能并不影响盲人对这些可用其他感知途径进行理解的词语的理解程度。然而，在视觉相关词中有一些更加特殊的、只能通过视觉进行直接感知和体验的词语，比如颜色相关词、表示光亮的词等，本研究称其为“强视觉相关词”。视觉经验的缺失可能会使盲人对强视觉相关词的理解和加工产生较大困难。以颜色词为例：颜色是光波作用于人眼所产生的感觉体验，它无声、无味也不可触摸，个体只能经由视觉通道对颜色进行直接感知。视觉通道受阻的盲人不能直接感知颜色，他们只能通过非视觉途径（比如听别人的描述）来学习颜色知识。在最近的一项研究中，Kim及其同事（2019）对比了先天盲被试和明眼被试的动物外形知识。研究中使用了一系列测验，包括排序（体积和高度）、分类（形状、皮肤纹理和颜色）、找不同（形状）和特征选择。结果显示，两组被试在大部分任务中的表现虽然有些微差异但具有高度相似性；两组被试的最大差异来自于明眼人最容易感知的维度，即颜色。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以往研究者围绕盲人的颜色概念进行了很多探索。在早期的一项个案报告中，Landau和 Gleitman（1985）指出，一名盲童在四岁时能够正确说出一些物体的颜色；Connolly及其同事（2007）报告8-13岁的盲童能够说出大部分常见物体的颜色。我国研究者对盲童颜色词获得的时间进行了更加细致的研究（张积家etal.,2008;时琴琴，2011）。张积家及其同事（2008）以11种基本颜色词（包括黑、白、红、橙、黄、绿、蓝、紫、棕、灰和粉红）为实验材料，测量了85名小学盲生和中学盲生（其中先天盲生有58人，后天盲生有27人）基本颜色词的获得顺序（即能够说出具有某种颜色的物体即为获得该颜色概念）。研究结果显示，盲童颜色概念的通过顺序与明眼儿童有所不同。后天盲儿童对“白”和“紫”的通过率高于先天盲儿童，中学盲童对“棕”的通过率高于小学盲童。时琴琴（2011）也对盲童11种基本颜色词的通过率进行研究。结果发现盲童颜色词的通过顺序与明眼儿童大致相同，其中黑、白、红、绿的通过率较高；但是，小学盲童对“棕”的通过率低于明眼儿童，中学盲童对不包括红、蓝、绿的其他8种基本颜色的通过率均低于明眼被试。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "对盲人颜色概念心理表征的研究发现，盲人颜色概念的心理表征与明眼人具有高度的相似性—一均符合牛顿色环规律，即红色邻近橙色，黄色介于橙色和绿色之间，之后是青色和蓝色，紫色处于蓝色和红色之间（Marmor,1978;Shepard& Cooper,1992;Saysani,Corballis,&Corballis,2018）。但是，盲人被试和明眼被试颜色认知空间的大小和分布存在一定差异；同时，盲人群体的个体差异也较大（Shepard& Cooper,1992; Saysani,Corballis,&Corballis,2018）。此外，我国研究者发现，明眼儿童的颜色分类维度中存在冷色/暖色分类维度，而盲童没有形成这种分类维度（张积家etal.,2008;时琴琴,2011）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除了基本的颜色概念和物体颜色知识外，研究者围绕盲人对颜色词隐喻意义的理解也进行了一些探索。有研究报告指出，一位先天盲童知道颜色词只能用来描述具体事物（比如猫和狗）而不能用来描述想法或故事等抽象概念（Landau&Gleitman,1985）；另有一位盲童认为“蓝色”是男孩的颜色，而“红色或粉色”是女孩的颜色（Bedny& Saxe,2012）。Barilari及其同事（2018）对来自两个国家的早盲被试和明眼被试的跨通道联想能力进行了比较。实验中被试需要回答三个问题：（1）“柠檬是快的还是慢的？”，（2）“岩石是酸的还是甜的？”，（3）“黄色和红色哪个更重？”；研究者使用卡方检验对被试的回答进行分析。结果发现，盲人被试和明眼被试都更倾向于认为“岩石是酸的”和“红色比黄色更重”，但两组被试在颜色-重量联想上有显著组间差异。该研究结果说明，早盲群体也具有一定的颜色联想知识，但是其程度比明眼人弱。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "我国研究者时琴琴（2011）也对盲人的颜色联想知识进行了一系列探究。在其中的一个实验中，研究者让小学盲童、中学盲童和明眼儿童（戴着眼罩）比较同时放在两个手上的白色物体和黑色物体哪个更重。选择黑色计1分，选择白色计0分，认为相同计0.5分。结果只发现中学被试的评分高于小学被试，并未发现明眼儿童和盲童之间的差异（时琴琴2011）。在另一个实验中（时琴琴，2011），研究者使用启动范式，向明眼儿童和盲童听觉呈现相关颜色联想词对（比如红色-喜庆）和无关颜色联想词对（比如红色-宁静），并让被试判断是否认识一对词语中的第二个词，研究者对被试的反应时进行了记录和分析。结果发现所有被试对相关词对判断的反应时均显著小于对无关词对判断的反应时，表现出颜色联想关系的启动效应；并且，初中生的反应时小于小学生的反应时，可能是随着年龄增长，个体的颜色联想知识更多、表征更强，在颜色联想判断中对联想关系的利用也更加有效。但是，在该研究中并未发现盲童和明眼儿童的显著组间差异，这可能是因为研究者只分析了反应时这一个指标，而该行为指标的敏感性具有一定局限性所致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "以上关于盲人对视觉相关词理解方面的研究显示，视觉经验缺失的盲人也能习得并理解一些视觉相关词；但与明眼人不同的是，盲人倾向于使用非视觉特征（比如，触觉、听觉和嗅觉）来表征和理解视觉相关词（比如，表示具体物体的词、表示“美”的词等）。以往研究多使用质性分析或行为研究范式对盲人和明眼人视觉相关词的语义表征维度差异进行探索，较少探讨两个群体在语义加工和理解程度方面的差异。本研究推测，对于一些只能通过视觉进行直接感知的词（比如，颜色相关词、与光亮相关的词等），视觉经验缺失的盲人与明眼人在理解和加工方面可能会表现出更大差异。因此，对盲人听觉词汇识别的加工机制及其脑神经生理基础进行研究时，有必要依据所使用的词汇的视觉相关性进行分类讨论，比如可将词分为非视觉相关词（比如善良、智慧等）、弱视觉相关词（比如水杯、电脑等）和强视觉相关词（比如颜色词、光亮词等）等。视觉经验缺失对盲人听觉词汇语义加工和理解的影响可能因所使用的词的不同而有所区别，对于该问题的讨论可以使我们深入理解感觉与认知之间的关系，以及物质与意识之间的关系。目前对于盲人视觉相关词理解程度方面的研究相对还较少，并且已有研究多处于行为层面，我们尚不清楚其神经生理机制，对该领域探究有待进一步深入。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3盲人大脑词汇加工的可塑性变化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大脑是人类各种心理现象和行为的生理基础，盲人由于视觉经验缺失所产生的在语音感知和言语加工方面的变化也有一定的脑神经生理基础。研究者使用认知神经科学研究技术，比如事件相关电位技术（Event-related Potential，ERP）、功能性核磁共振成像技术（Functional Magnetic Resonance Imaging，fMRI）以及经颅磁刺激技术（TranscranialMagnetic Stimulation，TMS）等，对盲人大脑的适应性变化进行了探究，他们发现在盲人群体中存在一些与语言加工相关的大脑结构和功能的可塑性变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "语音加工层面，Jafari和Malayeri（2014）对比了成年先天盲被试和明眼被试在听纯音刺激和语音刺激（音长为 $4 0 \\mathrm { m s }$ 的/da/）时脑干诱发电位的差异。研究结果显示，与明眼被试相比，盲人被试中语音刺激所诱发的脑干诱发电位的波幅更大且潜伏期更短，而纯音刺激所诱发的脑干诱发电位各成分上两组被试无显著差异。研究者认为，这些结果说明先天盲被试脑干层面对语音刺激的神经表征优于明眼被试。先天盲群体脑干层面的语音表征优势在盲童（8-12岁）中也有观察到（Jafari&Malayeri,2016）。此外，研究者还发现，在进行超快速（16音节/秒）语音加工时，盲人被试左侧前额叶和颞-顶皮层比明眼被试激活更强，盲人被试右侧初级视觉皮层和左侧梭状回也参与超快速语音感知(Dietrich,Hertrich,&Ackermann,2013a,2013b;Hertrich etal.,2009)；在进行超快速（16音节/秒）语音感知时盲人被试比明眼被试表现出更强的听觉皮层的相位同步，并且盲人组右半球视觉皮层的活动与超快速语音中的起始音节（syllable onsets）相关(Hertrich,Dietrich,&Ackermann,2013)。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "词汇加工层面，研究者发现，在对盲文呈现和听觉呈现的名词进行动词产生时，先天盲被试除了与明眼被试一样有前额叶语言区的激活外，他们的早期视觉皮层也有激活",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（Burton etal.,2002a;Burton etal.,2002b）。盲人被试在完成动词产生任务时视觉皮层激活的现象在第二语言学习中也有体现（Ofan＆ Zohary,2007）。听觉词汇加工既包含低层面的语音加工，也包含高层面的语义加工，Burton及其同事（2003）进一步区分了盲人在听觉词汇产生中表现出的视觉皮层的适应性变化究竟反应的是语义加工还是语音加工。研究者招募了明眼组、早期盲和后期盲共三组被试，让被试听一系列相关词并根据要求去注意具有相同语义的词（语义任务）或具有相同韵脚的词（语音任务）。结果发现三组被试中语义任务使其左侧前额下回产生更强的激活，语音任务使其双侧顶叶下部和左侧额下回后部产生更强的激活。但是，只有盲人被试表现出枕叶、颞叶以及顶叶部分视觉皮层区域的激活；并且，盲人被试的这种激活更倾向于语义任务。研究者认为，盲人的视觉皮层参与听觉言语加工，并且这种视觉皮层的激活主要与语义加工相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "在另一项研究中，Noppeney等（2003）发现早盲被试和明眼被试在进行听觉词汇加工时都有左侧前额叶-颞叶核心语义提取系统的激活；同时，早期盲被试中还有额外的纹状区皮层的激活，体现出由于视觉经验剥夺所产生的语义提取反应的适应性变化。另外一些研究者使用经颅磁刺激技术（TMS）对盲人被试的视觉皮层造成暂时性的虚拟损伤，结果发现盲人被试在动词产生任务中出现更多的语义错误而非语音错误（Amedietal.,2004），重复刺激盲人被试的枕叶皮层会干扰其盲文阅读（Cohen etal.,1997）。此外，研究者还发现：盲人被试枕叶皮层的激活程度与其口语记忆表现存在一定相关（Amedi etal.,2003）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "认知神经科学领域的研究者们对盲人大脑对不同类型词汇语义表征的神经基础也进行了一些探索（Botini et al.,2020; Striem-Amit et al.,2018;Wang et al.,2020）。 Striem-Amit 等（2018）使用fMRI技术研究了先天盲人如何加工那些对他们来说不可直接感知的词汇（比如“彩虹”、“红色”）。研究者根据盲人的感知特点将实验中所用的词汇按照从抽象到具体的梯度划分为四类：（1）盲人不可直接感知的词汇（比如“彩虹”、“红色”），（2）经典的抽象词汇（比如“公平”），（3）盲人可感知的词汇（比如“雨”），（4）指代具体物体的词汇（比如“杯子”）。通过对比盲人在加工这几类词时的大脑激活状态研究者结果发现，盲人大脑的前颞叶皮层背侧对不可感知的词汇概念更敏感，前颞叶皮层侧面对抽象词汇概念比较敏感，而前颞叶皮层中部则更倾向于可感知的词汇概念。Wang 等（2020）使用人群对比的实验设计比较了先天盲（或早盲）被试与明眼被试颜色知识脑神经表征的异同。他们发现，盲人组和明眼组都有左半球前颞叶皮层背侧区域的激活；而腹侧枕颞叶颜色感知区则只在明眼被试中有激活。其他研究者还发现，明眼被试中感知相似的颜色词或动作词在其枕叶皮层后部有引发适应现象，该脑区与那些已知用来表征感知领域低水平视觉特征的脑区重合；而早盲被试对感知相似的词汇则在颞叶皮层表现出更强的适应现象（Botini etal.,2020）。研究者认为盲人被试可能更加依赖词汇-语义编码来表征感知知识（Botini etal.,2020）。以上研究一致显示，盲人对其不能进行直接感知的词汇（比如颜色词）的加工和表征主要在颞叶皮层，明眼人的颞叶皮层属于语言加工网络的重要组成部分，由此推测盲人可能更加依赖语言信息编码来表征这类词汇知识。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "明眼人大脑的阅读网络中有一个重要的视觉字形加工区（visual word form area,VWFA），位于左侧大脑腹侧枕颞叶脑区（vOTC），明眼人中VWFA主要参与词汇和字母字形的识别（Cantlon et al.,2011; Cohen et al.,2000; Dehaene et al.,2010）。然而一些研究者发现，盲人被试在阅读盲文（一种触摸文字）时，其vOTC脑区也有激活（Buchelet al.,1998;Burton etal.,2002a;Reich et al.,201l; Sadato etal.,1996）。盲人被试阅读盲文时vOTC 脑区的激活比触摸无意义的图案时的激活更强；并且，在盲人大脑中与明眼人生理解剖结构中相对应的VWFA区域的反应最强（Reich etal.,2011）。那么，盲人的“VWFA区域”究竟是与明眼人的类似，只参与心理词典中的盲文字形识别，亦或是也参与高级复杂的语义语法加工呢？Kim及其同事（2017）使用fMRI技术，让先天盲被试和明眼被试完成两项实验任务：（1）词汇阅读（盲人使用盲文，明眼人使用印刷文字），（2）听具有不同语法复杂度的句子（两组被试一样）。结果显示，只有在盲人被试群体中发现生理解剖结构所对应的VWFA区域对书面呈现和词汇和语法复杂度不同的口语句子均产生反应说明盲人的VWFA脑区既参与盲文加工，也参与高级的语法加工；而明眼被试的VWFA区域对语法结构不敏感。但是，在加工听觉呈现的句子时并不能排除心理词典中所储存的字形的自动激活，因而Kim等（2017）根据盲人VWFA在句子加工中有激活的结果推论该脑区参与语法加工的结论并不够严谨。Sigalov及其同事（2016）使用一种视-听感觉代替技术对盲人VWFA区域的功能进行研究，这种技术能够传递字母的形貌特征，研究者比较了先天盲被试在阅读有语义和无意义词汇时大脑活动的变化。他们发现，在早期加工阶段（字母）有早期听觉皮层和视觉皮层的激活，在后期加工阶段（词汇），VWFA和两侧半球背侧内顶叶对词汇均有激活，并且，VWFA优先参与字母和词形加工，而并不参与之后的语义加工任务。该研究结果说明，即使只是短时的感觉代替体验，在盲人的VWFA区域字形加工也比语义加工更占主导地位。词汇以语音、语义和字形的形式存储在个体的心理词典之中，盲人使用以触摸觉为主导的盲文体系进行书面表达和阅读，盲文阅读经验可能使盲人在心理词典中形成盲文词汇字形表征，盲人在进行词汇加工时可能会有盲文字形的自动激活。后续研究有待进一步检验盲人VWFA脑区在听觉词汇加工中的作用和机制。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "明眼人群的左侧前额叶皮层和颞叶皮层主要负责语言加工，盲人的枕叶视觉皮层参与语言加工是扩大而不是替代了原有的左侧前额叶-颞叶经典语言区的功能。在语言加工中，盲人被试和明眼被试的经典语言区具有相似的功能表现，盲人群体中与语言加工相关的视觉皮层与前额叶语言功能区具有相同的偏侧化现象；并且与明眼被试相比，盲人枕叶视觉皮层与前额叶语言网络的活动有密切联结（Lane et al.,2015;Liu et al.,2007;Watkins et al.,2012），盲人被试左侧前额叶皮层语言区与丘脑的功能联结也更强（Bedny etal.,2011）。记忆和注意等认知能力在言语加工和理解中也具有重要作用。Burton等人（2014）发现，与明眼人相比，早盲被试枕叶视觉皮层和与记忆和注意的认知控制相关的脑区的功能联结更强，说明盲人的视觉皮层可能整合到情景提取和非视觉事件的注意相关功能系统；但盲人视觉皮层与非感觉剥夺皮层之间的关联则显著较低，这可能为了抑制内部感觉对大脑活动的干扰。Wang 等人（2014）比较了先天盲被试和明眼被试大脑网络内和网络间联结的差异。他们发现与明眼被试相比，先天盲被试的突显网络（salience network，SN网络，包括两半球前额叶腹外侧皮层、前脑岛和背侧扣带回皮层）和枕叶皮层的内部网络联结都更强并且，先天盲被试 SN网络与额顶网络之间、额顶网络与枕叶皮层之间的网络联结也更强(但是，盲人枕叶皮层与感觉运动网络之间的联结则较弱。研究者认为早期视觉经验的缺失使先天盲人大脑功能网络产生了大规模的重组，这些增强的大脑网络间和网络内的联结可能提高了他们识别刺激、启动执行功能以及自上而下的注意控制能力，这些能力对先天盲人适应环境具有重要作用。此外，Pelland等人（2017）发现盲人的认知状态对其功能联结的特点会产生一定影响，即早盲被试枕颞活动的相关在进行任务时比在休息时更高，而明眼被试则出现相反的模式。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "简而言之，上述研究说明，视觉经验的缺失使盲人的大脑结构和功能产生了一些可塑性变化，主要体现在：盲人在脑干层面具有比明眼人更好的语音表征，盲人的右侧枕叶皮层参与语音加工；盲人左侧枕叶皮层参与词语等多种言语加工任务，并且枕叶皮层的激活程度可能主要与语义加工相关，其VWAF脑区也参与多种言语加工；盲人的左侧叶皮层对其不能进行直接感知的词汇知识（比如颜色词）进行表征；此外，盲人视觉皮层与前额叶语言功能区的联结强度也比明眼人更强。以后的研究可拓展对不同语言文化背景、不同年龄段的盲人在不同类型的词汇识别中的认知加工机制及其神经生理基础的探讨，并深化对盲人听觉词汇不同层面（语音、语义、字形等）加工的认知神经机制的研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4研究展望",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "明眼人的语言习得和使用中充满了各种视觉线索，比如发音过程中嘴唇和下巴的活动、交谈中的面部表情和肢体动作等，这些视觉线索对个体的语言习得和发展具有重要作用。然而，盲人在语言获得过程中缺乏这些鲜明形象的视觉信息的输入，他们更加依赖也更加主动地利用听觉通道来获取关于周围世界的信息。视觉经验的缺失使盲人在适应环境的过程中产生了一系列可塑性变化。综述以往的研究，我们发现盲人在听觉词汇识别方面产生了一定的听觉补偿优势；但是，由于视觉形象和信息的缺失，盲人对一些视觉相关词的语义表征和加工比明眼人弱；此外，视觉经验的缺失使盲人听觉词汇加工的脑神经生理机制也产生了一些可塑性变化。听觉词汇识别能力对盲人的言语理解具有重要作用，目前对盲人听觉词汇识别的研究和探讨还不够系统，仍然存在很多困惑，有待更多研究者的关注和探讨。具体来说，本研究认为关于视觉经验缺失对盲人听觉词汇识别的影响的研究可以从下述几个方面继续深入。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "首先，对盲人听觉词汇识别的研究有必要依据词汇的视觉相关性进行分类讨论。比如，可将词分为非视觉相关词（比如善良、智慧等）、弱视觉相关词（比如水杯、电脑等）和强视觉相关词（比如颜色词、光亮词等）。个体的经验会自上而下地影响听觉词汇识别过程，盲人和明眼人拥有迥异的视觉经验，这种视觉经验的差异不仅会对视觉相关性程度不同的词的语义表征、理解和加工产生影响，同时也可能会对听觉词汇语音层面的加工产生自上而下的影响作用。依据视觉相关性对词进行分类研究和讨论可以让我们更清晰地探讨视觉经验缺失对盲人听觉词汇识别的复杂影响机制，更深入地理解感觉与认知之间的关系物质与意识之间的关联。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，在听觉词汇识别过程中，个体将听觉输入的信号与心理词典中的形-音-义表征进行匹配，进而识别并理解目标词。听觉词汇识别包含前词汇水平的语音加工和词汇水平的语义加工；并且在听觉词汇加工过程中，自下而上的加工和自上而下的加工同时存在。对盲人听觉词汇加工特点的研究可从音位、词、语义范畴等多层面，以及不同水平之间的相互作用机制等进行全面而系统的研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "具体而言，在音位层面，一方面，盲人更加优化的音位感知能力可能与更基础的语音感知能力有一定关系，比如语音范畴感知能力等，后续研究可进一步探讨盲人音位感知优势的更基础的加工机制；另一方面，盲人良好的音位感知能力也可能对其词层面的语音加工和语义提取等具有自下而上的影响作用，有待后续研究继续深入。在词汇层面，虽然研究者一致发现盲人被试对听觉词汇的判断速度快于明眼被试，但对该现象的解释却存在争议（Roder et al.,2003; Schild&Friedrich,2018）。言语信息中既包含从基础到复杂的语音信息，比如音长、波幅、音高、音素、音位、音节、语调等，也包含各种语义语法信息，比如词义、词频、词形、句法、词汇出现的语言背景等。言语中所包含的这些语音和语义线索对盲人听觉词汇识别可能都具有一定影响作用，并且，这些线索在听觉词汇识别中的重要性也可能会有所不同，这些疑问都有待进一步的研究来回答。在语义范畴层面，以往研究多使用质性分析或行为研究范式对盲人和明眼人视觉相关词的语义表征维度差异进行探索，较少探讨其对语义加工和理解程度的差异，后续研究可综合使用访谈、问卷、行为测试和认知神经科学技术等多种研究方法，探讨盲人对不同视觉相关性词汇的语义表征和语义加工特点。此外，Frith（1998）提出，个体学习阅读和书写的经验会影响其口语加工。已有研究也证实，个体的阅读经验对听觉词汇加工具有自上而下的调节作用（Chereau,Gaskell,& Dumay,2007; Miller & Swick,2003; Chen et al.,2016; Qu& Damian,2017; Zou etal.,2012）。明眼人使用由视觉主导的文字体系进行书面阅读，而盲人使用由触摸觉主导的盲文进行书面阅读。盲人与明眼人的不同阅读经验可能使他们在心理词典中形成不同的词汇字形表征，进而对其听觉词汇加工产生不同的影响作用。比如，盲人在听觉词汇识别过程中可能会有盲文字形信息的自动激活。希望通过对盲人听觉词汇识别的全面而深入的研究，进而提出能够体现盲人听觉词汇识别特点的加工模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "再次，对盲人听觉词汇识别的脑神经生理机制也有待进一步拓展。比如，盲人左侧额-颞叶语言功能区、枕叶视觉皮层以及VWFA脑区在听觉词汇加工中的功能和作用；声调语言背景下盲人音位加工的偏侧化优势与明眼人有何异同；盲人大脑对视觉相关性不同的词语的语义表征和加工与明眼人有何差异；盲人从语音输入到语义理解的词汇识别全过程的大脑加工通路和脑网络的特点等问题。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "最后，成年人的各种认知能力发展已相对稳定，儿童则处于快速成长和发展阶段，受环境的影响更大、可塑性更强。视觉经验缺失对盲人听觉词汇识别的影响在儿童群体中可能会表现出更大的变异性和更高的复杂性。比如，盲人的语音加工优势可能并不是一开始就有的，而是在儿童阶段经历了一个从劣势到补偿性优势的转变过程；缺乏视觉经验且认知能力还相对较弱的盲童在词语的理解和学习上可能会表现出更多困难。研究者可对盲童的语言习得和发展开展更加深入的研究，这一方面可以加深我们对不同发展阶段中感觉经验与语言认知之间的关系的认识，另一方面也可以为盲童的语言教学提供有力的理论支持。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "希望以后有更多的研究者对该领域进行探索，使人类更加深入地认识环境对个体的影响及其作用机制；同时，也使社会增加对特殊群体的了解，并为他们提供更加便利的学习工作和生活环境，为实现全社会、全人类的共同发展贡献一份科学的力量。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2]雷江华,方俊明.(2005).聋人唇读的大脑机制研究.心理科学,28(1),10-12.   \n[3]朴永馨.(2006).特殊教育辞典 (第二版).北京:华夏出版社.   \n[4]时琴琴.(2011).盲童和正常儿童对颜色认知的对比.硕士学位论文,上海师范大学.   \n[5]徐诚.(2013).唇读研究回顾：从聋人到正常人.华东师范大学学报(教育科学版),31(1),56-61. [6]张积家,党玉晓,章玉祉,王惠萍,& 罗观.(2008).盲童心中的颜色概念及其组织.心理学报,40(04),389- 401.   \n[7]赵英,伍新春,谢瑞波,冯杰,孙鹏,& 陈红君.(2020).视觉语言对听觉障碍人群阅读能力的影响及作用 机制.心理科学进展,6,969-977.   \n[8]Amedi,A,Floel,A,Knecht,S.,ZoharyE,&Cohen,L.G.(2).Transcranialmagneticstimulatiofthe occipital pole interferes with verbal processing in blind subjects.Nature neuroscience,7(11),1266.   \n[9]Amedi,A.,Raz,N.,Pianka,P., Malach,R.,& Zohary,E. (2Oo3).Early‘visual'cortex activationcorrelates with superior verbal memory performance in the blind. Nature neuroscience, 6(7), 758.   \n[10] Arnaud,L., Gracco, V.,& Ménard, L. (2018). Enhanced perception of pitch changes in speech and music in early blind adults. Neuropsychologia, 117,261-270.   \n[11] Barilari, M.,de Heering,A.,Crollen, V., Collignon, O.,& Bottini,R.(2018).Is Red Heavier Than Yellow Even for Blind? I-Perception, 9(1).   \n[12] Barsalou,L. W. (1999). Perceptual symbol systems. Behavioral and brain sciences, 22(4), 577-660. [13] Barsalou, L. W. (2oo3). Situated simulation in the human conceptual system. Language and cognitive processes, 18(5-6),513-562.   \n[14] Barsalou,L.W.，Breazeal, C.，& Smith,L.B. (2007). Cognition as coordinated non-cognition. Cognitive Processing, 8(2),79-91.   \n[15] Bedny，M.， Pascual-Leone,A.，Dodel-Feder, D.，Fedorenko,E.，& Saxe，R. (2011). Language processing in the occipital cortex of congenitally blind adults. Proceedings of the National Academy of Sciences, 108(11), 4429-4434.   \n[16] Bedny, M.,& Saxe,R. (2012). Insights into the origins of knowledge from the cognitive neuroscience of blindness Cognitive Neuropsychology, 29(1-2),56-84.   \n[17] Boroujeni,F.M., Heidari,F.,Rouzbahani, M.,& Kamali, M.(2017).Comparison of auditory stream segregation in sighted and early blind individuals. Neuroscience letters, 638,218-221.   \n[18] Bottini,R.,Ferraro,S., Nigri,A., Cuccarini,V.,Bruzzone,M.G.,& Collignon,O.(2020). Brain Regions Involved in Conceptual Retrieval in Sighted and Blind People. Journal of Cognitive Neuroscience, 32(6), 1009-1025.   \n[19] Buchel, C., Price, C.,& Friston,K. (1998). A multimodal language region in the ventral visual pathway. Nature, 394(6690), 274-277.   \n[20] Burton, H., Diamond, J.B.,& McDermott, K.B. (2003). Dissociating cortical regions activated by semantic and phonological tasks: a FMRI study in blind and sighted people. Journal of neurophysiology， 90(3), 1965-1982.   \n[21] Burton,H., Snyder,A. Z., Conturo, T.E.,Akbudak, E., Ollinger, J. M.,& Raichle,M. E. (2002a). Adaptivechanges in early and late blind: a fMRI study of Braille reading. Journal of neurophysiology,87(1),589- 607.   \n[22] Burton,H., Snyder, A. Z., Diamond,J.B.,& Raichle,M.E.(2002b).Adaptive changes in early and late blind: a FMRI study of verb generation to heard nouns.Journal ofneurophysiology, 88(6),3359-371. [23] Burton,H.,Snyder,A. Z.,& Raichle,M.E. (2014). Resting state functional connectivity in early blind humans.Front Syst Neurosci, 8,51.   \n[24] Cantlon, J. F., Pinel, P., Dehaene, S.,& Pelphrey, K.A. (2011). Cortical Representations of Symbols, Objects,and Faces Are Pruned Back during Early Childhood. Cerebral Cortex, 21(1),191-199.   \n[25] Chandrasekaran, C., Trubanova,A.， Stilittano,S., Caplier, A.,& Ghazanfar, A. (20o9). The natural statistics of audiovisual speech.PLoS Computational Biology, 5(7).   \n[26] Chao,Y. R. (1948). Mandarin primer: An intensive course in spoken Chinese. Harvard University Press.   \n[27] Chen,W.F.， Chao,P.C., Chang, Y. N., Hsu, C.H.,& Lee, C.Y. (2016).Effects of orthographic consistency and homophone density on Chinese spoken word recognition. Brain and language,157,51-62. [28] Chéreau, C., Gaskell, M.G.,& Dumay, N. (2007). Reading spoken words: Orthographic effects in auditory priming. Cognition,102(3),341-360.   \n[29] Cohen,L.,Dehaene, S., Naccache,L.,Lehericy, S., Dehaene-Lambertz, G., Henaff, M.A.,& Michel, F.(2000).The visual word form area - Spatial and temporal characterization of an initial stage ofreading in normal cuhiertc and nnsterinr cnlit_hrain natiente Rrain 123 201-307 [30] Cohen,L. G, Celnik, P.，Pascual-Leone,A., Corwell，B.，Faiz, L., Dambrosia,J.,..& Hallett,M. (1997).Functional relevance of cross-modal plasticity in blind humans. Nature,389(6647),180.   \n[31] Connolly, A. C., Gleitman, L.R.,& Thompson-Schil, S.L.(2007). Effect of congenital blindness on the semantic representation of some everyday concepts. Proc Natl Acad Sci U SA,104(20),8241-8246.   \n[32] Cutsforth,T.D. (1932). The unreality of words to the blind. Paper presented at the Teachers Forum. [33] Cutsforth,T.D. (1951). The blind in school and society: A psychological study. American Foundation for the Blind.   \n[34] Decety,J.,& Grezes, J. (20o6). The power of simulation: imagining one's own and other's behavior. Brain research, 1079(1), 4-14.   \n[35] Dehaene, S.,Pegado,F.,Braga,L. W., Ventura,P.,Nunes,G.,Jobert,A.,... Cohen,L. (2010). How Learning to Read Changes the Cortical Networks for Vision and Language. Science, 330(6009),1359-1364. [36] Dietrich, S.， Hertrich, 1.，& Ackermann, H. (2013a). Training of ultra-fast speech comprehension induces functionalreorganization of the central-visual system in late-blind humans.Frontiers in human neuroscience, 7, 701.   \n[37] Dietrich, S., Hertrich, I.,& Ackermann, H. (2013b). Ultra-fast speech comprehension in blind subjects engages primary visual cortex, fusiform gyrus,and pulvinar-a functional magnetic resonance imaging (fMRI) study. BMC neuroscience,14(1),74.   \n[38] Frith,U.(1998). Literally changing the brain. Brain: a journal of neurology, 121(6),1011-1012. [39] Glenberg,A.M.(1997).What memory is for. Behavioral and brain sciences,20(1),1-19.   \n[40] Goldman, A. I. (2006). Simulating minds: The philosophy， psychology， and neuroscience of mindreading. Oxford University Press.   \n[41] Gordon-Salant, S.,& Friedman, S.A. (2011). Recognition of rapid speech by blind and sighted older adults.J Speech Lang Hear Res, 54(2), 622-631.   \n[42] Gougoux,F.,Lepore,F.,Lassonde,M., Voss,P., Zatorre,R.J.,& Belin,P. (20o4).Pitch discrimination in the early blind. Nature, 430(6997),309-309.   \n[43] Gougoux, F., Zatorre, R. J., Lassonde, M., Voss P.,& Lepore,F. (20o5). A functional neuroimaging study of sound localization: visual cortex activity predicts performance in early-blind individuals.PLoS biology, 3(2), e27.   \n[44] Grant,K.W.,& Greenberg, S. (2001). Speech intelligibility derived from asynchronous processing of auditory-visual information. In AVSP 2001-International Conference on Auditory-Visual Speech Processing. [45] Hertrich,I.,Dietrich, S.，& Ackermann,H.(2013). Tracking the speech signal-time-locked MEG signals during perception of ultra-fast and moderately fast speech in blind and in sighted listeners. Brain and language, 124(1), 9-21.   \n[46] Hertrich,I.,Dietrich, S.,Moos,A.,Trouvain,J.,& Ackermann,H. (2oo9).Enhanced speech perception capabilities in a blind listener are associated with activation of fusiform gyrus and primary visual cortex. Neurocase, 15(2), 163-170.   \n[47] Hino,Y.,& Lupker, S.J. (1996). Effects of polysemy in lexical decision and naming: An alternative to lexical accessaccounts. Journal of Experimental Psychology: Human Perception and Performance, 22(6),1331. [48] Hoting, K.，& Roder,B.(2009). Auditory and auditory-tactile processing in congenitally blind humans.Hearing research,258(1-2),165-174.   \n[49] Huang,X., Yang,J. C.， Chang, R.,& Guo, C.(2016). Task modulation of disyllabic spoken word recognition in Mandarin Chinese: a unimodal ERP study. Scientific reports,6,25916.   \n[50] Huang,X., Yang, J. C., Zhang, Q.,& Guo, C. (2014). The time course of spoken word recognition in Mandarin Chinese: A unimodal ERP study. Neuropsychologia, 63,165-174.   \n[51] Hugdahl,K.,Ek,M.,Takio,F.,Rintee,T.,Tuomainen,J., Haarala,C.,& Hamälainen,H. (2004).Blind individuals show enhanced perceptual and atentional sensitivity for identification of speech sounds. Cognitive brain research, 19(1),28-32.   \n[52] Hull,T.,& Mason,H. (1995). Performance of blind children on digit-span tests.Journal of Visual Impairment & Blindness.   \n[53] Jafari,Z.,& Malayeri, S. (2014). Effects of Congenital Blindness on the Subcortical Representation of Speech Cues. Neuroscience,258,401-409.   \n[54] Jafari,Z.,& Malayeri， S. (2016). Subcortical encoding of speech cues in children with congenital blindness. Restorative Neurology and Neuroscience, 34(5), 757-768.   \n[55] James,C.T. (1975). The role of semantic information in lexical decisions. Journal of Experimental Psychology: Human Perception and Performance,1(2),130.   \n[56] Kim, J. S.,Elli, G. V.,& Bedny, M. (2019). Knowledge of animal appearance among sighted and blind adults.Proceedings ofthe National AcademyofSciences ofthe United States ofAmerica,116(23),11213-11222. [57] Kim, J. S., Kanjlia, S., Merabet,L. B.,& Bedny, M. (2017). Development of the Visual Word Form 11504.   \n[58] Knowland,V.C.P.,Evans,S., Snell, C.,& Rosen, S. (2016). Visual speech perception in children with language learning impairments.Journal of Speech, Language, and Hearing Research, 59(1), 1-14.   \n[59] Kupers,R., Beaulieu-Lefebvre,M., Schneider,F. C., Kassuba, T.,Paulson, O.B., Siebner, H.R.,& Ptito,M. (2011).Neuralcorrelates of olfactory processing incongenital blindness. Neuropsychologia, 49(7),2037- 2044.   \n[60] Kutas,M.，& Federmeier, K. D. (2011). Thirty years and counting: finding meaning in the N400 component of the event-related brain potential (ERP).Annual review of psychology, 62,621-647.   \n[61] Kutas,M., & Hillyard, S.A. (1980). Reading senseless sentences: Brain potentials reflect semantic incongruity. Science, 207(4427),203-205.   \n[62] Kutas,M.,& Hillyard, S. A. (1984). Brain potentials during reading reflect word expectancy and semantic association. Nature, 307(5947), 161.   \n[63] Lakoff, G.，& Johnson, M. (1980). The metaphorical structure of the human conceptual system. Cognitive science, 4(2),195-208.   \n[64] Landau,B.，& Gleitman, L.R. (1985). Language and Experience: Evidence from the blind child. Cambridge,MA: Harvard University Press.   \n[65] Lane,C., Kanjlia,S., Omaki, A.,& Bedny, M. (2015).“Visual” cortex of congenitally blind adults responds to syntactic movement. Journal of Neuroscience, 35(37),12859-12868.   \n[66] Lessard,N.,Paré, M.,Lepore,F.,& Lassonde,M.(1998). Early-blind human subjects localize sound sources better than sighted subjects. Nature, 395(6699),278.   \n[67] Liu,Y., Yu, C.,Liang,M.,Li,J.,Tian,L., Zhou,Y., Qin,W.,Li,K.,& Jiang,T. (20o7). Whole brain functional connectivity in the early blind. Brain,130(8),2085-2096.   \n[68] Lusk,L. G., & Mitchel, A. D. (2016). Differential gaze pattrns on eyes and mouth during audiovisual speech segmentation. Frontiers in Psychology, 7,52.   \n[69] Marmor, G. S.(1978).Age at onset of blindness and the development of the semantics of color names. Journal of experimental child psychology,25(2),267-278.   \n[70] Marslen-Wilson, W.D.，& Tyler,L. K. (1980). The temporal structure of spoken language understanding. Cognition, 8(1), 1-71.   \n[71] Marslen-Wilson, W. D., & Welsh, A. (1978). Processing interactions and lexical access during word recognition in continuous speech. Cognitive psychology, 10(1),29-63.   \n[72] Martin,A. (2016). GRAPES-Grounding representations in action, perception, and emotion systems: How object properties and categories are represented in the human brain. Psychonomic bulletin & review, 23(4), 979-990.   \n[73] McClelland,J. L.，& Elman, J.L. (1986). The TRACE model of speech perception. Cognitive psychology, 18(1),1-86.   \n[74] McClelland, J.L.,& Rumelhart, D.E.(1981).An interactive activation model of context effects in leter perception: I. An account of basic findings. Psychological review, 88(5),375.   \n[75] McGinnis,A. R. (1981). Functional Linguistic Strategies of Blind Children. Journal of Visual Impairment and Blindness,75(5),210-14.   \n[76] McGurk, H.,& MacDonald, J. (1976). Hearing lips and seeing voices. Nature, 264,746-748. [77] Ménard,L., Dupont, S., Baum, S.R.,& Aubin,J. (20o9). Production and perception of French vowels by congenitally blind adults and sighted adults.The Journal of the Acoustical Society of America,126(3),1406- 1414.   \n[78] Miler, K.M.,& Swick,D.(2003). Orthography influences the perceptionof speech inalexic patients. Journal of Cognitive Neuroscience, 15(7), 981-990.   \n[79] Moos,A.，& Trouvain，J. (2007).Comprehension of Ultra-Fast Speech-Blind vs.Normally Hearing'Persons. In Proceedings of the 16th International Congress of Phonetic Sciences (Vol. 1, pp.677-680). Saarland University Saarbrucken, Germany.   \n[80] Muchnik,C.,Efrati, M.,Nemeth,E., Malin,M.,& Hildesheimer, M.(1991).Central auditory skils in blind and sighted subjects. Scandinavian audiology, 20(1),19-23.   \n[81] Noppeney, U. (2O07). The effects of visual deprivation on functional and structural organization of the human brain. Neuroscience & Biobehavioral Reviews, 31(8),1169-1180.   \n[82] Occell, V.,Lacey, S., Stephens,C.,Merabet,L.B.,& Sathian,K.(2017).Enhanced verbal abilities in the congenitally blind. Experimental brain research, 235(6),1709-1718.   \n[83] Pasqualotto,A., Lam, J. S.,& Proulx,M. J. (2013). Congenital blindness improves semantic and episodic memory. Behavioural brain research, 244,162-165.   \n[84] Pattamadilok,C.，Morais,J.，Ventura,P.，& Kolinsky，R.(2007). The locus of the orthographic Processes,22(5),700-726.   \n[85] Pattamadilok,C., Perre, L.， Dufau, S.,& Ziegler, J. C.(2009). On-line orthographic influences on spoken language in a semantic task. Journal of Cognitive Neuroscience, 21(1),169-179.   \n[86] Pelland, M.,Orban,P.,Dansereau,C.,Lepore,F.,Bellec,P.,& Collignon, O. (2017). State-dependent modulation of functional connectivity in early blind individuals. Neuroimage,147,532-541.   \n[87] Perre,L., Midgley, K.,& Ziegler, J. C. (2009). When beef primes reef more than leaf: Orthographic information affects phonological priming in spoken word recognition. Psychophysiology, 46(4),739-746. [88] Piskorska,A. (20o8). Concepts reflecting aesthetic judgments in blind children. Relevance Round Table, 97-108.   \n[89] Prinz, W. (1997). Perception and action planning. European journal of cognitive psychology, 9(2),129- 154.   \n[90] Qu,Q.,& Damian, M.F. (2017). Orthographic effects in spoken word recognition: Evidence from Chinese. Psychonomic bulletin & review, 24(3), 901-906.   \n[91] Rammsayer, T.(1992). Zeitdauerdiskriminationsleistung bei Blinden und Nicht-Blinden: Evidenz fuir einen biologischen Zeitmechanismus. Kognitionswissenschaft,2,180-188.   \n[92] Raz, N., Striem,E.,Pundak, G., Orlov,T.,& Zohary,E.(2oo7). Superior serial memory in the blind: a case of cognitive compensatory adjustment. Current Biology, 17(13),1129-1133.   \n[93] Reich,L.， Szwed, M., Cohen,L.，& Amedi, A. (2011). A Ventral Visual Stream Reading Center Independent of Visual Experience. Current Biology, 21(5),363-368.   \n[94] Rizzolatti, G.,& Craighero,L. (2004).The mirror-neuron system.Annu. Rev. Neurosci.,27,169-192. [95] Robbins, P.,& Aydede,M. (Eds.). (2008). The Cambridge handbook of situated cognition. Cambridge University Press.   \n[96] Rosel,J., Caballer,A., Jara,P.,& Oliver,J.C. (2005). Verbalism in the narrative language of children who are blind and sighted. Journal of Visual Impairment & Blindness, 99(7),413-425.   \n[97] Roder,B.,Demuth,L.， Streb,J.,& Rosler, F. (2003). Semantic and morpho-syntactic priming in auditory word recognition incongenitallyblind adults. Language and Cognitive Processes,18(1),1-20. [98] Roder,B.,& Rosler,F. (2oo3). Memory for environmental sounds in sighted, congenitally blind and late blind adults: evidence forcro-modal compensation.International Journal of Psychophysiology,50(1-2),27- 39.   \n[99] Roder,B.，Rösler,F.，& Neville,H. J. (2001).Auditory memory in congenitally blind adults: a behavioral-electrophysiological investigation. Cognitive Brain Research,1l(2),289-303.   \n[100] Sadato,N., PascualLeone,A., Grafman, J., Ibanez, V., Deiber, M.P., Dold, G.,& Hallet, M. (1996). Activation of the primary visual cortex by Braille reading in blind subjects.Nature,380(6574),526-528. [101] Saysani, A., Corbalis, M. C.,& Corballis,P.M. (2018). Colour envisioned: concepts of colour in the blind and sighted. Visual Cognition,26(5),382-392.   \n[102] Schild,U.,& Friedrich, C. K. (2018). What determines the speed of speech recognition? Evidence from congenitally blind adults. Neuropsychologia,112,116-124.   \n[103] Seidenberg, M. S.,& Tanenhaus, M. K. (1979). Orthographic effects on rhyme monitoring. Journal of Experimental Psychology: Human Learning and Memory, 5(6), 546.   \n[104] Shepard,R.N.,& Cooper,L.A.(1992).Representation of colors in the blind,color-blind, and normally sighted. Psychological Science, 3(2), 97-104.   \n[105] Sigalov, N., Maidenbaum, S.,& Amedi,A. (2016). Reading in the dark: neural correlates and crossmodal plasticity for learning to read entire words without visual experience. Neuropsychologia, 83,149-160. [106] Simmons, W. K., Ramjee, V., Beauchamp, M. S., McRae, K., Martin,A., & Barsalou, L. W. (2007).A common neural substrate for perceiving and knowing about color. Neuropsychologia, 45(12),2802-2810. [107] Smith,E.R.,& Semin, G.R. (2004). Socially situated cognition: Cognition in its social context. Advances in experimental social psychology,36,57-121.   \n[108] Smith,L. B. (20o5). Cognition as a dynamic system: Principles from embodiment. Developmental Review, 25(3-4),278-298.   \n[109] Smits,B. W.,& Mommers, M.J. (1976). Differences between blind and sighted children on WISC verbal subtests.New Outlook for the Blind.   \n[110] Striem-Amit, E.,Wang, X. Y. Bi, Y. C.,& Caramazza, A. (2018). Neural representation of visual concepts in people born blind. Nature Communications, 9.   \n[111] Sumby, W.H.,& Pollack,I. (1954). Visual contribution to speech intelligibility in noise.The Journal of the Acoustical Society of America, 26(2),212-215.   \n[112] Summerfield, Q. (1992). Lipreading and audio-visual speech perception. Philosophical Transactions: Biological Sciences,335(1273),71-78. [113] Taft,M.,Castles,A., Davis,C.,Lazendic, G.,& Nguyen-Hoan, M. (20o8).Automatic activation of orthography in spoken word recognition: Pseudohomograph priming. Journal of Memory and Language, 58(2), 366-379.   \n[114] Tillman,M.H.,& Bashaw,W.L.(1968).Multivariate analysis of the WISC scales for blind and sighted children.Psychological reports,23(2), 523-526.   \n[115] Ventura,P.，Kolinsky，R.,Pattamadilok,C.，& Morais,J.(2Oo8). The developmental turnpoint of orthographicconsistencyfects inspeech recognition.Journalofexperimentalchild psychology,10o(2),135-145. [116] Ventura,P.，Morais,J.，Pattamadilok,C.，& Kolinsky，R.(2004). The locus of the orthographic consistency effect in auditory word recognition. Language and Cognitive processes,19(1),57-95.   \n[117] Vinter,A.,Fernandes,V.,Orlandi,O.,& Morgan,P.(2013). Verbal definitionsof familiar objects in blind children reflect their peculiar perceptual experience.Child: care, health and development,39(6),856-863. [118] Wan, C.Y.,Wood,A.G.,Reutens,D.C.,& Wilson, S.J. (2010).Early but not late-blindness leads to enhanced auditory perception. Neuropsychologia, 48(1), 344-348.   \n[119] Wang,D.W., Qin, W.,Liu, Y., Zhang, Y. T., Jiang, T. Z.,& Yu, C.S. (2014). Altered Resting-State Network Connectivity in Congenital Blind.Human Brain Mapping,35(6),2573-2581.   \n[120] Wang,X.Y., Men, W.W., Gao, J. H., Caramazza,A.,& Bi, Y.C. (2020). Two Forms of Knowledge Representations in the Human Brain. Neuron,107(2),383-393.   \n[121] Watkins, K.E., Cowey,A.,Alexander,I.,Filippini, N., Kennedy, J. M., Smith, S.M.,..& Bridge,H. (2012).Language networks in anophthalmia: maintained hierarchy of processng in‘visual'cortex. Brain,135(5), 1566-1577.   \n[122] Withagen,A.，Kappers,A. M.， Vervloed, M. P.，Knoors,H.,& Verhoeven,L. (2013). Short term memoryand working memory in blind versus sighted children.Research in developmental disabilities,34(7), 2161-2172.   \n[123] Yeh， W.，& Barsalou,L. W. (2006). The situated nature of concepts. The American journal of psychology, 119,349-384.   \n[124] Yehia,H.,Rubin,P.,& Vatikiotis-Bateson,E.(1998). Quantitative association of vocal-tractand facial behavior. Speech Communication,26(1),23-43.   \n[125] Ziegler,J. C.,Petrova,A.,& Ferrand,L. (2O08).Feedback consistency effects in visual and auditory word recognition: where do we stand after more than a decade?. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34(3),643.   \n[126] Zou,L., Desroches,A.S.,Liu, Y.,Xia, Z.,& Shu, H. (2012). Orthographic facilitation in Chinese spoken word recognition: An ERP study. Brain and language,123(3),164-173.   \n（通信作者：伍新春 E-mail：xcwu@bnu.edu.cn） ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "冯杰：提出研究思路，文献收集和分析，论文起草和修订；  \n徐娟：文献搜集和分析，论文修改；  \n伍新春：提出研究思路，论文修改与指导，最终版本修订。",
+        "page_idx": 15
+    }
+]

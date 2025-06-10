@@ -1,0 +1,329 @@
+[
+    {
+        "type": "text",
+        "text": "阵列天线互耦效应研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "段雪峰1.2，王凯 $\\star 1 , 2$ ，李健1.2，闫浩1,2，宁云炜1,2，曹亮1.2，马军1,2（1.中国科学院新疆天文台，新疆乌鲁木齐 830011;2.新疆微波技术重点实验室,新疆乌鲁木齐 830011）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：相控阵馈源是将阵列天线放置于射电望远镜焦面场处，用以实现更高增益及更灵活波束调控的接收机技术。鉴于其与阵列天线一样，是由多个天线单元以一定方式组合排列而成，工作时阵元之间产生电磁耦合在所难免。本文选用螺旋天线作为阵列天线单元，工作频率为1.25GHz，对独立天线进行仿真优化后，该天线-10dB 阻抗带宽仅为70MHz。依托该天线单元建立 $5 \\times 5$ 矩形排布螺旋天线阵列模型，分别选取阵元间距为1、0.5、0.25、0.125倍波长（ $1 . 2 5 \\mathsf { G H z @ 0 . 2 4 m } \\rangle$ ，以此验证不同阵元间距下的互耦效应对整个阵列带宽的影响。最终通过对各阵元输入阻抗进行匹配，仿真得到在0.25倍波长间距下，阵列中心阵子的-10dB阻抗带宽可扩展至 $5 5 0 N H z$ ，而阵列天线的带宽也基本表征了将其用作相控阵馈源的工作带宽。上述工作加深了对阵列天线带宽特性的理解，也为实际应用于射电望远镜系统的相控阵馈源实现更宽的工作带宽提供了可能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：阵列天线；相控阵馈源；阻抗；耦合性；带宽中图分类号：P111.5；文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "阵列天线是将独立天线按照一定规律排列而成的一种天线阵，而在射电天文领域中，阵列天线可被用作相控阵馈源使用。相控阵馈源（Phased array feed，PAF）则是将平面阵列天线以矩形或者六边形排布放置于射电望远镜焦面场位置，通过阵列后级的波束合成网络按照一定算法调控各阵元的幅度和相位，综合多个阵元用以实现更为灵活的波束赋形及波束扫描功能。目前，平方公里阵（SKA）、500米口径球面射电望远镜（FAST)，包括国内在建及拟建的大口径射电望远镜工程团队均在积极开展PAF 的技术研发工作，尤其是主焦放置的L波段相控阵馈源。图1 为国外 PHAROS 工程(PHased Arrays for Reflector ObservingSystems)研制的Vivaldi PAF 样机[1。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/72ff30988ef0563a7fe202e1cf1ed8462ab7b166e02336cd9d077917fe68fd0f.jpg",
+        "img_caption": [
+            "图1PHAROS工程PAF 样机",
+            "Fig.1 PAF prototype for PHAROS project "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*基金项目：国家自然科学基金（11973078)；新疆维吾尔族自治区重点实验室开放课题 (2020D04014)；中国科学院“西部之光”人才培养引进计划（2020-XBQNXZ-018)；上海合作组织科技伙伴计划及国际科技合作计划研究（2020E01041）；中国科学院天文台站设备更新及重大仪器设备运行专项经费资助.  \n收稿日期： 修订日期：  \n作者简介：段雪峰，男，学士.研究方向：数字终端技术．Email:duanxuefeng@xao.ac.cn  \n通信作者：王凯，男，硕士.研究方向：接收机技术。.Email:wangkai@xao.ac.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "对于以探测微弱天体信号为主的射电天文领域来说，射电望远镜的工作带宽意义重大[2]，因为更宽的带宽意味着更高的灵敏度。因此，开展相控阵馈源的宽带研究具有非常现实的意义。鉴于相控阵馈源是阵列天线在射电天文领域的一种具体应用，相关设计同样遵循阵列天线的特性，在做宽频带设计时，可将相控阵馈源首先作为阵列天线来展开。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "相较单天线，阵列天线可以实现更高的增益以及更为灵活的波束方向，因此在微波及通信领域被广泛应用3。虽然阵列中各个天线相互独立，但由于阵元间距不同，会造成阵元天线间产生不同的影响[4。以发射天线为例，如图2所示，当阵元1向外辐射能量时，该能量也会有一部分被邻近的阵元2所接收而影响其后级链路，而此时阵元2的辐射不但叠加了这种影响，同样会有部分能量被阵元1所接收，如此导致整个阵列各个天线单元之间产生的影响就是阵列天线的互耦效应[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3802de4d4f34590fa11bafd08058b45d0ee3e0a00174b051d1843f87d63c9c1c.jpg",
+        "img_caption": [
+            "图2阵元互耦",
+            "Fig.2 Mutual coupling of array elements "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此在传统阵列天线设计中，为了减小互耦效应给阵列带来的不利影响，一般采取扩大阵元间距（ ${ \\geqslant } 0 . 5$ 倍的工作波长）来降低耦合。近年，随着微波天线领域对阵列天线的不断认知，研究人员发现通过加强阵元间的耦合性，反可以扩展天线的工作带宽，实现一种超宽带特性[6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1阵列单元选取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结合上述需求，为了搭建阵列天线模型，首先需要确定阵列天线单元的选型。阵列天线可选取多种天线单元，比如偶极子天线、缝隙天线、环天线、锥削槽天线等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "螺旋天线是用金属导线绕制而成的一种螺旋弹簧形状结构的行波天线，由于结构简单、易于制作，也常被用作阵列天线单元。典型的螺旋天线设计为圆柱形，其辐射特性基本上取决于螺旋的直径与工作波长之比D/lambda。随着D/lambda 的变化，螺旋天线也有三种传输模式，当D/lambda ${ < } 0 . 1 8$ 时，最大辐射方向在与螺旋轴线相垂直的平面内；当D/lambda 在0.25-0.46之间时，最大辐射方向与螺旋轴线一致，这种辐射模式的天线成为轴向模天线、简称为螺旋天线；当D/lambda 值被进一步拉大时，方向图偏圆锥形。一般只使用前两种模式[7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了对阵列天线互耦效应进行研究，快速验证阵列天线性能，选取了结构相对简单的轴向端射螺旋天线作为阵列天线单元。该螺旋天线设计工作频率 $_ { f = 1 . 2 5 \\mathsf { G H z } }$ (L波段)，经优化后最终设定螺旋直径 $D = 0 . 4 2 6 1$ ambda，螺距 $s = 0 . 2 5$ lambda，螺旋天线匝数 $n = 3 . 5$ ，底座背板半径 $r = 0 . 3 7 5$ Slambda，如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "0 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4是该螺旋天线在 $0 . 7 { - } 1 . 8 mathsf { G H z }$ 带宽内的仿真得到的回波损耗，可以看到在1.25GHz的设定频率上的回波损耗可以达到33.64dB，S11仅在1.21-1.28GHz频段内保持在-10dB以下。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2162f750caecb03735eab7eef1f8f0408b581a672e878f768ada58f2ec1c36cb.jpg",
+        "img_caption": [
+            "图3螺旋天线模型 Fig.3 Helix antenna model ",
+            "图4独立螺旋天线回波损耗 Fig.4 Return loss of helix antenna "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2阵列设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "阵列天线的设计一般较为关注阵列排布方式、阵列规模（阵列尺寸)，以及阵元间距。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一般的阵列排布方式有线阵和面阵，阵元被依次排列在一条直线上的阵列叫做线阵，而被排列在一个平面上的阵列叫做面阵。对于应用于射电天文的阵列天线来说，采用平面阵的设计较多，故在本设计中选用面阵设计。而在平面阵设计中，一般主要采取矩形和六边形排列，鉴于诸多紧耦合天线阵列均采取矩形排列，故最终设定阵列以 $5 \\times 5$ 矩形方式排布。阵列排布及阵元编号如下图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b7c7b540e19807a1343e3a604d6fa1d052bb5f502efffaff1cb265331ffd219.jpg",
+        "img_caption": [
+            "图5矩形排布 $5 \\times 5$ 阵列天线",
+            "Fig.5 Rectangulararrangement of $5 \\times 5$ arrayantenna "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "阵列规模是依托阵元间距而进一步确定的，且阵元间距是阵列设计中最为重要的设计参数，也是互耦效应的直接诱因。为了验证阵列天线在互耦影响下的性能，在阵列排布确定后，结合设计的螺旋天线单元，分别选取了4种典型的阵元间距（1、0.5、0.25、0.125lambda）来排布 $5 \\times 5$ 矩形阵列，以此来进一步研究不同设计下的阵列天线耦合效应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3阵列天线互耦效应研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 S参数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过建立 $5 \\times 5$ 矩形排布螺旋天线阵列模型，将阵元间距分别设置为1、0.5、0.25、0.125倍的波长，工作频率设定为1.25GHz，鉴于阵列的对称性，选取阵列中心的5号阵元，以及在E面方向上的6号、10号阵元和在H面方向上的8号、11号阵元，采取全阵列等幅同相激励，在考虑阵元互耦情况下求解5号阵元的回拨损耗，以及其与邻近阵元间的耦合性。仿真结果如下表1所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0d523e96da3a61812d560d0a68bf1ab4259ffe6b386812cb18e65413c9ea333c.jpg",
+        "table_caption": [
+            "表1不同阵元间距下的S参数"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>S5,5</td><td>S5,6</td><td>S5,10</td><td>S5,8</td><td>S5,11</td></tr><tr><td>1lambda</td><td>-8.303</td><td>-22.03</td><td>-23.34</td><td>-23</td><td>-29.5</td></tr><tr><td>0.5lambda</td><td>-8.93</td><td>-22.4</td><td>-24.4</td><td>-25.4</td><td>-20.5</td></tr><tr><td>0.25lambda</td><td>-12.98</td><td>-18.34</td><td>-17.1</td><td>-16.31</td><td>-18.85</td></tr><tr><td>0.125lambda</td><td>-10.9</td><td>-13.6</td><td>-22.6</td><td>-18</td><td>-25.1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于5号阵元作为阵列中心的阵子，是最接近于无限大阵列的阵元，从表1中可以看到，其回波损耗（-S5.5）随着阵元间距的减小而逐渐变大，在0.25波长下最优，在0.125 波长下又稍有恶化，但还比1和0.5倍波长的阵元间距情况要好。而5号阵元与E面及H面方向上的阵元的耦合性（-S5,6、-S5,10，-S5,8、-S5,11)，基本呈现间距越大耦合性越弱的趋势，且在对应位置上H面方向较E面方向具备更弱的耦合性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在上述四种阵元间距下，设置起止频率为0.7-1.8GHz，同样采取全阵列等幅同相激励（各端口输入阻抗均默认为50欧姆)，仿真阵列中心的5号阵元的回波损耗，结果如图6所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/60ce840a6b4fe2f476a495cf6df29ad18fc24c2fe68f83ed63313c786c553fbd.jpg",
+        "img_caption": [
+            "图6四种不同阵元间距下的 $0 . 7 { - } 1 . 8 mathsf { G H z }$ 的中心阵子回波损耗",
+            "Fig.6 Return loss of 0.7-1.8GHz central array under four different array element spacin "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图6 的结果可以看到,在阵元间距为1和0.5lambda时,在1.25GHz工作频点处的 S5,5均为-10dB以上，而在阵元间距为0.25 和0.125lambda时，在1.25GHz工作频点处的 S5,5均为-10dB以下，对于 S5,5的一般设计指标是要求在-10dB 以下，所以在当前条件下，间距为0.25 和0.125lambda的排布更能初步满足设计指标。之后再对比间距为0.25和0.125lambda时在整个0.7-1.8GHz带内的 S5,5，可以看到0.125lambda 间距在整个带内有部分不连续的通带在-10dB 以下，但0.25lambda 间距在高频段有多段较为连续的通带在-10dB 以下，最宽的通带将近150MHz,是四种间距中宽带性能最好的一个。反观间距为1和0.5lambda时的 S5,5,虽然在整个带内均仅有少数几段的通带满足要求，但0.5相较0.125lambda 间距具备更好的高频段表现。综合上述四种间距在宽带范围内仿真的S5,5，初步得出结论认为适当减小阵元间距、加强阵元耦合是可以扩展阵列天线工作带宽的，但这种改善有限，且和阵列选取的阵元有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7为间距为0.25lambda 时独立阵列和阵列结合反射面用作相控阵馈源时的中心5 号阵元的回波损耗。从图7可以看出，结合口径为25米、焦径比为0.3的反射面后，相控阵馈源与独立阵列其阵列中心5号元件的回波损耗（-S5,5）基本一致，仅有细微区别。因此，说明阵列的工作带宽基本反应了结合反射面后相控阵馈源的工作带宽。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/81db7577ed927390bdaa9d1a2acf18aec23fd421723724392bc1338d8bcf3957.jpg",
+        "img_caption": [
+            "图7添加反射面前后0.25lambda间距下5号阵元的回波损耗 Fig.7 Return loss of element NO.5 at O.25 lambda spacing with or without reflector "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 阻抗 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "通过上述宽带的回波损耗仿真，我们发现仅改变阵元间距无法优化出较为连续的、更宽的工作带宽，考虑到减小间距产生的互耦效应最终影响的就是各个天线单元的输入阻抗，所因此选取上节 S5,5相对较好的0.5lambda（常规阵列设计一般选取的阵元间距）和0.25lambda（通过上节仿真论证、相对实现更宽工作带宽的间距）两种阵元间距情况，分别仿真求解在上述两个阵元间距下，采取全阵列等幅同相激励，阵中各阵元输入阻抗（单位为欧姆）数值对应表示于图8中。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c6db2198912a148a35cf11d93162e3e94e4b964915eac3b0efda7407a28035.jpg",
+        "img_caption": [
+            "图80.5和0.25lambda 间距下各阵元的输入阻抗"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.8 Input impedance of each array element at O.5 and O.25 lambda spacing ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图6可以看到，由于阵元之间的耦合效应，不同的阵元间距使得阵元的输入阻抗有很大变化，这和图5所展示的、设置各阵元端输入阻抗均为50欧姆有较大区别。在图6罗列的0.5 和0.25lambda 两种间距下的各端口的阻抗中，0.5lambda 的阻抗失配更加明显，因此对应的回拨损耗也比0.25lambda 间距差。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3阻抗匹配后的阵列工作带宽",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "结合图8所示的各个阻抗值，在0.5和0.25lambda 阵元间距下，将各阵元的输入阻抗进行对应的修改，同样设置起止频率为0.7-1.8GHz，采取全阵列等幅同相激励，仿真阵列中心的5号阵元的S5,5，两种间距阻抗优化前后的回波损耗如图9所示：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\*基金项目：国家自然科学基金（11973078)；新疆维吾尔族自治区重点实验室开放课题 (2020D04014)；中国科学院“西部之光”人才培养引进计划（2020-XBQNXZ-018)；上海合作组织科技伙伴计划及国际科技合作计划研究（2020E01041）；中国科学院天文台站设备更新及重大仪器设备运行专项经费资助.  \n收稿日期： 修订日期：  \n作者简介：段雪峰，男，学士.研究方向：数字终端技术．Email:duanxuefeng@xao.ac.cn  \n通信作者：王凯，男，硕士.研究方向：接收机技术。.Email:wangkai@xao.ac.cn",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc9d9e439881f2efbff9e061e4f76d91f22bbe21daabd6666b5ccfc2569ae650.jpg",
+        "img_caption": [
+            "图90.5和0.25lambda 间距下阻抗匹配前后的回波损耗"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 Return loss before and after impedance matching at 0.5 and 0.25 lambda spacing ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图9可以看到，阻抗优化后，两种间距下的S5,5均较未优化前有了一定程度的下降，0.25lambda间距在阻抗匹配后，在 $0 . 7 \\mathrm { - } 1 . 8 \\mathrm { G H z }$ 范围内大部分已下降至-10dB以下，尤其是在 $0 . 8 \\mathrm { - } 1 . 3 5 \\mathrm { G H z }$ 这一段 $5 5 0 \\mathrm { M H z }$ 的工作带宽是非常有价值的。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文仿真优化了工作在1.25GHz下的独立螺旋天线，在工作频点回波损耗可达33.64dB,-10dB阻抗带宽为70MHz。利用该螺旋天线组建了 $5 \\times 5$ 矩形排布螺旋天线相控阵馈源阵列模型，分别选取阵元间距为1、0.5、0.25、0.125倍波长（ $1 . 2 5 \\mathsf { G H z @ 0 . 2 4 m } )$ ，以此验证改变阵元间距下的互耦效应对整个PAF带宽的影响。仿真得到仅0.25、0.125倍波长的阵元间距在工作频点的回拨损耗在10dB以上，且在 $0 . 7 { - } 1 . 8 mathsf { G H z }$ 宽带范围内0.25倍波长间距具备实现宽带特性的潜力。通过对各阵元输入阻抗进行匹配，最终仿真得到在整个宽带范围内的回波损耗均有提升，尤其是在0.25倍波长间距下，阵列的中心阵子可实现连续550MHz的-10dB的阻抗带宽，而阵列天线的带宽也基本表征了将其用作相控阵馈源的工作带宽。后期可考虑对阵元及阵元间距再进行进一步优化，结合射电望远镜焦面场边缘照射区域综合开展PAF阵列设计，继续在相控阵馈源的宽带特性上进行探索。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Navarrini A， Cattani A，Ladu A，et al.The Warm Receiver Section and the Digital Backendof the PHAROS2 Phased Array Feed[C]//2019 IEEE International Symposium on Phased ArraySystem & Technology (PAST),2019,pp.1-8.  \n[2] 马军,裴鑫,王娜,等.QTT 超宽带多波束信号接收与处理系统[J].中国科学:物理学 力学 天文学,2019,49(09):6-18.  \n[3]陈虎,郑雪飞,李小秋.一种微带反射阵列天线单元特性研究[J].微波学报,2010,26(S1):145-148.  \n[4]王媛．大型天线阵列间耦合分析[D].西安电子科技大学,2018.  \n[5]卢保军．应用于平方公里中频阵的超宽带相控阵的研究[D].合肥工业大学,2018.  \n[6]王天宇．强互耦超宽带相控阵基础理论和关键技术研究[D].电子科技大学,2020.  \n[7]林昌禄.天线工程手册[M].北京：电子工业出版社.2002：314-323.  \n[8] 陈勇,孙正文,闫浩,李健,李大磊,李笑飞,刘烽.新疆天文台 26 米望远镜L波段接收机线-圆偏振的转换[J].天文研究与技术,2019,63(03):262-267.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Research on Mutual Coupling of Array Antenna DUAN Xuefeng1²,WANG Kai1.²,LI Jian1²,YAN Hao'²，NING Yunwei1,²，CAO Liang1²， MA Jun12 (1．Xinjiang Astronomical observatory,Chinese Academy of Sciences, Xinjiang, Urumqi,830o11,China; 2. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Xinjiang Key Laboratory of Microwave Technology, Urumqi 830011, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract : Phased array feed is a receiver technology that places the array antenna at the focal plane field of radio telescope to achieve higher gain and more flexible beam regulation. As it is the same as the aray antenna,it is composed of multiple antenna elements in a certain way, so it is inevitable to produce electromagnetic coupling between the array elements during operation. In this paper, the helical antenna is selected as the array antenna unit,and the working frequency is $1 . 2 5 \\mathsf { G H z }$ . The independent antenna is simulated and optimized,and the - 1OdB impedance bandwidth is only 7OMHz. Relying on the antenna unit for the model of rectangular arrangement $5 \\times 5$ helical antenna array， the array element spacing of 1,O.5,0.25 and O.125 times of wavelength are selected respectively $( 1 . 2 5 \\mathsf { G H z } @ 0 . 2 4 \\mathsf { m } )$ .In order to verify the influence of mutual coupling effect under diferent array element spacing on the bandwidth of the whole array. Finally,by matching the input impedance of each array element, the simulation shows that under O.25 times the wavelength spacing, the -10dB impedance bandwidth of the central array of the array is expanded to 55oMHz,and the bandwidth of the array antenna basically represents the working bandwidth used as the phased array feed.The above work not only deepens the understanding of the bandwidth characteristics of the array antenna,but also makes it possible for the phased array feed applied to the radio telescope system to achieve a wider working bandwidth. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Array antenna; Phased array feed; Impedance; Coupling; Bandwidth ",
+        "page_idx": 7
+    }
+]

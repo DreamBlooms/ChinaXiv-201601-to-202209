@@ -1,0 +1,363 @@
+[
+    {
+        "type": "text",
+        "text": "基础研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "应用蛋白质组学技术筛选鉴定锌指蛋白139调控的胃癌转移相关蛋白质",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李勇，王力利，康爱文，范立侨，赵群,檀碧波，郝英杰,刘庆伟河北医科大学第四医院外三科,河北 石家庄 050011",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的 以胃癌SGC7901细胞原位移裸鼠模型为对象，通过荧光双向差异凝胶电泳(2D-DIGE)结合液质联用(LC-MS）质谱分析技术鉴定ZNF139调控的胃癌转移相关蛋白质。方法合成针对ZNF139的小干扰RNA(ZNF139-siRNA），以ZNF139-siRNA转染人胃癌细胞株SGC7901,G418筛选。以ZNF139-siRNA质粒转染的胃癌细胞、阴性质粒转染的胃癌细胞及普通胃癌细胞分别进行裸鼠胃癌原位移植。造模成功后取出原位移植瘤及腹腔转移淋巴结。荧光双向差异凝胶电泳(2D-DIGE)技术分别分离ZNF139-siRNA各组原位移植瘤及腹腔转移淋巴结蛋白质;选定差异点，胶内酶解后,液质联用(LC-MS)质谱分析技术鉴定蛋白质。蛋白印迹(Westemblot)技术验证差异蛋白质的表达。结果转染ZNF139-siRNA质粒后SGC7901细胞中ZNF139的表达受到有效抑制。与阴性质粒组及空白组比较，阳性质粒组原位移植瘤生长更慢( $\\scriptstyle ( P < 0 . 0 5 )$ ，且腹腔淋巴结转移率更低 $( P { < } 0 . 0 5 )$ 。蛋白质组学结果发现在阳性质粒组原发灶中Fascin、hnRNPA2/B1表达下调,ANXA1表达上调；阳性质粒组转移淋巴结中ANXA5表达下调 $( P { < } 0 . 0 5 )$ 。Westernblot验证结果与蛋白质组学结果相符。结论ZNF139可能通过调节Fascin、hnRNPA2/B1、ANXA1、ANXA5促进胄癌淋巴结转移。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：胃癌；锌指蛋白139;原位移植裸鼠；淋巴结转移;蛋白质组学",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Screening and identification of proteins related to gastric cancer metastasis with comparative proteomics ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Yong,WANGLili, KANGAiwen,FANLiqiao,ZHAO Qun,TANBibo,HAO Yingjie,LIU Qingwei ThirdDepartmentofrgeryourthAfilatedHospitalofHebeiedicalnoersity,izhuan5oina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveToscreenandidentifythe proteins relatedwithtumor metastasisof gastriccancerinanudemousemodel bearing orthotopic transplanted tumor. Methods Zinc finger protein 139 (ZNF139)-specific siRNA was synthesized and transfectedintogastricancercellineGC791,wichasthenscreenedbyG418.ZNF39-siNA-transfectedces,ative plasmid-transfected celsanduntreated SGC7901 celswereorthotopically transplanted separatelyon the stomach wallof BALB/c nude mice. The primary tumors and metastatic lymph nodes were harvested to separate the proteins by 2-D fluorescencediference gelelectrophoresis (2-DDIGE);aftergeldigestion,thediferentialproteins weresubjectedtoliquid chromatography-mass spectrometry (LC-MS)for identificationand their functions were analyzed. Western bloting was performedtoverifythe identified proteins.ResultsZNF139expressionwas efectively inhibited insiRNA-transfected SGC7901 cels. ZNF139-siRNA-transfected celshowed obviously suppressed tumor growth with a lowered lymph node metastasis rate in nude mice compared with untreated cells and the negative control cells $_ { ( P < 0 . 0 5 ) }$ . Proteomic study with 2-D DIGE showed that fascin and hnRNPA2/B1 were down-regulated while ANXA1 was up-regulated in the primary tumors, and ANXA5 was down-regulated in the metastatic lymph nodes in ZNF139-siRNA-transfected group. Western bloting confirmed theresults of proteomic analysis. Conclusion ZNF139 gene may promote lymph node metastasis of gastric cancer by regulating fascin, hnRNPA2/B1, ANXA1, and ANXA5. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: gastric cancer; zinc finger protein139; orthotopic transplantation model of nudemice; lymph node metastases; proteomics ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "胃癌预后差的主要原因在于胃癌转移迅速，许多患者在初次就诊时就已存在局部或远处转移，导致手术、化疗等措施无法达到根治。因此寻找胃癌转移相关蛋白质有重要意义。当前蛋白质组学研究已成为研究肿瘤转移的新技术,并已取得一些重要成果[-2]。我们前期发现锌指蛋白139(zinc finger protein 139,ZNF139)在胃癌中过表达,与胃癌多药耐药(multidrug resistance,MDR)关系密切[3-4],且有促进胃癌侵袭转移的作用[5-6]，但ZNF139在体内能通过调控哪些蛋白质促进淋巴结转移相关报道很少。故本研究应用蛋白质组学技术对ZNF139调控的胃癌转移相关蛋白质的进行了鉴定，并对这些蛋白质的功能进行了初步分析。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验材料及试剂",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人胃癌细胞株SGC7901（本院科研中心保种并传代);4周龄BALB/c雄性裸鼠(北京华阜康公司)53只，3\\~4周龄，体质量 $2 0 { \\sim } 2 3 \\ \\mathrm { g }$ ，其中8只用于皮下移植瘤并传代，45只用于原位移植;RPMI-1640(美国Solarbio公司）；3-[(3-胆酰胺丙基）-二乙胺](CHAPS)（美国Aresco);TrizolReagent、尿素(Urea）、硫脲(Thiourea）、十二烷基硫酸钠(SDS）、甲叉丙烯酰胺(Bis-acrylamide)、丙烯酰胺(Acrylamide）、四甲基二乙胺(TEMED）过硫酸氨(AP)均购自美国 Sigma;二硫苏糖醇(DTT)(北京华美生物公司);CyDye荧光染料(Cy3、Cy5)(美国GEHealthcare）；两性电解质（IPGbuffer）（美国GEHealthcare)。兔抗人单克隆抗体Fascin、兔抗人多克隆抗体ZNFl39、hnRNPA2/B1、ANXA1、内参照β-actin 购自英国Abcam;兔抗人多克隆抗体ANXA5（美国Abgent)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 实验仪器 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABIPrism7900型荧光定量PCR仪（美国应用生物系统公司)；U-2001型紫外可见分光光度计（日本日立公司);DYY-6C型电泳仪(北京六一仪器厂）;EttanIPGphor等电聚焦仪(美国GEHealthcare);DYCZ-28A型垂直电泳槽（北京六一仪器厂）；Typhoon TRIOVariableModeImager（瑞典Amersham Bioscience）;Ettanspotpicker（美国GEHealthcare);Flexi-Dry冷冻干燥机(美国FTSSystems);液质联用仪LTQXL型（美国Thermo)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3实验方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1细胞培养胃癌SGC7901细胞复苏后常规培养，于含 $10 \\%$ 小牛血清的RPMI1640培养液中培养于 $5 \\%$ $\\mathrm { C O } _ { 2 }$ 恒温孵育箱中 $3 7 ^ { \\circ } \\mathrm { C }$ 下培养传代。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.2靶向ZNF139-siRNA干扰质粒构建及扩增纯化应用上海吉玛制药技术有限公司合成ZNF139-siRNA干扰质粒工程菌(图1)进行转染实验。菌液接种于含有$1 0 0 ~ \\mathrm { \\mu g / m l }$ 氨苄青霉素的LB液体培养基中，使用Tiangen公司质粒中提试剂盒EndofreeMaxiPlasmidKit提取质粒。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ZNF139-siRNA模板序列：5-ACCTCGGAAGATTCAGCAT-3；5-ATGCTGAATCTTCCGAGGT $\\cdot 3 _ { \\circ }$ ZNF139-siRNA无关对照模板序列:5-GACGAGTTGACTGCGATTG-3;5-CAATCGCAGTCAACTCGTC-3。1.3.3ZNF139-siRNA质粒转染经定量分析后，分别取 $2 . 4 , 3 . 6 , 4 . 8 , 6 . 0 \\mu \\mathrm { g }$ 重组质粒，用无血清培养基稀释质粒至 $1 ~ \\mu \\mathrm { g } / 1 0 0 ~ \\mu \\mathrm { l }$ ,加入转染试剂后转染细胞，培养 $2 4 \\mathrm { h }$ 后收集细胞,进行下一步实验",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8823b9561fe82064c1c3257c3d4e059f19dac02d6b75dc0849e0e67adbabee10.jpg",
+        "img_caption": [
+            "图1ZNF139-siRNA干扰质粒构建 Fig.1 Construction of ZNF139-siRNA plasmid. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.4荧光定量RT-PCR检测反应条件： $9 4 \\mathrm { ~ \\textcircled { C } ~ } 3 0 \\mathrm { ~ s ~ }$ ,$9 4 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ } 5 \\mathrm { ~ s ~ } , 6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { ~ C ~ } 3 0 \\mathrm { ~ s ~ } , 4 0$ 个循环。以 $\\beta$ -actin为内参照，计算目的基因mRNA相对表达量。反应体系见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3aea7f6df77f273a9be799222b6bd66b0b0609ac936745f5aa0764f03f51a688.jpg",
+        "table_caption": [
+            "表1荧光定量RT-PCR反应体系 Tab.1 Reaction system of fluorescence quantitative RT-PCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Components</td><td>Volume</td><td>Final concentration</td></tr><tr><td>Forward primer (10μmol/L)</td><td>0.5 μl</td><td>0.2 μmol/L</td></tr><tr><td>Reverse primer (10μmol/L)</td><td>0.5μl</td><td>0.2 μmol/l</td></tr><tr><td>2×Trans startTM top green qPCR super mix</td><td>12.5 μl</td><td>1×</td></tr><tr><td>Passive reference dye (5x)</td><td>5μl</td><td>1×</td></tr><tr><td>Template</td><td>1 μl</td><td></td></tr><tr><td>ddHO</td><td>5.5μl</td><td>Not applicable</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.5细胞稳定克隆筛选分别取 $4 . 8 ~ \\mu \\mathrm { g }$ 阳性质粒、阴性质粒转染对数期生长的SGC7901细胞 $2 4 \\mathrm { ~ h ~ }$ ，加入G418( $4 0 0 ~ \\mu \\mathrm { g / m l } ,$ 筛选，待细胞密度达到 $80 \\%$ 时用$4 0 0 ~ { \\mu \\mathrm { g / m l ~ G 4 1 8 } }$ 的培养基再筛选1次。直至得到稳定转染细胞株。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.6胃癌原位移植裸鼠模型的建立45只裸鼠分为ZNF139-siRNA组、阴性质粒组、空白组，每组15只。先建立裸鼠皮下移植瘤模型，鼠间传代5次，以第6代皮下移植瘤为原位移植的瘤源进行胃癌原位移植。具体造模方法依照本课题组前期研究方法进行[。原位移植瘤形成后，每4d测量一次瘤体长短径，待腹部膨隆，肿瘤长至 $1 . 0 \\mathrm { c m } { \\times } 1 . 0 \\mathrm { c m }$ 左右，出现活动减少,进食减少，体质量下降时，颈椎脱白处死，取出原位移植瘤，腹腔转移淋巴结至少需要采集5枚以上，标本分为3份，1份福尔马林固定送病理检查，两份迅速放入液氮中保存。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.7蛋白质组学实验",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.7.1蛋白样品制备各组织使用超声破碎仪及细胞裂解液进行破碎及裂解，离心取上清并用Tris饱和酚抽提蛋白质，之后用DIGEbuffer溶解蛋白质，最后用Bradford法测定蛋白质浓度， $- 8 0 \\mathrm { { ^ { \\circ } C } }$ 保存备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.7.2 双向差异凝胶电泳及图像分析取各组蛋白CyDye荧光染料标记各组样品 $2  { \\mathrm { h _ { \\circ } } }$ 先后进行一向和二向凝胶电泳，扫描和分析相应图像。在对进行蛋白质点的检测、编辑和匹配、蛋白质点的相对分子质量和等电点校正后，通过DIA和BVA分析选择可重复的点，生成差异蛋白质列表，将差异蛋白质列表导入Ettan spotpicker软件分析，并根据结果在凝胶进行挖点。1.3.7.3蛋白质胶内酶解用 $\\mathrm { N H _ { 4 } H C O _ { 3 } }$ 和ACN清洗胶粒后冻干，加入含有Trypsin( $\\mathrm { { ( 1 0 ~ n g / \\mu l ) } }$ 的 $5 0 \\ \\mathrm { m m o l / L }$ $\\mathrm { N H _ { 4 } H C O _ { 3 } ( p H 8 . 0 ) }$ 孵育 $1 2 \\mathrm { h }$ ，吸取上清液并冻干，最后加人 $1 5 \\mu \\mathrm { l }$ 含有 $0 . 1 \\%$ FA的去离子水制备成待测样品，1.3.7.4质谱分析与数据鉴定应用LTQXL增强型离子阱型质谱仪，通过nanoESI-LC-MS/MS的分析方法鉴定差异表达的蛋白质。二级质谱图谱经BioWorks3.3.1软件(Thermo Fisher公司)SEQUEST运算方法进行数据库检索。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4Westernblot对差异蛋白进行验证",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各组蛋白经 $10 \\%$ 十二烷基硫酸钠一聚丙烯酰胺凝胶电泳(SDS-PAGE)分离，电转移至PVDF膜。经 $5 \\%$ 脱脂奶粉室温封闭 $9 0 ~ \\mathrm { m i n }$ ，分别加入一抗 $( 1 : 4 0 0 ) , 4 \\mathrm { ~ \\textdegree C }$ 孵育过夜。次日，加入二抗，孵育 $9 0 ~ \\mathrm { m i n }$ ，化学发光法显色。以 $\\beta$ -actin为内参照。利用BioRad图像分析系统测定蛋白条带的积分吸光度(L4)，以目的蛋白与内参照蛋白L4值的比值表示目的蛋白的相对表达水平。实验重复3次。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/540d223c891eedf1458e6fe2c3a368a2e8d9a3c04901c6b62d0d894724e32501.jpg",
+        "img_caption": [
+            "图2siRNA对ZNF139抑制的荧光定量RT-PCR结果 Fig.2 Effect of siRNA on ZNF139 expression assessed by fluorescence quantitative RT-PCR. $^ { * } P { < } 0 . 0 5$ Us $0 \\mu \\mathrm { g / \\mu l }$ group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2059b2f7028396a919dfec51b90f2457e1d595abd41b668cda71e24010b737df.jpg",
+        "img_caption": [
+            "图3原位移植裸鼠肿瘤体积生长曲线 Fig.3 Tumor volume growth curve of the mice bearing orthotopic transplanted tumor. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5统计学处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS13.0统计软件对实验结果进行分析，计量资料以均数 $\\cdot \\pm$ 标准差表示并应用 $\\mathbf { \\Phi } _ { t }$ 检验，以 $P { < } 0 . 0 5$ 存在差异有统计学意义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1siRNA对ZNF139的抑制情况 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实时定量PCR显示，随质粒浓度增高，转染的SGC7901细胞中ZNF139mRNA相对表达量逐渐降低$( P { < } 0 . 0 5 )$ ,其中以 $0 . 8 ~ \\mu \\mathrm { g / \\mu l }$ 组抑制效率最高，为 $8 2 . 9 2 \\%$ (图2）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2抑制ZNF139对裸鼠原位移植瘤的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "原位移植瘤自可触及开始每4d测量其最长径与最短径，按 $\\mathrm { V = a b } ^ { 2 } / 2$ (a为长径，b为短径，单位mm)计算移植瘤体积。空白组比阴性质粒组肿瘤无统计学差异$( P { > } 0 . 0 5 )$ ;与阴性对照组比较，实验组原位移植瘤生长明显减慢( $\\scriptstyle \\overbrace { P < 0 . 0 1 }$ ，图3)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3抑制ZNF139表达对淋巴结转移影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "裸鼠原位成瘤率 $100 \\%$ 。空白组及阴性质粒组均发现腹腔淋巴结，HE染色证实淋巴结中有癌细胞，淋巴结转移率 $100 \\%$ ;ZNF139-siRNA组9只裸鼠发现腹腔淋巴结HE染色证实有癌细胞，淋巴结转移率为 $60 \\%$ ，明显低于空白组及阴性组 $\\scriptstyle \\cdot \\chi ^ { 2 } = 1 2 . 8 5 7$ ， $P { < } 0 . 0 0 1$ )。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4蛋白质组学结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ZNF139-siRNA组与阴性质粒组的2D-DIGE中，原位移植瘤平均为 $7 6 5 8 \\pm 4 7$ 个蛋白质点，匹配率为$9 1 . 6 \\%$ ;转移淋巴结蛋白质点平均为 $3 1 1 7 { \\pm } 8 2$ ，匹配率为$9 2 . 5 \\%$ 。应用DeCyderDifferential Analysis Software选取原位移植瘤6个差异蛋白点，LC-MS鉴定出5种蛋白质，经生物信息学分析确定3种可能与肿瘤有关的蛋白质，其中Fascin、hnRNPA2/B1在ZNF139-siRNA组表达下调，ANXA1表达上调。转移淋巴结选取3个差异蛋白点，经LC-MS鉴定出3种蛋白质，经分析确定1种可能与胃癌有关的蛋白质ANXA5，在ZNF139-siRNA组的淋巴结中表达下调(图4)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5Westernblot验证结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Western blot 表 明，Fascin、hnRNPA2/B1 在",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7dc754ea940eba9598b951bd16a31ee86ebae9443b514a59633b362bc43a2f0.jpg",
+        "img_caption": [
+            "图4ZNF139-siRNA组与阴性质粒组原位移植肿瘤原发灶和转移淋巴结的2D-DIGE结果 Fig.4Results of 2D-DIGE of the primary tumors (A) and metastatic lymph nodes (B)in ZNF139-siRNA group and negative plasmid group.A: 2D-DIGE figure of ptimary tumors; B: 2D-DIGE figure of metastaticlymph nodes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ZNF139-siRNA组表达下调、ANXA1表达上调（ $\\scriptstyle { \\mathcal { P } } <$ 0.01)。ANXA5,在ZNF139-siRNA组的淋巴结中表达",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "下调。结果与蛋白质组学结果一致(图5、6)。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a5adddf2d052d055462e4d0599ae92fd4e72751292fd403aec012d058b43e80.jpg",
+        "img_caption": [
+            "图5ZNF139-siRNA组与阴性质粒组原位移植肿瘤原发灶差异蛋白质的Westernblot验证结果 Fig.5 Western bloting for verification of the differential proteins in primary tumors in ZNF139-siRNA group and negative plasmid group. $^ { * } P { < } 0 . 0 5$ Us negative control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本课题组前期研究发现胃癌细胞中锌指蛋白139(zinc fingerprotein139,ZNF139)存在过表达[8],进一步体外实验发现ZNF139可导致胃癌细胞多药耐药(multidrugresistance,MDR)[3-4],还发现ZNF139具有促进胃癌细胞株侵袭迁移能力的作用[5]。但ZNF139在体内能否促进胃癌细胞侵袭迁移还不明确，故本研究进行了相关体内实验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们的前期成功制备了原位移植裸鼠的胃癌转移模型，本研究以不同处理的胃癌细胞株SGC7901进行原位移植后，结果发现转染了ZNF139-siRNA阳性质粒的胃癌细胞成瘤小、生长慢，且淋巴结转移率低，说明ZNF139具有促进胃癌细胞生长、转移的功能，以ZNF139为靶标采取针对性措施可能抑制胃癌转移。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了解ZNF139在胃癌转移中直接调节的蛋白质，本研究进一步应用蛋白质组学技术对ZNF139转染前后的差异蛋白质进行了筛选鉴定，结果确定原发灶ZNF139调控的差异蛋白质为Fascin、ANXA1、hnRN-",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7360cd1362408d4aa20d0ebe41c7ab4d4714c73961c4ca66b4676832792643ed.jpg",
+        "img_caption": [
+            "图6ZNF139-siRNA组与阴性质粒组原位移植肿瘤淋巴结转移灶的Westermblot验证结果 Fig.6Western blotting for verification of the differential proteins in metastatic lymph nodes in ZNF139-siRNA group and negative plasmid group. $^ { * } P { < } 0 . 0 5$ Us negative control group. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PA2/B1，转移淋巴结中差异蛋白质为ANXA5。研究发现STAT3-NF- $\\mathbf { \\nabla \\cdot } \\kappa \\mathbf { B }$ -Fascin通路在胃癌细胞的侵袭迁移中发挥重要作用[9。本研究发现经siRNA抑制ZNF139后Fascin蛋白下降，提示ZNF139可能通过促进Fascin表达促进胃癌转移。hnRNPs与肿瘤关系密切，在胃癌，肺癌，胰腺癌等肿瘤内高表达[10],本研究发现抑制ZNF139后hnRNPA2/B1蛋白质表达下调，提示ZNF139可能通过促进hnRNPA2/B1的表达促进胃癌转移。有报道ANXA1在胃癌转移过程中表达下降，为胃癌转移进展的负性标志物[]。本研究抑制ZNF139后ANXA1蛋白质表达上调，提示胃癌细胞中的ZNF139可能通过抑制ANXA1而促进胃癌转移。研究发现ANXA5在胃癌中表达增高，与胃癌耐药有关[12]。本实验抑制ZNF139后转移淋巴结中ANXA5蛋白质表达下调，提示ZNF139可能上调ANXA5的表达促进胃癌淋巴结的转移。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Liu Y,Li Y, Tan BB,et al. Technique appraisement of comparative proteomics and screening of differentiation-related protein in gastric carcinoma [J]．Hepatogastroenterology，2013,60(123):   \n633-7. [2]Zhang ZQ,Li XJ,Liu GT,et al.Identification of annexin al protein expression in human gastric adenocarcinoma using proteomics and tissue microarray[J].World J Gastroenterol, 2013,19(43): 7795-   \n803. [3]Li Y,Tan BB, Zhao Q,et al. Regulatory mechanism of ZNF139 in multi-drug resistance of gastric cancer cells [J].Mol Biol Rep,   \n2014,41(6):3603-10.   \n[4]李勇,赵 群,檀碧波,等.人胃癌耐药细胞株中锌指蛋白139和多药 耐药基因表达的关系及意义[J].中国癌症杂志,2013,23(7):493-8.   \n[5]Li Y,Tan BB,Zhao Q,et al. ZNF139 promotes tumor metastasis by increasing migration and invasion in human gastric cancer cells[J]. Neoplasma,2014,61(3): 291-8.   \n[6]范立侨,李勇,赵 群,等.人胃癌细胞原位移植裸鼠原发灶与肝转移 灶体外化疗药敏性差异[J].中国普通外科杂志,2013,22(10): 1280-4.   \n[7］赵 群,李勇,范立侨,等.人胃癌细胞原位移植转移裸鼠原发灶及转 移灶中锌指蛋白139的表达及其与肿瘤侵袭转移的关系研究[J].中 国全科医学,2013,16(19):1740-3.   \n[8]李勇,赵 群,檀碧波,等.人胃癌耐药细胞株中锌指蛋白139和 MMP-2,MMP-7,细胞间黏附因子1的表达及其意义[J].中华普通外 科杂志,2013,28(6):468-9.   \n[9]Yao J,Qian CJ,Ye B,et al. Signal transducer and activator of transcription 3 signaling upregulates fascin via nuclear factor-.B in gastric cancer: Implications in cell invasion and migration [J]. Oncol Lett,2014,7(3): 902-8.   \n[10] Romero-Garcia S,Prado-Garcia H, SullivanLopez-Gonzalez J. Transcriptional analysis of hnRNPAO,A1,A2,B1,and A3 in lung cancer cell lines in response to acidosis，hypoxia,and serum deprivation conditions[J].Exp Lung Res,2014,40(1): 12-21.   \n[11]Yu G,Wang J,Chen Y,et al. Tissue microarray analysis reveals strong clinical evidence for a close association between loss of annexin A1 expression and nodal metastasis in gastric cancer[J]. Clin Exp Metastasis,2008,25(7): 695-702.   \n[12] Chiang JH,Yang JS,Ma CY,et al.Danthron,an anthraquinone derivative,induces DNA damage and caspase Cascades-Mediated apoptosisin SNU-1 humangastriccancercellsthrough mitochondrial permeability transition pores and Bax-Triggered pathways[J].Chem Res Toxicol,2011,24(1): 20-9. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(编辑：孙昌朋)",
+        "page_idx": 4
+    }
+]

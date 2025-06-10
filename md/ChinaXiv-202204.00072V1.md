@@ -1,0 +1,295 @@
+# 基于通道权重的顺序精炼RGB-D显著检测网络
+
+卞华军，王华军，赵赫威(成都理工大学 网络安全学院，成都 610059)
+
+摘要：提出了一种新型的用于RGB-D显著目标检测的网络框架(SR-Net)。为了有效整合多模态特征的互补性，将深度特征提取作为独立分支，采用卷积块注意模块(CBAM,convolutional block attention module)进行深度特征增强，并整合增强后的深度特征与RGB 特征的互补信息。为了去除特征冗余，减少背景噪声对预测结果的干扰，在上采样网络中设计了一种顺序精炼网络，即通过整合多层次、多尺度特征的互补性，获取初级全局特征，并采用基于通道权重的初级全局特征权重矩阵获取模块(PFW，primary globalfeature weight matrix acquisition module)获取初级全局特征的权重矩阵；其次利用获取到的权重矩阵对各层次特征进行精炼，以抑制背景噪声带来的干扰；最后，为了更好的优化整个网络，提出了一种新的损失函数。在四个公共数据集上的实验结果表明，该模型在不同的模型评价指标上均优于近年来9种先进方法，获得了优异的性能。
+
+关键词：显著性目标检测；RGB-D；通道权重；顺序精炼 中图分类号：TP391.41 doi: 10.19734/j.issn.1001-3695.2021.12.0696
+
+Sequential refined RGB-D saliency detection network based on channel weight
+
+Bian Huajun,Wang Huajun, Zhao Hewei (School of network security,Chengdu University of Technology, Chengdu 61oo59,China)
+
+Abstract:This paperproposedanewnetwork framework forRGB-Dsalientobjectdetection(SR-Net).Inorder to effctively integrate thecomplementarityofmulti-modelfeatures,this paper tookthedepth feature extractionasanindependentbranch, use the Convolutional Block Atention Module(CBAM) to enhance the depth feature,and integrate the complementary information of the enhanced depth feature andRGB feature.Then,inorderto remove featureredundancyand reduce the interference of background noiseon the prediction results,it proposed a sequential refining network in theup-sampling network,thatis,first,theprimaryglobalfeaturesareobtainedbyintegrating thecomplementarityofmulti-levelandmultiscale features,andused the PrimaryGlobal Feature Weight Matrix Acquisition Module (PFW)which basedonthechanel weight to obtains the weight matrixofthe primary global feature,and then uses theobtained weight matrix to refine the features ofeach level tosuppressthe interference whichcausedbybackground noise.Finaly,inordertobetteroptimize the whole network,it proposed anew loss function.Theexperimental resultson four publicdatasets show thatthe model is superior to nine advanced methods in diferent model evaluation indexes,and achieves more advanced performance.
+
+Key words:salient object detection; RGB-D; channel weight; sequential refine
+
+# 0 引言
+
+基于RGB-D 的显著目标检测(RGB-DSOD)旨在从一对RGB图像及深度图像中检测到最具吸引力的部分。在过去的十几年里，显著目标检测(SOD)因可以广泛应用于图像分割[1]，图像编辑[2]以及视频分析[3]等领域的预处理阶段，而备受关注。传统的显著目标检测方法主要依赖于手工制作的低级特征[4,5,26,27]来进行显著目标检测，但因缺少对显著目标语义信息的获取而很难在背景比较复杂等情况中取得良好的实验效果。近年来，随着深度学习的快速发展，众多研究工作者开始将卷积神经网络(CNN，convolutionalneuralnetworks)应用于RGB-DSOD中，并取得良好的实验效果。Li等[22]首次采用深度神经网络搭建了一个基于多尺度特征的显著性模型Wu 等[23]提出级联部分解码器模型(cascaded partialdecoder,CPD)，将主干网络中较深的特征进行整合，得到初始显著性图，进而通过整体注意力模块细化特征，获得最终的显著性图；Liu 等[24]认为主干网络从浅到深提取多层次特征，生成粗显著图，它定位了显著目标，但失去了轮廓细节，其在DRCNNNet中采用DRCNN用于从深到浅渲染显著目标。低层侧输出借助于深层侧输出、原始深度线索和粗显著图，可以从多个尺度生成显著对象，从而保留更多地轮廓细节；Wu等[25]在 MCMF-Net 中提出了一种利用深度数据从相应的几何信息中检测显著目标边界的方法，而不是简单地从深度数据中提取显著目标特征。但是，随着研究工作的不断进行，现仍然存在两种难点亟待解决：一方面是如何有效整合多模态、多尺度及多层次特征的互补性；另一方面如何有效抑制复杂背景噪声带来的干扰，并去除特征中所包含的冗余信息。因此，为了解决以上两种问题，本文提出了一种基于通道权重的顺序精炼RGB-D 显著目标检测网络(SR-Net)。具体的，在SR-Net中，本文采用基于注意力机制的CBAM(convolutionalblockattentionmodule)模块增强深度特征并有效整合多模态特征的互补性，并设计一种顺序精炼网络，首先通过多层次、多尺度特征融合以获取初级全局特征(如图2所示)，并采用基于通道权重的初级全局特征权重矩阵获取模块(PFW,primary global feature weight matrix acquisitionmodule)获取初级全局特征的权重矩阵并去除冗余信息，再利用获取到的权重矩阵对各层次特征进行精炼，以抑制背景噪声带来的干扰。
+
+RGB图像包含了显著目标的颜色、纹理等信息，而深度图像可以获得显著目标的结构及空间布局，两者获取到的特征具有互补性。对比仅将深度图像作为RGB图像的补充[不同，在下采样网络中，本文采用了两个独立的Resnet-50骨干网络分支分别进行深度特征和RGB 特征提取，提取到的深度特征采用基于注意力机制的CBAM模块进行深度特征增强，将增强后的深度特征与RGB进行互补性特征整合，有效地整合了多模态特征的互补性。
+
+背景噪声会对最终显著目标预测结果造成严重影响，希望在上采样中，可以去除各层次特征中的冗余信息，并采用初级全局特征对各层次特征进行精炼，以强调和增强各层次中的重要信息。综上，本文在上采样网络中，首先初步整合各层次、各尺度特征的互补性，以同时结合低层次特征中包含的纹理信息和高层次特征中包含的语义信息，获取初级全局特征(见图2中 $F _ { p r d 1 }$ ),将获取到的初级全局特征输入到PFW模块，去除冗余信息，并获取初级全局特征的权重矩阵(如图2 中Weights所示)，用以精炼各层次特征，降低背景噪声的干扰。
+
+与以往简单整合多模态特征的互补性不同，首先本文采用了两个Resnet-50骨干网络分支进行RGB和深度特征提取，并采用CBAM模块进行深度特征增强，有效整合了多模态特征的互补性。再者，为了去除各层次特征中包含的冗余信息，降低背景噪声带来的干扰，在上采样网络中设计了顺序精炼网络，并设计了基于通道权重的PFW模块，去除初级全局特征中的冗余信息，获取初级全局特征的权重矩阵，用于后续精炼各层次特征。如图2所示，提出的模型的显著目标预测结果边缘清晰(如图1第一行图像所示)，且结构完整(如图1第二、三行图像所示)。综上所述，本文的贡献主要如下：
+
+1）采用一种基于注意力机制CBAM模块进行深度特征增强，与以往工作仅将深度特征作为RGB特征的补充不同，采用单独Resnet-50 单独骨干网络分支进行深度特征提取;
+
+2）设计了一种顺序精炼网络，首先通过整合多层次、多尺度特征，获取初级全局特征，然后采用初级全局特征的权重矩阵去精炼各层次特征，以去除冗余信息；
+
+3）设计了一种初级全局特征权重矩阵获取模块(PFW)，其基于注意力机制，对获取到的初级全局特征进行特征冗余去除，获取相应权重矩阵，进而用于精炼各层次特征；
+
+4）为了更好的优化本文设计的整个网络，提出了一种新的损失函数，经实验证明，在新的损失函数的优化下，本文提出的SR-Net在四个公共数据集上均获得优秀的实验效果。
+
+![](images/5ab346e73e86e99418094a11bf15cdda4c04fb643de8624b09115a52e4624167.jpg)  
+图1结果展示
+
+![](images/dcae1600b6131312b4dcf60c6d58c6a9a2375defeb453b82479300d4d24e2ade.jpg)  
+Fig.1Result display   
+图2总体模型架构  
+Fig.2Overall model architecture
+
+# 1 总体模型架构
+
+如图2所示提出了基于通道权重的顺序精炼RGB-D 显著目标检测网络(SR-Net)。即两个独立的Resnet-50特征提取骨干网络分支，一个初级全局特征获取分支，一个基于通道权重采用初级全局特征进行上采样特征精炼分支。具体的，在Resnet-50 特征提取骨干网络分支中， $c o n \nu _ { i } \left( i = 1 , . . . , 5 \right)$ 分别代表各层特征提取骨干网络，提取到的深度特征会经过深度特征增强模块(CBAM)进行特征增强，随后将增强后的特征与骨干网络提取到的RGB 特征进行多模态特征融合，获得经过多模态整合后的特征，并输送至上采样网络中。在初级全局特征获取分支中，多模态整合后的特征会首先经过全局上下文获取模块(GCM,globalcontextualmodule)及上采样操作来进行上下文信息综合和上采样；其次，整合了经过上述预处理后的多层次及多尺度特征的互补性，获得初级全局特征。在采用初级全局特征进行上采样特征精炼分支中，获取到的初级全局特征会首先经过基于注意力权重机制的全局特征精炼模块(PFW)，去除初级全局特征的冗余信息，并生成对应权重矩阵(如图2中‘Weights(W)所示)，其次，利用生成的权重对各层次特征进行精炼，最后，整合多层次、多尺度精炼后的特征，获取最终的显著目标预测结果。为了更好的优化提出的基于通道权重的顺序精炼网络，本文在网络中的不同层次进行上采样，以获取到的该层次的显著目标预测结果图，并计算子损失函数，特别的，根据该层次对最终显著目标预测结果的影响程度，给予该层次的子损失函数以不同的权重（如图2中 $\textit { \textbf { 0 . 1 * } } l o s s _ { \mathrm { i } }$ 所示)。具体的关于整个网络的介绍如下文所述。
+
+# 1.1深度特征增强模块(CBAM)
+
+为了有效整合来自RGB特征和深度特征的互补性，以往的工作多采用简单的连接方式，例如，级联、对应元素点乘、相加，或仅将深度特征作为RGB特征的补充进行多模态特征融合，并未深度考虑由于内在的模态差异及深度特征的冗余性，直接采用简单的方式整合多模态特征融合会带来一些冗余信息和噪声。受研究者工作7的启发，本文采用通道注意力机制及空间全局注意力机制构建深度特征增强模块，进而对深度特征进行特征增强。如图3所示，将输入的特征图 $F _ { i n p u t }$ 分别经过max-pooling及avg-pooling，获得关于特征图的各通道权重，然后经过比率变换提取全局通道信息并对应元素相加，获得基于通道注意力机制的特征图 $F _ { C A }$ ，具体计算过程如下：
+
+$$
+f _ { 1 } = \mathrm { c o n v } _ { \substack { c / r a t i o  c } } \big ( \delta \big ( \mathrm { c o n v } _ { \substack { c  c / r a t i o } } \big ( \mathrm { m a x p o o l } \big ( F _ { \mathrm { i n p u t } } \big ) \big ) \big ) \big )
+$$
+
+$$
+f _ { 2 } = \mathrm { c o n v } _ { \mathrm { c / r a t i o }  \mathrm { c } } ( \delta \big ( \mathrm { c o n v } _ { \mathrm { c }  \mathrm { c / r a t i o } } ( \mathrm { a v g p o o l } \big ( F _ { \mathrm { i n p u t } } ) \big ) \big ) )
+$$
+
+$$
+F _ { C A } = \operatorname { s i g m o i d } \left( \operatorname { c o n } \nu _ { 2 \to 1 } \left( \left[ f _ { 1 } , f _ { 2 } \right] \right) \right)
+$$
+
+其中， $F _ { i n p u t }$ 代表输入特征图，maxpool，avgpool分别代表着全局最大池化和全局平均池化， $c o n \nu _ { i  j }$ 代表将通道数由i转变到j的 $1 \times 1$ 卷积，ratio代表比例变换，δ表示Relu激活函数，$f _ { 1 }$ 及 $f _ { 2 }$ 表示计算过程中的中间过渡变量， $F _ { C A }$ 表示经过通道注意力机制精炼后得到的特征图。
+
+随后，将 $F _ { C A }$ 分别经过基于空间的maxpool及avgpool，获得空间层面上的关于显著目标的权重，然后采用级联进行连接，并通过 $7 { \times } 7$ 卷积将通道数转换为1，获得基于空间注意力机制的特征图 $F _ { S A }$ ,具体的计算过程如下：
+
+$$
+F _ { S A } = \mathrm { s i g m o i d } ( \mathrm { c o n v } _ { 2  1 } [ \mathrm { m a x p o o l } ( F _ { c A } ) , \mathrm { a v g p o o l } ( F _ { c A } ) ] )
+$$
+
+其中， $F _ { C A }$ 表示经过通道注意力机制精炼后得到的特征图，maxpool及avgpool分别表示基于空间的全局最大池化和全局平均池化， $F _ { S A }$ 表示经过全局注意力精炼后得到的特征图。
+
+![](images/94a399d4265fa71b963696d0ca3de788c841f054ae1a4946b780026653996e07.jpg)  
+图3CBAM特征增强模块  
+Fig.3CBAM feature enhancement module   
+图4初级全局特征权重矩阵获取模块  
+Fig.4Primary global feature weight matrix acquisition module
+
+# 1.2初级特征获取
+
+如图1所示，经过深度增强后的特征会和骨干网络提取到的RGB特征进行对应元素相加，以整合上下文信息并输送到全局上下文信息获取模块(GCM)，进行上下文信息综合，获得特征 $S _ { i }$ 。随后，因多层次、多尺度的特征所包含的关于显著目标的信息具有互补性，有效整合多层次、多尺度特征的互补性，进而获取到的初级全局特征，会包含更多的关于显著目标的主要信息，当使用其进行基于注意力机制的全局信息权重获取时，权重的置信度会更高。基于以上思想，并因各层次特征的尺度不同，首先将各层次的特征经过上采样到相同的尺寸大小( $8 8 ^ { * } 8 8 ^ { * } 3 2 ,$ ，具体的上采样 $( \mu \rho ^ { * } \mathrm { n } )$ 计算过下
+
+$$
+S _ { u i } = \mathrm { R e l u } \left( B N ( \mathrm { c o n v } _ { 1 } ( u p s a m p l e ^ { * } n ( S _ { i } ) ) ) ) \right)
+$$
+
+其中， $S _ { i }$ 代表通过全局上下文信息获取模块(GCM)去除冗余信息后的特征，upsample $^ * n$ 代表对 $S _ { i }$ 进行 $\mathfrak { n }$ 倍的上采样操作，conv代表 $3 ^ { * } 3$ 的卷积， $B N$ 表示正则化， $\mathrm { R e } l u$ 代表Relu 激活函数， $S _ { u i }$ 表示经过上采样后的输出特征。最后，上采样后的各层次特征会进行对应元素相乘，获取初级全局特征，具体的获取初级全局特征的计算过程如下：
+
+$$
+F _ { p r d 1 } = S _ { u l } \otimes S _ { u 2 } \otimes S _ { u 3 } \otimes S _ { u 4 } \otimes S _ { u 5 }
+$$
+
+其中， $S _ { u i }$ 表示经过上采样后的输出特征， $\otimes$ 代表对应元素点乘， $F _ { p r d 1 }$ 代表获取到的初级全局特征。
+
+# 1.3初级全局特征权重矩阵获取模块(PFW)
+
+如图4所示，在初级全局特征获取分支中，有效整合了多层次、多尺度特征的互补性，获得初级全局特征 $F _ { p r d 1 }$ 。因全局特征会包含更多的关于显著目标的重要特征，因此，当采用全局特征指导精炼各层次的特征时，可以去除该层次特征中所包含的冗余信息，并自动选择和增强该特征中所包含的重要特征，降低背景噪声干扰。基于以上思路，提出了初级全局特征权重获取模块(PFW)，具体内容如下所述：
+
+首先，经过初级全局特征获取分支获取到的初级全局特征 $F _ { p r d 1 }$ 会根据其即将进行精炼的网络层次进行是否进行下采样判断，值得注意的是，考虑到上采样的过程相较于下采样会引入更多的噪声，在统一不同尺寸的特征时，本文选择将$F _ { p r d 1 }$ 进行下采样，而非对较小尺寸的特征进行上采样。具体的下采样判断的计算公式为：
+
+$$
+F _ { \mathrm { p r d 1 } } = \left\{ \begin{array} { c c } { F . \mathrm { i n t e r p o l a t e } \left( F _ { \mathrm { p r d 1 } } \right) , } & { \mathrm { i f } \mathrm { s i z e } _ { s _ { i } } ! = \mathrm { s i z e } _ { F _ { p r d 1 } } } \\ { F _ { p r d 1 } , } & { \mathrm { o t h e r w i s e } } \end{array} \right.
+$$
+
+其中， $s i z e _ { S _ { i } }$ ， $s i z e _ { F _ { p r d 1 } }$ 分别代表各层次特征和初级全局特征的尺寸， $F$ .interpolate 代表基于双线性插值的下采样操作， $F _ { p r d 1 }$ 代表经过下采样判断过程后的输出结果。然后，经过下采样后的输出结果 $F _ { p r d 1 }$ 均会经过空间层次的全局平均池化，特别的，在这一部分，本文对 $F _ { p r d 1 }$ 进行了空间全局平均池化，而非空间全局最大池化，主要原因在于，本文认为最大池化会伴有特殊性及不稳定性，单个通道的权重会对最终整体权重分布造成极大的影响，因此采用空间全局平均池化，可以更加确保整个网络的鲁棒性和准确性。
+
+最后，经过全局平局池化的特征会先后经过 $3 { \times } 3$ 的卷积和 sigmoid 激活函数，生成最终的关于初级全局特征的权重矩阵，用于后续指导精炼各层次特征。具体的计算过程如下：
+
+$$
+W \mathrm { e i g h t s } \left( W \right) { = } s i g m o i d \left( c o n \nu _ { 2 } \left( s a \nu g p p o l \left( F _ { p r d 1 } \right) \right) \right)
+$$
+
+其中 $F _ { p r d 1 }$ 代表经过下采样判断过程后的输出结果，savgpool 代表基于空间的全局平均池化，sigmoid代表sigmoid 激活函数，$W e i g h t s ( W )$ 代表关于初级全局特征的空间权重矩阵。
+
+Downsample Avgpool Conv3x3 Y Weights(W) Input $F _ { p r d l }$ Judge Input 1 Weights(W) Unchanged Avgpool Conv3x3 PFW
+
+# 1.4特征精炼网络
+
+如图2所示，因初级全局特征会包含更多的关于显著目标的信息，当用其指导精炼各层次网络的特征，可以去除该层次特征中所包含的冗余信息，并自动选择和增强关键信息。因此，将获取到的初级全局特征的空间权重与各层次特征进行点乘，以获得经过初级全局特征精炼后的各层次特征。随后，按顺序自定向下地整合各层次精炼后的特征，以有效地结合多层次、多尺度特征的互补性，并获得最终的显著目标预测结果。具体的特征精炼过程如下：
+
+$$
+S _ { n } = W _ { i } \otimes S _ { i }
+$$
+
+其中， $S _ { i }$ 代表通过全局上下文信息获取模块(GCM)去除冗余信息后的特征， $\otimes$ 代表对应元素点乘， $\boldsymbol { W } _ { i }$ 代表初级全局特征的空间权重， $S _ { i }$ 代表经过初级全局特征指导精炼后的各层次的输出结果。
+
+再者，因经过初级全局特征精炼后的各层次特征所包含的信息不同，为了整合各层次、各尺度特征的互补性，本文自上而下地将各层次特征进行对应元素点乘或级联，为了更清晰地叙述整个整合流程，在这里将输入实例化为 $S _ { r 4 }$ 及 $S _ { r 5 }$ ，具体的计算过程为
+
+$$
+S _ { r 4 5 } = B N \big ( c o n \nu _ { 3 } \left( S _ { r 4 } \otimes S _ { r 5 } \right) \big )
+$$
+
+其中， $S _ { r 4 }$ 及 $S _ { r 5 }$ 为经过初级全局特征精炼后的各层次特征，$S _ { r 4 5 }$ 为整合了上述两层特征的互补性后获取到的特征。
+
+最后，将融合了多层次、多尺度后的特征( $F _ { p r d 2 }$ )上采样到与真值图(GT，GroundTruth)相同尺寸 $( 3 5 2 \times 3 5 2 )$ ，并考虑到直接进行上采样会损失一些细节，并带来噪声，为了解决这一问题，本文采用了一种简单且有效的特征尺寸转换模块(FCS,feature size conversion module)。具体的，FSC首先采用 $1 \times 1$ 的卷积将特征通道数进行改变，然后，采用残差网络对输入特征图进行上采样，提高信息流通，并防止因网络深度造成的梯度消失和退化问题，具体的计算过程如下：
+
+$$
+f _ { 3 } = \mathrm { R e } l u \big ( B N \big ( c o n \nu _ { 9 6  1 } \big ( F _ { p r d 2 } \big ) \big ) \big )
+$$
+
+$$
+\mathrm { R e } s u l t = \mathrm { R e } l u \big ( B N \big ( c o n \nu _ { 4 } \big ( f _ { 3 } \big ) \big ) + B N \big ( c o n \nu _ { 5 } \big ( f _ { 3 } \big ) \big ) \big )
+$$
+
+其中， $F _ { p r d 2 }$ 为上采样网络的最终输出，Relu代表Relu激活函数， $f _ { 3 }$ 表示中间过渡变量， $c o n \nu _ { 4 }$ 及 $c o n \nu _ { 5 }$ 代表残差网络中采用不同尺寸的卷积层对特征图进行上采样的操作，Result为整个模型的最终预测结果。
+
+# 1.5损失函数
+
+为了更好地训练整个网络，在本文中提出了一种新的损失函数，实验表明，在新的损失函数的优化下，整个模型可以收敛到最低点，最终的显著目标预测结果结构更加完整，边缘更加清晰，损失函数的具体构成如下所述。
+
+如图2所示，将初级全局特征、特征精炼分支的输出及最终的显著目标预测结果上采样到与真值图相同尺寸的大小，具体的上采样过程已在1.2节式(5)进行了详细介绍，然后对经过上采样后的特征分别进行损失函数计算，损失函数搭建在二元交叉熵损失函数上，二元交叉熵损失函数的计算公式为
+
+$$
+\ell = G \log S + ( 1 - G ) \log ( 1 - S )
+$$
+
+其中， $G$ 代表真值图， $s$ 代表预测结果图，当计算结果越小时，代表最终的预测结果越贴近真值图。为了更好地让损失函数贴近整个模型的实际运行状态，给予不同层次融合节点的损失函数以不同的权重，以强调随着融合进程，各网络层次的预测结果对最终的显著目标预测结果影响程度，具体的损失函数公式如下所示。
+
+$$
+\ell _ { l o s s } = 0 . 1 \ell _ { l o s s 1 } + 0 . 3 \ell _ { l o s s 2 } + 0 . 5 \ell _ { l o s s 3 }
+$$
+
+其中， $\ell _ { l o s s i } ( i = 1 , 2 , 3 )$ 分别代表上采样网络的不同融合节点所计算得到的损失函数， $\ell _ { l o s s 3 }$ 为对整个模型最后预测输出所计算得到的损失函数， $\ell _ { l o s s }$ 为总体损失函数。
+
+# 2 实验及结果分析
+
+在这部分首先对本文中所采用的4种公共数据集、5种评价指标及相应实验细节进行大致介绍，然后会将提出的方法与近年来9种先进的模型进行比较，最后，通过一系列的消融实验来证明本文中所提出的一些方法和模块的有效性。
+
+# 2.1 数据集
+
+为了有效验证 SR-Net 模型的有效性，在4个公共数据集上进行了综合实验。即SIP[8],NJUD[9],NLPR[10],LFSD[1]。其中，SIP[8]包含了通过华为Meta10 获取到的929张高分辨率人物图像，且数据集多集中于现实世界的人物中，NJUD[9]数据集包含了从互联网及3D中电影收集到的1985张图像，NLPR[10]包含了1000 张RGB-D图像，具有像素级真值图，深度图像是通过Kinect在不同照明条件和采集场景下捕获，数据集的图像中可能存在多个显著对象，LFSD[I包含了100张由Lytrolightfieldcamera相机分别从室内外采集到的分辨率为 $3 6 0 \times 3 6 0$ 的图像。
+
+# 2.2评价指标
+
+为了从定量的角度去评判本文提出的整个模型的好坏，在实验中引入了精准-召回率曲线(PR曲线)及5种评价指标，分别为 $F _ { m a x }$ ， $F _ { \mathrm { a d a } }$ ， $F _ { \beta } ^ { \omega }$ ， $S _ { m }$ ， $M A E$ 。PR 曲线可以通过由一系列精确召回对生成，所获的曲线越接近于(1，1)，越代表模型的预测结果精度越高，具体的精准率(P)和召回率(R)的计算公式为
+
+$$
+P = { \frac { | S ^ { ' } \cap G | } { | S ^ { ' } | } } , R = { \frac { | S ^ { ' } \cap G | } { | G | } }
+$$
+
+其中，G表示真值图， $s ^ { \cdot }$ 是根据阈值的预测结果图 $s$ 的二值化掩码。因精准率和召回率有时可能会相互矛盾，因此需要综合考虑，最常用的方法是 $F _ { m a x }$ ，即 $F _ { m a x }$ 是精准率和召回率的加权调和平均值，定义为
+
+$$
+F _ { \mathrm { m a x } } = { \frac { \left( 1 + \beta ^ { 2 } \right) P \times R } { \beta ^ { 2 } \times P + R } }
+$$
+
+其中，P、R分别代表精准率和召回率， $\beta ^ { 2 }$ 代表权重遵从[12]的建议，本文将 $\beta ^ { 2 }$ 设置为0.3以强调精度。 $M A E$ 表示模型预测结果与真值图的平均像素级误差，当数值越小时，表示模型的预测精度越高。具体计算公式为
+
+$$
+M A E = \frac { 1 } { H \times W } \sum _ { y = 1 } ^ { H } \sum _ { x = 1 } ^ { W } \bigl | S ( x , y ) - G ( x , y ) \bigr |
+$$
+
+其中，S代表模型的预测结果，G代表真值图，H及W分别代表预测结果图的高度和宽度。
+
+# 2.3实验细节
+
+遵从[12],[13]的意见，从NJUD及NLPR数据集中分别选择1485及700张图片作为训练集，其剩余图片将与SIP及LFSD 数据集共同作为测试集进行模型测试。本文使用Resnet-50作为骨干网络，并使用Adam算法进行整个网络的优化，将整个网络在一块 batchsize 设置为8的NVIDIAGeForceRTX2080TiGPU上进行训练，网络初始学习率设置为1e-4，并使其每隔60epoch 降低至原来的0.1倍，整个网络在200epoch停止训练，并保存最好的模型进行测试，整个模型的实验搭建在Pytorch平台上。
+
+# 2.4与先进的模型比较
+
+在这部分，本文将从定性与定量两种角度将本文提出的SRNet与近年来最先进的9种模型[14-21]进行比较。为了公平起见，使用作者所给出的源代码进行实验结果复现(如[18)，或直接使用作者给出的该模型的显著目标预测结果。
+
+# 2.4.1定性分析
+
+1）如图5所示，本文从9种对比模型中随机选取6种先进模型同SR-Net进行了定性分析。具体的：如图5的第一行图像所示。首先，在对人手及所持物体检测时，众多检测方法，如CoNet[16]，BiANet[18]，CMWNet[19]，D3Net[20]未能获取到准确的显著目标，并且检测结果中含有大量的噪声。再者，cmSalGAN[14]虽然检测到显著目标的大致轮廓，但缺少了很多边缘细节。相反的，本文的模型能够准确地将人手及所持物体检测出来，并且显著目标的边缘更加清晰，第二行图像同样证明了这一点。
+
+2）本文提出的SRNet 能够在多目标情景中，精准检测到显著目标。参见图5第三行图像，由于图像中包含了多目标，受多目标的干扰，一些检测方法，如BBS-Net[15],CoNet[16],BiANet[18]，CMWNet[19]，D3Net[20]未能准确检测到主要显著目标，且检测结果中或多或少的包含了噪声。相反的，本文所提出的模型能够精准获取多目标中的显著目标，并且有效减少了噪声干扰，图5中第四行图像亦是如此。
+
+3）本文提出的模型能够在复杂背景下，获取到显著目标。参见图5第6行图像，由于汽车后部复杂的背景的干扰，一些检测模型未能将整个汽车的完整轮廓进行检测出来，如CoNet[16]，BiANet[18]。再者，虽然CMWNet[19]，D3Net[20]获取到了汽车的大致轮廓，但附带了众多的噪声，使得整个检测结果看上去较为杂乱。相反的，如图所示，提出的模型能够完整将汽车检测出来，并且有效地减少了背景噪声带来的干扰，这充分证明了提出的模型同样可以有效应对复杂背景问题。
+
+![](images/94186d5d00b4818c79afe051fcd390fdcc8835b70ab08fe0f8b9388de92d0e0f.jpg)  
+图5与其他先进模型视觉效果对比  
+Fig.5Visual effect comparison with other advanced models
+
+# 2.4.2定量分析
+
+为了更加直观的展现本文提出的模型的有效性，如表1及图6所示，从定量角度将模型与9种最先进方法在5种评价指标及PR曲线上进行比较，具体的：
+
+如图6所示，本文提出的模型在三个公共数据集(SIP,NJUD,NLPR)上均取得了最高的精准-召回率，仅在LFSD数据集上取得次优的结果。再者，如表1所示，本文在5个评价指标上将模型与对比方法进行定量评估，可以直观得到，在SIP及NLPR数据集上，本文模型在5种评价指标上均优于近年来最先进的方法，与时间维度最近的cmSalGAN(TMM21)[14]相比，本文提出的模型在四个数据集上均大幅度领先，例如，在SIP数据集上，SRNet相较于cmSalGAN在 $F _ { \mathrm { a d a } }$ 及 $F _ { \beta } ^ { \omega }$ 指标上分别提高了 $2 . 6 \%$ 和 $3 . 9 \%$ ，在MAE指标上降低了$1 7 \%$ ，这充分证明了提出的模型相较于最新的cmSalGAN[14]模型,实验效果更加出色。最后，与9种对比方法中的相对最优方法，BBS-Net，相比，本文提出的SRNet仍然可以取得杰出的实验效果，具体的，SRNet在SIP及NLPR数据集上的5种评价指标均优于BBS-Net，仅在NJUD及LFSD数据集上的一些评价(如MAE)指标略低于BBS-Net，这充分证明，本文提出的模型与相对最优方法相比，仍然具有明显优势。
+
+表1与其他先进模型定性结果比较  
+Tab.1Comparison of qualitative results with other advanced models   
+
+<html><body><table><tr><td rowspan="2">Methods</td><td colspan="5">SIP</td><td colspan="4">NLPR</td><td colspan="5">NJUD</td><td colspan="5">LFSD</td></tr><tr><td>FMAX</td><td>Fada</td><td>F</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada F</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada</td><td>Fβ</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada</td><td>F</td><td>Em</td><td>MAE</td></tr><tr><td>SRNet(Ours)</td><td>0.905</td><td>0.875</td><td>0.8340.918</td><td></td><td>0.053</td><td>0.927</td><td>0.885</td><td>0.881 0.957</td><td></td><td>0.023</td><td>0.932 0.901</td><td></td><td>0.8850.923</td><td>0.035</td><td>0.882</td><td>0.859</td><td>0.812</td><td>0.8090</td><td>0.074</td></tr><tr><td>CmSalGAN</td><td>0.890</td><td>0.849</td><td>0.7950.902</td><td></td><td>0.064</td><td>0.923</td><td>0.863</td><td>0.8550.947</td><td>0.027</td><td>0.910</td><td>0.874</td><td></td><td>0.8460.907</td><td>0.046</td><td>0.851</td><td>0.831</td><td>0.761</td><td>0.870</td><td>0.097</td></tr><tr><td>BBS-Net</td><td>0.902</td><td>0.872</td><td>0.830 0.916</td><td></td><td>0.055</td><td>0.927</td><td>0.882</td><td>0.879 0.952</td><td>0.023</td><td>0.931</td><td>0.902</td><td></td><td>0.8840.924</td><td>0.035</td><td>0.879</td><td>0.858</td><td>0.814</td><td>0.889</td><td>0.072</td></tr><tr><td>CoNet</td><td>0.883</td><td>0.842</td><td>0.8030.909</td><td></td><td>0.063</td><td>0.898</td><td></td><td>0.8480.842 0.934</td><td>0.031</td><td></td><td>0.902 0.872</td><td></td><td>0.8490.912</td><td>0.046</td><td>0.877</td><td>0.848</td><td>0.815</td><td>0.896</td><td>0.071</td></tr><tr><td>DANetvgg16</td><td>0.901</td><td>0.864</td><td>0.829 0.916</td><td></td><td>0.054</td><td>0.913</td><td>0.871</td><td>0.8580.949</td><td>0.028</td><td></td><td>0.905 0.877</td><td></td><td>0.8530.916</td><td>0.046</td><td>0.871</td><td>0.827</td><td>0.789</td><td>0.827</td><td>0.082</td></tr><tr><td>DANetvgg19</td><td>0.892</td><td>0.855</td><td>0.822 0.914</td><td></td><td>0.054</td><td>0.921</td><td></td><td>0.8750.868 0.952</td><td>0.027</td><td></td><td>0.910 0.871</td><td></td><td>0.8570.908</td><td>0.045</td><td>0.871</td><td>0.831</td><td>0.795</td><td>0.874</td><td>0.079</td></tr><tr><td>BiANet</td><td>0.835</td><td></td><td>0.8000.7390.873</td><td></td><td>0.083</td><td>0.893</td><td>0.861</td><td>0.8300.940</td><td>0.032</td><td></td><td>0.884 0.849</td><td>0.820</td><td>0.906</td><td>0.055</td><td>0.775</td><td></td><td>0.7400.675</td><td>0.803</td><td>0.123</td></tr><tr><td>CMWNet</td><td>0.890</td><td>0.851</td><td>0.811</td><td>0.907</td><td>0.062</td><td>0.913</td><td>0.859</td><td>0.856 0.940</td><td>0.029</td><td></td><td>0.913 0.880</td><td>0.857</td><td>0.911</td><td>0.046</td><td>0.900</td><td>0.871</td><td>0.834</td><td>0.891</td><td>0.066</td></tr><tr><td>DNet</td><td>0.881</td><td>0.835</td><td>0.7990.902</td><td></td><td>0.063</td><td>0.907</td><td>0.862</td><td>0.8490.944</td><td></td><td>0.030</td><td>0.909 0.865</td><td></td><td>0.8540.913</td><td>0.047</td><td>0.840</td><td>0.801</td><td>0.760</td><td>0.853</td><td>0.095</td></tr><tr><td>CPFP)</td><td>0.870</td><td>0.819</td><td>0.788</td><td>0.899</td><td>0.064</td><td>0.888</td><td>0.823</td><td>0.813 0.924</td><td></td><td>0.036</td><td>0.890 0.837</td><td>0.828</td><td>0.896</td><td>0.053</td><td>0.850</td><td>0.813</td><td>0.772</td><td>0.867</td><td>0.088</td></tr></table></body></html>
+
+SIP NLPR LFSD NJUD 1.0 1.0 1.0 0.9- 0.9 业 0.7 0.8 0.9 1.0 事 0.2 0.4 Recall 0.8 1.0 F Recall 0.7 0.8 0.9 特 0.2 0.3 0.4 0.5 Recall 0.7 0.8 0.9 1.0 Recall
+
+# 2.5消融实验
+
+在这一部分，将进行消融实验以验证在 SR-Net 中设计的顺序精炼网络、PFW模块以及损失函数。具体的：
+
+1)为了验证本文提出的顺序精炼网络的有效性，本文将图2 中的三个融合节点( $F _ { p r d 1 }$ 5 $F _ { p r d 2 }$ ,Result)分别进行可视化，可视化结果如图7所示，可以直观得到，随着顺序精炼网络的进行，在初级全局特征的指导下，图像中的显著目标逐渐完整。并过滤了大部分背景噪声。再者，为了更加充分的证明本文提出的顺序精炼网络的有效性，同样将三个融合节点的输出分别进行定量分析，如表2所示，在三个数据集上对三个融合节点进行5种模型评价指标测量，实验结果如表2所示，可以清晰获得，随着顺序精炼网络的进行，融合节点所获得的显著目标检测结果质量在不断提高。因此，通过视觉与定量两种角度，都完美的验证了本文提出的顺序精炼网络的有效性。
+
+![](images/7c3c1ebdd497452a6aff2507d8da9624dfbb9e8ccc06c599c2cb2721d2a3b986.jpg)  
+图6PR曲线Fig.6PRcurve  
+图7消融实验视觉对比  
+Fig.7Visual contrast of Ablation Experiment
+
+2)如1.3所述，首先获取到初级全局特征，因初级全局特征会包含大量的关于显著目标的主要特征，因此当使用其作为指导特征时，可以精炼和加强被指导特征中所包含的重要特征，并去除冗余信息，因此本文提出PFW模块，以去除冗余信息，并获取初级全局特征的权重矩阵，以便于指导融合。为了证明本文提出的PFW模块的有效性，将图2中的PFW去除(对比模型标注为SRNeti)，初级全局特征仅通过将各层次特征进行对应元素相乘而获得，后续并未通过PFW模块去除初级全局特征包含的冗余信息，获取权重矩阵，具体的消融实验结果如表3所示。从表中可以获得，在未采用的PFW模块的对比模型中，其在三个数据集上的实验结果均低于SR-Net，且平均降低了1\~2个百分点，这充分证明了本文在SR-Net中所提出的用来获取初级全局特征权重的PFW模块的有效性。
+
+3)如1.5所述，为了更好地训练整个网络，设计了一种新的损失函数，并给予不同融合节点以不同的权重，进而强调不同融合节点对最终损失函数的影响程度不同。为了验证本文所提出的损失函数的有效性，将所设计的损失函数进行改变，即本文仅计算最终显著目标预测结果的损失函数，并给予权重为1，而并未计算过程中的融合节点的损失函数，具体的计算公式可以表示为 $\varsigma _ { l o s s } = \varsigma _ { l o s s 3 }$ 。消融实验结果(对比模型标注为SRNet2)如表3所示。可以获得，在本文设计的损失函数的优化下，本文的实验结果相较于SRNet2，在三个数据集上均处于全指标领先，领先程度也均处于1\~2个百分点，这充分证明了，在本文设计的新的损失函数的优化下，可以获得更加精准的显著目标预测结果。
+
+表2消融结果  
+Tab.2Ablation result 1   
+表3消融结果2  
+
+<html><body><table><tr><td rowspan="2">Layer</td><td colspan="5">SIP</td><td colspan="5">NLPR</td><td colspan="5">NJUD</td></tr><tr><td>FMAX</td><td>Fada</td><td>F8</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada</td><td>F</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada</td><td>F8</td><td>Em</td><td>MAE</td></tr><tr><td>Result</td><td>0.905</td><td>0.875</td><td>0.834</td><td>0.918</td><td>0.053</td><td>0.927</td><td>0.885</td><td>0.881</td><td>0.957</td><td>0.023</td><td>0.932</td><td>0.901</td><td>0.885</td><td>0.923</td><td>0.035</td></tr><tr><td>Predict2</td><td>0.898</td><td>0.870</td><td>0.817</td><td>0.914</td><td>0.059</td><td>0.920</td><td>0.879</td><td>0.863</td><td>0.954</td><td>0.026</td><td>0.927</td><td>0.895</td><td>0.870</td><td>0.921</td><td>0.039</td></tr><tr><td>Predict1</td><td>0.893</td><td>0.856</td><td>0.801</td><td>0.912</td><td>0.062</td><td>0.915</td><td>0.858</td><td>0.848</td><td>0.945</td><td>0.029</td><td>0.922</td><td>0.884</td><td>0.860</td><td>0.914</td><td>0.042</td></tr></table></body></html>
+
+Tab.3Ablation result 2   
+
+<html><body><table><tr><td rowspan="2">Category</td><td colspan="5">SIP</td><td colspan="5">NLPR</td><td colspan="5">NJUD</td></tr><tr><td>FMAX</td><td>Fada</td><td>F8</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada</td><td>F8</td><td>Em</td><td>MAE</td><td>FMAX</td><td>Fada</td><td>F</td><td>Em</td><td>MAE</td></tr><tr><td>SRNet</td><td>0.905</td><td>0.875</td><td>0.834</td><td>0.918</td><td>0.053</td><td>0.927</td><td>0.885</td><td>0.881</td><td>0.957</td><td>0.023</td><td>0.932</td><td>0.901</td><td>0.885</td><td>0.923</td><td>0.035</td></tr><tr><td>SRNet1</td><td>0.896</td><td>0.860</td><td>0.819</td><td>0.914</td><td>0.057</td><td>0.919</td><td>0.869</td><td>0.868</td><td>0.947</td><td>0.026</td><td>0.928</td><td>0.894</td><td>0.880</td><td>0.914</td><td>0.038</td></tr><tr><td>SRNet2</td><td>0.903</td><td>0.873</td><td>0.822</td><td>0.911</td><td>0.059</td><td>0.912</td><td>0.868</td><td>0.863</td><td>0.945</td><td>0.027</td><td>0.928</td><td>0.898</td><td>0.879</td><td>0.919</td><td>0.038</td></tr></table></body></html>
+
+# 2.6失败案例
+
+为了促进未来研究工作者对这一领域的研究，在这一部分，将对实验过程中的一些失败案例进行介绍，并给出对该失败案例的一些思路，如图8所示，具体的：
+
+1)深度图误导。如图8第一行图像中，因深度图像主要突出了第一个玩具，而并未强调后续玩具，促使本文模型及CoNet[10]在显著目标预测时，只将第一个玩具作为预测结果检测出来，并未识别到后续玩具。第二行图像同样证明了本文的这一观点。
+
+2)与显著目标颜色对比度相近的背景的干扰。如图8第三行图像，由于RGB图像中的雕塑与背景玩具的颜色十分相近，即使深度图只强调了雕塑，但因RGB图像中颜色对比度相近的背景的干扰，Ours,cmSalGAN[14],CoNet[16]在检测过程中，都包含了来自背景的噪声。
+
+![](images/b877267ed9170af89538ac3f742220e2a5c6a235602f2af44997fa28319993ee.jpg)  
+图8失败案例Fig.8Failure cases
+
+# 3 结束语
+
+本文提出一种新型的用于RGB-D显著目标检测的网络框架(SR-Net)。为有效整合多模态特征的互补性，将深度特征提取作为独立分支，并采用深度特征模块CBAM进行深度特征增强，整合增强后的深度特征与RGB 特征的互补信息。其次为了去除特征冗余，减少背景噪声对预测结果的干扰，在上采样网络中设计了一种顺序精炼网络，即通过整合多层次、多尺度特征的互补性，获取初级全局特征；采用通过PFW模块获取到的初级全局特征的权重矩阵进行各层次特征的精炼；最后提出一种新的损失函数，在四个公共数据集上的实验结果表明该模型在不同的模型评价指标上均优于近年来9种先进方法。
+
+# 参考文献：
+
+[1]Wang Wenguan,Shen Jianbing,Yang Ruigang,et al.,Saliency-aware video object segmentation [J].IEEE Transactions on Pattern Analysis and Machine Intelligence,2017,pp.20-33.   
+[2]Cheng Mingming,Mitra N J,Huang Xing,et al Repfinder: Finding approximately repeated scene elements for image editing,[C]// ACM Transactions on Graphics,201o:83:1-83:8.   
+[3]Fan Dengping.，Wang Ww,Cheng Mingming,et al Shifting more attention to video salient object detection [C]//The IEEE Conference on Computer Vision and Pattern Recognition,2019:8554-8564.   
+[4]Borji A.and Itt L,State-of-the-art in visual attention modeling [J].IEEE Transactions on Pattern Analysis and Machine Intelligence,2012:185- 207.   
+[5]Borji A.,Saliency prediction in the deep learning era: Successes and limitations [J].IEEE Transactions on Pattern Analysis and Machine Intelligence,2019: 679-700.   
+[6]Guo Jingfang,Ren Tongwei,Bei Jia,et al Salient object detection in RGB-D image based on saliency fusion and propagation [C]// Proceedings of the International Conference on Internet Multimedia Computing and Service (ICIMCS),2015:1-5.   
+[7]Woo S,Park J,and Lee JY, Cbam: Convolutional block attention module [C]// Proceedings of the European conference on computer vision (ECCV),2018:3-19.   
+[8]Fan Dengping,Lin Zheng,Zhang Jiaxing,Rethinking RGB-D salient object detection: Models,datasets,and large-scale benchmarks [J].IEEE Transactions on Neural Networks and Learning Systems,2020: 463-473.   
+[9]Ran Ju,Ge Ling,Ge Wenjing,T.Ren,et al.Depth saliency based on anisotropiccenter-surrounddifference[C]//IEEEInternational Conference on Image Processing,2014:1115-1119.   
+[10] Hou Wenpeng,Li Bing,Wei Huaxiong，et al.RGBD salient object detection:A benchmark and algorithms [C]// Proceedings of the European Conference on Computer Vision (ECCV),2014:92-109.   
+[11] Li Nianyi,Ye Jingwei,Yu Ji,etal Saliency detection on light field [C]// International Conference on Computer Vision,2019:7254-7263   
+[13] Chen Hao,Li Youfu,Progressively complementarity-aware fusion network for RGB-D salient object detection [C]// The IEEE Conference on Computer Vision and Patern Recognition,2018: 3051-3060.   
+[14] Jiang Bing,Zhou Zhi, Wang Xing,et al cmSalGAN: RGB-D Salient Object Detection With Cross-View Generative Adversarial Networks [J]. IEEE Transactions on Multimedia,2021:1343-1353.   
+[15] Zhai Yinjie,Fan Dengping, Yang Jufeng,Bifurcated backbone strategy for RGB-D salient object detection [J]. IEEE Transactions on Image Processing,2021: 8727-8742.   
+[16] Ji Wei, Li Jingjing,and Zhang Miao,Accurate RGB-D Salient Object Detection via Collaborative Learning [Cl//Proceedings of the European Conference on Computer Vision (ECCV),2020: 52-69.   
+[17] Zhao Xiaoqi, Zhang Lihe,Pang Youwei,et al A Single Stream Network for Robust and Real-Time RGB-D Salient Object Detection [C]/ Proceedings of the European Conference on Computer Vision (ECCV), 2020: 646-662.   
+[18] Zhang Zhao,Lin Zheng,Xu Jun, Bilateral atention network for rgb-d Salient object detection [J]. IEEE Transactions on Image Procesing, 2021:1949-1961.   
+[19]Li Gongyang,Liu Zhi, Ye Linwei,etal Cross-Modal Weighting Network for RGB-D Salient Object Detection [C]// Proceedings of the European Conference on Computer Vision (ECCV),2020: 665-681.   
+[20]Fan Dengping,Lin Zheng,Zhang Jiaxiang,et al,Rethinking RGB-D salient object detection: Models,data sets,and large-scale benchmarks, [J].IEEE Transactions on Neural Networks and Learning Systems,2020: 2075-2089.   
+[21] Zhao Jiaxing,Cao Yang,Fan Dengping,et al. Contrast prior and fluid pyramid integrationforRGBDsalientobjectdetection,[C]//Procedings of the IEEE conference on Computer Vision and Pattern Recognition (CVPR),2019:3927-3936.   
+[22] Li,Guanbing,and Yu Yizhou,Visual saliency based on multiscale deep features,[C]/ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR),2015: 5455-5463.   
+[23] Wu Zhe,Su Li,and Huang Qingming, Cascaded partial decoder for fast and accurate salient object detection [C]// Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),2019: 3907-3916.   
+[24] Liu Zhenyi,Shi Song, Zhao Peng,et al Salient object detection for RGBD image by single stream recurrent convolution neural network [C]// Neurocomputing,2019: 46-57.   
+[25] Wu Junwei, Zhou Wujie,Luo Ting,et al. Multiscale multilevel context and multimodal fusion for RGB-D salient object detection,[C]// Signal Processing, 2021.   
+[26]王豪聪，张松龙，彭力．融合边界信息和颜色特征的显著性区域检 测[J].计算机工程与应用，2019,55(3):179-183.(Wang Haocong, ZhangSonglong,Peng Li. Salient region detection based on fusion of boundary information and color features [J]. Computer engineering and Application,2019,55 (3): 179-183.)   
+[27]翟继友，屠立忠，庄严．边界先验和自适应区域合并的显著性检测 [J]．计算机工程与应用,2018,54(6):178-182.(Zhai Jiyou,TuLizhong, Zhuang yan.Significance detection of boundary a priori and adaptive region merging [J] Computer engineering and Application,2018,54 (6): 178-182.)

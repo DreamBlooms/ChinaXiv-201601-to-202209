@@ -1,0 +1,418 @@
+[
+    {
+        "type": "text",
+        "text": "Stochastic gravitational wave background from newly born massive magnetars: The role of a dense matter equation of state ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quan Cheng1\\*， Shuang-Nan Zhang1，and Xiao-Ping Zheng2.3   \n1 Key Laboratory of Particle Astrophysics,   \nInstitute of High Energy Physics,   \nChinese Academy of Sciences，Beijing 10oo49,China   \n2Institute of Astrophysic,   \nCentral China Normal University，Wuhan 430079,China   \n3 School of Physics and Electronics Information,   \nHubei University of Education,Wuhan 430205,China   \n\\*Electronic address: qcheng@ihep.ac.cn   \n(Dated: Sep 2016) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Newly born massve magnetars are generally considered to be produced by binary neutron star (NS) mergers, which could give rise to short gamma-ray bursts (SGRBs).The strong magnetic fields and fast rotation of these magnetars make them promising sources for gravitational wave (GW) detection using ground based GW interferometers.Based on the observed masses of Galactic NS-NS binaries,by assuming different equations of state (EOSs)of dense mater, we investigate the stochastic gravitational wave background (SGWB) produced by an ensemble of newly born massive magnetars.The massive magnetar formation rate is estimated through: (i) the SGRB formation rate (hereafter entitled as MFR1);(ii) the NS-NS merger rate (hereafter entitled as MFR2). We find that for massive magnetars with masses $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ ,if EOS CDDM2 is assumed, the resultant SGWBs may be detected by the future Einstein Telescope (ET) even for MFRl with minimal local formation rate,and for MFR2 with a local merger rate $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) \\lesssim 1 \\bar { 0 } \\ \\mathrm { M p c } ^ { - 3 } \\mathrm { M y r } ^ { - 1 }$ ．However,if EOS BSk21 is assumed,the SGWB may be detectable by the ETfor MFR1 with the maximal local formation rate.Moreover, the background spectra show cutoffs at about $3 5 0 \\ \\mathrm { H z }$ in the case of EOSBSk21,and at $1 2 4 ~ \\mathrm { H z }$ for CDDM2, respectively. We suggest that if the cutoff at $\\sim 1 0 0 ~ \\mathrm { H z }$ in the background spectrum from massive magnetars could be detected, then the quark star EOS CDDM2 seems to be favorable. Moreover,the EOSs, which present relatively small TOV maximum masses,would be excluded. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:04.30.-w,97.60.Jd,26.60.Kp,04.30.Db ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Short gamma-ray bursts(SGRBs) are generally considered to be arising from the coalescence of either a neutron starneutron star (NS-NS) binary or a neutron star-black hole (NSBH)binary (see [1] for a recent review).Mergers of these compact binaries produce strong gravitational wave (GW) emissions,making them promising sources for GW detection using the ground based GW interferometers such as LIGO, VIRGO,GEO60O,advanced LIGO (aLIGO),and the future Einstein Telescope (ET) [2,3]. The merger product of a NSBH binary is of course a stellar-mass BH. On the other hand, the remnant of a NS-NS merger is still an open question. Depending on the total mass of the binary system and the NS equation of state (EOS), the NS-NS merger product may be either of the following four possibilities [4-7]:(1)a stellarmass BH;(2)a differential rotation supported unstable hypermassive NS,which will collapse into a BHin a few tens milliseconds; (3) a centrifugal force supported temporarily stable massive NS,which will collapse into a BH when the NS is spun down;(4) an eternally stable massive NS.The massive NS remnants are suggested to possess strong surface dipole and internal toroidal magnetic fields,which are amplified due to various mechanisms,such as Kelvin-Helmholtz instability [8],magnetorotational instability [9] during/after the merger, $\\alpha - \\omega$ dynamo in the nascent millisecond NS [1O],and the combined effectof r-mode and Tayler instabilities[11].Observationally, the existence of extended emissions[12], x-ray flares [13],and internal $\\mathbf { \\boldsymbol { x } }$ -rayplateaus [14] ina large sample of SGRBs $\\mathbf { \\boldsymbol { x } }$ -ray lightcurves support the idea that the central object of some SGRBs could be a highly magnetized,millisecond rotating NS. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strong GW emission is expected in the final inspiral process of a NS-NS binary. Moreover, if the merger product is either(3) or (4),the remnant can also produce strong longlasting GW signals, though their strengths may be relatively weak.Generally,the fast rotating，massive NS can emit GWs because of nonaxisymmetric instabilities,e.g., dynamical bar-mode instability[15], r-mode instability[16], f-mode instability [17]. On the other hand,strong internal magnetic fields of the massive magnetar can lead to nonaxisymmetric quadrupole deformation,which could also produce GW emission[18-21]. The amplitude of the magnetically induced GW signal is proportional to the quadrupole ellipticity [18], which mainly depends on the EOS,the magnetic energy,and the interior magnetic field configuration of the NS (see, e.g. [18,20,22-29]). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Superposition of the magnetically induced GW emissions from an ensemble of magnetars throughout the Universe can contribute to the astrophysical stochastic GW background (SGWB). The SGWB from the magnetic deformation of newly born magnetars has been discussed in many literature references [3O-33].However, in these papers,the magnetar mass is assumed to be a canonical value of $1 . 4 M _ { \\odot }$ ，which means these magnetars are eternally stable. Actually, the magnetars produced by NS-NS mergers apparently have masses muchlarger than $1 . 4 M _ { \\odot }$ ,and they may notbe always stable [e.g.,product (3) mentioned above]. For a single source, the collapse of the magnetar will lead to the cease of GW emission at a certain frequency.Hence,in order to derive a realistic SGWB produced by the magnetic deformation of newly born massive magnetars,both the EOS of dense matter and the masses of magnetars should be taken into account.In this paper,we reconsider the SGWB produced by magnetic deformation of the newly born,massive magnetars based on typical NS and quark star(QS) EOSs,and the observed masses ofthe Galactic NS-NSbinaries.The motivation of considering the QS EOS is the recent statistical analysis of internal X-ray plateaus of SGRBs that shows that QS remnants might be more preferred than NSs [34]. The paper is organized as follows: in Sec. II, we show how the GW signal from a single newly born massive magnetar is affected by the EOS.In Sec. III, we estimate the massive magnetar formation rate (MMFR) based on two different results:(i) the SGRB rate at redshift $z$ suggested in [35]; (ii) the NS-NS merger rate as predicted by Regimbau and Hughes [36].Results for the SGWBs produced byan ensemble of newly born massive magnetars are shown in Sect.IV.Conclusion and discussions are presented in Sect. V. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II.GWEMISSIONFROMTHENEWLYBORNMASSIVE MAGNETAR ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We assume that all SGRBs are produced by NS-NS mergers,and the merger remnants are either temporarily or eternally stable massive NSs/QSs. Generally, in the merger process, only $\\lesssim 1 0 ^ { - 2 } M _ { \\odot }$ materials are ejected from the NS-NS binary system [37].Hence,the total rest mass of the system is basically conserved, e.g., $M _ { \\mathrm { r , m } } = M _ { \\mathrm { r } , 1 } + M _ { \\mathrm { r } , 2 }$ ，where $M _ { \\mathrm { r , m } }$ represents the rest mass of the massive magnetar remnant, $M _ { \\mathrm { r } , 1 }$ and $M _ { \\mathrm { r } , 2 }$ are the rest masses of the two NSs,respectively.Based on the approximate relation [38] between rest and gravitational masses,by assuming that the extragalactic NS-NS binaries have the same gravitational mass distribution as the Galactic NS-NS binary population,one can easily estimate the distribution of gravitational mass $M _ { \\mathrm { m g } }$ for the massive magnetar remnants [5-7,34]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Until now thereare six Galactic NS-NSbinariesthat have arelatively accurate measured gravitational mass for each NS in the binary system; they are PSR JO737-3039 (with gravitational masses $M _ { \\mathrm { { g , 1 } } } = 1 . 3 3 8 1 M _ { \\odot }$ and $M _ { \\mathrm { g } , 2 } = 1 . 2 4 8 9 M _ { \\odot }$ for the two NSs, respectively), PSR $\\mathbf { B } 1 5 3 4 \\substack { + 1 2 }$ $( M _ { \\mathrm { { g , 1 } } } ~ = ~ 1 . 3 3 3 2 M _ { \\odot }$ and $M _ { \\mathrm { { g } , 2 } } = 1 . 3 4 5 2 M _ { \\odot } )$ , PSR $\\mathbf { B } 1 9 1 3 + 1 6$ $( M _ { \\mathrm { g , 1 } } = 1 . 4 3 9 8 M _ { \\odot }$ and $M _ { \\mathrm { { g } , 2 } } = 1 . 3 8 8 6 M _ { \\odot } )$ ,PSR $B 2 1 2 7 + 1 1 \\mathrm { C }$ 0 $M _ { \\mathrm { g , 1 } } = 1 . 3 5 8 M _ { \\odot }$ and $M _ { \\mathrm { { g } , 2 } } ~ = ~ 1 . 3 5 4 M _ { \\odot } )$ ,PSR $\\mathrm { J 1 9 0 6 + 0 7 4 6 }$ 1 $( M _ { \\mathrm { { g , 1 } } } = 1 . 2 4 8 M _ { \\odot }$ and $M _ { \\mathrm { g } , 2 } = 1 . 3 6 5 M _ { \\odot } )$ , and PSR J1756-2251 $( M _ { \\mathrm { g } , 1 } = 1 . 4 0 M _ { \\odot }$ and $M _ { \\mathrm { g } , 2 } = 1 . 1 8 M _ { \\odot } )$ [39]. Therefore,the gravitational mass of the massive magnetar remnant is $2 . 4 0 4 6 M _ { \\odot }$ as inferred from the binary system PSR JO737-3039, $2 . 4 8 4 5 M _ { \\odot }$ inferred from PSR $\\mathbf { B } 1 5 3 4 \\substack { + 1 2 }$ ， $2 . 6 1 5 4 M _ { \\odot }$ inferred from PSR $\\mathbf { B } 1 9 1 3 + 1 6$ $2 . 5 1 3 9 M _ { \\odot }$ inferred from PSR $B 2 1 2 7 + 1 1 \\mathrm { C }$ ， $2 . 4 2 7 6 M _ { \\odot }$ inferred fromPSR $\\mathrm { J 1 9 0 6 + 0 7 4 6 }$ ， $2 . 3 9 9 6 M _ { \\odot }$ inferred fromPSR J1756-2251. The average gravitational mass of the massive magnetars is thus $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot } .$ ,and we take this value as the typical mass for the massive magnetars in the remainder of this paper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For a nonrotating NS/QS, the maximum gravitational mass that it could sustain is the Tolman-Oppenheimer-Volkoff (TOV）maximum mass, $M _ { \\mathrm { T O V } }$ ，which is determined by the NS/QS EOSs.However, centrifugal forces due to the uniform rotation of the merger remnant could increase the maximum sustainable gravitational mass.Li et al.[34] calculated equilibrium sequences of uniformly rotating NS/QS configurations with a spin frequency increasing from O to the Keplerian spin limit and obtained analytical expressions for the maximum gravitational mass $M _ { \\mathrm { g , m a x } }$ ， the corresponding equilibrium radius $R _ { \\mathrm { e q } }$ (in kilometers),and the corresponding maximum moment of inertia $I _ { \\mathrm { m a x } }$ of aNS/QS with a spin period $P$ (in milliseconds),which,respectively,have the following form: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { \\displaystyle M _ { \\mathrm { g , m a x } } ~ = ~ { \\cal M } _ { \\mathrm { T O V } } ( 1 + \\alpha P ^ { \\beta } ) ; } } \\\\ { { \\displaystyle R _ { \\mathrm { e q } } ~ = ~ { \\cal C } + { \\cal A P } ^ { \\beta } ; } } \\\\ { { \\displaystyle I _ { \\mathrm { m a x } } ~ = ~ { \\cal M } _ { \\mathrm { g , m a x } } R _ { \\mathrm { e q } } ^ { 2 } \\displaystyle \\frac { a } { 1 + e ^ { - k ( P - q ) } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $M _ { \\mathrm { g , m a x } }$ and $M _ { \\mathrm { T O V } }$ are measured in solar masses.The fitting parameters $\\alpha , \\beta , A , B , C , a , q$ and $k$ are EOS dependent.For the typical NS (BSk21 [4O]) and QS (CDDM2 [41]) EOSs considered in this paper, the specific values of these parametersas well as $M _ { \\mathrm { T O V } }$ can be found in Table1of[34]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From Eq.(1),one can define the collapse frequency, $\\nu _ { \\mathrm { c o l l } } =$ $1 / P _ { \\mathrm { c o l l } }$ ，below which the massive magnetar with a gravitational mass $M _ { \\mathrm { m g } } ~ = ~ M _ { \\mathrm { g , m a x } } ( P _ { \\mathrm { c o l l } } )$ will immediately collapse into a BH. The specific form of $\\nu _ { \\mathrm { c o l l } }$ is [5-7] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\nu _ { \\mathrm { c o l l } } = \\left( \\frac { \\alpha M _ { \\mathrm { T O V } } } { M _ { \\mathrm { m g } } - M _ { \\mathrm { T O V } } } \\right) ^ { 1 / \\beta } .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If $\\nu _ { \\mathrm { c o l l } } \\leq 0$ (i.e., $M _ { \\mathrm { { m g } } } \\leq M _ { \\mathrm { { T O V } } } )$ ,the massive magnetar is eternally stable.However,if $0 < \\nu _ { \\mathrm { c o l l } } < \\nu _ { \\mathrm { i } }$ (with $\\nu _ { \\mathrm { i } }$ represents the initial spin frequency), the massive magnetar is temporarily stable,and it will collapse into a BH when the star spins down to $\\nu _ { \\mathrm { c o l l } }$ due to GW emission and magnetic dipole radiation (MDR). Lastly, if $\\nu _ { \\mathrm { c o l l } } > \\nu _ { \\mathrm { i } }$ ,the massive magnetar will collapse intoaBHimmediatelyafteritisborn.Remarkable GW emissions from the central remnant are expected only in the first two cases (i.e.,eternally stable and temporarily stable magnetars).For the EOSs BSk21 and CDDM2 considered here,the massive magnetar remnant with an initial spin at the Keplerian limit should be temporarily stable because $0 < \\nu _ { \\mathrm { c o l l } } < \\nu _ { \\mathrm { i } }$ (see below).Other EOSs that provide $M _ { \\mathrm { T O V } } > 2 . 4 7 4 3 M _ { \\odot }$ will result in an eternally stable massive magnetar,and continuous GW emission extended to lowerfrequencies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The newly born massive magnetar spins down mainly through MDR and magnetically induced GW emission. Therefore, the evolution formula for the angular frequency $\\omega$ of the magnetar can be written as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\omega } = - \\frac { B _ { \\mathrm { d } } ^ { 2 } R ^ { 6 } \\omega ^ { 3 } } { 6 I c ^ { 3 } } - \\frac { 3 2 G \\epsilon _ { \\mathrm { B } } ^ { 2 } I \\omega ^ { 5 } } { 5 c ^ { 5 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { \\mathrm { d } }$ is the surface dipole magnetic field at the magnetic pole, $R$ the radius,and $I$ the moment of inertia of star. By adopting different interior magnetic field configurations and stellar interior structures,the magnetically induced quadrupole ellipticity $\\epsilon _ { \\mathrm { B } }$ has been calculated in many literature references (e.g.,[18,2O-29]). Some nonlinear numerical simulations show that the interior magnetic field probably has a poloidal-toroidal twisted-torus shape [42]. However,even for this configuration, the dominated one is usually the toroidal field component. In the toroidal-dominated case, $\\epsilon _ { \\mathrm { B } }$ is related to the volume-averaged strength of the toroidal field ${ \\bar { B } } _ { \\mathrm { t } }$ [23],which is hard to be determined directly. Generally, $\\bar { B } _ { \\mathrm { t } } / B _ { \\mathrm { d } } \\ \\approx \\ 5 \\mathrm { - } 1 0 0$ with $B _ { \\mathrm { d } }$ the dipole magnetic field of the magnetar is proposed following the observations of giant flare from SGR 1806-20 [19], free precession of magnetar 4U $0 1 4 2 + 6 1$ [43], $\\mathbf { X }$ -ray afterglows of some SGRBs [44], and lightcurves of superluminous supernovae [45]. For a NS the ellipticity can be estimated as $\\bar { \\epsilon _ { \\mathrm { B } } } ~ \\approx ~ 1 0 ^ { - 4 } ( \\bar { B } _ { \\mathrm { t } } / 1 0 ^ { 1 6 } ~ \\mathrm { G } ) ^ { 2 }$ [23,46]. While for a QS,if it is in the two-flavor color superconductivity phase1 [47], the ellipticity is approximated as $\\bar { \\epsilon } _ { \\mathrm { B } } \\approx 7 \\times 1 0 ^ { - \\bar { 4 } } ( \\bar { B } _ { \\mathrm { t } } / 1 0 ^ { 1 6 } \\mathrm { ~ G } )$ for the mass and radius adopted thereinafter [5O]. On the other hand, $\\epsilon _ { \\mathrm { B } }$ can be constrained via analyzing the internal $\\mathbf { \\boldsymbol { x } }$ -rayplateau afterglows of SGRBs [7,34]. Specifically,depending on the EOSs,the ellipticity of the massive magnetar is confined to be $\\epsilon _ { \\mathrm { B } } ~ = ~ 0 . 0 0 2$ for NS EOS BSk21 and $\\begin{array} { l } { \\epsilon _ { \\mathrm { B } } } \\end{array} = \\begin{array} { l } { 0 . 0 0 4 - 0 . 0 0 7 } \\end{array}$ for QS EOS CDDM2 [34]. Thereinafter, the representative ellipticities $\\epsilon _ { \\mathrm { B } } ~ = ~ 0 . 0 0 5$ (the value with the best Kolmogorov-Smirnov test),and $\\epsilon _ { \\mathrm { B } } ~ = ~ 0 . 0 0 2$ will be taken for EOSs CDDM2,and BSk21,respectively, while calculating the GW signal emitted by a single magnetar and the SGWB from the massive magnetar population [34]. The corresponding strength of the toroidal field is thus $\\bar { B } _ { \\mathrm { t } } \\approx 4 . 5 \\times 1 0 ^ { 1 6 } ( \\bar { 7 . 1 } \\times 1 0 ^ { \\bar { 1 } 6 } )$ G for a NS (QS). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The GW energy spectrum emitted by a single newly born massivemagnetarcanbe estimated as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d E _ { \\mathrm { G W } } } { d \\nu _ { \\mathrm { e } } } = \\frac { 3 2 \\pi G } { 5 c ^ { 5 } } \\epsilon _ { \\mathrm { B } } ^ { 2 } I ^ { 2 } \\omega ^ { 6 } \\left| \\dot { \\omega } ^ { - 1 } \\right| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\nu _ { \\mathrm { e } } = \\omega / \\pi$ is the GW frequency at the source frame.One can also obtain the characteristic amplitude of the emitted GW as follows [51, 52]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { \\mathrm { c } } ( \\nu _ { \\mathrm { e } } ) = \\frac { \\nu _ { \\mathrm { e } } h ( t ) } { \\sqrt { d \\nu _ { \\mathrm { e } } / d t } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\begin{array} { r } { h ( t ) = \\frac { 4 \\pi ^ { 2 } G I \\epsilon _ { \\mathrm { B } } \\nu _ { \\mathrm { e } } ^ { 2 } } { c ^ { 4 } d } } \\end{array}$ 4n2Glyis theGWstrainamplitude,dis the distance to the source. To assess the detectability of the GW signal,we calculate the optimal (matched-filter) signal-to-noise ratio (SNR) as [52] ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S } / \\mathrm { N } = \\left[ \\int _ { \\nu _ { \\mathrm { e , m i n } } } ^ { \\nu _ { \\mathrm { e , m a x } } } \\frac { h _ { \\mathrm { c } } ^ { 2 } } { \\nu _ { \\mathrm { e } } ^ { 2 } S _ { h } ( \\nu _ { \\mathrm { e } } ) } d \\nu _ { \\mathrm { e } } \\right] ^ { 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $\\nu _ { \\mathrm { e , m i n } } ( = 2 \\nu _ { \\mathrm { c o l l } } )$ and $\\nu _ { \\mathrm { e , m a x } } ( = 2 \\nu _ { \\mathrm { i } } )$ are,respectively,the minimum and maximum GW frequencies emitted by the magnetar, $S _ { h } ( \\nu _ { \\mathrm { e } } )$ is the one-sided noise power spectral density of the detector. The analytical expressions of $S _ { h } ( \\nu _ { \\mathrm { e } } )$ can be found in [53] for aLIGO and ET. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We do not follow instantaneous variations of the gravitational mass,radius,and moment of inertia with the spin-down of the massive magnetar, though all these quantities should actually decrease². For simplicity,we take a typical gravitational mass $M _ { \\mathrm { m g } }$ ，radius $R$ ，and moment of inertia $I$ for the massive magnetar and assume they do not evolve with time during spin-down. For a magnetar with $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ ,its $R$ and $I$ are EOS dependent, which can be estimated as follows. The radius $R$ is approximately estimated by substituting the derived collapse period $P _ { \\mathrm { c o l l } } = 1 / \\nu _ { \\mathrm { c o l l } }$ into Eq. (2). Then with $R$ and $P _ { \\mathrm { c o l l } }$ ,using Eq. (3), the moment of inertia $I$ can be obtained approximately. The resultant radius and moment of inertia of the $2 . 4 7 4 3 M _ { \\odot }$ magnetar are,respectively, $R = 1 2 . 6 6$ (16.31) km and $I = 3 . 6 8 \\times 1 0 ^ { 4 5 }$ （ $( 5 . 5 0 \\times \\mathrm { \\bar { 1 0 } } ^ { 4 5 } ,$ $\\operatorname { g c m } ^ { 2 }$ if EOS BSk21(CDDM2) is assumed. Obviously, $R$ and $I$ are underestimated for the $2 . 4 7 4 3 M _ { \\odot }$ magnetar that initially spins at the Keplerian limit $P _ { \\mathrm { { K } } }$ . As a rough estimation,assuming a constant mass $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ ,the ratio between the magnetar radii obtained at $P _ { \\mathrm { { K } } }$ and at $P _ { \\mathrm { c o l l } }$ is $R ( P _ { \\mathrm { K } } ) / R ( P _ { \\mathrm { c o l l } } ) \\approx 1 . 1$ (1.4) for EOS BSk20 (CDDM1) (see Fig.1 of [34]). Furthermore, with the spin-down of the magnetar, $R ( P ) / R ( P _ { \\mathrm { c o l l } } )$ should decrease and become equal to 1 when $P _ { \\mathrm { c o l l } }$ is reached,where $R ( P )$ denotes the instantaneous radius of the magnetar with a spin period $P$ ． For EOSs BSk21 and CDDM2 considered, $R ( P _ { \\mathrm { K } } ) / R ( P _ { \\mathrm { c o l l } } )$ are not expected to vary too much from the above values.Following Eqs.(7) and (6),we have $h _ { \\mathrm { c } } \\propto R$ ,and $d E _ { \\mathrm { G W } } / d \\nu _ { \\mathrm { e } } \\propto R ^ { 2 }$ during the early period of spin-down when the GW emission is dominant. Consequently, our choice of a constant $R$ will at most underestimate the characteristic amplitude $h _ { \\mathrm { c } }$ ,and the background emission $\\Omega _ { \\mathrm { G W } }$ [see Eq. (14)] by a factor of1.4 and 2,respectively.Hence,it is reasonable to take a constant $R$ and $I$ for a specific EOS in the calculations below³. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Following Li et al. [34], the dipole magnetic field of the massive magnetar is taken to be $\\bar { B } _ { \\mathrm { d } } = 1 0 ^ { \\bar { 1 } 5 } \\mathrm { ~ G ~ }$ ，and the initial angular frequency is taken as $\\omega _ { \\mathrm { i } } = 2 \\pi / P _ { \\mathrm { K } }$ .The values of $P _ { \\mathrm { { K } } }$ forEOSs BSk21 and CDDM2 can be found in [34]. AssumingEOSs BSk21 and CDDM2,we show the characteristic amplitude $h _ { \\mathrm { c } }$ of the GW signal versus the emitted frequency $\\nu _ { \\mathrm { e } }$ in Fig.1. The distance to the source is taken to be $d = 1 0 0$ Mpc.The massive magnetar with $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ is temporarily stable for EOSs BSk21 and CDDM2,and it will not collapse until $\\nu _ { \\mathrm { c o l l } }$ isreached.The collapse of the magnetar is manifested as a catastrophic cutoff in the emitted GW signal at $2 \\nu _ { \\mathrm { c o l l } }$ ，which isabout $2 4 5 3 ~ \\mathrm { H z }$ for EOS BSk21,and 868 ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5bbbc94ea187ef141f501c410427599dba01060dede9729ca382addaf8ab7d7.jpg",
+        "img_caption": [
+            "FIG.1:The GW characteristic amplitude $h _ { \\mathrm { c } }$ versus the emitted frequency $\\nu _ { \\mathrm { e } }$ ,calculated byassumingNSEOSBSk21 (red line) and QS EOS CDDM2 (green line).For comparison, the rms strain noises for LIGO(solid line),VIRGO(dashed line),aLIGO (dotted line),and the future ET (dash-dotted line) are also presented [53]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hz for EOS CDDM2,as shown in Fig.1. For EOS BSk21, the GW signal emitted by the massive magnetar extends from about $3 3 2 2 ~ \\mathrm { H z }$ down to $2 4 5 3 ~ \\mathrm { H z }$ .While forEOS CDDM2, the emitted GW is at lower frequency band,which covers the range from 1778 to $8 6 8 \\ \\mathrm { H z }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e5dbff876f7f08dabbb5df74fc51a53fd26e0beefa4fa625e966accc2bcd734.jpg",
+        "img_caption": [
+            "FIG.2: The SNR S/N of the GW signal emitted by a single massive magnetar versus the magnetar's interior toroidal magnetic field ${ \\bar { B } } _ { \\mathrm { t } }$ The SNRs are calculated by assuming NS EOS BSk21 (red lines), andQSEOS CDDM2(green lines),respectively.The solid lines represent the SNRs obtained using future ET,while the dashed lines show the results derived using aLIGO.The dotted line indicates the detection threshold for a single-detector search.The stars show the SNRs calculated by adopting various representative ellipticities and for different detectors (see the text). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the strength of ${ \\bar { B } } _ { \\mathrm { t } }$ ofa newly born magnetar is highly uncertain,in order to comprehensively show how ${ \\bar { B } } _ { \\mathrm { t } }$ could affect the detectability of GW signal from a single source,in Fig. 2, the SNR $\\mathrm { { } } S / \\mathrm { { N } }$ is plotted as a function of ${ \\bar { B } } _ { \\mathrm { t } }$ ，whose range is $\\sim 5 \\mathrm { - } 1 0 0 B _ { \\mathrm { d } }$ as discussed above4．Obviously,with the increase of ${ \\bar { B } } _ { \\mathrm { t } }$ , the SNR is gradually enhanced. However, for different EOSs,the evolution behaviors of $\\mathrm { { } _ { S / N } }$ with $\\bar { B } _ { \\mathrm { t } }$ differ significantly. Compared with EOS CDDM2,as $\\bar { B } _ { \\mathrm { t } }$ increases, $\\mathrm { { } } S / \\mathrm { { N } }$ shows a more obvious trend of getting saturated when EOS BSk21 is assumed.This is because for NS EOS BSk21,the ellipticity is_more sensitive to the increase of $\\bar { B } _ { \\mathrm { t } }$ $( \\epsilon _ { \\mathrm { \\tiny B } } \\ \\propto \\bar { B } _ { \\mathrm { t } } ^ { 2 }$ versus $\\epsilon _ { \\mathrm { B } } \\propto \\bar { B } _ { \\mathrm { t } }$ for QS EOS CDDM2). When $\\epsilon _ { \\mathrm { B } }$ is large enough, GW emission will dominate the spin-down; thus,we have $\\mathrm { S } / \\mathrm { N } \\propto h ( t ) / \\sqrt { d \\nu _ { \\mathrm { e } } / d t } =$ const. Moreover, using the same detector, the derived SNR is higher for EOS CDDM2,since the sensitivities of the detectors are better at a relatively low frequency band. Assuming EOS BSk21, the SNRs of the GW emitted by the magnetar with a representative ellipticity $\\epsilon _ { \\mathrm { B } } = 0 . 0 0 2$ are 4.18 for ET (red flled star in Fig. 2) and O.17 for aLIGO (red hollow star).While assuming EOS CDDM2 and $\\epsilon _ { \\mathrm { B } } ~ = ~ 0 . 0 0 5$ ，we have $S / \\mathrm { N } { = } 1 6 . 6 5$ for ET (green filled star in Fig.2) and $\\mathrm { S } / \\mathrm { N } { = } 0 . 7 2$ foraLIGO（green hollow star).Adopting a single-detector search, the detection threshold is roughly $S / \\mathrm { N } { = } 8$ [54].Hence,using ET, the emitted GW by the $2 . 4 7 4 3 M _ { \\odot }$ magnetar at $1 0 0 { \\mathrm { M p c } }$ is undetectable if ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EOS BSk21 is assumed even for $\\bar { B } _ { \\mathrm { t } } = 1 0 ^ { 1 7 }$ G. For comparison,when EOS CDDM2 is assumed,a detectable GW signal is expected if $\\bar { B } _ { \\mathrm { t } } \\gtrsim 2 . 3 \\times 1 0 ^ { 1 6 } \\mathrm { G }$ (see Fig. 2), which may easily be achieved for newly born magnetars. Consequently,if future ET could detect the GW emitted by the $2 . 4 7 4 3 M _ { \\odot }$ magnetar, then QS EOS CDDM2 will be more preferred. Moreover, observation of the cutoff in the GW signal using ET may provide us an important channel to distinguish different EOSs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.THEMASSIVEMAGNETARFORMATIONRATE ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asa quite rough estimation, the MMFR can be considered to be equal to the formation rate of SGRBs because we have assumed that only NS-NS mergers produce SGRBs and the merger products can only be temporarily stable or eternally stable massive magnetars. Obviously,this assumption will lead to an overestimation of the MMFR.Using the spectral peak energy-peak luminosity correlation for SGRBs，Yonetokuetal.[35]determined theredshiftsof72BATSE SGRBs andobtained the relation between the SGRB formation rate and the redshift,which has the following form: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { \\mathrm { S G R B } } ( z ) = \\left\\{ \\begin{array} { l l } { \\rho _ { \\mathrm { S G R B } } ( 0 ) ( 1 + z ) ^ { 6 } } & { , 0 < z < 0 . 6 7 } \\\\ { \\rho _ { \\mathrm { S G R B } } ( 0 ) \\times 1 . 6 7 ^ { 6 } } & { , z \\geq 0 . 6 7 } \\end{array} \\right. ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\rho _ { \\mathrm { S G R B } } ( 0 )$ is the local SGRB formation rate5.Hereafter, werefer to thisasmagnetarformation rate1(MFR1) and assume that the MMFR can be described by Eq. (9) up to $z _ { * } \\sim 6$ The minimum SGRB formation rate at $z = 0$ is estimated to be $\\rho _ { \\mathrm { S G R B , m i n } } ( 0 ) = 1 . 1 5 \\times 1 0 ^ { - 7 }$ events $\\mathrm { { M p c } } ^ { - 3 } \\mathrm { { y r } ^ { - 1 } }$ by involving the geometrical correction of beaming angles [35]. On the other hand,using the peak fluxes of $1 4 S$ wiftSGRBs,redshifts,and beaming angles inferred from $\\mathbf { \\boldsymbol { x } }$ -rayobservations,Coward et al.[55] obtained an upper limit for the local formation rate as $\\rho _ { \\mathrm { S G R B , m a x } } ( 0 ) = 1 . 1 \\times 1 0 ^ { - 6 }$ events $\\mathrm { { M p c } } ^ { - 3 } \\mathrm { { y r } ^ { - 1 } }$ in the case of beamed emission. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To estimate the MMFR,one can also equivalently estimate the NS-NS merger rate under the assumption that NSNS mergers can only produce temporarily stable or eternally stable massive magnetars.Hereafter,we refer to the MMFR derived in this way as magnetar formation rate 2 (MFR2). Assuming that the NS-NS merger rate tracks the cosmic star formation rate(CSFR) with the time delay $t _ { \\mathrm { d } }$ from formation of the NS binary to the final merger, the observed NS-NS merger rate at redshift $z$ can be written as [36] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { 0 } } ( z ) = \\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { 0 } } ( 0 ) \\times \\frac { \\dot { \\rho } _ { \\ast , \\mathrm { c } } ( z ) } { \\dot { \\rho } _ { \\ast , \\mathrm { c } } ( 0 ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where ${ \\dot { \\rho } } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 )$ is the observed local merger rate per unit volume, whose value can be extrapolated by multiplying the Galactic NS-NS merger rate with the density of Milky Way-like galaxies.Following Regimbau and Hughes [36],we take two representative values for the local merger rate: (i) $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) = 1 0 \\$ $\\mathrm { M p c } ^ { - 3 } \\mathrm { M y r } ^ { - 1 }$ , which is the upper limit of the local merger rate; (ii) $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) \\dot { = } 1 \\mathrm { M p c } ^ { - 3 } \\mathrm { M y r } ^ { - 1 }$ ,which represents the most probable value for the rate.The NS-NS merger rate is related to the CSFR by the quantity $\\dot { \\rho } _ { * , \\mathrm { c } } ( z )$ ,which can be given as [36] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho } _ { \\ast , \\mathrm { c } } ( z ) = \\int \\frac { \\dot { \\rho } _ { \\ast } ( z _ { \\mathrm { f } } ) } { 1 + z _ { \\mathrm { f } } } P ( t _ { \\mathrm { d } } ) d t _ { \\mathrm { d } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\dot { \\rho } _ { * }$ is the CSFR. $z$ and $z _ { \\mathrm { f } }$ are the redshifts at which the NS-NS binary mergers and its progenitor binary initially formed, respectively. $t _ { \\mathrm { d } }$ is the time difference between the formation of the progenitor binary and the compact binary, plus the merging time of the binary. It also represents the lookback time between $z$ and $z _ { \\mathrm { f } }$ ，which has an approximate for $\\begin{array} { r } { \\mathfrak { n } t _ { \\mathrm { d } } \\simeq \\frac { 2 } { 3 H _ { 0 } } ( 1 / \\sqrt { \\Omega _ { m } ( 1 + z ) ^ { 3 } + \\Omega _ { \\Lambda } } - 1 / \\sqrt { \\Omega _ { m } ( 1 + z _ { \\mathrm { f } } ) ^ { 3 } + \\Omega _ { \\Lambda } } ) } \\end{array}$ In this paper, the ΛCDM cosmological model is taken with the Hubble constant $H _ { 0 } = 7 0 \\mathrm { k m s ^ { - 1 } M p c ^ { - 1 } }$ ， $\\Omega _ { m } = 0 . 3$ ，and $\\Omega _ { \\Lambda } = 0 . 7$ . Based on the result of population synthesis (see [36] and references therein),the probability distribution $P ( t _ { \\mathrm { d } } )$ for the time delay $t _ { \\mathrm { d } }$ is given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( t _ { \\mathrm { d } } ) \\propto 1 / t _ { \\mathrm { d } } \\mathrm { \\ w i t h \\ } t _ { \\mathrm { d } } > \\tau _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "for some minimal delay time $\\tau _ { 0 }$ .ForNS-NS binary, the minimal delay time is assumed to be $\\tau _ { 0 } = 2 0$ Myr,which corresponds to the evolution time from massive binaries to NS-NS binaries [36]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the CSFR,we use the result suggested in Hopkins and Beacom [56]. Based on the new measurements of the galaxy luminosity function in the UV and far-infrared wavelengths, they refined the previous models up to $z _ { * } \\sim 6$ and obtained a parametric fit formula for the CSFR,which takes the following form [56]: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { \\rho } _ { * } ( z ) = h \\frac { 0 . 0 1 7 + 0 . 1 3 z } { 1 + ( z / 3 . 3 ) ^ { 5 . 3 } } M _ { \\odot } \\mathrm { y r } ^ { - 1 } \\mathrm { M p c } ^ { - 3 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $h = 0 . 7$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IV. RESULTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The SGWB is generally represented by the dimensionless quantity, $\\Omega _ { \\mathrm { G W } } ( \\nu _ { \\mathrm { o b s } } )$ ，which describes the distribution of the GW energy density versus the GW frequency in the observer frame $\\nu _ { \\mathrm { o b s } }$ . The SGWB produced by the magnetic deformation of an ensemble of newly born massive magnetars is given by [30, 31, 33] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { \\mathrm { G W } } ( \\nu _ { \\mathrm { o b s } } ) = \\frac { 8 \\pi G \\nu _ { \\mathrm { o b s } } } { 3 H _ { 0 } ^ { 3 } c ^ { 2 } } \\int _ { z _ { \\mathrm { l o w } } } ^ { z _ { \\mathrm { u p p } } } \\frac { \\rho _ { \\mathrm { M F R } } ( z ) } { ( 1 + z ) E ( \\Omega , z ) } \\frac { d E _ { \\mathrm { G W } } } { d \\nu _ { \\mathrm { e } } } d z ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\nu _ { \\mathrm { o b s } } ~ = ~ \\nu _ { \\mathrm { e } } / ( 1 + z ) , ~ E ( \\Omega , z ) ~ = ~ \\sqrt { \\Omega _ { m } ( 1 + z ) ^ { 3 } + \\Omega _ { \\Lambda } }$ ，and $\\rho _ { \\mathrm { M F R } } ( z )$ is the MMFR,which can be substituted by Eqs. (9) or (10). $z _ { \\mathrm { u p p } }$ and the $z _ { \\mathrm { l o w } }$ are the upper and lower limits of the redshift integration,respectively. $z _ { \\mathrm { u p p } }$ depends on the maximal redshift $z _ { * }$ of the MMFR model and the maximal value of $\\nu _ { \\mathrm { e } }$ i.e., $z _ { \\mathrm { u p p } } = \\mathrm { m i n } ( z _ { \\ast } , \\nu _ { \\mathrm { e , m a x } } / \\nu _ { \\mathrm { o b s } } - 1 )$ . While $z _ { \\mathrm { l o w } }$ is determined by the minimal value of $\\nu _ { \\mathrm { e } }$ ,i.e., $z _ { \\mathrm { l o w } } = \\mathrm { m a x } ( 0 , \\nu _ { \\mathrm { e , m i n } } / \\nu _ { \\mathrm { o b s } } - 1 )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The optimal SNR of the background emission foran observation time $T$ is given as [57] ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\mathrm { S } / \\mathrm { N } ) _ { \\mathrm { B } } = \\left[ \\frac { 9 H _ { 0 } ^ { 4 } T } { 5 0 \\pi ^ { 4 } } \\int _ { 0 } ^ { \\infty } \\frac { \\gamma ^ { 2 } ( \\nu _ { \\mathrm { o b s } } ) \\Omega _ { \\mathrm { G W } } ^ { 2 } ( \\nu _ { \\mathrm { o b s } } ) } { \\nu _ { \\mathrm { o b s } } ^ { 6 } S _ { h 1 } ( \\nu _ { \\mathrm { o b s } } ) S _ { h 2 } ( \\nu _ { \\mathrm { o b s } } ) } d \\nu _ { \\mathrm { o b s } } \\right] ^ { 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { h 1 } ( \\nu _ { \\mathrm { o b s } } ) , S _ { h 2 } ( \\nu _ { \\mathrm { o b s } } )$ are the noise power spectral densities of the two detectors,and $\\gamma$ is the normalized overlap reduction function. For two colocated and coaligned detectors, $\\gamma = 1$ ,and we simply assume $S _ { h 1 } ( \\nu _ { \\mathrm { o b s } } ) = S _ { h 2 } ( \\nu _ { \\mathrm { o b s } } )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "By considering different MMFR models (MFR1 and MFR2) and EOSs (BSk21 and CDDM2), in Fig.3,we plot the SGWBs contributed by an ensemble of newly born massive magnetars with $M _ { \\mathrm { { m g } } } ~ = ~ 2 . 4 7 4 3 M _ { \\odot }$ ：As mentioned before,depending on the EOS,the radii,representative ellipticities,and initial spin frequencies of magnetars are taken to be $R = 1 2 . 6 6$ (16.31) km, $\\epsilon _ { \\mathrm { B } } = 0 . 0 0 2$ (0.005),and $\\nu _ { \\mathrm { i } } = 1 6 6 0 . 8 5$ (888.97) Hz for EOS BSk21(CDDM2), while the dipole magnetic fields are taken the same as $B _ { \\mathrm { d } } = 1 0 ^ { 1 5 } { \\mathrm { ~ G } }$ for all magnetars [34]. Consequently, the maximal observed GW frequency is $\\nu _ { \\mathrm { o b s } } ^ { \\mathrm { m a x } } ~ \\simeq ~ 3 3 2 2 ~ \\mathrm { H z }$ for EOS BSk21 and $1 7 7 8 ~ \\mathrm { H z }$ for EOS CDDM2.For the same EOS, the background spectra calculated by using MFR1 have different shapes in comparison with those derived by using MFR2.For instance,the peak frequencies are at $8 3 0 \\mathrm { - } 1 6 9 0 \\mathrm { H z }$ for MFR1 versus $1 1 3 2 { - } 2 4 5 5 \\mathrm { H z }$ for MFR2.Moreover,assuming EOS CDDM2, the spectrum calculated based on MFR1 with $\\rho _ { \\mathrm { S G R B } } ( 0 ) = 1 . 1 \\times \\mathrm { \\bar { 1 0 ^ { - 6 } } }$ events $\\mathrm { { \\bf { M } } p c ^ { - 3 } } \\mathrm { { y r ^ { - 1 } } }$ (red thick solid line) dominates the spectrum obtained by using MFR2 with $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) = 1 0 \\mathrm { M p c } ^ { - 3 } \\mathrm { \\dot { M } y r ^ { - 1 } }$ (green thick solid line) at $\\nu _ { \\mathrm { o b s } } \\lesssim 1 2 0 0 \\mathrm { H z }$ ,however, succumbs to the later above $1 2 0 0 \\mathrm { { H z } }$ .This is because MFR1 predicts higher $\\rho _ { \\mathrm { M F R } } ( z )$ at high $z$ ,but lower $\\rho _ { \\mathrm { M F R } } ( z )$ atlow z. The source formation rate at high (low) $z$ mainly contributes to background emission at low (high) frequency band [58]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff73de3912e459f7a82e6d2f1c9f4eb4716408c37051211627dca244b18d74bc.jpg",
+        "img_caption": [
+            "FIG.3:Dimensionless GW energy density $\\Omega _ { \\mathrm { G W } }$ versus the observational frequency $\\nu _ { \\mathrm { o b s } }$ ,calculated for different MMFR models with various local formation rates and different EOSs as shown in the leg end. The newly born massive magnetars have $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ ,and $B _ { \\mathrm { d } } = 1 0 ^ { 1 5 }$ G. Other quantities for the magnetars are taken to be EOS dependent (see the text).For comparison,the detection thresholds of aLIGO (black dotted line) and the future ET (black dash-dotted line) calculated following Eq.(136) in [53] and assuming a1 yr observation time are also shown. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is obvious that the background spectra are strongly dependent on the assumed EOSs as shown in Fig.3.The EOS BSk21 leads to a cutoff at $\\nu _ { \\mathrm { e } } ~ \\simeq ~ 2 4 5 3 ~ \\mathrm { H z }$ in the GW signal emitted by a single magnetar with $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ (see Fig. 1). Such cutoffs also appear in the background spectra emitted byan ensemble of such magnetars if EOS BSk21 is assumed. However, the observed cutoff frequency depends on the maximal redshift of the MMFR model as $\\nu _ { \\mathrm { c u t } } = 2 4 5 3 / ( z _ { * } + 1 ) \\simeq 3 5 0$ $\\mathrm { H z }$ with $z _ { * } = 6$ for the two MMFR models.In contrast, using a commonly assumed mass $1 . 4 M _ { \\odot }$ for newly born magnetars,the resultant background spectrum extends down to several hertz without a cutoff because these magnetars do not collapse [30-33]. With EOS BSk21, the background emissions cover the frequency band from 2453 to $3 5 0 \\ \\mathrm { H z }$ ，which are not in the sensitive band of ET. The background spectrum may only be detectedbyET in the case of MFR1 with $\\rho _ { \\mathrm { S G R B } } ( 0 ) \\ : = \\ : 1 . 1 \\times 1 0 ^ { - 6 }$ events $\\mathrm { { M p c } } ^ { - 3 } \\mathrm { { y r } ^ { - 1 } }$ (red thick dashed line in Fig.3).The corresponding SNR of the background spectrum is $\\mathrm { ( S / N ) _ { B } } = 3 . 3 8$ (red hollow star in Fig. 4) for ET when an observation time $T = 1$ yr is assumed. The SNR is slightly above the detection threshold $( \\mathrm { S } / \\mathrm { N } ) _ { \\mathrm { B , t h } } = 2 . 5 6$ ofET (dotted line in Fig. 4) [31]. A lower SNR with $( \\mathrm { S } / \\mathrm { N } ) _ { \\mathrm { B } } = 0 . 6 9$ (green hollow star in Fig. 4) is obtained using MFR2 with $\\mathrm { \\dot { \\rho } _ { c } ^ { \\mathrm { o } } ( 0 ) = 1 0 \\ M p c ^ { - 3 } M y r ^ { - 1 } }$ . Consequently, it should be hard to confirmEOS BSk21 through direct observation of such a cutoff in the background spectrum emitted by massive magnetars. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b86344d0d5d11cc50f9dfe23bac8787e19cd881b2ce2b8a8c489675ae73056f.jpg",
+        "img_caption": [
+            "FIG.4: The SNR $( \\mathrm { S } / \\mathrm { N } ) _ { \\mathrm { B } }$ of SGWB from a massive magnetar population versus the magnetars’interior toroidal magnetic fields $\\bar { B } _ { \\mathrm { t } } ^ { \\mathrm { ~ \\scriptsize ~ \\bar { ~ } r ~ } }$ .The SNRs are calculated by assuming different EOSs and various MMFRsas depicted in the legend.All SNRs are derived with respect to ET for an observation time of 1 yr. The dotted line shows the detection threshold of ET.The stars represent the SNRs calculated by adopting various representative ellipticities (corresponding to various EOSs) and for different MMFRs (see the text). "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asa comparison,if the EOS CDDM2 is assumed,the resultant background spectra emitted by all magnetars with $M _ { \\mathrm { { m g } } } = 2 . 4 7 4 3 M _ { \\odot }$ show cutoffs at $\\nu _ { \\mathrm { c u t } } \\simeq 1 2 4 \\ : \\mathrm { H z }$ .The spectra extend from $1 7 7 8 \\mathrm { H z }$ down to $1 2 4 ~ \\mathrm { H z }$ . Using ET and taking $T = 1$ yr, the SNR of the background spectrum is 5O.49 (red filled star in Fig. 4) for MFR1 with $\\rho _ { \\mathrm { S G R B } } ( 0 ) = 1 . 1 \\times 1 0 ^ { - 6 }$ events $\\mathrm { { M p c } } ^ { - 3 } \\mathrm { { y \\bar { r } } ^ { - 1 } }$ ．The SNR is reduced by about an order of magnitude for the minimal local SGRB formation rate $\\rho _ { \\mathrm { S G R B , m i n } } ( 0 ) ~ = ~ 1 . 1 5 \\times 1 0 ^ { - 7 }$ events $\\mathrm { { M p c } } ^ { - 3 } \\mathrm { { y r } } ^ { - 1 }$ .Moreover, adopting MFR2 with $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) = 1 0 \\ \\mathrm { M p c ^ { - 3 } M y r ^ { - 1 } }$ , the resultant SNR is 1O.28 for ET(green filled star in Fig. 4). The SNRs are all above the detection threshold ofET,which suggest that the spectra may be detectable by the proposed ET.If the cutoff at $\\sim 1 0 0 \\mathrm { H z }$ in the SGWB from massive magnetars could be detected in the future, then the EOS of dense matter may be consistent with QS EOS CDDM2.Furthermore, the EOSs (e.g.,BSk21 and APR) which provide relatively small $M _ { \\mathrm { T O V } }$ could be excluded.Of course,the nondetection of the background emission may have the following reasons: (i) the actual $\\rho _ { \\mathrm { M F R } } ( z )$ is much smaller than those we adopted here; (ii) the EOSs (e.g.，BSk21 and APR）which provide relatively small $M _ { \\mathrm { T O V } }$ are favorable;(iii) the magnetars actually have much lower ${ \\bar { B } } _ { \\mathrm { t } }$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Related to the last point of the above reasons, the effect of ${ \\bar { B } } _ { \\mathrm { t } }$ on the detection of the SGWB is shown in Fig.4.All the SNRs of the background emissions are calculated by adopting the maximal local event rate of each MMFR model, an observation time $T = 1$ yr,and with respect to ET,which has the best designed sensitivity. In all cases,as ${ \\bar { B } } _ { \\mathrm { t } }$ increases,the SNR of the background first rises rapidly then slowly. Specially, the same asin Fig.2,when EOSBSk21is assumed the SNR of the background tends to be saturated when ${ \\bar { B } } _ { \\mathrm { t } }$ becomes large enough.In this case,even MFR1 with $\\rho _ { \\mathrm { S G R B } } ( 0 ) = 1 . 1 \\times 1 0 ^ { - 6 }$ events $\\mathrm { { \\bf M p c } } ^ { - 3 } \\mathrm { { y r } } ^ { - 1 }$ and the maximal toroidal fields $\\bar { B } _ { \\mathrm { t } } \\sim 1 0 ^ { 1 7 }$ G are taken, $( \\mathsf { S } / \\mathsf { N } ) _ { \\mathrm { B } }$ is slightly above detection threshold of ET.This just reflects that the background emission from massive magnetars is difficult to be detectedifEOSswith small $M _ { \\mathrm { T O V } }$ are preferred as discussed above.In contrast, for the same MMFR and ${ \\bar { B } } _ { \\mathrm { t } }$ ， $( \\mathsf { S } / \\mathsf { N } ) _ { \\mathrm { B } }$ derived based onEOS CDDM2 is at least $\\sim 1 0$ times higher than that obtained by assuming EOSBSk21 (see Fig.4).Hence,if EOS CDDM2 rather than EOS BSk21 is preferred, detection of the background emission from massive magnetars may be promising. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SGWB produced by an ensemble of massive magnetars is expected to be continuous if the duty cycle $D C ~ =$ $\\begin{array} { r } { \\int _ { 0 } ^ { 6 } \\tau ( 1 + z ) \\rho _ { \\mathrm { M F R } } ( z ) d V \\gg 1 } \\end{array}$ is satisfied [59]. The quantity $\\tau$ is the duration of the GW signal emitted by a single magnetar. The expression for the comoving volume element $d V$ can be found in [58]. In the case of EOS BSk21, since the $2 . 4 7 4 3 M _ { \\odot }$ massive magnetar has a dipole field $B _ { \\mathrm { d } } = 1 0 ^ { 1 5 } { \\mathrm { ~ G } }$ and representative ellipticity $\\epsilon _ { \\mathrm { B } } = 0 . 0 0 2$ ,its lifetime can be determined to be $\\tau = 1 4 0 . 5 0 \\mathrm { s }$ . The massive magnetar has a much longer lifetime of $\\tau = 9 9 5 . 8 6$ s ifEOS CDDM2 is assumed,even though its representative ellipticity $\\mathit { \\check { \\Psi } } _ { \\mathbf { B } } ~ = ~ 0 . 0 0 5 )$ is larger in this case.Using MFR2 with ${ \\dot { \\rho } } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) = 1 ~ \\mathrm { M p c } ^ { - 3 } \\mathrm { M y r } ^ { - 1 }$ (the lowestMMFR),wehave $D C \\simeq 3 9 . 0 2$ (276.56) forEOSBSk21 (CDDM2)，which means that the SGWB from these magnetars is continuous.We note that even when EOS BSk21 and ultrastrong toroidal fields $\\bar { B } _ { \\mathrm { t } } \\sim 1 0 ^ { 1 7 } \\mathrm { ~ G ~ }$ are assumed for the massive magnetars, the produced SGWB is still continuous if the MMFR is not as low as MFR2 with $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( 0 ) = 1$ $\\mathrm { M p c } ^ { - 3 } \\mathrm { M y r } ^ { - 1 }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "V.CONCLUSION AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As one of the most promising targets for GW detection, newly born magnetars,if produced byNS-NS mergers,their masses should be much larger than the generally assumed value $1 . 4 M _ { \\odot }$ for NSs. The masses of the newly born magnetars,the EOSs,and the MMFR models all have an impact on the SGWB produced by the massive magnetar population.By taking into account these effects,we estimated the SGWB produced by the newly born massive magnetars.For the NS EOS BSk21 and QS EOS CDDM2 adopted here, the resultant background spectra contributed by massive magnetars with $M _ { \\mathrm { { m g } } } ~ = ~ 2 . 4 7 4 3 M _ { \\odot }$ show cutoffs at about $3 5 0 ~ \\mathrm { H z }$ and $1 2 4 ~ \\mathrm { H z }$ ，respectively. The frequency ranges of background emissions are different for the two EOSs.Assuming EOS CDDM2 and representative ellipticities $\\epsilon _ { \\mathrm { B } } = 0 . 0 0 5$ for the $2 . 4 7 4 3 M _ { \\odot }$ massive magnetars,even using MFR1 with the minimal local rate, the SGWB contributed by an ensemble of such magnetars may be detected by the future ET.While using MFR2,the background emission from these magnetars maybe detected byET only if the local merger rate satisfies $\\dot { \\rho } _ { \\mathrm { c } } ^ { \\mathrm { o } } ( \\mathrm { 0 } ) \\lesssim 1 0 \\ \\mathrm { M p c ^ { - 3 } \\dot { M } y r ^ { - 1 } }$ . However, if EOS BSk21 (and representative ellipticities $\\epsilon _ { \\mathrm { B } } ~ = ~ 0 . 0 0 2 \\$ ）is assumed,the SGWB maybe detected by ET only when MFR1 with the maximal local rate is adopted. For the same MMFR and ${ \\bar { B } } _ { \\mathrm { t } }$ ，adopting EOS CDDM2,the SNR of the background is at least $\\sim 1 0$ times higher than that obtained based on EOS BSk21.This, in turn,may indicate that if such background emission could bedetected,EOS CDDM2 shouldbemorefavorable.Therelatively low SNR of the background emission indicates that it may be unlikely to test EOS BSk21 via detecting the cutoff in the background spectrum.However,if the cutoff at $\\sim 1 0 0 \\mathrm { H z }$ in the SGWB from massive magnetars could be detected in the future,theQSEOSCDDM2 seemsto befavorable.Inaddition,successful detection of background emission at $\\gtrsim 1 0 0 \\mathrm { H z }$ could reasonably exclude the EOSs which present relatively small $M _ { \\mathrm { T O V } }$ (e.g.,EOSs BSk21 and APR). Finally, detecting the GW emission during the entire formation process (from the final binary inspiral process to the magnetar phase)of a newly born massive magnetar may still be an effective way to probe the EOS of dense matter because one need not estimate the MMFR,which is actually rather uncertain. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Improvements are still needed in order to obtain a more realistic SGWB produced by an ensemble of massive magnetars. In this paper, we only assume typical mass $M _ { \\mathrm { m g } } { \\it \\Delta \\phi } = { \\it \\Delta \\Psi }$ $2 . 4 7 4 3 M _ { \\odot }$ for the massive magnetars. Actually, the masses of these massive magnetars should distribute in a certain range as inferred from the mass distribution of Galactic NS-NS binaries[39].In future work,wewill combine the mass distribution of massive magnetars with various NS/QS EOSs to study the SGWB produced by the massive magnetars in detail. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We gratefully thank the anonymous referee for insightful comments and suggestions in improving this paper. We also thank Y.W.Yu,X.L.Fan,andH.Gao for helpful discussions. This work is supported by the National Natural Science Foundation of China(Grants No.11133002 and No.11178001). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "385,1455   \n[13] Campana, S.,et al. 2006,A&A,454,113   \n[14] Rowlinson,A.,et al.2013,MNRAS,430,1061   \n[15] Lai,D., Shapiro,S.L.1995,ApJ,442,259   \n[16] Andersson,N.1998,ApJ,502,708;Friedman,J.L.,Morsink, S.M.1998,ApJ,502,714   \n[17] Andersson,N.,Kokkotas,K.D.1996,Phys.Rev.Lett.,77, 4134;Kokkotas,K.D.,Apostolatos,T.A.,Andersson,N.2001, MNRAS,320,307; Passamonti,A., Gaertig,E., Kokkotas,K. D.,Doneva,D.2013,Phys.Rev.D,87,084010;Doneva,D. D., Gaertig,E.,Kokkotas,K.D.,Krüger,C.2013,Phys. Rev. D,88,O44052;Doneva,D.D.,Kokkotas,K.D.,Pnigouras,P. 2015,Phys.Rev.D,92,104040   \n[18] Bonazzola,S.,Gourgoulhon,E.1996,A&A,312,675   \n[19] Stella,L.,DallOsso, S., Israel,G.L.,Vecchio,A. 2005,ApJ, 634,L165   \n[20] Dal'Osso,S., Shore,S.N.,Stella,L.2009,MNRAS,398,1869   \n[21] Dall'Osso, S.,Giacomazzo,B.,Perna,R., Stella,L.2015,ApJ, 798,25   \n[22] Haskell, B., Samuelsson,L.,Glampedakis,K.,Andersson,N. 2008,MNRAS,385,531;   \n[23] Cutler, C.2002,Phys.Rev.D,66,084025   \n[24] Ciolfi,R.,Ferrari,V.,Gualtieri,L.,Pons,J.A.2OO9,MNRAS, 397,913   \n[25] Gualtieri,L., Ciolfi,R.,Ferrari, V. 2011, Class. Quantum Grav., 28,114014   \n[26] Mastrano,A.,Melatos,A., Reisenegger,A.,Akgun, T. 2011, MNRAS,417,2288   \n[27] Akgin,T.,Reisenegger,A.,Mastrano,A.,Marchant,P. 2013, MNRAS,433,2445   \n[28] Mastrano,A.,Lasky,P.D.,Melatos,A.2013,MNRAS,434, 1658   \n[29]Mastrano,A.,Suvorov,A.G.,Melatos,A.2015,MNRAS,447, 3475   \n[30]Regimbau,T.,de FreitasPacheco,J.A.20O6,A&A,447,1   \n[31]Marassi,S.,Ciolfi，R.，Schneider,R.，Stella,L.,Ferrari,V. 2011, MNRAS,411,2549   \n[32] Rosado,P.A.2012,Phys.Rev.D,86,104007   \n[33] Cheng,Q.,Yu,Y.W., Zheng,X.P.2015,MNRAS,454,2299   \n[34]Li,A.,Zhang,B.,Zhang,N.B.,Gao,H.,Qi,B.,Liu,T.2016, Phys.Rev.D,94,083010   \n[35] Yonetoku,D.,Nakamura, T., Sawano, T., Takahashi, K., Toyanago,A. 2014,ApJ, 789, 65   \n[36] Regimbau,T.,Hughes,S.A.2009,Phys.Rev.D,79,062002   \n[37] Hotokezaka,K.，et al．2013，Phys.Rev.D，87，024001; Sekiguchi, Y.,Kiuchi,K., Kyutoku,K., Shibata,M.2015,Phys. Rev. D, 91, 064059; Palenzuela, C., et al. 2015,Phys.Rev. D, 92,044045   \n[38] Timmes,F.X.,Woosley, S.E.,Weaver,T.A.1996,ApJ,457, 834   \n[39] Kiziltan,B.,Kottas,A.,De Yoreo,M.,Thorsett,S.E.2013, ApJ, 778, 66   \n[40] Potekhin,A.-Y.,Fantina,A.-F.,Chamel,N.,Pearson,J.-M., Goriely,S.2013,A&A,560,A48   \n[41]Chu,P.-C.,Chen,L.-W.2014,ApJ,780,135   \n[42]Braithwaite,J.,Spruit,H.C.2004,Nature,431,819;Braithwaite,J., Spruit,H. C.2006,A&A,450,1097;   \n[43] Makishima, K., Enoto,T., Hiraga,J. S.,Nakano, T., Nakazawa, K.,Sakurai,S.,Sasano,M.,Murakami,H.2O14,Phys.Rev. Lett.,112,171102   \n[44] Fan,Y.Z.,Wu,X.F.，Wei,D.M. 2013,Phys.Rev.D,88, 067304   \n[45] Moriya,T.J.,Tauris,T.M. 2016,MNRAS,460,L55   \n[46]Lasky,P.D.,Glampedakis,K.2016,MNRAS,458,1660   \n[47] Alford,M.,Rajagopal, K., Wilczek, F.1998, Phys.Lett.B,422, 247   \n[48] Madsen,J.200o,Phys.Rev.Lett.85,10   \n[49] Cheng,Q.,Yu,Y.W., Zheng,X.P. 2013,Phys. Rev.D,87, 063009   \n[50] Glampedakis,K.,Jones,D.I., Samuelsson,L.2012,Phys. Rev. Lett.,109,081103   \n[51] Jaranowski,P.,Królak,A., Schutz,B.F.1998,Phys.Rev.D, 58,063001   \n[52] Corsi,A.,Mészáros,P.2009,ApJ,702,1171   \n[53] Sathyaprakash,B.S., Schutz,B.F.2OO9,Living Rev.Relativ., 12,2   \n[54] Abadie,J.,Abbott,B.P.,Abbott,R.,et al.2010,Classical and Quantum Gravity,27,173001   \n[55] Coward,D.M.,et al.2012,MNRAS,425,2668   \n[56] Hopkins,A.M.,Beacom,J.F.2006,ApJ,651,142   \n[57]Allen,B.,Romano,J.D.1999,Phys.Rev.D,59,102001   \n[58] Zhu, X.J.,Fan,X.L., Zhu,Z.H. 2011,ApJ,729,59   \n[59] Coward,D.M.,Regimbau, T.2006,New Astron.Rev.,50,461 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

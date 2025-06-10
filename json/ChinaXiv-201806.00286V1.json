@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "大芯径光纤出射环形斑谱线分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈淑鑫1,2,孙伟民1\\*，闫奇²，张琼²(1.齐齐哈尔大学 机电工程学院，黑龙江 齐齐哈尔 161006;2．哈尔滨工程大学 理学院纤维集成光学教育部重点实验室，黑龙江 哈尔滨 150006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：光纤光谱的效率损失主要来源之一是光纤的焦比退化，并且往往还在光谱成像时因焦比退化产生环形出射斑，从而使得光纤传输效率降低之外还影响色散之后的谱线轮廓。实验获取郭守敬望远镜调试阶段的大芯径光纤因焦比退化产生的出射环型斑貌，结合CCD光谱图像特点实施轮廓拟合抽谱方法，把二维CCD光谱图像转换成一维光谱，选取LAMOST红端数据进行模拟，采样点在500-600nm波段范围，在该波段中有铁的发射线。通过与获得的环形斑轮廓卷积研究焦比变化对铁发射线峰的影响。最后，正确阐明在正式巡天观测时主镜Mb前悬挂平场漫反射屏消除环形斑引发的偏差的效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：焦比退化FRD；环形斑；二维光纤光谱；CCD检测；郭守敬望远镜中图分类号：P111.4 文献标识码：A 文章编号：1672-7673(2018)04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自1666年物理学家牛顿把一束白光透过棱镜分解成七色的光谱后，天文学家相继采用照相底片记录每条光谱波长处的流量，但所记录光谱的精确度和分辨率较低。天文观测也广泛应用到光纤光谱，构建的光纤采集系统与大数据科学滋养出诸多科学新发现。大型望远镜中引入光纤通信技术后，提升了光学望远镜的视场、深度以及观测效率。多模光纤作为天文仪器中光导管具备从焦平面获取光的能力，并在像平面上重新格式化获得稳定的多物体光谱，被用于积分场光谱学 [2]（Integral Field Spectroscopy，IFS）和多物体光谱学（Multi-ObjectSpectroscopy，MOS）以及大天区面积多目标光纤光谱望远镜]（Large Sky Area Multi-Ob jectFiber Spectroscopic Telescope，LAMOST）。目前，国外基于光纤传输的天文望远镜系统主要有美国的斯隆数字巡天（The Sloan Digital Sky Survey,SDSS）2.5m望远镜系统口径，640根光纤视场3°、英国-澳大利亚AAT系统（The Anglo-AustralianTelescope）4m望远镜系统口径，400根光纤视场2°，并使用2dF(the Two-degree Field)多光纤摄谱仪纤芯直径为 $2 0 0 \\mu \\mathrm { m }$ 的大芯径多模光纤。这些望远镜获取光纤光谱主要有两大类即多目标光谱和积分场谱，其中多目标光谱针对视场点源，而积分场谱是面源。后文研究多目标光纤光谱的入射光由于光锥轴不平行光纤轴，故产生光纤焦比损失[4]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从事以光纤作为传输介质产生环形光束的研究有文[5]数值分析偏心入射弯曲光纤入射光斑偏向光纤内侧时，光斑中间光线数目明显减少，出射光斑严重弥散；文[6]采用机械扰模器改善偏轴角入射影响出射环形光场；文[7]测试多目标积分视场非中心入射光纤焦比退化得出耦合位置对出射焦比的影响。文[8]利用光纤振动扰模装置对 $1 0 ~ \\mu \\textrm { m }$ 、 $1 2 5 \\mu \\mathrm { ~ m ~ }$ 和 $3 2 0 ~ \\mu \\textrm { m }$ 芯径的LAMOST光纤扰模实验得出70Hz频率扰模有效减弱光纤激光散斑。文[9]修正LAMOST光纤因转动和扭曲引起焦比退化而改变的光纤传输效率。文[10]测试偏心入射的出射光斑径向分布。研究表明光纤出射光场的分布不仅与光路传输过程中光纤受到应力、弯曲、机械损伤等因素有关，还取决于光线入射状态，其来源于光纤入射端的耦合包括入射角度、入射点位置以及入射端面的衔接等等。采用晨昏天光对大视场多光纤维系统进行平场后，随着夜间观测对每根光纤因转动和扭曲产生的焦比退化不同产生不同的效率差，使得平场效果变差。本文采用轮廓拟合方法处理二维光纤光谱数据，分析光纤出射环形斑对天文光谱的影响，讨论传输角度光纤理论上对光线传播的影响，从模式理论的角度探究解释环形斑的产生，描述光纤光谱谱线峰值变化，准确识别光谱类型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1获取多目标光纤光谱 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光纤引入天文望远镜观测融合大数据科学技术推动了天文学发展，多目标光谱测量光纤技术主要受到光纤的透过率和焦比退化特性的影响，光纤的透过率由光纤种类、制造光纤的材料，使用波长范围和安装后光纤的弯曲损耗等因素决定。光纤的焦比退化除与光纤数值孔径等光纤固有参数有关之外，还与弯曲、聚焦光束相对于光纤纤芯的入射偏心角等使用条件有重要关系。对光纤的焦比退化特性的分析研究将对多目标光纤光谱望远镜系统的观测质量的改善提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1焦比退化",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光纤周围介质的折射率为 $\\mathbf { \\Omega } _ { n _ { 0 } }$ ，纤芯和包层的折射率分别为 $\\boldsymbol { \\eta _ { 1 } }$ 、 $\\boldsymbol { \\eta _ { 2 } }$ 光线在纤芯与包层界面处产生全反射，需要满足条件 $\\sin \\phi \\ge \\sin \\phi _ { c } = n _ { 2 } / { \\mathrm n } _ { 1 }$ （其中 $\\phi _ { c }$ 为临界角）光纤全反射临界角 $\\phi _ { c }$ 约在$7 0 ^ { \\circ } ~ \\mathrm { \\sim } _ { 8 0 ^ { \\circ } }$ 光纤的数值孔径 $\\mathit { N a }$ 定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN a = { \\tt n } _ { 0 } \\sin \\theta _ { \\mathrm { m a x } } = \\sqrt { n _ { 1 } ^ { 2 } - n _ { 2 } ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小于孔径角 $\\theta _ { \\mathsf { m a x } }$ 的光线均能耦合进入光纤，若光源入射焦比与 $\\theta _ { \\mathrm { { m a x } } }$ 对应的焦比大，那么光线都能有效耦合进入光纤。当光线以 $\\theta$ 角入射时，由于光纤弯曲、应力、光纤缺陷等因素造成模式间相互耦合，使能量发生转移，小角度入射的低阶模能量会耦合到高阶模，同样，较大入射角的高阶模也会向低阶模耦合。实际出射光束存在发散，出射光的焦比小于入射光的焦比，产生光纤的焦比退化FRD(Focal ratio degradation)，理想传播时没有焦比退化效应定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle F _ { _ { i n } } ~ = ~ { \\cal f } _ { _ { i n } } \\biggl / \\sum _ { D _ { _ { i n } } } = \\frac { \\cot \\theta _ { _ { i n } } } { 2 } ~ = ~ \\sqrt { \\frac { 1 } { \\sin ^ { 2 } \\theta _ { _ { i n } } } - 1 } \\biggl / 2 , } } \\\\ { { \\displaystyle F _ { _ { o u t } } ~ = ~ { \\cal f } _ { _ { o u t } } \\biggl / \\sum _ { _ { o u t } } , \\mathrm { F } _ { _ { i n } } ~ = ~ \\mathrm { F } _ { _ { o u t } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "非理想传播时有FRD 效应定义如公式(3): ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { _ { i n } } > F _ { _ { o u t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $f$ 为像面到光纤端面的距离； $D _ { \\mathsf { i n } }$ 为入射光斑的直径； $D _ { \\mathsf { o u t } }$ 为出射光斑的直径，其特性与光纤长度、芯径、温度、光纤端面的平滑程度、弯曲、应力、入射焦比 $\\scriptstyle { F _ { \\mathrm { i n } } }$ 、波长、光纤主轴与入射光轴对准关系等多种因素[13]。光纤的数值孔径决定耦合的光纤入射角的最大值，当 $\\theta$ $\\mathsf { \\Pi } _ { \\mathsf { i n } } \\equiv \\theta _ { \\mathsf { m a x } }$ 时满足 $F _ { \\mathrm { i n } } \\mathrm { = } F _ { \\mathrm { m a x } }$ 代入 (2)式，得到数值孔径与焦比之间关系：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN a ^ { 2 } = \\sin ^ { 2 } \\theta _ { \\mathrm { m a x } } = \\frac { 1 } { 4 F _ { \\mathrm { m i n } } ^ { 2 } + 1 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "光纤头研磨、装载和望远镜上的应用将使光纤受各种因素影响，同时实验装置也存在系统误差，使焦比退化测量精度发生改变。(4)式推导出大芯径光纤焦比退化效应相对于小芯径光纤的焦比退化效应，对系统的影响相对较小。光纤的长度越长、温度越低时焦比退化效应越大，而相对于其他影响因素很小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2郭守敬望远镜光纤光谱仪焦比耦合",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国自主研发的郭守敬望远镜焦面板上采用芯径为 $3 2 0 \\mu \\mathrm { m }$ 的4000根大芯径光纤作为星光传输介质[4，有效孔径为 $3 . 6 \\cdot 4 . 9 \\mathsf { m }$ ，焦距为 $2 0 \\mathsf { m }$ ，视场为 $5 ^ { \\circ }$ ，焦比为5，光学系统主要由3部分组成：改正镜MA（ $5 . 7 2 \\mathrm { m } { \\times } 4 . 4 0 \\mathrm { m }$ 、主镜 $\\mathsf { M B } ( 6 . 6 7 \\mathsf { m } { \\times } 6 . 0 5 \\mathsf { m } )$ 和焦面板。在观测过程中改正镜能够同步改变它的非球面镜片取得很好的光学质量。这4000根光纤在每次变换观测天区时，均需重新定位，每根光纤都转动不同角度，每根光纤都会因为转动和扭曲情况不同导致焦比退化发生不同的变化，改变光纤之间传输效率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "郭守敬望远镜采用Polymicro 公司多模石英光纤型号为FBP320385415阶跃折射率，光纤芯径为 $3 2 0 \\mu \\mathrm { m }$ ，包层直径为 $3 8 5 \\mu \\mathrm { m }$ ，长度为 $2 0 \\mathsf { m }$ ，数值孔径为 $0 . 2 2 { \\scriptstyle \\pm 0 . 0 2 }$ 、光纤的光谱传光即带宽范围 $2 7 5 \\mathsf { n m } - 2 1 0 0 \\mathsf { n m }$ ，光谱覆盖范围 $3 7 0 \\mathsf { n m } \\mathsf { \\cdot 9 0 0 } \\mathsf { n m }$ ，通常一组观测目标需要连续暴光3次，系统每次曝光由32台CCD 相机和16台光谱仪生成32幅二维目标光谱图像(红蓝两波段各16幅)。采用CCD 均为 $4 \\mathsf { k } \\times 4 \\mathsf { k }$ ，每幅CCD目标图像中记录250根光纤光谱数据，其中有10 根光纤获取天光背景信号的数据[13]。观测系统的实际天体目标信号形成目标光谱图像过程中需考虑天光背景信号、杂散光、宇宙射线以及系统噪声等影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 抽取二维CCD天文光谱 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "光纤技术应用于大规模巡天科学，一次曝光可获得数条甚至几千条光谱，提升了传统获取光谱的方法一次曝光只获得一条光谱的大数据存储采集能力。天文学CCD拍摄的天体光纤光谱记录图像仅为二维光谱图像，不能直接使用，需采用相应的抽谱方法把二维CCD光谱图像转换成一维光谱。进而从目标观测图像中获得各光纤在各个波长上的流量值，抽谱精度直接影响光谱后续处理的质量。现结合郭守敬望远镜CCD光纤光谱图像的特点研究抽取二维光谱的方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1天文光谱处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "望远镜聚焦天体的光，成像到焦面再通过光纤到达摄谱仪[1]，郭守敬望远镜观测系统获得的原始二维光纤光谱数据主要包括目标光谱图像、本底图像、平场光谱图像、以及定标灯谱图像。其中主要研究的数据是目标光谱图像[3，其他3类数据辅助观测用于帮助校正处理目标光谱数据。望远镜系统处理二维光纤光谱数据包括CCD改正、平场改正、宇宙线剔除、目标谱抽取、波长定标、减天光、流量定标等流程。二维光谱色散的方向沿CCD列的方向，二维光谱的空间方向平行于CCD行的方向；光谱对应的波长i表示CCD行号， $j$ 表示CCD 列号， $\\mathrm { P } ( i , j )$ 表示处于CCD第 $i$ 行，第 $j$ 列的像素。按CCD每一行的流量值顺序排列得到一维光谱如图1。图中经一次拍照的单色光经过仪器系统后，CCD 成像呈现一幅展宽的轮廓图，即轮廓图为光纤在CCD上成像，研究分析获取的天体信息需要对每条一维谱线波长定标、流量定标，读出一维的波长-流量光谱图。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/749480d6e535dde2c99fe3c7364035f2863b60d99990b588b57181b933861c1b.jpg",
+        "img_caption": [
+            "图1郭守敬望远镜拍摄的二维CCD局部光纤光谱图 Fig.1 Local fiber optic spectrum of LAMoST telescope two-dimensional CCD "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2孔径抽谱及优化方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "孔径抽谱方法较简单，且抽取速度很快，低次多项式曲线表示每一行光谱轮廓的中心曲线，光谱图像的轨迹波长对应 CCD 给定某一行数值[12，在轨迹两侧光谱的径直方向上，取一个固定大小的孔径，选取孔径范围 $[ r _ { 1 } , r _ { 2 } ]$ ，孔径越大引入噪声会小， $D _ { i j }$ 为像素 $P ( \\ i , j )$ 计数值，通过选取孔径内流量并评定权值，根据孔径内每个像素的信噪比，给出对应像素上计数的权重 $\\omega _ { i j }$ 叠加孔径内沿径向方向所有CCD像素的计数值 $D _ { i j }$ 与权重 $\\omega _ { i j }$ 的乘积，信噪比高的 $P$ 像素其权重 $\\omega$ 越高，该行对应波长处的流量值 $F _ { i }$ 表示第 $i$ 行记录的总流量值定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F } _ { i } ~ = ~ \\mathrm { \\Omega } _ { j = r _ { 1 } } ^ { r _ { 2 } } { \\omega } _ { i j } D _ { i j } { \\Bigg / } _ { \\mathrm { \\Omega } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "郭守敬望远镜每幅图像记录250条光谱，每条光谱图像之间的间隔大约16个像素，谱线在同一幅图上密集排列，每两条光谱之间存在相互交叉污染（cross-talk)。没有交叉污染的情况下，不引入很大噪声，孔径选取越大越好，由于孔径抽谱方法无法处理这些交叉污染，故引入轮廓拟合法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3轮廓拟合方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "针对大视场巡天图1中郭守敬望远镜拍摄的光谱图像轨迹弯曲，因此2.2节描述的优化孔径方法很难选取合适的孔径，误差较大，并不是一个理想的抽谱方法。为了准确地抽取弯曲的多光纤光谱图像，采用轮廓拟合方法，利用光谱图像空间轮廓具备相应函数解析表达式（如高斯函数、Voigt函数、洛伦兹函数、B样条等等）轮廓，假设光谱图像在空间方向归一化解析轮廓函数 $\\phi ( c )$ ，则图1中CCD图像的第 $i$ 行，利用（5）式抽谱：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { \\mathrm { i } } ^ { 2 } = \\sum _ { j = 1 } ^ { m } { \\frac { \\displaystyle \\left( D _ { _ { i j } } - \\sum f _ { _ { i s } } \\phi ( { \\mathsf C } - C _ { _ { i s } } ) \\right) ^ { 2 } } { V _ { _ { i j } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $m$ 为 CCD 总列数； $C _ { i s }$ 为第 $i$ 行第 $s$ 条光谱中心位置，第 $i$ 行第 $s$ 条光谱的流量值 $f _ { i s }$ 作为调整归一化函数 $\\phi ( c )$ 尺度因子； $D _ { i j }$ 为第 $i$ 行第 $j$ 个像素的计数值; $V _ { i j }$ 是第 $i$ 行第 $j$ 个像素的计数方差。在抽谱过程中CCD不同位置的点对应的点扩散函数（Point Spread Function，PSF）存在较大轮廓差异，为了消除CCD图像不同位置处轮廓不同的影响，利用反卷积方法运行在高性能运算服务器完成抽谱计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4反卷积方法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于CCD 记录真实光谱卷积上仪器轮廓的光谱图像，文[15]提出反卷积法从（5）式中反求 $C ( \\lambda )$ ，从真实CCD光谱图像中经反卷积，去掉仪器轮廓后得到一维光谱。在2.3节中单色光点扩散的波长用矩阵 $P$ 存储，向量 $D _ { i j }$ 由CCD上每个像素的计数组成的，若只有一条光谱数据采用最小二乘法求解一维光谱数据，但郭守敬望远镜同时记录250条数据，矩阵规模较大，因此后续实验尚未采用此方法。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3探究天文光纤出射斑 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "郭守敬望远镜观测获得二维光纤光谱数据处理输入原始目标光谱数据时，依次按顺序减本底处理、宇宙射线检测与剔除、光纤追迹、波长定标和光纤效率改正处理[12]。望远镜在转动过程中，处于焦平面和光谱仪之间的光纤部分产生弯曲形变，同时如果来自望远镜的光束汇聚中心未对准光纤的主轴，在1.1节阐述的焦比退化焦比退化效应就随之发生变化，较大影响光谱仪的接收效果。本节主要分析在望远镜定位系统中光纤受到一定程度的挤压以及弯曲，利用实际观测的带有发射线的光谱，与实验室产生的模拟环形斑的响应进行卷积，从而模拟这种退化效应对光谱谱线轮廓造成影响，形成假的双峰结构。影响光纤中光线的传输。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1实验偏心入射环形斑 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "当光照射到光纤端面时，最理想的状态是入射光线主光线与光纤端面所在平面垂直，此时入射光主光线与光纤轴线平行，或者说夹角为 $0 ^ { \\circ }$ ，如果主光线正好落在光纤轴心上，则成为光线正入射。若光纤端面以及入射光线的机械调节等原因使入射光线有一定的角度偏差时，根据1.1节偏斜入射的分析，光从不同角度入射光纤会激励产生不同模式，光纤出射斑随模式改变而变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验中采用氨氛(He-Ne)激光器作为光源，有效控制入射光纤的线性度，方便精确控制入射位置和角度，使其能量集中，方向性好，实验装置如图2，激光经出射扩束准直处理后，汇聚到光纤端面，在透镜后侧放置小孔光阑（口径大小为 $5 0 0 \\mu \\mathrm { m } )$ ，将滤过激光器出射光斑的杂散光，使照在光纤端面的光规则均匀。光纤端面放置在角度旋转台的中心位置，此处分别调节左右方向旋转光纤时，确保光纤与入射光夹角从 $0 ^ { \\circ }$ 到 $9 0 ^ { \\circ }$ 之间的光束是一直照射在光纤端面，光纤端面保持处于角度旋转台的中心位置。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c2c40f26466d22c594ffabc3128cb993e9b628d55852eb5c8f34090e0258cd3.jpg",
+        "img_caption": [
+            "图2偏斜入射实验设计光路图",
+            "Fig.2 Design light diagram of deflection incidence experiment "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验采用LAMOST光纤长度 $5 \\mathrm { m }$ 测试装置设备实物图如图3光纤（a）固定在角度旋转台（c）上，调整光路高度将光纤连同角度旋转台的位置固定，为了便于光束以及光纤端面的位置粗调，如图3在旋转台中心处放置一根细针，如果激光束射到针尖，表明激光光束大致经过旋转台的中心位置，再粗调激光器的水平高度及前后俯仰，使激光器出射光线与光纤端面垂直，确保光线沿光纤轴方向入射。转动角度旋转台调整光纤与入射光的夹角，确定光纤接收光的角度范围，当光纤端面没处于角度旋转台的中心位置时，调节旋转台左右旋转角度，看光纤与入射光夹角从 $0 ^ { \\circ }$ 到 $9 0 ^ { \\circ }$ 时光束是否一直照射在光纤端面上，保证光纤端面反射光从小孔中返回。放置小孔光阑(直径 $5 0 0 \\mu \\mathrm { m } )$ 如图3(b)能滤过激光器出射光斑的杂散光，使射入光纤端面的光均匀规则。激光器出射端加装光强衰减片后，调整光纤的接收光强到合适的程度。CCD（型号为TE-9361S）观察光纤出射端光斑，出射端面与CCD接收屏之间无间距，计算机相连CCD，采集卡存储数据，记录光纤出射端的出射光斑，并得出数值孔径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2采集远场出射斑图像",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验用的光纤数值孔径为 $N a { = } 0 . 2 2 { \\pm } 0 . 0 2$ ，根据数值孔径和入射角关系(1)式计算出光线能够耦合进入光纤的最大入射角在 $1 1 . 5 ^ { \\circ } \\ \\sim 1 3 . 6 ^ { \\circ }$ 之间如图4(a)的中心圆斑，增大入射角度，光纤出射光斑直径逐渐变大，亮度逐渐减弱，角度增加到 $8 ^ { \\circ }$ 左右时，出射光斑相对于边缘亮度，中心出现暗区，光纤出现出射环形斑，入射角增加到 $1 0 ^ { \\circ }$ 左右时如图4(b)的环形斑，随着旋转角度增大环形斑也逐渐增大，呈现向外扩散状。当入射角旋转到 $1 2 ^ { \\circ } \\ \\sim 1 4 ^ { \\circ }$ 时光斑亮度大幅度下降，几乎达到消光的光斑临界旋转角为 $1 5 ^ { \\circ }$ ，实验数据符合理论计算值。光斑的亮度证实，当入射光与光纤入射角范围内激励光纤的高阶模式，增大入射光与光纤的夹角，低阶模的能量逐渐向高阶模耦合，光纤传播的总能量逐渐分散并减小，直至完全消失。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bd52c6875874d7a7fe3a596909c01aa38a63c2d632d66aa162ece2486498eba0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "(a)光纤（b）小孔光阑(c)角度旋转台（d）显微镜 （a）中心圆斑 （b）环形斑 (a)Fiber (b)Aperture (c)Angle rotation stage (d)Microscope (a) Center circular spot (b）Annular spot 图3偏斜入射实验装置设备实物图 图4光纤出射光斑示意图 Fig.3 Equipment diagram of deflection incident experimental Fig.4 Schematic diagram of optical fiber spot "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从LAMOSTDR2中选取光谱除巴尔末系列发射特征还包含金属发射，实验抽取LAMOST  \n星表命名Designation 为J015650.77+574037.6，赤经Ra为29.211578，赤纬Dec 为 57.677124。  \n$\\mathrm { J 0 4 3 8 5 7 . 4 5 + 5 4 2 2 2 6 . 8 }$ ，赤经Ra为69.739404，赤纬Dec为54.374115。该谱线为恒星B6类型光  \n谱，若目标观测图像中存在噪声将严重影响光纤的实际轮廓，抽谱过程的关键是参数采样点的  \n选取范围。实验选取LAMOST红端长波长CCD对应的波段 $5 0 0 { - } 6 0 0 { \\mathrm { n m } }$ 如图5。从谱线检测3  \n条FeI线峰值对应波长 $5 0 1 . 8 \\mathrm { n m } , 5 1 6 . 9 \\mathrm { n m } , 5 3 1 . 7 \\mathrm { n m }$ 用蓝色虚线标注，由于LAMOST采用 $3 2 0 \\mu \\mathrm { m }$   \n芯径的光纤在CCD上占10个像素，对应宽度 $0 . 8 4 \\mathrm { n m }$ ，即LAMOST红端每个像素为 $0 . 0 8 4 \\mathrm { n m }$ 。J043857.45+542226.8/obsid:4610179",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f5b9889b867bb26b3ce4a71ef7e8d73ec8b1617791daf211d0531b3a373aae8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "图5抽取LAMOSTJ043857. $4 5 \\substack { + 5 4 2 2 2 6 . 8 }$ 红端CCD对应5018A处波段波长"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "读取实际观测的带有发射线的图5光谱数据环形斑图像成一维谱线并平滑如图6最近邻插值采样49个样本点如图6(b)作为光斑模板，用该模板对图5光谱 $5 0 1 . 8 \\mathrm { n m }$ 处每一点周围49点对应光谱强度反卷积后模拟这种退化效应对光谱谱线轮廓造成影响，得到FeII发射线峰值数据的假双峰结构如图7。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ae152db62b393ef0820110e63ec9c21de3e795481c3871dab68d288b8f6302d.jpg",
+        "img_caption": [
+            "Fig.5 Extraction LAM0ST J043857.45 +54226.8 CCDred corresponding wavelengthat 5018A band wav ",
+            "(a)读取环形光斑平滑曲线图(b)取样49 个点环形斑模板(a)FeII线5018A处环形斑产生双峰图像(b)处理环形斑后峰值图像 (a)Reading smoothing chart of annular spot (a)Bimodal image of annular spot at 50l8A of FeII line "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(b)Take a sample of 49 spot circular annular spot 图6环形光斑平滑采样处理 Fig.6 Smoothing sample processing annular spot ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3LAMOST消除环形斑 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "针对上述实验采集的远场出射斑表明，波长定标灯安放不同位置会影响波长定标，若直接照射主镜Mb时经反射后的光线射入光纤的入射角度产生出射斑貌，巡天观测时在主镜前悬挂平场漫反射屏后，可消除上述入射角度偏差引起的环形斑如图8所示。试运行巡天灯谱出射斑如图8(a)当直接照射主镜时可见成形各种出射斑，经过主镜反射后的光线进入光纤的入射角度不同，灯谱发射线像斑会产生形状复杂的环，引入不同的光纤和光谱仪计算斑位置，入射角度误差也不一致。在主镜前悬挂平场漫反射屏测试如图 8(b)主镜放置幕布照射灯谱出射斑较规则，观测中不直接照射主镜拍摄波长定标灯谱，而是采用在主镜前悬挂平场反射屏的方式消除环形斑。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "(b)Processing peak image of annular spot 图7反卷积处理峰值数据 Fig.7 Deconvolution processing peak data ",
+            "(a)Lamp spectrum of the spot in commissioning survey (b)Lamp spectrum of main mirror Mb placed screen irradiation 图8主镜Mb 悬挂平场漫反射屏消除环形斑对比 Fig.8 Compared main mirror Mb suspended flat diffuse screen to eliminate annular spot "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": ".。..。........。 (a) 试运行巡天灯谱出射斑 (b)主镜Mb 放置幕布照射灯谱 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本文研究大天区多目标光纤光谱望远镜系统中光纤的传输性能，分析了望远镜中大芯径光纤出射环形斑产生机制，采用轮廓拟合方法处理二维光纤光谱数据，分析了光纤出射环形斑对天文光谱的影响，尽可能减少直接照射主镜时焦比退化效应的影响，巡天观测过程中主镜前悬挂平场漫反射屏，消除了经反射后的光线射入光纤的入射角度产生出射斑，进而保证正确的光谱分析及谱线的认别工作。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Analysis of spectra annular spot in large core fiber CHEN Shu-xin1’²， SUN Wei-min²， YAN Qing²， ZHANG Qiong² ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1.College of Mechanical and Electrical Engineering,Qiqihar University,Heilongjiang Qiqihar161o06,China) (2.KeyLabofIn-fiberItegratedOtics,nistryEuationohia,HrbinEngeingUivesityHelongjangHarbiin ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The introduction of optical fiber into astronomical telescope observation combined with big data science and technology has promoted the development of astronomy. Multi-target optical fiber measurement technology is mainly affected by the optical fiber transmitance and focal radio degradation(FRD） characteristics.The transmission rate depends on the type of optical fiber materials,the wavelength range and the bending loss of the installed fiber depend on other factors. In addition to the optical fiber numerical aperture and other inherent fiber-related parameters,the optical fiber FRD is also related with the bending,focusing beam relative to the optical fiber incidence eccentric angle and other conditions.The analysis and research of the FRD characteristics of the optical fiber will provide the basis for the improvement of the observation quality of the multi-objective optical fiber telescope system. LAMOST 2-D fiber spectral data process includes following steps，bias subtraction，cosmic ray detection and rejection， fiber tracing，wavelength calibration,and fiber efficiency correction.During the rotation of the telescope,the fiber will be flexural deformed between the focal plane and the spectrograph, meanwhile,if the convergence center of the beam from the telescope is not aligned with the main axis of optical fiber,the FDR will be changing with it which greatly affect the reception of the spectrograph. Therefore, we also analyzed the effect of fiber squeezing and bending on the transmission of light in the LAMOST system. One of the main sources of fiber spectral efficiency loss is caused by FRD of the fiber, which often results in ring-shaped emergent image.This effect not only reduces the transmission eficiency of the fiber but also afects the spectral profiles after the dispersion. In this paper,we obtained the ring-shaped emergent images produced by FRD of large diameter fibers in Guo Shou-Jing (LAMOST) telescope during the commissoning. According to the character CCD image，we applied spectral extraction method based on profile fiting to convert the two-dimensional CCD image into one-dimensional spectrum. We selected LAMOST spectra in wavelength range around $5 0 0 0 { - } 6 0 0 0 \\mathring { \\mathrm { A } }$ ,in which there are Fe emission lines. Then we studied the effect of the FRD on the Fe emission line peaks through convoluting with the obtained ring-shaped emergent profile.Finally,we discussed using flat diffuse screen before the main mirror Mb to eliminate annular plaque-induced deviation caused by the effect of ring-shaped emergent profile. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Focal ratio degradation; Annular spot;2-D fiber spectra; Charge-coupled device test; LAMOST ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]James E G,Walter A S,Edward JM. The $2 . 5 \\mathrm { m }$ telescope of the sloan digital sky survey[J]. The Astronomical Journal, 2006,131(4):2332-2359.   \n[2]Horton A J, Blandhawthorn J. Coupling light into optical fibres near the diffraction limit [C]/ Proceedings of SPIE. 2006.   \n[3]Luo A L, Zhang H T, Zhao Y H, et al. Data release of the LAMOST pilot survey [J]. Research i1   \n1omy and Astrophysics,2012,12(9): 1243-1246.   \n[4]涂洋,张彦霞,赵永恒,等．光谱分析软件在天文学研究中的应用[J].天文研究与技 术,2016,13(1):124-132. Tu Yang, Zhang Yanxia, Zhao Yongheng, et al. Application of spectral analysis softwares in Astronomy [J].Astronomical Research & Technology,2016,13(1):124-132.   \n[5]王森,朱冰.大芯径光谱传光光纤焦比退化特性研究[J].光电工程,2011,38(7):17-27. Wang Sen, Zhu Bing.Focal ratio degradation of large core spectrum light-transmiting optical fiber[J]. Opto-Electronic Engineering,2011, 38(7): 17-27.   \n[6］穆丹丹,朱永田，张凯．天文光纤机械扰模器调制环形光场实验研究[J]．应用光学, 2012,33(5):997-999. Mu Dandan,Zhu Yongtian, Zhang Kai. Modulation of annular light distribution by mechanical fiber scrambler[J].Journal of Applied Optics,2012,33(5):997-999.   \n[7]Bryant JJ, Bland-Hawthorn J,Fogarty L MR,et al. Focal ratio degradation in lightly fused hexabundles[J]. Monthly Notices of the Royal Astronomical Society,2014, 438(1):869-877.   \n[8]Yan Y X, Wang R C, Sun WM,et al. Investigation of focal ratio degradation caused by stress in large-core astronomical fibers[C]// 2O13 International Conference on Optoelectronics and Microelectronics.2013:174-176.   \n[9]陈建军,白仲瑞,李广伟,等.光纤转动引起光纤光谱效率变化与改正[J]．光谱学与光谱分析, 2015,35(4):1099-1102. Chen Jianjun, Bai Zhongrui, Li Guangwei, et al. Correction of fiber throughput variatioon due to the focal ratio degradation[J]. Spectroscopy and Spectral Analysis,2015,35(4):1099-1102.   \n[10] Yan R B, Tremonti C, Bershady M A, et al. SDSS-IV/MaNGA: spectrophotometric calibration technique[J]. The Astronomical Journal, 2016,151(1):8(18pp).   \n[11]董健,王坚,邓小超,等.LAMOST观测控制系统用户界面设计[J].天文研究与技术—国家天文台台 刊,2011,8(3):272-278. Dong Jian, Wang Jian, Deng Xiaochao, et al. Design of user interfaces for the LAMOST observatory control system [J].Astronomical Research & Technology—Publications of National Astronomical Observatories of China,2011,8(3): 272-278.   \n[12]汪梦欣,陈笑然,罗阿理,等．前照条件下LAMOST焦面板光纤单元定位精度检测系统设计[J].天文 研究与技术—国家天文台台刊,2014,11(2):157-164. Wang Mengxin, Chen Xiaoran, Luo Ali, et al. Design of a system for measuring positioning accuracies of optical-fiber units on the LAMOST focal plane using front light sources [J]. Astronomical Research & Technology—Publications of National Astronomical Observatories of China, 2014,11(2):157-164. ",
+        "page_idx": 8
+    }
+]

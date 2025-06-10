@@ -1,0 +1,199 @@
+22\~42日龄肉鸡铜、铁、锌、锰不同用量组合的研究田佳刘国华\*蔡辉益常文环　张姝　刘伟（中国衣亚科子阮词科叭儿所，衣亚部询科王彻孜小里点儿放头验至，北京IUUU01）
+
+摘要：本试验旨在研究饲粮中铜、铁、锌、锰含量对 22\~42日龄肉鸡生长性能和粪中铜、铁、锌、锰排泄量的影响，进而对微量元素的平衡模式进行探讨。选取940 只1日龄爱拔益加（AA）肉公鸡，1\~21日龄统一饲喂铜、铁、锌、锰含量分别为16.96、166.66、46.01、$6 0 . 2 6 \mathrm { m g / k g }$ 的玉米-豆粕型饲粮。试验选用 22日龄、体况良好、体重接近的AA肉公鸡 900只，随机分为15组，每组6个重复，每个重复10只鸡。对照组饲喂基础饲粮，基础饲粮中铜、铁、锌、锰含量分别为8、125、40、60mg/kg，试验组饲喂在基础饲粮中按照均匀设计原则添加 $2 { \sim } 8 ~ \mathrm { m g / k g }$ 铜、 $1 0 { \sim } 3 5 ~ \mathrm { m g / k g }$ 铁、 $\mathrm { 1 0 { \sim } 4 0 ~ m g / k g }$ 锌、 $1 5 { \sim } 6 0 ~ \mathrm { m g / k g }$ 锰组成的14 种试验饲粮。测定肉鸡试验期生长性能，并于38\~42日龄时采集粪样测定铜、铁、锌、锰含量。结果表明：1）饲粮铜、铁、锌、锰含量在NRC推荐量至2倍 NRC 推荐量范围时，对 22\~42日龄肉鸡的平均日增重（ADG）和料重比（F/G）无显著影响（ $P { > } 0 . 0 5$ )。2）由最优解分析得出，粪中铜排泄量最低为 $2 3 . 1 1 \mathrm { m g / k g }$ 时，饲粮铜、铁、锌、锰含量分别为7.15、116.28、82.82、60.95mg/kg；铁排泄量最低为 $4 3 8 . 3 4 \mathrm { m g / k g }$ 时，饲粮铜、铁、锌、锰含量分别为14.78、116.81、38.15、63.72 mg/kg；锌排泄量最低为 $1 0 2 . 6 0 \mathrm { m g / k g }$ 时，饲粮铜、铁、锌、锰含量分别为7.69、127.40、40.70、133.26 mg/kg；锰排泄量最低为 $1 5 9 . 3 7 ~ \mathrm { m g / k g }$ 时，饲粮铜、铁、锌、锰含量分别为11.07、136.97、46.13、 $5 9 . 0 5 ~ \mathrm { m g / k g }$ ；粪中铜、铁、锌、锰总排泄量最低为 $2 1 8 . 9 4 \mathrm { m g / k g }$ 时，饲粮铜、铁、锌、锰含量分别为7.36、125.74、38.23、62.76 mg/kg。综上所述，饲粮铜、铁、锌、锰含量在 NRC 推荐量至2倍NRC 推荐量范围时对 22\~42日龄肉鸡的生长性能无显著影响（ $( P { > } 0 . 0 5 )$ ；粪中铜、铁、锌、锰任一元素的排泄量均受饲粮中其他微量元素添加量的影响，且针对不同元素最低排泄量存在不同的最佳组合；饲粮铜、铁、锌、锰的含量分别为7.36、125.74、38.23、 $6 2 . 7 6 \mathrm { m g / k g }$ 时，能够满足肉鸡微量元素需要量，同时粪中铜、铁、锌、锰总排泄量最小。
+
+关键词：铜、铁、锌、锰；肉鸡；生长性能；微量元素排泄量；均匀设计中图分类号：S831；S816.72 文献标识码：A 文章编号：
+
+微量元素是动物维持生命和生产不可缺少的营养素之一，具有重要的营养生理功能，特别是铜、铁、锌、锰4种元素。铜作为金属酶的组成成分，如铜蓝蛋白，可直接参与体内代谢[-2]；铁是红细胞中血红蛋白的组成成分，保证氧在机体内的正常运输[3-4]；锌是多种酶的重要组成部分，通过影响酶的活性来发挥其生物功能[5-6]；锰与畜禽骨骼生长密切相关，饲粮中缺乏锰可导致家禽骨骼畸形，即滑腱症[7]。不同微量元素在肉鸡体内的吸收存在协同和拮抗作用，与肉鸡微量元素的吸收密切相关]。如因锌过量添加形成的金属硫蛋白会阻碍铜在肠上皮细胞或肠细胞的转运，引起铜的继发性缺乏。近年来，有学者认为NRC（1994）所制定的家禽微量元素需要量较低，不能满足肉鸡实际生产需要。然而，过量添加微量元素会导致微量元素未被肉鸡完全吸收利用而随粪便排出，造成浪费并引起环境污染[10-1]。因此，有学者提出了微量元素平衡模式，他们认为微量元素和氨基酸一样，存在某种适宜的比例关系，这种比例关系既能满足动物生长需要量，又能显著降低微量元素的排泄量[12]。本试验旨在研究饲粮中不同比例的铜、铁、锌、锰对肉鸡生长性能和粪中铜、铁、锌、锰排泄量的影响，探寻适宜的铜、铁、锌、锰添加比例，为肉鸡饲粮中微量元素平衡模式的应用提供理论与技术支持。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+本试验中无机微量元素采用五水硫酸铜、一水硫酸亚铁、一水硫酸锌、一水硫酸锰（分析纯)，其金属元素含量分别为 $2 5 . 2 2 \%$ 、 $3 0 . 1 1 \%$ 、 $34 . 3 9 \%$ 、 $3 1 . 8 9 \%$ ；饲料原料中铜、铁、锌、锰的含量分别为8.00、124.82、36.11、27.07 mg/kg。
+
+# 1.2 试验动物
+
+试验选用940只1日龄爱拔益加（AA）肉公鸡（购自北京华都肉鸡公司)，1\~21日龄时饲喂玉米-豆粕型饲粮，饲粮铜、铁、锌、锰含量分别为16.96、166.66、46.01、60.26 mg/kg。22 日龄时，选择体重相近的肉公鸡900只，随机分为15组，每组6个重复，每个重复10 只鸡，分别饲喂基础饲粮和试验饲粮。基础饲粮组成及营养水平见表1。试验期 21d。
+
+# 1.3试验饲粮与试验设计
+
+本试验采用均匀设计方法，以基础饲粮中铜、铁、锌、锰的含量为最低剂量，以添加达到2倍NRC（1994）推荐量为最高剂量。铜、铁、锌、锰的添加量见表2，饲粮中铜、铁、锌、锰的编码值和实际含量见表3。
+
+# 表1基础饲粮组成及营养水平 (风干基础)
+
+Table1Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td></td><td>22~42 日龄 22 to 42 days of 1~21 日龄 1 to 21 days of age age</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>55.04</td></tr><tr><td>植物油Vegetable oil</td><td>1.84</td></tr><tr><td>豆粕 Soybean meal</td><td>31.58</td></tr><tr><td>棉籽粕 Cottonseed meal</td><td>4.00 6.00</td></tr><tr><td>菜籽饼 Rapeseed meal</td><td>3.00 4.00</td></tr><tr><td>食盐 NaCl</td><td>0.30 0.30</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>1.97 1.61</td></tr><tr><td>石粉 Limestone</td><td>1.18 1.15</td></tr><tr><td>L-赖氨酸盐酸盐 L-Lys·HCl</td><td>0.18 0.36</td></tr><tr><td>DL-蛋氨酸DL-Met</td><td>0.21</td></tr></table></body></html>
+
+<html><body><table><tr><td>L-苏氨酸L-Thr</td><td>0.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.05 0.20 0.15</td></tr><tr><td>预混料 Premix1)</td><td>0.50 0.50</td></tr><tr><td>合计 Total</td><td>100.00 100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td></tr><tr><td>代谢能 ME/(MJ/kg)</td><td>12.34 12.76</td></tr><tr><td>粗蛋白质CP</td><td>21.00 18.00</td></tr><tr><td>赖氨酸Lys</td><td>1.30 1.15</td></tr><tr><td>蛋氨酸 Met</td><td>0.52 0.45</td></tr><tr><td>蛋氨酸+胱氨酸 Met+Cys</td><td>0.90 0.81</td></tr><tr><td>苏氨酸Thr</td><td></td></tr><tr><td>色氨酸Trp</td><td>0.82 0.72</td></tr><tr><td>钙Ca</td><td>0.30 0.24</td></tr><tr><td>总磷TP</td><td>1.00 0.90</td></tr><tr><td>有效磷 AP</td><td>0.74 0.64 0.45 0.38</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 Premix provided the following per $\mathrm { k g }$ of diets:1\~21日龄 1 to 21 days of age,VA 8 000 IU，VD1000 IU，VE $2 0 ~ \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 0 . 5 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 8 \mathrm { m g }$ ， $\mathrm { V B } 6 3 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 ~ \mathrm { m g }$ 泛酸 pantothenic acid $1 0 \mathrm { m g }$ ，烟酸 nicotinic acid $3 5 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 5 \mathrm { m g }$ ，生物素biotin $0 . 1 8 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 \ 3 0 0 \ \mathrm { m g }$ ，I(as calcium iodide) $0 . 6 ~ \mathrm { m g }$ ，Se $0 . 3 \mathrm { m g }$ ；22\~42日龄 22 to 42 days of age,VA 6 000 IU，VD 750 IU，VE $1 0 \mathrm { m g }$ ， $\mathrm { V K } _ { 3 } 0 . 5 \ : \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $1 0 \mathrm { m g }$ ，烟酸 nicotinic acid $3 0 \mathrm { m g }$ ，叶酸 folic acid $0 . 5 5 \mathrm { m g }$ ，生物素 biotin $0 . 1 5 \mathrm { m g }$ ，氯化胆碱 choline chloride $1 0 0 0 \mathrm { m g }$ ，I(as calcium iodide) $0 . 6 \mathrm { m g }$ ，Se $0 . 3 \mathrm { m g }$ ，Fe $0 . 1 8 \mathrm { m g }$ ， $Z n 3 . 8 9 \mathrm { m g }$ ，Mn 32.93mg。2)粗蛋白质、钙、总磷为实测值，其余为计算值。CP,Caand TP were measured values,while the others werecalculated values.
+
+# 表2试验因素及添加量
+
+Table 2The experimental factors and addition contents mg/kg   
+
+<html><body><table><tr><td rowspan="3">因素 Factors</td><td colspan="5">添加量 Addition content</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>铜Cu</td><td>14</td><td>16</td><td>8</td><td>10</td><td>12</td></tr><tr><td>铁Fe</td><td>160</td><td>125</td><td>135</td><td>145</td><td>155</td></tr></table></body></html>
+
+<html><body><table><tr><td>锌Zn</td><td>50</td><td>60</td><td>70</td><td>80</td><td>40</td></tr><tr><td>锰Mn</td><td>75</td><td>90</td><td>105</td><td>120</td><td>60</td></tr></table></body></html>
+
+表3饲粮中铜、铁、锌、锰编码值和实际含量
+
+71
+
+Table 3Coded values and actual contents of Cu,Fe,Zn and Mn in diets   
+
+<html><body><table><tr><td rowspan="2">组别 Groups</td><td colspan="4">编码值 Coded value</td><td colspan="4">含量 Content/(mg/kg)</td></tr><tr><td>铜</td><td>铁</td><td>锌</td><td>锰</td><td>铜</td><td>铁</td><td>锌</td><td>锰</td></tr><tr><td></td><td>Cu</td><td>Fe</td><td>Zn</td><td>Mn</td><td>Cu</td><td>Fe</td><td>Zn</td><td>Mn</td></tr><tr><td>1</td><td>3</td><td>2</td><td>5</td><td>5</td><td>8</td><td>125</td><td>40</td><td>60</td></tr><tr><td>2</td><td>2</td><td>5</td><td>4</td><td>4</td><td>16</td><td>155</td><td>80</td><td>120</td></tr><tr><td>3</td><td>1</td><td>3</td><td>3</td><td>5</td><td>14</td><td>135</td><td>70</td><td>60</td></tr><tr><td>4</td><td>4</td><td>5</td><td>3</td><td>1</td><td>10</td><td>155</td><td>70</td><td>75</td></tr><tr><td>5</td><td>1</td><td>4</td><td>2</td><td>2</td><td>14</td><td>145</td><td>60</td><td>90</td></tr><tr><td>6</td><td>1</td><td>1</td><td>4</td><td>3</td><td>14</td><td>160</td><td>80</td><td>105</td></tr><tr><td>7</td><td>2</td><td>2</td><td>1</td><td>4</td><td>16</td><td>125</td><td>50</td><td>120</td></tr><tr><td>8</td><td>2</td><td>3</td><td>5</td><td>1</td><td>16</td><td>135</td><td>40</td><td>75</td></tr><tr><td>9</td><td>5</td><td>4</td><td>5</td><td>3</td><td>12</td><td>145</td><td>40</td><td>105</td></tr><tr><td>10</td><td>4</td><td>2</td><td>4</td><td>2</td><td>10</td><td>125</td><td>80</td><td>90</td></tr><tr><td>11</td><td>4</td><td>4</td><td>2</td><td>5</td><td>10</td><td>145</td><td>60</td><td>60</td></tr><tr><td>12</td><td>5</td><td>1</td><td>3</td><td>4</td><td>12</td><td>160</td><td>70</td><td>120</td></tr><tr><td>13</td><td>5</td><td>3</td><td>1</td><td>2</td><td>12</td><td>135</td><td>50</td><td>90</td></tr><tr><td>14</td><td>3</td><td>1</td><td>2</td><td>1</td><td>8</td><td>160</td><td>60</td><td>75</td></tr><tr><td>15</td><td>3</td><td>5</td><td>1</td><td>3</td><td>8</td><td>155</td><td>50</td><td>105</td></tr></table></body></html>
+
+# 1.4饲养管理
+
+试验肉鸡采用笼养，全期自由采食和饮水，每天 $2 3 \mathrm { h }$ 光照，19:00\~20:00 黑暗1h。每天记录各重复肉鸡采食量，记录死淘鸡只数，死淘时间和死淘鸡体重。饲粮原料均采用不锈钢粉碎机粉碎。鸡舍卫生管理按常规进行，试验过程未采取任何药物治疗。饲养试验在中国农业科学院饲料研究所昌平南口中试基地进行。
+
+# 1.5样品采集与指标测定
+
+# 1.5.1 生长性能指标
+
+42 日龄时，试验肉鸡禁食8h后以重复为单位空腹称重，准确记录体重和耗料量，计算每个重复肉鸡 22\~42 日龄的平均日增重（ADG)、平均日采食量（ADFI)、料重比（F/G)。
+
+# 1.5.2 代谢指标
+
+36日龄24:00 停料，排空消化道内容物，37日龄08:00 清除粪盘中排泄物并在鸡笼下放置干净的塑料布后开始喂料，准确记录给料量。38日龄开始每天以重复为单位收集全部排泄物，拣出羽杂物及洒料，称取鲜粪总重，混匀后按特定的比例取样，喷洒少量 $10 \%$ 盐酸溶液固氮，连续收集3d。粪样放入烘箱中，105℃持续 $1 5 \mathrm { m i n }$ 灭酶和微生物，然后 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘干，取出于空气中回潮 $2 4 \mathrm { h }$ 后称重。烘干后的样品用不锈钢粉碎机粉碎并过40目筛，装入自封袋密封备测。称取 $0 . 5 \mathrm { g }$ 左右粪样于消解罐中，加入硝酸 $7 \mathrm { m L }$ ，静置消解过夜后，加入双氧水1mL，组装消解罐。设置微波消解程序为： $1 3 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ， $1 0 \mathrm { m i n }$ ； $1 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ， $5 \mathrm { m i n }$ ； $1 8 0 ~ \mathrm { { ^ circ C } }$ ， $2 0 \mathrm { m i n }$ 。消解完成后，用去离子水将消解液转移至 $5 0 \mathrm { m L }$ 锥形瓶中，于控温板上加热排酸( $\mathrm { { ( - 1 8 0 ~ \mathrm { ~ ‰ ~ } } ~ }$ ），蒸至 $1 { \sim } 2 \mathrm { m L }$ 。用 $1 \% \mathrm { H N O } _ { 3 }$ 将锥形瓶中液体转移定容至 $2 5 \mathrm { m L }$ ，摇匀，上原子吸收光谱仪测定粪样中铜、铁、锌、锰含量。
+
+# 1.6 数据处理与统计分析
+
+数据采用 SPSS17.0 软件中单因素方差分析(one-way ANOVA)、Duncan 氏法多重比较和DPS（v9.05)中多项式逐步回归进行分析。回归方程决定系数 $R ^ { 2 }$ 值表示多项式的拟合程度，t检验方程回归系数的显著性， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。试验数据采用平均值±标准误（ $\mathbf { M } { \pm } \mathbf { S } \mathbf { E }$ ）表示。
+
+# 2结果
+
+2.1饲粮铜、铁、锌、锰含量对22\~42日龄肉鸡生长性能的影响由表4可知，饲粮铜、铁、锌、锰含量对肉鸡的ADFI有显著影响（ $. P { < } 0 . 0 5 )$ ，但对ADG  
+和F/G无显著影响（ $( P { > } 0 . 0 5 )$ ）。
+
+# 表4饲粮铜、铁、锌、锰含量对22\~42日龄肉鸡生长性能的影响
+
+Table 4Efects of dietary Cu,Fe, Zn and Mn contents on growth performance of boilers aged
+
+<html><body><table><tr><td>组别</td><td>平均日增重 ADG/g</td><td>平均日采食量 ADFI/g</td><td>料重比 F/G</td></tr><tr><td>Groups 1</td><td>78.98±1.12</td><td>163.72±0.57bcd</td><td>2.080±0.017</td></tr><tr><td>2</td><td>82.70±1.74</td><td>165.77±1.16cd</td><td>2.050±0.022</td></tr><tr><td>3</td><td>79.47±1.71</td><td>158.88±1.50a</td><td>2.060±0.024</td></tr><tr><td>4</td><td>82.07±2.75</td><td>165.60±1.55cd</td><td>1.960±0.040</td></tr><tr><td>5</td><td>83.11±1.18</td><td>162.42±0.36bc</td><td>2.030±0.033</td></tr><tr><td>6</td><td>80.58±1.03</td><td>157.85±1.49a</td><td>2.120±0.095</td></tr><tr><td>7</td><td>78.85±1.21</td><td>161.18±0.74ab</td><td>2.080±0.031</td></tr><tr><td>8</td><td>79.99±1.57</td><td>161.01±0.75ab</td><td>2.070±0.049</td></tr><tr><td>9</td><td>82.24±1.88</td><td>164.43±1.08bcd</td><td>2.020±0.017</td></tr><tr><td>10</td><td>79.98±1.55</td><td>158.28±0.94a</td><td>2.080±0.031</td></tr><tr><td>11</td><td>80.87±0.95</td><td>162.97±1.36bc</td><td></td></tr><tr><td>12</td><td>79.39±1.93</td><td></td><td>2.060±0.024</td></tr><tr><td>13</td><td></td><td>158.39±1.20a</td><td>2.020±0.040</td></tr><tr><td>14</td><td>83.40±1.34</td><td>166.85±0.58d</td><td>2.020±0.031</td></tr><tr><td>15</td><td>78.20±2.24</td><td>164.02±1.05bcd</td><td>2.020±0.020</td></tr><tr><td></td><td>82.48±1.80</td><td>163.41±1.38bcd</td><td>2.080±0.063</td></tr><tr><td>P值P-value</td><td>0.409</td><td><0.001</td><td>0.857</td></tr></table></body></html>
+
+同列数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5 .$ )。下表同。
+
+In the same column, values with no lettr or the same letter superscripts mean no significant  
+difference ( $P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference ( $P$   
+${ < } 0 . 0 5$ ).The same as below.  
+2.2饲粮铜、铁、锌、锰含量对 22\~42日龄肉鸡粪中铜、铁、锌、锰排泄量的影响在饲粮铜、铁、锌、锰含量不同时，22\~42日龄肉鸡粪中铜、铁、锌、锰排泄量（表5）  
+采用 DPS（v9.05）进行多项式逐步回归，分别得出粪中铜、铁、锌、锰排泄量的多项式回  
+归方程（表6)。通过最优解分析，分别得出粪中铜、铁、锌、锰排泄量最小时饲粮中铜、  
+铁、锌、锰的含量。由表6回归方程1可知，饲粮中铁和锌的含量对粪中铜的排泄量有显著影响( $( P { < } 0 . 0 5 )$ ，  
+均表现为负效应，铁和锌的交互作用对粪中铜的排泄量表现出极显著的正效应（ $P { < } 0 . 0 1 )$ 。
+
+由最优解分析得出，当粪中铜排泄量达到最小为 $2 3 . 1 1 \mathrm { m g / k g }$ 时，饲粮中铜、铁、锌、锰的含量分别为7.15、116.28、82.82、60.95 mg/kg。
+
+由回归方程2可知,饲粮中铜含量对粪中铁的排泄量表现出极显著的负效应( $( P { < } 0 . 0 1 \dot { ) }$ )，  
+铁的排泄量随饲粮中铁含量的增加而显著增加（ $_ { . P < 0 . 0 5 ) }$ 。锌和锰的交互作用对铁的排泄量  
+有极显著的正效应 ( ${ \cdot } P { < } 0 . 0 1$ )。由最优解分析得出，当粪中铁排泄量达到最小为 $4 3 8 . 3 4 \mathrm { m g / k g }$   
+时，饲粮中铜、铁、锌、锰的含量分别为14.78、116.81、38.15、63.72 mg/kg。由回归方程3可知，饲粮中铜和铁的含量均会对粪中锌的排泄量产生极显著影响（ ${ \cal P } { < } 0 . 0 1$ )，铜表现出正效应，铁为负效应。铜和铁的交互作用对锌的排泄有显著负效应（ $P { < } 0 . 0 5 )$ ，锌和锰的交互作用效果与之相反（ $P { < } 0 . 0 5$ )。由最优解分析得出，当粪中锌排泄  
+量达到最小为 $1 0 2 . 6 0 \mathrm { m g / k g }$ 时，饲粮中铜、铁、锌、锰的含量分别为7.69、127.40、40.70、  
+133.26 mg/kg 。由回归方程4可知，粪中锰的排泄量随着饲粮中锰含量的增加而显著增加（ $P { < } 0 . 0 5 \rangle$ )，  
+铜锌、铜锰、锌锰的交互作用对锰的排泄量有极显著的负效应（ $_ { \scriptstyle P < 0 . 0 1 } )$ )。由最优解分析得  
+出，当粪中锰排泄量达到最小为 $1 5 9 . 3 7 \mathrm { m g / k g }$ 时，饲粮中铜、铁、锌、锰的含量分别为11.07、  
+136.97、46.13、59.05 mg/kg。由回归方程5可知，饲粮中铜和铁的含量对粪中铜、铁、锌、锰的总排泄量有显著影  
+响（ $_ { . P < 0 . 0 5 }$ )，锌和锰对铜、铁、锌、锰总排泄量无显著影响（ $P { > } 0 . 0 5$ )，但锌与锰交互作  
+用对铜、铁、锌、锰总排泄量有显著影响（ $P { < } 0 . 0 5 )$ ，铜分别与铁、锌、锰的交互作用对  
+铜、铁、锌、锰的总排泄量有极显著影响（ $P { < } 0 . 0 1$ )。由最优解分析得出，当粪中铜、铁、  
+锌、锰总排泄量最小为 $2 1 8 . 9 4 ~ \mathrm { m g / k g }$ 时，饲粮中铜、铁、锌、锰的含量分别为7.36、  
+125.74、38.23、62.76 mg/kg。表5饲粮铜、铁、锌、锰含量对 22\~42 日龄肉鸡粪中铜、铁、锌、锰排泄量的影响
+
+Table 5Effects of dietary Cu,Fe,Zn and Mn contents on excretion of Cu,Fe,Zn and Mn in   
+
+<html><body><table><tr><td>组别</td><td>铜排泄量</td><td>铁排泄量</td><td>锌排泄量</td><td>锰排泄量</td><td>总排泄量</td></tr><tr><td>Groups</td><td>Cu excretion</td><td>Fe excretion</td><td>Zn excretion</td><td>Mn excretion</td><td>Total excretion</td></tr><tr><td>1</td><td>36.63±0.14</td><td>178.30±1.39</td><td>166.78±1.94</td><td>501.92±3.24</td><td>220.91±1.21</td></tr><tr><td>2</td><td>50.38±0.61</td><td>254.35±1.88</td><td>279.91±1.04</td><td>688.58±3.17</td><td>318.31±0.74</td></tr><tr><td>3</td><td>38.99±0.86</td><td>246.43±0.81</td><td>176.74±2.89</td><td>503.61±3.02</td><td>241.95±2.06</td></tr><tr><td>4</td><td>36.64±0.74</td><td>254.11±1.27</td><td>222.89±4.71</td><td>615.07±4.78</td><td>282.18±1.32</td></tr><tr><td>5</td><td>41.90±0.98</td><td>205.85±1.51</td><td>207.90±2.89</td><td>587.75±3.16</td><td>259.49±1.78</td></tr><tr><td>6</td><td>38.87±0.48</td><td>280.21±0.42</td><td>254.77±4.01</td><td>615.76±3.22</td><td>297.40±0.68</td></tr><tr><td>7</td><td>54.26±1.73</td><td>165.87±0.53</td><td>312.65±2.85</td><td>526.54±3.22</td><td>264.83±0.84</td></tr><tr><td>8</td><td>42.56±0.42</td><td>162.49±0.61</td><td>202.22±0.94</td><td>558.84±2.99</td><td>241.53±0.94</td></tr><tr><td>9</td><td>38.44±0.21</td><td>164.40±1.58</td><td>280.49±1.26</td><td>532.30±14.01</td><td>253.91±3.66</td></tr><tr><td>10</td><td>30.38±0.35</td><td>297.70±1.32</td><td>241.90±0.54</td><td>644.10±4.69</td><td>299.35±4.42</td></tr><tr><td>11</td><td>25.96±0.20</td><td>231.78±1.39</td><td>157.97±1.07</td><td>608.47±4.76</td><td>256.78±2.09</td></tr><tr><td>12</td><td>43.87±0.07</td><td>282.65±0.76</td><td>294.23±7.29</td><td>651.10±7.90</td><td>318.21±2.00</td></tr><tr><td>13</td><td>39.81±0.18</td><td>227.15±12.10</td><td>231.46±0.50</td><td>566.91±3.74</td><td>267.54±2.69</td></tr><tr><td>14</td><td>26.66±0.15</td><td>282.17±11.80</td><td>199.95±1.52</td><td>635.77±3.88</td><td>284.93±3.61</td></tr><tr><td>15</td><td>31.42±0.39</td><td>198.20±0.92</td><td>286.67±3.43</td><td>676.73±2.75</td><td>298.26±0.83</td></tr></table></body></html>
+
+表6粪中铜、铁、锌、锰排泄量的多项式回归方程
+
+feces of boilers aged from 22 to 42 days mg/kg   
+Table 6The polynomial regression equation for excretion of Cu, Fe, Zn and Mn in feces   
+
+<html><body><table><tr><td>编号 Numbers</td><td>回归方程 Regression equation</td><td>R²</td><td>P值 P-value</td></tr><tr><td>1</td><td>Y1=130.712-0.916X2-1.068X3+0.054X1×X1- 0.006X3×X3+0.001X4×X4+0.012X2×X3</td><td>R²=0.85</td><td>P<0.001</td></tr><tr><td>2</td><td>Y2=-1304.931-62.471Xi+29.914X2+2.198XixX1- 0.102X2xX2+0.024X3×X4</td><td>R²=0.74</td><td>P<0.001</td></tr><tr><td>3</td><td>Y3=424.206+68.495Xi-9.210X2-1.499X1×X1+0.044X2XX2- 0.011X4×X4-0.262X1×X2+0.030X3×X4</td><td>R²=0.88</td><td>P<0.001</td></tr><tr><td>4</td><td>Y4=20.877+2.545X4+0.374X1×X1+0.033X3×X3+0.014X4XX4- 0.101X1×X3-0.066X1×X4-0.031X3×X4</td><td>R²=0.95</td><td>P<0.001</td></tr><tr><td>5</td><td>Y5=-35.800+21.675Xi+1.596Xz-0.121Xi×X2-0.071Xi×X3- 0.040X1×X4+0.023X3×X4</td><td>R²=0.89</td><td>P<0.001</td></tr></table></body></html>
+
+D回归方程中 $X _ { 1 }$ ， $X _ { 2 }$ ， $X _ { 3 }$ ， $X _ { 4 }$ 为编码值，分别代表饲粮中铜、铁、锌、锰含量； $Y _ { 1 }$ ， $Y _ { 2 }$ $Y _ { 3 }$ ， $Y _ { 4 }$ ， $Y _ { 5 }$ 分别代表粪中铜、铁、锌、锰排泄量及总排泄量。
+
+2)回归方程中各回归系数统计检验极显著（ $\cdot P { < } 0 . 0 0 1 \cdot$ ）
+
+（204号 $^ { 1 ) } X _ { 1 } , X _ { 2 } , X _ { 3 }$ and $X _ { 4 }$ in the regression equation were coded values, mean dietary Cu, Fe, Zn and   
+Mn contents,respectively. $Y _ { 1 } , Y _ { 2 } , Y _ { 3 } , Y$ $\boldsymbol { Y _ { 4 } }$ and $Y _ { 5 }$ mean excretion of Cu, Fe, Zn and Mn and total   
+excretion in feces. 2)The regression coefficients of regression equation were statistically significant $( P { < } 0 . 0 0 1 )$ ：
+
+3讨论
+
+3.1饲粮铜、铁、锌、锰含量对22\~42日龄肉鸡生长性能的影响NRC 对肉鸡铜、铁、锌、锰的推荐量分别为8、80、40、 $6 0 ~ \mathrm { m g / k g }$ ，本研究结果表明，肉鸡饲粮中铜、铁、锌、锰含量由 NRC 推荐量升高至2倍 NRC 推荐量并不能显著提高 22\~42日龄肉鸡 ADG 和降低F/G。周桂莲[13]研究表明，肉鸡生长性能并不随饲粮中铜添加量的增加而提高。22\~42日龄肉鸡饲粮中铜含量为9mg/kg 时即可满足其生长需求，即使添加至 200mg/kg 也不能显著提高肉鸡生长性能[14]。本研究中，饲粮中铜水平（ $8 { \sim } 1 6 \mathrm { m g / k g }$ ）对肉鸡的生长性能也无显著影响，说明低剂量的铜即能够满足肉鸡生长需要。黄艳玲等[15的研究表明，在含锌 $2 2 . 6 1 \mathrm { m g / k g }$ 的肉鸡饲粮中添加 $4 7 . 6 1 { \sim } 8 7 . 6 1 \mathrm { m g / k g }$ 的锌，对肉鸡生长性能无显著影响，与本研究中锌的推荐量范围 $\left( 4 0 { \sim } 8 0 \mathrm { m g / k g } \right)$ 相一致。当饲粮中锌添加量高达8倍NRC推荐量时，并未对 AA 肉鸡的体重产生显著影响[16]。说明高锌并不能显著提高肉鸡的生长性能，低含量的锌即可满足肉鸡生长需要。Vahl等[17]在含铁量为 $1 0 0 \mathrm { m g / k g }$ 的基础饲粮中添加$2 0 { \sim } 6 0 \mathrm { m g / k g }$ 的铁发现，肉鸡体增重并不随铁添加量的增加而变化。本试验中铁的推荐范围$( 1 2 5 { \sim } 1 6 0 \mathrm { m g / k g } )$ 与此试验结果相一致。罗绪刚等[18]采用不同锰水平的饲粮饲喂肉鸡发现，$1 8 { \sim } 6 2 ~ \mathrm { m g / k g }$ 锰水平对肉鸡的 ADG 和 ADFI影响不显著。汤莉[19]的研究指出，在基础饲粮中分别添加40、80、 $1 6 0 ~ \mathrm { m g / k g }$ 铁和60、120、180 mg/kg 锰，均对肉鸡生长性能无显著影响。因此高剂量的铁和锰对肉鸡的生长性能均无显著影响，NRC 推荐的铁和锰需要量即能满足肉鸡的生长性能。Gajula 等[20]也指出，NRC 对锌和锰的推荐量（40、60 mg/kg）能够满足肉鸡对其需要量。因此不需要使用高剂量的锌和锰就能满足肉鸡正常生长需要。王义辉[21]采用D 最优设计研究得出，试验饲粮中铜、铁、锌、锰的含量分别为13.7、243.1、44.4、$1 6 . 3 4 ~ \mathrm { m g / k g }$ 即能够满足肉鸡生产的需要量。此结果表明微量元素间若达到了平衡状态，某种元素低于NRC 的推荐量也能满足肉鸡生长的需要，在饲粮中添加高剂量微量元素并不能提高肉鸡的生长性能。
+
+3.2饲粮铜、铁、锌、锰含量对 22\~42日龄肉鸡粪中铜、铁、锌、锰排泄量的影响本试验结果表明，饲粮中铁和锰的含量分别与 22\~42日龄肉鸡粪中铁和锰的排泄量存在显著线性关系，饲粮中铜和锌的含量与 22\~42日龄肉鸡粪中铜和锌的排泄量无显著线性关系。姜俊芳[22]在饲粮铁含量对肉鸡微量元素留存率的研究中指出，随着铁含量的增加，铁的表观存留率显著下降，即铁排泄量随饲粮铁含量的增加而增加。袁建敏等[23]也指出肉鸡锰排泄量随饲粮中锰含量的增加而增加。以上结论与本研究饲粮铁和锰水平对排泄量影响的结果一致。但Lin 等[24]在铜、锌含量分别为 10、 $5 0 ~ \mathrm { m g / k g }$ 的基础饲粮中分别添加铜 40、90、140 mg/kg，锌 50、150、250 mg/kg，研究发现，随着饲粮中铜和锌含量的增加，其排泄量也增加。此结果与本研究结果不同，可能是由于本试验中铜和锌的含量（Cu8\~16 mg/kg,Zn 40\~80mg/kg）较低，大部分在肝脏等组织中沉积，而Lin等[24]试验中铜和锌的添加量超出了其最大沉积量，多余的铜和锌随粪便排出，因而排泄量随饲粮中添加量的增加而增加。本试验中，分别以粪中铜、铁、锌、锰的最低排泄量作为评价指标时，铜、铁、锌、锰的最佳组合比例不同，表明铜、铁、锌、锰的吸收和利用存在复杂的交互作用，进而对铜、铁、锌、锰的排泄量产生影响。有报道认为，锌过量添加形成的金属硫蛋白会阻碍铜在肠上皮细胞的转运，影响铜的吸收，进而增加铜的排泄量[25]。锰与铁之间存在着拮抗作用，高铁含量对锰的抑制作用已在人等哺乳动物及鸡的研究中有一致的报道[23.26]。在我国，饲粮中普遍添加高剂量的铜作为动物生长促进剂，由于微量元素间的交互作用，需添加高锌和高铁以
+
+保证动物正常的生理生化需要。畜禽粪中微量元素的排泄量会随着饲粮中微量元素添加量的增加而增加，会造成大量微量元素的浪费，同时引起严重的环境污染。因此，在保证不影响肉鸡生长性能的前提下，降低微量元素的添加量并保持微量元素之间适宜的比例是降低微量元素排泄量、减轻其对环境污染的有效措施。但微量元素之间的作用关系比较复杂，如何保证平衡供给以及相互作用的机理还需要进一步的研究。王义辉[21认为，以生长性能为指标确定的微量元素需要量会低于以其他指标（如组织沉积等指标）确定的微量元素需要量，后者确定的微量元素需要量能够满足肉鸡达到最佳生理生化状态的需求，但微量元素的添加会引起排泄量的增加，对于肉鸡等饲养周期较短的动物来说，是否有必要以浪费资源和污染环境为代价来获得动物的最佳生理生化状态是一个值得考虑的问题。此外，本试验仅确定了不同指标下铜、铁、锌、锰的最佳组合，而且不同指标的最佳组合不同，因此，建立能够对肉鸡生长性能和代谢进行综合评定的指标是确定微量元素需要量需要进一步解决的关键问题。
+
+4结论
+
+$\textcircled{1}$ 饲粮中微量元素含量在 NRC 推荐量至2倍 NRC 推荐量范围时对 22\~42 日龄肉鸡的  
+ADG 和F/G无显著影响;$\textcircled{2}$ 粪中铜、铁、锌、锰任一元素的排泄量均受饲粮中其他微量元素含量的影响，且针对  
+不同元素的最低排泄量存在不同的微量元素最佳组合;$\textcircled{3}$ 本试验条件下，饲粮中铜、铁、锌、锰的含量分别为7.36、125.74、38.23、62.76 mg/kg  
+时，能够满足肉鸡微量元素需要量，同时粪中铜、铁、锌、锰总排泄量最小。  
+参考文献：  
+[1] 李同华,马德磊,李福昌.微量元素铜的研究综述[J].山东畜牧兽医,2009,30(4):40-41.  
+[2]姜云霞.微量元素铜的研究进展及其对动物健康的影响[J].微量元素与健康研
+
+究,2007,24(5):58-61.
+
+[3]张兆琴,任文陟,张嘉保,等.动物必需微量元素 铁[J].河北畜牧兽医,2004,20(4):16- 17,42.
+
+[4] SUN J,LIU D S,SHI R B.Supplemental dietary iron glycine modifies growth,immune function and antioxidant enzyme activities in broiler chickens[J].Livestock Science,2O15,176:129-134.
+
+[5]周宁,李光玉,张海华,等.微量元素锌在动物生产中应用研究新进展[J].中国畜牧兽医,2014,41(2):106-110.
+
+[6] BURRELL A L,DOZIER W A II,DAVIS A J,et al.Responses of broilers to dietary zinc concentrations and sources in relation to environmental implications[J].British Poultry Science,2004,45(2):225-263.
+
+[7]高延玲,康相涛,王广聚.鸡对微量元素锰的营养需要研究进展[J].饲料工业,2003,24(12):34-36.
+
+[8]丁在亮.微量元素铁铜锌锰的科学使用[N].中国畜牧报,2004-06-20(13).
+
+[9]陈建康,潘雪男.如何提高单胃动物对微量元素的吸收率[J].国外畜牧学-猪与禽,2014,34(2):56-57.
+
+[10]LESSON S,孙伟,毛宁静."家禽微量元素营养"专栏二:铜与锌—下一个环境污染的新领域[J].国外畜牧学-猪与禽,2009,29(2):3-5.
+
+[11] MONDAL S,HALDAR S,SAHA P,et al.Metabolism and tissue distribution of trace elements inbroilerchickens'feddietscontainingdeficient andplethoriclevelsof copper,manganese,and zinc[J].Biological Trace Element Research,2O1o,137(2):190-205.
+
+[12]方热军,项智锋,杨永生,等.矿物元素理想模式研究——从理论到实践[J].动物营养学报,2013,25(5):891-898.
+
+[13] 周桂莲.肉仔鸡对铜的需要量及不同铜源生物学效价的研究[D].硕士学位论文．哈尔滨:东北农业大学,1995.
+
+[14]何霆,刘汗林,梁琳,等.肉用仔鸡的饲粮铜水平[J].广东畜牧兽医科技,1994,19(2):1-3,18.
+
+[15] 黄艳玲,吕林,李素芬,等.0\~21日龄肉仔鸡饲粮中锌适宜水平研究[J].畜牧兽医学报,2008,39(7):900-90
+
+[16] 张春善.肉仔鸡体内锌与维生素A互作效应及对有关理化指标的影响[D].硕士学位论文.呼和浩特:内蒙古农牧学院,1998.
+
+[17] VAHL H A,VAN ‘T KLOOSTER A T.Dietary iron and broiler performance[J].British Poultry Science,1987,28(4):567-576.
+
+[18] 罗绪刚,苏琪,黄俊纯,等.肉仔鸡实用饲粮中锰适宜水平的研究[J].畜牧兽医学报，1991,22(4):313-317.
+
+[19] 汤莉.不同形态锰源和铁源对肉仔鸡相对生物学利用率的研究[D].硕士学位论文.武汉:华中农业大学,2004.
+
+[20] GAJULA S S,CHELASANI V K,PANDA A K,et al.Effect of supplemental inorganic Zn and Mn and their interactions on the performance of broiler chicken,mineral bioavailability,and immune response[J].Biological Trace Element Research,2011,139(2):177-187.
+
+[21]王义辉.0\~3周龄肉鸡日粮铁、铜、锌、锰适宜添加量研究[D]．硕士学位论文.杨凌:西北农林科技大学,2007.
+
+[22] 姜俊芳.肉仔鸡体内铁与维生素A互作效应研究[D].硕士学位论文.太谷:山西农业大学,2002.
+
+[23] 袁建敏,甘冰,张天国,等.肉用仔鸡日粮中添加蛋氨酸铜、锌和锰对粪便微量元素排放的 研究[J].家畜生态学报,2008,29(6):66-70,75.
+
+[24] LIN Y,ALI H.Effects of copper and zinc supplementation on growth performance,tissue accumulation and residues in excreta of broiler chicken[J].Journal of the Chinese Society of Animal Science,2000,29(2):117-124.
+
+[25] 程玉冰,夏伦志,张新,等.饲用有机微量元素在饲料中的应用及前景展望[J].当代畜牧,2013(2):48-51.
+
+[26] 林月霞,罗绪刚,王志跃.肉仔鸡锰营养需要量研究进展[J].中国畜牧杂志,2006,42(15):45-47.
+
+Research on Different Combination Contents of Cu,Fe,Zn and Mn for Boilers Aged From 22 to 42 Days
+
+TIAN Jia LIU Guohua\* CAI Huiyi CHANG Wenhuan ZHANG Shu LIU Wei (The key laboratory offeed biotechnology of Agricultural ministry,Feed Research Institute, Chinese Academy of Agricultural Sciences,Beijing 1Ooo81, China)
+
+Abstract: This experiment was conducted to study the effects of dietary Cu,Fe,Znand Mn contents on growth performance and excretion of Cu,Fe, Zn and Mn in faces of broilers aged from 22 to 42 days,and explore the equilibrium model of trace elements.A total of 94O one-day-old male Arbor Acre broilers were fed a corn-soybean meal diet,and the contents of Cu,Fe, Zn and Mn in the cornsoybean meal diet were 16.96,166.66,46.01 and $6 0 . 2 6 ~ \mathrm { { m g / k g } }$ from 1 to 21 days. Nine hundred healthy 22-day-old male Arbor Acre broilers with similar weight were selected from the flock,and were randomly divided into 15 groups with 6 replicates per group and 10 broilers per replicate. The broilers in control group were fed a basal diet,and the contents of Cu,Fe, Zn and Mn in the basal diet were 8,125,40 and $6 0 ~ \mathrm { m g / k g }$ ,respectively. The broilers in experimental groups were fed the
+
+14 experimental diets, respectively. Fourteen experimental diets were formulated based on the basal diet by adding 2 to 8 mg/kg Cu,10 to 35 mg/kg Fe,10 to 40 mg/kg Zn,15 to 60 mg/kg Mn according to the uniform design method. The growth performance during the experimental period was measured and the excretion samples were collected from 38 to 42 days for the determination of Cu, Fe, Zn and Mn content in feces.The result showed as follows: 1) dietary Cu,Fe, Zn and Mn contents between NRC recommendation and double NRC recommendation had no significant effects on average daily gain (ADG) and feed/gain (F/G) of broilers aged from 22 to 42 days $( P { > } 0 . 0 5 )$ . 2) According to the analysis of optimal solution, when the Cu excretion was the minimum value 23.11 mg/kg in feces, dietary Cu, Fe, Zn and Mn contents were 7.15,116.28, 82.82 and $6 0 . 9 5 ~ \mathrm { { m g / k g } }$ respectively. When the Fe excretion was the minimum value $4 3 8 . 3 4 \mathrm { m g / k g }$ in feces, dietary Cu, Fe, Zn and Mn contents were 14.78,116.81， 38.15 and $6 3 . 7 2 ~ \mathrm { m g / k g }$ ，respectively. When the Zn excretion was the minimum value $1 0 2 . 6 0 \mathrm { m g / k g }$ in feces, dietary Cu, Fe, Zn and Mn contents were 7.69,127.40,40.70 and $1 3 3 . 2 6 \mathrm { m g / k g }$ ,respectively. When the Mn excretion was the minimum value $1 5 9 . 3 7 ~ \mathrm { m g / k g }$ in feces, dietary Cu,Fe, Zn and Mn contents were 11.07,136.97, 46.13 and 59.05 mg/kg,respectively. When the total excretion of Cu,Fe, Zn and Mn was the minimum value 218.94 mg/kg in feces, dietary Cu, Fe, Zn and Mn contents were 7.36,125.74, 38.23 and $6 2 . 7 6 ~ \mathrm { { m g / k g } }$ respectively. In conclusion, dietary Cu,Fe, Zn and Mn contents between NRC recommendation and double NRC recommendation has no significant effects on growth performance of broilers aged from 22 to 42 days ( $( P { > } 0 . 0 5 )$ . Any of the Cu,Fe,Zn and Mn Excretion in feces is affected by the dietary the other trace elements contents,and there is an optimum combination contents of trace elements for the lowest excretion of any trace element.When dietary Cu, Fe, Zn and Mn contents are 7.36,125.74, 38.23, 62.76 mg/kg, respectively, the requirements of trace elements of broilers can be satisfied,and total excretion of Cu,Fe, Zn and Mn in feces is the minimum value. Key words: Cu, Fe, Zn and Mn; broilers; growth performance; trace elements excretion; uniform design

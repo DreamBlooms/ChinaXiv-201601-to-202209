@@ -1,0 +1,112 @@
+1 高精料饲粮条件下反刍动物瘤胃适应机制的解析
+
+2 梁玉生’李发弟 $^ { 1 , 2 }$ 李飞1\*
+
+3 （1.草地农业生态系统国家重点实验室，兰州大学草地农业科技学院，兰州730020；2.甘  
+4 肃省肉羊繁育生物技术工程实验室，民勤 733300)
+
+摘要：饲喂高能、高淀粉饲粮是集约化生产中提高反刍动物生产性能的常用策略，但高精料饲粮易引起一系列的营养代谢疾病，其中以瘤胄酸中毒最为常见。反刍动物瘤胄不仅具有消化、吸收营养物质的功能，瘤胃上皮亦是重要的免疫屏障，故瘤胃健康对反刍动物至关重要。本文主要从反刍动物采食高精料饲粮时其瘤胃组织形态、瘤胃上皮适应分子机制和瘤胃微生物区系3个方面的变化进行阐述，以期为高精料饲粮条件下瘤胃适应机制的研究提供参考。
+
+关键词：反刍动物；高精料饲粮；瘤胃酸中毒；上皮转运；微生物区系中图分类号：S816 文献标识码：A 文章编号：
+
+生产中为提高反刍动物的生产性能和经济效益，生产者常给动物饲喂高能、高淀粉饲粮，即高精料饲粮。由于精料如谷物籽实具有高淀粉、低物理有效中性洗涤纤维(peNDF)的特点，反刍动物摄入过多精料将导致瘤胃内挥发性脂肪酸(VFA)累积，进而引起 pH下降，提高瘤胃酸中毒风险[1-3]。此外，高精料饲喂策略还会引起其他并发症，如采食量下降、蹄叶炎、肝脓肿、乳脂率降低等问题[3-4]。因此，有学者称亚急性瘤胃酸中毒(SARA)为高精料综合征[5]。瘤胃在成年反刍动物消化、代谢方面具有重要作用，研究发现，反刍动物采食过量高精料饲粮会造成瘤胃上皮损伤以及瘤胃微生物群落结构、多样性和丰度发生变化，最终使得瘤胃吸收功能紊乱[6-7]，但适当提高饲粮中精料含量可促进幼龄动物瘤胃发育。因此，理解高精料条件下瘤胃上皮结构、功能以及瘤胃微生物区系的变化规律，将为诊断、预防及治疗反刍动物消化道代谢疾病提供新思路，减少生产中的经济损失。
+
+231高精料饲粮饲喂方式下瘤胃的适应机制
+
+# 1.1 瘤胃组织形态的适应
+
+由于谷物的瘤胃发酵产物含有较多内酸和丁酸，高精料饲粮可刺激瘤胃乳突发育，增加单位面积乳突的数量以及乳突的长度和宽度，提高瘤胃上皮对 VFA 的吸收量[8-1]。有试验发现，干草中添加 $7 8 0 \ \mathrm { g }$ 精料可显著提高德国奶山羊瘤胃乳突的长度、宽度以及瘤胃黏膜单位面积乳突的数量[。瘤胃上皮可分为角质层、颗粒层、棘层和基底层，角质层对瘤胃上皮具有保护作用，但患 SARA 的动物其瘤胃乳突会出现角化不全[I2-13]。研究表明，患 SARA奶山羊的瘤胃上皮角质层厚度显著增加，细胞间紧密连接程度降低，颗粒层厚度显著降低，但棘层厚度无显著变化[4]。饲粮中谷物含量达 $6 5 \%$ 时，山羊瘤胃上皮除角质层加厚、颗粒层变薄及角化不全外，各细胞层均有细胞坏死和细胞紧密程度降低的现象[15]。围产期奶牛饲粮突然由低能转为高能时，其瘤胃乳突复扁平上皮中的基底层、棘层、颗粒层和角质层细胞之间出现严重分层现象，随着时间的推移，瘤胃乳突表面变得越来越僵硬，且最外层的角质细胞连接较为松散[16]。以上研究表明，瘤胃上皮各细胞层在适应高精料饲粮方面存在差异，且饲粮中精料比例过高会使瘤胃上皮细胞的通透性增加，降低瘤胃上皮的屏障功能。这可使微生物或其他有毒物质进入血液循环，提高免疫应激的风险[17]。幼龄反刍动物的瘤胃形态结构也受饲粮精料水平的影响。研究表明，饲喂高精料饲粮的断奶羔羊其瘤胃背囊乳突高度和宽度与饲喂牧草的断奶羔羊无显著差异，但其乳突表面积却呈现增加趋势；此外，不同饲喂方式下瘤胃乳突颜色也存在差异[18]。乳突颜色是检测瘤胃上皮角质化程度的参数之一，颜色越深表明瘤胃上皮角质化程度越高[13]。研究表明，苜蓿组育肥羔羊的瘤胃乳突面积较高精料全混合饲粮组要大且颜色要深[9]。总之，适宜浓度的VFA 可刺激瘤胃乳突发育[12]，但瘤胃中VFA 累积超过瘤胃上皮吸收承载能力将导致瘤胃上皮损伤[20]。
+
+# 1.2瘤胃上皮代谢、增殖和分化适应变化的分子机制
+
+# 1.2.1 对VFA及 $\mathrm { H ^ { + } }$ 的吸收与代谢
+
+瘤胃 $\mathsf { p H }$ 降低伴随着瘤胃上皮组织形态的变化，此时，瘤胃上皮中与 $\mathrm { H ^ { + } }$ 转运、VFA吸收及代谢相关基因的表达量亦会发生相应的适应性变化[12]。瘤胃VFA 有游离VFA 和非游离VFA2 种形式，其中以游离VFA为主[2I]。瘤胃内的 $\mathrm { H ^ { + } }$ 是由VFA解离而来的，瘤胃上皮的吸收作用在移除瘤胃 $\mathrm { H ^ { + } }$ 途径中所占的比例为 $5 3 \% [ 2 2 ]$ 。研究表明，饲喂开食料的犊牛其瘤胃上
+
+皮的一元羧酸转运蛋白-1(MCT-1)表达量显著升高，而 $\mathrm { { N a ^ { + } / H ^ { + } } }$ 交换蛋白-3(NHE-3)表达量显著降低[23]。因为MCT-1在转运一元羧酸时会携带 $\mathrm { H ^ { + } }$ ，其表达量升高可移除瘤胃中部分 $\mathrm { H ^ { + } }$ 。若维持瘤胃正常吸收功能，除瘤胃中 $\mathrm { H ^ { + } }$ 浓度不宜过高，还需保证瘤胃上皮细胞内的离子平衡[24]。细胞中NHE-3有吸 $\mathrm { { N a ^ { + } } }$ 排 $\mathrm { H ^ { + } }$ 的作用，NHE-3 的表达量降低有利于维持瘤胃上皮细胞内 pH 的稳定[25]。饲粮中精料量由 $10 \%$ 提高到 $3 5 \%$ 时，山羊瘤胃上皮中一元羧酸转运蛋白[MCT-1、一元羧酸转运蛋白-4（MCT-4)]、 $\mathrm { H ^ { + } }$ 转运载体 $\mathrm { [ N a ^ { + } / H ^ { + } }$ 交换蛋白-1(NHE-1)、 $\mathrm { { N a ^ { + } / H ^ { + } } }$ 交换蛋白-2(NHE-2)、NHE-3]、VFA 转运载体[DRA、推定阴离子转运蛋白1（PAT1)、阴离子交换蛋白(AE2)]以及 $\mathrm { { N a ^ { + } / K ^ { + } } }$ ATP 酶（Na+/K+ATPase）的基因表达量显著升高[26]。因为 $\mathrm { { N a ^ { + } / K ^ { + } } }$ ATPase具有吸收细胞外 $\mathrm { K ^ { + } }$ 排除细胞内 $\mathrm { { N a ^ { + } } }$ 的作用，当 $\mathrm { H ^ { + } }$ 转运载体基因表达量升高时，细胞内 Na+浓度升高，促使Na+/K+ATPase 的表达量升高以保持细胞内 $\mathrm { { N a ^ { + } / K ^ { + } } }$ 的平衡。有研究表明，瘤胃上皮中吸收短链脂肪酸(SCFA)相关基因的 mRNA 表达量受瘤胃 pH和 SCFA 浓度的共同作用[26]。目前瘤胄上皮 $\mathrm { H ^ { + } }$ 吸收方面虽已挖掘出大量相关基因[27，但有些基因在瘤胃上皮中的表达位置并不确定，各基因表达产物是否存在转运特异性或转运速率差异还有待进一步研究[12]。  
+反刍动物所需代谢能的约 $80 \%$ 来自VFA，故VFA在反刍动物能量供给方面起着重要作用[28]。丁酸可被瘤胃上皮吸收并在瘤胃上皮合成 $\beta$ -羟丁酸(BHBA)，剩余部分会进入到肝脏生成酮体[29]。3-羟基-3-甲基戊二酰乙酰CoA 合成酶 2(HMGCS2)位于线粒体中，是瘤胃上皮生酮途径中的限速酶[12.30]。但研究发现，饲喂高精料饲粮的泌乳奶牛和羔羊，其瘤胃上皮HMGCS2 的表达量并未发生显著变化[31-32]。以上研究结果表明，在高精料饲粮条件下瘤胃上皮中 HMGCS2 mRNA 的表达量与瘤胃上皮的生酮作用无关，这可能是因为用于合成BHBA 的底物浓度增加而造成的[32]。  
+目前瘤胃 VFA 的吸收相关研究大都集中在游离VFA上，而反刍动物采食高精料饲粮后瘤胃 pH会降低，此时非游离VFA浓度将升高。非游离VFA主要通过自由扩散被瘤胃上皮吸收，该途径与瘤胃上皮细胞膜内脂类包括胆固醇与磷脂含量有关。已有学者对瘤胃上皮中胆固醇合成相关基因进行了研究[31.33]，但有关瘤胃上皮磷脂的合成机制还未见报道，有待揭示。  
+1.2.2尿素氮的利用
+
+肝脏合成的尿素可经瘤胃上皮和腮腺分泌到瘤胃，是瘤胃微生物生长所需氮素的重要组成部分。尿素转运蛋白(UT)可以协助尿素通过瘤胃上皮[34]。体内和体外试验均已证明低 pH和高VFA 浓度会提高瘤胃上皮中尿素转运蛋白-B(UT-B)的 mRNA表达量和蛋白质丰度，并伴随着G蛋白偶联受体(GPR)41和GPR4的mRNA表达量和蛋白质丰度的升高[35]。上述研究表明，不同饲粮构成条件下瘤胃上皮中UT-B 基因的表达量受GPR41和GPR4 的调控[35]。此外，研究表明，GPR41和GPR43可能会影响VFA对瘤胃发育、胰岛素和胰高血糖素分泌的调节作用[36]。因此，VFA、pH、GPR 和UT-B之间可能存在着关联性。但UT-B 并非转运尿素的唯一载体，因为当其受到抑制时尿素转运并没有完全停止[37]。水通道蛋白(AQP)可允许尿素的通过，但位于瘤胃上皮的AQP是否具有转运尿素的功能并不明确[37]。研究发现，当饲粮突然转变为易于发酵的碳水化合物时，瘤胃上皮的AQP-3和UT-B基因的表达量呈直线上升趋势，且基因表达量要显著高于高饲草组[37]。因此，除UT-B 外，AQP-3 在尿素转运中也可能发挥作用。此外，有研究报道，丁酸可调节绵羊体内的尿素合成与尿素氮的再分配[38]。但丁酸对尿素氮再分配的调控机理仍不明确，该方面的研究将为理解高精料饲粮模式下瘤胃的适应机制以及能氮平衡提供理论依据。
+
+# 1.2.3瘤胃上皮细胞的增殖与分化
+
+瘤胃上皮结构与功能的维持需要各类细胞不断的增殖与分化，该过程受表皮生长相关基因的调控[8]，如胰岛素样生长因子结合蛋白-5(IGFBP-5)、胰岛素样生长因子结合蛋白-3(IGFBP-3)、胰岛素样生长因子结合蛋白-6(IGFBP-6)等基因。一般认为，丁酸是调控瘤胃上皮细胞增殖与分化的重要调控因子，饲喂高精料饲粮会使瘤胃中丁酸浓度升高，丁酸可能会影响到胰岛素样生长因子轴，促使其分泌促细胞分化的激素，减少促细胞凋亡激素的分泌[39]。研究发现，泌乳奶牛在适应高精料饲粮过程中瘤胃上皮中IGFBP-5 基因的表达量显著上升，IGFBP-3、IGFBP-6 和桥粒芯糖蛋白-1(DSG-1)基因的表达量显著下降，这可导致瘤胃复扁平上皮的厚度和颗粒层细胞间黏附性降低，从而增加瘤胃上皮的通透性，最终引发瘤胃上皮损伤8]。有研究表明，奶牛在分娩后瘤胃上皮中DSG-1、结缔组织生长因子(CTGF)、角膜锁链蛋白(CDSN)、胰岛素样生长因子结合蛋白-2(IGFBP-2)、上皮调节蛋白(EREG)基因的表达量显著升高，而 IGFBP-3 和表皮生长因子受体(EGFR)基因的表达量则显著降低[16]。以上研究表明，pH较低时瘤胃上皮会通过上调细胞增殖与分化相关基因的表达来提高瘤胃上皮的紧密程度，进而降低瘤胃上皮的损伤程度。
+
+胆固醇是哺乳动物细胞膜的重要组成成分，但胆固醇含量过高会引起炎症反应、氧化应激、细胞增殖和迁移，并改变细胞膜的通透性，最终导致组织损伤[3.40]。3-羟基-3-甲基戊二酰乙酰CoA合成酶1(HMGCS1)位于细胞质中，参与胆固醇的合成。研究发现，患瘤胃酸中毒的奶牛无论是处于泌乳期还是非泌乳期，HMGCS1 基因的表达量均降低[31.33]。另有研究表明，饲喂高精料饲粮条件下，羔羊瘤胃上皮中HMGCS1基因的表达量显著降低[32]。这可能是因为饲喂高精料饲粮时，用于合成胆固醇的底物如丙酸、丁酸等 SCFA 浓度增加，HMGCS1基因表达量降低可维持瘤胃上皮中胆固醇含量的稳定性，以免造成高胆固醇含量对瘤胃上皮的损伤。
+
+# 1.3瘤胃微生物区系的变化
+
+因为瘤胃微生物既可利用碳水化合物将其发酵产生VFA供反刍动物利用，又可为宿主提供微生物蛋白，故瘤胃微生物对反刍动物极其重要[41]。当瘤胃 $\mathsf { p H }$ 低于6.0时，纤维分解菌生长受到抑制，而较低pH有利于淀粉分解菌的增殖[41-42]。诸多研究表明，奶牛饲喂高精料饲粮时瘤胃微生物的密度、多样性以及微生物群落结构均会受到影响[43-45]。高精料饲喂条件下奶牛瘤胃内容物中固相部分和液相部分的微生物构成存在差异，前者的瘤胃微生物密度降低且厚壁菌门的微生物占主导地位，同时瘤胃中产琥珀酸丝状杆菌(Fibrobactersuccinogenes)的量会随着精料采食量的升高而降低[43.45]。研究发现，随饲粮中谷物含量的增加原虫内毛目微生物呈增长趋势，当饲粮中谷物含量达 $6 0 \%$ 时，普雷沃氏菌属(Prevotellaalbensis)和产琥珀酸丝状杆菌的丰度下降，但乳酸杆菌(Lactobacillus)的丰度增加[46]。乳酸杆菌的发酵终产物主要是乳酸，是引起瘤胃酸中毒的重要因素。瘤胃上皮微生物区系在反刍动物饲喂高精料饲粮前后存在显著差异[47]。当饲粮中谷物含量由 $3 \%$ 升高到 $7 5 \%$ 或 $92 \%$ 时，肉牛瘤胃上皮中才会出现密螺旋体属(Treponema sp.)、反刍杆菌属(Ruminobacter sp.)和毛螺菌属(Lachnospiraceae sp.)细菌[48]。瘤胃酸中毒的严重程度以及诱导瘤胃酸中毒的饲粮差异均会影响瘤胃微生物群落结构。谷物诱导的重度 SARA，瘤胃微生物以牛链球菌(Streptococcusbovis)和大肠杆菌(Escherichiacoli)为优势菌群；谷物诱导的中度 SARA，瘤胃优势菌群为埃氏巨型球菌(Megasphaera elsdenii)；苜蓿颗粒诱导的 SARA，瘤胃微生物以普雷沃氏菌属为主[49]。由此可知，瘤胃微生物不仅受到瘤胃pH的影响，而且受饲粮组成的影响。用于微生物发酵的原料来源和浓度受饲粮组成的影响，故不同饲粮条件下瘤胃微生物区系可能存在差异。当瘤胃pH较低时，反刍兽新月形单胞球菌(Selenomonasruminantium)的繁殖会受到抑制，牛链球菌占总菌的比例一直较低，这表明除牛链球菌外很可能还有其他微生物参与瘤胃酸中毒的形成[50]。总之，随着瘤胃 pH的降低，适于在酸性条件下生长的微生物如普雷沃氏菌属、乳酸杆菌等会大量繁殖，而降解纤维素的微生物如产琥珀酸丝状杆菌、溶纤维丁酸弧菌(Butyrivibrio fibrisolvens)等的数目会降低。这不仅会降低反刍动物对粗饲料的消化率，而且会影响动物的健康。理清高精料饲粮条件下消化道微生物区系的演替以及宿主与微生物之间的相互作用，将为解决高精料饲粮引起的营养代谢疾病提供新思路。
+
+# 2小结
+
+综上所述，反刍动物的瘤胃具有适应高精料饲粮的机制，该适应机制是瘤胃结构、功能和微生物区系三者共同作用的结果。但该机制具有一定的局限性，它会受瘤胃pH和饲粮组分的影响，反刍动物摄入过多易发酵碳水化合物仍会造成瘤胃消化及吸收功能紊乱。进一步系统的研究高精料饲粮条件下瘤胃形态、VFA 吸收以及微生物区系三者间的相互作用，将为优化瘤胃功能提供理论依据。
+
+# 参考文献:
+
+[1] DOEPEL L,COX A,HAYIRLI A.Effects of increasing amounts of dietary wheat on performanceand ruminal fermentationof Holsteincows[J].Journalof Dairy Science,2009,92(8):3825-3832.   
+[2]LIF,YANG X J,CAO Y C,et al.Effects of dietary effective fiber to rumen degradable starch ratios on the risk of sub-acute ruminal acidosis and rumen content fatty acids composition in dairy goat[J].Animal Feed Science and Technology,2014,189:54-62.   
+[3] PLAIZIER J C,KRAUSE D O,GOZHO G N,et al.Subacute ruminal acidosis in dairy cows:the physiological causes,incidence and consequences[J].The Veterinary Journal,2008,176(1):21-31.   
+[4] DIJKSTRA J,ELLIS J L,KEBREAB E,et al.Ruminal pH regulation and nutritional consequences of low pH[J].Animal Feed Science and Technology,2012,172(1/2):22-33.
+
+[5] CALSAMIGLIA S,BLANCH M,FERRET A.et al.Is subacute ruminal acidosis a pH related problem?Causes and tools foritscontrol[J].Animal Feed Science and Technol0gy,2012,172(1/2):42-50.
+
+[6]LIU J H,BIAN G R,ZHU W Y,et al.High-grain feeding causes strong shifts in ruminal epithelial bacterial community and expresson of Tol-ike receptor genes in goats[J].Frontiers in Microbiology,2015,6:167.   
+[7]HERNANDEZ J,BENEDITO J L,ABUELO A,et al.Ruminal acidosis in feedlot:from aetiology to prevention[J].The Scientific World Journal,2014,2014:702572.   
+[8]STEELE M A,CROOM J,KAHLER M,et al.Bovine rumen epithelium undergoes rapid structural adaptations during grain-induced subacute ruminal acidosis[J].American Journal of Physiology: Regulatory,Integrative and Comparative Physiology,2011,300(6):R1515-R1523. [9]MENTSCHEL J,LEISER R,MULLING C,et al.Butyric acid stimulates rumen mucosa development in the calf mainly bya reduction of apoptosis[J].Archivesof Animal Nutrition,2001,55(2):85-102.   
+[10]GABEL G,ASCHENBACH J R,MULLER FTransfer of energy substrates across the ruminal epithelium:implications and limitations[J].Animal Health Research Reviews,2002,3(1):15-30.   
+[11] AHMED R S,MARTENS H,MUELLING C.Scanning electron microscopical and morphometrical studies on ruminal papilae of sheep fed on concentrates[J].Journal of Animal Research,2013,3(2):111-123.   
+[12] DANIELSKM,YOHETT.Whatdoweknowabout rumen development?[EB/OL].[2015-02-20].http://www.vtdairy.dasc.vt.edu/docs/cow-colleges/2015cc/1 8-daniels.pdf.   
+[13]BENAVIDES J,MARTINEZ-VALLADARES M,TEJIDO M L,et al.Quercetin and flaxseed included in the diet offattening lambs:effects on immune response,stress during road transport and ruminal acidosis[J].Livestock Science,2013,158(1/2/3):84-90.   
+[14]杨淑青.亚急性瘤胃酸中毒对奶山羊瘤胃上皮屏障功能影响机制的研究[D].硕士学位论 文.呼和浩特:内蒙古农业大学,2014.   
+[15]LIU J H,XU T T,LIU Y J,et al.A high-grain diet causes massive disruption of ruminal epithelial tight junctions in goats[J].American Journal of Physiology:Regulatory,Integrative and Comparative Physiology,2013,305(3):R232-R241.   
+[16]STEELE M A,SCHIESTEL C,ALZAHAL O,et al.The periparturient period is associated with structural and transcriptomic adaptations of rumen papillae in dairy cattle[J].Journal of Dairy Science,2015,98(4):2583-2595.   
+[17]KLEVENHUSEN F,HOLLMANN M,PODSTATZKY-LICHTENSTEIN L,et al.Feeding barley grain-rich diets altered electrophysiological properties and permeability of the ruminal wall in a goat model[J].Journal of Dairy Science,2013,96(4):2293-2302.   
+[18]ALVAREZ-RODRIGUEZ J,MONLEON E,SANZ A,et al.Rumen fermentation and histology in light lambs as affected by forage supply and lactation length[J].Research in Veterinary Science,2012,92(2):247-253.   
+[19]BLANCO C,GIRALDEZA F J,PRIETO N,et al.Total mixed ration pelets for light fattening lambs:effects on animal health[J].Animal,2015,9(2):258-266.   
+[20]WANG Y H,XU M,WANG F N,et al.Effect of dietary starch on rumen and small intestine morphology and digesta pH in goats[J].Livestock Science,2009,122(1):48-52.   
+[21]GABEL G,ASCHENBACH J R.Ruminal SCFA absorption:channelling acids without harm[M]//SEJRSEN K,HVELPLUND T,NIELSEN M O.Ruminant physiology:digestion,metabolism and impact of nutrition on gene expression,immunology and stress.Wageningen:Wageningen Academic Publishers,2006:173-195.   
+[22]ALLEN M S.Relationship between fermentation acid production in the rumen and the requirement for physically effective fiber[J].Journal of Dairy Science,1997,8O(7):1447-1462. [23]LAARMAN A H,RUIZ-SANCHEZ A L,SUGINO T,et al.Efects of feding a calf starter on molecular adaptations in the ruminal epithelium and liver of Holstein dairy calves[J].Journal of Dairy Science,2012,95(5):2585-2594.   
+[24] PENNER G B,STEELE M A,ASCHENBACH J R,et al.Ruminant nutrition
+
+symposium:molecular adaptation of ruminal epithelia to highly fermentable diets[J].Journal of Animal Science,2011,89(4):1108-1119.
+
+[25]YANG W,SHEN Z M,MARTENS H.An energy-rich diet enhances expresson of $\mathrm { { N a } ( ^ { + } ) / H ( ^ { + } ) }$ （20 exchanger isoform 1 and 3 messenger RNA in rumen epithelium of goat[J].Journal of Animal Science,2012,90(1):307-317.   
+[26]YAN L,ZHANG B,SHEN Z M.Dietary modulation of the expression of genes involved in short-chain fatty acid absorption in the rumen epithelium is related to short-chain fatty acid concentration and pH in the rumen of goats[J].Journal of Dairy Science,2014,97(9):5668-5675. [27]CONNOR E E,LI R W,BALDWIN R L,et al.Gene expression in the digestive tissues of ruminants and their relationships with feeding and digestive processes[J].Animal,2010,4(7):993-1007.   
+[28]KREHBIEL C R.Invited review:applied nutrition of ruminants:fermentation and digestive physiology[J].Professonal Animal Scientist,2014,30(2):129-139.   
+[29]LAARMAN A H.Ruminal acidosis in dairy calves during the weaning transition[D].Master Thesis.Alberta:University of Alberta,2011.   
+[30] LANE M A,BALDWIN R L,JESSE B W.Developmental changes in ketogenic enzyme gene expression during sheep rumen development[J].JournalofAnimal Science,2002,80(6):1538-1544.   
+[31]STEELE M A,DIONISSOPOULOS L,ALZAHAL O,et al.Rumen epithelial adaptation to ruminal acidosis in lactating cattle involves the coordinated expression of insulin-like growth factor-binding proteinsandacholesterolgenicenzyme[J].Journal of Dairy Science,2012,95(1):318-327.   
+[32]STEELE M A,GREENWOOD S L,CROOM J,et al.An increase in dietary non-structural carbohydrates alters the structure and metabolism of the rumen epithelium in lambs[J].Canadian Journal of Animal Science,2012,92(2):123-130.   
+[33]STEELE M A,VANDERVOORT G,ALZAHAL O,et al.Rumen epithelial adaptation to high-grain dietsinvolves the coordinated regulation of genes involved in cholesterol
+
+homeostasis[J].Physiological Genomics,2011,43(6):308-316.
+
+[34]DIX L,WARD D T,STEWART G S.Short communication:urea transporter protein UT-B in the bovine parotid gland[J].Journal of Dairy Science,2013,96(3):1685-1690.   
+[35] LU Z Y,GUI H B,YAO L,et al.Short-chain fatty acids and acidic pH up-regulate UT-B,GPR41,and GPR4 in rumen epithelial cellsofgoats[J].American Journal of Physiology:Regulatory,Integrative and Comparative Physiology,2015,308(4):R283-R293. [36]WANG A,GU Z,HEID B,et al.Identification and characterization of the bovine G protein-coupled receptor GPR41 and GPR43 genes[J].Journal of Dairy Science,2009,92(6):2696-2705.   
+[37]WALPOLE M E,SCHURMANN B L,GORKA P,et al.Serosal-to-mucosal urea flux across the isolated ruminal epithelium is mediated via urea transporter-B and aquaporins when Holstein calvesareabruptly changed toa moderatelyfermentablediet[J].Journal of Dairy Science,2015,98(2):1204-1213.   
+[38]AGARWAL U,HU Q,BALDWIN R L,et al.Role of rumen butyrate in regulation of nitrogen utilizationandureanitrogenkineticsingrowingsheep[J].JournalofAnimal Science,2015,93(5):2382-2390.   
+[39]SHEN Z M,SEYFERT H M,LOHRKE B,et al.An energy-rich diet causes rumen papille proliferation associated with more IGF type 1 receptors and increased plasma IGF-1 concentrations in young goats[J].The Journal of Nutrition,2004,134(1):11-17.   
+[40]LIAO J K,LAUFS U.Pleiotropic eects of statins[J].Annual Review of Pharmacology and Toxicology,2005,45:89-118.   
+[41]SHI Y,WEIMER P J.Response surface analysis of the effects of $\mathrm { p H }$ and dilution rate on RuminococcusflavefaciensFD-1 in cellulose-fedcontinuousculture[J].Appliedand Environmental Microbiology,1992,58(8):2583-2591.   
+[42]BROWN M S,PONCE C H,PULIKANTI R.Adaptation of beef cattle to high-concentrate diets:performance and ruminal metabolism[J].Journal of Animal Science,2006,84(Suppl.13):E25-E33.
+
+[43]HOOK S E,STEELE M A,NORTHWOOD K S,et al.Impact of subacute ruminal acidosis (SARA)adaptation and recovery on the density and diversity of bacteria in the rumen of dairy cows[J].FEMS Microbiology Ecology,2011,78(2):275-284.
+
+[44]HOOK S E,STEELE M A,NORTHWOOD K S,et al.Impact of high-concentrate feeding and low ruminal $\mathrm { \ p H }$ on methanogens and protozoa in the rumen of dairy cows[J].Microbial Ecology,2011,62(1):94-105.   
+[45]PETRI R M,FORSTER R J,YANG W,et al.Characterization of rumen bacterial diversity and fermentation parameters in concentrate fed catle with and without forage[J].Journal of Applied Microbiology,2012,112(6):1152-1162.   
+[46]METZLER-ZEBELI B U,SCHMITZ-ESSER S,KLEVENHUSEN F,et al.Grain-rich diets differently alter ruminal and colonic abundance of microbial populations and lipopolysaccharide in goats[J].Anaerobe,2013,20:65-73.   
+[47]PETRI R M,SCHWAIGER T,PENNER G B,et al.Changes in the rumen epimural bacterial diversity of beef cattle as affected by diet and induced ruminal acidosis[J].Applied and Environmental Microbiology,2013,79(12):3744-3755.   
+[48]CHEN Y H,PENNER G B,LI M J,et al.Changes in bacterial diversity associated with epithelial tissue in the beef cow rumen during the transition to a high-grain diet[J].Applied and Environmental Microbiology,2011,77(16):5770-5781.   
+[49]KHAFIPOUR E,LI S C,PLAIZIER J C,et al.Rumen microbiome composition determined using two nutritional models of subacute ruminal acidosis[J].Applied and Environmental Microbiology,2009,75(22):7115-7124.   
+[50]GIMENO A,AL ALAMI A,ABECIA L,et al.Efect of type (barley vs. maize)and processing (grinding vs. dry rolling) of cereal on ruminal fermentation and microbiota of beef calves during the early fattening period[J].Animal Feed Science and Technology,2015,199:113-126.   
+Analysis of Rumen Adaptive Mechanism under the Condition of Higher Concentrate Diets LIANG Yusheng1LIFadi1.2LIFeil\*   
+(1. Kev State Lahoratorv of Agro-Ecosvstems. College of Pastoral Agriculture Science and
+
+Technology, Lanzhou University, Lanzhou 73o020, China; 2. Biotechnology Engineering Laboratory of Gansu Meat Sheep Breeding,Minqin 73330O, China)
+
+Abstract:Feeding a diet containing higher energy and starch level is a common strategy to improve performance in ruminant production. However, higher concentrate diets can cause the nutritional metabolic disease,especially ruminal acidosis. The rumen not only has the functions of digesting and absorbing nutrients,but also is a significant immune barrier. Thus,rumen health plays an important role for ruminants. This paper mainly elucidated the changes of morphology, molecular adaptive mechanism of rumen epithelium and microbiota of the rumen,aiming at providing some references for rumen's adaptive mechanism under the condition of feeding higher concentrate diets.
+
+Key words: ruminant; higher concentrate diets； ruminal acidosis； epithelial transportation;microbiota

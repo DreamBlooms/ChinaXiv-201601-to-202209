@@ -1,0 +1,151 @@
+# 基于Demons配准的NVST太阳高分辨图像横向速度场测量
+
+刘辉¹，杨云飞²，尚振宏¹，李润鑫¹(1.昆明理工大学大学 信息工程与自动化学院，云南昆明650500;2．昆明理工大学云南省计算机技术应用重点实验室，云南 昆明 650500)
+
+摘要：太阳高分辨图像中横向速度场的测量已经广泛应用于太阳光、色球表面特征的动力学分析中，但依然存在测量精度不够的问题。详细介绍了Demons方法，并将其应用于1m新真空太阳望远镜（NVST）的高分辨观测资料处理中。首先选取不同观测时间间隔和代表光、色球
+
+同波段的3个数据集作为测试样本，在测量到速度场后，通过与前一时刻图像进行非刚性配准并比较结构相似度（SSIM）评价速度场的测量精度。结果表明，Demons方法在小尺度运动的精细测定方面，明显优于传统的FLCT和DAVE方法。并且采用光球和色球图像的亚像素和超像素模拟位移实验表明，这一方法的逐点测量精度可以达到0.1像素量级。
+
+关键词：太阳高分辨图像；速度场；光流场；Demons配准中图分类号：TN216文献标识码：A文章编号：1672-7673
+
+太阳观测已经全面进入到高空间和高时间分辨率的时代。以日本HINODE卫星[1]、中国一米新真空太阳望远镜（New Vacuum Solar Telescope，简称 NVST)[2]、美国 Goode Solar Telescopel3]和瑞典 Swedish Solar Telescopel4]为代表的高分辨望远镜已经产生了海量的多波段观测序列资料，为太阳物理的研究带来重要的机遇和挑战[5]。这些资料直观地从强度上展现了太阳大气中时刻发生的各种尺度活动现象（从太阳风暴、大小尺度活动以及存在于各种尺度中的磁流体动力学波和震荡）的细节及变化情况。高时空分辨率的图像不但能从形态上展示太阳大气的强度变化，同时也为量化分析和定量描述带来了可能。其中，通过强度像随着时间的变化来计算这些活动的横向速度场已被广泛应用于太阳光、色球表面特征的动力学分析中。
+
+太阳光球和色球的横向运动速度的典型值在每秒几公里到几十公里。对于目前的高分辨太阳图像序列的空间分辨率和时间分辨率，这意味要精确测量图像两帧之间亚像素级或者几个像素级的位移量。在太阳图像的数据处理领域，这方面已经有了很多的发展。最为经典的有局部相关跟踪法（LocalCorrelationTracking，LCT）回以及后来的基于傅里叶变换的局部相关跟踪法（FourierLocalCorrelation Tracking，FLCT）[z]。微分仿射速度估计（Differential Affine velocityestimator，DAVE）[8-2]等技术在引入磁场感应方程后，首先被用于磁图非势性研究，然后被应用于强度像的测量中[10-1]。此外文[12-13]提出了一种Balltracking 方法，用于光球超米粒的研究。虽然这些方法都得到了一些很好的结果，但在测量精度上还不能匹配NVST这种像元分辨率在0.05arcsec，时间分辨率高达十多秒的高分辨图像处理要求，因而有必要对相关方法进行更为深入的研究。
+
+横向速度场的测量实际上是通过测量一定时间间隔中两帧图像之间特征的位移量得到。由于太阳序列图像是某种“光"强度随着时间的变化，因此速度场是一种典型的"光流场”。从另外一个方面，两帧图像之间的位移测量也可以看作是一种图像非刚性的配准。而随着计算机图像处理技术的发展，光流场的测量和图像非刚性配准技术已经有了非常大的发展。
+
+图像非刚性配准方法可以由3部分描述：（1）联系源图像和目标图像的空间变换；（2）测量目标图像和源图像相似性的相似性测度；（3）决定最优变换参数的优化方法。
+
+非刚性配准方法主要有基于空间变换的配准方法和基于物理模型的配准方法两大类。其中，由文[14]提出的基于热力学中流体扩散理论的Demons 非刚性配准方法[14具有处理非光滑变形、抗噪声性能好等优点，被广泛应用于医学图像配准[15]，也非常符合太阳光球和色球层的磁流体非均匀局部变形的物理特性。
+
+本文用Demons方法测量NVST高分辨光球和色球观测数据的横向速度场。测量结果表明该方法可以较为精确地测量太阳高分辨图像的横向速度场，优于传统的FLCT和DAVE方法。
+
+# 1 Demons方法
+
+# 1.1Demons配准的原理和流程
+
+经典 Demons 算法由 Thirion 提出，即"Demons-base"算法[14]。在概念上，它和19世纪Maxwell的实验原理很相似。该算法的基本思想是假设运动目标的灰度不随时间改变，那么非刚性配准可以看作是浮动图像中各个像素向参考图像逐步扩散的过程，浮动图像各个像素的扩散速度由参考图像的灰度梯度信息决定。假设参考图像r，浮动图像f都是图像函数在某一时刻的"快照”，图像函数的灰度值保持常数，则此假设可被模型化为
+
+在初始时刻，图像函数 等于f，经过一定时间到达时刻后，图像函数被完全变形为r。图像配准的过程就是要得出一个能驱动 $f$ 中的各个像素点向 $\boldsymbol { r }$ 中对应像素点移动的向量场。为了得出驱动力，将(1)式偏微分，得到：
+
+# (4)式可以简化为
+
+其中，为从浮动图像向参考图像变化的速度场；是 $\boldsymbol { r }$ 的梯度向量。进一步可以得到：
+
+若将浮动图像的梯度信息作为一种正内力，参考图像的梯度信息作为负内力，利用这两种力同时驱动形变，得到的扩散速度为
+
+Demons算法利用图像局部信息来驱动形变，在全局范围内使形变连续，从而保证图像的拓扑结构。
+
+# 1.2基于梯度互信息的Demons方法
+
+在Demons 模型中，浮动图像各个像素都可以自由移动，使得在浮动图像中具有某个特定灰度值的所有像素有可能映射到参考图像上的同一像素点，导致错误的配准结果，为了使图像像素能够沿着正确的方向移动，在（7）式的基础上，采用梯度互信息进一步改进Demons 算法，在原有扩散速度的基础上，增加了两幅图像之间梯度互信息的作用，使两幅图像配准结束的同时梯度互信息也达到最大。改进后的Demons算法扩散速度模型为
+
+其中，为两幅图像的梯度互信息；β为正常数，表示此项的权重。
+
+基于图像灰度互信息的配准方法，最大的不足是忽略了图像的空间信息。就太阳图像配准过程而言，对相同目标所成图像可能具有不同的灰度，不同的分辨率，甚至图像本身大小也会不同，但是对于同一目标，其边界是确定的，不会发生很明显的变化；当两幅图像配准时，对应位置像素点的梯度矢量将具有相同或者相反的指向。基于以上分析，梯度互信息采用Parzen窗方法进行计算。
+
+# 2实验数据
+
+1m太阳望远镜作为中国最大的太阳望远镜和世界三大高分辨成像太阳望远镜之一，其优良的观测性能和高质量的图像已经在很多方面得以证实。为检验Demons方法的可用性，选取了具有代表性3个1m太阳望远镜观测资料数据集，包括两组光球图像和一组色球图像，每组图像为前后两帧。通过计算这两帧图像的光流场或者对它们进行非刚性配准，就可得到相应的速度场。
+
+数据集1包括的两帧图像均为1m太阳望远镜在TiO波段观测的光球Level1+重建像，观测时间为2013年11月3日04时58分31秒（UT）和05时01分28秒（UT），时间间隔2分57秒。视场大小为685\*650像元，像元分辨率为0.04arcsec。光球上典型的1km/s的横向速度将带来约6像元的位移。意味着整体光流场是超像素运动。
+
+数据集2与数据集1是同目标、同波段、同期的观测，只是第1帧图像的观测时间为05时1分10秒（UT），与第2帧相隔仅18秒，大约是数据集1的1/10，其他参数与数据集 $^ 1$ 相同。这样1km/s的横向速度将带来仅仅0.6像元的位移，即光流场为亚像素运动。
+
+数据集3的两帧图像为1m太阳望远镜在 $\mathrm { H } _ { \mathrm { a } }$ 波段的Level1+重建像。观测时间为2017年8月6日09时59分53秒和10时00分25秒，时间间隔为32秒。视场大小为238\*225像元，像元分辨率0.13arcsec。色球上5km/s的横向速度将带来约1.7像元的位移，总体光流场中包括亚像素和超像素的位移。
+
+从图1可以看到，光球像数据集1和2是一个太阳活动区的局部，特征结构覆盖了米粒、黑子本影和半影。数据集3是典型的色球纤维，图像结构本身就有很强的自相似性。
+
+# 3数据处理结果
+
+对上述3个数据集采用Demons方法计算第2帧相对于第1帧的逐像素位移量即光流场，然后根据相应的时间间隔归算到逐点的横向速度场。图2显示了数据集1中一个小区域的两帧图以及用Demons方法计算出的位移矢量。米粒的细微运动可以清晰地反映在图上。
+
+为了测试Demons 的结果并与目前太阳观测资料处理中常用的FLCT和DAVE方法进行比对，在分别采用不同方法得到光流场后，采用双线性插值将第
+
+2帧与第1帧进行非刚性配准，并利用图像结构相似度指数（Structural SimilarityIndexMeasurement,SSIM）[16测试配准的精度。较高的配准精度即意味着较高的光流场（速度场）测量精度。
+
+对于x，y两张图像，其图像结构相似度指数由下列公式求得：
+
+其中，和 为两张图像的均值；和 为各自的方差；为彼此的协方差。 $C _ { 1 }$ 和 $C _ { 2 }$ 是为了防止分母为0而设置的系数，对于强度归一化的图像其值分别为0.01和0.03。图像结构相似度指数的取值范围为0到1，相似程度越大，其值越大。如果两张图像完全相同，则为1。
+
+为了逐像素比对非刚性配准后的两帧图像的相似度，采用11\*11像素邻域的窗口平均作为该点的局部图像结构相似度指数值。对于配准的结果，如果有更多点的图像结构相似度指数值接近1，说明该方法总体位移测量更为准确，配准更好。而图像中所有像素点图像结构相似度指数值的平均作为两帧图像的平均相似度值，也代表整体测量水平。
+
+表1给出了3个数据集在未配准前和使用FLCT、DAVE和Demons方法分别测量并非刚性配准后与第一帧图像比较的平均图像结构相似度指数值。
+
+表1不同方法配准后的平均SSIM值  
+Tab.1 The SSIM index after non-rigid registration with different method   
+
+<html><body><table><tr><td></td><td>数据集1</td><td>数据集2</td><td>数据集3</td></tr><tr><td>未配准</td><td>0. 7410</td><td>0.9884</td><td>0.6731</td></tr><tr><td>FLCT</td><td>0.7440</td><td>0.9885</td><td>0. 6881</td></tr><tr><td>DAVE</td><td>0.8332</td><td>0.9921</td><td>0.7532</td></tr><tr><td>Demons</td><td>0.9072</td><td>0.9965</td><td>0.8298</td></tr></table></body></html>
+
+从表1可以看出，原始数据彼此的相似度不但取决于时间间隔，也取决于特征结构的运动速度。对于色球数据，快速的运动导致在半分钟内图像就有较大的变化。另外，使用FLCT配准后，图像结构相似度指数提升非常有限，即只测量到很少的运动。再则，DAVE方法的测量结果有显著的提升，但Demons方法更优。
+
+数据集1间隔时间较长，而数据集3的色球运动较快。在这两个数据集中，特征结构除了局部的运动外，还有新结构的浮现和旧结构的消失，因此图像结构相似度指数相对偏小。而数据集2中两帧图像时间间隔仅为18s，且光球运动较为缓慢，图像差异微小，图像结构相似度指数也明显高于其他两个数据集。但无论原始图像情况如何，Demons方法对于不同的数据集均表现出良好的处理能力。
+
+图3显示了对数据集1应用3种方法配准后的逐点图像结构相似度指数的直方图概率分布。可以看到Demons方法配准后图像结构相似度指数值的整体分布更为靠近1，明显好于DAVE和FLCT。同时FLCT的结果和未配准图像是非常接近的，即测量效果并不显著。这与表1的结果是一致的。数据集2和3的图像结构相似度指数概率分布也反映出同样的趋势。
+
+![](images/d4dee724095aeaae6929b288b89438506323bc0a49a4e2d80ae37a100d550876.jpg)  
+图3数据集1的不同方法配准后的逐点SSIM概率分布  
+Fig.3The probability distribution of SSIM index with different registration method applying dataset 1
+
+从最终速度场的测量情况看，3个数据集都呈现出同样的趋势：FLCT基本上只能在位移较大的情况下有测量值，而DAVE的测量值系统性小于Demons 的测量值，大多数情况只有Demons方法测量精度的一半。
+
+# 4模拟数据测试
+
+Demons方法虽然结果好于DAVE和FLCT，但第2帧经过非刚性配准后也并没有做到完全的匹配，即图像结构相似度指数并不等于1。其中最为重要的原因无论是光球还是色球，经过一段时间间隔后，不但原有的米粒、黑子或者色球纤维产生的位移，同时也有新特征的产生和旧结构的消失，这就不是仅从光流场能够计算的。
+
+为了进一步比较Demons 和DAVE 的光流场测量精度，测试他们在不同太阳图像（光球和色球）上亚像素和超像素位移的可靠性，设计了两个模拟实验，即分别将数据集1和数据集3中的第1帧图像在 $X$ 和Y方向整体移动一个固定量，从而产生第2帧刚性运动的图像，然后分别再用两个方法进行测量其与第一帧图像的光流场。由于模拟的是全局性位移，因此其逐点光流场的均值和标准差即可以很好地反映测量的精度。
+
+表2给出了整体位移为（5.7,-0.2）时，这两个方法在 $X$ 和Y方向上测量的统计结果。
+
+表2模拟数据使用DAVE和Demons方法测量的统计结果ab.2 The statistics results ofDAVE and Demons for simulation dat  
+
+<html><body><table><tr><td></td><td>光球X方向</td><td>光球Y方向</td><td>色球X方向</td><td>色球Y方向</td></tr><tr><td>DAVE均值</td><td>5.1005</td><td>-0.4316</td><td>1. 7071</td><td>-0.4550</td></tr><tr><td>DAVE标准差</td><td>1.3301</td><td>0.9575</td><td>1. 1969</td><td>1. 9099</td></tr><tr><td>Demons 均值</td><td>5.6946</td><td>-0.2075</td><td>5.6945</td><td>-0.2069</td></tr><tr><td>Demons标准差</td><td>0.0856</td><td>0.1048</td><td>0.0716</td><td>0.1694</td></tr></table></body></html>
+
+可以看到，与预设值相比，Demons 的均值和标准差表现都明显好于DAVE方法，逐点测量精度在0.1像素。而DAVE不但标准差比Demons方法高一个量级，而且均值也有较大的系统偏差，尤其对于自相关较强的色球图像。一般认为DAVE在做超像素测量时误差较大，但测试结果表明DAVE受到图像本身的特征结构的影响也是很大的。这与DAVE本质上也是使用相关方法来测量有关。FLCT由于能计算的像素太少，缺乏统计意义，因此被排除在外。
+
+同时，由于我们模拟整图的刚性位移，因此也可以用标准的整幅图像互相关方法直接测量两组图像的刚性位移。光球像的测量结果为（5.7578,-0.1814），而色球像的结果为(5.7446，-0.0654)，也比用Dem0ns 方法逐点测量后的均值结果明显偏差要大。这意味着，Demons方法不但适用于非刚性的配准，同时也可以利用均值测量图像刚性的位移，用于图像的刚性配准。尤其对于自相似性较强的目标，如色球纤维、太阳边缘等，这一方法有较强的优势。
+
+# 5 结论
+
+本文详细描述了Demons 方法，并利用其测量不同目标和不同位移量的太阳高分辨像的横向速度场。对测量结果进行图像非刚性配准后，图像结构相似度指数有了明显的提高，从而说明位移的测量是更为准确，表明了这一方法的可行性。通过和DAVE和FLCT方法进行对比，Demons方法表现出较为明显的优势。而光球和色球数据的亚像素和超像素模拟位移实验表明，Demons 逐点测量精度在0.1像素量级。这意味着在1m太阳望远镜18s间隔的光球像上可以得到200m/s精度的横向速度，而在32s的色球像上可以得到500m/s的速度精度。另外，对于图像结构自相关性较大的图像配准，这一方法无论在非刚性和刚性配准方面相对于传统互相关方法有明显的有优势。
+
+对比研究同时也表明，FLCT基本不适合测量高分辨像，而DAVE直接用于强度像的测量也难以得到精确的结果。
+
+Demons方法在亚像素和超像素测量上都能获得较高的精度，但是由于其算法的复杂性，使得计算机开销较大，计算时间较长，并不太适合大尺寸高分辨图像的整体运算。同时处理的图像有较为明显的边界效应，因此在实际处理的时候，需要对关注的区域做一定的边缘扩展。
+
+必须指出的是，这种利用光流场来测量横向速度场从本质上是假设物质的运动表现为图像强度的横向变化，而且这也仅仅是在观测平面上的投影，并不是真正的物质流动方向。同时如果有新图像结构的产生和旧结构的消失，从本质上这种测量方式是有缺陷的，因此需要高时间分辨率的观测，以减少这种变化。但更短的时间间隔意味着更小的位移量。
+
+理论上，这一方法可以用于处理其他望远镜的高分辨观测图像，也可以用于一些低分辨数据，或者其他类型的图像上，这些还需要进一步的尝试。
+
+致谢：感谢云南天文台澄江观测站和1m 太阳望远镜全体人员对论文工作的大力支持和帮助。
+
+# 参考文献：
+
+[1]TsunetaS,IchimotoK,KatsukawaY,etal.The SolarOpticalTelescope fortheHinode mission:anoverview[J].Solar Physics,2008,249(2):167-196.   
+[2] Liu Z,XuJ,GuBZ,etal.Newvacuum solar telescope andobservations with highresolution[J].Research inAstronomy and Astrophysics,2014,14(6): 705-718.   
+[3]GoodePR,DenkerCJ,DidkovskyLI,etal.1.6Msolar telescope inBig Bear-theNST[J].Journal ofthe Korean Astronomical Society,2003,36 (S1）:S125-S133.   
+[4] Scharmer G B,Bjelksjo K，Korhonen T K．_et al.The 1-meter Swedish solar telescope[C]//PrOCeedings Of the SPIE.2002: 341-350.   
+[5]汪景绣,季海生.空间天气驱动源—太阳风暴研究[J].中国科学：地球科学,2013,43(6):883-911. Wang Jingxiu,JiHaisheng.Space weatherdrivingSource-solarstormresearch[J].ScientiaSinicaTerae,2O1,43(6):88- 911.   
+[6]NovemberLJ,SimonGW.Precise proper-motion measurementofsolar granulation[J].TheAstrophysicalJoural,1988, 333:427-442.   
+[7]FisherGH,WelschBT.FLCT:afast,eficient method forperforminglocalcorrelationtracking[C]//Subsurfaceand Atmospheric Influences on Solar Activity ASP Conference Series.2Oo8:383.   
+[8]SchuckPW.Localoelationtracingadthagneticiductonqation[J].hestropsicalJoual,,6(): L53-L56.   
+[9]SchuckPW，ChenJ.Tracking magnetic footpoints withthe magneticinduction equation[J].TheAstrophysicalJoural, 2006，646(2): 1358-1391.   
+[10]Wang S,LiuC,Deng N,etal.Sudden photospheric motionand sunspot rotationassociated withtheX2.2flareon2011 February 15[J].Astrophysical Journal Letters,2014,782(2): L31-L36.   
+[11]LiuC,XuY,CaoW,etal.Faredirentiallyotatessunsptonun'surfce[J].NatureComunications,6,104.   
+[12]Potts HE,BarrttRK,DiverDA.Balltracking:anhighlyefficient methodfortrackingflowfields[J].Astronomy& Astrophysics,2004,424(1):253-262.   
+[13]PotsHE,DiverDA.Automaticrecognitionandcharacterisationofsupergranularcells fomphotosphericvelocityfields [J].Solar Physics,2008,248(2):263-275.   
+[14]ThirionJP.Image matching asadifusion process:ananalogywithMaxwel'sdemons[J].Medical Image Analysis,1998, 2(3): 243-260.   
+[15]KroonDJ,SlumpCH.MRImodalitytransformation indemon registration[C]// Proceedingsof theIEEE Intemational Symposium on Biomedical Imaging.2009: 963-966.   
+[16]Wang Z,BovikAC,SheikhHR,etal.Imagequalityassessment:fromerrorvisibilitytostructuralsimilarity[J].IEEE Transactions on Image Processing,2004,13(4): 600-612.
+
+# Measurement of transverse velocity field of NVST solar high resolution image
+
+Liu Hui¹，Yang Yunfei²， Shang Zhenhong'，Li Runxin1   
+(1.FacultyofInformationEngineringandAutomation,Kunming UniversityofcienceandTechnology,Kunming650500, China, Email: liuhui@kmust.edu.cn;   
+2.Key Laboratoryof Application ofComputer Technologyof the Yunnan Provence,Kunming Universityof Science and Technology,Kunming 650500, China）
+
+Abstract: The measurement of the transverse velocity field in the high resolution image of the Sun has been widely used in the dynamic analysis of the surface characteristics of the Chromosphere and Photosphere,however, the problem of insufficient measurement accuracy still exists.
+
+In this paper, the Demons method is introduced in detail and applied to the high resolution observation data processing of one meter vacuum solar telescope (NVST) in China. First, we select three data sets representing different bands of light and color balls at different observational intervals as test samples. When the velocity field is measured, the measurement accuracy of the velocity field is evaluated by the non-rigid registration with the image of previous time and the comparison of the structural similarity (SSIM). Experimental results show that Demons method is superior to traditional FLCT and Dave methods in the fine measurement of small scale motion, and the experimental results of sub-pixel and hyper-pixel analog displacements using Photosphere and Chromosphere image show that the point measurement accuracy can reach O.1 pixel magnitude by our method.
+
+Key words: Solar high-resolution image; Velocity field; Optical flow field ;Demons registration

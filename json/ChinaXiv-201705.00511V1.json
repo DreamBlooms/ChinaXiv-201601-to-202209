@@ -1,0 +1,209 @@
+[
+    {
+        "type": "text",
+        "text": "Critical role of the external bias in improving the performance of polymer solar cells with a small molecule electrolyte interlayert ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaodong Li,ac Wenjun Zhang,a Xueyan Wang,ac Yulei Wu,ä Feng Gao\\*b and Junfeng Fang\\*a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asmall-molecule electrolyte based on the popular ethylene diamine tetraaceticacid (EDTA-N) is introduced asan efficient cathode interlayerin inverted polymer solar cells，helping to deliver power conversion efficiency over $9 \\%$ .The strong dependence of device performance on the external bias suggests that the ion motion plays a critical role in improving the performance of deviceswith electrolyte interlayers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bulk-heterojunction (BHJ) polymer solar cells (PsCs） have attracted much attention due to their advantages of flexibility, light weight,low cost and ease of large area fabrication through roll-to-roll printing.1-5 The typical architecture of PSCs is a sandwich structure,where the photoactive materials are sandwiched between the anode and the cathode. Since charge injection/extraction can significantly affect the device performance,interfacial modification between organic materials and electrodes has become a crucial issue.6,7 Therefore,much effort has been focused on developing novel interfacial materials and understanding the corresponding device performance.8-16 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among various interfacial materials,conjugated electrolytes containing a $\\pi$ -delocalized backbone with pendant charge groups capable of ionization have attracted substantial interest due to their applications in organic electronic devices.9,12,17-21 Their solubility in polar solvents allows fabrication of multilayer devices without interface mixing through the solution processed approach.Very recently，we demonstrated efficient electron injection in polymer light-emitting diodes (PLEDs) by using quaternary ammonium small-molecule electrolytes without any $\\pi$ -delocalized backbone as interlayers.15 This work indicated that the ionic part of electrolyte is crucially important forcharge injection and that the $\\pi$ -delocalized structure is not absolutely necessary for the charge-injection function.15 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However,in PSCs,the neutral precursors of the organic electrolytes (without any ionic parts),such as poly[(9,9-bisl $[ 3 ^ { \\prime }$ (N,N-dimethylamino)propyl)-2,7-fluorene)-alt-2,7-(9,9-dioctylfluorene)] (PFN),were reported to deliver an impressive power conversion efficiency (PCE) of $9 . 2 \\%$ .18 In contrast, the electrolyte interlayers in PsCs usually give a relatively low efficiency compared with their neutral precursors，and the reason behind it is not clear yet.1,18,22 This also opens up a fundamental question: for the electrolyte interlayers in PSCs, does the ionization help the charge collection (like in the case of PLEDs)，or does it merely change the solubility? The difference between the precursor and the corresponding electrolyte lies in the mobile ions.For PLEDs,it has been identified that ion migration within the electrolytes plays an important role in improving the device performance.23-25 The voltage applied during the PLED measurement is usually higher than $_ { \\mathrm { ~ 4 ~ V ~ } }$ ，which is large enough to drive the ion migration within a short time,while for PSCs,the scan voltage range is generally less than $1 . 5 { \\mathrm { ~ V ~ } }$ ，We hypothesize that the small applied bias in PsC measurements might make it difficult to observe the effect of ion arrangement on the device performance.In order to separate the effect of the conjugated backbone and that of the ionic section in the electrolytes on the PsC performance,it is preferable to use electrolytes without any $\\pi$ -delocalized backbone，e.g. small-molecule electrolytes (SMEs).Actually，SMEs offer further intrinsic advantages over conjugated polyelectrolytes. Theyare synthesized easily without complex C-C coupling and polymerization reactions,are monodisperse in nature with welldefined chemical structures，and are synthetically wellreproducible.15,26,27 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here,we demonstrate successful applications of a small molecule ethylene diamine tetraacetic acid derivative (EDTA-N, Fig.1) as the cathode interlayer in inverted PSCs.By applying a bias prior to the device measurement, the power conversion efficiency (PCE) could be significantly increased from ${ \\sim } 6 \\%$ to $9 . 0 3 \\%$ ，which is among the highest PCEs for single-junction PSCs.The device performance is found to strongly depend on the size,direction and duration of pre-bias.For the first time,to the best of our knowledge,the dependence of PSCs with SME bufferlayers on the external biasis systematically investigated, providing insight into further improvement of device performance exceeding $1 0 \\%$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EDTA is well-known as a hexadentate ligand and chelating agent. EDTA-N was obtained through the reaction of EDTA and triethylamine (details in the Experimental section).EDTA-Nis highly soluble in methanol and not soluble in chlorobenzene due to the existence of ions,making it an ideal buffer layer material for the inverted PSC configuration (Fig.1).The EDTA-N interlayer was prepared by spin-coating the solution ( $\\mathrm { ~  ~ \\bar { ~ } \\ m g m L ^ { - 1 } ~ }$ in methanol) at $4 0 0 0 ~ \\mathrm { r p m }$ on indium tin oxide (ITO) substrates. Low bandgap polymers thieno[3,4-b]-thiophene/benzodithiophene (PTB7） and phenyl C71-butyric acid methyl ester $\\mathbf { \\Gamma } ( \\mathbf { P C } _ { 7 1 } \\mathbf { B M } )$ were used as photoactive materials.For comparison, conventional devices with the configuration of ITO/poly(3,4- ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS)/ PTB7 $\\mathbf { \\bar { \\rho } } _ { \\mathbf { : P C _ { 7 1 } B M / C a / A l } }$ were also fabricated under the same conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 summarizes the device parameters. The conventional structured devices exhibit a typical PCE of $6 . 9 0 \\%$ (the highest PCE of $7 . 1 4 \\%$ 0.28 And the inverted PSCs without any interlayer show rather inferior performance (an average PCE of $0 . 7 2 \\% )$ due to the high work function of the bare ITO.After EDTA-N is introduced as the cathode interlayer，the PCE significantly increases to $6 . 2 \\%$ ，indicating successful surface modification of the ITO by EDTA-N.However, this value is still lower than that of the conventional device,mainly due to the inferior open circuit voltage $\\left( V _ { \\mathrm { o c } } \\right)$ and fill factor (FF). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/324ec58dcb6dc7aa9ad0dbb4faef04ad648a33668c3715463844b6fd8c3d8595.jpg",
+        "img_caption": [
+            "Fig.1 Chemical structure of EDTA-N and device configuration used in our work. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to examine the potential effect of the external bias (and ion migration) on the device performance,we directly apply a bias on the devices prior to the device measurement $\\left( \\mathbf { M o O } _ { 3 } / \\mathbf { A l } \\right)$ is biased as the positive electrode and ITO/EDTA-N as the negative electrode).Note that all the bias was applied on devices under dark conditions to avoid the possible existence of light-soaking effects as possible.When a $_ { 4 \\mathrm { ~ V ~ } }$ bias is applied for $1 5 \\mathrm { ~ s ~ }$ ，the PCE could significantly increase to $9 . 0 3 \\%$ ，which is among the highest PCEs for single-junction PSCs.18 We systematically investigate the relationship between the bias and the device performance,as shown in Fig. 2.When a small $0 . 5 { \\mathrm { ~ V ~ } }$ bias is applied,the device performance keeps increasing with increasing bias time.After ${ \\sim } 4 8 0 \\ s$ ，the PCE and $V _ { \\mathrm { o c } }$ reach a saturated value (Table $\\mathbf { S 1 \\dag }$ ).When the applied bias is increased to $_ { 1 \\mathrm { ~ V ~ } }$ ,it takes only ${ \\sim } 3 0 0 ~ \\mathrm { s }$ to reach the saturated value (Table $^ { S 2 \\dagger }$ ).When a $2 \\mathrm { v }$ bias is applied,it takes only 150 s for the initial $V _ { \\mathrm { o c } } \\left( 0 . 6 7 3 \\mathrm { ~ V } \\right)$ and PCE $\\left( 6 . 6 7 \\% \\right)$ to increase to $0 . 7 4 5 \\mathrm { V }$ and $8 . 6 2 \\%$ (Table $^ { S 3 \\dagger } .$ ).And if we continue to increase the applied bias to $4 \\mathrm { v }$ just 5 s is already enough for the PCE $\\left( 6 . 3 2 \\% \\right)$ to increase to $8 . 3 8 \\%$ (Table ${ \\bf S 4 \\dagger }$ ).The higher pre-bias not only shortens the saturation time but also improves the saturated PCE (from $7 . 8 9 \\%$ at $0 . 5 \\mathrm { V }$ to $9 . 0 3 \\%$ at $4 \\mathrm { ~ V ~ }$ ),as shown in Fig.2,indicating that the pre-bias played a major role in the performance improvement and the effect of light-soaking could be ignored.Compared with the fresh device, the $V _ { \\mathrm { o c } }$ increases from about $0 . 6 6 \\mathrm { V }$ to $0 . 7 5 \\mathrm { V }$ after pre-bias (Table 1).And the FF also increases from less than $6 0 \\%$ to $\\sim 7 0 \\%$ Asa result,about $4 5 \\%$ improvement in PCEs (from $6 . 2 0 \\%$ to $8 . 9 3 \\%$ is achieved by simply applying a bias for a short time.The statistical comparison of the device performance data before and after pre-bias is shown in Fig.S1. $^ { \\dagger }$ In addition,we also examine the $J$ -Vcharacteristics under dark conditions after the external bias.As shown in Fig. $^ { { \\mathbf { } } _ { S 2 , \\dagger } }$ with increasing bias time (biased at $2 \\ : \\mathrm { V }$ )，the injection current gradually increases,which indicates improved interface modification,consistent with the enhanced photovoltaic performance. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9500af1d659d70e0e460d00f13c96a4f1ba5bb317aacf30853c9e2a73a312342.jpg",
+        "table_caption": [
+            "Table 1 The photovoltaic parameters of conventional and inverted PSCs with or without the cathode interlayer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>No.</td><td>Voc/V</td><td>Jsc/mA cm-2</td><td>FF/%</td><td>PCE/%</td><td>Rs/Ω cm²</td></tr><tr><td>Conventional</td><td>0.718</td><td>14.72</td><td>65.2</td><td>6.90 ± 0.13</td><td>10.8</td></tr><tr><td>Bare ITO</td><td>0.162</td><td>13.38</td><td>32.5</td><td>0.72 ±0.25</td><td>7.5</td></tr><tr><td>EDTA-Na</td><td>0.662</td><td>16.61</td><td>56.4</td><td>6.20 ±0.28</td><td>13.5</td></tr><tr><td>EDTA-N-Vb</td><td>0.746</td><td>16.75</td><td>71.4</td><td>8.93 ±0.07</td><td>4.7</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since a bias as low as $_ { 1 \\mathrm { ~ V ~ } }$ already helps to improve the device performance,we expect that the PCE could also be improved by repeated measurements (as a result of the bias during measurements).A typical fresh device with an EDTA-N interlayer shows only moderate performance with a $V _ { \\mathrm { o c } }$ of $0 . 6 8 6 \\mathrm { V }$ a ä The parameters of fresh devices.b The parameters of devices after prebias.All the parameters are average values among a batch of 8 devices. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/411b4d99d7abe6bb77538342e933b23e9bc3f5e052b0eda80bf433d615013c5d.jpg",
+        "img_caption": [
+            "Fig.2The variation of $V _ { \\mathrm { { o c } } }$ and PCE with pre-bias time for the device with the EDTA-N interlayer. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$J _ { \\mathrm { s c } }$ of $1 6 . 6 5 \\mathrm { \\ m A } \\mathrm { c m } ^ { - 2 }$ ,a FF of $5 3 . 3 \\%$ and a PCE of $6 . 0 9 \\%$ (Fig.3a and b).When we continue measuring the same device with a scan bias from $- 1 . 5 { \\mathrm { ~ V ~ } }$ to $1 . 5 { \\mathrm { ~ V } }$ ，the PCE will be improved to $6 . 7 2 \\%$ due to the apparently enhanced $V _ { \\mathrm { o c } }$ (0.709 V) and FF $( 5 6 . 7 \\% )$ .With increasing measurement times， the PCE continues increasing slowly until it reaches a saturated value. After 10 times continuous measurements，the PCE reaches $7 . 7 1 \\%$ with a high $V _ { \\mathrm { o c } }$ of $0 . 7 2 8 { \\mathrm { V } }$ and a FF of $6 3 . 2 \\%$ (Table S5†). All the above results demonstrate that the external bias plays acritical role in improving the device performance.It implies that the measurement conditions could affect the device performance,but no report on PSCs with electrolyte interlayers has paid attention to this effect so far.We further vary the scan voltage range during measurements and the results are shown in Fig.3c and d.When we measure the device from $- 1 . 5 \\mathrm { ~ V ~ }$ to $1 . 5 \\mathrm { V }$ ,thePCEis $6 . 4 1 \\%$ with a $V _ { \\mathrm { o c } }$ of $0 . 6 6 8 \\mathrm { V }$ and a FF of $5 8 . 8 \\%$ However,when we measure the device from $4 \\mathrm { ~ V ~ }$ to $- 1 . 5 { \\mathrm { ~ V ~ } }$ ,the PCE greatly increases to $8 . 1 9 \\%$ with a high $V _ { \\mathrm { o c } }$ of $0 . 7 2 9 \\mathrm { V }$ and a FF of $6 8 . 5 \\%$ (Table ${ \\bf 5 6 } \\dagger .$ ). Interestingly,when we switch the scan range to measure the device from $- 4 \\mathrm { \\Delta V }$ to $1 . 5 \\mathrm { ~ V ~ }$ ,onlya PCEof $5 . 8 8 \\%$ isobtained,due to the obviouslydecreased $V _ { \\mathrm { o c } }$ of $0 . 6 5 7 \\mathrm { V }$ and a FF of $5 5 . 5 \\%$ .The detailed results are presented in Table ${ \\bf 5 6 . \\dagger }$ Obviously,the scan range of the measurement could also affect the device parameters.It indicates the importance of specifying the measurement conditions since it will result in different device performances. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To further understand the origin of the external bias on the PSC performance,we study the current density $\\ r ( J )$ response of the EDTA-N based PSCs over time under different constant external biases under dark conditions.As shown in Fig.4, the temporal evolution of $J$ changes with the size of the external bias. Under $0 . 5 \\mathrm { ~ V ~ }$ bias,the $J$ gradually decreases with time.A similar phenomenon has been observed in light-emitting electrochemical cells (LECs) and was ascribed to the electric double layer formation (as a result of ion motion).29,30 We suspect that similar mechanisms are involved here,considering the ionic ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(ruerrnrrgeenl a 5 1 b 0.72 65 0 △ 2   \nV 4 M 160 510 68 > 0.70   \n中   \n-15 01 10 0.68 55 o 一   \n0.0 0.5 1.0 12345678910 (rurresgeinl 5 . -1.5\\~4V Voltage (V) d 0.72 9 Scan times 70 0 A -1-5-1.5V 0.70 65 -5 M   \n-10 > 0.68 60 -15 L 0.66 。 55 0.0 0.5 1.0 -1.5\\~4V -1.5\\~1.5V -4\\~1.5V Voltage (V) Scan range ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/62af4a944648242f2a740594150c48b65e02635566ed12a9f0dc77b7ab577910.jpg",
+        "img_caption": [
+            "Fig.3(a) The variation of $\\mathcal { I } - V$ curves with the measurement times (the scan voltage range is from $- 1 . 5 \\vee$ to $1 . 5 \\mathsf { V }$ ：(b)the $V _ { \\mathrm { { o c } } }$ and FF variations corresponding to (a); (c) the $\\jmath - V$ curveswith different scan ranges; (d) the $V _ { \\mathrm { { o c } } }$ and FF variations corresponding to (c). ",
+            "Fig.4The $\\boldsymbol { \\mathcal { I } }$ response over time under different biases (in the dark) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "nature of the electrolytes.The ion reorientation or motion in the EDTA-Ninterlayerformsan electrical doublelayer.Thiselectric double layer resultsinan extra internal electric field,which is opposite to the external electric field,thus leading to the decrease ofJ.29,3o In order to further examine this hypothesis,we increase the bias to $_ { 1 \\mathrm { ~ V ~ } }$ ，which is comparable to the built-in electric field of PSCs.Under $_ { 1 \\mathrm { ~ V ~ } }$ ，the $J$ decreases first and then starts to increase slowly.This resultagreeswell with the electric double layer formation hypothesis.After the electric double layeris formed,the injection barrier is decreased,which is responsible for the increase of $J .$ A similar phenomenon was also observed in PLECs.29-31 For devices under larger bias ( $_ { 2 \\mathrm { ~ V ~ } }$ or $4 \\mathrm { { V } }$ ,for example),the initial decrease of $\\dot { \\boldsymbol { J } }$ disappears. For $2 \\mathrm { v }$ or $_ { 4 \\mathrm { ~ V ~ } }$ biased devices,the external electrical field is much higher than the built-in electric field ofPsCs,and hence the formation of the electric double layer is much faster,making this process difficult to observe directly.Instead,a much more rapid and significantincrease of $J$ over time is observed.If we define the time at which $J$ approaches the saturated value as the response time,the response time is about $2 0 ~ \\mathrm { s }$ for $_ { 4 \\mathrm { ~ V ~ } }$ and 60 s for $2 { \\mathrm { ~ V } } _ { : }$ respectively.It is consistent with time to reach the saturation efficiency shown in Fig.2.All our results are similar to those observed for LECs,29-31 where the ion migration under the electric field is widely accepted as the key operation mechanism.And the ion reorientation or migration picture also explains our results very well. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the above analysis，we propose a diagram explaining the critical role of the electric field in improving the device performance with electrolyte interlayers (Fig.5). Upon the application of an external bias,the anions $( \\mathbf { C O O } ^ { - } )$ accumulate at the $\\mathrm { E D T A - N / P C _ { 7 1 } B M : P T B 7 }$ interface and cations accumulate at the ITO/EDTA-N interface (Fig.5b). The redis tribution/reorientation will lead to the introduction of an extra electric field.The direction of the electrical fieldis the sameas that of the built-in electrical field (Fig. 5b). On the one hand, thisis helpful to improve charge collection.On the other hand, it can increase the whole built-in electrical field of the devices a b 田田日 PTB7:Pre-bias 日日 PTB7: relax PTB7: 田田PCBM 田田OOPCBM PCBM: 田田 00 E EDTA-N EDTA-N EDTA-N ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "and effectively reduce the recombination.This is consistent with the significant improvement of $V _ { \\mathrm { o c } }$ andFFafter pre-bias.In addition, the anion accumulation at EDTA-N $\\mathrm { J / P C } _ { 7 1 } \\mathrm { B M }$ :PTB7 may also induce the doping of fullerenes,thus improving the efficiency of electron collection.32-35 The higher pre-bias will lead to faster ion redistribution/reorientation.Asa result,it takesa much shorter time for the device to reach the saturated value. And under the higher pre-bias condition,the number of sepa rated ions is higher and the resulting build-in electrical field is larger.Thatis why the PCE of the deviceswith 4V $\\left( 9 . 0 3 \\% \\right)$ is significantly higher than that of 0.5 V $( 7 . 8 9 \\% )$ . In the repeated measurement process,with the increasing test times,the ion distribution becomes increasingly beneficial to the device performance.As a result，the device performance keeps improving with increasing measurement times and finallyreachesa saturated value. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to further back up our explanation,we replace EDTA-N with a neutral polymer interlayer (PFN-4,Fig. $\\mathbf { S } 3 \\dagger .$ ） Based on our analysis,for PSCs with the interlayer containing no ions,the device performance is not supposed to change after pre-bias treatment.Indeed,we find that the devices with the PFN-4 interlayer show almost the same performance under $_ { 4 \\mathrm { ~ V ~ } }$ bias treatment as expected (Table $\\mathbf { S } 7 \\dagger$ ). This control experiment further confirms the dominant role of ion motion in device performance with electrolyte interlayers. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Since the device performance is significantly affected by the ion distribution/reorientation,an issue concerning the practical application is how stable the device is.We recorded the performance of a typical device with an optimized PCE of $8 . 9 9 \\%$ after pre-bias.The device PCE decreases to $8 . 0 5 \\%$ with a slightly decreased $V _ { \\mathrm { o c } }$ of $0 . 7 4 0 \\mathrm { V }$ and a FF of $6 6 . 3 \\%$ after being stored in the glove box (filled with Ar) for $^ { 9 8 \\mathrm { { h } } }$ .However,whena bias (4V) is applied for $2 0 \\mathrm { ~ s ~ }$ ，the PCE is recovered to $8 . 8 5 \\%$ with an obviously improved $V _ { \\mathrm { o c } }$ of $0 . 7 5 8 \\mathrm { ~ V ~ }$ and a FF of $7 1 . 1 \\%$ .We note that the PCE after being stored for a long time (98 h) is still much higher than that of the fresh devices,which implies that the ion motion is quite slow or that the permanent dipole induced bymolecule rearrangement through the external electrical field still exists.As to the about $1 0 \\%$ loss in PCE $( 8 . 0 5 \\%$ versus $8 . 8 5 \\%$ if ignoring the device degradation)，it may be caused by the ion relaxation²4 as shownin Fig.5c.Inaddition, the stability of the devices and surface morphology were also studied as shown in Fig.S4 and ${ \\mathbf { } } S 6 . { \\dagger }$ The EDTA-N coated ITO showed a rather smooth surface with a root mean square (RMS) of $2 . 5 8 \\ \\mathrm { n m }$ and the corresponding devices exhibited a much better stability than that of conventional structured devices under the same conditions (Fig.S4†).These results indicate that apart from the enhanced PCE,a better device stability could also be obtained by using EDTA-N as the interfacial material. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary,a small molecule EDTA derivative (EDTA-N) has been investigated as the cathode interlayerin inverted PSCs. The performance is found to strongly depend on the external bias treatment.By applying an external bias prior to the measurement for a short time,the PCE could be impressively increased from ${ \\sim } 6 \\%$ to $9 . 0 3 \\%$ ，which is among the highest PCEs for PSCs with small molecule electrolyte interlayers.We further demonstrate that the device performance also significantly depends on the measurement conditions,such as the scan range,scan history,etc.This indicates that a“poor”or \"excellent”electrolyte interlayer material is defined not only by the material itself but also by the measurement conditions, especially for the PSCs with ion-containing interlayers.The ion motion is suggested to be responsible for the device improvement under the external electric field conditions.This work has demonstrated promising applications of SMEs as well as conjugated polyelectrolytes forPSC interlayers and it provides newroutes to achieve $1 0 \\%$ PCE for PSCs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Theauthors thank Dr W.Tress for helpful discussions.The project was (61474125,51273208) supported by the National Natural Science Foundation of China and Zhejiang Provincial Natural Science Foundation of China (LR14Eo3ooo2); the work was also supported by the Hundred Talent Program of Chinese Academy of Sciences.F.G.acknowledges the financial support of the European Commission undera Marie Curie Intra-Euro pean Fellowship for Career Development. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notes and references ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 G.Yu,J. Gao,J.Hummelen,F.Wudl and A.J.Heeger, Science, 1995,1789.   \n2 S.Gines,H. Neugebauer and N. S. Sariciftci,Chem. Rev., 2007,107,1324.   \n3B.C.Thompson and J.M.J.Fréchet,Angew. Chem.,Int.Ed., 2008,47,58.   \n4G.Li,R.Zhu and Y.Yang,Nat.Photonics,2012,6,153.   \n5K.Li, Z.Li,K.Feng, X. Xu,L. Wang and Q.Peng,J. Am. Chem. Soc.,2013,135,13549.   \n6 L.-M. Chen, Z. Xu, Z. Hong and Y. Yang, J. Mater. Chem., 2010,20,2575.   \n7 C.Duan,K. Zhang,C. Zhong,F.Huang and Y.Cao,Chem. Soc.Rev.,2013,42,9071.   \n8 S.H.Park,A. Roy, S. Beaupre, S.Cho,N. Coates,J. S.Moon, D.Moses,M.Leclerc,K.Lee and A.J.Heeger,Nat.Photonics, 2009,3,297.   \n9 J. Fang, B.H. Wallikewitz,F. Gao, G. Tu, C. Müller, G.Pace, R.H.Friend and W.T.S.Huck,J.Am. Chem. Soc.,2010,133, 683.   \n10 Y.Sun,J.H. Seo,C.J. Takacs,J. Seifter andA.J.Heeger,Adv. Mater.,2011,23,1679.   \n11 Y.-M.Chang,R.Zhu,E. Richard,C.-C.Chen,G.Li and Y.Yang,Adv.Funct.Mater.,2012,22,3284.   \n12 S.-H. Liao,Y.-L.Li, T.-H. Jen, Y.-S. Cheng and S.-A. Chen,J. Am. Chem. Soc.,2012,134,14271.   \n13S.Murase andY.Yang,Adv.Mater.,2012,24,2459.   \n14X.Li,W. Zhang,Y.Wu,C.Min and J.Fang,ACS Appl.Mater. Interfaces,2013,5,8823.   \n15 C. Min, C. Shi, W. Zhang, T. Jiu, J. Chen, D. Ma and J. Fang, Angew. Chem.,Int. Ed.,2013,52,3417.   \n16 Q.Fu,J. Chen, C. Shi and D.Ma,ACS Appl. Mater. Interfaces, 2013,5,6024.   \n17 C.Duan, K. Zhang, X. Guan, C. Zhong,H. Xie,F. Huang, J. Chen,J.Peng and Y.Cao,Chem. Sci.,2013,4,1298.   \n18 Z.He,C. Zhong,S.Su, M.Xu,H. Wu and Y.Cao,Nat. Photonics,2012,6,591.   \n19 C.Duan,L.Wang,K. Zhang,X.Guan and F.Huang,Adv. Mater.,2011,23,1665.   \n20K.Zilberberg,A.Behrendt,M.Kraft,U.Scherf and T.Riedl, Org.Electron.,2013,14,951.   \n21 X.Guan,K. Zhang,F.Huang,G.C.Bazan and Y.Cao,Adv. Funct.Mater.,2012,22,2846.   \n22 B.H.Lee,I.H. Jung,H.Y.Woo,H.-K. Shim,G.Kim and K.Lee,Adv.Funct.Mater.,2014,24,1100.   \n23 C.Hoven,R. Yang,A.Garcia,A. J. Heeger, T.-Q.Nguyen and G.C.Bazan,J.Am. Chem. Soc.,2007,129,10976.   \n24 C.V. Hoven, R. Yang,A. Garcia,V. Crockett,A. J. Heeger, G. C. Bazan and T.-Q. Nguyen, Proc. Natl. Acad. Sci. U. S. A., 2008,105,12730.   \n25 A.Garcia,R.C.Bakus Ii,P. Zalar,C.V.Hoven,J.Z. Brzezinski and T.-Q.Nguyen,J.Am. Chem.Soc.,2011,133,2492.   \n26 C.-H.Wu,C.-Y.Chin,T.-Y. Chen,S.-N. Hsieh,C.-H.Lee, T.-F.Guo,A.K.Y.Jen and T.-C.Wen,J.Mater.Chem.A, 2013,1,2582.   \n27 X.Li,W. Zhang,Y.Wu, C.Min and J. Fang,J. Mater. Chem. A, 2013,1,12413.   \n28 Y.Liang, Z. Xu, J. Xia, S.-T. Tsai, Y. Wu, G. Li, C. Ray and L.Yu,Adv.Mater.,2010,22,E135.   \n29 S.van Reenen,P. Matyba,A. Dzwilewski,R.A. J. Janssen, L.Edman and M.Kemerink,J.Am. Chem. Soc.,2010,132, 13776.   \n30 J.Fang,Y. Yang and L. Edman,Appl.Phys. Lett.,2o08,93, 063503.   \n31J.Fang,P. Matyba,N.D.Robinson and L. Edman,J.Am. Chem. S0c.,2008,130,4562.   \n32 C.-Z. Li, C.-C. Chueh,H.-L. Yip,F.Ding, X. Li and A. K. Y. Jen, Adv.Mater.,2013,25,2457.   \n33 N. Cho, C.-Z. Li, H.-L. Yip and A. K.Y. Jen, Energy Environ. Sci.,2014,7,638.   \n34 C.-Z. Li, C.-C. Chueh, F. Ding, H.-L. Yip,P.-W. Liang, X. Li and A.K.Y. Jen,Adv. Mater.,2013,25,4425.   \n35 C.D.Weber, C.Bradley and M.C.Lonergan,J.Mater. Chem. A,2014,2,303. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

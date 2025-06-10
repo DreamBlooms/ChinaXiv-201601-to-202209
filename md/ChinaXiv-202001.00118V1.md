@@ -1,0 +1,159 @@
+# 政府无形类文化关注度对空气质量的预测作用
+
+龚园超1,2‡ 韩艺斐1,2‡ 朱廷劭1,21（中国科学院大学心理学系 北京 100049)2（中国科学院心理研究所 北京 100101)
+
+摘 要随着中国经济社会的发展，环境问题日益突出，尤其是空气质量常常引起人们担忧。而中国文化中抽象精神层面内容即无形类文化（如价值观、意识形态、社会准则等等）倡导人与自然和谐共处，对于提高环保意识、促进亲环境行为具有重要的作用。为了探究政府对无形类文化的关注度是否有助于环境问题改善，本研究采用词频分析法对1978年-2009 年人民日报无形类文化关键词进行年度词频统计代表政府对无形类文化的关注度，利用对应同期客观可吸入颗粒PM2.5和 $\mathbf { P M } _ { 1 0 }$ 浓度年增长率作为空气质量状况指标考量环境质量，使用多元线性回归构建预测模型。结果表明，在控制了政府对科技的关注度和年度GDP总量后，政府对无形类文化的关注度可以负向预测 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 浓度年增长率，即绿色发展水平提高。
+
+关键词 无形类文化；政府关注度； $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ ；绿色发展
+
+# 1引言
+
+# 1.1中国空气质量现状
+
+改革开放以来，中国经济迅速发展，但是在相当一段时期内，经济发展以牺牲环境质量为代价，尤其是空气质量，比如可吸入颗粒物PM2.5 给中国带来了沉重的“健康负担”(Songetal.,2017)，冬季严重的雾霾极大威胁人们身体与心理健康，造成呼吸系统疾病、心脑血管疾病、肺癌、抑郁等身心疾病患病率提高(Gao et al.,2017;Lu et al.,2015)。虽然国家对空气质量的关注日益提高，空气质量也在逐渐改善，但从2019年5月发布的《中国生态环境状况公报》数据来看，2018 年全国388个地级及以上城市中，只有121个城市环境空气质量达标，严重污染比 2017年增长了20 天；其中， $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 为主要空气污染物，以两者为首要污染物的天数分别占重度及以上污染天数的 $60 \%$ 和 $3 7 . 2 \%$ （中华人民共和国生态环境部,2018)。虽然越来越多的预测模型已经可以对 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 做出较为精准的预测，甚至可以实现对未来一日 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 空间浓度分布规律的预测(Wang,Wang,Chang,&Avram,2018)，但是 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 浓度的决定因素和形成过程错综复杂，单纯的浓度预测对于民众来说难以形成整体的理解，而若能通过一定途径使其了解不同浓度PM2.5和 $\mathbf { P M } _ { 1 0 }$ 时经济社会其他层面的发展状况则有助于民众以一个整体的视角感知空气质量状况，从而在一定程度上潜移默化影响人们的行为，促进空气质量改善。
+
+# 1.2文化的分类及其与环保的关系
+
+文化是人类社会多样化发展的写照，对文化的分类方式也不唯一。按照范围划分，有狭义文化、中义文化和狭义文化；按照层次划分，有高级文化、大众文化和深层文化(唐志龙,2012)；从物质财富和精神财富的视角出发，有学者将文化分为有形类文化、无形类文化和创造性文化(田学军& 熊毅,2017)：有形类主要包括物质文化遗产，无形类主要包括历史、价值观、行为规范、社会体制、宗教等等精神层面无形、抽象的文化表征，创意类文化主要包括影视及文化旅游等等。其中，无形类文化根植于潜意识，潜移默化指导人们的言行举止，从而对于经济社会其他各方面的发展也具有一定的影响。一项关于中美大学生的亲环境行为的研究表明虽然美国奉行个人主义文化，但是美国大学生亲环境行为高于中国大学生，并且逐步回归结果显示社会准则会显著影响亲环境行为(Onokala,Banwo,&Okeowo,2018)；同样，文化差异也体现在相似性程度高的文化背景下的国家之间，比如一项针对美国和智利商学院学生的亲环境行为研究表明智利学生更受利他主义价值观和感知同伴压力的影响，表现出对环境问题更高水平的意识、对保护环境更大的责任意识和更强的亲环境行为意愿(Cordano,Welcomer,Scherer,Pradenas,& Parada, 2010)。
+
+从无形类文化中各个构成要素的角度进行的文化与环境保护的理论研究也受到学者的重视。其中，价值-信念-准则理论（Value-Belief-Norm Theory,VBN)(Stern,Dietz,Abel,Guagnano,&Kalof,1999)认为人们首先会接受行为的基本价值，然后产生受威胁的信念，进而相信他们的行为可以恢复价值，并会体验到从事亲环境行为的义务感（这是一种个人准则)，从而使得环境主义得到加强。中华民族数千年的发展历程中积淀了浑厚的历史底蕴，形成了独特且影响深远的价值观，在当代社会依旧引导着我们的行为。依存型自我建构是一种将自己的态度和行动建立在他人思想、情感、行动基础上的自我，是中华民族传统文化价值观的表现之一；研究表明消费者的依存型自我建构对其绿色购买行为影响显著(劳可夫&王露露,2015)。此外，中国传统价值观还提倡尊重自然、与自然和谐共处，而且传统文化价值观中的正义理他、博爱平等、人际和谐的理念可以通过以未来时间取向为中介促进人们的环保行为(张玮 & 何贵兵,2011)。
+
+# 1.3人民日报与词频分析
+
+人民日报是中国官方最具权威性的新闻媒体出版物之一，体现了中国政府的意愿与倾向，是中国社会发展现状的反映，也是主流意识形态的重要舆论载体(钟蕊,2019)。作为中国第一大报，人民日报创刊于1948 年，不断见证和记录了中国社会方方面面的变革，展现中国社会主义现代化建设的进程，并在1992 年被评为联合国教科文组织世界十大报纸之一」。近年来,随着研究技术的逐渐改进，研究者可以采用文本分析的方法对人民日报文本内容进行研究从而量化主题、态度等重要信息，其中词频分析由于可以便捷地反映出政府对特定问题和对象的关注度而受到研究者的重视(Jiang＆Gao,2018；廖建桥 & 毛江华,2014)。而且相比于通过其他途径了解政府的关注重心和态度倾向，人民日报具有全面性和深入性的特点，因此可以通过文本分析作为了解政府态度的重要工具。
+
+# 1.4本研究
+
+为了了解政府对无形类文化的关注度是否会对人们的环境态度产生积极的影响，本研究以改革开放40年（1979年-2009年）以来人民日报中每年无形类文化的词频作为政府对无形类文化的关注度、以同期 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 浓度作为环境状况指标（空气质量)，同时控制国家对科技的关注度以及年度GDP，考察政府对无形类文化的关注度如何预测当年相比于上一年 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 浓度的变化。
+
+# 2 方法
+
+# 2.1数据收集
+
+自变量无形类文化指标和控制变量科技指标分别是1978-2009年人民日报文
+
+章中“无形类文化”和“科技”关键词词频，使用python3.7进行词频统计。“无形类文化”关键词“包括历史”“价值观”、“行为规范”、“社会体制”、“宗教”和“非物质文化遗产”；“科技”关键词包括“科技”、“科学”和“技术”。
+
+控制变量经济指标使用1978-2009 年的国内生产总值（GDP)。国内生产总值是指按市场价格计算的一个国家（或地区）所有常住单位在一定时期内生产活动的最终成果，常被公认为衡量国家经济状况的最佳指标。
+
+空气质量指标 $\mathbf { P M } _ { 1 0 }$ 和 $\mathrm { P M } _ { 2 . 5 }$ 数据来自国家统计局²。使用R3.5.3计算PM10和 $\mathrm { P M } _ { 2 . 5 }$ 在1978-2009年的年度增长率，计算公式为年增长率 $\ c =$ （本年指标-上年指标）/上年指标 $\ast 1 0 0 \%$ 。
+
+# 2.2多元线性回归
+
+多元线性回归是对一个因变量和多个自变量做线性回归分析，采用最小二乘法（OrdinaryLeast Square,OLS）估计模型参数，然后对模型参数和模型进行显著检验。在本研究中，自变量为文化 $( C )$ ，科技 $( T )$ 和经济 $( G )$ ，因变量为 $\mathbf { P M } _ { 1 0 }$ 年度增长率（PMio_inc）和 $\mathrm { P M } _ { 2 . 5 }$ 年度增长率（PM2.5_inc)，多元线性回归表达式为(1)和(2)。使用 SPSS24.0 做多元线性回归分析。
+
+$$
+\begin{array} { r } { \mathrm { P M } _ { ^ { 1 0 } - } \mathrm { i n c } = \mathrm { a } 1 + \mathrm { a } 2 ^ { * } C + \mathrm { a } 3 ^ { * } T + \mathrm { a } 4 ^ { * } G \left( \begin{array} { l } { } \\ { } \end{array} \right. } \\ { \mathrm { P M } _ { ^ { 2 . 5 } - } \mathrm { i n c } = \mathrm { a } 1 + \mathrm { a } 2 ^ { * } C + \mathrm { a } 3 ^ { * } T + \mathrm { a } 4 ^ { * } G \left( \begin{array} { l } { } \end{array} \right. } \end{array}
+$$
+
+# 3结果
+
+# 3.1描述性统计
+
+文化、科技、经济、 $\mathrm { P M } _ { 1 0 _ { - } }$ _inc和 $\mathrm { P M } _ { 2 . 5 _ { - } }$ _inc 在1978年-2009 年随时间的发展变化如图1所示。1979年-1999年 $\mathrm { P M } _ { 1 0 _ { - } }$ _inc 和PM2.5_inc不断下降，在1999年两者均下降到最低点，在1999 年-2008年两者不断上升，在2008年两者均达到最高点。科技在1979年-1999年不断上升，在1999年-2002年不断下降，在2002年-2006 年不断上升，2006 年到达最高点。文化和经济在1979 年-2009 年间不断上升。
+
+![](images/3798dcf5a6aa097daf2fa1301cecf3027a35df603c5e88c7d7ce5e405be5ce4d.jpg)  
+图1
+
+文化、科技、经济、 $\mathrm { P M } _ { 1 0 _ { - } }$ _inc 和PM2.5_inc在1978年-2009 年随时间发展变化3.2多元线性回归
+
+# $3 . 2 . 1 \mathrm { P M } _ { 1 0 }$ 年度增长率
+
+以 $\mathrm { P M } _ { 1 0 }$ 年度增长率（ $\mathrm { P M } _ { 1 0 _ { - } }$ _inc）为因变量，使用多元线性回归探究文化、经济和科技对它的影响。首先诊断回归模型中的随机误差项的各期望值之间是否存在相关关系，D-W为1.559， $p { = } 0 . 1 1 4 { > } 0 . 0 5$ ，表明模型中不存在自相关性，可以进行回归分析。由表1可知模型R平方值为0.310，即该模型可解释 PMio_inc$3 1 . 0 \%$ 的变化原因。对模型进行 $F$ 检验，由表2可知模型通过 $F$ 检验 $( F ( 3 , 2 8 )$ （204号$\scriptstyle = 4 . 2 0 2$ ， $p { = } 0 . 0 1 4 { < } 0 . 0 5 \$ )，说明文化，经济和科技中至少一项会对 $\mathrm { P M } _ { 1 0 _ { - } }$ _inc产生显著影响。
+
+由表3可知，科技的标准化回归系数为-0.037，但 $p { = } 0 . 9 1 6 { > } 0 . 0 5$ ，说明在该模型中，科技对 $\mathrm { P M } _ { 1 0 _ { - } }$ _inc没有显著影响；文化的标准化回归系数为-1.070，$p { = } 0 . 0 1 4 { < } 0 . 0 5$ ，说明随着人民日报中无形类文化关键词的词频增加，PMio_inc 会不断降低；经济的标准化回归系数为1.249， $p { = } 0 . 0 0 2 { < } 0 . 0 5$ ，说明随着经济的不断发展， $\mathrm { P M } _ { 1 0 _ { - } }$ _inc 也会不断增加。针对模型多重共线性进行检验发现，模型中的VIF 值均小于10，说明该模型中不存在多重共线性问题。
+
+表1PMioinc多元线性回归模型摘要  
+
+<html><body><table><tr><td>模型</td><td>R</td><td>R方</td><td>调整后R方</td><td>标准估算的误差</td></tr><tr><td>1</td><td>0.557a</td><td>0.310</td><td>0.237</td><td>0.023</td></tr></table></body></html>
+
+a.预测变量：(常量)，科技，文化，经济
+
+表 $2 \ : \mathrm { P M } _ { 1 0 } .$ _inc多元线性回归模型检验结果  
+
+<html><body><table><tr><td>模型</td><td></td><td>平方和</td><td>自由度</td><td>均方</td><td>F</td><td>P</td></tr><tr><td>1</td><td>回归</td><td>0.007</td><td>3</td><td>0.0022</td><td>4.202</td><td>.014a</td></tr><tr><td></td><td>残差</td><td>0.015</td><td>28</td><td>0.0005</td><td></td><td></td></tr><tr><td></td><td>总计</td><td>0.021</td><td>31</td><td></td><td></td><td></td></tr></table></body></html>
+
+a.预测变量：(常量)，科技，文化，经济
+
+表 $\mathbf { 3 \ P M _ { 1 0 } } .$ _inc多元线性回归系数及检验结果  
+
+<html><body><table><tr><td rowspan="2">模型</td><td colspan="2">未标准化系数</td><td rowspan="2">标准化系数</td><td rowspan="2"></td><td rowspan="2">p</td><td colspan="2">共线性统计</td></tr><tr><td>B</td><td>标准误差</td><td>t</td><td>容差 VIF</td></tr><tr><td>(常量)</td><td>0.072</td><td>0.023</td><td>Beta</td><td>3.129</td><td>0.004</td><td></td><td></td></tr><tr><td>科技</td><td>-8.78E-08</td><td>0.000</td><td>-0.037</td><td>-0.106</td><td>0.916</td><td>0.197</td><td>5.075</td></tr><tr><td>文化</td><td>-6.78E-06</td><td>0.000</td><td>-1.070</td><td>-2.612</td><td>0.014*</td><td>0.147</td><td>6.813</td></tr><tr><td>经济</td><td>1.27E-07</td><td>0.000</td><td>1.249</td><td>3.416</td><td>0.002**</td><td>0.184</td><td>5.432</td></tr></table></body></html>
+
+\*表示 $\scriptstyle { p < 0 . 0 5 }$ ，\*\*表示 $p { < } 0 . 0 1$
+
+# 3.2.2PM2.5年度增长率
+
+以PM2.5年度增长率（PM2.s_inc）为因变量，使用多元线性回归探究文化、经济和科技对它的影响。首先诊断回归模型中的随机误差项的各期望值之间是否存在相关关系，D-W为1.648， $p { = } 0 . 2 { > } 0 . 0 5$ ，表明模型中不存在自相关性，可以进行回归分析。由表4可知，模型R平方值为0.307,即该模型可解释PM2.5_inc $30 . 7 \%$ 的变化原因。对模型进行 $F$ 检验，由表5可知模型通过 $F$ 检验 $( F ( 3 , 2 8 ) { = } 4 . 1 2 7$ ，$p { = } 0 . 0 1 5 { < } 0 . 0 5 \$ ),说明文化，经济和科技中至少一项会对PM2.5_inc产生显著影响。
+
+由表6可知，科技的标准化回归系数为-0.088，但 $p { = } 0 . 8 0 6 { > } 0 . 0 5$ ，说明在该模型中，科技对PM2.s_inc 没有显著影响；文化的标准化回归系数为-0.993，$p { = } 0 . 0 2 2 { < } 0 . 0 5$ ，说明随着人民日报中无形类文化关键词的词频增加，PM2.5_inc 会不断降低；经济的标准化回归系数为1.251， $p { = } 0 . 0 0 2 { < } 0 . 0 5$ ，说明随着经济的不断发展，PM2.s_inc 也会不断增加。针对模型多重共线性进行检验发现，模型中的VIF 值均小于10，说明该模型中不存在多重共线性问题。
+
+表4PM.5inc多元线性回归模型摘要  
+
+<html><body><table><tr><td>模型</td><td>R</td><td>R方</td><td>调整后R方</td><td>标准估算的误差</td></tr><tr><td>1</td><td>0.554a</td><td>0.307</td><td>0.232</td><td>0.029</td></tr></table></body></html>
+
+a.预测变量：(常量)，科技，文化，经济
+
+表5PM2.5inc多元线性回归模型检验结果  
+
+<html><body><table><tr><td>模型</td><td></td><td>平方和</td><td>自由度</td><td>均方</td><td>F</td><td>P</td></tr><tr><td>1</td><td>回归</td><td>0.010</td><td>3</td><td>0.0034</td><td>4.127</td><td>0.015a</td></tr><tr><td></td><td>残差</td><td>0.023</td><td>28</td><td>0.0008</td><td></td><td></td></tr><tr><td></td><td>总计</td><td>0.034</td><td>31</td><td></td><td></td><td></td></tr></table></body></html>
+
+a.预测变量： (常量)，科技，文化，经济
+
+表6PM.5_inc多元线性回归系数及检验结果  
+
+<html><body><table><tr><td rowspan="2">模型</td><td colspan="2">未标准化系数</td><td rowspan="2">标准化系数</td><td rowspan="2">t</td><td rowspan="2">p</td><td colspan="2">共线性统计</td></tr><tr><td>B</td><td>标准误差</td><td>Beta</td><td>容差 VIF</td></tr><tr><td>(常量)</td><td>0.085</td><td>0.029</td><td></td><td>2.904</td><td>0.007</td><td></td><td></td></tr><tr><td>科技</td><td>-2.61E-07</td><td>0.000</td><td>-0.088</td><td>-0.248</td><td>0.806</td><td>0.197</td><td>5.075</td></tr><tr><td>文化</td><td>-7.96E-06</td><td>0.000</td><td>-0.993</td><td>-2.419</td><td>0.022*</td><td>0.147</td><td>6.813</td></tr><tr><td>经济</td><td>1.60E-07</td><td>0.000</td><td>1.251</td><td>3.410</td><td>0.002*</td><td>0.184</td><td>5.432</td></tr></table></body></html>
+
+\*表示 $\scriptstyle { p < 0 . 0 5 }$ ，\*\*表示 $p { < } 0 . 0 1$
+
+# 4讨论
+
+环境库兹涅茨曲线（EnvironmentalKuznets Curve,EKC）的经典模型指出随着经济的发展，环境污染会逐渐加剧，但是在经济发展水平到达一定程度以后即过了某个“拐点”以后，环境污染又会逐渐下降，环境质量得到改善，即呈现“倒U 型”的曲线关系(Dinda,2004)。但是新的证据表明经济发展与环境可能是“N型”曲线关系，即随着经济发展，环境状况先恶化再改善再下降(Allard,Takman,Uddin,&Ahmed,2017)。以二氧化硫污染作为空气质量指标的面板数据研究分析表明我国经济发展与环境质量更有可能是“N型”曲线关系(张昭利，任荣明,&朱晓明,2012)，与图1呈现的 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathrm { P M } _ { 1 0 }$ 浓度年增长率以及经济发展增速情况较为一致，且在一段时间内中国环境污染还将随着经济高速增长以一定波动正增长。
+
+与此同时，政府对无形类文化的关注度一直保持较稳定水平缓慢增长，但$\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 的年度增长率的回归模型表明无形类文化的关注度可以负向预测$\mathrm { P M } _ { 2 . 5 }$ 和 $\mathrm { P M } _ { 1 0 }$ 浓度年增长率，即政府对无形类文化关注度越高， $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 浓度年增长率越低，意味着由 $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathbf { P M } _ { 1 0 }$ 造成的空气污染程度越低。一方面，政府对无形类文化关注度可能反映的是政府支持和促进无形类文化的发展，借助人民日报的平台形成全民对无形类文化的推崇，促进对自然的敬畏之心从而提高环境意识；另一方面，政府对无形类文化的关注也可能是社会对其关注的反映，即词频体现人民日报对全社会人民关注无形类文化的报道，因此词频越高实际上反映出人们对价值观、意识形态、准则规范等精神文明的关注度越高，由此可能产生较高的环境意识。
+
+# 5结论与展望
+
+本研究以人民日报无形类文化词频作为政府无形类文化关注度考察其对和客观空气污染状况的影响，结果表明政府对无形类文化关注度越高， $\mathrm { P M } _ { 2 . 5 }$ 和 $\mathrm { P M } _ { 1 0 }$ 的年增长率越低，即绿色发展程度越高。未来研究可以考察文化的其他维度与各项客观环境指标之间的预测关系，促进以潜移默化的形式促进环境保护。
+
+# 参考文献
+
+Allard, A., Takman, J., Uddin, G. S., & Ahmed,A. (2017). The N-shaped environmental Kuznets curve: an empirical evaluation using a panel quantile regression approach. Environmental Science & Pollution Research, 25(7), 1-14.   
+Cordano，M.，Welcomer，S.， Scherer，R.，Pradenas，L.，& Parada，V. (2010). Understanding Cultural Differences in the Antecedents of Pro-Environmental Behavior: A Comparative Analysis of Business Students in the United States and Chile. The Journal of EnvironmentalEducation, 41(4), 224-238. doi:10.1080/00958960903439997   
+Dinda, S. (2004). Environmental Kuznets Curve Hypothesis: A Survey. Ecological Economics, 49(4), 431-455. doi:10.1016/j.ecolecon.2004.02.011   
+Gao, J., Woodward, A., Vardoulakis, S., Kovats, S., Wilkinson, P., Li, L.,.. . Cao, L. (2017). Haze, public health and mitigation measures in China: A review of the current evidence for further policy response. Science of the Total Environment, 578, 148-157.   
+Jiang, Y., & Gao, J. (2018). Word Frequency Analysis of American Contemporary Art Reviews from 1960 to 2015. Open Journal of Modern Linguistics, 8(04), 87.   
+Lu, F., Xu, D., Cheng, Y., Dong, S., Guo, C., Jiang, X., & Zheng, X. Systematic review and meta-analysis of the adverse health effects of ambient PM2.5 and PM10 pollution in the Chinese population. Environmental Research, 136,196-204.   
+Lu, F., Xu, D., Cheng, Y., Dong, S., Guo, C., Jiang, X., & Zheng, X. (2015). Systematic review and meta-analysis of the adverse health effects of ambient PM2.5 and PM10 pollution in the Chinese population. Environmental Research, 136,196-204.   
+Onokala, U., Banwo, A. O.,& Okeowo, F. O. (2018). Predictors of Pro-Environmental Behavior: A Comparison of University Students in the United States and China. Journal of Management and Sustainability, 8(1). doi:10.5539/jms.v8n1p127   
+Song,C., He,J., Wu,L., Jin, T., Chen, X., Li, R.,... Mao, H. (2017). Health burden attributable to ambient PM2. 5 in China. Environmental pollution, 223, 575-586.   
+Stern, P. C., Dietz, T., Abel, T., Guagnano, G. A., & Kalof, L. (1999). A Value-Belief
+
+Norm Theory of Support for Social Movements: The Case of Environmentalism. Hum. Ecol. Rev., 6(2), 81-97. Retrieved from https://www.jstor.org/stable/24707060
+
+Wang, Y.，Wang, H.， Chang， S.， & Avram,A. (2018). Prediction of daily PM2.5 concentration in China using partial differential equations. PLoS One, 13(6), e0197666. doi:10.1371/journal.pone.0197666
+
+劳可夫,& 王露露.(2015).中国传统文化价值观对环保行为的影响—一基于消费
+
+者绿色产品购买行为．上海财经大学学报：哲学社会科学版(17),75廖建桥,& 毛江华.(2014)．施事与叙事:由《人民日报》头版头条看中国政府权力
+
+行使演化趋势．管理学报,11(8),1109.唐志龙.(2012)．文化的三重意蕴及创新视阀．马克思主义研究(9),100-107.田学军,& 熊毅.(2017)．文化分类、文化发展和文化推广的互动研究．华北水利
+
+水电大学学报（社会科学版）(5),79-84.张玮,&何贵兵.(2011).中国传统价值观和未来时间取向对环境保护行为的影响.
+
+Paper presentedat the 增强心理学服务社会的意识和功能—一中国心理学会
+
+成立90周年纪念大会暨第十四届全国心理学学术会议论文摘要集.张昭利，任荣明,& 朱晓明.(2012).我国环境库兹涅兹曲线的再检验．当代经济
+
+科学(5),23-30.  
+中华人民共和国生态环境部.(2018)．中国生态环境状况公报.  
+钟蕊.(2019)．《人民日报》元旦社论话语:改革开放四十年社会变迁之广义修辞考察．哈尔滨师范大学社会科学学报,10(01),94-98.
+
+# Predictive effect of governmental attention on intangible culture on air quality
+
+GONG Yuanchao1, ²; HAN Yifei1, ²; ZHU Tingshao1, 2\* ( Department of Psychology, University of China Academy of Sciences, Beijing 100049, China) (2 Institute of Psychology, Chinese Academy of Sciences,Beijing 10o101, China)
+
+# Abstract
+
+With China's economic and social development, environmental problems strike out, especially the highly worrisome air quality problem. The spiritual essence of traditional Chinese culture, namely the intangible culture (such as values, ideologies and social norms), encourages harmony between the human beings and nature and is beneficial to the increase of pro-environmental awareness as well as actual behavior. The present study aimed at exploring whether governmental attention on intangible culture could affect the improvement of the environmental problems. We applied word frequency analysis of the key words from 1978 to 20o9 annually concerning intangible culture in People's Daily, the most authoritative official newspaper of the Chinese government, as a representative of governmental attention on intangible culture; over the same time period,annual growth rates of inhalable particulate matter PM2.5 and PM1O were included as indicators of air quality. The multiple linear regression was used for modeling. Our results show that after controlling for governmental attention on technology and annual total amount of GDP, governmental attention on intangible culture could negatively predict annual growth rates of PM2.5 and PM10 (i.e., the improvement of green development).
+
+Key words intangible culture; governmental attention; PM2.5 and PM1o; green development

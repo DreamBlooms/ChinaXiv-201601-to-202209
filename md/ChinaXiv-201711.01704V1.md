@@ -1,0 +1,181 @@
+动物源食品中重组牛生长激素的作用及其检测方法的研究进展丽丽1,2 李明1,3 郑楠1,3 任 辉²文 芳1,3\*（1.中国农业科学院北京畜牧兽医研究所，动物营养学国家重点实验室，北京100193；2.吉林大学食品科学与工程学院，长春 130022；3.中国农业科学院北京
+
+摘要：牛生长激素(bST)是由牛脑垂体分泌的一种蛋白质类激素，有调节代谢和促进生长的功能，并可增加产奶量。随着基因重组技术的发展，人们制造出大量重组牛生长激素（rbST)，将其用于奶牛饲养，以期提高奶牛产奶量。1994 年，美国食品药品监督管理局（FDA）正式批准重组牛生长激素的使用。然而，随后的研究表明重组牛生长激素的使用对动物健康和人类健康都有潜在的危害。因此，欧盟、日本、加拿大、中国等国家将重组牛生长激素列为违禁品，严禁使用。本文综述了动物源食品中重组牛生长激素的功能和检测方法的研究进展，旨在为研究开发重组牛生长激素的快速、灵敏的检测方法提供借鉴和参考。
+
+关键词：重组牛生长激素；作用；食品安全；检测方法中图分类号：S859.84 文献标识码：A 文章编号：
+
+牛生长激素（bovine somatotropin,bST）是由牛脑垂体前叶分泌的一种蛋白质类激素，有调节动物生长和促进奶牛催乳的功能[1。早在 20 世纪 30年代，俄国科学家就发现将脑垂体的粗提物注射到奶牛体内能够增加奶牛产奶量。随后的研究发现，增加奶牛产奶量的是脑垂体粗提物中的牛生长激素。20 世纪80 年代，随着基因重组技术的重大突破，人们研制出基因合成的重组牛生长激素(recombinant bovine somatotropin,rbST)，将其用于奶牛饲养中。重组牛生长激素的使用使奶牛的产奶量增加了 $1 0 \% { \sim } 1 5 \%$ 。南非是第1个允许使用重组牛生长激素的国家，1994 年美国食品和药品管理局（FDA）正式批准了重组牛生长激素的使用[2]。随后的研究发现重组牛生长激素的使用对动物健康存在潜在危害[3]。此外，重组牛生长激素的使用会使牛奶中可疑致癌物质——类胰岛素生长因子1号(IGF-1)含量显著增加，这表明重组牛生长激素的使用对人类健康也有潜在威胁。因此，欧盟、日本等国家都禁止了重组牛生长激素的使用，我国也明令禁止重组牛生长激素的使用[4]。
+
+1牛生长激素的理化性质及其功能
+
+收稿日期：2016-04-20  
+基金项目：中国农业科学院科技创新工程（ASTIP-IAS12)；现代农业产业技术体系专项资金（nycytx-04-01)；生鲜乳质量安全风险评估专项（GJFP2015009）  
+作者简介：丽丽（1992—)，女，内蒙古兴安盟人，硕士研究生，研究方向为牛奶质量与安全。E-mail:1158050764@qq.com  
+\*通信作者：文芳，副研究员，E-mail:jiaqiwang@vip.163.com
+
+1.1牛生长激素结构与功能
+
+牛生长激素是由牛脑垂体分泌的一种蛋白质类激素，一般由190或 191个氨基酸组成[5]，内源性牛生长激素主要有4种，它们与重组牛生长激素的主要区别在于1/2和126/127位点的氨基酸，具体见表1。牛生长激素影响牛体内营养物质的组织代谢，脑垂体中生长激素的分泌受生长激素释放因子的刺激，受生长抑素的抑制。牛生长激素的作用主要有提高牛奶合成所需营养素的吸收量、提高分泌细胞活性和提高乳汁合成量。
+
+表1内源性牛生长激素与重组牛生长激素的差异  
+Table 1Differences between endogenous bST and rbST   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="2">氨基酸长度 分子质量</td><td rowspan="2">1位点 Site 1</td><td rowspan="2">1/2位点 Site 1/2</td><td rowspan="2">126/127 位点 Site 126/127</td></tr><tr><td>Amino length</td><td>acid Molecular mass /u</td></tr><tr><td>牛生长激素突</td><td>191</td><td>21 788</td><td>丙氨酸</td><td>苯丙氨酸</td><td>氨酸</td></tr><tr><td>变体1bST1 牛生长激素突</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>变体2bST2</td><td>191</td><td>21 802</td><td>丙氨酸</td><td>苯丙氨酸</td><td>亮氨酸</td></tr><tr><td>牛生长激素突</td><td>190</td><td>21717</td><td></td><td>苯丙氨酸</td><td>氨酸</td></tr><tr><td>变体3bST3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>牛生长激素突</td><td>190</td><td>21 731</td><td></td><td>苯丙氨酸</td><td>亮氨酸</td></tr><tr><td>变体4bST4</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>重组牛生长激</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>素rbST</td><td>191</td><td>21 851</td><td>蛋氨酸</td><td>苯丙氨酸</td><td>亮氨酸</td></tr></table></body></html>
+
+1.2重组牛生长激素的合成及其使用
+
+20 世纪70年代，Genentech 生物科技公司发现牛生长激素基因并申请了专利，随后利用基因重组技术合成了重组牛生长激素，其结构跟内源性牛生长激素非常接近。重组牛生长激素跟内源性牛生长激素的区别在于牛内源性生长激素的N端位置的丙氨酸（A）被蛋氨酸（M）取代，其分子式为 $\mathrm { C _ { 9 7 8 } H _ { 1 5 3 7 } N _ { 2 6 5 } O _ { 2 8 6 } S _ { 9 } }$ ，如图1所示。
+
+![](images/84c554cae9ef7759a56ca133d302d5659e906acb193745947bc9b4e1f664c553.jpg)  
+图1内源性牛生长激素与重组牛生长激素区别  
+Fig.1Difference between endogenous bST and rbST[6]
+
+重组牛生长激素的使用能使处于泌乳期的哺乳动物的产奶量增加。在产犊后的第8周，奶牛每日产奶量达到最高，余下的泌乳期每日产奶量逐渐下降，而重组牛生长激素的使用会使奶牛产奶量在本应逐渐下降的时期仍保持在较高水平。产奶量的增加取决于重组牛生长激素的使用量、动物繁殖情况、营养情况、实际挤奶操作、畜群健康管理和环境条件等因素。
+
+目前重组牛生长激素的应用并没有局限于奶牛中，重组牛生长激素也被用于山羊、绵羊和鱼等其他物种当中。对泌乳期的山羊使用重组牛生长激素可以增加山羊产奶量，虽然山羊对外用激素的泌乳反应个体差异较大，但是重组牛生长激素的使用会使山羊产奶量明显增加（增量高达 $2 7 \%$ ）[7]。有研究表明重组牛生长激素的使用会使大部分鱼类的生长速度增加 $4 0 \% \sim 6 0 \% ^ { [ 8 - 1 0 ] }$ 。
+
+1.3关于重组牛生长激素的争议
+
+# 1.3.1 动物健康
+
+尽管美国食品药品监督管理局在1994 年批准了重组牛生长激素的使用，但重组牛生长激素的使用还是
+
+颇具争议。有研究表明重组牛生长激素对动物健康有潜在危害，并指出重组牛生长激素的使用会使奶牛患乳房炎的概率增加近 $2 5 \%$ ，生育率降低约 $4 0 \%$ ，患跛足的概率增加 $5 5 \%$ ；该研究同时表明尽管重组牛生长激素的使用会使奶牛干物质进食量增加，同时却会使奶牛的健康状况下降[11]。
+
+# 1.3.2 人类健康
+
+牛奶中的重组牛生长激素的残留对人类健康并无直接影响，因为重组牛生长激素的蛋白质结构会在人类消化系统中被分解。重组牛生长激素对人类主要潜在危害是因为它会使牛奶中的可疑致癌物质——IGF-1 的含量显著增加。IGF-1的热稳定性较好，乳制品加工工艺中常用的巴氏杀菌并不能使其变性。
+
+# 1.3.3 风险评估与监管
+
+食品法典委员会第7届会议报告中讨论了重组牛生长激素在食品中残留问题，对于其最大残留限量（MRL）和每日允许摄入量（ADI）的说明是“未指定”。这意味着当时未能确定最大残留限量。随后，联合国粮农组织/世界卫生组织专家委员会对重组牛生长激素进行了风险评估，其商定结果也默认了“未指定”最大残限量和每日允许摄入量。2013年11月，在日内瓦举行的第78 届联合国粮农组织和世界卫生组织食品添加剂联合专家委员会（JECFA）会议上对重组牛生长激素相关数据制订了新的要求，即要求搜集所有必要的数据来更新毒理学评估数据，基于食品中新出现的所有数据更新暴露评估数据，评估对人类健康的潜在危害，考虑是否有必要修改关于重组牛生长激素的每日允许摄入量值和最大残留限量值的规定。会议中规定的新数据和涉及人类健康的其他信息包括：因治疗奶牛乳腺炎可能会增加的抗生素的使用量；因对奶牛使用重组牛生长激素导致的牛奶中IGF-1含量的增加；重组牛生长激素对奶牛体内某些病毒表达的潜在影响等。
+
+重组牛生长激素的监管制度主要是由各个国家独立制定。目前为止允许和禁止使用重组牛生长激素的国家见表2。
+
+表2允许使用重组牛生长激素和禁止使用重组牛生长激素的国家  
+Table 2Countries allow the use of rbST and countries prohibit the use of rbST[12-13]   
+
+<html><body><table><tr><td>是否允许使用重组牛生长激素Whether</td><td>国家Country</td></tr><tr><td rowspan="3">allowed to use rbST 是Yes</td><td>巴西、智利、哥伦比亚、哥斯达黎加、厄瓜多尔、埃及、萨尔瓦多共和国、危地马</td></tr><tr><td>拉、洪都拉斯、肯尼亚、黎巴嫩、墨西哥、巴基斯坦、巴拿马、秘鲁、南非、南韩、</td></tr><tr><td>委内瑞拉、津巴布韦共和国</td></tr><tr><td>否No</td><td>欧盟(法国、德国、意大利、荷兰、比利时、卢森堡)、加拿大、澳大利亚、新西兰、 日本、以色列、中国</td></tr></table></body></html>
+
+迫于舆论压力，一些制造商和零售商只销售未使用过重组牛生长激素的奶牛生产的牛奶及其制品。2000年，雀巢公司声明雀巢公司不支持使用重组牛生长激素，主要是因为重组牛生长激素的使用在一些国家被认为是不良好的农业规范，且很多消费者也不认可重组牛生长激素的使用。除此之外，目前很多农场管理条件往往不能达到使用重组牛生长激素所要求的条件。
+
+# 2重组牛生长激素检测方法
+
+目前已报道的重组牛生长激素的检测方法可以分为两大类：直接检测法和间接检测方法。直接检测方法是直接检测样品中重组牛生长激素残留物，而间接检测方法是通过检测样品中特定生物标志物来测定是否使用过重组牛生长激素，这些生物标志物在样品中的浓度与重组牛生长激素的使用量直接相关。
+
+# 2.1重组牛生长激素间接检测法
+
+# 2.1.1 检测类IGF-1
+
+重组牛生长激素的使用会使IGF-1的含量显著增加，因此IGF-1可作为生物标志物。目前已有研究者开发出用免疫学方法和质谱法来检测不同样品中 IGF-1 含量的方法。IGF-1 能和类胰岛素生长因子结合蛋白（IGFBP）紧密结合形成 IGF-1/IGFBP。IGF-1/IGFBP 的形成可防止IGF-1在牛奶样品中的降解，IGF-1的精确测定需要先将化合物彻底降解，这是IGF-1检测中的关键点，这一步骤通过酸化来完成。Daxenberger 等[14]通过加入类胰岛素生长因子2号（IGF-2）来提高此步骤效率。最初，IGF-1的检测局限于放射免疫检测（RIA)法，近年来有学者提出采用生物传感器、酶联免疫吸附测定（ELISA）和电化学发光免疫测定（ECLIA）等技术[15-16]。有研究者利用流式细胞免疫测定（FCIA）法测定了血液中的 IGF-1 含量，该方法检测限为 216ng/mL，显著改善了重组牛生长激素检测的特异性和灵敏度[17]。IGF-1 也可以通过质谱检测，目前有 2 种检测方法，一种是直接检测完整的IGF-1，另一种是用胰蛋白酶酶解 IGF-1之后测定其特异性肽段[18]，质谱检测之前的前处理部分的关键点仍是IGF-1/IGFBP 的解离。
+
+# 2.1.2检测重组牛生长激素的抗体
+
+重组生长激素的另一种生物标志物类型是重组牛生长激素的抗体，重组牛生长激素抗体是牛体内因连续重组牛生长激素治疗应激产生的。这种方法首次被 Scippo 等[9]开发，他们采用 ELISA 法测定牛血液中的重组牛生长激素抗体浓度，在注射重组牛生长激素后的第 28 周便能在公牛体内检测到重组牛生长激素抗体，奶牛体内的重组牛生长激素抗体则是在注射后的第66 周便可被检测到。抗体浓度在注射重组牛生长激素后的第3或第4个月开始逐渐上升，在后来的6个月中逐渐趋于稳定。在这段时间内，可通过上述方法检测牛血液中生物标记物或抗体浓度来测定是否使用过重组牛生长激素。由于牛对重组牛生长激素免疫应答的个体差异较大，具有较低免疫应答的牛不产生抗体，导致部分检测结果呈现假阴性[20-21]。
+
+# 2.1.3．检测其他生物标志物
+
+除了IGF-1和重组牛生长激素的抗体之外，还有其他生物标志物可以间接检测是否使用过重组牛生长激素。Scippo 等[22研究表明，牛血液中类胰岛素结合蛋白-2（IGFBP-2）的含量跟生长激素的使用有一定关系。他们开发了一种利用IGFBP-2特异性抗体的免疫学方法来检测 IGFBP-2。该方法对检测注射过重组牛生长激素的牛效果显著，并在奶牛接受重组牛生长激素治疗之后60 周便能检测出是否使用过重组牛生长激素。有研究采用流式细胞仪（FCIA）同时测定了血清中的4种生物标志物：IGF-1、重组牛生长激素抗体、骨钙素和 IGFBP-2。IGF-1和 IGFBP-2对重组牛生长激素治疗的响应较迅速，而骨钙素和重组牛生长激素抗体的响应比 IGF-1 和 IGFBP-2 的响应更持久。基于对 60多个对照样品的分析，得出以 IGF-1 和骨钙素作为生物标志物的方法的检测限分别为 216 和 $1 6 0 \mathrm { n g / m L ^ { \left[ 1 9 , 2 2 \right] } }$ 。
+
+# 2.2重组牛生长激素直接检测法
+
+重组牛生长激素是一种蛋白质类激素，它的检测一直较有难度。一是因为重组牛生长激素跟内源性牛生长激素结构极其相似，且血液和牛奶中重组牛生长激素的浓度很低。二是动物血液中重组牛生长激素浓度波动较大。目前直接检测重组牛生长激素的方法主要有基于免疫学的检测方法和基于质谱的检测方法。
+
+# 2.2.1 免疫学法
+
+基于免疫学的检测方法无法区分重组牛生长激素和内源性牛生长激素，只能检测到这2种形式的生长激素的总和。由于肾脏排泄和生长激素受介导的消除作用，血清中生长激素的半衰期非常短 $( 1 5 { \sim } 2 0 ~ \mathrm { m i n }$ ）[23]。1971年，Trenkle[24]首次评估了生长激素的动力学参数，研究表明重组牛生长激素的半衰期约为 $2 2 \mathrm { m i n }$ 。该作者还研究了牛犊和绵羊体内生长激素代谢机制，试验结果表明生长激素在牛犊和绵羊中的半衰期分别为13和30 min，此研究以免疫学方法为基础，检测到血浆中生长激素的浓度在施药后的7d内显著上升，在14 d之后逐渐下降[25]。该作者另有研究表明，未使用重组牛生长激素的奶牛血清中生长激素浓度在 $0 { \sim } 1 0 \ \mathrm { n g / m L }$ ，每日接受重组牛生长激素注射的奶牛血清中生长激素浓度约为 $4 0 ~ \mathrm { \ n g / m L ^ { [ 2 6 ] } }$ 。尽管免疫学法在定量测定中精确有效，且检测限较低，可达pg/mL级别，但该方法无法区分重组牛生长激素和内源性牛生长激素，检测到的是2种生长激素的总和[27]。
+
+# 2.2.2 质谱法
+
+有研究采用电喷雾（ESI）和基质辅助激光解析（MALDI）的质谱法成功检测到重组牛生长激素[28-30],其中部分研究检测的是完整的重组牛生长激素，还有一部分是检测的重组牛生长激素的特异性肽段。直接检测完整重组牛生长激素的方法能够鉴别内源性牛生长激素和重组牛生长激素，但其灵敏度低，对分子质量有限制，因此，研究者们为了将分析限定在特异性肽段，对重组牛生长激素的酶解效果进行了研究。Rochut等[31]研究并对比了胰蛋白酶、糜蛋白酶和胃蛋白酶的酶解效果，结果表明胰蛋白酶的酶解效果最佳。上述研究表明，以胰蛋白酶酶解为基础的方法显著提高了检测方法的灵敏度，这种基于特异性肽段的检测方法能够区分内源性牛生长激素和重组牛生长激素。
+
+从直接检测法和间接检测法的应用中可以看出，间接检测法不能直接地反映血液和牛奶等样品中的重组牛生长激素的浓度，因为动物个体差异，可能出现假阴性和假阳性的结果，其检测结果需要进一步地验证。直接检测法主要有免疫学法和质谱法。免疫学法能直接反映出样品中生长激素的浓度，但是检测到的是内源性生长激素和重组生长激素的总和。基于质谱检测的方法有2种，一种是直接检测完整的重组生长激素，这种方法灵敏度较低，另一种是通过测定特异性肽段测定重组牛生长激素的浓度，该方法灵敏度高，但是因样品中重组生长激素浓度较低，对样品前处理要求较高，前处理步骤繁琐。因此，重组牛生长激素检测方法的开发需要进一步研究前处理的简化及检测方法灵敏度的提高。
+
+# 3不同样品中生长激素的检测
+
+# 3.1血液
+
+在血液中，重组生长激素浓度极低( $\bf \Pi _ { \mathrm { | \Psi | \mathrm { g / L } } }$ 级别)，故生长激素的提取和检测分析较困难。Bailly-Chouriberry等[32]采用硫酸铵沉淀和固相萃取等方法对马血样进行前处理，利用胰蛋白酶酶解，采用质谱检测重组马生长激素（reST）的N端特异性肽段。该试验表明，注射完重组马生长激素后的 $8 \mathrm { m i n }$ 就可在血浆中检测到重组马生长激素，4h之后观察到重组马生长激素浓度达到最大值。该研究开辟了在动物基质中检测生长激素的先河。随后有研究报道了关于接受催乳素治疗的奶牛血液中重组牛生长激素的特异性检测，还描述了生物体中的消除动力学，但该检测方法灵敏度未达到预期效果。研究表明，在接受重组牛生长激素注射4h30min之后便可检测到重组牛生长激素，在24h之后可检测到重组牛生长激素最大浓度，约为 $1 0 ~ \mathrm { { n g / m L } }$ ；随后血液中重组牛生长激素含量逐渐下降，但是在注射后4d之内仍可以进行定量检测[]。随后在不同动物中的研究表明，虽然动物体内重组牛生长激素浓度的个体差异较大，但是经过2个周期的催乳素注射之后其浓度均高于 $1 0 0 ~ \mathrm { { n g / m L } }$ 可检测到重组牛生长激素的时间长达2周[33]。同样的方法成功应用于注射过重组牛生长激素的其他动物血液中重组牛生长激素浓度的检测。在1只注射了1剂量 $\mathrm { 2 5 0 m g }$ 催乳素的羊的血浆中检测发现其重组牛生长激素的最大浓度约为 $4 0 \mathrm { n g / m L ^ { [ 3 4 ] } }$ 。Rochereau-Roulet等[35]用液相色谱串联质谱（LC-MS/MS法）检测了彩虹鳟鱼血清中的重组牛生长激素浓度，该方法的检测限为 $0 . 5 ~ \mu \mathrm { g } / \mathrm { m L }$ ，使用了重组牛生长激素的鱼类的血清中重组牛生长激素浓度为 $5 { \sim } 1 0 ~ \mu \mathrm { g / m L }$ ，Rochereau-Roulet等[35]建立的方法的检出限远低于鱼类血清中重组牛生长激素浓度，故可证明该方法是检测鱼类血清中重组牛生长激素浓度有效的方法。
+
+# 3.2牛奶
+
+牛奶是目前为止检测重组牛生长激素最具挑战性的样品，主要是因为以下2个原因：一是牛奶中重组牛生长激素浓度很低（ $\scriptstyle < { \mathrm { n g / m L } }$ ；二是牛奶基质中组分复杂，牛奶基质中有很多结构和性质跟重组牛生长激素极其相近的蛋白质，因此开发重组牛生长激素检测方法时应着重注意样品的净化和提取，必要的时候可以进行浓缩处理。
+
+目前为止，检测血清和血浆中重组牛生长激素的方法一般是通过固相萃取、甲醇沉淀和酶解等前处理过程之后用高效液相色-谱电喷雾串联质谱 (LC-ESI-MS/MS)法检测其特异性肽段，该方法检测限可达 ${ 7 \mathrm { n g / m L } }$ 但是这个水平还不足以检测牛奶中重组牛生长激素的浓度，因此需要更高精确度和灵敏度的检测方法来解决这个问题[33]。研究表明应用多反映监测模式能提高检测方法的灵敏度[34]。然而，因为牛奶中重组牛生长激素浓度极低，仍需要进一步研究开发高灵敏度的检测方法和提取率高的前处理方法。
+
+研究表明重组牛生长激素是热敏感物质[3]，巴氏杀菌、喷雾干燥等跟热处理相关的加工工艺会破坏牛奶中的重组牛生长激素，导致重组牛生长激素回收率降低。食品中残留的重组牛生长激素被破坏，从食品安全角度考虑对消费者有利，然而同时也意味着目前多数方法并不适用于食品中残留的重组牛生长激素的检测，热处理导致的重组牛生长激素浓度的降低使检测难度更大。
+
+# 4小结及展望
+
+本文系统介绍了重组牛生长激素检测方法的研究进展。随着有效的提取技术和检测技术的迅速发展，重组牛生长激素检测方法在近几年有较大突破。但是因血液和牛奶样品中重组牛生长激素浓度极低，为了精确测定血液和牛奶样品中重组牛生长激素的浓度，仍需将研究重点放在提高检测方法的灵敏度上。对比不同的检测方法可知，由于动物个体差异，间接检测法会出现假阴性等问题，其检测结果需要进一步验证；直接检测法中的免疫学方法虽然精确，但是不能区分内源性牛生长激素和重组牛生长激素。目前，基于质谱通过检测特异性肽段测定重组牛生长激素浓度的方法比较精确可靠，它能精确分辨内源性牛生长激素和重组牛生长激素的，其方法有以下2种：一种是从基质中将重组牛生长激素提取出来，胰蛋白酶酶解，检测特异性N端肽段；另一种检测方法是先用胰蛋白酶酶解样品，随后采用液相色谱串联质谱法进行提取和检测。
+
+关于重组牛生长激素的检测，目前存在的主要问题有2个：一是检测方法的灵敏度和特异性需提高；二是重组牛生长激素检测标准的缺乏。JECFA 在其第 78 次会议中决定重新评估重组牛生长激素，目的是更新重组牛生长激素的风险评估数据，从中我们可以获得数据的全面信息，这将有利于重组牛生长激素检测方法研究的进一步发展。
+
+参考文献: [1]LUDWIG S K J,SMITS N G E,BREMER MG E G,et al.Monitoring milk for antibodies against recombinant bovinesomatoropinusingamicrosphere immunoassay-based biomarker approach[J].Fooc Control,2012,26(1):68-72.
+
+2] SMITS N G E,BLOKLAND M H,WUBS M A,et al.Monolith immuno-affinity enrichment liquid chromatography tandem mass spectrometry for quantitative protein analysis of recombinant bovine somatotropin in serum[J].Analytical and Bioanalytical chemistry,2015,407(20):6041-6050.
+
+[3]刘海山,汤杭燕,吕春华,等.超高效液相色谱-串联质谱法测定牛奶中重组牛生长激素 N-末端肽链[J].理化检验-化学分册,2014,50(11):1382-1385.
+
+4]PINELG,ROULET-ROCHEREAU S,CHEREAUY,etal.牛体内重组牛生长激素(rbST)的快速高灵敏度检测[J].食品安全导刊,2010(8):34-35.
+
+[5]PANTALEON C S,HUET A C,KAVANAGH O.Production of polyclonal antibodies directed to recombinant methionyl bovine somatotropin[J].Analytica Chimica Acta,2013,761:186-193.
+
+[6]LE BRETON M H,ROCHEREAU-ROULET S,PINEL G,et al.Elimination kinetic of recombinant somatotropin in bovine[J].Analytica Chimica Acta,2009,637(1/2):121-127.
+
+[7]SALLAM S M A,NASSER ME A,YOUSEF M I.Efect of recombinant bovine somatotropin on sheep milk production,composition and some hemato-biochemical components[J].Small Ruminant Research,2005,56(1/2/3):165-171.
+
+[8]GARBER M J,DE YONGE K G,BYATT J C.Dose-response effcts of recombinant bovine somatotropin (Posilac）on growth performance and body composition of two-year-old rainbow trout (Oncorhynchus mykiss)[J].Journal of Animal Science,1995,73(11):3216-3222.
+
+[9]GILL J A,SUMPTER JP,DONALDSON E M,et al.Recombinant chicken and bovine growth hormones accelerate growth in aquacultured juvenile pacific salmon Oncorhynchus kisutch[J].Nature Biotechnology,1985,3(7):643-646.
+
+[10]SCHULTE PM,DOWN N E,DONALDSON E M， et al.Experimental administration of recombinant bovine growth hormone to juvenile rainbow trout (Salmo gairdneri) by injection or by immersion[J].Aquaculture,1989,76(1/2):145-156.
+
+[11]DOHOO IR,LESLIE K,DESCOTEAUX L,et al.A meta-analysis review of the effects of recombinant bovine somatotropin.1.methodology and effects on production[J].Canadian Journal of Veterinary Research:Revue Ranadienne de RechercheVétérinaire,2003,67(4):241-251.
+
+[12]DERVILLY-PINEL G,PREVOST S,LE BIZEC M B,et al.Analytical strategies to detect use of recombinant bovine somatotropin in food-producing animals[J].Trends in Analytical Chemistry,2O14,53:1-10.
+
+[13]CASTIGLIEGO L,LI X N,ARMANI A,et al.Hormone variations in serum and milk of buffaloes(Bubalus bubalis) as potential indicators of treatment with recombinant bovine somatotropin[J].The Journal of Dairy Research,2011,78(4):412-420.
+
+[14]DAXENBERGER A,SAUERWEIN H,BREIER B.Increased milk levels of insulin-like growth factor 1(IGF-1) for the identification of bovine somatotropin (bST) treated cows[J].Analyst,1998,123(12):2429-2435.
+
+[15]GUIDI A,LARICCHIA-ROBBIO L,GIANFALDONI D,et al.Comparison of a conventional immunoassay (ELISA) with a surface plasmon resonance-based biosensor for IGF-1 detection in cows‘milk[J].Biosensors and Bioelectronics,2001,16(9/10/11/12):971-977.
+
+[16]MCGRATH M F,BOGOSIAN G,FABELLAR A C,et al.Measurement of bovine somatotropin (bST） and insulin-like growth factor-1 (IGF-1) in bovine milk using an electrochemiluminescent assaylJ].Journal of Agricultural and Food Chemistry,2008,56(16):7044-7048.
+
+[17]LUDWIG S K,SMITS N G,VANDERVEER G,et al.Multiple protein biomarker assessment for recombinant bovine somatotropin (rbST) abuse in catte[J].PLoS One,2012,7(12):1-13.
+
+[18]BOBIN S,POPOT M A,BONNAIRE Y,et al.Approach to the determination of insulin-like-growth-factor- I (IGF-I）concentration in plasma by high-performance liquid chromatography-ion trap mass spectrometry:use of a deconvolution algorithm for the quantification of multiprotonated molecules in electrospray ionization[J].Analyst,2001,126(11):1996-2001.
+
+[19]SCIPPO M L,DEGAND G,DUYCKAERTSA,et al.Identification of bovine somatotropine-treated cows[J].Annales de Medecine Veterinaire,1997,141(5):381-386.
+
+[20]ROCHEREAU-ROULET S,GAUDIN I,CHEREAU S,et al.Development and validation of an enzyme-linked immunosorbent assay for the detection of circulating antibodies raised against growth hormone as a consequence of rbST treatment in cows[J].Analytica Chimica Acta,2001,700:189-193.
+
+21]PINEL G,BUON R,AVIAT Fet al.Recombinant bovine somatotropin misuse in cattle:evaluation of western bloting and 2D electrophoresismethods on biological samples for the demonstration of its administration[J].Analytica Chimica Acta,2005,529 (1/2):41-46.
+
+[22]SCIPPO ML,DEGAND G,DUYCKAERTS A,et al.Antipeptide antibody against bovine IGF-BP-2:application to the detection of bovine somatotropin-treated cows[J].Food and Agricultural Immunology,1996,8(1):31-40.
+
+[J] BAUMAN D E.Bovine somatotropin:review of an emerging animal technology[J].Journal of Dairy Science,1992,75(12):3432-3451.
+
+[24]TRENKLE A.Growth hormone secretion rates incatte[J].Journal of Animal Science,1971,32(1):115-118.   
+[25]TRENKLE A.Estimates of the kinetic parameters of growth hormone metabolism in fed and fasted calves and sheep[J].Journal of Animal Science,1976,43(5):1035-1043.   
+[26]TRENKLE A.The anabolic effect of estrogens on nitrogen metabolism of growing and finishing catle and sheep[J].Environmental Quality And Safety,1976(5):79-88.   
+[27]GUIDI A,IANNONE GCASTIGLIEGO L,et al.Immunodiscrimination between native and recombinant somatotropin:a possible pathway?[J].Veterinary Research Communications,2004,28(Suppl.1):193-196.   
+[28]BACZYNSKYJ L,BRONSON G E.Electrospray mass spectrometry of recombinant growth hormones[J].Rapid Communications in Mass Spectrometry,1990,4(12):533-535.   
+[29]BORROMEO V,BERRINI A,SECCHI C,et al.Matrix-asisted laser desorption mass spectrometry for the detection of recombinant bovine growth hormone in sustained-release form[J].Jourmal of Chromatography B:Biomedical Sciences and Applications,1995,669(2):366-371.   
+[30]PINEL G,ANDRE F,BIZEC B L.Discrimination of recombinant and pituitary-derived bovine and porcine growthhormonesbypeptidemassmapping[J].JournalofAgricultureandFood Chemistry,2004,52(3):407-414.   
+[31]ROCHUT N,BIZEC B L,MONTEAU F,et al.ESI for the measurement of bovine and procine somatotropins [J].Analusis,2000,28(4):280-284.   
+[32]BAILLY-CHOURIBERRY L,PINEL G,GARCIA P,et al.Identification of recombinant equine growth hormone inhorseplasmabyLC-MS/MS:aconfirmatoryanalysisindopingcontrol[J].Analytical Chemistry,2008,80(21):8340-8347.   
+[33]LE BRETON M H,ROCHEREAU-ROULET S,CHEREAU S,et al.Identification of coWs treated with recombinant bovine somatotropin[J].Journal of Agricultural and Food Chemistry,2010,58(2):729-733.   
+[34]LE BRETON M H,ROCHEREAU-ROULET S,PINEL G.Direct determination of recombinant bovine somatotropin in plasma from a treated goat by liquid chromatography/high-resolution mass spectrometry[J]. Rapid Communications in Mass Spectromety,2008,22(20):3130-3136.   
+[35]ROCHEREAU-ROULET S,GICQUIAU A,MORVAN ML,et al.Recombinant bovine growth hormone   
+identification and the kinetic of elimination in rainbow trout treated by LC-MS/MS[J].Food Additives and
+
+Contaminants Part A:Chemistry Analysis Control Exposure & Risk Assessment,2013,30(6):1020-1026.
+
+[37] LE BRETON M H,BECK-HENZELIN A,RICHOZ-PAYOT J,et al.Detection of recombinant bovine somatotropin in milk and effect ofindustrial processeson itsstability[J].Analytica Chimica Acta,2010,672(1/2):45-49.
+
+Recombinant Bovine Somatotropin: Function and Research Progress of Detection Methods in Animal-Source Food LI Lil.2LIMing1,3ZHENG Nan1,3REN Hui²WEN Fang1.3\*   
+(1. State Key Laboratory ofAnimal Nutrition, Institute of Animal Science,Chinese Academy ofAgriculture Sciences, Beijing 100193,China; 2.CollgeofFood Scienceand Engineering, Jilin University,Changchun 130022, China; 3. Ministry of Agricultural Milk and Dairy Inspection and Supervision Center, Beijing 1O0193, China) Abtract: Bovine somatotropin (bST),also called growth hormone (GH) is a kind of protein hormone,which is produced from anterior pituitary gland of mammals. bSTcould regulate metobolic process, promote animal growth and increase milk yield.With the breakthrough of genetic recombination technology,an large amount of rbST was produced and applied to dairy farming to increase milk yield. USA approved the use of rbST in 1994 (FDA). While further studies have showed thatthe use of rbSTmay have potential threat to both human and animal health.Thus, many countries including European Union,Canada,Japan and China have prohibited the use of rbST,which clasified as contraband.The function and research progress of detection methods of rbST in animal-source food were summarized in this review,aiming to provide reference to the research development of rapid and sensative detection methods of rbST.
+
+Key words: recombinant bovine somatotropin; function; food safety; detection method

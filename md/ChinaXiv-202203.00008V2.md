@@ -1,0 +1,978 @@
+# A Statistical Fields Theory underlying the Thermodynamics of Ricci Flow and Gravity
+
+M.J.Luo Department of Physics，Jiangsu University， Zhenjiang 212013，People's Republic of China\*
+
+The paper proposes a statistical fields theory of quantum reference frame underlying the Perelman's analogies between his formalism of the Ricci flow and the thermodynamics. The theory is based on a $d = 4 - \epsilon$ quantum non-linear sigma model (NLSM),interpreted as a quantum reference frame system which a to-be-studied quantum system is relative to.The statistic physics and thermodynamics of the quantum frame fields is studied by the density matrix obtained by the Gaussian approximation quantization.The induced Ricci flow of the frame fields and the Ricci-DeTurck flow of the frame fields associated with the density matrix is deduced.In this framework,the diffeomorphism anomaly of the theory has a deep thermodynamic interpretation. The trace anomaly is related to a Shannon entropy in terms of the density matrix,which monotonically flows and achieves its maximal value at the flow limit,called the Gradient Shrinking Ricci Soliton (GSRS),corresponding to a thermal equilibrium state of spacetime.A relative Shannon entropy w.r.t. the maximal entropy gives a statistical interpretation to Perelman's partition function,which is also monotonic and gives an analogous H-theorem to the statistical frame fields system.A temporal static 3-space of a GSRS 4-spacetime is also a GSRS in lower 3-dimensional, we find that it is in a thermal equilibrium state,and Perelman's analogies between his formalism and the thermodynamics of the frame fields in equilibrium can be explicitly given in the framework.Extending the validity of the Equivalence Principle to the quantum level, the quantum reference frame fields theory at low energy gives an effective theory of gravity,a scale dependent Einstein-Hilbert action plus a cosmological constant is recovered.As a possible underlying microscopic theory of the gravitational system,the theory is also applied to understand the thermodynamics of the Schwarzschild black hole.
+
+# I.INTRODUCTION
+
+Recent works [1,2] show possble relations between Perelman's formalism of the Ricci fow and some fundamental problems in quantum spacetime and quantum gravity,for instance,the traceanomaly and thecosmological constant problem.Perelman's seminal works (the section-5of [3l)and further development byLi [4,5]also suggest deep relations between the Ricci fowand the thermodynamics system,not onlythe irreversible non-equilibrium but also the thermal equilibrium thermodynamics of certain underlying microscopic system.In [3] Perelman also declared a partition function and his functionals without specifying what the underlying microscopic ensemble realy are (in physics).So far it is not clear whether the beautiful thermodynamic analogies are physical or pure coincidences. On the other hand,inspired by the surprising analogies between the black hole and thermodynamics system,it is generally believed the existenceof temperature andentropy ofablack hole.Works along this line also showed,in many aspects,the gravitational system would be profoundly related to thermodynamics system (see recent review [6]and references therein),it is generallyconjectured thatthere would exist certainunderlying statisticaltheory for the underlying microscopic quantum degrees of freedom of gravity.It gradually becomes one of the touchstones for a quantum gravity.
+
+The motivations of the paper are,frstly,to propose anunderlying statistical fields theory for Perelman's seminal thermodynamicsanalogiesofhis formalismoftheRicifow,andsecondly,forunderstanding theposible microscopic originof the spacetime thermodynamics especially for the Schwarzschild black hole.We hope the paper could push forward the understanding to the possble interplay of the mysterious Perelman's formalism of Rici fow and the quantum spacetime and gravity. To our knowledge, several tentative works have been devoted to the goal, see e.g. [7-10],but franklyspeaking,thephysical picture underlying theRici fow isnot fully clear,if afundamental physical theory underlying the Ricci flow and a fundamental theory of quantum spacetime is lacking.
+
+Based on our previous works[1,2,11-16]on the quantum reference frame and its relation to Perelman's formalism ofthe Ricc fow, we propose a statistical fields theory of thequantum reference frame as aposible underlying theory of Perelman's seminal analogies between his geometric functionalsandthe thermodynamic functions.Insection I, we review the theory of quantum reference frame based on a $d = 4 - \epsilon$ quantum non-linear sigma model, at the Gaussian approximation quantization, we obtain a density matrix of the frame fields system as a physical foundation to the statistical interpretation of the theory.The induced Ricci fowof the frame feldsandthe Ricci-DeTurck fowof the frame feldsassociated with the density matrix is deduced.In section II,we discussthe diffeomorphismand related trace anomalyof thequantum frame fields theoryand its profound implications to the irreversible non-equilibrium thermodynamicsof the frame fields,for instance,the statistical entropyand an analogous H-theoremof the frame ffelds,and the efective gravity theory atcosmic scale (especially the emergenceof the cosmological constant).In sectionIV,thethermal equilibrium stateofthe framefeldsasafowlimit configuration (the Gradient Shrinking Ricci Soliton) is discussd,in which thedensity matrix recovers the thermalequilibrium canonical ensemble density.This sectiongives a physical foundation to Perelman'sseminal thermodynamic analogies.In section V,the framework gives a possible microscopic understanding of the thermodynamics of the Schwarzschild black hole.Finally,we summarize the paper and give conclusions in the section VI.
+
+# II.QUANTUMREFERENCEFRAME
+
+Reference frame is one of the most fundamental notions in physics.Any measurement in physics is performed or described,areference frame hasalways been explicitlyor implicitlyused.In classical physics,thereference frame is idealizationallyused via clasical rulers and clocks to label thespacetime coordinates,whichare clasical, external, and rigid without any fuctuation.Even in the textbook quantum mechanics or quantum fields theory,the spacetime coordinatesare stillclasical.But quantum principles tell us that all physical measuring instruments including the rulers and clocksare inescapably quantum fuctuating.Such idealizational and clasical treatment of reference frame works not bad in quantum mechanics and quantum felds theory.Toa large extent,this is due to the fact that the general coordinates transformationand gravitational efects are not seriously taken into account.Just as expected,when the quantum principles are seriously applied to the spacetime itself and gravitational phenomenon, severedificulties arise,e.g.information losses (non-unitary),diffomorphismanomalyand thecosmologicalconstant problems, etc.
+
+The quantum reference frame is a recuring theme in literature (not completely list,see.g.[17-24] and references therein）based on various diference physical motivations,from quantum foundation to quantum information or quantum communication,to quantum gravity.Forexample,inRef.17],the author suggests the general relation between superselectionrules and the lackofreference frame.InRef.[20],italso more practicallyshows thatextraassumptions about the superselection rules can not be avoided from the viewpoint ofquantum information and quantum communication theory,if local observers do not share common informationabout their relative phase or Cartesian frames etc. The extra assumptions of the superselectionrules may be also viewed as the weaknessof textbook quantum mechanics, which can be overcome by introducing appropriate quantum reference frame.And many models (e.g.[18,22,23l)of quantum reference frame and relational descriptions to the quantum system and the quantum reference frame as a whole are suggest into the quantum foundation.In recent works [24]and the references therein,the authors review three approaches (relational Dirac observables,the Page-Wooters formalism and quantum deparameterizations)of relational quantum dynamics and suggest their equivalence.Other author focus on the possble role of quantum reference frame to the decoherencein quantumgravity[21,25].Certainly,the works listof thedirection is far from complete,which is beyond the scope and ability of the author.
+
+Fundamentally，our work shares the similar philosophical viewpoint to therole of quantum reference frame in quantum mechanics,such as considering that an appropriate materialized (but idealized)reference frame obeying the samelaw of quantum mechanics mustbe taken into account,and in the fullquantum theorya relationaldescription based n an entanglement ofa quantum system and the quantum reference frame as a whole must playa fundamental role.However,there are some diferences from the past literature that we considered more important.First,we do not simply or merely treat the quantum clock as a quantum mechanical system ([23,24l)(which is more simple and has less degreeoffree todeal withas discussed in most quantum reference literature,in factour early work (11,12l) also started from the operationally treatment of quantum clock to get some general conclusions on the vaccum energy and the cosmological constant problem),but in the paper we putboth quantum space-rod and clock-time onan equal footing in the framework of quantum statisticalfelds,so that it makes the theory more appropriate to incorporate gravity,under the assumption of a quantum version of equivalence principle.To my understanding,quantum clock can be viewedasafrst step modeland far froma theory.Second,based on thequantum spacetime reference frame model (i.e. the $d = 4 - \epsilon$ non-linear sigma model),our paper does not treat the genuine relational quantities from the very beginning (as most literature tend to announce),but we prepare the quantum frame fields of reference in a laboratory frame (the $d = 4 - \epsilon$ base spacetime of the non-linear sigma model) as the starting reference,and then quantum events are relative to the prepared quantum frame felds.In this sense,the framework equivalently assumes the existence of an exteral,classicalandrigid (free fromquantum fluctuationand volume fixed)reference frame to be the laboratory frame,since the non-linear sigma model allows us to assgn quantum state of spacetime reference (thetarget spacetime)to the base spacetime to arbitrary precision.But it can be easily verified that the theory is independent tothelaboratory frame (metric,signetc.）in thenon-linearsigma model.The notionof the externaland classical laboratory frame is just for convenience,sinceaquantum statistical felds theory is historically(or maybe more appropriateto)defnedonan iertialframe(fat spacetime).Sotherelationalquantities describing therelation between the quantum systemand the quantum spacetime reference systemis in essentialin theframework.Third,also forthe reasonof the base spacetime independenceof thenon-linear sigma model,whose Hamiltonian is trivial,sothe theoryof spacetime reference frame is more properly quantized by using the path integral or functional method rather than the operator methods (e.g.the relational Dirac observables quantization or relational Schrodinger picture in Page-Wootters formalism).And fourth,there is afundamentallynon-unitary relationbetween twospacetime reference frames under a coordinate transformation due toan ireversible Ricci fow of spacetime reference frame,unlike most approaches in which the coordinate transformation between diference reference frames is assumed unitary.This is considered as a key ingredient of quantum spacetime reference frame that is intrinsically ensemble statistical and thermal.
+
+Generally speaking,our approach alongs the general philosophy of the quantum reference frame but is considered independent to the details of the past literature.The framework asociates to several elegant physics and mathematical structures thatare not discussed inthe past literature,suchasthenon-linearsigma model,Shannonentropy,the Ricci flow and densityRiemanniangeometry,etc.Andourprevious works[1,2,11-16] haverevealedveryrichconsequencies of the framework,(e.g.theaccelerationexpansionofthe late epochuniverse,thecosmological constant,diffmorphism anomaly,theinfationaryearlyuniverse,localconformalstabilityandnon-colapsibilitymodifedgravitytc.)but frankly speaking,the possible consequencies of te quantum reference frame are stillfar from fully discovered.The main motivation here for a quantum treatment of areference frame system is that it might form a foundation to constructing a theory of quantum spacetime and quantum gravity that is analogous to the way it is used to construct the classical general relativityand it is crucial inunderstanding the microscopic origin of the spacetime thermodynamics.
+
+# A. Definition
+
+In this section, we propose a quantum felds theory of reference frame as a starting point to study a quantum theory of spacetime and quantum gravity,based on an Equivalence Principle extended to reference frame described by quantum state (discussed by a paradox in Section-V-B and in the conclusion of the paper).The generalization of the Equivalence Principle to the quantum level might form another foundation to a quantum reference frame and a quantum gravity. How the Equivalence Principle behaves at the quantum level has many discussions having a long history(e.g.[26-30]andreferences therein,and [31,32] foran extended thermalversion).The Equivalence Principle is the physical foundation of measuring the spacetime by physical material reference frame even at the quantum level,and itis the bridgebetween the geometriccurved spacetime and gravity,and hence the gravity is simply a relational phenomenon that the motion of a test particle in gravity is manifestedasarelative motion w.r.t.the (quantum) material reference frame.Without the Equivalence Principle,we would lost the physical foundationof all these concepts.Therefore,the basic argument of the paper is that there are several supports (e.g.uniform quantum originof theacelerating expansionof theuniverse posited by myself in previous works[1,2,13],andaconsistent incorporating the thermodynamicsof the spacetime shown in this work)andthe self-consistencyof the framework are all possible evidences for its validity for the quantum reference frame.
+
+In this framework,a to-be-studied quantum system described by a state $| \psi \rangle$ and the spacetime reference system by $| X \rangle$ are both quantum. The states of the whole system are given by an entangled state
+
+$$
+| \psi [ X ] \rangle = \sum _ { i j } \alpha _ { i j } | \psi \rangle _ { i } \otimes | X \rangle _ { j }
+$$
+
+in their direct product Hilbert space $\mathcal { H } _ { \psi } \otimes \mathcal { H } _ { X }$ . The state (1） of the to-be-studied system and the reference frame system is an entangled state but a trivial direct product state is for the reason of calibration between them.Usually, a quantum measurement is performed as follows. At a preparation step of a quantum measurement,a one-to-one correlation between a quantum system $| \psi \rangle _ { i }$ and a reference system $| X \rangle _ { j }$ (a quantum instrument or ruler) is prepared, called calibration. The step in usual sense is a comparison and adjustment of the measuring instrument $| X \rangle _ { j }$ bya calibration standard $| \psi _ { s t a n d a r d } \rangle _ { i }$ which is physically similar with the to-be-studied system $| \psi \rangle _ { i } \doteq | \psi _ { s t a n d a r d } \rangle _ { i }$ . A wellcalibrated entangled state $\begin{array} { r } { \sum _ { i j } \alpha _ { i j } | \psi _ { s t a n d a r d } \rangle _ { i } \otimes | X \rangle _ { j } } \end{array}$ can be used to measure the to-be-studied system $| \psi \rangle _ { i }$ with the reference to the quantum instrument $| X \rangle _ { j }$ . In essential, the measurement indirectly performs a comparision between $| \psi \rangle _ { i }$ and the fiducial state $| \psi _ { s t a n d a r d } \rangle _ { i }$ .So the entangled state $| \psi [ X ] \rangle$ is a superposition of all possible one-to-one corelations.According to the standard Copenhagen interpretation of a quantum state,the to-be-studied quantum system collapsing into a state $| \psi \rangle _ { i }$ together with the collapsing of the quantum reference system into the corresponding $| X \rangle _ { j }$ happening by the joint probability $\vert \alpha _ { i j } \vert ^ { 2 }$ ,meaning that when the state of the quantum instrument is read out being in state $| X \rangle _ { j }$ , then in this sense the to-be-studied system is inferred to be the corresponding $| \psi \rangle _ { i }$ . A simple and practical example is the Stern-Gerlach experiment (see[1]).The entangled state generalizes the textbook quantum description of the state $| \psi ( x ) \rangle$ w.r.t. an idealized parameter $x$ of a classical reference system free from quantum fuctuations (in quantum mechanics $x$ is the Newtonian time, in quantum fields theory $x _ { a }$ are the Minkowskian spacetime).
+
+The entangled state $| \psi [ X ] \rangle$ is inseparable, so that the state can only be interpreted in a relational manner, i.e. the entangled state describes the“relation”between $| \psi \rangle$ and $| X \rangle$ ，but each absolute state.The individual state $| \psi \rangle$ has physical meaning only being reference to $| X \rangle$ entangled to it.When quantum mechanics is reformulated on the new foundationof the relational quantum state (the entangled state)describing the“relation”between the state of the under-studied quantum system and the stateof the quantum reference system,a gravitational theory is automatically contained in the quantum framework without extra assumption.
+
+Since the state of reference $| X \rangle$ is also subject to quantum fluctuation, so mathematically speaking,the state $| \psi [ X ] \rangle$ can be seen as the state $| \psi ( x ) \rangle$ with a smeared spacetime coordinates, instead of the textbook state $| \psi ( x ) \rangle$ with a definite and classical spacetime coordinates. The state $| \psi [ X ] \rangle$ could recover the textbook state $| \psi ( x ) \rangle$ only when the quantum fuctuation of the reference system is smallenough and hence can be ignored.More precise,the 2nd order central moment (even higher order central moments) fuctuations of the spacetime coordinate $\left. { \delta X ^ { 2 } } \right.$ (the variance) can be ignored compared with its lst order moment of quadratic distance $\langle \Delta X \rangle ^ { 2 }$ (squared mean),where $\langle \ldots \rangle$ （20 represents the quantum expectation value by the state of the reference system $| X \rangle$ . In this 1st order approximation, this quantum framework recovers the standard textbook quantum mechanics without gravity.When the quantum fuctuation $\left. { \delta X ^ { 2 } } \right.$ as the 2nd order correction of the reference frame system is important and taken into account, gravity as a next order efects emerges in the quantum framework,as ifone introduces gravitation into the standard textbook quantum mechanics, details are seen below and in previous works.
+
+To find the state $| X \rangle \in { \mathcal { H } } _ { X }$ of the quantum reference system,a quantum theory of the reference frame must be introduced. If the quantum spacetime reference frame $\vert X ^ { \mu } \rangle$ ( $\mu = 0 , 1 , 2 , . . . D { - } 1 )$ itself is considered as the to-be-studied quantum system, w.r.t. the fiducial lab spacetime $ { \left| x _ { a } \right. }$ as the reference system,( $\stackrel { \prime } { a } = 0 , 1 , 2 , . . . d - 1 ,$ ),the entangled state $\begin{array} { r } { | X ( x ) \rangle = \sum _ { i j } \alpha _ { i j } | X \rangle _ { i } \otimes | x \rangle _ { j } } \end{array}$ can be constructed by a mapping between the two states, i.e. $| x \rangle \to | X \rangle$ .From the mathematical viewing point,to defined a D-dimensional manifolds we need to_construct a non-linear diferentiable mapping $X ( x )$ from a local coordinate patch $x \in \mathbb { R } ^ { d }$ to a D-manifolds $X \in M ^ { D }$ . The mapping in physics is usually realized by a kind of fields theory for $X ( x )$ , the non-linear sigma model (NLSM) [33-40]
+
+$$
+S [ X ] = { \frac { 1 } { 2 } } \lambda \sum _ { \mu , \nu = 0 } ^ { D - 1 } \int d ^ { d } x g _ { \mu \nu } \sum _ { a = 0 } ^ { d - 1 } { \frac { \partial X ^ { \mu } } { \partial x _ { a } } } { \frac { \partial X ^ { \nu } } { \partial x _ { a } } } ,
+$$
+
+where $\lambda$ is a constant with dimension of energy density $[ L ^ { - d } ]$ taking the value of the critical density (68） of the universe.
+
+In the action, $x _ { a }$ ( $a = 0 , 1 , 2 , . . . , d - 1 _ { \scriptscriptstyle , }$ )，with dimension length $[ L ]$ , is called the base space in NLSM's terminology, representing thecoordinates of the local patch.They willbe interpreted as the lab walland clock frame as the starting reference,which is considered fducial and clasical with infinite precision.For the reason that a quantum ffelds theory must be formulated ina clasical inertial frame,i.e.fat Minkowskianor Euclidean spacetime,so the base space is considered flat.Without loss of generality, we consider the base space as the Euclidean one,i.e. $\boldsymbol { x } \in \mathbb { R } ^ { d }$ which is better defined when one tries to quantize the theory.
+
+The differential mapping $X _ { \mu } ( x )$ ， $( \mu = 0 , 1 , 2 , . . . , D - 1 )$ ，with dimensional length $[ L ]$ , is the coordinates of a general Riemannian or Lorentzian manifolds $M ^ { D }$ (depending on the boundary condition） with curved metric $g _ { \mu \nu }$ , called the target space in NLSM's terminology.We willwork with the real-defined coordinates for the target spacetime,and the Wick rotated version has been included into the general coordinates transformation of the timecomponent.In the language of quantum fields theory, $X _ { \mu } ( x )$ 0r $\begin{array} { r } { X ^ { \mu } ( x ) = \sum _ { \nu = 0 } ^ { D - 1 } g ^ { \mu \nu } X _ { \nu } ( x ) } \end{array}$ are the real scalar frame fields.
+
+Here,if not specifically mentioned,we will use the Einstein summation convention to sum over index variable appears twice (Latin index for the lab frame from O to $d - 1$ and Greek index for the spacetime from O to $D - 1$ ）and dropping the summation notation sigma.
+
+From the physical point of view,the reference frame felds can be interpreted as a physical coordinates system by using particle/felds signals,for instance,a multi-wire proportional chamber that measuring coordinates of an event inalab.To build acoordinates system,first we need toorient,alignand order the arayof the multi-wires with the reference to the wall of the lab $x _ { a }$ ， $( a = 1 , 2 , 3$ ). The electron fields (ignoring the spin) in these array of multi-wires areconsideredas the scalar framefelds.With the reference to the wallof the lab,to locatea position of an event, at least three electron signals $X _ { 1 } , X _ { 2 } , X _ { 3 }$ must be received and read in three orthogonal directions. The location information canbe measured from the wave function of the electron fields,e.g.from the phase counting or particle number counting.Usually we could consider the electrons in the wires are free,and the field's intensity is not very large, so that the intensity can be seen as a linear function of the coordinates of the lab's wall, $\begin{array} { r } { X _ { \mu } ( x ) = \sum _ { a = 1 } ^ { 3 } e _ { \mu } ^ { a } x _ { a } } \end{array}$ （2 $( \mu = 1 , 2 , 3$ )， for instance,here $e _ { \mu } ^ { a } =  { \delta _ { \mu } } ^ { a }$ is the intensity of the signals in each orthogonal direction. Meaning that when the direction $\mu$ is the lab's wall direction $a$ ,the intensity of the electron beam is 1, otherwise the intensity is $0$ ： Similarly, one need to read an extra electron signal $X _ { 0 }$ to know when the event happens,with the reference to the lab's clock $x _ { 0 }$ . Thus, the fields of these 3+1 electron signals can be given by
+
+$$
+X _ { \mu } ( x ) = \sum _ { a = 0 } ^ { 3 } e _ { \mu } ^ { a } x _ { a } , \quad ( \mu = 0 , 1 , 2 , 3 ) .
+$$
+
+The intensity of the fields $e _ { \mu } ^ { u }$ is in fact the vierbein,describing a mapping from the lab coordinate $x _ { a }$ to the frame ields Xμ
+
+When the event happens at along distance beyond the lab's scale,forinstance,at the scale ofearth or solar system, we could imagine that to extrapolate the multi-wire chamber to such long distance scale stillseems OK,only replacing theelectrons beam in wirebythe light beam.However,if the scaleis muchlarger than the solar system,forinstance, to the galaxy or cosmic scale,when the signal travels along such long distance and beread byan observer,we could imagine that the broadening of the light beam felds or other particle felds gradually becomes non-negligible.More precisely,the 2nd (or higher)order central moment fluctuations of the frame felds signals can notbe neglected,the distance of Riemannian/Lorentzian spacetime as a quadratic form must be modifed by the 2nd moment fluctuation or variance $\left. { \delta X ^ { 2 } } \right.$ of the coordinates
+
+$$
+\left. ( \Delta X ) ^ { 2 } \right. = \langle \Delta X \rangle ^ { 2 } + \langle \delta X ^ { 2 } \rangle .
+$$
+
+A local distance element in spacetime is given byalocal metric tensorat the point,so it is convenient to think of the location point $X$ being fixed,and interpreting the variance of the coordinate affect only the metric tensor at $g _ { \mu \nu }$ the location point. As a consequence, the expectation value of a metric tensor $g _ { \mu \nu }$ is corrected by the 2nd central moment quantum fluctuation of the frame fields
+
+$$
+\langle g _ { \mu \nu } \rangle = \biggl \langle \frac { \partial X _ { \mu } } { \partial x _ { a } } \frac { \partial X _ { \nu } } { \partial x _ { a } } \biggr \rangle = \biggl \langle \frac { \partial X _ { \mu } } { \partial x _ { a } } \biggr \rangle \biggl \langle \frac { \partial X _ { \nu } } { \partial x _ { a } } \biggr \rangle + \frac { 1 } { 2 } \frac { \partial ^ { 2 } } { \partial x _ { a } ^ { 2 } } \langle \delta X _ { \mu } \delta X _ { \nu } \rangle = g _ { \mu \nu } ^ { ( 1 ) } ( X ) - \delta g _ { \mu \nu } ^ { ( 2 ) } ( X ) ,
+$$
+
+where
+
+$$
+g _ { \mu \nu } ^ { ( 1 ) } ( X ) = \left. \frac { \partial X _ { \mu } } { \partial x _ { a } } \right. \left. \frac { \partial X _ { \nu } } { \partial x _ { a } } \right. = \langle e _ { \mu } ^ { a } \rangle \langle e _ { \nu } ^ { a } \rangle
+$$
+
+is the lst order moment (mean value) contribution to the clasical spacetime.For the contribution of the 2nd order central moment $\delta g _ { \mu \nu } ^ { ( 2 ) }$ (variance), the expectation value of the metric_generally tends to be curved up and deformed, the longer the distance scale the more important the broadening of the frame fields, making the spacetime geometry gradually deform and flow at long distance scale.
+
+Since the classical solution of the frame felds (3) given bythe vierbein satisfying the classical equation of motion of the NLSM,itisa frame felds interpretationof NLSMinalab:the base spaceof NLSMis interpretedasastarting reference by the lab's wall and clock,the frame fields $X ( x )$ on the lab are the physical instruments measuring the spacetime coordinates.In this interpretation we consider $d = 4 - \epsilon$ ， $0 < \epsilon \ll 1$ ) in (2)and $D = 4$ is the least number of the frame fields.
+
+There are several reason why $d$ is not precise but very close to 4 in the quantum frame fields interpretation of NLSM. $d$ must be very close to 4,frst,certainlyat the scale of labit isour common sense; Second if we consider the entangled system $\mathcal { H } _ { \psi } \otimes \mathcal { H } _ { X }$ between the to-be-studied physical system and the reference frame fields system, without loss of generality, we could take a scalar field $\psi$ as the to-be-studied (matter) system,which shares the common base space with the frame felds,the total action of the two entangled system is a direct sum of each system
+
+$$
+S [ \psi , X ] = \int d ^ { d } x \left[ { \frac { 1 } { 2 } } { \frac { \partial \psi } { \partial x _ { a } } } { \frac { \partial \psi } { \partial x _ { a } } } - V ( \psi ) + { \frac { 1 } { 2 } } \lambda g _ { \mu \nu } { \frac { \partial X ^ { \mu } } { \partial x _ { a } } } { \frac { \partial X ^ { \nu } } { \partial x _ { a } } } \right] ,
+$$
+
+where $V ( \psi )$ is some potential of the $\psi$ fields.It can be interpreted as an action of a quantum fields $\psi$ on general spacetime coordinates $X$ . Since both $\psi$ field and the frame fields $X$ share the same base space $x$ , here they are described w.r.t.the lab spacetime $x$ as the textbook quantum fields theory defined on inertial frame $x$ .If we interpret the frame fields as the physical general spacetime coordinates, the coordinates of $\psi$ field must be transformed from inertial frame （204号 $x$ to general coordinates $X$ . At the semi-classical level, or lst moment approximation when the fluctuation of $X$ can be ignored,it is simply a classical coordinates transformation
+
+$$
+\begin{array} { l } { { S [ \psi , X ] \overset { \mathrm { ( 1 ) } } \approx S [ \psi ( X ) ] = \displaystyle \int d ^ { 4 } X \sqrt { | \operatorname* { d e t } g ^ { ( 1 ) } | } \left[ \frac { 1 } { 4 } \left. g _ { \mu \nu } ^ { ( 1 ) } \frac { \partial X ^ { \mu } } { \partial x _ { a } } \frac { \partial X ^ { \nu } } { \partial x _ { a } } \right. \left( \frac { 1 } { 2 } g ^ { ( 1 ) \mu \nu } \frac { \delta \psi } { \delta X ^ { \mu } } \frac { \delta \psi } { \delta X ^ { \nu } } + 2 \lambda \right) - V ( \psi ) \right] } } \\ { { \mathrm { } = \displaystyle \int d ^ { 4 } X \sqrt { | \operatorname* { d e t } g ^ { ( 1 ) } | } \left[ \frac { 1 } { 2 } g ^ { ( 1 ) \mu \nu } \frac { \delta \psi } { \delta X ^ { \mu } } \frac { \delta \psi } { \delta X ^ { \nu } } - V ( \psi ) + 2 \lambda \right] , } } \end{array}
+$$
+
+in which $\stackrel { ( 1 ) } { \approx }$ stands for the 1st moment or semi-classical approximation, and $\begin{array} { r } { \frac 1 4 \left. g _ { \mu \nu } ^ { ( 1 ) } \frac { \partial X ^ { \mu } } { \partial x _ { a } } \frac { \partial X ^ { \nu } } { \partial x _ { a } } \right. = \frac 1 4 \left. g _ { \mu \nu } ^ { ( 1 ) } g ^ { ( 1 ) \mu \nu } \right. = } \end{array}$ $\scriptstyle { \frac { 1 } { 4 } } D = 1$ has been used. It is easy to see,at the semi-classical level,i.e. only consider the lst moment of $X$ while 2nd moment fuctuations are ignored,the (clasical) coordinates transformation reproduces the scalar feld action in general coordinates $X$ up to a constant $2 \lambda$ , and the derivative $\frac { \partial } { \partial x _ { a } }$ ifoalldii $\frac { \delta } { \delta X ^ { \mu } }$ . $\sqrt { | \operatorname* { d e t } g ^ { ( 1 ) } | }$ is the Jacobian determinant of the coordinate transformation,note that the determinant requires the coordinates transformation matrix to be a square matrix, so at semi-classical level $d$ must be very close to $D = 4$ ，which is not necessarily true beyond the semi-classical level, when the 2nd moment quantum fluctuations are important. For instance, since $d$ is a parameter but an observable in the theory, it could even not necessary be an integer but effectively fractal at the quantum level.
+
+$d$ not precisely 4is for the quantum and topological reasons.To investigate this,we note that quantization depends on the homotopy group. $\pi _ { d } ( M ^ { D } )$ of the mapping $X ( x ) : \mathbb { R } ^ { d }  M ^ { D }$ .If we consider the (Wick rotated） spacetime $M ^ { D }$ topologically the $S ^ { D }$ for simplicity, the homotopy group is trivial for all $d < D = 4$ , in other words, when $d < 4$ the mapping $X ( x )$ will be free from any unphysical singularities for topological reason,in this situation,the target spacetime is always mathematically well-defined.However, the situation $d = 4$ is a little subtle,since $\pi _ { 4 } ( S ^ { 4 } ) = \mathbb { Z }$ （ is non-trivial,the mappng might met intrinsic topological obstacle and become singular,i.e.a singular spacetime configuration.When the quantum principle is taken into account,this situation can notbe avoided,and by its RG fowthespacetime is possiblydeformed into intrinsic singularities making the theory il-definedat the quantumlevel and non-renormalizable (RG flow not converge). So at the quantum level, $d = 4$ should be not precisely, we have to assume $d = 4 - \epsilon$ when the quantum principle applies, while at the classical or semi-classical level, considering $d = 4$ has no serious problem.The above argument is diferent from the conventional simple power counting argument, which claims the NLSM is perturbative non-renormalizable when $d > 2$ ,but it is not necessarily the case, it is known that numerical calculations also support $d = 3$ and $d = 4 - \epsilon$ are non-perturbative renormalizable and well-defined at the quantum level.
+
+# B. Beyond the Semi-Classical Level: Gaussian Approximation
+
+Going beyond the semi-classical or lst order moment approximation,we need to quantize the theoryat least at the next leading order.If we considerthe 2nd order central moment quantum fuctuation are the most important next leading rder contribution (compared with higher order moment),we callit the Gaussianapproximation or 2nd order central moment approximation,while the higher order moment areallcalled non-Gaussian fuctuations which might be important near local singularities of the spacetime when local phase transition happens,although the intrinsic global singularity can be avoided by guaranteeing the global homotopy group trivial.
+
+At the Gaussian approximation, $\delta g _ { \mu \nu } ^ { ( 2 ) }$ canbegivenbya perturbativeone-loopcaleulation[37,38]of the NLSM when it is relatively small compared with $g _ { \mu \nu } ^ { ( 1 ) }$
+
+$$
+\delta g _ { \mu \nu } ^ { ( 2 ) } ( X ) = \frac { R _ { \mu \nu } ^ { ( 1 ) } ( X ) } { 3 2 \pi ^ { 2 } \lambda } \delta k ^ { 2 } ,
+$$
+
+where $R _ { \mu \nu } ^ { ( 1 ) }$ is the Ricci curvature given by 1st order metric $g _ { \mu \nu } ^ { ( 1 ) }$ ， $k ^ { 2 }$ is the cutoff energy scale of the Fourier component of the frame fields. The validity of the perturbation calculation $R ^ { ( 1 ) } \delta k ^ { 2 } \ll \lambda$ is the validity of the Gaussian approximation, which can be seen as follows. It will be shown in later section that $\lambda$ is nothing but the critical density $\rho _ { c }$ of the universe, $\lambda \sim { \cal O } ( H _ { 0 } ^ { 2 } / G )$ ， $H _ { 0 }$ the Hubble's constant, $G$ the Newton's constant. Thus for our concern of pure gravity in which matter is ignored, the condition $R ^ { ( 1 ) } \delta k ^ { 2 } \ll \lambda$ is equivalent to $\delta k ^ { 2 } \ll 1 / G$ which is reliable except for some local singularities are developed when the Gaussian approximation is failed.
+
+The equation (9) is nothing but a RG equation or known as the Rici flow equation (some reviews se e.g. [41-43l)
+
+$$
+\frac { \partial g _ { \mu \nu } } { \partial t } = - 2 R _ { \mu \nu } ,
+$$
+
+with flow parameter $\begin{array} { r } { \delta t = - \frac { 1 } { 6 4 \pi ^ { 2 } \lambda } \delta k ^ { 2 } } \end{array}$ having dimension of length squared $[ L ^ { 2 } ]$ , which continuously deform the spacetime metric driven by its Ricci curvature.
+
+FortheRicci curvature is non-linear for the metric,the Ricci fow equation is a non-linear version of a heat equation for the metric,and flow along $t$ introduces an averaging or coarse-graining process to the intrinsic non-linear gravitationalsystem which is highly non-trivial[44-48].Ingeneral,ifthefowis free fromlocal singularitiesthere exists long flow-time solution in $t \in ( - \infty , 0 )$ ，which is often called ancient solution in mathematical literature.This range of the t-parameter corresponds to $k \in ( 0 , \infty )$ ,that is from $t = - \infty$ ,i.e.the short distance (high energy） UV scale $k = \infty$ forwardly to $t = 0$ i.e.the long distance (low energy) IR scale $k = 0$ . The metric at certain scale $t$ is given by beingaveraged out the shorter distance details which produces an efective correction to the metric at that scale. So along $\mathrm { t }$ ,the manifolds loss its information in shorter distance,thus the fow is irreversible,i.e.generally having no backwards solution, which is the underlying reason forthe non-unitary and existence of entropy of a spacetime.
+
+As it is shownin(4),(5),the 2nd order moment fuctuation modifies the local(quadratic)distance of the spacetime, so the fow is non-isometry.This is an important feature worth stressing,which is theunderlying reason for the anomaly.The non-isometry is not important for its topology,so along t,the fow preserves the topologyof the spacetime but its local metric,shape and size (volume) changes.There also exists avery special solution of the Ricci flow called Ricci Soliton,which onlychanges the local volume while keeps its local shape.The Ricci Soliton,and its generalized version,the Gradient Ricci Soliton,as thefow limits,arethe generalizationofthe notionoffixed point in the sense of RG fow.The Ricc Soliton is an important notion for understanding the gravityat cosmic scale and studying the the thermodynamics of the Ricci flow at equilibrium.
+
+The Ricci flow was initially introduced in 1980s by Friedan [34, 35] in $d = 2 + \epsilon$ NLSM and independently by Hamilton in mathematics[49,50l.The main motivation of introducing it from the mathematical pointof view is to classify manifolds,a specific goals is to proof thePoincare conjecture.Hamilton used itasa useful toolto gradually deform a manifolds into a more and more “simple and good”manifolds whose topologycan bereadily recognized for some simplecases.A general realization of the program isachieved byPerelman at around 2003[3,51,52],who introduced several monotonic functionals to successfullydeal with the local singularities which might be developed in more general cases.The Ricci fow approach is not only powerful to the compact geometry (as Hamilton's and Perelman's seminal works had shown) but also to the non-compact[53-55]and the Lorentzian geometry [15,56-62].
+
+# C. The Wavefunction and Density Matrix at the Gaussian Approximation
+
+So far we have not explicitly defined the quantum state of the reference frame $| X \rangle$ in (1). In fact,the previous (2nd order)results e.g.(5),(9)and hence the Ricci fow (10)canalso equivalently be given by the expectation value $\langle O \rangle = \langle X \vert O \vert X \rangle$ via explicitly writing down the wavefunction $\Psi ( X )$ of the frame fields at the Gaussian approximation. Note that at the semi-classical level, the frame fields $X$ is a delta-distribution and peaks at its mean value, and further more,theactionof the NLSMseems likeacolectionofharmonicoscillators,thus at the Gaussianapproximation level, finite Gaussian width/2nd moment fluctuation of $X$ must be introduced. When one performs a canonical quantization to the NLSMat the Gaussian approximation level, the fundamental solutionof the wave function(al) (as a functional of the frame fields $X ^ { \mu }$ ) of NLSM takes the Gaussian form,i.e.a coherent state
+
+$$
+\Psi [ X ^ { \mu } ( x ) ] = \frac { 1 } { \sqrt { \lambda } ( 2 \pi ) ^ { D / 4 } } \frac { \vert \mathrm { d e t } \sigma _ { \mu \nu } \vert ^ { 1 / 4 } } { \vert \mathrm { d e t } g _ { \mu \nu } \vert ^ { 1 / 4 } } \exp \left[ - \frac { 1 } { 4 } \vert X ^ { \mu } ( x ) \sigma _ { \mu \nu } ( x ) X ^ { \nu } ( x ) \vert \right] ,
+$$
+
+where the covariant matrix $\sigma _ { \mu \nu } ( x )$ ， playing the role of the Gaussian width, is the inverse of the 2nd order central moment fluctuations of the frame fields at point $x$ （204号
+
+$$
+\sigma _ { \mu \nu } ( x ) = \frac { 1 } { \sigma ^ { \mu \nu } ( x ) } = \frac { 1 } { \langle \delta X ^ { \mu } ( x ) \delta X ^ { \nu } ( x ) \rangle } ,
+$$
+
+which is also given by perturbative one-loop calculation up to a diffeomorphism of $X$ .The absolute symbol of $| X ^ { \mu } \sigma _ { \mu \nu } X ^ { \nu } |$ in the exponential is used to guarantee the quadratic form and hence the determinant of $\sigma _ { \mu \nu }$ induced from the Gaussian integral over $X$ positive even in the Lorentzian signature.
+
+We can also defne a dimensionlessdensity matrix corresponding to the fundamental solution of the wavefunction
+
+$$
+u [ X ^ { \mu } ( x ) ] = \Psi ^ { * } ( X ) \Psi ( X ) = \frac { 1 } { \lambda ( 2 \pi ) ^ { D / 2 } } \frac { \sqrt { | \mathrm { d e t } \sigma _ { \mu \nu } | } } { \sqrt { | \mathrm { d e t } g _ { \mu \nu } | } } \exp \left[ - \frac { 1 } { 2 } \left| X ^ { \mu } ( x ) \sigma _ { \mu \nu } X ^ { \nu } ( x ) \right| \right] ,
+$$
+
+and $\frac { 1 } { \lambda ( 2 \pi ) ^ { D / 2 } } \frac { \sqrt { | \operatorname* { d e t } { \boldsymbol \sigma } _ { \mu \nu } | } } { \sqrt { | \operatorname* { d e t } g _ { \mu \nu } | } }$ is a normalization parameter,so that
+
+$$
+\lambda \int d ^ { D } X \Psi ^ { * } ( X ) \Psi ( X ) = \lambda \int d ^ { D } X u ( X ) = 1 ,
+$$
+
+in which we often attribute the flow of the volume form $d ^ { D } X _ { t }$ to the flow of the metric $g _ { t }$ ， for the volume element （20 $d ^ { D } X _ { t } \equiv d V _ { t } ( X ^ { \mu } ) \equiv \sqrt { | g _ { t } | } d X ^ { 0 } d X ^ { 1 } d X ^ { 2 } d X ^ { 3 }$ . Then the expectation values $\langle O \rangle$ can be understood as $\lambda \int d ^ { D } X _ { t } u { \cal O }$ ： As the quantum frame fields $X$ are q-number in the theory,precisely speaking, the integral of them should be,in principle,a functional integral. Here the formal c-number integral of them $\int d ^ { D } X _ { t } . . .$ is for the conventional in the Ricci flow literature,in which $X$ is a coarse-grained c-number coordinates of manifolds at scale $t$ . The exact functional integral of $X$ is considered in calculating the partition function and related anomaly of the theory in section-II.
+
+Under a diffeomorphism of the metric,the transformation of $u ( X )$ is given by a diffeomorphism of the covariant matrix ( $h$ is certain function)
+
+$$
+\sigma _ { \mu \nu }  \hat { \sigma } _ { \mu \nu } = \sigma _ { \mu \nu } + \nabla _ { \mu } \nabla _ { \nu } h .
+$$
+
+So there exists an arbitrariness in the density $u ( X )$ for different choices of a diffeomorphism/gauge.
+
+According to the statistical interpretation of wavefunction with the normalization condition (14), $u ( X ^ { 0 } , X ^ { 1 } , X ^ { 2 } , X ^ { 3 } )$ （204号 describes the probability density that finding these frame particles in the volume $d V _ { t } ( X ^ { \mu } )$ . As the spacetime $X$ flows along $t$ , the volume $\Delta V _ { t }$ , in which density is averaged, also flows, so the density at the corresponding scale is coarsegrained. If we consider the volume of the lab,i.e the base space,is rigid and fixed by $\lambda \int d ^ { 4 } x = 1$ ,by noting (14),we have
+
+$$
+u [ X ^ { \mu } ( x ) , t ] = { \frac { d ^ { 4 } x } { d ^ { D } X _ { t } } } = \operatorname* { l i m } _ { \Delta V _ { t } \to 0 } { \frac { 1 } { \Delta V _ { t } } } \int _ { \Delta V _ { t } } 1 \cdot d ^ { 4 } x .
+$$
+
+We can see that the density $u ( X , t )$ can be interpreted as a coarse-grained density in the volume element $\Delta V _ { t } \to 0$ （204号 w.r.t.a fine-grained unit density in the lab volume element $d ^ { 4 } x$ at UV $t \to - \infty$
+
+In this sense,the coarse-grained density $u ( X , t )$ is in analogy with the Boltzmann's distribution function,so it should satisfy an analogous ireversible Boltzmann's equation,and giving rise to an analogous Boltzmann's monotonic Hfunctional. In the following sections,we will deduce such equation and the functional of $u ( X , t )$ . The coarse-grained density $u ( X , t )$ has profound physical and geometric meaning, it also plays a central role in analyzing the statistic physics of the frame fields and generalizes the manifolds to the density manifolds.
+
+# D. Ricci-DeTurck Flow
+
+In previous subsection, from the viewpoint of frame fields particle, $u ( X ^ { \mu } , t )$ has a coarse-grained particle density interpretation,the eq.(16)can also be interpreted as a manifolds density [63] from the geometric point of view. For instance, $u ( X , t )$ associates a manifold density or density bundle to each point $X$ of a manifolds,measures the fuzziness of the “point". It is worth stressing that the manifolds density $u ( X , t )$ does not simply a conformal scaling of a metric by the factor, since if it is the case, the integral measure of $D = 4$ -volume or 3-volume in the expectation $\begin{array} { r } { \langle O \rangle = \lambda \int d ^ { D } X u O } \end{array}$ would scale by different powers.There are various useful generalizations of the Ricci curvature to the density manifolds,a widely accepted version is the Bakry-Emery generalization [64]
+
+$$
+R _ { \mu \nu }  R _ { \mu \nu } - \nabla _ { \mu } \nabla _ { \nu } \log u ,
+$$
+
+which is also used in Perelman's seminal paper. The density normalized Ricci curvature is bounded from below
+
+$$
+R _ { \mu \nu } - \nabla _ { \mu } \nabla _ { \nu } \log u \geq \sigma _ { \mu \nu } ,
+$$
+
+if the density manifolds has finite volume.
+
+As a consequence,replacing the Ricci curvature by the density normalized one, we get the Rici-DeTurck fow [65]
+
+$$
+\frac { \partial g _ { \mu \nu } } { \partial t } = - 2 \left( R _ { \mu \nu } - \nabla _ { \mu } \nabla _ { \nu } \log u \right) ,
+$$
+
+which is equivalent to the standard Ricci fow equation (10)up toa diffeomorphism.Mathematically,the RiciDeTurck fow has the advantage that it turns out to be a gradient fow of some monotonic functionals introduced by Perelman, which have profound physical meanings shown later.
+
+The eq.(14) and (16) also give a volume constraint to the fiducial spacetime (the lab),the coarse-grained density （20 $u ( X , t )$ cancels the fow of the volume element $\sqrt { | \operatorname* { d e t } g _ { \mu \nu } | }$ ，s0
+
+$$
+\frac { \partial } { \partial t } \left( u \sqrt { | \operatorname* { d e t } g _ { \mu \nu } | } \right) = 0 .
+$$
+
+Together with the Ricci-DeTurck fow equation (19),we have the flow equation of the density
+
+$$
+\frac { \partial u } { \partial t } = \left( R - \Delta _ { X } \right) u ,
+$$
+
+which is in analogy to the irreversible Boltzmann's equation for his distribution function. $\Delta _ { X }$ is the Laplacian operator in terms of the manifolds coordinates $X$ . Note the minus sign in front of the Laplacian,it is a backwards heat-like equation.Naively speaking,the solution of the backwards heat fow willnot exist.But we could also note that if one let the Ricci flow flows to certain IR scale $t _ { * }$ ,and at $t _ { * }$ one might then choose an appropriate $u ( t _ { * } ) = u _ { 0 }$ arbitrarily (up to a diffeomorphism gauge) and flows it backwards in $\tau = t _ { * } - t$ to obtain a solution $u ( \tau )$ of the backwards equation.Now since the fow is consider freefrom global singularities for the trivialnessof the homotopy group,we could simply choose $t _ { * } = 0$ ， so we defined
+
+$$
+\tau = - t = \frac { 1 } { 6 4 \pi ^ { 2 } \lambda } k ^ { 2 } \in ( 0 , \infty ) .
+$$
+
+In this case,the density satisfies the heat-like equation
+
+$$
+{ \frac { \partial u } { \partial \tau } } = \left( \Delta _ { X } - R \right) u ,
+$$
+
+which does admit a solution along $\tau$ , often called the conjugate heat equation in mathematical literature.
+
+So far (23)together with (19) the mathematical problem of the Rici fow of a Riemannian/Lorentzian manifolds s transformed to a coupled equations
+
+$$
+\left\{ \begin{array} { l } { \frac { \partial g _ { \mu \nu } } { \partial t } = - 2 \left( R _ { \mu \nu } - \nabla _ { \mu } \nabla _ { \nu } \log u \right) } \\ { \frac { \partial u } { \partial \tau } = \left( \Delta _ { X } - R \right) u } \\ { \frac { d \tau } { d t } = - 1 } \end{array} \right.
+$$
+
+and the manifolds $( M ^ { D } , g )$ is generalized to a density manifolds $( M ^ { D } , g , u )$ [63,66, 67] with the constraint (14).
+
+# III. THE ANOMALY ANDITSIMPLICATIONS
+
+At the semi-clasical approximation,seein eq.(8),when the quantum fuctuations of the frame fields or spacetime coordinates are ignored,the general coordinates transformation is just a clasicalcoordinates transformation.We will show that when the quantum fuctuations are taken into account in the general coordinates transformation beyond the semi-clasical approximation,quantum anomaly emerges.As is seen in the previous section,the quantum fluctuation and hence the coarse-graining process of the Ricci fow does not preserve the quadratic distance of a geometry,see(4)and (5). The non-isometryof the quantum fuctuation induces a breakdown of diffeomorphism or general coordinate transformation at the quantum level,namely the difeomorphismanomaly.In this section，we derive the difeomorphism anomalyof the theory,show its relation to the Shannon entropy whose monotonicity gives an analogous H-theorem of the frame fields system and the Rici fow.Further more,as the quantum frame fields theory describes a quantum spacetime,together with the generalized quantum Equivalence Principle,the anomaly induced efective action in terms of the Shannonentropycan also be interpreted asa gravity theory,whichat low energy expansion is a scale dependent Einstein-Hilbert action plus a cosmological constant.This part has certain overlap with the previous work [2],for the self-containedness of the paper,we hope this section providea general background and lay the foundation for the subsequent thermodynamic and statistic interpretation of the theory.
+
+# A.Diffeomorphism at the Quantum Level
+
+First we consider the functional quantization of the pure frame felds without explicitly incorporating the matter source.The partition function is
+
+$$
+Z ( { \cal M } ^ { D } ) = \int [ { \cal D } X ] \exp \left( - { \cal S } [ X ] \right) = \int [ { \cal D } X ] \exp \left( - \frac { 1 } { 2 } \lambda \int d ^ { 4 } x g ^ { \mu \nu } \partial _ { a } X _ { \mu } \partial _ { a } X _ { \nu } \right) ,
+$$
+
+where $M ^ { D }$ is the target spacetime,and the base space can be either Euclidean and Minkowskian. Since considering the action or the volume element $d ^ { 4 } x \equiv d ^ { 4 } x \operatorname* { d e t } e$ (det $e$ is a Jacobian) does not pick any imaginary $i$ factor no matter thebasespaceisinMinkowskianorEuclideanone,ifoetakes $d x _ { 0 } ^ { ( E ) } \to i d x _ { 0 } ^ { ( M ) }$ then $\operatorname* { d e t } e ^ { ( E ) } \to - i \operatorname* { d e t } e ^ { ( M ) }$ ，so without loss of generality we use the Euclidean base spacetime inthe folowing discussions,andremind that the result is the same for Minkowskian.
+
+Note that a general coordinate transformation
+
+$$
+X _ { \mu }  \hat { X } _ { \mu } = \frac { \partial \hat { X } _ { \mu } } { \partial X _ { \nu } } X _ { \nu } = e _ { \mu } ^ { \nu } X _ { \nu }
+$$
+
+does not change the action $S [ X ] = S [ { \hat { X } } ]$ , but the measure of the functional integral changes
+
+$$
+\begin{array} { l } { \displaystyle \mathcal { D } \hat { X } = \prod _ { x } \prod _ { \mu = 0 } ^ { D - 1 } d \hat { X } _ { \mu } ( x ) = \prod _ { x } \epsilon _ { \mu \nu \rho \sigma } e _ { \mu } ^ { 0 } e _ { \nu } ^ { 1 } e _ { \rho } ^ { 2 } e _ { \sigma } ^ { 3 } d X _ { 0 } ( x ) d X _ { 1 } ( x ) d X _ { 2 } ( x ) d X _ { 3 } ( x ) } \\ { \displaystyle = \prod _ { x } | \operatorname* { d e t } e ( x ) | \prod _ { x } \prod _ { a = 0 } ^ { D - 1 } d X _ { a } ( x ) = \left( \prod _ { x } | \operatorname* { d e t } e ( x ) | \right) \mathcal { D } X , } \end{array}
+$$
+
+where
+
+$$
+\epsilon _ { \mu \nu \rho \sigma } e _ { \mu } ^ { 0 } e _ { \nu } ^ { 1 } e _ { \rho } ^ { 2 } e _ { \sigma } ^ { 3 } = \left| \operatorname* { d e t } e _ { \mu } ^ { a } \right| = \sqrt { \left| \operatorname* { d e t } g _ { \mu \nu } \right| }
+$$
+
+is the Jacobianof the diffeomorphism.The Jacobian is nothing but alocalrelative (covariant basis)volume element $d V ( \hat { X } _ { \mu } )$ w.r.t. the fiducial volume $d V ( X _ { a } )$ . Note that the normalization condition (14) also defines a fiducial volume element $u d ^ { 4 } X \equiv u d V ( \hat { X } _ { \mu } )$ , so the Jacobian is nothing but related to the frame fields density matrix
+
+$$
+u ( \hat { X } _ { \mu } ) = \frac { d V ( X _ { a } ) } { d V ( \hat { X } _ { \mu } ) } = \left| \operatorname * { d e t } e _ { a } ^ { \mu } \right| = \frac { 1 } { \left| \operatorname * { d e t } e _ { \mu } ^ { a } \right| } .
+$$
+
+Here the absolute symbol of the determinant is because the density $u$ and the volume element are kept positive defined even in the Lorentz signature.Otherwise,forthe Lorentz signature,it should introduce some extraimaginary factor $i$ into (30)to keep the condition (14).The density so defined followed by (14) isan explicit generalization from the standard 3-space density toa 4-spacetime version.It is the definitionof the volume form and the manifolds density ensure the formalism of the framework formally the same with the Perelman's standard form even in the Lorentzian signature.The manifolds density encodes the most important information of a Riemannian or Lorentzian geometry, i.e. the local volume comparison.
+
+In this case,if we parameterize a dimensionless solution $u$ of the conjugate heat equation as
+
+$$
+u ( \hat { X } ) = \frac { 1 } { \lambda ( 4 \pi \tau ) ^ { D / 2 } } e ^ { - f ( \hat { X } ) } ,
+$$
+
+then the partition function $Z ( { \cal M } ^ { { \cal D } } )$ is transformed to
+
+$$
+\begin{array} { l } { \displaystyle Z ( \hat { M } ^ { D } ) = \int [ { \mathcal D } \hat { X } ] \exp \left( - S [ \hat { X } ] \right) = \int \left( \prod _ { x } | \det e | \right) [ { \mathcal D } X ] \exp \left( - S [ X ] \right) } \\ { \displaystyle \qquad = \int \left( \prod _ { x } e ^ { f + \frac { D } { 2 } \log ( 4 \pi \tau ) } \right) [ { \mathcal D } X ] \exp \left( - S [ X ] \right) } \\ { \displaystyle \qquad = \exp \left( \lambda \int d ^ { 4 } x \left[ f + \frac { D } { 2 } \log ( 4 \pi \tau ) \right] \right) \int [ { \mathcal D } X ] \exp \left( - S [ X ] \right) } \\ { \displaystyle \qquad = \exp \left( \lambda \int _ { \hat { M } ^ { D } } d ^ { D } X u \left[ f + \frac { D } { 2 } \log ( 4 \pi \tau ) \right] \right) \int [ { \mathcal D } X ] \exp \left( - S [ X ] \right) . } \end{array}
+$$
+
+Note that $N ( \hat { M } ^ { D } )$ in the exponential of the change of the partition function
+
+$$
+Z ( \hat { M } ^ { D } ) = e ^ { \lambda N ( \hat { M } ^ { D } ) } Z ( M ^ { D } )
+$$
+
+is nothing but a pure real Shannon entropy in terms of the density matrix $u$
+
+$$
+N ( \hat { M } ^ { D } ) = \int _ { \hat { M } ^ { D } } d ^ { D } X u \left[ f + \frac { D } { 2 } \log ( 4 \pi \tau ) \right] = - \int _ { \hat { M } ^ { D } } d ^ { D } X u \log u .
+$$
+
+The classical action $S [ X ]$ is invariant under the general coordinates transformation or diffeomorphism, but the quantum partition function is no longer invariant under the general coordinates transformation or difeomorphism, which is called diffeomorphismanomaly,meaning a breaking down of the diffeomorphism at the quantum level.The difeomorphism anomaly is purely due to the quantum fluctuation and Rici fow of the frame felds which do not preserve the functional integral measure and change the spacetime volume at thequantum level.The difeomorphism anomaly has many profound consequences to the theory of quantum reference frame,e.g.non-unitarity,the trace anomaly, the notion of entropy, reversibility, and the cosmological constant.
+
+The non-unitarity is indicated bythe pure real anomaly term,which is also induced by the non-isometryor volume change,and consequentlythe non-invarianceof the measureof the functional integralduring the Rici fow.Because of the real-defined volume form (9)for both Euclidean and Lorentzian signature,the pure real contribution of the anomalyand hence the non-unitarity arevalid notonly for spacetime with Euclidean but also for the Lorentzian signature,it is arather general consequence of the Ricci fow of spacetime.Esentiallyspeaking,the reasonof the non-unitarity is because we have enlarged the Hilbert space of the reference frame,from a rigid classcal frame to a fuctuating quantum frame.The non-unitarity implies the breakdown of the fundamental Schrodinger equation which is only valid on a classical time of inertial frame, the solution of which is in $\mathcal { H } _ { \psi }$ . A fundamental equation playing the role of the Schrodinger equation, which can arbitrarily choose any (quantum) physical system as time or reference frame,must bereplaced bya Wheeler-DeWit-likeequation in certain sense[1],the solutionof which is instead in （204号 $\mathcal { H } _ { \psi } \otimes \mathcal { H } _ { X }$ . In the fundamental equation,the quantum fluctuation of physical time and frame, more generally, a general physical coordinates system must break the unitarity.We know that in quantum fields theory on curved spacetime or accelerating frame,the vacuum states of the quantum fields in difference difeomorphism equivalent coordinate systemsare unitarily inequivalent.The Unruh efect is a wellknown example:accelerating observers in the vacuum will measure a thermal bath of particles.The Unruh efect shows us howa general coordinates transformation (e.g. froman inertial toan acelerating frame)leads to the non-unitary anomaly (particle creation and hence particle number non-conservation),and how the anomaly willrelate toa thermodynamics system (thermal bath).In fact, like the Unruh effect,the Hawking effect [68land all non-unitary particle creation effects ina curved spacetime or acceleratingframearerelated to the anomalyin a generalcovariant or gravitational system.All these imply that the diffeomorphism anomaly willhave deep thermodynamic interpretation which is the central issue of the paper.
+
+Without loss of generality, if we simply consider the under-transformed coordinates $X _ { \mu }$ identifying with the coordinates of the fiducial lab $x _ { a }$ which can be treated as a classical parameter coordinates, in this situation the classical action of NLSM is just a topological invariant, i.e. half the dimension of the target spacetime
+
+$$
+\exp \left( - S _ { c l } \right) = \exp \left( - \frac { 1 } { 2 } \lambda \int d ^ { 4 } x g ^ { \mu \nu } \partial _ { a } x _ { \mu } \partial _ { a } x _ { \nu } \right) = \exp \left( - \frac { 1 } { 2 } \lambda \int d ^ { 4 } x g ^ { \mu \nu } g _ { \mu \nu } \right) = e ^ { - \frac { D } { 2 } } .
+$$
+
+Thus the total partition function of the frame felds takes a simple form
+
+$$
+Z ( \hat { M } ^ { D } ) = e ^ { \lambda N ( \hat { M } ^ { D } ) - { \frac { D } { 2 } } } .
+$$
+
+# B.The Trace Anomaly
+
+The partition functionnow is non-invariance (32)under diffeomorphism at the quantum level,so ifone deduces the stress tensor by $\begin{array} { r } { \left. T _ { \mu \nu } \right. = - \frac { 2 } { \sqrt { \left| g \right| } } \frac { \delta \log Z } { \delta g ^ { \mu \nu } } } \end{array}$ 2logZ,its traceg><Tv)=0isdiference from(Tμ=（guvv)
+
+$$
+\langle \Delta { \cal T } _ { \mu } ^ { \mu } \rangle = \langle g ^ { \mu \nu } \rangle \langle { \mathcal T } _ { \mu \nu } \rangle - \langle g ^ { \mu \nu } { \mathcal T } _ { \mu \nu } \rangle = \lambda N ( M ^ { D } )
+$$
+
+known as the trace anomaly. Cardy conjectured [69] that in a $d = 4$ theory, quantities like $\langle \mathcal { T } _ { \mu } ^ { \mu } \rangle$ could be a higher dimensional generalization of the monotonic Zamolodchikov's c-function in $d = 2$ conformal theories, leading to a suggestion of the a-theorem [70] in $d = 4$ and other suggestions (e.g. [71,72]). In the following subsections,we will show that the Shannon entropy $N$ and generalized $\ddot { N }$ are indeed monotonic, which might have more advantages, e.g. suitable for a Lorentzian target spacetime and for general $D$
+
+Note that the Shannon entropy $N ( M ^ { D } )$ can be expanded at small $\tau$
+
+$$
+\lambda N ( { \hat { M } } ^ { D } ) = \lambda \sum _ { n = 0 } ^ { \infty } B _ { n } \tau ^ { n } = \lambda ( B _ { 0 } + B _ { 1 } \tau + B _ { 2 } \tau ^ { 2 } + . . . ) \quad ( \tau  0 ) .
+$$
+
+For $D = 4$ the first few coefficients are
+
+$$
+B _ { 0 } = \operatorname* { l i m } _ { \tau  0 } N = \frac { D } { 2 \lambda } [ 1 + \log ( \sqrt { \lambda } 4 \pi \tau ) ] ,
+$$
+
+$$
+B _ { 1 } = \operatorname * { l i m } _ { \tau  0 } \frac { d N } { d \tau } = \int _ { \hat { M } ^ { 4 } } d ^ { 4 } X \sqrt { | g | } ( R + \frac { D } { 2 \tau } ) ,
+$$
+
+$$
+B _ { 2 } = \operatorname * { l i m } _ { \tau  0 } \frac { 1 } { 2 } \frac { d ^ { 2 } N } { d ^ { 2 } \tau } = - \int _ { \hat { \cal M } ^ { 4 } } d ^ { 4 } X \sqrt { | g | } | R _ { \mu \nu } + \frac { 1 } { 2 \tau } g _ { \mu \nu } | ^ { 2 } ,
+$$
+
+in which $B _ { 0 }$ can be renormalized out,and a renormalized $B _ { 1 }$ will contribute to the effective Einstein-Hilbert action of gravity, see following subsection D.And $B _ { 2 }$ ,as a portion of the full anomaly, plays the role of the conformal/Weyl anomaly up to some total divergence terms, for instance, $\varDelta R$ terms and the Gauss-Bonnet invariant. That is,a non-vanishing $B _ { 2 }$ term measures the broken down of the conformal invariance of $M ^ { D = 4 }$ , otherwise,a vanishing $B _ { 2 }$ （204号 means that the manifoldisa gradient steadyRici solitonasthefxed pointoftheRici-DeTurckfow,which preserves it shape (conformal invariant) during the flows.
+
+We note that $B _ { 2 }$ as the only dimensionless coeffcient measures the anomalous conformal modes,in this sense, （204号 $N ( M ^ { D } )$ indeed relates to certain entropy. However,since the conformal transformation is just a special coordinates transformation, thus it is clearly that the single $B _ { 2 }$ coefficient does not measure the total (general coordinates transformation) anomalous modes. Obviously this theory at $2 < d = 4 - \epsilon$ is not conformal invariant, thus as the theory flows along $t$ , the degrees of freedom are gradually coarse-grained and hence the modes-counting should also change with the flow and the scale,as a consequence all coefficients $B _ { n }$ in the series and hence the total partition function $e ^ { \lambda N ( M ^ { D } ) }$ should measure the total anomalous modes at certain scale $\tau$ , leading tothefullentropy andanomaly.
+
+Diferent from some clasically conformal invariant theories，e.g.the string theory,in which we only need to cancel a single scale-independent $B _ { k }$ coefficient in order to avoid conformal anomaly. As the theory at higher than 2-dimension is not conformal invariant,the full scale-dependent anomaly $N ( M ^ { D } )$ is required to be canceled at certain scale.Fortunately, it will show in later subsection that a normalized full anomaly $\lambda \tilde { N } ( M ^ { D } )$ can converge at UV for its monotonicity, thus giving rise to a finite counter term of order $O ( \lambda )$ playing the role of a correct cosmological constant.The idea that the trace anomaly might have arelation to the cosmological constant is arecurring subject in literature[73-77],inthe framework,thecosmologicalconstantis naturalyemerged in thiswayas thecounterterm of the trace anomaly (see subsection-D or [2]).
+
+# C.Relative Shannon Entropy and a H-Theorem for Non-Equilibrium Frame Fields
+
+In the Ricci fow limit,i.e. the Gradient Shrinking Ricc Soliton (GSRS) configuration,the Shannon entropy $N$ （204 taking its maximum value $N _ { * }$ ,it is similar with the thermodynamics system being in a thermal equilibrium state whereitsentropy isalso maximal.In mathematical literatureof Ricci fow,itisoftendefinedaseriesof relative formulae w.r.t.the extreme values taking by the fow limit GSRS or analogous thermal equilibrium state denoted by a subscript $^ *$ ：
+
+In GSRS, the _covariance matrix $\sigma ^ { \mu \nu }$ as 2nd central moment of the frame fields with a IR cutoff $k$ is simply proportional to the metric
+
+$$
+{ \frac { 1 } { 2 } } \sigma _ { * } ^ { \mu \nu } = { \frac { 1 } { 2 } } \langle \delta X ^ { \mu } \delta X ^ { \nu } \rangle = { \frac { 1 } { 2 \lambda } } g ^ { \mu \nu } \int _ { 0 } ^ { | p | = k } { \frac { d ^ { 4 } p } { ( 2 \pi ) ^ { 4 } } } { \frac { 1 } { p ^ { 2 } } } = { \frac { k ^ { 2 } } { 6 4 \pi ^ { 2 } \lambda } } g ^ { \mu \nu } = \tau g ^ { \mu \nu } ,
+$$
+
+and then
+
+$$
+\sigma _ { * \mu \nu } = ( \sigma _ { * } ^ { \mu \nu } ) ^ { - 1 } = \frac { 1 } { 2 \tau } g _ { \mu \nu } ,
+$$
+
+which means a uniform Gaussian broadening is achieved.And in this gauge,only longitudinal partoffuctuation exists.
+
+When the density normalized Ricci curvature is completely given_by the longitudinal fluctuation $\sigma _ { \mu \nu }$ ，i.e.the inequality (18) saturates, giving a Gradient Shrinking Ricci Soliton (GSRS) equation
+
+$$
+R _ { \mu \nu } + \nabla _ { \mu } \nabla _ { \nu } f = { \frac { 1 } { 2 \tau } } g _ { \mu \nu } .
+$$
+
+It means,on the one hand, for a general $f ( X ) = { \frac { 1 } { 2 } } \left| \sigma _ { \mu \nu } X ^ { \mu } X ^ { \nu } \right|$ ，s0 $R _ { \mu \nu }$ seems vanish，so the standard Ricci flow equation(10)terminates;and on the other hand,the Rici-DeTurck fow (19)onlychanges thelongitudinal size or volume of the manifolds but its shape kep unchanged,thus the GSRS can also be seen stop changing,up to a size or volume rescaling. Thus the GSRS is a fow limit and can be viewed as a generalized RG fixed point.
+
+In the following,we consider relative quantities w.r.t.the GSRS configuration. Considering a general Gaussian density matrix
+
+$$
+u ( X ) = \frac { 1 } { \lambda ( 2 \pi ) ^ { D / 2 } } \frac { \sqrt { | \mathrm { d e t } \sigma _ { \mu \nu } | } } { \sqrt { | \mathrm { d e t } g _ { \mu \nu } | } } \exp \left( - \frac { 1 } { 2 } | X ^ { \mu } \sigma _ { \mu \nu } X ^ { \nu } | \right) ,
+$$
+
+in GSRS limit it becomes
+
+$$
+u _ { * } ( X ) = \frac { 1 } { \lambda ( 4 \pi \tau ) ^ { D / 2 } } \exp \left( - \frac { 1 } { 4 \tau } \left| X \right| ^ { 2 } \right) .
+$$
+
+Therefore,in GSRS,a relative density can be defined by the general Gaussian density $u ( X )$ relative to the density $u _ { * } ( X )$ in GSRS
+
+$$
+\tilde { u } ( X ) = \frac { u } { u _ { * } } .
+$$
+
+By using the relative density,a relative Shannon entropy $\ddot { N }$ can be defined by
+
+$$
+\tilde { N } ( M ^ { D } ) = - \int d ^ { D } X \tilde { u } \log \tilde { u } = - \int d ^ { D } X u \log u + \int d ^ { D } X u _ { * } \log u _ { * } = N - N _ { * } = - \log Z _ { P } \leq 0 ,
+$$
+
+where $Z _ { P }$ isnothing but the Perelman's partition function
+
+$$
+\log Z _ { P } = \int _ { M ^ { D } } d ^ { D } X u \left( \frac { D } { 2 } - f \right) \geq 0 ,
+$$
+
+and $N _ { * }$ is the maximum Shannon entropy
+
+$$
+N _ { * } = - \int d ^ { D } X u _ { * } \log u _ { * } = \int d ^ { D } X u _ { * } \frac { D } { 2 } \left[ 1 + \log ( \sqrt { \lambda } 4 \pi \tau ) \right] = \frac { D } { 2 \lambda } \left[ 1 + \log ( \sqrt { \lambda } 4 \pi \tau ) \right] .
+$$
+
+Since the relative Shannon entropy and the anomaly term is pure real,so the change of the partition function under diffeomorphism is non-unitary. For the coarse-graining nature of the density $u$ , it is proved that the relative Shannon entropy is monotonic non-decreasing along the Ricci flow (along $t$ )，
+
+$$
+\frac { d \tilde { N } ( \hat { M } ^ { D } ) } { d t } = - \tilde { \mathcal { F } } \geq 0 ,
+$$
+
+where $\tilde { \mathcal { F } } = \mathcal { F } - \mathcal { F } _ { * } \le 0$ is the GSRS-normalized F-functional of Perelman
+
+$$
+\mathcal { F } = \frac { d N } { d \tau } = \int _ { M ^ { D } } d ^ { D } X u \left( R + | \nabla f | ^ { 2 } \right)
+$$
+
+with the maximum value (at GSRS limit)
+
+$$
+\mathcal { F } _ { * } \equiv \mathcal { F } ( u _ { * } ) = \frac { d N _ { * } } { d \tau } = \frac { D } { 2 \lambda \tau } .
+$$
+
+The inequality (5O)gives an analogous H-theorem to the non-equilibrium frame felds and the irreversible Ricci flow.The entropy is non-decreasing along the Riciflow making theflow irreversible in many aspects similar with the processes of ireversible thermodynamics,meaning that as the observation scale of the spacetime fows from short to long distance scale,the processloses information and the Shannon entropy increases.The equal sign in (5O)can be taken when the spacetime configuration has fowed to a limit known as a Gradient Shrinking Ricci Soliton (GSRS), when the Shannon entropy takes its maximum value. Similarly, at the flow limit the density matrix $u _ { * }$ eq.(45) takes the analogous standard Maxwell-Boltzmann distribution.
+
+# D. Effective Gravity at Cosmic Scale and the Cosmological Constant
+
+In terms of therelative Shannon entropy,the total partition function (35)of the framefields is normalized by the GSRS extreme value
+
+$$
+Z ( M ^ { D } ) = \frac { e ^ { \lambda N - \frac { D } { 2 } } } { e ^ { \lambda N _ { * } } } = e ^ { \lambda \tilde { N } - \frac { D } { 2 } } = Z _ { P } ^ { - \lambda } e ^ { - \frac { D } { 2 } } = \exp \left[ \lambda \int _ { M ^ { D } } d ^ { D } X u \left( f - D \right) \right] .
+$$
+
+The relative Shannon entropy $\tilde { N }$ as the anomaly vanishes at GSRS or IR scale, however, it is non-zero at ordinary lab scale up to UV where the fiducial volume of the lab is considered fixed $\textstyle \lambda \int d ^ { 4 } x = 1$ ．The cancellation of the anomaly at the lab scale up to UV is physically required, which leads to the counter term $\nu ( M _ { \tau = \infty } ^ { D } )$ or cosmological constant. The monotonicity of $\tilde { N }$ eq.(50) and the W-functional implies [3,78]
+
+$$
+\nu ( M _ { \tau = \infty } ^ { D } ) = \operatorname* { l i m } _ { \tau \to \infty } \lambda \tilde { N } ( M ^ { D } , u , \tau ) = \operatorname* { l i m } _ { \tau \to \infty } \lambda \mathcal { W } ( M ^ { D } , u , \tau ) = \operatorname* { i n f } _ { \tau } \lambda \mathcal { W } ( M ^ { D } , u , \tau ) < 0 ,
+$$
+
+where $\mathcal { W }$ , the Perelman's W-functional, is the Legendre transformation of $\tilde { N }$ w.r.t. $\tau ^ { - 1 }$
+
+$$
+\mathcal { W } \equiv \tau \frac { \partial \tilde { N } } { \partial \tau } + \tilde { N } = \tau \tilde { \mathcal { F } } + \tilde { N } = \frac { d } { d \tau } \left( \tau \tilde { N } \right) .
+$$
+
+In other words,the diffrence between the efective actions (relative Shannon entropies)at UVand IR is finite
+
+$$
+\nu = \lambda ( \tilde { N } _ { U V } - \tilde { N } _ { I R } ) < 0 .
+$$
+
+Perelman used his analogies: the temperature $T \sim \tau$ ,the (relative) internal energy $U \sim - \tau ^ { 2 } \tilde { \mathcal { F } }$ , the thermodynamics entropy $S \sim - \mathcal { W }$ , and the free energy $F \sim \tau \tilde { N }$ , up to proportional balancing the dimensions on both sides of $\sim$ ,the equation (55） is in analogy to the thermodynamics equation $U - T S = F$ . So in this sense the W-functional is also called the W-entropy.Whether the thermodynamic analogies are real and physical,or just purecoincidences,is an important issue discussed in the next sections.
+
+In fact $e ^ { \nu } < 1$ (usually called the Gaussian density [79,80l) is a relative volume or the reduced volume $\tilde { V } ( M _ { \tau = \infty } ^ { D } )$ of the backwards limit manifolds introduced byPerelman,or the inverseof the initialconditionof themanifolds density $u _ { \tau = 0 } ^ { - 1 }$ Afinite value of it makes an initial spacetime with unit volume from UV fow and converge toa finite $u _ { \tau = 0 }$ ， and hencethe manifolds finally converges toafiniterelative volume/reduced volume insteadof shrinking toa singular point at $\tau = 0$ ：
+
+As an example,fora homogeneous and isotropic universe for which the sizes of space and time (with a“ball radius $a _ { \tau }$ ) are on an equal footing, i.e. a late epoch FRW-like metric $d s ^ { 2 } = a _ { \tau } ^ { 2 } ( - d x _ { 0 } ^ { 2 } + d x _ { 1 } ^ { 2 } + d x _ { 2 } ^ { 2 } + d x _ { 3 } ^ { 2 } )$ , which is a Lorentzian shrinking soliton configuration. Note that the shrinking soliton equation $\begin{array} { r } { R _ { \mu \nu } = \frac { 1 } { 2 \tau } g _ { \mu \nu } } \end{array}$ it satisfies and its volume form (29)are independent to the signature, so it can be approximately given by a 4-ball value $\nu ( B _ { \infty } ^ { 4 } ) \approx - 0 . 8$ [1,2].
+
+So the partition function, which is anomaly canceled at UV and having a fixed-volume fiducial lab, is
+
+$$
+Z ( { \cal M } ^ { D } ) = e ^ { \lambda \tilde { N } - { \frac { D } { 2 } } - \nu } .
+$$
+
+Since $\begin{array} { r } { \operatorname* { l i m } _ { \tau \to 0 } \dot { N } ( M ^ { D } ) = 0 } \end{array}$ ， so at small $\tau$ ， $\tilde { N } ( M ^ { D } )$ can be expanded by powers of $\tau$
+
+$$
+\begin{array} { l } { \displaystyle \tilde { N } ( { \boldsymbol M } ^ { D } ) = \frac { \partial \tilde { N } } { \partial \tau } \tau + { \cal O } ( \tau ^ { 2 } ) = \tau \tilde { \mathcal F } + { \cal O } ( \tau ^ { 2 } ) } \\ { = \int _ { { \boldsymbol M } ^ { D } } d ^ { D } X u _ { \tau  0 } [ ( R _ { \tau  0 } + | \nabla f _ { \tau  0 } | ^ { 2 } - \frac { D } { 2 \tau } ) \tau ] + { \cal O } ( \tau ^ { 2 } ) } \\ { = \int _ { { \boldsymbol M } ^ { D } } d ^ { D } X u _ { 0 } R _ { 0 } \tau + { \cal O } ( \tau ^ { 2 } ) , } \end{array}
+$$
+
+in which $\begin{array} { r } { \lambda \int d ^ { D } X u _ { \tau  0 } \tau | \nabla f _ { \tau  0 } | ^ { 2 } = \frac { D } { 2 } } \end{array}$ (at GSRS) has been used.
+
+For $D = 4$ and small $\tau$ , the effective action of $Z ( M ^ { 4 } )$ can be given by
+
+$$
+- \log Z ( M ^ { 4 } ) = S _ { e f f } \approx \int _ { M ^ { 4 } } d ^ { 4 } X u _ { 0 } ( 2 \lambda - \lambda R _ { 0 } \tau + \lambda \nu ) ( \mathrm { s m a l l } \tau ) .
+$$
+
+Considering $u _ { 0 } d ^ { 4 } X = \sqrt { | g _ { t } | } d V = \sqrt { | g _ { t } | } d X ^ { 0 } d X ^ { 1 } d X ^ { 2 } d X ^ { 3 }$ is the invariant volume element,and using (22) to replace $t$ or $\tau$ by cutoff scale $k$ ，we have
+
+$$
+S _ { e f f } = \int _ { M ^ { 4 } } d V \sqrt { \left| g _ { k } \right| } \left( 2 \lambda - \frac { R _ { 0 } } { 6 4 \pi ^ { 2 } } k ^ { 2 } + \lambda \nu \right) \quad \mathrm { ( s m a l l \ : k ) } .
+$$
+
+The effective action can be interpreted as a low energy effective action of pure gravity. As the cutoff scale $k$ ranges from the lab scale to the solar system scale ( $k > 0$ ),the action must recover the well-tested Einstein-Hilbert (EH) action.But at the cosmic scale ( $k  0$ ),we know that the EH action deviates from observations and the cosmological constant becomes important.In this picture,as $k  0$ , the action leaving $2 \lambda + \lambda \nu$ should play the role of the standard EH action with a limit constant background scalar curvature $R _ { 0 }$ plus the cosmological constant, so
+
+$$
+2 \lambda + \lambda \nu = { \frac { R _ { 0 } - 2 \Lambda } { 1 6 \pi G } } .
+$$
+
+While at $k  \infty$ ， $\lambda \tilde { N }  \nu$ , the action leaving only the fiducial Lagrangian $\textstyle { \frac { D } { 2 } } \lambda = 2 \lambda$ which should be interpreted as a constant EH action without the cosmological constant
+
+$$
+2 \lambda = \frac { R _ { 0 } } { 1 6 \pi G } .
+$$
+
+Thus we have the cosmological term
+
+$$
+\lambda \nu = \frac { - 2 \Lambda } { 1 6 \pi G } = - \rho _ { \Lambda } .
+$$
+
+The action can be rewritten as an effective EH action plus a cosmological term
+
+$$
+S _ { e f f } = \int _ { M ^ { 4 } } { d V \sqrt { | g _ { k } | } \left( { \frac { R _ { k } } { 1 6 \pi G } } + \lambda \nu \right) } \mathrm { ( s m a l l k ) } ,
+$$
+
+where
+
+$$
+\frac { R _ { k } } { 1 6 \pi G } = 2 \lambda - \frac { R _ { 0 } } { 6 4 \pi ^ { 2 } } k ^ { 2 } ,
+$$
+
+which is nothing but the flow equation of the scalar curvature [43]
+
+$$
+R _ { k } = { \frac { R _ { 0 } } { 1 + { \frac { 1 } { 4 \pi } } G k ^ { 2 } } } , \quad { \mathrm { o r } } \quad R _ { \tau } = { \frac { R _ { 0 } } { 1 + { \frac { 2 } { D } } R _ { 0 } \tau } } .
+$$
+
+Since at the cosmic scale $k  0$ , the effective scalar curvature is bounded by $R _ { 0 }$ which can be measured by “Hubble's constant" $H _ { 0 }$ at the cosmic scale,
+
+$$
+R _ { 0 } = D ( D - 1 ) H _ { 0 } ^ { 2 } = 1 2 H _ { 0 } ^ { 2 } ,
+$$
+
+SO $\lambda$ is nothing but the critical density of the 4-spacetime Universe
+
+$$
+\lambda = { \frac { 3 H _ { 0 } ^ { 2 } } { 8 \pi G } } = \rho _ { c } ,
+$$
+
+so the cosmological constant is always of order of the critical density with a“dark energy” fraction
+
+$$
+\Omega _ { \Lambda } = \frac { \rho _ { \Lambda } } { \rho _ { c } } = - \nu \approx 0 . 8 ,
+$$
+
+which is closeto the observational value.The detail discusions about the cosmological constant problem and the observational effct in thecosmology，especially the modifcationof the Distance-Redshift relation leading to the acceleration parameter $q _ { 0 } \approx - 0 . 6 8$ can be found in [1, 2, 12, 13].
+
+If matters are incorporated into the gravity theory, consider the entangled system in $\mathcal { H } _ { \psi } \otimes \mathcal { H } _ { X }$ between the tobe-studied quantum system (matters) and the quantum reference frame fields system (gravity). $2 \lambda$ term in eq.(8) is normalized bythe Ricifow,byusing eq.(60)andeq.(65),amater-coupled-gravity is emerged from the Ricciffow
+
+$$
+\begin{array} { l } { { S [ \psi , X ] \overset { \left( 2 \right) } \approx \displaystyle \int d V \sqrt { \left| g _ { k } \right| } \left[ \frac 1 2 g ^ { \mu \nu } \frac { \delta \psi } { \delta X ^ { \mu } } \frac { \delta \psi } { \delta X ^ { \nu } } - V ( \psi ) + 2 \lambda - \frac { R _ { 0 } } { 6 4 \pi ^ { 2 } } k ^ { 2 } + \lambda \nu \right] } } \\ { { \mathrm { } = \displaystyle \int d V \sqrt { \left| g _ { k } \right| } \left[ \frac 1 2 g ^ { \mu \nu } \frac { \delta \psi } { \delta X ^ { \mu } } \frac { \delta \psi } { \delta X ^ { \nu } } - V ( \psi ) + \frac { R _ { k } } { 1 6 \pi G } + \lambda \nu \right] } } \end{array}
+$$
+
+# IV.THERMALEQUILIBRIUMSTATE
+
+A Gradient Shrinking Ricci Soliton (GSRS) configuration as a Ricci flow limit extremizes the Shannon entropy $N$ （20 andthe W-functional.Similarly,a thermal equilibrium state also extremizes the H-functionalof Boltzmanand the thermodynamic entropy.Thus the processof a generic Ricci fow fows intoa GSRS limit is in analogy with the nonequilibrium state evolves into athermal equilibrium state,they are not merely similar but even equivalent,when the thermal system is nothing butthe frame fields system.In this section,folowing the previousdiscussions onthe nonequilibrium stateof the framefeldsin4-dimension,ina proper choiceoftime,wewilldiscuss the thermalequilibrium stateof the frame particle systemasa GSRS configuration inlower 3-dimension,in which the temperature and several thermodynamic functions of thesystemcan be explicitlycalculated and the manifolds densitycan be interpreted a the thermal ensemble densityof the frame fields particles,giving astatisticalinterpretation toPerelman's thermodynamic analogies of the Ricci flow.
+
+# A．A Temporal Static Shrinking Ricci Soliton as a Thermal Equilibrium State
+
+When the shrinking Ricci soliton $M ^ { 4 }$ is static in the temporal direction, i.e. being a product manifolds $M ^ { 4 } = M ^ { 3 } \times \mathbb { R }$ and $\delta \mathbf { X } / \delta X _ { 0 } = 0$ ，where $X _ { 0 } \in \mathbb { R }$ is the physical time, $\mathbf { X } = ( X _ { 1 } , X _ { 2 } , X _ { 3 } ) \in M ^ { 3 }$ is a 3-space gradient shrinking Ricci soliton of lower dimensions,we can prove here that the temporal static spatial part $M ^ { 3 }$ is in thermal equilibrium with the flow parameter $\tau$ proportional to its temperature,and the manifolds density $u$ of $M ^ { 3 }$ can be interpreted as the thermal equilibrium ensemble density.
+
+According to Masubara’s formalismof thermalfelds theory,thethermal equilibriumof the spatialframe fields can be defined by the periodicity $\mathbf { X } ( \mathbf { x } , 0 ) = \mathbf { X } ( \mathbf { x } , \beta )$ in their Euclidean time of the lab (remind that we start from the Euclidean base space for the frame fields theory),where $\beta = 1 / T$ is the inverse of the temperature.Now the frame fields is a mapping $\mathbb { R } ^ { 3 } \times S ^ { 1 } \to M ^ { 3 } \times \mathbb { R }$ . Then in such configuration, the $\tau$ parameter of the 3-space shrinking soliton （20 $M ^ { 3 }$ becomes
+
+$$
+\tau = { \frac { 1 } { 2 \lambda } } \int { \frac { d ^ { 3 } { \bf p } d \omega _ { n } } { ( 2 \pi ) ^ { 4 } } } { \frac { 1 } { { \bf p } ^ { 2 } + \omega _ { n } ^ { 2 } } } = { \frac { 1 } { 2 \lambda } } T \sum _ { n } \int { \frac { d ^ { 3 } { \bf p } } { ( 2 \pi ) ^ { 3 } } } { \frac { 1 } { { \bf p } ^ { 2 } + ( 2 \pi n T ) ^ { 2 } } } ,
+$$
+
+where $\omega _ { n } = 2 \pi n T$ ， $\begin{array} { r } { \int \frac { d \omega _ { n } } { 2 \pi } = T \sum _ { n } } \end{array}$ have been used. The calculation is a periodic-Euclidean-time version of the general eq.(41). Since the density matrix eq.(45) of the frame felds $X _ { \mu }$ is Gaussian or a coherent state,which the oscillators are almost condensed in the central peak, thus $\omega _ { 0 } = 0$ dominants the Masubara sum,
+
+$$
+\tau = \frac { 1 } { 2 \lambda } T \int \frac { d ^ { 3 } { \bf p } } { ( 2 \pi ) ^ { 3 } } \frac { 1 } { { \bf p } ^ { 2 } } .
+$$
+
+ofthequantefereaei Diferent from the naive notion of "temporal static”at the clasical level, which means w.r.t.the physical clock $\big \langle \frac { \partial \mathbf { X } } { \delta X _ { 0 } } \big \rangle = 0$ Howevertoaiibeta $X _ { 0 }$ level.Because there is no“absolute static”at the quantum or microscopic level,since at such microscopic scale the modes arealways in motion or vibrating w.r.t.theinfinitely preciselab time $x _ { 0 }$ ,i.e. $\frac { \partial \mathbf { X } ( x ) } { \partial x _ { 0 } } \neq 0$ . Actually $\partial \mathbf { X } / \partial x _ { 0 }$ is in general non-zero even though its oscilation degrees of freedom are almost frozen (Masubara frequency $\omega _ { n }$ is zero for the Gaussian wavefunction),while the center of the Gaussian wave pocket of $\mathbf { X }$ is in translational motion so $\mathbf p \neq 0$ . soits expectationvalueisingeneralfinite,forinstance, $\langle \frac { \partial \mathbf { X } ( x ) } { \partial x _ { 0 } } \rangle \sim \frac { 3 } { 2 } T < \infty$ claimed by theequipartition energyof the translationalmotionin 3-space.Igeneral,whetherornotthe modesof the spatial frame feldsistemporaltatic depends on the scale to evaluate the average of the physical clock $\langle X _ { 0 } \rangle$ . The notion of“thermal static”in the sense of statistical physics is approximate at a macroscopic scale rather than a microscopic scale,at which scale the molecules are always in motion (so does the physical clock $X _ { 0 }$ ).The macroscopic scale of the thermal static system is at such a longpysicatimescale(X)>otattheaveragedpyicalclockislmostfroen w.r.t.the infinitely precise lab time $x _ { 0 }$ ,sothat thetheralstaticcodition $\begin{array} { r } {  \frac { \partial { \bf X } } { \partial X _ { 0 } }  =  \frac { \partial { \bf X } } { \partial x _ { 0 } }  \cdot \frac { \partial x _ { 0 } } { \partial  X _ { 0 }  }  0 } \end{array}$ can be achieved.
+
+More precisely, when we mention that the 3-space is macroscopic “temporal static”,a IR cutoff,for example, $H _ { 0 }$ as a macroscopic Hubble scale should be taken into account.The fluctuation modes on the 3-space outside the Hubble scale $0 < | { \bf p } | < H _ { 0 }$ are frozen and temporal static, while those modes $| { \bf p } | > H _ { 0 }$ inside the Hubble horizon are dynamic. So with this cutoff scale we have
+
+$$
+\tau = \frac { 1 } { 2 \lambda } T \int _ { 0 } ^ { | { \bf p } | = H _ { 0 } } \frac { d ^ { 3 } { \bf p } } { ( 2 \pi ) } \frac { 1 } { { \bf p } ^ { 2 } } = \frac { C _ { 3 } } { 2 \lambda } T H _ { 0 } = \frac { 1 } { \lambda _ { 3 } } T = \frac { 1 } { \lambda _ { 3 } \beta } ,
+$$
+
+$\begin{array} { r } { \lambda _ { 3 } = \frac { \lambda } { \frac { 1 } { 2 } C _ { 3 } H _ { 0 } } = \frac { 1 2 \pi ^ { 2 } \lambda } { H _ { 0 } } } \end{array}$ at about a long physical time scale, e.g. the age of the universe $O ( 1 / H _ { 0 } )$ , let the temporal direction is normalized as 12π²J0 J12π²/Ho dxoH=1,thenthecondition ʃdx=1givesits3-spacevsion
+
+$$
+\int d ^ { 3 } x \lambda _ { 3 } = 1 ,
+$$
+
+which is the definition of $\lambda _ { 3 }$ on 3-space slice generalizing the critical density $\lambda$ in a 4-spacetime covariant theory.
+
+It is worth stressng that since the spatial slice depends on the definition of time, so the value of $\lambda _ { 3 }$ is not universal (not necessarilyequal to above $\frac { 1 2 \pi ^ { 2 } \lambda } { H _ { 0 } }$ in other frameorcutoff,unliketheuniversal4-spacetimecriticaldensity $\lambda$ ） but frame dependent. If a specific gauge of time or frame is chosen, $\lambda _ { 3 }$ could be considered fix and be used as a proportional to correlate the $\tau$ parameter with the temperature of the temporal static frame felds configuration in such a specific gauge of time. The 3-space energy density $\lambda _ { 3 }$ is very useful when we consider a temporal static GSRS spacetime or corresponding thermal equilibrium frame fields ensemble in later discussions.
+
+In summary,an important observation is that when $M ^ { 3 }$ is a shrinking Ricci soliton in a temporal static product shrinking soliton $M ^ { 3 } \times \mathbb { R }$ ，the global $\tau$ parameter of $M ^ { 3 }$ can be interpreted as a thermal equilibrium temperature defined by the Euclidean time periodic of the frame felds,up to a proportional being a 3-space energy density $\lambda _ { 3 }$ （204号 (satisfying eq.(74)） balancing the dimensions between $\tau$ and $T$ . Since temperature $T$ is frame dependent,so is the proportional $\lambda _ { 3 }$ . The observation gives us a reason why in Perelman's paper $\tau$ could be analogous to the temperature （204号 $T$ .The sameresultscan also beobtained ifone use the Lorentzian signature for thelabor base spacetimeof the frame felds theory(2).In thiscasethe thermal equilibrium of the spatial frame fields instead are subject to periodicity in the imaginary Minkowskian time $\mathbf { X } ( \mathbf { x } , 0 ) = \mathbf { X } ( \mathbf { x } , i \beta )$ ,but even though the base spacetime is Wick rotated,the path integral does not pick any imaginary $i$ factor in front of the action in (25) as the starting point, so the main results of the discussions retain independent to the signature of the base spacetime.
+
+# B.Thermodynamic Functions
+
+For the thermodynamic interpretation of the quantum reference frame and gravity theory,in this subsection,we derive other thermodynamic functions of the system beside the temperature in the previous subsection,which are similar with the ideal gas.Sothe frame felds system in the Gausian approximation canbe seenas asystem of frame fields gas,which manifests a underlying statistic picture of Perelman's thermodynamics analogies of his functionals. As convention, we all take the temperature $T = \lambda _ { 3 } \tau$ ， eq.(73), $D = 3$ and $\lambda$ replaced by $\lambda _ { 3 }$ , it is equivalent to choose a specific gauge of time for the thermal equilibrium frame fields configuration.
+
+When the spatial shrinking soliton $M ^ { 3 }$ is in temporal static $d X _ { 0 } = 0$ and in thermal equilibrium, the partition function of the thermal ensemble of the frame fields $\mathbf { X }$ can be given by the trace/integration of the density matrix,
+
+$$
+Z _ { * } ( \tau ) = \lambda _ { 3 } \int d ^ { 3 } { \bf X } u ( { \bf X } ) = \lambda _ { 3 } \int d ^ { 3 } { \bf X } e ^ { - \frac { { \bf x } ^ { 2 } } { 4 \tau } } = \lambda _ { 3 } ( 4 \pi \tau ) ^ { 3 / 2 } ,
+$$
+
+the normalized $u$ density can be given by the 3-dimensional version of eq.(45)
+
+$$
+u _ { * } ( \mathbf { X } ) = \frac { 1 } { Z _ { * } } u ( \mathbf { X } ) = \frac { 1 } { \lambda _ { 3 } ( 4 \pi \tau ) ^ { 3 / 2 } } e ^ { - \frac { \mathbf { x } ^ { 2 } } { 4 \tau } } .
+$$
+
+The partition function can also be consistently given by (35） with $D = 3$ in thermal equilibrium and hence the partition function of the frame fields in the shrinking soliton configuration
+
+$$
+{ \cal Z } _ { \ast } ( \tau ) = e ^ { \lambda _ { 3 } N _ { \ast } ( M ^ { 3 } ) - \frac { 3 } { 2 } } = \exp \left[ - \lambda _ { 3 } \int _ { M ^ { 3 } } d ^ { 3 } X u _ { \ast } \log u _ { \ast } - \frac { 3 } { 2 } \right] = \lambda _ { 3 } ( 4 \pi \tau ) ^ { 3 / 2 } = V _ { 3 } \left( \frac { 4 \pi \lambda _ { 3 } ^ { 1 / 3 } } { \beta } \right) ^ { 3 / 2 } = { \cal Z } _ { \ast } ( \beta ) \exp \left( \frac { \beta } { \lambda _ { 3 } } \right) .
+$$
+
+where $\begin{array} { r } { V _ { 3 } = \int d ^ { 3 } x } \end{array}$ is the 3-volume with the constraint $\lambda _ { 3 } V _ { 3 } = 1$ . The partition function is identified with the partition function of the canonical ensemble of ideal gas (i.e.non-interacting frame fields gas in the lab)of temperature $1 / \beta$ and gas particle mass $\lambda _ { 3 } ^ { 1 / 3 }$ .The interactions are efectively absorbed into the broadening of the density matrix and normalized mass of the frame fields gas particles.
+
+The physical picture of frame felds gas in thermal equilibrium lays a statistical and physical foundation to Perel man's analogies between his functionals and thermodynamics equations as follows.
+
+The internal energy of the frame felds gas can be given similar to the standard internal energy of ideal gas $\scriptstyle { \frac { 3 } { 2 } } T$ （20 given by the equipartition energy of translational motion in 3-space. Consider $\beta$ as the Euclidean time of the flat lab, the internal energy seen from an observer in the lab is
+
+$$
+E _ { * } = - \frac { \partial \log Z _ { * } } { \partial \beta } = \lambda _ { 3 } ^ { 2 } \tau ^ { 2 } \frac { \partial N _ { * } } { \partial \tau } = \lambda _ { 3 } ^ { 2 } \tau ^ { 2 } \mathcal { F } _ { * } = \frac { 3 } { 2 } \lambda _ { 3 } \tau = \frac { 3 } { 2 } T ,
+$$
+
+in which(52)with $D = 3$ and $\lambda  \lambda _ { 3 }$ have been used.
+
+The fluctuation of the internal energy is given by
+
+$$
+\left. E _ { * } ^ { 2 } \right. - \left. E _ { * } \right. ^ { 2 } = \frac { \partial ^ { 2 } \log Z _ { * } } { \partial \beta ^ { 2 } } = \frac { 3 } { 2 } \lambda _ { 3 } ^ { 2 } \tau ^ { 2 } = \frac { 3 } { 2 } T ^ { 2 } .
+$$
+
+The Fourier transformation of the density $u _ { * } ( \mathbf { X } )$ is given by
+
+$$
+u _ { * } ( { \bf K } ) = \int d ^ { 3 } X u _ { * } ( { \bf X } ) e ^ { - i { \bf K } \cdot { \bf X } } = e ^ { - \tau { \bf K } ^ { 2 } } ,
+$$
+
+since $u$ satisfies the conjugate heat equation (23), so $\mathbf { K } ^ { 2 }$ is the eigenvalue of the Laplacian $- 4 \Delta _ { X } + R$ of the 3-space, taking the value of the F-functional,
+
+$$
+{ \bf K } ^ { 2 } = \lambda _ { 3 } \int d ^ { 3 } X \left( R | \Psi | ^ { 2 } + 4 | \nabla \Psi | ^ { 2 } \right) = \lambda _ { 3 } \mathcal { F } ,
+$$
+
+SO
+
+$$
+u _ { * } ( { \bf K } ^ { 2 } ) = e ^ { - \lambda _ { 3 } \tau \mathcal { F } } .
+$$
+
+For a state taking energy $\lambda _ { 3 } ^ { 2 } \tau ^ { 2 } \mathcal { F } = E$ , the probability density of the state can be rewritten as
+
+$$
+u _ { * } ( E ) = e ^ { - \frac { E } { \lambda _ { 3 } \tau } } = e ^ { - \frac { E } { T } } ,
+$$
+
+which is the standard Boltzmann's probability distributionof the state.So we can see that the (Fourier transformed) manifolds densitycanbe interpreted as the thermal equilibrium canonical ensemble densityof the frame fields.
+
+The free energy is given by
+
+$$
+F _ { * } = - \frac { 1 } { \beta } \log Z _ { * } = - \lambda _ { 3 } \tau \log Z _ { * } = - \frac { 3 } { 2 } \lambda _ { 3 } \tau \log ( 4 \pi \tau ) ,
+$$
+
+similar with the standard free energy of ideal gas $- { \frac { 3 } { 2 } } T \log T$ up to a constant.
+
+The minus H-functional of Boltzmann at an equilibrium limit and the thermal entropy of the frame felds gas can ə given by the Shannon entropy
+
+$$
+\lambda _ { 3 } N _ { * } = S _ { * } = - \lambda _ { 3 } \int d ^ { 3 } X u _ { * } \log u _ { * } = \frac { 3 } { 2 } \left[ 1 + \log ( 4 \pi \tau ) \right] ,
+$$
+
+;imilar with the thermal entropy of fixed-volume ideal gas $\textstyle { \frac { 3 } { 2 } } \log T + { \frac { 3 } { 2 } }$ up to a constant. The thermal entropy can alsc oe consistently given by the standard formula
+
+$$
+S _ { * } = \log Z _ { * } - \beta \frac { \partial \log Z _ { * } } { \partial \beta } = \frac { 3 } { 2 } \left[ 1 + \log ( 4 \pi \tau ) \right] .
+$$
+
+which isin analogywith thefactthat the W functionalisthe Legendre transformationoftherelative Shannon entropy w.r.t. $\tau ^ { - 1 }$ .For this reason,the W functional is also an entropy function related to the (minus) thermodynamics entropy.
+
+In summary， we have seen that，under general frame felds (coordinates） transformation the Shannon entropy anomaly $N$ appearing in the partition function (32) (or relative Shannon entropy $\tilde { N }$ w.r.t. $N _ { * }$ ） has profound thermodynamics interpretations.The Ricci fow of frame fields lead to non-equilibrium and equilibrium thermodynamics of the quantum spacetime, we summarize the comparisons between them in the Table I and II.
+
+Table I: Frame felds in general Ricci fow at non-flow-limit and the Non-equilibrium thermodynamics.   
+
+<html><body><table><tr><td>Frame fields at non-Ricci-flow-limit</td><td>Non-equilibrium thermodynamics</td></tr><tr><td></td><td>Relative Shannon entropy: N =-ʃdXu(X,t)log u(X,t)Boltzmanian H function: H(t) = fdvp(v,t)logp(v,t)</td></tr><tr><td>Ricci flow parameter:t</td><td>Newtonian time: t</td></tr><tr><td>Monotonicity:d=-≥0</td><td>Htheorem:≤0</td></tr><tr><td>conjugate heat equation: ∂t =(-△+R)u</td><td>Boltzmann equation of ideal gas: O =-v · Vp</td></tr></table></body></html>
+
+<html><body><table><tr><td>Frame fields at the Ricci flow limit (GSRS)</td><td>Equilibrium thermodynamics of ideal gas</td></tr><tr><td>partition function: Z*(τ) = X3(4πτ)3/2</td><td>partition function: Z(T) =V3(2πmT)3/2</td></tr><tr><td>GSRS flow parameter: 入3T</td><td>temperature:T=β-1</td></tr><tr><td>T²F*=入3T</td><td>internal energy: E =-gZ =T</td></tr><tr><td>=e-入3TF manifold density: u*(K) = e-rK²</td><td>canonical ensemble density: ρ = e−</td></tr><tr><td>-λ3T log Z* = -入3τ log(4πτ)</td><td>free energy:F*= -Tlog Z(T)=-TlogT</td></tr><tr><td>Shannon entropy: X3N* = [1+log(4π𝑇)]</td><td>thermodynamic entropy:S* =  (1+logT)</td></tr><tr><td>W functional:W=TdN+N</td><td>first law of thermodynamics: E* - TS* = F*</td></tr><tr><td>Monotonicity: ≥0</td><td>second law of thermodynamics:δS≥0</td></tr></table></body></html>
+
+Table I:Frame felds inGradient Shrinking Rici Soliton(GSRS)configurationand theequilibrium thermodynamicsof deal gas.
+
+# V.APPLICATION TO THE SCHWARZSCHILD BLACK HOLE
+
+In this section,we try toapply the general statistic and thermodynamics interpretation of the quantum frame fields to a physical gravitationalsystem,as oneof the touchstoneof quantum gravity,i.e.tounderstand the statistical origin of the thermodynamics of the Schwarzschild black hole.
+
+# A． The Temperature of a Schwarzschild Black Hole
+
+Theregion in the vicinity of the origin ofa Schwarzschild black hole is an example of classical static shrinking Ricci soliton.A rest observer distant from it sees an approximate metric $M ^ { 3 } \times \mathbb { R }$ ，where the region in the vicinity of the origin of the spatial part $M ^ { 3 }$ is a shrinking Ricci soliton. The reason is as follows,because the black hole satisfies the Einstein's equation
+
+$$
+R _ { \mu \nu } - \frac { 1 } { 2 } g _ { \mu \nu } R = 8 \pi G \mathcal { T } _ { \mu \nu } ,
+$$
+
+where the stress tensor is a point distributed matter in rest with a mass $m$ at the origin $x = 0$ (seen from the distant rest observer)
+
+$$
+{ \mathcal { T } } _ { 0 0 } = m \delta ^ { ( 3 ) } ( \mathbf { x } ) , \quad { \mathcal { T } } _ { i j } = 0 \quad ( i , j = 1 , 2 , 3 ) ,
+$$
+
+where Latin index $i , j$ is for spatial index in the following. So we have
+
+$$
+R ( { \bf x } ) = - 8 \pi G \mathcal { T } _ { \mu } ^ { \mu } = 8 \pi G m \delta ^ { ( 3 ) } ( { \bf x } ) .
+$$
+
+From the Einstein's equation we have the Ricci curvature of $M ^ { 3 }$ is proportional to the metric of $M ^ { 3 }$
+
+$$
+R _ { i j } ( { \bf x } ) = 8 \pi G { \mathcal T } _ { i j } + \frac { 1 } { 2 } g _ { i j } R = \frac { 1 } { 2 } 8 \pi G m \delta ^ { ( 3 ) } ( { \bf x } ) g _ { i j } \quad ( i , j = 1 , 2 , 3 ) .
+$$
+
+The equation is nothing but a normalized shrinking Ricci soliton equation (43) for $M ^ { 3 }$ （20
+
+$$
+R _ { i j } ( { \bf x } ) = \frac { 1 } { 2 \tau } g _ { i j } ( { \bf x } ) \quad ( { \bf x } \approx 0 )
+$$
+
+with
+
+$$
+\delta ^ { ( 3 ) } ( { \bf x } ) \tau = \frac { 1 } { 8 \pi G m } ,
+$$
+
+where $\delta ^ { ( 3 ) } ( x )$ plays the role of the 3-space energy density $\lambda _ { 3 }$ in the vicinity of the origin,satisfying $\begin{array} { r } { \int d ^ { 3 } x \delta ^ { ( 3 ) } ( x ) = 1 } \end{array}$ （204号 as eq.(74),so by using the relation between $\tau$ and temperature $T$ (73)，we can directly read from the equation that a temperature seen by the lab's infinite distant rest observer is
+
+$$
+T = \delta ^ { ( 3 ) } ( { \bf x } ) \tau = \frac { 1 } { 8 \pi G m } ,
+$$
+
+which is the standard Hawking's temperature of the Schwarzschild black hole seen by a distant rest observer.
+
+Is the vacuum region outside the origin of the black hole alsoa shrinking Ricci soliton? One may naively think that the answer is no,since at the classical level, it seems $R _ { i j } = 0$ (not a shrinking soliton eq.(91)), since outside the origin is just vacuum.But as isdiscussed in the next subsection,we argue that it is not trueat thequantum level,if thevacuum and the vicinity region of the origin are in thermal equilibrium,they must bea shrinking Ricc solitons as a whole, i.e. $\begin{array} { r } { \langle R _ { i j } \rangle = \frac { 1 } { 2 \tau } g _ { i j } \ne 0 } \end{array}$ ， eq.(101) in the “vacuum”. The above result can be extended to the “vacuum” region outside the origin,the pricetopay is thatthe"vacuum"is fullof internal energy corresponding to the Hawking temperature.If the whole spacetime have not been in thermal equilibrium yet,the configuration has to irreversibly go on flowing toa common thermal equilibrium fixed point (a global shrinking Ricci soliton),leading to a global maximized entropy,as the H-theorem asserts.
+
+# B.The Energy of a Schwarzschild Black Hole
+
+In classical general relativity, the mass $m$ is often mentioned as the ADM energy of the black hole
+
+$$
+m = \int d ^ { 3 } { \bf x } \mathcal { T } _ { 0 0 } = \int d ^ { 3 } { \bf x } m \delta ^ { ( 3 ) } ( { \bf x } ) ,
+$$
+
+seen by the distant rest observer (w.r.t. the lab time $x _ { 0 }$ ).Here at the quantum level, the coordinates or frame felds and spacetime are quantum fuctuating,which gives riseto the internal energy related to the periodicity of the (Euclidean） lab time $x _ { 0 }$ (i.e. $\begin{array} { r } { \beta = \frac { 1 } { T } } \end{array}$ ). So,mathematically speaking, the anomaly of the trace of the stress tensor will modifythe total ADM mass at the quantum level,see (36).Since the anomalyof the action of the frame fields $\lambda _ { 3 } N _ { * }$ representing the spacetime part is always real,the internal energy of the frame fields is given by the (78)
+
+$$
+E _ { * } = - \frac { \partial \log Z _ { * } } { \partial \beta } = \frac { 3 } { 2 } T = \frac { 3 } { 1 6 \pi G m } ,
+$$
+
+in which we have considered the 3-space volume $V _ { 3 }$ outside the origin is in thermal equilibrium with the Hawking' temperature at the origin eq.(93), sharing the same equilibrium temperature $T$ in the 3-volume $V _ { 3 }$
+
+We can see that the internal energy $E _ { * }$ is an extra contribution to the total energy of the (black hole +“vacuum") system seen by the distant rest observer. Essentially this term can be seen as a quantum correction or a part of the trace anomalycontribution to the stres tensor,thus the total energy of the black hole including the classical ADM energy and the quantum fluctuating internal energy of the metric is
+
+$$
+m _ { B H } = \int d ^ { 3 } { \bf x } \left. T _ { 0 0 } \right. = m + E _ { * } = m + \frac { 3 } { 1 6 \pi G } \frac { 1 } { m } ,
+$$
+
+where the classical stress tensor $\mathcal { T } _ { 0 0 }$ is formally replaced by its quantum expectation value
+
+$$
+\langle \mathcal { T } _ { 0 0 } \rangle = m \delta ^ { ( 3 ) } ( \mathbf { x } ) + \frac { 3 } { 2 } \frac { T } { V _ { 3 } } .
+$$
+
+A quantum Equivalence Principle should assert that the total energy rather than only the clasical ADM mas :ontributes to the gravitation.
+
+For a macroscopic classical black hole, $m \gg \sqrt { \frac { 1 } { G } }$ , the first term ADM energy dominants the eq.(96),
+
+$$
+m _ { B H } \approx m .
+$$
+
+The second internal energy term is gradually non-negligible for a microscopic quantum black hole.An important efect of the existenceof the second term in (96)is,for a microscopic quantum black hole,it makes the total energy bound from below, the minimal energy is of order of the Planck mass
+
+$$
+m _ { B H } \geq \sqrt { \frac { 3 } { 4 \pi G } } \sim O ( m _ { p } ) ,
+$$
+
+which seems to prevent the black hole evaporating into nothing.
+
+Further more, the internal energy ${ \frac { 3 } { 2 } } T$ term contributing to the total energy $m _ { B H }$ and gravitation also demands that,notonlythe vicinityof the origin ofthe black holeisa shrinking soliton (as previous subsection claims),at the quantum level the whole 3-space is also the same shrinking soliton (i.e.satisfying eq.(91) with the identical $\tau$ globally and hence the same temperature $T$ everywhere for the whole 3-space), just replacing the $\delta ^ { ( 3 ) }$ -density in eq.(93) by the $\lambda _ { 3 }$ -density, which extends the $\delta ^ { ( 3 ) }$ -density at the origin to the outside region (the“vacuum"), we have
+
+$$
+T = \lambda _ { 3 } \tau = { \frac { 1 } { 8 \pi G m } } , \quad \mathrm { w i t h } \quad \int d ^ { 3 } { \bf x } \lambda _ { 3 } = \int d ^ { 3 } { \bf x } { \frac { \langle { \mathcal T } _ { 0 0 } \rangle } { m _ { B H } } } = 1
+$$
+
+for the whole thermal equilibrium 3-space,although at the classical level the vacuum $R _ { i j } ( x \ne 0 ) = 0$ is seem not a shrinkingsolitonoutsidethoigin.Thephysicalreasonstasparentthattheintealeegysotribtion $\frac { 3 I ^ { \prime } } { 2 V _ { 3 } }$ in $\left. \mathcal { T } _ { 0 0 } \right.$ also plays the role of an additional source of gravity outside the origin. For the whole 3-space with $\left. \mathcal { T } _ { 0 0 } \right. \ne 0$ and $\langle \mathcal { T } _ { i j } \rangle = 0$ ,the Einstein's equation for the whole 3-space is nothing but the Shrinking Ricci Soliton equation (91):
+
+$$
+\langle R _ { i j } \rangle = { \frac { 1 } { 2 } } \left. R \right. g _ { i j } = { \frac { 1 } { 2 } } 8 \pi G \left. { \mathcal { T } } _ { 0 0 } \right. g _ { i j } \approx { \frac { 1 } { 2 } } 8 \pi G m { \frac { \left. { \mathcal { T } } _ { 0 0 } \right. } { m _ { B H } } } g _ { i j } = { \frac { 1 } { 2 T } } \lambda _ { 3 } g _ { i j } = { \frac { 1 } { 2 \tau } } g _ { i j } \neq 0
+$$
+
+in which $\langle R \rangle = - 8 \pi G \langle T _ { \mu } ^ { \mu } \rangle = 8 \pi G \langle T _ { 0 0 } \rangle \neq 0$ is used in the“vacuum” outside the origin. The equation is in fact the spatial components of the Gradient Shrinking Ricci Soliton equation (43） where $\langle R _ { i j } \rangle = R _ { i j } + \nabla _ { i } \nabla _ { j } f$ ，the Gaussian/thermal broadening of the density matrix $u$ contributes to the classical curvature. The vicinity region of the originplus the“vacuum”outside the originof theblackholeasa whole,is nothing but globallashrinking Ricisoliton. The “vacuum” is not completely nothing at the quantum level but full of thermal particles $\langle T _ { 0 0 } ( x \ne 0 ) \rangle \ne 0$ .The Hawking temperature is essentially an Unruh effect,in certain sense,the Gradient Shrinking Ricci soliton equation, eq.(101),might playa more fundamental role than the Unruh's formula,which determines how local acceleration or gravitation gives rise to temperature.
+
+The internal energy of the spacetime frame fields is an additional and necessry source of gravity,although macroscopically it is toosmalltocontribute,atthequantum level itscontribution iscrucialforthe 3-space in thermal equilibrium just right beinga global shrinking Ricci soliton.The thermal internal energy coming from thequantum fluctuation of the 3-space gravitates normally as the quantum Equivalence Principle willassert.Otherwise,we have to face a paradox as follows. If we consider a frame $x$ having $\mathcal { T } _ { \mu \nu } ( x ) = 0$ everywhere, so according to the classical gravity $R _ { \mu \nu } ( x ) = 0$ everywhere, if we transform it to anther accelerating frame $x ^ { \prime }$ ， one expects $\mathcal { T } _ { \mu \nu } ( x )  \mathcal { T } _ { \mu \nu } ^ { \prime } ( x ^ { \prime } ) = 0$ and hence $R _ { \mu \nu } ^ { \prime } ( x ^ { \prime } ) = 0$ everywhere. However, according to the Equivalence Principle, in the accelerating frame $x ^ { \prime }$ （20 one should feel equivalent gravity $R _ { \underline { { \mu } } \nu } ^ { \prime } ( x ^ { \prime } ) \neq 0$ . It is clearly something is missing,a new dimension of the Equivalence Principle must be considered.In order to solve the paradox and retain the Equivalence Principle,a quantum efect (actuall the effect from the diffemorphism anomaly such as the trace anomaly or the Unruh effect） must be introduced so that theaccelerating frame must be particles creating from the“vacuum”and be thermal, which plays the role of an equivalent gravitational source making $R _ { \mu \nu } ^ { \prime } ( x ^ { \prime } ) \neq 0$ . The Hawking temperature in the internal energy termof eq.(96)is inessentialthe Unruh temperature playing such role.Inthissense,thevalidityof theEquivalence Principle should be extended to the reference frame described by quantum state.
+
+# C. The Entropy of a Schwarzschild Black Hole
+
+In the general framework,the entropy of the black hole comes from the uncertainty or quantum fluctuation moment of the frame fields given by the manifolds density $u$ ,more precisely, the thermalized black hole entropy is measured by the maximized Shannon entropy in terms of the probability distribution $u$ of the frame fields in the background of the black hole. So in this subsection,we calculate the $u$ density distributed around the Schwarzschild black hole and then evaluate the corresponding entropy as a measure of the black hole entropy. After a proper definition of a zero-point of the Shannon entropy, it gives a standard Bekenstein-Hawking entropy.
+
+For an observer in the distant lab rest frame, the contributions to the temporal static $u$ density around the black hole is two folds. Beside the thermal distribution $u _ { * }$ in the“vacuum” or bulk outside the black hole horizon,which gives rise to the ideal gas entropy (85) as the background entropy, there is an additional $\tilde { u }$ density distribute mostly in a exteriorthinshellnear the horizon,and sparselyin thebulk outside the horizon,which we willfocus on.Thereason is as follows.Because $\tilde { u }$ density satisfes the conjugate heat equation (23) on the classical background of the black hole,since the classical scalar curvature $R = 0$ outside the horizon,and the temperature (equivalently the parameter $\tau$ and the mass) can be seen unchange for the thermalized black hole i.e. = O, thus the conjugate heat equation for $\ddot { u }$ is approximately given by the 4-Laplacian equation on the Schwarzschild black hole
+
+$$
+\Delta _ { X } \tilde { u } ( X ) = 0 , \quad ( | { \bf X } | \ge r _ { H } ) .
+$$
+
+Now the temporal static density $\tilde { u } ( X )$ plays a similar role like a solution of the Klein-Gordon equation on the static backgroundof the black hole.Theapproximationof the conjugate heat equation is equivalent to interpret the KleinGordon modes as a“frst"-quantization probability density (not second-quantization fields).As is wel-known, there are modes faling intothe black hole horizon and hence disappearing from the outside observer's view.Just like the negative Klein-Gordon modes falling into the negative energy states below the groundstate.Inafat background, the amplitudes of the modes faling into and going out of the horizon are identical.Soin the second-quantization,the negative mode faling into the horizon can be reinterpreted as a single anti-particle with positive energy modes going out of the horizon with the identical amplitude.However,ina curved background,for instance,the spacetime near the black hole horizon,the statement is no longer true.The twoamplitudes difer from each other bya non-unitary equivalent factor.Thus the negative mode faling intothe black hole horizon areno longer bereinterpretedasasingle anti-particle mode going out,rather than multi-particles thermo-ensemble.At the situation,the density $\ddot { u }$ describes the ensemble density of modes going exterior the horizon $| \mathbf { X } | \geq r _ { H }$ which can be seen by an outside observer.
+
+Byaroutine calculation ofthe solution near the exterior black hole horizon resembling aRindler metric as a starting point，we denote the solution $\tilde { u } _ { \bf k } ( \rho )$ , in which $\mathbf { k }$ represents the Fourier component/momentum in the direction that are orthogonal to the direction of radius with $\rho = \log ( r - r _ { H } )$ ， $r$ the radius, $r _ { H } = 2 G m$ the radius of the horizon.The equation becomes
+
+$$
+- \frac { \partial ^ { 2 } \tilde { u } _ { \bf k } } { \partial \rho ^ { 2 } } + { \bf k } ^ { 2 } e ^ { 2 \rho } \tilde { u } _ { \bf k } = \omega ^ { 2 } \tilde { u } _ { \bf k } ,
+$$
+
+where $\omega$ is the eigen-energy of the modes.By using a natural boundary condition that $\tilde { u }$ vanishes at infinity,we can see that each transverse Fourier mode $\ddot { u } _ { \bf k }$ can be considered as a free 1+1 dimensional quantum field confined in a box, one wall of the box is at the reflecting boundary $\rho _ { 0 } = \log \epsilon _ { 0 }$ where $\epsilon _ { 0 } \approx 0$ ，and the other wall of the box is provided by the potential
+
+$$
+V ( \rho ) = \mathbf { k } ^ { 2 } e ^ { 2 \rho } ,
+$$
+
+which becomes large $V ( \rho ) \gg 1$ at $\rho > - \log \mathbf { k }$ . So we can approximate the potential by the second wall at $\rho _ { w } = - \log \mathbf { k }$ So the length of the box is given by
+
+$$
+\Delta \rho = \rho _ { w } - \rho _ { 0 } = - \log ( \epsilon _ { 0 } \mathbf { k } ) .
+$$
+
+Thus the thickness of the horizon is about $\Delta r \sim e ^ { \Delta \rho } \sim \epsilon _ { 0 } \mathbf { k }$
+
+The density $\tilde { u } _ { \bf k } ( \rho )$ is located in the box $\rho \in \left( \rho _ { 0 } , \rho _ { w } \right)$ . In other words, the solution of $\ddot { u }$ density is located mainly in a thin shell near the horizon $r \in ( r _ { H } , r _ { H } + \epsilon _ { 0 } { \bf k } )$ .Furthermore,the modes $\mathbf { k }$ is assumed normal distributed (with a tiny width described by the parameter $\tau$ ). In this picture,without solving the equation,we can approximately write down the natural solution as $\tilde { u } _ { \mathbf { k } } ( r ) \stackrel { \tau  0 } { \approx } \delta ( | \mathbf { k } | ) \delta ( r - r _ { H } )$ , while for finite and small $\tau$ , we have a nearly Gaussian form
+
+$$
+\tilde { u } _ { \bf k } ( r ) \approx \delta ( | { \bf k } | ) \cdot \frac { 1 } { ( 4 \pi \tau ) ^ { 1 / 2 } } e ^ { - \frac { ( r - r _ { H } ) ^ { 2 } } { 4 \tau } } \approx \frac { 1 } { ( 4 \pi | { \bf k } | ^ { 2 } \tau ) ^ { 1 / 2 } } e ^ { - \frac { ( r - r _ { H } ) ^ { 2 } } { 4 \tau } } , \quad ( r > r _ { H } )
+$$
+
+The exterior horizon solution can be consideredas the standing wave solution as the superposition ofthe modes faling into and coming out of the black hole horizon. Then we have (up to a constant)
+
+$$
+\log \tilde { u } _ { \mathbf { k } } ( r ) \stackrel { r \sim r _ { H } } { \approx } - \frac { 1 } { 2 } \log \left( | \mathbf { k } | ^ { 2 } \tau \right) .
+$$
+
+A routine calculation of the relative Shannon entropyor W-functional gives the entropy of each k-mode in the limit in which the width $\tau$ is very small,
+
+$$
+\begin{array} { r l r } {  { \lambda _ { 3 } \tilde { N } ( \tilde { u } _ { \mathbf { k } } ) = - \lambda _ { 3 } \int d ^ { 3 } X \tilde { u } _ { \mathbf { k } } \log \tilde { u } _ { \mathbf { k } } } } \\ & { } & { = \delta ( | \mathbf { k } | ) \int _ { r _ { H } } ^ { \infty } 4 \pi r ^ { 2 } d r \frac { 1 } { ( 4 \pi \tau ) ^ { 1 / 2 } } e ^ { - \frac { ( r - r _ { H } ) ^ { 2 } } { 4 \tau } } \frac { 1 } { 2 } \log ( | \mathbf { k } | ^ { 2 } \tau ) } \\ & { } & { \overset { \tau \simeq } { = } \delta ( | \mathbf { k } | ) \frac { 1 } { 4 } A \log ( | \mathbf { k } | ^ { 2 } \tau ) , } \end{array}
+$$
+
+where $A = 4 \pi r _ { H } ^ { 2 }$ is the area of the horizon.
+
+It is naturally to assume the momentum $\mathbf { k }$ in the horizon shell is homogeneous,
+
+$$
+| \mathbf { k } | = | k _ { r } | = | k _ { \bot } | ,
+$$
+
+where $k _ { r }$ is the momentum in the radius direction and $k _ { \perp }$ in the transverse directions on the horizon. When we integrate over all $\mathrm { k \Omega }$ -modes,we have the total relative Shannon entropy weakly depending to $\tau$ （204号
+
+$$
+\begin{array} { r l } & { \lambda _ { 3 } \tilde { N } ( \tilde { u } ) = \lambda _ { 3 } \displaystyle \int d ^ { 3 } \mathbf { k } \tilde { N } ( \tilde { u } _ { \mathrm { k } } ) } \\ & { \qquad = \frac { 1 } { 4 } A \displaystyle \int \frac { d ^ { 2 } k _ { \perp } } { ( 2 \pi ) ^ { 2 } } \log \left( | k _ { \perp } | ^ { 2 } \tau \right) \displaystyle \int d k _ { r } \delta ( k _ { r } ) } \\ & { \qquad \approx \frac { 1 } { 4 } A \displaystyle \int _ { 0 } ^ { 1 / \tau } \frac { 2 \pi k _ { \perp } d k _ { \perp } } { ( 2 \pi ) ^ { 2 } } \log \left( | k _ { \perp } | ^ { 2 } \tau \right) } \\ & { \qquad = \frac { 1 } { 4 } A \times \displaystyle \frac { 1 } { 2 \pi \tau } \left[ - \frac { \tau } { 2 \epsilon ^ { 2 } } \left( 1 - \log \frac { \tau } { \epsilon ^ { 2 } } \right) \right] } \\ & { \qquad \approx - \frac { A } { 1 6 \pi \epsilon ^ { 2 } } , } \end{array}
+$$
+
+in which the transverse momentum is effectively cut offat an inverse of a fundamental UV length scale $\epsilon ^ { 2 }$
+
+The relative Shannon entropy gives an area law of the black hole entropy. To determine the UV length cutoff $\epsilon ^ { 2 }$ we need toconsider thescaleat which therelative entropy is defined to bezero (notonlythe black hole is locally thermal equilibrium,but also the asymptotic background spacetime is globally thermal equilibrium),thus we need to consider the fow of the asymptotic background spacetime.A natural choice of a thermal equilibrium Rici fow limit of the background spacetime (the black hole is embedded) is an asymptotic homogeneous and isotropic Hubble universe with scalar curvature $R _ { 0 } = D ( D - 1 ) H _ { 0 } ^ { 2 } = 1 2 H _ { 0 } ^ { 2 }$ at scale $t _ { U V }$ where we could consider and normalize the relative entropy to be zero (leavingonlythe background ideal gas entropy),since there isno informationof the local shape distortions in such GSRS background becauseof the vanishing of its Weylcurvature,while the global curvature is non-zero which codes the information of its global volume shrinking.Under such definition,taking the normalized Shrinking Ricci soliton equation (43) and (22)，we have
+
+$$
+\tau _ { U V } = - t _ { U V } = \frac { D } { 2 R _ { 0 } } = \frac { 1 } { 6 4 \pi ^ { 2 } \lambda } k _ { U V } ^ { 2 } ,
+$$
+
+by using the critical density (68), which gives a natural cutoff corresponding to the scale $t _ { U V }$ ，
+
+$$
+\epsilon ^ { 2 } = k _ { U V } ^ { - 2 } = \frac { 1 } { D \pi } G = \frac { 1 } { 4 \pi } G .
+$$
+
+This is exactly the Planck scale, which is a natural cutoff scale induced from the Hubble scale $H _ { 0 }$ and $\lambda$ of the framework.However,itis worth stressing that thePlanck scaleisnottheabsolutefundamentalscaleofthetheory,it onlyhas meaning w.r.t.theasymptotic Hubble scale.Theonly fundamental scaleof the theoryis the critical density $\lambda$ which is given bya combination of both the Planck scale and Hubble scale,buteach individual Planck or Hubble scale does not have absolute meaning.The UV (Planck) cutoffscale could tend to infinity while the complementary (Hubble) scale correspondingly tends to zero (asymptotic flat background), keeping $\lambda$ finite and fixed.
+
+At this point, if we define a zero-relative-entropy for an asymptotic Hubble universe of scalar curvature $R _ { 0 }$ ，then the black hole in this asymptotic background has a non-zero thermodynamic entropy
+
+$$
+S = - \lambda _ { 3 } \tilde { N } ( \tilde { u } ) = \frac { A } { 4 G } ,
+$$
+
+up to the bulk background entropy $\lambda _ { 3 } N _ { * } = S _ { * } \ll S$ , eq.(86). Combining the relative Shannon entropy $\tilde { N }$ and the bulk thermal background entropy $N _ { * }$ ,and using the total partition functioneq.(35), $Z ( M ^ { 3 } ) = e ^ { \lambda _ { 3 } N - \frac { 3 } { 2 } } = e ^ { \lambda _ { 3 } ( N + N _ { * } ) - \frac { 3 } { 2 } }$ we can also reproduce the total energy of the black hole in (96)
+
+$$
+m _ { B H } = - \frac { \partial \log Z } { \partial \beta } = m + \frac { 3 } { 2 } T ,
+$$
+
+in which eq.(47) and $\begin{array} { r } { A = 4 \pi r _ { H } ^ { 2 } = 1 6 \pi G ^ { 2 } m ^ { 2 } = \frac { \beta ^ { 2 } } { 4 \pi } } \end{array}$ have been used.
+
+Diferent from the holgraphic ideathat the informationor entropyarecodedinthe (infinitethinand 2-dimensional) horizon or boundaryof a gravitational system,inthis framework where the coordinates of the spacetime geometry are smeared by quantum fuctuation,as a consequence that there is no mathematically precise notion of an infinite thinboundary ina“density manifolds”ingeneral,itis justasemi-clasicalconcept.Note that manifoldsdensity $u$ is mainly distributedatthehorizon withafnite thickness(although verysmal),，whichcontributes mostof the anomaly and entropy to theblack hole,soalthough theentropy (113) is proportional to thearea,the geometric gravitational entropy given by the framework essentially comes from the 3-volume (note the 3d integral in eq.(108)and eq.(110)) but the 2-surface boundary.Or in other equivalent words,here thearea of the horizon is fuctuating (due to its finite thickness rather fixed,while the total energyand hence the temperatureis fixed.In this sense,itisa canonical ensemble but an area ensemble as some ideas might suggest.
+
+# VI. CONCLUSIONS
+
+In this paper，we have proposed a statistical felds theory underlying Perelman's seminal analogies between his geometric functionals and the thermodynamic functions. The theory is based on a $d = 4 - \epsilon$ quantum non-linear sigma model,interpreted asaquantum reference frame.When we quantize the theory at the Gaussian approximation, the wavefunction $\Psi ( X )$ and hence the density matrix $u ( X ) = \Psi ^ { * } ( X ) \Psi ( X )$ eq.(13) can be written down explicitly. Based on the density matrix,the Ricifow of the frame felds (10)and the generalized Ricci-DeTurck fow (19)of the frame felds endowed with the density matrix is discussd.And further more,wefind that the density matrix has profound statistical and geometric meanings, by using it, the spacetime $( M ^ { D } , g )$ as the target space of NLSM is generalized to a density spacetime $( M ^ { D } , g , u )$ . The density matrix $u ( X , \tau )$ , satisfying a conjugate heat equation (23), notonlydescribesa (coarse-grained) probabilitydensityoffinding frame fields inalocal volume,but also describes a volume comparison between a local volume and the fiducial one.
+
+For the non-isometric natureof theRicci or Ricci-DeTurck fow,the classical diffeomorphism is broken down at the quantum level.Bythe functional integral quantization method,thechange of the measureof the functional integral can be given by using a Shannon entropy $N$ in terms of the density matrix $u ( X , \tau )$ ．The induced trace anomaly and itsrelation to the anomalies in conventional gravitytheories are also discussed.As the Shannon entropy fows monotonically to its maximal value $N _ { * }$ in a limit called Gradient Shrinking Ricci Soliton (GSRS),a relative density （20 $\ddot { u }$ and relative Shannon entropy $\tilde { N } = N - N _ { * }$ can be defined w.r.t. the flow limit. The relative Shannon entropy gives a statistical interpretation underlying Perelman's partition function (47). And the monotonicity of $\tilde { N }$ along the Ricci flow gives an analogous H-theorem (5O)fortheframe fields system.Asa sideefect,the meanings on thegravitational side of the theory is also discussed, in which a cosmological constant $- \lambda \nu ( B _ { \infty } ^ { 4 } ) \approx 0 . 8 \rho _ { c }$ as a UV counter term of the anomaly must be introduced.
+
+We find that a temporal static GSRS, $M ^ { 3 }$ ，as a 3-space slice of the 4-spacetime GSRS, $M ^ { 4 } = M ^ { 3 } \times \mathbb { R }$ ,is in a thermal equilibrium state,in which the temperature is proportional to the global $\tau$ parameter of $M ^ { 3 }$ （73)up to a 3-space energy density $\lambda _ { 3 }$ with normalization $\int d ^ { 3 } x \lambda _ { 3 } = 1$ . The temperature and $\lambda _ { 3 }$ both depend on the choice of time $\mathbb { R }$ . In the sense that $M ^ { 3 }$ is in thermal, its Ricci soliton equation eq.(91) or quantum (indistinguishable with thermal)fuctuationeq.(41),canbeconsidered as a generalization of the Unruh's formula,relating the temperature to local acceleration or gravitation. Based on the statistical interpretation of the density matrix $u ( X , \tau )$ ，we find thatthe thermodynamic partition function (75)at the Gaussan approximation is just a partition function of ideal gasof the frame felds.In this physical picture of canonical ensemble of frame felds gas,several thermodynamic functions,including theinternalenergy(78),the fre energy(84),the thermodynamic entropy(85),andtheensemble density (83)etc.can be calculated explicitly agreeing with Perelman's formulae, which gives an underlying statistical foundation to Perelman's analogous functionals.
+
+Wefind that the statistical felds theory of quantum reference frame can beused to give a possible underlying microscopicoriginof the spacetime thermodynamics.The standard resultsof the thermodynamicsof the Schwarzschild black hole,including the Hawking temperature,energy and Bekenstein-Hawking entropy can be successfull reproduced in the framework.And we find that when the fluctuation internal energy of the metric is taken into account inthe total energy,the energyof the black hole hasa lower bound of orderof the Planck energy,which avoid the quantum black hole evaporating into nothing.The internal energy or related temperature of the spacetime frame fields isanaditionalsourceofgravityalthough acroscopicallyit isverysall,atthequantumlevelitscontribution is necessary for a thermal equilibrium 3-space just right being a GSRS,otherwise,the Equivalence Principle would breakdown. In this paper,the extended quantum Equivalence Principle plays a fundamental role as a bridge from the quantum reference frame theory(asa statisticalfields or quantum felds theory onthe base/lab spacetime) to the quantum gravity.
+
+To sum up,the paper can be seen as an attempt to discuss the deep relations between these three fundamental themes: the difeomorphism anomaly，gravity and the spacetime thermodynamics,based on the statistical felds theory of quantum spacetime reference frame and the quantum Equivalence Principle.In the spirit of classical general relativity,if we trust the Equivalence Principle,one can not in principle fgure out whether one is inan absolute acelerating frame or inan absolute gravitationalbackground,which leads to a general covariance principle ordieomorphisminvarianceofthegravitational theory.However,atthequantum level,the issueisalitlesubtle.If an observer inanaccelerating frame sees the Unruh efect,i.e.thermal particles are creating in the“vacuum”,which seem leading to theunitarily inequivalence between the vacuums of,for instance,an inertialframe andanaccelerating frame,and hence the difeomorphism invariance is seen breakdown discussed as the anomaly in the paper.The treatment oftheanomaly inthe paperis that,the anomalyisonlycanceled inanobserver's labupto UVscale,where the frame canbeconsidered classical,rigidandcold,whileatgeneralscale theanomaly is notcompletelycanceled. Whether one can figure out that he/she is in an absolute accelerating frame by detecting the anomaly (Shannon $\tilde { N }$ （20 term)at general scale (e.g.by thermodynamic experiments detecting the vacuum thermal particle creation and hence find the non-unitarity)?Weargue that if theanswer is still“NO” in the spirit of thegeneral relativity,theanomaly term coming froma quantum general cordinates transformation must be also equivalently interpreted as the effects of spacetime thermodynamics and gravity.Because the 2nd order moment fuctuation of the quantum coordinates or a non-trivial manifolds density $u$ , which gives rise to the diffemorphism anomaly, also contributes to other 2nd order quantities (series coeffcients at second spacetime derivative)such as(i) the acceleration (second time derivativeof coordinates,e.g.leading touniform acceleration expansion or other acceleration discrepancies in theuniverse[il),(ii) the gravityor curvature (second spacetime derivativeof metric,e.g.see (9)and (18))and (i)the thermal broadening (second spatial derivativeof the manifolds densityor the ensemble density,e.g.see (41)and (73))at the same (2nd) order.In this sense,the validity of the classcal Equivalence Principle would be generalized to the quantum level to incorporate the efects of the quantum fuctuation of the spacetime coordinates or frame fields,so that,one in principle stillcannot fgureout and distinguish whether he/sheis in anaccelerating frame,orina gravitational feld or in a thermal spacetime (as a new dimension of the Equivalence Principle)，these three things have no absolute physical meanings and are indistinguishable any more in the framework.The clasical Equivalence Principle asserts the equivalenceof the frst two thingsat the frst order (mean level),thequantum Equivalence Principle aserts the equivalence of the three things even at the second order (variance level),even higher order.
+
+# Data availability statement
+
+All data that support the findings of this study are included within the article.
+
+# Acknowledgments
+
+This work was supported in part by the National Science Foundation of China (NSFC)under Grant No.11205149, and the Scientifc Research Foundation of Jiangsu University for Young Scholars under Grant No.15JDG153.
+
+[19]M.Dickson,Studies in HistoryandPhilosophyof Science PartB:Studies in HistoryandPhilosophyof ModernPhysics 35,195 (2004).   
+[20] S.D.Bartlett,T. Rudolph,and R.W. Spekkens,Rev. Mod. Phys.79, 555 (2007).   
+[21] R. Gambini, R.A. Porto,and J. Pullin, General Relativity and Gravitation 39 (2007).   
+[22]R.M.Angelo,NBrunner,S.PopescuA.J.Short,ndP.Srzypczyk,JournalofPhysicsA: MathematicalandToetical 44,145304 (2011).   
+[23] Flaminia, Giacomini, Esteban, Castro-Ruiz, Caslav,and Brukner, Nature communications 10 (2019).   
+[24] P.A. Hoehn, A.R.H. Smith,and M. P.E. Lock,Front.in Phys.9,181 (2021),2007.00580.   
+[25] D.Poulin, Int. J. Theor. Phys. 45,1189 (2006)，quant-ph/0505081.   
+[26] M. Castagnino,A. Foussats,R.Laura, and O. Zandron, Nuovo Cimento A 60:2,138 (1980).   
+[27] P. Candelas and D.W. Sciama,Physical Review D -1, 78 (1983).   
+[28] H. Hessling, Nuclear Physics B 415, 243 (1994).   
+[29] D. M. Greenberger,arXiv e-prints arXiv:1011.3719 (2010),1011.3719.   
+[30] L.Hardy,arXiv e-prints arXiv:1903.01289 (2019),1903.01289.   
+[31] S.Kolekar and T.Padmanabhan,arXiv e-prints arXiv:1308.6289 (2013),1308.6289.   
+[32] L. Smolin,arXiv e-prints arXiv:1610.01968 (2016),1610.01968.   
+[33] M. Gell-Mann and M. Lévy, Il Nuovo Cimento 16, 705 (1960).   
+[34] D.Friedan,Physical Review Letters 45,1057 (1980).   
+[35] D. Friedan, Annals of Physics 163, 318 (1980).   
+[36] J.Zin-Justin, Quantum field theory and critical phenomena (Oxford University Press,Oxford,2002).   
+[37] A. Codello and R. Percacci, Physics Letters B 672, 280 (2009).   
+[38] R.Percacci, arXiv preprint arXiv:0910.4951 (2009).   
+[39]S.V.Ketov,Quantumnon-linearsigma-models:fromquantumfeldtheorytosupersymmetry,onformalfeldteoyblack holes and strings (Springer Science & Business Media, 2013).   
+[40] C.De Rham,A. J. Tolley,and S.Y. Zhou, Physics Letters B 760 (2015).   
+[41]B.ChowandD.Knopf,TheRiccFlow:AnIntroduction:AnIntroductionvol.1(AmericanMathematicalSo.,2004).   
+[42] B. Chow,P.Lu,and L. Ni, Hamilton's Ricci flow,vol. 77 (American Mathematical Soc., 2006).   
+[43] P. Topping, Lectures on the Ricci flow, vol. 325 (Cambridge University Press, 2006).   
+[44] M. Carfora and K. Piotrkowska, Physical Review D 52, 4393 (1995).   
+[45] K.Piotrkowska,arXiv preprint gr-qc/9508047 (1995).   
+[46] M.Carfora and T.Buchert,in14th International Conference on Waves and Stability in Continuous Media,eds.N.   
+Mangana, R. Monaco, S. Rionero, World Scientific (2008),pp. 118-127.   
+[47] R. Zalaletdinov,Int. J. Mod. Phys.A23,1173 (2008),0801.3256.   
+[48] A.Paranjape, Ph.D. thesis,TIFR, Mumbai, Dept. Astron. Astrophys. (2009), 0906.3165.   
+[49] R. S.Hamilton, Journal of Differential Geometry 17, 255 (1982).   
+[50] R. S. Hamilton et al., Journal of Differential Geometry 24, 153 (1986).   
+[51] G.Perelman,arXiv preprint math/0303109 (2003).   
+[52] G.Perelman,arXiv preprint math.DG/0307245 (2003).   
+[53]W. X. Shi, Journal of Differential Geometry 30, 303 (1989).   
+[54]W. X. Shi, J.diffgeom 30,223 (1989).   
+[55] B.L. Chen and X.P. Zhu, Journal of differential geometry 74,119 (2005).   
+[56]W.Batat,M.Brozos-Vazqez,E.Garcia-RiondS.GavinoFerande,rXivprintsarXiv:103397(2010),397.   
+[57]M.Brozos-Vazquez,E.Garcia-Rio,and S.Gavino-Fernandez,arXive-prints arXiv:06.2924(2011),106.2924.   
+[58] V.Ruchin, S.I. Vacaru,and O.Vacaru,Eur. Phys. J.C 77,184 (2017),1312.2580.   
+[59]M.Brozos-Vzquez,E.Garcia-Rio,P.GkeyndS.Gavin-Ferandez,ariv-printsarXiv:1403.40(2014),43.4400.   
+[60] I. Bubuianu, S.I. Vacaru,and E.Veli Veliev,arXiv e-prints arXiv:1907.03541 (2019),1907.03541.   
+[61] I. Bubuianu, S. I. Vacaru,and E. V. Veliev,Annals of Physics 423,168333 (2020),1903.04920.   
+[62] S.I. Vacaru, European Physical Journal C 80,639 (2020),1905.12399.   
+[63] W.Wylie and D. Yeroshkin,arXiv e-prints arXiv:1602.08000 (2016),1602.08000.   
+[64]D.Bakryd.Emery,fsioshrcotrctis (pringerrlinHdelbrgerln,Heideberg,985),78-- 540-39397-9.   
+[65] D.M. DeTurck et al., Journal of Differential Geometry 18,157 (1983).   
+[66] F. Morgan, The American Mathematical Monthly 116,134 (2009).   
+[67] I. Corwin, Rose-Hulman Undergraduate Mathematics Journal 7, 2 (2006).   
+[68] S. M. Christensen and S. A. Fulling, Physical Review D 15, 2088 (1977).   
+[69] J. L. Cardy, Physics Letters B 215, 749 (1988).   
+[70] Z.Komargodski and A. Schwimmer, Journal of High Energy Physics 2011,1 (2011).   
+[71] J. Perez-Mercader,arXiv: High Energy Physics - Theory (1993).   
+[72] J. C. Gaite and D. O'Connor, Phys.Rev.D 54, 5163 (1996),hep-th/9511090.   
+[73] N.Bilic,B.Guberina,R.Horvat,H. Nikolic,and H. Stefancic,Phys.LettB 657,232 (2007),0707.3830.   
+[74] E.T. Tomboulis,Nucl.Phys.B 329,410 (1990).   
+[75] I. Antoniadis and E. Mottola, Phys. Rev. D 45, 2013 (1992).   
+[76]I.Antoniadis,in WorkshoponString Theory (Preceded by Spring Schoolon String Theoryand Quantum Gravity 30 Mar - 7 Apr) (1992),hep-th/9211055. [77] H. Salehi and Y.Bisabr,Int.J. Theor.Phys.39,1241(2000),hep-th/0001095.   
+[78] L.Ni, Journal of Geometric Analysis 14,87 (2004).   
+[79] H.-D.Cao,R.S.Hamilton,and T. Ilmanen,arXiv preprint math/0404165 (2004).   
+[80] H.-D.Cao,arXiv preprint arXiv:0908.2006 (2009).

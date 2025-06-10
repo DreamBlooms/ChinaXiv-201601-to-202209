@@ -1,0 +1,325 @@
+[
+    {
+        "type": "text",
+        "text": "Excited heavy baryon spectrum in large $N _ { c }$ heavy quark effective theory ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jong-Phil Lee $a$ \\*， Chun Liu $b$ t, and H. S. Song $\\cdot ^ { a }$ 村 $a$ Department of Physics and Center for Theoretical Physics, Seoul National University, Seoul 151-742, Korea （20 $b$ Korea Institute for Advanced Study, 207-43 Chungryangri-dong， Dongdaemun-ku, Seoul 130-012, Korea ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$L = 1$ excited heavy baryon masses are analyzed by heavy quark and large $N _ { c }$ expansions. In heavy quark limit,mass is parameterized by $\\Lambda$ and it is expanded further by spin-flavor breaking operators to the zeroth order of $1 / N _ { c }$ . Expanding coefficients will be fixed by more data on the excited baryons in the near future. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I.INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the near future, there will be large amount of data for orbitally excited heavy baryons. Understanding them will extend our ability in the application of QCD [1]. In this paper, we study their masses by using heavy quark and large $N _ { c }$ expansions. Heavy quark effective theory (HQET) [2] is a useful method to deal with hadrons containing a single heavy quark. Many features of heavy mesons and heavy baryons have been analyzed by using HQET. In $m _ { Q }  \\infty$ limit where $m _ { Q }$ is the heavy quark mass, heavy quark spin decouples from the strong interaction and the hadron respects heavy quark spin-flavor symmetry (HQS). To the order of $1 / m _ { Q }$ , the breaking of the HQS occurs. The excited heavy baryon masses can be expressed as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = m _ { Q } + \\bar { \\Lambda } + \\frac { c _ { 1 } } { 2 m _ { Q } } + \\frac { c _ { 2 } } { 2 m _ { Q } } + O ( \\frac { 1 } { m _ { Q } ^ { 2 } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where the parameter $\\Lambda$ is independent of heavy quark spin and flavor, and describes mainly the contributions of the light degrees of freedom in the baryon. Here $c _ { 1 }$ and $c _ { 2 }$ are given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { c _ { 1 } = - \\langle H _ { Q } ( v ) | \\bar { Q } _ { v } ( i D ) ^ { 2 } Q _ { v } | H _ { Q } ( v ) \\rangle } } \\\\ { { \\displaystyle c _ { 2 } = - \\frac { 1 } { 2 } Z _ { Q } \\langle H _ { Q } ( v ) | \\bar { Q } _ { v } g G _ { \\mu \\nu } \\sigma ^ { \\mu \\nu } Q _ { v } | H _ { Q } ( v ) \\rangle } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { Q } ( v )$ is the hadron state of velocity $\\boldsymbol { v }$ and $Z _ { Q }$ is the renormalization factor. The parameters $\\Lambda$ ， $c _ { 1 }$ ，and $c _ { 2 }$ should be determined by some nonperturbative methods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "At this stage, we use large $N _ { c }$ expansion to analyze the parameter $\\Lambda$ . Large $N _ { c }$ QCD has been developed to study the nonperturbative nature of hadrons [3]. In the large $N _ { c }$ limit, baryons can be treated as the bound state of infinite number of valence quarks. Witten described this system in the Hartree-Fock picture and gave $N _ { c }$ counting rules for the mesonbaryon scattering amplitudes [3]. Dashen, Jenkins and Manohar (DJM) found that there is a light quark spin-flavor symmetry for the ground state baryon sector in the large $N _ { c }$ （204 limit by deriving a set of consistency conditions (which was first derived by Gervais and Sakita [4]） for pion-baryon coupling constants according to the $N _ { c }$ counting rules [5]. It was shown later that this symmetry can be observed in the Hartree-Fock picture [6,7]. Namely, the s-wave states of low spin in the baryon multiplet are spin independent, while the states with spin of order $N _ { c } / 2$ are considerably modified by spin-spin and spin-orbit interactions. Orbitally excited baryons have also been studied [8-11]. As far as the baryon masses are concerned,Ref. [10] derived the consistency conditions of the strong couplings of the excited baryons to pions analogous to that of Refs. [4,5]. And Goity [9] made the analysis for the excited light baryons in the Hartree-Fock picture. Further development was made in Ref. [11]. We will adopt the Hartree-Fock picture to study $\\Lambda$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One problem of our method is the validity of the large $N _ { c }$ application. It is actually （204号 $N _ { c } - 2$ ， which is 1 in the real world, that will be taken as a large number, because heavy quark and the excited light quark are distinguished. In the case of excited light baryons, the number which is taken to be large is $N _ { c } - 1$ . And it seems that the large $N _ { c }$ approach describes the spectrum well[11]. This leads us to generalize the method to the excited heavy baryons, considering that the theoretical framework is interesting and our knowledge about non-perturbative HQET is poor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper is organized as follows. In Sec.II, excited heavy baryons are classified according to the large $N _ { c }$ spin-flavor structure of light degrees of freedom. In Sec.III, leading spin-flavor symmetry breaking operators involving spin-orbit, spin-isospin， and spin-orbitisospin correlations are introduced and their matrix elements are calculated in the basis given in Sec.II. The numerical results are obtained. A summary is given in Sec.IV. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II.CLASSIFICATIONOF THE EXCITED HEAVY BARYONS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The quantum numbers which describe the hadrons are angular momentum $J$ and isospin （204 $I$ . For the heavy hadrons, because of HQS, the total angular momentum of the light degrees of freedom $J ^ { l }$ becomes a good quantum number. In this case, the excited hadron spectrum shows the degeneracy of pair of states which are related to each other by HQS. For the baryons, the light degrees of freedom looks like a collection of $N _ { c } - 1$ light quarks with one ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of them being excited. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Experimentally, some of the excited charmed baryons have been discovered [12]. Among them, the lowest lying pair of states are $\\Lambda _ { c 1 } (  { \\frac { 1 } { 2 } } ) ^ { + }$ and $\\Lambda _ { c 1 } (  { \\frac { 3 } { 2 } } ) ^ { + }$ . They are of isospin $I = 0$ .In the constituent picture, the total spin of the light quarks $S ^ { l }$ is also zero [13]. This guides us to focus on the symmetric representation of the $N _ { c } - 1$ light quarks. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1(a) shows the Young's tableaux of symmetric representation of the $N _ { c } - 1$ quarks. The spin-flavor decomposition is the same as that of the ground state heavy baryons [5] with the rule $I = S ^ { l }$ for the non-strange baryons. In this case,it should be noted that one of the light quarks is orbitally excited with $l = 1$ . In real world $N _ { c }$ is fixed to be 3, so there are only two light quarks in the heavy baryon,and one of which is excited. The spin-flavor structure of these two light quarks is quite simple, $( I , S ^ { l } ) = ( 0 , 0 )$ and $( 1 , 1 )$ by assuming $N _ { f } = 2$ . All the possible states of excited heavy baryons are listed in Table I. The first two are $\\Lambda _ { c 1 } (  { \\frac { 1 } { 2 } } ) ^ { + }$ and $\\Lambda _ { c 1 } ( \\frac { 3 } { 2 } ) ^ { + }$ , respectively. For comparison, we also give out the mixed representation of the $N _ { c } - 1$ light quarks in Fig.1(b) and Table II. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is convenient to introduce $K$ -spin which is defined by $\\vec { K } = \\vec { I } + \\vec { S } ^ { l }$ ： $K$ is a good quantum number whenever there is a light quark spin-favor symmetry which is true for baryons in the large $N _ { c }$ limit.The symmetric representation corresponds to $K = 0$ , and the mixed one to $K = 1$ . From Tables I and II, we see that unlike the case of the excited light baryons [9], there is no mixing between the states belonging to different $K$ for the case of excited heavy baryon. Since there are only two Young boxes for light quarks,it is impossible to have the same $( I , S ^ { l } )$ pair with different $K$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III.MASS SPLITTINGS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With the classification of the excited heavy baryons described in the last section, their spectrum, especially the mass splittings among them will be studied by large $N _ { c }$ method in the heavy quark limit. If we really go to the large $N _ { c }$ limit, at the leading order $( N _ { c } \\Lambda _ { \\mathrm { Q C D } } )$ ， we will get a trivial result, that is all the finitely excited heavy baryons have the same mass as that of the ground state heavy baryon. This is simply because there are infinite number of light quarks, which are not excited , in both excited and ground state baryons. Compared to their contribution,the finitely excited quarks are negligible. Such a conclusion is not useful practically, because in real world, there is only one quark in the core. Interesting point of recent approaches [5-7] is that the mass splittings due to the spin-flavor structure can be analyzed by large $N _ { c }$ method. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Let us go to more details of large $N _ { c }$ method. One of the essential point of this method is the $N _ { c }$ counting rules of the relevant Feynman diagrams. In the Hartree-Fock picture of the baryons, the $N _ { c }$ counting rules require us to include many-body interactions in the analysis, instead of including only one- or two-body interactions. However， a large part of these interactions are spin-flavor irrelevant. Namely,this part contributes in the order （204号 $N _ { c } \\Lambda _ { \\mathrm { Q C D } }$ universally to all the baryons with different spin-flavor structure. The many-body Hamiltonians related to the spin-flavor structure which involve orbital angular momentum $L$ give $O ( 1 )$ contribution. It is desirable to adopt a working assumption that they can be treated perturbatively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We use the following operators which are used in [9] to analyze $\\Lambda$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\cal { H } } _ { L S } \\propto \\hat { a } ^ { \\dagger } ~ \\vec { L } \\cdot \\vec { \\sigma } ~ \\hat { a } } } \\\\ { { \\displaystyle ~ { \\cal { H } } _ { T } \\propto \\frac { 1 } { N _ { c } } G ^ { i a } G _ { i a } } } \\\\ { { \\displaystyle ~ { \\cal { H } } _ { 1 } \\propto \\frac { 1 } { N _ { c } } \\hat { a } ^ { \\dagger } ~ L ^ { i } \\otimes \\tau ^ { a } ~ \\hat { a } ~ G _ { i a } } } \\\\ { { \\displaystyle ~ { \\cal { H } } _ { 2 } \\propto \\frac { 1 } { N _ { c } } \\hat { a } ^ { \\dagger } \\{ L ^ { i } , L ^ { j } \\} \\otimes \\sigma _ { i } \\otimes \\tau ^ { a } ~ \\hat { a } ~ G _ { j a } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The first one $H _ { L S }$ is one-body Hamiltonian, while the others are two-body Hamiltonians. $G _ { i a }$ are the generators of the spin-flavor symmetry group SU(4),given by ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ^ { i a } = \\hat { a } ^ { \\dagger } \\sigma ^ { i } \\otimes \\tau ^ { a } \\hat { a }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $\\boldsymbol { \\sigma ^ { i } }$ and $\\tau ^ { a }$ being the spin and isospin matrices， respectively. Such structure gives coherent addition over $N _ { c } - 2$ core quarks. The first $G ^ { \\mathit { n a } }$ in $H _ { T }$ acts on the excited quark, the other $G _ { i a }$ 's on the $N _ { c } - 2$ unexcited light quarks, namely the core quarks. In our case, all the operators must be understood as the ones acting on the light degrees of freedom. Note that the higher order many-body Hamiltonian which contains more factor of $G _ { i a }$ can be reduced to those given in Eq.(3) [9]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The contributions to the baryon masses due to these Hamiltonians are obtained by calculating the baryonic matrix elements. The matrix elements of these operators between the states of light quarks which specify the states of excited heavy baryons are given as follows analogous to Ref. [9], ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\langle I _ { c } = \\displaystyle \\frac { 1 } { 2 } ; ~ I ~ I _ { 3 } ; ~ S ^ { l \\prime } ~ S _ { 3 } ^ { l \\prime } , ~ l = 1 ~ m ^ { \\prime } ~ | ~ H _ { T } ~ | ~ I _ { c } = \\displaystyle \\frac { 1 } { 2 } ; ~ I ~ I _ { 3 } ; ~ S ^ { l } ~ S _ { 3 } ^ { l } , ~ l = 1 ~ m \\rangle } } \\\\ { { { } } } \\\\ { { = 2 c _ { T } \\delta _ { S ^ { l \\prime } , S ^ { l } } \\delta _ { S _ { 3 } ^ { l \\prime } , S _ { 3 } ^ { l } } \\delta _ { m , m ^ { \\prime } } ( - 1 ) ^ { 1 - S ^ { l } - I } \\left\\{ { \\begin{array} { l l l } { { S ^ { l } ~ \\frac { 1 } { 2 } ~ \\frac { 1 } { 2 } } } & { { \\Bigg ] ~ \\Bigg \\{ ~ \\frac { 1 } { 2 } ~ 1 ~ \\frac { 1 } { 2 } ~ \\Bigg \\} } ~ , } } \\\\ { { 1 ~ \\frac { 1 } { 2 } ~ \\frac { 1 } { 2 } ~ \\Bigg \\} ~ \\Bigg \\{ ~ \\frac { 1 } { 2 } ~ I ~ \\frac { 1 } { 2 } ~ \\Bigg \\} ~ , } } \\end{array} \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle I _ { c } = \\displaystyle \\frac { 1 } { 2 } ; ~ I ~ I _ { 3 } ; ~ l = 1 , ~ S ^ { l \\prime } , ~ J ^ { l } ~ J _ { 3 } ^ { l } ~ | ~ H _ { L S } ~ | ~ I _ { c } = \\displaystyle \\frac { 1 } { 2 } ; ~ I ~ I _ { 3 } ; ~ l = 1 , ~ S ^ { l } , ~ J ^ { l } ~ J _ { 3 } ^ { l } \\rangle } } \\\\ { { \\displaystyle c _ { L S } ( - 1 ) ^ { S ^ { l } - S ^ { l \\prime } } \\sqrt { ( 2 S ^ { l } + 1 ) ( 2 S ^ { l \\prime } + 1 ) } \\sum _ { j = \\displaystyle \\frac { 1 } { 2 } , \\frac { 3 } { 2 } } ( 2 j + 1 ) \\{ j ( j + 1 ) - 2 - 3 / 4 \\} \\left\\{ \\begin{array} { l l l } { { \\frac { 1 } { 2 } } } & { { \\frac { 1 } { 2 } } } & { { S ^ { l } } } \\\\ { { 1 } } & { { J ^ { l } } } & { { j } } \\end{array} \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle I _ { c } = \\displaystyle { \\frac { 1 } { 2 } } ; ~ I ~ J _ { 3 } ; ~ l = 1 , ~ S ^ { l \\prime } , ~ J ^ { l } ~ J _ { 3 } ^ { l } ~ | ~ H _ { 1 } ~ | ~ I _ { c } = \\displaystyle { \\frac { 1 } { 2 } } ; ~ I ~ I _ { 3 } ; ~ l = 1 , ~ S ^ { l } , ~ J ^ { l } ~ J _ { 3 } ^ { l } \\rangle } } \\\\ { { \\mathrm { } 6 c _ { 1 } ( - 1 ) ^ { I - J ^ { l } + S ^ { l } - S ^ { l \\prime } - 1 } \\sqrt { ( 2 S ^ { l } + 1 ) ( 2 S ^ { l \\prime } + 1 ) } \\left\\{ \\frac { 1 } { 2 } ~ 1 ~ \\frac { 1 } { 2 } ~ \\right\\} \\left\\{ ~ S ^ { l } ~ 1 ~ S ^ { l \\prime } ~ \\right\\} \\left\\{ ~ 1 ~ 1 ~ 1 ~ 1 \\right\\} } } \\\\ { { \\mathrm { } \\ 6 c _ { 1 } ( - 1 ) ^ { I - J ^ { l } + S ^ { l } - 1 } \\sqrt { ( 2 S ^ { l } + 1 ) ( 2 S ^ { l \\prime } + 1 ) } \\left\\{ \\frac { 1 } { 2 } ~ I ~ \\frac { 1 } { 2 } ~ \\right\\} ~ \\left\\{ ~ \\frac { 1 } { 2 } ~ \\frac { 1 } { 2 } ~ \\frac { 1 } { 2 } ~ \\right\\} \\left\\{ ~ S ^ { l \\prime } ~ J ^ { l } ~ S ^ { l } ~ \\right\\} } } \\end{array} .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle I _ { c } = \\displaystyle { \\frac { 1 } { 2 } } ; ~ I ~ I _ { 3 } ; ~ l = 1 , ~ S ^ { l \\prime } , ~ J ^ { l } ~ J _ { 3 } ^ { l } ~ | ~ H _ { 2 } ~ | ~ I _ { c } = \\displaystyle { \\frac { 1 } { 2 } } ; ~ I ~ I _ { 3 } ; ~ l = 1 , ~ S ^ { l } , ~ J ^ { l } ~ J _ { 3 } ^ { l } \\rangle } } \\\\ { { 3 c _ { 2 } ( - 1 ) ^ { 1 + J ^ { l } + I + S ^ { l \\prime } + 2 S ^ { l } } \\sqrt { ( 2 S ^ { l } + 1 ) ( 2 S ^ { l \\prime } + 1 ) } \\left\\{ \\begin{array} { l l l } { { \\frac { 1 } { 2 } } } & { { 1 } } \\\\ { { \\frac { 1 } { 2 } } } & { { I } } & { { \\frac { 1 } { 2 } } } \\end{array} \\right\\} \\left\\{ \\begin{array} { l l l } { { 2 } } & { { 1 } } & { { 1 } } \\\\ { { J ^ { l } } } & { { S ^ { l \\prime } } } & { { S ^ { l } } } \\end{array} \\right\\} \\left\\{ \\begin{array} { l l l } { { S ^ { l \\prime } } } & { { S ^ { l } } } & { { 2 S ^ { l } } } \\\\ { { \\frac { 1 } { 2 } } } & { { \\frac { 1 } { 2 } } } & { { 1 } } \\\\ { { \\frac { 1 } { 2 } } } & { { \\frac { 1 } { 2 } } } & { { 1 } } \\end{array} \\right\\} \\left\\{ \\begin{array} { l l l } { { S ^ { l \\prime } } } & { { S ^ { l } } } & { { S ^ { l } } } \\\\ { { S ^ { l } } } & { { S ^ { l \\prime } } } & { { S ^ { l } } } \\end{array} \\right\\} , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $I _ { c }$ is the isospin of the core quarks. In real world ( $N _ { c } = 3$ ), there is only one quark in the core $( N _ { c } - 2 )$ s0 $I _ { c }$ is always equal to $\\textstyle { \\frac { 1 } { 2 } }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With these matrix elements, we can express the excited heavy baryon mass $M$ up to the zeroth order of $1 / m _ { Q }$ and $1 / N _ { c }$ as follows. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { M = m _ { Q } + \\bar { \\Lambda } ~ , } } \\\\ { { } } & { { } } & { { } } \\\\ { { } } & { { } } & { { \\bar { \\Lambda } = \\Lambda _ { 0 } + \\langle H _ { L S } \\rangle + \\langle H _ { T } \\rangle + \\displaystyle \\sum _ { i = 1 } ^ { 2 } \\langle H _ { i } \\rangle ~ , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $c _ { L S }$ ， $c _ { T }$ ,and $c _ { i }$ 's are the coeffcients which will be determined by experiments and $\\Lambda _ { 0 }$ （202 is the leading contribution to $\\Lambda$ which preserves the spin-flavor symmetry. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The numerical results are also given on the right hand side of Table I and II. Current data are $\\Lambda _ { c 1 } ^ { + } ( J = \\textstyle { \\frac { 1 } { 2 } } , \\frac { 3 } { 2 } ) = 2 5 9 3 . 9 \\pm 0 . 8$ ， $2 6 2 6 . 6 \\pm 0 . 8$ (MeV）[12]. This results in $- \\textstyle { \\frac { 1 } { 6 } } c _ { T } \\simeq 0 . 1$ GeV by taking $m _ { c } = 1 . 5$ GeV and $\\Lambda _ { 0 } = N _ { c } \\Lambda _ { \\mathrm { Q C D } } = 1 . 0$ GeV. More experimental data are needed to fix the unknown coefficients. In the work for the light excited baryons [9], $\\langle H _ { T } \\rangle$ yields the same value for a given tower so it can be absorbed into the leading contribution. In our case, as can be seen in Table I, $\\langle H _ { T } \\rangle$ gets different values in symmetric representation while in mixed representation it gives the same value for allthe states of the tower. Comparing with the mixed representation, mass splittings of the symmetric states due to $H _ { T }$ and $H _ { i }$ （20 are opposite in sign and three times smaller except for $( J ^ { l } , S ^ { l } ) = ( 1 , 0 )$ . This is due to the effect of different isospin. In the future, these coeffcients can be fitted after obtaining the three masses of the states with quantum numbers $( J ^ { l } , S ^ { l } ) = ( 0 , 1 )$ ， $( 1 , 1 )$ and $( 2 , 1 )$ in the symmetric representation. It would be a check for the validity of our method, if the results for $c _ { L S }$ ， $c _ { 1 }$ and $c _ { 2 }$ are in the reasonable range as that for $c _ { T }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IV.SUMMARY ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have analyzed the mass splittings of orbitally excited heavy baryons in terms of $1 / m _ { Q }$ （20 and $1 / N _ { c }$ expansions. In heavy quark limit, heavy quark spin decouples and the baryon is described by light degrees of freedom. At the zeroth order of $1 / N _ { c }$ , the light quark spin-flavor symmetry breaking effects which involve one 1-body operator and three 2-body operators have been calculated,and they are parameterized by several coefficients which need more data on excited charmed baryons to be fitted. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by KOSEF through SRC programm. Part of it was finished when one of us (C.L.） was visiting the University of Notre Dame. C.L. would like to thank Ikaros Bigi for hospitality. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] For reviews, see A.F. Falk, JHU-TIPAC-97014, hep-ph/9707295; J.G. Korner, Nucl. Phys. Proc. Suppl. 50 140 (1996). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2] For reviews, see N. Isgur and M.B. Wise, in B Decays, Ed. B. Stone, 2nd edition (World Scientific, Singapore, 1994),p. 231; M. Neubert, Phys. Rep. 245 259 (1994); I. Bigi, M. Shifman, and N. Uraltsev, Ann. Rev. Nucl. Part. Sci. 47 591 (1997).   \n[3] G. 't Hooft, Nucl. Phys. B72 461 (1974); E. Witten, Nucl. Phys. B160 57 (1979); For reviews, see S. Coleman， Aspects of Symmetry (Cambridge University Press, Cambridge, 1985); A.V. Manohar, hep-ph/9802419.   \n[4] J.-L. Gervais and B. Sakita, Phys. Rev. Lett. 52 87 (1984);Phys. Rev. D30 1795 (1984).   \n[5] R.F. Dashen and A.V. Manohar, Phys. Lett. B315 425, 438 (1993); E. Jenkins,ibid. 431, 441, 447 (1993); R.F.Dashen,E. Jenkins,and A.V. Manohar, Phys. Rev. D49 4713 (1994),D51 3697 (1995); E. Jenkins and R.F. Lebed, ibid. D52 282 (1995); J. Dai, R.F. Dashen, E. Jenkins, and A.V. Manohar, ibid. D53 273 (1996); E. Jenkins, ibid. D53 2625 (1996); D54 4515 (1996); D55 R10 (1997); For a review, see E. Jenkins,hep-ph/9803349.   \n[6] C. Carone, H. Georgi, and S. Osofsky, Phys. Lett. B322 227 (1994).   \n[7] M.A. Luty and J. March-Russell, Nucl. Phys. B426 71 (1994).   \n[8] C. Carone, H. Georgi, L. Kaplan, and D. Morin, Phys. Rev. D50 5793 (1994); C.E. Carlson, and C.D. Carone, Phys. Rev. D58 053005 (1998); ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "C.E. Carlson, and C.D. Carone, WM-98-110, hep-ph/9808356. [9] J.L. Goity, Phys. Lett. B414 140 (1997). [10] D. Pirjol, and T.M. Yan, Phys. Rev. D57 1449, 5434 (1998). [11] C.E. Carlson, C.D. Carone, J.L. Goity, and R.F.Lebed, WM-98-108, JLAB-THY-98-26, hep-ph/9807334. [12] C. Caso et al. (Particle Data Group), Eur. Phys. J. C3 1 (1998). [13] G. Chiladze and A.F. Falk, Phys. Rev. D 56 (1997) R6738. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "FIGURECAPTIONS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 Young's tableaux for (a) symmetric and (b) mixed representation of $N _ { c } \\mathrm { ~ - ~ } 1$ light quarks. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "TABLECAPTIONS ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 1. Excited heavy baryon states of the symmetric representation of $N _ { c } - 1$ light quarks ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 2. Excited heavy baryon states of the mixed representation of $N _ { c } - 1$ light quarks. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIGURES ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ed5bc28d14ea28832c0058615aecba1bfbbfae24fafcc4c01ee1415504386b3.jpg",
+        "img_caption": [
+            "FIG. 1. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/055da5da5f2a47a2cb92614ff72051a0cac0a9b60d87779b2fea3d531ff7e7ce.jpg",
+        "table_caption": [
+            "TABLES "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(J,I)</td><td>(Jl,sl) (H1)=(HLs)+(Ht)+∑²=1(Hi)</td></tr><tr><td>(1/2,0)</td><td>-CT</td></tr><tr><td>(3/2,0)</td><td>CT</td></tr><tr><td>(1/2,1)</td><td>-2cLs-54Cr+c1-C2</td></tr><tr><td>(1/2,1)</td><td>-CLs-5r +1g1 +2</td></tr><tr><td>(3/2,1)</td><td>-cLs-r+1c1 +1C2</td></tr><tr><td>(3/2,1)</td><td>geLs-</td></tr><tr><td>(5/2,1)</td><td>9cLs -T -sC1 -2</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/a866059e41757c6538566d60716bc32a2bf36edda83d339d9c6ceaca5619c9a3.jpg",
+        "table_caption": [
+            "TABLEI. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>(J,I)</td><td>(Jl,sl) (H1)=(HLs)+(Hr)+∑²=1<Hi)</td></tr><tr><td>(1/2,0)</td><td>(0,1) -2cLs + gT -3c1 +2C2</td></tr><tr><td>(1/2,0)</td><td>(1,1)</td></tr><tr><td>(3/2,0)</td><td>-CLS +1CT -c1-2</td></tr><tr><td>(3/2,0)</td><td>(2,1) 9cLs + 1scr +c1 +C</td></tr><tr><td>(5/2,0)</td><td>9Ls+1r + +2</td></tr><tr><td>(1/2,1)</td><td>(1,0)</td></tr><tr><td>(3/2,1)</td><td>(1,0)</td></tr></table></body></html>",
+        "page_idx": 12
+    }
+]

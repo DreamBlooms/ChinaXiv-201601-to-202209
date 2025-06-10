@@ -1,0 +1,440 @@
+[
+    {
+        "type": "text",
+        "text": "祁连山老虎沟地区大气颗粒物输送轨迹及潜在源区",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "余光明¹,²，徐建中²，康世昌²，任贾文²，崔晓庆²（1.安庆师范大学资源环境学院,安徽 安庆246000；2.中国科学院西北生态环境资源研究院 冰冻圈科学国家重点实验室,甘肃 兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：基于祁连山西段老虎沟冰川站 2010年1月至2011年10月大气颗粒物观测数据,通过HYSPLIT-4 后向轨迹模式,使用轨迹聚类分析、潜在源贡献因子法(PSCF)和浓度权重轨迹法(CWT）,研究了老虎沟地区不同粒径颗粒物( $\\mathrm { P M } _ { 1 0 } \\ : \\mathrm { , P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 }$ )传输路径及潜在源区的分布。结果表明： $\\textcircled{1}$ 影响研究区的气流轨迹主要来自偏西方向,夏季还受到偏东气流方向的影响,3类颗粒物质量浓度存在显著的季节变化,表现为春、夏季节高、秋冬季节低的特点。 $\\textcircled{2}$ PSCF 分析显示,春季颗粒物浓度高值与塔里木盆地东部和河西走廊西部等干旱半干旱地区沙尘向下游传输关系密切,夏季研究区颗粒物浓度高值的形成主要受到偏西方向的塔里木盆地周边、新疆北部、河西走廊西部等地区,以及研究区偏东方向的内蒙古西部、河西走廊、宁夏,甚至陕西西部等地区共同影响。 $\\textcircled{3}$ 春季CWT高值区分布在研究区西北和偏西2个方向,夏季CWT高值除了偏西方向上贡献,还有来自偏东方向河西走廊等地区的贡献。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：颗粒物污染；后向轨迹分析；潜在源区贡献；浓度权重轨迹法；祁连山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近些年来，大气污染物长距离跨区域传输引起了研究人员的广泛关注。在我国中东部地区，外源性污染物的远距离输送在大气污染事件形成和维持中起着重要作用。如北京市环保局公布的研究报告显示，北京市区域传输来源的贡献占全年 $\\mathrm { P M } _ { 2 . 5 }$ 的$2 8 \\% \\sim 3 6 \\%$ 。王自发等[1]研究发现,在静稳天气条件下京津冀地区仍存在显著的区域输送,Li等[2]研究发现，长江三角洲城市群、华北平原、山东半岛、辽宁中部等地区的大气污染物区域输送是形成我国东部区域性霾污染事件的重要因素，大气污染物区域输送主要发生在对流层底部 $0 \\sim 1 . 5 ~ \\mathrm { k m }$ 的高度范围。在西部青藏高原地区，关于南亚地区大气污染物跨境传输问题也有不少报道。Xia 等[3]基于地面观测数据和卫星遥感数据，研究了青藏高原纳木错地区的一次大气污染事件。从卫星数据可以看出，污染时期来自印度北部恒河平原上空的大气颗粒物可以传输至 $3 \\sim 5 ~ \\mathrm { k m }$ 高空，使得污染物跨过喜马拉雅山传输至青藏高原中部地区[3]。Luthi等[4]结合地面、空间遥感及在线观测和高分辨率后向轨迹，研究了大气污染物向偏远的喜马拉雅和青藏高原的传输路径。珠峰地区大气气溶胶样品的研究也发现该地区受南亚污染物输送影响的证据[5]。因此,深入分析大气污染物的区域输送特征对区域环境质量的防控和综合评价具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "青藏高原北缘老虎沟12号冰川地处祁连山西段北坡，为祁连山区最大的山谷冰川。本区地处亚洲粉尘活动的边缘地带，植被主要为高寒草甸，地表以裸露的风化岩石为主[6],气候具有典型大陆性特征。该地区远离人类活动区，周边没有明显的污染源，空气较为洁净。为了解气流远距离输送对污染物浓度水平的影响，本文基于 $\\mathrm { P M } _ { 1 0 } \\ 、 \\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 }$ 不同粒径颗粒物观测数据和HYSPLIT后向轨迹模式，使用气团轨迹聚类分析、潜在源贡献因子和浓度权重轨迹分析等方法，研究了不同气流输送轨迹对研究区颗粒物浓度的影响和大气颗粒物的潜在源区的分布，以期为青藏高原北部区域大气环境变化研究提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 颗粒物数据来源",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大气颗粒物浓度数据取自安装在中国科学院祁连山冰川与生态环境综合观测研究站大气化学观测平台 $( 3 9 . 5 ^ { \\circ } \\mathrm { N } , 9 6 . 5 ^ { \\circ } \\mathrm { E }$ ,海拔 $4 ~ 2 0 0 ~ \\mathrm { m } ,$ 的 $\\mathrm { G r i m m ~ } 1 8 0$ 仪器（德国，GrimmEDM180），该仪器采用激光散射原理实时测量大气中颗粒物含量，采样流量自动恒定在 $1 . 2 ~ \\mathrm { L } \\cdot \\mathrm { m i n } ^ { - 1 }$ ,可同时获取 $0 . 2 5 \\sim 3 2 ~ { \\mu \\mathrm { m } }$ 范围内的31个粒径分布情况，将体积浓度乘以颗粒物的密度换算为颗粒物的质量浓度，仪器数据记录间隔设置为 $5 ~ \\mathrm { m i n }$ ,笔者主要选取 $\\mathrm { P M } _ { 1 0 } \\left( 0 . 2 5 \\sim 1 0 ~ \\mu \\mathrm { m } \\right)$ 、$\\mathrm { P M } _ { 2 . 5 } \\left( 0 . 2 5 \\sim 2 . 5 ~ \\mu \\mathrm { m } \\right)$ 和 $\\mathrm { P M } _ { 1 } ( 0 . 2 5 \\sim 1 ~ \\mu \\mathrm { m } )$ 的日均质量浓度数据，时间范围为2010年1月至2011年10月，有效数据比例为 $7 5 . 6 \\%$ 0",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2气流后向轨迹聚类分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综合考虑大气颗粒物的滞留时间和外部污染源对老虎沟地区颗粒物污染的影响，在使用HYSPLIT模式计算后向轨迹时，高度选择为距地面 $2 0 0 \\mathrm { ~ m ~ }$ ，时间选择为 $3 \\mathrm { ~ d } ( 7 2 \\mathrm { ~ h ~ } )$ ，选用的气象数据为美国国家环境预报中心（NECP）提供的全球资料同化数据GDAS2010年1月至2011年10月数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区域气候环境要素季节变化显著，利用HYSPLIT4软件对2010—2011年各季节（春季：3—5月，夏季：6—8月，秋季：9—11月，冬季：12—2月）每日 $2 0 0 \\mathrm { ~ m ~ }$ 高度 $^ { 7 2 \\mathrm { ~ h ~ } }$ 后向气流轨迹进行计算，利用TrajStat软件提供的angledistance 算法对各季节气流轨迹进行聚类分析[7],得到了各类轨迹的空间分布、季节变化特征，并将颗粒物浓度数据与气流聚类结果进行关联，并统计了不同气流轨迹对应的日均$\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 质量浓度，2012年国家环保部发布的《环境空气质量标准》（GB3095-2012）中给出了 $2 4 \\mathrm { ~ h ~ }$ 平均 $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 二级浓度限值,对应的颗粒物质量浓度分别为 $1 5 0 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $7 5 \\mathrm { \\mu g } \\cdot \\mathrm { \\ m } ^ { - 3 }$ ，以此浓度限值作为标准计算了超过该限定值对应气流轨迹出现的概率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3大气颗粒物潜在源区分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大气颗粒物源区分布研究采用两种方法计算，分别为潜在源贡献分析法（PSCF，potential sourcecontributionfunction）和浓度权重轨迹分析法（CTW，concentration-weighted trajectorymethod）。其中，PSCF分析的主要思路是将研究区域格点化后，根据后向轨迹和实际观测结果计算每个网格对研究地点污染的相对贡献，从而了解污染物潜在源区的分布区域。PSCF值可以表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { P S F C } = n _ { i j } / N _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $i , j$ 为网格的编号； $n _ { i j }$ 为网格内包含的污染节点数； $N _ { i j }$ 为网格内所有轨迹的节点数。PSCF数值给出网格 $i , j$ 对研究区贡献的相对百分比。研究区域网格化后，必然存在部分网格内气流轨迹节点数较少，甚至为0的情况，为了减少PSCF计算数值存在的误差,部分学者采用权重因子 $\\boldsymbol { W } _ { i j } \\big ( \\leqslant 1 . 0 \\big )$ 来降低不确定性[8]。通常当某一网格中的 $n _ { i j }$ 小于研究区内每个网格内平均轨迹节点数的3倍时，考虑乘以权重系数 $\\boldsymbol { W } _ { i j }$ 。对于 $\\boldsymbol { W } _ { i j }$ 的选取，本文参考相关学者研究结果[8-10] 。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 . 0 , N _ { i j } < 8 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { { W _ { i j } } = \\begin{array} { l } { 0 . 7 0 , 2 0 < { N _ { i j } } \\leqslant 8 0 } \\\\ { 0 . 4 2 , 1 0 < { N _ { i j } } \\leqslant 2 0 } \\end{array} } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n0 . 0 5 , N _ { i j } { \\leqslant } 1 0\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用CWT分析法进一步计算了网格对研究地点贡献的数值。CWT分析法的原理是将气流轨迹与其对应的污染物浓度进行对比，以此确定对研究区污染物影响较大的源区。与PSCF不同的是，CWT分析并不需要定义污染轨迹。每个网格 $( i , j )$ 的浓度平均值 $\\overline { { C _ { i j } } }$ 表示为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { C _ { i j } } } ~ = ~ W _ { i j } \\cdot \\frac { 1 } { \\displaystyle \\sum _ { t = 1 } ^ { M } \\tau _ { i j } } \\cdot C _ { \\iota } \\cdot \\tau _ { i j \\iota }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { W } _ { i j }$ 为网格 $( i , j )$ 上的权重系数, $\\boldsymbol { W } _ { i j }$ 的选取与PSCF 算法一致; $\\mathbf { \\Omega } _ { \\iota }$ 为对应的气流轨迹编号; $\\boldsymbol { C } _ { \\iota }$ 是研究区气流轨迹 $\\textit { \\textbf { \\iota } }$ 经过网格 $( i , j )$ 时对应的大气颗粒物质量浓度,单位为 $\\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ $\\tau _ { i j \\dot { \\iota } }$ 是气流轨迹 $\\textit { \\textbf { \\iota } }$ 在网格 $( i , j )$ 内停留的时间。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1气团后向轨迹及聚类分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对研究区不同季节气团轨迹进行聚类分析，将气流轨迹分为3类。从表1和图1可以看出，影响研究区的气流主要为偏西方向气流，其中春季偏西气流占总轨迹数比例最高，达到 $9 2 . 7 \\%$ 。春季偏西气流又可分为长短两支，两者占春季气流轨迹的$3 1 . 8 \\%$ 和 $6 0 . 9 \\%$ ,对应的 $\\mathrm { P M } _ { 1 0 }$ 颗粒物浓度为126.5$\\mu \\mathrm { { g } } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ 和 $7 2 . 3 ~ \\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ 。长支气流可追溯至哈萨克斯坦东部沙漠地区，进入新疆后，翻过天山东移南下，途径新疆、甘肃西部的荒漠地区（如塔克拉玛干沙漠、库木塔格沙漠等），气流移动速度快，对应的颗粒物浓度高，日均 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 浓度出现超标概率高;短支偏西气流主要来自于新疆东部、甘肃西部，气流移动速度慢，对应的3类颗粒物浓度较高。此外，春季东北方向气流占总轨迹的 $7 . 3 \\%$ ，对应的颗粒物浓度最低。春季3类气流轨迹途径地区主要为干旱、半干旱的沙漠或戈壁地区，这些地区春季寒潮频繁发生，风速较大，此时地面开冻融化、气温回暖、降水稀少，空气干燥会扰动地表，沙土层变得疏松，遇到大风、降温等较强的天气系统活动时容易形成沙尘暴[11-12]。受沙尘天气影响,颗粒物浓度在春季最高。通常沙尘暴发期间 $\\mathrm { P M } _ { 1 0 }$ 浓度值较 $\\mathrm { P M } _ { 2 . 5 }$ 浓度值增幅更加明显[13]。老虎沟地区春季细颗粒物占比( $\\mathrm { P M } _ { 1 } / \\mathrm { P M } _ { 1 0 }$ 与 $\\mathrm { P M } _ { 2 . 5 } / \\mathrm { P M } _ { 1 0 }$ )在四个季节最低，间接说明粗粒径颗粒物含量相对较高。春季偏西方向$\\mathrm { P M } _ { 2 . 5 } / \\mathrm { P M } _ { 1 0 }$ 比例为0.57，低于东北方向气流的0.61，表明春季偏西气流携带至研究区沙尘气溶胶贡献相对较大。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/01cd2abecf47c49d06ee1df906a21c71eb064aa0643cba37491dd0d5196bdd34.jpg",
+        "table_caption": [
+            "表1不同季节气流轨迹聚类特征",
+            "Tab.1Descriptions of backward trajectory clusters in four seasons "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">季节</td><td rowspan=\"2\">轨迹 方向</td><td rowspan=\"2\">出现概率 1%</td><td rowspan=\"2\">沿途主要区域</td><td colspan=\"3\">质量浓度平均值/（μg·m-）</td><td colspan=\"2\">PMI0与PM2.5超标概率/%</td></tr><tr><td>PM1</td><td>PM2.5</td><td>PM10</td><td>PM10</td><td>PM2.5</td></tr><tr><td>春季</td><td>NW</td><td>31.79</td><td>哈萨克斯坦,新疆,河西走廊西部</td><td>16.80</td><td>66.69</td><td>126.48</td><td>22.92</td><td>25.00</td></tr><tr><td></td><td>NW</td><td>60.93</td><td>新疆东部,河西走廊西部</td><td>10.21</td><td>39.04</td><td>72.32</td><td>9.78</td><td>12.09</td></tr><tr><td></td><td>EN</td><td>7.28</td><td>蒙古南部,内蒙古西部,甘肃西部</td><td>10.85</td><td>31.26</td><td>53.97</td><td>1</td><td>9.09</td></tr><tr><td></td><td>平均</td><td></td><td></td><td>12.36</td><td>47.26</td><td>88.20</td><td>15.23</td><td>15.89</td></tr><tr><td>夏季</td><td>NW</td><td>31.91</td><td>新疆东部，甘肃西北部</td><td>12.30</td><td>41.34</td><td>68.24</td><td>4.44</td><td>4.44</td></tr><tr><td></td><td>W</td><td>48.23</td><td>新疆东部,河西走廊西部</td><td>11. 15</td><td>39.03</td><td>65.75</td><td>5.88</td><td>4.41</td></tr><tr><td></td><td>E</td><td>19.86</td><td>甘肃中部</td><td>13.32</td><td>43.87</td><td>78.18</td><td>21.43</td><td>21.43</td></tr><tr><td>秋季</td><td>平均</td><td></td><td></td><td>11.96</td><td>40.73</td><td>69.01</td><td>7.80</td><td>8.51</td></tr><tr><td></td><td>EN</td><td>30.86</td><td>内蒙古西部,河西走廊西部</td><td>7.61</td><td>17.62</td><td>27.35</td><td>1</td><td>1</td></tr><tr><td></td><td>SW</td><td>56.79</td><td>河西走廊西部</td><td>4.48</td><td>12.69</td><td>21.07</td><td>1</td><td>一</td></tr><tr><td></td><td>W</td><td>12.35</td><td>新疆东部,河西走廊西部</td><td>6.06</td><td>14.20</td><td>21.09</td><td>1</td><td>1</td></tr><tr><td></td><td>平均</td><td></td><td></td><td>5.64</td><td>14.40</td><td>23.01</td><td>1</td><td>1</td></tr><tr><td>冬季</td><td>WS</td><td>64.77</td><td>新疆东部，河西走廊西部</td><td>4.19</td><td>13.71</td><td>25.45</td><td>1</td><td>一</td></tr><tr><td></td><td>SWS</td><td>29.55</td><td>青海西北部,河西走廊西部</td><td>3.87</td><td>16.61</td><td>40.63</td><td>7.69</td><td>1</td></tr><tr><td></td><td>W</td><td>5.68</td><td>新疆中东部，河西走廊西部</td><td>16.47</td><td>68.80</td><td>137.50</td><td>20.00</td><td>20.00</td></tr><tr><td></td><td>平均</td><td></td><td></td><td>4.79</td><td>17.7</td><td>36.3</td><td>3.41</td><td>1.14</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/db05770e32c37803344bd1d030e4d144700165a9eb04e44186a2b9be142b7c4e.jpg",
+        "img_caption": [
+            "图1不同季节轨迹聚类路径图示",
+            "Fig.1Seasonal distribution of $2 0 0 \\mathrm { ~ m ~ }$ backward trajectory cluster "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "夏季气流轨迹主要表现为偏西、西北和偏东3个方向，夏季的降水日数多，颗粒物含量总体低于春季,但高于秋冬季。夏季 $\\mathrm { P M } _ { 1 } / \\mathrm { P M } _ { 1 0 }$ 与 $\\mathrm { P M } _ { 2 . 5 } / \\mathrm { P M } _ { 1 0 }$ 在4个季节最高，说明细粒径颗粒物含量相对较高。偏东方向气流接近总轨迹的 $20 \\%$ ,但其对应的平均$\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 浓度却是3类轨迹中最高的，相应的$\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 超标出现概率也比较高。需要指出的是，12号冰川毗邻粉尘的源区，并位于亚洲粉尘源地的下风向，一年四季均有可能发生强烈的沙尘事件[14-18],对1960—2012 年河西走廊中部沙尘暴研究表明，该地区春季是一年中沙尘暴出现最多的季节，春季沙尘暴日数达到全年的 $6 2 . 5 \\%$ ,其次是夏季[18]。夏季偏东气流对应的平均 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 浓度虽然比偏西与西北两支气流高，但偏东气流污染日对应 $\\mathrm { P M } _ { 1 } \\ 、 \\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 浓度要比偏西、西北两支气流明显小很多，这与夏季该地区沙尘天气关系密切。秋季气流轨迹的分布与春季类似，东北方向轨迹占总数的 $3 0 . 9 \\%$ ,对应的颗粒物浓度均为最高。冬季气流轨迹基本为偏西方向，各类颗粒物浓度均为最低的时段。总体来看，秋季和冬季是3类颗粒物浓度较低的时段，秋冬季节本身沙尘暴发生频率低，加上气温低，地面冻结或被冰雪覆盖后，沙土难以脱离地表进入大气环境中。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2污染气流潜在源区分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出，研究区颗粒物超标天气主要出现于春季和夏季。由于PSCF分析需要首先定义污染轨迹,本文将GB3095－2012 日均 $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 质量浓度 $1 5 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { m } ^ { - 3 }$ 和 $7 5 ~ { \\mu \\mathrm { g } } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ 二级标准限值作为污染轨迹的标准，计算了春季和夏季 $\\mathrm { P M } _ { 1 0 }$ 和$\\mathrm { P M } _ { 2 . 5 }$ 潜在源贡献因子。从图2及图3可以看出，计算出的两类颗粒物 $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 潜在源贡献因子变化趋势基本一致。春季塔里木盆地东部和河西走廊西部的干旱半干旱地区是 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 的主要潜在源区，这些潜在源区广泛分布戈壁与沙漠、沙漠化土地，且沙尘暴年总日数大于 $1 0 \\mathrm { ~ d ~ }$ ，是沙尘暴的高频区[19]。此外,来自哈萨克斯坦、新疆准噶尔盆地等地区的颗粒物通过远距离输送也可以到达研究区。夏季颗粒物的潜在源区主要分布在2个地区，一为研究区偏西方向的塔里木盆地周边、新疆北部、河西走廊西部等地区，其次为位于研究区偏东方向的内蒙古西部、河西走廊、宁夏，甚至陕西西部等地区。夏季研究区颗粒物超标天气的形成主要受到两者影响，特别是对于细颗粒物 $\\mathrm { P M } _ { 2 . 5 }$ 而言，来自偏东方向污染气流对该地区 $\\mathrm { P M } _ { 2 . 5 }$ 贡献更大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过MODIS卫星云图显示的研究区周边春季和夏季沙尘暴的影像，也可以比较清楚地看到来自塔里木盆地、库姆塔格沙漠等地区沙尘自西向东传输到研究区的情形。采用美国海军气溶胶分析与预测系统(NAAPS)模拟的春季颗粒物超标日气溶胶光学厚度的图像 $( 0 . 5 5 ~ \\mu \\mathrm { m }$ 通道），发现沙尘粒子对研究区域有较大影响。雪冰微粒是沉积在积雪中大气气溶胶的不溶部分，对老虎沟12号冰川微粒研究显示，微粒在春季和夏季浓度较高，春季浓度大于夏季[20],与本研究中大气颗粒物变化具有一致性。积雪中污化层富含大量不溶性微粒，老虎沟12号冰川雪坑污化层主要出现在春季和夏季层位[20-21],冰川中污化层微粒Sr-Nd稳定同位素特征与我国北方沙尘源区结果比较一致[22],体现了源区一致性。对研究区夏季大气颗粒物的理化特征研究表明，除了陆源物质的贡献，夏季河西走廊地区人类活动污染物输送对祁连山西部地区大气环境有非常重要的影响[23-25]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3颗粒物浓度权重轨迹分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用CWT分析法对不同季节老虎沟地区3类颗粒物的潜在源区进行计算，各季节颗粒物浓度权重轨迹分布情况。从图4\\~6可以清楚地看出，颗粒物浓度权重轨迹值存在明显的季节差异，呈现春夏季高、秋冬季节低的特点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在春季，对老虎沟地区颗粒物浓度权重轨迹值贡献较大的地区主要集中在塔里木盆地东部和河西走廊西部，为老虎沟地区颗粒物的最主要潜在源区，这些地区分布相对集中，对老虎沟地区日均 $\\mathrm { P M } _ { 1 0 }$ 贡献 $> 1 0 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ， $\\mathrm { P M } _ { 1 }$ 贡献 $> 1 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ;来自哈萨克斯坦、新疆准噶尔盆地等较远地区的颗粒物也有一定贡献。夏季浓度权重轨迹值较高的地区主要来自塔里木盆地周边、新疆北部、河西走廊西部等地区，对老虎沟地区颗粒物整体浓度贡献值较大( $\\mathrm { P M } _ { 1 0 }$ 贡献 $6 0 \\sim 1 0 0 ~ \\mu \\mathrm { g } \\cdot \\mathrm { ~ m ~ } ^ { - 3 }$ ），与PSCF结果不同的是，虽然夏季来自偏东方向路径对该地区污染气流浓度贡献较大，但偏东方向的内蒙古西部、河西走廊、宁夏，甚至陕西西部等地区CWT数值要比偏西方向总体要小。秋季是大气环流调整的季节，颗粒物整体浓度较低,冬季气流轨迹基本为偏西方向，各类颗粒物浓度均为较低的时段，主要以区域性贡献",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4186864be2143c82f482f388eba517a05f8dfc9b5f4aded531765105ed527ed.jpg",
+        "img_caption": [
+            "Fig.2Potential source contribution for $\\mathrm { P M } _ { 2 . 5 }$ during the spring and summer "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c70156b6435ad66d6e2d437dd8fdbddd6d8f697fb32e5243bc7efaf7fd17492f.jpg",
+        "img_caption": [
+            "图2春季和夏季 $\\mathrm { P M } _ { 2 . 5 }$ 的PSFC分析结果",
+            "图3春季和夏季 $\\mathrm { P M } _ { 1 0 }$ 的PSFC分析结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8bce514a7ba82169b29873ec8288b0d5e7b262bc06da395fd5ad40a7ca7d7ca.jpg",
+        "img_caption": [
+            "Fig.3 Potential source contribution for $\\mathrm { P M } _ { 1 0 }$ during the spring and summer ",
+            "图4不同季节 $\\mathrm { P M } _ { 1 }$ 的CWT分析结果",
+            "Fig.4Weighted potential source contribution for $\\mathrm { P M } _ { 1 }$ in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f900864ad05408848c7b81c3f77b9b4dfd5f2476418c6b0047c419ad5dbb669.jpg",
+        "img_caption": [
+            "Fig.5Weighted potential source contribution for $\\mathrm { P M } _ { 2 . 5 }$ in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/395b58ef86224d54637056a7f29103f3e892b8622b82992a48264d7ca7e90779.jpg",
+        "img_caption": [
+            "图5不同季节 $\\mathrm { P M } _ { 2 . 5 }$ 的CWT分析结果",
+            "图6不同季节 $\\mathrm { P M } _ { 1 0 }$ 的CWT分析结果",
+            "Fig.6Weighted potential source contribution for $\\mathrm { P M } _ { 1 0 }$ in different seasons "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为主。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在春季和夏季时，3类大气颗粒物的CWT值均为一年中较大的季节,特别是在春季来自研究区西部,西北和偏西2个方向的颗粒物CWT高值区的分布比较明显，这可能由春季这些地区沙尘随气流近距离及远距离扩散，影响到研究区所致。夏季除了偏西方向上的气流轨迹，还有偏东方向气流轨迹的贡献。说明来自于中亚粉尘源区的陆源矿物与河西走廊的人类活动污染是对青藏高原东北边缘高海拔区域的大气环境有明显作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）采用HYSPLIT-4模式计算2010年1月至2011年10月每日 $2 0 0 \\mathrm { ~ m ~ }$ 高度 $^ { 7 2 \\mathrm { ~ h ~ } }$ 后向气流轨迹，对到达老虎沟12号地区不同季节气流轨迹进行聚类分析，发现影响研究区的主要为偏西方向气流，夏季还受到偏东气流的影响，对应轨迹的3类颗粒物浓度存在显著的季节变化，表现为春夏高、秋冬低的特点。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）对春夏季 $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 潜在源贡献因子计算结果显示， $\\mathrm { P M } _ { 1 0 }$ 和 $\\mathrm { P M } _ { 2 . 5 }$ 潜在源贡献因子变化趋势基本一致。春季塔里木盆地东部和河西走廊西部的干旱半干旱地区是 $\\mathrm { P M } _ { 2 . 5 }$ 和 $\\mathrm { P M } _ { 1 0 }$ 的主要潜在源区，来自哈萨克斯坦、新疆准噶尔盆地等地区的颗粒物通过远距离输送也可以到达研究区。夏季研究区颗粒物超标天气形成与偏西方向塔里木盆地周边、新疆北部、河西走廊西部等地区，和位于研究区偏东方向的内蒙古西部、河西走廊、宁夏，甚至陕西西部等地区有关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）颗粒物浓度权重轨迹值存在明显的季节差异，春季和夏季较高，秋冬季节较低。春季位于研究区西北和偏西2个方向的颗粒物CWT高值区的分布比较明显。夏季除了偏西方向上的气流轨迹，还有偏东方向气流轨迹的贡献，表明老虎沟地区大气环境受来自于中亚粉尘源区的陆源矿物与河西走廊的人类活动污染的共同作用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］王自发,李杰,王哲,等.2013年1月我国中东部强霾污染的数值模拟和防控对策[J].中国科学：地球科学，2014，44（1）：3-14.[Wang Zifa,Li Jie,Wang Zhe,etal.Modeling studyofregionalsevere hazes over Mid-Eastern China in January 2O13 and its im-plications on pollution prevention and control[J].Scientia Sinica（Terrae）,2014,44（1):3-14.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[2]Li J,Wang Z,Huang H,et al.Assessing the effects of trans-boundary aerosol transport between various city clusters on reglonal haze episodes in spring over East China[J].Tellus,2013,65(1） :60 - 73. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[3]Xia X,Zong X,Cong Z,et al.Baseline continental aerosol over the central Tibetan Plateau and a case study of aerosol transport from South Asia[J]. Atmospheric Environment,2011,45（39）:7370 - 7378.   \n[4]Luthi Z L,Skerlak B,Kim S W,et al. Atmospheric brown clouds reach the Tibetan Plateau by crossing the Himalayas[J]. Atmospheric Chemistry and Physics,2015,15(11）:6007-6021.   \n[5]Cong Z,Kawamura K,Kang S,et al. Penetration of biomass-burning emissions from South Asia through the himalayas:New insights from atmospheric organic acids[J]. Scientific Reports,2015,5: 9580.   \n[6］杜文涛,秦翔,刘宇硕,等.1958—2005 年祁连山老虎沟12号 冰川变化特征研究[J].冰川冻土,2008,30（3）：373－379. [Du Wentao,Qin Xiang,Liu Yushuo,et al.Variation of the Laohugou Glacier No.12 in the Qilian Mountains[J].Journal of Glaciology and Geocryology,2008,30(3）:373-379.]   \n[7]Wang Y,Zhang X,Draxler R R. TrajStat: GIS-based software that uses various trajectory statistical analysis methods to identify potential sources from long-term air polution measurement data[J].Environmental Modellng & Software,2009,24（8）:938-939.   \n[8]Polissar A,Hopke P,Paatero P,et al.The aerosol at Barrow,Alaska:Long-term trends and source locations[J]. Atmospheric Environment,1999,33（16）:2441- 2458.   \n[9]Zhang F,Zhou L,Novelli P,et al. Evaluation of in situ measurements of atmospheric carbon monoxide at Mount Waliguan,China [J].Atmospheric Chemistry and Physics,2011,11（11）:5195 - 5206.   \n[10] Zeng Y,Hopke P.A study of the sources of acid precipitation in Ontario,Canada[J].Atmospheric Environment,1989,23（7）： 1499 - 1509.   \n[11］霍文,何清,杨兴华,等.2007—2008 年库姆塔格沙漠沙尘天气 特征与天气分型[J].中国沙漠,2011,31（4）：1037－1045. [Huo Wen,He Qing,Yang Xinghua,et al. Characteristics of sanddust weather over Kumtagh Desert during 2OO7-2OO8 and the weather styles[J]. Journal of Desert Research,2011,31(4）:1037 -1045.]   \n[12］邱新法,曾燕,缪启龙.我国沙尘暴的时空分布规律及其源地 和移动路径[J].地理学报,2001,68（3）:316-322.[Qiu Xinfa,Zeng Yan,Miao Qilong.Temporal-spatial distribution as well as ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "tracks and source areas of sand-dust storms in China[J].Acta Geographica Sinica,2001,68(3）:316-322.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］蒋雨荷，王式功，靳双龙，等.中国北方一次强沙尘暴天气过程的大气污染效应[J].干旱区研究，2018，35（6）：1344-1351.[Jiang Yuhe,Wang Shigong,Jin Shuanglong,etal.Air pollution ina strong sandstorm in North China[J].Arid Zone Research,2018,35(6) :1344 -1351.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[14］董安祥，白虎志，陆登荣，等.河西走廊强和特强沙尘暴变化趋势的初步研究［J].高原气象,2003,22（4）：422－425.［DongAnxiang,Bai Huzhi,Lu Dengrong,etal.Primary study on strongand very strong dust storm trend in Hexi Passageway[J].PlateauMeteorology,2003,22(4）:422-425.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[15］李韧,季国良.敦煌地区大气气溶胶光学厚度的季节变化[J].高原气象,2003,22（1）:84-87.［LiRen,JiGuoliang.The sea-sonal variation of aerosol optical depth in Dunhuang area[J].Plat-eauMeteorology，2003,22(1):84-87.」",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[16］高振荣，邵亮，李光林.敦煌地区沙尘天气特征分析[J].干旱气象,2010,28（1）：59-64.［Gao Zhenrong，Shao Liang,LiGuanglin.Characteristics analysis of the sand-dust weather in Dun-huang Area[J]. Journal of Arid Meteorology,2010,28（1）:59 -64.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[17］李宽，熊鑫，王海兵，等.内蒙古西部高频沙尘活动空间分布及 其成因[J].干旱区研究,2019,36（3）:657-663.［Li Kuan， Xiong Xin,Wang Haibin,et al.Spatial distribution and formation causes of frequent dust weather in West Inner Mongolia[J].Arid Zone Research,2019,36(3）:657-663.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[18］刘洪兰，张强，张俊国,等.1960—2012年河西走廊中部沙尘暴空间分布特征和变化规律[J].中国沙漠，2014，34(4)：1102-1108.［Liu Honglan,Zhang Qiang,Zhang Junguo,et al. Spatialdistribution and variation of sandstorms in the central Hexi Corridorduring 1960-2012[J]. Journal of Desert Research,2014,34（4）：1102 -1108.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[19」常生华，李广，侯扶江.我国沙尘暴发生日数的空间分布格局[J].中国沙漠,2006,26（3）：384-388.［Chang Shenghua,LiGuang,Hou Fujiang.Spatial distribution of sand-dust storm weath-erin China[J].Journalof Desert Research,2006,26（3）:384-388.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[20］余光明，徐建中，康世昌，等.祁连山老虎沟12号冰川雪冰中不溶性微粒沉积特征[J」.干旱区研究，2016，33（2）：320-326.［Yu Guangming,Xu Jianzhong,Kang Shichang,etal.Deposi-tional features of insoluble micropaticles in snowpack on GlacierNo.12 in the Laohugou Valley,Qilian Mountains[J].Arid ZoneResearch,2016,33(2):320-326.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[21］余光明，徐建中，康世昌，等.祁连山老虎沟12号冰川微粒在 沉积后过程的变化特征[J].冰川冻土，2014，36（6)：1394- 1402.［Yu Guangming,Xu Jianzhong,Kang Shichang,et al. Postdepositional process features of the insoluble microparticles on the Laohugou Glacier No.12,Qilian Mountains[J]. Journal of Glaciology and Geocryology,2014,36(6):1394-1402.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[22]XuJ,Yu G,KangS,et al.Sr-Nd isotope evidence for modern aeolian dust sources in mountain glaciers of Western China[J].Journal of Glaciology,2012,58(211):859-865. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[23］王泽斌,徐建中，余光明,等.祁连山大雪山地区大气 $\\mathrm { P M } _ { 2 . 5 }$ 细粒子中可溶性离子特征［J].冰川冻土，2013，35（2）：336-344.[Wang Zebin,Xu Jianzhong,Yu Guangming,etal.The char-acteristics of soluble ions in $\\mathrm { P M } _ { 2 . 5 }$ aerosol over the Qilianshan sta-tion of glaciology and ecologic environment[J]. Journal of Glaciol-ogy and Geocryology,2013,35（2）:336-344.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[24］张艳阁，徐建中，余光明.祁连山老虎沟地区夏季大气颗粒物中水溶性离子的变化特征[J].冰川冻土，2017，39（5）：1022-1028.［Zhang Yange,Xu Jianzhong,Yu Guangming. The changingcharacteristics of soluble ions in $\\mathrm { P M } _ { 2 . 5 }$ in summer over Laohugouregionin the Qilian Mountains[J]. Journal of Glaciology and Geo-cryology,2017,39(5):1022-1028.]",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[25]Xu J,Wang Z,Yu G,et al.Seasonal and diurnal variations in aerosol concentrations at a high-altitude site on the northern boundary ofQinghai-XizangPlateau[J].Atmospheric Research,2O13,120： 240-248. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Trajectory analysis of atmospheric transport of particles in Laohugou area,Western Qilian Mountains ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "YU Guang-ming1，XUJian-zhong²，KANG Shi-chang2，RENJia-wen²，CUXiao-qing² (1．School of Resources and Environment,Anqing Normal University,Anqing 246ooO,Anhui,China ;   \n2.StateKeyLaboratoryofCryosphericSciences,NorthwestInstituteofEco-EnvironmentandResources,ChineseAcademy ofSciences,Lanzhou 730o0o,Gansu,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract:From January 2010 to October 2011,we analyzed characteristics of atmospheric particulate mater based on theobserveddata of atmospheric particulates in the Laohuogou area,in the western Qilian Mountains.The HYSPLIT-4 backward trajectory model was used to simulate the transport paterns and potential source areas of diffrent-sized particles.Theresults showed thatthe westerly jetflow affected the studyarea throughout the year,and thesummer was influenced bythe easterly airflow.Particulate matter concentrations showed significant seasonal changes,which were higher in spring/summerand lowered in fal/winter.PSCFanalysis showed that the pollution of $\\mathrm { P M } _ { 2 . 5 }$ and $\\mathrm { P M } _ { 1 0 }$ in spring was closely connected with dust transmisson from arid and semi-arid areas,such as the eastern Tarim Basin and western Hexi Coridor.High PSFC values in the air massduring summer mainly came from two areas：one was from the westward directionand included the Tarim Basin,northern Xinjiang,and the Western Hexi Corridor,and the other was from theeastward directionand included western Inner Mongolia,the Hexi Corridor,Ningxia,and western Shaanxi.HigherCWT values were distributed in thenorthwestand the west of the study area during the spring period.In summer,high CWTvalues also appeared fromthe Hexi corridor and other eastward areas,which demonstrate that they are the potential source areas of the particulate matter. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words：particulate mater pollution；cluster analysis；potential source contribution function；concentrationweighted trajectory method；Qilian Mountains ",
+        "page_idx": 8
+    }
+]

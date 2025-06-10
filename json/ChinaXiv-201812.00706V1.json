@@ -1,0 +1,503 @@
+[
+    {
+        "type": "text",
+        "text": "半胱胺盐酸盐对冬毛期雄性水貂毛皮品质、血清生化和激素指标及肝脏相关基因表达的影响孙伟丽」　樊燕燕²张　婷」王　卓」 李恒伟 李光玉1\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国农业科学院特产研究所，吉林省特种经济动物分子生物学国家重点实验室，长春130112；2.牧原食品科技股份有限公司，洛阳，420106；3.山东亚康检测技术有限公司，潍坊261101)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮中添加半胱胺盐酸盐（CSH）对冬毛期雄性水貂毛皮品质、血清生化和激素指标及肝脏相关基因表达的影响。选择160日龄体重[（2.13±0.10）kg]相近的健康冬毛期雄性水貂56只，随机分为7组，每组8个重复，每个重复1只。各组分别饲喂在基础饲粮中添加0（I组，对照组）、60（ⅡI组）、90（I组）、120（IV组）、60（V组）、90（VI组）、 $1 2 0 \\mathrm { m g / k g }$ （VII组）CSH的试验饲粮；其中，ⅡI、II、IV组添加方式为连续添加， $\\mathrm { \\Delta V }$ 、VI、VI组添加方式为间隔添加（连续添加1周，间隔1周)。预试期7d，正试期 $5 1 \\mathrm { d }$ 。结果表明：1）VI和VII组水貂皮长、针毛长度和绒毛长度显著或极显著高于对照组（ $P { < } 0 . 0 5$ 或$P { < } 0 . 0 1$ )。2)II、II、V、VI、VII组血清尿素氮含量显著或极显著低于对照组 $( P { < } 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ )，II、III、V、VI、VI组血清甘油三酯含量显著或极显著低于对照组（ $_ { . P < 0 . 0 5 }$ 或 $P { < } 0 . 0 1$ )。3)VI组血清生长激素含量显著高于对照组和IV组（ $_ { . } { \\cdot } { \\cdot } { \\cdot } 0 . 0 5 \\rangle$ ，ⅡI、II、VI组血清生长抑素含量显著低于对照组和IV组（ $_ { \\cdot \\textcircled { P } < 0 . 0 5 }$ )，ⅡI、II、IV、V、VI、VII组血清生长激素受体含量显著或极显著高于对照组 ( $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )，ⅡI、II、V、VI、VII组血清胰岛素样生长因子-I含量显著高于IV组（ $\\scriptstyle P < 0 . 0 5 .$ )。4）VI组肝脏胰岛素样生长因子-I基因表达量显著高于对照组和II、IV、V组（ $_ { . P < 0 . 0 5 } )$ ，VI组肝脏胰岛素样生长因子-I受体基因表达量显著高于II、IV、V组中 $\\scriptstyle \\cdot { P < 0 . 0 5 }$ )，ⅡI、III、IV、V、VI、VII组肝脏生长激素受体基因表达量显著或极显著高于对照组（ $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。由此可见，在本试验条件下，冬毛期雄性水貂饲粮中CSH的适宜添加水平为 $9 0 \\mathrm { m g / k g }$ ，适宜添加方式为间隔添加。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：半胱胺盐酸盐；水貂；毛皮品质；血清指标；基因表达中图分类号：S816.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "半胱胺盐酸盐（cysteamine hydrochloride，CSH）作为一种功能性饲料添加剂，具有多种生物学作用，主要表现在通过调节内分泌功能、耗竭生长抑素（SS）来促进动物生长[1]，这在鸡、猪等畜禽及水产动物生产上已得到证实。CSH作为一种 SS 抑制剂的出现，在畜禽生产上被广泛应用，主要在于其可以通过神经内分泌途径来调控畜禽的生长。CSH主要通过抑制机体外周组织和中枢神经组织的 SS 免疫活性和生物活性发挥作用，从而相对提高机体生长激素（GH）含量，促进动物生长，是一种高效的 SS 抑制剂。有研究表明，CSH可以降低垂体催乳素含量，抑制多巴胺羟化酶活性[2-4]。多巴胺羟化酶可以催化多巴胺生成去甲肾上腺素，其活性的抑制导致多巴胺在下丘脑大量蓄积，从而促进GH的合成和分泌，进而促进动物生长。CSH可以引起动物机体组织（胰腺、消化道和中枢神经组织等）和血清中 SS 免疫活性的迅速丧失，且在胰腺组织中，CSH在抑制胰岛细胞中 SS 免疫活性的同时，可禁止胰岛细胞分泌 $\\mathrm { S S ^ { [ 5 - 8 ] } }$ ；Mcleod 等[9]研究发现，CSH可以提高机体胰岛素、胰岛素样生长因子-I（IGF-I)、三碘甲腺原氨酸（T3）、甲状腺素（T4）的分泌。这些激素是促进机体生长发育，参与机体同化作用的重要激素，对动物生长具有一定的促进作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "影响毛皮动物产毛品质的一个关键因素是饲料营养，营养调控技术是改善毛皮动物皮张质量、提高养殖效益的关键技术。王忠艳[10]研究发现，在饲粮中每隔 5d添加 $7 0 \\mathrm { m g / k g }$ BW的CSH可以提高银狐平均日增重和饲料转化率，同时对繁殖期银狐产仔率也有一定的改善作用。白世平等[1]研究发现，饲粮添加CSH可以提高育成期雄性水貂的平均日增重和整个生长期的血清GH、T3、T4和IGF-I含量，对毛皮品质也有一定的改善作用。黄卉[12]研究发现，在干粉饲粮中添加 $2 0 \\mathrm { m g / k g }$ 的CSH可以提高貉平均日增重、营养物质消化率、饲料转化率和毛皮品质，同时提高血清中总蛋白（TP）、胆固醇（CHO)、高密度脂蛋白（HDL）、低密度脂蛋白（LDL）和甘油三酯（TG）含量。徐银学等[13I研究发现，饲粮添加 $5 \\mathrm { m g / d }$ 的CSH对海狸鼠有一定的促生长作用，同时可以提高血清GH和IGF-I含量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CSH对毛皮动物有一定的促生长作用，但是作用机理还有待进一步探讨。根据以上背景，结合水貂的生理特点及CSH的作用机理开展本试验，旨在研究饲粮中添加CSH对冬毛期雄性水貂毛皮品质、血清生化和激素指标及肝脏相关基因表达的影响，以期为CSH在水貂生产上的应用提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验所用CSH为 $\\beta$ -CD-CSH，由上海华扩达生化科技有限公司提供，是以β-环糊精与CSH等营养活性物质，采用超分子技术、仿生物膜技术和维持生理稳态技术，经特殊工艺生产的",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "生理代谢调控添加剂，具有一定的稳定性，CSH有效成分含量 $23 0 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验在中国农业科学院特产研究所毛皮动物实验基地进行。试验采用双因子试验设计，影响因素为CSH的添加水平和添加方式。选取160 日龄体重[ $( 2 . 1 3 { \\pm } 0 . 1 0 \\$ ）kg]相近的健康雄性水貂 56只，随机分为7组，每组8个重复，每个重复1只。预试期7d，正试期 51d。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 试验饲粮与饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基础饲粮为参照 NRC[14]（1982）中有关的水貂营养需要量，并结合本课题组多年来试验结果设计的冬毛期饲粮。基础饲粮组成及营养水平见表1。各组分别饲喂在基础饲粮基础中添加0（I组，对照组）、60（II组）、90（组）、120（IV组）、60（V组）、90（VI组）、 $1 2 0 \\mathrm { m g / k g }$ （VII组）CSH的试验饲粮；其中，II、III、IV组添加方式为连续添加，V、VI、VII组添加方式为间隔添加（连续添加1周，间隔1周)。试验动物单笼饲养，由专人进行饲养管理，每日08:00 和15:00各饲喂1次，自由采食并保证充足饮水。观察试验动物健康状况并做好记录。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6a675431b1d5359e69ac8e1c81b2a87f1ed3f2fb0b70c0e259e3a88aa2921000.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1 Composition and nutrient levels of the basal diet (air-dry basis) % "
+        ],
+        "table_footnote": [
+            "1’预混料为每千克饲粮提供 The premix provided the following per $\\mathbf { k g }$ of the diet: VA $1 0 0 0 0 \\mathrm { { I U } }$ ， $\\mathrm { V D } _ { 3 } 2 0 0 0 \\mathrm { I U }$ VE 100 IU, $\\mathrm { V B } _ { 1 } 6 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 1 0 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 6 ~ \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 1 \\ : \\mathrm { m g }$ ， $\\mathrm { V K } _ { 3 } \\mathrm { 1 ~ m g }$ ， $\\mathrm { V C } 4 0 0 \\mathrm { m g }$ ，烟酸 nicotinic acid $3 0 \\mathrm { m g }$ ，$D$ 泛酸 $D$ pantothenic acid $4 0 ~ \\mathrm { m g }$ ，生物素biotin $0 . 2 \\mathrm { m g }$ ，叶酸 folic acid $1 \\mathrm { m g }$ ，胆碱choline $4 0 0 ~ \\mathrm { { m g } }$ ,Fe $8 2 \\mathrm { m g }$ ，$\\mathrm { C u } 2 0 \\mathrm { m g }$ ， $\\mathrm { M n } \\ 1 2 0 \\ \\mathrm { m g }$ ， $\\mathrm { { Z n 5 0 } \\mathrm { { m g } } }$ ， $\\mathrm { ~ I ~ } 0 . 5 \\ : \\mathrm { m g }$ ， $\\mathrm { S e } 0 . 2 \\mathrm { m g }$ ， $\\mathrm { C o } 0 . 3 \\mathrm { m g }$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料 Ingredients</td><td></td></tr><tr><td>海鲶鱼 Catfish</td><td>8.91</td></tr><tr><td>安康鱼 Anglerfish</td><td>9.90</td></tr><tr><td>鸡肝 Chicken liver</td><td>11.88</td></tr><tr><td>鸡骨架 Chicken skeleton</td><td>27.72</td></tr><tr><td>鸡腺胃Glandular stomach</td><td>20.79</td></tr><tr><td>膨化玉米 Extruded corn</td><td>19.80</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels</td><td></td></tr><tr><td>干物质 DM</td><td>28.09</td></tr><tr><td>粗蛋白质 CP</td><td>39.21</td></tr><tr><td>粗脂肪 EE</td><td>20.45</td></tr><tr><td>代谢能ME/(MJ/kg)2)</td><td>16.51</td></tr><tr><td>钙Ca</td><td>2.01</td></tr><tr><td>磷P</td><td>1.30</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2’代谢能为计算值，其他为实测值。ME was a calculated value,while the others were measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4样品采集与指标测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 毛皮品质指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲养试验结束后，采用皮下注射氯化琥珀胆碱的方法对动物实施安乐死后，取皮后上煊板由鼻尖到尾根测定皮长，并用精密刻度尺测量背中部皮肤的针毛长度、绒毛长度。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.2血清生化和激素指标测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲养试验结束后，每组挑选6只健康水貂，屠宰前每只水貂心脏采血 ${ \\boldsymbol { 5 } } \\mathrm { m L }$ ，装入促凝采血管，迅速带回实验室， $4 0 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，分离血清于 $1 . 5 ~ \\mathrm { m L }$ EP 离心管中， ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 冷冻保存备用。血清生化指标[TP、白蛋白（ALB）、球蛋白（GLO）、尿素氮（UN）、TG、CHO含量］采用全自动生化分析仪（SelectraE，荷兰）测定，严格按照试剂盒要求进行操作，试剂盒购自中生北控生物科技股份有限公司。血清激素指标[GH、SS、生长激素受体（GHR)、IGF-I、胰岛素样生长因子-I受体（IGF-IR）、 ${ { \\mathrm { T } } _ { 3 } }$ 、 $\\mathrm { T } _ { 4 }$ 含量]采用酶联免疫吸附测定（ELISA)试剂盒进行测定，严格按照试剂盒要求进行操作，试剂盒购自南京中生北控生物科技股份有限公司。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 肝脏相关基因表达量测定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "饲养试验结束后，对试验动物实施安乐死。解剖取肝脏 $5 { \\sim } 1 0 ~ \\mathrm { g }$ ，放入RNase-free 冻存管中，现场置入液氮保存，隔天转入 ${ } ^ { - 8 0 } { } ^ { \\circ } { \\mathrm { C } } { } .$ 冷藏。准备试剂如下：RNase-free、DNase-free Water、氯仿、异丙醇、无水乙醇,Trizol、反转录试剂盒、PCR 试剂盒、DNA Marker DL500、pMDTM18-TVector、琼脂糖凝胶DNA 回收试剂盒、荧光定量PCR反应试剂盒。采用 Trizol 法提取水貂肝脏总RNA，参照 TaKaRa的反转录试剂盒，采用两步法进行，第1步去除基因组DNA，第2步反转录。 $\\beta$ -肌动蛋白（ $\\beta$ -actin）引物参照张海华[15]设计；根据GenBank 中水貂IGF-I序列（登录号:FJ_472818.1）、胰岛素样生长因子-1受体（IGF-IR)序列（登录号:XM_004759809.1）和生长激素受体（GHR）序列（登录号：XM_004737948.2）利用Primer 5.0 设计特异性引物;引物由华大基因合成，PCR 引物序列见表2。基因的表达量用 $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ 法计算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表2PCR 引物序列",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b55cf43b515bae4900a047cdf61655be6f0d631e479de921ff13a81ee1041af.jpg",
+        "table_caption": [
+            "Table 2 Primersequence forPCR "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因Genes</td><td>引物序列 Primer sequence（5'-3')</td><td>退火温度 Tm/C</td><td>产物大小 Product size/bp</td></tr><tr><td>β-肌动蛋白</td><td>F:GCGTGACATCAAGGAAGAAGC</td><td>60.0</td><td>87</td></tr><tr><td>β-actin</td><td>R:CCGTCGGGTAGTTCGTAGCT</td><td>61.9</td><td rowspan=\"2\"></td></tr><tr><td>胰岛素样生长因子-1</td><td>F:TATTTCAACAAGCCCACG</td><td>50.3</td></tr><tr><td>IGF-I</td><td>R:GTTTCCTGCACTCCCTCT</td><td>54.9</td><td>231</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6589270de8c3dc8b4ab0449f290730029a6096130a979c84bc7aa873d4b7572b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>胰岛素样生长因子-1受体</td><td>F:CTATACAGCCCGGATCCAGG</td><td>61.9</td></tr><tr><td>IGF-IR</td><td>R:TACAGCACTCCATTCCCCAG</td><td>59.8</td></tr><tr><td>生长激素受体</td><td>F:AAAGCCTTACCACTACCGCT</td><td>57.8</td></tr><tr><td>GHR</td><td>R:AGTTGGTCTGTGCTCACGTA</td><td>57.8</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "数据采用统计软件 SAS9.1进行双因素方差分析(two-way ANOVA)，差异显著性采用Duncan 氏法进行多重比较，再采用GLM程序对数据进行多因子统计分析，数据以平均值士标准差表示。 $P { > } 0 . 0 5$ 为差异不显著， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1CSH对冬毛期雄性水貂毛皮品质的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，饲粮中添加CSH显著影响了水貂皮长、针毛长度和绒毛长度（ $\\scriptstyle P < 0 . 0 5$ ）°水貂皮长随着CSH添加水平的提高而增大，VI和VII组显著高于对照组（ $\\scriptstyle ( P < 0 . 0 5 )$ ；针毛长度、绒毛长度分别以VII和VI组最高，分别极显著（ $\\scriptstyle \\cdot < 0 . 0 1$ ）和显著（ $P { < } 0 . 0 5$ ）高于对照组。CSH添加方式极显著影响了水貂针毛长度 $( P { < } 0 . 0 1 )$ ，间隔添加组极显著高于连续添加组 $( P { < } 0 . 0 1 )$ 。CSH添加水平显著影响了水貂针毛长度( $\\cdot P { < } 0 . 0 5 \\$ )’ $9 0 \\mathrm { m g / k g }$ 添加组显著高于 60 和 $1 2 0 \\mathrm { m g / k g }$ 添加组（ $_ { . P < 0 . 0 5 ) }$ 。CSH添加方式和添加水平对水貂针毛长度、绒毛长度有显著或极显著交互作用（ $\\scriptstyle P < 0 . 0 5$ 或 $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ ）",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/572332eefe8863838469ba2da0d29e4daa14dea86e35da34d9dd36bfc1ab8e33.jpg",
+        "table_caption": [
+            "表3CSH对冬毛期雄性水貂毛皮品质的影响",
+            "Table 3Effects of CSH on fur quality of male minks during winter fur-growing period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td></td><td>皮长 Skin length/cm</td><td>针毛长度 Aciculum length/mm</td><td>绒毛长度 Villus length/mm</td></tr><tr><td rowspan=\"7\">组别 Groups</td><td>I</td><td>57.30±1.77c</td><td>22.01±0.98BCed</td><td>16.09±0.65b</td></tr><tr><td>I</td><td>58.43±2.15bc</td><td>22.89±0.98ABCbcd</td><td>16.57±0.45ab</td></tr><tr><td>IⅢI</td><td>58.83±1.94bc</td><td>23.31±1.09ABabc</td><td>16.44±0.20ab</td></tr><tr><td>IV</td><td>59.50±2.43abc</td><td>21.73±0.66Ce</td><td>16.12±0.68b</td></tr><tr><td>V</td><td>59.00±1.13abc</td><td>22.29±0.84BCcde</td><td>16.14±0.23b</td></tr><tr><td>VI</td><td>59.92±1.34ab</td><td>23.91±1.11Aab</td><td>16.89±0.68a</td></tr><tr><td>VII</td><td>61.21±2.58a</td><td>24.08±0.91Aa</td><td>16.79±0.69a</td></tr><tr><td>添加方式</td><td>连续Continuous</td><td>58.94±2.13</td><td>22.63±1.12B</td><td>16.37±0.50</td></tr><tr><td>Supplemental way</td><td>间隔Interval</td><td>60.05±1.98</td><td>23.40±1.24A</td><td>16.60±0.64</td></tr><tr><td>添加水平</td><td>60</td><td>58.73±1.65</td><td>22.57±0.93b</td><td>16.34±0.40</td></tr><tr><td>Supplemental</td><td>90</td><td>59.34±1.72</td><td>23.61±1.11a</td><td>16.67±0.53</td></tr><tr><td>level/(mg/kg)</td><td>120</td><td>60.36±2.58</td><td>22.83±1.43b</td><td>16.43±0.74</td></tr><tr><td>P值</td><td>组别Group</td><td>0.018 4</td><td><0.000 1</td><td>0.019 9</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/53db0e151f318f9b5e4e2196c5f95010f46a87cd0879fa5af2788504e4a122b8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>P-value</td><td>添加方式 Supplemental way</td><td>0.066 0</td><td>0.0075</td><td>0.143 5</td></tr><tr><td></td><td>添加水平 Supplemental</td><td>0.085 0</td><td>0.0148</td><td>0.249 3</td></tr><tr><td></td><td>level 添加方式×添加</td><td></td><td></td><td></td></tr><tr><td></td><td>水</td><td></td><td></td><td></td></tr><tr><td></td><td>Supplemental way</td><td>0.732 3</td><td>0.000 5</td><td>0.016 3</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Xsupplemental</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>level</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "同一项目同列数据肩标不同小写字母表示差异显著（ $_ { . P < 0 . 0 5 }$ )，不同大写字母表示差异极显著（ $_ { \\cdot } P { < } 0 . 0 1 \\$ ，相同或无字母表示差异不显著（ $_ { P > 0 . 0 5 }$ 。下表同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In the same item and column, values with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ,while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ).The same asbelow. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2CSH对冬毛期雄性水貂血清生化指标的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，饲粮中添加CSH显著影响了水貂血清UN、TG 含量 $( P { < } 0 . 0 5 )$ 。其中，IⅢI、V、VI、VII组水貂血清UN 含量极显著低于对照组（ ${ \\scriptstyle \\cdot } P { < } 0 . 0 1$ )，Ⅱ组显著低于对照组 $( P { < } 0 . 0 5 )$ II、III、VI组血清 TG 含量极显著低于对照组、IV组（ $P { < } 0 . 0 1$ ）， $\\mathrm { \\Delta V }$ 、VII组显著低于对照组中 $( P { < } 0 . 0 5 )$ )。CSH添加方式极显著影响了水貂血清UN含量（ $\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ . ~ } }$ )，间隔添加组血清UN含量极显著低于连续添加组（ $P { < } 0 . 0 1 \\$ )。CSH添加水平显著或极显著影响了水貂血清UN 和TG含量（ $P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \\rangle$ ， $9 0 \\mathrm { m g / k g }$ 添加组血清UN 含量显著低于 60 和 $1 2 0 ~ \\mathrm { m g / k g }$ 添加组( $. P { < } 0 . 0 5 \\$ ， $9 0 \\mathrm { m g / k g }$ 添加组血清 TG含量极显著低于 $1 2 0 ~ \\mathrm { m g / k g }$ 添加组 （ $P { < } 0 . 0 1$ )。CSH添加方式和添加水平对水貂血清TG含量有显著交互作用（ $P { < } 0 . 0 5 )$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4CSH对冬毛期雄性水貂血清生化指标的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9a12cd0507522d97257f87e53ab76f8a55d0172882ec88ccbc98327da296141.jpg",
+        "table_caption": [
+            "Table 4Effects of CSH on serum biochemical parameters of male minks during winter fur-growing period "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目 Items</td><td></td><td>总蛋白 TP/(g/L)</td><td>白蛋白 ALB/(g/L)</td><td>球蛋白 GLO/(g/L)</td><td>尿素氮 UN/(mmol/L)</td><td>甘油三酯 TG/(mmol/L)</td><td>胆固醇 CHO/(mmol /L)</td></tr><tr><td rowspan=\"5\">组别 Groups</td><td>I</td><td>79.16±1.51</td><td>39.10±1.33</td><td>40.06±1.60</td><td>17.90±1.22Aa</td><td>4.15±0.47Aa</td><td>5.34±0.94</td></tr><tr><td>I</td><td>78.71±5.40</td><td>37.14±4.12</td><td>41.57±9.29</td><td>15.59±1.12ABCbc</td><td>2.13±0.97Cb</td><td>5.21±0.42</td></tr><tr><td>IⅢI</td><td>79.75±5.39</td><td>38.34±0.56</td><td>41.41±5.95</td><td>14.25±0.64BCDcd</td><td>1.91±0.51Cb</td><td>4.76±0.07</td></tr><tr><td>IV</td><td>80.38±9.53</td><td>39.50±5.93</td><td>40.88±9.90</td><td>16.27±0.85ABab</td><td>3.53±0.87ABa</td><td>5.12±0.80</td></tr><tr><td>V</td><td>77.89±5.59</td><td>39.70±4.15</td><td>38.20±6.57</td><td>14.57±1.93BCDbed</td><td>2.46±0.73BCb</td><td>4.94±0.50</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b589fca5c549ec64b86dd5ba3e3a9761ff142c8fdcdcac1d825d939288f9058.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3CSH对冬毛期雄性水貂血清激素指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>VI</td><td>81.34±10.41</td><td>37.20±1.48</td><td>42.21±9.12</td><td>12.75±1.85Dd</td><td>2.01±0.70Cb</td><td>5.17±0.71</td></tr><tr><td>VII</td><td>82.42±4.45</td><td>40.03±2.95</td><td>42.40±6.57</td><td>13.62±1.14CDd</td><td>2.41±0.53BCb</td><td>5.01±0.88</td></tr><tr><td>添加方式</td><td>连 续</td><td>79.89±7.63</td><td>38.75±4.75</td><td>41.14±8.46</td><td>15.69±1.15A</td><td>2.88±1.09</td><td>5.06±0.64</td></tr><tr><td>Supplemental</td><td>Continuous 隔</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>way</td><td>间 Interval</td><td>80.43±7.15</td><td>39.01±3.23</td><td>40.81±7.39</td><td>13.69±1.79B</td><td>2.30±0.66</td><td>5.04±0.68</td></tr><tr><td>添加水平</td><td>60</td><td>78.12±5.28</td><td>39.00±4.11</td><td>39.12±7.07</td><td>14.85±1.76a</td><td>2.37±0.76ABb</td><td>5.02±0.47</td></tr><tr><td>Supplemental</td><td>90</td><td>80.86±8.90</td><td>37.54±1.35</td><td>41.97±7.97</td><td>13.20±1.70b</td><td>1.98±0.62Bb</td><td>5.05±0.62</td></tr><tr><td>level/(mg/kg)</td><td>120</td><td>81.33±7.41</td><td>39.75±4.63</td><td>41.59±8.25</td><td>15.03±1.67a</td><td>3.00±0.91Aa</td><td>5.07±0.81</td></tr><tr><td></td><td>组别Group</td><td>0.915 7</td><td>0.740 8</td><td>0.947 9</td><td><0.000 1</td><td><0.000 1</td><td>0.928 3</td></tr><tr><td rowspan=\"8\">P值 P-value 8</td><td>添加方式</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Supplemental way</td><td>0.739 3</td><td>0.655 6</td><td>0.905 8</td><td>0.002 8</td><td>0.392 2</td><td>0.963 8</td></tr><tr><td>添加水平</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Supplemental</td><td>0.634 9</td><td>0.472 2</td><td>0.853 5</td><td>0.049 4</td><td>0.008 2</td><td>0.9304</td></tr><tr><td>level</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>添加方式×</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>添加水平</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Supplemental</td><td>0.903 7</td><td>0.6278</td><td></td><td></td><td></td><td></td></tr><tr><td>00 '7</td><td></td><td></td><td></td><td>0.7718</td><td>0.383 8</td><td>0.048 1</td><td>0.573 6</td></tr><tr><td></td><td>suplerental</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>level</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，饲粮中添加CSH 显著或极显著影响了水貂血清GH、SS、GHR、IGF-I含量（ $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1 \\rangle$ 。其中，水貂血清GH含量随着CSH添加水平的升高先升高后降低，VI组显著高于对照组、IV组（ $_ { \\cdot } P { < } 0 . 0 5 )$ ；I、III、VI组血清 SS 含量显著低于I、IV组（ $( P { < } 0 . 0 5 )$ ；II、IV、VII组血清GHR含量显著高于对照组( $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ ),III、V、VI组极显著高于对照组 $( P { < } 0 . 0 1 )$ ：Ⅱ、III、V、VI、VII组血清IGF-I含量显著高于IV组（ $\\scriptstyle P < 0 . 0 5 .$ )。CSH添加方式对水貂血清激素含量无显著影响( $( P { > } 0 . 0 5 )$ )。CSH添加水平显著影响了水貂血清 SS 含量( $. P { < } 0 . 0 5 )$ )， $9 0 \\mathrm { m g / k g }$ 添加组显著低于 $1 2 0 ~ \\mathrm { m g / k g }$ 添加组。CSH添加方式和添加水平对水貂血清激素含量无显著交互作用（ $P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4047047ead820bf6d299aee282d681d6f2f7c70c76123097e9426d0ab113cf85.jpg",
+        "table_caption": [
+            "表5CSH对冬毛期雄性水貂血清激素指标的影响",
+            "Table 5Effects of CSH on serum hormone parameters of male minks during winter fur-growing periodng/mL "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td></td><td>生长激素受</td><td>胰岛素样生</td><td>胰岛素样生</td><td>三碘甲腺原</td><td>甲状腺素</td></tr><tr><td>项目</td><td>生长激素</td><td>生长抑素</td><td>体</td><td>长因子-I</td><td>长因子-I受</td><td>氨酸</td><td>T4</td></tr><tr><td>Items</td><td>GH</td><td>SS</td><td>GHR</td><td>IGF-I</td><td>体</td><td>T3</td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e58ae9837c0b1b5aae2c9de4390053e5135a624b4aa894f1c88ad6e020ed231a.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.4CSH对冬毛期雄性水貂肝脏IGF-I、IGF-IR和GHR基因表达量的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"9\">IGF-IR</td></tr><tr><td>组别</td><td>I</td><td>0.89±0.06c</td><td>43.25±3.09a</td><td>3.81±0.47Bb</td><td>79.58±0.88ab</td><td>7.28±0.81</td><td>0.65±0.17</td><td>22.75±4.36</td></tr><tr><td>Groups</td><td>I</td><td>0.97±0.11abc</td><td>35.96±9.51b</td><td>4.92±0.71ABa</td><td>82.64±11.97a</td><td>6.76±0.82</td><td>0.66±0.16</td><td>22.97±4.42</td></tr><tr><td></td><td>Ⅲ</td><td>1.01±0.09abc</td><td>34.08±2.44b</td><td>5.22±0.32Aa</td><td>83.05±2.95a</td><td>6.82±0.33</td><td>0.68±0.18</td><td>20.27±2.48</td></tr><tr><td></td><td>IV</td><td>0.94±0.03bc</td><td>42.37±5.13a</td><td>4.66±0.77ABa</td><td>73.29±7.74b</td><td>6.46±0.80</td><td>0.62±0.15</td><td>21.14±4.03</td></tr><tr><td></td><td>V</td><td>1.02±0.15ab</td><td>39.53±3.59ab</td><td>4.98±0.96Aa</td><td>83.86±7.95a</td><td>7.42±1.31</td><td>0.70±0.14</td><td>21.49±3.69</td></tr><tr><td></td><td>VI</td><td>1.09±0.06a</td><td>35.44±2.47b</td><td>5.30±0.11Aa</td><td>84.72±3.38a</td><td>7.26±0.26</td><td>0.66±0.06</td><td>21.70±4.09</td></tr><tr><td>添加方</td><td>VII 连续</td><td>0.98±0.05abc</td><td>39.80±5.08ab</td><td>4.76±0.59ABa</td><td>81.89±3.04a</td><td>6.92±0.94</td><td>0.71±0.09</td><td>21.83±3.05</td></tr><tr><td>式</td><td>Continuous</td><td>0.97±0.08</td><td>38.45±6.85</td><td>4.88±0.67</td><td>78.38±9.09</td><td>6.64±0.69</td><td>0.65±0.15</td><td>21.40±3.68</td></tr><tr><td>Supple mental</td><td>间隔</td><td>1.03±0.11</td><td>38.38±4.13</td><td>5.01±0.69</td><td>83.53±5.48</td><td>7.22±0.96</td><td>0.69±0.10</td><td>21.65±3.45</td></tr><tr><td>way 添加水</td><td>Interval</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平</td><td>60 90</td><td>1.01±0.14 1.06±0.08</td><td>38.34±6.00ab 34.89±2.42b</td><td>4.96±0.85 5.27±0.21</td><td>83.45±8.92 84.05±3.16</td><td>7.20±1.17 7.08±0.36</td><td>0.69±0.14 0.67±0.11</td><td>21.98±3.81</td></tr><tr><td>Supple</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>21.13±3.45</td></tr><tr><td>mental level/(m g/kg)</td><td>120</td><td>0.96±0.04</td><td>41.18±5.07a</td><td>4.71±0.67</td><td>77.26±7.33</td><td>6.67±0.86</td><td>0.66±0.13</td><td>21.46±3.48</td></tr><tr><td rowspan=\"5\">P值 P-value</td><td>组别Group</td><td>0.017 6</td><td>0.0121</td><td>0.0061</td><td>0.033 7</td><td>0.325 6</td><td>0.924 2</td><td>0.9418</td></tr><tr><td>添加方式</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Supplement al way</td><td>0.119 1</td><td>0.649 7</td><td>0.733 2</td><td>0.1204</td><td>0.104 2</td><td>0.455 2</td><td>0.8738</td></tr><tr><td>添加水平 Supplement al level 添加方式×</td><td>0.102 6</td><td>0.0177</td><td>0.1879</td><td>0.065 0</td><td>0.500 5</td><td>0.949 3</td><td>0.750 4</td></tr><tr><td>添加水平 Supplement alway × supplementa 1level</td><td>0.894 6</td><td>0.317 5</td><td>0.9968</td><td>0.3518</td><td>0.9479</td><td>0.653 7</td><td>0.652 6</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表7可知，饲粮中添加CSH显著或极显著影响了水貂肝脏IGF-I、IGF-IR 和GHR 基因表达量（ $_ { . P < 0 . 0 5 }$ 或 $P { < } 0 . 0 1$ )。其中，以VI组水貂肝脏IGF-I、IGF-IR和GHR 基因表达量最高，VI组肝脏 $I G F .$ I基因表达量显著高于I、II、IV、V组（ $_ { . P < 0 . 0 5 ) }$ ，与其他各组差异不显著1 $( P { > } 0 . 0 5 )$ ；VI组肝脏IGF-IR基因表达量显著高于II、IV、V组（ $. P { < } 0 . 0 5 \\$ )，与其他各组差异不显著（ $P { > } 0 . 0 5 \\ '$ ；IV、V组肝脏GHR基因表达量显著高于对照组（ $_ { . } P { < } 0 . 0 5 { \\ : } )$ )，II、II、VI、VII组肝脏GHR基因表达量极显著高于对照组（ $\\cdot P { < } 0 . 0 1$ )。CSH添加方式极显著影响了水貂肝脏IGF-IR基因表达量（ $( P { < } 0 . 0 1 )$ ，间隔添加组肝脏IGF-IR基因表达量极显著高于连续添加组",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 $\\cdot P { < } 0 . 0 1 \\cdot$ )。CSH添加水平显著或极显著影响了水貂肝脏IGF-I、IGF-IR基因表达量（ $\\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )，随着CSH添加水平的提高，肝脏IGF-I、IGF-IR基因表达量先升高后降低，90$\\mathrm { m g / k g }$ 添加组肝脏IGF-I和IGF-IR 基因表达量显著或极显著高于60 和 $1 2 0 ~ \\mathrm { m g / k g }$ 添加组（ $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )。CSH添加水平和添加方式对水貂肝脏IGF-I、IGF-IR和GHR 基因表达量无显著交互作用（ $. P { > } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/b53a9ca2d4dca0b6dcddd3bc7bfa032fac2650852730866cbd3c7013a140d716.jpg",
+        "table_caption": [
+            "表6CSH对冬毛期雄性水貂肝脏IGF-I、IGF-IR 和GHR 基因表达量的影响",
+            "Table 6Effects of CSH on IGF-I, IGF-IR and GHR gene expressions of male minks during winter "
+        ],
+        "table_footnote": [
+            "3讨论"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">fur-growing period</td></tr><tr><td colspan=\"2\">项目</td><td>胰岛素样生长因子-I IGF-I</td><td>胰岛素样生长因子-I受 体</td><td>生长激素受体 GHR</td></tr><tr><td rowspan=\"10\"></td><td></td><td></td><td>IGF- IR</td><td></td></tr><tr><td>I</td><td>1.00±0.31b</td><td>1.00±0.45ab</td><td>1.00±0.21Bb</td></tr><tr><td>Ⅱ</td><td>1.09±0.18b</td><td>0.88±0.12b</td><td>2.52±0.16Aa</td></tr><tr><td>Ⅲ</td><td>1.24±0.07ab</td><td>1.02±0.22ab</td><td>2.46±0.81Aa</td></tr><tr><td>IV</td><td>0.92±0.29b</td><td>0.75±0.13b</td><td>1.88±0.22ABa</td></tr><tr><td>V</td><td>0.97±0.05b</td><td>0.90±0.13b</td><td>1.92±0.40ABa</td></tr><tr><td>VI VII</td><td>1.43±0.03a 1.24±0.50ab</td><td>1.29±0.37a 1.03±0.03ab</td><td>2.59±1.30Aa 2.15±0.25Aa</td></tr><tr><td>连续</td><td></td><td></td><td></td></tr><tr><td>Continuous</td><td>1.08±0.23</td><td>0.88±0.19B</td><td>2.30±0.54</td></tr><tr><td>Supplemental way</td><td>间隔</td><td>1.23±0.34</td><td>1.08±0.28A</td><td>2.24±0.82</td></tr><tr><td></td><td>Interval</td><td></td><td></td><td></td></tr><tr><td>添加水平</td><td>60</td><td>1.04±0.15b</td><td>0.89±0.12Bb</td><td>2.27±0.41</td></tr><tr><td>Supplemental</td><td>90</td><td>1.33±0.11a</td><td>1.15±0.33Aa</td><td>2.52±1.03</td></tr><tr><td>level/(mg/kg)</td><td>120 组别Group</td><td>1.08±0.42b</td><td>0.89±0.17Bb</td><td>2.01±0.27</td></tr><tr><td></td><td>添加方式</td><td>0.022 4</td><td>0.027 0</td><td>0.0010</td></tr><tr><td></td><td>Supplemental way</td><td>0.134 5</td><td>0.0078</td><td>0.760 2</td></tr><tr><td>P值 P-value</td><td>添加水平 Supplemental level</td><td>0.014 5</td><td>0.003 0</td><td>0.176 0</td></tr><tr><td></td><td>添加方式×添加</td><td></td><td></td><td></td></tr><tr><td></td><td>水 平 Supplemental way</td><td>0.107 7</td><td>0.221 0</td><td>0.248 0</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1CSH对冬毛期水貂毛皮品质的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "冬毛期水貂以毛皮生长发育为主，度过了骨骼快速生长期，主要是肌肉的生长和脂肪的沉积，毛皮品质是评价冬毛期水貂生产性能的直接指标，本试验对冬毛期末水貂皮长、针毛长度和绒毛长度做了检测，结果发现，CSH添加组水貂皮长、针毛长度和绒毛长度均有所增加，以VI、VII组添加效果最好，间隔添加组针毛长度较连续添加组提高了 $3 . 4 \\%$ ；不同添加水平之间以 $9 0 \\mathrm { m g / k g }$ 添加组最佳；CSH对水貂毛皮品质有一定的改善作用。黄继卓等[16]研究发现，饲粮中添加CSH提高了东北细毛羊生产性能，降低了料重比，其中羊毛长度较对照组提高了 $9 . 1 \\%$ ，细度提高了 $6 . 2 \\%$ ，弹力也有所提高，且随着CSH添加水平的升高先增加后降低。徐军等[17]研究发现，饲粮中间隔添加CSH使辽宁绒山羊绒和毛的自然长度分别提高了 $3 2 . 2 \\%$ 和 $34 . 8 \\%$ ，毛细度提高了 $6 . 5 6 \\%$ ，绒细度降低了 $6 . 2 2 \\%$ 。白世平等[]研究发现，饲粮连续添加CSH提高了冬毛期雄性水貂皮长和皮重，皮重提高了 $23 \\%$ 。综上所述，饲粮中添加CSH可以改善动物毛皮品质，这可能与CSH分子内部的活性巯基有关。影响毛皮质量的因素很多，硫的供给成为毛角蛋白合成的限制性因素，无论有机硫或无机硫对毛皮品质都有一定的促进作用[18]。CSH不仅为机体提供硫元素，还参与机体内分泌调节，改善营养物质分配，综合作用可能提高水貂生产性能，具体机制有待进一步研究。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2CSH对冬毛期水貂血清生化和激素指标的影响 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "蛋白质是血液中固体成分最多的一类物质，具有运输营养物质和调节被运输物质生理功能、调节机体免疫力等作用，对其含量的分析有助于了解机体营养状况和免疫机能[19]。本试验中，CSH添加组水貂血清含量显著高于对照组，饲粮中添加CSH对血清 ALB 和GLO 含量无显著影响，间隔添加组血清 TP 和GLO 含量高于连续添加组。UN 是反映机体蛋白质分解的重要指标，哺乳动物氮排泄的主要形式，与氮的利用率呈负相关[20]。本试验中，CSH 添加组血清UN 含量低于对照组，说明CSH提高了冬毛期水貂氮沉积，这与氮代谢研究结果一致[21]。冬毛期水貂体重已达到成熟，处于维持体重阶段，但毛皮发育尤其针毛和绒毛的生长处于活跃阶段，且蛋白质是影响毛皮生长的主要因素。血清含量的升高有助于提高机体营养物质运转，促进蛋白质沉积，提高机体免疫力，进而促进毛皮的生长。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加CSH显著降低了冬毛期雄性水貂血清 TG 含量，且随着CSH 添加水平的增加先降低后升高，血清CHO 含量无显著变化。肝脏是血清TG 合成的主要来源，高脂血症是脂肪病变的主要致病因素之一[22]。本试验中，饲粮中添加CSH 降低了水貂血清 TG 含量，说明其对肝脏有一定的保护作用。冬毛期水貂以毛皮生长和越冬脂肪沉积为主，动物从饲粮中获取的脂肪多沉积到皮下脂肪组织中，CSH添加组血清TG含量的降低说明其减少脂肪组织中的脂肪动员，相应促进脂肪沉积。血清生化指标反映整个动物机体的代谢状况，受多种因素的影响，CSH对动物机体的影响主要基于其对内分泌的调节，进而引起相关的生理变化，所以血清蛋白质和血脂含量的改变可能与CSH改变激素分泌状况有关，具体原因还有待进一步分析。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本试验结果表明，饲粮中添加CSH提高了冬毛期雄性水貂血清GH、GHR 和IGF-I含量，降低了血清 SS 含量,间隔添加组显著提高了血清GH含量，降低了血清 SS 含量，以 $9 0 \\mathrm { m g / k g }$ 添加水平最佳；这说明饲粮中添加CSH对冬毛期水貂促生长类激素的分泌依然有一定的促进作用，尤其对 IGF-I的分泌影响较大。SS 具有抑制GH、IGF-I、促甲状腺素及相关激素分泌的生理作用，同时对胃肠消化酶的分泌及活性也有一定抑制作用，进而抑制动物的生长发育[23-25]。动物的毛囊发育受多种生长因子的调控，IGF-I对毛囊发育有着十分重要的意义[26]。饲粮中添加CSH提高了血清 IGF-I含量，说明饲粮中添加CSH可以促进水貂冬毛期水貂毛皮的生长发育。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3CSH对冬毛期雄性水貂肝脏IGF-I、IGF-IR和GHR基因表达量的影响 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "动物的生长受GH-胰岛素样生长因子（IGFs）生长轴的调控，主要包括垂体释放的GH以及靶器官如肝脏分泌的IGFs。本试验研究了CSH对水貂生长轴相关基因表达量的影响，结果显示，饲粮中添加CSH提高了水貂肝脏IGF-I、IGF-IR 和GHR 基因表达量，间隔添加效果均优于连续添加，且随着CSH添加水平的增加先升高后降低。Li等[27研究表明，饲粮连续添加CSH提高了石斑鱼垂体GH和肝脏GHR 的基因表达量，且随着CSH添加水平的增加先升高后降低。马细兰等[28]研究发现，给尼罗罗非鱼腹腔注射 $1 0 0 ~ \\mu \\varrho / \\varrho$ 的CSH，垂体GH基因表达量显著升高，同时肝脏GHR 和IGF-I基因表达量也显著上升。任道平等[29]研究报道，饲粮中添加CSH提高了东北细毛羊肝脏、肌肉和皮肤中 $I G F$ -I基因表达量，随着CSH添加水平的升高有所降低。综上所述，饲粮中添加CSH可以提高生长轴相关基因的表达量，但当CSH 添加水平达到一定程度时，相关基因表达量有所下降，这表明CSH在生产中具有一定的剂量依赖性。饲粮中添加CSH对冬毛期水貂毛皮品质有所改善，血清促生长类激素含量也有所升高，这与本试验关于生长轴基因表达量的结果相呼应。综合说明，饲粮中添加CSH通过调节机体内分泌系统，提高生长轴相关基因表达量，进而改善动物的毛皮生产性能，但作用中有一定的剂量-时间依赖效应。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本试验结果表明，间隔添加的效果优于连续添加，连续添加CSH能引起动物胃溃疡。CSH 促生长的机理主要是抑制 SS 的分泌，然而 SS 对于应激和CSH等引起的胃损伤有明显的保护作用，应激和CSH性溃疡的特征是胃酸和胃蛋白酶分泌增加[30-32]。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 饲粮中添加CSH能够提高冬毛期雄性水貂的毛皮品质，降低血清UN含量，提高促 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "生长类激素含量。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 综合各项指标，在本试验条件下，冬毛期雄性水貂饲粮中CSH的适宜添加水平为90$\\mathrm { m g / k g }$ ，适宜添加方式为间隔添加。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1]SZABO S,RCICHINS.Somatostatin in rat tissuesisdepleted bycysteam.ine administration[J].Endocrinology,1981,109(2):2255-2257. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[2] PALKOVITS M,BROWNSTEIN M J,EIDEN L E,et al.Selective depletion of somatostatin in rat brain by cysteamine[J].Brain Research,1982,240(1):178-180. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3] MILLARD W J,SAGAR S M,LAUDIS D M,et al.Cysteamine:a potent and specific depletor of pituitary prolactin[J].Science,1982,217(4558):452-454. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[4] DILIBERTO E J,Jr,DISTEFANO V,SMITH J C.Mechanism and kinetics of the inhibition of dopamine- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ -hydroxylase by 2-mercaptoethylguanidine[J].Biochemical Pharmacol0gy,1973,22(23):2961-2972. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[5] SAGARS M,LANDRY D,MILLARD W J,etal.Depletionofsomatostatin-like immunoreactivity in the rat central nervous system by cysteamine[J].Journal of Neuroscience,1982,2(2):225-231. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[6] SAGAR S M,MARTIN J B.The effect of cysteamine on immunoreactive somatostatin in the rabbit retina[J].Neuroscience Letters,1982,34(3):265-269. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[7] PATEL Y C,PIERZCHALA I,AMHERDT M,et al.Effects of cysteamine and antibody to somatostatin on islet cell function in vitro.Evidence that intracelllar somatostatin deficiency augments insulin and glucagon secretion[J].The Journal of Clinical Investigation,1985,75(4):1249-1255. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[8] POULSEN S S,KIRKEGAARD P,OLSEN P S,et al.Role of delayed gastric emptying in the pathogenesis of cysteamine-induced duodenal ulcer in the rat[J].Scandinavian Journal of Gastroenterology,1982,17(3):325-330. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[9] MCLEOD K R,HARMON D L,SCHILLO K K,et al.Effects of cysteamine on pulsatile growth hormone release and plasma insulin concentrations in sheep[J].Comparative Biochemistry and Physiology Part B:Biochemistry and Molecular Biology,1995,112(3):523-533. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[10]王忠艳.半胱胺在银狐育成期、生长期和准备配种期饲料中的应用[D].博士学位论文.哈尔滨：东北林业大学,2006  \n[11]白世平,袁缨,权志中,等.日粮中添加半胱胺对雄性水貂的生产性能、血液激素水平的影响[J].经济动物学报,2006,10(3):133-136.  \n[12] 黄卉.饲料中添加半胱胺对貉生产性能的影响[D].硕士学位论文.哈尔滨:东北林业大学,2015.  \n[13] 徐银学,李建武,龚卫忠,等.CS87与添加剂对海狸鼠生长及有关激素水平的影响[J].畜牧与兽医,2001,33(5):9-11.  \n[14] NRC.Nutrient requirements of mink and foxes[S].2nd ed.Washington,D.C.:National AcademyPress,1982.  \n[15] 张海华.日粮蛋白质和蛋氨酸水平对水貂生产性能及毛皮发育的影响[D].博士学位论文.北京:中国农业科学院,2011.  \n[16] 黄继卓,任道平,胡英爽.半胱胺和大豆黄酮对东北细毛羊生长性能和羊毛品质的影响[J].黑龙江畜牧兽医,2009(6):54-55.  \n[17] 徐军,刘皙洁.日粮中添加半胱胺对辽宁绒山羊产绒性能的影响[J].中国畜牧兽医,2010,37(7):210-212.  \n[18]赵国先,宋智娟,张晓云,等.毛皮质量的营养调控[J].中国饲料,2005(13):5-6,9.  \n[19]王建红,刁其玉,许先查,等.赖氨酸、蛋氨酸和苏氨酸对犊牛生长性能和血清生化指标的影响[J].动物营养学报,2011,23(2):226-233.  \n[20] 钟诚,方国玺,李凤双.青山羊血清含氮生化指标与蛋白质营养代谢关系的研究[J].山东农业大学学报,1986,17(1):83-88.  \n[21] 樊燕燕,孙伟丽,王卓,等.半胱胺对冬毛期雄性水貂生产性能、营养物质消化率及氮代谢的影响[J].动物营养学报,2016,28(10):3337-3345.  \n[22] 陈会敏,徐安莉,徐建民,等.牛蒡子提取物对高脂血症大鼠血脂及脂肪肝形成的影响[J].吉林中医药,2012,32(6):615-617.  \n[23] TANNENBAUM G S,LING N.The interrelationship of growth hormone(GH) releasing factorandsomatostatiningenerationoftheultradianrhythmofGHsecretion[J].Endocrinology,1985,115(5):1952-1957.  \n[24] GAUSE I,EDEN S.Induction of growth hormone (GH) receptors in adipocytes ofhypophysectomized rats by GH[J].Endocrinology,1986,118(1):119-124.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[25] MAITER D,UNDERWOOD L E,MAES M,et al.Acute down-regulation of the somatogenic receptors in rat liver by a single injection of growth hormone[J].Endocrinology,1988,122(4):1291-1296. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[26] 赵宗胜,王根林,李大全,等.IGF-I和 EGF 对绵羊毛囊体外培养的影响[J].南京农业大学学报,2006,29(2):138-141.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[27] LI Y,LIU X C,ZHANG Y,et al.Effects of cysteamine on mRNA levels of growth hormone and its receptors and growth in orange-spotted grouper (Epinephelus coioides)[J].Fish Physiology and Biochemistry,2013,39(3):605-613. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[28]马细兰,张勇,刘晓春,等.半胱胺盐酸盐(CSH)对尼罗罗非鱼(Oreochromis niloticus)生长及 生长轴相关基因表达的影响[J].海洋与湖沼,2010,41(2):240-245. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[29] 任道平,耿忠诚,刘胜军,等.半胱胺和大豆黄酮对东北细毛羊部分组织IGF-ImRNA 表达量的影响[J].动物营养学报,2009,21(6):967-973.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[30]VALENTINIS B,ROMANO G,PERUZZI F,et al.Growth and diferentiation signals by the insulin-like growth factor 1 receptor in hemopoietic cels are mediated through different pathways[J].Journal of Biological Chemistry,1999,274(18):12423-12430. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[31] IOZZO R V,BURASCHI S,GENUA M,et al.Decorin antagonizes IGF receptor I (IGF-IR) function by interfering with IGF-IR activity and attenuating downstream signaling[J].Journal of Biological Chemistry,2011,286(40):34712-34721. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[32] SARFSTEIN R,PASMANIK-CHOR M,YEHESKEL A,et al.2012.Insulin-like growth factor-I receptor (IGF-IR） translocates to nucleus and autoregulates IGF-IR gene expression in breast cancer cells[J].Journal of Biological Chemistry,2012,287(4):2766-2776. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Effects of Cysteamine Hydrochloride on Fur Quality, Serum Biochemical and Hormone Parameters and Liver Related Gene Expression of Male Minks during Winter Fur-Growing Periodi SUN Weili1FAN Yanyan²ZHANG Ting1WANG ZhuolLI Hengwei³LIGuangyul   \n(1. Institute of Special Animal and Plant Sciences, Chinese Academy of Agriculture Sciences, Jilin Provincial Key Laboratory for Molecular Biology of Special Economic Animals, Changchun 130112, China; 2. Muyuan Food Technology, Co., Ltd., Luoyang, 420106,China; 3. Shandong Yakang Detection Technology, Co., Ltd., Weifang 261101, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of dietary cysteamine hydrochloride (CSH) on fur quality, serum biochemical and hormone parameters and liver related gene expression of male minks during winter fur-growing period. Fifty six l60-day-old male minks with similar body weight[ $( 2 . 1 3 { \\pm } 0 . 1 0$ ）kg] were randomly divided into 7 groups with 8 replicates per group and l mink per replicate. Minks were fed the basal diets supplemented with O (group I, control group) 60 (group II), 90 (group II), 120 (group IV), 60 (group V), 90 (group VI) and 120 mg/kg (group VII) CSH, respectively; the supplemental way of groups II, II and IV was continuously supplementation, and the supplemental way of groups V, VI and VII was interval supplementation (1 week continuously, l weeks interval). The pre-experimental period lasted for 7 days,and the experimental period lasted for 51 days. The results showed as follows: 1） the skin length,aciculum length and villus length of minks in groups VI and VII were significantly higher than those in the control group ( $_ { \\it P - 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). 2) The serum urea nitrogen content in groups , III,V,VI and VII was significantly lower than that in the control group ( $_ { \\it P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ )，the serum triglyceride content in groups II, II, V, VI and VI was significantly lower than that in the control group ( $_ { ( P < 0 . 0 5 }$ 0r $P { < } 0 . 0 1$ ). 3） The serum growth hormone content in group VI was significantly higher than that in the control group and group IV $( P { < } 0 . 0 5 )$ , the serum somatostatin content in groups II, II and VI was significantly lower than that in the control group and group IV （20 $( P { < } 0 . 0 5 )$ ， the serum growth hormone receptor content in groups II, II, IV,V, VI and VIl was significantly higher than that in the control group ( $_ { \\it P < 0 . 0 5 }$ 0r $P { < } 0 . 0 1$ )，the serum insulin-like growth factor-I content in groups II, III, V, VI and VII was significantly higher than that in the control IV ( $\\scriptstyle \\overbrace { P { < } 0 . 0 5 }$ or $P { < } 0 . 0 1$ ). 4) The liver insulin-like growth factor-I gene expression in group VI was significantly higher than that in the control group and groups I, IV, V $( P { < } 0 . 0 5 )$ , the liver insulin-like growth factor-I receptor gene expression in group VI was significantly higher than that in groups II, IV, V $( P { < } 0 . 0 5 )$ , the liver growth hormone receptor gene expression in groups II,II, IV,V,VI and VII was significantly higher than that in the control group ( $_ { \\it P < 0 . 0 5 }$ or $P { \\ < } 0 . 0 1$ ).In conclusion, in this experimental condition,the optimal CSH supplemental level for dies of male minks during winter fur-growing period is $9 0 \\ \\mathrm { \\ m g / k g }$ ， and the optimal supplemental way was interval supplementation. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: cysteamine hydrochloride; minks; fur quality; serum parameters; gene expression ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(责任编辑 武海龙)",
+        "page_idx": 15
+    }
+]

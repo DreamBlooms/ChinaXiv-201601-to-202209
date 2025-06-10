@@ -1,0 +1,440 @@
+[
+    {
+        "type": "text",
+        "text": "A putative 6 trans-membrane nitrate transporter OsNRT1.1b plays a key role in rice under low nitrogen ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xiaorong Fan+\\*, Huimin Feng†, Yawen Tan, Yanling Xu, Qisong Miao and Guohua Xu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyLaboratoryofPlantNutritionandFertizationino-idleReachsoftheYangtzeRiver，MinistryofAgiculure,NanjingAgricultural University,Nanjing1oo95,China.fheseauthorscontributedqualltothisork.\\*orrespodence: xiaorongfan@njauedu.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractOsNRT1.1a is a low-affinity nitrate $( N O _ { 3 } ^ { - } )$ transporter gene.In this study,another mRNA splicing product, OsNRT1.1b，putatively encoding a protein with six transmembrane domains,was identified based on the rice genomic database and bioinformatics analysis.OsNRT1.1a/OsNRT1.1b expression in Xenopus oocytes showed OsNRT1.1a-expressing oocytes accumulated $^ { 1 5 } { \\sf N }$ levels to about half as compared to OsNRT1.1b-expressing oocytes.The electrophysiological recording of OsNRT1.1b-expressing oocytes treatedwith $0 . 2 5 \\mathsf { m } M$ ${ \\mathsf { N O } } _ { 3 } ^ { - }$ confirmed $^ { 1 5 } { \\sf N }$ accumulation data. More functional assays were performed to examine the function of OsNRT1.1b in rice.The expression of both OsNRT1.1a and OsNRT1.1b was abundant in roots and downregulated by nitrogen (N) deficiency.The shoot biomass of transgenic rice plantswith OsNRT1.1a or OsNRT1.1b overexpression increased under various N supplies under hydroponic conditions compared to wild-type (WT).The OsNRT1.1a overexpression lines showed increased plant N accumulation compared to the WT in $1 . 2 5 \\mathsf { m } M$ ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ and $2 . 5 \\mathsf { m } M$ ${ \\mathsf { N O } } _ { 3 } ^ { - }$ or $\\mathsf { N H } _ { 4 } ^ { + }$ treatments,but not in o.125 mM ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ .However,OsNRT1.1b overexpression lines increased total N accumulation in all N treatments,including $0 . 1 2 5 \\mathsf { m } M$ （20 $\\mathsf { N H } _ { 4 } \\mathsf { N O } _ { 3 } .$ ，suggesting that under low N condition, OsNRT1.1b would accumulate more N in plants and improve rice growth,but also that OsNRT1.1a had no such function in rice plants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Nitrate; nitrogen accumulation; $O s N R T 1 . 1 a / b \\mathrm { ; }$   \noverexpression;rice;6 transmembrane transport protein   \nCitation: Fan X,Feng H,Tan Y,XuY,Miao Q,Xu G (2o15)A putative 6 trans-membrane nitrate transporter OsNRT1.1b playsa key role in rice under low nitrogen.JIntegr Plant Biol XX:XX-XX doi: 10.1111/jipb.12382 Edited by:Toru Fujiwara, University of Tokyo,Japan   \nReceived May 26,2015; Accepted Jul.21,2015   \nAvailable online on Jul.29,2o15 at www.wileyonlinelibrary.com/ journal/jipb   \n$\\mathfrak { O }$ 2015The Authors.Journal of Integrative Plant Biology published by Wiley Publishing Asia Pty Ltd on behalf of Institute of Botany,Chinese Academy of Sciences.   \nThis is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License,which permits use and distribution in any medium,provided the original work is properly cited,the use is non-commercial and no modifications or adaptationsaremade. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nitrate $( { \\mathsf { N O } } _ { 3 } ^ { - } )$ is very important as a source of nitrogen (N）for plants.Plant root cells absorb ${ \\mathsf { N O } } _ { 3 } ^ { - }$ via various transporters from the soil and then reduce it to ammonium $( N H _ { 4 } ^ { + } )$ ，andassimilate ${ \\mathsf { N H } } _ { 4 } ^ { + }$ into organic N via the GOGAT cycle (Forde 200o).Plant ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake requires efficient transport systems at both low and high ${ \\mathsf { N O } } _ { 3 } ^ { - }$ concentrations, and numerous studies have demonstrated that ${ \\mathsf { N O } } _ { 3 } ^ { - }$ influx involves high- and low-affinity ${ \\mathsf { N O } _ { 3 } } ^ { - }$ transport processes (Miller et al.2oo7; Xu et al.2o12). Many families of membrane proteins are involved in ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake,allocation,and storage in plants such as the ${ \\mathsf { N O } _ { 3 } } ^ { - } /$ peptide transporter family (NPF), ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter2 family(NRT2)，chloride channel family (CLC),and slow anion channel-associated homologs (SLAC/ SLAH) (Krapp et al. 2014; Leran et al. 2014; Xia et al. 2014). The NPF transporters include the low-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter family（NRT1）and ${ \\mathsf { N O } } _ { 3 } { } ^ { - } /$ peptide transporter family (Leran et al. 2014; Xia et al. 2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NRT1 transporters in higher plants contain 12 putative transmembrane(TM) regions with a large hydrophilic loop between TM6 and TM7 whose position is unique in higher plant NRT1 and rat PHTS (Chiang et al. 2oo4). In most animal ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NRT1 transporters,the long loop is located between TM9 and TM10,while it is between TM7 and TM8 in fungi. However, the function of the long hydrophilic loop of NRT1 transporters remains unclear.AtNRT1.1(or CHL1),as the first identified NRT1 gene in plants，was isolated from Arabidopsis in 1978 (Doddema et al. 1978) and further confirmed using a transferred DNA-tagged Arabidopsis mutant in 1993 (Tsay etal.1993).Using the Xenopus oocyte expression system,Tsay et al.(1993) showed that AtNRT1.1(CHL1) is a proton-coupled ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter (Tsay et al. 1993). In addition，AtNRT1.1 (CHL1) exhibits two phases of ${ \\mathsf { N O } _ { 3 } } ^ { - }$ uptake,with a $K _ { \\mathsf { m } }$ of $5 0 \\mu \\ M$ for the high-affinity phase and a $K _ { \\mathrm { m } }$ of $4 { \\mathsf { m } } M$ for the low-affinity phase,indicating that CHL1 is a dual-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter (Liu et al. 1999); the reported NRT1 transporter had a $K _ { \\mathrm { m } }$ above $4 \\mathsf { m } \\mathsf { M } \\ \\mathsf { N } \\mathsf { O } _ { 3 } ^ { - }$ .Recently，structural studies showed that AtNRT1.1 functions in the membrane as a dimer (Sun et al. 2014). Parker and Newstead (2014) used a 6 TM model to study the structure of AtNRT1.1 and demonstrated that the ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -proton symport model was a symmetry interaction of inward and outward open between the two 6 TM proteins in the AtNRT1.1 protein. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In rice,OsNRT1.1 was identified as a low-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter gene with an affinity for ${ \\mathsf { N O } } _ { 3 } ^ { - }$ of $9 \\mathsf { m } M$ 0 $\\mu _ { \\mathrm { { m } } } = \\mathfrak { g }$ mM)(Lin et al.2ooo). By searching the cDNA database, OsNRT1.1b,putatively encoding a protein with only six TM domains,was considered a putative mRNA splicing product of OsNRT1.1.To distinguish between OsNRT1.1b and OsNRT1.1 (Lin et al.2ooo),we renamed OsNRT1.1 as OsNRT1.1a.Based on AtNRT1.1structural data(Parker and Newstead 2o14; Sun et al. 2014),we hypothesized that one 6 TM ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter could function in plants through symmetry interactions of inward and outward open between protein dimers.To support these hypotheses,we tested the ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake function of OsNRT1.1b in Xenopus oocytes and rice plants. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sequence analysis and expression pattern of OsNRT1.1b ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1 was identified as a low-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter gene that is constitutively expressed in roots (Lin et al. 2000).Based on the rice genomic database and bioinformaticsanalysis,we searched OsNRT1.1mRNA(AF14o6o6) on the NCBl Web site and identified another mRNA splicing product,AKo6692o,which was further named OsNRT1.1b.To distinguish between OsNRT1.1b and OsNRT1.1 (Lin et al. 2000)，We renamed OsNRT1.1 as OsNRT1.1a.OsNRT1.1a encoded a protein of $5 8 4$ amino acids and 12 predicted TM domains,and a large hydrophilic loop existed between TM6 and TM7 (Figures 2A,S1). OsNRT1.1b consisted of 291 amino acidsand six predicted TM domains,which shared the same amino acid sequences from 1 to 226 with OsNRT1.1a (Figures 2A,S1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1a is a root-specific gene with little or no expression in the shoot that remains relatively stable before and after ${ \\mathsf { N O } } _ { 3 } ^ { - }$ induction (Lin et al. 2ooo). Furthermore,we detected OsNRT1.1b expression with different N supplies using reverse transcription-polymerase chain reaction (RTPCR).Rice seedlings were hydroponically cultured in IRRI nutrient solution for $1 4 { \\mathrm { ~ d ~ } }$ ,and then transferred to nutrient solutions containing different forms of nitrogen regimes, including standard N supply in IRRl solution $1 . 2 5 \\mathsf { m } M$ （204号 ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (1.25 AN),N starvation $( - \\mathsf { N } )$ ， $0 . 2 { \\mathsf { m } } M$ （20 ${ \\mathsf { N O } } _ { 3 } ^ { - }$ （20 $( 0 . 2 \\mathsf { N } )$ ， $5 { \\mathsf { m } } M$ ${ \\mathsf { N O } } _ { 3 } ^ { - }$ (5 N), ${ \\mathsf { o . 2 m } } { \\mathsf { M } } { \\mathsf { N } } { \\mathsf { H } } _ { 4 } ^ { + }$ (0.2 A) and $5 { \\mathsf { m } } M$ （204号 $\\ N { \\ H _ { 4 } } ^ { + }$ (5 A) for another14 d.Similar to OsNRT1.1a,OsNRT1.1b was expressed much more abundantly in roots than in aerial parts (Figure 2B,C).N starvation could decrease both OsNRT1.1d and OsNRT1.1b expression in roots (Figure 2B,C). Furthermore the real-time PCR results confirmed the semi-quantity RT-PCR data that the root mRNA level of OsNRT1.1b was higher in $0 . 2 \\mathsf { N }$ and 1.25 AN than other forms of N regimes treatment； however，OsNRT1.1a did not show significant difference among 1.25 AN,o.2 N,5 N,0.2 A,and 5 A conditions (Figure 2B,C). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1b mRNA-injected oocytes showed ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake activity ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether OsNRT1.1b encodes an ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter, OsNRT1.1b mRNA was injected into Xenopus oocytes. Two days after injection,the oocytes were used to record the membrane potential.Water-injected oocytes showed no response to ${ \\mathsf { N O } } _ { 3 } ^ { - }$ (Figure 3A).However,when treated with $0 . 2 5 \\mathsf { m } M$ ${ \\mathsf { N O } } _ { 3 } ^ { - }$ ，oocytes injected with mRNA encoding OsNRT1.1b displayed ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -induced changes in membrane potential from $- 3 3$ to $- 2 0 \\mathsf { m V }$ ,representingadepolarization of $1 3 \\mathsf { m V }$ (Figure 3B).The membrane potential could be restored when ${ \\mathsf { N O } } _ { 3 } ^ { - }$ was removed (Figure 3B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To examine the ${ \\mathsf { N O } _ { 3 } } ^ { - }$ uptake activity of OsNRT1.1b, OsNRT1.1b-injected oocyteswereincubatedin $0 . 2 5 \\mathsf { m } M$ $^ { 1 5 } { \\mathsf { N O } } _ { 3 } ^ { - }$ (pH 7.4) 8h for further ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake assays. Compared with water-injected oocytes, $100 \\%$ of OsNRT1.1b-injected oocytes and $100 \\%$ of OsNRT1.1a-injected oocytes exhibited $^ { 1 5 } \\mathsf { N }$ accumulation (Figure $3 { \\mathsf { C } }$ ).Dataspread analysisshowed thatalmost $100 \\%$ of the OsNRT1.1b RNA injected oocytes showed higher $^ { 1 5 } { \\sf N }$ than OsNRT1.1a RNA injected oocytes (Figure $3 { \\mathsf { C } } { \\mathsf { , } }$ .As shown in Figure $3 D$ ，both OsNRT1.1a- and OsNRT1.1b-injected oocytes could absorb $^ { 1 5 } { \\mathsf { N } } { - } { \\mathsf { N } } { \\mathsf { O } } _ { 3 } { } ^ { - }$ ，but OsNRT1.1a-expressing oocytes accumulated about half the $^ { 1 5 } \\mathsf { N }$ as compared with OsNRT1.1bexpressing oocytes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generation of the transgenic rice overexpressing OsNRT1.1a and OsNRT1.1b ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1a and OsNRT1.1b overexpression lines were constructed by transforming pUbi-OsNRT1.1a and pUbi-OsNRT1.1b constructs into rice.More than 15 lines of the Togeneration for each gene were obtained.Three independent transgenic lines of the $\\mathsf { T } _ { 2 }$ generation for OsNRT1.1a(OEa1,OEa2,and OEa3) and OsNRT1.1b (OEb1,OEb2,and OEb3)were selected based on Southern blotting and RT-PCR analysis (Figure 4). RT-PCR analysis showed that in OEa1，OEa2，and OEa3 lines，the expression of OsNRT1.1a increased,while OsNRT1.1b did not change compared with the wild type (WT) (Figures 4A,S2). In OEb1，OEb2，and OEb3 lines，OsNRT1.1b transcript levels increased，but the OsNRT1.1a mRNA level did not change compared with the WT (Figures 4A，S2).OEa1 and OEb1 transgenic lines had two copies,while OEa2,OEa3,OEb2,and OEb3 had a single copy based on Southern blotting analysis (Figure 4B). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a0e2b9145ccc2d6c725ae00c13aa2b18e9930d0301c3ed4b365b31c58f49732f.jpg",
+        "img_caption": [
+            "Figure 1. Schematic diagram of the pUbi-OsNRT1.1a/b expression vector for rice transformation OsNRT1.1a/b cDNA was inserted in place of the rice intron in pTCK3o3 with Kpnl and Spel sites. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb4e91b2222d4a998cec979434691cb2907499e4fdac6087cfc7fd5ddcc9eb36.jpg",
+        "img_caption": [
+            "Figure 2.Amino acid sequence alignment and gene expression in OsNRT1.1a and OsNRT1.1b ",
+            "(A)Alignment of OsNRT1.1a and OsNRT1.1b amino acid sequences.The picture was constructed using DNAMAN 5.2.2. (B,C) Expression of $O s N R T 1 . 1 a / b$ in response to different nitrogen (N) regimes by semiquantitative RT-PCR (B)and real-time PCR (C). Rice seedlings were culturedin IRRl nutrient solution for14 dand then transferred to nutrient solutions containing $1 . 2 5 \\mathsf { m } M$ （20 ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (1.25 AN),no N(-N),0.2 mM ${ \\mathsf { N O } } _ { 3 } ^ { - }$ (0.2 N), $5 \\mathsf { m } M \\mathsf { N O } _ { 3 } ^ { - } \\left( 5 \\mathsf { N } \\right) .$ ${ 0 . 2 } \\mathsf { m M N H } _ { 4 } ^ { + } ( 0$ 2 A),and $5 \\mathsf { m } \\mathsf { M } \\mathsf { N } \\mathsf { H } _ { 4 } ^ { + } \\left( 5 \\mathsf { A } \\right)$ for another 14 d. Total RNA was extracted from roots and shoots. OsActin was used as an internal control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of OsNRT1.1b significantlyenhanced rice growth ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rice seeds of the WT, OsNRT1.1a,and OsNRT1.1b $\\mathsf { T } _ { 2 }$ transgenic lineswere cultured with $\\boldsymbol { \\mathscr { I } } _ { 2 }$ IRRl nutrient solution for 14 d and then treated with $1 . 2 5 \\mathsf { m } M$ ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (1.25 AN)， $0 . 1 2 5 \\mathsf { m } M$ ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (0.125 AN), $2 . 5 \\mathsf { m } \\mathsf { M } \\mathsf { N } \\mathsf { H } _ { 4 } ^ { + }$ (2.5 A), and $2 . 5 \\mathsf { m } \\mathsf { M } \\mathsf { N } \\mathsf { O } _ { 3 } ^ { - }$ (2.5 N) for another 14 d.Compared with the WT,OsNRT1.1a overexpression (OEa） lines showed increased shoot dry weight under all N supplies (Figure 5A) and increased root dry weight at 1.25 AN (Figures 5B,S3). Under 1.25 AN supply, the dry weight of OEa lines increased by 75 to $12 5 \\%$ in shoots and 80 to $1 3 3 \\%$ in roots compared with the WT (Figure 5A, B). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In OsNRT1.1b T2-overexpressed (OEb) lines,compared with the WT,shoot biomass was higher under all N supplies and root biomass wasmuch higher in 1.25 ANand 2.5 A solutions (Figures 5C，D，S3). Shoot and root weight of OEb lines increased respectively by 88 and $80 \\%$ at 1.25 AN and 62 and $6 4 \\%$ at o.125 AN compared to the WT (Figure 5C,D). Both OEa and OEb lines showed no change in the root/shoot ratio under all N conditions (Figure 5E,F). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c03bb8ebcee10c89a18f58602cc4280bfe03915dd339ad48f57ab791c626ffa6.jpg",
+        "img_caption": [
+            "Figure 3. OsNRT1.1a- and OsNRT1.1b-injected Xenopus oocytes in response to nitrate $( N O _ { 3 } ^ { - } )$ 1 ",
+            "(A, B) ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -induced changes in membrane potential for oocytes injected with water (A) or mRNA from OsNRT1.1b (B). The recording was obtained from the oocytes injected with mRNA for $3$ d.The injected oocytes were treated with $0 . 2 5 \\mathsf { m } M \\mathsf { N } \\mathsf { O } _ { 3 } ^ { - }$ in $\\mathsf { p H } 5 . 5 \\mathsf { N D 9 6 }$ solution.(C) Data spread analysis of $^ { 1 5 } { \\sf N }$ -nitrate influx for individual oocytes injected with water or RNA.Delta $^ { 1 5 } \\mathsf { N }$ influx of individual oocytes injected with water (grey)，RNA prepared for OsNRT1.1a(blue)and OsNRT1.1b (red)were compared.The data are from $1 2 - 1 4$ cells. (D) $^ { 1 5 } { \\mathsf { N O } } _ { 3 } ^ { - }$ uptake in oocytes. A single oocyte was incubated in $0 . 2 5 \\mathsf { m M } \\mathsf { N a } ^ { 1 5 } \\mathsf { N O } _ { 3 }$ at pH 7.4 for $^ { 8 \\mathfrak { h } }$ ,and then washed four times with cold $0 . 2 5 \\mathsf { m M } \\mathsf { N a N O } _ { 3 }$ before $^ { 1 5 } { \\sf N }$ analysis. Data represent the average $\\pm { \\sf S E }$ of six oocytes. $^ { * } P \\leq 0 . 0 5$ compared with the water-injected control.The example shown is representative of the results from two frogs. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overexpression of OsNRT1.1a enhanced N accumulation only at high N supplies,but OsNRT1.1b-overexpressing lines showed increased N accumulation at both high and low N supplies ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To explore the cause of the enhanced biomass in OsNRT1.1a and OsNRT1.1b transgenic plants，we measured total N contents in WT and transgenic plants.Total N content in both shoots and roots showed no significant differences between OEa lines and the WT under different N treatments (Figure 6A,B). OEb lines showed a higher total N content in shoots and roots than the WT under O.125 AN condition, except OEb1 root (Figure 6C，D).The pattern of nitrogen content in shoots and roots showed slightly different in OEb1 from OEb2 and OEb3 at this condition.Total plant N was calculated as the shoot N content multiplied by shoot biomass plus root N content multiplied by root biomass.Both OEa and OEb lines exhibited significantly greater accumulation in whole plants than the WT under all treatments，except OEa lines in o.125 AN condition (Figure 6E， F).Under o.125 AN condition， OEb lines accumulated more plant N compared with WT (Figure 6F); however，greater plant N accumulation of OEa was not observed in the same condition (Figure 6E). Under o.125 AN supply,the N accumulation of OEb lines increased by 56 to $70 \\%$ in plants compared with the WT and significantly more by 31 to $5 1 \\%$ than OEa lines (Figure 6E,F). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The OsNRT1.1a overexpression lines showed no shift in the ratio of root N and shoot N from the WT at either o.125 AN,1.25 AN,2.5A,or $2 . 5 \\mathsf { N }$ supplies (Figure 6G).However, OsNRT1.1b overexpression lines decreased root N transfer to the shootat 0.125 AN(Figure 6H),indicating that under low N condition, OsNRT1.1b accumulated more N in roots but that OsNRT1.1d had no such function in rice plants.While，as root/shoot biomass ratio of OsNRT1.1b overexpression did not change under O.125 AN (Figure 5F)，which means that the shoot growth was also increased as much as root even though the root/shoot N ratio was upregulated in OsNRT1.1b overexpression lines.The possible reason for this may be the N assimilation efficiency in the shoot of OsNRT1.1b overexpression lines was higher than that in their roots.However，it needs to be investigated further in future. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/061c54be3180b6b4f35d9bbf38a5c6c25747961d07b269bee1a408a0da0f001a.jpg",
+        "img_caption": [
+            "Figure 4.Molecularcharacterization of ${ \\bar { \\mathsf { T } } } _ { 1 }$ generation transgenic plants harboring the pUbi-OsNRT1.1a/b constructs (A)The expression of OsNRT1.1a and OsNRT1.1b in wild-type (WT) and transgenic rice roots by RT-PCR.(B) Determination of copy numbers in transgenic rice plants by Southern blotting. OEa1, OEa2,and OE23 indicate OsNRT1.1a transgenic rice lines，and OEb1，OEb2，and OEb3 denote OsNRT1.1b transgenic rice lines.Southern blotting of BamHl and Hindl digests was performed using the WT as the negative control and the empty plasmid vector transgenic as the positive control. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1b is a constitutively expressed ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter gene ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Plant NRT1/PTR proteins could transport a wide variety of substrates and have recently been renamed as NPFs (Leran etal.2o14).In Arabidopsis,many NPFs showed ${ \\mathsf { N O } _ { 3 } } ^ { - }$ transport activity (Chiu et al. 2oo4; Chopin et al. 2oo7; Segonzac et al. 2007; Almagro et al. 20o8; Lin et al. 20o8; Li et al. 201o). In rice, OsNRT1.1 was the first NPF member in rice shown to function asa ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporterafter $3 h$ with a high ${ \\mathsf { N O } _ { 3 } } ^ { - }$ treatment, but not a low ${ \\mathsf { N O } } _ { 3 } ^ { - }$ treatment (Lin et al. 2ooo).Recently, OsNPF2.4 (OsNRT1.6) belonging to cluster IV of the NPF family is a pH-dependent low-affinity ${ \\mathsf { N O } _ { 3 } } ^ { - }$ transporter (Xia et al. 2014).In this study,OsNRT1.1b was found as another mRNA splicing product of OsNRT1.1 (renamed OsNRT1.1a). OsNRT1.1a consisted of $5 8 4$ amino acids and 12 TMs,while OsNRT1.1b comprised 291 amino acids and six TMs (Figures 2A，S1). OsNRT1.1a showed little or no ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport activity in oocytes under low ${ \\mathsf { N O } } _ { 3 } ^ { - }$ supply in previous reports (Lin et al. 2000), possibly because $3 h$ is not sufficient for accumulating $^ { 1 5 } \\mathsf { N }$ or the current was too low to catch during the 2 V clamping (Lin et al. 2ooo).We extended the incubation time to $^ { 8 \\mathfrak { h } }$ for injected oocytes in $0 . 2 5 \\mathsf { m } \\mathsf { M } \\ \\mathsf { N } \\mathsf { O } _ { 3 } ^ { - }$ ．Both OsNRT1.1a- and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1b-injected oocytes showed ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport activity after an $8 - h$ incubation under low ${ \\mathsf { N O } } _ { 3 } ^ { - }$ supply, but OsNRT1.1binjected oocytes could accumulate more $^ { 1 5 } { \\mathsf { N O } } _ { 3 } ^ { - }$ than OsNRT1.1a-injected oocytes (Figure 3B，C). For OsNRT1.1b, loss of the 6 TM protein significantly increased ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport activity. Another example of two splicing ${ \\mathsf { N O } _ { 3 } } ^ { - }$ transporters is reported to have different ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport activity in rice. OsNRT2.3a and OsNRT2.3b,which were two mRNA splicing products of OsNRT2.3，showed different ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport activity (Feng et al.2011; Yan etal.2011). OsNRT2.3a required a partner protein OsNAR2.1 to transport ${ \\mathsf { N O } } _ { 3 } ^ { - }$ ,but OsNRT2.3b could transport ${ \\mathsf { N O } } _ { 3 } ^ { - }$ by itself in the Xenopus oocyte system (Feng et al. 2011; Yan et al. 2011). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1a isexpressed abundantlyin rootsand was not induced by ${ \\mathsf { N O } } _ { 3 } ^ { - }$ (Lin et al. 20oo). In our study,OsNRT1.1b showed similar expression patternsas OsNRT1.1a,which was constitutively expressed in roots (Figure 2B),even though the expression of OsNRT1.1a/b was quite low under N starvation condition,but was strongly induced under $\\ 0 . 2 \\mathsf { m } M$ nitrate or ammonium low nitrogen conditions (Figure 2B,C). The NRT1 family comprises both the constitutive and ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -inducible component of the low-affinity ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transport system in Arabidopsis (Tsay et al.1993; Huang et al. 1996,1999). AtNRT1.1 (CHL1),the ${ \\mathsf { N O } } _ { 3 } ^ { - }$ -inducible component,is involved in both lowand high-affinity ${ \\mathsf { N O } _ { 3 } } ^ { - }$ uptake (Wang et al. 1998; Liu et al. 1999).AtNRT1.2，the constitutive component，exhibits only low-affinity uptake activities (Huang et al. 1999; Liu et al. 1999),similar to OsNRT1.1a and OsNRT1.1b (Figure 2B). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1b can increase plant N accumulation under low N conditions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Although OsNRT1.1a was identified as a ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter in Xenopus oocytes(Lin et al.2ooo）and injected OsNRT1.1b mRNA could transport ${ \\mathsf { N O } } _ { 3 } ^ { - }$ under low ${ \\mathsf { N O } } _ { 3 } ^ { - }$ supply(Figure3), its biological function in plants had not been investigated. In this study, $\\mathsf { T } _ { 2 }$ overexpressed transgenic lines of OsNRT1.1a and OsNRT1.1b were obtained to test gene function in rice. Overexpression of OsNRT1.1a stimulated shoot growth under all N conditions and root growth only under 1.25 mM ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ conditions (Figure 5A,B). However,OsNRT1.1b overexpression enhanced shoot growth in all N treatments and root growth in both $1 . 2 5 \\mathsf { m } M$ （20 ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ and $2 . 5 \\mathsf { m } M$ （ $\\mathsf { N H } _ { 4 } ^ { + }$ treatments,also increased the total N content in shoots and root under 0.125 mM ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ conditions (Figures ${ } _ { 5 } { \\mathsf { C } } ,$ D,6C,D).These results suggested that OEb absorbed more nitrogen from external solutions.However the constitutive overexpression of OsNRT2.1 in rice only enhanced vegetative growth, but did not affect ${ \\mathsf { N O } } _ { 3 } ^ { - }$ uptake (Hisato et al.2009). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It was very surprising that different nitrogen form treatments had significantly different effects on root growth for OEa and OEb lines，but not on shoots.In detail，we observed that OEa lines could show super root growth only under 1.25 AN， the mixture of nitrate and ammonium condition.None of the pure nitrate or ammonium or low nitrogen treatments could improve the OEa root growth, compared with WT.However，more interestingly we found the root growth of OEb lines could become greater not only under 1.25 AN but also under pure ammonium conditions. Whereas neither low nitrogen nor pure nitrate induced this super phenotype of OEb lines,compared with WT.Why pure nitrate failed to induce the root super growth of OEa and OEb lines is still unknown,even though it could be done at shoot growth.We guessed that the reason that low nitrogen treatment improved root growth of OEb lines rather than OEa lines was linked to the OsNRT1.1b function in oocytes,i.e. under low nitrate conditions,oocytes expressing OsNRT1.1b could respond to $0 . 2 5 \\mathsf { m } M$ nitrate quite well and absorbed more $^ { 1 5 } { \\sf N }$ -nitrate than OsNRT1.1a under $0 . 2 5 \\mathsf { m } M$ nitrate supply.However,it was still hard to explain that the root growth of OEb could be improved under pure ammonium condition but that did not happen on OEa lines. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6f04d42f67116154cb89108062532a2d07b2016fedc2a472bfae7393d2999c4.jpg",
+        "img_caption": [
+            "Figure 5.Growth of OsNRT1.1dand OsNRT1.1b transgenic lines compared withthe wild type (WT)under diferent nitrogen supply conditions (A) Shoot dry weightand (B)root dry weight inOsNRT1.1a transgeniclines.(C)Shoot dry weightand (D)rootdry weight in OsNRT1.1b transgenic lines.Root/shoot inOsNRT1.1a transgeniclines (E)andOsNRT1.1b transgeniclines (F).Root/shoot $=$ root dry weight/shoot dry weight.The treatments were labeled as $0 . 1 2 5 \\mathsf { m } M$ ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (0.125 AN),1.25 mM ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (1.25 AN), $2 . 5 \\mathsf { m } \\mathsf { M } \\mathsf { N } \\mathsf { H } _ { 4 } ^ { + }$ (2.5 A), and $2 . 5 \\mathsf { m M N O } _ { 3 } ^ { - } \\left( 2 . 5 \\mathsf { N } \\right) .$ .\\*Significant difference at the 0.o5 probability level according to the LSD test $( n = 4 )$ estimated using a one-tailed ANOvA between WT and $\\mathsf { T } _ { 2 }$ overexpression lines;data represent means $\\pm { \\sf S E }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furthermore，we calculated plant N accumulation and found that when supplied with high N,both OsNRT1.1a and OsNRT1.1b overexpression lines showed higher plant N accumulation than the WT (Figure 6E,F). However, under 0.125 AN conditions，overexpression of OsNRT1.1b showed increased plant N accumulation compared to the WT (Figure 6F).One possible mechanism was OsNRT1.1b could accumulate more $^ { 1 5 } { \\sf N }$ than OsNRT1.1a under a low ${ \\mathsf { N O } _ { 3 } } ^ { - }$ supply in oocytes,and therefore OsNRT1.1b may contribute to plant N accumulation under a low N supply.However, for high N conditions,there was no such difference between OEa and OEb lines. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AtNRT1.1 is a ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter present in the membrane asa dimer (Sun et al.2o14).The dimerization switch model was operated by the phosphorylation site at T1o1 of AtNRT1.1 (Sun et al.2o14).When AtNRT1.1 functioned as a high affinity transporter in plants，T1o1 site Was phosphorylated and AtNRT1.1 dimer was decoupled.When T1o1 site of AtNRT1.1 was dephosphorylated the AtNRT1.1 protein was coupled into dimer and working as a low affinity transporter (Sun et al. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/85ebb58a7d45e62dba0ffd844291b2a08b541a240a1f3febac963f2b0f649cd0.jpg",
+        "img_caption": [
+            "Figure 6.Totalnitrogen (N)contentand Naccumulation of wild-type (WT)and transgenic lines with different N supplies (A)Shoot Ncontentand (B)root Ncontentin OsNRT1.1aoverexpressionlines.(C) Shoot Ncontent and(D)rootNcontent in OsNRT1.1boverexpressionlines.PlantNaccumulation in OsNRT.1a transgeniclines (E)andOsNRT1.1btransgeniclines(F).RootN accumulationshoot Naccumulation in OsNRT1.1d transgenic lines (G)and OsNRT1.1b transgenic lines (H).The treatments were labeled as $0 . 1 2 5 \\mathsf { m } M$ ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (0.125 AN), 1.25 mM ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 }$ (1.25 AN), 2.5 mM ${ \\mathsf { N H } } _ { 4 } ^ { + }$ (2.5 A), and $2 . 5 \\mathsf { m M N O } _ { 3 } ^ { - } \\left( 2 . 5 \\mathsf { N } \\right)$ \\*Significant difference at the 0.05 probability level according to the LSD test $( n = 4 )$ estimated using one-tailed ANOvA between WT and $\\mathsf { T } _ { 2 }$ overexpression lines;data represent means $\\pm { \\sf S E }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2014).We scanned the potential phosphorylation site in OsNRT1.1a and OsNRT1.1b by scansite software online (http:// scansite.mit.edu/motifscan_seq.phtml).The prediction results showed that both OsNRT1.1a and OsNRT1.b had two potential phosphorylation sites at S199 and T2o4 (Figure S5).That meant for both OsNRT1.1a and OsNRT1.1b they might be switched between dimer or mono protein in cells.Further more they might show a switch between low affinity and high affinity function.However,as Lin etal. (2ooo) presented that OsNRT1.1 had only one low affinity activity in oocytes no high affinity function,it defined the possibility of OsNRT1.1a could be switched between low and high affinity.But our oocytes data suggested this possibility may exist for OsNRT1.1b,since OsNRT1.1b could respond to low nitrate quite well (Figure 3B). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\mathsf { N O } } _ { 3 } ^ { - } ,$ -proton symport model of AtNRT1.1 was a symmetrical interaction of inward and outward open between the two 6 TM proteins in the AtNRT1.1 protein (Parker and Newstead 2014). Parker and Newstead (2o14) used this 6 TM model to explain the mechanism for the effect of phosphorylation at T1o1 of this 6 TM on nitrate transport that was compared to the wild-type protein,the T1o1D of AtNRT1.1 increased nitrate uptake significantly.Therefore the phos phorylation site T1o1 controlled the functional activity of AtNRT1.1. Compared with the 12 TM topology of OsNRT1.1a, OsNRT1.1b contained only six TMs. However，our data suggested that OsNRT1.1b was expressed strongly under low nitrogen in rice (Figure 2B,C) and did function as an ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter during low nitrate supply (Figure 3).Overexpression of OsNRT1.1b could increase plant N accumulation in rice plants (Figures 5,6). Based on structural studies of AtNRT1.1，we hypothesized that OsNRT1.b may perform a ${ \\mathsf { N O } } _ { 3 } ^ { - }$ transporter function as a dimer in the cell, through the phosphorylation on S199 or T2o4.Furthermore this phosphorylation should increase the nitrate uptake based on the finding of Parker and Newstead 2o14.This hypothesis fitted well to our nitrate uptake data as OsNRT1.1b had a much better nitrate uptake than OsNRT1.1a (Figure 3D). More protein analysis is needed in the future in order to understand better the different behaviors of OsNRT1.1a and OsNRT1.1b in plants. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Plant growth conditions ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Seed sterilization and the basal IRRl nutrient solution composition for seedling growth were described previously (Li et al.2oo6).Two-week-old seedlingswith uniform size and vigor were transferred into pots.For different N treatments, 0.125 or $1 . 2 5 \\mathsf { m } M$ （ ${ \\mathsf { N H } } _ { 4 } { \\mathsf { N O } } _ { 3 } ,$ 1.25mM ${ \\mathsf { C a } } ( { \\mathsf { N O } } _ { 3 } ) _ { 2 } ,$ and $1 . 2 5 \\mathsf { m } M$ $( N H _ { 4 } ) _ { 2 } S O _ { 4 }$ were added as N sources.Other nutrients were supplied as the IRRl nutrient solution with $\\mathsf { 0 . 3 } \\mathsf { m } M$ （204 ${ \\mathsf { K H } } _ { 2 } { \\mathsf { P O } } _ { 4 } .$ $0 . 3 5 \\mathsf { m M K } _ { 2 } \\mathsf { S O } _ { 4 } ,$ 1mM $\\mathsf { C a C l } _ { 2 } \\cdot 2 \\mathsf { H } _ { 2 } \\mathsf { O } ,$ $1 { \\mathsf { m } } M$ $M g S O _ { 4 } \\cdot 7 H _ { 2 } O ,$ $\\mathsf { 0 . 5 } \\mathsf { m } M$ ${ \\mathsf { N a } } _ { 2 } { \\mathsf { S i O } } _ { 3 }$ ， $2 0 \\mu \\mathrm { M }$ NaFe-EDTA, $2 0 \\mu \\mathrm { M }$ ${ \\sf H } _ { 3 } { \\sf B O } _ { 3 } ,$ $9 \\mu \\mu$ $M \\cap C | _ { 2 } \\cdot 4 \\mathsf { H } _ { 2 } \\mathsf { O } _ { : }$ ， $0 . 3 2 \\mu \\mathrm { M }$ $\\mathsf { C u S O } _ { 4 }$ ： $5 H _ { 2 } O$ ， $0 . 7 7 \\mu  { M }$ $Z n S O _ { 4 } \\cdot 7 H _ { 2 } O ,$ （204 and $0 . 3 9 \\mu \\mathrm { M } \\ \\mathsf { N a } _ { 2 } \\mathsf { M o O } _ { 4 } \\cdot 2 \\mathsf { H } _ { 2 } \\mathsf { O } ,$ pH 5.5.To inhibit nitrification, $7 \\mu \\mathrm { M }$ dicyandiamide $( \\mathsf { D C D - C _ { 2 } H _ { 4 } N _ { 4 } } )$ ）was mixed into all solutions.All seedlings were grown in a greenhouse with a 16-h light $( 3 0 ^ { \\circ } C ) / 8 - h$ dark $\\left( 2 2 ^ { \\circ } \\mathsf { C } \\right)$ photoperiod,and the relative humidity was approximately $70 \\%$ .The nutrient solution was refreshed every 2 d. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Semiquantative RT-PCR and real-time PCR assay ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Total RNA extraction from different rice tissues and RT-PCR using specific primers for OsNRT1.1a and OsNRT1.1b and the internal standard gene OsActin were performed as described previously (Feng et al. 2o11). Amplification of real-time quantitative PCR products was performed with a single Color Real-Time PCR Detection System (MyiQ Optical Module; BioRad) in a reaction mixture of 2o mL of SYBR Green master mix (SYBR PremixEx Tag TMIl; TaKaRa Bio; http://www.takara-bio. com)according to the manufacturer's instructions(TaKaRa Biotechnology). The target genes and OsActin standards in 1:10,1:1oo,and 1:1,ooo dilutions were always present in the experiments (Tsuchiya et al.2oo4).All primers used for semiquantitative RT-PCR and real-time PCR are listed in Table S1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Functional analysis of OsNRT1.1a and OsNRT1.1b in Xenopus laevis oocytes ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OsNRT1.1a and OsNRT1.1b cDNAs Were subcloned into the oocyte expression vector pT7Ts and linearized using Xbal. mRNA was then synthesized in vitro using the mMESSAGE mMACHINE T7 Kit (Ambion,Austin,TX,USA).Oocytes were injected with 5o ng of mRNA,as described previously(Tong et al.2ooo; Xia et al. 2014).Water-injected oocytes were used as controls.Oocytes were incubated in ND96 solution with antibiotics for2 or3 d(96 mM NaCl,2mM KCl,1mM $\\left. M \\mathrm { g } \\mathrm { C l } _ { 2 } \\right.$ $1 . 8 \\mathsf { m } M \\mathsf { C a C l } _ { 2 }$ ，and $5 \\mathsf { m } M$ HEPES $5 0 \\mu \\mathrm { g } \\mathsf { m } \\mathsf { l } ^ { - 1 }$ gentamycin and $1 0 0 \\mu \\mathrm { g } \\mathsf { m l } ^ { - 1 }$ streptomycin，pH 7.4).Membrane potential recording was performed as described previously (Tong et al.2ooo). Injected oocytes were incubated in $0 . 2 5 \\mathsf { m } M$ ${ \\mathsf { N a } } ^ { 1 5 } { \\mathsf { N O } } _ { 3 }$ ND96 solution for $^ { 8 \\mathfrak { h } }$ at pH 7.4,and then washed with cold $0 . 2 5 \\mathsf { m M } \\mathsf { N a N O } _ { 3 }$ ND96 solution quickly four times. A single oocyte was transferred to an empty tin capsule and then dried at $6 0 ^ { \\circ } C$ for 1week to a constant weight. $^ { 1 5 } { \\sf N }$ was measured using a continuous-flow isotope ratio mass spectrometer coupled to a C-N elemental analyzer (ANCAGSL MS;PDZ Europa,Northwich,Cheshire,UK). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Generation and identification of OsNRT1.1a and OsNRT1.1b overexpression rice lines ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The open reading frames of OsNRT1.1a and OsNRT1.1b were amplified by PCR and ligated into the ubiquitin promoter of the pTCK3o3 vector (Figure 1). For OsNRT1.1a, the forward primerwas $5 ^ { \\prime } \\cdot$ ：taatggatccCATTCTCTCGGACATTAACCTand the right primer was $5 ^ { \\prime } \\mathrm { . }$ -taatgagctcTTCCACCACCATTATATTGC.For OsNRT1.1b,the forward primer was $5 ^ { \\prime }$ -taatggatccTTGGAGCTCCACCGC and the right primer was $5 ^ { \\prime } \\cdot$ taatgagctcCCCCCCCT CGAAGG. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The constructs were obtained and transformed into rice callus using Agrobacterium tumefaciens (strain EHA105), as described previously (Ai et al.2oo9). More than 15 individual ${ \\sf T } _ { \\mathrm { o } }$ transgenic lines were obtained to verify the levels of OsNRT1.1a or OsNRT1.1b overexpression．Three independent lines of the ${ \\sf T } _ { 1 }$ generation were selected from both pUbi-OsNRT1.1a (OEa1，OEa2，and OEa3）and pUbiOsNRT1.1b (OEb1,OEb2,and OEb3) transgenic lines,while one or two copies of the T-DNA insertion were used for further analyses.The copy numbers in the ${ \\sf T } _ { 1 }$ generation were performed by Southern blotting (DlG High Prime DNA Labelling and Detection Starter Kit I；Roche，http://www. roche.com/index.htm).The fragment of the coding sequences of the hygromycin genes labeled with digoxigenin was used as aprobe，which was prepared by PCR according to the manufacturer's instructions (Roche). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Measurement of biomass, total N content,and accumulation ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All plants (WT and $\\mathsf { T } _ { 2 }$ transgenic lines) were harvested after different treatments and then dried at $1 0 5 ^ { \\circ } C$ for $3 0 \\mathrm { m i n }$ ,after which shoots and roots were dried at $7 5 ^ { \\circ } C$ for $3 \\mathsf { d }$ Thedry weight was recorded as biomass.The root to shoot ratio was calculated as the root dry weight divided by the shoot dry weight.Total N content wasmeasured as described previously (Cai et al. 2o12).The plant accumulation ${ \\sf N } =$ (shoot N content\\*shoot biomass) $+$ (rootN content\\*root biomass). Four replicates were used for the calculation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data were analyzed by ANOVA using the SPSS 10 program (SPSS，Chicago,IL，USA).The asterisks on the histograms between the transgenic plants and WT and/or different treatments indicate their statistical difference at $\\mathsf { P } \\leq 0 . 0 5$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (31172013,31372122 and 31401938). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AUTHOR CONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "X.F.and Q.M.performed most of the research.H.F.drafted the manuscript and part of oocyte expression experiment.Y.T. carried out gene expression experiments，Y.X.performed total N analyses.G.X.revised the manuscript.X.F.designed the experiment，supervised the study，and revised the manuscript. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "AiP,Sun S,Zhao J,Fan X,Xin W,Guo Q,Yu L,Shen QR,Wu P,Miller AJ, Xu G (2oo9）Two rice phosphate transporters,OsPht1;2 and OsPht1;6，have different functions and kinetic properties in uptake and translocation. Plant J57:798-809   \nAlmagro A,Lin SH,Tsay YF (2oo8) Characterization of the Arabidopsis nitrate transporter NRT1.6 revealsa role of nitrate in early embryo development. Plant Cell 20: 3289-3299   \nCai J,Chen L,Qu H,Lian J,Liu W,Hu YB,Xu G(2o12)Alteration of nutrient allocation and transporter genes expression in rice under N,P, K,and Mg deficiencies.Acta Physiol Plant 34: 939-946   \nChiang CS,Stacey G,Tsay YF (2oo4）Mechanisms and functional properties of two peptide transporters,AtPTR2 and fPTR2.JBiol Chem 279:30150-30157   \nChiu CC,Lin CS,Hsia AP,Su RC,Lin HL,Tsay YF (2oo4) Mutation of a nitrate transporter,AtNRT1: 4,results ina reduced petiole nitrate content and altered leaf development.Plant Cell Physiol 45: 1139-1148   \nChopin F,Orsel M,Dorbe MF,Chardon F,Truong HN,Miller AJ, Krapp A, Daniel-Vedele F(2oo7) The Arabidopsis ATNRT2.7 nitrate transporter controls nitrate content in seeds. Plant Cell 19:1590- 1602   \nDoddema H,Hofstra JJ,Feenstra WJ (1978) Uptake of nitrate by mutants of Arabidopsis thaliana,disturbed in uptake or reduction of nitrate I. Effect of nitrogen source during growth on uptake of nitrate and chlorate.Physiol Plant 43: 343-350   \nFeng H,Yan M,Fan X,Li B,Shen Q,Miller AJ,Xu G(2o11) Spatial expression and regulation of rice high-affnity nitrate transporters by nitrogen and carbon status.J Exp Bot 62: 2319-2332   \nForde BG (2ooo) Nitrate transporters in plants: Structure,function and regulation. Biochim Biophys Acta 1465: 219-235   \nKatayama H, Mori M, Kawamura Y,Tanaka T, Mori M, Hasegawa H (2009)Production and characterization of transgenic rice plants carrying a high-affinity nitrate transporter gene (OsNRT2.1). Breeding Sci 59: 237-243   \nHuang NC, Chiang CS,Crawford NM,Tsay YF (1996) CHL1 encodes a component of the low-affinity nitrate uptake system in Arabidopsis and shows celltype-specific expression in roots.Plant Cell 8: 2183-2191   \nHuang NC,Liu KH,Lo HJ,Tsay YF（1999） Cloning and functional characterization of an Arabidopsis nitrate transporter gene that encodes a constitutive component of low-affinity uptake. Plant Cell 11: 1381-1392   \nJain M，Tyagi AK，Khurana JP (2oo6） Genome-wide analysis, evolutionary expansion,and expression of early auxin-responSive SAUR gene family in rice (Oryza sativa). Genomics 88: （204号 $3 6 0 - 3 7 1$ （204号   \nKrapp A,DavidLC,Chardin C,GirinT,Marmagne A,Leprince AS,Chailou S，Ferrario-Mery S，Meyer C，Daniel-Vedele F (2014） Nitrate transport and signaling in Arabidopsis.JExp Bot 65: 789-798   \nLeran S,Varala K, Boyer JC, Chiurazzi M, Crawford N,Daniel-Vedele F, David L, Dickstein R,Fernandez E,Forde B,Gassmann W,Geiger D, Gojon A, Gong JM, Halkier BA, Harris JM, Hedrich R, Limami AM, Rentsch D,Seo M,Tsay YF,Zhang M,Coruzzi G,Lacombe B(2014) A unified nomenclature of NITRATE TRANSPORTER 1/PEPTIDE TRANSPORTER family members in plants.Trends Plant Sci 19: 5-9   \nLi BZ,Xin WJ,Sun SB,Shen QR,Xu GH(20o6) Physiological and molecular responses of nitrogen-starved rice plants to re-supply of different nitrogen sources. Plant Soil 287: 145-159   \nLi JY,FuYL,Pike SM,Bao J,Tian W,Zhang Y,Chen CZ, Zhang Y,Li H, Huang J,Li LG, Schroeder JI,Gassmann W, Gong JM (2o1o) The Arabidopsis nitrate transporter NRT1.8 functions in nitrate removal from the xylem sap and mediates cadmium tolerance. Plant Cell 22: 1633-1646   \nLin CM,Koh S,Stacey G, Yu SM,Lin TY,Tsay YF (200o) Cloning and functional characterization of a constitutively expressed nitrate transporter gene,OsNRT1,from rice.Plant Physiol 122: 379-388   \nLin SH, Kuo HF,Canivenc G, Lin CS,Lepetit M, Hsu PK,Tillard P,Lin HL, Wang YY,Tsai CB,Gojon A,Tsay YF (2oo8） Mutation of the Arabidopsis NRT1.5 nitrate transporter causes defective root-toshoot nitrate transport. Plant Cell 2o: 2514-2528   \nLiu KH，Huang CY,Tsay YF （1999)） CHL1 isa dual-afinity nitrate transporter of Arabidopsis involved in multiple phases of nitrate uptake. Plant Cell 1: 865-874   \nMiler AJ,Fan XOrselM,Smith SJ,Wels DM(207)Nitratetrart and signalling.JExp Bot 58: 2297-2306   \nParker JL, Newstead S (2o14) Molecular basis of nitrate uptake by the plant nitrate transporter NRT1.1. Nature 5O7: 68-72   \nSegonzac C, Boyer JC,Ipotesi E, Szponarski W,Tillard P,Touraine B, Sommerer N,Rossignol M,Gibrat R(2oo7) Nitrate efflux at the root plasma membrane: Identification of an Arabidopsis excretion transporter. Plant Cell19: 3760-3777   \nSun J,BankstonJR,Payandeh J,HindsTR,Zagotta WN,ZhengN(2014) Crystal structure of the plant dual-affinity nitrate transporter NRT1.1. Nature 507: 73-77   \nTong Y, Zhou J,Li Z,Miller AJ (2oo5) A two-component high-afinity nitrate uptake system in barley. Plant J10: 1365-1374   \nTsay YF，Schroeder JI，Feldmann KA，Crawford NM (1993）The herbicide sensitivity gene CHL1 of Arabidopsis encodes a nitrateinducible nitrate transporter. Cell 72: 705-713   \nWang R,Liu D,Crawford NM(1998) The Arabidopsis CHL1 protein playsa major role in high-affinity nitrate uptake.Proc Natl Acad Sci USA 95: 15134-15139   \nXia X,Fan X,Wei J,Feng H,Qu H,Xie D,Qu H,Xie D,Miller AJ, Xu G (2o14）Rice nitrate transporter OsNPF2 4 functions in low-affinity acquisition and long-distance transport.JExp Bot 66: 317-331   \nXu G,Fan X,Miller AJ (2o12） Plant nitrogen assimilation and use efficiency. Annu Rev Plant Biol 63: 153-182   \nYan M,Fan X,Feng H,Miller AJ,Shen Q,Xu G(2o1) Rice OsNAR2.1 interacts with OsNRT2.1, OsNRT2.2 and OsNRT2.3a nitrate transporters to provide uptake over high and low concentration ranges. Plant Cell Environ 34: 1360-1372 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING INFORMATION ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional supporting information may be found in the online version of thisarticle at the publisher's web-site.   \nFigure S1. Transmembrane topology of OsNRT1.1a and OsNRT1.1b The figure was generated using the ConPred Il program (http://bioinfo.si.hirosaki-u.ac.jp/\\~ConPred2/).   \nFigure S2.Expression of OsNRT1.1b in pUbi-OsNRT1.1a transgenic lines and OsNRT1.1a in pUbi-OsNRT1.1b transgenic lines compared to the wild type using RT-PCR in roots   \nFigure S3.Plant growth phenotype of OsNRT1.1a overexpression lines under different nitrogen supply conditions   \nFigure S4. Plant growth phenotype of OsNRT1.1b overexpression lines under different nitrogen supply conditions Figure S5.Phosphorylation site scanning of OsNRT1.1a and OsNRT1.1 b   \nTable S1. OsNRT1.1a and OsNRT1.1b primers for RT-PCR ",
+        "page_idx": 9
+    }
+]

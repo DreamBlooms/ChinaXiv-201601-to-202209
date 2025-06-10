@@ -1,0 +1,383 @@
+[
+    {
+        "type": "text",
+        "text": "Brahma regulates the Hippo pathway activity through forming complex with Yki-Sd and regulating the transcription of Crumbs ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ye Zhua1, Dong Lib1,Yadong Wanga, Chunli Peia,Song Liu,Lei Zhangd,Zengqiang Yuana\\*,Peng Zhang a\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "StateKeyLaboratoryofraindCognitiveciences,stituteofiopsics,ChineseAademyofciences,eijingOin bInstituteofCncer StemCell,Dalian Medical University,Dalian116044,Cina DepartmentofespatorydicieinospaAfltdtgiJiongUivesityholfedicineg ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 6 September 2014   \nReceived in revised form 16 November 2014   \nAccepted 1 December 2014   \nAvailable online 8 December 2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nBrahma   \nGrowth control   \nYorkie   \nCrumbs   \nFeedback ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Hippo signaling pathwayrestricts organ size by inactivating the Yorkie (Yki)/Yes-associated protein(YAP) family proteins.The oncogenic Yki/YAP transcriptional coactivator family promotes tissue growth by activating targetgene transcription,buttheregulationofYki/YAPactivationremains elusive.In mammalian cels,we dentified Brg1,a major subunit of chromatin-remodeling SWI/SNFfamily proteins,which interacts with YAP.This finding ledus to investigate the invivo functional interactionofYki and Brahma(Brm),the Drosophila homolog of Brg1.We found that Brm functions atthedownstreamof Hippo pathwayand interacts with Ykiand Scalloped (Sd)to promotes Yki-dependent transcriptionand tissue growth.Furthermore,we demonstrated that Brm is required forthe Crumbs (Crb)dysregulation-inducedYkiactivation.Interestinglywealso foundthat crb isadownstreamtargetof Yki-Brm complex Brmphysically binds to the promoter of crband regulates its transcription through Yki.Together,we showed that Brm functions as a critical regulator of Hippo signaling during tissue growth and plays an important role in the feedback loop between Crb and Yki. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2014 The Authors.Published by Elsevier Inc.This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The regulation of cell-fate determination and growth is central to the animal tissue homeostasis.The Hippo signaling pathway is an emerging growth control pathway that is conserved from Drosophila to mammals [1,2].In Drosophila,the core kinase complex of Hippo pathway includes Ste20-like kinase Hippo (Hpo) and NDR family kinase Warts (Wts),as well as the adaptor proteins,including Salvador(Sav）and Mob as tumor suppressor（Mats） [3].When Hpo is activated by upstream regulators,the active Hpo subsequently phosphorylates and activates Wts,which phosphorylates the transcriptional coactivator Yorkie (Yki),restricting its distribution in the cytoplasm by promoting its interaction with14-3-3.When Hpo is inactivated,unphosphorylated Yki translocates into the nucleusand interactswith the TEAD/TEF family transcription factor Sd (Scalloped) to trigger the expression of target genes including myc,cyclin E,Diap1,and bantam,leading to cell proliferationand anti-apoptosis [3,4]. In mammals,the inhibition of Hippo pathway results in the activation of Yes-associated protein (YAP)or transcriptional coactivator with PDZ binding motif (TAZ),two orthologs of Yki.YAP/TAZ binds to the TEAD family transcription factors to promote organ growth [4].Defects in Hippo signaling and hyperactivation of YAP/TAZ contribute to the occurance of numerous types of human cancer [5,6]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although the core signaling cascade of Hippo pathway has been extensively studied,the regulation of the Hippo pathway remains poorly understood.To date,there are four interconnected upstream branches regulating the Hippo pathway:apical-basal polarity proteins,cell-cell junctions,actin cytoskeleton and other regulators intersect with the core kinase cascade (reviewed in[1,3,4]).Recently, the interactors ofHpo signaling,including GAGA factor,MASK and Tgi/Vgll4,have been identified as the modulators of Yki/YAP-mediated transcription [7-12],which suggest that there could be more unknown regulatory mechanisms underlying the Hpo signaling.In order to identify the po tential regulators of Yki/YAP activation,we performed tandemaffinity purification (TAP) and mass spectrometry analysis in HeLa cells using TAP-tagged YAP as a bait. Among the interacting proteins,we identified Brahma-related gene 1(Brg1) as a YAP interacting protein. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brg1isa core subunitof the SWItch/sucrose nonfermentable(SWI/ SNF) complex,which is an evolutionarily conserved and well characterized as an ATP-dependent chromatin-remodeling complex.SWI/SNF complex functions both in transcription activation and gene silencing by modulating nucleosome positioning [13]. SWI/SNF complex-mediated transcriptional regulation have been highly implicated in controlling mammalian stem cell self-renewal and differentiation [14-19]. Consistently,recent findings have revealed the role of Brm complex in regulating stem cell pluripotency in Drosophila brain and mid-gut [20-22]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/34582c627c36cebd233b4f83e4243a68ba0e33622b8735ede29f38e5226ba82b.jpg",
+        "img_caption": [
+            "Fig.1.The Brm gene is required for tissue growth in the Drosophila wing and eye. $\\left( { \\mathsf { A } } { - } { \\mathsf { C } } ^ { \\prime \\prime } \\right)$ The genetic crosses were performed at $1 8 ^ { \\circ } \\mathrm { C } ,$ unless otherwise indicated,all of the flies were cultured at $2 5 ~ ^ { \\circ } C .$ (A）Adult wing of nubGal4.(A'） Knockdown of Brm resulted in an abnormally small wing. $\\left( \\mathsf { A } ^ { \\prime \\prime } \\right)$ Knockdown of ex resulted in an abnormally large wing (B) Quantification of adult wing sizes ( ${ \\mathrm { ' } n = 4 }$ for each genotype, $^ { * * * } P < 0 . 0 0 1$ ).(C)Adult of eyGal4. $( { \\mathsf { C } } ^ { \\prime } { \\mathrm { - } } { \\mathsf { C } } ^ { \\prime \\prime } )$ UAS-brmRNAi transgenes were driven by eyGal4.Both resulted inabnormal small eyes. (D) Quantification of adult eye sizes ( ${ \\mathrm { ' } } n = 3$ for each genotype, $^ { * * * } P < 0 . 0 0 1 ^ { \\cdot }$ ).(E-E\") enGal4,UAS $G F P >$ brmRi-1 wing disc stained for Brm.Yellow asterisk note the lower levels pi brmRi-1 $\\left( { G ^ { \\prime } } \\right)$ .Upon brm knockdown, cell number per clone ( $6 \\pm 0 . 4 1 5$ versus $3 3 \\pm 2 . 4 4 4$ （2 $n = 5 0$ $^ { * * * } P < 0 . 0 0 1$ ）decreased for5.5 folds. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present study,we utilized the Drosophila model to characterize the role of Brm in the regulation of Hpo signaling during tissue growth,and we found that Brm functions as the downstream of Hippo pathway and interacts with Yki and Scalloped (Sd),which promotes Yki-dependent transcription and tissue growth.Since it has been shown that the apical determinant Crumbs(Crb) functions as an important upstream input for the regulation of Hippo signaling [23-26],we defined that Brm is required for the Crb dysregulation-induced Yki activation.Finally,we found that crb isa downstream target of Yki-Brm complex.Together,we showed that Brm functions asa critical regulator of Hippo signaling during tissue growth and plays an important role in the feedback loop between Crb and Yki. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.Drosophila strains ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following fly lines were used in this study:nubGal4,eyGal4, enGal4,hhGal4,apGal4and GMRGal4wereasdescribed in FlyBase. $e x ^ { A P 4 9 }$ ,ex-lacz, $c r \\bar { b ^ { 1 1 A 2 2 } }$ and $U A S  – c r b ^ { i n t r a }$ were gifts from G. Halder [23, 27]. hpoBF33 [28],bantam sensor [29],UAS-yki,diap1-GFP [30] and UASbrm [21] were gifts from L. Zhang.dpp-lacZ [31],wg-lacZ [32],and ywhsflp;act>y $^ + >$ Gal4,UAS-CD8-RFP/Cyo Were gifts from X.Lin. UASbrmRNAi-1(HMS00050),UAS-brmRNAi-2(HM04019) and UAS-exRNAi (HMSOo874) were obtained from the Drosophila RNAi Screen Center atHarvardMedical School. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Generation of mutant clones ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1G:ywhsflp/ $+ ; a c t { > } y ^ { + } > G a l 4 , U A S - C D 8 – R F P / + ; + / +$ Fig.1G':ywhsflp/+; act>y+>Gal4,UAS-CD8-RFP/ $^ +$ ；UAS-brmRNAi- $1 / +$ Fig. 2A: $+ / +$ $e x ^ { A P 4 9 }$ $y ^ { + }$ $, F R T ^ { q 0 A } / u G F P F R T ^ { q 0 A }$ eyGal4，UAS-flp/+brFI2A: $+ / +$ L $e x ^ { A P 4 9 }$ 1 $y ^ { + }$ L $F R T ^ { 4 0 A } / u G F P F R T ^ { 4 0 A }$ :eyGl4,UASfP/UASFig. 2B: $+ / +$ $F R T ^ { 4 2 D }$ hpoBF33/FRT42D uGFP; eyGal4,UAS-flp/ $^ +$ Fig. $\\boldsymbol { 2 \\mathrm { B ^ { \\prime } } }$ $+ / +$ $F R T ^ { 4 2 D }$ hpoBF33/FRT42D uGFP; eyGal4, UAS-flp/UAS-brmRNAi-2Supplementary Fig. $3 \\mathsf { A } { - } \\mathsf { A } ^ { \\prime \\prime }$ ： $+ / +$ ；enGal4，UAS-flp/ $^ +$ ：FRT82Be,$c r b ^ { 1 1 A \\bar { 2 } \\bar { 2 } } / F R T ^ { 8 2 B } u G F P$ （204",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Immunostaining and microscopy ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following primary antibodies were used: rabbit anti-Brm and rabbit anti-Yki (gift from L. Zhang) [21],mouse anti-Crb(Cq4,DHSB), mouse anti-Wg (4D4,DHSB),guinea pig anti-Sens and rabbit anti",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd8bf50e1ebf7c3ecfe62d5613ce86ceb393f9bc8eaaec4db8f11ec0be68fb86.jpg",
+        "img_caption": [
+            "Fig.2.Brm geneticallyinteracts with Hippo pathway components.The crosses,except Cand C',were performed at $1 8 ^ { \\circ } \\mathsf { C } . C$ and $C ^ { \\prime }$ were performed at $2 5 ^ { \\circ } \\mathsf { C } .$ (A) Side view of ex mutant eye. ( and UAS-brmRNAi-2 were co-expressed using GMRGal4.(D) Quantification of adult eye sizes $_ { n = 5 }$ for each genotype, $^ { * * * } P < 0 . 0 0 1$ ${ } ^ { * } P < 0 . 0 5 { \\mathrm { , } }$ .(E) Overexpression of yki resulted in an abnormalargeing(EDepletingbrepressdthenlargd-wingcausedbyykioverexpresson.（F)Quantificationofdultwingzes ${ \\mathrm { : } } n = 3$ for each genotype, $^ { * * * } P < 0 . 0 0 1$ ） "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sal (gift from X.Lin),mouse anti-Ptc (DSHB),rat anti-Ci (2A1;DSHB), mouse anti-LacZ (Abmart）and rabbit anti-GFP Alexa Fluor 488 (Molecular Probe).The nucleuses were stained by Hoechst 33258 (Sigma).The fluorescent-conjugated secondary antibodies were obtained from Jackson ImmunoResearch Laboratories,Inc.Confocal images were collected using a Lecia TCS SP5 confocal microscope with 40X/ 1.25 oil objectives.Adult wing and eye images were obtained using a Nikon SMZ1500 microscope. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4.Cell culture,transfection and western blot ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HEK293T cell line was cultured in DMEM supplemented with $1 0 \\%$ fetal bovine serum(Gibco), $5 0 \\mathrm { U / m l }$ penicillin, $5 0 \\mu \\mathrm { g / m l }$ streptomycin, in $5 \\% \\thinspace { \\mathrm { C O } } _ { 2 }$ atmosphere at $3 7 ^ { \\circ } \\mathrm { C } .$ Plasmid transfection was carried out using LipofectAMINE (Invitrogen).The pML-Gal4 and arm-Gal4 plasmids were gifts from X.Lin.The plasmids UAS-Myc-yki, UAS-Flag-brm and UAS-HA-sd were gifts from L. Zhang [21].The primary antibodies used for Immunoprecipitation and western blot were rabbit anti-Brm and rabbit anti-Yki [21],mouse anti-Crb(Cq4,DHSB),mouse antiTubulin(CWBiotech),mouse anti-Myc (Santa Cruz Biotechnology), mouse anti-Flag(Invitrogen),mouse anti-HA(Santa Cruz Biotechnology) and mouse anti-GAPDH (CWBiotech). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5.Chromatin immunoprecipitation (ChIP) assay ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "S2 cellswere fixed for $1 5 \\mathrm { m i n }$ in $1 \\%$ formaldehyde/PBS.The cells werelysed ( $5 0 \\mathrm { m M }$ Tris-HCl, pH8.0,10 mM EDTA, $1 \\% \\mathrm { S D S }$ and protease inhibitors) and sonicated on ice.Chromatin was immunoprecipitated withanti-Flag(Sigma) oranti-Myc(Santa Cruz)antibody.Complexes were pulled down with Protein A Dynabeads (Invitrogen),washed four timeswith washing buffer ( $5 0 ~ \\mathrm { m M }$ HEPES pH 8.0, $0 . 5 ~ \\mathrm { M }$ LiCl, $1 \\mathrm { m M }$ EDTA, $0 . 7 \\%$ sodium deoxycholate, $1 \\% \\mathsf { N P - } 4 0 \\$ )and once with TE. The DNA was eluted, decross-linked for $6 \\mathrm { { h } }$ at $6 5 ^ { \\circ } C$ and purified using the QIAquick PCR purification kit (QIAGEN).DNA was analyzed by real-time qPCR,and enrichment was calculated for each antibody relative to input DNA.The primer sequences are as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "crb forward, $5 ^ { \\prime }$ -TAAAATCGCCAATGCGTCAC- $3 ^ { \\prime }$ crbreverse, $5 ^ { \\prime }$ -GCTTTTCGTGCGGTCTCG- ${ \\cdot } 3 ^ { \\prime }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$r p 4 9$ forward, $5 ^ { \\prime }$ -CGTTTACTGCGGCGAGAT $3 ^ { \\prime }$ ： $r p 4 9$ reverse, $5 ^ { \\prime }$ -CCGTTGGGGTTGGTGAG-3'. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6.Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis of the data was performed with a two-tailed Student's t-test or one-way ANOVA followed by Fisher's PLSD(protected least significant difference）post hoc test using the Origin software (Version 8).Data are presented as the mean $\\pm \\mathsf { S E M }$ ， $^ { * } P < 0 . 0 5$ $^ { * * } P < 0 . 0 1$ or $^ { * * * } P < 0 . 0 0 1$ denotes statistical significance. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Brm,the Drosophila homolog of Brg1,is required for tissue growth ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our TAP assay in which FLAG-HA-tagged YAP wasused asa bait, we found Brg1 had a high binding affinity with YAP (data not shown), indicating that Brg1 is a potential regulator of Hippo signaling.To investigate the functional interaction in vivo,we first studied the function of Brm,the Drosophila homolog of Brg1,in regulating tissue growth.The knockdown of brm using the nubGal4 driver resulted in a strong growth-reduced phenotype in the wings,which is opposite to the phenotype of ex(expanded) knockdown(Fig.1Aand B).Similarly, the knockdown of brm using the eyGal4 resulted in smaller eyes (Fig.1C and D).We repeated this experiment using another RNAi (brmRi-2)and obtained a similar phenotype(Fig.1C\").The knockdown efficiency of two RNAi lines was confirmed by immunostaining (Fig.1E and F).In the developing larval wing disc,brm-depleted clones displayed poor proliferation and significant reduced size (Fig.1G and H).These data indicate that Brm is essential forcell proliferation and tissue growth. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/226974c66597d57df02d1a7c0ed759ccfb91d297a8110a725b9ebb86a9d41539.jpg",
+        "img_caption": [
+            "Figei immunoprecipitated with anti-Myc antibody.Western blot analysis was performed using anti-Flag or Mycantibody. $2 \\%$ input was blotted with anti-Flag,HA or GAPDH antibodies,respeci fi t (t indicatedbyYtibodyang(G).(HH）etranstfsdicatedyd-LcZeprteasotifuencedyodo(H). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2b77b9962999b9495f1f33e9220cdc9b735865bb25568c65e8076e84f19a58a8.jpg",
+        "img_caption": [
+            "Fig.4Crbreqesforlaietgendisowsrgetfompex.Eeseredt $1 8 ^ { \\circ } \\mathsf { C } .$ (A)adult wing of nubGal4.(B-B') Overexpression of $c r b ^ { i n t r a }$ caused overgrowth,which was suppressed by depleting brm (shown in B').(C) Quantification ofadult wing sizes ( $n = 4$ for each genotype, $^ { * * * } P < 0 . 0 0 1$ .(D-E') Wing discs that expressed $c r b ^ { i n t r a }$ (D),and $c r b ^ { i n t r a }$ and brmRi-2 (E) in the P compartment driven by hhGal4. $c r b ^ { i n t r a }$ expression caused the upregulation of ex-lacZ (yellow asterisk in D), whereas coexpression of brmRi-2 with $c r b ^ { i n t r a }$ reducedtheex-lcZinduction (yelowasteriskinE）andthecompartmentsize.Dotedlinespointtothecompartmentboundaries.(F-F\") es pressed by brm knockdown (yellow asterisk in G). $\\left( \\mathrm { H - H ^ { \\prime \\prime } } \\right)$ Depletion of brm by hhGal4 reduced the proteins levels of Crb in the Pcompartment (yelow asterisk in H). "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.Genetic interaction of Brm and Hippo pathway ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the functional link between Brm and Hippo signaling components,we first investigated their genetic interactions.Lossof-function mutations of ex or hpo resulted in tissue overgrowth phenotype (Fig.2A and B).Brm knockdown dramatically inhibited the ex or hpo mutation-induced overgrowth in adult eyes (Fig.2A'and B',D),suggesting that tissue overgrowth caused by loss-of-function mutations of ex and hpo required Brm.The overexpression ofyki by GMRGal4 driver resulted in rough eye phenotype and Brm knockdown repressed the phenotype (Fig.2C-C',D). Consistently,the overexpression of yki driven by nubGal4 led to overgrown adult wings and knockdown of brm strikingly suppressed the phenotype (Fig.2E and F).Together,these results suggest that Brm acts at the downstream of Yki to regulate tissue growth. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3.Brm forms complexwith Yki and Sd and is required for Yki activity in vivo ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Consistent with the previous observation of Jin et al.[21],we also found that Brm forms complex with Yki and Sd (Fig.3A and B).Next, we examined whether Brm is required for the expression of Yki target genes.The knockdown of brm led to a significant enhancement in the expression of bantam-sensor reporter (bs-GFP)（Fig. $3 \\mathsf { D } \\mathrm { - D } ^ { \\prime \\prime } ,$ .Inyki overexpression cells,the levels of bs-GFP were dramatically reduced (Fig.3E-E').This reduction can be reversed by coexpression of UASbrmRNAi (Fig.3F- $\\cdot \\mathrm { F ^ { \\prime } }$ ).Additionally,the overexpression of yki increased the expression of diap1-GFP(Supplementary Fig.1A- $\\cdot \\mathsf { A } ^ { \\prime \\prime }$ ).The depletion of brm dramatically suppressed the expression of diap1-GFP caused by yki overexpression (Supplementary Fig.1B).Altogether,these results show that Brm is required for the expression of Yki target genes.Then we asked whether the expression of Yki or Sd was regulated by Brm. We found that neither the protein level of Yki (Fig.3G-G'） nor the transcription of Sd indicated by Sd-lacZ reporter (Fig.3H-H'）was altered by Brm knockdown,suggesting Brm does not affect the expression of Yki or Sd. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/dccfb16ef5a0d9c51b2f69f2133fcd690e064a4fc8c181688f0472825833621d.jpg",
+        "img_caption": [
+            "Fi ee yt-H primers corresponding either to the promoter region of crb or to $r p 4 9$ asa negative control.The amount ofamplified DNA relative to the input DNA is shown(each bar represents the mean $\\pm \\thinspace S _ { Ḋ } \\mathrm { Ḋ } Ḍ$ $n = 3$ $^ { * } P < 0 . 0 1$ ).(E)Modelsoingoefcforiisimportatforatedctiatioidompglatesteti of Crb in a feedback manner. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.Crb forms a feedback loop with Yki dependent on Brm ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Previous studies demonstrated that Crb acts as a critical upstream input of Hippo signaling[23,25,26].Weasked whether Brm is required for Crb-driven growth.We found that the overexpression of $c r b ^ { i n t r a }$ causes significant overgrown wings(Fig.4B),and interestingly,the depletion of brm suppressed the overgrowth phenotype（Fig. $\\boldsymbol { 4 \\mathrm { B ^ { \\prime } } }$ and C). Consistently,the overexpression of $c r b ^ { i n t r a }$ resulted in the upregulation of ex-lacZ and enlarged compartment size(Fig.4D), while knockdown of Brm suppressed the elevated Ex-LacZ levels and the overgrown phenotype (Fig.4E-E').To determine whether Crb regulates the expression of brm,we generated crb non-allele mosaic clones.There is no difference on Brm protein levels was observed between inside and outside clones (Supplementary Fig.3A- ${ \\bf { \\cdot } } \\mathsf { A ^ { \\prime \\prime } }$ ） suggesting that Crb does not regulate brm expressing.Together, these results indicate that Brm is required for Crb-driven Yki activation. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Interestingly,we found that the overexpression of yki increased the levels of Crb(Fig.4F-F\") and brm knockdown obviously mitigated the elevation of Crb induced by yki overexpression(Fig. $4 \\mathsf { G } \\mathrm { - } \\mathsf { G } ^ { \\prime \\prime }$ ). Consistently,the Crb levels can be decreased by brm knockdown(Fig. $\\mathrm { 4 H - H ^ { \\prime \\prime } } .$ 1 Further,the third instarwing discs of indicated transgenic flies were extracted to perform western blots.We observed similar phenotype with the immunostaining(Fig.5A).These data suggest that crb is one of the targets of Yki,and its expression depends on Brm.Further,chromatin immunoprecipitation(ChIP) assay showed that Brm or Yki occupied on the promoter region of crb transcription (Fig.5B-D).The overexpression of yki increased the occupancy of Brm on crb promoter (Fig.5D).Together, these data unraveled a feedback loop between Crb and Yki,which is dependent on Brm. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The core signaling cascade of Hippo pathway has been extensively studied.However, the regulatory mechanism of Yki/YAP activation remains largely elusive.In this study,we found that Brm,a component of SWI/SNF complex,interacts with Yki and regulates organ growth in Drosophila. Our findings indicated that Brmis indispensable for Ykiactivation to drive the expression of target genes.Interestingly,we also found that the expression of crb is regulated by Yki-Brm complex.The ChIP assay showed that Brm and Yki physically bound to the promoter region of crb,and knockdown of Yki reduced the binding of Brm to crb promoter.Taken together,we present a novel feedback loop between Crb and the Yki-Brm complex.Thus,the mutual regulation between apical polarityand Hippo pathway could be critical for tissue growth and homeostasis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Considering the transcriptional co-dependence with RNA Polymerase Il and broad localization in actively transcribed regions [33-35], the Brm complex may be present on multiple promoters and is required byglobal gene transcription.However, the expression of only 872 genes has been observed significantly altered by Brm knockdown [36].This suggests that there isa selectivity of Brm-mediated transcriptional regulation.In addition to Hippo pathway,morphogens,such as Wingless (Wg),Hedgehog(Hh) and Decapentaplegic(Dpp),also play fundamental roles in organ patterning and growth.Therefore,we examined the readouts of Wg,Hh and Dpp pathway in wing discs with brm knockdown. Interestingly,only Wg secretion was found to be altered (Supplementary Fig.2A- $\\mathbf { \\cdot D ^ { \\prime \\prime } }$ ),which argued that there was gene specificity of Brm-mediated transcription.Many other factors including the interaction of transcription factors and co-factors,histone modifications and DNA methylation have been also shown essential in this process [37, 38].Therefore,how Brm regulates the specific targets transcription needs to be further investigated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this study,our data demonstrate that the enhancement of Crb levels caused by yki overexpression can be suppressed by brm knockdown.However,the overexpression of Brm alone cannot alter the Crb levels (Supplementary Fig. $1 \\mathsf { B } \\mathrm { - } \\mathsf { B } ^ { \\prime \\prime \\prime }$ ). These results suggest that the regulatory function of Brm complex is indispensable forcrb but relies on Yki.Together with the fact that Brmphysically associate with Yki,we argue that Brm complexis recruited to target gene promoters through Brm-Yki interaction.Accordingly,another Drosophila transcription factor Zeste has been reported that recruits the Brm complex to chromatin to initiate transcription [39,40]. Beside of Brm,Moria(Mor),another subunit of the complex,has also been reported to directly interact with Yki and occupy on the promoters of Hpo target genes [1O],which support our working model that Yki facilitates the recruitment of Brm complex onto crb promoters.Taken together,we drawa conclusion that the specificity of Brm for regulating Hippo targets is determined by Yki recruitment.Given that both the Brm complex and Hippo pathway are conserved in mammals,our results shed a light ona conserved interaction,which might be critical for mammalian growth and tissue homeostasis. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data to this article can be found online at http://dx. doi.org/10.1016/j.cellsig.2014.12.002. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "P.Z.and Z.Y.conceived the project and designed the experiments. The experiments were performed by P.Z.,Y.Z.,D.L., Y.W.and C.P.The data were analysed by P.Z.,Y.Z.and D.L. S.L.and L.Z. provided reagents and comments. Z.Y.Provided critical reading of the manuscript. P.Z. wrote the manuscript. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing financial interests. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thank G.Halder,X.Lin,the Drosophila RNAi Screen Center at Harvard Medical School and the Developmental Studies Hybridoma Bank（DSHB）for fly stocks,antibodies and plasmids.This work was supported by grants from the National Science Foundation of China (81200993 to PZ,81125010 and 81030025 to ZY),and the Ministry of Science and Technology of China (973-2012CB910701 and 2013DFA31990 to ZY). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]R. Johnson,G.Halder,Drug Discov.13(2014) 63-79. [2]D.Pan,Dev. Cell 19 (2010) 491-505. [3]L. Enderle, H. McNeill, Sci. Signal. 6 (2013) re7. [4] J.S. Mo,H.W. Park,K.L. Guan, EMBO Rep.15 (2014) 642-656. [5]K.F.Harvey, X. Zhang, D.M. Thomas, Cancer 13(2013) 246-257. [6]B. Zhao,L.Li, Q. Lei, K.L. Guan,Genes Dev.24 (2010) 862-874. [7]W. Zhang,Y. Gao,P.Li,Z.Shi,T.Guo,F.Li,X. Han,Y.Feng, C.Zheng,Z.Wang,F.Li,H. Chen,Z. Zhou,L. Zhang, H. Ji, Cell Res.24(2014) 331-343. [8] C.M. Sidor,R.Brain,B.J. Thompson,Curr. Biol.23 (2013)223-228. [9] L. Sansores-Garcia,M. Atkins,LM. Moya,M. Shahmoradgoli, C. Tao, G.B. Mills, G. Halder,Curr. Biol.23(2013) 229-235. [10]H. Oh,M. Slattery,L. Ma,A. Crofts,K.P.White,R.S.Mann, K.D.Irvine,Cell Rep.3 (2013)309-318. [11] L.M. Koontz, Y. Liu-Chittenden,F.Yin, Y. Zheng,J. Yu,B. Huang, Q. Chen,S.Wu,D. Pan,Dev.Cell 25 (2013) 388-401. [12]T.Guo,Y.Lu,P.Li,M.X.Yin, D.Lv,W.Zhang, H.Wang,Z. Zhou, H.Ji,Y. Zhao,L.Zhang, Cell Res.23(2013) 1201-1214. [13]K. Bouazoune,A. Brehm, Chromosome research:an international journal on the molecular,supramolecular and evolutionary aspects of chromosome biology，14 (2006) 433-449. [14] S. Bultman,T. Gebuhr, D. Yee, C.La Mantia,J. Nicholson,A. Giliam,F. Randazzo,D. Metzger,P.Chambon,G.Crabtree,T.Magnuson,Mol. Cell 6 (2000) 1287-1295. [15]H.Lickert,J.K.Takeuchi,I. Von Both,J.R.Walls,F.McAuliffe,S.L. Adamson, R.M.Henkelman,J.L.Wrana, J. Rossant, B.G.Bruneau,Nature 432 (2004) 107-112. [16] I.L. de la Serna, Y. Ohkawa, A.N.Imbalzano, Genetics 7 (2006) 461-473. [17]L. Ho,J.L. Ronan,J.Wu, B.T. Staahl, L. Chen,A. Kuo,J. Lessard,A.I. Nesvizhskii, J. Ranish,G.R. Crabtree,Proc.Natl. Acad. Sci.U.S.A.106 (2009) 5181-5186. [18]B.L Kidder,S.Palmer,J.G.Knott, Stem Cells 27(2009) 317-328. [19]X. Zhan, X. Shi,Z. Zhang,Y. Chen,J.I.Wu,Proc.Natl. Acad.Sci.U.S.A.108 (2011) 12758-12763. [20] E. Eroglu,T.R. Burkard, Y.Jiang,N.Saini, C.C.Homem, H. Reichert,JA. Knoblich, Cell 156 (2014) 1259-1273. [21]Y. Jin,J. Xu, M.X. Yin,Y. Lu,L. Hu,P.Li,P. Zhang, Z. Yuan, M.S. Ho, H.Ji,Y. Zhao, L. Zhang,eLife2(2013) e00999. [22] X. Zeng, X. Lin, S.X. Hou, Development 140 (2013) 3532-3540. [23]C.L. Chen, K.M. Gajewski, F. Hamaratoglu,W. Bossuyt,L. Sansores-Garcia, C.Tao,G. Halder, Proc. Natl. Acad. Sci. U.S. A. 107 (2010) 15810-15815. [24] N.A. Grzeschik,LM. Parsons,M.L. Allott, K.F. Harvey, H.E. Richardson, Curr biol. 20 (2010) 573-581. [25] C.Ling,Y.Zheng,F.Yin,J.Yu,J. Huang,Y. Hong,S.Wu,D.Pan,Proc.Natl.Acad.Sci. U.S.A. 107 (2010)10532-10537. [26] B.S. Robinson,J. Huang, Y. Hong, K.H. Moberg,Curr. Biol. 20 (201O) 582-590. [27] F.Hamaratoglu,M.Willecke,M. Kango-Singh,R.Nolo,E. Hyun,C.Tao,H.Jafar-Nejad, G. Halder, Nat. Cell Biol. 8 (2006) 27-36. [28] J.Jia,W. Zhang, B.Wang,R. Trinko,J. Jiang,Genes Dev.17 (2003) 2514-2519. [29] J. Brennecke,D.R.Hipfner,A.Stark,R.B.Russel,S.M. Cohen,Cell113(2003)25-36. [30] L Zhang,F. Ren, Q. Zhang,Y. Chen, B.Wang,J.Jiang,Dev.Cell14 (2008) 377-387. [31] C.Han,T.Y. Belenkaya, B.Wang,X. Lin, Development 131 (2004) 601-611. [32]P. Zhang,Y.Wu,T.Y. Belenkaya,X.Lin,Cell Res.21(2011) 1677-1690. [33] R.T. Collins,T. Furukawa,N.Tanese,J.E. Treisman,EMBO 18（1999) 7029-7040. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[34] J.A. Armstrong, O. Papoulas, G. Daubresse, A.S. Sperling, J.T.Lis, M.P. Scott, J.W. Tamkun, EMBO 21(2002) 5245-5254.   \n[35]C.B.Zraly,D.R.Marenda,R. Nanchal, G. Cavali, C.Muchardt, A.K. Dingwall,Dev. Biol. 253 (2003)291-308.   \n[36] J. Shi,M. Zheng,Y.Ye,M.Li, X. Chen,X.Hu,J. Sun, X. Zhang,C.Jiang,Nucleic acids research,2014. [37]P.Sudarsanam,F.Winston,Trends Genet.16 (2000) 345-351.   \n[38] S.B. Baylin,12,2002,pp.331-337.   \n[39] J.Dejardin,G.Cavalli, EMBO 23 (2004) 857-868.   \n[40]A.J. Kal,T.Mahmoudi, N.B. Zak, C.P.Verrijzer, Genes Dev.14 (2000) 1058-1071. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

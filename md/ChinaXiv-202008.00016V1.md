@@ -1,0 +1,155 @@
+# 帝萝花 璀璨明珠 的植株高效再生
+
+彭绿春1,2.3.4，宋杰1,2.3,4，李树发1,2.3.4，蔡艳飞1,2.3,4，瞿素萍1,2.3.4，田歌5，李世峰1,2.3,4\*  
+（1．云南省农业科学院花卉研究所，昆明 650205；2.国家观赏园艺工程技术研究中心，昆明 650205；3.  
+云南省花卉育种重点实验室，昆明 650205；4.云南花卉工程技术研究中心，昆明650205；5．云南农业大学园林园艺学院，昆明650205）
+
+摘要：为解决木本切花植物帝萝花‘璀璨明珠’繁殖效率低的问题，以其幼嫩枝芽为外植体，研究不同基本培养基对长势的影响、不同激素种类和浓度对增殖和生根的效果，揭示了‘璀璨明珠’离体繁殖的生长特点，建立了高效的帝萝花‘璀璨明珠’组培快繁技术体系。结果表明：‘璀璨明珠’幼嫩枝芽消毒的方法是 $0 . 1 \%$ 的升汞溶液浸泡 $1 2 \mathrm { m i n }$ ，污染率为 $2 1 . 5 \%$ 外植体在 $\mathbb { W P M + Z T 1 }$ mg· $\mathrm { L ^ { - 1 } { + } N A A 0 . 1 \ m g \ . \ L ^ { - 1 } }$ 培养基上，侧芽萌发率为 $7 3 \%$ 。增殖的最佳培养基为 $\mathrm { M S ~ + ~ B A 0 . 4 ~ \ m g \cdot \ L ^ { - 1 } ~ + ~ N A A 0 . 0 5 ~ \ m g ~ . ~ L ^ { - 1 } ~ }$ ，增殖系数为6.63，增殖方式为侧芽增殖和植株基部丛生芽增殖；生根的适宜培养基为 $\mathrm { M S ~ + ~ I B A ~ 0 . 7 5 ~ m g \cdot L ^ { - 1 } + ~ N A A ~ 1 ~ m g \ . }$ $\mathrm { ~ L ~ } ^ { - 1 }$ ，生根率$7 0 \%$ 。生根瓶苗移栽于珍珠岩和细草炭体积比 $0 . 5 : 1$ 的基质中，光照强度 $1 0 0 0 0 { \sim } 1 2 0 0 0 \mathrm { l x } .$ 空气湿度 $70 \% \sim 8 0 \%$ 下培养， $6 0 \mathrm { d }$ 后成活率可达 $7 2 \%$ 。研究结果为帝萝花组培种苗的商业化生产提供了技术支撑，促进了该高档木本切花的推广、种植和产业化。
+
+关键词：木本切花，帝萝花，植株高效再生中图分类号：Q943 文献标识码：A
+
+# Efficient regeneration of Telopea speciosissima ‘Braidwood
+
+# Brilliant'
+
+PENGLvchun $^ { 1 , 2 , 3 , 4 }$ , SONG Jie $^ { 1 , 2 , 3 , 4 }$ ,LI Shufa,234,CAIYanfei1,2.34,QU Supig1,234,TANGe, LI Shifeng1,2.,.4\*
+
+(1.Flower Research Institute, Yunnan Academy of Agricultural Sciences,Kunming 6502o5;2.National Engineering Research Center for Ornamental Horticulture, Kunming 6502O5;3. Yunnan Flower Breeding Key Laboratory, Kunming 650205; 4.Yunnan Engineering Research Center forflower, Kunming 650205; 5. School of Garden and Horticulture,Yunnan Agricultural University,Kunming 650205)
+
+Abstract: In order to improve reproduction efficiency，using young branches and shoots as explants,to reveal the growth characteristics of Telopea speciosissima ‘Braidwood Briliant 'in in
+
+基金项目：云南省科技计划项目（2018BB010）；云岭产业领军人才项目（云发改人事[2014]1782 号）[Supported by Yunnan Science and Technology Planning Project(2O18BB010); Industry Leadership Talent Projectof Yunnan Province(2014-1782)]。  
+作者简介：彭绿春（1981-），女，云南个旧人，硕士，副研究员，主要从事木本花卉繁育研究，(E-mail)green315 $@$ 126.om。  
+通信作者：李世峰，硕士，研究员，主要从事新型花卉植物的研究和开发，(E-mail)452977351@qq.com。
+
+vitro culture and establish its efficiently regeneration system,by studying the influence of basic medium on plant growth, the effect of hormone type、concentration on proliferation and rooting The results showed that treating explants with the $0 . 1 \%$ $\mathrm { H g } \mathrm { C l } _ { 2 }$ for $1 2 \mathrm { m i n }$ ， the explants contaminate rate was $2 1 . 5 \%$ ， the lateral buds germination rate of explants was $7 3 \text{‰}$ medium $\mathrm { W P M + Z T 1 ~ m g \cdot \ L ^ { - 1 } { + } N A A 0 . 1 ~ m g \cdot \ L ^ { - 1 } }$ . The optimal multiplication medium was $\mathrm { M S } + \mathrm { B A 0 . 4 \ m g }$ ： ${ \bf L } ^ { - 1 } +$ NAA0.05 mg · $\mathrm { ~ L ~ } ^ { - 1 }$ with 6.63 proliferation coefficient，and the proliferating shoots originating from axillary bud and basic adventitious bud, $\mathrm { M S } + \mathrm { I B A } 0 . 7 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } + \mathrm { N A A } ~ 1 ~ \mathrm { m g }$ ， ${ \mathrm { ~ L } } ^ { - 1 }$ was the suitable rooting medium， with $70 \%$ rooting rate. The rooting seedlings were transplanted in the substrates[perlite:moss(v:v)=O.5:1] in the greenhouse with light intensity 10 000-12 000 lx,air humidity $70 \% 8 0 \%$ . And $6 0 \textup d$ later the survival rate of the seedlings was $72 \%$ The result provided technological support for commercial production of Telopea speciosissima tissue culture sedlings,and promoted the planting and industrialization of this famous woody cut-flower.
+
+Key words: Telopea speciosissima ‘Braidwood Brilliant', woody cut-flower, plant regeneration efficiently
+
+帝萝花（Telopea speciosissima）是山龙眼科（Proteaceae）帝萝花属（Telopea）多年生名贵木本观赏植物，原产于澳大利亚和非洲热带地区,其花形独特，花色艳丽，花期较长，即可用作切花，亦可应用于园林美化。虽早在2001年，我国广州和云南等地就开始进行帝萝花等山龙眼科木本花卉的资源引进和适应性研究（蹇洪英等，2006；苏开君等，2008），但由于繁殖效率低，导致其产品主要依靠进口，在市场上仍然是“一枝独秀”。
+
+山龙眼科植物的种子种壳坚硬，且具有休眠特性，发芽率低且不整齐（Wu&Toit,2010);扦插繁殖生根率低，所需时间长(黎霞等，2009)。在南非、澳大利亚等原产地，依靠丰富的母本资源，帝萝花主要通过扦插繁殖（Maclennan，1993），同时也在进行组织培养的研究。早在1989 年，Wrigley&Fagg(1989)就指出帝萝花种苗的组培生产没有商业应用，是因为其组织培养难度太大了。近年来，国内外对山龙眼科植物组织培养的研究仍比较少，Wu etal.(2007)进行帝王花合子胚和子叶培养，认为植物激素抑制体细胞胚的形成，在无植物激素的培养基上诱导出胚状体，并进行红、蓝光源影响其器官发生方式的研究(WUetal.,2012);国内仅报道过何丽娜等（2012）以茎段为材料进行过帝王花启动培养研究，关于帝王花后续繁殖和生根等方面国内外没有进一步报道。Offord etal.(1992)对11个帝萝花优株进行了组织培养研究，试验了6-BA对其增殖的影响，IBA对其生根的影响，发现不同基因型间组织培养的效果不同，并指出帝萝花组织培养成功的关键在于针对不同基因型进行生长调节物质的优化。故对于目前还无组培繁殖研究报导的帝萝花‘璀璨明珠’，有必要进行植株高效再生的研究，以实现其组培种苗商业化生产。
+
+帝萝花‘璀璨明珠’（‘Braidwood Brilliant'）本世纪初引种到昆明，花红色、鲜艳，适应性强，切花产量高，具有市场开发潜力（图版I：A）。本研究以帝萝花‘璀璨明珠'幼嫩枝芽为外植体，通过不同基本培养基对长势的影响、不同激素种类和浓度对增殖和生根的效果，以及瓶苗移栽驯化等关键环节的研究，揭示了帝萝花‘璀璨明珠’离体繁殖的生长特点，建立了高效的植株再生体系，为其组培种苗的商业化生产提供了技术支撑，促进了高档木本切花———帝萝花的推广、种植和产业化；同时也为帝萝花属其他种的离体繁殖提供了借鉴。
+
+# 1试验材料与方法
+
+# 1.1试验材料
+
+供试材料为帝萝花‘璀璨明珠'幼嫩枝芽，采自云南省农业科学院花卉研究所资源圃中。
+
+# 1.2试验方法
+
+# 1.2.1外植体消毒和诱导培养
+
+‘璀璨明珠’幼嫩枝条，去除叶片、保留叶柄，用洗衣粉水清洗表面污垢后，剪成长度约为 $2 \ \mathrm { c m }$ 的茎段，每个茎段具2个叶柄，流水冲洗 $2 0 \ \mathrm { m i n }$ 。消毒用 $0 . 1 \%$ 的升汞溶液浸泡$1 2 \mathrm { m i n }$ ，之后无菌水冲洗5遍。已消毒茎段在超净工作台上晾干表面水分后，接种至外植体诱导培养基 WPM+ZT1 mg · $\mathrm { L ^ { - 1 } { + } N A A 0 . 1 \ m g \cdot \mathrm { L ^ { - 1 } } }$ 。
+
+# 1.2.2基本培养基对长势的影响
+
+.将‘璀璨明珠’的增殖苗切分成单棵，接种在以WPM、1/2MS、MS 为基本培养基的增殖培养基上，每种培养基均附加 $Z \mathrm { T } ~ 0 . 5 ~ \mathrm { m g } \cdot \mathrm { L } ^ { - 1 }$ 和NAA $0 . 0 5 ~ \mathrm { m g ~ \cdot ~ L ^ { - 1 } }$ 。每种基本培养基处理做3个重复，每个重复接种10个芽苗。60d后观察芽苗的长势，并测定 SPAD值和株高。
+
+# 1.2.3 激素种类和浓度对增殖的效果
+
+将‘璀璨明珠’丛芽分棵切开，接种到不同增殖培养基，试验不同浓度 ZT或6-BA 组合 $0 . 0 5 \mathrm { m g \cdot L ^ { - 1 } }$ 的 NAA对其增殖效果，激素组合见表2。根据1.2.2的试验结果选择基本培养基，每个激素浓度处理设3个重复，每个重复接种10个芽苗。60d后统计其增殖系数及丛生芽高度等指标。
+
+# 1.2.4生根培养和瓶苗移栽
+
+增殖培养60d后，将株高 $2 \mathrm { c m }$ 左右的增殖苗分棵切开，接种到不同的生根培养基。根据1.2.2 的试验结果选定基本培养基，并附加不同浓度的IBA、NAA和活性炭组合，见表3。每个生根处理设3个重复，每个重复接种15株，之后观察生根情况，40d后统计生根率、株高和愈伤组织横径。
+
+将生根苗带瓶移至大棚内，上方盖遮阳网，使光照强度为 $1 0 0 0 0 { \sim } 1 2 0 0 0 \mathrm { l x }$ ，炼苗1周后，移栽至育苗盒，栽培基质配比为珍珠岩和细草炭（ $0 { \sim } 5 \mathrm { m m }$ ）体积比 $0 . 5 : 1$ 。
+
+# 1.2.5培养条件
+
+瓶苗培养条件：温度 $2 3 { \pm } 2 \mathrm { ~ \overset { \circ } { C } }$ ，光照 $1 2 \mathrm { h } \cdot \mathrm { d } ^ { - 1 }$ ，光照强度为 $3 0 0 0 \mathrm { l x }$ 。培养基附加琼脂$9 \mathrm { ~ g ~ . ~ L ^ { - 1 } ~ }$ ，蔗糖 $3 0 \mathrm { g \cdot L ^ { - 1 } }$ ， $\mathrm { p H } 5 . 8$ 。
+
+穴盘苗培养条件：刚移栽时，光照强度 $8 \ 0 0 0 { \sim } 1 0 \ 0 0 0 \ \mathrm { l x }$ ，空气湿度 $70 \% \sim 8 0 \%$ ，土壤只用保持表面潮湿即可，约 $2 0 \mathrm { d }$ 发出新根后，可逐渐增大光照强度使之适应外部环境。
+
+# 1.2.6指标测定
+
+SPAD 值用 SPAD-502 型叶绿素计测定。选择每一增殖丛芽中最高一株，测量其植株中部最大一片叶片的 SPAD值作为该丛芽的 SPAD值，测量一重复中所有丛芽的 SPAD 值，并取其平均值作为该重复的SPAD 值。
+
+株高、丛生芽高度和愈伤组织横径用直尺测量。培养基表面到生根植株顶部的距离为株高，培养基表面到丛生芽顶部的距离为丛生芽高度，植株基部愈伤组织的最大直径为其横径，测量重复中每株的株高、丛生芽高度或横径直，取其平均值作为该重复的株高、丛生芽高度或横径。
+
+增殖系数为每一重复中长度大于 $2 \mathrm { c m }$ 的增殖芽数量与初始接种芽数的比值。  
+生根率为每一重复中生根的植株数与初始接种芽数的百分比。
+
+# 1.2.7数据处理与统计分析
+
+数据使用SPSS18.0软件分析，采用邓肯法在0.05水平进行差异显著性检验。
+
+# 2结果与分析
+
+# 2.1基本培养基对生长的影响
+
+‘璀璨明珠’茎干和枝叶表面光滑，采用1.2.1的方法进行外植体消毒和芽诱导，可达到较好效果，外植体污染率为 $2 1 . 5 \%$ ，芽萌发率为 $7 3 \%$ ，萌发的侧芽叶形、叶色正常。但叶柄处萌发的侧芽进一步转接在培养基 $\mathrm { W P M + Z T 1 ~ m g \cdot \ L ^ { - 1 } { + } N A A 0 . 1 ~ m g \cdot \ L ^ { - 1 } }$ 上之后，随培养时间延长，植株从老叶开始失绿、变黄，最后整株变黄。
+
+试验不同基本培养基对‘璀璨明珠'生长的影响，测定 SPAD值和丛生芽高等指标统计于表1。芽苗接种到不同基本培养基后，随培养时间延长，植株长势和叶色表现出差异，其中1/2MS 和WPM培养基上的植株不同程度出现老叶失绿、变黄或叶色变浅的症状（图版I：C，D），而MS培养基中植株生长健壮且叶色浓绿（图版I：B）。SPAD 值是一个反映植株叶绿素含量的指标，叶绿素的相对含量可以反映植株叶片的生理状况，卢晓萍等(2013)的研究表明，SPAD值与单位叶面积叶绿素含量显著相关。从表1可以看出，3种不同基本培养基处理下，SPAD值和丛生芽高两个指标均存在显著差异，MS 培养基中植株叶片的 SPAD值和丛生芽高显著高于其他两个处理，分别为32.57和 $4 . 8 5 ~ \mathrm { c m }$ ，指标差异趋势与形态学表现一致，MS 培养基更适合‘璀璨明珠'的生长。
+
+表1不同基本培养基对‘璀璨明珠’生长的影响  
+Table 1 Effects of different basic medium on growth of Telopea speciosissima ‘Braidwood Brilliant'   
+
+<html><body><table><tr><td colspan="3">Briant</td></tr><tr><td>基本培养基</td><td>SPAD值</td><td>丛生芽高</td></tr><tr><td>Basic medium</td><td>SPADvalue</td><td>Multipleshoots height(cm)</td></tr><tr><td>1/2 MS</td><td>25.73±1.96b</td><td>3.60±0.25b</td></tr><tr><td>MS</td><td>32.57±2.63a</td><td>4.85±0.26a</td></tr><tr><td>WPM</td><td>19.63±0.55c</td><td>1.78±0.19c</td></tr></table></body></html>
+
+注：表中同一列不同字母表示在0.05水平下差异显著。下同。
+
+Note:Different letters in the same column indicate that there are significant differences at the O.O5 level in different treaments.The same below.
+
+# 2.2不同细胞分裂素种类和浓度对‘璀璨明珠’增殖的影响
+
+“璀璨明珠’芽苗接种在MS基本培养基附加不同激素浓度组合的培养基上，增殖系数和丛生芽高均表现出差异。由表2可知，6-BA对‘璀璨明珠’的增殖效果好于ZT，6-BA各个处理下芽苗的增殖系数都高于 ZT处理，其中激素组合 $6 { \mathrm { - } } \mathrm { { B A } 0 . 4 \ m g \cdot \mathrm { { L } ^ { - 1 } + N A A 0 . 0 5 \ m g } }$ ： ${ \mathrm { ~ L } } ^ { - 1 }$ 处理下增殖系数达6.63（图版I：B），显著高于其他6个处理。6-BA处理下，随其浓度增加，可观察到瓶内增殖的丛生芽和侧芽增多，但当6-BA浓度达到 $0 . 8 \mathrm { ~ m g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ 后，统计的增殖系数反而一定程度降低。而从株高上来看，不论是6-BA还是ZT处理，随激素浓度增加，株高降低，且各浓度处理之间差异显著。‘璀璨明珠’离体芽苗的增殖方式主要为叶腋处侧芽增殖和基部的丛生芽增殖（图版I：E）。 $0 . 8 { \sim } 1 . 6 \ \mathrm { m g \cdot L } ^ { - 1 }$ 的6-BA 处理下,芽苗基部增殖出大量饱满的不定芽，但受高浓度6-BA影响，不定芽紧缩，不能伸长生长（图版I：F），导致增殖出的有效苗数少，增殖系数低，整体株高低，影响后续植株生根效率。可见，‘璀璨明珠’离体芽苗增殖对6-BA敏感，浓度稍高，即可抑制其增殖和生长。
+
+# 表2不同细胞分裂素种类和浓度对‘璀璨明珠’增殖的效果
+
+Table 2 Effects of different hormone type and concentration on proliferation of Telopea speciosissima‘BraidwoodBrilliant'   
+
+<html><body><table><tr><td rowspan="2">序号 No.</td><td colspan="3">激素组合 Hormone concentration（ mg ·L-1）</td><td rowspan="2">增殖系数 Proliferation coefficient</td><td rowspan="2">丛生芽高 Multiple shoots height (cm)</td></tr><tr><td>ZT</td><td>6-BA</td><td>NAA</td></tr><tr><td>1</td><td>0.2</td><td></td><td></td><td>1.70±0.22c</td><td>3.07±0.05b</td></tr><tr><td>2</td><td>0.5</td><td></td><td></td><td>0.63±0.05d</td><td>2.27±0.20c</td></tr><tr><td>3</td><td>1</td><td></td><td></td><td>2.13±0.33c</td><td>1.93±0.16d</td></tr><tr><td>4</td><td>1</td><td>0.4</td><td>0.05</td><td>6.63±0.29a</td><td>4.32±0.20a</td></tr><tr><td>5</td><td></td><td>0.8</td><td></td><td>4.00±0.24b</td><td>2.25±0.15c</td></tr><tr><td>6</td><td></td><td>1.2</td><td></td><td>4.53±0.48b</td><td>1.88±0.23d</td></tr><tr><td>7</td><td></td><td>1.6</td><td></td><td>4.57±0.73b</td><td>1.06±0.03e</td></tr></table></body></html>
+
+# 2.3生根培养与炼苗移栽
+
+MS 基本培养基附加不同浓度NAA、IBA和 $2 0 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ 活性炭组合处理,对‘璀璨明珠’进行生根诱导。从3表可以看出，相同NAA和IBA组合和浓度下，‘璀璨明珠’生根率、株高、愈伤组织横径3个指标，在是否添加活性炭的处理间存在显著差异。各个添加活性炭的处理，生根率均为零，而株高和长势都显著好于不添加的处理，说明 $2 ~ 0 0 0 ~ \mathrm { m g \cdot L ^ { - 1 } }$ 活性炭不利于‘璀璨明珠’生根，却促进其生长。从愈伤组织横径来看，除1号和2号处理之间无显著差异外，其余同一生长素浓度下，不添加活性炭处理的愈伤组织横径均显著大于添加处理的。‘璀璨明珠’需要一定浓度生长素诱导才能生根，生根率随生长素浓度增加而提高，且相同浓度 $0 . 8 \mathrm { ~ m g ~ } \cdot \mathrm { ~ L } ^ { - 1 }$ IBA和 $0 . 8 \mathrm { ~ m g ~ } \cdot \mathrm { ~ L ~ } ^ { - 1 }$ NAA 诱导的生根率无显著差异。其中$\mathrm { I B A 0 . 7 5 m g \cdot L ^ { - 1 } + N A A ~ 1 ~ m g \cdot L ^ { - 1 } }$ 组合下生根率为 $70 \%$ ，显著高于其他处理（图版I：G），株高较矮，为 $1 . 2 2 \mathrm { c m }$ ；而其愈伤组织横径较小，为 $0 . 5 4 \mathrm { c m }$ ，移栽时利于成活，故 $\mathbf { M S + }$ IBA0.75$\mathrm { m g \cdot L ^ { - 1 } { + } N A A 1 m g \cdot L ^ { - 1 } }$ 为‘璀璨明珠’适宜的生根培养基。
+
+将生根苗带瓶移至大棚内炼苗1周后，移栽至珍珠岩和细草炭（ $0 { \sim } 5 \ \mathrm { m m }$ ）体积比为$0 . 5 : 1$ 的栽培基质中。刚移栽时，光照强度 $1 0 0 0 0 { \sim } 1 2 0 0 0 \mathrm { l x }$ ，空气湿度 $70 \% \sim 8 0 \%$ ，土壤只用保持表面潮湿即可，约 $2 0 \mathrm { d }$ 发出新根后，可逐渐增大光照强度使之适应外部环境。 $6 0 \mathrm { d }$ 后，穴盘苗株高 $7 { \sim } 9 \mathrm { c m }$ （图版I：H,I），成活率 $7 2 \%$ 。
+
+表3不同处理下‘璀璨明珠’的生根效果  
+Table 3 Effects of different treatments on rooting of Telopea speciosissima ‘Braidwood   
+
+<html><body><table><tr><td colspan="7">Brilliant</td></tr><tr><td rowspan="3">编号 No.</td><td colspan="3">因子组合</td><td rowspan="2">生根率 Rooting rate （%)</td><td rowspan="2">株高 Plant height （cm）</td><td rowspan="2">愈伤横径 Calli diameter</td></tr><tr><td></td><td>Factors combination（mg ·L-1)</td><td></td></tr><tr><td></td><td>IBA</td><td>NAA</td><td>活性炭</td><td></td><td>(cm)</td></tr><tr><td>1</td><td>0.75</td><td>1</td><td>2 000</td><td>0.00±0.00c</td><td>4.78±0.09b</td><td>0.53±0.02c</td></tr><tr><td>2</td><td>0.75</td><td>1</td><td></td><td>0.70±0.08a</td><td>1.22±0.10e</td><td>0.54±0.05c</td></tr><tr><td>3</td><td>0.4</td><td>0.5</td><td>2 000</td><td>0.00±0.00c</td><td>4.27±0.05bc</td><td>0.52±0.02c</td></tr><tr><td>4</td><td>0.4</td><td>0.5</td><td></td><td>0.53±0.05b</td><td>1.49±0.05e</td><td>1.45±0.07ab</td></tr><tr><td>5</td><td>0.8</td><td></td><td>2 000</td><td>0.00±0.00c</td><td>4.22±0.03bc</td><td>0.50±0.04cd</td></tr><tr><td>6</td><td>0.8</td><td></td><td></td><td>0.60±0.08b</td><td>1.45±0.24e</td><td>1.43±0.24b</td></tr><tr><td>7</td><td>0.2</td><td>0.2</td><td>2 000</td><td>0.00±0.00c</td><td>4.10±0.12c</td><td>0.34±0.07d</td></tr></table></body></html>
+
+<html><body><table><tr><td>8</td><td>0.2</td><td>0.2</td><td>1</td><td>0.00±0.00c</td><td>2.20±0.07d</td><td>1.55±0.02a</td></tr><tr><td>9</td><td></td><td>0.8</td><td>2 000</td><td>0.00±0.00c</td><td>5.38±0.03a</td><td>0.49±0.05cd</td></tr><tr><td>10</td><td></td><td>0.8</td><td></td><td>0.60±0.08b</td><td>2.32±0.78d</td><td>1.51±0.03ab</td></tr></table></body></html>
+
+A．开花植株；B.正常生长和增殖的繁殖苗；C.1/2MS 基本培养基上的生长情况；D.WPM基本培养上的生长情况；E.芽通过侧芽和基部丛生芽方式增殖；I $\therefore 1 . 2 \mathrm { m g } \cdot \mathrm { L } ^ { - 1 } 6 { \cdot } \mathrm { B }$ A下增殖芽伸长受抑制；G.瓶内生根；H.瓶苗移栽到育苗盒；I.移栽成活的穴盘苗。
+
+![](images/1cfc65b4cd9542081dc39c3fa5866858263a8f3a90bda29955abf33ce3d29cd7.jpg)  
+图版I不同影响因素下帝萝花·璀璨明珠'植株离体再生
+
+A.Flowering plant；B.Seedlings grow and multiplicate strongly; C. Growth situation of seedlings on the 1/2MS basic medium; D. Growth situation of seedlings on the WPM basic medium; E.Proliferating shoots originate from axillary buds and basic adventitious buds; F.Elongation of proliferating buds were suppressed by $1 . 2 ~ \mathrm { m g \cdot L ^ { - 1 } }$ 6-BA; G. Rooting in vitro; H. Transplant seedlings to substrates in seedling box; I. Surviving plug seedlings
+
+Plate IPlant regeneration of Telopea speciosissima ‘Braidwood Brilliant’ effected by different factors
+
+# 3讨论
+
+诱导培养阶段，‘璀璨明珠’外植体侧芽的萌发率、侧芽叶形和叶色正常，可满足后续培养要求，在相同培养基中，进一步增殖培养却出现叶片失绿、变黄，最后整株变黄的症状，分析原因主要是诱导阶段，侧芽萌发消耗外植体茎段和芽体自身的营养物质，脱离母体进入增殖阶段后，其生长需异养支持，在不适合的培养基上便出现生长异常现象，也说明本研究所用的诱导培养基还可进一步优化。
+
+MS是组织培养中应用较为广泛的一种培养基，属于富集元素平衡培养基；WPM培养基是木本植物组织培养常用的培养基，属于中盐低氮培养基(吉训志等，2019)。帝萝花增殖苗在中氮培养基1/2MS和低氮培养基WPM上长势弱，且叶片不同程度黄化；测定SPAD值后，SPAD值低于MS培养基中增殖苗的。闫平等（2019）认为随着施肥量的增加，两个超级稻品种叶片SPAD值呈逐步增加的趋势。蔡艳飞（2014）等也研究发现：在不同氮水平下，SPAD值及相对叶色差与单位干重的总氮含量具有显著线性正相关关系，SPAD值的变化能够反映$60 \%$ 的单位干重叶氮含量的变化，可以利用SPAD-502型叶绿素计对高山杜鹃进行快速、无损的氮素营养诊断。本研究中，不同氮素水平下，‘璀璨明珠’增殖苗长势和叶片SPAD值的变化趋势与前人研究一致。‘璀璨明珠’虽然是木本植物，但其对基本培养基中的氮素和盐分有一定需求。
+
+活性炭是植物组织培养中生根环节常用的添加物，适于生根的浓度为 $0 . 1 \% { \sim } 0 . 5 \%$ （孙占育等，2010)。韩文璞等（2001）在甜樱桃组织培养中，在生根培养基中加入 $1 0 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ 的活性炭，生根率达 $100 \%$ ，根系发达、洁白，移栽成活率高。在黄金梨的生根培养基中加入 $5 0 0 \mathrm { m g \cdot L ^ { - 1 } }$ 的生根效果好，生根率达 $80 \%$ 以上(王献革，2003)。孙占育等(2010)认为，在植物生根的培养基中，加入一定浓度的活性炭有利于诱导生根，但如果活性炭浓度过高，则抑制生根。本研究中，生根培养基添加 $2 0 0 0 \mathrm { m } \mathrm { g } \cdot \mathrm { L } ^ { - 1 }$ 活性炭处理，出现植株不生根而长势健壮的情况，是由于活性炭浓度不合适而导致的不生根问题，还是活性炭本身不适宜用于‘璀璨明珠’生根？需进一步进行活性炭多浓度梯度对生根影响的研究。
+
+# 参考文献：
+
+CAI YF, LI SF, LI SF, et al., 2O14. Rapid nitrogen diagnosis for Rhododendron ‘Furnivall' Daughter'using SPAD-502[J].JW Chin For Sci,43(1):40.[蔡艳飞，李世峰，李树发，等， 2014．利用SPAD-502对高山杜鹃氮素营养的快速诊断研究[J]．西部林业科学，43（1）： 40.]   
+MACLENNAN R,1993. Growing proteas[M]. Sydney: Kangaroo Press: 20-98.   
+HE LN,PAN HT, MA L et al., 2O12. Study on initiation culture of Protea cynarorides[J]. Advan in OrnamHortic Chin:284-288.[何丽娜，潘会堂，马琳，等，2012．王帝王花（Protea cynarorides）启动培养研究[J]．中国观赏园艺研究进展:284-288．]   
+HAN WP, YUAN ML,2OO1. The application of activated carbon in the tissue culture of sweet cherry[J].Deciduous Fruit,(3):7-8.[韩文璞，袁明莲，2001．活性炭在甜樱桃组织培养中的 应用[J]．落叶果树，(3):7-8．]   
+JIAN HY, XIONG L, GUI M, et al., 2OO6.Preliminary study on the trial of several novel woody cut flower in Kunming[J]. Chin Agric Sci Bull,22(1):200-203.[蹇洪英，熊丽，桂敏，等, 2006.几种新型木本切花在昆明的引种试种试验初报[J].中国农学通报,22（1)：200-203.]   
+JI XZH, QIN XW,HU LS, et al., 2O19. Current research on tissue culture of woody plants[J]. Chin J Trop Agric,39(4):34.[吉训志，秦晓威，胡丽松，等，2019.木本植物组织培养[J]．热 带农业科学，39（4）：34．]   
+LI X, WU M, JIAN HY, et al., 2OO9. The effect of cuting season, plant growth regulators and their concentration on the rooting of Leucadendron cv. Inca Gold cutings[J]. Chin Agric Sci Bull,25(2):143-147.[黎霞，吴旻，蹇洪英，等，2009．扦插时间和植物生长调节剂对木百 合插条生根的影响[J]．中国农学通报，25（2）：143-147．]   
+LU XP, YANG BX, XU CJ,2O13. Study on correlation and path analysis between SPAD values and chlorophyII concentrations in three species of Berberidaceae leaves[J]. J Zhejiang (Agric & Life Sci),39(3):261-266.[卢晓萍，杨丙贤，徐婵娟，等，2013．3种小檗科植物叶片SPAD 值与叶绿素的相关性及通径分析[J]．浙江大学学报(农业与生命科学版)，39(3):261-266．]   
+OFFORD CA,CAMPBELL LC, MULLINS MG, 1992. Micropropagation of Telopeaspeciosissima R.Br.(Proteaceae).1:Explant establishment and proliferation [J]. Plant Cell Tissue and Organ Culture, 29 : 215-221.   
+SU KJ, WANG WP, WANG G, et al., 2O08. Preliminary report on introduction of twelve kinds of Australian woody flowers[J]. Guangdong For Sci Technol,24(5):61-64.[苏开君，王伟平，王 光，等，2008．澳洲红银桦等12种木本花卉引种初报[J]．广东林业科技，24（5）：61-64.]   
+SUN ZHY, SUN ZHQ, CAO B. 2O10. Effect of activated charcoal in rooting process of plant tissue culture[J].Hunan Agric Sci,(7): 3-5.[孙占育，孙志强，曹斌，2010．活性炭在促进组 培苗植物生根中的作用[J]．湖南农业科学，(7):3-5．]   
+WU HC,TOIT ES,2O10.Effects of temperature, light conditions and gibberellic acid on the in vitro germination of Protea cynaroides L.Embryos[J]. Afr JBiotech,9（47） : 8032-8037.   
+WRIGLEY JW,FAGG MF, 1989.Banksias, Waratahs and Grevillas and all other plants in the Australian Proteaceae family[M]. Sydney Collins: 537-542.   
+WU HC,TOIT ES, Reinhardt CF,2007. A protocol for direct somatic embryogenesis of Protea cynaroides L. using zygotic embryos and cotyledon tissues[J]. Plant cell, Tissue and Organ Culture, (89): 217-224.   
+WU HC, TOIT ES, 2012. In vitro organogenesis of Protea cynaroides L. shoot-buds cultured under red and blue light emitting diodes[J]. https://www.researchgate.net/ publication/ 224830473.   
+WANG XG, JI H, WANG LM, 2OO3. Tissue culture and rapid propagation of Pyrus pyrifoliacv .Whangkumbe[J].PlPhysiol Comm,39(6): 621.[王献革，及华，王利民，2003．黄 金梨的组织培养和快速繁殖[J]．植物生理学通讯，39(6)：621．]   
+YAN P, ZHANG SL, YYM, et al., 2O19.Fertilizer amount affecting leaf SPAD value of 2 super rice varieties[J].Chin Agric Sci Bull,35(7):7.[闫平，张书利，于艳敏，等，2019．施肥量对 两个超级稻品种叶片SPAD值的影响[J]．中国农学通报，35（7）：7．]

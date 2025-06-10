@@ -1,0 +1,226 @@
+# 基于字典学习的跨媒体检索技术
+
+戚玉丹，张化祥，刘一鹤(山东师范大学 信息科学与工程学院，济南 250358)
+
+摘要：在研究跨媒体信息检索时，对于不同模态数据的异构性提出了挑战，针对如何更好的克服异构问题以提高多模态数据之间的检索精度，提出了一种基于字典学习的新跨媒体检索技术。首先，通过字典学习方法学习两个不同模态数据之间的稀疏系数，然后，通过特征映射方案由两个不同的投影矩阵分别把它们投入共同的特征子空间，最后，通过标签对齐同一类来增强不同模态之间的相关性。实验结果表明，与传统的同构子空间学习方法相比，基于字典的算法分类性能优越，该实验方法在两个数据集上优于几种最先进的方法。
+
+关键词：跨媒体检索；字典学习；稀疏表示；模态独立；特征映射中图分类号：TP391
+
+# Cross-media retrieval technology based on dictionary learning
+
+Qi Yudan, Zhang Huaxiang†, Liu Yihe (School of Information Science& Engineering Shandong Normal University,Jinan 250358,China)
+
+Abstract: Inthesudyofcross-mediartrieval,howtocaptureandcorrlateheterogeneous featuresoriginating frodierent modalitiesremainsachalenge.Tocope withtheaforementioned problems,this paperpresentedanovelcross-modaletrieval frameworkbasedoncoupleddictionaryleaing.Firstly,itobtained sparsecoeficients fromdiffrent modalitiesbyimposing dictionarylearning.Then,itprojected thedatasamples fromdiferent modalities intoacommonfeature space.Moreover,it leveragedlabel information toalignthecross-modal data sample pairs inthecommon space soastoencourage theinherent corelationacrossthe diferent modalities.Simulation experimentalresults showthatthe method basedondictionary learing algorithmhassuperiorrecognitionperformanceincomparison withthe methods basedontraditionalmid-levelfeature subspace, experiment results on two public datasets demonstrate that our method outperforms several state-of-the-art methods. Key Words: cross-modal retrieval; dictionary learning; sparse representation; modality-dependent; feature mapping
+
+# 0 引言
+
+早期的数据检索多针对单模态数据，即查询和检索的数据属于相同模态。例如，给定一个文本查询，单模态的方法直接与网络上的文本原数据进行匹配，而不是相一致的图像。通常这些单模态的方法不能应用于跨媒体检索。跨媒体检索是多媒体检索中基于内容的一个新的研究领域，由于不同模态的数据之间存在着异构性难以实现直接互检。如何解决不同模态数据之间的异构问题，从而实现多媒体数据之间的互检成为跨媒体检索领域的一个重要研究问题。
+
+近年来，对跨媒体检索提出了许多新的方法，通过挖掘不同模态之间潜在的关系，实现跨模态数据之间的互检。具体来说，最具权威的典型相关性分析（canonicalcorrelationanalysis,CCA）[I是一种经典的特征学习方法，该方法通过最大化两组特征之间的相关性，得到两种特征在子空间中的低维表达，并使其相关度最高。CCA的提出为跨媒体检索的研究起到了很大的推动作用，它的扩展方法在跨媒体检索领域得到了广泛的应用。例如，Rasiwasia等人[2]提出的方法中，从关联假设和抽象假设两个方面对跨媒体检索问题进行了整合。Hwang等人[3]已经根据用户提供的注释顺序，对单词的相对重要性进行了建模，以提高跨模式检索的精度。Ballan等人[4使用核CCA(kernel canonical correlationanalysis,KCCA)开发交叉视图检索方法来建立图像和文本的关联性。除基于CCA的方法外，还有许多其他的跨媒体检索的方法。其中偏最小二乘法（partialleastsquares,PLS)[5]是一种新型的多元统计数据分析方法，它于1983年由伍德(Wold)和阿巴诺(Albano)等人首次提出，近年来，它在理论、方法和应用方面得到了迅速的发展。Chen等人[将偏最小二乘法（PLS）应用于跨媒体检索，他们使用PLS来转换视觉特征到文本特征空间中，学习一个语义来测量两种不同模式之间的相似性。除此之外，还有线性判别分析（LDA）和边界Fisher分析(MFA)。Sharma等人[7将基于线性判别分析(LDA)和边界Fisher分析（MFA）的广义多视图分析扩展为广义多视图LDA（GMLDA）和广义多视图MFA（GMMFA）已应用于跨媒体检索。跨媒体哈希是通过将不同形式的数据嵌入到一个普通的低维汉明空间中进行跨媒体检索，将高维数据对象映射为简洁的哈希编码，使得相似的数据对象拥有相同或者相似的哈希码，进而通过测量二进制哈希码之间的相似度来获得原始数据之间的相似度，近年来引起了广泛的关注。例如，Yu等人[8]提出了一种判别的哈希字典学习方法(DCDH)。另外，随着深度学习在计算机领域突破性的进展，一些深度学习方法也被用于跨媒体相似度检索模型，如卷积神经网络（convolutionalneural network,CNN）、递归神 经网络（recursiveneuralnetwork,RNN）和自动编码（auto encoder）等。基于深度学习方法研究，Andrew 等人[9]提出了深度典型相关性分析（deepcanonicalcorrelation analysis,DCCA)。DCCA学习不同模态数据之间的非线性投影，从而使得学习到的数据是高度线性相关的。Wang 等人[10]提出了基于有监督方法的多模态深层神经网络（MDCCN)。Jiang等人[1]提出了基于深度学习的实时网络跨媒体检索方法，根据图像特征向量的贡献对它们中的元素进行排序，然后消除不必要的特性。即使这些存在的方法解决了跨媒体检索的问题，但是大多数存在的方法只专注于通过两个特征空间的距离来学习两种模态的相关性，从而忽略了不同的语义特征。另外，类标签信息也没有得到充分的利用。为充分学习在不同特征空间中的异构特征，稀疏字典学习日益受到广泛的关注。
+
+# 1 简介
+
+字典学习 $[ 1 2 ^ { - } 1 6 ]$ 旨在从训练数据中找到一组特殊的稀疏编码，这一组稀疏元素足以线性地表示这些原始数据的特征，从而用尽可能少的数据表示尽可能多的内容。因此，字典实质上是对于庞大数据集的降维，稀疏表示是用尽可能少的数据表示尽可能多的特征，以提高检索效率。由于这种表示是有效的，字典学习得到了广泛的应用。在本文中主要关注在图像与文本之间的多媒体检索(图1)，使用图像搜索文本文档或者文本搜索图像（I2T和T2I)。其中图1（a）给定一个飞机的图像，任务是找到与此图像相关的文本报告；（b）关于两个飞行员的文本文件，任务是找到关于他们相关的图片。
+
+另一方面，本文将两个模态的检索任务分开来执行，即为模态独立方法。模态独立[17]不同于以前的方法学习一对投影，它学习两对映射将图像检索文本和文本检索图像从其原始特征空间投影到两个公共潜在子空间。因为如果两个任务同时学习，得到的公共子空间为I2T和T2I共同的最优子空间，通常对用于检索模态的语义理解并非最优的。例如，在图像检索文本中，通常认为图像语义空间中查询的准确表示比要检索的文本更为重要，若查询的语义被错误判断，则更难以检索相关文本。如果分开执行，图像检索文本时就可以把图像单独投影到它的语义空间，这时对这个图像的语义理解没有了文本的干扰则是最优的，理解了图像语义之后，对数据的检索更加准确，从而提高跨媒体检索的精度，通过实验证明模态独立相对其他算法也是有效的。
+
+![](images/af5d7b3652684a0dde167112d61d41bc78286c0f1c0cf22898691d9bb879444f.jpg)
+
+本文将字典学习与模态独立相结合，学习一种基于模态独立与字典学习新的跨媒体检索技术。首先通过字典学习将多模态数据转换为稀疏表示，并保证所生成的表示是均匀的；然后使用线性回归映射这些稀疏系数，将来自不同模态的数据生成的稀疏表示由两个不同的投影矩阵映射到两个公共语义空间中。图2描述了本文提出方法的框架。其中图2（a）和（c）是两个线性回归操作，分别表示图像和文本特征空间到语义空间。因此，具有相同语义的多模态数据可以在公共潜在子空间中关联起来。图2(b)是一种相关性分析操作，在公共空间中保持多模态数据的相互关联。将图2（a）与（b）结合起来，学习对I2T的投影；同样的，对T2I学习一个不同的投影由图2(b)和（c)共同优化。
+
+![](images/f3b0677f89130fc009458e6b0640d160713a94f8040f6d345741491a3cb26876.jpg)  
+图1跨媒体检索任务  
+图2跨媒体检索的框架
+
+# 2 相关工作
+
+为了提高跨媒体检索效率，本文提出一种基于模态独立的
+
+字典学习方法，其中字典学习模型是关键的技术，并将图像检索文本与文本检索图像的任务分开训练；最后确定目标函数，根据不同的参数设置来讨论它们的优化算法。
+
+# 2.1字典学习
+
+设 $X = [ x _ { 1 , } x _ { 2 , } . . . x _ { N } ] \in R ^ { N \times P }$ 是维度为P，样本数为N的数据集。利用稀疏字典进行跨媒体检索中异构数据的处理。主要方法是通过字典重构，将原始数据之间的相关关系转换为稀疏系数之间的关系。其目标函数表示为
+
+$$
+\begin{array} { l } { \displaystyle \operatorname* { m i n } _ { D , A } \left\| X - A D \right\| _ { F } ^ { 2 } + \alpha \left\| A \right\| _ { 1 } } \\ { s . t . ~ \left\| d _ { i } \right\| \leq 1 ~ \forall i \in [ 1 : K ] } \end{array}
+$$
+
+其中： $\boldsymbol { D } = [ d _ { 1 } , d _ { 2 } , . . . d _ { K } ] \in \boldsymbol { R } ^ { K \times P }$ 是学习的字典； $d _ { i }$ 是字典中第 $i$ 个原子；K 表示字典的大小； $A \in R ^ { ^ { N \times K } }$ 是根据字典 $\mathrm { ~ D ~ }$ 得到的样本数据X的稀疏系数； $\left\| . \right\| _ { F } ^ { 2 }$ 表示F的二范数； $\left\| X - A D \right\| _ { F } ^ { 2 }$ 目的是使字典D与稀疏系数A的线性组合尽可能地接近数据样本 $\mathrm { \Delta } \mathrm { X }$ ；另外，用 $\alpha \left\| A \right\| _ { 1 }$ 来控制稀疏。
+
+# 2.2检索任务描述
+
+综上对本文提出优化框架原理的概述，下面对本文检索的两个任务分别进行详细的描述。
+
+# 2.2.1图像检索文本
+
+本节首先讨论跨媒体检索中图像检索相一致的文本。其中I2T 的线性回归术语是一个从图像空间到语义空间的回归操作。假设本文定义 $\boldsymbol { X } _ { \boldsymbol { V } } = \left[ \boldsymbol { \nu } _ { 1 } , \boldsymbol { \nu } _ { 2 } , . . . \boldsymbol { \nu } _ { n } \right] \in \boldsymbol { R } ^ { n \times p }$ 为维度P,个数为 $\mathfrak { n }$ 的图像数据集； $\boldsymbol { X } _ { \ u { T } } ^ { } = [ t _ { 1 } ^ { } , t _ { 2 } ^ { } , . . . t _ { n } ^ { } ] \in \boldsymbol { R } ^ { n \times q }$ 为维度为 $\mathsf { q }$ ，个数为 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 的文本数据集； $\boldsymbol { D } _ { \boldsymbol { V } } \in \boldsymbol { R } ^ { k \times p }$ 是学习图像的字典， $\boldsymbol { D } _ { T } \in \boldsymbol { R } ^ { k \times p }$ 是学习文本的字典； $A _ { _ V } \in \boldsymbol { R } ^ { n \times k }$ 是图像的稀疏系数， $\boldsymbol { A } _ { T } \in \boldsymbol { R } ^ { n \times k }$ 是文本的稀疏系数，其中图像的稀疏稀疏Av和文本的稀疏系数 $\mathbf { A } _ { \mathrm { T } }$ 依赖于学习的字典得出。 $\boldsymbol { Y } ^ { ( i ) } = [ y _ { 1 } , y _ { 2 } . . . y _ { n } ] \in \boldsymbol { R } ^ { n \times c }$ 是关键词矩阵，即公共语义子空间。其中图像的投影矩阵是 $\boldsymbol { W } _ { V 1 } \in \boldsymbol { R } ^ { k x c }$ ， $W _ { T 1 } \in R ^ { k \times c }$ 是文本的投影矩阵。字典学习的目的是分别学习图像和文本的两个投影矩阵，利用投影矩阵将两个模态的稀疏表示 $A _ { _ V }$ 和 $\boldsymbol { A } _ { T }$ 投影到一个共同的特征空间中。描述的框架表述如下：
+
+$$
+\begin{array} { r l } { \underset { { \substack { { D _ { V } , { D _ { T } } , A _ { r } } , A _ { r } , W _ { v _ { 1 } } , W _ { r _ { 1 } } } } } { \operatorname* { m i n } } \left\| X _ { \nu } - { A _ { \nu } } { D _ { \nu } } \right\| _ { F } ^ { 2 } + \left\| X _ { T } - { A _ { T } } { D _ { T } } \right\| _ { F } ^ { 2 } + \left\| A _ { \nu } W _ { \nu 1 } - { Y ^ { ( i ) } } \right\| _ { F } ^ { 2 } + } & { } \\ { { \ a _ { 1 } } ( \left\| A _ { \nu } \right\| _ { 1 } + \left\| A _ { T } \right\| _ { 1 } ) + \left\| A _ { \nu } W _ { \nu 1 } - { A _ { T } } W _ { T 1 } \right\| _ { F } ^ { 2 } + { \alpha _ { 2 } } \left\| W _ { V 1 } \right\| _ { F } ^ { 2 } + { \alpha _ { 3 } } \left\| W _ { T 1 } \right\| _ { F } ^ { 2 } \quad ( 2 ) } & { } \end{array}
+$$
+
+其中： $\left\| X _ { V } - A _ { V } D _ { V } \right\| _ { F } ^ { 2 }$ 为通过字典学习图像的稀疏系数 $A _ { _ V }$ ；$\left. X _ { T } - A _ { T } D _ { T } \right. _ { F } ^ { 2 }$ 为通过字典学习文本的稀疏系数 ${ \sf 4 } _ { _ T } \ ; \ \left\| _ { { \cal V } } { \cal W } _ { { \cal V } 1 } - { \cal Y } ^ { ( i ) } \right\| _ { _ F } ^ { 2 }$ 作为线性回归项，通过投影矩阵 $W _ { _ { V 1 } }$ 将稀疏系数矩阵投影到语义空间，使得具有相同语义的多媒体数据聚集在一起。其中参数$0 \leq \alpha \leq 1$ ，为均衡参数。 ${ \left. { A _ { V } } \right. } _ { 1 }$ 和 $\left. _ { A _ { T } } \right. _ { 1 }$ 用来控制稀疏， $\left\| \boldsymbol { W _ { V 1 } } \right\| _ { F } ^ { 2 }$ 和$\left. W _ { T 1 } \right. _ { F } ^ { 2 }$ 用来控制投影矩阵 $W _ { _ { V 1 } }$ 和 $W _ { T 1 }$ 复杂度避免过拟合。$\left. _ { A _ { V } W _ { V 1 } - A _ { T } W _ { T 1 } } \right. _ { F } ^ { 2 }$ 为相关分析项，目的是使同一类的数据更相近，增强不同模态之间的相关性。本文的模型中，不同模态的数据相关性得以表示。
+
+# 2.2.2文本检索图像
+
+本节讨论跨媒体检索中文本检索相一致的图像。T2I的线性回归术语是一个从文本空间到语义空间的回归操作，与图像检索类似。
+
+定义 $\boldsymbol { X } _ { _ V } \ : = [ \nu _ { _ 1 } , \nu _ { _ 2 } , . . . \nu _ { _ n } ] \in \boldsymbol { R } ^ { n \times p }$ 为维度 $\textsf { p }$ ，个数为 $\mathfrak { n }$ 的图像数据集； $\boldsymbol { X } _ { _ T } \ = [ t _ { _ 1 } , t _ { 2 } , . . . t _ { n } ] \in \boldsymbol { R } ^ { n \times q }$ 为维度为 $\mathsf { q }$ ，个数为 $\mathfrak { n }$ 的文本数据集;$A _ { _ V } \in \boldsymbol { R } ^ { n \times k }$ 是图像的稀疏系数， $\boldsymbol { A } _ { T } \in \boldsymbol { R } ^ { n \times k }$ 是文本的稀疏系数；（204 $\boldsymbol { D } _ { \boldsymbol { V } } \in \boldsymbol { R } ^ { k \times p }$ 是学习图像的字典， $\boldsymbol { D } _ { T } \in \boldsymbol { R } ^ { k \times p }$ 是学习文本的字典;（204号 $\boldsymbol { Y } ^ { ( t ) } = [ y _ { 1 } , y _ { 2 } . . . y _ { n } ] \in \boldsymbol { R } ^ { n \times c }$ 是公共语义子空间，与 $\mathrm { Y ^ { ( i ) } }$ 可以近似的看做一个公共语义子空间。这里设两个与图形检索文本不同的投影矩阵 $\ b { W _ { V 2 } } \in \ b { R } ^ { k \times c }$ 和 $W _ { T 2 } \in R ^ { k \times c }$ ，描述的框架表述如下：
+
+$$
+\begin{array} { r l r } {  { \operatorname* { m i n } _ { \substack { D _ { V } , D _ { T } , A _ { r } , A _ { T } , W _ { r 2 } , W _ { r 2 } } } \| X _ { T } - A _ { T } D _ { T } \| _ { F } ^ { 2 } + \| X _ { V } - A _ { V } D _ { V } \| _ { F } ^ { 2 } + \| A _ { T } W _ { T 2 } - Y ^ { ( t ) } \| _ { F } ^ { 2 } + } } \\ & { } & { \mathfrak { a } _ { 1 } ( \| A _ { V } \| _ { 1 } + \| A _ { T } \| _ { 1 } ) + \| A _ { V } W _ { V 2 } - A _ { T } W _ { T 2 } \| _ { F } ^ { 2 } + \mathfrak { a } _ { 2 } \| W _ { V 2 } \| _ { F } ^ { 2 } + \mathfrak { a } _ { 3 } \| W _ { T 2 } \| _ { F } ^ { 2 } \quad ( 3 ) } \end{array}
+$$
+
+与图像检索文本原理相同，其中 $\left\| A _ { T } W _ { T 2 } - Y ^ { ( t ) } \right\| _ { F } ^ { 2 }$ 为通过投影矩阵 $W _ { T 2 }$ 将稀疏系数矩阵投影到关键词子空间，使得具有相同语义的多媒体数据聚集在一起； $\left. \boldsymbol { W _ { V 2 } } \right. _ { F } ^ { 2 }$ 和 $\left. W _ { T 2 } \right. _ { F } ^ { 2 }$ 控制其复杂度避免过拟合； $\left. { { A } _ { V } } { { W } _ { V } } _ { 2 } - { { A } _ { T } } { { W } _ { T } } _ { 2 } \right. _ { F } ^ { 2 }$ 作为相关分析项使同一类的数据更相近，提高它们的相关性。同样的，在本文模型中，不同模态的数据相关性被表示。
+
+# 3 优化
+
+I2T和T2I的优化问题是两个矩阵的无约束优化问题。因此，式（2）和（3）是非凸优化问题，并有许多局部最优解。为解决这个问题，设计一个算法来寻找固定点。可以注意到，当固定其他两项时，式(2)对另一项是凸面的。相似的，式（3)在固定另外两个的情况下，也可以是凸面的。分别通过固定Dv(Dr)、Av(Ar)或者 $\mathrm { W } _ { \mathrm { V 1 } } ~ ( \mathrm { W } _ { \mathrm { T 2 } } ) $ ）中的其中两个，用迭代更新来完成对另一个的最小化。具体优化策略如下：
+
+首先，更新字典 $\mathrm { D v }$ ，固定稀疏系数Av和投影矩阵 $\mathrm { w } _ { \mathrm { V } 1 }$ 如下：
+
+$$
+\operatorname* { m i n } _ { D _ { V } } { \left\| { X _ { V } - A _ { V } D _ { V } } \right\| _ { F } ^ { 2 } }
+$$
+
+$$
+s . t . \quad \left\| d _ { i } \right\| \leq 1 \quad \forall i \in [ 1 : K ]
+$$
+
+这是一个二次约束的二次规划问题（QCQP)，求解可以通过拉格朗日对偶技术得到[20]。
+
+同理，对于字典 $\mathrm { D } _ { \mathrm { T } }$ 的求解相似,可以由下式得出：
+
+$$
+\operatorname* { m i n } _ { D _ { T } } { \left\| { \boldsymbol { X } } _ { T } - { \boldsymbol { A } } _ { T } { \boldsymbol { D } } _ { T } \right\| _ { F } ^ { 2 } }
+$$
+
+$$
+s . t . \quad \left\| d _ { i } \right\| \leq 1 \quad \forall i \in [ 1 : K ]
+$$
+
+然后，在字典 $\mathrm { D v }$ 和投影矩阵 $\mathrm { w } _ { \mathrm { V } 1 }$ 不变的情况下来求解稀疏系数。由（2）可得
+
+$$
+\begin{array} { l } { \displaystyle \underset { A _ { \nu } } { \mathop { \operatorname* { m i n } } } \left\| X _ { \nu } - A _ { \nu } D _ { \nu } \right\| _ { F } ^ { 2 } + \left\| A _ { \nu } W _ { \nu 1 } - Y \right\| _ { F } ^ { 2 } } \\ { \displaystyle + \alpha _ { 1 } \left\| A _ { \nu } \right\| _ { 1 } + \left\| A _ { \nu } W _ { \nu 1 } - A _ { T } W _ { T 1 } \right\| } \end{array}
+$$
+
+通过分析，求偏导可得
+
+$$
+A _ { V } = { ( X _ { _ { V } } D _ { _ { V } } ^ { ^ { T } } + Y W _ { _ { V 1 } } ^ { ^ { T } } + A _ { _ { T } } W _ { _ { T 1 } } W _ { _ { V 1 } } ^ { ^ { T } } ) } ^ { - 1 } { ( D _ { _ { V } } D _ { _ { V } } ^ { ^ { T } } + \alpha _ { _ { 1 } } E + 2 W _ { _ { V 1 } } W _ { _ { V 1 } } ^ { ^ { T } } ) } ^ { - 1 }
+$$
+
+同理可得
+
+$$
+A _ { _ T } = { ( X _ { _ T } D _ { _ T } ^ { ^ T } - A _ { _ V } W _ { _ { V 1 } } W _ { _ { T 1 } } ^ { ^ T } ) } ^ { - 1 } { ( D _ { _ T } D _ { _ T } ^ { ^ T } + \alpha _ { _ 1 } E - W _ { _ { T 1 } } W _ { _ { T 1 } } ^ { ^ T } ) } ^ { - 1 }
+$$
+
+最后，更新投影矩阵 $\mathrm { W } _ { \mathrm { V } 1 }$ ，固定字典 $\mathrm { \Delta D v }$ 和稀疏系数 $\mathbf { A v }$ 0分析由式（2）可得
+
+$$
+\operatorname* { m i n } _ { W _ { V 1 } } { \left\| A _ { V } W _ { V 1 } - Y \right\| } _ { F } ^ { 2 } + \left\| A _ { V } W _ { V 1 } - A _ { T } W _ { T 1 } \right\| _ { F } ^ { 2 } + \alpha _ { 2 } \left\| W _ { V 1 } \right\| _ { F } ^ { 2 }
+$$
+
+同理，可求解得
+
+$$
+W _ { V 1 } = { ( 2 A _ { V } ^ { T } A _ { V } + \alpha _ { 2 } E ) } ^ { - 1 } { ( A _ { V } ^ { T } Y + A _ { V } ^ { T } A _ { T } W _ { T 1 } ) } ^ { - 1 }
+$$
+
+$$
+W _ { T 1 } = A _ { V } ^ { T } A _ { V } W _ { V } ( A _ { V } ^ { T } A _ { T } + \alpha _ { 3 } E ) ^ { - 1 }
+$$
+
+综上所述，本文设计的目标函数在各部分均为凸函数，因此有最优解。为了获得最终结果，需要不断地重复上述步骤，直到最终收敛。本文在以下的算法中总结了此过程。相似的方法可以应用到文本检索图像。
+
+算法I2T算法描述算法1I2T的交替迭代优化过程
+
+输入：图像的特征矩阵 $\mathsf { x } _ { \mathsf { v } } ,$ ，文本的特征矩阵 $\mathsf { X } _ { \mathsf { T } }$ ，以及图像和文本相一致的语义Y。  
+1初始化字典 $\mathsf { D } _ { \mathsf { V } }$ 、 ${ \sf D } _ { \sf 7 }$ 和稀疏系数 $\mathsf { A } _ { \mathsf { V } }$ 、 $\mathsf { A } _ { \mathsf { T } }$ 靠 FDDL[22]，设Wv1、 $\boldsymbol { \mathsf { W } } _ { \mathsf { T } 1 }$ 为单位矩阵。  
+2 如果不收敛则继续执行。  
+3更新字典 ${ \sf D } _ { \sf V }$ 、 ${ \sf D } _ { \sf { T } }$ 、由式（4）（5)，固定稀疏系数AvAr和投影矩阵Wv1、WT1o  
+4更新稀疏系数 $\mathsf { A } _ { \mathsf { V } }$ Ar.由式(6)，固定字典 $\mathsf { D } _ { \mathsf { V } }$ ${ \sf D } _ { \sf { T } }$ 和投影矩阵Wv1 $\mathsf { W } _ { \mathsf { T } 1 }$ 05：更新投影矩阵 $\mathsf { W } _ { \mathsf { V } 1 }$ 、Wr1.由式（7)，固定字典 $\mathsf { D } _ { \mathsf { V } } , \mathsf { D } _ { \mathsf { V } }$ 和系数Av $\mathsf { A } _ { \mathsf { T } }$ 。6：直到收敛为止。  
+输出：字典 $\mathsf { D } \mathsf { v } , \mathsf { D } _ { \mathsf { T } }$ 和投影矩阵Wvi、WT1。
+
+# 4 实验
+
+为验证本文提出的跨媒体检索性能，进行了以下实验：首先阐述实验设置和本文采用的评估指标，然后将本文提出的方法与其他几种模型进行比较。
+
+# 4.1实验设计
+
+本文在两个公共图像-文本数据集上对该方法进行评估。Wikipedia 文本图像数据集[17]和Pascal Sentence 的数据集[17]。实验针对两个检索任务进行的:a)图像数据库中的文本查询；b)文本数据库中的图像查询。
+
+Wikipedia数据集：数据集包含有10个类的2866个图像一文本对，随机地将数据集分为2173个训练集和693个测试集。
+
+PascalSentence数据集：数据集包含了1000个图像一文本对，由20个语义类别的标签标注(每个类别有50对)，对于每一类，随机选择30个图像一文本对作为训练集，其余的作为测试集。
+
+对于两个数据集，每个图像一文本对的真实标签用来构造语义向量(用于Wikipedia 数据集的10 维，用于Pascal Sentence数据集的20个维度)被用于语义表示。具体地，本文利用了4096维CNN视觉特征表示图像和由文献[17]所公开提供的的100 维LDA来表示文本。
+
+在本文中，使用归一化相关的系数（NC）来测量变换子空间中不同媒体对象的特征之间的相似度，通过召回率（PR）曲线和平均精度均值（mAP）来评估检索的性能。mAP是每个查询的平均精度(AP)的平均值。分别的，定义平均精度为（20 $A P = \frac { 1 } { T } \sum _ { r = 1 } ^ { N } P ( r ) \delta \left( r \right)$ ，其中：T是属于同一类别的检索数据的数量；P(r)表示第r个检索数据的精度。如果第r个检索的数据与查询具有相同的标号，则 $\delta ( r ) = 1$ ，否则 $\delta ( r ) = 0$ 。在实验中,设置 $\scriptstyle \mathbf { N = } 5 0$ 。查询所有的平均精度AP的值以获得平均精度的平均值mAP，其中mAP的值越大，算法的准确性越高。
+
+# 4.2性能比较
+
+为了客观地评价本文提出的方法，将本文所提出的方法与其他几种主要的算法进行比较。其中包括典型相关性分析CCA算法[2]、深度典型相关性分析DCCA[9]、语义匹配SM算法[2]、语义关联匹配SCM算法[2]、三视图CCA(TVCCA)[25]、广义多视角线性判别分析（GMLDA）[7]、广义多视图边缘Fisher分析（GMMFA）[7],以及模态独立的跨媒体检索（MDCR）[17]。在本文的实验中，所有的比较方法都使用相同的特性和训练集进行比较。
+
+表2Wikipedia 数据集的跨媒体检索性能比较  
+
+<html><body><table><tr><td rowspan="2">方法</td><td colspan="2">平均精度均值(mAP)</td></tr><tr><td>图像检索文本</td><td>文本检索图像 平均值</td></tr><tr><td>CCA</td><td>0.226</td><td>0.246 0.236</td></tr><tr><td>DCCA</td><td>0.309</td><td>0.288 0.298</td></tr><tr><td>SM</td><td>0.403</td><td>0.357 0.380</td></tr><tr><td>SCM</td><td>0.351</td><td>0.324 0.337</td></tr><tr><td>T-VCCA</td><td>0.310</td><td>0.316 0.313</td></tr><tr><td>GMLDA</td><td>0.372</td><td>0.322 0.347</td></tr><tr><td>GMMFA</td><td>0.371</td><td>0.322 0.346</td></tr><tr><td>MDCR</td><td>0.420</td><td>0.382 0.401</td></tr><tr><td>Proposed</td><td>0.438</td><td>0.401 0.420</td></tr></table></body></html>
+
+![](images/896ee06090461690c2b7b7370b647ec039033f9cd31cf0c4d4182e8eb4aa9426.jpg)  
+图3Wikipedia 数据集上召回率比较
+
+在实验中， $\mu$ 是交替更新过程中的步长，ε是收敛的条件，因此，设它们的范围在0\~1间。它们的值越小，则交替更新的结果越准确。在测试集上进行实验的参数是根据训练集的交叉验证结果确定，而不是任意选择。
+
+在Wikipedia 数据集上，在测试了不同的参数设置后，首先确定了 $\scriptstyle \mu = 0 . 0 2$ ， $\scriptstyle \mathtt { \varepsilon } = 1 0 ^ { - 2 }$ 。为了进一步验证实验效率，选用4096维CNN的图像特征和100 维LDA的文本特征。实验中设置$\alpha _ { 1 } { = } 0 . 1$ 、 $\mathtt { q } _ { 2 } = 0 . 5$ 、 $\mathrm { a } _ { 3 } { = } 0 . 5$ ，用于优化I2T和T2I。比较结果显示在表1中，可以看出本文提出的方法平均精度均值mAP从 $1 . 9 \%$ 平均改善至 $1 8 . 4 \%$ 。图像查询文本任务和文本查询图像任务的精确范围曲线显示在图3中，范围是检索到的顶级数据的数量。可以观察到，本文方法有更好的结果，它优于几种最先进的方法。
+
+表3Pascal Sentence 数据集的跨媒体检索性能比较  
+
+<html><body><table><tr><td rowspan="2">方法</td><td colspan="3">平均精度均值(mAP)</td></tr><tr><td>图像检索文本</td><td>文本检索图像</td><td>平均值</td></tr><tr><td>CCA</td><td>0.261</td><td>0.356</td><td>0.309</td></tr><tr><td>DCCA</td><td>0.322</td><td>0.366</td><td>0.344</td></tr><tr><td>SM</td><td>0.426</td><td>0.467</td><td>0.446</td></tr><tr><td>SCM</td><td>0.369</td><td>0.375</td><td>0.372</td></tr><tr><td>T-VCCA</td><td>0.337</td><td>0.439</td><td>0.388</td></tr><tr><td>GMLDA</td><td>0.456</td><td>0.448</td><td>0.462</td></tr><tr><td>GMMFA</td><td>0.455</td><td>0.447</td><td>0.451</td></tr><tr><td>MDCR</td><td>0.448</td><td>0.475</td><td>0.462</td></tr><tr><td>Proposed</td><td>0.483</td><td>0.490</td><td>0.486</td></tr></table></body></html>
+
+![](images/3117847ed0ccbd2685d21190efc95214b5f8a25840f70205674ea7c0892f0758.jpg)  
+图4Pascal Sentence 数据集上召回率比较
+
+在Pascal Sentence 数据集上，设置 $\scriptstyle 1 = 0 . 0 2$ $\scriptstyle \varepsilon = 1 0 - 4$ $\mathrm { \ a _ { 1 } = 0 . 0 1 }$ 、$\mathtt { q } _ { 2 } mathtt { = } 0 . 5$ 、 $\scriptstyle \mathtt { q } _ { 3 = } 0 . 5$ ，用于优化I2T和T2I。比较结果显示在表2中，本文提出的方法平均精度mAP平均改善从 $2 . 4 \%$ 至 $1 7 . 7 \%$ 。图像查询文本任务和文本查询图像任务的精确范围曲线显在图 4中，在实验中，本文方法对两个任务都得到了更好的结果。
+
+# 5 结束语
+
+本文设计了一个有效的跨媒体检索模型，通过字典学习生成稀疏系数，并将不同形式的数据投射到公共子空间，利用标签对齐方式增强不同模式之间的相关性，在这个空间中可以很好地发挥模式之间的内在联系；另外，本文将图像搜索文本与文本搜索图像分开来训练，分别来学习两对投影，充分发挥了它们各自的特征优势。在Wikipedia 数据集和Pascal Sentence 两个数据集上，大量的实验证明，提出的方法不仅提高了多模态之间的检索效率，而且对于单模态数据的识别也是有效的，为字典学习扩展了稀疏表示，对于求解最小化问题提出了有效的迭代算法。实验结果表明，本文提出的方法是有效的。
+
+# 参考文献：
+
+[1]Hardoon D, Szedmak S,Shawe-Taylor J. Canonical correlation analysis: an overview with application to learning methods [J].Neural Comput, 2004,16 (12): 2639-2664   
+[2]Rasiwasia N,Pereira J,Coviello E,et al.A new approach to cross-modal multimedia retrieval [C]//Proc of the 18th ACM International Conference on Multimedia.2010: 251-260.   
+[3]Hwang S,Grauman K.Learning the relative importance of objects from tagged images for retrieval and cross-modal search [J].International Journal of Computer Vision,2012,100: 134-153.   
+[4]Ballan L, Uricchio T, Seidenari L,et al.A cross-media model for automatic image annotation [C]// Proc of International Conference on Multimedia Retrieval. Glasgow, United Kingdom: ACM Press.2014: 73.   
+[5]Rosipal R,Krämer N.Overview and recent advances in partial least squares [C]// Proc of International Conference on Subspace,Latent Structure and Feature Selection. Bohinj, Slovenia: Springer-Verlag,.20o5:34-51.   
+[6] Chen Y,Wang L,Wang W,et al. Continuum regression for cross-modal multimedia retrieval [C]// Proc of IEEE International Conference on Image Processing.2013: 1949-1952.   
+[7]Sharma A, Kumar A,Daume H, et al: Generalized multiview analysis: a discriminative latent space [C]// Proc of IEEE Conference on Computer Vision and Pattern Recognition.2012: 2160-2167.   
+[8]Yu Z,Wu F, Yang Y,et al. Discriminative coupled dictionary hashing for fast cross-media retrieval[C]// Proc of International ACM SIGIR Conference on Research & Development in Information Retrieval. Gold Coast, Queensland, ACM Press,2014: 395-404.   
+[9]Andrew G,Arora R,Bilmes JA,et al. Deep canonical correlation analysis [C]// Proc of International Conference on Machine Learning.2013:1247- 1255.   
+[10] Wang W, Yang X, Ooi BC,et al. Effective deep learningbased multi-modal retrieval[J]. The VLDB Journal,2016,25 (1): 79-101.   
+[11] Jiang B,Yang J,Lv Z,et al.Internet cross-media retrieval based on deep learning [J]. Journal of Visual Communication & Image Representation,
+
+2017,48:356-366.
+
+of IEEE Conference on Computer Vision and Patern Recognition. [S.1.] : IEEE Computer Society,2012: 2216-2223.   
+[13] Zhuang Y, Wang YF,Wu F, et al: Supervised coupled dictionary learning with group structures for multi-modal retrieva [Cl//Proc of the 27th AAAI Conference on Artificial Intelligence. 2013:1070-1076.   
+[14] Huang Dean, Wang Y C F. Coupled dictionary and feature space learning with applications to cross-domain image synthesis and recognition [Cl/ Proc of IEEE International Conference on Computer Vision.2013: 2496- 2503.   
+[15] Xu X, Yang Y,Shimada A,et al. Semi-supervised coupled dictionary learning for cross-modal retrieval in Internet images and texts [C]//Proc of ACM International Conference on Multimedia.2015: 847-850.   
+[16] $\mathrm { { X u } } \mathrm { { X } } \mathrm { { S } }$ DictionaryLearning Based Hashing for Cross-Modal Retrieval[C]// Proc of ACM on Multimedia Conference. 2016: 177-181.   
+[17] Wei Y, Zhao Y, Zhu Z,etal. Modality-dependent cross-media retrieval [J]. ACM Trans on Intelligent Systemsand Technology,2016,17 (4): 57.   
+[18] Wang Kaiye, He Ran, Wang Wei,et al. Learning coupled feature spaces for cross-modal matching [C]/ Proc of IEEE International Conference on Computer Vision. 2013: 2088-2095.   
+[19] Puthividhy D,Attias H T, Nagarajan S S. Topic regression multi-modal Latent Dirichlet Allocation for image annotation [C]// Proc of IEEE International Conference on Computer Vision and Pattern Recognition.2010: 3408-3415.   
+[20] Scholkopf B,PlattJ, Hofmann T.Efficient sparse coding algorithms [C]// Advances in Neural Information Processing Systems. 2006: 801-808.   
+[21]WuFei,HanYahong,Liu Xiang,etal.Theheterogeneousfeatureselection with structural sparsity for multimedia annotation and hashing: a survey [J]. International Journal of Multimedia Information Retrieval,2012,1(1):3- 15.   
+[22] Yang M, Zhang D,Feng X.Fisher discrimination dictionary learning for sparse representation [C]/ Proc of IEEE International Conference on Computer Vision. 2011: 543-550.   
+[23]RasiwasiaN,MahajanD,Mahadevan V,etal.Cluster canonical correlation analysis[C]// Proc of the17th International Conference on Artificial Intelligence and Statistics.2014: 823-831.   
+[24]WangYanfei,Wu Fei,Song Jun,etal.Multi-modal mutual topic reinforce modeling for cross-media retrievalss [C]// Proc of the 22nd ACM International Conference on Multimedia.2014:307-316.   
+[25] Gong Y,Ke Q,Isard M,et al. A multi-view embedding space for modeling Internet images,tags,and their semantics [J].International Journal of Computer Vision,2014,106 (2): 210-233.   
+[26] Cao Y,Long M,Wang J,etal. Deep visual-semantic hashing for cross-modal retrieval [C]// Proc of ACM SIGKDD International Conferenceon Knowledge Discovery and Data Mining.San Francisco,California:ACM Press,2016:1445-1454.   
+[27] Ngiam J,Khosla A,Kim M,etal.Multimodal deep learning[C]//Proc of International Conference on Machine Learning.2011: 689-696.   
+[28] Shang X,ZhangH, Chua TS.Deep learning generic features for cross-media retrieval [M]// MultiMedia Modeling.Miami,FL:Springer International Publishing,2016: 264-275.   
+[29] Feng F,Wang X,Li R.Cross-modal Retrieval with Correspondence Autoencoder[C]//Proc of International Conference on Multimedia.Orlando, Florida: ACMPress,2014:7-16.   
+[30] Cao Yue,Long Mingsheng,Wang Jiamin,etal.Correlation hashing network foreffcient cross-modal retrieval [C]//Proc of IEEE International Conference on Computer Vision and Pattern Recognition.2016.

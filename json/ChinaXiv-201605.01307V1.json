@@ -1,0 +1,308 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: o2 March 2015   \nAccepted: 10 April 2015   \nPublished: 2o May 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Innate lymphotoxin receptor mediated signaling promotes HSV-1 associated neuroinflammation and viral replication ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yong Liang¹,2, Kaiting Yang¹,², Jingya Guo¹,Joanna Wroblewska³, Yang-Xin Fu³ & Hua Peng1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Host anti-viral innate immunity plays important roles in the defense against HSV-1 infection.In this study,we find an unexpected role for innate LT/LIGHT signaling in promoting HSV-1 replication and virus induced inflammation in immunocompromised mice. Using a model of footpad HSV-1 infection in Rag1-/- mice, we observed that blocking LT/LIGHT signaling with $\\mathsf { L T } \\beta \\mathsf { R } \\cdot \\mathsf { l g }$ could significantly delay disease progression and extend the survival of infected mice. $\\mathsf { L T } \\beta \\mathsf { R } \\cdot \\mathsf { l g }$ treatment reduced late proinflammatory cytokine release in the serum and nervous tissue,and inhibited chemokine expression and inflammatory cells infiltration in the dorsal root ganglia (DRG). Intriguingly, $\\mathsf { L T } \\mathbb { \\beta } \\mathsf { R } \\mathsf { - } \\mathsf { l } \\mathsf { \\mathsf { g } }$ treatment restricted HSV-1 replication in the DRG but not the footpad.These findings demonstrate a critical role for LT/LIGHT signaling in modulating innate inflammation and promoting HSV-1 replication in the nervous system,and suggest a new target for treatment of virus-induced adverse immune response and control of severe HSV-1 infection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Herpes simplex virus type 1 (HSV-1) is a ubiquitous human pathogen causing acute,latent, reactive,and persistent infections1.HSV-1 invades the human host through the oral mucosa and establishes lifelong latency in the trigeminal ganglion.Although HSV-1 infection usually causes only mild clinical disease such as herpes labialis or“cold sores,it could lead to lethal herpes simplex encephalitis (HSE) in neonates or immunocompromised individuals2.HSE is associated with active viral replication and vigorous inflammation in the central nervous system (CNS).Although innate cytokines,such as type I IFN and TNF,are required for HSV-1 control, excessve inate inflammatory response could be harmful to the host3-5.Depletion of macrophage or neutrophil improved the survival of infected 129S6 mice,which are susceptible to ${ \\mathrm { H S E } } ^ { 6 }$ .TLR2 has been reported to promote HSV-induced lethal encephalitis through mediating innate cytokine response7. A more thorough understanding of the signaling pathways and mechanisms that regulate innate anti-viral response to HSV-1,as well as maladaptive inflammation, would be informative in the development of clinical treatments for HSV-1 associated diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lymphotoxin-beta receptor $( \\mathrm { L T } \\mathrm { \\bar { \\beta } R } )$ ，a member of the TNFR superfamily, binds to two ligands: Lymphotoxin- $\\alpha 1 \\beta 2$ (LT) and LIGHT (homologous to LT,exhibits inducible expression,and competes with HSV glycoprotein D for HVEM,a receptor expressed by T lymphocytes). LT- $\\mathrm { . L T \\beta R }$ signaling-induced chemokine and cel migration is required for the maintenance of secondary lymphoid tissue structure8,9. The development and maintenance of marginal zone macrophages,follicular dendritic cells and the ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Key Laboratoryof Infectionand Immunity, Institute of Biophysics,ChineseAcademyof Sciences,Beijing100101, China.²University of Chinese Academy of Sciences，Beijing1oo049,China.3Department of Pathology and Committee on Immunology, Universityof Chicago,Chicago,Illnois 6o637, USA.Correspondence and requests for materials should be addressed toY.-X.F.(email: yfu@uchicago.edu)or H.P. (email: hpeng@moon.ibp.ac.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "organized structure in the spleen by LT signaling is important to the production of type 1 IFN,IgG and $\\bar { \\mathrm { C D 8 + } }$ T cell response against viral infections,such as lymphocytic choriomeningitis virus (LCMV) and vesicular stomatitis virus10-13. In addition, LT- $\\mathrm { L T } \\mathrm { \\beta R }$ signaling could directly promote type 1 IFN expression against mouse cytomegalovirus (MCMV) infection in the spleen14. IT signaling has been shown to play a key role in adaptive immunity against HSV-1. HSV-1 specific IgG responses are impaired in $\\mathrm { L T } \\mathrm { \\propto } \\mathrm { - } I \\mathrm { - }$ mice when immunized with UV-inactivated virus15. LTα-/- mice have impaired HSV-1 specific T celleffector function and fail to control viral infectionof the central nervous systeml6.LIGHT is mainly expressed on immature dendritic cells (DC)and activated Tcells.It was frst found to be a co-stimulator of T cells functioning through the HVEM receptorl7-19.LIGHT interaction with $\\mathrm { L T } \\mathrm { \\beta R }$ can upregulate proinflammatory chemokines and adhesion molecules,which recruit and activate immune cels20,21. There is no report yet about the function of this molecule in HSV-1 infection. Overall,previous studies in immunocompetent mice suggest that $_ { \\mathrm { L T - L T ( \\mathrm { 3 R } } }$ signaling may play a protective role against HSV-1 infection through regulating adaptive immunity. To our surprise, $\\bar { \\mathrm { R a g 1 ^ { - / - } } }$ mice treated with blockade of LT/LIGHT signaling showed increased resistance to HSV-i infection: delayed development of lesions and increased survival. Our study suggests that innate LT/LIGHT signaling may be exploited to promote HSV-1 replication and virus-induced neuroinflammation in immunocompromised mice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LT/LIGHT signaling contributes to HSV-1 induced morbidity and mortality in Rag1-/- mice.LT- $\\mathrm { L T } \\mathrm { \\beta R }$ signaling has been shown mostly to play a key role in adaptive effector function against HSV-1 and other pathogens1,216This signaling pathway is asoinvoled inregulating innate immunity against infection of cytomegalovirus, a member of Herpesviridae family14,22 To explore the role of $\\mathrm { L T } \\mathrm { \\beta \\dot { R } }$ signaling in the innate response to HSV-1 infection,HSV-1 infected $\\mathrm { { \\dot { R a g l } ^ { - } } }$ mice were treated at day -1 and 5 with soluble $\\mathrm { L T \\beta R \\mathrm { - } I g . }$ ，which blocks the LT/LIGHT interaction with $\\mathrm { L T } \\mathrm { \\beta R } ^ { 2 3 , 2 4 }$ . Unexpectedly, $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment greatly inhibited the disease progression of infected $\\mathrm { R a g l ^ { - / - } }$ mice. Control $\\mathrm { I g }$ treated mice exhibited skin lesions starting as early as on day 8.Mice treated with $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ were asymptomatic until day 11 (Fig. la). Notably,control animals died at about 10 days post infection (p.i.), while $\\mathrm { \\bar { L } T \\mathrm { \\beta R - I g } }$ treatment significantly $\\mathrm { ' P } { = } 0 . 0 0 9 8 \\mathrm { ' }$ ) extended the survival of infected mice to about day 20 p.i. (Fig. la). These data suggest that LT/LIGHT signaling promotes HSV-1 associated pathogenesis and death in immunocompromised mice. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ binds to two ligands of LTβR: LT $\\alpha \\beta$ and LIGHT. To figure out which $\\mathrm { L T } \\mathrm { \\beta R }$ ligand plays a role in promoting HSV-1 associated pathogenesis, $\\mathrm { R a g l ^ { - / - } }$ or $\\mathrm { R a g ^ { - / - } L I G H T ^ { - / - } }$ mice were infected and treated with $\\mathrm { \\bar { L } T \\mathrm { | 3 R - I g , } }$ anti- $. { \\mathrm { L T } } \\beta$ antibody or control protein. The progression of disease in $\\mathrm { R a g ^ { - / - } L I G H T ^ { - / - } }$ mice was similar to $\\mathrm { R a g 1 ^ { - / - } }$ mice. Furthermore, $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment could still increase the resistance of $\\mathrm { R a g ^ { - / - } L I G H T ^ { - / - } }$ （204号 mice to HSV-1 infection (Fig.1b).These results suggest that LIGHT is not essential to drive pathogenesis. Blockade of the interaction of LT-LT $\\mathrm { \\ B R }$ with anti- $. { \\mathrm { L T } } \\beta$ antibody in $\\mathrm { R a g l ^ { - / - } }$ mice showed no protective effct (Fig.lc),raising the posibility that blocking both ligands is required for enhancing mouse resistance to HSV-1 infection. Indeed, treatment with anti- $\\mathrm { . L T \\beta }$ alleviated disease symptoms and extended the survival of $\\mathrm { R a g ^ { - / - } L I G H T ^ { - / - } }$ mice (Fig. 1c).Deficiency for either $\\mathrm { L T \\beta }$ or LIGHT could not recapitulate the protective effect of $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ against HSV-1, indicating a redundant or compensatory role of LT and LIGHT in the HSV-1 infection induced pathogenesis $( { \\mathrm { F i g . 1 b , c } } )$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LT/LIGHT signaling stimulates late systemic and local proinflammatory cytokine release induced by HsV-1 infection.HSV-1 more frequently reactivates in immunocompromised hosts, causing intense inflammation in the mucosa and brain tissues. To explore the efect of LT/LIGHT signaling in HSV-1 -induced inflammation, Cytometric Bead Array was utilized to determine the serum cytokine profile following infection. $\\mathrm { R a g 1 ^ { - / - } }$ mice injected subcutaneously with HSV-1 in the footpad showed a biphasic proinflammatory cytokine response. At early time points，such as 24hours p.i., increased levels of IL-6,MCP-1 and TNF were detected in serum (Supplemental Fig.la). Cytokine levels were reduced at 72hours p.i. (data not show). On day 7 p.i., $\\mathrm { R a g l } ^ { - 1 - }$ mice started exhibiting signs of illness and body weight loss.Though the level of $\\mathrm { I F N - \\gamma _ { \\uparrow } }$ ,IL-10 and IL-12 were very low or undetectable at this time point (data now show),significantly elevated levels of other proinflammatory cytokines were detected in the serum,especially IL-6 and MCP-1 and a trending increase in TNF (Fig. 2a). High levels of IL-6 and MCP-1 were also found in spinal cord and brain indicating that viral infection had induced intense inflammatory response in CNs (Fig. $2 { \\mathrm { b } } , \\mathrm { c }$ ). These kinetics suggest that the second wave of cytokine responses might play some role in the HSV-1 associated pathogenesis. Interestingly, $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment at day -1 and 5 substantially reduced the level of proinflammatory cytokines in the serum at day 7p.i. (Fig.2a).LTβR-Ig treatment also reduced the production of both MCP-1 and IL-6 in the spinal cord (Fig.2b)and brain (Fig. 2c). These data suggest that LT/LIGHT promotes the late wave of inflammation induced by HSV-1 infection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine if the late wave of proinflammatory cytokine and mouse death were caused by HSV-1 invasion of CNS,viral titers were tracked in various tissues of moribund mice.Virus could be detected at the footpad infection site,brainstem and cerebellum.No virus was found in the spleen,lung or liver, suggesting no systemic viral dissemination occurred in $\\mathrm { R a g l ^ { - / - } }$ mice (Supplemental Fig.lb).To further confirm that HSV-1 spreading from sensory nerves to CNS is critical to infection-induced lethality in immunocompromised mice,sciatic nerve resection was performed one day before infection to block the transportation of HSV-1 from peripheral footpad to DRG and spinal cord. Indeed,this surgical operation greatly extended the survival of infected $\\mathrm { R a } \\bar { \\mathrm { g } } 1 ^ { - / - }$ mice (Supplemental Fig. lc). These data suggest that HSV-1 infection of the spinal cord and brain through the infected footpad acts to induce proinflammatory cytokine release,which is promoted by LT/LIGHT signaling. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/792b5509c8d717970b8a128b1e3fb7d9eecfff3f0140d88201c8c84828683518.jpg",
+        "img_caption": [
+            "Figure 1.Blockade of LT/LIGHT inhibits disease progression and extends the survival of $\\mathbf { R a g l } ^ { - / - }$ mice after HSV-1 infection. (a) $\\mathrm { R a g l ^ { - / - } }$ mice $( \\mathrm { n } { = } 6 / \\mathrm { g r o u p } )$ were infected with $2 \\times 1 0 ^ { 6 }$ pfu of HSV-1 and treated with $1 0 0 \\mathrm { u g }$ of $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ or control protein on day -1 and day 5p.i. (b,c) $\\mathrm { R a g l ^ { - / - } }$ 1 $\\mathrm { \\Delta L I G H T ^ { + / + } }$ or $\\mathrm { R a g ^ { - / - } L I G H T ^ { - / - } }$ mice ( $\\mathrm { \\tilde { n } } = 3$ to 5/group) were infected with $2 \\times 1 0 ^ { 6 }$ pfu of HSV-1 and treated with $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ (b),anti- $. \\mathrm { L T } \\beta$ (c) or control protein as indicated.Anti- $\\mathrm { { L T } \\mathrm { { \\beta } } }$ was administrated at $2 5 0 \\mathrm { u g / }$ mice every 3 days starting from day -1. Mice were observed for the development of skin lesion,general behavioral changes and survival.The severity of morbidity was scored as follows: $^ { 0 + }$ ,normal; $^ { 1 + }$ ,footpad swell; $^ { 2 + }$ ，show ulceration in the skin of thigh; $^ { 3 + }$ ,tail incline to one side or paralysis; $^ { 4 + }$ ,moribund mice which were euthanized.The pathology score at the indicated time points are shown. Ctr Ig,control protein.Data are representative of more than three (a) or two $( \\boldsymbol { \\mathbf { b } } , \\boldsymbol { \\mathbf { c } } )$ independent experiments. Statistical analysis for survival data was by log rank test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c93eaf05be8dfff3f61f4a2d66da9878be8e9d45b9de072da9699d363469689.jpg",
+        "img_caption": [
+            "Figure 2.Blockade of LT/LIGHT inhibits late systemic and local proinflammatory cytokines release induced by HsV-1 infection. (a) $\\mathrm { R a g l ^ { - / - } }$ mice $[ \\mathbf { n } = 7$ to 9/group) were injected with $1 \\times 1 0 ^ { 7 }$ pfu of HSV-1 and treated with $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ or control protein as Fig.1A. On day 7p.i., cytokine levels of IL-6, MCP-1, TNF and $\\mathrm { I F N - } \\gamma$ in the serum were determined by CBA.Data are pooled from two independent experiments. $( \\boldsymbol { \\mathbf { b } } , \\boldsymbol { \\mathbf { c } } )$ On day 7p.i.,cytokine levels in the homogenate of spinal cord (b) and brain (c) were determined. $\\mathtt { n } = 4$ to 5/group. Data are representative of two independent experiments. (d) $\\mathrm { R a g l ^ { - / - } }$ mice $\\mathrm { \\Delta } \\cdot \\mathrm { n } = 4$ to 11/ group） were infected with $2 \\times 1 0 ^ { 6 }$ pfu of HsV-1 and treated with indicated antibody or protein to block in vivo cytokine signaling. TNFR-Ig or $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ was administrated at $\\scriptstyle 1 0 0 { \\mathrm { u g / m i c e } }$ on day-l and day 5 p.i.; Anti-IL-6 was administrated at $4 0 0 \\mathrm { u g / m i c e }$ every 3 days starting from day -1.Data are representative of two independent experiments. Uninfected, mice without infection; ${ \\mathrm { H S V } } +$ Ctr Ig,infected mice with control protein treatment; $\\mathrm { H S V + L T ( 3 R \\mathrm { - } I g , }$ infected mice with $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment. Statistical analysis for a,b,c.was by unpaired t test. Error bar represents SEM, $\\ast _ { \\mathrm { p } } < 0 . 0 5$ 0 $^ { * * } \\mathrm { \\mathtt { p } } < 0 . 0 1$ ， $^ { * * * } \\mathrm { p } < 0 . 0 0 1$ ; ns,no significant difference. d. was by log rank test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e92587341b59e9f22d078e4352e102d1b381767a781b96ccdfa8bfcea446c677.jpg",
+        "img_caption": [
+            "Figure 3.Blockade of LT/LIGHT signaling inhibits viral replication in nervous tissue. (a) $\\mathrm { R a g l ^ { - / - } }$ mice 0 $\\mathrm { \\tilde { n } } = 4$ to 7/group) were infected with $2 \\times 1 0 ^ { 6 } \\mathrm { p f u }$ ofHSV-1 and treated with either $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ or control protein on day $^ { - 1 }$ and day 5p.i..At the indicated time points of figures, mice were euthanized. Footpad, DRG (L3,L4 and L5) and spinal cord were collected. Viral loads in different tissue homogenates were determined by plaque assay. (b) $\\mathrm { R a g l ^ { - / - } }$ mice $\\mathrm { \\Delta } [ { \\bf n } = 4$ /group) were infected with $2 \\times 1 0 ^ { 6 } \\mathrm { p f u }$ of HSV-1 via footpad injection. For group with sciatic nerve (SN) resection,one segment of the SN was removed on day 2 (d2) p.i.,For the group with SN resection and blockade of LT/LIGHT, $\\scriptstyle 1 0 0 { \\mathrm { u g / m i c e } }$ of $\\mathrm { L T } \\mathrm { \\beta R – I g }$ was administrated on day 2p.i. (after sciatic nerve resection)and day 8p.i. Data are representative of two independent experiments. Statistical analysis for a.unpaired t test, Error bar represents SEM, $\\mathsf { \\Pi } ^ { * } \\mathtt { p } < 0 . 0 5$ 0 $^ { * * } \\mathrm { \\textmu } \\mathrm { P } < 0 . 0 1$ ， $^ { * * * } \\mathrm { p } < 0 . 0 0 1$ ; ns,no significant difference.b.log rank test. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To determine if the proinflammatory cytokines decreased by $\\bar { \\mathrm { L T } } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment contribute to disease progression, $\\mathrm { R a g l ^ { - / - } }$ mice infected with HSV-1 were treated with blocking antibodies or blocking fusion proteins for various proinflammatory cytokines. Blockade of TNF resulted in slightly earlier death,and blockade of IL-6 had no effect (Fig.2d). Neither treatment recapitulated the protective effect of $\\mathrm { L T } \\mathrm { \\beta \\mathrm { R - \\mathrm { I g } } }$ These data suggest that IL-6 and TNF induced by HSV-1 infection are not sufficient to promote disease progression. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LT/LIGHT signaling promotes HSV-1 replication in DRG and the spinal cord,but not the footpad. To further determine how $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment protects $\\mathrm { R a g l ^ { - / - } }$ mice from HSV-1,we examined the viral loads in tissues along the viral transportation pathway: from the infected footpad to dorsal root ganglia then to spinal cord25.There was no difference in HSV-1 viral load in the footpad between $\\mathrm { L T } \\mathrm { \\beta R – \\mathrm { I g } }$ treated $\\mathrm { R a g l } ^ { - / - }$ mice and control groups (Fig.3a).High levels of HSV-1 were maintained in the footpad until day 10 p.i..This was expected because $\\mathrm { { \\bar { R a g l } ^ { - } } ^ { - } }$ mice can not clear HSV-1 without adaptive immunity26.However, viral loads in nervous tissues were reduced substantially in the $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treated group. On day 8 and day 10p.i., while control mice had a high HSV-1 viral load in the lumbar DRGs which connect with sciatic nerve (L3,L4 and L5) (about $1 0 ^ { 3 } \\mathrm { p f u / m i c e } )$ ,the viral load in the DRG of $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treated mice was notably lower than $1 0 ^ { 2 }$ pfu (Fig.3a). Similarly,about loo-fold lower viral loads were detected in the spinal cord of $\\mathrm { R a g l ^ { - / - } }$ mice with $\\bar { \\mathrm { L T } } \\beta$ R-Ig treatment than control group (Fig. 3a). We observed a rapid increase of HSV-1 viral titers in DRG through day 6 to day 8 in control mice but a greatly slower increase in $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treated mice (Fig. 3a). Together, these data suggest that $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment targets the DRG and inhibits the initial rapid HSV-1 replication in the infected sensory neurons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To further prove this hypothesis,the sciatic nerve was resected on day 2p.i.,after the virus had established infection in the $\\mathrm { D R G } ^ { 2 5 , 2 7 }$ . The absence of further transportation of virus from the footpad to the ganglia following sciatic nerve resection did not alter the survival kinetics of $\\mathrm { R a g l ^ { - / - } }$ mice compared to the mock operation group (Fig.3b).This indicates that HSV-1 induced death resulted from viral amplification in the DRG and CNS but not the peripheral inoculation site. $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment starting from day 2 p.i., in the context of sciatic nerve resection, still prolonged the survival of $\\mathrm { R a g l ^ { - / - } }$ mice, suggesting that $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment functions through inhibiting rapid HSV-1 replication in ganglia (Fig.3b). These results suggest that LT/LIGHT signaling promotes HSV-1 replication in the DRG. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f678e920a32ff21cb357547d2aad824134d32ecbe18c6a8ea488350b2cf2df6.jpg",
+        "img_caption": [
+            "Figure 4.Blockade of LT/LIGHT inhibits chemokine expression and inflammatory cell infiltration into the DRG of infected Rag1-/- mice. $\\mathrm { R a g l ^ { - / - } }$ mice $\\mathrm { ( n } = 3$ to 5/group) were infected with HSV-1 and treated with $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ as Fig.la. Uninfected mice were chosen as the control group. On day 6p.i., DRGs (L3,L4 and L5)were collected from euthanized mice.The mRNA level of various chemokines (CCL2, CXCL10 and CXCL1/2) (a) and viral ICP0 gene ${ \\bf ( b ) }$ were measured by real-time PCR.Data are representative of two independent experiments.(c) On day 8p.i.,innate immune cell subsets in DRG were determined by flow cytometry assay. Gate strategy: monocytes $( { \\mathrm { C D 4 5 ^ { + } C D 1 1 b ^ { + } L y 6 C ^ { h i } L y 6 G ^ { \\mathrm { m i d d l e } } } } )$ , macrophage $( \\mathrm { C D } 4 5 ^ { + } \\mathrm { F } 4 / 8 0 ^ { + } ;$ ！ Data are pooled from two independent experiments, $\\mathtt { n } = 5$ to $6 /$ group. Statistical analysis for a, $\\mathbf { b }$ c was by unpaired t test. Error bar represents SEM, $\\mathsf { \\Pi } ^ { * } \\mathtt { p } < 0 . 0 5$ $^ { * * } \\mathrm { P } < 0 . 0 1$ ， $^ { * * * } \\mathrm { p } < 0 . 0 0 1$ ; ns,no significant difference. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LT/LIGHT signaling regulates innate immune cell recruitment into $\\mathsf { D R G } ,$ which might further stimulate HSV-1 infection.LT/LIGHT signaling can induce specific chemokines that recruit innate immune cells9,20,21. To determine if LT/LIGHT signaling affects HSV-1 replication in the DRG through regulating the immune microenvironment by recruited innate inflammatory cells,the effect of LT/LIGHT signaling in HSV-1 induced chemokines within the DRG was examined. On day 6p.i., HSV-1 infection induced a high level of expression of CCL2 and CXCL10 within the ganglia, chemokines responsible for macrophage/monocyte recruitment (Fig. 4a). The mRNA level of neutrophil attracting CXCL1/2 was slightly but not significantly elevated following infection. Strikingly, $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment inhibited the expression of these chemokines (Fig.4a),while the level of viral lytic associated gene ICP0 mRNA was not affected by $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treatment (Fig. 4b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Next, we explored the effect of LT/LIGHT signaling on the recruitment of innate immune cels into DRG. On day 8p.i., significant infiltration of inflammatory cells, consisting primarily of monocytes and macrophage were found in the DRG of $\\mathrm { R a g l ^ { - / - } }$ mice (Fig. 4c). Consistent with the previous chemokine data,neutrophil numbers did not increase (Supplemental Fig.2a).Impressively, $\\bar { \\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } } }$ treatment apparently inhibited macrophage and monocytes infiltration to the DRG on day 8 p.i. Mononuclear cell infiltration in DRG of infected mice was confirmed by H&E staining (supplemental Fig. 2b).IHC showed typical inflammation staining,where infected neuronal cells were surrounded by $\\mathrm { C D } 4 5 +$ mononuclear cells as highly dense foci within ganglia (supplemental Fig.2b). Compared to control animals, $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ treated mice had substantially reduced innate cellinfltration to the DRG (supplemental Fig. 2b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HSV-1 infection in neonates and immunocompromised individuals can cause lethal encephalitis,with vigorous and detrimental inflammation in brain tissue. Previous studies show that LT signaling plays a protective role against HSV-1 infection. LTα-/- mice had impaired virus-specific IgG and $\\mathrm { C D 8 + }$ T cell responses15,16. However, unlike wild type mice, severe HSV-1 related morbidity such as ulceration appeared at as early as day 6 after infection in $\\mathrm { L T } \\mathrm { \\alpha } \\mathrm { \\alpha } ^ { - / - }$ mice,at time point before the transition from innate to adaptive immunity. Because LT signaling was reported to be essential for type 1 IFN response,14,2 an anti-virus cytokine, we sought to determine if LT signaling could affect innate immunity to HSV-1 infection,using a model of HSV-1 footpad injection in Ragl-/- mice which lackB and T cells. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Surprisingly, we found that blockade of LT/LIGHT signaling by $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ fusion protein greatly delayed disease progression and extended the survival of infected $\\mathrm { R a g l ^ { - / - } }$ mice (Fig. la). By using $\\bar { \\mathrm { L T } } \\mathrm { \\beta } \\mathrm { \\beta } \\mathrm { \\dot { \\mathrm { R } } } \\mathrm { - } \\mathrm { \\dot { \\mathrm { I g } } }$ fusion protein which blocks both LT and LIGHT interacting with $\\mathrm { L T } \\mathrm { \\beta R } ,$ as well as genetic models we showed that both LT and LIGHT contributed to promoting HSV-1 associated disease in $\\mathrm { R a g l ^ { - / - } }$ mice (Fig. $\\mathbf { \\Phi } _ { 1 \\mathrm { b } , \\mathsf { c } } ,$ . A similar redundant or compensatory role of LT and LIGHT during secondary lymphoid tissue organogenesis has ben previously reported.Mice singly deficient for either $\\mathrm { L T \\vec { \\beta } }$ or LIGHT retained mesenteric LN organogenesis, while an absence of $\\mathrm { L T \\mathrm { \\beta R } }$ or a deficiency of both LT and LIGHT resulted in more severe defects28.Inaddition, complementation with LIGHT interacting through $\\mathrm { L T \\mathrm { \\beta R } }$ could lead to splenic reconstitution in $\\mathrm { L T ^ { - / - } m i c e ^ { 2 9 } }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HSV-1 frequently induces intense and detrimental inflammation in the mucosaand brain tissues of immunocompromised hosts.Using mouse model, we explored the effctofLT/LIGHT signaling in HSV-1-induced inflammation.In the mice with footpad injection of HSV-1,initial serum cytokines were found within hours after viral inoculation (SupplementalFig.la).Thesecytokines may derived from infected epithelialcels,tissue resident macrophages and dendritic cels in the footpad. Virus then travel up to the dorsal root ganglia along theaxon and take 5 to7days to lead to observable pathogenesis in the spinal cord7.Consistently,we found innate inflammatory cytokines were produced in the serum and CNS on day7p.i.and resulted in alate wave of cytokines in serum (Fig.2a-c).It is reported that TLR-mediated innate cytokine responses are essential to control HSV-1 in the trigeminal ganglia and prevent virus spread to the brain0.However, innate cytokines such as CXCL10,MCP-1and IL-6are also associated with herpes encephalitis7,31.Thus,although essential for controlling viral infection,inflammatory cytokine could have a deleterious role in the CNS.We found that LTβR-Ig treatmentcould eficiently prevent late inflammation on day7p.i.,which was correlated with less damage to the CNS of $\\mathrm { R a g l ^ { - / - } }$ mice (Fig. 2a-c). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LT was previously reported to be essential to defense against invading viruses, which mostly due to its role in maintaining intact lymphoid tissue architecture to support the immune response10-13. Our studies revealed that LT/LIGHT signaling played a detrimental role in $\\mathrm { \\bar { R a g l } ^ { - / - } }$ mice defense against HSV-1 infection, which is possibly due to its role in regulating innate inflammation.LT/LIGHT signaling has been shown to induce the expresion of various chemokine such as CXCL13 and CCL21,which guide or recruit immune cells to lymphoid tissue9,20,21. Treatment with $\\mathrm { L T } \\mathrm { \\beta R – I g }$ protein could effectively alleviate several autoimmune diseases with substantially attenuated inflammation19,2432.In our study we found that the DRG was a key site where LTβR-Ig treatment inhibited HSV-1 infection and further spread to the spinal cord (Fig.3a).LTβR-Ig treatment inhibited innate immune cell infiltration to the DRG of $\\mathrm { R a g l ^ { - / - } }$ mice after HSV-1 infection on day 8 p.i (Fig.4c).However,this reduced inate immune response did not result in an uncontrolled but restrained HSV-1 replication (Fig. 3a).We further found that $\\mathrm { L T } \\bar { \\boldsymbol { \\beta } } \\mathrm { R - } \\mathrm { I g }$ treatment reduced the mRNA level of chemokines (CCL2,CXCL10 etc.)on day 6p.i., when there is no difference of viral load or lytic associated gene ICP0 mRNA (Figs. 4a,b and 3a). This indicated that blockade of LT/LIGHT signaling by $\\mathrm { \\dot { L } T \\beta R - I g }$ directly contributed to the reduction of inflammatory infiltration to the DRG due to a decrease of chemokine expression, followed by inhibition of viral replication.Studies have shown that control of innate inflammation by administration of anti-inflammation drugs or depletion of macrophages and neutrophils could provide neuroprotection in the HSE model6.3.34 Our data and others suggest that $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ could be a candidate therapy for HSE to control viral infection and limit excessive inflammation within neuron tissue. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Overall, we have shown that LT/LIGHT signaling promotes chemokine expresson and inflammatory cell infiltration,as well as HSV-1 replication in the DRG and viral spreading to the CNS,resulting in lethal inflammation in the infected host. Our data,that blockade of LT/LIGHT signaling reduced innate inflammatory_cell recruitment and viral replication in the DRG, leave the intriguing possbility that infiltrating inflammatory cels and associated cytokines could drive HSV-1 replication through yet undiscovered mechanisms.In some instances,neuronal cels could be stressed by type I interferon and other cytokines to enter an apoptotic state which promotes HSV-1 reactivation and replication35.36. We propose that the positive feedback loop,from HSV-1 infection,induction ofcytokines/chemokines,cell infiltration, viral replication,and inflammation, might be initiated to stimulate adaptive immune responses to promote viral clearance. In the absence of adaptive immunity, HSV-1 induced inflammatory cytokine response is not suffcient for viral control and could be maladaptive and lethal to the host.Several studies have demonstrated that type 1 IFN is less effective for HSV-1 inhibition in DRG neurons than in mitotic cells35,36. How the host inflammatory responses effect HSV-1 replication in the nervous system of immunocompromised hosts has not been welldefined and should be an important aspect of future studies. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In summary,our study has uncovered a surprising and critical role of LT/LIGHT signaling in modulating innate inflammatory response to HSV-1. Understanding the role of this pathway in driving HSV-1 replication and pathology could inform the development of novel therapeutic strategies for the treatment of recurrent herpes keratitis and sporadic encephalitis in neonates and immunocompromised patients. $\\mathrm { L T } \\mathrm { \\beta R - \\mathrm { I g } }$ has been shown effective in alleviating multiple inflammation disease and may be useful in treating HSV-1 associated disease. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mice. Ragl-deficient C57BL/6j strain $\\mathrm { ( R a g l ^ { - / - } ) }$ were obtained from the Model Animal Research Center (Nanjing, China).LIGHT deficient $( \\mathrm { L I G H T ^ { \\bar { - } / - } }$ ）mice were described previously37. $\\mathrm { R a g ^ { - / - } L I G H T ^ { - / - } }$ double knockout mice were generated by crossing $\\mathrm { R a g l ^ { - / - } }$ with LIGHT $^ { - / - } \\mathrm { m i c e }$ .Mice were used at 6 to 10 weeks of age. Animal care and experiments were performed in accordance with the guidelines of the Institute of Biophysics, Chinese Academy of Sciences,using protocols approved by the Institutional Laboratory Animal Care and Use Committee. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HSV-1 infection and analysis.HSV-1F strain was kindly provided by Dr. Thomas Kristie, LVD/ NIAID/NIH,amplified in Vero cells (ATCC),collcted from cell supernatant and purified through sucrose-dextran gradient centrifuge based on method reported previously38. $2 { - } 1 0 \\times 1 0 ^ { 6 }$ pfu of HSV-1 in ${ 4 0 } \\mathrm { u l }$ PBS was subcutaneously injected into the footpad of mice.Viral titers in the footpad,DRG (L3,L4 and L5)and spinal cord were determined by plaque assy39. Briefly, tissues were removed and stored in DMEM ( $2 \\%$ FBS) at $- 8 0 ^ { \\circ } \\mathrm { C }$ . When using, tissues were homogenized and centrifuged at $4 0 0 \\mathrm { g }$ for $1 0 \\mathrm { m i n }$ ： The supernatant with serial dilutions were added onto Vero cell monolayers in 12-well tissue culture plates,and then overlaid with $0 . 5 \\%$ methylcellulose. After 2 days of culture, plaques were visualized and counted after $0 . 1 \\%$ crystal violate fixation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In vivo signaling and cytokine blockade. For blockade of signaling in vivo, $1 0 0 \\mu \\mathrm { g }$ of $\\mathrm { L T } \\mathrm {  { / { \\vphantom { ( \\mathrm { 3 R -  { [ g ^ { 2 3 , 2 4 }  \\kern - delimiterspace } } } }  \\kern - delimiterspace } }$ or recombinant human TNFR-Ig(Shanghai CP Guojian Pharmaceutical $\\mathrm { C o } .$ ,Ltd.) was injected i.p. on day one before (day -1) and 5 days post infection (p.i.).Irrelevant recombinant $\\mathrm { I g }$ was used as the control protein.Anti-LTβ (BB-F6,Biogen) or control hamster IgG was administrated $0 . 2 5 \\mathrm { m g }$ every 3 days from day -1. Anti-IL-6 (MP5-20F3,Bioxcell) or control Rat IgG was administrated at $0 . 4 \\mathrm { m g }$ every 3 days starting at day -1. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Detection of cytokine. Deeply anesthetized mice were intracardially perfused with $5 0 \\mathrm { m l }$ PBS. Spinal cord and brain were homogenized and centrifuged at $4 0 0 0 \\mathrm { g }$ for $1 0 \\mathrm { m i n }$ . The supernatant was collected. IL-6, MCP-1, TNF, $\\mathrm { I F N - \\gamma _ { : } }$ ,IL-10 and IL-12 in supernatant or serum were detected by mouse inflammation cytometric bead array (CBA) assay (BD Biosciences). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Quantitative RT -PCR. RNA was extracted using RNeasy Plus Universal Mini kit (Qiagen） and then reverse transcribed into cDNA using the First Strand cDNA Synthesis Kit (Thermo Scientific). Real-time RT PCR was performed with SSoFast EvaGreen supermix (Bio-Rad) and diferent primer sets on StepOne Plus (Applied Biosystems).Primersused were: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\beta$ -actin- forward (F) $5 ^ { \\prime }$ -CTG ACG GCC AGG TCA TCA CTA- $3 ^ { \\prime }$ 5 $\\beta$ -actin- reverse (R) $5 ^ { \\prime }$ -CCG GAC TCA TCG TAC TCC TGC- $3 ^ { \\prime }$ ,CCL2-F $5 ^ { \\prime }$ -GTC CCT GTC ATG CTT CTG ${ \\bf { G } } { - 3 } ^ { \\prime }$ ,CCL2-R $5 ^ { \\prime }$ -GCG TTA ACT GCA TCT GGC T- ${ \\cdot } 3 ^ { \\prime }$ ，CXCL10-F $5 ^ { \\prime }$ -AAA TCA TCC CTG CGA GCC TAT- $3 ^ { \\prime }$ ,CXCL10-R $5 ^ { \\prime }$ -CTG CTC ATC ATT CTT TTT CAT CGT- $3 ^ { \\prime }$ ,CXCL1/2-F $5 ^ { \\prime }$ -CCA CCC GCT CGC TTC TC- $3 ^ { \\prime }$ CXCL1/2-R $5 ^ { \\prime }$ -CAC TGA CAG CGC AGC TCA TT- $3 ^ { \\prime }$ ,ICP0-R $5 ^ { \\prime }$ -CTG CGC TGC GAC ACC TT- $3 ^ { \\prime }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The levels of gene expression were normalized to $\\beta$ -actin and calculated as fold change according to the $2 ^ { - \\Delta \\Delta C T }$ method. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Flow Cytometry.Single cell suspension of lumbar DRGs (L3,L4 and L5) related to sciatic nerve were prepared as reported9. Mice were sacrificed and perfused with PBS. DRGs (L3,L4 and L5) were collected in $0 . 6 \\mathrm { m l }$ of collagenase type 3 (Worthington) at $3 \\mathrm { m g / m l }$ in RPMI( $2 \\%$ FBS). DRG was incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for $1 . 5 \\mathrm { h }$ and prepared for single cell suspension by pipeting up and down at $ { 1 \\mathrm { h } }$ and $1 . 5 \\mathrm { h }$ The following antibodies were used: anti-CD45, CD11b, CD1lc,Ly6c (al from Biolegend); MHCI,F4/80 (from eBioscience) and anti-CD16/32 (2.4G2). Samples were acquired on BD LSR Fortessa instruments and analyzed with FlowJo software. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "H&E staining and immunohistochemistry staining.DRG was fixed in formalin and embedded in paraffin. Tissue sections of ${ 5 \\mu \\mathrm { m } }$ thickness were stained with hematoxylin and eosin (H&E).For immunohistochemistry staining, tissue sections were stained with anti- mouse CD45 antibody (Biolegend). The slides were captured at $2 0 \\mathrm { ~ x ~ }$ magnification using Olympus camera. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Statistical Analysis. Mean values were compared using unpaired t test or log rank (Mantel-Cox) test where appropriate. Analyses were performed using GraphPad Prism version 5.0 (Graphpad software). Statistically significant differences of $\\textstyle P < 0 . 0 5$ $ { p } < 0 . 0 1$ and $p { < } 0 . 0 0 1$ are noted with $^ *$ ，\\*and $4 x + x$ respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.Koelle,D.M.&CoreyLHerpessimplex:sightsonpathogeesisandposiblevacces.Anu.RevMed.59,8-395(08).   \n3.Sainz,B.&Halford,W.P.Alpha/beta interferonandgamma interferonsynergize toinhibitthereplicationofherpessimplex virus type 1.J. Virol.76,11541-11550 (2002).   \n4.Minagawa,HHasimotoK.&Ynagi,Y.senceof tmournecrosis factorfacitesprimaryandrecurrentherpssiplex virus-l infections.J. Gen.Virol.85,343-347 (2004).   \n5.Conrady,C.D.,Drevets,D.A.&Carr,D.J.Herpes simplex typeI(HSV-1)infectionof thenervous system:isanimmune esponse a good thing?J.Neuroimmunol. 220,1-9 (2010).   \n6.Lundberg,P.etal.The immuneresponse toerpessimplexvrustypelinfectioninsusceptiblemiceisamajorcauseofentral nervous system pathology resulting in fatal encephalitis.J.Virol.82,7078-7088 (2008).   \n7.Kurt-Jons,E.Aalpspleviusintectioihllkeeptor2ntrutesttalncelisr.Ntl. Acad.Sci.USA101,1315-1320 (2004).   \n8.Gommerman,J.L.& Browning,J.L.Lymphotoxin/light,lymphoid microenvironmentsand autoimmune disease.Nat.Rev. Immunol.3,642-655 (2003).   \n9.Ware,C.F.Network communications:lymphotoxins,LIGHT,and TNF.Annu. Rev. Immunol.23,787-819 (2005).   \n10.Louten,JanRojen,N.&on,C.A.TpeIdefiencyinteabsenceforalsenicaritecureduringlctic choriomeningitis virus infection.J. Immunol.177,3266-3272 (2006).   \n11. Tumanov,A.etal.DistinctroleofsurfacelymphotoxinexpressedbyBcels intheorganzationofsecondary lympoidtisues. Immunity 17,239-250 (2002).   \n12.Suresh,M.etalRoleoflmphotoxinalin-cellesponsesuringanacuteviralinfectio.JVirol.7694-9().   \n13. Moseman,E.A.etal.Bcellmaintenanceofsubcapsularsinus macrophagesprotectsagainstafatalvial infectionindepedent of adaptive immunity. Immunity 36,415-426 (2012).   \n14.Schneider,K.etal.Lymphotoxin-mediated crostalkbetweenBcellandsplenicstromapromotes theinitialtypenterferon response to cytomegalovirus.Cell Host Microbe 3,67-76 (2008).   \n15.Banks,T.A.etal.Lymphotoxin-alpha-deficient mice.Efectsonsecondarylymphoidorgan developmentandhumoralimmune responsiveness.J. Immunol.155,1685-1693 (1995).   \n16.Kumaraguru,U.,Davis,I.A.,Deshpande,S.,Tevethia,S.S.& Rouse,B.T. Lymphotoxin alpha $- 1 -$ mice develop functionally impaired $\\mathrm { C D 8 + }$ Tcell responses and fail to contain virus infection of the central nervous system.J.Immunol.166,l066-1074 (2001).   \n17.Harop,J.A.etal.Herpesvirus entrymediatorligand (HVEM-L),anovelligandforHVEM/TR2,stimulatesproliferationofT cells and inhibits HT29 cell growth.J. Biol. Chem.273,27548-27556 (1998).   \n18.Mauri,D.N.etal.LIGHT,anewmemberof theTNFsuperfamilyand lymphotoxinalphaare ligandsfor herpesvirus entry mediator.Immunity 8,21-30 (1998).   \n19.Tamada,K.etal.ModulationofT-cell-mediatedimmunityintumorandgraft-versus-hostdisease modelsthroughthe LIGHT co-stimulatory pathway.Nat.Med.6,283-289 (2000).   \n20.Hosokawa，Y.,Hosokawa,I,Ozaki，K.，Nakae,H.& Matsuo,T.TNFSF14coordinatelyenhances CXCL10andCXCL11 productions from IFN-gamma-stimulated human gingival fibroblasts.Mol.Immunol.47,666-670 (2010).   \n21.Lee,Y.etal.RecruitmentandactivatioofaiveTcelsinthisletsylymphotoxinbetareceptor-dependenttertiarylyhoid structure.Immunity 25,499-509 (2006).   \n22.Banks,T.Aetal.Almphotoxin-Fbetaaisentialforlymphocytesurvialevealedduringcyomegalovusiectio. J. Immunol.174,7217-7225 (2005).   \n23.Browning,J.L.etal.Characterizationof lymphotoxin-alphabetacomplexesonthesurfaceofmouse lymphocytes.J.Immunol. 159,3288-3298 (1997).   \n24.Wu,Qetal.Reversalofsontaneousautoimmuneinsulitis innonobesediabeticmicebysolublelymphotoxireceptor.JExp. Med.193,1327-1332 (2001).   \n25.Cook,M.L.&Stevens,JG.Pathogeesisofherpeticeurisndganglionitis inmice: evidenceforintra-axonaltrasportof infection.Infect.Immun.7,272-288 (1973).   \n26.van Lint, A. et al. Herpes simplex virus-specific $\\mathrm { C D 8 + }$ T cells can clear established lytic infections from skin and nerves and an partially limit the early spread of virus after cutaneous inoculation.J. Immunol.172,392-397 (2004).   \n27.Engel,J.P,adigan,T.C&Peterson,G..etransneuronalspread phenotpeofhrpessiplexvirus tyeinfectioof the mouse hind footpad.J. Virol.71,2425-2435 (1997).   \n28.Scheu,S.etal.TargeteddisruptionofLIGHTcausesdefects incostimulatoryTcellactivationandrevealscooperationwith lymphotoxin beta in mesenteric lymph node genesis.J. Exp.Med.195,1613-1624 (2002).   \n29.Wang,J.etal.ThecomplementationoflmphotoxindeficiencywithLIGHT,anewlydiscoveredTNFfamilymemberforthe restoration of secondary lymphoid structure and function. Eur. J. Immunol. 32,1969-1979 (2002).   \n30.Lima,G.K.etal.Tol-ikeeeptr()2nd9expreedirgeialgangiaecriialtviraltrluiges simplex virus1 infection.Am.J.Pathol.177,2433-2445 (2010).   \n31.Marques,C.P.,Hu,S.,Sheng,W.&Lokensgard,J.R.icrogialcels initiatevigorousyetnon-protectiveimmuneresposes during HSV-1 brain infection.Virus Research 121,1-10 (2006).   \n32.Gommerman,J.L.etal.Aroleforsurfacelympotoxiniexperimentalutoimmuneencepalomyelitis independentfGHT. J. Clin.Invest.112,755-767 (2003).   \n33.Fitch,M.T.&vandeBeek,D.Drug Insight:steroids inCNS infectiousdiseases-ew indications foranoldtherapy.Nat.Clin. Pract.Neurol.4,97-104 (2008)   \n34.Lizarraga,K.Jlexandre,L.C.,Ramos-Estebanez,C.&Merenda,A.Aresteroidsabeneficialadjunctivetherapyithe immunosuppressed patient with herpes simplex virus encephalitis? Case Rep. Neurol.5,52-55 (2013).   \n35.Du,T.,ZoG.&Roan,B.IductofapotosaeleatesreactiatioofatetH-ingangioicoanluad replication in cell cultures.Proc.Natl.Acad. Sci. USA 109,146l6-14621 (2012).   \n36.Prasad,A,Remick,J&Zeichner,S.L.Activationof humanherpesvirusreplicationbyapoptosis.JVirol.87,064-0650 (2013).   \n37. Tamada,K.et al. Cutting edge: selective impairment of $\\mathrm { C D 8 + }$ T cell function in mice lacking the TNF superfamily member LIGHT. J. Immunol.168,4832-4835 (2002).   \n38.Spear,P.G.&Roizman,.Proteinsspecifedbyherpessimplexvirus.V.Purfcationandstructuralproteinsoftheherpesvion J. Virol.9,143-159 (1972).   \n39.van Lint,A.L. etal.Latentinfection withherpes simplex virus is associated withongoing $\\mathrm { C D 8 + ^ { \\prime } }$ T-cell stimulationbyparenchymal cells within sensory ganglia.J. Virol.79,14843-14851 (2005). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Fu laboratory, especially Dr. Xiaohuan Guo,for helpful suggestions and comments on the project. This work was supported by: National Nature and Science Foundation of China (No. 81471579)to H.P.; the National Basic Research Program 973 of China (No.2012CB519002)and National Science and Technology Major Project of China (No. 2012ZX10001006) to H.P. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "YL.,H.P. and Y.X.F. designed the experiments and analyzed the data; Y.L., K.Y.and J.G.conducted the experiments; J.G.and J.W. contributed to reagents/materials; H.P.and Y.X.F. supervised the experiments; Y.L.,H.P., J.W. and Y.X.F. wrote the manuscript. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests:The authors declare no competing financial interests ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Liang, Y.et al. Innate lymphotoxin receptor mediated signaling promotes HSV-1 associated neuroinflammation and viral replication. Sci. Rep.5,10406; doi: 10.1038/srep10406 (2015). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license,users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 9
+    }
+]

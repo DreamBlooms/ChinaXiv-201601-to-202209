@@ -1,0 +1,550 @@
+[
+    {
+        "type": "text",
+        "text": "多特征知识下的食品安全事件实体抽取研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王东波1,²吴毅」　叶文豪」　刘睿伦」1(南京农业大学信息科学技术学院南京 210095)2(南京农业大学领域知识关联研究中心南京 210095)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：【目的】从大规模食品安全事件当中抽取食品安全事件实体。【方法】基于已发生的食品安全事件，结合情报学数据获取、标注和组织的方法，融合食品安全事件实体的多种分布特征知识，通过条件随机场模型，构建食品安全事件语料并从中抽取相应的实体。【局限】在食品安全事件实体抽取过程中所制定的特征模板在领域化迁移上具有一定的局限性。【结果】在已有1500万字经过标注的食品安全事件语料的规模上，通过统计食品安全事件实体的内部和外部特征，基于条件随机场机器学习模型，构建了食品安全实体的抽取模型，该模型最高的F值达到 $91 . 9 4 \\%$ 。【结论】通过对食品安全事件实体抽取结果的分析，在食品这一领域化的语料上，基于条件随机场进行实体抽取是可行的。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:特征知识条件随机场模型实体食品安全事件分类号：G350",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "为了应对备受关注的\"双汇瘦肉精”、“老酸奶”“酒鬼酒塑化剂超标”、“致癌金针菇”、“美素丽儿奶粉”、“硫磺熏制枸杞”、“镉大米\"等食品安全事件问题,2013年12月23日至24日的中央农村经济工作会议明确提出“尽快建立全国统一的农产品和食品安全信息追溯平台\"的具体措施，而构建食品安全信息追溯平台的基础是要对食品安全事件中的主要实体进行确认，尤其是涉及到食品安全舆情的处理时，相关实体的抽取变得愈发重要。针对这一情况，本文基于构建的食品安全事件语料库，结合条件随机场机器学习模型，通过利用食品安全事件实体的多特征知识，对食品安全事件的实体进行抽取实验。一方面为构建食品安全事件知识库提供了基本的知识锚点，另一方面也为深入挖掘、分析和总结应对食品安全事件的策略奠定了基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "有关食品安全事件的研究主要集中在案例、政策和应急处理上，有代表性的研究主要有：由复旦大学的研究生吴恒联合34名网络志愿者创建\"掷出窗外\"网站[1]，搜集了关于食品安全事件的相关事件并构建了数据库。该数据库为本文构建的食品安全事件语料库提供了一定数量的文本，是本文语料库构建的基础。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关于食品安全事件的研究更多是从管理学的角度进行，比较有代表性的研究有：张慕洁等[2基于两个典型案例，分析了应急管理事件时信息不公开造成的危害，并探讨了常见的不公开的原因。该研究选取典型案例的方法为本文确定语料文本提供了方法上的借鉴。马颖等[3]构建了食品行业事件风险感知的传染病模型，并以日本地震衍生的\"抢购食盐事件\"为例，对模型进行数值分析和检验。该研究为本文进行食品安全事件的名称标注提供了相应的借鉴之处。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述研究一方面为本文提供了宏观的方法、策略指导，另一方面也为本文确定食品安全事件的实体提供了具体的依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实体的抽取方面最新的研究主要是通过机器学习的方法抽取非结构化文本中的实体，比较有代表性的研究如下：基于神经网络的策略，陈宇等[4尝试利用Deep BeliefNets 模型对实体及实体之间的关系进行抽取。该研究为本文确定特征量的数量提供了相应的方法指导。利用相应的语义知识对实体进行抽取也是目前较为流行的策略，邵发等[5从解决一词多义的问题着手，利用歧义消除策略，通过HowNet 和贝叶斯分类的资源与方法，对实体进行抽取。从消除歧义的角度完成对实体的识别虽然具有一定的科学性，但这种方法在大规模的语料上的整体性能有待验证。针对急剧增加的电子医疗文本，许华等基于分词、词性标注的医疗语料，利用规则的方法，完成对医疗文本中实体的抽取，整体性能达到 $80 \\%$ 以上。规则的方法虽然在某一特征的语料上具有一定的适应性，但由于对蕴含在具体语料词汇之间的规则缺乏充分的探究，在一定程度上会导致所制定规则的覆盖度相对较差。这也是本文选取条件随机场模型进行食品安全事件实体抽取的主要原因之一。与食品安全事件相关的信息抽取研究中，目前集中在针对食品投诉文本词汇层级的知识抽取，比较有代表性的研究是魏秀卓围绕食品投诉文本敏感词汇的抽取和高蕊[8基于本体的食品投诉文本危害信息的提取。相对于实体抽取，词汇级的抽取相对简单，主要体现在词汇的长度较短和内部组成相对简单这两点上。条件随机场作为抽取术语和实体等序列化的机器学习模型具有较广泛的应用，比较有代表性的如下：李丽双等[通过简单特征模板完成对汽车术语的抽取；在词汇组合的特征模板基础上，王文龙等[10]完成了对项目申报书中实体的抽取；结合中医词汇的特征知识，刘凯等[11]构建了中医电子病历的实体抽取模型。上述基于条件随机场的术语和实体抽取仅仅利用了实体自身简单的特征知识，未涉及到所抽取对象上下文语境的信息。本文在识别食品安全事件实体的过程中构建了复杂的特征模板，在一定程度上弥补了已有识别方法的不足。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2食品安全事件实体界定和特征统计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1食品安全事件语料简介及实体界定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对食品安全事件进行采集、标注和组织的基础上，本文构建了2005年-2015年的食品安全事件语料库。食品安全事件的获取目标主要包括互联网上的食品安全事件和纸质媒介上的食品安全事件。网络上食品安全事件的采集主要通过面向事件主题垂直搜索引擎技术自动采集，采集范围包括新闻门户、论坛和博客，对于采集的异构数据通过相应的数据清洗、转换统计保存到数据库中，而纸质的事件案例则通过人工录人、校对的方式完成对事件的采集。具体食品安全事件文本抓取的程序截图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/927ed55d33f27aa4452daef7f78fd9121360638739d5c99676e48922e4cdedea.jpg",
+        "img_caption": [
+            "图1食品安全事件抓取软件截图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "食品安全事件的标注主要是完成对食品安全事件的分词、词性标注，针对词汇长度比较大的食品安全名称则标注大一级的词性，相对通用的语料，食品安全事件中的词汇长度较长，在进行分词的时候将这类词汇视为一个词汇来处理并进行词性标注；食品安全的组织主要是对食品安全事件进行类别标注，具体类别标注则基于《中华人民共和国食品安全法》进行。经过上述处理，所构建的食品安全事件语料库达到1500万字级和687万词级，由2800个食品安全事件组成。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文的实体主要是指食品安全事件中涉及的食品名称与导致食品安全事件发生的具体因素，比如具体的食品名称有\"奶粉、酱油、大米、牛奶\"等，而具体因素则为“添加剂、甲醛、过氧化苯甲酰、反式脂肪酸\"等。本文的主要任务是构建机器学习模型，自动将食品名称与导致食品安全事件发生的具体因素抽出来。条件随机场模型训练和测试所使用的语料样例如下所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "企业/n 或/c个人/n 的/u“/w 违法/vn 行为/n\"/w中/f，/w 包括/v\"/w 生产/v 假冒/vn 注册/vn 商标/n 的/u 瓶装/b水/n\"/w“/w在/p生产/vn 加工/vn 饺子皮/n、/wn云吞皮/n 过程/n中/f添加$/ \\mathbf { v }$ 有毒/vi有害/a 物质/n【硼砂 $/ { \\mathfrak { n } }$ 】\"/w“/w 在/p 生产/vn 加工/vn【牛百叶/nr】、/wn【鱿鱼/n】、/wn【牛】肚/ng 等/v 食品/n的/u 过程/n中/f添加/v 有毒/vi 有害/a物质/n【过氧化氢/n】和/p氢【氧化钠/n】\"w“/w递交/v虚假/a材料 $/ { \\mathfrak { n } }$ 取得/v餐饮/n 服务/vn 许可/vn\"/w“/w篡改/v食品/n生产/vn日期/n并/d销售/v\"/w 等/u 。/wj",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2实体内部和外部特征统计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取2800个食品安全事件，通过人工对其中的食品名称与导致食品安全事件发生的具体因素进行手工标注。在标注的语料基础上，统计“食品名称\"与“具体因素\"这些实体的内部和外部特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1）内部特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 词语长度",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "获取实体的长度一方面有利于掌握所抽取实体对象的难易程度，另一方面也有利于确定条件随机场标记集的数目。食品安全事件实体长度分布如表1所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2cd960c94972645eb13cca87be03819d5d6a28ce45773df329998bdb761cd1c0.jpg",
+        "table_caption": [
+            "表1食品安全事件实体长度分布表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>实体长度</td><td>数量(个)</td><td>实体长度</td><td>数量(个)</td></tr><tr><td>2</td><td>48 036</td><td>13</td><td>13</td></tr><tr><td>3</td><td>23 499</td><td>9</td><td>9</td></tr><tr><td>4</td><td>6878</td><td>10</td><td>7</td></tr><tr><td>1</td><td>6594</td><td>12</td><td>5</td></tr><tr><td>5</td><td>1383</td><td>14</td><td>2</td></tr><tr><td>6</td><td>394</td><td>11</td><td>1</td></tr><tr><td>7</td><td>182</td><td>15</td><td>1</td></tr><tr><td>8</td><td>37</td><td>20</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可以看出，实体的长度主要在1-5之间，通过计算得出长度为1-5的实体占总数的 $9 9 . 2 5 \\%$ ，长度为2和3的实体占总数的 $8 2 . 1 8 \\%$ ，长度为2的实体占总数的 $5 5 . 1 9 \\%$ 长度为3的实体占总数的 $2 7 . 0 0 \\%$ 。通过计算结果不难发现：长度为2的实体数量超过半数，因此在实体抽取方面，长度为2和3的实体是重点抽取的对象，例如\"奶粉”“牛奶”“猪肉”、“添加剂”、“地沟油\"等。而那些长度大于8的大多是含有形容词的名词或是一些复杂的专有名词，例如：“环己基氨基磺酸钠”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{2}$ 具体实体的分布情况",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过统计具体实体的分布情况不仅有助于获得感性的有关实体的具体内容，而且也有利于统计具体实体的左右特征知识。部分食品安全事件实体的分布如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2只选取了部分实体数据，分别是排名前10以及实体长度为4-6的数量靠前的实体数据(该数据共有3193项，87042个)。因为排名前10中大部分为长度为2的实体，故",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/736d05755451ba9d3b2db38376e35509e8a725ec0c890e0e4cbc5fcece45b8bf.jpg",
+        "table_caption": [
+            "表2具体食品安全事件实体的分布情况"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>实体</td><td>数量(个)</td><td>实体</td><td>数量(个)</td></tr><tr><td>添加剂</td><td>2 243</td><td>大米</td><td>899</td></tr><tr><td>奶粉</td><td>1 661</td><td>牛奶</td><td>810</td></tr><tr><td>地沟油</td><td>1178</td><td>药袋</td><td>733</td></tr><tr><td>酱油</td><td>1078</td><td>菌落总数</td><td>377</td></tr><tr><td>酒</td><td>1006</td><td>亚硝酸盐</td><td>352</td></tr><tr><td>猪肉</td><td>943</td><td>反式脂肪酸</td><td>95</td></tr><tr><td>甲醛</td><td>904</td><td>过氧化苯甲酰</td><td>90</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "未在表格中再添加该类数据。该项统计的实体总量为87042其中前10项占总数的 $1 3 . 1 6 \\%$ ，前5项占总数的 $8 . 2 3 \\%$ ，第二项奶粉占 $1 . 9 1 \\%$ ，第一项添加剂占 $2 . 5 8 \\%$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2）外部特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在不同食品安全事件的语料中，“食品名称\"和\"具体因素\"的左右边界存在较大的差异，分别对食品安全事件语料中的\"食品名称\"和\"具体因素\"的左右边界进行统计，该统计结果对于后续构建\"食品名称\"和\"具体因素\"抽取模型具有重要价值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "“食品名称\"和“具体因素\"的边界范围限定在以“。！？\"结尾的子句范围内，“食品名称\"和\"具体因素”的左边界绝对不会跨越其第一个标记即“食品名称\"和“具体因素\"的起始标记，因此考察范围限定在从句子开始到第一个标记结束的范围内，称为 $\\beta _ { \\circ }$ 同样，“食品名称\"和“具体因素\"的右边界特征词绝对不会跨越“食品名称\"和“具体因素\"的最后一个标记，因此考察范围限定在从最后一个标记开始到句子结束这样一个范围内，这个范围记做 $\\scriptstyle a$ 。具体选取\"食品名称\"和\"具体因素\"左边界词的计算公式如公式 $( 1 ) ^ { [ 1 2 ] }$ 所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( w ) = \\frac { f ( W \\_ l e f t \\_ o u t s i d e ) } { f ( W \\_ l e f t ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $f ( W \\_ l e f t \\_ o u t s i d e )$ 表示 $W$ 在 $\\beta$ 范围内出现的频次， $f ( W \\_ l e f t )$ 表示 $W$ 在 $\\beta$ 、“食品名称”、“具体因素\"内部出现的频次。通过公式(1)，结合食品安全事件的语料，给定 $P$ 的经验阈值为0.8，即当 $P { \\gtrsim } 0 . 8$ 时， $W$ 可能成为\"食品名称\"和\"具体因素\"的左边界词,然后结合人工语言学知识的内省，最终确定7个左边界词：“的、用、和、是、食品、超标、中”",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，使用公式(2)[12]用于\"食品名称\"和\"具体因素\"右边界词的选取。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( w ) = \\frac { f ( W \\_ r i g h t \\_ o u t s i d e ) } { f ( W \\_ r i g h t ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $f ( W \\_ r i g h t \\_ o u t s i d e )$ 表示 $W$ 在 $\\alpha$ 范围内出现的频次， $f ( W \\_ r i g h t )$ 表示 $W$ 在 $\\scriptstyle a$ 、“食品名称”、“具体因素\"内部出现的频次，将右边界词 $P$ 的阈值也设定为0.8，根据语言学知识的内省再结合大于或等于0.8的 $P$ 值，最终确定10个右边界词：“的、用、品、有、种、和、是、超、中、产”",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3模型简介和特征确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 机器学习模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "条件随机场是由Lafferty等[13]提出的用于解决序列标注问题较优的一种模型，是在给定一组需要标记的观察序列的条件下，计算整个观察序列状态标记的联合条件概率分布的无向图模型。对于指定的节点输入值，能计算指定节点输出值的条件概率，其训练目标是使得条件概率最大化。最常用的CRFs模型是一阶链式结构，即线性链结构，其拓扑结构如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f08ea2685ce90fd92633f8c474838f40385e8cebdddd98f11b8df983bee7805c.jpg",
+        "img_caption": [
+            "图2线性链CRFs模型的拓扑结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设 $\\scriptstyle x = \\{ x _ { 1 } , x _ { 2 } , \\ \\cdots , x _ { \\mathrm { n - 1 } } , x _ { \\mathrm { n } } \\}$ 表示被观察的输入数据序列，如本文语料中分词后的词；y={yi，y，，yn-1，yn}表示有限状态集合，其中每个状态对应于一个标记。在给定输入序列 $x$ 的条件下，对于参数 $\\lambda { = } \\{ \\lambda _ { 1 } , ~ \\lambda _ { 2 } , ~ \\cdots$ $\\lambda _ { \\mathrm { n - 1 } } , \\lambda _ { \\mathrm { n } } \\}$ 的线性链CRFs的状态序列 $y$ 的条件概率如公式(3)和公式(4)所示[13]",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\np ( y \\mid x , \\lambda ) { \\frac { 1 } { Z _ { x } } } \\mathrm { e x p } ( \\sum _ { i = 1 } ^ { n } \\sum _ { j } \\lambda _ { j } f _ { j } ( y _ { i - 1 } , y _ { i } , x , i ) )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ _ { x } = \\sum _ { y } \\exp ( { \\sum _ { i = 1 } ^ { n } \\sum _ { j } \\lambda _ { j } f _ { j } ( y _ { i - 1 } , y _ { i } , x , i ) } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $Z _ { \\mathrm { x } }$ 为归一化因子，表示所有可能的状态序列的得分，确保所有可能状态序列的条件概率之和为1。 $f _ { j } ( y _ { i - 1 } , y _ { i } , x , i )$ 是一个统一形式的特征函数，通常为二值表征函数; $\\lambda _ { j }$ 是通过模型对训练数据进行训练之后获得的相应特征函数的权重。最大熵模型(ME)是以 McCallum 等[14]提出的最大熵原理为基础，即最大熵的原理主要是如果概率分布信息不确定，那么最不会产生偏置的做法，就是均等看待概率分布，不要做任何主观假设，在给定关于训练数据的限制条件下，使模型的熵达到最大的分布，就是所求分布。最大熵模型在人工智能和自然语言处理等领域也得到广泛应用，但由于最大熵模型本身存在标注偏置的问题，错误识别和未识别的情况较多，导致在某些情况下其效果不如CRF 等模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2语料的选择和语料的处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "具体的\"食品名称\"和\"具体因素\"的实体在语料中被标注成“【】\"的形式，如：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "“【/wky 牛奶/n】/wky, /wd $3 0 / \\mathrm { m }$ 余 $/ \\mathrm { m }$ 位/q 执法/vn人员/n 来到/v 西/b 长街/n 农贸市场/n\",核实/v【/wky 反式/b脂肪酸/n】/wky的 $/ \\mathrm { u } /$ 问题/n。/wd",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于对\"食品名称\"和\"具体因素\"的特征统计，在条件随机场模型定义基础上，本文在确定用于“食品名称\"和\"具体因素\"的CRF标记数的过程中，主要参考公式 $( 5 ) ^ { [ 1 4 ] }$ U",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal L } = \\frac { 1 } { N } \\sum _ { i = j } ^ { k } i N _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中, $L$ 表示当 $i { \\leqslant } k$ 时\"食品名称\"和\"具体因素\"时平均加权后的长度, $N _ { i }$ 表示所选取的语料中长度为 $i$ 的“食品名称\"和\"具体因素\"出现的次数， $k$ 和 $j$ 分别表示语料库中最长与最短\"食品名称\"和\"具体因素\"的长度，$N$ 表示语料库中“食品名称\"和\"具体因素\"的总个数。基于公式(5)，结合语料的基本情况以及相应的实验结果，“食品名称\"和\"具体因素\"识别模型构建中确定使用5词位的标注集，标注集用R来表示，具体为 $\\scriptstyle \\mathrm { R = } \\{ \\mathrm { B }$ C,E,S,A},B表示\"食品名称\"和“具体因素\"的初始词,C 为\"食品名称\"和\"具体因素\"的中间词，E为\"食品名称\"和\"具体因素\"的结束词，S为“食品名称\"和\"具体因素\"之外的词汇，A为一个词或字单独为“食品名称\"和“具体因素\"的情况，如果“食品名称\"和\"具体因素\"的长度超过3，就用C表示扩展词。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文通过编写Java 程序，结合语料中\"食品名称”和“具体因素\"的“【】\"标记以及根据选取的特征及制定的特征模板，自动对所有语料进行标注，具体标注样例如表3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/62105734aa5c3addd682f7132916f01e619d185f15a196886e0ea6f6c7d8ff3b.jpg",
+        "table_caption": [
+            "表3“食品名称\"和\"具体因素\"训练语料和测试语料标注样例"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">词语</td><td rowspan=\"2\">词性 词长度</td><td rowspan=\"2\">是否 实体词</td><td rowspan=\"2\">是否 左边界</td><td rowspan=\"2\">是否右边界</td><td rowspan=\"2\">标记</td></tr><tr><td></td><td></td></tr><tr><td>有关</td><td>P</td><td>2</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>反式</td><td>b</td><td>2</td><td>Y</td><td>N</td><td>N</td><td>B</td></tr><tr><td>脂肪酸</td><td>n</td><td>3</td><td>Y</td><td>N</td><td>N</td><td>E</td></tr><tr><td>问题</td><td>n</td><td>1</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>，</td><td>wd</td><td>1</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>浙江省</td><td>ns</td><td>3</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>金华市 公安局</td><td>ns</td><td>3</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td></td><td>n</td><td>3</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>江南</td><td>ns</td><td>2</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>分局</td><td>n</td><td>2</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>接到 群众</td><td>v</td><td>2</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td></td><td>n</td><td>2</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>举报</td><td>vn</td><td>2</td><td>N</td><td>N</td><td>N</td><td>S</td></tr><tr><td>称</td><td>V</td><td>1</td><td>N</td><td>N</td><td>N</td><td>S</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3特征的选取以及特征模板的制定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于基于条件随机场的机器学习模型中，特征的选择都极其重要。特征选择的好坏将会直接影响到CRFs模型的性能。特征由原子特征和复合特征两部分构成。本文选取的原子特征为词语本身、词性、词长度、是否实体词、是否左边界、是否右边界等6个特征；复合特征是通过对原子特征的组合来表征“食品名称\"和\"具体因素\"实体复杂的语言学特征。6个特征选择的特征窗口大小分别为7,3,5,5,5,5，7个窗口的范围是{-3,-2,-1,0,1,2,3}，5个窗口的范围是{-2,-1,0,1,2},3个窗口的范围是{-1,0,1}。在上述特征中，从对\"食品名称\"和\"具体因素\"抽取性能提升的角度考虑，词性和词语本身是最重要的特征，其次是左右边界词和实体词，最后是“食品名称\"和\"具体因素\"的长度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4实体抽取实验 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对抽取模型性能的评价主要采用三个指标来衡量：准确率(Precision)、召回率(Recall)、F值(F-measure)。分别基于上文标注的语料使用条件随机场模型和最大熵模型进行“食品名称\"和\"具体因素\"的抽取。在具体的实验中使用交叉验证的方法测试所构建模型的性能，将2800个语料文档分别按照9:1的比例分为训练语料和测试语料，测试结果如表4和表 5所示，表6展示了两种模型在同样的软硬件条件下训",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "练和测试耗时的对比。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/8bb8bf81b26ea2435621786e236b32f6df33c292e591e9bbccf048e0acafd2f8.jpg",
+        "table_caption": [
+            "表4基于条件随机场模型\"食品名称\"和\"具体因素”抽取性能比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试编号</td><td>准确率</td><td>召回率</td><td>F值</td></tr><tr><td>1</td><td>89.95%</td><td>90.17%</td><td>90.06%</td></tr><tr><td>2</td><td>90.46%</td><td>91.01%</td><td>90.73%</td></tr><tr><td>3</td><td>91.89%</td><td>90.68%</td><td>91.28%</td></tr><tr><td>4</td><td>88.35%</td><td>91.88%</td><td>90.08%</td></tr><tr><td>5</td><td>90.37%</td><td>91.06%</td><td>90.71%</td></tr><tr><td>6</td><td>91.01%</td><td>90.07%</td><td>90.54%</td></tr><tr><td>7</td><td>91.43%</td><td>91.74%</td><td>91.58%</td></tr><tr><td>8</td><td>90.48%</td><td>91.01%</td><td>90.74%</td></tr><tr><td>9</td><td>92.12%</td><td>91.77%</td><td>91.94%</td></tr><tr><td>10</td><td>90.54%</td><td>91.65%</td><td>91.09%</td></tr><tr><td>均值</td><td>90.66%</td><td>91.10%</td><td>90.88%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/4afc8418a5092204ce213cf2a4fb54b6717615beb439a523d5b941238edc8e79.jpg",
+        "table_caption": [
+            "表5基于最大熵模型\"食品名称\"和\"具体因素\"抽取性能比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>测试编号</td><td>准确率</td><td>召回率</td><td>F值</td></tr><tr><td>1</td><td>72.55%</td><td>62.50%</td><td>67.15%</td></tr><tr><td>2</td><td>73.72%</td><td>61.89%</td><td>67.29%</td></tr><tr><td>3</td><td>81.90%</td><td>65.19%</td><td>72.60%</td></tr><tr><td>4</td><td>84.10%</td><td>59.97%</td><td>70.01%</td></tr><tr><td>5</td><td>81.67%</td><td>62.49%</td><td>70.80%</td></tr><tr><td>6</td><td>86.52%</td><td>63.70%</td><td>73.38%</td></tr><tr><td>7</td><td>81.66%</td><td>65.74%</td><td>72.84%</td></tr><tr><td>8</td><td>72.71%</td><td>67.10%</td><td>69.79%</td></tr><tr><td>9</td><td>74.72%</td><td>63.37%</td><td>68.58%</td></tr><tr><td>10</td><td>80.88%</td><td>65.40%</td><td>72.32%</td></tr><tr><td>均值</td><td>79.04%</td><td>63.74%</td><td>70.48%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6e5ba7e59c762377e6adbdf73a31122a228473642b5dcc015be3c4f9284948a.jpg",
+        "table_caption": [
+            "表6条件随机场和最大熵模型训练和测试耗时比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">编号</td><td colspan=\"2\">条件随机场模型</td><td colspan=\"2\">最大熵模型</td></tr><tr><td>训练耗时 (秒)</td><td>测试耗时 (毫秒)</td><td>训练耗时 (秒)</td><td>测试耗时 (毫秒)</td></tr><tr><td>1</td><td>43 837.09</td><td>810</td><td>78.01</td><td>4</td></tr><tr><td>2</td><td>41 660.11</td><td>1 045</td><td>67.01</td><td>5</td></tr><tr><td>3</td><td>43 267.72</td><td>980</td><td>89.06</td><td>78</td></tr><tr><td>4</td><td>42 078.04</td><td>124</td><td>67.35</td><td>9</td></tr><tr><td>5</td><td>41 863.00</td><td>450</td><td>56.43</td><td>45</td></tr><tr><td>6</td><td>43 287.12</td><td>160</td><td>67.50</td><td>7</td></tr><tr><td>7</td><td>45 677.87</td><td>678</td><td>57.49</td><td>67</td></tr><tr><td>8</td><td>48 814.89</td><td>410</td><td>67</td><td>56</td></tr><tr><td>9</td><td>47 691.62</td><td>431</td><td>78.50</td><td>30</td></tr><tr><td>10</td><td>43 827.01</td><td>910</td><td>67.59</td><td>9</td></tr><tr><td>均值</td><td>44 200.45</td><td>599.8</td><td>69.59</td><td>31</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表4和表5可以看出，基于条件随机场的\"食品名称\"和“具体因素\"识别模型性能要优于基于最大熵模型的性能。条件随机场模型的F值最低为 $9 0 . 0 6 \\%$ 最高达到 $91 . 9 4 \\%$ ，平均为 $9 0 . 8 8 \\%$ ；最大熵模型的F值最高仅为 $7 3 . 3 8 \\%$ ，平均仅为 $7 0 . 4 8 \\%$ ○",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出，在训练和测试的耗时来看，最大熵模型要优于条件随机场模型。前者一次训练与测试耗时在100秒左右，而后者需要约50000秒左右。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于后续研究更注重\"食品名称\"和\"具体因素\"识别的性能而非训练耗时的长短，因此本文选择条件随机场模型进行“食品名称\"和\"具体因素\"的识别。对条件随机场模型所识别出来的\"食品名称\"和“具体因素\"进行简单分析，发现识别错误较多的“食品名称\"和\"具体因素\"主要是长度过程，比如\"食品名称\"和“具体因素”，比如\"副溶血弧菌细菌”、“乔家栅高庄馒头”、“兽用加硒腐殖酸钠”、“受蜡样芽孢杆菌污染”、“汪氏蜂胶软胶囊\"这些实体中要么含有难以识别的多重地名和形容词，比如\"乔家”、“栅高”，要么姓名与名词组合，比如\"汪氏”、“蜂胶”。这些实体中的复杂构成成分影响了对食品安全事件语料中实体识别的准确率和召回率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在知网平台上对 2005年所报道的任意食品安全事件新闻进行自动抓取并完成对文本的清洗。本文开发相应的软件，调用已经构建的食品安全事件实体抽取模型，完成对新闻报道中有关食品安全名称和具体因素的实体抽取。知网数据爬取功能截图如图3所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "版权：南京农业大学领域知识挖据分析实验室1.0版 口 X食品安全事件命名实体抽取及应用-南农-武理工食品安全事件知识库构架基础研究之一  \n数据收集统计训练抽取知网 人民日报cravling:http://wap. cnk1. net/acasearch. aspx?q=+%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8&1ibrary=CCNDTOTAL& type=&topic=&p=3535trank=datetplace=title35341.辉县市质监局监管食品安全出实招，新乡日报2006-07-2835342.第二季度食品安全监管通报，安徽经济报2006-07-2735343.下半年开展流通环节食品安全专项整治工作集中检查，中国工商报2006-07-2735344.制度上墙措施落地，中国质量报2006-07-2735345.“四制”推进不留死角，中国质量报2006-07-2735346.上半年我市食品安全工作平稳推进，黄山日报2006-07-2735347.河南为农村食品撑起一片安全天空，中国食品质量报2006-07-2735348.构建食品安全三大保障体系，泰州日报2006-07-2735349.广东省食品行业安全自律公约草案出台，亚太经济时报2006-07-2735350.市人大视察食品安全工作，安康日报2006-07-26cravling:http://wap. cnk1. net/acasearch. aspx?q=+%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8&1ibrary=CCNDTOTAL&.type=& topi c=&p=3536&rank=date&place=title",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "实体抽取功能截图如图4所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "版权：南京农业大学领域知识挖掘分析实验室1.0版食品安全事件命名实体抽取及应用 增联剂南农-武理工食品安全事件知识库构架基础研究之一  \n数据收集统计训练 抽取待抽取文件 niwang/2005中国食品安全年会在北京隆重开幕_.txt 浏览抽取 时间序列生成食品实体词：农药，农药， 速冻面食品，蜜饯，月饼，啤酒，乳粉，菌落总数，菌落总数，月饼，微生物，添加剂，苏丹红1号，苏丹红1号，奶粉，白酒，奶粉，苏丹红，农药，农药，速冻面食品，蜜饯， 月饼，啤酒，乳粉，菌落总数，菌落总数，月饼，微生物，添加剂，苏丹红1号，苏丹红1号，奶粉，白酒时间实体词：2005年9月25日，2004年，目前，现阶段，目前，去年，今天，今天，去年，两年，今年，前不久，今天，2003年，2004年，2005年上半年，2005年上半年，上半年，2005年上半年，目前，2002年，2003年，2003年，2004年9月，2005年6月29日，目前，2005年，目前，2001年，今年7月1日，1月1日，今年，今年10月1日，目前，2005年2月，今年5月份，上午，3年来，今年，自前，今年，目前，2001年，今年7月1日，1月1日，今年，今年10月1白 目前， 2005年2月，今年5月份，2005年，2004年9月，今年，今天，近年来，近期，今年10月1日， 今年，目前，2003年9月20日，2004年9月18日",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文所界定的\"食品名称\"和“具体因素\"实体的自动标注对于构建食品安全事件知识库和挖掘食品安全应对策略起到了充当基础资源的作用。在已标注“食品名称\"和\"具体因素\"实体的语料基础上，通过统计实体的内外特征，构建了实体抽取的机器学习模型。从开放测试的结果观察，本文所构建的实体抽取模型整体性能较为突出，基本达到了实用的目标。在后续的研究中，一方面要在1995年-2004年的时间跨度的语料上使用该模型进行具体的应用推广，另一方面结合模型的整体性能表现，通过融合新的特征改进已有模型的性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]掷出窗外 [EB/OL]. [2014-02-18].http://www.zccw.info/. (Zhi Chu Chuang Wai[EB/OL].[2014-02-18].http://www. zccw.info/.)   \n[2] 张慕洁，沈建华．关于处置食品药品安全突发事件中信息 公开的思考[J]．上海食品药品监管情报研究，2012(2): 45-49.(Zhang Mujie,Shen Jianhua.About the Disposal of the Food and Drug Safety Incident Information to the Public Thinking about the Disposal of the Food and Drug Safety Incident Information[J].Shanghai Food and Drug Information Research,2012(2):45-49.)   \n[3] 马颖，张园园，宋文广．食品行业事件风险感知的传染病 模型研究[J]．科研管理，2013，34(9):123-130.(Ma Ying, Zhang Yuanyuan,Song Wenguang.Research on Epidemic Model of Emergency Events Risk Perception in Food Industry [J].Science Research Management,2013,34(9):123-130.)   \n[4]陈宇，郑德权，赵铁军．基于 Deep Belief Nets 的中文名实 体关系抽取[J]．软件学报，2012,23(10):2572-2585.(Chen Yu,Zheng Dequan,Zhao Tiejun. Chinese Relation Extraction Based on Deep Belief Nets[J]. Journal of Software,2012,   \n23(10):2572-2585.) [5]邵发，黄银阁，周兰江，等．基于实体消歧的中文实体关 系抽取[J]．山东大学学报：工学版，2014，44(6)：32-37. (Shao Fa,Huang Yin'ge,Zhou Lanjiang,et al. Chinese Entity Relation Extraction Based on Entity Disambiguation[J]. Journal of Shandong University: Engineering Science,2014,   \n44(6): 32-37.) [6]许华，刘茂福，姜丽，等．基于语言规则的病症菌实体抽 取[J].武汉大学学报：理学版,2015,61(2):51-55.(Xu Hua, Liu Maofu, Jiang Li,et al. Disease and Bacteria Entity Extraction Based on Linguistic Rule[J].Journal of Wuhan University: Natural Science Edition,2015,61(2): 51-55.) [7]魏秀卓．食品投诉文本敏感词汇抽取研究[D]．长春：东北 师范大学，2015．（Wei Xiuzhuo．Food Complaint Text Sensitive Words Extraction Research [D]. Changchun: Northeast Normal University,2015.) [8]高蕊．基于本体的食品投诉文本危害信息抽取研究[D]．长 春：东北师范大学,2011.(Gao Rui. Ontology-based Hazard Information Extraction from Chinese Food Complaint Documents[D]. Changchun: Northeast Normal University,   \n2011.) [9]李丽双，党延忠，张婧，等．基于条件随机场的汽车领域 术语抽取[J]．大连理工大学学报,2013,53(2):267-272.(Li Lishuang,Dang Yanzhong,Zhang Jing,et al. Automotive Term Extraction Based on Conditional Random Fields[J]. Journal of Dalian University of Technology，2013,53(2):   \n267-272.) [10]王文龙，王东波．面向项目申请书的命名实体抽取模型构 建研究[J].情报资料工作,2015(1):30-34.(Wang Longwen, Wang Dongbo.Project Application-oriented Named Entity ExtractionModel Construction [J].Informationand Documentation Services,2015(1):30-34.) [11]刘凯，周雪忠，于剑，等．基于条件随机场的中医临床病 历命名实体抽取[J]．计算机工程，2014，40(9):312-316. (Liu Kai, Zhou Xuezhong,Yu Jian,et al.Named Entity Extraction of Traditional Chinese Medicine Medical Records BasedonConditionalRandomField[J].Computer Engineering,2014,40(9):312-316.)   \n[12]吴云芳．面向语言信息处理的现代汉语并列结构研究[M]. 北京：北京师范大学出版社，2004．（Wu Yunfang. Researches of Modern Chinese Coordinate Construction for Language Information Processing[M]. Beijing:Beijing Normal University Press,2004.)   \n[13]Lafferty J，McCallum A，Pereira F.Conditional Random Fields:Probabilistic Models for Segmenting and Labeling Sequence Data[C]// Proceedings of the 18th International Conference on Machine Learning.2001:282-289.   \n[14] McCallum A， Freitag D, Pereira F. Maximum Entropy Markov Models for Information Extraction and Segmentation [C]//Proceedings of the 17th International Conference on Machine Learning.200o:591-598. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作者贡献声明：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "王东波：论文的框架搭建，论文撰写、修订;  \n吴毅：模型的训练和论文撰写;  \n叶文豪：数据的标注;  \n刘睿伦：语料的预处理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "利益冲突声明：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "所有作者声明不存在利益冲突关系。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "支撑数据：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "支撑数据由作者自存储,E-mail:db.wang@njau.edu.cn。  \n[1]王东波，吴毅，叶文豪，刘睿伦．Event statistics programming基于食品安全事件语料库的实体统计程序.  \n[2]王东波，吴毅，叶文豪，刘睿伦．Event extractingplatform基于条件随机场模型的实体抽取平台，",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "收稿日期:2016-08-03   \n收修改稿日期:2016-12-07 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Extracting Events of Food Safety Emergencies with Characteristics Knowledge ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wang Dongbo1,2Wu YilYe Wenhao'Liu Ruilun1 1(College of Information and Technology, Nanjing Agricultural University, Nanjing 210095, China) 2(Research Center for Correlation of Domain Knowledge,Nanjing Agricultural University, Nanjing 210o95, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:[Objective] This paper aims to extract the events of food safety emergencies from large food safety emergencies.[Methods]First,we built the food safety emergencycorpus based on the past events,as wellas thedata acquisition,labeling,and organization methods of information science.Then,we extracted the corresponding events with the helpof conditional random field model,and the distribution characteristics knowledge of the food safety emergencies.[Limitations] We might not be able to applythe feature template created bythis research toother fields. [Results] We examined the proposed model with a food safety emergencycorpus of 15 million Chinese words,and the F value of this model reached $91 . 9 4 \\%$ .[Conclusions] It is feasible for us to extract the events from food safety emergency corpus with the help of conditional random field model. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Characteristics Knowledge Conditional Random FieldsEvent Food Safety Emergency ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "OCLC发布研究报告探讨研究数据管理的现实状况",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2017年3月,OCLC发布一项新的研究报告，题为\"研究数据管理(Research Data Management,RDM)服务空间之旅”，概述了RDM服务空间的情况，为世界4所大学进一步探索RDM奠定了基础。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该报告是\"研究数据管理现实\"系列报告中的第一部分，这一系列报告重点分析了4个机构的决策情况，这4个机构在面对研究型大学RDM服务规划、开发和部署时做出不同的选择。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该报告首先对爱丁堡大学(英国)、伊利诺伊大学香槟分校(美国)、蒙纳士大学(澳大利亚)和瓦赫宁根大学(荷兰)等4所大学进行案例分析，研究这些机构的RDM能力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "报告撰写人解释说:\"研究数据管理已经成为高等教育中十分重要的一个领域，需要对服务、资源和基础设施进行大量投资，以支持研究人员的数据管理需求。该报告是OCLC Research的一系列报告中的第一篇，研究了高等教育机构在构建或获取RDM 能力方面所面临的背景、影响和选择，也即，在支持新兴数据管理实践所需的基础设施、服务和其他资源时所面临的背景、影响和选择。”",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "除4项深人案例研究外，报告还在各种国家环境中，对北美、欧洲和澳大利亚的十几个研究型大学进行了RDM 服务审查，发现RDM服务可以分为三类:",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1）教育类：旨在教育研究人员和其他利益攸关方负责任地管理其数据以及安排长期保存的重要性，甚至是必要性;(2)专业类：这些服务为遇到具体研究数据管理问题的研究人员提供决策支持和定制解决方案;(3）保存类：提供支持整个研究周期的数据管理的相关技术基础设施和相关服务。“研究数据管理服务空间之旅\"探索了这三个类别，为整个系列报告提供了一个框架，并对该系列中的下一个报告进行了预告。从OCLC研究网站可下载该报告。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(编译自:http://www.oclc.org/en/news/releases/2017/201708dublin.html) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(本刊讯) ",
+        "page_idx": 7
+    }
+]

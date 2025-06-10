@@ -1,0 +1,205 @@
+# 干旱绿洲农业区村庄多功能特征与类型划分研究以临泽县为例
+
+黄晶，薛东前，马蓓蓓，宋永永（陕西师范大学地理科学与旅游学院，陕西西安710119）
+
+摘要：村庄是最能直接体现乡村经济社会活动规律的单元，落实到村级层面的功能类型划分是分类推进乡村振兴的关键。以行政村为基本单元，采用熵权法、泰尔指数及优势功能模型,构建适用于村庄发展功能识别与类型划分的研究思路，并以西北干旱绿洲农业区临泽县为例进行实证研究。结果表明：干旱绿洲农业区总体形成以农产品生产和生态保育为主的国土空间格局，村庄形成农业种植、畜牧养殖、工业加工、商贸旅游、劳务输出、生活保障等多功能地域综合体,其中农产品生产和生活保障功能总体空间差异较小，而非农生产功能空间差异较大。村庄因资源禀赋、规划引导、政策驱动和社会需求差异形成不同的优势功能类型，空间上呈现“外围生态、沿河种植、中部农牧、临城劳务，文旅、商旅、生活保障以政府驻地及附近村庄为主”的分布规律,并形成非农生产功能镶嵌于农业生产功能之中、生产生活功能被生态保育功能包围的分布格局。通过自上而下主体功能统筹与自下而上经济社会需求相结合的方法进行村庄发展功能识别和类型划分具有较强的适用性和实践指导价值,在巩固国家主体功能定位、保障国家粮食和生态安全的同时，可以调整优化县域资源要素配置，实现村庄发展功能互补与功能协调。
+
+关键词：乡村振兴；多功能类型；地区差异；村庄；干旱绿洲；临泽县文章编号：
+
+多功能是乡村地域系统在某个发展阶段通过内部系统与外部系统相互作用产生的对人类社会和自然界发展有益的综合特性，不仅包括保障乡村系统内部发展需求的功能，还包括与其他乡村系统的协作功能以及支撑城镇系统所发挥的作用，与城市地域功能相比，乡村地域系统拥有其无法替代的社会、经济、生态等功能[2]。因为资源禀赋的异质性、社会经济发展的不平衡性和土地利用模式的多样性，促使乡村功能存在显著的地域差异，再加上社会经济的飞速发展和人们需求结构的变化，乡村提供的产品以及服务也会越来越多样化，从而使乡村地域呈现出功能类型多样化、功能组合复杂化、主导功能差异化的特征[3]。2018年中央一号文件提出“坚持乡村全面振兴，挖掘乡村多种功能和价值”，体现出了多功能乡村对乡村振兴的重要作用。而村庄是体现乡村经济社会发展的最直接单元，落实到行政村单元的乡村发展多功能识别与类型划分研究是全面实现乡村振兴的关键。
+
+乡村发展类型通常是在社会、经济、产业等发展水平、地域职能以及空间特征等要素综合的基础上，按照科学的标准对具有共性特征的乡村地域单元进行类型划分，从而实现客观描述乡村地域发展规律的目的[4]。一直以来乡村发展类型研究是国内外学者关注的重点，在乡村转型发展新时期,依据分区分类推进乡村振兴的国家战略需求，进一步使乡村功能及类型划分成为乡村地理学的热点研究话题。早在20世纪50年代，Dumont对乡村经济类型进行划分，70年代英国学者Cloke开创性地构建变，国外大量字有进行乡忖功能演变以及尖型划分研究[6],如Holmes等[提出多功能乡村转型理论;美国、加拿大、英国、日本、韩国以及部分发展中国家依据各国乡村面临的社会经济矛盾进行类型划分，认为乡村经济类型划分有助于更好地运用分类指导、分区推进的方式进行乡村建设[8-9]。国内关于乡村地域类型模式的研究产生了丰厚的成果,如：刘慧[10]以省为基本单元构建农村发展评估指标体系，将全国划分为六大农村地域经济类型；刘彦随等[]、杨忍等[12]通过构建经济发展、粮食生产、社会保障、生态保育等多功能性评价指标体系，对中国县域尺度功能的空间分异及影响因素进行研究;张正峰等[13]以三次产业结构为依据,基于县域尺度将中国划分为农业主导、工业主导、商旅服务以及均衡发展等乡村发展类型;周扬等[14]立足人地关系地域系统理论,从资源、环境、人文、经济等维度构建乡村地域系统发展水平指标体系,从县域尺度对中国乡村地域系统进行类型区划分。除此之外,有大量学者基于区县尺度对中国东部沿海地区[15、长江经济带[3]、京津冀地区[16]、长株潭地区[17-18]、江汉平原[19-20]及省[21-22]、市[23-25]等地区乡村发展地域差异和类型进行研究。也有部分学者基于村镇尺度进行探索性研究，如刘彦随等[2]首次也是唯一基于全国乡镇单元划分中国乡村地域系统类型;史秋洁等[27]基于全国7省48个行政村样本数据,对面向规划建设的村庄分类指标体系进行研究;李裕瑞等[28]建立村庄分类模型,以案例区为例细化乡村振兴战略提出的四类村庄类型；谢臻等29以中国99个美丽乡村示范村为例建立评价和分类诊断体系，将乡村发展类型划分为优先振兴型、预备振兴型、保留维持型和衰落搬迁型;姚龙等[30]将广州郊区村庄划分为平原种植、丘陵种植/林业、山区林业、特色旅游、城镇化整理五大乡村发展类型。总体而言，目前研究形成了几种模式：(1）基于经济发展水平将乡村地区分为经济发达、经济欠发达、经济不发达、经济落后等类型;(2）基于三次产业结构将乡村划分为农业主导、工业主导、商旅服务、均衡发展等类型;(3）基于地域多功能理论将乡村划分经济发展型、农业生产型、社会保障型、生态保育型及生活保障型等类型；(4)基于人地系统理论构建乡村地域系统发展水平指标体系,综合经济发展、产业结构、地域空间等多项因素进行综合分类，形成主导化、多元化、复合化的功能类型。
+
+综上所述，目前国内外关于乡村发展类型研究已经较为成熟，研究成果较多且形成了一定模式，为我国分区分类推进乡村振兴提供一定的理论基础。但目前研究从地区来看主要集中于我国东部地区以及城乡一体化发展水平相对较高的城郊区，对我国经济发展相对落后的西北地区尤其是干旱绿洲农业区乡村发展类型研究相对较少。从研究尺度上看，以县域及以上为主，涉及村镇尺度的研究屈指可数。但从实践操作层面来看，村庄是最能体现乡村社会经济发展特征的地域单元，而目前少量研究均是以样本村为例面向特定地区进行研究，村庄具体发展类型和发展模式也较模糊。为了能够更加贴切地体现乡村地域分异规律，基于行政村尺度的乡村发展类型研究将成为主流方向。因此，本研究以行政村为基本分析单元，通过自上而下县域统筹与自下而上村庄发展需求相结合的方法，探索一套适用于干旱绿洲农业区村庄发展功能识别与类型划分方法，并以临泽县为例验证功能类型划分方法的适用性，为开展干旱区村庄科学分类和乡村振兴提供依据。
+
+# 1研究区概况
+
+临泽县隶属于甘肃省张掖市，位于河西走廊中部，东邻甘州区，西接高台县，南依祁连山与肃南裕固族自治县接壤，北毗内蒙古自治区阿拉善右旗。境内海拔 $1 3 5 8 { \sim } 2 1 4 2 ~ \mathrm { m }$ ,地势平坦，以平坡为主，自南向北可以划分为南部祁连山区、中部黑河水系冲积形成的走廊平原区、北部合黎山剥蚀残山区（图1)。临泽县下辖7个镇(沙河镇、新华镇、平川镇、板桥镇、蓼泉镇、鸭暖镇、倪家营镇），71个行政村，全县总人口 $1 4 \times 1 0 ^ { 4 }$ 多人，总面积 $2 7 2 9 . 9 7 \mathrm { k m } ^ { 2 }$ ,其中：农用地 $5 9 7 8 4 . 7 1 \ \mathrm { h m } ^ { 2 }$ ，占全县土地总面积的 $2 1 . 9 \%$ ；建设用地 $7 5 6 2 . 4 3 \ : \mathrm { h m } ^ { 2 }$ ，占全县土地总面积的 $2 . 7 7 \%$ ;其他戈壁、沙漠、土石山区等未利用土地占全县土地总面积的 $7 5 . 3 3 \%$ ,可利用土地资源有限。
+
+临泽县是传统的灌耕农业区，曾获“全国粮食单产冠军县"称号，享有“中国枣乡"的美誉。在《全国主体功能区规划》中临泽县属国家限制开发区域的农产品主产区，其中粮食作物、蔬菜瓜果、花卉林注：该图基于国家测绘地理信息局标准地图服务网站下载的审图号为GS(2019)3266号的标准地图制作,底图边界无修改。下同。
+
+![](images/9c959783e9f9d6320b3e6e98891091b557200c0961cf3d2eb0e6b4e46e2a9efe.jpg)  
+干旱区地理  
+图1临泽县区位和县域概况图  
+Fig.1 Location and county area map of Linze County
+
+木品种丰富，被誉为“花果之乡”，玉米种子占到全国大田玉米用种量的 $1 3 \%$ 以上，是全国玉米种子生产示范核心区、绿色有机蔬菜生产基地、绿色无公害畜产品生产基地和优质特色林果基地[31]。总体而言，以临泽县为例进行村庄功能识别与类型划分研究，具有干旱绿洲农业区的典型性与代表性。
+
+# 2村庄发展功能识别与类型划分依据
+
+# 2.1村庄发展功能识别指标体系构建
+
+依据调研了解的干旱绿洲农业区乡村发展现状、资源环境禀赋及政策驱动导向，从生产、生活、生态功能视角出发，本研究构建了包括农产品生产、非农生产、生活保障、生态保育四大一级功能区，以及农业种植、畜牧养殖、工业加工、商旅服务、劳务输出、生活保障、生态保育等能够覆盖干旱区村庄经济社会发展现状的二级功能类型指标体系(表1)。具体如下：以村庄耕地面积、粮食产量、种植业收入来衡量农业种植情况;以村庄畜牧养殖总量、畜牧养殖业收入来评价畜牧养殖情况；以村庄规模以上工业企业数和工业收入来评价工业加工发展情况；以村庄是否为旅游示范村或是否有旅游名号、大型商店数、餐饮零售收入来评价商贸旅游发展情况；以村庄外出务工人口数占劳动力比例、外出务工收入来评价劳务输出情况；以村庄常住人口数、人均可支配收人、人均住房面积以及参加合作医疗保险和社会养老保险人数占常住人口比重来评价生活保障情况;以水域、草地、林地及其他未利用土地面积占乡镇面积/村域面积比重来评价生态保育情况。耕地及社会经济数据均来源于临泽县各镇《农村经济社会发展提要本》;水域、草地、林地及其他未利用土地面积来源于中国科学院资源环境数据中心 $3 0 \mathrm { ~ m ~ }$ 遥感影像监测数据(http://www.resdc.cn)。
+
+# 2.2村庄发展功能识别与类型划分方法
+
+2.2.1村庄发展功能识别方法地域多功能识别方法为熵权法，计算公式如下：
+
+$$
+\mathrm { R D } _ { i j } = \sum _ { i = 0 } ^ { n } R _ { i j } \times W _ { j }
+$$
+
+式中： $\mathrm { R D } _ { i j }$ 为 $i$ 村庄 $j$ 功能类型发展指数值； $R _ { i j }$ 为 $i$ 村庄 $j$ 功能各指标标准化值； $\textstyle \mathbf { \begin{array} { r l } \end{array} } \mathbf { \begin{array} { r l } \end{array} } \mathbf { \begin{array} { r l } \end{array} }$ 为熵权法得出的 $j$ 功能各指标权重值。
+
+2.2.2村庄发展功能差异测度方法目前国内使用最为普遍的差异测度方法为基尼系数、泰尔指数和变异系数等[32],泰尔指数的优点是能够按照地区间和地区内分解差异。计算公式如下：
+
+$$
+J = \sum _ { i = 1 } ^ { n } T _ { i } \mathrm { l n } ( n T _ { i } )
+$$
+
+$$
+{ \cal J } _ { k } ^ { } = \sum _ { k = 1 } ^ { m } \sum _ { i = 1 } ^ { n _ { k } } ( T _ { i } ^ { } / T _ { k } ^ { } ) \mathrm { l n } ( n _ { k } ^ { } T _ { i } ^ { } / T _ { k } ^ { } )
+$$
+
+$$
+J _ { r } { = } \sum _ { k = 1 } ^ { m } T _ { k } J _ { k }
+$$
+
+表1村庄发展多功能类型识别指标体系  
+Tab.1 Multi function type identification index system of village development   
+
+<html><body><table><tr><td colspan="2">-级功能区</td><td colspan="2">二级功能类型</td><td>指向</td></tr><tr><td rowspan="9">生产功能</td><td rowspan="9">农产品生产</td><td rowspan="3">农业种植</td><td>村庄耕地面积</td><td>正向</td></tr><tr><td>村庄粮食产量</td><td>正向</td></tr><tr><td>村庄种植业收入</td><td>正向</td></tr><tr><td>畜牧养殖</td><td>村庄畜牧养殖总量</td><td>正向</td></tr><tr><td></td><td>村庄畜牧养殖收入</td><td>正向</td></tr><tr><td>工业加工</td><td>村庄规模以上工业企业数</td><td>正向</td></tr><tr><td></td><td>村庄工业收入</td><td>正向</td></tr><tr><td>商贸旅游</td><td>是否为旅游示范村、是否有旅游名号</td><td>正向</td></tr><tr><td></td><td>村庄50m以上大型商店数、餐饮零售收入</td><td>正向</td></tr><tr><td rowspan="6">生活功能</td><td rowspan="3"></td><td>劳务输出</td><td>村庄外出务工人口占劳动力比例</td><td>正向</td></tr><tr><td></td><td>村庄外出务工收入</td><td>正向</td></tr><tr><td>生活保障</td><td>村庄常住人口数</td><td>正向</td></tr><tr><td rowspan="3"></td><td rowspan="3"></td><td>村庄人均可支配收入</td><td>正向</td></tr><tr><td>村庄人均住房面积</td><td>正向</td></tr><tr><td>村庄参加合作医疗保险和社会养老保险人数占常住人口比重</td><td>正向</td></tr><tr><td>生态功能</td><td>生态保育</td><td>生态保育</td><td>乡镇/村庄水域、草地、林地及其他未利用土地面积占乡镇面积/村域面积比重</td><td>正向</td></tr></table></body></html>
+
+$$
+J _ { j } { = } \sum _ { k = 1 } ^ { m } T _ { k } \ln ( T _ { _ k } n / n _ { _ k } )
+$$
+
+式中： $J$ 为县域村庄功能总泰尔指数； $J _ { k }$ 为 $k$ 乡镇总泰尔指数； $J _ { r }$ 和 $J _ { j }$ 分别为乡镇内和乡镇间差异； $n$ 为县域村庄总个数； $m$ 为县域乡镇总个数; $n _ { k }$ 为 $k$ 乡镇村庄个数； $T _ { i }$ 为 $i$ 村庄发展功能值占县域发展功能值的比重； $T _ { k }$ 为 $k$ 乡镇发展功能值占县域发展功能值的比重。
+
+2.2.3村庄发展功能类型划分方法任何地域系统在特定时期内都具有多功能性，因为受政策导向、资源禀赋等影响使不同功能的作用强度和表现形式有所差异，从而形成不同的优势主导功能，即其他功能都将处于从属地位。借鉴相关研究[22]，采用功能发展评价值与标准差相结合的方法确定优势功能，即某类功能的指标评价值大于该类功能均值加0.5倍标准差则为优势功能。定义村庄发展优势功能 $F$ 判定函数：
+
+$$
+F _ { j } = \mathrm { A v e r a g e } ( \mathrm { R D } _ { i j } ) + 0 . 5 \times \mathrm { S t d e v } ( \mathrm { R D } _ { i j } )
+$$
+
+$$
+F > F _ { j }
+$$
+
+式中： $F _ { j }$ 为 $j$ 功能评判对比值; $F$ 为优势功能值; $\mathrm { R D } _ { i j }$   
+为i村庄 $j$ 功能类型发展指数值。
+
+如果某村庄不止一种优势功能，则按照地区发展需求，有明确功能定位的村庄保留原功能定位，
+
+没有明确功能定位的结合县域乡村发展主导功能及发展现状综合判断。
+
+# 3村庄发展功能识别与类型划分实证研究
+
+# 3.1村庄发展多功能特征与地区差异
+
+本部分将各功能发展评价值依据GIS自然断点划分为高、中、低三级，以此分析村庄发展多功能特征及空间分异规律(图2)。由于临泽县村庄全部分布在中部平原地区，耕地较多，农业综合生产能力较强，村域范围内涉及水域、草地、林地面积较少，生态保育功能相对较弱；而临泽县南部祁连山区和北部合黎山剥蚀残山区、中部黑河水系等国有土地，以及五泉林场和沙河林场等为生态保育功能，但不属于任何村庄所管辖，因此本研究不对村庄进行生态保育功能评价。
+
+3.1.1农业种植功能种植业是临泽县全域乡村的支柱产业，2018年全县村庄共经营耕地面积 $2 . 9 1 \times$ $1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,粮食播种面积近 $2 . 3 { \times } 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,粮食总产量达$1 5 . 6 7 \times 1 0 ^ { 4 } \mathrm { t }$ ,发展玉米制种 $1 . 3 0 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,特色林果$0 . 3 6 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ ,蔬菜制种、甜叶菊、芦笋、中药材、花卉等特色产业 $0 . 2 1 \times 1 0 ^ { 4 } \mathrm { h m } ^ { 2 }$ 。农业种植功能整体比较均衡，空间集聚不明显，除城郊村庄和南部丹霞景区驱动型村庄人均耕地面积不足 $0 . 1 4 \ \mathrm { h m } ^ { 2 }$ 、种植功能较弱外，其余村庄耕地资源丰富、粮食产量和种植业收入相对较高。从泰尔指数看，县域总体差异不大(0.156)，乡镇内差异(0.113)大于乡镇间差异(0.043)，说明整体呈现均衡分散型空间分布特征。3.1.2畜牧养殖功能畜牧养殖业是临泽县的另一支柱产业，2018年全县累计建成标准化养殖场区186个，其中肉牛养殖场区68个，奶牛养殖场区9个，受资源约束具有较强的空间趋利避害特征，因此养殖功能强的村庄（总占比 $2 6 . 7 6 \%$ )主要集中在地表水资源相对匮乏的新华镇、鸭暖镇西部以及北部生态环境较弱的板桥镇，这些村庄畜牧总量均在12000头以上，年畜牧收入均在 $1 0 0 0 { \times } 1 0 ^ { 4 }$ 元以上；畜牧养殖功能弱的村庄主要分散在环境规制较强的城区周边和水土资源丰富利于种植业发展的平川镇及廖泉镇。从泰尔指数看，县域总体差异也不大(0.158），且乡镇内差异（0.091)与乡镇间差异(0.067)相当，说明整体空间关联带动性较强。
+
+![](images/cf78a3cbbc193b6c804387692562057cba9172fc53992ee3433444f8f44e1e67.jpg)  
+图2临泽县全域村庄发展功能值及地区分布  
+Fig.2 Development function value and regional distribution of villages in Linze County
+
+3.1.3工业加工功能临泽县以特色农畜产品加工和凹凸棒石精深加工为主的工业经济正在稳步发展，2018年全县新建工业企业12家，完成工业增加值 $3 . 2 9 \times 1 0 ^ { 8 }$ 元，规模以上工业企业实现销售收入$1 9 . 4 8 \times 1 0 ^ { 8 }$ 元。工业加工具有较强的规划引导性，因此空间集聚特征较为突出，功能强的村庄（总占比$1 1 . 2 7 \%$ )全部集中在城郊沙河镇，以及凹凸棒石原材料丰富的大鸭村和暖泉村，年工业收入均在 $7 0 0 \times$
+
+$1 0 ^ { 4 }$ 元以上，其余 $8 8 . 7 3 \%$ 的村庄工业加工还未涉及。工业加工功能总体差异(0.976)相对较大，乡镇内差异(0.255)小于乡镇间差异(0.721），表明整体空间分异突出且集聚性较强
+
+3.1.4商贸旅游功能旅游业对临泽县村庄经济发展的带动和引领作用不断凸显，2018年组织实施旅游重点建设项目26项，创建国家5A级七彩丹霞景区、4A级流沙河景区、3A级德源农庄和红桥庄园，创建市级专业旅游村五泉村、红沟村、芦湾村、南台村，县级旅游示范村暖泉村、化音村、东寨村、汪家墩村，全年接待国内外游客 $6 6 0 . 1 6 \times 1 0 ^ { 4 }$ 人次，实现旅游综合收入 $4 5 \times 1 0 ^ { 8 }$ 元，并拉动批零、住宿、餐饮业快速发展。商贸旅游具有较强的资源依附性和政策驱动性，功能较强的村庄总占比 $1 4 . 0 8 \%$ ,其中廖泉镇村庄批零餐饮收入达 $4 0 0 0 { \times } 1 0 ^ { 4 }$ 元以上，城区周边沙河镇村庄有 $5 0 \mathrm { m } ^ { 2 }$ 以上的大型商店，其余村庄均为旅游示范村。商贸旅游功能总体差异(0.937)较大，乡镇内差异(0.623)大于乡镇间差异(0.313），表明整体空间分异突出且分散性较强
+
+3.1.5劳务输出功能劳务输出是临泽县村庄的重要经济来源之一，2018年全县村庄总人口126425人，有劳动力81849人，劳务输出人口18126人，人均劳务输出收入18715元，平均高于农产品生产4000元。劳务输出功能强的村庄共5个，总占比$7 . 0 4 \%$ ，除板桥镇西湾村外，其余全部为城边村，因获得更多的就业机会，这些村庄劳务输出占比均在$5 0 \%$ 以上，沙河镇为主要集聚区，其次为北部可利用土地资源受限的平川镇和板桥镇。劳务输出功能总泰尔指数0.827，乡镇内差异(0.015)远小于乡镇间差异(0.812)，说明总体差异较大且空间集聚性突出
+
+3.1.6生活保障功能临泽县近年来不断加强村庄公共服务和基础设施建设，人民生活和社会保障体系不断完善，综合能力不断加强。生活保障功能较强的村庄均是政府驻地、中心村或旅游示范村，总占比 $2 2 . 5 4 \%$ ,村庄教育、医疗设施相对齐全、社会保障能力较强。生活保障功能较弱的村庄主要分布在新华镇、鸭暖镇和倪家营镇，属于位置相对边缘化的村庄。生活保障功能总泰尔指数0.192，说明总体功能差异不大，乡镇内差异(0.161)要大于乡镇间差异(0.031)。
+
+总体而言，临泽县全域村庄形成以制种玉米、蔬菜、特色林果等农业种植及肉牛、肉羊等畜牧养殖为主的功能类型，同时兼顾工业加工、商贸旅游、劳务输出、生活保障等功能，村庄多功能趋势明显。就空间差异而言，农业种植、畜牧养殖等农产品生产和生活保障功能总体差异较小，而工业加工、商贸旅游和劳务输出等非农生产功能总体差异较大，其中工业加工和劳务输出功能以乡镇间差异为主，商贸旅游功能以乡镇内差异为主(表2)。
+
+# 3.2全域发展功能类型划分及结果分析
+
+3.2.1功能类型划分依据首先，将有明确功能定位的国营临泽农场划分为农业种植功能、国营临泽牛场划分为畜牧养殖功能、沙河林场和五泉林场划分为生态保育功能。其次，根据临泽县地处西北干旱区和生态环境脆弱的特征，将南部祁连山区和北部合黎山剥蚀残山区以及中部贯穿东西的黑河水系等组成的国有土地全部划分为生态保育功能。对于所有村庄，根据经济社会发展现状按照优势功能判定规则划分，对于优势功能不唯一的村庄，根据发展现状及需求而定。
+
+临泽县在《全国主体功能区规划》中属国家限制开发区域的农产品主产区，在《甘肃主体功能区规划》中属于张掖(甘州一临泽)重点开发区域，发展方向为充分利用农畜产品资源丰富的优势，提高农畜产品市场占有率和竞争力，因此依据临泽县国家农产品主体功能定位，确定农产品生产功能为全
+
+表2临泽县全域村庄发展功能泰尔指数值  
+Tab.2Values of Theil index of village development function in Linze County   
+
+<html><body><table><tr><td colspan="2">村庄发展功能</td><td>总泰尔指数</td><td>乡镇内泰尔指数</td><td>乡镇间泰尔指数</td></tr><tr><td>农产品生产</td><td>农业种植功能</td><td>0.156</td><td>0.113</td><td>0.043</td></tr><tr><td></td><td>畜牧养殖功能</td><td>0.158</td><td>0.091</td><td>0.067</td></tr><tr><td>非农生产</td><td>工业加工功能</td><td>0.976</td><td>0.255</td><td>0.721</td></tr><tr><td></td><td>商贸旅游功能</td><td>0.936</td><td>0.623</td><td>0.313</td></tr><tr><td></td><td>劳务输出功能</td><td>0.827</td><td>0.015</td><td>0.812</td></tr><tr><td>生活保障</td><td>生活保障功能</td><td>0.192</td><td>0.161</td><td>0.031</td></tr></table></body></html>
+
+# 干旱区地理
+
+域大部分村庄的主导功能。《张掖市落实国家主体功能区建设试点示范方案三年工作计划（2015—2017)》将临泽县板桥镇、平川镇北部地区划分为生态保护空间；将临泽县除城市发展空间、禁止开发区及北部荒漠植被封育保护区之外区域，包括省主体功能区规划中的农产品主产区和重点开发区中承担农产品生产的区域定位为农业生产空间。因此，临泽县全域形成了以农业生产和生态保育为主的国土空间格局。
+
+近年来临泽县依托乡村振兴战略，打造特色产业和培育经营主体，促进农业提质增效、农民稳定增收，构建了包括玉米制种、蔬菜制种、甜叶菊、芦笋、花卉、特色经济林及木本中药材等特色产业种植和肉牛、奶牛、生猪、羊、家禽等畜牧养殖为主的产业体系，特色农畜产品加工和凹凸棒石精深加工为主的工业经济以及劳务输出、乡村旅游正稳步发展；同时人民居住生活和社会保障体系不断完善。总体而言，临泽县全域乡村形成了以农产品生产、非农生产、生活保障和生态保育为主的四大功能一级区，以及种植主导、畜牧主导、农牧均衡、农文旅融合、劳务主导、工业加工、生活保障、生态保育等具体村庄主导功能类型(图3)。
+
+3.2.2功能类型划分结果在村镇发展类型中，不同主导功能类型的村庄区位偏好有所不同，形成以下空间分布规律：(1）种植业主导型村庄主要分布在黑河两岸水资源丰富区及临泽农场，占地面积共$2 0 5 . 3 2 \mathrm { k m } ^ { 2 }$ ,以玉米制种、瓜果、蔬菜种植为主，确保粮食和蔬菜、瓜果等农产品安全。2）畜牧主导型村庄主要集聚在新华镇，占地面积共 $5 6 . 3 9 \mathrm { k m } ^ { 2 }$ ，以牛、羊、猪、家禽等养殖为主，确保肉类、奶类和蛋类安全。(3)农牧均衡型村庄遍布临泽县南北，以鸭暖镇最为集聚，占地面积共 $2 6 6 . 5 1 ~ \mathrm { k m } ^ { 2 }$ ,村庄农业种植与畜牧养殖均衡发展，种植秸秆为畜牧养殖提供饲料，养殖粪便为农业种植提供肥料，形成循环经济产业链。(4)农文旅融合型村庄主要在政策导向驱动下以农耕文化园、乡土文化园、葡萄庄园、红色遗址和丹霞地貌等为主题，将农业发展、文化传承与旅游相结合，并推动商贸零售与批发、餐饮住宿等服务业发展，占地共 $6 0 . 0 1 \mathrm { k m } _ { \mathrm { ~ o ~ } } ^ { 2 } ( 5 )$ 劳务主导型村庄主要集聚在城区周边，借助靠近城区良好的区位优势和更多的就业机会满足建筑工程、交通运输、商贸服务等非农生产需求，未来可考虑城镇化，占地面积共 $2 4 . 7 0 \mathrm { k m } ^ { 2 }$ 。(6)工业加工型以特色农畜产品加工和凹凸棒石精深加工为主，未来可考虑城镇化，占地面积共 $1 3 . 2 5 \mathrm { k m } _ { \circ } ^ { 2 } ( 7 )$ 生活保障型村庄集农业生产、居住生活、社会保障等多功能于一体，以政府驻地和城边村为主，共占地 $5 6 . 5 5 \mathrm { k m } _ { \mathrm { ~ o ~ } } ^ { 2 } ( 8 )$ 生态保育型地区主要包括沙河林场、五泉林场、戈壁、荒漠及南部祁连山区和北部合黎山剥蚀残山区、中部黑河水系组成的国有土地，共占地 $2 0 4 0 . 7 5 ~ \mathrm { k m } ^ { 2 }$ ，占比$7 4 . 7 5 \%$ ，为生态环境保育与修复功能(表3)。总体而言，空间上呈现“外围生态保育，种植偏向黑河两岸湿地，中部以畜牧和农牧均衡为主，劳务分布在城区周边村镇，农旅、文旅、商旅、生活保障以政府驻地及其周边村庄为主"的分布规律，并形成以农业生产功能为主镶嵌非农生产功能、以生态保育包围生产生活功能的分布格局。
+
+![](images/1efc58ba2a970df5c7491b96d59008691fe7b2b8de4cdc1ae3401540c5342611.jpg)  
+图3临泽县村庄发展主导功能类型  
+Fig.3Leading function types of village development in Linze County
+
+表3临泽县村镇类型包含地区及发展模式  
+Tab.3The types of villages and towns in Linze County include regions and development models   
+
+<html><body><table><tr><td>功能区</td><td>功能类型</td><td>包含地区</td><td>数量、面积占比</td><td>发展模式</td></tr><tr><td rowspan="4"></td><td>农产品生产种植主导型</td><td>临泽农场及马郡村、一工城村、五里墩村、壕共14个村庄，占比19.72%； 洼村、新添村、蓼泉村、东柳村、西湾村、暖泉 村、昭武村、张湾村、小鸭村、新民村、下营村</td><td>共205.32km，占比7.52%</td><td>以玉米制种、瓜果、蔬菜种植 为主，确保粮食和农产品安全</td></tr><tr><td>畜牧主导型</td><td>临泽牛场及墩子村、唐湾村、明泉村、胜利共7个村庄，占比9.86%； 村、西街村、富强村、大寨村</td><td>共56.39 km，占比2.07%</td><td>以牛、羊、猪、家禽等养殖为 主，确保肉类、奶类和蛋类安 全</td></tr><tr><td>农牧均衡型</td><td>大鸭村、古寨村、曹庄村、小屯村、古城村、宣 威村、新华村、白寨村、华强村、亢寨村、友好 村、向前村、长庄村、新柳村、土桥村、倪家营</td><td>三三村、三二村、贾家墩村、三一村、四坝村、共28个村庄，占比39.44%; 下庄村、黄家堡村、西柳村、寨子村、湾子村、共266.51km，占比9.76%</td><td>农业种植与畜牧养殖均衡发 展，种植秸秆为畜牧养殖提供 饲料,养殖粪便为农业种植提 供肥料，形成循环经济产业链</td></tr><tr><td>非农生产农文旅融合型</td><td>南台村</td><td>芦湾村、上庄村、五泉村、红沟村、汪家墩村、共6个村庄，占比8.45%； 共60.01km，占比2.20%</td><td>以农耕文化园、乡土文化园、 葡萄庄园、红色遗址和丹霞地 貌等为主题,将农业发展、文 化传承与旅游相结合，并推动 商贸零售与批发、餐饮住宿等</td></tr><tr><td></td><td>工业加工型</td><td>化音村、兰堡村、五三村</td><td>共3个村庄，占比4.23%； 共13.25km，占比0.49%</td><td>服务业发展 以特色农畜产品加工和凹凸 棒石精深加工为主，未来可考 虑城镇化</td></tr><tr><td></td><td>劳务主导型</td><td>闸湾村、合强村、新丰村、西头号村、西关村、共6个村庄，占比8.45%； 西寨村</td><td>共24.70 km，占比0.90%</td><td>满足建筑工程、交通运输、商 贸服务等非农生产需求，未来 可考虑城镇化</td></tr><tr><td>生活保障</td><td>生活保障型</td><td>平川村、双泉村、板桥村、花园村、沙河村、东共7个村庄，占比9.86%； 寨村、梨园村</td><td>共56.55km²，占比2.07%</td><td>集农业生产、居住生活、社会 保障等多功能于一体</td></tr><tr><td>生态保育</td><td>生态保育型</td><td>沙河林场、五泉林场、戈壁、荒漠及南部祁连 山区和北部合黎山剥蚀残山区、中部黑河水 系组成的国有土地</td><td>共2040.75km²，占比74.75%</td><td>林地、水体、山区、戈壁、荒漠 等生态环境保育与修复</td></tr><tr><td>产城融合</td><td>产城融合型</td><td>城区</td><td>共6.50 km，占比0.24%</td><td>多功能综合体，以生产生活功 能为主</td></tr></table></body></html>
+
+村全面振兴。村庄是最直接最有效体现乡村经济社会发展规律的单元，然而由于微观数据难以获取、村庄数量庞大等原因，长期以来对乡村地域多功能性的研究都是从宏观角度出发，尽管有个别研究对特定村庄进行多功能演变分析，但很少有研究从微观角度对村庄进行系统的多功能性评估。鉴于中国地区之间存在着较大的差异，需要制定符合不同地区特点并与村庄特色相适应的乡村振兴策略，而面对如此庞大的村镇建设系统，需要构建一套化繁为简、科学适用的方法体系，分区分类是最行之有效的途径。因此本文从生产、生活、生态功能视角出发创新性的从县域统筹视角构建一套适合干旱绿洲农业区村庄发展多功能评价及类型划分的研究思路和方法体系。一方面是对已有乡村地域多功能研究内容的深化和补充;另一方面，根
+
+# 4讨论
+
+在乡村振兴战略背景下，必须在充分挖掘乡村多元价值和多功能类型，准确认识和了解乡村地域发展规律和地区差异的基础上，才能有效地推动乡
+
+# 干吴区地理
+
+据不同地区的比较优势划分村庄功能类型，鼓励每个村庄把重点放在发挥优势功能上，能够为不同地区乡村振兴提供更精准的村庄发展策略。
+
+自20世纪90年代末以来，多功能发展已经成为欧洲后生产主义时代农业和农村发展的新范式[33]。随着中国经济社会发展迈人后工业化时代，乡村发展进人新的转型阶段，从生产主义到后生产主义转型过程中伴随着多元景观和价值的空间重构，乡村地域系统由传统单一农产品生产功能向多功能转变[34]。后生产主义时期,乡村不仅具有生产、生活、生态功能，休闲旅游、文化传承、生态保育、社会保障等多元功能日益突出[35]。通过对国家农品主产区临泽县全域村庄的定量评价，发现农产品主产区在保持农业生产为主导功能、维持国家粮食安全的前提下，根据社会发展和服务需求的变化，部分村庄以农文旅融合、工业加工、劳务输出等非农生产为优势功能，也有部分村庄集多功能于一体为生活保障功能。这表明主体功能区划能够在宏观尺度上把握全局为地区发展提供主导方向，但微观尺度上土地利用模式会随着经济社会发展需求而变化，因此地区政策制定者需要做出科学的、实时的、准确的土地利用调整和规划，并制定与地方特征相适应的政策。本研究成果对于村庄功能评价、土地利用规划和农村可持续发展提供了思路和方法。
+
+乡村地域多功能演变深受不同时期社会经济环境的影响，呈现出明显的阶段性特征，但演变影响是一个连续的过程[36-37]。本文以临泽县全域村庄为研究对象，利用2018年调研数据、统计数据，结合上位主体功能规划对71个村庄进行多功能性评价及类型划分研究，但限于村庄尺度长时间序列数据收集的困难性，本文并未进行更精细的功能动态变化过程研究，县域村庄多功能之间存在什么样的关系及空间分布形成原因也需要进一步研究。虽然现有研究有一定的局限性，但根据调研了解情况，研究结果符合干旱绿洲农业区多年村庄发展功能总体格局，随时间演变的只是功能内部更精细的产业结构，如种植业和养殖业内部结构的变化等。其次，本研究只是以国家农产品主产区为例进行了功能类型识别与划分的实证研究，还需要以重点生态功能区和其他地区为例进一步做实证研究证明村庄多功能识别与类型划分方法的科学性。
+
+# 5结论
+
+（1）干旱绿洲农业区县域村庄发展多功能特征突出，不同的功能其作用强度不同。临泽县全域村庄形成以农业种植和畜牧养殖为主，以工业加工、商贸旅游、劳务输出、生活保障和生态保育为辅的多功能地域综合体，总体呈现农业种植功能>畜牧养殖功能 $>$ 生活保障功能>劳务输出功能>工业加工功能 $>$ 商贸旅游功能的格局。农业种植、畜牧养殖等农业生产功能和生活保障功能空间差异相对较小，而工业加工、劳务输出、商贸旅游等非农生产功能空间差异显著且集聚特征突出。
+
+（2）千旱绿洲农业区县域村庄优势功能差异显著，不同的地区其优势功能不同。以农业种植为主导的村庄主要集中在黑河两岸水资源丰富及人均耕地资源富裕的地区，以畜牧养殖为主导的村庄主要分布在牛场和山区附近边缘地区，而有农牧加工、劳务输出、商旅服务、生活保障等非农生产功能的村庄主要集聚在城区周边或各镇政府驻地，生态保育功能主要是南部祁连山区和北部合黎山剥蚀残山区以及中部贯穿东西的黑河水系。
+
+(3）自上而下与自下而上相结合的方法进行功能类型划分具有较强的适用性。以主体功能区划来统筹县域总体发展方向，以经济社会发展需求来评价村庄功能水平，通过自上而下与自下而上相结合的方法进行村庄发展功能识别和类型划分，不仅可以巩固国家主体功能定位，保障国家粮食安全和生态安全，还可以调整优化资源要素配置，实现县域村庄发展功能互补与功能协调。
+
+# 参考文献(References)
+
+[1]刘玉,刘彦随,郭丽英.乡村地域多功能的内涵及其政策启示 [J].人文地理,2011,26(6):103-106,132.[Liu Yu,Liu Yansui, Guo Liying. Connotations of rural regional multifunction and its policy implications in China[J]. Human Geography,2O11,26(6): 103-106,132.]   
+[2]刘自强,李静,鲁奇.乡村空间地域系统的功能多元化与新农村 发展模式[J].农业现代化研究,2008,29(5):532-536.[Liu Ziqiang,Li Jing,Lu Qi.Functions diversification of rural spatial region system and new rural development model[J].Research of Agricultural Modernization,2008,29(5):532-536.]   
+[3]王光耀,赵中秋,祝培甜,等.长江经济带乡村功能区域差异及 类型划分[J].地理科学进展,2019,38(12):1854-1864.[Wang Guangyao,Zhao Zhongqiu, Zhu Peitian, et al. Regional differences and types of rural functions in the Yangtze River Economic Belt [J].ProgressinGeograpy2019,38(12):1854-1864.] [4]姚龙,刘玉亭.乡村发展类型与模式研究评述[J].南方建筑,   
+2014(2): 44-50.[Yao Long,Liu Yuting.A review on the type and model of rural development[J]. South Architecture,2014(2): 44-   
+50.] [5]Rasmussen Wayne D. Types of rural economy: Studies in world agriculture.By René Dumont.London: Methuen and Co.Ltd.(distributed in U.S.A.by Barnes& Noble,New York),1954,reprinted   
+1970.Pp. xii, 555. \$5.00 (paperback)[J]. Journal of Economic History,1971,31(3): 711-712. [6]Marsden T.Rural geography trend report: The social and political basesof rural restructuring[J].Progress in Human Geography,   
+1996,20(2): 246-258. [7]Holmes J,Argent N. Rural transitions in the Nambucca Valley: So cio-demographic change ina disadvantaged rural locale[J]. Journal of Rural Studies,2016,48: 129-142. [8]刘自强,李静,鲁奇.国外乡村经济类型划分及对中国乡村发展 政策制定的启示[J].世界农业,2011(4):34-38.[Liu Ziqiang,Li Jing,Lu Qi.The classification of rural economic types in foreign countries and its implications for China's rural development policy making[J]. World Agriculture,2011(4): 34-38.] [9]Hodge I, Monk S.The economic diversity of rural England: Stylised fallacies and uncertain evidence[J]. Journal of Rural Studies,   
+2004,20(3):263-272. [10] 刘慧.我国农村发展地域差异及类型划分[J].地理学与国土研 究,2002,18(4): 71-75.[Liu Hui. Study on the regional disparities of rural development in China[J]. Geographyand Teritorial Research, 2002,18(4): 71-75.] [11] 刘彦随,刘玉,陈玉福.中国地域多功能性评价及其决策机制 [J].地理学报,2011,66(10):1379-1389.[Liu Yansui,Liu Yu, Chen Yufu.Teritorial multi-functionality evaluation and decisionmaking mechanism at county scale in China[J].Acta Geographica Sinica,2011,66(10): 1379-1389.] [12] 杨忍,罗秀丽,陈燕纯.中国县域乡村地域多功能格局及影响因 素识别[J].地理科学进展,2019,38(9):1316-1328.[Yang Ren, Luo Xiuli, Chen Yanchun. Spatial pattern and influencing factors of rural multifunctionality at county level in China[J].Progress in Geography,2019,38(9): 1316-1328.] [13] 张正峰,张阿曼.中国县域乡村发展类型及时空变化[J].资源科 学,2020,42(2): 207-216.[Zhang Zhengfeng, Zhang Aman. Rural development types of counties in China and historical change[J]. Resources Science, 2020, 42(2): 207-216.] [14]周扬,郭远智,刘彦随.中国乡村地域类型与分区发展途径[J] 地理研究,2019,38(3): 467-481.[Zhou Yang,Guo Yuanzhi, Liu Yansui.Areal types and their development strategies of rural areas in China[J]. Geographical Research,2019,38(3): 467-481.]   
+[15] 龙花楼,刘彦随,邹健.中国东部沿海地区乡村发展类型及其乡 村性评价[J].地理学报,2009,64(4):426-434.[Long Hualou, Liu Yansui, Zou Jian. Assessment of rural development types and their rurality in eastern coastal China[J].Acta Geographica Sinica, 2009, 64(4): 426-434.]   
+[16] 杨园园,臧玉珠,李进涛.基于城乡转型功能分区的京津冀乡村 振兴模式探析[J].地理研究,2019,38(3):684-698.[Yang Yuanyuan,Zang Yuzhu,Li Jintao.Rural revitalization mode in Beijing-Tianjin-Hebei from the perspective of urban-rural transformation functional zoning[J].Geographical Research,2019,38(3): 684-698.]   
+[17] 谭雪兰,于思远,陈婉铃,等.长株潭地区乡村功能评价及地域 分异特征研究[J].地理科学,2017,37(8):1203-1210.[Tan Xuelan,Yu Siyuan, Chen Wanling,etal.Evaluation of rural function and spatial division in Chang-Zhu-Tan urban agglomerations [J]. Scientia Geographica Sinica,2017,37(8): 1203-1210.]   
+[18] 谭雪兰,安悦,蒋凌霄,等.长株潭地区乡村多功能类型分异特 征及形成机制[J].经济地理,2018,38(10):80-88.[Tan Xuelan, An Yue,Jiang Lingxiao,et al. Spatial differentiation and formal mechanism of rural function types in Changsha-Zhuzhou-Xiangtan Area[J]. Economic Geography,2018,38(10): 80-88.]   
+[19] 卓蓉蓉,余斌,曾菊新,等.地域主体功能导向的江汉平原乡村 发展能力时空变化[J].经济地理,2019,39(5):171-180.[Zhuo Rongrong, Yu Bin, Zeng Juxin,et al. Spatio-temporal evolution of rural development capacity of Jianghan Plain from the perspective of regional major function[J].Economic Geography,2019,39(5): 171-180.]   
+[20] 卓蓉蓉,余斌,曾菊新,等.中国重点农区乡村地域功能演变及 其影响机理——以江汉平原为例[J].地理科学进展,2020,39 (1):56-68.[Zhuo Rongrong,Yu Bin, Zeng Juxin,et al. Change and mechanism of influence of rural teritorial functions in major agricultural areas of China: A case study of the Jianghan Plain[J]. Progress in Geography,2020,39(1): 56-68.]   
+[21] 张步艰.浙江省农村经济类型区划分[J].经济地理,1990,10(2): 18-22. [Zhang Bujian. Subarea of rural economic types in Zhejiang Province[J]. Economic Geography,1990,10(2): 18-22.]   
+[22] 乔伟峰,戈大专,高金龙,等.江苏省乡村地域功能与振兴路径 选择研究[J].地理研究,2019,38(3):522-534.[Qiao Weifeng, Ge Dazhuan, Gao Jinlong,et al. Detecting the pathways towards ruralvitalizationfromtheperspetiveoftertoialfunctionsiJiang su Province[J]. Geographical Research, 2019,38(3): 522-534.]   
+[23] 徐凯,房艳刚.乡村地域多功能空间分异特征及类型识别一 以辽宁省78个区县为例[J].地理研究,2019,38(3):482-495. [Xu Kai,Fang Yan'gang.Spatial diferentiation and type identification of rural territorial multi-functions in Liaoning Provine[J]. Geographical Research,2019,38(3): 482-495.]
+
+# 干吴区地理
+
+[24] 黎磊,高勇.绵阳市县域乡村发展类型与乡村性评价研究[J].农 村经济与科技,2014,25(8):192-195.[Li Lei,Gao Yong. Study on rural development types and rural evaluation in Mianyang City [J]. Rural Economy and Technology,2014,25(8): 192-195.]   
+[25] 洪惠坤,谢德体,郭莉滨,等.多功能视角下的山区乡村空间功 能分异特征及类型划分[J].生态学报,2017,37(7):2415-2427. [Hong Huikun,Xie Deti, Guo Libin,et al.Differentiationof spatial function in a mountainous rural area from a multi-functional perspective[J]. Acta Ecologica Sinica,2017,37(7): 2415-247.]   
+[26] 刘彦随,周扬,李玉恒.中国乡村地域系统与乡村振兴战略[J]. 地理学报,2019,74(12):2511-2528.[Liu Yansui, Zhou Yang,Li Yuheng.Rural regional system and rural revitalization strategy in China[J]. Acta Geographica Sinica, 2019,74(12): 2511-2528.]   
+[27] 史秋洁,刘涛,曹广忠.面向规划建设的村庄分类指标体系研究 [J].人文地理,2017,32(6):121-128.[Shi Qiujie,Liu Tao,Cao Guangzhong. Clasifying villages for planning and construction guidance: Index development and application in China[J]. Human Geography,2017,32(6): 121-128.]   
+[28] 李裕瑞,卜长利,曹智,等.面向乡村振兴战略的村庄分类方法 与实证研究[J].自然资源学报,2020,35(2):243-256.[Li Yurui, Pu Changli, Cao Zhi,et al.Village classification system for rural vitalization strategy: Method and empirical study[J].Journal of Natural Res0urces,2020,35(2): 243-256.]   
+[29] 谢臻,张凤荣,陈松林,等.中国乡村振兴要素识别与发展类型 诊断：基于99个美丽乡村示范村的信息挖掘分析[J].资源科 学,2019,41(6):1048-1058.[Xie Zhen, Zhang Fengrong, Chen Songlin,et al.Development types of rural revitalization based on the identification of development elements in China[J]. Resources Science,2019,41(6): 1048-1058.]   
+[30] 姚龙,刘玉亭.基于聚类分析的城郊地区乡村发展类型——以 广州市从化区为例[J].热带地理,2015,35(3):427-436.[Yao Long,Liu Yuting.Rural development types in peri-urban areas based on cluster analysis: A case study of Conghua, Guangzhou[J]. Tropical Geography,2015,35(3): 427-436.]   
+[31] 黄晶,薛东前,代兰海.农产品主产区村镇建设资源环境承载力 空间分异及影响因素——以甘肃省临泽县为例[J].资源科学, 2020,42(7): 1262-1274.[Huang Jing,Xue Dongqian,Dai Lanhai. Spatial differentiation and influencing factors of carrying capacity of resources and environment in main agricultural production areas: Taking Linze County of Gansu Province as an example[J]. Resources Science,2020,42(7): 1262-1274.]   
+[32]刘慧.区域差异测度方法与评价[J].地理研究,2006,25(4): 710-718.[Liu Hui. Measurement method and evaluation of regional difference[J].Geographical Research,2006,25(4): 710-718.]   
+[33] Gu X K,Xie B M,Zhang ZF,et al. Rural multifunction in Shanghai suburbs: Evaluation and spatial characteristics based on villages[J]. Habitat International,2019,92: 102041,doi:10.1016/j.habitatint.2019.102041.   
+[34]Yuan Y,Li HB, Zhang X L,et al. Emerging location-based service data on perceiving and measuring multifunctionality of rural space: A study of Suzhou, China[J]. Sustainability,2O19,11(20): 5862, doi: 10.3390/su11205862.   
+[35] 姚娟,马晓冬.后生产主义乡村多元价值空间重构研究——基 于无锡马山镇的实证分析[J].人文地理,2019,34(2):135-142. [Yao Juan,Ma Xiaodong. Study on the reconstruction of multi-value space in post-productivist countryside: A case study of Mashan town in Wuxi[J].Human Geography,2019,34(2): 135-142.]   
+[36] 朱纪广,李小建,王德,等.传统农区不同类型乡村功能演变研 究——以河南省西华县为例[J].经济地理,2019,39(1):149- 156.[Zhu Jiguang,Li Xiaojian, Wang De,et al. Study on the evolution of different types of rural functional development in traditional agricultural areas:A case of Xihua in Henan Province[J]. Economic Geography,2019,39(1): 149-156.]   
+[37] 马历,龙花楼,屠爽爽,等.基于乡村多功能理论的贫困村域演 变特征与振兴路径探讨——以海南省什寒村为例[J].地理科 学进展,2019,38(9): 1435-1446.[Ma Li,Long Hualou,Tu Shuangshuang,et al. Characteristics of change and vitalization path
+
+ways of poor villages based on multifunctional rural development theory:A case study of Zahan Village in Hainan Province[J].Progress in Geography,2019,38(9): 1435-1446.]
+
+# Multi-functional characteristics and type division of county villages: A case ofLinze County in arid oasis agricultural area
+
+HUANG Jing， XUE Dongqian， MA Beibei， SONG Yongyong (School of Geography and Tourism,Shaanxi Normal University,Xi'an 71O119,Shaanxi, China)
+
+Abstract: Village is the most direct unit to reflect the law of rural economic and social activities.The key to promoting rural revitalization is implementing functional classification at the village level. Taking the administrative village as the basicunit,using entropy weight method,their index,and advantage function model, this paper constructs a research idea suitable for identifying and dividing village development function. It considers Linze County,Gansu Province in the arid oasis agricultural region of northwest China as an example for empirical research.The results are as follows.Thearid oasis agricultural area forms a spatial land pattern focusing on agricultural product production and ecological conservation.The vilages form a multi-functional regional complex,such as agricultural planting,animal husbandry and breeding, industrial processng,business tourism,labor export,and life security.Theoverallspatial diference betweenagricultural product production and life security functions is small,whereas the spatial diference between nonagricultural production functions is large. Villages form diffrent advantageous functional types due to differences in resource endowment, planning guidance,policy drive,and social needs.Spatially,they show the distribution law of“peripheral ecological conservation,planting on both sides of the Heihe River,animal husbandry and agriculture,and animal husbandry balance in the middle,labor preference for towns around the urban area，and government residence for agricultural tourism,business tourism,and comprehensive development".Thus,forming a distribution pattrn that focuses on agricultural production functions, inlays nonagricultural production functions,and surrounds the production and living functions with ecological conservation.Through the combination of top-down main function planning and botom-up economic and social needs,the method of village development function identification and type division has strong applicability and practical guiding value.By consolidating the national main function orientation and ensuring the national food and ecological security,we can adjust and optimize the allocation of county resource elements to realize the complementary and coordinated functions of village development.
+
+Key words: rural revitalization； functional type division;regional diference;village;arid oasis;Linze County

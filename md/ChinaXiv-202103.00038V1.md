@@ -1,0 +1,168 @@
+# 新疆冬小麦不同产量群体冠层光截获与干物质分布特性分析
+
+王立红12， 张宏芝12，李剑峰，王重2，高新12，时佳²，张跃强1²，樊哲儒1²，赵奇1.2
+
+(1.新疆农业科学院核技术生物技术研究所,新疆乌鲁木齐830091；2.农业农村部荒漠绿洲作物生理生态与耕作重点实验室,新疆 乌鲁木齐830091)
+
+摘要：研究不同产量水平冬小麦群体冠层不同层次光合有效辐射(Photosynthetically Active Radiation,PAR)截获、干物质分布及产量的影响，为缩小新疆冬小麦产量差距、提高光能资源利用和高产栽培提供理论依据。试验于2018—2019年在军户和奇台两个不同试验区进行,以当地主栽品种为试验材料，采用综合管理模式模拟了超高产(SH: ${ \geqslant } 9 0 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ,$ ）、高产 $\left( \mathrm { H H } { : } 7 5 0 0 { \sim } 9 0 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } \right)$ 、农户 $( \mathrm { F P } { : 6 0 0 0 { \sim } } 7 5 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 、基础 $\mathrm { ( C K } : \leqslant 4 5 0 0 \log \cdot \mathrm { h m } ^ { - 2 } \mathrm { ) }  { \angle }$ 4个产量水平。研究4个产量水平下新疆冬小麦开花期上、中、下冠层的光截获特性及干物质积累与分配特性,分析其与产量构成的相关性,探究增产途径。结果表明：产量水平高的群体在灌浆期仍能保持较高的叶面积指数(Leaf Ar-ea Index,LAI);随着产量水平的提高,冠层上、中、下层的PAR截获率和PAR截获量均提高,且总体表现为上层 $>$ 中层 $\cdot > ^ { \cdot }$ 下层,呈现"上强下弱"的垂直分布特征,PAR透射率变化趋势与之相反;中层干物质积累量要低于上、下层干物质积累量，且上层干物质随着产量水平的升高增幅要大于中层和下层,干物质上、中、下层均与PAR截获率呈极显著相关,与籽粒产量的相关系数分别为0.97、0.90、0.78。可见花后维持较高LAI,提高光合有效辐射截获量(IPAR)，增加开花后干物质积累，是实现小麦增产，缩小产量差的途径。
+
+关键词：冬小麦；光合有效辐射；光截获；干物质；产量；新疆
+
+新疆小麦产量占据新疆粮食总产量的 $4 1 \%$ 以上，是新疆全区粮食安全发展的关键。小麦生产中产量差距较大，目前新疆冬小麦最高产量为$1 2 4 9 2 . 4 5 \ \mathrm { k g \cdot h m ^ { - 2 } } ( 2 0 1 9$ 年），是全区平均产量6000$\mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 的2.08倍。不同管理模式会形成不同的产量水平，不同产量水平就会形成不同的群体，那么不同群体之间光能的分布是怎样的呢？对此许多学者通过不同品种[2-3]、不同播种方式[4]、不同施肥方式[5-8]、不同灌溉方式[9-10]等措施构建了多层次产量，已有研究表明氮、磷、钾的合理施用可以有效提高小麦开花后植株中上层和总冠层光合有效辐射截获量(IPAR）、光合有效辐射截获率(CaR)及消光系数，降低冠层各层次光合有效辐射透射率(PeR)等[5-7]。高产栽培模式小麦全生育期的IPAR、干物质积累量和籽粒产量显著高于农民习惯栽培模式[1]李志勇等[12]认为优化水肥处理小麦的群体消光系数、各层透光率与传统水肥处理差异很小，秸秆还田优化水肥处理可改善冠层结构和光分布状况，增加单位面积籽粒产量。更多的学者是通过单一的栽培管理措施形成的不同群体，且对产量差距的跨度研究涉及有限，因此本文设置两地试验，根据当地栽培条件(适宜的播量、播期、灌水频次)，采用当地主栽品种，配以不同梯度的“有机肥 $^ +$ 无机肥”，构建更多还原超高产 $( \geqslant 9 0 0 0 \mathrm { \ k g \cdot h m } ^ { - 2 } )$ 、高产 $( 7 5 0 0 \sim$ $9 0 0 0 \mathrm { k g \bullet h m } ^ { - 2 } .$ ）、农户 $( 6 0 0 0 { \sim } 7 5 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } )$ 和基础( $\leq$ $4 5 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } ) .$ 4个产量水平群体，旨在解析新疆不同产量水平冬小麦群体冠层内光截获、各层次干物质积累特性，分析不同产量水平形成的差异与机制，为优化和改进栽培技术措施，缩小产量差距，提升小麦产量提供理论与实践依据
+
+# 1材料与方法
+
+# 1.1试验设计
+
+试验于2018—2019年在新疆昌吉地区军户农场新疆小麦育种家基地和奇台县西地镇进行，试验地位于新疆天山北麓，准噶尔盆地东南缘，属中温带区，为典型的大陆性干旱气候。
+
+军户农场试验点地处 $8 7 ^ { \circ } \mathrm { E } , 4 4 ^ { \circ } 1 0 ^ { \prime } \mathrm { N }$ ,海拔高度$7 5 6 \mathrm { ~ m ~ }$ ，年日照时数为 $2 7 0 0 \mathrm { ~ h ~ }$ ，年 $\geqslant 1 0 \ { ^ { \circ } \mathrm { C } }$ 积温为$3 4 5 0 ~ \mathrm { { ^ circ C } }$ ,年平均气温 $6 . 8 ~ \mathrm { { ^ { 6 } C } }$ ,年平均降水量为190$\mathbf { m } \mathbf { m }$ ,无霜期为 $1 5 0 \mathrm { d }$ 左右。试验地土壤类型为壤土(表1)。以冬小麦品种“新冬41号"为试验材料，通过水肥管理设置超高产、高产、农户、不施肥共4种管理模式，分别模拟超高产(SH)、高产(HH）农户(FP）、基础(CK)共4个产量水平，试验施肥方案详见表2。每个处理 $1 1 ~ \mathrm { m } { \times } 2 5 ~ \mathrm { m } { = } 2 7 5 ~ \mathrm { m } ^ { 2 }$ ，每个处理3次重复。采用1管6行的滴灌带配置，行距 $0 . 1 6 \mathrm { ~ m ~ }$ ，播种密度为 $4 5 0 \times 1 0 ^ { 4 }$ 株· $\mathrm { h m } ^ { - 2 }$ ,灌水采用滴灌，水量用水表和球阀控制，田间滴水共9次，滴水量4500方·$\mathrm { h m } ^ { - 2 }$ ,追肥随水滴施。
+
+奇台西地镇试验点地处 $8 9 ^ { \circ } \mathrm { E }$ $4 3 ^ { \circ } 4 0 ^ { \prime } \mathrm { N }$ ,海拔高度 $7 5 5 \mathrm { ~ m ~ }$ ，年平均气温 $4 . 8 \mathrm { ~ \textdegree C }$ ，年 $\geqslant 1 0 \ { ^ { \circ } \mathrm { C } }$ 积温为$3 1 2 3 ~ \mathrm { { ^ { \circ } C } }$ ,平均无霜期 $1 6 0 \mathrm { ~ d ~ }$ ,平均年降水量 $1 7 6 ~ \mathrm { m m }$ 。试验地土壤类型为壤土(表1)。以冬小麦品种"新冬36号”为试验材料，水肥管理同军户试验设置。试验施肥方案详见表2。每个处理 $1 1 ~ \mathrm { m } { \times } 2 5 ~ \mathrm { m } { = } 2 7 5$ $\mathbf { m } ^ { 2 }$ ，每个处理3次重复。采用1管4行的滴灌带配置，行距 $0 . 1 6 \mathrm { ~ m ~ }$ ,播种密度为 $4 0 0 \times 1 0 ^ { 4 }$ 株· $\mathrm { h m } ^ { - 2 }$ ，灌水采用滴灌，水量用水表和球阀控制，田间滴水共7次，滴水量4500方· $\mathrm { h m } ^ { - 2 }$ 。追肥随水滴施。
+
+# 1.2测定指标
+
+1.2.1 叶面积指数在孕穗期、开花期、灌浆期每个处理连续选取10株有代表性的植株，测量每株绿
+
+# 表1播前土壤基础肥力
+
+Tab.1 Soil basic fertility before sowing   
+
+<html><body><table><tr><td>试验区</td><td>处理</td><td>有机质/（g·kg-1)</td><td>全氮/(g·kg-1)</td><td>全磷/(g·kg-1)</td><td>全钾/(g·kg-1)</td><td>碱解氮/(mg·kg-1)</td><td>速效磷/(mg·kg-1)</td><td>速效钾/(mg·kg-1)</td></tr><tr><td rowspan="4">军户</td><td>SH</td><td>14.044</td><td>0.839</td><td>0.924</td><td>21.648</td><td>50.858</td><td>16.371</td><td>153</td></tr><tr><td>HH</td><td>12.273</td><td>0.827</td><td>0.926</td><td>21.725</td><td>44.018</td><td>14.819</td><td>132</td></tr><tr><td>FP</td><td>11.352</td><td>0.807</td><td>1.004</td><td>22.078</td><td>43.311</td><td>14.262</td><td>136</td></tr><tr><td>CK</td><td>10.499</td><td>0.738</td><td>0.906</td><td>22.672</td><td>35.250</td><td>7.208</td><td>125</td></tr><tr><td rowspan="4">奇台</td><td>SH</td><td>33.100</td><td>1.747</td><td>1.448</td><td>18.787</td><td>81.367</td><td>8.183</td><td>365</td></tr><tr><td>HH</td><td>30.198</td><td>1.729</td><td>1.451</td><td>19.566</td><td>89.778</td><td>24.130</td><td>327</td></tr><tr><td>FP</td><td>29.962</td><td>1.673</td><td>1.481</td><td>20.371</td><td>145.735</td><td>15.147</td><td>331</td></tr><tr><td>CK</td><td>17.094</td><td>1.637</td><td>1.414</td><td>18.871</td><td>82.074</td><td>6.939</td><td>282</td></tr></table></body></html>
+
+注;SH表示超高产;HH表示高产;FP表示农户;CK表示基础。由于每个处理前一年进行了预试验,所以每个处理的土壤背景值不同。下同。
+
+表2试验区田间施肥情况  
+Tab.2 Fertilization application in the field experiments   
+
+<html><body><table><tr><td rowspan="2">试验 区</td><td rowspan="2">处理</td><td>基肥</td><td>返青期 (春3叶)</td><td>起身期 (春4叶)</td><td>拔节期 (第一节 1.5~2 cm)</td><td>拔节期 (拔节后 10~12 d)</td><td>孕穗期 (旗叶展开)</td><td>开花期 （中部小穗 开花）</td><td>灌浆期 (开花后 10~12 d)</td><td>灌浆期 （间隔8~</td><td>灌浆期 （间隔8~</td></tr><tr><td>有机肥+二胺 /(kg·hm-2)</td><td></td><td>尿素+硫酸钾/(kg·hm2)</td><td></td><td></td><td></td><td>尿素+磷酸二氢钾/(kg·hm-2)</td><td></td><td>10d)</td><td>10d)</td></tr><tr><td>军户</td><td>SH</td><td>7500+375</td><td>90+0</td><td>90+0</td><td>150+30</td><td>90+30</td><td>90+0</td><td>90+0</td><td>75+30</td><td>0+15</td><td>0+15</td></tr><tr><td></td><td>HH</td><td>3000+300</td><td>75+0</td><td>75+0</td><td>90+30</td><td>75+15</td><td>75+0</td><td>75+0</td><td>60+30</td><td>0+15</td><td>一</td></tr><tr><td></td><td>FP</td><td>1500+225</td><td>45+0</td><td>45+0</td><td>75+30</td><td>45+0</td><td>45+0</td><td>45+0</td><td>45+30</td><td>0+15</td><td>一</td></tr><tr><td></td><td>CK</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>一</td><td>1</td><td>一</td></tr><tr><td>奇台</td><td>SH</td><td>7500+375</td><td>1</td><td>90+0</td><td>150+30</td><td>90+30</td><td>90+0</td><td>75+0</td><td>45+30</td><td>0+15</td><td>一</td></tr><tr><td></td><td>HH</td><td>3000+300</td><td>一</td><td>75+0</td><td>90+30</td><td>75+15</td><td>75+0</td><td>60+0</td><td>45+30</td><td>0+15</td><td>一</td></tr><tr><td></td><td>FP</td><td>1500+225</td><td>一</td><td>45+0</td><td>75+30</td><td>45+0</td><td>45+0</td><td>45+0</td><td>45+30</td><td>0+15</td><td>一</td></tr><tr><td></td><td>CK</td><td>1</td><td>二</td><td>1</td><td>二</td><td>1</td><td>二</td><td>1</td><td>1</td><td>二</td><td>二</td></tr></table></body></html>
+
+色叶片的长和宽,并计算叶面积（长 $\times$ 宽 $\times 0 . 8 3$ )[13]和叶面积指数(LAI)（单茎叶面积 $\times 1 ~ \mathrm { h m } ^ { 2 }$ 总茎数/$1 0 ^ { 4 }$ ）。
+
+1.2.2冠层光截获特性根据张振等[4]的小麦冠层分层法，于小麦开花后第0d和第10d晴朗无云天气，在12:00—13:00用作物冠层分析仪Sunscan(DeltaT，UK)测定PAR。根据以下公式计算不同层次PAR截获率(CaR）、透射率(PeR)和截获量(IPAR)[14]
+
+$$
+\mathrm { C a R } = ( \mathrm { P A R } _ { n } - \mathrm { P A R } _ { n - 1 } ) / \mathrm { P A R } _ { T } \times 1 0 0 \%
+$$
+
+$$
+\mathrm { P e R } = \mathrm { P A R } _ { n - 1 } / \mathrm { P A R } _ { n }
+$$
+
+$$
+\mathrm { I P A R } { = } R \times \mathrm { C a R } \times 0 . 5
+$$
+
+式中： $\mathrm { P A R } _ { T }$ 表示自然光照下的光合有效辐射； $n$ 分别表示 $h$ （小麦植株贴近地面至穗部的高度） $\cdot 2 / 3 h . 1 /$ $3 h$ 处； $n { - } 1$ 表示 $2 / 3 h \ 、 1 / 3 h \ 、 0 h$ 处。计算冠层总 $\mathrm { C a R }$ 、总PeR时， $n$ 与 $n { - } 1$ 表示 $h , 0 h$ 处。 $R$ 表示实际光合有效辐射总量，数据来源于试验基地气象观测站。
+
+1.2.3不同层次干物质分布于开花期取样，每个处理取20个单茎，3次重复。将植株分为上、中、下层3部分干物质，各层次划分与1.2.2节小麦冠层分层法一致。将样品 $8 0 ~ \mathrm { { ^ { \circ } C } }$ 烘干至恒重，植株干物质积累量为各层干物质之和。
+
+1.2.4产量及其构成测定在小麦成熟期，从每个重复随机选择5个 $\mathrm { ~ 1 ~ m } ^ { 2 }$ 样方，调查产量结构、计产量。定点样考种，调查株高、节间长度、穗部性状、千粒重、生物量、经济产量。
+
+# 1.3数据处理
+
+采用Excel2010软件处理数据和绘图，采用DPS7.05软件进行数据统计分析，以LSD法检验差异显著性( $( P { < } 0 . 0 5 )$ ）
+
+# 2结果与分析
+
+# 2.1新疆冬小麦产量及产量构成因素
+
+据表3可知，两个试验区的试验均符合试验设计的要求，均表现为不同处理间收获穗数、穗粒数随着产量水平的升高而提高，千粒重均为 ${ \mathrm { H H } } { \mathrm { > S H > } }$ $\mathrm { F P > C K }$ 。军户4个处理间，收获穗数仅SH与CK处理差异显著；穗粒数差异显著，SH处理的穗粒数分别是HH、FP和CK处理的1.09、1.26和2.21倍;千粒重SH、HH处理间差异不显著，但均与FP和CK差异显著。奇台SH处理收获穗数均与HH、FP、CK处理差异显著;SH处理的穗粒数分别是HH、FP和CK的1.09、1.13倍和2.32倍；千粒重以HH最高，均与FP和CK处理差异显著。两个试验区的籽粒产量4个处理间差异均显著。由此可知在保持一定收获穗数的基础上，目标籽粒产量为 $7 5 0 0 { \sim } 9 0 0 0 \ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 时，应主攻冬小麦穗粒数与千粒重的协调增加；目标籽粒产量 $\gtrsim 9 0 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 时，主攻穗粒数增加
+
+# 2.2不同产量水平群体LAI比较
+
+各时期LAI均随着产量水平的提高而提高（图1)。军户孕穗期SH处理的LAI分别比HH、FP和CK提高 $3 7 . 7 6 \% . 5 4 . 7 6 \%$ 和 $1 9 0 . 6 5 \%$ ;开花期SH处理的LAI分别比HH、FP和CK提高 $2 0 . 8 1 \% , 3 7 . 9 8 \%$ 和$1 6 1 . 6 6 \%$ ，4个处理间差异均显著;灌浆期SH处理的LAI分别比HH、FP和CK提高 $1 1 . 1 1 \% , 3 1 . 7 8 \%$ 和$2 5 7 . 8 9 \%$ ,SH与HH处理间差异不显著，均与FP、CK差异显著。奇台与军户在孕穗期、开花期和灌浆期小麦的LAI趋势表现一致。由此可知，孕穗期后，随着生育时期的推进，LAI呈下降趋势，产量水平高的群体在灌浆期仍能保持较高的LAI。
+
+表3不同产量水平下新疆冬小麦产量及产量构成因素  
+Tab.3 Yield and yield components of Xinjiang winter wheat under different yield levels   
+
+<html><body><table><tr><td>试验区</td><td>处理</td><td>收获穗数/(10*穗·hm-2)</td><td>穗粒数</td><td>千粒重/g</td><td>籽粒产量/(kg·hm2)</td></tr><tr><td rowspan="4">军户</td><td>SH</td><td>535.67 ±43.88a</td><td>42.18±1.79a</td><td>52.39±0.69a</td><td>9342.80±823.22a</td></tr><tr><td>HH</td><td>502.00±33.15ab</td><td>38.55±1.75b</td><td>52.44±0.39a</td><td>8137.20±453.53b</td></tr><tr><td>FP</td><td>494.33±25.11ab</td><td>33.45±3.19c</td><td>48.09±3.03b</td><td>6860.20±515.24c</td></tr><tr><td>CK</td><td>474.00±14.48b</td><td>19.07±3.38d</td><td>44.48±1.28c</td><td>2719.40±563.69d</td></tr><tr><td rowspan="4">奇台</td><td>SH</td><td>522.75±45.81a</td><td>40.80±3.74a</td><td>47.58±0.30b</td><td>9003.81±788.97a</td></tr><tr><td>HH</td><td>468.25±16.86b</td><td>37.40±3.81b</td><td>48.82±0.59a</td><td>7869.54±283.35b</td></tr><tr><td>FP</td><td>422.75±14.57b</td><td>36.20±3.05b</td><td>46.35±1.09c</td><td>6029.65±207.79c</td></tr><tr><td>CK</td><td>335.50±36.24c</td><td>17.60±1.78c</td><td>45.77±0.43c</td><td>2558.47±276.40d</td></tr></table></body></html>
+
+注：同指标不同小写字母表示处理间达 $5 \%$ 显著水平差异。下同。
+
+注:BS表示孕穗期;AS表示开花期;FS表示灌浆期;SH表示超高产;HH表示高产;FP表示农户;CK表示基础。不同的小写字母表示在0.05水平上存在显着差异。
+
+![](images/6b7997e776cb62ac83b68cd89d58e56dd8c48f827f790988808d0e8c6ed569fa.jpg)  
+图1不同产量水平的LAI对比  
+Fig.1Comparison ofLAI of different yield levels
+
+# 2.3不同产量水平群体冠层光截获特性的比较
+
+2.3.1PAR截获率开花期小麦冠层上层PAR截获率(CaR)为SH最高(表4)，军户SH较HH、FP和CK处理分别高 $6 9 . 6 1 \% . 9 9 . 3 3 \%$ 和 $2 2 5 . 6 4 \%$ ,奇台SH较$\mathrm { H H }$ 、FP和CK处理分别高 $5 6 . 4 0 \%$ 、 $1 0 0 . 0 6 \%$ 和$1 3 2 . 4 8 \%$ ；中层两试验区的 $\mathrm { S H } , \mathrm { H H } , \mathrm { F P } 3 $ 处理间均无差异，军户FP最高，奇台HH最高，两试验区CK处理均显著较低；下层均无显著性差异；总冠层CaR两试验区均表现为 $\mathrm { S H { > } H H { > } F P { > } C K }$ ,军户 $\mathrm { \ S H \thinspace H H }$ 、FP3个处理间无显著性差异，奇台SH和HH均与FP间差异显著，比其高 $5 9 . 4 3 \%$ 和 $3 6 . 3 1 \%$ 。由此可知群体冠层CaR表现为上层 $>$ 中层 $>$ 下层，上层变幅显著，中层和下层变幅不显著。军户和奇台SH上层CaR占总冠层的比率为 $6 6 . 2 5 \% . 7 8 . 2 2 \%$ ，中、下层各占 $2 8 . 2 2 \%$ / $5 . 5 2 \%$ 和 $1 4 . 0 3 \%$ ） $7 . 7 6 \%$ ，上层占比高于HH、FP处理，所以SH群体总冠层CaR较高的主要原因是上层CaR较高。
+
+2.3.2PAR透射率PAR透射率(PeR)与CaR的变化趋势相反(表4)，开花期小麦冠层上层PeR为SH最低，均与HH、FP差异显著，军户SH较HH、FP和CK处理分别降低 $4 4 . 9 1 \%$ ） $4 9 . 6 1 \%$ 和 $5 7 . 1 5 \%$ ,奇台SH较HH、FP和CK处理分别降低 $4 4 . 2 0 \%$ ） $5 2 . 3 5 \%$ 和 $5 5 . 5 9 \%$ ；中层PeR为SH最低，CK最高，军户SH与HH、FP差异显著，分别降低 $5 6 . 5 0 \% . 5 5 . 8 3 \%$ ,奇台SH处理与HH和FP处理间差异不显著，与CK差异显著；下层处理间均无显著差异。总冠层PeR为SH最低，随着产量水平的提高，总冠层PeR呈降低趋势。2.3.3PAR截获量由表4可知，开花期冠层上层和总冠层的PAR截获量(IPAR)4个处理随着产量水平的增高而增高。开花期小麦冠层上IPAR为SH最高，军户SH较HH、FP和CK处理分别高 $6 8 . 5 3 \%$ 、$9 8 . 3 5 \%$ 和 $2 0 7 . 0 1 \%$ ,奇台SH较HH、FP和CK处理分别高 $5 6 . 1 1 \%$ ） $9 9 . 2 9 \%$ 和 $2 9 3 . 0 1 \%$ ；军户SH、HH、FP和CK处理的中层和下层IPAR分别合计为：2.45、$4 . 2 2 \ 、 4 . 1 0 \mathrm { M J ^ { - } m ^ { - 2 } }$ 和 $2 . 7 2 ~ \mathrm { M J } \cdot \mathrm { m } ^ { - 2 }$ ,奇台 $\mathrm { S H , H H , F P }$ 和CK处理的中层和下层IPAR分别合计为：1.57、2.56、$1 . 7 0 ~ \mathrm { M J ^ { - 2 } }$ 和 $1 . 1 2 ~ \mathrm { M J } \cdot \mathrm { m } ^ { - 2 }$ 。群体冠层IPAR表现为上层 $\cdot >$ 中层 $>$ 下层，SH群体冠层上层IPAR显著高于其他处理，是总冠层IPAR较高的主要原因；随着产量的提高，群体冠层上层和中层PAR截获率和截获量，总IPAR增加，减少了漏光损失，进而提高产量。
+
+# 2.4不同产量水平群体冠层各层次干物质积累与分配
+
+开花期小麦冠层上层干物质积累量为SH最高，处理间显著差异(表5)。军户SH比HH、FP和CK分别增加 $2 4 . 4 2 \% . 6 2 . 7 7 \%$ 和 $1 6 4 . 2 2 \%$ ,奇台SH比
+
+Tab.4Analysis ofcanopylight interceptioncharacteristics of populations withdiferent yield levels atflowering stage   
+表5不同产量水平群体冠层各层次干物质差异  
+
+<html><body><table><tr><td>指标</td><td>试验区</td><td>处理</td><td>上层</td><td>中层</td><td>下层</td><td>总冠层</td></tr><tr><td>CaR/%</td><td>军户</td><td>SH</td><td>62.23±6.37a</td><td>26.51±6.09ab</td><td>5.18±0.97a</td><td>93.93±0.87a</td></tr><tr><td rowspan="10"></td><td></td><td>HH</td><td>36.69±12.60b</td><td>34.34±8.49a</td><td>19.78±5.72a</td><td>90.82±2.11a</td></tr><tr><td></td><td>FP</td><td>31.22±17.19b</td><td>36.71±13.95a</td><td>17.13±15.79a</td><td>85.05±10.47a</td></tr><tr><td></td><td>CK</td><td>19.11±14.47b</td><td>16.36±4.82b</td><td>16.45±15.02a</td><td>51.92±11.56b</td></tr><tr><td>奇台</td><td>SH</td><td>68.72±4.11a</td><td>12.33±5.3 a</td><td>6.82±5.21a</td><td>87.86±4.27a</td></tr><tr><td></td><td>HH</td><td>43.94±0.34b</td><td>15.81±2.05a</td><td>15.37±3.72a</td><td>75.12±2.02a</td></tr><tr><td></td><td>FP</td><td>34.35±5.39bc</td><td>14.90±0.57a</td><td>5.86±3.58a</td><td>55.11±1.23b</td></tr><tr><td></td><td>CK</td><td>29.56±6.54c</td><td>1.59±0.63b</td><td>12.07±8.30a</td><td>43.22±9.39b</td></tr><tr><td>军户</td><td>SH</td><td>34.66±7.37b</td><td>19.96±0.80c</td><td>6.29±9.25a</td><td>1.48±0.44c</td></tr><tr><td>HH</td><td></td><td>63.31±12.60a</td><td>45.89±7.96b</td><td>15.46±20.38a</td><td>9.18±2.11bc</td></tr><tr><td></td><td></td><td>68.78±17.19a</td><td>45.19±18.94b</td><td>19.40±18.27a</td><td>14.95±10.47b</td></tr><tr><td rowspan="9">IPAR/(MJ·m-2)</td><td rowspan="4">奇台</td><td>CK</td><td>80.89±14.47a</td><td>79.55±5.29a</td><td>22.87±37.80a</td><td>48.08±11.56a</td></tr><tr><td>SH</td><td>31.28±4.1lc</td><td>59.11±22.55b</td><td>66.76±10.87a</td><td>12.14±4.27b</td></tr><tr><td>HH</td><td>56.06±0.34b</td><td>71.81±3.48ab</td><td>61.98±7.64a</td><td>24.88±2.02b</td></tr><tr><td>FP</td><td>65.65±5.39ab</td><td>77.27±0.99ab</td><td>79.43±19.15a</td><td>44.89±1.23a</td></tr><tr><td rowspan="4">军户</td><td>CK</td><td>70.44±6.54a</td><td>97.77±0.69a</td><td>83.36±20.79a</td><td>56.78±9.39a</td></tr><tr><td>SH</td><td>4.82±0.49a</td><td>2.05±0.47ab</td><td>0.40±0.07a</td><td>7.28±0.07a</td></tr><tr><td>HH</td><td>2.86±0.98b</td><td>2.68±0.67a</td><td>1.54±0.44a</td><td>7.07±0.20a</td></tr><tr><td>FP</td><td>2.43±1.49b</td><td>2.87±1.22a</td><td>1.23±1.02a</td><td>6.54±1.08a</td></tr><tr><td rowspan="5">奇台</td><td></td><td>1.57±1.18b</td><td>1.35±0.39b</td><td>1.37±1.25a</td><td>4.30±0.95b</td></tr><tr><td>SH</td><td>5.62±0.33a</td><td>1.01±0.44a</td><td>0.56±0.43a</td><td>7.19±0.34a</td></tr><tr><td>HH</td><td>3.60±0.03b</td><td>1.30±0.17a</td><td>1.26±0.31a</td><td>6.15±0.17a</td></tr><tr><td>FP</td><td>2.82±0.45bc</td><td>1.22±0.05a</td><td>0.48±0.29a</td><td>4.53±0.11b</td></tr><tr><td>CK</td><td>1.43±0.54c</td><td>1.13±0.05a</td><td>0.99±1.26a</td><td>3.55±0.77b</td></tr></table></body></html>
+
+表4开花期不同产量群体的冠层光截获特性分析  
+Tab.5Dry matter accumulation and distribution in different canopy layers of different yield levels   
+
+<html><body><table><tr><td>试验区</td><td>处理</td><td>上层干物质/(g·m-2)</td><td>中层干物质/(g·m-2)</td><td>下层干物质/(g·m-2)</td><td>干物质总和/(g·m2)</td></tr><tr><td rowspan="4">军户</td><td>SH</td><td>622.58±53.75a</td><td>501.95±27.88a</td><td>651.42±25.16a</td><td>1775.95±106.95a</td></tr><tr><td>HH</td><td>500.39±14.43b</td><td>452.46±27.70a</td><td>594.97±24.15a</td><td>1547.82±80.31b</td></tr><tr><td>FP</td><td>382.48± 9.00c</td><td>379.23±27.38b</td><td>590.91±24.45a</td><td>1352.61±60.83b</td></tr><tr><td>CK</td><td>235.63±23.59d</td><td>234.56±2.94c</td><td>363.53±16.42b</td><td>833.72±42.95c</td></tr><tr><td rowspan="4">奇台</td><td>SH</td><td>561.28± 9.89a</td><td>391.70± 5.39a</td><td>489.08± 2.41a</td><td>1442.06±17.69a</td></tr><tr><td>HH</td><td>459.58± 5.46b</td><td>333.71± 1.40b</td><td>401.24± 2.32b</td><td>1194.54±9.18b</td></tr><tr><td>FP</td><td>318.75± 3.75c</td><td>256.16± 6.51c</td><td>303.12± 3.80c</td><td>878.04±14.06c</td></tr><tr><td>CK</td><td>178.84±14.55d</td><td>125.89± 3.00d</td><td>168.71± 0.16d</td><td>473.43±11.72d</td></tr></table></body></html>
+
+HH、FP和CK分别增加 $2 2 . 1 3 \% . 7 9 . 8 5 \%$ 和 $2 1 3 . 8 4 \%$ 中层干物质积累量为SH最高，军户SH比HH、FP和CK分别增加 $1 0 . 9 4 \% . 3 2 . 3 6 \%$ 和 $1 1 4 . 0 0 \%$ ,SH、HH均与FP和CK处理差异显著，奇台SH比 ${ \mathrm { H H } } , { \mathrm { F P } }$ 和CK处理分别增加 $1 7 . 3 8 \%$ ） $5 2 . 9 1 \%$ 和 $2 1 1 . 1 4 \%$ ，处理间差异均显著；下层干物质积累量为SH最高，军户SH比HH、FP和CK分别增加 $9 . 4 9 \%$ ） $1 0 . 2 4 \%$ 和 $7 9 . 1 9 \%$ ，
+
+SH、HH和FP3个处理间无显著差异，均与CK显著差异，奇台SH比HH、FP和CK处理分别增加$2 1 . 8 9 \% . 6 1 . 3 5 \%$ 和 $1 8 9 . 8 9 \%$ ,差异显著。总干物质积累量为SH最高，军户SH均与其他3个处理显著差异，SH比 $\mathrm { H H }$ 、FP和CK分别增加 $1 4 . 7 4 \% . 3 1 . 3 0 \%$ 和$1 1 3 . 0 2 \%$ ,奇台4个处理间差异显著，SH比 $\mathrm { H H }$ 、FP和CK分别增加 $2 0 . 7 2 \%$ 、 $6 4 . 2 4 \%$ 和 $2 0 4 . 6 0 \%$ 。由此可知随着产量提高，群体冠层各层和总干物质积累量增加，上层积累量显著增加。
+
+# 2.5群体冠层干物质积累与LAI、PAR截获参数及产量的相关性
+
+收获穗数、穗粒数、千粒重、籽粒产量、开花期LAI、总冠层CaR、总冠层IPAR均与各冠层干物质呈显著或极显著正相关，总冠层PeR与各冠层干物质呈极显著负相关。LAI与IPAR呈正相关关系(表6)。
+
+# 3讨论
+
+# 3.1新疆冬小麦不同产量水平冠层光截获特性与各层干物质积累量特性
+
+小麦的产量潜力取决于整个生长季节中积累的光合产物或收获时分配到谷物中的总生物量的一部分[15]。群体冠层的光截获量和透光率是决定作物干物质积累、后期产量的重要因素[16]。郑雪娇等5在氮肥试验中发现各层次营养器官干物质积累量、籽粒干物质积累量和植株总干物质积累量与上层和中层CaR呈显著正相关，与下层CaR无显著相关。张艳敏等[研究认为，低产群体内上、中、下各层的消光系数差异不大；过旺群体中下部光环境差，叶片早衰;高产群体冠层上部消光系数较小，利于光向冠层深处透射；中下部消光系数较大，有利于截获较多的光能。本研究认为群体冠层IPAR、冠层各层干物质和总干物质积累量均表现为超高产模式（SH） $>$ 高产模式 $\left( \mathrm { H H } \right) >$ 农户模式 $\left( \mathrm { F P } \right) >$ 不施肥(CK)处理。SH、HH和FP较CK提高了群体冠层上层和中层PeR和IPAR，减少了漏光损失，从而提高光能利用率，进而提高产量。超高产模式冠层上层IPAR增加明显，群体冠层IPAR表现为上层 $>$ 中层>下层，郭培武等、郑雪娇等5研究认为，小麦植株冠层各层次的冠层IPAR均为中层 $>$ 上层 $>$ 下层。这可能与品种、土壤肥力、试验设置、环境条件等综合因素有关。由此可知，上、中层CaR是影响干物质积累和籽粒产量的重要因素。
+
+表6各指标与群体冠层干物质积累的相关性分析  
+Tab.6 Correlation analysis of each index and canopy dry matter accumulation   
+
+<html><body><table><tr><td>指标</td><td>上层干物质/(g·m-2)</td><td>中层干物质/(g·m2)</td><td>下层干物质/(g·m-2)</td><td>总干物质/(g·m2)</td><td>开花期LAI</td></tr><tr><td>收获穗数/(10"穗·hm-2)</td><td>0.83**</td><td>0.90**</td><td>0.91**</td><td>0.91**</td><td>0.83**</td></tr><tr><td>穗粒数</td><td>0.91**</td><td>0.85**</td><td>0.71*</td><td>0.85**</td><td>0.90**</td></tr><tr><td>千粒重/g</td><td>0.81**</td><td>0.87**</td><td>0.79*</td><td>0.85**</td><td>0.67*</td></tr><tr><td>籽粒产量/(kg·hm2)</td><td>0.97**</td><td>0.90**</td><td>0.78*</td><td>0.91**</td><td>0.96**</td></tr><tr><td>开花期LAI</td><td>0.97**</td><td>0.87**</td><td>0.76*</td><td>0.89**</td><td>1</td></tr><tr><td>CaR总层/%</td><td>0.93**</td><td>0.97**</td><td>0.94**</td><td>0.98**</td><td>0.91**</td></tr><tr><td>PeR总层/%</td><td>-0.94**</td><td>-0.98**</td><td>-0.95**</td><td>-0.99**</td><td>-0.91**</td></tr><tr><td>IPAR 总层/(MJ·m2)</td><td>0.95**</td><td>0.96**</td><td>0.91**</td><td>0.97**</td><td>0.94**</td></tr></table></body></html>
+
+注：\*代表显著相关（ $( P { < } 0 . 0 5 )$ ；\*\*代表极显著相关（ $\scriptstyle { \cdot } P < 0 . 0 1 .$ 。
+
+# 3.2新疆冬小麦不同产量水平冠层光截获特性与产量构成
+
+冠层光截获能力与产量密切相关，本研究发现收获穗数、穗粒数、千粒重、籽粒产量、开花期LAI、总冠层CaR、总冠层IPAR均与各冠层干物质呈显著或极显著正相关，总冠层PeR与各冠层干物质呈极显著负相关。有研究认为一定氮钾配施条件下，适量配施磷肥利于提高小麦群体IPAR值，增加开花后干物质积累和籽粒产量[6]。Salvagiotti等[18]研究认为,施氮量由 $2 6 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 逐渐增加至 $1 0 4 ~ \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 }$ ，小麦植株冠层IPAR呈线性增加趋势，最高为 $9 0 \%$ ○超高产栽培模式小麦全生育期的光能截获量、光能利用效率、干物质积累量和籽粒产量显著高于农民习惯栽培模式，高产栽培模式的小麦全生育期光能截获量较低，但其光能利用效率、干物质积累量及收获指数均显著提高,从而使其籽粒产量显著提高[11]。本研究中产量高的群体冠层上部光截获能力占比较大，IPAR随着产量的增加而增加，中上部截获能力较强，籽粒产量 ${ \geqslant } 7 5 0 0 \ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 时， $\mathrm { P e R }$ 则大于$9 0 \%$ ，尤其是中上部PeR较高，所以要适当的增加高产田的中上部光截获能力，可以有效提高产量。
+
+# 4结论
+
+本文以冬小麦为研究对象，通过栽培管理措施形成4个产量水平：籽粒产量 ${ \tt > } 9 0 0 0 ~ \mathrm { k g \cdot h m } ^ { - 2 }$ 的超高产处理，籽粒产量 $7 5 0 0 { \sim } 9 0 0 0 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 的高产处理，籽粒产量 $6 0 0 0 { \sim } 7 5 0 0 \ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 的农户处理，籽粒产量 ${ \leqslant } 4 5 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 }$ 的基础产量处理。探讨了4个产量水平下冬小麦开花期上、中、下冠层的光截获特性及干物质积累与分配特性，得到如下结论：
+
+（1）随着产量水平的提高，冠层的PAR截获率和PAR截获量均呈现"上强下弱"的垂直分布特征，PAR透射率与之相反。冠层上层和中层的光能截获是农户突破高产和超高产的关键，各层干物质与各冠层光截获特性密切相关。(2）中层干物质积累量要低于上、下层干物质积累量，且上层干物质随着产量水平的升高增幅要大于中层和下层，籽粒产量与各冠层干物质密切关系为上层 $>$ 中层 $>$ 下层。（3）维持群体高LAI，增强冠层中、上部PAR截获率和PAR截获量，增加开花后干物质积累量，可以有效提高小麦产量，
+
+# 参考文献(References):
+
+[1]王立红,张宏芝,王重,等.新疆冬小麦不同产量水平群体特性 分析[J].麦类作物学报,2020,40(5):594-600.[Wang Lihong, Zhang Hongzhi,Wang Zhong,et al.Population characteristics of different yield levels of winter wheat in Xinjiang[J]. Journal of Wheat Crops,2020,40(5): 594-600.]   
+[2]梁鹏,郭德胜,刘德峻,等.拔节期渍水后施用尿素对小麦产量 和光合物质生产的影响[J].麦类作物学报，2020,40(2):202- 209.[Liang Peng,Guo Desheng,Liu Dejun,et al.Effects of urea application after water logging at stem elongation stage on grain yield and photosynthetic production in wheat[J]. Journal of Wheat Crops,2020,40(2): 202-209.]   
+[3]胡延吉,兰进好.山东省冬小麦品种冠层结构及光截获的研究 [J].中国农业气象,2001,22(3):29-33.[Hu Yanji,Lan Jinhao. Canopy architecture and light interception of winter wheat cultivars in Shandong province[J]. Chinese Agricultural Meteorology, 2001,22(3): 29-33.]   
+[4]陈素英,张喜英,毛任钊,等.播期和播量对冬小麦冠层光合有 效辐射和产量的影响[J].中国生态农业学报,2009,17(4):681- 685.[Chen Suying,Zhang Xiying,Mao Renzhao,et al.Effect of sowing date and rata on canopy intercepted photo-synthetically active radiation and yield of winter wheat[J]. Chinese Journal of EcoAgriculture,2009,17(4): 681-685.]   
+[5]郑雪娇,于振文,张永丽,等.施氮量对测熵补灌小麦冠层不同 层次光截获和干物质分布的影响[J].应用生态学报，2018,29 (2):531-537.[Zheng Xuejiao,Yu Zhenwen, Zhang Yongli,et al. Effects of nitrogen application on light interception and dry matter distribution at different layers in wheat canopy under supplemental irrigation based on measuring soil moisture[J]. Journal of Applied Ecology, 2018,29(2): 531-537.]   
+[6]岳俊芹,张德奇,李向东,等.氮钾配施下施磷对冬小麦群体发 育特性、冠层光截获及产量的影响[J].中国农业科学,2016,49 (5): 840-851.[Yue Junqin, Zhang Deqi,Li Xiangdong,et al. Effects of phosphorus on winter wheat population characteristics, canopy intercepted photosynthetically active radiation and yield under certain nitrogen-potassium rates[J]. Chinese Journal of Agricultural Sciences,2016,49(5): 840-851.]   
+[7]郭培武,赵俊晔,石玉,等.水肥一体化条件下施氮量对小麦冠 层光截获特性和产量的影响[J].山东农业科学,2018,50(8): 81-85.[Guo Peiwu, Zhao Junye,Shi Yu,et al. Effects of nitrogen application rate on canopy photosynthetic active radiation interception and yield of wheat under integration of water and fertilizer [J]. Shandong Agriculture Science,2018, 50(8): 81-85.]   
+[8]蒋阿宁,高聚林,管建慧,等.变量施肥对开花后冬小麦冠层光 辐射性能及产量的影响[J].西南农业学报,2015,28(1):255- 259.[Jiang Aning,Gao Julin,Guan Jianhui,et al. Effects of variable nitrogen application on character of light radiation and yield in canopy of winter wheat after anthesis[J].Journal of Southwest Agriculture,2015,28(1): 255-259.]   
+[9]杨传邦,于振文,张永丽,等.测熵补灌深度对济麦22冠层光截 获和荧光特性及籽粒产量的影响[J].作物学报,2017,43(2): 253-262.[Yang Chuanbang,Yu Zhenwen,Zhang Yongli,et al. Effect of soil depth with supplemental irrigation on canopyphotosynthetically active radiation interception and chlorophyll fluorescence parameters in Jimai 22[J].Acta Agronomica Sinica, 2017, 43(2): 253-262.]   
+[10] 刘海红,于志青,毕建杰,等.干旱与灌溉处理对冬小麦冠层内 光分布的影响[J].气象与环境科学,2016,39(3):38-43.[Liu Haihong,Yu Zhiqing,Bi Jianjie,etal.Influence of drought and ir rigation treatment on the distribution of light in winter wheat canopy [J]. Meteorological and Environmental Sciences,2016,39(3): 38-43.]   
+[11] 王月超,李传兴,代兴龙,等.栽培模式对冬小麦光能利用和产 量的影响[J].应用生态学报,2015,26(9):2707-2713.[Wang Yuechao,Li Chuanxing,Dai Xinglong,et al. Efects of cultivation patterns on the radiation use and grain yield of winter wheat[J]. Journal of Applied Ecology,2015,26(9): 2707-2713.]   
+[12]李志勇,王小东.优化水肥与传统水肥对冬小麦叶片生长、群体 光分布及产量的影响[J].河南农业科学,2005(3):55-57.[Li Zhiyong,Wang Xiaodong.Effects of the optimized irrigation-optimized fertilization and traditional irrigation- traditional on leaf growth,population light distribution and grain yield of winter wheat[J]. Henan Agricultural Sciences, 2005(3): 55-57.]   
+[13] 崔月,张宏芝,赵奇,等.水肥运筹对滴灌冬小麦干物质积累和 产量调控效应研究[J].新疆农业科学,2018,55(4):618-626. [Cui Yue,Zhang Hongzhi, Zhao Qi,et al.Effect of irrigation and fertilization on dry matter accumulation and yield control of drip irrigation winter wheat[J]. Xinjiang Agricultural Sciences, 2018, 55 (4): 618-626.]   
+[14] 张振,于振文,张永丽,等.氮肥基追比例对测熵补灌小麦冠层 不同层次光能利用及干物质转运的影响[J].植物营养与肥料 学报,2019,25(1):97-105.[Zhang Zhen,Yu Zhenwen,Zhang Yongli,et al.Effects of basal/topdressing nitrogen ratios on light interception and dry matter transport at different layers of wheat canopy under supplemental irrigation based on soil moisture[J]. Plant Nutrition and Fertilizer Journal of Materials Science,2019, 25(1): 97-105.]   
+[15]Sourav Maity,Puspendu Dutta,Saikat Das.Impact of pre-anthesis photosynthetic traits on yield of wheat cultivars under in vivo condition: Insight based on biochemical models[J].Vegetos:An International Journal of Plant Research,2020,33(12): 106-116.   
+[16]陈雨海,余松烈,于振文.小麦生长后期群体光截获量及其分布 与产量的关系[J].作物学报,2003,29(5):730-734.[Chen Yuhai,Yu Songlie,Yu Zhenwen.Relation between amount or distribution of PAR interception and grain output of wheat communitie [J].Acta Crops Sinica,2003,29(5): 730-734.]   
+[17] 张艳敏,李晋生,钱维朴,等.小麦冠层结构与分光分布研究[J] 华北农学报,1996,11(1):54-58.[Zhang Yanmin,Li Jinsheng, Qian Weipu,et al.Canopy structure and light distribution in winter wheat[J]. North China Agricultural Journal,1996,11(1): 54-58.]   
+[18]Salvagioti F,MirallesI D J.Radiation interception,biomass production and grain yield as affected by the interaction of nitrogen and sulfur fertilization in wheat[J]. European Journal of Agronomy, 2008,28 (3):282-290.
+
+# Analysis of canopy light interception and dry matter distribution characteristics of different winter wheat yield groups in Xinjiang
+
+WANG Lihong12， ZHANG Hongzhi12，LI Jianfeng12， WANG Zhong12，GAO Xin12, SHI Jial², ZHANG Yueqiang1²，FAN Zheruʰ²， ZHAO Qi1²2   
+(1.Institute of Nuclear Technologyand Biotechnology,Xinjiang Academy of Agricultural Sciences,Urumqi830091 Xinjiang,China;2.Key Laboratory of Oasis-Desert CropPhysiology Ecology and Cultivation of Ministry of Agricultural and Rural Affairs, Urumqi 83oo91, Xinjiang, China)
+
+Abstract: The effects of photosynthetically active radiation (PAR) interception,dry matter distribution,and the yield of winter wheat at diferent yield levels were studied to provide a theoretical basis for narrowing the yield gap,improving the utilization oflight energy resources,and high-yieldcultivation of winter wheat in the Xinjiang province.This experiment was conducted in Junhu and Qitai regions from 2018 to 2019.The main varieties planted in the region were used as experimental materials,and the integrated management model was adopted to simulate the four yield levels,namely, super high $( \mathrm { S H } ; \geqslant 9 0 0 0 ~ \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } )$ ,high( $\mathrm { H H } ; 7 5 0 0 { - } 9 0 0 0 \mathrm { k g } { \cdot } \mathrm { h m } ^ { - 2 } ,$ ,peasant household (FP: $6 0 0 0 { - } 7 5 0 0 \mathrm { k g \cdot h m ^ { - 2 } } )$ , and basic yields (C) $\mathrm { K } \mathrm { : \leqslant } 4 5 0 0 \mathrm { k g } \cdot \mathrm { h m } ^ { - 2 } \mathrm { ) }$ . The characteristics of light interception, dry mater accumulation,and distribution in the upper, middle,and lower canopies of winter wheat at the four yield levels were studied,and the correlation between them and yield composition was analyzed to explore ways of increasing yield.The results showed that the population with a high-yield level could stillmaintain a high leafarea index (LAI) during its grouting stage. With production level increased,PAR interception rate and volume in the upper, middle,and lower layers of the canopy allincreased,and the overall performance was greater in the upper than in the middle layer,presenting a vertical distribution characteristic of“strong at the top and weak at the bottom.”The variation trend of PAR transmittance was opposite. Dry mater accumulation in the middle layer was lower than in the upper and lower layers,and dry mater increase in the upper layer was greater than in the middle and lower layers,with an increase in yield level.The dry matter accumulation in the upper,middle,and lower layers was significantly correlated with the PAR interception rate,and the correlation coefficient with grain yield was 0.97,0.90,and 0.78,respectively.Therefore,maintaining high LAI, increasing PAR interception,and increasing dry mater accumulation after flowering are approaches to achieving increased wheat yield and reduced yield difference.
+
+Keywords: winter wheat; photosyntheticall active radiation; light interception; dry mater; yield; Xinjiang

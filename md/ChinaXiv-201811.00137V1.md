@@ -1,0 +1,312 @@
+# 基于比特可分性的PRIDE和RoadRunneR积分区分器搜索
+
+李艳俊，赵京鸣
+
+(北京电子科技学院 信息安全系，北京 100070)
+
+摘要：PRIDE 和RoadRunneR 是近几年提出的两种轻量级分组密码算法，在2016亚密会上，向泽军等提出利用基于比特可分性的MILP(混合整数线性规划)模型搜索积分区分器。利用该思想，针对两种不同类型的轻量级分组密码算法，为了评估该算法积分性质，验证新方法的实用性，根据其不同密码算法结构分别建立MILP模型，利用Gurobi优化器求解此模型，搜索可用的积分区分器。结果分别得到9轮和5轮的积分区分器，是PRIDE和RoadRunneR目前已知最长的积分区分器，利用该区分器可进行更多轮的积分攻击。
+
+关键词：PRIDE；RoadRunneR；比特可分性；MILP模型；积分区分器 中图分类号：TP309.2 doi:10.19734/j.issn.1001-3695.2018.06.0473
+
+# Integral distinguisher search of PRIDE and RoadRunneR based on bit-based division property
+
+Li Yanjun, Zhao Jingming (Dept.ofInformationSecurity,Beijing Electronic Science&Technology Institute,BeijinglOoo70,China)
+
+Abstract: PRIDE and RoadRunneR are two lightweight block ciphers proposed in recent years.At 2016 ASIACRYPT, Xiang Zejun proposedusing MILP(mixed integer linear programming）model based on bit-based division to search integral distinguisher.This paperaplies thisidea totwo lightweightblockcipher thattwodiferent typesof algorithms.Inorderto evaluatetheir integral properties,MILPmodelsarebuiltaccording totheirdifferentstructures,andtheuseful integral distinguisher can besearched byusing Gurobioptimizerto solve this model.Results,9rounds and 5roundsof integral distinguisher areobtained respectively,whichisthe longest integral distinguisherofPRIDEandRoadRunneR.Morerounds of integral attack can be made by using the distinguisher.
+
+Key Words: PRIDE; RoadRunneR; Bit-based Division; MILP model; Integral distinguisher
+
+# 1 相关工作
+
+# 1.1PRIDE 和 RoadRunneR 算法简介
+
+PRIDE算法是Albrecht等人在2014美密会上提出的分组长度为64bit，密钥长度为128bit的SPN结构轻量级分组密码算法，共迭代20 轮。64bit的轮函数输入被分为16个半字节(Nibble)，与轮密钥做异或运算，然后分别并行进入S层，即并置16个相同的S盒（见表1)，最后经过线性层，具体的轮函数如图1所示。
+
+表1PRIDE 算法 S盒  
+Table 1S box of PRIDE algorithm   
+
+<html><body><table><tr><td>X</td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>a</td><td></td><td>b</td><td>C</td><td>d</td><td>e</td><td>f</td></tr><tr><td>S[x]</td><td>0</td><td>4</td><td>8</td><td>f</td><td>1</td><td>5</td><td>e</td><td>9</td><td></td><td>2</td><td>7</td><td>a</td><td>C</td><td>b</td><td>d</td><td>6</td><td>3</td></tr></table></body></html>
+
+PRIDE的线性层L可以被分成3个子层，比特置换层P，矩阵层M，逆比特置换层 $\mathrm { \bf P } ^ { 1 } \boldsymbol { \mathcal M }$ 为一个 $6 4 \times 6 4$ 的矩阵，由四个$1 6 \times 1 6$ 的矩阵 $L _ { 0 } , L _ { 1 } , L _ { 2 } , L _ { 3 }$ 构成；P为64位的比特置换操作。其中， $L _ { 0 } , L _ { 1 } , L _ { 2 } , L _ { 3 }$ 的具体矩阵以及PRIDE 的其他信息详见文献[1]。
+
+![](images/c17f17ce4e4defb45b9dd36098c1e53ed3649c688c1385855378615a57fa4041.jpg)  
+图1PRIDE 算法示意图  
+Fig.1Schematic diagram of PRIDE algorithm
+
+轻量级分组密码算法RoadRunneR在2015年提出。总体采用了Feistel结构，轮函数采用SPN结构。分组长度64比特，密钥长度为80/128bit，分别迭代10/12轮。轮函数F由4轮的SPN函数构成，即3个SLK函数加1个S层，S盒见表0-2。
+
+S、L和K分别代表S层，L层和轮密钥加层。具体的算法结构和轮函数见图2，图中左边为算法整体Feistel结构，右上为SPN型轮函数F，右下为SLK函数。
+
+表2RoadRunneR 算法 S盒  
+Table 2Sbox ofRoadRunneR algorithm   
+
+<html><body><table><tr><td>X 0</td><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td></td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>a</td><td></td><td>b</td><td>C</td><td>d</td><td></td><td></td></tr><tr><td>S[x]</td><td>0</td><td>8</td><td>6</td><td></td><td>d</td><td>5</td><td>f</td><td>7</td><td>C</td><td></td><td>4</td><td>e</td><td>2</td><td>3</td><td></td><td>9</td><td>1</td><td>b</td><td>a</td></tr></table></body></html>
+
+![](images/04a1d4f7f8f0ec4540eac37d8b4a9f869354b7f1b62877ce21277854144eb032.jpg)  
+图2RoadRunner 算法示意图  
+Fig.2Schematic diagram of RoadRunner algorithm
+
+RoadRunneR 线性变换层可表示为$\operatorname { L } ( x ) = ( x ) \oplus ( x < < < 1 ) \oplus ( x < < < 2 )$ ，其中 $\scriptstyle x < < < 1$ 表示字节 $\textbf { x }$ 向左循环移位1比特。 $\mathbf { L } ( x )$ 用 $8 \times 8$ 矩阵可表示为
+
+RoadRunneR算法的其他信息详见文献[2]。
+
+# 1.2基于比特可分性的MILP模型
+
+可分性是Todo在2015欧密会上提出的推广了的积分性质[3]，在FSE2016上Todo 和 Morri又提出了比特可分性[5]，同时利用比特可分性找到了SIMON32的一个14轮积分区分器。在2016亚密会上，向泽军等人提出了基于比特可分性，利用MILP模型搜索积分区分器的方法[。克服了直接用比特可分性搜索区分器时，花费巨大时间和空间开销的问题。他们通过选择合适的目标函数，准确地表示可分性的传播，分析了6种具有比特置换扩散层的分组密码，但搜索扩散层为非比特置换的算法成为一个遗留的问题。孙玲等提出了解决这一问题的方法，通过引入一些中间变量，针对一个 $\mathfrak { n }$ 比特输入的线性层，建立2n 个线性不等式来表示穿过线性层的可分路径[7]。
+
+利用基于比特可分性的MILP模型搜索积分区分器的总体步骤是：首先，给出初始比特可分性，即指定具体的活跃比特和非活跃比特；其次，建立表示穿过轮函数的可分路径的模型，包括穿过替换层以及扩散层。目前，对S盒可分路径的表示方法已经比较完善，而对线性层的可分路径表示方法还在进一步研究中[9]。最后，选择合适的目标函数，即搜索终止条件，对是否存在可用的积分区分器进行搜索。
+
+# 2 预备知识
+
+# 2.1符号
+
+令 $\mathbb { F } _ { 2 }$ 表示二元有限域， $\mathbb { F } _ { 2 } ^ { \mathrm { n } }$ 表示在 $\mathbb { F } _ { 2 }$ 上的 $\mathfrak { n }$ 比特的序列。令 $\mathbb { Z }$ 和 $\mathbb { Z } ^ { n }$ 分别表示整数环和 $\mathbf { \eta } _ { \mathrm { ~ n ~ } }$ 维整数向量集合。对任意的$\mathbf { a } \in \mathbb { F } _ { 2 } ^ { \mathtt { n } }$ ,a[i]表示a的第i个元素， $w ( a )$ 表示汉明重量，其计算公式为 $\mathsf { a } \mathsf { = } ( a _ { 0 } , \cdots , a _ { m - 1 } ) \in \mathbb { F } _ { 2 } ^ { n _ { 0 } } \times \cdots \times \mathbb { F } _ { 2 } ^ { n _ { m - 1 } }$ ，对任意的向量$\mathsf { a } \mathsf { = } ( a _ { 0 } , \cdots , a _ { m - 1 } ) \in \mathbb { F } _ { 2 } ^ { n _ { 0 } } \times \cdots \times \mathbb { F } _ { 2 } ^ { n _ { m - 1 } }$ ，向量 $a$ 的汉明重量定义为$W ( a ) { = } ( w ( a _ { 0 } ) , \cdots , w ( a _ { m - 1 } ) )$ ．再令 $k { = } ( k _ { 0 } , k _ { 1 } { \cdots } , k _ { m - 1 } )$ 和$k ^ { * } { = } ( \boldsymbol { k _ { 0 } } ^ { * } , \boldsymbol { k _ { 1 } } ^ { * } { \cdots } , \boldsymbol { k _ { m - 1 } } ^ { * } )$ 分别为 $\mathbb { Z } ^ { m }$ 上的两个向量。定义 $k \geq k ^ { * }$ 成立当且仅当向量中所有对应分量 $k _ { i } \geq { k _ { i } ^ { * } }$ ,其中 $\mathbf { i } = 0 , 1 , \cdots , m - 1$ ;否则$\pmb { k } \not \geq k ^ { * }$ 。
+
+比特乘积函数 $\pi _ { u } ( x )$ 和 $\pi _ { u } ( x )$ 令 $\pi _ { u } ( x )$ 是一个从 $\mathbb { F } _ { 2 } ^ { \mathfrak { n } }$ 到 $\mathbb { F } _ { 2 }$ 的函数，对于任意的 $\mathbf { u } \in \mathbb { F } _ { 2 } ^ { \mathrm { n } }$ ,使得 $\mathbf { X } \in \mathbb { F } _ { 2 } ^ { \mathrm { n } }$ 是 $\textstyle \pi _ { u }$ 的输入， $\pi _ { u } ( x )$ 定义式如下：
+
+$$
+\pi _ { u } ( x ) : = \sum _ { i = 0 } ^ { n - 1 } { \mathrm { x } [ \dot { \bf { i } } ] } ^ { \mathrm { u } [ \mathrm { i } ] }
+$$
+
+令 $\pi _ { u } ( \boldsymbol { x } )$ 是一个 $\mathbb { F } _ { 2 } ^ { n _ { 0 } } \times \cdots \times \mathbb { F } _ { 2 } ^ { n _ { m - 1 } }$ 到 $\mathbb { F } _ { 2 }$ 的函数，对于所有的$\boldsymbol { U } \in \mathbb { F } _ { 2 } ^ { n _ { 0 } } \times \cdots \times \mathbb { F } _ { 2 } ^ { n _ { m - 1 } }$ 任意的 $U { = } ( u _ { 0 } , \cdots , u _ { m - 1 } )$ （20$\ b { \chi } { = } (  { \mathrm { x } } _ { 0 } , \cdots ,  { \mathrm { x } } _ { m - 1 } ) \in ( \mathbb { F } _ { 2 } ^ { n _ { 0 } } \times \cdots \times \mathbb { F } _ { 2 } ^ { n _ { m - 1 } } )$ ,定义式如下：
+
+$$
+\pi _ { u } ( \boldsymbol { x } ) : = \sum _ { i = 0 } ^ { m - 1 } \pi _ { u _ { i } } ( x _ { i } )
+$$
+
+# 2.2 可分性与可分路径
+
+定义1可分性。令X为多重集合，其元素取值于 $( \mathbb { F } _ { 2 } ^ { \mathrm { n } } ) ^ { \mathrm { m } }$ ，$k$ 是一个 $\mathrm { ~ m ~ }$ 维向量且每个分量取值于0到 $\mathfrak { n }$ ，当 $\mathbb { X }$ 满足可分性鄉 $D _ { k ^ { ( 0 ) } , k ^ { ( 1 ) } , \cdots k ^ { ( q - 1 ) } } ^ { \mathrm { n , m } }$ ，需满足以下条件：对 $\mathbb { X }$ 中的任意一元素 $\textbf { x }$ ，$\pi _ { u } ( \boldsymbol { x } )$ 的奇偶性始终为偶，当$U \in \{ ( u _ { 0 } , \cdots , u _ { m - 1 } ) \in ( \mathbb { F } _ { 2 } ^ { \ n } ) ^ { \mathrm { m } } | W ( u ) \not \in k ^ { ( 0 ) } , \cdots , W ( u ) \not \in k ^ { ( q - 1 ) } \} .$ （204号
+
+定义2可分路径。令 $\mathbf { f } _ { r }$ 表示一个分组密码的轮函数，假设分组密码的初始输入可分性为 $D _ { k } ^ { \mathfrak { n } , \mathfrak { m } }$ ，再令经过 $\mathrm { ~ \bf ~ r ~ }$ 轮传播后的可分性为 $D _ { \mathbb { K } _ { i } } ^ { \mathfrak { n } , \mathfrak { m } }$ ，则可以得到以下的可分性传播链：
+
+$$
+\{ k \} \stackrel { \mathrm { d e f } } { \Longrightarrow } \mathbb { K } _ { 0 } \stackrel { \mathrm { f } _ { \mathrm { r } } } { \to } \mathbb { K } _ { 1 } \stackrel { \mathrm { f } _ { \mathrm { r } } } { \to } \mathbb { K } _ { 2 } \stackrel { \mathrm { f } _ { \mathrm { r } } } { \to } \cdots
+$$
+
+对任意在 $\mathbb { K } _ { i } ( i \geq 1 )$ 中的向量 $k _ { i } ^ { * }$ ，必然存在在 $\mathbb { K } _ { i = 1 }$ 中的向量${ k _ { i - 1 } } ^ { * }$ 与之对应，可以说 ${ k _ { i - 1 } } ^ { * }$ 能通过可分性传播规则传播至 $k _ { i } ^ { * }$ ，把它推广到更多维，记 $( k _ { 0 } , k _ { 1 } , \cdots , k _ { r } ) \in \mathbb { K } _ { 0 } \times \mathbb { K } _ { 1 } \times \cdots \times \mathbb { K } _ { r }$ ，若对于所有的 $\mathbf { i } \in \{ 1 , 2 , \cdots r \} , k _ { i - 1 }$ 能传播至 $k _ { i } ^ { * }$ ,本文称 $( k _ { \mathrm { _ 0 } } , k _ { \mathrm { _ 1 } } , \cdots , k _ { r } )$ 为一个 $\mathrm { ~ \bf ~ r ~ }$ 轮的可分路径.
+
+# 2.3比特可分性传播规则与模型化
+
+Todo 证明了传统可分性的传播规则[3]，并把这些传播规则总结在[4中，分别是代替，拷贝，异或，分裂，合并五种操作的传播规则。在比特可分性中，只用到其中拷贝和异或操作的传播规则。而对于S盒，即代替操作的比特可分性传播规则需要更加细致地研究，[8][10]研究了这一问题。在[中算法2 给出了计算穿过S盒的比特可分性传播的通用算法。
+
+规则1拷贝。令F为一个拷贝函数，其输入 $\textbf { x }$ 取值于$\mathbb { F } _ { 2 }$ ，输出可表示为 $( y _ { 0 } , y _ { 1 } ) = ( x , x )$ ．令X和Y分别为对应的输入和输出集合，假设 $\mathbb { X }$ 满足可分性 $D _ { k } ^ { 1 }$ 则 $\mathbb { Y }$ 满足可分性 $D _ { \mathbb { K } } ^ { 1 \times 1 }$ ：传播过程只有两种可能情况。
+
+$$
+\begin{array} { r } { \{ \begin{array} { l l } { k = 0  \mathbb { K } = \{ ( 0 , 0 ) \} } \\ { k = 1  \mathbb { K } = \{ ( 0 , 1 ) , ( 1 , 0 ) \} } \end{array}  } \end{array}
+$$
+
+规则2异或压缩。令F为一个异或压缩函数，其输入$( \mathbf { { x } } _ { 0 } , { \boldsymbol { x } } _ { 1 } )$ 取值于 $\mathbb { F } _ { 2 } \times \mathbb { F } _ { 2 }$ ，输出可表示为 $\mathbf { y } { = } \mathbf { x } _ { 0 } \oplus x _ { 1 }$ ,令X和Y分别为对应的输入和输出集合，假设 $\mathbb { X }$ 满足可分性 $D _ { k } ^ { 1 \times 1 }$ ,则 $\mathbb { Y }$ 满足可分性 $D _ { \mathbb { K } } ^ { 1 }$ .传播过程只有四种可能情况。
+
+$$
+\left\{ \begin{array} { l l } { k = ( 0 , 0 ) \to \mathbb K = \{ ( 0 ) \} } \\ { k = ( 0 , 1 ) \to \mathbb K = \{ ( 1 ) \} } \\ { k = ( 1 , 0 ) \to \mathbb K = \{ ( 1 ) \} } \\ { k = ( 1 , 1 ) \to \mathbb K = \phi } \end{array} \right.
+$$
+
+规则3与压缩。令F为一个与压缩函数，其输入 $( \mathbf { { x } } _ { 0 } , { \boldsymbol { x } } _ { 1 } )$ 取值于 $\mathbb { F } _ { 2 } \times \mathbb { F } _ { 2 }$ ，输出可表示为 $\mathsf { y } { = } \mathsf { x } _ { 0 } \wedge x _ { 1 }$ ,令X和Y分别为对应的输入和输出集合，假设X满足可分性 $D _ { k } ^ { 1 \times 1 }$ ，则 $\mathbb { Y }$ 满足可分性$D _ { \mathbb { R } } ^ { 1 }$ .传播过程只有四种可能情况。
+
+$$
+\begin{array}{c} \begin{array} { r } { \{ k = ( 0 , 0 )  \mathbb { K } = \{ ( 0 ) \} } \\ { k = ( 0 , 1 )  \mathbb { K } = \{ ( 1 ) \} } \\ { k = ( 1 , 0 )  \mathbb { K } = \{ ( 1 ) \} } \\ { k = ( 1 , 1 )  \mathbb { K } = \{ ( 1 ) \} } \end{array}   \end{array}
+$$
+
+下面简要地说明用线性不等式组对拷贝，与，异或操作的可分性传播的建模过程。
+
+模型1拷贝。记 $( a ) { \stackrel { \mathrm { c o p y } } { \to } } ( b _ { 0 } , b _ { 1 } )$ 是拷贝函数的一条可分路径，则下列不等式组可准确表示拷贝操作的可分性传播。
+
+$$
+\{ \begin{array} { l l } { a - b _ { \scriptscriptstyle 0 } - b _ { \scriptscriptstyle 1 } = 0 } \\ { a , b _ { \scriptscriptstyle 0 } , b _ { \scriptscriptstyle 1 } \not \in \mathop {  } \Longrightarrow \mathrm { i } \not \in \# } \end{array} 
+$$
+
+模型2与。记 $( a _ { 0 } , a _ { 1 } ) { \overset { A n d } { \to } } ( b )$ 是比特与函数的一条可分路径，则下列不等式组可准确表示比特与操作的可分性传播。
+
+$$
+\left\{ \begin{array} { l l } { b - a _ { 0 } \geq 0 } \\ { b - a _ { 1 } \geq 0 } \\ { b - a _ { 0 } - a _ { 1 } \geq 0 } \\ { a _ { 0 } , a _ { 1 } , \mathrm { b } _ { \mathcal { K } } ^ { \mathrm { E } } - \mathrm { i } \mathrm { j } } \end{array} \right.
+$$
+
+模型3异或。记 $( a _ { 0 } , a _ { 1 } ) { \stackrel { X o r } { \to } } ( b )$ 是比特异或函数的一条可分路径，则下列不等式组可准确表示比特异或操作的可分性传播。
+
+$$
+\left\{ { \begin{array} { l } { a _ { 0 } + \mathrm { a } _ { 1 } - b = 0 } \\ { a _ { 0 } , \mathrm { a } _ { 1 } , \mathrm { b } _ { \mathcal { K } } ^ { \perp } = \qquad \mathrm { \Gamma } } \end{array} } \right.
+$$
+
+模型化S盒对于S盒的传播，向泽军等给出计算穿过 S
+
+盒的比特可分性传播过程[]。然后通过Sage软件中的Inequality_generator(函数，该函数返回一组线性不等式，这组线性不等式还可以通过缩减算法来缩减不等式个数[]。
+
+# 2.4 目标函数
+
+若一个集合 $\mathbb { X }$ 满足可分性 $D _ { \mathbb { K } } ^ { 1 , n }$ ， $\mathbb { X }$ 不存在积分性质当且仅当K包含所有的 $\mathfrak { n }$ 个单位向量。记经过i轮加密后的输出可分性为 $D _ { \mathbb { K } _ { i } } ^ { \mathfrak { n } , \mathfrak { m } }$ ,若 $\mathbb { K } _ { r + 1 }$ 是第一次出现包含了所有的 $\mathfrak { n }$ 个单位向量,可分性的传播终止，这样得到了一个 $\mathrm { ~ \bf ~ r ~ }$ 轮区分器。判断是否存在r-1轮区分器，只需检测 $\mathbb { K } _ { r }$ 是否包含全部的单位向量，因此设定目标函数：
+
+$$
+\operatorname { O b j : M i n } \{ { a _ { 0 } } ^ { r } + { a _ { 1 } } ^ { r } + \dots + { a _ { n - 1 } } ^ { r } \}
+$$
+
+其中： ${ a _ { 0 } } ^ { r } , { a _ { 1 } } ^ { r } , \cdots , { a _ { n - 1 } } ^ { r }$ 是一个任意 $\mathbf { r }$ 轮可分路径的最后一个向量。
+
+# 3 PRIDE的MILP模型
+
+在可分性的传播过程中，与常数异或不改变可分性，即轮密钥加不会影响可分性的传播，因此只考虑S盒和线性扩散层对可分性传播的影响。
+
+# 3.1S层的线性不等式表示
+
+PRIDE的S层由16个相同的S盒并置而成，首先研究穿过 S 盒的可分路径。令S盒的输入为 $\scriptstyle x = ( x _ { 3 } , x _ { 2 } , x _ { 1 } , x _ { 0 } )$ ，对应输出为 $y { = } ( y _ { 3 } , y _ { 2 } , y _ { 1 } , y _ { 0 } )$ ,则S盒的代数规范式（ANF）表示如下：
+
+$$
+\left\{ \begin{array} { l l } { y _ { 0 } = x _ { 2 } \oplus x _ { 0 } x _ { 1 } \oplus x _ { 1 } x _ { 2 } \oplus x _ { 0 } x _ { 2 } x _ { 3 } } \\ { y _ { 1 } = x _ { 3 } \oplus x _ { 0 } x _ { 1 } \oplus x _ { 1 } x _ { 2 } \oplus x _ { 0 } x _ { 2 } x _ { 3 } \oplus x _ { 1 } x _ { 2 } x _ { 3 } } \\ { y _ { 2 } = x _ { 0 } \oplus x _ { 1 } x _ { 2 } } \\ { y _ { 3 } = x _ { 1 } \oplus x _ { 2 } x _ { 3 } } \end{array} \right.
+$$
+
+应用算法2计算穿过S盒的可分路径，可得到总共44条可分路径，如表3所示。
+
+表3PRIDE的S盒可分路径  
+Table 3S box divisible path of PRIDE   
+
+<html><body><table><tr><td>输入D4</td><td>输出D4</td></tr><tr><td>(0,0,0,0)</td><td>(0,0,0,0)</td></tr><tr><td>(0,0,0,1)</td><td>(0,0,0,1) (0,0,1,0) (0,1,0,0)</td></tr><tr><td>(0,0,1,0)</td><td>(0,0,0,1) (0,0,1,0) (0,1,0,0) (1,0,0,0)</td></tr><tr><td>(0,0,1,1)</td><td>(0,0,0,1) (0,0,1,0) (1,1,0,0)</td></tr><tr><td>(0,1,0,0)</td><td>(0,0,0,1) (0,0,1,0) (0,1,0,0) (1,0,0,0)</td></tr><tr><td>(0,1,0,1)</td><td>(0,0,0,1) (0,0,1,0) (1,1,0,0)</td></tr><tr><td>(0,1,1,0)</td><td>(0,0,0,1) (0,0,1,0) (0,1,0,0)</td></tr><tr><td>(0,1,1,1)</td><td>(0,0,1,1) (1,1,0,1)</td></tr><tr><td>(1,0,0,0)</td><td>(0,0,0,1) (0,0,1,0) (1,0,0,0)</td></tr><tr><td>(1,0,0,1)</td><td>(0,0,0,1) (0,0,1,0) (1,1,0,0)</td></tr><tr><td>(1,0,1,0)</td><td>(0,0,1,0) (1,0,0,1) (1,1,0,0)</td></tr><tr><td>(1,0,1,1)</td><td>(1,0,0,1) (1,1,1,0)</td></tr><tr><td>(1,1,0,0)</td><td>(0,0,0,1) (0,0,1,0) (1,0,0,0)</td></tr><tr><td>(1,1,0,1)</td><td>(0,0,0,1) (0,0,1,0) (1,1,0,0)</td></tr><tr><td>(1,1,1,0)</td><td>(0,0,1,0) (1,0,0,1) (1,1,0,0)</td></tr><tr><td>(1,1,1,1)</td><td>(1,1,1,1)</td></tr></table></body></html>
+
+利用 Sage 软件中的 Inequality_generatorO函数，共返回110个线性不等式表示这44 条可分路径，再通过不等式缩减算法把此组不等式个数缩减为11个，记(ao,a,a,a)→(b,b,b,b)表示一条穿过S盒的可分路径，则它的线性不等式 $\mathcal { L } _ { s }$ 表示如下：
+
+$$
+\begin{array} { r l } & { [ a _ { 4 } + a _ { 4 } + a _ { 4 } - a _ { 4 } - a _ { 5 } - a _ { 1 } - b _ { 1 } - b _ { 2 } - b _ { 5 } + a _ { 5 }  } \\ & {  - { a _ { 4 } } _ { { 0 } } + { a _ { 5 } } _ { { 2 } } _ { { 0 } } - { b _ { 1 } } { b _ { 2 } } { b _ { 3 } } + { b _ { 2 } } _ { { 1 } } ^ { 2 } + \Omega  } \\ & {  - { a _ { 1 } } _ { { 0 } } - { a _ { 2 } } _ { { 2 } } - 2 { a _ { 3 } } _ { { 4 } } { b _ { 4 } } + 2 { b _ { 4 } } _ { { 1 } } + 3 { b _ { 2 } } _ { { 2 } } { b _ { 3 } } ] \geq 0 } \\ & { [ 2 a _ { 1 } + a _ { 4 } + a _ { 5 } - 2 { b _ { 3 } } _ { { 4 } } { b _ { 4 } } + { b _ { 2 } } _ { { 2 } } { b _ { 3 } } + 2 { b _ { 4 } } _ { { 2 } } ^ { 2 }  } \\ & {  - { a _ { 1 } } _ { { 0 } } { b _ { 5 } } _ { { 2 } } + { b _ { 5 } } _ { { 4 } } { b _ { 4 } } _ { { 2 } }  } \\ & {  - 2 a _ { 1 } - 2 { a _ { 2 } } _ { { 2 } } { b _ { 6 } } + 2 { b _ { 6 } } _ { { 3 } } { b _ { 4 } } { b _ { 5 } } + 3 a _ { 5 } + 3 \geq 0  } \\ & {  { a _ { 3 } } ^ { 2 } ] [ { a _ { 4 } } + { a _ { 5 } } _ { { 3 } } { b _ { 6 } } { b _ { 5 } } _ { { 3 } } + 1  } \\ & {  - { a _ { 6 } } { a _ { 2 } } _ { { 3 } } { b _ { 6 } } + { b _ { 7 } } _ { { 4 } } { b _ { 2 } }  } \\ & {  [ - { a _ { 2 } } _ { { 0 } } - { a _ { 2 } } _ { { 0 } } + \Omega   } \\ & {    - { a _ { 3 } } ^ { 2 } ] [ { a _ { 4 } } { b _ { 4 } } + { b _ { 2 } } _ { { 0 } } ^ { 2 }   } \\ & {    - { a _ { 4 } } _ { { 0 } } { b _ { 6 } } + \Omega   } \\ & {   - { a _ { 4 } } _ { { 0 } } { b _ { 2 } } + \Omega   } \\ &    - { a _ { 4 } } _  \end{array}
+$$
+
+对整个S层的可分路径线性不等式表示，可直接把16个4维输入向量并置，输出同样为16个4维向量。综上，记(xo,xχ,…,x63)→(yo,y,,y63)为穿过 S层的一条可分路径。若给出一个 S 层输入集合满足可分性 $D _ { k } ^ { 1 , ~ 6 4 }$ ，则穿过 S 层后输出满足可分性 $D _ { \mathbb { K } } ^ { 1 , 6 4 }$ ，
+
+# 3.2线性层的线性不等式表示
+
+利用MILP模型为搜索更复杂线性层的算法成为一个遗留的问题，可以引入一些中间变量解决这个问题：任何线性矩阵层，都可以分割为拷贝和异或这两个操作[7]。
+
+PRIDE的 $6 4 \times 6 4$ 矩阵层由四个 $1 6 \times 1 6$ 小矩阵呈对角线排列构成，分别为 $L _ { \mathrm { 0 } } , L _ { \mathrm { 1 } } , L _ { \mathrm { 2 } } , L _ { \mathrm { 3 } }$ .现以 $L _ { 0 }$ 为例，得出关于 $L _ { 0 }$ 的线性不等式组，其余三个矩阵过程类似。
+
+假设穿过矩 $L _ { 0 }$ 的输入集合满足可分性 $D _ { x } ^ { 1 , }$ 16，其中$\chi { = } ( \boldsymbol { x } _ { 0 } , \boldsymbol { x } _ { 1 } , \cdots , \boldsymbol { x } _ { 1 5 } )$ .从 $L _ { 0 }$ 的第一列看出， $x _ { 0 }$ 被拷贝了5次，这些被拷贝的值又在不同的行和其他被拷贝的进行异或，剩余的$x _ { \mathrm { i } } ( 1 \leq i \leq 1 5 )$ 和 $x _ { 0 }$ 的操作类似。
+
+在 $L _ { \mathrm { 0 } }$ 中共有 48 个非零元素，通过引入中间变量 $t _ { 0 } \sim t _ { 4 7 }$ ，$L _ { 0 }$ 转换为如下形式：
+
+为了描述 $L _ { 0 }$ 所有的拷贝操作，生成以下16个线性不等式：
+
+另一方面， $\mathbf { X } _ { i }$ 的拷贝比特需要和相关的输出比特异或。记(o,χ,,xis)→(yo,y，,,yis)是穿过L的一条可分路径，可以看出，在同一行的变量和需要异或的变量是相同的。为了描述$L _ { 0 }$ 所有的异或操作，生成以下16个线性不等式：
+
+$$
+\begin{array} { r } { \left\{ \Gamma _ { 1 2 } + \Gamma _ { 2 3 } + \Gamma _ { 6 3 } + \Gamma _ { 7 5 } - 0 \right\} } \\ { \left\{ \Gamma _ { 1 5 } + \Delta _ { 2 3 } + \Delta _ { 3 7 } \right\} _ { 1 6 } = 0 } \\ { \left\{ \Gamma _ { 1 6 } + 3 _ { 1 5 } + \Gamma _ { 1 7 } - 0 \right\} } \\ { \left\{ \Gamma _ { 1 6 } + \Gamma _ { 1 7 } + \Gamma _ { 1 7 } \right\} } \\ { \left\{ \Gamma _ { 2 1 } + \Gamma _ { 1 7 } + \Gamma _ { 6 7 } \right\} _ { 3 7 } = 0 } \\ { \left\{ \Gamma _ { 1 6 } + 3 _ { 1 5 } + \Delta _ { 1 7 } \right\} _ { 3 7 } = 0 } \\ { \left\{ \Gamma _ { 1 7 } + \Gamma _ { 2 9 } + \Delta _ { 1 7 } \right\} _ { 3 7 } = 0 } \\ { \left\{ \Gamma _ { 6 } + 3 _ { 1 5 } + \Delta _ { 1 7 } \right\} _ { 6 7 } = 0 } \\ { \left\{ \Gamma _ { 5 } + \Delta _ { 1 4 } + \Delta _ { 2 7 } \right\} _ { 7 7 } = 0 } \\ { \left\{ \Gamma _ { 1 7 } + \Gamma _ { 1 7 } + \Gamma _ { 1 7 } + \Delta _ { 1 7 } \right\} _ { 8 7 } = 0 } \\ { \left\{ \Gamma _ { 4 } + \Gamma _ { 6 } + \Delta _ { 1 7 } \right\} _ { 7 8 } = 0 } \\ { \left\{ \Gamma _ { 5 } + \Delta _ { 1 7 } + \Delta _ { 2 7 } \right\} _ { 8 7 } = 0 } \\ { \left\{ \Gamma _ { 6 } + 1 _ { 1 5 } + \Delta _ { 1 7 } \right\} _ { 1 7 } = 0 } \end{array}
+$$
+
+为了得到穿过 $L _ { \mathrm { 0 } }$ 的可分路径，仅需要把以上两组线性不等式组(1)(2)联合起来成为一个线性不等式组 $\mathcal { L } _ { \mathfrak { o } }$ 0
+
+类似地，对穿过 $\begin{array} { r } { ( \underset { 1 6 } { x } _ { 1 6 } , \overset { x } { x } _ { 1 7 } , \overset { \cdots } { \cdots } , \overset { L _ { 1 } } { x } ) { \to } ( y _ { 1 6 } , y _ { 1 7 } , \overset { \cdots } { \cdots } , y _ { 3 1 } ) } \end{array}$ 的可分路径分别表示为（16,x7,x)）→(y16,y1,,y31）（20 $( { \bf x } _ { 3 2 } , x _ { 3 3 } , \cdots , x _ { 4 7 } ) \xrightarrow { L _ { 2 } } ( y _ { 3 2 } , y _ { 3 3 } , \cdots , y _ { 4 7 } ) ~ , ~ ( { \bf x } _ { 4 8 } , x _ { 4 9 } , \cdots , x _ { 6 3 } ) \xrightarrow { L _ { 3 } } ( y _ { 4 8 } , y _ { 4 9 } , \cdots , y _ { 6 3 } )$ 中间变量分别表示为 $t _ { 4 8 } \sim t _ { 9 5 } \ , t _ { 9 6 } \sim t _ { 1 4 3 } \ , t _ { 1 4 4 } \sim t _ { 1 9 1 }$ .按照以上的传播规则，分别生成对应的线性不等式组 $\mathcal { L } _ { 1 } , \mathcal { L } _ { 2 } , \mathcal { L } _ { 3 }$ 。
+
+综上，记 $( \mathrm { x } _ { 0 } , \mathrm { x } _ { 1 } , \cdots , \mathrm { x } _ { 6 3 } ) { \overset { L } {  } } ( \mathrm { y } _ { 0 } , \mathrm { y } _ { 1 } , \cdots , \mathrm { y } _ { 6 3 } )$ 为穿过线性矩阵层的一条可分路径。若给出一个线性层输入集合满足可分性$D _ { k } ^ { 1 , ~ 6 4 }$ ，则穿过线性层后输出满足可分性 $D _ { \mathbb { K } } ^ { 1 , 6 4 }$ ：
+
+得到了穿过S层和L层的可分路径线性不等式组表示，结合起来便得到轮函数的可分路径，重复轮函数 $\mathrm { ~ \bf ~ r ~ }$ 次，即得到 $\mathrm { ~ \bf ~ r ~ }$ 轮的可分路径。
+
+# 4 RoadRunneR的MILP模型
+
+RoadRunner算法总体采用Feistel结构，包含拷贝和异或操作，根据1中提到的方法对这两种操作建模。轮函数比较复杂，但总体来看，依然是S层和线性扩散层构成，类似于2中的步骤对其建模。
+
+RoadRunner算法的第一轮和最后一轮采用了白化密钥，且每一轮加入了轮常量异或运算，但由于与常数异或不改变可分性，故将这些运算忽略。
+
+# 4.1S层的线性不等式表示
+
+RoadRunner的S层由8个相同的S盒并置而成，令S盒的输入为 $\scriptstyle x = ( x _ { 3 } , x _ { 2 } , x _ { 1 } , x _ { 0 } )$ ，对应输出为 $y { = } ( y _ { 3 } , y _ { 2 } , y _ { 1 } , y _ { 0 } )$ ,则S盒的代数规范式（ANF）表示如下：
+
+$$
+\left\{ \begin{array} { l l } { y _ { 0 } = x _ { 2 } \oplus x _ { 0 } x _ { 1 } } \\ { y _ { 1 } = x _ { 1 } \oplus x _ { 0 } x _ { 1 } \oplus x _ { 0 } x _ { 2 } \oplus x _ { 0 } x _ { 3 } \oplus x _ { 0 } x _ { 1 } x _ { 2 } } \\ { y _ { 2 } = x _ { 1 } \oplus x _ { 2 } \oplus x _ { 3 } \oplus x _ { 1 } x _ { 2 } } \\ { y _ { 3 } = x _ { 0 } \oplus x _ { 2 } x _ { 3 } \oplus x _ { 0 } x _ { 1 } x _ { 3 } } \end{array} \right.
+$$
+
+应用算法2，可得到总共43条可分路径，如表4所示。
+
+表4RoadRunneR的S盒可分路径  
+Table 4Sbox divisible path of RoadRunneR   
+
+<html><body><table><tr><td>输入Dk4</td><td>输出D4</td></tr><tr><td>(0,0,0,0)</td><td>(0,0,0,0)</td></tr><tr><td>(0,0,0,1)</td><td>(0,0,0,1) (0,0,1,0) (1,0,0,0)</td></tr><tr><td>(0,0,1,0)</td><td>(0,0,0,1)(0,0,1,0) (0,1,0,0) (1,0,0,0)</td></tr><tr><td>(0,0,1,1)</td><td>(0,0,0,1) (0,0,1,0) (1,0,0,0)</td></tr><tr><td>(0,1,0,0)</td><td>(0,0,0,1) (0,0,1,0) (0,1,0,0) (1,0,0,0)</td></tr><tr><td>(0,1,0,1)</td><td>(0,0,1,0) (1,0,0,1) (1,1,0,0)</td></tr><tr><td>(0,1,1,0)</td><td>(0,0,1,0) (0,1,0,0)</td></tr><tr><td>(0,1,1,1)</td><td>(0,0,1,0) (1,1,0,0)</td></tr><tr><td>(1,0,0,0)</td><td>(0,0,1,0) (0,1,0,0) (1,0,0,0)</td></tr><tr><td>(1,0,0,1)</td><td>(0,0,1,0) (0,1,0,1) (1,0,0,0)</td></tr><tr><td>(1,0,1,0)</td><td>(0,0,1,1）(0,1,0,1) (0,1,1,0) (1,0,0,0)</td></tr><tr><td>(1,0,1,1)</td><td>(0,0,1,1) (0,1,0,1) (1,0,0,0)</td></tr><tr><td>(1,1,0,0)</td><td>(0,0,1,1) (0,1,0,1) (1,0,0,0)</td></tr><tr><td>(1,1,0,1)</td><td>(0,0,1,1) (1,1,0,1)</td></tr><tr><td>(1,1,1,0)</td><td>(0,1,1,1) (1,0,1,0)</td></tr><tr><td>(1,1,1,1)</td><td>(1,1,1,1)</td></tr></table></body></html>
+
+利用Sage 软件中的Inequality_generator(函数，共返回132个线性不等式表示这43条可分路径，再通过不等式缩减算法
+
+把此组不等式个数缩减为10个，记(ao,a,a,a)→(b,b,b,b)表示一条穿过S盒的可分路径，则它的线性不等式 $\mathcal { L } _ { \mathnormal { s } }$ 表示如下：
+
+$$
+\begin{array} { r l } & { \left[ a _ { 4 } + a _ { 4 } + a _ { 2 } + a _ { 3 } - b _ { 0 } - b _ { 1 } - a _ { 2 } - b _ { 3 } - \geq 0 \right. } \\ & { \left. - 4 a _ { 3 } - a _ { 1 } - a _ { 2 } - a _ { 2 } + a _ { 3 } - b _ { 2 } - b _ { 3 } + b _ { 2 } + a _ { 3 } b _ { 4 } + 3 b _ { 2 } + 5 \geq 0 \right. } \\ & { \left. - 2 a _ { 4 } - a _ { 4 } - 3 a _ { 2 } - a _ { 3 } + b _ { 4 } - 2 b _ { 4 } + 3 b _ { 2 } - b _ { 3 } + 5 \geq 0 \right. } \\ & { \left. 3 a _ { 1 } - 2 b _ { 3 } - b _ { 1 } - b _ { 2 } - b _ { 3 } + \geq 2 0 \right. } \\ & { \left. 2 a _ { 2 } - b _ { 1 } - b _ { 2 } - b _ { 3 } + 1 \leq 0 \right. } \\ & { \left. 2 a _ { 3 } - b _ { 1 } - a _ { 2 } + 3 b _ { 4 } + 2 b _ { 1 } + 2 b _ { 2 } + b _ { 3 } - 2 0 \right. } \\ & { \left. \mathcal { L } _ { \mathcal { L } ^ { 2 } } - 2 a _ { 0 } - \mathbf { a } _ { 1 } - a _ { 2 } + 3 b _ { 0 } + 2 b _ { 1 } + 2 b _ { 2 } + b _ { 3 } \geq 0 \right. } \\ & { \left. - a _ { 0 } - 2 a _ { 1 } - 2 a _ { 2 } - b _ { 3 } + b _ { 1 } + b _ { 3 } + 4 \geq 0 \right. } \\ & { \left. a _ { 3 } - b _ { 0 } - b _ { 1 } - b _ { 2 } + 1 \geq 0 \right. } \\ & { \left. - a _ { 1 } - b _ { 0 } + b _ { 2 } + b _ { 3 } - 2 0 \right. } \\ & { \left. \left[ a _ { 1 } + a _ { 2 } - b _ { 3 } - b _ { 2 } - b _ { 3 } + 1 \geq 0 \right. \right. } \\ & { \left. \left. a _ { 1 } + b _ { 2 } - b _ { 3 } - b _ { 2 } - b _ { 1 } + 2 0 \right. \right. } \\ & { \left. \left. a _ { 1 } - b _ { 3 } + 2 b _ { 2 } + 3 b _ { 2 } + 3 b _ { 2 } + 3 b _ { 3 } + 4 \geq 0 \right. } \\ & { \left. a _ { 1 } - b _ { 3 } - b _ { 2 } + b _ { 3 } - 2 b _ { 3 } + 3 \right] \leq 0 \right\} } \end{array}
+$$
+
+综上，记 $( \mathrm { x } _ { 0 } , \mathrm { x } _ { 1 } , \cdots , \mathrm { x } _ { 3 1 } ) { \overset { \mathrm { s } } {  } } ( \mathrm { y } _ { 0 } , \mathrm { y } _ { 1 } , \cdots , \mathrm { y } _ { 3 1 } )$ 为穿过S层的一条可分路径。若给出一个S层输入集合满足可分性 $D _ { k } ^ { 1 , ~ 3 2 }$ ，则穿过S层后输出满足可分性 $D _ { \mathbb { K } } ^ { 1 , 3 2 }$ ，
+
+# 4.2线性层的线性不等式表示
+
+RoadRunneR的矩阵层由四个相同的 $8 { \times } 8$ 矩阵 $\mathrm { ~ L ~ }$ 并置构成，以下得出关于L的线性不等式组。
+
+假设穿过矩阵L 的输入集合满足可分性 $D _ { x } ^ { 1 , ~ 8 }$ ，其中$\scriptstyle x = ( x _ { 0 } , x _ { 1 } , \cdots , x _ { 7 } )$ ．在L中共有24个非零元素，通过引入中间变量 $t _ { 0 } \sim t _ { 2 3 }$ ， $\mathrm { ~ L ~ }$ 转换为如下形式：
+
+$$
+\left( \begin{array} { l l l l l l l l } { \mathbf { t } _ { 0 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \mathbf { t } _ { 1 s } } & { \mathbf { t } _ { 2 1 } } \\ { \mathbf { t } _ { 1 } } & { \mathbf { t } _ { 3 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \mathbf { t } _ { 2 2 } } \\ { \mathbf { t } _ { 2 } } & { \mathbf { t } _ { 4 } } & { \mathbf { t } _ { 6 } } & { 0 } & { 0 } & { 0 } & { 0 } & { 0 } \\ { 0 } & { \mathbf { t } _ { s } } & { \mathbf { t } _ { 7 } } & { \mathbf { t } _ { 9 } } & { 0 } & { 0 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { \mathbf { t } _ { 8 } } & { \mathbf { t } _ { 1 0 } } & { \mathbf { t } _ { 1 2 } } & { 0 } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { \mathbf { t } _ { 1 1 } } & { \mathbf { t } _ { 1 3 } } & { \mathbf { t } _ { 1 5 } } & { 0 } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 0 } & { \mathbf { t } _ { 1 4 } } & { \mathbf { t } _ { 1 6 } } & { \mathbf { t } _ { 1 9 } } & { 0 } \\ { 0 } & { 0 } & { 0 } & { 0 } & { 0 } & { \mathbf { t } _ { 1 7 } } & { \mathbf { t } _ { 2 0 } } & { \mathbf { t } _ { 2 3 } } \end{array} \right)
+$$
+
+为了描述L中所有的拷贝操作，生成以下8个线性不等式：
+
+$$
+\left\{ \begin{array} { l l } { x _ { 0 } - \mathbf { t } _ { 0 } - \mathbf { t } _ { 1 } - \mathbf { t } _ { 2 } } & { = 0 } \\ { x _ { 1 } - \mathbf { t } _ { 3 } - \mathbf { t } _ { 4 } - \mathbf { t } _ { 5 } } & { = 0 } \\ { x _ { 2 } - \mathbf { t } _ { 6 } - \mathbf { t } _ { 7 } - \mathbf { t } _ { 8 } } & { = 0 } \\ { x _ { 3 } - \mathbf { t } _ { 9 } - \mathbf { t } _ { 1 0 } - \mathbf { t } _ { 1 1 } } & { = 0 } \\ { x _ { 4 } - \mathbf { t } _ { 1 2 } - \mathbf { t } _ { 1 3 } - \mathbf { t } _ { 1 4 } } & { = 0 } \\ { x _ { 5 } - \mathbf { t } _ { 1 5 } - \mathbf { t } _ { 1 6 } - \mathbf { t } _ { 1 7 } } & { = 0 } \\ { x _ { 6 } - \mathbf { t } _ { 1 8 } - \mathbf { t } _ { 1 9 } - \mathbf { t } _ { 2 0 } } & { = 0 } \\ { x _ { 7 } - \mathbf { t } _ { 2 1 } - \mathbf { t } _ { 2 7 } - \mathbf { t } _ { 3 8 } } & { = 0 } \\  x _ { i } , t _ { i } , \nmid \mathbf { j } = \mathbf { j } \end{array} \right.
+$$
+
+记 $( \mathbf { x } _ { 0 } , x _ { 1 } , \cdots , x _ { 7 } ) { \overset { \underset { \mathrm { L } } { } } {  } } ( y _ { 0 } , y _ { 1 } , \cdots , y _ { 7 } )$ 是穿过L的一条可分路径，为了描述 $\mathrm { ~ L ~ }$ 所有的异或操作，生成以下8个线性不等式：
+
+$$
+\left\{ \begin{array} { l l } { \mathbf { t } _ { 0 } + \mathbf { t } _ { 1 8 } + \mathbf { t } _ { 2 1 } - y _ { 0 } } & { = 0 } \\ { \mathbf { t } _ { 1 } + \mathbf { t } _ { 3 } + \mathbf { t } _ { 2 2 } - y _ { 1 } } & { = 0 } \\ { \mathbf { t } _ { 2 } + \mathbf { t } _ { 4 } + \mathbf { t } _ { 6 } - y _ { 2 } } & { = 0 } \\ { \mathbf { t } _ { 5 } + \mathbf { t } _ { 7 } + \mathbf { t } _ { 9 } - y _ { 3 } } & { = 0 } \\ { \mathbf { t } _ { 8 } + \mathbf { t } _ { 1 0 } + \mathbf { t } _ { 1 2 } - y _ { 4 } } & { = 0 } \\ { \mathbf { t } _ { 1 1 } + \mathbf { t } _ { 1 3 } + \mathbf { t } _ { 1 5 } - y _ { 5 } } & { = 0 } \\ { \mathbf { t } _ { 1 4 } + \mathbf { t } _ { 1 6 } + \mathbf { t } _ { 1 9 } - y _ { 6 } } & { = 0 } \\ { \mathbf { t } _ { 1 7 } + \mathbf { t } _ { 2 9 } + \mathbf { t } _ { 2 3 } - y _ { 7 } } & { = 0 } \\  \mathbf { y } _ { i } , \mathbf { t } _ { i } ^ { \prime } , \mathbf { s } _ { i } , \mathbf { z } \end{array} \right.
+$$
+
+综上，记 $( \mathrm { x } _ { 0 } , \mathrm { x } _ { 1 } , \cdots , \mathrm { x } _ { 3 1 } ) { \overset { \underset { \mathrm { L } } { } } {  } } ( \mathrm { y } _ { 0 } , \mathrm { y } _ { 1 } , \cdots , \mathrm { y } _ { 3 1 } )$ 为穿过线性矩阵层的一条可分路径。若给出一个线性层输入集合满足可分性 $D _ { k } ^ { 1 , }$ 32，则穿过线性层后输出满足可分性 $D _ { \mathbb { K } } ^ { 1 , 3 2 }$ ．
+
+得到了穿过S层和L层的可分路径线性不等式组表示，结合起来便得到SLK函数的可分路径。结合三个SLK函数和一个S层，可得到一轮函数的可分路径。重复轮函数r次，即得到r轮的可分路径。
+
+# 5 积分区分器搜索
+
+在前面分别得到针对PRIDE 和RoadRunner算法完整的MILP模型, $\mathcal { L }$ 为约束条件，Obj为目标函数。根据搜索算法[6]，应用Gurobi优化器求解该模型，可搜索是否存在r轮积分区分器。本节中的实验数据均来自以下平台：Intel(RCeleron(RCPU$1 0 0 7 \mathrm { U } \ @ 1 . 5 0 \mathrm { G H z } , 4$ GBRAM,64bitWindows7。采用Python编程实现搜索区分器得到如表5所示。
+
+表5搜索的积分区分器  
+Table5Integral differentiator for Search   
+
+<html><body><table><tr><td>密码算法</td><td>分组长度</td><td>区分器轮数</td><td>活跃比特</td><td>平衡比特</td></tr><tr><td rowspan="4">PRIDE</td><td rowspan="4">64</td><td>4</td><td>16</td><td>64</td></tr><tr><td>6</td><td>40</td><td>16</td></tr><tr><td>8</td><td>60</td><td>32</td></tr><tr><td>9</td><td>63</td><td>1</td></tr><tr><td rowspan="2">RoadRunneR</td><td rowspan="2">64</td><td>4</td><td>32</td><td>32</td></tr><tr><td>5</td><td>50</td><td>32</td></tr></table></body></html>
+
+# 5.1PRIDE的8轮积分区分器
+
+若选择输入的初始可分性为 $D _ { 0 f f f f f f } ^ { 1 , ~ 6 4 }$ ,即选择输入的右边60 bit为活跃比特，其余4bit为常数，经过8轮之后得到一个有效的区分器，区分器输出的右边32比特为平衡比特。PRIDE的8轮区分器可表示如下：
+
+输入: (ccccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaa) 输出: （？？？？？？？？？？ ?????????bbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbb)
+
+# 5.2PRIDE的9轮积分区分器
+
+若选择输入的初始可分性为 $D _ { 7 f i m p a r f o r m o n g } ^ { 1 , ~ 6 4 }$ ,即选择输入的右边
+
+63比特为活跃比特，经过9轮之后得到一个有效的区分器，区分器输出的最右边比特为平衡比特。PRIDE的9轮区分器可表示如下：
+
+输入: (ccccaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaa) 输出: (？？？？？？？？？？？？ ？？？？？？？？？？？？？？？？？ ????????b)
+
+# 5.3RoadRunneR的5轮积分区分器
+
+若选择输入的初始可分性为 $D _ { 0 0 0 3 , f f f } ^ { 1 , \ 6 4 }$ ,即选择输入的右边32bit均为活跃比特，左边18比特为活跃比特，其余14bit为常数，经过5轮之后得到一个有效的区分器，区分器输出的右边32bit为平衡比特。RoadRunner的5轮区分器可表示如下：
+
+输入： (ccccccccccccccaaaaaaaaaaaaaaaaaa,aaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaa) 输出: （？？？？？？？ 2???????,bbbbbbbbbbbbbbbbbbbb bbbbbbbbbbbb)
+
+同时搜索到有一个RoadRunneR4轮区分器，与算法设计者在原文中提出的4轮区分器一致，可证明利用该方法搜索积分区分器结果的正确性。
+
+# 6 结束语
+
+之前有人对PRIDE 算法做过了差分分析和线性分析[13][14],但PRIDE算法的积分分析还没有人研究。RoadRunneR算法在设计者的原文章中提出有一个4轮区分器。本文利用基于比特可分性的MILP模型搜索PRIDE 算法的积分区分器，得到了9轮区分器，该区分器是目前对PRIDE算法最长积分区分器。应用此方法搜索RoadRunneR算法的积分区分器，得到了5轮区分器，对比设计者的区分器提升了一轮。可以看出无论Feistel还是SPN型的分组密码，对比传统寻找区分器的方法，应用该技术均可以搜索出较为理想的积分区分器。
+
+利用以上方法得到了目前已知的最长积分区分器，可对这两种密码算法进行目前已知最多轮的积分攻击。例如对于PRIDE的8轮区分器，向后扩展两轮可进行10轮攻击，根据相关密钥恢复的方法与技术，恢复相应的密钥。
+
+但是增加积分区分器长度的同时会增加选择明文数量，这样在整个攻击过程中的数据复杂度并不会有显著的降低。例如搜索PRIDE算法得到的9轮区分器，需要选择明文数为 $2 ^ { 6 3 }$ 个。因此对于同样轮数长度的区分器，降低选择明文数量是寻找区分器的难点。从当前研究来看，利用比特可分性搜索到的积分区分器在大多数情况是最优的区分器，但并不能说一定是最优的区分器，这关系到可分性传播过程的模型化表示方法的准确性，也是下一步研究的主要方向。
+
+随着对比特可分性和自动化搜索区分器的研究进行，结合数学模型和优化软件提高了搜索的效率，大大改进了寻找积分区分器的方法，因而对积分分析也有了很大的推进，而且基于比特可分性搜索区分器还有很大的潜力可挖，本文也是对这一方法的研究和应用。
+
+# 参考文献：
+
+[1]Albrecht M,Driessen B,Kavun EB,et al.Block ciphers focus on the linear layer(feat.PRIDE)[C/OL].IACR Cryptology ePrint Archive,(2014) https://eprint. iacr. org/2014/453.pdf.   
+[2]Baysal A, Sahin S.RoadRunneR:A small and fast bitslice block cipher for low cost 8-bit processors [C/OL].LightSec Cryptology ePrint Archive. (2015).https://eprint.iacr.org/2015/906.pdf   
+[3]Todo Y. Structural evaluation by generalized integral property [C]// Proc of EUROCRYPT,LNCS,vol. 9056.2015.Berlin: Springer,2015:287-314.   
+[4]Todo Y.Integral cryptanalysis on full MISTY1[C]//Proc of CRYPTO Part I LNCS vol. 9215.Berlin: Springer,2015: 413-432.   
+[5]Todo Y,Morii M.Bit-based division property and application to simon family[C]//Pre-ProceedingsofFSE,2016.Berlin: Springer,2015:357-377.   
+[6]Xiang Zejun, Zhang Wentao,Bao Zhenzhen et al.Applying milp method to search integral distinguishers based on division property for 6 lightweight block ciphers [C]//Advances in Cryptology Berlin: Springer,2016: 648-678.   
+[7]Sun Ling,Wang Wei,Wang Meiqin.Milp-aided bit-based division property for primitives with non-bit-permutation linear layers [C/OL]. Cryptology ePrint Archive.(2016) http://eprint.iacr.org/2016/811.   
+[8]Sun Ling,Wang Meiqin.Towards a further understanding of bit-based division property [J]. Science China Information Sciences,2017,60 (12): 128101.   
+[9]Zhang Wenying,Rijmen V.Division cryptanalysis of block ciphers with a binary diffusion layer [C/OL]. IACR Cryptology ePrint Archive.(2017) https://eprint. iacr. org/2017/188.   
+[10] Boura C, Canteaut A.Another view of the division property [C]//Advances in Cryptology-CRYPTO.Berlin: Springer,2016: 654-682.   
+[11] Daemen J, Knudsen L,Rijmen V.The block cipher square [C]// Proc of the 4th International Workshop on Fast Software Encryption.Berlin: Springer, 1997: 149-165.   
+[12] Knudsen L,Wagner D.Integral cryptanalysis [C]// Proc of the 9th Int Workshop on Fast Software Encryption,2002 [C]. Berlin: Springer, 2002: 112-127.   
+[13] Dai Yibin,Chen Shaozhen.Cryptanalysis of full PRIDE block cipher [J]. Science China Information Sciences.2017,60 (5): 052108.   
+[14]伊文坛，陈少真，田亚．减缩轮 PRIDE 算法线性分析[J].电子学报, 2017,45 (2):468-476.(Yi Wentan,Chen Shaozhen,Tian Ya.Linear cryptanalysis of reduced-round PRIDE block cipher [J].Acta Electronica Sinica,2017,45 (2): 468-476.)   
+[15]于晓丽，吴文玲，李艳俊．低轮MIBS分组密码的积分分析[J].计算机 研究与发展,2013,50(10):2117-2125.(Yu Xiaoli,Wu Wenling,Li Yanjun. Integral attack of reduced-round MIBS block cipher [J].Journal of Computer Research & Development,2013,50 (10): 2117-2125.)

@@ -1,0 +1,461 @@
+[
+    {
+        "type": "text",
+        "text": "Schmidt和Angel结构的龙虾眼X射线成像系统性能对比研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘晶晶1² 韦飞(中国科学院国家空间科学中心，中国科学院大学²,北京100190)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要Schmidt型和Angel型的X射线成像系统通过仿生龙虾眼睛微通道结构实现全反射聚焦成像相比传统的X射线成像方式具有大视场、高空间分辨率和能量获取能力。研究两个龙虾眼基础结构模型根据X射线掠入射反射理论分析对比了Angel和Schmidt结构光线入射焦面时的分布和空间分辨率，并用tracepro软件建立模型仿真验证了两种结构龙虾眼在聚焦和成像时的接收光/发射光、最大值/十字臂、最大值/本底、十字臂/本底多个性能参数。理论分析和仿真结果表明,当龙虾眼透镜焦距较长和通道长宽比大约为50时,由于多次反射时的聚焦及成像 Schmidt模型比Angel模型的信噪比等主要参数高，空间分辨率低;当龙虾眼透镜焦距较短和通道长宽比大约为10时,由于单次反射时的聚焦及成像Schmidt模型比Angel模型的信噪比等主要参数低 空间分辨率几乎一样。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词龙虾眼 X射线成像 Schmidt Angel 信噪比 空间分辨率 中图法分类号 V447 TH743; 文献标志码 A ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "X射线通常是指波长小于 $1 0 \\ \\mathrm { n m } ( \\$ 对应的光子能量 $0 . 1 2 4 \\mathrm { ~ k e V } ,$ 的电磁辐射，极紫外辐射是指波长范围在 $1 0 \\sim 1 2 4 ~ \\mathrm { n m } ( \\$ 对应光子能量 $1 0 \\sim 1 2 4 ~ \\mathrm { e V } )$ 的电磁辐射。因为X射线能量高穿透能力强，难以在介质中发生反射、折射这样给观测成像带来了很大的技术难题。因为 $\\mathrm { \\Delta X }$ 射线只在掠入射时反射效率最高由龙虾眼的聚光原理，模仿龙虾的视觉系统，使其由多个通道的反射镜构成进行掠入射这种仪器具有大视场、高分辨率、结构紧凑、重量轻、成本低的优势[1]。Schmidt[2]和Angel[3]这两种不同结构的龙虾眼模型都使用平面方孔，比传统圆孔聚焦效率提高一个数量级[45]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从实际工艺方面考虑，方孔尺寸很小,通常只有微米级因而在实际的制作和加工过程中Angel型平面方孔对技术方面的要求比较高，而Schmidt型相对简单些。但是自前没有文献对两种方孔的聚焦和成像效果的性能参数进行专项对比。现建立有限物距的成像系统,比较Angel型和Schmidt型的聚焦和成像的信噪比和空间分辨率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1龙虾眼的结构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 1 Schmidt型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由多组平面反射镜组成的Schmidt结构（图1），是以一维结构为基础，把两个一维结构进行正交叠加得到的二维聚焦系统[6]。由多组平行玻璃平板构成的Schmidt型X射线龙虾眼光学系统，研究X射线聚焦和成像。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/09e02c4a97c09cf1117b42c4bf403fa9d9e6caf55ecc856b1147370c6c5a3fa1.jpg",
+        "img_caption": [
+            "图1Schmidt 结构Fig.1The schematic of Schmidt geometry"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. 2 Angel型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "微小元胞组成的Angel结构（图2），与真实的龙虾眼很相似是一个截面是正方形的平面方孔阵列，光线通过互相垂直的两个反射面各反射一次后会被聚焦或成像。当入射角接近或小于全反射临界角的时候光线发生全反射当入射角大于全反射临界角时，光线会被孔壁吸收不能聚焦或成像。这种结构制作方式比较复杂，一般表面粗糙度比较难于控制[7]",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8f709536329f84f3faa05c7b7351932d4679d5a24ffd3b69ba5c7774ab9c349.jpg",
+        "img_caption": [
+            "图2Angel结构 Fig.2The schematic of Angel geometry "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 光路的理论分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1入射焦面的光线分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从光轴上一个点光源发出的光线经过龙虾眼光学系统后在互相垂直的两个侧壁发生的反射光线汇聚到像点照射到CCD上有三种类型光线，如图3研究系统的一个维度光线分为两种:经过龙虾眼镜片反射的光线1，直接穿过龙虾眼镜片之间微孔的光线2。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二维的龙虾眼的光线分为三种:第一种是在两个维度上都没有经过镜片反射的光线，由图3中的光线2组成，它们直接穿过镜片之间的微孔对成像没有贡献在CCD上形成大致均匀的本底信号，叫做EE光;第二种是只在一个维度上经过镜片反射而另一个正交的维度上直接穿过镜片的光线，在两个维度上分别由图3中的光线1和光线2组成根据光线反射和穿过所在维度的不同，分别叫做OE或EO光，在CCD上分别形成了的十字心的垂直线和水平线;第三种是在两个正交的维度上都经过镜片反射的光线，在两个维度上均由图3中的光线1组成这种光线聚焦在CCD上十字心的中心位置点形成中心亮斑,叫作00光[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对X射线波段来说全反射角较小[9]。在镜片长度和方孔边长比例在两个数量级以内的时候，发生单次反射。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9bde450468026f448009a1ed2e4269c99f37dbebf1aad35cb93934fb83d5c075.jpg",
+        "img_caption": [
+            "图3龙虾眼成像侧视示意图 Side schematic diagram of lobster-eye imaging "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设X射线是各向同性的光源，考虑二维龙虾眼的第一种光线[10]。根据对一维龙虾眼的分析，Schmidt型的龙虾眼直接穿过镜片之间微孔的能量是Angel型龙虾眼的1\\~4倍而总面积没有变化，所以Schmidt型龙虾眼CCD上接收的本底信号的光通量是Angel型的4倍。考虑二维龙虾眼的第二种光线。由于十字心的长度是由图3中第2种光线引起，而Schmidt型的龙虾眼在产生第二种光线的角度是An-gel型的2倍所以Schmidt型的龙虾眼十字心单个峰的长度是Angel型的2倍。第二种是考虑Schmidt型龙虾眼单个镜片长度是Angel的0.5倍从一维的结果直接得出从这个角度Schmidt型龙虾眼的十字臂照度是Angel的0.5～1倍。不考虑两个方面的相关性，总体上Schmidt型龙虾眼的十字臂照度是Angel的0.5～2倍。考虑二维龙虾眼的第三种光线与第二种光线相似，对于各向同性的光源相同条件下Schmidt型龙虾眼的聚焦效率是Angel型的 ${ \\sim } 0 . 5 - \\sim 1 . 5$ 倍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设：各向同性光源；龙虾眼镜片面积足够大；CCD能够接收所有穿过龙虾眼镜片的光；单个镜片的长度远小于焦距；且模型的其他条件相同。分别对比三种光线对应的Schmidt和Angel型龙虾眼性能根据以上分析有表1。表中的数值是Schmidt与Angel性能参数的比值。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2339e0e4042ef13d474c7b04a7b425224646c025ebcf8c82d9a2f2b29a6a828.jpg",
+        "table_caption": [
+            "表1Schmidt与Angel三种光的性能对比",
+            "Table 1 Schmidt and Angel property comparison of three kindsof light "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>性能</td><td>第一种光</td><td>第二种光</td><td>第三种光</td></tr><tr><td>接收效率</td><td>1~4</td><td>1-~4</td><td>~0.5- ~1.5</td></tr><tr><td>照度</td><td>1~4</td><td>0.5-~2</td><td>~0.5-~1.5</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 焦点在空间中弥散 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "龙虾眼具有较高的分辨率较大的视场角等优势[1]。视场角原理上可以达到 $3 6 0 ^ { \\circ }$ 无死角;分辨率根据光路的结构特征，龙虾眼的角分辨率具有一定的限制。图4显示了从一个理想点发出的光在成像时无法完美地聚焦焦点在空间中有一定的弥散。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/05efd2b53907da2ab93ce85e1aa7104a37a4cea9b53c1a0d4e6457a3b086f72e.jpg",
+        "img_caption": [
+            "图4龙虾眼焦点弥散成像侧视示意图 Fig.4Side schematic diagram of lobster-eye focus dispersion imaging "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于龙虾眼的镜片具有一定的长度，从一点发出的光线被镜片反射时的位置具有一定的区间，相应地这些不同的光线形成的像的位置具有一定的区间。同时对于一个理想的点光源根据图4中光路中蕴含的对称性可知：从同一点发出的光线如果照射到龙虾眼镜片沿长度方向上的同一个位置时，所成的像在光轴线上。假设镜片的长度相对于物距可以忽略根据几何关系，像在光轴上的弥散最大能达到镜片长度的1倍，从而在光轴方向上限制了龙虾眼的分辨率。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "另一方面，由于CCD所在的面垂直于光轴，根据图4所示可知：对于从一个理想点光源发出的光线在垂直于光轴方向上,会有一定的弥散。根据这种分析方法可知:在垂直于光轴方向上，像的弥散最大达到镜片与镜片之间的宽度的2倍，从而在CCD平面的方向上限制了龙虾眼的分辨率。所以，龙虾眼在像方沿光轴方向上理想条件下的空间分辨率最差的情况是龙虾眼的单个方孔的长度，沿垂直于光轴的二维平面内两个维度分辨率分别最差是龙虾眼的单个方孔内孔径的2倍。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通常分辨率较高的情况下龙虾眼单个孔的宽度为 $3 0 ~ \\mu \\mathrm { m }$ 长度是宽度的100倍左右相应地龙虾眼沿光轴的分辨率是 $3 \\ \\mathrm { m m }$ 左右，垂直于光轴的分辨率是 $6 0 ~ { \\mu \\mathrm { m } }$ 左右。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "讨论具体的Angel型和Schmidt型龙虾眼的性能。当Schmidt型龙虾眼第一层镜面在水平方向分布在方孔的镜片长度相对于方孔边长的比值较小约为10时，光线在水平方向的弥散与竖直方向焦点的弥散相同在这个比值较大约为50时，光线在水平方向的弥散比竖直方向焦点的弥散更大。同时Schmidt型龙虾眼在光轴方向上焦点的弥散也相应地和Angel型相比相同或更大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3仿真模拟 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Tracepro 软件",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tracepro是非序列光线追踪其光线追钟方法是蒙特卡罗(Monte-Carlo MTC)光线追迹方法[12]。这个软件特点是以实体对象构建光路系统，当光线数量足够多时能更接近真实情况具有强大的光学分析功能和数据转换功能。利用蒙特卡罗光线追踪方法仿真方孔的成像特性建立模型然后设置光源参数，定义材料属性和表面性能参数。可以利用AutoCAD或SolidWorks等其他设计软件来创建实体模型并直接导入tracepro 软件当中来进行模拟成像。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 建立仿真模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到模拟的实验目的建立Schmidt和Angel结构的龙虾眼仿真模型参数如下：光源各向同性，通道内壁材料设为全反射，不考虑表面粗糙造成的散射光源到方孔的距离等于CCD到方孔的距离，龙虾眼镜片能够接收光源发散角内的所有光线，单个镜片的长度远小于焦距，CCD能够接收所有穿过龙虾眼镜片的光。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据建立模型的各个要求和实验目的，设定具体参数如下：聚焦用圆形光源半径是 $5 0 ~ { \\mu \\mathrm { m } }$ 成像用F型光源大小是 $2 \\times 4 ~ \\mathrm { m m }$ 光源发散角为 $8 ^ { \\circ }$ 追迹光线是 $1 0 ^ { 5 }$ 条焦距 $f$ 范围是 $3 0 \\sim 2 0 0 ~ \\mathrm { m m }$ 方孔数设定是 $1 \\ 0 2 4 \\times 1 \\ 0 2 4$ 方孔边长 $d$ 范围是 $3 0 \\sim 1 0 0 ~ \\mu \\mathrm { m }$ 方孔孔壁厚度 $w$ 范围是 $5 \\sim 1 0 ~ { \\mu \\mathrm { m } }$ 方孔长度 $\\mathbf { \\chi } _ { t }$ 范围是$0 . 3 6 \\sim 4 ~ \\mathrm { m m }$ ,CCD半边长 $\\boldsymbol { \\mathscr { e } }$ 范围是 $0 . 3 \\sim 8 . 4 \\ \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了对比Angel和Schmidt结构的龙虾眼在聚焦和成像时的性能根据建立的模型分别对两种龙虾眼进行了4组聚焦模拟和1组成像模拟，这5组模拟的具体参数见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e963208c905c0a854f4fa4d1f24bbbdb513a914bc5a1ed7995773eaae4ec9cb2.jpg",
+        "table_caption": [
+            "表2Schmidt与Angel聚焦和成像参数值 Table 2Focusing and imaging parameter values of Schmidt and Angel "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>d/μm</td><td>w/μm</td><td>t/mm</td><td>f/mm</td></tr><tr><td>1</td><td>30</td><td>10</td><td>0.36</td><td>60</td></tr><tr><td>2</td><td>30</td><td>5</td><td>0.36</td><td>60</td></tr><tr><td>3</td><td>30</td><td>10</td><td>1.28</td><td>60</td></tr><tr><td>4</td><td>30</td><td>10</td><td>0.36</td><td>30</td></tr><tr><td>5</td><td>30</td><td>10</td><td>0.36</td><td>60</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3聚焦与成像模拟结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了使模拟结果比较直观，用伪色彩表示CCD的不同照度图5是第3组Angel型龙虾眼的聚焦模拟图图6是第3组Schmidt型龙虾眼的聚焦模拟图图7是Angel型龙虾眼的成像模拟图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3是Angel和Schmidt型龙虾眼的5组聚焦和成像模拟结果进行量化分析之后的对比结果表中第一行数值是Schmidt型结构的性能参数第二行数值是Schmidt型结构性能参数和Angel型相比的值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中“接收光/发射光”指的是CCD接收到的光通量和从光源发射的光通量的比值“最大值”max指的是在CCD整个接收面上单个像素上照度最大值“十字臂”max 指的是CCD像素十字臂照度的最大值“最大值/十字臂 $\\mathrm { ^ { 5 } m a x / m a x _ { s } }$ 指的是CCD像素的照度最大值和十字臂照度的最大值的比值“本底” $\\mathrm { \\dot { \\ m a x } _ { \\mathrm { b } } }$ 指的是CCD像素接收的本底照度最大值而两种模型的比值用本底的平均值计算;“最大值/本底” $\\mathrm { { m a x } / \\mathrm { { m a x } _ { \\mathrm { { b } } } } }$ 指的是在CCD整个接收面上单个像素上照度最大值和CCD像素接收的本底照度最大值的比值“十字臂/本底” $\\mathrm { m a x _ { s } / m a x _ { \\mathrm { b } } }$ 指的是CCD像素十字臂照度的最大值和CCD像素接收的本底照度最大值的比值。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/611f17cf137b3a6476446cca2b81c9a1d69329041d81ded4f1e4c811f3c401be.jpg",
+        "img_caption": [
+            "图5Angel型龙虾眼聚焦模拟的结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d41ccddcc7082ae6a09d04dd0dcf7ce8cd7171ff2145af37bba0967badea112.jpg",
+        "img_caption": [
+            "Fig.5Simulation result of Angel lobster-eye focusing "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.6Simulation result of Schmidt lobster-eye focusing ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3dad548e276995a96cdb8dded9a3866aea8671c05400e11a23230248a4120e3.jpg",
+        "img_caption": [
+            "图6Schmidt型龙虾眼聚焦模拟的结果",
+            "图7Angel型龙虾眼成像模拟的结果 Fig.7Simulation result of Angel lobster-eye imaging "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/bd93f663f67d03618c7f0b90df9028ae57d0f45ab08b0b6900a9f709da8e32ee.jpg",
+        "table_caption": [
+            "表3SchmidtandAngel模型龙虾眼聚焦与成像模拟结果对比 Table 3Focusing and imaging simulation comparison of Schmidt and Angel model "
+        ],
+        "table_footnote": [
+            "注：第一行数值是Schmidt型结构的性能参数;第二行数值是Schmidt型结构性能参数和Angel型相比的值。"
+        ],
+        "table_body": "<html><body><table><tr><td>参数</td><td>聚焦1</td><td>聚焦2</td><td>聚焦3</td><td>聚焦4</td><td>成像5</td></tr><tr><td rowspan=\"2\">e</td><td>0.561</td><td>0.733</td><td>0.560</td><td>0.560</td><td>0.550</td></tr><tr><td>1.000</td><td>0.998</td><td>0.998</td><td>0.994</td><td>0.987</td></tr><tr><td rowspan=\"3\">max</td><td>0.302</td><td>0.397</td><td>2.008</td><td>0.505</td><td>0.946</td></tr><tr><td>0.337</td><td>0.336</td><td>1.257</td><td>0.386</td><td>0.484</td></tr><tr><td>0.083</td><td>0.099</td><td>0.180</td><td>0.19</td><td>0.41</td></tr><tr><td>maxs</td><td>0.57</td><td>0.57</td><td>1.5</td><td>0.66</td><td>0.72</td></tr><tr><td>max</td><td>3.6</td><td>4.0</td><td>11</td><td>2.7</td><td>2.3</td></tr><tr><td>maxg</td><td>0.59</td><td>0.60</td><td>0.84</td><td>0.59</td><td>0.67</td></tr><tr><td rowspan=\"2\">maxb</td><td>0.008</td><td>0.015</td><td>0.095</td><td>0.048</td><td>0.10</td></tr><tr><td>1.3</td><td>1.3</td><td>1.4</td><td>1.2</td><td>1.1</td></tr><tr><td>max</td><td>37.8</td><td>26.5</td><td>211.4</td><td>10.5</td><td>9.5</td></tr><tr><td>maxb</td><td>0.26</td><td>0.26</td><td>0.90</td><td>0.32</td><td>0.44</td></tr><tr><td>maxg</td><td>10.4</td><td>6.6</td><td>19</td><td>4.0</td><td>4.1</td></tr><tr><td>maxp</td><td>0.44</td><td>0.44</td><td>1.1</td><td>0.55</td><td>0.65</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "两种模型：对于 $\\boldsymbol { \\mathscr { e } }$ 来说，两种模型相同;对于max和 $\\mathrm { { \\ m a x } _ { \\mathrm { { s } } } }$ 来说，这个参数对方孔长度相对于方孔边长的比值比较敏感，且这个比值大些时Schmidt模型较高 其中max 高的时候较好。对于 $\\mathrm { m a x } \\backslash \\mathrm { m a x } _ { \\mathrm { s } }$ 来说这个参数对方孔长度相对于方孔边长的比值比较敏感且这个比值大些时Schmidt模型和Angel模型的比值在变大。对于 $\\mathrm { m a x } _ { \\mathrm { b } }$ 来说Schmidt模型是Angel模型的 $1 . 1 \\sim 1 . 4$ 之间变化不大;对于max\\$\\mathrm { \\ m a x _ { \\mathrm { b } } }$ 和 $\\mathrm { m a x } _ { \\mathrm { s } } \\backslash \\mathrm { m a x } _ { \\mathrm { b } }$ 来说除了第三组方孔长度相对于方孔边长的比值较大的时候Schmidt模型接近甚至较好之外，其余都是Angel模型较好。此外，Schmidt模型的十字臂不同位置的照度波动比Angel模型更大。其中 $\\mathrm { \\ m a x { \\backslash m a x _ { s } \\cdot m a x _ { s } \\backslash m a x _ { h } } }$ 和 $\\mathrm { { m a x } \\backslash { m a x } _ { \\mathrm { { b } } } }$ 是三个和“信噪比”相关的较为重要的参数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上所述，一般在方孔长度相对于方孔边长的比值约为10，Angel模型聚焦和成像效果更好。在方孔长度相对于方孔边长的比值约为50，光线发生多次反射和焦距较长的时候Schmidt模型接近甚至优于Angel模型。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4 空间分辨率模拟 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了对比Angel和Schmidt结构的龙虾眼的空间分辨率根据建立的模型分别对两种模型进行一组聚焦模拟 具体参数设置是:光源半径 $5 0 ~ \\mu \\mathrm { m } ~ \\ r { d } = 1 0 0$ $\\mu \\mathrm { m } \\ \\mu = 1 0 \\mu \\mathrm { m } \\ \\mu = 4 \\ \\mathrm { m m } \\ f = 2 0 0 \\ \\mathrm { m m } \\ e = 3 0 0 \\ \\mu \\mathrm { m } \\circ$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了使模拟结果比较直观，用对数坐标的伪色彩表示CCD的不同照度。图8是Angel模型的空间分辨模拟结果，图9是Schmidt模型龙虾眼的空间分辨模拟结果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43e84d8320cc7f9e4a0d78d0b3ecf02638dea79894ef92dec23cc148a27ba775.jpg",
+        "img_caption": [
+            "Fig.8Spatial resolution simulation results of Angel "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad687b60bc47ba0a107ef6ecf36a13558dd29761168b5446b3f9efc1e821c00d.jpg",
+        "img_caption": [
+            "图8Angel模型空间分辨模拟结果",
+            "图9Schmidt模型空间分辨模拟结果",
+            "Fig.9Spatial resolution simulation results of Schmidt "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于Angel模型，由图8可知:当光源直径是$1 0 0 ~ { \\mu \\mathrm { m } }$ 且方孔边长是 $1 0 0 ~ { \\mu \\mathrm { m } }$ 时，聚焦的像点弥散是一个圆 圆的直径是 $3 0 0 ~ { \\mu \\mathrm { m } }$ ,和本文对 Angel 模型空间分辨率理论分析一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于Schmidt模型,由图9知:相同条件下焦点在竖直方向上弥散了 $4 0 0 ~ { \\mu \\mathrm { m } }$ ,水平方向上弥散了$5 3 0 ~ { \\mu \\mathrm { m } }$ 和本文对Schmidt模型空间分辨的理论分析一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "这组模拟所用的参数和图5、图6中的条件接近都是方孔的长度与边长的比值较大约为50。模拟结果表明Angel模型的空间分辨率比Schmidt模型好。在方孔的长度与边长的比值较小约为10，两种模型的空间分辨率接近。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "首先在理论上对比了标准平面方孔Schmidt和Angel模型聚焦和成像,然后用tracepro软件仿真对比了两种模型在几组不同条件下的聚焦、成像和空间分辨性能。在相同条件下对两种模型在多个条件下对比表明：当焦距较长、龙虾眼透镜通道长宽比大约50会对对光线进行多次反射,此时Schmidt模型的聚焦及成像的信噪比等主要参数比Angel模型高空间分辨率低；当焦距较短、龙虾眼透镜通道长宽比约为10，对光线进行单次反射时，Angel模型的聚焦及成像的信噪比等主要参数比Schmidt模型高空间分辨率几乎一样。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由于Angel模型的微小方孔结构制造工艺比较复杂更容易制备较小且方孔长度和边长的比值不大的龙虾眼，一般适合太空以及狭小空间的观测条件；而Schmidt型结构容易制作方孔长度和边长的比值较大的结构体积通常大一些能观测较高能量的X射线波段并适合地面的观测条件。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1 欧阳名钊．仿生龙虾眼光学成像机理研究．长春：长春理工大 学,2013 Ouyang Mingzhao.Research on the imaging mechanism of bionic lobster eyes optics.Changchun:Changchun University of Science and Technology,2013 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2Schmidt W K H. A proposed X-ray focusing device with wide field of view for use in X-ray astronomy.Nuclear Instruments and Methods, 1975；127: 285—292   \n3Angel JR P. Lobster eyes as X-ray telescopes. The Astrophysical Journal,1979;233:364—373   \n4Wilkins SW,Stevenson A W,Nugent K A,et al. On the concentration,focusing,and collimation of X-rays and neutrons using microchannel plates and configurations of holes.Review of Scientific Instruments,1989;60:1026—1036   \n5Chapman HN,Nugent KA,Wilkins SW,et al.Focusing and colimation of X-rays using microchannel plates:An experimental investigation．Journal of X-Ray Scienceand Technology，1990;2: 117—126   \n6杨夏军，穆宝忠，伊圣振，等．平行式Schmidt型龙虾眼X射线 光学系统研究．光学仪器,2012；34(5)：34—39 Yang Xiajun,Mu Baozhong,Yi Shengzhen,et al.Study on lobstereye X-ray optical system based on parallel Schmidt geometry.Optical Instruments,2012;34(5):34—39   \n7付跃刚张方军 欧阳名钊等．仿生龙虾眼光学系统的发展及其 在红外波段的应用．红外技术,2014；36(11)：857—862 Fu Yuegang,Zhang Fangjun,Ouyang Mingzhao,et al. Development of lobster eye optical system and the application in IR.Infrared Technology,2014;36(11):857—862   \n8李旭．软X射线与极紫外波段方孔微通道板光学成像系统设 计．科技与管理,2014;24:80—81 Li Xu.Design on soft X-ray and EUV of square-hole micro channel plate optical imaging system． Technology and Management，2014; 24:80—81   \n9Born M，Wolf E.Principles of optics．London:Pergamon,1980: 49-51   \n10Chapman H N,Nugent K A,Wilkins S W. X-ray focusing using square channelcapillary arrays.Review of Scientific Instruments , 1991; 62(6):1542—1561   \n11欧阳名钊，付跃刚，胡源，等．吸收涂层法抑制龙虾眼透镜 杂散光．红外与激光工程，2014；43(5)：1499—1504 Ouyang Mingzhao,Fu Yuegang,Hu Yuan,etal．Elimination of stray light for lobster eyes lens with absorbing coating.Infrared and Laser Engineering,2014；43(5):1499—1504   \n12李旭．方孔微通道板极紫外波段成像性能研究．长春：中国 科学院长春光学精密机械与物理研究所,2011 Li Xu.Researches on the image properties of extreme ultraviolet optical system based on square-hole MCP. Changchun: Changchun Institute of Optics,Fine Mechanics and Physics,CAS,2011 ence Press,2004   \n12Liu GT,Fan TY,Guo RP.Governing equations and general solutions of plane elasticity of one-dimensional quasicrystals. International Journal of Solids and Structures ,2004;41(14) :3949—3959   \n13 Sosa H.Pland problems in piezoelectric media with defects.International Journal of Solids and Structures,1991;28:491—505   \n14 Gladwell,GML．经典弹性理论中的接触问题．范天佑译.北 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "京：北京理工大学出版社1991",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Gladwell G ML. Contact problems in the classical elasticity theory. (Translation by Fan TY)．Beijing:Beijing Institute of Technology press 1991 15Li X Y.Elastic field in an infinite medium of one-dimensional hexagonal quasicrystal with a planar crack.International Journal of Solids and Structures,2014;51(6):1442—1455 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Frictionless Contact Problem in One-dimensional Orthorhombic Quasicrystals ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Xue-fen1 ² ,LI Xingl (School of Mathematicsand Computer ciencelXinhua College²,NingxiaUniversity,Yinchuan750o21P.R.China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Abstract]By using complex variable method,the frictionless contact problem in one-dimensional orthorhombic quasicrystals was discussd.On the contact surface,the explicit expressions of stress functions,contact stress and contact displacement were obtained under action of a rigid flat punch. The results showed that: $\\textcircled{1}$ contact stress exhibits the singularities $^ { - 1 / 2 }$ in the edge of the contact zone , $\\textcircled{2}$ the contact displacement is proportion to the applied force.Numerical examples were used to analysis and verifythe correctnessof the results.In special cases,the conclusions can reduce to the solutions of thefrictionlesscontact problem inone-dimensional Tetragonal and hexagonal quasicrystals.The obtainable results provide the important mechanics parameter for contact deformation of the quasicrystal. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Key words]one-dimensional orthorhombic quasicrystals frictionless contact problem complex variable function method singularity ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（上接第121页）",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Research on the Property Comparison of Lobster-eye X-ray Imaging System Based on Schmidt and Angel Structure ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LIU Jing-jing1², WEI Feil (NationalpaceSientersecadeyofiecsUveityofseadefieesiji9a) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Abstract]Schmidt and Angel lobster-eye $\\mathrm { \\Delta X }$ ray imaging system can realize total reflection focusing and imaging bysimulating lobster-eye microchannel structure.Compared with traditional wayof X-ray imaging,it is provided with large field of detection view,high resolution and energy acquisition ability.This paper studies on two lobstereye basic structures.Based on the principle of grazing incidence,we analyzed Angel and Schmidt structure of light entering focal plane and space resolution.We use tracepro simulation software to model and verifythe several focusing and imaging property parameters of these two lobster-eye structures,such as receiving/transmiting light,maximum/crossarm，maximum/background，cross arm/background.The theoretical analysis and simulation results show,whenthe focal length is longerand channellength-width ratio is about 5O.Dueto multiple reflection,focusing and imaging signal-to-noise ratio of some main parameters of Schmidt is higher than Angel model,and the spatial resolution is lower.When thefocal length isshorterand channel length-width ratio isabout1O.Due to simple reflection,focusingand imaging signal-to-noiseratioof some mainparameters of Schmidt is lower than Angel model ,and the spatial resolution is almost the same. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[Key words]lobster-eye X-ray imaging Schmidt Angel signal-to-noise ratio spatial resolution ",
+        "page_idx": 6
+    }
+]

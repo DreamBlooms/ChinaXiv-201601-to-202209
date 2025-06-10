@@ -1,0 +1,155 @@
+# 人SP-B蛋白转基因小鼠及细菌性肺炎模型的构建
+
+葛林1\* 刘新宇 2\* WANG Guirong 3#
+
+（1天津医科大学生物化学与分子生物学系天津3000702．天津医科大学代谢病医院内分泌研究所，卫生部激素与发育重点实验室，天津市代谢性疾病重点实验室，邮编 3000703.美国纽约州立大学上州医科大学 外科 纽约 13210）
+
+摘要目的：构建携带人SP-B蛋白 $+ 1 5 8 0$ SNP不同等位基因的转基因小鼠并进行细菌性肺炎模型的造模。方法：利用受精卵原核注射技术将 hSP-B基因整合至小鼠染色体上获得 $\mathrm { F } _ { 0 }$ 代小鼠，将其与mSP-B基因敲除鼠进行交配，逐步去除转基因小鼠体内mSP-B基因。利用PCR技术鉴定小鼠基因型，通过测序确定 $+ 1 5 8 0$ 位点的等位基因。将铜绿假单胞菌经支气管灌注接种至小鼠肺内进行细菌性肺炎造模，对照组注射等量灭菌生理盐水。结果： $\mathrm { F _ { 2 } }$ 代小鼠只表达人SP-B蛋白而不表达鼠 SP-B蛋白，蛋白表达量与人肺内含量相近，即为构建成功的转基因小鼠。3个小鼠家系 $+ 1 5 8 0$ 位点等位基因为T，1个家系为C。细菌接种后24小时，小鼠肺泡内炎症渗出明显，大量中性粒细胞浸润，SP-B蛋白含量明显降低，但不同等位基因间无明显差异。结果：成功构建只表达人SP-B蛋白的转基因小鼠模型，细菌性肺炎模型造模成功，为今后进一步研究人SP-B蛋白的生理功能及 $+ 1 5 8 0$ 基因多态性与肺疾病的关系提供了有力的工具。
+
+关键词：SP-B 蛋白；SNP；转基因小鼠；细菌性肺炎
+
+人表面活性蛋白B（Human surfactant protein B，hSP-B）是由肺泡II型上皮细胞分泌到肺泡表面的一种疏水性蛋白质，其主要生理功能是形成肺泡表面的磷脂单分子层，降低肺泡的表面张力，防止肺泡塌陷从而维持正常的呼吸功能[1]。研究已经显示很多肺部的疾病的发生、发展与 SP-B基因多态性相关，如早产儿呼吸窘迫综合征（RDS）、先天性肺泡蛋白沉积症（CAP）和支气管肺发育不良（BPD）[2]
+
+SP-B 蛋白由位于人类2号染色体的SFTPB基因编码，基因长度约9.5kb，包含11个外显子。成熟的基因产物由其前体蛋白pro-SP-B裂解而来，包含79 个氨基酸残基，分子量约 $8 \mathrm { k D } ^ { [ 3 - 5 ] }$ 。现有的文献已经报道了很多与呼吸系统疾病相关的基因变异，如 SP-BcDNA 第121个密码子由GAA 替换为CAA与新生儿肺泡蛋白沉积症密切相关，受累的婴儿往往死于新生儿肺泡蛋白沉积症和 SP-B 缺乏[6]。据估计，这种基因突变的频率在个体中约为 $0 . 1 \% ^ { [ 7 ] }$ 。另外，发现于 SP-B外显子4 的1个碱基的缺失（1553de1T）造成了基因读码框的改变导致蛋白翻译前提终止于外显子6。携带这种突变基因的婴儿出生后不久便会死亡，因为他们不能产生成熟的 SP-B蛋白8。类似的基因变异还包括位于外显子7的C236T、457delC和外显子5的G479T[9-11]。
+
+目前发现位于 SP-B基因1580位点的一个单核苷酸多态性(SNP，rs11130866)与 $\mathrm { \ p r o ^ { \mathrm { - } } S P ^ { \mathrm { - } } B }$ 蛋白的翻译后N-糖基化修饰有关。等位基因T与C的转换可以造成位于糖基化位点识别序列中的第131个氨基酸由苏氨酸转变成异亮氨酸，从而影响 pro-SP-B 蛋白的加工、分泌和稳定性，降低细胞内成熟 SP-B 蛋白的含量[12.13]。
+
+在本研究中，我们构建了人SP-B（human SP-B,hSP-B）蛋白转基因老鼠。这些hSP-B转基因小鼠携带有人SP-B基因的C或T等位基因而不表达鼠SP-B(mouse,mSP-B)基因。我们的结果显示人 SP-B 基因在转基因小鼠体内可以正常表达。与携带T等位基因的转基因小鼠相比，携带有C等位基因的小鼠具有更大的肺泡空间。我们用铜绿假单胞菌（P.aeruginosa）感染小鼠制造了肺炎模型。与对照组相比，肺炎组肺泡表面活性蛋白的表达量明显降低 $( \mathrm { p } \langle 0 . 0 1 )$ ，但在等位基因C组与T组之间并未有统计学差异。
+
+# 1材料与方法
+
+# 1.1实验动物
+
+本研究中用到的野生型（WT）FVB/N小鼠购自美国Jackson实验室，mSP-B基因敲除型（KO）小鼠由美国 Samuel Hawgood 博士友情赠送，hSP-B 转基因小
+
+鼠通过显微注射的方式构建，方法同前期发表的文章[14]。所得小鼠为Founder小鼠（ $\mathrm { T G ~ } \ : \mathrm { \Gamma } \mathrm { F } _ { 0 } )$ 。所有小鼠的饲养均在美国 SUNY Upstate Medical University动物中心完成。
+
+# 1.2hSP-B转基因小鼠纯合子品系的建立
+
+本研究将构建出携带有人SP-B基因（hSP-B） $+ 1 5 8 0$ 多态位点C等位基因或T等位基因而不表达鼠 SP-B基因（mSP-B)的人源化转基因小鼠进行后续的研究。该人源化转基因小鼠的建立是通过将TG $\mathrm { F } _ { \mathrm { 0 } }$ 转基因小鼠与KO小鼠进行交配逐步去除 mSP-B基因的表达，交配流程见图1。
+
+# 1.3转基因小鼠基因型的鉴定
+
+当小鼠的人SP-B基因阳性而鼠 SP-B基因阴性时定义为正确人源化的转基因小鼠。剪取新生小鼠的尾巴 $0 . 5 ^ { \sim } 1 . 0 \mathrm { c m }$ ，利用DNA纯化试剂盒（QIAGEN）提取基因组 DNA，利用 Nano Drop 进行定量。以纯化后的 DNA 为模版分别扩增人 SP-B和鼠 SP-B基因片段，PCR反应条件为 $9 5 ^ { \circ } \mathrm { C }$ 变性 40秒， $5 8 ^ { \circ } \mathrm { C }$ 退火40秒， $6 8 ^ { \circ } \mathrm { C }$ 延伸 40 秒，共35个循环。循环结束后， $6 8 ^ { \circ } \mathrm { C }$ 延伸7分钟，反应结束。PCR产物通过 $2 \%$ 琼脂糖凝胶电泳分离，EB染色，凝胶成像仪观察电泳结果。
+
+为了鉴定 $+ 1 5 8 0$ 位点的多态性等位基因，以正确人源化的转基因小鼠基因组DNA 为模版，扩增全长hSP-B基因（HighFidelity PCRkit，Roche,）。将PCR产物送至 Core Facility（SUNY Upstate Medical University）测序。
+
+# 1.4转基因小鼠BALF中肺泡表面蛋白表达的鉴定
+
+利用western blot方法鉴定转基因小鼠肺泡内hSP-B的表达情况。选取8至12周的hSP-B小鼠，异氟醚麻醉后用 $1 . 0 \mathrm { m l }$ 灭菌的PBS 缓冲液分2次进行肺泡灌洗，灌洗液的总蛋白含量通过BCA分析试剂盒进行定量。将 $1 0 \mu \mathrm { ~ g ~ }$ 的总蛋白用 $1 2 \% \mathrm { S D S  – P A G E }$ 凝胶进行分离，以人BALF作为阳性对照。电泳结束后将蛋白转印至 $0 . 2 \mu \mathrm { ~ m ~ }$ 的 PVDF 膜上，利用 SP-B 抗体（Santa Cruz）进行鉴定。
+
+# 1.5组织学与细胞学分析
+
+为了观察hSP-B转基因小鼠肺组织结构和II型肺泡上皮细胞的定位情况，选取 $8 ^ { \sim } 1 2$ 周小鼠的肺脏用 $1 0 \%$ 的福尔马林溶液灌注、固定，然后石蜡包埋。将组织块切割为 $5 ~ \mu \textrm { m }$ 厚度的薄片，用hematoxylin and eosin kit 和 ABC kit(Vector Laboratories，Burlingame，CA)进行染色，SP-B抗体用来鉴定肺组织切片中的II型肺泡上皮细胞。
+
+# 1.6铜绿假单胞菌肺炎模型的建立
+
+为了进一步鉴定转基因小鼠肺组织表达的人SP-B蛋白的功能，课题组建立了铜绿假单胞菌肺炎模型。将 $5 0 ~ \mu \mathrm { ~ l ~ }$ 菌液 $\left( 1 0 ^ { 7 } \mathrm { C F U } \right)$ 经气管灌注入小鼠肺内，对照组灌注相同体积的灭菌生理盐水。24小时后处死小鼠，收集 BALF检测总蛋白含量、hSP-B含量及CFU；或者固定肺组织观察组织学的改变。
+
+# 1.7 统计学分析
+
+本课题所有实验均重复3次以上。Westernblot 实验条带利用Quantity One(version 4.6.1)软件进行定量。统计学分析利用SigmaStat(version3.5)软件完成。组间差异采用t检验或方差分析， $\mathrm { P } { < } 0 . 0 5$ 有统计学意义。
+
+# 2 实验结果
+
+# 2.1人SP-B-C与SP-B-T转基因鼠的构建及基因型鉴定
+
+为了构建人SP-B 转基因鼠，我们将人SP-B 基因的cDNA序列克隆至 SV40载体，并将重组质粒通过显微注射的方式植入FVB/N野生小鼠的受精卵。通过PCR检测得到的阳性小鼠为 $\mathrm { F } _ { 0 }$ 代的转基因鼠，最终共得到4个家系(编号为2004、2007、2012和2059）。
+
+为了逐步去除小鼠 SP-B基因，我们将 $\mathrm { F } _ { 0 }$ 代的转基因鼠反复与SP-B 基因敲除（KO）小鼠进行交配（图1A）以逐步去除鼠 SP-B基因。剪取新生小鼠尾巴提取基因组DNA，通过PCR 技术分别检测人 SP-B（片段长度为 577bp）和鼠 SP-B的基因(片段长度为 279bp)表达情况(图1B)，最终筛选出只含有人 SP-B基因的转基因小鼠，即我们需要构建的人源化的 SP-B转基因鼠模型。
+
+在人 SP-B基因的第1580个核苷酸（位于第四个外显子内）存在一个T/C的多态性位点，造成编码的氨基酸由苏氨酸替换为异亮氨酸。已经有文献报道等位基因C 相比于等位基因T具有更高的ARDS 的发病率[15]。通过测序，在我们得到的4个家系中，3个家系（编号2004，2007，和2059）的该多态性位点处为等位基因T，1个家系（编号2012）为等位基因C（图1C）。
+
+![](images/98ad7706ffb815195b1773d054ba83eca0aa4ed5e631904d3dca43fc87905b87.jpg)  
+图1人SP-B-C与SP-B-T转基因鼠的构建及基因型鉴定A)人源化SP-B转基因鼠构建流程图；B）PCR 法鉴定小鼠基因型；C）转基因小鼠 SP-B $+ 1 5 8 0$ 位点的等位基因。
+
+Fig.1 Construction and genotyping of hSP-B transgenic mice A) The hSP-B transgenic mice were obtained by mating $\mathrm { F } _ { \mathrm { 0 } }$ mice with KO mice. B) The mice genotypes were identified by PCR. C) The polymorphism allele in SP-B gene.
+
+# 2.2转基因小鼠的肺组织形态学和人SP-B蛋白表达分析
+
+我们将得到的4个家系的转基因小鼠肺组织进行固定后切片，通过HE 染色和免疫组化技术观察肺泡结构。HE 染色显示4个家系的转基因小鼠都具有正常的肺泡结构，然而携带等位基因C的小鼠相比携带等位基因T的小鼠具有更大的肺泡直径，但在生理功能和生物学行为上并未表现出明显差异（图2A）。在免疫组化检测中，我们用特异性识别人SP-B蛋白的抗体检测分泌 SP-B蛋白的肺泡II 型上皮细胞，结果显示4个转基因小鼠品系均检测到阳性肺泡II型上皮细胞（图 2B）。携带等位基因C的转基因小鼠单个肺泡含有更多的肺泡II型上皮细胞，也许这也是造成该品系小鼠肺泡直径较大的原因。
+
+为了检测转基因小鼠肺组织中人SP-B蛋白的表达情况，我们对4个家系的转基因小鼠样本进行肺泡灌洗，利用western blot 的方法检测肺泡灌洗液中SP-B 的含量，阳性对照为人的肺泡灌洗液。结果显示4个家系的转基因小鼠的肺泡灌洗液中均含有丰富的 SP-B蛋白，其蛋白含量与人肺泡灌洗液无明显差异（图2C）。
+
+以上结果显示，我们构建的人转基因小鼠中人SP-B基因表达正常，我们的人源化的 SP-B小鼠模型构建成功，可以作为进一步研究人SP-B蛋白的结构和功能的动物模型。
+
+![](images/37e4d09233b8075e2df69eccf9c557e55166b604ffb89dffdd615150102d18e7.jpg)  
+图2转基因小鼠的肺组织形态学和人SP-B蛋白表达分析A）转基因小鼠的肺组织结构；B)转基因小鼠的肺泡II型上皮细胞（箭头所示）;C）转基因小鼠 BLAF中 SP-B蛋白含量。
+
+Fig.2 Lung histology and hSP-B expression in hSP-B TG mice. A) Lung tissue structure. B) Alveolar type II epithelia cells (shown by arrows).C) hSP-B expression in BALF of $\mathrm { F _ { 2 } }$ mice.
+
+# 2.3人SP-B转基因小鼠细菌性肺炎模型的建立及鉴定
+
+为了进一步研究携带不同等位基因的 SP-B蛋白在肺部疾病中可能发挥的生理病理功能，我们利用构建好的人SP-B蛋白转基因小鼠构建了肺炎模型。我们将铜绿假单胞菌 PA01菌株通过支气管灌注的方式注入小鼠肺脏，对照组灌注等量灭菌生理盐水。与对照组相比，实验组小鼠在接种后表现出寒战、嗜睡和萎靡不振等症状。肺组织切片HE 染色显示实验组肺泡腔内有明显液体渗出并伴有大量细胞浸润，肺泡结构破坏。肺泡灌洗液细胞图片显示对照组主要为单核巨噬细胞，而实验组则表现为大量的中性粒细胞（图3）。以上结果显示细菌性肺炎模型建立成功，可用于后续的研究工作。
+
+为了观察 SP-B蛋白 $+ 1 5 8 0$ 多态性在细菌性肺炎中的可能生理功能，我们对携带不同等位基因的转基因小鼠进行细菌性肺炎进行造模，收集肺泡灌洗液分析SP-B 蛋白的表达情况。我们的结果显示，无论是携带等位基因T还是等位基因C，感染后的小鼠均表现出 SP-B蛋白的分泌水平明显下降（图4A），结果具有统计学差异（ $_ { \mathrm { : p } \mathrm { < } 0 . 0 1 }$ ）（图4B、4C），但是不同等位基因之间没有表现出明显差异（图4A），提示我们不同的等位基因对 SP-B的蛋白表达量没有明显影响，可能是通过影响SP-B蛋白的功能而表现出对肺部疾病的不同敏感性。
+
+![](images/91adb6bcc233bb28df41a4fc8d2d84ebfe3831e4c6bd556730294c8fbed941f1.jpg)  
+图3人SP-B转基因小鼠细菌性肺炎模型的建立细菌感染组与对照组小鼠肺泡结构及肺泡灌洗液中细胞的差异
+
+Fig.3 Bacterial pneumonia model in hSP-B transgenic Mice. The lung tissue structure and cells from BALF in Sham and infection groups.
+
+![](images/ee96586a2ea55af0984e5e456d419d72633181e1cdd8d628485043b893033000.jpg)
+
+图4细菌性肺炎模型中人SP-B蛋白表达分析A)感染组与对照组BALF中的hSP-B蛋白表达量；B），C)统计学分析显示两组之间具有统计学差异（ $\mathrm { { p } } \langle 0 . 0 1$ ）。
+
+Fig.4 Western blot analysis of hSP-B expression in BALF of sham and infection group.
+
+A) The hSP-B expression in sham and infection group. B)，C)There is a significant difference between the two groups $( \mathrm { p } \langle 0 . 0 1 )$
+
+# 3讨论
+
+肺泡表面蛋白是维持呼吸时肺功能正常发挥的必不可少的成分，其中最重要的是肺泡表面活性蛋白B（SP-B）。SP-B通过两条途径影响肺功能的发挥：1)通过与脂质单分子层作用减少肺泡折叠时脂质的破坏和丢失；2）降低肺泡表面的张力防止肺泡塌陷。维持正常成人肺功能需要 SP-B的量至少为正常水平的$2 5 \% ^ { [ 1 6 ] }$ 。有文献报道，位于 SP-B 基因 $+ 1 5 8 0$ 处的基因多态性可以影响 SP-B 蛋白的生理功能，携带等位基因C的 SP-B 活性降低[13.为了进一步研究 SP-B $+ 1 5 8 0$ 基因多态性与SP-B蛋白活性的关系，我们课题组构建了携带不同等位基因的人SP-B 转基因小鼠，并通过接种铜绿假单胞菌建立了细菌性肺炎模型。该转基因小鼠能够特异性地表达不同等位基因的人SP-B蛋白，且蛋白表达水平与正常成人体内相近，将成为观察和研究人SP-B蛋白生理、病理功能的有力工具。
+
+成熟的 SP-B蛋白是一个分子量为8kD的小分子疏水性蛋白，是由其分子量为 $4 3 \mathrm { k D }$ 的前体蛋白经过水解生成。SP-B前体蛋白从N端至C端共含有4个结构域：1）信号肽，介导其合成之后向内质网的转运过程；2）N端肽段，是一个分子伴侣，介导其成熟肽段的分类；3）成熟肽段，主要的功能肽段，参与构成肺泡表面活性物质；4）C端肽段，不影响 SP-B的转运但是在维持lamellar小体即 SP-B在细胞中的储存形式的稳定中有重要作用[17]。我们所关注的 $\mathrm { S P - B + 1 5 8 0 }$ 多态性位点即位于N端肽段内。在我们构建的人SP-B转基因小鼠模型中，携带T基因和C基因的小鼠无论是在生理条件下还是在肺炎模型中均表现出相似的SP-B 蛋白表达水平，提示我们该多态性位点对 SP-B蛋白的转运、水解和分泌没有明显影响，可能是通过其他途径影响 SP-B蛋白的功能，如蛋白质的加工修饰，需要后续研究进一步的证实。
+
+目前，许多研究小组已经开展了大量的关于SP-B $+ 1 5 8 0$ 基因多态性与肺部疾病的关系的研究，其研究结果显示不同的等位基因确实对肺部疾病有不同的敏感性。C/C 基因型在新生儿呼吸窘迫综合征中出现的比较频繁[18]，而T/T 基因型在间质性肺疾病（interstitiallung disease，ILD)中具有保护作用[19].携带 C等位基因的个体较携带T等位基因的个体肺损伤程度更重[20].不同等位基因对肺部疾病的不同影响的具体机制目前还不清楚，可能是由于等位基因T取代C之后造成该位点参与编码的氨基酸由原来的苏氨酸替换为异亮氨酸，使 SP-B蛋白分子上一个N-糖基化修饰位点的消失[21]。N-糖基化作为一种重要的转录后修饰方式，广泛地参与蛋白质的折叠、分泌、转运、稳定和蛋白质的生物学活性等过程[22.23]在我们的研究中，SP-B蛋白的N-糖基化位点的丢失并不影响 SP-B蛋白的转运和分泌，其可能会通过影响 SP-B蛋白的结构和构象进而影响 SP-B蛋白的稳定性和生物学活性的发挥。
+
+# 4结论
+
+综上所述，我们成功地构建了 $+ 1 5 8 0$ 位点携带不同等位基因的人SP-B转基因小鼠，并成功地构建了细菌性肺炎模型，为今后进一步研究人SP-B蛋白的生理功能与基因 $+ 1 5 8 0$ 单核苷酸多态性之间的关系提供了有力的工具，为今后深入地研究 SP-B $+ 1 5 8 0$ 位点不同等位基因在肺炎症性疾病发生、发展中的作用奠定了基础。
+
+# 5致谢
+
+我们衷心感谢Jeffrey A.Whitsett 和 Stephan W.Glasser 教授(辛辛那提儿童研究基金会)慷慨赠送 SP-B KO 小鼠和3.7-hsp-c/SV40 载体。本研究工作由NIH基金HL096007、迈克尔·康诺利捐赠基金、亨德瑞基金和天津医科大学科学基金2013KY04资助完成。
+
+# 参考文献
+
+[1]. Mazela,J., T.A. Merritt, J. Gadzinowski, et al., Evolution of pulmonary surfactants for the treatment of neonatal respiratory distress syndrome and paediatric lung diseases. Acta Paediatrica,2006.95(9): 1036-1048.
+
+[2]. Celli，B.R.，C.G. Cote, J.M. Marin，et al.， The body-mass index，airflow obstruction, dyspnea，and exercise capacity index in chronic obstructive pulmonary disease. New England Journal of Medicine, 2004.350(10): 1005-1012.
+
+[3]. Glasser， S.W.，T.R. Korfhagen，T.Weaver，et al.，cDNA and deduced amino acid sequence of human pulmonary surfactant-associated proteolipid SPL (Phe). Proceedings of the National Academy of Sciences, 1987.84(12): 4007-4011.
+
+[4]. PILOT-MATIAS, T.J.， S.E. KISTER, J.L. FOX, et al.， Structure and organization of the gene encoding human pulmonary surfactant proteolipid SP-B. DNA，1989.8(2): 75-86.   
+[5]. Akella， A. and S.B. Deshpande， Pulmonary surfactants and their rolein pathophysiology of lung disorders. Indian Journal ofExperimental Biology. 2013 .51(1):5-22   
+[6]. Nogee, L.M., G. Garnier, H. Dietz, et al., A mutation in the surfactant protein B gene responsible for fatal neonatal respiratory disease in multiple kindreds. Journal of Clinical Investigation, 1994. 93(4): 1860-1863.   
+[7]. Clark，H.and L.S. Clark. The genetics of neonatal respiratory disease. Seminars in fetal and neonatal medicine. 2005.10(3):271-282   
+[8]. Wallot，M.，C. Wagenvoort， K.-M. Muller，et al.， Congenital alveolar proteinosis caused by α novel mutation of the surfactant protein B gene and misalignment of lung vessels in consanguineous kindred infants. European journal of pediatrics,1999. 158(6): 513-518.   
+[9]. Tredano,M.，R.M. van Elburg,A.G. Kaspers,et al., Compound SFTPB 1549C-→ GAA (121ins2) and 457delC heterozygosity in severe congenital lung disease and surfactant protein B (SP-B) deficiency. Human mutation,1999.14(6): 502-509.   
+[10]. Ballard,P.L.,L.M. Nogee,M.F. Beers, et al., Partial deficiency of surfactant protein B in an infant with chronic lung disease. Pediatrics,1995.96(6): 1046-1052.   
+[11]. Dunbar，A.E.，S.E.Wert，M. Ikegami，et al.， Prolonged survival in hereditary surfactant protein B (SP-B) deficiency associated with α novel splicing mutation. Genetics in Medicine, 2000. 7(7): 275-282.   
+[12].Taponen，S.， J.M. Huusko，U.E. Petaja-Repo，et al.，Allele-specific N-glycosylation delays human surfactant protein B secretion in vitro and associates with decreased protein levels in vivo. Pediatric research, 2013.74(6): 646-651.   
+[13]. Quasney,M.W., G.W.Waterer, M.K. Dahmer, et al.,Association between surfactant protein $B +$ 1580 polymorphism and the risk of respiratory failure in adults with community-acquired pneumonia\*. Critical care medicine, 2004. 32(5): 1115-1119.   
+[14]．Wang，G.， X. Guo,S. DiAngelo,et al.， Humanized SFTPA1 and SFTPA2 Transgenic Mice Reveal Functional Divergence of SP-A1 and SP-A2 FORMATION OF TUBULAR MYELIN IN VIVO REQUIRES BOTH GENE PRODUCTS. Journal of Biological Chemistry, 2010. 285(16): 11998-12010.   
+[15]. Lin,Z., C. Pearson, V. Chinchill, et al., Polymorphisms of human SP-A, SP-B,and SP-D genes: association of SP-B Thr131lle with ARDS. Clin Genet, 2000. 58(3): 181-191.   
+[16]. Cole，F.S.， Surfactant protein B: unambiguously necessary for adult pulmonary function. Am J Physiol Lung Cell Mol Physiol, 2003.285(3): L540-542.   
+[17]. Ueno,T., S. Linder, C.-L. Na,et al.， Processing of pulmonary surfactant protein B by napsin and cathepsin H. Journal of Biological Chemistry， 2004. 279(16): 16178-16184.   
+[18]. Yin, X., F. Meng, Y. Wang, et al., Surfactant protein B deficiency and gene mutations for neonatal respiratory distress syndrome in China Han ethnic population. Int J Clin Exp Pathol, 2013. 6(2): 267-272.   
+[19]. Sumita,Y., T. Sugiura, Y. Kawaguchi, et al., Genetic polymorphisms in the surfactant proteins in systemic sclerosis in Japanese: T/T genotype at 1580 C/T (Thr131lle) in the SP-B gene reduces the risk of interstitial lung disease. Rheumatology (Oxford), 2008. 47(3): 289-291.   
+[20]. Dahmer，M.K.， P. O'Cain, P.P. Patwari， et al.， The influence of genetic variation in surfactant protein B on severe lung injury in African American children. Crit Care Med, 2011. 39(5): 1138-1144.   
+[21]．Wang, G., N.D. Christensen,B.Wigdahl,et al.， Differences in N-linked glycosylation between human surfactant protein-B variants of the C or T allele at the single-nucleotide polymorphism at position 1580: implications for disease. Biochem J, 2003.369(Pt 1): 179-184.   
+[22]. Skropeta, D., The effect of individual N-glycans on enzyme activity. Bioorg Med Chem, 2009.17(7): 2645-2653.   
+[23]. Moremen，K.W.，M. Tiemeyer，and A.V. Nairn，Vertebrate protein glycosylation: diversity, synthesis and function. Nat Rev Mol Cell Biol,2012.13(7): 448-462.
+
+# Construction of human SP-B protein transgenic mice and bacterial pneumonia model
+
+GE Lin1\* LIU Xin-yu2\* WANG Guirong3#
+
+(1.Tianjin Medical University， Department of Biochemistry and MolecularBiology， Tianjin 300070， China； 2.Key Laboratory of Hormones and Development(Ministry of Health)， Tianjin Key Laboratory of Metabolic Diseases， TianjinMetabolic Diseases Hospital & Tianjin Institute of Endocrinology， TianjinMedical University， 300070 Tianjin， China； 3.SUNY Upstate Medical University,Department of Surgery， Syracuse NY 13210，USA)
+
+Abstract Objective: to construct the transgenic mice expressing human SP-B gene with different alleles in $+ 1 5 8 0$ SNP and the bacterial pneumonia model. Methods: The hSP-B gene was integrated into the mouse chromosome to obtain the $\mathrm { F } _ { 0 }$ generation mice by microinjection technology. The mice were mated with mSP-B gene knockout mice to eliminate the mSP-B gene gradually. Using PCR technique to identify the genotype of mice,and to determine the allele of $+ 1 5 8 0$ locus by sequencing. The Pseudomonas aeruginosa was inoculated into the lung of mice to make the model of bacterial pneumonia, and the control group was injected with the same amount of sterile saline. Results: F2 mice expressed human SP-B protein only，and the expression level of SP-B protein was similar to that in human lung. The $+ 1 5 8 0$ locus alleles T was found in 3 mice families and allele
+
+C was found in 1 mice family. After infection for 24 hours， the inflammatory exudation in the alveolar of mice was obvious. A large number of neutrophils were observed in mice alveolus. SP-B protein level was significantly reduced, but there was no significant difference between the different alleles. Conclusions: the construction of human SP-B protein expression transgenic mice model and bacterial pneumonia model were successful. The mice will be a powerful tool for the further studies on physiological function of human SP-B protein and the relationship between $+ 1 5 8 0$ gene polymorphism and lung diseases.
+
+Key words: SP-B protein ; SNP; transgenic mice ;bacterial pneumonia

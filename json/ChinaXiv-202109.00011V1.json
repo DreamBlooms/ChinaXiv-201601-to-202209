@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of water and nitrogen on growth and relative competitive ability of introduced versus native C4 grass species in the semi-arid Loess Plateau of China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DING Wenli', XU Weizhou², GAO Zhijuan1, XU Bingcheng1.,3\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1State KeyLaboratoryofSoilErosionandDrylandFarming ontheLoessPlateau,NorthwestA&FUniversity,Yangling   \n712100,China;   \n² College of Life Science,Yulin University, Yulin 719000,China;   \n3Institute ofSoil and Water Conservation, ChineseAcademyofSciences and Ministryof Water Resources,Yangling712100,   \nChina ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Switchgrass is an introduced $\\mathrm { C } _ { 4 }$ grass in the semi-arid Loess Plateau of China,but there is a lack of information to assess its ecological invasive risk.In this study, Old World bluestems (native $\\mathrm { C _ { 4 } }$ grass) and switchgrass were sowed at five mixture ratios (8:0,6:2,4:4,2:6 and O:8) under two soil water levels $(80 \\%$ field capacity (FC) and $40 \\%$ FC)and two nitrogen $( \\mathrm { N } )$ treatments (O and $1 0 0 \\mathrm { \\ m g \\ N / k g }$ dry soil, termed $\\mathrm { N _ { 0 } }$ -unfertilized and $\\mathrm { N } _ { 1 }$ -fertilized treatments,respectively) in a pot experiment in 2012. Biomass, root morphological traits and relative competitive abilities of these two species were analyzed.Results showed that biomass of both species was significantly greater under $80 \\%$ FCor $\\mathrm { \\Delta N }$ fertilization,and switchgrass had a relatively larger root:shoot ratio (RSR). Total root length (TRL) and root surface area (RSA) of switchgrass were significantly higher under $80 \\%$ FC irrespective of $\\mathrm { \\Delta N }$ treatment,while those of Old World bluestems were only significantly higher under $\\mathrm { \\Delta N }$ fertilization. $\\mathrm { \\Delta N }$ had no significant effect on TRL and RSA of switchgrass, while RSA of Old World bluestems significantly increased under $80 \\%$ FC and $\\mathrm { \\Delta N }$ fertilization. Under $40 \\%$ FC and $\\mathrm { N _ { 0 } }$ -unfertilized treatment， the aggressivity of Old World bluestems was larger than zero at 2:6 and 4:4 mixture ratios of two species, whereas it was close to zero at 6:2 mixture ratio. Root competitive ability of switchgrass significantly increased under $80 \\%$ FCor $\\mathrm { \\Delta N }$ fertilization. The aggressivity of Old World bluestems was negative at 6:2 mixture ratio under $80 \\%$ FC and N fertilization, while it was positive at 2:6 mixture ratio. Switchgrass may become more aggressive when $\\mathrm { \\Delta N }$ deposition or rainfall increases, while a proper mixture ratio with appropriate water and $\\mathrm { \\Delta N }$ management could help with grassland management in the semi-arid Loess Plateau. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: aggressivity; nitrogen deposition; relative competitive ability; root trait; water stress ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Developingstableand high-yield artificialgrassand isimportant forpromoting ecological environment in the semi-arid Loess Plateau, China (Zhang et al., 2O07). However, precipitation is relatively low and unevenly distributed annually and seasonally in this area; and seasonal drought ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "occurs frequently and threatens plant growth.Besides,it is hard for the soil to accumulate organic matter because of severe soil and water erosion and low plant productivity. Water and nitrogen (N) are two limiting factors in the establishment of artificial grassland communities in the region (Shan and Xu, 2009). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The lack of distinct grass species in the Loess Plateau, especially herbaceous grass species, has led to problems of sole grass variety,low quality and low quantity. Introducing excellent grass species is a good option to enrich grass species. Switchgrass (Panicum virgatum L.), a perennial grass native to North America, was introduced to the Loess Plateau of China in the 199Os because of its high production, high adaptability to drought and nutrient-poor soils,and advantages in water and soil conservation. It has enriched local herbaceous grass species,and has proved to be successful in the region (Shui et al.,20l0). However, introducing switchgrass as an exotic species to this area could cause biological invasion and threaten native biodiversity and local ecosystem, as it was reported to have a high invasive potential in California (Barney and DiTomaso, 2008). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The invasion stage of non-indigenous species includes transport, colonization, establishment and landscape spread with interspecific competition that is considered as one of the most important processes in the establishment stage (Theoharides and Dukes, 2007). Competitive exclusion by native plant species seems to be a major filter in excluding invasive species (Keane and Crawley, 2002), either through single strongly competitive species or a suite of species to reduce limited resources. The highly competitive ability of alien species could potentially facilitate invasion (Roy,1990; Levine et al., 2003). Therefore,it is important to consider the competitive ability of native species and exotic species. Old World bluestems (Bothriochloa ischaemum Keng), one of the dominant species in the natural community in the semi-arid Loess Plateau of China, is a perennial $\\mathrm { C } _ { 4 }$ herbaceous grass species and has a high tolerance to drought and poor soils (Xu et al., 2013). It is an ideal native species that could be used to estimate the invasive potential of switchgrass (Keane and Crawley, 2002). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the resource hypothesis suggests, increased resource availability (light, water and soil nutrients） tends to facilitate invasion by exotic plants (Davis et al.， 20oO; Daehler, 2003; Blumenthal, 2005). This raises the concern of soil $\\mathrm { \\Delta N }$ availability,which is significantly enhanced by increased $\\mathrm { \\Delta N }$ deposition (Galloway et al.,2008；Bobbink et al., 201O). Many studies have proved that $\\mathrm { \\Delta N }$ deposition could facilitate the invasion of non-native species by increasing the growth and competition of non-native species more strongly than those of native species (Rao and Allen,2010; He et al.,201; Liu et al., 2017). Water, another limiting factor in the semi-arid Loess Plateau of China, may also afect the invasion of alien species by affecting their growth and competition to native species (Blumenthal et al., 2008; Liu et al.,2017). Therefore, it is necessary to include the effects of water and $\\mathrm { \\Delta N }$ when studying the competitive relationship between switchgrass and Old World bluestems. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant root morphological traits, including root hair, root mass, root length and root area, play important roles in resource acquisition (water and nutrients),which could contribute to plant growth and competitive ability (Aerts et al., 1991; Bennett et al., 2016; Ravenek et al., 2016; Semchenko et al., 2O18). For example, N addition could increase the competitive ability of an invasive plant (Solidago canadensis)by enhancing its root biomass (Ren et al.,2019). Semchenko et al. (2O18) also found that species with the lower specific root length and less branched roots tended to be better at tolerating competition. Thus,it would be interesting to include root morphological traits in the study of competition between switchgrass and Old World bluestems under variable resource supplies. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Switchgrass can be used as a biofuel and lots of studies focused on raising cellulosic ethanol production from switchgrass, either on the physiological or the molecular level (Sanderson et al., 2006; Mitchell et al., 2008; Keshwani and Cheng,2009). Switchgrass is the ideal forage, because of its low requirements for agricultural inputs and positive environmental impacts (Ashworth et al.,2019).Its resistance to drought,heat,cold and alkaline stresses,its benefits in soil and water conservation,nutrient recovery from runoff and potential for carbon sequestration were also studied (Muir et al.,2001; Xu et al.,2003; Cooney et al.,2017; Collins et al.,2020). However, few studies are assessing the relative competitive abilities of switchgrass and local herbaceous grasses in the semi-arid Loess Plateau of China,and how this ability difered as to the changes of mixture ratio, water and N supply. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Given that switchgrass was relatively poorly adapted to drought and its biomass was less responsive to $\\mathrm { \\Delta N }$ addition compared with Old World bluestems (Xu et al., 20o3),and increased resources normally favor exotic plants to reproduce (Davis et al.,2Ooo). We hypothesized that: (1) increased water and/or $\\mathrm { ~ N ~ }$ supply would improve the growth of Old World bluestems and switchgrass; (2） the competitive ability of switchgrass would be weaker than Old World bluestems under low water and $\\mathrm { \\Delta N }$ conditions; and (3） increased water and/or $\\mathrm { \\Delta N }$ supply would increase competitive ability of switchgrass to Old World bluestems. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Plant materials ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Old World bluestems and switchgrass were used in this experiment. Seeds of Old World bluestems were collected in October, 201l from the experimental fields at Ansai Research Station (ARS) of the Chinese Academy of Sciences (CAS) ( $3 6 ^ { \\circ } 5 1 ^ { \\prime } \\mathrm { N }$ ， $1 0 9 ^ { \\circ } 1 9 ^ { \\prime } \\mathrm { E }$ ， $5 3 0 \\mathrm { ~ m ~ }$ a.s.l.), located at the center of semi-arid hilly gully region on the Loess Plateau, China. The seeds were stored in a sealed container of the laboratory under natural dry conditions. The variety of switchgrass is Alamo,and the seeds were also collected from the same place in October, 2005. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Growth conditions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Soil property ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The soil was collected from the upper $2 0 ~ \\mathrm { c m }$ of a farm field at ARS,CAS.The soil moisture content at field capacity (FC) was $0 . 2 0 ~ \\mathrm { g / g }$ . Soil $\\mathfrak { p H }$ （ $\\mathrm { 1 0 ~ g }$ dry soil in the $2 5 ~ \\mathrm { m L }$ water) was 8.77, and soil organic matter content, soil total $\\mathrm { \\Delta N }$ ，total phosphorus (P)，and total potassium (K) contents were $0 . 3 6 0 \\%$ ， $0 . 0 2 5 \\%$ ， $0 . 0 6 6 \\%$ and $1 . 9 0 0 \\%$ ， respectively. Soil available N, $\\mathrm { ~ \\bf ~ P ~ }$ and K contents were 19.6, 50.8 and $1 0 1 . 6 ~ \\mathrm { { m g / k g } }$ , respectively. After being dried and sealed, we packed $3 . 8 ~ \\mathrm { k g }$ soil into each cylindrical pot ( $2 0 \\ \\mathrm { c m }$ in diameter and $1 6 ~ \\mathrm { c m }$ in depth),and a vertical plastic pipe was placed adjacent to the inner wall of each pot for water supply. The experiment was conducted under a rainfall shelter at ARS, CAS from April to November, 2O12. The annual mean temperature was $1 2 . 9 ^ { \\circ } \\mathrm { C }$ , the maximum mean temperature was $2 6 . 7 ^ { \\circ } \\mathrm { C }$ in July, and the minimum temperature from $- 1 . 0 ^ { \\circ } \\mathrm { C }$ to $- 2 . 0 ^ { \\circ } \\mathrm { C }$ in January. The mean annual precipitation was $6 3 8 ~ \\mathrm { m m }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Soil FC ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soil FC was determined as follows: (1) three $1 0 0 \\mathrm { - c m } ^ { 3 }$ core samples were filled with the disturbed soil at a bulk density of $1 . 2 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ; (2) when core samples were saturated, they were placed on a coarse sand soil to drain water freely,and the surface was covered to prevent evaporation; (3) soil wet mass $( \\mathrm { m } _ { \\mathrm { w } } )$ was determined until the weight of soil core was constant (i.e., two measurements differed $< 0 . 2 0 \\ \\mathrm { g }$ ).After that, core samples were dried in an oven at $1 0 5 ^ { \\circ } \\mathrm { C }$ for $4 8 \\mathrm { ~ h ~ }$ and dry soil mass $\\mathrm { ( m _ { d } ) }$ was calculated; and (4) FC was calculated by the following equation: $\\scriptstyle \\mathrm { F C = ( m _ { w } - m _ { d } ) / m _ { d } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Mixture ratio of species ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A replacement series design (de Wit, 1960; Jolliffe,2000) was used with a density of 8 plants per pot. Five mixture ratios of Old World bluestems (B) to switchgrass (P) (8:0, 6:2, 4:4,2:6 and 0:8) were used (Fig.1). The ratios of 8:0, 6:2,4:4,2:6,and 0:8 for these two species were abbreviated as B8P0, B6P2,B4P4,B2P6 and B0P8 in the following figures. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b5f80f8854bbaf37b5712830c95a378a67039abec2aecc39cebf53852745d96.jpg",
+        "img_caption": [
+            "Fig.1Schematic diagram of the experimental design.Open and filled circles represent Old World bluestems and switchgrass,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.4 N treatment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Two N fertilization rates (O and $1 0 0 \\ \\mathrm { m g \\ N / k g }$ dry soil, termed $\\mathrm { N } _ { 0 }$ -unfertilized and $\\mathrm { N } _ { 1 }$ -fertilized treatments,respectively） were applied in this experiment. $\\mathrm { \\Delta N }$ was applied as $\\mathrm { C O } ( \\mathrm { N H } _ { 2 } ) _ { 2 }$ (urea) and mixed with soil uniformly during pot filing. There were three replicates for each treatment, and all pots were distributed in a completely random design inside the rainfall shelter. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.5 Water treatment ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Seeds were sown on 3 April and soil water content was maintained at $80 \\%$ FC during the seedling establishment. When the seedlings of both species had three leaves and were approximately 0.10 m high ( $2 5 { \\mathrm { ~ d ~ } }$ after sowing), seedlings were thinned to 8 plants per pot, and water treatments $( 4 0 \\%$ FC and $80 \\%$ FC） started. Before the water treatment, a layer of perlite was spread on the soil surface of each pot (approximately $2 . 0 \\ \\mathrm { c m } \\backslash$ ） to reduce soil evaporation. Daily evapotranspiration was assessed by weighing the pots at 18:Oo (LST) daily,and water was added via the plastic pipes to maintain the desired level. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Biomass ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plants were harvested at the end of growing season on October 5, 20l2 for both species. Shoots were collected and separated into leaf and stem,and roots were collected and carefully washed free of soil. Weights of each part were determined after drying at $7 5 ^ { \\circ } \\mathrm { C }$ for $^ { 7 2 \\mathrm { ~ h ~ } }$ in an oven. Root:shoot ratio(RSR) was calculated. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Root morphological trait ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "About 1/3 of total roots were subsampled for morphological trait measurements. The selected root samples were dyed with $0 . 5 \\%$ methylene blue solution for $5 \\mathrm { { m i n } }$ ， gently dried with a paper tissue, and put between two transparent plastic sheets. Then, allsamples were scanned by a BENQ color scanner 5560 (BENQ Science and Technology Ltd., Shanghai, China) (Xu et al., 2012; Wang et al., 2018） and analyzed by WinRHIZO 2009 (Regents Instruments Canada lnc., Quebec City, Quebec, Canada) to determine total root length (TRL), root surface area (RSA) and root average diameter (RAD). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Water use efficiency(WUE) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All pots were weighted and watered at 18:00,and the water added was recorded. The pots filled with soil but without plants were used to estimate soil evaporation. Soil evaporation was subtracted from total water consumption.WUE was defined as the amount of total biomass produced per unit of water consumed by plants under each water and $\\mathrm { \\Delta N }$ treatment (WUE， g $\\mathrm { D W / k g H _ { 2 } O ) }$ . The formula is as follow: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WUE $\\mathop { : = }$ total biomass/(total water consumption-soil evaporation). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.6 Competitive index ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Competitive index is a useful tool for estimating the effect and intensity of competition (Goldberg et al.,1999),and there are two indices that are commonly used (de Wit and Van den Bergh,1965; Jolliffe,2oo0). Aggressivity (A) is considered as an appropriate expression for the intensity of interspecific competition, while relative yield total (RYT) is commonly used in measuring the effect of competition (McGilchrist and Trenbath,1971; Grace,1995; Weigelt and Jolliffe,2003). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These two competitive indices are calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { \\mathrm { A { = } Y _ { a b } / ( Y _ { a a } { \\times } Z _ { a b } ) - Y _ { b a } / ( Y _ { b b } { \\times } Z _ { b a } ) , } } \\\\ { \\mathrm { R Y T { = } Y _ { a b } / Y _ { a a } + Y _ { b a } / Y _ { b b } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { Y _ { a b } }$ is the biomass of Old World bluestems in the mixture $\\scriptstyle ( { \\mathrm { g / p o t } } )$ ： $\\mathrm { Y _ { a a } }$ is the biomass of Old World bluestems in monoculture $\\scriptstyle ( { \\mathrm { g / p o t } } )$ $Z _ { \\mathrm { a b } }$ is the ratio of Old World bluestems to switchgrass in the mixture; $\\mathrm { Y _ { b a } }$ is the biomass of switchgrass in the mixture $\\scriptstyle ( { \\mathrm { g / p o t } } )$ ：， ${ \\mathrm { Y } } _ { \\mathsf { b b } }$ is the biomass of switchgrass in monoculture $\\scriptstyle ( { \\mathrm { g / p o t } } )$ ; and $Z _ { \\mathrm { { b a } } }$ is the ratio of switchgrass to Old World bluestems in the mixture. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the index of A, $\\mathbf { A } { < } 0$ indicates Old World bluestems is less competitive than switchgrass; $\\scriptstyle \\mathbf { A } = 0$ indicates Old World bluestems is similarly competitive with switchgrass; and $\\mathrm { A } { > } 0$ indicates ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Old World bluestems is more competitive than switchgrass. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the index of RYT, $\\mathrm { R Y T = } 1 . 0$ indicates that there is a competition between two species; $\\mathrm { R Y T } { < } 1 . 0$ indicates that there is a mutual antagonism between two species; and $\\mathrm { R Y T > } 1 . 0$ indicates that there is a niche differentiation between two species (Hector, 1998). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.7 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generalized least square models were used to test the differences in shoot biomass,root biomass, total biomass,WUE, TRL, RSA, RAD, A and RYT among water levels, N treatments, mixture ratios and their interactions. The residuals of each model were visually checked for heteroscedasticity and in the presence of heteroscedasticity,and we specified appropriate variance structures based on Akaike Information Criterion if they significantly improved the model (Zuur et al.,20o9). Data and statistical analyses were performed using R software platform (R Core Team，2O19).The effect package was used to determine means, standard errors and $9 5 \\%$ confidence intervals (Fox, 2003). The Multcomp package was used to do Tukey's post hoc comparisons and define differences at $P { = } 0 . 0 5$ level. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Biomass and RSR ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Water, N and mixture ratios significantly affected the growth and RSR of Old World bluestems and switchgrass (Table 1). Regardless of water, the biomass of both species under N fertilization was significantly higher than that under no $\\mathrm { \\Delta N }$ fertilization. The biomass of both species was also significantly higher under $80 \\%$ FC than under $40 \\%$ FC irrespective of N treatment. The shoot, root and total biomass of each individual species decreased as its corresponding proportion decreased in the mixture (Figs. 2 and 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb9f8a2b60d132aa0bf7e60a68edd2796d47af0f55d11e99da4b4db0f1b0bb1b.jpg",
+        "table_caption": [
+            "Table1Analysis of variance of the efects of soil water,nitrogen, mixture ratioand their interactions on shoot, root and total biomass,root:shoot ratio (RSR) and water use efficiency(WUE)of Old World bluestems (B)and switchgrass (P) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Species</td><td>Water (W)</td><td>Nitrogen (N)</td><td>Mixture ratio (MR)</td><td>WxN</td><td>WxMR</td><td>N×MR</td><td>W×N×MR</td></tr><tr><td rowspan=\"3\">Shoot biomass</td><td>B</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.422</td><td>0.001</td><td>0.776</td></tr><tr><td>P</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.257</td><td><0.001</td><td>0.402</td></tr><tr><td>B+P</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.031</td><td><0.001</td><td>0.492</td></tr><tr><td rowspan=\"3\">Root biomass</td><td>B</td><td>0.001</td><td><0.001</td><td><0.001</td><td>0.007</td><td>0.218</td><td><0.001</td><td>0.782</td></tr><tr><td>P</td><td>0.003</td><td><0.001</td><td><0.001</td><td>0.045</td><td>0.176</td><td>0.356</td><td>0.285</td></tr><tr><td>B+P</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.002</td><td>0.291</td><td><0.001</td><td>0.477</td></tr><tr><td rowspan=\"3\">Total biomass</td><td>B</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.470</td><td>0.914</td><td><0.001</td><td>0.264</td></tr><tr><td>P</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.386</td><td>0.529</td><td>0.321</td><td>0.744</td></tr><tr><td>B+P</td><td><0.001</td><td><0.001</td><td>0.160</td><td>0.870</td><td>0.434</td><td>0.691</td><td>0.724</td></tr><tr><td rowspan=\"3\">RSR</td><td>B</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.670</td><td><0.001</td><td>0.588</td></tr><tr><td>P</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.346</td><td><0.001</td><td>0.660</td></tr><tr><td>B+P</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.378</td><td><0.001</td><td>0.673</td></tr><tr><td>WUE</td><td>B+P</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.020</td><td>0.646</td><td>0.727</td><td>0.863</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Total shoot biomass in the mixture was significantly lower than that of Old World bluestems in monoculture,and higher than that of switchgrass in monoculture.Total root biomass in the mixture was significantly lower than those of both species in monoculture (Fig. 2). Total biomass in the mixture was significantly lower than that of Old World bluestems in monoculture, while it was higher than that of switchgrass in monoculture only within N fertilization (Fig. 3). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "80%FC 40%FC 80%FC 40%FC 504 Bb.I (a) N-unferied rrereraa 20165 BcI (g) rrerhreoat Ba Ba Ac · Ba Ab 12- Bb · 3020100 BcH ，Bb Bd士 B西 aBa L 会 bA Aa 84 BbE Ba BbFa B 合 AI.A 舍Aa 鑫 b 王 1 0 固 0 500 30 BB 中 兰 (c) A 会 (d) rrrarnrrtn 262s i Ba 1 Aa AaT 国国 鑫 X 1 ①AI Prrnaarniutd B 福 □ 品 H 0 5040 403020 IBi BI BbB B 品 B Bb BaBa ③B Ad AbI bc A 1 鑫 (f) aptranas 15128 Ba Bb山 Ba Ba B 士 Bat B Ba (B Bb A出 AI A AA A中 TA ①AbI rndnarrtstg 101 A A A 4 □ A1 B 0 0 B8P0 B6P2 B4P4 B2P6 B0P8 B8P0 B6P2 B4P4 B2P6 B0P8 B8P0B6P2 B4P4 B2P6B0P8 B8P0 B6P2 B4P4 B2P6 B0P8 Mixture ratio of two species Mixture ratio of two species ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "80%FC 40%FC 80%FC 40%FC   \n70 BcT (a) N-unfertilized erereea 2.0 (g) rrerao   \n6050 · B 1.6   \n40 Bat 1.2 b h   \n3020 Bc Bb Ba Bb Ac ab D 6 0.8 山 a ab + abB B bB BIE   \n10 公 A 0.4 A A 1 0 0.0 (c) (d) b (i) ab Phirraainiutn 1.6 1 Bb   \n4030 B Bb AcT 1.2 A B ab BaT   \n20 品品 再 B A ACTA A 84 4 A   \n0 高 0.0   \n70 BcT (e) ndu 2.0-   \n605040 中 Bb Ba ACT 1611 C FA c BbI   \n3020 Bb Ba Ba B Ba电 Ac A G A T 面 A AO 0.8 A a A Aa a 8 a a B 中 B 4T   \n10 A A H A 0.4 a Ha B 0 0.0 B8P0B6P2 B4P4 B2P6B0P8 B8P0 B6P2 B4P4 B2P6 B0P8 B8P0 B6P2 B4P4 B2P6 B0P8 B8P0 B6P2 B4P4 B2P6 B0P8 Mixture ratio of two species Mixture ratio of two species ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Barsare standard errors. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RSR of Old World bluestems and switchgrass under $\\mathrm { \\Delta N }$ fertilization was generally significantly lower than those under no $\\mathrm { \\Delta N }$ fertilization irrespective of water supply. RSR of both species was also significantly lower under $80 \\%$ FC than under $40 \\%$ FC for $\\mathrm { \\Delta N }$ fertilization, while there was no significant difference between water levels for no $\\mathrm { \\Delta N }$ fertilization. RSR of switchgrass was significantly lower in the mixture than in monoculture, whereas RSR of Old World bluestems was significantly higher in the mixture than in monoculture for no N fertilization (Fig. 3). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Root morphological trait ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The mixture of two species did not have any significant effects on TRL and RSA of Old World bluestems and switchgrass (Table 2). TRL and RSA of switchgrass were significantly higher under $80 \\%$ FC than under $40 \\%$ FC irrespective of $\\mathrm { \\Delta N }$ treatment,while those of Old World bluestems were only significantly higher under $80 \\%$ FC than under $40 \\%$ FC for no $\\mathrm { \\Delta N }$ fertilization (Fig. 4). N showed no significant effect on TRL and RSA of switchgrass, and RSA of Old World bluestems was significantly higher under N fertilization for $80 \\%$ FC.However, TRL and RSA of Old World bluestems were significantly lower under $\\mathrm { \\Delta N }$ fertilization for $40 \\%$ FC (Fig. 4). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "Table 2Analysis of variance of the effects of soil water,nitrogen,mixture ratio and their interactions on total root length,root surface area and root average diameter of Old World bluestems (B)and switchgrass (P) "
+        ],
+        "table_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/afa3aa3777c35d777ae7d5e396243c8497acbffd2ffc55aa9c6900a8445c0e84.jpg",
+        "img_caption": [
+            "Fig.4Total root length (a-d)and root surface area (e-h)of Old World bluestems (Bothriochloa ischaemum)and switchgrass (Panicum virgatum) under different soil water levels ( $40 \\%$ FC and $80 \\%$ FC),nitrogen (N) treatments (0 and $1 0 0 \\mathrm { m g } \\mathrm { N } / \\mathrm { k g }$ dry soil, termed $\\mathrm { N } _ { 0 }$ -unfertilized and $\\mathrm { N } _ { 1 }$ -fertilized treatments,respectively) and mixture ratios. Barsare standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The mixture of two species had no significant effects on RAD of Old World bluestems. RAD of switchgrass varied among mixture ratios,with the largest at B2P6 under $40 \\%$ FC (Fig. 5). In monoculture, RAD of Old World bluestems was significantly larger under $80 \\%$ FC for no N fertilization,while it showed an opposite trend for $\\mathrm { \\Delta N }$ fertilization. Compared with $40 \\%$ FC, RAD of switchgrass was always larger under $80 \\%$ FC，except that at B2P6.RAD of Old World bluestems in monoculture and B2P6 was significantly larger under $\\mathrm { \\Delta N }$ fertilization for $40 \\%$ FC, whereas RAD of switchgrass from all the mixture ratios was always larger under $\\mathrm { \\Delta N }$ fertilization (Fig. 5). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "80%FC 40%FC 1.8 N-ueferilied (a) 1. B (b) rrrerreetrroreetrttn 14 五 BA T B T 1.4 1.0 1.0   \n0.8 0.8   \nuu) 0.6 0.6   \noeeeeeeeeegeee 0.4 0.4 0.2 0.2 0.0 0.0 1.8 (c) 1.8 (d) 1.6 BB BB BB 1. AAb b AA npraannrtd A \\*工 1.2 1.0 H 十 1.2- 1.0 ab\\*H H A 工 L 1 a 0.8 0.8- 0.6 0.6- 0.4 0.4 0.2 0.2- 0.0 0.0- B8P0B6P2B4P4B2P6B0P8 B8P0B6P2B4P4B2P6B0P8 Mixture ratio of two species ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Competitive index ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mixture, water and $\\mathrm { \\Delta N }$ significantly affected the values of A of Old World bluestems compared with switchgrass (Table 3). The sequence of A values calculated from shoot, root and total biomass showed as ${ \\bf B } 6 { \\bf P } 2 { \\le } { \\bf B } 4 { \\bf P } 4 { \\le } { \\bf B } 2 { \\bf P } 6$ . The values of A from shoot, root and total biomass were close to zero at B6P2 under $40 \\%$ FC and no $\\mathrm { \\Delta N }$ fertilization,while they were negative under $80 \\%$ FC and/or N fertilization (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The value of A from shoot biomass under $80 \\%$ FC was significantly lower than that under $40 \\%$ FC within each mixture ratio and no $\\mathrm { \\Delta N }$ fertilization,while they were significantly higher at B4P4 and B2P6 under $\\mathrm { \\Delta N }$ fertilization.The value of A from shoot biomass under $\\mathrm { \\Delta N }$ fertilization was lower for $40 \\%$ FC,and the difference was only significant at B6P2.Within $80 \\%$ FC, the values of A from shoot biomass at B4P4 and B2P6 were significantly higher under $\\mathrm { \\Delta N }$ fertilization than under no $\\mathrm { ~ N ~ }$ fertilization, while the value of A from shoot biomass at B6P2 showed an opposite trend (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The value of A from root biomass at B6P2 was significantly lower under $80 \\%$ FC than under $40 \\%$ FC with no N fertilization, while water had no significant effect on those values at B4P4 and B2P6.The values of A from root biomass at B6P2 and B4P4 were significantly lower under $80 \\%$ FC than under $40 \\%$ FC with $\\mathrm { \\Delta N }$ fertilization,whereas the value of A from root biomass at B2P6 showed no significant difference between different water levels. The values of A from root biomass at B6P2 and B2P6 were significantly lower under $\\mathrm { \\Delta N }$ fertilization with $40 \\%$ FC, while N had no significant effect at B4P4. The values of A from root biomass at B6P2 and B4P4 were significantly lower under $\\mathrm { \\Delta N }$ fertilization with $80 \\%$ FC,while $\\mathrm { \\Delta N }$ had no significant effect at B2P6 (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The value of A from total biomass of each mixture ratio was significantly lower under $80 \\%$ FC than under $40 \\%$ FC with no $\\mathrm { \\Delta N }$ fertilization. The value of A from total biomass at B6P2 was also significantly lower under $80 \\%$ FC than under $40 \\%$ FC with $\\mathrm { \\Delta N }$ fertilization,while it showed an opposite trend for B2P6.The values of A from total biomass at B6P2 and B2P6 were significantly lower under N fertilization with $40 \\%$ FC,while there was no significant difference at B4P4. The value of A from total biomass at B2P6 was significantly higher under N fertilization with $80 \\%$ FC, whereas it showed an opposite trend at B6P2 (Table 4). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/8fc6f2e68059eb52c35a625137ffee7b432427669f569c26d2b670822a4a2b41.jpg",
+        "table_caption": [
+            "Table 3Analysis of variance for the eects of soil water, nitrogen,mixture ratio and their interactions on the aggressivity and relative yield total "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Source of variation</td><td rowspan=\"2\">df</td><td colspan=\"3\">Aggressivity (A)</td><td colspan=\"3\">Relative yield total (RYT)</td></tr><tr><td>Shoot</td><td>Root</td><td>Total biomass</td><td>Shoot</td><td>Root</td><td>Total biomass</td></tr><tr><td>Water (W)</td><td>1</td><td>0.002</td><td>0.543</td><td><0.001</td><td><0.001</td><td>0.035</td><td><0.001</td></tr><tr><td>Nitrogen (N)</td><td>1</td><td>0.019</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td></tr><tr><td>Mixture ratio (MR)</td><td>2</td><td><0.001</td><td><0.001</td><td><0.001</td><td><0.001</td><td>0.398</td><td>0.104</td></tr><tr><td>W×N</td><td>1</td><td>0.056</td><td><0.001</td><td>0.002</td><td><0.001</td><td>0.414</td><td>0.414</td></tr><tr><td>W×M</td><td>2</td><td>0.045</td><td>0.290</td><td>0.080</td><td>0.099</td><td>0.275</td><td>0.275</td></tr><tr><td>NxM</td><td>2</td><td><0.001</td><td><0.001</td><td>0.142</td><td>0.133</td><td>0.264</td><td>0.264</td></tr><tr><td>W×N×MR</td><td>2</td><td>0.007</td><td>0.032</td><td>0.059</td><td>0.557</td><td>0.804</td><td>0.804</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/c8f3ee2f71b00e4410447bd8a864e291a3bf30f3fcf7f66bda984c88faa8f60f.jpg",
+        "table_caption": [
+            "Table 4Aggressivity values of shoot,root and total biomass of Old World bluestems (B) to switchgrass (P) under different water and nitrogen (N) treatments "
+        ],
+        "table_footnote": [
+            "Notes:Diferent lowercase leters indicate significant diferences among mixture ratios under each water level $40 \\%$ FC and $80 \\%$ FC) and N treatment (O and $1 0 0 \\mathrm { ~ m g ~ N / k g }$ dry soil, termed $\\Nu _ { 0 }$ -unfertilized and $\\mathbf { N } _ { 1 }$ -fertilized treatments,respectively),while different uppercas letersindicatesignificantdierencesbetweentwosoilwaterlevelswithineachixtureratioandNtreatment,and\\*dicates significantdiferences betwen twoNtreatmentswithineachmixtureratioandsoilwaterlevel(basedonTukey'sposthocanalysis, $P { < } 0 . 0 5$ level).Mear $\\scriptstyle 1 \\pm \\mathrm { S E }$ $\\scriptstyle n = 3$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Mixture ratio</td><td>Shoot</td><td>Root</td><td>Total biomass</td></tr><tr><td rowspan=\"3\">No-unfertilized+80%FC</td><td>B6P2</td><td>-0.23±0.12aA*</td><td>-0.14±0.02aA*</td><td>-0.17±0.01aA*</td></tr><tr><td>B4P4</td><td>-0.26±0.25abA*</td><td>0.32±0.01b*</td><td>-0.03±0.25aA</td></tr><tr><td>B2P6</td><td>0.36±0.06bA*</td><td>1.07±0.30c</td><td>0.48±0.01bA*</td></tr><tr><td rowspan=\"3\">N-fertilized+80% FC</td><td>B6P2</td><td>-0.79±0.20a*</td><td>-0.93±0.17aA*</td><td>-1.25±0.02aA*</td></tr><tr><td>B4P4</td><td>1.16±0.22bB*</td><td>-0.01±0.08bA*</td><td>0.01±0.16b</td></tr><tr><td>B2P6</td><td>4.45±1.47bB</td><td>1.06±0.43b</td><td>1.32±0.44cB*</td></tr><tr><td rowspan=\"3\">No-unfertilized+40% FC</td><td>B6P2</td><td>0.06±0.07aB*</td><td>0.02±0.10aB*</td><td>0.05±0.05aB*</td></tr><tr><td>B4P4</td><td>0.34±0.18abB</td><td>0.13±0.04a</td><td>0.24±0.07aB</td></tr><tr><td>B2P6</td><td>1.08±0.25bB</td><td>1.11±0.34b*</td><td>1.10±0.21bB*</td></tr><tr><td rowspan=\"3\">N,-fertilized+40% FC</td><td>B6P2</td><td>-0.59±0.17a*</td><td>-0.43±0.11aB*</td><td>-0.51±0.11aB*</td></tr><tr><td>B4P4</td><td>0.30±0.27bA</td><td>0.25±0.04bB</td><td>0.28±0.14b</td></tr><tr><td>B2P6</td><td>0.56±0.11bA</td><td>0.49±0.17b*</td><td>0.53±0.11bA*</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "RYT values of Old World bluestems and switchgrass were significantly affected by the mixture ratios (Table 3),with RYT values from shoot biomass being in the order of $B 6 { \\mathrm { P } } 2 { \\mathrm { = } } \\mathrm { B } 4 \\mathrm { P } 4 { \\mathrm { > } } \\mathrm { B } 2 \\mathrm { P } 6$ (Table 5). RYT values under $80 \\%$ FC or $\\mathrm { \\Delta N }$ fertilization were significantly higher than those under $40 \\%$ FC and $\\mathrm { N } _ { 0 }$ -unfertilized,and RYT values under $\\mathrm { \\Delta N }$ fertilization and $40 \\%$ FC were higher than those under $\\mathrm { N } _ { 0 }$ -unfertilized and $80 \\%$ FC.Under $40 \\%$ FC and $\\mathrm { N } _ { 0 }$ -unfertilized,RYTvalues from shoot, root and total biomass under each mixture ratio and water supply were all smaller than 1, while those values were all above 1 (the highest) under $80 \\%$ FC and $\\mathrm { \\Delta N }$ fertilization.Besides,RYT values from shoot biomass were greater than those from root and total biomass with $\\mathrm { \\Delta N }$ and water supply (Table 5). ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/68dcfb979b641548b5dd04546c24055b39dc3796a0690c7159071d34b42c2324.jpg",
+        "table_caption": [
+            "Table 5Relative yield total of shoot,root and total biomass of Old World bluestem (B)and switchgrass (P) under different water and nitrogen (N) treatments "
+        ],
+        "table_footnote": [
+            "Notes:Diferent lowercase leters indicate significant diferences among mixture ratios under each water level $40 \\%$ FCand $80 \\%$ FC) and N treatment (O and $1 0 0 \\mathrm { ~ m g ~ N / k g }$ dry soil, termed $\\Nu _ { 0 }$ -unfertilized and $\\mathbf { N } _ { 1 }$ -fertilized treatments,respectively),while different uppercase letters indicate significant differences between two soil water levels within each mixture ratio and $\\mathrm { \\Delta N }$ treatment,and \\* indicates significantdiferences betwen twoNtreatmentswithineachmixtureratioandsoilwaterlevel(basedonTukey'sposthocanalysis, $P { < } 0 . 0 5$ level).Mear $\\scriptstyle 1 \\pm \\mathrm { S E }$ $\\scriptstyle n = 3$ ： "
+        ],
+        "table_body": "<html><body><table><tr><td>Treatment</td><td>Mixture ratio</td><td>Shoot</td><td>Root</td><td>Total biomass</td></tr><tr><td rowspan=\"3\">No-unfertilized+80% FC</td><td>B6P2</td><td>0.83±0.02bA*</td><td>0.72±0.06B*</td><td>0.79±0.03bB*</td></tr><tr><td>B4P4</td><td>0.89±0.05bA*</td><td>0.75±0.06B*</td><td>0.86±0.03bB*</td></tr><tr><td>B2P6</td><td>0.74±0.01aA*</td><td>0.82±0.06B*</td><td>0.70±0.02aB*</td></tr><tr><td rowspan=\"3\">N,-fertilized+80% FC</td><td>B6P2</td><td>2.31±0.12bB*</td><td>0.93±0.06B*</td><td>1.09±0.07aB*</td></tr><tr><td>B4P4</td><td>2.37±0.12bB*</td><td>0.96±0.06B*</td><td>1.17±0.08aB*</td></tr><tr><td>B2P6</td><td>2.22±0.12aB*</td><td>1.02±0.06B*</td><td>1.43±0.09bB*</td></tr><tr><td rowspan=\"3\">No-unfertilized+40% FC</td><td>B6P2</td><td>0.91±0.03bB*</td><td>0.60±0.06A*</td><td>0.72±0.05bA*</td></tr><tr><td>B4P4</td><td>0.97±0.05bB*</td><td>0.63±0.06A*</td><td>0.78±0.06bA*</td></tr><tr><td>B2P6</td><td>0.81±0.02aB*</td><td>0.69±0.06A*</td><td>0.63±0.05aA*</td></tr><tr><td rowspan=\"3\">N,-fertilized+40% FC</td><td>B6P2</td><td>1.06±0.11bA*</td><td>0.81±0.06A*</td><td>0.81±0.06aA*</td></tr><tr><td>B4P4</td><td>1.11±0.11bA*</td><td>0.84±0.06A*</td><td>0.89±0.06aA*</td></tr><tr><td>B2P6</td><td>0.96±0.11aA*</td><td>0.90±0.06A*</td><td>1.15±0.05bA*</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4 WUE ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WUE values of Old World bluestems and switchgrass were significantly lower under $80 \\%$ FC than under $40 \\%$ FC.However, WUE values of Old World bluestems and switchgrass were significantly higher under $\\mathrm { \\Delta N }$ fertilization with $80 \\%$ FC.Besides,WUE values of Old World bluestems and switchgrass in the mixture were always lower than that of Old World bluestems in monoculture, while it showed no significant difference with that of switchgrass in monoculture (Fig. 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/70e9224b75569562fd8a96d38a967cfab18858cfce6fe3316230988f2f27b94f.jpg",
+        "img_caption": [
+            "Fig.6Water use eficiency(WUE; a and b)of Old World bluestems (Bothriochloa ischaemum)and switchgrass (Panicumvirgatum) togetherunderdifferent soil waterlevels( $40 \\%$ FC and $80 \\%$ FC),nitrogen (N) treatments (0 and $1 0 0 \\ \\mathrm { m g \\ N / k g }$ dry soil, termed $\\mathrm { N } _ { 0 }$ -unfertilized and $\\mathrm { N } _ { 1 }$ -fertilized treatments,respectively） and mixture ratios. Bars are standard errors. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Water and $\\mathrm { \\Delta N }$ are two most limiting factors in the semi-arid ecosystem (Hooper and Johnson, 1999; Yang et al., 2011). Water deficit could restrict the height, tillering number and biomass of plant species,while $\\mathrm { \\Delta N }$ addition could alleviate these negative effects by preventing cell membrane damage and enhancing osmoregulation of plant species (Li et al., 20oo; Guo et al.,2010; Abid et al.,2016) or strengthen those negative effects (Dziedek et al.,2016). Our results confirmed that water and $\\mathrm { \\Delta N }$ co-limited the growth of Old World bluestems and switchgrass,and N fertilization could alleviate the negative effects of water deficiency. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Water and $\\mathrm { \\Delta N }$ availability could also affect plant competitive ability (Rao and Allen, 201o; He et al., 2011; Sheppard et al., 2014). Aggressivity is an important index to decide the competitive abilities of different plant species, while RYT could be used to judge if there are complementary effect between two species in the mixture (Fowler,1982; Weigelt and Jolliffe, 2003). Our study showed that under low water and $\\mathrm { N } _ { 0 }$ -unfertilized,aggressivity of Old World bluestems to switchgrass was bigger or close to zero, which agrees with our hypothesis that the competitive ability of switchgrass is weaker than Old World bluestems under low water and $\\mathrm { N } _ { 0 }$ -unfertilized. Compared with switchgrass, Old World bluestems has relatively beter adaptability to drought and nutrient-poor soils (Xu et al.,2Oo3),and the competitive ability of switchgrass was restricted in this environment. Similarly, a meta-study showed that drought could potentially inhibit the growth of invasive species more than the native species, and then reduced plant invasion (Liu et al.,2017).However, the competitive ability of Old World bluestems to switchgrass generally decreased as singularly water or N supply improved. The higher competitive ability of Old World bluestems can be attributed to the adaption of local environment with the low soil water and nutrient. When facing more available water, nutrient or variable environment, Old World bluestems is recalcitrant to the change (Xu et al., 2013). These results agree with the resource hypothesis that invasive species outperformed native species in high resource environments (Davis et al.,2000; Daehler,2003; Blumenthal, 2005; Liu et al.,2017). This may put Old World bluestems at risk under enhanced N deposition conditions (Liu et al., 2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The outperformance of switchgrass under $80 \\%$ FC and N fertilization could be explained by its high resource-acquisition efficiency. Root morphology could reflect plant growth and their resource exploiting strategy， and longer root length and larger RSA are always positively correlated to better water and nutrient uptake (Lynch,2013;White et al., 2013). A high or efficient resource uptake capacity of invasive plant species could confer a competitive advantage (Funk and Vitousek, 2007; Drenovsky et al.,2008). It is also reported that invasive species could increase their competitive ability by allocating more biomass to roots (namely a higher RSR) (Aerts et al.， 1991; Rajaniemi, 2002). Thus,changing biomass allocation and modifying root morphology are widely recognized as effective strategies for plants to cope with competitive pressure (Ravenek et al., 2016; Semchenko et al., 2018). In our study, switchgrass generally allcated more biomass to roots than Old World bluestems, which gives it advantages in acquiring limited soil resources. TRL and RSA of switchgrass increased under singularly higher water supply, which showed that the resource uptake capacity of switchgrass increased with more water supply. Interestingly， TRL and RSA of Old World bluestems decreased under singularly N fertilization with $40 \\%$ FC，indicating a decreased resource uptake capacity of Old World bluestems with more $\\mathrm { \\Delta N }$ supply under drought condition. The changes of TRL and RSA of switchgrass and Old World bluestems, together with the higher RSR of switchgrass,could partly explain the relatively increased competitive ability of switchgrass to Old World bluestems under the higher water or $\\mathrm { \\Delta N }$ supply. It is noted that although the shoot competitive ability of Old World bluestems to switchgrass was very strong, the root competitive ability of switchgrass was stronger, which resulted in a stronger full(root and shoot) competitive ability of switchgrass to Old World bluestems.This also agrees with the general belief that the effect of the belowground competition is greater than shoot competition, and it could determine which species or individuals dominate (Wilson, 1988; Kiar et al., 2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mixture ratio or planting density could also affect the result of competition. For example, it is shown that a low wood density is generally correlated with a low competitive effect on neighbors (Kunstler et al.，2016). However, the competitive result in our study is opposite,i.e.，the competitive ability of Old World bluestems to switchgrass was stronger with a lower ratio of Old World bluestems $( \\mathrm { B 6 P 2 { \\leq } B 4 P 4 { \\leq } B 2 P 6 } )$ . This suggested that plant density could not simply be used to explain the competitive result. Interestingly, although singular water or $\\mathrm { \\Delta N }$ supply generally improved the relative competitive ability of switchgrass,the competitive ability of Old World bluestems at B2P6 was the highest under $80 \\%$ FC and $\\mathrm { \\Delta N }$ fertilization,and there is a niche differentiation between switchgrass and Old World bluestems.This is probably because the niche differentiation is diferent among various mixture ratios,and water and $\\mathrm { \\Delta N }$ supply could further enhance it. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We are experiencing a world with global climate change, including spatiotemporal variation of extreme precipitation. General circulation model results showed that more frequent and intense precipitation will occur in the Loess Plateau, China (Li et al.,2O12),which could increase soil water content in a short term. Besides,a TRMM (the Tropical Rainfall Measuring Mission) multi-satellite precipitation data analysis showed that the average precipitation in the Loess Plateau is increasing significantly at the rate of $4 . 4 6 ~ \\mathrm { m m / a }$ (Zhao et al., 2018). N deposition is also increasing in China (Liu et al.,2013; Yu et al.,2019).From our study result and the impact of climate change on the Loess Plateau, we speculate that the invasion potential of switchgrass will increase in the future. Our recent study showed increased water supply increased the aggressivity of Old World bluestems to Lespedez adavurica (Laxm.） Schindl. (a perennial $\\mathrm { C } _ { 3 }$ leguminous sub-shrub in the Loess Plateau; unpublished data). This also suggests that the aggressivity of switchgrass to $L$ . adavurica might be greater under increasing precipitation. Ecologists and farmers should be aware of the potential for switchgrass to increase its invasion potential in the Loess Plateau under increasing precipitation or N deposition. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Either increased water or N supply had a positive effect on the biomass production of Old World bluestems and switchgrass, and $\\mathrm { \\Delta N }$ fertilization could alleviate the negative effects of water stress on biomass production. Old World bluestems was relatively dominant under $40 \\%$ FC and no $\\mathrm { ~ N ~ }$ application, when water supply or $\\mathrm { ~ N ~ }$ condition was improved, switchgrass became more aggressive. Root traits partly explain the change of relative competitive ability of switchgrass to Old World bluestems under increased water or $\\mathrm { \\Delta N }$ supply.However, a suitable mixture ratio with an optimal water and N-fertilizer management could prevent the invasion of switchgrass. This means,when $\\mathrm { ~ N ~ }$ deposition or precipitation increases in the arid and semi-arid area and the biological invasion potential of alien species increases，we can adopt suitable practices, like changing species combination ratio,water or nitrogen supply to reduce the risk of invasion. Although the transfer of the results from a pot experiment on plant growth and competition to field conditions needs to be cautious,the information from this study may help in predicting the risk of introduced invasive species. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The study was supported by the National Natural Science Foundation of China (41371509; 41771553)and the Intergovernmental International Cooperation on Scienceand Technology Innovation under the Ministry of Science and Technology of People's Republic of China (2018YFE0112400).We thank Dr.PANG Jiayin,Dr. Patrick HAYES,two anonymous reviewers and editors for their valuable comments on this manuscript. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abid M,Tian Z,Ata-Ul-KarimST,etal.2016.Nitrogen nutrition improves thepotentialof wheat(Triticum estivumL.)to allviate the effects of drought stress during vegetative growth periods.Frontiers in Plant Science,7: 981.   \nAerts R,BootRGA,vander Aart PJM.1991.Therelation between above-andbelowground biomass alocation patterns and competitive ability. Oecologia,87(4):551-559.   \nAshworthAJ,MooreJrPA,KingR,etal.20l9.witchgrassforageyieldandcompositionalresponsetophosphorusand potassium.Agrosystems,Geosciences & Environment,2(1):1-8.   \nBarney JN,DiTomaso JM.20o8.Nonnative species and bioenergy:Are wecultivating the next invader? Bioscience,58(1): 64-70.   \nBennett JA,RibakK,TammeR,eal.20l6.Thereciprocalrelationshipbetweencompetitionand intraspecifictraitariation. Journal of Ecology,104(5):1410-1420.   \nBlumenthalD,ChimnerRA,WelkerJM,etal.208.Increased snow taciitates plant invason in mixed grass prairie.New Phytologist, 179(2): 440-448.   \nBobbinkR,HicksK,GalloayJ,etal.2.Globalassessmentofirogendeposiioneectsonerestrialplatdivrsity synthesis. Ecological Applications,20(1): 30-59.   \nCollins HP,KimuraE,Polly W,etal.22.Intercroppingswitchgrass withhbrid poplarincreasedcarbonsequestrationna sand soil. Biomass and Bioenergy,138:105558.   \nCooneyD,KimH,QuinL,etal.2O17.SwitchgrasssabioenergycropintheLoess Plateau, China: potential lignocellosic feedstock production and environmental conservation.Journal of Integrative Agriculture,16(6):1211-1226.   \nDaehler C C.2Oo3.Performancecomparisons of co-occurring nativeand alien invasive plants: implications for conservation and restoration. Annual Review of Ecology,Evolution,and Systematics,34(1):183-211.   \nDavis MA,GrimeJP,Thompson K.2Ooo.Fluctuatingresources inplantcommunities:ageneraltheoryofinvasibility.Journal of Ecology,88(3): 528-534.   \nde Wit C T.1960.On competition. Verslagen van Landbouwkundige Onderzoekingen,66:1-82.   \nde Wit CT,van den Bergh JP.1965.Competition between herbage plants.Journal of Agricultural Science,13:212-221.   \nDrenovskyRE,Martin CE,Falasco MR,etal.2oo8.Variationinresource acquisitionandutilizationtraitsbetwennative and invasive perennial forbs.American Journal of Botany,95(6): 681-687.   \nDziedek C,Hardtle W,vonOheimbG,et al.2016.Nitrogenadition enhances drought sensitivityofyoung deciduous tree species. Frontiers in Plant Science,7: 1100.   \nFowler N.1982.Competition and coexistencein a North Carolina grassand: II. mixtures of component species.Journal of Ecology,70(1): 77-92.   \nFunk JL,Vitousek PM.207.Resource-use eficiency and plant invasion in low-resource systems.Nature,446(7139): 1079-1081.   \nGalloway JN,TownsendAR,ErismanJW,etal.2o8.Transformationofthenitrogencycle:recenttrends,questios,and potential solutions.Science,320(5878): 889-892.   \nGoldbergDE,RajaiemiT,GurevitchJ,etal.1999.Empiricalappoaches toquantifinginteractionintensity:compeionand facilitation along productivity gradients. Ecology, 80(4):1118-1131.   \nGrace JB.1995. On the measurement of plant competition intensity. Ecology,76(1): 305-308.   \nGuo JY,YangY,WangGX,etal.20l0.EcophysiologicalesponsesofAbiesfbrisedings todroughtstressanditrogen supply.Physiologia Plantarum,139(4):335-347.   \nHe WM,YuGL,SunZK.2011.Nitrogen deposition enhances Bromus tectorum invasion: biogeographic differences in growth and competitive ability between China and North America. Ecography,34(6): 1059-1066.   \nHectorA.1998.The efectofdiversityon productivity:detecting theroleofspecies complementarity.Oikos,82(3):597-599.   \nHooperDU,JohnsonL.99.Nitrogenlimitationindrylandecosystems:responses togeographicalandtemporalvariationin precipitation.Biogeochemistry,46(1): 247-293.   \nJolliffe PA.2000.The replacement series.Journal of Ecology, 88(3): 371-385.   \nKeane R M,CrawleyMJ.2002.Exotic plant invasions and the enemyrelease hypothesis.Trends in Ecology& Evolution, 17(4): 164-170.   \nKeshwani DR,Cheng JJ.2O09.Switchgrass for bioethanol and other value-added applications:Areview.Bioresource Technology,100(4): 1515-1523.   \nKierLP,WeisbachAN,WeierJ.20l3.Rootand shootcompetition:ameta-analysis.JouralofEcology,01(5):298-1312.   \nKunstler G,FalsterD,ComesDA,etal.216.Plantfunctional traitshavegloballyconsistenteffectsoncompetition.Nature, 529(7585): 204-207.   \nLevineJM,Vila M,AntonioCMD,etal.20o3.Mechanismsunderlying theimpactsofexotic plant invasions.Procdingsof the Royal Society of London Series B: Biological Sciences,270(1517): 775-781.   \nLi SQ,TianXH,Li SG.20o0.Physiologicalcompensation effectsof nutrienton winter wheat indryland.Acta Botanica Boreali-Occidentalia Sinica,20(1):22-28.(in Chinese)   \nLi Z, ZhengFL,Liu WZ,et al.2012.Spatiall downscaling GCMs outputs toproject changes inextreme precipitationand temperature events on the Loess Plateau of China during the $2 1 ^ { \\mathrm { s t } }$ Century. Global and Planetary Change,82-83: 65-73.   \nLiu X J,Zhang Y,Han W X,et al.2013.Enhanced nitrogen deposition over China.Nature,494: 459-462.   \nLiu YJ,OduorAMO,Zhang Z,etal.2O17.Do invasive alien plantsbenefit more from global environmental change than native plants? Global Change Biology,23(8): 3363-3370.   \nLynch J P. 2013. Steep,cheap and deep: an ideotype to optimize water and $\\mathrm { \\Delta N }$ acquisition by maize root systems. Annals of Botany,112(2): 347-357.   \nMcGilchrist CA,Trenbath BR.1971.Arevised analysis ofplant competitionexperiments.Biometrics,27(3): 659-671.   \nMitchellR,VogelKP,Sarath G.2008.Managingandenhancingswitchgrassasabioenergyfeedstock.Biofuels,Bioproducts and Biorefining,2(6): 530-539.   \nMuir JP,Sanderson MA,Ocumpaugh WR,etal.20o1.Biomass productionof 'Aamo' switchgrass in response tonitrogen, phosphorus,and row spacing. Agronomy Journal, 93(4): 896-901.   \nR Core Team 2019 R:Alanguage and environment forstatisticalcomputing.RFoundation for Statistical Computing,Viea, Austria.   \nRajaniemiTK.202.Whydoes fertilizationreduce plant species diversity? Testing three competition-based hypotheses. Journal of Ecology, 90(2): 316-324.   \nRao LE,Alen EB.2010.Combined effects of precipitation and nitrogen deposition on native and invasive winter anual production in California deserts. Oecologia,162(4): 1035-1046.   \nRavenek JM,ommerL,VisserEJW,etal.216.inkingrootraitsandcompetitiveuccessigraslandspecies.Plantand Soil, 407(1): 39-53.   \nRen GQ,LiQ,LiY,etal.20l9.Theenancementofrootbiomass icreass thecompetitivenessofaninvasiveplataginst co-occurring native plant under elevated nitrogen deposition.Flora,261:151486.   \nRoyJ.1990.Insearchofthecharacteristicsofplntinvaders.In:diCastri,HansenAJ,DebuscheM.BiologicalInvasiosin Europe and the Mediterranean Basin.Dordrecht: Kluwer Academic Publishers,335-336.   \nSanderson MA,AdlerPR,Boateng AA,etal.2006.Switchgrass asabiofuels feedstock inthe USA.CanadianJouralofPlant Science,86(Special Issue):1315-1325.   \nSemchenkoM,Lepik A,Abakumova M,etal.2018.Dierentsetsofbelowground traits predictthe abilityofplant speciesto suppress and tolerate their competitors. Plant and Soil, 424(1): 157-169.   \nShanL,Xu BC.20o9.Discussabout establishing stableartificial grassland in semi-arid Loess Plateau of China.Acta Prataculture Sinica,2(18): 1-2. (in Chinese)   \nSheppard CS,Burns BR,Stanley MC.2014.Predicting plantinvasions under climate change: are species distribution models validated by field trials? Global Change Biology,20(9): 2800-2814.   \nShui J,An Y,MaY,etal..Alelopathicpotentialofswitchgrass (PancumvirgatumL)onprenialryegrass (olu perenne L.) and alfalfa (Medicago sativa L.). Environmental Management, 46(4): 590-598.   \nTheoharides KA,DukesJS.2O07Plantinvasionacrosspaceand time:factorsaffecting nonindigenous species success during four stages of invasion.New Phytologist,176(2): 256-273.   \nWang Z,Xu W Z,Chen ZF,etal.2O18.Soil moisture availabilityatearly growth stages stronglyafectedroot growthof Bothriochloa ischaemum when mixed with Lespedeza davurica.Frontiers in Plant Science,9:1050.   \nWeigelt A,Jolliffe P.2003.Indices of plant competition.Journal of Ecology, 91(5):707-720.   \nWhite P,George T,Dupuy L,et al.2Ol3.Root traits for infertile soils.Frontiers in Plant Science,4: 193.   \nWilson JB.1988. Shoot competition and root competition. Journal of Applied Ecology, 25(1): 279-296.   \nXuBC,ShanL,Huang J,etal.2o3.Comparisonofwateruseeficiencyandroot/shootrationinsedlingstageofswitchgrass (Panicum vigarum)and old worldbluestems (Bothriochloa ischaemum).Acta Prataculturae Sinica,l2(4):73-7.(in Chinese)   \nXu B C,NiuFR,DuanDP,etal.20l2.RootmorphologicalcharacteristicsofLespedeza davurica(L.)intercropped with Bothriochloa ischaemum (L.) Keng under water stress and Papplicationconditions.Pakistan Journal of Botany,44(6): 1857-1864.   \nXu W Z,Deng X P, Xu BC.2013.Efectsof water stressand fertilizationon leaf gas exchange and photosynthetic light-response curves of Bothriochloa ischaemum L.Photosynthetica,51(4): 603-612.   \nYang H,LiY,WuMY,etal0l1.Plantcommunityesponse toitrogenadditioandincreasedprecipitation:theortance of water availability and species traits.Global Change Biology,17(9): 2936-2944.   \nYu GR,JiaYL,HeNP,etal.2019.Stabilizationofatmosphericnitrogen depositionin Chinaover thepast decade.Nature Geoscience,12(6): 424-429.   \nZhang XH,XuBC,LiFM.2007.Effectof planting densityon the productivityand WUEof thre legumes in highlandof Loess Plateau.Acta Agrestia Sinica,1(16): 593-598.(in Chinese)   \nZhao Q,Chen QY,JiaoMY,etal.2018.The temporal-spatialcharacteristicsof drought inthe LoessPlateauusingthe remote-sensed TRMM precipitation data from 1998 to 2014.Remote Sensing,10(6): 838.   \nZur AF,LenoEN,WalkerNJ,etal.2009.MixedEfects ModelsandExtensions inEcology withR.NewYork:Spring Science and Business Media,71-100. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

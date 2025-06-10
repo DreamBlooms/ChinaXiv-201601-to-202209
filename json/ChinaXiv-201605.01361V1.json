@@ -1,0 +1,482 @@
+[
+    {
+        "type": "text",
+        "text": "RESEARCHARTICLE A Novel Transgenic Mouse Line for Tracing MicroRNA-155-5p Activity In Vivo ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Krung Phiwpan1,2, Jie Guo1, Wei Zhang1, Tanyu Hu1,2, Bhargavi M. Boruah³, Jianhua Zhang1, Xuyu Zhou1 \\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 CAS Key Laboratory for Pathogenic Microbiology(CASPMl), Institute of Microbiology,Chinese Academy of Sciences,Beijing,China,2 Universityof Chinese Academy of Sciences,Beijing, China,3 National Laboratoryof Biomacromolecules,Instituteof Biophysics,Chinese Academy of Sciences,Beijing,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* zhouxy @im.ac.cn ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CrossMark click for updates ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Phiwpan K,Guo J,Zhang W, HuT,Boruah BM,Zhang J,et al.(2015)A Novel Transgenic Mouse Line for Tracing MicroRNA-155-5p Activity In Vivo.PLoS ONE10(6):e0128198.doi:10.1371/ journal.pone.0128198 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Academic Editor: Sunil K.Ahuja, South Texas Veterans Health Care System and University Health Science Center San Antonio, UNITED STATES ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: May 21,2014 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted: April 24,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published: June 1,2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2015 Phiwpan et al.This is an open accessarticle distributed under the terms of the Creative Commons Attribution License,which permits unrestricted use,distribution,and reproduction in any medium,provided the original author and source are credited. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DataAvailability Statement:All relevant dataare within the paper and its Supporting Information files. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding:This work was supported by grants from the National Natural Science Foundation of China (Grant No.31270959),http://www.nsfc.gov.cn,and the National Key Basic Research and Development 973 Program of China under Grant No. 2012CB917102, htp://program.most.gov.cn/.The funders had no role in studydesign,data collection and analysis,decision to publish,or preparation of the manuscript. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MicroRNA-155 (miR-155) plays significant role in various physiological processes involving both innate and adaptive immunity. miR-155 expression level changes dynamically during various immune responses. However, current approaches for miR-155 detection at the RNA level do not precisely reflect the real-time activity. Herein, we generated a transgenic mouse line (R26-DTR-155T) for determination of miR-155-5p activity in vivo by inserting miR-155-5p target sequence downstream of a reporter transgene comprising Diphtheria Toxin Receptor and TagBlue fluorescence protein. Using this approach, R26-DTR-155T mice were able to measure variation in levels of miR-155-5p activity in specific celltypes of interest.The DTR expression levels were inversely correlated with the endogenous miR155 expression pattern as detected by quantitative RT-PCR. Our data demonstrate a novel transgenic mouse line which could be useful for tracing miR-155-5p activity in specific cell types through measurement of miR-155-5p activity at single cell level. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MicroRNA-155 (miR-155) is processed from the non-protein coding transcript of the BIC (B cell Integration Cluster) gene located on chromosome 21 in human and chromosome l6 in mice [1,2]. miR-155,like other microRNAs (miRNAs),is transcribed by RNA polymerase I to generate primary transcripts (pri-miR-155) that is processed in the nucleus to generate miRNA precursors (pre-miR-155).The pre-miR-155 is then exported into the cytoplasm and is further processed by Dicer leading to 23 nucleotides long duplex miRNA [3]. Based on the stability of the $5 ^ { \\circ }$ end,one strand (passenger miR-155) of the miRNA duplex is released and degraded while the other strand (guide strand or mature miR-155),is retained and loaded into the RNA-induced silencing complex (RISC) which binds to target mRNAs as well as regulates gene expression by either repressing protein translation or inducing mRNA degradation. Both arms of pre-miR-155 can develop into mature miR-155-5p or miR-155-3p based on the selection of either $5 ^ { \\circ }$ or ${ \\boldsymbol { 3 } } ^ { \\prime }$ strand respectively[4].However, the expression level of miR-155-5p is reported to be ${ \\sim } 2 0 { \\mathrm { - } } 2 0 0$ fold higher than that of miR-155-3p [5]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests:The authors have declared that no competing interests exist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although miR-155 was initially described as an oncogenic miRNA[6], the generation of knockout mice lacking BIC/miR-155 highlights the critical role of miR-155 in both innate and adaptive immunity [7]. Moreover, miR-155-deficient dendritic cells have been reported to lose efficiency during antigen presentation [8]. In addition, miR-155 regulates IFN- $\\cdot \\gamma$ production in natural killer cells [9],controls differentiation of CD4 Thelper cell subsets into Th1,Th2,and Th17,as wellas promotes development of Treg cells [10,11]. In CD8 cells, miR-155 is important for the development of T effector function and the memory cytotoxic lymphocyte (CTL) formation.Moreover,miR-155 is essential for normal production of isotype-switched, high-affinity antibodies in B cells [12-14]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Expression of miR-155 changes dynamically during immune responses and its overexpression is linked to various diseases ranging from hematological malignancies, cancer, viral infections and autoimmune diseases [15]. Current approaches for miR-155 detection are mainly based on quantitative reverse transcription PCR (qRT-PCR), microarray, and deep sequencing [16,17]. miR-155 KO mice,in which the exon2 of bic/miR-155 gene was replaced by lacZ reporter gene,also allow to study the pri-miR-155 expression in vivo [14]. These methods represent miR-155 expression at RNA level and do not reflect the real-time function of miR-155 activity in living cels.Recently, Schug and colleagues [18] have reported that assessment of expression at RNA level alone does not reflect miRNA activity and is likely to be influenced by multiple factors including contributions of RNA binding proteins, ratio of mRNA to target miRNAs, flanking sequence homology, and change in subcellular localization of miRNA, suggesting unique regulation of miRNA function in vivo [18,19]. Attempts have been made to study miRNA activity in living systems, through development of miRNA sensors based on OFF-system by inserting miRNA target sequence into the ${ 3 ^ { \\circ } }$ -UTRof reporter genes such as lacZ [20],GFP [21] and luciferase [22,23]. The endogenous miR willbind to the reporter transcript and downregulate its expression. Another miRNA sensor is based on ON-system by inserting miR binding sites into the ${ 3 ^ { \\circ } }$ -UTR of repressor genes together with a reporter cassette under the regulation of the repressor. The reporter is switched-on by the endogenous miR of interest which degrades the repressor mRNA [24,25].Although these sensors can check miRNA activity in vivo,their usefulness has not been fully evaluated in living single cells. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study, we generated novel miR-155-5p sensor transgenic mice, namely R26-DTR155T, based on a combination of BAC transgenic approach and a Cre-Lox system by inserting miR-155-5p target sequence into ${ \\boldsymbol { 3 } } ^ { \\prime }$ -UTR of DTR-BFP reporter gene.The miR-155-5p/DTR-BFP target-reporter gene module was further placed downstream of the LoxP-STOP-LoxP cassette driven by Rosa26 (R26) promoter.Using this approach,the level of miR-155-5p activity could be effectively determined in these transgenic mice.Furthermore, R26-DTR-155T mice also provided tissue-specific sensing of miR-155 activity by selection ofa tissue-specific promoter driven Cre expression. In addition,it could offer the possibility to manipulate a particular cell population according to the expression pattern of miR-155-5p in the distinctive-expressing cells. Our results indicated that R26-DTR-155T transgenic mice may serve as useful tools to uncover miR-155-5p activity and its function in various cell-subsets in vivo. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmid constructs ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For construction of miR-155-5p sensor vector (pDTR.BFP-155T-N1) and recombinant Bacterial Artificial Chromosomes (BACs),we synthesized monkey Diphtheria Toxin Receptor (DTR)and TagBlue Fluorescence Protein (BFP) in pUC57 cloning vector(GenScript, Piscataway,NJ) and used them as template to amplify the DTR or BFP gene sequence. Both amplifications were performed through overlapping PCR to create DTR-BFP fusion reporter gene. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fusion reporter gene was cloned into pEGFP-N1 vector (Takara Clontech) in place of EGFP sequence,henceforth, termed as pDTR.BFP-N1 vector. miR-155-5p target gene (Accession no. MIMATooo0165) was designed and cloned into pUC57 vector(GenScript, Piscataway, NJ) containing four copies of the sequence (underlined) linked with four nucleotides in between as follows: ACCCCTATCACAATTAGCATTAACGATACCCCTATCACAATTAG CATTAACGATACCCCTATCACAATTAGCATTAACTACACCCCTATCACAATTAG CATTAA. The $4 \\times$ miR-155-5p target (118 bp in length) fragment was subsequently digested with restriction enzymes EcoRI and NotI and cloned into the pDTR.BFP-N1 vector within similar restriction sites to generate pDTR.BFP-155T-N1 vector. Both pDTR.BFP-N1 and pDTR. BFP-155T-N1 vectors were then digested with NotI and XhoI and ligated downstream of LoxP-STOP-LoxP cassete into pBigT vector (Addgene plasmid 21270) [26],respectively. In order to perform homologous recombination with BAC (RP24-85L15)(CHORI, Oakland, CA, USA),the recombinant pBigT vector was used as template to amplify the cassette of a $4 . 7 \\mathrm { k b }$ transgene (LoxP-STOP-LoxP-DTR.BFP-155T or LoxP-STOP-LoxP-DTR.BFP) comprising of R26 arm sequence, having 200 bp upstream and 400 bp downstream. The transgene in recombinant BACs was checked by XhoI restriction enzyme as well as DNA sequencing before microinjection. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To construct the miR-155 expression vector (pEF-BOS-EX-miR-155), mouse miR-155 gene was amplified using the following primers: F $5 ^ { \\circ }$ -CGGGATCCTGAACCGTGGCTGTGTTA AA- ${ \\boldsymbol { \\cdot 3 } } ^ { \\prime }$ and $\\textrm { R } 5 ^ { \\prime }$ -GCTCTAGAAGAATGGCCGTCCTGAATTT-3'. The amplified products were digested with BamHI and XbaI and then cloned into the pEF-BOS-EX vector [27] within the respective restriction enzyme sites. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To generate pmirGLO Dual-Luciferase miR-155-5p target expression vector (pmirGLO$4 \\times$ miR-155-5pT),4xmiR-155-5pT-pUC57cloning vector was digested with EcoRI and HindIII to transfer $4 \\times$ miR-155-5p target sequence into the EcoRI and HindIII site of pBluescript II SK $^ +$ phagemide (Stratagene, La Jolla, CA). The target sequence was subsequently digested with SacI and XhoI to clone into the pmirGLO vector (Promega). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generation of R26-DTR-155T transgenic mice ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The final BAC constructs were microinjected into pronuclei of fertilized $\\boldsymbol { \\mathrm { B 6 \\times } }$ DBAF1 mouse 00cytes to generate R26-DTR-BFP-miR-155-5p target mice (R26-DTR-155T mice) or R26-DTR-BFP mice (R26-DTR mice). The R26-DTR-155T mice were crossed with CMV-Cre mice (Tg(CMV-Cre)1Cgn) to obtain CMV-Cre x R26-DTR-155T mice for screening the DTR reporter protein and were used for determining miR-155-5p activity in distinct cellineages. To determine miR-155-5p activity in Treg cell subsets,the R26-DTR-155T mice were crossed with Foxp3-GFP-Cre x R26-YFP mice to achieve Foxp3-GFP-Cre x R26-YFP x R26-DTR$1 5 5 \\mathrm { T }$ mice. The Foxp3-Cre mice are Tg(Foxp3-EGFP/cre)lcjbs strain and were crossed with R26-YFP knockin mice as described previously [28]. All mice were housed and bred under specific pathogen-free conditions at the Beijing Laboratory Animal Research Center in accordance with the guidelines for care and use of laboratory animals established by the Beijing Association for Laboratory Animal Science.Allanimal procedures were conducted in accordance with the “Regulation of the Institute of Microbiology, Chinese Academy of Sciences of Research Ethics Committee\".The protocol was approved by the Research Ethics Committee of Institute of Microbiology, Chinese Academy of Sciences (PZIMCAS2012002). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Validation of miR-155-5p-OFF system in vitro ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "miR-155-5p target reporter assay by luciferase assay was performed in 24-well plates.   \npmirGLO- $. 4 \\times$ miR-155-5pTand pEF.BOS.EX-miR-155,pEF.BOS.EX-miR-146a or pEF.BOS. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EX-empty vector were mixed at a molar ratio of 1:1 in Opti-MEM (Promega) followed by mixing with Lipofectamine2ooo (Invitrogen). After 20 minutes incubation at room temperature, the mixture was gently added into HEK293T cells ( $\\mathrm { 1 } { \\times } 1 0 ^ { 5 }$ cells/well). The transfected HEK293T cells were cultured in DMEM (Dulbecco's modified Eagle's medium, Gibco, Life Technologies） supplemented with $1 0 \\%$ fetal bovine serum,GlutaMax, $\\scriptstyle 1 0 0 \\mathrm { U / m L }$ penicillin,and $1 0 0 ~ \\mathrm { \\mu g / m L }$ streptomycin at $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\% \\mathrm { C O } _ { 2 }$ for 24 hours,then cells were analyzed for luciferase activity using Dual-Glo Luciferase Assay System (Promega) according to the manufacture's protocol. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For the miR-155-5p target reporter assay by flow cytometry, HEK293T cells were placed at $1 { \\times } 1 0 ^ { 5 }$ cells/well in 24-well plates and co-transfected with pDTR.BFP.155T-N1 and pEF.BOS. EF-miR155 or pEF.BOS.EX-empty vector at various molar ratios of 1:5,1:l and 5:1 using Lipofectamine20oo (Invitrogen). After 48 hours post transfection, cels were analyzed using flow cytometry.Data were collected and processed using FACS analysis software (FlowJo). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For evaluating sensitivity of the R26-DTR-155T system,HEK293T cels were placed at $\\mathsf { 1 } \\times \\mathsf { 1 0 } ^ { 5 }$ cells/well in 24-well plates and co-transfected with $4 0 0 ~ \\mathrm { { n g / } }$ well of pDTR.BFP.155T-N1 along with increasing amounts of miR-155-5p mimic or miR control mimic (RiboBio, China) in the presence of Lipofectamine 2Ooo (Invitrogen). 48 hours post transfection, cells were analyzed using flow cytometry. Data were collcted and processed using FACS analysis software (FlowJo). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Quantitative real-time PCR ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Total RNA from each sorted celltype of interest from Foxp3-GFP-Cre x R26-YFP mice was extracted by Trizol reagent (Invitrogen). The Bulge-Loop miRNA qPCR Primer Set (RiboBio, China) was then used to detect miR-155 expression by qRT-PCR using QuantiTect SYBR Green PCR $+ \\mathrm { U N G }$ Kit (QIAGEN,204163).The overall reaction, in a total volume of $1 0 \\mu \\mathrm { L } .$ consisted of ${ 5 } \\mu \\mathrm { L }$ Master Mix, $2 0 0 { \\mathrm { n M } }$ of each primer,and $2 \\mu \\mathrm { L }$ of the diluted cDNA product. After $2 \\mathrm { m i n }$ at $5 0 ^ { \\circ } \\mathrm { C } ,$ the DNA polymerase was activated at $9 5 ^ { \\circ } \\mathrm { C }$ for $1 5 \\mathrm { m i n }$ ,followed by 45 cycles at $9 5 ^ { \\circ } \\mathrm { C }$ for 15 s, $6 0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { { s } }$ and $7 2 ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathsf { s } .$ U6 primer was used to normalize target miR-155 expresson. Relative expression levels for miR-155 were determined using the 2Ct method. All reactions were performed three times using a LightCycler480 System (Roche Applied Science). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Antagonism of miR-155 function ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Antagomir-155 was purchased from RIBOBIO (Guangzhou, China). Lymph node cells of CMV-Cre x R26-YFP x R26-DTR-155T mouse founder 47 were stimulated with $0 . 5 \\mu \\mathrm { g } / \\mathrm { m L }$ anti-CD3 (2C11) in RPMI-1640 (Gibco,Life Technologies) supplemented with $10 \\%$ fetal bovine serum,non-essential amino acids (NEAA),2-ME, $1 0 0 \\mathrm { U / m L }$ penicillin, and $1 0 0 ~ \\mathrm { \\mu g / m L }$ streptomycinat $3 7 ^ { \\circ } \\mathrm { C }$ in $5 \\%$ $\\mathrm { C O } _ { 2 }$ for 48 hours.The activated cells were then washed and seeded at $1 { \\times } 1 0 ^ { 6 }$ cells/well in 24-well plates to perform transfection with $2 0 0 { \\mathrm { n M } }$ antagomir-155 or $2 0 0 { \\mathrm { n M } }$ antagomir-142 (negative control) using Lipofectamine2ooo (Invitrogen) according to the manufacture's protocol. After 18 hours of transfection,cells were analyzed by FACS Calibur (BD Biosciences). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DTR staining for determining miR-155-5p activity ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For cell surface staining, lymph node cells at a density of $2 { \\times } 1 0 ^ { 6 }$ were first stained with $4 \\mu \\mathrm { g / m L }$ anti-DTR-biotin (R&D cat.BAF259) and then stained with Streptavidin-PE (BioLegend cat.405204) along with either of the following fluorochrome-conjugated antibodies: anti-CD4- PerCP clone GK1.5 (Tianjin Sungene Biotech Co.),anti-CD44-APC clone IM7 (eBioscience), anti-B220-PerCP-cy5.5 clone RA3-6B2 (eBioscience),anti-CD62L-APC clone MEL-14 (BioLegend),and anti-CD8-Brilliant Violet 605 clone 53-6.7 (BioLegend).For intracellular Foxp3 staining,cells were first treated with the antibodies specific for cellsurface and later stained with antiFoxp3-Alexa Fluor488 clone FJK-16s (eBioscience) using the intracellular-staining kit from eBioscience. Cells were analyzed on Fortessa (BD Biosciences) or FACS Calibur (BD Biosciences).Data were analyzed using FACS analysis software (FlowJo). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Diphtheria toxin (DT) treatment ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All mice were aged 8-16 weeks at the onset of experiment.Each mouse was i.p.injected with $5 0 ~ { \\mu \\mathrm { g / k g } }$ body weight of DT from Corynebacterium diphtheria (Calbiochem, San Diego, CA, USA)on two consecutive days,day0 and day1.Blood samples were taken from each mouse prior to injection,on the indicated days.The peripheral blood was lysed, stained with antiCD4 and examined through FACS Calibur. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Invitrovalidation studies ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MicroRNA activity in gene regulation mainly occurs through the interaction of miRNA with the ${ 3 ^ { \\circ } }$ -UTR of its target gene. To assess the specificity of the miR-155-5p-OFF system, miR155-5p target was evaluated by inserting four tandem copies of a 23-bp sequence with perfect complementarity to miR-155-5p into the ${ 3 ^ { \\circ } }$ -UTR of the firefly luciferase gene. This strategy of using multiple copies of miRNA target sequence has been wellvalidated [21].The miR-155- 5p target was initially validated by a conventional luciferase reporter assay in transfected HEK293T cells with a pmirGLO carrying miR-155-5p target and vector expressing miR-155 or miR-146a (as a miRNA control). The results showed that the miR-155-5p target was responsible for overall miR-155-5p interaction leading to decreased luciferase signals compared to HEK293T cells transfected with miR-146a (Fig 1A).Next, we constructed the miR-155-5p sensor by inserting the $4 { \\times }$ miR-155-5p target sequence into the ${ 3 ^ { \\circ } }$ -UTR of a DTR.BFP fusion reporter gene (termed as DTR.BFP-155T).FACS analysis showed that miR-155-5p was able to knock down the BFP reporter signal leading to decrease in expression level of BFP in dose dependent assays (Fig 1B).To further determine sensitivity of the miR-155-5p-OFF system in response to expresson of miR-155-5p,HEK293T cells were transfected with pDTR.BFP-155TN1 along with varying amounts of synthetic precursor miR-155 ranging from 0 to $4 0 \\mathrm { n M }$ (Fig 1C). It showed that the fold change of DTR expression from HEK293T cells transfected with pDTR.BFP-155-N1 was inversely correlated with increasing amounts of synthetic miR-155. The linear relationship between miR-155-5p level and DTR expresson was found to be correlated $\\langle \\mathrm { R } ^ { 2 } = 0 . 8 9 6 9 \\rangle$ , with varying concentration of miRNA ranging from 0 to $2 . 5 \\mathrm { n M }$ (Fig 1D). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Generation and Characterization of miR-155-5p sensor transgenic mice ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With an aim to generate miR-155-5p sensor transgenic mouse providing tissue specific determination and ablation,the 1463 bp long DTR.BFP-155T fragment was inserted downstream of the LoxP-STOP-LoxP element in order to prevent transcription of the reporter gene. Further, the whole cassette,LoxP-STOP-LoxP-DTR.BFP-155T, was inserted downstream of a transcriptional start site at the ubiquitously expressed R26 locus (Fig 2A). The final modified BAC constructs were then microinjected into the pronuclei of fertilized oocytes of $\\textrecipe$ DBA2F1mice to generate R26-DTR-155T sensor transgenic mice. R26-DTR mouse carrying an identical transgene with the exception of miR-155-5p target sequence was used as control (Fig 2A).We obtained two founders,47 and 84,for R26-DTR-155T mice and one for R26-DTR mouse. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/913280b40407692cfe87043534d031ebc6d1d7b0afe5477387efb6ea2aa5e810.jpg",
+        "img_caption": [
+            "Fig1.Validati5psi()Vdatf5eeraseladi piG-45-sdi 1:1.(B)Vida transfectedeprgr5 ofBFPreportesiaaadtohooftrsecti.dsifi-5st.df meafuoesectis 10,20,and40)ofsythetici-55oricontrol.gnificancewascalcuatedbyudentsttestusigGrapPadPrsotare. ${ \\mathsf N } = 3$ ns: not significant; $\\yen 123,45$ $\\ast \\ast \\mathsf { P } { < } 0 . 0 1$ $\\yen 123,456$ $\\yen 123,456$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0128198.g001 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To characterize the founder mice,three founders were first crossed with CMV-Cre mice that express Cre recombinase driven by the cytomegalovirus minimal(CMV) promoter. In the resultant mice, deletion of LoxP-flanked stop cassette occurred in all tissues including germ cells leading to the transcription of the reporter gene in every living single cell [29]. In miR-155 -5p high-expressing cell, miR-155-5p binds to target mRNAs and inhibits or degrades protein translation. However, in case of miR-155-5p low-expressing cell,the overall concentration of miR-155-5p has no significant efect upon the translation proces. When examine with flow cytometry,the activity of miR-155-5p will be inversely proportional to the expression level of DTR or BFP reporter protein (Fig 2B). The BFP signal was detectable in all mice, whereas the DTR had a much stronger signal; therefore, we selected the DTR as a reporter in this study (data not shown).DTR expression in both conventional (conv) CD4 cells and Treg cels from two founders of miR-155-5p sensor transgenic mice was significantly lower compared to the control. Since founder 47 was much lower in expressing the DTR reporter than founder 84 (Fig 2C),it might indicate that different copy numbers or integration sites of the transgene into the chromosome resulted in unequal yield of miR-155-5p target reporter mRNA [30,31]. Importantly, DTR expression by Treg was significantly decreased from R26-DTR-155T mice only and not from R26-DTR mice (control),in comparison with expression by conv CD4 cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inhibition of miR-155-5p rapidly releases DTR expression ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To test whether the low DTR expressing cells was the efect ofhigh level of miR-155-5p activity, we carried out experiments with the transduction of antagomiR-155 also known as antimiR-155, which was used to silence endogenous miR-155-5p.Flow cytometry analysis showed that the expression of DTR was increased significantly once miR-155-5p was inhibited (Fig 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e20d4bcfe25ca7e5a2132ff0f7a2fef4da706aec1b0216945163206d71c279b2.jpg",
+        "img_caption": [
+            "Fig2.Generatidacteifi-agice.(atiratfsgcsrcts R26-DTR-BAClackingmiR-15-5ptargetsequence.Rightpanel-R26-DTR-155T-BACcontaining4xmiR-155-5ptargetsequence nte ${ \\boldsymbol { 3 } } ^ { \\prime }$ UTRofDTR-BFP fusionene.TefusocaseegneastenplacddowstreamofOlementflankedbyPsitesivnyosa6promoter.Batic i expreionevelofF.(C)enotyf26-15Tce.FgresinteupperanesoFACSproflingfexpressoinotioal (conv)CD4gatafessd8f5d croedithdliaititdoatdireptai "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0128198.g002 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These results indicated that the expression level of DTR was significantly influenced by the level of endogenous miR-155-5p activity. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Detection of miR-155-5p activity by R26-DTR-155T mice in distinct cell lineages ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Next, we took advantage of CMV-Cre x R26-DTR-155T and CMV-Cre x R26-DTR control mice to determine the activity of miR-155-5p in conv CD4 (CD4+Foxp3-), Treg(CD4+Foxp3 $+ { \\dot { } }$ ), CD8,and B cells under homeostatic condition (Fig 4A). Only Treg cells showed strikingly decreased level of DTR expression in resting conditions, which is consistent with previous deep sequencing reports [32,33] and further confirmed by qRT-PCR analysis (Fig 4A). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "It has been reported that miR-155 is highly expressed in effector or memory Treg cells compared to lower expresson levels in both naive Treg cells and naive conventional CD4 cells [33]. To determine miR-155-5p activity in effector cells, we used CD44 and CD62L as marker to define them. We observed that $\\mathrm { C D 4 4 } ^ { \\mathrm { h i g h } }$ cells or CD62Llow cels of CMV-Cre x R26-DTR-155T mice showed low level of DTR expression in both conv CD4 cells and Treg cells compared to that of CMV-Cre x R26-DTR mice (Fig 4B). The low level of DTR expression in CD44 high cells or CD62L low cells was significant different from $\\mathrm { C D 4 4 ^ { l o w } }$ cells or $\\mathrm { C D } 6 2 \\mathrm { L } ^ { \\mathrm { h i g h } }$ cells in both conv CD4-gated cells and Treg-gated cells of CMV-Cre x R26-DTR-155T mice (Fig 4C and 4D). The expression of DTR in naive cells and effector cell of conv $\\mathrm { C D 4 + }$ and Treg cells from CMV-Cre x R26-DTR-155T mice was inversely correlated with the expression level of miR155 in those cells from Foxp3-GFP-Cre x R26-YFP mice detected by qRT-PCR.These results demonstrate the response by CMV-Cre x R26-DTR-155T mice to distinct levels of miR-155- 5p activity,which implies that effector cells have higher level of miR-155-5p activity than naive cells. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d1d43397ed6739074766d630c743dbb74d3e3ca27b330aa262e8b1967ab5462.jpg",
+        "img_caption": [
+            "Fig3.Inhibitionof miR-155-5pwithantagomir-155 rapidly releasesDTRexpression.LNcelsof CMV-CrexR26-YFP $\\times$ R26-DTR-155T mice founder 47 were stimulated with anti-CD3 for 48 hours.The activated cels were then transfected with $2 0 0 { \\mathsf { n M } }$ antagomir-155 or 200 nMantagomir-142 as negative controlFCassouoftructectiitooo trasucedatdetpdd cels.RightpanelshowsDTRMFlofindicatedcels.SignificancewascalculatedbyStudent'st-testusingGraphPadPrism5software. $\\ N = 3$ 号 $\\yen 123,456$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0128198.g003 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9ce04889062a0ce49410bbfe0f710935d45081d51e9fb4ee36fb35792125b661.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig4Relativesitl.(i specific celltpes of interest.LN cells from CMV-Crex R26-DTR-155T mice or CMV-Cre $\\mathsf { x }$ R26-DTR mice were stained with anti-DTR along with either antiCD4,anti-Foxp3 (intracellular staining),anti-CD8 and anti-B220 for conventional CD4 $( \\mathsf { C D 4 + F o x p 3 - } )$ ,Treg $( \\mathsf { C D 4 + F O \\times p 3 + } )$ ,CD8 and B cells respectively. DTR expression was shown by mean fluorescence intensity (MFl).Data represent mean $\\pm \\mathsf { S D }$ 0 $\\Nu = 3$ forCMV-Ce $\\boldsymbol { \\mathsf { x } }$ R26-DTR mice and ${ \\mathsf N } = 5$ for CMV-Cre x R26-DTR-5ce)eesdeexpiesnadedi representsthepatternlevelofmiR-155-5pactivityofconvCD4-gatedcelsandofTreg-gatedcelsfor $C D 4 4 ^ { \\mathsf { h i g h } }$ $\\mathsf { C D 4 4 } ^ { \\mathsf { l o w } }$ cellsandCD62LhighorCD62Low cells. (C-D) Comparisonof DTRMFIofconvCD4-gated celsand Treg-gated celsin $\\bar { \\mathsf { C D 4 4 } } ^ { \\mathsf { h i g h } }$ o $\\mathsf { C D 4 4 } ^ { \\mathsf { l o w } }$ cells and CD62LhighorCD62LloWcellsfrom R26-DTRmiced6ceEacsbeprestsoemouedalltaliidatetherettt endogenous expression levels ofmiR-155in indicated cels(innaiveconvCD4( $C D 4 +$ CD62LhighYFP-),effectorconvCD4 $\\mathsf { \\Gamma } ( \\mathsf { C D 4 + C D 4 4 } ^ { \\mathsf { h i g h } }$ YFP-), in naive Treg $\\mathsf { \\bar { ( C D 4 + C D 6 2 L ^ { \\mathsf { h i g h } } Y F P + } }$ effectorTreg $\\begin{array} { r } { ( \\mathsf { C D 4 + C D 4 4 } ^ { \\mathsf { h i g h } } \\mathsf { Y F P + } ) ; } \\end{array}$ ,effectorTreg $\\scriptstyle ( \\mathsf { C D 4 + C D 4 4 } ^ { \\mathsf { h i g h } } \\mathsf { Y F P + } ) )$ of Foxp3-GFP-Cre $\\mathsf { x }$ R26-YFP mice detected by qRT-PCR.Significance was calculated by student t-test using GraphPad Prism version 5 software. $N = 3$ ,ns; not significant, $\\yen 123,45$ $^ { \\ast \\ast } \\mathsf { P } { < } 0 . 0 1$ ， （20 $\\yen *$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0128198.g004 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Since Treg cels express the highest level of miR-155-5p activity, we respectively crossed two founders (47 and 84) of R26-DTR-155T mice with Foxp3-GFP-Cre x R26-YFP mice to produce triple transgenic mice (Foxp3-GFP-Cre $\\mathbf { \\Delta x } \\mathrm { R } 2 6 \\mathbf { - } \\mathbf { Y } \\mathbf { F } \\mathbf { P } \\times \\mathrm { R } 2 6$ -DTR-155T mice). The two founders revealed a distinctive expression pattern of DTR with two populations, DTR- expressing (miR-155-5plow) Treg cels and DTR- non-expressing $( \\mathrm { m i R - } 1 5 5  – 5 \\mathrm { p } ^ { \\mathrm { h i g h } } ,$ )Treg cells (Fig 5A). According to Treg cels expressing two distinct populations of DTR expression level, we considered that DTR- expressing Treg cells might be exFoxp3s [28]. These cells were $\\mathrm { F o x p } 3 ^ { + }$ at one time,but do not express detectable Foxp3 anymore.Thus,we pre-fixed cells with $1 \\%$ paraformaldehyde to preserve YFP and then stained for Foxp3.Using this method,we were able to distinguish Treg cell subset into exFoxp3 cells and Treg cells characterized by $\\mathrm { Y F P ^ { + } F o x p } 3 ^ { - }$ and $\\mathrm { Y F P ^ { + } F o x p 3 ^ { + } }$ respectively (Fig 5B). Surprisingly, exFoxp3 cells stil maintained high level of miR-155-5p activity even after they lost Foxp3 expresson (Fig 5B),which is inconsistent with previous study that continuous Foxp3 expression is indispensable for the maintenance of high amounts of miR-155-5p in Treg cells [10]. These results suggested that miR-155-5p can be induced through other signaling molecules such as T-cell receptor [34]. Treg can be divided into central T reg (cTR) and effector T reg (eTR) cells, based upon the expression of CD62L and CD44,which have very different homeostatic characteristics [35].In consistent with the results in conventional Tcels, we found that miR-155-5p activity was significantly high in effector T reg (eTR) cells, which express CD62Llow and $\\mathrm { C D 4 4 } ^ { \\mathrm { h i g h } }$ cells (Fig 4B and 4D). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To assess whether the DTR-expressing Treg cells would be eliminated, we injected each mouse with DT twice and monitored the number of remaining Treg cells in peripheral blood. The remaining number of Treg cels from Foxp3-GFP-Cre x R26-YFP mice lacking transgene did not change during the time of injection. Approximately $9 0 \\%$ of Treg cells from Foxp3-GFP-Cre X ${ \\mathrm { R } } 2 6 { \\mathrm { - Y F P } } \\times { \\mathrm { R } } 2 6 { \\mathrm { - } } ]$ DTR mice lacking miR-155-5p target were depleted whereas two founders 47 and 84 carrying miR-155-5p target had $5 5 \\%$ and $2 5 \\%$ of eliminated Treg cells,respectively,which were consistent with the number of DTR- expressing Treg cells (Fig 5C). These results demonstrated that R26-DTR-155T mice provided cellablation in distinctive miR-155-5p expressing cells. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A new challenge in the field of miRNA biology is to study its function in living systems. miRNA activity is likely to be influenced by multiple factors.Schug et. al. reported that miRNA recruitment to the RISC did not always correlate with the level of miRNA expresson [18]. Thus, we speculated that it would be informative to assess miRNA activity by detecting output of expression level of reporter protein in living single cell. To study miR activity in vivo, we generated a novel miR-155-5p transgenic mouse line by inserting miR-155 -5p target sequence downstream of a ubiquitous expressng reporter comprising DTR and BFP based on miR-OFF ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c0606964e3b0fbbee9e6921f4b2b1632939f1f3fd6d3e54f0c3c048375e0d17.jpg",
+        "img_caption": [
+            "Fig5.ActivityofmiR-15-5pinTregcellsubsets.(A)PhenotypeftwoR26-DT-155Tfounders.LNcelsofFoxp3-GFP-CreR6-YFP $\\times$ R26-DTR155T mice were stained for DTR. ${ \\mathsf { Y } } { \\mathsf { F } } { \\mathsf { P } } ^ { + }$ cells represent Creexpressingandonceexpressedcells,whichwere dividedintotwopopulations,DTR-expressing cell( (B)Comparisopreetacude) Depletion of DTR-expressing Treg cells.The figure on the left represents the percentage of the remaining $\\mathsf { Y } \\mathsf { F } \\mathsf { P } ^ { + } \\mathsf { C } \\mathsf { D } 4 ^ { + }$ cells in peripheral blood.Each mouse was i.p. injected with $5 0 \\mu \\ g / \\ K \\ g$ body weight of DTon two consecutive days,at day0 and day1 after taking blood. $\\mathsf { Y } \\mathsf { F } \\mathsf { P } ^ { + } \\mathsf { C } \\mathsf { D } 4 ^ { + }$ cells represent Treg cells. The figurtsososstc onemouseandsmallhorzontalinesindcatetheman.SignificancewascalculatedbyStudent's-testusingGrapPadPrism5softare. ${ \\mathsf N } = 3$ ,ns-not significant; $^ { * * * } { \\mathsf { P } } { < } 0 . 0 0 1$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1371/journal.pone.0128198.g005 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "system.To gain both efficiency and sensitivity, we chose BAC transgenic approach to generate our miR-155-5p transgenic mouse line,termed as R26-DTR-155T.A previously validated murine BAC clone RP24-85L1 was used to generate R26-DTR and R26-DTR-155T BAC transgenic strains in this study [36].Giel-Moloney et al [36] had demonstrated the ubiquitous and uniform expression of transgene under control of this 187 kb BAC containing the R26 locus. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Moreover, multiple copies of BAC transgene can be integrated into mouse chromosome after pronuclear microinjection, which can significantly increase the transgene expresson level [31]. We found that DTR expresson from CMV-Cre x R26-DTR mice indeed recapitulated the expression pattern of R26 knockin strain.However, DTR expression from R26-DTR-155T mice was inversely correlated with miR-155-5p expression in most of the celltypes.Moreover, decreased DTR expresson can be partial recovered by inhibition of endogenous miR-155-5p activity. Thus, this new miR-155-5p transgenic mouse line could be used to track miR-155-5p activity in vivo in specific cell types of interest. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Currently, we do not know a threshold level of miR-155-5p activity that is required for playing a critical role in cellineage differentiation and immune responses to control physiological and pathological processes.It has been reported that miR-155 promotes autoimmune diseases in experimental autoimmune encephalomyelitis (EAE) model [37-39]. Thus the R26-DTR$1 5 5 \\mathrm { T }$ mice might be useful to address this question by using adoptive transfer of cells with distinct level of miR-155-5p activity into recipient mice. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In addition, using R26-DTR-155T mice as a miR-155-5p activity sensor, we showed that effector cells defined by $\\mathrm { C D 4 4 } ^ { \\mathrm { h i g h } }$ or CD62Llowcells express higher level of miR-155 -5p than naive cells.It has now become clear that miR-155-5p levels are increased after stimulation of cells through multiple cellular signaling pathways and the activation of T cels is a tightly regulated process to maximize protective immune responses to pathogens while minimizing damage to self-tissues [40]. The role of miR-155-5p activity after cell activation is unclear, suggesting that these new miR-155-5p transgenic mice may prove to be useful tools based on tissue-specific miR-155-5p activity sensor. OX40 (CD134) is a member of the TNF receptor family and constitutively expressed on activated cels. It is strongly induced in activated CD4 T cells and Treg cells in OX40 Cre mice [41]. Another gene, the orphan nuclear hormone receptor Nur77 (also known as NR4A1),is rapidly induced in response to BCR signaling. Zikherman and colleagues [42] used the Nur77-GFP transgenic reporter mice to track BCR signaling during B cell development, showing that B cel responsiveness to antigen receptor stimulation was found to vary in a manner that was inversely correlated with GFP signal. Thus, both OX40 and Nur77 reporter mice are suitable to study miR-155-5p activity in activated $\\mathrm { C D 4 } ^ { + }$ T cells, Treg cells,and activated B cells respectively,by crossing with our miR-155-5p transgenic mice. The role of miR-155-5p in activated $\\mathrm { C D 8 ^ { + } }$ T cels was studied in the context of antiviral T cell responses in vivo [12].It was shown that effector Tcells have higher miR-155-5p expression level than naive cells and effector memory $( \\mathrm { T _ { E M } } )$ cells by maintaining miR-155-5p at a higher level, while central memory $( \\mathrm { T _ { C M } } )$ cells downregulate miR-155-5p expression to the same level in naive cels, suggesting that miR-155-5p might indeed play a functional role in $\\mathrm { C D 8 ^ { + } }$ memory differentiation. After pathogen clearance,it is known that most of the specific Tcels undergo apoptosis and some develop into memory cells but we know litle about the role of miR-155-5p in memory fate decision.With potential to deplete naive cells and central memory cells, miR155-5p transgenic mice might be used to monitor the fate of effector and effector memory $\\mathrm { C D 8 ^ { + } }$ T cells.Further studies would be required for confirming whether DTR expression from the miR-155-5p transgenic mice is only regulated by miR-155-5p,and it can be achieved by crossing the miR-155 deficient mice or miRNA-deficient mice with R26-DTR-155T mice. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "One drawback of R26-DTR-155T mice is the relative long half-life of DTR-BFP (S1 Fig), which might not be suitable for monitoring dynamic processes of miR-155-5p.In such cases, DTR-BFP reporter can be substituted with d1GFP variant in the future,which has a much shorter half-life [43]. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we propose that the R26-DTR-155T mice might prove to be efficient in vivo model for studying distinctive miR-155-5p expressing cell subsets.In addition, we expect that these mice would be useful tools for tracking miR-155-5p activity in activated cels in several different experimental contexts. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "S1 Fig. Validation of DTR turnover by cycloheximide assay. HEK293T cells transfected with pDTR.BFP.155T-N1.48 hours post transfection, cells were treated with $1 0 0 ~ \\mathrm { \\mu g / m L }$ of cycloheximide for consecutive 0,4,8,12,24,and 48 hours. The treated cells were stained for DTR protein expression and analyzed by flow cytometry.   \n(TIF) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr.Yan Zhang, Institute Pasteur of Shanghai CAS, Shanghai, China for CMVCre mice. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: KP JG XZ. Performed the experiments: KP JG WZ TH.Analyzed the data: KP XZ. Contributed reagents/materials/analysis tools: KP JG WZ TH JZ. Wrote the paper: KP BMB JZ XZ. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.Lagos-QuintanaM,RauhutR,YalcinA,MeyerJ,Lendeckel W,TuschlT.IdentificationofTissue-Specific MicroRNAs from Mouse.Current Biology.2002;12(9):735-9.PMID:12007417   \n2. Weber MJ.New human and mouse microRNA genes found by homology search.FEBS.2005; 272 (1):59-73.PMID:15634332   \n3. Faraonil,Antoneti FR, Cardone J,BonmassarE.miR-155 gene: a typical multifunctional microRNA. Biochimica et Biophysica Acta.2009;1792(6):497-505.doi:10.1016/j.bbadis.2009.02.013 PMID: 19268705   \n4. Elton TS,Selemon H,Elton SM,Parinandi NL.Regulation of the MIR155 host gene in physiological and pathological processes. Gene.2013; 532(1):1-12.doi: 10.1016/j.gene.2012.12.009 PMID: 23246696   \n5. Elton TS,Sansom SE, Martin MM.Cardiovascular Disease,Single Nucleotide Polymorphisms; and the Renin Angiotensin System: Is There a MicroRNA Connection? International Journal of Hypertension. 2010 Oct 16.doi: 10.4061/2010/281692   \n6. Costinean S,ZanesiN,PekarskyY,TiliE,VoliniaS,HeeremaN,etal.Pre-Bcellproliferationand lym phoblastic leukemia/high-grade lymphomain E(mu)-miR155 transgenic mice.Proceedings of the National Academy of Sciences of the United States of America.2006;103(18):7024-9.PMID:16641092   \n7. Moffett HF,Novina CD.A small RNA makes a Bic difference.Genome Biology.2007; 8(7):221.PMID: 17666120   \n8. RodriguezA,Vigorito E,Clare S,Warren MV,CouttetP,Soond DR,etal.Requirementof bic/microRNA-155 for normal immune function.Science.2007; 316(5824):608-11.PMID:17463290   \n9. TrottaR,Chen L,Ciarlariello D,JosyulaS,Mao C,Costinean S,etal.miR-155 regulates IFN-gamma production in natural killer cells.Blood.2012;119(15):3478-85.doi: 10.1182/blood-2011-12-398099 PMID:22378844   \n10. Lu LF,ThaiTH,Calado DP,ChaudhryA,Kubo M,Tanaka K,etal.Foxp3-dependent microRNA155 confers competitive fitnessto regulatory Tcells by targeting SOCS1 protein.Immunity.2009;30(1):80- 91. doi: 10.1016/j.immuni.2008.11.010 PMID:19144316   \n11. Baumjohann D,Ansel KM. MicroRNA-mediated regulation of T helper cel differentiation and plasticity. Nature Reviews Immunology.2013;13(9):666-78. doi: 10.1038/nri3494 PMID: 23907446   \n12. Gracias DT, Stelekati E, Hope JL,Boesteanu AC,Doering TA,Norton J,etal.The microRNA miR-155 controls $\\mathsf { C D 8 } ( + )$ T cell responses by regulating interferon signaling.Nature Immunology.2013;14 (6):593-602.doi: 10.1038/ni.2576 PMID: 23603793   \n13.Vigorito E, Perks KL,Abreu-Goodger C, BuntingS, Xiang Z, Kohlhaas S,etal.microRNA-155 regulates the generation of immunoglobulin class-switched plasma cels.Immunity.20o7;27(6):847-59. PMID: 18055230   \n14.Thai TH, Calado DP,CasolaS,Ansel KM, Xiao C, XueY,etal. Regulation of the germinal centerresponse by microRNA-155.Science. 2007; 316(5824):604-8. PMID: 17463289   \n15. TiliE,Croce CM,MichailleJJ.miR-155:on thecrosstalk between inflammationand cancer. International Reviews of Immunology. 2009; 28(5):264-84. doi: 10.1080/08830180903093796 PMID: 19811312   \n16. Kong W,Zhao J-J,HeL, Cheng JQ.Strategies for profiling MicroRNA expression.Journal of Cellular Physiology.2009; 218(1):22-5. doi: 10.1002/jcp.21577 PMID: 18767038   \n17. FriedlanderMR,ChenW,Adamidi C,MaaskolaJ,EinspanierR, Knespel S,etal.Discovering microRNAs from deep sequencing data using miRDeep.Nature Biotechnology.2008; 26(4):407-15.doi: 10. 1038/nbt1394 PMID: 18392026   \n18.Schug J,McKennaL,Walton G, Hand N, Mukherjee S, Essuman K,etal. Dynamic recruitmentof microRNAs to their mRNA targets in the regenerating liver. BMC Genomics. 2013; 14(1):264.   \n19. Jeker LT,Bluestone JA.MicroRNA regulation of T-celldiferentiation and function.Immunological Reviews.2013; 253(1):65-81. doi: 10.1111/imr.12061 PMID: 23550639   \n20. Mansfield JH, Harfe BD, Nissen R,Obenauer J,Srineel J, Chaudhuri A,etal. MicroRNA-responsive 'sensor'transgenes uncover Hox-like and otherdevelopmentally regulated pattrns of vertebrate microRNA expression. Nature Genetics.2004; 36(10):1079-83.PMID: 15361871   \n21. Brown BD,Venneri MA, Zingale A, Sergi Sergi L, Naldini L.Endogenous microRNA regulation suppresses transgene expression in hematopoietic lineages and enables stable gene transfer.Nature Medicine.2006;12(5):585-91. PMID: 16633348   \n22.Lee JY, Kim S, Hwang do W,Jeong JM,Chung JK,Lee MC,etal. Developmentof adual-luciferase reporter system for in vivo visualization of MicroRNA biogenesis and postranscriptional regulation.Journal of Nuclear Medicine.2008; 49(2):285-94.doi: 10.2967/jnumed.107.042507 PMID: 18199619   \n23. Wang G,Dong X, Hu J,Tian W,Yuchi J,Wang Y,et al.Long-term ex vivo monitoring of in vivo microRNA activity in liver using asecreted luciferase sensor. Science China Life Sciences.2011; 54(5):418- 25. doi: 10.1007/s11427-011-4171-0 PMID: 21574043   \n24. Amendola M, Giustacchini A, Gentner B, NaldiniL.Adouble-switch vector system positively regulates transgene expression by endogenous microRNA expression (miR-ON vector). Moleculartherapy: Journal of the American Society of Gene Therapy.2013;21(5):934-46.   \n25. Ezzine S,VassauxG,Pitard B,Barteau B,Malinge JM, Midoux P,etal. RILES,a novel method for temporal analysis of the in vivo regulation of miRNA expression.Nucleic Acids Research.2013; 41(20): e192. doi: 10.1093/nar/gkt797 PMID: 24013565   \n26．Srinivas S,Watanabe T,Lin CS,Willam CM,Tanabe Y,JessellTM,etal. Cre reporter strains produced by targeted insertion of EYFP and ECFP into the ROSA26 locus.BMC Developmental Biology.2001; 1:4. PMID: 11299042   \n27. Murai K,Murakami H,Nagata S.Myeloid-specific transcriptionalactivation by murine myeloid zinc-finger protein 2.Proceedings of the National Academy of Sciences of the United States of America.1998; 95(7):3461-6. PMID: 9520388   \n28.Zhou X,Bailey-BucktroutSL,JekerLT,Penaranda C, Martinez-LlordelaM,AshbyM,etal.Instability of the transcription factor Foxp3 leads to the generation of pathogenic memory Tcels in vivo. Nature Immunology.2009; 10(9):1000-7. doi: 10.1038/ni.1774 PMID: 19633673   \n29. Schwenk F,Baron U,Rajewsky K.Acre-transgenic mouse strain for the ubiquitous deletion of loxPflanked gene segments including deletion in germ cels.Nucleic Acids Research.1995;23(24):5080-1. PMID:8559668   \n30.Nehlsen K,Schucht R,da Gama-Norton L, Kromer W,BaerA,Cayli A,etal. Recombinantprotein expression by targeting pre-selected chromosomal loci. BMC Biotechnology.2009;9:100.doi: 10.1186/ 1472-6750-9-100 PMID: 20003421   \n31.Alexander GM,ErwinKL,Byers N,Deitch JS,Augeli BJ,Blankenhorn EP,etal.Effectof ransgene copy number on survivalin the G93A SOD1 transgenic mouse model of ALS. Brain research Molecular Brain Research.2004;130(1-2):7-15.PMID:15519689   \n32. Kuchen S,Resch W,Yamane A, Kuo N,Li Z, ChakrabortyT,etal. Regulation of microRNA expression and abundance during lymphopoiesis.Immunity.2010; 32(6):828-39.doi: 10.1016/j.immuni.2010.05. 009 PMID: 20605486   \n33.SeddikiN,Swaminathan S,Phetsouphanh C,Kelleher AD.miR-155 is differentially expressed inTreg subsets,which may explain expression level diffrences of miR-155 in HIV-1 infected patients.Blood. 2012; 119(26):6396-7. doi: 10.1182/bl00d-2012-02-412874 PMID: 22745300   \n34.Das LM,Torres-Castillo MD,GillT,Levine AD.TGF-beta conditions intestinalTcells to express increased levels of miR-155,associated with down-regulation of IL-2and itk mRNA.Mucosal Immunology.2013;6(1):167-76. doi: 10.1038/mi.2012.60 PMID:22785227   \n35. Smigiel KS,Richards E,Srivastava S,Thomas KR,Dudda JC,Klonowski KD,etal.CCR7 provides localizedaccess to IL-2and defines homeostatically distinct regulatoryTcell subsets.Journal of Experimental Medicine.2014;211(1):121-36.doi: 10.1084/jem.20131142 PMID:24378538   \n36. Giel-Moloney M, Krause DS,Chen G,Van Etten RA,Leiter AB.Ubiquitous and uniform in vivo fluorescence in ROSA26-EGFP BAC transgenic mice.Genesis.2007; 45(2):83-9.PMID:17269129   \n37. O'ConnellRM, Kahn D, Gibson WS, Round JL, Scholz RL, Chaudhuri AA,etal. MicroRNA-155 promotes autoimmune inflammation by enhancing inflammatory Tcelldevelopment.Immunity.2010; 33 (4):607-19. doi: 10.1016/j.immuni.2010.09.009 PMID:20888269   \n38. Murugaiyan G,Beynon V,Mital A,JollerN,Weiner HL.Silencing microRNA-155ameliorates experimentalautoimmune encephalomyelitis.Journal of Immunology.2011; 187(5):2213-21.doi: 10.4049/ jimmunol.1003952 PMID: 21788439   \n39. Zhang J,Cheng Y,CuiW,LiM,LiB,Guo L.MicroRNA-155 modulates Th1 and Th17celldifferentiatior and is associated with multiple sclerosisand experimental autoimmune encephalomyelitis.Journal of Neuroimmunology.2014; 266(1-2):56-63. doi: 10.1016/j.jneuroim.2013.11009 PMlD: 24355750   \n40. Lind EF, Ohashi PS.Mir-155,a central modulatorof T-cell responses. European Journal of Immunology.2014; 44(1):11-5.PMID:24571026   \n41. KlingerM, Kim JK,ChmuraSA,Barczak A,Erle DJ,KilleenN.Thymic OX40 expression discriminates cells undergoing strong responses to selection ligands.Journal of Immunology.20o9;182(8):4581-9. doi: 10.4049/jimmunol.0900010 PMID: 19342632   \n42. Zikherman J,Parameswaran R,Weiss A.Endogenous antigen tunes the responsiveness of naive B cells but notTcells.Nature.2012; 489(7414):160-4.doi: 10.1038/nature11311 PMlD: 22902503   \n43. CorishP,Tyler-Smith C.Attenuation of green fluorescent protein half-life in mammaliancels.Protein Engineering.1999;12(12):1035-40.PMID:10611396 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

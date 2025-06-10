@@ -1,0 +1,402 @@
+[
+    {
+        "type": "text",
+        "text": "不同水分胁迫下的春小麦叶片气体交换参数和水分利用效率研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈斐¹，闫霜²，王鹤龄'，张凯¹，赵福年¹，黄小燕¹(1.中国气象局兰州干旱气象研究所,中国气象局干旱气候变化与减灾重点开放实验室,甘肃省干旱气候变化与减灾重点实验室,甘肃 兰州 730020;2.北京市密云区气象局,北京 101500)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：叶片气体交换参数是作物产量形成的生理基础,其中光合速率和蒸腾速率决定了叶片水分利用效率，对作物抗旱节水研究具有重要意义。在定西和武威两个试验站进行春小麦盆栽水分模拟试验，设置对照（CK）持续干旱（WS）、中旱（ $4 0 \\% \\mathrm { F C } )$ 和重旱（ $3 0 \\% \\mathrm { F C } ) 4$ 组处理，分析不同水分条件下春小麦叶片气体交换参数和水分利用效率 $W U E _ { \\mathrm { i n s t . } } \\mathrm { ~ }$ )的变化特点及其相关特征。结果表明：(1)持续干旱胁迫下,春小麦的土壤日耗水量、光合速率、蒸腾速率和气孔导度均呈先快后慢的下降趋势,达到中旱和重旱水平时相比CK分别减小了 $71 \\%$ 和 $7 6 \\% . 3 9 \\%$ 和 $6 0 \\%$ ， $5 7 \\%$ 和 $6 6 \\% , 6 0 \\%$ 和 $7 7 \\%$ ,受影响程度为：气孔导度 $>$ 蒸腾速率 $>$ 光合速率,胞间 $\\mathrm { C O } _ { 2 }$ 浓度在轻旱-中旱时下降，中旱后期降幅达 $3 3 \\%$ ,之后呈上升趋势， $W U E _ { \\mathrm { i n s t } }$ 在轻旱-中旱阶段上升，中旱后期时增加 $4 1 \\%$ ,之后下降，相比于CK,轻-重度胁迫会提高 $W U E _ { \\mathrm { i n s t } }$ ,极度干旱则使之降低;(2）当水分胁迫维持在中旱或重旱水平时,以上各指标均会维持在持续十旱达到相同干旱等级时对应的值附近，且中旱时值均高于重旱时的数值( $\\cdot P < 0 . 0 5$ );(3）在持续干旱胁迫的轻旱-中旱阶段,净光合速率和蒸腾速率互为主导影响因子,而在持续干旱胁迫之后的阶段，以及胁迫维持在中旱或重旱情形下，两者的主导因子均为气孔导度， $W U E _ { \\mathrm { i n s t } }$ 在水分充足一持续干旱胁迫时均以蒸腾速率为主导因子，而当胁迫维持在中旱或重旱时其受叶片气体交换参数的调控作用不明显。本研究结果可为作物在不同干旱阶段和情形下采取适当措施进行抗旱节水提供参考依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：春小麦；水分胁迫；光合参数；气孔导度；水分利用效率",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国约有一半地区属于干旱、半干旱区，光热资源丰富，但是降水少且时空分布不均，降水期与作物需水期错位，季节性水分亏缺等因素导致降水资源的水分利用率低，同时土壤蒸发强烈，空气干燥，生态环境问题严重，水资源严重制约该地区经济社会的发展，干旱成为当地作物产量提高的主要限制因素之—[1-4]。提高作物水分利用效率能够使得灌溉农田以最少的水分投人、雨养农田以最大的降雨利用效率来实现高产，被认为是缓解干旱半干旱区水分短缺和减少环境问题的关键，也是节水农业的研究核心[5]。而掌握水分限制条件下作物水分利用效率的变化规律和主导影响因子，是寻求有效途径来提高水分利用效率的关键。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水分利用效率(wateruse efficiency,WUE)指作物消耗单位质量水所生产的干物质量，反映植物生产过程中的能量转化效率，是衡量作物产量与用水量关系的一种指标。根据尺度不同，可以划分为叶片、群体和产量3个水平上的水分利用效率。其中叶片水分利用效率 $( W U E _ { \\mathrm { i n s t } }$ )被定义为光合速率与蒸腾速率之比，它耦合了叶片光合与水分消耗2个生理过程，表征了作物在定量水分消耗情况下固定$\\mathrm { C O } _ { 2 }$ 的能力，是作物水分利用效率的短期生理衡量指标，其与叶片气体交换参数被认为是衡量作物品种耐旱性的重要参数，对人们了解作物水分利用特征和探讨冠层乃至区域植被的WUE具有重要的应用指导价值[6-9]。因此,大量学者除对作物群体与产量尺度上的水分利用效率进行了研究之外[10-12],也对叶片尺度上的水分利用效率开展了诸多研究，主要涉及叶片水分利用效率对环境因子（光、 $\\mathrm { C O } _ { 2 }$ 水等）、栽培措施(种植密度、灌溉方式、施肥等)等因素的响应[13-18],以及水分状况与其他因素的交互效应对其的影响[19-21]。仅就水分胁迫一项因素来说,处于水分胁迫下的作物通过降低叶水势和气孔导度以减少蒸腾损失，从而减轻胁迫的不利影响，与此同时， $\\mathrm { C O } _ { 2 }$ 同化速率会相应减小，光合速率下降，最终使得水分利用效率高于正常生长状况下，出现水分胁迫提高作物水分利用效率的现象[22]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "然而，过去大量关于水分胁迫下叶片水分利用效率的研究通常着眼于某个或某几个生育期的“点”上分析[23-24],对于干旱发展过程中水分利用效率的持续“线\"性变化如何，以及持续干旱过程或维持在某一干旱阶段时水分利用效率的变化特征与其他干旱阶段的区别与联系如何尚不清楚。为此，本研究以干旱半干旱区代表作物之一春小麦为研究对象，分别于2015年和2017年在甘肃半干旱地区的定西和干旱地区的武威两地开展盆栽模拟试验，设置4个不同水分处理进行逐日连续观测，研究春小麦在干旱过程中的叶片气体交换参数以及水分利用效率的持续变化特征，探讨各项参数指标在持续干旱过程中和在固定程度干旱胁迫下的响应差异，同时揭示不同胁迫状况下叶片气体交换参数是如何通过直接或间接作用影响光合、蒸腾和水分利用效率的，明确其主控因子，从而为春小麦有针对性地采取适当措施进行生理抗旱节水以及稳产增收提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区域与研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验地概况及试验用土情况 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验分2a进行，2015年部署在中国气象局定西干旱气象与生态环境野外科学试验基地( $3 5 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N }$ $1 0 4 ^ { \\circ } 3 7 ^ { \\prime } \\mathrm { E }$ ，,海拔 $1 8 9 6 . 7 ~ \\mathrm { m } \\mathrm { \\Omega }$ ),该基地为黄土高原半干旱气候区，年平均气温 $6 . 7 ~ \\mathrm { ^ { \\circ } C }$ ,年降雨量 $3 8 6 ~ \\mathrm { m m }$ 左右，年日照时数 $2 5 0 0 \\mathrm { h }$ ,无霜期 $1 4 0 \\mathrm { d }$ ,土壤质地为黄绵土, $\\mathrm { \\ p H }$ 为7.8,有机质含量 $1 1 0 . 7 ~ \\mathrm { g \\cdot k g ^ { - 1 } }$ $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤容重为 $1 . 0 7 { \\sim } 1 . 4 4 \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ ,田间持水量为 $2 1 . 8 \\% .$ ）$2 8 . 1 \\%$ ,凋萎湿度为 $5 . 4 \\% { \\sim } 6 . 9 \\%$ 。2017年除继续在定西试验基地外，在武威荒漠生态与农业气象试验站 $( 3 7 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { N } , 1 0 2 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { E }$ ，海拔 $1 5 3 4 . 8 \\mathrm { m }$ )增设1个试验点，该试验站年均气温 $8 . 5 ~ \\mathrm { { ^ { \\circ } C } }$ ,年降水量 $1 7 1 \\ \\mathrm { m m }$ 左右，年日照时数 $2 8 7 3 \\mathrm { h }$ ,无霜期 $1 5 0 \\mathrm { d }$ ，土壤质地为砂壤土, $\\mathrm { \\ p H }$ 为8.3,有机质含量 $7 \\mathrm { g } \\bullet \\mathrm { k g } ^ { - 1 }$ ， $0 { \\sim } 1 0 0 ~ \\mathrm { c m }$ 土壤容重为 $1 . 6 6 { \\sim } 1 . 8 1 \\ \\mathrm { g } \\cdot \\mathrm { c m } ^ { - 3 }$ ，田间持水量为 $1 8 . 2 \\% \\sim$ $2 3 . 9 \\%$ ,凋萎湿度为 $4 . 9 \\% - 6 . 3 \\%$ 。盆栽用土取自田间$0 { \\sim } 3 0 ~ \\mathrm { c m }$ 耕层土，晾晒过筛后与肥料混匀，装入规格为直径 $2 9 \\mathrm { c m }$ 、深度 $4 5 \\ \\mathrm { c m }$ 的桶状盆栽内。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2试验设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供试材料为当地常见春小麦种植品种，定西为“定西新24号”武威为\"永良4号”。分别于2015年3月28(定西）、2017年3月28(定西)和2017年5月16(武威)进行播种,每个桶内播 $0 . 9 \\ \\mathrm { g }$ （约30粒），均匀播撒,播种深度约 $5 \\mathrm { c m }$ 。水分处理为： $\\textcircled{1}$ 对照组(CK)：全生育期土壤相对含水量在 $6 5 \\%$ 以上； $\\textcircled{2}$ 持续干旱组(WS)：控水后持续不灌水直至植株萎蔫或死亡； $\\textcircled{3}$ 中旱组( $4 0 \\% \\mathrm { F C } \\$ )：控水后通过补灌使土壤相对含水量维持在 $4 0 \\%$ 水平； $\\textcircled{4}$ 重旱组( $3 0 \\% \\mathrm { F C } )$ ：控水后通过补灌使土壤相对含水量维持在 $3 0 \\%$ 水平；其中，处理 $\\textcircled{3}$ 和 $\\textcircled{4}$ 仅在2015年进行，每个处理设置3个重复。于春小麦的需水关键期一一分蘖至拔节期开始进行水分控制与观测，逐日观测直至WS组的光合速率趋近于0结束观测。试验观测之前设置、计算好每个盆栽的应有重量，开始观测后每天傍晚进行称重记录，水分低于设置时用喷壶均匀喷洒补足，如遇降雨及时将盆栽移入室内。每日上午8:30—12:00利用LI-6400便携式光合测定仪（Li-cor,Lincoln,美国）,通过测定上部功能叶的光响应曲线来获取各项光合生理参数指标，包括净光合速率 $( P _ { n } )$ 、蒸腾速率 $( T _ { r } )$ 、气孔导度 $( \\underline { { \\boldsymbol { \\rho } } } _ { s } )$ 和胞间 $\\mathrm { C O } _ { 2 }$ 浓度 $( C _ { i } )$ 等。由于天气多变导致连续观测日期内的自然光源不稳定，不同处理间无法进行同一水平的比较,故使用LED人工光源代替自然光,设置光合有效辐射 $P A R$ 为 $1 5 0 0 \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ ，温度为 $2 5 ^ { \\circ } \\mathrm { { C } }$ 环境$\\mathrm { C O } _ { 2 }$ 浓度为 $3 8 0 ~ \\mu \\mathrm { m o l } \\cdot \\mathrm { m o l } ^ { - 1 }$ ,先夹好叶片诱导20\\~30$\\operatorname* { m i n }$ ,然后进行测定。土壤日耗水量 $( S W )$ 通过当日与前一日称重数据之差获得，叶片水分利用效率$W U E _ { \\mathrm { i n s t } }$ 通过光合速率与蒸腾速率之比求得，即：$\\scriptstyle { W U E _ { \\mathrm { i n s t } } = P _ { n } / T _ { r \\circ } }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用SPSS19.0软件进行单因素方差分析（OnewayANOVA）、多重比较(LSD）、单样本 $T$ 检验和相关性分析，使用通径系数正规方程组计算法进行通径分析[25],另外，使用Excel2010和Origin9.0进行",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "部分数据分析与制图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1持续干旱胁迫下春小麦土壤和叶片参数的响 应特征 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过对2015年、2017年定西和武威（2015DX、2017DX、2017WW)的3组试验数据进行方差分析和多重比较发现(表1)，CK处理时，土壤日耗水量和胞间 $\\mathrm { C O } _ { 2 }$ 浓度的组间差异极显著，3组数据两两之间差异均达到显著水平，气孔导度的组间差异显著，2015年定西组与2017年定西和武威两组差异显著。然而，虽然以上3个参数具有显著的组间差异，但其变化趋势（图 $ { 1 \\mathrm { a } } ,  { 1 \\mathrm { b } } ,  { 1 \\mathrm { c } } )$ 却都是围绕着某一数值呈上下波动的特征。由此说明，供水充足条件下，在不同年份、不同试验地，土壤日耗水量会因土壤性质以及风、温、湿等气象因素的影响而存在一定差异，气孔导度和胞间 $\\mathrm { C O } _ { 2 }$ 浓度会因光照强度和大气水汽压差等影响而存在差异，但这3个参数基本都是围绕均值波动的，因此可以对3组数据取均值来分析其基本变化趋势。光合速率、蒸腾速率和$W U E _ { \\mathrm { i n s t } }$ 在CK处理下组间差异不显著，可将3组数据",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1对照和持续干旱时各参数的方差分析(One-wayANOVA)和多重比较(LSD）",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/22d9a2f57bcb4512e1207199e49a86825d84e9705a98fb60b1054248aef52a39.jpg",
+        "table_caption": [
+            "Tab.1 One-wayANOVAand Multiplecomparison （LSD）of each parameter under control treatment and continuous drought treatment "
+        ],
+        "table_footnote": [
+            "注：CK为对照，WS为持续干旱，SW为土壤日耗水量， ${ } _ { , P { } _ { n } }$ 为净光合速率， $T _ { r }$ 为蒸腾速率， $\\varrho _ { s }$ 为气孔导度， $C _ { i }$ 为胞间 $\\mathrm { C O } _ { 2 }$ 浓度， $W U E _ { \\mathrm { i n s t } }$ 为叶片水分利用效率，DX为定西，WW为武威。下同。同一参数行后3列的不同字母表示不同组间存在显著差异 $( P { < } 0 . 0 5 )$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">参数</td><td rowspan=\"2\">显著性</td><td colspan=\"3\">LSD</td></tr><tr><td>2015DX</td><td>2017DX</td><td>2017WW</td></tr><tr><td>CK</td><td>SW</td><td>0.000</td><td>a</td><td>b</td><td>C</td></tr><tr><td rowspan=\"9\">WS</td><td>Pn</td><td>0.284</td><td>a</td><td>a</td><td>a</td></tr><tr><td>T</td><td>0.246</td><td>a</td><td>a</td><td>a</td></tr><tr><td>g</td><td>0.016</td><td>a</td><td>b</td><td>b</td></tr><tr><td>C</td><td>0.001</td><td>a</td><td>b</td><td>c</td></tr><tr><td>WUEinst</td><td>0.306</td><td>a</td><td>a</td><td>a</td></tr><tr><td>SW</td><td>0.117</td><td>a</td><td>ab</td><td>b</td></tr><tr><td>P</td><td>0.885</td><td>a</td><td>a</td><td>a</td></tr><tr><td>T</td><td>0.812</td><td>a</td><td>a</td><td>a</td></tr><tr><td>g</td><td>0.611</td><td>a</td><td>a</td><td>a</td></tr><tr><td></td><td>Ci</td><td>0.922</td><td>a</td><td>a</td><td>a</td></tr><tr><td></td><td>WUEiast</td><td>0.808</td><td>a</td><td>a</td><td>a</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "视为1个样本来取均值进行趋势分析。持续干旱处理时，土壤日耗水量在前期水分较多时，2015年定西组与2017年武威组组间差异显著，后期随着水分减少差异逐渐缩小，整体来看变化趋势一致（图1d)，其余各叶片气体交换参数和 $W U E _ { \\mathrm { i n s t } }$ 组间差异均不显著，因此，均可用3组数据的均值进行变化趋势分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图2为对各参数的3组试验数据求取均值后得到的变化曲线,可以看出,水分充足条件下,各参数基本都呈现围绕着均值上下波动的特征，土壤日耗水量维持在大约 $1 0 . 4 ~ \\mathrm { m m }$ ,光合速率、蒸腾速率、气孔导度和胞间 $\\mathrm { C O } _ { 2 }$ 浓度分别维持在大约 $1 9 . 8 ~ \\mu \\mathrm { m o l }$ ：$\\mathbf { m } ^ { - 2 } { \\bullet } \\mathbf { s } ^ { - 1 } . 5 . 8 \\mathbf { m m o l } { \\bullet } \\mathbf { m } ^ { - 2 } { \\bullet } \\mathbf { s } ^ { - 1 } { \\circ } . 3 \\mathbf { m o l } { \\bullet } \\mathbf { m } ^ { - 2 } { \\bullet } \\mathbf { s } ^ { - 1 }$ 和 $2 6 0 ~ \\mu \\mathrm { m o l }$ ：$\\mathrm { m o l ^ { - 1 } }$ 左右， $W U E _ { \\mathrm { i n s t } }$ 大致维持在 $3 . 4 ~ \\mu \\mathrm { m o l } \\cdot \\mathrm { m m o l } ^ { - 1 }$ 。持续干旱胁迫发生后，随着土壤内水分含量的降低，耗水量的减小幅度也逐日降低,整体呈倒抛物线型的减少趋势。查看土壤相对湿度发现,持续干旱胁迫至第3\\~4d和第 $4 { \\sim } 5 \\mathrm { ~ d ~ }$ 之间时分别达到中旱和重旱水平(图2),此时土壤日耗水量大约为 $3 . 0 \\mathrm { m m }$ 和$2 . 5 ~ \\mathrm { m m }$ ,较CK组下降了 $71 \\%$ 和 $7 6 \\%$ 。由此可见，土壤日耗水量具有“水多多耗、水少少耗\"的特点[26]。春小麦的光合速率在持续干旱胁迫下会持续下降，干旱前期下降迅速，干旱后期降幅放缓直至趋近于0,中旱、重旱水平时分别降至约 $1 2 ~ { \\mu \\mathrm { m o l } } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ 和（204号 $8 \\ \\mu \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ ,较水分充足时下降了 $3 9 \\%$ 和 $6 0 \\%$ 。持续干旱胁迫下，春小麦蒸腾速率和气孔导度的变化规律与光合速率类似，呈先快后慢的连续下降趋势,蒸腾速率在中旱和重旱水平时较CK组分别下降了约 $5 7 \\% ( 2 . 5 \\ \\mathrm { m m o l \\cdot m ^ { - 2 } \\cdot s ^ { - 1 } } )$ 和 $6 6 \\% ( 2 \\mathrm { m m o l } \\cdot \\mathrm { m } ^ { - 2 }$ ：$\\mathbf { s } ^ { - 1 } .$ ),气孔导度分别下降了约 $6 0 \\% ( 0 . 1 2 \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 } )$ （20和 $7 7 \\% ( 0 . 0 7 \\mathrm { m o l \\cdot m ^ { - 2 } \\cdot s ^ { - 1 } } )$ 。干旱1d后所有指标均超出了对照组 $9 5 \\%$ 置信限,两组处理的数据单样本$T$ 检验均存在显著差异,所以无法从时间上判断干旱胁迫最先影响哪个指标，但从前述分析的降幅数值来看，同等干旱程度下的降幅排序为：气孔导度 $>$ 蒸腾速率 $>$ 光合速率，说明持续干旱胁迫从轻度发展至重度的过程中，气孔导度受到的影响最大,蒸腾速率次之，光合速率为三者中最小。轻旱到中旱阶段，胞间 $\\mathrm { C O } _ { 2 }$ 浓度会呈现下降趋势，中旱后期出现最低点 $1 7 5 ~ \\mathrm { \\mu m o l } \\cdot \\mathrm { m o l } ^ { - 1 }$ ,此时相比CK组下降了 $3 3 \\%$ ,之后随着胁迫加重,胞间 $\\mathrm { C O } _ { 2 }$ 浓度又呈增加的趋势,极端干旱时浓度甚至超过CK组。 $W U E _ { \\mathrm { i n s t } }$ 在轻度-中度时呈现逐渐增大的趋势，中旱后期达到最高点 $4 . 8 ~ \\mu \\mathrm { m o l } \\cdot \\mathrm { m m o l } ^ { - 1 }$ ,比CK组增加了 $4 1 \\%$ ,在此之后呈减小趋势，中旱后期-重旱阶段会恢复至对照组水平,极端干旱胁迫时会持续下降接近于0。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3468631fec30f2448b04a7f2a00c2b212a34209fb62598fc96143aebd294b3a4.jpg",
+        "img_caption": [
+            "图1组间差异显著的参数变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7eb41567a3f63d0cc22498484e9af1dc8e474566459a65eed36143e36bc6f8e4.jpg",
+        "img_caption": [
+            "Fig.1 Dynamic curves of parameters with significant differences ",
+            "图2持续干旱胁迫下春小麦的土壤和叶片参数变化",
+            "Fig.2Dynamics in parameters of soil and leaf of spring wheat under continuous drought stress "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2固定程度干旱胁迫下春小麦土壤和叶片参数 的响应特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图3展示了2015年定西站持续干旱、中旱( $4 0 \\%$ FC)和重旱（ $3 0 \\%$ FC)时土壤日耗水量、叶片各气体交换参数和 $W U E _ { \\mathrm { i n s t } }$ 的变化曲线，可以看出，当干旱程度维持在中旱和重旱时，所有参数的曲线均在十旱2d后稳定在某一值附近波动，并且中旱组的值整体高于重旱组，通过了 $9 5 \\%$ 显著性水平检验( $\\scriptstyle ( P <$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "0.05，表2)。将两组固定程度干旱胁迫的参数曲线与持续干旱胁迫下的曲线进行对比发现，固定程度干旱胁迫下各参数趋于稳定时的数值，与持续干旱胁迫下该参数曲线下降(或上升)至相同干旱等级（第3\\~4d和 $4 { \\sim } 5 \\mathrm { d }$ )时的值基本一致。由此说明，持续干旱胁迫下，春小麦的土壤日耗水量、光合速率、蒸腾速率和气孔导度会持续下降，胞间 $\\mathrm { C O } _ { 2 }$ 浓度会先降低后升高， $W U E _ { \\mathrm { i n s t } }$ 会先升高后降低，若此发展着的干旱过程停留在某一胁迫水平上时，春小麦的以上各参数指标值就会维持在此时的水平上，只要干旱过程不向更严重的程度发展，在该生育阶段内，这些指标值就会维持在该水平上",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/28999531eea6c501488edb42ebdbb92f4f23bbf48983cc171a61d9404d246a6a.jpg",
+        "img_caption": [
+            "图3固定程度干旱胁迫下春小麦的土壤和叶片参数变化",
+            "Fig.3Dynamics in parameters of soil and leaf of spring wheat under drought stress with fixed degree "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3133fd7fe16fe9683da4eb41e2e0a3245059753096cbc5add0e8335b2e4de19f.jpg",
+        "table_caption": [
+            "Tab.2 One-way ANOVAof parameters of soil and leafunder $4 0 \\% \\mathrm { F C }$ and $3 0 \\% \\mathrm { F C }$ "
+        ],
+        "table_footnote": [
+            "注： $4 0 \\% \\mathrm { F C }$ 为中旱组， $3 0 \\% \\mathrm { F C }$ 为重旱组。同一参数列数字后的不同字母表示不同处理间存在显著差异( $\\scriptstyle \\cdot P < 0 . 0 5 .$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td>处理</td><td>SW</td><td>P</td><td>T</td><td>g</td><td>C</td><td>WUEinst</td></tr><tr><td>40%FC</td><td>6.34±0.97a</td><td>17.31±1.92a</td><td>4.03±0.72a</td><td>0.22±0.08a</td><td>221.60±28.55a</td><td>4.50±0.33a</td></tr><tr><td>30%FC</td><td>3.94±1.15b</td><td>8.42±2.55b</td><td>2.19±0.86b</td><td>0.08±0.09b</td><td>182.53±23.75b</td><td>3.80±0.49b</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同水分胁迫下春小麦叶片参数的相关特征和通径分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为明确 $W U E _ { \\mathrm { i n s t } }$ 及主要参数的主控因子，从而在不同干旱阶段和情形下制定合理的措施来提高水分效率，本研究对不同水分胁迫下春小麦的气体交换参数和水分利用效率进行了相关分析和通径分析，结果显示，水分充足时，光合速率主要受气孔导度的正向影响，气孔导度主要通过直接正效应对光合速率起作用，同时也通过胞间 $\\mathrm { C O } _ { 2 }$ 浓度产生一定的负效应(表3)。蒸腾速率基本不受气体交换参数的影响，虽然气孔导度和胞间 $\\mathrm { C O } _ { 2 }$ 浓度也具有较大的直接正效应和负效应，但两者的影响基本被彼此的间接反向作用所抵消。水分充足条件下，春小麦光合速率基本维持在最大值，所以 $W U E _ { \\mathrm { i n s t } }$ 与光合速率相关性不大，仅受蒸腾速率极显著的负向影响，蒸腾速率越大， $W U E _ { \\mathrm { i n s t } }$ 越小，并且这种影响以直接负向影响为主。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "持续干旱胁迫下，光合速率和蒸腾速率是彼此的最大极显著正相关因子，气孔导度次之，胞间 $\\mathrm { C O } _ { 2 }$ 浓度与两者相关性不显著， $W U E _ { \\mathrm { i n s t } }$ 与胞间 $\\mathrm { C O } _ { 2 }$ 浓度极显著负相关，与光合速率和蒸腾速率显著正相关，与气孔导度相关性不显著(表4)。若将整个胁迫过程根据 $C _ { i }$ 曲线出现最低拐点的时间分成两段后发现，光合速率、蒸腾速率和 $W U E _ { \\mathrm { i n s t } }$ 与叶片气体交换参数的相关性均达到显著或极显著水平，其中，光合速率在胁迫前段(轻旱-中旱)的最大影响因子为蒸腾速率，主要通过直接正效应起作用，气孔导度和胞间 $\\mathrm { C O } _ { 2 }$ 浓度也主要通过蒸腾速率的间接正效应起作用。蒸腾速率的最大影响因子为光合速率，主要通过直接正效应起作用，气孔导度和胞间 $\\mathrm { C O } _ { 2 }$ 浓度也主要通过光合速率的间接正效应起作用。$W U E _ { \\mathrm { i n s t } }$ 的最大影响因子为蒸腾速率，主要通过直接负效应起作用，光合速率、气孔导度和胞间 $\\mathrm { C O } _ { 2 }$ 浓度虽然产生了相对较大的直接效应，但三者的影响作用仍以通过蒸腾速率的间接负效应为主，这也是导致光合速率与 $W U E _ { \\mathrm { i n s t } }$ 呈负相关而非根据定义公式所推断的正相关的原因。综上所述，在轻旱-中旱阶段，光合速率和 $W U E _ { \\mathrm { i n s t } }$ 的主导影响因子是蒸腾速率，蒸腾速率的主导影响因子是光合速率。研究表明,轻、中度干旱胁迫下光合速率的下降,主要是由气孔限制造成的细胞内 $\\mathrm { C O } _ { 2 }$ 浓度减少引起的，重度胁迫下光合速率并没有因为细胞内 $\\mathrm { C O } _ { 2 }$ 浓度的升高而增加，此时光合速率下降主要是由非气孔限制导致的[27]，这在胁迫后段(中旱后期之后)光合速率与胞间 $\\mathrm { C O } _ { 2 }$ 浓度的相关性变为负相关得到了佐证。综合直接和间接通径系数来看，光合速率和蒸腾速率在胁迫后段受到的影响主要都是通过气孔导度起作用的， $W U E _ { \\mathrm { i n s t } }$ 主要通过蒸腾速率起作用的。虽然$W U E _ { \\mathrm { i n s t } }$ 在两个干旱阶段受到的影响主要依靠蒸腾速率起作用，但第一阶段需要降低蒸腾速率才能提高$W U E _ { \\mathrm { i n s t } }$ ,而第二阶段与之相反，需要提高蒸腾速率来提高 $W U E _ { \\mathrm { i n s t } }$ ○",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/68cbab0360b6018beeeed22f48c6ac078a7d4bacb5a957074dbd1d1af9ac897d.jpg",
+        "table_caption": [
+            "表2中旱、重旱组土壤和叶片参数的方差分析(One-wayANOVA)",
+            "表3水分充足时春小麦 $P _ { n \\setminus } T _ { r \\setminus } W U E _ { \\mathrm { i n s t } }$ 与叶片气体交换参数的相关分析和通径分析 ",
+            "Tab.3 Correlation analysis and path analysis between $\\scriptstyle P _ { n }$ 0 $T _ { r }$ $W U E _ { \\mathrm { i n s t } }$ and leaf gas exchange parameters of spring wheat under sufficient water condition "
+        ],
+        "table_footnote": [
+            "注：\\*表示在 $\\scriptstyle P < 0 . 0 5$ 水平上显著相关,\\*\\*表示在 $P { < } 0 . 0 1$ 水平上显著相关。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">参数</td><td rowspan=\"2\">因子</td><td rowspan=\"2\">相关系数</td><td rowspan=\"2\">直接通径系数</td><td colspan=\"5\">间接通径系数</td></tr><tr><td>P\"/(μmol·m2·s-1) g/(mol·m²·s-1)C/(μmol·mol-1)</td><td></td><td></td><td>T./(mmol·m-2·s-1)</td><td>合计</td></tr><tr><td>CK</td><td>P</td><td>g</td><td>0.445*</td><td>1.511</td><td></td><td>1</td><td>-1.034</td><td>-0.031</td><td>-1.065</td></tr><tr><td rowspan=\"10\"></td><td></td><td>C</td><td>0.073</td><td>-1.220</td><td>1</td><td>1.281</td><td>1</td><td>0.012</td><td>1.293</td></tr><tr><td></td><td>T</td><td>0.088</td><td>-0.208</td><td>一</td><td>0.225</td><td>0.071</td><td>1</td><td>0.296</td></tr><tr><td>T</td><td>P</td><td>0.088</td><td>-0.377</td><td>1</td><td>0.543</td><td>-0.078</td><td>1</td><td>0.465</td></tr><tr><td></td><td>g</td><td>0.149</td><td>1.22</td><td>-0.168</td><td>1</td><td>-0.903</td><td>1</td><td>-1.071</td></tr><tr><td rowspan=\"5\">WUEinst</td><td>Ci</td><td>-0.058</td><td>-1.065</td><td>-0.028</td><td>1.034</td><td>1</td><td>一</td><td>1.006</td></tr><tr><td>P</td><td>0.347</td><td>0.478</td><td>1</td><td>-0.069</td><td>0.015</td><td>-0.077</td><td>-0.131</td></tr><tr><td>g</td><td>0.102</td><td>-0.155</td><td>0.213</td><td>1</td><td>0.175</td><td>-0.131</td><td>0.257</td></tr><tr><td>C</td><td>0.161</td><td>0.207</td><td>0.035</td><td>-0.131</td><td>1</td><td>0.051</td><td>-0.045</td></tr><tr><td>T</td><td>-0.872**</td><td>-0.879</td><td>0.042</td><td>-0.023</td><td>-0.012</td><td>二</td><td>0.007</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/107bb99e7834ddd4f4a025bf336a44c29a7fcdf357edca88704a2bd07e0eac8f.jpg",
+        "table_caption": [
+            "表4持续干旱胁迫下春小麦 $P _ { n \\setminus } T _ { r \\setminus } W U E _ { \\mathrm { i n s t } }$ 与叶片气体交换参数的相关分析和通径分析 Tab.4 Correlation analysis and path analysis between $\\scriptstyle P _ { n }$ $T _ { r } ,$ $W U E _ { \\mathrm { i n s t } }$ and leaf gas exchange parameters of spring wheat under continuous drought stress "
+        ],
+        "table_footnote": [
+            "注：WSF为持续干旱的轻旱-中旱阶段，WSL为持续干旱时中旱后期之后的阶段。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">参数</td><td rowspan=\"2\">因子</td><td rowspan=\"2\">相关系数</td><td rowspan=\"2\">直接通径系数</td><td colspan=\"5\">间接通径系数</td></tr><tr><td>Pn/(μmol·m²·s-1)</td><td>g/(mol·m-2·s−1)</td><td>C/(μmol·mol-1)</td><td>T/(mmol·m2·s-1)</td><td>合计</td></tr><tr><td>WS</td><td>P</td><td>g</td><td>0.919**</td><td>0.07</td><td>1</td><td>1</td><td>-0.006</td><td>0.855</td><td>0.849</td></tr><tr><td rowspan=\"8\"></td><td></td><td>Ci</td><td>-0.268</td><td>-0.166</td><td>1</td><td>0.003</td><td>1</td><td>-0.105</td><td>-0.102</td></tr><tr><td></td><td>T</td><td>0.981**</td><td>0.895</td><td>一</td><td>0.067</td><td>0.019</td><td>1</td><td>0.086</td></tr><tr><td>T</td><td>P</td><td>0.981**</td><td>0.88</td><td>1</td><td>0.131</td><td>-0.03</td><td></td><td>0.101</td></tr><tr><td></td><td>g</td><td>0.956**</td><td>0.143</td><td>0.809</td><td>1</td><td>0.004</td><td>-</td><td>0.813</td></tr><tr><td></td><td>Ci</td><td>-0.117</td><td>0.113</td><td>-0.236</td><td>0.005</td><td>1</td><td>1</td><td>-0.231</td></tr><tr><td>WUEinst</td><td>Pn</td><td>0.516**</td><td>0.662</td><td>1</td><td>0.54</td><td>0.23</td><td>-0.916</td><td>-0.146</td></tr><tr><td></td><td>g</td><td>0.271</td><td>0.587</td><td>0.609</td><td>1</td><td>-0.033</td><td>-0.892</td><td>-0.316</td></tr><tr><td></td><td>Ci</td><td>-0.903**</td><td>-0.857</td><td>-0.177</td><td>0.022</td><td>1</td><td>0.109</td><td>-0.046</td></tr><tr><td rowspan=\"5\">WSF</td><td></td><td>T</td><td>0.378*</td><td>-0.933</td><td>0.65</td><td>0.561</td><td>0.1</td><td>1</td><td>1.311</td></tr><tr><td>PR</td><td>g</td><td>0.936**</td><td>0.0133</td><td>1</td><td>一</td><td>0.089</td><td>0.834</td><td>0.923</td></tr><tr><td></td><td>Ci</td><td>0.936**</td><td>0.0942</td><td>1</td><td>0.013</td><td>1</td><td>0.829</td><td>0.842</td></tr><tr><td></td><td>T</td><td>0.99**</td><td>0.8898</td><td>1</td><td>0.012</td><td>0.088</td><td>1</td><td>0.100</td></tr><tr><td></td><td>P</td><td>0.99**</td><td>0.9137</td><td>1</td><td>0.081</td><td>-0.004</td><td>1</td><td>0.077</td></tr><tr><td rowspan=\"6\"></td><td></td><td>g</td><td>0.937**</td><td>0.0862</td><td>0.855</td><td>1</td><td>-0.004</td><td>1</td><td>0.851</td></tr><tr><td></td><td>Ci</td><td>0.932**</td><td>-0.0047</td><td>0.855</td><td>0.081</td><td>一</td><td>1</td><td>0.936</td></tr><tr><td>WUEinst</td><td>P</td><td>-0.877**</td><td>1.2495</td><td>1</td><td>1.094</td><td>-1.034</td><td>-2.187</td><td>-2.127</td></tr><tr><td></td><td>g</td><td>-0.775**</td><td>1.1691</td><td>1.17</td><td>1</td><td>-1.044</td><td>-2.07</td><td>-1.944</td></tr><tr><td>Ci</td><td>-0.889**</td><td></td><td>-1.1044</td><td>1.17</td><td>1.105</td><td>1</td><td>-2.059</td><td>0.216</td></tr><tr><td></td><td>T</td><td>-0.906**</td><td>-2.2092</td><td>1.237</td><td>1.095</td><td>-1.029</td><td>1</td><td>1.303</td></tr><tr><td rowspan=\"8\">WSL</td><td>Pn</td><td>g</td><td>0.956**</td><td>0.6272</td><td>1</td><td>一</td><td>0.147</td><td>0.182</td><td>0.329</td></tr><tr><td></td><td>Ci</td><td>-0.73°</td><td>-0.2675</td><td>1</td><td>-0.344</td><td>1</td><td>-0.118</td><td>-0.462</td></tr><tr><td></td><td>T</td><td>0.973**</td><td>0.1849</td><td>一</td><td>0.617</td><td>0.171</td><td>1</td><td>0.788</td></tr><tr><td>T</td><td>P</td><td>0.973**</td><td>0.1273</td><td>1</td><td>0.77</td><td>0.076</td><td>1</td><td>0.846</td></tr><tr><td></td><td>g</td><td>0.984**</td><td>0.8052</td><td>0.122</td><td>1</td><td>0.057</td><td></td><td>0.179</td></tr><tr><td></td><td>Ci</td><td>-0.639*</td><td>-0.104</td><td>-0.093</td><td>-0.442</td><td>1</td><td>1</td><td>-0.535</td></tr><tr><td>WUEinst</td><td>P</td><td>0.831**</td><td>-0.2119</td><td>1</td><td>-0.24</td><td>0.501</td><td>0.782</td><td>1.043</td></tr><tr><td rowspan=\"4\"></td><td>g</td><td>0.714*</td><td>-0.2513</td><td>-0.203</td><td>1</td><td>0.376</td><td>0.791</td><td></td><td>0.964</td></tr><tr><td></td><td>C</td><td>-0.907**</td><td>-0.6857</td><td>0.155</td><td>0.138</td><td>1</td><td>-0.514</td><td>-0.221</td></tr><tr><td>T</td><td>0.789**</td><td>0.8042</td><td></td><td>-0.206</td><td>-0.247</td><td>0.438</td><td>二</td><td>-0.015</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "当水分胁迫维持在中度或重度水平时，光合速率与气孔导度和蒸腾速率显著正相关，蒸腾速率与光合速率和气孔导度显著正相关，它们的直接和间接效应均主要通过气孔导度起正向作用(表5)。持续干旱胁迫时气孔导度与蒸腾速率的相关性大于与光合速率的相关性,但是当胁迫维持在某一程度时，与水分充足时相同，气孔导度与光合速率的相关性更大，说明当光合速率、蒸腾速率以及气孔导度都比较稳定时，气孔导度对光合速率的影响更大。维持固定程度干旱胁迫时， $W U E _ { \\mathrm { i n s t } }$ 没有显著相关的参数，这是因为气孔导度在中旱时的负效应基本被光合速率和胞间 $\\mathrm { C O } _ { 2 }$ 浓度的正效应所抵消、在重旱时的正效应基本被蒸腾速率的负效应所抵消，因此,综合来看固定程度干旱胁迫下 $W U E _ { \\mathrm { i n s t } }$ 不受气体交换参数的影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/440842e2789d6f908beddec38fb096364c05d93e964ee6f03f53e24711ae5acd.jpg",
+        "table_caption": [
+            "表5固定程度干旱胁迫下春小麦 $P _ { n \\setminus } T _ { r \\setminus } W U E _ { \\mathrm { i n s t } }$ 与叶片气体交换参数的相关分析和通径分析",
+            "Tab.5 Correlation analysis and path analysis between $\\scriptstyle P _ { n }$ $T _ { r } , W U E _ { \\mathrm { i n s t } }$ and leaf gas exchange parameters of spring wheat under drought stress with fixed degree "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理</td><td rowspan=\"2\">参数</td><td rowspan=\"2\">因子</td><td rowspan=\"2\">相关系数</td><td rowspan=\"2\">直接通径系数</td><td colspan=\"5\">间接通径系数</td></tr><tr><td>Pn/(μmol·m2·s1)g./(mol·m2·s1) Ci/(μmol·mol-1) T,/(mmol·m2s1)</td><td></td><td></td><td></td><td>合计</td></tr><tr><td>40%FC</td><td>Pn</td><td>g</td><td>0.986**</td><td>1.1517</td><td>1</td><td>1</td><td>-0.18</td><td>0.014</td><td>-0.166</td></tr><tr><td rowspan=\"10\"></td><td></td><td>Ci</td><td>0.806*</td><td>-0.2067</td><td>一</td><td>1.003</td><td>1</td><td>0.01</td><td>1.013</td></tr><tr><td></td><td>T</td><td>0.825*</td><td>0.018</td><td>一</td><td>0.917</td><td>-0.11</td><td>1</td><td>0.807</td></tr><tr><td>T</td><td>P</td><td>0.825*</td><td>0.285</td><td>1</td><td>1.032</td><td>-0.492</td><td>一</td><td>0.540</td></tr><tr><td></td><td>g</td><td>0.796*</td><td>1.0464</td><td>0.281</td><td>1</td><td>-0.531</td><td>一</td><td>-0.250</td></tr><tr><td>WUEinst</td><td>Ci</td><td>0.531</td><td>-0.6102</td><td>0.23</td><td>0.911</td><td>1</td><td>1</td><td>1.141</td></tr><tr><td></td><td>P</td><td>-0.248</td><td>1.7255</td><td>1</td><td>-3.29</td><td>1.573</td><td>-0.256</td><td>-1.973</td></tr><tr><td></td><td>g</td><td>-0.183</td><td>-3.3372</td><td>1.701</td><td>1</td><td>1.7</td><td>-0.247</td><td>3.154</td></tr><tr><td></td><td>C</td><td>0.271</td><td>1.9519</td><td>1.391</td><td>-2.907</td><td>1</td><td>-0.165</td><td>-1.681</td></tr><tr><td></td><td>T</td><td>-0.507</td><td>-0.3105</td><td>1.424</td><td>-2.656</td><td>1.036</td><td>1</td><td>-0.196</td></tr><tr><td>30% FC Pn</td><td>g</td><td>0.982**</td><td>1.1631</td><td>1</td><td>1</td><td>-0.214</td><td>0.033</td><td>-0.181</td></tr><tr><td rowspan=\"10\"></td><td></td><td>Ci</td><td>0.608</td><td>-0.2865</td><td>1</td><td>0.87</td><td>1</td><td>0.024</td><td>0.894</td></tr><tr><td>T</td><td>T</td><td>0.95**</td><td>0.0345</td><td>一</td><td>1.119</td><td>-0.203</td><td>一</td><td>0.916</td></tr><tr><td></td><td>P</td><td>0.95**</td><td>-3.8146</td><td>1</td><td>5.444</td><td>-0.679</td><td>1</td><td>4.765</td></tr><tr><td></td><td>g</td><td>0.962**</td><td>5.5438</td><td>-3.746</td><td>1</td><td>-0.836</td><td>一</td><td>-4.582</td></tr><tr><td>WUEinst</td><td>Ci</td><td>0.71</td><td>-1.1175</td><td>-2.319</td><td>4.147</td><td>1</td><td>一</td><td>1.828</td></tr><tr><td rowspan=\"4\"></td><td>P</td><td>-0.263</td><td>-0.3759</td><td>1</td><td>3.472</td><td>-0.436</td><td>-2.923</td><td>0.113</td></tr><tr><td>g</td><td>-0.33</td><td>3.5362</td><td>-0.369</td><td>1</td><td>-0.537</td><td>-2.96</td><td>-3.866</td></tr><tr><td>Ci</td><td>-0.486</td><td>-0.7178</td><td>-0.229</td><td>2.645</td><td>1</td><td>-2.185</td><td>0.231</td></tr><tr><td>T</td><td>-0.542</td><td>-3.0771</td><td>-0.357</td><td>3.402</td><td>-0.51</td><td>1</td><td>2.535</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "水分是影响全球特别是干旱半干旱地区农业生产的主要环境限制因素[28-29],本研究通过对持续干旱过程和维持在固定程度干旱的土壤水分变化特征进行分析，结果表明，土壤日耗水量会因气象因素和土壤性质的不同而存在一定差异，但在特定干旱胁迫状况下仍具有一些共性。持续干旱胁迫时，整个干旱过程中土壤日耗水量呈现逐渐减少的趋势，并且“水多多耗、水少少耗\"(图2)，这可能是两方面原因造成的：一方面由于土壤内的储水量逐日减少，非饱和渗透系数降低，造成土壤水分蒸发日益减小;另一方面，干旱胁迫使植株气孔导度降低，同时使作物长势变差、叶面积减小，造成作物蒸",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "腾减小。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "研究表明，干旱胁迫对禾谷类作物生理功能的影响顺序依次为：细胞扩张、气孔运动、蒸腾作用、光合作用和光合产物的运输与分配[30]。气孔关闭是叶片对水分胁迫的第一反应，水分胁迫导致叶片大量气孔关闭，气孔关闭会减少蒸腾速率，与此同时，过低的气孔导度阻碍了 $\\mathrm { C O } _ { 2 }$ 扩散进入叶片，所以胞间 $\\mathrm { C O } _ { 2 }$ 浓度也呈减少的趋势，光合同化原料不足进而会导致光合速率的降低[31-33]。本研究认为,持续干旱胁迫不同阶段导致光合作用下降的机理不同，前期的轻旱到中旱阶段主要是气孔限制造成的，而到了中旱后期之后的阶段，光合器官因胁迫较重受到损坏，一方面直接导致了光合速率的降低，成为引起光合速率降低的非气孔因素，另一方面使胞间 $\\mathrm { C O } _ { 2 }$ 因无法被充分利用而在细胞内富集，因此，浓度又呈现了上升的趋势。这与曹生奎等[34]的研究结论一致。Singh等[35进一步给出了划分这两个阶段的 $\\boldsymbol { g _ { s } }$ 阈值,即当 $\\varrho _ { s } > 0 . 0 4 ~ \\mathrm { m o l \\cdot m ^ { - 2 } \\cdot s ^ { - 1 } }$ 时，气孔限制是造成光合速率减小的主要原因,而当 $g _ { s } <$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 4 ~ \\mathrm { m o l } \\cdot \\mathrm { m } ^ { - 2 } \\cdot \\mathrm { s } ^ { - 1 }$ 时，非气孔限制则成为主因。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "水分限制条件下，气孔导度减小会提高$W U E _ { \\mathrm { i n s t } } [ 2 2 , 3 6 ]$ ,这是因为在轻度和中度胁迫阶段,气孔因素对水分的限制较碳同化速率的限制更大（由$\\mathrm { C O } _ { 2 }$ 分子和 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 分子量不同而决定，比值为1.6)；而在重度胁迫时，由于非气孔限制的出现， $\\mathrm { C O } _ { 2 }$ 同化速率比蒸腾速率受到的影响更大，所以会引起 $W U E _ { \\mathrm { i n s t } }$ 减小[37-38]。本研究也有类似发现,不过在盆栽试验条件下，春小麦 $W U E _ { \\mathrm { i n s t } }$ 曲线发生转折的时段不同，本文认为 $W U E _ { \\mathrm { i n s t } }$ 在中旱后期存在一个最高值,处于中度-重度阶段时相比于水分充足时仍是偏大或基本相当，只有在极端干旱时才会因光合的降幅大于蒸腾而出现降低。除此之外，有研究发现 $W U E _ { \\mathrm { i n s t } }$ 对干旱胁迫的响应会因品种的不同而存在差异，严重水分胁迫会降低一些小麦品种的 $W U E _ { \\mathrm { i n s t } }$ ,但对另一些品种则没有影响;耐旱性强的品种 $W U E _ { \\mathrm { i n s t } }$ 会因此提高，耐旱性弱的则会降低[28]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当通过适当灌水使土壤水分维持在某一胁迫水平上时，叶片各气体交换参数和 $W U E _ { \\mathrm { i n s t } }$ 具有一致的规律，都会维持在与持续干旱胁迫达到相同等级旱情时所对应的数值附近波动，不会因为干旱时长的增加而继续降低，并且任意一个参数在水分胁迫为重度时的值均显著低于中度时的值( $P < 0 . 0 5$ ，图3和表2)。从降幅来看，同等程度干旱胁迫下，气孔导度 $>$ 蒸腾速率 $>$ 光合速率(图2)，但是从相关性来看，气孔导度与光合速率的相关性更大(表5)，说明并非任何水分胁迫状况下，蒸腾速率对气孔导度的依赖性都高于光合速率，这与姚素梅等[39]的观点有所不同。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "当作物受到水分胁迫后，光合速率和蒸腾速率受到不同程度的影响，这种非同步性使得 $W U E _ { \\mathrm { i n s t } }$ 会因一定程度的水分胁迫而得到提高，这是农田管理中有目的地调控作物的水分供给、提高水分利用效率的理论依据[40]。而实际生产中,提高 $W U E _ { \\mathrm { i n s t } }$ 不仅可以通过时间调控或水量的优化分配，而且可以通过本研究得出的不同胁迫阶段的主导影响因子，采取最优措施来兼顾提高光合速率和 $W U E _ { \\mathrm { i n s t } }$ 。例如，在本研究中，水分充足-中旱阶段，需要适度增加气孔导度、降低蒸腾速率来分别提高光合速率和$W U E _ { \\mathrm { i n s t } }$ ，中旱之后需要增加气孔导度、增加蒸腾速率来分别提高光合速率和 $W U E _ { \\mathrm { i n s t } }$ ,维持固定程度干旱胁迫时，也需要增加气孔导度来提高光合速率，因此，增加气孔导度可以通过控制环境的光照和温度来实现，降低蒸腾速率可以通过合理施肥、密植、地膜或残茬覆盖等增加地面覆盖的措施来实现[41],提高蒸腾速率可以通过增加光照、增温、减湿、鼓风等环境控制手段来实现。除了常规手段，喷施植物生长调节物质、转基因途径等技术也被证实能调控植株的气孔导度和蒸腾效率，对改良作物的抗旱性及高效利用水分展示出良好前景[39.42]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本研究发现在盆栽模拟的快速干旱过程中，持续干旱胁迫至第3\\~4d时会达到中旱，第4\\~5d时达到重旱，第4d是胞间 $\\mathrm { C O } _ { 2 }$ 浓度和 $W U E _ { \\mathrm { i n s t } }$ 变化曲线产生拐点的时间。但是也有研究指出，在相同土壤湿度状况下，光合速率会因为土壤干旱过程的快慢而有所不同，缓慢土壤干旱状况下小麦的光合速率比在快速干旱状况下更高[43]。笔者在进行大田和盆栽的对比试验时也发现，大田干旱相比于盆栽干旱进程要缓慢一些，除了光合速率以外，其他气体交换参数在2种变化过程中也存在差异，因此，相对发展较慢的大田干旱过程中作物叶片气体交换各参数的响应特征还有待后续研究进一步探讨。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "持续干旱胁迫下，春小麦的叶片气体交换参数除胞间 $\\mathrm { C O } _ { 2 }$ 浓度外，均呈先快后慢的下降趋势，胞间$\\mathrm { C O } _ { 2 }$ 浓度以中旱后期为界限，先下降后上升， $W U E _ { \\mathrm { i n s t } }$ 的趋势与之相反。在此过程中，光合速率和蒸腾速率互为主导影响因子，气孔导度为其次主导因子，$W U E _ { \\mathrm { i n s t } }$ 以中旱后期为界限，前期蒸腾速率主导，后期胞间 $\\mathrm { C O } _ { 2 }$ 浓度主导，光合速率次主导。当水分胁迫维持在固定水平时，各项指标均会维持在持续干旱达到相同等级干旱时对应的值附近，且中旱值高于重旱值。此时光合速率和蒸腾速率基本均以气孔导度为主导因子， $W U E _ { \\mathrm { i n s t } }$ 无显著相关因子。研究结果有助于针对不同的干旱阶段和状况采取对应的技术措施，从而达到抗旱节水和稳产增收的目的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] Dang T,Cai G,Guo S,et al.Effect of nitrogen management on yield and water use efficiency of rainfed wheat and maize in Northwest China[J].Pedosphere,2006,16(4): 495-504.   \n[2] 郭天文,谢永春,张平良,等.不同种植和施肥方式对旱地春玉 米土壤水分含量及其水分利用效率的影响[J].水土保持学报, 2015,29(5):231- 238.[Guo Tianwen, Xie Yongchun,Zhang Pingliang,etal.Effectsof diferent patternsof plantingand fertilization on soil moisture and water use eficiency of spring maize on dryland[J]. Jouenal of Soil and Water Conservation,2015,29 (5): 231-238.]   \n[3]任丽雯,王兴涛,刘明春,等.干旱胁迫对土壤水分动态及玉米 水分利用效率影响研究[J].中国农学通报,2015,31(32):142- 147.[Ren Liwen,Wang Xingtao,Liu Mingchun,et al. Effects of drought stress on soil moisture dynamics and water use efficiency in corn[J]. Chinese Agricultural Science Bulletin,2O15,31(32): 142-147.]   \n[4]刘军,齐广平,康燕霞,等.土壤水分胁迫对紫花苜蓿光合特性 及其生物量的影响[J].干旱区研究,2019,36(4):893-900.[Liu Jun, Qi Guangping, Kang Yanxia, et al.Effects of soil water stress on photosynthetic characteristics and biomass of Medicago sativa [J]. Arid Zone Research, 2019,36(4): 893-900.]   \n[5]Deng X, Shan L, Zhang H, et al. Improving agricultural water use efficiency inarid and semiarid areas of China[J].Agricultural Water Management,2006,80(1-3): 23-40.   \n[6]魏孝荣,郝明德,张春霞,等.土壤干旱条件下外源锌、锰对夏玉 米光合特性的影响[J].作物学报,2005,31(8):1101-1104.[Wei Xiaorong,Hao Mingde, Zhang Chunxia, et al. Effects of zinc and manganese fertilizers on maize photosynthetic performance under soil drought condition[J].Acta Agronomica Sinica,2Oo5,31(8): 1101-1104.]   \n[7]Ogutu B,Dash J,DawsonT.Developing adiagnostic modelfores timating terrestrial vegetation gross primary productivity using the photosynthetic quantum yield and Earth Observation data[J]. Global Change Biology,2013,19(9): 2878-2892.   \n[8]叶子飘,张海利,黄宗安,等.叶片光能利用效率和水分利用效 率对光响应的模型构建[J].植物生理学报,2017,53(6):1116- 1122.[Ye Zipiao, Zhang Haili, Huang Zongan,etal. Model con struction of light use efficiency and water use efficiency based on a photosynthetic mechanistic model of light response[J].Plant Physiology Journal,2017,53(6): 1116-112.]   \n[9]Maureen T,Alfred O,Hussein S,et al.Leaf gas exchange and water-use efficiency of dry-land wheat genotypes under water stressed and non- stressed conditions[J]. Acta Agriculturae Scandinavica, Section B-Soil & Plant Science,2018,68(8): 738-748.   \n[10] 贾建英,赵俊芳,万信,等.黄土高原不同降水区休闲期土壤贮 水效率及其对冬小麦水分利用的影响[J].生态学报,2017,37 (17): 5704-5712.[Jia Jianying,Zhao Junfang,Wan Xin,et al.Effect of soil water storage eficiency on winter wheat water use efficiency in different precipitation areas during the fallow period in the Loess Plateau, western China[J].Acta Ecologica Sinica,2017, 37(17): 5704-5712.]   \n[11] 雷俊,赵福年,张红兵,等.半干旱区不同颜色覆膜对春小麦生 长和产量的影响[J].干旱气象,2018,36(4):561-567.[Lei Jun, Zhao Funian, Zhang Hongbing,et al.Effect of different color plastic film mulching on the growth and yield of spring wheat in a semi-arid region[J]. Jouenal of Arid Meterology,2018,36(4): 561-   \n567.] [12] 靖华,亢秀丽,马爱平,等.不同海拔麦田土壤水分变化特征及 其对水分利用效率的影响[J].干旱气象,2019,37(4):656-662. [Jing Hua,Kang Xiuli,Ma Aiping,et al.Effect of different altitudes on characteristics of soil water and use efficiency in wheat fields[J]. Jouenal of Arid Meterology,2019,37(4): 656-662.] [13] 王建林,于贵瑞,房全孝,等.不同植物叶片水分利用效率对光 和 CO2 的响应与模拟[J].生态学报,2008,28(2):525-533. [Wang Jianlin, Yu Guirui, Fang Quanxiao,et al.Responses of water use efficiency of nine plant species to light and CO $^ { 1 } 2$ and it's modeling[J]. Acta Ecologica Sinica, 2008,28(2): 525-533.] [14]武兰芳,欧阳竹.不同种植密度下两种穗型小麦叶片光合特性 的变化[J].麦类作物学报,2008,28(4): 618-625.[Wu Lanfang, Ouyang Zhu.Photosynthesis of two spike-type cultivars of winter wheat(Triticum aestium L)under diffrent sowing rates[J]. Journal of Triticeae Crops,2008,28(4): 618-625.] [15] 路文涛,贾志宽,张鹏,等.宁南旱区有机培肥对冬小麦光合特 性和水分利用效率的影响[J].植物营养与肥料学报,2011,17 (5): 1066-1074.[Lu Wentao,Jia Zhikuan, Zhang Peng,et al.Effects of organic fertilization on winter wheat photosynthetic characteristics and water use efficiency in semi-arid areas of southern Ningxia[J].Plant Nutrition and Fertilizer Science,2O11,17(5):   \n1066-1074.] [16] 毕润霞,杨洪强,杨萍萍,等.地下穴灌对苹果冠下土壤水分分 布及叶片水分利用效率的影响[J].中国农业科学,2013,46 (17): 3651-3658.[Bi Runxia, Yang Hongqiang, Yang Pingping, et al.Effect of cavity irrigation underground on the distribution of soil water under the canopy and leaf water use efficiency of apple [J]. Scientia Agricultura Sinica,2013,46(17): 3651-3658.] [17] 吴英姿,胡继超,张雪松,等.环境因子对水稻叶片水分利用效 率的影响[J].江苏农业科学,2014,42(5):79-82.[Wu Yingzi, Hu Jichao,Zhang Xuesong,et al. Effects of environmental factors on leaf water use efficiency of rice[J]. Jiangsu Agricultural Sciences,2014,42(5): 79-82.] [18] 郑云普,李菲,侯毅凯,等.大气 $\\mathrm { C O } _ { 2 }$ 浓度增加对作物光合性能 及叶片水分利用效率的影响[J].农业工程学报,2019,35(10):   \n91-98.[Zheng Yunpu,Li Fei,Hou Yikai,etal.Effect of increasing CO concentration on photosynthesis and leaf water use efficiency of crops[J]. Transactions of the Chinese Society of Agricultural Engineering,2019,35(10): 91-98.] [19]Shangguan Z, Shao M, Dyckmans J. Nitrogen nutrition and water stress effects on leaf photosynthetic gas exchange and water use efficiency in winter wheat[J]. Environmental and Experimental Botany,2000,44(2): 141-149. [20] 陈晓远,高志红,罗远培,等.不同土壤水分冬小麦根、冠关系 及其对叶片水分利用效率的影响[J].中国生态农业学报, 2005,13(2):134-137.[Chen Xiaoyuan,Gao Zhihong,Luo Yuanpei,et al. Relationships between root and shoot of winter wheat under different soil water conditions and their effects on the water use efficiency[J]. Chinese Journal of Eco-Agriculture,2005,13(2): 134-137.]   \n[21] 翟丙年,李生秀.不同水分状况下施氮对夏玉米水分利用效率 的影响[J].植物营养与肥料学报,2005,11(4):473-480.[Zhai Bingnian,Li Shengxiu.Effects of nitrogen nutrition on summer maize water use efficiency under different status of soil moisture [J].Plant Nutrition and Fertilizer Science,2005,11(4): 473-480.]   \n[22]Dong B,Liu M, Shao H,et al. Investigation on the relation between leaf water use efficiency and physio-biochemical traits of winter wheat under rained condition[J]. Colloids and Surfaces B: Biointerfaces, 2008,62(2): 280-287.   \n[23] 于文颖,纪瑞鹏,冯锐,等.不同生育期玉米叶片光合特性及水 分利用效率对水分胁迫的响应[J].生态学报,2015,35(9): 2902-2909.[Yu Wenying,JiRuipeng,Feng Rui, etal.Response of water stress on photosynthetic characteristics and water use fficiency of maize leaves in different growth stage[J].Acta Ecologica Sinica,2015,35(9): 2902-2909.]   \n[24] 张继波,薛晓萍,李楠,等.水分胁迫对扬花期冬小麦光合特性 和干物质生产及产量的影响[J].干旱气象,2019,37(3):447- 453.[Zhang Jibo,Xue Xiaoping,Li Nan, etal.Efcts of water stress on photosynthetic characteristics,dry matter production and yield of winter wheatat flowering stage[J]. Jouenalof Arid Meterology,2019,37(3): 447-453.]   \n[25] 代立芹,李春强,魏瑞江,等.河北省冬小麦生长和产量对气候 变化的响应[J].干旱区研究,2011,28(2): 294-300.[Dai Liqin, Li Chunqiang,Wei Ruijiang,et al. Response of growth and yield of winter wheat to climate change in Hebei province[J]. Arid zone research,2011,28(2): 294-300.]   \n[26] 何立谦,张维宏,杜雄,等.土下覆膜与适宜灌水提高冬小麦水 分利用率[J].农业工程学报,2016,32(增1): 94-104.[He Liqian, Zhang Weihong,Du Xiong,et al.Soil-coated ultrathin plasticfilm mulching and suitable irrigation improve water use efficiency of winter wheat[J]. Transactions of the Chinese Society of Agricultural Enginerng,16,3(uppl.1): 94104.   \n[27]Yan H,WuL,FilardoF,etal.Chemicaland hydraulic signalsegulate stomatal behavior and photosynthetic activity in maize during progressive drought[J]. Acta Physiologiae Plantarum, 2017,39 (6): 125.   \n[28]Boutraa T,Akhkha A,Al-Shoaibi A,et al. Effect of water stress on growth and water use eficiency(WUE)of some wheat cultivars (Triticum durum)grown in Saudi Arabia[J]. Journal of Taibah University for Science,2010,3:39-48.   \n[29] 贾建英,韩兰英,万信,等.甘肃省冬小麦干旱灾害风险评估及 其区划[J].干旱区研究,2019,36(6):1478-1486.[Jia Jianying, Han Lanying,Wan Xin,et al. Risk and regionalization of drought for winter wheat in Gansu Province[J].Arid Zone Research,2019, 36(6): 1478-1486.]   \n[30] 庞桂斌,徐征和,杨士红,等.控制灌溉水稻叶片水分利用效率 影响因素分析[J].农业机械学报,2017,48(4):233-241.[Pang Guibin,Xu Zhenghe,Yang Shihong,et al. Influence factors analysis of rice leaf water use efficiency under controlled irrigation[J]. Transactions of the Chinese Society for Agricultural Machinery, 2017,48(4): 233-241.]   \n[31]Pou A,Flexas J,Alsina M, et al.Adjustments of water use efficiency by stomatal regulation during drought and recovery in the drought-adapted Vitis hybrid Richter-110(V.berlandieri×V. rupestris)[J].Physiologia Plantarum,2010,134(2): 313-323.   \n[32]Hu L,Wang Z,Huang B.Diffusion limitations and metabolic factors associated with inhibition and recovery of photosynthesis from drought stress in a C3 perennial grass species[J]. Physiologia Plantarum,2010,139(1): 93-106.   \n[33] Lawson T, Blatt M. Stomatal size,speed,and responsiveness impact on photosynthesis and water use efficiency[J].Plant Physiology,2014,164(4): 1556-1570.   \n[34]曹生奎,冯起,司建华,等.植物叶片水分利用效率研究综述[J]. 生态学报,2009,29(7): 3882-3892.[Cao Shengkui,Feng Qi, Si Jianhua,et al. Summary on the plant water use eficiency at leaf level[J].Acta Ecologica Sinica,2009,29(7): 3882-3892.]   \n[35]Singh S, Reddy K. Regulation of photosynthesis, fluorescence, stomatal conductance and water-use eficiency of cowpea(Vigna unguiculata L.Walp.)under drought[J].Journal of Photochemistry and Photobiology B: Biology,2011,105(1): 40-50.   \n[36]Blum A. Drought resistance,water-use efficiency,and yield potential-are they compatible,dissonant,or mutuallexclusive?[J].Australian Journal of Agricultural Research,2005,56(11): 1159-1168.   \n[37] Dingkuhn M, Cruz R, $\\mathrm { O ^ { \\prime } }$ Toole J,et al. Net photosynthesis,water use efficiency,leaf water potential and leaf olling asaffected by water deficit in tropical upland rice[J].Australian Journalof Agricultural Research,1989,40(6): 1171-1181.   \n[38] 周怀林,周广胜.玉米叶片水分利用效率的保守性[J].生态学 报,2019,39(6): 2156-2167.[Zhou Huailin, Zhou Guangsheng. Water conservation in terms of leaf water use eficiency of maize (Zea mays L.)[J].Acta Ecologica Sinica,2019,39(6): 2156-2167.]   \n[39] 姚素梅,刘明久,茹振钢,等.ALA对冬小麦叶片气体交换和水 分利用效率的影响[J].植物营养与肥料学报,2010,16(1):242- 246.[Yao Sumei,Liu Mingjiu,Ru Zhengang,et al.Effects of 5- aminolevulinic acid on leaf gas exchange and water use effiiency in winter wheat[J].Plant Nutrition and Fertilizer Science,2010,16 (1): 242-246.]   \n[40]段爱旺,肖俊夫,张寄阳,等.控制交替沟灌中灌水控制下限对 玉米叶片水分利用效率的影响[J].作物学报,1999,25(6):766- 771.[Duan Aiwang, Xiao Junfu,Zhang Jiyang,et al.Effectsof irrigation low limits on leaf water use effciency in maize under controlled alternative furrow irrigation[J].Acta Agronomica Sinica, 1999, 25(6): 766-771.]   \n[41] Zhang H, Oweis T, Garabet S, et al. Water-use efciency and transpiration efciency of wheat under rain-fed conditions and supple",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "mental irrigation in a Mediterranean- type environment[J].Plant and Soil,1998,201(2):295-305. [42]Masle J,Gilmore S,Farquhar G.The ERECTA gene regulates plant transpiration efficiency in Arabidopsis[J].Nature,2005, ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "436: 866-870. [43]Deng X, Shan L,Kang S,et al. Improvement of wheat water use efficiency in semiarid area of china[J].Agricultural Sciences in China,2003,2(1): 35-44. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Study on gas exchange parameters and water use efficiency of spring wheat leaves under different levels of water stress ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CHEN Fei'， YAN Shuang²， WANG Heling'， ZHANG Kai', ZHAO Funian'， HUANG Xiaoyan'   \n(1.Instituteof Arid Meteorology,China Meteorological Administration,KeyOpen Laboratoryof Arid Climate Change and Disaster Reduction of CMA,Key Laboratory of Arid Climatic Changing and Reducing Disaster of Gansu   \nProvince,Lanzhou 73002O,Gansu, China; 2.Beijing Miyun District Meteorological Bureau,Beijing 11500,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Leaf gas exchange parameters are the physiological basis of crop yield. Among these parameters, the photosynthetic and transpiration rates play a decisive role in leaf water use efficiency.Therefore,they are essential to research on crop drought resistance and water conservation.Poted water simulation experiments were conducted in spring wheat at Dingxi and Wuwei stations.Four group of treatments,including the control (CK),continuous drought stress (WS), moderate drought stress $( 4 0 \\% \\mathrm { F C } )$ , and severe drought stress $3 0 \\% \\mathrm { F C } )$ treatments, were established to analyze the response characteristics and related characteristics of the gas exchange parameters and water use efficiency ( $W U E _ { \\mathrm { i n s t } } )$ of spring wheat leaves under different levels of water stress.Under continuous drought stress,the daily soil water consumption,photosynthetic rate,transpirationrate,and stomatal conductance of spring wheat all showed an initially rapid and then slow downward trend.When the stress reached moderate and severe drought, these parameters were decreased by $71 \\%$ and $76 \\%$ ， $39 \\%$ and $60 \\%$ ， $57 \\%$ and $66 \\%$ ,and $60 \\%$ and $7 7 \\%$ , respectively. The extent of reduction was stomatal conductance>transpiration rate>photosynthetic rate. The intercellular $\\mathrm { C O } _ { 2 }$ concentration decreased during mild to moderate drought, and it was decreased by $3 3 \\%$ under late moderate drought stress. Subsequently, an increasing trend was observed. $W U E _ { \\mathrm { i n s t } }$ showed an upward trend during the stage from mild to moderate drought. It was increased by $41 \\%$ at the late moderate drought stage, and then it decreased rapidly. Compared with CK, $W U E _ { \\mathrm { i n s t } }$ increased during mild to severe drought, and it reduced after extreme drought. However, when water stress was maintained at the level of moderate or severe drought, the above indicators were similar at the same drought level under continuous drought.Additionally,the values of moderate drought were all higher than those of severe drought ( $( P { < } 0 . 0 5 )$ . The photosynthesis and transpiration rates were the dominant factors for each other under the mild to moderate stage ofcontinuous drought stress,and stomatal conductance was their common dominant factor under this stress after the late moderate drought and when water stress was maintained at moderate or severe drought. $W U E _ { \\mathrm { i n s t } }$ was dominantly influenced by the transpiration rate under well-watered and continuous drought stress,and it was not significantly regulated by leaf gas exchange parameters when water stress was maintained at moderate or severe drought. The research results provide a reference for informing the use of appropriate measures in different drought stages and situations. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Keywords: spring wheat; water stress； photosynthetic parameters； stomatal conductance; water use effciency ",
+        "page_idx": 11
+    }
+]

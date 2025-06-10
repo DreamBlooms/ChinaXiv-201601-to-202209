@@ -1,0 +1,20 @@
+# Ulanodon, A new name for the Hyracodontid Ulania Qi, 1990 (Perissodactyla, Mammalia)
+
+BAI Bin1,2 QI Tao'
+
+(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Paleontology and Paleoanthropology,Chinese Academy ofSciences Beijing100044) (2 CAS Center for Excellence in Life and Paleoenvironment Beijing loo044 baibin@ivpp.ac.cn)
+
+Qi (1990) named a new hyracodontid genus Ulania from the Middle Eocene deposits of Nei Mongol (Inner Mongolia), China. However, the generic name has been preoccupied by Ulania Lin & Zhang,1979,a Cambrian trilobite (Zhu et al.,1979:103). We therefore propose a new generic name Ulanodon gen. nov. to replace Ulania Qi, 199o.“Ulan” means red in color in Mongolian language,and the Greek “-odon” is a common root in hyracodontid names meaning teeth. We thank Mr. John Ponting for bringing this issue to our atention, and Dr. Wang Yuan-Qing for the suggestion of the new generic name.
+
+# 建议乌兰齿犀属Ulanodon取代蹄齿犀乌兰兽属UlaniaQi,1990(哺乳动物纲：奇蹄目)
+
+白滨1,2 齐陶
+
+(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京100044)(2 中国科学院生物演化与环境卓越创新中心北京100044)
+
+齐陶(1990)命名了采自内蒙古二连盆地额尔登敖包中始新统地层的蹄齿犀新属种——威氏乌兰兽Ulaniawilsoni,但该属名已经被一种寒武纪的三叶虫Ulania Lin&Zhang，1979所占用；因此我们提出以乌兰齿犀属Ulanodon gen.nov.取代UlaniaQi,1990。“Ulan”(乌兰)在蒙古语中意为"红色”,希腊语"-odon"是蹄齿犀科中常用的词根,意为"牙齿”。感谢JohnPonting先生告知Ulania的异物同名以及王元青研究员对新属名Ulanodon的建议。
+
+# References
+
+QiT,1990.Anew genus,Ulania,ofHyracodontidae (Perissodactyla,Mammalia).VertPalAsiat,28(3):218-227   
+Zhu ZL,Lin HL,Zhang ZH,1979.Trilobites.In: Nanjing Instituteof Geologyand Palaeontology,Academia Sinica, InstituteofGeological SciencesofQinghai Province eds.PalaeontologicalAtlas of Northwest China.Qinghai volume 2.Beijing: Geological Publishing House. 81-116

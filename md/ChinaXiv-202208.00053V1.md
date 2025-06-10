@@ -1,0 +1,188 @@
+# 青藏高原东北部残积母质土壤发育过程研究以青海湖北部宁夏剖面为例
+
+谢丽倩12， 鄂崇毅，赵，霞3，李萍²，张晶²， 孙满平1.2，先巴吉1.2
+
+(1.青海师范大学青藏高原地表过程与生态保育教育部重点实验室,青海 西宁810001；2.青海师范大学地理科学学院/青海省自然地理与环境过程重点实验室,青海 西宁810008；3.青海省人民政府-北京师范大学高原科学与可持续发展研究院,青海 西宁810008)
+
+摘要：残积母质是青海湖地区重要的成土母质之一，目前对高原残积母质土壤的研究相对匮乏，特别是其形成发育的年代尚不明晰，限制了对高原残积母质土壤演变过程的认识及对区域气候环境演变的理解。为探究青藏高原东北部残积母质土壤的发育过程及其发育模式，以青海湖北部宁夏(NX)剖面作为研究对象,通过光释光(Optically stimulated luminescence,OSL)测年获得残积母质土壤发育年代，采用化学蚀变指数（Chemicalindexofalteration,CIA） $\mathrm { R b / S r }$ 和粉黏比等探究土壤发育程度，对比青海湖地区河湖相沉积和黄土的 $\mathrm { Z r / N b , K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 和 $\mathrm { T i O } _ { 2 } / \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 分析其物源。结果表明：NX土壤剖面在早全新世以来发育，其年代结果集中在 $1 0 . 0 2 { \sim } 8 . 6 7 \mathrm { k a }$ ，成土母质发育时间与流域内风沙强烈活动时期基本一致，为干暖气候背景下的产物;通过物源对比分析，NX剖面底部母质为母岩就地风化而成，上部为风尘加积发育，发育模式为混合母质风尘加积型;剖面整体处于弱化学风化阶段，土壤发育程度较弱。
+
+关键词：残积母质；元素地球化学；土壤发育；青海湖北部
+
+# 文章编号：
+
+土壤母质是土壤发育的基础,对土壤的性质与发生方向有深远影响。根据土壤母质与母岩的关系可分为残积母质和运积母质两种类型：残积母质是母岩在气候、生物等改造作用下原地风化后形成的松散碎屑物或疏松风化壳，母质成分继承了母岩的特点；运积母质是经重力、流水、风力等多种外力作用搬运而来的风化物质，通常其物质组成与母岩具有较大差异[1]。
+
+青藏高原地势高耸，寒冷干燥，物理风化强烈，化学风化微弱，加之该区河流、冰川、风沙、湖泊等外力作用广泛，形成了大量的第四纪松散堆积物[2-4],因此，该区土壤发育的物质基础以运积母质为主。随着土壤年代学工作的开展，近年来对高原风积母质土壤形成演变过程有了一定的认识[2-5]。然而，在野外考察中不乏残积母质发育土壤的存在，说明在一些特殊的气候时段，化学风化作用较强,原地风化也是高原土壤的重要成壤方式。对残积母质土壤剖面进行系统的年代学和土壤理化特征分析，可以有效补充高原土壤的形成演化过程，对区域土壤资源的保护与开发具有重要的指导意义
+
+青海湖地处青藏高原东北部，是中国最大的内陆湖，其流域是阻正柴达木沙漠东扩、共和沙地北扩的重要生态屏障，流域内的土壤安全更是维系生态环境安全的关键。系统研究青海湖流域不同类型土壤的形成发育过程，对理解高原土壤的形成演化过程具有重要的参考价值。通过野外考察，在青海湖北部发现有较大面积的花岗岩残积母质土壤发育。因此，本文以青海湖北部的宁夏(NX)残积母质土壤剖面为研究对象，采用光释光(Optically stimulatedluminescence，OSL)测年方法获取该剖面残积母质土壤发育的年代,基于土壤剖面理化特征，结合青海湖地区古气候环境演变记录，探讨青海湖流域土壤发育的过程和发育模式。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+青海湖地区位于青藏高原东北部，年均气温为$1 . 9 ~ \mathrm { ^ { \circ } C }$ ,年均降水量为 $3 5 0 { \sim } 4 0 0 ~ \mathrm { m m }$ ,降水集中在夏季，属典型的高原半干旱高寒气候，土壤类型主要有高山寒漠土、高山草甸土、高山草原土、山地栗钙土、风沙土等[8],地表植被以高原嵩草(Kobresia myosuroides）芨芨草（Achnatherumsplendens）早熟禾属(Poaspp.）、狼毒（Stellera chamaejasme）、紫花针茅(Stipa purpurea)等为主」。
+
+# 1.2土壤剖面与样品采集
+
+宁夏(NX)剖面 $( 9 9 ^ { \circ } 5 0 ^ { \prime } 2 0 ^ { \prime \prime } \mathrm { E }$ $3 7 ^ { \circ } 1 5 ^ { \prime } 1 4 ^ { \prime \prime } \mathrm { N }$ ，海拔$3 2 3 1 . 7 \mathrm { m }$ )位于青海省海北州刚察县宁夏村附近(图1），剖面厚约 $4 0 \ \mathrm { c m } , 0 { \sim } 3 5 \ \mathrm { c m }$ 为土壤较细颗粒， $3 5 \sim$ $4 0 \ \mathrm { c m }$ 为花岗岩风化碎屑物， $4 0 \ \mathrm { c m }$ 以下为花岗岩母岩，上覆植被为狼毒和芨芨草。本研究在剖面10$\mathrm { c m } \ 、 2 0 \ \mathrm { c m } \ 、 2 6 \ \mathrm { c m }$ 和 $3 6 ~ \mathrm { c m }$ 处采集4个OSL测年样品，依次编号为NX1\~NX4；以 $5 \mathrm { c m }$ 土层厚度为间隔采集8个土壤散样，并在底部采集花岗岩母岩，编号为NX5，用于元素地球化学测试。
+
+# 1.3 光释光测年
+
+OSL测年在青海师范大学自然地理与环境过程重点实验室光释光分室完成，测试仪器为RisTL/OSL-DA-20-C/D型热/光释光仪，辐照源为人工β源${ } ^ { 9 0 } \mathrm { S r } / { } ^ { 9 0 } \mathrm { Y }$ 。前处理过程参考E等[1]。全部样品等效剂量率(Dose，D)采用粗颗粒 $( 6 3 { \sim } 9 0 ~ \mu \mathrm { m }$ )石英单片再生剂量法[12-13]进行测定,环境剂量率(Dose rate)中铀（U）钰 $\mathrm { \Delta \cdot \Omega }$ )钾(K)元素含量由电感耦合等离子体质谱法进行测定，再通过计算转化为 $\beta , \gamma$ 剂量[14]，宇宙射线的贡献采用Prescott等[15]提出方法计算。考虑到青海湖北部降水较少，蒸发量大，冻土发育，最终计算样品的含水量为 $( 1 0 \pm 5 ) \%$ ,具体信息见表1。
+
+# 1.4土壤理化性质测试
+
+土壤粒度实验在青海省自然地理与环境过程重点实验室粒度分室完成，使用仪器为英国马尔文公司制造的Mastersizer2000激光粒度仪（测量范围： $0 . 0 2 { \sim } 2 0 0 0 ~ \mu \mathrm { m } ,$ )。参考鹿化煜等的实验法进行实验前处理：称取 $0 . 3 { \sim } 0 . 5 \ \mathrm { g }$ 过20目标准筛的土壤，在加热条件下分别加入 $10 \%$ 的 $\mathrm { H } _ { 2 } \mathrm { O } _ { 2 }$ 和 $10 \%$ 的HCl去除土壤中的有机质和碳酸盐，静置后加入分散剂$( \mathrm { N a P O } _ { 3 } ) _ { 6 }$ ,最后对土壤样品进行上机测试。
+
+土壤中的元素地球化学分析在西安地质调查注：青海湖地区河湖相沉积和黄土引自文献[10]。
+
+![](images/13206fde916b79ab8e95f2e14b0b50d5bb89907b3831ad84b994b8795111a7d4.jpg)  
+图1采样点位置图  
+Fig.1 Location of sampling point
+
+# 干旱区地理
+
+中心测定，测试样品使用全岩样品，为去除土壤中碳酸盐的影响，另取样品 $\mathrm { N X } 1 { - } 1 { \sim } \mathrm { N X } 1 { - } 8$ 进行化学淋滤处理：加 $1 0 \%$ 的HCI浸泡约 $3 0 ~ \mathrm { m i n }$ ,静置 $2 \mathrm { ~ h ~ }$ 后抽取上清液，将不溶于酸的部分经去离子水清洗3次，再放入 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 烘箱烘干，冷却后研磨至200目以下。常量元素含量按照《GB/T14506.28-2010》标准使用荷兰帕纳科公司生产的Axios型波长色散X荧光光谱仪进行测试，微量元素按照《GB/T14506.30-2010》标准用美国热电公司生产的iCAPRQ型电感耦合等离子体质谱仪进行测定。
+
+土壤总有机碳(Totalorganiccarbon,TOC)使用德国Elemertar公司生产的varioTOCcube总有机碳分析仪进行测试。测试样品经过 $9 5 0 ~ \mathrm { ‰ }$ 高温催化，燃烧产生 $\mathrm { C O } _ { 2 }$ ,利用IR(InfraredRadiation）检测 $\mathrm { C O } _ { 2 }$ 总量，再通过标准曲线计算得到TOC的含量。TOC测试实验在青海省自然地理与环境过程重点实验室有机碳分室完成。
+
+# 2 结果与分析
+
+# 2.1年代结果
+
+样品NX2( $6 3 { \sim } 9 0 ~ \mu \mathrm { m } ,$ 的衰退曲线(图2a)显示出石英信号在前2s快速衰减到背景值，表明石英颗粒以快组分为主、晒退充分，即该样品适用于OSL测年;剂量生长曲线(图2b)中该样品的释光信号指数拟合较优。从NX剖面4个年代结果可以看出，NX剖面的土壤年代集中在早全新世，表层 $1 0 \ \mathrm { c m }$ 年代 ${ \sim } 0 . 4 \ \mathrm { k a }$ ,至下部 $2 0 \mathrm { c m }$ 土壤年代跳跃至 ${ \sim } 9 \mathrm { k a }$ ，表现为明显的沉积间断(表1)。
+
+# 2.2土壤的物理特征
+
+由测试结果(表2)可知，NX剖面土壤的组成特点为：粉砂 $>$ 砂 $>$ 黏粒，剖面在 $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 与 $3 0 ~ \mathrm { c m }$ 以上土壤的机械组成差异明显， $3 0 { \sim } 4 0 ~ \mathrm { c m }$ 主要以砂为主，而 $3 0 \ \mathrm { c m }$ 以上土壤粉砂是主要的组成部分，黏粒含量也由下往上逐渐增加。粉黏比由下往上不断减小，可见剖面底部物质颗粒明显粗于上部土壤。
+
+# 2.3土壤的化学特征
+
+从表3可看出，NX剖面主要以 $\mathrm { S i O _ { 2 } \ldots A l _ { 2 } O _ { 3 } \ldots F e _ { 2 } O _ { 3 } }$ 和 $\mathrm { K } _ { 2 } \mathrm { O }$ 等氧化物为主，其中 $\mathrm { S i O } _ { 2 } , \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 含量占比最高。与上地壳[i7](Uppercontinentalcrust,UCC)相比（图3），NX剖面上部土壤的 $\mathrm { M g O , M n O , P _ { 2 } O _ { 5 } }$ 和 $\mathrm { T i O } _ { 2 }$ 含量与UCC接近， $\mathrm { F e } _ { 2 } \mathrm { O } _ { 3 }$ 和 $\mathrm { N a } _ { 2 } \mathrm { O }$ 含量低于UCC；CaO含量高于UCC；底部母岩和残积母质与上覆土壤的元素含量差异较大，上覆土壤和底部物质成分明显
+
+表1NX剖面OSL测年结果及相关参数  
+Tab.1 OSL dating results and related parameters of profile NX   
+
+<html><body><table><tr><td>样品</td><td>深度 /cm</td><td>钍(Th)/μg·g"</td><td>铀(U)/μg·g-1</td><td>钾(K)/%</td><td>环境剂量率 /Gy·ka-1</td><td>测片 个</td><td>等效剂量 /Gy</td><td>年代 /ka</td></tr><tr><td>NX1</td><td>10</td><td>12.54±0.7</td><td>2.14±0.3</td><td>2.17±0.04</td><td>3.24±0.14</td><td>18</td><td>0.27±0.02</td><td>0.41±0.04</td></tr><tr><td>NX2</td><td>20</td><td>14.39±0.7</td><td>3.09±0.4</td><td>2.14±0.04</td><td>4.00±0.18</td><td>17</td><td>35.25±1.89</td><td>8.67±0.62</td></tr><tr><td>NX3</td><td>26</td><td>13.63±0.8</td><td>2.62±0.4</td><td>2.12±0.04</td><td>3.88±0.18</td><td>18</td><td>37.66±1.82</td><td>9.71±0.68</td></tr><tr><td>NX4</td><td>36</td><td>12.29±0.7</td><td>1.67±0.3</td><td>3.14±0.04</td><td>4.50±0.20</td><td>17</td><td>45.39±1.31</td><td>10.02±0.79</td></tr></table></body></html>
+
+![](images/d4927b2e6a2ef452ab0ecf0da3d6881f8fec5f0c3d3c0c8c0052e0d12eea3246.jpg)  
+图2NX2衰退及生长曲线  
+Fig.2 Decay and growth curves of the sample from NX2
+
+# 表2NX剖面的物理性质
+
+Tab.2Physical properties of profile NX   
+
+<html><body><table><tr><td rowspan="2">样品编号</td><td rowspan="2">深度/cm</td><td colspan="3">机械组成/%</td><td rowspan="2">粉黏比</td></tr><tr><td>砂 (>63 μm)</td><td>粉砂 (4~63 μm)</td><td>黏粒 (<4 μm)</td></tr><tr><td>NX1-1</td><td>0~5</td><td>23.58</td><td></td><td></td><td>2.84</td></tr><tr><td>NX1-2</td><td>5~10</td><td>29.86</td><td>56.51 55.12</td><td>19.91</td><td>3.67</td></tr><tr><td>NX1-3</td><td>10~15</td><td>18.88</td><td>65.63</td><td>15.02</td><td>4.24</td></tr><tr><td>NX1-4</td><td>15~20</td><td>21.66</td><td>64.13</td><td>15.49 14.21</td><td>4.51</td></tr><tr><td>NX1-5</td><td>20~25</td><td>21.04</td><td>67.77</td><td>11.19</td><td>6.06</td></tr><tr><td>NX1-6</td><td>25~30</td><td>52.96</td><td>40.80</td><td>6.24</td><td>6.54</td></tr><tr><td>NX1-7</td><td>30~35</td><td>79.75</td><td>18.28</td><td>1.97</td><td>9.28</td></tr><tr><td>NX1-8</td><td>35~40</td><td>90.31</td><td>8.82</td><td>0.87</td><td>10.14</td></tr></table></body></html>
+
+表3NX剖面的化学特征  
+Tab.3 Chemical characteristics of of profile NX   
+
+<html><body><table><tr><td>参数</td><td>NX1-1</td><td>NX1-2</td><td>NX1-3</td><td>NX1-4</td><td>NX1-5</td><td>NX1-6</td><td>NX1-7</td><td>NX1-8</td><td>NX5</td></tr><tr><td>SiO/%</td><td>61.76</td><td>64.83</td><td>68.92</td><td>68.36</td><td>70.34</td><td>70.65</td><td>70.89</td><td>75.64</td><td>76.29</td></tr><tr><td>Al2O3/%</td><td>12.44</td><td>12.68</td><td>12.67</td><td>13.29</td><td>13.09</td><td>13.10</td><td>13.13</td><td>12.15</td><td>11.75</td></tr><tr><td>Fe2O3/%</td><td>2.15</td><td>2.13</td><td>1.86</td><td>2.37</td><td>1.81</td><td>1.89</td><td>1.46</td><td>1.06</td><td>0.49</td></tr><tr><td>Mg0/%</td><td>1.74</td><td>1.75</td><td>1.72</td><td>1.99</td><td>1.71</td><td>1.71</td><td>1.58</td><td>0.63</td><td>0.22</td></tr><tr><td>CaO/%</td><td>0.95</td><td>1.08</td><td>1.04</td><td>1.06</td><td>1.00</td><td>1.08</td><td>0.91</td><td>0.87</td><td>1.00</td></tr><tr><td>Na2O/%</td><td>1.79</td><td>1.90</td><td>2.04</td><td>2.06</td><td>2.12</td><td>2.09</td><td>2.10</td><td>2.40</td><td>2.63</td></tr><tr><td>K0/%</td><td>2.75</td><td>2.78</td><td>2.83</td><td>2.78</td><td>3.07</td><td>3.14</td><td>3.47</td><td>4.28</td><td>5.91</td></tr><tr><td>MnO/%</td><td>0.04</td><td>0.04</td><td>0.04</td><td>0.05</td><td>0.04</td><td>0.04</td><td>0.03</td><td>0.01</td><td>0.01</td></tr><tr><td>PO5/%</td><td>0.14</td><td>0.12</td><td>0.08</td><td>0.10</td><td>0.06</td><td>0.08</td><td>0.05</td><td>0.03</td><td>0.02</td></tr><tr><td>TiO2/%</td><td>0.66</td><td>0.65</td><td>0.60</td><td>0.69</td><td>0.63</td><td>0.58</td><td>0.52</td><td>0.27</td><td>0.10</td></tr><tr><td>Rb/μg:g-1</td><td>113.22</td><td>124.99</td><td>118.83</td><td>111.12</td><td>120.17</td><td>128.19</td><td>135.28</td><td>178.37</td><td>272.23</td></tr><tr><td>Sr/μg:g-1</td><td>207.46</td><td>240.19</td><td>288.55</td><td>330.94</td><td>340.87</td><td>352.28</td><td>349.22</td><td>259.13</td><td>64.49</td></tr><tr><td>Zr/μg:g-1</td><td>157.38</td><td>175.55</td><td>148.51</td><td>153.09</td><td>139.91</td><td>137.58</td><td>146.07</td><td>96.81</td><td>37.48</td></tr><tr><td>Nb/μg.g-1</td><td>12.07</td><td>12.91</td><td>11.26</td><td>11.93</td><td>11.11</td><td>11.74</td><td>10.34</td><td>6.66</td><td>5.39</td></tr><tr><td>CIA</td><td>61.88</td><td>61.01</td><td>60.36</td><td>61.48</td><td>60.24</td><td>59.80</td><td>59.67</td><td>54.42</td><td>48.34</td></tr><tr><td>Rb/Sr</td><td>0.55</td><td>0.52</td><td>0.41</td><td>0.34</td><td>0.35</td><td>0.36</td><td>0.39</td><td>0.69</td><td>4.22</td></tr><tr><td>KzO/Al2O3</td><td>0.25</td><td>0.24</td><td>0.24</td><td>0.23</td><td>0.25</td><td>0.26</td><td>0.28</td><td>0.38</td><td>0.54</td></tr><tr><td>TiOz/Al2O3</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.06</td><td>0.05</td><td>0.05</td><td>0.03</td><td>0.01</td></tr><tr><td>Zr/Nb</td><td>13.40</td><td>13.25</td><td>16.06</td><td>15.06</td><td>14.56</td><td>14.54</td><td>12.94</td><td>18.30</td><td>6.95</td></tr><tr><td>TOC/%</td><td>2.14</td><td>1.57</td><td>0.85</td><td>0.31</td><td>0.13</td><td>0.11</td><td>0.10</td><td>0.06</td><td>二</td></tr></table></body></html>
+
+注：NX1-1\~NX1-8的氧化物含量为酸不溶相中的含量;NX5为底部基岩;CIA为化学蚀变指数；TOC为土壤总有机碳;C $\mathrm { I A . K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 和 $\mathrm { T i O } _ { 2 } /$ $\mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 的值为摩尔分数； ${ \mathrm { K } } _ { 2 } { \mathrm { O } } / { \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ 和 $\mathrm { T i O _ { 2 } / A l _ { 2 } O _ { 3 } }$ 计算使用的氧化物含量为全岩样品测得的数据；-表示未测试。
+
+不同。
+
+沉积物的化学风化程度可以通过化学蚀变指数（Chemical indexofalteration,CIA)表示[18],表达式为： $\mathrm { C I A } { = } \big [ \mathrm { A l _ { 2 } O _ { 3 } } / ( \mathrm { A l _ { 2 } O _ { 3 } } { + } \mathrm { C a O ^ { * } } { + } \mathrm { N a _ { 2 } O } { + } \mathrm { K _ { 2 } O } ) \big ] { \times } 1 0 0$ 。式中均为氧化物的摩尔分数， $\mathrm { C a O ^ { * } }$ 为硅酸盐矿物中的$\mathrm { C a O ^ { [ 1 9 ] } }$ 。为排除碳酸盐的影响，本研究通过加入$1 0 \%$ 的HC1去除非硅酸盐矿物中的碳酸盐，对CIA值进行校正。NX剖面中CIA平均值为58.58,最高为61.88，底部未经风化母岩的CIA本底值为48.34。Rb/Sr比值在黄土高原被用作衡量风化成壤程度的指标，比值越高指示剖面化学风化强度越强[20]。NX剖面Rb/Sr比值在 $3 5 ~ \mathrm { c m }$ 以上变化较小，介于 $0 . 3 4 \sim$ 0.55，从下往上不断增大；底部母岩的Rb/Sr比值为4.22，残积母质为0.69，与上部土壤有明显区别。
+
+# 干旱区地理
+
+![](images/e42e3a819b693250624a929aaf0fa91fd0887d7c3af09526cd305555bd0d8b1f.jpg)  
+图3NX剖面氧化物含量UCC标准化图Fig.3 UCC standardization diagram of oxide contentin profile NX
+
+注：UCC为上地壳，NX1-1\~NX1-8的氧化物含量为未加 $1 0 \%$ 的HCl处理的数据。
+
+NX剖面TOC含量为 $0 . 0 6 \% { \sim } 2 . 1 4 \%$ （平均值为$0 . 6 6 \%$ )，剖面表层与底部物质的有机碳含量差异较大。样品NX1-8接近基岩，颗粒大，有机碳含量最低，表层（ $_ { ( 0 \sim 1 5 \mathrm { c m } }$ )受到植被影响，有机碳含量大。
+
+# 3讨论
+
+# 3.1青海湖北部NX剖面物源分析
+
+沉积物发育的土壤序列成分取决于物质来源的组成成分和风化程度。土壤中稳定元素在风化、搬运、沉积过程中能保留母岩的特征，可用于研究沉积物的物质来源[2]。在化学风化过程中，由于K常吸附在粘土矿物中不易发生淋溶， $\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 比值受粒度影响较小[22]。而Ti、Al的溶解度小，在化学分化过程中淋溶作用较弱， $\mathrm { T i O _ { 2 } / A l _ { 2 } O _ { 3 } }$ 比值可以反映风成沉积的物质贡献，可作为判别物源变化的指标[23-24]。 $\mathrm { { Z r } , \mathrm { { N b } } }$ 是赋存于碎屑岩中的稳定元素,迁移率低，可指示母岩的特征，由于其稳定性特征常用来指示物源[25-26]
+
+基于 $\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 和 $\mathrm { Z r / N b }$ 比值 $\mathrm { \cdot T i O _ { 2 } / A l _ { 2 } O _ { 3 } }$ 和 $\mathrm { Z r / N b }$ 比值的图解显示：NX剖面的母岩和残积母质与上部土壤明显不同，表明残积母质土壤剖面上部35cm以上土壤与残积母质和下覆母岩的物质来源不同。通过与青海湖地区的近源沉积物(河流沉积和湖相沉积[o])对比(图4)，NX剖面具有相对较高的$\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 比值和 $\mathrm { T i O } _ { 2 } / \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 比值和较低的 $\mathrm { Z r / N b }$ 比值;NX剖面与青海湖地区黄土["]相比，上部土壤与青海湖地区黄土有相似的范围： $\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 比值在0.2\~0.3之间， $\mathrm { T i O } _ { 2 } / \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ 比值在 $0 . 0 5 \mathrm { \sim } 0 . 0 7$ 之间，说明上部 $3 5 ~ \mathrm { c m }$ 土壤母质主要是风尘加积形成。下部$3 5 { \mathord { \sim } } 4 0 ~ \mathrm { c m }$ 风化碎屑物的 $\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ 比值和 $\mathrm { Z r / N b }$ 比值、 $\mathrm { T i O _ { 2 } / A l _ { 2 } O _ { 3 } }$ 比值和 $\mathrm { Z r / N b }$ 比值接近下部花岗岩母岩，说明对母岩的化学风化作用主要发生在此段。
+
+# 3.2青海湖北部NX剖面土壤的发育程度
+
+土壤的化学风化程度是评价土壤发育程度的重要标准之一，CIA值作为衡量化学风化程度的重要指标，可表征土壤的发育程度。当CIA值介于50\~65之间，反映寒冷、干燥的气候条件下较低的化学风化程度[27]。NX剖面的CIA平均值为58.58,基本处于弱化学风化阶段，符合青藏高原东北部寒冷干燥的气候特征。Rb主要存在于云母、粘土矿物等难风化的矿物中， $\mathrm { S r }$ 主要存在于易风化的碳酸盐矿物中，在风化成壤过程中，Sr相对于Rb更容易流失[28-29]。因此Rb/Sr比值越大,风化和淋溶作用越强[20]。NX剖面的Rb/Sr比值在残积母质层以上变化较小(0.34\~0.55)，底部由于母岩地球化学性质的影响，与上部风尘物质的 $\mathrm { R b / S r }$ 比值差异较大。母岩的CIA为 $4 8 . 3 4 , \mathrm { R b / S r }$ 比值为4.22，代表了未风化状态的本底值，随着化学风化程度加强，CIA值增大。此外，由于上部风尘沉积物受淋溶和风化作用影响,Sr迁移至残积母质层[30],使得残积母质的Rb/Sr比值为0.69。残积母质以上的风尘沉积物质的CIA和Rb/Sr比值变化较小，呈现从下往上增大的趋势，表明土壤剖面上部的风化程度大于下部。在图5中，TOC和粉黏比呈相反趋势，表层 $( 0 { \sim } 1 5 ~ \mathrm { c m } )$ 的TOC含量较高，受到植被和人类活动的改造作用，碳输入量增加，对土壤的改造作用强。而表层的粉黏比最小，底部最大，说明表层土壤在植物根系的改造作用下颗粒变细，土壤的发育程度高于底部土壤。
+
+![](images/40f8fe8698ca4b8f28c26adaa2f27a3cd4618ddb44e0bdaccefa5b0511105417.jpg)  
+注：青海湖地区河湖相沉积和黄土数据引自文献[10],图中虚线圆圈表示范围集中的数据。图4青海湖地区样品的 $\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 }  – \mathrm { Z r / N b } \setminus \mathrm { T i O _ { 2 } / A l _ { 2 } O _ { 3 } – Z r / N b } }$ 比值Fig.4 ${ \mathrm { K } } _ { 2 } { \mathrm { O } } / { \mathrm { A l } } _ { 2 } { \mathrm { O } } _ { 3 }$ VS. $Z \mathrm { r / N b }$ $\mathrm { T i O } _ { 2 } / \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ VS. $\mathrm { Z r / N b }$ ratios of samples in QinghaiLake area
+
+# 3.3成土母质发育时代及气候背景
+
+前人对青海湖流域的风成砂、黄土、青海湖钻孔以及湖面变化等古环境记录体的研究，为该区气候演变提供了大量的证据，从而为了解流域内土壤发育的气候背景提供支撑[6.31-33]。这些古环境记录表明早全新世是青海湖流域气候干暖，风沙活动强烈的时期。
+
+NX剖面底部残积母质发育的年代应不早于$1 0 . 0 2 { \scriptstyle \pm 0 . 7 9 ~ \mathrm { k a } }$ ，更早的末次盛冰期由于气候过于寒冷，化学风化非常微弱，末次冰消期 $1 6 . 0 { \sim } 1 1 . 5 \mathrm { k a }$ 期间气候虽然略微转好，但在已发表的风成沉积记录中古土壤发育在此时期的记录较少[6.34],因此NX残积母质发育的年代应在早全新世期间。这说明尽管早全新世整体风沙活动强烈,但气候较为温暖[29,3,35-36]，在适当的降水条件下，其化学风化作用也较强，裸露的花岗岩可能在地衣苔藓等先锋植物和气候作用下发生化学风化过程[37-38]并形成薄层的残积母质；后期随着残积母质上的植被演替，草本植被迁入，风尘物质被快速捕获和堆积，此时气候与植被直接作用于风尘母质，青藏高原干冷的气候和低矮的草本植被对下覆母岩的风化作用显著减弱甚至停滞。考虑青藏高原整体的气候以冷干为主，变化并不显著，此种早期残积母质发育与后期风尘母质加积的混合母质发育过程在整个全新世和现代时段都应在进行，但需更多剖面进行验证。
+
+$3 5 ~ \mathrm { c m }$ 以上风尘母质的年代在 $9 . 7 1 { \sim } 8 . 6 7 \ \mathrm { k a }$ 之间，与前人在青藏高原东北部土壤剖面的风沙活动主要集中在末次冰消期和早全新世时期的结论相呼应[6.34.39]。这表明在早全新世干暖的气候背景下，青海湖湖面下降,湖滩裸露[31],为流域内风沙活动提供更多的风尘物质，为区域土壤的发育提供丰富的风尘母质。因此NX剖面风尘母质的发育时间集中在早全新世可能与该区丰富的风尘供应有关。NX剖面在 $2 0 ~ \mathrm { c m }$ 处 $8 . 6 7 { \pm } 0 . 6 2 \mathrm { ~ k a }$ 跳跃至 $1 0 \ \mathrm { c m }$ 处的
+
+图5年代、CIA、Rb/Sr、TOC、粉黏比随深度变化特征图  
+![](images/95afb8658e33e76705d6ecf067bb7752558b5e519368b62e1f36245efd05d802.jpg)  
+注：CIA为化学蚀变指数;TOC为土壤总有机碳。  
+Fig.5 Characteristic diagram of age, CIA,Rb/Sr,TOC and silt/clay ratio components with depth
+
+# 干吴区地理
+
+$0 . 4 1 { \pm } 0 . 0 4 \mathrm { ~ k a }$ ，出现 ${ \sim } 9 \mathrm { \ k a }$ 的沉积间断。该间断的形成一方面与气候干湿状况相关，据青海湖湖面记录,湖面在 $7 . 5 { \sim } 2 . 5 \ \mathrm { k a }$ 呈上升趋势[31],这指示了剖面在间断的 $9 \mathrm { { k a } }$ 中气候相对暖湿，限制了风尘物质的释放，风尘沉积速率较低[40]；另一方面，沉积间断也可能与剖面所处位置相关，由于地形风强盛，不利于风尘保存。前人基于高密度OSL方法揭示了青藏高原东北部风尘沉积物广泛存在沉积间断[263,41]。因此，本剖面的间断并非个例。
+
+# 4结论
+
+（1）NX土壤剖面在早全新世以来发育，其年代结果集中在 $1 0 . 0 2 { \sim } 8 . 6 7 \ \mathrm { k a }$ ,成土母质发育时间与流域内风沙活动时期基本一致，为干暖气候背景下的产物。
+
+(2）通过物源对比分析，NX剖面底部母质为母岩就地风化而成，上部为风尘加积发育，发育模式为混合母质风尘加积型。这种早期的残积母质发育与后期风尘母质加积的发育过程在整个全新世和现代时段都应在进行，但有待更多剖面的深入研究和分析。
+
+（3）NX剖面整体处于弱化学风化阶段，土壤发育程度较弱，符合青藏高原东北部寒冷干燥气候背景下较低的化学风化程度和土壤弱发育状况，
+
+# 参考文献(References)
+
+[1]黄昌勇,徐建民.土壤学[M].第三版.北京:中国农业出版社,   
+2010:8O-96.[Huang Changyong,Xu Jianmin. Soil science[M].3"d ed.Beijing: China Agriculture Press,201O: 80-96.] [2] 鄂崇毅,张晶,吴成永，等.青海湖流域草甸土光释光年代学研 究[J].土壤学报,2018,55(6):1325-1335.[E Chongyi, Zhang Jing, Wu Chengyong,et al. Study of chronology of the meadow soil in the Qinghai Lake Basin by means of optically stimulated luminescence[J]. Acta Pedologica Sinica,2018,55(6): 1325-1335.] [3]林永崇,冯金良,张继峰,等.藏北高原安多地区高山草甸土的 母质成因及其成土模式[J].山地学报,2012,30(6):709-720. [Lin Yongchong,Feng Jinliang,Zhang Jifeng,et al.Origin of parentmaterials and pedogensis of alpine meadow soils in Amdo, northern Tibetan Plateau[J].Journal of Mountain Science,2O12,30 (6): 709-720.] [4] FengJL,Hu H P,Chen F.An eolian deposit:Buried soil sequence in an alpine soil on the northern Tibetan Plateau: Implications for climate change and carbon sequestration[J]. Geoderma,   
+2016,266: 14-24.   
+[5]Zhang J,E C Y, Wu C Y,et al. An alpine meadow soil chronology based on OSL and radiocarbon dating, Qinghai Lake,northeastern Tibetan Plateau[J]. Quaternary International,2O2o,562: 35-45.   
+[6]E C Y,Zhang J, Chen Z Y,etal. High resolution OSL dating of aeolian activity at Qinghai Lake,northeast Tibetan Plateau[J]. Catena, 2019,183: 104180,doi: 10.1016/j.catena.2019.104180.   
+[7]丁之勇,鲁瑞洁,刘畅,等.环青海湖地区气候变化特征及其季 风环流因素[J].地球科学进展,2018,33(3):281-292.[Ding Zhiyong,Lu Ruijie,Liu Chang,et al. Temporal change characteristics of climatic and its relationships with atmospheric circulation patterns in Qinghai Lake Basin[J].Advances in Earth Science, 2018, 33(3): 281-292.]   
+[8]青海省农业资源区划办公室.青海土壤[M].北京:中国农业出 版社,1997: 55-262.[Office of Agricultural Resources and Regional Planning in Qinghai Province.The soil of Qinghai[M. Beijing: China Agriculture Press,1997: 55-262.]   
+[9]青海省地方志编纂委员会.青海省志:青海湖志[M].西宁:青海 人民出版社,1998:41-44.[Ditorial Board of Local Chronicles of Qinghai Province.Qinghai Province Local Chronicles: Qinghai Lake records[M]. Xining: Qinghai People’s Publishing House, 1998: 41-44.]   
+[10] 曾方明,薛红盼.青藏高原东北部晚第四纪黄土-古土壤的元 素组成及其物源指示[J].中国沙漠,2020,40(6):105-117. [Zeng Fangming, Xue Hongpan. Elemental compositions of the Late Quaternary loess paleosol on the northeastern Qinghai-Tibet Plateau and their implications for provenance[J]. Journal of Desert Research,2020,40(6): 105-117.]   
+[11]ECY,Sohbati R,Murray A S,et al.Hebei loess section in the Anyemaqen Mountains, northeast Tibetan Plateau: A high-resolution luminescence chronology[J]. Boreas,2018,47(4): 1170-1183.   
+[12] Murray A S, Wintle A G. Luminescence dating of quartz using an improved single-aliquot regenerative-dose protocol[J].Radiation Measurements,2000,32(1):57-73.   
+[13]Murray A S, Wintle AG.The single aliquot regenerative dose protocol: Potential for improvements in reliability[J].Radiation Mea surements,2003,37(4): 377-381.   
+[14]Guerin G,Mercier N,Nathan R,et al.On the use of the infinite matrix assumption and associated concepts: A critical review[J]. Radiation Measurements,2012, 47(9): 778-785.   
+[15] PrescottJR, Hutton JT. Cosmic ray contributions to dose rates for luminescence and ESR dating: Large depths and long-term time variations[J].Pergamon,1994,23(2-3): 497-500.   
+[16] 鹿化煜,安芷生.前处理方法对黄土沉积物粒度测量影响的实 验研究[J].科学通报,1997,42(23):2535-2538.[Lu Huayu,An Zhisheng.Experimental studyof pretreatment methodson the measurement of grain size distribution of loess sediment[J]. Chinese Science Bulletin,1997,42(23): 2535-2538.]   
+[17] 迟清华,鄢明才.应用地球化学元素丰度数据手册[M].北京：地 质出版社,2007: 99-109.Chi Qinghua,Yan Mingcai.Data manual of applied geochemical element abundance[M]. Beijing: Geological Press,2007: 99-109.]   
+[18] Nesbitt HW, Young G M. Early Proterozoic climates and plate motions inferred from major element chemistry of lutites[J]. Nature, 1982, 299(5885): 715-717.   
+[19]徐小涛,邵龙义.利用泥质岩化学蚀变指数分析物源区风化程 度时的限制因素[J].古地理学报,2018,20(3):515-522.[Xu Xiaotao,Shao Longyi.Limiting factors in utilization of chemical index f ateraofmudstoes tquantifythedegeeofweahering in provenane[J]Jualofaegraphy,18,20(3):22.   
+[20] 陈旸,陈骏,刘连文,等.近13万年来黄土高原Rb/Sr记录与夏 季风时空变迁[J].中国科学(D辑:地球科学),2003(6):513-519. [Chen Yang, Chen Jun,Liu Lianwen,et al.Rb/Sr records on the Loess Plateau and temporal and spatial changes of summer monsoon in recent 13000O years[J]. Science in China (Series D: Geoscience),2003(6): 513-519.]   
+[21] 王攀,宁凯,石迎春,等.吴起全新世土壤剖面常量元素地球化 学特征[J].土壤通报,2019,50(6):1261-1268.[Wang Pan,Ning Kai, Shi Yingchun,et al.Geochemical characteristics of major elements of Holocene soil from Wuqi,Shaanxi Province[J]. Chinese Journal of Soil Science,2019, 50(6): 1261-1268.]   
+[22]顾兆炎.中国北方风成堆积的风化作用和环境变迁U-Th、 $^ { 1 0 } \mathrm { { B e } }$ （204号 及元素地球化学的研究[D].北京:中国科学院地质与地球物理 研究所,1999.[Gu Zhaoyan.Weathering histories of Chinese dust deposits based on uranium and thorium series nuclides cosmogenic $^ { 1 0 } \mathrm { { B e } }$ ,and major elements[D]. Beijing: Institute of Geology and Geophysics, Chinese Academy of Sciences,1999.]   
+[23]郝青振.陇西盆地晚第三纪风尘沉积的地层学研究[D].北京: 中国科学院地质与地球物理研究所,2001.[Hao Qingzhen. Stratigraphical study on the Late Tertiary eolian deposit in western Loess Plateau,northern China[D].Beijing: Instituteof Geology and Geophysics, Chinese Academy of Sciences,2001.]   
+[24] 张虎才.元素表生地球化学特征及理论基础[M].兰州:兰州大 学出版社,1997: 2-11.[Zhang Hucai. Characteristics and theoretical basis of element supergenegeochemistryM].Lanzhou:Lanzhou University Press,1997: 2-11.]   
+[25]Hao Q Z,Guo Z T,Qiao Y S,et al. Geochemical evidence for the provenance of middle Pleistocene loess deposits in southern China [J]. Quaternary Science Reviews,2010,29(23): 3317-3326.   
+[26]Bhatia MR,Crok KA W.Trace elementcharacteristicsofgray wackes and tectonic setting discrimination of sedimentary basins [J]. Contributions to Mineralogy and Petrology,1986,92(2): 181-193.   
+[27] 冯连君,储雪蕾,张启锐,等.化学蚀变指数(CIA)及其在新元古 代碎屑岩中的应用[J].地学前缘,2003,10(4): 539-544.[Feng Lianjun, Chu Xuelei, Zhang Qirui,et al. CIA (Chemical index of alteration) and its application in the neoproterozoic clastic rocks [J].Earth Science Frontiers,2003,10(4): 539-544.]   
+[28] 余平辉,马锦龙,廖建波,等.柴达木盆地昆北地区路乐河组/下 干柴沟组泥岩地层地球化学特征及古环境意义[J].干旱区地 理,2020,43(3): 679-686.[Yu Pinghui,Ma Jinlong,Liao Jianbo, et al.Geochemistry and paleoenvironment significance of Lulehe Formation/Xiaganchaigou Formation located in the north area of Qaidam Basin[J].Arid Land Geography,2020,43(3): 679-66.] [29] 范小露,张新毅,田明中.巴丹吉林沙漠东南缘末次冰期沉积物 地球化学特征及气候指示意义[J].干旱区地理,2021,44(2):   
+409-417.[Fan Xiaolu,Zhang Xinyi, Tian Mingzhong.Geochemical characteristics and paleoclimatic significance of the last glacial sediments in the southeastern margin of Badain Jaran Desert [J]. Arid Land Geography,2021,44(2): 409-417.] [30] Chen J,An Z S,Wang YJ,et al. Distribution of Rb and Sr in the Luochuan loess-paleosol sequence of China during the last 800 ka [J].Science in China Series D: Earth Sciences,1999,42(3): 225-   
+232. [31] 张彭熹,张保珍,钱桂敏,等.青海湖全新世以来古环境参数的 研究[J].第四纪研究,1994,14(3):225-238.[Zhang Pengxi, Zhang Baozhen,QianGuimin,etal.Thestudyof paleoclimateparameter of Qinghai Lake since Holocene[J]. Quaternary Sciences,   
+1994, 14(3): 225-238. ] [32]Liu X J, Lai Z P, Madsen D,et al. Last deglacial and Holocene lake level variations of Qinghai Lake,north-eastern Qinghai-Tibetan Plateau[J].JoualfQuatearySnce,5,30(3)4 [33] 陈克造,BowlerJM,Kelts K.四万年来青藏高原的气候变迁[J]. 第四纪研究,1990,10(1): 21-31.[Chen Kezao,Bowler JM, Kelts K.Palaeoclimati evolution within the Qinghai-Xizang (Tibet)plateau in the last 40000 years[J]. Quaternary Sciences,1990,10(1):   
+21-31.] [34]Liu XJ,Lai ZP, Yu L P,etal. Luminescence chronology of aeolian deposits from the Qinghai Lake area in the northeastern Qinghai- Tibetan Plateau and its palaeoenvironmental implications[J] Quaternary Geochronology,2012(10): 37-43. [35] Hou JZ, Huang Y S, Zhao JT,et al. Large Holocene summer temperature oscillations and impact on the peopling of the northeast ern Tibetan Plateau[J]. Geophysical Research Lettrs,2016,43 (3): 1323-1330. [36] Chen F H, Zhang JF,Liu JB,et al. Climate change,vegetation history,and landscape responses on the Tibetan Plateau during the Holocene: A comprehensivereview[J]. Quaternary Science Reviews,2020,243: 106444,doi: 10.1016/j.quascirev.2020.106444. [37] 朱显谟.论原始土壤的成土过程[J].水土保持研究,1995,2(4):   
+83-89.[Zhu Xianmo. On the soil forming process of primitive soil [J].Research of Soil and Water Conservation,1995,2(4): 83-89.] [38] Chen J, Blume HP.Rock-weathering by lichens in Antarctic: Patterns and mechanisms[J]. Journal of Geographical Sciences,2002,   
+12(4): 387-396. [39] 闫文亭,鄂崇毅,姜莹莹,等.基于光释光测年的共和盆地风沙 活动历史研究[J].盐湖研究,2019,27(1):28-38.[Yan Wenting, E Chongyi, Jiang Yingying,et al. Study on the history of eolian sand activities in Gonghe Basin based on OSL dating[J]. Journal of
+
+# 干旱区地理
+
+[41] 张晶,鄂崇毅,赵亚娟.青海湖黑马河黄土的高密度光释光测年 [J].地球环境学报,2018,9(6): 557-568.[Zhang Jing,E Chongyi, Zhao Yajuan.A high density optically stimulated luminescence (OSL)dating at Heima He loess section in Qinghai Lake area[J]. Journary of Earth Environment, 2018,9(6): 557-568.]
+
+# Pedogenesis process of residual parent material soil in the northeast Tibetan Plateau : Taking profile Ningxia in the north of Qinghai Lake as an example
+
+XIE Liqian $^ { 1 , 2 }$ ，E Chongyi123，ZHAO Xia¹23，LI Ping12， ZHANG Jing¹2,SUN Manping12， Xianbaji'2
+
+(1.Key Laboratoryof TibetanPlateau Land Surface Processes and Ecological Conservation (Ministryof Education),   
+Qinghai Normal University,Xining8ooo1,Qinghai,China;2.QinghaiProvinceKeyLaboratoryofPhysical Geographyand EnvironmentalProcess,ColegeofGeographical Science,Qinghai NormalUniversity,Xining81Oo08,Qinghai,China;   
+3.AcademyofPlateau ScienceandSustainability,People'sGovernmentof Qinghai ProvinceandBeijingNormalUniversity Xining 810008,Qinghai, China）
+
+Abstract: Residual parent materials are important in the Qinghai Lake area.However,research on the soil of plateau residual parent materials and age data are lacking at present,limiting the understanding of the evolution process of soils.Meanwhile,the study of residual parent soils (as important records of climate change）wil strengthen the understanding of regional climate environment evolution.In this paper,aresidual parent material profile was developed using optically stimulated luminescence (OSL)，and the soil development degree was studied using the chemical index of alteration, $\mathrm { R b / S r }$ ratio,total organic carbon,and silt/clay ratio.The fluvial and lacustrine sediments and aeolian loess in the Qinghai Lake area were compared to analyze their sources using the ratios of $Z \mathrm { r / N b }$ ， $\mathrm { K _ { 2 } O / A l _ { 2 } O _ { 3 } }$ ,and $\mathrm { T i O } _ { 2 } / \mathrm { A l } _ { 2 } \mathrm { O } _ { 3 }$ . The results show the following:(1) OSL dating results show that the soil in the profile NX has developed since theearly Holocene.The age of the parent material at the bottom is $1 0 . 0 2 { \pm } 0 . 7 9 \mathrm { k a }$ ，whereas the upper soil is concentrated at $9 . 7 1 - 8 . 6 7 \mathrm { k a }$ .The development time of the soil parent material is basically consistent with the wind sand activity period in the Qinghai Lake Basin.The parent material of the profile NX is the product of dry and cold climates. (2) Through a comparative analysis of provenance, the parent material at the botomofthe profile NX is frmed by the in situ weathering of parent rock,whereas the upper part is developed by aeolian dust aggradation. The pedogenesis pattrn is a mixed type of residual parent material and aeolian dust deposition.(3） The whole profile is in a weak chemical stage and a weak soil development degree,coinciding with the low chemical weathering degree and weak soil development under the background of cold and dry climates in the northeastern part of Qinghai Tibet Plateau.
+
+Key words: residual parent material; elemental geochemistry; pedogenesis process the north of Qinghai Lake

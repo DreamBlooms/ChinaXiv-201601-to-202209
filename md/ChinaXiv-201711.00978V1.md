@@ -1,0 +1,187 @@
+# 盾构空推穿越提前暗挖段对既有隧道的影响分析
+
+李志华陶冶²钟长记²
+
+（1.上海天佑工程咨询有限公司，上海200092；2.华中科技大学土木学院工程管理研究所，武汉430074）
+
+【摘要】为解决武汉地铁六号线某区间隧道下穿2号线既有车站的问题，对下穿2号线区段采用提前暗挖施工的方法。本文介绍了施工过程中盾构穿越提前暗挖段所存在的一系列问题对应的解决方案，并通过分析施工过程中2号线的轨面沉降和既有车站建筑物沉降情况进行分析采用盾构空推对既有隧道的影响程度。本文以武汉轨道交通六号线某地铁隧道为依托，系统地分析了提前采用暗挖法穿越既有隧道，之后采用盾构空推。在此基础上，从既有轨道的轨面沉降和车站建筑物累积沉降两方面探讨了盾构空推穿越暗挖段的效果。本工程还采用专门的降水及加固方案减小施工过程中对既有线路运营带来的影响，同时为类似工程提供有益参考。
+
+【关键词】盾构施工；暗挖法；盾构空推
+
+【中图分类号】U455.43 【文献标识码】A 【文章编号】1674-7461（2016)01-0108-06  
+【DOI】10.16670/j.cnki.cn11-5823/tu.2016.01.20
+
+# 引言
+
+地铁盾构法施工由于其对周围环境影响小、施工速度快、「程质量优良、施工安全环保、适用范围广等优势，在城市地铁隧道中正扮演者越来越重要的角色。但随着地铁线路的增加，不同线路之间必然会出现线路交叉的问题，在修建新的地铁线路的同时又不影响既有线路的运营这一问题逐渐凸显。
+
+武汉市轨道交通6号线某区间下穿2号线既有站点，为了不影响2号线的正常运营，采用提前暗挖然后盾构空推的施工方案。受隧道空间和设备的限制，空推段掘进相对土层掘进工艺更复杂，成型隧道质量更难控制[24]。本文将从盾构过空推段遇到的主要风险提出针对性的技术措施，用于指导采用类似工法的盾构施工。
+
+# 1工程概况
+
+武汉市轨道交通6号线某区间隧道右线长$7 9 2 . 1 \mathrm { m }$ 、左线长 $7 8 1 . 6 \mathrm { m }$ ，采用盾构法施工，区间右线由大里程段向小里程段方向掘进，左线由小里程段向大里程段方向掘进。现场平面图如图1所示。
+
+![](images/a3c954849904b5484f80ee127157c27c8f1197247eac144d5a3b8c44c4606cb7.jpg)  
+图1武汉地铁6号线某区间平面图
+
+该区间下穿2号线，为了不影响2号线的正常运营，下穿2号线的区段已提前暗挖施工，以截除影响区间隧道盾构穿越的6根抗拔桩。暗挖预埋段右线长 $5 7 . 5 5 \mathrm { m }$ ；左线长 $7 1 \mathrm { m }$ 。隧道拱顶埋深 $1 8 \mathbf { m }$ ，隧道顶距2号线车站底板为 $6 . 5 \mathrm { m }$ 。
+
+预埋段隧道前期只施作了初支和二衬，未施做防水，盾构机空推拼装管片通过。预埋段小里程端横通道净宽3米，暗挖隧道内径 $6 5 8 0 \mathrm { m m }$ ，初支采用$3 5 0 \mathrm { m m }$ 厚钢筋格栅砼，二次衬砌采用 $3 0 0 \mathrm { { m m } }$ 厚C30钢筋砼，大里程预埋段端头为上口宽 $3 \mathbf { m }$ 下口宽$9 . 5 8 \mathrm { m }$ 的正梯形C20素混凝土墙。盾构机外壳直径为 $6 4 6 0 \mathrm { m }$ ，盾体与暗挖二衬间留有 $6 0 \mathrm { m m }$ 缝隙以便盾构机空推通过。
+
+盾构机空推穿越前，需先完成预埋段两端头土体的旋喷加固，并破除小里程端横通道的初支和二衬以及大里程端的素混凝土封堵墙，破除前需进行端头降水施工。该预埋段隧道左线两端头采用$\Phi 8 0 0 @ 5 0 0 \mathrm { m m }$ 三重管高压旋喷桩进行地面垂直加固；右线两端由于无法提供地面施工条件，采用洞内水平注浆加固。
+
+盾构穿过预埋段的整个施工过程中，需对已运营的2号线轨面进行监测，以确保2号线的运营安全。某与2号线既有车站的位置关系图见图2、图3。
+
+![](images/e4b146f267c81e73117d2fe1bf5184180a28a7055f943f402768dd4375c6e9bf.jpg)  
+图2预埋暗挖隧道与2号线既有车站平面示意图
+
+本区间所处地形起伏不大，地面标高 $2 0 . 5 0 \mathrm { m }$ 左右。本工程所处地层和岩性如表1所示，自上而下为：填土层及第四系填土层、Ⅱ级阶地堆积平原区、下伏基岩。预暗挖段隧道穿越地层主要为10-2粉质粘土、11粘土、11b粉质粘土。根据勘察资料显示，拟建场地主要发育上层滞水、孔隙承压水及基岩裂隙水三种类型地下水。预暗挖隧道穿越地层富含承压水。
+
+![](images/7c1de9be25edff230daa219938bf5848a019c5142096840d0eb83ee33990b035.jpg)  
+图3预埋暗挖隧道与2号线既有车站空间示意图
+
+# 2施工中的困难与解决方案
+
+本区间采用两台中铁装备生产的复合式土压平衡盾构机CET6400先后始发掘进。首先对预埋段内的积水进行抽排，然后对预埋暗挖断大小里程端头进行加固，盾构到达预埋段前，进行洞门凿除，之后洞门空推过与埋暗挖段，最后盾构进行二次始发，本区间穿越暗挖段具体施工流程如图4所示。
+
+# 2.1施工过程中的技术难点
+
+本工程盾构穿越预埋暗挖段时，存在以下施工  
+难点：(1)因既有路面情况，小里程端头无法进行地  
+面加固，只能进行洞内水平加固；(2)大小里程段洞门凿除时，容易发生桩间涌  
+水涌泥事故；(3）盾构始发姿态及推力控制；（4)盾构机在预埋段隧道内空推掘进时，由于
+
+表1工程地质分层特征表  
+
+<html><body><table><tr><td>地层 编号</td><td>地层 名称</td><td>层厚 （m）</td><td>层顶标高（m）</td><td>分布 情况</td><td>岩性特征</td></tr><tr><td>10-2</td><td>粉质粘土</td><td>1.10~9.30</td><td>0.45~14.16</td><td>局部分布</td><td>黄褐色，硬塑，饱和，含少量铁、锰质氧化物斑点</td></tr><tr><td>11</td><td>粘土</td><td>0.70~7.60</td><td>2.85~4.87</td><td>场区内大部分地段分布</td><td>灰褐色、灰黑色，硬塑，饱和，含铁、锰质结核</td></tr><tr><td>11b</td><td>粉质粘土</td><td>0.90~5.20</td><td>3.43~3.52</td><td>局部分布</td><td>灰褐色、灰黑色，可塑，饱和，含少量铁、锰质氧化物斑点</td></tr></table></body></html>
+
+# 万方数据
+
+![](images/04e4072be9b848b1c824de306920095764d6dde2257d0e398c4d47731c42d430.jpg)  
+图4盾构穿越暗挖段施工工艺流程图
+
+盾构机前方阻力很小，管片易错台、渗漏；
+
+(5)盾构机过空推段时易产生“掉头”等不利现象，线型控制困难。
+
+# 2.2 预埋段区间端头加固
+
+(1)右线端头水平加固
+
+本区间预埋段区间右线位于路面正下方，两端头无地面施工条件，因此采用 $\Phi 8 0 0 @ 6 0 0 \mathrm { m m }$ 三重管高压旋喷桩进行洞内水平加固。高喷加固盲区采用水平注浆补充加固，施工孔位布置为：沿隧道边缘一圈环向布置，间距 $5 0 0 \mathrm { m m }$ 设置，共38个孔，孔位布置图见图4，保证隧道结构外 $3 \mathbf { m }$ 范围土体能被有效加固，小里程端加固长度为 $1 0 . 5 \mathrm { m }$ ，大里程端加固长度为 $9 \mathrm { m }$ 。
+
+(2）左线端头垂直加固
+
+![](images/7c24c7c56bc1c25e40f8933e3e2f9e761b0401c0d859e31a6ed958b8bea9e798.jpg)  
+图5水平加固孔位布置图
+
+左线两端头采用 $\Phi 8 0 0 @ 5 0 0 \mathrm { m m }$ 三重管高压旋喷桩进行地面垂直加固，第一排旋喷桩与端头围护结构搭接不小于 $3 0 0 \mathrm { { m m } }$ 。土体加固范围为隧道结构及结构四周边缘以外 $3 \mathrm { m }$ 范围，小里程端加固长度为 $1 0 . 5 \mathrm { m }$ ，大里程端加固长度为 $9 \mathrm { m }$ 。
+
+# 2.3洞门凿除施工
+
+洞门凿除施工顺序如下：
+
+小里程端：破除初支表面砼 $$ 割除初支钢筋格栅 $$ 破除初支剩余砼 $$ 破除二衬表面砼 $$ 割除二衬钢筋网 $$ 破除二衬剩余砼 $$ 清理废碴。
+
+大里程端头：破除素混凝土墙 $$ 清理废碴。
+
+洞门采用人工风镐凿除，将洞门划分为9部分，凿除时按编号顺序先下后上、先两侧后中间（先短桩后长桩)进行作业，利于突发状况下的人员疏散，凿除前采用钢管脚手架搭设工作平台。洞门凿除顺序见图6。
+
+![](images/294622199373464fdb1315734eab4f7ae7b131afaef75ea28ea1abb9d1421a76.jpg)  
+图6洞门凿除顺序示意图
+
+# 2.4盾构空推过预埋段隧道施工
+
+# 2.4.1 盾构进隧道前的准备
+
+1)导台施工
+
+导台厚度 $6 0 \mathrm { m m }$ ，采用钢筋混凝土现浇，导台弦长 $3 2 3 0 \mathrm { m m }$ ，导台详见图7。
+
+# 2)盾构掘进机姿态控制
+
+在盾构机到达预埋段隧道前的 $1 0 0 \mathrm { m } \mathrm { , } 5 0 \mathrm { m }$ 时应分别人工复测盾构机姿态，及时纠正偏差，确保盾构机顺利进入接收段。盾构机进人预埋段隧道前的 $2 5 \mathrm { m }$ 作为盾构机到达段，根据地质条件采用开模式掘进。盾构机进入到达段时，逐步减小推力、降低推进速度，并加强出土量的监控频次。刀盘转速为 $1 . 6 5 \sim 1 . 8 5 \mathrm { r / \min }$ ，盾构机推进总推力小于800t,推进速度不大于 $2 5 \mathrm { { m m } / \mathrm { { m i n } } }$ 。盾构机进入预埋段隧道前的最后3环采掘进速度控制在 $1 5 \mathrm { { m m } / \mathrm { { m i n } } }$ 以内，总推力减少为600t以内，采用小推力、低速度进入预埋段隧道。
+
+![](images/73717793d867336a4b23236377bb437e86503a1f07c392eb58a98729a3cd0c2e.jpg)  
+图7导台断面图
+
+# 2.4.2 预埋段隧道内的空推
+
+根据刀盘与导向平台之间的关系，调整各组推进油缸的行程，使盾构姿态沿设计线路方向推进。前期施工时推进速度一般控制在 $1 5 \sim 4 0 \mathrm { m m / m i n }$ 之间，工艺熟练后推进速度可达到 $6 0 \sim 8 5 \mathrm { { m m } / \mathrm { { m i n } } }$ ，下部油缸压力略大于上部油缸压力。同时派专人在盾构机前方检查、监测盾构机推进情况
+
+豆砾石填充采用湿喷机在刀盘前面喷射，湿喷机喷射速率应达到每小时 $6 \sim 9 \mathrm { { m } } ^ { 3 }$ 。喷射豆砾石时，每隔 $4 . 5 \mathrm { m }$ 在盾构机的切口四周用袋装砂石料围成一个围堰，围堰范围不小于 $2 : 0 0 \sim 1 0 : 0 0$ 的时钟位置，以防管片背后的豆砾石、砂浆前窜。从刀盘前方向盾构后方吹入粒径 $5 \sim 1 0 \mathrm { m m }$ 的豆砾石骨料，喷射压力为 $0 . 2 5 \sim 0 . 3  { \mathrm { M P a } }$ 。喷射豆砾石过程中，非操作人员不得进人工作面，以免飞石伤人。
+
+同步注浆采用水泥砂浆。浆液初凝时间为 $8 \mathrm { h }$ 0终凝时间为10.5h，施工时根据盾构机推进过程中桨液的流动情况，适当调整浆液胶凝时间。同步注桨时盾壳外围是敞开的，压力变化不大，不以压力作为注浆结束的控制标准。当注浆量达到理论注浆量的 $8 0 \%$ 以上时，即可结束注浆。在盾构机管片安装10环后，每间隔 $6 \mathrm { m }$ （4环管片）在管片注浆孔
+
+处开口检查注浆效果。
+
+根据管片间渗漏水情况，采用二次注浆泵进行注浆堵水。浆液采用水泥－水玻璃双夜浆。浆液配比水泥：水玻璃为1：1，注浆压力为 $0 . 2 \sim 0 . 3 \mathrm { M P a }$ ,注浆流量不大于 $1 0 \mathrm { { L / m i n } }$ 。注浆结束标准采用注浆压力单指标控制。
+
+# 3施工监测数据分析
+
+为了确保地铁2号线的运营安全，在盾构过预埋段工程的整个施工过程中，采用静力水准仪对轨面进行自动化实时监测。
+
+# 3.1 监测方案
+
+监测的目的在于掌握施工过程中各种可能出现的风险，及时分析、处理监测所反馈的信息，并根据监测信息指导施工，调整顶进参数，确保周边环境的安全，保证整个工程安全顺利地进行。盾构穿越暗挖段期间的监测项目理论上主要为地表沉降、建筑物沉降与倾斜，共计2个监测项目，监测点布置如图8所示。
+
+![](images/73b2d7f8893cf106cad2629466eeac40747af194efc8cfbe9d84628d4f538d14.jpg)  
+图82号线轨面部分监测点平面布置图
+
+盾构正在掘进过程中，应实时观测轨面沉降变化情况，当量测结果出现反常或危险信息时，应立即采取紧急处理措施，必要时停止施工，做好相关的防范工作，避免出现意外。
+
+# 3.22号线既有车站轨面沉降影响分析
+
+主要取盾构空推暗挖段前到推完后轨面监测点GMC01\~GMC3中0的监测数据来说明其监测数据的变化情况，并进行统计分析，具体取2015年4月2号到2015年5月16日这一时间段的监测数据来进行分析。累计沉降变化情况时序曲线如图9所示。
+
+![](images/16e719385148a6059f995916bc0ab3f9b7130d0583d32dad8b5f5a08674fa169.jpg)  
+图9第三监测2号线轨面累计沉降时序曲线图
+
+此时间段的监测频率大致为1次/3天，通过数据反映的情况，盾构空推前后对2号线轨面沉降影响较小，最大累计值为 $0 . 9 \mathrm { m m }$ 。
+
+# 3.32号线既有车站建筑物沉降影响分析
+
+再取2号线既有车站建筑物来进行沉降分析。仍然选取2015年4月2号到2015年5月16日这一时间段的数据来进行分析。相应的各个监测点累计沉降变化情况如图10所示。
+
+![](images/3334b714ee41a2e74c70f7e463c3de8ade26cb6aea0b91dd9dcfaf1401f013b5.jpg)  
+图102号线既有车站建筑物累计沉降时序曲线图
+
+此时间段的监测频率大致为1次/3天，通过数据反映的情况，盾构空推前后对2号线轨面沉降影响较小，最大累计值为 $- 2 . 9 \mathrm { m m }$ 。此建筑物累计沉降量远远没有超过预警值，其安全状态良好[57]。根据对2号线轨面和既有车站建筑物沉降进行分析发现盾构空推预埋暗挖段时，对暗挖段上方2号线运营轨道和车站建筑物影响较小。
+
+# 4结论
+
+结合武汉市轨道交通6线一期工程某区间下穿2号线既有车站预埋暗挖段情况，对盾构穿越既有轨道线施工技术进行综合的风险控制分析，有利于施工的正常有序进行，同时还可以为将来类似的工程提供施工经验，具有重要的指导意义，通过分析得出以下几点结论：
+
+(1)在施工过程中，对施工的周边环境进行有效的保护，对施工技术方面采取符合实际水文地质概况的应对措施，这样可以对施工风险起到一个良好的控制作用；(2)对沉降控制要求比较严格的建构筑物，应采取监测精度小，能连续进行观测的仪器，监测数据的连续观测对其施工过程将要出现的风险进行一个很好的反馈，并能让现场施工人员能及时采取处理措施，可以有效的避免险情的发生；(3)盾构穿越既有轨道线时，提前施作暗挖预埋段相对进行地基加固方案，在盾构穿越时对地层扰动较小，对既有线的影响也较小，能保证既有线运营安全；(4)盾构穿越暗挖预埋段时，因为存在洞内接收和始发情况，相对风险较高，因而端头加固质量，加固方式应严格考虑，降水方案选择也应考虑对既有轨道线路的影响。
+
+# 参考文献
+
+[1］周诚.地铁盾构施工地表变形时空演化规律与预警研究[D].华中科技大学，2011.  
+[2］邓彬，顾小芳.盾构过空推段施工关键技术研究[J].现代隧道技术，2012（2）：54-64.  
+[3］王乃龙.盾构空推过矿山法隧道施工浅析[J].中国科技信息，2013（12）：61-71.  
+[4］周文波.盾构法隧道施工技术及应用[M].中国建筑工业出版社，2004.  
+[5］张恒，陈寿根，邓稀肥.盾构掘进参数对地表沉降的影响分析[J].现代隧道技术.2010(05）.  
+[6］罗石宝.盾构空推过暗挖法隧道施工工法[J].山西建筑，2012，38（9）：204-206.  
+[7］刘盈华，张春强.盾构过矿山法空推施工工艺[J].科技信息，2013，5：320.
+
+# Influence of Empty Shield Tunneling Segment Pushed Ahead through on the Existing Tunnel
+
+Li Zhihua',Tao $\mathrm { Y e } ^ { 2 }$ ,Zhong Changji
+
+(1.Shanghai Tianyou Engineering Consulting Co.,Ltd.,Shanghai2Ooo92,China； 2.SchoolofCivilEngineering&MechanicsHuazhong UniversityofScience&Technology,Wuhan43074,China)
+
+Abstract:Wuhan Metro Line6 has to go under an existing station of the $2 ^ { \mathsf { n d } }$ lineby themethod of inadvance tunnelingconstruction.Thisarticledescribestheconstructionprocessinadvanceofshield tunnelingsegment throughaseriesofproblems existing inthecorresponding solutions,andanalyzesthetracksurfaceduringconstruction on the $2 ^ { \mathsf { n d } }$ line of settlement and the existing station building subsidence case of using shield empty push impact ontheexisting tunnel.Basedon Wuhanmetro Line6tunnel,thisarticlecariesoutasystematicanalysisontheearlyapplicationoftheexistingtunnelexcavationmethodandtheshieldpushwithno-load.Onthisbasis,thearticle dissussestheshield tunnelingsegmentresultsfromtherailsurfacesetflementoftheexistingtrackand station buildingcumulativesetlement.Theprojectalsousesaspecial precipitationand strengthening programs toreduce theimpactof theconstruction process ontheexisting line operatorand provides auseful reference for similar engineering.
+
+KeyWords:Shield Tunneling；UndercuttingMethod；Push Forward with No-load
+
+# Application of Viaduct Pile Foundation Underpinning in Metro Construction
+
+Li Wen’，Jiang Shuangnan²，Zuo Min²,Zhou Ying²
+
+(1.Wuhan Auto-city Tram Transportation Co.,Ltd.，Wuhan 430074,China； 2.SchoolofCivilEngineering&Mechanics,Huazhong UniversityofScience&Technology,Wuhan43O074,China)
+
+Abstract:Railwayconstruction has beendevelopedrapidly.Butduring theconstructionofanew subway,the tunelwillinevitablypassthroughthefoundationofbuildings.Howtocontroltheriskofunderpinning construction and protect existing buildings becomes an inevitablechallnge.Thepaper focuses on themanagementand technologyused in ViaductPilefoundationunderpinning,elaborates thedesign,construction technologyandsafetymonito ringwork.Theprovided valuableexperienceof bridge pile foundation underpinning construction incomplex environmentsand geological conditions is helpful to security risk management.
+
+KeyWords:Foundation Underpinning；Existing Bridges；Construction Technology；Data Monitoring；Construction Design
+
+万方数据

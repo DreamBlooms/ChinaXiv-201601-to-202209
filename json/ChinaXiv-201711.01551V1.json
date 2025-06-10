@@ -1,0 +1,217 @@
+[
+    {
+        "type": "text",
+        "text": "氨基酸缺乏诱导细胞自噬的哺乳动物雷帕霉素靶蛋白复合体C1信号机制研究进展！",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "柏 雪1,2 王建萍1,3 丁雪梅1,3 白世平1,3 曾秋凤1.3 张克英1,3\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.四川农业大学动物营养研究所，成都611130；2.西南民族大学生命科学与技术学院，成都610000；3.教育部动物抗病营养研究重点实验室，成都611130)摘要：自噬是机体维持自身稳态的一种重要生理活动，当体内氨基酸或葡萄糖等营养缺乏时，细胞会启动自噬。自噬受到多种信号通路的调节，哺乳动物雷帕霉素靶蛋白复合体C1（mTORC1）信号通路是其中重要的一条，它可以使自噬相关基因13（Atg13）磷酸化，抑制自噬起始。本文将围绕近年来报道的氨基酸缺乏诱导细胞自噬的mTORC1信号通路，包括小G蛋白、腺苷酸活化蛋白激酶（AMPK）、微小RNA(miRNA)、氨基酰-tRNA合成酶在其中的作用等研究进展进行综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：氨基酸；自噬；mTORC1；机制中图分类号：S811.3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "新生哺乳动物在出生后的几个小时，突然失去了来自母亲的食物供应，为了生存机体会启动一系列代谢反应以抵御饥饿，这其中涉及到一种重要的生理行为被称为自噬(autophagy)。自噬是细胞中蛋白质降解的重要途径之一，当氨基酸代谢库中氨基酸含量发生变化时，自噬活动会随之受到影响[1l。如仔猪早期断奶后1\\~2d，血浆中必需氨基酸浓度降低，机体自噬程度明显升高[2]。目前研究认为雷帕霉素靶蛋白（TOR）是细胞感知氨基酸信号的重要通路[3]。本文将综述氨基酸缺乏时诱导细胞发生自噬的哺乳动物雷帕霉素靶蛋白复合体C1（mTORC1）信号通路机制，为研究营养素感应信号通路提供思路，也为仔猪早期断奶应激的调控提供新的研究方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1自噬概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "自噬是一种依赖溶酶体降解细胞内大分子物质和细胞器的生理过程[1]，在防御、维持稳态、延长寿命、抗癌等生理活动方面有重要意义[4]。自噬可以通过自噬体包裹受伤、衰老的细胞器或次等重要的、不再需要的其他生物大分子（如长寿蛋白)，利用溶酶体将其降解以维持稳态，同时降解产物如氨基酸、核苷酸等，可以重新为生命活动合成大分子提供原料与能量，实现循环利用[1,4-6]。自噬分为3种类型：大自噬（macroautophagy）、微自噬和分子伴侣介导的自噬。目前研究最多的是大自噬，因此也常将大自噬称为自噬。大自噬是生物体最普遍存在的一种自噬类型，一般认为其不具有特异性，但对一些特殊细胞器如线粒体和过氧化物酶体，大自噬似乎优先选择进行包裹融合。自噬的产生是一个复杂的过程，一般分为以下几个阶段：1）自噬诱导(autophagy induction)，细胞接受自噬诱导信号；2）孤膜产生(isolation membrane)，内质网在胞浆形成一个2层的脂质双层膜；3）自噬小泡生长(vesicle elongation)，双层膜结构不断扩张形成碗状，称为吞噬泡（phagophore)；4）自噬体形成(autophagosome)，吞噬泡不断延伸，将胞浆中待降解的成分包裹起来，成为密闭的球状自噬体；5）自噬溶酶体融合(autolysosome)，自噬体内膜被溶酶体酶降解，二者合为一体，溶酶体内的酶将自噬体包裹的内容物降解，降解产物（如氨基酸）供细胞重新利用[6]。研究发现已有 35 种自噬相关基因（autophagy-related genes，Atg）及其编码的蛋白质参与自噬体的形成，主要有：Atg1/ULK1、Atg3、Atg4、Atg5、Atg6/Beclin1、Atg7、Atg8/轻链 3(light chain 3，LC3)、Atg10、Atgl2、Atg13 与 $\\mathbf { A t g } 1 6 ^ { [ 7 ] }$ 。目前，人们可直接通过电镜观察自噬体的形态，这也是自噬检测的\"金标\"；也可间接检测自噬相关因子的表达，如自噬体表面蛋白标记物LC3-I、LC3-ⅡI等。研究时还可以通过转基因转入或沉默自噬相关基因间接检测自噬发生水平。例如 Tian 等[5]将绿色荧光蛋白(GFP)-LC3基因转入小鼠，利用体内成像技术检测试验性脑卒中后缺血脑组织区域内GFP的荧光强度，试验结果与蛋白质免疫印迹(Western blot,WB)及荧光免疫组化的结果一致。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "自噬与动物和人类的多种生理活动密切相关，并且在癌症启动和发展中起着关键作用。自噬是有利还是有害关键在于自噬体与溶酶体融合程度。Gottlieb等[7]研究认为，当自噬体与溶酶体融合发生障碍时，自噬会对细胞造成负面影响。如果自噬体内容物不能被溶酶体降解，细胞质膜与自噬体将融合并以外泌体的形式被排挤出胞外，同时基质金属蛋白酶大量释放，溶酶体酶灾难性地外漏，引起炎性物质大量分泌和细胞死亡。另外，细胞会因过度自噬而发生Ⅱ型程序性死亡，从而引起一系列问题。自噬是调节机体物质代谢的主要方式之一，因此它的发生应该受到严格的调节和控制，但自噬的信号转导及其对细胞生存的影响尚未研究透彻。目前的研究表明依赖哺乳动物雷帕霉素靶蛋白（mTOR）途径的磷脂酰肌醇3-激酶(PI3K)-蛋白激酶B（AKT）-mTOR 和腺苷酸活化蛋白激酶（AMPK）-结节性硬化蛋白1/2(TSC1/2)-mTOR 信号通路是调控自噬的重要信号通路[3.9-10]。在酵母中mTORC1可以使自噬因子Atg13磷酸化，打破Atg1-Atg13-Atg17形成的复合体，从起始阶段抑制自噬。beclin1、beclin2 和UVRAG共同参与组成III型磷脂酰肌醇 3-激酶(classIPI3K)复合物调控自噬；死亡相关蛋白激酶（death-associated protein kinase，DAPK）、酪蛋白激酶II（casein kinase II）、丝裂原活化蛋白激酶（mitogen-activated protein kinase，MAPK）和钙（calcium）等也在自噬错综复杂的调控网格中，但其机制还不甚清楚[11-14]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2氨基酸通过mTORC1诱导细胞自噬",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1氨基酸与mTORC1 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TOR是生物体内一个重要的丝氨酸／苏氨酸蛋白激酶。哺乳动物中的TOR基因，称之为mTOR。mTOR是动物的生长发育的重要调控因子，有C1和C22种蛋白复合物形式。mTORC1是细胞重要的感应器，它能感知细胞内外生理状态各种变化产生的信号，包括营养水平(如血糖、氨基酸)、生长因子(如胰岛素)和环境应激状态(如缺氧)]。目前对于氨基酸信号转导过程的认识还有限，研究表明氨基酸可以促进TSC1和TSC2形成复合物，通过调控Ras 相关的三磷酸鸟苷（GTP）结合蛋白所携带鸟苷的状态将信号传递到mTORC1。重排活化蛋白（ragulator-rag）复合物在接受氨基酸信号、靶向mTORC1至溶酶体表面被激活的过程中也发挥重要作用[13-15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2氨基酸与自噬 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "体内外试验都发现某些必需氨基酸浓度与细胞发生自噬程度呈负相关。老龄大鼠饥饿后，其血浆中的一些支链氨基酸，如缬氨酸、苯丙氨酸、蛋氨酸、亮氨酸与细胞自噬的相关系数分别为-0.779、-0.566、-0.527和-0.531[16]。陈琼[2]研究发现，仔猪14日龄早期断奶组与不断奶组相比，第4天血浆中苯丙氨酸、丝氨酸、赖氨酸和1-甲基组氨酸含量显著降低，同时肝脏中自噬相关蛋白LC3ⅡI表达量显著升高。体外试验也证明谷氨酰胺、精氨酸和亮氨酸缺乏能诱导猪肠道上皮细胞、人胚肾细胞等产生自噬作用[17-18]，并且一旦对缺乏的氨基酸进行补充，自噬水平可减弱至正常水平。这一系列的研究都说明氨基酸缺乏确能诱导自噬。值得注意的是随着自噬水平的提高，处于断奶应激中的仔猪其与机体免疫相关的指标如白细胞、红细胞、血红蛋白浓度等下降的趋势有所缓解，这说明自噬活性的增加缓解了仔猪的断奶应激[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "但氨基酸如何将信号传递到自噬蛋白仍然没有完全清楚。有研究认为氨基酸将信号传递到 mTOR，再传递至自噬相关蛋白[18-19]。也有研究者认为氨基酸先将信号传递至真核起始因子（eIF）-2a，然后传递到自噬相关蛋白。Yan等[18]通过在缺乏亮氨酸的培养基中添加雷帕霉素阻断mTOR信号通路，再重新补充亮氨酸，发现自噬不再被缓解，这说明 mTOR信号通路是亮氨酸缓解自噬的依赖性信号通路，并且mTORC1蛋白质复合物抑制是细胞自噬的必要条件。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3氨基酸缺乏诱导细胞自噬的mTORC1信号机制",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 AMPK-mTOR通路",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前的研究认为AMPK-mTOR通路通过精细调节自噬起始重要蛋白ULK1的3个丝氨酸位点调控自噬。研究发现，在细胞饥饿（葡萄糖饥饿）时，AMPK诱导ULK1丝氨酸的317和777位点磷酸化，促发自噬；而在营养充足的情况下，mTOR使ULK1的丝氨酸757位点磷酸化，使 AMPK对ULK1的调控被打乱[18-19]。当细胞发生氨基酸饥饿时，AMPK-mTOR通路对自噬调节可能和葡萄糖饥饿类似。仔猪断奶后 $1 { \\sim } 2 \\mathrm { d }$ 肝脏中AMPK的活性被显著激活，mTOR的活性显著降低，自噬程度提高，随着断奶时间延长，自噬程度降低，AMPK和mTOR的活性差异不显著[2]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 小G蛋白（smallG protein）",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "mTOR的分子调控机制是极其复杂和多样的。小G蛋白分子量仅有 $2 0 { \\sim } 3 0 \\mathrm { k u }$ ，与G蛋白一样具有GTP酶活性，但其自身的GTP酶活性不强，需要GTP 酶激活蛋白(GTPase-activating protein，GAP)增强其酶活性。小G蛋白通过结合GTP 而被活化，同时活化其下游分子，当GTP水解成为二磷酸鸟苷（GDP）时则回复到非活化状态。小G蛋白家族包括Ras、Rab、Rho、Arf 和 Ran 亚家族。小G蛋白通过与mTOR 联接蛋白(Raptor)、mTOR 结合，形成活性的三元复合物，为mTORC1募集下游底物。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "脑中富含的Ras 样蛋白（Ras homolog enriched in brain，Rheb）是mTORC1信号通路中的上游调控的小G蛋白之一，也是氨基酸影响mTORC1通路的必需蛋白。当分别干扰mTOR的上游分子Rheb与Raptor时，亮氨酸饥饿的细胞皆发生了明显的自噬，并且重新补充亮氨酸后自噬并没有被缓解，说明Rheb与Raptor是氨基酸信号传递到自噬蛋白的必要分子[18]。现在一般认为氨基酸促进mTORC1与Raptor形成复合体并迁移至溶酶体表面，与Rheb 结合作用，使mTORC1被活化。但是，氨基酸与mTORC1之间信号传递机制目前尚未明晰。但是当干扰mTOR的另外一个上游分子G蛋白β亚基样蛋白（GβL）时，亮氨酸饥饿后细胞仍然发生了明显的自噬；饥饿后补充亮氨酸，自噬明显缓解，但不能完全恢复，说明GβL不是亮氨酸传递信号的必需因子[18]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2008 年，美国的学者发现氨基酸可以通过激活RagGTPases(一种GTP酶)，再与mTORC1结合并激活，RagGTPases 对于氨基酸激活mTORC1是必须的[20]。但Rag GTPase缺少膜定位序列。RagGTPases的4个亚基，RagC和RagD分别可与RagA和RagB形成异源二聚体。当细胞中氨基酸浓度增加时，Rag的异源二聚体从GDP结合形式转化为GTP结合形式，从而活化。但GDP如何转化成GTP目前尚不十分清楚。随后Ragulator 和处于GTP 结合形式的Rag异二聚体与Raptor相互作用，帮助mTORC1复合物转移到Rheb 所在的溶酶体表面而激活[20-24]。这意味着Rag GTPase 通过改变Rag 亚基与GDP或GTP的结合将氨基酸信号传导到mTORC1。最近研究表明，Rag-Rheb参与调控mTOR信号通路是氨基酸诱导下mTORC1的活化所必需的，并且该通路与经典的TSC1/TSC2-Rheb介导的mTORC1的调控途径并无联系[25]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "哈佛和麻省的实验室生成了一种能够不断表达活性GTPaseRagA形式的遗传工程小鼠。研究发现在缺乏有效养分（氨基酸）时，自噬触发被抑制，造成其营养危机和死亡。正常小鼠存在氨基酸时RagA会被激活，从而开启 mTORC1信号，调控响应养分供应的生物体生长；缺乏氨基酸，RagA关闭，会导致mTORC1失活，启动自噬帮助动物度过困难时期直至下一次喂食。但基因工程小鼠无论有无氨基酸缺乏，RagA持续的活性都维持了mTORC1 活化，mTOR 的下游分子核糖体 S6 激酶 1(ribosome protein subunit 6 kinase 1,S6K1)的磷酸化程度增加[15]。近年来氨基酸激活mTORCl的信号通路有了新的进展，但细胞内氨基酸浓度如何被信号分子感知这个基本问题仍然没有答案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3氨基酰-tRNA 合成酶(aminoacyl-tRNA synthetase，aaRS)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "aaRS 通过催化tRNA的氨基酰化参与RNA的翻译[25]。生物体中有20种aaRS，与 20种编码氨基酸一一对应，如亮氨酸对应LeuRS。它的经典功能是催化，包括氨基酸的活化和 tRNA 的氨基酰化[26]。最近在酵母和哺乳动物中分别发现亮氨酰 tRNA合成酶(leucyl-tRNA synthetase，LRS)能够直接感知细胞中氨基酸的浓度并将氨基酸刺激信号传递给 RagGTPase[26-28]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "一方面LRS 通过与mTORC1中的调节蛋白RagD直接作用而组装到mTORC1中；另一方面LRS与非活性的RagD-GTP结合，通过其GAP结构域促进非活性的RagD-GTP 转变成活性的 RagD-GDP，活化的异源二聚体可以直接激活mTORC1[26]。细胞内其他的支链氨基酸(如异亮氨酸)也可以激活mTORC1。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4 微小 RNA(miRNA)",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Wu等[29]通过miRNA芯片技术发现亮氨酸缺乏的C2C12细胞有84个miRNA存在差异表达；靶基因预测 miR-20a、miR-106b与mTOR 自噬通路、自噬相关基因 Atg1相关;共转染 miR-20a与miR-106b，海肾荧光素酶与未进行亮氨酸饥饿的对照组相比表达量下降$4 0 \\% { \\sim } 4 5 \\%$ ；超表达miR-20a与miR-106b， $3 6 \\mathrm { h }$ 后荧光定量PCR发现Atg1mRNA无变化，但WB显示其蛋白质水平比对照组降低 $4 0 \\%$ 。因此该研究者认为miR-20a与miR-106b通过抑制 $A t g 1$ 转录后的表达影响自噬。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "自噬是一个随机体状态不断变化的动态过程，因此，用静态方法研究得到的结果可能并未反映细胞内自噬的真正变化趋势。更重要的是自噬的发生程度对机体有利还是有害现在还无法量化判断。因此，在研究时应注意体内外结果互相验证，以求准确全面地反映自噬在各种生物学过程中的作用[30]。细胞自噬是近几年内生物学和医学的研究热点之一，而mTOR信号通路与代谢调节的关系在动物营养中已有部分研究，但mTOR信号通路如何调节自噬，特别是如何感知营养素水平在动物营养研究中相关报道较少。因此氨基酸，尤其是必需氨基酸对动物代谢包括自噬、信号通路调控作用与响应机制仍有待深入研究。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]LEVINE B,KROEMER G.Autophagy in the pathogenesis of disease[J].Cel,2008,132(1):27- ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "42.   \n[2] 陈琼.仔猪早期断奶应激诱导自噬发生规律的研究[D].硕士学位论文.武汉:华中农业大 学.2013.   \n[3] ZONCU R,EFEYAN A,SABATINI D M.mTOR:From growth signal integration to cancer,diabetes and ageing[J].Nature Reviews Molecular Cell Biology,2011,12(1):21-35.   \n[4] SHINTANI T,KLIONSKY D J.Autophagy in health and disease:a double-edged sword[J].Science,2004,306(5698):990-995.   \n[5] TIAN F,DEGUCHI K,YAMASHITA T,et al.In vivo imaging of autophagy in a mouse stroke model[J].Autophagy,2010,6(8):1107-1114.   \n[6] JUNG C H,JUN C B,RO S H,et al.ULK-Atg13-FIP200 complexes mediate mTOR signaling to the autophagy machinery[J].Molecular Biology of the Cell2009,20(7):1992-2003.   \n[7]GOTTLIEB RA,CARREIRA RS.Autophagy in health and disease.5.mitophagy as a way of life[J].American Journal of Physiology-Cell Physiology,2010,299(2):C203-C210.   \n[8] JUNG C H,RO S H,CAO J,et al.mTOR regulation of autophagy[J].FEBS Letters,2010,584(7):1287-1295.   \n[9]SURYAWAN A,DAVIS T A.The abundance and activation of mTORC1 regulators in skeletal muscle of neonatal pigs are modulated by insulin,amino acids,and age[J].Journal of Applied Physiology,2010,109(5):1448-1454.   \n[10] SANCAK Y ,BAR-PELED L,ZONCU R,et al.Ragulator-Rag complex targets mTORC1 to the lysosomal surface and is necessary for its activation by amino acids[J].Cell,2010,141(2):290-303.   \n[11] KIM J,KUNDU M,VIOLLET B,et al.AMPK and mTOR regulate autophagy through direct phosphorylation of Ulk1[J].Nature Cell Biology,2011,13(2):132-141.   \n[12]许丹丹,何艮.氨基酸感知与代谢调控的研究进展[J].动物营养学报,2015,27(2):342-351.   \n[13]高源,吴更.mTORC1通路中氨基酸信号转导相关机制研究进展[J].中国细胞生物学学 报,2012,34(8):812-818.   \n[14]EFEYAN A,ZONCU R,CHANG S,et al.Rag GTPase-mediated regulation of mTORC1 by nutrients is necessary for neonatal autophagy and survival[J].Nature,2013,493(7434):679-683.   \n[15] HOSOKAWA N,SASAKI T,IEMURA S,et al.Atg101,a novel mammalian autophagy protein interacting with Atg13[J].Autophagy,2009,5(7):973-979.   \n[16]王慧俐,邱龄,李艳芳.血浆必需氨基酸浓度与细胞自噬程度相关性分析[J].山西医科大学 学报,2010,41(4):288-291.   \n[17]朱玉华,薛欣合,周天骄,等.谷氨酰胺、精氨酸和亮氨酸缺乏诱导猪肠道上皮细胞自噬的 研究[C]//中国畜牧兽医学会动物营养学分会第十一次全国动物营养学术研讨会论文集. 长沙:中国畜牧兽医学会,2012.   \n[18] YAN X H,SUN Q M,JI J,et al.Reconstitution of leucine-mediated autophagy via the mTORC1-Barkor pathway in vitro[J].Autophagy,2012,8(2):213-221.   \n[19] DODD K M,TEE A R.Leucine and mTORC1:a complex relationship[J].American Journal of Physiology-Endocrinology and Metabolism,2012,302(11):E1329-E1342.   \n[20] KIM E,GORAKSHA-HICKS P,LI L,et al.Regulation of TORC1 by Rag GTPases in nutrient response[J].Nature Cell Biology,2008,10(8):935-945.   \n[21] ZHANG TL,PELI-GULLI MP,YANG H,et al.Ego3 functions as a homodimer to mediate the interaction between Gtrl-Gtr2 and Egol in the EGO complex to activate TORC1[J].Structure,2012,20(12):2151-2160.   \n[22] JEONG J H,LEE Y M,KIM D H.et al.Crystal structure of the Gtrlp (GTP)-Gtr2p(GDP) protein complex reveals large structural rearrangements triggered by GTP-to-GDP conversion[J].The Journal of Biological Chemistry,2012,287(35):29648-29653.   \n[23] BAR-PELED L,SCHWEITZER L D,ZONCU R,et al.Ragulator is a GEF for the Rag GTPases that signal Amino Acid Levels to mTORC1[J].Cell,2012,150(6):1196-1208.   \n[24] SANCAKY,PETERSON TR,SHAUL Y D,et.al.The Rag GTPases bind raptor and mediate amino acid signaling to mTORC1[J].Science,2008,320(5882):1496-1501.   \n[25] TEE A R,MANNING B D,ROUX P P,et al.Tuberous sclerosis complex gene products,Tuberin and Hamartin,control mTOR signaling by acting as a GTPase-activating protein complex toward Rheb[J].Current Biology,2003,13(15):1259-1268.   \n[26] HAN J M,JEONG S J,PARK M C,et al.Leucyl-tRNA synthetase is an intracellular leucine sensor for the mTORC1-signaling pathway[J].Cell,2012,149(2):410-424.   \n[27] RUI G,LI L,YI L,et al.Crystal structure of the Gtrlp-Gtr2p complex reveals new insights into the amino acid-induced TORC1 activation[J].Genes & Development,2011,25(16):1668-1673.   \n[28] SEGEV N,HAY N.Hijackingleucyl-tRNA synthetase for amino acid-dependent regulation of TORC1[J].Molecular Cell,2012,46(1):4-6.   \n[29] WU H,WANG FL,HU S L,et al.MiR-20a and miR-106b negatively regulate autophagy induced by leucine deprivation via suppression of ULKl expression in C2C12 myoblasts[J].Cellular Signaling,2012,24(11):2179-2186.   \n[30] KLIONSKY D J,ABELIOVICHH,AGOSTINIS P,et al.Guidelines for the use and interpretation of assays for monitoring autophagy in higher eukaryotes[J].Autophagy,2008,4(2):151-175.   \nAdvances in Lack of Amino Acid-mediated Autophagy via Mammalian Target of Rapamycin Complex 1 Signal Pathway   \nBAI Xuel.2 WANG Jianping1,3 DINT Xuemei1.3 BAI Shiping1.3 ZENG Qiufeng1.3 ZHANG Keying1,3\\* ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1. Institute of Animal Nutrition, Sichuan Agricultural University, Chengdu 611130, China; 2. College ofLife Science and Technology, Southwest University for Nationalities, Chengdu 610000 China; 3. Key Laboratory for Animal Disease-Resistance Nutrition of China Ministry of Education, Chengdu 611130, China) ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Autophagy is an important physiological activity for keeping organism steady. Cell will active the autophagy when the nutrient as amino acid and glucose deficiency. The autophagy is regulated by many signal pathways, and mammalian target of rapamycin complex 1 (mTORC1) is one of the important pathway, it can make autophagy factor autophagy-related gene 13 (Atg13) phosphorylation to inhibit autophagy starting.In this review, we summarized the results and conclusions from recent works on amino acid-mediated autophagy via the mTORC1 signal pathway including small G protein, adenosine 5’ -monophosphate-activated protein kinase (AMPK）, microRNA(miRNA),aminoacyl-tRNA synthetase. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: amino acid; autophagy; mTORC1; mechanism ",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,585 @@
+[
+    {
+        "type": "text",
+        "text": "改进协同表示的高光谱图像异常检测算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘万军，武小杰，曲海成，王凤(辽宁工程技术大学 软件学院，辽宁 葫芦岛 125105)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对协同表示的高光谱图像异常检测算法中双窗口中心为异常像元同时背景字典存在同种异常像元的情况，中心像元的输出较小难以与背景区分的问题，提出一种改进协同表示的高光谱图像异常检测算法。为了减小背景字典中异常像元的权重，使用背景字典原子与均值的距离调整原子的权重，从而增大上述情况下中心像元的输出。实验结果表明，提出的算法在不同双窗口下都取得了较好的检测效果，验证了算法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高光谱图像；异常检测；异常像元；协同表示；双窗口中图分类号：TP751.1 doi:10.3969/j.issn.1001-3695.2017.06.0651",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Improved collaborative representation for hyperspectral imagery anomaly detection algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Liu Wanjun, Wu Xiaojie, Qu Haicheng, Wang Feng (School ofSoftwareLiaoning Technical University,Huludao Liaoningl251o5,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Aiming atthe problemof hyperspectral imagecollaborativerepresentation anomalydetection algorithm thatthe outputofthecentral pixelissmallanddiffcult todistinguish fromthebackgroundwhendual windowcenterpixelisanomalous pixelandbackground dictionarycontains the same kindofanomalous pixels.This paper proposedan improvedcollaborative representation forhyperspectral imageryanomalydetection algorithm.Inorder toreducethe weights ofthe anomalous pixels inthe background dictionary,using the distancebetween the atomand the mean ofthe background dictionary toadjustthe weightsoftheatoms,soas toincrease theoutputof tecentralpixelintheaboveconditions.Experimentalresultsshowhatthe proposedalgorithmachieves betterdetectionresults withdifferentdual windows,andverifies theefectivenessoftheproposed algorithm. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: hyperspectral image;anomaly detection; anomalous pixel; collaborative representation; dual window ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高光谱图像目标检测作为高光谱研究领域一个重要的研究方向，在军事安全、环境污染监测、地质勘探、农林监控等方面都有着广泛的应用前景[I\\~3]。根据是否需要先验信息，高光谱图像目标检测通常分为光谱匹配检测和异常检测[4,5]。在实际情况下，由于难以获得准确的地物反射光谱且缺少完备的光谱库，获取先验信息就变得非常困难[67]。因此，不需要先验信息的异常检测算法在实际应用中就尤为重要，也是当前的研究热点。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reed 等人[8提出的基于广义似然比检验的RX算法是高光谱图像异常检测领域最经典的方法之一。但是RX算法忽视了高光谱图像中丰富的非线性信息，使得检测精度较差，非线性核方法的提出解决了这个问题。常用的基于核方法的异常检测算法有 kernel RX(KRX)算法和支持向量数据描述(supportvectordata description,SVDD)算法。Kwon 等人[9]提出的KRX算法将原始数据通过非线性函数映射到高维特征空间，使得原来线性不可分的数据变得线性可分，从而能更好地区分背景和目标信息。Banerjee 等人[10]提出的SVDD算法通过构造非线性分类器，使得具有共性的同一类样本尽可能地被包含在一个最小超球体内，其他类别的样本最大限度地限制在这个超球体外，通过求取最小超球体的分界面实现异常检测[1]。许多研究者[12\\~14]在这些核方法的基础上提出了改进算法，并取得了较好的检测结果。Li 等人[15]提出的 CRD(collaborative-representation-baseddetector)算法首次将协同表示的方法应用在高光谱图像异常检测领域，该算法提出背景像元可以被周围像元近似地表示，而异常像元却不能。CRD算法使用滑动双窗口获取背景字典，通过背景字典原子的线性组合产生中心像元的近似值，用中心像元与其近似值之间的距离来判断中心像元是否为异常。但CRD 算法只考虑了高光谱图像的光谱特性，而忽略了其空间特性。因此，张丽丽等人[16]提出了一种联合核协同的稀疏差异指数表示模型，该方法在核空间采用稀疏编码理论，同时考虑光谱相关性和空间相关性，提高了检测精度，但是算法中的核函数参数是经过大量实验后择优确定的，不能自适应选择核参数。为此，唐意东等人[17提出了一种基于自适应核联合表示的高光谱图像异常检测算法，在核协同表示算法的基础上，根据检测窗的局部统计特性设置核参数，增强了核参数的局部适应性，提高了算法的检测性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但是CRD算法和相关的改进研究算法都没有解决在中心像元为异常像元且背景字典包含同种异常像元情况下，中心像元的输出较小难以与背景区分的问题。为此，本文提出了改进协同表示的高光谱图像异常检测算法。使用背景字典原子与字典均值的距离调整每个原子的权重，降低异常像元的权重，同时提高背景像元的权重。在中心像元为异常像元而背景字典也存在同种异常像元的情况下，最大化中心像元的输出。实验结果表明，在存在上述情况的窗口尺寸下，提出的算法相对于原算法，取得了更好的检测效果，而在其他窗口尺寸下，检测结果与原算法基本保持一致。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 协同表示的高光谱图像异常检测算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "协同表示算法通过背景字典的线性组合产生中心像元的近似值，背景字典由滑动的双窗口获得。像元 $\\pmb { y } \\in \\pmb { R } ^ { d \\times 1 }$ 是双窗口的中心，其中 $^ d$ 为光谱的维数，双窗口的外窗口尺寸为 $w _ { o u t }$ ，内窗□尺寸为 $w _ { i n }$ ， $X _ { s }$ （大小为 $d \\times s$ ）为背景字典，是由内窗口和外窗口之间的像元组成，其中 $s = w _ { _ { o u t } } \\times w _ { _ { o u t } } - w _ { _ { i n } } \\times w _ { _ { i n } }$ 。协同表示的目标是找到权向量 $\\alpha$ ，使得在 $\\left\\| y - X _ { s } \\pmb { \\alpha } \\right\\| _ { 2 } ^ { 2 }$ 最小的同时 $\\left\\| \\alpha \\right\\| _ { 2 } ^ { 2 }$ 也最小。因此目标函数表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m i n } _ { \\alpha } \\left\\| y - X _ { s } \\alpha \\right\\| _ { 2 } ^ { 2 } + \\lambda \\left\\| \\alpha \\right\\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：为拉格朗日乘数。式(1)等于：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m i n } _ { \\boldsymbol { \\alpha } } \\biggl [ \\pmb { \\alpha } ^ { T } \\left( X _ { s } ^ { T } X _ { s } + \\lambda I \\right) \\boldsymbol { \\alpha } - 2 \\pmb { \\alpha } ^ { T } X _ { s } ^ { T } \\pmb { y } \\biggr ]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对 $\\alpha$ 求导，并让导数等于零，可得",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\alpha } \\mathrm { = } \\left( X _ { s } ^ { T } X _ { s } + \\lambda I \\right) ^ { - 1 } X _ { s } ^ { T } \\mathbf { y }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于背景字典中一些原子与中心的像元非常相似，要让这些原子有较大的权重，而那些与中心像元相似度较低原子要有较小的权重。为了调整背景字典原子的权重，使用如下的对角矩阵：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal { T } } _ { y } = \\left[ \\begin{array} { c c c c } { { \\left\\| y - x _ { 1 } \\right\\| _ { 2 } } } & { { } } & { { 0 } } \\\\ { { } } & { { 0 } } & { { } } \\\\ { { 0 } } & { { } } & { { \\left\\| y - x _ { s } \\right\\| _ { 2 } } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\pmb { x } _ { 1 } , \\pmb { x } _ { 2 } , \\pmb { \\Lambda } _ { \\mathrm { ~ } } , \\pmb { x } _ { s }$ 为 $X _ { s }$ 的列向量，对角线上的元素为中心像元与每一个背景字典原子的欧式距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "同时，为了提高解的稳定性，使得算法有更好的判别力，对 $\\alpha$ 加上和为一约束。令 $\\stackrel { \\circ } { \\boldsymbol { y } } = \\left[ \\boldsymbol { y } ; 1 \\right]$ ， $\\overbrace { X } _ { s } = \\left[ X _ { s } ; I \\right]$ ，其中 $^ { \\prime }$ 为一个$1 \\times s$ 的元素全为1的行向量。新的最优化问题可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m i n } _ { \\pmb { \\mathscr { k } } _ { 1 } } \\left\\| \\widetilde { \\mathbf { y } } - \\widetilde { X } _ { \\ast } , \\pmb { \\mathscr { k } } _ { 1 } \\right\\| _ { 2 } ^ { 2 } + \\lambda \\left\\| T _ { \\gamma } \\pmb { \\mathscr { k } } _ { 1 } \\right\\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "它的解为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { \\Ddot { \\ b { \\mathscr { k } } } } _ { 1 } { = } \\left( \\boldsymbol { \\widetilde { X } } _ { s } ^ { T } \\boldsymbol { \\widetilde { X } } _ { s } + \\lambda \\boldsymbol { T } _ { y } ^ { T } \\boldsymbol { T } _ { y } \\right) ^ { - 1 } \\boldsymbol { \\widetilde { X } } _ { s } ^ { T } \\boldsymbol { \\vartheta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最后计算中心像元 $_ { y }$ 与它的近似值之间的欧氏距离：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { 1 } = \\left\\| y - { \\overline { { { \\vec { y } } _ { 1 } } } } \\right\\| _ { 2 } = \\left\\| y - X _ { s } \\not \\in \\right\\| _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如果 $r _ { 1 }$ 大于阈值，则 $_ { \\textbf { \\textit { y } } }$ 为异常像元；否则， $_ { \\textbf { \\textit { y } } }$ 为背景像元。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进协同表示的高光谱图像异常检测算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在协同表示的高光谱图像异常检测算法中，利用距离加权的正则化对角矩阵调整背景字典原子的权重，使得与中心像元相似度较高的原子有较大的权重，而与中心像元相似度较低的原子有较小的权重。但是在中心像元是异常像元，而背景字典中也存在同种异常像元时，中心像元与这些同种异常像元的距离小，那么这些异常像元有较大的权重，使中心像元与它的近似值接近，中心像元对应的输出结果较小。如果输出小于给定的阈值，该像元被判定为背景像元。这使得在出现中心像元为异常像元同时背景字典中存在同种异常像元的窗口尺寸下，协同表示的异常检测算法的检测效果较差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，本文提出了一种改进协同表示的异常检测算法。背景字典的均值 $\\pmb { \\mu } = \\frac { 1 } { s } \\sum _ { i = 1 } ^ { s } \\pmb { x } _ { i }$ ，用背景字典原子与均值的距离调整每个原子的权重。在背景不复杂的情况下，背景字典中，与均值距离较远的原子被认为异常程度较大，应该使这些原子被分配较小的权重；而与均值距离较近的原子被认为是背景像元，应该使这些原子被分配较大的权重。使用如下的对角矩阵调整背景字典原子的权重：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\cal T } _ { \\mu } = \\left[ \\begin{array} { c c c c } { { \\left\\| \\pmb { \\mu } - \\pmb { x } _ { 1 } \\right\\| _ { 2 } } } & { { } } & { { 0 } } \\\\ { { } } & { { 0 } } & { { } } \\\\ { { 0 } } & { { } } & { { \\left\\| \\pmb { \\mu } - \\pmb { x } _ { s } \\right\\| _ { 2 } } } \\end{array} \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "最优化问题可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\arg \\operatorname* { m i n } _ { \\mathbb { H } _ { 2 } } \\left\\| \\int _ { - } ^ { \\infty } { \\widehat { \\mathbf { y } } } - { \\widehat { X } } _ { * } , \\mathbf { \\widehat { x } } \\mathbf { \\widehat { z } } _ { 2 } \\right\\| _ { 2 } ^ { 2 } + \\lambda \\left\\| { \\boldsymbol { T } } _ { * } \\mathbf { \\widehat { z } } _ { 2 } \\right\\| _ { 2 } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "它的解为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { \\mathscr { k } } _ { 2 } { = } \\bigg ( \\pmb { \\mathscr { X } } _ { s } ^ { T } \\pmb { \\mathscr { X } } _ { s } + \\lambda \\pmb { T } _ { \\mu } ^ { T } \\pmb { T } _ { \\mu } \\bigg ) ^ { - 1 } \\pmb { \\mathscr { X } } _ { s } ^ { T } \\pmb { y }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "算法的输出为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { 2 } = \\left. \\mathbf { y } - { \\overrightarrow { { \\overrightarrow { \\mathbf { y } } } _ { 2 } } } \\right. _ { 2 } = \\left. \\mathbf { y } - X _ { s } { \\boldsymbol { \\star } } { \\boldsymbol { \\mathbf { \\mathit { t } } } } _ { 2 } \\right. _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分析在不同情况下改进协同表示的方法对输出的影响：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)当中心像元 $_ { y }$ 是背景像元，背景字典 $X _ { s }$ 中不存在异常像元时。 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中对角元素都较小，由于 $X _ { s }$ 中多数像元与中心像元的差异较小，使得近似值 $\\overline { { \\vec { \\bf y } _ { 2 } ^ { \\sf H } } }$ 与 $_ { y }$ 接近， $r _ { 2 }$ 的值较小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(2)当中心像元 $_ { y }$ 是背景像元，背景字典 $X _ { s }$ 中存在少量异常像元时。 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中异常像元所对应的对角元素较大，减小了异常像元的权重，而 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中背景像元所对应的对角元素较小，增大了背景像元权重。由于异常像元所占的比重较小， $X _ { s }$ 中多数像元与中心像元的差异较小且权重较大，使得近似值灵与 $_ { y }$ 接近， $r _ { 2 }$ 的值较小。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)当中心像元 $_ { \\textbf { y } }$ 是异常像元，背景字典 $X _ { s }$ 中不存在异常像元时。 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中的对角元素都较小，由于 $X _ { s }$ 中的像元与中心像元的差异都很大，使得近似值 $\\overline { { \\vec { \\bf y } _ { 2 } ^ { \\sf H } } }$ 与 $_ { \\textbf { y } }$ 差异较大， $r _ { 2 }$ 的值较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)当中心像元 $_ { y }$ 是异常像元，背景字典 $X _ { s }$ 中存在少量异常像元，但是与中心像元不属于同种类型的异常时。 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中异常像元所对应的对角元素较大，减小了异常像元的权重，而 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中背景像元所对应的对角元素较小，增大了背景像元权重。由于 $X _ { s }$ 中的像元与中心像元的差异都很大，使得近似值灵与 $_ { y }$ 差异较大， $r _ { 2 }$ 的值较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)当中心像元 $_ { \\textbf { y } }$ 是异常像元，背景字典 $X _ { s }$ 中存在少量异常像元，且与中心像元属于同种类型的异常时。 $\\boldsymbol { { \\cal T } } _ { \\mu }$ 中异常像元所对应的对角元素较大，减小了异常像元的权重，而 $\\textstyle { \\boldsymbol { { \\cal T } } } _ { \\mu }$ 中背景像元所对应的对角元素较小，增大了背景像元权重。与中心像元相似度高的异常像元的权重较小，与中心像元相似度低的背景像元的权重较大，使得近似值灵与 $_ { y }$ 差异较大， $r _ { 2 }$ 的值较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经过分析可知，提出的算法通过调整背景字典原子的权重，使得在中心像元为背景像元时输出值较小，而在中心像元为异常像元时输出值较大。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法的步骤如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)输入三维高光谱图像、参数和双窗口的尺寸；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)以高光谱图像中待检测像元为中心像元，通过双窗口获取背景字典 $X _ { s }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)计算背景字典的均值 $\\mu$ 与对角矩阵 $\\boldsymbol { { \\cal T } } _ { \\mu }$ ; ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)利用式(10)计算权重向量 $\\bigstar _ { 2 }$ ;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)利用式(11)计算中心像元与估计值之间的距离 $r _ { 2 }$ ：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)以下一个像元作为待检测像元，重复步骤 ${ \\mathsf { b } } ) { \\mathsf { \\sim } } { \\mathsf { e } } ,$ ，直至全部像元检测完成。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 实验及分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验使用的软件为MATLABR2016a，计算机的CPU型号为Intel(R)Core(TM)i7-6700，内存为 $1 6 \\mathrm { \\ G B }$ 。实验使用一组模拟和两组真实的高光谱图像对算法进行验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1数据描述",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一组数据是模拟数据，使用的数据是美国圣地亚哥海军机场的 AVIRIS 高光谱图像。空间大小为 $4 0 0 \\times 4 0 0$ 像元，包含224个波段。去掉1\\~6、33\\~35、94\\~97、107\\~113、 $1 5 3 { \\sim } 1 6 6$ 和221\\~224波段范围内的水吸收和低信噪比波段后，剩余186个波段用于实验，其第1波段的图像如图1所示。截取其中空间大小为 $1 0 0 \\times 1 0 0$ 像元的高光谱图像作为模拟数据的背景图像，从AVIRIS高光谱图像中的飞机上选取16个像元插入到背景图像中作为异常目标，每个异常像元光谱包含 $50 \\%$ 飞机光谱与 $50 \\%$ 背景光谱。AVIRIS模拟数据如图2所示。其中图2(a)为AVIRIS模拟数据第1波段的图像，(b)为AVIRIS模拟数据目标分布。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d84e4e742da4f7af9cd8ef775b10016dec6d57c24fa4270d994bcf8c59914ee7.jpg",
+        "img_caption": [
+            "图1AVIRIS 数据第1波段图像"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f2872e2814c3013d87bea4166aa16d2c9a10c9fbb263e17fe5cdeda8b72a89a.jpg",
+        "img_caption": [
+            "(a)AVIRIS 模拟数据第1波段图像 (b)AVIRIS 模拟数据目标分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二组数据是真实数据，也从上述AVIRIS高光谱图像中选取，截取其中空间大小为 $1 0 0 \\times 1 0 0$ 像元的高光谱图像，AVIRIS真实数据中飞机是被检测的异常。AVIRIS真实数据如图3所示。其中图3(a)为AVIRIS真实数据第1波段的图像，(b)为 AVIRIS 真实数据目标分布。这组数据包含 57个异常像元。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6cf6b25d624c6dc682e63b4862b64be2220050a45fc35208e99758cac1490384.jpg",
+        "img_caption": [
+            "图2AVIRIS 模拟数据",
+            "(a)AVIRIS真实数据第1波段图像 (b)AVIRIS真实数据目标分布",
+            "图3AVIRIS 真实数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三组数据也是真实数据，使用的数据是美国德克萨斯州某城郊住宿区的HYDICE 高光谱图像。空间大小为 $3 0 7 \\times 3 0 7$ 像元，包含210个波段。去掉1\\~4、76、87、101\\~111、136\\~153和198\\~210 波段范围内的水吸收和低信噪比波段后，剩余162个波段。截取其中空间大小为 $8 0 \\times 8 0$ 像元的高光谱图像用于实验，HYDICE 真实数据中车辆是被检测的异常。HYDICE 真实数据如图4所示。其中图4(a)为HYDICE 真实数据第1波段的图像， (b)为HYDICE 真实数据目标分布。这组数据包含14个异常像元。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbafcb149871b7add5cf4acfb48952c5165f97d6d4fcb4547a1719acbfb9d606.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 模拟数据实验",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本实验使用如图2所示的数据，这组数据中，背景比较简单，异常与背景差异较大，异常像元之间的相似度较高，若出现中心像元为异常像元且背景字典中存在同种异常像元的情况，协同表示算法的检测效果较差。为了与协同表示算法进行对比，λ取值与文献[15]相同。在之后的实验中，λ取值均为 $1 0 ^ { - 6 }$ 。取外窗口尺寸为11，内窗口尺寸为5，坐标(55,44)处的像元作为中心像元，此时中心像元为异常像元且背景字典中存在同种异常像元，比较两种算法在这种情况下背景字典原子的权重和中心像元的输出。两种算法的权向量如图5所示。其中图5(a)为协同表示算法的权向量，(b)为改进协同表示算法的权向量。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9a0a61c059b0e57bc9a11dc37c2a3146e6733062656398ce7357694d4f7d09d.jpg",
+        "img_caption": [
+            "(a)HYDICE 真实数据第1波段图像 (b)HYDICE 真实数据目标分布图4HYDICE 真实数据",
+            "(b)改进协同表示算法的权向量图5两种算法的权向量"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "背景字典中与中心像元为同种异常像元的原子序号为69，从图5中可以看出，协同表示的算法背景字典中异常像元处对应的权值为0.8879，而改进的协同表示算法背景字典中异常像元处对应的权值为0.0937。根据式(7)和式(11)计算可得，原算法和本文算法的输出分别为0.0105和0.0251。因此可知，在中心像元为异常像元同时背景字典中存在同种异常像元的情况下，改进协同表示的算法能够降低背景字典中异常像元的权重，从而增大中心像元的输出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AUC为接收机工作特性(receiver operating characteristic,ROC)曲线下所覆盖的面积，使用AUC对协同表示算法和改进协同表示算法的检测性能做评价，AUC的数值越大，表明分类器的工作性能越好。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证所提算法的有效性，分别给出了两种算法在不同窗口尺寸下的AUC。协同表示算法在不同窗口尺寸下的AUC见表1。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b961dda45962683a48f35986e21eb6eec253156104f983124b6109fc0634cedb.jpg",
+        "table_caption": [
+            "表1AVIRIS模拟数据协同表示算法在不同窗口尺寸下的AUC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Win</td><td colspan=\"4\">Wout</td></tr><tr><td>11</td><td>13</td><td>15</td><td>17</td></tr><tr><td>5</td><td>0.9980</td><td>0.9982</td><td>0.9984</td><td>0.9946</td></tr><tr><td>7</td><td>0.9997</td><td>0.9993</td><td>0.9992</td><td>0.9969</td></tr><tr><td>9</td><td>0.9996</td><td>0.9992</td><td>0.9991</td><td>0.9956</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表1可以看出，当内窗口尺寸为5或者外窗口尺寸为17时AUC较小。根据AVIRIS模拟数据目标分布分析得出，在上述窗口下，均出现了中心像元为异常像元，同时背景字典中包含同种异常像元的情况。协同表示的算法在这种情况下，中心像元与背景字典中的同类异常像元的欧氏距离较小，对应的背景字典中的异常像元的权重就会较大，中心像元的估计值与中心像元之间的差异较小，协同表示算法在这个异常点处的输出也就较小。如果输出小于给定的阈值，该像元被判定为背景像元。因此，协同表示算法在内窗口尺寸为5或者外窗口尺寸为17时，相对于其他尺寸的双窗口，AUC较小，检测精度较低。改进协同表示算法在不同窗口尺寸下的AUC见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4cbc88e6fdd3494f73b68ce22baa780549cc7e249b77628c9105e9972bd63f44.jpg",
+        "table_caption": [
+            "表2AVIRIS 模拟数据改进协同表示算法在不同窗口尺寸下的AUC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Win</td><td colspan=\"4\">Wout</td></tr><tr><td>11</td><td>13</td><td>15</td><td>17</td></tr><tr><td>5</td><td>0.9996</td><td>0.9993</td><td>0.9993</td><td>0.9994</td></tr><tr><td>7</td><td>0.9998</td><td>0.9993</td><td>0.9993</td><td>0.9993</td></tr><tr><td>9</td><td>0.9996</td><td>0.9993</td><td>0.9992</td><td>0.9993</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从表2可以看出，当内窗口尺寸为5或者外窗口尺寸为17时，对应的AUC高于原算法。这是因为改进协同表示算法在中心像元为异常像元并且周围空间像元包含同种异常的情况下，使用背景字典原子与字典均值的距离调整每个原子的权重，增大背景像元的权重，减小异常像元的权重。在上述情况下，与中心像元相似的异常像元权重较小，中心像元与其估计值的差异较大，改进协同表示算法在这个异常像元处的输出也就较大。如果输出大于给定的阈值，该像元被判定为异常像元，从而提高检测精度。而在其他尺寸的双窗口下，提出算法的 AUC 与原算法的AUC基本相同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3真实数据实验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验使用的第一组数据为如图3所示的数据，这组数据中，背景主要包括建筑、停机坪、机场跑道和少量植被，目标尺寸比模拟数据中的大，内窗口尺寸太小会使一些异常像元不容易被检测到。分别给出了不同窗口尺寸下两种算法的AUC。协同表示算法在不同窗口尺寸下的AUC见表3。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/9351e9ec90c579bfc253c268e43505154c7f2ba4f136d08c5afb77c86d2c2229.jpg",
+        "table_caption": [
+            "表3AVIRIS真实数据协同表示算法在不同窗口尺寸下的AUC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Win</td><td colspan=\"5\">Wout</td></tr><tr><td>19</td><td>21</td><td>23</td><td>25</td><td>27</td></tr><tr><td>7</td><td>0.7416</td><td>0.7587</td><td>0.7648</td><td>0.7733</td><td>0.7867</td></tr><tr><td>9</td><td>0.8905</td><td>0.9005</td><td>0.8935</td><td>0.8988</td><td>0.8923</td></tr><tr><td>11</td><td>0.9700</td><td>0.9670</td><td>0.9698</td><td>0.9724</td><td>0.9625</td></tr><tr><td>13</td><td>0.9906</td><td>0.9869</td><td>0.9878</td><td>0.9894</td><td>0.9841</td></tr><tr><td>15</td><td>0.9923</td><td>0.9936</td><td>0.9941</td><td>0.9953</td><td>0.9885</td></tr><tr><td>17</td><td>0.9910</td><td>0.9927</td><td>0.9942</td><td>0.9950</td><td>0.9862</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表3可以看出，协同表示算法在内窗口尺寸为7、9、11或者外窗口尺寸为27时，相对于其他尺寸的双窗口，AUC 有较大幅度的下降，检测精度较低。根据AVIRIS真实数据目标分布分析得出，在内窗口为7、9、11或者外窗口为27时，均出现了中心像元为异常像元，背景字典包含同种异常像元的情况，因此ACU较小。改进协同表示算法在不同窗口尺寸下的AUC见表4。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb6f6c8297c735586be30845b6f32ecfe9cda82e3899ac0bf9880b685d643dfe.jpg",
+        "table_caption": [
+            "表4AVIRIS真实数据改进协同表示算法在不同窗口尺寸下的AUC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Win</td><td colspan=\"5\">Wout</td></tr><tr><td>19</td><td>21</td><td>23</td><td>25</td><td>27</td></tr><tr><td>7</td><td>0.9896</td><td>0.9892</td><td>0.9902</td><td>0.9901</td><td>0.9897</td></tr><tr><td>9</td><td>0.9916</td><td>0.9898</td><td>0.9910</td><td>0.9908</td><td>0.9909</td></tr><tr><td>11</td><td>0.9925</td><td>0.9912</td><td>0.9915</td><td>0.9930</td><td>0.9928</td></tr><tr><td>13</td><td>0.9928</td><td>0.9913</td><td>0.9925</td><td>0.9938</td><td>0.9934</td></tr><tr><td>15</td><td>0.9934</td><td>0.9936</td><td>0.9946</td><td>0.9945</td><td>0.9940</td></tr><tr><td>17</td><td>0.9911</td><td>0.9934</td><td>0.9945</td><td>0.9946</td><td>0.9933</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，在内窗口为7、9、11或者外窗口为27时，改进协同表示算法的AUC比协同表示算法的AUC高许多。在其他尺寸的双窗口下，改进协同表示算法的AUC与原算法的AUC 基本相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本实验使用的第二组数据为如图4所示的数据，这组数据中，目标为7个大小不同的车辆，有些车辆之间的距离较近，外窗口尺寸太大，则会出现中心像元为异常像元且背景字典中存在同种异常像元的情况。分别给出了不同窗口尺寸下两种算法的AUC。协同表示算法在不同窗口尺寸下的AUC见表5。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e05fb3ca150234cef222bec3baa32aa6ecd38cdf2811485fa1e5d9732822e660.jpg",
+        "table_caption": [
+            "表5HYDICE 真实数据协同表示算法在不同窗口尺寸下的AUC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Win</td><td colspan=\"6\">Wout</td></tr><tr><td>7</td><td>9</td><td>11</td><td>13</td><td>15</td><td>17</td></tr><tr><td>3</td><td>0.9999</td><td>0.9996</td><td>0.9996</td><td>0.9996</td><td>0.9992</td><td>0.9990</td></tr><tr><td>5</td><td>0.9999</td><td>0.9996</td><td>0.9994</td><td>0.9995</td><td>0.9986</td><td>0.9981</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表5可以看出，协同表示算法在外窗口尺寸为15、17时AUC 较小，检测精度较低。根据HYDICE 真实数据目标分布分析得出，在外窗口尺寸为15、17时，均出现了中心像元为异常像元，背景字典包含同种异常像元的情况，因此此时协同表示算法的 ACU 较小。改进协同表示算法在不同窗口尺寸下的AUC见表6。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/88ce4920435be0caed0086d6223dbbc66e9bcee844397c01be6921eff6400570.jpg",
+        "table_caption": [
+            "表6HYDICE真实数据改进协同表示算法在不同窗口尺寸下的AUC"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Win</td><td colspan=\"6\">Wout</td></tr><tr><td>7</td><td>9</td><td>11</td><td>13</td><td>15</td><td>17</td></tr><tr><td>3</td><td>0.9999</td><td>0.9996</td><td>0.9996</td><td>0.9997</td><td>0.9994</td><td>0.9993</td></tr><tr><td>5</td><td>0.9999</td><td>0.9997</td><td>0.9995</td><td>0.9994</td><td>0.9989</td><td>0.9988</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表6可以看出，在外窗口尺寸为15、17时，改进协同表示算法的AUC比协同表示算法的AUC高。在其他尺寸的双窗□下，改进协同表示算法的AUC与原算法的AUC基本相同，再一次验证了算法的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4算法的时间性能",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在检测每个像元的过程中，本文算法与原算法使用不同的对角矩阵调整背景字典原子的权重。在计算对角矩阵时，本文算法需要先计算背景字典均值再计算均值与每一个背景字典原子的欧氏距离，而原算法只需直接计算中心像元与每一个背景字典原子的欧式距离。比较了两种算法在三组数据中的运行时间，每组数据的运行时间为不同窗口尺寸下的平均运行时间，算法的运行时间见表7。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c74f659ae70de877a0ba45ba12c72dd47d9d7938998d503e7eeb1eb857fa5908.jpg",
+        "table_caption": [
+            "表7算法的运行时间/s"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">数据</td><td colspan=\"2\">算法</td></tr><tr><td>协同表示算法</td><td>改进协同表示算法</td></tr><tr><td>AVIRIS 模拟数据</td><td>66.5933</td><td>66.6398</td></tr><tr><td>AVIRIS真实数据</td><td>283.5971</td><td>283.7068</td></tr><tr><td>HYDICE真实数据</td><td>37.1110</td><td>37.1334</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表7可以看出，在三个数据中，本文算法比原算法的运行时间稍多，但两种算法的运行时间很接近。这是因为本文算法需要计算背景字典的均值，但计算均值的时间相对于整个算法的运行时间来说可以忽略不计。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种改进协同表示的高光谱图像异常检测算法。用背景字典原子与字典均值之间的距离调整背景字典原子的权重，降低异常像元的权重，同时增加背景像元的权重。在中心像元是异常像元，同时背景字典存在同种异常像元的情况下，提出的算法有效降低了背景字典中异常像元权重，提高了中心像元的输出，从而提高了检测精度。实验结果表明，在出现上述情况的窗口尺寸下，提出的算法比原算法的检测精度高；而在其他窗口尺寸下，提出的算法与原算法的检测精度基本相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Matteoli S,Diani M,Corsini G.A tutorial overview of anomaly detection in hyperspectral images [J]. IEEE Aerospace & Electronic Systems Magazine, 2010,25 (7):5-28.   \n[2]李敏，朱国康，张学武，等．基于多孔径映射的高光谱异常检测算法 [J]．测绘学报,2016,45(10):1222-1230.   \n[3]赵春晖，邓伟伟，姚淅峰．基于逐行处理的高光谱实时异常目标检测 [J]．光学学报,2017,37(1):0128002.   \n[4]贺霖，潘泉，邸韓，等．高光谱图像目标检测研究进展[J].电子学报, 2009,37(9):2016-2024.   \n[5]YuanY,WangQ,Zhu G.Fast hyperspectral anomaly detectionvia highorder 2-D crossing filter[J]. IEEE Trans on Geoscience & Remote Sensing, 2014,53(2):620-630.   \n[6]赵春晖，尤伟，齐滨，等．采用多项式递归核的高光谱遥感异常实时检 测算法[J].光学学报，2016,36(2):0228002   \n[7]Zhang Y,DuB,ZhangL,etal.Alow-rank and sparse matrix decompositionbased mahalanobis distance method for hyperspectral anomaly detection [J]. IEEE Trans on Geoscience&Remote Sensing,2016,54(3):1376-1389.   \n[8]Reed IS, Yu X.Adaptive multiple-band CFAR detection of an optical pattern with unknown spectral distribution [J].IEEE Trans on Acoustics Speech& Signal Processing,1990,38 (10): 1760-1770.   \n[9]Kwon H,Nasrabadi N M. Kernel RX-algorithm: a nonlinear anomaly detector for hyperspectral imagery[J].IEEE Trans on Geoscience& Remote Sensing,2005,43 (2):388-397.   \n[10] Banerjee A,Burlina P,Diehl C.A support vector method for anomaly detection in hyperspectralimagery[J]. IEEE Trans on Geoscience & Remote Sensing,2006,44(8): 2282-2291.   \n[11]赵春晖，李晓慧，王玉磊.高光谱图像异常目标检测研究进展[J]．电 子测量与仪器学报,2014,28(8):803-811.   \n[12] Zhou J,Kwan C,Ayhan B,etal.A novel cluster kernel RX algorithm for anomaly and change detection using hyperspectral images [J]. IEEE Trans on Geoscience & Remote Sensing,2016,54(11): 6497-6504.   \n[13] Zhao C,Yao XF, Yan Y.Modified kernel RX algorithm based on background purification and inverse-of-matrix-free calculation [J]. IEEE Geoscience & Remote Sensing Letters,2017,14(4): 544-548.   \n[14]梅锋，赵春晖，王立国，等．基于支持向量描述的自适应高光谱异常检 测算法[J]．光子学报,2009,38(11):2820-2825.   \n[15]Li W,Du Q.Collaborative representation for hyperspectral anomaly detection [J].IEEE Trans on Geoscience & Remote Sensing,2015,53 (3): 1463-1474.   \n[16]张丽丽，赵春晖，成宝芝．基于联合核协同的高光谱图像异常目标检测 [J]．光电子·激光,2015,26(11):2154-2161.   \n[17]唐意东，黄树彩，凌强，等．高光谱图像自适应核联合表示异常检测 [J].强激光与粒子束,2015,27(9):49-55. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

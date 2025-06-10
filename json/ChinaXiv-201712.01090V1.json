@@ -1,0 +1,283 @@
+[
+    {
+        "type": "text",
+        "text": "临床研究",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "解旋酶DDX41在人牙髓组织及牙髓细胞中的表达",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨小军1²,侯 晋1,²,李心竹1²，胡 娇1,2  \n南方医科大学1南方医院口腔科， $^ { 2 } \\sqsupset$ 腔医学院，广东广州 510515",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：目的研究解旋酶DDX41在人牙髓组织和细胞中的表达，为深入探讨其在龋病及牙髓病天然免疫应答过程中的作用奠定基础。方法应用逆转录-聚合酶链反应(RT-PCR）、免疫细胞化学和免疫组织化学技术对人牙髓组织和牙髓细胞中DDX41的表达和定位进行分析。结果RT-PCR结果显示DDX41mRNA在人牙髓细胞中有显著表达；免疫细胞化学和免疫组织化学染色结果显示DDX41在牙髓细胞的胞浆和胞核中皆有表达,但胞核中的表达水平较低；在牙髓组织中,DDX41主要在牙髓组织表面的成牙本质细胞的胞浆和胞核中皆有表达。结论人牙髓组织中的成牙本质细胞作为牙髓免疫的效应细胞之一,在龋病和牙髓炎的免疫反应过程中,细胞内可能存在DDX41/STING依赖的TBK1-IRF3-IFN-β信号通路的活化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：解旋酶;DDX41;牙髓组织；I型干扰素；天然免疫反应",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Expression of helicase DDX41 in human dental pulp tissues and cells ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YANGXiaojun²,HOJin²,LIXinzhu'²,HJiao, 1Departmentofomatologyangspiallefatlogytdicalsityngou ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ObjectiveTodetect the expresion ofD-E-A-D-box polypeptide 41(DDX41)inhuman dentalpulptissesand cels. Methods The mRNA and protein expresions of DDX41 in human dental pulp cells were detected by RT-PCR and immunocytochemistry，and the expression of DDX41 in human dental pulp tissues was investigated by immunohistochemistry. Results Strong expresions of DDX41 mRNA and protein were detected in dental pulpcels. In dental pulp tissues, DDX41 was expressed in the cytoplasm and nucleus of odontoblasts. Conclusion DDX41/STING-dependent TBK1-IRF3-IFN- $\\cdot \\boldsymbol { \\beta }$ signaling pathway may play a role in innate immune responses of the dental pulp to caries and pulpitis. Key words: helicase; D-E-A-D-box polypeptide 41; dental pulp; type Iinterferon; innate immune response ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "人类的口腔是一个微生物集聚的环境，其中很多的细菌，如链球菌、乳酸杆菌和放线菌等，可以利用食物中的碳水化合物发酵产酸，而这些酸性物质的长期存在则会引起牙齿硬组织的脱矿。口腔中的微生物除了能产酸引起牙体硬组织脱矿、崩解、破坏之外，其自身物质及代谢产物，如革兰氏阳性菌的脂磷壁酸(LTA）革兰氏阴性菌的脂多糖(LPS)，以及微生物的DNA、RNA等，会通过暴露的牙本质小管感染牙髓细胞，促发炎症反应，若不加以干涉，炎症进一步的发展则会引起非可逆性的牙髓炎、牙髓坏死以及根尖周疾病]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "病原微生物侵入机体后，机体通过一组可遗传的模式识别受体(pattern recognition receptors,PRRs)特异识别病原微生物在进化上高度保守的分子模式，称为病原相关的分子模式（pathogen-associated molecularpatterns,PAMPs),如脂蛋白、脂多糖、肽多糖、鞭毛蛋白以及dsRNA/ssRNA/DNA等核酸物质，进而引发天然免疫信号通路的活化，产生I型干扰素和一些炎性细胞因子[2]。目前已经研究发现的PRRs,包括Toll样受体（Toll-like receptors,TLRs）、RIG-I样受体（RIG-I likereceptors，RLRs）、NOD 样 受 体（Nod-likereceptors,NLRs)、Hin-200家族蛋白以及尚未明晰的DNA受体[2-3]所有的PRRs均具有以下特点：它们是种系编码，并在多种宿主细胞中表达;不同的PRRs仅能识别数量有限的微生物保守分子；他们所参与的免疫反应在信号级联以及宿主反应活性上存在差异；而且在不同的组织中其表达水平也不尽相同④。大多数的宿主细胞针对不同的病原体,通过表达不同的PRRs来启动相应的保护机制[4]。龋病所造成的牙体硬组织崩解破坏，使得牙髓组织暴露在口腔环境中，牙髓组织通过不同PRRs识别菌体成分，激活宿主天然免疫。目前已知所有的TLRs基因以及NLRs中的NOD2基因均在健康的牙髓组织中表达[5-7]。其中NOD2受体可识别来自革兰氏阳性细菌和革兰氏阴性细菌的肽聚糖成分[8]，而TLRs家族中的TLR1、TLR2、TLR4、TLR5和TLR6表达定位与质膜上，负责识别细菌和真菌的成分，如TLR4识别来自于革兰氏阴性菌的LPS;TLR5识别鞭毛可动菌的鞭毛蛋白；",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TLR2-TLR1负责识别三酰基脂肽，而TLR2-TRL6则负责识别来自革兰氏阳性菌的二酰基脂肽、酵母聚糖和LTA[10];TLR3、TLR7、TLR8和TLR9 则定位于细胞内的内体膜上，TLR3、TLR7和TLR8可识别病毒的RNA，而TLR9则可被来自细菌的非甲基化的胞嘧啶鸟嘌呤二核苷酸(CpG DNA)激活[9-10]。除上述的菌体成分之外，近年来的研究发现细菌所产生的第二信使信号分子，如环二核苷酸第二信使环二磷酸鸟苷(c-di-GMP)和环二磷酸腺苷(c-di-AMP)同样可以激活宿主天然免疫[],但是目前对其在宿主细胞中的功能研究才刚刚起步。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DDX41(D-E-A-D(aspartate-glutamate-alanine-aspartate)-boxpolypeptide41)是一种RNA解旋酶，属于DExD/H-box(Asp-Glu-x-Asp/His box)解旋酶超家族。最新的研究结果显示，DDX41在宿主细胞中扮演着细菌和病毒DNA感受器(DNAsensor)的角色，它可作为PRRs识别胞质内的细菌或病毒的dsDNA以及细菌产生的环二核苷酸第二信使c-di-GMP和c-di-AMP,并与下游的干扰素基因刺激因子（stimulatorofinterferongenes，STING）结合，从而激活TBK1-IRF3-IFN-β信号通路，引发I型干扰素型天然免疫信号通路的活化[1-12]。牙髓组织中除存在TLRs和NOD2之外，是否也存在着能识别细菌第二信使环二核苷酸的受体？来源于间充质的人牙髓组织和牙髓细胞中是否有DDX41的表达，及其表达定位情况如何？根据目前的文献报道尚无法得知。本研究主要探讨DDX41在人牙髓组织和牙髓细胞中的表达定位，为深入研究来源于细菌的dsDNA以及信号分子(c-di-GMP和c-di-AMP)在龋病和牙髓炎的天然免疫应答过程中的作用及其相关信号通路奠定基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料和方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1主要试剂和仪器",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "胎牛血清、DMEM培养基(Corning,USA）、I型胶原酶（Gibco,USA）、胰蛋白酶(Gibco,USA）、Trizol?(invitrogen,USA）、逆转录试剂盒(Fermentas,USA）、TaqDNA聚合酶(NEB,USA）兔抗人DDX41多克隆抗体（Abcam,UK）、Ultravisionanti-rabbit免疫组化试剂盒（ThermoFisher，USA）、Bx51正置荧光显微镜(Olympus,日本）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2牙髓细胞培养 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "临床上因正畸治疗需要，新鲜拔除，无龋坏和牙周疾病的前磨牙，立即置于含有双抗(青霉素 $1 \\times 1 0 ^ { 5 } \\mathrm { U / L }$ 链霉素 $1 0 0 \\mathrm { { m g / L } ) }$ 的DMEM培养基中,并用大量的PBS反复冲洗。将冲洗干净的牙齿纵向劈开，取出牙髓组织,剪碎,用 $3 ~ \\mathrm { m g / m l } ~ \\mathrm { I }$ 型胶原酶消化 $3 0 \\mathrm { m i n }$ ,然后将组织块均匀铺在培养瓶底部，加少许培养基(含 $10 \\%$ 胎牛血清、青霉素 $1 \\times 1 0 ^ { 5 } \\mathrm { U / L }$ 链霉素 $1 0 0 ~ \\mathrm { { m g / L } }$ 的DMEM培养液）倒置于培养箱中，于 $5 \\% \\mathrm { C O } _ { 2 } . 3 7 \\ \\mathrm { ^ { \\circ } C }$ 及饱和湿度条件下培养，待贴壁牢固后翻转培养瓶继续培养，每 $3 { \\sim } 4 \\mathrm { d }$ 换液1次，待细胞在培养皿中长满 $70 \\% { \\sim } 8 0 \\%$ 时，用$2 . 5 \\ \\mathrm { g / L }$ 胰蛋白酶消化，以1:3比例传代，取第3代细胞进行鉴定并用于实验。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3牙髓组织切片的制备",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取材方法同1.2，将牙髓组织完整取出后用 $4 \\%$ 多聚甲醛固定，乙醇梯度脱水，石蜡包埋， $5 \\mu \\mathrm { m }$ 连续切片。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4RT-PCR检测DDX41mRNA在人牙髓细胞中的表达",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取第3代牙髓细胞，Trizol@法提取细胞总RNA。按照反转录试剂盒说明书对提取的RNA进行反转录合成cDNA。根据Genebank数据库中相应的核酸序列NM_016222.2和NM_002046.4,分别设计DDX41和GAPDH的特异性引物。DDX41:F5'-GTATCCCACCACCCATCAAG-3'，R5'-CATCTGCTCTTTCACGGACA-3';GAPDH:F5'-GACAGTCAGCCGCATCTTCT-3'，R5'-AAATGAGCCCCAGCCTTCTC-3'（Lifetechnologies)。应用TaqDNA聚合酶对cDNA产物进行PCR扩增，以GAPDH作为内参照，凝胶电泳鉴定PCR产物。其产物大小分别为398bp和 $3 9 1 ~ \\mathrm { b p }$ 。PCR条件： $9 4 ~ \\mathrm { ^ { \\circ } C }$ 预变性 $5 \\operatorname* { m i n } ; 9 4 \\mathrm { ~ \\% }$ 变性 $3 0 \\mathrm { s } { : } 6 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 退火 $3 0 ~ \\mathrm { s }$ $7 2 ^ { \\circ } \\mathrm { C } 4 5 \\mathrm { s } ; 3 5$ 个循环； $7 2 \\ \\mathrm { { ^ { \\circ } C } }$ 延伸 $5 \\mathrm { { m i n } }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5免疫细胞化学检测DDX41在人牙髓细胞中的表达分布",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取第3代牙髓细胞，经胰蛋白酶消化后制备成 $1 \\times$ $1 0 ^ { 7 } / \\mathrm { L }$ 的细胞悬液，接种于预先放置有玻片的24孔板中。待细胞爬满玻片的 $5 0 \\%$ ,用PBS洗涤细胞爬片， $4 \\%$ 多聚甲醛固定。将 $30 \\%$ 过氧化氢和甲醇按 $1 { : } 5 0$ 比例混合后滴于爬片表面， $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $2 0 \\mathrm { m i n }$ ，以灭活内源性过氧化物酶。血清室温封闭 $2 0 ~ \\mathrm { m i n }$ ，滴加1:50稀释的兔抗人DDX41多克隆抗体 $4 ~ ^ { \\circ } \\mathrm { C }$ 过夜。PBS洗涤3次，每次 $3 \\mathrm { m i n }$ 。滴加羊抗兔二抗 $3 7 ^ { \\circ } \\mathrm { C }$ 孵育 $1 5 \\mathrm { m i n }$ ,PBS洗涤$3 ~ \\mathrm { m i n }$ ，共3次。加入辣根过氧化物酶标记链霉卵白素$3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $1 5 ~ \\mathrm { m i n }$ ,PBS洗涤，DAB显色，中性树胶封片，显微镜观察并照相。以PBS代替一抗或二抗做阴性对照。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6免疫组织化学检测DDX41在人牙髓组织中的表达分布",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "取1.3方法制作的标本，二甲苯脱蜡梯度水化至水，PBS洗涤;枸橡酸钠缓冲液热修复抗原，PBS洗涤;血清封闭，室温 $2 0 ~ \\mathrm { m i n }$ ，去除多余血清，勿洗;滴加1:50稀释的兔抗人DDX41多克隆抗体 $4 \\mathrm { { ^ { \\circ } C } }$ 过夜。PBS洗涤3次，每次 $3 \\mathrm { m i n }$ 。滴加羊抗兔二抗 $3 7 ~ \\mathrm { ^ { \\circ } C }$ 孵育 $1 5 \\mathrm { m i n }$ ,PBS洗涤 $3 \\mathrm { m i n }$ ，共3次。加入辣根过氧化物酶标记链霉卵白素 $3 7 \\ \\mathrm { { ^ { \\circ } C } }$ 孵育 $1 5 \\mathrm { m i n }$ ,PBS洗涤;DAB显色,苏木精复染，中性树胶封片，显微镜观察并照相。以PBS代替一抗或二抗做阴性对照，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1DDX41mRNA在人牙髓细胞中的表达",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "凝胶成像结果(图1)显示，在398bp位置出现一目的条带，与DDX41mRNA预期表达结果一致，说明牙髓细胞在mRNA水平表达DDX41。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b44c1773787b79e0db9de5fee4bf70ae9eee90137f87943f1e27e456bea87167.jpg",
+        "img_caption": [
+            "图1DDX41mRNA在人牙髓细胞中的表达 Fig.1 RT-PCR results of DDX41 mRNA in human dental pulp cells. Lane 1:100 bp DNA Ladder (NEB)；Lane 2: DDX41;Lane 3: GAPDH. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2DDX41在人牙髓细胞中的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫细胞化学染色结果(图2)显示，DDX41在人牙髓细胞的胞浆和胞核中皆有表达。在细胞的胞浆中可见到棕黄色深染颗粒；在多数细胞的胞核中也可见到少量深染的棕黄色颗粒，少数细胞的胞核中未见到染色。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "础。在核酸的代谢过程(包括复制、转录以及转运和剪接等)中，解旋酶扮演着重要的角色，其中DExD/H-box解旋酶超家族是极其重要的解旋酶家族。最新的研究结果显示，除了具有解旋酶的功能外，这个家族中的某些蛋白在机体先天性免疫应答过程中还扮演着胞浆内核酸感受器(DNA sensor)的角色，如DHX9、DHX36、DDX60及本实验的研究对象DDX41[13]。作为解旋酶，DDX41通常在细胞核中表达，如Hela细胞，但在免疫效应细胞，如髓样树突状细胞以及腺上皮细胞中，DDX41在胞核和胞浆中都有表达。胞核中的DDX41可能主要扮演解旋酶的角色，而胞浆中的DDX41则可能主要扮演DNA感受器的角色。本研究结果显示,在体外培养的牙髓细胞中，无论是mRNA水平还是蛋白水平，DDX41皆有表达。免疫细胞化学染色结果显示，DDX41在牙髓细胞的胞浆和多数细胞的胞核中表达，而在少数细胞仅有胞浆表达，未见到核表达。出现这种结果可能是因为原代培养的牙髓细胞并不是单纯的细胞群，而是一个多种细胞混杂的细胞群体，在不同的细胞中DDX41可能由于其功能差异而出现表达定位的差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "成牙本质细胞作为牙髓组织独有的免疫成分，已有研究结果显示其胞膜上存在的模式识别受体包括Toll样受体[4和NOD样受体[5]，可通过这些受体识别致病菌所产生的脂多糖、胞壁酰二肽等成分，激活机体免疫应答反应，但是有关成牙本质细胞中是否存在能识别外源性DNA的受体,迄今为止未见报道。本研究通过免疫组织化学方法检测到在牙髓组织的成牙本质细胞的胞浆和胞核中皆有DDX41的表达，尤其是在胞浆中。该结果提示DDX41在成牙本质细胞中除具有解旋酶的功能外，可能还扮演着DNA感受器的角色。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/33f2b64292662403a1322a4dbc24b9265493b1bc6723f82b217002b27ab37aec.jpg",
+        "img_caption": [
+            "图2DDX41蛋白在人牙髓细胞中的表达和定位Fig.2 Immunocytochemical staining of DDX41 in human dental pulp cells.A: SP method, $\\times 2 0 0 ;$ B: SP method, $\\times 4 0 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3DDX41在人牙髓组织中的表达",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "免疫组织化学染色结果显示，DDX41主要在牙髓组织的成牙本质细胞层中表达，在牙髓组织表面的成牙本质细胞层可看到明显的棕黄色着色(图3A)，高倍镜下观察，可在成牙本质细胞的胞浆和胞核中观察到明显的棕黄色染色，而在靠内侧的多细胞层以及牙髓深部的组织中仅在局部有极其微弱的着色(图3B)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA和RNA是生物体完成各种生理活动的基",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在体外研究中，DDX41可以通过其DEAD结构域与进入髓样树突状细胞内的dsDNA结合，同时DDX41与胞浆内接头蛋白STING结合，并且通过STING的死亡结构域激活TBK1、IRF3和NF- $\\mathbf { \\sigma } _ { \\kappa \\mathbf { B } }$ 信号通路,引发核内炎性因子的转录[11,14]。除了能识别进入胞浆中的dsDNA之外，DDX41还能识别细菌产生的环二核苷酸第二信使(c-di-GMP,c-di-AMP)[15]。环二核苷酸第二信使是细菌中广泛存在的一种保守的信号分子，它们除了在细菌的生命代谢过程中发挥重要作用外,还可作为核酸小分子引发宿主产生天然免疫反应中的I型干扰素反应[16。细菌胞体破坏所释放出的DNA以及细菌产生的c-di-GMP和c-di-AMP可被宿主细胞胞浆中的DDX41识别，并通过STING依赖的TBK1-IRF3-IFN-β信号通路，激活机体天然免疫应答,产生I型干扰素[17]。已有的研究结果表明,在口腔菌群中,变形链球菌,齿垢密螺旋体等口腔疾病的致病菌皆能产生环二核苷酸第二信使[18-19],但牙髓组织中是否存在能识别环二核苷酸的受体，并且这种信号分子在牙体牙髓疾病中所扮演的角色目前还不清楚。本研究结果显示，DDX41主要在牙髓组织的成牙本质细胞的胞浆和胞核中表达，而且我们在前期的实验中检测到STING在人牙髓的成牙本质细胞中也有明显表达[20],说明牙髓组织中的成牙本质细胞可能具有识别细菌dsDNA和环二核苷酸信号分子的功能。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13276e99590485375cfec01fdf7dc20ece29ab63bb559c3c1aa1f410a25b8c1.jpg",
+        "img_caption": [
+            "图3DDX41蛋白在人牙髓组织中的表达和定位Fig.3 Immunohistochemical staining of DDX41 in human dental pulp.A: SP method, $\\times 2 0 0$ B:SPmethod, $\\times 4 0 0$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据本研究和前期研究的结果，我们推测在深和牙髓炎的发展过程中，坏死细菌释放出的DNA以及细菌产生的环二核苷酸信号分子可被成牙本质细胞识别，有可能通过DDX41/STING激活的TBK1-IRF3-IFN- $\\boldsymbol { \\cdot } \\boldsymbol { \\beta }$ 信号通路激活机体先天免疫反应，但其确切的信号转导机制及其在牙髓疾病中的作用还有待于进一步研究。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]Love RM,Jenkinson HF. Invasion of dentinal tubules by oral bacteria[J].Crit Rev Oral Biol Med,2002,13(2):171-83.   \n[2] Takeuchi O,Akira S.Pattern recognition receptors and inflammation [J].Cell,2010,140(6): 805-20.   \n[3]Kawai T,Akira S.Toll-like receptors and their crosstalk with other innate receptors in infection and immunity[J]. Immunity,2O11,34 (5):637-50.   \n[4]Staquet MJ,Carrouel F,Keller JF,et al.Pattern-recognition receptors in pulp defense[J].Adv Dent Res,2011,23(3): 296-301.   \n[5]Farges JC,Keller JF,Carrouel F,et al.Odontoblasts in the dental pulp immune response[J].JExp Zool B Mol Dev Evol, 2009,312B (5): 425-36.   \n[6]Hirao K,Yumoto H, Takahashi K,et al. Roles of TLR2,TLR4, NOD2,and NOD1 in pulp fibroblasts[J].JDent Res,2009,88(8): 762-7.   \n[7]Keller JF,Carrouel F, Staquet MJ,et al. Expression of NOD2 is increased in inflamed human dental pulpsand lipoteichoic acid-stimulated odontoblast-like cells[J]. Innate Immun,2011,17 (1): 29-34.   \n[8]Chen G, Shaw MH, Kim YG,et al. NOD-like receptors: role in innate immunity and inflammatory disease[J].Annu Rev Pathol, 2009,4: 365-98.   \n[9]Kumar H,Kawai T,Akira S. Pathogen recognition in the innate immune system[J]. Int Rev Immunol,2011,30(1):16-34.   \n[10]Giirtler C,Bowie AG. Innate immune detection of microbial nucleic acids[J].Trends Microbiol,2013,21(8): 413-20.   \n[11]Irion U,Leptin M, Siller K,et al.Abstrakt,a DEAD box protein, regulates Insc levels and asymmetric division of neural and mesodermal progenitors[J].Curr Biol,2004,14(2): 138-44.   \n[12]张亚楠,姜 华,王艳丽,等.DExD/H-box类RNA解旋酶的结构与功 能[J].生命的化学,2013,33(3):331-7.   \n[13]Fairman-Williams ME,Guenther UP,Jankowsky E. SF1 and SF2 helicases: family matters[J].Curr Opin Struct Biol,2010,20(3): 313-24.   \n[14] Paludan SR,Bowie AG. Immune sensing of DNA[J]. Immunity, 2013,38(5): 870-80.   \n[15] Zhang Z,Yuan B,Bao M,et al. The helicase DDX41 senses intracellular DNA mediated by the adaptor Sting in dendritic cells [J]. Nat Immunol, 2011,12(10): 959-65.   \n[16]Woodward JJ, Iavarone AT,Portnoy DA．c-di-AMP secreted by intracellular listeria monocytogenesactivatesa host type I interferon response[J]. Science,2010,328(5986): 1703-5.   \n[17]Parvatiyar K, Zhang Z,Teles RM,et al.The helicase DDX41 recognizes the bacterial secondary messengers cyclic di-GMP and cyclic di-AMP to activate a type I interferon immune response[J]. Nat Immunol,2012,13(12): 1155-61.   \n[18]Yan W,Qu T, Zhao H,et al. The effect of c-di-GMP (3'-5'-cyclic diguanylic acid）on the biofilm formation and adherence of Streptococcus mutans[J].Microbiol Res,2010,165(2): 87-96.   \n[19]Frederick JR,Sarkar J,Mcdowell JV,et al. Molecular signaling mechanisms of the periopathogen, Treponema denticola[J].J Dent Res,2011,90(10): 1155-63.   \n[20]侯 晋,杨小军,胡 娇,等.干扰素刺激基因在人牙髓组织及牙髓细胞 中表达的研究[J].牙体牙髓牙周病学杂志,2014,33(9):501-4. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(编辑：黄开颜）",
+        "page_idx": 3
+    }
+]

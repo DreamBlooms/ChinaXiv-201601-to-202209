@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "农牧交错带不同利用方式土壤粒径分布特征以呼和浩特市武川县为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "付东升¹，任晓萌²，王燕玲³，张翠英4，蒙仲举1  \n(1.内蒙古农业大学沙漠治理学院,内蒙古 呼和浩特010018；2.内蒙古自治区气象科学研究所，  \n内蒙古 呼和浩特010051；3.锡林郭勒盟水利局水利事业发展中心,内蒙古 锡林浩特026099;4.内蒙古乌兰察布市四子王旗吉生太镇，内蒙古 乌兰察布 011826)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以呼和浩特市武川县不同农田和天然草地为研究对象,采用野外原位监测和室内试验结合的方法,对典型小麦留茬地、葵花留茬地、翻耕地、退耕地4种农田土壤进行研究,并通过分析平均粒径、标准差、偏度、峰度,对不同利用方式下土地抗风蚀能力进行探讨。研究结果表明：(1）研究区土壤以细砂、极细砂和粉粒为主，占比达 $8 0 \\%$ ，$8 5 \\%$ 。(2）土壤粒度组成由细到粗为：翻耕 $\\mathrm { 1 ~ a > }$ 天然草地 $>$ 翻耕边坡 $>$ 小麦留茬 $>$ 翻耕 $1 5 ~ \\mathrm { a } >$ 退耕 $5 \\mathrm { a } >$ 葵花留茬,沙粒平均粒径为2.12\\~2.61。（3）各层土壤分选性较差,偏度均表现为正偏且近于对称，峰度属于宽平态。土壤易风蚀颗粒粒径范围在 $2 0 0 { \\sim } 4 0 0 ~ \\mu \\mathrm { m } _ { \\circ }$ (4）与天然草地相比,农田垦殖利用导致土壤粒径分布范围扩大,粒径整体趋于粗粒化。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农牧交错带；农田；土壤粒径；耕作方式；武川县",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "内蒙古阴山北麓是我国最具代表性的半干旱半湿润过渡带之一[],其荒漠化发展最快、生态环境最为脆弱，该区同时也是我国中东部地区的“生态屏障”[2],具有生态和生产的双重功能[3]。而近半个世纪以来，该区域\"重农轻牧”、“重生产轻生态\"[4]，加之该区域气候干旱、水资源短缺、秋冬时期正值大风季节，原始的耕作方式使表层土壤疏松，土壤被风蚀破坏，使地表耕层变薄，养分流失，土壤肥力大大降低[5-6,长期水土流失造成巨大的生态破坏和经济损失，使得该区域成了典型的风蚀荒漠化区[7]。武川县地处内蒙古阴山北麓农牧交错带中部，是荒漠化发展最快、生境最为脆弱，属于典型的风蚀沙化区，南部为山区；中部为高原区，农牧业相互重叠(农业为主)，风蚀严重;北部为天然草地，农牧混合（牧业为主)，草地退化明显。由于该区域长期采用传统耕作方法，许多农田处于中强度风蚀，严重制约区域可持续发展。近些年来，国家实施的一系列退耕(牧)还林(草)政策对农牧交错带生态恢复产",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生了深远影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "粒径作为土壤的一个稳定的自然属性[8-11],在判断土壤可蚀性[12-13]、反映风沙环境变化[14-17]、决定风蚀强度[18]、确认土地荒漠化程度[19]等方面都有着重要的地位，还可以间接表征复杂环境中土壤的变化过程[20],反映土壤侵蚀的现状[21-23]。土壤风蚀的过程最主要是土壤中的细小颗粒被风逐渐吹蚀沙化的过程[24-25]。不同的耕作方式导致地表覆盖度和粗糙度出现了明显的差异,进而影响土壤粒级分布[26-27]。邱捷等28研究发现，不同土地利用类型间分形维数存在显著差异，与各粒径级颗粒之间均呈显著相关关系。崔晓2研究表明，春翻留茬 $1 0 \\ \\mathrm { c m }$ 覆盖和春翻还田措施可改善土壤部分物理性质，在一定程度上减小农田的土壤风蚀。风季后土壤黏粒和粉粒含量较风季前增加较为明显，最高增加 $1 0 \\%$ 以上。王少博等[21]指出在长期实施保护性耕作措施下，免耕秸秆还田对比翻耕农田明显增加了土壤黏粒含量，土壤结构稳定性得到增强，深松秸秆还田使土壤的均匀性变差。因此，利用土壤粒度组成评价区域农田土壤风蚀和土地退化程度，反映不同耕作方式下土壤风蚀的差异是可行的[30]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "鉴于此，本研究基于武川县农牧试验区，以不同耕作方式下农田土壤为研究对象，天然草地为对照实验，分析粒度参数和粒度频率曲线在不同耕作方式下的变化规律，旨在确定阴山北麓武川县农牧交错带适宜的耕作模式，为该地区耕作农田土壤的改善治理以及农业的可持续发展提供有参考价值的理论、实践依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于希拉穆仁草原向呼和浩特市过渡区域,地理坐标为 $1 1 0 ^ { \\circ } 3 1 ^ { \\prime } { \\sim } 1 1 1 ^ { \\circ } 5 3 ^ { \\prime } \\mathrm { E } . 4 0 ^ { \\circ } 4 7 ^ { \\prime } { \\sim } 4 1 ^ { \\circ } 2 3 ^ { \\prime } \\mathrm { N }$ 属中温带大陆性季风气候，日照充足，昼夜温差大，冬季长，夏季短且全年都处在一个凉爽的环境，降水主要集中在6一9月，年平均降水量 $3 0 0 \\mathrm { m m }$ ，风沙活动频繁。正北风和西北风为该地区主风向，年均风速为 $4 . 5 \\ \\mathrm { m \\cdot s ^ { - 1 } }$ 左右，年大风日数为65d左右[31],大多在春季。土壤主要以栗钙土、灰褐土、石质土为主，多孔性、结构性差，有机质含量低于 $2 \\%$ 。天然植被组成结构简单，主要以冷蒿(Artemisiafrigida）沙生针茅（Stipaglareosa）大针茅（Stipa grandis）克氏针茅(Stipa krylouii)等草本植物为主,适宜栽培一年一熟小日期农作物，主要旱作农作物为马铃薯(Solanum tuberosum）,莜麦(Avena chinensis)和荞麦(Fagopyrum esculentum)[32]。该区为典型农牧交错带,土地利用类型多样且侵蚀严重，包括有不同年限翻耕种植作物、天然草地、弃耕擢荒样地。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1样地选取与样品采集基于相似可比原则，研究区地势平坦，东西走向，由北向南依次为：天然草地(CK）、小麦翻耕1a、小麦留茬、小麦翻耕 $1 5 \\mathrm { ~ a ~ }$ 、葵花留茬样地以及退耕 $5 \\mathrm { ~ a ~ }$ ，各样地之间无明显边界，考虑到边际效应，于2020年10月中旬，分别在各样地中部采样，其中在小麦翻耕1a与天然草地边界裸露剖面增加样点，每样点重复3次，分别采集 $0 \\sim$ $5 \\mathrm { \\ c m \\ } . 5 { \\sim } 1 0 \\mathrm { \\ c m \\ } . 1 0 { \\sim } 2 0 \\mathrm { \\ c m \\ } . 2 0 { \\sim } 3 0 \\mathrm { \\ c m }$ 深度土层土样，将取回的土样在实验室铺开，自然风干后，采用激光粒度仪分析Mastersizer3000测定土层粒度组成。研究样地基本情况如表1、图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2土样指标测定去除根系、调落物等杂质后，过 $2 ~ \\mathrm { m m }$ 筛，加入 $3 0 \\%$ 体积分数的 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 去除土壤中的有机质;加入 $1 0 \\%$ 体积分数的HCI溶液煮沸去除土壤中的碳酸盐;加入稀释液离子水静置 $1 2 \\mathrm { h }$ ,去除上清液，重复稀释至 $\\mathrm { \\ p H }$ 值在 $6 . 5 \\sim 7 . 0$ 之间；土壤粒径体积分数采用激光粒度分析仪测定。在本实验中，根据美国制分级标准将土壤粒径分为：黏粒( $\\mathit { \\Theta } _ { < }$ $0 . 0 0 2 ~ \\mathrm { m m }$ ）、粉粒 $( 0 . 0 0 2 { \\sim } 0 . 0 0 5 ~ \\mathrm { m m }$ 、极细砂 $( 0 . 0 0 5 \\sim$ $0 . 0 1 \\ \\mathrm { m m } \\cdot$ 、细砂 $( 0 . 0 1 { \\sim } 0 . 2 5 \\ \\mathrm { m m }$ ）、中砂（0.25\\~0.5$\\mathbf { m } \\mathbf { m }$ ）、粗砂 $( 0 . 5 { \\sim } 1 . 0 ~ \\mathrm { m m }$ ）、极粗砂（ $\\mathrm { 1 . 0 { \\sim } 2 . 0 ~ m m }$ 共7级。计算对应的累积体积分数为 $5 \\% , 1 6 \\% , 2 5 \\% .$ $5 0 \\% . 7 5 \\% . 8 4 \\% . 9 5 \\%$ 的土壤粒径用以计算粒度参数。用到的粒度参数模型如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用伍登（1889年） $\\_$ 温德华(1922年)粒级标准，根据克鲁宾(1934年)对数转化法计算 $\\phi$ 值，公式如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi \\mathrm { = } - \\mathrm { l o g } _ { 2 } d\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $d$ 为土壤颗粒粒径( $( \\mathrm { m m } )$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\phi _ { 5 } \\ 、 \\phi _ { 1 6 } \\ 、 \\phi _ { 2 5 } \\ 、 \\phi _ { 5 0 } \\ 、 \\phi _ { 7 5 } \\ 、 \\phi _ { 8 4 } \\ 、 \\phi _ { 9 5 }$ 是克伦拜因（1957年)和福克(1955年)根据累积频率分布曲线的累积百分比，分别为 $5 \\%$ 、 $1 6 \\%$ ） $2 5 \\%$ 、 $5 0 \\%$ ） $7 5 \\%$ 、 $8 4 \\%$ /$9 5 \\%$ 对应的粒度进行对数转化所取得的值，据此计算粒度特征参数，公式如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "平均粒径 $( d _ { 0 } )$ ：反映土壤粒度平均状况的参",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1试验地点的地类概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4276d48aab6ffee0f9da746c2124bb4fff404a294d2ca6e8c30a2393a61ebd7d.jpg",
+        "table_caption": [
+            "Tab.1 Overview of the experimental site "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>样地类别</td><td>地类及地表情况</td></tr><tr><td>翻耕地</td><td>分为1a、15a翻耕地,垄向东西走向,垄向与主风向30夹角</td></tr><tr><td>小麦留茬地</td><td>留茬方向东西向，留茬高度25cm，盖度75%左右，地上秸秆较多</td></tr><tr><td>葵花留茬地</td><td>留茬方向东西向，留茬高度90cm，盖度20%左右，地上无秸秆</td></tr><tr><td>翻耕边坡</td><td>天然草地与新开垦农田交汇处出现的剖面，约50cm高，无植被覆盖</td></tr><tr><td>退耕地</td><td>地表有大量草本植物，平均高度10cm，有少量砾石，退耕5~6a,有放牧</td></tr><tr><td>天然草地(CK)</td><td>具有针茅等草本植物生长,平均高15cm</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/733f5023e6a99cf1ad78f294c732a74d947ddd32ef6a458aa35bfcfad2b77c86.jpg",
+        "img_caption": [
+            "图1观测地类",
+            "Fig.1 Observational soil classes "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数。计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\scriptscriptstyle 0 } = \\frac { 1 } { 3 } ( \\phi _ { \\scriptscriptstyle 1 6 } + \\phi _ { \\scriptscriptstyle 5 \\scriptscriptstyle 0 } + \\phi _ { \\scriptscriptstyle 8 4 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "标准偏差 $\\left( \\sigma _ { 0 } \\right)$ ：反映土壤粒径分布的分散程度，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { \\scriptscriptstyle 0 } = \\frac { 1 } { 4 } ( \\varPhi _ { \\scriptscriptstyle 8 4 } - \\varPhi _ { \\scriptscriptstyle 1 6 } ) + \\frac { 1 } { 6 . 6 } ( \\varPhi _ { \\scriptscriptstyle 9 5 } - \\varPhi _ { \\scriptscriptstyle 5 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "偏度 $( S _ { 0 } )$ ：反映了土壤粒度分布的对称性，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS _ { \\circ } = \\frac { \\varPhi _ { _ { 1 6 } } + \\varPhi _ { _ { 8 4 } } - \\varPhi _ { _ { 5 0 } } } { 2 ( \\varPhi _ { \\mathrm { 8 4 } } - \\varPhi _ { _ { 1 6 } } ) } + \\frac { \\varPhi _ { 5 } + \\varPhi _ { _ { 9 5 } } - \\varPhi _ { 5 0 } } { 2 ( \\varPhi _ { 9 5 } - \\varPhi _ { 5 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "峰度 $( K _ { 0 } )$ ：反映土壤粒度集中程度，计算公式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\scriptscriptstyle 0 } = \\frac { \\varPhi _ { \\scriptscriptstyle 9 5 } - \\varPhi _ { \\scriptscriptstyle 5 } } { 2 . 4 4 ( \\varPhi _ { \\scriptscriptstyle 7 5 } - \\varPhi _ { \\scriptscriptstyle 2 5 } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "具体分级标准如表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1不同耕作方式下土壤粒度组成与粒径分布特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤颗粒作为土壤组成中不可或缺的一部分，伴随着作物的生长，在土壤演替过程中，起着极其重要的作用[33-35]。由表3可知， $0 { \\sim } 5 ~ \\mathrm { c m }$ 表层土壤粒度组成以砂粒和粉粒为主，黏粒含量极低，其体积百分含量在 $2 . 0 4 \\% { \\sim } 3 . 3 6 \\%$ ,粉粒体积百分含量变化范围在 $2 2 . 2 6 \\% { \\sim } 3 2 . 6 3 \\%$ ;砂粒中，粒径为 $0 . 1 { \\sim } 0 . 2 5$ $\\mathbf { m } \\mathbf { m }$ 的细砂粒最多，其体积百分含量平均为 $3 5 . 3 \\%$ ，其次是极细砂，中砂和较少粗砂。在各样地5\\~10cm土层深度中，不同耕作方式下的农田土壤粒径变化很大，以砂粒和粉粒为主，其中细砂粒最多，体积百分含量平均为 $3 2 . 9 5 \\%$ ，在 $2 5 . 8 1 \\% { \\sim } 3 7 . 1 1 \\%$ 之间变",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8feb0a3c23d356074263f96556249eb4986a6f57ae0d72f39dfa3e18d652dbd.jpg",
+        "table_caption": [
+            "表2粒度参数分级标准",
+            "Tab.2 Classification standards of particle size parameters "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">标准偏差σo</td><td colspan=\"2\">偏度So</td><td colspan=\"2\">峰度K0</td></tr><tr><td>分选级别</td><td>取值范围</td><td>偏度等级</td><td>取值范围</td><td>峰度等级</td><td>取值范围</td></tr><tr><td>分选极好</td><td>00≤0.35</td><td>极负偏</td><td>-1.0≤So≤-0.3</td><td>很宽平</td><td>K0≤0.67</td></tr><tr><td>分选好</td><td>0.35<σ0≤0.50</td><td>负偏</td><td>-0.3≤S≤-0.1</td><td>宽平</td><td>0.67<K≤0.90</td></tr><tr><td>分选较好</td><td>0.50<σ≤0.71</td><td>近于对称</td><td>-0.1≤So≤0.1</td><td>中等</td><td>0.90<K0≤1.11</td></tr><tr><td>分选中等</td><td>0.71<0≤1.00</td><td>正偏</td><td>0.1≤S≤0.3</td><td>尖窄</td><td>1.11<K≤1.56</td></tr><tr><td>分选较差</td><td>1.00<0≤2.00</td><td>极正偏</td><td>0.3≤S≤1.0</td><td>很尖窄</td><td>1.56<K≤3.00</td></tr><tr><td>分选差</td><td>2.00<0≤4.00</td><td></td><td></td><td>极尖窄</td><td>K>3.00</td></tr><tr><td>分选极差</td><td>90>4.00</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3不同耕作方式下 $\\mathbf { 0 } { \\sim } 3 \\mathbf { 0 } ~ \\mathbf { c m }$ 土壤粒度分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fbc568a63ff001b54ce271fa33347777a9f04eaa66a14a8d2b8533ea8c42404.jpg",
+        "table_caption": [
+            "Tab.3 Distribution of soil grain size in $\\mathbf { 0 - 3 0 ~ c m }$ under different tillage methods "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示同一土层不同耕作方式下土壤各粒度组成之间差异显著 $\\scriptstyle ( P < 0 . 0 5 )$ 。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">土层深度/cm</td><td rowspan=\"3\">样地</td><td colspan=\"6\">土壤粒度分级/%</td></tr><tr><td>粗砂粒</td><td>中砂粒</td><td>细砂粒</td><td>极细砂粒</td><td>粉粒</td><td>黏粒</td></tr><tr><td>1000~500 μm</td><td>500~250 μm</td><td>250~100 μm</td><td>100~50 μm</td><td>50~2 μm</td><td><2 μm</td></tr><tr><td>0~5</td><td>天然草地</td><td>1.36±0.03bc</td><td>11.23±0.26bc</td><td>34.78±0.36cd</td><td>25.43±0.61a</td><td>25.16±0.54c</td><td>2.04±0.01e</td></tr><tr><td></td><td>翻耕边坡</td><td>1.26±0.04bcd</td><td>10.51±0.32c</td><td>32.92±0.61d</td><td>24.52±0.52a</td><td>28.15±0.60b</td><td>2.64±0.18bc</td></tr><tr><td></td><td>翻耕1a</td><td>1.37±0.05bc</td><td>10.76±0.28bc</td><td>30.63±0.33e</td><td>21.50±0.36bc</td><td>32.39±1.01a</td><td>3.35±0.18a</td></tr><tr><td></td><td>翻耕15a</td><td>1.95±0.03b</td><td>14.24±0.49a</td><td>36.85±1.10abc</td><td>20.83±0.31c</td><td>23.57±0.19cd</td><td>2.55±0.11bcd</td></tr><tr><td></td><td>小麦留茬</td><td>0.60±0.07d</td><td>10.37±0.38c</td><td>37.49±0.78ab</td><td>25.76±0.52a</td><td>23.66±0.53cd</td><td>2.11±0.00de</td></tr><tr><td></td><td>葵花留茬</td><td>0.82±0.10cd</td><td>12.21±0.82b</td><td>38.51±0.62a</td><td>22.82±0.42b</td><td>22.80±0.70d</td><td>2.85±0.05b</td></tr><tr><td></td><td>退耕5a</td><td>3.01±0.56a</td><td>13.85±0.46a</td><td>35.45±0.52bc</td><td>21.86±0.06bc</td><td>23.55±0.63cd</td><td>2.28±0.29cde</td></tr><tr><td>5~10</td><td>天然草地</td><td>1.73±0.12b</td><td>15.33±0.46a</td><td>34.14±0.33b</td><td>18.52±0.65d</td><td>27.29±0.63c</td><td>2.99±0.45bc</td></tr><tr><td></td><td>翻耕边坡</td><td>1.13±0.06c</td><td>11.80±0.48b</td><td>35.23±0.64b</td><td>22.31±0.36b</td><td>26.81±0.65c</td><td>2.72±0.06bc</td></tr><tr><td></td><td>翻耕1a</td><td>1.44±0.04bc</td><td>10.60±0.35c</td><td>30.59±0.81c</td><td>20.39±0.72c</td><td>33.77±0.28b</td><td>3.21±0.12b</td></tr><tr><td></td><td>翻耕15a</td><td>1.40±0.08bc</td><td>11.48±0.34bc</td><td>34.43±0.57b</td><td>24.24±0.66a</td><td>25.80±0.32c</td><td>2.64±0.11bc</td></tr><tr><td></td><td>小麦留茬</td><td>2.73±0.30a</td><td>12.38±0.12b</td><td>25.68±0.34d</td><td>17.61±0.12d</td><td>37.28±0.12a</td><td>4.33±0.04a</td></tr><tr><td></td><td>葵花留茬</td><td>1.83±0.08b</td><td>12.48±0.31b</td><td>33.64±0.22b</td><td>22.08±0.07bc</td><td>26.69±0.21c</td><td>3.28±0.44b</td></tr><tr><td></td><td>退耕5a</td><td>2.32±0.20a</td><td>15.80±0.34a</td><td>37.31±0.32a</td><td>20.71±0.77bc</td><td>21.58±1.50d</td><td>2.27±0.03c</td></tr><tr><td>10~20</td><td>天然草地</td><td>1.33±0.06bc</td><td>10.48±0.07c</td><td>29.58±0.37d</td><td>21.29±0.03cd</td><td>34.76±0.27a</td><td>2.56±0.01bc</td></tr><tr><td></td><td>翻耕边坡</td><td>1.34±0.04bc</td><td>10.48±0.34c</td><td>32.65±0.41c</td><td>24.66±0.76a</td><td>28.05±0.44bc</td><td>2.82±0.18ab</td></tr><tr><td></td><td>翻耕1a</td><td>0.79±0.04c</td><td>12.19±0.49bc</td><td>36.45±0.29b</td><td>22.57±0.28bc</td><td>25.64±0.43c</td><td>2.36±0.07bcd</td></tr><tr><td></td><td>翻耕15a</td><td>1.19±0.08bc</td><td>12.08±0.16bc</td><td>32.56±0.51c</td><td>21.33±0.44cd</td><td>29.60±0.19b</td><td>3.24±0.12a</td></tr><tr><td></td><td>小麦留茬</td><td>1.22±0.22bc</td><td>12.94±1.78bc</td><td>38.83±0.92a</td><td>24.03±0.89ab</td><td>21.17±1.99d</td><td>1.81±0.01d</td></tr><tr><td></td><td>葵花留茬</td><td>2.28±0.17a</td><td>15.69±0.41a</td><td>37.11±0.14b</td><td>20.91±0.43cd</td><td>21.80±0.72d</td><td>2.21±0.12cd</td></tr><tr><td></td><td>退耕5a</td><td>1.56±0.33b</td><td>13.39±0.84ab</td><td>35.67±0.45b</td><td>20.51±0.55d</td><td>26.66±0.12c</td><td>2.21±0.38cd</td></tr><tr><td>20~30</td><td>天然草地</td><td>1.24±0.09b</td><td>12.26±0.72a</td><td>32.15±0.54d</td><td>17.37±0.62c</td><td>34.34±0.97a</td><td>2.64±0.56a</td></tr><tr><td></td><td>翻耕边坡</td><td>1.33±0.05b</td><td>11.08±0.14ab</td><td>34.49±0.58bc</td><td>23.17±0.49ab</td><td>26.84±0.94c</td><td>3.10±0.22a</td></tr><tr><td></td><td>翻耕1a</td><td>0.64±0.04c</td><td>10.01±0.18b</td><td>32.79±0.68cd</td><td>22.33±0.66b</td><td>31.26±0.34b</td><td>2.96±0.10a</td></tr><tr><td></td><td>翻耕15a</td><td>1.76±0.04a</td><td>12.59±0.54a</td><td>36.17±0.55b</td><td>22.38±0.54b</td><td>24.52±0.72cd</td><td>2.59±0.11a</td></tr><tr><td></td><td>小麦留茬</td><td>0.73±0.06c</td><td>11.76±0.69ab</td><td>40.39±1.12a</td><td>24.20±0.25a</td><td>21.11±0.80e</td><td>1.82±0.02b</td></tr><tr><td></td><td>葵花留茬</td><td>1.41±0.10b</td><td>12.49±1.19a</td><td>38.82±0.54a</td><td>22.16±0.21b</td><td>22.54±0.50de</td><td>2.57±0.06a</td></tr><tr><td></td><td>退耕5a</td><td>0.71±0.07c</td><td>8.02±0.20c</td><td>29.50±0.36e</td><td>22.78±0.47ab</td><td>36.18±0.93a</td><td>2.81±0.08a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "动；粉粒平均体积百分含量为 $2 8 . 4 4 \\%$ ，在 $2 1 . 5 8 \\%$ 2$3 7 . 2 8 \\%$ 之间变动。黏粒含量整体相比较上一层整体出现了小幅度的增加，平均体积百分含量增加了$0 . 4 \\%$ 。其中小麦留茬地粉粒含量比同层葵花留茬地多 $1 0 . 5 9 \\%$ ，较表层多 $1 3 . 6 5 \\%$ 。退耕5a粗砂粒含量为 $2 . 7 1 \\%$ ,高于其他各类样地,相比较天然草地高出 $0 . 9 \\%$ 。在不同耕作方式下农田各样地 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层深度中，土壤颗粒各粒径含量相比上一层(5\\~$1 0 \\mathrm { c m } .$ )趋于均匀，总体上颗粒物要比上一层的粗化，其粒径变粗。该土壤深度中粉粒含量明显减少，在天然草地中占 $3 4 . 4 3 ~ \\%$ ,在翻耕 $1 5 \\mathrm { ~ a ~ }$ 农田中占$2 9 . 3 7 \\%$ ，但在小麦留茬地中约占 $2 1 . 8 8 \\%$ 。退耕5a中粉粒含量 $2 6 . 6 4 \\%$ 相比翻耕1a农田高出 $0 . 8 8 \\%$ ，低于翻耕15a农田 $2 . 7 3 \\%$ 。 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层中，留茬地粉粒平均体积百分含量比退耕5a低 $1 4 . 5 4 \\%$ 。同时，退耕5a砂粒含量整体也低于其他耕地，其中细砂粒含量占比 $2 9 . 7 9 \\%$ ,粗砂粒仅约占 $0 . 7 5 \\%$ ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2不同耕作方式下土壤粒度参数特征",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "平均粒径表征土壤粒度的平均分布情况，颗粒的平均粗细大小，代表着搬运作用营力的平均动能，颗粒大小反映土壤发育程度和物质来源。由表4可知，农田土表层 $0 { \\sim } 5 ~ \\mathrm { c m }$ 中，各样地间平均粒径差别不大，范围在2.21\\~2.50;其中翻耕 $\\mathrm { ~ 1 ~ a > ~ }$ 翻耕边坡 $>$ 天然草地 $>$ 留茬地 $>$ 退耕 $5 \\mathrm { a } >$ 翻耕 $1 5 \\mathrm { a }$ ；在 $5 \\sim$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ec76e77269ad0fd714bd8d3e28388eb071a5f0aa89d52eee7c06bd01003c1a52.jpg",
+        "table_caption": [
+            "表4同一土层不同耕作方式下土壤粒度参数特征",
+            "Tab.4 Characteristics of soil grain size parameters under different tillage methods in the same soil layer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>土层深度/cm</td><td>样地</td><td>平均粒径do(Φ)</td><td>标准偏差σ</td><td>偏度So</td><td>峰度Ko</td></tr><tr><td>0~5</td><td>天然草地</td><td>2.33±0.01c</td><td>1.26±0.00b</td><td>0.15±0.01b</td><td>0.78±0.01a</td></tr><tr><td></td><td>翻耕边坡</td><td>2.42±0.01b</td><td>1.27±0.01b</td><td>0.08±0.01c</td><td>0.75±0.01a</td></tr><tr><td></td><td>翻耕1a</td><td>2.50±0.02a</td><td>1.30±0.00a</td><td>0.00±0.02d</td><td>0.72±0.00b</td></tr><tr><td></td><td>翻耕15a</td><td>2.21±0.00de</td><td>1.30±0.01a</td><td>0.23±0.01a</td><td>0.77±0.00c</td></tr><tr><td></td><td>小麦留茬</td><td>2.31±0.02c</td><td>1.23±0.00c</td><td>0.20±0.01b</td><td>0.78±0.00a</td></tr><tr><td></td><td>葵花留茬</td><td>2.24±0.02d</td><td>1.26±0.01b</td><td>0.25±0.01a</td><td>0.79±0.00a</td></tr><tr><td></td><td>退耕5a</td><td>2.22±0.02e</td><td>1.29±0.02a</td><td>0.23±0.01a</td><td>0.78±0.01a</td></tr><tr><td>5~10</td><td>天然草地</td><td>2.26±0.02d</td><td>1.33±0.01b</td><td>0.15±0.01ab</td><td>0.73±0.01a</td></tr><tr><td></td><td>翻耕边坡</td><td>2.33±0.01c</td><td>1.28±0.01d</td><td>0.08±0.01bc</td><td>0.75±0.02a</td></tr><tr><td></td><td>翻耕1a</td><td>2.52±0.03b</td><td>1.30±0.00c</td><td>0.00±0.03d</td><td>0.72±0.04a</td></tr><tr><td></td><td>翻耕15a</td><td>2.33±0.01c</td><td>1.27±0.01d</td><td>0.23±0.02c</td><td>0.77±0.01a</td></tr><tr><td></td><td>小麦留茬</td><td>2.58±0.00a</td><td>1.37±0.01a</td><td>0.20±0.01ab</td><td>0.71±0.02a</td></tr><tr><td></td><td>葵花留茬</td><td>2.33±0.01c</td><td>1.30±0.00c</td><td>0.25±0.00a</td><td>0.75±0.02a</td></tr><tr><td></td><td>退耕5a</td><td>2.12±0.03e</td><td>1.33±0.01c</td><td>0.23±0.00a</td><td>0.80±0.01a</td></tr><tr><td>10~20</td><td>天然草地</td><td>2.53±0.01a</td><td>1.29±0.00b</td><td>-0.05±0.01c</td><td>0.72±0.00b</td></tr><tr><td></td><td>翻耕边坡</td><td>2.33±0.02b</td><td>1.28±0.01c</td><td>0.18±0.02b</td><td>0.75±0.00b</td></tr><tr><td></td><td>翻耕1a</td><td>2.31±0.01c</td><td>1.26±0.00c</td><td>0.22±0.00a</td><td>0.75±0.00b</td></tr><tr><td></td><td>翻耕15a</td><td>2.41±0.01b</td><td>1.30±0.00ab</td><td>0.10±0.01b</td><td>0.73±0.00b</td></tr><tr><td></td><td>小麦留茬</td><td>2.22±0.07cd</td><td>1.24±0.01d</td><td>0.25±0.02a</td><td>0.80±0.03a</td></tr><tr><td></td><td>葵花留茬</td><td>2.14±0.02d</td><td>1.31±0.00a</td><td>0.23±0.01a</td><td>0.80±0.01a</td></tr><tr><td></td><td>退耕5a</td><td>2.28±0.03c</td><td>1.31±0.01ab</td><td>0.22±0.00a</td><td>0.74±0.00b</td></tr><tr><td>20~30</td><td>天然草地</td><td>2.47±0.04b</td><td>1.31±0.00a</td><td>0.01±0.04c</td><td>0.70±0.00d</td></tr><tr><td></td><td>翻耕边坡</td><td>2.39±0.02c</td><td>1.28±0.01bc</td><td>0.13±0.02b</td><td>0.75±0.01c</td></tr><tr><td></td><td>翻耕1a</td><td>2.48±0.01b</td><td>1.27±0.00bc</td><td>0.05±0.01c</td><td>0.72±0.00d</td></tr><tr><td></td><td>翻耕15a</td><td>2.26±0.00d</td><td>1.28±0.01b</td><td>0.22±0.00a</td><td>0.77±0.01bc</td></tr><tr><td></td><td>小麦留茬</td><td>2.20±0.02d</td><td>1.23±0.01e</td><td>0.25±0.01a</td><td>0.83±0.01a</td></tr><tr><td></td><td>葵花留茬</td><td>2.22±0.02d</td><td>1.28±0.01c</td><td>0.25±0.00a</td><td>0.79±0.01b</td></tr><tr><td></td><td>退耕5a</td><td>2.61±0.02a</td><td>1.25±0.00d</td><td>-0.09±0.02d</td><td>0.71±0.00d</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 0 \\ \\mathrm { c m }$ 土层中，不同耕作方式间变化范围在 $2 . 1 2 \\sim$ 2.58，小麦留茬地最高，退耕5a较上一土层出现了粒度粗化的情况；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中，各耕作方式间差异较大，变化范围在 $2 . 1 4 \\sim 2 . 4 1$ 之间，留茬地整体要低于翻耕地，翻耕 $1 5 \\mathrm { a } >$ 翻耕 $\\mathrm { ~ 1 ~ a ~ } { > }$ 小麦留茬 $>$ 葵花留茬;在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层中，退耕5a平均粒径最高，其值为2.61，翻耕1a样地要高于天然草地与留茬地，其值为2.48。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同耕作方式下各样地的标准偏差在 $1 . 2 3 \\sim$ 1.37，根据分级标准可知，研究区各样地在 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层内，整体分选较差。在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中，翻耕$1 5 ~ \\mathrm { a } >$ 退耕 $5 \\mathrm { \\ a } >$ 天然草地 $>$ 留茬地，其中翻耕 $1 5 \\mathrm { ~ a ~ }$ 最高，与天然草地仅相差0.04；在 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层中，小麦留茬地最高，值为1.37，并且此土层整体要高于上一土层;在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中，葵花留茬 $>$ 退耕5a $. >$ 翻耕地 $>$ 小麦留茬,其值为1.31;在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层中，整体要低于上一土层，其中天然草地1.31达到了此土层中的最大值，留茬地分选性要低于翻耕地。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "不同耕作措施下的各样地偏度介于 $- 0 . 0 9 \\sim$ 0.25，总体上土壤偏度为正偏，细粒物质占比大于粗粒物质。在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中，翻耕边坡与翻耕1a偏度接近对称，其余样地偏度均为正偏;在 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层中，小麦留茬偏度为负偏，翻耕1a偏度接近对称，其余样地偏度均为正偏；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 王层中，天然草地、翻耕15a偏度接近对称，其余样地偏度均为正偏；在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层中，天然草地、翻耕1a、退耕5a偏度接近对称，其余样地偏度均为正偏。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "整体上各样地峰度值介于0.70\\~0.83，所对应的峰度等级标准均为宽平态。在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中，翻耕地峰度低于其他样地峰度，最小值为0.72;在5\\~10cm土层中，退耕5a峰度值为0.80高于其他样地，土壤粒度分布较为分散；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中，峰度值留茬地 $>$ 退耕 $5 \\mathrm { \\ a } >$ 翻耕地，与天然草地相差0.09;在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层中，小麦留茬地峰度值最大，为0.83,退耕5a峰度最小，为0.71,相比较其他样地更为分散。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3不同耕作方式下土壤粒度曲线特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 土壤粒度频率分布特征由图2可知，在0\\~5cm土层内，翻耕1a样地的粒度频率曲线呈双峰态分布，峰值高度差异不大，第1个峰的峰值位于 $3 0 \\sim$ $5 0 ~ \\mu \\mathrm { m }$ 范围内，第2个峰的峰值位于 $2 0 0 { \\sim } 2 5 0 ~ { \\mu } \\mathrm { m }$ 范围内；在 $5 { \\mathord { \\sim } } 1 0 ~ \\mathrm { c m }$ 土层内，翻耕1a样地的粒度频率曲线与 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层内基本一致，天然草地与小麦留茬地的粒度频率曲线呈双峰态分布，小麦留茬地主峰位于 $3 0 { \\sim } 5 0 ~ \\mu \\mathrm { m }$ 范围内,天然草地主峰位于 $2 0 0 \\sim$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$3 0 0 ~ \\mu \\mathrm { m }$ 范围内；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层内，小麦留茬地峰值的高度均高于其他样地,峰值位于 $2 0 0 { \\sim } 2 5 0 ~ { \\mu } \\mathrm { m }$ 范围内；在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层中，天然草地、退耕 $5 \\mathrm { ~ a ~ }$ 、翻耕1a呈现不同程度的双峰态分布，其中退耕5a主峰值高度最高，位于 $3 0 { \\sim } 4 5 ~ { \\mu \\mathrm { m } }$ 范围内，其余样地呈单峰分布,峰值位于 $1 0 5 { \\sim } 1 2 0 ~ \\mu \\mathrm { m }$ 范围内。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2土壤粒度累积频率分布特征由图3可知，同一土层不同耕作方式下土壤的粒度累积频率分布曲线，各样地的曲线斜率相近，曲线的陡度表示颗粒分布的均匀性。各土层曲线均在 $1 0 0 { \\sim } 1 2 0 ~ \\mu \\mathrm { m }$ 间逐渐变陡。在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 表层，翻耕1a农田分布最均匀，细粒较多；在 $5 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层中，葵花留茬地与翻耕15a地颗粒分布相近，小麦留茬地颗粒组成最细，且退耕5a曲线坡度最小；在 $1 0 { \\sim } 2 0 ~ \\mathrm { c m }$ 土层中，翻耕15a农田与翻耕边坡颗粒分布均匀程度相似，略低于分布最均匀的天然草地，开始各曲线均呈现缓慢增长变化，在 $1 0 0 ~ { \\mu \\mathrm { m } }$ 左右曲线大幅变陡,且迅速升高至累积体积百分含量达 $9 5 \\%$ ,说明土壤颗粒",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f583d2d147ee6bea35afe29721c9c3b92111849ec7e1e4abb67667ba397ef89b.jpg",
+        "img_caption": [
+            "图2同一土层不同耕作方式下土壤粒度频率分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Frequency distribution curve of soil grain size under different tillage methods in the same soil layer 绝大部分存在 $1 0 0 ~ { \\mu \\mathrm { m } }$ 之后；在 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层内，各 样地间颗粒分布程度差距明显，退耕5a分布最均 匀。总体上看，各样地之间的粒度组成差异不大。 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/67db3983e4f4937e1a9ba593d0b0c3185c2d1370aa91a7f63de1e153a619ea9d.jpg",
+        "img_caption": [
+            "图3同一土层不同耕作方式下土壤粒度累积频率分布",
+            "Fig.3Distribution curveofsoil grainsizeaccumulation frequencyunder diffrentillage methods inthe same soil laye! "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "本研究对阴山北麓农牧交错带不同耕作方式下农田土壤粒径进行分析可知，各样地土壤均以细砂含量最大，为 $2 5 . 8 1 \\% { \\sim } 3 9 . 5 6 \\%$ ，粗砂含量最低，为$0 . 6 2 \\% { \\sim } 2 . 8 7 \\%$ ，土壤颗粒各粒级比例差异较大。这与苑依笑等[36]研究在风蚀作用下农田土壤粒径黏粒、粉砂含量下降;土壤平均粒径增大的研究结果相似。但粒径变化的程度还存在一定的差异，这是由于本试验样地的走向与主风向平行，翻耕产生的地垄并没有起到增大地表粗糙度的作用，反而受到大风吹蚀，加剧了翻耕地细粒物质的流失。同时，本研究中 $0 { \\sim } 5 ~ \\mathrm { c m }$ 表层土壤内，小麦留茬和葵花留茬样地的细砂含量明显高于翻耕地，这是由于在秋天农作物收获后采取留茬覆盖的耕作措施，土壤中细颗粒得以就地保留下来。翻耕农田地表裸露，导致表土细粒物质极易被吹蚀，从而形成了粗粒化的趋势,这与王仁德等[37的研究结果留茬地地表的细粒物质相对较多，翻耕不耙平地次之，翻耕耙平地最小基本一致。整体来看，翻耕地各土层粒度分布更为均匀，经野外实地调查，每年翻耕深度约在25\\~30cm左右，翻耕后，将底土翻耕至地表，使耕地各土层的颗粒组成始终保持在相对均匀的水平，并随着耕作年限的增加，可以明显看出，细粒物质含量在大幅减少，这可能是由于常年翻耕吹蚀原因导致的。留茬地相比退耕地，秋收之后，冬季整个处于非耕作期的农田，采取留茬覆盖的保护模式，有效地防止了土壤细粒物质被风吹蚀携走，显著提高了土壤的抗风蚀能力[38]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "阴山北麓农牧交错带气候干旱少雨，常年耕作活动对土壤的扰动使得土壤结构松散，极易发生风蚀[39],尤其冬季，风力强劲又大面积缺乏地表覆盖，最终导致土壤逐渐粗化。经过长期的改进和研究，留茬地有利于截留气流中的细粒物质，农作物的高度和盖度增加了地表粗糙度，致使近地表气流对于农田表层土壤的冲刷吹蚀能力大大降低，从而对土壤表层中的细粒物质产生了一定的保护作用[40]。由表4粒度参数分布特征可知，不同耕作方式下各土层粒度参数差异均较小，整体标准偏差分选较差；土壤偏度在 $- 0 . 0 9 \\mathrm { \\sim } 0 . 2 5$ ，为正偏，细粒物质占比大于粗粒物质;土壤峰度各样地均为宽平态，各土层粒度较为分散。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "进一步对不同耕作方式下农田土壤颗粒频率曲线分析(图2)可知，各土层不同耕作方式下王壤均在 $1 3 0 ~ { \\mu \\mathrm { m } }$ 出发生交叉,土壤粒径组分中的细砂粒（ $1 0 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m } )$ 组分在此处被分为 $1 0 0 { \\sim } 1 3 0 ~ \\mu \\mathrm { m }$ 、$1 3 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m }$ 两部分。在 $0 { \\sim } 5 ~ \\mathrm { c m }$ 土层中，前半段中 $( 1 0 0 { \\sim } 1 3 0 ~ \\mu \\mathrm { m }$ )较细部分颗粒翻耕 $\\mathrm { ~ 1 ~ a ~ } { > }$ 翻耕边坡 $>$ 天然草地 $>$ 小麦留茬 $>$ 翻耕 $1 5 \\mathrm { a } >$ 葵花留茬 $>$ 退耕$5 \\mathrm { ~ a ~ }$ ，而细砂粒的后半段部分较粗颗粒( $1 3 0 { \\sim } 2 5 0 ~ \\mu \\mathrm { m }$ ）表现出来完全相反的结果，这使得细砂粒前后两部分得以相互补充,含量整体差异缩小。岳高伟等[41]研究发现， $1 2 0 { \\sim } 1 4 0 ~ { \\mu } \\mathrm { m }$ 粒级范围内的土壤颗粒最易受风影响而被吹蚀。同时，各土层土壤颗粒频率曲线显示,在 $2 0 0 { \\sim } 4 0 0 ~ { \\mu \\mathrm { m } }$ 间,各曲线差距较大,从累积频率曲线也可以看出，在 $2 0 0 { \\sim } 4 0 0 ~ { \\mu } \\mathrm { m }$ ,曲线明显变陡，土壤颗粒粒度变化显著，可认为 $2 0 0 { \\sim } 4 0 0 ~ { \\mu \\mathrm { m } }$ 颗粒也易被风蚀。李晓丽等4研究认为，阴山北麓农牧交错带农田耕地表层土壤颗粒受气流影响，发生跃移，主要集中在 $7 5 { \\sim } 2 0 0 ~ \\mu \\mathrm { m }$ 和 $2 5 0 { \\sim } 4 2 5 ~ { \\mu \\mathrm { m } } ~ 2$ 个粒级范围，这与本研究结果基本吻合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综上所述，不同的耕作方式促使土壤环境和土壤颗粒含量发生相对改变，是造成土壤粒度粗化的根本原因。翻耕地农田地表裸露，经过风蚀，细颗粒被风带走，翻耕使各土层土壤均匀混合，各土层土壤粒径相对均匀；留茬地有效保护了农田表层土壤，因农作物及盖度不同也出现了不同的保护效果。因此排序结果可以为后续当地农田生产后的耕作方式的选择提供合理科学依据，反映了天然草地被利用开垦为农田后的实际情况，为土地自然修复提供理论依据。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）不同耕作方式下农田土壤粒度组成各土层均以细砂、极细砂、粉粒为主，占比达到总含量的$8 0 \\% { \\sim } 8 5 \\%$ 。常年的翻耕使得细粒物质大量被吹蚀，并且细颗粒无法得到补充，进而农田土壤粗化，留茬措施有效的拦截了细粒物质的流失。土壤粒度组成由细到粗为：翻耕 $\\mathrm { 1 ~ a > }$ 天然草地 $>$ 翻耕边坡 $>$ 小麦留茬 $>$ 翻耕 $1 5 \\mathrm { a } >$ 退耕 $5 \\mathrm { a } >$ 葵花留茬。沙粒平均粒径为 $2 . 1 2 { \\sim } 2 . 6 1$ 。土壤分选性均表现较差，偏度均表现为正偏且接近对称，峰度属于宽平态。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）粒度累积分布曲线整体反映出翻耕地风沙活动较留茬地频繁、强烈。耕作方式及农作物的选择决定着其防风固沙功能的大小，进而影响其表层土壤的粒度分布特征。研究区土壤粒径在200\\~400$\\mu \\mathrm { m }$ 之间，为易风蚀颗粒。各粒度参数显示不同耕作方式下的农田均在引起土壤的粗化，土壤粒径分布范围较大，粒径整体趋于粗粒化",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]刘孟竹,张红娟,任贺宇,等.退耕还林背景下北方农牧交错带 土壤保持功能时空变化[J].水土保持研究,2021,28(5):172- 178.[Liu Mengzhu, Zhang Hongjuan,Ren Heyu,et al. Spatiotemporal variations of the soil conservation in the agro-pastoral ecotone of northern China under grain for green program[J]. Research of Soil and Water Conservation,2021,28(5): 172-178.]   \n[2]杜雅仙,樊瑾,李诗瑶,等.荒漠草原不同植被微斑块土壤粒径 分布分形特征与养分的关系[J].应用生态学报,2019,30(11): 3716-3724.[Du Yaxian,Fan Jin,Li Shiyao,et al. Fractal dimension characteristics of soil particle size distribution under different vegetation patches in desert steppe and its relationship with soil nutrients[J]. Chinese Journal of Applied Ecology,2O19,30(11): 3716-3724.]   \n[3]高君亮,罗凤敏,高永,等.农牧交错带不同土地利用类型土壤 碳氮磷生态化学计量特征[J].生态学报,2019,39(15):5594- 5602.[Gao Junliang,Luo Fengmin,Gao Yong,et al. Ecological soil C,N,and P stoichiometry of different land use patterns in the agriculture- pasture ecotone of northern China[J].Acta Ecologica Sinica,2019,39(15): 5594-5602.]   \n[4]戴路炜,唐海萍,张钦,等.北方农牧交错带多伦县生态系统服 务权衡与协同关系研究[J].生态学报，2020,40(9):2863-2876. [Dai Luwei,Tang Haiping, Zhang Qin, et al. The trade-off and synergistic relationship among ecosystem services:A case study in Duolun County,the agro-pastoral ecotone of northern China[J].Acta Ecologica Sinica,2020,40(9): 2863-2876.]   \n[5]苏永中,杨荣,刘婷娜.施肥对新垦绿洲风沙土肥力及碳积累的 影响[J].中国沙漠,2019,39(3):1-6.[Su Yongzhong,Yang Rong, Liu Tingna.Effects of long-term different fertilization on soil fertility and soil organic carbon accumulation in psamments of oasis farmland[J]. Journal of Desert Research,2019,39(3): 1-6.]   \n[6]郑顺安,刘代丽,章明奎,等.长期秸秆还田对污染农田土壤与 农产品重金属的影响[J].水土保持学报，2020,34(2):354-359. [Zheng Shun'an,Liu Daili, Zhang Mingkui,etal.Effects of longterm straw returning on heavy metals of soil and agricultural products in the polluted farmland[J]. Journal of Soil and Water Conservation,2020,34(2):354-359.]   \n[7]张鑫,宁小莉,佟宝全.阴山北麓农牧交错区居民点空间分异特 征——以包头市达尔罕茂明安联合旗为例[J].干旱区资源与 环境,2020,34(5):78-84.[Zhang Xin,Ning Xiaoli,Tong Baoquan. Spatial differentiationofresidentialareas inthe farming-pastoral ecotone on the north foot of Yinshan Mountain[J].Journal of Arid Land Resources and Environment,202o,34(5): 78-84.]   \n[8]郭挺,徐先英,柴成武,等.民勤绿洲-荒漠过渡带微区土壤水 分及粒度特征研究[J].中国农学通报,2015,31(5):157-163. [Guo Ting,Xu Xianying, Chai Chengwu,et al. Soil moisture and grain size characteristic of micro-area in oasis-desert of Minqin[J]. Chinese Agricultural Science Bulletin,2015,31(5): 157-163.]   \n[9]樊立娟,胡广录,廖亚鑫,等.河西走廊斑块植被区表层土壤粒 径及其分形维数的空间变异特征[J].干旱区研究,2015,32(6): 1068-1075.[Fan Lijuan,Hu Guanglu,Liao Yaxin,et al. Spatial variability of soil particle sizeand its fractal dimensionof patchy vegetation in Hexi Corridor[J].Arid Zone Research,2015,32(6): 1068-1075.]   \n[10] 贾萌萌,张忠良,雷加强,等.塔里木沙漠公路防护林地土壤粒 径分布的分形特征[J].干旱区研究,2015,32(4):674-679.[Jia Mengmeng, Zhang Zhongliang,Lei Jiaqiang,et al.Fractal characteristics of soil particle size distribution in protection forest of Tarim Desert highway[J]. Arid Zone Research,2015,32(4): 674- 679.]   \n[11] Sun C, Liu G, Xue S. Natural succession of grassland on the Loess Plateau of China affects multifractal characteristics of soil particlesize distribution and soil nutrients[J]. Ecological Research,2016, 31(6): 891-902.   \n[12] 王敬哲,丁建丽,王飞,等.艾比湖湿地不同盐渍化土壤粒度组 成及可蚀性研究[J].土壤,2018,50(3):598-605.[Wang Jingzhe, Ding Jianli,Wang Fei, et al.Particle size distribution (PSD) and erodibility of soils under different salinization degrees in Ebinur Lake Wetland[J]. Soils,2018,50(3): 598-605.]   \n[13] 杜海燕,周智彬,刘凤山,等.绿洲化过程中阿拉尔垦区土壤粒 径分形变化特征[J].干旱区研究,2013,30(4):615-622.[Du Haiyan, Zhou Zhibin,Liu Fengshan,et al. Variation of fractal dimension of soil particle size distribution in the Aral reclamation area in oasis development[J].Arid Zone Research,2013,30(4): 615- 622.]   \n[14] 徐志伟,鹿化煜.毛乌素沙地风沙环境变化研究的理论和新认 识[J].地理学报,2021,76(9):2203-2223.[Xu Zhiwei,Lu Huayu Aeolian environmental change studies in the Mu Us Sandy Land, North-central China: Theory and recent progress[J].Acta Geographica Sinica,2021,76(9): 2203-2223.]   \n[15]LiY,Kalnay E,Motesharrei S,et al. Climate model shows largescale wind and solar farms in the Sahara increase rainand vegetation. Science,2018,361(6406): 1019-1022.   \n[16]Abell JT,Pullen A,Lebo Z,et al.A wind-albedo-wind feedback driven by landscape evolution[J]. Nature Communications,2020, 11(1): 96.   \n[17]Huang JP,Li Y,Fu CB,et al. Dryland climate change: Recent progress and challenges[J]. Reviews of Geophysics,2017,55(3): 719-778.   \n[18] 李胜龙,李和平,林艺,等.东北地区不同耕作方式农田土壤风 蚀特征[J].水土保持学报,2019,33(4):110-118,220.[Li Shenglong,Li Heping,LinYi,etal.Effectsof tillage methodson wind erosion in farmland of northeastern China[J]. Journal of Soil and Water Conservation,2019,33(4): 110-118,220.]   \n[19] 胡静霞,杨新兵.我国土地荒漠化和沙化发展动态及其成因分 析[J].中国水土保持,2017,38(7): 55-59,69.[Hu Jingxia,Yang Xinbing.Development trend and cause of formation of land desertification and sandification in China[J].Soil and Water Conservation in China,2017,38(7): 55-59, 69.]   \n[20]Donald Margaret R, Hazelton Pamela A, Clements Anne Marie.Potential for using soil particle-size data to infer geological parent material in the Sydney Region[J].Soil Research,2013,51(4): 301-310.   \n[21]王少博,曹亚倩,冯倩倩,等.保护性耕作对棕壤粒径分形特征 及碳氮比分布的影响[J].植物营养与肥料学报,2019,25(5): 792-804.[Wang Shaobo, Cao Yaqian,Feng Qianqian, et al. Impacts of conservation tillage on soil particulate composition and distribution of soil carbon and nitrogen in brownsoil[J]. Journal of Plant Nutrition and Fertilizers,2019,25(5): 792-804.]   \n[22] Liu X, ZhangG C, Wang YQ,et al.Fractal features of soil particle-size distribution as affected by plant communities in the forested region of Mountain Yimeng, China[J]. Geoderma, 20o9,154(1): 123-130.   \n[23] 李玄姝,常春平,王仁德.河北坝上土地利用方式对农田土壤风 蚀的影响[J].中国沙漠,2014,34(1): 23-28.[Li Xuanshu,Chang Chunping,Wang Rende.Influence of land use ways on the farmland soil wind erosion in Bashang area,Hebei, China[J]. Journal of Desert Research,2014,34(1): 23-28.]   \n[24] 祁帅,汪季,党晓宏,等.3种低立式沙障内表层沉积物粒度特 征研究[J].干旱区研究,2021,38(3):875-881.[Qi Shuai, Wang Ji, Dang Xiaohong,et al.Grain size characteristics of surface sediments in three low vertical sand barriers[J].Arid Zone Research, 2021, 38(3): 875-881.]   \n[25]Yan Y C,Xin XP,Xu X L,et al. Quantitative effects of wind erosion on the soil texture and soil nutrients under different vegetation coverage in a semiarid steppe of northern China[J]. Plant and Soil,2013,369(1/2): 585-598.   \n[26] 葛拥晓,马龙,张登清.新疆艾比湖干涸湖底沉积物粒径分布及 其对风蚀的响应[J].干旱区研究,2014,31(4):636-642.[Ge Yongxiao,Ma Long, Zhang Dengqing. Response of granularity distribution to wind erosion in the playa of the Ebinur Lake,Xinjiang,Northwest China[J]. Arid Zone Research,2014,31(4): 636- ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "642.] ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[27] 王燕,蒙仲举,丁延龙,等.基于多重分形的半干旱区农田表层 土壤粒径分布特征研究[J].土壤,2018,50(4):826-831.[Wang Yan,Meng Zhongju,Ding Yanlong,et al. Study on particle size distribution characteristics of farmland soil in semi-arid region based on multi-fractal[J]. Soils,2018,50(4): 826-831.]   \n[28] 邱捷,王洪德,郑一鹏,等.海涂围垦区不同土地利用类型土壤 颗粒分形特征[J].农业现代化研究,2020,41(5):882-888.[Qiu Jie,Wang Hongde, Zheng Yipeng, et al. Fractal features of soil particles under different land uses in a coastal reclamation area[J]. Research of Agricultural Modernization,2020,41(5): 882-888.]   \n[29] 崔晓.冀北山地接坝区农田保护性耕作布设及其对土壤理化性 质的影响[D].北京:北京林业大学,2019.[Cui Xiao.Layout of Farmland Conservation Tillage and Its Impacts on Soil Physical and Chemical Properties in Jieba Mountainou Area in Northern Hebei Province,China[D].Beijing:Beijing Forestry University, 2019.]   \n[30] 许艳,张仁陟.陇中黄土高原不同耕作措施下土壤磷动态研究 [J].土壤学报,2017,54(3): 670-681.[Xu Yan, Zhang Renzhi. Dynamics of soil phosphorus as affected by tillage on the Loess Plateau in central Gansu, China[J]. Acta Pedologica Sinica,2017, 54 (3): 670-681.]   \n[31]刘汉涛.阴山北麓保护性耕作地表抗风蚀效果的试验研究[D]. 呼和浩特:内蒙古农业大学,2006.[Liu Hantao.An Experimental Study of Anti- Wind Erosion Capacity of Connservation Farming System in the Northern Foot of Yinshan Mountain[D].Hohhot: Inner Mongolia Agricultural University,2006.]   \n[32] 李晓佳,海春兴,刘广通.阴山北麓不同用地方式下春季土壤可 蚀性研究[J].干旱区地理,2007,30(6):926-932.[Li Xiaojia, Hai Chunxing,Liu Guangtong.Spring soil erodibilityfordierent land use patterns in the north piedmont of the Yinshan Mountains [J].Arid Land Geography,2007,30(6): 926-932.]   \n[33]Mohammadi M H,Meskini- Vishkaee F.Predicting soil moisture characteristic curves from continuous particle-size distribution data[J].Pedosphere,2013,23(1): 70-80.   \n[34]Hu HC, Tian FQ,Hu HP.Soil particle size distribution and its relationship with soil water and salt under mulched drip irrigation in Xinjiang of China[J]. Science China Technological Sciences, 2011,54(6): 1568-1574.   \n[35] 童春元,李钢铁,卢立娜,等.杨树低效林下土壤粒径分布与分 形特征[J].水土保持通报,2019,39(5):308-315.[Tong Chunyuan,Li Gangtie,LuLi'na,et al. Distribution of soil size and fractal characteristics under low- eficiency poplar forests[J].Bulletin of Soil and Water Conservation,2019,39(5): 308-315.]   \n[36] 苑依笑,王仁德,常春平,等.坝上地区不同年限退耕工程对土 壤的保护作用[J].干旱区资源与环境,2018,32(9):84-89.[Yuan Yixiao,Wang Rende, Chang Chunping,et al.Protective effect of cropland conversion with different years on soil in Bashang district,North China[J]. Journal of Arid Land Resources and Environment, 2018,32(9): 84-89.]   \n[37] 王仁德,肖登攀,常春平,等.改进粒度对比法估算单次农田风 蚀量[J].农业工程学报,2014,30(21): 278-285.[Wang Rende, Xiao Dengpan, Chang Chunping,et al.Estimation on farmland soil loss by single wind erosion using improved particle-size distribution comparison method[J]. Transactions of the Chinese Society of Agricultural Engineering,2014,30(21): 278-285.]   \n[38]南岭,杜灵通,展秀丽.土壤风蚀可蚀性研究进展[J].土壤, 2014,46(2): 204-211.[Nan Ling,Du Lingtong, Zhan Xiuli. Advances in study on soil erodibility for wind erosion[J].Soils,2014, 46(2): 204-211.]   \n[39] 高天明,张瑞强,黄建国.开垦对阴山北麓农牧交错区草原坡地 的破坏作用[J].中国农业科技导报,2014,16(1):125-130.[Gao Tianming, Zhang Ruiqiang,Huang Jianguo. Damage of reclamationon grassland slope in farming pastoral interleaving areas, North Yinshan Mountains[J]. Journal of Agricultural Science and Technology,2014,16(1): 125-130.]   \n[40] 杨立辉,叶玮,郑祥民,等.河漫滩相沉积与风成沉积粒度判别 函数的建立及在红土中应用[J].地理研究,2014,33(10):1848- 1856.[Yang Lihui,Ye Wei, Zheng Xiangmin,et al. The discriminant function with grain size of floodplain and aeolian sediments and its application in the quaternary red clay[J]. Geographical Research,2014,33(10): 1848-1856.]   \n[41] 岳高伟,贾慧娜,葡海晓.土壤风蚀过程颗粒释放机理研究[J]. 干旱区地理,2012,35(2): 248-253.[Yue Gaowei,Jia Huina,Lin Haixiao.Release mechanism of soil particles in soil wind erosion [J]. Arid Land Geography,2012,35(2): 248-253.]   \n[42] 李晓丽,申向东.裸露耕地土壤风蚀跃移颗粒分布特征的试验 研究[J].农业工程学报,2006,22(5):74-77.[Li Xiaoli,Shen Xiangdong.Experimental study on the distribution characteristics of the saltation particle of aeolian sediment in bare tilage[J]. Transactions of the Chinese Society of Agricultural Engineering, 2006,22(5): 74-77.] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Distribution characteristics of soil particle size in farming-pastoral ecotone: A case study of Wuchuan County in Inner Mongolia ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FU Dongsheng'， REN Xiaomeng²，WANG Yanling’， ZHANG Cuiying'， MENG Zhongju’ (1.College of Desert Control Science and Engineering,Inner Mongolia Agricultural University,Hohhot 010018, Inner Mongolia, China;2.Inner Mongolia Meteorological Institute,Hohhot O1Oo51,Inner Mongolia,China; 3.Water Conservancy Development Center,Xilin Gol League Water Conservancy Bureau, Xilinhot 026099, Inner Mongolia, China; 4.Jishengtai Town,Siziwang Banner, Ulanqab City,Inner Mongolia,Ulanqab City, Ulanqab O11826,Inner Mongolia, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper takes differentfarmlandand natural grassland in Wuchuan County,Hohhot,as theresearch objectand adopts the method of combining in-situ field monitoringand indoor test to study the following four types of farmland soils: typical wheat stubble land,sunflower stubble land,plowed land,and abandoned farmland.The wind erosion resistance capability of land under diferent utilization modes is discussed by analyzing the average particle size,standard deviation，skewness,and kurtosis.Research results show the following: (1)The soil in the studyarea is dominated by fine sand,very fine sand,and silt,accounting for $80 \\%$ to $8 5 \\%$ . (2) The soil particle size composition from fine to coarse is as follows: tillage $\\mathrm { ~ 1 ~ a ~ } >$ natural grassland $>$ tillage slope $>$ wheat stubble $>$ tillage $1 5 \\mathrm { ~ a ~ } >$ abandoned $5 \\mathrm { ~ a ~ } >$ sunflower stubble.Meanwhile,the average particle size of sand is 2.12-2.61.(3)The soil sorting capabilityof each layer is poor, the skewness is positive and nearly symmetrical,and the kurtosis belongs to the broad flat.The particle sizerange of soil that is prone to wind erosion is between 200 and $4 0 0 ~ { \\mu \\mathrm { m } }$ .(4) Compared with natural grassland, farmland reclamation and utilization lead to the expansion of soil particle size distribution, and the overall particle size is coarse. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: farming-pastoral ecotone； farmland; soil particle size； farming methods； Wuchuan County",
+        "page_idx": 10
+    }
+]

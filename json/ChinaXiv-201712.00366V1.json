@@ -1,0 +1,403 @@
+[
+    {
+        "type": "text",
+        "text": "利用生物技术创建主要作物雄性不育杂交育种和制种的技术体系",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "吴锁伟1,2 万向元1,2\\*\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1 北京科技大学 生物前沿技术与应用研究中心、化学与生物工程学院、平谷生物农业研究院，北京 100024;2北京首佳利华科技有限公司主要作物生物育种北京市工程实验室、生物育种北京市国际科技合作基地，北京100192)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 雄性不育技术在作物杂种优势利用和杂交种生产中发挥着重要作用。基于核质互作雄性不育的“三系法”与光温敏核不育的“两系法\"已经在水稻等主要作物的杂交制种中获得了广泛应用，但是存在着资源利用效率低、育性不稳定、易受外界环境影响等诸多问题。近三十年来，利用生物技术创建不同类型的植物雄性不育系取得了一系列突破性进展。本文主要针对玉米、水稻、小麦三大作物的基因工程雄性不育技术的最新进展进行总结，特别详细地描述了本实验室最近研究创制的玉米多控不育技术体系，以期为相关研究和产业化应用提供技术参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词 雄性不育 基因工程 杂种优势 玉米 水稻 小麦",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号Q785",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "作物的杂种优势是指杂交种在一种或多种性状上优于其双亲的现象，通常表现为增产、稳产、抗病、抗逆等。杂交制种的关键技术在于发展和利用可以控制的授粉系统，以防止自花授粉导致的自交衰退。雄性不育在玉米、水稻、小麦等主要作物的杂种优势利用和杂交制种中发挥了重要作用。植物雄性不育是指在雌雄同株植物中，雄蕊发育不正常，不能产生有功能的花粉，但雌蕊发育正常，能接受正常花粉而受精结实，并能将雄性不育性状遗传给后代的现象。植物雄性不育按照不育性遗传方式的差异，可分为3类：细胞质雄性不育、细胞核雄性不育和核质互作型雄性不育[1]。由于母体遗传的原因，第一类细胞质不育系的$\\mathrm { F } _ { 1 }$ 不能自交结实，因而不能在育种和生产上利用；利用常规杂交育种技术，第二类核不育系的保持和繁殖存在困难，也不能在育种和生产上有效利用；第三类核质互作不育系，理论和实践上都可以被育种利用，但是该类不育系的广泛利用可能会导致杂交种细胞质单一化，易受细胞质专一性病原小种的侵染而导致杂交种生产存在巨大的风险，如 20世纪 70-80年代北美玉米带出现的小斑病T小种侵染造成毁灭性的生产灾难。此外，在某些环境中，核质互作不育系的育性不稳定，有可能降低杂交制种的纯度和产量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着现代生物技术的快速发展，一方面，利用分子生物技术，有望将遗传稳定的核不育基因有效地利用起来，即通过生物技术保持和繁殖非转基因的雄性不育系，例如我们实验室的玉米多控不育技术[2]、美国杜邦先锋的 SPT技术[3,4]、水稻智能不育技术[5]等；另一方面，还可以通过基因工程手段，创制各种诱导型/条件型雄性不育系，即通过生物技术创制转基因的不育系，如美国孟山都的玉米草甘麟诱导型雄性不育技术[6]、水稻草丁麟诱导型雄性不育技术[7]、小麦断裂基因雄性不育系统[8,9]等。近年来，随着分子生物学和基因工程技术的发展，作物细胞核雄性不育的利用获得了一些突破性进展。本文将从玉米、水稻、小麦等主要作物的基因工程不育技术的创制策略、研究现状、利用途径和应用前景等几方面进行阐述，以期为高效利用作物核雄性不育技术、提高作物杂种优势利用效率和建立作物高效育种和制种技术体系提供参考依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2通过生物技术保持和繁殖非转基因的作物核雄性不育系",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该类技术的共同特点是通过转基因技术实现作物核雄性不育系的保持和繁殖，但是最终生产的不育系及杂交种不含转基因成分。主要包括我们实验室的玉米多控不育技术、美国杜邦先锋公司的玉米 SPT 技术以及邓兴旺实验室的水稻智能不育技术等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1玉米多控不育技术的研究进展",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1.1玉米多控不育技术的概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "玉米多控不育技术体系（Multi-Control Sterility System,MCS）是本实验室万向元及团队在美国 SPT技术的基础上，经过吸收创新，创建的国际领先的第三代玉米杂交育种和制种技术体系[2]。该技术利用多个功",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "能元件（1个育性恢复基因、2个花粉自我降解基因、1个红色荧光蛋白基因和1个抗除草剂基因）的协同作用，通过生物育种和传统育种技术相结合，建立一种高效、安全、稳定的玉米隐性核不育系的保持和繁殖技术体系。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2玉米多控不育技术的技术原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米多控不育技术综合利用了生物技术、荧光蛋白筛选技术和花粉失活技术策略，有效地解决了玉米隐性核雄性不育系的保持和繁殖问题。其设计思路是利用现代生物技术，将玉米花粉育性恢复基因、花粉自我降解基因、红色荧光蛋白基因和抗除草剂基因组合在一起，构建多控不育遗传转化载体，通过遗传转化和杂交、回交转育技术，导入到玉米隐性核雄性不育系中，以恢复不育系的育性并能有效繁殖，实现一系两用的目的（图1A)。该体系生产的转基因保持系包含5个功能元件表达盒：（1）育性恢复基因。例如ZmMs7基因，编码一个PHD-finger转录因子，可以恢复玉米雄性不育系ms7的育性；（2）花粉自我降解基因 ZmAA。该基因在花粉特异性启动子PG47驱动下表达 $\\mathbf { \\boldsymbol { a } } .$ 淀粉酶，阻碍含有转基因元件的花粉发育；（3）另一个花粉自我降解基因Dam。该基因在花粉特异性启动子 $Z _ { \\mathrm { m } 1 3 }$ 驱动下表达DNA 腺嘌呤甲基化酶，进一步使含有转基因元件的花粉败育；（4）色选标记基因DsRed2或mCherry。该基因在糊粉层特异启动子LTP2驱动下表达红色荧光蛋白，以便将基因型杂合的保持系自交后产生的正常颜色不育系和红色荧光保持系种子，通过色选机高效分开；（5）抗除草剂基因bar。用于遗传转化时的筛选标记以及转基因材料的筛选或保持系种植田的除杂。该转基因保持系自交后，产生 $50 \\%$ 的不育系种子（非红色荧光种子）和 $50 \\%$ 的保持系种子（红色荧光种子)。通过机械色选技术可以有效地将这两部分种子分离，正常颜色种子可以繁殖为不育系，用于玉米杂交育种和杂交制种；红色荧光种子自交产生其本身和不育系种子。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多控不育系的保持和繁殖策略（图1B)：由于转基因保持系含有花粉自我降解基因 ZmAA 和Dam，导致所有含有转基因元件的花粉败育，只能产生一种非转基因的花粉（基因型ms)。因此，通过不育系与保持系的杂交，可以产生 $100 \\%$ 的不育系，从而实现多控不育系的保持和繁殖。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多控不育系的杂交育种和制种策略（图1C)：该多控不育系属于隐性核不育，所有的可育系都可以恢复不育系的育性。因此，多控不育系作为母本，可以与任何可育自交系杂交，进行杂交育种和制种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.3玉米多控不育技术的研究进展",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "玉米多控不育技术的核心元件是玉米隐性核不育基因（育性恢复基因）的发掘。我们实验室利用图位克隆策略，精细定位了10多个玉米隐性核不育基因，并且成功克隆了4个玉米隐性核不育基因ms1，ms7，ms30 和ms33（表1)，并成功获得了中国国家发明专利保护[10-13]。利用这些育性基因，分别构建了系列玉米多控不育遗传转化商业化载体（表2)，也成功获得了中国国家发明专利保护[14-16]。通过玉米遗传转化和传统的回交转育，已经获得了部分不同遗传背景的玉米多控不育保持系中间材料（图2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b55aa2437e52cd3da84f2f8d4465f12d00df38c8ecc9ad72eede2c7d2de2ce69.jpg",
+        "img_caption": [
+            "图1玉米多控不育技术体系的整体技术路线",
+            "Fig.1 The technological strategy of maize multi-control sterility system "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c2b78ce8af958aa7799f1e120c5db2dbf8fcf7d5e1255ab6d0129902e528cd0.jpg",
+        "table_caption": [
+            "Table 1 The cloned male sterility genes for construction of the MCS system in maize in our Lab ",
+            "表2本实验室为创建玉米多控不育保持系所构建的遗传转化商业化载体"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号 No.</td><td>基因名称 Gene name</td><td>编码蛋白 Coded proteins</td><td>参考文献 References</td></tr><tr><td>1</td><td>msl, male sterilityl</td><td>LOB/LBD protein 30</td><td>[10]</td></tr><tr><td>2</td><td>ms7, male sterility7</td><td>PHD-finger protein</td><td>[2,11]</td></tr><tr><td>3</td><td>ms30,male sterility30</td><td>GDSL-Lipase</td><td>[12]</td></tr><tr><td>4</td><td>ms33,male sterility33</td><td>GPAT protein</td><td>[13]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0ff95a8e2c6789c212c8082eafd703b766e270d5e82d287edeff66fc75304205.jpg",
+        "table_caption": [
+            "表1本实验室为创建玉米多控不育技术体系所克隆的玉米隐性核不育基因",
+            "Table 2 Commercial constructs for development of the MCS system using male sterility genes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>载体 Constructs</td><td>启动子-基因组合列表 Promoter-gene combination</td><td>参考文献 References</td></tr><tr><td>pMCS0101</td><td>p35S::Bar//pZmMs1:ZmMs1//pZm13:Dam/pPG47:Bt1:ZmAA//pLTP2:mCherry</td><td>[14]</td></tr><tr><td>pMCS0102</td><td>p35S:Bar//pPG47::Bt1:ZmAA//pZmMs1:ZmMs1//pLTP2::DsRed2</td><td>[14]</td></tr><tr><td>pMCS0701</td><td>p35S::Bar//pZmMs7:ZmMs7//Zm13:Dam//pPG47:Bt1:ZmAA//pLTP2:mCherry</td><td>[15]</td></tr><tr><td>pMCS0702</td><td>p35S:Bar//pPG47::Bt1:ZmAA//pZmMs7:ZmMs7//pLTP2::DsRed2</td><td>[15]</td></tr><tr><td>pMCS0703</td><td>p35S:Bar//pPG47::Bt1:ZmAA//pZm13:Dam//pZmMs7::ZmMs7//pLTP2:DsRed2</td><td>[15]</td></tr><tr><td>pMCS3001</td><td>p35S::Bar/pZmMs30:ZmMs30//pZm13::Dam//pPG47:Bt1:ZmAA//pLTP2:mCherry</td><td>[16]</td></tr><tr><td>pMCS3002</td><td>p35S::Bar//pPG47:Bt1:ZmAA//pZmMs30:ZmMs30/pLTP2:DsRed2</td><td>[16]</td></tr><tr><td>pMCS3003</td><td>p35S::Bar//pPG47::Bt1:ZmAA/pZm13:Dam/pZmMs30::ZmMs30//pLTP2::DsRed2</td><td>[16]</td></tr><tr><td>pMCS3301</td><td>p35S::Bar//pZmMs33:ZmMs33//pZm13::Dam//pLTP2:mCherry</td><td></td></tr><tr><td>pMCS3302</td><td>p35S::Bar/pPG47::Bt1:ZmAA//pZm13::Dam//pZmMs33::ZmMs33//pLTP2::DsRed2</td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "备注： ZmMs1, ZmMs7, ZmMs30, ZmMs33,maize fertility restoration genes； ZmAA, $\\mathbf { \\boldsymbol { a } }$ -amylase gene; DsRed2 and mCherry,red fluorescence gene; p35S,cauliflower mosaic virus 35S promoter; Bar,herbicide resistance gene;Bt1, Brittle-1 transit peptide; $\\mathsf { p } Z \\mathsf { m } 1 3$ ，Zm13 gene promoter； Dam,DNA adenine methylase gene；pLTP2, lipid transfer protein-2 gene promoter; $\\mathsf { p Z m M s }$ , maize Ms gene promoter; pPG47, polygalacturonase gene promoter. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2670b81e4eb9253e59260e5c4f69ed8b77dd277709bbe2646b7c2f7a4caa9e6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图2三个基于 $\\pmb { M s 7 }$ 基因和ms7突变体的玉米多控不育转基因保持系表型[2I",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Phenotype of three ZmMs7 transgenic maize male-sterile maintainer lines $( \\mathbf { B C } _ { 2 } \\mathbf { F _ { 1 } } )$ L ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A,C and E, Ear photos of the three male-sterile maintainer lines (1601#, $1 6 0 2 \\#$ and $1 6 0 3 \\# \\$ under bright light (BL); B, D andF,the ear photos corresponding toA,Cand E under a red fluorescence (RF）filter,respectively.These lines are the $\\mathrm { B C } _ { 2 } \\mathrm { F } _ { 1 }$ progeny of the elite line M0701-2 crossed with ms7-6007 mutant and then backcrossed to inbred line Zheng58. $\\mathrm { B C } _ { 2 } \\mathrm { F } _ { 1 }$ is the second backcross generation. Bars $\\stackrel { } { = } 1 \\mathrm { c m }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1.4玉米多控不育技术的优势",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "玉米多控不育技术通过两个花粉自我降解基因，确保转基因花粉不传递，规避了转基因生物安全问题；建立了不受光温敏影响的玉米隐性核不育材料的有效繁殖技术体系，解决了近百年来玉米隐性核不育材料在杂交育种和制种上不能有效利用的问题，并克服了当前“三系法”和“二系法”普遍存在的杂交制种风险和问题；降低了杂交制种的成本和提高了杂交种的制种纯度；有助于建立高效的玉米商业化育种技术体系，极大地提高了玉米新优品种的培育效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2玉米SPT技术的研究进展",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2006 年，美国杜邦先锋公司推出了一种新型玉米基因工程不育制种技术，即 SPT技术（Seed ProductionTechnology)。该技术综合利用了转基因技术、花粉败育技术和荧光蛋白色选技术，将玉米花粉自我降解基因，雄性恢复基因和红色荧光蛋白标记基因组合在一起，构建遗传转化载体，并导入到玉米隐性核雄性不育系中，从而恢复不育系的育性并能有效繁殖[3]。该转基因株系自交后，产生 $50 \\%$ 的不育系种子（非荧光种子）和 $50 \\%$ 的保持系种子（荧光种子)，然后通过荧光色选技术，分离这两种具有恢复基因和没有恢复基因的种子，从而实现一系两用的目的：非荧光种子可以作为不育系，用于玉米杂交育种和杂交制种；荧光种子自交产生保持系后代和正常颜色不育系种子。由于不育系本身及其生产出来的商品种子并不含有转基因成分，所以在美国这项技术并不需要经过美国农业部、环保署和药物与食品监督局的特别批准。该技术于2011年6月被美国农业部动植物卫生检验署（USDA-APHIS）解除转基因管制审批[17]。从2012年起，杜邦先锋公司已经在美国种业市场实现玉米 SPT技术的商业化杂交制种应用。随后，SPT技术分别在澳大利亚和日本解除转基因管制审批[18,19]，为实现世界范围内大面积推广奠定了基础。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2016年，Wu等详细介绍了以玉米隐性核不育基因ms45及其突变体为基础的 SPT技术体系及其产业化应用探索[3]。该 SPT载体含有3个功能元件表达盒：育性恢复基因 Ms45、花粉自我降解基因 ZmAA 和色选标记基因DsRed2。最近，Fox等（2017）又报道了以玉米显性核不育基因Ms44及其突变体为基础的 SPT技术，该基因同时可以提高玉米的氮利用率，从而提高玉米在低氮条件下的产量[4]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本实验室的玉米多控不育技术与美国杜邦先锋公司的SPT技术最大的区别在于：美国对转基因植物推广种植的监管要求比较宽松，但中国对植物转基因成分传递率是零容忍。据此，本实验的玉米多控不育技术在商业化载体中增加了一个转基因花粉自我降解基因（Dam）和除草剂抗性基因（Bar)，结合转基因荧光种子色选技术，最终确保玉米不育系种子都为非转基因种子。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3水稻智能不育技术",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "最近，邓兴旺实验室报道了一种基于基因工程进行分子设计的水稻智能不育技术[5]。该技术借鉴了玉米SPT 技术，其创制策略如下：利用可以稳定遗传的水稻隐性核雄性不育材料osnpl，通过转入育性恢复基因OsNPI恢复花粉育性，同时使用花粉自我降解基因 ZmAA 使含转基因成分的花粉败育，并利用荧光分选技术分离不育系与保持系两种类型的种子。水稻智能不育技术将现代生物技术与传统育种方法成功结合，使得大量水稻隐性核雄性不育基因的利用成为了可能（图3)。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/086a3ada7c10332a64dcfcc1b959ab0c46cffa41d48885d653504161627bc078.jpg",
+        "img_caption": [
+            "图3三个水稻智能不育保持系的穗部表型"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 The panicle phenotype of three rice male-sterility maintainer lines ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note:the red fluorescence seeds are transgenic male-sterility maintainer lines,the normal color seeds are non-transgenic male-sterility lines. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "水稻智能不育技术的优势：利用智能不育系杂交制种安全，配组自由。与常规杂交育种和常规转基因育种相比，智能不育给杂交水稻育种带来的突破包括：智能不育系育性稳定，不受环境和遗传背景影响，克服了三系不育系因高温诱导花粉可育、两系核不育系因低温诱导可育的育性不稳定给杂交制种造成的安全风险；智能不育系不育性状遗传行为简单，不受遗传背景影响，易于开展优良性状的聚合育种，快速选育出优质、高产、多抗、适宜于各种生态条件的杂交组合，有利于扩大杂交水稻适应区域；育性恢复基因与花粉自我降解基因在转基因过程中紧密连锁，阻断了转基因成分通过花粉漂移；实现了用转基因手段生产非转基因的不育系种子和杂交稻种子。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3通过生物技术创制作物转基因雄性不育系",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "该类技术的特点是通过生物技术手段，创制自然界不存在的转基因不育突变体，即最终的不育系含有转基因元件。例如通过基因工程创制大量的条件型或诱导型植物雄性不育系已有报道[20]。下面主要介绍玉米、水稻和小麦三大作物的基因工程雄性不育技术的最新进展。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1玉米草甘膦诱导型雄性不育技术",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大量的研究表明，多数作物的雄配子对草甘麟非常敏感，在合适的时期喷施草甘麟会导致植物雄性不育。据此，美国孟山都公司创建了一种玉米草甘麟诱导型雄性不育技术（Glyphosate-mediated male sterility）。该技术通过表达草甘麟不敏感基因CP4-EPSPS 获得抗草甘麟玉米，通过分子设计，在玉米雄穗中降低CP4-EPSPS的表达，同时优化草甘麟喷施参数，即在V8及以后时期以单倍剂量（ $0 . 8 4 \\mathrm { k g } \\mathrm { h a ^ { - 1 } }$ ）喷施玉米上部叶片，使草甘麟高效积聚于雄穗中，从而导致雄穗对草甘麟高度敏感而表现为草甘膦诱导型雄性不育[6]。基于该技术，美国孟山都公司创建了RHS 杂交制种系统（Roundup hybridization system）。该系统的优势在于：1）一系两用。在合适的时期喷施草甘麟，可以导致雄性不育，作为不育系；不喷施草甘膦时，RHS 系表现为雄花育性正常，可以自交结实、繁殖，作为保持系。2）制种高效、种子纯度高、抗除草剂。大田制种时，RHS 母本系与RR父本系间隔种植，通过喷施草甘麟，可以使RHS 系雄性不育，但RR 系育性不受影响，从而生产高纯度、抗草甘麟的玉米杂交种。3）因不需要人工去雄，降低了人工制种成本。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2水稻草丁麟诱导型雄性不育技术",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "最近，Rao 等报道了一种水稻的草丁麟诱导型雄性不育系统[7]。其技术思路是，构建一个水稻花药特异表达启动子（OSIPA）调控的、来源于大肠杆菌的L-鸟苷酸酶（L-ormithinase，argE）基因的转化载体，通过遗传转化和分子鉴定获得 argE 转基因水稻。由于argE 基因编码一个N-乙酰鸟苷酸酶（NAO)，其功能是去除 N2-乙酰鸟苷酸的乙酰基团从而产生乙酸和鸟苷酸。因此，argE 基因编码的 NAO酶可以使无细胞毒性的 N-乙酰-草丁麟（N-ac-PPT）去除乙酰基团而产生有细胞毒性的草丁麟（PPT)。对该转基因水稻喷施N-ac-PPT时，由于花药特异表达argE 基因，在花药中产生毒性 PPT 而表现为完全雄性不育；然而，不喷施 N-ac-PPT时，argE 转基因水稻花药中不产生有毒性的PPT则表现为正常可育。雄性不育的argE 转基因水稻与正常水稻杂交后可以结实，说明雌配子的育性不受喷施N-ac-PPT的影响。这种水稻草丁麟诱导型雄性不育系统不需要创制特定的恢复系，因而在生产上具有较大的应用潜力。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3小麦断裂基因雄性不育技术",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Kempe 等（2014）报道了一个基于断裂基因导致雄性不育的杂交小麦生产系统[8]。其技术路线是：该系统基于一个由两个互补基因位点的非重叠序列编码的细胞毒素基因 Barnase在绒毡层细胞的特异表达，该基因翻译后，Bamase 片段通过一个 Intein 介导的反式剪接自激活过程被组装到一个活性毒素酶中，一旦植物细胞毒素蛋白 Barnase形成后，绒毡层将会被破坏，从而导致花粉败育（图4A)。两个 Barnase基因断裂片段分别位于同源染色体的相同染色体位置，功能上类似于一对隐性等位基因，因为只有当小麦同时携带两个互补的断裂基因位点（ $\\mathbf { A } _ { 1 } \\mathbf { A } _ { 2 }$ 杂合子）时，才能产生有活性的Barmase 毒蛋白进而导致雄性不育。利用不育系（ $\\mathbf { A } _ { 1 } \\mathbf { A } _ { 2 }$ ）作为母本，与含有一个Barmase 片段的可育系（ $\\mathrm { \\bf A } _ { 1 } \\mathrm { \\bf A } _ { 1 }$ 或 $\\mathbf { A } _ { 2 } \\mathbf { A } _ { 2 }$ ）杂交，可以产生 $50 \\%$ 的不育系和 $50 \\%$ 的可育系（图4B)。在杂交育种中，同时携带两个互补的 Barnase 断裂基因位点（ $\\mathbf { A } _ { 1 } \\mathbf { A } _ { 2 }$ ）的小麦品系可以用作母本不育系，伴随着减数分裂，成对的Bamase 位点可以分离到不同的配子中。因此，杂交种后代只能遗传一个Barnase片段（ $\\mathbf { A } _ { 1 }$ 或 $\\mathbf { A } _ { 2 }$ )，表现为雄花育性正常，自交可以结实（图 4C）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ca2e3115bfae39457eac73aa43d2f1e99dfa3bf2b236a156305393013bfe11e.jpg",
+        "img_caption": [
+            "图4利用小麦断裂基因不育技术进行杂交小麦育种和制种的技术路线[8l"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 The experimental design of the split-gene system for hybrid wheat seed production ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结语和展望 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "通过生物技术保持和繁殖自然界中存在的核雄性不育系，如玉米多控不育（MCS）技术、玉米 SPT 技术和水稻智能不育技术等，具有以下优势：1）转基因过程，非转基因产品（图5)。在这类雄性不育技术中，通过不育系与保持系杂交繁殖不育系时，保持系含有特定的转基因功能元件，如育性恢复基因、花粉自我降解基因、荧光标记基因和抗除草剂基因等。但是，通过荧光色选后，分选出的雄性不育系则不含有任何转基因元件，其组配的杂交种也不含有转基因元件。因而不育系和杂交种都是非转基因的，可以有效防止转基因元件飘逸造成潜在的生态危害。2）该类技术产生的核雄性不育系相对于细胞质雄性不育系或光温敏核不育系而言，遗传更稳定、不受外界光温等环境条件影响，用于杂交育种和制种更加安全。3）该类技术产生的核雄性不育系不受细胞质影响，理论上任何可育自交系材料都可以作为恢复系，因此可以大大提高杂交种选育的资源利用率。4）该类技术生产的高纯度的雄性不育系，可以保证生产杂交种的纯度和产量，同时大大降低制种的人工成本。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "然而，需要指出的是，该类技术虽然在国外已经实现产业化应用，但是在以下几方面还需要进一步完善：1）设法提高花粉自我降解基因的效率，确保转基因花粉不遗传。实验表明，玉米多控不育技术通过两个花粉自我降解基因的共同作用，可以显著提高转基因花粉败育几率[2]，更加安全。2）探明细胞核不育基因的遗传稳定性以及对其它农艺性状的影响。可以通过核不育系与大量的普通自交系测交和回交，通过多年多点的测试，观察该不育基因在不同遗传背景下的育性表现以及对其它农艺性状的影响。3）该类技术的核心是雄性不育系对应的育性恢复基因，但并非所有的雄性不育系都符合产业化要求。因此，未来还需要大量发掘无花粉型、遗传稳定的核雄性不育系、克隆不同类型的育性恢复基因，从而筛选出最适合产业化的不育系和不育基因。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/38da9b6b60375d7947b42c652a06aa2ff7d1fc100374d78265a8f9a89a022ceb.jpg",
+        "img_caption": [
+            "图5玉米MCS和SPT技术的整体生产流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.5 The schematic representation of the MCS and SPT process with commercial hybrid seed production通过生物技术创制诱导型或条件型转基因雄性不育系，目前也有大量的研究报道[20]。但是，目前能够成功产业化应用的很少。我们分析主要有以下几方面的原因：1）基因工程雄性不育的彻底性和稳定性不能满足生产要求；2）诱导型不育系的育性转换影响因素比较多，成本较高、操作复杂；3）转基因的环境安全性问题；4）部分国家对于转基因作物种植的限制政策。因此，该类不育系的产业化应用依然任重道远。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总之，通过生物技术创制主要作物的雄性不育系统并在杂交育种和杂交制种中实现产业化应用，相对于传统的“三系法”、“两系法\"杂交制种技术，具有简便、快速、高效、安全等优势。随着分子生物技术的不断完善和快速发展，各种新型基因工程雄性不育系统必将在作物杂种优势利用中发挥越来越重要的作用。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Shukla P,Singh NK,Gautam R,etal. Molecular Approaches for Manipulating Male Sterility and Strategies for Fertility Restoration in Plants.Mol Biotechnol, 2017. doi: 10.1007/s12033-017-027-6.   \n[2] Zhang D F, Wu S W, An ${ \\mathrm { ~ X ~ L , ~ } }$ et al. Construction of a multi-control sterility system for a maize male-sterile line and hybrid seed production based on the $Z _ { \\mathrm { m M s } } 7$ gene encoding a PHD-finger transcription factor. Plant Biotechnol J, 2017. doi: https://doi.org/10.1111/pbi.12786.   \n[3]WuY,Fox TW,TrimnellMR, et al. Developmentof a novel recessive genetic male sterilitysystem for hybrid seed production in maize and other cross-pollinating crops. Plant Biotechnol J,2016.14(3): 1046-54.   \n[4]Fox T,DeBruin J, Haug Colet K,et al. A single point mutation in Ms44 results in dominant male sterility and improves nitrogen use efficiency in maize. Plant Biotechnol J,2017.15: 942-952.   \n[5]Chang Z, Chen Z,Wang N,et al. Construction of a male sterility system for hybrid rice breeding and seed production using a nuclear male sterility gene. Proceedings of the National Academy of Sciences,2016.113(49): 14145-14150.   \n[6]Feng PC,Qi Y, Chiu T,et al.Improving hybrid seed production in corm with glyphosate-mediated male sterility. Pest Manag Sci, 2014. 70(2): 212-8.   \n[7]Rao G S，Tyagi A K,and Rao K V. Development of an inducible male-sterility system in rice through pollen-specific expression of l-ornithinase (argE) gene of E. coli. Plant Sci, 2017.256: 139-147.   \n[8]Kempe K,Rubtsova M,and Gils M.Split-gene system for hybrid wheat seed production. Proc Natl Acad Sci U S A, 2014. 111(25): 9097-102.   \n[9]Kempe K,Rubtsova M,Riewe D,et al.The production ofmale-sterile wheat plants through split barnase expression is promoted by the insertion of introns and flexible peptide linkers. Transgenic Res,2013.22(6): 1089-105.   \n[10]万向元,吴锁伟,周岩,等．植物花粉发育调控基因Ms1及其编码蛋白，中国发明专利, ZL201410381072.5, 2014 Wan X Y, Wu S W, Zhou Y, et al. The DNA sequence and the coded protein of Msl gene which controls the male fertility of plants. Chinese patent, ZL201410381072.5. 2014.   \n[11] 万向元，吴锁伟，谢科，等．一种控制玉米雄性生育力的 ZmMs7 基因序列及其编码蛋白，中国发明专 利，ZL201410338212.0，2014 Wan X Y, Wu S W, Xie K, et al. The DNA sequence and the coded protein of ZmMs7 gene which controls the male fertility of maize. Chinese patent, ZL201410338212.0.2014.   \n[12]万向元，吴锁伟，周岩，等.一种玉米花粉减数分裂后发育调控基因 Ms30 的DNA 序列及其编码蛋白， 中国发明专利，ZL201410703778.9，2014 Wan X Y, Wu S W, Xie K, et al. The DNA sequence and the coded protein of a pollen post-meiotic developmental gene Ms30 in maize. Chinese patent, ZL201410703778.9, 2014.   \n[13]万向元，吴锁伟，张丹凤，等.玉米花粉发育调控基因Ms33 的DNA 序列及其编码蛋白，中国发明专 利，CN201610880590.0，2016 Wan X Y, Wu S W, Zhang D F,et al.The DNA sequence and the coded protein of a polen developmental gene Ms33 in maize. Chinese patent, CN201610880590.0，2016.   \n[14]万向元，吴锁伟，谢科，等．基于Ms1基因构建的介导玉米雄性生育力的多控不育载体及其应用，中 国发明专利，ZL201510298173.0，2015 Wan X Y， $\\mathrm { w u } \\mathrm { \\thinspace S \\thinspace W }$ ， Xie K, et al. The multi-control male sterility constructs based on Ms1 gene and their application. Chinese patent, ZL201510298173.0, 2015   \n[15]万向元，谢科，吴锁伟，等．一种基于Ms7基因构建的多控不育表达载体及其用于保持和繁殖玉米隐 性核不育系的方法，中国发明专利，ZL201510301333.2，2015 Wan X Y, Xie K,Wu S W,et al. The multi-control male sterility constructs based on Ms7 gene and their application in maintaining and producing maize recesive genic male sterility lines. Chinese patent, ZL201510301333.2,2015   \n[16]万向元，吴锁伟，谢科，等．一种基于Ms30基因建立的玉米雄性不育系保持和繁殖的方法，中国发明 专利，ZL201510300778.9，2015 Wan X Y, Xie K, Wu S W, et al. The methods of maintaining and producing maize recessive genic male sterility lines based on Ms30 gene. Chinese patent, ZL201510300778.9,2015   \n[17]USDA-APHIS,Pioneer Hi-Bred International,Inc.Seed Production Technology(SPT） Process OECD Unique Identifier: DP-32138-1 Corn: Final Environmental Assessment.Riverdale，MD: United States Department of Agriculture Animal and Plant Health Inspection Service. Available at: http://www.aphis.usda.gov/brs/aphisdocs/08_33801p_fea.pdf 2011.   \n[18]FSANZ,New Plant Breeding Techniques.Report ofa Workshop hostedbyFood Standards Australia New Zealand (FSANZ). Available at: http://www.foodstandards.gov.au/publications/Documents/New%20Plant%20Breeding%20Techniques%20Worksho p%20Report.pdf. 2012.   \n[19]Japan-MHLW,The outcome of the discussion onF1 hybrid seeds produced with the DuPont's Seed Production Technology (SPT） using DP-32138-1．Japan Ministryof Health，Labor，and Welfare.Availableat: http://www.mhlw.go.jp/stf/shingi/2r9852000002tccm-at/2r9852000002tck7.pdf. 2013.   \n[20] 王玉峰，黄雾月，杨金水．基因工程培育可恢复的植物雄性不育系的研究进展．遗传,2011,33(1):40-47 Wang YF, Huang JY, Yang J S.Progress in the study of producing reversible male sterile line by genetic ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "engineering. Hereditas (Beijing), 2011, 33 (1): 40-47 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Construction of Male-Sterility System using Biotechnology and Application in Crop Breeding and Hybrid Seed Production ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "WU Suo-wei1,2 WAN Xiang-yuan1,2 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1 Advanced Biotechnology and Application Research Center, Institute of Biology and Agriculture,School of   \nChemistry and Biological Engineering,University of Science and Technology Beijing,Beijing,10024,China.)   \n(2 Beijing Engineering Laboratory of Main Crop Bio-Tech Breeding, Beijing International Science and Technology Cooperation Base of Bio-Tech Breeding, Beijing SolidwillSci-Tech Co.Ltd.,Beijing,100192, China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract Male sterility plays an important role in hybrid vigor utilization and hybrid seed production in crops.The three-line system and two-line system based on cytoplasmic male sterility and photo-thermo sensitive male sterility had been widely used in crop hybrid seed production.But there are some limitations such as low efficiency of germplasm utilization,unstable fertility in variable environmental condition.In the last three decades，many artificial manipulations of male sterility in plants have been accomplished by using genetic enginering or biotechnology strategies.In this review，we outline the reported approaches used forgenerating artificial biotechnology male-sterile lines in the main three crops such as maize,riceand wheat.Especialy,we described in detail the multi-control sterility (MCS)system in maize designed byour laboratory recently.This will give some insights on the commercial application of male sterility in crop breeding and hybrid seed production. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Keywords Male sterility, Genetic engineering,Hybrid vigor,Maize,Rice, Wheat ",
+        "page_idx": 12
+    }
+]

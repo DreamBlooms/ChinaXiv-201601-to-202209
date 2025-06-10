@@ -1,0 +1,116 @@
+DOI:10.13930/j.cnki.cjea.160663
+
+张廷伟，陈万斌，刘长仲，崔少伟，饶福强．不同光周期条件下绿色型豌豆蚜性蚜分化规律研究[J].中国生态农业学报，2017,25(2): 166-171Zhang T W, Chen WB,Liu C Z, Cui S W,RaoFQ.Differentiation regularityofAcyrthosiphon pisum (green form) sexualmorphs in relation to photoperiods[J]. Chinese Journal of Eco-Agriculture,2017,25(2): 166-171
+
+# 不同光周期条件下绿色型豌豆蚜性蚜分化规律研究
+
+张廷伟，陈万斌，刘长仲\*\*，崔少伟，饶福强（甘肃农业大学植物保护学院 兰州 730070)
+
+摘要：为了明确豌豆蚜随光周期变化时的种群繁殖策略以及性蚜分化规律，在4个光周期 $\mathrm { 8 L } : 1 6 \mathrm { D }$ 、10L:14D、 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 和 $1 4 \mathrm { L } : 1 0 \mathrm { D } )$ 条件下，研究了绿色型豌豆蚜经光周期连续诱导2代后 $\mathrm { ( G _ { l } }$ 和 ${ \bf G } _ { 2 } ^ { \prime }$ ，后代 $\left( \mathbf { G } _ { 3 } \right)$ 中的性蚜分化情况。结果表明：兰州地区豌豆蚜性雌蚜均为无翅型，而雄蚜均为有翅型。光周期对豌豆蚜性蚜分化有显著影响 $_ { ( P < 0 . 0 5 ) }$ 。在 $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 光周期条件下，豌豆蚜后代中无性蚜分化；在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 、 $1 0 \mathrm { L } : 1 4 \mathrm { D }$ 和${ \mathrm { 8 L } } : 1 6 { \mathrm { D } } \ 3$ 个光周期条件下均有性蚜分化，而且随着光照时间的变短，豌豆蚜 ${ \bf G } _ { 3 }$ 中雄蚜所占百分比逐渐减小，性雌蚜所占百分比逐渐升高。在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下，雄蚜比例最高 $( 3 0 . 3 9 \%$ )，而性雌蚜比例最低 $( 5 5 . 6 7 \% )$ ：在 $1 0 \mathrm { L } : 1 4 \mathrm { D }$ 光周期条件下, ${ \bf G } _ { 3 }$ 中胎生蚜比例最高，而性蚜比例最低；在 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 光周期条件下，无雄蚜分化，而性雌蚜比例最高 $( 9 0 . 7 6 \% )$ 。在同一短光照条件下， $\mathbf { G } _ { 1 }$ 产仔日龄对 ${ \bf G } _ { 3 }$ 中性蚜分化具有显著影响 $( P { < } 0 . 0 5 )$ ，同时性蚜分化具有一定的时间顺序，即先产性雌蚜，后产雄蚜，由性雌蚜向雄蚜过渡过程中伴随产生胎生蚜。表明绿色型豌豆蚜性蚜产生的临界光照时长介于 $1 2 { \sim } 1 4 \mathrm { ~ h ~ }$ ，相对较长的光照条件下有利于雄蚜产生，而光照时间越短性雌蚜比例越高。说明光周期变化是豌豆蚜生殖模式转变和性蚜分化的重要因子，而且豌豆蚜亲代经历光周期处理时间的长短影响后代中性蚜的分化。
+
+关键词：豌豆蚜；绿色型；光周期；雄蚜；性雌蚜；胎生蚜中图分类号：S435.29 文献标识码：A 文章编号:1671-3990(2017)02-0166-06
+
+# Differentiation regularity of Acyrthosiphon pisum (green form) sexual morphs in relation to photoperiods
+
+ZHANG Tingwei, CHEN Wanbin, LIU Changzhong\*\*, CUI Shaowei, RAO Fuqiang (College of Plant Protection, Gansu Agricultural University,Lanzhou 73oo70,China)
+
+Abstract: In order to clarify population reproduction strategyanddiferentiationregularityof Acyrthosiphon pisum (green form)sexual morph in relationto photoperiods,the pea aphid sexual morphs wereobserved after 2continuous generations at different photoperiods $\mathrm { 8 L } : 1 6 \mathrm { D }$ ， $1 0 \mathrm { L } : 1 4 \mathrm { D }$ ， $1 2 \mathrm { L } : 1 2 \mathrm { D }$ and $1 4 \mathrm { L } : 1 0 \mathrm { D } ^ { \cdot }$ in the lab.The results showed that the ovipara of pea aphidinLanzhouarea were wingless,while males were winged.Photoperiod hadasignificant effectonthe differentiationof pea aphid sexual morphs $( P < 0 . 0 5$ ). No sexual morph was produced at $1 4 \mathrm { L } : 1 0 \mathrm { D }$ photoperiod, but a lot were differentiated under the other photoperiods $( 8 \mathrm { L } : 1 6 \mathrm { D }$ ， $1 0 \mathrm { L } : 1 4 \mathrm { D }$ and $1 2 \mathrm { L } : 1 2 \mathrm { D } \dot { } $ . In the shorter photoperiod conditions for the $3 ^ { \mathrm { r d } }$ generation,percent male sexual morphs gradually diminished while percent ovipara gradually increased with decreasing illumination time. Percent male was highest $( 3 0 . 3 9 \% )$ at $1 2 \mathrm { L } : 1 2 \mathrm { D }$ photoperiod, while percent ovipara was lowest $( 5 5 . 6 7 \% )$ at that photoperiod.At $1 0 \mathrm { L } : 1 4 \mathrm { D }$ photoperiod,percent vivipara was highest while percent sexual morphs was lowest. Then at $\mathrm { 8 L } : 1 6 \mathrm { D }$ photoperiod,no male was produced and percent ovipara was highest $( 9 0 . 7 6 \% )$ ）in the $3 ^ { \mathrm { r d } }$ generation．The reproductive period of the $1 ^ { \mathrm { s t } }$ generation also had a significant effect on the differentiation of sexual morphs in the $3 ^ { \mathrm { r d } }$ generation under similar short illumination conditions $( P < 0 . 0 5 )$ ).Meanwhile, there was a certain time sequence in which pea aphid sexual morphs were differentiated (first ovipara and last males)with some viviparatransitioning to sexual morphs. Hence thecritical photoperiodofgreen pea aphid was between 12to14 hours ofilumination.Arelatively longerillumination wasadvantageoustothedifferentiationof males,while short illmination favored higher proportionofovipara.Theresults suggested thatchange in photoperiod was acritical factorof reproductive plasticity.Thereproductionof pea aphid sexual morphs and the illmination length maternal pea aphid experienced influenced sexual diferentiation of offsprngs.
+
+Keywords: Acyrthosiphon pisum (Harris); Green form; Photoperiod; Male aphid; Ovipara; Vivipara
+
+表型可塑性作为生物体对环境异质性(environmentalheterogeneity)适应的一种反应机制，而成为研究物种生态和进化相互关系的热点[1-2]。蚜虫非遗传性多型现象非常普遍，主要包括体色多型、翅型多型和生殖多型等[3]，其中生殖多型现象被认为是蚜虫进化和适应环境条件的典范[4]。在夏季长日照条件下,蚜虫营无性孤雌胎生生殖从而使种群快速增长，对农业生产造成严重影响；当秋末环境条件恶化如温度逐渐降低、光周期逐渐变短时，孤雌胎生蚜通过母代感知环境条件变化从而隔代分化出有性个体(性蚜)进行有性生殖以滞育卵越冬。因此，蚜虫性蚜的产生不仅有利于蚜虫渡过不良环境，而且有利于种群内基因的交流和保持丰富的遗传结构，对蚜虫的生存和进化具有重要作用[5-7]，同时利用人工条件诱导蚜虫性蚜产生对研究蚜虫多型现象和种群遗传有重要意义。
+
+豌豆蚜(Acyrthosiphonpisum)亦称为豆无网长管蚜，是温带地区豆科作物及牧草上的重要害虫[8-9]。因豌豆蚜具有多型现象普遍、周期性孤雌生殖以及同寄主全周期型生活史等特点，使其成为发育生物学和进化生物学研究领域中的理想材料[4,9]。在年生活史中，豌豆蚜在光周期变短和温度降低时产生1代有性蚜(雄蚜和性雌蚜)，一般性雌蚜都为无翅型，而雄蚜具有翅二型现象。Smith和MacKay[1o报道豌豆蚜雄蚜的分化有只产生有翅型、只产生无翅型和能产有翅和无翅型3种类型，而且雄蚜翅型分化差异与地理种群有关。Caillaud等[1经孟德尔遗传研究表明，豌豆蚜雄蚜翅型的有无取决于X染色体上api基因位点的等位基因。Lees[12]和MacKay[13]分别对英格兰和加拿大的豌豆蚜种群在不同光周期下性蚜分化规律就行了研究，但不同地理种群间性蚜分化具有明显差异。国内学者利用低温和短光照对桃蚜(Myzuspersicae)、棉蚜(Aphis gossypii)、大豆蚜(Aphisglycines)的性蚜分化进行了诱导研究[14-17]，但国内关于豌豆蚜性蚜分化的研究尚少有报道。据调查，在我国西北地区红色型豌豆蚜数量虽正逐年上升，但绿色型豌豆蚜仍为优势种群，而且每年春季最先发生的豌豆蚜也都为绿色型[18-20]。因此本文以绿色型豌豆蚜为研究对象，研究了不同光周期条件对豌豆蚜性蚜分化的影响，旨在明确豌豆蚜在我国西北地区性蚜产生的条件和性蚜分化的规律以及豌豆蚜在光周期变化时的种群繁殖策略，为进一步研究豌豆蚜的种群遗传奠定基础。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+试验所用绿色型豌豆蚜采自甘肃农业大学苜蓿试验基地(兰州)，饲养在盆栽蚕豆(Vicia fabae)‘临蚕2'植株上，在温度 $( 2 2 \pm 1 ) \ \mathrm { { ^ \circ C } }$ 、光周期 $1 6 \mathrm { ~ L ~ } \colon \mathrm { ~ 8 ~ D ~ }$ 、相对湿度(RH) $60 \%$ 的条件下饲养多代后备用。
+
+# 1.2 试验方法
+
+性蚜诱导试验在人工气候箱中进行，温度为 $1 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 设置 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 、 $1 0 \mathrm { L } : 1 4 \mathrm { D }$ 、 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 、 $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 等4个不同光周期。试验方法参照王玲等[17略有改动，蚜虫饲养采用离体叶片培养血单头饲养法进行[21]。选取1.1中备用植株上2h内初产的1龄若蚜 $( \mathbf { G } _ { 1 } ) 1 0$ 头(尽可能为不同克隆)，接入培养血蚕豆叶片上置于相应的光照培养箱中进行饲养，每一光周期条件下连续诱导2代。当第1代 $\left( \mathrm { G } _ { 1 } \right)$ 发育成熟并开始产蚜后，分别收集其产仔日龄第 $2 \mathrm { d } , 7 \mathrm { d } , 1 2 \mathrm { d }$ 时所产若蚜 $\left( \mathrm { G } _ { 2 } \right)$ 各10头，每血放1头，继续饲养，待 $\mathbf { G } _ { 2 }$ 开始产蚜后每天收集一次若蚜 $\left( \mathbf { G } _ { 3 } \right)$ ，直到 $\mathbf { G } _ { 2 }$ 全部死亡为止。将 $\mathbf { G } _ { 2 }$ 所有后代 $\left( \mathbf { G } _ { 3 } \right)$ 在新的叶片上继续饲养至成蚜，以备区分各蚜型。蚜型区分主要通过解剖和观察蚜虫的生殖系统或器官来判断， ${ \bf G } _ { 3 }$ 中体内具有红色眼点胚胎的无翅或有翅蚜为孤雌胎生蚜，体内具黄色卵粒的无翅蚜为性雌蚜，腹部具有黑色抱握器的有翅或无翅蚜为雄蚜[11,22]，统计各蚜型的比例。
+
+# 1.3 数据处理
+
+试验所得的所有数据，均利用MicrosoftExcel2003和SPSS16.0软件进行统计分析。表中所出现的误差处理方式均为平均值 $\cdot \pm$ 标准误 $\mathrm { ( m e a n \pm S E ) }$ 。方差分析采用SPSS16.0软件One-wayANOVA程序进行，多重比较采用Duncan法进行。
+
+# 2 结果与分析
+
+# 2.1不同光周期对豌豆蚜性蚜分化的影响
+
+由表1可知，不同光周期对豌豆蚜性蚜分化比例具有显著影响 $( P { < } 0 . 0 5 )$ 。在 $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 光周期条件下,豌豆蚜 ${ \bf G } _ { 3 }$ 中全为胎生蚜，无性蚜产生。在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ /$1 0 \mathrm { L } : 1 4 \mathrm { D }$ 和 ${ \mathrm { 8 L } } : 1 6 { \mathrm { D } } \ 3$ 组光周期条件下，豌豆蚜 ${ \bf G } _ { 3 }$ 中均有性蚜产生，且性雌蚜均为无翅蚜，而雄蚜均为有翅蚜，没有发现无翅雄蚜。在3组短光照处理中，在$1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下， ${ \bf G } _ { 3 }$ 中雄蚜比例最高，而性雌蚜比例最低；在 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 光周期条件下，性蚜中无雄蚜分化，而性雌蚜比例最高；而在 $1 0 \mathrm { L } : 1 4 \mathrm { D }$ 光周期条件下，胎生蚜比例明显较 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 和 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下高，而性蚜比例明显比 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 和12L：12D光周期条件下低 $( P { < } 0 . 0 5 )$ 。表明相对较长的光周期有利于雄蚜产生，而光周期越短性雌蚜比例越高。
+
+表1不同光周期处理两代后豌豆蚜后代 $( \mathbf { G } _ { 3 } )$ 中各蚜型的分化比例 Table 1Percentages of various morphs of offspring $\left( \mathbf { G } _ { 3 } \right)$ of pea aphid after treatments of different photoperiods for 2 generations%   
+
+<html><body><table><tr><td>光周期 Photoperiod</td><td>胎生蚜Vivipara</td><td>雄蚜 Males</td><td>性雌蚜 Ovipara</td><td>性蚜 Sexual morphs</td></tr><tr><td>8L :16D</td><td>9.24±2.54c</td><td>0±0c</td><td>90.76±2.54a</td><td>90.76±2.54a</td></tr><tr><td>10L :14D</td><td>23.86±7.08b</td><td>8.63±2.83b</td><td>66.03±7.52b</td><td>74.66±7.08b</td></tr><tr><td>12L :12D</td><td>13.94±0.53c</td><td>30.39±6.22a</td><td>55.67±8.73b</td><td>86.06±0.53a</td></tr><tr><td>14L :10D</td><td>100±0a</td><td>一</td><td>二</td><td>二</td></tr></table></body></html>
+
+同列不同小写字母表示在Duncan 法显著性测验中 $P { < } 0 . 0 5$ 水平上差异显著。下同。Different lowercase letters in the same column indicate significant difference at O.O5 level by Duncan's multiple range test.
+
+# 2.2 $\bf { G } _ { 1 }$ 产仔日龄对性蚜分化的影响
+
+由表2可知，在同一光周期条件下， $\mathbf { G } _ { 1 }$ 不同产仔日龄对后代 ${ \bf G } _ { 3 }$ 中各蚜型分化比例具有显著影响，而且同一产仔日龄不同光周期间各蚜型分化比例也不相同 $( P { < } 0 . 0 5 )$ 。在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下, $\mathbf { G } _ { 1 }$ 产仔日龄对 ${ \bf G } _ { 3 }$ 中胎生蚜比例和性蚜比例没有显著影响$( P { > } 0 . 0 5 )$ ，而对雄蚜和性雌蚜的比例有显著影响$( P { < } 0 . 0 5 )$ ， $ { \mathbf { G } } _ { 1 } 2  { \mathrm { d } }$ 产仔日龄时所产后代 ${ \bf G } _ { 3 }$ 中性雌蚜比例最高，而雄蚜比例最低，与7d和12d产仔日龄时${ \bf G } _ { 3 }$ 中性雌蚜和雄蚜比例存在显著差异 $( P { < } 0 . 0 5 )$ 。在
+
+$1 0 \mathrm { L } : 1 4 \mathrm { D }$ 光周期条件下， $\mathbf { G } _ { 1 }$ 产仔日龄对 ${ \bf G } _ { 3 }$ 中各蚜型比例均有显著影响 $( P { < } 0 . 0 5 )$ ，随着 $\mathbf { G } _ { 1 }$ 产仔日龄的增加， ${ \bf G } _ { 3 }$ 中雄蚜比例逐渐降低，而性雌蚜比例逐渐升高，但 $ { \mathbf { G } } _ { 1 } 7  { \mathrm { ~ d ~ } }$ 产仔日龄时后代 ${ \bf G } _ { 3 }$ 中胎生蚜比例最高，而性蚜比例最低。在 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 光周期条件下, ${ \bf G } _ { 3 }$ 中均无雄蚜产生， $\mathbf { G } _ { 1 }$ 产仔日龄对 ${ \bf G } _ { 3 }$ 中胎生蚜比例和性雌蚜比例均有显著影响，从而影响性蚜总比例$( P { < } 0 . 0 5 )$ ， $ { \mathrm { G } } _ { 1 } 1 2  { \mathrm { d } }$ 产仔日龄时, ${ \bf G } _ { 3 }$ 中胎生蚜比例最低，而性雌蚜比例最高。表明豌豆蚜亲代经历光周期时间的长短会影响后代中性蚜的分化比例。
+
+表2不同光周期处理下第1代豌豆蚜 $\mathbf { \left( G _ { 1 } \right) }$ 产仔日龄对第3代 $( \mathbf { G } _ { 3 } )$ 各蚜型分化比例的影响Table 2Effect of reproductive period of the first generation $\left( \mathrm { G } _ { 1 } \right)$ on the percentages of various morphs of the third generation $\left( \mathbf { G } _ { 3 } \right)$ （204号of pea aphid under different photoperiods $\%$ （204号  
+
+<html><body><table><tr><td>光周期 Photoperiod</td><td>G产仔日龄 Reproductive period of Gi (d)</td><td>胎生蚜 Vivipara</td><td>雄蚜 Males</td><td>性雌蚜 Ovipara</td><td>性蚜 Sexual morphs</td></tr><tr><td>8L :16D</td><td>2</td><td>12.39±7.69Ba</td><td>0±0Ca</td><td>87.61±7.69Ab</td><td>87.61±7.69Ab</td></tr><tr><td></td><td>7</td><td>11.33±6.42Ba</td><td>0±0Ca</td><td>88.67±6.42Ab</td><td>88.67±6.42Ab</td></tr><tr><td></td><td>12</td><td>4.17±2.38Bb</td><td>0±0Ba</td><td>95.83±7.23Aa</td><td>95.83±2.38Aa</td></tr><tr><td>10L:14D</td><td>2</td><td>27.26±5.50Ab</td><td>24.34±3.94Aa</td><td>48.38±9.44Bc</td><td>72.73±5.50Bb</td></tr><tr><td></td><td>7</td><td>36.25±7.46Aa</td><td>1.55±0.81Bb</td><td>62.19±8.26Bb</td><td>63.75±7.46Bc</td></tr><tr><td></td><td>12</td><td>12.24±5.36Ac</td><td>0±0.0Bb</td><td>87.76±10.12Ba</td><td>87.76±5.36Ba</td></tr><tr><td>12L :12D</td><td>2</td><td>12.50±3.95Ba</td><td>5.51±5.06Bb</td><td>81.98±1.43Aa</td><td>87.49±3.95Aa</td></tr><tr><td></td><td>7</td><td>12.88±5.47Ba</td><td>47.72±9.90Aa</td><td>39.40±11.54Cb</td><td>87.11±5.47Aa</td></tr><tr><td></td><td>12</td><td>15.25±7.84Aa</td><td>34.65±2.50Aa</td><td>50.10±5.65Cb</td><td>84.75±7.84Ba</td></tr></table></body></html>
+
+不同大写字母表示同一产仔日龄不同光周期间差异显著 $( P { < } 0 . 0 5 )$ ，不同小写字母表示同一光周期不同产仔日龄间差异显著 $( P { < } 0 . 0 5 )$ 。Oiferentcapitalletters indicatesignificant differencesamong differentphotoperiods withinthesamereproductive period $( P < 0 . 0 5 ^ { \cdot }$ )，differerowercase letters indicate significant differences among reproductive periods for the same photoperiod $( P < 0 . 0 5 )$ 1
+
+# 2.3 豌豆蚜性蚜分化的时间顺序
+
+根据观察，在 $1 5 \ \mathrm { ~ \textdegree ~ }$ 条件下，豌豆蚜整个产蚜期为 $2 0 \mathrm { d }$ 左右。由图1可知，豌豆蚜的生殖模式、性蚜分化顺序与光周期密切相关， $\mathbf { G } _ { 2 }$ 不同产蚜期内后代${ \bf G } _ { 3 }$ 中各蚜型分化比例不同。在 $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 光周期条件下整个 $\mathbf { G } _ { 2 }$ 产蚜期内，豌豆蚜 ${ \bf G } _ { 3 }$ 中全为胎生蚜，无性蚜分化，以孤雌生殖模式进行繁殖(见图1d)，而当光周期突然缩短时豌豆蚜以两性生殖为主、兼以孤雌生殖模式进行繁殖(见图1a，b，c)。在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ /$1 0 \mathrm { L } : 1 4 \mathrm { D }$ 和 ${ \mathrm { 8 L } } : 1 6 { \mathrm { D } } 3 $ 组光周期条件下，在 $\mathbf { G } _ { 2 }$ 产蚜期的前 $1 0 \mathrm { d }$ 内，豌豆蚜 ${ \bf G } _ { 3 }$ 后代中均以产性雌蚜为主，而雄蚜在产蚜 $1 0 \mathrm { ~ d ~ }$ 后出现，并且随着光周期逐渐缩短，雄蚜出现的天数逐渐缩短。在 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 光周期条件下, $\mathbf { G } _ { 2 }$ 第1d所产的后代均为性雌蚜，而产蚜5d后逐渐分化出胎生蚜；在 $1 0 \mathrm { L } : 1 4 \mathrm { D }$ 和 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下，在前期分化出性雌蚜和胎生蚜之后，第10d又分化出雄蚜。根据3组短光照条件下不同产蚜期内各生物型的分化比例，表明豌豆蚜性蚜分化过程呈现一定的时间顺序：即先产性雌蚜，后产雄蚜，由性雌蚜向雄蚜过渡过程中伴随产生胎生蚜。
+
+![](images/9e9912e8f156b66825561c4b68a0dbd53a049e315cef02a34ec4cb7d6de0d6be.jpg)  
+图1不同光周期条件下特定产蚜期豌豆蚜各生物型分化比例 Fig.1Percentages of various morphs of pea aphid in ${ \bf G } _ { 3 }$ under different photoperiods with specific reproductive period of $\mathbf { G } _ { 2 }$
+
+# 3 讨论与结论
+
+自然界中，温度与光周期作为重要的环境因子，协同作用于生物体的生长发育、繁殖和分布。昆虫的年生活史、滞育、世代交替和蚜虫的季节多型现象都与温度和光周期变动密切相关[23]。在温带地区,光周期诱导是大多数昆虫滞育的主要原因，由于不同地理纬度间光周期的差异是恒定的，因此不同地理分布的同种昆虫滞育的临界光周期具有地理差异性[24-25]。大豆蚜[17]、棉蚜[26]以及亚洲玉米螟(Ostriniafurnacalis)[27等昆虫的不同地理种群研究证实，对于短日照滞育型昆虫而言，滞育诱导的临界光周期常随着地理纬度的升高而延长。据报道，在20℃条件下加拿大曼尼托巴地区豌豆蚜在光照时长低于
+
+15h时就有性蚜分化，而且在 $1 5 \mathrm { L } : 9 \mathrm { D }$ 光周期条件下产生雄蚜最多[13]。Lees[12]对英格兰伯克郡地区豌豆蚜种群研究发现，在 $1 5 \ \mathrm { { ^ \circ C } }$ ，光周期为 $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 时，性蚜出现而且最有利于雄蚜产生。本研究结果表明，在 $1 5 \ \mathrm { { ^ \circ C } }$ 条件下，兰州地区豌豆蚜在 $1 4 \mathrm { L } : 1 0 \mathrm { D }$ 光周期条件下无性蚜分化，而在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下开始出现性蚜分化并且雄蚜数量最高 $( 3 0 . 3 9 \% )$ ，可能与兰州地区纬度较低有关[28]。在3组短光照处理下,性蚜比例均在 $70 \%$ 以上，表明兰州地区豌豆蚜性蚜产生的临界日照时长介于 $1 2 { \sim } 1 4 ~ \mathrm { h } _ { \mathsf { c } }$
+
+本研究发现，兰州地区豌豆蚜性雌蚜均为无翅型，而雄蚜均为有翅型。在日光照长度 $8 { \sim } 1 2 \mathrm { h }$ 范围内，随着光照时数的逐渐缩短，豌豆蚜雄蚜数量逐渐减少，而性雌蚜数量逐渐升高，同时性蚜分化过程呈现一定的时间顺序，即先分化出性雌蚜，后分化出雄蚜，由性雌蚜向雄蚜过渡过程中伴随产生胎生蚜，此结果与国外学者对豌豆蚜研究结果一致[12-13,29]。前人对蚜虫有翅型和无翅型生物学研究表明，在相同条件下有翅型蚜虫比无翅型蚜虫发育历期更长，所需消耗营养物质更多，其原因在于翅型出现对于个体发育来说是种额外投资，个体延长发育历期从而获得完成个体发育所需的营养物质[29-31]。但是,在自然条件下，当环境条件不适宜(光周期变短、食物资源短缺)时，蚜虫可能会调整后代中生物型的比例，从而利用有限的资源获得最大的投资回报率，如在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下，豌豆蚜后代中性雌蚜比例为 $5 5 . 6 7 \%$ ，雄蚜比例为 $3 0 . 3 9 \%$ ，而在 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 光周期条件下，后代中性雌蚜比例达 $9 0 . 7 6 \%$ ，而不分化出雄蚜。随着光周期逐渐变短，性雌蚜数量增多，意味着越冬代卵越多和分布越广。但随着光周期变短豌豆蚜后代中雄蚜数量越来越少，甚至不产生雄蚜，一方面可能是因为前期光周期相对较长时已经存在足够数量用于交配的雄蚜，另一方面可能是由于雄蚜出现在生殖后期且发育历期较长而导致亲代减少对其投资[17,29]。此外，在短光照条件下，豌豆蚜在生殖期后期仍有 $10 \% { \sim } 2 5 \%$ 左右的孤雌胎生蚜产生，则表明只要环境条件适宜或者当环境条件转为适宜时该虫仍能以孤雌胎生模式进行繁殖而继续为害。因此，豌豆蚜在光周期变化时的这种性蚜分化规律与母体根据外在环境变化对后代性别分配的调整以及性蚜个体差异有关。
+
+本研究还发现，豌豆蚜 $\mathbf { G } _ { 1 }$ 不同产仔日龄对后代${ \bf G } _ { 3 }$ 中各蚜型分化比例具有显著影响，而且同一产仔日龄不同光周期间各蚜型分化比例也不相同 $( P <$ 0.05)。在 $1 2 \mathrm { L } : 1 2 \mathrm { D }$ 光周期条件下，随着 $\mathbf { \bar { G } } _ { 1 }$ 产仔日龄的增加，后代中雄蚜比例表现出升高的趋势，而随着光周期变短、 $\mathbf { G } _ { 1 }$ 产仔日龄的增加，后代中雄蚜比例逐渐降低甚至后代中不分化出雄蚜。在 $1 0 \mathrm { L } : 1 4 \mathrm { D }$ 和 ${ 8 \mathrm { L } : 1 6 \mathrm { D } }$ 光周期条件下随着产仔日龄的增加，性雌蚜的比例逐渐增加，而孤雌胎生蚜的比例逐渐降低。 ${ \bf G } _ { 1 } 7$ d产仔日龄前后对后代性蚜分化有显著影响，此结果与棉蚜、大豆蚜的研究结果相似[15,17,26]，究其原因可能与母代效应有关。母代所经历的环境(光照、温度和营养)变化会对子代表现型差异产生影响[32]。郭玉玲等[33]研究发现，菜蛾盘绒茧蜂母代的光周期经历会影响子代滞育发生。因此，豌豆蚜 $\mathbf { G } _ { 1 }$ 产仔日龄的大小，意味着母代经历光周期时间的长短，从而影响后代性蚜的分化。
+
+本研究表明，兰州地区绿色型豌豆蚜性蚜产生的临界光照时长介于 $1 2 { \sim } 1 4 \mathrm { h }$ ，不同光周期下性蚜分化比例不同，而且亲代产仔日龄也会影响后代性蚜的分化。相对较长的光照时长有利于雄蚜的诱导出现，而光照时长越短，越有利于性雌蚜数量的增加，并且性蚜分化过程呈现一定的时间顺序，即先分化出性雌蚜，后分化出雄蚜，由性雌蚜向雄蚜过渡过程中伴随少量孤雌胎生蚜产生。本文仅对绿色型豌豆蚜性蚜分化规律进行了研究，由于豌豆蚜具有红、绿两种色型，而且两种色型豌豆蚜在相同寄主、温度、光周期条件下生长发育和繁殖方面存在显著差异[19,21,34]，因此红色型豌豆蚜性蚜分化规律与绿色型是否相同有待研究。此外，由于自然界中温度和光周期共同作用于生物体，因此关于光温互作对豌豆蚜性蚜分化的诱导也有待进一步研究。
+
+# 参考文献References
+
+[1]Agrawal A A.Phenotypic plasticity in the interactions and evolution of species[J]. Science,2001,294(5541): 321-326   
+[2]陈倩，沈佐锐，王永模．蚜虫的表型可塑性及其遗传基础[J]. 昆虫学报,2006,49(5):859-866 Chen Q,Shen ZR,WangYMPhenotypic plasticity of aphids and its genetic basis[J].Acta Entomologica Sinica,2006, 49(5): 859-866   
+[3]Simpson SJ,Sword G A,Lo N.Polyphenism in insects[J]. Current Biology,2011,21(18): R738-R749   
+[4]Simon JC,Stoeckel S,Tagu D.Evolutionary and functional insights into reproductive strategies of aphids[J].Comptes Rendus Biologies,2010,333(6/7): 488-496   
+[5]Liu L J, Zheng HY, Jiang F,et al. Comparative transcriptional analysis of asexual and sexual morphs reveals possible mechanisms in reproductive polyphenism of the cotton aphid[J].PLoS One,2014,9(6):e99506   
+[6]Poupoulidou D,Margaritopoulos JT,Kephalogianni T E,et al. Effect of temperature and photoperiod on the life cycle in lineages of Myzus persicae nicotianae and Myzus persicae s. str. (Hemiptera: Aphididae)[J]. European Journal of Entomology, 2006,103(2): 337-346   
+[7]Saunders D S.Insect photoperiodism:Effects of temperature on the induction of insect diapause and diverse roles for the circadiansysteminthephotoperiodicresponse[J]. Entomological Science,2014,17(1): 25-40   
+[8]张廷伟，黄纯倩，杜军利，等．阿尔蚜茧蜂对不同龄期豌豆 蚜的寄生及后代适合度研究[J]．中国生态农业学报，2015, 23(7):914-918 Zhang T W,Huang C Q,Du JL，et al.Parasitism and offspring fitness of Aphidius ervi Haliday in relation to its host Acyrthosphon pisum Harris at different stages[J]. Chinese Journal of Eco-Agriculture,2015,23(7):914-918   
+[9]Brisson JA,Davis GK.Pea aphid[M]//Hunter W,Kole C. Genome Mapping and Genomics in Arthropods. Berlin Heidelberg: Springer,2008,1: 59-67   
+10]Smith MAH,MacKay PA.Genetic variation in male alary   
+[12] Lees A D.Dual photoperiodic timers controlling sex and female morph determination in the pea aphid,Acyrthosiphon pisum[J]. Journal of Insect Physiology,1990,36(8): 585-591   
+[13] MacKay P A.Production of sexual and asexual morphs and changes in reproductive sequence associated with photoperiod in the pea aphid,Acyrthosiphon pisum (Harrs)[J]. Canadian Journal of Zoology,1987,65(11): 2602-2606   
+[14]杨效文，张孝羲．温度和光周期对烟蚜性蚜的诱导[J]．昆 虫知识,1999,36(5):272-274 Yang X W, Zhang X X.Production of sexual morph of Myzus persicae (Sulzer) in relation to photoperiod and temperature[J]. EntomologicalKnowledge,1999,36(5):272-274   
+[15]龚鹏，张孝羲．温度和光周期对棉蚜性蚜产生的诱导[J]. 植物保护学报,2001,28(4):318-324 Gong P,Zhang X X.The inducement of temperature and photoperiod to produce sexuales of Aphis gossypii glover[J]. Acta Phytophylacica Sinica,2001,28(4): 318-324   
+[16]徐蕾，赵季秋，许国庆，等．室内人工诱导大豆蚜产生有性 世代的研究[J]．应用昆虫学报,2015,52(6):1429-1437 Xu L,Zhao JQ,Xu G Q,et al.Artificial induction of sexuales in Aphis glycines (Hemiptera: Aphididae)[J]. Chinese Journal of Applied Entomology,2015,52(6): 1429-1437   
+[17]王玲，杨帅，赵奎军，等．低温和光周期对不同地理种群大 豆蚜蚜型的影响[J]．大豆科学,2014,33(2):228-231 Wang L,Yang S, Zhao K J,et al.Effect of low temperature and photoperiod on soybean aphid forms from different geographical populations[J]. Soybean Science,2014,33(2): 228-231   
+[18]王小强，韩秀楠，曹馨月，等．豌豆品种对绿色型豌豆 蚜种群参数的影响[J]．中国生态农业学报，2013，21(8): 1004-1008 Wang XQ,Han X N,Cao X Y,et al.Effects of different garden pea cultivars on population parameters of green morph of pea aphid (Acyrthosiphon pisum)[J]. Chinese Journal of Eco-Agriculture,2013,21(8): 1004-1008   
+[19]杜军利，武德功，吕宁，等．不同温度条件下两种色型豌豆 蚜的种群参数[J].草业学报,2015,24(11):91-99 Du JL,Wu D G, Lü N,et al. Population parameters of two pea aphid(Acyrthosiphon pisum） color morphs at different temperatures[J].Acta Prataculturae Sinica,2015,24(11): 91-99   
+[20]金娟，王森山，贺春贵．西北不同地理种群红色型豌豆蚜 的遗传多样性[J]．草地学报,2013,21(2):406-412 Jin J,Wang S S,HeCG.Genetic diversities of Acyrthosiphon pisum(Harris）(pink form）populations from different geographic regions in the northwest of China[J].Acta Agrestia Sinica,2013,21(2): 406-412   
+[21］马亚玲，刘长仲．光周期对两种色型豌豆蚜生长发育的影 响[J]．中国生态农业学报,2014,22(12):1476-1483 Ma Y L,Liu C Z. Effect of photoperiod on growth and development of two color morphs of pea aphid (Acyrthosiphon pisum)[J]. Chinese Journal of Eco-Agriculture,2014,22(12): 1476-1483   
+[22] Via S. Inducing the sexual forms and hatching the eggs of pea   
+[23] Nijhout HF.Control mechanisms of polyphenic development in insects: In polyphenic development, environmental factors alter some aspects of development in an orderly and predictable way[J]. Bioscience,1999,49(3): 181-192   
+[24] Tauber E,Kyriacou B P. Insect photoperiodism and circadian clocks:Models and mechanisms[J]. Journal of Biological Rhythms,2001,16(4): 381-390   
+[25] Saunders D S.Insect Clocks[M].3rd ed.Amsterdam: Elsevier Science,2002   
+[26]刘健，吴孔明，赵奎军，等．不同地理种群棉蚜对温度和光 周期的生态适应性[J]．生态学报,2003,23(5):863-869 Liu J,Wu K M, Zhao KJ,et al. The ecological adaptability of Aphis gossypii collected from different climate zones to temperature and photoperiod[J]. Acta Ecologica Sinica,2003, 23(5): 863-869   
+[27] 郭建青，张洪刚，王振营，等．光周期和温度对亚洲玉米螟 滞育诱导的影响[J]．昆虫学报,2013,56(9):996-1003 Guo J Q, Zhang HG,Wang Z Y,et al. Effects of photoperiod and temperature on diapause induction in Ostrinia furnacalis (Lepidoptera: Crambidae)[J]. Acta Entomologica Sinica,2013, 56(9): 996-1003   
+[28]武德功，杜军利，贺春贵，等．绿色豌豆蚜不同地理种群的 遗传多样性[J].中国生态农业学报,2015,23(4):465-472 Wu D G,Du JL,He C G,et al.Genetic diversity of Acyrthosiphon pisum (green form） from different geographical populations[J]. Chinese Journal of Eco-Agriculture,2015, 23(4): 465-472   
+[29]Lamb R J,Pointing PJ.Sexual morph determination in the aphid,Acyrthosiphon pisum[J]. Journal of Insect Physiology, 1972,18(10): 2029-2042   
+[30] Mackay P A，Wellington W G. A comparison of the reproductive patterns of apterous and alate virginoparous Acyrthosiphon pisum (Homoptera: Aphididae)[J]. The Canadian Entomologist,1975,107(11): 1161-1166   
+[31]龚豪，李川，史胜利，等．有翅型与无翅型棉蚜发育及繁殖 能力比较研究[J]．西南农业学报,2009,22(6):1785-1788 Gong H,Li C, Shi S L,et al. Difference of development and reproduction of Aphis gossypii Glover winged and wingless morph[J]. Southwest China Journal of Agricultural Sciences, 2009,22(6): 1785-1788   
+[32] 刘柱东,李典谟，葛绍奎，等．昆虫的母代效应[J]．昆虫学 报,2003,46(1):108-113 Liu Z D,Li D M, Ge S K,et al. Maternal effects in insects[J]. Acta Entomologica Sinica,2003,46(1): 108-113   
+[33]郭玉玲，庞淑婷，AhmedUAE，等．母代光照经历对菜蛾 盘绒茧蜂滞育发生的影响[J].中国生物防治，2007，23(1): 1-4 Guo YL,Pang S T,Ahmed U A E,et al. Effect of maternal photoperiod experience on diapause incidence of Cotesia plutellae[J]. Chinese Journal of Biological Control,2007, 23(1): 1-4   
+[34]金娟，梁金，贺春贵．苜蓿品种对2种色型豌豆蚜的抗生 性[J]．草业学报,2013,22(6):335-340 Jin J,Liang J,He C G. Antibiosis of five alfalfa cultivars to two colour morphs of Acyrthosiphon pisum[J]. Acta Prataculturae Sinica,2013,22(6): 335-340

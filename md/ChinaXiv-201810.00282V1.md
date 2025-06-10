@@ -1,0 +1,180 @@
+# 奖赏通过增强信号监测提升认知控制
+
+王宴庆1 胡学平²尹首航1 陈安涛1
+
+(1西南大学心理学部，认知与人格教育部重点实验室，重庆400715)(江苏师范大学语言科学与艺术学院，江苏省语言与认知神经科学重点实验室，语言能力协同创新中心，徐
+
+州 221009)
+
+摘要认知控制是动态的、过程性的认知调控，涉及监测和控制两个过程。先前研究表明奖赏可以提升认知控制，但是奖赏是通过增强信号监测来提升认知控制的，还是作用于控制过程来提升认知控制的，是一个有待研究的重要问题。在本研究中，我们设计了三个实验来调查这一问题。实验一采用 Stop-Signal任务验证奖赏是否能提升认知控制；实验二通过改变反应规则将 Stop-Signal任务信号监测加工分离出来，探讨实验一中奖赏的提升作用是否来源于奖赏对信号监测的增强；实验三通过操纵注意资源损耗分析，考察注意资源分配对信号监测的促进作用。实验一结果显示，个体能更快的根据奖赏信息做出抑制反应。实验二结果表明，在信号监测任务中，个体能更加快速的监测到与当前抑制状态相冲突且和奖赏相关的反应信号，据此可认为奖赏通过增强对相关信号的监测，有助于个体更早地启动奖赏刺激信号所对应的反应，更高效地控制冲突。实验三结果说明，当任务难度增大，注意资源损耗，奖赏相关信号的反应时和正确率仍优于无奖赏信号，说明注意资源的分配可以调节相关信号的监测速度。总体来看，本研究通过一系列实验表明，以目标为导向的行为发生过程中，奖赏能有效提升认知控制效率，其关键机制在于通过注意资源分配增强相关信号的监测，
+
+关键词奖赏；认知控制；信号监测;Stop-Signal任务
+
+分类号 B842
+
+# 1引言
+
+认知控制是指在以目标为导向的行为发生过程中，个体对与任务无关的信息及冲动性行为倾向的抑制能力，它是完成认知活动所必需的高级认知功能(Aron,Robbins,&Poldrack,2014; Braver et al.,2014; Hampshire& Sharp,2015)。认知控制加工是一种动态的、过程性的认知调控，通常涉及监测和控制两个过(Carter et al.,2000; Kerns,Cohen,Cho,Stenger,&Carter,2004; Botvinick et al.,1999; Botvinick,Cohen,& Carter,2004)，个体在早期知觉加工阶段监测到(冲突或警告)信号的出现，然后实施抑制控制。成功的抑制控制需要个体快速有效的监测到信号的出现，然后进一步做出正确的反应选择。
+
+大量研究表明奖赏(reward)作为一种外部刺激诱因，能够通过诱发特定的情绪和动机提升认知控制(Botvinick& Braver,2015; Braver et al.,2014; Pessoa,2009)，即相比于无奖赏刺激,个体能有效的抑制分心刺激带来的干扰，提高奖赏相关刺激的反应(Boehler,Hopf, Stoppel,& Krebs,2012; Boehler, Schevernels, Hopf, Stoppel,& Krebs, 2014; Krebs, Boehler, Egner,&Woldorff,2011)。例如,Krebs,Boehler,Egner 和 Woldorff(2011)采用 Stroop 任务发现，当靶刺激与奖赏相关联时，个体能更加快速且正确地排除干扰，降低冲突并做出按键反应。但是目前尚未有研究探讨奖赏是否对信号监测产生影响，而一般的认知控制研究发现个体对冲突的控制依赖于监测功能(Egner& Hirsch,2005; Botvinick et al.,1999)。个体对信号的监测有别于反应控制，从功能来讲，信号监测主要负责在视觉范围内探测、搜索目标行为相关的信号，然后将相关信息传递给反应控制，而反应控制负责维持目标相关行为，抑制目标无关行为;从认知控制的执行过程来讲，信号监测发生于注意加工的早期阶段，先于反应控制。先前研究表明目标行为发生过程中，个体对冲突信号的有效监测会优化后续的反应输出(唐丹丹，陈安涛,2013；蒋军，向玲，张庆林，陈安涛,2014)。那么奖赏是否是通过增强信号监测提升认知控制，在这种机制下，奖赏相关刺激捕获更多的注意，个体能更快的监测到奖赏相关信号的出现，更早的启动、实施抑制反应；亦或者直接作用于认知控制功能，即奖赏增强了刺激-反应映射，个体面对奖赏相关的刺激时能更快的提取与之对应的反应规则。先前研究用来考察认知控制的相关任务(如：Go/NoGo、Flanker、Stroop 等)的测试结果既反映了信号监测能力，同时也反映冲突控制能力，因此以往的研究在探讨奖赏提升认知控制时，无法提供直接的证据说明提升效应是否来自于奖赏对信号监测的增强(Chikazoe et al.,2009; Sharp etal.,2010; van Steenbergen, Band, & Hommel, 2012)。
+
+在认知研究领域,Stop-Signal任务是研究认知控制的常用范式，在该范式中停止信号是小概率事件，出现的潜伏期是根据被试的反应进行动态调整，当停止信号突然出现时，要求个体在反应过程中合理分配注意，快速监测信号的出现，然后将已经处于准备状态的反应停止下来(Lee et al.,2016; Sharp et al.,2010; Xu et al.,2017)。个体更快的监测到停止信号的出现,则能更早的启动停止反应，抑制按键冲动。由于 Stop-Signal任务加工过程相对简单，仅包括对停止信号的监测和抑制，并且能根据实验设计与个体的表现计算出个体对停止信号抑制的反应时间，有效的评估个体的认知控制能力。本研究将采用 Stop-Signal任务测量奖赏对停止信号加工的促进作用，以此考察奖赏提升认知控制的机制。
+
+此外，奖赏的呈现方式对认知控制有不同的影响。先前研究在操作奖赏信息时，是在每个试次(组块)之前呈现奖赏线索，在这种操作下，奖赏主要通过诱发被试保持一种持续的准备状态，积极维持目标信息，进一步调节个体解决冲突、抑制反应的能力(Botvinick& Braver,2015; van den Berg,Krebs,Lorist,& Woldorf,2014)。由于这种方法需要被试在反应前持续维持奖赏相关线索信息，占用的认知资源比较多，认知负荷大，会对实验任务本身的操作产生一定的影响，不能够准确的考察奖赏对刺激信号加工本身的影响机制。
+
+为此，本研究在 Stop-Signal任务基础上采用刺激-奖赏联结的方法将一类或多类刺激与奖赏进行联结，以此来论证奖赏提升认知控制的机制。不同于奖赏线索的影响机制，刺激一奖赏联结通过影响个体对即时出现的目标相关信息的注意加工，进一步优化行为输出(Boehler et al.,2014; Krebs et al.,2011)。此外，本研究将采用三个实验来探讨奖赏通过增强信号监测提升认知控制这一机制。在实验一中，我们通过 Stop-Signal任务考察奖赏对认知控制的提升效应；实验一的结果可以说明奖赏提升了认知控制，但是不能反映提升效应来自于监测功能还是控制功能的增强。基于实验一的结果，实验二在 Stop-Signal任务的基础上改变反应规则，要求被试对向左/向右箭头不做任何反应(Stop)，此时被试处于抑制激活状态，然后给予一个小概率的反应信号(Go)，要求被试又快又准确的进行按键反应，该加工过程与Stop-Signal任务中停止信号的加工过程相同，即已经形成的反应倾向(Go/Stop)与小概率刺激信号代表的反应活动(Stop/Go)形成冲突。不同于传统的 Stop-Signal任务，实验二中，个体监测到Go信号的出现，立即启动按键反应，能够通过反应时反映个体对信号的监测；此外，先前研究表明奖赏信息能够通过调节注意资源的分配增强个体对刺激信号的加工 (Krebs etal.,2011; Krebs,Boehler,Appelbaum, & Woldorff,2013; Krebs, Boehler,& Woldorf,2010)。实验三在实验二的规则基础上加入停止信号，由于加工停止信号会占用Go信号的注意加工资源。如果奖赏刺激可以吸引更多的注意资源来增强信号监测加工，那么即使在注意资源损耗的情况下，奖赏相关的信号仍可以吸引更多的注意资源，行为表现优于无奖赏刺激。
+
+# 2 方法
+
+# 2.1被试
+
+共有 26人(男生12人，年龄在17岁\~24岁之间，平均年龄为20.5岁)参加实验，所有被试均为自愿参加实验，且身心健康、右利手、视力或矫正视力正常、非色盲或色弱。实验前
+
+均签署实验知情同意书，实验完成后根据每名被试的任务表现给予相应的报酬。
+
+# 2.2 实验仪器
+
+实验采用计算机呈现刺激，显示器为17寸戴尔E2014HC，分辨率为 $1 6 0 0 \times 9 0 0$ ，刷新率为 $6 0 \mathrm { { H z } }$ 。实验程序由E-prime 编制运行，被试在键盘上做按键反应，反应时和正确率由计算机自动记录。被试双眼距屏幕的距离约为 $6 0 \mathrm { c m }$ ，在一个亮度适中的单间实验室里单独参加测试。
+
+# 2.3 任务和程序
+
+本研究由三个实验组成，每个实验呈现的刺激及流程见图1，首先在屏幕中央呈现（204号 $^ { * * } + { } ^ { , * } 5 0 0 \mathrm { m s }$ ，接下来呈现向左或向右的白色箭头，偶尔在箭头上面会出现向上或向下且不同颜色(蓝色或黄色)的三角形，要求被试根据每部分相应的反应规则进行按键反应，最后空屏$5 0 0 { \sim } 1 0 0 0 ~ \mathrm { m s }$ 后开始下一试次。
+
+![](images/69521adee1d91345aa391b27c7e88387c6c6ec87fceff2db31066ccea943e7a4.jpg)
+
+图1 实验流程图。A，实验一中，判断箭头朝向，箭头上出现向上或向下的三角形(停止信号)时停止反应;B,实验二中，不对箭头反应，箭头上出现向上或向下的三角形(Go信号)时判断箭头朝向;C，实验三中，不对箭头反应，箭头上出现向下的三角形(停止信号)时不做反应，箭头上出现向上的三角形(Go 信号)时判断箭头朝向。
+
+实验一为 Stop-Signal任务，主要探讨被试的抑制能力水平。屏幕出现向左或向右的箭头时，要求被试又快又准确的判断箭头朝向，箭头朝左按"F"键，箭头朝右按"J"键，当箭头上面出现向上或向下的三角形时，要求被试停止按键，不做任何按键反应。
+
+实验二改变 Stop-Signal任务的反应规则，探讨被试对信号刺激的监测。任务要求被试屏幕出现向左或向右的箭头时不要做任何按键反应，当箭头上面出现向上或向下的三角形时，又快又准确的判断箭头的朝向，箭头朝左按"F"键，箭头朝右按"J"键。
+
+实验三既包括对信号的抑制规则，也包括对信号的反应规则。要求被试当屏幕出现向左、向右的箭头或箭头上面出现向下的三角形时，不要做任何按键反应，当箭头上面出现向上的三角形时，又快又准确的判断箭头的朝向，箭头朝左按"F"键，箭头朝右按"J"键。
+
+实验前会告知被试，参加本次实验首先会得到30元人民币，但最终获得的报酬取决于其在实验过程中的表现。实验中为了避免被试分心去计算金钱的数量，影响实验操作，本研究将所有的金钱数转换成游戏币进行操作(100 游戏币 $= 0 . 1$ 元人民币)(Krawczyk, Gazzaley,& D'Esposito,2007)。按照反应规则正确对黄色三角形(向上或向下)信号反应，每次得到100游戏币，做错扣除 100 游戏币；按照反应规则正确对蓝色三角形(向上或向下)信号反应，每次得到0游戏币，做错扣除0游戏币。先前研究发现不同颜色的刺激会对认知控制产生影响(Wang,Zhao,Xue,& Chen,2016)，因此在实验中不同颜色所对应的奖赏大小在被试间进行平衡。每个组块或每部分实验结束后被试可稍作休息，以保证较好的状态。
+
+实验一中停止信号与Go 信号间的时距(即停止信号延迟,stop signal delay,SSD)按照追踪算法设置。初始 SSD 设置为 $2 0 0 ~ \mathrm { { m s } , }$ ，然后根据被试的反应做动态调整：如果被试在当前停止试次中成功抑制住了反应，下一个 Stop 试次的 SSD 延长 $3 4 ~ \mathrm { m s }$ ，以增大抑制的难度；如果被试在当前停止试次中未能抑制住反应，下一个 Stop 试次的 SSD 减少 $3 4 ~ \mathrm { m s }$ ，以增加抑制的可能性。这种追踪算法使 SSD呈阶梯式的动态变化，保证被试成功抑制 $50 \%$ 的停止试次。如果被试未能抑制住反应，则停止信号在被试按键后即消失，如果被试抑制成功，则停止信号的呈现时间为(1000－SSD)ms。实验二和实验三中三角形信号与箭头间的时距(signaldelay, SD)随机变化，变化的范围根据以往的研究(Erika-Florence,Leech,& Hampshire,2014;Hampshire & Sharp,2015)设置为 $3 1 2 \pm 1 1 5 \mathrm { m s }$ 。
+
+实验一和实验二均有 270 个试次(每个实验有三个组块构成,)，每个实验中三角形信号出现的次数为90次(奖赏信号45个，占总试次的 $1 7 \%$ ；无奖赏信号45个，占总试次的 $1 7 \%$ 。实验三有 360 个试次(有四个组块构成)，三角形信号出现的次数为120次(Go与 Stop 奖赏信号各30个，各占总试次的 $8 \%$ ；Go与Stop无奖赏信号各30个，各占总试次的 $8 \%$ 。每个实验前均有30个练习试次，练习试次中三角形出现的概率为 $50 \%$ (奖赏与无奖赏试次各占$50 \% )$ ，每次练习结束后要求被试口头报告是否已经掌握反应规则以及不同颜色所代表的奖赏数量，若被试没有掌握反应规则或奖励规则，则要求被试重新进行练习。此外，为了避免三角形信号所对应的反应在不同实验规则中的混淆，实验一、二、三的顺序是固定的。实验中所有试次均按伪随机顺序呈现，三角形信号连续出现不超过两次。
+
+# 3 结果
+
+停止信号反应时(stop signal reaction time,SSRT)是 Stop-Signal任务中测量抑制能力的关键指标，本研究采用相对更为精确的积分法(integration method)估算 SSRT。即假设n是 Stop试次中错误反应的概率,t是Go 试次中正确反应的数量，将正确执行反应时(GoRT)从快到慢排序，停止信号反应时(SSRT) $\mathbf { \Sigma } = \mathbf { \Sigma }$ 第 $\mathbf { n } { \times } \mathbf { t }$ 个位置的执行反应时(Go RT)－平均停止信号延迟(SSD) (Boehler et al.,2012; Verbruggen,Chambers,& Logan,2013)。Go 信号和停止信号相关统计指标见表1。
+
+表1实验一 Stop-Signal任务行为指标数据 $( M \pm S D )$   
+
+<html><body><table><tr><td>行为指标</td><td>无奖赏试次</td><td>奖赏试次</td></tr><tr><td>停止信号 SSD (ms)</td><td>236±85</td><td>247 ±88</td></tr><tr><td>停止信号 SSRT(ms)</td><td>233 ± 73</td><td>220 ± 73</td></tr><tr><td>停止信号正确率</td><td>0.51 ±0.06</td><td>0.51 ± 0.07</td></tr><tr><td>Go 试次反应时(ms)</td><td>493 ± 77</td><td>-</td></tr><tr><td>Go 试次正确率</td><td>0.98± 0.02</td><td>-</td></tr></table></body></html>
+
+实验一中，奖赏停止试次和无奖赏停止试次正确率均接近 $50 \%$ ，且两组之间差异不显著,$t ( 2 5 ) = 0 . 7 0 , p > 0 . 0 5$ 。说明本实验所采用的追踪算法是有效的。奖赏停止试次和无奖赏停止试次分别采用追踪算法计算SSD，奖赏试次的 SSD 显著大于无奖赏试次的 SSD $( t ( 2 5 ) = 2 . 8 5$ 0$p < 0 . 0 1$ , Cohen's $d = 1 . 1 4 \AA$ ），奖赏试次的 SSRT 显著的小于无奖赏试次的 SSRT $( t ( 2 5 ) = 2 . 2 0 , p$ （204号$< 0 . 0 5$ ,Cohen's $d = 0 . 8 8 \AA$ ，说明奖赏信息加快了抑制反应，缩短了停止信号的反应时。
+
+分析实验二比较奖赏对信号监测的影响，对三角形Go信号的反应时和正确率进行统计分析(见图2A)，个体对于奖赏信号的监测显著快于无奖赏信号, $t ( 2 5 ) = 2 . 1 3 , p < 0 . 0 5$ ,Cohen's$d = 0 . 8 5$ ；两者之间的正确率差异不显著, $t ( 2 5 ) = 0 . 4 3 , p > 0 . 0 5$ 。
+
+![](images/3c72677faec895e90eb6c457137f7c2ff0dabc9e54f10814c61a02c5657b8791.jpg)
+
+图2实验结果图。A：实验二信号监测的反应时和正确率;B：实验二与实验三中Go试次的反应时和正确率
+
+比较实验三与实验二Go试次反映指标考察注意资源的分配。对Go试次反应时和正确率分别做 2(实验序列：实验二、实验三) $_ { 1 \times 2 ( }$ (奖赏信息：奖赏信号、无奖赏信号)重复测量方差(见图 2B)。对反应时分析发现奖赏信息的主效应显著, $F ( 1 , 2 5 ) = 1 1 . 2 0 , p < 0 . 0 1 ,$ $\mathfrak { n } ^ { 2 } = 0 . 3 0 9$ 奖赏试次的反应时 $( 3 9 5 \pm 7 . 4 9 \mathrm { m s } )$ 显著快于无奖赏试次的反应时 $( 4 1 2 \pm 7 . 5 1 ~ \mathrm { m s } )$ ；实验序列的主效应显著, $F ( 1 , 2 5 ) = 6 3 . 5 0 , p < 0 . 0 0 1 , \eta ^ { 2 } = 0 . 7 1 8$ ，实验三平均反应时 $( 4 3 9 \pm 7 . 3 6 \mathrm { m s } )$ 显著大于实验二平均反应时 $( 3 6 8 \pm 9 . 3 4 \mathrm { m s } )$ ，两者交互作用不显著， $p > 0 . 0 5$ 。此外，基于正确率的分析发现奖赏信息的主效应显著， $F ( 1 , 2 5 ) = 1 1 . 7 5 , p < 0 . 0 1 , \eta ^ { 2 } = 0 . 3 2 .$ ，奖赏试次的正确率(0.95$\pm 0 . 0 1 )$ 显著大于无奖赏试次的正确率 $( 0 . 8 7 \pm 0 . 0 2 ) \$ ；实验序列的主效应显著， $F ( 1 , 2 5 ) = 8 . 8 7 , p$ $< 0 . 0 1$ ， $\eta ^ { 2 } = 0 . 2 6$ ，实验三正确率 $( 0 . 8 8 \pm 0 . 0 2 ) \$ 显著小于实验二正确率 $( 0 . 9 4 \pm 0 . 0 1 ) \$ ；两者交互作用显著, $F ( 1 , 2 5 ) = 7 . 3 6 , p < 0 . 0 5 , \eta ^ { 2 } = 0 . 2 3$ ；简单效应分析表明，只有在实验三中奖赏试次和无奖赏试次正确率差异显著。进一步求出从实验二到实验三中Go 试次正确率差异量并做比较发现，无奖赏试次正确率差异量 $( 0 . 1 3 \pm 0 . 2 )$ 显著大于奖赏试次 $( 0 . 0 3 \pm 0 . 0 6 ) \$ ， $t ( 2 5 ) = 2 . 8 5$ $p { < } 0 . 0 1$ , Cohen's $d = 1 . 1 4$ 。
+
+个体的注意资源随着实验的进行会逐渐被损耗，在任务加工过程中，个体需要平衡速度和准确率。基于此，对实验三分析表明(见图3A)，三角形所对应的Go信号试次中，奖赏信号的反应时显著快于无奖赏信号反应时 $( t ( 2 5 ) = 2 . 7 9 , p < 0 . 0 1$ ,Cohen's $d = 1 . 1 2 )$ ，且奖赏刺激的正确率显著高于无奖赏刺激正确率 $( t ( 2 5 ) = 2 . 9 3 , p < 0 . 0 1$ , Cohen's $d = 1 . 7 2$ ；而在三角形所对应的停止信号试次中，奖赏刺激的正确率显著低于无奖赏刺激正确率 $( t ( 2 5 ) = 3 . 1 2 , p <$ 0.01, Cohen's $d = 1 . 2 5 )$ ；进一步将实验三分成早期组块(第 $_ { 1 \sim 2 }$ 个组块)和晚期组块(第3\~4个组块)(见图3B)。对停止信号的正确率做 2(组块：早期组块、晚期组块) $_ { 1 \times 2 ( }$ 奖赏信息：奖赏信号、无奖赏信号)重复测量方差分析，奖赏的主效应显著, $F ( 1 , 2 5 ) = 9 . 9 5 , p < 0 . 0 1 , \eta$ $\mathfrak { n } ^ { 2 } = 0 . 2 8 5$ 无奖赏刺激的正确率 $( 0 . 9 7 \pm 0 . 0 1 ) \$ 显著的高于奖赏刺激正确率 $( 0 . 9 1 \pm 0 . 0 2 ) \$ ，组块的主效应不显著 $( p > 0 . 0 5 )$ ，即停止信号的正确率在早期组块和晚期组块差异不显著，组块和奖赏信息的交互作用不显著 $( p > 0 . 0 5 )$ ；对Go信号的反应时做2(组块：早期组块、晚期组块) $\times 2 ($ 奖赏信息：奖赏信号、无奖赏信号)重复测量方差分析，奖赏的主效应显著, $F ( 1 , 2 5 ) = 7 . 5 5 , p < 0 . 0 5$ $\eta ^ { 2 } = 0 . 2 0 5$ ，奖赏信号的反应时 $( 4 3 0 \pm 7 . 3 2 \mathrm { m s } )$ )显著比无奖赏信号反应时 $( 4 4 8 . 4 0 \pm 9 . 5 1 \mathrm { \ m s } ) _ { \mathrm { \ell } } ^ { \prime }$ 短，组块的主效应不显著，奖赏信息与组块的交互作用显著, $F ( 1 , 2 5 ) = 5 . 3 7 , p < 0 . 0 5 , \eta ^ { 2 } = 0 . 1 7 7$ 在早期组块中，奖赏信号的反应时 $( 4 1 8 \pm 9 . 9 0 ~ \mathrm { m s } )$ 显著快于无奖赏信号 $( 4 4 8 \pm 1 1 . 3 8 ~ \mathrm { m s } )$ ，而在晚期组块，奖赏信号反应时 $( 4 4 1 \pm 8 . 4 1 ~ \mathrm { m s } )$ 与无奖赏信号反应时 $( 4 4 8 \pm 9 . 3 2 \mathrm { m s } )$ 之间差异不显著；对Go反应试次的正确率做2(组块：早期组块、晚期组块) $_ { 1 \times 2 ( }$ 奖赏信息：奖赏信号、无奖赏信号)重复测量方差分析，奖赏的主效应显著, $F ( 1 , 2 5 ) = 8 . 4 9 , p < 0 . 0 1 , \eta ^ { 2 } = 0 . 2 3 2 ,$ 奖赏刺激的正确率 $( 0 . 9 3 \pm 0 . 0 1 ) \$ 显著的高于无奖赏刺激正确率 $( 0 . 8 5 \pm 0 . 0 3 ) \$ ，但是组块的主效应、奖赏信息和组块的交互作用不显著 $( p > 0 . 0 5 )$ 。
+
+![](images/5d0986602a52747b9ba356c95a75e490ba4baa05e7b04afefd6e43321b9e5446.jpg)  
+图3实验结果图。A：实验三中 Stop 试次的正确率、Go试次的正确率和反应时;B：实验三早期组块和晚期组块Go 试次的反应时、正确率和Stop试次的正确率。
+
+# 4讨论
+
+本研究基于 Stop-Signal任务考察了奖赏对认知控制的提升机制。在 Stop-Signal任务中,相比于无奖赏信号，个体能更快的抑制奖赏相关的信号。这与前人研究结果一致(Boehler etal.,2012; Boehler et al.,2014; Schevernels et al.,2015)，即奖赏提高了认知控制相关任务的行为表现，表明奖赏可以提升个体的认知控制能力。不同于以往通过"奖赏线索"诱发被试积极的准备状态提升认知控制的研究，本研究中采用刺激-奖赏联结的呈现方式，因此奖赏的提升效应主要来源于奖赏对刺激信号本身加工的影响。
+
+认知控制加工是一种过程性的认知调控。fMRI的研究表明，冲突信号激活了负责信号监测的前扣带回(anterior cingulate cortex,ACC)，随后 ACC 将信号传递给负责控制加工的背外侧前额叶(dorsolateral prefrontal cortex,dlPFC)，使我们的大脑能更好的完成任务(Boehleret al.,2014; Botvinick & Braver,2015; Krebs et al.,2011; Westbrook & Braver,2016)。本研究通过 Stop-Signal任务侧重于认知控制加工所涉及具体的过程，探讨奖赏对信号监测和反应控制的影响。实验一的结果表明奖赏相关的停止信号的 SSRT更短，表明个体能更快速的对奖赏相关的信号发起抑制反应。赛马模型(horse-race model)(Logan&Cowan,1984)假设认为抑制反应的发生取决于停止信号诱发的停止反应和Go信号诱发的按键反应两个独立的加工过程相互竞争的结果，如果停止反应在Go反应之前完成，则实现对行为的抑制；相反，如果Go 反应在停止反应之前完成，则抑制失败。进一步有研究者采用 MEG 发现,Go反应和停止反应间的的竞争结果依赖于个体早期知觉加工阶段对Go信号和停止信号的监测(Boehler etal.,2009)。个体快速监测到停止信号的出现，则能更早的启动停止反应，实施对按键行为的抑制。Salinas 和 Stanford (2013)近期采用心理物理法同样发现在停止信号任务中，个体能否成功的实施抑制反应取决于早期知觉加工阶段对停止信号快速、有效的监测。这些研究结果均说明在早期知觉加工阶段个体对任务相关信号刺激的注意加工是提升抑制控制的关键因素之一(Boehler et al.,2009; Salinas & Stanford,2013)。同时，大量研究表明奖赏能够在早期注意加工增强相关刺激的知觉表征，即个体能更快的监测到奖赏相关信号的出现(Anderson,Laurent,& Yantis,2011; Barbaro,Peelen,& Hickey,2017; Hickey, Kaiser,& Peelen,2015)。本研究实验二发现，当个体处于已经激活的抑制状态，突然出现一个与当前反应倾向冲突的无奖赏/奖赏信号要求其反应时，奖赏相关信号反应时更短，说明奖赏相关信号能更快的被监测到，进一步做出按键反应。由此我们推论停止信号的加工过程中，相比于无奖赏信号，奖赏相关的停止信号能够更快的被个体监测到，停止反应先于Go反应被启动并且完成，反应成功被抑制。该推论得到 EEG 相关研究的支持，研究发现在 Stop signal任务中，相比于抑制失败的试次，抑制成功的试次N1 波幅增大,N1成分与特定目标的视觉注意有关(Boehler et al,2009; Schevermels et al.,2015)，而奖赏相关的停止信号在知觉加工阶段能诱发更大的 N1 波幅(Schevemels et al.,2015)，表明奖赏能在早期知觉加工阶段增强信号监测，因此在Stop-Signal任务个体能更快的对奖赏相关的信号发起抑制反应。
+
+此外，与当前研究相似的是，基于情绪面孔来考察情绪刺激对 Stop-Signal任务影响的研究发现相比中性面孔，被试能更快的对消极情绪面孔(愤怒、悲伤等)做出抑制反应，即消极面孔的 SSRT 更短，作者认为该现象是由于消极面孔在知觉加工阶段增强了其知觉表征，促进了相关信号的监测(Derntl & Habel,2016; Pawliczek et al.,2013; Pessoa,2009; Pessoa &Engelmann,2010)。而来自知觉加工的研究表明，奖赏刺激和消极情绪面孔在视觉搜索、空间定向等范式中的任务表现都优于中性/无奖赏刺激，即奖赏刺激和消极情绪面孔在早期知觉阶段加工均会得到增强，个体能更快的监测到此类刺激的出现(Hickey&Pelen,2015;
+
+Navalpakkam&Treisman,2010)。结合本研究结果，我们认为奖赏信号的 SSRT比无奖赏信号的更短是由于个体更快的监测到奖赏相关信号的出现，进一步提升对行为的抑制能力。
+
+需要指出的是，尽管本研究中采用奖赏-刺激联结的方式考察奖赏通过对信号本身加工的影响提高任务相关表现，但是不能完全排除奖赏动机对认知控制的提升作用。Pessoa(2009)提出奖赏动机能够调节注意资源分配，进而产生加工特异性效应。在实验二和实验三中，奖赏Go试次的反应时均优于无奖赏试次，并且在规则简单的实验二中奖赏试次与无奖赏试次正确率无差异；而在实验规则复杂的实验三中，奖赏正确率显著大于无奖赏试次，表明即使在其它加工过程中占用了部分注意资源，奖赏属性的刺激仍会吸引更多的注意资源以保证正确率。在实验三早、晚期，任务加工过程中会损耗注意资源，无奖赏Go试次的反应时和正确率在这一过程中没有明显的变化，说明个体会用有限的注意资源加工无奖赏信号，对无奖赏信号的加工已经处于最低执行水平，注意资源的损耗对其不会有影响；而奖赏相关信号占用更多的注意资源，随着注意资源的损耗，个体为了获得更多的奖赏，就要权衡速度和准确性，因此在晚期组块会放慢对奖赏信号Go的反应，保证Go试次和停止试次的正确率。总之，实验过程中明确告知被试对其中一种颜色的目标做出反应会得到奖赏，被试就有意识的将颜色和不同水平的奖赏联结起来，对奖赏相关颜色的信号反应动机可能会更强，与此同时奖赏动机则会分配更多注意资源加工奖赏相关刺激。此外，研究表明奖赏动机会促进多巴胺的释放(Ariascarrion&Poppel, 2007; Westbrook& Braver,2016)，同时，多巴胺使与奖赏联结的刺激在神经系统中的知觉表征增强(Krebs et al.,2012;Westbrook& Braver,2016)。据此，我们认为在奖赏-刺激联结的呈现方式下，奖赏动机可能会通过注意资源增强相关信号的监测来进一步提升认知控制。
+
+奖赏动机对行为的发生有非常重要的影响，值得注意的是奖赏不仅可以提升目标行为表现，同时也会损害目标行为表现。先前有研究采用停止信号任务发现当奖赏可得性与Go信号相关联时，即告知被试在奖赏组块中只有正确且快速的对左右箭头朝向做出判断才可以获得奖赏，相比于无奖赏的组块，被试对箭头朝向的判断更快，但是停止信号相关的SSRT 更长，说明奖赏损害了反应控制。这是由于当奖赏与Go信号相关联时，个体会分配更多注意资源加工Go试次以确保收益最大化；同时在Go反应与停止反应相关竞争的过程中，奖赏加快了个体对Go 反应的启动，抑制反应的失败率上升,SSRT变长(Leoti& Wager,2010)。在本研究一中奖赏的可得性主要与停止信号的反应相关，结果发现奖赏能够提升反应抑制。这表明当奖赏驱动行为的方向与目标行为方向一致时，奖赏会强化目标性行为的表征与发生，提升目标行为的任务表现；相反，当奖赏驱动行为的方向与目标性行为方向不一致时，奖赏会损害目标行为的发生。这一观点在注意研究领域得到大量的证明，例如：研究发现当奖赏与目标刺激相关联时，个体能更快的将注意集中在目标刺激，进而正确快速的进行按键反应；相反，当奖赏与分心刺激相关联时，奖赏造成的对分心刺激的的过度注意集中会妨碍个体对目标刺激的的识别与反应，导致个体的正确率下降、反应时增加(Anderson,Laurent,& Yantis,2011; Barbaro, Peelen,& Hickey,2017; Hickey, Kaiser, & Peelen, 2015; Krebs et al,2011;Krebs etal.,2013)。研究者们认为这是由于奖赏增强了相关刺激信号的早期知觉表征，进而影响了个体的反应输出(Krebs etal.,2011)。有趣的是在本研究的实验三中，当奖赏既与Go 信号又与停止信号相关联时，结果发现奖赏相关的停止信号的正确率显著低于无奖赏相关的停止信号，而奖赏相关的Go信号的反应优于无奖赏相关的Go信号的反应。这是由于在人类的进化与发展过程中，奖赏通常与趋近性行为相联系，被试看见奖赏信号会冲动性的做出趋近反应(Freeman & Aron,2016;Freeman,Razhas,& Aron,2014)，这与按键反应的发生方向是一致的，因此奖赏相关Go信号反应时更短，正确率更高；但是，在抑制规则和反应规则相互转换过程中，被试在经历了Go反应规则后，再对停止信号进行抑制，需要更强的反应控制能力，尤其是在加工奖赏相关的停止信号时，被试需要调节动机与反应之间的冲突，因此抑制奖赏相关的停止信号更难，相比于无奖赏停止信号，奖赏停止信号的正确率更低。这与Freeman 和 Aron (2016)采用Go/No-Go 任务的研究结果一致，即当奖赏信息既与Go 信号又与No-Go信号相关联时，奖赏会加快Go反应的反应速度，但是会降低No-Go反应的正确率。
+
+综合而言，本研究通过三个实验研究表明，在以目标为导向的行为发生过程中，奖赏系统能推动目标指向行为，奖赏相关的信号会吸引更多的注意资源，增强信号监测，进一步提升认知控制。此外，本研究对奖赏提升认知控制机制的论证，也为未来深入开展奖赏与认知控制的研究提供了新的视角和启示，即不仅要探讨奖赏动机及其强度在奖赏对认知控制影响中的加工机制；也要关注在信号监测和冲突控制与奖赏的交互作用上的群体差异；基于本研究中奖赏能提升个体对停止信号抑制反应速度的发现，后续研究可针对监测功能和控制功能分别提出训练和干预方案，实现认知控制能力的有效提升。
+
+# 5 结论
+
+本研究结果显示，个体在 Stop-Signal任务中能够依据奖赏信息更快的抑制停止信号，这表明奖赏可以提升认知控制；为了考察奖赏对信号监测的影响，我们进一步改变反应规则，要求个体监测到信号之后立即按键反应，结果发现奖赏相关的信号反应时更短，表明个体能更快的监测到奖赏相关信号；除此，通过增加实验规则难度，损耗注意资源表明，奖赏相关的信号会吸引更多的注意资源，进而优化行为的发生与输出。由于在认知控制的加工过程中，个体先监测到信号，然后进行控制，并且我们用来考察信号监测的任务与Stop-Signal任务加工过程相同，都是对小概率且与当前激活状态冲突的信号进行反应，基于此，我们的结果说明奖赏可以通过调节注意资源分配，增强个体对相关刺激的监测，进一步提升认知控制。
+
+# 参考文献
+
+Ariascarrion, O.,& Poppel,E. (20o7). Dopamine,learning,and reward-seeking behavior. Acta Neurobiologiae Experimentalis,67(4),481-488.   
+Aron,A.R.,Robbins,T.W.,&Poldrack,R.A. (2O14).Inhibitionand the right inferior frontal cortex: one decade on.Trends in Cognitive Sciences,18(4),177-185.   
+Anderson,B.A.,Laurent,P.A.,& Yantis,S. (2O1). Value-driven attentional capture.Proceedingsofthe National Academy of Sciences of the United States ofAmerica,108(25),10367-10371.   
+Barbaro,L.,Peelen,M.V.,& Hickey, C.(2017). Valence, not utility,underlies reward-driven prioritization in human vision.Journal of Neuroscience,37(43), 1128-1117.   
+Boehler,C.N.,Appelbaum,L.G.,Krebs,R.M.,Hopf,J.M.,& Woldorff,M.G.(2012).The influence of diferent Stop-signal response time estimation procedures on behavior-behavior and brain-behavior corrlations. Behavioural Brain Research,229(1),123-130.   
+Boehler, C.N., Hopf,J.-M.,Stoppel, C.M.,& Krebs,R. M. (2012). Motivating inhibition -reward prospect speeds up response cancellation. Cognition,125(3),498-503.   
+Boehler, C.N.,Muente,T.F.,Krebs,R.M.,Heinze,H.J.,Schoenfeld,M.A.,& Hopf,J.M.(2009).Sensory MEG responses predict successful and failed inhibition in a stop-signal task. Cerebral Cortex,19(1),134-145.   
+Boehler, C.N., Schevernels, H., Hopf, J. M., Stoppel, C. M.,& Krebs,R. M. (2014). Reward prospect rapidly speeds up response inhibition via reactive control. Cognitive Affctive & Behavioral Neuroscience,14(2), 593-609.   
+Botvinick,M.,& Braver,T.(O15). Motivation and cognitive control: from behavir to neural mechanism. Annual Review of Psychology, 66(1),83-113.   
+Braver,T.S.,Krug,M.K.,Chiew,K.S.,Kool, W., Westbrook,J.A., Clement,N.J.,..Somervile,L.H.(2014). Mechanisms of motivation-cognition interaction: challenges and opportunities. Cognitive Affctive & Behavioral Neuroscience,14(2),443-472.   
+Botvinick,M.,Nystrom,L.E.,Fissell,K.,etal.(199).Conflict monitoringversuselection-for-action inanterior cingulate cortex. Nature, 402(785),179-181.   
+Botvinick,M.M.,Cohen,J.D.,& Carter, C.S.(2004).Conflict monitoring and anterior cingulate cortex: An update. Trends in cognitive sciences,8(12),539-546.   
+Berridge, K. C. (20l2).From prediction error to incentive salience: Mesolimbic computation of reward motivation. The European Journal of Neuroscience,35(7),1124-1143   
+Carter, C.S., Macdonald,A.M.,Botvinick, M.,Ros,L.L.,Stenger, V.A. Noll,D.,& Cohen,J.D.(000). Parsing executive processes: Strategic vs. evaluative functions of the anterior cingulate cortex. Proceedings of the National Academy of Sciences ofthe United States of America, 97(4),1944-1948.   
+Chikazoe,J.,Jimura,K.,Asari,T.,Yamashita,K.,Morimoto,H.,Hirose,S.,Miyashita,Y.,Konishi,S.(2009). Functional dissociation in right inferior frontal cortex during performance of go/no-go task. Cerebral Cortex, 19(1), 146-152.   
+Derntl, B.,& Habel, U.(2O16).Angry but not neutral faces facilitate response inhibition in schizophrenia patients. European Archives of Psychiatry & Clinical Neuroscience, 267(7), 621- 627.   
+Egner,T.,& Hirsch, J. (2o05). Cognitive control mechanisms resolve conflict through cortical amplification of task-relevant information. Nature Neuroscience, 8(12),1784-1790   
+Erika-Florence,M.,Leech,R.,& Hampshire,A. (2O14).A functional network perspective on response inhibition and attentional control. Nature Communications, 5(5), 4073.   
+Freman,S.M.,& Aron,A.R.(2016).Withholding a reward-driven action: studies of the rise and fallof motor activationand the efect ofcognitive depletion. Journal of Cognitive Neuroscience,28(2),237-251.   
+Freman, S. M., Razhas,I., & Aron, A. R. (2014). Top-down response suppresson mitigates action tendencies triggered by a motivating stimulus. Current Biology, 24(2),212-216.   
+Hampshire,A. (2015). Puting the brakes on inhibitory models of frontal lobe function. Neuroimage,113, 340-355.   
+Hampshire, A., & Sharp, D.J. (2015). Contrasting network and modular perspectives on inhibitory control. Trends in Cognitive Sciences, 19(8), 445-452.   
+Hickey,C., & Pelen, M. V. (2015). Neural mechanisms of incentive salience in naturalistic human vision. Neuron, 85(3), 512–518.   
+Jiang, J., Xiang,L., Zhang, Q.L.,& Chen,A.T. (2014). Conflict Adaptation Is Independent of Consciousness: Behavioral and ERP Evidence. Acta Psychologica Sinica, 46(5),581-592.   
+[蒋军，向玲，张庆林，陈安涛.(2014).冲突适应独立于意识:来自行为和 ERP 的证据．心理学报,46(5), 581-592.]   
+Kerns, J. G., Cohen,J.D., Cho,R.Y.,Stenger, V.A.,& Carter, C.S. (2004).Anterior cingulate conflict monitoring and adjustments in control. Science, 303(5660),1023-1026.   
+Krawczyk, D. C., Gazzaley, A., & D'Esposito,M. (2oo7). Reward modulation of prefrontal and visual association cortex during an incentive working memory task. Brain Research, 1141(4),168-177.   
+Krebs,R. M.，Boehler, C.N.,Appelbaum, L. G.，& Woldorff, M. G. (2013).Reward Associations Reduce Behavioral Interference by Changing the Temporal Dynamics ofConflict Processing. PLoS One, 8(1), e53894.   
+Krebs,R. M., Boehler, C.N., Egner,T.，& Woldorf, M. G. (2011).The neural underpinnings of how reward associations can both guide and misguide attention. Journal of Neuroscience, 31(26), 9752-9759.   
+Krebs,R. M., Boehler, C.N.,Roberts, K. C. Song,A. W.,& Woldorf, M.G. (2012). The involvement of the dopaminergic midbrain and cortico-striatal-thalamic circuits in the integration ofreward prospect and attentional task demands. Cerebral Cortex, 22(3), 607-615.   
+Krebs，R.M.，Boehler, C.N.，& Woldorff,M.G.(2010).The influence of reward associations on conflict processing in the Stroop task. Cognition, 117(3), 341-347.   
+Lee,H. W.,Lu,M. S., Chen, C.Y., Muggleton,N. G., Hsu,T.Y.,&Juan, C.H. (2016). Roles of the pre-SMA and rIFG in conditional stopping revealed by transcranial magnetic stimulation. Behavioural Brain Research, 296, 459-467.   
+Leoti,L.A.,& Wager,T.D. (2010). Motivational influences on response inhibition measures. Journal of Experimental Psychology: Human Perception and Performance, 36(2), 430-447.   
+Logan, G. D.,& Cowan, W.B. (1984). On the ability to inhibit thought and action: A theory of an act of control. Psychological Review, 91(3),295-327.   
+Navalpakkam, V.，& Treisman， A. (2010). Optimal reward harvesting in complex perceptual environment. Proceedings ofthe National Academy of Sciences ofthe United States ofAmerica,107(11),5232-5237.   
+Pawliczek,C.M.,Derntl,B.,Kelermann,T.,Kohn,N.,Gur,R.C.,&Habel,U. (20l3).Inhibitory controlandtrait aggression: neural and behavioral insights using the emotional stop signal task. Neuroimage,79(6),264-274.   
+Pessoa,L. (20o9). How do emotion and motivation direct executive control? Trends in Cognitive Sciences,13(4), 160-166.   
+Pessoa,L.,& Engelmann, J.B. (2010). Embedding Reward Signals into Perception and Cognition.Frontiers in Neuroscience, 4(17), 4-17.   
+Schevernels,H.，Bombeke,K.，Van der Borght,L.,Hopf,J.M.，Krebs,R.M.，& Boehler, C.N. (2015). Electrophysiological evidence for the involvement of proactive and reactive control in a rewarded stop-signal task. Neuroimage, 121,115-125.   
+Sharp,D.J.,Bonnele,V.,De Boissezon,X.,Beckmann,C.F.,James,S.G.,Patel,M.C.,& Mehta,M.A. (2010). Distinct frontal systems for response inhibition,atentional capture,and error processing. Proceedings of the National Academy of Sciences of the United States ofAmerica, 107(13), 6106-6111.   
+Salinas,E.，& Stanford,T.R. (2013). The countermanding task revisited: fast stimulus detection is a key determinant of psychophysical performance. Journal of Neuroscience, 33(13), 5668-5685.   
+Shenhav,A., Botvinick, M. M.,& Cohen,J. D.(2013). The expected value of control: an integrative theoryof anterior cingulate cortex function. Neuron, 79(2),217-240.   
+Tang,D.D.,& Chen,A.T. (2013). Neural oscilation mechanisms of conflict adaptation. Scientia Sinica Vitae, 43(11), 992-1002,   
+[唐丹丹，陈安涛.(2013)．冲突适应的神经振荡机制．中国科学:生命科学,43(11),992-1002.]   
+van den Berg,B., Krebs,R.M.,Lorist, M.M.,& Woldorff,M. G. (2014). Utilization of reward-prospect enhances preparatory atention and reduces stimulus conflict. Cognitive Affective & Behavioral Neuroscience,14(2), 561-577.   
+van Steenbergen,H., Band, G.P.,& Hommel, B.(2012).Reward valence modulates conflict-driven attentional adaptation: electrophysiological evidence.Biological Psychology,90(3),234-241.   
+Verbruggen,F., Chambers, C.D.,& Logan, G.D.(2013). Fictitious inhibitory differences: How skewness and slowing distort the estimation of stopping latencies. Psychological Science, 24(3),352-362.   
+Wang，X.， Zhao, X.， Xue,G.，& Chen，A. (2016). Alertness function of thalamus in conflict adaptation. Neuroimage,132,274-282.   
+Westbrook,A.,& Braver,T.S. (2016). Dopamine does double duty in motivating cognitive efort. Neuron,89(4),
+
+695-710.
+
+Xu, K. Z.,Anderson,B.A.,Emeric,E.E.,Sali,A.W.,Stuphorm, V.,Yantis,S.,&Courtey,S.M. (2o17).Neural basis of cognitive control over movement inhibition: Human fMRI and primate electrophysiology evidence. Neuron, 96(6), 1447-1458.
+
+# Reward improves cognitive control by enhancing signal monitoring
+
+WANG Yanqingl; HU Xueping²; YIN Shouhang1; CHEN Antaol
+
+(KeyLaboratoryofCognitionandPersonaityofiistryofEducationacultyofsychologySouthwestUiversity,Coging
+
+400715,China)
+
+(SchoolofLinguisticsndArtsndCollborativeInovtionCeterforanguagCompetene,angsuNalUnversityXuou
+
+221009,China)
+
+# Abstract
+
+Cognitive control refers to two critical processes: signal monitoring and inhibitory control. Before executing inhibitory control, the individual first monitors the signal of conflict or warning. However, whether the reward influences signal monitoring or inhibitory control remains poorly understood. In addition, some literature employed pretask reward cueing to study the effect of reward,but the role of pretask reward cueing on cognitive control was influenced by response strategies rather than stimulus processing.
+
+To address the above issues, the present study designed three novel variants of the classical stop signal task that combined the reward with certain stimuli or stimulus features and held stimulus-processing demands constant while varying attntion demands. For experiment 1, participants tried to cancel responses on trials that were interrupted by the infrequent triangle but not to slow the initiation of the response. The results indicated that the SSRTs could be further accelerated if successful response inhibition were rewarded. Experiment 2 involved separation of signal monitoring from the stop signal task. Participants responded by pressing the left or right buton when the trials were interrupted by the infrequent triangle. The results showed that participants could monitor a signal faster when the signal was associated with reward and conflicted with current behavior tendencies.Accordingly, we considered that the individual could more quickly activate behavior in correspondence with the signal and control the conflict because the signal monitoring was enhanced by reward,which indicated that the process needs more attention. Experiment 3 is the same as the second experiment, except that when trials were interrupted by an inverse triangle,participants made a dual buttn press. We found that the reaction time of the reward-related signal was shorter than that of the reward-unrelated signal in
+
+Go trials，even though the processing of the stop signal depletes the attention resource. These findings indicate that the reward-related signal captures more attention and enhances signal monitoring.
+
+In summary, these findings show that the reward-related signal captures more attention than bias for the enhancement of signal monitoring, thereby leading to more efficient stimulus processing and improving cognitive control.
+
+Key words reward; cognitive control; signal monitoring; stop signal task

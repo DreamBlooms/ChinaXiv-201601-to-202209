@@ -1,0 +1,204 @@
+# 基于GF-1/WFV时间序列的绿洲作物类型提取
+
+刘雅清¹²，王磊1,23，赵希妮²，璩向宁1²，许兴¹²，王锐2(1．宁夏大学西北土地退化与生态系统恢复省部共建国家重点实验室培育基地,宁夏银川 750021;2．宁夏大学西北退化生态系统恢复与重建教育部重点实验室,宁夏银川750021;3．南京大学国际地球系统科学研究所,江苏南京210093）
+
+摘要：当前基于中等空间分辨率时序数据的农作物种植结构提取成为研究热点，但农作物季相节律特征在不同气候背景下存在较大差异,绿洲作为干旱区具有明显小气候效应的生态景观,其农作物种植结构的遥感提取具有较强的典型性和代表性。选取宁夏河套平原绿洲典型区域,通过构建高分一号(GF-1/WFV)时间序列数据,结合不同作物耕作方式及生长物候,分析不同作物在整个生长季内的归一化植被指数（NDVI)和归一化水体指数（ND-WI)的时间序列特征,构建不同决策树提取研究区农作物种植结构信息,并验证了不同方法的适用性。结果表明，对具有明显小气候效应的干旱区绿洲,利用时间分辨率和空间分辨率都较优的GF1-WFV时间序列数据,对其农作物种植结构进行遥感提取具有较强的实用性和代表性。
+
+关键词：农作物；种植结构；GF-1/WFV时间序列；决策树；遥感提取；绿洲；宁夏
+
+农作物种植结构是指一个地区内主要农作物的类型和分布。掌握作物的种植结构情况，可为农业精准管理提供重要的参考依据。遥感技术具有宏观性、综合性和动态性的特点，是获取区域农作物布局和组成的重要途径[1-3]。传统的利用遥感技术提取农作物种植结构多基于单一遥感影像进行提取，该方法操作简单，但往往难以确定种植结构“最佳识别期”的遥感影像[4]；基于时间序列数据的作物类型提取起初多见于以MODIS为代表的低空间分辨率数据源[5],其在大区域尺度上农作物种植结构的提取取得了较好的效果;在中等分辨率数据源方面，以Landsat卫星为代表，受时间分辨率的制约，多集中在基于几个时相的作物种植结构提取研究[；随着遥感数据源的不断丰富，利用高空间或高时间分辨率遥感影像提取农作物种植结构已成为国内外研究热点。2013年4月26日我国高分一号卫星(GF-1)发射运行，通过4台宽幅相机视场拼接，在$1 6 \mathrm { ~ m ~ }$ 的空间分辨率上，实现了2d的重访周期，大大提高了中等空间遥感数据的时间分辨率。
+
+不同作物的耕作方式不同，在发育过程中时间和生物量上存在一定差异,即物候特征不同[],单一时相遥感影像数据中不同类型农作物光谱发生交叉或重叠，或农作物物候差异不明显，因而使得农作物种植结构提取发生混淆和模糊(8-9],基于多时相遥感影像数据构建时间序列已成为作物分类研究的热点。基于野外实地调查数据构建作物特征指数时间序列，结合作物物候特征引入决策树算法，实现作物种植结构的半自动化提取，是当前大面积作物分布信息监测研究的重要方向[10-12]。决策树算法是一种非参数化、非线性的监督分类法，具有构造简单灵活，精度较高和结果语义明晰、可解释性强等特点，广泛应用于土地科学和地学研究各领域,尤其是在遥感图像分类、土地评价、土地利用类型的提取等方面[13-16]。目前,比较成熟的决策树构建方法有QUEST、ID3、C5.0、CART 和曲线特征等[17-18],其中，基于曲线特征构建决策树和CART决策树是两种常用的决策树分类方法。刘晓娜等[19]基于地物的不同特征曲线构建决策树，实现了对橡胶林的遥感识别。常布辉等[20]利用曲线振幅和相位差构建决策树，并结合监督分类对河套灌区沈乌灌域耕地的提取。于文婧等[2I]建立研究区内典型地物的NDVI时间序列曲线，然后对土壤信息丰富的3月多光谱影像进行主成分变换，选取第1主成分(PC1)作为光谱特征参数，最后建立CART决策树实现了对平罗县土地利用的遥感分类。这些研究均表明，决策树方法分类结果清晰准确，且精度高于其他分类方法。
+
+我国是世界上绿洲面积最大、类型最丰富、研究也最多的国家，绿洲在干旱区社会经济发展过程中起着至关重要的作用，且作为干旱区具有明显小气候效应的生态景观[22-23],其农作物种植结构的遥感提取具有较强的典型性和代表性。以地处宁夏河套绿洲中段的贺兰县和平罗县为研究区，对GF1-WFV影像数据进行预处理，通过波段运算得到植被指数（NDVI）、水体指数（NDWI)的序列数据，计算和提取反映该区主要作物物候特征的时序参数，分析作物时序特征与耕作信息的关联，分别采用基于时间序列曲线特征的决策树分类方法和CART决策树分类方法提取该地区的农作物种植结构，并分析对比了不同决策树的优缺点和适用性。
+
+# 1 研究区概况
+
+研究区位于贺兰山与鄂尔多斯高原之间，东临黄河,西靠贺兰山,地理坐标为 $1 0 6 ^ { \circ } 4 8 ^ { \prime } \ : \sim 1 0 6 ^ { \circ } 1 6 ^ { \prime } \mathrm { E }$ $3 8 ^ { \circ } 2 6 ^ { \prime } \sim 3 9 ^ { \circ } 0 0 ^ { \prime } \mathrm { N }$ ,是在新生代断陷盆地基础上发育的堆积平原[24]，自西向东由山前洪积倾斜平原、冲洪积平原和河湖积平原组成，地势平缓低洼。该区属于温带大陆性干旱气候，春旱多风，夏热多雨，秋季短暂，冬季干冷，年平均气温 $8 . 8 ~ \mathrm { { ^ { 8 } C } }$ ,年平均降水量 $1 7 3 \ \mathrm { m m }$ ,降水主要集中在7一9月，年平均蒸发量$1 ~ 7 5 5 ~ \mathrm { m m }$ ,蒸发量最多的是5月。研究区日照充足，早晚温差较大，总热量丰富，每年无霜期较长，在适合作物生长的4—9月 $\geqslant 1 0 \ { ^ { \circ } } \mathrm { C }$ 的积温在 $3 2 0 0 \sim 3 4 0 0$ $\mathrm { { ^ \circ C } }$ ,能满足小麦、水稻等喜温作物的生长需要。并且$\geqslant 1 0 \ { } \mathrm { ~ \% ~ }$ 的积温日期也与无霜期十分吻合，太阳辐射较高，多年平均日照时间为 $2 ~ 8 0 0 \sim 3 ~ 1 0 0 ~ \mathrm { { h } }$ ,无霜期为164d左右，这些条件均有利于作物的正常生长。
+
+![](images/b2b9622cbdfd78ed39437acbe7af4a7412ca6bf8b64fbcdb2885bac2b3940af2.jpg)  
+图1宁夏河套绿洲作物种植结构实测数据示意图 Fig.1Measured data of crop planting structure in the Hetao Oasis in Ningxia
+
+宁夏河套平原绿洲作为中国西北地区传统的重要粮食生产基地，长期以来形成了以粮食作物为主的种植结构体系（图1）。主要作物有水稻（4—9月）、玉米（4—9月）、小麦（3—7月）、苜蓿（3—11月)等，其生育期见表1。河套绿洲是依靠黄河灌溉而成的外流型绿洲，水利开发对河套绿洲农业具有决定性意义，宁夏河套平原早在2000多年前的秦、汉时代就引用黄河水进行农田灌溉，如今有14条主灌溉渠和多条排水沟，灌排水系统发达。宁夏河套绿洲由于地处我国干旱地区，蒸发量是降水量的9倍之多，具有明显的小气候效应，又是典型的灌溉农业区，所以其农作物类型的遥感提取具有较强的典型性和代表性。
+
+# 2 数据来源与处理
+
+# 2.1 遥感数据获取与处理
+
+高分一号卫星于2013年4月26日发射，其中搭载了4台WFV多光谱相机,4台相机组合扫描幅宽 $8 0 0 ~ \mathrm { k m }$ ,星下点的分辨率 $1 6 \mathrm { ~ m ~ }$ ,WFV传感器共设置4个波段，光谱范围为 $0 . ~ 4 5 \sim 0 . 8 9 ~ upmu \mathrm { m }$ （蓝光$0 . 4 5 \sim 0 . 5 2 ~ { \mu \mathrm { m } }$ ,绿光 $0 . 5 2 \sim 0 . 5 9 ~ { \mu \mathrm { m } }$ ,红光 $0 . 6 3 \sim$ $0 . 6 9 ~ { \mu \mathrm { m } }$ ，近红外 $0 . 7 7 \sim 0 . 8 9 ~ \mu \mathrm { m } )$ ，重访周期为$2 \textrm { d }$ 。本研究自2017年3—11月共获取14景影像，覆盖研究区所有作物的生长周期（表2）。选取影像时，确保研究区影像云量最小，影像的时间尽量靠近作物特殊物候期。利用ENVI5.3遥感影像处理软件对多时相的 $\mathrm { G F } - 1 / \mathrm { W F V }$ 影像进行辐射定标，得出大气上行辐射亮度值,并运用FLAASH模型进行大气校正，所需的基本参数数据来源于影像头文件和中国资源卫星中心。通过研究区矢量边界对多时相影像进行拼接和裁剪，得到研究区影像集。最后根据野外实测GPS控制点，采用二次多项式模型，对影像数据进行几何精校正，校正误差控制在0.5个像元以内。
+
+表1宁夏河套绿洲主要作物生育期  
+Tab.1Phenological period of the main crops in Ningxia Hetao oasis   
+
+<html><body><table><tr><td rowspan="2">主要 农作物</td><td colspan="4"></td><td colspan="3">4月</td><td colspan="3">5月</td><td colspan="3">6月</td><td colspan="3">7月</td><td colspan="3">8月</td><td colspan="3">9月</td></tr><tr><td></td><td></td><td>上中下</td><td></td><td>上中</td><td></td><td>下</td><td></td><td>上中下上中</td><td></td><td></td><td></td><td>下上</td><td>中</td><td></td><td>下上</td><td>中</td><td>下上中下上</td><td></td><td></td><td></td><td></td></tr><tr><td>水稻</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>灌水 灌水</td><td></td><td></td><td></td><td></td><td></td><td></td><td>分蘖 分蘖 拔节 拔节 孕穗 抽穗 抽穗 灌浆</td><td></td><td></td><td>灌浆</td><td></td><td></td><td>成熟成熟</td><td></td></tr><tr><td>玉米</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>出苗 出苗</td><td></td><td></td><td>拔节</td><td></td><td></td><td></td><td></td><td>灌浆灌浆</td><td></td><td></td><td>乳熟 乳熟 成熟 成熟</td><td></td><td></td><td></td></tr><tr><td>小麦</td><td></td><td>出苗</td><td></td><td></td><td>分蘖</td><td></td><td></td><td></td><td>拔节 拔节 抽穗 抽穗 灌浆 灌浆 成熟 成熟</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>苜蓿</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>刈割 刘割</td><td></td><td></td><td></td><td></td><td>刘割刘割</td><td></td><td></td><td>刘割 刘割</td><td></td><td></td><td></td><td>刈割 刘割</td></tr></table></body></html>
+
+Tab.2Information of the time series data   
+
+<html><body><table><tr><td>序号</td><td>传感器类型和产品序号</td><td>影像获取时间</td><td>序号</td><td>传感器类型和产品序号</td><td>影像获取时间</td></tr><tr><td>1</td><td>GF1_WFV4_E106.7_N38.5_L1A0002263952</td><td>2017 -03 -26</td><td>8</td><td>GF1_WFV2_E107.4_N39.3_L1A0002473378</td><td>2017-07-10</td></tr><tr><td>2</td><td>GF1_WFV4_E107.3_N38.3_L1A0002331148</td><td>2017 -04-28</td><td>9</td><td>GF1_WFV3_E105.8_N38.9_L1A0002525744</td><td>2017-08-04</td></tr><tr><td>3</td><td>GF1_WFV3_E105.9_N38.9_L1A0002344768</td><td>2017 -05-06</td><td>10</td><td>GF1_WFV3_E106.1_N38.9_L1A0002545275</td><td>2017 -08 -16</td></tr><tr><td>4</td><td>GF1_WFV3_E106.2_N38.9_L1A0002379084</td><td>2017 -05 -26</td><td>11</td><td>GF1_WFV4_E106.6_N38.5_L1A0002580944</td><td>2017 -09 -02</td></tr><tr><td>5</td><td>GF1_WFV4_E106.7_N38.5_L1A0002424156</td><td>2017 -06 -16</td><td>12</td><td>GF1_WFV2_E105.9_N39.3_L1A0002649081</td><td>2017-10-04</td></tr><tr><td>6</td><td>GF1_WFV3_E106.6_N38.9_L1A0002449838</td><td>2017 -06-28</td><td>13</td><td>GF1_WFV2_E107.5_N39.3_L1A0002671474</td><td>2017-10-12</td></tr><tr><td>7</td><td>GF1_WFV3_E106.1_N38.9_L1A0002464407</td><td>2017 -07-06</td><td>14</td><td>GF1_WFV2_E107.1_N39.3_L1A0002755542</td><td>2017-11-10</td></tr></table></body></html>
+
+# 2.2野外采样数据获取与处理
+
+野外调研时发现，研究区内地物主要有湖泊鱼塘、林地、建筑用地和荒地、天然草地、水稻、玉米、小麦、首蓿和葡萄、枸杞等少量其他作物。根据研究区内作物种植特点，主要提取水稻、玉米、小麦和苜蓿，其他农作物分布面积较小,本研究忽略。据此,将研究区地物覆盖类别分为水稻、玉米、小麦、苜蓿、其他植被和非植被。
+
+利用手持GPS对主要作物进行定位调查，共标记727个地块，其中，水稻449个，玉米170个，小麦83 个，苜蓿25个，分为训练样本和验证样本。
+
+# 3 研究方法
+
+# 3.1 技术路线
+
+$\textcircled{1}$ 进行实地调查，定位不同作物的坐标； $\textcircled{2}$ 对完成预处理的 $\mathrm { G F } - 1 / \mathrm { W F V }$ 影像进行波段运算，得到NDVI和NDWI时间序列遥感数据集，通过训练样本点，提取不同作物的NDVI和NDWI值，构建NDVI和NDWI时间序列曲线; $\textcircled{3}$ 分析不同植被的遥感指数时间序列数据特征，基于时间序列曲线的振幅和相位确定作物的提取阈值，构建决策树，提取作物种植结构； $\textcircled{4}$ 将训练样本作为目标变量导入Clementine软件，确立水稻、玉米和小麦的精确分类阈值，构建CART决策树提取作物种植结构； $\textcircled{5}$ 验证对比分类精度，分析讨论。
+
+# 3.2指数选择与计算
+
+参考提取农作物种植结构的相关文献(25-28]和研究区主要作物的光谱特征及物候特征，选取归一化植被指数（NDVI）和水体指数（NDWI)作为提取研究区农作物种植结构的变量参数并构建时间序列。NDVI也称为生物量指标变化，可使植被从水和土中分离出来，这在一定程度上消除太阳高度角、卫星观测角、地形、云以及大气条件的影响。研究区水域范围广，水稻种植面积大，且水稻和玉米的生长周期较为相似，而NDWI可以突出水体信息，由于水体的反射从可见光到中红外波段逐渐降低，到近红外范围内几乎无反射，而植被一般在近红外波段的反射率最强，因此NDWI对于水稻区分十分有利。各指数计算公式见表3。
+
+表2时间序列数据信息  
+表3特征指数计算公式  
+Tab.3Formulas for calculating the characteristic exponents   
+
+<html><body><table><tr><td>特征指数</td><td>计算公式</td></tr><tr><td>NDVI</td><td>NDVI =PNIR -PR/PNIR +PR</td></tr><tr><td>NDWI</td><td>NDWI=PG-PNIR/PG +PNIR</td></tr></table></body></html>
+
+注 $: \rho _ { \mathrm { N I R } }$ 为近红外波段的反射率 ${ \ ; \rho _ { \mathrm { R } } }$ 为红光波段的反射率 ${ \sf \Omega } _ { \sf { i } , { \rho } _ { \mathrm { { G } } } }$ 为绿光波段的反射率。
+
+# 3.32种特征指数时序构建
+
+3.3.1时间序列曲线构建训练样本的选择对分类信息的获取和分类规则的建立起关键作用，在选取训练样本的过程中遵循以下几个原则： $\textcircled{1}$ 训练样本点均匀分布在研究区范围内，确保选取的训练样本点有代表性; $\textcircled{2}$ 训练样本点所在范围地块面积大，作物长势均匀； $\textcircled{3}$ 训练样本个数占总样本的 $2 \%$ 以上[21],满足完备性和代表性两个基本原则。基于训练样本获取不同作物NDVI和NDWI并计算其均值，绘制不同作物NDVI和NDWI时序特征曲线（图2和图3）。
+
+3.3.2作物时间序列曲线分析从图2和图3可以看出，研究区水稻在灌水期即4月下旬至5月下旬NDVI值小于玉米和小麦，期间其NDWI值远大于其他作物，5月下旬开始直播稻出苗，插秧稻移栽,至6月进入分拔节期，其NDVI值增长较快，7月进入孕穗抽穗期，8月初进入灌浆乳熟，NDVI值增至最大，9月初进入灌浆后期，NDVI值逐渐下降。玉米于4月下旬播种，5月中旬至6月中旬进入拔节期与开花授粉期，其NDVI值增速较快，在7月初至8月初NDVI值较为稳定，8月末开始进入乳熟期,NDVI值逐渐降低。玉米与水稻的NDVI曲线变化趋势较为相似。小麦在3月出苗，4月进入分蘖期，在5月进入拔节孕穗期，在此期间小麦快速生长，其NDVI值远大于水稻和玉米，6月末进入乳熟期，其NDVI值迅速下降，7月初进入收获期,其ND-VI降至最低，曲线出现波谷，小麦收割后受田间杂草生长的影响，其NDVI曲线在8月中旬会出现第二个峰值。6月中旬小麦灌浆期淌小麦灌浆水，6月下旬小麦淌麦黄水，期间小麦田块的NDWI值有明显的上升趋势。首蓿返青时间早，且年内会多次重复出现生长一刘割循环，苜蓿田块现存生物量也因此具有逐渐积累一高峰期一收获后的最低时期的变化过程，导致在生长季内NDVI呈现出由低逐渐到高、由高迅速降低的循环变化特征，且在每次刘割后首蓿田块会进行灌水施肥的农业活动，所以其ND-WI也呈现出由低逐渐到高、由高迅速降低的循环变化特征。
+
+![](images/cd987f3c78f26710bf93e2e20d7a217c29c8bd02e54fd2fb268e4731ee966830.jpg)  
+图2各地类样本的NDVI时间序列曲线 Fig.2Time series of NDVI of different sample plots
+
+![](images/944e7220b173f6d5c70e15b01004d6f14eefe3ac1e6f75a4612cee19c5e7d892.jpg)  
+图3各地类样本的 NDWI时间序列曲线Fig.3Time series of NDWI of different sample plots
+
+# 3.4构建决策树分类规则
+
+从土地覆被角度来看，水体类与非水体类以及植被类与非植被类，特定的地物具有其特定的时序特征，只要依据地物时序特征合理地选择地物特征序列组合，就能把目标地物与其他地物区别开[29] O
+
+已有研究表明[30],NDWI大于0即为水体,ND-VI大于0.3为植被,小于0.3为非植被。研究区河流、湖泊、鱼塘等水域面积较大，对后续提取水稻干扰较大。经调查，研究区3月无灌溉活动，为排除干扰，可利用研究区3月26日影像的NDWI值提取出水体。研究区6月中旬为所有作物生长旺盛期，NDVI值较大，利用6月16日影像的NDVI值可以区分植被与非植被，将建筑用地和未利用荒地等提取出来。
+
+苜蓿生长季内NDVI呈现出由低逐渐到高、由高迅速降低的循环变化特征。鉴于此，可采用二次差分法(31-32]提取极值计算波峰个数的方法提取首蓿。由于二次差分法对极值的提取非常敏感，能够提取每一个细小的极值，为了避免错误极值对提取波峰产生干扰，该研究在判断峰值时确立波峰NDVI值大于0.5进行波峰的取舍。
+
+水稻于4月下旬至5月下旬开始灌水，于5月23日水稻田灌水已基本结束。灌水后水稻田的NDWI值大于其他作物的NDWI值，可基于5月26日研究区影像NDWI值提取研究区水稻种植范围，对水稻和芦苇的区分选用10月12日的NDVI值。
+
+小麦在3月播种，至5月初已到分蘖至拔节期，而此时直播稻和玉米刚刚出苗，移栽稻还未移栽，影像NDVI值远小于小麦，小麦在6月下旬进入乳熟期，7月上旬开始收割,影像NDVI值减小，所以基于5月26日和7月10日影像的NDVI值可区分苜蓿和小麦。
+
+剩余待分地物类型包括玉米、天然草地和林地等，研究区土壤盐碱化程度严重，天然草地以盐爪爪等耐盐植物为主，葡萄、枸杞等植被种植间距较大，其生物量和植被覆盖度较小，8月中旬玉米处于灌浆期，NDVI值远高于天然草地，因此可基于8月16日影像的NDVI值，区分玉米和天然草地以及葡萄和枸杞等。据政府相关部门统计报告显示，在10月上旬研究区玉米已基本完成收获，所以玉米地块10月12日遥感影像的NDVI远低于林地，可以据此区分玉米和林地，实现玉米种植范围的提取。
+
+结合作物生长物候特征与作物NDVI和NDWI时序特征曲线，经多次调试构建决策树分类规则如图4所示：
+
+结合作物时间序列的曲线特征和耕作信息确立分类时间，选择分类影像和特征参数构建决策树分类规则，操作过程简单，分类规则明了，无需对决策树分类规则进行剪枝，但其分类时相的选择和分类阈值的判定具有较大的主观性，且绘制作物特征曲线时采用均值，易导致部分特征值高于或低于平均值的作物被漏分错分。CART决策树是在1984 年由Breiman 等[33]提出的一种二叉树分类方法，它能够充分利用空间辅助信息，对影像的多个特征变量进行选择性组合，从而实现对未知数据的分类、预测和挖掘。研究发现利用二次差分法计算波峰个数提取首蓿效果较好，已有研究的阈值也能很好地将植被与非植被区分开来，因此只对水稻、玉米、小麦和其他植被的分类规则进行重构。通过目视解译联合GoogleEarth选取包括天然草地、芦苇和葡萄等其他植被的样本点，分为训练样本和验证样本。基于CART决策树的分类思想，将训练样本作为目标变量导入Clementine软件，用时序参数作为测试变量进行学习并剪枝,建立CART决策树分类规则（表4）。
+
+![](images/b24148f362113232cc06f60a5a083f37541e06b9e8830a97ffdfe256e94ffd34.jpg)  
+图4曲线特征决策树分类流程及参数 Fig.4Classification process and parameters of decision tree based on curve features
+
+对比2种不同方法建立的决策树，除了区分玉米和其他植被时，CART决策树系统自动选取了3月26日的NDVI特征，而基于时间序列曲线特征建立的决策树选取了8月16日的NDVI特征，其余分类时相选择均相同，对应的分类阈值差范围仅为$0 . 0 5 6 \sim 0 . 1 3 3$ ，说明结合不同植被的生育特点，依据不同作物时间序列曲线特征选取分类时相和确定分类阈值是可行的。绿洲作为干旱区具有明显小气候效应的生态景观，不同作物在生育期内物候特征差异较大，基于遥感提取其农作物种植结构具有较强
+
+表4CART决策树分类规则   
+Tab.4Classification rules of CART decision tree   
+
+<html><body><table><tr><td>条件</td><td>结果</td></tr><tr><td>NDVI0710 ≤0.367&& NDVI0616>0.534</td><td>小麦</td></tr><tr><td>NDWI0526 > -0.244 && NDWI1012 ≤0.182 && NDVI0710 >0.367</td><td>水稻</td></tr><tr><td>NDVI0710 >0.367&& NDWI0526<-0.244&& NDVI1012<0.235&& NDWI0326 ≤0.177</td><td>玉米</td></tr><tr><td>NDVI0616 ≤0.534 && NDWI0326 >0.177 && NDVI1012 >0.235 && NDWI1012 >0.182</td><td>其他</td></tr></table></body></html>
+
+的典型性和代表性。
+
+# 4结果与分析
+
+# 4.1 分类结果
+
+利用ArcMap对提取的数据进行制图，得到研究区内不同作物的空间分布（图5）。
+
+# 4.2分类精度检验
+
+基于验证样本集，计算不同分类方法的混淆矩阵，对研究区各作物分类结果进行验证（表5）。
+
+从表5中可以看出，2种决策树分类结果都较好。CART决策树总体分类精度为93.06,Kappa系数为0.90，而利用曲线特征构建的决策树总体分类精度为91.45，Kappa系数为0.88。CART决策树的总体分类精度仅比基于曲线特征构建的决策树高1.61，Kappa系数高0.2。对比不同分类方法的分类结果图和分类精度可发现，基于时间序列曲线特征构建的决策树的分类结果中少部分玉米被误分为水稻，小麦的分布范围和面积被放大，主要是因为在依据曲线特征确立水稻分类规则时，5月26日NDWI分类阈值偏大导致部分玉米被错分为水稻，确立小麦的分类规则时，基于曲线特征构建的决策树在小麦的分类阈值设置过大，使部分覆盖度较高的天然草地被误分为小麦。
+
+不同决策树方法识别的不同作物各项识别精度均较高。首蓿的提取基于时序曲线波峰个数的计算，其制图精度和用户精度均达到 $9 5 \%$ 左右，说明基于二次差分法提取曲线极值进而计算波峰个数识别首蓿效果较好。水稻在不同方法下其制图精度和用户精度均在 $91 \%$ 以上，其原因主要是NDWI较好地区分出了水稻和其他作物，另一方面可能在于水稻种植范围连片集中，少有其他小面积作物会被错分到水稻中。对比其他作物，玉米的分类精度尤其是用户精度较低，这可能是因为玉米的播种时间存在差异，长势不尽相同，阈值范围较大，导致与玉米光谱特征相似的其他地物被错分为玉米。
+
+此外，影响分类精度的原因主要体现在两个方面，首先，为了避免平滑处理影响时序曲线的波峰个数提取，未进行时间序列数据的重构和平滑处理，导致未能剔除遥感数据在采集过程中受到水汽、气溶胶、双向反射及数据传输等多重因素的影响而出现异常植被指数，在一定程度上影响了提取精度。其次，对于不同作物交界处可能形成的混合像元未作进一步的分类，也会使分类精度降低。
+
+![](images/7a9a5adef5e9320f357c0d0b49b562321ac2fae21c92d3c2a85df73f1969beda.jpg)  
+图5作物种植结构提取效果  
+Fig.5Extracted results of crop planting structure
+
+# 表5不同方法分类精度比较
+
+Tab.5 Compared results of the classification accuracy of different methods   
+
+<html><body><table><tr><td rowspan="2">类型</td><td rowspan="2">总体 精度</td><td rowspan="2">Kappa 系数</td><td colspan="5">制图精度</td><td colspan="5">用户精度</td></tr><tr><td>水稻</td><td>玉米</td><td>小麦</td><td>苜蓿</td><td>其他</td><td>水稻</td><td>玉米</td><td>小麦</td><td>苜蓿</td><td>其他</td></tr><tr><td>曲线特征</td><td>91.45</td><td>0.88</td><td>91.06</td><td>89.24</td><td>89.73</td><td>95.32</td><td>96.49</td><td>93.14</td><td>86.78</td><td>94.24</td><td>93.14</td><td>92.44</td></tr><tr><td>CART</td><td>93.06</td><td>0.90</td><td>91.06</td><td>93.99</td><td>92.91</td><td>95.32</td><td>96.49</td><td>96.26</td><td>87.19</td><td>94.93</td><td>95.88</td><td>90.91</td></tr></table></body></html>
+
+# 5结论
+
+宁夏河套绿洲地势较为平坦，整个生长期内不同作物物候特征差异较大，且在提取作物类型之前已剔除水体和其他建筑物、荒地等非植被的影响，整体分类结果较为理想。结合实地调查和查阅相关统计，分类结果与实际种植结构吻合。
+
+本研究利用 $\mathrm { G F } - 1 / \mathrm { W F V }$ 数据多时相和多光谱信息，构建NDVI和NDWI时间序列，利用不同方法构建决策树，实现了对宁夏河套绿洲作物种植结构的快速、有效、经济的遥感提取，主要结论如下：
+
+（1）不同作物生育期不同，时间序列曲线形态也不同,基于 $\mathrm { G F } - 1 / \mathrm { W F V }$ 获得的归一化植被指数(NDVI)时间序列数据。能够描述研究区农作物不同时期的生长状态，表现了作物在季相节律中的变化过程;基于 $\mathrm { G F } - 1 / \mathrm { W F V }$ 获得的归一化水体指数NDWI时间序列数据，能够描述研究区农作物不同时期的土壤水分状态，表明不同作物灌溉制度的差异；NDVI时间序列及NDWI时间序列能够准确表达各地物的地表动态变化信息，依据作物生长周期中的关键节点选择分类影像及特征参数，结合作物时间序列曲线特征，可以有效地识别不同作物。
+
+（2）2种决策树分类方法分类精度均较高，但基于曲线特征构建决策树操作过程更简单，规则更明了，且无需对决策树进行剪枝，而CART决策树能够更精确地确立各作物分类阈值，有效提高分类精度。
+
+（3）对比CART决策树，结合不同植被生育特点，基于主要作物曲线特征构建的决策树在分类时相、分类阈值和分类精度都相差不大，说明研究区内不同作物在生育期内物候特征差异较大，其对应的NDVI和NDWI时间序列曲线特征差异明显，对于具有明显小气候效应的干旱区绿洲，利用时间分辨率和空间分辨率都较优的GF-1-WFV时间序列数据，对其农作物种植结构进行遥感提取具有较强的实用性和代表性。
+
+# 参考文献（References）:
+
+[1]马丽,顾晓鹤,徐新刚,等.地块数据支持下的玉米种植面积遥感测量方法[J].农业工程学报，2009，25（8）：147-151.［MaLi,Gu Xiaohe,Xu Xingang,et al.Remote sensing measurement ofcorn planting area based on field-data[J].Transactions of theCSAE,2009,25(8) :147-151.]
+
+[2]张焕雪,曹新,李强子,等.基于多时相环境星NDVI时间序列的农作物分类研究[J].遥感技术与应用，2015，30（2）：304-311.[Zhang Huanxue,Cao Xin,Li Qiangzi,et al.Research on cropidentification using multi-temporal NDVI HJ images[J].RemoteSensing Technology and Application,2015,30(2）:304-311.][3]张健康，程彦培,张发旺,等.基于多时相遥感影像的作物种植信息提取[J].农业工程学报,2012,28（2）：134-141.[ZhangJiankang,Cheng Yanpei,Zhang Fawang,etal. Crops planting infor-mation extraction based on multi-temporal remote sensing images[J].Transactions of the CSAE,2012,28(2）:134-141.]
+
+[4]宋茜.基于GF-1/WFV 和面向对象的农作物种植结构提取方 法研究[D].北京：中国农业科学院,2016.［SongQian.ObjectBased Image Analysis with Machine Learning Algorithms for Cropping Pattern Mapping Using GF-1/WFV Imagery[D]. Beijing: Chinese Academy of Agricultural Sciences,2016.]
+
+[5]Wardlow BrianD,Egbert StephenL,Kastens Jude H.Analysisof time-series MODIS 25O m vegetation index data for crop classification in the U.S.Central Great Plains[J].Remote Sensing of Environment,2007,108:290-310.
+
+[6]刘吉凯,钟仕全，梁文海.基于多时相Landsat8OLI影像的作物 种植结构提取[J].遥感技术与应用，2015，30（4)：775-783. [Liu Jikai,Zhong Shiquan,Liang Wenhai.Extraction on crops planting structure based on multi-temporal Landsat 8OLI images[J].Remote Sensing Technology and Application,2015,30（4）:775- 783.]
+
+[7]李鑫川,徐新刚，王纪华，等.基于时间序列环境卫星影像的作 物分类识别[J].农业工程学报,2013,29（2）：169-176.〔Li Xinchuan,Xu Xingang,Wang Jihua,et al.Crop classification recognition based on time-series images from HJ satellite[J].Transactions of the CSAE,2013,29(2):169-176.]
+
+[8]张峰，吴炳方，刘成林,等.利用时序植被指数监测作物物候的方法研究[J].农业工程学报,2004,20（1)：155-159.[ZhangFeng,Wu Bingfang,Liu Chenglin,et al. Methods of monitoring cropphonological stages usingtime series of vegetation indicator[J].Transactions of the CSAE,2004,20(1):155-159.]
+
+[9]Pena J,Gutiérrez P,Herväs-Martinez C,et al. Object-based image classification of summer crops with machine learning methods[J]. Remote Sensing,2014,6(6):5 019-5 041.
+
+[10」张晶，占玉林，李如仁.高分一号归一化植被指数时间序列用 于冬小麦识别[J].遥感信息,2017,32（1）:50-56.[Zhang Jing,Zhan Yulin,Li Ruren.Application of GF-1 NDVI time series in winter wheat identification[J].Remote Sensing Information,2017,32(1) :50-56.]
+
+[11]杨闫君，占玉林，田庆久，等.基于GF-1/WFVNDVI时间序列数据的作物分类[J].农业工程学报，2015，31（24)：155-161.[Yang Yanjun,Zhan Yulin,Tian Qingjiu,et al.Crop classificationbased on GF-1/WFV NDVI time series[J].Transactions of theCSAE,2015,31(24):155-161.]
+
+[12]李梦莹，胡勇，王征禹.基于C5.0决策树和时序HJ-1A/B CCD数据的神农架林区植被分类[J].长江流域资源与环境， 2016,25（7）:1 070-1 077.［Li Mengying,Hu Yong，Wang Zhengyu. Study on vegetation classification in Shengnongjia forest district based on C5.O decision tree and HJ-1 A/B data[J].Resources and Environment in the Yangtze Basin,2O16,25（7）： 1070 -1077.]
+
+[13]梁明，孙毅中，罗荣，等.基于综合多尺度特征决策树模型的土地利用变化分析[J].农业工程学报，2014，30（17)：259-267.
+
+[Liang Ming,Sun Yizhong,Luo Rong,et al.Analysis on land use change based on decision-tree model with comprehensive multiscale characteristics[J].Transactions of the CSAE，2O14，30 (17):259 -267.)
+
+[14］周静平,李存军,史磊刚,等.基于决策树和面向对象的作物分 布信息遥感提取[J].农业机械学报,2016,47（9）：318-326, 333.[Zhou Jingping,Li Cunjun,Shi Leigang,et al. Crops distribution information extracted by remote sensing based on decision tree and object-oriented method[J].Transactions of the Chinese Society for Agricultural Machinery,2016,47(9):318-326,333.]   
+[15]朱永森,曾永年,张猛.基于HJ卫星数据与面向对象分类的土 地利用/覆盖信息提取[J].农业工程学报,2017,33（14）：258 -265.[Zhu Yongsen,Zeng Yongnian,Zhang Meng.Extract of land use/cover information based on HJ satellites data and objectoriented classification[J].Transactions of the CSAE,2017,33 (14) :258 -265.]   
+[16]康峻,侯学会,牛铮,等.基于拟合物候参数的植被遥感决策树 分类[J].农业工程学报,2014,30（9）：148-156.[Kang Jun, Hou Xuehui,Niu Zheng,et al.Decision tree classification based on fitted phenology parameters from remotely sensed vegetation data [J].Transactions of the CSAE,2014,30(9）:148 -156.]   
+[17］那晓东,张树清,李晓峰,等.基于QUEST决策树兼容多源数 据的淡水沼泽湿地信息提取[J].生态学杂志,2009,28（2）： 357-365.[Na Xiaodong,Zhang Shuqing,Li Xiaofeng,et al.Fresh water marsh wetland information extraction based on QUEST tree integrating with multi-source data[J].Chinese Journal of Ecology, 2009,28(2):357-365.]   
+[18]吴健生,潘况一,彭建,等.基于QUEST决策树的遥感影像土 地利用分类——以云南省丽江市为例[J].地理研究,2012,31 （11）:1 973-1980.[Wu Jiansheng,Pan Kuangyi,Peng Jian,et al.Research on the accuracy of TM images land-use classification based on QUEST decision tree:A case study of Lijiang in Yunnan [J].Geographical Research,2012,31（11）:1 973-1 980.]   
+[19］刘晓娜,封志明,姜鲁光.基于决策树分类的橡胶林地遥感识 别[J].农业工程学报,2013,29(24）:163-172.[Liu Xiao'na, Feng Zhiming,Jiang Luguang.Application of decision tree classification to rubber plantations extraction with remote sensing〔J]. Transactions of the CSAE,2013,29(24）:163 -172.]   
+[20]常布辉,王军涛，罗玉丽，等.河套灌区沈乌灌域GF-1/WFV 遥感耕地提取[J].农业工程学报,2017,33（23）：188－195. [Chang Buhui,Wang Juntao,Luo Yuli,et al. Cultivated land extraction based on GF-1/WFV remote sensing in Shenwu irrigation area of Hetao irrigation district[J].Transactions of the CSAE, 2017,33(23) :188 -195.]   
+[21］于文婧,刘晓娜,孙丹峰,等.基于HJ-CCD 数据和决策树法的 干旱半干旱灌区土地利用分类[J].农业工程学报,2016,32 (2）:212-219.[Yu Wenjing,Liu Xiao'na,Sun Danfeng,et al. Land use classification in arid and semi-arid irrigated area based on HJ-CCD data and decision tree method[J].Transactions of the CSAE,2016,32(2):212-219.]   
+[22]赖先齐,王江丽,张凤华,等.中国绿洲研究发展进程的探讨与 展望[J].干旱区研究,2017,34（3）:663-668.[Lai Xianqi, Wang Jiangli, Zhang Fenghua,et al. Discussion and outlook of oasis research and development process in China[J]. Arid Zone Research,2017,34(3) :663-668.]   
+[23］王巧焕,卢玉东,赛佳美,等.干旱区绿洲土壤盐分特征[J].干
+
+旱区研究,2018,35（3）:503-509.[WangQiaohuan，Lu Yud-
+
+ong,Sai Jiamei,etal. Characteristics of soil salinity inarid oasis [J].Arid Zone Research,2018,35(3）:503 -509.]   
+[24］乔斌,何彤慧,于骥,等.银川平原湖泊湿地不同水深梯度下芦 苇种群生长特征[J].干旱区研究,2017,34（4)：762－769. [Qiao Bin,He Tonghui,YuJi,etal.Growth of Phragmites australis population under diferent water-depth gradients in lake-wetland of the Yinchuan Plain[J].Arid Zone Research,2017,34(4）:762 - 769.]   
+[25］欧阳玲,毛德华,王宗明,等.基于GF-1与Landsat8OLI影像 的作物种植结构与产量分析〔J].农业工程学报,2017,33 (11）:147-156.[Ouyang Ling,Mao Dehua,Wang Zongming,et al.Analysis crops planting structure and yield based on GF-1 and Landsat8 OLI images[J]. Transactions of the CSAE,2017,33 (11) :147 -156.]   
+[26」周燕芳.基于作物物候特征的水稻种植面积提取研究[D].长 春:东北师范大学,2015.[Zhou Yanfang.The Study of Paddy Rice Areas Extraction Based on Vegetation Phenology Characteristics[D].Changchun:Northeast Normal University,2015.]   
+[27］郑利娟.基于高分一/六号卫星影像特征的农作物分类研究 [D].北京：中国科学院遥感与数字地球研究所,2017.［Zheng Lijuan. Crop Clasification Using Multi-Features of Chinese Gaofen $- 1 / 6$ Sateliite Remote Sensing Images[D].Beijing:Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences, 2017.]   
+[28］李晓东，姜琦刚.基于多时相遥感数据的农田分类提取[J].农 业工程学报,2015,31（7）:145-150.[Li Xiaodong,Jiang Qigang.Extraction of farmland classification based on multi-temporal remote sensing data[J].Transactions of the CSAE,2015,31（7）: 145 -150.]   
+[29］黄启厅,曾志康,谢国雪,等.基于高时空分辨率遥感数据协同 的作物种植结构调查[J].南方农业学报,2017,48（3）：552- 560.[Huang Qiting,Zeng Zhikang,Xie Guoxue,et al. Investigation on crop planting structure based on synergy of high spatial-temporal resolution remote sensing data[J]. Journal of Southern Agriculture,2017,48(3) :552 -560.]   
+[30］陈利,林辉,孙华,等.基于决策树分类的森林信息提取研究 [J].中南林业科技大学学报,2013,33（1）:46-51.[Chen Li, Lin Hui,Sun Hua,et al.Studies on information extraction of forest in Zhuzhou city based on decision tree classfication[J]. Journal of Central SouthUniversityofForestry& Technology,013,33（1）: 46 -51.]   
+[31］申健,常庆瑞,李粉玲,等.2000—2013 年关中地区耕地复种指 数遥感动态监测[J].农业机械学报,2016,47（8）:280－287. [Sheng Jian,Chang Qingrui,Li Fenling,etal.Dynamic monitoring of cropping index in Guanzhong Area using remote sensing in 2000 -2013[J]. Transactions of the Chinese Society for Agricultural Machinery,2016,47（8）:280 -287.]   
+[32]许青云,杨贵军,龙慧灵,等.基于MODISNDVI多年时序数据 的农作物种植识别[J].农业工程学报,2014,30（11）：134- 144.[Xu Qingyun,Yang Guijun,Long Huiling,et al.Crop information identification based on MODISNDVI time-series data[J]. Transactions of the CSAE,2014,30(11）:134-144.]   
+[33]Breiman L,Friedman JH,OlshenRA,et al.Classification and Regresion Tres[M]. California: Wadsworth International Group, 1984:1 -358.
+
+# Extraction of Crops in Oasis Based on GF -1/WFV Time Series
+
+LIU Ya-qing12，WANG Lei1,23，ZHAO Xi-ni12，QU Xiang-ning1,²，XU Xing12，WANG Rui1,2 (1.BreedingBaseforStateKeyLaboratoryofLandDegradationndEcosystemRestorationinNorthwestChina，NingxiaUnivesity Yinchuan 750021,Ningxia,China;   
+2.KeyLboratorfor RestorationandReconstructionof Degenerated Ecosystem inNorthwest ChinaunderMinistryofEducation, Ningxia University,Yinchuan 750021,Ningxia,China;   
+3.International Institute for Earth System Science,Nanjing University,Nanjing 21oo93,Jiangsu,China)
+
+Abstract:The rapid extraction of regional crops is of great significance for agricultural production management, planting structure adjustment and optimization,and food security.The use of time series data of remote sensing imagefor extracting crops is an important means,and the time resolution and spatial resolutionare constraints.The time resolution of medium spatial resolution of remotesensing data is significantly improved with the successful launch of the first satellite $\mathrm { G F } - 1$ of China High-resolution Earth Observation System.However,the seasonal rhythm featuresofcrops differ greatlyunderdiferent climate backgrounds.The Hetao Oasis is irigated bythe Yellow River.It has an ecological landscape with obvious microclimate efect.The extraction of remote sensing data of crops is typical and representative.The Hetao Oasis in Ningxia is selected as the study area to analyze and evaluate the applicability ofGF-1 satelitedata in extracting crops.According to the characteristics of crop planting in the study area,the four main crops including rice,corn,wheat and alfalfa were extracted.Firstly,the $\mathrm { G F } - 1 / \mathrm { W F V }$ image was calculated by band,and the NDVIand NDWI time series of remote sensing data sets were obtained.The values of NDVI and NDWI of the main crops were extracted,and the time series curves of NDVI and NDWI were constructed.The time series data of remote sensing indexes of the main crops were analyze,the farming information was determined to extract the phases and thresholdsof the crops,constructthe decisiontree and extract the crops.The time series data of natural grasslands,reedand grape and of othervegetation types werecombined to establish the CART decision tree soas to verifytheclassification effectof thecorrelationtime series and thedecision treeconstructed by the farming information. The results are as follows : $\textcircled{1}$ The morphological characteristics of time series curves were diffrent from diferent farming ways,and the NDVI time series data could be used to describe the growth status of crops indiferent periods；the NDWI time series data obtained from GF-1/WFVcould be used to describe the soil moisturestatus of diferent crops and reflect the diferent irigation systems of diferentcrops inthe study area.The NDVI time series and the NDWI time series could be used to accurately expressthe surface dynamic change informationof the surrounding areas of the study area,correlate the crop time series with farming information,and effectively recognize different crops ; $\textcircled{2}$ Compared with the CART decision tree,the decision tree of classification phase , clasification threshold and classification accuracy constructed by combining diferent crop farming information and main crop curve features were similar.These indicated that the farming ways were diferent from diferent crops in the study area,and the time series of corresponding NDVI and NDWI values were significantly diferent.
+
+Key words:crops；cropping patern； GF-1/WFV time series data； decision tree； remote sensing mapping;oasis； Ningxia

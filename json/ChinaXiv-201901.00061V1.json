@@ -1,0 +1,755 @@
+[
+    {
+        "type": "text",
+        "text": "易腐品多周期闭环物流网络鲁棒优化模型",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭健全，杨晓华(上海理工大学 管理学院，上海 200093)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对不同周期的易腐品需求与退货不确定性问题，构建了易腐品多周期闭环物流网络，并设计了对应的混合整数线性规划（MILP）模型，以实现最低系统总成本、最佳设施选址以及最优配送车辆运输路径的决策。为有效规避不确定参数的影响，采用基约束鲁棒方法，将模型中的部分清晰约束转换为鲁棒对应式。以上海市果蔬农产品企业为实例，通过遗传算法对模型进行求解。结果表明，相对单周期而言，多周期系统具有动态性、系统成本更低的优点，同时通过不确定预算参数的变化分析，验证了鲁棒模型的可行性与有效性，进而为不确定环境下构建多周期闭环物流网络及降低系统成本提供了借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：多周期；易腐品；闭环物流网络设计；鲁棒优化；遗传算法中图分类号：F272 doi: 10.3969/j.issn.1001-3695.2018.08.0615",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robust optimization model of multi-period closed-loop logistics network for perishable product ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guo Jianquan, Yang Xiaohua (Business School,University of Shanghai for Science&Technology,Shanghai 2Ooo93,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inviewoftheuncertaintyof demandandreturnforperishable products indiferent periods,amulti-periodmodel of closed-loop logistics network for perishable productand the coresponding mixed integer linear programming (MILP) model were proposed,soas toachievethedecisionof theminimum totalsystem cost,the bestfacitylocationand vehicle route.Inorder toavoid the influenceof uncertain parameters effectively，some defined constraints inthemodel were converted to robustcorresponding expresions by using cardinality constrained robust approach.Through the case of the fruit and vegetable agriculturalenterprises of Shanghai,the validityof model was verified by genetic algorithm (GA).The resultshows thatcompared with the single period system，the multi-period system had theadvantagesof dynamic performance and lower systemcost,meanwhile,the feasibilityand efectiveness ofthe robustmodel were verified through the analysisofthe variationof uncertainbudget parameters,which providesareferencefor theconstructionof multi-period closed-loop logistics network and the reduction of system cost under uncertain environment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: multi-period; perishable products;closed-looplogistics networkdesign; robust optimization;genetic algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着社会经济的发展以及环境污染的加剧，政府和消费者对企业的环境和社会责任提出了更高的要求[I-3]。闭环物流网络正是顺应这一发展趋势而产生的，它是科学高效规划物流网络的出发点，是正向物流网络与逆向物流网络的集成[4,5]。随着闭环物流网络的发展，与其直接相关的物流仓储[6]、配送车辆路径[7]、选址与分配[8等研究的关注度日益增加，并且越来越多的研究聚焦于系统性的数学模型设计以及特定的框架分析[4]。因此本文设计了易腐品多周期闭环物流网络模型及选址与路径规划，以期为该类问题提供系统性的解决思路，并为相关企业提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "当前国内外学者在该领域已经开展了相关研究。文献[9,10]通过建立混合整数数学模型，来设计不同产品方案的闭环物流网络。文献[11,12]利用元启发式算法来优化多产品闭环供应链。多周期性是闭环物流网络的重要研究方向[13]。文献[14]研究了闭环物流网络中具有序列相关设置的多阶段多产品多周期生产计划问题。文献[15]为解决闭环物流网络的规划问题，提出了混合整数线性规划框架下的多周期模型，并利用遗传算法求解。以上文献尚未考虑到在参数不确定下，如何同时统筹闭环物流网络设计与多周期规划。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在不确定环境下，研究闭环物流网络，更具有现实意义[12]。大多数研究采用随机规划、模糊规划和鲁棒规划来开展闭环物流网络设计研究[16,17]。然而，随机规划方法需要数据的精确分布情况，并且目标函数值会随着场景数量增加而急剧增加，由此对模型计算提出了实质性的挑战[16.18]；模糊规划的不足之处在于，其约束条件难以权衡，进而影响最优决策[19]。针对上述规划的不足，不少研究倾向于构建鲁棒优化法[16]。鲁棒优化能够有效地应对参数的扰动，保证物流网络设计的稳定性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "易腐品是闭环物流网络的重要研究对象。文献[20]将易腐品分为两大类：一类以食品、蔬菜、人体血液和使用寿命较短的底片为代表的易逝品（perishable products)；另一类如酒精、汽油以及其他没有保质期的放射性物质，称为衰变产物（decayingproducts)。由于易腐品的保质期与销售周期短、退货品残值低、需求波动性强等特性[21,22]，物流过程的库存成本、运输成本很高[23,24]。合理的物流网络设计可以更好地规划、控制运输活动，从而减少易腐品在运输过程的损失[25-27]。现有易腐品研究大多关注库存管理系统、选址与路径、定价决策等方面[28.29]，对于闭环物流网络维度的探讨关注度不足，且缺乏同时提及不确定性与多周期因素在模型中的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上所述，针对消费者需求和退货不确定、易腐品保质期短的问题，建立了易腐品多周期闭环物流网络鲁棒优化模型。为了使企业实现最低经济成本目标，本文以最小系统总成本为目标函数，包含建设成本、维持成本、运营成本、信息处理成本以及运输成本。以上海市某果蔬农产品企业新鲜直送水果业务为例，通过遗传算法确定不同周期不同预算水平下模型的适应度、选址方案与车辆路径。以上文献与本文的对比情况如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/94cfdf91e7fcd3638f1b9dffd5465e5f892ca3c4ddd10e45d0542f7e52ecbe41.jpg",
+        "table_caption": [
+            "表1文献对比",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Table1</td><td colspan=\"4\">Literaturecomparison</td></tr><tr><td></td><td>闭环物流 选址与 网络</td><td>路径</td><td>算法</td><td>遗传 不确定参 数量</td><td>研究 对象</td><td>不确定方法</td></tr><tr><td>Hiassat A</td><td></td><td>√</td><td>√</td><td></td><td>易腐</td><td></td></tr><tr><td>(2017) Guo et</td><td></td><td></td><td></td><td></td><td>品</td><td></td></tr><tr><td>al.(2017)</td><td>√</td><td></td><td>√</td><td></td><td>服饰</td><td></td></tr><tr><td>Govindan et al.(2017)</td><td>√</td><td>√</td><td></td><td>3</td><td>打印 机</td><td>加权模糊数 学规划</td></tr><tr><td>ZahiriB(2017)</td><td>√</td><td></td><td></td><td>2</td><td>医药</td><td>鲁棒优化</td></tr><tr><td>Guo et</td><td>√</td><td>√</td><td>√</td><td></td><td>生鲜</td><td></td></tr><tr><td>al.(2017) Amin et</td><td>√</td><td></td><td></td><td>2</td><td>复印</td><td>场景分析法</td></tr><tr><td>al.(2013) Babaveisi et</td><td>√</td><td></td><td>√</td><td></td><td>机</td><td></td></tr><tr><td>al.(2017) Farrokh et</td><td>√</td><td></td><td></td><td>4</td><td></td><td>鲁棒模糊随</td></tr><tr><td>al.(2017) Hamed et</td><td></td><td></td><td></td><td></td><td></td><td>机规划</td></tr><tr><td>al.(2015)</td><td>√</td><td></td><td>√</td><td></td><td>办公</td><td></td></tr><tr><td>李进(2018)</td><td>√</td><td></td><td></td><td></td><td>电器</td><td>模糊规划</td></tr><tr><td>李伯棠等 (2017)</td><td></td><td>√</td><td></td><td>1</td><td>发动 机</td><td>鲁棒优化</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>易腐</td><td></td></tr><tr><td>本文</td><td>√</td><td>√</td><td>√</td><td>2</td><td>品</td><td>鲁棒优化</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 问题描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "单周期物流配送中，忽略了消费者对易腐品的需求与退货是动态变化的因素，从而导致闭环物流网络系统中设施长期选址在实际决策中出现偏差。而多周期物流配送，充分体现配送路径的灵活性，并且有效解决不同周期参数值变化对设施长期选址与数量的影响，使得研究更贴切实际。在多周期系统中，根据产品易腐程度、市场环境以及易腐品企业运营的实际变化等因素进行周期划分，并利用计算得出的最优设施选址安排进行各个周期的物流配送作业。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在某一周期内，中转中心配送仓作为闭环物流网络的分销商，需对从供应商采购的易腐品进行分类、包装、贴签等作业。配送运输过程中，乘坐车辆 $V$ 的工作人员将产品按企业预估的订单需求配送至正向物流终端（消费者自提点)，与此同时，完成提取退货品的一系列活动。在逆向物流中，中转中心回收仓对各自提点的退货易腐品分类处理，将具有一定残值的产品送至加工厂进行再循环工序，后续把易腐品残渣送至垃圾处理厂烧或填埋[30]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "易腐品闭环物流网络网络结构如图1所示，由消费者自提点、易腐品企业、中转中心、易腐品供应商、加工厂和垃圾处理厂六部分组成。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c1beb604f4da96ef054ae7dda41acf8925b6166b39a63b22eca9808b4adfcbe.jpg",
+        "img_caption": [
+            "图1易腐品闭环物流网络结构",
+            "Fig.1Structure of perishable products closed-loop logistics network "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 易腐品多周期闭环物流网络设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1模型假设 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）退货易腐品只考虑第三方再加工与废物处理两道工序。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）中转中心、供应商、加工厂以及垃圾处理厂的候选位置与数量已知，并且相同设施不同节点的处理能力相同。c）退货产品的加工厂与垃圾处理厂为第三方工厂，不考虑其设施固定建设成本。d)多周期情况下，第一阶段考虑设施建设成本，其他阶段只计算设施维持成本。e）各周期下设施的处理能力无差异。f)企业的信息处理成本与消费者的需求量和退货量成线性关系；中转中心到供应商、加工厂以及垃圾处理厂的运输成本与运输量和运输距离成线性关系；中转中心到消费者自提点、自提点 $i$ 到自提点 $i$ 的运输成本只与运输距离成线性关系[30,31]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "g）节点之间的距离并非两点间直线距离，而是货车行驶的距离。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2符号",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$i / i ^ { \\prime }$ 代表消费者自提点， $i / i ^ { \\prime } \\in \\left\\{ 1 , 2 , . . . , I \\right\\}$ ： $j$ 代表中转中心， $j \\in \\{ 1 , 2 , . . . , J \\} \\ ; \\ s$ 代表易腐品供应商， $s \\in \\{ 1 , 2 , . . . , S \\}$ ； $h$ 代表易腐品企业， $h \\in \\{ 1 , 2 , . . . , H \\} \\ ; \\ p$ 代表加工厂， $p \\in \\{ 1 , 2 , . . . , P \\}$ ； $\\mathbf { \\xi } _ { l }$ 代表垃圾处理厂， $l \\in \\{ 1 , 2 , . . . , L \\}$ ； $\\mathbf { \\chi } _ { t }$ 代表周期， $t \\in \\{ 1 , 2 , . . . , T \\}$ ； $\\nu$ 代表运输车辆， $\\nu \\in V$ ； $R$ 代表运输路线， $R = 1 , 2 , . . . , R$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3参数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$F _ { i } ^ { t }$ 、 $F _ { j } ^ { t }$ 分别为第 $\\mathbf { \\Psi } _ { t }$ 周期，各节点设施建设的固定成本；$\\mathbf { m } \\mathbf { a } _ { i } ^ { t }$ 、 $\\mathbf { m } \\mathbf { a } _ { j } ^ { t }$ 分别为第 $t$ 周期，各节点设施的维持成本； $o p _ { i } ^ { t }$ 、 $o p _ { j } ^ { t }$ 分别为第 $\\mathbf { \\Psi } _ { t } \\mathbf { \\Psi } _ { \\mathbf { \\Psi } }$ 周期，各节点的运营成本； $K$ 代表单位车辆最大运载量； $\\boldsymbol { u } _ { h } ^ { \\dot { \\mathbf { \\alpha } } }$ 代表易腐品企业的单位信息处理成本； $u t _ { s j }$ 、$u t _ { j i } ,$ ， $u t _ { i i ^ { \\prime } }$ ， $u t _ { i j }$ ， $u t _ { j p }$ 、 $u t _ { p l }$ 分别代表两点之间的单位运输成本；$d i s _ { s j } ,$ $d i s _ { j i }$ ， $d i s _ { i i ^ { \\prime } }$ ， $d i s _ { j p }$ ， $d i s _ { { } _ { p l } }$ 分别代表两点之间的距离； $c a _ { i } , \\ c a _ { j }$ 、$c a _ { p }$ ， $c a _ { l }$ 分别代表各节点的最大处理能力； $\\textbf { \\em a }$ 代表回收产品的再加工率； ${ \\bf d } _ { i } ^ { \\prime }$ 代表消费者自提点第 $t$ 周期需求量； $\\mathbf { r } _ { i } ^ { t }$ 代表消费者自提点第 $t$ 周期退货量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4决策变量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$Y _ { j } ^ { t }$ 为 0-1变量，若在第t周期选择中转中心，则$Y _ { j } ^ { t } = 1 ,$ 否则 $Y _ { j } ^ { t } = 0 ; Y _ { p } ^ { t }$ 为0-1变量，若在第t周期选择加工厂，则$Y _ { p } ^ { t } = 1 ,$ 否则 $Y _ { p } ^ { t } = 0 ;$ $Y _ { l } ^ { t }$ 为0-1变量，若在第t周期选择候选垃圾处理厂，则 $Y _ { l } ^ { t } = 1 ,$ ，否则 $Y _ { l } ^ { t } = 0 ;$ $Y _ { \\nu t } ^ { R }$ 为0-1变量，若车辆 $\\mathbf { v }$ 在t周期第R条路线运输易腐品，则 $Y _ { \\nu t } ^ { R } = 1 ,$ 否则 $Y _ { \\nu t } ^ { R } = 0$ ： $Y _ { j i t } ^ { R }$ 、 $Y _ { i i \\bar { t } } ^ { R }$ 、 $Y _ { i j t } ^ { R }$ 为0-1变量，若在t周期第 $\\mathtt { R }$ 路线上，分别将产品从中转中心运输到自提点、自提点i运输到自提点 $\\mathbf { i } ^ { \\flat }$ ，以及从自提点运输到中转中心，则 $Y _ { j i t } ^ { R } = 1$ 、 $Y _ { i i { \\dot { \\tau } } } ^ { R } = 1$ 、 $Y _ { i j t } ^ { R } = 1$ ，否则 $Y _ { j i t } ^ { R } = 0$ 、 $Y _ { i i { ' } } ^ { R } = 0$ 、$Y _ { i j t } ^ { R } = 0$ ； $\\boldsymbol { x } _ { s j } ^ { t }$ 、 $\\boldsymbol { x } _ { j i } ^ { t }$ 、 $x _ { i j } ^ { t }$ 、 $\\boldsymbol { x } _ { j p } ^ { t }$ 、 $\\boldsymbol { x } _ { j l } ^ { t }$ 表示第t周期的节点间运输量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5MILP模型的建立",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单周期的固定建设成本与设施维持成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { s i n } = \\sum _ { i = 1 } ^ { I } F _ { i } ^ { t } + \\sum _ { j = 1 } ^ { J } Y _ { j } ^ { t } F _ { j } ^ { t } + \\sum _ { j = 1 } ^ { J } \\sum _ { i = 1 } ^ { I } Y _ { j } ^ { t } x _ { j i } ^ { t } \\mathrm { m a } _ { i } ^ { t } + \\sum _ { j = 1 } ^ { J } \\sum _ { i = 1 } ^ { I } Y _ { j } ^ { t } \\mathrm { m a } _ { j } ^ { t } \\ast ( x _ { j i } ^ { t } + x _ { i j } ^ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多周期的固定建设成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { m u l } \\left( t = 1 \\right) = \\sum _ { i = 1 } ^ { I } F _ { i } ^ { t } + \\sum _ { j = 1 } ^ { J } Y _ { j } ^ { t } F _ { j } ^ { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "多周期的设施维持成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { m u l } \\left( t \\geq 2 \\right) = \\sum _ { j = 1 } ^ { J } \\sum _ { i = 1 } ^ { I } Y _ { j } ^ { t - 1 } Y _ { j } ^ { t } x _ { j i } ^ { t } \\mathrm { m a } _ { i } ^ { t } + \\sum _ { j = 1 } ^ { J } \\sum _ { i = 1 } ^ { I } Y _ { j } ^ { t - 1 } Y _ { j } ^ { t } \\mathrm { m a } _ { j } ^ { t } \\mathrm { \\Lambda } ^ { \\ast } \\left( x _ { j i } ^ { t } + x _ { i j } ^ { t } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "各个周期的运营成本、信息处理成本及运输成本为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { w _ { 1 } = \\displaystyle \\sum _ { t = 1 } ^ { T } \\sum _ { j = 1 } ^ { J } \\sum _ { i = 1 } ^ { I } Y _ { j } ^ { t } o p _ { i } ^ { t } x _ { j i } ^ { t } + \\displaystyle \\sum _ { t = 1 } ^ { T } \\sum _ { i = 1 } ^ { I } \\sum _ { i = 1 } ^ { I } Y _ { j } ^ { t } o p _ { j } ^ { t } \\left( x _ { j i } ^ { t } + x _ { i j } ^ { t } \\right) + } } \\\\ { { \\displaystyle \\sum _ { t = 1 } ^ { T } \\sum _ { h = 1 } ^ { H } \\sum _ { j = 1 } ^ { J } \\sum _ { i = 0 } ^ { I } ( x _ { j i } ^ { t } + x _ { i j } ^ { t } ) u \\dot { i } _ { h } + \\displaystyle \\sum _ { t = 1 } ^ { T } \\sum _ { j = 1 } ^ { J } \\sum _ { s = 0 } ^ { S } Y _ { j } ^ { t } x _ { s j } ^ { t } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd i s _ { s y } u t _ { s j } + \\sum _ { t = 1 } ^ { T } \\sum _ { j = 1 } ^ { J } \\sum _ { p = 0 } ^ { P } \\sum _ { i = 1 } ^ { l } Y _ { j } ^ { t } Y _ { P } ^ { t } x _ { i j } ^ { t } d i s _ { j p } u t _ { j P } + \\sum _ { t = 1 } ^ { T } \\sum _ { j = 1 } ^ { J } \\sum _ { p = 0 } ^ { P } \\sum _ { l = 0 } ^ { L } Y _ { j } ^ { t } Y _ { p } ^ { t } Y _ { l } ^ { t } x _ { j l } ^ { t } d i s _ { p l } u t _ { p l } +\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { t = 1 } ^ { T } \\sum _ { j = 1 } ^ { J } \\sum _ { i = 0 } ^ { I } \\sum _ { \\nu \\in \\mathbb { V } } Y _ { \\nu t } ^ { R } Y _ { j i t } ^ { R }  { \\mathrm { d i s } } _ { j i } u t _ { j i } + \\sum _ { t = 1 } ^ { T } \\sum _ { i = 0 } ^ { I } \\sum _ { \\prime = 0 } ^ { I ^ { \\prime } } \\sum _ { \\nu \\in \\mathbb { V } } Y _ { \\nu t } ^ { R } \\ast Y _ { i i \\tilde { \\tau } } ^ { R }  { \\mathrm { d i s } } _ { i i ^ { \\prime } } u t _ { i i ^ { \\prime } } + \\sum _ { t = 1 } ^ { T } \\sum _ { i = 0 } ^ { I } \\sum _ { j = 0 } ^ { J } \\sum _ { \\nu \\in \\mathbb { V } } Y _ { \\nu t } ^ { R } Y _ { i j t } ^ { R }  { \\mathrm { d i s } } _ { i j } u t _ { i j }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "单周期系统总成本为 $m i n ~ Z _ { \\mathrm { s i n } } = w _ { s i n } + w _ { 1 }$ （204号多周期系统总成本为 $m i n { Z _ { \\mathrm { { m u l } } } } = w _ { m u l } + w _ { 1 }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "s. t. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { t = 1 } ^ { T } \\sum _ { i ^ { \\prime } = 1 } ^ { I ^ { \\prime } } ( Y _ { i i t } ^ { R } + Y _ { i ^ { \\prime } i t } ^ { R } ) \\leq 1 ~ , \\forall i , t \n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { i i t } ^ { R } = 0 , \\forall i , t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 0 } ^ { I } \\sum _ { i ^ { \\prime } = 0 } ^ { I ^ { \\prime } } Y _ { \\nu t } ^ { R } Y _ { i i ^ { \\prime } t } ^ { R } = i \\ , \\forall \\nu , t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j i } ^ { t } \\ge \\mathrm { d } _ { i } ^ { t } Y _ { j i t } ^ { { _ R } } , \\forall i , \\mathrm { j , R , t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\sum _ { j = 1 } ^ { J } } { \\sum _ { i = 1 } ^ { I } } x _ { j i } ^ { t } = x _ { s j } ^ { t } ~ ; ~ \\forall ~ s , ~ t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i j } ^ { t } \\geq \\mathbf { r } _ { i } ^ { t } Y _ { i j t } ^ { R } ; ~ \\forall \\ell , \\mathrm { { j , R , t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { I } \\sum _ { j = 1 } ^ { J } x _ { i j } ^ { t } = \\sum _ { j = 1 } ^ { J } x _ { j p } ^ { t } \\mathrm { ~ / ~ } \\alpha = \\sum _ { j = 1 } ^ { J } x _ { j l } ^ { t } \\mathrm { ~ / ~ } \\left( 1 - \\alpha \\right) ; \\forall p , l , t \\in \\mathbb { Z }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { \\nu \\in V } Y _ { \\nu } ^ { R } \\leq 1 , \\forall R , t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 0 } ^ { I } \\sum _ { i ^ { \\prime } = 0 } ^ { I ^ { \\prime } } x _ { j i } ^ { t } Y _ { \\nu t } ^ { \\cal R } Y _ { i i ^ { \\prime } t } ^ { \\cal R } \\le K ~ , ~ \\forall j , ~ \\nu , ~ t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j i } ^ { t } + x _ { i j } ^ { t } \\le c a _ { i } \\ , \\ \\forall i , \\ j , \\ t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathfrak { a } \\sum _ { i = 1 } ^ { l } \\sum _ { j = 1 } ^ { J } x _ { i j } ^ { t } \\le c a _ { p } , \\forall p , t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - \\alpha ) \\sum _ { i = 1 } ^ { I } \\sum _ { j = 1 } ^ { J } x _ { i j } ^ { t } \\leq c a _ { l } , \\forall l , t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { J } \\sum _ { i = 1 } ^ { I } x _ { j i } ^ { t } + \\sum _ { i = 1 } ^ { I } \\sum _ { j = 1 } ^ { J } x _ { i j } ^ { t } \\le c a _ { j } , \\forall t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { j = 1 } ^ { J } Y _ { j } ^ { t } \\geq 1 , \\forall t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { p = 1 } ^ { P } Y _ { p } ^ { t } \\geq 1 , \\forall t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { l = 1 } ^ { L } Y _ { l } ^ { t } \\geq 1 , \\forall t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { R } \\sum _ { \\nu \\in V } Y _ { \\nu t } ^ { R } \\geq 1 , \\forall t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { j } ^ { t } , Y _ { p } ^ { t } , Y _ { l } ^ { t } , Y _ { \\nu t } ^ { R } , Y _ { j i t } ^ { R } , Y _ { i i t } ^ { R } , Y _ { i j t } ^ { R } \\in \\{ 0 , 1 \\} , \\forall j , i , p , l , \\nu , R\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模型中，式（6）（7）表示两个自提点间仅有一条线路；式（8）表示一个自提点只属于一条路线；式（9）～（12）表示闭环物流网络中，易腐品产品流量平衡关系；式（13）（14）表示每条线路仅有一辆车配送，并且每条线路运输总量不超过车辆运载量；式（15）～（18）分别表示各个设施的容量约束；式（19）～（21）表示至少选择一个中转中心、一个食品加工厂和一个废物处理厂；式（22）表示至少有一条线路完成整个闭环供应链系统的配送；式（23）表示变量为0-1变量；式（24）表示运输量为非负整数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 多周期下鲁棒优化模型设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在闭环物流网络问题中，考虑易腐品不同周期、需求与退货不确定因素对选址、路径决策至关重要。为有效规避不确定参数的影响，采用基约束鲁棒方法，将模型中的部分清晰约束转换为鲁棒对应式，并结合对偶理论，对非凸非线性的不确定鲁棒规划进行线性变换[18.19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假设每个节点的需求量 $d _ { i }$ 取值于盒子(box)不确定集合，即有界的对称区间集合。 $d _ { i } ^ { t } \\in \\left[ d _ { i } ^ { t } - d _ { i } ^ { t } , d _ { i } ^ { t } + d _ { i } ^ { t } \\right]$ ，其中 ${ \\bf d } _ { i } ^ { t }$ 表示第t周期需求量的常规值， ${ \\bf d } _ { i } ^ { t }$ 表示第t周期需求量的最大偏离值。在约束式（9）中，引入不确定预算参数 $\\Gamma _ { \\dot { \\iota } t } ^ { \\mathrm { d } }$ ，来调节结果的保守性，其中 $\\Gamma _ { i t } ^ { \\mathrm { d } } \\in ~ [ 0 , \\mathrm { m } ]$ ， $\\mathrm { ~ m ~ }$ 表示每个周期下需求点不确定的个数。在现实的易腐品闭环供应链中，并非全部的需求量都是不确定值。本文构建的鲁棒优化方法是为了保证最多有 $\\Gamma _ { \\it { i t } } ^ { \\mathrm { d } }$ 个 ${ \\bf d } _ { i } ^ { t }$ 在其区间内波动，对应的需求量扰动为$\\big ( \\Gamma _ { i t } ^ { \\mathrm { d } } - \\Gamma _ { i t } ^ { \\mathrm { d } } \\big ) \\mathrm { d } _ { i } ^ { t }$ 。由此，式（9）转换为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j i } ^ { t } \\geq \\mathsf { d } _ { i } ^ { t } Y _ { j i t } ^ { R } + \\mathsf { z } \\big ( d _ { i t } ^ { \\ast } , \\Gamma _ { i t } ^ { \\mathrm { d } } \\big ) , \\forall i , \\mathsf { j } , R \\mathrm { ~ } , \\mathsf { t } ;\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { z } \\big ( d _ { i t } ^ { \\mathrm { ~ * ~ } } , \\Gamma _ { i t } ^ { d } \\big ) = \\operatorname* { m a x } _ { \\{ S _ { i t } \\cup \\{ g _ { i t } \\} | S \\subseteq I , | S _ { i t } | = \\Gamma _ { i t } ^ { d } , \\mathrm { ~ } g _ { i t } \\in J \\backslash S \\} } \\{ d _ { i } ^ { t } Y _ { j i t } ^ { R } + \\mathring { \\ell } \\Gamma _ { i t } ^ { d } - \\Gamma _ { i t } ^ { d } \\big ) d _ { g } ^ { t } Y _ { i g t } ^ { R } \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 $\\boldsymbol { z } \\big ( \\boldsymbol { d } _ { i t } ^ { \\ * } , \\Gamma _ { i t } ^ { \\mathrm { d } } \\big )$ 进行线性转换：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { z } \\left( d _ { i t } ^ { \\mathrm { ~ * ~ } } , \\Gamma _ { i t } ^ { \\mathrm { d } } \\right) = \\operatorname* { m a x } \\{ \\mathrm { d } _ { i } ^ { t } Y _ { j i t } ^ { R } \\delta _ { i } ^ { d } : \\sum _ { i = 1 } ^ { I } \\delta _ { i } ^ { d } \\leq \\Gamma _ { i t } ^ { \\mathrm { d } } , 0 \\leq \\delta _ { i } ^ { d } \\leq 1 , \\forall i \\in I\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $*$ 表示对数 $^ *$ 向下取整；S表示偏离均值的节点集合； $z \\big ( d _ { i t } { } ^ { * } , \\Gamma _ { i t } ^ { \\mathrm { d } } \\big )$   \n为保护函数； $\\delta _ { i } ^ { d }$ 为辅助变量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "当 $\\Gamma _ { i t } ^ { \\mathrm { d } } = 0$ ，此时表示所有自提点的需求量都均未偏离均值，这种情况下，鲁棒问题变为确定问题；当 $\\Gamma _ { i t } ^ { \\mathrm { d } } = m ,$ 此时所有需求值都偏离均值，取值于区间最大偏离值，在此情况下，所得的物流成本过于保守。企业可以通过 $\\Gamma _ { i t } ^ { \\mathrm { d } }$ 值来调节目标值的鲁棒性。由于式（25）有界，根据对偶定理，其对偶问题式（27）有界且所得结果一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname* { m i n } \\left\\{ \\mathbf { u } _ { \\mathrm { j } } ^ { \\intercal } \\Gamma _ { \\mathrm { i t } } ^ { \\mathrm { d } } + \\sum _ { \\mathrm { i = 1 } } ^ { \\mathrm { I } } \\mathbf { v } _ { \\mathrm { i } } ^ { \\intercal } : \\mathbf { u } _ { \\mathrm { j } } ^ { \\intercal } + \\mathbf { v } _ { \\mathrm { i } } ^ { \\intercal } \\geq \\mathbf { d } _ { \\mathrm { i } } ^ { \\intercal } \\mathbf { Y } _ { \\mathrm { j i t } } ^ { \\mathrm { R } } , \\ \\mathbf { u } _ { \\mathrm { j } } ^ { \\intercal } \\geq 0 , \\ \\mathbf { v } _ { \\mathrm { i } } ^ { \\intercal } \\geq 0 , \\ \\forall \\Im , \\ \\mathrm { j } , \\ \\mathrm {  ~ \\scriptstyle ~ R , ~ \\tau ~ } \\mathrm { t } \\right\\}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据式（25）～（27)，需求量约束式（9）的鲁棒转换等价式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { j i } ^ { t } \\geq \\mathbf { d } _ { i } ^ { t } Y _ { j i t } ^ { R } + { \\mathbf { u } } _ { j } ^ { t } \\Gamma _ { i t } ^ { \\mathrm { d } } + \\sum _ { i = 1 } ^ { I } { \\mathbf { v } } _ { i } ^ { t } \\ , \\ \\forall \\ \\mathbf { j } \\ , \\ R , \\ t\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { u } _ { j } ^ { t } + \\mathbf { v } _ { i } ^ { t } \\geq \\mathrm { d } _ { i } ^ { t } Y _ { j i t } ^ { R } \\ , \\forall i , \\mathbf { j } , R \\ , \\mathbf { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { u } _ { j } ^ { t } \\geq 0 , \\mathbf { v } _ { i } ^ { t } \\geq 0 , \\forall i , \\mathbf { j } , \\mathbf { t }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "同理，将消费者的退货量约束式（11）进行鲁棒对应式优化转换：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i j } ^ { t } \\geq { \\bf r } _ { i } ^ { t } Y _ { i j t } ^ { R } + e _ { j } ^ { t } \\Gamma _ { i t } ^ { \\mathrm { r } } + \\sum _ { i = 1 } ^ { I } q _ { i } ^ { t } \\ , \\forall \\ \\mathrm { ~ j ~ } , \\ R , \\ t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { j } ^ { t } + q _ { i } ^ { t } \\ge { { \\bf r } } _ { i } ^ { t } Y _ { i j t } ^ { R } ~ , ~ \\forall i , ~ j , ~ R , ~ t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { j } ^ { t } \\geq 0 , q _ { i } ^ { t } \\geq 0 , \\forall i , j , t\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 遗传算法编写过程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "遗传算法（GA）是基于遗传学机理和达尔文自然选择理论的元启发式优化技术[3]，适用于搜索近似最优解[32]。因具有内在的隐并行性、全局寻优能力、自动调整搜索方向等特点，被广泛用于解决大规模运输规划、物流网络构建、配送车辆路径等问题[31,33]。在此基础上，本文采用GA 来解决进行多周期闭环物流网络鲁棒设计、选址及路径规划问题。本文具体操作如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a）染色体编码与初始化。本文的染色体（ $\\scriptstyle ( J + P + L + V ( R )$ $+ J I ( R ) + I I ^ { \\prime } ( R ) + I J ( R ) + S J + J I + I I ^ { \\prime } + I J + J P + P L )$ 数组。图2(a)(b)的染色体为二进制串（1或0)，表示设施J、P、L是否建立、车辆V是否在路线R上运输以及路线R上节点是否有被选择；图2(c)的染色体对应的数值表示实例中节点间的易腐品运输数量。在GA的过程中，自动确定消费者自提点、中转中心、加工厂及垃圾处理厂是否开放以及规划相应路线。本文的GA参数如表2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/19b859b1c61a6ff397b462d1cc5b922db05fa5a27844949338849725400c230b.jpg",
+        "table_caption": [
+            "(a）染色体组1 (a) Chromosome 1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">J</td><td colspan=\"2\">P</td><td colspan=\"2\">L</td></tr><tr><td>1</td><td>１</td><td>0</td><td>１</td><td>0</td><td>1</td><td>0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/45162b360acd96919a82f2486e0781cb67be3b8f632e50fdf41220d35c7159db.jpg",
+        "table_caption": [
+            "(b）染色体组2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">V(R)</td><td colspan=\"4\">JI(R)</td><td colspan=\"4\">I1'(R)</td><td colspan=\"4\">IJ(R)</td></tr><tr><td>1</td><td>2</td><td></td><td>6</td><td>1</td><td>2</td><td></td><td>48</td><td>1</td><td>2</td><td>…</td><td>128</td><td>1</td><td>2</td><td></td><td>48</td></tr><tr><td>1</td><td>0</td><td></td><td>1</td><td>1</td><td>0</td><td></td><td>1</td><td>１</td><td>0</td><td></td><td>1</td><td>1</td><td>0</td><td>…</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/70ab75bc9adb1d7d039adc8b114e2942defae4abd84e96c0634a756240c8ee16.jpg",
+        "table_caption": [
+            "(b) Chromosome 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">S-j</td><td colspan=\"5\">J-1</td><td rowspan=\"2\"></td><td colspan=\"6\">1-1'</td></tr><tr><td>1 S(1)</td><td>2 S(2)</td><td>3 S(3)</td><td>1 J(1)</td><td>8</td><td></td><td>9 J2(1)</td><td>24</td><td>1 11(1)</td><td></td><td>8 1(8)</td><td>9 12(1)</td><td>..·…·</td><td>64 18(8)</td></tr><tr><td></td><td></td><td>1-1</td><td></td><td></td><td>1(8)</td><td></td><td></td><td>J3(8) J-P</td><td></td><td></td><td></td><td>P-L</td><td>..</td><td></td></tr><tr><td colspan=\"3\">1 2 3</td><td colspan=\"3\">4 ....</td><td colspan=\"4\">1 2 3</td><td colspan=\"3\">6 1</td><td colspan=\"2\">3 4</td></tr><tr><td>1(1)</td><td>1(2)</td><td>1(3)(1)</td><td></td><td>....</td><td>24 18(3)</td><td></td><td>(1)(2)J(1)</td><td></td><td>.. ..</td><td></td><td></td><td>2</td><td></td><td>J(2)P(1)P(2)P(1)P(2)</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(c）染色体组3 (c) Chromosome 3 固） /1./. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e47996e9489c69ebc0336d98c737bc9899c9840b966d192ba3367f6ba02dd4d.jpg",
+        "table_caption": [
+            "Fig.2Chromosomes表2遗传算法参数",
+            "Table 2 Parameter ofGA "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>种群数量</td><td>交叉率</td><td>变异率</td><td>迭代周期</td></tr><tr><td>数值</td><td>20</td><td>0.8</td><td>0.25</td><td>100</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "b)适应度评估与选择。染色体的适应度反映了被选择概率。在满足式（6）\\~（8）（10）（12\\~24）（28\\~33）情况下，利用目标函数（1）～（5）计算各个个体的适应度值，适应度值可直观反映个体的优劣。选择操作避免遗漏，提高全局收敛性，采用轮盘赌策略进行选择。通过评估适应度值，选出适应度大的个体作为父代，提高全局收敛性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "c）交叉与变异。交叉使子代同时继承父母的基因，保持更高的适应性。变异使某个基因以一定概率随机发生突变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "交叉和变异不仅产生新个体，而且提高种群局部搜索能力。d）终止条件。若达到预先设定的最大进化代数，终止算法，否则转向步骤b)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 算例",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.1数据来源",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以上海市某果蔬农产品企业新鲜直送水果业务为例，假设配送车辆运输水果产品单周期长度为一周，多周期中一周分为三个周期（精确的周期长度划分以产品易腐程度、市场环境以及企业运营的实际变化为准)。通过对企业调研，三个候选的中转中心坐标分别为（5.4，5.0）、（5.6，3.8）、（7.6，3.7)；两个候选的加工厂坐标为（1.6，3.9）、（1.2，5.1)；2个候选的垃圾处理厂坐标为（2.8，7.1）、（1.5，7.9)；一个选择的水果供应商坐标为（2.8，4.4)；八个选择的消费者水果购买/退货点坐标及各周期的需求与退货预测值如表3所示，其他参数数值见表4。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3消费者自提点坐标、各周期需求量及退货量",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a24f40ef91d939a0adf1d48ae466cf2c7c6c042f843fb2d9b0bdbe51bbe69d85.jpg",
+        "table_caption": [
+            "Table 3Pick-up point coordinates,demanded and returned quantity received at pick-up point in each period ",
+            "表4其他参数相关数据"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>(X，Y)</td><td>d</td><td>d²</td><td>d</td><td>r</td><td></td><td>r</td></tr><tr><td>1</td><td>(13.6， 10.1)</td><td>5.3</td><td>5.7</td><td>5.0</td><td>0.9</td><td>0.9</td><td>0.8</td></tr><tr><td>1</td><td>(2.7， 12.0)</td><td>5.6</td><td>5.3</td><td>5.9</td><td>0.8</td><td>0.7</td><td>0.8</td></tr><tr><td>1</td><td>(10.1，3.2)</td><td>7.4</td><td>7.8</td><td>7.3</td><td>1.2</td><td>1.2</td><td>1.1</td></tr><tr><td>14</td><td>(7.5，2.2)</td><td>6.0</td><td>6.2</td><td>6.2</td><td>1.0</td><td>1.0</td><td>1.0</td></tr><tr><td>1</td><td>(5.7， 6.9)</td><td>5.8</td><td>5.0</td><td>5.2</td><td>1.0</td><td>0.8</td><td>0.9</td></tr><tr><td>16</td><td>(10.4，7.3)</td><td>6.9</td><td>6.5</td><td>6.5</td><td>1.2</td><td>1.1</td><td>1.1</td></tr><tr><td>1</td><td>(10.2，1.4)</td><td>7.8</td><td>7.3</td><td>7.7</td><td>1.2</td><td>1.1</td><td>1.3</td></tr><tr><td>I</td><td>(8.1，4.9)</td><td>5.7</td><td>5.7</td><td>5.8</td><td>1.0</td><td>0.9</td><td>0.9</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/96e6d448497efc843ba4ba755e494e51dc7d3c700ea765fc8eec88cc14b312ca.jpg",
+        "table_caption": [
+            "Table 4Relevant parameter data "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>取值</td><td>参数 取值</td><td>参数</td><td>取值</td></tr><tr><td>F</td><td>6000元</td><td>cai</td><td>10t Vmax</td><td>3辆</td></tr><tr><td>F</td><td>30000元</td><td>caj</td><td>100t uih</td><td>20元·t-1</td></tr><tr><td>ma</td><td>1.5元t-1</td><td>cap</td><td>18t utij</td><td>60元·km-1</td></tr><tr><td>ma'j</td><td>4元·t-</td><td>ca</td><td>10t utsj</td><td>3元（km·t-1)</td></tr><tr><td>op!</td><td>10元·t-1</td><td>K</td><td>100t utj = utii</td><td>80元·km-1</td></tr><tr><td>op</td><td>50元t-1</td><td>α</td><td>70% ut jp =utpl</td><td>4元（km·t-1）</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为考虑水果需求量与退货量不同鲁棒水平下对最优策略的影响，分别对 $\\Gamma _ { i t } ^ { \\mathrm { d } }$ 与I\"赋值0、3、6。在此基础上，将两类不确定预算交叉产生的九种情况带入模型中，其中case1 $( \\Gamma _ { i t } ^ { d } = 0 , \\ \\Gamma _ { i t } ^ { r } = 0 )$ 为确定情况，case9 $\\left( \\Gamma _ { i t } ^ { d } = 6 , \\Gamma _ { i t } ^ { r } = 6 \\right)$ 为最保守情况。假设需求与退货的最大偏离值为常规值的 $1 5 \\%$ ，即$\\mathrm { d } _ { i } ^ { t } = 1 5 \\% \\times \\mathrm { d } _ { i } ^ { t }$ 、 $\\mathbf { r } _ { i } ^ { t } = 1 5 \\% \\times \\mathbf { r } _ { i } ^ { t }$ ，那么自提点需求/退货量越大，偏离值也越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5.2运算结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过软件MATLAB2016a对遗传算法进行编码，迭代运算出的目标函数值结果与设施选址方案如表5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从鲁棒性角度分析可得：a）观测九种情况的纵向比较，随着不确定预算 $\\Gamma _ { i t } ^ { d }$ 与 $\\Gamma _ { i t } ^ { \\mathrm { r } }$ 的增加，每个周期的需求与退货扰动量均呈上升趋势，系统总成本随之递增。上述结果表明，当考虑的不确定量越多时，为确保闭环物流网络系统具有更好的鲁棒性，整个系统会增加设施点的开放，同时系统总成本上升；b）图3中，在不考虑周期因素下（单周期与多周期的各个阶段变动趋势相近)，退货量仅为需求量的 $1 5 \\% { \\sim } 2 0 \\%$ ，因此相同的不确定预算变化下，需求扰动量变化更大，使得其鲁棒性影响更大，成本的上升趋势更显著，如case3-4、case6-7变动情况所示；c）即使在需求量、退货量和周期都发生变化的时候，鲁棒优化后的解依然可以有效地应用于易腐品闭环物流网络，表明了鲁棒优化模型的可行性与有效性。综上，鲁棒优化模型考虑了参数不确定性下的闭环物流网络的运作，同时模型鲁棒性与系统总成本之间存在权衡关系：模型鲁棒性越强，系统总成本越大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5不同鲁棒水平的各周期GA适应度及选址情况",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc739de548cf83fbaa10fef856eb3f5dfd8bf4b5f9b63213db11bbb13f4daf74.jpg",
+        "table_caption": [
+            "Table 5GA fitness and location in each period under different robust levels "
+        ],
+        "table_footnote": [
+            "注：gap=(单周期成本-多周期成本和)/多周期成本和。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"7\">多周期</td><td rowspan=\"2\">单周期</td><td rowspan=\"2\"></td><td rowspan=\"2\">gap</td></tr><tr><td>第一周期</td><td></td><td>第二周期</td><td></td><td></td><td>第三周期</td><td>多周期</td></tr><tr><td></td><td>成本</td><td>选址</td><td>成本</td><td>选址</td><td>成本</td><td>选址</td><td>成本和</td><td>成本</td><td>选址</td><td></td></tr><tr><td>casel(T =0，Γn =0)</td><td>87938</td><td>j，P2,h</td><td>10063</td><td>j，P2,h</td><td>8295</td><td>j，P2,h</td><td>106296.09</td><td>130938</td><td>j,j，Ph</td><td>0.23</td></tr><tr><td>case2(T =0, I =3)</td><td>88486</td><td>j，P，h</td><td>10613</td><td>j，P2,h</td><td>8846</td><td>j,P,h</td><td>107944.81</td><td>131625</td><td>j,j，P,4</td><td>0.22</td></tr><tr><td>case3(Γd=0，I =6)</td><td>89335</td><td>j，P,h</td><td>11463</td><td>j,P2,h</td><td>9696</td><td>PP,P,j,P,h</td><td>110493.53</td><td>132613</td><td></td><td>0.20</td></tr><tr><td>case4(Td=3，I =0)</td><td>91420</td><td>j,P,h</td><td>13567</td><td>j,P2,h</td><td>11800</td><td>j,Ph</td><td>116787.05</td><td>135312</td><td>j,J,P,P,h</td><td>0.16</td></tr><tr><td>case5(T =3, Γ\" =3)</td><td>91969</td><td>j,P,h</td><td>14117</td><td>j,P，h</td><td>12350</td><td>j,p，h</td><td>118435.77</td><td>135999</td><td>j,j,P,Ph</td><td>0.15</td></tr><tr><td>case6(Tg=3,I =6)</td><td>92317</td><td>j,P1，h</td><td>14467</td><td>j，P,h</td><td>12700</td><td>ji,P,h</td><td>119484.49</td><td>136486</td><td>j,J,PP,h</td><td>0.14</td></tr><tr><td>case7(T =6, Γ =0)</td><td>93403</td><td>j3，P1h</td><td>15571</td><td>j3，P,h</td><td>13804</td><td>J，P1，</td><td>122778.01</td><td>138186</td><td>j,j,P,P,</td><td>0.13</td></tr><tr><td>case8(Td =6,I =3)</td><td>93751</td><td>J，P</td><td>15922</td><td>j，P，h</td><td>14154</td><td>J，P1，h</td><td>123826.73</td><td>138673</td><td>j,j,PP</td><td>0.12</td></tr><tr><td>case9(Id =6,I =6)</td><td>94199</td><td>j3，P，h</td><td>16372</td><td>j3，P1,h</td><td>14604</td><td>j，Ph</td><td>125175.45</td><td>139260</td><td>j,j,P,Pl</td><td>0.11</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fe6b3e0e2d7fa01b5a648476213e2906964ffd3c45c89538189932060e4781e.jpg",
+        "img_caption": [
+            "图3不同鲁棒水平的总成本变化情况"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从多周期角度分析可得：a）横向观测各个情况不同周期不同阶段的系统总成本与选址情况，GA迭代结果表明，多周期总成本更低，设施选址动态变化，更加符合实际情况，但由于考虑的周期长度较小，设施的固定建设成本占系统总成本比重大，所以单周期与多周期总和差值较大，差值比在0.11\\~0.23之间；b）随着不确定预算 $\\Gamma _ { i t } ^ { d }$ 与I的增大，系统总成本增加，固定建设成本比重减少，单周期与多周期总和偏差值递减；c）此外，如图4\\~7所示，在最保守的情况下(case9)，单周期的设施数量以及配送车辆高于多周期各个阶段，同时，多周期的三个阶段设施节点选址虽然一致，但配送车辆运输路线根据消费者实际需求变动而作出相应调节，更加符合实际情况，由此说明多周期下闭环物流网络的设施选址及路径更加具有灵活性，并且系统总成本更低。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a64dfe188852dc66f65900dd1869b4ba06960c396c4614f4fa1f951b70046395.jpg",
+        "img_caption": [
+            "Fig.3Total cost variation at different robust levels "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ca487217336b8ef5103d2a3c27e876ebb733d0ebbe323ba565ad6bdcdf2745bc.jpg",
+        "img_caption": [
+            "图5第一周期路径图(case 9)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b99055aabec53ebd73a037207bbeee1df441e7cb0cac1a37767645d5e777444d.jpg",
+        "img_caption": [
+            "Fig.5The first period path diagram (case 9) ",
+            "图6第二周期路径图(case9)"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/387f3a56c555fed32499658f72c4eaabde462bef7f7480ed81bf06eb20bfdd37.jpg",
+        "img_caption": [
+            "图4单周期路径图(case9) Fig.4Single period path diagram (case 9) ",
+            "Fig.6The second period path diagram (case 9) ",
+            "图7第三周期路径图(case 9) Fig.7The third period path diagram (case 9) "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文将易腐品设为研究对象，以最低系统总成本、最佳设施选址以及最优运输路径为出发点，建立了多周期闭环物流网络鲁棒优化模型，并利用遗传算法求解模型。结果分析表明，鲁棒优化模型能够有效地控制易腐品闭环物流网络的需求与退货不确定性，同时多周期系统的设计更具灵活性、降成本的优点。在此基础上，增加回收工序、假设、约束等条件，定制出的模型也可适用于玻璃容器、包装纸盒、服饰等其他可循环产品的多周期闭环物流网络鲁棒设计及路径优化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在以往研究基础上考虑了易腐品闭环物流网络的多周期及不确定因素，使得本文模型更具有现实指导意义。然而，本文在模型设计时提出了多条假设条件，在后续研究中，可适当放松部分假设使得模型更加贴近企业实际；另外，在本文的计算案例里，仅考虑了时长为一周的多周期（多次）配送问题，其中周期期限与次数选取代表性尚有不足，下一步研究有必要扩充其适用性与代表性；最后，解决闭环物流网络不确定问题的方法不止本文提及的鲁棒优化法，如何将其他不确定方法（如模糊约束法、随机规划法、鲁棒优化法等）应用到模型中并分析各自优劣势，还待进一步探讨。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Govindan K,Darbari JD,Agarwal V,et al.Fuzzy multi-objective approach for optimal selection of suppliers and transportation decisions in an eco-efficient closed loop supply chain network [J]. Journal of Cleaner Production,2017,165:1598-1619.   \n[2]Pereira MM,Machado RL,Pires SRI,et al.Forecasting scrap tires returns in closed-loop supply chains in brazil [J].Journal of Cleaner Production,2018,188:741-750.   \n[3]Hamed S,Govindan K.A hybrid particle swarm optimization and genetic algorithm for closed-loop supply chain network design in large scale networks [J].Computers in Human Behavior,2015,39 (14): 3990-4012.   \n[4]Govindan K, Soleimani H.A review of reverse logistics and closed-loop supply chains:a journal of cleaner production focus [J].Journal of Cleaner Production,2016,142(1):371-384.   \n[5]Amin S H, Zhang Guoqing.A multi-objective facility location model for closed-loop supply chain network under uncertain demand and return [J].Applied Mathematical Modelling,2013,37 (6): 4165-4176.   \n[6]Zhalechian M,Tavakkoli-Moghaddam R,Zahiri B,et al.Sustainable design of a closed-loop location-routing-inventory supply chain network under mixed uncertainty [J].Transportation Research Part E: Logistics & Transportation Review,2016,89 (5): 182-214.   \n[7]Li Yanhui,Guo Hao,Zhang Ying.An integrated location-inventory problem in a closed-loop supply chain with third-party logistics [J]. International Journal of Production Research，2017, 56(10): 3462-3481.   \n[8]Fang Xuanjing,Du Yanan, Qiu Yuzhuo.Reducing carbon emissions in a closed-loop production routing problem with simultaneous pickups and deliveries under carbon cap-and-trade [J]. Sustainability,2O17,9 (12): 2198.   \n[9]Pereira MM,Machado RL,Pires SRI,et al.Forecasting scrap tires returns in closed-loop supply chains in brazil [J].Journal of Cleaner Production,2018,188:741-750.   \n[10] Amin S H, Zhang Guoqing,Akhtar P.Effects of uncertainty on a tire 2017,73: 82-91.   \n[11] Sahebjamnia N,Fard A MF,Hajiaghaei-Keshteli M. Sustainable tire closed-loop supply chain network design: hybrid metaheuristic algorithms for large-scale networks [J].Journal of Cleaner Production, 2018,196:273-296.   \n[12]李伯棠，赵刚，葛颖恩．基于遗传算法的闭环物流网络随机规划模 型[J].计算机集成制造系统，2017,23(9):2003-2011.(Li Botang, Zhao Gang, Ge Yingen. Stochastic programming model of closed loop logistics network based on genetic algorithm [J].Computer Integrated Manufacturing Systems,2017,23 (9): 2003-2011.）   \n[13] Baptista S,Gomes MI, Escudero L,et al.A fix-and-relax algorithm for solving paralel and sequential versions of a multi-eriod multi-product closed loop supply chain design and operation planning model [M]// Operations Research and Big Data.[S.l.]:Springer International Publishing, 2015: 9-14.   \n[14] Torkaman S,Ghomi S M T F,Karimi B.Multi-stage multi-product multi-period production planning with sequence-dependent setups in closed-loop supply chain [J]. Computers & Industrial Engineering,2017, 113: 602-613.   \n[15] Hamed S,Mirmehdi S,Mohsen A S,et al. Designing and planning a multi-echelon multi-period multi-product closed-loop supply chain utilizinggenetic algorithm [J].International Journal of Advanced Manufacturing Technology,2013,68 (1-4): 917-931.   \n[16]李进，朱道立．模糊环境下低碳闭环供应链网络设计多目标规划模 型与算法[J]．计算机集成制造系统,2018,24(2):494-504.(Li Jin, Zhu Daoli. Multi-objective programming model and algorithm for low-carbon closed-loop supply chain network design under fuzzy environment [J]. Computer Integrated Manufacturing Systems,2018,24 (2): 494-504.)   \n[17] Farrokh M,Azar A,Jandaghi G,et al.A novel robust fuzzy stochastic programming for closed loop supply chain network design under hybrid uncertainty [J].Fuzzy Sets & Systems,2017,341: 69-91.   \n[18] Bertsimas D, Sim M.Robust discrete optimization and network flows [J]. Mathematical Programming Series B,2003,98 (3): 49-71.   \n[19]李伯棠，赵刚．碳税影响下再制造物流网络鲁棒优化模型[J].计算 机应用研究,2017,34(9):2670-2674.(Li Botang,Zhao Gang.Model of low carbon remanufacturing logistics network based on robust optimization [J].Application Research of Computers，2017,34 (9): 2670-2674.)   \n[20] Goyal S K,Giri B C.Recent trends in modeling of deteriorating inventory [J].European Journal of Operational Research,2Oo1,134(1): 1-16.   \n[21] Rezaei-Malek M,Tavakkoli-Moghaddam R,Zahiri B，et al．An interactive approach for designing a robust disaster relief logistics network with perishable commodities[J].Computers & Industrial Engineering,2016,94 (4): 201-215.   \n[22] Mercier S,Uysal I. Neural network models for predicting perishable food temperatures along the supply chain [J]. Biosystems Engineering, 2018,171: 91-100.   \n[23] Dai Zhuo, Aqlan F, Zheng Xiaoting,et al.A location-inventory supply chain network model using two heuristic algorithms for perishable productswith fuzzy constraints[J]．Computers&Industrial Engineering,2018,119: 338-352.   \n[24] LiRuihai,Teng Jinn-Tsair. Pricing and lot-sizing decisions for nerishahle gonds when demand denends on selling nrice. reference price,product freshness,and displayed stocks [J].European Journal of Operational Research,2018,270(3):1099-1108.   \n[25]Lin Xiao,Negenborn RR,Lodewijks G. Towards quality-aware control of perishable goods in synchromodal transport networks [J].IFAC PapersOnLine,2016,49(16):132-137.   \n[26] Zahiri B,JulaP,Tavakkoli-MoghaddamR.Design of a pharmaceutical supply chain network under uncertainty considering perishability and substitutability of products [J]. Information Sciences,2O17,423: 257-283.   \n[27] Keizer MD,Akkerman R,Grunow M,et al.Logistics network design for perishable products with heterogeneous quality decay [J].European Journal of Operational Research,2017,262 (2): 535-283.   \n[28]Hu Weihong,Toriello A,Dessouky M.Integrated inventory routing and freight consolidation for perishable goods [J].European Journal of Operational Research,2018,271 (2): 548-560.   \n[29] Kara A,Dogan I.Reinforcement learning approaches for specifying ordering policies of perishable inventory systems [J].Expert Systems with Applications,2018,91:150-158.   \n[30] Guo Jianquan,Wang Xinyue,Fan Siyuan,et al.Forward and reverse logistics network and route planning under the environment of low-carbon emissions [J]. Computers $\\&$ Industrial Engineering,2017, 106 (4): 351-360.   \n[31] Guo Jianquan,Liu Xinxin,Jo Jungbok.Dynamic joint construction and optimal operation strategy of multi-period reverse logistics network:a case study of Shanghai apparel E-commerce enterprises [J].Journal of Intelligent Manufacturing,2017,28 (3): 819-831.   \n[32] Lin Chuncheng,Chin Huihsin,Chen Weibo.Balancing latency and cost in software-defined vehicular networks using genetic algorithm [J]. Journal of Network and Computer Applications,2018,116 (15): 35-41.   \n[33]郭健全，王心月．碳交易下生鲜电商跨区域闭环物流网络及路径 [J]．计算机集成制造系统，2017,23(4):874-882.(Guo Jianquan, WangXinyue.Network and routeplanning of cross-regional closed-loop logistics for fresh food E-commerce under environment of carbon trading [J]. Computer Integrated Manufacturing Systems,2017, 23 (4): 874-882.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

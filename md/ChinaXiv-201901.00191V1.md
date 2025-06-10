@@ -1,0 +1,445 @@
+# 改进加权支持度的Pythagorean模糊交叉幂均群决策方法
+
+杨扬，彭定洪
+
+(昆明理工大学 质量发展研究院，昆明 650093)
+
+摘要：针对毕达哥拉斯环境下的多属性群决策问题，首先，将毕达哥拉斯模糊数和幂均算子相结合，创造性地拓展了一种新的改进的加权支持度；然后，基于此提出了改进加权支持度的毕达哥拉斯模糊交叉幂均算子，并讨论了该算子的性质，进而建立一种毕达哥拉斯模糊背景下能够反映决策属性间相互作用的决策方法；最后，将其应用于智慧城市的评价中。实例分析表明，运用该方法可以解决实际的多属性群决策问题，并可以进一步应用到智慧物流、模式识别、人工智能等领域。
+
+关键词：毕达哥拉斯模糊数；幂均算子；加权支持度；多属性群决策中图分类号：C934 doi:10.19734/j.issn.1001-3695.2018.09.0737
+
+# Pythagorean fuzzy interaction average operator group decision making method with improved weighted support
+
+Yang Yang, Peng Dinghong† (Institute of Quality Development,Kunming UniversityofScience &Technology,Kunming 65oo93,China)
+
+Abstract: Forthemulti-atribute groupdecision-making problem inPythagorasenvironment,firstly,thePythagorean fuzzy number and the power-average operator arecombined to creatively expand a new improved weighted support,then based on this,a Pythagorean fuzzy interaction power-average operator with improved weighted support is proposed,and the properties of the operatorare discussed.Thenadecision-making method thatcan reflect the interaction between decision atributesunderPythagoras fuzzybackground isestablised.Finally,itisappliedtotheevaluationofsmartcities.Thease study shows that the methodcan solve the problem of actual multi-atribute group decision-making and can be further applied to the fields of intelligent logistics,pattern recognition and artificial intelligence.
+
+Key words: Pythagorean fuzzy number; power average operator; weighted support; multi-attribute group decision
+
+# 0 引言
+
+由于客观世界的不确定性，Zadeh[1于1965年提出的模糊集理论现已在决策分析、模式识别、优化控制、人工智能等诸多领域得到了深入的研究和广泛的应用。随着社会的发展以及研究的深入，研究更加高级、更能深刻刻画不确定性本质的模糊集受到众多学者的关注，并成为研究热点，也取得了丰硕的研究成果，诸如在经典模糊集基础上提出的区间模糊集、二型模糊集、区间二型模糊集和模糊多集等。鉴于现实生活中广泛存在的犹豫不确定性，保加利亚学者Atanassov[2]于1986年在模糊集的基础上提出了有隶属度和非隶属度组成的直觉模糊集，用于准确刻画人类思维判断中介于肯定和否定之间的犹豫性，自此国内外学者对直觉模糊集开展了广泛而又深入的探索，取得了大量优秀的成果，直觉模糊集理论日渐完善。
+
+但是，随着社会的进步与发展，现实生活中的决策问题变得越来越复杂，在直觉模糊环境下进行决策时，要求专家给出的评价值的隶属度和非隶属度之和小于1，但现实情况往往并非完全满足，为了突破这以限制条件，Yager等人[3,4]学者对直觉模糊集进行拓展，提出了毕达哥拉斯模糊集，满足隶属度和非隶属度之和大于1，但其平方和不超过1，相比直觉模糊集，毕达哥拉斯模糊集更具灵活性和柔性，能更加细腻、全面地刻画不确定性，成为国有内外模糊集理论研究的热点[5\~15]。在多属性决策问题中，集成算子是众多决策方法的基础，因此在毕达哥拉斯模糊环境下，集成算子的研究也显得尤为重要。Garg[提出了概率毕达哥拉斯模糊加权平均算子和概率毕达哥拉斯模糊几何平均算子，并将其应用于最优产品策略的选择中。基于 TOPSIS 思想，Zhang 等人[6]提出了一种新的毕达哥拉斯模糊环境下的决策模型，且提出了得分函数、运算法则以及距离测度。Peng等人[7提出了毕达哥拉斯模糊数的比较方法，并以毕达哥拉斯模糊集成算子建立了一种新的群决策模型。Wei等人[8]研究了Hamacher集成算子和双重毕达哥拉斯犹豫模糊信息的多属性决策问题，并在Hamacher算子的思想下，提出了基于Hamacher的双重毕达哥拉斯模糊集成算子用于集成双重犹豫的毕达哥拉斯模糊信息，并将其应用于供应商选择实例，以验证其实用性和有效性。可以看出，上述研究无论是集结算子还是决策方法大多均假定变量间或属性间相互独立。然而现实情况往往并非如此，因此，Zeng 等人[9提出毕达哥拉斯模糊有序加权平均加权平均距离算子，该加权平均算子考虑了聚合信息中每个属性的重要程度，然后基于所提出的算子，引入了一种混合TOPSIS方法，称为PFOWAWAD-TOPSIS，用于毕达哥拉斯模糊 MCDM 问题。Zhang 等人[10]考虑到参数间的相互关系，提出了广义毕达哥拉斯模糊Bonferroni平均算子和广义毕达哥拉斯模糊Bonferroni几何平均算子。
+
+经以上文献梳理可知，现有研究尚未能考虑属性或专家间的信息存在相互关联(彼此支持)的情况，而这一点却又在现实生活中极为常见，亟需理论支持。在信息融合和计算可续领域，针对类似的问题Yager 鉴于主观刻画变量间相关性的随意性和主观性缺点，通过单个变量与其余变量间的相似性定义了一种能够客观刻画变量间相关性的支持度概念，并继而提出了一种能够考虑数据信息之间的相互联系的幂均集成算子[I]。至今该项技术受到了众多学者的关注，Liu等人[12]在中智信息背景下提出了一系列包括中智数加权幂平均、中智数加权几何幂平均、广义中智数加权幂平均等集成算子，在对上述算子的性质的推导基础上，用其解决多属性群决策问题。Song等人[13]将区间数与幂均算子相结合，提出了一种新的区间数幂均集成算子，并应用于决策分析中。在犹豫模糊环境下，Liu等人[4基于幂平均算子和广义均值，提出了广义幂犹豫模糊有序加权平均算子用以处理犹豫模糊环境下的多属性决策问题。Gao等人[15]提出了一些新的云算法，例如云可能度和云支持度，它们可以分别用于比较云并确定权重，结合云支持度与幂均集成算子，提出了一个基于云模型的新语言集成算子，称为云广义幂有序加权平均算子。何霞[16等人定义了毕达哥拉斯模糊幂平均算子、毕达哥拉斯模糊幂有序加权平均算子、毕达哥拉斯模糊幂几何算子和毕达哥拉斯模糊幂有序加权几何算子，并分别研究了它们的性质。上述研究充分证实了幂均算子刻画变量相关性的强大功能，但上述的研究也存在着一定的局限性，即反映变量本身的重要性权重在幂均算子中并未体现。为了反映变量本身的重要性，可以引用支持度这一概念，通过数据之间的支撑关系客观地反映每个评价数据的信度大小，但现有的支持度存在着一定的缺陷。此外上述的毕达哥拉斯模糊数运算没有考虑到不同毕达哥拉斯模糊数的隶属度和非隶属度之间也存在着某种关联和相互影响，为此本文考虑采用毕达哥拉斯的交叉运算法则[17]。
+
+基于以上文献分析和总结，本文在幂均算子思想的启发下，以及现有支持度存在缺陷的状态下，提出了一种新的改进加权支持度，并在毕达哥拉斯模糊环境下，考虑毕达哥拉斯模糊数之间的相互联系，提出了改进加权支持度的毕达哥拉斯模糊交叉幂均算子，建立了其决策模型，最后实例分析其算子和模型的有效性和可行性。
+
+# 1 预备知识
+
+本章简要归纳直觉模糊集、毕达哥拉斯模糊集以及幂均算子等基本概念。
+
+定义 $\mathbf { 1 } ^ { [ 2 ] }$ 设 $\boldsymbol { \cal X }$ 为论域， $A = \{ \langle x , \mu _ { A } \left( x \right) , \nu _ { A } \left( x \right) \rangle | x \in X \}$ 称为 $\boldsymbol { \cal X }$ 上的一个直觉模糊集，其中 $\mu _ { A } : X \to [ 0 , 1 ]$ ， $\nu _ { A } : X \to [ 0 , 1 ]$ 为 $X$ 上的模糊集， $\mu _ { A } \left( x \right)$ 和 $\nu _ { \scriptscriptstyle A } ( x )$ 分别表示 $\boldsymbol { \cal X }$ 上元素 $x$ 属于 $A$ 的隶属度和非隶属度，且 $\forall x \in X , \mu _ { A } \left( x \right) , \nu _ { A } \left( x \right) \in \left[ 0 , 1 \right]$ ，有 $\mu _ { \scriptscriptstyle A } \left( x \right) + \nu _ { \scriptscriptstyle A } \left( x \right) \leq 1$
+
+定义 $\pmb { 2 ^ { [ 3 , 4 ] } }$ 设 $\boldsymbol { \cal X }$ 为论域， $A = \{ \langle x , \mu _ { A } \left( x \right) , \nu _ { A } \left( x \right) \rangle | x \in X \}$ 称为 $\boldsymbol { \cal X }$ 上的一个毕达哥拉斯模糊集，其中： $\mu _ { A } : X \to [ 0 , 1 ]$ ， $\nu _ { A } : X \to$ [0,1]为 $\boldsymbol { \cal X }$ 上的模糊集； $\mu _ { A } \left( x \right)$ 和 $\nu _ { \scriptscriptstyle A } ( x )$ 分别表示 $\boldsymbol { \cal X }$ 上元素 $x$ 属于 $A$ 的隶属度和非隶属度，且 $\forall x \in X , \mu _ { A } \left( x \right) , \nu _ { A } \left( x \right) \in \left[ 0 , 1 \right]$ ，有$\mu _ { A } ^ { 2 } \left( x \right) + \nu _ { A } ^ { 2 } \left( x \right) \leq 1$ 。称 $\pi _ { A } \left( X \right) = \sqrt { 1 - \mu _ { A } ^ { 2 } \left( x \right) - \nu _ { A } ^ { 2 } \left( x \right) }$ 为 $x$ 属于 $A$ 的犹豫度。称 $\alpha = \langle \mu _ { \alpha } , \nu _ { \alpha } \rangle$ 为毕达哥拉斯模糊数(PFN)，全体毕达哥拉斯模糊数的集合记为毕达哥拉斯模糊集(PFS)。
+
+考虑到不同 PFN 的隶属度和非隶属度之间也存在着某种关联和相互影响，刘卫峰等人[17定义了PFN的交叉影响加法、数乘、乘法及幂运算，并提出了毕达哥拉斯模糊交叉影响加权平均算子，即
+
+定义 $\pmb { 3 } ^ { [ 1 7 ] }$ 设 $\alpha = \langle \mu _ { \alpha } , \nu _ { \alpha } \rangle$ ， $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle$ $( i = 1 , 2 , . . . , n )$ 为毕达哥拉斯模糊数，则
+
+$$
+\begin{array} { l } { { \alpha _ { 1 } \oplus \alpha _ { 2 } = \Big \langle \sqrt { \mu _ { \alpha _ { 1 } } ^ { 2 } + \mu _ { \alpha _ { 2 } } ^ { 2 } - \mu _ { \alpha _ { 1 } } ^ { 2 } \mu _ { \alpha _ { 2 } } ^ { 2 } } , } } \\ { { \sqrt { \nu _ { \alpha _ { 1 } } ^ { 2 } + \nu _ { \alpha _ { 2 } } ^ { 2 } - \nu _ { \alpha _ { 1 } } ^ { 2 } \nu _ { \alpha _ { 2 } } ^ { 2 } - \nu _ { \alpha _ { 1 } } ^ { 2 } \mu _ { \alpha _ { 2 } } ^ { 2 } - \mu _ { \alpha _ { 1 } } ^ { 2 } \nu _ { \alpha _ { 2 } } ^ { 2 } } \Big \rangle } } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { \alpha _ { 1 } \otimes \alpha _ { 2 } = \left. \sqrt { \mu _ { \alpha _ { 1 } } ^ { 2 } + \mu _ { \alpha _ { 2 } } ^ { 2 } - \mu _ { \alpha _ { 1 } } ^ { 2 } \mu _ { \alpha _ { 2 } } ^ { 2 } - \mu _ { \alpha _ { 1 } } ^ { 2 } \nu _ { \alpha _ { 2 } } ^ { 2 } - \nu _ { \alpha _ { 1 } } ^ { 2 } \mu _ { \alpha _ { 2 } } ^ { 2 } } \right. , } \\ & { \left. \sqrt { \nu _ { \alpha _ { 1 } } ^ { 2 } + \nu _ { \alpha _ { 2 } } ^ { 2 } - \nu _ { \alpha _ { 1 } } ^ { 2 } \nu _ { \alpha _ { 2 } } ^ { 2 } } \right. } \end{array}
+$$
+
+$$
+\begin{array} { r l } & { \lambda \alpha = \biggr \langle \sqrt { 1 - \left( 1 - \mu _ { \alpha } ^ { 2 } \right) ^ { \lambda } } , } \\ & { \sqrt { \left( 1 - \mu _ { \alpha } ^ { 2 } \right) ^ { \lambda } - \left[ 1 - \left( \mu _ { \alpha } ^ { 2 } + \nu _ { \alpha } ^ { 2 } \right) \right] ^ { \lambda } } \biggr \rangle , \lambda > 0 } \\ & { \alpha ^ { \lambda } = \biggr \langle \sqrt { \left( 1 - \nu _ { \alpha } ^ { 2 } \right) ^ { \lambda } - \left[ 1 - \left( \mu _ { \alpha } ^ { 2 } + \nu _ { \alpha } ^ { 2 } \right) \right] ^ { \lambda } } , } \\ & { \sqrt { 1 - \left( 1 - \nu _ { \alpha } ^ { 2 } \right) ^ { \lambda } } \biggr \rangle , \lambda > 0 } \end{array}
+$$
+
+定义 $\pmb { 4 } ^ { [ 1 5 ] }$ 设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊数， $\boldsymbol { \omega } = \left( \omega _ { 1 } , \omega _ { 2 } , . . . \omega _ { n } \right) ^ { T }$ 为权重向量，且满足 $\sum _ { i = 1 } ^ { n } \omega _ { i } = 1$ 、$\omega _ { i } \geq 0 ( i = 1 , 2 , . . . n )$ ，则毕达哥拉斯模糊交叉影响平均(Pythagorean fuzzy interaction weighted averaging，PFIWA）算子 $( P F I W A : P F N ^ { n }  P F N )$ 定义如下：
+
+$$
+\begin{array} { l } { \displaystyle P F I W A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \bigoplus _ { i = 1 } ^ { n } \omega _ { i } \alpha _ { i } } \\ { \displaystyle = \left. \sqrt { 1 - \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \omega _ { i } } } \ , \ \right. } \\ { \displaystyle \left. \sqrt { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \omega _ { i } } - \prod _ { i = 1 } ^ { n } \left[ 1 - \left( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \right) \right] ^ { \omega _ { i } } } \ \right. } \end{array}
+$$
+
+为了有效比较两个PFN 大小，文献[7]给出毕达哥拉斯模糊数的得分函数和精确函数。
+
+定义 $\pmb { 5 } ^ { [ 7 ] }$ 设 $\alpha = \langle \mu _ { \alpha } , \nu _ { \alpha } \rangle$ 为毕达哥拉斯模糊数，其得分函数为 $S \left( \alpha \right) = \mu _ { \alpha } ^ { 2 } - \nu _ { \alpha } ^ { 2 }$ ，且 $S \left( \alpha \right) \in \left[ - 1 , 1 \right]$ 0
+
+定义 ${ \bf 6 } ^ { [ 8 ] }$ 设 $\alpha = \langle \mu _ { \alpha } , \nu _ { \alpha } \rangle$ 为毕达哥拉斯模糊数，其精确函数为 $h ( \alpha ) = \mu _ { \alpha } ^ { 2 } + \nu _ { \alpha } ^ { 2 }$ ，且 $h ( \alpha ) \in [ - 1 , 1 ]$ 。
+
+基于得分函数和精确函数，可以比较多个PHN。
+
+定义 $7 ^ { [ 8 ] }$ 设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 )$ 为毕达哥拉斯模糊数则:
+
+a）若 $S \left( \alpha _ { 1 } \right) > S \left( \alpha _ { 2 } \right)$ ，则 $\alpha _ { 1 } > \alpha _ { 2 }$ ; b）若 $S \left( \alpha _ { 1 } \right) = S \left( \alpha _ { 2 } \right)$ ， $\textcircled{1}$ 若 $h ( \alpha _ { 1 } ) > h ( \alpha _ { 2 } )$ ，则 $\alpha _ { 1 } > \alpha _ { 2 }$ ； $\textcircled{2}$ 若 $h ( \alpha _ { 1 } ) = h ( \alpha _ { 2 } )$ ，则 $\alpha _ { 1 } \sim \alpha _ { 2 }$ 。
+
+定义 $\mathbf { 8 } ^ { [ 7 ] }$ 设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 )$ 为毕达哥拉斯模糊数，则$\alpha _ { \mathrm { _ 1 } }$ 与 $\alpha _ { 2 }$ 之间的距离定义如下：
+
+$$
+\begin{array} { l } { { d \left( \alpha _ { \scriptscriptstyle 1 } , \alpha _ { \scriptscriptstyle 2 } \right) = } } \\ { { \displaystyle \frac { 1 } { 2 } \bigl ( \bigl \vert ( \mu _ { \alpha _ { \scriptscriptstyle 1 } } ) ^ { 2 } - \bigl ( \mu _ { \alpha _ { \scriptscriptstyle 2 } } \bigr ) ^ { 2 } \bigr \vert + \bigl \vert ( \nu _ { \alpha _ { \scriptscriptstyle 1 } } ) ^ { 2 } - \bigl ( \nu _ { \alpha _ { \scriptscriptstyle 2 } } \bigr ) ^ { 2 } \bigr \vert + \bigl \vert ( \pi _ { \alpha _ { \scriptscriptstyle 1 } } \bigr ) ^ { 2 } - \bigl ( \pi _ { \alpha _ { \scriptscriptstyle 2 } } \bigr ) ^ { 2 } \bigr \vert \bigr ) } } \end{array}
+$$
+
+为能客观有效地刻画多变量间的相关性，基于变量间的相似性，Yager[9提出了一种通过一个支持度的概念的幂均（poweraverage，PA）集结算子。
+
+定义 $\mathbf { 9 } ^ { [ 9 ] }$ 幂均算子为映射 $P A : R ^ { n }  R$ ，其满足
+
+$$
+P A { \left( a _ { 1 } , a _ { 2 } , . . . a _ { n } \right) } = \sum _ { i = 1 } ^ { n } { \frac { { \left( 1 + T { \left( a _ { i } \right) } \right) } a _ { i } } { \displaystyle \sum _ { j = 1 } ^ { n } { \left( 1 + T { \left( a _ { j } \right) } \right) } } }
+$$
+
+其中： $T \left( a _ { i } \right) = \sum _ { j = 1 , j \neq i } ^ { n } S u p \left( a _ { i } , a _ { j } \right)$ ； $S u p \big ( a _ { i } , a _ { j } \big )$ 为 $a _ { i }$ 与 $a _ { j }$ 的支持度，且满足如下性质：
+
+a） $S u p \big ( a _ { i } , a _ { j } \big ) \in [ 0 , 1 ]$ ·b） $S u p \left( { a _ { i } , a _ { j } } \right) = S u p \left( { a _ { j } , a _ { i } } \right)$ ·c）若 $\left| a _ { i } - a _ { j } \right| \leq \left| a _ { p } - a _ { q } \right|$ ，则 $S u p \big ( a _ { i } , a _ { j } \big ) \geq S u p \big ( a _ { p } , a _ { q } \big )$ 。若记1+T(a)=V(a)且∑(1+T(a)) $1 + T { \bigl ( } a _ { i } { \bigr ) } = V { \bigl ( } a _ { i } { \bigr ) }$ $\frac { \displaystyle \left( 1 + T \left( a _ { i } \right) \right) } { \displaystyle \sum _ { j = 1 } ^ { n } \left( 1 + T \left( a _ { j } \right) \right) } = \overline { { V } } \left( a _ { i } \right) = \overline { { V _ { i } } }$ ，则 $\overline { { V _ { i } } }$ 满足（204 $0 \leq \overline { { V _ { i } } } \leq 1$ 且 $\textstyle \sum _ { i = 1 } ^ { n } { \overline { { V _ { i } } } } = 1$ ，以及式(6)可化简为 $P A \left( { { a _ { 1 } } , { a _ { 2 } } , . . . { a _ { n } } } \right) = \sum _ { i = 1 } ^ { n } { { { \bar { V _ { i } } } { a _ { i } } } }$ 。
+
+# 2 一种改进的加权支持度
+
+基于支持度的客观赋权方法考虑了变量（属性）间的相关性，然而变量（属性）自身的重要性也不能忽略，Yager针对这一问题给出了相对支持度的加权形式[9]：
+
+$$
+\displaystyle \overline { { V } } _ { i } ^ { W } = \frac { \omega _ { i } \left( 1 + \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } S u p \left( a _ { i } , a _ { j } \right) \right) } { \sum _ { i = 1 } ^ { n } \omega _ { i } \left( 1 + \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } S u p \left( a _ { i } , a _ { j } \right) \right) }
+$$
+
+式（8）似乎可以直接应用于本研究，但仔细观察发现该种加权形式存在着一定的缺陷，下面通过三种特例对其进行说明：
+
+a）当所有的 $S u p \big ( a _ { i } , a _ { j } \big ) = c \big ( 0 \leq c \leq 1 \big )$ 时，有
+
+$$
+\begin{array} { l } { \displaystyle \bar { V } _ { i } ^ { w } = \frac { \omega _ { i } \left( 1 + c \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } \right) } { \sum _ { i = 1 } ^ { n } \omega _ { i } \left( 1 + c \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } \right) } } \\ { = \frac { \omega _ { i } \left( 1 + c \left( 1 - \omega _ { i } \right) \right) } { \sum _ { i = 1 } ^ { n } \omega _ { i } \left( 1 + c \left( 1 - \omega _ { i } \right) \right) } } \\ { = \frac { \omega _ { i } \left( 1 + c - \omega _ { i } \right) } { \sum _ { i = 1 } ^ { n } \omega _ { i } \left( 1 + c - \omega _ { i } \right) } } \end{array}
+$$
+
+该结果表明，当Yager加权支持度中 $S u p \left( a _ { i } , a _ { j } \right) = c \left( 0 \leq c \leq 1 \right)$ 时，其相互支持（关系)均相同，或者没有考虑相关性差异，并且其权重起到了双重作用，这似乎有悖于原始的重要性权重系数。
+
+b）当 $\omega _ { i } = \frac { 1 } { n }$ 时，有
+
+$$
+\begin{array} { l } { \displaystyle \bar { V } _ { i } ^ { W } = \frac { \displaystyle \frac { 1 } { n } \biggl ( 1 + \sum _ { j = 1 , j \neq i } ^ { n } { \frac { 1 } { n } S u p \left( { a _ { i } , a _ { j } } \right) } \biggr ) } { \displaystyle \sum _ { i = 1 } ^ { n } \frac { 1 } { n } \biggl ( 1 + \sum _ { j = 1 , j \neq i } ^ { n } { \frac { 1 } { n } S u p \left( { a _ { i } , a _ { j } } \right) } \biggr ) } } \\ { \displaystyle = \frac { \biggl ( 1 + \frac { 1 } { n } \sum _ { j = 1 , j \neq i } ^ { n } { S u p \left( { a _ { i } , a _ { j } } \right) } \biggr ) } { \displaystyle \sum _ { i = 1 } ^ { n } \biggl ( 1 + \frac { 1 } { n } \sum _ { j = 1 , j \neq i } ^ { n } { S u p \left( { a _ { i } , a _ { j } } \right) } \biggr ) } } \end{array}
+$$
+
+这一结果表明，当 $\omega _ { i } = \frac { 1 } { n }$ 时，可视做每个分量权重相同，或者不考虑其权重存在的差异，但这一表达式似乎与原始的支持度不一致。
+
+c)原始的 $V \left( a _ { i } \right) = 1 + T \left( a _ { i } \right) = 1 + \sum _ { j = 1 , j \ne i } ^ { n } S u p \left( a _ { i } , a _ { j } \right)$ 看似复杂，实际上正如 $S u p ( a _ { i } , a _ { j } )$ 定义所致，其本质是一个相似性指标，若Sup(ai,aj)=1 ，那 么 V(ai)=1+T(ai)=1+ $V \left( a _ { i } \right) = 1 + T \left( a _ { i } \right) = 1 + \qquad \sum _ { j = 1 , j \ne i } ^ { n } S u p \left( a _ { i } , a _ { j } \right) \triangleq$ $\sum _ { j = 1 } ^ { n } S u p { \bigl ( } a _ { i } , a _ { j } { \bigr ) }$ ，而相对支持度则为
+
+$$
+V \left( a _ { i } \right) = \frac { \displaystyle \sum _ { j = 1 } ^ { n } S u p \left( a _ { i } , a _ { j } \right) } { \displaystyle \sum _ { i = 1 } ^ { n } \sum _ { j = 1 } ^ { n } S u p \left( a _ { i } , a _ { j } \right) } \textbf { o }
+$$
+
+根据上述三点分析，本文提出一种自然且合理的改进的加权支持度为
+
+$$
+\overbar { V } _ { i } ^ { w } = \frac { \omega _ { i } + \displaystyle \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } S u p \left( a _ { i } , a _ { j } \right) } { \displaystyle \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } S u p \left( a _ { i } , a _ { j } \right) \right) }
+$$
+
+考虑上述三种特殊情况，换言之，对比Yager提出的加权支持度，本文提出的改进的加权支持度，当$S u p \big ( a _ { i } , a _ { j } \big ) = c \big ( 0 \leq c \leq 1 \big )$ 或 $\omega _ { i } = 1 / n$ 时，这一表达式与原始的支持度相比更加一致和合理。下面依据本研究改进后的加权支持度，并结合交叉运算法则，给出了改进的加权支持度毕达哥拉斯模糊交叉幂均算子的定义和性质。
+
+# 3 基于改进加权支持度的毕达哥拉斯模糊交叉幂均算子
+
+定义10设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊数， $\boldsymbol { \omega } = \left( \omega _ { 1 } , \omega _ { 2 } , . . . \omega _ { n } \right) ^ { T }$ 为权重向量，且满足 $\sum _ { i = 1 } ^ { n } \omega _ { i } = 1$ 、$\omega _ { i } \geq 0 ( i = 1 , 2 , . . . n )$ 。则改进加权支持度的毕达哥拉斯模糊交叉幂均算子 $( W - P F I P A : P F N ^ { n }  P F N )$ 定义如下：
+
+$$
+W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \bigoplus _ { i = 1 } ^ { n } V _ { i } \alpha _ { i }
+$$
+
+$$
+= \bigoplus _ { i = 1 } ^ { n } { \frac { \omega _ { i } + \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } S u p { \big ( } \alpha _ { i } , \alpha _ { j } { \big ) } } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } S u p { \big ( } \alpha _ { i } , \alpha _ { j } { \big ) } \right) } } \alpha _ { i }
+$$
+
+其中：为 $\alpha _ { i }$ 与 $\alpha _ { j }$ 的支持度，且满足如下性质：
+
+a) $S u p ( \alpha _ { i } , \alpha _ { j } ) \in [ 0 , 1 ]$ · b) $S u p ( \alpha _ { i } , \alpha _ { j } ) = S u p ( \alpha _ { j } , \alpha _ { i } )$ ·， c)若 $d \left( \alpha _ { i } , \alpha _ { j } \right) \leq d \left( \alpha _ { p } , \alpha _ { q } \right)$ ，则 $S u p \big ( \alpha _ { i } , \alpha _ { j } \big ) \geq S u p \big ( \alpha _ { p } , \alpha _ { q } \big )$ ， $d \big ( \alpha _ { i } , \alpha _ { j } \big )$ 为 $\alpha _ { i }$ 与 $\alpha _ { j }$ 之间的距离。
+
+若另 $T ( \alpha _ { i } ) = \sum _ { j = 1 , j \ne i } ^ { n } \omega _ { j } S u p \left( \alpha _ { i } , \alpha _ { j } \right)$ ，则原式可化简为
+
+$$
+\begin{array} { l } { { \displaystyle W - P F P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \bigoplus _ { i = 1 } ^ { n } V _ { i } \alpha _ { i } } } \\ { { \displaystyle = \bigoplus _ { i = 1 } ^ { n } \frac { \omega _ { i } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } \alpha _ { i } } } \end{array}
+$$
+
+定理1设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊
+
+数，且 $\sum _ { i = 1 } ^ { n } \omega _ { i } = 1 \ , \quad \omega _ { i } \geq 0 ( i = 1 , 2 , . . . n )$ ，则改进加权支持度的毕达哥拉斯模糊交叉幂均算子的运算结果仍然为毕达哥拉斯模糊数，且
+
+$$
+\begin{array} { l } { W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , \ldots , \alpha _ { n } ) = \displaystyle \bigoplus _ { i = 1 } ^ { n } V _ { i } \alpha _ { i } } \\ { =  \sqrt { 1 - \prod _ { i = 1 } ^ { n } ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } ) ^ { \frac { n } { \sum _ { i = 1 } ^ { n } ( \alpha _ { i } + T ( \alpha _ { i } ) ) } } } ,  } \\ { \displaystyle \sqrt { \prod _ { i = 1 } ^ { n } ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } ) ^ { \frac { \alpha _ { i } + T ( \alpha _ { i } ) } { \sum _ { i = 1 } ^ { n } ( \alpha _ { i } + T ( \alpha _ { i } ) ) } } - \prod _ { i = 1 } ^ { n } [ 1 - ( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } ) ] ^ { \frac { \alpha _ { i } + T ( \alpha _ { i } ) } { \sum _ { i = 1 } ^ { n } ( \alpha _ { i } + T ( \alpha _ { i } ) ) } } }  } \end{array}
+$$
+
+证明首先用数学归纳法证明:
+
+$$
+\begin{array} { l } { { \displaystyle \bigoplus _ { i = 1 } ^ { n } ( \omega _ { i } + T ( \alpha _ { i } ) ) \alpha _ { i } } } \\ { { = \left. \sqrt { 1 - \prod _ { i = 1 } ^ { n } \bigl ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \bigr ) ^ { \omega _ { i } + T ( \alpha _ { i } ) } } , \right. } } \\ { { \displaystyle \sqrt { \prod _ { i = 1 } ^ { n } \bigl ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \bigr ) ^ { \omega _ { i } + T ( \alpha _ { i } ) } - \prod _ { i = 1 } ^ { n } \bigl [ 1 - \bigl ( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \bigr ) \bigr ] } } } \end{array}
+$$
+
+（a）当 $n = 1$ 时，上述结果显然成立。(b）当 $n = 2$ 时，
+
+$$
+\begin{array} { r l } & { \displaystyle \mathop { \stackrel { \mathrm { 2 } } { \operatorname { 6 } } } ( \omega _ { i } + T ( \alpha _ { i } ) ) \alpha _ { i } } \\ & { \displaystyle = ( \omega _ { 1 } + T ( \alpha _ { 1 } ) ) \alpha _ { 1 } \oplus ( \omega _ { 2 } + T ( \alpha _ { 2 } ) ) \alpha _ { 2 } } \\ & { \displaystyle = \left. \sqrt { 1 - \prod _ { i = 1 } ^ { 2 } \bigl ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \bigr ) ^ { \omega _ { i } + T ( \alpha _ { i } ) } } \ , \right. } \\ & { \displaystyle \left. \sqrt { \prod _ { i = 1 } ^ { 2 } \bigl ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \bigr ) ^ { \omega _ { i } + T ( \alpha _ { i } ) } } - \prod _ { i = 1 } ^ { 2 } \bigl [ 1 - \bigl ( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \bigr ) \bigr ] \right. } \end{array}
+$$
+
+显然，当 $n = 2$ 时，等式成立。
+
+（c）当 $n = k$ 时，等式成立，则当 $n = k + 1$ 时，有
+
+$$
+\begin{array} { c } { { \displaystyle \displaystyle \ddot { \bigoplus } ( \omega _ { i } + T ( \alpha _ { i } ) ) \alpha _ { i } \oplus \big ( \omega _ { k + 1 } + T \big ( \alpha _ { k + 1 } \big ) \big ) \alpha _ { k + 1 } = } } \\ { { \displaystyle \Biggl \langle \sqrt { 1 - \prod _ { i = 1 } ^ { k } \big ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \big ) ^ { ( \omega _ { i } + T ( \alpha _ { i } ) ) \alpha _ { i } } } , \sqrt { \prod _ { i = 1 } ^ { k } \big ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \big ) ^ { \omega _ { i } + T ( \alpha _ { i } ) } - \prod _ { i = 1 } ^ { k } \big [ 1 - \big ( \mu _ { \alpha _ { i } } ^ { 2 } + V _ { \alpha _ { i } } ^ { 2 } \big ) \big ] } ^ { \omega _ { i } + T ( \alpha _ { i } ) } \Biggr \rangle \oplus } } \\ { { \displaystyle \Biggl \langle \sqrt { 1 - \big ( 1 - \mu _ { \alpha _ { i + 1 } } ^ { 2 } \big ) ^ { ( \omega _ { k + 1 } + T ( \alpha _ { i + 1 } ) ) \alpha _ { i + 1 } } } , \sqrt { \big ( 1 - \mu _ { \alpha _ { i + 1 } } ^ { 2 } \big ) ^ { ( \omega _ { k + 1 } + T ( \alpha _ { i + 1 } ) ) \alpha _ { i + 1 } } } - \big [ 1 - \big ( \mu _ { \alpha _ { i + 1 } } ^ { 2 } + V _ { \alpha _ { k + 1 } } ^ { 2 } \big ) \big ] ^ { ( \omega _ { k + 1 } + T ( \alpha _ { i + 1 } ) ) \alpha _ { i + 1 } } } \Biggr \rangle = }  \\ { { \displaystyle \Biggl \langle \sqrt { 1 - \prod _ { i = 1 } ^ { k + 1 } \big ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \big ) ^ { ( \omega _ { i } + T ( \alpha _ { i } ) ) \alpha _ { i } } } , \sqrt { \prod _ { i = 1 } ^ { k + 1 } \big ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \big ) ^ { \omega _ { i } + T ( \alpha _ { i } ) } } - \prod _ { i = 1 } ^ { k + 1 } \big [ 1 - \big ( \mu _ { \alpha _ { i } } ^ { 2 } + V _ { \alpha _ { i } } ^ { 2 } \big ) \big ] } } \end{array}
+$$
+
+所以，当 $n = k + 1$ 时，等式也成立。因此对于任意的 $n$ ，
+
+$$
+\begin{array} { r l } { } & { \underset { i = 1 } { \overset { n } { \bigoplus } } ( \omega _ { i } + T ( \alpha _ { i } ) ) \alpha _ { i } } \\ & { = \left. \sqrt { 1 - \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \omega _ { i } + T ( \alpha _ { i } ) } } , \sqrt { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \omega _ { i } + T ( \alpha _ { i } ) } - \prod _ { i = 1 } ^ { n } \left[ 1 - \left( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \right) \right] ^ { \omega _ { i } + T ( \alpha _ { i } ) } } \right. } \end{array}
+$$
+
+必定成立。
+
+其次，利用定义3有
+
+$$
+\begin{array} { r l } & { \overset { \tilde { \boldsymbol { \varphi } } } { \underset { i = 1 } { \bigoplus } } \frac { \omega _ { i } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } \alpha _ { i } } \\ & { = \frac { 1 } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } \Biggl \langle \sqrt { 1 - \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \omega _ { i } + T \left( \alpha _ { i } \right) } } , \sqrt { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \omega _ { i } + T \left( \alpha _ { i } \right) } - \prod _ { i = 1 } ^ { n } \left[ 1 - \left( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \right) \right] } } \\ & { = \left. \sqrt { 1 - \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \sum _ { i = 1 } ^ { n } \left( \alpha _ { i } + T \left( \alpha _ { i } \right) \right) } } , \sqrt { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \frac { \omega _ { i } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } - \prod _ { i = 1 } ^ { n } \left[ 1 - \left( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \right) \right] ^ { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } \right. } \end{array}
+$$
+
+由上述证明过程可知，定理1成立。
+
+下面讨论改进加权支持度的毕达哥拉斯模糊交叉幂均算子的性质，并加以证明。
+
+定理2设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊数，则改进加权支持度的毕达哥拉斯模糊交叉幂均算子有如
+
+下性质：
+
+（a）幂等性。设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊数，若 $\alpha _ { i } = \alpha$ ， $( i = 1 , 2 , . . . , n )$ ，则有 $W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \alpha$ □
+
+（b）有界性。设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊数， $\alpha _ { \mathrm { m i n } } = \left. \operatorname* { m i n } _ { i } ( \mu _ { \alpha _ { i } } ) , \operatorname* { m a x } _ { i } ( \nu _ { \alpha _ { i } } ) \right.$ ， $\alpha _ { \mathrm { m a x } } = \left. \operatorname* { m a x } _ { i } \left( \mu _ { \alpha _ { i } } \right) , \operatorname* { m i n } _ { i } \left( \nu _ { \alpha _ { i } } \right) \right. ,$ 则 $\alpha _ { \mathrm { m i n } } \le W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) \le \alpha _ { \mathrm { m a x } }$
+
+（c）置换不变性。设 $\alpha _ { i } = \langle \mu _ { \alpha _ { i } } , \nu _ { \alpha _ { i } } \rangle ( i = 1 , 2 , . . . , n )$ 为一组毕达哥拉斯模糊数，若 $( \alpha _ { 1 } ^ { ' } , \alpha _ { 2 } ^ { ' } , . . . , \alpha _ { n } ^ { ' } )$ 是 $\left( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } \right)$ 的任意一个置换，则 $W - P F P A ( \alpha _ { 1 } ^ { \prime } , \alpha _ { 2 } ^ { \prime } , . . . , \alpha _ { n } ^ { \prime } ) = W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } )$
+
+证明：
+
+(a)
+
+$$
+\begin{array} { l } { { W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , \ldots , \alpha _ { n } ) = W - P F I P A ( \alpha , \alpha , \ldots , \alpha ) } } \\ { { = \left. \sqrt { 1 - \displaystyle { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha } ^ { 2 } \right) ^ { \frac { \omega _ { 1 } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } } } \sqrt { \displaystyle { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \frac { \omega _ { 1 } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } } - \displaystyle { \prod _ { i = 1 } ^ { n } \left[ 1 - \left( \mu _ { \alpha _ { i } } ^ { 2 } + \nu _ { \alpha _ { i } } ^ { 2 } \right) \right] ^ { \frac { \omega _ { 1 } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } }  } } } \\ \right. { = \left. \sqrt { 1 - \left( 1 - \mu _ { \alpha } ^ { 2 } \right) ^ { \frac { \omega } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } } , \sqrt { 1 - \mu _ { \alpha _ { i } } ^ { 2 } } \frac { \displaystyle { \sum _ { i = 1 } ^ { n } \frac { \omega _ { 1 } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } } - \displaystyle { \sum _ { i = 1 } ^ { n } \frac { \omega _ { 1 } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } }  } } \\ { \right.{ = \left. \mu _ { \alpha } , \nu _ { \alpha } \right. } } \end{array}
+$$
+
+证毕。
+
+由 $\operatorname* { m i n } _ { i } \left( \mu _ { \alpha _ { i } } \right) \leq \mu _ { \alpha _ { i } } \leq \operatorname* { m a x } _ { i } \left( \mu _ { \alpha _ { i } } \right)$ ， $\operatorname* { m i n } _ { i } \big ( \nu _ { \alpha _ { i } } \big ) \leq \nu _ { \alpha _ { i } } \leq \operatorname* { m a x } _ { i } \big ( \nu _ { \alpha _ { i } } \big )$ 得
+
+$$
+\begin{array} { r l } & { \sqrt { 1 - \displaystyle \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \sum _ { i = 1 } ^ { n } \left( \alpha _ { i } \cdot T \left( \alpha _ { i } \right) \right) } } } \\ & { \leq \sqrt { 1 - \displaystyle \prod _ { i = 1 } ^ { n } \left( 1 - \left( \operatorname* { m a x } _ { i } \left( \mu _ { \alpha _ { i } } \right) \right) ^ { 2 } \right) ^ { \frac { \alpha + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \alpha _ { i } \cdot T \left( \alpha _ { i } \right) \right) } } } } \\ & { = \sqrt { 1 - \left( 1 - \left( \operatorname* { m a x } _ { i } \left( \mu _ { \alpha _ { i } } \right) \right) ^ { 2 } \right) ^ { \frac { \alpha } { \sum _ { i = 1 } ^ { n } \alpha _ { i } \cdot T \left( \alpha _ { i } \right) } } } } \\ & { = \operatorname* { m a x } _ { i } \left( \mu _ { \alpha _ { i } } \right) } \end{array}
+$$
+
+同理：
+
+$$
+\begin{array} { r l } & { \sqrt { 1 - \displaystyle \prod _ { i = 1 } ^ { n } \big ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \big ) ^ { \frac { \omega _ { i } + T ( \alpha _ { i } ) } { \sum _ { i = 1 } ^ { n } ( \omega _ { i } + T ( \alpha _ { i } ) ) } } } } \\ & { \geq \sqrt { 1 - \displaystyle \prod _ { i = 1 } ^ { n } \bigg ( 1 - \Big ( \operatorname* { m i n } _ { i } \big ( \mu _ { \alpha _ { i } } \big ) \Big ) ^ { 2 } \bigg ) ^ { \frac { \omega _ { i } + T ( \alpha _ { i } ) } { \sum _ { i = 1 } ^ { n } ( \omega _ { i } + T ( \alpha _ { i } ) ) } } } } \\ & { = \operatorname* { m i n } _ { i } \big ( \mu _ { \alpha _ { i } } \big ) } \end{array}
+$$
+
+因此： $\operatorname* { m i n } _ { i } \big ( \mu _ { \alpha _ { i } } \big ) \leq \sqrt { 1 - \prod _ { i = 1 } ^ { n } \big ( 1 - \mu _ { \alpha _ { i } } ^ { 2 } \big ) ^ { \frac { \omega _ { i } + T ( \alpha _ { i } ) } { \sum _ { i = 1 } ^ { n } ( \omega _ { i } + T ( \alpha _ { i } ) ) } } } \leq \operatorname* { m a x } _ { i } \left( \mu _ { \alpha _ { i } } \right) ;$ 同理可得 （204号 $\operatorname* { m i n } _ { i } \left( \nu _ { \alpha _ { i } } \right) \leq \sqrt { 1 - \prod _ { i = 1 } ^ { n } \left( 1 - \nu _ { \alpha _ { i } } ^ { 2 } \right) ^ { \frac { \omega _ { i } + T ( \alpha _ { i } ) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T ( \alpha _ { i } ) \right) } } } \leq \operatorname* { m a x } _ { i } \left( \nu _ { \alpha _ { i } } \right)$ 故： $\alpha _ { \mathrm { m i n } } \le W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) \le \alpha _ { \mathrm { m a x } }$ 证毕。
+
+(c）
+
+设 $( \alpha _ { 1 } ^ { \cdot } , \alpha _ { 2 } ^ { \cdot } , . . . , \alpha _ { n } ^ { \cdot } )$ 是 $\left( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } \right)$ 的任意一个置换，则对任意的 $\alpha _ { i }$ ，必定存在唯一与之对应的 $\cdot \vec { \alpha _ { j } }$ ，使得 $\alpha _ { i } = \alpha _ { j } ^ { \cdot }$ ；反之亦然，且 $T ( \alpha _ { i } ) = T \big ( \alpha _ { j } ^ { \cdot } \big )$ ，则
+
+$$
+\begin{array} { l } { { { \displaystyle { \cal W } - P F I P { \cal A } ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \bigoplus _ { i = 1 } ^ { n } \frac { \omega _ { i } + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + T \left( \alpha _ { i } \right) \right) } \alpha _ { i } = } } } \\  { { \displaystyle { \bigoplus _ { j = 1 } ^ { n } \frac { \omega _ { j } + T \left( \alpha _ { j } ^ { \cdot } \right) } { \sum _ { j = 1 } ^ { n } \left( \omega _ { j } + T \left( \alpha _ { j } ^ { \cdot } \right) \right) } \alpha _ { j } ^ { \prime } = { \cal W } - P F I P { \cal A } \left( \alpha _ { 1 } ^ { \cdot } , \alpha _ { 2 } ^ { \cdot } , . . . , \alpha _ { n } ^ { \cdot } \right) } } } \end{array}
+$$
+
+证毕。
+
+下面本文讨论改进加权支持度的毕达哥拉斯模糊幂均算子的两种特殊情况：
+
+（a）当所有的 $S u p \big ( a _ { i } , a _ { j } \big ) = c \big ( 0 \leq c \leq 1 \big )$ 时，
+
+$$
+\begin{array} { l } { { \displaystyle W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) } } \\ { { \displaystyle = \bigoplus _ { i = 1 } ^ { n } \frac { \omega _ { i } + c \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } } { \sum _ { i = 1 } ^ { n } \left( \omega _ { i } + c \sum _ { j = 1 , j \neq i } ^ { n } \omega _ { j } \right) } \alpha _ { i } } } \end{array}
+$$
+
+因为 $( 0 \leq c \leq 1 )$ ，式（10）还可以等价简化为
+
+$$
+W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } )
+$$
+
+$$
+= \bigoplus _ { i = 1 } ^ { n } { \frac { \left( 1 - c \right) \omega _ { i } + c } { \sum _ { i = 1 } ^ { n } \left( \left( 1 - c \right) \omega _ { i } + c \right) } } \alpha _ { i }
+$$
+
+对比式 (9)，可以看出经过改进后的加权支持度，当支持度相等时，分量权重未起到双重作用的现象。更进一步的有，当 $c = 1$ 时， $W - P F P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \bigoplus _ { i = 1 } ^ { n } { \frac { 1 } { n } } \alpha _ { i }$ ；当 $c = 0$ 时，$W - P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) = \bigoplus _ { i = 1 } ^ { n } \omega _ { i } \alpha _ { i } \mathrm { ~ \circ ~ }$ （20
+
+（b）当 $\omega _ { i } = 1 / n \big ( i = 1 , 2 , . . . , n \big )$ 时，
+
+改进加权支持度的毕达哥拉斯模糊交叉幂均算子退化成毕达哥拉斯模糊交叉幂均算子，即
+
+$$
+\begin{array} { l } { P F I P A ( \alpha _ { 1 } , \alpha _ { 2 } , . . . , \alpha _ { n } ) } \\ { \displaystyle = \bigoplus _ { i = 1 } ^ { n } \frac { 1 + T \left( \alpha _ { i } \right) } { \sum _ { i = 1 } ^ { n } \left( 1 + T \left( \alpha _ { i } \right) \right) } \alpha _ { i } } \end{array}
+$$
+
+其中： $T ( \alpha _ { i } ) = \frac { 1 } { n } \sum _ { j = 1 , j \neq i } ^ { n } S u p \left( \alpha _ { i } , \alpha _ { j } \right)$ 。
+
+# 4 一种相关型决策模型
+
+在本章中利用改进加权支持度的毕达哥拉斯模糊交叉幂均算子建立了决策模型，其中属性的评价值用毕达哥拉斯模糊数表示，设专家组 $D = \left( d _ { 1 } , d _ { 2 } , . . . , d _ { k } \right)$ ，备选方案集为$A = \left( A _ { 1 } , A _ { 2 } , . . . , A _ { m } \right)$ ，决策属性集为 $C = \left( C _ { 1 } , C _ { 2 } , . . . , C _ { n } \right)$ ，属性权重集为 ${ \boldsymbol { \omega } } = \left( \omega _ { 1 } , \omega _ { 2 } , . . . , \omega _ { n } \right) ^ { T }$ ，且 $\omega _ { i } \in [ 0 , 1 ]$ ， $\sum _ { i = 1 } ^ { n } \omega _ { i } = 1$ ，专家权重集为（204 ${ \boldsymbol { r } } = \left( r _ { 1 } , r _ { 2 } , . . . , r _ { k } \right) ^ { T }$ ，且 $r _ { i } \in [ 0 , 1 ] ~ , ~ \sum _ { i = 1 } ^ { k } r _ { i } = 1$ 。决策者给出方案 $A _ { i }$ 关于属性 $C _ { j }$ 的评价值为毕达哥拉斯模糊数，表示为 $\alpha _ { i j } = \langle \mu _ { \alpha _ { i j } } , \nu _ { \alpha _ { i j } } \rangle$ ，从而可以得到决策者给出的毕达哥拉斯模糊决策矩阵$Q = \left( \alpha _ { i j } \right) _ { m \times n }$ 。根据上述信息，对 $m$ 个备选方案进行排序或者择优。
+
+基于改进加权支持度的毕达哥拉斯模糊交叉幂均集成算子，下面按照步骤流程，建立一种毕达哥拉斯模糊背景下能够反映决策属性间相互作用的决策方法，具体如下：
+
+a)计算决策属性 $C _ { j } ( j = 1 , 2 , . . . , n )$ 支持度 $S u p _ { j }$ ：
+
+$$
+S u p ( \alpha _ { _ i } ^ { s } , \alpha _ { _ i } ^ { t } ) = 1 - d ( \alpha _ { _ i } ^ { s } , \alpha _ { _ i } ^ { t } ) , ( s , t = 1 , 2 , . . . , k )
+$$
+
+$$
+\begin{array} { l } { { \displaystyle d \big ( \alpha _ { _ i \mathrm { \Gamma } } ^ { s } , \alpha _ { _ i \mathrm { \Gamma } } ^ { t } \big ) = } } \\ { { \displaystyle \frac { 1 } { 2 } \Big | \big ( \mu _ { \alpha _ { i j } ^ { s } } \big ) ^ { 2 } - \big ( \mu _ { \alpha _ { i j } ^ { t } } \big ) ^ { 2 } \Big | + \frac { 1 } { 2 } \Big | \big ( \nu _ { \alpha _ { i j } ^ { s } } \big ) ^ { 2 } - \big ( \nu _ { \alpha _ { i j } ^ { t } } \big ) ^ { 2 } \Big | + \frac { 1 } { 2 } \Big | \big ( \pi _ { \alpha _ { i j } ^ { s } } \big ) ^ { 2 } - \big ( \pi _ { \alpha _ { i j } ^ { t } } \big ) ^ { 2 } \Big | } } \end{array}
+$$
+
+$d \big ( \mathcal { \alpha } _ { _ { i j } } ^ { s } , \mathcal { \alpha } _ { _ { i j } } ^ { t } \big )$ 为两个毕达哥拉斯模糊数之间的距离，反映两个毕达哥拉斯模糊数之间的差异程度。
+
+b)计算 $T \big ( \mathcal { \alpha } _ { i j } ^ { s } \big )$ ：
+
+$$
+T \left( \alpha _ { _ i j } ^ { s } \right) = \sum _ { s \neq t } ^ { k } r _ { t } S u p \left( \alpha _ { _ i j } ^ { s } , \alpha _ { _ i j } ^ { t } \right)
+$$
+
+$T \left( \alpha _ { _ i j } ^ { s } \right)$ 为毕达哥拉斯模糊数 $\alpha _ { _ { i j } } ^ { s }$ 所对应的支持度。
+
+c)计算关联权重 $\eta _ { i j } ^ { s } \left( s = 1 , 2 , . . . , k \right)$ ：
+
+$$
+\eta _ { i j } ^ { s } = \frac { r _ { s } + T \left( \alpha _ { i j } ^ { s } \right) } { \sum _ { s = 1 } ^ { k } \left( r _ { s } + T \left( \alpha _ { i j } ^ { s } \right) \right) } \left( s = 1 , 2 , . . . , k \right)
+$$
+
+$\eta _ { i j } ^ { s } \left( s = 1 , 2 , . . . , k \right)$ 为毕达哥拉斯模糊数 $\alpha _ { _ { i j } } ^ { s }$ 所对应的支持度，能够减弱与群体意见差异较大，偏离较远的专家评估信息权重，无须主观赋予权重。
+
+d)利用W-PFIPA 算子集结群决策矩阵 $Q ^ { s } = \left( \alpha _ { _ { i j } } ^ { s } \right) _ { m \times n }$ ：
+
+$$
+\begin{array} { c } { { W - P F I P A ( \alpha _ { i j } ^ { 1 } , \alpha _ { i j } ^ { 2 } , . . . , \alpha _ { i j } ^ { k } ) = } } \\ { { \displaystyle \left. \sqrt { 1 - \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i j } ^ { s } } ^ { 2 } \right) ^ { \eta _ { i j } ^ { s } } } , \sqrt { \prod _ { i = 1 } ^ { n } \left( 1 - \mu _ { \alpha _ { i j } ^ { s } } ^ { 2 } \right) ^ { \eta _ { i j } ^ { s } } - \prod _ { i = 1 } ^ { n } \left[ 1 - \left( \mu _ { \alpha _ { i j } ^ { s } } ^ { 2 } + \nu _ { \alpha _ { i j } ^ { s } } ^ { 2 } \right) \right] ^ { \eta _ { i j } ^ { s } } } \right. } } \end{array}
+$$
+
+从而得到综合群决策矩阵 $\mathcal { Q } = \left( \alpha _ { i j } \right) _ { m \times n }$ 。
+
+e)利用PFIWA算子[3]计算综合评估值：
+
+$$
+\begin{array} { c } { { P F I W A ( \alpha _ { i 1 } , \alpha _ { i 2 } , . . . , \alpha _ { i n } ) =  \sqrt { 1 - \displaystyle \prod _ { j = 1 } ^ { n } ( 1 - \mu _ { \alpha _ { i j } } ^ { 2 } ) ^ { \omega _ { j } } } \ , \ } } \\ { { \sqrt { \displaystyle \prod _ { i = 1 } ^ { n } ( 1 - \mu _ { \alpha _ { i j } } ^ { 2 } ) ^ { \omega _ { j } } - \displaystyle \prod _ { i = 1 } ^ { n } [ 1 - ( \mu _ { \alpha _ { i j } } ^ { 2 } + \nu _ { \alpha _ { i j } } ^ { 2 } ) ] ^ { \omega _ { j } } } \ } } \end{array}
+$$
+
+f)利用定义5中的毕达哥拉斯模糊数的得分函数，计算各方案的综合评价值。
+
+g)利用定义7对各方案的综合属性值从大到小排序，得到最优方案。
+
+h)结束。
+
+# 5 实例分析
+
+近年来，随着中国城市化进程进入高速发展期，环境污染、资源紧缺、公共安全等一系列"城市病"相继出现并日益严重，阻碍了城市的可持续发展。智慧城市是解决“城市病"一剂良方，智慧城市这一概念现已成为各个领域研究的焦点和热点[18\~21]。智慧城市就是运用信息和通信技术手段感测、分析、整合城市运行核心系统的各项关键信息，从而对包括民生、环保、公共安全、城市服务、工商业活动在内的各种需求作出智能响应。其实质是利用先进的信息技术，实现城市智慧式管理和运行，进而为城市中的人创造更美好的生活，促进城市的和谐、可持续成长。信息化时代背景下，物联网、大数据、云计算等信息技术被广泛应用于城市建设的各个环节，先进信息技术的应用，更是促进了城市民生、公共安全、工商业活动等领域的信息共享。基于对智慧城市的评价研究，对城市的发展和提高居民的生活质量大有裨益。另一方面，一个全面而系统的智慧城市评价也会为城市发展提供新的路径选择，提高国家的整体经济实力。在本研究中，假设经专家组的初步筛选后，留下四个城市 $A = \left( A _ { 1 } , A _ { 2 } , A _ { 3 } , A _ { 4 } \right)$ 做进一步的评价和分析。鉴于篇幅，四个城市的具体信息在此不加以描述。在现有文献综述的基础上，经过数轮讨论，有五个决策属性 $\boldsymbol { C } = \left( C _ { 1 } , C _ { 2 } , . . . , C _ { 5 } \right)$ 用于本次评价，具体包括 $C _ { 1 }$ ：基础设施建设、 $C _ { 2 }$ ：人力资本投入、 $C _ { 3 }$ ：自然与社会经济环境、 $C _ { 4 }$ ：信息通信技术、 $C _ { 5 }$ ：政府服务水平。其属性权重为：
+
+$\omega = ( \omega _ { 1 } , \omega _ { 2 } , \omega _ { 3 } , \omega _ { 4 } , \omega _ { 5 } ) =$ (0.30,0.10,0.25,0.20,0.15）。
+
+为确保本次智慧城市评价的科学性和客观性，邀请了来自科研机构、政府部门和非盈利组织等机构的三名专家$D = \left( d _ { 1 } , d _ { 2 } , d _ { 3 } \right)$ 参与本次评价活动，专家组权重为$r = \left( r _ { 1 } , r _ { 2 } , r _ { 3 } \right) = \left( 0 . 3 5 , 0 . 4 5 , 0 . 2 0 \right)$ 。在评价期初，由于专家们承受着时间压力，参考资料也有限，以及自身对相关问题的经历也有限等问题局限，专家组表示愿意采用毕达哥拉斯模糊数表示对相关问题的判断，有利于反映自己对评价问题的不确定性，其各专家的评价数据如表1\~4所示。
+
+Table1Pythagorean fuzzymatrix givenby expert 1   
+
+<html><body><table><tr><td></td><td>C</td><td>C</td><td>C</td><td>C4</td><td>C5</td></tr><tr><td>A</td><td>(0.8,0.4)</td><td>(0.6,0.4)</td><td>(0.9,0.2)</td><td>(0.6,0.4)</td><td>(0.4,0.7)</td></tr><tr><td>A</td><td>(0.5,0.1)</td><td>(0.3,0.6)</td><td>{0.8,0.2)</td><td>(0.9,0.1)</td><td>(0.7,0.5)</td></tr><tr><td>A</td><td>(0.9,0.1)</td><td>(0.6,0.5)</td><td>(0.4,0.4)</td><td>(0.7,0.2)</td><td>(0.5,0.4)</td></tr><tr><td>A4</td><td>{0.6,0.3)</td><td>(0.5,0.4)</td><td>(0.4,0.8)</td><td>{0.8,0.1)</td><td>(0.7,0.3)</td></tr></table></body></html>
+
+表2专家2给出的毕达哥拉斯模糊矩阵
+
+表1专家1给出的毕达哥拉斯模糊矩阵  
+
+<html><body><table><tr><td></td><td>C</td><td>C</td><td>C3</td><td>C4</td><td>C5</td></tr><tr><td>A</td><td>(0.8,0.1)</td><td>(0.6,0.5)</td><td>(0.9,0.4)</td><td>(0.5,0.6)</td><td>(0.6,0.2)</td></tr><tr><td>A</td><td>(0.4,0.6)</td><td>(0.7,0.1)</td><td>(0.9,0.4)</td><td>(0.8,0.5)</td><td>(0.7,0.6)</td></tr><tr><td>A</td><td>{0.7,0.2)</td><td>{0.8,0.3)</td><td>(0.5,0.4)</td><td>(0.7,0.3)</td><td>(0.6,0.1)</td></tr><tr><td>A4</td><td>(0.5,0.4)</td><td>(0.6,0.5)</td><td>(0.5,0.6)</td><td>(0.9,0.3)</td><td>(0.9,0.4)</td></tr></table></body></html>
+
+表3专家3给出的毕达哥拉斯模糊矩阵
+
+a)计算专家组的加权支持度矩阵 $T _ { \boldsymbol { k } } = \left( T \left( \alpha _ { _ i } ^ { s } \right) \right) _ { 4 \times 5 } \left( \boldsymbol { k } = 1 , 2 , 3 \right)$ □ b)计算关联权重 $\eta _ { i j } ^ { s } \left( s = 1 , 2 , 3 \right)$ 。
+
+$$
+\eta _ { i j } ^ { s } = \frac { r _ { s } + T \left( \alpha _ { i j } ^ { s } \right) } { \sum _ { s = 1 } ^ { k } \left( r _ { s } + T \left( \alpha _ { i j } ^ { s } \right) \right) } \left( s = 1 , 2 , . . . , k \right)
+$$
+
+Table2 Pythagorean fuzzy matrix given by expert 2   
+
+<html><body><table><tr><td></td><td>C</td><td>C</td><td>C</td><td>C4</td><td>C</td></tr><tr><td>A</td><td>(0.7,0.5)</td><td>{0.6,0.6)</td><td>(0.7,0.3)</td><td>{0.4,0.4)</td><td>(0.9,0.4)</td></tr><tr><td>A</td><td>(0.4,0.7)</td><td>(0.8,0.1)</td><td>(0.9,0.4)</td><td>(0.8,0.2)</td><td>{0.7,0.3)</td></tr><tr><td>A</td><td>{0.4,0.5)</td><td>(0.8,0.5)</td><td>(0.6,0.4)</td><td>(0.8,0.1)</td><td>{0.6,0.5)</td></tr><tr><td>A4</td><td>(0.8,0.1)</td><td>(0.9,0.3)</td><td>(0.8,0.4)</td><td>(0.7,0.2)</td><td>(0.6,0.1)</td></tr></table></body></html>
+
+下面给出详细的计算步骤：
+
+c)利用 W-PFIPA 算子集结群决策矩阵 $Q ^ { s } = \left( \alpha _ { _ { i j } } ^ { s } \right) _ { m \times n }$ 。
+
+Table3 Pythagorean fuzzy matrix given by expert 3   
+表4专家群决策矩阵  
+
+<html><body><table><tr><td>C</td><td></td><td>C</td><td>C</td><td>C4</td><td>C</td></tr><tr><td>A</td><td>(0.7773,0.3730)</td><td>{0.6000,0.5139)</td><td>(0.8667,0.3775)</td><td>(0.5137,0.4872)</td><td>(0.7116,0.5327)</td></tr><tr><td>A</td><td>(0.4367,0.5560)</td><td>{0.6742,0.2945)</td><td>(0.8176,0.4267)</td><td>(0.8420,0.3272)</td><td>(0.7000,0.5100)</td></tr><tr><td>A</td><td>(0.7595,0.2431)</td><td>(0.7500,0.4517)</td><td>(0.5095,0.4016)</td><td>(0.7369,0.2124)</td><td>(0.5696,0.3818)</td></tr><tr><td>A4</td><td>(0.6536,0.2798)</td><td>(0.7183,0.4182)</td><td>(0.6083,0.6122)</td><td>(0.8224,0.2689)</td><td>(0.7810,0.4438)</td></tr></table></body></html>
+
+算综合评估值，并进行优劣排序，其得分值、排序结果和最优方案见表5。
+
+d)利用PFIWA算子计算综合评估值：
+
+$$
+A _ { 4 } = \langle 0 . 7 1 7 1 , 0 . 4 2 7 1 \rangle
+$$
+
+e)利用定义7计算其各个方案的得分函数为
+
+$$
+S \left( A _ { 4 } \right) = 0 . 3 3 1 8
+$$
+
+f根据其得分函数的值，方案优劣排序为 $A _ { 1 } \succ A _ { 3 } \succ A _ { 4 } \succ A _ { 2 }$ ，即 $A _ { 1 }$ 是最优的。
+
+# 6 对比分析
+
+# 6.1实验结果对比分析
+
+为了验证本文所提出算子和决策方法的有效性，分别选取文献[4]、文献[6]、文献[16]、文献[17]、文献[21]的方法计
+
+Table 4 Expert group decision matrix   
+表5得分值、排序结果和最优方案  
+Table5 Score value,sorting result,and optimal plan   
+
+<html><body><table><tr><td colspan="2">得分值</td><td>排序结果</td><td>最优方案</td></tr><tr><td>本文</td><td>S=(0.3691,0.3246,0.3602,0.3318)</td><td>A γ A γ A4  A</td><td>A</td></tr><tr><td>文献[4]</td><td>S=(0.4675,0.4472,0.4041,0.4071)</td><td>Aγ A γ Aγ A</td><td>A</td></tr><tr><td>文献[6]</td><td></td><td>AYAYAA</td><td>A</td></tr><tr><td></td><td>文献[16] S=(0.4490,0.4349,0.3975,0.4249)</td><td>AYAYAYA</td><td>A</td></tr><tr><td></td><td>文献[17] S=(0.3925,0.34371,0.3613,0.3268)</td><td>A γAγA γ A</td><td>A</td></tr><tr><td></td><td>文献[21] S=(0.4629,0.4395,0.4001,0.4011)</td><td>A γ A γ A4γA</td><td>A</td></tr></table></body></html>
+
+通过对比分析可知，本文的最优方案和文献[4]中的PFWA算子、文献[6]中TOPSIS方法、文献[16]的PFPA算子、文献[17]的PFIWA算子、文献[21]的PFPWA算子的最优方案均为 $A _ { 1 }$ ，但各方法所得到的得分值和排序结果却略微不同，造成差异的主要原因可能如下：
+
+a）以上几种模型均采用了不同的集结方法，其集结算子所代表的侧重点也不尽相同，文献[4]和文献[17]所采用的的方法主要是研究属性或专家间独立的情况，并未考虑到属性或专家间存在相互支持的情况，故排序结果不同。
+
+b）文献[4]、文献[6]和文献[16]的方案2、3、4 排序结果和本文的结果略有偏差是因为文献[4]所采用的PFWA算子是主观赋权方法，未能体现数据和专家之间的差异，而文献[6是通过计算各个方案的正负理想解的贴近度从而得到方案的排序结果，文献[16]尽管采用了幂平均算子和支持度来得到权重，但是通过上文的分析，所应用的支持度存在瑕疵，此外该方法没有运用交叉运算法则，故未能反映数据信息之间的差异，由此造成了排序结果的不尽相同。
+
+c）文献[21]所得排序结果不同的原因是由于所采用的加权支持度存在缺陷（本文已经加以改进)，导致的得分数的值偏差较大。
+
+本文提出的改进加权支持度的毕达哥拉斯模糊交叉幂均算子的多属性决策方法充分的考虑了信息间的相互支持度，且能够客观的赋予专家权重，并且在算子集结计算方面，简单易于操作。基于以上分析，本文得出的结论是合理且有效的。
+
+在上述的实例分析中，前文所提出的改进加权支持度的毕达哥拉斯模糊幂均集成算子得到了较好的应用。作为直觉模糊集的拓展形式，毕达哥拉斯模糊集能更加充分地刻画其现实情况。而改进的加权支持度和幂均算子的结合很好地考虑属性信息之间的相互支持度，使得决策环境更加稳定，同时也丰富了毕达哥拉斯模糊集成算子理论。
+
+# 6.2 模型对比分析
+
+为了进一步验证本文所提出模型的合理性，分别选取文献[4]、文献[16]、文献[17]、文献[21]的模型进行对比分析，其结果见表6
+
+表6模型对比  
+Table 6Model comparison   
+
+<html><body><table><tr><td colspan="2">算子</td><td colspan="2">是否考虑支持度 是否应用交叉运算</td></tr><tr><td>本文</td><td>W-PFIPA</td><td>是</td><td>是</td></tr><tr><td>文献[4]</td><td>PFWA</td><td>否</td><td>否</td></tr><tr><td>文献[16]</td><td>PFPA</td><td>是</td><td>否</td></tr><tr><td>文献[17]</td><td>PFIWA</td><td>否</td><td>是</td></tr><tr><td>文献[21]</td><td>PFPWA</td><td>是</td><td>否</td></tr></table></body></html>
+
+由表6可以看出，本文在信息的集结过程中，既考虑了数据间的支持度，即能够减弱与群体意见差异较大，偏离较远的专家评估信息权重，尽管文献[16]和文献[21]也考虑了支持度的使用，但两个支持度存在缺陷，导致了结果的偏差，此外本文使用了较为合理的交叉运算法则，使得结果更为合理。
+
+# 7 结束语
+
+在多属性群决策的过程中，由于现实问题的复杂性，属性值适合用毕达哥拉斯模糊数表示；同时，为了反映变量本身的重要性，改进了原有加权支持度的概念，并结合幂均算子，提出了改进加权支持度的毕达哥拉斯模糊幂均算子，进而建立一种毕达哥拉斯模糊背景下能够反映决策属性间相互作用的决策方法，充分考虑了专家间的信息支持度，有效地避免了主观赋权所带来的偏见。
+
+# 参考文献：
+
+[1]Zadeh L A.Fuzzy sets [J]. Information and Control,1965,8(3):
+
+338-353.   
+[2]Atanassov K. Intuitionistic fuzzy sets [J]. Fuzzy Sets and Systems,1986, 20 (1): 87-96.   
+[3]Yager R R.Pythagorean membership grades in multi-criteria decision making[J].IEEE Trans on Fuzzy Systems,2014,22 (4): 958-965.   
+[4]Yager R R,Abbasov A M.Pythagorean membership grades,complex numbersand decision making[J]. International Journal of Intelligent Systems,2013,28 (5):436-452.   
+[5] Garg H. Some methods for strategic decision - making problems with immediate probabilitiesin Pythagorean fuzzyenvironment [J]. International Journal of Intelligent Systems,2018,33 (4): 687-712.   
+[6]Zhang Xiaolu,Xu Zeshui. Extension of TOPSIS to multiple criteria decision making with Pythagorean fuzzy sets [J].International Journal of Intelligent Systems,2015,29 (12):1061-1078.   
+[7]Peng Xindong, Yong Yang. Some results for Pythagorean fuzzy sets [J]. International Journal of Intelligent Systems,2015,30 (11):1133-1160.   
+[8]Wei Guiwu,Lu Mao.Dual hesitant Pythagorean fuzzy Hamacher aggregation operators in multiple attribute decision making [J]. Archives of Control Sciences,2017,27 (3): 365-395.   
+[9] Zeng Shouzeng,Chen Jianping,Li Xingsen.A hybrid method for Pythagorean fuzzy multiple-criteria decision making [J]. International Journal of Information Technology & Decision Making,2016,15(02): 403-422.   
+[10] Zhang Runtong，Wang Jun, Zhu Xiaomin，et al. Some generalized Pythagorean fuzzy Bonferroni mean aggregation operators with their application to multi-attribute group decision-making [J]. Complexity, 2017,2017 (6): 1-16.   
+[11] Yager R R.The power average operator[J]. IEEE Trans on Systems Man & Cybernetics Part A Systems& Humans,2001,31(6):724-731.   
+[12] Liu Peidu,Liu Xi. The neutrosophic number generalized weighted power averaging operator and its application in multiple attribute group decision making [J]. International Journal of Machine Learning& Cybermetics,2018,9(2): 347-358.   
+[13] Song Moxian,Jiang Wen,Xie Chunhe,et al.A new interval numbers power average operator in multiple attribute decision making [J]. International Journal of Intelligent Systems,2017,32(6): 631-644.   
+[14] Liu J,Sun M. Generalized power average operator of hesitant fzzy numbers and its application in multiple attribute decision making [J]. Journal of Computational Information Systems,2013,9(8): 3051-3058.   
+[15] Gao Jianwei, Yi Ru. Cloud generalized power ordered weighted average operator and its application to linguistic group decision-making [J]. Symmetry,2017,9(8): 156-181.   
+[16]何霞，杜迎雪，刘卫锋．毕达哥拉斯模糊幂平均算子[J].模糊系统 与数学,2016,30(6):116-124.(He Xia,Du Yingxue,Liu Weifeng. Pythagorean fuzzy power average operators [J]. Fuzzy Systems and Mathematics,2016,30(6):116-124.)   
+[17] 刘卫锋，杜迎雪，常娟．毕达哥拉斯模糊交叉影响集成算子及其决 策应用[J]．控制与决策,2017,32(6):1033-1040.(Liu Weifeng,Du Yingxue， Chang Juan.Pythagorean fuzzy interaction aggregation operators and applications in decision making [J]. Control and Decision, 2017,32 (6): 1033-1040.)   
+[18]颜姜慧，刘金平．基于自组织系统的智慧城市评价体系框架构建 [J]．宏观经济研究,2018(1):121-128.(Yan Jianghui,Liu Jinping. Construction of smart city evaluation system framework based on self-organizing system [J].Macroeconomics,2018(1):121-128.)   
+[101 C V IiI E I Smot nitv ond tha onnlinting [Cl// Droo of IEEE
+
+International Conference on Electronics,Communications and Control. 2011:1028-1031. [20] Abdel-Basset M,Mai M. The role of single valued neutrosophic sets and rough sets in smart city:imperfect and incomplete information
+
+systems [J].Measurement,2018,124(10):47-55. [21] Zhang Kuan,Ni Jianbing,Yang Kan,et al.Security and privacy in smartcityapplications:challengesandsolutions[J].IEEE Communications Magazine,2017,55(1):122-129.

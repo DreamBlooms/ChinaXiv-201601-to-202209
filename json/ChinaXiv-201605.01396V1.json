@@ -1,0 +1,376 @@
+[
+    {
+        "type": "text",
+        "text": "BAC transgenic mice provide evidence that p53 expression is highly regulated in vivo ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "L Chen1,2,4, GX Zhang1,4,Y Zhou1,CX Zhang1,YY Xie1,C Xiang1,XY ${ \\mathsf { H } } { \\mathsf { e } } ^ { 1 }$ , Q Zhang1,³ and G Liu\\*1 p53isanmportanttumorsuppressorandstressresponse mediator.Propercontrolofp53levelandactivityistightlyassociated withitsfunction.Postranslationalmodificationsandtheinteractions with Mdm2andMdm4are majormechanismscontroling p53 activityandstablityAsp53proteinissort-livedandhardlydetectableinunstressedsituations,lessisknownonitsbsalevel expressionandthecorespondingcontrollingmechanismsinvivo.nadditionitalsoremainsobscureowp53expreionmight contributetoitsfunctionalregulation.Inthisstudy，weestablishedbacterialartificialchromosometransgenicE.coli $\\beta$ galactosidase Z gene reporter mice to monitor $p 5 3$ expression in mouse tissues and identify important regulatory elements critical for the expression in vivo.We revealed preferentially high level of $p 5 3$ reporter expressions in the proliferating,but not the diferentiatedcompartmentsof themajorityoftissesduringdevelopmentandtissuehomeostasis.Inaddition,tumorsaswellas regenerating tissues in the $p 5 3$ reporter mice also expressed high level of $\\beta$ -gal.Furthermore,both the enhancer box sequence (CANNTG) in the $p 5 3$ promoter and the ${ \\pmb 3 } ^ { \\prime }$ terminal untranslated region element were critical in mediating the high-level expression ofthe reporter.We also provided evidence that cellular myelocytomatosis oncogene was a critical player regulating $p 5 3$ mRNA expression in proliferating cells and tissues.Finally,we found robust $\\mathsf { p } 5 3$ activation preferentially in the proliferating compartment of mouse tissues upon DNA damage and the proliferating cels exhibited an enhanced $p 5 3$ response as compared with cells in a quiescent state.Together, these results suggested a highly regulated expression pattern of $p 5 3$ in the proliferating compartment controlledbybothtranscriptionalandpostranscriptionalmechanisms,andsuchregulatedp53expressonmayimposefunctional significance upon stress by seting upaprecautionary mode in defense of cellular transformation and tumorigenesis. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cell Death and Disease (2015)6,e1878;doi:10.1038/cddis.2015.224;published online17 September 2015 p53，encoded by $p 5 3$ (also termed as TP53 gene or transformation related protein 53 gene (Trp53)),is one of the most important tumor suppressors.Constant degradation in normal embryos or tissues mediated by the E3-ligase activity of Mdm2 renders p53 protein difficult to be detected,'whereas Mdm4 mainly inhibits the transcriptional activity of p53.2 Repression of these two inhibitors by stress stimuli is the major posttranslational regulatory mechanism controlling p53 activityand stability.Once activated,p53 is able to mediate a plethora of responses including inhibition of cellular proliferation important for tumor suppression. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A number of studies demonstrated the importance of $p 5 3$ gene dosage and expression level in affecting its activityand the cellular responses.Apoptosis increased with p53 levels in cultured cells.4 In mice,additional 1-2 copies of wild type $p 5 3$ did not impact mouse development, growthand senescence, but significantly enhanced the sensitivity to $\\gamma$ -irradiationand strengthened the resistance to tumorigenesis.5 On the other hand, $p 5 3$ haploinsufficiency was observed in a variety of situations including tumorigenesis and stress responses.Both individualsharboring ap53 germline mutation inthe Li-Fraumeni families and $p 5 3$ heterozygous mice exhibited increased incidence of tumors,some of which apparently did not lose the wild-type allele.In some instances,p53 heterozygosity was able to rescue the lethal phenotype caused by deletion of Mdm2 or Mdm4,7again demonstrating a dosage dependent phenotype.In relevance to human breast cancer, methylations in CG rich region of $p 5 3$ promoter impaired its transcription and protein levels, and impaired expression of the transcriptional factor $H O X A5$ also decreased $p 5 3 \\mathsf { m R N A }$ level in the tumor tissues.9 All these implied the importance of $p 5 3$ expression and its regulatory mechanisms for stress responses and tumor suppression. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Early studies indicated a ubiquitous tissue expression pattern of p53 mRNA,1° consistent with p53's role as a tumor suppressor of tissues from different origins.However，the studies on distribution of $p 5 3 ~ { \\mathsf { m R N A } }$ in sub-tissue compartments have been scarceand scattered.Insitu hybridization found high-level $p 5 3$ mRNA expression during embryonic development11 and a striking p53 mRNA expression pattern in postnatal rat brain,with intensive signals in subventricular zone，rostral migratory stream and external granular layer (EGL),where new neurons were produced.12 In NlH3T3 cells, $p 5 3 \\mathsf { m R N A }$ level fluctuated with cell cycle progression.13,14 F9 cells,anembryonic carcinomastemcell line,expressed high levels of p53 mRNA，which dropped to low levels after induction of diferentiation.15,16Meanwhile，many fforts focused on identifying and analyzing the cis-elements and transacting factors important for $p 5 3$ expression.Cellular myelocytomatosisoncogene(c-yc),17NF-kappaB1819 E2F1,20C/EBPbeta,21EGR-1,22andEts $1 / 2 ^ { 2 3 }$ were among the many transcription factors shown to regulate $p 5 3$ promoter activity. Other studies also addressed the posttranscriptional regulatory mechanisms for p53 expression.Cis-elements including AU rich element, CPE (cytoplasmic polyadenylation element) and micro RNA-bindingsites were found present in $p 5 3 \\ 3 ^ { \\prime }$ terminal untranslated region (3UTR)and regulated reporter $p 5 3$ mRNA stabilityand/or translational efficiency in either a positive or negative manner.A recent study also found that ectopic human $p 5 3 5$ UTRand 3UTRin H1299 cells could bind each other through paired bases and strengthened translational efficiency of the reporter transcript upon DNA damage.24 However, the in vivo relevance,contribution and concerted nature of these regulations on p53 expression remain incompletelyunderstood. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Proliferation is the fundamental cellular process closely linked to development,homeostasis and cancer.There are evidence suggesting that fast proliferating cells are more sensitive to stresses and p53 activation.Conventional radiotherapyand chemotherapy often lead to severe side effects in cancer patients mainly affecting fast renewing tissues. Intriguingly,loss of Mdm2 ina $p 5 3$ hypomorphic background resulted in p53 stabilization preferentially in the proliferating compartments of the postnatal mice, leaving important clues about p53 basal expression.More works are needed to decipher or distinguish the underlying mechanisms influencing the p53 regulatory disparities. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,we established bacterial artificial chromosome (BAC) transgenic reportermice to model basal $p 5 3$ expression in intact tissues during development, homeostasis,regeneration and tumorigenesis.We also evaluated the role of $p 5 3$ promoter and 3UTR elements in governing p53 expression patterns. Our results clearly demonstrated a preferential highlevel expression of p53 reporter in the proliferating compartments of multiple tissues as dictated by the enhancer box sequence (E-box) and 3UTR regulatory elements.Importantly,we provided evidence that the regulationof basal level expression was closely correlated with the robustness of p53 response under stress conditions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Generation of BAC transgenic reporter mice in monitoring $\\pmb { p } \\pmb { 5 3 }$ expression.To probe p53 mRNA expression pattern in mouse tissues,we performed in situ hybridization (ISH) in skins of postnatal day1 mice, cerebellum of P7 mice and small intestine of mice at 2 months of age.p53 mRNA wasat highlevels inthe hairfollicleandbasal layerof the skin,EGL of the cerebellum and intestinal crypts (Figure 1a), which are actively proliferating;in contrast, p53 mRNAs were at much lower levels in supra basal layer of the skin,internal granular layer (IGL)of the cerebellum and villus of the small intestine (Figure 1a)，which belong to the differentiated compartments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To study $p 5 3$ gene expression pattrn more systematically, and to determine the regulatorymechanisms critical for basal $p 5 3$ expression in vivo, we established BAC transgenic mice in which a E.coli $\\beta$ -galactosidase Z gene (LacZ) reporter gene (with nuclear localization signal) followed by the p53 3UTR and simianvacuolating virus 40 polyadenylationsequences (SV40pA)was inserted immediately after the start codon (ATG)in the exon 2 of the BAC p53 gene locus. In addition, we disrupted a reported $\\mathsf { p } 5 3 ^ { \\Delta 1 5 7 }$ isoform with start codon in $p 5 3$ exon $5 ^ { 2 5 , 2 6 }$ with an enhanced green fluorescence protein (EGFP)-human growth hormone polyadenylation sequences cassette in the same transgenic construct.No obvious EGFP expression was detected,and thus was not further investigated in this study.This transgenic model was designated as p53Pzu (or PZU) to monitor basal $p 5 3$ expression by $\\beta$ -galactosidase( $\\mathbf { \\dot { \\boldsymbol { \\beta } } }$ -gal) activity in vivo (Figure 1b).To study the transcriptional control of $p 5 3$ expression,we focused on a previously identified conserved E-box-binding motif close to the transcriptional start site in $p 5 3$ promoter.17 Chromatin immunoprecipitation (ChiP）analysis demonstrated a direct binding of c-Myc on this E-box sequence in proliferating cells but not in quiescent cells (Supplementary Figure 1).To address the possible regulatory role of the E-box in the $p 5 3$ promoter, $p 5 3 ^ { P M Z U }$ (orPMZU)transgenicmice weresimilarly established as $p 5 3 ^ { P Z U }$ except for a mutated E-box in the BAC $p 5 3$ promoter from CACGTG to GGTGTG (Figure 1b). To assess the importance of $p 5 3 3$ UTRin the regulationof basal $p 5 3$ expression，we also established $p 5 3 ^ { P Z S }$ (or PZS) BAC transgenic mice in which the inserted LacZ reporter gene was followed only by the SV40pA to monitor the expression of $p 5 3$ without its own 3UTR sequence (Figure 1b).With X-gal incubation,all five lines of $P Z U$ embryos exhibited clearly visible $\\beta$ -gal staining, the level of which correlated with their corresponding transgenic BAC copy numbers (Figure 1c). Notably,all the embryos from transgenic lines of PMZU and $P Z S _ { \\mathrm { { ; } } }$ ,including the high copy number lines,exhibited severely diminished $\\beta$ -gal staining (Figure 1c).Comparisons of LacZ expressions in the skin,cerebellum and small intestine of the $P Z U$ mice with the p53 mRNA ISH revealed highly consistent patterns (Figure 1d)，validating our transgenic approach in monitoring endogenous p53 mRNA expression. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "High level of p53-LacZ reporter expression in the proliferating compartments of mouse tissues.To reveal $p 5 3$ expression pattern and levels in mouse tissues，we performed X-gal staining in tissues of PZUmice at postnatal day 7-8,2-3 months and 13-15 months of age,respectively. Intense $\\beta$ -gal staining was observed in multiple tissue compartments including germinal center of spleen,spermatogenous cells of seminiferous tubule in testis,dentate gyrus (DG)of hippocampus,islet of postnatal and adult pancreas, ependymocytes of choroid plexus，EGL of the postnatal cerebellum，renal tubule and glomerulus，and pulmonary alveoli (Figure 2a). In contrast, $\\beta$ -gal was expressedat low or undetectable levels in the differentiated cells toward the center of the seminiferous tubule,mature neurons outside the DG region in adult hippocampus，acinous cells in adult pancreas and the IGL of cerebellum (Figure 2a),which were all non-proliferating innature.Meanwhile,direct comparisons in the same tissues revealed that $\\beta$ -gal-staining intensities decreased when mice aged，especially in spleen,choroid plexus,kidney and lung (Figure 2a). Further, the whole mount X-gal staining on de-skinned mice also demonstrated attenuated $\\beta$ -gal expression in mouse muscle and skeleton with age (Supplementary Figure 2a).As few exceptions, the non-proliferating hepatocytes in the adult liver and purkinje cellsof thecerebellumalsodemonstrated detectable levelsof $\\beta$ -gal staining in the $P Z U$ mice (Figures 2a and d). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e87c7bb58d71e3d030a13fbbac86866d560181cf11645bb87615c7e49061ee3.jpg",
+        "img_caption": [
+            "Figure 1Generation and validation of BAC transgenic reporter mice to monitor $p 5 3$ expression.(a)In situ hybridization of p53 mRNA using sense and antisense probes on osatadi middle bottom panel. Scale bar $= 1 0 0 \\mu \\mathsf { m }$ fthe $p 5 3$ gene locus in the BAC and its modifications with the insertions of lacZ reporter in the ATG (exon 2) of fullength p53 and EGFP r together with alterations in the regulatory elements in three BAC transgenic lines.ChlP primers used for detecting wild-type E-box-b d WTR2);ChlP primers for detecting mutant E-box-binding in tissues and cells (F2, MutantR2). (c) $\\beta \\mathrm { \\cdot }$ gal staining $\\mathsf { E 1 0 . 5 }$ eporter lines with 1-4 BAC copies.Embryos were whole-mount stained in 1 mg/ml X-gal staining solution with ge $4 ^ { \\circ } \\mathsf { C }$ $\\mathsf { r } = 4 0 0 \\mu \\mathsf { m }$ (d)A comparison of p53 reporter expression in p7 skin,p7 cerebellm and 2-month-old mouse small intestine by $\\beta \\mathrm { \\cdot }$ gal staining with p53mRNA in situ hybridization.Scale bar $= 5 0 \\mu \\mathsf { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The preferential expressionsof $_ { p 5 3 - L a c Z }$ reporterin proliferating compartment of tissues were further evaluated in the hair follicles of mouse skin which undergo step-wise growing and quiescent cycles.There were abundant strong $\\beta$ -gal-staining positive cells at the anagen stage of the hair cycleat P20,but only fewat the quiescent telogen stage at P24 (Figure 2b).To study the link of proliferating or quiescent state with p53-LacZ expression,we performed X-gal staining in PZUMEFs either at proliferating or quiescent state.Upon withdraw of serum,proliferating MEFs gradually moved to a quiescent state.In parallel, PZUMEFs with high $\\beta$ -gal-staining intensity dropped from 46.2 to $2 . 6 \\%$ ,whereas cells with lowlevel $\\beta$ -gal increased from 18.7 to $6 8 . 3 \\%$ (Supplementary Figure 2b).Next,we performed double immunofluorescence of ki-67 and $\\beta$ -gal in cerebellum and small intestine of the p7 $P Z U$ mice. $\\beta$ -gal positive cells were largely overlapped with those of Ki67 positive proliferating cells,establishinga direct link between high $p 5 3$ -LacZexpression and cellular proliferating state in multiple tissue compartments (Figure 2c). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdd58ae230b682af513bd8af4ed7ba0f849bfe3491cd2798a4f7bef603a4be00.jpg",
+        "img_caption": [
+            "Figure2Preferential $p 5 3$ reporterexpresstpolfratingmpartntsuriseosatalvelottssometasiseationdi (a) $\\beta$ in PZUmice.Frozen slices of tissues were stained in 1 $\\mathsf { m g / m l }$ X-gal staining solution at $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 h ,$ except for3 h in testis.Scale bar $= 2 0 0 \\mu \\mathsf { m }$ (b) $\\beta$ -gal staining of skins at the anagen(p2O)ortelogen(p24)phaseofthehaircycleinPZUmice.Frozenslicesofskinswerestainedin1mg/mlX-galstainingsolutionat $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathsf { h }$ Boxed areas were shown in the right panel. Scale bar $= 2 0 0 \\mu \\mathsf { m }$ ：(c) Double immunofluorescence of $\\beta$ -gal and Ki67in p8 cerebellumand adult smallintestine of PZU mice.Scale ba $= 2 0 0 \\mu \\mathsf { m }$ (d) $\\beta$ -galstainingofliverbeforeand48hafterhepatotectomy.Frozenslicesofliverswerestainedin1mg/mlX-galstainingsolutionat $3 7 ^ { \\circ } \\mathsf { C }$ for7hin PZUmice.Boxed areas were shown in the right panel. Scale bar $= 2 0 0 \\mu \\mathrm { m }$ (e) $\\beta$ -gal staining of small intestine in PZU mice and polyps in PZU; $A \\bar { p } c ^ { m i n }$ mice "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similar to the self-renewal of homeostatic tissues,tissue repair and regeneration also features cellular proliferation. $\\beta$ -gal expressionwasexamined in the liverof PZUmiceunder hepatotectomy. In spite of the detectable basal level of $\\beta$ -gal staining,an enhanced $\\beta$ -gal expression was observed on the proliferation peakat $4 8 \\mathsf { h }$ (Figure 2d) as demonstrated by Ki67 staining (Supplementary Figure 2c)，paralleling the level of endogenous $p 5 3$ mRNA expression (Supplementary Figure 2d). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tumorigenesis is marked by uncontrolled proliferation.To study $p 5 3$ reporter expression during tumorigenesis,we crossed the $P Z U$ mice with $A p c ^ { m i n }$ mice with a mutation in the $_ { A p c }$ gene and studied $\\beta$ -gal expression in the adenomas developed in the small intestine of the PZU; $A p c ^ { m i n / + }$ mice. Most cells in these tumors expressed high levels of $\\beta$ -gal (Figure2e)， whichparalleledwithKi67immunostaining (Supplementary Figure 2e),whereas high levels of $\\beta$ -gal was only confined to the crypts in normal intestine (Figure 2e). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Collectively, high level of $\\beta$ -gal expression was specifically observed in the proliferating cell compartments ina variety of homeostatic or pathological contexts in the $P Z U$ mice, suggesting $p 5 3$ expression is highly regulated in the proliferating compartments. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "p53 reporter expression is controlled by both the $\\pmb { p } \\pmb { 5 3 }$ promoter E-box element and 3'UTR.With the E-boxmutated PMZU mice and 3UTR-deleted PZS mice，we addressed the respective roles of the conserved E-box and the p53 3UTR sequence on the enhanced reporter expressionin the proliferating cells duringdevelopment and homeostasis.Significantly diminished $\\beta$ -galstainingwasobserved inthe PMZU embryosas compared with the PZU embryos with the same BAC copy number (Figure 1c).At both P7-8 and 2-3 months of age, $\\beta$ -gal staining was all reduced in the PMZU mice as compared with the $P Z U$ mice in a panel of tissues examined，including spleen，testis， hippocampus, pancreas，choroid plexus，postnatal cerebellum，skin，lung and liver (Figures 3a and b).Immunohistochemistry (IHC) with $\\beta$ -gal antibodyalso revealed decreased $\\beta$ -gal expressions in the small intestine and bone marrow of the PMZU mice,whereas IHC of Ki67 remainedthesamebetween the PMZU and PZU mice (Figures 3c and d). Consistently, in the PMZU mice，the LacZ mRNA level normalized to that of endogenous $p 5 3$ also dropped by $5 0 \\mathrm { - } 7 3 \\%$ inembryos, postnatal and adult tissues as compared with those of the PZU mice (Figures 4a and b). These results indicated an important role of the E-box on p53-LacZ reporter expression in vivo. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cell cycle exit, reentry and progression can be manipulated in cell culture systems.p53 mRNA was elevated 8h after serum stimulation and reached its peak at $1 6 \\mathsf { h }$ ,paralleling cell cycle progression13.14 (Supplementary Figure 3). LacZmRNA from PZUMEFs also exhibited a similar elevation upon serum stimulation,whereas LacZ mRNA level from the PMZU mice remained unchanged (Figure 4c),again suggesting a role of E-box in coordinating cell cycle progression and $p 5 3$ expression.c-Myc is a major Leucine Zipper-bHLH transcription factor important in promoting proliferation and cell cycle progression in many types of cels.To study whether the reduction of $\\beta$ -gal expression in proliferating tissues of PMZU mice is due to the loss of binding of c-Myc or other transcriptional factors to the mutant E-box,ChlP assay was performed in developing embryos and adult intestine,as well as the non-proliferating adult liver in the PMZU mice containing both the wild-type E-box from the endogenous $p 5 3$ locus and the mutant E-box from the transgenic reporter. As expected,c-Myc could bind wild-type E-box in the endogenous $p 5 3$ promoter, but not the mutant E-box in transgenic $p 5 3$ promoter in the proliferating tissues of the PMZU mice (Figures 4d and e).However， litte c-Myc bindingwas observed on endogenous $p 5 3$ promoter in liver (Figure 4e). In contrast,upstream stimulatory factor-1 (USF-1)，another bHLH transcription factor, could bind the E-box in endogenous $p 5 3$ promoter but not the mutant E-box in liver of the PMZU mice (Figure 4e). Notably,no USF-1 binding to endogenous $p 5 3$ promoter in small intestine was observed (Figure 4e). These results suggested a differential binding of transcription factors to the $p 5 3$ E-box element in tissues.To reveal the functional significance of c-Myc binding in regulating p53 expression,specific Myc-Max dimerization inhibitor 10058-F4 was used to treat proliferating MEFs.10o58-F4 significantly impaired c-Myc binding on the wild-type E-box in both PMZU and PZU MEFs (Figure 4f) and decreased both LacZ mRNA expression and $\\beta$ -gal staining in PZUMEFs (Figures 4gand h). Furthermore,although 10o58-F4 treatment also resulted in decreased endogenous $p 5 3$ mRNA levels in both PZU and PMZUMEFs,it didnot further influence the levels of LacZ mRNA and $\\beta$ -gal staining in PMZUMEFs (Figures 4gand h). Together, these results indicated a significant role of c-Myc in upregulating $p 5 3$ reporter expression through the E-box element，suggesting that c-Myc may be one of the major transcriptional factors driving high level of p53 mRNA expression in proliferating cells. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with $P Z U$ mice, $P Z S$ mice lacking p53 3UTR exhibited no orvery low-level $\\beta$ -gal expressionvisible only in limb bud of the E10.5 embryos with 1-4 BAC copies (Figure 1c). In addition,no orvery weak $\\beta$ -gal stainingwas detected in multiple tissue compartments of the $P Z S$ micewith2or4BAC copies at both P7 (Figure 5a) and 2 months of age (Figure 5b). Only the PZS mice with 4 BAC copies exhibited weak $\\beta$ -gal staining in the spermatogenous cells of somniferous tubules in testis and dentate gyrus of hippocampus (Figures 5a and b). These results indicated an essential role of $p 5 3 \\ 3 \\mathsf { U T R }$ in supporting high level of $\\beta$ -gal expressions in the proliferating tissue compartments.Interestingly， in both embryos and a varietyof adult tissues examined, LacZmRNA levels of the PZS mice were not significantly different from those of the PZUmice (Supplementary Figure 4),indicating that p533UTR does not significantly influence LacZmRNA levels. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd1973a43b88ec5902b5e3f7a71d4a1166e70a3b9798ed854f90b6178bbb3327.jpg",
+        "img_caption": [
+            "Figurentiomotesliiefpeeesofratielmpard) $\\beta$ -gal staining of tissues at P7 (a) and 2 months (b) of age in PZUand PMZUmice.Scale bar $= 2 0 0 \\mu \\mathrm { m }$ (c and d) IHC of Ki67and $\\beta$ -gal on intestine and bone marrow from P7 (c) and 2-month-old (d) PZU and PMZU mice.Scale bar $= 2 0 0 \\mu \\mathrm { m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Finally, we directly compared the $\\beta$ -gal protein level in MEFs from the PZU,PMZU and $P Z S$ mice with two BAC copies Western blot analysis showed that $\\beta$ -gal level dropped by $> 5 0 \\%$ in PMZU MEF,and was almost undetectable in $P Z S$ MEFs (Figure 5c),consistent with the $\\beta$ -gal staining results in multiple tissues.These results further supported that $p 5 3$ E-box and 3UTR were critical in sustaining high-level expression of the reporter gene. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A functional link between cellular proliferating state and p53 response.Our findings that $p 5 3$ reporter expression was preferentially upregulated in proliferating cells suggested the possibility of a more robust p53 response upon stresses in proliferating cells compared with quiescent and differentiated cells.To directly explore the possible regulatory difference of p53in vivo,B6micewas eitheruntreated or treatedwith 6 Gray of X-irradiation and immunostained for p53 protein in multiple tissuecompartments.Consistent with previous results,p53 protein was undetectable in normal tissues from untreated mice (Figure 6a). In contrast,upon irradiation,p53 positive cells were readilydetected in EGL of cerebellum in the postnatal mice,and in the basal cells of tongue and intestine crypt of both postnatal and adult mice (Figure 6a).In contrast, there was weak or no p53 staining in the more differentiated cell compartments of these tissues,such as IGL of the adult cerebellum,villi of small intestinesand differentiated cellsin the tongue epithelium (Figure 6a).Double staining with p53 and5-Bromo-2-Deoxy Uridine(Brdu) antibodies further revealed that p53-positive-staining largely overlapped with that of Brdu in proliferating compartment of fast turn-over tissues including small intestine and testis (Figure 6b).Therefore,p53 protein was preferentially expressed in the proliferating tissue compartment upon induction，essentially recapitulatingits gene expression pattern. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd8f82f95a52069b1222a5be97998397c299c62703b250d718fcdaaa2f33439c.jpg",
+        "img_caption": [
+            "Figure 4Disrupting c-Myc binding on the conserved E-box in p53 promoter downregulated $p 5 3$ expression.(a) RT-PCR results of LacZ mRNA expression as normalized to p53NAeii PZUandPUcfestooUd same BAC copy number. (d) ChlP analysis on c-Myc binding on the endogenous $p 5 3$ promoter (wild-typeE-box)or $p 5 3$ promoterin transgenic BAC (mutant E-box)in the E11.5 embryo of the PMZUmice.(e) ChlP analysis on c-Myc and USF binding on the endogenous $p 5 3$ promoter(wild type E-box) or $p 5 3$ promoter in transgenic BAC (mutant E-box) in aiesi utantboad (wilyE normalized to $\\beta$ actin in MEFs fromPZUand PMZUmice under the treatmentof10058-F4for 8h. (h) $\\beta$ gal stainingof MEFsfrom the PZUand PMZUmice under the treatmentof 10058-F4 for10h.MEFs were stained in1 mg/ml X-gal staining solution at $3 7 ^ { \\circ } \\mathsf { C }$ for 10 h. Scale bar $= 2 0 0 \\mu \\mathsf { m }$ Valuesare means $\\pm { \\sf S } . \\sf E . M . s$ $^ { \\star } P < 0 . 0 5$ 元 $^ { \\star \\star } P < 0 . 0 1$ $^ { \\star \\star \\star } P _ { < 0 . 0 0 1 }$ （20 (t-test) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7afee6f4a5501c6a8c5f5347c3397fa1fc8a6b159cfc828d6aa582b0c4f00f5b.jpg",
+        "img_caption": [
+            "Figure5p533UTR was essential insupporting high level of $\\mathsf { p } 5 3$ reporter expression. (a) $\\beta$ -gal staining of multiple tissues including spleen,testis,dentate gyrus,pancreas, chrodpleu $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathsf { h }$ except for 3h for testis.Scale bar $= 2 0 0 \\mu \\mathsf { m } .$ (b) $\\beta$ gastainngofstiatedi in 2-month-old PZU and PZS mice.Slices of frozen tissues were stained in1 mg/ml X-gal staining solution at $3 7 ^ { \\circ } \\mathsf { C }$ for $1 0 \\mathsf { h }$ ,except for3h for testis.Scale bar $= 2 0 0 \\mu \\mathsf { m }$ (c)Western blot analysis of $\\beta \\mathrm { \\cdot }$ -gal expression in MEFs from PZU,PMZU and PZS mice with the two copies of transgenic BAC "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/502d3608195fe6bb2e12471f0fdd87dfc3c264b0943a517f3213165773a398c9.jpg",
+        "img_caption": [
+            "Figeii C57BL/6Jcontrol mice or mice treated with X-irradiation for4h.Arrows depicted positive stained cels.Scale bar $= 2 0 0 \\mu \\mathsf { m }$ ：(b) Double immunostaining of p53 and BrdU in t treated with Doxorubicin.(d) Western blot analysis of $\\mathsf { p } 5 3$ andp21 expressononquiescentand proliferating MEFstreated with Cisplatin.(e)Immunofluorescenceofp53orp21in quiescent and proliferating MEFs treated with Cisplatin or Doxorubicin.Scale bar $= 2 0 0 \\mu \\mathsf { m }$ （204 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To directly analyze p53 functional differences in cellsat different proliferating state，quiescent and proliferating cells were treated with either Doxorubicin or Cisplatin.p53 protein was undetectable regardless of the cell cycle status in untreated controls (Figures 6c and d)． However，upon treatment, p53 as well as its transcriptional target gene p21 wasmuch more greatly elevated in the cycling cells (Figures 6c and d). Immunofluorescence on MEFs treated with Cisplatinalso demonstrated muchmore elevated level of p53 activation and response in the cycling cells (Figure 6e). Thus, the concordant elevation in $p 5 3$ expressionmayprovide onepossible functional basis for robust p53 responses selectively in the proliferating compartments upon stress. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The regulatoryand functional mechanisms of p53 have been under intensive investigations atmolecular，cellularand organismal levels to better understand its roles in tumor suppression and stress responses.Aiming to study $p 5 3$ expression pattern and regulatory mechanisms both under physiological contexts and in a comprehensive manner,we established an in vivo reporter system in BAC transgenic mice that were able to recapitulate endogenous p53 mRNA expressionand identified a highly selective expression pattern for the reporter across diverse tissue compartments in both physiological and pathological conditions.We provided further evidence suggesting that the preferential expression of the reporter in proliferating compartments is critically dependent on both $p 5 3$ promoterand 3UTR elements through transcriptional or posttranscriptional mechanisms.In addition，this studyalso revealeda distinctive functional difference of p53 in proliferating compartmentsversus their differentiatedor quiescent counterpartsuponstress. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Previous studies on $p 5 3$ mRNA expression and promoter analyses provided a number of relatively separated clues on $p 5 3$ expression regulation in general and a few of themwere implicated in proliferating cells.However, to our knowledge, there is no commonly recognized theme for $p 5 3$ expression patterninvivoand the importanceand relevance remainedto be further established for many of the cis-elements and transacting factors identified in regulating $p 5 3$ expression. Here we took a transgenic approach in integrating different lines of studies and shed new insights on $p 5 3$ expression and itsregulatory mechanisms in a diverse set of conditions in vivo. Our results corroborated the existing results and argued strongly fora unified and distinctive expression pattern for p53 in vivo. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "It becomes increasingly apparent that the studies on the regulatory mechanisms of gene expression can be better oriented and more meaningful with a clear understanding of the expression pattern of the gene.As an immediate early gene， $c$ -Mycisinducedearlierthan $p 5 3$ mRNA accumulation17.27and its mRNA level paralels with $p 5 3$ mRNA level in cellines.14.28 Ectopic c-Myc or N-Myc was able to trans-activate reporters driven by an E-box from the $p 5 3$ promoter in 3T3 and neuroblastoma cells.17.29 In an effort todeciphertherequirementsof $p 5 3$ expression in vivo,we found the E-box element in the $p 5 3$ promoter and its binding by c-Myc contributed significantly to high-level expression of $p 5 3$ reporters in the proliferating compartments.Notably，as regulators of cell cycle or proliferation，E2F1,2o C/EBP beta,21EGR- $\\cdot 1 ^ { 2 2 }$ and Ets- $1 / \\dot { 2 } ^ { 2 3 }$ were also implicated in regulating $p 5 3$ expression. In PMZU mice with high BAC copy numbers,weak $\\beta$ -gal staining was still detected in the proliferatingcompartments of tissues.Inaddition,thevariations in the degree of reduction of lacZexpression in the PMZU miceof differentagesalsosuggestedadifferential dependence on the E-box regulation.Thus, the strength of Myc activity, together with the contribution of other factors may help to coordinate $p 5 3$ expression levelswith the cellularproliferation state in multiple tissue compartments. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In spite of the dominant $p 5 3$ reporter expression pattern identified in the vast majority of tissues examined,there were a few exceptions including the purkinje cells and hepatocytes with detectable levels of $\\beta$ -gal stainingwhilebeing largely quiescent. Interestingly, the E-box mutation also abrogated the reporter expression in liver. Our ChIP analysis suggested that the moderate reporter expression in liver may be regulated by USF-1，which is known to be expressed in liver.30,31 When the hepatocytesreentered thecellcycle,a strong increase in $\\beta$ -gal expression suggested that these cells were still subjected to the regulatory mechanisms distinguishing proliferating and quiescent states. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Replacementof $p 5 3$ 3'UTR with a commonly used SV40pA greatly reduced $p 5 3$ reporter expression in the proliferating compartments,suggesting a general role of the 3UTR as a positive regulatory elements in supporting p53 expression. RNA-binding factors such as HuR,32 Wig1,33 CPEB,34 and certain miRNAs were reported to regulate mRNA stabilityand/ or translational efficiency by directly binding on cis-elements in p53 3UTR.25,26,35 Although HuR and Wig1 could stabilize reporter mRNA and/or strengthen its translational efficiency upon DNA damage stress，CPEB did not significantly influence $p 5 3$ mRNA level，but instead regulated the p53 mRNA polyA length and protein level through translation.4 In ourstudy,reportermRNA levelswerenotsignificantlyaltered in the PZS mice,thus pointing to the possible translational control in mediating the high-level expression mediated by the 3UTR sequences. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our results suggested concerted effects of both transcriptional and posttranscriptional regulations in supporting the selective $p 5 3$ expression pattern in proliferating compartments.Known to be anti-proliferative,p53 protein is kept to undetectable levels in normal cells.However, this could also obscure many possible links between p53 expression and its function.For example,proliferative tissues are often more radiosensitive,36,37 and while complex mechanisms may underliesuchphenomenon,heightened $p 5 3$ basal expression may have a role.Through genetic deletion of Mdm2 in a $p 5 3$ hypomorphic background,we previously discovered that p53 protein stabilization and accumulation only appeared in the proliferating compartments of mice, a pattern fully recapitulated in the p53 reporter mice in this study.Herewe demonstrated that DNA damage elicited a greater p53 response in the proliferating cells.Therefore,the posttranslational controls seem to act possibly in sequence with the transcriptional and posttranscriptional mechanisms in finetuning p53 activity in a variety of cell types depending on their proliferative and differentiation status. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Insummary, this study took a genetic approach to address the long existing question of $p 5 3$ expression and revealed novel insights suggesting a general intrinsic mechanism for upregulating $p 5 3$ in proliferating cells and tissues.Linking to p53 function, the potential advantage and significance for such regulation at the expression level can be several folds:first, higher basal level of p53would allowa fastand robust protein stabilization/activation and stress response upon stress；on the other hand,a retarded or weak p53 response may protect the cells from apoptosis in the terminally differentiated cells and reduce tissue damage；finally，the switches of cell proliferative state or fate constantly occur for stem cells and progenitors during homeostasis.The coordinated control of $p 5 3$ expression may allow the uninterrupted monitoring of proliferation to fulfill its tumor suppressor functions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As one of the most fundamental cellular processes, cellular proliferation and itsregulation are an integralpart of development, tissue homeostasis,tissue regeneration and tumorigenesis.Close monitoring of this process by a tumor suppressor controlled at multiple levels may set upa precautionary mode in the cells without causing much disturbance. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MaterialsandMethods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mice.Mice were bred and maintained under specific pathogen-free conditions and experiments were conducted in accordance with the Institutional Animal Care and Use Committee at the animal facility of Model Animal Research Center of Nanjing University, China. $p 5 3 ^ { P Z U }$ (PZU), $p 5 3 ^ { P M Z U } ( P M Z U )$ and $p 5 3 ^ { P Z S } ( P Z S )$ mice were established on C57BL/6J and CBA mixed background and were backcrossed to C57BL/6J background forthreegenerations.PZUmice were crossed to C57BL/6J- $A p c ^ { \\mathsf { M i n / + } }$ mice obtained from JacksonLaboratoryBararborMUSA)toetablisZU $A p c ^ { \\mathsf { M i n / + } }$ mice. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In situ hybridization.Tissues were quickly immersed into cold $4 \\%$ PFA solution for $1 - 2 h$ ，dehydrated with $3 0 \\%$ sucrose in PBS $\\left( \\mathsf { p H 7 . 4 } \\right)$ at $4 ^ { \\circ } \\mathsf { C }$ overnight, embedded in OCTand cut into $1 2 \\mu \\mathsf { m }$ slices,then sobbed onto slides covered by APES (amino-propyl-tri-ethoxy-silane) and dehydrated at $5 0 ^ { \\circ } \\mathsf { C }$ for 2 min and at RT in air for2h,and then preserved in $\\angle B = 8 0 ^ { \\circ } \\mathsf { C }$ or treated immediately with a $4 7 9 6 0$ biotin-tagged $p 5 3$ mRNA sense or antisense probe.Slices were hybridized overnightat $6 5 ^ { \\circ } \\mathsf { C }$ 1 $7 0 ^ { \\circ } \\mathsf { C }$ for small intestine) with the $p 5 3$ RNA probe;after washed with gradient SSC solution,slices were incubated at $4 ^ { \\circ } \\mathsf { C }$ overnight with rabbit polyclonal antibody tagged with alkaline phosphatase (Roche，Tucson,AZ,USA; 1:500)against biotin; signals were developed with NBT/BCIP solution(Roche),and imaged bya bio-microscope (OLYMPUS,Tokyo,Japan).Probeswere generated usingan in vitro transcription kit (Roche).Primers to generate template for probes: 5'-AGTTCATTGGGACCATCCTGG-3(F), 5'-CGTGCACATAACAGACTTGGC-3(R). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Generation of BAC transgenic mice.p53 BAC (No.bMQ-441J16, Research Genetics, USA) was modified by homologous recombination to insert a LacZ reporter gene (from placZattB3) together with various alterations of $p 5 3$ cisregulatoryelementstoestablish $p 5 3 ^ { \\bar { P } Z U }$ $\\overline { { p 5 3 } } ^ { P M Z U }$ and $p 5 3 ^ { P Z S }$ reporter constructs. The loxp and loxp511 sequences in the BACe3.6 backbone were then replaced with Amp and Kan prokaryotic expression cassette.The final BAC constructs were purified by Nucleo Bond max100 BAC extraction kit (MACHERERY-NAGEL, Düren, Germany),and were verified via sequencing and restriction enzyme mapping. BAC DNA was diluted to $1 . 0 \\mathsf { n g } / \\mu |$ in microinjection buffer,and 1 pl DNA was injected into pronucleus of the fertilized mouse egg from CBA/C57BL/6Jcrosses,as previously described.39 BAC transgenic copy number was estimated by comparing the photo density of bands representing $p 5 3$ reporter transgene to those representing endogenous p53 allele as identified in Southern blotanalysis. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb { x }$ -gal staining. Embryos or tissues were fixed with cold $4 \\%$ PFA for $1 . 5 h$ on ice.Embryos were stained in1 mg/ml X-gal staining solution with gentle shaking for $2 4 \\mathsf { h }$ at $4 ^ { \\circ } \\mathsf { C }$ Tissues were dehydrated,embedded in OCTand cut into $1 0 \\mu \\mathsf { m }$ slices, which were stained in 1 mg/ml X-gal staining solution for $3 - 1 0 \\mathsf { h }$ at either 25 or $3 7 ^ { \\circ } \\mathsf { C }$ (for comparing $\\beta$ -gal expression levels,staining conditions and time should be consistent between samples).X-gal staining for cells was similaras that for tissues slices except the fixation step:after washed with cold $1 \\times P B \\mathsf { S }$ ,cells were fixed with $0 . 2 5 \\%$ glutaraldehyde in $1 \\times P B \\mathsf { S }$ for 5 min as described.40 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "IHC and immunofluorecence.Tissues were dissected and fixed in cold $4 \\%$ PFA over night at $4 ^ { \\circ } \\mathsf C ,$ dehydrated by gradient alcohol (from 50 to $1 0 0 \\%$ ,rendered transparent in xylol and embedded in parafin,then cut ina microtome to slices of $6 \\mu \\mathsf { m }$ in thicknessand affixed onto the APES coated slides.After deparaffinized and rehydrated,slices were performed with heat-induced epitope retrieval in sodium citrate $( \\mathsf { p H } 6 . 0 )$ ,blocked with normal goat serum block solution (Boster,Wuhan, China)for $1 \\ h$ at room temperature.For IHC,slices were incubated with rabbit polyclonal antibodyagainst $\\beta$ -gal (Invitrogen, Shanghai, China; A11131,1:200),rat monoclonal antibody against Ki67(Dako,Glostrup,Denmark；1:10o)or rabbit polyclonal antibody against p53 (Vector,Burlingame,CA,USA; CM5,1: 500) for 18- $2 2 \\mathsf { h }$ at $4 ^ { \\circ } \\mathsf { C }$ $\\beta$ -gal orp53 was detected using Ultra Sensitive S-P (rabbit) kit (MaiXinBio,Fuzhou, China); Ki67 was incubated with the biotin-tagged goat anti-rat secondaryantibody(Jackson,West Grove,PA,USA;1:30O) for1hat RT,then incubated with avidin-tagged horseradish peroxidase.All signals were developed withDABagents(MaiXinBio) and thenstainedwithhematoxylin. For immunofluorecence analysis, slices were incubated with chicken polyclonal antibodyagainst $\\beta$ -gal (Abcam，Cambridge，MA,USA;ab9361,1:200)and rat monoclonal antibody against Ki67 (Dako,1:100) for $1 8 - 2 2 h$ at $4 ^ { \\circ } \\mathsf C ,$ and then were incubated with the Cy3-tagged goat anti-chicken (Jackson,1:500),FITC-tagged goat anti-rat antibodies (Jackson,1:5oo) and the nucleus was stained with Hoechst (Sigma,St.Louis,MO, USA) for an hour at room temperature.Signals were imaged by either a bio-or confocal microscope (OLYMPUS). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ChIP analysis.For NlH3T3 cels: to make cels in a proliferating state, $2 . 2 \\times 1 0 ^ { 6 }$ NIH3T3 cells were cultured in $1 0 - 0 m$ dish with $2 0 \\%$ fetal bovine serum (FBS) in DMEM for $1 2 \\mathsf { h }$ To make cells in a quiescent state, $2 . 2 \\times 1 0 ^ { 6 }$ NIH3T3 cells were cultured in 10-cm dish with $1 0 \\%$ FBS in DMEM until cells reached $8 0 - 9 0 \\%$ confluency; then cells were cultured with $0 . 0 5 \\%$ FBS in DMEM for next $7 2 \\mathsf { h }$ Cells werecollected，sonicated and ChlP analysiswas performed according to manufacturer's instructions (Upstates）with Rabbit polyclonal antibody against c-Myc (Santa Cruz,Santa Cruz,CA,USA; $S C - 7 6 4 x$ orRabbit $1 9 6$ (Santa Cruz, Sc2763).Primersequencesused:5'-CAGCTTTGTGCCAGGAGTCT-3(F1), $5 ^ { \\prime } { \\mathrm { . } }$ TAACTGTAGTCGCTACCTAC-3(R1).For embryo and tissues: CHIPwas performed as described41 with modifications on sonication: sonication for 1s and pause for 2 s with the total time being 1 min for smallintestine,6 min for liver, and two $3 . 8 \\mathsf { m i n }$ for embryos.For MEFs:CHIP was performed similarlyas 3T3 cells with afew diferences:early passage MEFs from PZUor PMZUmicewere plated on10- cm dish at $1 . 5 \\times 1 0 ^ { 6 }$ density and cultured in $0 . 1 \\%$ FBS in DMEM for $7 - 8 h ,$ then cultured with $2 0 \\%$ FBS in DMEM for 6h.10058-F4 (Sigma) was added to the medium at a final concentration of $1 8 0 \\mu \\mathsf { M } .$ and MEFS were cultured for another 6 h and was sonicated for $4 . 8 \\mathsf { m i n }$ with sonication for 1s,pause for 2 s. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Primers used for embryo，tissues and MEFs:wild type E-box, $5 \\%$ ACTTT TCACAAAGCGTTCCT-3 (F2), $5 ^ { \\prime }$ -TTAGCCAGGGTGAGCACGTG-3'(WTR2); mutant E-box，5'-ACTTTTCACAAAGCGTTCCT-3'(F2), $5 ^ { \\prime }$ -TTAGCCAGGGTGAGCACACC -3'(MutantR2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "RNA and real time PCR.Total RNA samples were isolated using TRlzol (Invitrogen) and were reverse transcribed to cDNA using M-MLV Reverse Transcription kit (Invitrogen) following manufacturer's instructions.Diluted cDNAs were used for Real Time PCR with SYBR Green reagents (Invitrogen) on an ABl Prism Step-One bioanalyzer (Foster City, CA,USA).Sequences of primersare available upon request. Expression datawere normalized to $\\beta$ -actinmRNA，18s rRNA orendogeneous p53 mRNA expression.Expression changes were calculated using the △△Ct method and expressedas fold change over control.Experimentswere repeated three timeswith similar results. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Western blotting.MEFs and 3T3 cels were lysed in RIPA buffer supplemented with complete Protease Inhibitor Cocktail Tablets (Roche).The membrane was incubated with anti- p53 (Vector,CM5,1:200),anti-p21 (Santa Cruz,M19,1:20o),and appropriate secondaryantibody (Pierce,Rockford,IL,USA; 1:2000) sequentially.Protein detection was performed using the ECL substrate (Thermo,Rockford,IL,USA) before exposure to film. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "X-raytreatment.Mice were exposed to X-ray irradiationat 6Gy dosage at a rateof $1 . 2 G y$ perminute using Biological X-ray irradiator (RS2ooo,Rad Source, Brentwood,TN,USA).Tissues were collected 4h after X-ray irradiation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.Data are expressed as mean $\\pm \\mathsf { S . E . M }$ from triplicates. Statistical analyseswere carried out using GraphPad Prism5 software (GraphPad Software，La Jolla,CA,USA) and t-test analysis was performed between two groups. All P-values $< 0 . 0 5$ were considered statistically significant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Conflict of Interest ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements.We thank NRCMM mouse facility for assistance in generating the BAC transgenic mice.This work was supported by grants from Natural Science Foundation of China (30871265,31171305) to GL. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.MacCallum DE,Hupp TR,Midgley CA,Stuart D,CampbellSJ,Harper Aetal.The p53 response to ionising radiation in adult and developing murine tissues. Oncogene 1996;13:2575. 2.Francoz S,FromentP,Bogaerts S,De Clercq S,Maetens M,Doumont G et al.Mdm4 and Mdm2 cooperate to inhibit p53 activity in proliferating and quiescent cells in vivo.Proc Natl Acad Sci USA 2006;103:3232-3237.   \n3.Cheng Q,Chen J.Mechanism of p53 stabilization by ATM after DNA damage.Cell Cycle 2010; 9: 472.   \n4.Shaw P,Bovey R,TardyS,Sahli R,Sordat B,Costa J.Induction of apoptosis bywild-type p53 ina human colon tumor-derived celline.Proc Natl Acad Sci USA 1992;89: 4495. 5.Garcia-Cao I,Garcia-Cao M,Martin-CaballeroJ,CriadoLM,KlattP,FloresJMetal.'Super p53'mice exhibit enhanced DNA damage response,are tumor resistant and age normaly. EMBO J2002;21: 6225-6235.   \n6.Liu G,Terzian T,Xiong S,Van Pelt CS,Audiffred A,Box NF et al.The p53-Mdm2 network in progenitor cell expansion during mouse postnatal development.J Pathol 2Oo7；213: 360-368. 7.Garcia D,Warr MR,Martins CP, Brown SwigartL,Passegué E,Evan GI.Validation of MdmX asa therapeutic target for reactivating p53 in tumors. Genes Dev 2011;25:1746. 8.Kang JH,KimSJ,Noh DY,Park IA,Choe KJ,Yoo OJ etal.Methylation in the p53 promoter is a supplementary route to breast carcinogenesis: correlation between CpG methylation in the p53 promoterand the mutation of thep53 gene in the progression from ductal carcinoma in situ to invasive ductal carcinoma. Lab Invest 2001;81: 573-579. 9.Raman V,Martensen SA,Reisman D,Evron E,Odenwald WF,Jaffee E et al.Compromised HOXA5 function can limit p53 expression in human breast tumours.Nature 2000;405: 974-978.   \n10.Rogel A,Popliker M,Webb C,Oren M.p53 cellular tumor antigen: analysis of mRNA levels in normal adult tissues,embryos,and tumors.Mol Cell Biol 1985;5:2851-2855.   \n11.Schmid P,Lorenz A，Hameister H,Montenarh M.Expresson of p53 during mouse embryogenesis.Development 1991;113:857-865.   \n12.Lookeren Campagne MV,Gill R.Tumor-suppressor p53 is expressed in proliferating and newly formed neurons of the embryonic and postnatal rat brain: Comparison with expression of the cellcycle regulators p21Waf1/Cip1,p27Kip1,p57Kip2,p16lnk4a,cyclin G1,and the proto-oncogene bax.J Comp Neurol 1998;397:181-198.   \n13.Reich NC，Levine AJ.Growth regulation of a celular tumour antigen，p53，in nontransformed cells.Nature 1984;308:199-201.   \n14.Boggs K,Reisman D.Increased p53 transcription prior to DNA synthesis is regulated through a novel regulatory element within the p53 promoter. Oncogene 2006;25: 555-565.   \n15.Dony C,Kessel M,Gruss P.Post-transcriptional control of myc and p53 expression during diferentiation of the embryonal carcinoma celline F9.Nature 1985;317:636-639.   \n16.Reich N, Oren M,Levine A.Two distinct mechanisms regulate the levels of a celular tumor antigen,p53.Mol Cell Biol 1983;3:2143.   \n17.Reisman D,Elkind N,Roy B, Beamon J,Rotter V.c-Myc trans-activates the p53 promoter through a required downstream CACGTG motif. Cell Growth Differ 1993;4:57.   \n18.Qin ZH,Chen RW,Wang Y,Nakai M,Chuang DM,Chase TNetal.Nuclearfactor kB nuclear translocation upregulates c-Myc and p53 expression during NMDA receptor-mediated apoptosis in rat striatum.JNeurosci 1999;19:4023-4033.   \n19.Hellin AC,Calmant P,Gielen J, Bours V,Mervill MP.Nuclear factor-kappaB-dependent regulation of p53 gene expression induced bydaunomycin genotoxic drug.Oncogene1998; 16: 1187.   \n20.Choi M,Lee H,Rho HM.E2F1 activates the human p53 promoter and overcomes the repressive effect of hepatitis B viralXprotein (Hbx) on the p53 promoter.IUBMB Life 2002; 53: 309-317.   \n21.Boggs K,Reisman D. ${ \\mathsf { C } } / { \\mathsf { E B P \\beta } }$ participates in regulating transcription of the p53 gene in response to mitogen stimulation.JBiol Chem 2007;282:7982.   \n22.Liu J,Grogan L,Nau MM,Alegra CJ,Chu E,Wright JJ et al.Physical interaction between p53 and primary response gene Egr-1.Int JOnco/ 2001;18:863.   \n23.VenanzoniMC,Robinson LR,Hodge DR,Kolal,SethA.ETS1andETS2inp53 regulation: spatial separation of ETS binding sites (EBS) modulate protein: DNA interaction.Oncogene 1996; 12: 1199.   \n24.Chen J,Kastan MB.5'-3'-UTRinteractionsregulatep53mRNA translationandprovidea target for modulating p53 induction after DNA damage.Genes Dev 2010; 24: 2146-2156.   \n25.Tian S, Huang S,Wu S,Guo W,Li J, HeX.MicroRNA-1285 inhibits the expression of p53 by directly targeting its ${ \\mathfrak { z } } ^ { \\prime }$ untranslated region. Biochem Biophys Res Commun 2010;396: 435-439.   \n26.Swarbrick A,Woods SL,Shaw A,Balakrishnan A,Phua Y,Nguyen Aet al. miR-380-5p represses p53 to control celular survival and is associated with poor outcome in MYCNamplified neuroblastoma. Nat Med 2010;16:1134-1140.   \n27.Thompson NL，Mead JE，Braun L，Goyette M，Shank PR，Fausto N.Sequential protooncogene expression during rat liver regeneration. Cancer Res 1986;46: 3111.   \n28.RoyBoJintEeisDactitiooftheuor gene by c-Myc/Max contributes to elevated mutant p53 expression in some tumors.Mol Cel Biol 1994;14: 7805-7815.   \n29.Chen L,Iraci N,Gherardi S,Gamble LD,Wood KM,Perini G et al.p53 is a direct transcriptional target of MYCN in neuroblastoma. Cancer Res 2010;70:1377.   \n30.Casado M,ValletVS,KahnA,Vaulont S.Essential role in vivo of upstream stimulatory factors foranormal dietary response of the fatyacid synthase gene in the liver.JBiol Chem 1999;274:2009-2013.   \n31.Gregor PD,Sawadogo M,Roeder RG.The adenovirus major late transcription factor USF is a member of the helix-loop-helix group of regulatory proteins and binds to DNA as a dimer. Genes Dev 1990;4: 1730-1740.   \n32.Mazan-MamczarzK,Galban S,Lopezde Silanes I,Martindale JL,Atasoy U,Keene JD et al. RNA-binding protein HuR enhances p53 translation in response to ultraviolet ightirradiation. Proc Natl Acad Sci USA 2003;100:8354.   \n33.ViborgA,Gahder JA,Wilhelm MT,Bersani C,Corcoran M,Mahmoudi Setal.The p53 target Wig-1 regulates p53 mRNA stability through an AU-rich element.Proc Natl Acad Sci 2009;106:15756-15761.   \n34.Burns DM,RichterJD.CPEBregulationof human cellarsenescence,energy metabolism, and p53 mRNA translation. Genes Dev 2008;22:3449.   \n35.Le MTN,Teh C,Shyh-Chang N,Xie H,Zhou B,Korzh Vetal. MicroRNA-125b is a novel negative regulator of p53.Genes Dev 2009;23:862.   \n36.Helstrom NAK,Bjork-ErikssonT,Blomgren K,Kuhn,HG.Diferentialrecoveryof neural stemcellsin thesubventricular zoneanddentate gyrusafterionizing radiation.StemCells 2009; 27: 634-641.   \n37.Tada E,ParentJ,LowensteinD,ike J.X-iradiationcausesaprolongedreductioninell proliferation in the dentate gyrus of adult rats.Neuroscience 20oo;99:33-41.   \n38.LibermanLMStathopoulosA.Designflexibilitincis-regulatorycontrolofgeneexpesion synthetic and comparative evidence.Dev Biol 2009;327: 578-589.   \n39.Chandler KJ,Chandler RL,Broeckelmann EM, Hou Y, Southard-Smith EM, Mortlock DP. Relevance of BAC transgene copy number in mice: transgene copy number variation across multiple transgenic lines and correlations with transgene integrity and expression.Mamm Genome 2007;18: 693-708.   \n40.Zuk PA,ZhuM, Mizuno H,Huang J,FutrellJW,Katz AJetal.Multilineage cell from human adipose tissue: implications forcel-based therapies.Tissue Eng 20o1;7:211-228.   \n41.Feng D,Liu T,Sun Z,Bugge A,Mullican SE，Alenghat T et al.A circadian rhythm orchestrated by histone deacetylase 3 controls hepatic lipid metabolism. Science 2011;331: 1315-1319. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cell Death and Disease is an open-access journal published by Nature Publishing Group.This work is licensed under a Creative Commons Attribution 4.O International License.The images or other third party material in this article are included in the article's Creative Commons license,unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

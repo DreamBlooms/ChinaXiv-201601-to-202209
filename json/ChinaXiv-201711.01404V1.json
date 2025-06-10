@@ -1,0 +1,393 @@
+[
+    {
+        "type": "text",
+        "text": "复合微生态制剂对断奶仔猪生长性能、血清生化和免疫指标及粪便中挥发性脂肪酸含量的影",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "响 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "金三俊 董佳琦\\* 任红立 汪晶晶 高鹏辉 刁新平\\*\\*（东北农业大学动物科学技术学院，哈尔滨150030)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究复合微生态制剂对断奶仔猪生长性能、血清生化和免疫指标及粪便中挥发性脂肪酸含量的影响。采用240头（ $1 0 . 0 { \\pm } 0 . 3 \\$ ） $\\mathbf { k g }$ 的断奶仔猪（公母各占1/2），随机分成4个组，每组6个重复，每个重复10头猪。Ⅰ组（对照组）饲喂基础饲粮（含 $1 \\%$ 吉他霉素和 $2 \\%$ 抗敌素），Ⅱ组、I组和IV组分别在基础饲粮中每天每头仔猪添加50、100和 $1 5 0 ~ \\mathrm { m L }$ 复合微生态制剂。试验预试期5d，正试期 $2 8 \\mathrm { d }$ 。于试验第1天和第 28天仔猪前腔静脉采血，检测血清生化和免疫指标，并分别收集断奶仔猪直肠内容物，检测粪便中挥发性脂肪酸的含量。结果表明：1)与对照组相比，IⅡ组断奶仔猪平均日增重显著提高了 $2 3 . 5 3 \\%$ （ $\\cdot < 0 . 0 5$ ），料重比显著降低了 $1 5 . 8 6 \\%$ ( $\\scriptstyle P < 0 . 0 5$ ），腹泻率降低了 $4 7 . 1 6 \\%$ （ $\\cdot P { > } 0 . 0 5$ ）。2）试验第1天，各组之间血清生化和免疫指标差异不显著（ $( P { > } 0 . 0 5 )$ ），试验组断奶仔猪粪便中挥发性脂肪酸的含量高于对照组；3）试验第 28天，II组断奶仔猪血清中碱性磷酸酶和谷草转氨酶活性高于对照组（ $\\cdot P { > } 0 . 0 5 )$ ，血清中葡萄糖、总蛋白、白蛋白和球蛋白含量高于对照组（ $\\cdot P { > } 0 . 0 5$ ），而血清中尿素氮的含量较对照组降低了 $1 8 . 2 7 \\%$ ( $\\cdot P { > } 0 . 0 5$ ）；与对照组相比， $\\mathrm { I I }$ 组粪便中乙酸、丙酸和丁酸含量分别增加了 $2 1 . 0 3 \\%$ ( $P { > } 0 . 0 5$ ）、 $4 1 . 0 8 \\%$ ( $P >$ 0.05）和 $7 7 . 8 4 \\%$ ( $\\scriptstyle P < 0 . 0 5 .$ ）。由此可见，在饲粮中每天每头猪添加 $5 0 ~ \\mathrm { m L }$ 复合微生态制剂可提高断奶仔猪的生长性能，降低腹泻率，增强机体免疫功能并增加粪便中挥发性脂肪酸的含量。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词:复合微生态制剂；断奶仔猪；生长性能；血清生化指标；挥发性脂肪酸中图分类号：S816.7",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "现代化养殖集约化管理极易引起动物肠道微生物菌群体系失调，这会引起动物机体消化不良，阻碍动物的生长，增加动物的生长成本[]。饲喂抗生素可影响肠道微生物初期在宿主体内的定植，从而起到促生长作用[]。将抗生素作为饲料添加剂能够较好的提高经济效益，而抗生素的大量应用会伴随许多负面效应，主要表现为抗生素在畜产品中残留，这使人类的健康受到潜在性的危害，并且可能增加畜产品中的微生物对抗生素的耐药性。研究发现，益生菌可替代抗生素在仔猪上的应用，并提高仔猪采食量、生长性能和免疫功能，促进肠道益生菌的生长，并抑制有害菌的生长[3-5]。因此，本研究通过在饲粮中添加不同比例复合微生态制剂，研究复合微生态制剂对断奶仔猪生长性能、血清生化和免疫指标及粪便中挥发性脂肪酸含量的影响，旨在为研究安全、高效、环保的复合微生态制剂并在养殖业中广泛应用提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验材料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "复合微生态制剂由广州百澳飞生物科技有限公司提供，是含有乳酸菌、酵母菌及其培养基的混合物，产品为浅黄色粉末状。将发酵罐中的水加热至 $2 4 ^ { \\circ } \\mathrm { C }$ 添加复合微生态制剂恒温厌氧发酵 $1 8 \\mathrm { h }$ 。发酵好的复合微生态制剂 $\\mathsf { p H }$ 为3.59，有效菌种和活菌数分别为：乳酸菌和酵母菌，乳酸菌数量为 $1 { \\times } 1 0 ^ { 8 } \\mathrm { C F U / m L }$ ，酵母菌数量为 ${ 8 { \\times } 1 0 ^ { 7 } } \\mathrm { C F U / m L }$ 。每次发酵好的复合微生态制剂使用期限为 $2 \\textup { d }$ 。复合微生态制剂在发酵和使用期间始终保持厌氧环境。试验饲粮参照NRC（2012）配制，基础饲粮组成及营养水平见表1。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "% ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/01194bf993f0b04fad531dbf06a5e8b3dbf0594c0e5509a93b83917437e1b18e.jpg",
+        "table_caption": [
+            "表1基础饲粮组成及营养水平 (风干基础)",
+            "Table 1 Composition and nutrient levels of the basal diet (air-dry basis) "
+        ],
+        "table_footnote": [
+            "1)预混料每千克饲粮提供 Premix provided the following per kg of the diet:Cu 80 mg,Fe $1 2 0 \\ \\mathrm { m g , Z n }$ 100mg,Mn 60 mg,I 1 mg,Se 0.3 mg,VA 8 000 IU,VD3 1 200 IU,VE 80 IU,VK4 mg,VB1 6 mg， $\\mathrm { V B } _ { 2 } \\ 2 0 \\ \\mathrm { m g }$ ，烟酸nicotinic acid $2 0 \\ \\mathrm { m g } .$ 泛酸pantothenate $1 8 ~ \\mathrm { m g }$ ，生物素biotin $0 . 4 ~ \\mathrm { m g }$ ,胆碱choline $5 0 0 ~ \\mathrm { m g }$ 。"
+        ],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>含量Content</td></tr><tr><td>原料Ingredients</td><td></td></tr><tr><td>玉米Corn</td><td>69.56</td></tr><tr><td>去皮大豆粕 Peeled soybean meal</td><td>17.65</td></tr><tr><td>鱼粉Fish meal</td><td>3.00</td></tr><tr><td>大豆油 Soybean oil</td><td>1.50</td></tr><tr><td>麦麸Wheat bran</td><td>5.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.80</td></tr><tr><td>石粉Limestone</td><td>0.78</td></tr><tr><td>食盐 NaCl</td><td>0.35</td></tr><tr><td>赖氨酸Lys（98%）</td><td>0.26</td></tr><tr><td>预混料 Premixl)</td><td>1.00</td></tr><tr><td>氯化胆碱 Choline chloride</td><td>0.10</td></tr><tr><td>合计 Total</td><td>100.00</td></tr><tr><td>营养水平 Nutrient level2)</td><td></td></tr><tr><td>消化能DE/（MJ/kg）</td><td>13.94</td></tr><tr><td>粗蛋白质CP</td><td>16.65</td></tr><tr><td>钙Ca</td><td>0.65</td></tr><tr><td>磷P</td><td>0.56</td></tr><tr><td>赖氨酸Lys</td><td>1.06</td></tr><tr><td>蛋氨酸Met</td><td>0.28</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2)计算值 Calculated values 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "将 240头平均体重为（ $1 0 . 0 { \\pm } 0 . 3 \\$ ）kg（公母各占1/2）断奶仔猪（杜洛克 $\\times$ 长白）随机分成4个组，每组6个重复，每个重复10头仔猪。Ⅰ组仔猪饲喂基础饲粮（含 $1 \\%$ 吉他霉素和 $2 \\%$ 抗敌素），Ⅱ组、Ⅲ组和IV组仔猪分别饲喂在基础饲粮中每头猪每天添加 50、100和 $1 5 0 ~ \\mathrm { m L }$ 复合微生态制剂发酵液的饲粮。试验在河南省鹿邑县天种养殖基地进行，试验预试期5d，正试期 $2 8 \\mathrm { d }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究现场试验严格按照猪场常规试验管理进行，并按要求进行预防接种、驱虫，分别在07:00、10:00、13:30和15:30对各组仔猪进行拌料饲喂。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 生长性能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于正试期第1天和第28天，对断奶仔猪进行空腹称重，计算平均日增重。每天记录各组采食量，试验结束，结算各组耗料量，计算平均日采食量和料重比。每天08:00观察断奶仔猪粪便情况，记录每组仔猪日腹泻头数，计算腹泻率：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "腹泻率 $( \\% ) \\ = 1 0 0 \\times$ 腹泻头数/(试验猪头数 $\\times$ 试验天数）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 血清生化和免疫指标 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于正试期第1天和第28天，08:00对各组随机挑选6头体重相近的断奶仔猪进行前腔静脉采血 $5 \\mathrm { m L }$ ，于促凝真空管中斜面静置 $0 . 5 \\mathrm { h }$ ， $3 0 0 0 \\mathrm { r / m i n }$ 离心 $1 5 \\mathrm { m i n }$ ，吸取上层透明液，放入一 $2 0 \\mathrm { ~ \\textdegree C }$ 冰箱中保存。将血清送到黑龙江省人民医院，采用日立7020全自动生化分析仪测定碱性磷酸酶（ALP）、谷草转氨酶（AST）活性以及葡萄糖（GLU）、尿素氮（UN）、总蛋白（TP）、白蛋白（ALB）和球蛋白（GLB）含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4.3粪便中挥发性脂肪酸含量测定",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于正试期第1天和第 28天15:00,各组随机挑3头断奶仔猪，无菌厌氧收集直肠内容物，将其放入 $5 0 ~ \\mathrm { m L }$ 无菌螺口管中，并迅速放入 $- 2 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 冰箱保存。取 $\\boldsymbol { 2 } \\textrm { g }$ 左右粪便转入离心管内，加入2倍超纯水混合均匀，以 $1 0 0 0 0 \\mathrm { r / m i n }$ 、4 $\\mathrm { { } ^ { \\circ } C }$ 离心 $1 5 \\mathrm { m i n }$ ，取上清液分装于2个EP管中，作为挥发性脂肪酸样品。取离心粪便上清液 $1 . 5 ~ \\mathrm { m L }$ ，加入 $0 . 2 \\mathrm { m L } 8 . 2 \\%$ 偏磷酸，混合均匀，水浴 $3 0 \\mathrm { m i n }$ ， $1 0 0 0 0 \\mathrm { r / m i n } 4 \\mathrm { ^ { \\circ } C }$ 离心 $1 0 \\mathrm { m i n }$ ，取上清液，采用GC-2010气相色谱仪测定粪便中乙酸、丙酸和丁酸含量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据统计与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用 SPSS 22.0统计软件进行单因素方差分析（one-wayANOVA），LSD 进行多重比较，$P { < } 0 . 0 5$ 表示差异显著，数据用平均值 $\\pm$ 标准误表示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1复合微生态制剂对断奶仔猪生长性能的影响由表2可知，Ⅱ组平均日增重最高，I组平均日增重最低，Ⅱ组、Ⅲ组和IⅣ组平均日增重显著高于I组（ $\\cdot P { < } 0 . 0 5$ ），分别提高了 $2 3 . 5 3 \\%$ 、 $2 0 . 5 9 \\%$ 和 $1 4 . 7 1 \\%$ （ $\\cdot < 0 . 0 5$ ）。4组之间平均日采食量差异不显著（ $P { > } 0 . 0 5$ ）。4组之间料重比差异显著（ $\\cdot < 0 . 0 5$ ），其中I组料重比显著高于其他各组( $\\scriptstyle \\cdot < 0 . 0 5 .$ ）；与I组相比，Ⅱ组料重比降低了 $1 5 . 8 6 \\%$ （ $\\cdot < 0 . 0 5$ ）。4 组之间腹泻率差异不显著（ $\\cdot P { > } 0 . 0 5$ ），其中Ⅱ组腹泻率最低，比I组降低了 $4 7 . 1 6 \\%$ （ $P$ ${ > } 0 . 0 5$ ）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b6a17300cd28e52767ed4c4976aadec617b80a726d80ae59a32b07cd632766d.jpg",
+        "table_caption": [
+            "Table 2Effects of compound probiotics on growth performance of weaned piglets "
+        ],
+        "table_footnote": [
+            "同行数据肩注不同字母表示差异显著（ $P { < } 0 . 0 5$ ），相同字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">组别Groups</td><td rowspan=\"2\">P值P value</td></tr><tr><td>1</td><td>II</td><td>ⅢI</td><td>IV</td></tr><tr><td>始重Initial weight/kg</td><td>10.72±0.19</td><td>10.52±0.18</td><td>10.60±0.29</td><td>10.75±0.30</td><td>0.352</td></tr><tr><td>末重Final</td><td>20.23±0.62b</td><td>22.22±0.98a</td><td>21.95±0.54a</td><td>21.75±0.76a</td><td>0.001</td></tr><tr><td>weight/kg 平均日增重</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/(kg/d)</td><td>0.34±0.03b</td><td>0.42±0.04a</td><td>0.41±0.02a</td><td>0.39±0.02a</td><td>0.001</td></tr><tr><td>平均日采食量 ADFI/(kg/d)</td><td>0.49±0.09</td><td>0.50±0.09</td><td>0.50±0.08</td><td>0.50±0.09</td><td>0.932</td></tr><tr><td>料重比F/G</td><td>1.45±0.12a</td><td>1.22±0.11b</td><td>1.23±0.05b</td><td>1.27±0.08b</td><td>0.001</td></tr><tr><td>腹泻率Diarrhea rate/%</td><td>2.29±2.65</td><td>1.21±1.75</td><td>1.79±1.99</td><td>2.57±1.87</td><td>0.085</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with different letter superscripts mean significant difference ( $\\lceil P { < } 0 . 0 5 \\rceil$ ,while with the same letter or no letter superscripts mean no significant difference ( $\\mathrm { \\Delta } P { > } 0 . 0 5 \\mathrm { \\Delta }$ ).The same asbelow. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2复合微生态制剂对断奶仔猪血清生化和免疫指标的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，试验第1天，4组之间断奶仔猪血清中碱性磷酸酶和谷草转氨酶的活性差异不显著 （ $\\cdot P { > } 0 . 0 5 ) .$ ），血清尿素氮和葡萄糖含量差异不显著（ $\\cdot P { > } 0 . 0 5$ ）；各组血清总蛋白、白蛋白、球蛋白及白蛋白/球蛋白值差异不显著（ $\\cdot P { > } 0 . 0 5$ ）。试验第28天，4组之间断奶仔猪血清中碱性磷酸酶活性差异不显著（ $\\cdot P { > } 0 . 0 5$ ），其中IⅢ组断奶仔猪血清中碱性磷酸酶的活性最高；各组血清中谷草转氨酶活性差异不显著（ $P { > } 0 . 0 5$ ）。4组之间断奶仔猪血清中尿素氮和葡萄糖含量差异不显著 $( P { > } 0 . 0 5 )$ ）， $\\mathrm { I I }$ 组血清尿素氮含量较I组降低了 $1 8 . 2 7 \\%$ （ $P$ ${ \\ > } 0 . 0 5 { \\mathrm { : } }$ ）。各组血清中总蛋白、白蛋白、球蛋白以及白蛋白/球蛋白值差异不显著（ $\\cdot P { > } 0 . 0 5 )$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/a181a05220b34e6466a288e8f5d316a588ac91b5b8a93f2fb5f2559b9f91161d.jpg",
+        "table_caption": [
+            "表2复合微生态制剂对断奶仔猪生长性能的影响",
+            "表3复合微生态制剂对断奶仔猪血清生化和免疫指标的影响",
+            "'able 3Effects of compound probiotics on serum biochemical and immune indices of weaned p "
+        ],
+        "table_footnote": [
+            "第1天The $1 ^ { \\mathrm { s t } }$ day"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"3\">组别 Groups</td></tr><tr><td>Items</td><td>I</td><td>Ⅲ IV</td><td>P值P value</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/34b50fe21d45e141da0e54a998c8252997b1f6e9252f4a8f3a150d27150d74b5.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3复合微生态制剂对断奶仔猪粪便中挥发性脂肪酸含量的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>碱性磷酸酶 AKP/(IU/L)</td><td>360.15±14.35</td><td>377.90±34.80</td><td>399.20±63.77</td><td>348.95±15.65</td><td>0.437</td></tr><tr><td>谷草转氨酶 AST/(mmol/L)</td><td>50.97±4.93</td><td>55.20±3.00</td><td>48.40±5.30</td><td>48.00±0.60</td><td>0.175</td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>2.81±0.31</td><td>3.07±0.30</td><td>2.51±0.14</td><td>2.52±1.26</td><td>0.694</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.29±0.08</td><td>5.45±0.14</td><td>5.53±0.31</td><td>5.57±0.06</td><td>0.289</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>50.78±1.78</td><td>52.80±0.30</td><td>52.00±3.00</td><td>49.95±1.05</td><td>0.302</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>32.35±2.75</td><td>34.20±0.40</td><td>33.12±0.80</td><td>33.75±0.95</td><td>0.511</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>18.43±4.26</td><td>18.60±0.70</td><td>18.88±2.88</td><td>16.20±0.10</td><td>0.590</td></tr><tr><td>白蛋白/球蛋白 ALB/GLB</td><td>1.84±0.53</td><td>1.84±0.09</td><td>1.78±0.25</td><td>2.08±0.05</td><td>0.629</td></tr><tr><td>第28天 The 28th day</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>碱性磷酸酶 AKP/(IU/L)</td><td>277.95±22.75</td><td>338.40±56.00</td><td>346.65±14.55</td><td>312.15±19.75</td><td>0.331</td></tr><tr><td>谷草转氨酶 AST/(mmol/L)</td><td>56.10±0.90</td><td>61.87±1.84</td><td>57.25±0.93</td><td>56.13±1.16</td><td>0.406</td></tr><tr><td>尿素氮UN/(mmol/L)</td><td>3.01±0.30</td><td>2.46±0.51</td><td>2.31±0.15</td><td>2.43±0.31</td><td>0.131</td></tr><tr><td>葡萄糖 GLU/(mmol/L)</td><td>5.40±0.40</td><td>5.56±0.06</td><td>5.52±0.29</td><td>5.83±0.03</td><td>0.267</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>54.05±2.35</td><td>61.60±3.00</td><td>58.00±0.30</td><td>57.95±2.15</td><td>0.398</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>32.30±0.40</td><td>32.60±2.20</td><td>32.33±0.31</td><td>33.17±1.51</td><td>0.852</td></tr><tr><td>球蛋白 GLB/(g/L)</td><td>21.75±1.95</td><td>29.00±5.20</td><td>25.67±0.49</td><td>24.78±3.60</td><td>0.141</td></tr><tr><td>白蛋白/球蛋白 ALB/GLB</td><td>1.49±0.12</td><td>1.16±0.29</td><td>1.26±0.03</td><td>1.36±0.27</td><td>0.305</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，试验第1天，4组之间断奶仔猪粪便中乙酸的含量具有显著性差异（ $P <$ 0.05)，ⅡI组、IⅢI组和IV组与I组相比，粪便中乙酸含量分别增加了 $6 3 . 4 1 \\% . 6 1 . 7 6 \\%$ 和 $7 6 . 6 3 \\%$ （ $P { < } 0 . 0 5$ ）；4组之间断奶仔猪粪便中丙酸的含量差异显著（ $. P { < } 0 . 0 5$ ），与I组相比，I组、IⅢ组和IV组断奶仔猪粪便中丙酸含量分别增加了 $8 8 . 8 6 \\%$ 、 $2 8 . 2 0 \\%$ 和 $3 5 . 2 1 \\%$ （ $\\scriptstyle P < 0 . 0 5 { \\mathrm { . } }$ ）。4个组之间断奶仔猪粪便中丁酸的含量差异不显著（ $P { > } 0 . 0 5$ ），而 $\\mathrm { I I }$ 组、III组和IV组粪便中丁酸的含量较I组均有所增加。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "试验第28天，4组之间断奶仔猪粪便中乙酸的含量差异显著（ $\\cdot P { < } 0 . 0 5 \\$ ），与I组相比，Ⅱ组、IⅢ组和IⅣ组断奶仔猪粪便中乙酸含量分别增加了 $2 1 . 0 3 \\%$ （ $P { > } 0 . 0 5$ ）、 $3 . 1 9 \\%$ （ $\\mathrm { \\Phi } _ { P > 0 . 0 5 }$ ）和 $4 0 . 6 9 \\%$ ( $\\scriptstyle P < 0 . 0 5$ ）；4组之间断奶仔猪粪便中丙酸的含量差异显著（ $\\cdot P { < } 0 . 0 5$ ），其中IV组粪便中丙酸含量比I组增加了 $1 0 7 . 1 1 \\%$ ( $\\scriptstyle \\cdot < 0 . 0 5$ ），Ⅱ组、组粪便中丙酸含量较I组有所增加，但差异不显著（ $\\cdot P { > } 0 . 0 5$ ）；4组之间断奶仔猪粪便中丁酸的含量差异显著（ $P <$ 0.05），与I组相比， $\\mathrm { I I }$ 组、III组和IV组断奶仔猪粪便中丁酸含量分别增加了 $7 7 . 8 4 \\%$ ( $P <$ 0.05）、 $3 0 . 1 5 \\%$ ( $P { > } 0 . 0 5$ ）和 $7 6 . 0 3 \\%$ ( $\\scriptstyle P < 0 . 0 5$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表4复合微生态制剂对断奶仔猪粪便中挥发性脂肪酸含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2388e1736ac54c911bbb5e125ec4d6d991c7e5853f939371d511d4ab67936b3.jpg",
+        "table_caption": [
+            "Table 5 Effects of compound probiotics on volatile fatty acid contents in feces of weaned piglets mmol/L "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别 Groups</td><td rowspan=\"2\">P值P</td></tr><tr><td>1</td><td>I</td><td>Ⅲ</td><td>IV</td></tr><tr><td>第1天The 1t day</td><td></td><td></td><td></td><td></td><td>value</td></tr><tr><td>乙酸 Acetic acid</td><td>13.31±1.34b</td><td>21.75±9.00a</td><td>21.53±2.56a</td><td>23.51±2.56a</td><td>0.008</td></tr><tr><td>丙酸Propionic acid</td><td>7.27±1.13℃</td><td>13.73±1.39a</td><td>9.32±0.91b</td><td>9.83±1.65b</td><td>0.001</td></tr><tr><td>丁酸 Butyric acid</td><td>2.74±0.16</td><td>5.11±2.66</td><td>3.88±0.40</td><td>3.57±1.04</td><td>0.066</td></tr><tr><td>第28天 The 28th day</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>乙酸 Acetic acid</td><td>25.39±6.11b</td><td>30.73±1.54ab</td><td>26.20±4.19b</td><td>35.72±6.85a</td><td>0.008</td></tr><tr><td>丙酸 Propionic acid</td><td>8.86±3.93b</td><td>12.50±3.40b</td><td>8.69±3.40b</td><td>18.35±2.49a</td><td>0.001</td></tr><tr><td>丁酸 Butyric acid</td><td>3.88±1.35b</td><td>6.90±0.40a</td><td>5.05±1.09b</td><td>6.83±1.27a</td><td>0.004</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1复合微生态制剂对断奶仔猪生长性能的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前将发酵好的微生态制剂直接与饲粮混合饲喂动物的报道较为少见，现有少量研究报道都是采用对饲料原料进行发酵和将有益菌直接添加到饲粮中进行饲喂。岳晓敬等[6研究表明，复合益生菌发酵豆粕能够促进仔猪肠道发育，提高消化酶活性，降低仔猪腹泻率，提高仔猪生长性能。Abe 等[7研究表明，口服双歧杆菌和乳酸菌制剂的初生仔猪，平均日增重显著高于对照组。Estienne 等[8研究表明，微生物制剂能够提高猪的平均日增重。刘瑞丽等[9]研究表明，复合益生菌发酵饲粮可显著提高饲粮各营养素的表观消化率，提高育肥猪的生长性能。吴代圣等[10]研究表明，饲喂复合益生菌发酵饲粮的育肥猪比饲喂非发酵全价粉料的料重比降低了 $9 . 7 6 \\%$ ，增重提高了 $1 8 . 0 3 \\%$ ，且有效地降低了仔猪的腹泻率。刘虎传等[1]研究表明，益生菌制剂可显著提高断奶仔猪的平均日增重，显著降低料重比。本研究采用的复合微生态制剂与饲粮直接混合饲喂动物，试验结果与前人研究结果基本一致。值得一提的是，本试验中，综合断奶仔猪平均日增重、平均日采食量、料重比及其仔猪腹泻率的相关指标得出，每头猪每天饲喂 $5 0 ~ \\mathrm { m L }$ 复合微生态制剂发酵液效果最佳，可显著提高仔猪的平均日增重，显著降低料重比并降低腹泻率。就研究结果而言，这说明并非断奶仔猪采食复合微生态制剂的剂量越大，生长性能就越好，同时也说明复合微生态制剂存在最适添加量和范围的问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2复合微生态制剂对断奶仔猪血清生化和免疫指标的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "血清生化指标是机体新陈代谢机能的综合反映，即血液生化指标的变化是机体代谢机能的改变。在一定范围内，葡萄糖在机体内的含量越高，代表机体利用葡萄糖合成代谢的能力越强。葡萄糖是机体代谢的能量物质，即是机体内重要性能量单糖，是支撑动物机体生命活动的重要、快速应变供能的最有效的营养素，可为机体体内蛋白质的合成提供能量；此外，机体血清葡萄糖的吸收能够促进机体胰岛素的释放，促进机体蛋白质的合成[12]。血清谷丙转氨酶和谷草转氨酶是反映肝脏和心脏功能的重要标志，其活性过高，说明机体肝脏和心脏可能被损害[13]。唐晓玲等[14]研究表明，血清中碱性磷酸酶的活性可反映动物机体对蛋白质和脂类的代谢效率，同时可反映动物的生长速度和生长性能。本试验结果表明，试验第1天，4 组断奶仔猪血清中碱性磷酸酶活性无显著差异；试验第 28天，Ⅱ组血清中碱性磷酸酶的活性高于I组，进一步证实了复合微生态制剂能够提高断奶仔猪生长性能。本研究中，Ⅱ组断奶仔猪平均日增重最高，料重比和腹泻率最低。出现这种状况的原因可能是，复合微生态制剂随着剂量的增加，可能会导致断奶仔猪腹泻，进而导致断奶仔猪采食量和增重下降;而 $1 0 0 ~ \\mathrm { { m L } }$ 较 $5 0 ~ \\mathrm { m L }$ 复合微生态制剂添加量在采食量基本一致的情况下，前者的微生物数量是增加的，这也可能是Ⅲ组血清中碱性磷酸酶活性高的一个原因。断奶仔猪新陈代谢可由血清生化指标进行体现。血清中总蛋白和尿素氮含量能够准确反映动物机体对蛋白质代谢的吸收情况和饲粮中挥发性脂肪酸的平衡状况[15-16]。血清中尿素氮的含量越低，表明机体对尿素氮沉积量越多，即能够有效将尿素氮转化合成机体蛋白，促进动物机体生长。高印等[17]研究表明，添加 $6 \\%$ 益生菌发酵苹果渣能够降低断奶仔猪血清中尿素氮的含量。本研究结果表明，试验第1天，4组断奶仔猪血清中尿素氮含量差异不显著；试验第 28天，IⅢ组仔猪血清中尿素氮含量低于对照组，表明复合微生态制剂能够增加机体尿素氮沉积，有利于蛋白质合成，促进仔猪的生长。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "血清中总蛋白含量反映了机体对蛋白质吸收状况及体液免疫的关系。复合微生态制剂含有大量的乳酸菌和酵母菌，菌体的成分能够有效刺激肠道，以免疫佐剂的形式刺激免疫器官，促进免疫器官的生长发育。血清中总蛋白是由白蛋白和球蛋白共同组成的，是血清中固体含成分最多的一类物质，具有维持血管内胶体正常渗透压和酸碱度、运输多种代谢物的功能[18]。血清中的球蛋白是由体内巨噬细胞产生的，当机体循环抗体水平增加时，血清球蛋白含量也会增加；而球蛋白能与外来特异性抗原起免疫反应进而保护机体免受外来物质侵害，球蛋白含量的高低在一定程度上可机体的免疫水平及生理状况，球蛋白含量的升高可引起机体血清中总蛋白含量的升高[19]。王国霞等[20]研究表明，饲粮中添加乳酸菌可以改善凡纳滨对虾幼虾的非特异性免疫功能。董晓丽等[21研究证明，饲粮中添加地衣芽孢杆菌、枯草芽孢杆菌和植物乳杆菌复合菌制剂能够增加机体的免疫性能。本试验结果与前人研究结果相似。复合微生态制剂含有丰富的微生物，可影响动物肠道菌群的定植和组成，对宿主的消化和免疫系统有一定刺激作用[22]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3复合微生态制剂对断奶仔猪粪便中挥发性脂肪酸含量的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "仔猪消化道内含有大量的微生物，肠道中的微生物相互依存、相互制约，形成了一个动态的微生态平衡系统。当仔猪受到应激时，肠道中的微生态平衡体系就会发生变化，进而造成菌群失调，造成仔猪的生长性能低下。断奶仔猪消化道（回肠、盲肠和结肠）内含有大量微生物，能够发酵肠道中的碳水化合物，产生多种挥发性脂肪酸（如乙酸、丙酸和丁酸），这些小分子的挥发性脂肪酸对肠道健康具有保护作用，挥发性脂肪酸可作为能源利用，抑制有害菌的生长，促进肠上皮细胞的增殖及黏膜的生长。断奶仔猪肠道内容物含有挥发酸含量及肠道健康程度可以间接用断奶仔猪直肠内容物（粪便）进行反映。本试验中，试验组粪便中挥发性脂肪酸的含量都高于对照组，与前人研究相似。张董燕等[23]研究表明，饲粮中添加猪源唾液乳酸菌能够改善肠道微生态平衡。侯璐[24]和 Mallo 等[25]研究表明，在断奶仔猪饲粮中添加乳酸菌能够显著增加回肠、盲肠和粪便中乳酸菌的数量，降低其中大肠杆菌的数量。Giang 等[26]指出，乳酸菌能够抑制病原菌生长的主要原因是乳酸菌能够产生有机酸，使机体肠道中有机酸的含量升高，降低肠道中的pH，抑制有害菌的生长。高印等[12研究表明，添加 $6 \\%$ 的益生菌苹果发酵液能够改善仔猪肠道菌群平衡。综合本试验结果可知：每头猪每天饲喂 $5 0 ~ \\mathrm { m L }$ 复合微生态制剂最为合适，即断奶仔猪饲粮中每天每头添加 $5 0 ~ \\mathrm { m L }$ 的复合微生态制剂能够改善肠道的菌群状况、营养状况和肠道健康状况。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "复合微生态制剂能够提高断奶仔猪的生长性能和免疫功能，改善仔猪肠道功能，降低断奶仔猪腹泻率并提高断奶仔猪粪便中挥发性脂肪酸的含量，且以每天每头猪添加 $5 0 ~ \\mathrm { m L }$ 复合微生态制剂效果较佳。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]NOUSIAINEN J,SETALA J.Lactic acid bacteria as animal probiotics[C]//SALMINEM S,VON WRIGHT A.Lactic acid bacteria:microbiology and functional aspects.New York:Marcel Dekker Inc,1998:437-473. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[2]萨仁娜,张琪,谷春涛,等.微生物饲料添加剂对肉仔鸡大肠杆菌抑制及血液生化指标的影响[J].饲料研究,2006(3):4-8.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[3]王士长,陈静,潘健存,等.植物乳杆菌对断奶仔猪生产性能和血液生化指标的影响[J].中国畜牧兽医,2006,33(8):67-70.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[4]张董燕,季海峰,王晶,等.猪源罗伊氏乳酸杆菌对断奶仔猪生长性能和血清指标的影响[J].动物营养学报,2011,23(9):1553-1559.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[5]WEN K,LI G H,BUI T,et al.High dose and low dose Lactobacillus acidophilus exerted differential immune modulating effects on T cell immune responses induced by an oral human rotavirus vaccine in gnotobiotic pigs[J].Vaccine,2012,30(6):1198-1207. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[6]岳晓敬,扶雄锋,胡栾莎,等.复合益生菌发酵豆粕对断奶仔猪肠道形态和消化酶活性的影响[J].中国畜牧杂志,2016,52(11):49-54.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[7]ABE F,ISHIBASHI N,SHIMAMURA S.Efect of administration of Bifidobacteria and lactic acid bacteria to newborn calves and piglets[J].Journal of Dairy Science,1995,78(12):2838-2846. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[8]ESTIENNE M J,HARTSOCK T G.Effects of antibiotics and probiotics on suckling pig and weanedpigperformance[J].International Journal ofAppliedResearch inVeterinary Medicine,2005,3(4):303-308. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]刘瑞丽,李龙,陈小莲,等.复合益生菌发酵饲料对肥育猪消化与生产性能的影响[J].上海农业",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "学报,2011,27(3):121-125.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[10]吴代圣,吕李明,丁建华.复合益生菌发酵饲料饲喂生长育肥猪效果分析[J].现代农业科技,2011(1):326,328.  \n[11]刘虎传,张敏红,冯京海,等.益生菌制剂对早期断奶仔猪生长性能和免疫指标的影响[J].动物营养学报,2012,24(6):1124-1131.  \n[12]耿梅梅,印遇龙,孔祥峰,等.门静脉灌注葡萄糖对宁乡猪血液生化参数的影响[J].安徽农业科学,2010,38(5):2372-2375.  \n[13]尹清强,李小飞,常娟,等.微生态制剂对哺乳和断奶仔猪生产性能的影响及作用机理研究[J].动物营养学报,2011,23(4):622-630.  \n[14]唐晓玲,刘振湘,张石蕊,等.糖萜素对早期断奶仔猪血液生化指标及免疫机能的影响研究[J].湖南环境生物职业技术学院学报,2005,11(3):239-243  \n[15]ZHOU H,WANG C Z,YE J Z,et al.Effects of dietary supplementation of fermented Ginkgobiloba L. residues on growth performance,nutrient digestibility,serum biochemical parameters andimmune function in weaned piglets[J].Animal Science Journal,2O15,86(8):790-799.  \n[16]杨玉芬,许道光,王长康,等.不同含量的发酵豆粕对仔猪生长性能和血液指标的影响[J].江西农业大学学报,2014(3):619-625.  \n[17]高印,王国军,来航线,等.益生菌发酵苹果渣对断奶仔猪生长性能、血清生化指标和粪便微生物菌群的影响[J].动物营养学报,2016,28(5):1515-1524.  \n[18]FERNANDES C F,SHAHANI K M,AMER M A.Therapeutic role of dietary Lactobacilli andLactobacilic fermented dairy productions[J].FEMS Microbiology Reviews,1987,46(3):343-356.[19]林谦,戴求仲,宾石玉,等.益生菌与酶制剂对黄羽肉鸡血液生化指标和免疫性能影响的协同效应研究[J].饲料工业,2012,33(14):31-36.  \n[20]王国霞,黄燕华,周晔,等.乳酸菌对凡纳滨对虾幼虾生长性能、消化酶活性和非特异性免疫的影响[J].动物营养学报,2010,22(1):228-234.  \n[21]董晓丽,张乃锋,周盟,等.复合菌制剂对断奶仔猪生长性能、粪便微生物和血清指标的影响[J].动物营养学报,2013,25(6):1285-1292.  \n[22]AFRCFR.Probioticsinmanandanimals[J].JourmalofAppliedBacteriology,1989,66(5):365-378.  \n[23]张董燕,季海峰,王四新,等.猪源唾液乳杆菌对生长猪生长性能、粪中微生物数量及血清指标的影响[J].动物营养学报,2014,26(3):725-731.  \n[24]侯璐.猪源粪肠球菌的特性及对仔猪生长性能和免疫力影响的研究[D].硕士学位论文.呼和浩特:内蒙古农业大学,2010:40-41.  \n[25]MALLO J J,RIOPEREZ J,HONRUBIA P.The addition of Enterococcus faecium to dietimproves piglet'sintestinal microbiota and performance[J].LivestockScience,2010,133(1/2/3):176-178.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[26]GIANG H H,VIET T Q.OGLE B,et al.Growth performance,digestibility,gut environment and health status in weaned piglets fed a diet supplemented with potentially probiotic complexes of lactic acid bacteria[J].Livestock Science,2010,129(1/2/3):95-103. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Effects of Compound Probiotics on Growth Performance, Serum Biochemical and Immune Indices and Volatile Fatty Acid Contents in Feces of Weaned Piglets JIN Sanjun DONG Jiaqi\\* REN Hongli WANG Jingjing GAO Penghui DIAO Xinping\\* (College of Animal Science and Technology, Northeast Agricultural University, Harbin 150030, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of compound probiotics on growth performance, serum biochemical and immune indices and volatile fatty acid contents in feces of weaned piglets. Two hundred and forty weaned piglets (half male and half female) with （ $\\cdot 1 0 . 0 { \\pm } 0 . 3 \\$ ） $\\mathbf { k g }$ were randomly arranged into 4 groups with 6 replicates per group and 1O pigs per replicate. Pig in group I (control group) were fed a basal diet (contained $1 \\%$ kitasamycin and $2 \\%$ colistin),and in groups II， II and IV were fed the basal diets supplemented with 50,100 and $1 5 0 ~ \\mathrm { m L }$ compound probiotics per day per piglet. The experiment lasted for 28 days after 5 days per-experiment. At the first day and the 28th day,the serum samples were collected through precaval vein to measure biochemical immune indices and the rectum content was collected to determine the contents of volatile fatty acids in feces.The results showed as follows:1) compared with the control group,the average daily gain of weaned piglets was significantly increased by $2 3 . 5 3 \\%$ $( P { < } 0 . 0 5 ) ,$ , the ratio of feed to gain was significantly decreased by $1 5 . 8 6 \\%$ 1 $( P { < } 0 . 0 5 )$ ,and the diarrhea rate was decreased by $4 7 . 1 6 \\%$ 0 $( P { > } 0 . 0 5 )$ . 2) On the first day of the experiment, the serum biochemical and immune indices had no significant difference in all groups $( P { > } 0 . 0 5 )$ ，and the volatile fatty acid contents in feces of piglets in experimental groups were higher than that in control group.3) On the 28th day of the experiment, the activities of alkaline phosphatase and aspartate aminotransferase and the contents of glucose, total protein,albumin and globulin in serum of piglets in group I were higher than that in control group $( P { > } 0 . 0 5 )$ ，while the urea nitrogen content in group I was decreased by $1 8 . 2 7 \\%$ compared with the control group $( P { > } 0 . 0 5 )$ . Compared with the control group, the contents of acetic acid, butyric acid and propionic acid in feces of piglets in group II were increased by $2 1 . 0 3 \\%$ （ $( P { > } 0 . 0 5 )$ ， $4 1 . 0 8 \\%$ （ $P { > } 0 . 0 5 \\$ ） and $7 7 . 8 4 \\%$ $( P { < } 0 . 0 5 )$ ，respectively. It can be seen that dietary $5 0 ~ \\mathrm { m L }$ probiotic every day per piglet can improve the growth performance of weaned piglets, reduce the diarrhea rate of piglets, enhance the immune function and increase the contents of volatile fatty acids in feces. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Key words: compound probiotics; weaned piglets; growth performance; serum biochemical index; volatile fatty acid ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,425 @@
+# 不协调决策信息系统的知识约简及决策规则优化研究
+
+汪凌
+
+(安庆师范大学 经济与管理学院，安徽 安庆 246133)
+
+摘要：针对不协调决策信息系统的知识约简及决策规则的优化问题，引入分布约简和最大分布约简理论，提出一种基于分布区分对象集的知识约简算法，并得到具体的优化决策规则获取方法。该算法通过求解分布区分对象集和最小析取范式从而得到知识约简集，依据属性约简集挖掘出最优决策规则集。理论分析和实例结果表明该方法的有效性和实用性。
+
+关键词：不协调决策信息系统；分布区分对象集；知识约简；决策规则中图分类号：TP391 doi:10.3969/j.issn.1001-3695.2017.12.0849
+
+# Research on knowledge reduction and decision rules optimization in inconsistent decision information systems
+
+Wang Ling (School of Economic &management,Anqing Normal University,Anqing Anhui 246l33,China)
+
+Abstract:For the knowledge reductionand optimization decision rulesof the inconsistent decision informationsystem,by introducig distribution reductionand maximum distributionreduction theory,a knowledgereduction algorithm based on distributionsetofobjects is proposed inthispaper,andapproachoptimaldecisionrule sets.Thealgorithmaproach knowledge reductionsets bysolving distributionsetofobjectsand minimum disjunctive normal form,and mining optimaldecisionrules. Theoretical analysis and example results show that the method is effective and practical.
+
+Key Words: inconsistentdecision information systems; distribution setofobjects; knowledge reduction; decision rules
+
+# 0 引言
+
+粗糙集理论是一种处理不精确、不确定和噪声数据的有力工具，已被广泛应用于决策分析、信息处理、数据挖掘、模式识别等领域中[1,2]。
+
+不确定信息下的知识挖掘是粗集理论研究的重要问题之一。为了从不确定信息系统中挖掘更为优化的决策知识，关键需要对决策系统进行约简。目前，众多学者们对属性约简和知识挖掘理论开展了大量的研究工作。如张文修等在研究知识约简及决策规则挖掘时，引入了区分函数方法[3]，Kryszkiewicz[4提出了相对约简概念，并给出具体的决策规则提取方法，文献[5]在分析集值信息系统的属性约简及知识获取问题时，基于容差关系和引入极大一致块方法等。上述研究大都面向协调信息系统进行的。由于数据增加、重要信息缺损、以及噪声干扰因素等，导致数据集不一致，大量决策信息系统都是不协调的。近年来，不协调决策信息系统得到广泛研究[6\~10]。如Kryszkiewicz 率先提出了分布约简和分配约简概念，但是尚未详细研究属性约简算法[1I]。张文修等人[12]对前人的研究结论进行了拓展和延伸，引入差别矩阵，深入探讨了不协调决策系统属性约简算法。随着系统数据集的不断增加，这些算法复杂度逐步增大。为了解决这些算法中存在的问题，史德容等引入优势关系，研究了不协调区间值模糊序信息系统的分布约简和最大分布约简算法等[15]。如何高效从决策信息系统进行属性约简和获取最优化的规则知识，一直以来是研究人员共同面对的问题。
+
+为此，本文在现有不协调决策信息系统属性约简方法基础上，通过引入分布约简和最大分布约简的概念，具体分析了不协调决策信息系统下的分布约简和最大分布约简理论，在此基础上，构造了一种基于分布区分对象集的属性约简算法，算法利用分布区分对象集的集对，计算最小析取范式得到属性约简结果，并挖掘出优化的决策规则集。最后，利用实例分析验证了算法的有效性和合理性。
+
+# 1 不协调决策信息系统
+
+定义 $\mathbf { 1 } ^ { [ 1 0 , 1 2 ] }$ （20 设 $( U , A , F , d )$ 为决策信息系统，$R _ { A } = \{ ( x _ { i } , x _ { j } ) | f _ { l } ( x _ { i } ) = f _ { l } ( x _ { j } ) ( a _ { l } \in A ) \}$ ，$R _ { d } = \{ ( x _ { i } , x _ { j } ) { \big | } d ( x _ { i } ) = d ( x _ { j } ) \}$ ，若 $R _ { { \scriptscriptstyle A } } \subseteq R _ { { \scriptscriptstyle d } }$ ，则称 $( U , A , F , d )$ 是协
+
+调的，若 $R _ { A } \subset R _ { d }$ ，则称 $( U , A , F , d )$ 是不协调的。
+
+设 $( U , A , F , d )$ 为决策信息系统，
+
+$$
+R _ { B } = \{ ( x _ { i } , x _ { j } ) | f _ { l } ( x _ { i } ) = f _ { l } ( x _ { j } ) ( a _ { l } \in B ) \} ( B \subseteq A ) ,
+$$
+
+$$
+U / R _ { \scriptscriptstyle B } = \{ [ x _ { \scriptscriptstyle i } ] _ { \scriptscriptstyle B } \vert x _ { \scriptscriptstyle i } \in U \} , U / R _ { \scriptscriptstyle d } = \{ D _ { \scriptscriptstyle 1 } , D _ { \scriptscriptstyle 2 } , \cdots D _ { \scriptscriptstyle r } \}
+$$
+
+其中 $[ x _ { i } ] _ { B } = \{ x _ { j } \mid ( x _ { i } , x _ { j } ) \in R _ { B } \}$ 。
+
+对 $\forall x _ { i } \in U$ ，记 $D ( D _ { j } / [ x _ { i } ] _ { B } ) = \frac { \big | D _ { j } \cap [ x _ { i } ] _ { B } \big | } { \big | [ x _ { i } ] _ { B } \big | } \quad ( j \leq r )$ ，则 $U$ 上关于 $B$ 的分布函数、最大分布函数、分配函数定义为
+
+$$
+\mu _ { B } ( x _ { i } ) = ( D ( D _ { 1 } / [ x _ { i } ] _ { B } ) , D ( D _ { 2 } / [ x _ { i } ] _ { B } ) , \cdots , D ( D _ { r } / [ x _ { i } ] _ { B } ) ) ,
+$$
+
+$$
+( x _ { i } \in U )
+$$
+
+$$
+\eta _ { B } ( x _ { i } ) = \{ D _ { j 0 } \vert D ( D _ { j 0 } / [ x _ { i } ] _ { B } ) \} = \operatorname* { m a x } _ { j \leq r } D ( D _ { j } / [ x _ { i } ] _ { B } ) ,
+$$
+
+$$
+( x _ { i } \in U )
+$$
+
+$$
+\delta _ { B } ( x _ { i } ) = \{ D _ { j } \mid D _ { j } \cap [ x _ { i } ] _ { B } \neq \emptyset \} , ( x _ { i } \in U )
+$$
+
+定义2[12,14] 设 $( U , A , F , d )$ 为决策信息系统， $B \subseteq A$ 。
+
+a）对 $\forall x _ { i } \in U$ ， $\exists \ \mu _ { _ { B } } ( x _ { i } ) = \mu _ { _ { A } } ( x _ { i } )$ ，则 $B$ 是分布协调集，如果 $B$ 的任何真子集都不是分布协调集，则必定是分布约简集。b)对 $\forall x _ { i } \in U$ ， $\eta _ { B } ( x _ { i } ) = \eta _ { A } ( x _ { i } )$ ，则 $B$ 是最大分布协调集，如果 $B$ 的任何真子集都不是最大分布协调集，则必定是最大分布约简集。
+
+c）对 $\forall x _ { i } \in U$ ， $\texttt {exists } \delta _ { B } ( x _ { i } ) = \delta _ { A } ( x _ { i } )$ ，则 $B$ 是分配协调集，如果 $B$ 的任何真子集都不是分配协调集，则必定是分配约简集。
+
+由定义1和2可知，分布协调集指决策类上分布函数保持不变的属性集，最大分布协调集指最大分布决策类保持不变的属性集，而分配协调集指所有对象的决策类保持不变。
+
+定理1设 $( U , A , F , d )$ 为不协调决策信息系统， $B \subseteq A$ ，如果 $B$ 是分布协调集，则必定是最大分布协调集。
+
+证明假设 $B$ 是 $( U , A , F , d )$ 的分布协调集，根据定义2的a），对 $\forall x _ { i } \in U ~ , ~ B \subseteq A \quad , ~ \exists ~ \mu _ { B } ( x _ { i } ) = \mu _ { A } ( x _ { i } ) ~ ( x _ { i } \in U )$ ，有$D ( D _ { j } / [ x _ { i } ] _ { B } ) = D ( D _ { j } / [ x _ { i } ] _ { A } ) \ ( \forall j \leq r )$ 成立。由定义2的b)可知,$\ni \ \eta _ { B } ( x _ { i } ) = \eta _ { A } ( x _ { i } ) \ ( x _ { i } \in U )$ 成立，因此 $B$ 是最大分布协调集。
+
+定理2设 $( U , A , F , d )$ 为不协调决策信息系统， $B \subseteq A$ ，如果 $B$ 是分布协调集，则 $B$ 必定是分配协调集。
+
+证明一方面，假设 $B$ 是分布协调集，则对 $\forall x _ { i } \in U$ ，$B \subseteq A$ ，根据分不协调集的定义，有 $\mu _ { _ B } ( x _ { i } ) = \mu _ { _ A } ( x _ { i } )$ ，即$D ( D _ { j } / [ x _ { i } ] _ { B } ) = D ( D _ { j } / [ x _ { i } ] _ { A } ) , ( \forall j \leq r$ 。
+
+另一方面，假设 $D _ { j } \in \delta _ { B } ( x _ { i } )$ ，则由分配函数的定义，可知$D _ { j } \cap [ x _ { i } ] _ { B } \neq \emptyset$ ，因此 $D ( D _ { j } / [ x _ { i } ] _ { B } ) \neq 0$ ，于是 $D ( D _ { j } / [ x _ { i } ] _ { A } ) \neq 0$ ，从而 $D _ { j } \cap [ x _ { i } ] _ { A } \neq \emptyset$ 。因此， $D _ { j } \in \delta _ { A } ( x _ { i } )$ ，于是就有$\delta _ { \scriptscriptstyle A } ( x _ { i } ) \supseteq \delta _ { \scriptscriptstyle B } ( x _ { i } )$ 。而当 $B \subseteq A$ 时， $R _ { B } \supseteq R _ { A }$ ，对 $\forall x _ { i } \in U$ ，存在$[ x _ { i } ] _ { B } \supseteq [ x _ { i } ] _ { A }$ ，即 $\delta _ { \scriptscriptstyle B } ( x _ { i } ) = \delta _ { \scriptscriptstyle A } ( x _ { i } )$ ， $\forall x _ { i } \in U$ ，因此 $B$ 一定是分布协调集。
+
+例1决策信息系统如表1所示。
+
+按照分类等价关系有：
+
+$$
+U / R _ { _ A } = \{ \{ x _ { _ 1 } , x _ { _ 2 } \} , \{ x _ { _ 3 } , x _ { _ 4 } , x _ { _ 5 } \} , \{ x _ { 6 } \} \} ,
+$$
+
+$$
+U / R _ { d } = \{ \{ x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 } \} , \{ x _ { 5 } , x _ { 6 } \} \}
+$$
+
+表1决策信息系统  
+
+<html><body><table><tr><td>U</td><td>a1</td><td>a2</td><td>d</td></tr><tr><td>X1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>X2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>X3</td><td>1</td><td>2</td><td>1</td></tr><tr><td>X4</td><td>1</td><td>2</td><td>1</td></tr><tr><td>X5</td><td>1</td><td>2</td><td>2</td></tr><tr><td>X6</td><td>2</td><td>2</td><td>2</td></tr></table></body></html>
+
+显然， $R _ { A } \subset R _ { d }$ ，因此 $( U , A , F , d )$ 为不协调决策信息系统，并且
+
+$$
+\begin{array} { r } { R _ { a _ { 1 } } = \{ \{ x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 } , x _ { 5 } \} , \{ x _ { 6 } \} \} , } \\ { R _ { a _ { 2 } } = \{ \{ x _ { 1 } , x _ { 2 } \} , \{ x _ { 3 } , x _ { 4 } , x _ { 5 } , x _ { 6 } \} \} , } \end{array}
+$$
+
+于是得到决策分布函数为：
+
+$\mu _ { A } ( x _ { 1 } ) = \mu _ { A } ( x _ { 2 } ) = ( 1 , 0 ) , \mu _ { A } ( x _ { 3 } ) = \mu _ { A } ( x _ { 4 } ) = \mu _ { A } ( x _ { 5 } ) = ( 0 . 6 7 , 0 . 3 3 ) ,$ $\mu _ { _ A } ( x _ { 6 } ) { = } ( 0 , 1 )$   
+$\mu _ { a _ { 1 } } ( x _ { 1 } ) = \mu _ { a _ { 1 } } ( x _ { 2 } ) = \mu _ { a _ { 1 } } ( x _ { 3 } ) = \mu _ { a _ { 1 } } ( x _ { 4 } ) = \mu _ { a _ { 1 } } ( x _ { 5 } ) = ( 0 . 8 , 0 . 2 ) , \mu _ { a _ { 1 } } ( x _ { 6 } )$ $\scriptstyle = ( 0 , 1 )$ ，  
+$\mu _ { a _ { 2 } } ( x _ { 1 } ) = \mu _ { a _ { 2 } } ( x _ { 2 } ) = ( 1 , 0 ) , \mu _ { a _ { 2 } } ( x _ { 3 } ) = \mu _ { a _ { 2 } } ( x _ { 4 } ) = \mu _ { a _ { 2 } } ( x _ { 5 } ) = \mu _ { a _ { 2 } } ( x _ { 6 } )$ $= ( 0 . 5 , 0 . 5 )$
+
+最大分布函数为 $\eta _ { _ A } ( x _ { 1 } ) = \eta _ { _ A } ( x _ { 2 } ) = \eta _ { _ A } ( x _ { 3 } ) = \eta _ { _ A } ( x _ { 4 } ) = \eta _ { _ A } ( x _ { 5 } ) =$ $\{ D _ { 1 } \} , \quad \eta _ { A } ( x _ { 6 } ) = \{ D _ { 2 } \}$
+
+$\begin{array} { r } { \eta _ { a _ { 1 } } ( x _ { 1 } ) = \eta _ { a _ { 1 } } ( x _ { 2 } ) = \eta _ { a _ { 1 } } ( x _ { 3 } ) = \eta _ { a _ { 1 } } ( x _ { 4 } ) = \eta _ { a _ { 1 } } ( x _ { 5 } ) = \{ D _ { 1 } \} , \eta _ { a _ { 1 } } ( x _ { 6 } ) = \{ D _ { 2 } \} } \\ { \eta _ { a _ { 2 } } ( x _ { 1 } ) = \eta _ { a _ { 2 } } ( x _ { 2 } ) = \{ D _ { 1 } \} , \eta _ { a _ { 2 } } ( x _ { 3 } ) = \eta _ { a _ { 2 } } ( x _ { 4 } ) = \eta _ { a _ { 2 } } ( x _ { 5 } ) = \eta _ { a _ { 2 } } ( x _ { 6 } ) = } \end{array}$ $\{ D _ { 1 } , D _ { 2 } \}$
+
+由定义2可知， $A$ 属于分布约简集，但不是最大分布约简集。
+
+# 2 知识约简理论分析
+
+不协调决策信息系统 $( U , A , F , d )$ ，对 $\forall x _ { i } \in U$ ，根据上述有关定义和定理，可以准确区分属性子集的约简性和协调性。下面首先给出分布区分对象集对概念及其性质定理。
+
+定义 $\pmb { 3 } ^ { [ 1 2 , 1 4 ] }$ 设 $( U , A , F , d )$ 为不协调决策信息系统，$U / R _ { _ A } { = } \{ [ x _ { _ 1 } ] _ { _ A } , [ x _ { _ 2 } ] _ { _ A } , { \cdots } , [ x _ { _ i } ] _ { _ A } \}$ ，$\mu _ { A } ( x _ { i } ) = ( D ( D _ { 1 } / [ x _ { i } ] _ { A } ) , D ( D _ { 2 } / [ x _ { i } ] _ { A } ) , \cdots , D ( D _ { r } / [ x _ { i } ] _ { A } ) ) \ ( \forall x _ { i } \in U ) \ ,$ $\eta _ { A } ( x _ { i } ) = \{ D _ { j 0 } \left| D ( D _ { j 0 } / [ x _ { i } ] _ { A } ) = \operatorname* { m a x } _ { j \leq r } D ( D _ { j } / [ x _ { i } ] _ { A } ) \right. \}$ ，其分布区分对象集对、最大分布区分对象集对分别定义为
+
+$$
+\begin{array} { r } { D _ { \mu } ^ { * } = \left\{ ( [ x _ { i } ] _ { A } , [ x _ { j } ] _ { A } ) \vert \mu _ { A } ( x _ { i } ) \neq \mu _ { A } ( x _ { j } ) \right\} ( 4 ) } \\ { D _ { \eta } ^ { * } = \left\{ ( [ x _ { i } ] _ { A } , [ x _ { j } ] _ { A } ) \vert \eta _ { A } ( x _ { i } ) \neq \eta _ { A } ( x _ { j } ) \right\} ( 5 ) } \end{array}
+$$
+
+定义 $\pmb { 4 } ^ { [ 1 2 , 1 5 ] }$ 设 $( U , A , F , d )$ 为不协调决策信息系统，$U / R _ { \scriptscriptstyle A } = \{ C _ { 1 } , C _ { 2 } , \cdots , C _ { \scriptscriptstyle m } \}$ ， $f _ { a _ { k } } ( C _ { i } )$ 表示 $a _ { \scriptscriptstyle k }$ 关于 $C _ { i }$ 的值。
+
+a）记
+
+$$
+D _ { 1 } ( C _ { i } , C _ { j } ) = \left\{ \begin{array} { c l } { \left\{ a _ { k } \ : \middle | a _ { k } \in A , f _ { a _ { k } } ( C _ { i } ) \neq f _ { a _ { k } } ( C _ { j } ) } & { ( C _ { i } , C _ { j } ) \in D _ { 1 } ^ { * } \right. } \\ { \left. \emptyset } & { ( C _ { i } , C _ { j } ) \notin D _ { 1 } ^ { * } \right. } \end{array} \right.
+$$
+
+则定义 ${ M _ { \mu } } = \{ D _ { \mu } ( { C _ { i } } , { C _ { j } } ) , i , j \le m \}$ 为分布区分矩阵。
+
+b）记
+
+$$
+\begin{array}{c} D _ { \eta } ( C _ { i } , C _ { j } ) = \left\{ \begin{array} { c c } { \left\{ a _ { k } \ : \middle | a _ { k } \in A , f _ { a _ { k } } ( C _ { i } ) \neq f _ { a _ { k } } ( C _ { j } ) } & { ( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * } \right. } \\ { \left. \qquad \varnothing \right.} & { ( C _ { i } , C _ { j } ) \notin D _ { \eta } ^ { * } } \end{array}   \end{array} \right.
+$$
+
+则定义 ${ M _ { \eta } } = \{ D _ { \eta } ( { C _ { i } } , { C _ { j } } ) , i , j \le m \}$ 为最大分布区分矩阵。
+
+显然，定义4是在定义2基础上的进一步拓展和延伸。由上述定义易知下列性质和定理。
+
+性质1设 $( U , A , F , d )$ 为不协调决策信息系统，$U / R _ { \scriptscriptstyle A } = \{ C _ { 1 } , C _ { 2 } , \cdots , C _ { \scriptscriptstyle m } \}$ ，易知 ${ \cal M } _ { \mu }$ 、 $M _ { \eta }$ 具有以下性质：
+
+a） $\boldsymbol { M } _ { \mu }$ 、 $M _ { \eta }$ 为对称矩阵，即 $D _ { \mu } ( C _ { i } , C _ { j } ) = D _ { \mu } ( C _ { j } , C _ { i } )$ ，$D _ { \eta } ( C _ { i } , C _ { j } ) = D _ { \eta } ( C _ { j } , C _ { i } ) \ , \forall i , j \le m \ ;$
+
+b） ${ { M } _ { \mu } }$ 、 $M _ { \eta }$ 对角线上元素都为 $A$ ，即$D _ { \mu } ( C _ { i } , C _ { i } ) = D _ { \eta } ( C _ { i } , C _ { i } ) = A \ , \forall i \leq m \ ;$ （
+
+c） $D _ { \mu } ( C _ { i } , C _ { j } ) \subseteq D _ { \mu } ( C _ { i } , C _ { k } ) \cup D _ { \mu } ( C _ { k } , C _ { j } ) ~ , ~ \forall i , k , j \leq m$ $D _ { \eta } ( C _ { i } , C _ { j } ) \subseteq D _ { \eta } ( C _ { i } , C _ { k } ) \cup D _ { \eta } ( C _ { k } , C _ { j } ) \ , \forall i , k , j \leq m$
+
+定理3设 $( U , A , F , d )$ 为不协调决策信息系统，对于 $\forall$ $B \subseteq A$ ，则有：
+
+a） $B$ 为分布协调集当且仅当对 $\forall ( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * }$ ，$B \cap D _ { \mu } ( C _ { i } , C _ { j } ) \neq \emptyset$ 。
+
+b） $B$ 为最大分布协调集当且仅当对 $\forall ( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * }$ ，$B \cap D _ { \eta } ( C _ { i } , C _ { j } ) \neq \emptyset$ 。
+
+证明a)充分性。假设 $B$ 为分布协调集,若 $\forall ( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * }$ ，记 $C _ { i } = [ x _ { i } ] _ { A }$ ， $C _ { j } = [ x _ { j } ] _ { A }$ ，则由分布协调集的定义，知$\mu _ { _ A } ( x _ { i } ) \neq \mu _ { _ A } ( x _ { j } )$ 。根据定义2的a）可知 $[ x _ { i } ] _ { _ A } \cap [ x _ { j } ] _ { _ A } = \emptyset$ 。则$a _ { k } \in B$ ，使得 $f _ { k } ( x _ { i } ) \neq f _ { k } ( x _ { j } )$ ，即 $f _ { k } ( C _ { i } ) \neq f _ { k } ( C _ { j } )$ ，因而有$a _ { k } \in D _ { \mu } ( C _ { i } , C _ { j } )$ 成立。从而，结论 $B \cap D _ { \mu } ( C _ { i } , C _ { j } ) \neq \emptyset$ 成立。
+
+必要性。假设 $( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * }$ ，使得 $B \cap D _ { \mu } ( C _ { i } , C _ { j } ) = \emptyset$ 成立，记 $\boldsymbol { C } _ { i } = [ \boldsymbol { x } _ { i } ] _ { A }$ ， $C _ { j } = [ x _ { j } ] _ { A }$ ，则由分布协调集的定义，可知$\mu _ { _ A } ( x _ { i } ) \neq \mu _ { _ A } ( x _ { j } )$ 。对于 $\forall a _ { k } \in B$ ，必然 $\exists ~ a _ { k } \notin D _ { \mu } ( C _ { i } , C _ { j } )$ ，使得$f _ { k } ( C _ { i } ) = f _ { k } ( C _ { j } )$ ，即 $f _ { k } ( x _ { i } ) = f _ { k } ( x _ { j } )$ ，这说明 $[ x _ { i } ] _ { B } = [ x _ { j } ] _ { B }$ ，根据定义2的a）可知 $B$ 不为分布协调集。证毕。
+
+b)充分性。假设 $B$ 为最大分布协调集，若 $\forall ( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * }$ ，记 $\boldsymbol { C } _ { i } = [ \boldsymbol { x } _ { i } ] _ { A }$ ， $C _ { j } = \bigl [ x _ { j } \bigr ] _ { A }$ ，则由分不协调集的定义可知$\mu _ { _ A } ( x _ { i } ) \neq \mu _ { _ A } ( x _ { j } )$ 。根据定义2的b）可知 $[ x _ { i } ] _ { A } \cap [ x _ { j } ] _ { A } = \emptyset$ 。则$a _ { k } \in B$ ，使得 $f _ { k } ( x _ { i } ) \neq f _ { k } ( x _ { j } )$ ，即 $f _ { k } ( C _ { i } ) \neq f _ { k } ( C _ { j } )$ ，因而有$a _ { \boldsymbol { k } } \in D _ { \eta } ( C _ { i } , C _ { j } )$ 成立。从而，结论 $B \cap D _ { \eta } ( C _ { i } , C _ { j } ) \neq \emptyset$ 成立。
+
+必要性。假设 $( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * }$ ，使得 $B \cap D _ { \eta } ( C _ { i } , C _ { j } ) = \emptyset$ 成立，记 $\boldsymbol { C } _ { i } = [ x _ { i } ] _ { A }$ ， $C _ { j } = [ x _ { j } ] _ { A }$ ，则根据分布协调集的定义，可知$\mu _ { _ A } ( x _ { i } ) \neq \mu _ { _ A } ( x _ { j } )$ 。对于 $\forall a _ { k } \in B$ ，必然 $a _ { k } \notin D _ { \eta } ( C _ { i } , C _ { j } )$ ，使得$f _ { k } ( C _ { i } ) = f _ { k } ( C _ { j } )$ ，即 $f _ { k } ( x _ { i } ) = f _ { k } ( x _ { j } )$ ，这说明 $[ x _ { i } ] _ { B } = [ x _ { j } ] _ { B }$ ，根据定义2的b）可知， $B$ 不为最大分布协调集。证毕。
+
+定理3实质上给出了判定不协调决策信息系统属性子集是否协调的理论依据。
+
+定义 $\pmb { 5 } ^ { [ 1 2 , 1 5 ] }$ 设 $( U , A , F , d )$ 为不协调决策信息系统，$U / R _ { \scriptscriptstyle A } = \{ C _ { 1 } , C _ { 2 } , \cdots , C _ { m } \}$ ，则其分布区分公式、最大分布区分公式分别定义为
+
+$$
+\begin{array} { c } { { F _ { \mu } = \underset { ( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * } } { \wedge } \{ \times D _ { \mu } ( C _ { i } , C _ { j } ) \} } } \\ { { { } } } \\ { { F _ { \eta } = \underset { ( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * } } { \wedge } \{ \times D _ { \eta } ( C _ { i } , C _ { j } ) \} } } \end{array}
+$$
+
+定理4设 $( U , A , F , d )$ 为不协调决策信息系统， $F _ { \mu }$ 最小析取范式简记为 $F _ { \mu } = \overset { m } { \underset { k = 1 } { \vee } } \{ \underset { i = 1 } { \wedge } a _ { i } \}$ ，若 $B _ { k } = \{ a _ { i } | i = 1 , 2 , \cdots , n \}$ ，则$\{ B _ { k } | k = 1 , 2 , \cdots , m \}$ 包含所有分布约简集。
+
+证明对 $\forall k \leq m$ ， $( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * }$ ，由最小析取范式的定义知$B _ { k } \cap D _ { \mu } ( C _ { i } , C _ { j } ) \not = \emptyset$ ，根据定理3a）可知 $B _ { k }$ 为分布协调集。若$F _ { \mu } = \overset { m } { \underset { k = 1 } { \vee } } ( B _ { k } )$ 从 $B _ { k }$ 中任意约去元素 $a _ { i }$ 成为 $B _ { k } ^ { ' }$ ，即 $B _ { k } ^ { ' } = B _ { k } - \{ a _ { i } \}$ ，则 $\exists x _ { i } , x _ { j } \in U$ ，且 $\boldsymbol { C } _ { i } = [ \boldsymbol { x } _ { i } ] _ { A }$ ， $\boldsymbol { C } _ { j } = [ \boldsymbol { x } _ { j } ] _ { A }$ ， $( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * }$ ，使$B _ { k } ^ { ' } \cap D _ { \mu } ( C _ { i } , C _ { j } ) = \emptyset$ ，则 $B _ { k } ^ { ' }$ 不是分布协调集，从而 $B _ { k }$ 是分布约简。而区分公式 $F _ { \mu }$ 包括所有 $D _ { \mu } ( C _ { i } , C _ { j } )$ ，因此不含其他分布约简。
+
+定理5设 $( U , A , F , d )$ 为不协调决策信息系统， $F _ { \eta }$ 最小析取范式简记为 $F _ { \eta } = \overset { m } { \underset { k = 1 } { \vee } } \{ \underset { i = 1 } { \wedge } a _ { i } \}$ ，若 $B _ { k } = \{ a _ { i } | i = 1 , 2 , \cdots , n \}$ ，则$\{ B _ { k } \mid k = 1 , 2 , \cdots , m \}$ 包含所有最大分布约简集。
+
+证明对 $\forall k \leq m$ ， $( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * }$ ，由最小析取范式的定义知$B _ { k } \cap D _ { \eta } ( C _ { i } , C _ { j } ) \neq \emptyset$ ，根据定理3（2)，可知 $B _ { k }$ 为最大分布协调集。若 $F _ { \eta } = \overset { m } { \underset { k = 1 } { \vee } } ( B _ { k } )$ 从 $B _ { k }$ 中任意约去元素 $a _ { i }$ 成为 $B _ { k } ^ { ' }$ ，即$B _ { k } ^ { ' } = B _ { k } - \{ a _ { i } \}$ ，则 $\exists x _ { i } , x _ { j } \in U$ ，且 $\boldsymbol { C } _ { i } = [ \boldsymbol { x } _ { i } ] _ { A }$ ， $C _ { j } = [ x _ { j } ] _ { A }$ ，$( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * }$ ，使 $B _ { k } ^ { ' } \cap D _ { \eta } ( C _ { i } , C _ { j } ) = \emptyset$ ，则 $B _ { k } ^ { ' }$ 不是最大分布协调集，从而 $B _ { k }$ 是最大分布约简。而最大区分公式 $F _ { \eta }$ 包括所有$D _ { \eta } ( C _ { i } , C _ { j } )$ ，因此不含其他最大分布约简。
+
+定理4和5分别给出了利用分布区分公式和最大分布区分公式，计算其最小析取范式，可以确定不协调决策信息系统各种相对约简集的方法。
+
+# 3 不协调决策信息系统的知识约简方法
+
+# 3.1算法原理与描述
+
+根据知识约简相关理论分析，一方面，由定义3和4可知，可以计算不协调决策信息系统的分布区分对象集对和最大分布区分对象集对，从而准确区分对象属性集;另一方面，根据定义5、定理4和5，可以构建分布区分矩阵和最大分布区分矩阵，通过计算最小析取范式，得出所有相对约简集。依据上述有关定义及性质定理，设计一种基于分布区分对象集的知识约简算法，具体算法过程描述如下：
+
+算法1基于分布区分对象集的知识约简算法输入：不协调决策信息系统 ${ \cal { S } } = ( U , A , F , d )$ 输出：属性约简集Reductiona)对于 ${ \cal { S } } = ( U , A , F , d )$ 中 $\forall x _ { i } \in U$ ，计算 $\left[ x _ { i } \right] _ { A }$ ：b)对于 ${ \cal { S } } = ( U , A , F , d )$ 中 $\forall x _ { i } \in U$ ，计算决策等价类 $\left[ x _ { i } \right] _ { d }$ ：
+
+$$
+U \mathbin { \langle } R _ { d } = \{ D _ { 1 } , D _ { 2 } , \cdots , D _ { r } \} = \{ ( x _ { i } , x _ { j } ) \in U \times U \mathbin { \lvert } d ( x _ { i } ) = d ( x _ { j } ) \} ;
+$$
+
+c)计算 ${ \cal { S } } = ( U , A , F , d )$ 的分布约简集;
+
+(a)根据定义1，对 $\forall x _ { i } \in U$ ，求解 $\mu _ { A } ( x _ { i } )$ ：
+
+$$
+\mu _ { A } ( x _ { i } ) { = } ( D ( D _ { 1 } / [ x _ { i } ] _ { A } ) , D ( D _ { 2 } / [ x _ { i } ] _ { A } ) { , } ^ { { \dots } , } D ( D _ { r } / [ x _ { i } ] _ { A } ) ) ;
+$$
+
+(b)计算 $\boldsymbol { D } _ { \mu } ^ { * }$ 得分布区分对象集的集对 $\boldsymbol { D } _ { \mu } ^ { * }$ ： $D _ { \mu } ^ { * } = \left\{ ( [ x _ { i } ] _ { { A } } , [ x _ { j } ] _ { { A } } ) \vert \mu _ { { A } } ( x _ { i } ) \neq \mu _ { { A } } ( x _ { j } ) \right\} ;$ （20
+
+(c)根据分布区分对象集的集对计算分布区分属性集$D _ { \mu } ( C _ { i } , C _ { j } )$ ：
+
+$$
+\begin{array}{c} D _ { \mu } ( C _ { i } , C _ { j } ) = \left\{ \begin{array} { c c } { { \{ a _ { k } \ : \left| \ : a _ { k } \in A , f _ { a _ { k } } ( C _ { i } ) \neq f _ { a _ { k } } ( C _ { j } ) \right.} } & { { ( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * } } } \\ { { \varnothing } } & { { ( C _ { i } , C _ { j } ) \not \in D _ { \mu } ^ { * } } } \end{array}  ;   \end{array} \right.
+$$
+
+(d)根据 $D _ { \mu } ( C _ { i } , C _ { j } )$ 计算分布区分矩阵 ${ \mathbf { } } M _ { \mathbf { \Gamma } _ { \mu } }$ ： $M _ { \mu } = \underset { i , j } { \wedge } \{ \vee D _ { \mu } ( C _ { i } , C _ { j } ) \} = \underset { ( C _ { i } , C _ { j } ) \in D _ { \mu } ^ { * } } { \wedge } \{ \vee D _ { \mu } ( C _ { i } , C _ { j } ) \} ,$ （20
+
+(e)计算Fμ={△ai}的最小析取范式，得分布约简集Fmin；
+
+d)计算 ${ \cal { S } } = ( U , A , F , d )$ 的最大分布约简集；
+
+(a)根据定义1，对于 $\forall x _ { i } \in U$ ，求解 $\eta _ { A } ( x _ { i } )$ ：
+
+$$
+\eta _ { A } ( x _ { i } ) = \{ D _ { j 0 } \vert D ( D _ { j 0 } / [ x _ { i } ] _ { A } ) = \operatorname* { m a x } _ { j \leq r } D ( D _ { j } / [ x _ { i } ] _ { A } ) \} ,
+$$
+
+$$
+( x _ { i } \in U ) ;
+$$
+
+(b)计算 $\boldsymbol { D } _ { \eta } ^ { * }$ 得最大分布区分对象集的集对 $\boldsymbol { D } _ { \eta } ^ { * }$ ：$D _ { \eta } ^ { \ast } = \left\{ ( [ x _ { i } ] _ { A } , [ x _ { j } ] _ { A } ) \vert \eta _ { A } ( x _ { i } ) \neq \eta _ { A } ( x _ { j } ) \right\} ;$
+
+(c)根据最大分布区分对象集的集对计算最大分布区分属性集 $D _ { \eta } ( C _ { i } , C _ { j } )$ ：
+
+$$
+D _ { \eta } ( C _ { i } , C _ { j } ) = \left\{ ^ \{ a _ { k } \mid a _ { k } \in A , f _ { a _ { k } } ( C _ { i } ) \neq f _ { a _ { k } } ( C _ { j } ) \quad ( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * }  _ { \textstyle \mathscr { O } } \right. ,
+$$
+
+(d)根据 $D _ { \eta } ( C _ { i } , C _ { j } )$ 计算最大分布区分矩阵
+
+$$
+M _ { \eta } = \underset { i , j } { \wedge } \{ \times D _ { \eta } ( C _ { i } , C _ { j } ) \} = \underset { ( C _ { i } , C _ { j } ) \in D _ { \eta } ^ { * } } { \wedge } \{ \times D _ { \eta } ( C _ { i } , C _ { j } ) \} \ ;
+$$
+
+(e)计算 $F _ { \eta } = \overset { m } { \vee } \left\{ \underset { i = 1 } { \wedge } a _ { i } \right\}$ 的最小析取范式，得所有最大分布约简集 $F _ { \eta } ^ { \mathrm { m i n } }$ ；e)输出 $F _ { \mu } ^ { \mathrm { m i n } }$ 和 $F _ { \eta } ^ { \mathrm { m i n } }$ （204号
+
+# 3.2算法分析
+
+1）时间复杂度分析
+
+步骤a)和b)的时间开销为 $O ( | U | )$ 。对于步骤c)中,(a)(b)可在时间复杂度 $O ( | U | ^ { 2 } )$ 内完成；(c)时间复杂度为 $O ( | D _ { \mu } ^ { * } | . | C | )$ ：(d)(e)时间复杂度接近于 $O ( | U | ^ { 2 } )$ ；步骤d)中，(a)的时间复杂度为 $O ( | \mu _ { _ A } ( x ) | )$ ；(b)的时间复杂度为 $O ( | U | ^ { 2 } )$ ；（c）的时间复杂度为 $O ( | D _ { \eta } ^ { * } | . | C | )$ ；(e)(f)可在时间复杂度 $O ( | U | ^ { 2 } )$ 内完成。因此,本算法总的时间复杂度为 $\operatorname* { m a x } \{ O ( \mid U \mid ^ { 2 } ) , O ( \mid D _ { \mu } ^ { * } \mid . . | C | ) \}$ □
+
+# 2）空间复杂度分析
+
+算法1的空间复杂度为 $\operatorname* { m a x } \{ O ( | U | | C | ) , O ( | D _ { \mu } ^ { * } | . | C | ) \}$ 。
+
+与算法1相比，文献[10]中采用的属性约简算法的时间复杂度取决于广义分配辨识矩阵约简算法的时间复杂度，为$O ( | C | ^ { 3 } . | U | ^ { 2 } )$ ，计算过程较为复杂。文献[14]在计算不协调信息系统的属性约简时，需要构建决策系统的区分矩阵来存储差别属性，因而占用较大的存储空间，即算法的空间复杂度为$O ( | C | . | U | ^ { 2 } )$ 。显然，与目前常用的属性约简算法相比较，本文算法在时间复杂度和空间复杂度上都具有较大的优势，并且能够求出系统所有分布约简集和最大分布约简集。
+
+# 4基于分布约简算法的决策规则获取
+
+不协调决策信息系统的决策规则获取是在属性约简基础上归纳出条件属性和决策属性之间的关联关系。在决策规则获取过程中，决策规则的前件表示属性集描述，后件对应决策结论。设 ${ \cal { S } } = ( U , A , F , d )$ 为不协调决策信息系统， $B \subseteq A \ , d = \{ d \}$ ，$U / R _ { d } = \{ d _ { 1 } , d _ { 2 } , \cdots d _ { r } \}$ ，则决策规则可表示为：$r _ { x } : \wedge ( a , \nu ) \to \vee ( d , w )$ ,其中, $a \in B \subseteq A$ ， $\nu \in V _ { a }$ ， $w \in V _ { d }$ ， $V _ { a }$ 表示 $\boldsymbol { a }$ 的值域, $V _ { d }$ 表示 $d$ 的有限值域。
+
+$r _ { x }$ 的可信度因子用 $C ( r _ { x } ^ { i } )$ 衡量
+
+$$
+C ( r _ { x } ^ { i } ) = \operatorname* { m a x } _ { i = 1 } ^ { m } \{ \frac { \lvert [ x ] _ { B } \cap [ x ] _ { d } \rvert } { \lvert [ x ] _ { B } \rvert } \}
+$$
+
+其中: $[ x ] _ { B }$ 为 $B$ 的等价类， $[ x ] _ { d }$ 为 $d$ 的等价类，|?为集合基数。易知， $C ( r _ { x } ) { = } 1$ ，表明 $r _ { x }$ 是确定规则； $0 < C ( r _ { x } ) < 1$ ，表明 $r _ { x }$ 是不确定规则。
+
+定义 ${ \bf 6 } ^ { [ 1 6 - 1 8 ] }$ 设 ${ \scriptstyle \bigwedge } ( a , \nu ) \to \lor ( d , \nu )$ 为一般决策规则，则称$\operatorname { R e } d ( \wedge ( a , \nu ) )  \vee ( d , w )$ 为优化决策规则。此定义表明，优化决策规则是确定性程度最高且条件属性描述最简洁的决策规则。
+
+# 4.1不协调决策信息系统优化决策规则获取算法
+
+根据不协调决策信息系统的知识约简和决策规则获取理论分析，从不协调决策系统中提取决策规则就是利用数据的分布约简和最大分布约简构造新的决策表，再引入规则可信度，归纳出优化的决策规则。从不协调决策信息系统中获取优化决策规则具体算法如下：
+
+算法2基于分布约简集的优化决策规则获取算法输入：不协调决策信息系统 ${ \cal { S } } = ( U , A , F , d )$ 。输出：最优决策规则集。a)根据算法1给出的约简算法，计算 ${ \cal { S } } = ( U , A , F , d )$ 中所有分布约简集 $F _ { \mu } ^ { \mathrm { m i n } }$ 和最大分布约简集 $F _ { \eta } ^ { \mathrm { m i n } }$ ；b)分别根据 $F _ { \mu } ^ { \mathrm { m i n } }$ 和 $F _ { \eta } ^ { \mathrm { m i n } }$ ，构建新决策信息系统$\boldsymbol { S } ^ { ' } = ( \boldsymbol { U } , \boldsymbol { A } , \boldsymbol { F } , \boldsymbol { d } )$ ；c)规则获取与选择。计算可信度，当可信度达到设定的阈值时，提取 $\boldsymbol { S } ^ { ' } = ( \boldsymbol { U } , \boldsymbol { A } , \boldsymbol { F } , \boldsymbol { d } )$ 中所有符合条件的决策规则；d)获取最优决策规则。将最后得到的决策规则进行整合，分别输出 $C ( r _ { x } ) { = } 1$ 的确定规则集和 $0 < C ( r _ { x } ) < 1$ 的不确定规则集。
+
+# 5 算例分析
+
+为了进一步分析本文算法的有效性，表2给出了一个不协调决策信息系统 ${ \cal { S } } = ( U , A , F , d )$ ，其中 $U = \{ x _ { 1 } , x _ { 2 } , \cdots , x _ { 6 } \}$ ，$C = \{ a _ { 1 } , a _ { 2 } , a _ { 3 } , a _ { 4 } \}$ ， $d = \{ d \}$ 。
+
+表2不协调决策信息系统  
+
+<html><body><table><tr><td>U</td><td>a1</td><td>a2</td><td>a3</td><td>a4</td><td>d</td></tr><tr><td>X1</td><td>1</td><td>2</td><td>2</td><td>2</td><td>1</td></tr><tr><td>X2</td><td>2</td><td>1</td><td>1</td><td>2</td><td>2</td></tr><tr><td>X3</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td></tr><tr><td>X4</td><td>2</td><td>1</td><td>2</td><td>2</td><td>1</td></tr><tr><td>X5</td><td>2</td><td>1</td><td>1</td><td>1</td><td>2</td></tr><tr><td>X6</td><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td></tr></table></body></html>
+
+a）根据算法1的步骤a)，可计算条件属性等价类为$C _ { 1 } = \left[ x _ { 1 } \right] _ { A } = \left\{ x _ { 1 } \right\} \quad ; \quad C _ { 2 } = \left[ x _ { 2 } \right] _ { A } = \left\{ x _ { 2 } \right\} \quad ; \quad C _ { 3 } = \left[ x _ { 3 } \right] _ { A } = \left\{ x _ { 3 } , x _ { 4 } , x _ { 6 } \right\}$ ；$C _ { 4 } = [ x _ { 5 } ] _ { A } = \{ x _ { 5 } \}$
+
+b）根据算法1的步骤b)，计算决策属性等价类为：
+
+$$
+d _ { 1 } = \{ x _ { 1 } , x _ { 3 } , x _ { 4 } \} ; d _ { 2 } = \{ x _ { 2 } , x _ { 5 } , x _ { 6 } \}
+$$
+
+c）根据算法1的步骤c计算分布约简：
+
+(a)根据步骤c)中(a)计算分布函数 $\mu _ { A } ( x _ { i } )$ 的值， $i = 1 , 2 , \cdots , 6$ ，$\begin{array} { l } { { \mu _ { A } ( x _ { 1 } ) = ( 1 , 0 ) ~ ; ~ \mu _ { A } ( x _ { 2 } ) = ( 0 , 1 ) ~ ; ~ \mu _ { A } ( x _ { 3 } ) ~ = ~ \mu _ { A } ( x _ { 4 } ) ~ = ~ \mu _ { A } ( x _ { 6 } ) ~ = ~ } } \\ { { ( 0 . 6 7 , 0 . 3 3 ) ; \mu _ { A } ( x _ { 5 } ) = ( 0 , 1 ) ; } } \end{array}$
+
+(b)根据步骤c)中（b）计算分布区分对象集对：$D _ { \mu } ^ { ' } = \{ ( C _ { 1 } , C _ { 2 } ) , ( C _ { 1 } , C _ { 3 } ) , ( C _ { 1 } , C _ { 4 } ) , ( C _ { 2 } , C _ { 3 } ) , ( C _ { 3 } , C _ { 4 } ) \}$
+
+(c)根据步骤c)中（c）计算分布区分属性集：
+
+$$
+D _ { \mu } ( C _ { 1 } , C _ { 2 } ) = \{ a _ { 1 } , a _ { 2 } , a _ { 3 } \} ; D _ { \mu } ( C _ { 1 } , C _ { 3 } ) = \{ a _ { 1 } , a _ { 2 } \} ;
+$$
+
+$$
+D _ { \mu } ( C _ { 1 } , C _ { 4 } ) = \{ a _ { 1 } , a _ { 2 } , a _ { 3 } , a _ { 4 } \} ; D _ { \mu } ( C _ { 2 } , C _ { 3 } ) = \{ a _ { 3 } \} ;
+$$
+
+$$
+D _ { \mu } ( C _ { 3 } , C _ { 4 } ) = \{ a _ { 3 } , a _ { 4 } \}
+$$
+
+(d)根据步骤c)中(e)(f)，计算最小析取范式：
+
+$$
+\begin{array} { r l } & { F _ { \mu } = ( a _ { 1 } \lor a _ { 2 } \lor a _ { 3 } ) \land ( a _ { 1 } \lor a _ { 2 } ) \land } \\ & { ( a _ { 1 } \lor a _ { 2 } \lor a _ { 3 } \lor a _ { 4 } ) \land a _ { 3 } \land ( a _ { 3 } \lor a _ { 4 } ) } \end{array}
+$$
+
+因此， ${ \cal { S } } = ( U , A , F , d )$ 的分布约简集为 $\{ a _ { 1 } , a _ { 3 } \}$ 和 $\{ a _ { 2 } , a _ { 3 } \}$ 。
+
+d）根据算法1的步骤d)求最大分布约简：
+
+(a)根据步骤d)中(a)计算最大分布函数 $\eta _ { A } ( x _ { i } )$ 的值，$i = 1 , 2 , \cdots , 6$
+
+$$
+\eta _ { A } ( x _ { 1 } ) = \{ D _ { 1 } \} ; \eta _ { A } ( x _ { 2 } ) = \{ D _ { 2 } \} ;
+$$
+
+$$
+\begin{array} { r } { \eta _ { A } ( x _ { 3 } ) = \eta _ { A } ( x _ { 4 } ) = \eta _ { A } ( x _ { 6 } ) = \{ D _ { 1 } \} ; \eta _ { A } ( x _ { 5 } ) = \{ D _ { 2 } \} } \end{array}
+$$
+
+(b)根据步骤d)中(b)计算最大分布区分对象的集对：
+
+$$
+\boldsymbol { D } _ { \eta } ^ { * } = \{ ( C _ { 1 } , C _ { 2 } ) , ( C _ { 1 } , C _ { 4 } ) , ( C _ { 2 } , C _ { 3 } ) , ( C _ { 3 } , C _ { 4 } ) \}
+$$
+
+(c)根据步骤步骤d)中(c)计算最大分布区分属性集：
+
+$$
+D _ { \eta } ( C _ { 1 } , C _ { 2 } ) = \{ a _ { 1 } , a _ { 2 } , a _ { 3 } \} ; D _ { \eta } ( C _ { 1 } , C _ { 4 } ) = \{ a _ { 1 } , a _ { 2 } , a _ { 3 } , a _ { 4 } \} ;
+$$
+
+$$
+D _ { \eta } ( C _ { 2 } , C _ { 3 } ) = \{ a _ { 3 } \} ; D _ { \eta } ( C _ { 3 } , C _ { 4 } ) = \{ a _ { 3 } , a _ { 4 } \}
+$$
+
+(d)根据步骤d)中(d)和(e)，计算最小析取范式：
+
+$$
+\begin{array} { r l } & { F _ { \eta } = ( a _ { 1 } \vee a _ { 2 } \vee a _ { 3 } ) \wedge } \\ & { ( a _ { 1 } \vee a _ { 2 } \vee a _ { 3 } \vee a _ { 4 } ) \wedge a _ { 3 } \wedge ( a _ { 3 } \vee a _ { 4 } ) } \end{array} = a _ { 3 }
+$$
+
+因此， ${ \cal { S } } = ( U , A , F , d )$ 的最大分布约简为 $\{ a _ { 3 } \}$ 。
+
+e）根据算法2，基于 $\boldsymbol { F } _ { \mu } ^ { \mathrm { m i n } } = \{ \{ a _ { 1 } , a _ { 3 } \} \}$ ，对应优化决策规则集为
+
+$$
+\begin{array} { l } { r _ { 1 } \colon ( a _ { 1 } , 1 ) \wedge ( a _ { 3 } , 2 ) \to ( d , 1 ) } \\ { \qquad \mathnormal { r } _ { 2 } \colon ( a _ { 1 } , 2 ) \wedge ( a _ { 3 } , 1 ) \to ( d , 2 ) } \end{array}
+$$
+
+$$
+r _ { 3 } : ( a _ { 1 } , 2 ) \land ( a _ { 3 } , 2 )  ( d , 1 ) \lor ( d , 2 )
+$$
+
+基于 $\boldsymbol { F } _ { \mu } ^ { \mathrm { m i n } } = \{ \{ a _ { 2 } , a _ { 3 } \} \}$ ，对应优化决策规则集为
+
+$$
+r _ { 1 } : ( a _ { 2 } , 2 ) \wedge ( a _ { 3 } , 2 ) \to ( d , 1 )
+$$
+
+$$
+r _ { 2 } : ( a _ { 2 } , 1 ) \wedge ( a _ { 3 } , 1 ) \to ( d , 2 )
+$$
+
+$$
+r _ { 3 } : ( a _ { 2 } , 1 ) \land ( a _ { 3 } , 2 )  ( d , 1 ) \lor ( d , 2 )
+$$
+
+f)基于 $F _ { \eta } ^ { \mathrm { m i n } } = \{ \{ a _ { 3 } \} \}$ ，对应优化决策规则集为
+
+$$
+r _ { 1 } : ( a _ { 3 } , 1 )  ( d , 2 )
+$$
+
+$$
+r _ { 2 } : ( a _ { 3 } , 2 )  ( d , 1 ) \vee ( d , 2 )
+$$
+
+因此，不协调决策信息系统 ${ \cal { S } } = ( U , A , F , d )$ 的分布约简集$B _ { 1 } = \{ \{ a _ { 1 } , a _ { 3 } \} , \{ a _ { 2 } , a _ { 3 } \} \}$ ，最大分布约简集 $B _ { 2 } = \{ a _ { 3 } \}$ ，并且都能够从决策系统中挖掘出更为优化的决策规则集，从而使决策知识更加科学合理。
+
+# 6 结束语
+
+本文面向不协调决策信息系统，引入分布约简和最大分布约简概念，获取系统相对约简集，构建了基于分布区分对象集的知识约简算法，该算法通过求解分布区分对象集集对和最小析取范式从而得到知识约简集，并能充分挖掘优化决策规则集，提高了决策规则获取算法效率，为不协调信息系统决策知识发现提供了一种新的思路与方法，实例验证了本文方法的有效性和实用性。下一步将针对系统数据变化情况，重点研究知识动态挖掘及其应用问题。
+
+# 参考文献：
+
+[1]Pawlak Z,Skowron A.Rudiments of rough sets [J].Information Sciences, 2007,177 (1): 3-27.   
+[2]Estaji AA,Hooshmandasl MR,Davva B.Rough set theory applied to lattice theory[J].Information Science,2012,20o:108-122.   
+[3] Zhang W X,Liang Y,Wu W Z. Information systems and knowledge discovery [M].Beijing: Science Press,2003:22-47.   
+[4]Kryszkiewicz M.Rules in incomplete information systems [J]. Information Science,1999,113:271-292.   
+[5]Guang Yanyong,Wang Hongkai. Set-valued information systems [J]. Information Science,2006,176 (5): 2507-2525.   
+[6]Chen D G,Wang C Z,Hu Q H.A new approach to atribute reduction of consistent and inconsistent covering decision systems with covering rough sets [J].Information Sciences,2007,177(17):3500-3518.   
+[7]Leung Y,Ma JM, Zhang W X,LiT J.Dependence-space-based attribute reductions in inconsistent decision information systems [J]. International Journal of Approximate Reasoning,2008,49 (3): 623-630.   
+[8]Miao DQ,Zhao Y,Yao Y Y,et al.Relative reducts in consistent and inconsistent decision tables of the pawlak rough set model[J].Information Sciences,2009,179 (24): 4140-4150.   
+[9]张文修，仇国芳.基于粗糙集的不确定决策[M].北京：清华大学出版 社,2005.
+
+[10]莫京兰，翁世洲，吕跃进．不协调序信息系统的广义分配约简[J].模
+
+糊系统与数学,2014,28(6):163-168.  
+[11]Kryszkiewicz M.Comparative studies of alternative type of knowledgereduction in inconsistent systems [J]. International Journal of IntelligentSystems,2001,16(1):105-120.  
+[12]张文修，米据生，吴伟志．不协调目标信息系统的知识约简[J].计算机学报,2003,26(1):12-18.  
+[13]桑彬彬，徐伟华．直觉模糊序决策信息系统的分配约简[J].计算机科学,2017,44 (6):75-79.  
+[14]方莲花，李克典．基于优势一等价关系下不协调目标信息系统的分布约简[J].模糊系统与数学,2013,27(3):182-189.  
+[15]史德容，徐伟华．区间值模糊决策序信息系统的分布约简[J].计算机科学与探索,2017,11(4):652-658.  
+[16]郭庆，吴磊．多粒度背景下直觉模糊信息系统的粗糙集及其决策[J].系统工程与电子技术,2016,38(2):347-351.  
+[17]吴磊，杨善林，郭庆．优势关系下直觉模糊目标信息系统的上近似约简[J]．模式识别与人工智能,2014,27(4):300-304.  
+[18]郭庆，戴习民．区间值信息系统的多粒度粗糙集及其决策[J].合肥工业大学学报,2017,40(2):284-287.  
+[19]刘芳，李天瑞．基于边界域的不完备信息系统属性约简算法[J].计算机科学,2016,43(3):242-245.  
+[20]鲍中奎，杨善林．直觉模糊目标信息系统的知识约简[J].中国科学技术大学学报,2015,45 (9): 776-783.

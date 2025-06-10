@@ -1,0 +1,634 @@
+[
+    {
+        "type": "text",
+        "text": "疏勒河干流降水变化特征 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙栋元}²，齐广平¹，鄢继选¹，安鹏存(1．甘肃农业大学水利水电工程学院,甘肃 兰州730070；2.甘肃省水利科学研究院,甘肃 兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：选取疏勒河干流3个水文站1956—2016 年逐月、逐年降水数据作为基础资料,采用线性倾向、累积距平、滑动平均、Mann-Kendall突变检验等方法,分析疏勒河干流降水量年变化、年内变化、年代际变化、季节变化和突变特征。结果表明：疏勒河干流年降水量呈现不同程度增加趋势,年降水量倾向率排序表现为：昌马堡站 $5 . 4 7 \\ \\mathrm { m m } \\ \\cdot$ ·(10a) $^ { - 1 } >$ 双塔堡水库站 $1 . 4 5 4 \\mathrm { ~ m m } \\cdot \\left( 1 0 \\mathrm { { a } } \\right) ^ { - 1 } >$ 潘家庄站 $0 . 8 6 6 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ;降水量年内分配极不均匀，主要集中于5一8月，占年降水量的 $6 5 \\%$ 以上；降水量年代际呈现20世纪60年代和90年代降水量均低于多年平均值,20世纪70 年代和21世纪10年代降水量均高于多年平均值;降水量季节变化不同站点呈现不同变化特征,昌马堡站、潘家庄站和双塔堡水库站分别是夏季、秋季和秋季降水对降水量贡献最大,同时不同季节不同年代平均降水量距平呈现不同变化特征;降水量突变年在不同季节呈现不同突变特征和不同突变时间,昌马堡站、潘家庄站和双塔堡水库站年平均降水量突变点分别为1964年和2001年、1988 年和1987年。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：疏勒河干流；降水量；变化特征；Mann-Kendall检验法；甘肃 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "降水作为水文循环的重要环节，是决定区域水资源量时空分布特征最重要的因素，也是区域自然地理特征重要表征要素与关键环节[1-5]。降水量变化特征研究为气候变化、水文预报、区域水资源分布提供了重要依据，不仅直接影响着区域地表及地下水量，乃至全球的水分平衡，还影响着区域干旱、洪涝等自然灾害的形成以及自然生态环境、社会经济活动和农业生产等方面[4-12]。因此，研究区域降水量变化特征，掌握区域水文气候演变规律，从而为区域水资源综合管理与科学配置提供重要参考和借鉴依据。尽管不同学者针对降水从不同区域、不同时间尺度等方面开展了大量的研究工作[1-2I],取得了许多成果。但由于受地域性、区域性和下垫面因素影响，不同区域降水呈现其独有的变化特性，尤其是干旱内陆河流域，由于其独特地理环境和水文气象特征,其降水量变化特征深刻影响着区域气象过程和水文过程，加之气候变化和强烈的人类活动影响，降水量在区域呈现不同的演变规律和变化态势。目前，针对十旱内陆河流域降水变化方面的研究仍然相对欠缺，特别是有关疏勒河流域降水方面的研究。常继青、张丽、宋阁庆、李清峰、余波和赵玮等对疏勒河流域降水径流变化特性、降水分布规律、空间分布规律、降水水化学分布、大气降水同位素特征和上游高寒草地生长季降水特征等方面进行了研究[22-27]。因此,针对疏勒河流域特殊地理位置和气候状况，开展流域干流降水变化规律研究，探究区域降水变化的差异性，从而为指导区域水资源综合管理、促进社会经济发展、保护生态环境等方面提供基础依据与技术支撑。本文选取疏勒河流域干流昌马堡（1956—2016年）、潘家庄（1959—2016年)和双塔堡水库(1960—2016年)3个水文站长系列降水资料作为基础数据，采用线性倾向、累积距平、滑动平均、Mann-Kendall突变检验等方法，对疏勒河流域干流降水变化序列进行研究，分析其降水年变化、年内变化、年代际变化、季节变化、突变时间等变化特征，探索流域降水变化规律与差异性，旨在为流域水资源综合利用、环境保护、气候灾害防治等方面提供科学依据，更为干旱区气候变化研究提供补充和参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "疏勒河流域作为甘肃省3大内陆河流域之一。地理位置 $9 2 ^ { \\circ } 1 1 ^ { \\prime } \\sim 9 8 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E } , 3 8 ^ { \\circ } 0 0 ^ { \\prime } \\sim 4 2 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { N }$ ，干流全长 $6 7 0 ~ \\mathrm { k m }$ ,流域面积 $4 . 1 3 \\times 1 0 ^ { 4 } \\ \\mathrm { k m } ^ { 2 [ 2 8 ] }$ 。流域多年平均气温 $6 . 9 8 \\sim 9 . 8 2 \\ \\mathrm { ^ { \\circ } C }$ ,年降水量 $4 0 . 2 \\sim 5 7 . 5 \\$ $\\mathbf { m } \\mathbf { m }$ ,年蒸发量 $2 \\ 5 7 7 . 4 \\sim 2 \\ 6 5 3 . 2 \\ \\mathrm { m m }$ ,降水主要集中在6-9月,占全年降水量的 $6 1 \\%$ [29]。研究区示意图(图1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/12fc4d3c389bb6bb20f788dcf14a530793be2694bd39ac1e9323e0b082616f66.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Schematic diagram of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2资料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 资料来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选取疏勒河流域干流昌马堡（1956—2016年）、潘家庄(1959—2016 年)和双塔堡水库(1960—2016年)3个水文站逐月、逐年降水数据作为基础资料，所有数据来源于甘肃省水文水资源局。通过各站点降水数据进一步研究其降水变化特征。根据数据资料，年代际划分为：1956—1959年为50年代，1960—1969年为60年代，1970—1979年为70 年代,1980—1989 年为80 年代,1990—1999 年为90年代，2000—2009 年为00 年代,2010—2016年为10年代。季节划分：3—5月春季，6—8月夏季，9—11月秋季，12—2月冬季。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过线性倾向拟合法来描述其线性变化趋势与倾向率[30-34]。采用滑动平均法的滑动平均曲线图来判断其变化波动呈上升或下降趋势[30]。累积距平法是一种通过曲线直观判断变化趋势的方法，同时可利用累积最大绝对值判断出突变发生大致时间[30-33]。Mann-Kendall检验法是一种非参数统计检验方法，能够很好地对变量进行突变检验和变化趋势分析，已广泛应用于气温、降水、径流等水文和气象要素的分析[31-35] ○",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1 降水年变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "疏勒河干流昌马堡站、潘家庄站和双塔堡水库站多年平均降水量分别为 $9 5 . 7 7 ~ \\mathrm { m m } . 5 1 . 3 9 ~ \\mathrm { m m }$ 和$5 2 . 5 2 ~ \\mathrm { m m }$ 。昌马堡站年降水量最大值为2007年的$1 8 4 . 6 0 \\ \\mathrm { \\ m m }$ ,最小值为1956 年的 $3 5 . 4 \\ \\mathrm { m m }$ ，相差$1 4 9 . 2 \\ \\mathrm { \\ m m }$ ,极值比为5.21。潘家庄站最大值为1979 年的 $1 4 6 . 8 ~ \\mathrm { m m }$ ,最小值为1982 年的 $2 2 . 3 ~ \\mathrm { m m }$ ，相差 $1 2 4 . 5 \\ \\mathrm { m m }$ ,极值比为6.58。双塔堡水库站最大值为1979 年的 $1 4 1 . \\mathrm { ~ 1 ~ } \\mathrm { { m m } }$ ,最小值为1960 年的$1 7 . 6 ~ \\mathrm { m m }$ ,相差 $1 2 3 . 5 ~ \\mathrm { m m }$ ,极值比为8.02。由图 $2 \\mathrm { a }$ 、2b 和2c可知,昌马堡站、潘家庄站和双塔堡水库站降水呈现不同程度增加趋势,线性倾向方程分别为$y = 0 . 5 4 7 x + 7 8 . 8 0 9 \\_ y = 0 . 0 8 6 \\ 6 x + 4 8 . 8 3 5$ 和 $y =$ $0 . 1 4 5 \\ 4 x + 4 8 . \\ 3$ ，年均降水量分别以 $5 . 4 7 \\ \\mathrm { \\ m m }$ ：（204 $\\left( \\mathrm { \\ 1 0 a \\ } \\right) ^ { - 1 } \\mathrm { \\Omega } , \\ 0 . \\ 8 6 6 \\ \\mathrm { \\ m m } \\ \\cdot \\mathrm { \\Omega } \\left( \\mathrm { \\ 1 0 a \\ } \\right) ^ { - 1 }$ 和 $1 . ~ 4 5 4 ~ \\mathrm { { \\ m m } }$ ：（10a）-的速率增加， $^ { 6 1 } \\mathrm { ~ a ~ } . 5 8$ a 和57a内分别增加了 $3 3 . 3 7 \\ \\mathrm { m m } . 5 . 0 2 \\ \\mathrm { m m }$ 和 $8 . 2 9 \\ \\mathrm { m m }$ ,通过显著性检验,表明3站变化趋势均不显著。同时,从3个站年均降水量变化5a滑动平均曲线（图 $^ { 2 \\mathrm { a } , 2 \\mathrm { b } }$ 和2c)可以看出,年均降水量均呈现缓慢增加一减小一增加波动变化趋势,呈现多段上升一下降一上升变化过程。由图2d累积距平可知,3个站降水量均呈现4个时段升降变化过程，昌马堡站1956—1972 年和1985—2001 年呈现下降趋势，1973—1984 年和2002—2016 年呈现上升趋势;潘家庄站1956—1970年和1985—2011 年呈现下降趋势，1971—1984 年和2012—2016 年呈现上升趋势；双塔堡水库站年1960—1970 年和 1985—2011 年呈现下降趋势,1972—1984 年和 2012—2016 年呈现上升趋势。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "总体上，疏勒河干流年降水量呈现不同程度增加趋势，年降水量倾向率排序表现为昌马堡站（204号 $\\left[ 5 . 4 7 \\ \\mathrm { m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 } \\right] >$ 双塔堡水库站 $\\left[ 1 . 4 5 4 \\mathrm { ~ m m } \\cdot \\right.$ （204号$\\mathrm { { ( 1 0 a ) } ^ { - 1 } ] > }$ ·潘家庄站 $\\left[ 0 . 8 6 6 \\ \\mathrm { m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 } \\right]$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2 降水年内变化特征 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由图3可知，干流降水量年内分配极不均匀，降水量主要集中于5一8月，昌马堡站分别占年降水量",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "一年降水量 一年平均降水量 年降水量 -年平均降水量5a滑动平均 --线性(年降水量) 5a滑动平均 --线性(年降水量)201104030100 (a)昌马堡 160 (b)潘家庄  \nu/鲁 /鲁 120 y=0.086 6x+48.835100 R²=0.004780860 6040 y=0.547x+78.809 4020 R²=0.109 6 200 08 00 9 1 00 2020 20年份 年份一年降水量 一年平均降水量 昌马堡 潘家庄 双塔堡水库150 厂 双滑动平均 -线性(年降水量) /剂 150 (d)50  \nwu/ y=0.145 4x+48.3 0100 R²=0.0115 -50-10050 -150-200-2500 -3009965 096I 5961 896I 61 9∠61 086T 5861 8861 7661 966[ 2000 4404 8000 23年份 年份",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Change of annual precipitation and precipitation cumulative anomaly of mainstream in Shule River的 $1 2 . 1 9 \\% . 1 7 . 3 3 \\% . 2 1 . 2 5 \\%$ 和 $1 8 . 9 9 \\%$ ,共占年降水量的69. $76 \\%$ ；潘家庄站分别为 $1 0 . ~ 5 1 \\%$ 、$2 1 . 8 4 \\%$ （ ${ , 2 6 . 4 5 \\% }$ 和 $1 8 . 1 5 \\%$ ,共占 $7 6 . 9 5 \\%$ ;双塔堡水库站分别为11. $41 \\%$ 、17. $57 \\%$ 、20. $40 \\%$ 和$1 8 . 4 7 \\%$ ,共占 $6 7 . 8 5 \\%$ 。总体上，疏勒河干流降水量主要集中于5一8月，占年降水量的 $6 5 \\%$ 以上。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fc417ce598a81842be68d904f42ae9f3dc407b05a6494ff41a28ccd6e387c8e.jpg",
+        "img_caption": [
+            "图2疏勒河干流年降水量和降水量累积距平变化",
+            "图3疏勒河干流多年月平均降水量 Fig.3Average monthly precipitation over many years of mainstream in Shule River "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3降水年代际变化特征",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表1可知,过去61a昌马堡站50一60 年代和90年代降水量相对较低，比多年平均值分别低$2 4 . 8 7 \\ \\mathrm { \\ m m } _ { \\cdot } 1 5 . \\ 1 \\ \\mathrm { \\ m m }$ 和 $8 . 8 6 \\ m m ; 7 0 - 8 0$ 年代和00—10年代降水量相对较高,分别高 $3 . 9 9 \\ \\mathrm { { \\ m m } }$ 、$7 . 7 5 ~ \\mathrm { m m } \\ 、 1 1 . 4 8 ~ \\mathrm { m m }$ 和 $1 5 . 2 3 \\ \\mathrm { m m }$ ,同时各个时段降水量呈现不同极值变化特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1疏勒河干流昌马堡站年代际降水量特征值",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1ef457a82007e5646505bab6cc14271af16b94f421e2ae4d2cfcb56f0d012a2d.jpg",
+        "table_caption": [
+            "Tab.1 Characteristic values of annual precipitation of Changmabao of mainstream in Shule River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时段</td><td>平均值 /mm</td><td>最大值 /mm</td><td>年份</td><td>最小值 /mm</td><td>年份 极值比</td></tr><tr><td>1956—1959</td><td>70.90</td><td>119.2</td><td>1958</td><td>35.40</td><td>1956 3.37</td></tr><tr><td>1960—1969</td><td>80.67</td><td>138.2</td><td>1964</td><td>45.10</td><td>1965 3.06</td></tr><tr><td>1970—1979</td><td>99.76</td><td>162.0</td><td>1977</td><td>47.10</td><td>1978 3.44</td></tr><tr><td>1980—1989</td><td>103.52</td><td>154.1</td><td>1982</td><td>60.50</td><td>1985 2.55</td></tr><tr><td>1990—1999</td><td>86.91</td><td>140.4</td><td>1993</td><td>57.30</td><td>1994 2.45</td></tr><tr><td>2000—2009</td><td>107.25</td><td>184.6</td><td>2007</td><td>76.60</td><td>2001 2.41</td></tr><tr><td>2010—2016</td><td>111.00</td><td>131.3</td><td>2010</td><td>64.80</td><td>2014 2.03</td></tr><tr><td>1956—2016</td><td>95.77</td><td>184.6</td><td>2007</td><td>35.40</td><td>1956 5.21</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，过去58a潘家庄站60年代、90—00 年代降水量相对较低，比多年平均值分别低6.94$\\mathrm { m m } , 1 0 . 8 6 \\ \\mathrm { m m }$ 和 $1 . 4 3 \\ \\mathrm { m m }$ ;70—80 年代和21世纪10年代降水量相对较高，分别高 $1 2 . 2 6 ~ \\mathrm { m m } , 1 . 7 9$ $\\mathbf { m } \\mathbf { m }$ 和 $8 . 3 8 \\ \\mathrm { m m }$ ，同时各个时段降水量呈现不同极值变化特征。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，过去57a双塔堡水库站60 年代、80年代至21世纪00年代降水量相对较低，比多年平均值分别低 $1 0 . 2 5 \\ \\mathrm { m m } , 2 . 6 1 \\ \\mathrm { m m } , 7 . 6 3 \\ \\mathrm { m m }$ 和2.57$\\mathbf { m } \\mathbf { m }$ ；70年代和21世纪10年代降水量相对较高，分别",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2疏勒河干流潘家庄站年代际降水量特征值 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/861b6aa715e5d45a96591818796e9ee7873a61e3b439cfb715f830289b641b88.jpg",
+        "table_caption": [
+            "Tab.2Characteristic values of annual precipitation of Panjiazhuang of mainstream in Shule River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>时段</td><td>平均值 /mm</td><td>最大值 /mm</td><td>年份</td><td>最小值 /mm</td><td>年份 极值比</td></tr><tr><td>1959-1969</td><td>44.45</td><td>71.9</td><td>1964</td><td>22.5</td><td>1960 3.20</td></tr><tr><td>1970—1979</td><td>63.65</td><td>146.8</td><td>1979</td><td>39.0</td><td>1975 3.76</td></tr><tr><td>1980—1989</td><td>53.18</td><td>77.1</td><td>1981</td><td>28.8</td><td>1986 2.68</td></tr><tr><td>1990—1999</td><td>40.53</td><td>68.5</td><td>1993</td><td>22.3</td><td>1994 3.07</td></tr><tr><td>2000—2009</td><td>49.96</td><td>75.9</td><td>2007</td><td>28.4</td><td>2009 2.67</td></tr><tr><td>2010- -2016</td><td>59.77</td><td>106.2</td><td>2016</td><td>25.3</td><td>2011 4.20</td></tr><tr><td>1959-2016</td><td>51.39</td><td>146.8</td><td>1979</td><td>22.3</td><td>1982 6.58</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3疏勒河流域双塔堡水库站年代际降水量特征值",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6be2cc169cff9b1634ed2054e5d186f1db360480a993620099ecdba5cdeb2b31.jpg",
+        "table_caption": [
+            "Tab.3Characteristic values of annual precipitation of Shuangtabao reservoir of mainstream "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">in Shule River Basin</td></tr><tr><td>时段</td><td>平均值 /mm</td><td>最大值 /mm</td><td>年份</td><td>最小值 /mm</td><td>年份 极值比</td></tr><tr><td>1960—1969</td><td>42.27</td><td>66.6</td><td>1964</td><td>17.6</td><td>1960 3.78</td></tr><tr><td>1970—1979</td><td>67.15</td><td>141.1</td><td>1979</td><td>41.6</td><td>1977 3.39</td></tr><tr><td>1980—1989</td><td>49.91</td><td>69.6</td><td>1981</td><td>27.1</td><td>1986 2.57</td></tr><tr><td>1990—1999</td><td>44.89</td><td>61.4</td><td>1993</td><td>31.9</td><td>1990 1.92</td></tr><tr><td>2000- -2009</td><td>49.95</td><td>82.8</td><td>2007</td><td>18.1</td><td>2009 4.57</td></tr><tr><td>2010- -2016</td><td>64.53</td><td>108.7</td><td>2016</td><td>33.9</td><td>2011 3.21</td></tr><tr><td>1960- -2016</td><td>52.52</td><td>141.1</td><td>1979</td><td>17.6</td><td>1960 8.02</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高 $1 4 . 6 3 ~ \\mathrm { m m }$ 和 $1 2 . 0 1 \\ \\mathrm { m m }$ ,同时各个时段降水量呈现不同极值变化特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "总体上，疏勒河干流降水量年代际呈现20世纪60 年代和90年代降水量均低于多年平均值，70 年代和21世纪10年代降水量均高于多年平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4降水季节变化特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.1昌马堡站由图4和表4可知，昌马堡站春、夏、秋、冬4个季节年降水量均呈现增加趋势，但各个季节增加速率略有差异。夏季增加速率最高，1956—2016 年增加 $1 4 . 1 5 \\ \\mathrm { m m }$ ,线性增加幅度2.139$\\mathrm { { m m } \\cdot ( 1 0 a ) ^ { - 1 } }$ ;秋季和春季次之，分别增加 $9 . 9 9 \\ \\mathrm { m m }$ 和 $9 . 8 4 ~ \\mathrm { m m }$ ,增加幅度分别为 $1 . 6 3 7 \\mathrm { \\ m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ 和 $1 . 6 1 3 ~ \\mathrm { m m } \\cdot ( 1 0 \\mathrm { a } ) ^ { - 1 }$ ;冬季增加最小为 $0 . 4 9 ~ \\mathrm { m m }$ ，增加幅度 $0 . 0 8 1 \\ \\mathrm { m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ ,表明该站夏季降水量增加对年降水量增加贡献最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表4可知， $\\textcircled{1}$ 春季：平均年降水量距平值50—70年代和90年代为负，80年代和21世纪00—10 年代为正,50年代最少，比年均少 $6 . 1 3 \\ \\mathrm { m m }$ ; 80年代最多，比年均多 $5 . 2 6 \\ \\mathrm { m m }$ 。 $\\textcircled{2}$ 夏季：50-60年代和90—00 年代为负，70—80 年代和21世纪10 年代为正,60 年代最少，比年均少 $1 0 . 6 0 \\ \\mathrm { m m }$ ;10年代最多，比年均多 $1 2 . 6 6 ~ \\mathrm { m m }$ 。 $\\textcircled{3}$ 秋季：50-60年代和80—90 年代为负,70 年代和21世纪00—10 年代为正,50年代最少，比年均少 $8 . 4 8 ~ \\mathrm { m m ; 0 0 }$ 年代最多，比年均多 $1 0 . 9 9 ~ \\mathrm { m m }$ 。 $\\textcircled{4}$ 冬季：60—70年代和10年代为负，50年代和80一00年代为正，70年代最少，比年均少 $0 . 9 4 \\mathrm { ~ m m }$ ;80年代最多，比年均多0.59mmo",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e36e31088142c8768c3c3187b3044a589ee7225bc5d52e0a596f97444c0b9248.jpg",
+        "img_caption": [
+            "图4昌马堡站降水量季节变化",
+            "Fig.4Seasonal change of precipitation in Changmabao Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f35a965715439933d413d0e361fd9ae4b3bdf707ebb5d1afa47f7bfa2bfceb4b.jpg",
+        "table_caption": [
+            "表4疏勒河干流降水季节距平变化",
+            "Tab.4Seasonal anomaly variation of precipitation in of mainstream in Shule River mm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">年代</td><td colspan=\"3\">春季</td><td colspan=\"3\">夏季</td><td colspan=\"3\">秋季</td><td colspan=\"3\">冬季</td></tr><tr><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td><td>昌马堡</td><td>潘家庄</td><td>双塔堡 水库</td></tr><tr><td>50年代</td><td>-6.13</td><td></td><td></td><td>-10.39</td><td></td><td></td><td>-8.48</td><td></td><td></td><td>0.13</td><td></td><td></td></tr><tr><td>60年代</td><td>-2.74</td><td>2.80</td><td>2.05</td><td>-10.60</td><td>-6.58</td><td>-9.25</td><td>-1.31</td><td>-3.29</td><td>-3.11</td><td>-0.45</td><td>0.14</td><td>0.06</td></tr><tr><td>70年代</td><td>-5.24</td><td>-0.97</td><td>2.27</td><td>9.66</td><td>10.37</td><td>10.10</td><td>0.51</td><td>2.87</td><td>2.02</td><td>-0.94</td><td>-0.01</td><td>0.24</td></tr><tr><td>80年代</td><td>5.26</td><td>-0.18</td><td>-1.39</td><td>4.37</td><td>4.69</td><td>1.70</td><td>-2.47</td><td>-2.92</td><td>-2.73</td><td>0.59</td><td>0.20</td><td>-0.19</td></tr><tr><td>90年代</td><td>-1.47</td><td>-3.79</td><td>-5.29</td><td>-2.93</td><td>-4.67</td><td>-0.25</td><td>-5.02</td><td>-1.58</td><td>-0.76</td><td>0.56</td><td>-0.82</td><td>-1.33</td></tr><tr><td>00年代</td><td>5.15</td><td>0.85</td><td>0.74</td><td>-5.21</td><td>-7.81</td><td>-8.20</td><td>10.99</td><td>4.61</td><td>3.72</td><td>0.55</td><td>0.92</td><td>1.17</td></tr><tr><td>10年代</td><td>2.13</td><td>1.47</td><td>2.28</td><td>12.66</td><td>6.65</td><td>8.44</td><td>0.95</td><td>0.89</td><td>1.24</td><td>-0.51</td><td>-0.63</td><td>0.05</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4.2潘家庄站由图5和表4可知,潘家庄站夏、秋、冬3个季节年降水量均表现出略微增加趋势,而春季表现出略微减小趋势。秋季增加速率相对最高,1959—2016 年增加 $5 . 2 0 \\ \\mathrm { m m }$ ,线性增加幅度 $0 . \\ 8 9 7 \\ \\mathrm { \\ m m } \\ \\cdot \\ \\left( \\ 1 0 \\mathrm { a } \\right) ^ { \\ - 1 }$ ；夏季和冬季分别增加$0 . 8 1 ~ \\mathrm { m m }$ 和 $1 0 . 1 0 \\ \\mathrm { m m }$ ,增加幅度分别为 $0 . 1 3 9 \\ \\mathrm { m m }$ ·(10a) $^ { - 1 }$ 和 $0 . \\ 0 1 7 \\ \\mathrm { \\ m m } \\ \\cdot \\ \\left( \\ 1 0 \\mathrm { a } \\right) ^ { - 1 }$ ;春季减小1.08$\\mathbf { m } \\mathbf { m }$ ,减小幅度 $- 0 . 1 8 7 \\mathrm { ~ m m } \\cdot \\left( 1 0 \\mathrm { a } \\right) ^ { - 1 }$ ,表明该站秋季降水量增加对年降水量增加贡献最大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表4可知， $\\textcircled{1}$ 春季：平均降水量距平值70—90 年代为负，60年代和00—10年代为正，90 年代最少，比年均少 $3 . 7 9 \\ \\mathrm { m m }$ ;60 年代最多，比年均多$2 . 8 0 \\ \\mathrm { m m } _ { \\circ } ( 2 )$ 夏季：50 年代、90-00 年代为负，70—80 年代和10年代为正，00年代最少，比年均少$7 . 8 1 ~ \\mathrm { m m } ; 7 0$ 年代最多，比年均多 $1 0 . 3 7 ~ \\mathrm { m m }$ 。 $\\textcircled{3}$ 秋季：60 年代和80—90年代为负，70年代和00—10年代为正,60 年代最少，比年均少 $3 . 2 9 ~ \\mathrm { m m ; 0 0 }$ 年代最多，比年均多 $4 . 6 1 \\ \\mathrm { m m }$ 。 $\\textcircled{4}$ 冬季：70年代、90年代和10年代为负,60年代、80年代和00 年代为正，",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4720cf1a14022cee57f477990df9963f084a1747a54bba80ab18fb50356ddb8c.jpg",
+        "img_caption": [
+            "图5潘家庄站降水量季节变化",
+            "Fig.5Seasonal change of precipitation in Panjiazhuang Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "90 年代最少,比年均少 $0 . 8 2 ~ \\mathrm { m m ; 0 0 }$ 年代最多，比年均多 $0 . 9 2 ~ \\mathrm { m m }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4.3双塔堡水库站由图6和表4可知,双塔堡水库站夏、秋、冬3个季节年降水量均表现出略微增加趋势，而春季表现出略微减小趋势。秋季增加速率相对最高，1960—2016年增加 $5 . 2 7 \\ \\mathrm { m m }$ ,线性增加幅度 $0 . 9 2 5 \\mathrm { \\ m m } \\cdot \\mathrm { ~ ( 1 0 a ) ~ } ^ { - 1 }$ ;夏季和冬季分别增加$4 . 2 7 \\ \\mathrm { m m }$ 和 $0 . 3 7 ~ \\mathrm { m m }$ ,增加幅度分别为 $0 . 7 4 9 { \\mathrm { ~ m m } } ^ { \\mathrm { ~ . ~ } }$ ：(10a) $^ { - 1 }$ 和 $0 . \\ 0 6 5 \\ \\mathrm { \\ m m } \\cdot \\textrm { ( } 1 0 \\mathrm { a ) } ^ { - 1 }$ ;春季减小1.62$\\mathbf { m } \\mathbf { m }$ ,减小幅度 $- 0 . 2 8 5 \\mathrm { ~ m m ~ } \\cdot \\mathrm { ~ ( ~ } 1 0 \\mathrm { a ) ~ } ^ { - 1 }$ ,表明该站秋季降水量增加对年降水量增加贡献最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知， $\\textcircled{1}$ 春季：平均降水量距平值80—90 年代为负，60—70年代和00—10年代为正，90年代平均降水量最少，比年均少 $5 . 2 9 \\ \\mathrm { m m } ; 0 1$ 年代最多,比年均多 $2 . 2 8 \\ \\mathrm { m m }$ 。 $\\textcircled{2}$ 夏季：60 年代和90—00 年代为负，70—80 年代和10 年代为正,60 年代最少,比年均少 $9 . 2 5 ~ \\mathrm { m m }$ ;10 年代最多，比年均多$8 . 4 4 ~ \\mathrm { m m }$ 。 $\\textcircled{3}$ 秋季：60年代和80—90年代为负，70年代和00一10 年代为正,60 年代最少，比年均少$3 . 1 1 \\ \\mathrm { m m }$ ;00 年代最多，比年均多 $3 . 7 2 \\ \\mathrm { m m }$ 。 $\\textcircled{4}$ 冬季：80—90年代为负，60—70年代和00—10年代为正,90 年代最少，比年均少 $1 . 3 3 ~ \\mathrm { m m } ; 0 0$ 年代最多，比年均多 $1 . 1 7 \\ \\mathrm { m m }$ 。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总体上，疏勒河干流降水量季节变化不同站点均呈现不同变化特征，昌马堡站夏季降水量的增加对降水量增加贡献最大，而潘家庄站和双塔堡水库站均为秋季降水量的增加对降水量增加贡献最大，同时不同季节不同年代平均降水距平呈现不同变化特征。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5 降水突变特征 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.5.1昌马堡站从图7a可知，全年昌马堡站降水在20世纪50年代至21世纪10年代 $U F _ { k }$ 均为正值，平均降水呈现增加趋势，特别是20世纪60 年代后期至80年代后期和21世纪01年代，降水增加趋势超过 $9 5 \\%$ 临界线( $U _ { 0 . 0 5 } = 1 . 9 6 { } ^ { \\cdot }$ ，甚至超过 $9 9 \\%$ 显著性水平( $U _ { 0 . 0 1 } = 2 . 5 6 ^ { \\cdot }$ ）,表明昌马堡站平均降水在这一时段上升趋势十分显著。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1964年和2001年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明昌马堡站平均降水在1964年和2001年发生突变，1964年和2001年为突变点，因此，昌马堡站平均降水划分为1956—1964年、1965—2001年和2002—2016 年3个时段。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图7b可知，昌马堡站春季降水在20世纪60年代至21世纪10 年代 $U F _ { k }$ 为正值,平均降水呈现增加趋势，特别是21世纪00年代后期至10年代，降水增加趋势超过 $9 5 \\%$ 临界线( $U _ { 0 . 0 5 } = 1 . 9 6 ^ { \\cdot }$ ，表明昌马堡站春季平均降水在这一时段上升趋势十分显著。 $U F _ { k }$ 和 $U B _ { k }$ 相交于1980年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明昌马堡站春季平均降水在1980 年发生突变，1980年为突变点，因此，昌马堡站春季平均降水划分为1956—1980 年和1981—2016 年2个时段。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/56508fe2ec2cf698797de65a9de38ba188355558f0a9f2f69da17c9afc792ce7.jpg",
+        "img_caption": [
+            "图6双塔堡水库站降水量季节变化",
+            "Fig.6Seasonal change of precipitation in Shuangtabao Reservoir Station "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图7c可知，昌马堡站夏季降水在20世纪50年代至21世纪10年代 $U F _ { k }$ 均为正值,平均降水呈现增加趋势，特别是20世纪70年代中期至80年代后期,降水增加趋势超过 $9 5 \\%$ 临界线( $U _ { 0 . 0 5 } ~ =$ 1.96)，表明昌马堡站夏季平均降水在这一时段上升趋势十分显著。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1962 年、2007年和2011年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明昌马堡站夏季平均降水在1962年、2007年和2011年发生突变，1962年、2007年和2011年为突变点，因此，昌马堡站夏季平均降水划分为1956—1962年、1963—2007 年、2008—2011 年和 2012—2016 年4个时段。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图7d可知，秋季昌马堡站降水在20世纪50年代至21世纪10年代 $U F _ { k }$ 均为正值,平均降水呈现增加趋势。 $U F _ { k }$ 和 $U B _ { k }$ 交点相对比较多，主要突变点在1960年和1998年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明昌马堡站秋季平均降水在1960 年和1998年发生突变，1960年和1998年为突变点，因此，昌马堡站秋季平均降水划分为1956—1960 年、1961—1998 年和1999—2016年3个时段。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从图7e可知，昌马堡站冬季降水在20世纪50年代后期至60年代后期 $U F _ { k }$ 为负值，之后转变成正值至70年代中期后又转变成负值至70年代末，说明在冬季降水量呈现先减后增再减的变化趋势;从80年代至10年代 $U F _ { k }$ 为正值,平均降水呈现增加趋势。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1966年和1976年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明昌马堡站冬季平均降水在1966年和1976年发生突变，1966 年和1976年为突变点，因此，昌马堡站冬季平均降水划分为1956—1966年、1967—1976年和1977—",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/969719e225b469884b34cb9001606e84e6c6c069a8ea04ac251f44854351443d.jpg",
+        "img_caption": [
+            "图71956—2016年昌马堡站年和四季平均降水突变检验",
+            "Fig.7Seasonal average and annual precipitation M-K mutation test in Changmabao in 1956 -2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c867d42b30efdce8a319b552637f7aae253794ecefffc940240d1b1d3e29e963.jpg",
+        "img_caption": [
+            "图81959—2016年潘家庄站年和四季平均降水突变检验",
+            "Fig.8Seasonal average and annual precipitation M-K mutation test in Panjiazhuang in 1959 -201 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2016 年3个时段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5.2潘家庄站从图8a可知,全年潘家庄站降水在20世纪50—90 年代中期 $U F _ { k }$ 为正值，平均降水呈现增加趋势；之后 $U F _ { k }$ 由正值转变为负值，并在0附近波动，年平均降水处于略微下降趋势。$U F _ { k }$ 和 $U B _ { k }$ 相交于1988 年，且交点在 $\\pm 1 . 9 6$ 临界线之间,说明潘家庄站平均降水在1988 年发生突变，1988年为突变点，因此，潘家庄站平均降水划分为1959—1988 年和1989—2016年2个时段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图8b可知，潘家庄站春季降水在20世纪60年代至21世纪10年代 $U F _ { k }$ 值在0附近上下波动,平均降水呈现增加一降低一增加的波动变化。 $U F _ { k }$ 和 $U B _ { k }$ 相交点比较多，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明潘家庄站春季平均降水突变相对复杂。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图8c可知，夏季潘家庄站降水在20世纪60年代初至中期 $U F _ { k }$ 为负值，平均降水呈现下降趋势；之后 $U F _ { k }$ 由负值转变为正值并逐渐增大，至80年代中期又逐渐减小，表明这一时段年平均降水处于先上升后下降的变化趋势，特别是80年代，增加趋势超过 $9 5 \\%$ 临界线( $U _ { 0 . 0 5 } = 1 . 9 6$ );21世纪00年代初至10年代中期 $U F _ { k }$ 为负值,表明降水呈现下降趋势。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1965年，且交点在$\\pm 1 . 9 6$ 临界线之间，说明潘家庄站夏季平均降水在1965年发生突变，1965年为突变点，因此，潘家庄站夏季平均降水划分为1959—1965年和1966—2016年2个时段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图8d可知，潘家庄站秋季降水在20世纪60年代 $U F _ { k }$ 为负值，平均降水呈现下降趋势;70年代至21世纪10年代 $U F _ { k }$ 为正值,年平均降水处于上升趋势。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1969年、1988 年和2011年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明潘家庄站秋季平均降水在1969年、1988年和2011年发生突变，1969年、1988年和2011年为突变点，因此，潘家庄站秋季平均降水划分为1959—1969年、1970—1988 年、1989—2011 年和 2012—2016 年 4个时段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从图8e可知，潘家庄站冬季降水在20世纪60年代中期至10年代 $U F _ { k }$ 呈现负值，说明平均降水呈现下降趋势，特别1972—1977年降水减小趋势超过 $9 5 \\%$ 临界线( $U _ { 0 . 0 5 } = 1 . 9 6$ ），表明潘家庄站冬季平均降水在这一时段下降趋势十分显著。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1966年、1985年、1997年和2011年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明潘家庄站冬季平均降水在1966年、1985年、1997年和2011年发生突变，1966年、1985年、1997年和2011年为突变点，因此，潘家庄站冬季平均降水划分为1959—1966年、1967—1985年、1986—1997年、1998—2011年和 2012—2016年5个时段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5.3双塔堡水库站从图9a可知,双塔堡水库站全年降水在20世纪60年代至21世纪10年代$U F _ { k }$ 为正值,平均降水呈现增加趋势,特别是70—80 年代中期增加趋势比较显著。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1987年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明双塔堡水库站平均降水在1987年发生突变，1987年为突变点，因此，双塔堡水库站平均降水划分为1960—1987 年和1988—2016 年2个时段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从图9b可知，双塔堡水库站春季降水在20世纪60年代初至中期 $U F _ { k }$ 为正值,平均降水呈现增加趋势；之后 $U F _ { k }$ 由正值转变为负值，并呈现波动趋势靠近0附件，说明年平均降水处于波动下降趋势。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1970 年和2003年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明双塔堡水库站春季平均降水在1970年和2001年发生突变，1970年和2001年为突变点，因此，双塔堡水库站春季平均降水划分为1960—1970 年、1971—2001 年和 2002—2016年3个时段。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从图9c可知，双塔堡水库站夏季降水在20世纪60年代中期至21世纪10年代 $U F _ { k }$ 为正值,平均降水呈下降趋势,特别是1971—1977年，降水增加趋势超过 $9 5 \\%$ 临界线。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/14d809d3f9bc4177d9335523b0375f8b67260bcb266c6f0eb0bdffddb65473ed.jpg",
+        "img_caption": [
+            "图91960—2016 年双塔堡水库站年和四季平均降水突变检验 "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig.9Seasonal average and annual precipitation M-K mutation test in Shuangtabao Reservoir in 1960-2016 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1962年和1999年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明双塔堡水库站夏季平均降水在1962年和1999 年发生突变，1962年和1999年为突变点，因此，双塔堡水库站夏季平均降水划分为1960一1962年、1963—1999 年和2000—2016 年3个时段。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图9d可知，双塔堡水库站秋季降水在20世纪60年代至21世纪10年代 $U F _ { k }$ 均为正值,说明平均降水呈现上升趋势，70一80年代初和00年代中期至10 年代上升比较明显。 $U F _ { k }$ 和 $U B _ { k }$ 主要相交于1965年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明双塔堡水库站秋季平均降水在1965年发生突变，1965年为突变点，因此，双塔堡水库站秋季平均降水划分为1960—1965年和1966—2016年2个时段。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从图9e可知，双塔堡水库站冬季降水在20世纪60—80年代 $U F _ { k }$ 为正值，说明平均降水呈现上升趋势；90年代至21世纪00年代中期 $U F _ { k }$ 为负值,平均降水呈现在下降趋势；之后 $U F _ { k }$ 由负值转变为正值，并逐渐增大，年平均降水处于上升趋势。 $U F _ { k }$ 和 $U B _ { k }$ 相交于1967年、1974年和2002年，且交点在 $\\pm 1 . 9 6$ 临界线之间，说明双塔堡水库站冬季平均降水在1967年、1974年和 2002年发生突变，1967年、1974年和2002年为突变点，因此，双塔堡水库站冬季平均降水划分为1960—1967年、1968—1974年、1975—2002 年和2003—2016 年4 个时段。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "疏勒河流域干流昌马堡站、潘家庄站和双塔堡水库站多年平均降水量分别为 $9 5 . 7 7 \\ \\mathrm { m m } \\ . 5 1 . \\ 3 9$ $\\mathbf { m } \\mathbf { m }$ 和 $5 2 . 5 2 \\ \\mathrm { m m }$ ,年均降水量分别以 $5 . 4 7 \\ \\mathrm { m m }$ ：$( \\ 1 0 \\mathbf { a } ) \\ ^ { - 1 } \\cdot \\ 0 . \\ 8 6 6 \\ \\mathrm { { \\ m m } ~ \\cdot ~ ( \\ 1 0 \\mathbf { a } ) \\ ^ { - 1 } }$ 和 $1 . ~ 4 5 4 ~ \\mathrm { \\ m m }$ ·（10a）-的速率增加,61a $\\phantom { + } \\cdot 5 8$ a 和57a内分别增加了 $3 3 . 3 7 \\ \\mathrm { m m } \\ . 5 . 0 2 \\ \\mathrm { m m }$ 和 $8 . 2 9 \\ \\mathrm { m m }$ 。总体上，疏勒河干流年降水量呈现不同程度的增加趋势，降水量均呈现不同时段升降变化过程。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "疏勒河干流降水量年内分配极不均匀，降水量主要集中于5—8月，占年降水量的 $6 5 \\%$ 以上。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "昌马堡站20世纪50—60年代和90年代降水量相对较低，70—80 年代和21世纪00—10年代降水量相对较高;潘家庄站60年代、90一00年代降水量相对较低，70—80年代和21世纪10年代降水量相对较高；双塔堡水库站60、80—21世纪00 年代降水量相对较低,70年代和21世纪10年代降水量相对较高。总体上，疏勒河干流降水量年代际呈现60年代和90 年代降水量均低于多年平均值,70 年代和10年代降水量均高于多年平均值。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "昌马堡站、潘家庄站和双塔堡水库站分别呈现夏季、秋季和秋季降水量增加对该站降水量增加贡献最大。总体上，疏勒河干流降水量季节变化不同站点均呈现不同变化特征，同时不同季节不同年代平均降水距平呈现不同变化特征。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "通过M-K法检测结果显示，疏勒河流域干流昌马堡站、潘家庄站和双塔堡水库站年平均和不同季节降水量呈现不同变化趋势，表现不同程度突变，呈现不同时间突变点。昌马堡站、潘家庄站和双塔堡水库站年平均降水量突变点分别为1964年和2001年、1988年和1987年。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究从疏勒河干流降水量年变化、年内变化、年际变化、季节变化和突变特征等方面进行了系统分析，研究序列相对较长，以往研究集中于流域降水空间分布规律、降水水汽来源等方面[22-27],而对流域干流降水变化特征研究相对较少。3个站年平均降水量呈现不同程度突变和不同时间突变点，这与研究时间序列、气候因素和人类活动有很大关系，昌马堡站位于出山口，受人类活动影响相对较少，气候因素成为关键影响因素；而潘家庄站和双塔堡水库站受人类活动和气候因素双重影响。由于干旱内陆河流域气候特点的复杂性，降水受多种因素综合影响，其变化特征时空差异很大，因此，在后续研究中应进一步加强环境变化下区域降水变化特征与预测研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］何庆龙,周维博,夏伟,等.延安市近60 年降水时空特征分析[J].水资源与水工程学报,2018,29（1）：31-37.［HeQin-glong,Zhou Weibo,Xia Wei,etal.Spatial-temporalcharacteristicsabout precipitation of Yan'an City in the past 6O years[J].Journalof Water Resources and Water Engineering,2018,29（1） :31 -37.]  \n[2］王小军,贺瑞敏,尚熳廷.榆林市降水时空变化规律研究[J].干旱区资源与环境,2011,25（5）：103-108.［Wang Xiaojun,He Ruimin,Shang Manting.Evolution law of precipitation in Yulin[J].Journal of Arid Land Resources and Environment,2O11,25(5):103-108.]  \n[3］吴凯,王晓琳,王高旭,等.1961—2014 年西辽河流域降水时空变异性诊断[J].南水北调与水利科技，2017，15（2）：22-28.[WuKai,WangXiaolin,Wang Gaoxu,etal.Spatial-temporal vari-",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ation of precipitation in WestLiao River Basin during1961-2014 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[J].South to North Water Transfers and Water Science & Technology,2017,15(2):22-28.]   \n[4]王晖,隆霄,马旭林,等.近50a中国西北地区东部降水特征 [J].干旱区研究,2013,30(4）:712-718.[WangHui,Long Xiao,MaXulin,etal.Precipitation in the eastern partof northwest China in recent 50 years[J].Arid Zone Research,2013,30（4）： 712 -718.]   \n[5］刘玉斌,韩美,倪娟.东营市近46 年降水变化特征分析[J].科 技通报,2017,33(2）:18-23.[Liu Yubin,Han Mei,Ni Juan.Analysis of change characteristics of precipitation inrecent 46 years in Dongying[J].Bulltinof Scienceand Technology,2017,3 (2):18 -23.]   \n[6］宋扬,周维博,马亚鑫,等.50 年来灞河流域降水变化特征分析 [J].长江科学院院报,2017,34（7）:12-18.[Song Yang,Zhou Weibo,Ma Yaxin,et al. Characteristics of precipitation variation of Bahe River Basin in the past 5O years[J].Journal of Yangtze River Scientific Research Institute,2017,34(7):12-18.]   \n[7］冶运涛,梁犁丽,龚家国,等.长江上游流域降水结构时空演变 特性[J].水科学进展,2014,25(2）:164-171.［YeYuntao,Liang Lili,Gong Jiaguo,etal.Spatial-temporal variability characteris tics of precipitation structure across the upper Yangtze River basin, China[J].Advances in Water Science,2014,25(2）:164-171.]   \n[8］马建琴，和鹏飞.1951—2013年周口地区降水时空变化特征研 究[J].华北水利水电大学学报（自然科学版）,2017,38（2）： 20 -24.[Ma Jianqin,He Pengfei.Temporal and spatial distribution of precipitation in Zhoukou area from 1951 to 2013[J].Journal of North China University of Water Resources and Electric Power(Natural Science Edition）,2017,38(2）:20 －24.]   \n[9]董旭光,顾伟宗,孟祥新,等.山东省近50 年来降水事件变化 特征[J].地理学报,2014,69（5）:661-671.[Dong Xuguang, GuWeizong,Meng Xiangxin,etal. Change features of precipitation events in Shandong Province from 1961 to 2010[J].Acta Geographica Sinica,2014,69(5）:661-671.]   \n[10］吴亚楠,李鸿雁,王玉新.第二松花江流域近75 年降水量变化 特征分析[J].安徽农业科学,2012,40（4）:2257-2259.[Wu Yanan,Li Hongyan,Wang Yuxin. Characteristicsanalysis of 75- years precipitation change in the second Songhua River Basin[J]. Journal of Anhui Agricultural Sciences,2012,40（4）: 2257 - 2259.]   \n[11］郑新倩,李新建,杨帆,等.1961—2010 年乌鲁木齐降水变化特 征分析[J].干旱区资源与环境,2014,28（11）：178－184. [Zheng Xinqian,Li Xinjian,Yang Fan,etal. Changing features of precipitation in Urumqi during 1961-201O[J]. Journal of Arid Land Resources and Environment,2014,28(11）:178 -184.]   \n[12］白淑英,莫婷,史建桥,等.近50 年贵州不同强度降水日数时 空变化分析[J].南水北调与水利科技，2015,13（2）：220- 224.[Bai Shuying,Mo Ting,Shi Jianqiao,etal.Spatialand tepo ral variations of rainfall days with different intensities in Guizhou in recent 5O years[J].South to North Water Transfers and Water Sci",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ence& Technology,2015,13（2）:220-224.][13］韩熠哲，马伟强，王炳赞，等.青藏高原近30年降水变化特征分析[J].高原气象，2017，36(6）：1477-1486.[HanYizhe，MaWeiqiang,WangBingyun,etal.Climatic characteristics of rainfallchange over the Qinghai-Tibetan Plateau from 198O to 2013[J].Plateau Meteorology,2017,36(6):1477 -1486.]",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14］李玲萍,刘维成,张宇林,等.石羊河流域主汛期降水日变化特 征[J].中国沙漠,2015,35（5）:1291-1300.[Li Lingping,Liu Weicheng,Zhang Yulin,et al.Diurnalvariation of precipitation in flood season over the Shiyanghe River Basin[J]. Journal of Desert Research,2015,35（5）:1291-1300.]   \n[15］贺伟,布任仓,熊在平,等.1961—2005 年东北地区气温和降水 变化趋势[J].生态学报,2013,33（2）:519-531.［HeWei,Bu Rencang,Xiong Zaiping,et al. Characteristics of temperature and precipitation in northeastern China from 1961 to 2005[J].Acta Ecologica Sinica,2013,33(2）:519 -531.]   \n[16］陈祥义,肖文发,黄志霖,等.1951—2012 年三峡库区降水时空 变化研究[J].生态环境学报,2015,24（8）：1310-1315.[Chen Xiangyi,Xiao Wenfa,Huang Zhilin,etal.Spatiotemporal distribution of precipitation in Three Gorges Reservoir Area(TGRA）during 1951-2012[J].Ecology and Environmental Sciences,2015, 24(8):1310-1315.]   \n[17］马佳宁,高艳红.近50 年黄河上游流域年均降水与极端降水 变化分析[J].高原气象,2019,38（1）:124-135.[Ma Jianing, Gao Yanhong.Analysis of annual precipitation and extreme precipitation change in the upper Yellow River Basin in recent 5O years [J].Plateau Meteorology,2019,38（1）:124-135.]   \n[18］李虹雨,马龙,刘廷玺,等.1951—2014 年内蒙古地区气温、降 水变化及其关系[J].冰川冻土,2017,39（5）:1098-1112.［Li Hongyu,Ma Long,Liu Tingxi,et al. Change and relationship of temperature and precipitation in Inner Mongolia during 1951 - 2014[J]. Journal of Glaciology and Geocryology,2017,39（5）: 1098 -1112.]   \n[19］虞海燕,刘树华,赵娜,等.1951—2009年中国不同区域气温和 降水量变化特征[J].气象与环境学报,2011,27（4)：1-11. [Yu Haiyang,Liu Shuhua,Zhao Na,et al.Characteristics of air temperature and precipitation in different regions of China from 1951 to 2009[J].Journal of Meteorologyand Environment,2011, 27(4) :1 -11.]   \n[20］张一驰,吴凯,于静洁,等.华北地区1951—2009 年气温、降水 变化特征[J].自然资源学报,2011,26(11）:1930－1941.[Zhang Yichi,Wu Kai,Yu Jingjie,et al. Characteristics of precipitation and air temperature variation during 1951-2009 in North China[J]. Journal of Natural Resources,2011,26(11）:1930 -1941.]   \n[21］刘括,高晓清,谭桂荣,等.中国江淮地区夏季强降水事件的统 计分析［J].高原气象,2019,38（1）：136-142.[Liu Kuo,Gao Xiaoqing,Tan Guirong,et al. Statistical analysis of summer heavy rainfall events over Jianghuai Region of China[J].Plateau Meteorology,2019,38(1) :136-142.]   \n[22］常继青,牛最荣.甘肃黄河流域与疏勒河流域降水径流变化特 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "性对比分析[J].水文,2014,34(5）:94-96.[ChangJiqing,Niiu Zuirong.Comparative analysis of precipitation and runoff change characteristics between Yellow River and Shulehe River in Gansu Province[J].Journal of China Hydrology,2014,34(5）:94-96.] [23］张丽.疏勒河流域降水分布规律及变化趋势分析[J].甘肃水 利水电技术,2015,51(7）:1-4,21.[ZhangLi.Analysis of precipitation distribution and change trend in Shule River Basin[J]. Gansu Water Resources and Hydropower Technology,2015,51 (7):1-4,21.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[24］宋阁庆，李计生，王若臣.近50年疏勒河流域降水空间分布规律研究［J].地下水,2016,38（1）：104-106.［SongGeqing，LiJisheng,Wang Ruocheng.Study on spatial distribution of precipita-tion of Shule River Basin in past 5O years[J].Ground Water,2016,38(1):104-106.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[25］李清峰，杨国靖，赵传成.疏勒河上游高寒草地生长季降水特 征[J].生态学杂志,2016,35（7）：1776-1782.[Li Qingfeng, Yang Guojing,Zhao Chuancheng.Precipitation characteristics in alpine grassland in the upper reaches of Shule River during growing season[J].Chinese Journal of Ecology，2016,35（7）:1776- 1782. ] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26］余波，赵玮.疏勒河流域降水水化学分布与组合特征研究[J].甘肃水利水电技术，2017，53（3）:4-6，10.［YuBo，ZhaoWei.Study on the distribution and combination characteristics of precip-itationhydrochemistry in ShuleRiverBasin[J].Gansu WaterRe-sources and Hydropower Technology,2017,53（3）:4-6,10.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[27］赵玮.疏勒河流域大气降水同位素特征及水汽来源研究[D]. 兰州：兰州大学,2017.［Zhao Wei.Study on the Isotopes and Moisture Source in Precipitation in the Shule River Basin[D]. Lanzhou:Lanzhou University,2017.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[28］刘普幸，张克新，霍华丽，等.疏勒河中下游绿洲胡杨林土壤水 盐的空间变化特征与成因[J].自然资源学报,2012,27（6）： 942-952.[Liu Puxing,Zhang Kexin,Huo Huali,et al. Characteristics and causes of the spatial variations of soil water and salt content under Populus euphratica Oliv.in the middle and lower reaches of the Shule river basin[J]. Journal of Natural Resources, 2012,27(6):942 -952.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[29］李培都，司建华,冯起,等.疏勒河年径流量变化特征分析及模 拟[J].水资源保护，2018，34（2）：52-60.［LiPeidu，SiJian hua,Feng Qi,et al.Analysis and simulation on annual runoff variation characteristics of Shule River[J].Water Resources Protection,2018,34(2):52-60.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30］商沙沙，廉丽姝，马婷,等.近54a中国西北地区气温和降水的 时空变化特征[J].干旱区研究,2018,35（1）:68-76.［Shang Shasha,Lian Lishu,Ma Ting,et al. Spatiotemporal variation of temperature and precipitation in northwest China in recent 54 years [J].Arid ZoneResearch,2018,35(1):68-76.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31］热孜宛古丽·麦麦提依明，杨建军，刘巍.艾比湖流域1957— 2013 年潜在蒸散、气温、降水变化特征分析[J].冰川冻土， 2016,38（1）:69-76.[Reziwanguli Maimaitiyiming,Yang Jianjun,Liu Wei.Changing characteristics of potential evapotranspira tion,air temperature and precipitation in Ebinur Lake basin from 1957 to 2013[J].Journal of Glaciology and Ceocryology,2016,38 (1):69 -76.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32］周唤唤,郭威.芜湖市1971—2015年降水变化趋势及突变性分析[J].黄河水利职业技术学院学报，2018，30（1）：5－10.[Zhou Huanhuan,Guo Wei.Rainfall change trend and mutation a-nalysis in Wuhu from 1971 to 2015[J].Journal of Yellow RiverConservancy Technical Institute,2018,30(1）:5-10.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33］常周梅,胡文博,张丽娟.西宁市1951—2015 年气温及降水量变化特征［J].水电能源科学,2017,35（2）：7－11.［ChangZhoumei,Hu Wenbo,ZhangLijuan.Change characteristics of tem-perature and precipitation from 1951 to 2015 in Xining City[J].WaterResources and Power,2017,35(2）:7-11.]",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34］刘艳伟，王淑莹，屠星磊，等.元谋干热河谷区近60年干湿状 况和气温变化特征分析[J].排灌机械工程学报,2018,36（2)： 172-178.[Liu Yanwei,Wang Shuying,Tu Xinglei,et al.Characteristic analysis of dry-wet condition and temperature trend in Yuanmou dry-hot valley(DHV）in recent 6O years[J].Journal of Drainage and Irrigation Machinery Engineering,2018,36(2）:172 -178.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35］高彦春，王金凤,封志明.白洋淀流域气温、降水和径流变化特 征及其相互响应关系［J].中国生态农业学报,2017,25（4）： 467-477.[Gao Yanchun,Wang Jinfeng,Feng Zhiming.Variation trend and response relationship of temperature,precipitation and runoff in Baiyangdian Lake Basin[J].Chinese Journal of Eco-Agriculture,2017,25(4) :467-477.] ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Research on variation characteristics of precipitation in the mainstream of Shule River ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "SUN Dong-yuan1.2， QI Guang-ping1， YAN Ji-xuan1， AN Peng-cun1 (1.CollegeofWaterCoseruancyndHydroowerEnginering,GansuAgriculturalUniversityLnzhou3O,Gansu,hina; 2.Gansu Research Institute for Water Conservancy,Lanzhou 73oooo,Gansu,China) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Abstract：As the third largest inland river basin inthe Hexicorridor,Gansu province,northwest China,the Shule River Basin poses asan important ecological security barrier.Asthe main zoneof societal,economic,and humanactivity,the mainstreamof theShuleRiver isalsoavital ecological defenseatthe forefrontof the Shule River Basin. The purpose of this study was to analyze the precipitation variation in the mainstream of the Shule River Basin and to elucidate the precipitation trends in the river basin.Monthlyand annual precipitation data from Changmabao, Panjiazhuang,and Shuangtaobao Reservoir hydrological stations along the mainstream of the Shule River were used. Variatios in yearly annual change,change during ayear,interannual change,seasonal change,and precipitation mutation in the mainstream of the Shule River from1956 to 2016 were analyzed using linear tendency,cumulative anomaly,moving average,and Mann-Kendall mutation tests.The results showed that the annual precipitation in the main stream of the Shule River exhibited an overall increasing trend(to varying degrees）,follwing the order: Changmabao, $5 . 4 7 \\ \\mathrm { m m } \\cdot \\mathrm { ~ ( 1 0 a ) ~ } ^ { - 1 } >$ Shuangtaobao Reservoir 1.454 mm·（10a） $^ { - 1 } >$ Panjiazhuang $0 . 8 6 6 \\ \\mathrm { m m }$ ： (10a)-1.The distribution of precipitation during a year was extremely uneven;however,it was mainly concentrated in May-August,accounting for more than $65 \\%$ of the annual precipitation. The interannual change in precipitation in the 196Osand 198Os was lower thanthe average annual precipitation;whereas in the 197Osand 201Os,it was higher than theannual average.The seasonal variation in precipitation showed diffrent characteristics at diferent stations. Precipitation at Changmabao,Panjiazhuang,and Shuangtabao Reservoir contributed the most toward the precipitation in summer,autumn and autumn,respectively.The average precipitation anomaly in diffrent seasons and diferent years presented diffrent characteristics.The precipitation mutation of theannual average and overthe different seasons showed different mutation characteristics and diferent mutation times.The mutation points of the average annual precipitation in Changmabao,Panjiazhuang,and Shuangtabao Reservoir occurred in 1964and 2Ool,1988,and 1987,respectively.These research results are practically important in terms of promoting regional integrated water resources management and scientific alocation.Ina follow-up study,the characteristics and prediction of regional precipitation trends under a changing environment will be further investigated. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Key words:mainstream of Shule River；precipitation；variation characteristics；Mann-Kendall mutation test; Gansu ",
+        "page_idx": 12
+    }
+]

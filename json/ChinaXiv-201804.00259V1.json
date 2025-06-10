@@ -1,0 +1,390 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201706031022 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李慧,李丽,吴巩胜,周跃,李雯雯,梅泽文.基于电路理论的滇金丝猴生境景观连通性分析.生态学报,2018,38(6)2221-2228.LiH,LiL,WuGZoialstsapeectiofokbatheory.Acta Ecologica Sinica,2018,38(6) :2221-2228.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于电路理论的滇金丝猴生境景观连通性分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李慧1,2,3，李丽2,3，\\*，吴巩胜²，周跃²，李雯雯1,²，梅泽文1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1云南财经大学城市与环境学院，昆明650221  \n2云南财经大学野生动植物管理与生态系统健康研究中心，昆明650221  \n3云南省高校灾害风险管理重点实验室，昆明650221",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：景观连通性对生态系统服务、动植物基因交流的保护以及景观规划等都具有重要影响作用。以滇金丝猴活动区域为研究对象,基于电路理论建立滇金丝猴栖息地的连接度模型,分析滇金丝猴栖息地间的连通性,对于连通性较好的区域,识别出了重点保护与恢复区域;对于连通性较差的区域,通过电路理论连接度模型确定了影响今后廊道建设的重点保护与恢复区域。结果表明：各区域内部猴群栖息地连通性较好,其中中部地区最优,其次是北部,最差为南部。G3和G4栖息地斑块作为对连接各区域猴群生境斑块起到关键作用的\"踏脚石\"斑块是今后重点保护与恢复的区域,保护和恢复南部与中部猴群栖息地间\"空白区域\"的植被对于整个滇金丝猴活动区域的猴群基因交流也尤为重要。方法上，相较于图论得到的单一路径,电路理论得到的多路径更具有现势性。研究方法及研究成果可为濒危物种保护和区域生态廊道设计提供重要参考价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：电路理论；滇金丝猴生境；景观连通性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the landscape-level connectivity of the Yunnan snub-nosed monk habitat based on circuit theory ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LI Hui1,2.3,LI Li2,3,\\* ,WU Gongsheng²,ZHOU Yue²,LI Wenwen12,MEI Zewen1,2 1 Schoolof Urban and Environment，Yunnan UniversityofFinance and Economics，Kunming 65o221，China 2 Wildlife ManagementandEcosystem Health Center，Yunnan UniversityofFinanceandEconomics，unming65021，China 3KeyLaboratory of DisasterRisk Management ofYunnan Provincial Universities，Kunming,65O221,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Landscape connectivity has important consequences for conservation of ecosystem services，gene flow，and landscape planning.In this study,theconnectivity between the habitat patches ocupied bythe Yunnan snub-nosed monkey was analyzed basedon circuit theory.Inareas with more contiguous habitat,the keyconservationandrestoration ares have benidentifiedas“stepping stones”.Ontheother hand,inareas wherehabitatcontiguity islow，thekeyprotection and restorationareas forcorridorconstruction have been determined byusing theconnectivity model of circuit theory.In this study,theresults indicated that:theconnectivityof each intra-regional monkey groupswassuperior.Areas in the midle showedthe bestconnectivity,folowedbythoseinthe north,whilethe worstareasweredistributedinthesouth.Thehabitat patches G3andG4 in the north were identifiedas \"stepping stones\"and playa pivotal role in connecting the monkey habitat patches that are key areas for conservationand restoration.At the same time,the protection and restoration of vegetationbetweenthesouthernandcentralmonkey habitats isparticularlyimportantforgeneexchange toavoid inbreeding depression andthelong term survival of the southern population of Yunnan snub nosed monkey.Compared with the single pathobtainedbygraphtheory,the multipathobtainedbycircuit theoryismorerealistic.The methods folowed inthis study andour findingsprovideaneffectivescientificbasis foraregional ecologicalcoridordesign fortheprotectionof this endangered species. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:circuit theory；Yunnan snub-nosed monkey habitat；landscape connectivity ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "近年来,随着人们对生态环境的逐渐重视,我国对生态的保护和恢复工作都取得了一定的成绩。生态保护恢复工作主要分为两个方面,一是栖息地保护,二是降低生境破碎化程度。栖息地的保护与恢复工作最主要的方式是建立自然保护区。到2016年底为止,我国全国共建立不同类型、不同级别的自然保护区2740个，与2010年相比,自然保护区数量增加了152个[1]。但同时,由于道路建设等经济发展带来的宏观社会变化,致使栖息地破碎化和种群隔离的程度不但没有减轻反而进一步加重。生境破碎化被认为是影响物种生存能力的主要威胁之一,它会使野生动物的扩散活动和基因交流在景观中难以进行,所以通过研究景观连通性来降低生境破碎化程度对生态保护恢复工作具有重要作用[2]。 \\~",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观连通性是指景观促进或阻碍物种在生境斑块间运动的程度[3-4],对生态系统服务、动植物基因交流的保护以及景观规划等都具有重要影响作用[5]。景观连通性能够帮助控制生物流、非生物流和其他重要过程提供服务的速率[6]。无论景观结构如何变化,连通性增强就表示整个景观生物运动能力的提高,孤立的种群之间交换个体的概率增加,灭绝率降低[7]。同时景观连通性也是帮助物种快速适应气候变化的最通用的方法之一[8-10]。特别是在大的时间尺度上,景观连通性会影响到物种在气候变化中的迁移或改变它们栖息地的能力[11]。提高景观连通性能有效的促进复合种群动态和物种扩散,使斑块隔离最小化,从而减小气候变化与人为干扰协同影响下的局域种群的灭绝风险[4,1-3]。然而,目前国内对景观连通性的研究,除理论研究外[14-15],景观连通性的运用多集中在城市绿地格局[16-17]和土地整理生态效益[18]等方面,对景观连通性在野生动物生境中的研究还需深入。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "景观连通性的度量方法有最邻近距离法、空间格局指数法、尺度面积比法、图论法等,其中图论法被许多学者认为是较高性价比的方法[4,19-20]。图论研究了生境斑块间结构性和功能性互动的复杂性,以及物种在生境斑块间扩散的繁杂度[21-]。以图论为基础的功能性连接研究考虑到了给定生境斑块间最小费用路径的识别[23-24]。国内外一些学者应用图论展开了对景观连通性的研究,这些研究多集中在建立最小费用路径即潜在扩散廊道上,取得了较好的研究结果[13.20.25],但图论在景观连通性的研究中也存在一些难以克服的问题，比如在路径连接的分析中难以分析物种的多路径扩散概率,故许多学者开始寻找研究物种景观连通性的新方法。最近有研究开始运用电路理论原理来研究物种的扩散和迁徙,通过建立连接度模型来同时计算多个分散路径的可能概率。相比图论只考虑到一对指定栖息地斑块之间的有效距离而言[26],电路理论能得到的多路径结果使其在实际的应用中更具有现实性和客观性。国外有学者已经尝试将电路理论运用到识别潜在的保护区域和廊道上[27-28],但国内还较少有人应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "滇金丝猴作为我国特有的珍稀濒危物种之一,其栖息地景观研究大多集中在云南,现今其研究方法除了专家知识、野外调查[12.29]、图论法[13.20.25]外,在理论的量化研究方法上还缺少深入研究。本文在以往研究的基础上,首次运用基于电路理论的连接模型对整个滇金丝猴分布区栖息地的景观连通性进行分析,计算并获取栖息地间物种扩散电流去量化扩散路径的概率,旨在探讨以下问题：（1)探索识别物种扩散路径的新方法;(2)分析猴群栖息地间连通性的情况;(3)识别影响滇金丝猴扩散活动的重点保护与恢复区域。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "滇金丝猴是我国特有的珍稀濒危物种之一，也是海拔分布最高的非人灵长类。滇金丝猴的自然种群现存15 个,约 2500 只[30]。该物种栖息地位于三江并流区域,分布范围东西界为金沙江和澜沧江,分布最北的猴群栖息地纬度为 $2 9 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N }$ ,最南的猴群栖息地纬度为 $2 6 ^ { \\circ } 1 4 ^ { \\prime } \\mathrm { N }$ ,即分布于云南的德钦、维西、兰坪、丽江市玉龙县",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "和西藏的芒康县境内[31-32]（图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2数据来源与研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区域植被图是由云南林业调查设计院提供的2012年SPORT5卫星遥感影像图解译获得，以1:50000比例尺水系图和数字高程模型(DEM)作为参考的控制影像，在ERDAS9.2中对整景影像进行了几何精校正，均方根误差（RMS） $< 1$ ,植被图满足研究精度要求[13]滇金丝猴活动范围来自龙勇诚学者2004—2009年的调查数据[30]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1电路理论连接度模型原理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电路理论通过随机漫步理论将电路与运动生态学联系起来，在某一物种运动或基因交流过程中，景观被视为导电表面，具有低电阻的景观类型代表物种在这种景观特征中运动或是基因交流较为频繁，而高电阻的景观类型则代表具有物种运动或是基因交流障碍的景观特征。这样异质景观就被抽象为了一系列焦点和电阻，焦点代表生境、种群或保护区,其中电阻、电流和横跨景观的电压计算与整个生态过程相关,电流的大小指代物种沿某一路径扩散概率的大小[33]（图 2)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad02514f1e12f605a4b3a8fd1ac8278feb3e4d7aa64d6c9739153f290bc97c84.jpg",
+        "img_caption": [
+            "图1研究区域及滇金丝猴栖息地[30]",
+            "Fig.1Study area and habitat of Yunnan snub-nosed monkey[30] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e7ea7b8148c373cb71bfbfa962301540d32f5370253a5dd58320724a5127b91.jpg",
+        "img_caption": [
+            "图2电路理论连接度模型示意图[33] ",
+            "Fig.2Schematic diagram of circuit theory connectivity model[33] "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "若在研究中使用栅格数据格式,栅格网格可以有任意的电阻值,网格中为零电阻的区域（“短路区域”,它可用于表示连续的栖息地)用白色显示,具有无限大电阻区域的网格(它可表示阻碍运动斑块)用黑色表示，其余网格(它可代表不同的景观类型)用灰色表示[33]（图2）。根据物理学中的欧姆定律,在一个电路中电流与电压呈正比,与电阻呈反比,基本表达式为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI = { \\frac { V } { R } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：I,电流; $V$ ，电压； $R$ ,有效电阻,也称电阻距离。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "电流 $I$ 与电阻距离 $R$ 直接相关，电压一定的情况下，电阻距离 $R$ 越大，电流 $I$ 越小。这说明若某条路径的电阻距离过大,物种的扩散可能会选择其他更优路径,即电阻距离较小的路径[26]。具体物理学术语与其在生态学中的对照意义见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d996f1a742f45501042d4c9b4e31df6e2094aac1cba8dea03149f25475abf29.jpg",
+        "table_caption": [
+            "Table 1Comparison table of physical terms and their ecological significance in circuit theory[26] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>名词Terms</td><td>生态学意义Ecological significance</td></tr><tr><td>电阻Resistance</td><td>与生态学中景观阻力概念相似,电阻阻值越大,则证明该类景观对物种运动或基因交流的阻碍能力越强</td></tr><tr><td>电压Voltage</td><td>用来预测物种离开任意一个焦点并成功到达下一个给定焦点的可能概率</td></tr><tr><td>电流Current</td><td>表示物种在运动过程中沿某一路径扩散的概率</td></tr><tr><td>电源 Source</td><td>表示物种进行扩散过程前的种群数量</td></tr><tr><td>接地 Ground</td><td>表示物种在某一焦点停留，不继续扩散过程</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电路理论连接度模型有多种计算模式,本研究计划采用成对计算模式。在成对计算模式下,每一个焦点将任意地连接到一个1A的电源,而其他焦点将被接地,电阻将迭代地对所有成对焦点进行计算,计算后生成电流密度叠加图[33]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 信息提取与处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文研究的是15个猴群栖息地的景观连通性,故选取15个猴群的栖息地斑块作为焦点，其余皆为基质。根据已有的研究结果计算电阻距离,运用Circuitscape 4.0软件计算生境连接度电流密度值,并通过生成电流图分析不同猴群栖息地间的连接度情况。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由于研究区内存在许多种类的植被类型,为提高分析的准确性，本文结合《云南植被》分类体系、滇金丝猴栖息地相关文献和研究区域海拔高度等[13.29],将研究区域土地利用/覆被类型划分为5类适宜度并赋予其相应的不同电阻值(图1)。在电路理论的运用中,电阻距离的赋值方法多采用的是专家打分法[34],本研究采用的电阻距离赋值是基于遗传距离与最小费用距离的相关性最高的赋值法[29],对不同适宜度下的土地利用/覆被类型进行赋值见表2。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fc8062588ae6d2b5dc0dbd45f81049f761a352e7682c1c95c2cb78a167609b0f.jpg",
+        "table_caption": [
+            "表1电路理论中物理学术语与其生态学意义对照表[26",
+            "表2生境类型、土地利用/覆被类型及电阻值[29",
+            "Table 2Habitat type,land use/cover type and resistance[29] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>生境类型 Habitat type</td><td>土地利用/覆被类型 Land cover type</td><td>电阻值Resistance</td></tr><tr><td>最适宜生境Optimalhabitat</td><td>华山松、铁杉、箭竹林、云冷杉林、针叶阔叶混交林</td><td>1</td></tr><tr><td>次适宜生境 Suboptimal habitat</td><td>灌木林地、硬叶常绿阔叶林</td><td>10</td></tr><tr><td>适宜生境 Suitable habitat</td><td>高山针叶林、阔叶林</td><td>70</td></tr><tr><td>不适宜生境 Unfavorable habitat</td><td>非林地、荒山荒地、其他非林地、云南松林</td><td>90</td></tr><tr><td>阻碍Barrer</td><td>积雪、农牧地、人工建筑、人工经济林、水体</td><td>100</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 重点保护与恢复区域的识别",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究基于电路理论连接度模型中的电流密度来识别与确定影响滇金丝猴扩散活动的重点保护区域。在栅格数据中,电流密度所指的是通过某个像元的电流值大小,它可用来识别生态廊道中的物种扩散的高可能性地区。本研究的重点保护与恢复区域分为两类：一是对滇金丝猴栖息地间连接起重要作用的栖息地斑块,因为这个区域的缺失,将破坏猴群扩散和迁徙运动的潜在生态廊道,对猴群间基因交流产生不利影响。二是猴群栖息地间的廊道区域,由于道路建设或是景观类型等原因栖息地间的连接被中断,猴群间交流困难,故借助电路理论连接度模型,以确定猴群栖息地间的重点保护与恢复区域,为未来的廊道建立与植被恢复提供参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 景观连通性分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "电路理论连接度模型用电阻距离衡量景观的连通性,电阻距离在Circuitscape4.0软件中运用成对模式计算,迭代计算15个猴群栖息地间的成对电流密度值(表3）,并生产电流密度叠加图（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba5956c73db0f7a236810cd7f3ae7a98cbc0bf26875465b434198cceef541e17.jpg",
+        "table_caption": [
+            "表3成对栖息地间电阻距离",
+            "Table 3 Resistance distance between pairwise habitat "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">栖息地编码 Code of habitat</td><td colspan=\"10\">栖息地编码 Code of habitat</td><td colspan=\"4\"></td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td></td><td>12</td><td>13</td></tr><tr><td>2</td><td>12.18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td>23.96</td><td>7.52</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td>35.38</td><td>18.95</td><td>11.27</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>56.22</td><td>39.78</td><td>32.10</td><td>14.26</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>62.10</td><td>45.67</td><td>37.99</td><td>20.14</td><td>5.30</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>63.14</td><td>46.71</td><td>39.03</td><td>21.19</td><td>6.41</td><td>1.08</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>8</td><td>65.44</td><td>49.00</td><td>41.32</td><td>23.48</td><td>8.72</td><td>3.37</td><td>1.57</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>9</td><td>66.53</td><td>50.10</td><td>42.42</td><td>24.57</td><td>9.81</td><td>4.56</td><td>2.77</td><td>0.56</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>10</td><td>67.23</td><td>50.80</td><td>43.12</td><td>25.27</td><td>10.51</td><td>5.26</td><td>3.43</td><td>0.80</td><td>1.22</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>11</td><td>86.85</td><td>70.41</td><td>62.73</td><td>44.89</td><td>30.13</td><td>24.88</td><td>23.06</td><td>20.52</td><td>20.75</td><td>19.95</td><td></td><td></td><td></td><td></td></tr><tr><td>12</td><td>93.58</td><td>77.14</td><td>69.46</td><td>51.62</td><td>36.85</td><td>31.61</td><td>29.79</td><td>27.25</td><td>27.48</td><td>26.68</td><td>7.24</td><td></td><td></td><td></td></tr><tr><td>13</td><td>106.97</td><td>90.53</td><td>82.85</td><td>65.01</td><td>50.24</td><td>45.00</td><td>43.18</td><td>40.64</td><td>40.87</td><td>40.06</td><td>22.55</td><td>22.86</td><td></td><td></td></tr><tr><td>14</td><td>112.54</td><td>96.10</td><td>88.43</td><td>70.58</td><td>55.82</td><td>50.57</td><td>48.75</td><td>46.21</td><td>46.44</td><td>45.64</td><td>28.12</td><td>28.42</td><td>7.69</td><td></td></tr><tr><td>15</td><td>121.08</td><td>104.65</td><td>96.97</td><td>79.13</td><td>64.36</td><td>59.11</td><td>57.29</td><td>54.76</td><td>54.99</td><td>54.18</td><td>36.64</td><td>36.87</td><td>17.16</td><td>11.26</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图3中可知，利用电路理论连接度模型得到的物种运动轨迹是多路径的。其中电流密度高的区域，即黄色区域，代表物种从这一路径迁徙或扩散的可能性相对较大。但并不是物种都会选择这一路径，而是可能取决于图中电流密度分布物种运动的可能性大小。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据表3和图3、图4可知，15个猴群栖息地间的电阻距离范围为0.56—121.08Ω，整个研究区域电流密度值的范围为0—15.8329A。其中猴群栖息地G5G10 连接度最好，电阻距离在0.56—10.15Ω之间，主要是因为该区域主要分布在最适宜生境内，大部分区域为滇金丝猴偏好的华山松、铁杉、箭竹林等植被类型，并且猴群的扩散和迁徙基本无人为干扰。其次连接度较好的是猴群G1—G4，电阻距离在7.52—35.38Ω 之间，虽然这3个猴群生存在人为干扰较少的最适宜生境，但最适宜生境多为破碎化的小斑块。猴群栖息地间的连接度最差的为南部的G11—G15,尤其是G12—G13之间电阻距离高达 $2 2 . 8 6 \\Omega$ ,虽然 G11—G12 之间、G13—G15之间也存在较高的电流密度,但由于这两个区域由于海拔较高,且含有大量非林地、农牧地等阻碍或不适宜生境等原因，几乎与栖息地G1一G10\"断联”。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e9a4cf9054821f8de54037977ace25b3ac9f688520a5e919af8242405ac4b49.jpg",
+        "img_caption": [
+            "图3滇金丝猴栖息地连接度电流图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2重点保护与恢复区域分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图5可知，猴群栖息地G1一G4的北部区域的最适宜生境斑块多为破碎化的小斑块，G3栖息地斑块对连接G2和G4栖息地斑块起到关键连接作用；同时，G4也是连接北部和中部猴群的关键“踏脚石”斑块，所以应将G3和G4划定为重点保护与恢复区域;G11、G12地理距离G5一G10较远，为保护和提高其连通性，应结合斑块间存在的较多适宜生境建立合理的生态廊道；而距离所有猴群栖息地最远的G13—G15与离它们相对距离较近的G11一G12中间都没有生境斑块可以充当“踏脚石\"斑块,但从图中可发现,G13—G15 和G11—G12的\"空白区域”仍存在一些电流较高的地方,即适宜生境,所以保护和恢复这些“空白区域\"的植被对使最南部猴群与北部、中部猴群栖息地的连接尤为重要。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/60ee11a92484b32e2f03865fdea9bb3fc06d93b86002231dc4f63bc8441792eb.jpg",
+        "img_caption": [
+            "Fig.3The current map of the snub-nosed monkey's habitat ",
+            "图4相邻栖息地间电阻距离图",
+            "Fig.4Resistance distance map between adjacent habitats "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/636333565a274e55b45025215a31da995a3780868c04415deb9fc890e88e045f.jpg",
+        "img_caption": [
+            "Fig.5Local maps of probability of connectivity between the habitats of monkeys groups based on current flow "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论与讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文基于生境斑块,结合电阻距离对滇金丝猴分布区域的生境连通性进行了研究。通过得到的电流叠加图识别出:(1)各区域内部猴群连通性较好,其中中部地区最优,其次是北部,最差为南部；(2)对连接各区域的关键猴群生境斑块起到关键作用的“踏脚石\"斑块G3和G4,可作为今后保护的重点区域;（3)对于连接不畅通的斑块G11一G15,要保护和恢复其通往其他生境斑块的植被，使与其他生境能相互连接。建议优先保护和恢复对15个猴群栖息地景观连通性起关键作用的“踏脚石\"斑块和“空白区域”，结果对滇金丝猴保护政策的制定和实施具有一定参考价值。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文首次运用电路理论研究滇金丝猴分布区域的景观连通性，相较于最小费用距离模型等其它判别方法更具现实性。通过将最小费用路径和猴群栖息地间连通概率电流的叠加可知(图6)，电流密度最大路径与最小费用路径基本相同，由此验证了将电路理论连接度模型运用到研究物种扩散的概率路径的可行性和客观性。同时也说明，在未来为更为现实地模拟物种扩散的概率路径，这两种模型可以互为补充。其次电路理论连接度模型还可以确定相邻物种种群之间除最小费用路径之外的其他潜在走廊以及用来确定生态廊道的宽度。通过本研究也可得出，最小成本距离不受廊道宽度的影响,而根据电路理论连接模型建立的廊道宽度会随景观电阻的增大而减小。而且电路理论连接度模型结合它得出的结果是多途径的优势,可以应用到确定相邻物种种群之间的潜在走廊以及评价不同情景下的走廊恢复等[35-37]",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/36451c48940c4b98a59581f5c07571f47a69d128b12c58302d33f759c427b6e5.jpg",
+        "img_caption": [
+            "图5猴群栖息地间连通概率局部电流图",
+            "图6栖息地间连通概率电流与最小费用路径合成图 Fig.6The synthesis map of the connectivity probability current and minimum cost path between habitats "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于电路理论的连接度模型是对现实中物种运动过程的抽象化和简单化,虽然它是建立在相应的理论假设上的,但是在缺少实证研究数据和资料的情况下,基于模型的景观连通性模拟就是一种相对较好的选择。在本研究中,各生态斑块的电阻赋值依据其费用大小主观设定,但实际上,还应考虑诸多因素,如环境因素、斑块质量等,推广电路理论在景观生态学中的运用。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1］国家发展和改革委员会，国家旅游局.全国生态旅游发展规划（2016—2025).（2016-08-22）[2017-06-02].http /www.ndrc.gov.cn/zcfb/zcfbghwb/201609/W020160906537319001275.pdf.  \n[2]ClauzelCenXQ，uGou,LiLeiheactreveloptseisulealto Yunnan snub-nosed monkey conservation.Biological Conservation，2O15,192：207-217.  \n[3］傅伯杰，陈利顶，马克明，王仰麟.景观生态学原理及应用.北京：科学出版社，2011:82-84.  \n［4］吴昌广，周志翔，王鹏程，肖文发，滕明君.景观连接度的概念、度量及其应用.生态学报，2010,30（7)：1903-1910.  \n[5]MitchellG，eetEoeLiglsaidostowgdEcosystems，2013,16(5）:894-908.  \n[6]TaylorPD,Fag，WithKA.Landscapecoctityetutoebsics//CrosK，anjaanM,sOecivityCoeatioeYork：Cambridge University Press，2006：29-43.  \n[7]Beier P.Dispersal of juvenilecougars in fragmented habitat.Journal of Wildlife Management，1995,59:228-237.  \n[8]HellrNE，ZavaletaES.BiodiversityManagementinthefaceofimatechange：areviewof22yearsofrecommendatins.BiologicalConservation，2009，142(1）：14-32.  \n[9]TheobaldDedSE，FeldsKSouleCectingaturaldscapesusingalandscapepeabltyodeltopriorieatioactivities in the United States. Conservation Letters，2012,5(2):123-133.  \n[10]ThomsonAG,CalvinKV,SmithSJ,KyleGP,VolkeA,PatelP,Delgado-AriasS,Bond-LambertyB,WiseMA,ClarkeLE,EdmondsJA.RCP4.5:a pathway for stabilization of radioaetive forcing by 2100. Climate Change,2011，109(1/2）: 77-94.  \n[]Opdam，WarDiatetsiatgeatiindedggaalalevelssehtiBiological Conservation,2004，117(3）：285-297.  \n[12］薛亚东，李丽，李迪强，吴巩胜，周跃，吕玺喜.基于景观遗传学的滇金丝猴栖息地连接度分析.生态学报，2011，,31（20)：5886-5893.  \n[13］张宇,李丽，吴巩胜，周跃，覃顺萍，王小明.基于生境斑块的滇金丝猴景观连接度分析.生态学报，2016,36(1）：51-58.  \n［14］陈春娣，贾振毅，吴胜军，童笑笑，周文佐，陈若漪，张超林.基于文献计量法的中国景观连接度应用研究进展.生态学报，2017，37(10):3243-3255.  \n[15］杨娅楠，王金亮，习晓环，王成.野生动物生境景观连通性综述.环境科学导刊，2015,34（3)：10-15.  \n[16］于亚平，尹海伟，孔繁花，王晶晶，徐文彬.基于MSPA的南京市绿色基础设施网络格局时空变化分析.生态学杂志，2016,35（6)：1608-1616.  \n[17］曹翊坤，付梅臣，谢苗苗，高云，姚思瑶.基于LSMM与MSPA的深圳市绿色景观连通性研究.生态学报，2015,35(2)：526-536.  \n[18] 刘世梁，杨瑶婕，安晨，邱扬，王军.基于景观连接度的土地整理生态效应评价.生态学杂志，2012,31（3)：689-695.  \n[19] CalabreseJM,aganW.Aompariso-sopper'sgdetocoectivitymericsrotiersinEcologndtheEviroent，，（1）：529-536.  \n[20] 李雯雯,李丽，吴巩胜，张宇，代云川，周跃.评估不同尺度下农牧地对滇金丝猴景观连接度的影响.生态学报，2016，36（24)：8136-8144.  \n[21]Urban DL,MinorES,TremlEA,Schick R S.Graph modelsof habitat mosaics.Ecology Leters，2009,12(3):260-273.  \n[22]ZergbgUlfoingoeraalfodaolclests，ngdideand Urban Planning,2010,95(4）：181-191.  \n[23]GalpesllacdaaotisrcalsdatfiBiological Conservation，2011，144(1）：44-55.  \n[24]OBrllrtaatadgraph theory.Biological Conservation，2006,130(1）：70-83.  \n[25] FolteteJC,ueldelGsedicadelgofdapeotalodela38:316-327.  \n[26] McRaeBH,icKeitgtelilutdseatiol,89(10): 2712-2724.  \n[27] Corea ACA，MendozaME，SalicrupDRP，GranadosEL.IdentfyingpotentialconservationareasintheCuitzeoLakebasin，Mexicobymultitemporal analysis of landscapeconnectivity.Journal for Nature Conservation,2014,22(5）：424-435.  \n[28]WangF，McShaWJ，WangDJ,LiS，ZhaoQ，WngH，LuZ.Evaluatinglandscapeoptiosforcoidorestorationbetweentpadreserves.PLoS One，2014,9(8）:e105086.  \n[29] LiL，XueYD，WuGS，GiraudouxP.Potentialhabitatcoridorsandrestorationareasfortheblack-and-whitesnub-nosedmonkeyRhinopithecusbieti in Yunnan,China.Oryx,2014,49：1-8.  \n[30] WongMHG,LRQ,XungY.AgratveaachtessngheetialiactsoflaeaeoYaoemonkey.Biological Conservation，2013，158：401-409.  \n[31] 王亚明，薛亚东，夏友福.滇西北滇金丝猴栖息地景观格局分析及其破碎化评价.林业调查规划，2011，36(2)：34-37.  \n[32] 黎国强，杨宇明，肖文.滇金丝猴栖息地生物多样性及其威胁因素研究.云南环境科学，2006，25(4)：15-18.  \n[33]McRaeBH，ShahVB，MohapatraTK.Cireutscape4UserGuide.TheNatureConservancy217-06-02].htp://docs.circuitscape.org/circuitscape_4_O_user_guide.html?&id $\\ c =$ gsite.  \n[34]BeierP,jaDewellSUceraintalsstoodeligfsigngilifelgsolcalplcao，(8):2067-2077.  \n[35] EpsCM,MutayobaB，GinL，rasharesJS.AnepricalevaluationofthAfricanelepantasafocalspeciesforoctivipnginEast Africa.Diversity and Distributions，2011,17(4）：603-610.  \n[36] WalpoleAA，ownJ，urD,WisonJuncoaloctiyflatterouthageereryinOtarioaasaEcology，2012，27(5):761-773.  \n[37] McRaeBH,BeierP.CircuithoryPredictseneflowiplantandanialopulatios.ProcedingfortheNtioalAcadeyofciencoftheUnited States of America，2007，104(50）：19885-19890.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

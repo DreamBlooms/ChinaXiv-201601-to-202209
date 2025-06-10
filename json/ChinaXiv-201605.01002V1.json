@@ -1,0 +1,261 @@
+[
+    {
+        "type": "text",
+        "text": "Cooperative effects on the kinetics of ATP hydrolysis in collective molecular motors ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yaogen Shu1,² and Hualin Shi1   \n1Institute of Theoretical Physics,The Chinese Academy of Sciences,P.O.Box 2735,Beijing 100080,China 2Department of Physics, Xiamen University, Xiamen 361005,China   \n(Received 21 October 2002; revised manuscript received 4 December 2003；published 27 February 2004) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Within the framework of a two-state ratchet model, cooperative effects of collective molecular motors on the kinetics of adenosine triphosphate (ATP) hydrolysis have been studied in detail.We calculate the dependence of the rate of ATP consumption on the applied load.Features diferent from a single molecular motor have been found.We analyze two typical oscilations of colective molecular motors.The relations between the ATP concentration and oscillatory characteristics，such as frequency,amplitude,and the duty ratio,have been discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DOI:10.1103/PhysRevE.69.021912 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS number(s): 87.10.+e,05.40.-a ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Living cells have the ability to move and apply forces. Most motions and forces are generated on the molecular level by protein molecules that work as motors and are driven by a hydrolysis reaction of ATP (adenosine triphosphate) in a situation far from equilibrium[1].Linear motor proteins move along complex periodic and polar structures called filaments,obtained by the polymerization of monomers(actin filament) or dimers (microtubule)[1-6].Molecular motors moving along a one-dimensional polar and periodic structure is a nonequilibrium rectification process and many different models have been proposed so far to describe this process [7-12].A particularly promising approach is due to Vale and Oosawa [13] using the ratchet concept introduced by Feynman [14]. Since then,ratchet modelshavebeen intensively studied. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generally,molecular motors are ATPase [1].The reaction kinetics is still an open question.In a recent single molecular experiment performed on kinesin (a processive motor) [15], the kinetics of ATP hydrolysis has been studied under controlled external loads.It seems that the kinetics of ATP hydrolysis can still be described by the Michaelis-Menten mechanism,which was introduced in 1913 to describe the process of enzymatic catalysis [16],although the Michaelis constant here is load dependent.The experiment can be well explainedwitha two-state ratchet model. Boththe Michaelis-like reaction rate of ATP hydrolysis and the velocity of molecular motor have been obtained [16]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Molecular motors are classified in two groups depending on whether they designed to operate in groups(“rowers\"） or individually(\"porters\"\"）[2]. The collections of motors are relevant for experimental situations called“motility assays,\"\" for muscle contraction and possibly for vesicle transport in cells[2].Due to collective effects,behaviors very different from single individual motor system were found in the collection of motors,and studied in detail within the framework ofa two-state ratchet model [2,17,18]. A question arises: How does the cooperation affect the kinetics of ATP hydrolysis? In this paper we shall use the two-state ratchet model to study the cooperative effects of collective molecular motors alonga filament on the kinetics of ATP hydrolysis.Features of the rate of ATP consumption have been discovered. Oscillatorycharacteristics,such as the frequencyand amplitude, aswell as the duty ratio have been discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the two-state ratchet model [2],a molecular motor is represented bya particle.The internal degrees of freedom of the motor are simplified to two different states of the particle which moves along a one-dimensional $x$ -coordinate axis. State 1 is called the “bound’ state in which the motor is attached to the filament,whereas state 2is the‘free\"’ state in which motor is detached from the filament after dissociating ATP. The motion of the motor along the $x$ axis at state $i ( i$ $= 1 , 2 )$ is affected by the potential $W _ { i } ( x )$ .For simplicity, $W _ { 2 } ( x )$ for the‘free\"’ state is chosen to be a constant,while $W _ { 1 } ( x )$ for the‘bound’ state is periodic and with a polarity to characterize the flament[see Fig.1(a)].The motor transits from state 1 to 2 with a rate $\\omega _ { 1 } ( x )$ ，and from state 2 to 1 with a rate $\\omega _ { 2 } ( x )$ at position $x$ ；both $\\omega _ { 1 } ( x )$ and $\\omega _ { 2 } ( x )$ are periodic with period l[2,12,16-19]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The motor consumes the energy generated by the hydrolysis of ATP to move.The cycle of hydrolytic reaction of ATP can be described in a two-step process,as shown in Fig.2.In the first step,the motor gets the energy generated by the hydrolytic reaction and tends to transit to state 2 with rate $\\alpha _ { 1 } ( x )$ ．The transition happens only in the vicinity of the minimum of $W _ { 1 } ( x )$ .In the state labeled“ADP $M ^ { \\bullet \\mathbf { P } ^ { \\bullet } }$ the motor head is detached from the filament after binding and dissociating ATP,and the motor may move more or less freely along the filament.This state is just the“free state, or state 2.Both state “ATP $+ \\textbf { M } ^ { \\prime \\prime }$ and state‘ $\\bf \\cdot _ { A D P + M + P } ^ { \\alpha , \\psi , \\psi }$ refer to state 1. We assume a detailed balance for each step [16,20-24]: ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/155e4176cf67d61d65dd6022b85d987a1497930ebc8303ec7cf53841239f937b.jpg",
+        "img_caption": [
+            "FIG.1.(a) Ratchet potential $W _ { 1 } ( x )$ with $U { = } 1 0 k T$ and $W _ { 2 }$ $= 0 . 3 U =$ const. (b) $\\theta ( x )$ is chosen to be nonzero in the vicinity of the minimum of $W _ { 1 } ( x )$ with $\\delta / l = 0 . 1$ .(c)Motor molecules are connected rigidly to a backbone which is coupled to the environment bya spring $K$ ；the distance between molecules $d$ is incommensurate with $l .$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e037999cd058a1cfea19372a0cc3c3958d90b7ae54bac2dd6a377371eab52864.jpg",
+        "img_caption": [
+            "FIG.2.(a) The first step of the ATP hydrolysis take place lo cally.In the vicinity of the minimum of $W _ { 1 }$ ，the motor receives energy generated by a hydrolytic reaction.(b) The second step is a thermal process,i.e,there is not any difference in chemical potential for the release of ADP and P. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\frac { \\alpha _ { 1 } ( x ) } { \\alpha _ { 2 } ( x ) } = \\exp \\biggl [ \\frac { W _ { 1 } ( x ) - W _ { 2 } ( x ) + \\Delta \\mu } { k T } \\biggr ] , } } \\\\ { { \\displaystyle \\frac { \\beta _ { 1 } ( x ) } { \\beta _ { 2 } ( x ) } = \\exp \\biggl [ \\frac { W _ { 1 } ( x ) - W _ { 2 } ( x ) } { k T } \\biggr ] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $T$ is the temperature, $k$ is the Boltzmann constant,and $\\Delta \\mu { = } \\mu _ { A T P } { - } \\mu _ { A D P } { - } \\mu _ { P }$ is the chemical potential difference. The rate of motor transition from state $i$ can be written as $\\omega _ { i } ( x ) = \\alpha _ { i } ( x ) + \\beta _ { i } ( x )$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to study collective effects,we model multi-motor system as shown in Fig.1(c).Motor molecules are rigidly connected to a common backbone with fixed spacing $d$ which is incommensurate with the potential period $l$ This corresponds to the arrangement of motors along their track in muscles,and also to the disorder of motors in motility assays [2]. Let us denote by $P _ { i } ( \\xi , t )$ the probability to find a particle of state $i$ at position $\\pmb { \\xi } { = } x \\mathrm { m o d } l$ and time $t$ .These densities obey $P _ { 1 } ( \\xi , t ) + P _ { 2 } ( \\xi , t ) = 1 / l$ and $\\begin{array} { r } { \\int _ { 0 } ^ { l } P _ { 1 } ( \\xi , t ) + P _ { 2 } ( \\xi , t ) d \\xi = 1 } \\end{array}$ [2,17,18]. The random process of motors along filament satisfies [2,17,18] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\partial _ { t } P _ { 1 } + v \\partial _ { \\xi } P _ { 1 } = - \\omega _ { 1 } P _ { 1 } + \\omega _ { 2 } P _ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { e x t } = \\lambda v + \\int _ { 0 } ^ { l } P _ { 1 } \\partial _ { \\xi } ( W _ { 1 } - W _ { 2 } ) d \\xi ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda$ is damping coefficient, $\\boldsymbol { v } = \\partial _ { t } \\boldsymbol { X }$ ，and $f _ { e x t }$ is the external force acting on the motors.If the system is elastically coupled to its environment as shown in Fig. 1(c), then $f _ { e x t }$ $= - K X$ .Note that this model assumes an infinite number of motors for simplicity. Recently,computer simulations of finite number of motors confirm the validity of this approximation [25]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f2c7c1e4e6fd99971c23d678d63e034794f277b6aad64eabe2c05f3c39b15eda.jpg",
+        "img_caption": [
+            "FIG.3.For a symmetric system（ ${ \\it \\Omega } ( a / l = 0 . 5 )$ with $\\lambda \\omega l ^ { 2 } = 2 k T$ the velocity (a) and the rate of ATP consumption (b) vs the normalized concentration of ATP $q$ with different external forces,where $f _ { e x t } l / k T = 0 . 0 \\$ ， $- 0 . 0 2$ ， $- 0 . 0 4$ and $- 0 . 0 8$ from top to bottom, respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since the hydrolytic reaction of ATP only occurs in the first step process,the rate of ATP consumption can be written as [16] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr ( t ) = \\int _ { 0 } ^ { l } [ \\alpha _ { 1 } ( \\xi ) P _ { 1 } ( \\xi ) - \\alpha _ { 2 } ( \\xi ) P _ { 2 } ( \\xi ) ] d \\xi .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is equal to zero when both $\\Delta \\mu$ and $f _ { e x t }$ are zero.Because the release of ADP and P in the second step [Fig.2(b)] is just a thermal process,we suppose $\\beta _ { 2 } ( x )$ to be a constant $( \\omega )$ ， which is acceptable for $W _ { 2 } ( x ) =$ const. At the same time, due to the“active site”in biology which corresponds the hydrolytic process of ATP,we assume the first step is localized, which means $\\alpha _ { 2 } ( x ) = \\omega \\theta ( x )$ ，where $\\theta ( x )$ is indicated in Fig. 1(b).Instead of the difference of chemical potential $\\Delta \\mu$ ，we introduce ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a4af54a6bbabfb315864e5c9273545204d99917ae2c290b5cc3f5b694fc58826.jpg",
+        "table_caption": [
+            "TABLE I. The parameters of Michaelis-like relations between the velocity and ATP concentration $q$ at different loads. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>fextl/kT</td><td>Umax/wl</td><td>KM</td><td>R</td><td>vo/wl</td><td>q0</td></tr><tr><td>0.000</td><td>0.14887</td><td>0.59027×104</td><td>0.999860</td><td>0.11009×10-1</td><td>0.5×103</td></tr><tr><td>-0.002</td><td>0.12222</td><td>0.71157×104</td><td>0.999372</td><td>0.25394×10-1</td><td>0.2×104</td></tr><tr><td>-0.004</td><td>0.09287</td><td>0.10411×105</td><td>0.999560</td><td>0.42056×10-1</td><td>0.5×104</td></tr><tr><td>-0.008</td><td>0.03893</td><td>0.25577×105</td><td>0.998476</td><td>0.60746×10-1</td><td>0.3×105</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/082757977208e0fbb5260f536d77a774b0e05457828f4fa0c4eb5ff58e6b767f.jpg",
+        "img_caption": [
+            "FIG. 4. For a symmetric system ( ${ \\it \\Delta } a / l = 0 . 5 )$ with $\\lambda \\omega l ^ { 2 } { = } 2 k T$ and $K l ^ { 2 } = 0 . 0 2 k T$ $( x _ { i } )$ ， position vs time; $( r _ { i } )$ , the rate of ATP consumption vs time; $( f v _ { i } )$ ,the external force vs velocity. The subscripts $i = 1$ ， 2,and 3 correspond to $q = 1 0 ^ { 2 }$ ， $1 0 ^ { 3 }$ ，and $1 0 ^ { 5 }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nq = \\frac { \\left[ \\mathrm { A T P } \\right] } { \\left[ \\mathrm { A D P } \\right] \\left[ \\mathrm { P } \\right] } { = } \\exp \\left[ \\frac { \\Delta \\mu } { k T } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which represents the concentrations of ATP normalized with respect to their equilibrium value. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For single molecular motor, both the experiment [15] and theoretical analysis of the two-state ratchet model[16] indicated that the kinetics of ATP hydrolysis can be described by the Michaelis-Menten mechanism.The relation between the rate of ATP consumption or the velocity of motor and the ATP concentrations $( q )$ can simply be given by the Michaelis law: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = \\frac { r _ { m a x } q } { K _ { M } + q }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv = \\frac { v _ { m a x } q } { K _ { M } + q } + v _ { 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $r _ { m a x }$ or $v _ { m a x }$ is the saturation value and $K _ { M }$ is the Michaelis constant.For collective molecular motors which an fixed external force $\\boldsymbol { F _ { e x t } }$ is applied, the velocities and the rates of ATP consumption versus the normalized concentration of $\\mathrm { A T P } q$ at different loads $( f _ { e x t } )$ are shown in Fig.3.It is obvious that both of the velocity and the rate of ATP consumption cannot be fitted by the Michaelis law.However,at a high concentration of ATP, the velocity of motors still satisfies the modifiedMichaelis law: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv = \\frac { v _ { m a x } ( q - q _ { 0 } ) } { K _ { M } + ( q - q _ { 0 } ) } + v _ { 0 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We may call $\\boldsymbol { v } _ { 0 }$ and $q _ { 0 }$ the“start velocity ”and the“initial concentrations of ATP,’ respectively. Table I shows the fitting of the numerical results with Eqs. (9),and all regression coeficients $R { \\geq } 0 . 9 9 8 { \\approx } 1$ at different loads.while $v _ { m a x }$ decreases when the applied load increases, $K _ { M }$ increases.This issimilar to the case of a single molecular motor[16].However, the rate of ATP consumption,even at a high concentration of ATP,violated the Michaelis law.The rate of ATP consumption first increases,then decreases slightly with an increasing ATP concentration. This “strange” behavior may come from collective effects.The cooperation of molecular motors suppresses the dissipation caused by coupling with environment,molecular motors move fasteratalower ATP consumption when ATP concentration increases.Figure.3 also shows that the rate of ATP consumption decreases with increasing load.This is in agreement with the single molecular motor system [16]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Now we consider a system elastically coupled to its environment,as shown in Fig.1(c).Because of the cooperative effects of motors,the system shows spontaneous oscillations [2],which explain the oscillatory motions in biological motor system,e.g.，spontaneous oscillations of single myofibril (the contractile unit of muscle cells).We numerically integrate Eqs.(3),(4),and(5) at fixed damping coefficient $\\lambda$ and elastic factor $K$ for different concentration of ATP $q$ .The establishment of spontaneous oscillations for collective molecular motors is shown in Fig.4 $( f v _ { * } )$ . From the curve of external force $( f _ { e x t } )$ vs velocity $( v )$ two stages can be seen: the transient stage (dash line) and stationary loop stage (solid line).Figures 4 show that the motors start at ${ \\bf v } _ { - }$ and oscillate clockwise along the stationary loop determined by the curve of $v$ VS $f _ { e } x t$ (dotted line)[2].This agrees with Jülicher and Prost's prediction [2]. The establishment processes differ at low and high ATP concentrations $q$ .Ata low ATP concentration,the oscillation is established gradually,while at a high ATP concentration the oscillation is established suddenly.The higher the concentration,the faster the process. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The rates of ATP consumption $( r )$ satisfy energy conservation as shown in Fig.4.In order to maintain the oscillation,the system has to offset against the damping force $( \\vec { f } _ { d a m p i n g } = - \\lambda \\vec { v } )$ byconsuming ATP. The energyrequired bythe motor per unite time is $d E / d t = ( - \\vec { f } _ { d a m p i n g } )$ $( d \\vec { X } ) / d t = \\lambda v ^ { 2 }$ . According to the law of energy conservation, the rate of ATP consumption $r$ should be proportional to $v ^ { 2 }$ . This is why the frequency of $r$ is twice that of the position. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Oscillatory characteristics such as frequency,amplitude, and the duty ratio of motor at different ATP concentrations $q$ are shown in Fig.5.The amplitude and the time average rate of ATP consumption monotonically increase with increasing ATP concentration,while the frequency first decreases rapidlyand then increases slowly. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In summary,with the two-state ratchet model, we have analyzed the cooperative effects of collective molecular motors on the kinetics of ATP hydrolysis.The dependence of the rate of ATP consumption on the applied load as a function of the ATP concentration has been calculated for cases with and without an elastic coupling to the environment. The relations between the ATP concentration and oscillatory characteristics,such as frequency,amplitude,and the duty ratio, have been discussed.Features different from those fora single molecular motor have been found. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c296c7ca550c03c32fb56b995dfecd3b4069567c22e415b630d7b93c80e55b6a.jpg",
+        "img_caption": [
+            "FIG.5.The frequency (a),amplitude (b),time average of the rate of ATP consumption (c),and the duty ratio of the motor (d) vs the normalized concentration of ATP $q$ for a symmetric system with $\\lambda \\omega l ^ { 2 } { = } 2 k T$ and $K l ^ { 2 } = 0 . 0 2 k T$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Wei-mou Zheng and Bai-lin Hao for their encouragement and useful discussions.This work was supported by the National Natural Science Foundation of China. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lectures on Physics (Addison-Wesley,Reading,MA,1966).   \n[15]K.Visscher,M.J. Schnitzer,and S.M.Block,Nature (London) 400,184 (1999).   \n[16] G.Lattanzi and A.Maritan,Phys.Rev.Lett.86,1134 (2001).   \n[17]F.Julicher and J.Prost,Phys.Rev.Lett.75,2618 (1995).   \n[18]F.Julicher and J.Prost,Phys.Rev.Lett.78,451O (1997).   \n[19]A.Parmeggiani,F. Julicher,A.Ajdari,and J.Prost,Phys.Rev. E60,2127 (1999).   \n[20]M.J.Schnitzer and S.M.Block,Nature (London) 388,386 (1997).   \n[21] D.L.Coy, M. Wagenbach,and J. Howard, J. Biol. Chem. 274, 3667 (1999).   \n[22]W.Hua,E.C.Young，M.L.Fleming，and J.Gelles,Nature (London) 388,390 (1997).   \n[23] R.D.Astumian and I. Derényi, Biophys.J. 77, 993 (1999).   \n[24]R.F.Fox and M.H. Choi,Phys.Rev.E 63,051901 (2001).   \n[25] M.Badoual,F. Julicher,and J.Prost,Proc.Natl.Acad.Sci. U.S.A. 99,6696 (2002). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

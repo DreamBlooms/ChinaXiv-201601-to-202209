@@ -1,0 +1,206 @@
+# DOI:10.5846/stxb201612272682
+
+陈文辉,谢高地,张昌顺,鲁春霞,肖玉,张彩霞,张殷俊,王浩.北京市水果消费的生态足迹距离研究.生态学报,2018,38(3）：760-768ChenWH,XieGD,ZgCSuCX,Xia,ZagCXZagYJWagHdyoolgicalfotriistaceofrosupiiActa Ecologica Sinica,2018,38(3）:760-768.
+
+# 北京市水果消费的生态足迹距离研究
+
+陈文辉1,2，\*，谢高地³,4,张昌顺³，鲁春霞³，肖玉³，张彩霞³，张殷俊³，王氵
+
+1浙江农林大学信息工程学院，临安311300  
+2 浙江省林业智能监测与信息技术研究重点实验室，临安311300  
+3中国科学院地理科学与资源研究所，北京100101  
+4中国科学院大学资源与环境学院，北京100101
+
+摘要：采用生态足迹距离指标方法体系,对2009年至2012年间北京市水果消费的生态足迹距离进行研究。结果表明4年间：跨区转移的生态承载力质量距离,由 2009 年的 $1 1 . 5 { \times } 1 0 ^ { 8 } \mathrm { ~ t ~ k m }$ 逐年增加到了2012年的 $1 7 . 0 1 \times 1 0 ^ { 8 } \ \mathrm { t \ k m }$ ,共增加了 $4 7 . 9 1 \%$ ;生态足迹距离则相对稳定在 $8 8 6 . 6 6 ~ \mathrm { k m }$ 至 $1 0 7 3 . 5 5 ~ \mathrm { k m }$ 之间;人均生态足迹距离,总体上由 2009 年的 $4 . 3 9 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ 增加到 2012 年的$5 . 5 5 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ ,共增加了 $2 6 . 4 2 \%$ 。从类别的视角,年均生态足迹距离最大的是香蕉 $( 2 0 7 2 \mathrm { k m } )$ ,最小的是苹果( $4 7 6 ~ \mathrm { k m } { \cdot }$ )；年均跨区转移的生物承载力质量距离,最大的是西瓜( $4 9 7 8 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m } )$ ，最小的是香蕉( $5 1 8 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ );而4年平均人均生态足迹距离,最大的是西瓜( $1 7 . 7 \times 1 0 ^ { 4 } ~ \mathrm { k m } \rangle$ ,最小的是香蕉( $( 1 . 9 2 \times 1 0 ^ { 4 } ~ \mathrm { k m } )$ 。快速城市化阶段的北京,对外生态依赖范围也迅速扩大,并高于人口增加的速率。
+
+关键词：生态系统服务；生态足迹距离；时空分异；城市化
+
+# Study on ecological footprint distance of fruit consumption in Beijing
+
+CHEN Wenhui1,2,\*， XIE Gaodi34， ZHANG Changshun³，LU Chunxia³， XIAO ${ \mathrm { Y u } } ^ { 3 }$ ，ZHANG Caixia³ZHANG Yinjun³,WANG Hao³ 八
+
+1Schoolof Information Engineering，Zhejiang AgricultureandForestry University,Lin'an3113Oo,China   
+2ZhejiangProvincialKeyLaboratoryofForestryIntelligentMonitoringandInformationTechnology,Lin'n3l13oChina   
+3Instituteof Geographic Scienceand NaturalResources Research，Chinese Academyof Siences，Beijing 1Oolo1,China   
+4 Colege of Resourcesand Environment， Universityof Chinese Academy of Sciences， Beijing 10o101，China
+
+Abstract:Theecological footprint method wasproposed in 1992 and improved later，and is widelyapplied in the assessmentofsustainable developmentbyitsbalance comparisontothebio-capacity.Theecologicalfotprintisanarea indicatordemonstrating thehuman impactonnaturalcapitals.Although the indicatorof ecological fotprint distanceis establishedonthebasisofecologicalfootprint，itdescribestheecologicalldependentdistanceofacity，whichmightbea valuablesupplement and improvement totheecological footprintand bio-capacity theorysystem.Thisstudyanalyzed the ecological fooprint distanceof Beijing'sfruitconsumption.Population dataandresidentfruitconsumptions werecollcted from the“Beijing Statistical Yearbook”and“Chinese Migrants Development Report”from 2008 to 2012.Additionall，a marketinvestigation wascarredout.There wasanoverallincreasing trendofBeijing'sfruit ecological footprintdistance, importedfruit mass，andfruit ecological fooprint distancepercapita.From 2O09 to2O1，thedistanceof imported fruit mass increased by $4 7 . 9 1 \%$ (to 17.01 billion $\mathrm { ~ t ~ } \mathrm { k m }$ ）；the fruit ecological footprint distance fluctuated smoothly between 8.87 hundred $\mathrm { k m }$ and 1.07 thousand $\mathrm { k m }$ ；and the average fruit ecological footprint distance （per capita）increased by $2 6 . 4 2 \%$ ( to 55.5 thousand $\mathbf { k m }$ ). From the aspect of category，the maximum annual average fruit ecological footprint distance was recorded for banana（2.O7 thousand km），andthe minimum for aple（4.76 hundredkm）；themaximumaverage anual imported mass of bio-capacity was observed for water melon （497.8 billion $\mathbf { k g } \ \mathbf { k m }$ ），and the minimum for banana（51.8 billion $\mathbf { k g } \ \mathbf { k m }$ ）；and the maximum average annual ecological footprint distance of the four years was observed for water melon（177 thousandkm）,andthe minimum for banana（192 thousand km).Theresult showed that therapid urbanization of Beijing metropolisarea had led toan enlarged ecological costin fruitconsumption，andledtoa more wide-scope biocapacity suppliersas well.Even more，thisenlargement has exceeed the speed of populationgrowth.The following limitations existedinthisstudy：first，duetothelimitationofdata，fruitproductwaschosenastherepresentativeof al kinds of ecological resources；second，an appropriate weight should be given to each type of fruit whilecalculating the indicatoroffruitecologicalfootprintdistance.Itisrecommendedthatthefollow-upstudiesontheecologicalfootprint distanceshould improveinseveral ways：Bycollcting diferenttypesof industrial，agricultural，andserviceindustrial products data as much as possble；bycreating amodel thatcould determine the distance weight set of allproducts and could providean appropriate weight to each type of product；bychoosing more cities of diferent population or economic scaleas research targets.These improvements might be helpful inobtaining a more comprehensive and convinced indicator of a city's ecological footprint distance. ）
+
+Key Words: ecosystem services；Ecological Footprint Distance；spatial and temporal variation；urbanization
+
+生态系统提供了多种形式的服务功能,如:气候调节、水资源供给、废弃物消纳等,并提供了诸多原材料和食物等产品[1]。而伴随全球人口的增长,人类的可持续发展面临着更加严峻的考验。如何判别区域可持续发展所面临的生态压力,成为全球生态学研究领域的一个热点问题。20世纪90年代之后,随着经济社会的快速发展和居民追求更高质量生活意愿的提高，大量人口涌入都市区,我国步入快速城镇化阶段,从而导致城镇的可持续发展越来越依赖于外部地区的生态服务供给,并面临着生态系统服务愈加短缺的局面[2]。
+
+20 世纪90 年代,加拿大学者Rees与Wackernagel提出了生态足迹的概念和测度方法[3-4],该方法是以生物生产性空间（面积单位：全球公顷， $\mathbf { \Delta } _ { \mathbf { g } } \mathbf { \hat { h } } \mathbf { \bar { m } } ^ { 2 }$ )为指标,来衡量人类对自然资产消耗的有效工具。传统的生物承载力和生态足迹（EcologicalFootprint,缩写为 $E F$ )理论体系,通过生态足迹与生态承载力的比较,可以测算出不同区域尺度下自然资产的供给与消费能力,并得到相应的生态赤字/盈余状况;进而,根据其赤字/盈余状况可以判断该区域的可持续发展所面临的生态压力。其结果侧重于从面积的角度来反馈人类和其依赖的自然系统所提供的生态服务二者之间的供需平衡状况,但无法回答研究对象对外部区域的生态依赖距离有多远。
+
+近年来,国际上有不少关于食物里程方面的研究,例如:Kissinger对进口食物及其引起的碳排放进行了研究[5];Schnell对食物里程、当地饮食和社区支持的农业进行了研究,并认为应将本地食物放在适当位置[6]；Caputo等的研究认为,可用 $\mathrm { C O } _ { 2 }$ 标签或食物里程标签来表达食物运输的生态足迹[];Lopez等对实施碳边境税后的西班牙农业的食物里程、碳足迹和全球价值链影响进行了评估[8。这些研究大多是从食物运输距离的角度出发,主要着眼于削减“足迹”。
+
+在前人研究的基础上,谢高地与陈文辉提出了生态足迹距离（Ecological Footprint Distance, $D _ { \mathrm { e f } }$ 指标[9-10]该指标通过对一个城市所依赖的外部生态资源的状况进行核算,并最终反映在生态足迹距离（单位： $\mathrm { k m }$ 上。通过对生态足迹距离这一指标的研究,可以推断出城市地区对外部区域生态资源的依赖程度和范围远近； $D _ { \mathrm { e f } }$ 愈大,则研究目标获得可持续发展的生态成本愈高。本文将目标区域视为一个相对独立的生态单元,揭示其所占用外部生态承载力的距离远近和分布规律,是对传统的生态承载力和生态足迹理论体系的有益补充和完善。
+
+北京作为超大型城市,2015年的常住人口达到了2170.5万[11],如此庞大规模的人口,日常所需消费的生态资源数量巨大。水果是我国居民日常食品之一，能够提供人体所需的维生素和有机酸等营养物质。随着我国城镇居民生活水平的不断提高,水果的消费量也在不断增长。陶建平等的研究表明,随着北京城市化水平的提高,北京市居民的水果年人均消费水平必然受到影响,并可能会在将来稳定在 $5 0 ~ \mathrm { k g }$ 至 $9 0 ~ \mathrm { k g }$ 之间[12]。尽管当前我国都市区物流网络较为发达,除了超市外，人们在街头巷尾也可以很方便地购得所需的水果。但实际上水果的生产在我国存在着明显的季节性和区域性,如果没有对水果产品进行跨区域的合理调配,就无法保障都市居民获取价廉物美的应季水果。鉴于此,本文对北京市水果消费的生态足迹距离进行研究,研究不仅能反映北京市果品消费对区外的依赖性和影响范围,同时也有利于为政府指导水果资源的跨区调配提供决策依据。
+
+# 1概念、数据与计算模型
+
+# 1.1生态足迹距离的概念与内涵
+
+为了便于理解和清晰表达生态足迹距离的涵义,这里给出水果消费的生态足迹距离的3个子概念[9-10]：
+
+（1)生物承载力质量距离（Distanceof imported mass,缩写为 $D _ { \mathrm { m i } }$ )—研究目标区域所“跨区转移”水果的来源地到北京的距离和其质量的乘积的总和。通过比较跨区转移生物承载力质量距离,可以判断研究对象在消费水果的过程中,对处于不同地理空间位置上的外部地区的生态影响大小。这里的“跨区转移”指从国内（不含港澳台)除研究目标区外的其他区域引入，下同。
+
+(2)生态足迹距离 $( D _ { \mathrm { e f } } )$ 一指研究目标区域平均每消耗单位外来水果的加权直线距离;数值上等于 $D _ { \mathrm { m i } }$ 除以所有外来水果的总质量。通过对生态足迹距离的比较,可以判断研究对象获取相应水果资源的难易程度。通常,在生态足迹距离的研究中,将消耗的本地资源的生态足迹距离设定为0。
+
+（3）人均生态足迹距离（Average $\mathrm { D } _ { \mathrm { e f } }$ per capita,缩写为 $\mathrm { \nabla { \cdot } } \nabla _ { \mathrm { e f } }$ )—指某年在研究目标区域的人们,平均每人消耗的所有外来水果资源的加权总直线距离;数值上等于人均年消耗的外来水果资源的总质量乘以生态足迹距离。人均生态足迹距离的变化,能够在一定程度上反映出在研究目标区域居住的人们获取水果资源的平均生态成本的变化。 O /
+
+# 1.2数据源与数据分类
+
+为了研究2009 年至2012年间北京市水果消耗的生态足迹距离,需要得到在北京生活的人口数据、居民水果资源消耗数据和水果资源的来源地数据。前两类数据可以从《北京市统计年鉴》和《中国流动人口发展报告》获取。依次经过计算得到 2009 年到 2012年在北京生活的人数分别为：2622.66万人,2650.91万人，2887.57万人,3064.25万人[10]。来源地的数据则可通过市场调研（访谈法结合网络数据下载)获取。为了简化起见,本研究选取 2009至2012年间，交易量占北京市场 $6 0 \%$ 以上的新发地农产品批发市场（以下简称新发地)的各类水果资源来源地来表征北京市水果资源的国内来源地（不含国外和港澳台地区)。新发地采集到的水果资源数据主要有以下4类;红富士苹果(本文中的苹果均指红富士苹果）、桔子、国产香蕉和西瓜。
+
+# 1.3 研究方法
+
+# 1.3.1研究的基本假设
+
+（由于条件所限和为了简化研究,北京市消耗水果资源生态足迹距离的计算基于以下4项基本假设条件：①红富士苹果、桔子、国产香蕉和西瓜这4类水果资源是北京市居民主要的水果消费品种; $\textcircled{2}$ 可以用新发地的各类水果资源来源地特征来表征整个北京市水果资源的来源地特征； $\textcircled{3}$ 可以用新发地各类水果资源按来源地的数量比例来表征北京市各类水果资源按来源地的数量比例关系； $\textcircled{4}$ 可以用新发地各类水果资源的时空变化规律来表征北京市各类水果资源的时空变化规律。实际上，从调研得到的新发地占据的北京市场份额（2003年起至今，基本维持在 $6 0 \%$ 一 $7 0 \%$ 以上)以及上述4类水果在新发地市场所有水果类别中占据的份额（2009年至2012年分别为 $5 9 . 2 \%$ （204号 $, 5 4 . 8 \%$ ） $6 3 . 3 \%$ 和 $5 7 . 4 \%$ )来看，上述4项假设具有一定的合理性。
+
+# 1.3.2 计算模型
+
+假设有某研究目标对象 $X$ ,其所消耗的各类外来水果资源来自B（B为来源地集合）,那么可以构造如下
+
+公式来计算跨区转移水果资源的生态承载力质量距离 $D _ { \mathrm { m i } }$ ：
+
+$$
+\begin{array} { r } { D _ { \mathrm { m i } } = \sum _ { \mathrm { \Omega } _ { i , j } } Q ( \mathrm { \Omega } i ) \ \times D ( \mathrm { \Omega } j ) } \end{array}
+$$
+
+其中， $Q ( i )$ 和 $D ( j )$ 分别是各种水果的质量函数和各来源地直线距离的函数。
+
+本文出于定性研究的考虑,通过ArcGIS 的GCS-Beijing-1954 坐标系统来计算给定两点的直线距离,并用各省会到北京的直线距离来表达各来源地与北京的直线距离。进而由式(2)和(3)可以分别计算得到生态足迹距离 $\mathrm { D } _ { \mathrm { e f } }$ 和人均生态足迹距离 $\mathrm { \mathbf { A } } _ { \mathrm { e f } }$ 。
+
+$$
+D _ { \mathrm { e f } } = D _ { \mathrm { m i } } / \sum _ { i , j } Q ( i )
+$$
+
+$$
+A _ { \mathrm { e f } } = D _ { \mathrm { e f } } \times Q ( A )
+$$
+
+# 2结果与分析
+
+2.1水果类生态足迹距离的年际动态变化
+
+各类水果的跨区转移量按新发地在北京的交易量和市场份额（2009 年至2012年各年平均取市场份额为$6 6 . 7 \%$ )进行计算。
+
+# 2.1.1 所有水果类的年际动态
+
+表1反映了2009 年至2012年北京市消费水果总量及其跨区转移的生物承载力质量距离、生态足迹距离和人均生态足迹距离等指标的变化状况。 C
+
+表12009一2012年北京市外来水果消费的生态足迹距离情况  
+Table1 Ecological Footprint Distance of fruit consumption   
+
+<html><body><table><tr><td rowspan="2">指标类别 Type of indicator</td><td colspan="4">年份Year</td></tr><tr><td>2009</td><td>2010</td><td>2011</td><td>2012</td></tr><tr><td>消费总量 Total Consumption/108 kg</td><td>21.2</td><td>21.83</td><td>24.24</td><td>27.61</td></tr><tr><td>人均消费量 Average Consumption/kg</td><td>80.83</td><td>82.35</td><td>83.95</td><td>90.1</td></tr><tr><td>生物承载力质量距离 Distance of imported mass/（10"t km)</td><td>11.5</td><td>14.27</td><td>14.6</td><td>17.01</td></tr><tr><td>生态足迹距离 Ecological Footprint Distance/km</td><td>944.87</td><td>1073.55</td><td>944.51</td><td>886.66</td></tr><tr><td>人均生态足迹距离</td><td>4.39</td><td>5.38</td><td>5.06</td><td>5.55</td></tr><tr><td>Average Eclogical Fooprint Distance per capita /104km 跨区转移量 Total imported mass/108 kg</td><td>12.17</td><td>13.29</td><td>15.46</td><td>19.18</td></tr><tr><td>人均跨区转移量 Average imported mass per capita/kg</td><td>46.41</td><td>50.14</td><td>53.53</td><td>62.59</td></tr><tr><td>对外依赖度 External dependecy/% D</td><td>57.41</td><td>60.88</td><td>63.78</td><td>69.47</td></tr></table></body></html>
+
+（1)水果消费总量由 2009 年的 $2 1 . 2 \times 1 0 ^ { 8 } ~ \mathrm { k g }$ 逐年增加到 2012 年的 $2 7 . 6 1 \times 1 0 ^ { 8 } ~ \mathrm { k g } , 4$ 年增加了 $3 0 . 2 4 \%$ 。人均消费量则由 2009 年的 $8 0 . 8 3 ~ \mathrm { k g }$ 增加到 2012 年的 $9 0 . 1 ~ \mathrm { k g } , 4$ 年增加了 $1 1 . 4 7 \%$ 。
+
+(2)跨区转移的生物承载力质量距离由 2009 年的 $1 1 . 5 { \times } 1 0 ^ { 8 } \ \mathrm { t } \ \mathrm { k m }$ 逐年增加到了2012 年的 $1 7 . 0 1 \times 1 0 ^ { 8 }$ tkm,4 年增加了 $4 7 . 9 1 \%$ 。
+
+(3)生态足迹距离4年相对稳定在 $8 8 6 . 6 6 ~ \mathrm { k m }$ 至 $1 0 7 3 . 5 5 ~ \mathrm { k m }$ 之间,波动不大。
+
+（4)人均生态足迹距离 总体上由2009年的 $4 . 3 9 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ 增加到2012年的 $5 . 5 5 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ （仅在2011年略有下降),4年增加了 $2 6 . 4 2 \%$ 。
+
+（5)跨区转移量由2009年的 $1 2 . 1 7 \times 1 0 ^ { 8 } ~ \mathrm { k g }$ 逐年增加到了2012 年的 $1 9 . 1 8 \times 1 0 ^ { 8 } ~ \mathrm { k g } , 4$ 年增加了 $5 7 . 6 \%$ 。人均跨区转移量则由2009 年的 $4 6 . 4 1 ~ \mathrm { k g }$ 逐年增加到了 2012 年的 $6 2 . 5 9 \ \mathrm { k g } , 4$ 年增加了 $3 4 . 8 6 \%$ 。
+
+(6)对外依赖度由 2009 年的 $5 7 . 4 1 \%$ 逐年提高到了2012 年的 $6 9 . 4 7 \%$ 。
+
+随着北京城市人口规模的不断扩张，近年来水果消费总量在增大，跨区转移水果生态承载力质量距离和跨区转移水果总量及其对外依赖度都在逐年上升。也就是说，北京市居民的水果消费对外部区域的生态影响程度正在逐年扩大。而生态足迹距离的相对稳定,表明了北京市居民水果消费对外部区域生态影响范围的空
+
+间距离相对稳定。人均生态足迹距离总体上较大幅度上升,表明北京市居民获取水果资源的生态成本增加幅度较大。
+
+# 2.1.2主要水果类的年际动态
+
+表2则给出了红富士苹果、桔子、国产香蕉和西瓜这四大类水果消费的生态足迹距离参数和人均跨区转移量的综合情况。
+
+2009 年至2012年4大类水果消费的平均生态足迹距离 $( D _ { \mathrm { e f } } )$ 最大为2009 年的 $1 0 7 8 { \mathrm { ~ k m } }$ ,最小为2010 年的 $9 7 6 ~ \mathrm { k m }$ ,距离变化幅度较小,相对稳定。水果跨区转移质量距离( $| D _ { \mathrm { m i } } |$ )则呈现迅速增加的趋势,从2009 年的 $4 6 0 3 { \times } 1 0 ^ { 8 } \ \mathrm { k g \ k m }$ 增大到2012 年的 $1 0 8 4 0 \times 1 0 ^ { 8 } { \mathrm { ~ k g ~ k m } } , 4$ 年增加了 $1 3 5 . 5 \%$ ;人均生态足迹距离 $( A _ { \mathrm { e f } } )$ 呈现总体增加的态势,从2009 年到2012年依次为 $3 . 0 3 \times 1 0 ^ { 4 } \mathrm { k m } , 2 . 6 5 \times 1 0 ^ { 4 } \mathrm { k m } , 3 . 3 3 \times 1 0 ^ { 4 } \mathrm { k m }$ 和 $3 . 5 4 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ ,总体上增加了 $1 6 . 8 3 \%$ ;人均跨区转移总量分别为 $2 8 . 0 9 \mathrm { ~ k g } , 2 3 . 1 7 \mathrm { ~ k g } , 3 3 . 9 1 \mathrm { ~ k g }$ 和 $3 6 . 0 8 ~ \mathrm { k g }$ ,总体上增加了 $2 8 . 4 4 \%$ 可以判断,水果资源的生态足迹距离各指标总体上呈现逐年增大的趋势,是由于快速城镇化阶段都市区人口总量的总体增加引起的。
+
+表22009一2012年四大类水果消费的生态足迹距离与人均跨区转移量  
+Table 2Ecological Footprint Distance and amount of cross-region transferred of fruit consumpti   
+
+<html><body><table><tr><td rowspan="2">品名 Name</td><td colspan="7">指标类别和年份Type of indicatorand year</td></tr><tr><td></td><td colspan="3">2009</td><td>C Pm</td><td>2010</td><td>跨区转移量/</td></tr><tr><td></td><td>Def/km</td><td>Dmi/ （亿tkm）</td><td>Aef/万km</td><td>跨区转移量/ （kg/人）</td><td>Def/km</td><td>（亿tkm）</td><td>Aef/万km （kg/人）</td></tr><tr><td>苹果 Apple</td><td>568</td><td>1.73</td><td>6.6</td><td>11.58 456</td><td>1.28</td><td>4.8</td><td>10.34</td></tr><tr><td>香蕉 Banana</td><td>2033</td><td>0.56</td><td>2.1</td><td>1.06 2083</td><td>0.53</td><td>2</td><td>0.96</td></tr><tr><td>桔子 Orange</td><td>1292</td><td>1.05</td><td>4</td><td>3.1 1313</td><td>1</td><td>3.8</td><td>2.87</td></tr><tr><td>西瓜Watermelon</td><td>1420</td><td>4.6</td><td>17.5</td><td>12.36</td><td>1226</td><td>4.23 16</td><td>13</td></tr><tr><td>平均 Average</td><td>1078</td><td>7.94</td><td>3.03</td><td>976 28.09</td><td></td><td>7.03 2.65</td><td>23.17</td></tr><tr><td>合计 Total</td><td></td><td colspan="6">指标类别和年份 Type of indicator and year</td></tr><tr><td rowspan="4">品名 Name 苹果 Apple</td><td></td><td>2011</td><td></td><td></td><td></td><td>2012</td><td></td></tr><tr><td>Def/km</td><td>Dmi</td><td>Ae/万km</td><td>跨区转移量/ Def/km （kg/人）</td><td>Dmi/ （亿tkm）</td><td>Aef/万km</td><td>跨区转移量/</td></tr><tr><td>441</td><td>(亿t km) 1.45 5</td><td>11.39</td><td>440</td><td>1.64</td><td>5.3</td><td>（kg/人） 12.17</td></tr><tr><td>2095</td><td>0.47</td><td>1.6 0.78</td><td>2078</td><td>0.51</td><td>1.7</td><td>0.8</td></tr><tr><td>香蕉 Banana 桔子 Orange</td><td>1471</td><td>2.45</td><td>8.5</td><td>5.76 1462</td><td>2.85</td><td>9.3</td><td>6.37</td></tr><tr><td>西瓜 Watermelon</td><td>1136</td><td>5.25 18.2</td><td>15.98</td><td>1138</td><td>5.84</td><td>19.1</td><td>16.74</td></tr><tr><td>平均Average</td><td>982</td><td></td><td></td><td>981</td><td></td><td></td><td></td></tr><tr><td>合计 Total</td><td>9.61</td><td></td><td>3.33</td><td>33.91</td><td>10.84</td><td>3.54</td><td>36.08</td></tr></table></body></html>
+
+\* $D _ { \mathrm { e f } }$ :生态足迹距离,Eclogical Footprint Distance; $D _ { \mathrm { m i } }$ ：生物承载力质量距离,Distance of imported mass; $A _ { \mathrm { e f } }$ ：人均生态足迹距离,Average 一 Eclogical Footprint Distance per capita;表中苹果特指红富士苹果,香蕉特指国产香蕉
+
+对4类水果消费的生态足迹距离指标变化具体分析如下。
+
+(1)苹果消费的生态足迹距离变化特征 $D _ { \mathrm { e f } }$ 由 2009 年的 $5 6 8 ~ \mathrm { k m }$ 逐年下降到2010 年的 $4 5 6 ~ \mathrm { k m } \ 、 2 0 1 1$ 年的441 $\mathrm { k m }$ 和2012年的 $4 4 0 ~ \mathrm { k m }$ ,总体上下降了 $2 2 . 5 4 \%$ ,北京市消耗苹果对外地区的生态影响逐年变小； $D _ { \mathrm { m i } }$ 由2009 年的 $1 7 2 6 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ 下降到2010 年的 $1 2 7 6 \times 1 0 ^ { 8 } \mathrm { k g } \mathrm { k m }$ ,继而又连续增加到2011年的 $1 4 4 9 \times 1 0 ^ { 8 } \mathrm { k g \ k m }$ 和2012年的 $1 6 3 9 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ ,总体上有所波动并略有下降； $A _ { \mathrm { e f } }$ 由 2009 年的 $6 . 6 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ 下降到2010年的 $4 . 8 \times$ $1 0 ^ { 4 } ~ \mathrm { k m }$ ,随后连续增加到2011年的 $5 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ 和 2012年的 $5 . 3 { \times } 1 0 ^ { 4 } ~ \mathrm { k m } , 4$ 年总体下降了 $1 9 . 7 \%$ ,北京市居民的苹果消费的依赖距离有所下降;人均跨区转移量则由2009 年的 $1 1 . 5 8 ~ \mathrm { k g }$ 下降到2010年的 $1 0 . 3 4 ~ \mathrm { k g }$ ,此后又持续增加到2011年的 $1 1 . 3 9 ~ \mathrm { k g }$ 和2012年的 $1 2 . 1 7 ~ \mathrm { k g }$ ,但总体波动幅度较小。
+
+(2)香蕉消费的生态足迹距离变化特征由于主要从广东、广西和海南跨区转移的香蕉,其 $D _ { \mathrm { e f } }$ 较大,大致稳定在略大于 $2 0 0 0 ~ \mathrm { k m }$ 的距离上，且变化幅度较小; $D _ { \mathrm { m i } }$ 则由 2009 年的 $5 6 3 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ 持续下降到2010 年的 $5 2 8 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ 和 2011年的 $4 7 2 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ ,随后又增加到2012年的 $5 0 8 \times 1 0 ^ { 8 } ~ \mathrm { k g } ~ \mathrm { k m } , 4$ 年总体下降了$9 . 7 8 \%$ $A _ { \mathrm { e f } }$ 由2009 年的 $2 . 1 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ 持续下降到2010年的 $2 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ 和2011年的 $1 . 6 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ ,随后又小幅度增加到2012年的 $1 . 7 { \times } 1 0 ^ { 4 } \ \mathrm { k m } , 4$ 年总体下降了 $1 9 . 0 5 \%$ ;人均跨区转移量由2009 年的 $1 . 0 6 ~ \mathrm { k g }$ 持续下降到2010年的 $0 . 9 6 ~ \mathrm { k g }$ 和 2011年的 $0 . 7 8 ~ \mathrm { k g }$ ,随后又小幅度增加到2012年的 $0 . 8 ~ \mathrm { k g } , 4$ 年总体下降了 $2 4 . 5 3 \%$ 0
+
+(3)桔子消费的生态足迹距离变化特征 $D _ { \mathrm { e f } }$ 由 2009 年的 $1 2 9 2 ~ \mathrm { k m }$ 逐年增加到2010 年的1313km 和2011年的 $1 4 7 1 ~ \mathrm { k m }$ ,但在2012年小幅下降到的 $1 4 6 2 \ \mathrm { k m } , 4$ 年总体增加了 $1 3 . 1 6 \%$ ,北京市消耗桔子的生态影响距离有所增加; $D _ { \mathrm { m i } }$ 由 2009 年的 $1 0 4 9 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ 下降到2010 年的 $9 9 7 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ ,继而又连续大幅度增加到2011年的 $2 4 4 6 \times 1 0 ^ { 8 } \mathrm { k g } \mathrm { k m }$ 和2012年的 $2 8 5 4 \times 1 0 ^ { 8 } \mathrm { k g } \mathrm { k m } , 4$ 年总体增加了 $1 7 2 . 0 7 \%$ $A _ { \mathrm { e f } }$ 由 2009 年的 $6 . 6 \times 1 0 ^ { 4 } \mathrm { k m }$ 下降到2010年的 $4 . 8 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ ,随后增加到2011年的 $5 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ 和 2012年的 $5 . 3 \times 1 0 ^ { 4 } ~ \mathrm { k m } , { 4 }$ 年总体下降了$1 9 . 7 \%$ ,北京市居民的苹果消费的依赖距离有所下降;人均跨区转移量则由 2009 年的 $1 1 . 5 8 \mathrm { / k g }$ 下降到2010年的 $1 0 . 3 4 ~ \mathrm { k g }$ ,此后又持续增加到 2011 年的 $1 1 . 3 9 ~ \mathrm { k g }$ 和 2012年的 $1 2 . 1 7 ~ \mathrm { k g }$ ,但总体波动幅度较小。
+
+(4)西瓜消费的生态足迹距离变化特征 $D _ { \mathrm { e f } }$ 由 2009 年的 $1 4 2 0 ~ \mathrm { k m }$ 逐年下降到2010 年的 $1 2 2 6 ~ \mathrm { k m }$ 和2011年的 $1 1 3 6 ~ \mathrm { k m }$ ,此后在2012年又略微增加到 $^ { 1 1 3 8 \mathrm { \ k m } , 4 }$ 年总体下降了 $4 9 . 8 6 \%$ ,北京市消耗苹果的生态影响距离逐年变小; $D _ { \mathrm { m i } }$ 由 2009 年的 $4 6 0 3 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m }$ 略微下降到2010 年的 $4 2 2 5 \times 1 0 ^ { 8 } \mathrm { k g ~ k m }$ ,此后连续增加到2011年的 $5 2 4 5 { \times } 1 0 ^ { 8 } \mathrm { k g } \mathrm { k m }$ 和2012年的 $5 8 3 9 \times 1 0 ^ { 8 } \mathrm { k g } \mathrm { k m } , 4$ 年总体增加了2 $2 6 . 8 5 \% ; A _ { \mathrm { e f } }$ 由 2009 年的 $1 7 . 5 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ 下降到2010年的 $1 6 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ ,随后连续增加到2011年的 $1 8 . 2 { \times } 1 0 ^ { 4 } ~ \mathrm { k m }$ 和 2012年的 $1 9 . 1 \times 1 0 ^ { 4 } ~ \mathrm { k m } , 4$ 年总体增加了 $9 . 1 \%$ ;人均跨区转移量则由 2009 年的 $1 2 . 3 6 ~ \mathrm { k g }$ 逐年增加到2010 年的 $1 3 \mathrm { ~ k g } \mathrm { , } 2 0 1 1$ 年的 $1 5 . 9 8 ~ \mathrm { k g }$ 和2012年的 $1 6 . 7 4 ~ \mathrm { k g }$ ,总体增加了 $3 5 . 4 \%$ 。
+
+# 2.2北京市主要水果类资源消费的生态足迹距离的省级分布
+
+北京市水果消费的生态足迹距离,除了具有时相变化外,也具有以省级行政区为单位的空间分布特征。下面以2009 年和2012年为例（如图1和图2所示：各省级行政区的水果转移量。单位： $1 0 ^ { 6 } ~ \mathrm { k g } ^ { \cdot }$ ）。
+
+![](images/1ffb5dd591f2f10cb93317c349b65fd4c1aa5113e5efff58ab1f7792ce0050f0.jpg)  
+图12009年北京市消耗四大类水果生态足迹距离的省级分布  
+Fig.1Provincial-distribution of Beijing's $D _ { \mathrm { e f } }$ of fruit consumption in 2009
+
+2.2.1北京市水果消费对外部地区的生态依赖程度分级这里依据所选四大水果类的 $D _ { \mathrm { m i } }$ 值 $( 1 0 ^ { 6 } \mathrm { ~ t ~ k m } )$ 从大到小分级,把对外部地区的生态依赖程度分为极度依赖地区、重度依赖地区、中度依赖地区和轻度依赖地区。
+
+(1)2009 年北京市消费的四大类水果对外依赖的状况：极度依赖地区( $D _ { \mathrm { m i } }$ 值超过 $1 0 ^ { 8 } \mathrm { t ~ k m } \dot { }$ )包括海南(192)和广西(186）;重度依赖地区( $D _ { \mathrm { m i } }$ 值介于 $1 0 ^ { 8 } \mathrm { ~ t ~ k m }$ 和 $2 { \times } 1 0 ^ { 7 } \mathrm { ~ t ~ k m }$ 之间)依次为：吉林(81）、陕西(67）、山东(56）湖北(39)和广东(38)；中度依赖地区( $D _ { \mathrm { m i } }$ 值介于 $2 { \times } 1 0 ^ { 7 } \mathrm { ~ t ~ k m }$ 和 $1 0 ^ { 7 } \mathrm { ~ t ~ k m }$ 之间)依次为：辽宁（18）、甘肃（17）、江西(15）、黑龙江（13）、山西（12）、新疆(12）、云南(12)和福建(11);轻度依赖地区( $D _ { \mathrm { m i } }$ 值小于
+
+![](images/73d06b06991369509fc8def4d136c95f7d247d1dec0bc34fcea95a322977fadd.jpg)  
+图22012年北京市消耗四大类水果生态足迹距离的省级分布  
+Fig.2Provincial-distribution of Beijing's ${ \cal D } _ { \mathrm { e f } } \mathbf { o f }$ fruit consumption in 2012
+
+$1 0 ^ { 7 } \mathrm { t } \ \mathrm { k m } ,$ )依次为：河北(9）、浙江(6)、宁夏(5）、湖南(2）、内蒙古(2)和四川(1)。
+
+(2)2012年北京市消耗的四大水果对外依赖状况：极度依赖地区( $D _ { \mathrm { m i } }$ 值超过 $1 0 ^ { 8 } \mathrm { ~ t ~ k m }$ )包括云南（204）、广东(189）、海南(165)和山东(120);重度依赖地区( $D _ { \mathrm { m i } }$ 值介于 $1 0 ^ { 8 } \mathrm { ~ t ~ k m }$ 和 $2 \times 1 0 ^ { 7 }$ t km 之间)依次为：湖北（95）广西(56）、黑龙江(52）、辽宁(51）、吉林(51)和陕西(46);中度依赖地区( $\mathcal { D } _ { \mathrm { m i } }$ 值介于 $2 { \times } 1 0 ^ { 7 } \mathrm { ~ t ~ k m }$ 和 $1 0 ^ { 7 } \mathrm { ~ t ~ }$ $\mathrm { k m }$ 之间)为：河北(19)和山西(14）;轻度依赖地区( $D _ { \mathrm { m i } }$ 值小于 $1 0 ^ { 7 } \mathrm { t } \mathrm { k m }$ ）依次为：江西（7）、新疆(5）、宁夏（3）、湖南(2）、内蒙古(2）、河南(1)和四川(1)。
+
+2.2.2 主要水果类资源生态承载力的跨区转移情况
+
+(1)红富士苹果按转移量( $\mathrm { ^ { 1 0 ^ { 6 } \ k g \ r } }$ 的大小排序,2009 年的主要供给地为：山东（121）、陕西（78）、河北（38）、山西(28）、甘肃(15）辽宁(13）、宁夏(5)和新疆 $( 5 )$ ;其中山东所占的份额达到了 $3 9 . 8 \%$ 强,山东、陕西和山西约占总供给量的 $78 \%$ 。而 2012 年的主要供给地为：山东(262）、陕西(53）、山西(38）、河北（10)和辽宁(10);其中山东所占份额上升到了 $78 \%$ 强,其他地区所占份额均有所下降。
+
+(2)香蕉 按转移量( $| 1 0 ^ { 6 } \mathrm { k g } \rangle$ )的大小排序,2009 年的主要供给地为：广西(11）、广东(9）、海南(6)和云南(2)。而2012年则为：云南(9)、海南(6）广西(6)和广东(4)香蕉的消费量总体有所下降,并远小于其他三大类别水果。 10/n
+
+(3)桔子按转移量( $\mathrm { 1 0 ^ { 6 } ~ k g \dot { \Omega } }$ )的大小排序,2009 年的主要供给地为：湖北（38）、江西（12）、广东（10）、福建（7）、浙江(6）、云南(4）、湖南(2）广西(2)和四川(1);其中湖北所占的份额达 $4 6 . 9 \%$ 强,湖北、江西和广东三地约占总份额的 $7 4 . 1 \%$ 。而2012年的主要供给地则为：湖北(92）、广东(72）、广西(19）、江西(6）、云南（4）、湖南(2)和四川 $\textcircled{1}$ ;其中湖北和广东所占分额分别约为 $4 7 . 2 \%$ 和 $3 6 . 9 \%$ ,再加上广西,三者所占比例达到了$9 3 . 8 \%$ 强。
+
+(4)西瓜按转移量( $\mathrm { ( 1 0 ^ { 6 } ~ k g ) }$ 的大小排序,2009 年的主要供给地为：吉林(95）、广西（78）、海南（78）、山东(32）辽宁(16）黑龙江(12）、内蒙古(7）、山西(4)和广东(2);其中吉林、广西和海南三地所占比例达到约$7 7 . 5 \%$ 。而 2012年则为：云南(87）、辽宁（72）、河北(68）、山东(67）、海南(66）、吉林(60）、黑龙江(51）、广东（26）内蒙古(5）、宁夏(4）、广西(3）、新疆(2)与河南(2)。相对于其他三大类水果而言,西瓜的来源地更加分散化了。
+
+由上述可知,2009年至2012年,北京市跨区转移水果中,红富士苹果、桔子和西瓜的消耗量相对较大且总体呈现增加趋势,分别增加了 $2 2 . 7 \% . 1 4 0 . 7 \%$ 和 $5 8 . 3 \%$ ,超过了人口增加的速度（如前述,约为 $1 6 . 8 \%$ )；而香蕉的消耗量相对较小且总体略有下降。苹果和桔子的来源地较为集中,而西瓜的来源地呈现由集中到分散的趋势。
+
+# 3结论与探讨
+
+# 3.1结论
+
+本研究中将所消耗的本地水果资源的生态足迹距离设置为0,计算值比实际值偏低。通过上述研究，可以得到以下结论：
+
+$\textcircled{1}$ 水果类食物资源跨区转移的生物承载力质量距离，由2009 年的 $1 1 . 5 \times 1 0 ^ { 8 }$ tkm 逐年增加到了2012年的$1 7 . 0 1 \times 1 0 ^ { 8 } \ \mathrm { t } \ \mathrm { k m } ,$ 4年增加了 $4 7 . 9 1 \%$ ,并远高于人口的增加比率( $\ : 1 6 . 8 \% \cdot$ )。总体上,北京的快速城市化使其水果消费对外部的生态影响程度呈现迅速扩大的趋势。 C
+
+$\textcircled{2}$ 水果类消费的生态足迹距离介于 $8 8 6 . 6 6 ~ \mathrm { k m }$ 与 $1 0 7 3 . 5 5 \mathrm { k m }$ 之间,4年间波动不大。意味着北京市对区外水果资源的依赖距离相对稳定。
+
+$\textcircled{3}$ 人均生态足迹距离,总体上由2009 年的 $4 . 3 9 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ 增加到2012 年的 $5 . 5 5 \times 1 0 ^ { 4 } ~ \mathrm { k m }$ （仅在2011年略有下降）,4年增加了 $2 6 . 4 2 \%$ ,高于人口增加的速率。这表明北京市居民消耗外来水果资源的生态成本总体呈现增加的趋势。
+
+上述结论表明,从水果资源消费所引起的占用外部资源生态承载力的视角,2009 年至2012年北京城市化的生态成本总体呈现增加趋势。北京市消耗外来水果资源的生态足迹距离已经涵盖了全国半数以上地区（除西藏、青海等少数地区外）,而且来源地的分布已经较为分散;但从各来源地占据的市场份额来看,各类别水果资源的供给地仍然相对集中（其中西瓜的供给地和市场份额已经开始呈现分散化现象)。应该采取相应的措施,使得其市场份额的分布也更加分散化,确保北京市外来水果供应链的稳定性。
+
+从类别来看,各年份北京市跨区消耗的四大类水果资源的4年平均情况为;生态足迹距离最大的是香蕉（ ${ 2 0 7 2 } ~ \mathrm { k m } \rangle$ ,其次是桔子( $1 3 8 5 ~ \mathrm { k m } )$ ，再次是西瓜( $\mathrm { ~ ( 1 1 3 8 ~ k m ) }$ ,最小的是苹果( $: 4 7 6 ~ \mathrm { k m } ^ { \cdot }$ );跨区转移的生物承载力质量距离,最大的是西瓜（ $( 4 9 7 8 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m } )$ ,其次是桔子( $1 8 3 7 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m } )$ ,再次是苹果( $1 5 2 3 \times 1 0 ^ { 8 } ~ \mathrm { k g ~ k m } )$ ，最小的是香蕉( $\left( 5 1 8 \times 1 0 ^ { 8 } ~ \mathrm { k g } ~ \mathrm { k m } \right)$ )；人均生态足迹距离，最大的是西瓜( $( 1 7 . 7 \times 1 0 ^ { 4 } ~ \mathrm { k m } )$ ，其次是桔子( $( 6 . 4 \times 1 0 ^ { 4 }$ $\mathbf { k m } _ { \mathrm { ~ , ~ } } ^ { \mathrm { ~ } }$ )，再次是苹果 $( 5 . 4 \times 1 0 ^ { 4 } ~ \mathrm { k m } )$ ,最小的是香蕉 $( \mathrm { { 1 . 9 2 \times 1 0 ^ { 4 } ~ k m } } )$ 。各类水果资源的生态足迹距离各分指标的大小与来源省份的直线距离和市场份额密切相关:直线距离愈远、市场份额愈大,相应的指标就愈高。
+
+# 3.2探讨
+
+本研究以北京市消耗外来水果的生态足迹距离为研究的切入点,阐述了在快速城市化背景下,都市区对外部水果生态资源的占用情况。研究的结果表明,都市区水果消费的生态足迹距离总体上将保持增长趋势，并高于城市人口的增加速率。现阶段的快速城市化,将使得都市区对外部水果资源的依赖范围和依赖距离持续扩大,依赖程度也持续增加。同时注意到,本研究存在相应的局限性,因为仅依据水果类产品是无法全面代表城市消费的其他产品的,那么研究得到的关于城市的生态足迹距离也仅能作为一个定性研究参考。鉴于国内目前有关生态足迹距离的研究尚较匮乏,本研究仅作抛砖引玉之见;希望后续关于生态足迹距离方面的研究,能够选取种类丰富、足以代表区域之间的供需关系的更多产品,同时给每一类产品赋予适当的权重,这样才有可能得到一个较为准确的关于城市生态足迹距离的综合指标。
+
+本研究的结果对于政府指导水果资源的跨区调配,仍然能起到一定的科学决策支持功能。建议政府采取更加科学的生态承载力跨区配置措施,比如就近调配等,以减少资源的长途运输过程中带来的环境资源损耗，同时需考虑到资源产品的品质差别等问题。当然,这些跨区配置资源的政策与措施必须根据市场实际来实施。而建立一个全国性主要生态资源产品的生态足迹距离数据库,对于制定全国性的生态补偿政策也具有明显的意义;但同时也应注意到,市场交易行为已经从价格上体现出了相应的生态补偿行为,具体的补偿措施，可以结合生态足迹距离数据库中的转移质量、转移距离和方式、市场购销价格以及参考专家建议（有必要时，可对生态产品供销方进行补偿意愿的随机抽样调查)等方面加以综合考虑。最后,笔者建议政府对生态足迹距离进行专项的深入研究,建立和完善全国各类主要生态资源产品的生态足迹距离数据库,并投入充足的资金对生态承载力跨区域协作系统进行研究开发，以期形成全国性主要生态资源产品的产供销一体化跨区配置机制，从而缓解我国日趋紧张的生态资源压力。
+
+# 参考文献（References）：
+
+[1]CostazaR,AreR,DeGrotR,FrbekS,GssoM,aonB,LimburgK,NeS,O'illRV,arelJ,askinRGul,Van DenBelt M.Thevalueof the world'secosystem servicesand naturalcapital.Nature,1997,387(6630)：253-260.  
+［2］谢高地，曹淑艳，鲁春霞.中国生态资源承载力研究.北京：科学出版社，2011：1-360.  
+[3]ReesW,WackeragelM.Ubanolicafotprnts：yitotbsaableandthekeytostaabilityEnitaImpact Assessment Review，1996,16(4/6):223-248.  
+[4] WackernagelM,ResW.OurEcologicalFootprint：Reducing HumanImpactontheEarth.GabriolaIsland;NewSocietyPublishers，1996.  
+[5] Kissinger M.International trade related food miles-The caseof Canada.Food Policy，2012,37(2）：171-178.  
+[6]SchellSFdmiles，caltigduityprlueutilcalsAgiclueandnV,30(4): 615-628.  
+[7]CaputoRJRFsplpreefotistudy.Australian Journal of Agricultural And Resource Economics，2013,57(4）：465-482.  
+[8]LpezLA，CdarsoMA,GmeN，baraMA.Fodmiles，carboftpritadglobalvaluecisfSanishagiculturesessinthimpact of a carbon border tax.Journal of Cleaner Production,2015,1O3：423-436.  
+[9]XieGD,enWH,aoS,LuCX,XiY,ZagC,LiN,WangS.eoutwardextesoofagalftprintiitiothe case of Beijing.Sustainability，2014,6(12）：9371-9386.  
+[10] 陈文辉，谢高地，张昌顺，沈凤武，鲁春霞，肖玉，曹淑艳，李娜，王硕.北京市消耗食物生态足迹距离.生态学报 2016，36(4)：904-914.  
+［11］北京市统计局，国家统计局北京调查总队.北京市统计年鉴 2015.北京：中国统计出版社，2016：53-68.  
+[12] 陶建平，熊刚初，徐晔.我国水果消费水平与城市化的相关性分析.中国农村经济，2004，（6)：18-24.

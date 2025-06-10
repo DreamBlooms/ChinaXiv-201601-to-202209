@@ -1,0 +1,379 @@
+[
+    {
+        "type": "text",
+        "text": "脱氧雪腐镰刀菌烯醇(DON)的代谢特征",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张志岐 王瑞国 张维 王培龙 苏晓鸥\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国农业科学院农业质量标准与检测技术研究所，农业部农产品质量安全重点实验室，北",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：脱氧雪腐镰刀菌烯醇(DON)对以谷物为基础的食物和饲料的污染是一个全球性问题，严重危害了人和动物的健康。DON在人和动物体内的代谢特征是开展DON 暴露评估、毒性作用机制和干预技术等研究的基础。近年来有关DON 的吸收、分布、代谢和排泄等毒物动力学的研究引起了国内外广泛关注。本文将DON代谢特征的最新进展进行了全面的综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：脱氧雪腐镰刀菌烯醇；毒物动力学；代谢中图分类号：S811.2 文献标识码：A 文章编号：1006-267X(2016)00-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "脱氧雪腐镰刀菌烯醇(deoxynivalenol，DON)是由禾谷镰刀菌(Fusarium graminearum)产生的次级代谢产物[，在以谷物小麦、大麦、燕麦、玉米等为基础的食物和饲料中普遍存在，并且谷物中DON 的污染程度与降水、花期湿度和储存条件密切相关[2]。DON 是世界上分布最广泛、污染最严重的霉菌毒素之一[3-10]，DON 污染已成为饲料和食品安全的重要问题。DON 可以影响肠道、免疫系统和神经组织细胞的活性和功能，引起包括呕吐、厌食、腹痛、腹泻、头痛和头晕等症状，导致机体营养不良、免疫功能障碍和生长抑制，甚至导致休克以致死亡。这不仅严重危害人和动物的健康，还给养殖业带来巨大的经济损失[1-14]。分析谷物及饲料中的DON水平是从源头控制DON 污染的有效途径，而其代谢产物是DON 暴露的有效生物标志物[15-16]。生理样本如血液、尿液和组织器官可以作为DON 中毒重要的诊断靶标，因此有关DON 的毒物动力学研究引起了国内外广泛关注。本文将DON 代谢特征的最新进展进行了全面综述。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 DON的污染分布特征",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DON 对以谷物为基础的食物和饲料的污染是一个全球性问题。在欧洲针对饲料样品中DON 污染调查研究发现，约有 $57 \\%$ 的饲料样品存在DON 污染，且污染水平为 $9 1 \\sim 5 \\ 0 0 0$ $\\mu \\mathrm { g / k g ^ { [ 1 7 ] } }$ 。针对82个3种不同基质(母猪饲料、小麦和玉米)的饲料样品调查研究表明，有67种受到DON 污染，污染最高水平约为 $9 5 2 8 \\mu \\mathrm { g / k g ^ { [ 1 8 ] } }$ 。而欧盟设定谷物中DON 的最高限量为 $1 2 5 0 ~ \\mu \\mathrm { g / k g }$ 。西班牙、捷克和南非等国家以谷物为基础的食品也普遍被DON 污染，不同国家和地区DON 污染情况见表1。此外，食物中的DON 可经动物和人的排泄物通过排污系统污染水源[19]，造成潜在的环境污染风险。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b8b0682431c60260e9a7055abff56f582ed1921b170701af87c2cd915b98bea.jpg",
+        "table_caption": [
+            "表1DON污染的地区分布及污染特征",
+            "Table1DON contamination area distribution and contamination characteristics "
+        ],
+        "table_footnote": [
+            "1 分别表示 2009 年、2010 年和 2011 年的数值。Values for 2009,2010 and 2011,respectively."
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">地区 Region</td><td>样品 Sample</td><td>阳性率 Positive rate/%</td><td>最高水平 Maximum level/(μg/kg)</td><td>参考文献 References</td></tr><tr><td rowspan=\"3\">欧洲 Europe</td><td>西班牙</td><td>玉米、小麦、大米 米源食品</td><td>25.7、62.0、79.8 60</td><td>6178</td><td>[3]</td></tr><tr><td>塞尔维亚</td><td>向日葵、玉米、小麦</td><td>47.4、44.7、37.5</td><td>2 460</td><td>[4]</td></tr><tr><td>捷克</td><td>面包</td><td>94</td><td></td><td>[5]</td></tr><tr><td>美 America</td><td>洲 加拿大</td><td>玉米</td><td>83.7</td><td>2 630</td><td>[6]</td></tr><tr><td rowspan=\"2\">亚太地区</td><td>澳大利亚</td><td>谷物</td><td>61、87、681)</td><td>7 310</td><td>[7]</td></tr><tr><td>中国</td><td>小麦</td><td>89.3</td><td>4 975</td><td>[8]</td></tr><tr><td rowspan=\"2\">Asia pacific</td><td>突尼斯</td><td>小麦</td><td>83</td><td>1330</td><td>[9]</td></tr><tr><td>南非</td><td>小麦粉、玉米粉</td><td>69、89</td><td></td><td>[10]</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 DON的生化性质 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DON 又名呕吐毒素，属单端孢霉烯族类毒素[1l，化学名称为12,13-环氧-3,7,15-三羟基单端孢霉-9－烯-8－酮，物理状态为无色针状结晶，为极性化合物，易溶于水和极性有机溶剂(图1)。由于DON 在 $3 5 0 \\mathrm { ~ } ^ { \\circ } \\mathrm { C }$ 高温下化学性质仍稳定，不受加工和烹饪过程影响而遍及整个食物链[2.20]。这类小倍半萜类化合物 $\\mathbf { C } _ { 1 2 }$ 和 $\\mathbf { C } _ { 1 3 }$ 位置上的环氧基团对于DON 的毒性至关重要，它可能与细胞中蛋白质的氨基、羧基和羟基相互作用，结合核糖体引起核糖体应激并激活各种蛋白激酶而产生毒性[21-28]。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/27e633a919d99718757d8032f65198ec7736985816bbe544ebd8e4e916ee985b.jpg",
+        "img_caption": [
+            "图1 DON的化学结构",
+            "Fig.1The chemical structure of DON "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1DON 的吸收",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "毒物动力学研究结果显示，DON 经口服后可以穿过机体小肠屏障被迅速吸收，进入血液循环并分布至外周各器官[24]。尤其 DON 还可以穿过血脑屏障(blood-brain barrier，BBB)分布至中枢神经系统[24]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 DON穿过小肠屏障 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DON 的毒性源于其可以穿过生物屏障，进而影响器官中细胞的活性和功能。DON 摄入后首先穿过肠道屏障。动物和人消化道中寄居细菌共生微生物，可以保护宿主免受病原微生物和毒素的侵害[29-30]。小肠对DON的吸收具有很大的物种差异性,分别为猪 $( 8 2 \\% ) >$ 鸡 $( 1 9 \\% ) >$ 绵羊 $( 5 . 9 \\% \\sim 9 . 9 \\% ) >$ 牛（ $1 \\%$ ）[31-34]，这主要与小肠前后寄生菌群的分布有关[35-37]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DON 进入反刍动物和禽类小肠之前会接触较高浓度的微生物，并且被代谢成脱毒产物去环氧脱氧雪腐镰刀菌烯醇(deepoxydeoxynivalenol，DOM-1)，由此降低了这些动物对于口服DON的敏感性[38]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于人和单胃动物(猪和啮齿动物)，因只在小肠结肠区具有高分布菌群，只有小部分DON 到达结肠被细菌代谢成DOM-1，并且通过粪便排出体外[39]，故很大比例DON 可以穿过小肠上皮细胞进入血液循环而被迅速吸收。因此，相对于禽类或反刍动物，猪对DON 更为敏感[31]。研究表明猪口服DON后约 $3 0 \\mathrm { m i n }$ 在血浆中即可检测到DON，并在 $3 { \\sim } 4 \\mathrm { h }$ 内达到吸收峰，因此猪的近端小肠可以快速且高效吸收 $\\mathrm { D O N } ^ { [ 4 0 - 4 1 ] }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对Caco-2 细胞及禽类小肠段研究结果表明，DON 主要通过被动扩散和细胞旁路吸收[42-43]。肠炎、小肠病毒感染、病原微生物以及毒素等都会降低小肠细胞间的紧密连接，从而促进肠上皮细胞对毒素的吸收[44-46]。研究显示，阉割公猪单次或持续暴露(4 周)污染 DON的饲粮，其对DON 的吸收率分别为 $54 \\%$ 和 $8 9 \\% ^ { [ 4 7 ] }$ 。毒素持续暴露具有高生物利用率，一方面可能与给药期间血液中DON 的不完全消除有关[47]，另一方面可能由 DON 影响肠道细胞紧密结合蛋白的表达进而引起屏障功能损伤所致[48-50]。而7日龄罗斯肉鸡持续暴露(4 周)污染 DON 饲粮后 DON 的吸收率反而会降低[51l，这可能与 DON 持续暴露使肉鸡适应毒素刺激，并在形态和功能层面启动肠道修复机能有关。此外，对DON的生物利用率还与机体不同发育阶段对DON 的耐受性有关[52]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2DON 穿过BBB ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DON 对脑功能的影响可能通过外周效应发挥作用，但DON 可以迅速穿过BBB，直接作用于脑细胞进而影响神经系统的功能[53]。BBB 是由内皮细胞和神经胶质细胞构成的可选择屏障，抑制外源分子从血浆进入脑脊液。DON 穿过BBB 的速度因物种而异， $2 \\mathrm { \\sim } 6 0$ min不等。静脉注射DON后猪和绵羊的脑脊液在 $2 . 5 \\mathrm { m i n }$ 内均可以检测到DON。绵羊脑脊液中检测的 DON 在 $5 \\mathrm { \\sim } 1 0 ~ \\mathrm { m i n }$ 即达到峰值，而猪则在 $3 0 \\mathrm { \\sim } 6 0 ~ \\mathrm { m i n }$ 达到峰值[53]。DON 穿过小鼠BBB 相对较慢，小鼠脑脊液在 $5 \\ \\mathrm { m i n }$ 可以检测到 $\\mathrm { D O N } ^ { [ 2 4 ] }$ 。猪血浆中的DON 有 $20 \\% \\sim 3 0 \\%$ 可以进入脑脊液，其在脑脊液中的半衰期与血浆中类似 $( 2 0 \\mathrm { h } ) ^ { [ 5 3 ] }$ 。小鼠到达BBB 的DON 约占血浆浓度的 $1 0 \\% ^ { [ 2 4 ] }$ 。而对于绵羊，只有 $5 \\%$ 的DON可以穿过BBB[53]。但DON是否能穿过人和其他物种的BBB 还有待于进一步研究来揭示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 DON进入细胞的机制",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，DON进入细胞的可能机制有2种：一种机制是DON不直接进入细胞内，而与细胞膜上的受体或蛋白相互作用激活各种激酶，进而激活下游信号通路发挥毒性效应，但至今还没有相关研究证实；另外一种机制是DON通过脂溶性扩散或内吞作用进入细胞[54]，有研究表明DON直接进入细胞后可以结合核糖体并引发一系列毒性效应[21-27]。DON是否可以与膜上受体结合发挥毒性效应以及DON进入细胞后还可以与除核糖体之外的其他细胞器或蛋白结合仍需进一步研究来阐明。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 DON 的分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "血液中原药及其代谢产物的分布和消除速率是毒物动力学的重要参数。小鼠单次口服给药后，DON 迅速进入血液循环并分布至外周各器官[24]。DON在血浆、肝脏、肾脏、心脏和脾脏中的药物峰时间/浓度、分布半衰期 $( \\mathbf { t } _ { 1 / 2 \\alpha } )$ 和消除半衰期 $\\left( \\mathbf { t } _ { 1 / 2 \\beta } \\right)$ 见表2，其中DON 在血浆、肝脏和肾脏中的消除动力学均遵循二室模型。DON 进入脑相对较慢，且峰值较低 $( 0 . 7 \\sim 1 . 0 \\$ $\\mu \\mathrm { g } / \\mathrm { g } )$ （表2)。猪静脉注射 DON 或暴露污染DON 饲粮后血液中 DON及其代谢物的 t1/2β 为$3 . 0 0 { \\sim } 3 . 9 6 \\ \\mathrm { h } ^ { [ 3 3 ] }$ (表3)。而猪饲喂天然污染的DON 的谷物 $\\mathbf { t } _ { 1 / 2 \\beta }$ 相对较长。肉鸡胃内插管给药DON 后血液中游离DON 的 $\\mathbf { t } _ { 1 / 2 \\beta }$ 约为 $0 . 6  { \\mathrm { h } } ^ { [ 3 2 ] }$ 。相反，绵羊瘤胃给药DON 的 $\\mathbf { t } _ { 1 / 2 \\beta }$ 则相对较长,为 $4 . 0 { \\sim } 5 . 3 \\mathrm { h } ^ { [ 3 1 ] }$ ，表明DON 在反刍动物体内消除速率较慢。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a2025f956f238940c028b966d40e8df7dc6d505dfb6082aad5ffbc8fd08046e.jpg",
+        "table_caption": [
+            "2Kinetics of DON distribution and clearance in plasma and other tissues after single oral expo ",
+            "表3DON 在畜禽动物中的毒物动力学"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">给药剂量 Dose/(mg/kg BW)</td><td rowspan=\"2\">血浆/组织 Plasma /tissues</td><td colspan=\"2\">药物峰 Drug concentrations</td><td rowspan=\"2\">分布半衰期 Half-lives of distribution (t1/2α)/min</td><td rowspan=\"2\">消除半衰期 Half-lives of clearance (t1/2β)/h</td></tr><tr><td>5 min</td><td>15 min</td></tr><tr><td rowspan=\"6\">25</td><td>血浆</td><td>12.1 μg/mL</td><td>11.5 μg/mL</td><td>20.4</td><td>11.8</td></tr><tr><td>肝脏</td><td>19.6 ug/g</td><td>12.1 μg/g</td><td>22</td><td>19</td></tr><tr><td>肾脏</td><td>7.6 ug/g</td><td>9.0 ug/g</td><td>47</td><td>20.9</td></tr><tr><td>脾脏</td><td>7.3 ug/g</td><td>7.9 ug/g</td><td>29</td><td>9</td></tr><tr><td>心脏</td><td>6.7 ug/g</td><td>6.8 ug/g</td><td>41</td><td>12.3</td></tr><tr><td>脑</td><td>0.7~1.0 μg/g</td><td></td><td>5 min~2 h</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5bba58ddb019b8ac0cbb06c2891e3c00dc049ee39b702e432a50ba1075ba90e0.jpg",
+        "table_caption": [
+            "表2小鼠单次口服DON后在血浆及各组织中的分布及消除代谢动力学",
+            "Table 3Toxicokinetics of DON in farm animals[55] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"5\">物种 Species</td><td rowspan=\"5\">剂量</td><td>毒素来</td><td>给药方式</td><td>消除半衰</td><td>评估指标</td><td></td><td></td></tr><tr><td></td><td></td><td>期</td><td></td><td>生物利用率</td><td>参考文献</td></tr><tr><td>Dose/(mg/kg</td><td>源Toxin</td><td>Administration</td><td>Evaluation</td><td></td><td></td></tr><tr><td>BW)</td><td>source</td><td>routel)</td><td>Half-lives index2)</td><td>Bioavailability</td><td>References</td></tr><tr><td></td><td></td><td>of</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7f997d3fc74187bc16df692ba5b787cf978f96c160e145a47cde7728a08e6d46.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1i.v.：静脉注射 intravenous injection；p.o.：口服 oral exposure；i.p.：腹腔注射 intraperitoneal injection2a：脱氧雪腐镰刀菌烯醇 DON；b：DON 葡萄糖醛酸共轭物 DON-glucuronide；c：去环氧脱氧雪腐镰刀菌烯醇 DOM-1。"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"8\">clearance</td></tr><tr><td>肥 育猪 Growing-finishing pig</td><td>0.1</td><td>标准品</td><td>i.v.</td><td>(t1/2β)/h 3.0</td><td>a+b</td><td></td><td>[56]</td></tr><tr><td>肥 育猪 Growing-finishing</td><td>0.049</td><td>小麦粒</td><td>p.0.</td><td>3.96</td><td>a+b</td><td>82</td><td>[33]</td></tr><tr><td>pig 母猪 Sow</td><td>0.27~0.29</td><td>标准品</td><td>i.p.</td><td>1.75~4</td><td>a+b</td><td></td><td>[57]</td></tr><tr><td>肉鸡 Broiler</td><td>0.75</td><td>标准品</td><td>p.o.</td><td>0.6</td><td>a</td><td>19</td><td>[32]</td></tr><tr><td>绵羊 Sheep</td><td>5</td><td>标准品</td><td>p.0.</td><td>4-5.3</td><td>a+b+c</td><td>5.9~9.9</td><td>[31]</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 DON的代谢 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DON 的代谢是指DON 在消化道被微生物或在机体的肠黏膜、肝脏、肾脏等器官被降解成多种产物的过程。目前 DON已鉴定的代谢产物相对较少(图2)，主要包括 DOM-1、DON葡萄糖醛酸共轭物(DON-glucuronide，DON-GlcA)、DON 磺酸盐共轭物(DON-sulfonate)以及DON 硫酸盐共轭物(DON-sulfate)。其中DON-GlcA 是DON 的有效毒性标志物。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/77e35b7880366ebf3d1a845e5e82c55efa6b6ed60307ed831030ab28c71b04b4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DON：脱氧雪腐镰刀菌烯醇deoxynivalenol；DOM-1：去环氧脱氧雪腐镰刀菌烯醇 deepoxydeoxynivalenol；UGTs：尿苷二磷酸葡醛酸转移酶 UDP-glucuronosyltransferases；DON-3-GlcA、 DON-7-GlcA、DON-8-GlcA、DON-15-GlcA：脱氧雪腐镰刀菌烯醇葡萄糖醛酸共轭物 deoxynivalenol-glucuronide；DON-3-sulfonate：脱氧雪腐镰刀菌烯醇磺酸盐共轭物 deoxynivalenol-sulfonate; ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DON-3-sulfate：脱氧雪腐镰刀菌烯醇硫酸盐共轭物 deoxynivalenol-sulfate；DOM-1-10-sulfonate：去环氧脱氧雪腐镰刀菌烯醇磺酸盐共轭物 deepoxydeoxynivalenol-sulfonate。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 DOM-1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DOM-1主要在微生物催化下生成[59]，是不同物种中较常见的DON 的代谢产物（啮齿动物、猪、鸡及反刍动物)。DON 经口服后在血液中检测的 DOM-1并非在小肠腔产生，而是在消化道中经细菌的脱毒效应后被小肠吸收[60]。体内试验显示，绵羊和牛瘤胃中微生物也可以将 DON 转化成 DOM-1，且奶牛的转化效率要高[61-63]。此外，人粪便中的微生物也可以催化DON 形成 DOM-1[64]。虽然深湖细菌中分离的细胞色素 P450（CYP450）酶可以催化 DON 形成16-OH-DON，但CYP450 酶并不参与DON的代谢[65]，因此，目前 DON 被微生物催化代谢的酶机制仍未阐明。除微生物外，机体组织如肝脏可能也进行DON 的脱氧脱毒代谢。如猪静脉注射 DON 也可以检测到 DOM-1，且DOM-1在猪胆汁中的水平要高于血液[40]，但肝脏是否可以进行DON 脱氧脱毒效应还需要研究来进一步阐明。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 DON-GlcA ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DON 与葡萄糖醛酸的共轭作用可以增加其水溶性，进而更利于其通过尿液和胆汁排出体外。DON-GlcA 是在尿苷二磷酸葡醛酸转移酶(UDP-glucuronosyltransferases，UGTs)的催化下产生的。因DON-GlcA 的脂水分配系数（logD）值较低，其穿过细胞膜或结合核糖体效率较低，因此其毒性低于DON[6]。机体对外源性毒素的脱毒作用多发生在小肠、肝脏和肾脏，而UGTs 在肝脏、小肠和肾脏分布广泛[67]。最新研究表明肝脏微粒体可以代谢 DON并将其转化成 DON-GlcA，产物主要包括 DON-3-GlcA 和 DON-15-GlcA[68-69]。研究中观察了人、大鼠、牛、猪和鸡的肝脏微粒体中DON 的代谢，结果表明DONC3 位点的共轭能力是牛>大鼠>人[68](图 2)。同时，在大鼠和人的微粒体中均可检测到 DON-15-GlcA[69]。DON-7-GlcA 和DON-8-GlcA是新鉴定的共轭产物[68]。小肠和肾脏微粒体研究结果并未表明其可以进行DON的脱毒代谢。绵羊口服给药后约 $7 5 \\%$ 的 DON 可以转化成DON-GlcA，而静脉注射只有 $2 1 \\%$ 的生物利用率，这表明很大程度上脱毒产物的产生依赖于小肠上皮细胞[31]。此外，猪口服给药 DON 后血浆中可以检测到 DON-GlcA，但静脉注射 DON 后却无法检测，说明此共轭过程很可能发生在小肠吸收前[33.47]。然而，肠道细胞是否能对DON 进行脱毒代谢还有待于进一步研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 其他代谢产物",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "除了DON-GlcA，DON 代谢生成 DON-sulfonate 和 DON-sulfate 也是在动物体内降低毒性的途径。DON-sulfonate 可以降低猪的呕吐反应[70]，对猪外周血单核细胞以及猪小肠上皮细胞均无毒害作用[71]。在鸡和大鼠中可以检测到DON-10-sulfonate、DON-3-sulfate 及DOM-1磺酸盐共轭物（DOM-1-10-sulfonate）[72]。在绵羊尿中也可以检测到DON-3-sulfate[73]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "总之，所有DON 共轭物的产生均是其重要的解毒途径。DON 与葡萄糖醛酸共轭并通过尿液排出是其主要的代谢途径。而截止目前 UGTs 具体哪个酶亚族参与催化形成DON-GlcA 还未知。同时，DON 代谢存在明显的物种差异，而这种差异的调节机制仍需进一步研究来阐明。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4 DON 的排泄 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DON 主要以DON、DOM-1、DON-GlcA以及DOM-1-GlcA 的形式通过尿液排出。有研究显示，人摄入的DON约 $91 \\%$ 以DON-GlcA的形式排出体外，并且以DON-15-GlcA为主[74-75]。猪摄入的DON 约 $6 8 \\%$ 以 DON 和 DON-GlcA 的形式通过尿排出，约 $20 \\%$ 以 DOM-1和 DON 的形式通过粪便排出[40.47]。DON/DOM-1 以及 DON-GlcA/DOM-1-GlcA 的排泄一方面可能通过血液在肾小球的过滤作用，另一方面可能通过由小肠、肾脏和肝脏上皮细胞中分布的 P-糖蛋白排出[54]。DON 及其代谢物的排泄速度较快，猪和绵羊摄取DON 后，血浆中约1/2 的 DON在6h 后被排出[31,40]。DON 在动物中的高排泄率表明其原型及代谢物与血浆白蛋白结合率较低。而近期研究发现DON 可以和人血浆白蛋白相互作用[76]，表明 DON 在人中具有较长的血浆半衰期，增加了DON 对人潜在的危害。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5DON及其代谢产物的残留",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "检测动物源性食品如肌肉、肝脏、肾脏、牛奶和鸡蛋中DON的残留可以为消费者提供风险评估的依据。研究表明，DON 以原型和 DOM-1形式在猪可食用组织肾脏中的残留量最高(表4)。其他组织的残留量顺序分别为肝脏 $\\mathrm { \\Phi }$ 肌肉>脾脏>脂肪。DON在肾脏的高残留量可能与尿液浓缩有关，且与DON 在猪体内主要以尿的形式排出是一致的。奶牛饲喂 DON水平为 $8 . 2 1 \\mathrm { m g / k g ( }$ 干物质基础)的饲粮后，牛奶中DON及DOM-1的转化率分别为 $0 . 0 0 0 1 \\sim$ 0.000 2和 $0 . 0 0 0 4 { \\sim } 0 . 0 0 2 4 ^ { [ 6 3 ] }$ 。蛋鸡饲粮中 DON 浓度为 $1 1 . 9 \\mathrm { m g / k g }$ 时，蛋黄和蛋清中 DON和DOM-1残留均低于检测限(分别为2.5 和 $1 . 0 ~ \\mu \\mathrm { g / k g }$ ）[77]。因此，DON 在牛奶和鸡蛋中的残留很低。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0edbee18213e13bb6b2b73e47462a9cf65d54a3d647a687424fe1874a86d612.jpg",
+        "table_caption": [
+            "表4DON及其代谢产物DOM-1在猪可食用组织中的残留",
+            "Table 4Residues of DON and its metabolite DOM-1 in edible tissues of pigs[55] "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">组织 Tissues</td><td rowspan=\"2\">剂量 Dose/(mg/kg BW)</td><td rowspan=\"2\">给药周期 Duration</td><td rowspan=\"2\">给药方式 Feeding mode1)</td><td colspan=\"2\">毒素 Toxin/(ug/kg)</td><td rowspan=\"2\">参考文献 References</td></tr><tr><td>脱氧雪腐镰 刀菌烯醇 DON</td><td>去环氧脱 氧雪腐镰 刀菌烯醇</td></tr><tr><td>肌 肉</td><td>6.8</td><td>12 周龄(肥育猪)</td><td></td><td></td><td></td><td>DOM-1</td><td></td></tr><tr><td>Muscle</td><td></td><td></td><td></td><td>a.1./r.</td><td>7.3~20.5</td><td>0~1.7</td><td>[78]</td></tr><tr><td>肝</td><td>脏</td><td>6.8 4.42</td><td>12 周龄(肥育猪) 35 日龄(妊娠母猪)</td><td>a.1./r. r.(2 kg/d)</td><td>13.7~36.3 4.3~8.7</td><td>0~3.9</td><td>[78] [79]</td></tr><tr><td>Liver</td><td></td><td>6.8</td><td>12 周龄(肥育猪)</td><td>a.1./r.</td><td>46.7~122.3</td><td>0</td><td></td></tr><tr><td>肾 Kidney</td><td>脏</td><td>4.42</td><td>35 日龄(妊娠母猪)</td><td>r.(2 kg/d)</td><td>16.2~27.7</td><td>1.8~12.3 0~3.2</td><td>[78] [79]</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/da179f43f33b8112429c82e029d9ce2c49c2990c5334e39a1a4ab76343a0cb84.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "1 a.l.：自由采食 ad libitum；r.：限饲 restrictive。 "
+        ],
+        "table_body": "<html><body><table><tr><td>脂肪Fat</td><td>6.8</td><td>12 周龄(肥育猪)</td><td>a.1./r.</td><td>0~8</td><td>0</td><td>[78]</td></tr><tr><td>脾脏</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>4.42</td><td>35 日龄(妊娠母猪)</td><td>r.(2 kg/d)</td><td>4.7~8.7</td><td>0~4.4</td><td>[79]</td></tr><tr><td>Spleen</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DON 对以谷物为基础的食物和饲料中的污染是一个全球性问题。DON因其不易降解的稳定特性而遍及整个食物链。DON 污染作为饲料和食品安全的重要问题，严重危害了人和动物的健康。DON的吸收、分布、代谢以及在动物源性食品的残留分布等研究可以为人类、畜禽健康风险评估提供理论基础。DON 的毒物动力学研究显示其可以被快速吸收进入血液循环分布至外周各器官，并能穿过BBB。DON吸收进入机体后可以代谢成脱毒产物降低其毒性。DON 与葡萄糖醛酸共轭并通过尿液排出是其主要的代谢途径。尽管 DON 在不同物种的毒物代谢动力学的研究已取得部分进展，但DON的代谢途径及其在临床诊断和畜禽安全风险评估中的应用还有待于深入研究。如DON在反刍动物和单胃动物的代谢途径和代谢产物的物种差异性非常明显，造成这种差异的调节机制目前尚不清楚。与同属单端孢霉烯族类毒素的T2毒素相比，DON的代谢产物鉴定的相对较少。DON 是否还存在其他代谢物也需要进一步研究来揭示。将转录组学、蛋白质组学与代谢组学技术有机结合，建立基于生理学分析为基础的畜禽健康风险评估的临床诊断工具，分析DON的暴露浓度、在动物机体生理标本残留浓度以及对应的临床症状的关联性还面临着巨大的挑战。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] BENNETT J W,KLICH M.Mycotoxins[J].Clinical Microbiology Reviews,2003,16(3):497-516.   \n[2]WU Q H,LOHREY L,CRAMER B,et al.Impact of physicochemical parameters on the decomposition of deoxynivalenol during extrusion cooking of wheat grits[J].Journal of Agricultural and Food Chemistry,2011,59(23):12480-12485.   \n[3]MONTES R,SEGARRA R,CASTILLO M A.Trichothecenes in breakfast cereals from the Spanish retail market[J].Journal of Food Composition and Analysis,2012,27(1):38-44.   \n[4]JAJIC 1,JURIC V,ABRAMOVIC B.First survey of deoxynivalenol occurrence in crops in Serbia[J].Food Control,2008,19(6):545-550.   \n[5] MALACHOVA A,DZUMAN Z,VEPRIKOVA Z,et al.Deoxynivalenol,deoxynivalenol-3-glucoside,and enniatins:the major mycotoxins found in cereal-basedproductsontheczechmarket[J].JournalofAgriculturaland Food Chemistry,2011,59(24):12990-12997.   \n[6]TRAN S T,SMITH T K,GIRGIS G N.A survey of free and conjugated deoxynivalenol in the 2008 corncropin Ontario,Canada[J].JournaloftheScienceofFood and Agriculture,2012,92(1):37-41.   \n[7]TRAN S T,SMITH T K.A survey of free and conjugated deoxynivalenol in the 2009,2010 and 2011 cereal crops in Australia[J].Animal Production Science,2013,53(5):407-412.   \n[8]CUI L,SELVARAJ J N,XING F G,et al.A minor survey of deoxynivalenol in Fusarium infectedwheatfromYangtze-Huaiheriverbasinregion inChina[J].Food Control,2013,30(2):469-473.   \n[9]BENSASSI F,ZAIED C,ABID S,et al.Occurrence of deoxynivalenol in durum wheat in Tunisia[J].Food Control,2010,21(3):281-285.   \n[10]SHEPHARD G S,WESTHUIZEN L V D,KATERERE D R,et al.Preliminary exposure assessment ofdeoxynivalenoland patulin inSouth Africa[J].Mycotoxin Research,2010,26(3):181-185.   \n[11]LOMBAERT G A,PELLAERS P,ROSCOE V,et al.Mycotoxins in infant cereal foods from the Canadian retail market[J].Food Additives & Contaminants,2003,20(5):494-504.   \n[12]BRYDEN W L.Mycotoxins in the food chain:human health implications[J].Asia Pacific Journal of Clinical Nutrition,2007,16:95-101.   \n[13]CHAYTOR A C,HANSEN J A,VAN HEUGTEN E,et al.Occurrence and decontamination of mycotoxins in swine feed[J].Asian-Australasian Journal of Animal Sciences,2011,24(5): 723-738.   \n[14]WU Q H,DOHNAL V,HUANG L L,et al.Metabolic pathways of trichothecenes[J].Drug Metabolism Reviews,2010,42(2):250-267.   \n[15]MEKY F A,TURNER P C,ASHCROFT A E,et al.Development of a urinary biomarker of human exposure to deoxynivalenol[J].Food and Chemical Toxicology,2003,41(2):265-273. [16]WARTH B,SILYOK M,FRUHMANN P,et al.Development and validation of a rapid multi-biomarker liquid chromatography/tandem mass spectrometry method to assess human exposure to mycotoxins[J].Rapid Communications in Mass Spectrometry,2012,26(13):1533-1540. [17]SCHOTHORST R C,VAN EGMOND H P.Report from SCOOP task 3.2.10 \"collction of occurrence data of Fusarium toxins in food and assessment of dietary intake by the population of EU member states\"-Subtask: trichothecenes[J].Toxicology Letters,2004,153(1):133-143. [18]MONBALIU S,VAN POUCKE C,DETAVEMIER C L,et al.Occurrence of mycotoxins in feed as analyzed by a multi-mycotoxin LC-MS/MS method[J].Journal of Agricultural and Food Chemistry,2010,58(1):66-71.   \n[19]SCHENZEL J,HUNGERBUHLER K,BUCHELI T D.Mycotoxins in the environment: I.Occurrenceandorigininswissriverwaters[J].EnvironmentalScience & Technology,2012,46(24):13076-13084.   \n[20]BRYDEN W L.Mycotoxin contamination of the feed supply chain: implications for animal productivity and feed security[J].Animal Feed Science and Technology,2012,173(1/2):134-158. [21]CUNDLIFFE E,CANNON M,DAVIES J.Mechanism of inhibition of eukaryotic protein synthesis by trichothecene fungal toxins[J].Proceedings of the National Academy of Sciences of the United States of America,1974,71(1):30-34.   \n[22]BIN-UMER M A,MCLAUGHLIN J E,BASU D,et al.Trichothecene mycotoxins inhibit ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "mitochondrial uanslauon-mpucauon for uie ecnamsm of toxicity[J].Toxins,2011,3(12):1484-1501. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[23]PESTKA J J,ZHOU H R,MOON Y,et al.Cellular and molecular mechanisms for immune modulation by deoxynivalenol and other trichothecenes:unraveling a paradox[J].Toxicology Letters,2004,153(1):61-73.   \n[24]PESTKAJ J,ISLAM Z,AMUZIE C J.Immunochemical assessment of deoxynivalenol tissue distribution following oral exposure in the mouse[J].Toxicology Letters,2008,178(2):83-87. [25]PESTKA J J.Deoxynivalenol:mechanisms of action,human exposure,and toxicological relevance[J].Archives of Toxicology,2010,84(9):663-679.   \n[26]PESTKA J J.Deoxynivalenol-induced proinflammatory gene expression: mechanisms and pathological sequelae[J].Toxins,2010,2(6):1300-1317.   \n[27]SUNDSTOL ERIKSEN G,PETTERSSON H,LUNDH T.Comparative cytotoxicity of deoxynivalenol,nivalenol,their acetylated derivativesand de-epoxy metabolites[J].Food and Chemical Toxicology,2004,42(4):619-624.   \n[28]DANICKE S,GOYARTS T,DOLL S,et al.Effects of the Fusarium toxin deoxynivalenol on tissue protein synthesis in pigs[J].Toxicology Lettrs,2006,165(3):297-311.   \n[29] BARNETT A M,ROY N C,McNABB W C,et al.The interactions between endogenous bacteria, dietary componentsand the mucuslayer ofthe large bowel[J].Food& Function,2012,3(7):690-699.   \n[30]SMITH H W.Observations on the flora of the alimentary tract of animals and factors affecting its composition[J].Journal of Pathology and Bacteriology,1965,89(1):95-122.   \n[31]PRELUSKY D B,VEIRA D M,TREMHOLM H L.Plasma pharmacokinetics of the mycotoxin deoxynivalenol following oral and intravenous administration to sheep[J].Journal of Environmental Science and Health,Part B:Pesticides,Food Contaminants and Agricultural Wastes,1985,20(6):603-624.   \n[32]OSSELAERE A,DEVREESE M,GOOSSENS J,et al.Toxicokinetic study and absolute oral bioavailability of deoxynivalenol,T-2 toxin and zearalenone in broiler chickens[J].Food and Chemical Toxicology,2013,51:350-355.   \n[33]ROHWEDER D,KERSTEN S,VALENTA H,et al.Bioavailability of the Fusarium toxin deoxynivalenol (DON） from wheat strawand chaff inpigs[J].Archivesof Animal Nutrition,2013,67(1):37-47.   \n[34]PRELUSKY D B,TRENHOLM H L,LAWRENCE G A,et al.Nontransmission of deoxynivalenol (vomitoxin） to milk following oral administration to dairy cows[J].Journal of Environmental Scienceand Health,PartB:Pesticides,Food Contaminantsand Agricultural Wastes,1984,19(7):593-609.   \n[35]FREY JC.PELL A N,BERTHIAUME R,et al.Comparative studies of microbial populations inthe rumen,duodenum,ileum and faeces of lactating dairy cows[J].Journal of Applied Microbiology,2010,108(6):1982-1993. [36]FARNER D S.The hydrogen ion concentration in avian digestive tracts[J].Poultry Science,1942,21:445-450.   \n[37] AO T,CANTOR A H,PESCATORE A J,et al.In vitro evaluation of feed-grade enzyme activity at pH levels simulating various parts of the avian digestive tract[J].Animal Feed Science and Technology,2008,140(3/4):462-468.   \n[38]ROTTER B A,PRELUSKY D B,PESTKA J J.Toxicology of deoxynivalenol (vomitoxin)[J].Journal of Toxicology and Environmental Health,1996,48(1):1-34.   \n[39]ERIKSEN G S,PETTERSSON H,JOHNSEN K,et al.Transformation of trichothecenes in ileal digesta and faeces from pigs[J].Archives of Animal Nutrition,2002, 56(4):263-274.   \n[40]DANICKE S,VALENTA H,DOLL S.On the toxicokinetics and the metabolism of deoxynivalenol (DON) in the pig[J].Archives of Animal Nutrition,2004,58(2):169-180.   \n[41]PRELUSKY D B,HARTIN K E,TRENHOLM H L.et al.Pharmacokinetic fate of 14C-labeled deoxynivalenol in swine[J].Fundamental and Applied Toxicology,1988,10(2):276-286.   \n[42]AWAD W A,ASCHENBACH JR,SETYABUDI F M,et al.In vitro effects of deoxynivalenol on small intestinal $D$ -glucose uptake and absorption of deoxynivalenol across the isolated jejunal epithelium of laying hens[J].Poultry Science,2007,86(1):15-20.   \n[43]SERGENT T,PARYS M,GARSOU S,et al.Deoxynivalenol transport across human intestinal Caco-2 cellsand itseffectson celllarmetabolism at realisticintestinal concentrations[J].Toxicology Letters,2006,164(2):167-176.   \n[44]MARESCA M,FANTINI J.Some food-associated mycotoxins as potential risk factors in humans predisposed to chronic intestinal inflammatory diseases[J].Toxicon,2010,56(3):282-294. [45]SCHULZKE J D,GUENZEL D,JOHN L J,et al.Perspectives on tight junction research[J].Annals of the New York Academy of Sciences,2012,1257:1-19.   \n[46]TAKAHASHI A,KONDOH M,SUZUKI H,et al.Pathological changes in tight junctions and potential applications into therapies[J].Drug Discovery Today,2012,17(13/14):727-732.   \n[47]GOYARTS T,DANICKE S.Bioavailability of the Fusarium toxin deoxynivalenol (DON) from naturally contaminated wheat for the pig[J].Toxicology Letters,2006,163(3):171-182. [48]DIESING A K,NOSSOL C,DANICKE S,et al.Vulnerability of polarised intestinal porcine epithelial cels to mycotoxin deoxynivalenol depends on the route of application[J].PLoS One,2011,6(2):e17472.   \n[49]PINTON P,BRAICU C,NOUGAYREDE JP,et al.Deoxynivalenol impairs porcine intestinal barrier function and decreases the protein expression of claudin-4 through a mitogen-activated protein kinase-dependent mechanism[J].Journal of Nutrition,2010,140(11):1956-1962.   \n[50]DIESING A K,NOSSOL C,PANTHER P,et al.Mycotoxin deoxynivalenol (DON) mediates biphasiccelllarresponseinintestinalporcineepithelial cell linesIPEC-1and IPEC-J2[J].Toxicology Letters,2011,200(1/2):8-18.   \n[51]YNUNS A W,BLAJET-KOSICKA A,KOSICKI R,et al.Deoxynivalenol as a contaminant of broilerfeed:intestinal development，absorptive functionality， andmetabolism ofthe mycotoxin[J].Poultry Science,2012,91(4):852-861.   \n[52]OSSELAERE A,DEVEREESE M,WATTEYN A,et al.Efficacy and safety testing of mycotoxin-detoxifying agents in broilers following the European Food Safety Authority guidelines[J].Poultry Science,2012,91(8):2046-2054.   \n[53]PRELUSKY D B,HARTIN K E,TRENHOLM H L.Distribution of deoxynivalenol in cerebral spinal fluid following administration to swine and sheep[J].Journal of Environmental Science and Health,Part B:Pesticides,FoodContaminants，and Agricultural Wastes,1990,25(3):395-413.   \n[54]VIDEMANN B,TEP J,CAVERT S,et al.Epithelial transport of deoxynivalenol:involvement of human P-glycoprotein (ABCB1） and multidrug resistance-associated protein 2 (ABCC2)[J]. Food and Chemical Toxicology,2007,45(10):1938-1947.   \n[55]DANICKE S,BREZINA U.Kinetics and metabolism of the Fusarium toxin deoxynivalenol in farm animals: consequences for diagnosis of exposure and intoxication and carry over[J].Food and Chemical Toxicology,2013,60:58-75.   \n[56]DANICKE S,BROSIG B,KAHLERT S,et al.The plasma clearance of the Fusarium toxin deoxynivalenol (DON) is decreased in endotoxemic pigs[J].Food and Chemical Toxicology,2012, 50(12):4405-4411.   \n[57]GOYARTS T,BRUSSOW K P,VALENTA H,et al.On the effects of the Fusarium toxin deoxynivalenol (DON) administered per os or intraperitoneal infusion to sows during days 63 to 70 of gestation[J].Mycotoxin Research,2010,26(2):119-131.   \n[58]WU Q H,WANG X,YANG W,et al.Oxidative stress-mediated cytotoxicity and metabolism ofT-2 toxin and deoxynivalenol in animalsand humans:an update[J].Archivesof Toxicology,2014,88(7):1309-1326.   \n[59]YOSHIZAWA T,TAKEDA H,OHI T.Structure of a novel metabolite from deoxynivalenol, a trichothecene mycotoxin,in animals[J].Agricultural and Biological Chemistry,1983,47(9):2133-2135.   \n[60]WORRELL N R,MALLETT A K,COOK W M,et al.The role of gut micro-organisms in the metabolism of deoxynivalenol administered to rats[J].Xenobiotica,1989,19(1):25-32.   \n[61]SWANSON S P,NICOLETTI J,ROOD H D,Jr,et al.Metabolism of three trichothecene ycotoxins,T-2 toxin,diacetoxyscirpenolanddeoxynivalenol,by bovne rumen microorganisms[J].JournalofChromatography B:Biomedical Sciences and Applications,1987,414:335-342.   \n[62]HEDMAN R,PETTERSSON H.Transformation of nivalenol bygastrointestinal microbes[J].Archives of Animal Nutrition,1997,50(4):321-329.   \n[63]SEELING K,DANICKE S,VALENTAET H,et al.Effects of Fusarium toxin-contaminated wheat and feed intake level on the biotransformation and carry-over of deoxynivalenol in dairy cows[J].Food Additives and Contaminants, 2006,23(10):1008-1020. [64]GRATZ S W,DUNCAN G,RICHARDSON A J.The human fecal microbiota metabolizes deoxynivalenol and deoxynivalenol-3-glucosideand mayberesponsible forurinary deepoxy-deoxynivalenol[J].Applied and Environmental Microbiology,2013,79(6):1821-1825. [65]ITO M,SATO I,ISHIZAKA M,et al.Bacterial cytochrome P450 system catabolizing the Fusarium toxin deoxynivalenol[J].Applied and Environmental Microbiol0gy,2013,79(5):1619-1628.   \n[66]WU X,MURPHY P,CUNNICK J,et al.Synthesis and characterization of deoxynivalenol glucuronide: itscomparative immunotoxicity with deoxynivalenol[J].Food and Chemical Toxicology,2007,45(10):1846-1855.   \n[67] TUKEY R H,STRASSBURG C P.Human UDP-glucuronosyltransferases:metabolism,expression,anddisease[J].Annual Review of Pharmacology and Toxicology,2000,40:581-616.   \n[68]MAUL R,WARTH B,KANT J S,et al.Investigation of the hepatic glucuronidation pattern of the Fusarium mycotoxin deoxynivalenol in various species[J].Chemical Research in Toxicology, 2012,25(12):2715-2717.   \n[69]UHLIG S,IVANOVA L,FAESTE C K.Enzyme-assisted synthesisand structural characterization of the 3-,8-,and 15-glucuronides of deoxynivalenol[J].Journal of Agricultural and Food Chemistry,2013,61(8):2006-2012.   \n[70]YOUNG JC,TRENHOLM H L,FRIEND D W,et al.Detoxification of deoxynivalenol with sodium bisulfite and evaluation of the effects when pure mycotoxin or contaminated corn was treated and given to pigs[J].Journal of Agricultural and Food Chemistry,1987,35(2):259-261. [71]DANICKE S,HEGEWALD A K,KAHLERT S,et al.Studies on the toxicityof deoxynivalenol (DON),sodium metabisulfite,DON-sulfonate (DONS） and de-epoxy-DON for porcine peripheral blood mononuclear cels and the Intestinal Porcine Epithelial Cellines IPEC-1 and IPEC-J2,and on effectsof DON and DONS on piglets[J].Food and Chemical Toxicology,2010,48(8/9):2154-2162.   \n[72]WAN D,HUANG L L,PAN Y H,et al.Metabolism， distribution，and excretion of deoxynivalenolwithcombinedtechniquesofradiotracing， high-performanceliquid chromatographyiontraptime-of-flightmassspectrometry,andonlineradiometric detection[J].Journal of Agricultural and Food Chemistry,2014,62(1):288-96.   \n[73]SALIM R.Effect of adsorption on calibration graphs obtained for lead,cadmium and copper in natural water samples[J].Journal of Environmental Science and Health,Part A:Environmental Science and Engineering,1987,22(2):125-139.   \n[74]TURNER PC,HOPTON R P,WHITE K L M,et al.Assessment of deoxynivalenol metabolite profiles in UK adults[J].Food and Chemical Toxicology,2011,49(1):132-135.   \n[75]WARTH B,SULYOK M,FRUHMANN P,et al.Assessment of human deoxynivalenol exposure using an LC-MS/MS based biomarker method[J].Toxicology Lettrs,2012,211(1):85-90. [76]LI Y Q,WANG H,JIA B X,et al.Study of the interaction of deoxynivalenol with human serum albumin by spectroscopic technique and molecular modelling[J].Food Additives and Contaminants,Part A:Chemistry Analysis Control Exposure & Risk Assessment,2013,30(2):356-364.   \n[77] VALENTA H,DANICKE S.Study on thetransmission ofdeoxynivalenoland de-epoxy-deoxynivalenol into eggsof layinghensusing a high-performanceliquid chromatography-ultraviolet method with clean-up by immunoaffinity columns[J].Molecular Nutrition & Food Research,2005,49(8):779-785.   \n[78] GOYARTS T,DANICKE S,VALENTA H,et al.Carry-over of Fusarium toxins (deoxynivalenol and zearalenone) from naturally contaminated wheat to pigs[J].Food Additives & Contaminants,2007,24(4):369-380.   \n[79]GOYARTS T,DANICKE S,BRUSSOW K P,et al.On the transfer of the Fusarium toxins deoxynivalenol (DON) and zearalenone (ZON) from sows to their fetuses during days 35-70 of gestation[J].Toxicology Letters,2007,171(1/2):38-49. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Metabolic Characteristics of Deoxynivalenol ZHANG ZhiqiWANG RuiguoZHANG WeiWANG PeilongSU Xiaoou\\* (Institute of Quality Standards and Testing Technology for Agricultural Products, Chniese Academy of Agricultural Science, Key Laboratory of Agrifood Safety and Quality,Ministry of Agriculture,Beijing 10081, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Deoxynivalenol (DON) contamination of food and feed which based on grain is a global problem,and it causes serious damage to humans and animals health.Metabolic characteristics of DON in humans and animals are the foundation of the DON exposure assessment, toxicology mechanism and intervention technique research.In recent years,the absorption，distribution, metabolism and excretion of DON have caused wide public concern. This paper reviews the latest research progress of the metabolic characteristics of DON.   \nKey words: deoxynivalenol; toxicokinetics; metabolism ",
+        "page_idx": 13
+    }
+]

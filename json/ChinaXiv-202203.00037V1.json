@@ -1,0 +1,616 @@
+[
+    {
+        "type": "text",
+        "text": "Integrating multiple electromagnetic data to map spatiotemporal variability of soil salinity in Kairouan region, Central Tunisia ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Besma ZARAI1.2\\*, Christian WALTER³, Didier MICHOT³, Jean P MONTORO14, MohamedHACHICHA' ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 UniversityofCarthage,National Research Institute of Rural Enginering, Water and Forestry LR16INRGREF02, Non-Conventional Water Valorization,Ariana 2O8o,Tunisia;   \n² National Institute of Agronomy Tunis,University of Carthage,Nicolle 1O82,Tunisia;   \n3 SAS,Mixed Research Unit SoilAgroand Hydrosystem Spatialization,INRAE,National Research Institute for Agriculture, Food and the Environment,Rennes 35ooo,France;   \n4 Bondy Research and Development Institute,Bondy 93140,France ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Soil salinization is a major problem affecting soils and threatening agricultural sustainability in arid and semi-arid regions, which makes it necessary to establish an eficient strategy to manage soil salinity and confront economic challenges that arise from it. Saline soil recovery involving drainage of shallow saline groundwater and the removal of soil salts by natural rainfallor by irrigation are good strategies for the reclamation of salty soil. To develop suitable management strategies for salty soil reclamation, it is essential to improve soil salinity assessment process/mechanism and to adopt new approaches and techniques.This study mapped a recovered area of $7 2 0 0 { \\mathrm { m } } ^ { 2 }$ to assess and verify variations in soil salinity in space and time in Kairouan region in Central Tunisia,taking into account the thickness of soil materials. Two electromagnetic conductivity meters (EM38 and EM31） were used to measure the electrical conductivity of saturated soil-paste extract (ECe) and apparent electrical conductivity (ECa). Multiple linear regression was established between ECe and ECa,and it was revealed that ECa-EM3s is optimal for ECe prediction in the surface soils. Salinity maps demonstrated that the spatial structure of soil salinity in the region of interest was relatively unchanged but varied temporaly. Variation in salinity at the soil surface was greater than that at a depth.These findings can not only be used to track soil salinity variations and their significance in thefield but also help to identifythe spatial and temporal features of soil salinity,thus improving the efficiency of soil management. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: electrical conductivity;soil salinity;saturated paste extract; apparentelectrical conductivity; multiple linear regression; Tunisia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:Besma ZARAI,Christian WALTER,Didier MICHOT,JeanP MONTOROI,Mohamed HACHICHA.2022. Integrating multiple electromagneticdatatomap spatiotemporal variabilityof soil salinity in Kairouan region,Central Tunisia.Journal of Arid Land,14(2):186-202.https://doi.org/10.1007/s40333-022-0052-6 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Soil salinization is one of the major reasons for agricultural land degradation, especially in arid and semi-arid regions (Marlet， 2OO4). In arid and semi-arid regions across the world, irrigation-dependent agriculture is a threat to the environment as it can cause soil degradation by salinization or sodization (Huang et al.， 2O15). Pitman and Läuchli (2OO4） reported soil salinization to be widespread in irrigated agriculture, particularly in Asia and Africa,where a heavily affected country is Tunisia. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Tunisia, salinization of agricultural land constitutes a major problem as the area aected by salinization covers approximately $1 . 5 { \\times } 1 0 ^ { 6 } ~ \\mathrm { h m } ^ { 2 }$ ，which is about $10 \\%$ of the total area of the country. The afected area is located mainly in the center and south of Tunisia. Soil salinity maps can aid in better evaluation and monitoring of the extent of salt accumulation in any given area, and highlight regions requiring reclamation. To address land degradation caused by salinization, there have been attempts to restore and develop several thousand hectares of saline and hydromorphic soils (Hachicha, 2007). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To study salt-affected soils, researchers have developed several approaches and techniques to measure the spatial and temporal variability in the salinity of soils and the natural and anthropogenic factors of dependence associated with them (Corwin and Lesch,2Oo3; Hachicha, 2007). Since the early 195Os,the United States Salinity Laboratory Staff(USSL) has standardized salinity assessment and its interpretation. Originally, electrical conductivity (EC) was used to determine electrical conductivity of saturated soil-paste extract (ECe) or other aqueous extracts of soils.However, these methods have proved insuficient. Furthermore, they are expensive,require time and effort,and can only be performed on a limited number of samples,which limit their usefulness for the spatial and temporal monitoring of soil salinity (Corwin and Lesch,2003). Alternative measurement methods have been developed since the 196Os,one of which is the measurement of apparent electrical conductivity (ECa). ECa instruments have been widely used to map the spatial distribution of soil salinity in Canada and Australia (Thomas et al.,2009). These instruments have been increasingly used in the agricultural development of countries, such as Senegal (Job et al.,1995; Barbiero et al.,2OO1),Morocco,Spain, Tunisia,Turkey (Aragués et al.,2011),Niger (Adam et al.,2012),and Algeria (Berkal et al.,2014). Tools to measure ECa are used to not only map the spatial distribution of salinity (Corwin and Lesch，2Oo3） but also characterize soil salinity at multiple depths (Paz et al.,2O2O; Sousa et al. 2O21;Wang et al., 2021).There are many commonly used instruments. The best known are the EM31 (EM, electromagnetic conductivity meter), EM34, and EM38 marketed by Geonics Ltd. (Mississauga, Canada),DUALEM-1 (Dualem Inc., Milton),and DUALEM-2 (Dualem Inc., Milton). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In salt-affected soils,salt dominates the response of the EM and, generally, there is a good correlation between ECa and ECe (Rhoades et al.,1989; Amakor et al.,2014; Cassel et al.,2015). Relative values obtained from ECa measurements can be calibrated against known EC values in the soil solution and EC measurements in the laboratory (Rhoades et al.,1989; Bellier et al.,1997). This calibration may lead to biases due to in situ sampling and differences in water content and texture of the soil volume used (Johnson et al.，2Oo5). To characterize the spatial and temporal variability in soil properties (mainly salinity)，researchers developed a geophysical method combining geostatistics and point measurements of EM induction (Gascuel-Odoux and Boivin, 1994; Job et al.,1995; Hendrickx et al.,2002; Michot et al.,2003; Wang et al.,2021) that allows quick,non-destructive,and precise estimations of salinity at different depths (Triantafilis et al., 2001a; Padhi and Misra,2O11). Numerous studies on soil salinity have shown that spatial estimates based on single-point measurements of EC have limited accuracy (Hajrasuliha et al.,1991; Hosseini et al.，1994; Odeh et al.,1998；Walter et al.,2001; Douaoui et al.,2006) due to soil sampling may not be adapted to account for small-scale soil salinity changes as well as non-stationary salinization processes. Technical capabilities to study soil salinity have now been expanded, by remote sensing, geographic information system (GIS) using geostatistical methods, digital soil mapping approaches, simulations conducted by modeling software,and many other modern instrumental methods are available for assessment and mapping of soil salinity. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most widely used approach is the establishment of linear regression calibrations,which can predict the average ECe at different depths (e.g., $\\mathrm { < } 1 . 2 ~ \\mathrm { m } )$ ）and ECa (Amezketa and de Lersundi, ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2008).However, this approach leads to information loss regarding salt content at specific depths as EM readings were performed in two modes,i.e.,two investigation depths, depending on the devices used (EM38 or EM31).Williams and Baker (1982) highlighted EM that can access data on salinity from greater depths,and thus beter delineate areas that may become saline upon salt mobilization by increased groundwater levels and land-use changes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Many soil salinity studies have explored the regional distribution of saline soils and the characteristics of salinization，yet few data are available on vertical EC distribution and the transfer of salt to deeper soil layers.In semi-arid regions,saline soil is remediated by water ponding or irrigation, which improves soil fertility (Provin and Pitt, 2OO1); natural desalinization may occur due to the occasional intensive rainfall that transfers large amounts of salts to deeper soil layers,increasing the salinity of groundwater (Trabelsi et al.，2Oo5).It is thus crucial to include deep soil layers in the assessment of soil salinity. Therefore,our study aimed to couple two EM devices,EM31 and EM38,to monitor and describe the spatial and temporal variations of soil salinity in deeper soil layers using multiple linear regression (MLR） models on a study site that was being used as an orchard with irrigated cultivation of pomegranates plants in Kairouan region, Central Tunisia. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The study area $( 3 5 ^ { \\circ } 4 8 ^ { \\prime } 3 3 ^ { \\prime \\prime } \\mathrm { N }$ ， $1 0 ^ { \\circ } 0 2 ^ { \\prime } 3 5 ^ { \\prime \\prime } \\mathrm { E }$ ）islocatedabout $1 5 . 0 \\mathrm { k m }$ north of the city of Kairouan in Central Tunisia. It is approximately $4 . 5 \\ \\mathrm { k m }$ long and $1 . 0 \\mathrm { k m }$ wide and covers an area of about $4 5 0 \\ \\mathrm { \\ h m } ^ { 2 }$ .It is geographically located in the alluvial plain of Bas Sisseb-El Alem and administratively situated in the Governorate of Kairouan and the Delegation Sbikha. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The region of interest (represented by the transect in Fig. la) comprises the alluvial plains of Sisseb-El Alem that are characterized by contrasting morphology of the borders of the plain, where the wind and water erosion processes predominate,and eroded material from the plain accumulates in particle size (Safar,1983).The soils are generally stratified,and the aluvial clay at the surface is mostly dominated by montmorillonite mixed with kaolinite, ilite,and traces of quartz (Safar,1983). This is an upper arid climatic zone that is strongly influenced by winds coming from the Mediterranean Sea. The average annual precipitation is about $2 5 0 . 0 \\ \\mathrm { m m }$ ，with $1 2 0 . 0 \\ \\mathrm { m m }$ falling in autumn, $4 0 . 0 \\ \\mathrm { m m }$ in winter, and $6 3 . 0 \\mathrm { m m }$ in spring. The annual mean temperature is $1 7 . 9 ^ { \\circ } \\mathrm { C } _ { \\cdot }$ with a maximum monthly mean of $3 7 . 8 ^ { \\circ } \\mathrm { C }$ in July and a minimum monthly mean of $1 0 . 6 ^ { \\circ } \\mathrm { C }$ in January. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/51a70dcbd7dbb508f4eca056dba10404fa54f5b4d41fcc9e9060ba4bc30281e5.jpg",
+        "img_caption": [
+            "Fig.1An aerial view of the study area (a) and location of soil sampling profiles (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The second region of interest (prospected site in Fig.1b),is about $9 0 . 0 \\mathrm { m }$ long and $8 0 . 0 \\mathrm { m }$ wide （204号 $( 7 2 0 0 ~ \\mathrm { m } ^ { 2 } )$ and is located at $3 5 ^ { \\circ } 4 8 ^ { \\prime } 3 2 ^ { \\prime \\prime } \\mathrm { N }$ and $1 0 ^ { \\circ } 0 2 ^ { \\prime } 3 5 ^ { \\prime \\prime } \\mathrm { E }$ . The region is cultivated with 3-year-old pomegranate plants in 2O rows with an inter-row distance of $4 \\mathrm { m }$ and a space of $2 \\mathrm { m }$ between each plant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Data collection, sampling and analysis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The EM31 and EM38 use EM technology to measure ECa in soils without planting electrodes. They consist of two coils,a transmitter,and a receiver coil that are spaced $3 . 7 \\mathrm { ~ m ~ }$ apart in EM31 and $1 . 0 \\mathrm { ~ m ~ }$ apart in EM38. The device can be used in two vertical dipole modes in fact the theoretical survey reaches $1 . 2 \\mathrm { ~ m ~ }$ by EM38 and $6 . 0 \\mathrm { ~ m ~ }$ by EM31 and also two horizontal dipole modes whose theoretical survey of order $0 . 8 \\mathrm { ~ m ~ }$ for the EM38 and $3 . 0 \\mathrm { ~ m ~ }$ for the EM31.Three campaigns to colect ECa measurements were carried out in spring (April） 2O15,autumn (October) 2015,and autumn (October) 2016 using both meters.ECa values were then collected from the spacing between 2O rows of pomegranates,where measurements were made so that a single measurement of four plants could be obtained. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A transect (section) leads from the entrance of the study area to the west toward the river bed of Oued Bogal, which is present about $4 . 5 \\mathrm { k m }$ to the east of the study area. Calibration profiles were selected randomly. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Each sampling region or transect consisted of 218 single values collected as follows. During each geophysical measurement，23 sites (profiles） were sampled with the EM38:15 sites (profiles) were sampled from prospected site to analyze the spatial variability in salinity within the plot and eight sites were sampled along the $4 . 5 \\mathrm { k m }$ transect to measure regional variability in soil salinity. EM31 measurements were collected at six sites: three sites were within prospected site and three sites were located along the transect (Fig. 1). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At each EM38 measurement site, soil samples spanned in the range of $0 . 2 \\mathrm { - } 1 . 2 \\ \\mathrm { m }$ from the top. At the EM31 measurement sites, soil samples spanned in the range of 0.2 to $6 . 0 \\mathrm { ~ m ~ }$ from the top. For each sample， gravimetric water content (GWC) and ECe were measured as described previously by Rhoades et al. (1989). The average ECe for EM38 measurement sites was calculated for two soil layers: $0 . 0 { - } 0 . 6 \\mathrm { ~ m ~ }$ (surface soil layer) and $0 . 6 { - } 1 . 2 \\mathrm { m }$ (subsurface soil layer). The EM31 measurement sites were divided into four layers: $0 . 0 { - } 0 . 6 \\mathrm { ~ m ~ }$ (surface soil layer), $0 . 6 { - } 1 . 2 ~ \\mathrm { m }$ (subsurface soil layer), $1 . 2 \\mathrm { - } 3 . 0 \\ \\mathrm { m }$ (intermediate deep soil layer),and $3 . 0 { - } 6 . 0 \\ \\mathrm { m }$ (deep soil layer). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Four ECa measurements were recorded. Specifically, two measurements were recorded with the EM38,where the first was in the horizontal dipole mode (ECa-EM38H),i.e., measured with the EM38 coils positioned vertically for an investigation depth of $0 . 8 \\mathrm { { m } }$ and the second in the vertical dipole mode (ECa-EM38v),i.e., with the coils positioned horizontally for an investigation depth of $1 . 2 \\mathrm { ~ m ~ }$ (McNeill,1980). The other two measurements were recorded using an EM31 in vertical (ECa-EM31v) and horizontal (ECa-EM31H) dipole modes for penetration depths of approximately 6.0 and $3 . 0 \\mathrm { ~ m ~ }$ ,respectively (McNeill,198O),with the instrument held $1 . 0 \\mathrm { ~ m ~ }$ above the soil surface. The EM31 had an inter-coil spacing of $3 . 7 \\mathrm { ~ m ~ }$ and was operated at a frequency of $6 . 4 \\mathrm { \\ k H z }$ Each $\\mathtt { E C a - } _ { \\mathtt { E M } }$ (apparent electrical conductivity measured by the EM $\\mathrm { { ( d S / m ) } }$ ）measurement location was georeferenced using the $4 6 0 0 \\ \\mathrm { L S ^ { T M } }$ GPS (with differential correction), which is manufactured by the Trimble Italia Srl, Italy. The GPS receiver had a horizontal precision of $> 2 . 0 \\mathrm { m }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To compare ECa data (maps） obtained on different dates from soils of varying wetness, ECa-EMv(apparent EC measured in vertical dipole orientation $\\mathrm { { ( d S / m ) } }$ and $\\mathrm { E C a - _ { E M H } }$ (apparent EC measured in horizontal dipole orientation $\\mathrm { { ( d S / m ) } }$ ） values measured with both tools (EM38 and EM31） were adjusted to the GWC of $20 . 0 0 \\%$ using the equations of Job et al.(1995) established specifically for Tunisian saline silty clay soils: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E C a } _ { \\mathrm { - } \\mathrm { E M H } ( 2 0 \\% ) } = \\mathrm { E C a } _ { \\mathrm { - } \\mathrm { E M H } ( \\theta _ { t } ) } + 7 . 7 \\times ( 2 0 - \\theta _ { t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E C a } _ { \\mathrm { - } \\mathrm { E M V } ( 2 0 \\% ) } = \\mathrm { E C a } _ { \\mathrm { - } \\mathrm { E M V } ( \\theta _ { t } ) } + 7 . 7 \\times ( 2 0 - \\theta _ { t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E C a - _ { E M H } } ( 2 0 \\% )$ $\\mathrm { { ( d S / m ) } }$ and $\\mathrm { E C a - _ { E M V ( 2 0 \\% ) } }$ （20 $\\mathrm { { ( d S / m ) } }$ are the values of $\\mathrm { E C a - _ { E M H } }$ and $\\mathrm { E C a - _ { E M V } }$ corrected at a GWC of $2 0 . 0 0 \\%$ ,respectively; $\\theta _ { t } \\ ( \\% )$ is the GWC; and $\\mathrm { E C a - _ { E M H } } ( \\theta _ { t } )$ （ $\\mathrm { ( d S / m ) }$ and ECa-EMV(0) $\\mathrm { { ( d S / m ) } }$ are the values of ECa-EMH and ECa-EMv measured at a GWC of $\\theta _ { t }$ respectively. These equations can be used to standardize $\\mathtt { E C a - _ { E M } }$ values measured at GWC from $8 \\%$ to $2 9 \\%$ (Job et al., 1995). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3 Soil salinity mapping ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The extrapolation of salinity values to different depths from the measured sites was carred out with statistical models using the EM38 and EM31 datasets. The averages of ECe were calculated for the soil layers mentioned before. The objective of this mapping was to estimate the average ECe for all non-sampled sites $( s _ { 0 } )$ in the study area. The procedure was divided into three steps. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First, for each calibration,we constructed an MLR model to predict the average ECe for the different soil layers according to the method of Rhoades and Corwin (1981): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\mathrm { E C e } } } = \\mathbf { a } \\times \\mathrm { E C a } _ { \\cdot _ { \\mathrm { E M V } } } + \\mathbf { b } \\times \\mathrm { E C a } _ { \\cdot _ { \\mathrm { E M H } } } + \\mathbf { c } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\overline { { \\mathrm { E C e } } }$ $\\mathrm { { ( d S / m ) } }$ is the average EC of saturated soil-paste extract for the soil layer being considered; ECa-EMV $\\mathrm { { ( d S / m ) } }$ is the apparent EC measured in vertical dipole orientation; ECa-EMH （204号 $\\mathrm { { ( d S / m ) } }$ is the apparent EC measured in horizontal dipole orientation;and a,b,and c are the coefficients of the linear equation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Second,the MLR models from the first step were applied to predict the average ECe for different soil layers. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Third,Ordinary Kriging method was applied using the Geostatistical Analyst module of ArcGIS 10.5 software (ESRI, 2O1O) to estimate ECe at all four depths: ( $( 0 . 0 { - } 0 . 6 \\ \\mathrm { m }$ (surface soil layer), $0 . 6 { - } 1 . 2 ~ \\mathrm { m }$ (subsurface soil layer), $1 . 2 \\mathrm { - } 3 . 0 \\ \\mathrm { m }$ (intermediate deep soil layer),and $3 . 0 { - } 6 . 0 \\ \\mathrm { m }$ (deep soil layer)) using $\\scriptstyle p = 2 1 8$ (where $p$ is the number for measurements） predictions of ECe\\*MLR (electrical conductivity predicted by the MLR) from the second step. $\\overline { { \\mathrm { E C e } ^ { * } } } ( s _ { 0 } , h _ { j } )$ was estimated using Equation 4(Webster and Oliver, 1992): ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\overline { { \\mathrm { E C e } ^ { \\ast } } } ( s _ { 0 } , h _ { j } ) = \\sum _ { i = 1 } ^ { p } \\lambda _ { i } \\overline { { \\mathrm { E C e } ^ { \\ast } } } _ { \\mathrm { ~ M L R } } ( s _ { j } , h _ { j } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\lambda _ { i }$ is the weight of the MLR estimate at the $i ^ { \\mathrm { t h } }$ site for $i { = } 1$ to $p$ : neighbors considered in the Ordinary Kriging procedure/process； and $( s _ { j } , \\ h _ { j } )$ is the position of ECe measured.For cross-validation,estimates of $\\overline { { { \\mathrm { E C e } } ^ { * } } }$ were compared to the measured average ECe values for each soil layer and at $n$ ECe sampling sites by calculating the mean average error (MAE) and root-mean-square error (RMSE) (Oliver and Webster, 2014). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The one-dimensional inversion program， UMR METIS (the METIS Joint Research Unit: Environments,Transfers and Interactions in Hydrosystems and Soils)，was applied to the large mesh $( 5 . 0 \\mathrm { m } )$ EM data acquired in the site using iterative least-squares inversion method (Guerin et al.,1996). Four different datasets were used for each date corresponding to ECa-EM38H at $0 . 6 \\mathrm { ~ m ~ }$ ECa-EM38v at $1 . 2 \\mathrm { ~ m ~ }$ ,ECa-EM31H at $4 . 0 \\ \\mathrm { m }$ ，and ECa-EM31v at $6 . 0 \\mathrm { ~ m ~ }$ 、All methods were tested on 218 monitoring sites at $0 . 3 \\mathrm { ~ m ~ }$ elevation，and data were acquired continuously for two successive surveys. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4Mapping of ECa changes over time ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the stability of ECa-EM over time,we calculated the coefficient of variation (CV） of measured ECa at each geophysical measurement. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to Blackmore (2O00), the CV has helped to assess the temporal stability of crop yields (Shi et al.， 2O05),evaluate the changes in soil's chemical and physical properties in grasslands (Guo et al.,2O15),and examine the variations in soil salinity over time in China. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The CVs were calculated using EM38 and EM31 datasets measured in both vertical and ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "horizontal modes. The CV of ECa was calculated using Equation 5. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { C V } _ { i } = \\frac { \\sqrt { n \\displaystyle \\sum _ { t = 1 } ^ { n } \\left( \\mathbf { E C a } _ { i } ^ { t } \\right) ^ { 2 } - \\left( \\displaystyle \\sum _ { t = 1 } ^ { n } \\mathbf { E C a } _ { i } ^ { t } \\right) ^ { 2 } } } { n \\times n \\left( \\overline { { n - 1 } } \\right) }  { \\displaystyle \\underbrace { \\left( \\displaystyle \\sum _ { t = 1 } ^ { n } \\mathbf { E C a } _ { i } ^ { t } \\right) ^ { 2 } } _ { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { C V } _ { i }$ is the CV at site $i$ and $n$ is the number of ECa measurements. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Maps of the CV of ECa were drawn by Ordinary Kriging using the Geostatistical Analyst module of ArcGIS 10.5 software (ESRI, 2010). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Soil GWC and soil salinity profiles ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The variation in GWC is ilustrated in Figure 2.The GWC profiles had a similar shape for the three sampling periods (Fig.2). The GWC varied from $21 \\%$ to $44 \\%$ in the surface soil layer （204号 $( 0 . 0 { - } 1 . 2 ~ \\mathrm { m } )$ .Although salinity levels were very high in most ECe profiles,they varied with time. The ECe ranged from 11.18 to $2 9 . 8 0 \\ : \\mathrm { d S / m }$ in the surface soil layer with an average value of 13.79 $\\mathrm { d } \\mathrm { S } / \\mathrm { m }$ ，while GWC varied from $9 \\%$ to $2 9 \\%$ in the deeper soil layers. The soil surface was wetter in autumn 2016.An ECe of $6 6 . 5 0 ~ \\mathrm { d S / m }$ was recorded below $3 . 0 \\mathrm { ~ m ~ }$ from the surface,and $4 0 . 0 ~ \\mathrm { d S / m }$ from 4.0 to $6 . 0 \\mathrm { ~ m ~ }$ .Slight surface desalinization was observed from spring 2O15 to autumn 2016, while salinity increased with depth in all seasons. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2 Correlation between ECa-EMv and ECa-EMH measurements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results of regression analysis between ECa-EMv and $\\mathrm { E C a - _ { E M H } }$ for all calibration sites are shown in Figure 3. There was a clear linear relationship between ECa-EMv and $\\mathrm { E C a - _ { E M H } }$ at all sampling sites (29 sites) using EM31 and EM38 datasets.All ECa-EMv Values were higher than ECa-EMH values, indicating an increase in soil salinity with soil depth. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Seasonal variation in ECa-EM measurements ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 1 presents descriptive statistics of EM31 and EM38 measurements for each sampling. ECa-EM measured by the EM38 was always lower near the surface than at a depth （204号 $( \\mathrm { E C a - _ { E M 3 8 V } / E C a - _ { E M 3 8 H } > 1 . 0 0 } )$ .Mean ECa-EM38v values were higher during spring 2O15 (6.97 $\\mathrm { { d } S / m ) }$ and decreased significantly in autumn 2015 $( 6 . 4 9 ~ \\mathrm { d S / m } )$ ,which is attributed to rainfall that preceded the measurements. Finally, the mean ECa-EM38v returned to its original value in autumn 2016 $( 6 . 9 7 \\ \\mathrm { d S / m } )$ . The ECa-EM38v measurements showed the highest significant variability in autumn 2O15,with a minimum value of 3.71 dS/m and a maximum value of $1 0 . 1 1 ~ \\mathrm { d S / m }$ . The mean ECa-EM38H Value Was $4 . 3 1 ~ \\mathrm { d S / m }$ in spring 2O15,which decreased progressively to $3 . 8 8 ~ \\mathrm { d S / m }$ in autumn 2015 and to $3 . 4 2 ~ \\mathrm { d S / m }$ in autumn 2016. The CV of ECa-EM38v decreased from $1 5 . 6 7 \\%$ （204 in spring 2015 to $1 1 . 3 6 \\%$ in autumn 2016. During the monitoring period, the lowest CV of ECa-EM31V value ( ${ \\mathrm { 4 . 3 0 ~ d S / m } } )$ was recorded in autumn 2O16,while the highest value of $7 . 9 5 ~ \\mathrm { d S / m }$ was recorded in spring 2O15. The ECa-EM38H values were characterized by low CV ranging from $1 6 . 7 0 \\%$ in spring 2015 to $2 4 . 1 0 \\%$ in autumn 2016. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ECa-EM31v and ECa-EM31H Values measured with the EM31 were lower than those measured with the EM38.The mean ECa-EM31v value of $4 . 5 4 ~ \\mathrm { d S / m }$ was recorded in spring 2015, which remained constant until autumn 2O15 and then increased to $5 . 3 6 ~ \\mathrm { d S / m }$ in autumn 2016.A minimum value of $3 . 7 9 ~ \\mathrm { d S / m }$ was observed from spring to autumn 2O15 and the highest value of $5 . 9 7 ~ \\mathrm { d S / m }$ was measured in autumn 2016. The mean ECa-EM31H Values were close to $2 . 0 9 ~ \\mathrm { d S / m }$ from spring to autumn 2O15; they increased to $3 . 5 4 ~ \\mathrm { d S / m }$ in autumn 2016 (Table 1). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GWC (%) ECe (dS/m) 0 10 20 30 40 0 20 40 60 80 0.（a1) 1 公 0.0 小 0. > T A 33060 (a2) 1 1518 > 宝 11518 √ ！   \n2 ? T (u) qdep 212427 2 9 L 1 3 T y   \ns 3 7 IIOS 36 1 42 A H 45 Y 4.8 Y → Spring 2015 4.8 ? ? 1 5.1 1 + Autumn 2015 5.1 夏 Y 5. 八 > +Autumn 2016 5.4 K 6.0 ■ → Y 6.0 D ▲ 6.3 6.3 GWC (%) GWC (%) GWC (%) 0 1020_3040 0102030_40 010203040 50 0.0 0.0 \\*\\*■ 0.0 \\*\\* (b1) (b2) (b3) 0.2 0.2 0.2 \\*   \n（ur) prdepgion 0.4 0.4 0.4 ←P1 秋 0.6 + P2 0.6 0.6 +P3 火   \ns 0.8 0.8 0.8 \\* 1.0 1.0 1.0 \\* \\* 1.2 1.2」 1.2 ECe (dS/m ) ECe (dS/m) ECe (dS/m) 0 10 20 30 4050 0 10 20 3040 50 0 10 20 304050 0.0 0.0+ 0.0+ (b4) \\* (b5) Xx (b6) 0.2 0.2- 0.2 N 1 L 0.4- 0.4 0.6 0.6 0.6 ? ? X 0.8 0.8 0.8 ? 1.0 1.0 1.0 1 \\* X 1.2 1.2」 1.2 ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/f718c189ba658718794de75b5fe65578f7c9c660061911f969697075d8aa8ae6.jpg",
+        "img_caption": [
+            "Fig.3Plot of apparent EC measured in vertical dipole orientation (ECa-EMv) versus apparent EC measurec in horizontal dipole orientation (ECa-EMH)at allsampling sites (29 sites)using EM31 and EM38 datasets "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8635f488ce25161b0164c809e06d0f81490d21426511581e80c3826f738c95bb.jpg",
+        "table_caption": [
+            "Table1Descriptive statistics of ECa-EMH and ECa-EMv in spring 2O15,autumn 2015,and autumn 2016 "
+        ],
+        "table_footnote": [
+            "Note:ECa-EpparentECmeasuredinverticaldipolerientation;ECaEapparentECmeasuredinorzontaldipoletatio; Med.,median;in;axai;SDtadardevatio;CVceicietofratioindcatesigicantee from average values at the O.O5 level according to the Tukey test. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">Statistic</td><td colspan=\"4\">Spring 2015</td><td colspan=\"4\">Autumn 2015</td><td colspan=\"4\">Autumn 2016</td></tr><tr><td colspan=\"2\">EM38</td><td colspan=\"2\">EM31</td><td colspan=\"2\">EM38</td><td colspan=\"2\">EM31</td><td colspan=\"2\">EM38</td><td colspan=\"2\">EM31</td></tr><tr><td>Eca-EMV</td><td>Eca-EMH</td><td>Eca-EMV</td><td>Eca-EMH</td><td>Eca-EMV</td><td>Eca-EMH</td><td>Eca-EMV</td><td>Eca-EMH</td><td>Eca-EMV</td><td>Eca-EMH</td><td>Eca-EMV</td><td>Eca-EMH</td></tr><tr><td>Mean (dS/m)</td><td>6.97</td><td>4.31*</td><td>4.54</td><td>3.02</td><td>6.49*</td><td>3.88*</td><td>4.52</td><td>2.96</td><td>6.96</td><td>3.42*</td><td>5.36*</td><td>3.54*</td></tr><tr><td>Med. (dS/m)</td><td>6.92</td><td>4.24</td><td>4.48</td><td>2.95</td><td>6.46</td><td>3.77</td><td>4.47</td><td>2.93</td><td>6.93</td><td>3.36</td><td>5.37</td><td>3.51</td></tr><tr><td>Min. (dS/m)</td><td>4.58</td><td>2.84</td><td>3.79</td><td>2.09</td><td>3.71</td><td>2.63</td><td>3.79</td><td>2.48</td><td>4.42</td><td>2.23</td><td>4.65</td><td>2.91</td></tr><tr><td>Max. (dS/m)</td><td>9.35</td><td>6.59</td><td>5.45</td><td>4.46</td><td>10.10</td><td>5.81</td><td>5.45</td><td>3.91</td><td>9.14</td><td>6.86</td><td>5.97</td><td>4.58</td></tr><tr><td>SD (dS/m)</td><td>1.09</td><td>0.72</td><td>0.36</td><td>0.40</td><td>1.01</td><td>0.90</td><td>0.35</td><td>0.27</td><td>0.79</td><td>0.82</td><td>0.23</td><td>0.24</td></tr><tr><td>Kurtosis</td><td>-0.86</td><td>0.14</td><td>-0.30</td><td>2.56</td><td>0.39</td><td>-0.18</td><td>-0.29</td><td>0.42</td><td>0.38</td><td>1.79</td><td>1.62</td><td>0.16</td></tr><tr><td>Skewness</td><td>0.01</td><td>0.54</td><td>0.34</td><td>1.27</td><td>0.34</td><td>-0.02</td><td>0.38</td><td>0.74</td><td>0.13</td><td>1.22</td><td>0.72</td><td>0.02</td></tr><tr><td>CV (%)</td><td>15.67</td><td>16.70</td><td>7.95</td><td>13.28</td><td>15.50</td><td>23.17</td><td>7.83</td><td>9.19</td><td>11.36</td><td>24.10</td><td>4.29</td><td>6.77</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the lowest ECa-EM31H value of $2 . 0 9 ~ \\mathrm { d S / m }$ was measured in spring 2O15,while the highest value of $4 . 5 8 ~ \\mathrm { d S / m }$ was measured during the autumn 2016. The ECa-EM31v and ECa-EM31H data collcted during the three sampling periods with the EM31 exhibited a moderate variability as indicated by their low CVs of $4 . 2 9 \\% - 1 3 . 2 8 \\%$ ： ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The variation should be considered stable when CV is less than $1 0 . 0 0 \\%$ . Also, the CV is stable between $1 0 . 0 0 \\% { - 2 5 . 0 0 \\% }$ and is unstable when CV is higher than $2 5 . 0 0 \\%$ .In addition,the mean ECa-EM31v/ECa-EM31H ratio remained about 1.50 during the three sampling periods,indicating that soil salinity was higher in the deper soil layers and there were very few changes in soil salinity over time between the different sampling depths. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Conclusively, the variation in ECa-EM38H Was significant in the three sampling periods,whereas the variation in ECa-EM38v was significant for autumn 2O15 only. Further, for the EM31 measurements,variations were significant only for autumn 2016. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4Soil salinity prediction by the MLR models ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4.1 Prediction models for ECe ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The prediction models for ECe and the fiting parameters used in the MLR models and their respective $R ^ { 2 }$ are presented in Table 2.All MLR models had high $R ^ { 2 }$ values ranging from 0.78 to 0.91 for the surface soil layer and from O.77 to O.95 for other soil layers $( P { < } 0 . 0 5 )$ . For the ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { E C a - _ { E M 3 1 } }$ data, the lowest $R ^ { 2 }$ of O.77 was calculated for the $1 . 2 \\mathrm { - } 3 . 0 \\ \\mathrm { m }$ soil layer, and the highest $R ^ { 2 }$ was observed for the $0 . 0 { - } 0 . 6 \\mathrm { ~ m ~ }$ surface soil layer. ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cc1ca8abdf65852355d328e81d5ef121f7cca40d4334c8d2187f7a8d3f1ed98.jpg",
+        "table_caption": [
+            "Table2Multiple linear regresson coefficients of predicted electrical conductivityof saturated soil-paste extract (ECe) at different soil depths "
+        ],
+        "table_footnote": [
+            "Note:TheresultswereobtaiedconsideringthatECa-EvandECa-EwerecalibratedfortheaverageECemeasuredat23samplingsites withEM38 $( 0 . 0 { - } 1 . 2 \\mathrm { m }$ soil layer) and6 sampling points with EM31( $0 . 0 { - } 6 . 0 \\ \\mathrm { m }$ soil layer). $N$ means the total number of sampling sites. "
+        ],
+        "table_body": "<html><body><table><tr><td>EM device</td><td>Soil depth (m)</td><td>a</td><td>b</td><td>C</td><td>R²</td><td>N</td></tr><tr><td rowspan=\"4\">EM31</td><td>0.0-0.6</td><td>0.051</td><td>0.005</td><td>-6.37</td><td>0.91</td><td></td></tr><tr><td>0.6-1.2</td><td>-0.003</td><td>0.017</td><td>17.92</td><td>0.78</td><td>6</td></tr><tr><td>1.2-3.0</td><td>-0.050</td><td>0.100</td><td>35.80</td><td>0.77</td><td></td></tr><tr><td>3.0-6.0</td><td>0.048</td><td>0.003</td><td>19.63</td><td>0.95</td><td></td></tr><tr><td rowspan=\"2\">EM38</td><td>0.0-0.6</td><td>0.006</td><td>0.012</td><td>3.20</td><td>0.86</td><td>23</td></tr><tr><td>0.6-1.2</td><td>0.003</td><td>0.038</td><td>6.21</td><td>0.85</td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.4.2Prediction models for ECe ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Prediction of ECe using the MLR models showed an increase in soil salinity with depth (Table 3). From spring to autumn 2O15,the highest mean ECe was found in the soil layer that was $1 . 2 \\mathrm { - } 3 . 0 \\mathrm { m }$ deep with a maximum value of about $5 9 . 9 0 ~ \\mathrm { d S / m }$ in spring; the lowest salinity of $1 0 . 0 2 ~ \\mathrm { d S / m }$ was observed in the surface soil layer at $0 . 0 { - } 0 . 6 \\mathrm { ~ m ~ }$ in autumn 2015.During autumn 2015,the maximum of ECe was $5 2 . 7 1 ~ \\mathrm { d S / m }$ in the soil layer with a depth of $1 . 2 \\mathrm { - } 3 . 0 \\ \\mathrm { m }$ (mean value 42.82 $\\mathrm { d } \\mathrm { S } / \\mathrm { m } )$ ，while in autumn 2O16,the highest value of $5 5 . 3 9 ~ \\mathrm { d S / m }$ was estimated for the soil layer with a depth of $1 . 2 \\mathrm { - } 3 . 0 \\ \\mathrm { m }$ .The highest mean ECe $( 4 6 . 4 4 ~ \\mathrm { d S / m ) }$ was predicted for the deeper soil layer at $3 . 0 { - } 6 . 0 \\mathrm { m }$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/caaa871cd5023e80e16e8374aa935071221eca8b5744cd180ab0c3762e1e32b3.jpg",
+        "table_caption": [
+            "Table 3Descriptive statistics of predicted ECeand the estimation of ECe using Ordinary Kriging method at different soil depths in spring 2015,autumn 2O15,and autumn 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Period</td><td rowspan=\"2\">Soil depth (m)</td><td colspan=\"6\">Predicted ECe</td><td rowspan=\"2\"></td><td colspan=\"2\">Kriging estimation of ECe</td></tr><tr><td>Ms/m)</td><td>(dSD)</td><td>Mam)</td><td>Mim)</td><td>Median</td><td>Kurtosis Skew</td><td>Msm</td><td>(dSDm)</td></tr><tr><td rowspan=\"4\">Spring 2015</td><td>0.0-0.6</td><td>13.47</td><td>1.52</td><td>18.02</td><td>10.50</td><td>13.27</td><td>-0.38</td><td>0.31</td><td>14.02</td><td>1.17</td></tr><tr><td>0.6-1.2</td><td>23.31</td><td>2.57</td><td>31.87</td><td>18.40</td><td>23.06</td><td>0.10</td><td>0.48</td><td>24.98</td><td>2.08</td></tr><tr><td>1.2-3.0</td><td>43.26</td><td>3.49</td><td>59.90</td><td>32.36</td><td>41.58</td><td>2.52</td><td>1.14</td><td>43.02</td><td>1.77</td></tr><tr><td>3.0-6.0</td><td>42.32</td><td>1.70</td><td>46.69</td><td>38.63</td><td>42.87</td><td>-0.25</td><td>0.31</td><td>42.30</td><td>0.83</td></tr><tr><td rowspan=\"4\">Autumn 2015</td><td>0.0-0.6</td><td>12.74</td><td>1.27</td><td>18.29</td><td>10.02</td><td>12.53</td><td>0.10</td><td>-0.29</td><td>12.80</td><td>1.01</td></tr><tr><td>0.6-1.2</td><td>19.72</td><td>1.23</td><td>23.39</td><td>16.89</td><td>20.02</td><td>-0.09</td><td>-0.09</td><td>22.55</td><td>2.27</td></tr><tr><td>1.2-3.0</td><td>42.82</td><td>2.54</td><td>52.71</td><td>36.13</td><td>41.45</td><td>0.75</td><td>0.62</td><td>42.52</td><td>1.43</td></tr><tr><td>3.0-6.0</td><td>42.21</td><td>1.68</td><td>46.78</td><td>38.61</td><td>43.03</td><td>-0.24</td><td>0.38</td><td>42.10</td><td>0.88</td></tr><tr><td rowspan=\"4\">Autumn 2016</td><td>0.0-0.6</td><td>13.74</td><td>1.32</td><td>17.79</td><td>11.25</td><td>13.74</td><td>0.47</td><td>0.95</td><td>12.60</td><td>0.56</td></tr><tr><td>0.6-1.2</td><td>23.11</td><td>2.60</td><td>32.39</td><td>19.38</td><td>22.87</td><td>1.48</td><td>1.16</td><td>21.50</td><td>1.62</td></tr><tr><td>1.2-3.0</td><td>44.36</td><td>3.02</td><td>55.39</td><td>37.96</td><td>44.23</td><td>0.93</td><td>0.56</td><td>44.74</td><td>1.15</td></tr><tr><td>3.0-6.0</td><td>46.44</td><td>1.12</td><td>49.31</td><td>43.03</td><td>46.59</td><td>0.18</td><td>-0.00</td><td>46.46</td><td>0.50</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5Spatial and temporal variability in soil salinity ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5.1 Variogram analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All the variograms show a positive nugget of ECe ranging from O.70 to $1 4 . 7 2 ~ \\mathrm { d S / m }$ (Table 4). The ratio of variance and structural variance related to the sill MAE,and RMSE are presented in Table 4. These results indicated a $3 9 . 3 0 \\%$ spatial variation in EC in the surface soil layer and a $6 0 . 0 0 \\%$ variation in the $6 . 0 \\mathrm { - m }$ -deep soil layer in spring 2O15.However, this variability doubled in autumn 2O16 in the surface soil layer $( 0 . 0 { - } 0 . 6 \\mathrm { m } )$ ： ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/cbfd5e9a051e18627dd74ca7a640abc01b9dc5b89564629a6fc6cf4f6c953e95.jpg",
+        "table_caption": [
+            "Table 4Variogram characteristics and cross-validation statistics for $\\mathrm { E C _ { \\mathrm { e } } }$ at different soil depths in spring 2015, autumn 2015,and autumn 2016 "
+        ],
+        "table_footnote": [
+            "Note:MAE,mean average error;RMSE,root mean squared error. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Period</td><td rowspan=\"2\">Soil depth (m)</td><td colspan=\"4\">Variogram of ECe</td><td colspan=\"2\">Cross validation of ECe</td></tr><tr><td>Nugget (dS/m)</td><td>Sill (ds/m)</td><td>Range (m)</td><td>Nugget/Sill</td><td>MAE (dS/m)</td><td>RMSE (dS/m)</td></tr><tr><td rowspan=\"4\">Spring 2015</td><td>0.0-0.6</td><td>1.12</td><td>2.85</td><td>27.59</td><td>0.39</td><td>-0.006</td><td>1.22</td></tr><tr><td>0.6-1.2</td><td>3.23</td><td>10.67</td><td>48.00</td><td>0.30</td><td>-0.006</td><td>2.33</td></tr><tr><td>1.2-3.0</td><td>14.72</td><td>23.55</td><td>26.27</td><td>0.63</td><td>0.010</td><td>4.29</td></tr><tr><td>3.0-6.0</td><td>2.46</td><td>4.09</td><td>12.14</td><td>0.60</td><td>0.006</td><td>1.57</td></tr><tr><td rowspan=\"4\">Autumn 2015</td><td>0.0-0.6</td><td>1.14</td><td>3.00</td><td>33.76</td><td>0.38</td><td>-0.005</td><td>1.39</td></tr><tr><td>0.6-1.2</td><td>5.90</td><td>14.20</td><td>37.95</td><td>0.42</td><td>-0.002</td><td>2.78</td></tr><tr><td>1.2-3.0</td><td>7.02</td><td>10.48</td><td>45.25</td><td>0.67</td><td>0.002</td><td>2.69</td></tr><tr><td>3.0-6.0</td><td>2.06</td><td>3.94</td><td>16.00</td><td>0.52</td><td>-0.007</td><td>1.57</td></tr><tr><td rowspan=\"4\">Autumn 2016</td><td>0.0-0.6</td><td>1.60</td><td>2.34</td><td>48.00</td><td>0.68</td><td>0.000</td><td>1.39</td></tr><tr><td>0.6-1.2</td><td>5.70</td><td>12.53</td><td>96.00</td><td>0.45</td><td>-0.007</td><td>3.04</td></tr><tr><td>1.2-3.0</td><td>5.43</td><td>7.75</td><td>64.00</td><td>0.68</td><td>-0.009</td><td>2.49</td></tr><tr><td>3.0-6.0</td><td>0.70</td><td>1.22</td><td>15.67</td><td>0.57</td><td>0.001</td><td>0.98</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The exponential semi-variogram was found to be the best method to estimate ECe because it canpredict soil ECe values for non-sampled sites. Figure 4 shows the exponential semi-variograms of the measured data and the fitted MLR models.The results demonstrated that the efficiency ranged from 12.10 to $4 8 . 0 0 \\mathrm { ~ m ~ }$ in spring 2015 and reached $9 6 . 0 0 \\mathrm { ~ m ~ }$ in autumn 2016, which indicated that the smallest distance from EC sampling site was 12.1 and $4 8 . 0 \\mathrm { ~ m ~ }$ in spring 2015 and ranged between 15.8 and $9 6 . 0 \\mathrm { m }$ in autumn 2016. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.5.2 Prediction accuracy of the Ordinary Kriging method ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Performance indicators for ECe mapping for the different soil layers using the Ordinary Kriging method are given in Table 4.The RMSE ranged from O.98 to $4 . 2 9 ~ \\mathrm { d S / m }$ 、The lowest RMSE was noted for the last sampling in autumn 2O16 in the deep soil layer ( $( 3 . 0 { - } 6 . 0 \\ \\mathrm { m } )$ ，while the highest RMSE value was observed for the $1 . 2 \\substack { - 3 . 0 \\mathrm { ~ m ~ } }$ soil layer sampled in spring 2015.A high RMSE $( > 2 . 0 0 ~ \\mathrm { d S / m ) }$ was observed in both layers between O.6 and $3 . 0 \\mathrm { ~ m ~ }$ in all three sampling periods. However, the MAE was extremely low and did not exceed $0 . 0 1 0 ~ \\mathrm { \\ d S / m }$ (Table 4).The cross-validation statistics of inverted soil ECe in the soil layers of 0.O-O.6 and $0 . 0 { - } 1 . 2 ~ \\mathrm { m }$ are given in Table 5. The RMSE ranged from 1.73 to $3 . 6 7 ~ \\mathrm { d S / m }$ .The lowest RMSE was noted for the O.0-1.2 m soil layer, while the highest RMSE value was observed for the $0 . 0 { - } 0 . 6 \\mathrm { m }$ surface soil layer. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.6Spatial and seasonal maps of soil salinity ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Maps of predicted ECe are shown in Figure 5. The ECe estimates by the Ordinary Kriging method ranged between 8.00 and $1 6 . 0 0 ~ \\mathrm { d S / m }$ in the $0 . 0 { - } 0 . 6 \\ \\mathrm { m }$ deep surface soil layer and ranged between 16.00 and $3 2 . 0 0 ~ \\mathrm { d S / m }$ in the soil layer between O.6 and $1 . 2 \\mathrm { ~ m ~ }$ .The estimates reached a maximum of $5 2 . 0 0 ~ \\mathrm { d S / m }$ in the deep soil layer $( 3 . 0 \\mathrm { - } 6 . 0 \\ \\mathrm { m } )$ .The inverted ECe maps are shown in Figure 6,where the inverted ECe varied between 8.OO and $2 4 . 0 0 ~ \\mathrm { d S / m }$ in the $0 . 0 { - } 0 . 6 \\ \\mathrm { m }$ surface soil layer and between 16.0o and $2 2 . 0 ~ \\mathrm { d S / m }$ in the $0 . 0 { - } 1 . 2 ~ \\mathrm { m }$ soil layer.An equivalent difference was observed among the three sampling periods. The ECe values for the surface soil layer decreased from spring 2015 to autumn 2016 but increased for the deep soil layer (Figs. 5 and 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To quantify the temporal variability in soil salinity, CV values for each ECa-EM measured over time between the first and second sampling periods from both conductivity meters are shown in Figure 7. These maps show that soil salinity varied from one soil depth to another, depending on the conductivity meter used. The ECa-EM38H data had the highest CV. The variation in ECa-EM38H at a depth of $0 . 6 \\mathrm { { m } }$ and $3 7 . 0 0 \\%$ of zoning was greater than that with $2 5 . 0 0 \\%$ of zoning,especially at the level of the northwest of the study area. This variation decreased to $5 . 0 0 \\%$ at a depth of 1.2 m (ECa-EM38v; Fig. 7). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/b964a68d37cdb28d62d7533beba81ae93267285cbff32b5767b2eb7ddbd73461.jpg",
+        "img_caption": [
+            "Fig.4ECe variograms predicted by the multiple linear regresson (MLR) models in spring 2O15(a),autumn 2015 (b),and autumn 2016 (c) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/add4c5922f0a21cd3a5f0f105813bcee430bb43e8002fdaeb3caaef738b99f2b.jpg",
+        "table_caption": [
+            "Table 5Cross-validation statistics of ECe inverted at diferent soil depths in spring 2015,autumn 2015,and autumn 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Period</td><td rowspan=\"2\">Soil depth (m)</td><td colspan=\"2\">Cross-validation statistic</td></tr><tr><td>MAE (dS/m)</td><td>RMSE (dS/m)</td></tr><tr><td>Spring 2015</td><td>0.0-0.6</td><td>2.10</td><td>2.72</td></tr><tr><td rowspan=\"2\">Autumn 2015</td><td>0.0-1.2</td><td>1.37</td><td>1.73</td></tr><tr><td>0.0-0.6</td><td>1.81</td><td>2.34</td></tr><tr><td rowspan=\"2\"></td><td>0.0-1.2</td><td>1.66</td><td>2.28</td></tr><tr><td>0.0-0.6</td><td>2.66</td><td>3.67</td></tr><tr><td>Autumn 2015</td><td>0.0-1.2</td><td>1.65</td><td>2.06</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The variation in ECa-EM31H $( 4 . 0 ~ \\mathrm { m } )$ remained moderately stable between $1 0 . 0 0 \\% { - } 1 5 . 0 0 \\%$ for $4 5 . 0 0 \\%$ of zoning for the northeast of the study area; a similar observation was obtained for ECa-EM31V $( 6 . 0 ~ \\mathrm { m } )$ for only $3 8 . 0 0 \\%$ of zoning. The skewness for all measurements was between 0.52 and 1.11,and presented a symmetrical distribution. However, the skewness for ECa-EM38V was higher than 1.OO,so the distribution is asymmetric (Table 6). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c091e368ebf93d6462a16ad7c07069476b721351fecb5e118cd8e1204de9f592.jpg",
+        "img_caption": [
+            "Fig.5Spatial and temporal distributions of the one dimensional inversion in ECe forthe soil layers of 0.0-0.6 m (a,b,c) and $0 . 0 { - } 1 . 2 ~ \\mathrm { m }$ (d,e,f) in spring 2015,autumn 2015,and autumn 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1 Soil salinity monitoring over space and time ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Temporal variations of soil salinity were mainly found in the southeast and northeast of the study area.High variability was particularly evident in the surface soil layer,especially during the second sampling period conducted in autumn 2O15.This is atributed to the heavy rainfals prior to sampling.The temporal dynamics could have been determined by drip irigation practices or rainfall fluctuations during the winter and summer seasons. Heavy rainfall events occurred on 16 October 2016 $( > 5 0 . 0 \\ \\ \\mathrm { \\ m m } )$ ）and 11-12 July 2015 (about $1 0 0 . 0 \\ \\mathrm { \\ m m } ,$ ） that may have caused substantial salt leaching. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "There was a distinctive difference in the predicted ECe values between the northwest axis in the center and the eastern and western boundaries. The maps of estimated ECe showed a great diference in ECe of the surface and deep soil layers,where ECe values increased with depth in allsampling periods,as mentioned earlier (Zhang et al.,2O21).The ECe decreased in the surface soil layer between the first and second sampling periods and increased during the last sampling period (autumn 2O16). This decrease is likely due to the clayey texture of soils and the input of water from rainfall and irrigation, which helped to maintain a high GWC in the surface soil layer. In autumn 2O16,capillary action toward the surface and the accumulation of salts at the surface horizons led to surface salinization, as reported previously (Hachicha et al.,2Ooo; Doolittle and Brevik,2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2Model performance and soil salinity mapping ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The methods developed by Lesch et al.(1998) to predict ECe from EM38 measurements using MLR models were applied to a single field (Lesch et al.,1998; Amezketa, 2007). Spatial analysis is generally complicated due to the following reasons: (1） the inability to acquire deep-core samples from dry,hard,and compact clay soils;(2） the extremely high spatial and temporal variability in the soil GWC that influences ECa and the soil salinity variability in space and time; and (3) the seasonal variability in the salinity of surface soil layer (Safar, 1983). Our salinity mapping approach was based on coupling the standardized laboratory method of ECe determination with ECa measurement using geophysical methods (EM31 and EM38) (Zhao et al., 2020). ",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ab439fb9fceefb2fa3bd32e390742ed17f2130bde3b09d5d17f1b542da5d4aa.jpg",
+        "img_caption": [
+            "Fig.6Spatial and temporal distributions of ECe obtained from measurements of ECa-EM38 in the soil layers of $0 . 0 { - } 0 . 6 \\mathrm { ~ m ~ }$ (al-a3)and $0 . 6 { - } 1 . 2 \\mathrm { ~ m ~ }$ (b1-b3) and ECa-EM31 in the soil layers of $1 . 2 \\substack { - 3 . 0 \\mathrm { ~ m ~ } }$ (c1-c3)and $3 . 0 { - } 6 . 0 \\ \\mathrm { m }$ (d1-d3) m in spring 2015,autumn 2015,and autumn 2016 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The steps of the methodology we adopted are as follows: first, the analysis with the EM38 and EM31 measurements could be extended over a large area and to deeper soil layers of. Second, the predicted salinity at different soil depths was used to analyze the vertical salinity profile (Michot et al.,2O13). The MLR models were applied to estimate the variability in EC and describe the spatial variability in soil salinity with reasonable accuracy （1 $. 2 0 ~ \\mathrm { \\ d S / m { < } R M S E { < } 4 . 3 0 ~ \\ d S / m ) }$ Findings showed that over a period of three years,the spatial patern of soil salinity had not changed much, especially in the deep soil layer( $3 . 0 { - } 6 . 0 ~ \\mathrm { m } )$ ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0ae35971f62831f775c5be527ec991dc7736a2984ed220e8501ccc8c59fa024.jpg",
+        "img_caption": [
+            "Fig.7Coefficient of variation (CV)of ECa-EMH (a and b)and ECa-EMv (c and d) measurements using EM31 and EM38 devices "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/7a3c8e4bd811b1a317d3bfa8fb65efc8b28e9adc126eb3bdc33b95df09f89794.jpg",
+        "table_caption": [
+            "Table 6Descriptive statistics of the CVof ECa in spring 2015,autumn 2015,and autumn 2016 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Measurement profile</td><td rowspan=\"2\">Device</td><td colspan=\"5\">CVof ECa</td></tr><tr><td>Mean (%)</td><td>Median (%)</td><td>SD (%)</td><td>Kurtosis</td><td>Skewness</td></tr><tr><td>Vertical</td><td rowspan=\"2\">EM38</td><td>10.20</td><td>9.07</td><td>6.20</td><td>1.18</td><td>1.11</td></tr><tr><td>Horizontal</td><td>21.60</td><td>21.21</td><td>8.81</td><td>-0.84</td><td>0.12</td></tr><tr><td>Vertical</td><td rowspan=\"2\">EM31</td><td>11.20</td><td>11.11</td><td>3.93</td><td>-0.36</td><td>0.14</td></tr><tr><td>Horizontal</td><td>12.80</td><td>12.37</td><td>5.62</td><td>-0.03</td><td>0.52</td></tr></table></body></html>",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The need to adapt the regression models to local soil context was indicated by the lower precision of the general linear regression model (which integrated the ECa-EMH and ECa-EMV measurements) as compared to the MLR models,despite the limited number of sites used in the latter.As described by Triantafilis et al. (2OO1b),EM38 and EM31 measurements can be used for a more accurate prediction of ECe,as they allow more samples to be measured cost-effectively and without disturbing the soil structure. Cross-validation can provide evidence of the efciency of these conductivity meters to predict ECe at the plot scale as per the findings of Corwin and Lesch (2005), Omonode and Vyn (2006),and Huang et al. (2016). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This work aimed to link two conductivity meters for the measurements of EC to assess the spatial and temporal variations in soil salinity in an irigated field. Variation in soil salinity of alluvial clay soil was determined in terms of ECe measurements performed using two conductivity meters,i.e., EM38 and EM31. An MLR model built using the measured soil ECe and ECa-EM38 was found to be a good predictor of ECe for the surface soil layer and an MLR model built using ECa-EM31 was effective to predict ECe for the deep soil layer (about $6 . 0 \\mathrm { m }$ ） ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The ECe maps obtained using the Ordinary Kriging method showed that spatial changes in salinity remain relatively constant; ECe dropped in the surface soil layer from spring 2015 to autumn 2016 but increased in the deep soil layer. All maps showed a low CV of ECe $( \\leq 1 0 . 0 0 \\% )$ （204号 in the center of the study area.The variation in salinity at the soil surface (ECa-EM38H at the depth of $0 . 6 \\mathrm { m } \\dot { }$ ） was greater than that at the depth of $1 . 2 \\mathrm { m }$ (ECa-EM38v at the depth of $1 . 2 \\mathrm { m } \\dot { }$ ). At the soil surface, the variation in salinity was greater than $2 5 . 0 0 \\%$ ， while at a depth of $1 . 2 \\mathrm { m }$ ,it was about $5 . 0 0 \\%$ .The variation in ECa-EM31H $( 4 . 0 \\mathrm { ~ m } )$ remained moderately stable between $10 . 0 0 \\%$ and $1 5 . 0 0 \\%$ for $4 5 . 0 0 \\%$ of zoning in the northeast of the study area; similar variation was recorded in ECa-EM31V $( 6 . 0 \\ \\mathrm { m } )$ for only $3 8 . 0 0 \\%$ of the zoning area.These methods helped to track salinity trends and their significance in the field; they can prove useful for the identification of spatial and temporal features, leading to more effective management of agricultural soil, regardless of tillage or irrigation conditions.From our standpoint, the application of EM38 and EM31 was effective in Central Tunisia for large-scale monitoring of salinity in the soils. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The experiments were carried out within the National Research Institute of Rural Engineering,Water and Forests (INRGREF)，Research Laboratory\"Valorization of Non-Conventional Water\"(LRVENC）with the French scientific collaboration of SAS,Mixed Research Unit Soil Agro and Hydrosystem Spatialization,INRAE, National Research Institute for Agriculture,Food and the Environment,Rennesand the Developent Research Institute (IRD) Research Laboratory \"UMR 242 IESS\".The authors warmly thank allthe members involved in this work. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "AdamIMichotDGueroYetal.2Ol2.Detectingsoilsalinitychangesinrigatedvertisolsbylectricalresistivitypropction during a desalinisation experiment.Agricultural Water Management,1O9:1-10.   \nAmakorXN,JacobsonAR,Cardon GE,etal.2Ol4.Acomparisonof salinitymeasurement methods basedonsoilsaturated pastes.Geoderma,219-220:32-39.   \nAmezketaE.2Oo7.Useof an electromagnetic techique todetermine sodicityinsaline-sodic soils.SoilUseandManagement, 23(3):278-285.   \nAmezketaE,deLersundi JDV.2oo8.Soilclassificationandsalinity mapping fordeterminingrestoration potentialof cropped riparian areas.Land Degradation & Development,19(2):153-164.   \nAragiesR,UrdnozV,CetinM,etal.Ol.Soilsainityrlatedtoysicalsoilcharacteristicsandiigatiomanageetn four Mediterranean irrigation districts.Agricultural Water Management, 98(6): 959-966.   \nBarbieroL,Cunnac S,ManéL,etal.2Ool.Saltdistribution inthe Senegal middle valey:analysisofasalinestructureon planned irrigation schemes from N'Galenka creek.Agricultural Water Management,46(3): 201-213.   \nBellier G,GaaloulN,JobJO,etal.1997.Soilinterpretationof electromagneticand electricaldata.Applicationtohe watershedofElGouazine(centralTunisia).https://www.researchgate.net/publication/32969769_Interpretation_pedologique _de_donnees_electromagnetiques_et_electriques_application_au_bassin_versant_d'El_Gouazine_Tunisie_centrale.   \nBerkalIWalterC,MichotD,etal.2O14.Seasonal monitoringofsoilsalinitybyelectromagneticconductivityiniigated sandy soils from a Saharan oasis.Soil Research,52(8):769-780.   \nBlackmoreS.2o.The interpretationof trends from multiple yield maps.Computers andElectronics inAgriculture,26(1): 37-51.   \nCasselF,GoorahooD,Sharmasarkar S.2Ol5.Salinizationandyield potentialofasalt-laden Californian Soil:aninsitu geophysical analysis.Water,Air,& Soil Pollution, $2 2 6 : 4 2 2$ ,doi:10.1007/s11270-015-2682-1.   \nCorwinDL,Lesch SM.2003.Applicationof soil electrical conductivity to precision agriculture.Agronomy Journal, 95(3):455-471.   \nCorwinDL,Lesch SM.2Oo5.Apparent soil electricalconductivitymeasurements inagriculture.Computers and Electronics in Agriculture,46:11-43.   \nDoolitleJA,BrevikEC.0l4.Theuseof electromagnetic induction techniques insoils studies.Geoderma,223-225:3-45.   \nDouaoui AEK,Nicolas H,Walter C.2Oo6.Detecting salinity hazards withinasemiaridcontext bymeansofcombiningsoil and remote-sensing data. Geoderma,134(1-2): 217-230.   \nGascuel-Odoux C,Boivin P.1994.Variabilityof variogramsand spatial estimates dueto soil sampling:acase study.Geoderma, 62(1-3): 165-182.   \nGuo Y,HuangJ,ShiZ,etal.2O15.Mappngspatial variabilityofsoilsalinityinacoastalpaddyfieldbasedonelectromagnetic sensors.PloS ONE,10(5): e0127996,doi: 10.1371/journal.pone.0127996.   \nHachicha M,CheverryC,MhiriA.2Ooo.Theimpactoflong-termirigationonchangesof ground waterlevelandsoilsalinity in northern Tunisia.Arid Soil Resarch and Rehabilation,14:175-182.   \nHachicha M.20o7. Salty Soils and their developement in Tunisia.Secheresse,18(1): 45-50.(in French)   \nHajrasuliha S,CasselD,RezainejadY.1991.Estimationofchloride ionconcentration insaline soils from measurementof electrical conductivity of saturated soil extracts. Geoderma,49(1-2): 117-127.   \nHendrickx J,BorchersB,CorwinD,etal.2O02.Inversionof soilconductivityprofiles fromelectromagneticinduction measurements: Theory and experimental verification. Soil Science Society of America Journal, 66(3): 673-685.   \nHoseiniE,GallichandJ,MarcoteD.994.Theoreticaland experimental performanceof spatial interpolationmethods forsoil salinity analysis.Transactions of the American Society of Agricultural Engineers,37:1799-1807.   \nHuang J,Mokhtari AR,Cohen DR,et al.2015.Modeling soil salinityacrossa gilgai landscape by inversionofEM38and EM31 data. European Journal of Soil Science,66(5): 951-960.   \nHuang J,Monteiro SantosFA,TriantafilisJ.2O16.Mappng soil waterdynamicsandamoving wetingfrontbyspatiotemporal inversion of electromagnetic induction data. Water Resources Research,52(11): 9131-9145.   \nJobJO,TabbaghA,HachichaM.1995.Determinationbyelectromagneticmethodof thesaltconcentrationofanirrigatedsoil. Canadian Journal of Soil Science,75: 463-469. (in French)   \nJohnson CK,Eskridge KM,Corwin DL.2O05.Apparentsoil electrical conductivity:applications fordesigningand evaluating field-scale experiments.Computers and Electronics in Agriculture, 46(1-3): 181-202.   \nLesch SM,RhoadesJD,Herero J.998.Monitoring for temporal changes insoil salinityusing electromagnetic induction techniques. Soil Science Society of America Journal,62(1): 232-242.   \nMarletS.2004.Evolutionof irrigationsystemsandmanagementof thesalinityof irigated land.[2021-12-10]. https://www.researchgate.n/publication29646266_Evolutio_des_systemes_diigationet_gestion_de_la_salinitedeste es_irriguees. (inFrench)   \nMcNeillJD.1980.Electromagnetic terain conductivity measurement atlow induction numbers.Technical Notes No.TN-6. Geonics Limited,Mississauga, Ontario, Canada,13.   \nMichotD,BenderiterY,DorignyA,etal.2Oo3.Spatialandtemporalmoitoringofsoilwatercontent withanirgatedo cropcoverusing surface electrical resistivitytomography.Water ResourcesResearch，39(5):1138，doi: 10.1029/2002WR001581.   \nMichotD,WalterC,AdamI,etal.2O13.Digitalasessmentof soil-salinitydynamicsafteramajorfloodintheNigerRiver valley. Geoderma,207-208:193-204.   \nOdehIOA,ToddA,TriantafilisJ,etal.1998.Statusandtrendsofsoilsalinityatdiferentscales:thecasefortheirigated cotton growing region of eastern Australia. Nutrient Cycling in Agroecosystems,5O: 99-107.   \nOliver MA,Webster R.2014.A tutorial guide to geostatistics: Computing and modeling variograms and kriging.CATENA, 113: 56-69.   \nOmonodeRA,VynTJ.2O06.Spatial dependence and relationshipsof electrical conductivity tosoilorganic mater, phosphorus,and potassium. Soil Science,171(3): 223-238.   \nPadhiJ,MisraRK.2.SensitivityofEM38indeterminingsoilwaterdistributioninanirigatedwheatfield.SoilandTllage Research,117: 93-102.   \nPazA M,Castanheira N,Farzamian M,etal.2O20.Predictionofsoil salinityandsodicityusing electromagneticconductivity imaging. Geoderma,314: 114086,doi: 10.1016/j.geoderma.2019.114086.   \nPitmanMGLäuchli A.2O04.Global Impactof Salinityand Agricultural Ecosystems.In:LäuchliA,Lutge U.Salinity: Environment - Plants -Molecules.Dordrecht:Kluwer Academic Publishers,3-20.   \nProvin T,PittJL.2O01.Managing soil salinity.Texas FARMER Colection.Texas A&MUniversity System.[2021-12-26]. http://publications.tamu.edu/SOIL_CONSERVATION_NUTRIENTS/PUB_soil_Managing%20Soil%20Salinity.pdf.   \nRhoadesJD,Corwin DL.1981.Determining soil electricalconductivity-depth relations usinganinductive electromagnetic soil conductivity meter. Soil Science Society of America Journal,45(2): 255-260.   \nRhoadesJD,LeschSM,housePJ.989.Newcalibrations fordetermining soilelectricalconductivity—Depthrelations from electromagnetic measurements.Soil Science society of America Journal, 53(1):74-79.   \nSafarT.1983.Pedology and geochemistryof salty environmentscontribution to the study of the dynamics of salts in an irigated and undrained alluvial plain.PhDDissertation.Lorraine: National InstituteofTechnology,131.(inFrench)   \nShiZ,LiY,WangRC.2Oo5.Assessmentof temporal and spatialvariabilityof soil salinity inacoastal saline field. Environmental Geology,48:171-178.   \nSousaEDT,QueirozDM,RosasJTF,etal.2O21.Spatialvariabilityofsoilapparent electricalconductivity-ectof the number of subsamples. Engenharia Agricola,41(3): 396-401.   \nThomas M,FitzpatrickRW,Heinson GS.2O09.Distributionandcausesof intricatesaline-sodicsoilpaterns inanupland South Australian hillslope.Australian Journal of Soil Research,47(3): 328-339.   \nTrabelsiR,ZairiM,SmidaH,etal.2Oo5.Salinizationofcoastalaquifers:caseof theaquifer northoftheSahelof Sfax, Tunisia.Comptes Rendus Geoscience,337:515-524.(in French)   \nTriantafilisJ,HuckelAI,OdehIOA.2Oola.Comparisonof statistical prediction methods forestimating field-scaleclay content using different combinations of ancillary variables.Soil Science,l66(6): 415-427   \nTriantafilisJ,OdehIOA,McBratneyAB.2Oolb.Fivegeostatistical models topredictsoilsalinity fromelectromagnetic induction data across irrigated cotton.Soil Science Society of America Journal,65(3): 869-878.   \nWalter C,McBrateyAB,Douaoui A,etal.2Ool.SpatialprdictionoftopsoilsalinityintheChelifVally,Algeria,usinglocal ordinary Kriging with local variograms versus whole-area variogram.Soil Research,39:259-272.   \nWangF,Yang S,WeiY,etal.2O21.Characterizingsoilsalinityatmultipledepthusingelectromagnetic inductionandremote sensing data with random forests:Acase studyin Tarim River Basin of souther Xinjiang,China.Science of the Total Environment,754:142030,doi:10.1016/j.scitotenv.2020.142030.   \nWebsterR,Oliver MA.1992.Sample adequately to estimatevariograms of soil properties.European Journal of Soil Science, 43(1): 177-192.   \nWilliamsBGBaker G C.1982.An electromagnetic induction technique forreconnaissance surveysof soilsalinityhazards. Soil Research,20(2): 107-118.   \nZhangY,LiX,SmunekJ,etal.O21.Evaluatingsoilsaltdyamicsinafielddrip-rigatedwithbrackishwaterandleaced withfreshwaterduring diferent crop growthstages.Agricultural WaterManagement，244:106601，doi: 10.1016/j.agwat.2020.106601.   \nZhao D,LiN,ZareE,etal.2O20.Mappngcation exchangecapacityusingaquasi-3djointinversionofEM38andEM31data. Soil and Tillage Research,200:104618,doi:10.1016/j.still.2020.104618. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    }
+]

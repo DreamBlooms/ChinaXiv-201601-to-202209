@@ -1,0 +1,106 @@
+# 重复快速射电暴的白矮星和中子星双星模型
+
+林一清 程再军
+
+福建省光电技术与器件重点实验室 厦门理工学院厦门 福建 361024光电与通信工程学院厦门理工学院 厦门 福建 361024
+
+摘要：快速射电暴（FRBs）是来自河外的短暂而明亮的射电能量脉冲，具有重复FRBs和非重复FRBs两种类型。重复FRBs的重复爆发行为可能源于一个具有强偶极磁场的中子星和磁化的白矮星组成的致密双星系统。当白矮星充满它的洛希瓣时，物质将会通过内拉格朗日点转移到中子星表面。一次爆发之后，白矮星可能被踢开，在演化过程中再次吸积，实现重复爆发现象。根据重复射电暴FRB121102和FRB180916重复爆发的观测数据，我们研究了白矮星-中子星的双星模型中两次爆发的时间间隔和两次爆发中前次爆发的流量之间的关系，通过理论值和观测值的比较，肯定了这样一个间歇的洛希瓣外流机制可能可以解释重复FRBs的重复爆发行为。
+
+关键词：快速射电暴，白矮星，吸积，引力辐射，磁重联 中图分类号：P172 文献标识码：A
+
+# 1引言
+
+快速射电暴(FastRadio Bursts，简称 FRBs)是一种短暂出现的射电能量脉冲。它们的持续时间通常只有几微秒至几毫秒，流量密度可以达到央斯基（Jy）量级，具有重复FRBs 和非重复FRBs两种类型。目前探测到的FRBs色散量比较高说明FRBs有可能是河外起源，甚至是宇宙学起源[1]。对 FRB 121102宿主星系的探测证实了FRBs 的宇宙学起源[2]，同时它也是第一个被观测到的重复暴。目前为止，FRBs的物理起源还是一个迷，而它的宿主星系和当地环境的性质可能可以为暴的物理起源提供重要的线索。
+
+FRB 121102作为第一个被成功与宿主星系联系起来的FRB，被定位在一个低金属性，红移 $\mathrm { z } { = } 0 . 1 9 2 7 3 { \pm } 0 . 0 0 0 0 8$ 的恒星形成矮星系[2]。重复快速射电暴FRB180916，被定位在附近的一个大质量螺旋星系的恒星形成区域（红移 $\mathrm { z } { = } 0 . 0 3 3 7 { \pm } 0 . 0 0 0 2 )$ ，是目前为止我们所知道的已知宿主和红移的源中离我们最近的一个暴[3]。尽管重复射线暴 FRB121102 和FRB180916的宿主星系有很大的区别，但是它们的源都位于或者临近宿主星系的恒星形成区域[2-3]。
+
+尽管在FRB121102之后有很多后续的跟踪观测，但是也没有观测到其它的重复FRBs，直到 2O18 年 CHIME（the Canadian Hydrogen Intensity Mapping Experiment）卫星的发射，才改变了这种状态。CHIME 是一个400-800MHz 波段的新型经纬射电望远镜，它的大收集面积、宽宽带、高灵敏度、巨大的视场和有力的相关器使得它成为一个极好的FRBs探测器，对于研究现存的理论和后续的观测是一个很大的机遇。CHIME/FRB卫星发射后持续观测到包含FRB180916.J0158+65在内的18个新的重复FRBs，这些重复 FRBs显示与其它非重复暴不一样的特征[4-6]。
+
+目前有很多种物理模型来解释重复FRBs的物理起源，在所有不同的模型中，中子星是最常用到的，比如：重复FRBs可能起源于软伽玛重复暴，脉冲星穿过小行星带，或者年轻脉冲星的巨型脉冲，或者中子星强磁场的曲率辐射，或者用包含一个磁化的白矮星和具有强偶极磁场的中子星的双星系统来解释重复暴的重复爆发行为[]。林等人根据FRB201102 的41次重复爆发数据，用间歇的洛希瓣外流机制来解释 FRB121102 的重复爆发行为[8]。本文收集了FRB121102 的82次重复爆发和FRB 180916的 28次重复爆发数据，考虑连续观测期间两次相邻爆发，通过对它们之间的时间间隔△t和相邻爆发的前暴的流量F的关系在理论分析和观测数据上的比较，研究白矮星和中子星的双星系统在解释重复FRBs重复爆发行为的可行性。
+
+# 理论模型分析
+
+对于一个双星系统，如果双星都比它们的洛希瓣小，这样的系统叫做独立系统，这时将没有一颗星会被另一颗星的引力所吸积。但是，在包含一个磁化的白矮星和一个具有强偶极磁场的中子星的双星系统中，如果由于某种原因（比如引力辐射）引起双星之间的距离变小，使得白矮星充满洛希瓣，系统成为半独立的系统，这个时候将会发生从白矮星到中子星的物质转移。白矮星的物质将通过内拉格朗日点被中子星吸积，吸积物质到达中子星表面时，会发生磁重联，电子可能瞬间被加速到极端相对论速度[7]。吸积过程是物质向内，而角动量向外移动的过程，根据角动量守恒，可以知道当 $\mathrm { q } { > } 2 / 3$ (q为白矮星和中子星的质量比值）时，物质转移是持续进行的9。反之，如果 $\mathsf { q } { < } 2 / 3$ ，那么在通过洛希瓣吸积一部分物质后，白矮星可能被踢开，系统重新变成独立的。在接着的演化中，双星系统由于引力辐射导致双星轨道衰竭，系统可能再次变成半独立的状态，开始第二次的转移过程，显示了重复爆发的行为。因此，对于 $\mathtt { q } { < } 2 / 3$ 的白矮星-中子星双星系统，洛希瓣外流的间歇行为可能是通常现象。
+
+对中子星和白矮星组成的 $\scriptstyle { \mathfrak { q } } < 2 / 3$ 的双星系统，两次相邻质量转移的时间间隔 $\Delta \mathfrak { t }$ 与这两次转移中第一次转移的质量 $\Delta \mathbf { M } _ { 2 }$ 之间的关系式[7];
+
+$$
+{ \Delta { t } } = - 2 . 6 8 \times 1 0 ^ { 1 0 } \frac { { \Delta { M _ { \mathrm { ~ 2 ~ } } } } } { { M _ { \odot } } } s
+$$
+
+其中 $M _ { \odot }$ 表示太阳的质量。但是，在这个模型中，很难估算具体有多少电子被加速到极端相对论速度。这里，我们通过吸积物质携带的磁能量来估算释放的能量，得到相邻两次爆发中前暴的流量F和 $\Delta \mathbf { M } _ { 2 }$ 之间的关系[7]：
+
+$$
+\mathrm { F } \Delta \mathrm { v D } _ { \mathrm { L } } ^ { 2 } \Delta \Theta = - \eta _ { 1 } \eta _ { 2 } \Delta \mathrm { M } _ { 2 } \mathrm { c } ^ { 2 }
+$$
+
+其中 $\Delta \nu$ 为射电频率的宽度， $\mathsf { D } _ { \mathrm { L } }$ 为光度距离， $\Delta \theta$ 为 FRB 的立体角， $\eta _ { 1 }$ 为曲率辐射与吸积物质携带的总磁能的比值，表示释放能量的效率， $\boldsymbol { \mathsf { \Pi } } \eta _ { 2 }$ 为磁场能量密度和物质密度的比值，表示磁重联的效率，c为光速。
+
+根据公式（1）和（2)，我们可以得到F和 $\Delta \mathfrak { t }$ 的关系式：
+
+$$
+\begin{array} { r } { \Delta \mathrm { t } = 2 . 6 8 \times 1 0 ^ { 1 0 } \frac { \mathrm { F \Delta v D _ { L } ^ { 2 } } \Delta \Theta } { \eta _ { 1 } \eta _ { 2 } \mathrm { c } ^ { 2 } } \frac { 1 } { \mathbf { M } _ { \odot } } \mathbf { S } } \end{array}
+$$
+
+我们在计算中选取△v=1GHz，△θ=0.04π（相当于总空间的1%)；计算n=²时，选取白矮星的磁场 $\mathbf { B } _ { \mathrm { w D } } \approx 3 { \times } 1 0 ^ { 8 } \mathbf { G }$ （在超过 100 个白矮星中发现，磁场在 $1 0 ^ { 3 } \mathrm { G }$ 到$\boldsymbol { 1 0 ^ { 9 } \mathrm { G } }$ 之间)，大气的平均质量密度 $\overline { { \rho } } = 1 0 ^ { 3 } \mathrm { g } c m ^ { - 3 } ;$ ：计算 $\mathrm { \Delta D _ { L } }$ 时选取宇宙学参数$\mathrm { H } _ { \scriptscriptstyle 0 } = 6 9 . 6 , \Omega _ { \scriptscriptstyle M } = 0 . 2 8 6 , \Omega _ { \scriptscriptstyle \nu a c } = 0 . 7 1 4 _ { \scriptscriptstyle  { c l l } }$
+
+# 观测数据和结论
+
+CHIME卫星作为极好的FRBs探测器，发射之后探测到大量的FRBs，同时也大大增加了重复FRBs的数量，改变了以前重复FRBs 数量过少的情况。我们这里共收集了19个重复FRBs以及它们的爆发次数，如表1所示。目前为止，FRB121102仍然是爆发次数最多的一个重复 FRBs，我们文中共收集了FRB121102 的82 次爆发[8.10]。对于
+
+表1：19个重复暴及这些暴的爆发次数。
+
+Table1.Nineteen repeating FRBs and the burst numbers.   
+
+<html><body><table><tr><td>Source</td><td>Name</td><td>Nbursts</td><td>Ref.</td><td>Source</td><td>Name</td><td>Nbursts</td><td></td><td>Ref.</td></tr><tr><td>1</td><td>FRB121102</td><td>82</td><td>8,10</td><td></td><td>11</td><td>FRB190208</td><td>2</td><td>6號</td></tr><tr><td>2</td><td>FRB180916</td><td>28</td><td>5</td><td></td><td>12</td><td>FRB190604</td><td>2</td><td>6號</td></tr><tr><td>3</td><td>FRB180814</td><td>6號</td><td>5</td><td></td><td>13</td><td>FRB181017</td><td>3</td><td>6號</td></tr><tr><td>4</td><td>FRB181030</td><td>2</td><td>5</td><td></td><td>14</td><td>FRB180908</td><td>4</td><td>6號</td></tr><tr><td>5</td><td>FRB181128</td><td>2</td><td>5</td><td></td><td>15</td><td>FRB190117</td><td>5號</td><td>6號</td></tr><tr><td>6號</td><td>FRB181119</td><td>3</td><td>5</td><td></td><td>16</td><td>FRB190110</td><td>3</td><td>6號</td></tr><tr><td>7</td><td>FRB190116</td><td>2</td><td>5</td><td></td><td>17</td><td>FRB190417</td><td>3號</td><td>6號</td></tr><tr><td>8號</td><td>FRB181017</td><td>2</td><td>5</td><td></td><td>18</td><td>FRB190212</td><td>2</td><td>6號</td></tr><tr><td>9</td><td>FRB190209</td><td>2</td><td>5</td><td></td><td>19</td><td>FRB190907</td><td>3</td><td>6號</td></tr><tr><td>10</td><td>FRB190222</td><td>2</td><td>5</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+另外的18个暴，由于我们研究的焦点是研究连续观测期间两次相邻爆发之间的时间间隔 $\Delta \mathfrak { t }$ 和相邻爆发的前暴的流量F之间的关系，因此只有FRB121102 和FRB180916 这两个暴可以用来解释洛希瓣间歇行为。FRB121102的红移 $\scriptstyle \mathbf { z = 0 . 1 9 2 7 3 }$ ，根据我们选取的宇宙学参数得到光度距离 $\mathrm { D _ { L } } = 9 4 7 . 7 \mathrm { M p c }$ ，FRB 180916的红移为 $\scriptstyle { \mathtt { Z } } = 0 . 0 3 3 7$ ，得到光度距离为 $\mathrm { D _ { L } } = 1 4 9 \mathrm { M p c } .$ 。我们从FRB121102的82次爆发中，得到58个时间间隔，从FRB180916 的28次爆发中得到7个时间间隔，如表2所示（其中FRB121102 的前19个间隔见文[8]中的表1)。根据上面表2和文[8]中表1的观测数据，我们可以得到这两个重复 FRBs 的时间间隔 $\Delta \mathfrak { t }$ 和相邻爆发的前暴的流量F之间的关系，如图1中星星所示（左图表示 FRB121102，右图表示FRB180916)，其中△t是在静止框架下的时间间隔。三条实线分别表示根据方程（3）选取释放能量的效率 $\eta _ { 1 }$ 为0.002，0.02和0.2时理论分析的图。从图中我们都可以看出不管是FRB121102还是FRB180916，它们的观测数据基本上都落在三条理论线的范围内，这可能意味着理论分析和观测是相符的。也就是说中子星-白矮星模型可能可以解释FRB121102 和FRB180916 的重复爆发行为。
+
+# 讨论
+
+FRBs是一种神秘的射电爆发现象，具有明显的宇宙学距离和大量的能量输出。一个白矮星-中子星双星系统的间歇爆发行为可能解释重复FRBs的重复爆发现象。对于包含一个磁化的白矮星和一个具有强偶极磁场的中子星的双星系统，当白矮星充满整个洛希瓣时，物质将会通过内拉格朗日点向中子星转移。当物质到达中子星表面时，磁化的物质可能引起磁重联和发出辐射。但是物质转移的过程中，角动量守恒可能支配着由于引力辐射的向内运动，因此白矮星在一次爆发之后可能被踢开，系统重新变成独立的。
+
+表2：FRB121102和FRB180916连续探测的间隔   
+Table2.Intervals in continuous observation of FRB 1211O2 and FRB 180916   
+
+<html><body><table><tr><td>Interval mumber</td><td>Date</td><td>Fluence (Jy ms)</td><td>Time interval (s）</td><td></td><td>Interval mumber</td><td>Date</td><td>Fluence (Jy ms)</td><td>Time interval (s）</td></tr><tr><td colspan="7">Thirty-nine intervals of FRB 121102</td><td></td><td></td></tr><tr><td>20</td><td>57644.41107095</td><td>0.8</td><td>263.7</td><td></td><td>40</td><td>57645.41746635</td><td>0.08</td><td>37.2</td></tr><tr><td>21</td><td>57644.41412264</td><td>0.11</td><td>65.2</td><td></td><td>41</td><td>57645.41789646</td><td>0.09</td><td>204.6</td></tr><tr><td>22</td><td>57644.41487777</td><td>0.09</td><td>124.1</td><td></td><td>42</td><td>57645.42026495</td><td>0.24</td><td>189.1</td></tr><tr><td>23</td><td>57644.41631374</td><td>0.14</td><td>1197.1</td><td></td><td>43</td><td>57645.42245398</td><td>0.13</td><td>146.1</td></tr><tr><td>24</td><td>57644.43016917</td><td>0.09</td><td>0.1</td><td></td><td>44</td><td>57645.42414482</td><td>0.08</td><td>411.2</td></tr><tr><td>25</td><td>57644.43017041</td><td>0.16</td><td>179.0</td><td></td><td>45</td><td>57645.42890382</td><td>0.14</td><td>148.4</td></tr><tr><td>26</td><td>57644.43224169</td><td>0.11</td><td>566.1</td><td></td><td>46</td><td>57645.43062148</td><td>0.09</td><td>73.9</td></tr><tr><td>27</td><td>57644.43879399</td><td>0.19</td><td>4.3</td><td></td><td>47</td><td>57645.43147735</td><td>0.09</td><td>806.7</td></tr><tr><td>28</td><td>57644.43884419</td><td>0.15</td><td>410.0</td><td></td><td>48</td><td>57645.44081363</td><td>0.22</td><td>316.8</td></tr><tr><td>29</td><td>57644.44358903</td><td>0.07</td><td>276.3</td><td></td><td>49</td><td>57645.44447994</td><td>0.1</td><td>37.9</td></tr><tr><td>30</td><td>57644.44678710</td><td>0.03</td><td>81.2</td><td></td><td>50</td><td>57645.44491850</td><td>0.25</td><td>235.2</td></tr><tr><td>31</td><td>57644.44772650</td><td>0.4</td><td>189.0</td><td></td><td>51</td><td>57645.44764127</td><td>0.17</td><td>100.3</td></tr><tr><td>32</td><td>57644.44991454</td><td>0.07</td><td>146.0</td><td></td><td>52</td><td>57645.44880186</td><td>0.14</td><td>102.3</td></tr><tr><td>33</td><td>57644.45160445</td><td>0.22</td><td>248.1</td><td></td><td>53</td><td>57645.44998606</td><td>0.24</td><td>0.0</td></tr><tr><td>34</td><td>57644.45447648</td><td>0.6</td><td>294.3</td><td></td><td>54</td><td>57645.44998637</td><td>0.12</td><td>297.1</td></tr><tr><td>35</td><td>57644.45788221</td><td>0.028</td><td>720.5</td><td></td><td>55</td><td>57645.45342520</td><td>0.2</td><td>18.4</td></tr><tr><td>36</td><td>57644.46622129</td><td>0.2</td><td>161.8</td><td></td><td>56</td><td>57645.45363807</td><td>0.3</td><td>731.6</td></tr><tr><td>37</td><td>57645.41108794</td><td>0.2</td><td>48.6</td><td></td><td>57</td><td>57645.46210567</td><td>0.27</td><td>179.9</td></tr><tr><td>38</td><td>57645.41165066</td><td>0.17</td><td>172.2</td><td></td><td>58</td><td>57645.46418755</td><td>0.09</td><td>886.4</td></tr><tr><td>39</td><td>57645.41364375</td><td>0.13</td><td>330.3</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="9">Seven intervals of FRB 180916</td></tr><tr><td>1</td><td>58426.29413444</td><td>>2.8</td><td>583.1</td><td></td><td>5</td><td>58639.70267121</td><td>>7.0</td><td>386.0</td></tr><tr><td>2</td><td>58621.75641235</td><td>1.0</td><td>443.3</td><td></td><td>6</td><td>58720.49302597</td><td>24</td><td>215.3</td></tr><tr><td>3</td><td>58622.74024356</td><td>>1.3</td><td>1115.8</td><td></td><td>7</td><td>58720.49551860</td><td>4.2</td><td>101.8</td></tr><tr><td>4</td><td>58622.75315853</td><td>3.1</td><td>108.7</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+![](images/33a70297be4259fdb3749c2f9f2a806948fe36b1573a7417c3422ae2072d1260.jpg)  
+图1FRB121102（左）和FRB180916（右）理论和观测上相邻两次爆发的时间间隔和相邻爆发的前暴的流量关系图（ $\Delta t - F$ ）的比较。三条实线分别表示不一样参数下理论分析的图，星星代表观测结果。
+
+Figure 1Comparison of analyses with observations in the $\Delta t - F$ diagram of FRB 121102 (left) and FRB 180916 (right). The three solid lines represent the analytic relation of the different parameters.The stars denote the observational results.
+
+当双星系统由于引力辐射重新变成半独立结构的时候才会出现下一次爆发，重复吸积过程，然后磁重联重复。这个爆发的时间尺度被认为与磁重联的时间尺度一致，而两次相邻爆发的时间间隔来自于它与第一次爆发的产生的质量转移之间的关系。我们的焦点是研究两次相邻爆发之间的时间间隔△t与相邻爆发的前暴流量F之间的关系。按照该模型，根据公式（1）我们知道如果一次爆发过程所对应的物质转移越多，这时相应的白矮星就被弹开的越远，等待的时间就越长；同时在红移已知的情况下，我们可以根据关系式（2）得到这次爆发的流量越大（见图1理论线)。观测上，我们根据 FRB121102 的 82次重复爆发得到58组Δt和F，根据FRB180916的28次重复爆发得到7组Δt和F（见图1的星星)。我们发现大部分观测结果都处于三条理论线之间，即：观测和理论数据基本上是相符的，这个结果意味着这样一个间歇式的洛希瓣外流机制可能可以解释重复FRBs的重复爆发行为。图1中2016年9月20日的两次相邻爆发偏离理论性比较远，但是这个点流量数据的正确性有待斟酌[8]。
+
+目前为止，对于重复FRBs的物理起源问题有很多种理论模型的解释，但是由于观测数据的有限性，一直没办法确认最终的模型。我们相信随着CHIME/FRB和 SKA望远镜的观测，射电天文学将进入一个充满希望的时代。当更多数据的获得成为可能时，我们就可以有效地消减现有的物理模型。另外我们的模型对上面两个重复暴进行解释的过程中，需要设定多个参数。随着更多重复暴以及同一重复暴更多的观测，我们将获得更多数据对这个理论进行检验。
+
+致谢 感谢.
+
+# 参考文献
+
+1.余秋雨，刘志杰，王培．快速射电暴的数据统计．天文研究与技术[J]．2019，16(2): 167-177   
+2. Chatterjee S,Law C J, Wharton R S,et al. A direct localization of a fast radio burst and its host. Nature[J], 2017, 541:58-61   
+3. Marcote B, Nimmo K, Hessels W T, et al. A repeating fast radio burst source localized to a nearby spiral galaxy, Nature[J], 2020, 577,7789,190-194   
+4. The CHIME/FRB Collaboration et al. CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources. ApJL[J], 2019, 885,1,L24-49   
+5. Yang H, Zou Y C. Orbital-induced spin precession as an origin of periodicity in periodically-repeating fast radio bursts. arXiv e-prints arXiv:2002.02553 (2020)   
+6. The CHIME/FRB Collaboration et al. Nine new repeating fast radio burst sources from CHIME/FRB.arXiv e-prints arXiv:2001.03595 (2020)   
+7. Gu W M,Dong Y Z,Liu T, et al. A neutron star-white dwarf binary model for repeating fast radio burst121102,ApJ[J], 2016, 823,L28(5pp)   
+8．林一清，程再军，甘亮勤．重复快速射电暴FRB121102白矮星和中子星双星模型的 再研究．中国科学：物理学，力学，天文学[J]，2018,48(2):029501   
+9.King A. Gamma-ray burst models. Philosophical Transactions of the Royal Society of London Series A[J], 2007, 365:1277-1280   
+10. Gourdji K, Michilli D, Spitler L G, et al. A sample of low energy bursts from FRB 121102. ApJL[J],2019,877,19(12pp)
+
+# the White Dwarf- Neutron Star Binary Model of Repeating FRBs
+
+Lin Yi-Qing Cheng Zai-Jun
+
+Fujian Key Laboratory of Communication Network and Information Processing, Xiamen
+
+University of Technology, Xiamen 361024, China
+
+School of Optoelectronic & Communication Engineering, Xiamen University of Technology, Xiamen 361024, China
+
+Abstract: Fast Radio Bursts (FRBs) are transient and bright radio pulses from cosmological origins, which have two types: repeating FRBs and non-repeating FRBs .A compact binary system composed of a neutron star with a strong bipolar magnetic field and a magnetic white dwarf may be able to explain the repeated behavior of repeating FRBs .When the white dwarf fills its Roche lobe, mass transfer will occur through the inner Lagrange point to the surface of the neutron star. After an explosion, the white dwarf may be kicked away,and accreted again in the evolution process to realize the phenomenon of repeated explosion. Based on the observation data of repeating FRBs 121102 and 180916, we studied the relationship between the time interval of two adjacent bursts and the fluence of the subsequent burst in the neutron star-white dwarf binary model.By comparing the theoretical values with the observed values, we confirmed that such an intermittent outflow mechanism of Roche lobe may explain the repeated behavior of repeating FRBs.
+
+Key word: Fast Radio Burst, white dwarf, accretion, gravitational radiation, magnetic reconnection
+
+PACS number(s): 97.10.GZ, 95.85.Sz, 96.86.Iv, 97.20.Rp doi: 10.1360/SSPMA2014-

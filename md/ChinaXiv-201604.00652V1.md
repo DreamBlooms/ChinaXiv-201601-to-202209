@@ -1,0 +1,214 @@
+# DROID开源工具在长期保存系统格式识别中的应用
+
+王玉菊吴振新孔贝贝 付鸿鹄(中国科学院文献情报中心 北京 100190)
+
+摘要：【目的】在数字资源长期保存系统(DPS)中应用开源格式识别工具获取复杂对象的格式信息。【应用背景】在现有开源工具的基础上，为满足DPS的实际需求、保障效率和执行效果，需选择合适的工具进行二次开发和集成应用。【方法】分析比较现有两种常用工具，选取DROID作为DPS的格式识别工具，同时针对DPS 效率要求，提出选用DROID 批量格式识别的处理思路，并对其进行有效封装。【结果】将DROID封装为“DPS的批量格式处理模块”并在DPS格式识别及技术元数据抽取中得到实际应用。【结论】DROID是一个优秀的开源工具，其自动批处理特性基本满足DPS格式处理需求。
+
+关键词：格式识别 长期保存 复杂对象分类号：TP393
+
+网络时代，知识和数据载体已从传统的印本形式向数字化形式转变，而每种数字化的资源都有其独特的格式，英国DCC(Digital Curation Center)在其《数字保存指南》[1](Digital Curation Manual)中，专门针对文件格式问题指出，“格式是数字对象的基本特征，它在很大程度上决定了数字对象的有效性，没有适当的格式，无法识别数字对象的内容，数字对象就是一组无意义的比特流。"随着时间的推进，数字对象的格式不可避免地会过时，为维护数字对象的长期可生存能力、可呈现能力和可理解能力，格式迁移作为一种有效的保存策略，被众多项自所采用，并根据不同的实践需求实施了不同的格式管理措施。技术元数据作为长期保存元数据的一部分，既是格式管理的核心内容，又是数字对象格式迁移的基础。而在目前的数字资源长期保存活动中，要保存的数字对象已不再是单纯的PDF文件，涉及到音频、视频、图片、文本等多种文件格式(本文统称这些对象为复杂对象)，如何正确有效获取复杂对象的格式、版本等信息，并把这些信息作为技术元数据进行长期保存和管理也成为长期保存系统需要解决的关键问题。
+
+国内外提供多种数字对象格式识别工具，用来获取不同格式数字对象的基本信息、格式信息、可依赖环境信息等，很多机构也根据实际需求选择合适的格式识别工具进行格式管理。中国科学院文献情报中心数字资源长期保存系统(DPS)在研发过程中也制定了相关的格式管理策略，利用现有格式识别工具对所有的文档进行格式注册管理并定期进行格式跟踪和监测。本文就是基于DPS的这些实际需求，重点探讨了如何选择符合要求的格式识别工具，并通过二次开发封装以更好地保障保存系统的效率和执行效果。
+
+# 1常用格式识别的主要工具及其选型
+
+当前在长期保存系统中常用的格式识别工具有JHOVE和DROID两种。简单对二者进行介绍，并从应用环境、使用方式、识别文件类型、识别信息、结果集呈现格式、可识别文件类型的扩展性、批量处理的效率等对二者进行对比分析，然后从抽取技术元数据信息和可识别文件类型的角度考虑，进行工具选型。
+
+# 1.1 主要工具
+
+JHOVE[2] (JSTOR/Harvard Object Validatio Envi-ronment）是美国哈佛大学和JSTOR共同研制的数字对象管理工具，主要用于数字对象的格式标识、验证和特征描述。其中，格式标识就是确定一个数字对象的格式，回答“有一个数字对象，那么是什么格式？"这问题；格式验证就是确定一个数字对象与其他的格式描述的吻合程度，回答“有一个数字对象，它的格式是F，是吗?"这一问题；格式特征描述是确定一个给定格式的数字对象的重要特征，回答“有一个数字对象，它的格式是F，那么它的显著特征是什么?"这一问题。JHOVE是基于Java的开源工具，通过12个标准模块支持文件格式的标识、验证和特征描述。当前JHOVE的最新版本为1.6，它提供图形界面和命令行两种使用方式，可选择对单个文件处理，也可对文件夹进行递归处理。目前，DATISS2[3]应用JHOVE进行文件格式验证并提取技术元数据、Portico[4]应用JHOVE提取验证状态和技术元数据、UAM[5应用JHOVE进行文件格式识别并提取技术元数据、DIAS[应用JHOVE抽取技术元数据。
+
+DROID[7](Digital Record Object IDentification)是2005年，由英国国家档案馆数字资源长期保存小组为了识别并存储其长期保存数字对象格式而开发的数字对象自动识别工具。DROID也是基于Java语言的开源工具，使用数字对象的内部和外部特征来识别数字对象的文件格式、版本及依赖环境等信息，这些数字对象特征信息都存储在一个 XML 格式的“特征文档"(SignatureFile)中，“特征文档"由PRONOM(在线技术注册中心)定期更新维护，DROID通过互联网方式实时地到PRONOM上抓取最新的"特征文档"用作格式识别，当前提供的最新“特征文档"版本为V77。DROID的最新版本为6.1.3，需与互联网连接，以便于“特征文档"的自动更新。此工具操作简单，可选择文件或文件夹进行识别，只需几步即可完成对文件格式的识别，识别速度快、可批量实现对数字文档的识别，目前在 DATISS2[3]、KB Preservation Manager、Planets[8]、PRESERV9等项目应用DROID进行格式识别。
+
+# 1.2 工具选型
+
+主要从JHOVE和DROID的应用环境、使用方式、识别文件类型、识别信息、结果呈现格式等方面对二者进行对比分析，如表1所示：
+
+表1JHOVE 和 DROID 主要特征对比  
+
+<html><body><table><tr><td>比较项</td><td>JHOVE</td><td>DROID</td></tr><tr><td>应用 环境</td><td>跨平台,JRE1.6.0 及其以上， 可应用在Unix,Windows 或 OSX平台上</td><td>跨平台,JRE1.6.0以上，最小512MB 内存，需与互联网连接，可应用在Windows2000、 XP、Vista、Macintosh OS X、Red Hat Enterprise Linux、SUSE、Debian、Ubuntu 平 台上</td></tr><tr><td>可识别 文件类型</td><td>PDF、TXT、GIF、JPEG、 JPEG2000、TIFF、AIFF、 WAV、HTML、XHTML、</td><td>DBF、DOC、Lotus Formats、MS Works Formats、OpenOffice Formats、MDB、MPP、 PDF、PPT、PST、PUB、RTF、StarOffice Formats、TXT、VSD、WPD、WS and Other WordStar Formats、XLS、BIFF BMP、CDR、Corel Formats、DWG、AutoCad Formats、 DXF、SD、SGTIFF、GIF、JPEG、JPEG20O、G、TFF.rAFAS、PCX、M、 MOV、MP3、MPG、Real Audio (RM/A)、WAV、GML、HTML、ODF、XML、XHTML、 JS、TAR(Tape Archive Format)、ZIP 等</td></tr><tr><td></td><td>路径或URI、最近修改日期、 识别信息大小、格式、格式版本、MIME Type、格式配置文件、校验码</td><td>路径或URI、最近修改日期、类型、大小、名称、扩展名、扩展名是否匹配、格式识 别数量、格式名称、格式版本、PRONOM唯一标识符、MIME Type、识别方法、MD5码、 文件状态</td></tr><tr><td>结果文件 类型</td><td>TEXT, XML</td><td>XML,CSV</td></tr></table></body></html>
+
+从表1中分析可见，二者都是跨平台的，都能识别文本、PDF、音视频、图片等文件类型，都能提供XML识别结果集。JHOVE除了提供格式识别外，还具有格式验证、格式特征描述的功能，能获取文件相关的软件信息，其抽取的特征属性也更丰富；对于JHOVE可以识别的格式类型，JHOVE和DROID在性能表现方面基本相当，但对于JHOVE无法验证的格式类型，JHOVE与DROID相比识别性能会有所下降。
+
+相对JHOVE而言，DROID 识别的文件类型更多，DROID与PRONOM[10技术信息注册中心联盟，对当前无法识别的文件格式，支持用户在线自助注册要扩展的文件类型，PRONOM将新增格式定期更新到“特征文档"中，同时还可以通过PRONOM唯一标识符到PRONOM上获取文件的生产软件、生产商、文件生命周期、迁移方法等信息。另外，DROID本身是因长期保存数字对象存储而开发的，其提供的自动批量格式识别更接近笔者的需求，因此从多角度综合考虑，DROID工具是一种更为合适的选择。
+
+# 2DROID主要功能原理及其识别实例
+
+# 2.1 主要功能原理
+
+DROID 提供 Extension、Signature 和 Container 三种识别方法。
+
+(1）Extension[11]识别是完全通过文件扩展名来识别文件格式，因为文件可以选择任何方式来命名，所以这种识别方法不是很可靠，同时Extension识别也无法识别到格式的版本级别，有时同一文件还会识别出多种格式结果，因此该识别方式比较粗泛。
+
+(2) Signature[11]识别是针对一类特定数字对象，这类数字对象的内部包含格式的特征属性，Signature识别方法通过数字对象的内部特征来识别数字对象格式及版本，因为数字对象的内部特征是唯一的、且不易被外界改变，因此这种识别模式非常有效可靠。
+
+(3）Container[11]识别是通过识别内嵌数字对象来获取文件格式和版本信息，以OpenDocument为例，一个OpenDocument是一个包含多个XML、Images等数字对象的ZIP文件，Container识别方法将识别该数字对象的格式是 OpenDocument 而不是 ZIP。Container识别方式不仅对容器进行识别(比如ZIP)，它还将压缩文件打开，对压缩包内的数字对象进一步识别，这种识别方法底层也是使用Signature方式，因此Container也是一种非常可信的识别模式。
+
+对于上述三种识别方式，DROID优先选用Signature，如果Signature识别未获取到数字对象格式，则依次选用Container、Extension识别方法来完成文件格式的识别。
+
+DROID既提供对单个文件的格式识别，也提供对一个目录的格式识别，即DROID 是以一个文件或目录作为输入，识别出文件的路径或URI、最近修改日期、类型、大小、名称、扩展名、扩展名是否匹配、格式识别数量、格式名称、格式版本、PRONOM唯一标识符、MIMEType、识别方法、MD5码、文件状态信息，最后以XML、CSV、Printer-FriendlyFormats 格式提供给第三方使用。
+
+DROID提供了GUI和命令行两种使用方式，能识别1000多种文件格式，对无法识别的文件格式，DROID通过PRONOM提供用户在线自助扩展功能。下面以命令行方式为例，分析DROID工具的整个识别过程。
+
+# 2.2 识别过程分析
+
+DROID工具提供的API都是命令行方式，它是一种伪API，不是真正意义上的API接口，本文中简称DROID-API，该接口可单独使用，也可简单与其他系统集成。DROID-API接口不允许所有的操作集中在一个单独的命令行完成，需要分两个阶段完成整个文件的格式识别。图1是使用DROID-API接口对一个文件或文件夹进行识别的全流程。
+
+# (1）文件格式识别
+
+第一阶段是创建新的Profiles并将格式识别结果保存到DROID 的内部文件。
+
+DROID首先为即将识别的文件或文件夹自动创建一个空白Profiles，一个Profiles 是一个单独的目录该目录下包含最新版本的SignatureFile、数据库、索引、日志、Profile.xml文件，Profiles主要用来管理并记录格式识别过程使用的SignatureFile、识别过程和识别结果。图2是一个Profiles的目录结构。
+
+其中，Profile.xml文件内容记录了Profiles 的唯一标识、创建日期、使用的SignatureFile文件及其版本、是否启用MD5等，详细内容如图3所示。
+
+idb log container-signature-20131112. xml seg0 DROID_SignatureFile_V72.xml tmp profile. xml db.1ck service.properties
+
+<?xml version="1.0"encoding="UTF-8" standalone="yes"?>   
+<ProfileId="1392257852203"> <CreatedDate>2014-02-13T10:17:32.203+08:00</CreatedDate>   
+- <ProfileSpec> <Resources />   
+</ProfileSpec>   
+<SignatureFileVersion>72</SignatureFileVersion> <ContainerSignatureFileVersion>20131112</ContainerSignatureFileVersion> <Throttle>0</Throttle> <SignatureFileName>DRoID_SignatureFile_V72.xml</SignatureFileName> <ContainerSignatureFileName>container-signature-20131112.xml</ContainerSignatureFileName> <GenerateHash>false</GenerateHash> <ProcessArchiveFiles>true</ProcessArchiveFiles> <MaxBytesToScan>65536</MaxBytesToScan> <MatchAllExtensions>false</MatchAllExtensions>   
+</Profile>
+
+![](images/4ca6038b343a1236a65ce306268295dfacb77f913ffad8369fba2baec1d87834.jpg)  
+图1 DROID-API识别过程  
+图2Profiles的目录结构   
+图3 Profile.xml的详细内容  
+图4加载待识别源后的Profile.xml内容  
+图5DROID 的识别结果
+
+Profiles创建完成后，将要识别的文件或文件夹加载到上述刚刚创建的Profile.xml中，在加载过程中获取文件名、扩展名、路径、URI、大小、最新更新日期追加到Profile.xml文件中，以文件11_2007_Article_7124.xml和 expense.xls为例来展示DROID工具的“Addresource"的过程，如图4所示：
+
+2257852203 dDa: 2014-02 10:17:32.203+08:00</CreatedDate> Name>Untitled /Na ProfileSpe ource Size 7574</Size LastModifiedDate>2010-10-01T08:29:30+08:00</LastModifiedDate> xml</Exb Article_7124.xml</Name> Uri>file Sdata/check/Springer/1 _Springer20121012_170518/J0U=00011 Path> ODPSdata/check/Springer/1_Springer20121012_170518/JoU=00011/V( 2012 30:3 08:00</LastModifiedDate> slon>xls</Ext <Name xpense.xls</Name> <Un>filei/D:/expense.xls</Un> Path: D:/ expense.xls</Path> </Fie   
+</Pro VIRGIN</State></3 ontainerSignatureFileVersion>20131112</ContainerSignatureFileVersion> <Filter Enabled>false</Enabled> Narrowed>false</Narrowed> /Filt hrottu>O</Throt>DROID _SlgnatureFile_V72.xml</SignatureFileName> JreFileNe -signature-2o13i112.xml</ContainerSignatureFileName> /ProcessArchiveFiles> Ma tesToSc 65536</MaxBytesToSc   
+<MatchAllExtensions>false</MatchAllExtensions> ofile
+
+DROID对已经加入到Profile.xml中的文件或文件夹进行格式识别，在此，要注意一旦开始对文件进行识别，不能再向刚刚创建的Profiles中再添加任何文件和目录，如果还想识别其他的文件，需要重新创建一个Profiles。
+
+如上所述，DROID完成了指定文件或文件夹的格式识别，并将识别结果保存到.droid格式的内部文件，完成第一阶段的识别工作。
+
+# (2）结果输出
+
+第二阶段是将识别结果通过Filter、Report、Export的形式转为CSV或XML格式的外部结果集文件供第三方使用。
+
+以Export方式为例，即使用下述命令：“droid-p.droid文件路径-e.csv文件绝对路径"，将识别结果保存到CSV文件中，得到样例结果如图5所示，到此，完成整个文件的格式识别。
+
+第三方如想使用DROID识别出的结果集，需要对CSV或XML文件进行解析获取需要的格式信息即可。
+
+<html><body><table><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td></td><td>I</td><td>T</td><td>R</td><td>L</td><td>1</td><td>N</td><td>0</td><td>P</td><td>Q</td></tr><tr><td>ID</td><td>PARENT_IDURI</td><td></td><td></td><td>FILE_PATHNAME</td><td>ETHOD</td><td>STATUS</td><td>SIZE</td><td>TYPE</td><td>EXT</td><td></td><td>LAST_MODIEXTENSIONMD5_HASH FORMAT_CCPUID</td><td></td><td></td><td></td><td></td><td></td><td>MIME_TYPEFORMAT</td></tr><tr><td>1</td><td></td><td>file:/D:/D:\ODPSda11_2007_ASignatureDone</td><td></td><td></td><td></td><td></td><td></td><td>7574File</td><td></td><td>xml</td><td>2010-10-0FALSE</td><td></td><td></td><td></td><td></td><td></td><td>1fmt/101appicatiExtensi</td></tr><tr><td>2</td><td></td><td>file:/D:/D:expenexpense.SignatureDone</td><td></td><td></td><td></td><td></td><td></td><td>5255File</td><td></td><td>xls</td><td>2012-11-TRUE</td><td></td><td></td><td></td><td></td><td></td><td>1fmt/100text/htmlHyperte</td></tr></table></body></html>
+
+# 3DROID在长期保存系统中的集成应用
+
+中国科学院文献情报中心数字资源长期保存系统在数据格式接收中有自己的政策要求。
+
+(1）要求数据资源提供商按业界公共的或通用的标准格式提供元数据、全文数据以及附加资料数据以便建立公共的格式解析、内容检验和数据转换程序;(2）除非因特殊原因无法提供公共格式数据、且得到中国科学院文献情报中心同意后，才允许数据资源提供商提供不同于公共格式的数据格式，并且不允许对方提供完全私密的格式。
+
+基于以上政策要求，中国科学院文献情报中心数字资源长期保存系统(DPS)目前接收存档数据特点是：数据量大，同时涉及到PDF、图片、音视频、表格、文本等多种格式的数字对象。而DPS是以每次接收的SIP集合为处理对象，每个SIP集合少则包含上千、多则包含上百万、上千万个数字对象，DPS需要对每个数字对象进行格式识别并抽取技术元数据进行长期保存。
+
+如果在DPS中直接使用DROID-API接口，根据现有存档流程，需要为每个数字对象生成一个格式为.droid的中间文件，再将该文件转换成格式为CSV或XML的最终结果集文件，最后对结果集文件实现解析获取需要的技术信息进行存档，这种使用方式会反复创建、读写中间文件，从减少对中间文件的读写操作、提高DROID识别效率上考虑，笔者调整了DPS的存档流程，并对DROID源码进行二次封装和集成，即在存档流程之前增加"DROID批量格式识别"过程然后将其结果集应用在DPS中，具体流程如图6所示：
+
+![](images/baf7d46c0a30583402130ce69162b8d14484a4f0d7205c9df37ec5c0783fb38a.jpg)  
+图6 DROID在DPS应用
+
+# (1）使用DROID完成批量格式识别
+
+调整了DPS的存档流程，即存档流程之前增加“批量格式识别"处理过程，将DROID第一阶段和第二阶段的DROID-API进行封装，使其一次完成批量格式识别和结果输出。例如：一批数据有4万篇文章、每篇文章有1个附件，即将上述8万个文件一次性进行批量格式识别，生成可供第三方使用的.csv结果集文件。即调用一次DROID-API，创建1个Profiles、打开、关闭一次Profiles，一次将内部结果.droid转换为.csv结果集，批量识别方式减少了文件的创建、打开、关闭操作，提高了处理效率，减小了系统开销。
+
+(2）识别结果集在DPS中的应用
+
+针对上述生成的.csv格式的结果集文件，如在DPS中直接使用，以上述数据为例，需要进行8万次打开、读取文件操作，必然增加系统开销。因此，考虑将.csv文件内容导入数据库临时表，在存档过程中以文件的FILEPATH"为检索条件，从临时表中唯一获取文件格式信息进行长期保存。由于数据库读写技术相对成熟完善，导入临时表后，可为需要检索的关键字段建立索引，提高检索效率，相比较对.csv文件的操作，可大大提高检索速度及准确度。
+
+# 4DROID的评价指标分析及验证
+
+笔者结合数字资源长期保存项目实际需求，在使用DROID进行格式识别实验时，着重从以下6个评价指标对DROID进行分析和验证。
+
+# (1）识全率
+
+格式识别工具能识别的文件类型是目前项目比较关注的一个评价指标。
+
+DROID使用文件内部和外部特征来识别文件格式，这些数字对象特征信息都存储在一个XML格式的"特征文档"中，“特征文档"由英国国家档案馆定期进行更新，目前V77的"特征文档"中包含1400多种文件格式。同时实验表明，自前DPS涉及到的 $9 9 \%$ 以上的文件格式都出现在“特征文档"中。
+
+# (2）可扩展性
+
+DROID在新增文件格式和对已有文件格式特性的更新上具有可扩展性。
+
+DROID能识别的文件格式都记录在“特征文档"中，可以通过新增或更新“特征文档"进行文件格式的新增和更新。
+
+# (3）识别粒度
+
+DROID格式识别的粒度到PUID(PRONOMUniqueIDentifiers)和MIME Type，它可以通过PUID直接关联到“在线技术注册中心”。
+
+# (4）处理嵌套对象的能力
+
+不是所有的工具都能够识别嵌套对象，目前EPUB 和 Open Document Format都使用ZIP 作为容器，能否识别嵌套对象是评价识别工具非常必要的一个指标。实验证明，DROID能识别内嵌在ZIP中的所有文件，并且将其识别信息包含在识别结果集中。
+
+# (5）处理复合对象的能力
+
+能否识别复合对象也是评价格式识别工具非常重要的一个指标。测试证明，DROID 能识别EPUB 和OpenDocumentFormat、HTML复合对象。
+
+# (6）计算性能
+
+DROID在计算速度、内存和系统资源使用上满足基本的要求，主要从单文件识别和批量文件识别进行
+
+实验计算性能对比，如表2和表3所示：
+
+表2单文件识别使用时间对比  
+
+<html><body><table><tr><td>文件数</td><td>单个文件最小 单个文件平均 执行时间 (秒)</td><td>执行时间 (秒)</td><td>单个文件最 大执行时间 (秒)</td><td>总耗时 (秒)</td></tr><tr><td>11 892</td><td>11.19</td><td>11.90</td><td>23.02</td><td>141 514</td></tr></table></body></html>
+
+表3批量文件识别使用时间对比  
+
+<html><body><table><tr><td>文件数</td><td>识别耗时(秒)</td><td>生成CSV耗时(秒)</td><td>总耗时(秒)</td></tr><tr><td>11 892</td><td>193</td><td>22</td><td>215</td></tr></table></body></html>
+
+实验表明，DROID在批量格式识别时的计算性能相当不错，能满足大数据量的文件格式识别需求。
+
+# 5结语
+
+总体来说，DROID是一个优秀的开源工具，在应用中，仍需要更深入分析其执行原理和源码，有效利用它的工作机制和方式，这样才会在集成过程更高效、健壮地使用DROID进行文件格式识别，也能使DROID的优势得到更大的发挥。
+
+(1）大批量数据格式识别应选用DROID批量格式识别方式
+
+DROID有单文件识别和批量文件识别两种方式，从DROID的计算性能分析可见，在大批量数据对象识别中DROID工具以批量处理为优势。
+
+(2）注意DROID不同版本之间的差别
+
+在实验中还发现，使用DROID的V45版的SignatureFile无法正确地完成文件格式的批量识别，将其升级到V72以上版本，才可完成文件格式的批量处理，因此在应用过程中不仅要考虑软件的版本还要注意SignatureFile版本之间的差异，使用过程中要根据实际需求考虑选用合适的版本进行格式识别。
+
+(3）充分考虑系统集成和更新
+
+DROID是一种开源工具，开源社区也在不断进行维护和版本升级。在实际应用中，笔者是把DROID作为一个模块集成到保存系统的存档流程中，从集成模块的后续维护和升级角度考虑，在集成方式上采用整体集成，以确保集成模块随着开源社区不断升级可以一起进行无缝升级。
+
+# 参考文献：
+
+[1] Abrams S.File Formats[OL].[2014-07-15]. http://www.dcc.
+
+ac.uk/resources/curation-reference-manual/completed-chapters/ file-formats.   
+[2] JHOVE-JSTOR/Harvard Object Validation Environment [EB/OL].[2014-07-15].http://jhove.sourceforge.net/.   
+[3] Chapter 4:DAITSS Preservation Services [EB/OL].(2011-10-25). [2014-07-15].https://share.fcla.edu/FDAPublic/DAITSS/ Chapter_4_Preservation_Services.pdf.   
+[4] Portico Content Type Action Plan: Technical Artifacts [EB/OL]. (2009-08-05). [2014-07-15]. http://www.portico.org/digitalpreservation/wp-content/uploads/2011/03/Portico-ContentType-Action-Plan-Technical-Artifacts.pdf.   
+[5] Universal Archiving Module [EB/OL].[2014-07-15].http:// rahvusarhiiv.ra.ee/en/universal-archives-module-2/.   
+[6] Kopal Library for Retrieval and Ingest[EB/OL].(20o9-05-06). [2014-07-15].http://kopal.langzeitarchivierung.de/index_koLib RI.php.de.   
+[7] FileProfiling Tool(DROID)[EB/OL].[2014-07-15].http:// www.nationalarchives.gov.uk/information-management/mana ge-information/policy-process/digital-continuity/file-profiling -tool-droid/.   
+[8] Integrating Planets and Fedora Commons [EB/OL].(2010- 08-11).[2014-07-15]. http://www.planets-project.eu/publications/.   
+[9] Hitchcock S,Hey J,Brody T,et al.Laying the Foundations for Repository Preservation Services [R/OL].(2007-03-07).[2014- 07-15].http://www.portico.org/digital-preservation/wp-content/ uploads/2011/03/Portico-Content-Type-Action-Plan-TechnicalArtifacts.pdf.   
+[10] PRONOM - The Online Registry of Technical Information [EB/OL]. [2014-07-15]. http://www.nationalarchives.gov.uk/ pronom/.   
+[11]DROID:How to Use It and How to Interpret Your Results [OL].[2014-08-18].http://www.nationalarchives.gov.uk/ documents/information-management/droid-how-to-use-it-andinterpret-results.pdf.
+
+# 作者贡献声明：
+
+王玉菊：设计研发方案，源码分析，二次开发，论文撰写，论文修改;  
+吴振新：提出研究命题和优化方案，论文最终版本修订;  
+孔贝贝：性能优化;  
+付鸿鹄：参与源码分析和系统开发。
+
+收稿日期:2014-07-21   
+收修改稿日期:2014-09-22
+
+# Application of DROID About Format Identification in Long-term Preservation System
+
+Wang YujuWu ZhenxinKong BeibeiFu Honghu (National Science Library, Chinese Academy of Sciences,Beijing 10o19o, China)
+
+Abstract: [Objective] Integrate open source file-format identification tool into Digital Preservation System (DPS) to get complex object format information.[Context] Basedon the existing open source tools,to met the practical requirements,the DPS needs choose appropriate tools for application integration.[Methods] Analyze and compare several open source file-format identification tools.According to the practical requirements,DROID has been chosen for the DPS.At the same time to met the efficiency requirements of DPS,an idea of choosing DROID batch format identification of complex objects is proposed.[Results]Batch format processing module which is integrated with DROID is utilized to complete format identificationof complex objects and technical metadata extraction.[Conclusions] DROID is an excellent open source tool, of which the automatic batch processng can meet the requirements of DPS.
+
+Keywords: Format identificationLong-term preservation Complex object

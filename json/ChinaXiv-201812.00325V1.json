@@ -1,0 +1,540 @@
+[
+    {
+        "type": "text",
+        "text": "猪肠道微生物区系的形成及营养调控",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "刘虹王琪刘作华 齐仁立\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（重庆市畜牧科学院，农业部养猪科学重点实验室，养猪科学重庆市重点实验室，重庆",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "402460) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：猪肠道微生物区系的建立是一个非常复杂的过程。微生物与宿主之间在长期的进化与演变过程中形成了一种相互依赖、相互制约的微生态平衡。肠道微生物在宿主动物的生长发育、器官功能、营养代谢、机体免疫等方面发挥了重要作用。微生物区系的形成与动态平衡受到内部和外部多种因素的影响与制约，特别是不同营养素（碳水化合物、蛋白质、脂肪等）对猪肠道微生物菌群的组成具有重要影响。本文着重探讨了猪肠道微生物区系的形成特点和主要营养素对其调控的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：猪；肠道微生物；营养素中图分类号：S828",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，肠道微生物及其代谢产物逐渐成为生命科学领域的研究热点。肠道微生物数量庞大、种类繁多、功能多样化，大量研究揭示肠道微生物对于动物正常的生长发育是不可或缺的。肠道微生物的平衡主要受到遗传背景、疾病和饮食结构的影响。饲粮营养成分是影响动物肠道微生物组成和代谢的重要因素，营养素的来源、水平和不同营养素之间的配比对机体肠道微生物组成均有不同程度的影响。本文对猪肠道微生物的定植和特点及不同营养素对其调控的影响加以综述，以期更好地理解饲粮营养成分调控肠道微生物区系形成与平衡的作用机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1肠道微生物组成及其功能",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "单胃动物的消化道内主要存在3种类型的微生物，分别是细菌、古菌和真核微生物。细菌在数量上占绝对优势，且主要是厌氧细菌[1-2]。动物消化道区域不同微生物菌群的组成存在差异，微生物菌群的多样性和密度从胃到后肠逐渐增加[3]。盲肠是单胃动物体内微生物种类和含量最为丰富的场所，猪每克肠内容物中的微生物数量为 $1 0 ^ { 1 2 } { \\sim } 1 0 ^ { 1 3 }$ CFU，由 $4 0 0 { \\sim } 5 0 0$ 种微生物组成，其中主要以拟杆菌属 $( 8 . 5 \\% { \\sim } 2 7 . 7 \\%$ )和厚壁菌门的梭菌XIV群( $( 1 0 . 8 \\% { \\sim } 2 9 \\%$ ）梭菌Ⅳ群（ $2 5 . 2 \\%$ ）为优势菌群[4-6]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "微生物通过对肠道内特定营养环境的利用，依靠与宿主、种间以及种内的相互作用，形成具有一定稳定性的微生物菌群。稳定的肠道微生物菌群可以在肠上皮细胞表面形成一层菌膜屏障，帮助宿主抵御外来有害菌，或通过争夺营养等方式抑制肠道致病菌的侵入与繁殖[7]。同时，肠道内稳定的微生物菌群通过发酵、降解多糖及合成维生素等多种方式参与宿主营养代谢[8-9]。与普通动物相比，无菌动物的黏膜免疫器官发育迟缓，肠固有层淋巴细胞数量减少。而当无菌动物置于正常有菌条件下饲养后，这些指标得到了明显改善[10]。这说明动物肠道免疫系统的发育与肠道微生物菌群有重要关系。在人和模拟动物上的研究认为，肠道微生物及其代谢产物与多种癌症的产生、糖尿病和肥胖症等代谢疾病的形成、脑和神经的发育等都有密切关系[]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2猪肠道微生物区系的建立",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "早期研究认为，仔猪胚胎时期在母体子宫内处于一种无菌状态，分娩后由于受到母体产道、粪便以及周围环境微生物的影响其肠道开始定植微生物[12]。然而有研究认为仔猪在胚胎时期因吞饮母体羊水，其肠道已经开始定植大肠杆菌、葡萄球菌等微生物[13]。哺乳期仔猪肠道中的优势菌群为乳酸杆菌和链球菌，这与哺乳仔猪的肠道生理特点相适应，有利于更好地利用母乳中的营养成分。断奶仔猪由于饲粮、环境等发生重大改变，其肠道微生物的组成也发生相应变化。随着猪日龄增长，其肠道微生物菌群的稳定性逐渐增强，不同部位微生物菌群的组成存在差异，这与各肠段的结构功能相适应。最终形成了以双歧杆菌、乳酸杆菌等为优势菌群的稳定肠道微生物区系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在猪肠道微生物区系建立的整个过程中，其肠道经历了从无菌 $$ 需氧菌 $$ 兼性厌氧菌 $$ 专性厌氧菌的定植过程。猪肠道内起初充满氧气，随着需氧菌、兼性厌氧菌如葡萄球菌、肠球菌、肠杆菌等的定植，氧气逐渐被消耗殆尽，同时肠道内pH和氧化还原电位被降低，为专性厌氧菌的定植与生存提供了有利条件。因此厌氧菌虽是最后定植，但在数量上占 $9 9 \\%$ 以上，剩余的不到 $1 \\%$ 为兼性厌氧菌和需氧菌。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "不同品种、不同日龄猪肠道微生物的种类有较高相似性，但微生物菌群的分布与数量存在较大差异[14]。在长白猪与梅山猪结肠微生物菌群的对比研究中发现，梅山猪结肠总菌、厚壁菌门和拟杆菌门数量均显著低于长白猪，但厚壁菌门占总菌的比例显著高于长白猪。这可能是由于梅山猪更耐粗饲，对纤维的消化利用率较高，而结肠内主要的纤维降解菌均属于厚壁门菌[15]。随着猪日龄的增长，肠道优势菌的数量和丰度会发生明显变化（表1）[16]。有研究证实，猪对饲粮纤维的消化率随体重增加而提高，不同日龄阶段的猪对纤维利用率的差异主要取决于肠道微生物菌群的发酵能力，成年猪消化道中纤维分解菌的数量是生长猪的6.7倍[17-18]。与此同时，有研究表明猪肠道微生物的多样性也与日龄密切相关（图1）[19]。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c6576a1a4c98973bac18272b9eb240f0547eedb0a7ebffe746c94dc257a4f65c.jpg",
+        "table_caption": [
+            "表1不同周龄猪粪样中微生物含量",
+            "Table 1The fecal microorganism content of pigs at different weeks of age $( n { = } 1 0 )$ （204号 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Table1 10周，试验二 22 周，试验一</td></tr><tr><td colspan=\"5\">项目 10 周，试验一 Items</td></tr><tr><td></td><td>Week 10, trial 1</td><td>Week10,trial2</td><td>Week 22, trial 1</td><td>Week 22, trial 2 (10~22周） Trials 1and 2</td></tr><tr><td></td><td></td><td>23.0 3.6</td><td>4.0</td><td>(10 to 22 weeks) 11.6</td></tr><tr><td colspan=\"5\">普雷沃氏菌属 29.1</td></tr><tr><td>Prevotella</td><td></td><td></td><td></td><td></td></tr><tr><td>产气杆菌</td><td>1.1 0.1</td><td>26.6</td><td>21.9</td><td>10.4</td></tr><tr><td>Anaerobacter</td><td></td><td></td><td></td><td></td></tr><tr><td>链球菌</td><td>5.7</td><td>3.6 2.5</td><td>6.0</td><td>7.4</td></tr><tr><td>Streptococcus</td><td></td><td></td><td></td><td></td></tr><tr><td>乳酸菌</td><td>9.7</td><td>12.2 3.7</td><td>2.7</td><td>7.0</td></tr><tr><td>Lactobacillus</td><td></td><td></td><td></td><td></td></tr><tr><td>粪球菌</td><td>3.4</td><td>3.0 4.3</td><td>4.9</td><td>4.4</td></tr><tr><td>Coprococcus</td><td></td><td></td><td></td><td></td></tr><tr><td>罗氏菌属</td><td>0.6</td><td>0.9</td><td>1.7 0.9</td><td>1.3</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Roseburia</td><td>0.1</td><td>0.0 1.2</td><td>1.6</td><td>0.6</td></tr><tr><td>梭菌属 Clostridium</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.3</td><td>0.4</td><td>0.1 0.1</td><td>0.1</td></tr><tr><td>双歧杆菌</td><td></td><td></td><td></td><td></td></tr><tr><td>Bifidobacterium</td><td>0.0</td><td></td><td></td><td></td></tr><tr><td>拟杆菌</td><td></td><td>0.1</td><td>0.1</td><td>0.1 0.1</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Bacteroides</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b465cc7eea27f11f47d233f70ffd187178ad9c1a70e4e45048fbf7f42e6d5fb1.jpg",
+        "img_caption": [
+            "图1不同日龄猪肠道分类操作单位数量",
+            "Fig.1The operational taxonomic units (OTUs) numbers in pigs’ gut at different days of age "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3营养素对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "宿主动物的饲粮营养成分对肠道微生物的定植和动态变化的影响是十分巨大的。肠道微生物利用宿主动物无法直接消化吸收的饲粮营养成分为自身正常有序的生长与繁殖提供营养条件，同时将分解合成所得的葡萄糖、维生素、脂肪酸、微量元素等回馈于宿主动物。肠道微生物菌群与宿主动物对饲粮营养成分的消化吸收能力紧密相关[20]。反之，宿主动物饲粮营养成分的变化使得被肠道微生物分解利用的底物发生改变，肠道微生物组成也会受到重要影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1碳水化合物对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "碳水化合物是猪代谢的主要能量来源。饲粮粗纤维是一类不能直接被猪肠道消化吸收的碳水化合物，主要包含纤维素、半纤维素和木质素等。饲粮粗纤维对猪肠道微生物组成具有重要影响。Freire等[21l比较了4种不同来源粗纤维对断奶仔猪盲肠挥发性脂肪酸含量的影响，发现大豆壳组的挥发性脂肪酸含量比麦麸、甜菜渣和苜蓿草粉3组分别增加了 $1 1 . 2 \\%$ 、 $30 . 5 \\%$ 和 $2 7 . 2 \\%$ 。同时，有研究发现饲喂高纤维水平饲粮的猪胃肠道微生物活性明显高于饲喂低纤维水平饲粮[22]。以上结果表明，不同来源及不同水平的粗纤维对猪肠道微生物组成的调控作用具有明显差异。不同来源粗纤维引起的效果差异可能主要与粗纤维本身的溶解性、木质化程度和结构有关。粗纤维的可溶性越强，越易被肠道微生物发酵利用，微生物活性也会相应增加。而不同水平粗纤维引起的效果差异可能与影响肠道微生物菌群的方式不同有关。有研究发现，饲喂高水平非淀粉多糖饲粮后猪肠道大肠杆菌多样性先降低后增加，饲喂低水平非",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "淀粉多糖饲粮后得到与之相反的结果[23]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "淀粉作为另一类主要的碳水化合物，可以分为直链淀粉和支链淀粉。淀粉的生物来源、直链与支链淀粉的比例、淀粉颗粒组成、淀粉的糊化程度等均会影响淀粉的生化特性。其中，直链淀粉与支链淀粉的比例是饲料原料选择时考虑的主要因素之一。Regmi等[24]用4种淀粉饲粮（淀粉占饲粮 $70 \\%$ ，饲粮淀粉中直链淀粉含量依次为 $1 \\text{‰}$ 、 $20 \\%$ 、 $28 \\%$ 和 $63 \\%$ ）饲喂仔猪，发现饲喂 $63 \\%$ 直链淀粉含量的饲粮后，猪粪便中双歧杆菌的数量以及总短链脂肪酸与总丁酸产量均显著高于其他3组。直链淀粉结构稳定难以降解，并且易与油脂等化合物结合，故其可消化性低于支链淀粉。未被降解的直链淀粉逃离小肠后进入后肠，作为底物被微生物厌氧发酵产生短链脂肪酸。因此，与支链淀粉相比，肠道微生物更易受到直链淀粉的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "此外，碳水化合物中多种低聚糖对于肠道微生物的平衡具有独特的调控作用。不同的试验证明，低聚果糖、低聚木糖、大豆低聚糖、菊粉等对猪肠道健康具有不同的促进作用，它们作用的主要差异在于被肠道菌群利用程度不同，具体表现在对不同有益菌的增殖程度、有害菌受抑制程度、产酸量和产气量等方面的差异[25-26]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2蛋白质对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究发现，随着饲粮蛋白质水平的增加，未被前肠消化吸收的蛋白质通过水解作用常以肽或氨基酸的形式进入大肠，被微生物发酵利用，合成微生物蛋白质和挥发性脂肪酸等代谢产物。支链脂肪酸严格由微生物利用异亮氨酸、亮氨酸、氨酸生成，所以支链脂肪酸可以作为微生物利用蛋白质的标记[27]。Cho等[28]研究发现，与高蛋白质饲粮组（ $20 \\%$ ）相比，低蛋白质饲粮组 ( $1 5 \\%$ )猪粪样中酚、吲哚、短链脂肪酸和支链脂肪酸的含量减少了 $3 5 \\% { \\sim } 4 0 \\%$ 这提示肠道内微生物对蛋白质营养的利用与饲粮蛋白质水平紧密相关。而高蛋白质水平饲粮会增加后肠含氮物质的含量，提高肠道内 $\\mathfrak { p H }$ ，进一步抑制了乳酸杆菌的生长，促进了致病性微生物的增殖[29]。罗振等[30]在低蛋白质水平饲粮上的研究发现，与正常蛋白质水平饲粮（ $1 6 \\%$ ）相比，低蛋白质水平饲粮（ $10 \\%$ ）显著影响了育肥猪盲肠食糜微生物种类，但盲肠食糜拟杆菌门、厚壁菌门等优势菌的数量并未受到显著影响，而盲肠黏膜微生物的种类与数量均未发生明显变化。这可能是由于肠道黏膜微生物菌群组成相对比较稳定，不容易受到外界环境影响。并且，与食糜微生物相比，黏膜微生物菌群由宿主动物选择形成，宿主动物遗传因子的作用可能超过了环境影响[31]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "饲粮蛋白质的不同来源对肠道微生物菌群的组成与代谢具有一定选择性作用。有研究表明，肠道微生物合成B族维生素受到肠道内饲粮蛋白质的降解速度、降解量以及降解生物氨与微生物可利用物质的平衡影响[32]。俞晓辉等[33]研究了饲粮中2种大豆发酵蛋白质分别替代部分鱼粉对断奶仔猪肠道主要菌群的影响，结果表明2种大豆发酵蛋白质具有促进后肠乳酸杆菌的增长和抑制大肠杆菌的作用，但以枯草芽孢杆菌、乳酸菌和酵母菌为主发酵的大豆蛋白质明显优于以枯草芽孢杆菌、酵母菌和曲霉菌为主发酵的大豆蛋白质。这主要与大豆中大豆球蛋白质和β-伴大豆球蛋白质（过敏蛋白质）的含量有关，过敏蛋白质进入仔猪肠道后可引起过敏反应。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "因此，出于植物源蛋白质抗营养性与动物源蛋白质安全性等方面的考虑，在猪的实际生产中饲粮蛋白质源的选择应当慎重。同时，与高蛋白质水平饲粮相比，在限制性氨基酸满足需要的前提下，适当的降低饲粮蛋白质水平更有利于肠道健康并能减少含氮排放物的产生。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3脂肪对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "猪饲粮中脂类物质主要来自于植物油脂，常见的有豆油、椰子油、玉米油等。油脂中的甘油三酯是由1分子甘油和3分子脂肪酸构成。进入消化系统的游离脂肪酸能够穿过微生物的细胞膜，进而影响肠道微生物的生存。Boyen 等[34用不同脂肪酸饲喂感染鼠伤寒沙门氏菌的仔猪，结果表明被包裹的丁酸能够降低仔猪粪中鼠伤寒沙门氏菌的数量，减少其在肠道内的定植。以猪盲肠为模型研究中链脂肪酸（乙酸钠、辛酸钠和葵酸钠）对肠道内鼠伤寒沙门氏菌以及其他细菌的影响，结果显示添加 $1 5 \\mathrm { m m o l / L }$ 的辛酸钠能够显著降低大肠杆菌和沙门氏菌的数量，但是对其他细菌数量的影响不显著[35]。不同脂肪酸的差异作用可能与其化学结构有关。中链脂肪酸可以通过细胞膜进入微生物细胞内，降低pH，嗜偏碱性的致病性微生物为了保持正常pH而消耗大量能量，最终衰竭致死[36]。而短链脂肪酸在一定程度上有助于维护肠黏膜屏障的完整性[37]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮脂肪对猪肠道微生物的作用同样受到脂肪来源与水平的影响。Li等[38]研究了豆油、椰子油单独使用以及以不同比例混合使用对断奶仔猪肠道的影响，结果发现豆油和椰子油按1：1混合使用比各自单独使用提高了仔猪肠道绒毛高度，增加了肠道内中链脂肪酸的消化率。不同油脂的差异作用可能与脂肪酸的组成有关。椰子油中 $50 \\%$ 以上脂肪酸是饱和中链脂肪酸，高比例的饱和脂肪酸不易腐败。与长链脂肪酸相比，中短链脂肪酸更易与微生物作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加适当来源的脂肪虽然能促进肠道优势菌的增殖，但其添加量也应该有所考究。在人源细菌移植小鼠上的试验结果表明，高脂饲粮会损伤肠道结构，降低肠道菌群的多样性，导致肠道微生态失调[39]。Hekmatdoost 等[40]也发现，高脂饲粮增加了粪便中拟杆菌的数量，减少了益生菌的数量。这可能是由于过多的脂肪加速肠道代谢功能障碍，打破了肠道内正常氧化-抗氧化还原系统的平衡，造成氧化应激，影响肠道菌群稳态[41-42]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4矿物质和维生素对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "矿物质和维生素是动物机体维持正常生理功能所必需的微量物质，但是它们对于肠道菌群的影响还不十分清楚。有试验研究表明，高锌在抗仔猪腹泻方面有显著效果，这一效果与粪便中大肠杆菌数量的显著降低有密切联系，锌离子可以通过抑制大肠杆菌的呼吸链而降低其有害作用[43]。然而也有研究认为，在断奶仔猪饲粮中添加高锌会提高大肠杆菌和肠球菌的数量，而添加高铜能抑制仔猪肠道有害菌的生长[44]。虽然近年来多种有机锌和有机铜已经逐步替代无机金属化合物开始在养殖行业使用，但在生产实际中依然难以避免高铜、高锌在畜产品中的残留可能会给人类健康带来危害的问题。同时，畜牧养殖过程中过量的铜、锌和其他金属元素的排放还会造成环境污染。由于这些金属元素的使用本身还存在许多不确定问题，所以目前还难以彻底明确它们对于肠道微生物组成的影响。目前关于维生素的添加对猪肠道微生物影响的研究报道比较匮乏。这可能是因为肠道微生物本身就可以大量合成多种维生素，试验难以准确衡量维生素的种类和剂量对肠道微生物的影响。但有研究指出，维生素D 可以通过调节免疫系统改善仔猪的肠道健康[45],这提示维生素可能对仔猪肠道微生物组成有一定影响。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5微生态制剂及其他物质对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于抗生素的长期泛滥使用，动物机体耐药性细菌急剧增加，肠道微生物平衡也受到抗生素的干扰。微生态制剂作为主要的抗生素替代品应用广泛，其中备受瞩目的就是各种益生菌。大量研究表明，乳酸杆菌、双歧杆菌、屎肠球菌、芽孢杆菌等多种益生菌单一使用或联合使用都能较好地改善猪胃肠道健康，优化肠道微生物结构，抑制肠道大肠杆菌和沙门氏菌等有害菌的增殖，降低仔猪腹泻和肠炎的发生[46]。但益生菌使用中也存在作用不稳定、添加剂量不确定、不同菌之间存在拮抗等实际问题。除微生态制剂以外，一些功能性添加剂如酶制剂、酸化剂、植物提取物等在改善猪肠道健康和调节肠道微生物平衡的过程中也发挥了重要作用，但普遍存在效果稳定性差、生产成本高等不足。目前，研发绿色高效的添加制剂仍然任重而道远。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6营养素比例对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不同营养素在动物肠道内并不是简单地独立存在，而是在各自发挥作用的同时还会相互影响，尤其是三大主要营养素相互之间的影响。Jha 等[47]研究发现，饲粮粗蛋白质和非淀粉多糖的比例与生长猪结肠内容物中氨气（ $\\mathrm { N H } _ { 3 }$ ）浓度呈正相关，而与短链脂肪酸含量呈负相关。这提示饲粮蛋白质水平与纤维水平存在互作关系。类似的研究也证实，饲粮较高的蛋白质水平（ $20 \\%$ ）与仔猪结肠中更多的蛋白质发酵相关，而当同步提高纤维水平时可减弱蛋白质发酵，减少粪便中肠杆菌的数量，并且促进碳水化合物发酵[48]。此外，有研究表明随着饲粮碳水化合物与植物性脂肪能值比的降低，仔猪盲肠、结肠pH提高，挥发性脂肪酸含量降低，乳酸杆菌和双歧杆菌数量降低，而大肠杆菌数量增加[49]。碳水化合物能值减少使得肠道微生物菌群可获得的养料来源也相应减少，盲肠、结肠微生物菌群失衡[50]；而油脂添加量的增加可引起肠道炎症，增加促炎性肠道微生物数量，破坏肠道微生态平衡[51]。以上研究提示在饲料配制过程中，综合考虑各营养素对猪肠道微生物菌群的相互作用，优化营养素比例，更有利于改善猪肠道微生物菌群，促进肠道健康发育。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.7其他因素对猪肠道微生物组成的影响",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "猪肠道微生物菌群还受到饲养环境、采食方式以及食物形态等的影响。仔猪断奶时，与母猪分离饲养环境发生改变，食物来源从母乳为主变为完全的固体饲料，采食方式与食物形态发生改变。这种环境、心理和营养上的应激使得仔猪肠道内大肠杆菌等有害细菌数量增加，严重时发生腹泻。有研究表明，与哺乳仔猪相比，断奶仔猪肠道中有益菌如乳酸杆菌数量显著下降，而有害菌尤其是大肠杆菌数量却显著增加，仔猪肠道健康受到严重威胁[52]。因此，加强饲养管理，做好断奶阶段的过渡是养猪生产中最重要的环节之一。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4小结 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "肠道微生物菌群在猪的健康生长发育中扮演了重要角色，但是肠道微生物容易受到环境、应激、疾病和营养等多种因素影响，导致肠道微生态变化或失衡。营养素是影响猪肠道微生物菌群平衡的关键因素，我们在实际生产中需根据猪的品种、日龄等综合考虑，选择适当的营养搭配（包括不同营养素的来源、水平及比例）才能够使肠道环境和肠道菌群达到最优状态。人与猪的肠道发育、生理结构和代谢特点十分相似，深入研究营养素对猪肠道微生物组成影响的机制不仅可以提高猪的生产效率，也为人类的肠道健康和相关疾病的诊治提供理论帮助。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]SEKIROV I,RUSSELL S L,ANTUNES L C,et al.Gut microbiota in healthand disease[J].Physiological Reviews,2010,90(3):859-904. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[2]LOUIS P,SCOTT K P,DUNCAN S H,et al.Understanding the effects of diet on bacterial metabolism in the large intestine[J].Journal of Applied Microbiology,2007,102(5):1197-1208. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[3] HOOPER L V,WONG M H,THELIN A,et al.Molecular analysis of commensal host-microbial relationships in the intestine[J].Science,2001,291(5505):881-884. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4] LEY R E,PETERSON D A,GORDON J I.Ecological and evolutionary forces shaping microbial diversity in the human intestine[J].Cell,2006,124(4):837-848. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5] MOUNTZOURIS K C,BALASKAS C,FAVA F,et al.Profiling of composition and metabolic activities of the colonic microflora of growing pigs fed diets supplemented with prebiotic oligosaccharides[J].Anaerobe,2006,12(4):178-185. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[6] CASTILLO M,MARTiN-ORUE S M,ANGUITA M,et al.Adaptation of gut microbiota to corn physical structure and different types of dietaryfibre[J].Livestock Science,2007,109(1/2/3):149-152. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[7] BIBILONI R,FEDORAK R N,TANNOCK G W,et al.VSL#3 probiotic-mixture induces remission inpatientswith active ulcerative colitis[J].The American Journalof Gastroenterology,2005,100(7):1539-1546. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[8] YANG H,HUANG X C,FANG S M,et al.Uncovering the composition of microbial community structure and metagenomicsamong threegut locationsin pigswith distinct fatness[J].Scientific Reports,2016,6:27427. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[9] SEKSIK P,LEPAGE P,DA LA COCHETIERE M F,et al.Search for localized dysbiosis in Crohn's disease ulcerations by temporal temperature gradient gel electrophoresis of 16S ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rrna[J].Journal of Clinical Microbiology,2005,43(9):4654-4658. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[10] PARVEZ S,MALIK K A,AH KANG S,et al.Probiotics and their fermented food products are beneficial for health[J].Journal of Applied Microbiology,2006,100(6):1171-1185. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[11] ALBENBERG L G,WU G D.Diet and the intestinal microbiome:associations,functions,and implications for health and disease[J].Gastroenterology,2014,146(6):1564-1572. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[12] PLUSKE J R.Invited review:aspects of gastrointestinal tract growth and maturation in the pre-andpostweaningperiodofpigs[J].JournalofAnimalScience,2016,94(7 Suppl.3):399-411. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[13]宋连喜,鄂禄祥,高明,等.猪和兔胚胎胃肠道菌群的初步研究[J].中国兽医杂志,2007,43(10):24-26.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[14] 杨柳,张邑帆,郑华,等.荣昌、长白、杜洛克猪肠道微生物 ERIC-PCR-DGGE 指纹图谱比较分析[J].家畜生态学报,2011,32(5):21-25.",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[15] GUO X L,XIA X J,TANG R Y,et al.Real-time PCR quantification of the predominant bacterial divisions in the distal gut of Meishan and Landrace pigs[J].Anaerobe,2008,14(4):224-228. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[16] KIM H B,BOREWICZ K,WHITE B A,et al.Longitudinal investigation of the age-related bacterial diversity in the feces of commercial pigs[J].Veterinary Microbiology,2011,153(1/2):124-133. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[17] URRIOLA P E,STEIN H H.Comparative digestibility of energy and nutrients in fibrous feed ingredients fed to Meishan and Yorkshire pigs[J].Journal of Animal Science,2012,90(3):802-812. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[18] VAREL V H,YEN J T.Microbial perspective on fiber utilization by swine[J].Journal of Animal Science,1997,75(10):2715-2722. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[19] NIU Q,LI P H,HAO S S,et al.Dynamic distribution of the gut microbiota and the relationship with apparent crude fiberdigestibilityandgrowthstagesinpigs[J].Scientific Reports,2015,5:9938. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[20] LAMENDELLA R,SANTO D J W,GHOSH S,et al.Comparative fecal metagenomics unveils unique functional capacity of the swine gut[J].BMC Microbiology,2011,11(1):103. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[21] FREIRE JP B,GUERREIRO A J G,CUNHA L F,et al.Effect of dietary fibre source on total tract digestibility,caecum volatile fatty acids and digestive transit time in the weaned piglet[J].Animal Feed Science and Technology,2000,87(1/2):71-83. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[22] JAWORSKI N W,OWUSU-ASIEDU A,WALSH M C,et al.Effects of a 3 strain-based direct-fed microbial and dietary fiber concentration on growth performance and expression of genes related to absorption and metabolism of volatile fatty acids in weanling pigs[J].Journal of Animal Science,2017,95(1):308-319. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[23] HOGBERG A,LINDBERG J E,LESER T,et al.Influence of cereal non-starch polysaccharides onileo-caecal and rectal microbial populations in growing pigs[J].Acta Veterinaria Scandinavica,2004,45(2):87-98. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[24] REGMI P R,METZLER-ZEBELI B U,GANZLE M G,et al.Starch with high amylose content and low in vitro digestibility increases intestinal nutrient flow and microbial fermentation and selectively promotes bifidobacteria in pigs[J].The Journal of Nutrition,2011,141(7):1273-1280. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[25]MERPHY P,DAL BELLO F,O'DOHERTY J,et al.Analysis of bacterial community shifts in the gastrointestinal tract of pigs fed diets supplemented with $\\beta$ -glucan from Laminaria digitata,Laminaria hyperborea and Saccharomyces cerevisiae[J].Animal,2013,7(7):1079-1087. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[26] MAIR C,PLITZNER C,DOMIG K J,et al.Impact of inulin and a multispecies probiotic formulation on performance,microbial ecology and concomitant fermentation patterns in newly weaned piglets[J].Journal of Animal Physiology and Animal Nutriti0n,2010,94(5):e164-e177. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[27] MACFARLANE G T,MACFARLANE S.Bacteria,colonic fermentation,and gastrointestinal health[J].Journal of AOAC International,2012,95(1):50-60. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[28] CHO S,HWANG O.PARK S.Effect of dietary protein levels on composition of odorous compounds and bacterial ecology in pig manure[J].Asian-Australasian Journal of Animal Sciences,2015,28(9):1362-1370. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[29] 杨玫.饲粮不同蛋白质及锌水平对早期断奶仔猪生产性能、肠道微生物多样性及其代谢产物的影响[D].硕士学位论文.雅安:四川农业大学,2008.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[30] 罗振,成艳芬,朱伟云.低蛋白质日粮对育肥猪盲肠代谢产物及菌群的影响[J].畜牧与兽医,2015,47(10):5-9)",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[31] JOHANSSON M E V,PHILLIPSON M,PETERSSON J,et al.The inner of the two Muc2 mucin-dependent mucus layers in colon is devoid of bacteria[J].Proceedings of the National Academy of Sciences of the United States of America,2008,105(39):15064-15069. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[32] BEAUDET V,GERVAIS R,GRAULET B,et al.Efects of dietary nitrogen levels and carbohydrate sources on apparent ruminal synthesis of some B vitamins in dairy cows[J].Journal of Dairy Science,2016,99(4):2730-2739. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[33] 俞晓辉,姚文,施学仕,等.大豆发酵蛋白质替代鱼粉对断奶仔猪生产性能和肠道主要菌群的影响[J].动物营养学报,2008,20(1):46-51.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[34]BOYEN F,HAESEBROUCK F,VANPARYS A,et al.Coated fatty acids alter virulence propertiesofSalmonellatyphimurium and decrease intestinal colonizationof pigs[J].Veterinary Microbiology,2008,132(3/4):319-327. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[35] MESSENS W,GORIS J,DIERICK N,et al.Inhibition of Salmonella typhimurium by medium-chain fatty acids in an in vitro simulation of the porcine cecum[J].Veterinary Microbiology,2010,141(1/2):73-80. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[36] 杨金堂,黄克和,王建林,等.中链脂肪酸在畜牧业上应用的研究进展[J].畜牧与兽医,2009,41(5):100-105",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[37] YIN X C,PENG J H,ZHAO L P,et al.Structural changes of gut microbiota in a rat non-alcoholic fatty liver disease model treated with a Chinese herbal formula[J].Systematic and Applied Microbiology,2013,36(3):188-196. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[38] LI D F,THALER R C,NELSSEN J L,et al.Effect of fat sources and combinations on starter pigperformance,nutrient digestibility and intestinal morphology[J].Journal of Animal Science,1990,68(11):3694-3704. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[39] 陈杏云,曾本华,魏泓,等.高脂饮食对菌群人源化小鼠肠道菌群结构的影响[J].食品科",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "学,2013,34(17):278-283.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[40] HEKMATDOOST F,FEIZABADI M M,DJAZAYERY A,et al.The effect of dietary oils on cecal microflora in experimental colitis in mice[J].Indian Journal of Gastroenterology,2008,27(5):186-189. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[41] RESTASC.Effectsofprobioticsand commensalsonintestinalepithelial physiology:implications for nutrient handling[J].The Journal of Physiology,2009,587(17):4169-4174. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[42] ATTENE-RAMOS M S,NAVA G M,MUELLNER M G,et al.DNA damage and toxicogenomic analyses of hydrogen sulfide in human intestinal epithelial FHs 74 Int cells[J].Environmental and Molecular Mutagenesis,2010,51(4):304-314. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[43] YOUSEF J M,DANIAL E N.In vitro antibacterial activity and minimum inhibitory concentration of zinc oxide and nano-particle zinc oxide against pathogenic strains[J].Journal of Health Sciences,2012,2(4):38-42. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[44] HOJBERG O,CANIBE N,POULSEN H D,et al.Influence of dietary zinc oxide and copper sulfate on the gastrointestinal ecosystem in newly weaned piglets[J].Applied and Environmental Microbiology,2005,71(5):2267-2277. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[45] ZHAO Y,YU B,MAO X B,et al.Dietary vitamin D supplementation attenuates immune responses of pigs challenged with rotavirus potentially through the retinoic acid-inducible gene I signalling pathway[J].British Journal of Nutrition,2014,112(3):381-389. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[46] SUO C,YIN Y,WANG X N,et al.Effects of Lactobacillus plantarum ZJ316 on pig growth and pork quality[J].BMC Veterinary Research,2012,8:89. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[47] JHA R,LETERME P.Feed ingredients differing in fermentable fibre and indigestible protein content affect fermentation metabolites and faecal nitrogen excretion in growing pigs[J].Animal,2012,6(4):603-611. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[48] HERMES R G,MOLIST F,YWAZAKI M,et al.Effect of dietary level of protein and fiber on theproductive performanceand health statusofpiglets[J].Journal of Animal Science,2009,87(11):3569-3377. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[49]于文雅,孙泽威,刘飞飞,等.日粮碳水化合物与油脂能值比对断奶仔猪肠道微生物的影响[J].中国畜牧杂志,2015,51(17):35-39.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[50] 任婷婷,卢放根,张尤历,等.高脂饮食对 SD大鼠肠道菌群的影响[J].世界华人消化杂志,2010,18(25):2694-2697.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[51] DING S L,CHI M M,SCULL B P,et al.High-fat diet:bacteria interactions promote intestinal inflammation which precedes and correlates with obesity and insulin resistance in mouse[J].PLoS One,2010,5(8):e12191. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[52] GRESSE R,CHAUCHEYRAS-DURAND F,FLEURY M A,et al.Gut microbiota dysbiosis in postweaning piglets:understanding the keys to health[J].Trends in Microbiology,2017,25(10):851-873. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Formation of Intestinal Microflora in Pigs and Nutrients Regulation LIU Hong WANG Qi LIU Zuohua QI Renli\\* ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(Chongqing Key Laboratory of Pig Industry Sciences, Key Laboratory of Pig Industry Sciences, Ministry of Agriculture, Chongqing Academy of Animal Sciences, Chongqing 402460, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The establishment process of intestinal microflora in pigs is a very complex process. Microbes and their animal host depend on each other and compete and restrict each other to format a dynamic equilibrium system in the long-term evolution. Intestinal microorganism plays an important role in animal host growth and development, organ function, nutritional metabolism, immune function and other aspects. The colonization and evolution of microflora are influenced by many internal and external factors. In particular, diet nutrients (carbohydrate, protein,fat, etc.) have an important influence on the composition of intestinal microflora in pigs. This review focuses on the formation features of intestinal microflora and the impact of major nutrients in pigs. Key words: pigs; intestinal microflora; nutrients ",
+        "page_idx": 13
+    }
+]

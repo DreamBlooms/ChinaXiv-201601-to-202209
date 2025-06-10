@@ -1,0 +1,529 @@
+[
+    {
+        "type": "text",
+        "text": "结合改进的CHI统计方法的TF-IDF算法优化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "马莹，赵辉，李万龙，庞海龙，崔岩(长春工业大学 计算机科学与工程学院，长春 130012)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：特征项的选择和特征权值的计算是文本分类过程中两个至关重要的环节，对文本分类的结果起关键性作用。为了克服传统的CHI统计方法存在特征项出现频率与类别负相关的情况和某一个特征项存在于某一个文本中的概率问题，针对传统的CHI统计方法引入了负相关判定、频度等重要因素进行了改进，并结合语义相似度的计算方法对 TF-IDF算法进行了优化，在WEKA软件上采用了KNN（K-nearestneighbor）分类器和支持向量机（SVM）分类器分别对微博情感语料进行分类，该实验结果表明，新方法在文本分类的准确性上有明显的提高。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：文本分类；CHI统计；TF-IDF算法；特征选择 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.01.0136 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Optimization of TF-IDF algorithm combined with improved CHI statistical method ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ma Ying, Zhao Hui†,Li Wanlong,Pang Hailong, Cui Yan (CollgeofComputer Science&Engineering,Changchun UniversityofTechnology,Changchun 3o012,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:The selectionoffeature items and thecalculation offeature weightsare two crucial links in the process of text classificationandplayakeyroleintheresultsoftextclassification.InordertoovercometheraditionalCHstatisticalmethod, there isanegativecorelationbetween thefrequencyoffeatureitemsandthecategory,andaprobabilityproblemthatafeature itemexists inatext,Tetraditional CHIstatistical method is improvedbyintroducingsomeimportantfactorssuchasnegative correlation judgmentand frequency,andtheTF-IDFalgorithm isoptimizedbycombiningthecalculation methodofsemantic similarity.TheK-nearestneighbor(KNN)clasifierandsupportvectormachine(SVM)clasifierare respectivelyused in WEKA softwareto classifythe Weibo emotionalcorpus The experimental results show thathe new methodhas obvious improvement on the accuracy of text classification. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: text categorization; CHI statistics; TF-IDF algorithm; feature selection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着互联网的快速进步，电子信息量越来越膨胀，那么如何将大量的信息进行有规律的、有效的、有组织的管理呢[1,2]?文本分类作为处理和归纳大量数据的关键技术，可以在很大程度上解决信息没有条理的现象，使用户可以从大量的信息中快速得获取有价值的信息，因此在舆情控制、信息安全、协同过滤、产品推荐等方面具有广泛应用[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在文本分类过程中有两个主要的因素影响着分类的最终结果：一是特征项的选择，二是特征项权重的计算方法。特征选择是从大量的词语中选择出一部分有价值的特征项进行分类，使分类的结果达到最优化[4]。特征项的权重计算方法是用于文本的数据统计，给特征项赋权，特征权重是用来权衡某一个特征项在某一个文本中的重要程度[5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前，文本分类研究方面；郭正斌通过利用权值和维度的调整对文本向量空间模型进行优化，提出了一种新的面向文本分类的优化方法，可以达到优化向量空间目的[。周庆平将改进的 $X ^ { 2 }$ 统计方法与聚类相结合，最后通过改进的KNN进行分类，可以提高分类效果[7]。徐明针对于微博特征选择的问题作了相关的研究与说明，提出了一种新的卡方统计的算法，在KNN和SVM分类下进行测试，得出了在微博信息分类上准确率有一定的提高[8]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "文本分类过程中最常用的特征选择方法之一是CHI统计方法，传统的CHI统计方法没有考虑到特征项出现频率与类别负相关的问题，也没有顾虑到某一个特征项存在于某一个类别文本的情况，为解决以上问题，本文通过判断正负的方式去除了特征项出现频率与类别负相关的情况，并引入了频度等重要因素对传统的CHI统计方法进行了相应的改进，在此基础上引入了特征提取因子‘，将语义相似度算法与传统的TF-IDF算法进行了结合优化，从而提高某一个特征项在类别文本中的重要程度，达到降低维度的效果，最终提高了文本分类的准确性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 CHI统计方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CHI统计方法是用来测量特征项w与类别c之间的相关性，其关联列表如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f5706b23143145904c367c3cf7c7eba641e570afc9ea3c9b26826477c9198b4.jpg",
+        "table_caption": [
+            "表1特征项与类别关系表"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别 特征项</td><td>K</td><td>K</td><td>总计</td></tr><tr><td>W</td><td>A</td><td>B</td><td>A+B</td></tr><tr><td>W</td><td>C</td><td>D</td><td>C+D</td></tr><tr><td>总计</td><td>A+C</td><td>B+D</td><td>A+B+C+D</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中，属于类别K且存在特征项w的文本数量，命名为 $A$ ；不属于类别K但存在特征项w的文本数量，命名为 $B _ { i }$ ：属于类别K但不包含特征项 $\\mathrm { ~ w ~ }$ 的文本数量，命名为 $\\ C$ ：不属于类别K也不包含特征项 $\\mathrm { ~ w ~ }$ 的文本数量，命名为 $D _ { \\circ }$ 则CHI值的计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { X } ^ { 2 } ( w , c ) = \\frac { N ( A D - B C ) ^ { 2 } } { ( A + C ) ( A + B ) ( B + D ) ( C + D ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "且有 $\\scriptstyle \\mathrm { N = A + B + C + D } .$ 0 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当CHI的值等于0时，表示特征项 $\\mathrm { ~ w ~ }$ 与类别c之间没有任何关系；当CHI的值越大时，表示特征项w与类别c的关系性越强。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现有研究发现，传统CHI统计有两处不足：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）传统的CHI统计方法存在着特征项出现频率与类别负相关的问题，还存在着倾向于选取在文本中出现比例相对较少的特征项，这样的特征项中的绝大部分与类别没有较强的联系，甚至没有任何关系，只有个别的特征词与类别存在较强的联系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b）传统的CHI统计方法没有考虑到某一个特征项存在于某一个文本中的概率，而只是考虑了存在于全部文本中的概率，如果某一个特征项在某一类别的多数文本中集中存在，而在此类别的少数文本中很少存在，则此时CHI的值可能会高，相反，CHI值可能会低。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进的CHI统计方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "特征项与文本类别存在两种关系情况：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)当AD-BC的值大于0为正数时，说明特征项出现频率与类别为正相关，即特征项存在的文本属于某一个类别的机率越大，正数越大，那么它的平方越大，则CHI的值就越大，因此可以作为特征选择的特征项。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)当AD-BC的值小于0为负数时，说明特征项出现频率与类别为负相关，即特征项出现的文本属于某一个类别的机率越小，负数越小，那么它的平方越大，则CHI的值就越大，因此不可以作为特征选择的特征项。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从传统的CHI统计方法的计算公式可以看出，如果特征项出现频率与类别负相关的问题没有解决,那么这种负相关的情况最后会影响CHI的值，所以特征选择的结果会受到影响，进而影响到文本分类的精确率，因此本文通过去除特征项出现频率与类别负相关的方式来解决这一问题，改进后的公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { X } ^ { 2 } ( w , c ) = \\left\\{ \\begin{array} { c c } { \\frac { N ( A D - B C ) } { ( A + C ) ( A + B ) ( B + D ) ( C + D ) } } & { \\ A D - B C > 0 } \\\\ { 0 } & { \\ A D - B C < 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于CHI 统计方法没有考虑某一个特征项存在于某一个文本中的次数，而只是考虑了存在于全部文本中的次数，文献[9]中指出特征选择的关键在于特征项集中均匀的分布在某一类别文本中，所以本文将频度 $\\boldsymbol { a }$ ，集中度 $\\beta$ ，分散度 $\\gamma$ 引进传统的CHI统计公式中。假设训练集类别为 $C _ { j }$ 的文本有$d _ { j l } , \\ldots , d _ { j k } , \\ldots d _ { j m }$ ， $t f _ { j k }$ 表示特征项 $\\boldsymbol { W }$ 在文本 $d _ { j k }$ ( $I { \\leqslant } k { \\leqslant } m ,$ 中存在的频率， $\\boldsymbol { m }$ 表示某个类别中的文本总数， $d f _ { j }$ 表示类 $C _ { j }$ 中含有特征项 $\\boldsymbol { \\mathit { \\Delta } } _ { W }$ 的本文数量， $\\boldsymbol { n }$ 表示文本类别总数量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)频度,指某一类别文本中出现某一个特征项的次数占此类别的文本总数量的比重。则特征项 $\\mathrm { ~ w ~ }$ 在类别Cj中存在的频度 $\\mathrm { ~ \\tt ~ { ~ a ~ } ~ }$ 表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha = \\sqrt { \\sum _ { k = 1 } ^ { \\mathrm { m } } ( t f _ { j k } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b)集中度,指某一个类别文本中存在的某一个特征项的文本数量占含此特征项的文本数量的比重。则特征项 $\\boldsymbol { \\mathit { \\Pi } } _ { W }$ 存在于类别 $C _ { j }$ 中的集中度 $\\beta$ 表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta = { \\frac { ( \\mathbf { n } \\cdot d f _ { j } - \\sum _ { j = 1 } ^ { n } d f _ { j } ) ^ { 2 } } { n \\cdot \\sum _ { j = 1 } ^ { n } d f _ { j } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c)分散度,某一个类别中含某一个特征项的文本数量占该类别量中总文本数的比重。则分散度 $\\gamma$ 表示如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma = \\frac { \\mathrm { d } f _ { j } } { m }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由以上的定义可知，某一个特征项 $\\mathrm { ~ w ~ }$ ，聚集的存在于某一个类别的大部分文本中的次数越多，说明其频度越高，集中度强，分散度大，这样的特征项对文本分类结果有很大的作用，于是在式（2）的基础上引入了频度、集中度、分散度，得到如下公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { X } ^ { 2 } ( w , c ) = \\left\\{ \\begin{array} { c c } { N ( A D - B C ) } \\\\ { ( A + C ) ( A + B ) ( B + D ) ( C + D ) } \\\\ { 0 } & { A D - B C < 0 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 传统的TF-IDF算法及其改进 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1传统的TF-IDF算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TF-IDF通常用于衡量一个字或者一个词语在语料集中的重要程度。TF-IDF 算法是由Jones[10首次提出的，TF-IDF 实际上是TF 与IDF 的乘积。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { T F } = \\frac { m } { M }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { m }$ 代表存在于文本 $\\mathbf { \\nabla } _ { j }$ 中的特征项的次数，M代表文本 $\\mathbf { \\nabla } _ { \\boldsymbol { j } }$ 中",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的总词语数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { I D F = l o g \\left( \\frac { N } { n } + 0 . 0 1 \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 为总文本数量， $\\boldsymbol { n }$ 为含有某个特征项的文本总数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "则TF-IDF的特征提取函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\operatorname { F } ( w ) = T F ( w ) \\bullet \\operatorname { I } D F ( w )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "归一化后的传统TF-IDF公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nW _ { i j } = \\frac { t f _ { i j } \\times \\log \\left( V _ { n _ { i j } } + 0 . 0 1 \\right) } { \\sqrt { \\displaystyle \\sum _ { j = 1 } ^ { M } \\left[ t f _ { i j } \\times \\log \\left( N _ { n \\dot { i } j } + 0 . 0 1 \\right) \\right] ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\textstyle \\mathcal { W } _ { i j }$ 代表特征项的权重， $t f _ { i j }$ 代表某一个特征项存在于某一个文本中的频率， $l o g \\left( N / n _ { i j } \\mathrm { + } \\theta . \\ O I \\right)$ 为逆文本频率， $N$ 代表类别文本的总数量， $\\boldsymbol { \\eta } _ { i j }$ 代表存在某一个特征项的文本数量。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 优化的 TF-IDF 算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采取了传统的归一化T特征项与类别变化方向相反F-IDF算法来给特征项赋权值时，只考虑了特征项在分本中的分布情况，并没有考虑词语的近义词存在于文本中情况，忽略了词语之间的相似性，如果采取该算法给特征项赋权值就忽略了文本中的这一特点。文献[11]中提出了词语相似度的计算方法，通过对知识语言分析可知，知识语言的数据结构可以用集合与义原、特征结构来表达，语义的相似度计算是采取“知网”中的计算相似度的算法来确定， $\\gamma$ 的系统设定值为0.8。该算法对词语相似度的准确性有一定的提高。为了解决特征词在文本中会出现近义词的情况，本文将语义相似度的计算方法应用到传统的TF-IDF算法中，从而使特征项在文本中的权重变大，让此特征项更具有代表性意义。为此本文提出了特征提取因子‘，‘代表出现在某一个文本中的某一个特征项的数量与此特征项相似度大于 $\\gamma$ 的特征项的数量之和与所有特征项的数量的比例， $\\mathbf { \\sigma } _ { \\varepsilon }$ 的结果直接影响到特征项在文本中的重要程度。其定义公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varepsilon = \\frac { a + b } { c }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $a$ 代表存在于文本 $\\mathbf { \\nabla } _ { j }$ 中的特征项 $t _ { i j }$ 的数量， $b$ 代表与特征项 $t _ { i j }$ 相似度大于 $\\gamma$ 的特征项的数量， $\\boldsymbol { c }$ 代表所有特征项的数量。为了提高特征项权值的准确度，本文在结合语义相似度算法的基础下引进了特征提取因子 $\\boldsymbol { \\varepsilon }$ 对传统的归一化 TF-IDF 算法进行了优化，实现了形式与语义的结合。其定义公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { W _ { i j } } = \\frac { \\sqrt { t f _ { i j } \\times \\varepsilon } \\times \\log ( { N \\int _ { n _ { i j } } + 0 . 0 1 } ) } { \\sqrt { \\sum _ { j = 1 } ^ { M } \\left[ \\sqrt { t f _ { i j } \\times \\varepsilon } \\times \\log ( { N \\int _ { n _ { i j } } + 0 . 0 1 } ) \\right] ^ { 2 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $W _ { i j }$ 代表特征项的权重， $N$ 代表类别文本的总数量， $n _ { i j }$ 代表某一个特征项的文本数量与此特征项的相似度大于 $\\gamma$ 的特征项的文本数量之和的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1实验数据及环境",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文采用微博文本作为实验数据，与传统的网络文本进行对比，微博文本较短,对字数有严格的要求约束,规定以140 个字符为限,并且具有偶然性，实时性，不可控性的特点[12]。实验数据采用了4000条的新浪微博语料进行数据分析，电脑系统是Window7，软件是python编程技术，采用Weka3.6数据挖掘开源工具进行实验结果对比。在实验中分别使用了KNN和SVM分类器进行数据测试分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2评价指标",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假定在类别的分类结果中， $X$ 代表某一个特征项被正确分类到某一个类别的文本数量， $\\boldsymbol { Y }$ 代表某一个特征项被错误分类到某一个类别的文本数量， $Z$ 代表某一个特征项被遗漏分类的文本数量。具体的公式表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { F } \\big / \\boxed { \\boxplus } = \\frac { 2 \\times P \\times R } { P + R } { \\times } 1 0 0 \\%\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.3实验及结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验1将微博的情感分为两方面,一是正向情感，二是负向情感，比较了在相同维度的特征下，对结合改进的CHI统计方法的TF-IDF 算法、传统的CHI统计方法和改进的CHI统计方法在KNN分类器效果下的进行了实验对比。实验结果如表2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5492d0cd7f620812933a1f0c028f6152ed33fd5033ced533391dc44b2f0a3a4a.jpg",
+        "table_caption": [
+            "表2500维度KNN分类器下三种方法的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>语料</td><td colspan=\"3\">传统的CHI</td><td colspan=\"3\">改进的CHI</td><td colspan=\"3\">结合改进的CHI和优化的TF-IDF</td></tr><tr><td>指标</td><td>R</td><td>P</td><td>F</td><td>R</td><td>P</td><td>F</td><td>R</td><td>P</td><td>F</td></tr><tr><td>正向情感</td><td>89.7</td><td>85.4</td><td>87.5</td><td>89.5</td><td>87.0</td><td>88.2</td><td>90.0</td><td>88.5</td><td>89.2</td></tr><tr><td>负向情感</td><td>86.1</td><td>90.2</td><td>88.1</td><td>87.4</td><td>89.8</td><td>88.6</td><td>88.0</td><td>89.7</td><td>88.8</td></tr><tr><td>平均</td><td>87.9</td><td>87.8</td><td>87.8</td><td>88.4</td><td>88.4</td><td>88.4</td><td>89.0</td><td>89.1</td><td>89.0</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出，在相同维度的特征下采用KNN分类器，通过对微博的正向情感和负向情感在召回率R、查准率P、F值三个指标上进行了比较，得出结合改进的CHI统计方法的 TF-IDF算法比传统的CHI统计方法和改进的CHI统计方法在三个指标上都有一定的提升，结合改进的CHI统计方法的TF-IDF 算法的平均查准率比传统的CHI统计方法的平均查准率高出1.3个百分点，说明结合改进的CHI 统计方法的TF-IDF 算法提高了微博情感分类的准确率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验2比较了在不同维度下，对结合改进的CHI 统计方法的IF-IDF 算法、传统的CHI 统计方法和改进的CHI统计在KNN分类效果下的进行了实验，对以上三者在查准率上进行了对比。实验结果如表3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5257733c40a6200753fa5c8b5235111f2e5ee2f3748b22716d3a539813e7ec5.jpg",
+        "table_caption": [
+            "表3不同维度下KNN分类器三种方法的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维度</td><td>传统的CHI</td><td>改进的CHI</td><td>结合改进的CHI和优化的TF-IDF</td></tr><tr><td>400</td><td>87.7</td><td>88.4</td><td>89.0</td></tr><tr><td>600</td><td>88.0</td><td>89.0</td><td>89.3</td></tr><tr><td>800</td><td>89.0</td><td>90.0</td><td>90.8</td></tr><tr><td>1000</td><td>89.5</td><td>90.2</td><td>91.3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7482e48f4f9b2550b568efa96d7fd8c7d947062e9a213afdaca30b9654967b5c.jpg",
+        "img_caption": [
+            "图1在不同维度下KNN分类器的准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图1中可以看出：无论是在哪一个维度特征下采用KNN分类器，结合改进的CHI统计方法的TF-IDF算法在查准率P上比传统的CHI统计方法和改进的CHI统计方法的分类效果更为可观，特别是在200和600维度的特征下此算法的准确率有明显的提高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验3比较了在KNN，SVM分类器下,维度分别在200、400、600、800、1000 维度下的传统的CHI统计方法、改进的CHI 统计方法和结合改进的CHI统计方法的TF_IDF 算法三者之间的性能，实验结果如表4所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/845ef8aa2e5c1b21cf616563c42fb07a8f7beb416f5d4c16245501d957aadcb8.jpg",
+        "table_caption": [
+            "表4在不同维度SVM分类器下三种方法的对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>维度</td><td>传统的CHI</td><td>改进的CHI</td><td>结合改进的CHI的TF-IDF_优化</td></tr><tr><td>200</td><td>87.5</td><td>88.0</td><td>88.5</td></tr><tr><td>400</td><td>87.9</td><td>88.2</td><td>90.5</td></tr><tr><td>600</td><td>88.5</td><td>89.5</td><td>90.8</td></tr><tr><td>800</td><td>89.4</td><td>90.6</td><td>91.9</td></tr><tr><td>1000</td><td>90.3</td><td>91.2</td><td>92.5</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0306d63c9c6fa755257a5a718b066e44a1f40186cd9fc620fb10fb71529a7761.jpg",
+        "img_caption": [
+            "图2不同维度下SVM分类器的准确率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将图2与图1的实验结果进行对比可以看出，在相同的维度下，结合改进的CHI 统计方法的TF-IDF 算法采用 SVM分类器的分类效果比KNN分类器的分类效果好，此结果与其他有关微博研究的结果基本一致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.4 实验结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文主要研究结合改进的CHI统计方法的TF-IDF 算法的优化，通过对传统的CHI统计方法进行了相应的改进，并与结合语义相似度的传统的TF-IDF 算法进行了结合优化。实验的结果显示：在表1中可以看出在500 维度下采用KNN分类器，改进CHI统计方法比传统的CHI统计方法的平均查准率高出0.6个百分点，而本文提出的结合改进的CHI统计方法的 TF-",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IDF 的算法比传统的CHI 统计方法的平均准确率高出1.3个百分点；在表2中可以看出在400维度下结合改进的CHI统计方法的IF-IDF算法的优化的准确率上升幅度比较小，产生这种原因的可能是因为某一个词语的近义词的影响，在600 维度下准确率又得到了提高；将表2与3的实验结果数据进行对比可以看出：在相同的维度特征下，采用结合改进的CHI统计方法的TF-IDF 算法，与KNN分类器相比，SVM分类器的分类效果更为可观，说明SVM分类器更适合于文本提出的新方法，最终达到了提高微博情感分类准确率的目的。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过对文本分类技术的研究与试验，本文提出了结合改进的CHI统计方法的TF-IDF算法优化。首先针对于传统的CHI统计方法进行了相应的改进，弥补了传统的CHI统计方法特征项出现频率与类别负相关的问题和某一个特征项存在于某一个文本中的概率情况，然后与结合语义相似度算法的 TF-IDF 算法结合优化，从而提高某个特征项在文本中的重要程度，并达到了降维的效果，最终提高了文本分类的准确性。实验结果分析表明，选择结合改进的CHI统计方法的TF-IDF算法在SVM分类器下进行分类，取得了良好的分类效果，提高了分类的准确率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]高岩．微博情感分析的相关技术研究[D].北京：华北电力大学,2014. (Gao Yan.Research on related technologies of Weibo sentiment analysis [D]. Beijing:North China Electric Power University,2014.)   \n[2]万源．基于语义统计分析的网络舆情挖掘技术研究[D].武汉：武汉理 工大学，2012.(Wan Y. Research on Internet Public Opinion Mining Technology Based on Semantic Statistics Analysis [D].Wuhan University of Technology, 2012.)   \n[3]徐燕，李锦涛，王斌，等．基于区分类别能力的高性能特征选择方法 [J].软件学报,2008,(1):82-89.(XuYan,Li Jintao,WangBin et al.Ahigh performance feature selection method based on differentiating category capability[J]. Journal of Software,20o8,(1): 82-89.)   \n[4] 游凤芹，钟芳，周展．中文多类别情感分类模型中特征选择方法[J]. 计算机应用,2016,36 (S2):242-246.(You Fengqin,Zhong Fang,Zhou Zhan.Feature selection method in Chinese multi-category sentiment classification model[J]. Computer Applications,2016,36 (S2): 242-246.)   \n[5]王景中，邱铜相．基于TF-IDF改进算法的聚焦主题网络爬虫[J].计算 机应用,2015,35(10): 2901-2904,2919.(Wang Jingzhong,Qiu Cuxiang. Focused topic web crawler based on improved TF-IDF algorithm [J]. Computer Applications,2015,35(10): 2901-2904,2919.)   \n[6] 郭正斌，张仰森，蒋玉茹．一种面向文本分类的特征向量优化方法[J]. 计算机应用研究,2017,34(8): 2299-2302,2348.(Guo Zhengbin, Zhang Yangsen，Jiang Yuru.A feature vector optimization method for text classification [J].Application Research of Computers,2017,34 (8): 2299- ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2302,2348.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[7]周庆平，谭长庚，王宏君，等．基于聚类改进的KNN文本分类算法[J]. 计算机应用研究,2016,33(11):3374-3377,3382.(Zhou Qingping,Tan Changgeng，Wang Hongjun,et al. Improved KNN text classification algorithm based onclustering[J].Application Research ofComputers,2016, 33 (11): 3374-3377,3382.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[8] 徐明，高翔，许志刚，等．基于改进卡方统计的微博特征提取方法[J] 计算机工程与应用,2014,50(19):113-117,142.(Xu Ming,Gao Xiang, Xu Zhigang,et al.Microblog feature extraction method based on improved chi-square statistics [J].Computer Engineering and Applications,2014,50 (19): 113-117, 142. ) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[9]熊忠阳，张鹏招，张玉芳．基于X2 统计的文本分类特征选择方法的研 究[J].计算机应用，2008,28(2):513-514,518.(Xiong Zhongyang Zhang Pengzhao,Zhang Yufang. Study of text categorization feature selection method based on $\\mathtt { \\Omega } \\mathtt { X } 2$ statistics[J].Computer Applications,2008, 28 (2): 513-514,518.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[10] Jones K S.A statistical interpretation of term specificity and its application in retrieval[J]. Journal of Documentation,1972,28(1): 11-21. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[11]任姚鹏，陈立潮，张英俊，等.结合语义的特征权重计算方法研究[J]. 计算机工程与设计,2010,31(10):2381-2383,238(Ren Yaopeng,Chen Lichao,Zhang Jianjun,etal.Research on the calculation methods of feature weights combined with semantics [J].Computer Engineering and Design, 2010,31(10): 2381-2383,2387.) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[12]张剑峰，夏云庆，姚建民．微博文本处理研究综述[J]．中文信息学报， 2012,26 (4):21-27,42.(Zhang Jianfeng,Xia Yunqing,Yao Jianmin. Summary of research on microblogging text processing [J]. Journal of Chinese Information Processing,2012,26 (4): 21-27,42.) ",
+        "page_idx": 4
+    }
+]

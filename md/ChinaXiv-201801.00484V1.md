@@ -1,0 +1,226 @@
+# DOI:10.5846/stxb201610112058
+
+徐敏,伍钧,张小洪,杨刚.生物炭施用的固碳减排潜力及农田效应.生态学报,2018,38(2);393-404.  
+XuM,WuJgobi(2) :393-404.
+
+# 生物炭施用的固碳减排潜力及农田效应
+
+徐敏,伍钧\*,张小洪,杨刚四川农业大学环境学院，成都611130
+
+摘要：气候变暖及粮食安全是保证人类可持续发展的重要课题。生物炭具有较高的稳定性、较高碳含量等特点，能增加土壤碳储量,提高土壤物理及化学性质,提高农田产出,能应对高温胁迫及土壤退化双重压力,具有一举多赢的生态环境效益,在缓解温室效应及粮食危机方面展现出巨大的潜力。综合前人研究成果,分析了生物炭固碳减排潜力及农田效应影响因素（包括：生物炭原料、制备温度、施用量、土壤类型等)。综合固碳减排及提高产出两方面因素,提出了较合适的生物炭施用标准,即 300-$7 0 0 \mathrm { ^ { \circ } C }$ 制备的农林废弃物生物炭,且施用量不超过 $5 \%$ 。对生物炭固碳减排及田间效应领域未来的研究方向进行了展望。
+
+关键词：生物炭；固碳减排潜力；农田效应
+
+# Impact of biochar application on carbon sequestration， soil fertility and crop productivity
+
+XU Min，WU Jun\*，ZHANG Xiaohong，YANG Gang College of Environmental Sciences，Sichuan Agricultural University，Chengdu 61113o,China
+
+Abstract:Global warming and food security have been significant isues in the fieldof sustainable development.Several studies have shown that biochar amendments markedlycontribute to mitigating global warming and food crises and produce beneficial win-winefects.This is mainlybecauseof thehigh stabilityandcarboncontentofbiochar,whichcan enhance the storage fsoilcarbonandthephysicalandchemical propertiesof soil，consequentlyresulting inincreasedyields.Therefore, the objectiveofthe present work was toexamine previous studies on theeficacyof biochar asa soil amendmentand to analyze the intrinsic factors that affect soil carbonreserve andagronomic benefits（including：fedstock，pyrolysis temperature，applicationrateandsoil type）.On thebasis of theresultsobtained，a suitableapplicationcriterion was proposed，which hasshownpotential eficiency incarbon sequestrationas wellasagronomic benefits:biocharderived from pyrolysis of biomass from forestry and harvest residues at a temperature of $3 0 0 { \mathrm { - } } 7 0 0 ^ { \circ } { \mathrm { C } }$ ，with a relatively low dosage of no more than $5 \%$ .Finally，we propose future research directions for a better understanding of the efects of biochar on carbon sequestration potential， soil fertility and crop growth.
+
+Key Words: biochar;carbon sequestration potential;agronomic effect随着全球人口的增加及气候变暖的加剧,粮食供应与人口的矛盾日益突出,预计到 2050年全球人口将达96 亿[1-2]。气候变暖对粮食产量及可持续发展产生巨大的影响。研究表明,温度升高会抑制作物光合作用、降低水分利用效率,从而降低作物产量,在一定范围内,温度与作物产量呈线性负相关关系[3]。土壤碳库是
+
+http://www.ecologica.cn
+
+生态系统中重要的碳库和汇,其碳储量高达 27000 亿t,土壤碳库的变动对全球温室气体有着举足轻重的作用。气候变暖及粮食危机对土壤固碳减排及多产的要求日趋增加,而气候变暖[3-6]及土壤退化是降低作物产量的主要原因[-0]。生物炭（Biomass Charcoal，BC）是指农业废弃物、林业废弃物、水生生物、人类及动物排泄物、工业废弃物等有机废弃物[²，在250— ${ \bf \nabla } \cdot 7 0 0 ^ { \circ } { \bf C }$ 缺氧或低氧条件下,热解炭化而成的高度芳香化的含碳物质[7-12]。生物炭原料来源广泛,成本低廉,具有多孔、比表面积大、吸附能力强、碳稳定性强等特点[13-15],是一种经济、环境友好型的土壤改良剂,在土壤培肥[7,16-19]、温室气体减排[7,20-23]方面表现出巨大的潜力,具有较高的生态经济效益[13,20.24-26]。以生物炭进行固碳减排,每年每公顷农田能固定 $\mathrm { C O } _ { 2 } 7 . 6 \mathrm { t }$ ,预计到 2100年,全球将有 $9 . 5 { \times } 1 0 ^ { 1 0 } \mathrm { t }$ 碳封存于土壤中[5],每年可抵消因人为引起的 $12 \%$ 的C 排放[6。生物炭施用能增加土壤碳储量,减少温室气体排放,缓解因高温引起的粮食减产[3],同时,还能提高土壤质量,进一步提高农田产出,维持农田可持续发展[1,4]。 Xm
+
+本文总结前人研究,主要从生物炭减少温室气体排放及提高农田产出两方面进行总结归纳，阐明生物炭作用机理及影响因素,以期为生物炭应用于缓解温室效应及提高农田可持续发展提供理论依据。
+
+# 1固碳减排
+
+# 1.1 固碳减排潜力
+
+引起温室效应的气体主要是 $\mathrm { C O } _ { 2 } \ 、 \mathrm { C H } _ { 4 } \ 、 \mathrm { N } _ { 2 } \mathrm { O } ^ { [ 5 , 2 7 - 2 8 ] }$ ,其中,农田生态系统是重要的排放源之一,占全球温室气体总排放量的 $1 0 \% - 2 0 \%$ ,且在不断增加[29],因此,减少农田温室气体排放具有重要意义。我国绝大部分土壤有机碳含量为 $1 0 0 \mathrm { { t } / h m } ^ { 2 }$ ,低于世界平均水平 $1 2 1 \mathrm { t } / \mathrm { h m } ^ { 2 }$ ,耕层土壤碳密度低于全球平均值的 $70 \%$ ,旱地耕层土壤碳密度仅为平均值的1/3,可见,我国土壤生态系统具有巨大的固碳减排潜力[4.30]。
+
+我国每年产生的生物质量巨大,据统计,每年可利用农林生物质总量为 $6 . 0 5 \times 1 0 ^ { 8 } { \mathrm { t } }$ ,其中,农业生物质占（204号 $8 3 \%$ ,林业生物质占 $1 7 \% ^ { [ 3 0 - 3 1 ] }$ 。农业生物质主要为水稻、小麦和玉米秸秆,分别约 $1 . 1 { \times } 1 0 ^ { 8 } , 1 . 3 { \times } 1 0 ^ { 8 } , 2 . 3 { \times } 1 0 ^ { 8 } \mathrm { t }$ ，其中， $1 / 3 \ – 1 / 4$ 的秸秆被直接焚烧[,0-32],还有一部分直接还田。李飞跃等[30]估算得出我国作物秸秆每年因焚烧排放的总碳量为 $4 . 7 7 \times 1 0 ^ { 7 } \mathrm { t }$ 。以焚烧产生的黑炭及秸秆直接还田两种方式还田，不稳定性碳比例均高于生物炭,不利于碳的固定[33-34]。与原材料相比,热解的生物炭具有更多稳定性碳[3-34],因此,将农林废弃物以生物炭的形式封存于土壤中,更利于碳的固定。若以生物炭形式,对废弃生物质进行封存,我国每年缓解温室效应总潜力为 $5 . 4 5 \times 1 0 ^ { 8 } \mathrm { t }$ ,净固碳潜力约 $\bar { 5 } . 3 2 \times 1 0 ^ { 8 } \mathrm { t }$ ,其中,焚烧部分以生物炭固存,每年平均固碳量可达 $0 . 9 6 \times$ $1 0 ^ { 8 } \mathrm { t } ^ { \left[ 3 0 - 3 1 \right] }$ 。生物炭施入土壤对碳的封存效果取决于多方面的因素,如生物炭性质、土壤性质、气候条件、管理措施等[4.6]。Sheng 等[4]研究认为,pH较低的土壤能加速土壤碳的矿化,固碳效果差,而对于酸性耕地占总耕地面积 $2 7 \%$ 的中国来说,高估了其土壤固碳潜力。
+
+# 1.2 固碳减排机制
+
+生物炭施用于土壤是一种有效的固碳减排手段[4,35],与不施生物炭相比,施用生物炭降低了土壤N、C 的矿化作用,减少土壤生态系统 $\mathrm { C O } _ { 2 } \ 、 \mathrm { N } _ { 2 } 0$ 等温室气体排放[36-37]。其固碳减排机制主要表现在(表1)：一是自身含碳较高,且稳定性高[23,38-39]。生物炭中易氧化态碳比例低,芳香化碳比例高,约占 $6 0 \%$ 以上,且随着温度升高而增加[38],这部分不易被分解[40-42],是生物炭具有固碳减排效益的前提[41]。 ${ { \mathbb { W } } _ { \mathbf { u } } }$ 等[21]研究表明,生物炭中的碳平均滞留时间为617—2829年,表现为对碳封存作用极佳,且具有长期效果[20]。二是对作物生长的促进作用,提高碳利用效率,具有固碳效应[1]。Liu等[43]认为生物炭可通过增加土壤有机质及养分含量来,促进作物生长[19.37],提高土壤碳的利用效率。三是减少化肥投入,可降低生产化肥消耗的能源及肥料施用排放的温室气体[1,44]。Zhang 等[44]采用平衡施肥法配以生物炭施用,能在提高玉米产量的同时减少 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放,利于农田的低碳可持续发展。四是生物炭抑制温室气体排放[1,44],主要表现在:1)通过调节土壤性质及微生物活性,调节硝化及反硝化反应,抑制 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 产生,其一是增加了土壤的透气性,抑制了反硝化作用[28.45];其二是提高土壤 $\mathrm { \ p H }$ 值,增强了 ${ \bf N } _ { 2 } \mathrm { O }$ 还原酶活性,降低 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 含量[28.46],而Ameloot等[28]研究表明,生物炭抑制了 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的产生,但并未促进 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 向 $\mathbf { N } _ { 2 }$ 的转化,其原因还需进一步探究。2)生物炭C/N 较高,N 的循环被抑制[10,47]。3)降低酶活性,抑制N矿化,有助于提高土壤N含量[10]。4)影响土壤微生物群落结构及功能,抑制了某些微生物的活性,从而抑制对有机质的降解[48-49],降低了C、N的排放[50]。5)生物炭吸附C、N及有机质,生成更稳定的物质[0,45-46.51],Nguye $\mathrm { L e e } ^ { [ 5 2 ] }$ 及 $\mathrm { \Delta X u }$ 等[23]研究表明,生物炭巨大的比表面积及一定的矿物质含量（如FeOH、 $\mathrm { C a C O } _ { 3 }$ 等)对 $\mathrm { C O } _ { 2 }$ 具有较强的物理、化学固定作用,物理及化学固定作用促使生物炭与土壤及有机质形成有机-无机复合体,生成更紧密的团聚体。孟凡荣等[53]3年田间试验表明,生物炭的施用提高了黑土中黑炭缩合度,提高了胡敏素 HA芳香性,其原因主要是:a)生物炭自身的 $\mathrm { C } = \mathrm { C }$ 增加黑炭中 $\mathrm { C } = \mathrm { C }$ 比例;b)生物炭的施入提高了微生物活性,分解黑炭中一部分C-C,还有一部分形成更稳定的 $\mathrm { C } = \mathrm { C }$ ,稳定性增加。生物炭主要以自由有机碳储存在土壤粘粒中,同时,能促进土壤中的有机碳由大团聚体向小团聚体转变[6]。6)降低酶活性,抑制土壤呼吸作用[43.54],侯亚红等[55]研究表明,与秸秆还田相比,秸秆生物炭施用降低了脱氢酶、β-糖苷酶活性,显著降低了土壤呼吸,认为生物炭施用是一种低碳的还田模式,利于碳长期封存[54]。而 Plaza 等[20]及Liu 等[43]研究表明,生物炭施用对土壤呼吸无影响,但仍认为生物炭固具有固碳效应,主要是因为：一方面,生物炭施用后,未刺激土壤碳的矿化,即具有固碳效应;另一方面,生物炭施用促进作物生长,提高土壤碳利用效率，具有固碳效应。
+
+表1生物炭对温室气体排放的影响及机制  
+Table1Contrasting effects and mechanisms of biochar on greenhouse gas emissions   
+
+<html><body><table><tr><td>固碳减排机制 Mechanisms of carbon sequestration potential</td><td>参考文献 促进温室气体排放机制 References Mechanisms of greenhouse gas emission</td><td>参考文献 References</td></tr><tr><td>提高土壤养分含量,促进作物生长,提高碳 利用效率</td><td>提高盐基离子含量,特别是K,促进本土有机质及 [43-44] 生物炭的矿化，促进可溶性有机质的释放</td><td>[57]</td></tr><tr><td>提高土壤含水量，提高作物水分利用率，促 进作物生长 提高土壤pH,提高NO还原酶活性,降低</td><td>[42]</td><td></td></tr><tr><td>NO含量 生物炭对CO的物理、化学吸附作用促进稳</td><td>[28,46,54] 提高土壤含水量及温度,促进矿化</td><td>[64]</td></tr><tr><td>定团聚体结构形成 改变微生物群落及功能，降低有机质的分解</td><td>[20，23,45-46,51-52]提高pH,促进可溶性有机质释放,促进矿化作用</td><td>[57]</td></tr><tr><td>降低酶活性,抑制土壤呼吸</td><td>[48-49] 生物炭的可溶解性有机物的释放及矿化作用</td><td>[45]</td></tr><tr><td>调节土壤氧化还原环境,抑制NO的产生</td><td>[43] 提高微生物活性及生物量，促进有机质矿化</td><td>[22,45]</td></tr><tr><td>C/N 比高,N生物固定,降低N矿化</td><td>[28,45] 提高酶活性，促进矿化作用</td><td>[45]</td></tr><tr><td>稳定性高,利于长期固存</td><td>[10]</td><td></td></tr><tr><td>减少化肥施用,减少因生产化肥而消耗的</td><td>[23,38-39] [44]</td><td></td></tr></table></body></html>
+
+# 1.3 负效应
+
+也有学者研究认为生物炭施用对温室气体排放无影响或促进其排放（表1）[2,45]。Purakayastha 等[22]研究表明,生物炭虽然增加了土壤pH、CEC,但对碳矿化作用无显著影响,表现为碳中性。可溶性有机质是土壤移动性最强、生物有效性最高的部分[56],在土壤碳循环过程中占重要地位[57],可溶性有机质含量越高,越易矿化[45]。研究表明,生物炭的施用提高了土壤孔隙水中[58]及土壤[59]可溶性有机质含量。同时,生物炭施用也提高了土壤孔隙度[18.60-61]及土壤含水量[62-63],而 Sun等[64]研究认为,土壤水含量为 $70 \%$ 时,土壤碳矿化作用最强,由此,生物炭施用提高了土壤水分及可溶性有机质含量,也可能促进碳的矿化。此外,Wang 等[57]研究显示,生物炭还会促进本土有机质转化为可溶性有机碳,可能是因为生物炭：a)提高了土壤 $\mathrm { \ p H }$ 值,增加了可溶性有机质的释放;b)提高了腐殖胶体表面的电负性官能团;c)增加了盐基离子,特别是 $\mathrm { K } ^ { + }$ 含量，竞争粘土及有机质表面的阳离子交换位点,从而增加可溶性有机质的释放。Subedi 等[45]研究还表明， $2 \%$ 的粪便生物炭施用增加了土壤 ${ \mathrm { N } } _ { 2 } \mathrm { O }$ 的排放,主要是因为:a)生物炭的可溶解性有机物的矿化作用[57];b)微生物数量及活性的增加，促进生物炭、土壤有机质或动植物残体的分解。
+
+# 1.4影响因素
+
+不同的研究结果可能与生物炭的原料[10,54]、施用量[64]、土壤因素[4-5.54]、人为因素[4]、试验时间[4,22]等有关（表2)。影响因素在不同条件下,占有不同的地位,如Luo 等[1°研究表明 $1 \%$ 一 $3 \%$ 生物炭单独施用提高了土壤 $\mathrm { \ p H }$ ,对土壤N矿化影响不大,表明, $\mathrm { \ p H }$ 的增加不是N矿化的主要影响因素,高C/N 是主要限制因素;而与尿素配施后,N矿化与 $\mathrm { \ p H }$ 呈显著负相关关系,施用 $1 \%$ 生物炭相关系数为 $R = - 0 . 7 0 9$ （ $P { < } 0 . 0 5 )$ ，施用 $3 \%$ 生物炭相关系数为 $R = - 0 . 7 5 3$ （ $P { < } 0 . 0 5 \mathrm { ) }$ ，此时， $\mathrm { \ p H }$ 是主要影响因素。 2
+
+表2影响农田温室气体排放因素  
+Table 2The effect factors of greenhouse gas emissions via biochar addition   
+
+<html><body><table><tr><td>影响因素 Influencing factors</td><td>效果 Effects</td></tr><tr><td>生物炭原料 Biochar feedstocks</td><td>木质生物炭优于秸秆生物炭</td></tr><tr><td>生物炭制备温度Pyrolysis temperatures</td><td>温度越高越利于碳固定，一般取500—700℃</td></tr><tr><td>施用量 Application rates</td><td>施用量越大，固碳减排效应越好</td></tr><tr><td>土壤 pH Soil pH</td><td>pH 越低,C、N矿化作用越明显</td></tr><tr><td>土壤湿度 Soil moisture</td><td>70%田间持水量矿化量最高</td></tr><tr><td>土壤温度 Soil temperature</td><td>温度越高,矿化效果越好</td></tr><tr><td>土壤有机质 Soil organic matter</td><td>有机质含量高,表现为抑制呼吸,反之亦然</td></tr><tr><td>气候因素 Climatic factor</td><td>热带矿化作用高于温寒带</td></tr><tr><td>老化作用Aging</td><td>恒湿<干旱、干湿交替</td></tr><tr><td>试验时间 Test time</td><td>初期CO排放较多,随后降低</td></tr><tr><td>人为活动 Anthropic activities</td><td>与有机肥、化肥配施，降低C矿化</td></tr></table></body></html>
+
+# 1.4.1 生物炭性质
+
+生物炭部分不稳定性C会被生物分解,稳定性C则会固存于土壤[65],稳定性碳含量多少与生物炭的制备温度及原料密切相关[57,6-67]。一般而言,随着热解温度增加,生物炭脂肪族碳含量降低,芳香族碳含量增加，C 稳定性更高[38,68-70],固碳减排效益越好[22]。Ahmad 等[71]认为高温制备生物炭含有更多的稳定性碳,可在土壤中存在至少1600 年。研究表明,农林废弃物在 $5 0 0 { - } 7 0 0 \mathrm { ^ { \circ } C }$ 条件下制备的生物炭的 $\mathrm { \Delta } \mathrm { H / C }$ 小于 $0 . 7 ^ { [ 7 1 ] }$ ,稳定性C含量在 $9 8 \%$ 以上[68],稳定性高。此外,高温制备生物炭可矿化态C及N含量低[45,70],对土壤微生物数量无影响,对C、N的矿化及释放无促进作用[71]。不同原料生物炭固碳减排效益表现为：木质生物炭高于秸秆生物炭[46],这可能与木质生物炭:a)微孔数较高（ $V _ { \it \textmu \Psi \Psi } / V _ { \it \textmu \Psi \Psi } = 6 1 . 5 \% )$ ,吸附性能较高[72];b)C/P 较低［73]；c)灰分含量及不稳定性碳含量较低[45.65]密切相关。而几种农业秸秆废弃物生物炭固碳减排效益表现为：玉米秸秆优于稻壳及小麦秸秆[22]。粪便及污泥生物炭含灰分较多,减排效益较弱[45,70.,74]。
+
+# 1.4.2 施用量
+
+生物炭施用量也影响温室气体排放效果,一般而言,随着生物炭施用量的增加,对C、N的吸附作用增强，温室气体排放减少[29,43,4,75];改善土壤理化性质,碳利用率更高[75]。Paneque 等[75]研究认为,生物炭施用量为 $1 5 \mathrm { t } / \mathrm { h m } ^ { 2 }$ 时,能提高作物生长,利于碳的固存[43]。李露等[29]研究表明施用生物炭 $2 0 \mathrm { t } / \mathrm { h m } ^ { 2 }$ 对水田温室气体$\mathrm { N } _ { 2 } \mathrm { O }$ 和 $\mathrm { C H } _ { 4 }$ 的排放无显著影响,施用 $4 0 \mathrm { t } / \mathrm { h m } ^ { 2 }$ 生物炭能显著降低 $\mathrm { C H } _ { 4 }$ 的排放。而程效义等[76]等研究则表明,施用 $2 0 \mathrm { { t } / h m } ^ { 2 }$ 降低 $\mathrm { N H } _ { 3 } \setminus \mathrm { N } _ { 2 } \mathrm { O }$ 的排放量,施用 $4 0 \mathrm { { t } / h m } ^ { 2 }$ 效果则相反。 $\mathrm { X u }$ 等[60]及Gasc6等[38]研究表明， $8 \%$ 生物炭施用量能降低土壤呼吸,小于 $8 \%$ 施用量则提高了土壤呼吸作用。不同的施用量标准还与土壤性质及气候等因素有关。
+
+# 1.4.3 土壤因素
+
+土壤因素,包括土壤 $\mathrm { \ p H }$ 、有机质含量、含水量、温度等。Sheng 等[4研究表明,与对照相比,酸性土壤施用生物炭促进了本土有机质及生物炭的分解,提高了 $\mathrm { C O } _ { 2 }$ 的排放量,提高幅度约1.5—3.5倍,其原因是酸土壤：
+
+a)革兰氏阳细菌比例增加（增幅为 $2 5 \% - 3 6 \%$ ）,促进生物炭及有机质降解;2)生物炭提高了C/O比例,在底物有限的情况下，增加了 $\mathrm { C O } _ { 2 }$ 排放。Luo等[10]研究表明生物炭与尿素配施,解除C/N高的抑制作用后,N矿化与 $\mathrm { \ p H }$ 呈显著负相关关系。Purakayastha 等[22]研究表明,生物炭施用抑制了有机质含量高的松软土的土壤呼吸,促进了有机质含量低的老成土土壤呼吸。土壤温度、湿度也是影响碳矿化作用的影响因素之一[64]Sun 等[64]研究表明,生物炭施用条件下,田间持水量为 $70 \%$ 时,碳矿化量最高。且随着土壤温度的升高,土壤可矿化态碳含量增加,碳循环周期及稳定性碳含量均降低[64]。
+
+# 1.4.4 管理措施
+
+生物炭与外加肥料混合施入土壤,能降低碳的转移,更利于碳的固定[42」，主要是因为生物炭与外加肥（如N、P肥及有机肥)施用提高了土壤可利用养分含量,促进作物生长,更利于土壤碳的固定[3]。Agegnehu 等[37]研究得出,与施用化肥、生物炭与化肥、堆肥与化肥处理相比,生物炭或生物炭与有机肥施用对温室气体减排的作用最大。Jiang 等[34]研究证实了生物炭具有较强的稳定性,N素及低碳有机物的加入提高了可溶性有机质含量,但对生物炭的稳定性无影响。Luo等[10]研究表明,虽然生物炭与氮肥配施降低了土壤C/N（从32.8—33.8 降低至7.09—11.3），提高了N的矿化作用,但生物炭的 $\mathrm { N H _ { 4 } ^ { + } { - } N }$ （20号 $\phantom { + } \cdot \phantom { + } \mathbf { N O } _ { 3 } ^ { - }$ -N 含量显著低于土壤,认为生物炭与氮肥施用虽提高了N的矿化,同时也增加了土壤N 含量,避免了因矿化产生的N损失,有助于提高土壤肥力。由此可见,生物炭与外加肥料配施,可能会促进可溶性有机质释放及N的矿化,但生物炭施用本身的固碳减排效益及提高作物生长的固碳减排效益仍具备。 A
+
+# 1.4.5 其他影响因素
+
+实验长短也是影响生物炭固定效益的重要因素。生物炭施用初期C、N矿化增大，随后则降低，主要表现在试验初期,外加有机质提高微生物活性,矿化作用增强[58]。另外,生物炭稳定性高[22],且具有较高的 $\mathrm { c }$ $\mathbf { N } ^ { [ 1 0 ] }$ ,长期来看,C、N矿化作用较弱。生物炭的施用对土壤有机质的提升及稳固作用也是一个长期的过程,大部分室内培养及田间试验均较短,对土壤C、N矿化及土壤碳库的提升作用不明显[6],Fungo 等 $^ { [ 6 ] } 2$ 年田间试验表明,生物炭单独施用对土壤团聚体大小无显著影响,主要是因为:a)团聚体形成初期,耕作、除草等人为因素的破坏;b)时间较短。
+
+气候引起土壤环境的变化,如干湿交替、干旱等环境,会加速碳的矿化,促进 $\mathrm { C O } _ { 2 }$ 的排放[77]。Wang等[57]研究则表明,与恒湿相比,干旱及干湿交替更能促进本土有机质分解转化为可溶性有机质,主要原因为二者：a)增加了微生物作用有机质的几率;b)提高了微生物活性,促进了土壤有机质分解。
+
+# 2农田效应
+
+生物炭在固碳减排的同时[3.61],提高农田土壤产出[10.37],达到一举多赢的目的[35,65,78-79]。大量研究表明，生物炭的施用能改善土壤物理性质[37,80],提高土壤养分含量[79.81],促进作物生长,提高作物产量[4,82]。已有研究表明,生物炭施用能提高小麦[9]、水稻[19,82]、玉米[4]、生菜[83]、向日葵[75]、草莓[83]等作物生物量及产量,增产幅度为 $1 3 \% - 1 1 2 \% ^ { [ 3 ] }$ 。以生物炭的方式还田,与同施用量的秸秆还田及单施化肥相比,增产效果更好,环境及经济效益更佳[19,37]。
+
+# 2.1增产机制
+
+1 生物炭提高作物产量表现在：一是生物炭促进作物生长[19]；二是调节土壤环境[84],且二者与作物产量均呈显著正相关关系[37]。
+
+# 2.1.1 提高作物生长
+
+生物炭促进作物生长表现在(表3),生物炭的施用可提高:1)作物叶片胡萝卜素、叶绿素含量[37]及叶片天冬氨酸、谷氨酸含量,为促进作物生长,提高作物生物量及产量奠定了基础[84」;2)提高根系生物量、长度,提高根系伤流速度及氧化力[85];3)提高作物茎叶及籽粒氮、磷、钾含量[37,65,80.86];4)提高水分利用率[75],Paneque 等[75]研究表明,地中海气候下,生物炭施用促进了叶片气孔关闭,从而提高叶片含水量。6)生物炭降低病虫害发生几率[83],主要是因为:a)提高了土壤养分含量,特别是K,促进作物生长,利于抗病;b)促进根际土有益微生物生长,抑制病菌入侵;7)降低了重金属在作物体内的转移系数,降低作物体内重金属含量[32,82,87],特别是可食用部分重金属含量[15,32,4,87-89],主要是因为生物炭;a)能通过提高土壤pH、吸附、共沉淀、官能团螯合等作用固定重金属[87-88];b)提高可食用部分生物量[87],“稀释”了作物体内重金属含量[82,84],且随施用量增加,降低幅度增加[89]。Mohamed 等[90]研究认为 $1 . 5 \%$ 施用量是较合适的,能降低作物重金属积累量,保证人类健康。8)降低有机污染物毒性,促进种子萌发及作物生长[84,891]。生物炭施用降低土壤污染物的毒性,减少了植物螯合肽的合成与分泌[84,89]。
+
+表3生物炭对农田产出的影响及机制  
+Table 3Contrasting effects and mechanisms of biochar on crop yield   
+
+<html><body><table><tr><td>提高农田产出机制 Mechanisms of higher yield</td><td>参考文献 References</td><td>降低农田产出机制 Mechanisms of yield reduction</td><td>参考文献 References</td></tr><tr><td>生物炭提高土壤N、P、K养分含量,促进 生长</td><td>[44,83]</td><td>盐基离子K含量过高,渗透压降低,抑制作 物生长</td><td>[98]</td></tr><tr><td>改善土壤理化性质，如含水量、pH、CEC、容 重、透气性</td><td>[62,80-81,93]</td><td>pH过高,抑制根系活动</td><td>[17,98]</td></tr><tr><td>提高土壤吸附性能,减少养分,水土流失</td><td>[20,42]</td><td>吸附速效养分，降低速效氮、磷、微量元素 (如Fe)含量,抑制作物生长</td><td>[58,80,89,99]</td></tr><tr><td>吸附污染物,降低污染物毒性,减少植物螯 合肽合成与分泌</td><td>[84,89]</td><td></td><td></td></tr><tr><td>提高有机质含量,促进团粒结构的形成</td><td>[6,20,80]</td><td>生物炭毒性物质，抑制作物生长</td><td>[5,17]</td></tr><tr><td>提高有益细菌数量，降低病虫害感染率</td><td>[83,87]</td><td></td><td></td></tr><tr><td>提高土壤动物数量，利于改善土壤 提高叶片含水量、叶绿素、天冬氨酸等含量，</td><td>[85]</td><td></td><td></td></tr><tr><td>促进作物生长</td><td>[37,75,84] [37,65,80,86]</td><td></td><td></td></tr></table></body></html>
+
+# 2.1.2 提高土壤肥力
+
+生物炭的施用能提高土壤质量[19.46.5.84],促进作物生长,特别是在养分、水分缺乏的条件下[83]。生物炭提高农田效益主要归因于生物炭:1)自身含有较高的养分,促进作物生长[4483];2)施用能降低水分、养分的淋失[42],且温度越高,固持效果越好[92]。一般而言,生物炭施用后土壤田间持水量提高 $1 5 . 1 \%$ ,土壤饱和导水率增加 $2 5 . 2 \% ^ { [ 8 1 ] }$ 。3)改变根际微生物群落组成[83],提高有益细菌的生物量[87];4)利于土壤团聚体的形成,提高其稳定性[6.20],促进土壤保肥保水[20],主要是因为生物炭:a)促进根系及微生物（特别是真菌)的生长,从而促进团聚体形成[8」;b)提高可交换性阳离子如Ca的交换能力,抑制粘粒的分散作用[； $ { \mathbf { \rho } } _ { \mathrm { c } }$ )通过比表面积或含氧官能团吸附粘粒,提高微团聚体形成[6];d)提高微生物量[6]。5）一定程度上提高了土壤温度,利于微生物活动,Usowicz 等[62]研究表明,施用20- $3 0 \mathrm { { t } / h m } ^ { 2 }$ 生物炭,能降低土壤导热率及热扩散率;还会增加土壤颜色,降低反射率[62]。6)改善土壤物理性质，如降低土壤容重[62],提高含水量及透气性[80]等。生物炭能显著降低土壤容重[62,93],且随着生物炭的施用量增加而降低幅度增加[63,81]。Glab 等[63]研究表明,土壤容重 $y$ 与生物炭施用量 $x$ 相关关系可表示为： ${ } ; y = - 0 . 0 8 5 6 x + 1 . 6 5 5 9$ （ $R ^ { 2 } = 0 . 9 0 3$ )。此外,生物炭还能提高盐碱土孔隙度,改善透气性,提高土壤团聚体,促进作物生长[80]。7)提高土壤动物数量,特别是无脊椎动物,其原因是生物炭的施用:a)提高了微生物数量,为无脊椎动物提供了更多的食物[85];b)降低土壤污染物的有效性[85]。
+
+# 2.2 负效应
+
+也有一些研究结果表明生物炭的施用对作物产量无影响,甚至出现降低的趋势[83,94]。生物炭抑制作物生长的主要原因是(表3):1)生物炭含有含有一定量重金属、多环芳烃等有毒物质[5,17],抵消了生物炭因改善土壤的生物学效应,表现为对产量无影响或导致产量下降[17.93]。生物炭的有毒物质[38],是阻碍生物炭应用的重要原因[95]。因此,施用前应对生物炭进行毒性检测[1,17,96]。根据欧盟生物炭联盟的建议生物炭中重金属As ${ \mathrm { . c d . P b } }$ 及PAHs的含量应低于 $1 2 \mathrm { - 1 0 0 m g / k _ { \mathrm { S } } ^ { g } \cdot 1 . 4 \mathrm { - } 3 9 \mathrm { m g / k _ { \mathrm { S } } ^ { g } \cdot 7 0 \mathrm { - } 5 0 0 \mathrm { m g / k _ { \mathrm { S } } ^ { g } \cdot 4 \mathrm { - } 1 2 \mu g / g ^ { [ 2 4 , 9 4 ] } } _ { o } 2 ) } }$ 降低了有效水含量，Carvalho等[9研究表明，施用 $3 2 \mathrm { t } / \mathrm { h m } ^ { 2 }$ 的木质生物炭对水稻产量无影响，可能是因为生物炭降低了土壤植物有效水含量,这部分作用抵消了生物炭对土壤有机质的提升作用;3)较高的C/N比,降低有效N 的含量[32];4)提高了土壤的 $\mathrm { \ p H }$ ,抑制了根系活性[17];5)养分过高,特别是 $\mathrm { K } ^ { [ 5 ] }$ 。Buss 等[98]分析了19种生物质制备而成的生物炭的元素组成，表明,19种生物炭中K元素富集系数及含量最高,较多的K元素提高了土壤渗透压及 $\mathrm { \ p H }$ ,抑制了种子发芽。6)降低微量元素(如Fe、 $\mathrm { G u }$ )有效性,抑制叶绿素产生,降低光合[58];7)速效养分含量降低,且随着温度升高及施用量增加,降低幅度增加。随着热解温度升高,生物炭比表面积增大,吸附的速效养分增加[99];Seneviratne 等[89]及 $\mathrm { { X u } }$ 等[80]证实了,随着生物炭施用量增加,土壤有效N、P含量出现降低的趋势，二者呈现负相关关系。 L 2
+
+# 2.3 影响因素
+
+生物炭对农作物生长的促进作用随生物炭类型及热解温度、土壤类型、施用量、气候的不同而不同（表4)[75,78,8]。不同影响因素,在不同条件下所占地位不一致。Hagner等[35研究认为,桦木生物炭的施用效果与作物类型及施用量关系密切,而热解温度对土壤性质及作物生物量的影响作用较小。而对于较干旱的地中海气候,生物炭对水分的固持作用越好,对作物促进作用越好,此时,原料占主导[75]。
+
+表4生物炭影响作物生长因素  
+Table 4The effect factors of plant growth after biochar addition   
+
+<html><body><table><tr><td>影响因素 Influencing factors</td><td>效果Effects</td><td>参考文 References</td></tr><tr><td>生物炭原料Biochar feedstocks</td><td>猪粪>秸秆>葡萄藤、竹炭>木质生物炭</td><td>[19,61,85-86,100]</td></tr><tr><td>生物炭热解温度Pyrolysis temperatures</td><td>低温(300—400℃)制备的生物炭，对土壤理化性质（如 养分、微生物丰度、酶活性、团聚体)的改善效果更佳</td><td>[70-71,80]</td></tr><tr><td>施用量 Application rates</td><td>最佳施用量为1.5%—2.5%，且不超过5%</td><td>[89-90,98]</td></tr><tr><td>土壤类型 Soil types</td><td>粗砂>壤质土;酸性土>碱性土;有机质含量低>有机质 含量高</td><td>[35,61,65,88,90]</td></tr><tr><td>气候类型 Climate types</td><td>(半)旱区>湿润区</td><td>[18,81]</td></tr></table></body></html>
+
+# 2.3.1 生物炭性质
+
+不同原料生物炭对作物的增产效果不一致[85]。纵观前人研究,可以得出,不同原料生物炭对土壤改良及对作物促进作用大致表现为:猪粪生物炭>秸秆生物炭 $>$ 竹炭生物炭、葡萄藤生物炭>木质生物炭[19,61,85-86,100]粪便及污泥生物炭重金属及盐分含量较高[67],对作物生长抑制作用较强。另外,Paneque 等[75]研究表明,松树、纸浆、污泥生物炭持水量较低[9],对地中海气候下向日葵萌发及生长有抑制作用,而葡萄藤生物炭具有促进作用，还与地中海较干燥的气候条件有关。
+
+施用效果与生物炭的制备温度密切相关[70]。一般而言,低温( $3 0 0 { \mathrm { - } } 4 0 0 ^ { \circ } { \mathrm { C } }$ )制备生物炭:1)有效N、P含量较高,对作物生长促进作用较好[80];2)比表面积小,对养分固定作用小,利于根系生长[6];3)含不稳定可溶性有机碳较多[70],促进微生物生长,Ahmad等[71]研究表明, $3 0 0 \mathrm { ^ { \circ } C }$ 制备生物炭提高了土壤细菌、放线菌、真菌、丛枝菌根的丰度,而 $7 0 0 \mathrm { ^ { \circ } C }$ 制备生物炭施用,微生物数量表现出恒定的状态;4)影响酶活性,Wang 等[99]研究表明,生物炭热解温度从 $4 5 0 \mathrm { ^ \circ C }$ 增加到 $6 0 0 ^ { \circ } \mathrm { C }$ ,脲酶活性逐渐降低,不同酶种类表现出不同的趋势。Gascó等[38]施用 $8 \%$ 的猪粪生物炭,表明 $3 0 0 \mathrm { ^ { \circ } C }$ 制备生物炭提高土壤脱氢酶、磷酸单酯酶、磷酸二酯酶活性，而 $5 0 0 \mathrm { ^ { \circ } C }$ （204号制备的生物炭对土壤酶活性无影响。
+
+# 2.3.2 施用量
+
+施用量也是影响生物炭施用效果的重要因素[81]。如 Hagner等[35]及Paneque等[75]研究表明,低剂量生物炭施用对土壤pH、EC、含水量及微生物活性无影响,因此,对作物生长无促进作用,提高施用量能提高作物产量,认为施用量应在 $1 . 5 \mathrm { { t } / \mathrm { { h m } } ^ { 2 } }$ 以上。但施用量过高,超过 $5 \%$ 则出现抑制[89,93,98]。施用量过高,土壤养分（特别是K）[98] $\mathrm { \ p H } ^ { [ 9 8 ] }$ 、有毒元素[5.17]含量较高,抑制作物生长,同时会降低水分及养分有效性[32.97]。因此，选择合适的生物炭施用量是作物增产的前提[65,5,93-94]。Seneviratne 等[89]及 Buss等[98]研究认为 $2 . 5 \%$ 施用量对作物生长及养分的提高效果最佳[89]。
+
+# 2.3.3 土壤类型
+
+生物炭施用于不同土壤类型,作用效果亦不同[54,61,86]。整体来说:生物炭对粗砂土壤的改善效果优于砂土[61];对酸性土壤改良效果优于盐碱土[86.8,90];生物炭对粗骨土的改善作用优于壤土[61,81];对干旱及半干旱区土壤的养分[44]及物理性质[81]的改善作用更好[18]。生物炭可通过提高土壤pH、有机质含量,改善土壤的性质[101],简言之,对酸[86]、瘦[83]、粗[61]、旱[102]、冷[19]类型土壤改良作用更佳[19,35,65]。Tender等[83]研究表明，$3 \%$ 的生物炭施用量对大田生菜生长及抗立枯丝核菌感染的能力无影响,而显著提高了白炭泥土壤上草莓的鲜重及干重,提高了抗病能力，这与白炭泥土较低的 $\mathrm { \ p H }$ 及养分有关。此外,生物炭也能改善pH较高的盐碱土物理性质，如孔隙度、通透性、团聚体,从而提高作物产量[80]。
+
+# 2.3.4 管理措施
+
+与单施生物炭相比,生物炭与化肥[3.80]、作物残余物[40]、绿肥[6]配施,对作物光合作用、根系活力、土壤性质(如微生物活性、团聚体含量)的提升效果更明显,对作物生长的促进作用更好[5,37]。 $\mathrm { X u }$ 等[80]研究认为,生物炭与P肥配施于盐碱土,对作物的促进作用高于二者单独施用,主要是因为生物炭对P素的吸附作用,抑制了P的有效性,而与P配施减少了生物炭对P的固定。
+
+# 3总结及研究展望
+
+综上,生物炭固碳及农田效益受多方面因素影响,如生物炭性质、土壤性质、气候等因素影响,因此,生物炭施用需因地制宜,选择合适的生物炭[75]、合适的用量[94],是发挥固碳及增产效益的前提。基于本文提及的研究结论，综合固碳及培肥两个方面，笔者认为选择300一 ${ \bf \nabla } \cdot 7 0 0 ^ { \circ } { \bf C }$ 制备的农林废弃物生物炭，且施用量不超过5%为宜[45,67-68,70,75,89-90,98]
+
+生物炭作为在减少温室气体排放及提高农田产出方面表现出巨大的潜力,可通过大规模的施用,缓解温室效应,提高农田产出,维持农田可持续发展。而大规模应用仅在发达国家较多,对于发展中国家应用还较少[1],因此,还有许多不完备之处,尚需开展以下等方面的研究：
+
+(1)经济效益作为农田生态系统重要属性之一,生物炭施用的经济可行性是生物炭大规模应用的前提，特别是对于发展中国家,因此,还需对生物炭从生产到施用整个体系进行经济可行性分析,为大规模应用提供  
+基础;(2)生物炭固碳潜力及农田效益突出,如何量化生物炭作用效益,还需开展更多的工作;(3)生物炭的施用对土壤有机质的提升及稳固作用是一个长期的过程,对土壤改良及固碳是否具有持续效果,还需要长期的定点观测;（4)土壤粘粒含量也是影响生物炭施用效果的因素之一,具体的影响效果及机制还需进行定性及定量  
+探究；5)生物炭调节硝化及反硝化反应的作用机理还不清楚;(6)生物炭对土壤酶活性的影响及其影响因素尚不清楚。
+
+# 参考文献（References）:
+
+[1]ZhangDX,YanM,NiuY,LiuXY,van ZwietenL,ChenD,BianRJ,ChengK,LiLQ,JosephS,ZhengJW,ZhangXH,Zheng JF, CrowleyD,lGsdresslosfsbl & Environment,2016,226：25-32.   
+2]TripathaJaectofprocessaaetesoroductioofafoasssteoughlisvble
+
+http://www.ecologica.cn
+
+and Sustainable Energy Reviews，2016,55：467-481. [3]FahadS,HussainS,SaudS,HassanS,TanveerM,Isa MZ,ShahAN,UlaA,Nasrullah,KhanF,UlahS,lharbyH,Nasim W,Wu C,HuangJLedlicatoofhadosouteseat-dceddersiioiolocalgoldality attributes of rice.Plant Physiology and Biochemistry，2016,103：191-198. [4]ShenguLuceestratotetiarclefotalEt,, 137. [5]KuppusaSavaanieghaajVekateswarluK,idugroomicdeedialbitsndssofplingohal: current knowledge and future research directions.Environment International,2016,87：1-12. [6]Fung,iK,fedtegaezistibiheedoo under conventional hand-hoe tillage. Soil and Tillage Research，2017,165：190-197. [7] ColantoniA,EvicN,Lrd，RetscizegerS,rotAR，GallcciF，MoaraD.Characterzationofiocharsprducedfrolis pelletized agricultural residues.Renewable and Sustainable Energy Reviews,2O16,64：187-194. [8]JinJ,angJnK,anZZ，WuF,igBrpertsofheedlserptiofdaclopdo atrazine. Science of the Total Environment，2016,550：504-513. [9] RenXH,SunHW，WangF,CaoFM.Thechangesiniocharpropertiesandsorptioncapacitiesterbeingculturedwithheatfor3ots. Chemosphere，2016，144：2257-2263. [10]LuoXX，ChenL,ZengH,angJJ,WangHF,WangZY,XingBocharadiioreduedetNneralatoofsaadol in the Yellow River Delta，China.Geoderma，2016,282：120-128. [11] Shen X,HuangDY,Ren XF,ZhuHH,WangS,Xu C,HeYB,LuoZC,Zhu QH.PhytoavailbilityofCdandPbincropstrawbioharamendedsoilisrelatedtothehavymetalcontentofbothbiocharandsoil.JoualofEnvironmentalManagement，O16,68：4-251. [12]HanY,CaX,OuyagX,SoiSP,ChnJW.dsorptioinetisfmageticochaderivedfropeauthulloreovalfCr（）fro aqueous solution: efects of production conditions and particle size. Chemosphere，2016，145: 336-341. [13]Lehmann J. A handful of carbon.Nature，2007,447（7141）: 143-144. [14]KorraMS,ZangQ,LinDL,ZhengY,FangH,YuYBichar:areviewofitsimpactonpesticidebeavirinsoilenvirontsndits potential applications.Journal of Environmental Sciences,2016,44：269-279. [15]LiZY,QiXB,FanXY,DuZJ,HuC,ZaZJ,IsaY,LuAmendtheseigbedeglantwoaratlC in contaminated soils.Science of the Total Environment，2016,572：626-633. [16]TanXF,LiuYG,GuYL,XuY,ZengGM,HuXJ,LiuSB,WangX,LiuS,LiJ.Biochar-basedNanoomposiesforthedecoaaio of wastewater: a review. Bioresource Technology，2016,212: 318-333. [17]Bass AM,rdM,KayG，MuradB.Solpopertis，greosegaseissoandcodudercompost，iocharadcoposte biochar intwo tropical agronomic systems.Science of the Total Environment，2016,550: 459-470. [18]MohamdBA，Elis，KimCS，iXTEmAEREgneedbharfromicrowve-asisecatalticpyrolysisofwihassfr increasing water-holdingcapacityandfertiltyofsandysoil.Scienceof theTotalEnvironment，2016,566-567:387-397. [19]LiuYX,LuHH,YangSM,WangYF.Ipactsofoaraditiooniceyieldndsilpropertiesicoldwaterlogeddfortocp seasons. Field Crops Research,2016,191:161-167. [20]Plaza C,aBeJpedeEG,PolA,6G,ezA,aoCRespseeretsl to biochar and organic ferilizers.Agriculture，Ecosystems and Environment，2016,225:150-159. [21]WuMX，HanXG,ZhongT,Yuan MD，WuWXSolorganiccarbocontentaetstestabltofbiochripaddysoil.Agiculture, Ecosystems & Environment，2016,223:59-66. 22]PurakasDasKCsiasmitatflisruabilitprs C4 biochars applied to two different soils.Soil and Tilage Research,2016,155：107-115. [23] Xu X Y, Kan Y,ZhaoL, Cao X D. Chemical ransformation of CO $^ 2$ during itscapture bywaste biomassderived biochars.Environmental Polution, 2016,213: 533-540. [24] Yin DX，WangX,ChenC,PengB,TanCY,LiHL.VaryingeetofcharonCd,PbdAsobityinamuli-metalcontaatedpaddy soil. Chemosphere，2016,152：196-206. [25] SasidharanS,TorkzabanS,radfordSA,KokanaR,ageD,CookPGTransportandretentionofbacteriaandvirusesinbiocharaeded sand.Science of the Total Environment，2016,548-549：100-109. [26] OuyangWZhaoXC,ysklindM,HaoFH.Tpicalagiculturalfuseerbicidesorptioithgiculturalwastederivediocarsddoil of high organic matter content.Water Research，2016,92：156-163. [27]AwasthiMK,WangQ,RenXN,ZhaJC,HangH,AwasthiSK,LahoriAH,LiRH,ZhouLN,ZhangZQ.Rolefbiocharamendnti mitigationofntrogenlossndgrenhousegasmissonduringsewagesudgecompostingBioresouceTechnolog，01619:2280. [28]Amelot N, Maenhout P,De Neve S,Sleutel S. Biochar-induced ${ \mathrm { N } } _ { 2 } \mathrm { O }$ emission reductions after field incorporation in aloam soil.Geoderma,2016, 267: 10-16. [29］李露，周自强，潘晓健，熊正琴.不同时期施用生物炭对稻田 ${ \bf N } _ { 2 } \mathrm { O }$ 和 $\mathrm { C H } _ { 4 }$ 排放的影响.土壤学报，2015，52(4)：839-848.
+
+[30] 李飞跃，汪建飞.中国粮食作物秸秆焚烧排碳量及转化生物炭固碳量的估算.农业工程学报，2013,29（14）：1-7.   
+[31] 姜志翔，郑浩，李锋民，王震宇.生物炭技术缓解我国温室效应潜力初步评估.环境科学，2013，34(6)：2486-2492.   
+[32] Xu P, $\operatorname { S u n } \mathrm { ~ C ~ X ~ }$ ，YeX Z,Xiao WD,Zhang Q，WangQ.Theefect of biocharandcrop strawson heavy metal bioavailabilityand plant accumulation in a Cd and $\mathrm { P b }$ pollted soil.Ecotoxicology and Environmental Safety，2016,132：94-100.   
+3]NutialbraaAstiarGdsotiealofigaiedfrosalfeiaesefti alternate use of waste of biodiesel industry.Journal of Environmental Management,2O16,182：187-197.   
+[34]JiagXdL，otrufoFeractoseeandlgancaboecoposiotsofntrogdloole weight carbon compound adition.Soil Biology and Biochemistry,2016,100：92-101.   
+[35]HagerKmp,JnLikalaK,etal.tsfh（.）dolsseel properties and plant growth.Soil and Tillage Research,2016,163： 224-234.   
+[36]G6mez-BseSJLiguftideparatihldCed solid,liquid and biochar fractions.Journal of Environmental Management,2O16,168：236-244.   
+[37] Agegnehu G,asAM，elsonP,irdBenefisofiocar，omposadiocharcompostforolqaityaizeyielddgreousegas emissions in a tropical agricultural soil. Science of the Total Environment,2016,543：295-306.   
+[38] Gasc6G,PaeellaC,d.efpguedolssslocl Engineering，2016,95：19-24.   
+[39] QianLB,ZhangWY,YanJC,HanL，GaoWG,LiuRQ,ChenMF.Efectiveremovalofheavmetalbybiocharcoldsunderdferent pyrolysis temperatures. Bioresource Technology，2016,206：217-224.   
+[40] RogovskaN,irdD,KarlenDLoadslesposetocalcationdoverhrvestFeldCsRsearch,16,796106.   
+[41] ZhangYN,Li,gY,JH,H,uX,Llovildeetsf the Chongming Dongtan wetlandand its efectonsoilorganiccarbon storage.Ecological Engineering，2013,52：308-315.   
+[42]NgoP,umpelCJaeauJL,DangDK,Doan,JouetP.Miigofiharwiorgaicaendentsedcesabonreoaefl exposure under tropical conditions.Ecological Engineering，2O16,91;378-380.   
+[43]Liu XY,ZhengJF,ZhangDX,Cheng K,ZhouHM,ZhangAF,LiLQ,JosephS,SmithP,CrowleyD,KuzyakovY,PanG X.Biocharhas no efectonsoilrespirationacrossChineseagricultural soils.Scienceof the Total Environment，2016,554-555:259-265.   
+[44]ZhangDX,PanGX,WuG,KibueG W,LiLQ,Zhang XH,ZhengJW,ZhengJF,ChengK,JosephS,LiuXY.Biocharhelpshance maizeproductitducesegsssosdacdertiiidertlitieptiol.emse4 106-113   
+[45]SubediR，TupeN，Pelisei，Petruzeli，ertoraC，LeaJJ，rignaiC.Grhousegsemisiosansoilpropertifolling amendent withanurederivedbiochars：infuenceofyrolysistemperatureandfedstocktype.JoualofEnviromentalanagement16, 166: 73-83.   
+[46]LiM,iuLiZC,WuSlsotiodmitrucueeddardlf subtropical China. Journal of Integrative Agriculture,2016,15(1）:209-219.   
+[47]Fungo B,Guerena D,Thiongo M,Lehmann J,Neufeldt H,Kalbitz K. ${ \mathrm { N } } _ { 2 } \mathrm { O }$ and CH $^ { - 4 }$ emission from soil amended with steam-activated biochar. Journal of Plant Nutrition and Soil Science，2014,177(1)：34-38.   
+[48]TianJ，WangJolGolagodaskaYEuykovYhaesologancmtclingdmcobaluciosbt does not alter microbial community structure in a paddy soil. Science of the Total Environment，2016,56:89-97.   
+[49]MitchellisoAJogmpJ.Sftsiuitdwatertracablecatmposioir amendment in a temperate forest soil. Soil Biologyand Biochemistry，2015,81: 244-254.   
+[50]HarterJ，WeigoldP,El-Hadidi M,Huson DH,Kappler A,Behrens S.Soilbiocharamendment shapes thecompositionof ${ \mathrm { N } } _ { 2 } \mathrm { O }$ -reducing microbial communities. Science of the Total Environment，2016,562:379-390.   
+[51] SinghBP,oieAoeeoaiecboaiaiaasletifeors 4: 3687.   
+[52] Nguyen M V, LeeB K. A novel removal of $\mathrm { C O } _ { 2 }$ using nitrogen doped biochar beadsasagreen adsorbent.Process SafetyandEnvironental Protection，2016,104：490-498.   
+[53] 孟凡荣，窦森，尹显宝，张葛，钟双玲.施用玉米秸秆生物质炭对黑土腐殖质组成和胡敏酸结构特征的影响.农业环境科学学报，2016，   
+J 35(1) : 122-128.   
+[54] 王洪媛，盖霞普，翟丽梅，刘宏斌.生物炭对土壤氮循环的影响研究进展.生态学报，2016，36(19)：5998-6011.   
+[55] 侯亚红，王磊，付小花，乐毅全.土壤碳收支对秸秆与秸秆生物炭还田的响应及其机制.环境科学，2015,36（7)：2655-2661.   
+[56] SmebyeA,AllngV,VogtRD，GdarTC,MulderJ,CoelisenG,HaleSE.iocharamendment tsolchangsdisolvedoaicter content and composition.Chemosphere，2016，142：100-105.   
+[57]WangDYifnDE,ParikhSJScowKMIpactofbiharamendeosolwatersolublearboinhecoextofextreedrolgical events.Chemosphere，2016,160：287-292.   
+8]HarleJsibolil Journal of Environmental Management，2016,181：770-778.   
+[59]VenegsiglAidalagsiavealxtracabilitfraateldatediancasteood, 2016,279: 132-140.   
+[60]XuN,TaG,ngHiXfditolorcoalassdcteloice European Journal of Soil Biology，2016,74：1-8.   
+6]BrellDpjaGtsofolplpr   
+[62]UsowicziieJoiaricJlatialropetdf grassland and fallow. Soil and Tillage Research，2016,164:45-51.   
+[63]GlabT,PalmoskaJ，Zaleski,ondekK.Efectofiocharaplicatioonsilhdrolgcalpropertiesandysicalqalityofadyso Geoderma，2016,281：11-20.   
+[64] SunJN,HeFH,ZangZH,ShoHB,XuG.mperaturedmoistureespoestbonineralizatiointeiocar-amendedslieoil Science of the Total Environment，2016,569-570：390-394.   
+[65] GaS,H-llK,ell,ocallpcoeteeliltal of the San Juan Islands，USA.Agriculture，Ecosystems& Environment，2016,233：43-54.   
+[66]Ashry A,Bailey E H,Chenery S R N,Young S D. Kinetic study of time-dependent fixation of $\mathrm { U } ^ { \mathrm { V I } }$ on biochar. Journal of Hazardous Materials , 2016,320: 55-66.   
+[67]Jin JW,LiYN, Zhang JY,Wu SC,Cao YC,LiangP,Zhang J,Wong MH,Wang M Y Shan S D，Christie P. Influence of pyrolysis temperatureonpropertiesandenvironmentalsafetyofheavymetalsinbiocharsderivedfrommunicipalsewagesludge.JournalofHazardous Materials,2016,320:417-426.   
+68]TgAGUJtsstspetool and Applied Pyrolysis，2016，120：200-206.   
+[69]ChenD,YuXZ,SongC,angXL,uangJ,Lifetofpyrolysistemperatureotehealidtiosabilityofbia. Bioresource Technology，2016,218:1303-1306.   
+[70］Taherymoosavi S,Joseph S,Munroe P. Characterization of orga ndsin mixed feedstock biochar generated from Australian agricultural residues. Journal of Analytical and Applied Pyrolysis，2016,120:441-449.   
+[71]AhmadM,OkYS,KimBY,AhnJH,LeeYH,ZhangM,MonDH,Al-WabelM1,LeeSS.Impactof soybeanstover-and pinenelederivediocharonPndAsobilitymicrobialcommuityndarbostabiltyinontaminatedagiculturaloilualofviotal Management，2016,166：131-139.   
+[72]ShiKisKidoetialrbsfsotf liquids.Ecotoxicologyand Environmental Safety，2016,130:155-162.   
+[73]VandeasteleicDHseanestdCadetforeofepoigtsosalitd losses，but not P plant uptake. Journal of Environmental Management,2016,168：200-209.   
+[74]ZhangWZegJ,ZgiuRLtraoblzatigeridadthteractiefefoeisti Cr(VI） ions.Chemosphere,2015,134: 438-445.   
+[75] PanequeM,DelosaJrac-aaoDolmener-oresJnickerHectoficharmedeomorphoructiiy and water relations of sunflower plants under non-irigation conditions.Catena，2016,147: 280-287.   
+[76] 程效义，张伟明，孟军，杨旭，赵倩雯，陈温福.玉米秸秆炭对玉米物质生产及产量形成特性的影响.玉米科学,2016,24(1)：117-122， 129-129.   
+[77]ZhangHHLinKD，WangH，GanJEfectofiusdiataderivedbiochsolotioanddsotioofpheantheeEtal Polution，2010,158(9): 2821-2825.   
+[78] 陈温福，张伟明，孟军.农用生物炭研究进展与前景.中国农业科学，2013，46(16)：3324-3333.   
+[79]GonzagaMIS,MackowiakCL,ComerfordNB,daVeiga MolineEFSirleyJP,GuimaraesDV.Pyrolysismethodsimpactbiosolids-erived biochar composition，maize growth and nutrition.Soil and Tilage Research,2017,165：59-65.   
+[80] XuG,ZhangYSunJShaoH.gatieeractitseteehadohoufertlatiooosoruslabilitdpt yield in saline sodic soil. Science of the Total Environment，2016,568：910-915.   
+[81] OmondiMO,iaX,a,uXKiK,nGXanttiftslhrolalprorgl of literature data. Geoderma，2016,274：28-34.   
+[82] ShuR，WangYJ,Zhong H.BiocharamendmentreducedmethymercuryacumuationiniceplantsJoualofHazadousMaterials，16,13 1-8.   
+[83]DeTederCA,DbodJndecasteleB,D'He,reelieHegean,uti,DwdtP,Mesologcal,cal and planthealth responsesinletuceand strawberyinsoilorpeatamended withbiochar.AppliedSoilEcology，2O16,07：1-12.   
+[84]BrendoK,ZemanV,PavkoD,ustPUtlizatioofbicharndactivaedcarbotuceCd,bdZoailabitd phytotoxicity for plants. Journal of Environmental Management，2O16,181：637-645.   
+[85]MorVsiaE,kasE,UjaciE,ekete-Kerter,bercOcks,GK,UgeeigVdic soil improvement with biochar—a microcosm study.Science of the Total Environment,2016,563-564：855-865.   
+[86]ManliakigolsdopoEctsaduralsosedl two fertile soils. Journal of Environmental Management,2016,181：536-543.   
+[87]WangQ，ChenL，HeLYhengXF.Increasedbiomassandreducedheavyetalacumulationofedibleisuesofegetablecosite presenceofplntgrowt-prootigNozobmhautleseT-7ndiocar.Agiculture,cosstes&Eviront1,898.   
+[88]ZhangGX,GuoXF,ZhaoZH,HeQS,WangSF,ZhuY,YanYL,LiuXT,SunK,ZhaoY,QianTW.Efects ofbiochars onthe availabilityof heavymetalsto ryegrassinanalkalinecontaminated soil.EnvironmentalPollution，2O16,218：513-52.   
+[89] SeneviratneM,WerasdraL，OkinklebeJVihage.yotoxicityeuationiVigrdiatderhayetalt presence of biochar and N fixing bacteria.Journal of Environmental Management,2017,186：293-300.   
+[90] MohamedI,ZagG,iZ,LYnF,DaiKologicarestoratiofcidicCdoaiatedlsingbohai Ecological Engineering，2015，84：67-76.   
+[91] YuF,ZhouYM,GaoB,QiaoH,LiYH,WangEZ,PangLF,BaoC.Efectiveremovalofionicliquidusing modifiedbiocharandits biological effects. Journal of the Taiwan Institute of Chemical Engineers，2O16,67：318-324.   
+[92] YuanHR,LuT，WangYZ,ChenY,LeiTZSewagesludgebiochar：nutrientcompositionanditsectontheleachingofsoilutrients. Geoderma，2016,267：17-23.   
+[93] AndreneliM,eesiigietaFellgiSVcciFVioziciofpelltiedo：o effect nthe hydrological propertiesof a siltyclayloam soil.Agricultural Water Management，2016,163：190-196.   
+[94]MarksEJerel andsoil fauna activityinamulti-year Mediterranean trial.Agriculture,Ecosystems&Environment,2O16,215：30-39.   
+[95]Anyika C,Majid ZA,Rashid $\mathrm { M }$ ,Isa AB,Ismail N,Zakaria MP,Yahya A.Toxic and nontoxic elemental enrichmentin biochar at different production temperatures. Journal of Cleaner Production，2016,131：810-821.   
+[96]Zielisiltillo）ll lab incubation with sewage sludge-derived biochars. Chemosphere，2016,163：480-489.   
+[97] Carvalho MTM,MadariBE,BastiaansL,van OortPAJ,LealWGO,HeinemanAB,daSilvaMAS,MaiaAHN,ParsonsD,MeinkeH. Propertiesofaclaysoilfrom1.5to3.5yearsafterbiocharapplicationandtheimpactonriceyield.Geoderma，2016,276:7-18.   
+[98] BussW,GraamMC,ShepherdJG,MasekO.Risksandenefitsfmarginalbiomas-drivedbiocarsforplantgrowthSieceoftheotal Environment，2016,569-570：496-506.   
+[99] WangXB,ZhouW,LiangGQ，SongD,ZhangXYCharacteriticsofaizebcharithdiferentpyrolysistemperaturesanditsectso organiccarbotrogendzatictivitsterdditiotouvoqucsoliencfeTtalEviroent，5,44.   
+[100] 王丽丽.不同生物炭对铅锌矿尾矿重金属污染土壤修复效果的研究[D].杭州：浙江大学，2015.   
+[101］韩玮，申双和，谢祖彬,李博，李玉婷，刘琦.生物炭及秸秆对水稻土各密度组分有机碳及微生物的影响.生态学报，2016，36（18)： 5838-5846.   
+[102]HangeeeCeffpi and plant growth in two contrasting soil types. Soil and Tillage Research,2016,161:1-9.

@@ -1,0 +1,1464 @@
+[
+    {
+        "type": "text",
+        "text": "Deformed relativistic Hartree Bogoliubov theory in continuum ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lulu Li, $^ 1$ Jie Meng, $1 , 2 , 3 , 4$ P. Ring, $^ { 5 , 1 }$ En-Guang Zhao, $2 , 1 , 3$ and Shan-Gui Zhou $^ { 2 , 3 }$ $^ *$ （204号 $^ 1$ School of Physics， Peking University， Beijing 100871，China （204号 $^ 2$ State Key Laboratory of Theoretical Physics,Institute of Theoretical Physics, Chinese Academy of Sciences，Beijing 10019o，China $^ 3$ Center of Theoretical Nuclear Physics，National Laboratory of Heavy Ion Accelerator,Lanzhou 730o， China $^ 4$ Department of Physics，University of Stellenbosch，Stellenbosch， South Africa （20 $^ { 5 }$ Physikdepartment, Technische Universitat Munchen， 85748 Garching， Germany (Dated: August 1, 2017) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A deformed relativistic Hartree Bogoliubov (RHB) theory in continuum is developed aiming at a proper description of exotic nuclei，particularly those with a large spatial extension.In order to give an adequate consideration of both the contribution of the continuum and the large spatial distribution in exotic nuclei,the deformed RHB equations are solved ina Woods-Saxon (WS) basis in which the radial wave functions have a proper asymptotic behavior at large distance from the nuclear center.This is crucial for the proper description of a possible halo.The formalism of deformed RHB theory in continuum is presented. A stable nucleus, $^ { 2 0 }$ Mg and a weakly-bound nucleus, $^ { 4 2 }$ Mg, are taken as examples to present numerical details and to carry out necessary numerical checks. In addition,the ground state properties of even-even magnesium isotopes are investigated.The generic conditions of the formation of a halo in weakly bound deformed systems and the shape of the halo in deformed nuclei are discussed.We show that the existence and the deformation of a possible neutron halo depend essentially on the quantum numbers of the main components of the single particle orbitals in the vicinity of the Fermi surface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PACS numbers:21.60.-n，21.10.-k,21.10.Gv，21.60.Jz",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The development of radioactive ion beam facilities around the world [1-7] stimulates very much the study of nuclei far from the $\\beta$ stability line [8-16].Some new and exotic phenomena have been observed in nuclei close to drip lines such as neutron or proton halos [17- 19], changes of nuclear magic numbers [20], pygmy resonances [21],etc.In halo nuclei, the fact of an extremely weakly binding leads to many new features，e.g.， the coupling between bound states and the continuum due to pairing correlations and very extended spatial density distributions.Therefore one must consider properly the asymptotic behavior of nuclear densities at large distance $r$ from the center and treat in a self consistent way the discrete bound states, the continuum and the coupling between them in order to give a proper theoretical description of the halo phenomenon [22-24]. This could be achieved by solving the non-relativistic Hartree-FockBogoliubov (HFB)[25,26] or the relativistic Hartree Bogoliubov (RHB) [27-29] equations in coordinate ( $r$ )space which can fully take into account the mean-field effects of the coupling to the continuum. The resonant-BCS (rBCS)approach presents an other method to include the contribution of the resonant continuum which has been used to study halo phenomena [30, 31]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The solution of the coupled differential equations of HFB and RHB theories is particular simple in spherical systems with local potentials,where one-dimensional ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Numerov or Runge-Kutta methods [32] can be applied and this is true even for non-local problems where Finite Element Methods (FEM) [33] have been used. A different method to solve such equations is the expansion of the single particle wave functions in an appropriate basis. The oscillator basis has been used for this purpose with a great success for deformed or non-local systems in the past [34-37]. The Woods-Saxon basis has been proposed in Ref. [38] as a reconciler between the harmonic oscillator basis and the integration in coordinate space. Woods-Saxon wave functions have a much more realistic asymptotic behavior at large $r$ than the harmonic oscillator wave functions do.A discrete set of Woods-Saxon wave functions is obtained by using box boundary conditions to discretize the continuum.It has been shown in Ref. 38l for spherical systems that the solution of the relativistic Hartree equations in a Woods-Saxon basis is almost equivalent to the solution in coordinate space.The Woods-Saxon basis has also been used in more complicated situations,e.g.,for the description of exotic nuclei where both deformation and pairing have to be taken into account.Recently, for spherical systems,both nonrelativistic and relativistic Hartree-Fock-Bogoliubov theories with forces of finite range have been investigated in a Woods-Saxon basis [39, 40]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Over the past years,lots of efforts have been made to develop a deformed relativistic Hartree (RH) theory [41] and a deformed relativistic Hartree Bogoliubov theory in continuum [42].As a first application,halo phenomena in deformed nuclei have been investigated within the continuum RHB theory and some brief results can be found in Ref. [43]. In this paper we present the full version of the theoretical framework with all the details. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sphericalsymmetryfacilitatesconsiderablythetreatment of the continuum in non-relativistic HFB [25,26] and in relativistic RHB theory [27-29] in $r$ -space.Since most of the known nuclei are deformed,interesting questions arise,whether or not deformed halos exist and what new features can be expected in deformed exotic nuclei [44-49]. Such questions can be answered by the deformed counterparts of the HFB or RHB theories in coordinate space. From the experimental point of view, $^ { 3 1 }$ Ne is measured to be a strongly deformed halo nucleus [50], and for the well deformed magnesium isotopes, $^ { 3 5 }$ Mg is probably a halo nucleus too [51]. Nevertheless for deformed nuclei, to solve the HFB or RHB equations in $r$ space becomes much more sophisticated and numerically very time consuming. Many efforts have been made to develop non-relativistic HFB theories either in (discretized) coordinate space or in a scaled oscillator basis with improved asymptotic behavior [37]. The HFB equations have been solved in three-dimensional coordinate space by combining the imaginary time approach and the two basis method [52] with a truncated basis composed of discrete localized states and discretized continuum states up to a few MeV [53]. Alternatively, the HFB equations have been solved on a two-dimensional basis-spline Galerkin lattices [54-56] or on a three-dimensional Cartesian mesh [57] using the canonical-basis approach [58]. Recently, the Gaussian expansion method is used to solve the HF and HFB equations for deformed nuclei [59] and continuum Skyrme-Hartree-Fock-Bogoliubov approaches have been developed both for spherical and deformed nuclei [60]. The deformed relativistic Hartree Bogoliubov (RHB） theory has only been solved in the conventional harmonic oscillator basis [61-64] and neither the abovementioned approaches nor other methods which could improve the asymptotic behavior of the nuclear densities at large $r$ have been implemented in the deformed RHB theory so far. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper we present a method,which allows to take into account at the same time the coupling to the continuum,deformations,and pairing correlations in a fully self-consistent way. For this purpose we expand the deformed Dirac spinors in a basis of spherical Dirac wave functions obtained by the solution of the Dirac equations for potentials with spherical Woods-Saxon shape. This idea is similar to a method proposed in Ref. [65] for the solution of the deformed relativistic mean field (RMF) equations in light nuclei,where the deformed Diracspinors were expanded in terms of the self-consistent solutions of the spherical RMF-equations.As compared to these early calculations our method is simpler,because it isbased on Woods-Saxon wave functions.On the other side it is more general, because it allows to include pairing correlations,which play an essential role in the formation of halo structures. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The paper is organized as follows. In Sec. II, we give the formalism of the deformed RHB theory in continuum. The numerical details are presented in Sec.III and we discuss applications and detailed results for magnesium isotopes in Sec.IV.A summary is given in Sec. V. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II. FORMALISMOF THEDEFORMED RELATIVISTICHARTREEBOGOLIUBOV THEORYINCONTINUUM ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The starting point of relativistic mean field theory is a Lagrangian density where nucleons are described as Dirac spinors which interact via the exchanges of effective mesons ( $\\sigma , \\omega$ ，and $\\rho$ ）and the photon [66-72], ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle { \\mathcal { L } } = { \\bar { \\psi } } \\left( i \\emptyset - M \\right) \\psi + \\frac { 1 } { 2 } \\partial _ { \\mu } \\sigma \\partial ^ { \\mu } \\sigma - U ( \\sigma ) - g _ { \\sigma } { \\bar { \\psi } } \\sigma \\psi } } \\\\ { ~ - \\frac { 1 } { 4 } \\Omega _ { \\mu \\nu } \\Omega ^ { \\mu \\nu } + \\frac { 1 } { 2 } m _ { \\omega } ^ { 2 } \\omega _ { \\mu } \\omega ^ { \\mu } - g _ { \\omega } { \\bar { \\psi } } \\phi \\psi }  \\\\ { ~ - \\frac { 1 } { 4 } { \\vec { R } } _ { \\mu \\nu } { \\vec { R } } ^ { \\mu \\nu } + \\frac { 1 } { 2 } m _ { \\rho } ^ { 2 } { \\vec { \\rho } } _ { \\mu } { \\vec { \\rho } } ^ { \\mu } - g _ { \\rho } { \\bar { \\psi } } { \\vec { \\rho } } \\vec { \\tau } \\psi } \\\\ { ~ - \\frac { 1 } { 4 } F _ { \\mu \\nu } F ^ { \\mu \\nu } - e \\bar { \\psi } \\frac { 1 - \\tau _ { 3 } } { 2 } A \\psi , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where M is the nucleon mass,and mo, go,mw, gw,mp, 9p masses and coupling constants of the respective mesons. The nonlinear self-coupling for the scalar meson is given by [73] ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nU ( \\sigma ) = \\frac { 1 } { 2 } m _ { \\sigma } ^ { 2 } \\sigma ^ { 2 } + \\frac { g _ { 2 } } { 3 } \\sigma ^ { 3 } + \\frac { g _ { 3 } } { 4 } \\sigma ^ { 4 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "and field tensors for the vector mesons and the photon fields are defined as ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l } { { \\Omega _ { \\mu \\nu } \\ = \\ \\partial _ { \\mu } \\omega _ { \\nu } - \\partial _ { \\nu } \\omega _ { \\mu } , } } \\\\ { { \\vec { R } _ { \\mu \\nu } \\ = \\ \\partial _ { \\mu } \\vec { \\rho } _ { \\nu } - \\partial _ { \\nu } \\vec { \\rho } _ { \\mu } - g _ { \\rho } \\big ( \\vec { \\rho } _ { \\mu } \\times \\vec { \\rho } _ { \\nu } \\big ) , } } \\\\ { { F _ { \\mu \\nu } \\ = \\ \\partial _ { \\mu } A _ { \\nu } - \\partial _ { \\nu } A _ { \\mu } . } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pairing correlations are crucial in the description of open shell nuclei. For exotic nuclei,the conventional BCS approach turns out to be only a poor approximation 26]. Starting from the Lagrangian density (1),a relativistic theory of pairing correlations in nuclei has been developed by Kucharek and Ring [74]. If we neglect the Fock terms as it is usually done in the covariant density functional theory, the Dirac Hartree Bogoliubov (RHB) equation for the nucleons reads, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\int d ^ { 3 } { \\pmb r } ^ { \\prime } \\left( \\begin{array} { c c } { { h _ { D } - \\lambda } } & { { \\Delta } } \\\\ { { - \\Delta ^ { * } } } & { { - h _ { D } + \\lambda } } \\end{array} \\right) \\left( \\begin{array} { c } { { U _ { k } } } \\\\ { { V _ { k } } } \\end{array} \\right) = E _ { k } \\left( \\begin{array} { c } { { U _ { k } } } \\\\ { { V _ { k } } } \\end{array} \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { k }$ is the quasiparticle energy, $\\lambda$ is the chemical potential,and $h _ { D }$ is the Dirac Hamiltonian, ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { D } ( \\pmb { r } , \\pmb { r } ^ { \\prime } ) = \\pmb { \\alpha } \\cdot \\pmb { p } + V ( \\pmb { r } ) + \\beta ( M + S ( \\pmb { r } ) ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The scalar and vector potentials ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { S ( \\pmb { r } ) = g _ { \\sigma } \\sigma ( \\pmb { r } ) , } } \\\\ { { V ( \\pmb { r } ) = g _ { \\omega } \\omega ^ { 0 } ( \\pmb { r } ) + g _ { \\rho } \\tau _ { 3 } \\rho ^ { 0 } ( \\pmb { r } ) + e \\displaystyle \\frac { 1 - \\tau _ { 3 } } { 2 } A ^ { 0 } ( \\pmb { r } ) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "depend on the scalar field $\\sigma$ and on the time-like components $\\omega ^ { 0 }$ ， $\\rho ^ { 0 }$ ,and $A ^ { 0 }$ of the iso-scalar vector field $\\omega$ ,the ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3-component of iso-vector vector field $\\rho$ and the photon field. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The equations of motion for the mesons and the photon ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\left( - \\Delta + \\partial _ { \\sigma } U ( \\sigma ) \\right) \\sigma ( { \\pmb r } ) = - g _ { \\sigma } \\rho _ { s } ( { \\pmb r } ) , } \\\\ { \\qquad \\left( - \\Delta + m _ { \\omega } ^ { 2 } \\right) \\omega ^ { 0 } ( { \\pmb r } ) = g _ { \\omega } \\rho _ { v } ( { \\pmb r } ) , } \\\\ { \\qquad ( - \\Delta + m _ { \\rho } ^ { 2 } ) \\rho ^ { 0 } ( { \\pmb r } ) = g _ { \\rho } \\rho _ { 3 } ( { \\pmb r } ) , } \\\\ { \\qquad - \\Delta A ^ { 0 } ( { \\pmb r } ) = e \\rho _ { p } ( { \\pmb r } ) , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "have as sources the various densities ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { l l } { \\displaystyle \\rho _ { s } ( \\boldsymbol { r } ) = \\sum _ { k \\geq 0 } V _ { k } ^ { \\dagger } ( \\boldsymbol { r } ) \\gamma _ { 0 } V _ { k } ( \\boldsymbol { r } ) , } \\\\ { \\displaystyle \\rho _ { v } ( \\boldsymbol { r } ) = \\sum _ { k > 0 } V _ { k } ^ { \\dagger } ( \\boldsymbol { r } ) V _ { k } ( \\boldsymbol { r } ) , } \\\\ { \\displaystyle \\rho _ { 3 } ( \\boldsymbol { r } ) = \\sum _ { k \\geq 0 } V _ { k } ^ { \\dagger } ( \\boldsymbol { r } ) \\tau _ { 3 } V _ { k } ( \\boldsymbol { r } ) , } \\\\ { \\displaystyle \\rho _ { c } ( \\boldsymbol { r } ) = \\sum _ { k > 0 } V _ { k } ^ { \\dagger } ( \\boldsymbol { r } ) \\frac { 1 - \\tau _ { 3 } } { 2 } V _ { k } ( \\boldsymbol { r } ) , } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where,according to the no-sea approximation, the sum over $k > 0$ runs over the quasi-particle states corresponding to single particle energies in and above the Fermi sea. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The pairing potential reads, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta ( r _ { 1 } s _ { 1 } p _ { 1 } , r _ { 2 } s _ { 2 } p _ { 2 } ) = \\sum _ { s _ { 1 } ^ { \\prime } p _ { 1 } ^ { \\prime } } ^ { s _ { 2 } ^ { \\prime } p _ { 2 } ^ { \\prime } } V ^ { \\mathrm { p p } } ( r _ { 1 } , r _ { 2 } ; s _ { 1 } p _ { 1 } , s _ { 2 } p _ { 2 } , s _ { 1 } ^ { \\prime } p _ { 1 } ^ { \\prime } , s _ { 2 } ^ { \\prime } p _ { 2 } ^ { \\prime } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $p = 1 , 2$ is used to represent the large and small components of the Dirac spinors. $V ^ { \\mathrm { p p } }$ is the effective pairing interaction and $\\kappa ( r _ { 1 } s _ { 1 } ^ { \\prime } p _ { 1 } ^ { \\prime } , r _ { 2 } s _ { 2 } ^ { \\prime } p _ { 2 } ^ { \\prime } )$ is the pairing tensor [75]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the particle-particle (pp) channel, we use a density dependent zero range force, ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nV ^ { \\mathrm { p p } } ( r _ { 1 } , r _ { 2 } ) = V _ { 0 } \\frac { 1 } { 2 } ( 1 - P ^ { \\sigma } ) \\delta ( { \\bf r } _ { 1 } - { \\bf r } _ { 2 } ) \\left( 1 - \\frac { \\rho ( r _ { 1 } ) } { \\rho _ { \\mathrm { s a t } } } \\right) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\textstyle { \\frac { 1 } { 2 } } ( 1 - P ^ { \\sigma } )$ projects onto spin $S = 0$ component in the pairing field. In this case the gap equation(1O) has the simple form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta ( { \\pmb r } ) = V _ { 0 } ( 1 - \\rho ( { \\pmb r } ) / \\rho _ { \\mathrm { s a t } } ) \\kappa ( { \\pmb r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and we need only the local part of the pairing tensor ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa ( \\pmb { r } ) = \\sum _ { k > 0 } V _ { k } ^ { \\dagger } ( \\pmb { r } ) U _ { k } ( \\pmb { r } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\lambda } ( r ) = \\frac { 2 \\lambda + 1 } { 4 \\pi } \\int d \\Omega f ( { \\bf r } ) P _ { \\lambda } ( \\Omega ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The quasiparticle wave functions $U _ { k }$ and $V _ { k }$ in Eq. (4) are Dirac spinors.Each of them is expanded in terms of spherical Dirac spinors $\\varphi _ { n \\kappa m } ( \\pmb { r } s p )$ with the eigenvalues obtained from the solution of a Dirac equation $h _ { D } ^ { ( 0 ) }$ containing spherical potentials $S ^ { ( 0 ) } ( r )$ and $V ^ { ( 0 ) } ( r )$ of Woods-Saxon shape [38, 77]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle U _ { k } ( { \\pmb r } s p ) = \\sum _ { n \\kappa } u _ { k , ( n \\kappa ) } ^ { ( m ) } \\varphi _ { n \\kappa m } ( { \\pmb r } s p ) } , } \\\\ { { \\displaystyle V _ { k } ( { \\pmb r } s p ) = \\sum _ { n \\kappa } v _ { k , ( n \\kappa ) } ^ { ( m ) } \\bar { \\varphi } _ { n \\kappa m } ( { \\pmb r } s p ) } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The basis wave function reads ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi _ { n \\kappa m } ( \\boldsymbol { r } s ) = \\frac { 1 } { r } \\left( \\begin{array} { c } { i G _ { n \\kappa } ( r ) Y _ { j m } ^ { l } ( \\Omega s ) } \\\\ { - F _ { n \\kappa } ( r ) Y _ { j m } ^ { l } ( \\Omega s ) } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $G _ { n \\kappa } ( r ) / r$ and $F _ { n \\kappa } ( r ) / r$ the radial wave functions for the upper and lower components. The spherical spinor $\\varphi _ { n \\kappa m }$ is characterized by the radial quantum number $n$ ，angular quantum $j$ and the parity $\\pi$ ： $j$ and $\\pi$ are combined to the relativistic quantum number $\\kappa = \\pi ( - 1 ) ^ { j + 1 / 2 } ( j + 1 / 2 )$ which runs over positive and negative integers $\\kappa = \\pm 1 , \\pm 2 , \\cdot \\cdot \\cdot$ . $Y _ { j m } ^ { l }$ and $Y _ { j m } ^ { i }$ are the spinor spherical harmonics where $l = j + { \\textstyle \\frac { 1 } { 2 } } \\mathrm { s i g n } ( \\kappa )$ and $\\begin{array} { r } { \\tilde { l } = j - \\frac { 1 } { 2 } \\mathrm { s i g n } ( \\kappa ) } \\end{array}$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\bar { \\varphi } _ { n \\kappa m } ( \\pmb { r } s p )$ is the time reversal state of $\\varphi _ { n \\kappa m } ( \\pmb { r } s p )$ These states form a complete spherical and discrete basis in Dirac space (see Appendix A for details). Because of the axial symmetry the $z$ -component $m$ of the angular momentum $j$ is a conserved quantum number and the RHB Hamiltonian can be decomposed into blocks characterized by $m$ and parity $\\pi$ . For each $m \\pi$ -block,solving the RHB equation (4) is equivalent to the diagonalization of the matrix ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left( \\begin{array} { c c } { { A - \\lambda } } & { { B } } \\\\ { { B ^ { \\dagger } } } & { { - A ^ { * } + \\lambda } } \\end{array} \\right) \\left( \\begin{array} { c } { { \\mathcal U _ { k } } } \\\\ { { \\mathcal V _ { k } } } \\end{array} \\right) = E _ { k } \\left( \\begin{array} { c } { { \\mathcal U _ { k } } } \\\\ { { \\mathcal V _ { k } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathcal { U } _ { k } = \\left( u _ { k , ( n \\kappa ) } ^ { ( m ) } \\right) , \\ \\mathcal { V } _ { k } = \\left( v _ { k , ( n \\kappa ) } ^ { ( m ) } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Details of the calculation of the pairing interaction and the pairing tensor are given in Appendices B and $\\mathrm { E }$ respectively. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For axially deformed nuclei with spatial reflection symmetry,we expand the potentials $S ( \\pmb { r } )$ and $V ( r )$ in Eqs.(6) and(7) and the densities in Eq.(9) in terms of the Legendre polynomials [76], ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( \\pmb { r } ) = \\sum _ { \\lambda } f _ { \\lambda } ( \\pmb { r } ) P _ { \\lambda } ( \\cos \\theta ) , \\lambda = 0 , 2 , 4 , \\cdots ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\mathcal { A } = \\left( h _ { D ( n \\kappa ) ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } \\right) = \\left( \\langle n \\kappa m | h _ { D } | n ^ { \\prime } \\kappa ^ { \\prime } , m \\rangle \\right) , } \\\\ & { \\mathcal { B } = \\left( \\Delta _ { ( n \\kappa ) ( n ^ { \\prime } \\kappa ) } ^ { ( m ) } \\right) ~ = \\left( \\langle n \\kappa m | \\Delta | \\overline { { n ^ { \\prime } \\kappa ^ { \\prime } , m } } \\rangle \\right) . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Further details are given in Appendix B. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since we use a zero range pairing force we have to introduce a pairing cutoff in the sums of Eqs.(9） and (13) over the quasiparticle space. In the present work,a ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "smd t $E _ { \\mathrm { c u t } } ^ { \\mathrm { q . p } }$ $\\Gamma _ { \\mathrm { c u t } } ^ { \\mathrm { q . p } }$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns ( E _ { k } ) = \\frac { 1 } { 2 } \\left( 1 - \\frac { E _ { k } - E _ { \\mathrm { c u t } } ^ { \\mathrm { q . p . } } } { \\sqrt { ( E _ { k } - E _ { \\mathrm { c u t } } ^ { \\mathrm { q . p . } } ) ^ { 2 } + ( \\Gamma _ { \\mathrm { c u t } } ^ { \\mathrm { q . p . } } ) ^ { 2 } } } \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "is multiplied in the occupation component $V _ { k } ( \\pmb { r } )$ of each quasi particle state with $v ^ { 2 } < 1 / 2$ . Note that this smooth cutoff is similar as the soft cutoff proposed in Ref. [78]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The total energy of a nucleus is ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { E = E _ { \\mathrm { n u c l e o n } } + E _ { \\sigma } + E _ { \\omega } + E _ { \\sigma } + E _ { c \\mathrm { m } } , } \\\\ { = \\displaystyle \\sum _ { k } 2 ( \\lambda - E _ { k } ) v _ { k } ^ { 2 } - E _ { \\mathrm { p a i r } } } \\\\ { \\displaystyle \\quad - \\frac { 1 } { 2 } \\int d ^ { 3 } v _ { \\perp } \\left[ g _ { \\sigma } \\sigma ( r ) \\rho _ { s } ( r ) + U ( \\sigma ) \\right] } \\\\ { \\displaystyle \\quad - \\frac { 1 } { 2 } \\int d ^ { 3 } v _ { g _ { \\omega } , \\omega } ( r ) \\rho _ { s } ( r ) } \\\\ { \\displaystyle \\quad - \\frac { 1 } { 2 } \\int d ^ { 3 } v _ { g _ { \\rho } \\rho } ( r ) \\left[ \\rho _ { s } ^ { 2 } ( r ) - \\rho _ { s } ^ { N } ( r ) \\right] } \\\\ { \\displaystyle \\quad - \\frac { 1 } { 2 } \\int d ^ { 3 } v _ { \\perp } \\omega \\rho _ { s } ^ { 2 } ( r ) + E _ { \\mathrm { c . m } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nv _ { k } ^ { 2 } = \\int d ^ { 3 } r V _ { k } ^ { \\dagger } ( \\pmb { r } ) V _ { k } ( \\pmb { r } ) = \\sum _ { n \\kappa m } \\left( v _ { k , ( n \\kappa ) } ^ { ( m ) } \\right) ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For a zero range force the pairing field $\\Delta ( r )$ is local and the pairing energy is calculated as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { p a i r } } = - \\frac { 1 } { 2 } \\int d ^ { 3 } \\boldsymbol { r } \\kappa ( \\boldsymbol { r } ) \\Delta ( \\boldsymbol { r } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The center of mass correction energy ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { c . m . } } = - \\frac { 1 } { 2 A m } \\langle \\hat { \\bf P } ^ { 2 } \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "is calculated after variation with the wave functions of the self-consistent solution [79,80] or in the oscillator approximation ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { \\mathrm { c . m . } } = - { \\frac { 3 } { 4 } } \\times 4 1 \\times A ^ { 1 / 3 } \\ \\mathrm { M e V } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Details are given in Appendix G. The root mean square (rms) radius is calculated as ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { R _ { \\tau , \\mathrm { r m s } } \\equiv \\langle r ^ { 2 } \\rangle ^ { 1 / 2 } = \\left( \\displaystyle \\int d ^ { 3 } { \\pmb r } \\left[ r ^ { 2 } \\rho _ { \\tau } ( { \\pmb r } ) \\right] \\right) ^ { 1 / 2 } } } \\\\ { { \\qquad = \\left( \\displaystyle \\int d { \\ b r } \\left[ r ^ { 4 } \\rho _ { v , \\lambda = 0 } ^ { \\tau } ( r ) \\right] \\right) ^ { 1 / 2 } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\tau$ represents the proton,the neutron,or the nucleon. The rms charge radius is calculated simply as $r _ { \\mathrm { c h } } ^ { 2 } = r _ { \\mathrm { p } } ^ { 2 } + 0 . 6 4 ~ \\mathrm { f m ^ { 2 } }$ .The intrinsic mutipolemoment is calculated by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle Q _ { \\tau , \\lambda } = \\sqrt { \\frac { 1 6 \\pi } { 2 \\lambda + 1 } } \\langle r ^ { 2 } Y _ { \\lambda 0 } ( \\theta , \\phi ) \\rangle = 2 \\langle r ^ { 2 } P _ { \\lambda } ( \\theta ) \\rangle } } \\\\ { { \\displaystyle ~ = \\frac { 8 \\pi } { 2 \\lambda + 1 } \\int d r \\left[ r ^ { 4 } \\rho _ { v , \\lambda } ^ { \\tau } ( r ) \\right] . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The quadrupole deformation parameter is obtained from the quadrupole moment by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\beta _ { \\tau , 2 } = \\frac { \\sqrt { 5 \\pi } Q _ { \\tau , 2 } } { 3 N _ { \\tau } \\langle r _ { \\tau } ^ { 2 } \\rangle } \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $N _ { \\tau }$ refers to the number of neutron，proton，or nucleon. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "III. NUMERICALDETAILS AND ROUTINE CHECKS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A. Details on the Woods-Saxon basis ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For numerical reasons several parameters have to be introduced in the calculations,e.g.,the mesh size $\\Delta r$ the box size $R _ { \\mathrm { b o x } }$ for the determination of the basis wave functions by solving the spherical Dirac equations with the Hamiltonian $h _ { D } ^ { ( 0 ) }$ , the maximal $\\lambda$ -value $\\lambda _ { \\mathrm { m a x } }$ in the expansion Eq.(14) of the deformed fields and densities, the cutoff parameters for the radial and angular quantum numbers $n$ and $\\kappa$ in the expansion of Eqs. (16) and(17), $n _ { \\mathrm { m a x } }$ and $\\kappa _ { \\mathrm { m a x } }$ . Instead of $n _ { \\mathrm { m a x } }$ , we introduced an energy cutoff parameter $E _ { \\mathrm { c u t } } ^ { + }$ for positive energy states in the Woods-Saxon basis and in each $\\kappa$ -block,the number of negative energy states in the Dirac sea is the same as that of positive energy states above the Dirac gap [38]. We have investigated the dependence of our results on these parameters in spherical and deformed relativistic Hartree models [38,41].It is found that a box of the size $R _ { \\mathrm { b o x } } = 4 r _ { 0 } A ^ { 1 / 3 }$ with $r _ { 0 } = 1 . 2$ fm,a step size $\\Delta r = 0 . 1$ fm, $\\lambda _ { \\operatorname* { m a x } } = 4$ ，and $| \\kappa _ { \\mathrm { m a x } } | = 1 5$ leads in light nuclei to an acceptable accuracy of less than $0 . 1 \\ \\%$ for the binding energies,the rms radii,and the quadrupole moments . ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the present work we use the determination of the Woods-Saxon basis a box size $R _ { \\mathrm { b o x } } = 2 0$ fm,a mesh size $\\Delta r = 0 . 1$ fm_and a cutoff energy $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV. In each $\\kappa$ -block in the Woods-Saxon basis,the number of negative energy states in the Dirac sea is the same as that of positive energy states above the Dirac gap.In Sec.III C we investigate the convergence of our results with respect to these three parameters. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In order to reduce the computational time, $\\lambda _ { \\operatorname* { m a x } } = 4$ and $| \\kappa _ { \\mathrm { m a x } } | = 1 0$ are used in this work. The parameter sets NL3 [81] and PK1 [79] are used for the Lagrangian density. Note that the center of mass correction energy is calculated differently with these two parameter sets.For NL3,the empirical formula in Eq. (28)is used and for PK1,the center of mass correction energy is calculated microscopically (see Appendix G). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "B. Parameters for the pairing force ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There are two parameters in the phenomenological pairing force Eq.(11),namely, $V _ { 0 }$ and $\\rho _ { \\mathrm { s a t } }$ ，and two additional ones in the smooth cutoff Eq. (23). We take the empirical value $0 . 1 5 2 ~ \\mathrm { f m ^ { - 3 } }$ for the saturation density $\\rho _ { \\mathrm { s a t } }$ The pairing strength $V _ { 0 }$ ，the cutoff $E _ { \\mathrm { c u t } } ^ { \\mathrm { q . p } }$ is fixed by reproducing the proton pairing energy of the Gogny force D1S in the spherical nucleus 20Mg. We first calculate the ground state properties of $^ { 2 0 } \\mathrm { M g }$ by using the spherical relativistic Hartree Bogoliubov theory in a harmonic oscillator basis （SRHBHO） [82] in which the Gogny-D1S [83] force is used in the pp channel. The pairing energy for protons is obtained as $- 9 . 2 3 8 2$ MeV. In Table I the proton pairing energy $E _ { \\mathrm { p a i r } } ^ { \\mathrm { p } }$ from the SRHBHO and deformed RHB calculations for $^ { 2 0 }$ Mg are given. The deformed RHB calculation using the parameter set NL3 with $V _ { 0 } = 3 8 0$ MeV fm $\\cdot ^ { 3 }$ ， $E _ { \\mathrm { c u t } } ^ { \\mathrm { q . p . } } = 6 0 \\$ MeV and the smooth parameter $\\Gamma _ { \\mathrm { c u t } } ^ { \\mathrm { q . p . } } = 5 . 6 5$ MeV reproduces the proton pairing energy from the SRHBHO calculation for $^ { 2 0 }$ Mg. These parameters for the pairing are used in all the following calculations regardless of whether NL3 or PK1 is used for the RMF Lagrangian density. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/230efeed37b310f39e28e4a5704f2eddd46cdde01fda73c07afc4c35973d9891.jpg",
+        "table_caption": [
+            "TABLE I. Determination of the parameters for the pairing force used in the deformed RHB calculations presented in this work.In the last column is given the proton pairing energy （20 $E _ { \\mathrm { p a i r } } ^ { \\mathrm { p } }$ from the SRHBHO and deformed RHB calculations for the spherical nucleus $^ { 2 0 }$ Mg. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Model</td><td>Pairing force</td><td>Parameters</td><td>pair (MeV) EP</td></tr><tr><td>SRHBHO</td><td>Gogny</td><td>D1S [83]</td><td>9.2382</td></tr><tr><td>RHB</td><td>Surface δ with smooth cutoff</td><td>V= 380MeV fm3 E =60MeV Psat = 0.152 fm-3</td><td>-9.2382</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/52b6e173eb4ae88a14c64beb326b9ebeaa2fc6629ed77075c072412bdf4883bf.jpg",
+        "table_caption": [
+            "TABLE II.Ground state properties of $^ { 2 0 }$ Mg from deformed RHB calculations with different cutoff parameters in the Woods-Saxon basis compared with the results of spherical RCHB [29] theory. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"3\">deformed RHB</td><td>RCHB</td></tr><tr><td>Eut (MeV)</td><td>100</td><td>200</td><td>300</td><td></td></tr><tr><td>入p (MeV)</td><td>-0.8992</td><td>-0.9072</td><td>-0.9063</td><td>-0.9061</td></tr><tr><td>△p (MeV)</td><td>2.3823</td><td>2.3866</td><td>2.3871</td><td>2.3876</td></tr><tr><td>Rn (fm)</td><td>2.5910</td><td>2.5902</td><td>2.5900</td><td>2.5900</td></tr><tr><td>Rp (fm)</td><td>3.0073</td><td>3.0052</td><td>3.0049</td><td>3.0049</td></tr><tr><td>Epair (MeV)</td><td>-9.1165</td><td>-9.2294</td><td>-9.2381</td><td>-9.2387</td></tr><tr><td>E (MeV)</td><td>-136.6728</td><td>-136.7608</td><td>-136.7701</td><td>-136.7668</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C. Completeness of the Woods-Saxon basis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The spherical nucleus $^ { 2 0 }$ Mg has been investigated as the first test of the deformed RHB theory and some results were given in Fig. 1 in Ref. [42]. A comparison was made between results obtained for ground state properties of the spherical nucleus $^ { 2 0 }$ Mg with the spherical RCHB code [29] based on the Runge-Kutta method in the radial coordinate $r$ and the new deformed RHB code discussed in this manuscript.We summarize these comparison in Table II. In these calculations,the parameter set NL3,a box of the size $R _ { \\mathrm { b o x } } = 4 r _ { 0 } A ^ { 1 / 3 } = 1 3 . 0$ fm and a step size $\\Delta r = 0 . 1$ fm are used.The surface $\\delta$ pairing force is used with the strength $V _ { 0 } = - 3 7 4$ MeV $\\mathrm { f m ^ { 3 } }$ and $\\rho _ { \\mathrm { s a t } } = 0 . 1 5 2 ~ \\mathrm { f m ^ { - 3 } }$ . A sharp cutoff is applied on the quasiparticle states with $E _ { \\mathrm { c u t } } ^ { \\mathrm { q . p . } } = 6 0 \\$ MeV. It is shown that when the basis size increases, the total binding energy $E$ ， the proton pairing energy Epair，and the rms radius $R$ all converge to the corresponding exact values. In practical calculations, $E _ { \\mathrm { c u t } } ^ { + }$ may be chosen according to the balance between the desired accuracy and the computational cost.It is concluded [42] that for light nuclei, one can safely use $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV which results in accuracies in the total binding energy and the proton pairing energy of about a hundred keV and in the rms radius of around 0.002 fm. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8d4946583d3e88c7d317c79cf35f2ce13ae97c5514750dae67436e8249b22d4.jpg",
+        "img_caption": [
+            "FIG.1.(Color online) Bulk properties of ground state (a) and the oblate minimum (b) of $^ { 4 2 } \\mathrm { M g }$ as functions of the cutoff energy $E _ { \\mathrm { c u t } } ^ { + }$ From the lowest tothetop panels,the total binding energy $\\scriptstyle { E _ { \\mathrm { B } } }$ ，the quadrupole deformation $\\beta$ ，and the rms radius $R$ are plotted.The parameter set is NL3,the box size is $R _ { \\mathrm { b o x } } = 2 0$ fm and the step size is $\\Delta r = 0 . 1$ fm. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since we are also interested in drip-line nuclei,next westudy the dependence of the deformed RHB results on the completeness of the Woods-Saxon basis for a very neutron rich nucleus.In this subsection we study the results with different values of $E _ { \\mathrm { c u t } } ^ { + }$ . For the calculation with a Woods-Saxon basis [38], a box of the size $R _ { \\mathrm { b o x } } =$ $4 r _ { 0 } A ^ { 1 / 3 }$ with $r _ { 0 } = 1 . 2$ fm is used. In this case $R _ { \\mathrm { b o x } }$ is different for different magnesium isotopes,e.g.，13.0 fm for $^ { 2 0 }$ Mg and 16.7 fm for $^ { 4 2 }$ Mg. In the present work, we prefer to use a fixed box size $R _ { \\mathrm { b o x } } = 2 0$ fm which is large enough for all magnesium isotopes. The mesh size for the radial wave function of eachWoods-Saxon state is taken as 0.1 fm. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For $^ { 4 2 }$ Mg both prolate and oblate minima in the potential energy surface are searched for and it is found that the ground state is prolate.In Fig.1 the total binding energy $E _ { \\mathrm { B } }$ ，the quadrupole deformation $\\beta$ ，and the rms radius $R$ are plotted as functions of $E _ { \\mathrm { c u t } } ^ { + }$ for the prolate ground state and for the oblate minimum of $^ { 4 2 } \\mathrm { M g }$ respectively.Apparently, when we increase $E _ { \\mathrm { c u t } } ^ { + }$ ,these quantities all converge well. Similar as in the case of the spherical nucleus $^ { 2 0 } \\mathrm { M g }$ , for light deformed nuclei, the cutoff $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV results in relative accuracies of $0 . 5 \\%$ for the quadrupole deformation, $0 . 0 5 \\%$ for the rms radius, and $0 . 1 \\ \\%$ for the total binding energy. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/02e0c7dec4a7ce6d6a5ec1449a0795af6d5df870f70fba10a7e0593ed8f98864.jpg",
+        "img_caption": [
+            "FIG.2.(Color online） Bulk properties for $^ { 4 2 }$ Mg as in Fig. 1 but now as functions of the step size $\\Delta r$ ．The box size is （20 $R _ { \\mathrm { b o x } } = 2 0$ fm and an energy cutoff is $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The box size $R _ { \\mathrm { b o x } } ~ = ~ 2 0$ fm and the cutoff energy $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV are fixed when we investigate the convergence of the deformed RHB results with respect to the mesh size $\\Delta r$ .In Fig. 2 it is shown that when the mesh size decreases,the total binding energy $\\boldsymbol { E _ { \\mathrm { B } } }$ the quadrupole deformation $\\beta$ ，and the rms radius $R$ all converge well. The difference of the binding energy between calculations with $\\Delta r \\ = \\ 0 . 1$ fm and $\\Delta r \\ = \\ 0 . 0 5$ fm is smaller than O.025 MeV for both minima,which is about $0 . 0 0 8 \\%$ of the total binding energy. When $\\Delta r$ is decreased from O.1 fm to O.O5 fm,the relative changes of the quadrupole deformation $\\beta$ and the radius $R$ are both smaller than $0 . 0 1 \\%$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the same quantities as a function of the box size $R _ { \\mathrm { b o x } }$ ．The relative deviations between the rms radius $R$ at $R _ { \\mathrm { b o x } } = 2 0$ fm and $R _ { \\mathrm { b o x } } = 3 0$ fm are about $0 . 1 \\%$ for the prolate ground state and $0 . 0 1 \\%$ for the oblate minimum.The box size $R _ { \\mathrm { b o x } } = 2 0$ fm gives also a good accuracy For the quadrupole deformation $\\beta$ and the binding energy. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,in the following calculations,we fix the box size at $R _ { \\mathrm { b o x } } = 2 0$ fm,the mesh size at $\\Delta r = 0 . 1$ fm，and the cutoff energy for positive energy states in the Woods-Saxon basis at $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV. In each $\\kappa$ ， block,the number of negative energy states in the Dirac sea is the same as that of positive energy states above the Dirac gap.The cutoff parameter for $\\lambda$ in the expansion Eq. (14), $\\lambda _ { \\operatorname* { m a x } } = 4$ and the cutoff parameter for the angular quantum number $\\kappa$ in the expansion Eq. (17) is $| \\kappa _ { \\mathrm { m a x } } | = 1 0$ .With these values we do not introduce sizable errors. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5561eeff38a896fa838380a258898bee11c15932bfe92acbcb8adc9b0404ed7f.jpg",
+        "img_caption": [
+            "FIG.3.(Color online）Bulk properties for $^ { 4 2 } \\mathrm { M g }$ as in Fig. 1 but now as functions of the box size $R _ { \\mathrm { b o x } }$ ．The step size is $\\Delta r = 0 . 1$ fm and the energy cutoff is $E _ { \\mathrm { c u t } } ^ { + } = 1 0 0$ MeV. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IV.RESULTS AND DISCUSSIONS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this section,we present results from the deformed RHB theory in continuum. We choose magnesium isotopes as examples.After discussing the bulk properties of magnesium isotopes,we will focus on the neutron rich nucleus $^ { 4 2 }$ Mg. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A.Bulk properties of magnesium isotopes ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the neutron Fermi energy $\\lambda _ { \\mathrm { n } }$ and two neutron separation energy $S _ { 2 \\mathrm { n } }$ of magnesium isotopes calculated with the parameter sets NL3 [81] and PK1 [79]. The separation energies are compared with data taken from Ref. [84]. Except the different prediction of the two-neutron drip line nucleus,the results of the neutron Fermi surfaces and two neutron separation energies are very similar for both parameter sets.The calculated two neutron separation energies $S _ { 2 n }$ of magnesium isotopes agree reasonably well with the available experimental values except for $^ { 3 2 }$ Mg. The large discrepancy in $^ { 3 2 }$ Mg is connected to the shape and the shell structure at $N = 2 0$ and will be discussed later. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Experimentally the nucleus $^ { 4 0 }$ Mg has been observed [85]. Theoretically there are several predictions on the last bound nucleus in Mg isotopes,e.g., 44Mg in the phenomenological finite range droplet model [86] $^ { 4 0 }$ Mg in a macroscopic- microscopic model [87], a RMF model with the parameter set NLSH[88],and the Skyrme HFB model with the parameter set SLy4 and solved in a 3-dimensional Cartesian mesh [52], and $^ { 4 2 }$ Mg from the Skyrme HFB model with SLy4 but solved in a transformed harmonic oscillator basis [37] and the HFB21 mass table [89]. Therefore the prediction of the twoneutron drip line nucleus in Mg isotopes is both model and parametrization dependent.In our deformed RHB calculations with the parameter set NL3, $^ { 4 6 }$ Mg is the last nucleus of which the neutron Fermi surface is negative and the two neutron separation energy is positive. However,with the parameter set PK1, $^ { 4 2 }$ Mg is predicted to be the last nucleus within the two-neutron drip line. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/243d69d5bd7b5ba3505929fc4934ce7720e364329f2d07387990aa1009114318.jpg",
+        "img_caption": [
+            "FIG.5.(Color online) The quadrupole deformation parameter $\\beta$ of magnesium isotopes calculated with the parameter sets NL3 and PK1. The experimental vales（“Exp.\"） are taken from Ref. [90]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c416adfd49bb966a3af55067bdaa9f698dd1495d45a2fb4ea057b7586f0b018f.jpg",
+        "img_caption": [
+            "FIG.4.(Color online） The neutron Fermi energy $\\lambda _ { \\mathrm { n } }$ (a)and two neutron separation energy $S _ { 2 \\mathrm { n } }$ (b) of magnesium isotopes calculated with the parameter sets NL3 and PK1.The data of $S _ { 2 \\mathrm { n } }$ (labeled as “Exp.\"） are taken from Ref. [84]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The comparison of the quadrupole deformation $\\beta$ between the theory and the experiment are given in Fig.5. The experimental values of $\\beta$ is extracted from the measured $B ( E 2 : 0 _ { 1 } ^ { + }  2 _ { 1 } ^ { + }$ ）values and therefore only absolute values are available [9O]. Generally speaking, the ground state quadrupole deformations $\\beta$ calculated with both parameter sets reproduce the data rather well. Exceptions are the nuclei $^ { 3 2 }$ Mg，which turns out to be spherical in both models and $^ { 3 0 }$ Mg,which is prolate and slightly less deformed than the experiment for PK1 and slightly oblate for NL3.In $^ { 3 2 }$ Mg,the gap between the neutron levels $1 d _ { 3 / 2 }$ and $1 f _ { 7 / 2 }$ is almost 7 MeV which results in a strong closed shell at $N \\ = \\ 2 0$ .Therefore the deformed RHB calculations with both parameter sets predict spherical shapes for this nucleus.This also results in alarge discrepancy from the experiment for the two neutron separation energy $S _ { 2 \\mathrm { n } }$ of $^ { 3 2 }$ Mg as it is seen in Fig. 4. Other mean field models predict spherical or almost spherical shapes for $^ { 3 2 }$ Mg too [52, 88, 91-96]. For the isotopes beyond this nucleus with $3 2 < A < 4 6$ we observe large deformations,the so called“island of inversion”[97-1OO] which is related to the quenching of the $N = 2 0$ shell closure.On the mean field level the nucleus $^ { 3 2 }$ Mg does not belong to this island yet. In fact， going beyond mean field and calculating the energy surface as a function of the deformation parameters one finds that this nucleus is a transitional nucleus with an extended shoulder reaching to large deformations. This leads in GCM calculations with the Gogny force [93] to wavefunctions with large fluctuations in deformation space and to a large $B ( E 2 : 0 _ { 1 } ^ { + }  2 _ { 1 } ^ { + }$ )value as it is observed in the experiment [1O1]. So far it is an open question,why other GCM calculations based on Skyrme forces [102] or on the relativistic point coupling model PC-F1 [96] cannot reproduce this fact. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Up to $^ { 4 2 }$ Mg,the deformed RHB results from the parameter set NL3 are very similar to those from the parameter set PK1. Therefore in the following we will mainly focus our discussion on the results from PK1. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 6, the root mean square radiifor magnesium isotopes are plotted as functions of the neutron number.We display neutron radii $R _ { \\mathrm { n } }$ ，proton radii $R _ { \\mathrm { p } }$ ，matter radii $R _ { \\mathrm { t } }$ ，the $r _ { 0 } A ^ { 1 / 3 }$ curve with $r _ { 0 } = 1$ fm，and experimental matter radii [51, 103]. The proton radius are almost a constant with a very slow increase with increasing $N$ due to the neutron-proton coupling included in the mean field.With the neutron number increasing,the neutron radius $R _ { \\mathrm { n } }$ increases monotonically with an exception at $^ { 3 2 }$ Mg. The neutron radius of $^ { 3 2 }$ Mg is relatively small, which is again due to the strong shell effect at $N = 2 0$ in the mean field calculations.It is shown that the deformed RHB results agree well with the experiment for the matter radius.The calculated matter radius follows roughly the $r _ { 0 } A ^ { 1 / 3 }$ curve up to $A = 3 4$ From $^ { 3 6 }$ Mg on, the matter radius lies much high above the $r _ { 0 } A ^ { 1 / 3 }$ curve. This may indicate some exotic structure in these nuclei. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d1205b56ee0a9527067a135ec0575ca3ab1cd726768484311d8f797d149d853.jpg",
+        "img_caption": [
+            "FIG.6.(Color online) The root mean square radii for magnesium isotopes are plotted as functions of the neutron number. We display the neutron radius $R _ { \\mathrm { n } }$ ,the proton radius $R _ { \\mathrm { p } }$ ，the matter radius $R _ { \\mathrm { t } }$ ,and the available data for $R _ { \\mathrm { t } }$ [51,103]. The （204号 $r _ { 0 } A ^ { 1 / 3 }$ curve is included to guide the eye. ",
+            "FIG.7.(Color online） Neutron density profiles of even-even magnesium isotopes with $A \\geq 2 8$ calculated with the parameter set PK1.Details are given in the text. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 shows neutron density profiles of even-even magnesium isotopes with $A \\geq 2 8$ calculated with the parameter set PK1. $\\rho _ { \\mathrm { n , \\lambda = 0 } } ( r )$ represents the spherical component of the neutron density distribution (cf. Eq.14). $\\rho _ { \\mathrm { n } } ( z , r _ { \\perp } = 0 )$ with $r _ { \\perp } = \\sqrt { x ^ { 2 } + y ^ { 2 } }$ refers to the density distribution along the symmetry axis $z$ ( $\\theta = 0 ^ { \\circ }$ )and $\\rho _ { \\mathrm { n } } ( z = 0 , r _ { \\perp } )$ refers to that perpendicular to the symmetry axis $z$ ( $\\theta = 9 0 ^ { \\circ }$ ).With increasing $A$ ，the spherical ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1 28 10 (a) 30 n   \n3 J) 10-2 h 32 34360 / 中 3 0 10 4 h 3840 ud 10 10 10 5 6 0 PK1 5 10 42 15 1 T r(fm) F   \nG (b) 28303234363840 MM X MWWN p=10 PK1 42 4 T 10-5 0=0° 10 6 0 5 10 15 rz(fm)   \n-uy) 10-3 10-1 10-2 E 1 (c） 303840 28 303234 bobobobobobobobo m n10 PK1 42 M p 10-5 0=90° 10 6 m 0 5 10 15 r (fm) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "component of the neutron density distribution $\\rho _ { \\mathrm { n } , \\lambda = 0 } ( r )$ changes rapidly at $^ { 4 2 } \\mathrm { M g }$ . The density distribution along the symmetry axis $\\rho _ { \\mathrm { n } } ( z , r _ { \\perp } = 0 )$ ）changes abruptly from $^ { 3 2 }$ Mg to $^ { 3 4 } \\mathrm { M g }$ .This can be understood easily by the change in shape in going from the spherical $^ { 3 2 } \\mathrm { M g }$ to the prolate $^ { 3 4 }$ Mg where the density is elongated along the $z$ axis.In the direction perpendicular to the symmetry axis, the neutron density $\\rho _ { \\mathrm { n } } ( z = 0 , r _ { \\perp } )$ of $^ { 4 2 } \\mathrm { M g }$ extends very far away from the center of the nucleus and a long tail emerges,revealing the formation of a halo. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "By comparing $\\rho _ { \\mathrm { n } } ( z , r _ { \\perp } = 0 )$ and $\\rho _ { \\mathrm { n } } ( z \\ = \\ 0 , r _ { \\perp } )$ for $^ { 4 2 }$ Mg,it is found that in the tail part,the neutron density extends more along the direction perpendicular to the symmetry axis.Since this nucleus as a whole is prolate, it indicates that the neutron tail has a different shape as the core. This fact is similar to the decoupling of the shape of the halo from the shape of the core found for （20 $^ { 4 4 }$ Mg in Ref.[43]. Next we willconcentrate on $^ { 4 2 } \\mathrm { M g }$ and discuss in details the structure of its ground state. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "B. Ground state of $^ { 4 2 }$ Mg ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff7aeb37fc473d0ec12b376e1f62aeadb15c967397f6666c8833aaee54c38057.jpg",
+        "table_caption": [
+            "TABLE III. Properties of $^ { 4 2 }$ Mg at the ground state and at the oblate minimum derived from deformedRHB calculations with the parameter sets NL3 and PK1. The neutron and proton Fermi surface $\\lambda _ { \\mathrm { n } }$ and $\\lambda _ { \\mathrm { p } }$ ，neutron，proton and total quadrupole deformation $\\beta _ { \\mathrm { n } }$ ， $\\beta _ { \\mathrm { p } }$ ， $\\beta _ { \\mathrm { t } }$ ，neutron,proton and total radii $R _ { \\mathrm { n } }$ ， $R _ { \\mathrm { p } }$ ， $R _ { \\mathrm { t } }$ ，neutron and proton pairing energies $E _ { \\mathrm { P a i r } } ^ { \\mathrm { n } } , E _ { \\mathrm { P a i r } } ^ { \\mathrm { p } }$ , and total binding energy $\\scriptstyle { E _ { \\mathrm { B } } }$ are listed. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>PK1</td><td>NL3</td><td></td></tr><tr><td>Xn</td><td>-0.6147</td><td>-0.1753</td><td>-0.8805 -0.3989</td></tr><tr><td>入p</td><td>-24.6731</td><td>-23.9050</td><td>-24.2695 -22.8118</td></tr><tr><td>βn</td><td>-0.3282</td><td>0.4155</td><td>-0.3299 0.4181</td></tr><tr><td>βp</td><td>-0.2426</td><td>0.3911</td><td>-0.2426 0.3917</td></tr><tr><td>βt</td><td>-0.3038</td><td>0.4085</td><td>-0.3049 0.4105</td></tr><tr><td>Rn</td><td>4.0250</td><td>4.1077</td><td>4.0291 4.0971</td></tr><tr><td>Rp</td><td>3.1208</td><td>3.1499</td><td>3.1393 3.1673</td></tr><tr><td>Rt</td><td>3.7888</td><td>3.8584</td><td>3.7962 3.8544</td></tr><tr><td>EPair</td><td>-18.2511</td><td>-6.2620</td><td>-17.1509 -6.1595</td></tr><tr><td>Epair</td><td>-7.0405</td><td>0.0000</td><td>-6.7639 0.0000</td></tr><tr><td>EB</td><td>-265.4629</td><td>-266.4505</td><td>-270.6907 -270.6993</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the calculations based on the parameter set PK1, the chain of Mg isotopes reaches the two-neutron drip line at the nucleus $^ { 4 2 }$ Mg. Its properties are summarized in Table III. For $^ { 4 2 }$ Mg we find two minima in the energy surface as a function of the deformation parameter $\\beta$ . The lower one has a prolate shape and corresponds to the ground state of $^ { 4 2 } \\mathrm { M g }$ . The second minimum has an oblate shape.From RMF calculations allowing for triaxial deformations [1O4] we know,however, that the oblate minimum is not stable.It forms a saddle point in the 0 $\\beta$ $\\gamma$ ） plane and therefore it does not correspond to an isomeric state. The ground state is well deformed with a quadrupole deformation $\\beta \\approx 0 . 4 1$ ,and a very small two neutron separation energy $S _ { 2 n } \\approx 0 . 2 2$ MeV. The density distribution of this weakly bound nucleus has a very long tail in the direction perpendicular to the symmetry axis (cf.Fig.7),which indicates the prolate nucleus $^ { 4 2 }$ Mg has an oblate halo. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The density distribution in Fig.8 is decomposed into contributions of the oblate “Halo” and of the prolate “Core”.Details of this decomposition will be given fur ther down. This indicates the decoupling between the deformations of the core and the halo. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Pairing correlations play a very important role in the formation of the halo [27]. For the parameter set PK1 we find in Table III in the ground state of $^ { 4 2 }$ Mg a vanishing pairing energy for protons and a paring energy ${ \\cal E } _ { \\mathrm { P a i r } } ^ { \\mathrm { n } } ~ = ~ - 6 . 2 6$ MeV for the neutrons.For the_zero range pairing interaction in Eq.(11） only spin singlet （ $S ~ = ~ 0$ ）states and elements diagonal in the quantum number $p$ are taken into account in the pairing tensor. See appendix F for more details concerning this assumption. In Fig. 9 we show the components $\\kappa _ { \\lambda } ^ { + + } ( r )$ in Eq. (E5)and $\\kappa _ { \\lambda } ^ { - - } ( r )$ in Eq. (E6) of the pairing tensor in the ground state of $^ { 4 2 }$ Mg for the parameter set PK1. Figure 9(b) shows the main component $\\kappa _ { \\lambda } ^ { + + } ( r )$ corresponding to the large components of the Dirac spinor. Comparing Fig. 9(a) and Fig. 9(b) one finds that $\\kappa _ { \\lambda } ^ { - - } ( r )$ is smaller by two orders of magnitude than $\\kappa _ { \\lambda } ^ { + + } ( r )$ The same sign for the quadrupole ( $\\lambda = 2$ ）and the spherical 1 $\\lambda = 0$ ）components can be understood by the fact that the ground state of $^ { 4 2 }$ Mg is prolate in the present calculation. The maximum of $\\kappa _ { \\lambda } ^ { + + } ( r )$ appears at about 4.8 fm indicating that paring in nuclei is a surface effect.The hexadecapole components ( $\\lambda = 4$ )are much smaller than the spherical components ( $\\lambda = 0$ ). ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/559fedc5d236e5e428dce560d322826a88ee529235c608dd592a291655e011a0.jpg",
+        "img_caption": [
+            "FIG.8.(Color online） Density distributions of the ground state of $^ { 4 2 }$ Mg with the $z$ axis as the symmetry axis: (a) the neutron halo,and (b) the neutron core. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d8e957b986d9f94f8577878512791cc184912cdb56a0f653bd67a159e8d321d.jpg",
+        "img_caption": [
+            "FIG. 9.(Color online） The neutron pairing tensor $r ^ { 2 } \\kappa _ { \\lambda } ^ { - - } ( r )$ （204号 (a)and $r ^ { 2 } \\kappa _ { \\lambda } ^ { + + } ( r )$ (b)with $\\lambda = 0$ ， $2$ , and 4 of the ground state of $^ { 4 2 } \\mathrm { M g }$ from the deformed RHB theory in continuum with the parameter set PK1. ",
+            "FIG.1O.(Color online） Single neutron levels of ground state of $^ { 4 2 }$ Mg in the canonical basis as a function of the occupation probability $v ^ { 2 }$ . The order $i$ ， good quantum numbers $\\Omega ^ { \\pi }$ and the main spherical components for orbitals close to the threshold are also given.The blue dashed line corresponds to the BCS-formula with an average pairing gap. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Weakly bound orbitals or those embedded in the continuum play a crucial role in the formation of a nuclear halo [27,105,106]. In order to have an intuitive understanding of the single particle structure,the canonical basis is constructed by the method given in Ref. [29]. The single particle spectrum around the Fermi level for the ground state of $^ { 4 2 }$ Mg is shown in Fig. 10. For an axially deformed nucleus with spatial reflection symmetry, the good quantum numbers of each single particle state include the parity $\\pi$ and the third component of the angular momentum $m$ (labeled by the Nilsson quantum number $\\Omega$ in the figures).The occupation probabilities $v ^ { 2 }$ in the canonical basis have BCS-form [75] and are given by the length of the horizontal lines in Fig.1O. To guide the eye we also show by a blue dashed line the BCS-formula calculated with an average gap parameter. The levels close to the threshold are labeled by the number $i$ according to their energies,and their conserved quantum number $\\Omega ^ { \\pi }$ as well as the main spherical components are given at the right hand side.The neutron Fermi level is within the $p f$ shell and most of the single particle levels have negative parities. Since the chemical potential $\\lambda _ { n } \\approx - 1 7 5 \\ \\mathrm { k e V }$ is negative, the corresponding density $\\rho ( r )$ is localized and the particles occupying the levels in the continuum are bound [26]. Since the chemical potential $\\lambda _ { n }$ is close to the continuum,orbitals above the threshold have noticeable occupations due to the pairing correlations.For instance, the occupation probability of the fifth level $\\Omega ^ { \\pi } = 3 / 2 ^ { - }$ ） is $3 1 . 5 \\%$ ．The fourth level $\\Omega ^ { \\pi } = 1 / 2 ^ { - }$ is just below the threshold with a single particle energy in the canonical ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4 Mg PK1   \n(APN) 2 0 Prolate 入 5 3/2 [2p3/2 + 1f7/2] 7 1/2 [1f5/2+ 2P1/2] 4 1/2- [2P3/2+ 115/2 cem -2 3 5/2 [1f7/2] + 2p1/2]   \nE 2 1/2' [2p1/2 + 1f7/2] 4 1 3/2' [1f7/2 + 2P3/2] π 0 0.5 1 孔 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "basis $\\varepsilon _ { \\mathrm { c a n } } = - 0 . 2 3 4$ MeV and an occupation probability of $5 3 . 0 \\%$ .All the other levels below that orbital are well bound with $\\varepsilon _ { \\mathrm { c a n } } < - 2$ MeV. Similar to those of $^ { 4 4 }$ Mg in Ref. [43], the single neutron levels of $^ { 4 2 }$ Mg can be divided into two parts, the deeply bound levels ( $\\varepsilon _ { \\mathrm { c a n } } < - 2$ MeV) corresponding to the “core\",and the remaining weakly bound levels close to the threshold ( $\\varepsilon _ { \\mathrm { c a n } } > - 0 . 3$ MeV) and in the continuum corresponding to the“halo”. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We have already seen in Fig. 8 that the core is prolate and the halo is oblate.According to Eq.(14） the density distributions of the core and of the halo are decomposed into spherical ( $\\lambda = 0$ )，quadrupole ( $\\lambda = 2$ ), and hexadecapole ( $\\lambda = 4$ ）components in Fig.11. The quadrupole component of the core turns out to be positive,which is consistent with the prolate shape of $^ { 4 2 }$ Mg in the ground state. However,for the halo, the quadrupole component is mainly negative,which means the halo has an oblate shape. This explains the decoupling between the quadrupole deformations of the core and the halo. We also find in Fig.11 that the spherical component is absolutely the main part of the density distribution for both the core and the halo,and that the hexadecapole component in the density distribution of the neutron halo is also noticeable. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In order to study the formation mechanism of the halo in more detail, we show in Fig. 12(a) the main (spherical） components $\\rho _ { \\mathrm { n , \\lambda = 0 } } ^ { i }$ of the density distribution for the weakly bound neutron orbitals $i$ . Figure 12(b) gives the ratio of these spherical components $\\rho _ { \\mathrm { n , \\lambda = 0 } } ^ { i }$ to the spherical component of the total neutron density $\\rho _ { \\mathrm { n } }$ ,入=0. One can clearly see that far away from the center, the main contribution comes from the 4th and 5th levels. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.03.0 (a) Halo λ=0m 2.0 x=2  \nb  \n3 1.0 =400 0.0x-1.0η-2.0 Y PK1P-3.00 5 10r (fm)0.120.10 (b） Core λ=00.08 入=2L 0.06 入=4S 0.04 PK1p n 0.02 42 Mg0.00-0.020 5 10r(fm)",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Almost 8O% of the total density distribution in the tail part comes from these two levels which are close to the Fermi surface.Level7is embedded in the continuumand gives also some contribution to the tail of the total density distribution.However, the occupation probability of this level is just 5.7%,so its contribution is very small. The occupation probability of level 6 is $7 . 9 \\%$ ,a bit lager than that of level 7.But there is almost no contribution to the tail of total density from this level. By examining the spherical Woods-Saxon components,it is found that the main component of level 6 is $1 f _ { 7 / 2 }$ .The large centrifugal barrier of $f$ states with $l = 3$ hinders strongly its spatial extension. For level 7,about $3 1 . 3 \\%$ contribution comes from $2 p _ { 1 / 2 }$ with a small centrifugal barrier and therefore the density can extend far away from the center of the nucleus. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "As it is shown in Fig.12, the halo is mainly formed by level 4 and level 5 with occupation probabilities of $5 3 . 0 \\%$ and $3 1 . 5 \\%$ respectively. Having in mind the degeneracy 2 for each single particle level, the occupation number of these two orbitals is about 1.7. If we decompose the deformed wave functions of these two orbitals in the spherical Woods-Saxon basis,it turns out that in both cases the major part comes from $p$ waves,as indicated on the right-hand side of Fig.1O. For level 4( $\\Omega ^ { \\pi } = 1 / 2 ^ { - }$ )，the probability of $2 p _ { 3 / 2 }$ ， $1 f _ { 5 / 2 }$ ，and $2 p _ { 1 / 2 }$ are $3 7 . 0 \\%$ ， $3 2 . 3 \\%$ and $2 1 . 2 \\%$ respectively. For level 5 ( $\\Omega ^ { \\pi } = 3 / 2 ^ { - }$ ) $2 p _ { 3 / 2 }$ is the dominant component with a probability of $7 8 . 6 \\%$ The low centrifugal barrier for $p$ waves gives rise to the formation of the halo. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5d27ec1b58d9051896eb06a6506936a2b68ed059f0b6c8e7b43044538d78582.jpg",
+        "img_caption": [
+            "FIG.11. (Color online) Decomposition of the neutron density of the ground state of $^ { 4 2 }$ Mg into spherical ( $\\lambda = 0$ ),quadrupole （ $\\lambda = 2$ )，and hexadecapole( $\\lambda = 4$ ） components for the halo (a)and the core (b). ",
+            "FIG.12.(Color online) Spherical components of neutron density distributions of ground state of $^ { 4 2 } \\mathrm { M g }$ ：(a) the total density and its decomposition into the core and the halo and contributions from several neutron orbitals around the Fermi level;(b） relative contributions of these neutron orbitals to the total neutron density. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The shape of the halo originates from the intrinsic structure of the weakly bound or continuum orbitals [43，45].As discussed before，for the ground state of $^ { 4 2 }$ Mg，the halo is mainly formed by level 4 and level 5. We know that the angular distribution of $| Y _ { 1 0 } ( \\theta , \\phi ) | ^ { 2 } \\propto \\cos ^ { 2 } \\theta$ with a projection of the orbital angular momentum on the symmetry axis $\\Lambda = 0$ is prolate and that of $| Y _ { 1 \\pm 1 } ( \\theta , \\phi ) | ^ { 2 } \\propto \\sin ^ { 2 } \\theta$ with $\\Lambda = 1$ is oblate [45]. For level 4 ( $\\Omega ^ { \\pi } = 1 / 2 ^ { - }$ ， $\\Lambda$ could be $0$ or $^ { 1 }$ since the third component of total spin is $1 / 2$ .However,it turns out that the $\\Lambda = 0$ component dominates which results in an oblate shape.For level 5,since the third component of the total spin is $3 / 2$ ， $\\Lambda$ can only be 1,which corresponds to an oblate shape too.Therefore in $^ { 4 2 }$ Mg the shape of the halo is oblate and decouples from the prolate core. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "V. SUMMARY ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A deformed relativistic Hartree Bogoliubov theory in continuum is developed in order to describe deformation effects in exotic nuclei allowing for halo structures. The deformed RHB equations are solved in a Woods-Saxon basis where the radial wave functions have a proper asymptotic behavior at large distance from the nuclear center.This is crucial for the formation ofa halo.The formalism and the numerical details of the deformed RHB theory are presented. Routine checks are made including convergence studies of the deformed RHB results concerning the mesh size, the box size and the size of the Woods-Saxon basis. The results are compared for spherical nuclei with solutions of the 1D continuum RHB equations in the radial coordinate $r$ based on the RungeKutta method. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The deformed RHB theory in continuum is applied to study the chain of magnesium isotopes with the parameter sets NL3 and PK1 of the Lagrangian. Except for the different prediction of the two-neutron drip line nucleus, the results of neutron Fermi surfaces and two neu tron separation energies are very similar for both parameter sets.The calculated two neutron separation energies $S _ { 2 n }$ of magnesium isotopes agree reasonably well with the available experimental values except for $^ { 3 2 }$ Mg,a well known problem connected with the shape and the shell structure at $N = 2 0$ .For $^ { 3 2 }$ Mg, the gap between the neutron levels $1 d _ { 3 / 2 }$ and $1 f _ { 7 / 2 }$ is almost 7 MeV which results in a strong shell closure at $N = 2 0$ .The nuclear radii are also investigated, the deformed RHB results agree well with the experiment for matter radii. The proton radius is almost a constant with a very slow increase with increasing $N$ due to the neutron-proton coupling included in the mean field.A sharp increase in the neutron radius is observed at $^ { 4 2 } \\mathrm { M g }$ ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Detailed results are shown for the two-neutron drip line nucleus $^ { 4 2 }$ Mg with the parameter set PK1, which is well deformed. The ground state of $^ { 4 2 } \\mathrm { M g }$ is prolate, however, it has an oblate neutron halo.By examining in detail the density distributions,the pairing tensor,and the single particle levels in the canonical basis in the deformed nucleus $^ { 4 2 } \\mathrm { M g }$ , it can be understood,why the shape of the neutron halo decouples from that of the core.It is shown that the existence and the deformation of a possible neutron halo depends essentially on the quantum numbers of the main components of the single-particle orbits in the vicinity of the Fermi surface and the shape of their single-particle density distributions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In stable nuclei, there are situations that the levels of valence nucleons are sometimes also well separated from the core.It is,however,a difficult question，whether there exists cases of such a decoupling of shapes as we have seen here in the case of loosely bound valence orbits close to the continuum limit,because in stable nuclei even the valence nucleons are well bound in the average potential. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We can conclude that spherical and deformed relativistic Hartree Bogoliubov theory in continuum is a very powerful tool providing a proper description of exotic nuclei including halo phenomena,because it takes into account in a self-consistent and microscopic way polarization effects,shape changes of individual orbitals,pairing correlations and the coupling to the continuum with proper boundary conditions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work has been supported in part by the Natural Science Foundation of China (10875157，10975100, 10979066，11105005，11175002，and 11175252)，by the Major State Basic Research Development Program of China (2007CB815000)，by the Knowledge Innovation Project of Chinese Academy of Sciences (KJCX2-EWN01 and KJCX2-YW-N32)，and by the DFG cluster of excellence “Origin and Structure of the Universe\" (www.universe-cluster.de).Part of the results described in this paper is obtained on the ScGrid of Supercomputing Center,Computer Network Information Center of Chinese Academy of Sciences. One of the authors (P.R.) would like to express his gratitude to J. Meng for the kind hospitality extended to him at the Peking University.Helpful discussions with N.V.Giai, B.N.Lu, Z. Y. Ma,N. Sandulescu, J. Terasaki, D. Vretenar, S. J. Wang, and S. Yamaji are gratefully acknowledged. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[1]J.W.Xia,W.L. Zhan,B.W.Wei,Y.J.Yuan,M.T. Song,W.Z. Zhang,X.D. Yang,P.Yuan,D.Q.Gao, H.W. Zhao, X.T. Yang,G. Q.Xiao,K.T. Man, J. R. Dang,X.H.Cai,Y.F.Wang,J.Y.Tang,W.M.Qiao, Y.N.Rao, Y. He, L. Z. Mao, and Z. Z. Zhou, Nucl Instrum. Methods Phys. Res. A 488,11 (2002).   \n[2] W. Zhan,H.Xu,G.Xiao,J.Xia,H. Zhao,and Y.Yuan, Nucl. Phys. A 834, 694c (2010).   \n[3] C.Sturm,B.Sharkov，and H.Stocker,Nucl.Phys.A 834,682c (2010). Physics of Radioactive Beams (Nova Science Publishers, Inc., 2001).   \n[9] A. C. Müller and B.M. Sherrill, Annu. Rev. Nucl. Part. Sci. 43, 529 (1993).   \n[10] I. Tanihata, Prog.Part. Nucl. Phys.35, 505 (1995).   \n[11] P.G. Hansen,A. S. Jensen，and B. Jonson, Annu. Rev. Nucl. Part. Sci. 45, 591 (1995).   \n[12] R. F. Casten and B.M. Sherrill, Prog. Part. Nucl. Phys. 45, S171 (2000).   \n[13] B. Johnson, Phys. Rep.389,1 (2004).   \n[14] A.S. Jensen,K. Riisager, D.V. Fedorov,and E.Garrido, Rev.Mod. Phys.76, 215 (2004).   \n[15] S.N. Ershov,L.V. Grigorenko, J. S. Vaagen,and M.V. Zhukov, J. Phys.G: Nucl. Phys. 37, 064026 (2010).   \n[16] Z.-X. Cao and Y.-L. Ye, Sci. China-Phys. Mech. Astron. 54 (Suppl. 1), s1 (2011).   \n[17] I. Tanihata,H. Hamagaki, O. Hashimoto,Y. Shida, N. Yoshikawa, K.Sugimoto, 0. Yamakawa, T. Kobayashi, and N. Takahashi, Phys. Rev. Lett. 55, 2676 (1985).   \n[18] T.Minamisono,T. Ohtsubo, I. Minami, S.Fukuda, A.Kitagawa，M. Fukuda,K.Matsuta, Y.Nojiri, S. Takeda, H. Sagawa, and H. Kitagawa, Phys. Rev. Lett.69, 2058 (1992).   \n[19]W.Schwab，H. Geissel，H.Lenske，K.H.Behr, A．Brünle,K.Burkard，H.Irnich，T．Kobayashi, G.Kraus,A. Magel, G. Münzenberg,F.Nickel,K.Riisager, C. Scheidenberger,B.M. Sherrill, T. Suzuki，and B. Voss, Z. Phys. A 350, 283 (1995).   \n[20] A. Ozawa, T. Kobayashi, T. Suzuki, K. Yoshida, and I. Tanihata, Phys. Rev. Lett. 84, 5493 (2000).   \n[21] P.Adrich，A.Klimkiewicz，M.Fallot，K.Boretzky, T.Aumann,D.Cortina-Gil,U.D. Pramanik,T.W. Elze,H. Emling,H.Geissel,M.Helstrom,K.L. Jones, J.V.Kratz,R.Kulessa,Y.Leifels, C.Nociforo,R.Palit, H. Simon, G. Surowka,K. Summerer， and W. Walus, Phys. Rev. Lett. 95,132501 (2005).   \n[22] L.-g. Cao and Z.-y. Ma, Phys. Rev. C 66, 024311 (2002).   \n[23] J.Dobaczewski,N. Michel, W.Nazarewicz,M. Ploszajczak,and J. Rotureau, Prog. Part. Nucl. Phys. 59, 432 (2007).   \n[24] J. C. Pei, A. T. Kruppa, and W. Nazarewicz, Phys. Rev. C 84, 024311 (2011).   \n[25] A.Bulgac,“Hartree-Fock-Bogoliubov approximation for finite systems,” IPNE FT-194-1980， Bucharest (arXiv:nucl-th/9907088) (1980).   \n[26] J.Dobaczewski, H. Flocard,and J. Treiner,Nucl. Phys. A 422，103 (1984)； J. Dobaczewski， W. Nazarewicz, T.R.Werner，J.F.Berger，C.R.Chinn，and J.Dechargé, Phys. Rev. C 53,2809 (1996).   \n[27] J. Meng and P. Ring, Phys. Rev. Lett.77,3963 (1996).   \n[28] W. Poschl, D. Vretenar, G. A. Lalazissis, and P. Ring, Phys. Rev.Lett. 79，3841 (1997)；G. Lalazissis, D. Vretenar， W. Pöschl, and P. Ring, Phys. Lett.B 418, 7 (1998).   \n[29] J. Meng, Nucl. Phys.A 635, 3 (1998).   \n[30] N. Sandulescu, N. Van Giai, and R. J. Liotta, Phys. Rev. C 61,061301(R) (2000)； N. Sandulescu,L. S. Geng,H. Toki， and G. C. Hillhouse,Phys. Rev.C 68, 054323 (2003).   \n[31] S.-S. Zhang, E.-G. Zhao,and S.-G. Zhou,“Theoretical study of the two-proton halo candidate $^ { 1 7 }$ Ne including contributions from a resonant continuum and pairing correlations,” arXiv:1105.0504 [nucl-th] (2011)，submitted to Nucl. Phys. A.   \n[32] W.H. Press,S.A.Teukolsky,W.T.Vetterling，and B. P. Flannery， Numerical Recipes in Fortran 77: the Art of Scientific Computing (Vol. 1 of Fortran Numerical Recipes), 2nd ed. (Cambridge University Press, 1992).   \n[33] W. Poschl, D. Vretenar, A. Rummel,and P. Ring, Comput.Phys.Commun.101， 75 (1997)； W. Poschl, D.Vretenar， and P. Ring, Comput. Phys. Commun. 103, 217 (1997).   \n[34] D. Vautherin, Phys.Rev. C 7, 296 (1973).   \n[35] D.Gogny, Nucl. Phys. A 237,399 (1975); J. Decharge and D. Gogny, Phys. Rev. C 21, 1568 (1980).   \n[36] Y. K. Gambhir, P. Ring, and A. Thimet, Ann. Phys. 198,132 (1990)； Y. K. Gambhir and P. Ring, Mod. Phys. Lett. A 8, 787 (1993).   \n[37] M. V. Stoitsov, J. Dobaczewski, P. Ring， and S. Pittel,Phys.Rev.C61,034311(200)；M.V.Stoitsov J. Dobaczewski,W. Nazarewicz, S. Pittel， and D.J. Dean,Phys. Rev. C 68, 054312 (2003).   \n[38] S.-G. Zhou, J. Meng, and P. Ring, Phys. Rev. C 68, 034323 (2003).   \n[39] N. Schunck and J. L. Egido, Phys. Rev. C 77, 011301(R) (2008)； Phys. Rev. C 78,064305 (2008).   \n[40] W. H. Long, P. Ring, N. V. Giai, and J. Meng, Phys. Rev. C 81, 024308 (2010).   \n[41] S.-G. Zhou, J. Meng, and P. Ring, in Nuclear Physics Trends,AIP Conf.Proc., Vol. 865,edited by Y.-G. Ma and A.Ozawa（AIP,2006) pp.90-95.   \n[42] S.-G. Zhou, J. Meng, and P. Ring, in Physics of Unstable Nuclei,edited by D. T.Khoa, P. Egelhof, S.Gales, N.Van Giai， and T.Motobayashi (World Scientific, 2008）pp.402-408，proceedings of the International Symposium on Physics of Unstable Nuclei, July 3-7, 2007,Hoi An,Vietnam,arXiv: O803.1376v1 [nucl-th].   \n[43] S.-G. Zhou,J. Meng，P. Ring,and E.-G. Zhao, Phys. Rev. C 82, 011301(R) (2010),arXiv:0909.1600v3 [nucl-th]；J.Phys:Conf. Ser.312,092067 (2011), arXiv:1101.3158v1 [nucl-th].   \n[44] X. Li and P.-H. Heenen,Phys. Rev. C 54,1617 (1996).   \n[45] T. Misu,W. Nazarewicz, and S. Aberg, Nucl. Phys. A 614, 44 (1997).   \n[46] L. Guo,E.-G. Zhao, and F. Sakata, Commun. Theor. Phys. 40, 573 (2003).   \n[47] J. Meng, H. F. Lü, S. Q. Zhang, and S. G. Zhou, Nucl. Phys. A 722, 366c (2003).   \n[48] F. M. Nunes, Nucl. Phys. A 757, 349 (2005).   \n[49] J. C. Pei, F. R. Xu, and P. D. Stevenson, Nucl. Phys. A 765,29 (2006).   \n[50] T. Nakamura,N. Kobayashi, Y. Kondo, Y. Satou, N. Aoi, H. Baba, S. Deguchi, N. Fukuda,J. Gibelin, N.Inabe, M. Ishihara,D. Kameda, Y. Kawada, T.Kubo,K. Kusaka，A. Mengoni，T. Motobayashi, T. Ohnishi, M. Ohtake,N. A. Orr,H. Otsu， T. Otsuka,A. Saito,H. Sakurai, S.Shimoura,T.Sumikama, and H. Takeda, Phys.Rev.Lett.103, 262501 (2009).   \n[51] R.Kanungo,A. Prochazka,W. Horiuchi, C. Nociforo, T.Aumann,D.Boutin，D. Cortina-Gil，B.Davids, M.Diakaki,F.Farinon,H.Geissel，R.Gernhaeuser, J.Gerl,R.Janik,B. Jonson,B.Kindler,R.Knoebel, R.Kruecken,MLantz,H.Lenske,Y.Litvinov,B.Lommel,K.Mahata,P.Maierbeck,A.Musumarra,T. NilsSon,C. Perro, C. Scheidenberger,B. Sitar, P. Strmen, B. Sun, Y. Suzuki, I. Szarka, I. Tanihata, Y. Utsuno, H. weIck, ana MI. vinkIer, Pnys. Kev. U 83, UzI3UZ(K) (2011).   \n[52] J. Terasaki, P. H. Heenen,H. Flocard，and P.Bonche, Nucl. Phys. A 600,371 (1996)； J. Terasaki, H. Flocard, P. H. Heenen, and P. Bonche, Nucl. Phys. A 621, 706 (1997).   \n[53] M. Yamagami, K.Matsuyanagi, and M. Matsuo, Nucl. Phys. A 693,579 (2001).   \n[54] E. Teran, V. E. Oberacker, and A. S. Umar, Phys. Rev. C 67, 064314 (2003).   \n[55]V.E.Oberacker，A.S.Umar，E.Terán, and A.Blazkiewicz,Phys.Rev.C 68,064302 (2003).   \n[56] J. C. Pei, M. V. Stoitsov,G. I. Fann, W. Nazarewicz, N. Schunck, and F. R. Xu, Phys. Rev. C 78,064306 (2008).   \n[57] N. Tajima, Phys.Rev. C 69, 034305 (2004).   \n[58] P.-G. Reinhard, M. Bender,K. Rutz, and J. Maruhn, Z. Phys. A 358, 277 (1997).   \n[59] H. Nakada, Nucl. Phys. A 808, 47 (2008).   \n[60] H. Oba and M. Matsuo, Phys. Rev. C80, 024301 (2009); Y. Zhang, M. Matsuo, and J. Meng, Phys. Rev. C 83, 054301 (2011).   \n[61] D. Vretenar, G. A. Lalazissis, and P. Ring, Phys. Rev. Lett. 82,4595 (1999).   \n[62] G.A.Lalazissis,D. Vretenar,P.Ring,M. Stoitsov,and L. M. Robledo, Phys. Rev. C 60, 014310 (1999); G. A. Lalazissis,D. Vretenar， and P. Ring,Nucl. Phys.A 650,133 (1999).   \n[63] T. Niksic,D. Vretenar, P. Ring, and G. A. Lalazissis, Phys. Rev. C 65, 054320 (2002).   \n[64] T. Niksic, D. Vretenar, G. A. Lalazissis, and P. Ring, Phys. Rev. C 69,047301 (2004).   \n[65] J.-K. Zhang and D. S. Onley,Phys. Lett. B 209,145 (1988)；Nucl. Phys. A 526, 245 (1991).   \n[66] H.-P. Duerr and E. Teller, Phys. Rev. 101, 494 (1956); H.-P. Duerr, Phys. Rev. 103, 469 (1956).   \n[67] J. D. Walecka, Ann. Phys. 83, 491 (1974).   \n[68] B.D. Serot and J.D.Walecka,Adv.Nucl.Phys.16,1 (1986).   \n[69] P. G. Reinhard, Rep. Prog. Phys. 52, 439 (1989).   \n[70] P. Ring, Prog. Part. Nucl. Phys. 37, 193 (1996)； Prog. Part. Nucl. Phys. 46,165 (2001).   \n[71] D. Vretenar, A. Afanasjev, G. Lalazissis, and P. Rig, Phys. Rep.409,101 (2005).   \n[72] J. Meng, H. Toki, S.G. Zhou, S. Q. Zhang, W. H. Long, and L. S. Geng, Prog. Part. Nucl. Phys. 57, 470 (2006).   \n[73] J. Boguta and A. R. Bodmer, Nucl. Phys. A 292, 413 (1977).   \n[74] H. Kucharek and P. Ring, Z. Phys. A 339, 23 (1991).   \n[75] P.Ring and P. Schuck, The Nuclear Many-Body Problem (Springer,1980).   \n[76] C. E. Price and G. E. Walker, Phys. Rev. C 36, 354 (1987).   \n[77] W. Koepf and P. Ring, Z. Phys. A 339, 81 (1991).   \n[78] P. Bonche, H. Flocard, P. H. Heenen, S. J. Krieger, and M. S. Weiss, Nucl. Phys. A 443, 39 (1985).   \n[79] W. Long, J. Meng, N. V. Giai, and S.-G. Zhou, Phys. Rev. C 69, 034319 (2004).   \n[80] P.-W. Zhao, B.-Y. Sun, and J. Meng, Chin. Phys. Lett 26，112102 (2009).   \n[81] G. A. Lalazisis, J. Konig, and P. Ring, Phys. Rev. C 55, 540 (1997).   \n[82] M. Serra and P. Ring, Phys.Rev. C 65,064324 (2002)   \n[83] J. F. Berger, M. Girod, and D. Gogny, Nucl. Phys. A 428, 23 (1984).   \n[84] G. Audi, A. H. Wapstra, and C. Thibault, Nucl. Phys. A 729,337 (2003).   \n[85] T.Baumann, A. M. Amthor, D. Bazin, B.A. Brown, C. M. F. III, A. Gade, T. N. Ginter, M. Hausmann, M.Matos，D.J.Morrissey，M.Portillo，A. Schiller, B.M. Sherrill,A. Stolz, O.B. Tarasov，and M. Thoennessen, Nature 449,1022 (2007).   \n[86] P.Moller, J.R.Nix,W.D.Myers,and W. J. Swiatecki, At.Data Nucl. Data Tables 59, 185 (1995).   \n[87] Q. Zhi and Z. Ren, Phys. Lett. B 638,166 (2006).   \n[88] Z. Ren, Z. Y. Zhu, Y. H. Cai, and G. Xu, Phys. Lett. B 380, 241 (1996).   \n[89] S.Goriely, N. Chamel， and J. M. Pearson, Phys. Rev. C 82, 035804 (2010),and the HFB21 mass table.   \n[90] S. Raman, C. W. Nestor， and P. Tikkanen, At. Data Nucl. Data Tables 78,1 (2001).   \n[91] S. K. Patra and C.R. Praharaj, Phys.Lett.B 273,13 (1991).   \n[92] G. Lalazissis, S. Raman， and P. Ring, At. Data Nucl. Data Tables 71, 1 (1999).   \n[93] R.R.Rodriguez-Guzman,J.L. Egido,and L.M.Robledo, Phys. Rev. C 62, 054319 (2000).   \n[94]R.Rodriguez-Guzman,J.Egido，and L.M. Robledo, Nucl. Phys. A 709, 201 (2002).   \n[95] T. Niksic, D. Vretenar, and P. Ring, Phys. Rev. C 73, 034308 (2006).   \n[96] J.M.Yao,J. Meng,P. Ring，and D. Vretenar,Phys. Rev. C 81,044311 (2010)； J. M. Yao, H. Mei, H. Chen, J. Meng, P. Ring, and D. Vretenar, Phys. Rev. C 83, 014308 (2011).   \n[97] O. Sorlin and M.-G. Porquet, Prog. Part. Nucl. Phys. 61,602 (2008).   \n[98] V. Tripathi, S.L. Tabor, P.F. Mantica, Y. Utsuno, P.Bender, J.Cook,C.R. Hoffman,S.Lee,T.Otsuka, J.Pereira, M. Perry,K. Pepper, J. S. Pinter, J. Stoker, A.Volya， and D. Weisshaar, Phys.Rev.Lett.101, 142504 (2008).   \n[99] P.Doornenbal, H. Scheit,N. Aoi, S. Takeuchi, K. Li, E.Takeshita,H.Wang,H.Baba, S.Deguchi, N.Fukuda, H. Geissel，R.Gernhauser， J. Gibelin，I. Hachiuma, Y.Hara,C.Hinke,N.Inabe,K.Itahashi,S.Itoh, D.Kameda，S.Kanno，Y.Kawada，N.Kobayashi, Y. Kondo, R. Krucken, T. Kubo, T. Kuboki, K. Kusaka, M.Lantz, S. Michimasa, T. Motobayashi， T. Nakamura,T.Nakao,K.Namihira, S.Nishimura, T.Ohnishi, M. Ohtake, N. A. Orr, H. Otsu, K. Ozeki, Y. Satou, S.Shimoura,T.Sumikama,M.Takechi，H. Takeda, K. N. Tanaka, K. Tanaka,Y. Togano,M. Winkler, Y. Yanagisawa,K. Yoneda,A. Yoshida, K. Yoshida, and H. Sakurai, Phys. Rev. Lett.103,032501 (2009).   \n100] K.Wimmer， T.Kroell，R.Kruecken， V.Bildstein, R.Gernhaeuser，B.Bastin，N．Bree，J.Diriken, P.Van Duppen， M. Huyse,N. Patronis,P. Vermaelen,D.Voulot,J.Van de Walle,F.Wenander,L.M. Fraile,R.Chapman，B.Hadinia,R.Orlandi,J.F. Smith,R.Lutter,P.G.Thirolf, M.Labiche,A.Blazhev, M.Kalkuehler,P.Reiter,M. Seidlitz,N.Warr,A.O. Macchiavelli, H.B. Jeppesen，E. Fiori, G. Georgiev, G. Schrieder, S. Das Gupta, G. Lo Bianco, S. Nardelli, J. Butterworth, J. Johansen， and K. Risager， Phys. Rev. Lett.105, 252501 (2010).   \n101] J.A. Church，C. M. Campbell,D.-C.Dinca,J. Enders,A. Gade, T. Glasmacher, Z. Hu, R. V.F. Janssens, W.F.Mueller,H. Olliver,B.C.Perry,L.A.Riley，and K.L.Yurkewicz, Phys.Rev.C 72,054320 (2005).   \n[102] P.-H.Heenen,P.Bonche,S.Cwiok,W.Nazarewicz,and A.Valor, RIKEN Rev.26,31 (2000).   \n[103] T.Suzuki，H.Geissel，O.Bochkarev，L.Chulkov, M.Golovkov，N.Fukunishi,D.Hirata，H.Irnich，Z.Janas,H.Keller，T.Kobayashi,G.Kraus, G．Mizenberg，S.Neumaier，F.Nickel，A.Ozawa, A.Piechaczeck，E.Roeckl，W.Schwab,K.Simerer, K.Yoshida, and I. Tanihata,Nucl.Phys.A 630,661 (1998).   \n[104] B.-N. Lu, E.-G. Zhao,and S.-G. Zhou, Phys. Rev.C 84, 014328 (2011),arXiv:1104.4638v1 [nucl-th]; Phys. Rev. C 85,011301(R) (2012),arXiv: 1110.6769v2 [nucl-th].   \n[105] J. Meng,W. Poschl, and P. Ring, Z. Phys.A 358,123 (1997).   \n[106] J. Meng and P. Ring, Phys. Rev. Lett.80,460 (1998).   \n[107] A.R.Edmonds,Angular Momentum in Quantum Mechanics (UniversityPress,Princeton,1957).   \n[108] R. E. Peierls and J. Yoccoz, Proc. Phys. Soc. A 70,381 (1957).   \n[109] M.Bender,K.Rutz,P.-G.Reinhard,and J.A.Maruhn, Eur.Phys.J.A 7, 467 (2000). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Appendix A:Spherical spinors in coordinate space ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this work we use three different representations of the wave functions. The starting point is the coordinate space representation $x = ( r s p )$ ，where $s$ is the spin coordinate and $p$ describes large (or upper) ( $p = 1$ or $p = +$ ）） and small (or lower)( $p = 2$ or $p = -$ ）components.The second basis is a discrete basis of spherical Dirac spinors $| n \\kappa m \\rangle$ which is obtained by the diagonalization of the spherical Dirac Hamiltonian with fields of Woods-Saxon shape.This basis is called the Woods-Saxon basis in the following.In this basis the RHB equations is solved and the solutions form a basis of quasi-particle states labeled by $| k \\rangle$ . The Dirac spinors of the Woods-Saxon basis are represented in coordinate space as ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle r s p | n \\kappa m \\rangle = \\phi _ { n \\kappa m } ( { \\pmb r } s p ) = i ^ { p } \\frac { R _ { n \\kappa } ( r , p ) } { r } Y _ { \\kappa m } ^ { l ( p ) } ( \\Omega , s ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The orbital angular momenta of these components are （20 $l ( p = 1 ) = j + { \\textstyle \\frac { 1 } { 2 } } \\mathrm { s i g n } ( \\kappa )$ and $l ( p = 2 ) = j - { \\textstyle \\frac { 1 } { 2 } } \\mathrm { s i g n } ( \\kappa )$ ： $R _ { n \\kappa } ( r , 1 ) = G _ { n \\kappa } ( r )$ ， $R _ { n \\kappa } ( r , 2 ) = F _ { n \\kappa } ( r )$ are the radial wave functions, and $Y _ { \\kappa m } ^ { l }$ are the spinor spherical harmonics ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\kappa m } ^ { l } ( \\Omega , s ) = \\sum _ { m _ { l } , m _ { s } } C ( \\frac { 1 } { 2 } m _ { s } l m _ { l } | j m ) Y _ { l m _ { l } } ( \\Omega ) \\chi _ { \\frac { 1 } { 2 } m _ { s } } (\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The time reversal state reads ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\bar { \\phi } _ { n \\kappa m } ( r s p ) = ( - 1 ) ^ { p + l ( p ) + j - m } \\phi _ { n \\kappa - m } ( r s p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "These basis functions are obtained from the solution of a Dirac equation with spherical potentials of WoodsSaxon-shape [77] ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { D } ^ { ( 0 ) } = \\alpha \\cdot p + \\beta \\left[ M + S ^ { ( 0 ) } ( r ) \\right] + V ^ { ( 0 ) } ( r ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "on a mesh in $r$ -space using the Runge-Kutta method. For each $\\kappa$ we have eigenstates with positive and negative eigenvalues $\\epsilon _ { n \\kappa }$ and for completeness of the basis the sum over $_ { n \\kappa }$ has to include states with positive eigenvalues and those with negative eigenvalues [38]. This has nothing to do with the no-sea approximation which is applied in the final quasiparticle basis where the sums over $k$ in Eq.(9）runs only over solutions with positive single particle energies. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Since the RHB equation (19)has to be solved in this basis one has to evaluate matrix elements of the form ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle n \\kappa m | h _ { D } | n ^ { \\prime } \\kappa ^ { \\prime } m \\rangle \\qquad \\mathrm { a n d } \\qquad \\langle n \\kappa m | \\Delta | n ^ { \\prime } \\kappa ^ { \\prime } m \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In orderto simplify the calculations,the integrations over the angles are carried out analytically using well known angular momentum coupling techniques and only the ra dial integrals are calculated numerically. For local potentials we need the following products of basis wavefunctions ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { s } \\phi _ { n \\kappa m } ( \\pmb { r } \\mathscr { s } p ) \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } m } ^ { * } ( \\pmb { r } \\mathscr { s } p ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Following Eq.(14) they are expanded in terms of Legendre polynomials.For the coefficient of rank $\\lambda$ depending only on the radius $r$ we find ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left[ \\sum _ { s } \\phi _ { n \\kappa m } \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } m } ^ { * } \\right] _ { \\lambda } = \\frac { R _ { n \\kappa } ( r , p ) } { r } \\frac { R _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r , p ) } { r } \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle .\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The angular matrix elements $\\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle$ can be derived with the help of the Wigner-Eckart theorem [107]. For even values of $l + \\lambda + l ^ { \\prime }$ we find ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle = ( - ) ^ { m - \\frac { 1 } { 2 } } \\hat { \\jmath } \\hat { \\jmath } ^ { \\prime } \\left( { \\small j \\lambda \\atop - m 0 m } \\right) \\left( { \\small j \\lambda \\atop - \\frac { 1 } { 2 } } 0 \\frac { \\lambda } { 2 } \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { \\jmath } = \\sqrt { 2 j + 1 }$ .For odd values of $l + \\lambda + l ^ { \\prime }$ these matrix elements vanish. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "AppendixB:MatrixelementsoftheDRHBHamiltonian",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The Dirac Hartree-Bogoliubov equations [74] read in coordinate space ",
+        "page_idx": 14
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { s ^ { \\prime } p ^ { \\prime } } \\int d ^ { 3 } r ^ { \\prime } \\left( \\begin{array} { c c } { h _ { D } ( r s p , r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) - \\lambda } & { \\Delta ( r s p , r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) } \\\\ { - \\Delta ^ { * } ( r s p , r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) } & { - h _ { D } ( r s p , r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) + \\lambda } \\end{array} \\right) \\left( \\begin{array} { c c } { U _ { k } ( r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) } \\\\ { V _ { k } ( r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) } \\end{array} \\right) = E _ { k } \\left( \\begin{array} { c c } { U _ { k } ( r s p ) } \\\\ { V _ { k } ( r s p ) } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "where $E _ { k }$ is the quasiparticle energy and $\\lambda$ the chemical potential. On the Hartree level the Dirac Hamiltonian is local ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { D } ( \\pmb { r } s p , \\pmb { r } ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) = h _ { D } ( \\pmb { r } , s p , s ^ { \\prime } p ^ { \\prime } ) \\delta ( \\pmb { r } - \\pmb { r } ^ { \\prime } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For the zero range pairing force in Eq.(11) which projects onto the $S = 0$ part of the pairing density, the pairing field is local too and does not depend on the spin variables ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta ( r p , r ^ { \\prime } p ^ { \\prime } ) = \\delta _ { p p ^ { \\prime } } \\Delta ( r p ) \\delta ( r - r ^ { \\prime } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this work we restrict ourselves on pairing fields diagonal in the quantum number $p$ (see Appendix F).These equations of motions are solved by expanding the spinors $U _ { k }$ and $V _ { k }$ in terms of a Woods-Saxon basis of Dirac spinors $\\varphi _ { n \\kappa m } ( \\pmb { r } \\mathscr { s } )$ in Eq.(18) with positive and negative single particle energies $\\epsilon _ { n \\kappa }$ ： ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For the self-consistent solution of the Dirac equation (5）with deformed potentials of axial symmetry, we expand the potentials $S ( \\boldsymbol r )$ and $V ( r )$ in terms of the Legendre polynomials as in Eq. (14). The deformed Dirac Hamiltonian $h _ { D }$ is divided into two parts,the spherical Woods-Saxon Hamiltonian $h _ { D } ^ { ( 0 ) }$ of Eq. (A4) and the deformed rest ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh _ { D } = h _ { D } ^ { ( 0 ) } + \\sum _ { \\lambda } \\left[ \\beta S _ { \\lambda } ^ { \\prime } ( r ) + V _ { \\lambda } ^ { \\prime } ( r ) \\right] P _ { \\lambda } ( \\Omega ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "with $S _ { 0 } ^ { \\prime } = S _ { 0 } - S ^ { ( 0 ) }$ ， $V _ { 0 } ^ { \\prime } = V _ { 0 } - V ^ { ( 0 ) }$ ,and $S _ { \\lambda } ^ { \\prime } = S _ { \\lambda }$ ,and $V _ { \\lambda } ^ { \\prime } = V _ { \\lambda }$ for $\\lambda > 0$ . Using Eq. （A7) the matrix elements of the Dirac Hamiltonian read, ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle n \\kappa | h _ { D } | n ^ { \\prime } \\kappa ^ { \\prime } \\rangle = \\epsilon _ { n \\kappa } \\delta _ { n n ^ { \\prime } } \\delta _ { \\kappa \\kappa ^ { \\prime } } + \\displaystyle \\sum _ { \\lambda } \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle \\displaystyle \\int d { \\cal r } \\left[ G _ { n \\kappa } ( r ) ( V _ { \\lambda } ^ { \\prime } ( r ) + S _ { \\lambda } ^ { \\prime } ( r ) ) G _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) \\right. } } \\\\ { { \\displaystyle \\left. + F _ { n \\kappa } ( r ) ( V _ { \\lambda } ^ { \\prime } ( r ) - S _ { \\lambda } ^ { \\prime } ( r ) ) F _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) \\right] \\ : . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Theintegralinthepairingmatrixelement $\\langle n \\kappa m | \\Delta | n ^ { \\prime } \\kappa ^ { \\prime } m \\rangle$ contains the time reversal basis function. Since the pairing interaction Eq.(11） projects onto the $S = 0$ we have to couple the product $\\phi _ { n \\kappa m } ( \\pmb { r } s ) \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } m } ( \\pmb { r } s )$ to spin $S = 0$ and find ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { s } ( - ) ^ { \\frac { 1 } { 2 } - s } \\phi _ { n \\kappa m } ( s ) \\bar { \\phi } _ { n ^ { \\prime } \\kappa ^ { \\prime } m } ( - s ) = \\sum _ { s } \\phi _ { n \\kappa m } ( s ) \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } m } ^ { * } ( s ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Using again Eq. (A7) one finds ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle n \\kappa | \\Delta ^ { + + } | n ^ { \\prime } \\kappa ^ { \\prime } \\rangle = \\sum _ { \\lambda } \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle \\int d r G _ { n \\kappa } \\Delta _ { \\lambda } ( r ) G _ { n ^ { \\prime } \\kappa ^ { \\prime } }\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle n \\kappa | \\Delta ^ { -- } | n ^ { \\prime } \\kappa ^ { \\prime } \\rangle = \\sum _ { \\lambda } \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle \\int d r F _ { n \\kappa } \\Delta _ { \\lambda } ( r ) F _ { n ^ { \\prime } \\kappa ^ { \\prime } }\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(B8) where the potentials $\\Delta _ { \\lambda } ( r )$ will be given in Appendix $\\mathrm { E }$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Appendix C:Calculation of the densities ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the self-consistent fields in the next step of the iteration we first have to determine the densities. Starting from the expansion coefficients $u _ { k , ( n \\kappa ) } ^ { ( m ) }$ and $v _ { k , ( n \\kappa ) } ^ { ( m ) }$ obtained through the diagonalization of the RHB matrix(19) we find the density matrix in the Woods-Saxon basis ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { ( n \\kappa ) ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } = \\sum _ { k > 0 } v _ { k , ( n \\kappa ) } ^ { ( m ) * } v _ { k , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Next we transform these densities to coordinate space and find for the local part ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\rho ( \\pmb { r } p ) = 2 \\displaystyle \\sum _ { m > 0 } \\displaystyle \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } \\sum _ { s } \\phi _ { n \\kappa m } ( \\pmb { r } s p ) \\rho _ { ( n \\kappa ) , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } m } ^ { * } ( \\pmb { r } s p ) } \\\\ { = \\displaystyle \\sum _ { \\lambda } \\rho _ { \\lambda } ( \\pmb { r } , p ) P _ { \\lambda } ( \\Omega ) . \\qquad ( \\mathbb { C } 2 } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Using Eq. (A7) we finally obtain the various local densities ",
+        "page_idx": 15
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\rho _ { \\lambda } ^ { s } ( \\boldsymbol { r } ) = 2 \\frac { 2 \\lambda + 1 } { 4 \\pi r ^ { 2 } } \\sum _ { m > 0 } \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } \\rho _ { ( n \\kappa ) ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } \\left[ G _ { n \\kappa } ( r ) G _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) - F _ { n \\kappa } ( r ) F _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) \\right] \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle , } } \\\\ { { \\displaystyle \\rho _ { \\lambda } ^ { v } ( \\boldsymbol { r } ) = 2 \\frac { 2 \\lambda + 1 } { 4 \\pi r ^ { 2 } } \\sum _ { m > 0 } \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } \\rho _ { ( n \\kappa ) ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } \\left[ G _ { n \\kappa } ( r ) G _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) + F _ { n \\kappa } ( r ) F _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) \\right] \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and similar equations for the isovector density $\\rho _ { \\lambda } ^ { 3 } ( r )$ and for the charge density $\\rho _ { \\lambda } ^ { c } ( r )$ ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Appendix D:Solution of the Klein-Gordon equation ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The various densities are the sources of the meson fields in the Klein Gordon equations (8). These equations are ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "solved by integrating the densities over the static Green functions in spherical coordinates. For simplicity we give here the details only for the $\\sigma$ meson ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { D ( r , \\theta , r ^ { \\prime } , \\theta ^ { \\prime } , m _ { \\sigma } ) = - m _ { \\sigma } \\displaystyle \\sum _ { \\lambda } j _ { \\lambda } ( i m _ { \\sigma } r _ { < } ) h _ { \\lambda } ^ { ( 1 ) } ( i m _ { \\sigma } r _ { > } ) } \\\\ { \\times ( 2 \\lambda + 1 ) P _ { \\lambda } ( \\cos \\theta ) P _ { \\lambda } ( \\cos \\theta ^ { \\prime } ) , ( \\mathrm { D } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "and the photon ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD ( r , \\theta , r ^ { \\prime } , \\theta ^ { \\prime } ) = \\sum _ { \\lambda } \\frac { r _ { < } ^ { \\lambda } } { r _ { > } ^ { \\lambda + 1 } } P _ { \\lambda } ( \\cos \\theta ) P _ { \\lambda } ( \\cos \\theta ^ { \\prime } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Here $r _ { > } = \\operatorname* { m a x } ( r , r ^ { \\prime } )$ and $r _ { < } = \\mathrm { m i n } ( r , r ^ { \\prime } )$ . The solution for the $\\sigma$ field is ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ( { \\pmb r } ) = \\sum _ { \\lambda } \\sigma _ { \\lambda } ( r ) P _ { \\lambda } ( \\cos \\theta ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\sigma _ { \\lambda } ( \\boldsymbol { r } ) = - 4 \\pi g _ { \\sigma } m _ { \\sigma } \\left( h _ { \\lambda } ( i m _ { \\sigma } r ) \\int _ { 0 } ^ { r } d r ^ { \\prime } j _ { \\lambda } ( i m _ { \\sigma } r ^ { \\prime } ) \\rho _ { \\lambda } ^ { s } ( r ^ { \\prime } ) \\right. } } \\\\ { { \\displaystyle \\left. + j _ { \\lambda } ( i m _ { \\sigma } r ) \\int _ { r } ^ { \\infty } d r ^ { \\prime } h _ { \\lambda } ( i m _ { \\sigma } r ^ { \\prime } ) \\rho _ { \\lambda } ^ { s } ( r ^ { \\prime } ) \\right) , \\quad \\mathrm { ( D ~ } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $j _ { \\lambda }$ and $h _ { \\lambda }$ are the sphericalBessel and Hankel functions.Similarly we find for the Coulomb field ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\lambda } ^ { 0 } ( r ) = \\frac { 1 } { r ^ { \\lambda + 1 } } \\int _ { 0 } ^ { r } d r ^ { \\prime } r ^ { \\prime \\lambda } \\rho _ { \\lambda } ^ { c } ( r ^ { \\prime } ) + r ^ { \\lambda } \\int _ { r } ^ { \\infty } d r ^ { \\prime } \\frac { 1 } { r ^ { \\prime \\lambda + 1 } } \\rho _ { \\lambda } ^ { c } ( r ^ { \\prime } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "From the $\\lambda$ components of the meson fields $\\sigma _ { \\lambda } ( \\boldsymbol { r } )$ ， $\\omega _ { \\lambda } ^ { 0 } ( \\boldsymbol { r } )$ $\\rho _ { \\lambda } ^ { 0 } ( r )$ and $A _ { \\lambda } ^ { 0 } ( \\boldsymbol { r } )$ we find immediately the corresponding components of the scalar and the vector potential given in Eqs. (6) and (7). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Appendix E:Pairing fields and tensors ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As in the case of the normal density we first calculate the pairing tensor $\\kappa$ in the Woods Saxon basis ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa _ { ( n \\kappa ) ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } = \\sum _ { k > 0 } v _ { k , ( n \\kappa ) } ^ { ( m ) * } u _ { k , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Next we transform it to coordinate space and obtain $\\kappa ( r s p , r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } )$ .This isa 2 $? \\times$ 2 matrix in spin space and therefore it can be expressed in terms of the unity and the Pauli matrices ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa ( \\boldsymbol { r } s p , \\boldsymbol { r } ^ { \\prime } s ^ { \\prime } p ^ { \\prime } ) = \\kappa ( \\boldsymbol { r } p , \\boldsymbol { r } ^ { \\prime } p ^ { \\prime } ) + \\kappa ( \\boldsymbol { r } p , \\boldsymbol { r } ^ { \\prime } p ^ { \\prime } ) \\cdot \\boldsymbol { \\sigma } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "where $\\kappa ( r p , r ^ { \\prime } p ^ { \\prime } )$ is the $S = 0$ part and $\\kappa ( r p , r ^ { \\prime } p ^ { \\prime } )$ isa vector，the $S ~ = ~ 1$ part of the pairing tensor. We realize that the special form of the pairing interaction in Eq.(11） guarantees that we do not need the full matrix $\\kappa ( r s p , r ^ { \\prime } s ^ { \\prime } p ^ { \\prime } )$ ．As a consequence of the zero range we need only the local part of this matrix,and since the force acts in the $S = 0$ channel,only the spin scalar part of $\\kappa$ contributes.It is obtained by coupling to $S = 0$ ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\kappa ( r , p , p ^ { \\prime } ) = { \\sum _ { s } } ( - ) ^ { s + \\frac { 1 } { 2 } } \\kappa ( r s p , r \\mathrm { - } s p ^ { \\prime } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As mentioned above,in this work we take into account only pairing fields which are diagonal in the quantum number $p$ ： ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Because of the symplectic structure of the RHB equations the pairing tensor $\\kappa$ connects basis states $| n \\kappa m \\rangle$ with the time reversal states $| \\overline { { n ^ { \\prime } \\kappa ^ { \\prime } m } } \\rangle$ .Using the same arguments as in Eq.(B6)we obtain for the local and scalar part of the pairing density ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\kappa ( { \\pmb r } p ) = 2 \\displaystyle \\sum _ { m > 0 } \\displaystyle \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } \\sum _ { s } \\phi _ { k } ( { \\pmb r } s p ) \\kappa _ { ( n \\kappa ) , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } \\phi _ { k ^ { \\prime } } ^ { * } ( { \\pmb r } s p ) } } \\\\ { { = \\displaystyle \\sum _ { \\lambda } \\kappa _ { \\lambda } ( { \\pmb r } , p ) P _ { \\lambda } ( \\Omega ) . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Finally with the help of Eq. (A7) we obtain the pairing densities in various $\\lambda$ -channels ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\kappa _ { \\lambda } ^ { + + } ( r ) = 2 { \\frac { 2 \\lambda + 1 } { 4 \\pi r ^ { 2 } } } \\displaystyle \\sum _ { m > 0 } \\displaystyle \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } G _ { n \\kappa } \\kappa _ { ( n \\kappa ) , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } G _ { n ^ { \\prime } \\kappa ^ { \\prime } } } } \\\\ { { \\times \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle , } } \\\\ { { \\kappa _ { \\lambda } ^ { -- } ( r ) = 2 { \\frac { 2 \\lambda + 1 } { 4 \\pi r ^ { 2 } } } \\displaystyle \\sum _ { m > 0 } \\displaystyle \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } F _ { n \\kappa } \\kappa _ { ( n \\kappa ) , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } F _ { n ^ { \\prime } \\kappa ^ { \\prime } } } } \\\\ { { \\times \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Asa consequence of these simplifications the gap equation(1O)has the local form ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta ( r , p ) = V _ { 0 } f ( r ) \\kappa ( r , p )\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "with $f ( \\boldsymbol { r } ) = ( 1 - \\rho ( \\boldsymbol { r } ) / \\rho _ { \\mathrm { s a t } } )$ . The decomposition of this equation into spherical harmonics yields ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta _ { \\lambda } ( r ) = ( 2 \\lambda + 1 ) V _ { 0 } \\sum _ { \\lambda ^ { \\prime } , \\lambda ^ { \\prime \\prime } } f _ { \\lambda ^ { \\prime } } ( r ) \\kappa _ { \\lambda ^ { \\prime \\prime } } ( r ) \\left( { \\lambda \\lambda ^ { \\prime } \\lambda ^ { \\prime \\prime } } \\right) ^ { 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { a n d } f _ { \\lambda } ( r ) = ( \\delta _ { \\lambda 0 } - \\rho ( r ) _ { \\lambda } / \\rho _ { \\mathrm { s a t } } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Appendix F:Relativistic structure of the pairing field ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "So far we have neglected parts of the pairing field which connect large and small components,i.e.，we have assumed that ",
+        "page_idx": 16
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta ^ { + - } ( r ) = \\kappa ^ { + - } ( r ) = 0 .\n$$",
+        "text_format": "latex",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Since the density $\\rho ( \\pmb { r } )$ and the density-dependent function $f ( \\rho ( \\pmb { r } ) )$ of the pairing interaction does not mix these components, the structure of Eq.( $1 3 8$ ）shows also very clearly that the pairing tensor $\\kappa ( \\pmb { r } )$ and the pairing field $\\Delta ( r )$ are in this respect completely connected.If $\\kappa ( \\pmb { r } )$ mixes these components,so does $\\Delta$ ： ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Considering the structure of Eqs.(E5）and(E6） we find that a non-vanishing term $\\kappa ^ { + - } ( r )$ would have the form ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\kappa _ { \\lambda } ^ { + - } ( r ) = 2 \\frac { 2 \\lambda + 1 } { 4 \\pi r ^ { 2 } } \\displaystyle \\sum _ { m > 0 } \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } G _ { n \\kappa } \\kappa _ { ( n \\kappa ) , ( n ^ { \\prime } \\kappa ^ { \\prime } ) } ^ { ( m ) } F _ { n ^ { \\prime } \\kappa ^ { \\prime } } } \\\\ { \\times \\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Since large and small components have different parity, non-vanishing values of this function would require odd values of ${ \\mathit { l } } + { \\mathit { l } } ^ { \\prime }$ and because of the parity selection rule in $\\langle \\kappa m | P _ { \\lambda } | \\kappa ^ { \\prime } m \\rangle$ also odd values of $\\lambda$ . This means the parts of $\\kappa ^ { + - } ( r )$ and $\\Delta ^ { + - } ( r )$ can only be expanded in components with odd $\\lambda$ values.Of course,this fact is rather trivial. It does not violate parity, because even the simple Dirac equation with parity conserving fields have large and small components with different parity: $h _ { D } ^ { + - } = \\sigma \\cdot p$ has also a negative parity. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We can conclude that in the spherical case，where $\\lambda ~ = ~ 0$ and even,the field $\\Delta ^ { + - } ( r )$ has to vanish.In the deformed case this is not necessarily true.On the other side,these considerations depend on the interaction,as for instance on the fact that the pairing force we have used here excludes $S = 1$ . In particular we did not take into account odd $\\lambda$ -values in the pairing field and therefore $\\Delta ^ { + - }$ fields are excluded from the beginning. If we would allow for $S = 1$ pairs,spin-vector components of the form $\\Delta \\cdot \\alpha$ mixing large and small components are not excluded,even in the spherical case,because in this case $L = 1$ and $S = 1$ can couple to $J ~ = ~ 0$ .Of course this depends on the interaction. In Ref.[82] the $S = 1$ part of the zero range pairing force was not excluded and non-vanishing pairing fields $\\Delta ^ { + - }$ were taken into account.However, they turned out to be an order of magnitude smaller than the diagonal matrix elements $\\Delta ^ { + + }$ . In particular they are very small as compared to the term $\\sigma \\cdot p$ which mixes large and small components in the Dirac Hamiltonian.Therefore they can be neglected asa very good approximation. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Appendix G:Microscopic center of mass correctior ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The center of mass correction in Eq. (27） which is widely used in the literature [75] can be derived as a first ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "order correction to a projection after variation [1O8] onto good linear momentum.In Ref.[1o9] this term has been derived in the framework of the BCS approximation as ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } {  { \\frac { \\langle \\hat { \\bf P } ^ { 2 } \\rangle } { 2 A m } = - \\frac { \\hbar ^ { 2 } } { A m } [ \\sum _ { i > 0 } v _ { i } ^ { 2 } \\Delta _ { i i } +  } } & { { \\mathrm { ( G 1 } } } \\\\ & { } & { +  \\sum _ { i , i ^ { \\prime } > 0 } [ v _ { i } v _ { i ^ { \\prime } } ( v _ { i } v _ { i ^ { \\prime } } + u _ { i } u _ { i ^ { \\prime } } ) ( | \\nabla _ { i i ^ { \\prime } } | ^ { 2 } + | \\nabla _ { i \\bar { i ^ { \\prime } } } | ^ { 2 } ) ] ] . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In the following we show, how this formula can be applied in the framework of relativistic Hartree-Bogoliubov theory. In a first step we use the fact that any HartreeBogoliubov wavefunction can be expressed in the form ofa BCS-state in the canonical basis [75]. This basis is obtained by the diagonalization of the density matrix in $\\rho = V ^ { * } V ^ { \\tau }$ in the Woods-Saxon basis (18) ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { n ^ { \\prime } \\kappa ^ { \\prime } } \\rho _ { n \\kappa , n ^ { \\prime } \\kappa ^ { \\prime } } ^ { m } c _ { n ^ { \\prime } \\kappa ^ { \\prime } } ^ { i } = v _ { i } ^ { 2 } c _ { n \\kappa } ^ { i } .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The eigenvalues $v _ { i } ^ { 2 }$ are the BCS-occupation probabilities and the eigenvectors are the expansion coefficients of the canonical wave functions in the spherical spinors of the Woods-Saxon basis ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Phi _ { i } ( \\pmb { r s } ) = \\sum _ { n \\kappa } c _ { n \\kappa } ^ { i } \\varphi _ { n \\kappa m } ( \\pmb { r s } ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Here, $i = ( n m \\pi )$ where $m$ is the third component of the angular momentum $j$ and $\\pi = \\pm$ is the parity. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Of course the eigenvalues of Eq. (G2） provide us only the absolute values of the occupation amplitudes $v _ { i }$ and $u _ { i } = \\sqrt { 1 - v _ { i } ^ { 2 } }$ . In Eq. (G2) we also need the sign of $u _ { i } v _ { i }$ It is determined by the diagonal elements of the pairing tensor in the canonical basis, ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu _ { i } v _ { i } \\ = \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } c _ { n \\kappa } ^ { i } c _ { n ^ { \\prime } \\kappa ^ { \\prime } } ^ { i } \\kappa _ { ( n \\kappa ) ( n ^ { \\prime } \\kappa ^ { \\prime } ) } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "For the direct term we need the diagonal matrix ele ments of the Laplacian ",
+        "page_idx": 17
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\Delta _ { i i } = - \\sum _ { n n ^ { \\prime } \\kappa } c _ { n \\kappa } ^ { i } c _ { n ^ { \\prime } \\kappa } ^ { i } \\int d \\boldsymbol { r } \\left\\{ \\frac { \\partial G _ { n \\kappa } ( \\boldsymbol { r } ) } { d \\boldsymbol { r } } \\frac { \\partial G _ { n ^ { \\prime } \\kappa } ( \\boldsymbol { r } ) } { \\partial \\boldsymbol { r } } + l ( l + 1 ) \\frac { G _ { n \\kappa } ( \\boldsymbol { r } ) G _ { n ^ { \\prime } \\kappa } ( \\boldsymbol { r } ) } { r ^ { 2 } } \\right. } \\\\ { \\displaystyle \\left. + \\frac { \\partial F _ { n \\kappa } ( \\boldsymbol { r } ) } { d \\boldsymbol { r } } \\frac { \\partial F _ { n ^ { \\prime } \\kappa } ( \\boldsymbol { r } ) } { \\partial \\boldsymbol { r } } + \\tilde { l } ( \\boldsymbol { l } + 1 ) \\frac { F _ { n \\kappa } ( r ) F _ { n ^ { \\prime } \\kappa } ( \\boldsymbol { r } ) } { r ^ { 2 } } \\right\\} . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "For the exchange term, we have $\\begin{array} { r } { | \\nabla _ { i i ^ { \\prime } } | ^ { 2 } = \\sum _ { \\mu } ( - ) ^ { \\mu } ( \\nabla _ { \\mu } ) _ { i i ^ { \\prime } } ( \\nabla _ { - \\mu } ) _ { i i ^ { \\prime } } } \\end{array}$ and according to the Wigner-Eckart theorem [107] ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "we find for the spherical coordinate $\\mu$ of the gradient operator ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( \\nabla _ { \\mu } ) _ { i i ^ { \\prime } } = \\sum _ { n \\kappa } ^ { n ^ { \\prime } \\kappa ^ { \\prime } } c _ { n \\kappa } ^ { i } c _ { n ^ { \\prime } \\kappa ^ { \\prime } } ^ { i ^ { \\prime } } ( - ) ^ { j - m } \\left( \\begin{array} { l l l } { j } & { 1 } & { j ^ { \\prime } } \\\\ { - m } & { \\mu } & { m ^ { \\prime } } \\end{array} \\right) \\langle \\phi _ { n \\kappa } | | \\nabla | | \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } } \\rangle ,\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "with the reduced matrix element ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\langle \\phi _ { n \\kappa } | | \\nabla | | \\phi _ { n ^ { \\prime } \\kappa ^ { \\prime } } \\rangle = ( - ) ^ { j - 1 / 2 } \\hat { \\jmath } \\jmath ^ { \\prime } \\left[ ( - ) ^ { l ^ { \\prime } } \\left\\{ \\begin{array} { l l } { { \\jmath ^ { \\prime } j \\uparrow 1 } } \\\\ { { l \\ l ^ { \\prime } \\frac { 1 } { 2 } } } \\end{array} \\right\\} \\int d r G _ { n \\kappa } ( r ) \\langle l | | \\nabla | | l ^ { \\prime } \\rangle G _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) \\right. } } \\\\ { { \\left. + ( - ) ^ { \\tilde { l } ^ { \\prime } } \\left\\{ \\begin{array} { l l } { { \\jmath ^ { \\prime } j \\uparrow 1 } } \\\\ { { \\tilde { l } \\tilde { l } ^ { \\prime } \\frac { 1 } { 2 } } } \\end{array} \\right\\} \\int d r F _ { n \\kappa } ( r ) \\langle \\tilde { l } | | \\nabla | | \\tilde { l } ^ { \\prime } \\rangle F _ { n ^ { \\prime } \\kappa ^ { \\prime } } ( r ) \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "where $\\hat { \\jmath } = \\sqrt { 2 j + 1 }$ and the expression $\\langle l | | \\nabla | | l ^ { \\prime } \\rangle$ is the reduced matrix element of $\\nabla$ with respect to the integration overthe angles.Ofcourse,it stillcontains derivatives with respect to theradialcoordinate.Following Sect.5.7of Ref. [107],we obtain ",
+        "page_idx": 18
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\langle l | | \\nabla | | l ^ { \\prime } \\rangle = \\delta _ { l , l ^ { \\prime } + 1 } \\sqrt { l } \\left[ \\frac { d } { d r } - \\frac { l } { r } \\right] - \\delta _ { l , l ^ { \\prime } - 1 } \\sqrt { l ^ { \\prime } } \\left[ \\frac { d } { d r } + \\frac { l ^ { \\prime } } { r } \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 18
+    }
+]

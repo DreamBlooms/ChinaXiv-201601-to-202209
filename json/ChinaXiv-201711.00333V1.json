@@ -1,0 +1,396 @@
+[
+    {
+        "type": "text",
+        "text": "苜蓿-作物轮作模式对土壤团聚体稳定性及有机碳的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "宋丽萍」罗珠珠1,2\\*\\* 李玲玲²　蔡立群1,2 张仁陟²牛伊宁²",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．甘肃农业大学资源与环境学院兰州730070;2.甘肃省干旱生境作物学省部共建国家重点实验室兰州730070)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要本研究以苜蓿-作物轮作试验为研究对象，探讨了苜蓿-苜蓿(L-L)、苜蓿-休闲(L-F)、苜蓿-小麦(L-W)、苜蓿-玉米(L-C)、苜蓿-马铃薯(L-P)和苜蓿-谷子(L-M)6种轮作模式对陇中黄土高原雨养农田苜蓿土壤团聚体稳定性以及土壤总有机碳含量的影响。结果表明：不同轮作模式下土壤机械稳定性团聚体以 ${ \\geqslant } 0 . 2 5 ~ \\mathrm { m m }$ 团聚体为优势团聚体，均占 $7 2 . 1 7 \\%$ 以上，而土壤水稳性团聚体以 $< 0 . 2 5 ~ \\mathrm { m m }$ 团聚体为优势团聚体，均占 $9 5 . 1 8 \\%$ 以上。随着土层深度的增加，各处理 $\\geqslant 0 . 2 5 \\ \\mathrm { ~ m m }$ 的团聚体数量及平均重量直径(MWD)均随之增加，而水稳性大团聚体数量及MWD值无明显规律性。与L-L处理相比,L-C和L-P处理 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 耕层土壤 $\\geqslant 0 . 2 5 ~ \\mathrm { m m }$ 的团聚体含量分别增加$5 . 9 4 \\%$ 和 $1 . 1 2 \\%$ ,L-C处理的MWD表现为最高，而其他轮作处理则不同程度降低了 $\\geqslant 0 . 2 5 ~ \\mathrm { m m }$ 团聚体含量及MWD；随着土层深度的增加,6种不同轮作模式的土壤有机碳含量均呈现逐渐降低的趋势，在 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 的耕层土壤，较之L-L 处理,L-W、L-C、L-P和L-M处理均从不同程度上降低了土壤有机碳含量，其中L-P处理有机碳含量最低，降低了 $1 8 . 6 8 \\%$ 。相关性分析表明，土壤总有机碳分别与 $2 { \\sim } 5 \\ \\mathrm { m m }$ 、 $1 { \\sim } 2 ~ \\mathrm { m m }$ 、 $0 . 5 { \\sim } 1 \\ \\mathrm { m m }$ 和 $0 . 2 5 { \\sim } 0 . 5 \\ \\mathrm { m m }$ 粒径的水稳性团聚体比例以及MWD表现出极显著正相关，而与 $< 0 . 2 5 \\ \\mathrm { \\ m m }$ 粒径的水稳性团聚体呈极显著负相关。综上所述，苜蓿-玉米轮作模式能明显增加土壤团聚体机械稳定性，而不同苜蓿-作物轮作模式对土壤团聚体的水稳性影响较小，土壤有机碳含量在很大程度上影响着土壤水稳性团粒结构的形成与稳定性，二者密切相关。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词苜蓿-作物轮作轮作模式土壤团聚体 机械稳定性水稳性土壤有机碳中图分类号: $\\mathrm { S 1 } 5 2 . 4 \\substack { + 8 1 }$ · $\\mathrm { S } 1 5 3 . 6 \\substack { + 2 1 }$ 文献标识码：A 文章编号：1671-3990(2016)01-0027-09",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of lucerne-crop rotation patterns on soil aggregate stability and soil organic carbon ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SONG Liping',LUO Zhuzhul2\\*\\*,LILingling², CAILiqun12,ZHANG Renzhi2,NU Yining (1. College of Resources and Environmental Sciences,Gansu Agricultural University,Lanzhou 730070,China; 2.Gansu Provincial Key Laboratory of Arid Land Crop Sciences,Lanzhou 73oo70,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AbstractAlocal experiment oflucerne-croprotation system wasconducted ondry farmlands of theLoess Plateau in Central GansuProvincetodetermine the distributioncharacteristicsofsoil aggregate stabilityand soilorganiccarbon.Theexperiment includedsixrotatiopaers—lucere-ucee(LL),lucere-fallw(LF)lucere-wheat (LW)lucee-co(C)ue potato (LP)and lucerne-millet (LM).Soil aggregate characteristics and organiccarbon content were investigated aftercrop harvest. The results showed that $\\geqslant 0 . 2 5 ~ \\mathrm { m m }$ aggregate was the dominant component of the mechanically stable aggregates of soil,which accounted for ${ > } 7 2 . 1 7 \\%$ of the mechanically stable aggregates. However, the $< 0 . 2 5 ~ \\mathrm { \\ m m }$ aggregates was the dominant component of the water stable aggregates, which exceeding $9 5 . 1 8 \\%$ of the water stable aggregates. The content of the $\\geqslant 0 . 2 5 \\ \\mathrm { m m }$ aggregates of soil and its mean weight diameter (MWD) increased with increasing soil depth, while larger water stable aggregates content and MWD were irregularly changed. Compared with LL treatment, the ${ \\geqslant } 0 . 2 5 ~ \\mathrm { m m }$ aggregates contents of LC and LP treatments increased by $5 . 9 4 \\%$ and $1 . 1 2 \\%$ ,respectively,at soil depth of $0 { - } 3 0 ~ \\mathrm { c m }$ . The MWD in LC treatment was the highestamong alltreatments.Soilorganiccarbon(SOC)content decreased with increasing soildepth inall rotationpattrs.ComparedwithLLrotationpate,SOCcontents inLF,LC,LPandLMtreatmentsalldecliedtodiferent extents at $0 { - } 3 0 ~ \\mathrm { c m }$ soil depth,especially,it significantly decreased by $1 8 . 6 8 \\%$ in LP treatment. The correlation analysis indicated that SOC content had significantly positive relation with water stable soil aggregates of $2 { - } 5 ~ \\mathrm { m m }$ ， $1 { - } 2 ~ \\mathrm { m m }$ $0 . 5 \\mathrm { - } 1 ~ \\mathrm { m m }$ $0 . 2 5 { - } 0 . 5 ~ \\mathrm { m m }$ and MWD,while it had significantly negative relation with $< 0 . 2 5 ~ \\mathrm { m m }$ soil aggregate content. In conclusion, LC rotation pattern significantlyincreasedthemechanical stabilityof soilaggregates.However,theeffectof differentrotation patterns on water stable soil aggregates was negligible.Furthermore,SOCcontent significantly influenced the formationand stability of water stable aggregate. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeywordsLucere-croprotation;Rotationpatern;Soilaggregate; Mechanicalstability;Waterstability;Soilorganiccarbor ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤团聚体是土壤结构的基本单位，其数量的多少在一定程度上反映土壤供储养分、持水性、通透性等能力的高低[1]。不同粒级的团聚体在营养元素的保持、供应和转化能力等方面有着不同的作用[2]。良好的土壤结构状况不仅要求有较多的土壤团聚体及适当的粒径分配，还应有一定的稳定性，尤其是水稳性，才能使土壤多级孔隙状况得以保持，在耕作、施肥、灌水、雨滴冲击等影响下不致迅速破裂而使土壤结构状况恶化[2]。土壤团聚体揭示了土壤的结构状况，同时也是衡量土壤肥力状况的重要指标。土壤团聚体的稳定性主要受到土壤有机碳含量、施肥方式、种植制度和轮作方式等的影响[3]。土壤团聚体和有机碳(soil organic carbon，SOC)是不可分割的[4]，土壤团聚作用对SOC起到了物理保护作用[5-7]，同时SOC存在也能够促进团聚体的形成和稳定[8]，前者是后者存在的场所，后者是前者存在的胶结物质[4]，且土壤有机碳含量在很大程度上影响着土壤水稳性团粒结构的形成与稳定性，同时也是土壤供肥、保肥以及耕性和缓冲性能的重要决定因素[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "苜蓿(Medicago sativa)-作物轮作制度是一种历史悠久的耕作制度。黄土高原是我国乃至全球水土流失最严重的地区之一，生态环境极其脆弱[10-12]其特殊的地形以及降水特征，使大量土壤特别是养分含量相对较高的表层土壤最先流失。苜蓿根系具有很强的固氮能力，而且苜蓿种植后，其根瘤菌和大量的须根给土壤留下的腐殖质可增加土壤有机质，改善土壤团粒结构[13-15]，是一种良好的轮作倒茬和种地养地的豆科植物，适合与粮食作物轮作，并提高其品质和产量[16-17]。在作物栽培上，如能以苜蓿草地为前茬，利用不同种类作物的茬口特性合理轮作，可以改善土壤中的水、肥、气、热等环境状况，既能维持土壤肥力，又能防止病虫草的危害，获得增产养地之效[18]。研究表明，在苜蓿-作物草田轮作系统中，由于苜蓿的生物固氮作用，由农田轮作为首蓿草地一般不会存在土壤肥力障碍，并会不断提高土壤肥力水平[19-21]。由苜蓿草地轮作为农田，土壤肥力一般下降。自前，对于苜蓿-作物轮作系统的研究结果较多，但主要围绕着苜蓿土壤干层的形成、水分恢复效应、水分利用效率及对产量和土壤养分的影响[16,22-23]，而对于土壤团聚体以及有机碳的影响研究较少。本文以典型的水土流失较为严重的陇中黄土高原半干旱雨养农业区苜蓿-作物轮作试验为研究对象，探讨了不同首蓿-作物轮作模式对土壤团聚体稳定性和土壤有机碳含量的影响，旨在探寻合理的苜蓿-作物轮作模式，有效改善土壤质量，减少水土流失，维持土壤持续生产力，为黄土高原半干旱区首蓿草地的可持续利用和旱地作物稳产提供理论依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验设在陇中黄土高原半干旱丘陵沟壑区甘肃省定西市安定区李家堡镇麻子川村。该区平均海拔$2 ~ 0 0 0 ~ \\mathrm { ~ m ~ }$ ，年均太阳辐射 $5 9 2 . 9 \\ \\mathrm { \\ k J } { \\cdot } \\mathrm { c m } ^ { - 2 }$ ，日照时数$2 4 7 6 . 6 \\mathrm { h }$ ，年均气温 $6 . 4 \\mathrm { ~ \\textdegree ~ }$ ， $\\geqslant 0 \\ \\mathrm { ~ \\stackrel { ~ } { ~ C ~ } ~ }$ 年积温 $2 9 3 3 . 5 \\mathrm { ~ \\textdegree C }$ $\\geqslant 1 0$ ℃年积温 $2 2 3 9 . 1 \\ \\mathrm { ~ \\textdegree C }$ ，无霜期 $1 4 0 \\mathrm { d } _ { \\circ }$ 年平均降水 $3 9 0 . 9 \\ \\mathrm { m m }$ ，年蒸发量 $1 \\ 5 3 1 \\ \\mathrm { m m }$ ，干燥度2.53，保证率的降水量为 $3 6 5 \\ \\mathrm { m m }$ ，变异系数为 $2 4 . 3 \\%$ ，属于典型的雨养旱作农业区。土壤为典型的黄绵土，土质绵软，土层深厚，质地均匀，贮水性能良好；$0 { \\sim } 2 0 0 ~ \\mathrm { c m }$ 土壤容重平均为 $1 . 1 7 \\ \\mathrm { g } { \\cdot } \\mathrm { c m } ^ { - 3 }$ ，凋萎含水率$7 . 3 \\%$ ，饱和含水率 $2 1 . 9 \\text{‰}$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本试验选取首蓿-作物轮作试验田为研究对象，试验共设6个处理,3次重复，小区面积 $3 . 0 ~ \\mathrm { m } { \\times } 7 . 0 ~ \\mathrm { m }$ 随机区组排列。供试作物为紫花苜蓿、春小麦(Triticum aestivuml)、玉米(Zea mays)、马铃薯(Solanum tuberosum)和谷子(Setaria italica)。各处理详细描述见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/be923c5a121dd36b45042b53e6bcb574cff08a5d0aecfedd0e690e7d1c98821c.jpg",
+        "table_caption": [
+            "表1试验不同轮作模式处理描述Table 1Descriptions of different rotation patterns in the experiment"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>轮作模式 Rotation pattern</td><td>代码 Code</td><td>操作方式 Description</td></tr><tr><td>苜蓿-苜蓿 Lucerne-lucerne</td><td>L-L</td><td>2003年开始连续种植苜蓿至2015年。 Lucerne was planted from 2003 to 2015.</td></tr><tr><td>苜蓿-休闲 Lucerne-free</td><td>L-F</td><td>2003 年开始连续种植苜蓿8年,2012年3月份(雨季前)挖除苜蓿保持耕地休闲至2015年。 Luefire was plptedfor &util2from2003,then was grubbedupinMarch(beforeranyseason),2012. Afer hat,</td></tr><tr><td>苜蓿-小麦 Lucerne-wheat</td><td>L-W</td><td>2003年开始连续种植苜蓿8年,2012年3月份(雨季前)挖除苜蓿，一直休闲至2013年春季开始种植春小麦， 2014年继续种植春小麦。 Lucerne was planted for 8 years from 2Oo3,then was grubbed up in March (before rainy season),2012.After that,</td></tr><tr><td>苜蓿-玉米 Lucerne-corn</td><td>L-C</td><td>the spring wheat was planted in the spring of 2013 until 2015. 2003 年开始连续种植苜蓿8年，2012年3月份(雨季前)挖除苜蓿，一直休闲至 2013年春季开始种植玉米， 2014年继续种植玉米。 Lucerne was planted for 8 years from 2003,then was grubbed up in March (before rainy season),2012.After that, corn was planted in the spring of 2013 until 2015.</td></tr><tr><td>苜蓿-马铃薯 Lucerne-potato</td><td>L-P</td><td>2003年开始连续种植苜蓿8年,2012年3月份(雨季前)挖除苜蓿,5月份种植马铃薯,2014年继续种植马铃薯。 Lucerne was planted for 8years from 2oo3,then was grubbed up in March (before rainy season),2012.After that, potato was planted in May of 2012 until 2015.</td></tr><tr><td>苜蓿-谷子 Lucerne-millet</td><td>L-M</td><td>2003年开始连续种植苜蓿8年，2012年3月份(雨季前)挖除苜蓿，4月份种植谷子，2014年继续种植谷子。 Lucerne was planted for 8 years from 2o03,then was grubbed up in March(before rainy season),2012.After that, millet was planted in April of 2012 until 2015.</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 测定方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 土壤团聚体 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "团聚体土样在作物收获后(2014 年 10 月)采集，采用五点法用铲子分别取 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 、 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 和$3 0 { \\sim } 5 0 \\ \\mathrm { c m } \\ 3$ 个层次的原状土样，每个层次3个重复，在采集和运输过程中尽量减少对土样的扰动，以免破坏团聚体。将采集的土样带回实验室内风干，沿土壤结构的自然剖面分成 $1 \\mathrm { c m }$ 左右的团块，用于测定土壤团聚体稳定性指标。采用人工干筛法和湿筛法[24-25]获得各级别团聚体的含量，干筛法和湿筛法均通过孔径为 $5 \\mathrm { m m } , 2 \\mathrm { m m } , 1 \\mathrm { m m } , 0 . 5 \\mathrm { m m }$ 和 $0 . 2 5 \\mathrm { m m }$ 5个筛级，并计算 $\\geqslant 0 . 2 5 \\ \\mathrm { \\ m m }$ 的团聚体含量 $( R _ { 0 . 2 5 } )$ 和土壤平均重量直径(meanweight diameter,MWD)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 土壤有机碳 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "有机碳土样在作物收获后(2014年10月)采集，采用S型取样法用土钻分别取 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 、 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 和$3 0 { \\sim } 5 0 \\ \\mathrm { c m } \\ 3$ 个层次的土样，并剔除石块、植物残根等杂物，混合后四分法留土样 $1 ~ \\mathrm { k g }$ 左右，每处理3次重复，装袋带回实验室，风干研磨过 $1 ~ \\mathrm { m m }$ 筛，供测定用。土壤有机质采用重铬酸钾外加热法测定[26]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 数据处理与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别采用各级别团聚体百分含量、 $R _ { 0 . 2 5 }$ 和MWD表示团聚体组成、结构性及其稳定性，MWD反映",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "了土壤团聚体大小分布状况，其值越大表征团聚体的平均团聚度越高[27]。土壤团聚体MWD计算方法如下:",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { { M W D } } = { \\frac { \\sum _ { i = 1 } ^ { n } ( { \\overline { { x } } } _ { i } w _ { i } ) } { \\sum _ { i = 1 } ^ { n } w _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中：MWD为团聚体平均重量直径， $\\overline { { x } } _ { i }$ 为级团聚体平均直径, $w _ { i }$ 为粒级团聚体重量所占的比例, $\\overline { { x } } _ { i } w _ { i }$ 指 $i$ 级团聚体的平均重量直径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 不同苜蓿-作物轮作模式下土壤机械稳定性团聚体组成",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过干筛法可以获得原状土壤中团聚体的总体数量。常用干筛法所测得的各粒级团聚体的含量反映团聚体的机械稳定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，在 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土层，干筛法所测得的团聚体除L-C处理以 $. > 5 \\ \\mathrm { \\ m m }$ 粒级的团聚体为主，其次为 $< 0 . 2 5 ~ \\mathrm { \\ m m }$ 粒级的团聚体，其他不同处理均以$< 0 . 2 5 \\ \\mathrm { \\ m m }$ 粒级的团聚体为主，且均占 $2 7 \\%$ 以上，其次为 $| > 5 \\ \\mathrm { ~ m m }$ 粒级的团聚体；而在 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层，6种不同轮作处理干筛法所测得的团聚体中均以 $> 5 \\ \\mathrm { m m }$ 粒级的团聚体为主，平均含量为 $2 8 . 3 4 \\%$ ，其次为 $< 0 . 2 5 \\ \\mathrm { m m }$ 粒级的团聚体，平均含量占 $2 0 . 1 2 \\%$ ；在 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层，6种不同轮作处理干筛法所测得的团聚体中均以 $> 5 ~ \\mathrm { ~ m m }$ 粒级的团聚体为主，平均含量占 $3 6 . 7 5 \\%$ 而 $0 . 2 5 { \\sim } 0 . 5 \\ \\mathrm { \\ m m }$ 粒级的土壤团聚体均在3个层次内比例最小，平均不到 $10 \\%$ 。相比其他处理,L-C处理在耕层 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层内 $| { > } 5 ~ \\mathrm { m m }$ 粒级的团聚体含量比例最大，为 $2 9 . 5 1 \\%$ 。就 $0 { \\sim } 3 0$ cm耕层范围内，干筛条件下不同处理 $\\geqslant 0 . 2 5 ~ \\mathrm { ~ m m }$ 土壤团聚体比例大小顺序为 $\\mathrm { L - C > L - P > L - L > L - F > L - M > L - W }$ ，L-C处理最大，其中L-C和L-M处理差异较显著 $( P { \\leqslant } 0 . 0 5 )$ 。平均重量直径大小顺序为 $\\mathrm { L \\mathrm { - } C \\mathrm { > } L \\mathrm { - } P \\mathrm { > } L \\mathrm { - } L \\mathrm { > } L \\mathrm { - } F \\mathrm { > } L \\mathrm { - } M \\mathrm { > } }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "L-W,L-C处理和L-M处理差异显著 $( P { \\leqslant } 0 . 0 5 )$ 。整体而言，不同轮作模式下土壤机械稳定性团聚体以$\\geqslant 0 . 2 5 ~ \\mathrm { m m }$ 团聚体为优势团聚体，均占 $7 2 . 1 7 \\%$ 以上随着土层深度的增加，各处理 $\\geqslant 0 . 2 5 ~ \\mathrm { m m }$ 的团聚体数量及MWD均随之增加，土壤稳定性增大。较之L-L处理，L-C和L-P处理均增加了 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 耕层土壤 $\\geqslant 0 . 2 5 ~ \\mathrm { ~ m m }$ 的团聚体含量，分别增加了 $5 . 9 4 \\%$ 和$1 . 1 2 \\%$ ，L-C处理的MWD表现为最高，而其他轮作处理则不同程度降低了 $\\geqslant 0 . 2 5 ~ \\mathrm { ~ m m }$ 团聚体含量及MWD.",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/61b33e7eb1e1e27d724893e1c125847d95c26f9e62bad4c02c63ac1fe3db1f7a.jpg",
+        "table_caption": [
+            "表2不同轮作模式下不同土层土壤机械稳定性团聚体粒径分布ible2Composition of mechanical-stable aggregates in different soil layers under diferent rotation pat"
+        ],
+        "table_footnote": [
+            "表中同列不同小写字母表示相同土层不同处理间在 $P \\leqslant 5 \\%$ 水平差异显著，下同。Different lowercase letters in the same column represen significant difference among different treatments at the same soil depth at $P \\leqslant 5 \\%$ level.The same below. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层 Soil layer (cm)</td><td rowspan=\"2\">轮作模式 Rotation</td><td colspan=\"7\">士壤团聚体组成 Composition of soil aggregates (%)</td><td rowspan=\"2\">均重直径 Mean weight</td></tr><tr><td>>5 mm</td><td>2~5 mm</td><td>1~2 mm</td><td>0.5~1 mm</td><td>0.25~0.5 mm</td><td><0.25 mm</td><td>≥0.25 mm</td></tr><tr><td>0~10</td><td>pattern L-L</td><td>20.47±9.24ab</td><td>14.18±1.50a</td><td>11.93±0.90a</td><td>14.88±2.20a</td><td>10.78±2.13a</td><td>27.76±5.22ab</td><td>72.24±5.22ab</td><td>diameter (mm) 2.40±0.69ab</td></tr><tr><td rowspan=\"8\"></td><td>L-F</td><td>20.53±5.05ab</td><td>14.70±1.14a</td><td>11.99±0.88a</td><td>14.23±1.64a</td><td>10.35±1.44a</td><td>28.20±1.37ab</td><td>71.80±1.37ab</td><td>2.41±0.35ab</td></tr><tr><td>L-W</td><td>16.66±1.00ab</td><td>13.95±1.69a</td><td>12.28±0.69a</td><td>15.16±0.53a</td><td>11.21±0.27a</td><td>30.74±1.35a</td><td>69.26±1.34b</td><td>2.12±0.03ab</td></tr><tr><td>L-C</td><td>27.21±7.47a</td><td>15.30±2.44a</td><td>12.22±0.12a</td><td>14.22±1.53a</td><td>9.76±1.80a</td><td>21.29±6.58b</td><td>78.71±6.57a</td><td>2.93±0.62a</td></tr><tr><td>L-P</td><td>20.77±4.31ab</td><td>14.47±1.54a</td><td>12.00±1.11a</td><td>14.71±0.86a</td><td>10.53±0.49a</td><td>27.53±3.52ab</td><td>72.47±3.52ab</td><td>2.43±0.30ab</td></tr><tr><td>L-M</td><td>15.56±1.22b</td><td>13.95±2.55a</td><td>11.82±0.51a</td><td>15.43±0.71a</td><td>11.48±0.61a</td><td>31.77±2.50a</td><td>68.2±2.503b</td><td>2.03±0.02b</td></tr><tr><td>L-L</td><td>29.08±5.58a</td><td>16.33±1.33a</td><td>12.19±0.38a</td><td>13.56±0.81a</td><td>8.68±1.19ab</td><td>20.16±5.19a</td><td>79.84±5.19a</td><td>3.09±0.45a</td></tr><tr><td>L-F</td><td>26.07±2.63a</td><td>16.22±0.72a</td><td>12.05±0.86a</td><td>14.59±1.83a</td><td>9.91±0.96ab</td><td>21.17±1.12a</td><td>78.83±1.12a</td><td>2.88±0.17a</td></tr><tr><td>L-W</td><td>24.39±7.73a</td><td>15.47±1.23a</td><td>12.61±1.38a</td><td>15.06±2.55a</td><td>10.10±1.45a</td><td>22.37±2.07a</td><td>77.63±2.07a</td><td>2.74±0.50a</td></tr><tr><td rowspan=\"8\">30~50</td><td>L-C</td><td>31.82±1.64a</td><td>17.07±0.89a</td><td>11.86±0.74a</td><td>13.30±0.42a</td><td>8.12±0.28b</td><td>17.83±3.41a</td><td>82.17±3.41a</td><td>3.32±0.16a</td></tr><tr><td>L-P</td><td>29.23±2.49a</td><td>16.78±0.96a</td><td>12.73±0.43a</td><td>13.94±0.48a</td><td>8.69±0.94ab</td><td>18.63±1.94a</td><td>81.37±1.94a</td><td>3.13±0.20a</td></tr><tr><td>L-M</td><td>29.49±8.84a</td><td>15.12±1.42a</td><td>12.21±1.96a</td><td>13.64±2.73a</td><td>8.98±1.59ab</td><td>20.56±1.60a</td><td>79.44±1.60a</td><td>3.09±0.56a</td></tr><tr><td>L-L</td><td>32.00±6.20a</td><td>15.40±1.32a</td><td>12.62±0.71a</td><td>13.25±0.88a</td><td>8.09±1.33a</td><td>18.63±5.78a</td><td>81.37±5.78a</td><td>3.28±0.49a</td></tr><tr><td>L-F</td><td>42.77±7.31a</td><td>16.14±1.71a</td><td>12.41±1.33a</td><td>11.24±1.62a</td><td>6.12±1.29a</td><td>11.34±2.07a</td><td>88.67±2.07a</td><td>4.08±0.47a</td></tr><tr><td>L-W</td><td>32.72±11.55a</td><td>16.38±1.05a</td><td>13.14±1.63a</td><td>13.76±3.03a</td><td>8.15±2.14a</td><td>15.86±3.77a</td><td>84.14±3.77a</td><td>3.38±0.77a</td></tr><tr><td>L-C</td><td>35.85±12.45a</td><td>15.17±1.64a</td><td>12.40±0.73a</td><td>12.65±2.18a</td><td>7.35±2.29a</td><td>16.59±9.18a</td><td>83.42±9.19a</td><td>3.55±0.95a</td></tr><tr><td>L-P</td><td>40.43±2.99a</td><td>15.91±0.22a</td><td>12.86±0.42a</td><td>11.93±0.20a</td><td>6.56±0.56a</td><td>12.31±2.39a</td><td>87.69±2.39a</td><td>3.91±0.22a</td></tr><tr><td></td><td>L-M</td><td>36.73±7.58a</td><td>14.45±0.36a</td><td>12.45±0.60a</td><td>12.80±1.35a</td><td>7.14±1.00a</td><td>16.43±5.16a</td><td>83.57±5.16a</td><td>3.59±0.55a</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 不同首蓿-作物轮作模式下土壤水稳性团聚体组成",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "团聚体水稳性是团聚体抵抗灌水浸泡和降雨击打的能力，是土壤团聚体的主要质量指标。湿筛法获得的团聚体是土壤中的水稳性团聚体，水稳性团聚体对保持土壤结构的稳定性有重要贡献。其中，水稳性团聚体的数量和分布状况决定着土壤结构的稳定性以及抗侵蚀的能力，特别是 $\\geqslant 0 . 2 5 ~ \\mathrm { ~ m m }$ 水稳性团聚体的数量可以判别土壤结构的好坏，是判定土壤质量好坏的重要指标之一[28]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表3可知，整体来看，随着土层深度的增加水稳性大团聚体数量及MWD值无明显规律性。不同处理在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 、 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 和 $3 0 { \\sim } 5 0 ~ \\mathrm { c m } ~ 3$ 个层次的水稳性团聚体组成均以 $< 0 . 2 5 ~ \\mathrm { m m }$ 的团聚体为优势团聚体，平均含量达 $9 5 . 1 8 \\%$ 以上， $0 . 2 5 { \\sim } 0 . 5 ~ \\mathrm { m m }$ 粒级的含量比例次之，而 $> 5 \\ \\mathrm { m m }$ 粒级的团聚体含量极少，仅在 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 的一些处理中出现。说明不同轮作模式对土壤水稳性团聚体组成的影响较小，且6种不同轮作处理的水稳性大团聚体含量较少，不足 $6 \\text{‰}$ 随着土层深度的增加，各粒级水稳性土壤团聚体含量比例以及MWD均呈现递减趋势，其中不同轮作处理 $\\geqslant 0 . 2 5 \\ \\mathrm { ~ m m }$ 水稳性团聚体含量在 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 的比例顺序表现为 $\\mathrm { L \\mathrm { - } L \\mathrm { > } L \\mathrm { - } C \\mathrm { > } L \\mathrm { - } M \\mathrm { > } L \\mathrm { - } W \\mathrm { > } L \\mathrm { - } P \\mathrm { > } L \\mathrm { - } F , }$ 在$1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 表现为 $\\mathrm { L \\mathrm { - } F \\mathrm { > } L \\mathrm { - } W \\mathrm { > } L \\mathrm { - } M \\mathrm { > } L \\mathrm { - } P \\mathrm { > } L \\mathrm { - } L \\mathrm { > } L \\mathrm { - } C , }$ 而在 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层表现为 $\\scriptstyle \\mathrm { L - W > L - C = L - P > L - L > L - F } =$ L-M，不同轮作处理的MWD差异不明显。就 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 耕层范围内，不同处理 $\\geqslant 0 . 2 5 \\ \\mathrm { m m }$ 的土壤团聚体比例顺序为 $\\mathtt { L - C > L \\mathrm { \\mathrm { - } P > L \\mathrm { - } L > L \\mathrm { - } F > L \\mathrm { - } M > L \\mathrm { - } W } }$ ，L-C处理最大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/62263acf61d2d41db428a2b266a1d9f775b5da7f9cea57bec0c17b60de51ac6b.jpg",
+        "table_caption": [
+            "表3不同轮作模式下不同土层土壤水稳性团聚体粒径分布3Composition of water-stable aggregates in different soil layers under different rota"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土层 Soil layer (cm)</td><td rowspan=\"2\">轮作模式 Rotation pattern</td><td colspan=\"7\">土壤团聚体组成 Composition of soil aggregates (%)</td><td rowspan=\"2\">均重直径 Mean weight diameter (mm)</td></tr><tr><td>>5 mm</td><td>2~5 mm</td><td>1~2 mm</td><td>0.5~1 mm</td><td>0.25~0.5 mm</td><td><0.25 mm</td><td>≥0.25 mm</td></tr><tr><td>0~10</td><td>L-L</td><td>0.00±0.00b</td><td>0.43±0.15a</td><td>0.83±0.28a</td><td>1.85±1.02a</td><td>2.87±0.54a</td><td>94.02±1.97a</td><td>5.98±1.97a</td><td>0.05±0.01a</td></tr><tr><td rowspan=\"10\">10~30</td><td>L-F</td><td>0.06±0.10ab</td><td>0.47±0.20a</td><td>0.58±0.12a</td><td>1.05±0.29a</td><td>1.82±0.02a</td><td>96.02±0.20a</td><td>3.98±0.20a</td><td>0.05±0.01a</td></tr><tr><td>L-W</td><td>0.28±0.25a</td><td>0.46±0.12a</td><td>0.68±0.07a</td><td>1.33±0.52a</td><td>1.85±0.43a</td><td>95.40±0.74a</td><td>4.60±0.74a</td><td>0.06±0.01a</td></tr><tr><td>L-C</td><td>0.00±0.00b</td><td>0.55±0.32a</td><td>0.85±0.29a</td><td>1.88±1.09a</td><td>2.26±1.51a</td><td>94.46±3.06a</td><td>5.54±3.06a</td><td>0.05±0.03a</td></tr><tr><td>L-P</td><td>0.02±0.03ab</td><td>0.49±0.24a</td><td>0.69±0.28a</td><td>1.13±0.33a</td><td>2.03±0.58a</td><td>95.64±1.04a</td><td>4.36±1.04a</td><td>0.04±0.00a</td></tr><tr><td>L-M</td><td>0.18±0.20ab</td><td>0.68±0.17a</td><td>0.63±0.17a</td><td>1.22±0.26a</td><td>2.05±0.42a</td><td>95.23±0.63 a</td><td>4.77±0.63a</td><td>0.05±0.01 a</td></tr><tr><td>L-L</td><td>一</td><td>0.35±0.07a</td><td>0.43±0.15a</td><td>0.77±0.22a</td><td>1.01±0.08a</td><td>97.44±0.47a</td><td>2.56±0.47a</td><td>0.03±0.01 a</td></tr><tr><td>L-F</td><td>一</td><td>0.25±0.25a</td><td>0.38±0.12a</td><td>0.93±0.27a</td><td>1.47±0.13a</td><td>96.97±0.57a</td><td>3.03±0.57a</td><td>0.03±0.00a</td></tr><tr><td>L-W</td><td>1</td><td>0.21±0.13a</td><td>0.34±0.07a</td><td>0.68±0.20a</td><td>1.57±0.65a</td><td>97.19±1.03a</td><td>2.81±1.03a</td><td>0.02±0.01a</td></tr><tr><td>L-C</td><td>一</td><td>0.21±0.09a</td><td>0.35±0.04a</td><td>0.68±0.07a</td><td>1.09±0.16a</td><td>97.67±0.17a</td><td>2.33±0.17a</td><td>0.02±0.01a</td></tr><tr><td>L-P</td><td>一</td><td>0.18±0.02a</td><td>0.31±0.07a</td><td>0.75±0.04a</td><td>1.51±0.43a</td><td>97.26±0.44a</td><td>2.74±0.44a</td><td>0.02±0.01a</td></tr><tr><td>30~50</td><td>L-M</td><td>0.19±0.16a</td><td>0.35±0.15a</td><td>0.79±0.09a</td><td>1.45±0.55a</td><td>97.21±0.95a</td><td>2.79±0.95a</td><td>0.03±0.01a</td></tr><tr><td></td><td>L-L</td><td>0.13±0.12a</td><td>0.14±0.03a</td><td>0.28±0.04a</td><td>0.59±0.20a</td><td>98.85±0.34a</td><td>1.15±0.34a</td><td>0.01±0.00a</td></tr><tr><td>L-F</td><td>一</td><td>0.05±0.01a</td><td>0.14±0.10a</td><td>0.25±0.02a</td><td>0.64±0.16a</td><td>98.91±0.12a</td><td>1.09±0.12a</td><td>0.01±0.01a</td></tr><tr><td>L-W</td><td></td><td>0.12±0.09a</td><td>0.17±0.06a</td><td>0.31±0.06a</td><td>0.71±0.14a</td><td>98.68±0.33a</td><td>1.32±0.33a</td><td>0.01±0.00a</td></tr><tr><td>L-C</td><td>一</td><td>0.07±0.08a</td><td>0.15±0.03a</td><td>0.29±0.06a</td><td>0.77±0.39a</td><td>98.73±0.36a</td><td>1.27±0.36a</td><td>0.01±0.01a</td></tr><tr><td>L-P</td><td>一</td><td>0.12±0.02a</td><td>0.15±0.01a</td><td>0.29±0.11a</td><td>0.71±0.09a</td><td>98.73±0.23a</td><td>1.27±0.23a</td><td>0.01±0.01a</td></tr><tr><td></td><td>L-M</td><td>一 0.03±0.05a</td><td>0.11±0.09a</td><td>0.27±0.07a</td><td>0.57±0.08a</td><td>98.91±0.10a</td><td>1.09±0.10a</td><td>0.02±0.01a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3不同苜蓿-作物轮作模式下土壤总有机碳",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳是陆地碳储量的主要库，在保持土壤质量方面有重要作用，其含量受气候、植被覆盖和土壤耕作方式等因素的影响[29]。由图1可知，土壤有机碳含量因不同的轮作方式有所差异，且轮作方式对不同耕层土壤有机碳分布的影响程度不同。6种轮作模式的土壤总有机碳含量均随土层深度的增加而降低。其中在 $0 { \\sim } 1 0 ~ \\mathrm { c m }$ 土层，不同轮作模式下土壤有机碳含量表现为 $\\mathrm { L \\mathrm { - } L \\mathrm { > } L \\mathrm { - } F \\mathrm { > } L \\mathrm { - } C \\mathrm { > } L \\mathrm { - } M \\mathrm { > } L \\mathrm { - } W \\mathrm { > } L \\mathrm { - } P , }$ （2其中L-L处理与L-P、L-W和L-M处理差异显著； $1 0 \\sim$ 30cm土层中土壤有机碳含量表现为 $_ { \\mathrm { L - F > L - L > } }$ $L { \\mathrm { - } } \\mathrm { W } { \\mathrm { { > } L { \\mathrm { - } } C { \\mathrm { > } L { \\mathrm { - } } M { \\mathrm { > } L { \\mathrm { - } } \\mathrm { P } } , } } }$ ，其中L-F处理与L-P处理差异显著；在 $3 0 { \\sim } 5 0$ cm土层，土壤有机碳含量表现为$\\mathrm { L \\mathrm { - } F \\mathrm { > } L \\mathrm { - } L \\mathrm { > } L \\mathrm { - } M \\mathrm { > } L \\mathrm { - } C \\mathrm { > } L \\mathrm { - } P \\mathrm { > } L \\mathrm { - } W }$ 。L-F处理与L-W有显著性差异。说明不同苜蓿-作物轮作模式对不同层次的土壤有机碳含量影响程度不同，其中在0\\~10cm的土壤耕层，L-L处理的土壤有机碳含量最高，分别比L-P、L-W、L-M、L-C处理提高 $3 2 . 0 \\%$ 、 $2 5 . 7 \\%$ /$2 0 . 0 \\%$ 和 $10 . 9 \\%$ 。在 $1 0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层,L-F处理的土壤有机碳含量最高，分别比L-P、L-W、L-M、L-C处理提高 $2 7 . 0 \\%$ 、 $2 2 . 0 \\%$ 、 $2 4 . 5 \\%$ 和 $2 2 . 0 \\%$ ，在 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层，",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "L-F处理的土壤有机碳含量最高，分别比L-P、L-W、L-M、L-C处理提高 $1 5 . 0 \\%$ 、 $3 1 . 4 \\%$ 、 $1 . 0 \\%$ 和 $5 . 0 \\%$ 。整体上，在 $0 \\sim 3 0$ cm的耕层土壤，较之L-L处理，L-W、L-C、L-P和L-M处理均从不同程度上降低了土壤有机碳含量，其中L-P处理有机碳含量最低，降低了 $1 8 . 6 8 \\%$ ，L-F处理在 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 土层降低了土壤有机碳含量，而在10\\~30和 $3 0 { \\sim } 5 0 ~ \\mathrm { c m }$ 土层增加了土壤有机碳含量，由于苜蓿-休闲处理的土壤没有作物的吸收，且避免了作物根系的穿插，从而土壤结构相对保持了较好的稳定性，土壤有机碳的损失相对较小。这说明较之苜蓿-苜蓿连作模式，对多年种植苜蓿地进行翻耕后轮作小麦、玉米、马铃薯和谷子4种作物均在一定程度上降低了0\\~50cm土层的土壤有机碳含量，而翻耕后保持休闲有机碳含量较高。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/68dafd73e37eed54423bf73fb40072d604f313c8c943c69a6251be40bc9c45e3.jpg",
+        "img_caption": [
+            "图1不同轮作模式下不同土层土壤有机碳含量Fig.1Contents of soil organic carbon in different soil layersunder different rotation patterns图中不同小写字母表示同一土层不同处理间在 $\\textstyle P \\leqslant 0 . 0 5$ 水平差异显著。In the figure,different small letters mean significantdifference at $ { P } { \\leqslant } 0 . 0 5$ among treatments at the same soil layer."
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4土壤有机碳含量与水稳性团聚体的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤团聚体的形成依赖于有机质的胶结作用[30]。稳定的团聚体能够对赋存于其中的有机碳形成有效保护，通常大团聚体 $( \\geqslant 0 . 2 5 \\ \\mathrm { \\ m m }$ 能够储存更多的有机碳，但是容易被破坏，形成微团聚体 $( < 0 . 2 5 ~ \\mathrm { \\ m m } )$ ，微团聚体对有机碳具有较强的物理保护作用，通常被认为是碳吸存的主要场所[31]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "如表4所示，不同苜蓿-作物轮作模式下土壤有机碳含量与各粒径土壤团聚体比例有一定程度的相关关系，其中与 $2 \\mathord { \\sim } 5 \\mathrm { m m }$ 、 $1 { \\sim } 2 ~ \\mathrm { m m }$ ！ $0 . 5 { \\sim } 1 ~ \\mathrm { m m }$ 、 $0 . 2 5 \\sim$ $0 . 5 \\ \\mathrm { m m }$ 粒径的水稳性团聚体比例表现出线性正相关且相关性达极显著 $( P { \\leqslant } 0 . 0 1 )$ ，而与 $< 0 . 2 5 ~ \\mathrm { \\ m m }$ 粒径的水稳性团聚体呈极显著负相关 $( P { \\leqslant } 0 . 0 1 )$ )，这表明土壤总有机碳对土壤各个粒径分布含量的反映程度不同，即土壤总有机碳含量越大，土壤大团聚体含量越高，微团聚体的含量越低。土壤有机碳与MWD表现出极显著正相关 $( P { \\leqslant } 0 . 0 1 )$ ，说明土壤有机碳含量越高，土壤团聚体的平均重量直径越大，水稳定性越好。可以看出，土壤有机碳含量的高低与各粒级水稳性土壤团聚体分布以及稳定性密切相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4土壤有机碳含量与各粒级水稳性土壤团聚体组成及稳定性(均重直径，MWD)的关系",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/823ef82dfdad1cf284aacc2ac454cd8e6d6d8d28ff32715d4512ae2c56198924.jpg",
+        "table_caption": [
+            "Table 4 Correlations between total soil organic carbon and composition and mean weight diameter (MWD) of water-stable aggregate with different sizes "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>粒级 Aggregate size (mm)</td><td>回归方程 Regression equation</td><td>R²</td></tr><tr><td>2~5</td><td>Y=6.131X+8.360</td><td>0.487**</td></tr><tr><td>1~2</td><td>Y=6.537X+6.802</td><td>0.551**</td></tr><tr><td>0.5~1</td><td>Y=2.664X+7.875</td><td>0.655**</td></tr><tr><td>0.25~0.5</td><td>Y=2.004X+7.276</td><td>0.628**</td></tr><tr><td><0.25</td><td>Y=-0.848X+92.368</td><td>0.645**</td></tr><tr><td>≥0.25</td><td>Y=0.848X+7.577</td><td>0.645**</td></tr><tr><td>MWD</td><td>Y=78.254X+7.798</td><td>0.621**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Y代表土壤有机碳含量， $X$ 分别表示各粒级团聚体含量以及 MWD，样本数 $\\scriptstyle n = 6$ ，\\*\\*表示相关性达极显著水平 $( P \\leqslant 0 . 0 1 )$ 。 $Y$ stands for soil organic carbon content, $X$ stands for soil aggregate content of each grade and mean weight diameter (MWD).The number of samples is six. $  \\ast \\ast \\uparrow \\uparrow$ indicates significant correlation at 0.01 level. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 讨论与结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤学中将当量粒径在 $1 0 { \\sim } 0 . 2 5 \\ \\mathrm { m m }$ 的团聚体称为大团聚体，其含量越高，说明土壤团聚性越好，而 $< 0 . 2 5 ~ \\mathrm { m m }$ 的团聚体，是机械稳定性较差的团聚体，这一级别团聚体所占比重越高，表明土壤愈分散，它不仅在降雨和灌溉期间会堵塞孔隙，影响水分入渗，易产生地面径流，增加土壤的侵蚀，还容易形成沙尘天气[28]。土壤MWD是反映土壤团聚体大小分布状况的常用指标，其值随大粒径团聚体含量的增大而增大，其值越大表示团聚体的平均粒径团聚度越高，团聚体稳定性就越强[32]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究结果表明，各轮作模式处理干筛法所获得的土壤团聚体均以大团聚体 $\\approx 0 . 2 5 \\ \\mathrm { m m }$ 的团聚体)为主，而湿筛法获得的则以微团聚体 $( < 0 . 2 5 ~ \\mathrm { \\ m m }$ 的团聚体)为主，随土层深度增加，不同轮作模式在干筛条件下 $\\geqslant 0 . 2 5 \\ \\mathrm { ~ m m }$ 的土壤团聚体和MWD值均逐渐增大，而 $< 0 . 2 5 \\ \\mathrm { \\ m m }$ 的团聚体逐渐减少，这与武均等[33-34]的研究结果相似；而在湿筛条件下 $\\geqslant 0 . 2 5 \\ \\mathrm { ~ m m }$ 的土壤团聚体和 MWD 值逐渐减小，各粒径团聚体随土层的变化并无明显规律，这与蔡立群等[1]研究结果相似。说明该土壤团聚体的机械稳定性随土层深度的增加逐渐增强，而团聚体的水稳性随土层深度的增加而减弱。较之苜蓿-苜蓿(L-L)处理，苜蓿-玉米(L-C)轮作处理显著增大了 $0 { \\sim } 3 0 \\ \\mathrm { c m }$ 耕层土壤$\\geqslant 0 . 2 5 ~ \\mathrm { m m }$ 土壤团聚体含量以及MWD值，这可能是由于苜蓿-玉米轮作模式由于有地膜覆盖，在保持充足的土壤水分的同时又避免了过多的人为干扰和雨水的直接冲刷，且能够有效防止土壤结皮，土壤结构性能较好。然而在 $0 { \\sim } 1 0 \\ \\mathrm { c m }$ 耕层土壤，较之苜蓿-苜蓿处理，其他轮作处理均不同程度降低了 $\\mathrm { \\gtrsim 0 . 2 5 ~ m m }$ 水稳性土壤团聚体含量，其中苜蓿-休闲表现为最低，而不同轮作处理对水稳性团聚体的MWD值影响不显著，无明显规律性。Barber[35]在威斯康星州研究发现，苜蓿可增加土壤水稳性团粒指数，4年试验期间土壤水稳性团粒指数随其种植年限延长而增加。这说明较之未经翻耕的苜蓿-苜蓿土壤，其他轮作处理加剧了对耕层土体的扰动，这不但破坏了土壤大团聚体，引起土壤团聚体重新分布，加快团聚体周转速率，还减缓了土壤自身调节作用和恢复过程，破坏土体稳定性和连续性。苜蓿-苜蓿模式较其他轮作模式而言，虽保持了较高的水稳定性，但机械稳定性却没有苜蓿-玉米模式高，这可能是由于不同的作物对土壤质量的影响不同，且由于受微生物、酶以及根系分泌物等的影响，还需要进一步进行探讨和研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳含量因轮作方式和土层深度的不同表现出显著的差异性，在 $0 { \\sim } 5 0 ~ \\mathrm { c m }$ 的土层范围内，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "全号： □入江，年种植苜蓿地进行翻耕后，轮作小麦、玉米、马铃薯和谷子4种作物均在一定程度上降低了土壤有机碳含量，其中在 $0 { \\sim } 3 0 ~ \\mathrm { c m }$ 土层内，苜蓿-马铃薯轮作模式有机碳含量最低，而未翻耕的苜蓿-苜蓿模式和翻耕后的苜蓿-休闲模式在一定程度上维持了较高的土壤有机碳含量，一方面，这是因为苜蓿根系具有很强的根瘤固氮作用，其根瘤菌和大量的须根给土壤留下的腐殖质可增加土壤有机碳含量[13-14],而苜蓿-休闲模式的土壤由于没有其他作物的消耗，表现出较高的有机碳含量，从另一个角度出发，首蓿-苜蓿模式的土壤由于多年未翻耕，土壤团聚体受到的破坏相对较少，从而保持了较高的稳定性，稳定的团聚体能够对储存于其中的有机碳形成有效保护，通常大团聚体能够储存更多的有机碳[30]。张春霞等[36通过试验认为，有豆科牧草苜蓿参与的轮作系统，土壤有机碳的储量增加，土壤有机质得到活化，能更好地培肥地力。但也有研究表明，由于耕作过程增加了对土壤的干扰，苜蓿草地轮作为农田后土壤全氮和有机质会迅速下降，土壤退化过程加速[37]，这与本研究结果相似。土壤有机碳位于团聚体内，土壤有机碳含量在很大程度上影响着土壤团粒结构的形成与稳定性，由本试验结果显示，有机碳含量与其中 $2 { \\sim } 5 \\ \\mathrm { m m }$ 、 $1 { \\sim } 2 ~ \\mathrm { m m }$ 、 $0 . 5 { \\sim } 1 ~ \\mathrm { m m }$ 、 $0 . 2 5 { \\sim } 0 . 5 \\ \\mathrm { m m }$ 和 $\\geqslant 0 . 2 5 ~ \\mathrm { ~ m m }$ 粒径的水稳性大团聚体比例以及MWD呈极显著正相关，而与 $< 0 . 2 5 \\ \\mathrm { m m }$ 粒径的水稳性团聚体比例呈极显著负相关，说明土壤中有机碳含量与土壤团聚体的水稳性密切相关，且随着水稳性大团聚体比例的增大而增大，这与姜学兵等[7]和陈山等[30的研究结果相似。因此，有必要选择合适的轮作方式来提高土壤质量的同时维持土壤肥力平衡。由于本试验存在一定的局限性，只能够为今后选择合理的轮作模式提供一些宏观的理论基础，缺乏对于苜蓿-作物轮作系统水肥效应机制以及微观层面的探究。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]蔡立群，齐鹏，张仁陟．保护性耕作对麦-豆轮作条件下土 壤团聚体组成及有机碳含量的影响[J].水土保持学报, 2008,22(2): 141-145 CaiL Q,Qi P,Zhang R Z.Effects of conservation tillage measures on soil aggregates stability and soil organic carbon in two sequence rotation system with spring wheat and field pea[J].Journal of Soil and Water Conservation,20o8,22(2): ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "∠UU∠，1 Lu JW,Li Z B.Advance in soil aggregate study[J]. Research of Soil and Water Conservation,2002,9(1): 81-85 [3] 张宝军，唐崟，芦红超，等．土地利用方式对土壤大团聚体 的影响[J].安徽农业科学,2013,41(12):5306-5308 Zhang B J, Tang Y,Lu H C,et al. Impact of land use types on distribution ofmacro-aggregates[J]. Journal of Anhui Agricultural Sciences,2013,41(12): 5306-5308 [4]刘中良，宇万太．土壤团聚体中有机碳研究进展[J]．中国 生态农业学报,2011,19(2):447-455 Liu Z L,Yu W T. Review of researches on soil aggregate and soil organic carbon[J]. Chinese Journal of Eco-Agriculture, 2011,19(2): 447-455 [5] Six J,Paustian K,Elliot E T, et al. Soil structure and organic matter. I. Distribution of aggregate-size classes and aggregate associated carbon[J]. Soil Science Society of America Journal, 2000,64(2): 681-689 [6] Six J,Conant R T,Paul E A,et al. Stabilization mechanisms of soil organic matter: Implications for C-saturation of soils[J]. Plant and Soil,2002,241(2): 155-176 [7] Blanco-Canqui H,Lal R.Mechanisms of carbon sequestration in soil aggregates[J]. Critical Reviews in Plant Sciences,2004, 23(6): 481-504 [8] Angers D A. Water-stable aggregation of Quebec silty clay soils: Some factors controlling its dynamics[J]. Soil and Tillage Research,1998,47(1/2): 91-96 [9] 邵月红，潘剑君，孙波．不同森林植被下土壤有机碳的分 解特征及碳库研究[J]．水土保持学报,2005,19(3):24-28 Shao Y H, Pan JJ, Sun B. Study on characteristics of soil organic carbon decompositions and carbon pool under different vegetations[J]. Journal of Soil and Water Conservation,2005,19(3): 24-28   \n[10]王俊明，张兴昌．退耕草地演替过程中的碳储量变化[J]. 草业学报,2009,18(1):1-8 Wang J M, Zhang X C.Changes of carbon storage in vegetation and soil during different successional stages of rehabilitated grassland[J].Acta Prataculturae Sinica,2009, 18(1): 1-8   \n[11]杨晶，沈禹颖，南志标，等．保护性耕作对黄土高原玉米- 小麦-大豆轮作系统产量及表层土壤碳管理指数的影响[J]. 草业学报,2010,19(1):75-82 Yang J,Shen Y Y,Nan Z B,et al. Effects of conservation tillage on crop yield and carbon pool management index on top soil within a maize-wheat-soy rotation system in the Loess Plateau[J]. Acta Prataculturae Sinica,2010,19(1): 75-82   \n[12]李晓东，魏龙，张永超，等．土地利用方式对陇中黄土高原 土壤理化性状的影响[J]．草业学报,2009,18(4):103-110 Li X D,Wei L, Zhang Y C,et al. Effects of land use regimes on soil physical and chemical properties in the Longzhong part of Loess Plateau[J].Acta Prataculturae Sinica, 2009, 18(4): 103-110 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13]鲁鸿佩，孙爱华．草田轮作对粮食作物的增产效应[J]．草",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "业科学,2003,20(4):10-13 Lu H P, Sun A H. The effect of grass-crop rotation on crop yield increase[J]. Pratacultural Science,2003,20(4):10-13   \n[14] Yang X M,Kay B D.Rotation and tillage effects on soil organic carbon sequestration in a typic Hapludalf in Southern Ontario[J]. Soil and Tillage Research,2001, 59(3/4): 107-114   \n[15]王晓凌，李凤民．苜蓿草地与苜蓿-作物轮作系统土壤微生 物量与士壤轻组碳氮研究[J]．水土保持学报，2006，20(4): 132-135 Wang X L,Li F M. Soil microbial biomass and soil light fraction C and N among alfalfa grassland,alfalfa-crop rotation system[J]. Journal of Soil and Water Conservation, 2006,20(4): 132-135   \n[16] 山仑，刘忠民，辛业全，等．宁夏山区草田轮作研究——I. 不同轮作方式的生产力及效益[J]．水土保持学报，1992, 6(4): 60-68 Shan L,Liu Z M,Xin YQ,et al.A study on the grass and field crops rotation in mountain region of southern Ningxia 1. The production and benefit of different rotation system[J]. Journal of Soil and Water Conservation,1992,6(4): 60-68   \n[17]王庆锁，张玉发，苏加楷，等．苜蓿-作物轮作研究[J]．生 态农业研究,1999,7(3):35-38 Wang Q S, Zhang YF, Su JK, et al. Review on alfalfa-crop rotations[J].Eco-agriculture Research,1999,7(3): 35-38   \n[18]刘沛松，李军，贾志宽，等．不同草田轮作模式对土壤养分 动态的影响[J]．水土保持通报,2012,32(3):81-85 Liu P S, Li J, Jia $Z \\mathrm { ~ K ~ }$ ,et al. Effect of diferent alfalfa-crop rotation patterns on soil nutrient dynamic[J]. Bulletin of Soil and Water Conservation,2012,32(3):81-85   \n[19] 张国盛，黄高宝，张仁陟，等．种植苜蓿对黄绵土表土理化 性质的影响[J]．草业学报,2003,12(5):88-93 Zhang G S,Huang G B, Zhang R Z,et al. The effects of lucerne on top soil properties of Huangmian soil[J].Acta Prataculturae Sinica, 2003,12(5): 88-93   \n[20] 韩建国，韩永伟，孙铁军，等．农牧交错带退耕还草对土壤 有机质和氮的影响[J]．草业学报,2004,13(4):21-28 Han JG,Han Y W,Sun TJ,etal.Effects of returning cultivated land to herbage on soil organic matter and nitrogen in the agro-pastoral transitional zone of north China[J].Acta Prataculturae Sinica, 2004,13(4): 21-28   \n[21]刘晓宏，郝明德．长期种植苜蓿对土壤氮素营养的作用[J]. 中国生态农业学报,2001,9(2):82-84 Liu X H,Hao M D. Effects of long-term plant Medicago sativa Linn.on soil nitrogen nutrient[J]. Chinese Journal of Eco-Agriculture,2001,9(2): 82-84   \n[22] 刘沛松，贾志宽，李军，等．宁南山区紫花苜蓿(Medicago sativa)土壤干层水分动态及草粮轮作恢复效应[J]．生态学 报,2008,28(1): 183-191 Liu P S,Jia Z K, Li J,et al. Moisture dynamics of soil dry layerand water-restoring effects of alfalfa (Medicago sativa)-grain crop rotation on soil dry layer in alfalfa farmlands in Mountainous Region of Southern Ningxia[J]. Acta Ecologica Sinica,2008,28(1):183-191 257-266 Wang X C,Li J,Hao M D. Simulation of sustainable use of soil water in dry land for alfalfa-grain rotation system at Changwu arid-plateau of China[J]. Transactions of the CSAE, 2011, 27(S1): 257-266   \n[24] 中国科学院南京土壤研究所．土壤理化分析[M]．上海：上 海科技出版社,1978:514-518 Institute of Soil Science,Chinese Academy of Sciences. Soil Physical and Chemical Analyzes[M]. Shanghai: Shanghai Science and Technology Press,1978: 514-518   \n[25] Kemper W D,Rosenau R C. Aggregate stability and size distribution[M]//Klute A.Methods of Soil Analysis.Part 1. Physical and Mineralogical Methods.2nd ed. Madison, Wisconsin: Agron，Monogr. 9. ASA and SSSA，1986: 425-442   \n[26]鲍士旦．土壤农化分析[M]．北京：中国农业出版社，2005: 25-48 Bao SD. Soil and Agricultural Chemistry Analysis[M]. Beijing: Chinese Agriculture Press,20o5: 25-48   \n[27]Pirmoradian N, Sepaskhah A R,Hajabbasi M A.Application of fractal theory to quantify soil aggregate stability as influenced bytilage treatments[J].Biosystems Engineering, 2005,90(2): 227-234   \n[28]黄昌勇．土壤学[M]．北京：中国农业出版社,2000:80-81 Huang C Y. Soil Science[M]. Beijing: Chinese Agriculture Press,2000:80-81   \n[29]许淑青，张仁陟，董博，等．耕作方式对耕层土壤结构性能 及有机碳含量的影响[J]．中国生态农业学报，2009,17(2): 203-208 Xu S Q, Zhang R Z, Dong B,et al. Effect of tillage practices on structural properties and content of organic carbon in tilth soil[J].Chinese Journal of Eco-Agriculture，2009,17(2): 203-208   \n[30]陈山，杨峰，林杉，等．土地利用方式对红壤团聚体稳定性 的影响[J]．水土保持学报,2012,26(5):211-216 Chen S,Yang F,Lin S,et al.Impact of land use patterns on stability of soil aggregates in red soil region of south China[J]. Journal of Soil and Water Conservation,2012,26(5): 211-216   \n[31]窦森，李凯，关松．土壤团聚体中有机质研究进展[J]．土 壤学报,2011,48(2):412-418 Dou S,Li K,Guan S.A review on organic matter in soil aggregates[J]. Acta Pedologica Sinica,2011,48(2): 412-418   \n[32]程曼，朱秋莲，刘雷，等．宁南山区植被恢复对土壤团聚体 水稳定及有机碳粒径分布的影响[J]．生态学报，2013，33 (9): 2835-2844 Cheng M, Zhu Q L,Liu L,et al. Effects of vegetation on soil aggregate stability and organic carbon sequestration in the Ningxia Loess Hilly Region of northwest China[J]. Acta Ecologica Sinica,2013,33(9): 2835-2844   \n[33] 武均，蔡立群，罗珠珠，等．保护性耕作对陇中黄土高原雨 养农田土壤物理性状的影响[J]．水土保持学报,2014,28(2): ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "112-117 Wu J,Cai L Q,Luo Z Z,et al.Effects of conservation tillage on soil physical properties of rainfed field of the Loess Plateau in central of Gansu[J].Journal of Soil and Water Conservation,2014,28(2):112-117   \n[34]武均，蔡立群，齐鹏，等．不同耕作措施下旱作农田土壤团 聚体中有机碳和全氮分布特征[J].中国生态农业学报， 2015,23(3):276-284 Wu J,Cai L Q,Qi P,et al.Distribution characteristics of organic carbon and total nitrogen in dry farmland soil aggregates under different tillage methods in the Loess Plateau of central Gansu Province[J].Chinese Journal of Eco-Agriculture,2015,23(3):276-284   \n[35]Barber S A.The influence of alfalfa,brome grass and corn on soil aggregation and crop yield[J].Soil Sicence Society of America Journal, 1959,23(4):258-259   \n[36]张春霞，郝明德，魏孝荣，等．黑泸土长期轮作培肥土壤有 机质氧化稳定性的研究[J].土壤肥料,2004(3):10-12 Zhang C X,Hao MD,Wei X R,et al.Study of long-term rotation and fertilizations on black loessal soil on the oxidation stability of soil organic matter[J]. Soilsand Fertilizers,2004(3):10-12   \n[37]姜学兵，李运生，欧阳竹，等．免耕对土壤团聚体特征以及 有机碳储量的影响[J]．中国生态农业学报，2012，20(3): 270-278 JiangXB,LiY S,Ouyang Z,et al.Effect of no-tillage on soil aggregate and organic carbon storage[J].Chinese Journal of Eco-Agriculture,2012,20(3):270-278 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

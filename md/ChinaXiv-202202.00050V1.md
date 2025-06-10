@@ -1,0 +1,227 @@
+# Lithic soils in the semi-arid region of Brazil: edaphic characterization and susceptibility to erosion
+
+Carlos R PINHEIRO JUNIOR', Conan A SALVADOR', Tiago R TAVARES², Marcel C ABREU1, Hugo S FAGUNDES1,Wilk S ALMEIDA³, Eduardo C SILVA NETO', Lucia HC ANJOS1,Marcos G PEREIRA1\*
+
+1Federal RuralUniversityof RiodeJaneiro (UFRRJ),DepartmentofSoils,Seropédica,Riode Janeiro2389o,Brazil;   
+2Center forNuclearEnergyinAgriculture (CENA),UniversityofSaoPaulo(USP),Piracicaba,SaoPaulo3416rail;   
+3Federal Instituteofucation,ieneandTechnologofondona(FO),uralZone,riquees,ondonia9ril
+
+Abstract: Soils (Leptosols or Epileptic Regosols) with lithic contact at a depth of $5 0 ~ \mathrm { c m }$ occupy almost $20 \%$ of the Brazilian semi-arid region. These lithic soils are susceptible to erosion due to faster saturation of water-holding capacity during rainfall， which accelerates the beginning of runoff. However, erosion traits of lithic soils in the semi-arid region of Brazil are less studied.The aim of this study was to characterize the soil and landscape atributes in areas with Neossolos Litolicos (Entisols) in the Caatinga biome to identify region of high susceptibility to erosion.Results showed that the soils were characterized by a sandy texture,soil structure with poor development and low content of organic carbon. These attributes increase susceptibility to erosion and reduce water storage capacity, especially in the states of Ceara and Sergipe. In these states,the content of rock fragments in the soil reaches $7 9 0 ~ \mathrm { g / k g } .$ High contents of silt and fine sand,high silt/clayratio,predominance of Leptosols and strong rainfall erosivity were observed in Piaui and northwestern Ceara.A very high degree of water erosion was observed in the states of Pernambuco and Paraiba.Despite the low degree of erosion observed in the state of Bahia,it is highly susceptible to erosion due to the predominance of very shallow soils,rugged relief and high values of rainfall erosivity. Lower Vulnerability was observed in the state of Alagoas because of its more smoothed relief,greater ffective soil depth,thicker A horizon of soil and lower rainfall erosivity. In general,the characteristics that intensify the susceptibility to erosion in the Caatinga biome are those soil structures with poor development or without aggregation,low contents of organic carbon, high contents of silt and fine sand,high values of silt/clay ratio and rugged relief in some regions.This studycollected information contributing to a beter characterization of soils with lithic contact in the semi-arid region of Brazil.In addition,regions with a higher susceptibility to erosion were identified,revealing insights that could help develop strategies for environmental risk mitigation.
+
+Keywords: Caatinga biome; drylands; erosive processes; leptosols; soil degradation
+
+Citation:Carlos R PINHEIRO JUNIOR,Conan A SALVADOR，Tiago R TAVARES，Marcel C ABREU，Hugo S FAGUNDES,Wilk S ALMEIDA,Eduardo C SILVA NETO,Lucia HC ANJOS,Marcos GPEREIRA.2022.Lithic soils in thesemi-aridregionof Brazil:edaphiccharacterizationand susceptibility toerosion.JournalofAridLand,14(1):56-69. https://doi.0rg/10.1007/s40333-022-0002-3
+
+# 1 Introduction
+
+The arid, semi-arid and dry sub-humid regions of the world, commonly referred to as drylands, occupy an area of $6 7 { \times } 1 0 ^ { 6 } ~ \mathrm { k m } ^ { 2 }$ ， accounting for approximately $4 5 . 4 \%$ of the world's total area (Pravalie, 2016). In Brazil, drylands cover approximately $9 7 { \times } 1 0 ^ { 4 } \ \mathrm { k m } ^ { 2 }$ of the national territory (Lapola et al.,2O14),and are mainly concentrated in the northeastern region of the country and in the northern state of Minas Gerais (IBGE,2O17). This area covers 1269 municipalities with a population of approximately $2 6 \times 1 0 ^ { 6 }$ people. Therefore,it is the most populous semi-arid region in the world (IBGE,2011; SUDENE, 2017).
+
+The native vegetation of the Caatinga biome is classified as savanna-steppe (IBGE,2012), which is characterized by great floristic and physiognomic spatial variability， with a predominance of shrubby，woody， shrub-tree species and xerophilous species (Andrade-Lima, 1981; Araujo et al., 2Oo7). Caatinga vegetation is part of the global biome called seasonally dry tropical forests and shrubs,and is biodiversity-rich, with approximately 315O catalogued species, of which $23 \%$ are endemic (Queiroz et al.,2O17). Due to the long period of water deficit in the Caatinga, its sparse vegetation cover provides poor soil surface protection. Such vegetation cover along with low soil organic mater,and short duration and high-intensity rainfall make some areas highly susceptible to water erosion.
+
+Caatinga is occupied by the soils with low pedogenetic development and mostly $( 1 9 . 2 \% )$ （204 present lithic contact in the first $5 0 \ \mathrm { c m }$ depth from the surface (Araujo Filho et al.，2017), classified as Neossolos Litólicos according to the Brazilian Soil Classification System (Santos et al.,2018). According to the World Reference Base (WRB） for soil resources (IUSS Working Group WRB, 2O15), researchers classified these soils as Leptosols when the rock occurs in the first $2 5 \ \mathrm { c m }$ depth from the surface, or as Epileptic Regosols when the contact occurs between 25 and $5 0 ~ \mathrm { c m }$ depths. These shallow soils have important constraints that promote the action of erosive processes, such as (i) natural impediment to root growth (i.e., due to the parent rock's physical barrier)，which hinders vegetation development (Kosmas et al., 2OOO)； and (ii) faster saturation of water-holding capacity during rainfall, which accelerates the beginning of runoff (Pedron et al.,2011).
+
+In addition to the sparse vegetation cover and predominance of shallow soils,other common soil attributes that make these environments further vulnerable to degradation are high contents of silt and fine sand $( { \mathrm { S } } { \mathrm { + F } } { \mathrm { S } } )$ , high silt/clay ratio (S/C ratio),and low stability of soil aggregates (Vaezi et al.，2008，2017；Ribeiro et al.，2009；Cant6n et al.， 2011).Furthermore,different combinations of topographic characteristics (Quan et al., 2O2O) and rainfall erosivity (Mello et al., 2013; Oliveira et al.,2013; Almagro et al.,2017) can also contribute to increased erosion rates.To the best of our knowledge,there is no research in the literature,which provides comprehensive spatial information on lithic soils,rainfall erosivity and landscape features to characterize the susceptibility to erosion in the Caatinga biome.
+
+Given the high vulnerability of the Caatinga biome,the objective of this study was to spatially characterize the information related to landscape and soil (morphological, physical and chemical) attributes of Neossolos Litolicos within the Caatinga biome and to identify areas with a high susceptibility to erosion.
+
+# 2 Materials and methods
+
+# 2.1 Dataset
+
+We created the dataset based on bibliographical research on exploratory soil surveys conducted in the states of Ceará (CE),Rio Grande do Norte (RN), Paraiba (PB), Pernambuco (PE), Piaui (PI), Maranhao (MA),Alagoas (AL), Sergipe (SE), Bahia (BA),and in the northern state of Minas Gerais (MG) (Jacomine et al.,1971,1972a,b,1975a,b,1976,1979a,b; Jacomine,1973;1986a, b).We selected 95 soil profiles within the Caatinga biome (Fig.1),all classified as Neossolos Litolicos (Santos et al.,2O18). These profiles,besides having lithic contact in the first $5 0 ~ \mathrm { c m }$ depth from the surface, show the absence of a subsurface diagnostic horizon, i.e., with a sequence of A-R or A-C-R horizon.
+
+For all the soil profiles studied, landscape information,morphological descriptions,particlesize attributes and chemical attributes were obtained from the abovementioned soil survey (Table
+
+1). Soil attributes were evaluated in horizons A and C of each profile (C horizon was not always present). In addition,each horizon was considered as a whole; in other words, no specific depths were evaluated and interpolation methods were not applied. Subsequently，we clasified the profiles according to the WRB (IUSS Working Group WRB,2015).
+
+![](images/b9bebd57b8115d40768dfa6e9490e6bd649290e4bb3b065cb79b2f5862ad30da.jpg)  
+Fig.1Soil samples (a)and profile distribution (b and c)of Neossolos Lit6licos in the Catinga biome. CE, Ceara; RN,Rio Grande do Norte;PB,Paraiba; PE,Pernambuco; PI,Piaui; MA,Maranhao;AL,Alagoas; SE, Sergipe; BA, Bahia; MG, Minas Gerais.
+
+# 2.2 Spatial distribution of soil attributes
+
+Spatial information on rainfall erosivity in the northeast region of Brazil was compiled from Almagro et al. (2O17). These rainfallerosivity data were the most recent and complete estimations available for the Brazilian states. Almagro et al. (2Ol7) used a gridded rainfall dataset with $0 . 2 5 ^ { \circ } { \times } 0 . 2 5 ^ { \circ }$ spatial resolution and 1-month temporal resolution based on observed rainfall data of approximately 40oO rain gauges, provided by different Brazilian databases from 198O to 2013. This rainfall erosivity estimation achieved a coefficient of determination $( R ^ { 2 } )$ and root mean squared error (RMSE) of O.91 and $2 . 3 5 \ \mathrm { M J \cdot m m / ( h m ^ { 2 } \cdot h \cdot a ) }$ ,respectively.Details of the methods are described by Almagro et al. (2017).
+
+Water erosion,local relief, thickness of A horizon,soil depth,soil structure,chemical properties and physical properties of each soil profile were overlaid with the spatial information of rainfall erosivity for descriptive analyses.Physical (rock fragment (RF), $_ \mathrm { S + F S }$ ，S/C ratio and coarse sand/fine sand ratio (CS/FS ratio)）and chemical attributes $\mathrm { ( p H - H } _ { 2 } \mathrm { O }$ ，base saturation (V), exchangeable sodium percentage (ESP),and total organic carbon (TOC)) of A horizon were also spatialized for further descriptive assessments.
+
+Table1Landscape attributes,morphology, particle-size attributes and chemical attributes of the soils   
+
+<html><body><table><tr><td>Landscape attribute and morphology</td><td>Particle-size attribute</td><td>Chemical attribute</td></tr><tr><td>Degree of erosion*</td><td>RF (rock fragment; >2 mm, g/kg)</td><td>pH (HO and KCI)</td></tr><tr><td>Local relief class</td><td>ADFE (air-dried fine earth,g/kg)</td><td>△pH (pH KCl-pHHO)</td></tr><tr><td>Thickness of surface horizon (cm)</td><td>Total sand (coarse and fine,g/kg)</td><td>S (sum of bases (Ca²++Mg²++K+ Na+, cmol/kg)</td></tr><tr><td>Degree of structure development</td><td>Silt (g/kg)</td><td>T effctiecogcacity</td></tr><tr><td>Effective soil depth (cm)</td><td>Clay (g/kg)</td><td>V (base saturation (S/T)x100%)</td></tr><tr><td rowspan="5"></td><td>S+FS (sum of silt and fine sand, g/kg)</td><td>ESP (exchangeable sodium percentage (Na+/T)x100%)</td></tr><tr><td>S/C ratio (silt/clay ratio,dimensionless)</td><td>TOC (total organic carbon,g/kg)</td></tr><tr><td>Coarse sand/fine sand ratio</td><td>TN (total nitrogen, g/kg)</td></tr><tr><td>(dimensionless)</td><td></td></tr><tr><td></td><td>C/N ratio (dimensionless)</td></tr></table></body></html>
+
+Note:",rangingfromslighttoseverebasedonquantitativeandqualitativefieldasessentsand evidenceofremovalof thesurface norizon and loss of biological activity.
+
+# 2.3 Statistical analysis
+
+We used box plot to summarize the distribution of particle size and chemical atributes and provided the mean values and standard deviations of these attributes.
+
+We used cluster analysis to identify groups of similar soil physical characteristics. We considered the physical characteristics of A horizon (RF, air-dried fine earth (ADFE), total sand, coarse sand, fine sand,clay,silt, $\mathrm { \Phi _ { \mathbf { S } + \mathbf { F } \mathbf { S } } }$ ，S/C ratio and CS/FS ratio） for the analysis. Cluster analysis uses Euclidean distance (Eq. 1) as a measure of dissimilarity and Ward's hierarchical technique (Ward，1963） to form groups. This is a widely used strategy for grouping soil characteristics and attributes (Bhering et al., 2O17; Chaves et al.,2O17; Arcoverde et al., 2019; Santos et al., 2020).
+
+$$
+\exp = \left[ \sum _ { j = 1 } ^ { n } ( \nu _ { p , j } - \nu _ { k , j } ) \right] ^ { 0 . 5 } ,
+$$
+
+where eD is the Euclidean distance (dimensionless),and $\nu _ { p }$ and $\nu _ { k }$ are the variable quantitative characteristics of the cooperatives $p$ and $k$ ,respectively, of the $j ^ { \mathrm { t h } }$ data observed.
+
+Ward's method is based on the sum of squares between the groups and the sum of squares of the elements within each group, with the aim of obtaining the greatest similarity within groups and the greatest dissimilarity between different groups formed in each stage of clustering. Thereafter, cluster analysis was effective in distinguishing four similar groups according to pre-established criteria.
+
+# 3 Results
+
+# 3.1 Rainfall erosivity,landscape attributes and soil morphology
+
+Figure 2 shows the spatial distribution of rainfall erosivity within the Caatinga biome and compares it with the landscape attributes and soil morphology of Neossolo Litolicos profiles. In general, there was moderate erosivity with a predominance of values ${ \leq } 4 0 0 0 \ \mathrm { M J cdot m i n } / ( \mathrm { h m } ^ { 2 } { \cdot } \mathrm { h } { \cdot } \mathrm { a } )$ (bluish-green hues）(Fig. 2a). In regions with yellowish-green hues,erosivity varied between moderate and strong $( \breve { \geq } 8 0 0 0 \ : \mathrm { ~ M J } . \mathrm { m m } / ( \mathrm { h m } ^ { 2 } . \mathrm { h } . \mathrm { a } ) )$ ，which highlights the strong classes observed mainly in the coastal region of the northwestern CE and in most of PI. The lowest values of erosivity $( \leq 2 0 0 0 \ \mathrm { M J \cdot m m } ^ { } / ( \mathrm { h m } ^ { 2 } \mathrm { \cdot h \cdot a } )$ ，represented by stronger blue hues） were observed in the central region of RN,PB and PE.In contrast, in the southwestern region of BA and in the northern region of MG, PI and MA,erosivity was classified as strong or very strong $( \geq 1 0 , 0 0 0$ $\bf { M J } \cdot \mathrm { { m m } / ( \mathrm { { h m } ^ { 2 } \cdot \mathrm { { h } \cdot a } ) } } ,$ . Neossolos Lit6licos was studied under several topographic conditions and distributed across diferent relief classes (Fig.2c). However, in BA,RN,PB,PE and north of the MG, there was a predominance of more rugged reliefs, including the classes of wavy and strong wavy relief. Additionally, the most advanced degrees of water erosion (ranging from moderate to severe）(Fig.2b） were observed in BA,PE,RN,CE and in the central region of BA,which indicates an intense removal of the surface horizon and highly degraded biological function.
+
+Regarding morphological attributes,despite the great variability among the classes of the A-horizon thickness,it was possible to verify the predominance of horizons with thicknesses between 10 and $2 0 ~ \mathrm { c m }$ depths (Fig. 2d).Additionally,most of the soil profiles had an effective depth of $< 3 4 ~ \mathrm { c m }$ (Fig.2e) and the shallowest soils were observed mainly in PI, RN and BA and to a lower extent in CE,PE and SE.Most surface horizons had structures with weakly developed aggregates (Fig. 2f), followed by those without aggregation.
+
+![](images/9e2b414a66d432b4826eee1ea2e115550c8b279beac2d77536c3d3dc89f0e9d0.jpg)  
+Fig.2Rainfall erosivity(a),landscape atributes (band c)and soil morphologies (d-f)of Neossolos Litolicos in the Caatinga biome
+
+# 3.2Spatial distribution of particle-size attributes
+
+In general,a similar pattern of particle-size attributes was observed in the surface and subsurface horizons of the studied soil profiles (Figs.3 and 4).The average values of ADFE and RF were close to 750.00 and $2 5 0 . 0 0 ~ \mathrm { g / k g }$ ，respectively. The greatest variability in RF values occurred in the third and fourth quartiles,especially in the surface horizons.Figure 5 showed the spatial distribution of particle-size atributes of A horizon.In these horizons,the highest content of RF value (reaching a maximum of $7 9 0 . 0 0 \ \mathrm { g / k g ) }$ was observed in the central regions of CE and SE and in some regions of PB, PI and BA (Fig. 5a).
+
+![](images/71183060ac71a6835529b9015c39edcf3f6acb04e7589de03e42c624253c8ecf.jpg)  
+Fig.3Box plot of particle-size attributes (aandb)ofAhorizon of Neossolos Litolicos inthe Caatinga biome.S, silt;FS,fine sand; S/C,silt/clay; CS/FS,coarse sand/fine sand.
+
+![](images/6271cc27656bce5e309c0350c3d4ab51b6b3658abb7baf9d8dd83d9cd39a81d0.jpg)  
+Fig.4Box plot of particle-size attributes (aandb)ofChorizon of Neossolos Litolicos in the Caatinga biome.S, silt; FS,fine sand; S/C,silt/clay; CS/FS,coarse sand/fine sand.
+
+The average clay contents were 166.OO and $1 9 3 . 0 0 ~ \mathrm { g / k g }$ and the average silt contents were 254.00 and $3 4 7 . 0 0 ~ \mathrm { g / k g }$ in A and C horizons, respectively. These features result in high values of S/C ratio, especially in CE,east of PE and north of PI, where the value can reach 6.25 (Fig. 5b). The total sand contents observed in the Aand C horizons had high variance and mean values of 579.00 and $4 6 0 . 0 0 ~ \mathrm { g / k g }$ ,respectively (Figs.3 and 4). However, we observed a predominance of sandy loam textural class,followed by the loam class in both horizons (Fig.6).The coarse sand content in the surface horizons was slightly higher than that of fine sand,resulting in a CS/FS ratio of ${ \le } 1 . 2$ (Fig. 5d). In contrast, two exceptions with values above 3.2 were observed in BA.
+
+$_ \mathrm { S + F S }$ content,an important characteristic evaluated in erosion studies,had an average of 542.00 and $5 6 1 . 0 0 ~ \mathrm { g / k g }$ in A and C horizons,respectively. However,a large number of horizons with values above $6 4 0 . 0 0 \ \mathrm { g / k g }$ were observed, especially in SE,PI and CE (Fig.5b).
+
+Figure 7 shows the dendrogram of Euclidean distances and the four groups based on Ward's method.Table 2 shows the average and standard deviation of physical attributes of each group. Despite the high standard deviation, important relationships among physical attributes of A horizon can be observed from the mean values of groups. In general, the highest average RF $( 2 7 3 . 1 6 ~ \mathrm { g / k g ) }$ ， the highest total sand content $\left( 6 1 7 . 3 7 ~ \mathrm { g / k g } \right)$ ，and lower clay content $( 1 2 9 . 4 7 ~ \mathrm { g / k g ) }$ were observed in group 3. Groups 2 and 4 had the highest silt contents (288.22 and $2 8 3 . 7 5 ~ \mathrm { g / k g }$ respectively),the highest $_ { \mathrm { S + F S } }$ contents (566.47 and $5 4 5 . 6 3 ~ \mathrm { g / k g }$ ,respectively),and the highest $\mathrm { { } } S / \bar { \mathrm { { C } } }$ ratios (2.42 and 2.23,respectively), while the lowest values of these atributes were observed in group 1.
+
+# 3.3Spatial distribution of chemical attributes
+
+In general, chemical atributes of studied soils did not cause impediments to plant development and prevailing eutrophic character $( \mathrm { V } { > } 5 0 \% )$ . The mean values of $\mathrm { p H }$ were 5.8 and 5.5 in A and C horizons, respectively,and the soils were predominantly eutrophic, despite the great variability of
+
+V values (Figs. 8 and 9).BA had the lowest value of V $( < 2 0 \% )$ ，which can be attributed to its acidic soil character $\mathrm { ( p H } { < } 5 . 0$ ; Fig.1Oa and b). In general, the values of $\mathrm { A l } ^ { 3 + }$ $\boldsymbol { \mathrm { H } } ^ { + }$ and ESP were low (Figs. 8 and 9). Despite the large variance and high values of ESP observed in certain localities (Fig.1Oc),with the average being only $2 \%$ ：
+
+![](images/978a3715f7d5570eec10028dd6abc194a0a1cf7be29daba62371a55479dc52f6.jpg)  
+Fig.5Spatial distribution of particle-size atributes of A horizon of Neossolos Litolicos in the Caatinga biome (a),rock fragment;(b), silt $^ +$ fine sand (FS);(c),S/C,silt/clay;(d),CS/FS,coarse sand/fine sand.   
+Fig.6Textural class of A and C horizons of Neossolos Litolicos in the Caatinga biome
+
+。 A horizon 0 o C horizon 900 10 800 0 0 0 t(g/kg) Clay 00 ycontent( 500 O 500 Silt content (g/kg) 9 O Silty Clay Sand 6 。 clay 600 clay Clayloa Silty clayo 300 Sandyctay 0 % oam 00 loam % O 66° 8 O O。 080 200 0 。 8 Loamo 8 100 3 o ® 888 g D 8 0 ① d O 8 O O 80 Silt 6 。 0 Safdo 。 0 Sandy loam Silt 0 oo LoamyS sand loam 900 800 700 600 500 400 300 200 100 0 Sand content (g/kg)
+
+![](images/9f6e97759216a80728a6b1abda075b9dc57075499669fa9ba937696516e88090.jpg)  
+Fig.7Dendrogram plotby the hierarchicalanalysis of clusters based on soil physical atributes ofAhorizonof Neossolos Litólicos in the Caatinga biome
+
+Table2Average and standard derivation (SD)of physical atributes of the surface horizons of Neossolos Litolicos for each group formed in the cluster analysis and for all surface horizons   
+
+<html><body><table><tr><td>Physical attribute</td><td>Group 1</td><td>Group 2</td><td>Group 3</td><td>Group 4</td><td>Allsurface</td></tr><tr><td>Rock fragment (g/kg)</td><td>221.03±200.18</td><td>215.29±174.72</td><td>273.16±215.90</td><td>200.63±153.69</td><td>225.75±192.78</td></tr><tr><td>Air-dried fine earth (g/kg)</td><td>778.97±200.18</td><td>784.71±174.72</td><td>726.84±215.90</td><td>799.38±153.69</td><td>774.25±192.78</td></tr><tr><td>Total sand (g/kg)</td><td>580.44±202.06</td><td>575.88±160.28</td><td>617.37±159.79</td><td>531.25±234.83</td><td>579.08±194.42</td></tr><tr><td>Coarse sand (g/kg)</td><td>283.97±169.74</td><td>298.24±160.17</td><td>331.05±112.05</td><td>269.38±167.99</td><td>291.50±159.63</td></tr><tr><td>Fine sand (g/kg)</td><td>296.47±123.99</td><td>277.65±106.04</td><td>286.32±93.58</td><td>261.88±116.29</td><td>287.58±115.52</td></tr><tr><td>Clay (g/kg)</td><td>180.15±110.28</td><td>135.29±62.66</td><td>129.47±58.35</td><td>185.00±141.23</td><td>166.42±104.48</td></tr><tr><td>Silt (g/kg)</td><td>239.41±127.28</td><td>288.82±119.26</td><td>253.16±108.83</td><td>283.75±174.20</td><td>254.50±130.63</td></tr><tr><td>S+FS (g/kg)</td><td>535.88±129.40</td><td>566.47±146.71</td><td>539.47±77.78</td><td>545.63±162.52</td><td>542.08±129.13</td></tr><tr><td>S/C ratio</td><td>1.64±0.86</td><td>2.42±0.98</td><td>2.03±0.51</td><td>2.23±1.56</td><td>1.89±0.99</td></tr><tr><td>CS/FS ratio</td><td>1.11±0.75</td><td>1.30±0.97</td><td>1.23±0.49</td><td>1.16±0.76</td><td>1.16±0.74</td></tr></table></body></html>
+
+Note:S,silt;FS,fine sand; S/C,silt/clay;CS/FS,coarse sand/fine sand.Mean±SD
+
+TOC content in A horizon was low (Fig. 8c)，with an average of $1 1 . 2 0 ~ \mathrm { g / k g }$ ，Despite the variability observed in the TOC data, the median was $9 . 0 0 \ \mathrm { g / k g }$ , which explains the predominance of soils with the TOC content lower than $1 0 . 0 0 ~ \mathrm { g / k g }$ ，particularly in CE,RN,AL and PB(Fig. 10d).
+
+![](images/629a69d31832ee06d07a793ef56a13af005119c157b513a2de3334f613175935.jpg)  
+Fig.8Box plot of chemical atributes of A horizon of Neossolos Litolicos in the Caatinga biome.△pH $\mathrm { \Gamma = p H - K C l - p H - H _ { 2 } O ; }$ S,sum of bases; T, effective cation exchange capacity; TOC,total organic carbon; TN, total nitrogen; V, base saturation; ESP, exchangeable sodium percentage.
+
+![](images/509e7d814098919521d0ab547f44fc4f928f9a85c6524752bfe83c5be0b88103.jpg)  
+Fig.9Box plot of chemical atributes of C horizon of Neossolos Litolicos in the Caatinga biome.△pH $\mathrm { \Gamma = p H - K C l - p H - H _ { 2 } O ; }$ S,sum of bases; T, effective cation exchange capacity; TOC, total organic carbon; TN, total nitrogen; V, base saturation; ESP, exchangeable sodium percentage.
+
+![](images/37038546507f94cea22bfaedda70264ece2ce847b5bc736fe6ea497d8600f9d3.jpg)  
+Fig.10Spatial distributionof chemical atributes ofAhorizon of Neossolos Litolicos in the Catinga biome. (a),pH- $\mathrm { H } _ { 2 } \mathrm { O }$ ; (b),V,base saturation; (c),ESP,exchangeable sodium percentage;(d),SOC,soil organic carbon.
+
+# 3.4 Soil classification
+
+Regarding the classification of studied profiles,according to the WRB (IUSS Working Group WRB, 2O15), there was a predominance of Leptosols, which had smaller effective depths in BA, PI and RN (Fig. 11). In contrast, Epileptic Regosols occurred more frequently in PB and AL. In other states,both soil groups had similar proportions.
+
+![](images/07c1dc97aad604c9839060a158e94d681621184d34feda2496bf773f8c84e824.jpg)  
+Fig.11Soil classification result according to World Reference Base for soil resources
+
+# 4Discussion
+
+The small effective depth that restricts the circulation of water in the first centimeters of the profile is probably the main factor contributing to erosive processes in Neossolos Litolicos. In addition,our results show that several other factors can intensify the action of erosive processes in these soils of the Caatinga biome. We discuss the development of soil structure, particle-size attributes (RF, $_ \mathrm { S + F S }$ and S/C ratio), topographic attributes,thickness of surface horizon, effective soil depth and rainfall erosivity in different Brazilian states.
+
+The predominance of poorly developed or apedic soil structures (as observed in the present study）makes soils more susceptible to the action of erosive processes because of their low stability (Rabot et al.,2O18). Several factors may contribute to this low structural stability. An important factor is the low number of cementing agents，which is reflected in (i） the predominance of sandy loam texture; and (ij the reduced content of organic carbon (Six et al., 2002; Wachendorf et al.,2O14; Vaezi et al.,2O18).Factors related to deforestation should also be considered.Pinheiro Junior et al.(2O19) studied the effects of deforestation on the morphology of sandy soils in the Caatinga biome and found significant effects of land use change on this attribute. In semi-arid regions,low aggregate stability is considered one of the main factors responsible for the high soil erodibility (Vaezi et al., 2OO8,2017).
+
+In addition to the greater susceptibility to erosion, the lower structural stability results in a lower water-holding capacity because of the small amount of intra-aggregate pores (Pachepsky and Rawls, 2OO3; Rabot et al.,2O18). This characteristic,combined with the sandy texture, small effective depth and climatic conditions of the region itself, intensifies the water deficit, making vegetation establishment even more diffcult. In addition,the large amount of RF, observed especially in CE and SE,contributes even more to reducing the water-holding capacity. Cluster analysis showed that soil profiles with the highest amount of RF also had higher total sand
+
+content and lower clay content.
+
+$_ \mathrm { S + F S }$ content, which contributes to high erodibility, was high in PI, northwestern CE and some regions of SE. Several studies have indicated that particle-size characteristic is a key factor in the evaluation of soil erodibility (Dimoyiannis et al.，1998；Fraser，1999；Parysow et al.,2003; Pérez-Rodriguez et al.， 2OO7； Vaezi et al.，2O16). These studies reported a strong correlation $( r { > } 0 . 9 0 )$ between erodibility and $_ \mathrm { S + F S }$ content (Duiker et al.,2OO1). Soils with high values of $_ { \mathrm { { S + F S } } }$ have aggregates with a low structural stability (Mbagwu et al., 1993; Miqueloni and Bueno, 2011), which contributes to a greater susceptibility to erosion. Additionally, these particles were the first to be eroded during intense rain (Quan et al.,2O2O).This is particularly relevant in PI and northwestern CE,which have high values of rainfall erosivity and a predominance of shallower soils (Leptosols). In these regions,the high values of S/C ratio,often observed in desertification hotspots in the Caatinga biome (Ribeiro et al.,2OO9), hinders the formation of stable and larger aggregates (Vaezi et al., 2O18). According to the cluster analysis,soils with higher silt contents also have higher $_ \mathrm { S + F S }$ content and S/C ratio (with an average value greater than 2.O),which contributes to the greater susceptibility to erosion.
+
+The higher occurrence of Leptosols (shallower soils) in PE,RN,BA and some regions of SE is associated with a more rugged topography. Ruggedness intensifies the removal of material, conditioning the soil to a constant rejuvenation process (Valtera et al.， 2O15; Lybrand and Rasmussen,2O18). In these states,the advanced degree of erosion seems to be directly related to topographic atributes,as observed in the semi-arid regions of Spain (Cantón et al.,2O11) and Iran (Moghadam et al., 2O15). In the western PB,despite the predominance of smooth wavy relief, the variation in the degree of erosion from moderate to severe may be associated with changes in land use (Cantón et al., 2O11),as well as the smaler thickness of A horizon (Pinheiro Junior et al., 2019) observed in the states of PE and RN.
+
+In BA,despite the predominance of factors that facilitate erosion (wavy, strong wavy relief and Leptosols),there are many sites with a lower degree of erosion (slight to moderate). This is perhaps due to the relative humidity in BA. Although there is a predominance of sparse vegetation cover in the Caatinga biome,some slightly wetter areas favor the formation of dry forests with a denser cover (Moro et al., 2O16; Oliveira et al., 2019). In these areas,soil is more protected against the direct impact of rainfall, reducing the degree of erosion, even in areas with steep slopes.Hence, dry forest cover could be responsible for the lower degree of erosion in BA. However, it should be noted that BA and northern MG had the highest rainfall erosivity and high susceptibility to soil erosion. All these factors highlight the significance of environmental risk-mitigation strategies in this region. Because of the high vulnerability of these environments, anthropogenic activities, such as land use changes and soil management,can intensify soil erosion (Wei et al., 2007; Vasquez-Mendez et al.,2011; Moghadam et al.，2015; Oliveira Filho et al., 2019). Nevertheless, the dynamics of erosive processes depend on complex interactions among various factors such as rainfall, soil, vegetation, topography and hydrological processes (Ludwig et al., 2005; Moghadam et al., 2015).
+
+On the other extreme,a lower vulnerability was observed in AL, owing to a combination of factors that reduce susceptibility to erosion,such as (i) predominance of more smoothed relief; (ii) soils with a greater effective depth (Epileptic Regosols); (ii) thicker A horizon (ranging between 20 and $4 0 \mathrm { c m }$ depths); and (iv) a lower rainfall erosivity.
+
+# 5 Conclusions
+
+This study helped in the better characterization of soils with lithic contact in the semi-arid regions of Brazil. In addition, we identified regions with a higher susceptibility to erosion and the factors that interfere with this process.
+
+The characteristics that intensify the susceptibility to erosion in the Caatinga biome are soil structure with poor development or without aggregation,low content of organic carbon, high content of silt and fine sand, high silt/clay ratio and rugged relief in some regions.In particular, in
+
+PI and the northwestern region of CE, the susceptibility to erosion was intensified by a combination of high values of silt and fine sand, high silt/clay ratio,high rainfall erosivity and a predominance of Leptosols. In PE and PB,an extremely advanced degree of water erosion occurred.
+
+In BA,although many factors contributed to its high susceptibility to erosion,a low degree of water erosion was observed, which could be associated with the denser vegetation cover in this area.Future research evaluating the change in land use and vegetation cover indices in the Caatinga biome is important to broaden our understanding of the erosive processes in Neossolos Lit6licos, as well as the management strategies that can mitigate or intensify this process. Finally, this study provides insights that can help different stakeholders (e.g.，consultants,researchers, public and private companies and policymakers） in the region to identify opportunities for developing environmental risk mitigation strategies.
+
+# Acknowledgements
+
+This study was funded in part by the Coordination for the Improvement of Higher Education Personnel,Brazil (CAPES;Finance code O01)and by the Carlos Chagas Filho Foundation for Supporting Research in the State of Rio de Janeiro,FAPERJ. Tiago R TAVARES was funded by the Sao Paulo Research Foundation (FAPESP; 2020/16670-9).
+
+# References
+
+AlmagroA,OliveiraPTS,Nearing MA,etal.2O17.Projected climatechange impacts inrainfall erosivityover Brazil. Scientific Reports,7: 8130,doi: 10.1038/s41598-017-08298-y.   
+Andrade-Lima D.1981. The Caatinga dominium.Brazilian Botanical Journal,4:149-163.   
+AraujoEL,CastroCC,de AlbuquerqueUP.2Oo7.Dynamicsof Brazilian Catinga reviewconcermingthe plants,environment and people.Functional Ecosystems & Communities,1:15-29.   
+AraujoFilhoJC,RibeiroMR,Burgos N,etal.2017.Soils of the Caatinga.In:Curi N,KerJC,NovaisRF,etal. Pedology-Soils of the Brazilian Biomes.Vicosa: SBCS,227-260.(in Portuguese)   
+ArcoverdeSN,CortezJW,Olszevski N,etal.2019.Multivariate analysisof chemical andphysicalatributesof quartzipsamments under different agricultural uses. Engenharia Agricola,39(4): 457-465.   
+BheringAS,CarmoMGF,MatosTS,2O17.Soilfactors relatedtothe severityofclubrootinRiodeJaneiro,Brazil.Plant Disease,101(8):1345-1353.   
+Bouyoucos GJ.1935.Theclayratioasacriterionof susceptibilityof soils toerosion.Journal of American Societyof Agronomy,27: 738-741.   
+Cantón Y,Solé-BenetA,deVenteJ,etal.20l1.Areviewofrunoff generationandsoilerosionacrossscalesinsemiarid south-eastern Spain.Journal of Arid Environments,75(12): 1254-1261.   
+Chaves HML,Lozada CMC,GasparRO.2017.Soil quality index ofanOxisolunder different land uses in the Brazilian savannah. Geoderma Regional,10:183-190.   
+Corelis W M.2006.Hydroclimatologyof wind erosion inarid and semiarid environments.Chapter9.In:DOdorico, Porporato A.Dryland Ecohydrology.Netherlands:Springer,141-159.   
+DimoyiannisDGTsadials CD，ValmisS.1998.Factorsaffectingagregateinstabilityof Greek agriculturesoils. Communications in Soil Science and Plant Analysis,29:1239-1251.   
+DuikerSW,FlanaganDC,LalR.2Ool.Erodibilityand infiltrationcharacteristicsoffive majorsoilsof southwest Spain. CATENA,45: 103-121.   
+FraserRH.1999Sedmod:aGIS-based delivery model for diffuse source polltants.PhDDissertation.New Haven:Yale University.   
+IBGE(BrazilianInstituteof GeographyandStatistics)．2011．DemographicCensus2010．[2021-03-21]. https://biblioteca.ibge.gov.br/visualizacao/periodicos/93/cd_2o10_caracteristicas_populacao_domicilios.pdf.   
+IBGE (Brazilian Institute of Geography and Statistics).2O12.Technical Manual of Brazilian Vegetation $2 ^ { \mathrm { n d } }$ ed.).Rio de Janeiro: IBGE,60-62.(in Portuguese)   
+IBGE(Brazilian Instituteof Geographyand Statistics).2O17.OrganizationoftheTitory-Brazilian Semi-arid.[2O21-03-21]. https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estruturateritorial/15974-semiarido-brasileiro.html $\wr =$ &t=aces so-ao-produto.   
+IUSS Working Group WRB(World Reference Base).2015.World Reference Base for Soil Resources 2014,update 2015 International soilclasification systemfornaming soilsandcreating legends forsoilmaps.In:WorldSoilResourcesReports No.106.Rome, Italy. Norte.Recife: EMBRAPA-CPP,531.(in Portuguese)   
+JacominePKT,RibeiroMR,MontenegroJO,etal.1972a.ExploratorySurvey-SoilReconnaissanceof the StateofParaiba. Rio de Janeiro: Pedology and Soil Fertility Team,67O.(in Portuguese)   
+Jacomine PKT,Cavalcanti AC,Burgos N,etal.1972b.Exploratory Survey-SoilReconnaissanceof theStateof Prambuco. Recife:EMBRAPA-SNLCS/SUDENE-DRN,354.(in Portuguese)   
+JacominePKT.1973.Exploratory Survey-Soil Reconnaissanceof the State of Ceara.Recife: SUDENE-DRN; Brasilia: MAPedological Research Division, 5O2.(in Portuguese)   
+Jacomine PKT,Cavalcanti AC,Silveira CO,etal.1975a.Exploratory Survey-SoilReconnaissance ofthe Stateof Alagoas. Recife: EMBRAPA-CPP, 532. (in Portuguese)   
+JacominePKT,MontenegroJO,Ribeiro MR,etal.1975b.ExploratorySurvey-ReconnaissanceofSoilsofthe Stateof Sergipe.Recife: EMBRAPA-CPP, 506.(in Portuguese)   
+JacominePKT,Cavalcanti AC,Ribeiro MR,etal.1976.Exploratory Survey-ReconnaissnceofSoilson theLeft Bank of the Sao Francisco River in the State of Bahia. Recife: EMBRAPA-SNLCS/SUDENE-DRN,404. (in Portuguese)   
+JacominePKT,Cavalcanti AC,SilvaFBR,etal.1979a.ExploratorySurvey-ReconnaissanceofSoilsontheRightBank of the Sao Francisco River in the State of Bahia.Recife: EMBRAPA-SNLCS/SUDENE-DRN,1296.(in Portuguese)   
+Jacomine PKT,Cavalcanti AC,FormigaR A,etal.1979b.Exploratory Survey-SoilReconnaissnce in the northof Minas Gerais: Area Where the Company Operates SUDENE. Recife: EMBRAPA-SNLCS/SUDENE-DRN,407.(in Portuguese)   
+JacominePKT.1986a.Exploratory Survey-Recognitionof Soilsinthe Stateof Piaui.Riode Janeiro:EMBRAPASNLCS/SUDENE-DRN,782. (in Portuguese)   
+Jacomine PK T.1986b.Exploratory survey-Recognitionof Soils in the Stateof Maranhao.Rio de Janeiro:EMBRAPASNLCS/SUDENE-DRN,964.(in Portuguese)   
+Kosmas C,Gerontidis S,Marathianou M.20oo.Theefectof landusechangeonsoilsandvegetation over various lithological formations on Lesvos(Greece). CATENA,4O:51-68.   
+Lapola DM,MartineliLA,Peres CA,etal.2O14.Pervasive transitionof theBrazilian land-use system.Nature Climate Change,4: 27-35.   
+Ludwig JA,Wilcox BP,BreshearsDD,etal.20o5.Vegetation patchesand runof-erosionas interactingecohydrological processes in semiarid landscapes.Ecology,86(2): 288-297.   
+Lybrand R A,Rasmusen C.2018.Climate,topography,and dust influences on the mineral and geochemical evolutionof granitic soils in southern Arizona. Geoderma,314: 245-261.   
+Mbagwu JSC,PiccloA,Mbila MO.1993.Water-stabilityof aggregates ofsome tropical soils treated withhumic substances. Pedologie,43:269-284.   
+MelloCR,ViolaMR,BeskowS,etal.2Ol3.Multivariate models forannualrinfallerosivityinBrazil.Geoderma,202-203: 88-102.   
+MiqueloiDP,BuenoCRP2Ol1.Multivariate analysisand spatialvariabilitytoestimatesoilerodibilityof ananfisol.Revista Brasileira de Ciencia do Solo,35(6): 2175-2182.(in Portuguese)   
+Moghadam BK,JabarifarM,BagheriM,etal.2O15.Efectsoflandusechangeonsoilsplasherosioninthesemi-aridrgionof Iran. Geoderma,241-242: 210-220.   
+Moro MF,Nic LughadhaE,de AraujoFS,etal.2Ol6.Aphytogeographical meta-analysisofthe semiaridCaatinga domain in Brazil. Botanical Review, 82: 91-148.   
+Oliveira FilhoJS,VieiraJN,da SilvaEMR,etal.2019.Assessingtheeffectsof17yearsof grazing exclusion indegraded semi-ard soils: evaluationofsoilfertility,nutrients poolsand stoichiometry.Journalof AridEnvironments,66:1-10.   
+Oliveira GC,FrancelinoMR,Arrda DM,etal.2O19.Climateandsoilsat theBraziliansemiaridandthe forest-Catinga problem:new insightsand implicationsfor conservation.Environmental Research Leters，14(10):104007，doi: 10.1088/1748-9326/ab3d7b.   
+Oliveira PTS,Wendland EC,Nearing MA.2013.Rainfallerosivity in Brazil: areview.CATENA,100:139-147.   
+Pachepsky Y,Rawls W.2Oo3.Soil structure and pedotransfer functions.European Journal of Soil Science.54: 443-451.   
+Parysow P,Wang G GertnerGetal.20o3.Spatial uncertainlyanalysis for mapping soil erodibilityon jointsequential simulation. CATENA,53: 65-78.   
+PedronFDA,FinkJR,Rodrigues MF,etal.2011.Hydraulicconductivityand waterretention in leptosols-regosolsand saprolite derived from sandstone,Brazil.Revista Brasileira de Ciencia do Solo,35:1253-1262.(inPortuguese)   
+Pérez-Rodriguez R,Marques MJ,BienesR.2Oo7.Spatial variabilityof thesoil erodibilityparametersand theirrelation with the soil map at subgroup level. Science of the Total Environment. 378:166-173.   
+Pinheiro JuniorCR,Pereira MGFilhoJSO,etal.2019.Cantopographyafecttherestorationof soil propertiesafter deforestation in a semiarid ecosystem?. Journal of Arid Environments,162: 45-52.   
+Pravalie R.2016.Drylands extent and environmentalissues.A global approach.Earth-Science Reviews.161: 259-278.   
+Quan X,He J,Cai Q,etal.2O20.Soil erosionanddeposition characteristics of slope surfaces fortwoloessoilsusing indoor simulated rainfall experiment. Soil and Tillage Research,204:104714,doi: 10.1016/j.still.2020.104714.   
+Oueiroz LP.CardosoD.Fernandes MF.et al.2O17.Diversitvand Evolutionof Flowering Plantsof theCaatinga Domain. Caatinga: Springer International Publishing,40.   
+RabotE,WiesmeierM,Schluiter S,etal.2Ol8.Soil structureasan indicatorof soil functions:areview.Geoderma,314: 122-137.   
+Ribeiro MR,Sampaio EVSB,GalindoICL.2O09.Soils and the desertification processin the Brazilian semi-arid egion. Topics in Soil Science,6:413-459.   
+Santos HG,Jacomine PKT,Anjos LHC,et al.2O18.Brazilian Soil Classification System $5 ^ { \mathrm { t h } }$ ed.).Rio de Janeiro: National Center for Soil Research,287-306.(in Portuguese)   
+Santos A,da Silva MatosE,da SilvaFreddiO,etal.2O20.Cottonproductionsystems intheBrazilian Cerado:The impactof soil attributes on field-scale yield.European Journalof Agronomy,118:126090,doi:10.1016/j.eja.2020.126090.   
+SixJ,ConantRT,PaulEA,etal.2O2.Stabilzation mechanismsofsoilorganic mater:implicationsforC-saturationof soils. Plant and Soil,241:155-176.   
+SUDENE(Superintendencia Do Desenvolvimento Do Nordeste).2017.Resolution No.115.Approves Proposition No. 113/2017，whichaddsmunicipalitiestothelistapprovedbyCondelResolution.[2021-06-30]. https://www.in.govbr/materia/-/asst_publisher/Kujrw0ZC2Mb/content/id/739568/dol-2017-1-05-resolucao-n-115-de-2- de-novembro-de-2017-739564.   
+Vaezi AR,Bahrami HA,Sadeghi SHR,etal.2O08.Modeling the USLEK-factorforcalcareous soils innorthwestern Iran. Geomorphology, 97: 414-423.   
+VaeziAR,HasanzadahH,CerdaA.2O16.Developinganerodibilitytriangle forsoiltextures insemi-aridregions,NWIran. CATENA,142:221-232.   
+Vaezi AR,Ahmadi M,CerdaA.2O17.Contributionof raindrop impactto the change of soil physical properties and water erosion under semi-arid rainfalls. Science of the Total Environment. 583:382-392.   
+VaeziAR,EslamiSF,Keestra S.2Ol8.Interillerodibilityirelation toaggregatesizeclassinasem-aridsoilunder simulated rainfalls.CATENA,167:385-398.   
+Valtera M,SamonilP,SvobodaM,etal.2O15.Effectsof topographyandforeststanddynamicsonsoilmorphologyinthree natural Picea abies mountain forests.Plant and Soil,392:57-69.   
+Vasquez-MendezR,Ventura-Ramos E,OleschkoK,etal.2Ol1.Soilerosion processs insemi-aridareas:The importanceof native vegetation.In: Godone D,Stanchi S.Soil Erosion Studies.London: InTech Open Limited,25-40.   
+WachendorfC,PottoffM,LudwigB,etal.2014.EfectsofadditionofmaizeliterandearthwormsonCmineralizationand aggregate formation insingleandmixed soilsdifering insoilorganiccarbonandclaycontent.Pedobiologia,57(3): 161-169.   
+WardJH.1963.Hierarchical grouping tooptimize anobjective function.Journal of the American Statistical Asociation,58: 236-244.   
+Wei W,ChenL,FuB,etal.2Oo7.Theeffectoflandusesandrainfallregimesonrunoffadsoilerosioninthesem-aridloess hilly area, China.Journal of Hydrology, 335: 247-258.

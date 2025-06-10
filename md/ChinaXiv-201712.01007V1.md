@@ -1,0 +1,142 @@
+临床研究
+
+# 平板运动对60岁以下冠心病患者无创中心血流动力学参数的影响
+
+王晋丽，陈韵岱,石亚君,薛 浩,郜 玲解放军总医院心血管内科，北京100853
+
+摘要：目的研究60岁以下冠心病患者平板运动试验前后无创中心血流动力学指标的变化，为冠心病患者的心脏康复提供新的研究指标。方法 连续入组2013年7月\~2014年4月解放军总医院行平板运动试验且年龄小于等于60岁的受试者。采用Bruce症状限制性方案，根据冠脉造影结果分为冠心病组( $\scriptstyle n = 6 8$ 和非冠心病组( $\scriptstyle n = 9 7$ )。应用无创方法检测运动前后受试者的中心血流动力学参数：中心动脉压(cSBP),反射波增强指数(AI)和反射波增强压(AP)。结果平板运动结束即刻，在冠心病组,AI运动后无明显变化( $P { = } 0 . 5 1 6 )$ ，而非冠心病组有显著降低( $\scriptstyle P < 0 . 0 0 1 { \dot { } }$ ；两组cSBP均出现升高 $( P { < } 0 . 0 0 1 )$ 。两组组间比较，冠心病组运动前AI和运动后cSBP高于非冠心病组( $scriptstyle P = 0 . 0 0 9$ 5 $\scriptstyle P = 0 . 0 0 9$ )。进一步回归分析发现，冠心病人群中，运动后最大心率是影响 $\triangle$ cSBP(运动后cSBP-运动前cSBP,cSBP增幅)的主要因素 $\mathrm { ( B { = } } \mathrm { - } 0 . 0 7 3 , P { = } 0 . 0 1 2 )$ 。冠心病组按照平板运动试验结果(阴性和阳性)分层分析，发现阳性组运动后cSBP的增幅较小( $\scriptstyle P = 0 . 0 4 8 { \mathrm { , } }$ ),进一步回归分析后无统计学意义 $( P { > } 0 . 0 5 )$ 。结论平板运动后AI出现差异性变化，冠心病患者AI未见明显降低，提示AI可能与运动后冠脉血流灌注密切相关;可能是康复治疗提高运动后心肌缺血阈值治疗的又一靶点。
+
+关键词：平板运动试验；中心动脉压；反射波增强指数；冠心病；康复
+
+# Effects of treadmill exercise on central hemodynamics in patients below 60 years of age with coronary artery disease
+
+WANG Jinli, CHEN Yundai, SHI Yajun, XUE Hao, GAO Ling DepartmentofCardiology,General HospitalofPLA,Beijing10o853,China
+
+Abstract: ObjectiveTo investigate the efects oftreadmillexerciseoncentralhemodynamics inpatients withcoronaryartery disease.Methods Sixty-eightconsecutive patients below 60 years of age with the diagnosis of coronary artery disease (CAD) between July2013andApril,2014underwenttreadmillexercise testfollowingthestandardBruce protocol.Nnety-sven individuals withoutCADservedas thecontrol group.Central hemodynamicsof the subjects,including thecentral aortic blood pressre (B),ugmentatioindex (A)andugmentationpressure (AP),wereexaminedbeforeandaftertheeise. Results cSBP increased significantly after acute exercise in both groups $( P { < } 0 . 0 0 1 )$ . Immediately after treadmill exercise,AI showed no significant changes in CAD patients $\scriptstyle ( P = 0 . 5 6 1 )$ but decreased significantly in the control subjects $( P { < } 0 . 0 0 1 )$ . AI before exercise and cSBP after exercise were significantly higher in CAD group than in the control group ( $\scriptstyle P = 0 . 0 0 9$ and 0.009, respectively).Stepwiseregresionanalysisshowed that themaximalheartrateafter exercise wasthe mainfactorthataffected cSBP increment in CAD group $_ { ( P = 0 . 0 1 2 ) }$ ， and the occurrence of ischemia after exercise was associated with a lower cSBP increment $( P { = } 0 . 0 4 8 )$ . Conclusion AI does not decrease significantly after acute exercise in patients with CAD,suggesting that AI is closelyasociated with coronary arteryblood perfusion after exercise and may serve asapotentialtargetfor improving ischemic threshold during rehabilitation of the patients.
+
+Key words: exercise; central aortic blood pressure;augmentation index; coronary arterydisease; rehabilitation
+
+心血管疾病患病率持续上升，死亡率逐年增加，占全球1/3的死亡率，主要死亡原因为冠心病，且冠心病的发生趋于年轻化,严重影响生活质量[1-3]。心脏康复是冠心病管理的重要组成部分，而运动治疗是心脏康复的中心环节[4]。平板运动试验是常用的心肌氧耗最高的运动方式之一，可以提供外周血压、心电图和心肌缺血发生的频次等信息，常用于指导冠心病患者的康复训练,可进一步改善冠心病患者运动耐力[5。中心动脉压(cSBP)和反射波增强指数(AI)是主要的中心血流动力学参数,反映心血管疾病发病机制的病理生理过程[,与冠脉病变的严重程度呈正相关，为心血管终点事件更好的预测指标[7-8]
+
+健康人群急性运动后cSBP增高长期运动训练后cSBP和AI均降低[8，目前冠心病患者平板运动试验前后中心血流动力学指标的变化规律尚不明确，本文旨在应用无创方法探讨冠心病患者平板运动后中心血流动力学指标的变化规律，为冠心病患者的运动康复提供新的依据。
+
+# 1资料和方法
+
+# 1.1研究对象
+
+研究人群源于2013年7月\~2014年4月，在解放军总医院行平板运动试验的年龄小于等于60岁的受试者。其中经冠脉造影确诊的冠心病者68例(冠心病组)和非冠心病者97例(非冠心病组)。人选标准：运动试验前和/或后经冠脉造影诊断冠心病或既往行PCI术后的患者。排除标准：(1)怀疑运动依赖性心律失常的人群；(2)其他平板运动试验禁忌症： $\textcircled{1}$ 急性心肌梗死(2周内）， $\textcircled{2}$ 高危不稳定型心绞痛， $\textcircled{3}$ 严重心律失常， $\textcircled{4}$ 严重主动脉瓣狭窄， $\textcircled{5}$ 临床未控制的心衰， $\textcircled{6}$ 急性肺栓塞或肺梗死， $\textcircled{7}$ 急性心肌炎或心包炎， $\textcircled{8}$ 急性主动脉夹层分离[9。所有受试者均签署知情同意书。
+
+# 1.2 平板运动试验
+
+受试者运动前2h内禁食，禁烟禁酒，可饮水，洗澡，穿适合运动的衣服。在运动试验前 $1 2 \mathrm { h }$ 内不要做特殊运动。记录一般情况:姓名、性别、身高、体质量、吸烟史、饮酒史、高血压、冠心病、糖尿病等病史。
+
+所有入选患者应用美国GE公司生产的T-2100型活动平板仪，采用症状限制性运动方案，如患者运动耐受好，按标准的Bruce方案进行次极量运动试验，目标心率 $\overbar { \mathbf { \Omega } } =$ (220-年龄） $\times ( 8 5 - 9 0 ) \%$ 。终止运动的绝对指征：(1)患者要求；(2)增加运动负荷时出现血压及(或)心率降低,收缩压下降 ${ \geqslant } 1 0 \ \mathrm { m m H g }$ ;(3)出现明显的症状和体征极度体力衰竭、皮肤湿冷、苍白、发绀、剧烈心绞痛或胸痛、意识混乱、眩晕、黑朦、缺血性跛行等;(4)严重心律失常室性心动过速、心室扑动或心室颤动；(5)重度ST段改变下斜型或水平型压低 ${ \geqslant } 0 . 3 ~ \mathrm { m V }$ ,ST段抬高${ \geqslant } 0 . 1 \ \mathrm { m V }$ ;(6T波高尖怀疑心肌超急性损伤期。终止运动的相对指征：(1)较显著的症状和体征；(2)显著ST段改变下斜型或水平型压低 ${ \geqslant } 0 . 2 \ \mathrm { m V }$ ，上斜型压低 $\mathrm { > } 0 . 3 \mathrm { \ m V }$ (3)显著高血压血压 ${ \geq } 2 2 0 / 1 1 0 ~ \mathrm { m m H g }$ ；(4)运动负荷增加时，血压无相对增加在达Bruce方案3级时，收缩压升高少于 $2 0 \mathrm { m m H g }$ ；(5)引起频发室性期前收缩或多源性和成对室性期前收缩；(6阵发性室上性心动过速；(7)运动引起的室内传导阻滞。
+
+试验开始前，记录受试者仰卧位和站立位状态下的12导联心电图及血压，运动过程中连续监测患者的心电图及血压变化。观测指标：静息心率(HRrest)，最大运动心率(HRmax)，运动时间，代谢当量(METs)，最小收缩压(SBPmin），最大收缩压(SBPmax），最小舒张压(DBPmin),最大舒张压(DBPmax)和运动后 $3 \mathrm { m i n }$ 血压与最大收缩压之比(SBP/SBPmax)。
+
+# 1.3中心血流动力学指标检测
+
+用已校准的MC3000袖带式电子血压计(新加坡健资科技有限公司)测量右侧肱动脉压，连续测量3次，每次间隔 $2 ~ \mathrm { m i n }$ ，如果两次血压差值超过 $1 0 \ \mathrm { m m H g }$ ，需重新测量，分别记录每次血压的读数，取3次平均值作为校准血压。而后，将BPro动脉脉搏波采集仪(新加坡健资科技有限公司)的脉搏波感受器置于同侧桡动脉搏动最强处并固定于手腕，进行血压校准后，经相连接的A-PulsecSBP脉搏波及CAP分析软件实时记录连续3组以上，每组至少10s均匀一致的桡动脉搏波群。测得收缩压(SBP)舒张压(DBP)脉压(PP)平均压(MAP)。经软件计算得出中心血流动力学参数：cSBP、AI、AP、收缩期巅峰与动脉反射波时差(peakrelative time,PRT)。测量由经过技术培训及质量考核的同一操作者完成。
+
+研究方案：运动前仔细询问病史、用药情况，安静状态下 $1 0 \mathrm { m i n }$ 后测量中心血流动力学指标;运动结束即刻再次测量中心血流动力学指标。
+
+# 1.4统计学分析
+
+应用SPSS17.0统计学软件进行统计分析。连续变量资料采用均数 $\cdot \pm$ 标准差或中位数 $\cdot \pm$ 四分位数（ $\ Q 2 \pm$ Q3-1)表示，分类变量资料采用 $( n \% )$ 表示，组间比较连续变量采用成组t检验或非参数检验，配对比较连续变量采用配对 $\mathbf { \Phi } _ { t }$ 检验或非参数检验。分类变量采用 $\chi ^ { 2 }$ 检验。 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+# 2.1研究对象基本特征
+
+冠心病组平均年龄50.0岁，合并高血压病，高脂血症，糖尿病病史均高于非冠心病组（ $( P { < } 0 . 0 5 )$ ,吸烟低于非冠心病组（ $\scriptstyle P = 0 . 0 4 0 )$ ,HRrest和HRmax均低于非冠心病组 $( P { < } 0 . 0 1 )$ 。两组在平板运动试验参数比较时，冠心病组静息心率和最大心率均低于非冠心病组 $( P { < } 0 . 0 5 )$ ，而运动时间、METs、运动中最高/最低血压及异常高血压反应均无明显差异( $\mathrm { P { > } 0 . 0 5 }$ ,表1)。冠心病组单支病变18例，占 $2 6 . 5 \%$ ,双支病变30例，占 $4 4 . 1 \% , 3$ 支及多支病变20例，占 $2 9 . 4 \%$ ;其中左主干病变3例，前降支病变48例，回旋支病变32例，右冠病变28例。
+
+# 2.2平板运动前后中心血流动力学的改变
+
+平板运动试验结束即刻，两组SBP、PP、MAP和cSBP均高于运动前水平 $( P { < } 0 . 0 0 1 )$ ,而PRT降低（ $P <$ 0.05)。冠心病组运动后AI、AP和PRT无明显变化( $P >$ 0.05)，而非冠心病组有显著降低 $\scriptstyle ( P < 0 . 0 0 1$ ，图1)。
+
+两组组间比较，冠心病组运动前AI和运动后cSBP高于非冠心病组( $scriptstyle \overbrace { P = 0 . 0 0 9 }$ $\scriptstyle P = 0 . 0 0 9$ ),其余未见明显差异(表2)。
+
+表1研究对象基本信息和平板运动试验特征  
+Tab.1 General characteristics and TET parameters of the study population   
+
+<html><body><table><tr><td>Characteristics</td><td>CHD Group (n=68)</td><td>NON-CAD Group (n=97)</td><td>t/Z</td><td>P</td></tr><tr><td>Age (year)</td><td>50.0±7.4</td><td>45.6±9.2</td><td>-3.250</td><td>0.001</td></tr><tr><td>Weight (kg)</td><td>76.9±11.7</td><td>72.3±12.9</td><td>-2.314</td><td>0.022</td></tr><tr><td>Height (cm)</td><td>171.1±7.1</td><td>168.1±6.7</td><td>-2.842</td><td>0.005</td></tr><tr><td>BMI (kg/m2)</td><td>26.1±3.1</td><td>25.5.1±3.7</td><td>-1.161</td><td>0.247</td></tr><tr><td>Smoking (n/%)</td><td>11/16%</td><td>29/30%</td><td>-2.018</td><td>0.044</td></tr><tr><td>Drinking (n/%)</td><td>18/27%</td><td>35/36%</td><td>-1.298</td><td>0.194</td></tr><tr><td>Hypertension (n/%)</td><td>36/53%</td><td>29/30%</td><td>-2.973</td><td>0.003</td></tr><tr><td>PCI (n/%)</td><td>35/52%</td><td>/</td><td>/</td><td>/</td></tr><tr><td>Hyperlipidemia (n/%)</td><td>18/27%</td><td>13/13%</td><td>-2.109</td><td>0.035</td></tr><tr><td>Diabetes Mellitus (n/%)</td><td>16/24%</td><td>5/5%</td><td>-2.018</td><td>0.044</td></tr><tr><td>Gender (n/%)</td><td>59/87%</td><td>63/65%</td><td>-3.133</td><td>0.002</td></tr><tr><td>TET parameters</td><td></td><td></td><td></td><td></td></tr><tr><td>Time (min:sec)</td><td>7:39±1:46</td><td>7:58±1:50</td><td>1.084</td><td>0.280</td></tr><tr><td>METs</td><td>9.1±1.7</td><td>9.5±1.8</td><td>1.333</td><td>0.184</td></tr><tr><td>HRmax (min")</td><td>141.4±14.0</td><td>152.7±12.1</td><td>5.415</td><td><0.001</td></tr><tr><td>SBPmax (mmHg)</td><td>160.8±20.2</td><td>157.5±21.2</td><td>-0.997</td><td>0.320</td></tr><tr><td>DBPmax (mmHg)</td><td>80.9±13.6</td><td>79.1±11.9</td><td>-1.109</td><td>0.269</td></tr><tr><td>SBPmin (mmHg)</td><td>120.9±14.7</td><td>120.4±15.1</td><td>-0.218</td><td>0.828</td></tr><tr><td>DBPmin (mmHg)</td><td>79.8±10.7</td><td>79.1±11.9</td><td>-0.420</td><td>0.675</td></tr><tr><td>HRrest (min*)</td><td>73.6±12.2</td><td>80.7±12.0</td><td>3.059</td><td>0.003</td></tr><tr><td>SBP/SBPmax</td><td>0.92±0.08</td><td>0.92±0.09</td><td>0.161</td><td>0.836</td></tr><tr><td>Exercise-induced hypertension (n/%)</td><td>8/11.8%</td><td>14/14.4%</td><td>0.809</td><td>0.422</td></tr><tr><td>TET results (%)</td><td>18/27%</td><td>1/1</td><td>1</td><td></td></tr></table></body></html>
+
+PCI:Percutaneous transluminal coronary intervention.BMI:Body Mass Index.TET:Treadmill exercisetest.Time:Exercise time.HRmax,SBPmax,DBPmax,SBPminand BPmirepresent maximal heartrate,maximal SBP,maximalDBP,minimal SBP and minimal DBP during TET,respectively.HRrest: Rest heart rate.SBP/SBPmax: SBP in $3 ~ \mathrm { m i n }$ after exercise/maximal SBP.Exercise-induced hypertension diagnostic criteria: During and/or 2 min after exercise, $\mathrm { S B P { > } 2 0 0 ~ m m H g }$ and/or DBP>95 mmHg.
+
+![](images/e18debfad5c3e942207c5d0a2a5cf1009de383d7ca2c559d9d15f5a2a5e7c114.jpg)  
+图1冠心病组(CAD组)与非冠心病组(NON-CAD组)运动前后血流动力学指标比较 Fig.1 Comparisonsof various hemodynamic indexes beforeandafter exercisein2 groups.SBP:Systolic blood pressure; DBP: Diastolic blood pressure; PP: Pulse pressure; MAP: Mean arterial pressure;cSBP: Central systolic blood pressure; AI: Augmentation index;AP:Augmentation pressre; PRT:Peak relativetime; Pre-exercise: Before exercise; Post-exercise:After exercise. $^ { * } P { < } 0 . 0 0 1$ $* * P { < } 0 . 0 5$ $^ { \triangle } P { > } 0 . 0 5$
+
+表2运动前后冠心病组与非冠心病组血流动力学比较 Tab.2 Comparisons of hemodynamic indexes during exercise between 2 groups   
+
+<html><body><table><tr><td>Characteristics</td><td>CAD group (n=68)</td><td>Non-CAD group (n=97)</td><td>tZ</td><td>P</td></tr><tr><td>SBP (mmHg)</td><td>127.9±17.1</td><td>125.7±15.9</td><td>-0.839</td><td>0.403</td></tr><tr><td>DBP (mmHg)</td><td>82.6±9.7</td><td>81.1±12.4</td><td>-0.839</td><td>0.405</td></tr><tr><td>PP (mmHg)</td><td>45.3±14.9</td><td>44.6±13.4</td><td>-0.305</td><td>0.761</td></tr><tr><td>MAP (mmHg)</td><td>97.6±10.5</td><td>95.9±12.1</td><td>-0.949</td><td>0.344</td></tr><tr><td>cSBP (mmHg)</td><td>117.5±15.2</td><td>113.7±14.0</td><td>-1.675</td><td>0.096</td></tr><tr><td>AI (%)</td><td>79.5±15.9</td><td>77.2±17.7</td><td>-2.651</td><td>0.009*</td></tr><tr><td>AP (mmHg)</td><td>-9.2±8.3</td><td>-10.4±8.4</td><td>-0.910</td><td>0.364</td></tr><tr><td>PRT (ms)</td><td>105.1±21.8</td><td>100.5±25.4</td><td>-1.171</td><td>0.243</td></tr><tr><td>SBP2 (mmHg)</td><td>152.7±24.5</td><td>147.5±24.5</td><td>-1.345</td><td>0.180</td></tr><tr><td>DBP2 (mmHg)</td><td>78.9±15.7</td><td>76.0±13.4</td><td>-1.247</td><td>0.214</td></tr><tr><td>PP2 (mmHg)</td><td>73.8±24.7</td><td>71.4±22.9</td><td>-0.632</td><td>0.529</td></tr><tr><td>MAP2 (mmHg)</td><td>103.5±15.1</td><td>99.8±14.2</td><td>-1.579</td><td>0.116</td></tr><tr><td>cSBP2 (mmHg)</td><td>128.1±20.4</td><td>120.1±17.7</td><td>-2.651</td><td>0.009*</td></tr><tr><td>A12 (%)</td><td>73.3±29.0</td><td>68.1±16.1</td><td>-1.240</td><td>0.218</td></tr><tr><td>AP (mmHg)</td><td>-16.5±24.4</td><td>-22.4±19.8</td><td>-1.478</td><td>0.142</td></tr><tr><td>PRT2 (ms)</td><td>91.5±22.4</td><td>85.6±20.8</td><td>-1.501</td><td>0.136</td></tr><tr><td>△SBP (mmHg)</td><td>25.0±21.5</td><td>21.8±20.8</td><td>-0.961</td><td>0.338</td></tr><tr><td>△DBP (mmHg)</td><td>-3.6±14.6</td><td>-5.0±10.9</td><td>-0.652</td><td>0.516</td></tr><tr><td>△PP (mmHg)</td><td>28.6±23.8</td><td>26.8±21.6</td><td>-0.515</td><td>0.607</td></tr><tr><td>△MAP (mmHg)</td><td>6.0±12.9</td><td>4.0±10.9</td><td>-1.069</td><td>0.287</td></tr><tr><td>△cSBP (mmHg)</td><td>10.8±18.5</td><td>6.2±14.1</td><td>-1.678</td><td>0.096</td></tr><tr><td>△AI (%)</td><td>-8.7±19.4</td><td>-11.2±18.1</td><td>-0.706</td><td>0.482</td></tr><tr><td>△AP (mmHg)</td><td>-11.3±17.5</td><td>-12.4±18.5</td><td>0.330</td><td>0.742</td></tr><tr><td>△PRT (ms)</td><td>-12.7±27.5</td><td>-11.6±31.4</td><td>0.206</td><td>0.837</td></tr></table></body></html>
+
+SBP:Systolic blood pressure;DBP:Diastolic blood pressure;PP:Pulse pressure,MAP:Meanarterial pressure;SBP:Central systolic blood pressure;AI:Augmentationindex;AP:Augmentation presure;PRT:Peakrelative ime.Hemodynamic indexes2 represent post-exercise indexes,for example, SBP2 represents post-exercise SBP; $\bigtriangleup$ :post-exercise hemodynamic indexespre-exercise hemodynamic indexes. $^ { * } P { < } 0 . 0 5$
+
+根据有无合并高血压分层分析后，发现不论有无合并高血压，两组运动后SBP、MAP和cSBP均有明显的升高 $( P { < } 0 . 0 5 )$ 。去除高血压影响因素后，运动前后比较：运动后冠心病组AI较运动前比较均无明显统计学差异 $\scriptstyle ( P = 0 . 5 7 2 )$ ；而非冠心病组，AI有明显降低 $( P { < } 0 . 0 0 1 )$ 0两组AP和PRT运动后均无明显变化( $_ { ( P < 0 . 0 5 ) }$ 。冠心病组与非冠心病组两组组间比较：AP明显降低( $P =$ 0.049)，其余中心血流动力学指标无明显差异( $\cdot P >$ 0.05)。
+
+# 2.3冠心病组运动后cSBP增幅的影响因素
+
+应用线性相关，分析冠心病组运动前后cSBP的变化(△cSBP)与研究对象基本资料和TET特征之间的相关性。结果发现：△cSBP与身高、体质量、BMI、运动时间、SBPmax和DBPmax呈正相关;与HRmax和HRrest呈负相关 $( P { < } 0 . 0 5 )$ 。其中与SBPmax、HRmax和体质量密切相关(表3)。进一步线性回归分析影响△cSBP的因素，结果发现，影响 $\bigtriangleup$ cSBP的主要指标为HRmax，即随着HRmax的增高，运动后cSBP降低越明显1 $\mathrm { B } { = } { - } 0 . 3 3 5$ ${ \cal P } { = } 0 . 0 1 2$ ，表4)。
+
+# 2.4冠心病组平板运动试验后再发心肌缺血的比较
+
+冠心病组根据平板运动试验后有无心肌缺血分为两组，比较两组之间的基线资料和血流动力学参数，结果发现：平板运动试验阳性组 $\triangle \mathrm { c S B P }$ 低于阴性组( $P =$ 0.047)，其余中心血流动力学指标和外周血压未见明显统计学差异( $\mathrm { P { > } 0 . 0 5 }$ ,图2)。最大目标心率百分率、HRmax、运动时间、METs和身高两两之间比较有统计学差异 $( P { < } 0 . 0 5 )$ ,进一步进行logistic回归，无明显影响因素 $( P { > } 0 . 0 5 )$ 。
+
+表3 $\bigtriangleup$ cSBP与基本信息和TET特征之间的相关性  
+
+<html><body><table><tr><td>Characters</td><td>r</td><td>P</td><td>Characters</td><td>r</td><td>P</td></tr><tr><td>Height (cm)</td><td>0.182*</td><td>0.021</td><td>SBPmax</td><td>0.317**</td><td><0.001</td></tr><tr><td>Weight (kg)</td><td>0.271**</td><td>0.001</td><td>SBPmin</td><td>-0.063</td><td>0.426</td></tr><tr><td>BMI (kg/m²)</td><td>0.227**</td><td>0.004</td><td>DBPmax</td><td>0.199*</td><td>0.011</td></tr><tr><td>HRmax (min-1)</td><td>-0.265**</td><td>0.001</td><td>DBPmin</td><td>0.057</td><td>0.476</td></tr><tr><td>Time (min:sec)</td><td>0.156*</td><td>0.048</td><td>HRrest</td><td>-0.188*</td><td>0.044</td></tr><tr><td>METs</td><td>0.149</td><td>0.059</td><td>Agely</td><td>0.068</td><td>0.388</td></tr></table></body></html>
+
+（204号 $^ { * * } P { < } 0 . 0 0 5$ ， $^ { * } P { < } 0 . 0 5$ ： $\bigtriangleup$ cSBP:Post-exercise cSBP- pre-exercise cSBP TET:Treadmill exercise test. Time:Exercise time.BMI:Body mass index.HRmax,SBPmax,DBPmax,SBPmin and DBPmin represents maximal heart rate,maximal SBP,maximal DBP,minimal SBP and minimal DBP during TET, respectively. HRrest: Rest heart rate.
+
+Tab.3 Correlations of $\bigtriangleup$ cSBP and TET characteristics of the participants   
+表4冠心病组△cSBP的回归分析Tab.4 Regression analysis of △cSBP in CAD group  
+
+<html><body><table><tr><td rowspan="2">Variable</td><td rowspan="2">B</td><td rowspan="2">SE</td><td rowspan="2">Wals</td><td rowspan="2">P</td><td rowspan="2">Exp (B)</td><td colspan="2">EXP(B) 95% CI</td></tr><tr><td>Upper</td><td>Lower</td></tr><tr><td>Time</td><td>0.000</td><td>0.000</td><td>0.039</td><td>0.844</td><td>1.000</td><td>0.999</td><td>1.001</td></tr><tr><td>METs</td><td>-0.014</td><td>1.066</td><td>0.000</td><td>0.989</td><td>0.986</td><td>0.122</td><td>7.963</td></tr><tr><td>Height</td><td>0.030</td><td>0.062</td><td>0.235</td><td>0.628</td><td>1.030</td><td>0.913</td><td>1.162</td></tr><tr><td>Weight</td><td>0.044</td><td>0.038</td><td>1.312</td><td>0.252</td><td>1.045</td><td>0.969</td><td>1.126</td></tr><tr><td>HRmax</td><td>-0.073</td><td>0.029</td><td>6.271</td><td>0.012*</td><td>0.930</td><td>0.879</td><td>0.984</td></tr><tr><td>SBP-cSBP</td><td>-0.106</td><td>0.062</td><td>2.925</td><td>0.087</td><td>0.899</td><td>0.796</td><td>1.016</td></tr><tr><td>Constant</td><td>2.593</td><td>9.678</td><td>0.072</td><td>0.789</td><td>13.373</td><td></td><td></td></tr></table></body></html>
+
+（204号 $^ { * } P { < } 0 . 0 5$ ,△cSBP:Post-exercise cSBP-pre-exercise cSBP.
+
+![](images/4ca9231a794e749ba0d5b5ff3cee2214a378a289f2bbb137e3f07bf4f44276c5.jpg)  
+图2冠心病中平板运动试验阳性组与阴性组之间中心血流动力学参数比较
+
+Fig.2Comparisons of central hemodynamics between TET-positive and negative group in CAD patients. $^ { * } P { < } 0 . 0 5$ $\bigtriangleup$ CSBP: Post-exercise cSBP- pre-exercise cSBP; $\bigtriangleup$ AI: Postexercise AI- pre-exercise AI; $\bigtriangleup$ AP: Post-exercise AP- preexercise AP; $\bigtriangleup$ PRT: Post-exercise PRT- pre-exercise PRT; cSBP: Central systolic blood pressure;AI: augmentation index; AP: Augmentation pressure; PRT: Peak relative time.
+
+# 3讨论
+
+本研究发现，冠心病组运动前AI高于非冠心病组，运动后AI较前无明显变化，而非冠心病组运动后显著降低。冠心病组运动后cSBP高于非冠心病组，影响cSBP增幅的主要指标为HRmax。冠心病患者运动后心肌缺血组cSBP的增幅减小。
+
+既往研究发现AI与心血管事件、年龄、收缩压、脉压、动脉内膜中层厚度和斑块的形成等因素呈正相关，可以反映动脉硬化程度[1]。对冠心病患者而言,AI的增高可以降低冠脉血流，进而影响再血管化治疗时冠脉血流的充盈[1],但这种影响有明显的年龄差异，在大于60岁的老年群体中，AI并没有与冠脉病变相关12；而在60岁以下的可疑冠心病患者中，较高的AI可增加罹患冠脉疾病的风险，证实AI和AP是强有力的独立的预测早发冠心病的风险因素[13]。本研究同样发现在60岁以下人群中，冠心病患者运动前AI高于非冠心病组。同时舒张压是影响冠脉充盈的重要因素，运动后两组均出现降低，非冠心病患者运动后AI明显降低，而冠心病患者无明显变化，表明平板运动后非冠心病人群可能通过AI的降低增加冠脉血流，进而代偿舒张压降低引起的冠脉灌注不足，其动脉硬化程度有一过性改善，是否出现运动后心肌缺血可能取决于二者的平衡。
+
+长期体育锻炼可以降低罹患心血管疾病的危险，进行运动训练后，健康成人的cSBP、AI和AP都会减低[14-15],1h轻中度的体育活动后，在无心血管疾病的人群中却发现,cSBP和中心动脉脉压均无明显变化[16,提示长期运动训练可以改善动脉的僵硬度，而运动时间的长短可影响运动后中心血流动力学的改变。动脉硬化的增加可以降低冠心病患者发生心肌缺血的阈值[1],经过有氧运动训练可以降低动脉硬化，进而可以提高冠心病患者发生心肌缺血的阈值[18]。提示AI可作为指导冠心病患者的运动康复治疗的新靶点。
+
+急性运动后心室后负荷增加导致心肌收缩力增加，引起主动脉压升高，进而冠脉灌注压力增加，同时骨骼肌及冠状动脉扩张,导致冠脉血流量和流速增加[19-20]正常的血压反应为收缩压随运动量增加而进行性增加，舒张压的改变相对很小。在年轻运动员中的一项研究发现，经过中-长距离的急性运动后，运动结束即刻cSBP升高[21],冠脉造影正常的人群中，卧位踏车运动后cSBP较运动前增高[22]。本研究得到一致性的结果：冠心病患者在急性运动后cSBP增高，且高于非冠心病组，这可能与冠心病组合并高血压患者比例高有关，提示cSBP可作为长期运动康复动态观察的血流动力学指标。
+
+本研究证实冠心病人群平板运动后AI未见明显降低，可能参与运动后冠脉血流灌注的调节，提示AI可作为指导冠心病患者的运动康复治疗的新靶点。明确冠心病患者运动后中心血流动力学参数的变化规律，可以更加安全可靠地为今后的运动康复指导时最大有氧阈
+
+值的制定提供理论依据
+
+本文研究人群选自我院，为单中心研究，今后需要进一步加大样本量研究。对于冠心病患者运动后中心血流动力学改变对冠脉血流的影响及机制有待进一步探讨。
+
+# 参考文献：
+
+[1]World Health Organization.Atlas of Heart Disease and Stroke [M].WHO,Geneva: 2004.   
+[2]卫生部心血管病防治中心.中国心血管病报告2014[M].北京:中国 大百科全书出版社,2012.   
+[3]Rubin JB,Borden WB.Coronary heart disease in young adults[J]. Curr Atheroscler Rep,2012,14(2):140-9.   
+[4]Balady GJ,Williams MA,Ades PA,et al.Core components of cardiac rehabilitation/secondary prevention programs:2Oo7 update: ascientific statement from the American Heart Association Exercise,Cardiac Rehabilitation,and Prevention Committee,the Council on Clinical Cardiology；the Councils on Cardiovascular Nursing，Epidemiology and Prevention,and Nutrition,Physical Activity，and Metabolism;and the American Association of Cardiovascular and Pulmonary Rehabilitation[J].Circulation,2007, 115: 2675-82.   
+[5] Cui F,Ren Y, Jin H,et al.Rehabilitation training improves exercise tolerance after percutaneous coronary intervention [J].J Biomed Res,2012,26(4): 248-52.   
+[6]Mitchell GF,Parise H,Benjamin EJ,et al.Changes in arterial stiffness and wave reflection with advancing age in healthy men and women: the Framingham Heart Study[J].Hypertension, 2004, 43(6): 1239-45.   
+[7]Vlachopoulos CV, Terentes-Printzios DG,Ioakeimidis NK,et al Prediction of cardiovascular events and all-cause mortality with erectile dysfunction:a systematic review and meta-analysis of cohort studies [J]. Circ Cardiovasc Qual Outcomes,2013,6(1): 99-109.   
+[8]Chirinos JA，Zambrano JP,Chakko S,et al. Aortic pressure augmentation predicts adverse cardiovascular events in patients with established coronary artery disease[J].Hypertension,2005,45 (5): 980-5.   
+[9]Gibbons RJ,Balady GJ,Beasley JW,etal.ACC/AHA guidelines for exercise testing:executive summary.A report of the American College of Cardiology/American Heart Association Task Force on PracticeGuidelines(Committeeon ExerciseTesting）[J]. Circulation, 1997,96(1): 345-54.   
+[10]Rosenbaum D,Giral P,Chapman J,et al. Radial augmentation index is a surrogate marker of atherosclerotic burden in a primary prevention cohort[J].Atherosclerosis,2013,231(2): 436-41.   
+[11]Leung MC,Meredith IT, Cameron JD.Aortic stiffness affects the coronary blood flow response to percutaneous coronary intervention [J].Am JPhysiol Heart Circ Physiol,2006,290(2): H624-30.   
+[12]Weber T,Auer J,O'rourke MF,et al. Increased arterial wave reflectionspredict severecardiovasculareventsinpatients undergoing percutaneous coronary interventions [J]. Eur Heart J, 2005,26(24): 2657-63.   
+[13] Weber T,Auer J,O'rourke MF,et al.Arterial stiffness，wave reflections,and the risk of coronary artery disease[J].Circulation, 2004,109(2): 184-9.   
+[14]Heffernan KS,Fahs CA, Iwamoto GA,et al. Resistance exercise training reduces central blood pressure and improves microvascular function in African American and white men[J].Atherosclerosis, 2009,207(1): 220-6.   
+[15]Morra EA,Zaniqueli D,Rodrigues SL,et al. Long-term intense resistance training in men is associated with preserved cardiac structure/function,decreased aortic stiffness,and lower central augmentation pressure[J].JHypertens,2014,32(2): 286-93.   
+[16] Laursen AS,Hansen AL,Wiinberg N,et al. Higher physical activity is associated with lower aortic stiffness but not with central blood pressure:the ADDITION-Pro Study [J].Medicine (Baltimore), 2015,94(5): e485.   
+[17] KingwellBA,Waddell TK,Medley TL,et al. Large artery stiffness predicts ischemic threshold in patients with coronary artery disease [J]. JAm Coll Cardiol,2002,40(4): 773-9.   
+[18]Dart AM,Kingwell BA.Pulse pressure--a review of mechanisms and clinical relevance[J].JAm Coll Cardiol,2001,37(4): 975-84.   
+[19] Kingwell BA,Berry KL,Cameron JD,et al. Arterial compliance increases after moderate-intensity cycling[J].AmJPhysiol,1997, 273(5 Pt 2): H2186-91.   
+[20]Piotr J,Jacques B,Thomas W.Arterial stiffness,central blood pressure and coronary heart disease[Z],2014: 363-74.   
+[21] Muller J,Wilms M, Oberhoffer R.Acute effects of submaximal endurance training on arterial stiffness in healthy middle- and long-distance runners[J]. J Clin Hypertens (Greenwich),2015,17 (5): 371-4.   
+[22] Sharman JE,Lim R,Qasem AM, et al. Validation of a generalized transfer function to noninvasively derive central blood pressure during exercise[J]. Hypertension,2006,47(6): 1203-8. (编辑.经瑶)

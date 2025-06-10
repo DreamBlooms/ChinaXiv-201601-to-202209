@@ -1,0 +1,215 @@
+酵母培养物对凡纳滨对虾生长性能、非特异性免疫力和抗病力的影响何远法」郁欢欢2\*迟淑艳1\*\* 杨奇慧」刘泓宇」章 双」王 嘉² 谭北平1,3 董晓慧1,3（1.广东海洋大学水产动物营养与饲料实验室，湛江524088；2.北京英惠尔生物技术有限公司，北京100081；3.南海生物资源开发与利用协同创新中心，广州510275）
+
+摘要：本试验旨在研究酵母培养物对凡纳滨对虾生长性能、非特异性免疫力和抗病力的影响。在基础饲料中分别添加0（对照）、 $0 . 3 0 \%$ 、 $0 . 5 0 \%$ 、 $1 . 0 0 \%$ 的酵母培养物，配制4 种等氮等脂的试验饲料，分别命名为Y0、Y0.3、Y0.5和 Y1.0。选取初始体重为（ $1 . 2 0 { \scriptstyle \pm 0 . 0 1 }$ ） $\mathrm { \bf ~ g }$ 的凡纳滨对虾 800尾，随机分为4组，每组5个重复，每个重复40尾。养殖试验持续 56d。结果表明：Y0.3组对虾的增重率和特定生长率显著高于Y0.5组（ $. P { < } 0 . 0 5 \ '$ ）；Y0.3组有最高的蛋白质效率和最低的饲料系数，与其余各组差异显著（ $P { < } 0 . 0 5$ ）。酵母培养物具有一定诱食效果，且 Y0.3 组对虾的摄食率显著高于 YO 组（ $_ { . } P { < } 0 . 0 5$ ）。Y0.3、Y0.5 和 Y1.0组肌肉粗蛋白质含量均显著高于Y0组（ $_ { \cdot \cdot P < 0 . 0 5 }$ ），且在Y0.3 组达到最大（ $9 1 . 6 9 \%$ ）。饲料中添加 $0 . 3 0 \%$ 、$0 . 5 0 \%$ 或 $1 . 0 0 \%$ 酵母培养物可显著提高对虾血清中溶菌酶、酚氧化酶和碱性磷酸酶活性以及肝胰腺中溶菌酶、过氧化物酶、超氧化物歧化酶和碱性磷酸酶活性（ $P { < } 0 . 0 5$ ）。 $\Upsilon 0 . 5$ 组对虾血清中丙二醛含量显著低于其余各组（ $P { < } 0 . 0 5$ ）。以哈维氏弧菌（Vibrio harveyi）攻毒7d后，Y0.3、Y0.5组对虾的累积死亡率显著低于Y1.0组（ $. P { < } 0 . 0 5$ ），但与Y0组无显著差异（ $P { > } 0 . 0 5$ ）。由此得出，由此得出，饲料中添加 $0 . 3 0 \%$ 酵母培养物可显著提高凡纳滨对虾的生长性能，添加 $0 . 3 0 \% \sim 0 . 5 0 \%$ 的酵母培养物可显著提高凡纳滨对虾的非特异性免疫力。
+
+关键词：酵母培养物；凡纳滨对虾；生长性能；非特异性免疫力；抗病力中图分类号：S963 文献标识码：A 文章编号：
+
+凡纳滨对虾（Litopenaeus vannamei）是一种受大众喜爱的具有较高经济价值对虾养殖品种，随着养殖规模的不断扩大和集约化程度的不断提高，对虾感染各种疾病的危险性大大增加，导致养殖环境恶化以及各类细菌病、病毒病频发[1-2]，使得在养殖过程中不得不使用大量抗生素。然而，抗生素的长期使用会导致耐药性和药物残留等问题，寻求抗生素的替代品一直是饲料工业的研究热点。其中，酵母培养物（yeastculture）作为微生态制剂是抗生素的有效替代物之一。酵母培养物是在特定工艺条件下由高性能酵母菌在特定的培养基上经过充分的厌氧发酵后形成的微生态制剂，它主要由酵母细胞外代谢产物、经过发酵后的培养基和少量已无活性的酵母细胞所构成，除含有B族维生素、矿物质、消化酶、有机酸、氨基酸、寡糖外，还含有一些重要的"未知生长因子"3]。酵母培养物具有提高草鱼（Ctenopharyngodon idellus）[4]、刺参（Apostichopus japonicus Selenka）[5]、花鲈（Lateolabrax japonicus）[6]、巴丁鱼（Pangasianodon hypophthalmus）[7]、罗氏沼虾（Macrobrachiumrosenbergii）[8]等多种水产动物的生长性能，促进胃肠道营养物质的消化与吸收，提高免疫力和抗病力等作用。本研究将酵母培养物添加在饲料中，投喂凡纳滨对虾，通过测定对虾的生长指标、肌肉营养成分和非特异性免疫指标的变化，对酵母培养物在凡纳滨对虾饲料中的合理使用进行评估。
+
+1材料与方法
+
+# 1.1 试验饲料和试验设计
+
+在基础饲料中分别添加0（对照）、 $0 . 3 0 \%$ 、 $0 . 5 0 \%$ 、 $1 . 0 0 \%$ 的酵母培养物（北京英惠尔生物技术有限公司产品），并根据凡纳滨对虾对必需氨基酸的需要量9，平衡饲料中的氨基酸含量，共配制 4 种等氮等脂的试验饲料，分别命名为Y0、Y0.3、Y0.5和Y1.0。试验饲料组成及营养水平见表1。将红鱼粉等原料粉碎后过80 目筛，按照配方要求准确称量，微量成分采取逐级扩大法混合均匀后用双螺杆挤条机加工成粒径为1.0和 $1 . 5 \ \mathrm { m m } \ 2 \$ 种规格的颗粒饲料， $6 0 ~ \mathrm { ^ { \circ } C }$ 熟化 $3 0 ~ \mathrm { m i n }$ 。所制备饲料风干后用自封袋密封，放于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱中保存备用。
+
+表1试验饲料组成及营养水平 (风干基础)  
+Table1 Composition and nutrient levels of experimental diets (air-dry basis) $\%$   
+
+<html><body><table><tr><td colspan="4">项目Items 饲料Diets</td></tr><tr><td>原料Ingredients</td><td>Y0</td><td>Y0.3</td><td>Y0.5 Y1.0</td></tr><tr><td>红鱼粉 Brown fish meal</td><td>25.00</td><td>25.00</td><td>25.00 25.00</td></tr><tr><td>豆粕 Soybean meal</td><td>21.55</td><td>21.55 21.55</td><td>21.55</td></tr><tr><td>玉米蛋白粉 Corn gluten meal</td><td>5.00</td><td>5.00 5.00</td><td>5.00</td></tr><tr><td>花生粕Peanut meal</td><td>6.00</td><td>6.00</td><td>6.00 6.00</td></tr><tr><td>虾壳粉 Shrimp shell meal</td><td>3.00</td><td>3.00</td><td>3.00 3.00</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>面粉Wheat flour</td><td>26.00</td><td>26.00</td><td>26.00</td><td>26.00</td></tr><tr><td>大豆卵磷脂 Soybean lecithin</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>鱼油Fish oil</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>豆油 Soybean oil</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>维生素预混料Vitamin premix1)</td><td>0.56</td><td>0.56</td><td>0.56</td><td>0.56</td></tr><tr><td>矿物质预混料Mineral premix2)</td><td>4.90</td><td>4.90</td><td>4.90</td><td>4.90</td></tr><tr><td>酵母培养物Yeast culture</td><td></td><td>0.30</td><td>0.50</td><td>1.00</td></tr><tr><td>纤维素Cellulose</td><td>1.99</td><td>1.69</td><td>1.49</td><td>0.99</td></tr><tr><td>合计Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平Nutrient levels</td><td></td><td></td><td></td><td></td></tr><tr><td>粗蛋白质Crude protein</td><td>42.84</td><td>42.88</td><td>42.67</td><td>43.27</td></tr><tr><td>粗脂肪Crude lipid</td><td>8.71</td><td>9.03</td><td>8.32</td><td>8.42</td></tr><tr><td>粗灰分Ash</td><td>8.05</td><td>7.92</td><td>8.04</td><td>8.12</td></tr><tr><td>水分Moisture</td><td>8.40</td><td>8.99</td><td>8.95</td><td>8.85</td></tr></table></body></html>
+
+1）每千克维生素预混料含有Contained the following per kgof vitamin premix:盐酸硫胺素 thiaminehydrochloride $2 5 . 5 0 ~ \mathrm { g }$ ，核黄素 riboflavin $2 5 . 0 0 ~ \mathrm { g }$ ，盐酸吡哆醇 pyridoxine hydrochloride $5 0 . 0 0 \ \mathrm { g }$ ， $\mathrm { V B } _ { 1 2 } \ 0 . 1 0 \ \mathrm { g }$ VK $5 . 0 0 \ \mathrm { g }$ ，VE $9 9 . 0 0 \mathrm { g }$ ，维生素A醋酸酯 retinyl acetate $1 0 . 0 \ \mathrm { g }$ ，VD $5 0 ~ \mathrm { g }$ ，烟酸 nicotinic acid $1 0 1 . 0 0 \mathrm { g }$ ， $D$ 泛酸钙 $D$ calcium-pantothenate $6 1 . 0 0 \ \mathrm { g }$ ，生物素biotin $2 5 . 0 0 ~ \mathrm { g }$ ，叶酸 folic acid $6 . 2 5 ~ \mathrm { g }$ ，肌醇 inositol $1 5 3 . 0 6 \ \mathrm { g }$ VC $ { 0 . 3 0 \mathrm { ~ g ~ } }$ ，氯化胆碱 choline chloride $ { 0 . 3 0 \mathrm { ~ g ~ } }$ ，抗氧化剂 antioxidant $ { 0 . 5 0 \mathrm { ~ g ~ } }$ ，蛋氨酸Met $0 . 5 0 \mathrm { ~ g ~ }$ ，纤维素cellulose $3 8 1 . 8 4 \mathrm { g }$ 。2’每千克矿物质预混料含有Contained the folowing per kg of mineral premix:FeC6H5O713.71g，ZnSO4·7H2O$2 8 . 2 8 \textrm { g }$ ， $\mathrm { M g S O _ { 4 } } { \cdot } 7 \mathrm { H _ { 2 } O } \ 0 . 1 2 \ \mathrm { g }$ ， MnSO4:H2O 12.43 g， CuSO4 $5 \mathrm { H } _ { 2 } \mathrm { O }$ （204 $1 9 . 8 4 \ \mathrm { g }$ ， CoCl·7H2O 4.07 g， $\mathrm { ~ K I ~ } 0 . 0 3 \mathrm { ~ g ~ }$ KCl 15.32 g, $\mathrm { N a } _ { 2 } \mathrm { S e O } _ { 3 } 0 . 0 2 \mathrm { g }$ ， $\mathrm { C a ( H _ { 2 } P O _ { 4 } ) _ { 2 } . H _ { 2 } O \ 2 8 . 0 0 \ g }$ ，纤维素 cellulose $8 7 8 . 1 8 \mathrm { ~ g ~ }$ 。
+
+# 1.2试验动物与饲养管理
+
+试验用凡纳滨对虾虾苗购于湛江粤海水产种苗有限公司，养殖试验在广东海洋大学东海岛海洋生物研究基地进行。养殖试验前将虾苗在室外水泥池暂养2周，试验开始前禁饲 $\lvert 2 4 \mathrm { ~ h ~ }$ ，然后将同一遗传背景的初始体重为（ $1 . 2 0 { \scriptstyle \pm 0 . 0 1 }$ ）g的健康凡纳滨幼虾随机分为4个组，即Y0、Y0.3、Y0.5和Y1.0组，饲喂对应的试验饲料。每组设5个重复，每个重复40尾，以重复为单位放养于容积为 $0 . 3 ~ \mathrm { m } ^ { 3 }$ 的玻璃钢桶中，养殖期为8周。初始投喂量按体重的 $5 \% \sim 8 \%$ 投喂，并根据摄食、天气等适当调整，分别在07:00、11:00、17:00和21:00各投喂1次，投喂1h后观察对虾的摄食情况，试验初期每2d换水2/3，养殖结束前10天每天换水1/2。试验期间水温为 $2 8 . 5 { \sim } 3 0 . 0 ~ ^ { \circ } \mathrm { C }$ ，海水盐度为 $2 6 . 5 \sim 2 8 . 0$ ，试验期间连续充氧，溶氧浓度 ${ > } 6 . 8 \ \mathrm { m g / L }$ ， $\mathrm { \ p H }$ 为 $7 . 8 \sim 8 . 2$ ，
+
+氨氮浓度 ${ < } 0 . 0 3 \ \mathrm { m g / L }$ 。
+
+1.3样本采集及测定
+
+养殖试验结束后，饥饿24h后称重，用于计算生长性能指标。每个重复随机取5尾对虾测体长、体重后取肌肉，测定肌肉粗蛋白质、粗脂肪、粗灰分和水分含量。每个重复再随机取10尾对虾，用1mL无菌注射器自第5步足基部血窦抽血，将10尾对虾的血淋巴样合并为1个样本，将血淋巴注入 $1 . 5 ~ \mathrm { m L }$ 的离心管后迅速置于盛有碎冰的冰盒中，采样结束后于4℃静置过夜，然后在4℃下 $8 \ 0 0 0 \ \mathrm { r / m i n }$ 离心 $1 0 ~ \mathrm { m i n }$ ，取上清液于-80C冷冻保存，用于测定血清免疫指标；取血淋巴后解剖，取肝胰腺迅速于液氮中，然后置于 ${ } ^ { - 8 0 } { } ^ { \circ } \mathrm { C }$ 冷冻保存，用于检测肝胰腺免疫指标。
+
+对饲料和肌肉样品进行常规养分分析[10]，其中水分含量测定采用 $1 0 5 ~ ^ { \circ } \mathrm { C }$ 烘干恒重法，粗蛋白质含量测定采用凯氏定氮法，粗脂肪含量测定采用索式抽提法，粗灰分含量测定采用 $5 5 0 ^ { \circ } \mathrm { C }$ 灼烧法。
+
+酚氧化酶（PO）活性参照Ashida[1的方法适当修改后测定，碱性磷酸酶（ALP）活性采用微板法测定，溶菌酶（LSZ）活性采用比浊法测定，超氧化物歧化酶（SOD）活性采用WST-1 法测定，过氧化物酶（POD）活性采用比色法测定，丙二醛（MDA）含量采用硫代巴比妥酸（TBA）法测定，上述指标测定所用试剂盒均购于南京建成生物工程研究所。测定对虾肝胰腺 ALP、LSZ、SOD 以及 POD 活性时，称取组织适量，并记下其准确重量，按重量(g)：体积 $( \mathrm { m L } ) { = } 1 { : } 9$ 的比例加入9倍体积生理盐水，冰水浴条件下匀浆，制成 $10 \%$ 组织匀浆液，然后 $2 \ 5 0 0 \ \mathrm { r / m i n }$ 、 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 条件下离心 $1 0 ~ \mathrm { m i n }$ ，小心吸取上清液分装；样品准备好后，用南京建成生物研究所生产的二辛可宁酸（BCA）法试剂盒测定蛋白质浓度。
+
+1.4哈维氏弧菌（Vibrioharveyi）攻毒试验
+
+养殖试验结束后，每个重复随机取10尾虾，用于哈维氏弧菌攻毒试验。攻毒所用哈维氏弧菌菌种由广东省水产经济动物病原生物学及流行病学重点实验室提供，通过预试验确定凡纳滨对虾的半致死浓度（LD50）（7d）为 $1 . 8 9 \times 1 0 ^ { 7 }$ CFU/mL，攻毒时在对虾第 $2 { \sim } 3$ 腹节背部注射300L该浓度的哈维氏弧菌液，统计7d的死亡尾数并计算累积死亡率和相对免疫保护率。
+
+1.5计算公式
+
+增重率（weight gain rate,WGR, $\%$ ） $\mathtt { \Pi = 1 0 0 \times }$ （末均重-初均重）/初均重；   
+特定生长率（special growth rate,SGR, $\%$ /d) $\mathtt { \Pi = 1 0 0 \times }$ （ln末均重-ln初均重）/饲喂天数;   
+蛋白质效率（protein efficiency ratio,PER） $\mathbf { \sigma } = \mathbf { \sigma }$ （终末体重-初始体重）/蛋白质摄入量;   
+饲料系数（feed conversion rate,FCR） $\ c =$ 摄食饲料干重/（终末体重-初始体重）；
+
+摄食率（feeding rate,FR, $\%$ ） $= 1 0 0 \times$ 采食干饲料重/[（终末体重 $^ +$ 初始体重）/2) $\times$ 饲喂天数];
+
+成活率（survivalrate $S \mathbb { R } , \%$ ） $= 1 0 0 \times$ 试验结束时虾尾数/试验开始时虾尾数；
+
+累积死亡率（cumulativemortality rate,CMR $\%$ ） ${ \tt \tt = } 1 0 0 \times $ 累计死亡尾数/初始尾数;
+
+相对免疫保护率（relative percent survival,RPS, $\%$ ） $= 1 0 0 \times$ （1-免疫组死亡率/对照组死亡率）。
+
+1.6数据处理
+
+试验数据用平均值 $\pm$ 标准差（mean±SD）表示，采用 SPSS17.0 软件进行单因素方差分析(one-wayANOVA)，组间若有显著性差异，再作Duncan 氏多重比较检验，显著性水平为 $P { < } 0 . 0 5$ 。
+
+2结果
+
+2.1酵母培养物对凡纳滨对虾生长性能的影响
+
+由表2可见，各组对虾的成活率无显著差异（ $. P { > } 0 . 0 5$ ）。Y0.3组对虾的增重率和特定生长率显著高于Y0.5组（ $P { < } 0 . 0 5$ ），同时其蛋白质效率显著高于其余各组（ $P { < } 0 . 0 5$ ），饲料系数显著低于其余各组（ $P { < } 0 . 0 5$ ）。酵母培养物具有一定诱食效果，并且Y0.3组对虾的摄食率显著高于Y0组（ $. P { < } 0 . 0 5 \$ ）。
+
+# 表2酵母培养物对凡纳滨对虾生长性能的影响
+
+Table 2 Effects of yeast culture on growth performance of Litopenaeus vannamei( $\scriptstyle n = 5$ ）   
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="3">组别Groups</td></tr><tr><td>Items</td><td>Y0</td><td>Y0.3</td><td>Y0.5</td><td>Y1.0</td></tr><tr><td>初均重 Initial average weight/g</td><td>1.20±0.01</td><td>1.20±0.00</td><td>1.20±0.01</td><td>1.20±0.01</td></tr><tr><td>末均重 Final average weight/g</td><td>9.80±0.59ab</td><td>10.47±0.80b</td><td>9.24±0.38a</td><td>9.48±0.57ab</td></tr><tr><td>增重率WGR/%</td><td>716.34±48.77ab</td><td>772.20±66.75b</td><td>671.59±33.29a</td><td>690.35±48.98ab</td></tr><tr><td>特定生长率 SGR/(%/d)</td><td>3.75±0.11ab</td><td>3.86±0.14b</td><td>3.65±0.08a</td><td>3.69±0.11ab</td></tr><tr><td>蛋白质效率PER</td><td>1.47±0.11b</td><td>1.69±0.06c</td><td>1.38±0.08b</td><td>1.20±0.03a</td></tr><tr><td>饲料系数FCR</td><td>1.68±0.13b</td><td>1.46±0.04a</td><td>1.73±0.10bc</td><td>1.88±0.09c</td></tr><tr><td>摄食率FR/%</td><td>4.33±0.26a</td><td>5.04±0.32b</td><td>4.69±0.03ab</td><td>4.80±0.17ab</td></tr><tr><td>成活率 SR/%</td><td>85.71±8.41</td><td>82.14±9.15</td><td>88.57±5.71</td><td>81.71±4.78</td></tr></table></body></html>
+
+同行数据肩标不同字母表示显著差异（ $P { < } 0 . 0 5$ ）。下表同。
+
+Values in the same line with different letter superscripts differ significantly $( P { < } 0 . 0 5 )$ . The same as below.
+
+2.2酵母培养物对凡纳滨对虾肌肉营养成分的影响
+
+由表3可知，各组肌肉水分含量无显著差异（ $P { > } 0 . 0 5$ ）；Y0.3、Y0.5和Y1.0 组肌肉粗蛋白质含量均显著高于YO组（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } { \cdot } ^ { } \ .$ ），且在Y0.3组有最大值（ $9 1 . 6 9 \%$ ）；Y0.5组肌肉粗脂肪含量显著低于Y0.3 组（ $P { < } 0 . 0 5$ ）；随酵母培养物添加量的增加，肌肉粗灰分含量逐渐上升，Y1.0 组显著高于Y0 和 Y0.3 组（ $. P { < } 0 . 0 5 \$ ）。
+
+Table 3 Efects of yeast culture on muscle nutrient composition of Litopenaeus vannamei (DM basis）( $\scriptstyle n = 5$ ）%
+
+表3酵母培养物对凡纳滨对虾肌肉营养成分的影响（干物质基础）  
+
+<html><body><table><tr><td colspan="4">项目</td></tr><tr><td>Items</td><td>Y0</td><td>Y0.3</td><td>Y0.5</td><td>Y1.0</td></tr><tr><td>水分 Moisture</td><td>77.56±0.33</td><td>77.64±0.44</td><td>77.59±0.61</td><td>77.81±0.31</td></tr><tr><td>粗蛋白质 CrudeProtein</td><td>90.17±0.49a</td><td>91.69±0.18b</td><td>91.48±0.05b</td><td>91.56±0.17b</td></tr><tr><td>粗脂肪Crude Lipid</td><td>5.71±0.24ab</td><td>5.89±0.04b</td><td>5.54±0.09a</td><td>5.68±0.02ab</td></tr><tr><td>粗灰分 Ash</td><td>6.48±0.10a</td><td>6.50±0.07a</td><td>6.65±0.21ab</td><td>6.89±0.13b</td></tr></table></body></html>
+
+2.3酵母培养物对凡纳滨对虾血清免疫指标的影响
+
+由表4可知，Y0.3、Y0.5和Y1.0 组对虾血清中 PO、ALP 和LSZ活性均显著高于Y0 组（ $P { < } 0 . 0 5 \$ ）；Y0.3和Y0.5 组血清中 SOD 活性显著高于YO 和Y1.0组（ $\scriptstyle P < 0 . 0 5 .$ ）； $\Upsilon 0 . 3$ 组对虾血清中 ALP 活性显著高于其余各组（ $P { < } 0 . 0 5 \$ ）； $\Upsilon 0 . 5$ 组对虾血清中 LSZ 活性显著高于其余各组（ $\scriptstyle P < 0 . 0 5 .$ ）；Y0.5组对虾血清中MDA 的含量显著低于其余各组（ $P { < } 0 . 0 5$ ）。
+
+# 表4酵母培养物对凡纳滨对虾血清免疫指标的影响
+
+Table 4 Effects of yeast culture on serum immune indexes of Litopenaeus vannamei $\scriptstyle \overbrace { n = 5 }$ ）  
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="3">组别Groups</td></tr><tr><td>Items</td><td>Y0</td><td>Y0.3</td><td>Y0.5</td><td>Y1.0</td></tr><tr><td>酚氧化酶PO/（U/mL）</td><td>313.89±4.82a</td><td>455.55±4.81c</td><td>450.00±11.78c</td><td>366.67±2..33b</td></tr><tr><td>碱性磷酸酶ALP/（金氏单位</td><td>0.91 ±0.02a</td><td>2.01 ±0.05d</td><td>1.59 ±0.05c</td><td>1.34 ±0.03b</td></tr><tr><td>/dL)</td><td></td><td></td><td></td><td></td></tr><tr><td>超氧化物歧化酶 SOD/（U/mL）</td><td>1 681.42±10.86a</td><td>1 771.64±19.00b</td><td>1 758.20±10.86b</td><td>1696.78±21.72a</td></tr><tr><td>溶菌酶 LSZ/（U/mL)</td><td>104.45±2.22a</td><td>122.96±5.13b</td><td>154.23±0.64c</td><td>134.22±1.54b</td></tr><tr><td>丙二醛MDA/（nmol/mL)</td><td>7.06±0.00bc</td><td>6.99±0.10b</td><td>5.98±0.34a</td><td>7.65±0.30c</td></tr></table></body></html>
+
+2.4酵母培养物对凡纳滨对虾肝胰腺免疫指标的影响
+
+由表5可知，Y0.3、Y0.5 和Y1.0 组对虾肝胰腺中ALP、POD 和LSZ活性虽无显著性差异（ $P { > } 0 . 0 5 \$ ），但均显著高于Y0组（ $P { < } 0 . 0 5$ ），且对虾肝胰腺中LSZ活性在Y0.3 组最高。随酵母培养物添加量的增加，对虾肝胰腺中 SOD活性呈升高趋势。各组间差异显著（ $P { < } 0 . 0 5$ ）。
+
+表5酵母培养物对凡纳滨对虾肝胰腺免疫指标的影响  
+Table 5 Effects of yeast culture on hepatopancreas immune indexes of Litopenaeus vannamei $\scriptstyle \overbrace { n = 5 }$ ）  
+
+<html><body><table><tr><td colspan="2">项目</td><td colspan="2">组别Groups</td><td></td></tr><tr><td>Items</td><td>Y0</td><td>Y0.3</td><td>Y0.5</td><td>Y1.0</td></tr><tr><td>超氧化物歧化酶 SOD/（U/g prot)</td><td>21.87±0.94a</td><td>23.93±1.00b</td><td>26.18±0.40c</td><td>28.76±0.21d</td></tr><tr><td>碱性磷酸酶 ALP/（金氏单位/g prot）</td><td>10.94±0.57a</td><td>22.86±1.37b</td><td>22.89±1.58b</td><td>20.56±1.43b</td></tr><tr><td>过氧化物酶 POD/（U/mg prot）</td><td>2.29±0.05a</td><td>2.89±0.01b</td><td>2.89±0.12b</td><td>3.11±0.21b</td></tr><tr><td>溶菌酶 LSZ/(U/mg prot）</td><td>5.94±0.20a</td><td>11.13±0.36b</td><td>10.80±0.92b</td><td>9.44±0.18b</td></tr></table></body></html>
+
+2.5哈维氏弧菌攻毒对凡纳滨对虾累积死亡率和相对免疫保护率的影响
+
+由图1可知，Y0.3、Y0.5组的累积死亡率显著低于Y1.0组（ $P { < } 0 . 0 5$ ），与Y0 组无显著差异（ $. { \cal P } { > } 0 . 0 5$ ）。
+
+![](images/8d98ba2d4d78fe44ca829b5df650fa82ef21b04d3020324d5db11093b0c334e4.jpg)  
+图1酵母培养物对凡纳滨对虾哈维氏弧菌攻毒后累积死亡率的影响
+
+Fig.1 Effects of yeast culture on CMR of Litopenaeus vannamei after challenged by Vibrio harveyi
+
+由图2 可知，Y0.3、Y0.5 组的相对免疫保护率显著高于Y1.0 组（ $P { < } 0 . 0 5$ ），与Y0组无显著差异（ $. P { > } 0 . 0 5$ ）。
+
+![](images/74f9a8de0628879ad58b60a546ce96512a1fbb5a2f69d76ba766e91937e7a711.jpg)  
+图2酵母培养物对凡纳滨对虾哈维氏弧菌攻毒后相对免疫保护率的影响
+
+Fig.2 Effects of yeast culture on RPS of Litopenaeus vannamei after challenged by Vibrio harveyi
+
+# 3讨论
+
+3.1酵母培养物对凡纳滨对虾生长性能的影响
+
+酵母培养物中含有丰富的氨基酸、有机酸及寡糖等营养物质，通过改善肠道形态结构、增强消化酶活性，促进饲料营养物质的消化、吸收和利用，从而提高水产动物的生长性能[12]。本试验中，饲料中添加酵母培养物对凡纳滨对虾有一定的诱食效果，与在大菱鲆（Scophthalmus maximus）[13]上的报道一致，这是因为酵母培养物中含有谷氨酸、核酸等风味物质，使饲料具有独特的芳香气味，从而起到诱食作用。研究报道，饲料中添加适量的酵母培养物能够显著提高草鱼(Ctenopharyngodon idelus)[4]、建鲤（Cyprinuscarpio var Jian）[15]、牙鲆（Paralichthys olivaceus）[6]、异育银鲫（Carassusauratus gibelio）[17]、团头鲂（Megalobrama amblephala）[18]、凡纳滨对虾[19]等水产动物的特定生长率，并显著降低饲料系数。此外，酵母培养物可在一定程度上补偿饲料中由豆粕替代鱼粉引起的大菱鲆的特定生长率下降等问题[13]。本试验中，Y0.3组对虾的增重率和特定生长率显著高于Y0.5组，饲料系数显著低于其余各组；当酵母培养物添加量超过一定量时，对虾的增重率、特定生长率和蛋白质效率呈下降的趋势且饲料系数上升，产生了负面影响，表明过量的酵母培养物并不能使凡纳滨对虾的生长性能进一步改善。这可能与酵母培养物中的非淀粉多糖有关，高剂量添加酵母培养物导致饲料中非淀粉多糖含量增加，抗营养作用加剧，影响凡纳滨对虾对饲料中营养成分的消化吸收，维持体内生长的能量或营养素减少[14]，具体原因有待进一步证明。本试验条件下，酵母培养物在一定范围内可有效促进凡纳滨对虾的生长，且添加量为 $0 . 3 0 \%$ 时生长效果最好；但粟雄高等[19]指出，饲料中添加 $0 . 0 7 5 \% \sim 0 . 1 0 0 \%$ 酵母培养物（益康XP）能显著改善凡纳滨对虾的生长性能，这可能受初始体重、菌株来源、生产工艺等因素的影响，使得饲料中酵母培养物的最适添加量有所不同。有研究表明，饲料中添加酵母培养物后，各组团头鲂肌肉、肝脏、全鱼中粗蛋白质含量均显著高于对照组[18]。本试验中，酵母培养物能够显著提高凡纳滨对虾肌肉粗蛋白质含量，但粟雄高[20]和温俊[16]指出，饲料中添加酵母培养物对水产动物的肌肉粗蛋白质、粗脂肪和水分含量均无显著影响，这可能是受动物种类、酵母培养物的生产工艺等因素的影响所致。酵母培养物提高肌肉品质的原因可能是由于酵母培养物中的成分为凡纳滨对虾生长提供了营养物质，参与了机体代谢，且各种未知生长因子共同作用，从而促进对虾的生长，改善肌肉品质。
+
+# 3.2酵母培养物对凡纳滨对虾非特异性免疫力和抗病力的影响
+
+与陆生动物一样，水产动物的非特异性免疫功能也包括体液免疫和细胞免疫[21]。其中，SOD 与动物的免疫水平密切相关，能够催化氧自由基对分子氧和过氧化氢的歧化反应，并且增强吞噬细胞防御能力，它是机体抗氧化防御系统的重要组成部分[22]。本试实验中，添加酵母培养物能够显著提高凡纳滨对虾血清中SOD 活性，在异育银鲫[7]、中华鳖（Pelodiscus sinensis）[23]等水产动物的研究中也有类似的结果。酵母培养物能够提高凡纳滨对虾血清中 SOD 活性与其含有丰富 ${ \beta }$ -葡聚糖和甘露寡糖（MOS）密切相关，其中 $\beta$ 葡聚糖能够增强血细胞 SOD 活性，提高抗氧化能力[24-25]；甘露寡糖本身具有一定的免疫原性，能够刺激机体的免疫应答，增强血浆 SOD 活性，提高其非特异性免疫力[26-27]。
+
+LSZ 是一种水解 N-乙酰胞壁酸和 N-乙酰葡糖胺酶，已经在鱼类黏液、血清和组织发现，并且在血细  
+胞中大量存在，它是生物体内重要的非特异性免疫因子之一[28]。本试验中，饲料中添加酵母培养物均能显  
+著提高凡纳滨对虾血清、肝胰腺中LSZ活性，与在牙鲆[16]、异育银鲫[17]、中华鳖（Pelodiscus sinensis）[23]  
+等水产动物中报道的一致。LSZ 可清除抗菌因子作用后所残余的细菌细胞壁，增强其他免疫因子的抗菌敏  
+感性，协同其他免疫因子共同抵制外来病原的入侵，血清LSZ活力提高，其免疫能力也相应提高[29]。PO 在甲壳动物中以酶原的形式存在，PO 原激活系统是一种重要的免疫识别和免疫防御系统，在抵抗  
+外来病原物质入侵和环境胁迫下发挥着重要的作用[30]。研究表明，饲料中添加酵母培养物可以提高刺参[5]、  
+凡纳滨对虾[19]血清 PO活性。本研究中，饲料中添加酵母培养物能显著提高凡纳滨对虾血清、肝胰腺中 PO活性，这与其所含成分 $\beta \cdot$ -葡聚糖有关。酵母培养物所含成分 ${ \mathfrak { \beta } }$ -葡聚糖可以提高养殖动物PO 活性己经有了较多的报道。体外试验证明，酵母 $\beta$ -葡聚糖能够提高斑节对虾（Penaeus monodon）血清中 PO 活性[31],Duvic 等[32]在奥斯塔欧洲螯虾（Astacus astacus）和克氏原螯虾（procambarus clarkii）的血浆中检测到 β-葡聚糖结合蛋白（BGBP）的存在，BGBP与 ${ \beta }$ -葡聚糖结合后，通过增强 PO 原激活酶与 PO 的活性来激活PO 原激活系统，进而提高免疫防御能力。Wang[33通过印记杂交分析法检测到凡纳滨对虾肝胰腺中 BGBP和血细胞中PO原连续表达，说明对虾肝胰腺中存在 BGBP。本试验中，酵母培养物提高对虾血清中 PO 活性极有可能是由于肝胰腺中 BGBP 与所含 ${ \beta }$ 葡聚糖的结合激活 PO 原激活系统实现的，具体机理有待进一步研究。  
+MDA作为有毒有害的脂质过氧化产物，其含量升高表明氧自由基产生过多，氧自由基具有很强的氧化性，能攻击质膜中不饱和脂肪酸的双键，造成脂质过氧化，导致细胞膜流动性降低[34]。本研究中，饲料中添加适宜的酵母培养物可以降低凡纳滨对虾血清中MDA含量，提高其抗氧化能力，这与徐磊等[17]、张爱忠等[35]的研究结果基本一致。另外，研究发现酵母培养物水溶物能够改善MDA损伤的离体草鱼肠道黏膜细胞的生长状态，降低MDA导致的细胞膜通透性增加，提高细胞抗氧化能力[36]。  
+本研究中凡纳滨对虾所表现出来的抗氧化能力和非特异性免疫力的增强还可能与酵母培养物中含有的核苷酸有关。研究表明，酵母核苷酸能够显著提高东欧螯虾（Astacus leptodactylus）[37]、真鲷（Sparusaurata）[38]、罗非鱼（Oreochromis niloticus）[39]的抗氧化能力和血清非特异性免疫力，酵母核苷酸作为一种免疫增强剂在提高甲壳动物抗氧化能力和免疫功能方面也具有重要意义[40]。  
+酵母培养物对水产动物抗病力也有着积极的改善作用。研究报道，饲料中单独添加酵母培养物可以显著降低刺参感染灿烂弧菌（Vibro splendidus）后的累积死亡率，提高抗病力[5]；饲料添加酵母细胞壁能够提高花鲈（Lateolabrax japonicus）气单胞菌（Aeromonas）攻毒后的成活率，提高抗病力[6]；在牙鲆自然感染弧菌患病的情况下，饲料中单独添加 $0 . 0 7 \%$ 的酵母培养物（益康 XP）有提高牙鲆抗病力的趋势；Burgents 等[3]用添加酵母培养物（益康 XP）的饲料饲喂凡纳滨对虾，每周进行弧菌（Vibrio sp.）攻毒，发现添加 $1 \%$ 的益康 XP第3周攻毒后的成活率要显著高于未添加组；粟雄高等[9]进行了凡纳滨对虾溶藻弧菌（Vibrio alginolyticus）攻毒试验，发现 $0 . 1 0 \%$ 酵母培养物组前3天的累积死亡率较对照组降低趋势。本试验中，在哈维氏弧菌攻毒的情况下，饲料中添加 $0 . 3 0 \% \sim 0 . 5 0 \%$ 的酵母培养物降低了凡纳滨对虾的累积死亡率，具有一定的免疫保护作用，但与对照组相比效果不显著；然而，继续增加酵母培养物的添加量至
+
+$1 . 0 0 \%$ 时凡纳滨对虾的累积死亡率升高，相对免疫保护率下降，可能是由于高剂量的酵母培养物引起了凡纳滨对虾免疫反应过度，导致抗病力下降，具体机理还需要进一步研究证实。
+
+4结论
+
+本试验条件下，饲料中添加酵母培养物具有一定的诱食效果，添加量为 $0 . 3 0 \%$ 时可显著提高凡纳滨对虾的生长性能；与不添加酵母培养物相比，饲料中添加 $0 . 3 0 \% \sim 0 . 5 0 \%$ 的酵母培养物可显著提高凡纳滨对虾的非特异性免疫力。
+
+参考文献：   
+[1] MUROGAK.Viralandbacterialdiseases of marine fishand shellfish inJapanese hatcheries[J].Aquaculture,2001,202(1/2):23-44.   
+[2]THITAMADEE S,PRACHUMWAT A,SRISALA J,et al.Review of current disease threats for cultivated penaeid shrimp in Asia[J].Aquaculture,2016,452:69-87.   
+[3] BURGENTS JE,BURNETT K G,BURNETT L E,et al.Disease resistance of Pacific white shrimp,Litopenaeus vannamei,following the dietary administration of a yeast culture food supplement[J].Aquaculture,2004,231(1/2/3/4):1-8.   
+[4] 刘立鹤,张恒,聂伟,等.草鱼配合饲料添加酵母培养物对草鱼生长性能、肝肠功能的影响[J].武汉轻工大学 学报,2014,33(1):34-39.   
+[5]张琴.刺参(Apostichopus japonicus Selenka)高效免疫增强剂的筛选与应用[D].博士学位论文.青岛:中国海 洋大学,2010.   
+[6] YU HH,HAN F,XUE M,et al.Efficacy and tolerance of yeast cell wall as an immunostimulant in the diet of Japanese seabass (Lateolabrax japonicus)[J].Aquaculture,2014,432:217-224.   
+[7] JORGENSEN J B,ROBERTSEN B.Yeast $\beta$ -glucan stimulates respiratory burst activity of Atlantic salmon (Salmo salar L.) macrophages[J].Developmental & Comparative Immunology,1995,19(1):43-57.   
+[8]MESHRAM S J,MURTHY H S,ALI H,et al.Effect of dietary $\beta$ -glucan on immune response and disease resistance against Aeromonashydrophila in giant freshwater prawn,Macrobrachium rosenbergii (de Man.1879)[J].Aquaculture International,2015,23(2):439-447.   
+[9] NRC.Nutrition requirement of fish[S].Washington,D.C.:National Academy Press,2002:114.   
+[10] AOAC.Official methods of analysis[S].Arlington,VA:Association of Official Analytical Chemists,1995:684. [11] ASHIDA M.Purification and characterization of pre-phenoloxidase from hemolymph of the silkworm Bombyx mori[J].Archives of Biochemistry and Biophysics,1971,144(2):749-762.   
+[12]郁欢欢,周文豪,曾虹,等.酵母培养物在水产动物中的应用及作用机理研究进展[J].饲料工 业,2015,36(18):25-29.   
+[13] 赵贵萍.不同豆粕水平的饲料中添加一种酵母培养物(益康 XP)对大菱鲆生长、组织学结构以及肠道菌 群的影响[D].硕士学位论文.青岛:中国海洋大学,2008.   
+[14]邱燕.三种微生态制剂对草鱼(Ctenopharyngodon idellus)生长性能、生理机能及肠道黏膜的影响[D].硕士 学位论文.苏州:苏州大学,2010.   
+[15]刘哲,魏时来.酵母培养物对建鲤生长性能影响的研究[J].饲料工业,2003,24(4):52-53.   
+[16] 温俊.复合益生菌与酵母培养物对牙鲆(Paralichthys olivaceus)生长、免疫及抗病力的影响[D].硕士学位 论文.青岛:中国海洋大学,2007.   
+[17]徐磊,刘波,谢骏,等.酵母培养物对异育银鲫生长、血液生化及免疫的影响[J].江苏农业科 学,2010,(6):371-374.   
+[18]李高锋.酵母培养物在团头鲂饲料中的应用研究[D].硕士学位论文.苏州:苏州大学,2009.   
+[19] 粟雄高,李小勤,冷向军,等.酵母培养物和芽孢杆菌对凡纳滨对虾生长、蛋白酶活性和免疫性能的影响[J]. 海洋渔业,2012,34(2):168-176.   
+[20] 粟雄高.柠檬酸和微生态制剂对凡纳滨对虾生长、消化酶活性和免疫性能的影响[D].硕士学位论文.上海: 上海海洋大学,2012.   
+[21] 刘宗英,姚鹃,陈昌福,等.高活性干酵母对中华鳖非特异性免疫功能和抗病力的影响[J].华中农业大学学 报,2005,24(2):192-196.   
+[22] YANG S P,WU Z H,JIAN JC,et al.Efect of marine red yeast Rhodosporidium paludigenum on growth and antioxidant competence of Litopenaeus vannamei[J].Aquaculture,2010,309(1/2/3/4):62-65.   
+[23] 邹玉蓉.降低中华鳖(Pelodiscus sinensis)配合饲料中鱼粉水平的研究[D].博士学位论文.青岛:中国海洋大 学,2011.   
+[24] CAMPA-CORDOVA A I,HERNANDEZ-SAAVEDRA N Y,DE PHILIPPIS R,et al.Generation of superoxide anion and SOD activity in haemocytes and muscle of American white shrimp (Litopenaeus vannamei) as a response to $\beta$ -glucan and sulphated polysaccharide[J].Fish & Shelfish Immunology,2002,12(4):353-366.
+
+[25] JENSEN G S,PATTERSON K M,YOON I.Yeast culture has anti-inflammatory effects and specifically activates NK cells[J].Comparative Immunology,Microbiology and Infectious Diseases,2008,31(6):487-500.
+
+[26] MOURAO JL,PINHEIRO V,ALVES A,et al.Effect of mannan oligosaccharides on the performance,intestinal morphology and cecal fermentationoffatteningrabbits[J].Animal Feed Science and Technology,2006,126(1/2):107-120.   
+[27] MUSSATTOSI,MANCILHA IM.Non-digestibleoligosaccharides:areview[J].Carbohydrate Polymers,2007,68(3):587-597.   
+[28] ELLIS A E.Immunity to bacteria in fish[J].Fish & Shelfish Immunology,1999,9(4):291-308.   
+[29] 郑清梅,吴锐全,叶星.水生动物溶菌酶的研究进展[J].上海水产大学学报,2006,15(4):483-487.   
+[30] 杨留冰,潘鲁青.注射磷脂酰丝氨酸对凡纳滨对虾血蓝蛋白合成、酚氧化酶活性的影响[J].水产学 报,2013,37(9):1378-1388.   
+[31] SUPHANTHARIKA M,KHUNRAE P,THANARDKIT P,et al.Preparation of spent brewer's yeast $\beta$ glucans with a potential application asan immunostimulant for black tiger shrimp,Penaeus monodon[J].Bioresource Technology,2003,88(1):55-60.   
+[32] DUVIC B,SODERHALLAK $\beta _ { - 1 , 3 }$ glucan-binding proteins from plasma of the fresh-water crayfishes Astacus astacus and Procambarus clarkii[J].Journal of Crustacean Biology,1993,13(3):403-408.   
+[33] WANG Y C.Expression of immune-related genes in the Pacific white shrimp,Litopenaeus vannamei and their odulationbybeta-glucanviaoraladministration[DJ.MasterThesis.Kaohsiung:National SunYat-Sen University,2007.   
+[34] SARGIS R M,SUBBAIAH P V.Protection of membrane cholesterol by sphingomyelin against free radicalmediated oxidation[J].Free Radical Biology and Medicine,2006,40(12):2092-2102.   
+[35] 张爱忠,卢德勋,姜宁,等.酵母培养物对绒山羊机体抗氧化能力的影响[J].动物营养学报,2010,22(3):781- 786.   
+[36] 姚仕彬,叶元土,蔡春芳,等.酵母培养物水溶物对丙二醛损伤的离体草鱼肠道黏膜细胞的保护作用[J].动 物营养学报,2014,26(9):2652-2663.   
+[37] SAFARI O,SHAHSAVANI D,PAOLUCCI M,et al.The efects of dietary nucleotide content on the growth performance,digestibility and immune responses of juvenile narrow clawed crayfish,Astacus leptodactylus
+
+Eschscholtz,1823[J].Aquaculture Research,2015,46(11):2685-2697.
+
+[38] HOSSAIN M S,KOSHIO S,ISHIKAWA M,et al.Dietary nucleotide administration influences growth,immune responses and oxidative stressresistance of juvenile red sea bream (Pagrus major)[J].Aquaculture,2016,455:41-49. [39] XU L,RAN C,HE S X,et al.Efectsof dietaryyeast nucleotides on growth,non-specific immunity,intestine growth and intestinal microbiota of juvenile hybrid tilapia Oreochromis niloticus $ { \mathcal { G } } \times$ Oreochromis aureus [J].Animal Nutrition,2015,1(3):244-251.   
+[40] 许丹丹,曹俊明,黄燕华,等.饲料中添加核苷酸对凡纳滨对虾幼虾生长、肠道形态及抗氧化酶活力的影响 [J].中国水产科学,2011,18(5):1115-1124. Efects of Yeast Culture on Growth Performance,Nonspecific Immunity and Disease Resistance of Litopenaeus vannamei HE Yuanfal YU Huanhuan2\* CHI Shuyan1\*\* YANG Qihui1 LIU Hongyu1 ZHANG Shuang1 WANG Jia2 TAN Beiping1,3 DONG Xiaohui1.3 (1. Laboratory of Aquatic Animal Nutrition and Feed, Fisheries College, Guangdong Ocean University,   
+Zhanjiang 524088,China; 2.Beijing Enhalor Biotechnology Co.,Ltd,Beijing100081, China; 3.South China Sea Bio-Resource Exploition and Utilization Collaborative Innovation Center, Guangzhou 51O275, China)   
+Abstract: A $5 6 \mathrm { ~ d ~ }$ feeding trial was carried out to investigate the effects of yeast culture on growth performance,   
+nonspecific immunity and disease resistance of Litopenaeus vannamei.Four isonitrogenous and isolipid diets were   
+prepared by adding 0, $0 . 3 0 \%$ $0 . 5 0 \%$ and $1 . 0 0 \%$ yeast culture in a basal diet, and named as YO, YO.3, YO.5 and Y1.0,   
+respectively. A total of 8Oo Litopenaeus vannamei with an initial average weight of( $1 . 2 0 { \scriptstyle \pm 0 . 0 1 }$ ）g were   
+randomly assigned into 4 groups with 5 replicates per group and 40 individuals per replicate. The results showed as   
+follows: the weigh gain rate (WGR)and specific growth rate (SGR) in Y0.3 group were significantly higher than   
+those in $\Upsilon 0 . 5$ group $( P { > } 0 . 0 5 )$ . The maximum protein efficiency rate (PER) and the minimum feed conversion rate   
+(FCR） were occurred in $\Upsilon 0 . 3$ group,and the differences were significant between $\Upsilon 0 . 3$ group and other groups   
+（204号 $( P { < } 0 . 0 5 )$ . Yeast culture had atractant effect at a certain extent,and the feeding rate (FR) in YO.3 group showed   
+significantly higher than that in YO group $( P { < } 0 . 0 5 )$ . Muscle crude protein content in YO group was significant   
+lower than that in Y0.3, Y0.5 and Y1.O groups $( P { > } 0 . 0 5 )$ ，and a highest value $( 9 1 . 6 9 \% )$ was found in Y0.3   
+group.The activities of serum lysozyme (LSZ), phenoloxidase (PO)and alkaline phosphatase (ALP)and liver LSZ,   
+peroxidase (POD),superoxide dismutase (SOD) and ALP were significantly increased by dietary supplying $0 . 3 0 \%$ ，   
+（204号 $0 . 5 0 \%$ or $1 . 0 0 \%$ yeast culture,and serum malondialdehyde (MDA） content in YO.5 group was significant lower   
+than that in other groups $( P { < } 0 . 0 5 )$ . Shrimps were challenged by Vibrio harveyi for the next 7 days,the cumulative   
+mortality rate in $\Upsilon 0 . 3$ and YO.5 groups were significant lower than that in Y1.O group $( P { < } 0 . 0 5 )$ ,but had no   
+significant differencecompared with YO group $( P { > } 0 . 0 5 )$ . It can be concluded that the supplementation of $0 . 3 0 \%$ （204号   
+yeast culture can significantly enhance the growth performance of Litopenaeus vannamei,and the supplementation
+
+of $0 . 3 0 \%$ to $0 . 5 0 \%$ yeast culture can significantly improve the nonspecific immunity of Litopenaeus vannamei. Key words: yeast culture; Litopenaeus vannamei; growth performance; nonspecific immunity; disease resistance

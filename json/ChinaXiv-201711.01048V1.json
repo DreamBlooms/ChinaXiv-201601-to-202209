@@ -1,0 +1,735 @@
+[
+    {
+        "type": "text",
+        "text": "二十二碳六烯酸的生理学功能及其在家禽生产中的应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "龙烁 王 浩 武书庚\\* 齐广海 张海军 王晶（中国农业科学院饲料研究所，农业部饲料生物技术重点开放试验室，生物饲料开发国家工",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "程研究中心，北京 100081)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：二十二碳六烯酸（DHA）属于@-3系列长链多不饱和脂肪酸，对机体有重要的生理功能。本文综述了DHA的生理学功能、代谢机理、不同DHA来源的比较以及在家禽生产中的应用，旨在为DHA在家禽生产中的科学应用提供理论依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：DHA；生物学功能；蛋黄富集；家禽生产中图分类号：S811.2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "二十二碳六烯酸（docosahexaenoic acid，DHA)是一种 ω-3 系列的长链多不饱和脂肪酸（PUFA)，是大脑中的主要功能物质。@-3PUFA还包括 $\\mathbf { \\boldsymbol { a } } .$ 亚麻酸（ALA，C18:3n-3）、二十碳五烯酸（EPA，C20:5n-3）等[I]，在脂质代谢及合成生物活性分子中担任重要角色。DHA具有保证细胞正常生理功能、促进视网膜和脑发育、延缓脑的衰老、预防和治疗心血管疾病、抗肿瘤、防癌等作用，还可调节机体免疫机能、抑制炎症反应，因此对人和动物的生长和生产性能均有积极作用。富含DHA的功能性原料主要包括深海鱼油等动物性原料，亚麻籽、紫苏籽等植物性原料和微藻类原料。研究表明，饲粮中补充DHA，可增加动物肉、蛋中DHA含量。近年来有关DHA的研究从基础生理逐渐延伸到医药制品、保健品等应用领域，以DHA 为添加剂的保健品备受消费者关注，富含 DHA 的蛋、肉制品也慢慢被大众所熟知并逐渐青睐。本文综述了DHA 对动物及人体的生理功能及在体内发挥生理功能的途径、DHA在人体和蛋禽上的推荐使用剂量、DHA 在机体内的合成及代谢机理、不同DHA 来源及其",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在家禽生产中的应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1DHA的生理功能及需要量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 DHA的生理功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.1 改善血液总胆固醇（TC）、甘油三酯（TG）含量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "家禽饲粮中添加适量的DHA 能够降低血液中 TC、TG、极低密度脂蛋白胆固醇（VLDL-C）、低密度脂蛋白胆固醇（LDL-C）、高密度脂蛋白胆固醇（HDL-C）含量，提高高密度脂蛋白亚组分2 胆固醇（HDL2-C）含量，降低动脉硬化指数（AI）值[9-10]，促进生产性能。饲喂DHA 强化蛋黄粉的大鼠也能降低血清TC、TG 含量9]。对人体而言，DHA可降低血脂、胆固醇含量，预防动脉粥样硬化[2]，减少血栓的形成[3]；DHA 还可降低血压，调节机体血脂和脂蛋白代谢，有效降低血液胆固醇含量和黏稠度[4]。DHA 可通过清除 LDL-C和 VLDL-C 抑制 TC 和 TG 的合成，起到预防动脉粥样硬化和血栓形成的作用。DHA 降低血浆胆固醇的途径有：下调肠道 NPC1L1(Niemann-Pick C1 like 1)[5-6]和肝脏低密度脂蛋白受体(LDLR)基因的表达，抑制羟甲基戊二酰(HMG)辅酶 A(CoA)还原酶的活性[7]，从而减少胆固醇的合成；NPC1L1负责将肠道内腔的胆固醇转移到小肠上皮细胞中，在细胞中转化为胆固醇酯并形成乳糜微粒；HMG-CoA还原酶是胆固醇合成的限速酶[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1.2促进脑部发育脑，改善视网膜功能",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DHA能通过血脑屏障进入脑细胞中，为大脑皮层（占其总脂肪酸的 $2 5 \\%$ )、视网膜（占其总脂肪酸的 $30 \\%$ )、感光细胞（占其总脂肪酸的 $60 \\%$ ）的重要成分[11]，主要存在于大脑的灰质部分，是脑神经细胞膜中重要的脂质成分，也是大脑细胞优先吸收的脂肪酸之一[12]。Lamptey 等[13]首次提出脑磷脂中DHA不足会导致大鼠分辨学习能力降低。饲粮中添加富含DHA 的鱼油能增加幼鼠脑部海马体内单胺类神经递质5-羟色胺（5-HT）、多巴胺（DA）及去甲肾上腺素（NE）含量[4]，饲喂DHA 强化蛋黄粉能提高大鼠脑重[9]。对痴呆小鼠模型灌胃不同剂量DHA-磷脂酰胆碱(PC)脂质体，可增加小鼠大脑中蛋白质含量，显著降低大脑中乙酰胆碱酯酶（TChE）活性，增加脑内酰胆碱（ACH）含量[15]，提高发育大鼠的空间学习记忆能力[16]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "临床研究表明，DHA 不但能促进神经系统发育，还可提高婴儿的视觉灵敏度[17-18]，促进婴幼儿生长发育[19-20]；DHA 能调节中枢神经系统，促进婴儿脑部发育，婴幼儿时期摄入不足会导致后天学习能力下降[21I；婴幼儿时期的视网膜细胞中缺乏DHA，会导致视神经灵敏度下降[22]。胎儿自身不能合成DHA，只能通过胎盘从母体获得，怀孕后期和婴儿出生前期，DHA以 $3 \\mathrm { \\sim } 5 \\mathrm { m g / d }$ 的速度在婴儿大脑中积累，出生后的前6个月是DHA在大脑中积累的主要时期[11]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1.3 抗癌、抑制肿瘤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DHA 能明显抑制肿瘤的发生、生长速度[23-24]，具有抗癌、预防肿瘤的功能[25-26]。研究表明DHA复合物能使荷瘤鼠 $\\mathbf { G } _ { 0 } { \\sim } \\mathbf { G } _ { 1 }$ 期 $\\mathrm { H } _ { 2 2 }$ 癌细胞百分率增加，S期 $\\mathrm { H } _ { 2 2 }$ 癌细胞百分率减小，$\\mathrm { H } _ { 2 2 }$ 癌细胞增值率下降，促进肿瘤细胞凋亡，抑制 $\\mathrm { H } _ { 2 2 }$ 癌细胞生长[27]。DHA 能抑制小鼠乳癌细胞生长，诱导其凋亡[28]。DHA可诱导蛋白酶依赖性的雌激素受体 $\\mathfrak { a }$ 的降解，降低细胞周期蛋白D的表达，抑制丝裂原活化蛋白激酶（MAPK）信号传导通路，从而抑制乳腺癌细胞增殖[29]；@-3PUFA通过抑制环氧合酶-2（COX-2）、血管内皮生长因子（VEGF）的表达，从而抑制结肠癌细胞的增殖和血管生成，并降低其侵袭力[30-311；DHA 通过上调线粒体凋亡通路的促凋亡基因 Bim，下调下游抗凋亡蛋白B 淋巴细胞瘤-2 基因（Bcl-2)，促进凋亡蛋白Bax 表达，激活线粒体凋亡通路，抑制肝癌细胞的增殖[32]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "作用于癌细胞时，DHA 优先聚集在线粒体细胞膜表面磷脂（CL）上[33]，DHA 在CL上易发生氧化磷酸化产生氧自由基（ROS)，改变参与能量传导的CL依赖蛋白，导致线粒体膜电位下降，启动线粒体细胞凋亡通路[34]；CL损伤可诱导细胞色素C（CytC）和其他相关因子释放到细胞浆[35]，与细胞凋亡蛋白酶激活因子1（Apaf-1)、dATP 和半胱氨酸天冬氨酸特异性蛋白酶9酶原（pro-caspase9）结合形成凋亡复合体，从而裂解半胱氨酸天冬氨酸特异性蛋白酶（Caspase）9，激活细胞凋亡蛋白酶级联反应，造成与凋亡关系密切的Caspase 3裂解，最终导致细胞凋亡。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.1.4免疫功能及调节炎症反应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "@-3 PUFA可降低致炎因子的活性，防止炎症和自身免疫性疾病[36-38]。DHA 能显著抑制脂多糖（LPS）刺激的肉仔鸡肠道B 淋巴细胞增殖[39]。肉仔鸡饲粮中添加富含@-3 PUFA 的鱼油降低了血浆肿瘤坏死因子（TNF）和白细胞介素（IL）-1含量，缓解炎症反应[40]。在感染李斯特菌的小鼠饲粮中添加 $\\left. \\omega - 3 \\right.$ PUFA，使脾脏中IL-2、IL-12、IL-1β 含量显著下降[41]。当机体受到炎症或免疫的刺激时，磷脂酶 $\\mathbf { A } _ { 2 } ( \\mathbf { P L A } _ { 2 } )$ 会催化磷脂甘油裂解，产生溶血磷脂酰胆碱(LPC)和类二十烷酸前体。类二十烷酸的代表物质有花生四烯酸(AA)、前列腺素(PGE)等，急性炎症反应的中，前列腺素 $\\mathbf { E } _ { 2 }$ ( $\\mathrm { P G E } _ { 2 }$ ）（以AA为前体）不仅发挥自身的促炎作用，还会作为前体被脂质介质类脂转换后，诱发信号通路下游核转录因子-kB（NF-kB）途径，使促炎细胞因子 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 、IL- $1 \\beta$ 、IL-6、COX-2 含量和一氧化氮合酶(iNOS)活性升高，且程度随炎症反应的进展变化。炎症反应过程中，若机体不能完全清除炎症刺激物，这些持续的炎症刺激可能导致更严重的炎症反应[42-43]。@-3PUFA作为前体时，会产生促炎效果偏弱的前列腺素 $\\mathrm { E } _ { 3 }$ （ $\\mathrm { P G E } _ { 3 }$ )，并以此削弱炎症反应，产生抗炎效果[44]。@-3PUFA可竞争性抑制 AA代谢所需要的环氧酶（COX）、脂氧酶（LOX）活性，从而减少类二十烷酸生成，拮抗类AA来源的类二十烷酸的免疫抑制作用和促炎作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "免疫细胞膜表面的抗原、抗体数量及分布、淋巴因子和抗体分泌等免疫功能，均依赖于细胞膜，o-3PUFA通过改变细胞膜磷脂脂肪酸构成，影响细胞膜的流动性和膜上相关信号分子、酶的功能，从而改变信号转导过程[45]。膜蛋白与脂质会形成一个 $1 0 { \\sim } 2 0 0 ~ \\mathrm { n m }$ 的紧密、刚性的疏水区域，这些区域被称为脂筏。脂筏对T细胞受体和B细胞受体接受外部信号起至关重要的作用，是淋巴细胞表面免疫球蛋白和内部信号转导通路的枢纽[46]，尽管针对脂筏和细胞膜表面功能关联性的研究结果并不完全一致[47]，但饲粮脂肪对脂质筏的影响和免疫细胞信号传递的影响仍有据可循。在体外试验中，用EPA处理T细胞可以通过改变脂质筏的结构来破坏钙的信号通路；并且在动物试验中，可通过@-3PUFA 替代饲粮中的@-6PUFA可以改变细胞膜偶联的蛋白质的结构[48]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动物机体通过CD1分子完成脂类抗原的信息呈递[49]。CD1分子群已知有a\\~e5种类型，不同的CD1分子其结构特征及配体结合能力各不相同，但作为识别结合多种脂类抗原或脂肽的分子，其共同点就是存在着特定的疏水结构域。以CD1b 分子为例，其分子表面存在着非极性疏水结构域，该结构域存在着4个类似于口袋状的结构，每个可容纳11\\~22个碳原子，这为其识别脂类抗原提供了分子结构基础[50]。CD1 递呈细胞可以向一系列特殊识别脂质的自然杀伤T细胞（NKT）提供内源性脂质抗原；使NKT中的半不变量T细胞受体，辨识内源脂质，再应答内源性脂质（溶血磷脂酰胆碱—γ干扰素)，使其担任促进或校正炎症反应的角色。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.2DHA 的推荐剂量",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "关于DHA在人体上的每日推荐摄入量，不同地区和机构对DHA的摄入推荐量见表1所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e99c0ffb65f5d4121e9c17ac0ad5769bd3fcbbd3f50c5b5e910012c6990484e.jpg",
+        "table_caption": [
+            "表1不同地区和机构对DHA 的摄入推荐量",
+            "Table 1The recommended amount of DHA by different regions and organizations "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>推荐机构</td><td>适用人群</td><td>推荐剂量</td></tr><tr><td>Recommended organizations</td><td>Applicable people</td><td>Recommended dose</td></tr><tr><td>联合国粮农组织、世界卫生组织</td><td>孕期及哺乳期妇女</td><td>DHA+EPA>=300 mg/d</td></tr><tr><td>FAO、WHO</td><td></td><td>DHA>=200 mg/d</td></tr><tr><td>世界卫生组织</td><td>0~6个月婴儿</td><td>0.20%~0.36%总脂肪酸</td></tr><tr><td>WHO</td><td>6~24个月婴儿</td><td>10~12 mg/kg 体重</td></tr><tr><td></td><td>2~4岁</td><td>DHA+EPA 为 100~150 mg/d</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/346cba2859845aa6dfce05a869a428f89ec839b949044ec85376d3bac956a901.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"></td><td>4~6岁</td><td>DHA+EPA为 150~200 mg/d</td></tr><tr><td colspan=\"2\"></td><td>健康成人</td><td>220 mg/d</td></tr><tr><td colspan=\"2\">美国国家卫生院NIH</td><td>健康成人</td><td>DHA 需要量为220 mg/d</td></tr><tr><td colspan=\"2\">英国科学委员会 United Kingdom Scientific</td><td>健康成人</td><td>DHA+EPA 为 450~500 mg/d</td></tr><tr><td colspan=\"2\">Advisory Committee 法国食品卫生安全局</td><td>成年男性</td><td>DHA>= 20 mg/d</td></tr><tr><td>AFSSA</td><td></td><td>成年女性</td><td>DHA>=100 mg/d</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "摄入适量的DHA有益机体健康，但大量DHA 摄入会产生出血倾向，有凝血功能障碍和严重高血压的患者需限量食用。DHA 是高度不饱和脂肪酸，易受体内活性自由基攻击而引发过氧化反应，从而对细胞膜造成损伤，免疫细胞膜结构损坏会对免疫器官功能造成不利影响。有研究表明，在蛋鸡中饲粮中添加 $1 2 0 ~ \\mathrm { m g / k g }$ 的 @-3 PUFA 能使蛋中的沉积效率最高[51]。关于有其他动物的推荐使用剂量，还需要进一步的研究。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2DHA的合成与代谢",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "哺乳动物体内缺乏 $\\Delta 1 2$ 和 $\\Delta 1 5$ 去饱和酶，所以无法合成亚油酸（LA）和ALA，必须由食物中获取，构成必需脂肪酸。DHA合成途径中，ALA作为起始物，需经△6-脂肪酸脱氢酶催化，转化为十八碳四烯酸[52-53]；再经 $\\beta$ -酮脂酰CoA合成酶催化与丙二酰CoA 缩合，形成二十碳 $\\beta$ -酮脂酰CoA；再经 $\\beta$ -酮脂酰CoA还原酶、脱水酶及烯脂酰CoA还原酶的依次催化，转化为二十碳的酰基CoA，完成碳链延伸[54];继续以相似的方式脱氢延伸合成 EPA[55];EPA 转化为DHA有2种途径：一是\"Sprecher\"通路，即 EPA在经延伸后形成二十四碳五烯酸，经△6 脂肪酸脱氢酶催化，生成二十四碳六烯酸，再经β-氧化后，脱去一个乙酰CoA，形成 DHA[56]；二是\"Microbial△4\"通路，即 EPA 直接由△5 延伸酶延伸，再经 $\\Delta 4$ -脂肪酸脱氢酶催化形成DHA[57]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "脂肪酸在 $\\beta$ 氧化之前，先由脂酰CoA合成酶和组织氧化中的CoA(HS-CoA)脱水缩合，活化成脂酰CoA正式进入 $\\beta$ 氧化。脂酰CoA在脂酰辅酶A脱氢酶和 $\\Delta 2$ -烯脂酰水合酶的作用下，生成 $\\beta \\mathrm { . }$ -羟脂酰 $\\mathrm { C o A }$ ；在 $\\beta$ -羟脂酰脱氢酶的作用下，脱去 $\\beta$ -羟脂酰CoA $\\beta$ 碳原子上的氢，生成 $\\beta \\cdot$ -酮脂酰CoA，后者在 ${ \\beta }$ -酮脂酰CoA硫解酶催化下与游离HS-CoA缩合，形成一个少2个碳原子的脂酰CoA和1个乙酰CoA。并如此往复进行 $\\beta$ 氧化。脂肪酸通过 $\\beta$ 氧化过程最终分解为乙酰CoA，乙酰CoA进入三羧酸循环彻底氧化分解为 $\\mathrm { C O } _ { 2 }$ 和 $\\mathrm { H } _ { 2 } \\mathrm { O }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 DHA来源",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "目前人类所需的DHA主要有2种来源：一类是直接摄入富含DHA 的物质，如深海鱼产品、鱼油、微藻、富 DHA 产品（鸡蛋、肉类）等；另一类是摄入含有ALA 的物质，如亚麻籽、紫苏籽等，在体内脱氢酶和延长酶的作用，经过脱形于碳链延长的方式转化为DHA。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1 深海鱼油 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "鱼油是传统的@-3PUFA来源，深海鱼油富含EPA 和DHA。提高饲粮鱼油水平明显提高鸡蛋中 $\\mathrm { \\omega } _ { \\mathrm { 0 } - 3 }$ PUFA含量，主要是DHA[58]，对鸡蛋中EPA含量影响较小。饲粮中添加 $1 . 5 \\%$ 、3.0%、 $4 . 5 \\%$ 和 $6 . 0 \\%$ 的鲱鱼油（DHA含量分别为0.90、1.75、2.88 和 $3 . 7 7 ~ \\mathrm { g / k g } )$ ，每只鸡蛋中 DHA含量分别为137.26、140.62、171.97和 $1 8 1 . 4 9 \\mathrm { m g }$ ，沉积量随添加量的增加而增加，但沉积效率随添加量增加而降低[59]；但当饲粮中添加鱼油到 $1 . 5 \\%$ 时，鸡蛋就会产生不容易被消费者接受的鱼腥味[60]。为了去除鸡蛋的鱼腥味，有人尝试着通过微胶囊技术处理鱼油，虽然可以较好的消除饲料中的味道，但对鸡蛋鱼腥味改善效果甚微[61]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "除致产品鱼腥味外，鱼油也存在有机物（POPs）污染问题[62]，孕妇和哺乳期的妇女若食用了被POPs污染的鱼类产品，可造成流产或通过胎盘或母乳积累到婴幼儿体内造成不可逆转的神经缺陷[63]。数据表明，全球渔业产量在下降，现在海洋中鱼的数量只有工业革命前的 $10 \\%$ ，已经不足以作为DHA补充剂[64]，长期开发鱼油DHA 势必会破环生态环境。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 植物种子",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "亚麻籽：亚麻籽是天然植物中亚麻油含量较高的油类作物之一，富含ALA，在脱氢酶和去饱和酶的催化下衍生成更长链的脂肪酸（EPA和DHA)。饲粮中添加 $8 \\%$ 亚麻籽极显著增加蛋黄中ω-3PUFA含量，极显著降低 $\\mathrm { n } { - } 6 / \\mathrm { n } { - } 3 ^ { [ 9 ^ { \\prime } \\ 6 5 ] }$ 。家禽[66]和人类[67]将ALA合成长链 $\\left( 0 ^ { - 3 } \\right.$ PUFA(EPA、DHA)的效率较低。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "紫苏籽：紫苏籽中ALA含量很高，是卫生部首批颁布的既是食品又是药品的60 种物品之一，紫苏油中含有 $5 5 \\% { \\sim } 6 5 \\%$ 的ALA，是生产富含@-3PUFA鸡蛋的良好资源。饲粮中添加 $0 . 1 \\%$ 、 $0 . 2 \\%$ 、 $0 . 3 \\%$ 的紫苏籽提取物能极显著提高鸡蛋的产蛋率和日均产蛋量[68]。饲粮中添加 $8 \\%$ 、 $12 \\%$ 、 $1 6 \\%$ 、 $20 \\%$ 富含 ALA的紫苏籽，蛋黄中ω-3含量极显著高于对照组， $\\mathrm { \\omega } \\mathrm { \\omega } \\omega \\mathrm { \\omega } \\mathrm { \\omega } \\mathrm { \\omega }$ 比例也极显著下降[69]。饲粮中添加紫苏籽提取物对免疫机能也有一定的影响，添加 $0 . 0 3 \\%$ 紫苏籽提取物能极显著提高蛋鸡血清中免疫球蛋白 $\\mathrm { G } ( \\mathrm { I g G } )$ 和免疫球蛋白A(IgA)含量[68]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 微藻粉、油 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为@-3PUFA的生产者，微藻近些年来备受关注。根据 2010 年颁布的《中华人民共和国食品安全法》和《新资源食品管理办法》，批准裂壶藻(Schizochytrium sp.)、吾肯氏壶藻(Ulkenia amoeboida)和寇氏隐甲藻(Crypthecodinium cohnii)为生产DHA 藻油的新资源食品,并允许其添加到婴幼儿配方食品中。作为工业生产中应用最多的异养型微藻，裂殖壶菌细胞中积累了大量对人体有益的色素(类胡萝卜素、虾青素、叶黄素等)、油脂、角烯鳖等活性物质，其中油脂占细胞干重的 $70 \\%$ 以上[70]，总脂中含DHA $3 5 \\% { \\sim } 4 0 \\%$ ， $90 \\%$ 以上的脂肪酸为TG 形式存在[71]，易分离纯化，且不含鱼油的鱼腥味。微藻中胡萝卜素不仅是天然的抗氧化剂、沉积到蛋黄重中加深蛋黄颜色[72]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "作为DHA源与传统来源相比，微藻有许多优点。利用光照的生物反应器微藻对海洋污染物有一定的抵抗能力，减少海洋重金属污染在体内的沉积；能人为优化生长环境；且微藻脂肪粒 EPA 含量低于鱼油，减少对 AA 的竞争抑制作用[73]。与鱼油脂肪酸相比，微藻脂肪酸组成更加简单，分离更容易[6]。鱼油中DHA以乙酯型，微藻油中以TG 的形式存在。TG型DHA在机体的吸收率是乙酯型DHA的3倍[74]，且更适宜婴幼儿吸收[75]。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4DHA在家禽生产中的应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.1 DHA在蛋禽中的应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "鸡蛋是人们日常膳食的重要组成部分，含有人体所必须的脂肪酸、氨基酸及维生素等。饲粮中高水平的不饱和脂肪酸会影响蛋黄中的脂肪酸比例，但饱和脂肪酸对蛋黄脂肪组成影响较小[51I；在适当范围内，蛋黄中PUFA 沉积量和沉积率与饲粮中添加 PUFA 的量存在直接相关性[76-77]；饲喂4周，饲粮中添加何种富含@-3 PUFA 的原料都会增加蛋黄@-3 PUFA 含量[78]，且DHA 会优先沉积于蛋黄中[79]，且自养型微藻粉还能增加蛋黄红度，不影响生产性能（采食量、产蛋率、死亡率和发病率）和蛋品质（蛋重、蛋黄重）[79]。蛋黄中DHA 沉积效率随着饲粮 DHA 含量增加有降低趋势，饲粮中添加双倍的微藻粉不会双倍增加蛋黄中DHA 含量[76]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "蛋鸡饲粮中添加适量的 DHA，不仅能够增加蛋中DHA 含量，还能降低血液胆固醇含量。海兰褐蛋鸡饲粮中添加 $1 \\%$ 、 $2 \\%$ 和 $3 \\%$ 裂殖壶菌粉（含DHA137.09 mg/g)，降低了蛋鸡血清 TC、TG 和LDL-C 含量，显著增加蛋中 DHA 含量[77]。蛋鸡饲粮中添加相同水平的 DHA和 ALA，DHA 组更能显著增加蛋黄中DHA含量，降低血液胆固醇含量[80]。DHA 来源对蛋黄脂质氧化有不同影响，蛋鸡饲粮中添加亚麻籽[811、鱼油[82均可致蛋黄MDA含量上升，但是添加 $3 \\%$ 的裂壶藻干粉未见影响蛋黄脂肪酸的氧化，且4℃储存30d，与对照组氧化值仍无差异[83]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上，改变饲粮中脂肪酸的种类是改变蛋蛋黄中@-3PUFA的有效方法。蛋黄脂肪酸中@-3 PUFA 的沉积效率大小依次为ALA>DHA>EPA。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 DHA在肉禽中的应用",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加富含DHA 的原料，可生产出高品质富含 DHA 的禽肉。饲喂肉鸡玉米油、亚麻油和步鱼油结果表明，鱼油组中胸肌、腿肌中的EPA和DHA含量显著高于其他组，亚麻油组的腿肌中ω-3PUFA含量升高，且主要沉积物是ALA[84]；饲喂含 $5 \\%$ 鱼油和亚麻油的饲粮，鱼油组长链@-3 PUFA(EPA、DPA 和 DHA)含量增加，亚麻油组ALA 和LA 含量增加，且@-3 PUFA 易沉积于胸肌中，LA 和 ALA易沉积于腿肌中[85]。肉品中沉积DHA 的主要来源仍是海洋鱼类，但饲粮中鱼油超过 $2 \\%$ 将会损害肉质的感官[86]；肉鸡饲粮中添加 $4 0 0 \\mathrm { m g / k g }$ 的DHA微藻粉（含DHA $1 0 . 3 \\%$ )，显著增加肉仔鸡日增重和饲料转化率，降低了腹脂率，降低了血清中TC、TG 和LDL-C 含量，增加了HDL-C 含量[87]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5小结 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DHA可调节机体的脂质代谢和激素分泌，改善机体免疫机能、抗炎症、促进机体健康;通过增加动物饲粮中 ALA、EPA、DHA 等，可增加产品中 DHA 含量，满足人类健康的需要。作为饲料原料，DHA在动物饲粮中的适宜剂量、耐受剂量还有待研究。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]LEMAHIEU C,BRUNEEL C,RYCKEBOSCH E,et al.Impact of different omega-3 polyunsaturated fatty acid (n-3 PUFA) sources (flaxseed,Isochrysis galbana,fish oil and DHA Gold）on n-3 LC-PUFA enrichment (efficiency） in the egg yolk[J].Journal of Functional Foods,2015,19:821-827. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[2] DYERBERG J,BANG H O,STOFFERSEN E,et al.Eicosapentaenoic acid and prevention of thrombosis and atherosclerosis?[J].The Lancet,1978,312(8081):117-119. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[3] UMEMURA K,TOSHIMA Y,ASAI F,et al.Effect of dietary docosahexaenoic acid in the rat middle cerebral artery thrombosis model[J].Thrombosis Research,1995,78(5):379-387. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[4] MORI T A,BAO D Q,BURKE V,et al.Docosahexaenoic acid but not eicosapentaenoic acid lowers ambulatory blood pressure and heart rate in humans[J].Hypertension,1999,34(2):253-260 [5] GE L,WANG J,QI W,et al.The cholesterol absorption inhibitor ezetimibe acts by blocking the sterol-induced internalization of NPC1L1[J].Cell Metabolism,2008,7(6):508-519. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6] MATHUR S N,WATT K R,FIELD F J.Regulation of intestinal NPC1L1 expresson by dietary fish oil and docosahexaenoic acid[J].Journal of Lipid Research,2OO7,48(2):395-404. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[7]FROYLANDL,VAAGENESH,ASIEDU DK,etal.Chronicadministration of eicosapentaenoic acid and docosahexaenoic acid as ethyl esters reduced plasma cholesterol and changed the fatty acid composition in rat blood and organs[J].Lipids,1996,31(2):169-178. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[8] CHENZ Y,JIAO R,MA K Y.Cholesterol-lowering nutraceuticals and functional foods[J].Journal of Agricultural and Food Chemistry,2008,56(19):8761-8773. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9] 汪鲲.n-3多不饱和脂肪酸在蛋黄和组织中的富集规律及其对产蛋鸡脂类代谢的影响[D].  \n博士学位论文.北京:中国农业科学院,2000.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10] 陈秀丽.不同来源 n-3 PUFA 在蛋鸡中应用效果的评价[D].硕士学位论文.杨凌:西北农林科技大学,2014.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11] GUESNET P,ALESSANDRI J M.Docosahexaenoic acid (DHA) and the developing central nervous system (CNS)-implications for dietary recommendations[J].Biochimie,2011,93(1):7-12. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[12]曹万新,孟橘,田玉霞.DHA的生理功能及应用研究进展[J].中国油脂,2011,36(3):1-4.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[13] LAMPTEY M S,WALKER B L.A possible essential role for dietary linolenic acid in the development of the young rat[J].Journal of Nutrition,1976,106(1):86-93. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[14] 李红娟,刘德华,张恩平.发育期补充鱼油对大鼠脑内脂肪酸组成及神经递质的影响[C]达能营养中心青年科学工作者论坛优秀论文集2000年第1期.北京:中国疾病预防控制中心达能营养中心,2000:47-49.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[15] 马琴,王静凤,王玉明,等.二十二碳六烯酸-磷脂脂质体对东茛蓉碱所致痴呆小鼠智力的影响研究[J].中国海洋大学学报,2009,39(Suppl.):69-72.",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[16] 岳崟.多不饱和脂肪酸提高发育期大鼠空间学习记忆的机制[D].硕士学位论文.武汉:武汉轻工大学，2015，",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[17] O'CONNOR D L,HALL R,ADAMKIN D,et al.Growth and development in preterm infants fedlong-chainpolyunsaturatedfattyacids:aprospective，randomizedcontrolled trial[J].Pediatrics,2001,108(2):359-371. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[18] DECSI T,KOLETZKO B.N-3 fatty acids and pregnancy outcomes[J].Current Opinion in Clinical Nutrition and Metabolic Care,2005,8(2):161-166.   \n[19] VAN DE LAGEMAAT M,ROTTEVEEL J,MUSKIETF A J,et al.Post term dietary-induced changes in DHA and AA status relate to gains in weight,length,and head circumference in preterm infants[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,2011,85(6):311-316.   \n[20] HUFFMAN S L,HARIKA R K,EILANDER A,et al.Essential fats:how do they affect growth and development of infants and young children in developing countries?A literature review[J].Maternal & Child Nutrition,2011,7(Suppl.3):44-65.   \n[21] WILLATTS P,FORSYTH J S,DIMODUGNO M K,et al.Effect of long-chain polyunsaturated fatty acidsininfant formula onproblem solving at 1Omonthsofage[J].The Lancet,1998,352(9129):688-691.   \n[22] HORROCKSLA,YEOYK.Healthbenefits of docosahexaenoicacid (DHA)[J].Pharmacological Research,1999,40(3):211-225.   \n[23] BOSETTI C,NEGRI E,FRANCESCHI S,et al.Diet and ovarian cancer risk:a case-control study in Italy[J].International Journal of Cancer,20O1,93(6):911-915.   \n[24] TIMMER-BOSSCHA H,HOSPERS G A P,MEIJER C,et al.Influence of docosahexaenoic acid on cisplatin resistance in a human small cell lung carcinoma cell line[J].Journal of the National Cancer Institute,1989,81(14):1069-1075.   \n[25]WOODWORTH H L,MCCASKEY S J,CLINTHORNE J,et al.DHA exacerbates ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "experimentally induced colitis in SMAD3-/-mice[J].The FASEB Journal,2010,24(Suppl.1):728.1. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[26] LU I F,HASIO A C,HU M C,et al.Docosahexaenoic acid induces proteasome-dependent degradation of estrogen receptor $\\mathfrak { a }$ and inhibits the downstream signaling target in MCF-7 breast cancer cells[J].Journal of Nutrition Biochemistry,2010,21(6):512-517. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[27] 赵丽,孙克任,鲍蕾,等.DHA复合物对鼠移植瘤细胞和T淋巴细胞细胞周期及凋亡的影响[J].肿瘤,2004,24(3):223-225.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[28] 隋英忠,薛美兰,葛银林,等.DHA诱导小鼠乳癌4T1细胞凋亡及其对死亡受体蛋白表达的影响[J].青岛大学医学院学报,2015,51(3):287-289,292.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[29] CALVIELLO G,DI NICUOLO F,GRAGNOLI S,et al.n-3 PUFAs reduce VEGF expression in human colon cancer cells modulating the $\\mathrm { C O X } { \\cdot } 2 / \\mathrm { P G E } _ { 2 }$ induced ERK-1 and -2 and HIF- $1 \\alpha$ induction pathway[J].Carcinogenesis,2004,25(12):2303-2310. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[30] HARDMAN W E.(n-3) fatty acids and cancer therapy[J].Journal of Nutrition,2O04,134(12 Suppl):3427S-3430S. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[31] 孙思楠.DHA对人肝癌细胞凋亡和侵袭力的影响及其机制研究[D].博士学位论文.合肥:安徽医科大学，2013",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[32] WATKINS S M,CARTER L C,GERMAN J B.Docosahexaenoic acid accumulates in cardiolipin and enhances HT-29 cell oxidant production[J].Journal of Lipid Research,1998,39(8):1583-1588. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[33] PARADIES G,PETROSILLO G,PISTOLESE M,et al.Lipid peroxidation and alterations to oxidative metabolism in mitochondria isolated from rat heart subjected to ischemia and reperfusion[J].Free Radical Biology and Medicine,1999,27(1/2):42-50. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[34] BELIKOVA N A,JIANG JF,TYURINA Y Y,et al.Cardiolipin-specific peroxidase reactions of cytochrome $c$ in Mitochondria during irradiation-induced apoptosis[J].International Journal of Radiation Oncology Biology Physics,2007,69(1):176-186. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[35] LARSSON S C,KUMLIN M,INGELMAN-SUNDBERG M,et al.Dietary long-chain n-3 fatty acids for the prevention of cancer:a review of potential mechanisms[J].American Journal of Clinical Nutrition,2004,79(6):935-945. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[36] JHO D H,COLE S M,LEE E M,et al.Role of omega-3 fatty acid supplementation in inflammation and malignancy[J].Integrative Cancer Therapies,2Oo4,3(2):98-111. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[37] MORI T A,BEILIN L J.Omega-3 fatty acids and inflammation[J].Current Atherosclerosis Reports,2004,6(6):461-467. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[38] TONTONOZ P,SPIEGELMAN B M.Fat and beyond:the diverse biology of PPARy[J].Annual Review of Biochemistry,2008,77(1):289-312. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[39] 王益兵.EPA 与DHA 调控肉仔鸡肠道 B 淋巴细胞免疫功能的机理[D].博士学位论文.杨凌：西北农林科技大学，2011",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[40] KORVER D R,KLASING K C.Dietary fish oil alters specific and inflammatory immune responses in chicks[J].Journal of Nutrition,1997,127(10):2039-2046. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[41] FRITSCHE K L,CASSOITY N A,HUANG S C.Effect of dietary fat source on antibody production and lymphocyte proliferation in chickens[J].Poultry Science,1991,7O(3):611-617. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[42] AL-KHALIFA H,GIVENS D I,RYMER C,et al.Effect of n-3 fatty acids on immune function in broiler chickens[J].Poultry Science,2012,91(1):74-88. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[43] GILROY D W.Eicosanoids and the endogenous control of acute inflammatory resolution[J].The International Journal of Biochemistry & Cell Biology,2010,42(4):524-528. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[44] GALLI C,CALDER P C.Effects of fat and fatty acid intake on inflammatory and immune responses:a critical review[J].Annals of Nutrition & Metabolism,2009,55(1/2/3):123-139. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[45] KEW S,MESA M D,TRICON S,et al.Efects of oils rich in eicosapentaenoic and docosahexaenoic acids on immune cell composition and function in healthy humans[J].American ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Journal of Clinical Nutrition,2004,79(4):674-681. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[46] GREEN A G.From αto $\\boldsymbol { \\omega }$ -producingessential fattyacidsinplant[J].Nature Biotechnology,2004,22(6):680-682.   \n[47] KABOURIDIS P S,JURY E C.Lipid rafts and T-lymphocyte function:implications for autoimmunity[J].FEBS Letters,2008,582(27):3711-3718.   \n[48] KENWORTHY A K.Have we become overly reliant on lipid rafts?Talking Point on the involvement of lipid rafts in T-cellactivation[J].EMBO Reports,2008,9(6):531-535.   \n[49]YAQOOBP.Thenutritionalsignificanceoflipid rafts[J].AnnualReviewof Nutrition,2009,29:257-282.   \n[50] DE LIBERO G,MORI L.How the immune system detects lipid antigens[J].Progress in Lipid Research,2010,49(2):120-127.   \n[51] LEMAHIEU C,BRUNEEL C,TERMOTE-VERHALLE R,et al.Effect of different microalgal n-3 PUFA supplementation doses on yolk color and n-3 LC-PUFA enrichment in the egg[J].Algal Research,2014,6:119-123.   \n[52] SUN Q X,LIU J,ZHANG Q,et al.Characterization of three novel desaturases involved in the delta-6 desaturation pathways for polyunsaturated fatty acid biosynthesis from Phytophthora infestans[J].Applied Microbiology and Biotechnology,2013,97(17):7689-7697.   \n[53] LEONARD A E,PEREIRA S,SPRECHER H,et al.Elongation oflong-chain faty acids[J].Progress in Lipid Research,2004,43(1):36-54.   \n[54] SAYANOVA O,HASLAM R P,CALERON M V,et al.Identification and functional characterisation of genes encoding the omega-3 polyunsaturated fatty acid biosynthetic pathway from the coccolithophore Emiliania huxleyi[J].Phytochemistry,2011,72(7):594-600   \n[55] MASTERSON C,WOOD C.Mitochondrial and peroxisomal $\\beta$ -oxidation capacities of organs ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "from a non-oilseed plant[J].Proceedings of the Royal Society B:Biological Sciences,2001,268(1479):1949-1953. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[56] QIU X.Biosynthesis of docosahexaenoic acid (DHA,22:6-4,7,10,13,16,19):two distinct pathways[J].Prostaglandins,Leukotrienes and Essential Fatty Acids,20o3,68(2):181-186. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[57] CACHALDORA P,GARCIA-REBOLLAR P,ALVAREZ C,et al.Effect of type and level of basal fat and level of fish oil supplementation on yolk fat composition and n-3 fatty acids deposition efficiency in laying hens[J].Animal Feed Science and Technol0gy,2008,141(1/2):104-114. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[58] CACHALDORA P,GARCIA-REBOLLAR P,ALVAREZ C,et al.Effect of type and level of fish oil supplementation on yolk fat composition and n-3 fatty acids retention efficiency in laying hens[J].British Poultry Science,2006,47(1):43-49. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[59] GONZALEZ-ESQUERRA R,LEESON S.Effect of feeding hens regular or deodorized menhaden oil on production parameters,yolk fatty acid profile,and sensory quality of eggs[J].Poultry Science,2000,79(11):1597-1602. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[60] LAWLOR J B,GAUDETTE N,DICKSON T,et al.Fatty acid profile and sensory characteristics of table eggs from laying hens fed diets containing microencapsulated fish oil[J].Animal Feed Science and Technology,2010,156(3/4):97-103. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[61] JACOBS M N,COVACI A,SCHEPENS P.Investigation of selected persistent organic pollutants in farmed Atlantic salmon (Salmo salar),salmon aquaculture feed,and fish oil components of the feed[J].Environmental Science & Technology,2002,36(13):2797-2805. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[62]陈殊贤,郑晓辉.微藻油和鱼油中DHA 的特性及应用研究进展[J].食品科学,2013,34(21):439-444.",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "[63] CRAWFIELD M A.Presentation at the Omega-3 summit:global summit on nutrition,health ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "and human behavior[M].Bruges,Belgium,2011. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[64] 陈继新,卢洁,夏中生,等.产蛋鸡日粮亚麻油水平对蛋黄脂肪组成及脂质代谢的影响[C]第五届南京农业大学畜牧兽医学术年会——家禽高效养殖与重大疫病防控研讨会论文集.南京：南京农业大学,2011.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[65] RYCKEBOSCH E,BRUNEEL C,MUYLAERT K,et al.Microalgae as an alternative source of omega-3 long chain polyunsaturated fatty acids[J].Lipid Technology,2012,24(6):128-130. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[66] KOMPRDA T.Eicosapentaenoic and docosahexaenoic acids as inflammation-modulating and lipid homeostasis influencing nutraceuticals:a review[J].Journal of Functional Foods,2012,4(1):25-38. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[67] YAGUCHI T,TANAKA S,YOKOCHI T,et al.Production of high yields of docosahexaenoic acid by Schizochytrium sp. strain SR21[J].Journal of the American Oil Chemists' Society,1997,74(11):1431-1434. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[68] 时艺霖,顾宪红,黄勇,等.紫苏籽提取物对蛋鸡产蛋高峰后期生产性能、生殖激素及免疫功能的影响[J].动物营养学报,2015,27(5):1519-1526.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[69] 臧素敏,李同洲,何万红,等.日粮中添加紫苏籽对鸡蛋黄脂肪酸组成及@-3、@-6影响的研究[J].河北农业大学学报,2003,26(1):65-68,72.",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[70] LEESON S,CASTON L.Enrichment of eggs with lutein[J].Poultry Science,2004,83(10):1709-1712. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[71]KARADAS F,GRAMMENIDIS E,SURAI P F,et al.Effects ofcarotenoidsfrom lucerne,marigold and tomato on egg yolk pigmentation and carotenoid composition[J].British Poultry Science,2006,47(5):561-566. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "[72] JENSEN C L,MAUDE M,ANDERSON R E,et al.Effect of docosahexaenoic acid supplementation of lactating women on the fatty acid composition of breast milk lipids and maternal and infant plasma phospholipids[J].American Society for Clinical Nutrition,2000,71(Suppl.1):292S-299S. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[73]LAWSON L D,HUGHES B G.Human absorption offish oil fatty acidsas triacylglycerols,freeacids,or ethyl esters[J].Biochemical and Biophysical Research Communications,1988,152(1):328-335. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[74] BOSWELL K,KOSKELO E K,CARL L,et al.Preclinical evaluation of single-cel oils that are highlyenriched with arachidonic acid and docosahexaenoic acid[J].Food and Chemical Toxicol0gy,1996,34(7):585-593. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[75] SELL J L,CHOO S H,KONDRA P A.Fatty acid composition of egg yolk and adipose tissue as influenced by dietary fat and strain of hen[J].Poultry Science,1968,47(4):1296-1302. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[76] 陈秀丽,李连彬,岳洪源,等.裂殖壶菌粉对鸡蛋品质与蛋黄n-3PUFA含量的影响[J].中国畜牧杂志,2014,50(23):66-70.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[77] AYMOND W M,VAN ELSWYK M E.Yolk thiobarbituric acid reactive substances and n-3 fatty acids in response to whole and ground flaxseed[J].Poultry Science,1995,74(8):1388-1394. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[78]LEMAHIEU C,BRUNEEL C,TERMOTE-VERHALLER,etal.Impactoffeed supplementation with different omega-3 rich microalgae species on enrichment of eggs of laying hens[J].Food Chemistry,2013,141(4):4051-4059. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[79] 杨蕊,SHINJS,刘玉海,等.饲粮中添加微藻DHA和ALA 对蛋黄脂肪酸构成及蛋黄胆固醇、三酰甘油的影响[J].饲料研究,2014(21):11-14,64.",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[80] HAYAT Z,CHERIAN G,PASHA T N,et al.Oxidative stability and lipid components of eggs from flax-fed hens:effect of dietary antioxidants and storage[J].Poultry Science,2010,89(6):1285-1292. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "[81] KING E J,HUGO A,DE WITT F H,et al.Effect of dietary fat source on fatty acid profile and lipid oxidation of eggs[J].South African Journal of Animal Science,2012,42(5):503-506. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[82] AO T,MACALINTAL L M,PAUL M A,et al.Effects of supplementing microalgae in laying hen diets on productive performance,fatty-acid profile,and oxidative stability of eggs[J].Journal of Applied Poultry Research,2015,24(3):394-400. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[83] CHANMUGAM P,BOUDREAU M,BOUTTE T,et al.Incorporation of different types of n-3 fatty acids into tissue lipids of poultry[J].Poultry Science,1992,71(3):516-521. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[84] 邹彩霞.富含多不饱和脂肪酸和低胆固醇鸡肉的研究[D].硕士学位论文.南宁:广西大学,2002.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[85] HARGIS P S,VAN ELSWYK M E.Manipulating the fatty acid composition of poultry meat and eggs for the health conscious consumer[J].World's Poultry Science Journal,1993,49(3):251-264. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[86] 李岩,孙超.日粮添加DHA对肉仔鸡生长及脂肪代谢基因转录的后效作用[J].中国农业科学,2009,42(11):4042-4050.",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "[87] SIMOPOULOS A P,LEAF A,SALEM N,Jr.Workshop on the essentiality of and recommended dietary intakes for omega-6 and omega-3 faty acids[J].Journal of the American College of Nutrition,1999,18(5):487-489. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Biological Functions and Mechanisms of Docosahexaenoic Acid and Its Application in Poultry ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Production ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "LONG Shuo WANG Hao WU Shugeng\\* QI Gaunghai ZHANG Haijun WANG Jing (National Engineering Research Center of Biological Feed, Key Laboratory of Feed ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Biotechnology of Ministry ofAgriculture, Feed Research Institute, Chinese Academy of ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Agricultural Science,Beijing1Ooo81,China) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Abstract: As a o-3 polyunsaturated fatty acid, docosahexaenoic acid (DHA) plays an important role in human and animal’s body. The biological functions and the metabolic mechanism of DHA, comparing the difference source of DHA and its applications in poultry production were reviewed in this paper aimed at providing the reference for DHA's scientific applications in poultry production. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words: DHA; biological function; enrichment in yolk; poultry production ",
+        "page_idx": 19
+    }
+]

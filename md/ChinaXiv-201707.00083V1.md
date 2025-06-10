@@ -1,0 +1,183 @@
+# DOI: 10.5846/stxb201601210145
+
+王亚男,李睿玉,朱晓换,马丹炜,张红.土荆芥挥发油化感胁迫对土壤胞外酶活性和微生物多样性的影响.生态学报,2017,37(13);4318-4326. WangYN,Liucalstsofaifrbosre activities and soil microbial diversity.Acta Ecologica Sinica,2017,37(13）:4318-4326.
+
+# 土荆芥挥发油化感胁迫对土壤胞外酶活性和微生物多样性的影响
+
+王亚男\*，李睿玉，朱晓换，马丹炜，张红四川师范大学生命科学学院，成都610101
+
+摘要：入侵植物释放的化感物质可改变土壤理化性状和微生物群落结构,通过与土壤微生物的互作抑制本土植物生长。为了进一步诠释土荆芥化感作用机制,采用温室培养瓶法,探讨了其挥发油对土壤胞外酶活性和微生物多样性的影响。结果表明：土荆芥挥发油不同程度降低了脲酶、酸性磷酸酶、蔗糖酶和硝酸还原酶的活性( $P { < } 0 . 0 5 )$ ;较高剂量的挥发油处理组显著促进了过氧化氢酶活性( $\scriptstyle P < 0 . 0 5 )$ 。处理初期挥发油对土壤胞外酶活性影响较大,但随着处理时间延长,其影响逐渐减弱;处理16d后，较高剂量( $2 0 ~ \mu \mathrm { L }$ 和 $5 0 ~ \mu \mathrm { L }$ )的挥发油处理组细菌数量显著高于对照( $\scriptstyle P < 0 . 0 5$ )。挥发油对土壤放线菌数量的影响表现为低剂量促进,高剂量抑制的效应;PCR-DGGE 分析表明,随着挥发油处理剂量增加和处理时间延长,土壤中细菌和真菌的 Shannonwiener 多样性指数和丰富度指数均增大。结论：土荆芥挥发油可改变土壤微生物群落结构和胞外酶活性,增加土壤微生物多样性。
+
+关键词：土荆芥;挥发油;化感胁迫;土壤胞外酶;土壤微生物多样性
+
+# Allelochemical stress effects of volatile oils from Chenopodium ambrosioides on extracellular enzyme activities and soil microbial diversity
+
+WANG Yanan\*，LI Ruiyu， ZHU Xiaohuan，MA Danwei, ZHANG Hong College of Life Science，Sichuan Normal University,Chengdu 61o1O1,China
+
+Abstract:Interactions between invasiveplantsandsoil microorganisms playakeyrole inthe invasionprocess.Exoticplants often producealelochemicals that inhibitthegrowthof native plantsbyinducing changes in thephysicalandchemical propertiesof thesoil，aswellas tothestructureof thesoilmicrobialcommunity.Chenopodiumambrosioides，ananualor short-lived perenialherb within the familyChenopodiaceaenative to Centraland South America，posesathreatto ecosystem structureand functioninChina.C.ambrosioidesisrich in volatileoils，whicharereleased intosoils viaroot exudation and plant decomposition.Previous studies investigating the invasion mechanisms of $C$ ，ambrosioides focused primarilyonits impactson thegrowth of native plantsandneglected itspotential influencesonsoil microbial structure. Here，we used the greenhouse flask method to study the effects of volatile oils produced by $C$ . ambrosioides on soil microbial diversity and extracellular enzyme activities.The results indicated that volatile oils deriving from $C$ ，ambrosioides inhibited the activity of soil urease，acid phosphatase，invertase and nitrate reductase ( $P { < } 0 . 0 5$ ），and high doses of these volatile oils significantly enhanced the activity of catalase ( $P { < } 0 . 0 5$ ).Moreover，the volatile oils had a strong influence on soil enzyme activitiesduringtheearlystagesoftreatment，butthisefect diminishedconsiderablyovertime.Bacterialabundancewas significantly higher in treatment groups receiving high doses ( $2 0 ~  { \mu \mathrm { L } }$ and $5 0 ~ \mu \mathrm { L }$ ）of volatile oils than in the control groups
+
+0 $( P { < } 0 . 0 5 )$ ）afterl6 daysof treatment，indicating that thevolatileoilsgreatly influenced soil microrganism diversity；for instance，Actinomycetes wereabundant when exposed toonlylow doses ofvolatileoils，but their populationsdeclinedat higherdoses.Both Shannon-WienerandMargalef indicesindicated thatbacterialand fungaldiversityincreased with increasing volatile-oil dose and treatment time.In conclusion，volatile oils produced by $C$ .ambrosioides altered the microbial community structure and extracellular enzyme activities in soils，and increased soil microbial diversity.
+
+Key Words:Chenopodiumambrosioides；volatileoil；allelochemical stress；soil extracellular enzyme；soil microbial community diversity
+
+Callaway 和 Ridenour 提出的“新武器”假说(novel weapons hypothesis,NWH)认为,外来物种会通过挥发、根系分泌、残株分解、淋溶等途径向周围环境释放化感物质抑制本地植物生长,从而在群落中取得优势地位[1-2]。这些化感物质主要包括酚类、黄酮类、萜类和生物碱类等[3]。化感物质对本土植物的细胞分裂、植物激素产生、细胞膜的通透性、矿物质的摄取、光合作用、呼吸作用、蛋白质合成、固氮作用和特定酶活性等均具有较大的影响[4-6]。化感物质绝大多数最终会进入土壤中[7-8],改变土壤微生物种类组成[9]和土壤生物群落结构,影响土壤微生物的活动和土壤酶活性[10-12],改变土壤理化性状[13],影响土壤营养元素循环,从而为自身的人侵创造有利条件[14-15]。在人侵植物释放的化感物质中,挥发性萜类占有较大的比例,这些挥发性萜类物质可以土壤为载体,改变土壤微生物群落的结构,进而抑制本地植物的生长[16],如三裂叶豚草（Ambrosiatrifida)以单萜类物质为主的植物挥发物经土壤作用于其他植物和土壤微生物,改变了后者的生长发育[7]。
+
+土荆芥（Chenopodium ambrosioides)为藜科藜属一年生或多年生草本植物,原产美洲,现广布于世界热带及温带地区,目前已成为我国危害极严重的外来入侵物种[17-18]。土荆芥全株富含挥发油,其根系分泌和凋落物腐解均能将挥发油释放到土壤中,影响土壤环境。本研究室及其他研究者已经证明,化感作用是土荆芥成功入侵的机制之一。土荆芥释放的挥发油影响受体植物根细胞的有丝分裂过程,诱导根细胞发生氧化损伤，甚至凋亡,从而抑制受体植物的生长发育[18-21]。前期的研究大部分主要关注土荆芥对植物的影响,很少有人关注土荆芥对土壤的影响及其二者之间的互作。近期本研究室通过盆栽试验发现[22],土荆芥在其营养期阶段通过降低土壤营养水平,使土壤质量趋于贫瘠化而不利于周围植物生长,果期可增加土壤胞外酶活性和土壤微生物数量,从而为其繁殖创造条件。这种土壤特性的变化是否与土荆芥的化感作用相关却不得而知,因此,本研究以土荆芥挥发油为材料,采用温室培养瓶试验法,探讨土荆芥化感作用对土壤胞外酶活性和微生物多样性的影响,为进一步揭示土荆芥化感作用机制提供理论依据。
+
+# 1材料与方法
+
+# 1.1 供试材料
+
+本研究所用土荆芥植株采自 2014年10月,为成熟期。采用水蒸汽蒸馏法提取土荆芥全株（包括地上部分和地下部分)挥发油,产率约 $0 . 8 \%$ ,无水 $\mathrm { N a } _ { 2 } \mathrm { S O } _ { 4 }$ 干燥后 $4 \mathrm { { ~ ‰ ~ } }$ 保存备用[20]。GC-MS 分析表明其主要成分为对聚伞花素（1-isopropyl-4-m ethylbenzene）和 $\alpha$ 萜品烯( $\propto$ -terpinene）,含量分别为 $1 6 . 9 \%$ 和 $1 3 . 5 \%$ [23]。
+
+供试土壤为土荆芥入侵地广泛分布的紫色土,采自四川师范大学成龙校区( $\langle 3 0 ^ { \circ } 5 6 ^ { \prime } \mathrm { N } , 1 0 4 ^ { \circ } 2 0 ^ { \prime } \mathrm { E } \rangle$ 第三实验大楼附近(未生长过土荆芥)。土壤中有机质含量为 $4 . 9 0 ~ \mathrm { g / k g }$ ,总氮含量 $0 . 6 1 ~ \mathrm { g / k g }$ ,总磷含量 $0 . 3 4 ~ \mathrm { g / k g }$ ,总钾含量 $1 3 . 4 6 ~ \mathrm { g / k g }$ 。将土壤捣碎,过 $1 . 0 \ \mathrm { m m }$ 筛子,储存备用。
+
+# 1.2 化感作用处理
+
+称取 $5 0 \textrm { g }$ 土壤置于玻璃培养瓶(底部直径 $6 ~ \mathrm { c m }$ ，高 $9 \ \mathrm { c m }$ )中，加入 $1 0 ~ \mathrm { m L }$ 蒸馏水,盖上盖子,置于 $2 5 ~ \mathrm { { ^ { \circ } C } }$ 培养室预培养 $2 4 \mathrm { ~ h ~ }$ 。预培养结束后,分别将 $0 , 2 . 5 , 5 , 1 0 , 2 0 \mu \mathrm { L }$ 和 $5 0 ~ \mu \mathrm { L }$ (预实验中按有效剂量来确定)挥发油滴加到培养瓶的土壤中,混匀,并立即旋紧盖子。分别置于 $2 5 \mathrm { { ^ \circ C } }$ 培养室处理1、2、4、8、16d和 $3 2 \mathrm { ~ d ~ }$ 后收集土
+
+壤,将每处理土样分成2份，1份 $4 \mathrm { { ^ { \circ } C } }$ 保存用于基因组DNA的提取,另1份用于测定可培养微生物的数量和土壤酶活性,其中,可培养微生物和过氧化氢酶在取样当天取鲜土测定,剩余部分土样风干后保存,用于脲酶、蔗糖酶、酸性磷酸酶和硝酸还原酶活性的测定。每处理时间、每处理剂量各设置3个重复。
+
+本研究分别用 $\mathrm { ~ F _ { \mathrm { ~ s } } A _ { \ s } B _ { \ s } C _ { \ s } D }$ 和E代表挥发油处理剂量 $0 , 2 . 5 , 5 , 1 0 , 2 0 ~ \mu \mathrm { L }$ 和 $5 0 ~ \mu \mathrm { L }$ ,用1F、1A、1B、1C、1D、1E分别代表处理时间为1d的不同剂量挥发油处理组,以此类推。
+
+# 1.3土壤酶活性测定方法
+
+土壤酶活的测定参考文献[22]。脲酶活性用苯酚钠比色法测定;蔗糖酶活性采用3,5-二硝基水杨酸比色法测定;酸性磷酸酶活性采用对硝基苯磷酸二钠比色法。硝酸还原酶活性测定采用2,4-二硝基酚比色法;过氧化氢酶活性测定采用过氧化氢-硫酸钛比色法。
+
+# 1.4土壤微生物数量的测定
+
+稀释平板计数法测定根际土壤中细菌、放线菌和真菌的数量。细菌采用牛肉膏蛋白脉琼脂培养基 $3 7 \ \mathrm { { ^ circ C } }$ 培养2d,放线菌采用高氏1号琼脂培养基 $2 8 ~ \mathrm { { ^ { \circ } C } }$ 下培养7d,真菌采用马丁氏培养基 $2 8 ~ \mathrm { { ^ { \circ } C } }$ 培养 $3 \mathrm { ~ d ~ }$ 。统计菌落数量并计算每克干土中的微生物数量( $\mathrm { C F U / g }$ 干土)。
+
+# 1.5土壤微生物多样性分析(DGGE)
+
+土壤微生物总DNA 的提取:挑选土荆芥挥发油对土壤酶活性和微生物影响较大且具有代表性的处理组进行PCR-DGGE 试验分析。处理时间选取处理1、8d和 $3 2 \mathrm { ~ d ~ }$ 。挥发油剂量选取 $0 . 5 \AA . 2 0 ~  { \mu \mathrm { L } }$ 和 $5 0 ~ \mu \mathrm { L }$ ，分别用$\mathrm { ~ F ~ } , \mathrm { ~ B ~ } , \mathrm { ~ D ~ }$ 和E表示。土壤样品基因组DNA 的提取用试剂盒（庄盟超纯土壤基因组 DNA 快速提取试剂盒),提取后的DNA 在 $0 . 8 \%$ 的琼脂糖凝胶上电泳检测合格后 $- 2 0 \%$ 保存。
+
+16S rDNAV3可变区的扩增：16SrDNAV3区扩增引物[24]序列分别是： $5 3 4 \mathrm { r } : 5 ^ { \prime }$ -ATTACCGCGGCTGCTGG-$3 ^ { \prime }$ 和 $3 4 1 \mathrm { f } : 5 ^ { \prime }$ -（GC）-CCTACGGGAGGCAGCAG- $3 ^ { \prime }$ 。由生工生物工程(上海)股份有限公司合成。PCR反应条件为 $9 4 ~ \mathrm { { ^ { 9 C } } }$ 预变性 $5 \ \mathrm { m i n } ; 9 4 \ \mathrm { ^ c }$ 变性 $3 0 \mathrm { ~ s ~ } , 6 8 \mathrm { ~ \textdegree C }$ 退火 $3 0 \mathrm { ~ s ~ }$ （每个循环降低 $1 \ \mathrm { { ^ { \circ } C } }$ ）， $7 2 \ \mathrm { { ^ { \circ } C } }$ 延伸 $1 \ \mathrm { m i n } , 1 0$ 个循环;（20 $9 4 ^ { \circ } \mathrm { C }$ 变性 $3 0 \textrm { s } , 5 8 \textrm { ‰}$ 退火 $3 0 \mathrm { ~ s ~ }$ ， $7 2 \ \mathrm { { ^ \circ C } }$ 延伸 $\mathcal { A } _ { \mathrm { ~ m i n } , 2 0 } ^ { ( \mathrm { ~ } }$ 个循环,最后 $7 2 \ \mathrm { { ^ { \circ } C } }$ 延伸 $1 0 ~ \mathrm { m i n }$ 。产物长度为 $2 3 3 \mathrm { \ b p }$ 。PCR 反应在美国 Bio-Rad 的基因扩增仪（S1000 Thermal Cycler）上进行。扩增产物用 $0 . 8 \%$ 的琼脂糖电泳进行检测。
+
+真菌18SrDNA 的扩增：真菌扩增18SrDNA 间隔区，引物[25]序列分别为： $5 ^ { \prime }$ -GTAGTCATATGCTTGTCTC-$3 ^ { \prime }$ 和 $5 ^ { \prime }$ （GC）-ATTCCCCGTTACCCGTTG- $3 ^ { \prime }$ 。PCR反应条件为 $9 4 ~ \mathrm { { ^ { \circ } C } }$ 预变性 $5 \ \mathrm { m i n } ; 9 4 \ \mathrm { ^ c }$ 变性 $1 \ \mathrm { m i n } \ , 6 2 \ \mathrm { ^ c }$ 退火30 s（每个循环降低 $1 ^ { \circ } \mathrm { C } ) , 7 2 ^ { \circ } \mathrm { C }$ 延伸 $1 ~ \mathrm { m i n }$ ,10个循环； $9 4 ~ \mathrm { ^ { \circ } C }$ 变性 $1 \ \mathrm { m i n } \ , 5 2 \ \mathrm { ^ c }$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 \ \mathrm { { ^ { \circ } C } }$ 延伸 $1 ~ \mathrm { m i n }$ ，20 个循环,最后 $7 2 \ \mathrm { { ^ { \circ } C } }$ 延伸 $1 0 ~ \mathrm { m i n }$ 。产物长度为 $3 5 0 ~ \mathrm { b p }$ 。
+
+PCR 产物 DGGE 条件:细菌16S rDNA 和真菌18S rDNA 扩增产物均经过琼脂糖凝胶 DNA 回收试剂盒(北京庄盟国际生物基因科技有限公司)纯化。 $8 \%$ 聚丙烯酰胺凝胶,变性剂浓度为 $30 \%$ 一 $6 0 \%$ （ $100 \%$ 的变性剂溶液中有 $4 0 \%$ 的甲酰胺和 $42 \%$ 的尿素）。 $8 0 ~ \mathrm { V }$ 恒定电压、 $6 0 ~ \mathrm { { ^ { \circ } C } }$ 下持续电泳 $^ { 1 2 \mathrm { ~ h ~ } }$ 。真菌 PCR 产物采用$7 \%$ 的聚丙烯酰胺凝胶,变性梯度为 $1 5 \% - 5 0 \%$ ,电压 $5 0 \mathrm { ~ V ~ } { , } 6 0 \mathrm { ~ \textdegree C }$ 下持续电泳 $^ { 1 6 \mathrm { ~ h ~ } }$ 。电泳结束后， $0 . 2 \% \mathrm { A g N O _ { 3 } }$ 染色，用Bio-rad GelDoc XR System 凝胶成像系统拍照。
+
+DGGE 遗传图谱条带用Quantity One 4.6.2软件（Bio-Rad）进行处理,测得条带的相对亮度即为该基因型的相对多度 $( \boldsymbol { P } _ { i } )$ 。用UPGMA 法对进行聚类分析,并采用 Shannon-Wiener 多样性指数、丰富度（MargalefIndex）和Pielou 均匀度指数(Pielou Index)等指标计算各土壤样品生物群落的多样性[26]。
+
+$$
+H = - \sum _ { i = 1 } ^ { s } \left( n _ { i } / N \right) \mathrm { l n } ( n _ { i } / N ) = - \sum _ { i = 1 } ^ { s } P _ { i } \mathrm { l n } P _ { i }
+$$
+
+$$
+E _ { \scriptscriptstyle H } = H / H _ { \mathrm { m a x } } = H / ( \ln S )
+$$
+
+式中， $H$ 为Shannon-Wiener 指数, $E _ { H }$ 为均匀度指数, $n _ { i }$ 是第 $i$ 条条带的多度， $N$ 为样品中所有条带的总多度;  
+$H _ { \mathrm { m a x } } = \ln S , S$ 为群落丰富度即样品中的总的条带数。 $H$ 最小值为0,最大值为 $\ln S$ 。
+
+# 1.6 数据处理统计
+
+土壤酶活性和微生物数量的数据用 SPSS 17.0软件进行单因素方差分析,用 Duncan 新复极差法进行差异显著性检验( $\ P < 0 . 0 5 )$ 。
+
+# 2结果与分析
+
+2.1土荆芥挥发油对土壤胞外酶活性的影响
+
+土荆芥挥发油对土壤胞外酶活性的影响如图1所示,处理初期,挥发油对土壤酶活性影响较大,随着处理时间延长,影响逐渐减弱。土荆芥挥发油处理可降低土壤中脲酶的活性。处理16d时,抑制效应达到最大，对照组的脲酶活性是 $5 0 ~ \mu \mathrm { L }$ 处理组活性的2.04 倍;挥发油对土壤蔗糖酶的影响表现在处理初期,处理1d后，较低剂量 $( 2 . 5 , 5 ~ \mu \mathrm { L }$ )的挥发油显著抑制了蔗糖酶活性( $P { < } 0 . 0 5 \rangle$ ）;挥发油对酸性磷酸酶活性的影响表现为处理1d后， $5 ~ \mu \mathrm { L }$ 挥发油处理显著增加了酶活性( $( P { < } 0 . 0 5 )$ 。处理2d后， $5 0 ~ \mu \mathrm { L }$ 挥发油处理显著降低了酶活性0 $_ { ( P < 0 . 0 5 ) }$ 。处理 $3 2 \mathrm { ~ d ~ }$ 后,挥发油处理组酶活性水平趋于对照组;挥发油对土壤硝酸还原酶活性的影响表现为抑制作用;处理8d后，各挥发油处理组均抑制了硝酸还原酶活性( $P { < } 0 . 0 5 )$ 。较高剂量组挥发油增加了过氧化氢酶的活性,处理8d和16d组中,低剂量组挥发油降低了过氧化氢酶活性( $\scriptstyle \left( P < 0 . 0 5 \right)$ 。
+
+![](images/07ff01890f65af1f3b800a6311510bb26e70f44f04d8e8c8522ed9f94f2ee312.jpg)  
+图1土荆芥挥发油化感胁迫对土壤胞外酶活性的影响  
+Fig.1Allelopathy effect of volatile oil from Chenopodium ambrosioides on soil extracellular enzymeactivity图1中不同的小写字母代表同一处理时间各挥发油处理组间的差异显著水平( $\scriptstyle P < 0 . 0 5$ ）
+
+2.2土荆芥挥发油对土壤中可培养微生物数量的影响
+
+较高剂量土荆芥挥发油( $[ 1 0 , 2 0 ~ \mu \mathrm { L }$ 和 $5 0 ~ \mu \mathrm { L }$ )经处理土壤 $8 \mathrm { ~ d ~ } , 1 6 \mathrm { ~ d ~ } , 3 2 \mathrm { ~ d ~ }$ 后只有1种酵母菌生长，几乎无霉菌生长,可能本研究的处理方法抑制了一些好氧微生物的生长。
+
+挥发油处理增加了土壤中细菌的数量(图2);随着处理时间的增加,促进作用逐渐增强,处理16d后，挥发油对细菌的影响达到最大。其中 $5 0 ~ \mu \mathrm { L }$ 的挥发油组细菌数量显著高于对照( $_ { _ { P < 0 . 0 5 ) } }$ ,为对照的14.88 倍。
+
+挥发油处理对土壤中放线菌数量的影响(图3)表现为,处理1、4d和 $1 6 \mathrm { ~ d ~ }$ 组中，较低剂量的挥发油增加了放线菌的数量，较高剂量的挥发油减少了放线菌的数量( $\scriptstyle \cdot { P < 0 . 0 5 } )$ 。处理32d后，较高剂量的挥发油增加了放线菌的数量( $P { < } 0 . 0 5 )$ 。
+
+90.00 （rag/ebeaag OμL 10μL 80.00 2.5μL 20μL aF a 70.00 5μL 50μL a 鲁册 60.00 al b 40.00 中 出 ab C b 30.00 abab ab bc aba b市 国 20.00 ab L de C 10.00 CC C 开 0 1 2 4 8 16 32 处理时间Treatment times/d
+
+□OμL 10μL 25.00 2.5μL20μL a 5μL 50μLa Jab,ab aba a 喜螺彩发 20.00 babb abab aba a a aa a L 15.00 Habab aaaaa 中 b b 10.00 T 5.00 0 1 2 4 8 16 32 处理时间 Treatment times/d
+
+2.3土荆芥挥发油对土壤中微生物多样性的影响
+
+16S rDNA 的PCR-DGGE 电泳图谱分析表明,随着挥发油剂量增加以及处理时间的延长,土壤细菌的Shannon-Wiener指数和丰富度指数均增大,而均匀度指数均变化不大（表1）。其中,不同处理时间的 $5 0 \mu \mathrm { L }$ 挥发油处理组(1E、8E 和32E)的 Shannon-Wiener 指数和丰富度指数分别为相同处理时间中的最大值,且32E处理组为所有处理组中最大值。不同处理组的DGGE 图谱条带随挥发油剂量增加和处理时间的增长,出现了一些新的条带(文中未附图)。各处理组结果聚类分析(图4)表明,最长的处理时间所有处理组(32B、32D、32E 和 32F)和最大挥发油剂量的处理组(1E 和8E)被归为一大类,属于细菌群落多样性较高的一大类。其余的处理组被归为一大类。在处理时间较短的1d和8d处理组中,低剂量挥发油处理的1B 和8B 组细菌群落相似性度达到0.95。8F和1F、8D、1B、8B4个处理组的相似度为0.70。
+
+表1土荆芥挥发油对土壤中微生物多样性影响  
+Table1 Effect of volatile oil from Chenopodium ambrosioides onsoil microbial diversity   
+
+<html><body><table><tr><td rowspan="2">样品 Sample</td><td colspan="2">Shannon-Wiener 指数 Shannon-Wiener Index</td><td colspan="2">均匀度指数Pielou Index</td><td colspan="2">丰富度指数 Margalef Index</td></tr><tr><td>细菌Bacteria</td><td>真菌Fungi</td><td>细菌Bacteria</td><td>真菌Fungi</td><td>细菌Bacteria</td><td>真菌Fungi</td></tr><tr><td>1F</td><td>00.693 ?</td><td>1.678</td><td>1.000</td><td>0.862</td><td>2</td><td>7</td></tr><tr><td>1B</td><td>0.688</td><td>2.288</td><td>0.993</td><td>0.892</td><td>2</td><td>13</td></tr><tr><td>1D</td><td>1.082</td><td>1.582</td><td>0.985</td><td>0.883</td><td>3</td><td>6</td></tr><tr><td>E</td><td>1.776</td><td>1.874</td><td>0.991</td><td>0.963</td><td>6</td><td>7</td></tr><tr><td>8F</td><td>0.690</td><td>1.885</td><td>0.995</td><td>0.969</td><td>2</td><td>7</td></tr><tr><td>8B</td><td>0.689</td><td>2.516</td><td>0.994</td><td>0.953</td><td>2</td><td>14</td></tr><tr><td>8D</td><td>1.088</td><td>2.561</td><td>0.990</td><td>0.970</td><td>3</td><td>14</td></tr><tr><td>8E</td><td>2.191</td><td>2.651</td><td>0.997</td><td>0.956</td><td>9</td><td>16</td></tr><tr><td>32F</td><td>1.592</td><td>2.300</td><td>0.989</td><td>0.926</td><td>5</td><td>12</td></tr><tr><td>32B</td><td>1.367</td><td>2.301</td><td>0.986</td><td>0.926</td><td>4</td><td>12</td></tr><tr><td>32D</td><td>1.609</td><td>2.639</td><td>1.000</td><td>0.952</td><td>5</td><td>16</td></tr><tr><td>32E</td><td>2.714</td><td>2.451</td><td>0.979</td><td>0.987</td><td>16</td><td>12</td></tr></table></body></html>
+
+分析选取处理时间为1、8d和32d，挥发油剂量选取0，5， $2 0 ~ \mu \mathrm { L }$ 和 $5 0 ~ \mu \mathrm { L }$ ，用F、B、D和E分别代替
+
+![](images/54250f0460534c7902631b2249aa340e95f627823eff1819a38c3989460ba44e.jpg)  
+图4土荆芥挥发油处理土壤样品中细菌16SrDNA和真菌18SrDNA的聚类分析图  
+Fig.4Clusteringanalysisof16SrDNAgengeand18SrDNAgengeofsoil treatedwithvolatileoilfromChenopodiumambrosioides
+
+土荆芥挥发油可增加土壤真菌多样性,并表现出处理剂量和处理时间双重效应。其中， $5 0 ~ \mu \mathrm { L }$ 挥发油处理8d时,土壤真菌群落的 Shannon -Wiener 指数和丰富度指数均为最大值(表1)。聚类分析结果表明， $3 2 \mathrm { F }$ 、32D 和32B处理组的相似度为0.66,其余处理组的相似性较低（图4）。
+
+# 3讨论
+
+3.1土荆芥挥发油的化感胁迫对土壤胞外酶活的影响
+
+土壤胞外酶主要来源于根系分泌物、土壤微生物活动、动植物残体分解释放、土壤动物区系释放等[27]土壤胞外酶是“植物-土壤酶-土壤养分”系统的联系纽带,可影响土壤养分循环[28\。土壤胞外酶在植物入侵过程中起着重要作用[29],入侵植物可通过释放化感物质影响土壤胞外酶活性从而影响土壤养分,使土壤环境变得不利于周围植物的生长,从而压制、排挤周围对营养水平要求较高的植物[22]。本研究结果表明,土荆芥挥发油影响了土壤胞外酶活性。在处理初期影响较大,随着处理时间增长,其影响逐渐减弱。推测其原因是随着处理时间延长,土壤中微生物的活动降解了部分化感物质从而逐渐减弱了化感胁迫。张建[30]和解开治[31]在土壤加入环境激素类物质后,随胁迫时间延长,土壤酶活性也逐渐恢复,与本研究结果类似。
+
+土壤中蔗糖酶可较好反应土壤生物活性状态,磷酸酶可催化有机磷类化合物转为有效态磷,脲酶和硝酸还原酶可影响土壤的氮代谢,而过氧化氢酶则可反应土壤生态环境胁迫程度[31]。人侵植物对土壤酶活性的影响随植物种类而异。一年蓬(Annual Fleabane)在其人侵过程中显著增加了土壤脲酶、酸性磷酸酶和转化酶活性,加拿大蓬(Erigeron Canadensis）则减少了这3种酶活性[32];黄顶菊（Flaveria bidenti）提高了土壤脲酶和磷酸酶活性[33;紫茎泽兰（Ageratina adenophora）和飞机草（Eupatorium odoratum）可增加根际土壤脲酶、蔗糖酶和过氧化氢酶活性[29];火炬树（Rhus typhina)单优林型中土壤脲酶、过氧化氢酶活性增强,磷酸酶活性降低[34];土荆芥生长过程中,根际土壤的硝酸还原酶活性在营养期和果期显著升高,脲酶活性在营养期降低,蔗糖酶、酸性磷酸酶和过氧化氢酶的活性在营养期和果期差异不大[22]。本研究中,土荆芥挥发油不同程度降低了脲酶、酸性磷酸酶、蔗糖和硝酸还原酶的活性,较高剂量的挥发油处理组显著促进了过氧化氢酶活性。这种差异可能与不同入侵植物释放的化感物质不同有关,从而对根际土壤胞外酶活性造成不同影响[31,33]。如叶陈英等[5]研究表明水稻根系酚酸类化感物质可使土壤脲酶活性提高了1.58—2.66倍,蔗糖酶活性提高了2.08—3.20 倍;李庆凯等[36]研究表明羟基苯甲酸、肉桂酸均不同程度降低了花生（Arachis hypogaea）根部土壤脲酶、蔗糖酶、磷酸酶活性。本研究的结果显示土荆芥释放的化感物质可降低与土壤肥力相关的土壤酶胞外酶活性。
+
+# 3.2土荆芥挥发油的化感胁迫对土壤微生物的影响
+
+外来入侵植物与土壤之间的相互作用是影响其入侵力和生态系统可入侵性的一个重要方面[34]。入侵植物改变了土壤微生物群落的结构和功能,这种变化反过来又会对入侵植物的生长和竞争产生反馈。入侵植物的这种土壤微生物学机制逐渐成为研究热点[37-38]。随着火炬树水浸液浓度的增加,细菌和真菌的数量增多[8]。紫茎泽兰根区土壤的3种酚酸类物质在较低浓度 $\mathrm { ' 5 0 { - } 1 5 0 ~ m g / L \mathrm { ' } }$ )下对5种土传性病菌有显著的抑制作用[39]。加拿大一枝黄花（Solidago canadensis）的根系分泌物增加了土壤中的亚硝酸细菌、好气性自生固氮菌、硫化细菌、氨化细菌和好气性纤维素分解菌的数量,减少了反硝化细菌、嫌气性纤维素分解菌和反硫化细菌数量[40]。桉树可通过酸化土壤、积累酚类化合物而改变土壤微生物群落结构[41]。以上均说明入侵植物释放的化感物质改变了土壤中微生物数量和多样性。本课题组前期研究表明,在随着土荆芥生长进程其根际土壤中微生物数量增加[22]。土荆芥全株富含挥发油,这些挥发油可通过多条途径进人土壤。在本研究中,在土荆芥挥发油作用下,土壤可培养细菌数量明显增加,土壤放线菌则表现为“低剂量促进、高剂量抑制”,表明不同剂量挥发油均可刺激土壤细菌的活动,而放线菌则对高剂量挥发油胁迫耐受性较差;16S rDNA DGGE 图谱中,挥发油处理组的扩增条带数多于对照,而18S rDNA的 DGGE 图谱中,随着挥发油剂量的增加和处理时间的延长,出现了新的特征条带,原有的某些条带则减弱甚至消失;挥发油处理后,土壤中细菌和真菌的Shannon -Wiener指数和丰富度指数均显著增加,且具有时间-剂量效应。UPGMA聚类分析表明,挥发油改变土壤中细菌和真菌的群落组成。因此,土荆芥挥发油的化感效应改变土壤微生物多样性。
+
+在本研究的可培养微生物检测试验中,在较高剂量土荆芥挥发油( $\mathrm { ~  ~ { ~  ~ } _ { 1 0 } ~ } , 2 0 \ \mu \mathrm { L }$ 和 $5 0 ~ \mu \mathrm { L }$ ）处理8、16、32d后仅检测到1种酵母菌,未检测到霉菌。这可能是多数真菌为严格的好氧菌,而本研究试验期间为了确保处理剂量的恒定采用了较为密闭的处理法形成了相对缺氧的环境,因而抑制了好氧真菌的生长。同时,本研究室前期研究表明,土荆芥挥发油对植物致病真菌具有一定的抑制作用[42]。也有可能是较高剂量挥发油抑制了待测土壤中的真菌生长,具体原因尚待进一步通过试验加以验证。另外,本研究中设置的土荆芥挥发油处理剂量为具有生态毒效应的剂量。实际上,在野外条件下,土壤中的土荆芥挥发油含量会受多种因素的综合影响而发生变化。因此,后续的研究有必要对土荆芥根际挥发油含量、土壤微生物群落组成做动态跟踪研究和相关性分析,这样才能揭示土荆芥与土壤微生物之间的互作关系。
+
+在研究方法上,传统土壤酶活性测定所用的比色法精准度不高,操作繁琐而且耗时较长。目前新型的荧光分析技术是以荧光团标记底物作为探针,通过荧光强度的变化来反映酶活性,具有灵敏度高、耗时短、式样量少等优点[43]。在微生物多样性分析方面,基于PCR技术的 DGGE获得的微生物 DNA 通常低于100条,检测限低、工作量大。特别对于土壤中数量少,但具有重要功能的土壤微生物群区系的检测则具有较大的局限性。而当前主流的高通量测序技术能够较为全面和准确的反映土壤微生物群落结构,尤其能客观地反映其中低丰度的重要功能微生物[44]。因此后续研究中应更多采用这些研究方法以提高检测精度。
+
+# 4结论
+
+土荆芥挥发油的化感胁迫改变了土壤中脲酶、蔗糖酶、酸性磷酸酶、硝酸还原酶和过氧化氢酶的活性，增加了土壤中可培养细菌和放线菌的数量,提高了细菌和真菌多样性,改变了细菌和真菌的群落结构。
+
+# 参考文献（References）：
+
+[1]CalasoTsiassdosotsi）：
+
+http ://www.ecologica.cn
+
+5/1-2/5  
+[2]ScogaglaBspitieaboloseplodloathalflInteractions,2015,1(1)：9-21.  
+[3]YngReLX,ngJnX.lcctsfsiendesisLgeaiodgrohofativeCespecies.Allelopathy Journal,2007,19（1）： 241-248.  
+[4]El-GawadAMA，MashalyIA,ZadaMEA，DeweebMR.Pytotoicityof h Plantagospeciesogeinatioandsdlinggrowthofhiybeggarticks （Bidens pilosa L.).Egyptian Journal of Basic and Applied Sciences，2015,2(4)： 303-309.  
+[5]Balicevic R,Ravlic M.Alelopathic efct of sentless mayweed extractsoncarrot.Herbologia,O15,15(1）：1-18.  
+[6]Gulariotlotspro（it.）ohoctiofslecJournal of the Saudi Society of Agricultural Sciences，2O16,doi: $1 0 . 1 0 1 6 / \mathrm { j }$ .jssas.2015.12.003  
+[7］王朋，王莹，孔垂华.植物挥发性单萜经土壤载体的化感作用——以三裂叶豚草(AmbrosiatrifdaL.)为例.生态学报，2008，28（1)：62-68.  
+[8］侯玉平，柳林,王信，闫晓宇,门航,李伟杰，徐维明.外来植物火炬树水浸液对土壤微生态系统的化感作用.生态学报，2013，33（13)：4041-4049.  
+[9]Niu HB,Liu W X,WanFH,Liu B.An invasive aster(Ageratina adenophora） invades and dominates for t understories in China：altered soilmicrobialcommunities facilitate the invader and inhibit natives.Plant and Soil,2007,294(1/2）：73-85.  
+[10]LiYP,FegY,eYJ,TnY.Slmicoballviatelopahf vasivpntsneBllei，5,(1）：  
+[11]Si CC,Liu XY,Wang C Y,Wang L,Dai ZC,Qi SS,Du D L. Diferent degrees of plant invas gnificantly affect the richness of the soilfungal community.PLoS One，2013,8（12）：e85490.  
+[12]SongK,J,CJagHtsgieasioolbaltitdueiacishal,392(1/2) : 45-56.  
+[13]Inderjit，Wardle D A, Karban R,Callaway R M. The ecosystem and evolution arycontextsof alelopathy.Trends inEcology&Evolution,011,6(12): 655-662.  
+[14]LaunganR,KopsJM.Species-drivencangsinitrogencingprovideamecsforplantivasiosProingofteilAcademy of Sciences of the United States of America,2009,106(30）:12400-12405.  
+[15]ShorySlspetioeltlaciitalduit(1):235-243.  
+[16]Inderjit I. Soil microorganisms：An importan eterminant of alelopathic activity.Plant and Soil,2005,274(1/2）:227-236.  
+[17］中华人民共和国环境保护部.关于发布申国第二批外来人侵物种名单的通知．[2010-01-07].ttp://w.mep.gov.cn/gkml/hbb/bwj/201001/t20100126_184831.htm.  
+[18］胡忠良，王亚男，马丹炜，陈斌，何亚强，周健.玉米根边缘细胞 exDNA和胞外蛋白对土荆芥化感胁迫的缓解效应.中国农业科学，2015,(10): 1962-1970.  
+[19］刘长坤，邓洪平，尹灿.土荆芥水浸提液对小麦和水稻的生长及抗氧化酶活性的影响.贵州农业科学,2010，38（4)：39-42.  
+[20］王晶蓉，马丹炜，唐林.土荆芥挥发油化感作用的初步研究.西南农业学报，2009，22（3）：777-780.  
+[21］胡琬君，马丹炜，王亚男，张红，李群．土荆芥挥发油对蚕豆根尖细胞的化感潜力.生态学报，2011,31（13）：3684-3690.  
+[22］李睿玉，王煜，王亚男，何兵，张红，马丹炜.土荆芥不同发育期根际土壤养分、酶活及微生物数量的变化.生态环境学报，2014，23(9) : 1526-1530.[23] WangYN，WuJ,W,LiJ,ZngYticanceetsofopommosiodesLetialloanbeastcace-7clsn vitro.Tropical Journal of Pharmaceutical Research,2015,14（10）：1813-1820.24]MuyzerG，DeWalEC，UterlidenAGPfilingofmplemobalpopulatiosyenaturingadientgeletrophoresisalsfpolymerasechainreaction-amplifiedgenescoding for16SrRNA.AppliedandEnvironmental Microbiology，1993,59（3）：695-700.MayLA，Silytaratieeaggdteltrosisalyisfgaloisocaediltcorn silage. Canadian Journal of Microbiology，2001,47(9）：829-841.  
+[26］陈法霖，张凯，郑华，林学强，欧阳志云，屠乃美.PCR-DGGE 技术解析针叶和阔叶调落物混合分解对土壤微生物群落结构的影响.应用与环境生物学报，2011，17（2)：145-150.  
+27]FereuliAoand macroinvertebrate communities in Iberian streams.Forest Ecology and Management，2015,335：129-138.  
+28]ChangEHChiuC.hangesinsoilmicrobialcomnitytructureadactivitincdarplantatioivadedbyosobmbASoilEcology，2015, 91: 1-7.  
+[29］张海霞.不同入侵植物对本土植物根际土壤酶活性及微生物数量的影响.广东农业科学，2014,41(21)：61-66.  
+[30]张建，石义静，崔寅，谢慧君，王文兴.土壤中邻苯二甲酸酯类物质的降解及其对土壤酶活性的影响.环境科学,2010,31（12)：3056-3061.  
+[31］解开治，徐培智，杨少海，张发宝，唐拴虎，顾文杰，蒋瑞萍.双酚A对稻田土壤细菌群落特征及土壤酶活的影响.环境科学研究，2012，25(2): 173-178.  
+[32］王从彦，向继刚，杜道林.2种入侵植物对根际土壤微生物种群及代谢的影响.生态环境学报，2012，21（7)：1247-1251.  
+[33］赵晓红，杨殿林，王慧，刘红梅，曲波，皇甫超河.黄顶菊入侵对不同地区土壤氮循环及微生物量的影响.草业学报，2015，24(2)：62-69.  
+[34］侯玉平，柳林，初航，马淑杰，赵丹，梁荣荣.外来植物火炬树（Rhus yphinaL.）入侵对不同林型土壤性质的影响.生态学报，2015，35(16):5324-5330.  
+[35］叶陈英.水稻根系酚酸类化感物质分泌动态及其对土壤生理生化特性的影响[D].福州：福建农林大学，2010. ?  
+[36］李庆凯，刘苹，唐朝辉，赵海军,王江涛，宋效宗，杨力，万书波.两种酚酸类物质对花生根部土壤养分、酶活性和产量的影响.应用生态学报，2016,27(4)：1189-1195 ?  
+[37]SudingKNHapoleW,FukamiT,KlmatisiA,aDogallAS，teinCnderutenW.Cosequecesfplant-silcksininvasion. Journal of Ecology，2013，101(2）：298-308.  
+[38]Medina-VldeheoreoaE，statf(Mill.）SwingleadRobiniapsedoacaciaLonsolutrientsandmrobialcommunits.oil BologandBiochemstr，16,96:6573.  
+[39］谢明惠，任琴，张青文，刘小侠.紫茎泽兰根区土壤酚酸类物质组成及其对土传病菌的影响.应用生态学报，2010,21（2)：306-311.  
+[40］沈荔花，郭琼霞，林文雄，陈颖，黄振.加拿大一枝黄花对土壤微生物区系的影响研究.中国农学通报，2007，23(4)：323-327  
+[41]Soumarealladi,dopoisgesiSllyplContetdiobiMediated by Eucalyptus Camaldulensis.Applied Ecology and Environmental Research，2O16,14(3）：1-19.  
+[42］李元，廖颖，严伟，马丹炜.四川土荆芥精油对植物病原真菌的抗菌活性.生态环境学报，2010，19(5）：1176-1181.  
+[43］邵文山，李国旗.土壤酶功能及测定方法研究进展.北方园艺，2016，(9)：188-193.  
+[44］夏围围，贾仲君.高通量测序和 DGGE 分析土壤微生物群落的技术评价.微生物学报，2014,54（12)：1489-1499.

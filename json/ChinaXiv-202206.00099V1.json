@@ -1,0 +1,324 @@
+[
+    {
+        "type": "text",
+        "text": "亚热带八个阔叶林内不同分布型植物的性状和生态习性差异",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "蒋娅¹，毛艳娇²，郑洁¹²，车俭¹²，张潮²，金毅1,2\\*（1贵州师范大学生命科学学院，贵阳 550025；2西南喀斯特山地生物多样性保护国家林业和草原局重点实验室，贵州师范大学，贵阳 550025)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：组成我国亚热带地区植被的植物区系来源多样。为了解共同生活在该地区的不同区系成分间在生态位上存在何种差异，以提高对于该地区生物多样性维持机制的认识，该研究以中国亚热带地区8个阔叶林动态样地内木本被子植物群落为研究对象，通过采用谱系线性回归和方差分析（ANOVA）等统计方法，分析了温带和热带分布型属植物在生活史性状(即，叶习性和生长型)和生态习性(即，Ellenberg 生态指示值)上的差异。结果表明： (1)对于涉及的 265个属，属分布型具有一定的谱系保守性(即,Pagel's $\\lambda = 0 . 9 3 5$ $P { < } 0 . 0 0 1 \\rangle$ 。 (2)温带分布型属含落叶阔叶植物和乔木较多，热带分布型属则以常绿阔叶植物和灌木为主。(3)与热带分布型属植物相比，温带分布型属植物所处环境具有较强光照、较低温度和湿度，且在控制了叶习性和生长型的影响后，两者间的生态习性差异仍然存在。(4)对于所有植物，或者对于不同叶习性和生长型功能群而言，温带与热带分布型属植物的相对优势（即物种数的比值）均受到年平均气温的影响。该研究结果有助于理解区系来源对亚热带阔叶林内木本被子植物的生活史性状和生态习性均具有重要影响；以及不同区系来源的植物在我国亚热带阔叶林内的地理更替受到年平均气温的驱动。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：分布区类型，生态位，生态指示值，亚热带森林，中国森林生物多样性监测网络",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Differences in traits and ecological behaviors between plants of different distribution patterns in eight subtropical ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "broad-leaved forests ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Yal,MAO Yanjiao1,2,ZHENG Jie1,2, CHE Jian1,2, ZHANG Chao $^ { 1 , 2 }$ , JIN Yi1,2\\*   \n(1、SchoolofLife Sciences,Guizhou Normal University,Guiyang 550025,China；2、Key Laboratory of National   \nForestry and Grassland Administration on Biodiversity Conservation in Karst Mountainous Areas ofSouthwestern China，Guizhou Normal University,Guiyang,550025，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: The plants that comprise the vegetation of chinese subtropics are diverse with respect to geographical distribution patterns. Understanding how the plants with different geographical distribution paterns that live together in this region differ in their ecological niches, would advance our knowledge of species coexistence mechanisms. Here, based on the data of woody angiosperm community composition in eight broad-leaved forest dynamics plots widely distributed in the chinese subtropics,by adopting statistical methods such as phylogenetic linear model and analysis of variance (ANOVA), we examined the differences in life history traits, including leaf habit and growth form,as wellas ecological behaviors (i.e.,Ellenberg indicator values), between the plants of temperate distribution genera and the plants of tropical distribution genera. We found that (1) for the 265 study genera, genus distribution pattern showed a significant phylogenetic signal (i.e., Pagel's $\\lambda = 0 . 9 3 5$ ， $P { < } ~ 0 . 0 0 1$ ).(2)The genera of temperate distribution pattern comprised a higher ratio of deciduous broad-leaved plants and trees than the genera of tropical distribution patern. (3) The plants of temperate distribution genera exist in environments with high light, low temperature and water compared with the plants of tropical distribution genera,regardless of the effects of leaf habit and growth form were controled or not. (4) For all the plants,or for each leaf habit or growth form group separately,the ratio of species richness of the temperate distribution genera to the tropical distribution genera in the forest was controlled by mean annual temperature (MAT). The findings imply that the plants of temperate and tropical distribution genera difered in both their life history traits as well as their ecological behaviors,and the geographical turnover of plants of these two distribution paterns in the chinese subtropical broad-leaved forests was largely controlled by MAT. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key words: tpye of distribution region, niche, ecological indicatior value,subtropical forest, Chinese Forest Biodiversity Monitoring Network ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "植物区系成分研究中，分析区域性植物的地理成分组成，即温带性质和热带性质的分布型(distribution pattrm)等植物组成及比例(王荷生,1992)。区系成分组成可反映区域性植物与气候和土壤等环境条件的关系(吴征镒等,2010)。不同分布型植物的比例变化，综合反映了区域性植物与环境关系的协同变化(王荷生,1992)。一方面，分布型可反映植物类群在演化史上的分异情况和地理特征(吴征镒等,2010)，相同分布型植物倾向于具有相似的生活史性状，例如叶习性和生长型。叶习性中，落叶性状有利于植物度过高纬度地带的季节性低温等气候时期，而常绿性状则有助于适应低纬度地区季节性差异小的气候(Givnish,2002)。由于冬季较长时间的低温冰冻等，温带分布型植物可能多为冬季落叶植物(Givnish,1979; Zanne et al.,2014)。此外，生长型是植物长期适应气候等自然条件所形成的总体形态特征(王荷生,1992)。不同生长型植物对于气候等环境条件的响应存在着差异(Xu et al.,2018; Zhao et al.,2018;Xu et al.,2021)。另一方面，不同分布型植物对区域尺度气候条件的响应也存在差异(Qian etal.,2003,2006; Zhu et al.,2007; Wang et al.,2011; Xu et al.,2013; Su et al.,2020)，提示分布型在一定程度上也反映着植物的生态习性(ecological behavior)特点。例如，由于气温通常较低，温带分布型植物可能对于温度的要求较低(Su etal.,2020)。生态习性通常是多维度的，综合反映植物在自然状态下的生态需求(宋永昌,2013)。例如，Ellenberg(1979)采用光照、温度、大陆度、土壤湿度、土壤反应和土壤含氮量这6个指标来划分中欧维管束植物的生态习性。宋永昌(2013)使用光照、温度、湿度、土壤反应和土壤肥沃度来划分我国常绿阔叶林内4000余种维管束植物的生态习性。总之，以往研究显示分布型与生活史性状或生态习性均有密切关系。但是，还缺乏对于不同分布型植物的生活史性状和生态习性差异，以及不同分布型植物在地理分布上发生更替的主要环境驱动因子的综合分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "探讨群落内不同分布型植物的生活史性状和生态习性差异，以及驱动不同分布型植物相对优势变化的主要环境因子，可以进一步丰富区系成分的意义(孙航等,2017)。我国亚热带地区植被具有古老的历史和丰富的植物多样性(吴征镒,1965,1980;Lu et al.,2018;Qian et al.,2019)，是探讨不同分布型植物的生活史性状和生态习性差异以及相对优势驱动因子的理想地区。据此，本研究以我国亚热带地区为研究区域，依托广泛分布的8个阔叶林动态监测样地(forest dynamics plot,FDP)内木本被子植物群落(宋永昌等,2015)，采用谱系线性回归和方差分析等统计方法，通过探讨不同分布型植物的生活史性状(即，叶习性和生长型)和生态习性的具体差异，以及驱动不同分布型植物在群落内相对优势发生变化的环境因子，拟回答以下问题：（1）亚热带阔叶林内的温带和热带分布型木本被子植物在叶习性和生长型组成，以及所处环境的光、温、水和土壤条件存在什么差异？（2）亚热带阔叶林中的温带和热带分布型木本被子植物的相对优势(即物种数的比值)，主要受到什么环境因子的控制？",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料和方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1研究地",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究涉及木本被子植物788种，包括747个种和41个种下单元，分属于91科267属，均为亚热带阔叶林的组成种，来源于8个亚热带阔叶林动态样地(车俭等,2020)。样地面积$5 { \\sim } 5 0 ~ \\mathrm { h m } ^ { 2 }$ ，分布地理范围为 $1 1 0 ^ { \\circ } 2 5 ^ { \\prime } \\mathrm { E } { \\sim } 1 2 1 ^ { \\circ } 4 7 ^ { \\prime } \\mathrm { ~ E ~ }$ 、 $2 3 ^ { \\circ } 1 0 ^ { \\prime } \\mathrm { N } { \\sim } 2 9 ^ { \\circ } 4 8 ^ { \\prime } \\mathrm { ~ N }$ 。样地年平均气温$1 1 . 5 { \\sim } 2 0 . 9 ^ { \\circ } \\mathrm { C }$ ，年平均降水量 $1 3 7 5 . 0 { \\sim } 4 0 6 7 . 0 \\mathrm { m m }$ (宋永昌等,2015;Ricklefs&He,2016)。单个样地所含木本被子植物种类物种数为 $1 1 0 { \\sim } 2 3 8$ 个。本研究的物种名录、叶习性(leaf habit)、生长型(growth form)和生态习性(ecological behavior)参考宋永昌等(2015)。叶习性包括常绿阔叶和落叶阔叶；生长型包括乔木、灌木和藤本。生态习性包括光照(light,L)、温度(temperature,T)、水分(water,W)、土壤反应(soil reaction,R)和土壤肥力(soil fertility,N)共5项指标，各项指标均划分为1-9级。从1级的强阴生、冰雪、强旱生、强酸性土和极贫土到9级的强阳生、高温、强湿生、碱性土和极肥土，植物所处环境的光照、温度、水分、土壤pH和土壤肥力逐渐升高。属的分布区类型参考吴征镒等(2010)，分为世界分布(cosmopolitan；分布区类型1)、热带分布(tropical；分布区类型 2\\~7)和温带分布(temperate；分布区类型 8\\~15)。其中，世界分布区类型仅2属6种，数量过少，所以本研究分析只针对热带分布区和温带分布区类型植物，共 265属782种。782种木本被子植物的谱系树通过R语言编写的“S.PhyloMaker\"函数中的“Scenario 3\"构建(Qian&Jin,2016)。种以下分类单元被加到其物种枝长的1/2 处。在该谱系树的基础上,每个属保留一个分类单元,使用R软件(R Core Team,2019)ape软件包的\"drop.tip\"函数(Paradis＆ Schliep,2018)去掉多余的分类单元，获得属级谱系树。此外，本研究中的环境因子包括样地面积、岛屿(即是否位于岛屿上)、年平均气温(mean annual temperature,MAT)、年降水量(annual precipiation,AP)和旱季持续时间(dry season length,DS)(Ricklefs & He,2016)。其中，取样面积(即，样地面积)和空间隔离(即，岛屿)是影响植物分布的重要空间因素，气温和降水是影响植物地理分布的重要气候因素(Shen etal.,2009;Qian et al.,2020)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2统计分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "首先，统计了不同分布区植物的叶习性和生长型组成。其次，(1)通过R软件phytools 软件包的\"phylosig\"函数(Revell,2012)，分析了属分布型的谱系信号。(2)然后，通过R 软件的\"chisq.test\"函数进行卡方检验，对比了热带和温带分布型属植物在叶习性和生长型的物种数量比例在地区和样地尺度上是否存在差异。(3)通过R软件caper软件包的\"pgls\"函数和\"anova\"函数(Orme etal.,2018)分别进行谱系线性回归(phylogenetic linear model)和方差分析(analysisof variance)，对比了热带和温带分布型属植物的生态习性差异，以及不同叶习性和生长型的热带和温带分布型属植物的生态习性差异。其中，对比不同生长型的热带和温带分布型属植物生态习性差异时，由于已有数据显示温带和热带分布型属木质藤本分别仅有3属6种和12属14 种，数量过少，且部分样地未公布藤本数据，所以仅对比灌木和乔木。通过\"pgls\"函数和\"anova\"函数，控制了叶习性和生长型的作用，以了解属分布型对于各项生态习性的独立影响。(4)最后，通过R软件\"lm\"函数进行线性回归，以及MuMIn 软件包的\"dredge”、\"model.sel”和\"model.avg\"函数(Barton,2019)进行模型选择，分析了环境因子对于温带分布型属和热带分布型属植物的物种数量比值的影响。模型选择过程中，模型间拟合显著差异的评价标准为两者的AICc差异 $\\geqslant 5$ 。若存在与最优模型(即AICc值最小模型)无显著差异的模型，则将其和最优模型进行模型平均(model averaging)，得到条件平均(conditional average)作为最优拟合结果。以上所有分析在R3.5.3 软件中进行(RCore Team,2019)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本研究涉及的265属782种被子植物中，热带分布型占167属483种，温带分布型占98属 299 种。对 265个属所构建的属级谱系树(图1)的分析，显示属分布型具有显著的谱系信号$ ( \\lambda = 0 . 9 3 5$ ， $P { < } 0 . 0 0 1$ ）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正方形表示温带分布型属，圆形表示热带分布型属。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/a640900b6b103be3d80a8d84e611ce535e086ef97a82d2efe1698cd28f5317fb.jpg",
+        "img_caption": [
+            "图1本研究所涉及265属被子植物的属级谱系树和分布型"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Square represents genus of temperate distribution pattrn, circle represents genus of tropical distribution pattrn. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.l Genus level phylogenetic tree and distribution pattern of the 265 genera of this study ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "卡方检验显示：在地区尺度上，按叶习性划分，温带分布型属植物有落叶阔叶158种，常绿阔叶141中；热带分布型属植物有落叶阔叶123种，常绿阔叶360种；从而得出热带分布型属植物多为常绿阔叶种，温带分布型属则含落叶阔叶种较多 $( \\chi ^ { 2 } = 5 8 . 9 4 \\$ ， $P < 0 . 0 0 1 _ { \\cdot }$ 。按生长型划分，温带分布型属植物有灌木110种，乔木植物183种，而热带分布型属植物灌木231种，乔木植物238种；与热带分布型属相比，温带分布型属所含乔木比例较高 $( \\chi ^ { 2 } = 9 . 5 3$ ，$P { = } 0 . 0 0 2 { \\mathrm { \\Omega } }$ )。在样地尺度上，按叶习性分，4个较高纬度样地内的温带分布型属植物比热带分布型属植物含有更大比例的落叶植物，而在较低纬度这种差异不明显；按生长型分，也有4个样地呈现出差异，其中3个样地所在纬度较高，表现为温带分布型属植物含有的乔木比例高于热带分布型属植物(表1)。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6deb0b8040b1f8530fe315ab38a773ebb63b91bcf32136025ae7bc5174725db9.jpg",
+        "table_caption": [
+            "表1各样地的两个分布型属植物的叶习性和生长型的种类组成",
+            "Table l Species richness of each leaf habit and growth form group of the two distribution pattern genera in each forest plot "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类别 Category</td><td>八大公山 百山祖</td><td>古田山 天童</td><td>GTS TT</td><td>鼎湖山 DHS</td><td>福山 FS</td><td>黑石顶 HSD</td><td>莲花池 LHC</td></tr><tr><td>纬度 Latittude (°)</td><td>BDGS 29.77</td><td>BSZ 27.74 29.25</td><td></td><td>29.81 23.16</td><td>24.76</td><td>23.45</td><td>23.91</td></tr><tr><td></td><td>叶习性(落叶/常绿)</td><td></td><td>Leaf habit (Deciduous : Evergreen)</td><td></td><td></td><td></td><td></td></tr><tr><td>温带分布 Temperate</td><td>102/41</td><td>41/31</td><td>35/33 40/28</td><td>6/18</td><td>6/16</td><td>11/41</td><td>8/21</td></tr><tr><td>热带分布 Tropical</td><td>36/52</td><td>11/46</td><td>29/59 33/48</td><td>27/142</td><td>18/67</td><td>31/149</td><td>22/90</td></tr><tr><td></td><td>生长型(灌木/乔木)</td><td></td><td>Growth form (Shrub : Tree)</td><td></td><td></td><td></td><td></td></tr><tr><td>温带分布 Temperate</td><td>54/89</td><td>25/46</td><td>30/37</td><td>20/47 13/11</td><td>7/15</td><td>10/37</td><td>9/20</td></tr><tr><td>热带分布 Tropical</td><td>47/41</td><td>36/21</td><td>45/43</td><td>43/37 70/99</td><td>41/44</td><td>80/87</td><td>50/62</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：粗体为卡方检验显著结果 $( P < 0 . 0 5 )$ 。温带，温带分布型；热带，热带分布型；落叶，落叶阔叶；常绿，常 绿阔叶。BDGC．八大公山；BSZ.百山祖；GTS.古田山；TT.天童；DHS.鼎湖山；FS．福山；HSD．黑 石顶；LHC.莲花池。   \nNote: Bold values indicate significant result ( $\\scriptstyle \\sum \\sum 0 . 0 5$ ,chi-sq test). Temperate, temperate distribution genera; Tropical,tropical distribution genera; Deciduous,deciduous broad-leaf; Evergreen,evergreen broad-leaf.BDGC. Badagongshan; BSZ. Baishanzu; GTS. Gutianshan; TT. Tiantong; DHS.Dinghushan; FS.Fushan; HSD. Heishiding; LHC.Lianhuachi. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "谱系线性回归分析显示：叶习性和生长型对生态习性均有显著影响(图2、3)。具体而言，相同叶习性的不同分布型属植物在生态习性上存在着差异(图 2)。对于落叶阔叶植物，温带分布型除了温度低于热带分布型外，在光照、水分、土壤反应和土壤肥力上与热带分布型均无区别；对于常绿阔叶植物，温带分布型除了土壤反应与热带分布型无区别外，在光照、水温度、水分和土壤肥力上与热带分布型均存在显著区别。相同生长型的不同分布型属植物的生态习性也存在较多差异(图3)。对于灌木，温带分布型在土壤反应和土壤肥力上与热带分布型无区别，而在光照、温度和水分方面与热带分布型存在明显区别；对于乔木，温带分布型除了土壤反应与热带分布型无区别外，在光照、温度、水分和土壤肥力上与热带分布型均存在明显区别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "I.温带分布型属落叶阔叶；II.热带分布型属落叶阔叶；III.温带分布型属常绿阔叶；IV.热带分布型属常绿阔叶。A.光照对两个分布型属不同叶习性植物的影响；B.温度对两个分布型属不同叶习性植物的影响；C.水分对两个分布型属不同叶习性植物的影响;D.土壤反应对两个分布型属不同叶习性植物的影响；E.土壤肥力对两个分布型属不同叶习性植物的影响。误差条表示均值的一个单位标准误。小图内的不同柱形上方小写字母不同，说明存在显著组间差异 $( P _ { \\mathrm { a d j } } < 0 . 0 5$ ；谱系线性回归)。下同。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/37672adc4c84dfdff011d83125f79b53d41e58298baf9b831243de31af2ce80c.jpg",
+        "img_caption": [
+            "图2两个分布型属不同叶习性植物的生态习性差异"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I. Deciduous broad-leaved plant of temperate distribution pattrn genera;I. Deciduous broad-leaved plantof tropical distribution pattrn genera; II.Evergreen broad-leaved plant of temperate distribution patern genera; IV. deciduous broad-leaved plant of tropical distribution pattern genera.A.The effect of light on the different leaf habits groups of the two distribution pattern genera;B.The effect of temperatureon the diferent leaf habits groups of the two distribution pattern genera;C.The effect of moisture on the diferent leaf habits groups of the two distribution pattern genera; D.The effect of soil reactionon the diferent leaf habits groups ofthe two distribution patern genera;E.The efct of soil fertilityon the different leafhabits groups ofthe two distribution patern genera. Eror bar represents one unit of standard error.Diferent lower-case letters above the bars indicate significant difference $( P _ { \\mathrm { a d j } } < 0 . 0 5$ ； phylogenetic linear model) between groups. The same below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 Difference in the five ecological indicators between leaf habit groups of the two distribution pattern genera ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I．温带分布型属灌木；II.热带分布型属灌木；I.温带分布型属乔木；IV．热带分布型属乔木。A.光照对两个分布型属不同生长型植物的影响；B.温度对两个分布型属不同生长型植物的影响；C.水分对两个分布型属不同生长型植物的影响；D.土壤反应对两个分布型属不同生长型植物的影响；E.土壤肥力对两个分布型属不同生长型植物的影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "I. Shrubof temperate distribution pattern genera;I. Shrub of tropical distribution pattern genera; II.Tree of temperate distribution pattern genera; IV.Tree of tropical distribution pattern genera.A.Effect of light on the different growth form groups of the two distribution pattrn genera; B.Effect of temperature on the different growth form groups of the two distribution pattern genera; C.Efect of moisture on the diferent growth form groups of the two distribution pattern genera; D.Efectof soil reactionon the different growth form groups ofthe two distribution patern genera; E.Efect of soil fertility on the diffrent growth form groups of the two distribution patern genera. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/67695915ae6542df0c1af1f1ad6f4ae38a63fe9c1c972a5ac297cd4fe2d19028.jpg",
+        "img_caption": [
+            "图3两个分布型属不同生长型植物的生态习性差异",
+            "Fig. 3 Difference in the five ecological indicators between growth form groups of the two distribution pattern genera "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "不控制叶习性和生长型的作用时，温带分布型属植物有更高的光照、更低的温度和水分需求，而土壤肥力和土壤反应则与热带分布型属植物无区别(图4)。当控制了叶习性和生长型的作用后，两个分布型属植物间在光照、气温和水分需求方面仍然存在着同样的差异(表 2)。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/78d846a51e24b33eebc12894f51c896775943f17d6f9ee751baf59fa1cd805aa.jpg",
+        "img_caption": [
+            "图4两个分布型属植物的生态习性差异"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A．光照对两个分布型属的影响；B.温度对两个分布型属的影响；C.水分对两个分布型属的影响；D.土壤 反应对两个分布型属的影响；E.土壤肥力对两个分布型属的影响。 A.The eect of light on two distribution pattern genera; B.The efect of temperature on two distribution pattern genera;C.The effct of moisture on two distribution pattern genera; D.The effect of soil reaction on two distribution pattern genera; E.The effect of soil fertility on two distribution pattern genera. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 Difference in the five ecological indicator values between plants of the two distribution pattern genera ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表2属分布型、叶习性和生长型对各项生态习性的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/42ae7e2afd5f15b613290c3efd5b0a83f75a21f52c5c3738e30960efaae0cb6a.jpg",
+        "table_caption": [
+            "Table 2 Analysis of variance tables for phylogenetic linear models examining variations in the five ecological indicator values "
+        ],
+        "table_footnote": [
+            "注：表内数值为谱系线性回归的方差分析结果（\\*， $P { < } 0 . 0 5$ ；\\*\\*， $P < 0 . 0 1$ ；\\*\\*\\*， $P < 0 . 0 0 1 \\$ ） Note: with respect to genus distribution pattern,leaf habit and growth form. \\*, $P < 0 . 0 5$ · $^ { * * }$ $P < 0 . 0 1$ · $* * *$ $P <$ 0.001. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">ceologrear Farues</td></tr><tr><td>生态习性</td><td>属分布型</td><td>叶习性</td><td>生长型</td></tr><tr><td>Ecological indicator</td><td>Genus distribution pattern</td><td>Leaf habit</td><td>Growth form</td></tr><tr><td>光照Light</td><td>0.732*</td><td>1.345**</td><td>2.187**</td></tr><tr><td>温度 Temperature</td><td>0.740*</td><td>3.639***</td><td>0.032</td></tr><tr><td>水分 Water</td><td>0.670*</td><td>1.122**</td><td>0.595</td></tr><tr><td>土壤反应 Soil reaction</td><td>0.000</td><td>0.018</td><td>0.216</td></tr><tr><td>土壤肥力 Soil nutrients</td><td>0.001</td><td>0.067</td><td>0.289*</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "线性回归模型显示：无论对于所有植物，还是根据性状划分为不同功能群，温带分布型属和热带分布型属植物的物种数量比例都受到年平均气温的控制。均表现为随着年平均气温上升，温带分布型属植物的比例下降，热带分布型属植物的比例上升。但对于常绿阔叶植物，还受到年降水量的微弱影响，表现为随年降水量增大，温带分布型属常绿植物的比例下降，热带分布型属常绿植物的比例上升(表3)。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/17ca1f75ba74f4ba46318050246da739458a8abf3465f86bc554e0379867e61d.jpg",
+        "table_caption": [
+            "表3环境因子对温带和热带分布型属物种数比值的影响",
+            "Table 3 Results of the most supported model of species richness ratio of temperate to tropical distribution pattern genera with respect to the environmental factors "
+        ],
+        "table_footnote": [
+            "注：落叶.落叶阔叶；常绿.常绿阔叶；MAT.年平均气温；AP.年降水量；DS.旱季时间。 Note: Deciduous. Deciduous broad-leaf; Evergreen.Evergreen broad-leaf; MAT.Mean annual temperature; AP. Annual precipitation; DS.Dry season length. "
+        ],
+        "table_body": "<html><body><table><tr><td>类别</td><td>环境因子</td><td>效应值</td><td>标准误 Standard error</td><td>P值</td></tr><tr><td>Category</td><td>Environmental factor</td><td>Estimate</td><td>0.015 3</td><td>P-value</td></tr><tr><td>所有种 All species 按叶习性分 Group by leaf habit</td><td>年平均气温MAT</td><td>-0.147 4</td><td></td><td><0.001</td></tr><tr><td colspan=\"3\"></td><td>0.063 7</td><td>0.0019</td></tr><tr><td>落叶 Deciduous 常绿 Evergreen</td><td>年平均气温MAT 年平均气温MAT</td><td>-0.334 0 -0.066 5</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>0.007 0</td><td><0.001</td></tr><tr><td></td><td>年降水量 AP</td><td>-0.000 1</td><td>0.000 0</td><td>0.019 2</td></tr><tr><td></td><td>旱季时间 DS</td><td>0.024 1</td><td>0.010 2</td><td>0.072 9</td></tr><tr><td colspan=\"3\">按生长型分 Group by growth form</td><td></td><td></td></tr><tr><td>乔木 Tree</td><td>年平均气温MAT</td><td>-0.221 6</td><td>0.030 6</td><td><0.001</td></tr><tr><td>灌木 Shrub</td><td>年平均气温MAT</td><td>-0.095 1</td><td>0.014 6</td><td><0.001</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究所在的亚热带地区介于热带与北温带之间，该地区植被具有复杂的区系组成(吴征镒 1965；王荷生,1979)，古老的历史和丰富的植物多样性(Lu et al.,2018；Qian etal.,2019)。其中，本研究所涉及植物均为亚热带地区阔叶林内木本植物，来源于265个属。这些属的分布型呈现出一定程度的谱系保守性(phylogenetic conservatism)，可能是受到历史(Ricklefs,1987;Brown,2014)和生态位的谱系保守性(Donoghue,2008)等过程所驱动。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同属分布型植物的生活史性状具有明显的差异。在地区尺度上，温带分布型属含有较大比例的落叶种类，可能与气候等环境因素有关(Givnish,1979;Terborgh,1985)。温带分布型属所在的高纬度温带气候通常具有明显的季节性变化，而落叶被认为在季节性差异明显的气候中更具有优势（Givnish,1979;Edwards et al.,2017; Zanne et al.,2018)。在样地尺度上，该格局仅出现在较高纬度的4个阔叶林内，表明温带分布型属的落叶物种在适应季节性气候方面的优势(Givnish,2002; Zanne et al.,2014)也显现在群落层面，在较高纬度地带更加显著。另一方面，在地区尺度上，温带分布型属植物含有较大比例的乔木种类，这在一定程度上可能是由于中高纬度地带的太阳光入射倾斜角度大，穿透到林下的直射光线少，导致林内垂直分层不明显(Terborgh,1985)，林相结构简单所致；而越往低纬度地带移动，太阳光入射角度越垂直，更易于穿透到林下，林内获得的直射光更多，且能量密度更大，垂直分层更明显，林相结构复杂，因此林下能够维持的灌木等也就较多(Terborgh,1985; Spicer etal.,2020)。在样地尺度上，该格局主要出现在较高纬度的阔叶林样地内，倾向于支持温带分布型属的乔木对于适应较高纬度地带季节性气候较灌木具有一定的优势，部分原因可能是由于灌木根系通常较浅，而寒冷气候条件下土壤浅层水分凝冻等风险较大，导致灌木的水分利用受到限制(Moralesetal.,2012;Yangetal.,2020)以及根系损害等。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "不同分布型属植物的生态习性也存在明显差异。在与本研究相同的森林中，车俭等(2020)发现叶习性对木本被子植物的生态习性存在着广泛的影响。在此基础上，本研究进一步发现，在控制了叶习性等生活史性状对生态习性的影响后，温带和热带分布型属植物在温度、水分和光照等生态习性上，仍然存在着显著的区别，这表明不同分布型属植物之间存在着独立于叶习性等生活史性状的生态习性差异。例如，虽然均为落叶阔叶乔木，但归类于温带分布型属的阔叶槭(Acer amplum)和水青冈(Fagus longipetiolata)所处环境的温度却要低于热带分布型属的朴树(Celtis sinensis)和赤杨叶(Alniphyllum fortunei)(宋永昌等,2015)。由于亚热带森林中的热带分布型属被子植物通常较为古老(吴征镒,1965)，本研究所发现的热带分布型属植物对于高温、湿润和低光照环境的偏好，在一定程度上可能与其生态习性的保守性以及地球气候的历史变化有关(Donoghue,2008;Qian&Ricklefs,2016)。被子植物开始快速分化时的地球环境，被认为类似于温暖、潮湿和季节性不明显的热带环境；而新生代以来全球气温的下降，低温、干燥的温带环境逐渐盛行，蕴育了温带分布型属植物(Qian&Ricklefs,2016; Igea&Tanentzap,2020)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "亚热带地区是温带和热带分布型属植物在地理上形成充分交错分布的纬度带(Qian et al.,2003)。本研究中，从两个分布型属植物在亚热带森林中的更替随年平均气温变化的趋势，可以推测气温可能是两个分布型属植物生态习性差异的主要环境因子，这个结果也与以往对整个东亚尺度的分析结果一致(Qian etal.,2003)。温度对于温带分布型属和热带分布型属植物截然相反的影响，在一定程度上说明两个分布型属植物对于低温冰冻等的适应能力存在差异(Wang et al.,201; Zanne etal.,2014)。此外，本研究发现两个分布型属常绿阔叶植物的地理更替除了受到气温影响，还受到降水的微弱影响，反映出热带分布型属常绿植物对于水分的要求比温带分布型属常绿植物更高，这可能与代谢等因素有关(Brown etal.,2004)。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "总之，本研究提示亚热带地区的温带和热带分布型属植物在生活史性状和生态习性上存在着广泛的区别。可能正是由于这些区别，两类植物虽然共同存在于亚热带地区的森林中，但对于温度等气候因子的响应特点迥异。气候变化场景下，这些差异有可能会驱动亚热带森林的区系特征发生改变。值得注意的是，本研究仅针对不同属分布型进行了分析，研究发现也仅适用于属这一层级。对于本研究发现是否也适用于属以下的分类层级，例如物种层级，需要更为深入的研究。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢中国森林生物多样性监测网络的建设者们。感谢两位审稿人提出的宝贵建议。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BARTON K, 2019. MuMIn: multi-model inference. R package version 1.43.15[J]. Retrieved May, 11: 2020.   \nBROWN JH,2014. Why are there so many species in the tropics?[J]. JBiogeogr. 41(1): 8-22.   \nBROWN JH, GILLOOLY JF, ALLEN AP, et al., 2004. Toward a metabolic theory of ecology[J]. Ecology. 85(7): 1771-1789.   \nCHE J, ZHENG J， JIANG Y, et al.， 2020. Separation of phylogeny and ecological behaviors between evergreen and deciduous woody angiosperms in the subtropical forest dynamics plots of China[J].Chin JPlant Ecol，44(10):1007-1014.[车俭，郑洁，蒋娅，等，2020．中国亚 热带森林动态监测样地常绿和落叶木本被子植物谱系结构及生态习性差异[J]．植物生态 学报，44(10): 1007-1014.]   \nDONOGHUE MJ, 2008.A phylogenetic perspective on the distribution of plant diversity[J]. Proc Nat Acad Sci, 105(Supplement 1):11549-11555.   \nEDWARDS EJ,CHATELET DS,CHEN BC，et al.，2017.Convergence，consilience，and the evolution of temperate deciduous forests[J]. Am Nat, 190(S1): S87-S104.   \nELLENBERG H，1979. Zeigerwerte der GefaBpflanzen Miteleuropas，2.Aufl.， Scripta, Geobotanica IX[M]. Gotingen: Verlag E. Goltze.   \nGIVNISH TJ,1979. On the adaptive significance of leaf form[J]. Top Plant Pop Biol, 375-407.   \nGIVNISH TJ, 2002. Adaptive significance of evergreen vs. deciduous leaves: solving the triple paradox[J]. Silva Fenn, 36: 703-743.   \nIGEG J, TANENTZAP AJ,2020. Angiosperm speciation cools down in the tropics[J]. Ecol Lett, 23(4): 692-700.   \nLU L,MAO L, YANG T, et al., 2018. Evolutionary history of the angiosperm flora of China[J]. Nature, 554(7691): 234-238.   \nMORALES AG, MENDOZA JMO, GOZALBO ME, et al.,2012. Arboreal and prostrate conifers coexisting in Mediterranean high mountains differ in their climatic responses[J]. Dendrochronologia, 30(4): 279-286.   \nORME D，FRECKLETON R，THOMAS G，et al.， 2018.caper: Comparative analyses of phylogenetics and evolutioninR[J/OL].Rpackage version 1.0.1. https://CRAN.R-project.org/package=caper.   \nPARADIS E, SCHLIEP K， 2018. ape 5.0: an environment for modern phylogenetics and evolutionary analyses in R[J]. Bioinformatics, 35(3): 526-528.   \nQIAN H, JIN Y, 2016. An updated megaphylogeny of plants,a tool for generating plant phylogenies and an analysis of phylogenetic community structure[J]. J Plant Ecol, 9(2): 233-239.   \nQIAN H, RICKLEFS RE, 2016. Out of the tropical lowlands: latitude versus elevation[J]. Trend Ecol Evol, 31(10): 738-741.   \nQIAN H, SONG J, KRESTOV P, et al., SHEN X, GUO X, 2003. Large-scale phytogeographical patterns in East Asia in relation to latitudinal and climatic gradients[J]. J Biogeogr, 30(1): 129-141.   \nQIAN H, WANG S, HE J, et al.,2006. Phytogeographical analysis of seed plant genera in China[J]. Ann Bot, 98(5): 1073-1084.   \nQIAN H, DENG T, JIN Y, et al., RICKLEFS RE, 2019.Phylogenetic dispersion and diversity in regional assemblages of seed plants in China[J]. Proc Nat Acad Sci, 116(46): 23192-23201.   \nQIAN H, JIN Y,LEPRIEUR F, et al., 2020. Geographic patterns and environmental correlates of taxonomic and phylogenetic beta diversity for large-scale angiosperm assemblages in China[J]. Ecography, 43(11): 1706-1716.   \nR Core Team, 2019. R: a language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria [EB/OL]. [2021-03-22]. https://www.R-project.org/.   \nREVELL LJ, 2012. phytools: An R package for phylogenetic comparative biology (and other things) [J]. Method Ecol Evol, 3(2): 217-223.   \nRICKLEFS RE, HE F,2016. Region effects influence local tree species diversity[J]. Proc Nat Acad Sci USA, 113(3): 674-679.   \nRICKLEFS RE,1987. Community diversity: relative roles of local and regional processes[J]. Science,235(4785): 167-171.   \nSHEN G, YU M, HU XS,et al.,2009. Species-area relationships explained by the joint effects of dispersal limitation and habitat heterogeneity[J]. Ecology, 90(11): 3033-3041.   \nSONG YC,2013. Evergreen Broad-leaved Forests in China[M]. Beijing: Science Press.[宋永昌, 2013．中国常绿阔叶林[M]．北京：科学出版社.]   \nSONG YC, YAN ER, SONG K, 2015. Synthetic comparison of eight dynamics plots in evergren broadleaf forests,China[J].Biodivers Sci,23(02):139-148.[宋永昌，阎恩荣，宋坤，2015. 中国常绿阔叶林8大动态监测样地植被的综合比较[J].生物多样性，23(02)：139-148.]   \nSPICER ME, MELLOR H, CARSON WP, 2020. Seeing beyond the trees: A comparison of tropical and temperate plant growth forms and their vertical distribution[J]. Ecology,101(4): e02974.   \nSUN H, DENG T, CHEN YS,et al., 2017. Current research and development trends in floristic geography[J].Biodivers Sci,25(2):111-122.[孙航，邓涛，陈永生，等，2017．植物区系地 理研究现状及发展趋势．生物多样性，25(2)：111-122.]   \nSU X,SHRESTHA N, XU X, et al., 2020. Phylogenetic conservatism and biogeographic affinity influence woody plant species richness-climate relationships in eastern Eurasia[J]. Ecography, 43(7): 1027-1040.   \nTERBORGH J,1985. The vertical component of plant species diversity in temperate and tropical forests[J]. Am Nat, 126(6): 760-776.   \nWANG HS,1979.The Basic features of Chinese flora[J].Acta Geogr Sin，34: 224-237.[王荷生, 1979．中国植物区系的基本特征[J]．地理学报，34：224-237.]   \nWANG HS,1992.Floristic Geography[M].Beijing: Science Press[王荷生，1992．植物区系地理 [M]．北京：科学出版社.]   \nWANG Z, FANG J, TANG Z,et al.， 2011. Patterns, determinants and models of woody plant diversity in China[J]. Proc Roy Soc Biol Sci, 278(1715): 2122-2132.   \nWU ZY,1965.Tropical relatives of Chinese flora[J]. Sci Bul,16: 25-33.[吴征镒，1965．中国植 物区系的热带亲缘[J]．科学通报，16：25-33.]   \nWU ZY,1980.Vegetation of China[M].Beijing: Science Press.[吴征镒，1980.中国植被[M].北 京：科学出版社.]   \nWU ZY, Sun H, Zhou ZK,et al.,2010.Floristics of seed plants form China[M]. Beijing: Science Press.(in china)[吴征镒，孙航，周浙昆，等，2010．中国种子植物区系地理[M]．北京： 科学出版社.]   \nXU W, SVENNING JC, CHEN G, et al.,2018. Plant geographical range size and climate stability in China: Growth form matters[J]. Global Ecol Biogeogr,27(5): 506-517.   \nXU X，WANG Z， RAHBEK C,et al.，2013.Evolutionary history influences the effects of water-energy dynamics on oak diversity in Asia[J]. J Biogeogr, 40(11): 2146-2155.   \nXU Y, SHEN Z, ZHANG J, et al.， 2021. The effects of multi-scale climate variability on biodiversity patterns of chinese evergreen broad-leaved woody plants: growth form matters[J]. Front Ecol Evol, 8, 540948.   \nYANG J, COOPER DJ, LI Z, et al.， 2020. Differences in tree and shrub growth responses to climate change in a boreal forest in China[J]. Dendrochronologia, 63,125744.   \nZANNE AE，TANK DC，CORNWELL WK，et al.， 2014.Three keys to the radiation of angiosperms into freezing environments[J]. Nature, 506(7486): 89-92.   \nZANNE AE，PEARSE WD，CORNWELL WK，et al.， 2018. Functional biogeography of angiosperms: life at the extremes[J]. New Phytol, 218(4): 1697-709.   \nZHAO Y, CAO H, XU W, et al., 2018. Contributions of precipitation and temperature to the large scale geographic distribution of fleshy-fruited plant species: Growth form matters[J]. Sci Rep, 8(1): 17017.   \nZHU H,MA Y, YAN L,et al., 2007. The relationship between geography and climate in the generic-level patterns of Chinese seed plants[J].Acta PhytotaxSin, 45(2): 134-166. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    }
+]

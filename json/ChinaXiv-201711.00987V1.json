@@ -1,0 +1,456 @@
+[
+    {
+        "type": "text",
+        "text": "项目管理信息化之设计项目管理",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨吉星",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中冶京诚工程技术有限公司，北京100176）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】本文首先介绍了一家综合性设计单位的组织机构、设计项目管理的业务流程，然后结合该业务流程，介绍了一套设计项目管理信息系统，并详细地介绍了该系统包含的业务功能、岗位定义及功能分配等内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】设计项目；项目管理；工作分解结构；WBS；工作包",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【中图分类号】F272.7 【文献标识码】A 【文章编号】1674-7461（2016)01-0114-04",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【DOI】10.16670/j.cnki.cn11-5823/tu.2016.01.21",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1概述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "项目是在一定的时间、资源和预算范围内，由多人协作，为了一个明确的预期目标共同完成的一次性工作。这里的资源指完成项目所需要的人、财、物等资源；一定的时间指项目执行所需要的明确的开始日期和结束日期。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "设计项目管理是由设计单位自身对建设项目设计阶段的工作进行的自我管理。设计单位进行设计项目管理，同样需要对项目的范围、时间、成本进行管理，对进度的实施在技术上和经济上进行全面且详尽地安排，形成设计图纸和说明书，并在实施的过程中进行监督和验收。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 解决方案",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文介绍的系统实现了设计项目（文中描述的设计项目是完全由设计单位自己承揽、自己实施的设计项目，不包括将部分设计任务分包给其他设计单位的设计项目)全生命周期的管理，具体管理环节如图1所示，从工程营销合同签订开始，到工程营销合同收款结束，对设计项目的范围、时间、资源（人力资源)进行了管理，下面详细地介绍一下各个管理环节的主要内容。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1 营销合同签订 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "订后，营销负责人需要在软件系统中进行记录，主要记录合同甲乙双方的名称、住所、账户等信息，合同签订日期、合同双方负责人、合同金额、合同交付物及其他辅助信息。",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b991c2a86ecba65ace4524c08a76670c75307c302841dfc5e452cc996239363.jpg",
+        "img_caption": [
+            "图1设计项目管理流程图"
+        ],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "营销负责人负责营销合同的签订，营销合同签 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2 项目部组建",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "营销合同签订后、执行前，由业务管理部门的部门负责人为该营销合同指定项目经理，并由项目经理完成项目部组建的工作，主要记录负责管理项目的单位名称、项目的名称、编码、项目造价、项目部成立的日期等信息，同时指定项目部的管理人员构成，包括分配本项目部涉及到的岗位（本系统中只设置了项目经理、设计经理、控制经理、档案管理等4个岗位）各个岗位的人员，以及各个人员的联系方式及其他辅助信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3项目范围管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目范围管理即确定在项目内包括什么工作和不包括什么工作。由本项目部的设计经理负责和客户确定项目的范围，并由设计经理编制详细的项目范围说明书，并报项目经理审批，具体工作包括：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 项目范围定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "它是一个过程，实际就是对项目工作范围进一步细化的过程，本过程的结果制定出了项目的详细描述，使项目范围具体化、层次化、结构化，从而达到可管理、可控制、可实施的自的，以便减少项目的风险；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "界定项目的范围、边界，哪些功能、工作应在项目内实现、完成，哪些不用在项目内实现，并将项目内要实现的功能进行结构分解，即进行WBS分解，将项目要完成的各项工作进行细化，细化到可度量的工作包（工作包，它是定义工作范围、定义项目组织、设定项目产品的质量和规格、估算和控制费用、估算时间周期和安排进度的基础）；主要记录各级工作分解结构（子项）的名称、编码、可交付物名称等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.2项目范围调整",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在项目执行过程中，由于甲方的需求越来越细化、明确，或由于其他原因，致使项目的范围发生变更，设计经理需要在软件系统中及时的进行项目范围调整并报项目经理审批；需要记录范围调整的各级子项的名称、编码、范围调整的原因、日期等信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4项目时间管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "指在项目规定的时间范围内对项目及其所拥有的资源，运用系统的理论和方法进行高效率的计划、实施和控制，最终获得项目目标交付物的系统管理方法。本系统由设计经理负责编制与调整项目进度计划并报项目经理审批，由业务部门的设计人负责反馈项目实际进度，并由业务部门的生产负责人和项目部的控制经理审批。具体工作包括：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.1项目进度计划编制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目范围确定后，项目部设计经理依据项目工作分解结构的结果及各项工作之间的关联关系编制项目的进度计划，主要记录各工作包的计划开始日期、计划结束日期、计划工期、计划图纸张数、计划文字张数等信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.2项目进度计划调整",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着项目范围的调整及项目实际进度的反馈（或提前完成某些工作或延迟完成某些工作），都会使项目管理人员进行项目进度计划的调整，主要维护需要调整的工作包的计划开始日期、计划结束日期及计划工期等信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.3项目实际进度反馈",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目执行过程中，业务部门的设计人每完成一项工作，都需要及时地进行项目实际进度的反馈，主要记录当前完成的工作包的实际开始日期、实际结束日期、实际工期、实际图纸张数、实际文字张数及设计人等信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5项目资源管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人力资源管理在项目整个资源管理中占有很重要的地位，从经济的角度看，人是生产力要素中的决定因素。在社会生产过程中，处于主导地位。设计项目主要由具体的设计人来完成，故这里的资源主要指项目的人力资源。由项目部设计经理负责将设计任务分解到相应的业务部门，由业务部门的生产负责人分析后确定具体的设计人，再由设计经理编制和调整项目的资源计划并报项目经理审批。具体工作包括：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.1项目资源计划编制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "项目部设计经理负责编制项目的资源计划，主要记录项目的各个工作包的具体设计人、及负责审批该工作包完成结果的业务部门的生产负责人。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5.2项目资源计划调整 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当项目的生产负责人、具体设计人发生变更后，或项目范围发生变更后，项目部设计经理需及时调整项目的资源计划。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6项目文档管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "即在项目信息管理过程中对作为信息载体的资料进行有序的收集、加工、分解、编目、存档，并为项目各参加者提供专用的和常用的信息的过程。档案管理人员负责收集和整理各个和本项目相关的文档，并将电子版录人软件系统，软件系统中需要记录相关文档的名称、分类、关键字、版本号、成文日期、文档负责人、归档人等信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.7 营销合同收款 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合同款项分为首付款、进度款、尾款、质保金等，营销负责人需认真、及时地记录历次从甲方单位收回的款项信息，包括：合同信息、收款日期、甲方经办人、乙方经办人、收款金额、款项性质等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8基础信息管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "维护本软件系统中公用的基础信息，包括：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.1 组织机构信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "维护本设计单位的组织机构，包括设计单位的各级管理部门、职能部门等，并以多层树形结构展示出来，如图2中灰色阴影底色的框体所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)工程营销部门：国内营销部门、海外营销部门等；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)业务管理部门：土建工程管理部、安装工程管理部等；",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)业务部门：土建设计一部、土建设计二部、安装设计一部、安装设计二部等。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.2 人员账户信息 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "维护组织机构中各级机构内部的人员及人员",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "账户信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.8.3 标准岗位信息",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "维护本设计项目管理系统中参与设计项目管理的标准岗位的信息，如图2白底框体所示：",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/356ad3a8f21cb3d1c274db9bbb266cf9e13497b617db56fbfbbb2309db33ff09.jpg",
+        "img_caption": [
+            "图2组织机构及标准岗位信息图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)工程营销部门：营销负责人；2)业务管理部门：部门负责人、项目经理、设计经理、控制经理、档案管理；3)业务部门：生产负责人、设计人；表1列出了系统内涉及到的岗位和各个工作之",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e37e39420ce7a7329ca6a5138241bcbb96d39421fb9518e1121ccd6c48f62903.jpg",
+        "table_caption": [
+            "表1岗位和业务功能关系对照表"
+        ],
+        "table_footnote": [
+            "注：1、△业务维护：即将业务数据录人到软件系统；2、业务审批：即审批业务人员录人到软件系统中的数据。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>岗位</td><td colspan=\"5\">工程营销部门 业务管理部门</td><td colspan=\"3\">业务部门</td></tr><tr><td>业务功能</td><td></td><td>费人</td><td>部人</td><td>项理</td><td>设计理</td><td>控制理</td><td>档案理</td><td>负生产人</td><td>设计人</td></tr><tr><td>项目营销管理</td><td>营销合同签订</td><td>△</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>项目整体管理</td><td>项目部组建</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>项目范围管理</td><td>项目范围定义</td><td></td><td></td><td>▲</td><td>△</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">项目时间管理</td><td>项目范围调整</td><td></td><td></td><td>▲</td><td>△</td><td></td><td></td><td></td><td></td></tr><tr><td>项目进度计划编制</td><td></td><td></td><td>△</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>项目进度计划调整</td><td></td><td></td><td>△</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">项目资源管理</td><td>项目实际进度反馈</td><td></td><td></td><td></td><td></td><td>▲</td><td></td><td></td><td>△</td></tr><tr><td>项目资源计划编制</td><td></td><td></td><td>▲</td><td>△</td><td></td><td></td><td></td><td></td></tr><tr><td>项目资源计划调整</td><td></td><td></td><td>△</td><td>△</td><td></td><td></td><td></td><td></td></tr><tr><td>项目整体管理</td><td>项目文档管理</td><td></td><td></td><td>△</td><td></td><td></td><td>△</td><td></td><td></td></tr><tr><td>项目营销管理</td><td>营销合同收款</td><td>△</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "间的对照关系。同时，本软件系统还提供了多方面、多维度的综合统计功能，如下示例：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)项目范围概览",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以树形结构展现项目的工作分解结构，包括原始的和历次变更的工作分解结构，并能将最终的项目范围和历次变更的项目范围进行标记；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)项目进度监控",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以树形结构展现项目的工作分解结构，点击不同层级的工作任务，可以用横道图的形式展示出该工作任务的计划进度与实际进度之间的出入，包括计划与实际的开始日期、计划与实际的结束日期、计划与实际的工期等；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)项目人员投入监控",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以树形结构展现项目的工作分解结构，点击不同层级的工作任务，可以用报表的形式展示出该工作任务的人员投入情况，如执行该工作任务的人员姓名、该人员投入的工期等信息；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4)项目人员动态分布",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以报表的形式体现当前项目部中各岗位的人员信息，点击相应的人员姓名，可查看到该人员参与过的其他项目的信息及该人员在相应的项目部中的岗位等信息；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5)项目文档概览",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以树形结构展现项目的工作分解结构，点击不同层级的工作任务，可以以列表的形式展示出该工作任务执行完成后生成的各类文档的信息。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3总结 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过本软件系统的设计、开发、实施与应用，对本设计单位的设计项目管理流程进行了优化与调整，更加明确了设计项目管理全过程的工作内容、涉及的岗位、人员分工，大大加快了各项工作的处理时间，大大节约了办公成本。同时，随着管理流程的不断优化，本软件系统的功能也需要进行不断的调整。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1］柳纯录.系统集成项目管理工程师教程[M].北京：清华大学出版社，2009：242-255.  \n「2]李跃宇.项目时间管理[M].北京：机械工业出版社，2007，8:2-23.  \n「3]邓建刚等.建设工程项目资源管理M].北京：中国计划出版社，2007，1：2.  \n「4]蔡中辉等.建设工程项目信息管理M.北京：中国计划出版社，2007，1:80.",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Design Project Management of Project Management Informatization ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Yang Jixing ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Capital Engineering&Research IncorporationLimited,BeijinglOO176,China) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This paper introduces the structureand businessprocess of design projects of acomprehensive designorganization,and thendemonstratesadesignprojectmanagement informationsystembasedonthebusiness process.Finall，thepaper shows thebusinessfunctions,job definitions and function distributions of the system. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "KeyWords:Design Project；Project Management；Work Breakdown Structure；WBS；Work Package ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "万方数据",
+        "page_idx": 3
+    }
+]

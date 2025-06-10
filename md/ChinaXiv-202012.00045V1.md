@@ -1,0 +1,178 @@
+# 基于MCM模型和 $^ { 1 3 7 } \mathrm { C s }$ 的准东地区土壤侵蚀分析
+
+刘君洋¹²，王明力³，杨建军¹²，缪成波1.2(1．新疆大学资源与环境科学学院,新疆 乌鲁木齐830046；2.新疆大学绿洲生态教育部重点实验室，新疆 乌鲁木齐 830046；3．核工业二一六大队,新疆 乌鲁木齐 830011)
+
+摘要：运用中国大陆CRI修正模型(MCM)估算了新疆准东地区27个样点的 $^ { 1 3 7 } \mathrm { C s }$ 本底值,计算了沙地、裸地、耕地、林地和草地的土壤侵蚀量并对其进行验证,探讨了MCM模型在研究区的应用潜力。结果表明：(1）各样点的$^ { 1 3 7 } \mathrm { C s }$ 总量在 $1 3 0 . 1 0 { \sim } 2 6 7 1 . 5 4 \mathrm { B q } { \cdot } \mathrm { m } ^ { - 2 }$ ,平均值为 $1 0 7 6 . 3 1 ~ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ,研究区中部和北部土壤多属侵蚀状态,而南部土壤多属沉积状态;(2）MCM模型估算的 $^ { 1 3 7 } \mathrm { C s }$ 背景值含量介于 $9 7 9 . 8 7 { \sim } 1 2 4 9 . 6 0 \mathrm { B q } { \cdot } \mathrm { m } ^ { - 2 }$ ,平均值为 $1 1 4 0 . 2 0 \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ,结果较为合理;(3）位于研究区中部的荒漠-平原区的耕地、草地和未利用地土壤侵蚀模数分别为 $2 4 . 6 6 , 3 4 . 3 0 \ : \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ 和$7 7 . 8 4 \ : \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ ,表明基于MCM模型计算的土壤侵蚀模数能较好的反映研究区土壤侵蚀状况；(4）不同土地类型的土壤侵蚀模数存在显著差异，沙地 $>$ 裸地 $>$ 草地 $>$ 耕地 ${ } _ { > }$ 林地，研究区年平均侵蚀模数 $7 5 . 8 6 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 。基于MCM模型估算的 $^ { 1 3 7 } \mathrm { C s }$ 背景值在本研究区测算的土壤侵蚀模数较为合理，具有广泛的应用前景。
+
+关键词： $^ { 1 3 7 } \mathrm { C s }$ ；MCM模型；土壤侵蚀；准东地区；新疆
+
+$^ { 1 3 7 } \mathrm { C s }$ 技术在土壤侵蚀领域应用相对广泛,已被证明是研究土壤侵蚀的最佳方法[1-2]。 $^ { 1 3 7 } \mathrm { C s }$ 示踪土壤侵蚀有关研究主要包括 $^ { 1 3 7 } \mathrm { C s }$ 迁移过程、侵蚀模数估算模型和典型区域应用等[3-6],然而,在 $^ { 1 3 7 } \mathrm { C s }$ 示踪技术应用中,关于 $^ { 1 3 7 } \mathrm { C s }$ 本底值(CRI, $^ { 1 3 7 } \mathrm { C s }$ reference in-ventory)的抽样方式和样点数量的研究较少[7]。目前，获取 $^ { 1 3 7 } \mathrm { C s }$ 本底值数据主要通过在野外选取少人为扰动、无侵蚀和沉积发生的样地采集土壤样品，但近几十年来人类活动强度大，在许多地区难以找到完全符合标准的样地，该方法的实现存在一定难度，降低了 $^ { 1 3 7 } \mathrm { C s }$ 技术评估土壤侵蚀的可靠性。基于此，以实测数据为基础，能真实反映本底值含量的计算模型能完善 $^ { 1 3 7 } \mathrm { C s }$ 示踪技术在本底值选取方面的不足8，对定量评估土壤侵蚀影响具有重要意义。
+
+Waling等[9按照 $1 0 ^ { \circ } { \times } 4 5 ^ { \circ }$ 分区网格建立了全球尺度 $^ { 1 3 7 } \mathrm { C s }$ 背景值分布模型,但在中国的模拟结果普遍低于实测值[10-11]。Aoyama等[12]按照 $1 0 ^ { \circ } \times 1 0 ^ { \circ }$ 分区网格绘制了全球CRI分布图，分辨率明显提高，但区域性CRI模拟效果仍不理想，因此，更具代表性的区域CRI模型引起了相关学者的重视。张威等[在Walling和Aoyama模型的基础上，利用CRI实测数据和降水量数据建立了中国大陆CRI修正模型(modified CRI model for the mainland of China,MCM),并基于 $0 . 5 ^ { \circ }$ 网格CRI计算结果作Kriging/Cokriging插值处理，实现了对中国大陆任意点CRI模拟，能对中国大陆CRI进行较高分辨率和较高精度的模拟。
+
+准噶尔盆地东部地区常年受风力侵蚀，理想的背景值样地的寻找与确定较为困难，因而很难获得大量准确的实测背景值对MCM模型进行验证，但该区域进行的土壤侵蚀研究较为集中[14-17],对比基于MCM模型和 $^ { 1 3 7 } \mathrm { C s }$ 的土壤侵蚀速率与该地区各土地利用类型的土壤侵蚀速率，可以检验MCM模型在本研究区的适用性。此外，准东地区是典型的荒漠地带，加之露天煤矿开采活动较多，地表人为扰动较大，导致该区域水土流失问题严峻，因此，利用MCM模型和 $^ { 1 3 7 } \mathrm { C s }$ 示踪技术在准东地区展开土壤侵蚀研究，对维持准噶尔盆地东部的水土安全具有重要意义。
+
+# A 研究区与研究方法
+
+# 1.1 研究区概况
+
+准东地区是准噶尔盆地东部的彩南至北塔山的狭长地带，海拔高度 $8 0 0 \sim 1 4 7 3 \mathrm { ~ m }$ ,地理位置为$\mathrm { 8 8 ^ { \circ } 1 0 ^ { \prime } \sim 9 1 ^ { \circ } 1 0 ^ { \prime } E , 4 3 ^ { \circ } 3 0 ^ { \prime } \sim 4 5 ^ { \circ } 0 0 ^ { \prime } N }$ ，总面积约 $2 . 2 3 \times$ $1 0 ^ { 4 } \mathrm { k m } ^ { 2 }$ ,属干旱气候,年降水量 $1 8 3 . 5 \mathrm { m m }$ ,年蒸发量$2 0 4 2 . 3 ~ \mathrm { m m }$ ,四季多风，最多大风日数 $4 5 \mathrm { ~ d ~ }$ ，一般风力 $3 \sim 5$ 级,年平均风速在 $2 . 7 \sim 3 . 7 \ \mathrm { m \cdot s ^ { - 1 } }$ ,最大风速$1 6 \mathrm { m } \cdot \mathrm { s } ^ { - 1 }$ ,属强度风力侵蚀，是极端干旱环境下研究土壤侵蚀的理想地带。土地利用类型以沙地和裸地为主，也有少量的耕地和草地，主要土壤为风沙土和灰棕漠土，植被覆盖度较低 $( 3 \% \sim 5 \% )$ ，有机质积累较少。
+
+# 1.2样品采集与测定
+
+样品采集时间为2017年5—8月，根据准东地区的地形地貌与土地利用状况，选取27块样地（图1)。实测点位分布较为均匀，主要集中在的北部和中部，基本能够覆盖准东地区，满足进一步分析计算土壤侵蚀量的基本条件。此外，地貌因素和土壤质地会对单个样点的土壤侵蚀速率计算产生较大的影响，因此，在本研究中对各土地利用类型分别采集了适当的样点数量，并保证相同土地利用类型的地貌因素和土壤质地类似，使其达到表征微地貌形态局部区域的土壤侵蚀状况时，可以整体反映区域土地利用类型的土壤侵蚀情况。为避免地形、地貌、海拔、成土母质等对研究结果的影响，在野外调查的基础上，根据典型性和代表性原则选择地理位置相对集中的沙地、裸地、草地、耕地和林地样地，分别为9、7、5、5块和1块，共27块样地能实现对研究区各土地利用类型土壤侵蚀速率的计算，为研究区土壤侵蚀量的估算提供了可能。各样地具体位置则进一步根据地形地貌、土壤类型、土地利用情况、植被覆盖情况等确定，样地信息见表1。
+
+每块样地面积 $2 0 ~ \mathrm { m } \times 3 0 ~ \mathrm { m }$ ,在各样地内按照“品"字形设置样点3个，首先用铁铲去除地表砾石、植物残体等杂物，再以 $2 \mathrm { c m }$ 为间隔在 $0 \sim 2 0 ~ \mathrm { c m }$ 分层采样，之后将各样地内同一土层样品混合后去掉杂
+
+![](images/b9deeb2e4f0b9fbe3c1a0d771d7df4fb08ddbe2e51fc66a932e2e6fb3891c79f.jpg)  
+图1研究区样地分布示意图  
+Fig.1Distribution of sampling plots in study area
+
+# 表1研究区样地描述
+
+Tab.1 Background information of sampling plots in study area   
+
+<html><body><table><tr><td>编号</td><td>经度/()</td><td>纬度/()</td><td>海拔/m</td><td>土地利用类型</td><td>土壤类型</td><td>植被种类</td><td>盖度/%</td><td>坡度/()</td></tr><tr><td>A1</td><td>88.60051</td><td>44.38902</td><td>521</td><td>耕地</td><td>灌耕土</td><td>小麦</td><td>100</td><td>5</td></tr><tr><td>A2</td><td>88.75359</td><td>44.58966</td><td>535</td><td>沙地</td><td>风沙土</td><td>梭梭,猪毛菜,麻黄</td><td>10</td><td>7</td></tr><tr><td>A3</td><td>89.20479</td><td>45.04564</td><td>893</td><td>裸地</td><td>灰漠土</td><td>麻黄,梭梭等</td><td>1</td><td>6</td></tr><tr><td>A4</td><td>89.17236</td><td>44.65644</td><td>513</td><td>沙地</td><td>风沙土</td><td>无植被</td><td>0</td><td>6</td></tr><tr><td>A5</td><td>89.61124</td><td>44.79412</td><td>612</td><td>裸地</td><td>灰漠土</td><td>无植被</td><td>0</td><td>8</td></tr><tr><td>A6</td><td>89.57170</td><td>44.52003</td><td>589</td><td>沙地</td><td>风沙土</td><td>蛇麻黄,梭梭,沙拐枣</td><td>15</td><td>9</td></tr><tr><td>A7</td><td>89.61073</td><td>44.26524</td><td>660</td><td>沙地</td><td>风沙土</td><td>蛇麻黄,梭梭</td><td>3</td><td>8</td></tr><tr><td>A8</td><td>90.32513</td><td>44.45867</td><td>699</td><td>裸地</td><td>棕漠土</td><td>无植被</td><td>0</td><td>8</td></tr><tr><td>A9</td><td>90.34991</td><td>44.27048</td><td>793</td><td>沙地</td><td>风沙土</td><td>琵琶柴、梭梭</td><td>1</td><td>7</td></tr><tr><td>A10</td><td>90.02522</td><td>44.88141</td><td>686</td><td>裸地</td><td>棕漠土</td><td>无植被</td><td>0</td><td>7</td></tr><tr><td>A11</td><td>88.58902</td><td>45.11037</td><td>651</td><td>沙地</td><td>风沙土</td><td>梭梭、沙拐枣,蒿类</td><td>2</td><td>5</td></tr><tr><td>A12</td><td>89.11397</td><td>44.24088</td><td>582</td><td>耕地</td><td>灌耕土</td><td>小麦</td><td>100</td><td>7</td></tr><tr><td>A13</td><td>89.91495</td><td>44.49952</td><td>628</td><td>草地</td><td>盐碱土</td><td>芦苇,盐角草,盐亚木,怪柳,白麻</td><td>65</td><td>8</td></tr><tr><td>A14</td><td>88.73796</td><td>43.88627</td><td>1684</td><td>草地</td><td>草甸土</td><td>新疆针茅,驼绒藜,冷蒿</td><td>90</td><td>9</td></tr><tr><td>B1</td><td>89.28452</td><td>43.85320</td><td>1056</td><td>耕地</td><td>灌耕土</td><td>小麦</td><td>100</td><td>6</td></tr><tr><td>B2</td><td>89.28409</td><td>43.94442</td><td>831</td><td>耕地</td><td>灌耕土</td><td>小麦</td><td>100</td><td>5</td></tr><tr><td>B3</td><td>90.09734</td><td>44.78125</td><td>502</td><td>裸地</td><td>灰漠土</td><td>无植被</td><td>0</td><td>7</td></tr><tr><td>B4</td><td>88.69623</td><td>44.55135</td><td>551</td><td>沙地</td><td>风沙土</td><td>无植被</td><td>0</td><td>6</td></tr><tr><td>B5</td><td>89.15227</td><td>44.46905</td><td>553</td><td>沙地</td><td>风沙土</td><td>无植被</td><td>0</td><td>6</td></tr><tr><td>B6</td><td>88.96510</td><td>44.85457</td><td>471</td><td>裸地</td><td>灰漠土</td><td>无植被</td><td>0</td><td>7</td></tr><tr><td>B7</td><td>88.79174</td><td>44.75451</td><td>473</td><td>沙地</td><td>风沙土</td><td>白刺</td><td>5</td><td>6</td></tr><tr><td>B8</td><td>89.35170</td><td>44.74213</td><td>473</td><td>裸地</td><td>棕漠土</td><td>假木贼,植被</td><td>1</td><td>8</td></tr><tr><td>B9</td><td>90.09002</td><td>44.31591</td><td>714</td><td>草地</td><td>盐碱土</td><td>芨芨草,白刺,芦苇</td><td>30</td><td>10</td></tr><tr><td>B10</td><td>89.23206</td><td>43.72871</td><td>A14</td><td>耕地</td><td>灌耕土</td><td>小麦</td><td>100</td><td>6</td></tr><tr><td>B11</td><td>89.23254</td><td>43.68856</td><td>1756</td><td>草地</td><td>草甸土</td><td>新疆针茅,驼绒藜,冷蒿</td><td>100</td><td>8</td></tr><tr><td>B12</td><td>89.31180</td><td>43.77720</td><td>1264</td><td>草地</td><td>栗钙土</td><td>新疆针茅,冷蒿,小蓬,小新塔花，</td><td>55</td><td>7</td></tr><tr><td>B13</td><td>89.23376</td><td>43.67808</td><td>1832</td><td>林地</td><td>灰褐土</td><td>雪岭云杉</td><td>90</td><td>10</td></tr></table></body></html>
+
+注：A编号对应的是2017年5—7月采集的土壤样品,B编号对应的是2017年8月采集的土壤样品。
+
+质，共计270个样品。将采集的土壤样品带回实验室自然风干，经研磨、过 $2 \mathrm { m m }$ 筛后，取 $1 0 0 0 \ \mathrm { g }$ 封装保存。 $^ { 1 3 7 } \mathrm { C s }$ 活度在核工业北京地质研究院利用GMX-20A-Plus高纯锗能谱仪测定，采用配备n型高纯锗探头的低能量、低本底 $\gamma$ 能谱仪，根据 $6 6 1 . 6 ~ \mathrm { K e V }$ 谱峰面积测算样品 $^ { 1 3 7 } \mathrm { C s }$ 含量。样品测重 ${ \tt > } 4 0 0 \mathrm { ~ g ~ }$ ，测定时间 ${ \geqslant } 5 0 0 0 0 \mathrm { { s } }$ ，测试误差为 $\pm 5 \%$ （ $9 5 \%$ 信度）。
+
+# 1.3计算方法
+
+1.3.1MCM模型MCM模型通过评估现有的CRI研究资料并开展模型优化与对比研究，计算了中国大陆CRI的分布情况及分布特征，从而为区域性CRI研究提供新方法。本研究利用张威等3开发的基于MCM模型的计算软件，在计算软件中导入新疆准东地区各采样点位置数据,通过软件计算实现了对该点CRI的预测和模拟。
+
+该模型首先对中国地区进行 $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ 网格化处理，将CRI实测数据库中的102个数据项导入中国大陆占据的187个网格。其次，假定经向相邻网格CRI与年均降水量正相关，并利用GPCC提供的1981—2010年 $2 . 5 ^ { \circ } \times 2 . 5 ^ { \circ }$ 分辨率的降水量数据，计算中国大陆187个 $2 . 5 ^ { \circ }$ 网格 $\mathrm { C R I }$ 。然后对中国大陆进行了 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 网格化处理，并利用GPCC提供的1981—2010年 $0 . 5 ^ { \circ } \times 0 . 5 ^ { \circ }$ 分辨率的降水量再分析数据，计算了中国地区 $0 . 5 ^ { \circ }$ 网格CRI。计算过程为：将每个 $R _ { i , j }$ 网格的 $0 . 5 ^ { \circ }$ 网格记为 $R _ { i , j } r _ { m , n }$ ，其中， $m , n { = } 1 , 2$ ，3,4,5。设中国大陆任一点经纬度坐标为 $\left( \varphi , \theta \right) , \varphi$ 范围为 $1 3 . 7 5 ^ { \circ } { \sim } 5 5 . 7 5 ^ { \circ } \mathrm { E }$ 。点 $X$ 所在 $0 . 5 ^ { \circ }$ 网格为 $R _ { i , j } r _ { m , n }$ ，则有：
+
+$$
+C ( \varphi , \theta ) = C ( R _ { i , j } r _ { m , n } ) = \frac { 2 5 \times P ( R _ { i , j } r _ { m , n } ) } { \displaystyle \sum _ { m , n } P ( R _ { i , j } r _ { m , n } ) } \times C ( R _ { i , j } )
+$$
+
+其中,
+
+$$
+\left\{ \begin{array} { l l } { i { = } 1 7 \mathrm { - r o u n d } { \left( \frac { \varphi - \varphi _ { \mathrm { m i n } } } { 2 . 5 } \right) } } \\ { j { = } 1 + \mathrm { r o u n d } { \left( \frac { \theta - \theta _ { \mathrm { m i n } } } { 2 . 5 } \right) } } \\ { m { = } 9 0 - 5 \times i \mathrm { - r o u n d } { \left( \frac { \varphi - \varphi _ { \mathrm { m i n } } } { 0 . 5 } \right) } } \\ { n { = } 6 - 5 \times j + \mathrm { r o u n d } { \left( \frac { \theta - \theta _ { \mathrm { m i n } } } { 0 . 5 } \right) } } \end{array} \right.
+$$
+
+最后，基于 $0 . 5 ^ { \circ }$ 网格CRI计算结果作进一步Kriging/Cokriging插值处理，从而实现中国大陆任意点CRI模拟。
+
+1.3.2耕地土壤侵蚀速率计算简化质量平衡模型被广泛用于耕地土壤侵蚀速率的评估，表示如下：
+
+$$
+A = A _ { 0 } ( 1 - h / H ) ^ { N - 1 9 6 3 }
+$$
+
+式中： $A , A _ { 0 }$ 分别为取样点土壤剖面 $^ { 1 3 7 } \mathrm { C s }$ 的含量和背景值 $\mathrm { \langle B q \cdot m ^ { - 2 } } .$ ) $h$ 为年平均侵蚀厚度 $\mathrm { ( m ) }$ $H$ 是犁耕层厚度 ${ \bf \Pi } ( { \bf m } ) ; N$ 是采样时间。
+
+1.3.3非耕地土壤侵蚀速率计算对于非耕地土壤,剖面中 $^ { 1 3 7 } \mathrm { C s }$ 垂直分布与耕地土壤明显不同,本研究利用以下模型计算非耕地土壤侵蚀速率：
+
+$$
+E _ { \mathrm { { R } } } = 1 0 ( A _ { \mathrm { { 0 } } } - A ) / N \cdot C _ { \mathrm { { a } } }
+$$
+
+式中： $E _ { \mathrm { { R } } }$ 为土壤侵蚀速率; $C _ { \mathrm { a } }$ 为采样点土壤 $^ { 1 3 7 } \mathrm { C s }$ 平均质量活度 $\left( \mathbf { B } \mathbf { q } \cdot \mathbf { k } \mathbf { g } ^ { - 1 } \right)$ ○
+
+$$
+h = { \frac { E _ { \mathrm { { R } } } } { 1 0 \cdot D _ { \mathrm { { a } } } } }
+$$
+
+式中： $D _ { \mathrm { a } }$ 为土壤各层容重的均值 $\left( \mathrm { k g } \cdot \mathrm { m } ^ { - 3 } \right)$ 。
+
+# 2结果与讨论
+
+# 2.1基于MCM模型计算的 $^ { 1 3 7 } \mathrm { { C s } }$ 本底值和实测$^ { 1 3 7 } \mathrm { { C s } }$ 分布特征
+
+$^ { 1 3 7 } \mathrm { C s }$ 示踪剂的沉积主要发生在20世纪50年代和70年代，主要描述了自70年代(约50年前)以来的土壤侵蚀过程[18],当测得某点 $^ { 1 3 7 } \mathrm { C s }$ 含量高于土壤背景值时，表明该点出现沉积现象，反之，则为侵蚀。如图2所示，A1、A3、A4、A5、A7、A9、A10、A11、A12、A13、B4、B5、B8、B9、B10样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量范围为$1 3 0 . 1 0 { \sim } 7 2 2 . 5 2 \ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ,均小于背景值,表明受到了侵蚀。而A2、A6、A8、A14、B1、B2、B3、B6、B7、B11、B12、B13样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量介于 $9 8 3 . 9 0 { \sim } 2 6 7 1 . 5 4 ~ \mathrm { B q }$ $\mathbf { m } ^ { - 2 }$ ,均大于背景值，说明为沉积样点。从整个研究区来看，研究区中部和北部侵蚀样点居多，而南部除B10样点外，其余均为沉积状态。
+
+![](images/02ee1a4628785d51a820cdb965638462476d0c69a7e79ef60e3dbf9bc017b40a.jpg)  
+图2各样点CRI与 $^ { 1 3 7 } \mathrm { C s }$ 含量 Fig.2The CRI and measured $^ { 1 3 7 } \mathrm { C s }$ inventory of sampling plots
+
+研究区 $^ { 1 3 7 } \mathrm { C s }$ 的含量分布范围为130.10\~2671.54$\mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ,平均值为 $1 0 7 6 . 3 1 ~ \mathrm { B q ^ { \cdot } m ^ { - 2 } }$ ,而由MCM模型模拟的 $^ { 1 3 7 } \mathrm { C s }$ 背景值含量介于 $9 7 9 . 8 7 { \sim } 1 2 4 9 . 6 0 \ \mathrm { B q \cdot m ^ { - 2 } }$ 。该背景值区间与濮励杰等[19]在新疆库尔勒所得出的经衰变校正后的 $6 2 1 1 \ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ 结果差别较大，但与齐永青等[模拟的阿克苏、罗布泊等地的 $^ { 1 3 7 } \mathrm { C s }$ 背景值较为接近，两地 $^ { 1 3 7 } \mathrm { C s }$ 背景值经衰变校正后分别为$1 1 9 3 ~ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ 和 $9 0 9 \ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ 。此外,有关学者在类似区域巴彦淖尔[20和陕西洛川2所得背景值分别为$1 3 0 3 ~ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ 和 $1 0 3 2 ~ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ，与本研究较为接近，表明该背景值区间较为合理。
+
+耕地样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量大多明显低于背景值，表明受到了较为严重的侵蚀，这与长时间的人为翻耕和土地整理等活动有关[22-23],但B1样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量明显高于背景值，B2样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量略高于该处的背景值，这是由于B1样点位于当地白杨河小流域出山口，能接受来自山区河流带来的有机质，使得附着在其上的 $^ { 1 3 7 } \mathrm { C s }$ 在B1样点附近沉积，从而导致B1的 $^ { 1 3 7 } \mathrm { C s }$ 含量明显高于背景值，而B2样点位于河流下游的平原区，随河流带来了一定的土壤使得该样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量高于背景值。
+
+草地样点的植被覆盖度较高，能有效降低土壤侵蚀的影响[24-25],因此，A14、B11和B12样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量均高于背景值，其中B11样点为人工封育的多年生牧草地，植被覆盖率 $100 \%$ ， $^ { 1 3 7 } \mathrm { C s }$ 含量达到了$2 6 7 1 . 5 4 ~ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ,是本研究中 $^ { 1 3 7 } \mathrm { C s }$ 含量最高的样点。而A13和B9样点的植被覆盖度较高，但其位于高地下水位、高盐渍化的干湖盆地，季节性河水的冲刷作用带走了大量的 $^ { 1 3 7 } \mathrm { C s }$ ，导致A13和B9的 $^ { 1 3 7 } \mathrm { C s }$ 含量低于背景值。在沙地样点中，除A2、A6样点外，其余样点都是侵蚀样点。A2、A6样点植被覆盖率分别为 $1 0 \%$ 和 $1 5 \%$ ,均为固定沙地,分布着梭梭、猪毛菜和麻黄等植被，这些植被对下部土壤的保护作用26使得A2、A6样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量高于背景值，表现为沉积。
+
+在裸地样点中，A3、A5、A10和B8四个样点受到侵蚀,其中,A10样点的 $^ { 1 3 7 } \mathrm { C s }$ 含量仅为 $1 3 0 . 6 8 ~ \mathrm { B q }$ ：$\mathbf { m } ^ { - 2 }$ ,是本研究中 $^ { 1 3 7 } \mathrm { C s }$ 含量最低的样点，这是由于该样点常年受到风力侵蚀，且地表无植被造成的。而A8、B3和B6样点 $^ { 1 3 7 } \mathrm { C s }$ 含量高于背景值，均表现为沉积，这是因为样点表面被砾石戈壁所覆盖，对下部土壤起了一定的保护作用，甚至能够接受部分颗粒[19]。虽然,植被覆盖度很低,但是, $^ { 1 3 7 } \mathrm { C s }$ 含量依然高于背景值。
+
+# 2.2 土壤侵蚀速率估算
+
+从表2可以看出，在侵蚀样点中，A5样点的侵蚀速率最低，为 $2 0 . 5 6 \mathrm { \ t } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,A10样点的侵蚀速率最高，为 $6 2 5 . 6 8 ~ \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ ,各样地的年平均侵蚀厚度为 $1 . 8 2 { \sim } 4 8 . 9 4 ~ \mathrm { m m } \cdot \mathrm { a } ^ { - 1 }$ ，侵蚀模数为 $2 0 . 5 6 \sim$ $6 2 5 . 6 8 ~ \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ 。在沉积样点中，B11样点位于多年生的人工封育牧草地， $^ { 1 3 7 } \mathrm { C s }$ 活度最高，年沉积速率最大。相反,位于裸地的B6样点的 $^ { 1 3 7 } \mathrm { C s }$ 活度最低,年沉积速率最小，各样地年平均累积厚度为 $0 . 5 1 \sim$ $2 . 4 8 ~ \mathrm { m m ^ { \cdot } a ^ { - 1 } }$ ,沉积模数为 $6 . 7 4 { \sim } 2 2 . 7 4 ~ \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ 0
+
+由表3可知，研究区各土地利用类型的平均土壤侵蚀速率：沙地 $>$ 裸地 $>$ 草地 $>$ 耕地 $>$ 林地，其中沙地和裸地的平均土壤侵蚀速率明显大于其他土地利用类型，分别为 $1 4 4 . 7 8 ~ \mathrm { t \cdot h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 和 $9 8 . 7 3 \mathrm { ~ t } \cdot \mathrm { h m } ^ { - 2 }$ ·$\mathbf { a } ^ { - 1 }$ ,这是因为这两种土地利用类型主要分布于研究区的中部和北部，由于地表植被覆盖度较低，且常年受到风蚀影响，尤其是4一7月为风蚀活动最剧烈阶段[15]。该时期平均风速最大 $4 . 6 0 \ \mathrm { m \cdot s ^ { - 1 } }$ ,最大风速$1 7 . 8 0 \ \mathrm { m \cdot s ^ { - 1 } }$ ,大于临界风速的累计时间最多,故大风多风是造成该时期风蚀活动剧烈的主要原因，也是导致沙地和裸地的平均土壤侵蚀速率明显大于其他土地利用类型的主要原因。此外，研究区存在较大面积的半固定沙地和流动沙丘，这两种类型的土地更易受风蚀影响，从而导致沙地的平均土壤侵蚀速率明显大于其他土地利用类型。草地和耕地的平均土壤侵蚀速率较为接近，这是由两种土地利用类型地表植被覆盖度较高所决定的。耕地因为农作物的种植使得植被覆盖度最高，地表粗糙度最
+
+# 表2各样点土壤侵蚀速率
+
+Tab.2 The soil erosion modulus of sampling plots   
+表3不同土地类型土壤侵蚀速率  
+
+<html><body><table><tr><td>编号</td><td>容重 /(kg·m-3)</td><td>含水率 1%</td><td>土壤侵蚀 速率/(t·hm-2·a-1)</td><td>年平均侵蚀 厚度/mm</td></tr><tr><td>A1</td><td>1062.27</td><td>8.42</td><td>44.21</td><td>2.34</td></tr><tr><td>A2</td><td>1482.28</td><td>0.76</td><td>-11.37</td><td>-0.77</td></tr><tr><td>A3</td><td>837.70</td><td>8.57</td><td>30.12</td><td>3.60</td></tr><tr><td>A4</td><td>1281.24</td><td>3.95</td><td>126.89</td><td>9.90</td></tr><tr><td>A5</td><td>1126.87</td><td>2.65</td><td>20.56</td><td>1.82</td></tr><tr><td>A6</td><td>1552.07</td><td>1.54</td><td>-20.32</td><td>-1.31</td></tr><tr><td>A7</td><td>1491.87</td><td>3.21</td><td>260.03</td><td>17.43</td></tr><tr><td>A8</td><td>1467.73</td><td>6.19</td><td>-14.12</td><td>-0.96</td></tr><tr><td>A9</td><td>1486.62</td><td>3.95</td><td>79.12</td><td>5.32</td></tr><tr><td>A10</td><td>1537.70</td><td>0.26</td><td>625.68</td><td>48.90</td></tr><tr><td>A11</td><td>1079.19</td><td>12.88</td><td>380.10</td><td>24.72</td></tr><tr><td>A12</td><td>915.19</td><td>12.54</td><td>44.17</td><td>2.38</td></tr><tr><td>A13</td><td>1476.46</td><td>4.83</td><td>23.33</td><td>2.55</td></tr><tr><td>A14</td><td>991.04</td><td>13.72</td><td>-16.36</td><td>-1.65</td></tr><tr><td>B1</td><td>1375.85</td><td>9.70</td><td>-15.93</td><td>-1.53</td></tr><tr><td>B2</td><td>1288.51</td><td>11.25</td><td>-0.20</td><td>-0.15</td></tr><tr><td>B3</td><td>1133.16</td><td>7.31</td><td>-21.55</td><td>-1.90</td></tr><tr><td>B4</td><td>1599.44</td><td>2.23</td><td>123.87</td><td>7.74</td></tr><tr><td>B5</td><td>1507.07</td><td>1.31</td><td>375.57</td><td>24.92</td></tr><tr><td>B6</td><td>1333.70</td><td>7.21</td><td>-6.74</td><td>-0.51</td></tr><tr><td>B7</td><td>1424.65</td><td>2.77</td><td>-10.87</td><td>-0.76</td></tr><tr><td>B8</td><td>1416.50</td><td>2.64</td><td>57.13</td><td>4.03</td></tr><tr><td>B9</td><td>1234.94</td><td>4.33</td><td>45.26</td><td>3.66</td></tr><tr><td>B10</td><td>1149.21</td><td>15.05</td><td>61.35</td><td>2.04</td></tr><tr><td>B11</td><td>914.38</td><td>18.70</td><td>-22.74</td><td>-2.49</td></tr><tr><td>B12</td><td>1179.67</td><td>3.68</td><td>-17.05</td><td>-1.45</td></tr><tr><td>B13</td><td>656.99</td><td>15.33</td><td>-8.97</td><td>-1.37</td></tr><tr><td>平均</td><td>1259.34</td><td>6.85</td><td>75.86</td><td>5.43</td></tr></table></body></html>
+
+Tab.3 The soil erosion modulus in different soil type   
+
+<html><body><table><tr><td>土地类型</td><td>耕地</td><td>草地</td><td>裸地</td><td>沙地</td><td>林地</td></tr><tr><td>土壤侵蚀速率 /(t·hm-2·a-1)</td><td>10.21</td><td>15.28</td><td>98.73</td><td>144.78</td><td>-8.97</td></tr></table></body></html>
+
+大，有效减缓了土壤侵蚀的影响[27]，且研究区存在较大面积的荒漠草地，由于受水资源的限制和自然条件的影响，草地质量不高，因此草地的土壤侵蚀速率大于耕地。林地主要位于研究区南部，该区域常年生长着雪岭云杉等树种，地表覆盖度较大，有效减小了土壤侵蚀的影响[28],导致林地呈现出土壤堆积的现象。
+
+曹月娥等[7]利用粒度对比法估算了2016年内准东地区不同土地类型的平均风蚀速率，结果表明：准东地区平均风蚀速率沙地 ${ } _ { > }$ 裸地 $>$ 草地 $>$ 耕地，与本研究结果一致，但该研究中耕地和草地的平均风蚀速率分别为 $2 2 . 8 2 \ : \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ 和 $3 2 . 8 1 \mathrm { t \cdot h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，与 $^ { 1 3 7 } \mathrm { C s }$ 示踪法的结果相对误差较大(表3)，这主要是由于该研究主要位于准东地区中部的平原-荒漠区，土壤侵蚀的形式主要为风力侵蚀，而本研究区还包括南部山区，不同于平原-荒漠区，除了风力侵蚀，还包含水力侵蚀区和风水两相侵蚀区，因此，本研究结果与该研究差异较大。在去除本研究南部山区的耕地和草地样点外,耕地和草地的年平均侵蚀速率分别为 $2 4 . 6 6 \mathrm { t \cdot h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ 和 $3 4 . 3 0 \mathrm { t \cdot h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，与该研究结果基本一致，表明基于MCM模型的 $^ { 1 3 7 } \mathrm { C s }$ 示踪法在本研究区能较好的反映耕地和草地的土壤侵蚀状况，具有广泛的应用前景。
+
+利用测钎得到准东地区2014年7月至2015年7月的未利用地(主要包含裸地和沙地)实际平均侵蚀速率约为 $5 0 . 8 4 \mathrm { ~ t } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,显著低于 $^ { 1 3 7 } \mathrm { C s }$ 示踪得到的侵蚀速率 $1 2 4 . 6 1 ~ \mathrm { t \cdot h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,这是因为多年持续风蚀减少了土壤表层的可蚀性颗粒物，不可蚀颗粒物相对增加，从而降低了土壤的风蚀强度，因此多年平均风蚀量大于当年风蚀量,即土壤风蚀的时距效应[29]。此外,在裸地类型的7个样点中，样点A10的平均侵蚀速率为 $6 2 5 . 2 8 ~ \mathrm { t \cdot h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ,而其他6个样点的平均侵蚀速率介于 $- 2 1 . 5 5 { \sim } 5 7 . 1 3 ~ \mathrm { t \cdot h m } ^ { - 2 } { \cdot } \mathrm { a } ^ { - 1 }$ ，远小于A10样点，且其他土地类型样点的平均侵蚀速率在 $- 2 2 . 7 4 \sim 3 8 0 . 1 0 \mathrm { ~ t } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ ，同样明显小于A10样点。因此，A10样点表征了小地形的土壤侵蚀状况，却不能整体反映准东地区裸地类型的土壤侵蚀情况，表明该样点代表性不强。去除该影响后，准东地区未利用地的侵蚀速率为 $7 7 . 8 4 ~ \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ ，同时考虑到时距效应的影响，该结果与测钎数据较为接近，表明本研究方法对裸地和沙地平均侵蚀速率的估算较为合理，能较好的反映两种土地类型的侵蚀状况。
+
+本研究应用了粒度对比法估算的不同土地利用类型的平均土壤侵蚀速率和利用测钎得到未利用地(裸地和沙地)实际平均侵蚀速率,来验证基于MCM模型和 $^ { 1 3 7 } \mathrm { C s }$ 计算的土壤侵蚀速率,进而探讨MCM模型的应用潜力。进行对比分析的依据和结果表明： $\textcircled{1}$ 粒度对比法和测钎数据应用的区域均位于准东地区中部的平原-荒漠区，该区域与本研究区域重叠，因此在同一研究区域计算的不同土地利用类型的平均土壤侵蚀速率具有一定的可比性。
+
+$\textcircled{2}$ 准东地区常年受风力侵蚀影响，理想的背景值样地的寻找与确定较为困难，因而很难获得大量准确的实测背景值对MCM模型进行验证，但利用土壤侵蚀速率对其进行验证，认为是一种有效方法。 $\textcircled{3}$ 有关学者在与本研究区类似区域所得 $^ { 1 3 7 } \mathrm { C s }$ 背景值与本研究由MCM模型模拟的背景值区间较为接近，既表明了该背景值区间具有较强的合理性，也表明了本研究所估算的土壤侵蚀速率具有较高的可信度。因此，本研究通过对比不同研究方法获得的土壤侵蚀速率，表明了基于MCM模型和 $^ { 1 3 7 } \mathrm { C s }$ 计算的土壤侵蚀速率能较好的反映准东地区耕地、草地、裸地和沙地等土地利用类型的土壤侵蚀状况，MCM模型具有较大的应用潜力。
+
+本研究在新疆准东地区应用MCM模型并获得了较理想的结果，但依旧存在一定的不足，需要在后续的试验中加以完善。第一，本研究仅在准东地区应用了MCM模型并取得一定成果，该模型在其他地域的适用性还有待验证。第二，本研究通过不同土地利用类型的年平均侵蚀速率验证模型的可靠性，缺乏直接的本底值数据加以验证，在以后的研究中应予以完善。
+
+# 3结论
+
+（1）研究区中部和北部土壤多属侵蚀状态，而南部土壤基本处于沉积状态。MCM模型估算的$^ { 1 3 7 } \mathrm { C s }$ 背景值含量介于 $9 7 9 . 8 7 { \sim } 1 2 4 9 . 6 0 \ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ，平均值为 $1 1 4 0 . 2 0 \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ 。
+
+(2）位于研究区中部的荒漠-平原区的耕地、草地和未利用地土壤侵蚀模数分别为24.66、$3 4 . 3 0 7 7 . 8 4 \mathrm { t } \cdot \mathrm { h m } ^ { - 2 } \cdot \mathrm { a } ^ { - 1 }$ 和 $7 7 . 8 4 \ : \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ ，能较好的反映土壤侵蚀状况。
+
+(3）不同土地类型的土壤侵蚀模数存在显著差异，沙地 $>$ 裸地 $>$ 草地 $>$ 耕地 $>$ 林地，基于MCM模型估算的 $^ { 1 3 7 } \mathrm { C s }$ 背景值在本研究区测算的土壤侵蚀模数较为合理,研究区的平均侵蚀模数 $7 5 . 8 6 ~ \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ 。
+
+# 参考文献(References):
+
+[1]Li S,Lobb D A, Kachanoski R G,et al. Comparing the use of the traditional and repeated-sampling-approach of the $^ { 1 3 7 } \mathrm { C s }$ technique in soil erosion estimation[J]. Geoderma, 2011,160(4): 324-335.   
+[2] 冯腾,陈洪松,张伟,等.桂西北喀斯特坡地土壤 $^ { 1 3 7 } \mathrm { C s }$ 的剖面分 布特征及其指示意义[J].应用生态学报,2011,22(3):593-599. [Feng Teng,Chen Hongsong,Zhang Wei,et al.137Cs profile distribution character and its implication for soil erosion on Karst slopes of Northwest Guangxi[J]. Chinese Journal of Applied Ecology,2011,22(3): 593-599.]   
+[3]李俊杰,李勇,王仰麟,等.三江源区东西样带土壤侵蚀的 $^ { 1 3 7 } \mathrm { C s }$ 和 $^ { 2 1 0 } \mathrm { { P b } _ { \mathrm { { e x } } } }$ 示踪研究[J].环境科学研究,2009,22(12):1452-1459. [Li Junjie,Li Yong,Wang Yanglin,etal.Study of soil erosion on the east-west transects in the Three-Rivers Headwaters region using $^ { 1 3 7 }$ Cs and $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ tracing[J].Research of Environmental Sciences,2009,22(12): 1452-1459.]   
+[4]方海燕,盛美玲,孙莉英,等. $^ { 1 3 7 } \mathrm { C s }$ 和 $^ { 2 1 0 } \mathrm { { P b } _ { \mathrm { { e x } } } }$ 示踪黑土区坡耕地土 壤侵蚀对有机碳的影响[J].应用生态学报,2013,24(7):1856- 1862. [Fang Haiyan, Sheng Meiling, Sun Liying,et al. Using $^ { 1 3 7 } \mathrm { C s }$ （204号 and $^ { 2 1 0 } \mathrm { P b } _ { \mathrm { e x } }$ to trace the impact of soil erosion on soil organic carbon at a slope farmland in the black soil region[J]. Chinese Jour nal of Applied Ecology,2013,24(7): 1856-1862.]   
+[5]Chappell A,Sanderman J,Thomas M,et al. The dynamics of soil redistribution and the implications for soil organic carbon accounting in agricultural south-eastern Australia[J]. Global Change Biology,2012,18(6): 2081-2088.   
+[6]Evans R, Collins A, Zhang Y,et al.A comparison of conventional and $^ { 1 3 7 }$ Cs-based estimates of soil erosion rates on arable and grassland across lowland England and Wales[J]. Earth-Science Reviews, 2017, 173(4): 49-64.   
+[7]Misael D A,Jose A C, Hector C A, et al. $^ { 2 1 0 } \mathrm { P b }$ and $^ { 1 3 7 }$ Cs as tracers of recent sedimentary processes in two water reservoirs in Cuba[J]. Journal of Environmental Radioactivity,2017,33(6): 290-304.   
+[8]Delmas M,Garcia SL,Onda Y.Factors controling the variability of $^ { 1 3 7 }$ Cs concentrations in 5 coastal rivers around Fukushima Daiichi power plant[J].Journal of Environmental Radioactivity,2019, 21(2): 1-11.   
+[9]Walling D E,He Q.The global distribution of bomb derives $^ { 1 3 7 } \mathrm { C s }$ （204号 reference inventories[C]/Final Report on IAEA Technical Contract 10361/RO-R1. Exeter: University of Exeter Press,2000: 1-11.   
+[10]齐永青,张信宝,贺秀斌,等.中国13Cs本底值区域分布研究 [J].核技术,2006(1): 42-50.[Qi Yongqing,Zhang Xinbao,He Xiubin,et al.137Cs reference inventories distribution patern in China [J]. Nuclear Techniques,2006(1): 42-50.]   
+[11]Hu YF,Liu JY,Batu NC,et al. Determination of $^ { 1 3 7 }$ Cs reference inventories in a large-scale region:A case study in the centraleastern Inner Mongolia Plateau[J]. Journal of Geographical Sciences,2014,24(6): 1047-1059.   
+[12]Aoyama M, Hirose K, Igarashi Y. Re-construction and updating our understanding on the global weapons tests $^ { 1 3 7 }$ Cs fallout[J]. Journal of Environmental Monitoring,2006,8(4): 431-438.   
+[13] 张威,潘少明,张克新,等.中国大陆 $^ { 1 3 7 } \mathrm { C s }$ 背景值研究[J].地理 学 报，2015,70(9):1477-1490.[Zhang Wei,Pan Shaoming, Zhang Kexin,et al. Study of the $^ { 1 3 7 }$ Cs reference inventory in the mainland of China[J].Acta Geographica Sinica,2015,70(9): 1477-1790.]   
+[14] 张婷婷,曹月娥,卢刚,等.准噶尔盆地东部土壤风蚀敏感性分 级及其区划研究[J].干旱地区农业研究,2017,35(5):115-121. [Zhang Tintin, Cao Yue'e,Lu Gang,etal. Study on the sensitivity classification and regionalization of soil wind erosion in the East Junggar Basin [J]. Agricultural Research in the Arid Areas,2017, 35(5): 115-121.]   
+[15] 曹月娥,吴芳芳,张婷婷,等.基于风蚀模型的准东地区土壤风 蚀研究[J].干旱区资源与环境,2018,32(3):94-99.[Cao Yue'e, Wu Fangfang, Zhang Tintin,et al.Research and application of wind erosion model in Zhundong area[J]. Journal of Arid Land Resources and Environment,2018,32(3): 94-99.]   
+[16] 赵来朋,樊梦成,胥鹏海,等.风蚀区 $^ { 1 3 7 } \mathrm { C s }$ 与有机质剖面分布及 其关系——以新疆准东地区为例[J].干旱区研究,2018,35(5): 1097-1104.[Zhao Laipeng,Fan Mengcheng, Xu Penghai, et al. Distribution of $^ { 1 3 7 } \mathrm { C s }$ and soil organic matercontents in wind ero sion zone: A case study in the East Junggar Basin,Xinjiang[J]. Arid Zone Research, 2018,35(5): 1097-1104.]   
+[17] 曹月娥,张婷婷,杨建军,等.准东地区不同土地利用类型土壤 粒度特征分析及风蚀量估算[J].新疆大学学报(自然科学版), 2017,34(2): 140-145.[Cao Yue'e, Zhang Tintin,Yang Jianjun, et al.Grain sizes analysis and estimation on wind erosion amount in different land-use types of Zhundong Area[J]. Journal of Xinji ang University (Natural Science Edition),2017,34(2): 140-145.]   
+[18]孙威.核素 $^ { 2 1 0 } \mathrm { { P b } }$ Be, $^ { 1 3 7 } \mathrm { C s }$ 示踪土壤侵蚀速率建模及数值模拟 研究[D].南京:南京师范大学,2014.[SunWei.Modeling and Numerical Simulation of $^ { 2 \mathrm { 1 0 } } \mathrm { P b }$ ，7Be,13Cs Tracer Soil Erosion Rate [D]. Nanjing: Nanjing NormalUniversity,2014.]   
+[19] 濮励杰,包浩生,彭补拙,等. $^ { 1 3 7 } \mathrm { C s }$ 应用于我国西部风蚀地区土 地退化的初步研究——以新疆库尔勒地区为例[J].土壤学报, 1998,35 (4): 441-449.[Pu Lijie,Bao Haosheng,Peng Buzhuo,et al.A preliminary study on application of $^ { 1 3 7 }$ Cs to land degradation in wind-eroded areas in Western China: A case study of korla region,Xinjiang[J].Acta Pedologica Sinica,1998,35 (4): 441-449.]   
+[20]齐永青,刘纪远,师华定,等.蒙古高原北部典型草原区土壤风 蚀的 $^ { 1 3 7 } \mathrm { C s }$ 示踪法研究[J].科学通报,2008,53(9):1070-1076. [Qi Yongqing, Liu Jiyuan,Shi Huading,et al. Study on soil wind erosion by $^ { 1 3 7 }$ Cs tracer method in typical steppe area of northern Mongolian Plateau[J]. Chinese Science Bulletin,2008,53(9):1070- 1076.]   
+[21]Zhang X B, Higgitt D L, Walling DE.A preliminary assessment of potential for using caesium 137 to estimate rates of soil erosion in the Loess Plateau of China[J].Hydrological Science Journal,1990, 35 (3): 243-252.   
+[22]王健,吴发启,孟秦倩.农业耕作措施蓄水保土效益试验研究 [J].水土保持通报,2004,62(5):39-41.[Wang Jian,Wu Faqi, Meng Qinqian. Benefits of tillage measures for soil and water conservation[J]. Bulletin of Soil and Water Conservation,2004,62(5): 39-41.]   
+[23] 李子君,于兴修.冀北土石山区坡面尺度径流特征及其影响因 素[J].农业工程学报,2012,28(17):109-116.[Li Zijun,Yu Xingxiu.Characteristics of surface runoff and its influencing factors on
+
+slope scale in rocky mountain area of northern Hebei province[J]. Transactions of the Chinese Society of Agricultural Engineering, 2012,28(17): 109-116.]
+
+[24] 张志栋,常春平,郭中领,等.河北坝上农田、退耕地和天然草地 土壤的可风蚀性[J].中国沙漠,2018,38(1):85-91.[Zhang Zhidong, Chang Chunping,Guo Zhongling,et al. Soil wind erodibility of farmland,abandoned farmland and grassland in the Bashang Area of Hebei, China[J]. Journal of Desert Research,2O18,38(1): 85-91.] [25]杨波,王全九,董莉丽.榆林市还林还草后土壤保持功能和经 济价值评价[J].干旱区研究,2017,34(6):1313-1322.[YangBo, Wang Quanjiu,Dong Lili.Assessment of soil conservation function and economic value in Yulin City after implementing the project of“Grain for Green"[J].Arid Zone Research,2O17,34(6): 1313-1322.]
+
+[26]常方乐,康孟珍,王秀娟,等.平行智能风沙防治系统构架与功 能—以植物措施为例[J].干旱区研究,2019,36(6):1576- 1583.[Chang Fangle,Kang Mengzhen,Wang Xiujuan, et al. Framework and function of aeolian sand parallel prevention and control:
+
+Applicationof artificial intelligence technology in sand prevention and control[J].Arid Zone Research,2019,36(6):1576-1583.]   
+[27]毛东雷,蔡富艳,杨雪峰,等.新疆策勒绿洲—沙漠过渡带不 同下垫面风场特征[J].干旱区研究，2019,36(5):1117-1126. [Mao Donglei,Cai Fuyan,Yang Xuefeng,etal.Characteristics of wind filed over different underlying surfaces in the Oasis-Desert Ecotone in Qira, Xinjiang[J].Arid Zone Research,2019,36(5): 1117- 1126.]   
+[28]于宝勒,吴文俊,赵学军,等.内蒙古京津风沙源治理工程土壤 风蚀控制效益研究[J].干旱区研究，2016,33(6):1278-1286. [YuBaole,Wu Wenjun,Zhao Xuejun,et al.Benefits of soil wind erosion control of the Beijing-Tianjin sand source control project in Inner Mongolia[J].Arid Zone Research,2016,33(6): 1278-1286.]   
+[29]张春来,董光荣,董治宝,等.用风洞实验方法计算土壤风蚀量 的时距问题[J].中国沙漠,1996,16(2):200-203.[Zhang Chunlai,Dong Guangrong,Dong Zhibao,et al. Calculation of time distance of soil wind erosion by wind tunnel experiment[J]. Journal of Desert Research,1996,16(2): 200-203.]
+
+# Study on soil erosion in the East Junggar region based on the MCM model and $^ { 1 3 7 } \mathbf { C s }$
+
+LIU Jun-yang1²， WANG Ming-li³， YANG Jian-jun1²， MIAO Cheng-bo $^ { 1 , 2 }$ （20 (1.CollegeofResources and Environment Science,Xinjiang University, Urumqi 83oo46,Xinjiang,China; 2.KeyLaboratory ofOasis Ecology,Ministry of Education, Urumqi 830o46,Xinjiang, China; 3.Geology Party No.216,CNNC,Urumqi 830011,Xinjiang, China)
+
+Abstract: The $^ { 1 3 7 }$ Cs background values of 27 sample points in the East Junggar region of Xinjiang were estimated by the MCM model.Thesoil erosion of sandy land,bareland,cultivated land,forest land,and grassand was calculatedand verified,and the application potential ofthe MCM model inthe study area was discussed.The results showed that the total amount of $^ { 1 3 7 }$ Cs at various points ranged from 130.10 to $2 6 7 1 . 5 4 ~ \mathrm { { B q } \cdot \mathrm { { m } ^ { - 2 } } }$ , with an average value of $1 0 7 6 . 3 1 ~ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ . The soil in the middle and north of the study area was mostly in the state of erosion, where as the soil in the south was mostly in the state of deposition.The content of the $^ { 1 3 7 }$ Cs background value estimated by the MCM model is between $9 7 9 . 8 7 - 1 2 4 9 . 6 0 \ \mathrm { B q } \cdot \mathrm { m } ^ { - 2 }$ ， with an average value of $1 1 4 0 . 2 0 \mathrm { ~ B q } \cdot \mathrm { m } ^ { - 2 }$ ，which isrelatively reasonable.The soil erosion moduli of cultivated land,grassand,and unused land inthe middleof the study area were 24.66, 34.30, and $7 7 . 8 4 ~ \mathrm { t \cdot h m ^ { - 2 } \cdot a ^ { - 1 } }$ ,respectively, indicating that the soil erosion moduli calculated based on the MCM model could beter reflect the soil erosion status of the study area.Soil erosion moduli of diferent land types were significantly different,with sandy land $>$ bare land $>$ grassland $>$ arable land and $>$ woodland. The average annual erosion modulus of in the study area was $7 5 . 8 6 \mathrm { ~ t ~ } \cdot \mathrm { h m ~ ^ { - ~ 2 } ~ } \cdot \mathrm { ~ a ~ } ^ { - \mathrm { ~ 1 ~ } }$ . The results show that the $^ { 1 3 7 }$ Cs background value estimatedonthe basis of the MCMmodel is reasonable inthe soil erosion modulus calculated in this study area and has certain application potential.
+
+Key words: $^ { 1 3 7 }$ Cs; MCM model; soil erosion; East Junggar region; Xinjiang

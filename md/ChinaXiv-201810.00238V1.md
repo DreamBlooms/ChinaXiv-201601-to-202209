@@ -1,0 +1,181 @@
+# 西沙群岛银毛树（Tournefortiaargentea）的生态生物学特性
+
+蔡洪月1,2，刘楠1，温美红1,2，任海1，简曙光1\*(1．中国科学院华南植物园，广东省应用植物学重点实验室，广州510650;2．中国科学院大学，北京 100049)
+
+摘要：银毛树（Tournefortia argentea）为紫草科紫丹属常绿小乔木或灌木，是东半球热带海岸和海岛常见的先锋植物，具有重要的生态、观赏和食用价值。为掌握银毛树对热带珊瑚岛环境的生态适应机理及其保护和开发利用提供基础资料，本研究以西沙群岛东岛自然生长的银毛树为对象，对其形态解剖结构、生理学特征、叶片营养元素和根际土壤的理化性质等进行分析，研究结果表明：银毛树具有叶表面气孔密度低、比叶面积小、海绵组织发达、枝条的空腔比高等特点，具有较好的储水抗旱能力；其叶片表面有厚密白色绢毛覆盖，可以反射强光、降低水分散失，利于其适应强光和干旱环境。银毛树叶片的脯氨酸含量较高，能够很好的抵抗渗透胁迫，为细胞提供良好的生存环境。银毛树生长的土壤呈强碱性，养分和水分含量较低，但其叶片营养元素含量正常，表明其对土壤养分的利用率高，能够很好的适应瘠薄的土壤环境。银毛树木质部密度低，枝干脆弱易折，可防止被大台风连根拔起，同时枝干含水丰富，利于其抵抗台风及树冠的快速恢复。因此，银毛树能较好适应干旱、强光和瘠薄的滨海沙滩环境，在热带珊瑚岛（礁）或滨海地区防风固沙及植被恢复方面有较好的应用前景。
+
+关键字：银毛树，生物生态学特性，抗逆性，开发利用中图分类号：Q948 文献标识码：A
+
+# The ecological and biological characteristics of Tournefortia argentea in Xisha Islands
+
+CAI Hongyue1,2,LIU Nan1, WEN Meihong1,2,REN Hai', JIAN Shuguang\*1 (1.Guangdong Provincial KeyLaboratory ofApplied Botany,South China Botanical Garden,ChineseAcademy ofSciences,Guangdong, Guangzhou 510650; 2.University of Chinese Academy of Sciences,Beijing 100049)
+
+Abstract: Tournefortia argentea is an evergreen plant of Boraginaceae with important ecological,ornamental and edible values.It is a pioneer species atthe tropical coastal and islandof the Eastern Hemisphere.To provide basic data for protection and utilization of $T .$ argentea,and to understand the ecological adaptation mechanism on tropical coral islands, we selected individuals ofT. argentea naturally growing on Dongdao Island of Xisha Islands to examine their morphological and physiological characteristics,nutrient composition,and the physical and chemical properties of their rhizosphere soil.The results showed that $T .$ argentea was a heliophyte,characterized with low stomatal density,small specific leaf area, welldeveloped spongy tisse,large Alum/Axle and thick white hair on leaf surface,which help T.argentea to keep moisture and obtain water effectively.The content of proline in leaves of T.argentea was high,but thecontentof malondialdehyde was low,indicating that T.argentea had good drought resistance.The content of nutrient elementswere high in plant leaves but low for rhizosphere soil, suggesting that $T .$ argentea was able to use nutrient elements of rhizosphere soil effectively and had strong tolerance to baren soil.The branches were fragile and easy to break,which helps T. argentea in preventing from being uprooted by typhoons.Moreover,the branches were water-storing tissues so after typhoon the crown could be recovered quickly. In a word,T. argentea can adapt to various environmental stresses,such as strong light,gale, drought and barren soil.Therefore,T. argentea can be used as an important plant species of vegetation restoration in tropical coral islands.
+
+Key words: Tournefortia argentea，ecological and biological characteristics， stres resistance， exploitation
+
+银毛树（Tournefortia argentea）为紫草科（Boraginaceae）紫丹属（Tournefortia）小乔木或灌木，是东半球热带海岛和海岸带常见的先锋植物（广东省植物研究所西沙群岛植物调查队，1977)，在我国仅分布于海南和台湾（主要在西沙群岛和南沙群岛)。银毛树高1-5米，小枝粗壮，密生锈色或白色柔毛（图1B)；肉质叶倒披针形或倒卵形，上下两面密生丝状黄白色毛（图1B)；镰状聚伞花序顶生，呈伞房状排列，花冠白色，筒状，长2.5-3毫米（图1C)；核果近球形，直径约5毫米，无毛（图1D)，由不透水的外壳所包围，使其适于海水漂流传播；花果期4-6月（中国科学院中国植物志编委会，1996)。银毛树的叶子集中于枝端成莲座状，带有银白色细毛的叶子在阳光下闪闪发光，甚为美观（图1A)。
+
+![](images/e91486afd473cd476acec32c9c9807f7281f67043a9f96234ebdfca23b209c5e.jpg)  
+图1银毛树的群落（A）、小枝（B）、花（C）和果实（D)  
+Fig.1Community (A), branches (B), flowers (C) and fruits (D) of Tournefortia ar.
+
+银毛树的叶子可以作为食物和香料，味道似西芹（Manner＆Elevitch，2006)，同时也是一种重要的猪饲料。其木材可以用来建造房屋和小渔船，小枝用作柴薪。在斐济，银毛树根的提取物用来治疗风湿病，叶片煮水的蒸汽浴用来治疗女性产后虚弱。在瑙鲁，当地人会把树干和根的分生组织捣碎，用以治疗儿童皮疹、腹泻和吃变质鱼类导致的中毒（Manner &Elevitch，2006)。银毛树能很好的适应强光、大风和盐雾，一旦成活基本不需要管理，也几乎不受病虫害的侵袭。银毛树在西沙群岛很多岛屿上都有分布，其中在东岛东南面近海边和植被发育较差的石岛，银毛树是唯一占优势的灌木种类。银毛树的腐干或枯枝上可产8种大型真菌（李丽嘉，1988)。因此，银毛树具有重要的生态功能和应用价值。
+
+目前，国内外对银毛树的研究主要集中在形态学(中国科学院中国植物志编委会，1996)、群落结构（广东省植物研究所西沙群岛植物调查队，1977）、植物化学成分分析（Ogihara etal，1997；Ogihara etal，2002）、病害（Chen etal，2007）和菌根研究（蓝星宇，2012）等方面，而对西沙群岛原生环境下银毛树的生态生物学特性研究尚未见报道。全球气候变化和人类活动频繁增加，对西沙群岛的生态环境产生了重要影响（刘晓瞳，2007)。银毛树的生境日趋斑块化和破碎化，死亡率上升，急需保护。本文研究了西沙群岛东岛野生银毛树的形态解剖结构、生理学特征、叶片营养元素和根际土壤的理化性质等，以期为银毛树对珊瑚岛环境的生态适应机理研究及其保护和开发利用提供基础资料。
+
+# 1材料与方法
+
+# 1.1研究地概况
+
+西沙群岛是分布于我国南海北部的一群热带珊瑚岛，由东北部的宣德群岛和西南部的永乐群岛组成，约 $1 1 1 ^ { \circ } 1 1 ^ { \prime } { \cdot } 1 1 2 ^ { \circ } 5 4 ^ { \prime } \mathrm { E }$ ， $1 5 ^ { \circ } 4 6 ^ { \prime }  – 1 7 ^ { \circ } 0 8 ^ { \prime } \mathrm { N }$ 。东岛位于宣德群岛的东部，呈"西北-东南"走向的长椭圆形，是西沙群岛中面积第二大的岛屿，陆地面积 $1 . 5 5 \mathrm { k m } ^ { 2 }$ ，高程约 $3 { - } 6 \mathrm { m }$ 年平均气温 $2 6 { \sim } 2 7 \ \mathrm { ~ \textdegree ~ }$ ，为热带海洋性季风气候。东岛年均降雨量 $1 5 0 0 \mathrm { m m }$ ，但降水的季节分布不均，有明显的干湿季，6-11月为雨季，降雨量为全年的 $87 \%$ ，12月至翌年5月为干季，降雨量仅为全年的 $13 \%$ （刘晓瞳等，2017)。西沙群岛通常风大且蒸发强烈，年蒸发量将近 $2 4 0 0 \mathrm { m m }$ ，超过年降雨量近2倍，2月和3月份的蒸发量尤其大，大于降雨量10倍（广东省植物研究所西沙群岛植物调查队，1977)。在这种降雨量少、蒸发量大、沙质土壤中水分难以保持的环境下，岛上植物的正常生长需要对季节性干旱具有强大的适应能力。
+
+东岛自然植被丰富茂密，野生植物种类多达76种（童毅等，2013)。被誉为拥有西沙的最后一片原始森林，边缘的沙堤上分布着草海桐（Scaevola sericea）、银毛树、海岸桐（Guettrda speciosa）、海滨木巴戟（Morinda citrifolia）等灌木或小乔木，中部平坦的盆地内分布着大片的抗风桐（Pisonia grandis）乔木林，占了约东岛面积的一半。
+
+# 1.2 研究方法
+
+于2016年7月，在东岛选取6株健康的野生银毛树植株，采集其根部土壤及枝条近顶端长势良好的成熟叶片和枝条，装入放有湿滤纸的封口袋中，于 $4 ^ { \circ } \mathrm { C }$ 冰箱中保存。
+
+1.2.1形态解剖学特征测定比叶面积测定采用LI3000 叶面积仪测量叶面积（LA），然后置于 $6 5 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘箱中烘干至恒重后称其干重（DW)。计算方法如下: $\mathrm { S L A } = \mathrm { L A } / \mathrm { D W }$ (Goweretal.，1999)。叶干物质含量（LDMC） $\mathbf { \Sigma } = \mathbf { \Sigma }$ 叶干重／叶鲜重。
+
+叶片结构采用常规徒手切片法，在光学显微镜下观察并测量叶片厚度、海绵和栅栏组织的厚度、上表皮厚度、气孔保卫细胞的大小和气孔密度。根据气孔密度和气孔长度计算气孔面积指数（SPI)，气孔面积指数 $\vdots =$ 气孔密度 $\times$ 气孔长²。
+
+利用LeicaRM2235切片机获取枝条横切面上 $2 0 ~ \mu \mathrm { m }$ 厚的完整薄片，放在LeicaDM4000B显微镜获取导管直径照片，然后采用ImageJ软件分析出导管直径和导管密度，木质部密度 $\ c =$ 干质量/鲜体积，5个枝条的木质部密度平均值即为银毛树的平均木质部密度（李荣等，2016）。
+
+枝条潜在最大导水率的测定：采用冲洗法，取 $2 0 \mathrm { c m }$ 枝条放入装满水的烧杯中，并套上黑色塑料袋，待枝条水分充分饱和后，即用 $5 0 \mathrm { c m }$ 高的龙头冲洗后测定最大导水率，其稳定的最大导水率能够在一定程度上反映枝条木质部潜在导水率（Ren etal,1997)。枝条最大导水率公式： $\mathrm { K } _ { \mathrm { m a x } } { = } \mathrm { W } / \mathrm { A } \Delta \mathrm { t }$ 。其中 $\mathrm { K } _ { \mathrm { m a x } }$ 为反复冲洗后枝条最大导水率 $( \mathbf { g } { \cdot } \mathbf { c m } ^ { - 2 } { \cdot } \mathbf { s } ^ { - 1 } { \cdot } \mathbf { M } \mathbf { P } \mathbf { a } ^ { - 1 } )$ ；W为枝条在一定时段内的导水量 $\mathbf { \tau } ( \mathbf { g } )$ ， $\mathrm { ~  ~ { ~ t ~ } ~ }$ 为导水历时（s)，A为枝条横截面积（ $\mathrm { c m } ^ { 2 }$ )，测定5个重复。
+
+枝条空腔比Alum/Axle $( \% ) =$ 导管面积\*导管数量/枝条横截面面积，脆性指数（ $\mathbf { \nabla } \cdot \mathbf { V } \mathbf { I } ) =$ 导管直径/导管密度（张超男，2014)，测定5个重复。
+
+# 1.2.2 生理特征测定
+
+1.2.2.1叶绿素含量以 $80 \%$ 的丙酮浸提叶片样品，用紫外分光光度计（UV-3802，Unico）分别于 $6 6 3 ~ \mathrm { { n m } }$ 和 $6 4 5 ~ \mathrm { { n m } }$ 处测定吸光度，计算叶片的叶绿素a、叶绿素b、总叶绿素含量及叶绿素a/b的比值（林植芳等，1984）测定3个重复。
+
+1.2.2.2 可溶性蛋白和脱落酸（ABA）的测定可溶性蛋白采用考马斯亮蓝法，叶片提取液 $0 . 1 ~ \mathrm { m L }$ 加考马斯亮蓝试剂 $2 . 5 ~ \mathrm { m L }$ 混合后用紫外分光光度计(UV-3802，Unico)比色，波长 $5 9 5 \mathrm { n m }$ ，以试剂空白调零，读取吸光度（关岚岚等，2008)；ABA采用高效液相色谱法测定（孙崇臻等，2013)，各测定3个重复。
+
+1.2.2.3脯氨酸和丙二醛含量的测定脯氨酸（Pro）含量采用磺基水杨酸提取、酸性節三酮染色法测，在 $5 2 0 \mathrm { n m }$ 处读取吸光值；丙二醛（MDA）含量采用硫代巴比妥酸法测定，读取 $5 3 2 \mathrm { m }$ 和 $6 0 0 \mathrm { n m }$ 处的吸光值并计算差值（孙群等，2006)，各测定3个重复。
+
+1.2.2.4 抗氧化酶活性和植物总酚的测定以下测定均为3个重复。植物总抗氧化能力（T-AOC）采用铁离子还原抗氧化能力分析法（FRAP）测定（蔡庆生，2013）。在酸性条件下， $\mathrm { F e } ^ { 3 + _ { - } }$ 三吡啶三吖嗪（TPTZ）被还原为 $\mathrm { F e } ^ { 2 + } .$ ：TPTZ，呈蓝色，在 ${ 5 9 3 } \mathrm { n m }$ 处有最大吸收值。超氧化物歧化酶（SOD）活性采用氮蓝四唑法测定，以在反应体系中抑制百分率为$50 \%$ 时为一个酶活性单位 $\mathbf { \mu } \left( \mathbf { U } / \mathbf { \sigma } \mathbf { g } \right.$ 鲜重）（邹琦，2000)。过氧化氢酶（CAT）活性采用紫外吸收法测定，以每克组织 $1 \mathrm { m i n }$ 内催化1nmol过氧化氢降解为一个酶活性单位（ $\mathbf { U } { \cdot } \mathbf { g } ^ { - 1 }$ 鲜重）（邹琦，2000）。
+
+总酚含量采用福林酚比色法测定（Lamuela-Raventós etal，1999)，在碱性条件下，酚类物质将钨钼酸还原，产生蓝色化合物，在 $7 6 0 \mathrm { n m }$ 峰值吸收最大。
+
+1.2.3 叶片元素及同位素测定在野外采取新鲜叶片，带回实验室用烘箱 $6 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 烘干。叶片全氮含量（TN）采用凯氏定氮法测定；叶片全磷含量（P）采用钼锑抗比色法测定；叶片总有机碳含量（TOC）采用重铬酸钾氧化-硫酸氧化法测定。 $\delta ^ { 1 3 } \mathrm { C }$ 的测定采用同位素质谱仪（IsoPrimel00，Iso-Prime，Manchester，UK）进行元素分析，碳同位素比值采用千分比单位 $( \text{‰}$ ，用8表示，根据国际标准公式计算： $\begin{array} { r l } { \delta \mathit { \Psi } ( \% ) } & { { } = [ \mathit { \Psi } ( R _ { \mathrm { s a m } } / R _ { \mathrm { s t d } } ) \mathit { \Psi } - 1 ] \times 1 0 0 0 } \end{array}$ ， $R _ { \mathrm { s a m } }$ 表示样品的相对丰度， $R _ { \mathrm { s t d } }$ 表示国际标准物的相对丰度。碳同位素国际标准物为PeeDeeBelemnite（PDB），即美国南卡罗来纳州白垩系皮狄组地层中的美洲拟箭石（ $R _ { \mathrm { P D B } } =$ 0.0112372， $\delta ^ { 1 3 } \mathrm { C } _ { \mathrm { P D B } } = 0 \%$ ）（熊鑫等，2016）。
+
+1.2.4土壤理化性质测定清除银毛树植株根际地表凋落物，取6个 $0 { \sim } 2 0 ~ \mathrm { c m }$ 的表层土，放入密封袋低温保存，带回实验室风干，过 $2 \mathrm { m m }$ 筛。土壤理化性质的测定指标，参照土壤理化分析标准（刘光崧，1996）进行。
+
+# 1.3数据处理
+
+数据整理分析及作图采用 Microsoft office Excel 2010 和 Adobe Photoshop CC 2015 进行。
+
+# 2结果与分析
+
+# 2.1 形态解剖学特征
+
+在野外调查中发现，银毛树具有肉质的叶片，上下表面被一层厚密的白色绢毛，起着防止失水的作用。光学显微镜下观察结果显示：银毛树的叶片为等面叶，表皮细胞为单层，排列紧密，未见明显角质层，上下表皮内均为长柱状细胞紧密排列组成的栅栏层组织，叶片中间部位为多层疏松排列的细胞组成的海绵组织，上下表皮均有半透明绢毛，上表皮更为密集（图2A)。形态解剖学特征如表1所示，比叶面积、叶片厚度和上下表皮气孔密度分别为$8 4 . 8 8 \mathrm { c m } ^ { 2 } { \cdot } \mathrm { g } ^ { - 1 }$ 、 ${ 5 3 4 . 4 7 \ \mu \mathrm { m } }$ 、 $8 6 . 6 7 \ \mathrm { n } { \cdot } \mathrm { m m } ^ { - 2 }$ 、 $1 2 0 \mathrm { n m m } ^ { - 2 }$ ，叶片厚，下表皮气孔密度更高。栅栏组织/海绵组织的比值为0.16，海绵组织远比栅栏组织发达。茎干木质部富含贮水薄壁细胞和导管（图2：B）。
+
+![](images/31326ca8a37cd03bcf11e6766dcb357b4d34a08f5412c4a028e94116ec0dd687.jpg)  
+图2银毛树叶片和木质部结构图
+
+注：(A).U-ep．上表皮；Pal．栅栏组织；Sp.海绵组织；L-ep．下表皮。(B).a.贮水薄壁组织；b.导管。
+
+Fig. 2Leaf and wood anatomical structure of Tournefortia argentea Note: (A). U-ep. Upper epidermis; Pal. Palisade tissue; Sp. Spongy tissue; L-ep. Lower epidermis. (B).a.Parenchyma；b.Vessel.
+
+表1银毛树的形态解剖学特征 Table1Morphological characteristics of Tournefortia argentea   
+
+<html><body><table><tr><td>指标 Index</td><td>数值Value</td></tr><tr><td>比叶面积 Specific leaf area(cm² g-1)</td><td>84.88±9.85</td></tr><tr><td>单叶面积 Leaf area per plant (cm²）</td><td>120±24.36</td></tr><tr><td>上表皮厚 Thickness of uper epidermis(μm)</td><td>15.14±2.47</td></tr><tr><td>上表皮气孔密度 Stomatal density of upper epidermis(n·mm-2)</td><td>86.67±9.30</td></tr><tr><td>下表皮气孔密度 Stomatal density of lower epidermis(n·mm-2)</td><td>120±18.26</td></tr><tr><td>上表皮气孔面积指数 Stomatal pore area index of upper epidermis</td><td>0.086±0.016</td></tr><tr><td>下表皮气孔面积指数 Stomatal pore area index of lower epidermis</td><td>0.108±0.027</td></tr><tr><td>叶厚度 Blade thickness(μm)</td><td>534.47±134.96</td></tr><tr><td>栅栏组织厚 Thickness of palisade tissue(μm)</td><td>34.22±8.29</td></tr><tr><td>海绵组织厚 Thickness of spongy tissue( μm)</td><td>199.97±14.12</td></tr><tr><td>栅栏组织/海绵组织Palisade tissue/ spongy tissue</td><td>0.16±0.03</td></tr><tr><td>叶片密度Leaf density(g'cm-)</td><td>0.12±0.01</td></tr><tr><td>木质部密度Wood density(g'cm-)</td><td>0.57±0.03</td></tr><tr><td>导管密度 Vessel density (n·mm-²)</td><td>47.25±9.08</td></tr><tr><td>导管直径 Vessel diameter(μm)</td><td>60.49±6.18</td></tr><tr><td>枝条潜在导水率Potential hydraulic conductivity(kg:m-1 MPa1 s-1)</td><td>16.86±7.67</td></tr></table></body></html>
+
+<html><body><table><tr><td>导管脆性指数Vulnerability indices</td><td>1303.52±169.07</td></tr><tr><td>枝条空腔比Alum/Axle(%)</td><td>13.96±4.57</td></tr></table></body></html>
+
+# 2.2 生理学特征
+
+银毛树叶片的叶绿素a和叶绿素b含量分别为 $0 . 2 1 \ \mathrm { m g ^ { \cdot } g ^ { \mathrm { ~ \bar { ~ } t ~ } } }$ 和 $0 . 1 4 \mathrm { m g } { \cdot } \mathrm { g } ^ { \mathrm { ~ \scriptsize ~ 1 ~ } }$ ，叶绿素 $\mathrm { { \bf { a } } } /$ b比值为1.55(表2)。可溶性蛋白含量较高，为 $4 3 . 6 4 \mathrm { m g ^ { . } g ^ { - 1 } }$ ，脱落酸水平较低，为 $2 . 8 0 \mu \mathrm { g } { \cdot } \mathrm { g } ^ { - 1 }$ 。
+
+本研究中测定的银毛树样品中抗氧化酶活性的结果如表2所示，其过氧化氢酶和超氧化物歧化酶活性较高，分别为 $2 1 . 0 5 \mathrm { U } { \cdot } \mathrm { g } ^ { - 1 }$ 和 $1 3 3 . 7 8 \mathrm { U } { \cdot } \mathrm { g } ^ { - 1 }$ （表2)。叶片丙二醛和总酚含量较低仅为 $1 2 . 2 7 \mathrm { n m o l { \cdot } g ^ { - 1 } }$ 和 $8 . 7 6 \mathrm { m g } { \cdot } \mathrm { g } ^ { \mathrm { ~ \scriptsize ~ 1 ~ } }$ ，但脯氨酸含量高达 $1 1 6 7 . 0 9 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ 。
+
+Table 2Ecophysiological characteristics of Tournefortia argentea   
+
+<html><body><table><tr><td>指标Index</td><td>数值Value</td></tr><tr><td>叶绿素 a Chlorophyll-a content (mg:g 1)</td><td>0.21±0.008</td></tr><tr><td>叶绿素 b Chlorophyll-b content (mg:g 1)</td><td>0.14±0.014</td></tr><tr><td>叶绿素 a/b Chlorophayll-a/ Chlorophyll-b</td><td>1.55±0.10</td></tr><tr><td>可溶性蛋白含量 Soluble protein content (mg'g-1)</td><td>43.64±1.63</td></tr><tr><td>脱落酸含量 Abscisic acid (ABA) content (μg:g-)</td><td>2.80±0.003</td></tr><tr><td>脯氨酸含量 Proline (PRO) content (μg·g-1)</td><td>1167.09±22.70</td></tr><tr><td>丙二醛含量 Malondialdehyde (MDA) content (nmol·g-1)</td><td>12.27±0.29</td></tr><tr><td>植物总酚含量 Total phenolics(Tp)(mg'g-1)</td><td>8.76±0.44</td></tr><tr><td>总抗氧化能力 Total antioxidant capacity (T- AOC)(U·g-1)</td><td>60.75±1.54</td></tr><tr><td>超氧化物歧化酶活性 Superoxide dismutase (SOD)activity (U·g-1)</td><td>133.78±6.03</td></tr><tr><td>过氧化氢酶活性 Catalase (CAT)activity (U·g-1)</td><td>21.05±1.35</td></tr></table></body></html>
+
+# 2.3叶片营养物质及土壤理化性质
+
+银毛树叶片营养元素含量如表3所示，总有机碳含量最高，为 $4 0 0 . 7 3 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，总磷含量最低，仅为 $2 . 9 9 \ \mathrm { g \cdot k g ^ { - 1 } }$ ，氮磷比为5.89，稳定碳同位素比率为 $2 5 . 7 0 \text{‰}$ 。对银毛树根际土壤的理化性质的分析结果如表4所示，土壤含水量仅为 $3 . 4 \%$ ， $\mathfrak { p H }$ 值为8.26，呈碱性，土壤中富含钙（ $\mathrm { 7 4 . 2 8 \ g ^ { \cdot } k g ^ { - 1 } } .$ 、镁（ $\mathsf { \Omega } _ { \mathsf { S } . 6 0 \ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 } } ^ { } .$ ）、钾（ $2 7 5 . 0 5 \mathrm { m g \cdot k g ^ { - 1 } }$ 、铁（ $7 5 3 . 5 5 \mathrm { m g } \mathrm { \cdot k g } ^ { - 1 }$ )，但全磷含量只有 $2 . 3 5 \mathrm { m g \cdot k g ^ { - 1 } }$ 。
+
+表2银毛树的生理生态学特征  
+表3银毛树叶片营养元素含量及碳同位素比率 Table3 Nutrient content in leaf of Tournefortia argentea   
+
+<html><body><table><tr><td>指标Index</td></tr><tr><td>叶片总有机碳含量(TOC)Leaf total organic carbon content (g·kg-1)</td><td>400.73</td></tr></table></body></html>
+
+表4银毛树根部土壤理化性质  
+
+<html><body><table><tr><td>叶片总氮含量(TN) Leaf total nitrogen content (g·kg-1)</td><td>17.603</td></tr><tr><td>叶片总磷含量(TPH) Leaf total phosphorus content (g·kg-1)</td><td>2.99</td></tr><tr><td>叶片氮磷比Leaf N/P ratio</td><td>5.89</td></tr><tr><td>稳定碳同位素比率813CPDB(%o)</td><td>-25.70</td></tr></table></body></html>
+
+Table 4 Physical and chemical properties of soil   
+
+<html><body><table><tr><td>指标Index</td><td>数值Value</td></tr><tr><td>含水量Water content (%)</td><td>3.4±1.5</td></tr><tr><td>有机碳 Oganic carbon (%)</td><td>5.182±3.08</td></tr><tr><td>pH 值Value of pH</td><td>8.26±0.06</td></tr><tr><td>全氮Total nitrogen (%)</td><td>0.13±0.02</td></tr><tr><td>全磷Total phosphorus (mg·kg-1)</td><td>2.35±1.63</td></tr><tr><td>钙 Calcium (g:kg-1)</td><td>74.38±26.46</td></tr><tr><td>镁 Magnesium (g·kg-1)</td><td>5.60±2.63</td></tr><tr><td>钾 Potassium (mg·kg-1)</td><td>275.05±149.52</td></tr><tr><td>钠 Sodium (mg:kg-1)</td><td>264.09±134.63</td></tr><tr><td>锰Manganese (mg·kg-1)</td><td>116.31±29.67</td></tr><tr><td>铁 Iron (mg·kg-1)</td><td>753.55±121.85</td></tr><tr><td>锌 Zinc (mg·kg-1)</td><td>62.77±25.92</td></tr></table></body></html>
+
+# 3 讨论
+
+3.1银毛树对干旱环境的适应性
+
+植物在对环境长期的自我调节和进化过程中，形成特定的形态结构来适应外界环境的变化。气孔是叶片进行气体交换和水分蒸腾的最重要通道，控制叶片的光合作用和蒸腾能力，不同植物种间的气孔密度分布范围为 $5 \mathrm { \sim } 1 ~ 0 0 0 ~ \mathrm { n } { \cdot } \mathrm { m m } ^ { - 2 }$ 之间，过度干旱会使植物气孔密度下降(朱燕华，2013)，银毛树的上表皮气孔密度为 $8 6 . 6 7 \ \mathrm { n } { \cdot } \mathrm { m m } ^ { - 2 }$ ，下表皮气孔密度为 $1 2 0 \mathrm { n } { \cdot } \mathrm { m m } ^ { - 2 }$ 处在较低水平，表明银毛树通过降低气孔密度，减弱蒸腾作用来适应西沙群岛的缺水生境。同时，银毛树上下表面均被有厚密的白色绢毛，不仅可以有效反射强光，还可以减弱叶表面的空气流动，防止失水和降低蒸腾作用。
+
+比叶面积是植物叶片面积与叶片干重的比值，可表征植物与环境互作的功能性状指标，在资源和营养状况良好的环境中比叶面积较大，而在贫瘠或恶劣的环境中比叶面积一般较小（Shipley& $\mathrm { v } _ { \mathrm { u } }$ ，2002)，我国西沙群岛常见的优势种抗风桐和橙花破布木的比叶面积为$1 6 6 . 8 4 \mathrm { c m } ^ { 2 } \cdot \mathbf { g } ^ { - 1 }$ （王馨慧等，2017）和 $2 0 5 . 0 6 \mathrm { c m } ^ { 2 } { \cdot } \mathrm { g } ^ { - 1 }$ （吴淑华等，2017)，而银毛树的比叶面积为 $8 4 . 8 8 ~ \mathrm { c m } ^ { 2 } \cdot \mathrm { g } ^ { - 1 }$ ，比叶面积小，说明银毛树的叶片相对较厚，可以储存较多的水分，以适应西沙群岛旱季的缺水环境。
+
+银毛树叶片栅栏组织/海绵组织为0.16,较小的栅栏组织/海绵组织可以减弱对光的吸收，减少过剩光能对组织的破坏。发达的海绵组织和较小的气孔密度，意味着叶片可以在较小的蒸腾作用下保持叶片内部较高的气体交换效率，抵御干旱胁迫。与一般耐旱树种(李荣，2016)相比，银毛树木质部密度更小（ $0 . 5 7 \mathrm { g } \cdot \mathrm { c m } ^ { 3 } ,$ ，导管直径更大（ $6 0 . 4 9 ~ \mu \mathrm { m } )$ ，枝条潜在导水率为 $1 6 . 8 6 \mathrm { k g } \mathrm { m ^ { - 1 } { \cdot } M P a ^ { - 1 } { \cdot } s ^ { - 1 } }$ ，说明银毛树具有较好的水分传导能力，以适应西沙群岛较强的蒸发水平。与西沙群岛优势树种橙花破布木（吴淑华等，2017）相比，银毛树不仅木质部密度较小（ $( 0 . 5 7 \mathrm { g } \cdot \mathrm { c m } ^ { 3 } )$ ，枝条的空腔比较高（ $1 3 . 9 6 \%$ )，而且树干里的贮水薄壁细胞非常发达，具有显著的髓部，使其在旱季少量的降雨下也能迅速吸收并储存水分，适应西沙群岛的季节性干旱胁迫。
+
+碳是植物体内最重要的生命元素，叶片稳定碳同位素比率（ $\cdot \delta ^ { 1 3 } \mathrm { C }$ ）与植物光合和蒸腾等生理过程有着密切关系，可估测植物的水分利用效率，植物叶片的 $\delta ^ { 1 3 } \mathrm { C }$ 值与其水分利用效率呈一定程度的正相关， $\delta ^ { 1 3 } \mathrm { C }$ 值越大，植物水分利用效率越高（Knightetal，1994)。银毛树的 $\delta ^ { 1 3 } \mathrm { C }$ 值为 $2 5 . 7 0 \text{‰}$ ，陈拓等2002年对荒漠植物叶片碳同位素组成研究中发现，阜康市荒漠灌木植物的 $\delta ^ { 1 3 } \mathrm { C }$ 值变化范围为 $2 7 . 0 1 \mathrm { ‰ }$ ，银毛树的 $\delta ^ { 1 3 } \mathrm { C }$ 值大于荒漠灌木植物的平均值，证明银毛树有较高的水分利用效率和抗旱能力。
+
+# 3.2银毛树对逆境和氧化胁迫的适应性
+
+热带珊瑚岛（礁）的生态环境较为恶劣（干旱、高温、强光、高盐、强碱，缺乏真正土壤)，较少植物能生长定居。植物在逆境胁迫下会引起一系列代谢功能的变化，这些可以作为植物抗逆境的重要指标。脯氨酸（PRO）可作为渗透剂参与植物的渗透调节作用，当植物受到缺水等胁迫时，PRO大量合成和积累增加了植物对渗透胁迫的耐性，具有渗透保护剂的功能，从而使细胞结构得到保护（汤章城，1984)，本研究测得银毛树叶片中游离PRO含量为 $1 1 6 7 . 0 9 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ ，远高于同为热带珊瑚岛优势种的橙花破布木 $2 0 0 . 7 8 \mu \mathrm { g } \cdot \mathrm { g } ^ { - 1 }$ （吴淑华等，2017）和抗风桐 $1 5 8 . 6 1 ~ { \mu \mathrm { g } } \cdot \mathbf { g } ^ { - 1 }$ （王馨慧等，2017)，证明其在干旱胁迫下，脯氨酸大量合成，以适应强光和大风导致的高温干旱及季节性盐雾风导致的高浓度盐的渗透胁迫。
+
+植物体内存在着一套负责清除活性氧产生的抗氧化系统，抗氧化物质可以抑制逆境下脂质过氧化的引发阶段，从而将自由基产生的过氧化物转化为无害物质（尹永强等，2007)，银毛树的总抗氧化能力（T-AOC）为 $6 0 . 7 5 \mathrm { U } { \cdot } \mathrm { g } ^ { - 1 }$ ，与不同肉色马铃薯相比，其总抗氧化能力处于较高水平（王颖等，2017)。银毛树的叶绿素a和叶绿素b的含量变化范围分别为0.21$\mathrm { m g \cdot g ^ { - 1 } }$ 和 $0 . 1 4 \mathrm { m g ^ { . } g ^ { - 1 } }$ ，与抗风桐（王馨慧等，2017）和橙花破布木（吴淑华等，2017）相比，银毛树有较低的叶绿素含量，可以通过减少光能的吸收而控制因过剩光能进入光合系统产生过多的活性氧，从而减少对细胞亚结构的氧化伤害，说明银毛树对强光逆境有较强的适应能力。
+
+丙二醛（MDA）是脂质过氧化作用的主要产物之一，其含量在一定程度上反映细胞脂膜过氧化作用水平和膜结构的受害程度，在干旱逆境下，植物体内活性氧产生超出系统清除能力导致其大量积累，加剧膜脂过氧化作用，从而导致MDA水平较高（裴斌等，2013)，但在本研究中，MDA的含量处于较低水平，其原因很可能是叶片中发达的贮水结构和较高的脯氨酸水平等提高了银毛树对逆境的抵抗能力，保护了细胞的膜脂结构免受氧化胁迫的伤害。
+
+# 3.3银毛树对贫瘠土壤和海风的适应性
+
+近海沙滩常风很大，空旷的白色沙滩直射光和反射光都很强，还常受到带盐分的浪花的飞溅。由表4数据可知，银毛树所在的近海沙滩生境中，土壤缺磷少氮，氮含量仅为 $0 . 1 3 \%$ 全磷含量仅为 $2 . 3 5 \mathrm { m g \cdot k g ^ { - 1 } }$ ，同时，珊瑚沙中较高的游离碳酸钙含量对磷的有效性也有较大影响，随着钙与磷的比例增加，磷溶解度和有效性逐渐降低，使本来养分含量就低的土壤更加贫瘠，且土壤含水量较低，平均值仅为 $3 . 4 \%$ ，土壤非常瘠薄。与此同时，土壤 $\mathfrak { p H }$ 值较高，为8.26，土壤中过高的 $\mathsf { p H }$ 值会改变土壤营养元素的供给和生物可利用性。在不利的环境条件下，植物叶片的碳含量不仅反映植物的碳同化能力，也反映了植物适应恶劣环境条件的能力（Vile etal.，2006)。银毛树叶片的总有机碳含量（TOC）为 $4 0 0 . 7 3 ~ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，总氮含量（TN）为 $1 7 . 6 0 3 ~ \mathrm { g } \cdot \mathrm { k g } ^ { - 1 }$ ，总磷含量（TPH）为 $2 . 9 9 \ \mathrm { g } { \cdot } \mathrm { k g } ^ { - 1 }$ ，均处在植物养分常规含量范围内（任书杰，2012），说明其生长状况良好，反映了银毛树较强的营养元素吸收利用能力，以适应近海沙滩的瘠薄生境。
+
+西沙群岛处于台风的多发区，每年7-9月份为台风盛行季节，过境台风带来的巨大风浪可把沙堤搬走，吞没沿岛高潮线以上的灌木和草本植物，同时对岛上的其他植物也有巨大影响（广东省植物研究所西沙群岛植物调查队，1977)。银毛树林冠开朗，枝条较为稀疏；木质部密度低，机械组织不发达；但枝干里的贮水薄壁组织非常发达，而且具有较大的髓腔，枝干脆弱易折，每遇强大台风，枝干断折满地，可以防止全株被连根拔起，同时枝干含水丰富，树冠可以迅速恢复，充分显示了其适应近海沙滩环境的生存策略。
+
+# 4结论
+
+银毛树枝干和叶片具有较好的储水能力、叶片表面的厚密白色绢毛可反射强光降低水分散失、叶片中的脯氨酸含量较高可适应高强度的渗透胁迫、枝干脆弱易折免于被台风连根拔起等特征及较高的土壤营养元素利用能力，使其能适应干旱、强碱、强光等热带珊瑚岛（礁）环境。另外，银毛树具有独特且美观的枝叶和株形，使其在热带珊瑚岛（礁）或滨海地区的植被恢复或绿化方面具有广阔的应用前景。
+
+# 参考文献：
+
+CAI QS,2013.Plant physiology test[M].Beijing: China Agriculture Press.[蔡庆生，2013.植物生理学实验[M]. 北京：中国农业大学出版社.]   
+CHEN CY,FUCH,HSIAO WW,et al,2007.First Reportof Southerm Blight of Silvery Messerschmidia Sedlings in Taiwan [J].Plant Dis,91(9): 1198-1198.   
+CHENT,FENG HY,XUSJ,etal,2O02. Stablecarbon isotope compositionof desert plant leavesand water-use efficiency[J].Journal of Desert Research,22(3):288-291.[陈拓，冯虎元，徐世建，等，2002.荒漠植物叶 片碳同位素组成及其水分利用效率[J]．中国沙漠，22(3):288-291.]   
+Flora of China Editorial Committee CAS,1989.Flora of China [M].Beijing: Science Press,64(2):33-34.[中国科 学院中国植物志编委会，1989．中国植物志 第64卷 第二分册[M]．北京：科学出版社,64(2)：33-34.]   
+GUAN LL,LIUN, WEI Q,et al,20o8.Comparison of leaf construction costs between thre invasive species and three native species in South China[J].JTrop Subtrop Bot,16(2):95-103.[关岚岚，刘楠，韦强，等，2008. 华南地区3种藤本植物叶绿素荧光特性对模拟二氧化硫污染的回应[J]．热带亚热带植物学报， 16(2) :95-103.]   
+KNIGHT JD, LIVINGSTON NJ, KESSEL CV,1994. Carbon isotope discrimination and water-use efficiency of six crops grown under wet and dryland conditions [J].Plant Cell Environ,17(2):173-179.   
+LAMUELA-RAVENTOS RM, SINGLETON VL,ORTHOFER R,199. Analysis of Total Phenols and Other Oxidation Substrates and Antioxidants by Means of Folin-Ciocalteu Reagent [M]// Exercises in general chemistry and qualitative analyses /.J.Wiley& sons,152-178.   
+LAN XY,2011.Effects of arbuscular mycorrhiza inoculation on the physiology of Scaevola sericea and Messerschmidia argentea under salt stress [D].Taichung City: National Chung Hsing University.[蓝星宇, 2011．盐分逆境下草海桐(Scaevola sericea)和白水木(Messerschmidia argentea)接种丛枝菌根菌之 生理效应[D]．台中市：中兴大学.]   
+LI LJ,LITH,BI ZS,1988.DescriptionofParacel Islands macro fungi[J].Edible Fungi ofChina,1(1): 019.[李丽 嘉，李泰辉，毕志树，1988．西沙群岛大型真菌记述［J]．中国食用菌，1(1):019.]   
+LI R,DANG W, CAI J,et al,2016.Relationships between xylem structure and embolism vulnerability in six species of drought tolerance trees [J].Chin JPlant Ecol,40(3): 255-263.[李荣，党维，蔡靖，等，2016．6 个耐旱树种木质部结构与栓塞脆弱性的关系[J]．植物生态学报，40(3):255-263.]   
+LIN ZF,LI SS,LIN GZ,1984. Superoxide dismutase activity and lipid peroxidation in relation to senescence of rice leaves[J].Acta Bot Sin,26(6):605-615.[林植芳，李双顺，林桂珠，等，1984．水稻叶片的衰老与超 氧物歧化酶活性及脂质过氧化作用的关系[J]．植物生态学报(英文版)，26(6):47-57.]   
+LIU GS,1996. Soil physical and chemical analysis & description of soil profiles [M].Beijing: Standards Press of China.[刘光崧，1996．土壤理化分析与剖面描述[M]．北京：标准出版社.]   
+LIU XT, GE CD, ZOU XQ,et al,2017. Carbon, Nitrogen geochemical characteristics and their implications on environmental change in the lagoon sediments of the Dongdao Island of Xisha Islands in South China Sea[J]. Acta Oceanol Sin,39(6):43-54.[刘晓瞳，葛晨东，邹欣庆，等，2017．西沙群岛东岛渴湖沉积物碳、氮 元素地球化学特征及其指示的环境变化[J]．海洋学报，39(6):43-54.]   
+MANNER HI,ELEVITCH CR, 2006.Tournefortia argentea (tree heliotrope）[J]. Traditional Tree Initiative: Species Profiles for Pacific Island Agroforestry,1-12.   
+OGIHARA K,MIYAGI Y, HIGA M, et al,1997.Pyrrolizidine alkaloids from Messerschmidia argentea[J]. Phytochemistry, 44(3): 545-547.   
+OGIHARA K, NAKAZATO R, NISHI Y, et al, 2002. DPPH-radical scavenging constituents from the twigs of Messerschmidia argentea (III) [J]. Bul.Fac. Sci. Univ. Ryukyus, (74)73-80.   
+PEI B, ZHANG GC, ZHANG SY, et al, 2013.Efects of soil drought stress on photosynthetic characteristics and antioxidant enzyme activities in Hippophae rhamnoides Linn. seedings [J]. Acta Ecol Sin, 2013,33(5): 1386-1396.[裴斌，张光灿，张淑勇，等，2013．土壤干旱胁迫对沙棘叶片光合作用和抗氧化酶活性的 影响[J]．生态学报，33(5):1386-1396.]   
+Plant Survey Team of Xisha Islands,Guangdong Institute of Botany,1977. The plants and vegetation of the Xisha Islands in China [M].Beijing:Science Press.[广东省植物研究所西沙群岛植物调查队,1977．我国西沙群 岛的植物和植被[M]．北京：科学出版社.]   
+REN H, PENG SL, SUN GC, et al, 1997. The ecological comparison of Psychotria rubra and Rhodomyrtus tomentosa in South China [J]. Chin JPlant Ecol,21: 386-392   
+REN SJ,YUGR,ANGC,etal,012.Stchiometricracteristicsofafcarbon，rogen,nds of 102 dominant species in forest ecosystems along the North-South Transect of East China [J]. Chin JAppl Ecol,23(3):581-586.[任书杰，于贵瑞，姜春明，等，2012．中国东部南北样带森林生态系统 102 个优 势种叶片碳氮磷化学计量学统计特征[J]．应用生态学报，23(3):581-586.]   
+SHIPLEY B, VU TT,2002.Dry matter content as a measure of dry mater concentration in plants and their parts [J]. New Phytol,153(2):359-364.   
+SUN CZ, WANG C,CAI ZZ,et al,2013. Determination offlavonoids,phenolic acids and abscisic acid in honeys of diferent floral origins by HPLC[J].Food Sci,34(10):281-285.[孙崇臻，王超，蔡子哲，等，2013．高 效液相色谱测定蜂蜜中的脱落酸、黄酮和酚酸[J]．食品科学，34(10):281-285.]   
+SUN Q,HU JJ,2006.Plant physiology test technique[M].Yangling: NAgr For Univ Press.[孙群，胡景江，龚月 桦，2006．植物生理学研究技术[M]．杨凌：西北农林科技大学出版社.]   
+TANG ZC,1984.Plant Physiol Commun,1:15-21.[汤章城，1984．逆境条件下植物脯氨酸的累积及其可能的 意义[J]．植物生理学通讯，1:15-21.]   
+TONG Y,JIAN SG, CHEN Q,et al,2003.Vascular plant diversityofthe Paracel Islands, China[J]. Biodivers Sci, 21(3):364-374.[童毅，简曙光，陈权，等，2013．中国西沙群岛植物多样性[J]．生物多样性，21(3)： 364-374.]   
+VILE D, SHIPLEY B, GARNIER E,2006.Ecosystem productivity can be predicted from potential relative growth rate and species abundance [J]. Ecol Lett, 9(9): 1061-1067.   
+WANG XH,LIU N,REN H,etal,2017.The ecological and biological characteristics of Pisonia grandis [J]. Guihaia,37(12):1489-1497.[王馨慧，刘楠，任海，等，2017．抗风桐(Pisonia grandis)的生态生物学 特征［J]．广西植物，37(12):1489-1497.]   
+WANG Y,PANZC,LI XP,etal,2017.Dierences inanthocyanincontent and total antioxidant capacityofpotato tubers with diferent flesh colour[J].Food Nutr China,23(2):66-69.[王颖，潘哲超，李先平，等，2017．不 同肉色马铃薯花色苷含量及总抗氧化能力的分析研究[J]．中国食物与营养，23(2):66-69.]   
+WU SH, CHENHW,JIAN SG,etal,2017.The biological characteristicsof Cordia subcordata on tropical coral island in China[J].Ecol Sci,36(6):57-63.[吴淑华，陈昊雯，简曙光，等，2017．中国热带珊瑚岛橙花破 布木(Cordia subcordata)的生物学特性[J]．生态科学，36(6):57-63.]   
+XIONG X, ZHANG HL,WU JP,et al,2016.13C and 15N isotopic signatures of plant"soil continuum along a successional gradient in Dinghushan Biosphere Reserve [J]. Chin JPlant Ecol,40(6): 533-542.[熊鑫，张慧 玲，吴建平，等，2016．鼎湖山森林演替序列植物-土壤碳氮同位素特征[J]．植物生态学报， 40(6) :533-542.]   
+YIN YQ,HU JB,DENG MJ,2007.Latest development of antioxidant system and responses to stress in plant leaves [J].Chin Agric Bull,23(1):105-110.[尹永强，胡建斌，邓明军，2007．植物叶片抗氧化系统及其 对逆境胁迫的回应研究进展[J]．中国农学通报，23(1):105-110.]   
+ZHANG CN,ZHAO XP,LIANG F,et al, 2014. Variations of vesel characteristics of branches in Quercus mongolica canopy[J].Sci Silva Sin,50(10):152-157.[张超男，赵西平，梁芳，等，2014．蒙古栎树冠不 同部位树枝的导管特征的变化[J]．林业科学，50(10):152-157.]   
+ZHU SD,CHEN YJ, CAO KF,et al,2015. Interspecific variation in branch and leaf traits among three Syzygium tree species from different successional tropical forests [J].Funct Plant Biol, 42(4):423-432.   
+ZHU YH,2O16.Pattrns of variations in leaf trait and responses to environmental changes in oriental oak (Quercus variabilis)across Eastern Asia[D].Shanghai: Shanghai Jiao Tong University.[朱燕华,2013．东亚 地区栓皮栎(Quercus variabilis)叶片性状的变异格局及其对环境变化的回应[D]．上海：上海交通大 学.]   
+ZOU Q,2000.Guideline of experiments in plant physiology[M].Beijing: Chin Agr Press.[邹琦，2000．植物生 理学实验指导[M]．北京：中国农业出版社：56-59.]

@@ -1,0 +1,160 @@
+# Higgs-pair Production in Littlest Higgs Model with T-parity
+
+Lei Wang, Wenyu Wang, Jin Min Yang, Huanjun Zhang Institute of Theoretical Physics， Academia Sinica， Beijing 10oo80, China
+
+Abstract
+
+The Higgs-pair production process at the CERN Large Hadron Collider (LHC), which will provide a way to test the Higgs boson self-coupling, may be sensitive to new physics. In the framework of the littlest Higgs model with T-parity， such Higgs-pair production can proceed through additional loop diagrams and thus the production rate can be quite different from the Standard Model (SM) prediction. Our calculations show that,due to the loop contributions of both T-even and T-odd quarks predicted in this model, the production rate can be significantly enhanced relative to the SM prediction and also can be larger than the production rate in the minimal supersymmetric model. Also, we find that the T-odd quark contributions, which were ignored in a previous study, are equally important compared with the T-even quark contributions.
+
+PACS numbers: 14.80.Cp,12.60.Fr,11.30.Qc
+
+# I. INTRODUCTION
+
+To solve the fine-tuning problem of the Standard Model (SM), the little Higgs theory [1] was proposed as a kind of electroweak symmetry breaking mechanism accomplished by a naturally light Higgs sector. The Higgs boson remains light， being protected by the approximate global symmetry and free from one-loop quadratic sensitivity to the cutoff scale. The littlest Higgs model [2] provides an economical approach which implements the idea of the little Higgs theory. Most of the constraints from the electroweak precision tests on litte Higgs models [3] come from the tree-level mixing of heavy and light mass eigenstates, which would require raising the mass of the new particles to be much higher than TeV scale and thus reintroduce the fine-tuning in the Higgs potential [4]. However, these tree-level contributions can be avoided by introducing a discrete symmetry called T-parity [5]. In such a scenario, the top quark has a T-even partner (denoted as $T$ ）and a T-odd partner (denoted as $T ^ { \prime }$ ). In addition, some extra T-odd fermions need to be also introduced in order to make the model T-parity invariant. These predicted new T-even and T-odd quarks wil cause some effects in various processes, especially the top quark and Higgs boson processes [6],at collider experiments. In this note we focus on the Higgs-pair production process at the LHC,which may be sensitive to new physics.
+
+The Higgs-pair production process at the LHC will provide a way to probe the Higgs boson self-coupling $\lambda$ . With design luminosity, it is possible for the LHC to establish that the SM Higgs boson has a non-zero self-coupling and that $\lambda / \lambda _ { S M }$ can be restricted to a range of 0-3.7 at $9 5 \%$ confidence level if its mass is between 150 and 200 GeV [7]. Such Higgs-pair production process has been studied in various new physics models [8]. Recently, this process was studied in the littlest Higgs model without T-parity [9] and with T-parity [10]. However, the study in [10] only considered the contributions of T-even quarks but ignored the effects of the T-odd fermions. As shown in some recent analyses [11, 12,13], the T-odd fermions can also cause some interesting collider phenomenology and their effects cannot be ignored. Given the popularity of the littlest Higgs model with T-parity and also the importance of the Higgs-pair production at the LHC as a probe of Higgs self-interaction, we in this note give a complete calculation for the Higgs-pair production in the littlest Higgs model with T-parity by considering the contributions of both T-even and T-odd quarks.
+
+This work is organized as follows. In Sec. II we recapitulate the T-odd fermions and the top-quark sector of the littlest Higgs model with T-parity. In Sec. III, we calculate the Higgs-pair production at the LHC. Finally, we give our conclusion in Sec. IV.
+
+# II.ABOUT THE LITTLEST HIGGS MODEL WITH T-PARITY
+
+# A. Fermion Sector
+
+The original Littlest Higgs model [2] is based on a non-linear sigma model describing the spontaneous breaking of a global $S U ( 5 )$ down to a global $S O ( 5 )$ at an energy scale $f \sim \mathcal { O } ( T e V )$ . The vacuum expectation value (VEV） of an $S U ( 5 )$ symmetric tensor $\Sigma$ is proportional to
+
+$$
+\Sigma _ { 0 } = \left( \begin{array} { c c c } { { 0 } } & { { 0 } } & { { 1 } } \\ { { 0 } } & { { 1 } } & { { 0 } } \\ { { 1 } } & { { 0 } } & { { 0 } } \end{array} \right) ,
+$$
+
+where $\mathbb { 1 }$ represents a unit $2 \times 2$ matrix. The low energy dynamics of non-linear sigma is described in terms of the field
+
+$$
+\Sigma ( x ) = e ^ { i \Pi / f } \Sigma _ { 0 } e ^ { i \Pi ^ { T } / f } = e ^ { 2 i \Pi / f } \Sigma _ { 0 }
+$$
+
+with
+
+$$
+\Pi ( x ) = \sum _ { a = 1 } ^ { 1 4 } \pi ^ { a } ( x ) X ^ { a } ,
+$$
+
+where $\pi ^ { a } ( x )$ are the Goldstone particles corresponding to 14 broken generators $X ^ { a }$ for the $S U ( 5 ) \longrightarrow S O ( 5 )$ breaking.
+
+To implement T-parity in the fermion sector, it requires the introduction of the mirror fermions. For each SM lepton/quark doublet, under the $S U ( 2 ) _ { 1 } \times S U ( 2 ) _ { 2 }$ gauge symmetry, two fermion doublets $q _ { 1 } ( 2 , 1 )$ and $q _ { 2 } ( 1 , 2 )$ are introduced. They can be embedded into incomplete representations $S U ( 5 )$ multiplets $\Psi _ { 1 }$ and $\Psi _ { 2 }$ . A right-handed $S O ( 5 )$ multiplets $\Psi _ { R }$ transforming nonlinearly under the full $S U ( 5 )$ is introduced to give mass to the extra fermions. The field content can be expressed as
+
+$$
+\Psi _ { 1 } = \left( \begin{array} { c } { { q _ { 1 } } } \\ { { 0 } } \\ { { 0 _ { 2 } } } \end{array} \right) , \Psi _ { 2 } = \left( \begin{array} { c } { { 0 _ { 2 } } } \\ { { 0 } } \\ { { q _ { 2 } } } \end{array} \right) , \Psi _ { R } = \left( \begin{array} { c } { { \psi _ { R } } } \\ { { \chi _ { R } } } \\ { { \tilde { \psi } _ { R } } } \end{array} \right) ,
+$$
+
+with
+
+$$
+q _ { 1 } = \left( \begin{array} { c } { { i d _ { L _ { 1 } } } } \\ { { - i u _ { L _ { 1 } } } } \end{array} \right) , q _ { 2 } = \left( \begin{array} { c } { { i d _ { L _ { 2 } } } } \\ { { - i u _ { L _ { 2 } } } } \end{array} \right) , \tilde { \psi } _ { R } = \left( \begin{array} { c } { { i d _ { R } ^ { \prime } } } \\ { { - i u _ { R } ^ { \prime } } } \end{array} \right)
+$$
+
+The first component of $\psi _ { R }$ is irrelevant to our study (as shown later) and the second component of $\psi _ { R }$ is $- i q _ { R }$ . The mirror fermions can be given $\mathcal { O } ( f )$ masses via a mass term [5,12, 13, 14, 15]
+
+$$
+{ \mathcal L } _ { \kappa } = - \kappa _ { i j } f ( \bar { \Psi } _ { 2 } ^ { i } \xi + \bar { \Psi } _ { 1 } ^ { i } \Sigma _ { 0 } \Omega \xi ^ { \dagger } \Omega ) \Psi _ { R } ^ { j } + h . c . ,
+$$
+
+where $\xi = e ^ { i \Pi / f }$ ， $\Omega \equiv \mathrm { d i a g } ( 1 , 1 , - 1 , 1 , 1 )$ and $i , j = 1 , 2 , 3$ are the generation indices. For simplicity we assume the flavor diagonal and universal $\kappa$ in our study.
+
+They transform under the $S U ( 5 )$ as
+
+$$
+\Psi _ { 1 } \to V ^ { * } \Psi _ { 1 } , \quad \Psi _ { 2 } \to V \Psi _ { 2 } , \quad \Psi _ { R } \to U \Psi _ { R } , \quad \xi \to V \xi U ^ { \dag } , \quad \Sigma \to V \Sigma V ^ { \mathrm { T } } ,
+$$
+
+where $V$ is an $S U ( 5 )$ rotation matrix, $U$ is the unbroken $S O ( 5 )$ rotation and is a non-linear representation of the $S U ( 5 )$ . Under T-parity the transformations are defined as
+
+$$
+\Psi _ { 1 }  - \Sigma _ { 0 } \Psi _ { 2 } , ~ \Psi _ { R } \longrightarrow - \Psi _ { R } , ~ \xi \longrightarrow \Omega \xi ^ { \dagger } \Omega .
+$$
+
+Thus $q _ { 1 }  - q _ { 2 }$ and $\Sigma  \Sigma _ { 0 } \Omega \Sigma ^ { \dagger } \Omega \Sigma _ { 0 }$ under T-parity. Following the above transformation, the Lagrangian is T-invariant .
+
+The Lagrangian in Eq.(6) contains new Higgs boson interactions and the mass terms for the T-odd fermions
+
+$$
+{ \mathcal { L } } _ { \kappa } \simeq - \sqrt { 2 } \kappa f \left[ \bar { d } _ { L _ { - } } d _ { R } ^ { \prime } + \frac { 1 + c _ { \xi } } { 2 } \bar { u } _ { L _ { - } } u _ { R } ^ { \prime } - \frac { s _ { \xi } } { \sqrt { 2 } } \bar { u } _ { L _ { - } } \chi _ { R } - \frac { 1 - c _ { \xi } } { 2 } \bar { u } _ { L _ { - } } q _ { R } \right] + \mathrm { h . c . } ,
+$$
+
+where we ignored the generation indices, and $\begin{array} { r } { c _ { \xi } = \cos \frac { v + h } { \sqrt { 2 } f } } \end{array}$ and $\begin{array} { r } { s _ { \xi } = \sin \frac { v + h } { \sqrt { 2 } f } } \end{array}$ come from the non-linear sigma model field $\xi$ ，with $h$ and $\boldsymbol { v }$ being the neutral Higgs boson feld and its vev, respectively [13]. The mirror fermion $u _ { L _ { - } } = ( u _ { L _ { 1 } } + u _ { L _ { 2 } } ) / \sqrt { 2 }$ is T-odd, and $u _ { L _ { + } } = $ （204号 $( u _ { L _ { 1 } } - u _ { L _ { 2 } } ) / \sqrt { 2 }$ is T-even and massless. The same definitions also apply to the down-type mirror quarks. The fermions $q _ { R }$ and $\chi _ { R }$ can obtain large Dirac masses by introducing additional fermions, as described in detail in [5,14].We also assume the Dirac mass terms $- m _ { q } \bar { q } _ { L } ^ { \prime } q _ { R } - m _ { \chi } \bar { \chi } _ { L } ^ { \prime } \chi _ { R }$ . From Eq.(9) we can see that the first component of the doublet $\psi _ { R }$ （20 does not appear and the T-odd down-type quarks have no tree-level couplings with the Higgs boson. After diagonalizing the mass matrix, we get the mass eigenstates $u _ { - }$ ， $\chi$ and $q$ ，which couple with $h$ and $h h$ ， respectively.
+
+# B. Top-quark Yukawa couplings
+
+In order to cancel the quadratic divergence of the Higgs mass induced by top quark, it requires completing $Q _ { 1 }$ and $Q _ { 2 }$ multiplets for the third generation to representations of the （204号 $S U ( 3 ) _ { 1 }$ and $S U ( 3 ) _ { 2 }$ subgroups of the full $S U ( 5 )$ ： $Q _ { 1 } = ( q _ { 1 } , U _ { L _ { 1 } } , 0 _ { 2 } ) ^ { \mathrm { T } }$ and $Q _ { 2 } = ( \mathrm { 0 } _ { 2 } , U _ { L _ { 2 } } , q _ { 2 } ) ^ { \mathrm { T } }$ In addition to the SM right-handed top quark field $u _ { R }$ , one must also introduce additional singlets $U _ { R _ { 1 } }$ and $U _ { R _ { 2 } }$
+
+For the top-quark Yukawa couplings, one can write down the following Lagrangian [5, 12, 13, 14, 15]
+
+$$
+\begin{array} { r c l } { \displaystyle \mathcal { L } _ { t } = - \frac { \lambda _ { 1 } } { 2 \sqrt { 2 } } f \epsilon _ { i j k } \epsilon _ { x y } \left[ ( \bar { Q } _ { 1 } ) _ { i } \Sigma _ { j x } \Sigma _ { k y } - ( \bar { Q } _ { 2 } \Sigma _ { 0 } ) _ { i } \tilde { \Sigma } _ { j x } \tilde { \Sigma } _ { k y } \right] u _ { R } } \\ { \displaystyle - \lambda _ { 2 } f ( \bar { U } _ { L _ { 1 } } U _ { R _ { 1 } } + \bar { U } _ { L _ { 2 } } U _ { R _ { 2 } } ) + \mathrm { h . c . } , } \end{array}
+$$
+
+where the indices $i , j , k$ run from 1 to 3 whereas $x , y = 4 , 5$ . Note that under T-parity these fields transform as
+
+$$
+Q _ { 1 }  - \Sigma _ { 0 } Q _ { 2 } , U _ { R _ { 1 } }  - U _ { R _ { 2 } } , u _ { R }  u _ { R } .
+$$
+
+Therefore, the T-parity eigenstates are defined as $U _ { L _ { - } } = ( U _ { L _ { 1 } } + U _ { L _ { 2 } } ) / \sqrt { 2 }$ (T-odd), ${ U } _ { L _ { + } } = { }$ （20 $( U _ { L _ { 1 } } - U _ { L _ { 2 } } ) / \sqrt { 2 }$ (T-even)，and the same definitions also apply to the right-handed singlets. From the above Lagrangian we can get the following Higgs boson interactions and the mass terms for fermions
+
+$$
+{ \mathcal { L } } _ { t } \simeq - \lambda _ { 1 } f \left( { \frac { s _ { \Sigma } } { \sqrt { 2 } } } { \bar { u } } _ { L _ { + } } u _ { R } + { \frac { 1 + c _ { \Sigma } } { 2 } } { \bar { U } } _ { L _ { + } } u _ { R } \right) - \lambda _ { 2 } f \left( { \bar { U } } _ { L _ { + } } U _ { R _ { + } } + { \bar { U } } _ { L _ { - } } U _ { R _ { - } } \right) + \mathrm { h . c . } .
+$$
+
+where $c _ { \Sigma } = \cos \frac { \sqrt { 2 } ( v + h ) } { f }$ and $\begin{array} { r } { s _ { \Sigma } = \sin \frac { \sqrt { 2 } ( v + h ) } { f } } \end{array}$ come from the non-linear sigma model feld （20 $\Sigma$ [13]. The T-odd Dirac fermion $T ^ { \prime }$ （ ${ \cal T } _ { L } ^ { \prime } \equiv U _ { L _ { - } }$ ， ${ \cal T } _ { R } ^ { \prime } \equiv U _ { R _ { - } }$ ）obtains a mass $m _ { T ^ { \prime } } = \lambda _ { 2 } f$ ， and has no tree-level coupling with the Higgs boson. The left-handed (right-handed) top quark and T-even T-quark are linear combinations of $u _ { L + }$ and $U _ { L + }$ ( $u _ { R + }$ and $U _ { R + }$ ). After diagonalizing the mass matrix in Eq. (12), we can get the mass eigenstates $t$ and $T$ as well as their couplings with the Higgs boson.
+
+# III. HIGGS-PAIR PRODUCTION AT LHC
+
+Now we look at the Higgs pair production in the littlest Higgs model with T-parity at the LHC. The production can proceed through gluon-gluon fusion and $b b$ annihilation at parton level, with the former being the dominant one [9]. The Feynman diagrams of Higgs-pair production via gluon-gluon fusion are shown in Fig. 1. In the SM the dominant contributions are from the diagrams of Fig.1(a,c,d) with top-quark loops. In the littlest Higgs model with T-parity, the top-quark loops give additional contributions through the tree-level hhtt coupling and the modified $h t t$ coupling. In addition to the top-quark loops, the loops of new T-even and T-odd quarks also come into play. So all these particles should be summed over in our loop calculations.(As we pointed earlier, the calculations in [10] did not include the contributions of T-odd quarks).
+
+![](images/2eaa2778dedc62b0c3cbbae236f2129856954ded26bb8aef890f35ef4a0949cc.jpg)  
+FIG.1: The parton-level Feynman diagrams for Higgs-pair production via gluon-gluon fusion in the littlest Higgs model with T-parity. Here $f _ { i }$ can be a T-even fermion ( $i = 1 , 2$ with $f _ { 1 } = t$ and （204号 $f _ { 2 } = T$ ）or a T-odd fermion ( $i = 1 , 2 , 3$ with $f _ { 1 } = u _ { - }$ ， $f _ { 2 } = \chi$ and $f _ { 3 } = q$ ). The diagrams obtained by exchanging the two gluons or exchanging the two Higgs bosons are not shown here.
+
+The calculations of the loop diagrams in Fig. 1 are straightforward. Each loop diagram is composed of some scalar loop functions [16] which are calculated by using LoopTools [17]. The calculations are tedious and the analytical expressions are lengthy, which are not presented here.
+
+We numerically checked our results by comparing our $g g  h h$ parton cross section with Ref.[9]. The calculations in [9] considered the loop effcts of (i) the top-quark and Teven T-quark, (ii) the heavy neutral triplet Higgs boson $\Phi ^ { 0 }$ ，and (ii) the first and second generation quarks. Since the dominant contributions are from (i) [9], their results should be in approximate agreement with ours if we only keep the contributions of the top-quark and T-even T-quark with the same input parameters. We made such a comparison in Table 1. We see that our results agreement quite well with [9].
+
+TABLE I: The comparison between our results with [9] for the contributions of the top-quark and T-even T-quark to $g g  h h$ cross section by using the same parameters and the same Feynman rules.
+
+<html><body><table><tr><td>√s(GeV)</td><td>350</td><td>400</td><td>440</td><td>500</td><td>520</td><td>540</td><td>700</td><td>900</td><td>1000</td><td>2000</td></tr><tr><td>δ(gg →hh) (ours)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.09020.34590.45140.49530.49220.48410.36160.23850.19850.0636</td><td></td><td></td></tr><tr><td>(gg→ hh) (in [9])0.09470.35950.46850.51380.51070.50220.37540.24780.20630.0659</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+Note that in the littlest Higgs model with T-parity, T-parity forbids the generation of a vev for the triplet scalar field and also forbids the contributions of the new T-odd particles to processes with external SM fermions at tree-level. Therefore, the electroweak precision constraints on the model with T-parity are generically quite weak and, as a result， the symmetry breaking scale $f$ may be as low as 500 GeV [18]. When expanding in the power series of $v / f$ , we need to keep some higher orders since $v / f$ may be not so small ( for example, $v / f \approx 0 . 5$ for f=5O0 GeV). Therefore, when expanding the $c _ { \Sigma }$ and $s _ { \Sigma }$ to diagonalize the mass matrix in Eq. (12)，we keep the order up to $\mathcal { O } ( v ^ { 5 } / f ^ { 5 } )$ . The diagonalization of the mass matrix in Eq. (12) was performed numerically in our analyses (in [12,14] the approximate expressions are given).
+
+The hadronic cross section at the LHC is obtained by convoluting the parton cross section with the parton distribution functions. In our calculations we use CTEQ6L [19] to generate the parton distributions with the renormalization scale $\mu _ { R }$ and the factorization scale $\mu _ { F }$ （20 chosen to be $\mu _ { R } = \mu _ { F } = 2 m _ { h }$ and the two-loop running coupling constant $\alpha _ { s }$ with $\alpha _ { s } ( m _ { Z } ) =$ 0.118. The SM parameters involved are taken as $m _ { t } = 1 7 2 . 7$ GeV [20] and $m _ { Z } = 9 1 . 1 8 7 \$ GeV [21]. We fix $m _ { h } = 1 5 0$ GeV in our numerical calculations. The new free parameters involved are the symmetry breaking scale $f$ ， the ratio $r = \lambda _ { 1 } / \lambda _ { 2 }$ ， $\kappa$ ， $m _ { q }$ and $m _ { \chi }$ . Our calculations show that the results are not sensitive to $\kappa$ ， $m _ { q }$ and $m _ { \chi }$ for $m _ { q } , m _ { \chi } > 3$ TeV,which is in agreement with the finding in [13]. Thus,we take $\kappa = 1 . 0$ ， $m _ { q } = m _ { \chi } = 5$ TeV and retain $f$ and $r$ as free parameters.
+
+In Fig. 2 we plot the hadronic Higgs-pair production cross section at the LHC versus the parameter $f$ for several values of $r$ . Here,we included all effects from the top-quark, T-even and T-odd quarks (three generations). Fig. 2 shows that the contributions of this model increase the SM cross section in the allowed parameter space, and the magnitude of such corrections depends on the parameters $r$ and $f$ . The corrections are sensitive to the scale $f$ and become more sizable for lower values of $f$ . For example, for $r = 0 . 5$ ，the total cros section can reach 30 fb. In Fig. 2 we also show a typical prediction by supersymmetric model from the first reference of [8]. Note that in the minimal supersymmetric model the Higgs boson mass $m _ { h }$ is upper bounded by 135 GeV and cannot be as heavy as 150 GeV which we choose for both the SM and the littlest Higgs model. We see that the production rate in the littlest Higgs model with T-parity can be larger than the supersymmetric model prediction in the allowed parameter space.
+
+![](images/b32fe5452f4de0c954ee0173c74059d7ad54840a6898501fdcb297b6ed13ff1f.jpg)  
+FIG. 2: Hadronic Higgs-pair production cross section at the LHC versus the parameter $f$ .The supersymmetric model prediction is taken from Fig. 5(a) in the first reference of [8].
+
+The comparison of the results with and without T-odd quark contributions is shown in Fig. 3. We see that the contributions of T-odd quarks are equally important and thus cannot be neglected. For example， with (without） the contributions of T-odd quarks, the cross section is 29 fb (21 fb).
+
+![](images/2addba954e9b620114d00cfa833d848f76abd0e5318b4fb96c1a4497f8b0c6f5.jpg)  
+FIG.3: Same as Fig.2,but show the results with and without the contributions of the T-odd quarks for $r = 1 . 0$
+
+# IV. CONCLUSION
+
+In the framework of the littlest Higgs model with T-parity we calculate the production of a pair of neutral CP-even Higgs bosons at the LHC. We found that，due to the loop contributions of both T-even and T-odd quarks predicted in this model, the production rate can be significantly enhanced relative to the Standard Model prediction. Also,we found that the T-odd quark contributions,which were ignored in previous studies,are equally important compared with the T-even quark contributions and thus cannot be negelected.
+
+[2] N. Arkani-Hamed,A. G. Cohen, E. Katz, A. E. Nelson, JHEP 0207,034 (2002); S. Chang, JHEP O312, 057 (2003); T. Han, H. E. Logan, B. McElrath and L. T. Wang, Phys. Rev. D 67, 095004 (2003); M. Schmaltz, D. Tucker-smith, Ann. Rev. Nucl. Part. Sci. 55, 229 (2005).   
+[3] C.Csaki, J. Hubisz, G. D. Kribs,P. Meade, J. Terning, Phys. Rev. D 67,115002 (2003)； J. L. Hewett,F. J. Petriello, T.G. Rizzo, JHEP 0310, 062 (2003)； C. Csaki, J. Hubisz, G. D. Kribs, P. Meade, J. Terning, Phys. Rev. D 68,035009 (2003); M. C. Chen, S. Dawson, Phys. Rev. D 70,015003 (2004); M. C. Chen et al., Mod. Phys. Lett. A 21,621 (2006); W. Kilian, J. Reuter, Phys. Rev.D 70, 015004 (2004).   
+[4] G. Marandella, C. Schappacher and A. Strumia, Phys. Rev. D 72, 035041 (2005).   
+[5]H.C.Cheng and I. Low, JHEP 0309,051 (2003); JHEP 0408,061 (2004); I. Low, JHEP 0410,067 (2004); H. C. Cheng, I. Low and L. T. Wang, Phys. Rev. D 74, 055001 (2006).   
+[6] For example, see, L. Wang, W. Wang, J. M. Yang, H. J. Zhang, Phys. Rev. D 75, 074006 (2007); C. X. Yue and N. Wang, hep-ph/0609247.   
+[7] U. Baur, T. plehn,and D. Rainwater, Phys. Rev. Lett. 89,151801 (2002).   
+[8] T. Plehn, M. Spira, P. M. Zerwas, Nucl. Phys. B 479, 46 (1996); J. Yi et al., J. Phys. G 23, 385 (1997); J. Phys. G 23,1151 (1997)； S. Dawson, S. Dittmaier, and M. Spira, Phys. Rev. D 58,40 (1998); E. W. N. Glover and J. J. van der Bij, Nucl. Phys. B 309, 282 1988); A. Krause, T. Plehn, M. Spira, P.M. Zerwas, Nucl. Phys. B 519,85 (1998)； A. A. B. Bendezu and B.A. Kniehl, Phys.Rev.D 64,035006 (2001).   
+[9] J. J. Liu et al., Phys. Rev. D 70,115001 (2004).   
+[10] C. O. Dib,R. Rosenfeld,A. Zerwekh, JHEP 0605, 074 (2006).   
+[11] A.Freitas, D. Wyler, JHEP 0611,061 (2006); D. Choudhury,D. K. Ghosh, hep-ph/0612299.   
+[12] A.Belyaev, C.R. Chen,K. Tobe, C.-P. Yuan,Phys. Rev.D 74,115020 (2006); M. Blanke et al., JHEP 0701, 066 (2007).   
+[13] C. R. Chen, K. Tobe, C.-P. Yuan, Phys. Lett.B 640, 263 (2006).   
+[14] J. Hubisz, P. Meade, Phys. Rev.D 71, 035016 (2005).   
+[15] M. Perelstein, Pramana 67, 813-820 (2006); Prog. Part. Nucl. Phys. 58, 247-291 (2007).   
+[16] G. 't Hooft and M. J.G. Veltman,Nucl. Phys. B 153,365 (1979).   
+[17] T. Hahn and M. Perez-Victoria, Comput. Phys. Commun. 118,153 (1999); T. Hahn, Nucl. Phys. Proc. Suppl. 135, 333 (2004).   
+[18] J. Hubisz,P.Meade,A. Noble, M. Perelstein,JHEP 0601,135 (2006). [19] J. Pumplin,et al., JHEP 0602,032 (2006).   
+[20] Tevatron Electroweak Working Group (for the CDF and D0 Collaborations), hep-ex/0703034.   
+[21] S. Eidelman et al.,[Particle Data Group], Phys.Lett. B 592,1 (2004).

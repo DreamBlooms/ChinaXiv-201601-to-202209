@@ -1,0 +1,542 @@
+[
+    {
+        "type": "text",
+        "text": "Synthesis, characterization and photovoltaic properties of three new 3,4-dithienyl-substituted polythiophene derivatives ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Shaojie Chen, Zhiyang Liu and Ziyi Ge ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three 3,4-dithienyl-substitutedpolythiophenederivatives havebeensynthesizedandcharacterized.PolymerP2exhibitsthe widestlightabsorptionspectrumof thepolymers initspolymerchain,which hasanalternativedonor-acceptorstructure. Copolymers blended with 6,6-phenyl-C71-butyric acid methyl ester $( \\mathsf { P C } _ { 7 1 } \\mathsf { B M } )$ asactive layers are used to fabricate polymer solar cells(PSCs),andavarietyofpost-treatmentsareemployedtooptimizethePSCsperformance.Amaximumpowercoversion efficiency (PCE) of $1 . 2 2 \\%$ is achieved for the conventional configuration device based on P2,and the inverted configuration device of P2 is also prepared for comparison.The results show that the inverted P2 device exhibitsabetter PCE $( 1 . 4 7 \\% )$ than that of the conventional device due to the $\\mathsf { T i O } _ { 2 }$ nanoparticles and the close energy alignment between the work function of the $\\mathsf { M o O } _ { 3 }$ and the HOMO energy levels,which facilitate a light absorption increase and improved charge transport. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Polymer solar cells (PSCs） have received significant attention because of their many unique merits,such as easy fabrication,low cost, light weight and flexibility.1-7 Over the past decade,many promising materials have been synthesized; however,most of these materials are very costly and difficult to prepare.Polythiophenes are one of the most widely studied class of conjugated polymers because of their ease of synthesis and their desirable electrical and optical properties.8,9 The extent of conjugation in thiophene-based materials depends largely on the nature of the substituents at the 3-and 4-positions.However,the studies concerning the substituents in thiophene-based materials predominantly focus on alkyl substituents at the 3-position,such as poly(3-alkylthiophene） and its derivatives.10 A major drawback of most polythiophenes for their application in PSCs is the rather poor match between their absorption spectrum and the solar spectrum. The maximum absorbance wavelength for most poly(3-alkylthiophene) derivatives is below $7 0 0 \\mathrm { n m }$ $\\mathrm { ^ { \\prime } } E _ { \\mathrm { g } } { = } 1 . 9 \\sim 2 . 1 \\mathrm { e V } .$ ),11-13 which ison the far blue end of the spectrum. Several approaches have been described in the literature to tune the band gap of polythiophenes.14,15 For instance, Andersson discussed the possibility of a polythiophene where all the molecules are added in a head to tail manner,or can be random with the occasional head to tail,head to head or tail to tail coupling as shown in Scheme 1.In addition,various types of synthetic strategies, such as Yamamoto,Lin and Dudek coupling reactions that lead to polythiophenes,have been compared by many research groups. However,the concept of using thienyl-based solubilizing groups on the thiophene main chain to extend the conjugation has not been explored widely. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Josemon Jacobl6 synthesized and characterized 3,4-diaryl-substituted polythiophene derivatives for the first time in 2Ol1.They identified a new class of thiophene-based materials with improved conjugation and charge transport. 4-octylphenyl substituents and 5-octyl-2-thienyl substituents were used at the 3- and 4-positions of thiophene instead of simple alkyl substituents; they found that the aryl substituent on the side chain is conjugated with the main chain, leading to a lower band gap in such materials,which is good for sunlight absorption.Unfortunately,the photovoltaic properties were not investigated.In this paper,three new 3,4-dithienyl-substituted polythiophene derivatives are reported,and their photovoltaic properties are investigated systematically.In the literature,l7,18 it has been reported that 3,4-dialkyl-substituted polythiophenes suffer from severe steric hindrance between side chains and thiophene rings.To reduce these steric interactions in these three polymers,a 3,4-di $\\mathbf { \\vec { 5 } } ^ { \\prime }$ -isooctyl- $\\cdot 2 ^ { \\circ }$ 1 thienyl)thiophene unit (I3T) is polymerized with $^ { 5 , 5 ^ { \\prime } }$ -bis(tributylstannyl)- $^ { \\cdot 2 , 2 ^ { \\prime } }$ -dithienyl,4,7-bis(5-(tributylstannyl))thiophen-2-yl)benzo[c] [1,2,5]thiadiazole and 2,5-bis(tributylstannyl)thieno[3,2-b]thiophene, respectively,by a Stille coupling reaction.Their molecular structures are shown in Scheme 2. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTALPROCEDURE ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generalinstrumentations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ 1 \\mathrm { H }$ nuclear magnetic resonance (NMR） spectra were recorded with a Bruker DMX-4O0 spectrometer (Rheinstetten,Germany).Thermogravimetric analysis was performed usinga PerkinElmer Pyris (Waltham,MA,USA).The molecular weights of the polymers were measured by the Gel Permeation Chromatography(GPC）method on a Waters 1515(Milford,MA,USA） instrument calibrated with polystyrene standards at room temperature using chloroform as the eluent.Ultraviolet-visible(UV-vis）absorption spectra were recorded on a PerkinElmer Lambda 950.The cyclic voltammetry(CV) of the copolymer films Was studied on a CHI65OB potentiostat(Tennison Hill Drive,Austin,TX, USA).The surface images were obtained on a Veeco Dimension $3 1 0 0 \\mathrm { V }$ atomic force microscope (Rheinstetten,Germany).The current-voltage (I-V）characteristics of all photovoltaic cells were measured under simulated solar light $( 1 0 0 \\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ ; AM $1 . 5 \\ \\mathrm { G }$ ）provided bya Newport-Oriel Sol3A $4 5 0 \\mathrm { W }$ solar simulator(Irvine,CA,USA）and stored under an Ar atmosphere without encapsulation. The electrical data were recorded on a Keithley 24oo sourcemeasure unit.The intensity of the simulated solar light was calibrated using a standard Si photodiode detector (PV measurements),which was calibrated at the National Renewable Energy Laboratory in the United States. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c6d88ecb6abd85cb06b65926eb1878aa7368e312c88cde3f20687b8aaeffe90.jpg",
+        "img_caption": [
+            "SchemStructurefdbsitutedvaisfliiplidtd;ed to tail. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/494aaffb727453fe82a1b1a9a25ce9b16c307bc0e965e957d1eaab48845d116d.jpg",
+        "img_caption": [
+            "Scheme 2 Molecular structures of polymers P1,P2 and P3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All chemicals and solvents used were reagent grade and purchased from Aldrich (St Louis，MO,USA)，TCI(Tokyo,Japan）or Acros Organics Company (Brussels,Belgium).The solvents used in the reactions and photophysical measurements were all distilled after dehydration according to conventional methods. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PSCdevice fabricationandcharacterization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The PSCs were fabricated on the basis of a conventional configuration $\\left( \\mathrm { I T O } / \\mathrm { P E D O T } ; \\mathrm { P S S } / \\mathrm { P X } ( x = 1 , 2 , 3 ) ; \\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { C a } / \\mathrm { A l } \\right)$ and an inverted configuration $\\mathrm { ( F T O / T i O _ { 2 } / P X ( { x = 1 , 2 , 3 } ) { : P C _ { 7 1 } B M / M o O _ { 3 } / A g } ) }$ .TheITO/FTOelectrodes $( \\leqslant 1 4 ~ \\Omega$ per square) were cleaned by a routine cleaning procedure that includes manual washing in aqueous detergent,and then sequential sonication in acetone,isopropanol and deionized water.They were then rinsed with ethanol and dried under a $\\Nu _ { 2 }$ stream before being modified with a $4 0 \\mathrm { - n m }$ thick spincast layer of PEDOT/PSS‘Clevios PVP AI $4 0 8 3 ^ { \\prime }$ (HC Stark,Frankfurt, ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ee8e2822c1eef2a04bc26e180234b242697e2a9c79450437ad7e273ee075e83.jpg",
+        "img_caption": [
+            "Figure 1 A sketch map of a traditional constructure cell (left）and an inverted constructure cell (right)．A full color version of this figureis availableatPolymerJournalonline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Germany),which was dried at $1 2 0 ^ { \\circ } \\mathrm { C }$ for $2 0 \\mathrm { m i n }$ .The Clevios suspension was stirred and filtered through a $0 . 4 5 \\mu \\mathrm { m }$ syringe filter prior to casting.FTO substrates were cleaned using the same method as the ITO electrodes.A $\\mathrm { T i O } _ { 2 }$ layer was prepared through the following steps:19 tetrabutyl titanate (Ti $\\mathrm { ( O C _ { 4 } H _ { 9 } ) _ { 4 } } .$ ),acetylacetone and ethanol were mixed in the volume ratio of 1:0.5:6,and the mixture was stirred at room temperature until a homogeneous yellow stable $\\mathrm { T i O } _ { 2 }$ -sol was obtained. Then,the solution was spin coated on an FTO glass at 4000 r.p.m. for $6 0 s ,$ followed by sintering at $4 5 0 ^ { \\circ } \\mathrm { C }$ for $^ { \\textrm { 1 h } }$ under ambient conditions.An active layer was spin coated on top of the PEDOT/PSS or $\\mathrm { T i O } _ { 2 }$ layer at $1 0 0 0 \\mathrm { r . p . m }$ .In a conventional configuration,a $2 0 \\mathrm { - n m }$ thick calcium (Ca） layer and $1 0 0 \\mathrm { - n m }$ thick aluminum (Al） layer were thermally evaporated at a pressure of $\\sim 1 0 ^ { - 6 }$ mbar.In the inverted configuration,a 20- nm thick $\\mathrm { M o O } _ { 3 }$ layer and a $1 0 0 \\mathrm { - n m }$ thick Ag layer were deposited. The mask geometry defined an effective device area of $0 . 1 2 5 7 \\mathrm { c m } ^ { 2 }$ .The sketch map of the traditional constructure cell and inverted constructure cell are shown in Figure 1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesisof3,4-di-( ${ \\boldsymbol { 5 } } ^ { \\prime }$ -isooctyl- $\\cdot 2 ^ { \\circ }$ -thienyl)-2,5-dibromothiophene The synthetic route to 3,4-di-( $5 ^ { \\circ }$ -isooctyl- $\\cdot 2 ^ { \\circ }$ -thienyl)-2,5-dibromothiophene is shown in Figure 2. $^ 1 \\mathrm { H }$ NMR spectra of all the monomers (a-e) are shown in Figures 3,4,5 and 6,respectively. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesisof2-isooctyl-thiophene (a).N-butyl lithium ( $2 . 5 \\mathrm { { M } }$ in hexane; $6 0 \\mathrm { m l }$ 0 $0 . 1 5 \\mathrm { m o l }$ ）was added dropwise to a solution of thiophene $( 1 5 \\mathrm { g } , 0 . 1 8 \\mathrm { m o l } )$ in $1 5 0 \\mathrm { m l }$ of tetrahydrofuran (THF) at $- 7 8 ^ { \\circ } \\mathrm { C }$ After $4 5 \\mathrm { m i n }$ ， $2 7 \\mathrm { g }$ of 1-bromo-2- ethylhexane $\\left. { 0 . 1 4 m o l } \\right. { , }$ was added to the above solution.The reaction mixture was stirred for another $^ { 3 \\mathrm { h } }$ at room temperature and then poured into water. The mixture was extracted with ether,dried over magnesium sulfate and then the solvent was evaporated.The compound was purified by vacuum distillation. $2 4 . 2 \\mathrm { g }$ of pure product (colorless liquid) was obtained (yield: $9 6 \\%$ ） $^ 1 \\mathrm { H }$ NMR ${ \\bf \\dot { \\Psi } } 4 0 0 \\bf { M H z }$ 0 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 7 . 2 3$ (s,1H, $J { = } 8 . 5 1 \\mathrm { H z }$ ),7.19 (s, $1 \\mathrm { H } , J = 8 . 1 9 \\mathrm { H z }$ ,7.13 (s, 1H),2.78 (d,2H, $J { = } 7 . 5 3 \\mathrm { H z }$ ),1.86 (s,1H),0.89-1.55 (m,15H;Figure 3). Elemental analysis:calculated (calcd) for $\\mathrm { C } _ { 1 2 } \\mathrm { H } _ { 2 0 } \\mathrm { S }$ ，196,C, $7 3 . 4 7 \\%$ ；H， $1 0 . 2 \\%$ found: C, $7 4 . 2 0 \\%$ H， $1 1 . 3 1 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebde9e25a2e980033a201318b159b55e314a9b45aeb86d382894d4722bc1a293.jpg",
+        "img_caption": [
+            "Figure 2 The synthetic route for the synthesis of 3,4-di-( $5 ^ { \\prime }$ -isooctyl-2'- thienyl)-2,5-dibromothiophene (a-e，respectively means the intermediate compound of each step). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of 2-bromo-5-isooctyl-thiophene (b).For the synthesis of2-bromo-5- isooctyl-thiophene, $2 5 . 6 \\mathrm { g }$ of N-bromobutanimide (NBS）in $5 0 \\mathrm { m l }$ of N,NDimethylformamide (DMF)was added dropwise under darkness to a solution containing $2 4 \\mathrm { g }$ of ain DMF at $0 ^ { \\circ } \\mathrm { C }$ .The reaction mixture was stirred at room temperature for another $1 0 \\mathrm { { h } }$ and then poured into water.After extraction with methylene chloride,the organic phase was separated and dried over magnesium sulfate.The final pure product (colorless liquid) was obtained through vacuum distillation.( $^ { 2 8 } \\mathrm { g } ,$ yield: $8 0 \\%$ ） $^ 1 \\mathrm { H }$ NMR $( 4 0 0 \\mathrm { M H z } ,$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta \\ 7 . 1 9$ (s,1H, $J { = } 8 . 1 9 \\mathrm { H z } ,$ ,7.13 (s,1H),2.78(d,2H, $J { = } 7 . 5 3 \\mathrm { H z }$ ,1.86 (s,1H), $0 . 8 9 \\mathrm { - } 1 . 5 5$ (m,16H; Figure 4).Elemental analysis: calcd for $\\mathrm { C _ { 1 2 } H _ { 1 9 } S B r }$ ，275,C， $5 2 . 3 6 \\%$ H, $6 . 9 1 \\%$ ；found:C, $5 4 . 2 3 \\%$ H， $7 . 1 1 \\%$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/058e1fb1b8f3ba0a0f51e2188a4011ea19ff2f941901fafdf60fc5c880342852.jpg",
+        "img_caption": [
+            "Figure 3 $^ 1 \\mathsf { H }$ nuclearmagneticresonancespectrumof2-isocty-thiophene.AfullcolorversionofthisfigureisavailableatPolymerJouraonline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/216ffd08449eaf3a0741a3b24185bd9507fde7eb03779f431aac5adf5d0fd901.jpg",
+        "img_caption": [
+            "Figure $4 ^ { 1 } \\mathsf { H }$ nuclearmageticesoanespctruofbro5-soctyloeAfulersiooftisfgureisvalableatoleJuaolin "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/84bfebb35f10ccc04245330092c97f9cd0a4951ab4c8e47d1a44e35f0b1b30a4.jpg",
+        "img_caption": [
+            "Figure 5 $^ 1 \\mathsf { H }$ nuclear magnetic resonance spectrum of 3,4-di- $5 ^ { \\prime }$ -isooctyl-2'-thienyl)thiophene.Afull color versionof this figure isavailableat Polymer Journ& online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/839b2583a4090a332935659bc9b0d1548ff31581ab187a184cadef49e6f27fdd.jpg",
+        "img_caption": [
+            "Figure $6 ~ ^ { 1 } \\mathsf { H }$ nuclear magnetic resonance spectrum of 3,4-di-( $5 ^ { \\prime }$ -isooctyl-2'-thienyl)-2,5-dibromothiophene.A full color version of this figure isavailableal Polymer Journal online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Synthesisof3,4-di-( $\\mathbf { \\vec { \\nabla } } _ { 5 } { \\mathrm { : } } \\mathbf { \\vec { \\mathbf { \\nabla } } } _ { }$ -isooctyl $\\cdot 2 ^ { \\circ }$ -thienyl)thiophene (d).Magnesium turnings $( 0 . 4 1 6 \\mathrm { g } ,$ $1 7 . 3 4 \\mathrm { m m o l }$ ）and a catalytic amount of iodine were added to a solution of b $( 4 . 7 7 \\mathrm { g } , 1 7 . 3 4 \\mathrm { m m o l }$ ）indry tetrahydrofuran( $\\mathrm { 1 5 m l } ,$ . The resulting mixture was stirred at $6 5 ^ { \\circ } \\mathrm { C }$ for $^ { 3 \\mathrm { h } }$ to obtain c. The Grignard reagent was slowly transferred to a solution of 3,4-dibromothiophene $( 0 . 9 3 2 { \\mathrm { g } } , 3 . 8 5 { \\mathrm { m m o l ) } }$ and $\\mathrm { { N i } ( d p p p ) \\mathrm { { C l } _ { 2 } } }$ 0 $2 \\mathrm { m o l } \\%$ ， $4 2 \\mathrm { m g } )$ ）in dry tetrahydrofuran $\\mathrm { ( 1 0 m l ) }$ .After stirring for $2 0 \\mathrm { h }$ at $7 5 ^ { \\circ } \\mathrm { C } ,$ the reaction was quenched with $2 \\mathrm { v } \\mathrm { H C l }$ .Then,the reaction mixture was extracted with $\\mathrm { C H C l } _ { 3 }$ ，and the extract was washed with brine and dried over $\\mathrm { N a _ { 2 } S O _ { 4 } }$ ，The residue was purified using column chromatography with pure hexane as eluent to yield the target compound as a light yellow liquid.( $\\mathrm { 1 . 0 8 g , }$ yield: $6 0 \\%$ ） $^ 1 \\mathrm { H }$ NMR ${ } ^ { \\cdot } 4 0 0 \\mathrm { M H z }$ $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 7 . 2 3$ (s,2H, $J { = } 8 . 5 1 \\mathrm { H z }$ ,6.75(d，2H， $J { = } 8 . 1 9 \\mathrm { H z } ,$ ,6.68 (s,2H),2.78 (d,4H, $J { = } 7 . 5 3 \\mathrm { H z } ,$ ， $1 . 8 6 ( s , \\ 2 \\mathrm { H } )$ ，0.89-1.55 $\\mathrm { ~ m } , ~ 3 0 \\mathrm { H }$ ：Figure5).Elementalanalysis: calcd for $\\mathrm { C } _ { 2 8 } \\mathrm { H } _ { 4 0 } \\mathrm { S } _ { 3 }$ ，472,C, $7 1 . 1 9 \\%$ ; H, $8 . 4 7 \\%$ ； found: C, $7 4 . 3 2 \\%$ ；H, $9 . 1 1 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f85d00e1707bf3c36dfb43c9a9dd4fb85514576ad818421058a4bb21475ef3a.jpg",
+        "img_caption": [
+            "Figure 7 The synthetic route for the synthesis of polymers P1-P3. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Synthesis of I3T (e)．NBS $( 0 . 4 6 2 \\mathrm { g } , 2 . 2 5 \\mathrm { m m o l } )$ was added to a solution of d $( 0 . 5 2 \\mathrm { g } , 1 . 1 1 \\mathrm { m m o l } )$ in $\\mathrm { C H C l } _ { 3 }$ 0 $\\mathrm { 1 5 m l } ,$ ,and the resulting mixture was stirred at $0 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { m i n }$ ，The reaction mixture was poured into water,extracted with $\\mathrm { C H C l } _ { 3 }$ and then dried over $\\mathrm { N a } _ { 2 } \\mathrm { S O } _ { 4 }$ 、After the evaporation of the solvent, the crude product was purified using column chromatography with pure hexane as eluent to yield the target compound as a yellow liquid.( $0 . 5 5 { \\mathrm { g } } { \\mathrm { . } }$ yield: $9 0 \\%$ ） $^ 1 \\mathrm { H }$ NMR( $_ { \\mathrm { 4 0 0 M H z } }$ 0 $\\mathrm { C D C l } _ { 3 }$ ） $\\delta 6 . 7 5$ (s,2H, $J { = } 8 . 1 9 \\mathrm { H z }$ ),6.68 (s,2H),2.78(d,4H, $J { = } 7 . 5 3 \\mathrm { H z } ,$ ， $1 . 8 6 ( s , \\ 2 \\mathrm { H } )$ ,0.89-1.55 (m,30H;Figure 6).Elemental analysis: calcd for $\\mathrm { C } _ { 2 8 } \\mathrm { H } _ { 3 8 } \\mathrm { S } _ { 3 } \\mathrm { B r } _ { 2 }$ ,630,C, $5 3 . 3 3 \\%$ H, $6 . 0 3 \\%$ ; found: C, $5 4 . 3 3 \\%$ ；H, $7 . 5 2 \\%$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Synthesis ofI3T-based polymers ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Three polymers were prepared using the same procedure as coupling dibromide compounds with bis(tributylstannyl)-substituted compounds via the Stille coupling reaction. $^ { 5 , 5 ^ { \\prime } }$ -bis(tributylstannyl)- $^ { \\cdot 2 , 2 ^ { \\prime } }$ -dithienyl,4,7-bis(5-(tributylstannyl))thiophen-2-yl)benzo[c][1,2,5]thiadiazole and 2,5-bis(tributylstannyl) thieno[3,2-b]thiophene were obtained from the Derthon Optoelectronic Materials Science and Technology (Shengzhen,China).Figure 7 shows the synthetic routes of the polymers P1-P3. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One millimole of the dibromide compound, $1 . 0 \\mathrm { m m o l }$ of the bis(tributylstannyl)-substituted compound and $5 0 \\mathrm { m l }$ of toluene were placed into a threenecked flask that was then placed into an oil bath.The solution was flushed with nitrogen for $1 0 \\mathrm { m i n }$ ,and then $2 0 \\mathrm { m g }$ of $\\mathrm { P d } ( \\mathrm { P P h } _ { 3 } ) _ { 4 }$ was added to the flask. The solution was flushed again for $2 0 \\mathrm { m i n }$ .The reaction mixture was stirred at $1 2 0 ^ { \\circ } \\mathrm { C }$ for $2 0 \\mathrm { h }$ under a nitrogen atmosphere.Then, the mixture was cooled to room temperature,and the polymer was precipitated by the addition of $1 0 0 \\mathrm { m l }$ of methanol and filtered through a soxhlet thimble.The filtered polymer was subjected to soxhlet extraction with methanol,hexane and chloroform, successively,and then recovered as a solid sample from the chloroform fraction by rotary evaporation.The solid was dried under vacuum for 1 day to obtain the final product. The polymerization reaction yield was $\\sim 4 0 \\text{‰}$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Poly[3,4-di- ${ } ^ { \\prime } 5 ^ { \\prime }$ -isooctyl $\\cdot 2 ^ { \\prime }$ -thienyl)-2,5-thiophene- $( 2 , 2 ^ { \\prime }$ -dithienyl)] $( P l )$ ， $\\mathrm { ^ { 1 } H \\ N M R }$ $\\mathrm { ( C D C l _ { 3 } }$ p.p.m.): $\\delta \\ : 0 . 8 9$ (m, $\\begin{array} { r } { - \\mathrm { C H } _ { 3 } \\mathrm { , } } \\end{array}$ ,1.25-1.96 (m， $. \\mathrm { C H } _ { 2 } .$ ),1.88 (s, $( \\mathrm { C H } _ { 2 } ) _ { 3 } \\mathrm { C H }$ ） 6.63-7.40 (d, thienyl-H).Elemental analysis: calcd for $( \\mathrm { S } _ { 5 } \\mathrm { C } _ { 3 6 } \\mathrm { H } _ { 4 2 } ) _ { \\mathrm { n } } ,$ $( 6 3 4 ) _ { \\mathrm { n } }$ calcd: C， $6 8 . 1 4 \\%$ H， $6 . 6 2 \\%$ ；found: $\\mathrm { { C , } }$ $6 5 . 6 \\%$ ；H， $6 . 3 3 \\%$ GPC: $M _ { \\mathrm { w } } { = } 6 3 . 3 \\mathrm { K } ,$ $M _ { \\mathrm { n } } { = } 3 5 . 2 \\mathrm { K } ,$ $\\mathrm { P D I } { = } 1 . 8 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Poly{3,4-di-( $\\overrightarrow { 5 }$ -isooctyl-2'-thienyl)-2,5-thiophene-[4,7-(2-dithienyl)-2,1,-ben-zothiadiazole]} $( P 2 )$ ： $^ 1 \\mathrm { H }$ NMR $( \\mathrm { C D C l } _ { 3 } .$ p.p.m.): $\\delta \\ 0 . 8 9$ (m， $\\cdot \\mathrm { C H } _ { 3 } ^ { \\cdot }$ ),1.25-1.94(m， $. { \\mathrm { C H } } _ { 2 ^ { - } }$ )，1.88(s， $( \\mathrm { C H } _ { 2 } ) _ { 3 } \\mathrm { C H } )$ ，6.83-7.73 (d,phenyl-H)，7.80 (d,2H,aromatic-H).Elemental analysis: calcd for $( \\mathrm { S } _ { 6 } \\mathrm { C } _ { 4 2 } \\mathrm { H } _ { 4 4 } \\mathrm { N } _ { 2 } ) _ { \\mathrm { n } } ,$ $( 7 6 8 ) _ { \\mathrm { n } }$ calcd: C,$6 5 . 6 3 \\%$ ；N, $3 . 6 5 \\%$ H, $5 . 7 3 \\%$ ；found:C, $6 3 . 6 3 \\%$ ；N, $4 . 1 5 \\%$ ；H, $4 . 7 3 \\%$ GPC:$M _ { \\mathrm { w } } { = } 8 3 . 4 \\mathrm { K }$ $M _ { \\mathrm { n } } { = } 4 1 . 7 \\ : \\mathrm { K }$ 5 $\\mathrm { P D I } = 2 . 0 0$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Poly[3,4-di-( $\\overrightarrow { 5 }$ -isooctyl ${ \\boldsymbol { \\cdot } } { \\boldsymbol { 2 } } ^ { \\prime }$ -thienyl)-2,5-thiophene-(thieno[3,2-b]thiophene)] （204号 $( P 3 )$ ： $^ 1 \\mathrm { H }$ NMR $( \\mathrm { C D C l } _ { 3 }$ p.p.m.): $\\delta \\ 0 . 8 9$ (m， $. { \\mathrm { C H } } _ { 3 } $ ),1.25-1.96 (m, $\\begin{array} { r } { - \\mathrm { C H } _ { 2 ^ { - } } , } \\end{array}$ ）， 1.88 (s, $( \\mathrm { C H } _ { 2 } ) _ { 3 } \\mathrm { C H } ;$ ，6.83-7.73（ ${ \\bf \\dot { m } } ,$ thienyl-H).Elemental analysis:calcd for （204 $( \\mathrm { S } _ { 5 } \\mathrm { C } _ { 3 4 } \\mathrm { H } _ { 4 0 } ) _ { \\mathrm { n } } ,$ （2 $( 6 0 8 ) _ { \\mathrm { n } }$ calcd: C, $6 7 . 1 1 \\%$ H， $6 . 5 8 \\%$ found:C, $6 5 . 1 1 \\%$ H, $5 . 9 8 \\%$ GPC: $M _ { \\mathrm { w } } = 1 2 1 . 5 \\ : \\mathrm { K } .$ $M _ { \\mathrm { n } } { = } 4 9 . 2 \\mathrm { K } ,$ $\\mathrm { P D I } = 2 . 4 7$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a9288ccbcd86008b28a78a43b5f591a1e8186023bf1bad148fad4f5eace02c2.jpg",
+        "img_caption": [
+            "Figure8 Thermogravimetric analysis(TGA)curves of the polymers.A full color versionof this figure isavailableat PolymerJournal online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RESULTSANDDISCUSSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thermostability ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Asrevealed by the thermogravimetric analysis curves (Figure 8), thermogravimetricanalysisofthepolymersexhibitedan apparent degradation at 304,24l and $3 1 2 ^ { \\circ } \\mathrm { C }$ for P1,P2 and P3, respectively,with a weight loss of $\\sim 5 \\%$ under nitrogen protection. These 3,4-dithienyl-substituted thiophene-based polymers showed relatively poor thermal stability compared with the reported materials $( 2 8 2 \\mathrm { - } 4 4 8 ^ { \\circ } \\mathrm { C } )$ .16 This is likely due to the introduction of ethylene groups along the backbone of the reported materials resulting in better rigid coplanarity, leading to a higher thermal decomposition temperature than that of the synthesized polymers.Nevertheless,the thermal stability of the three polymers investigated is adequate for their application in PSCs and other optoelectronic devices in the general environment. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Optical properties ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 9 shows the normalized absorption spectra of these three polymers in a $\\mathrm { C H C l } _ { 3 }$ solution and their corresponding spin-coated films on quartz substrates.The results from the absorption spectra are summarized in Table 1.Among them, the UV-vis spectrum in P2 films exhibit the lowest energy absorption edge at a longer wavelength than that of Pl and P3,and the $\\lambda _ { \\mathrm { e d g e } }$ of P2 is $7 6 5 \\mathrm { n m }$ .The low energy absorption edge is attributed to P2 with its alternated donor and acceptor in the main chain,which could induce an intermolecular charge transfer along the conjugated chain.This is good for UV-vis absorption,whereas Pl and P3 do not have such structures.The UVvis spectra of P3 show a $\\lambda _ { \\mathrm { e d g e } } = 6 5 3 \\mathrm { n m }$ in the film,a little longer than that of P1 $( \\lambda _ { \\mathrm { e d g e } } = 6 0 6 \\mathrm { n m } )$ . The thieno[3,2-b]thiophene unit in P3 has a better coplanarity than the $^ { 2 , 2 ^ { \\prime } }$ -dithienyl unit in Pl as shown in Figure 10,which presents a wider UV-vis absorption spectra than that of P1.Thus,we can conclude that incorporating the electron-acceptor unit into the polymer chain can lower the polymer band gap effectively. The geometry optimization structures of polymers $( n = 2 )$ by computer simulation as shown in Figure lO indicate that P2 has the best coplanarity with a dihedral angle of $1 5 4 ^ { \\circ }$ ，andPl andP3have similar dihedral angles of $1 2 5 ^ { \\circ }$ and $1 3 0 ^ { \\circ }$ ,respectively.All calculations were performed with the Gaussian O3 program (Wallingford,CT, USA).The geometries of the oligomers were optimized ata Restricted Hartree-Fock (RHF) level using a semi-empirical AM1 method. Thus, we can conclude that the greater the coplanarity,the more the polymer chain is sufficient for the reduction of the band gap.In addition,it should be noted that although 3,4-dithienyl-substituted thiophene displays a better coplanarity than that of the 3-position thiophene unit,there is a severe steric hindrance between thienyls. Figure lO shows that the thienyls on the 3,4-position frequently twist and do not maintain a good coplanarity,which results in a reduction in the limiting band gap.The Pl and P3 band gaps are close to that of the poly(3-alkylthiophene) derivatives. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccc0253abb805fc07d663fe125291c6e5189d38dfac130c3bf2df77158897808.jpg",
+        "img_caption": [
+            "Figure9 Ultraviolet-visible absorption spectra of polymers P1-P3ina ${ \\mathsf { C H C l } } _ { 3 }$ solution (a)and as thin films (b).A full color version of this figure is availableat Polymer Journal online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f086d4f50ee73dd160e16ab12da22bb7031d7cdff7e2a538fee50b3d4666a53.jpg",
+        "table_caption": [
+            "Table1 Optical data for P1-P3in dilute $C H C l _ { 3 }$ solutions and in the solid films "
+        ],
+        "table_footnote": [
+            "aEstimated from the intersection of the fitting a tangent on the low energetic edge of the $\\mathsf { E } _ { \\mathsf { g } } ^ { \\mathsf { o p t } } { = } 1 2 4 0 / \\lambda _ { \\mathsf { e d g e } }$ "
+        ],
+        "table_body": "<html><body><table><tr><td>Polymer</td><td colspan=\"2\">λmax (nm)</td><td colspan=\"2\">aNonset (nm)</td><td>b Eopt (eV)</td></tr><tr><td></td><td>Solution</td><td>Film</td><td>Solution</td><td>Film</td><td></td></tr><tr><td>P1</td><td>495</td><td>498</td><td>604</td><td>606</td><td>2.05</td></tr><tr><td>P2</td><td>570</td><td>612</td><td>727</td><td>765</td><td>1.62</td></tr><tr><td>P3</td><td>500</td><td>526</td><td>610</td><td>653</td><td>1.89</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows that the spectra of all the polymers in the solid-state films are red-shifted compared with their corresponding absorption onset in solution.This phenomenon suggests that the polymer backbone in the solid-state has a more ordered interchain stacking compared with that in solution.20,21 The absorption band-edge of the polymer films extend to 606,765 and $6 5 3 \\mathrm { n m }$ ,which red-shift by2,38 and $4 3 \\mathrm { n m }$ compared with those in solution,respectively. Thus,the optical band gaps $( \\mathrm { E _ { g } ^ { \\ o p t } } )$ were calculated to be 2.05,1.62 and $1 . 8 9 \\mathrm { e V }$ for P1,P2 and P3,respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In summary,all these polymers show absorption bands between $3 0 0 { - } 8 0 0 \\mathrm { n m }$ with corresponding optical band gaps from 1.62 to $2 . 0 5 \\mathrm { e V }$ .Obviously, the wider absorption band and the lower optical band gap of the polymer are favorable to their application in PSCs. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical properties ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Electrochemical CV was performed to determine the highest occupied molecular orbital (HOMO）and lowest unoccupied molecular orbital (LUMO）energy levels of the synthesized polymers.Figure 11 shows the CV of the I3T-based polymer films on Pt electrodes in a 0.1 $\\mathrm { m o l l } ^ { - 1 }$ $\\mathrm { B u } _ { 4 } \\mathrm { N P F } _ { 6 }$ $\\mathrm { C H } _ { 3 } \\mathrm { C N }$ solution.From the onset oxidation potential $\\left( \\operatorname { E } _ { \\mathrm { o x } } \\right)$ and onset reduction potential $( \\mathrm { E _ { r e d } } )$ of the polymers, the HOMO and LUMO energy levels and the band gap $( \\mathrm { E _ { g } ^ { \\ e c } } )$ were calculated and are listed in Table 2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 11 shows the CV of the polymers P1,P2 and P3.The reductions are observed with an onset potential of $\\sim 1 . 2 1 \\mathrm { V }$ versus the saturated calomel electrode of P1, $0 . 8 9 \\mathrm { V }$ of P2 and $1 . 1 7 \\mathrm { V }$ of P3. Similarly,oxidations are observed with an onset potential at approximately-0.77,-0.84 and $- 0 . 6 8 \\mathrm { V }$ versus saturated calomel electrode of P1,P2 and P3,respectively. The HOMO and LUMO energy levels were calculated to be $- 5 . 6 1$ and $- 3 . 6 3 \\mathrm { e V }$ for $\\mathrm { P l } , - 5 . 2 9$ and $- 3 . 5 6 \\mathrm { e V }$ for P2 and $- 5 . 5 7$ and $- 3 . 7 2 \\mathrm { e V }$ for P3 via CV using the following empirical equations: $\\mathrm { H O M O } = - \\left( \\mathrm { E } _ { \\mathrm { o x } } 4 . 4 0 \\right)$ $ { ( \\mathrm { e V } ) }$ ， $\\mathrm { L U M O = - \\left( E _ { r e d } \\right. }$ $+ 4 . 4 0 )$ (eV).22 From the equation ${ \\mathrm { E } } _ { \\mathrm { g } } ^ { \\mathrm { ~ e c } } { = } \\mathrm { L U M O - H O M O }$ ，the band gap of the polymers P1-P3 were calculated to be 1.98,1.73 and $1 . 8 5 \\mathrm { e V }$ ，respectively.In addition,the discrepancy between the CV band gaps with the optical band gap of the polymers is likely due to the interface barrier for charge injection.23,24 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Photovoltaic properties ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bulk heterojunction PSCs were fabricated with a general device structure of I $\\mathrm { T O / P E D O T { : } P S S / P X ( x = 1 , 2 , 3 ) { : } P C _ { 7 1 } B M / C a / A l . }$ A mixed solvent of $o$ -dichlorobenzene and chloroform $( \\mathrm { V } / \\mathrm { V } = 1 / 1$ ）waschosen to dissolve the synthesized polymer sufficiently. The photoactive layers were prepared by spin coating the blend solution of $\\mathrm { P X } ( \\mathrm { x } = 1 , 2 , 3 )$ ： $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ dissolved in solvent.When the PEDOT:PSS was spin coated, the layer was annealed for $2 0 \\mathrm { m i n }$ at $1 4 0 ^ { \\circ } \\mathrm { C } ,$ and the active layer of the polymer and $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ blends were spin coated before being annealed at $1 2 0 ^ { \\circ } \\mathrm { C }$ for $1 0 \\mathrm { m i n }$ .The Ca and Al were deposited in an evaporator at $1 0 ^ { - 6 } \\mathrm { P a }$ ,and their performance was measured under $1 0 0 \\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/75aed620b5ce04159913e8bdf461e2b7291202fad9c095614cba221de514cd2a.jpg",
+        "img_caption": [
+            "Figure10GeometricalotimzatiostructursfplrsP2ndAfullolorversioofthisfigureisaableatlrouo "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/93542090967329c2f27894bea2586b8799cbf247df2b38af85fba06ea6416e75.jpg",
+        "img_caption": [
+            "Figure 11 Cyclic voltammograms of P1-P3.A full color version of this figure isavailableatPolymerJournalonline. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/c32ba4d4390e645bec24c92cf19232996c7dd4fe2cdcd1fcab35fded755fd472.jpg",
+        "table_caption": [
+            "Table2 Optical properties,electrochemical onset potentialsand electronic energy levels of P1-P3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>donset (nm)</td><td>Egopt (ev)</td><td>Eox (V)</td><td>HOMO (eV)</td><td>Ered (V)</td><td>LUMO (ev)</td><td>Egec (eV)</td></tr><tr><td>P1</td><td>606</td><td>2.05</td><td>1.21</td><td>-5.61</td><td>-0.77</td><td>-3.63</td><td>1.98</td></tr><tr><td>P2</td><td>765</td><td>1.62</td><td>0.89</td><td>-5.29</td><td>-0.84</td><td>-3.56</td><td>1.73</td></tr><tr><td>P3</td><td>653</td><td>1.89</td><td>1.17</td><td>-5.57</td><td>-0.68</td><td>-3.72</td><td>1.85</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5ee5aca8869ddb9c43e812e57b3f5a866a67fc1992bed2a11cea7ab2c0a6fa45.jpg",
+        "img_caption": [
+            "Figure 12 The J-V cures of the cells incorporating the polymers blended with $\\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ ina1:3 ratio.A full color version of this figure is available at Polymer Journal online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AM $1 . 5 \\mathrm { G }$ illumination.The ratio of polymer to $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ examined was between 1:l and 1:3 by weight,and the optimized conditions were 1:3 for all blends with a corresponding active layer thickness of $\\sim 2 3 0 \\mathrm { n m } ,$ as detected by an ellipsometer (Angstron Sun Technologies, Boston,MA,USA).To further improve the device performance,a small amount $( 2 \\mathrm { v o l } \\% )$ of dioxane,a high boiling point additive,was added to optimize the blend morphology.In addition, the inverted cell of $\\mathrm { F T O / T i O _ { 2 } / P 2 { : } P C _ { 7 1 } B M / M o O _ { 3 } / A g }$ was fabricated as described in section 2.3.The current density-voltage (J-V) curves of the polymer: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ devices are shown in Figure 12,and the photovoltaic parameters of the devices are summarized in Table 3. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Asshown in Figure l2 and Table 3,the conventional devices exhibit a short-circuit current density $( \\mathrm { J } _ { \\mathrm { s c } } )$ ,open-circuit voltage $\\mathrm { ( V _ { o c } ) }$ and fill factor(FF) in the $\\mathrm { P 1 { : } P C _ { 7 1 } B M }$ (1:3) solar cells of $2 . 1 7 \\mathrm { m A } \\mathrm { c m } ^ { - 2 }$ 5 $0 . 7 9 \\mathrm { V }$ and 0.47,respectively,resulting in an average power conversion efficiency (PCE）of $0 . 8 1 \\%$ for P1.Solar cells based on polymer P2 present a $\\mathrm { J } _ { \\mathrm { s c } }$ of $4 . 5 0 \\mathrm { m A } \\mathrm { c m } ^ { - 2 }$ a $\\mathrm { v _ { o c } }$ of $0 . 7 0 \\mathrm { V }$ ,aFFof 0.38 anda PCE of $1 . 2 2 \\%$ .Solar cells based on polymer P3 show a $\\mathrm { J } _ { \\mathrm { s c } }$ of $3 . 2 6 \\mathrm { m A c m } ^ { - 2 }$ a $\\mathrm { V _ { o c } }$ of $0 . 8 5 \\mathrm { V }$ ,aFFof0.32andaPCE of $0 . 9 1 \\%$ .Asdescribed above, solar cells based on polymer P2 exhibit the best PCE due to its excellent $\\mathrm { \\Delta J _ { s c } }$ Comparison of the absorption profiles of P2 with that of Pl and P3 suggest that the enhanced current density could be,in part, due to an increased light absorption at longer wavelengths of P2 as shown in Figure 9.Comparing P3 and Pl,solar cells based on P3 show a better PCE than that of Pl,attributed to a better light absorption and bigger $\\mathrm { V _ { o c } }$ 、In addition,we should note that solar cells based on P2 present the smallest $\\mathrm { \\Delta V _ { o c , } }$ ascribed to the relative higherlying HOMO energy level of P2. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9206fc352fb3794874ff3a2e36d1b82022e2801e8b167a66bfdf6f917eaabf2e.jpg",
+        "table_caption": [
+            "Table3 Photovoltaic performance of polymers under the illumination of 1.5 AM with $2 \\%$ DIO as additives "
+        ],
+        "table_footnote": [
+            "Abbreviations:DlO,dioxane;FF,fill factor;PCE，power conversion efficiency. DIO was used as additive to improve the morphology of the films. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"7\"></td></tr><tr><td>Polymer</td><td>DIO (vol%)</td><td>Jsc (mA cm-2)</td><td>Voc (V)</td><td>FF (%)</td><td>PCE (%)</td><td>Configuration</td></tr><tr><td>P1</td><td>2</td><td>2.17</td><td>0.79</td><td>47.2</td><td>0.81%</td><td>Conventional</td></tr><tr><td>P2</td><td>2</td><td>4.50</td><td>0.70</td><td>38.7</td><td>1.22%</td><td>Conventional</td></tr><tr><td>P2</td><td>2</td><td>7.58</td><td>0.64</td><td>30.4</td><td>1.47%</td><td>Invert</td></tr><tr><td>P3</td><td>2</td><td>3.26</td><td>0.85</td><td>32.8</td><td>0.91%</td><td>Conventional</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To further increase the PCE,P2 was selected to fabricate the inverted device. The inverted device configuration of $\\mathrm { F T O / T i O _ { 2 } / P 2 }$ $\\mathrm { P C _ { 7 1 } B M / M o O _ { 3 } / A g }$ with a 1:3 $( \\mathrm { P 2 } { \\mathrm { : P C } } _ { 7 1 } \\mathrm { B M } )$ blend ratio was annealed at $1 2 0 ^ { \\circ } \\mathrm { C }$ and contained $2 \\%$ DIO additives.The results showa PCE of $1 . 4 7 \\%$ with a $\\mathrm { v _ { o c } }$ of $0 . 6 4 \\mathrm { V } _ { \\mathrm { i } }$ a $\\mathrm { J _ { s c } }$ of $7 . 5 8 \\mathrm { m A c m } ^ { - 2 }$ ,and $3 0 . 4 \\%$ of FF as shown in Figure 12 and Table 3.When compared with the conventionalconfiguration $\\mathrm { ( I T O / P E D O T { : } P S S / P 2 { : } P C _ { 7 1 } B M / C a / A l ) }$ the inverted configuration exhibited a higher PCE that can be attributed to the improved $\\mathrm { \\Delta J _ { s c } }$ 1 $\\left( 7 . 5 8 \\mathrm { m A } \\mathrm { c m } ^ { - 2 } \\right.$ Vs $4 . 5 0 \\mathrm { m A } \\mathrm { c m } ^ { - 2 } .$ ） The improved $\\mathrm { J } _ { \\mathrm { s c } }$ might be due to the higher light absorption of the $\\mathrm { T i O } _ { 2 }$ nanoparticles and the close energy alignment between the work function of $\\mathrm { M o O } _ { 3 }$ and the HOMO energy levels of the polymer in the inverted configuration. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In conclusion,solar cells based on P2 exhibited the highest PCE among the three PSCs in the conventional device configuration. This property of P2 may be due to its wide absorption range,which results in the largest $\\mathrm { J } _ { \\mathrm { s c } }$ of $4 . 5 0 \\mathrm { m A } \\mathrm { c m } ^ { - 2 }$ . P3 displays a wider absorption range than P1,which results in a better PCE ( $0 . 9 1 \\%$ VS $0 . 8 1 \\%$ ).Thus,we can conclude that the band gap of the polymer has an important role in the performance of PSCs.Both the conventional device and inverted device are configured by P2,and the results show that the PCE of the inverted solar cell device is higher than that of the conventional device. The improved effciency of the inverted device might be due to the higher light absorption of the $\\mathrm { T i O } _ { 2 }$ nanoparticles and the close energy alignment between the work function of the $\\mathrm { M o O } _ { 3 }$ and the HOMO energy levels of the polymer in the inverted configuration,25 facilitating increased light absorbance and improved charge transport. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hole and electron mobility ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The hole and electron mobilities of the active layer films based on all copolymers were investigated by the space-charge-limited current model,with a device structure of ITO/PEDOT:PSS/PX( $\\mathrm { \\Phi } _ { \\cdot x = 1 , 2 , 3 } \\mathrm { \\cdot }$ ： $\\mathrm { P C } _ { 7 1 } \\mathrm { B M } / \\mathrm { A u } ^ { 2 6 }$ for hole-only devices，and ITO/Al/ $\\mathrm { P X } ( x = 1 , 2 , 3 ) .$ ） $\\mathrm { P C _ { 7 1 } B M / C a } / \\mathrm { A l } ^ { 2 7 }$ for electron-only devices. According to the following formula modified from Mott-Gurney's Law: $J { = } ( 9 / 8 ) \\varepsilon _ { 0 } \\varepsilon _ { \\mathrm { r } } \\mu ( \\mathrm { V } ^ { 2 } / \\mathrm { d } ^ { 3 } )$ 5 where J is the current, $\\varepsilon _ { \\mathrm { o } }$ is the permitivity of free space $( 8 . 8 5 \\times 1 0 ^ { - 1 2 }$ （204号 $\\mathrm { C V } ^ { - 1 } { \\mathsf { S } } ^ { - 1 } ,$ , $\\varepsilon _ { \\mathrm { r } }$ is the dielectric constant of the polymer with an assumed value of $3 . 0 , \\mu$ is the charge mobility,V is the voltage drop across the device $\\mathrm { ( V = V _ { a p p l } - V _ { b i } - V _ { s } ) _ { \\Omega } }$ ，and d is the active layer's thickness.The hole and electron mobilities can be calculated from the slope of the $\\boldsymbol { \\mathrm { J ^ { 1 / 2 } } } \\mathrm { { \\sim } } \\boldsymbol { \\mathrm { V } }$ curves as shown in Figure l3. The hole and electron mobilities are summarized in Table 4.The hole mobility of all copolymers was moderate given the photovoltaic donor material in PSCs.28 ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/87b16f9b09edbf6312ff2bdad2f01d574fa44f44bcece9d6110b51b22b4e892a.jpg",
+        "img_caption": [
+            "Figure 13 $\\mathsf { J } ^ { 1 / 2 } { \\sim } \\mathsf { V }$ characteristics of (a) the hole-only and (b) electron-only devices based on $\\mathsf { P } \\mathsf { X } ( x = 1 , 2 , 3 ) \\colon \\mathsf { P C } _ { 7 1 } \\mathsf { B M }$ blended films.A full color version of this figure isavailable at PolymerJournal online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/c40991c0d922d900561ecb6b5dbe045b1f7bf7d6dd49edd9af1d4ad5d37eded5.jpg",
+        "table_caption": [
+            "Table 4 The hole and electron mobilities of P1,P2 and P3 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Copolymer</td><td>μh (cm² v-1 S-1)</td><td>μe (cm² V-1 s-1)</td></tr><tr><td>P1</td><td>3.00×10-6</td><td>2.90×10-6</td></tr><tr><td>P2</td><td>4.43×10-5</td><td>2.89×10-5</td></tr><tr><td>P3</td><td>2.39×10-6</td><td>7.08×10-6</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Morphology ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The morphology of the active layer is a key requirement for achieving a high PCE.29,30 The morphological features of the photoactive layers were investigated using tapping-mode atomic force microscopy. The atomic force microscopy topographies are shown in Figure l4.It could be observed that all of the $\\mathrm { P X } ( x { = } 1 , 2 , 3 ) { \\mathrm { : P C } } _ { 7 1 } \\mathrm { B M }$ blends exhibit moderately homogeneous films with no large phase separation, indicating that all of them have a good miscibility with $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ All three active layers displayed no clear phase separation,and the P2: $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ blend film exhibited the highest photovoltaic performance in all copolymers-based PSCs,attributed to its superior light absorption and smooth surface. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a492246c22fe1ae105ece153b97d8467c6a4840aeac7f9cdb4f913180a8d3c88.jpg",
+        "img_caption": [
+            "igure14Tapping-modeatomicforcemicroscopytopographyimages(top）andphaseimages（bottom）oftheactivelayerfilms:(a) $\\mathsf { P 1 / P C } _ { 7 1 } \\mathsf { B M }$ 》 ${ \\mathsf { P } } 2 / { \\mathsf { P C } } _ { 7 1 } { \\mathsf { B M } }$ and (c) $\\mathsf { P 3 / P C _ { 7 1 } B M }$ 、Afull color version of this figure isavailableat Polymer Journal online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Three new copolymers based on an I3T unit were designed and synthesized successfully in this paper.Their thermal,optical,electronic and photovoltaic properties were comprehensively characterized. Among the three copolymers，P2 exhibited the smallest band gap of $1 . 6 2 \\mathrm { e V }$ ，which was ascribed to its polymer chain with a donor-accepter structure.Both Pl and P3 showed similar band gaps (2.05 and $1 . 8 9 \\mathrm { e V }$ ）due to their similar molecular structures.Although the 3,4-dithienyl-substituted thiophene has a better coplanarity than the 3-position thiophene unit,severe steric hindrance between the thienyls results ina lowerand limited band gap.The band gaps of P1 and P3 are similar to those of the poly(3-alkylthiophene) derivatives. Copolymers blended with $\\mathrm { P C } _ { 7 1 } \\mathrm { B M }$ were used as the active layers to fabricate PSCs,and thermal annealing was employed in the presence of additives to optimize device performance.For the conventional device of $\\mathrm { I T O / P E D O T { : } P S S / P X } ( x = 1 , 2 , 3 ) { \\mathrm { : } } \\mathrm { P C } _ { 7 1 } \\mathrm { B M / C a / A l } ,$ P2 exhibited the best PCE of $1 . 2 2 \\%$ .Comparing the conventional device with the inverted device of P2,the PCE of the inverted solar cell based on P2 was higher than that of its corresponding conventional device （ $1 . 4 7 \\%$ VS $1 . 2 2 \\%$ ).The enhancement of the PCE might be due to the higher light absorption of $\\mathrm { T i O } _ { 2 }$ nanoparticles and the close energy alignment between the work function of the $\\mathrm { M o O } _ { 3 }$ and the HOMO energy levels of P2,facilitating increased light absorption and better charge transport. These results might supply useful information to understand the relationship between the molecular structure,device configuration and photovoltaic properties of PSCs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONFLICTOFINTEREST ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no conflict of interest. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The present research was financially supported by the Ningbo Natural Science Foundation (20l5A6l0238） and China Postdoctoral Science Foundation funded project (2013M531485). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10 McCullough,R.D.,Lowe,R.D.,Jayaraman,M.& Anderson,D.L.Design,synthesis, and control of conducting polymer architectures:structurally homogeneous poly(3- alkylthiophenes).J.Organ. Chem.58, 904-912 (1993).   \n11Koster,L.J.A.，Mihailetchi,V.D.& Blom,P.W.M. UItimate efficiency of polymer/ fullerene bulk heterojunction solar cell.Appl.Phys. Lett88,O93511 (2006).   \n12 Chen,T.-A.,Wu,X.& Rieke,R.D. Regiocontrolled Synthesis of Poly(3-alkylthiophenes) Mediated by Rieke Zinc:Their Characterization and Solid-State Properties.J.Am. Chem. Soc.117,233-244 (1995).   \n13 Saunders,B.R.& Turner,M.L.Nanoparticle-polymer photovoltaic cells.Adv.Colloid Interface Sci.138,1-23 (2008).   \n14 Bundgaard,E.& Krebs,F.C.Low-band-gap conjugated polymers based on thiophene, benzothiadiazole,and benzobis(thiadiazole).Macromolecules39,2823-2831(2006).   \n15 Bundgaard,E.& Krebs,F.C.Low band gap polymers for organic photovoltaics.Sol. Energy Mater. Sol.Cell91,954-985 (2007).   \n16 Geeta,S.& Josemon,J. Synthesis and characteriazation of 3,4-diaryl-substituted polythiophene derivatives.Polym. Int.60,101O-1015 (2011).   \n17 Theander,M.,Inganas,O.,Mammo,W.,Olinga,T.,Svensson,M.& Andersson,M.R.J. Phys. Chem.B103,7771-7780 (1999).   \n18 Johansson,T.，Mammo,W.，Svensson，M.，Andersson，M.R.& Inganas,O.Electrochemicalbandgaps ofsubstitutedpolythiophenes.J.Mater.Chem. 13, 1316-1323 (2003).   \n19 Peng,R.,Yang,F.,Ouyang,X.，Liu,Y.,Kim,Y.S.& Ge,Z.Enhanced photovoltaic performance of inverted polymer solar cells by tuning the structures of titanium dioxide. Thin Solid Films 545,424-428 (2013).   \n20 Munazza,S.,Raja,S.A., Elisabeth,K.& Steffi, S.Synthesis and properties of novel low-band-gap thienopyrazine-based poly(heteroarylenevinylene)s.Macromloecules39, 7844-7853 (2006).   \n21 Kristof,C.,Sofie,F.,Thomas,J.C.,Laurence,L., Jan,G.& Dirk,V. Low band gap donor-acceptor conjugated polymers toward organic solar cells applications.Macromolecules40,65-72 (2007).   \n22 De Lceuw,D.M., Simenon,M.M.J.,Brown,A.R.& Einerhand,R.E.F.Stability of n-type doped conducting polymers and consequences for polymeric microelectronic devices.Synth.Met.87,53-59 (1997).   \n23 Janietz,S.，Bradley，D.D.C.,Grell,M.,Giebeler,C.,Inbasekaran,M.& Woo,E.P. Electrochemical determination of the ionization potential and electron affinity of poly (9,9-doctylfluorene).Appl.Phys. Lett.73,2453 (1998).   \n24 Chen, Z.-K., Huang,W.,Wang,L.-H., Kang, E.-T.,Chen,B.J., Lee, C.S.& Lee,S.T.A family of electroluminescent silyl-substituted poly(p-phenylenevinylene)s:synthesis, characterization，andstructure-propertyrelationships.Macromolecules33, 9015-9025 (2000).   \n25 Chen，Y.，Chang，C.，Cheng，Y.& Hsu，C．Synthesis of a new ladder-type benzodi(cyclopentadithiophene）arene withforcedplanarizationleadingt Oanenhancedefficiencyoforganicphotovoltaics.Chem.Mater.24, 3964-3971 (2012).   \n26 Zhang,M.,Guo,X.& Li,Y.Photovoltaic performance improvement of D-A copolymers containing bithiazole acceptor unit by using bithiophene bridges.Macromolecules 44, 8798-8804 (2011).   \n27 Zhou,H., Zhang,Y.,Seifter,J.,Colins, S.D.,Luo,C.,Bazan,G.C.,Nguyen,T. Q.& Heeger,A.J.High-efficiency polymer solar cells enhanced by solvent treatment.Adv. Mater.25,1646-1652 (2013).   \n28 Yang,M.,Chen,X., Zou,Y.,Pan, C., Liu, B.& Zhong,H.A solution-processable D-A-D small molecule based on isoindigo for organic solar cells.J.Mater.Chem.48, 1014-1020 (2013).   \n29 Zheng,Q.,Jung,B.,Sun,J.& Katz,H.E.Ladder-typer oligo-p-phenylene-containing copolymers with high open-circuit voltages and ambient photovoltaic activity.J.Am. Chem.Soc.132,5394-5404 (2010).   \n30 Li,D.,Qian,G.& Wang,Z.Synthesis and characterizations of conjugated copolymers containing benzo[fJisoindole-1,3-dione and diketopyrrolopyrrole units.Polymer 54, 5543-5552 (2013). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

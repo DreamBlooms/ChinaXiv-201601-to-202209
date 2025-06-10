@@ -1,0 +1,198 @@
+# 新疆旅游经济网络特征的时空演变研究
+
+基于修正的引力模型及社会网络分析王松茂1²，徐宣国²，马江涛³，王艳威4
+
+1复旦大学工商管理博士后流动站,上海200433；2 山东农业大学经管学院,山东泰安271018；3新疆工程学院信息工作学院,新疆乌鲁木齐830023；4新疆师范大学地理科学与旅游学院,新疆乌鲁木齐830054)
+
+摘要：通过构建“旅游综合质量”评价指标，继而将引力模型进行修正以衡量各区域间旅游经济联系度并运用社会网络分析方法探究了2008—2017年新疆15个地州旅游经济的空间网络特征。结果表明：（1）2008—2017年间，新疆旅游经济关联网络密度的均值仅为0.356、网络效率均值为0.718、网络等级度均值为0.367。（2）10a间，乌鲁木齐市、伊犁州直属、喀什地区、昌吉州、吐鲁番市等地属于度数中心度与中间中心度双高区域;阿勒泰地区、巴州等地属于度数中心度较高、中间中心度较低区域;克拉玛依市属于度数中心度较低，中间中心度较高区域;博州、和田地区、哈密地区、塔城地区、克州、阿克苏地区、石河子市等地属于度数中心度、中间中心度双低区域。（3）乌鲁木齐市、昌吉州、喀什地区、伊犁州直属、阿勒泰地区等地在研究时限内属于“双向溢出板块”;石河子市、克拉玛依市、巴州、吐鲁番市属于“经纪人板块”;博州、哈密地区、塔城地区属于“净受益板块”;阿克苏地区、克州、和田地区属于“主受益板块”。本文旨在丰富旅游经济网络研究视角，同时为新疆各地州旅游经济发展与合作提供量化依据。
+
+关键词：旅游综合质量；引力模型；旅游经济；社会网络分析；新疆
+
+# 文章编号：
+
+作为丝绸之路经济带上的重要通道、古丝绸之路的必经之地,新疆具有地域辽阔、旅游资源丰富、民族种类多样、文化差异显著等特征。近些年来，在中央提出“一带一路”倡议和自治区政府高度重视的背景下，新疆旅游业发展迅速，产业地位日益提升、综合带动效应显著，2017年，来疆的国内外游客为 $1 . 0 7 \times { { 1 0 } ^ { 8 } }$ 人次，旅游综合收入达到 $1 . 8 2 \times 1 0 ^ { 1 1 }$ 元。然而，在新疆旅游经济迅猛发展的同时，新疆各地州旅游经济发展却存在严重失衡问题。2017年，乌鲁木齐市的旅游综合收入高达 $4 . 5 0 \times 1 0 ^ { 1 0 }$ 元，而克孜勒苏柯尔克孜自治州仅为 $4 . 7 5 \times 1 0 ^ { 8 }$ 元,乌鲁木齐市人均旅游收入是克孜勒苏柯尔克孜自治州人均旅游收入的32.38倍①。目前有较多学者关注了新疆各地州间旅游经济发展差异及空间关联关系，但主要是从“相邻”或“相似”区域小尺度范围进行研究[1-2],从整体网络视角下探究新疆各个地州的旅游经济网络特征及区域角色的文献乏陈可数，从而导致各地州在旅游经济网络发展中的地位和作用仍是一个黑箱。鉴于此,本文运用2008一2017年新疆各地州旅游经济相关面板数据，首先构建“旅游综合质量"评价指标,继而借助修正的引力模型、社会网络等分析方法研究了新疆各地州旅游经济的空间网络特征，旨在为研究旅游经济提供新的视角，同时为新疆各地州旅游经济发展与合作提供量化依据。
+
+近年来，众多学者开始关注旅游目的地网络的结构特征及相互作用[3],在现有文献中,多数学者采用社会网络分析方法从不同的角度进行研究，如HWANG等[4]使用社会网络分析方法,研究了美国多个城市的旅游经济关联程度及网络特征;SHIH[5]地的中心性、结构洞等网络特征进行计算；SCOTT等[运用中心度指标研究了澳大利亚多种不同类型目的地之间的网络集聚程度;HONG等[7]首先构建两阶段的博弈模型，并借助块模型判断自驾游旅游目的地之间旅游流的关系；伴随着信息技术的发展,JUAN 等[8]首次运用照片共享和GIS 技术,结合社会网络方法，探索欧洲热点旅游城市和景区之间的耦合关系;汪德根[9]探索了高铁开通对沿线城市旅游流的时空变异规律;KATHRYN[10]将社会网络理论同旅游管理决策领域相结合，发现旅游地的网络密度与产业发展水平之间呈现较为明显的正相关关系;HAGEN[1]运用社会网络分析方法对国际合作组织之间体育旅游合作的状况进行了研究。
+
+通过梳理文献可知，运用社会网络分析方法研究目的地旅游经济空间关联的视角不断扩大，领域不断创新，但也存在不足。一、现有文献多是借助VAR格兰杰因果关系来判断区域间旅游经济关联度[12],但VAR模型构建的网络关系存在着不能分析时间变化趋势及难以将距离作为影响因素的缺点。有学者在确定区域间旅游经济关联度时借助牛顿引力模型，但忽略了区域间旅游经济可能存在差异性和方向性[13-14]。二、现有研究大多借助截面数据分析旅游经济网络特征，鲜有运用面板数据分析区域旅游经济网络特征的时间变化规律。为解决上使用问卷调查的方式，对台湾南部16个自驾车目的述不足，本文首先构建了“旅游综合质量”评价体系，继而将引力模型进行修正以确定区域间旅游经济关联度，最后运用社会网络分析探究了2008—2017年间新疆旅游经济发展演变规律及网络特征，为今后新疆区域旅游合作及区域经济一体化提供量化依据。
+
+# 7 研究方法及数据来源
+
+# 1.1 引力模型的修正
+
+目前学者运用牛顿引力模型来确定区域间旅游经济关联度，忽视了区域间旅游经济联系的差异性和方向性，且修正模型中考虑的旅游吸引力的影响因素较少[15-16]。基于此,本文对牛顿引力模型进行修正，公式如下：
+
+$$
+R _ { i j } = k _ { i j } \frac { M _ { i } \times M _ { j } } { D _ { i j } ^ { 2 } }
+$$
+
+式中： $R _ { i j }$ 为 $\mathbf { \chi } _ { i }$ 地区到 $j$ 地区的旅游空间联系度;$\frac { M _ { i } \times M _ { j } } { D _ { i j } ^ { 2 } }$ 为 $\mathbf { \chi } _ { i }$ 地区和 $j$ 地区之间的旅游引力； $M _ { i } \setminus M _ { j }$ 为$i$ 地区和 $j$ 地区的“旅游综合质量”。本文综合运用专家打分法和熵权法构建出“旅游综合质量”评价体系（表1）； $D _ { i j }$ 为两区域的空间距离，交通里程和交通时间均为测量交通距离的方式，当存在多种
+
+表1引力模型中“旅游综合质量"的评价指标及权重  
+Tab.1Evaluation index of“tourism comprehensive quality"   
+
+<html><body><table><tr><td>目标层</td><td>一级指标</td><td>二级指标</td><td>指标说明</td><td>权重</td></tr><tr><td></td><td>旅游资源质量(0.35)</td><td>3A级景区数量</td><td>1</td><td>0.0210</td></tr><tr><td></td><td></td><td>4A级景区数量</td><td>1</td><td>0.0345</td></tr><tr><td>旅</td><td></td><td>5A级景区数量</td><td>1</td><td>0.0377</td></tr><tr><td></td><td></td><td>国家非物质文化遗产数量</td><td>1</td><td>0.0179</td></tr><tr><td>游</td><td></td><td>国家自然保护区数量</td><td>一</td><td>0.0203</td></tr><tr><td></td><td></td><td>国家森林公园数量</td><td>一</td><td>0.0314</td></tr><tr><td>综</td><td></td><td>一类口岸开放数量</td><td>一</td><td>0.0298</td></tr><tr><td></td><td>旅游发展质量(0.35)</td><td>旅游综合收入</td><td>一</td><td>0.0255</td></tr><tr><td>合</td><td></td><td>旅游接待人数</td><td>一</td><td>0.0358</td></tr><tr><td></td><td></td><td>旅行社数量</td><td>一</td><td>0.0167</td></tr><tr><td>质</td><td>旅游支持质量(0.3)</td><td>星级酒店数量</td><td>1</td><td>0.0202</td></tr><tr><td></td><td></td><td>环境质量</td><td>全年空气质量优于二级的比例</td><td>0.0192</td></tr><tr><td></td><td></td><td>第三产业从业人数占比</td><td>1</td><td>0.0235</td></tr><tr><td>量</td><td></td><td>对外贸易开放程度</td><td>对外贸易收入与当地GDP的比值</td><td>0.0321</td></tr><tr><td></td><td></td><td>经济规模 旅游行业资金投入</td><td>当地GDP与全疆GDP的比值</td><td>0.015 6</td></tr></table></body></html>
+
+注：由于在公式1中有距离的影响，故该评价体系没有考虑当地旅游可进入性
+
+交通方式时，交通时间则难以表征，鉴于公路为新疆各地州间最常用的交通方式，且旅游出行选择公路交通的态势随着自驾游所占比例的增加逐渐增大，这里 $D _ { \it { i j } }$ 是电子地图上显示的两地区最短公路里程;笔者认为两个地区间的旅游经济联系度同万有引力定律相似，存在方向性和差异性，考虑到方向性和差异性主要受地区人口数量和经济收入的影响，引入参数 $k _ { i j }$ 体现两地区间旅游经济联系的方向性和差异性， $P _ { i }$ 为 $i$ 地区的人口; $G _ { i }$ 为 $\mathbf { \chi } _ { i }$ 地区的人均GDP;$P _ { j }$ 为 $j$ 地区的人口； $G _ { j }$ 为 $j$ 地区的人均GDP。
+
+$$
+k _ { i j } = \frac { P _ { i } \times G _ { i } } { P _ { i } \times G _ { i } + P _ { j } \times G _ { j } }
+$$
+
+# 1.2社会网络分析相关指标
+
+1.2.1网络密度网络密度是探究网络中区域之间旅游经济关系密度，其值越大表明各区域旅游经济连接越紧密。用 $D$ 表示，公式如下：
+
+$$
+D = \frac { M } { N \times ( N - 1 ) }
+$$
+
+式中： $M$ 为网络中存在的关系数； $N$ 为网络中可能存在的最大关系数[17]
+
+1.2.2网络效率网络效率是判断网络中的冗余程度。网络效率越高，区域网络则越稳定，用 $E$ 表示，公式如下：
+
+$$
+E = 1 - \frac { M } { \operatorname* { m a x } ( M ) }
+$$
+
+式中： $M$ 为网络中的多余关联线； $\operatorname* { m a x } ( M )$ 为最大可能的多余关联线数量[17] 。
+
+1.2.3网络等级度网络等极度测度网络的完善程度，其值越高，网络则越完善，处于边缘和从属地位的区域在经济发展中的作用越大，公式为：
+
+$$
+H = 1 - \frac { K } { \operatorname* { m a x } ( K ) }
+$$
+
+式中： $H$ 为网络等级度; $K$ 为网络中的对称数;max$( K )$ 为网络中可能存在的最大对称数。
+
+1.2.4中心度中心度分为度数中心度、中间中心度。度数中心度 $D _ { e }$ 可对一个区域在整个网络的核心程度进行衡量。
+
+$$
+D _ { \scriptscriptstyle { e } } = \frac { n } { N - 1 }
+$$
+
+式中： $n$ 为与该区域直接相关联的数目； $N$ 为与该区域最大可能直接相连数目。另外，与区域直接相关联可分为受益关联和溢出关联，受益关联指其他区
+
+域流入该区域的关联数，溢出关联指该区域流入其他区域的关联数[17]
+
+一个区域在整个网络的中介作用称为中间中心度，用 $C _ { _ B } ( n _ { i } )$ 表示，其值越大表示中介作用越强。
+
+$$
+C _ { B } ( n _ { i } ) ~ = ~ \sum _ { j } ^ { n } \sum _ { k } ^ { } \frac { g _ { i k } ( n _ { i } ) } { g _ { i k } }
+$$
+
+式中： ${ { g } _ { i k } }$ 为区域 $i$ 和区域 $k$ 间所有的连接数； $g _ { i k } \left( n _ { i } \right)$ 为须经过i区域的连接数[18] O
+
+1.2.5块模型块模型是研究各区域在网络中的角色及作用的方法[19],该方法依据各区域内外部成员联系程度将各区域在网络经济的角色分为主受益板块、经纪人板块、双向溢出板块和净溢出板块4种。
+
+# 1.3 数据来源
+
+本文数据来源于《新疆统计年鉴（2009—2018)》、《中国旅游年鉴(2009—2018)》（正副本)等。
+
+# 2 新疆旅游经济发展空间关联的实证分析
+
+# 2.1全疆旅游经济空间关联网络分析
+
+依据式(2)计算出两地之间的引力值，作为社会网络矩阵的基础数据，从而得出了既表示方向又表示联系程度的社会网络图。考虑到旅游经济空间网络特征明显变化需要一定的时间积累，本文运用UCINET中NETDRAW对新疆旅游空间关系进行研究，制作出了2008年、2011年、2014年、2017年等四个时间段的新疆旅游经济网络关联图（图1）。由图得出，2008—2017年间新疆各地州旅游经济关联数整体呈现不稳定的微小增长趋势，2008年新疆旅游经济关联关系数为70个；2011年新疆旅游经济关联关系数为61个；2014年新疆旅游经济关联关系数为76个；2017年新疆旅游经济关联关系数为84个。新疆15个地州间最大旅游经济关联关系数为210个。从图中可看出各地州之间都或多或少的存在空间关联关系，表明新疆旅游经济关联关系具有普遍性。
+
+由于网络密度与关联数有着直接关系，两者的变化趋势也相对一致，10a间网络密度也呈现出不稳定的微小增长态势，从2008年的0.331发展至2017年的0.402，以上分析可知10a间新疆各地州关联的紧密程度较低，各地州之间旅游经济协作仍有较大提升空间。新疆各地州旅游经济网络效率从2008年的0.653发展至2017年的0.682，10a间平均值为0.718，可见其10a间的相对变化较小，表明旅游经济关联关系在新疆各地州间是普遍存在的，且关联程度一直处于稳定状态。
+
+![](images/90a52d983eb488ac3891da01cfc018b270d785621f22920dd37fc83812cf6bdd.jpg)  
+图1不同年份新疆旅游经济网络关联图  
+Fig.1Relation map of Xinjiang tourism economic network in different years
+
+![](images/ba69b18650a1940eb4134010e368e40ccb1e56cd373753b9e211f9d29a8b43e3.jpg)  
+图22008—2017年新疆旅游经济关联指标Fig.2 Tourism economic indicators of Xinjiangfrom 2008 to 2017
+
+10年间新疆旅游经济网络等级度从2008年的0.358降为2017年的0.211，呈现逐渐降低趋势，可能的原因是旅游基础设施的完善，使旅游经济空间集聚程度较高的现象有所改善。同时，新疆旅游经济网络等级度在10a间的平均值为0.367，表明各地州不同的经济发展水平下都可能存在溢出效应。
+
+# 2.2新疆15个地州旅游经济中心性分析
+
+借助公式分别得出新疆15个地州2008—2017各年的度数中心度、中间中心度、点入度和点出度。本文计算并分析上述指标 $1 0 \mathrm { ~ a ~ }$ 间的平均值，旨在分析出各地州在旅游经济的长期发展现状（表2）。
+
+表2报告了全疆15个地州的度数中心度和中间中心度均存在发展失衡的特征。10a间，有5个地州的度数中心度和中间中心度均大于全疆平均值，分别为：乌鲁木齐市、伊犁哈萨克自治州直属（以下简称伊犁州直属）、喀什地区、昌吉回族自治州（以下简称昌吉州）、吐鲁番地区，乌鲁木齐市旅游经济的度数中心度平均值和中间中心度平均值分别为96.235和12.736，明显地高于其他14个地州，说明乌鲁木齐市处于新疆旅游经济网络的核心位置，在新疆旅游经济的网络中具有最大的“吸引力”和“辐射力”，这种“吸引力”和“辐射力”使其表现出显著的影响力和支配力。其次则是伊犁州直属和喀什地区的网络中心作用，随着近几年自治区政府和伊犁州政府都对伊犁州直属旅游业发展的重视，加速了该地区的旅游产业发展，2017年旅游收入和接待人数均位居全疆第二。喀什地区有浓郁的民族风情和丰富的自然资源，是南疆的经济、交通、文化和旅游中心。吐鲁番市和昌吉州分别拥有5A级景区葡萄沟和天山天池,且处于首府圈旅游区内[20]，交通基础设施和人文环境较为完善，这些均对度数中心度和中间中心度的提高有直接促进作用。10a间，阿勒泰地区和巴音郭楞蒙古自治州（以下简称巴州)这两个地州的度数中心度高于全疆平均值，中间中心度却低于全疆平均值。可能的原因是阿勒泰地区具有喀纳斯、可可托海等多个5A级景区，提高了其度数中心度程度，但其偏僻的地理位置，又限制了网络中介作用的发挥。巴州虽然属于南疆地区，但优越的交通条件使其中间中心度稍低于全疆平均值。克拉玛依市旅游资源相对稀缺，10a的度数中心度平均值小于全疆平均值，但它是北疆旅游干线的重要节点，具有良好的区位优势，故中间中心度高于全疆平均值。10a间，有7个地州的度数中心度和中间中心度均小于全疆平均值，分别为：博尔塔拉蒙古自治州（以下简称博州）、和田地区、哈密地区、塔城地区、克孜勒苏柯尔克孜自治州（以下简称克州）、阿克苏地区、石河子市。10a间博州旅游业发展差强人意，尽管州内有着便利的交通条件、丰富的旅游资源和稳定的社会环境，但是旅游收入和旅游接待人次均处于全疆倒数几名位置。哈密地区与塔城地区都没有5A级景区是造成度数中心度较低的主要原因。哈密地区位于新疆最东部，素有“新疆门户”之称，然而却呈现“旅游飞地”现象，旅游交通节点作用甚微；塔城地区位于新疆西北边缘，没有处于新疆主要旅游干线上。南疆的克州与和田地区由于地理位置偏远、经济落后等原因，近些年旅游经济发展缓慢，旅游收入和旅游接待人次均排在全疆倒数一、二的位置，
+
+表22008—2017年新疆15个地州旅游经济网络中心性平均指标  
+Tab.2Psychological average index of tourism economic networks in different regions from 2oo8 -2017   
+
+<html><body><table><tr><td>地区</td><td>点人度 （受益 关联数)</td><td>点出度 （溢出 关联数)</td><td>关联 关系 总数</td><td>度数 中心 度</td><td>中间 中心 度</td></tr><tr><td>乌鲁木齐市</td><td>7.723</td><td>10.689</td><td>18.412</td><td>96.235</td><td>12.736</td></tr><tr><td>克拉玛依市</td><td>6.231</td><td>5.995</td><td>12.226</td><td>43.175</td><td>4.998</td></tr><tr><td>石河子市</td><td>4.952</td><td>6.345</td><td>11.297</td><td>59.321</td><td>2.125</td></tr><tr><td>吐鲁番市</td><td>5.113</td><td>5.731</td><td>10.844</td><td>68.525</td><td>7.332</td></tr><tr><td>哈密地区</td><td>5.908</td><td>2.902</td><td>8.810</td><td>55.725</td><td>2.023</td></tr><tr><td>昌吉州</td><td>7.938</td><td>6.424</td><td>14.362</td><td>82.637</td><td>5.981</td></tr><tr><td>伊犁州直属</td><td>7.699</td><td>9.248</td><td>16.947</td><td>95.071</td><td>12.113</td></tr><tr><td>塔城地区</td><td>3.952</td><td>2.882</td><td>6.834</td><td>46.552</td><td>1.308</td></tr><tr><td>阿勒泰地区</td><td>7.992</td><td>4.987</td><td>12. 979</td><td>70.668</td><td>3.012</td></tr><tr><td>博州</td><td>4.038</td><td>3.952</td><td>7.990</td><td>65.211</td><td>2.881</td></tr><tr><td>巴州</td><td>4. 153</td><td>6.233</td><td>10.386</td><td>70.176</td><td>4.538</td></tr><tr><td>阿克苏地区</td><td>3.271</td><td>1.289</td><td>4.560</td><td>34.188</td><td>1.298</td></tr><tr><td>克州</td><td>1.980</td><td>1.846</td><td>3.826</td><td>35.131</td><td>1.501</td></tr><tr><td>喀什地区</td><td>6.678</td><td>8.525</td><td>15.203</td><td>82.637</td><td>12. 173</td></tr><tr><td>和田地区</td><td>3.079</td><td>3.228</td><td>6.307</td><td>51.276</td><td>3.056</td></tr><tr><td>平均值</td><td>5.380</td><td>5.351</td><td>10.732</td><td>63.769</td><td>5.137</td></tr><tr><td>标准差</td><td>1.894</td><td>2.642</td><td>4. 245</td><td>19.175</td><td>3.976</td></tr></table></body></html>
+
+10a间新疆各地州旅游经济溢出关系差异较大，具有较明显的空间集中性，乌鲁木齐市、伊犁州直属、喀什地区、巴州、克拉玛依市等地州是较为集中的区域，由于这些地州自然条件优越和后期人为开发合理，进一步增强了旅游经济扩散潜力，因而这些地州的旅游经济溢出关联关系明显高于受益关联关系。其中，新疆首府乌鲁木齐的旅游经济溢出效应最为明显，其溢出关联关系数为10.689，位居全疆首位。伊犁州直属的旅游经济溢出关联关系数均值为9.248，居全疆第二。作为南疆重要交通枢纽，喀什地区和巴州不仅是南疆重要的交通枢纽，更具有丰富的旅游资源，其旅游经济溢出效应也较为显著。相比而言，阿克苏地区的溢出关系最少，仅为1.289。新疆旅游经济网络受益关联数的标离散程度较小，其标准差为1.894。昌吉州、伊犁州直属、乌鲁木齐市、阿勒泰地区、喀什地区等地州的集聚功能尤为突出，其他区域对其依赖程度较高。基于旅游经济关联关系总数分析，全疆前五位依次是乌鲁木齐、伊犁州直属、昌吉州、喀什地区、阿勒泰地区，其中仅有喀什地区处于南疆,而其余4个地州均处于北疆。可以看出，10a间北疆地区在全疆旅游经济关联关系中发挥着主要作用。
+
+# 2.3 新疆旅游经济发展空间关联网络的块模型分析
+
+运用10a间旅游经济关联的平均数值对新疆15个地州进行块模型分析，依据1.5的最大分割深度和0.15的收敛标准，将15个地州分为了4个旅游经济板块。乌鲁木齐市、伊犁州直属、喀什地区、阿勒泰地区、昌吉州属于第一个旅游经济板块;石河子市、克拉玛依市、巴州、吐鲁番市属于第二个旅游经济板块;阿克苏地区、和田地区、克州属于第三个旅游经济板块;博州、塔城地区、哈密地区属于第四个旅游经济板块。总体来看，四个旅游经济板块共存在80个关联关系，其中27个关系数属于旅游经济板块内部的，53个关系数为旅游经济板块之间形成的，说明板块之间溢出效应明显大于板块内部的溢出效应。具体分析来看，第一板块共发出40个关系数，属于板块内部的关系数为14个，来自外部其他板块的关系数为21个；内部关系的预期比例为$2 9 \%$ ，而内部关系的实际比例为 $3 5 \%$ 。由此可见第一板块在板块内外都有溢出效应，因此第一板块属于“双向溢出板块”。第二板块共发出23个关系数,其中4个来自板块内部,20个来自外部其他板块；内部关系的预期比例为 $2 4 \%$ ，而内部关系的实际比例为 $1 7 \%$ 。第二板块在旅游经济的溢出效应中主要起着“桥梁”作用，属于典型的“经纪人板块”。第三板块共发出关系数11个，其中5个关系数属于内部的关系数，另外有4个来自其他板块的关系数；内部关系的预期比例为 $17 \%$ ，而内部关系的实际比例为 $45 \%$ ,第三板块内外溢出效应有明显差别，其内部关系数较多，对外关系数较少，定义为“主受益板块”。第四板块共溢出6个关系数,其中4 个内部关系数，共收到其他板块发出的18个关系数；内部关系的预期比例为 $18 \%$ ，而内部关系的实际比例为 $3 3 \%$ 。可见，第四板块几乎只对内部成员具有溢出效应，对板块外部成员的溢出效应微乎其微，但同时又接收到较多的来自板块外的关系数，因此，将第四板块定义为“净受益板块"（表3）。
+
+Tab.3Spillover effects of various tourism economic sectors in Xinjiang from 2008 -201   
+
+<html><body><table><tr><td colspan="11">Tab.3 Splover effects of various tourism economic sectorsin Xinjiang Irom 2oo8-2017</td></tr><tr><td>板块</td><td>第一板块 受益关系</td><td>第二板块 受益关系</td><td>第三板块 受益关系</td><td>第四板块 受益关系</td><td>板块 成员数</td><td>期望内部 关系比例</td><td>实际内部 关系比例</td><td>接受板块 外关系</td><td>板块 分类</td></tr><tr><td>第一板块</td><td>14</td><td>16</td><td>4</td><td>6</td><td>5</td><td>29</td><td>35</td><td>20</td><td>双向溢出板块</td></tr><tr><td>第二板块</td><td>16</td><td>4</td><td>0</td><td>3</td><td>4</td><td>24</td><td>17</td><td>19</td><td>经纪人板块</td></tr><tr><td>第三板块</td><td>3</td><td>2</td><td>5</td><td>1</td><td>3</td><td>17</td><td>45</td><td>4</td><td>主受益板块</td></tr><tr><td>第四板块</td><td>1</td><td>1</td><td>0</td><td>4</td><td>3</td><td>18</td><td>67</td><td>10</td><td>净受益板块</td></tr></table></body></html>
+
+利用各旅游经济板块的关联关系，对各旅游经济板块进行密度矩阵分析(表4），借助全疆10a间旅游经济网络密度平均值0.356作为界定，如果板块密度大于0.356，表明旅游经济效益在该板块为集中的趋势。对密度矩阵进行分析，可知双向溢出板块旅游经济效益向双向溢出、经纪人、主受益板块集中;经纪人板块旅游经济效益向经纪人、主受益、净受益板块集中；主受益和净受益板块旅游经济效益向各自板块集中。总体来说，包括乌鲁木齐市、伊犁州直属、喀什地区、阿勒泰地区、昌吉州等地的双向溢出旅游经济板块为整个新疆旅游经济发展发挥着“发动机”的作用，含有石河子市、克拉玛依市、巴州、吐鲁番市等地的经纪人旅游经济板块发挥着重要的“通道”作用，双向溢出旅游经济板块将能量传递给经纪人旅游经济板块，又借助经纪人旅游经济板块再传递到包括阿克苏地区、和田地区、克州等地的主受益旅游经济板块和包括博州、塔城地区、哈密地区等地的净受益旅游经济板块，可见各板块之间旅游经济的空间关联差异性较大，呈现明显的断崖式梯度特征。双向溢出板块旅游经济对主受益板块旅游经济具有带动作用，但其带动作用较小。总之，南北疆内的各地州内部之间旅游关联效应较为突出，但是除南疆的喀什地区和巴州两个地州之外，南北疆各地州之间的旅游经济关联关系较小，新疆疆内的旅游经济关联效应存在空间不平衡性[21] O
+
+表32008—2017年新疆15个地州旅游经济板块溢出效应  
+表4各经济增长板块的密度矩阵  
+Tab.4Density matrix of each economic growth plate   
+
+<html><body><table><tr><td>板块分类</td><td>双向溢出 板块</td><td>经纪人 板块</td><td>主受益 板块</td><td>净受益 板块</td></tr><tr><td>双向溢出板块</td><td>0.387</td><td>0.437</td><td>0.353</td><td>0.189</td></tr><tr><td>经纪人板块</td><td>0.000</td><td>0.691</td><td>0.443</td><td>0.627</td></tr><tr><td>主受益板块</td><td>0.000</td><td>0.123</td><td>0.412</td><td>0.228</td></tr><tr><td>净受益板块</td><td>0.000</td><td>0.000</td><td>0.000</td><td>0.427</td></tr></table></body></html>
+
+# 3结论
+
+文章基于熵权法等构建了“旅游综合质量”评价指标，借助修正的引力模型、社会网络分析等方法探究了2008—2017年新疆15个地州的旅游经济空间网络特征。主要结论有：
+
+（1）10a间，新疆旅游经济关联网络密度的平均值仅为0.356，表明新疆15个地州间旅游经济空间联系紧密程度较低，各地州间仍有较大的旅游经济协作潜力；新疆旅游经济的网络效率均值为0.718，显示出新疆旅游经济空间溢出的重叠效应明显；新疆旅游经济的的网络等级度均值为0.367，验证了新疆15个地州旅游经济存在等级现象。
+
+(2）10a间，乌鲁木齐市、伊犁州直属、喀什地区、昌吉州、吐鲁番市等地属于度数中心度与中间中心度双高区域;阿勒泰地区、巴州等地属于度数中心度较高、中间中心度较低区域;克拉玛依市属于度数中心度较低，中间中心度较高区域；博州、和田地区、哈密地区、塔城地区、克州、阿克苏地区、石河子市等地属于度数中心度、中间中心度双低区域
+
+（3）10a间，全疆旅游经济网络溢出关联数的标准差均值为2.642，表明10a间新疆各地州旅游经济溢出关系存在较大差异。乌鲁木齐市、伊犁州直属、喀什地区、巴州、克拉玛依市等地的溢出效应较大；全疆旅游经济网络受益关联数的标准差均值为1.894，离散程度较小。乌鲁木齐市、昌吉州、阿勒泰地区、伊犁州直属、喀什地区等具有较强的集聚功能。
+
+（4）运用UCINET中的块模型分析得出：乌鲁木齐市、昌吉州、喀什地区、伊犁州直属、阿勒泰地区等地在研究时限内属于“双向溢出板块”；石河子市、克拉玛依市、巴州、吐鲁番市属于“经纪人板块”;博州、哈密地区、塔城地区属于“净受益板块”;阿克苏地区、克州、和田地区属于“主受益板块”。
+
+# 参考文献（References）
+
+[1］汤放华,汤慧,孙倩.长江中游城市集群经济网络结构分析 [J].地理学报,2013,68（10）:1357－1366.[TANG Fanghua, TANG Hui,SUN Qian.Analysis of the economic network structure ofurban clusters in the middle reaches of the Yangtze River[J]. Acta Geographica Sinica,2013,68（10）:1357-1366.]
+
+[2］王松茂,方良彦,邓峰.新疆旅游经济时空差异演变分析[J]. 商业研究,2013,55(6）:195-199.[WANG Songmao,FANGLiangyan,DENGFeng.Evolution analysisof spatial-temporal differences in tourism economy in Xinjiang[J].Commercial Research, 2013,55(6):195-199.]
+
+[3］刘佳,李莹莹.国内外基于社会网络理论的旅游研究综述与启 示［J].资源开发与市场,2016,32（9）：1134-1138.［LIUJia, LI Yingying. Summary and enlightenment of tourism research based on social network theory at home and abroad[J].Resource Development& Market,2016,32(9):1134-1138.]
+
+[4]HWANG YH,GRETZEL U,FESENMAIERDR.Multicity trip patterns:Tourists to the United States[J].Annals of Tourism Research,2006,33(4) :1057-1078.
+
+[5] SHIH H Y.Network characteristics of drive tourism destinations : An application of network analysis in tourism[J].Tourism Management,2006,27(5） :1029-1039.
+
+[6] SCOTTN,COOPER C,BAGGIO R.Destination networks:Four Australian cases[J].Annals of Tourism Research,2OO8,35（1）:169 -188.
+
+[7] HONGT,MAT,HUANTC.Networkbehavior asdriving forces for tourism flows[J].Journal of Business Research,2O15,68(1）:146 -156.
+
+[8]JUANCG,JAVERGE,CARMEN M.Identification of tourist hot spots based on social networks:A comparative analysis of European metropolises using photo sharing services and GIS[J].Applied Geography,2015,63（12）:408-417.
+
+[9］汪德根.京沪高铁对主要站点旅游流时空分布影响［J].旅游 学刊,2014,29（1）:75-82.[WANG Degen.Impact of Beijing Shanghai high-speed railway on spatial-temporal distribution of tourism flow at major sites[J].Tourism Tribune,2014,29(1）:75 -82.]
+
+[10]KATHRYNP.The evolution and transformation of a tourism destination network：The waitomo caves,New Zealand［J].Tourism Management,2003,24(2）:203-216.
+
+[11]HAGEN W.Inter-organizational cooperation in sport tourism:A social network analysis[J].Sport Management Review,2015,18 (4):542 -554.
+
+[12］李敬，陈澍，万广华,等.中国区域经济增长的空间关联及其解释——基于网络分析方法[J].经济研究，2014，（11)：4-16.[LIJing,CHEN Shu,WAN Guanghua,et al.Spatial correlation ofregional economic growth in China and its explanation based onnetwork analysis method[J].Economic Research Journal,2014,(11):4-16.]
+
+[13］王俊，徐金海，夏杰长.中国区域旅游经济空间关联结构及其效应研究——基于社会网络分析[J].旅游学刊,2017,32（7)：15-24.[WANG Jun,XUJinhai,XIA Jiechang.Spatial relevancestructure and its effects of regional tourism economy in China:Based on social network analysis[J].Tourism Tribune,2017,32(7):15 -24.]
+
+[14］邹永广.“一带一路”中国主要节点城市旅游的经济联系-空间结构与合作格局[J].经济管理，2017,39（5）：22-34.[ZOU Yongguang.The economic link between the“one belt andone way”tourism of China's main node cities:Spatial structure andcooperation pattern[J].Economic Management Journal,2017,39(5):22 -34.]
+
+[15」李山，王铮，钟章奇.旅游空间相互作用的引力模型及其应用[J].地理学报，2012，67（4）:526-544.［LIShan，WANGZheng,ZHONG Zhangqi.Gravitational model of tourism spatial in-teraction and its application[J].Acta Geographica Sinica,2012,67(4) :526 -544.]
+
+[16］刘少湃，田纪鹏，陆林.上海迪士尼在建景区客源市场空间结构预测——旅游引力模型的修正及应用[J].地理学报，2016，71（2）:304-321.［LIU Shaopai,TIANJipeng,LULin.ShanghaiDisney's spatial structure prediction of tourist market in scenicspots under construction:Revision and application of tourism gravi-ty model[J].Acta Geographica Sinica,2016,71(2）:304-321.][17］刘军.社会网络分析导论［M].北京：社会科学文献出版社，2004.[LIU Jun.Introduction to social network analysis[M].Bei-jing:Social ScienceLiterature Publishing House,2004.]
+
+[18］BAGGIO R,SCOTT N.Network science:A review focused on tourism[J].Annals of Tourism Research,2010,37(3):802-827.
+
+[19］WHITEHC,BOORMANSA,BREIGERRL.Social structures from multiple networks:Blockmodels of roles and positions[J].AmericanJournal of Sociology,1976,81(6):1384-1446.   
+[20］王松茂，瓦哈甫·哈力克，邓峰.新疆旅游产业全要素生产率 的时空演变［J].经济地理，2016，36（5）：202-207.［WANG Songmao,WAHAFHalik,DENGFeng.Spatial and temporal evolution of total factor productivity of tourism industry in Xinjiang[J]. Economic Geography,2016,36(5）:202-207.]   
+[21］何昭丽，孙慧，张振龙.中国入境旅游发展效率及其影响因素 研究［J].干旱区地理,2017,40(6)：1282-1289.［HEZhaoli， SUNHui,ZHANG Zhenlong.Study on the efficiency of China's inbound tourism development and its influencing factors[J].Arid Land Geography,2017,40(6):1282-1289.]
+
+# Spatial and temporal evolution of the tourism economy network in Xinjiang : Based on modified gravity model and social network analysis
+
+WANG Song-mao12，XU Xuan-guo²，MA Jiang-tao²，WANGYan-wei3 (1Post-doctoral Stationof BusinessAdministration Departmentof Tourism,udan UniversityShanghai 2O43,China; 2College of Economics & Management,Shandong Agriculture University,Tai'an 271018,Shandong,China; 3School of Information Engineering,Xinjiang Ploytechnical University,Urumq 830023,Xinjiang,China; 4School of Geography and Tourism,Xinjiang Normal University,Urumqi 83oo54,Xinjiang,China)
+
+Abstract：In this study,first,anevaluation index of“comprehensive tourism quality”was constructedand then thegravity model was modified to measure the degree of tourism economy connection among regions.Finaly,the characteristicsof the spatial networkof the tourismeconomy were explored in15 prefecturesof Xinjiang,China from 2008 to 2017 by using the social network analysis method.The main conclusions areas folows:（1）From 2008 to 2017,the average density of the Tourism Economic Association Network in Xinjiang was only O.356,the average network effciency was O.718,and theaverage network hierarchy was O.367.（2）In the past ten years,Urumqi,Yili,Kashi,Changji,Turpan,and otherlocations hadboth high-degreecentralityand medium centrality；Altayand Bazhou had high -degreecentralityand low-mediumcentrality；Karamay had low-degree centralityand high-medium centrality；Bozhou,Hotanand Hami areas,Tacheng area,Kezhou and Aksuareas,Shihezi city,and otherlocations had doublylow-degree centralityand medium centrality.（3）Urumqi,Changji,Kashi,Ii,andAltaybelonged to he “two-way spillover plate”within the research time limit； Shihezi,Karamay,Bazhou,and Turpan belonged to the “broker plate”；Bozhou,Hami,and Tacheng belonged to“net benefit plate”；and Aksu,Kezhou,and Hetian belonged to the“main benefit plate".This study aims to enrich the perspectiveof tourism economy network research and provides a quantitative basis for economic development of tourism and cooperation in Xinjiang.
+
+Key words:comprehensive tourism quality；gravitation model； tourism economy；social network analysis； Xin-jiang

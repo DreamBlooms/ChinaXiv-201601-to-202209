@@ -1,0 +1,1013 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进自适应黑洞机制的引力搜索算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "许文俊，王锡淮，肖健梅，顾俊瑜(上海海事大学 物流工程学院，上海 201306)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对基本引力搜索算法(gravity search algorithm,GSA)易早熟、易陷入局部最优、缺少有效加速机制等缺点，提出基于改进自适应黑洞机制的GSA(Improved adaptive black hole gravity search algorithm，IABHGSA)。通过改进Tent 映射对种群初始化，使得初始种群的分布更随机、均匀、遍历，增强算法的全局勘探能力；引入改进自适应黑洞机制，根据粒子进化情况选择位置更新策略，使得位置更新更为合理，有效减小粒子陷入局部最优的可能性；通过基于学习思想的最优与最差粒子更新策略，增强算法逃离局部最优的能力以及提高算法的寻优速度；引入群体迁徙，为算法提供有效的加速收敛机制。最后，选取8个基准测试函数对IABHGSA进行测试，并与相关算法的实验结果进行对比，结果证明IABHGSA有更好的寻优性能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：引力搜索算法；改进Tent映射；自适应策略；粒子位置更新；群体迁徙 中图分类号：TP301.6 doi:10.19734/j.issn.1001-3695.2022.03.0096 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gravity search algorithm based on improved adaptive black hole mechanism ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xu Wenjun, Wang Xihuai†, Xiao Jianmei, Gu Junyu (College ofLogistics Engineering,Shanghai Maritime University,Shanghai 20l306,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aiming at the shortcomings ofthe basic Gravity search algorithm (GSA),such as prone to premature maturity, easyto fallinto localoptimum,and lackaneffectiveacceleration mechanism,this paper proposeda GSA(IABHGSA)based on theimprovedadaptive black hole mechanism.The algorithm used the improved Tent mapping to initialize the population, which makes thedistributionofthe initial population morerandom,uniformand traversal,and it enhanced the global explorationcapabilityofthe algorithm;The algorithm introducedan improved adaptiveblack hole mechanism and selected the position update strategy,acording to the evolutionof the particles,which makes the position update morereasonable, Effectivelyreduce the possbilityofparticles falingintolocaloptima; Through theoptimaland worstparticle update strategy basedo learning ideas,enhanced thealgorithm'sability to escape from local optima and improved thealgorithm's optimization speed;The algorithm introduced group migration to provide efectiveaccelerated convergence mechanism for the algorithm.Finaly,this paper selected8benchmark functions to test IABHGSAand compared with theexperimental results of related algorithms,the results show that IABHGSA has beter optimization performance. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: gravitysearch algorithm; improved tent Mapping; adaptive strategy; particle position update; group migration ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引力搜索算法(GSA)是Rashedi[I等人受到物理学中万有引力定律的启发而提出的智能优化算法。GSA通过粒子间引力的相互作用来交流信息，其概念简单，容易实现且算法收敛性好[2]。研究表明，GSA的寻优精度和收敛速度对比粒子群优化算法(Particle Swarm Optimization,PSO)、遗传算法(GeneticAlgorithm,GA)等其他优化算法具有一定的优势[1]。因此在优化调度[3]、参数辨识[4]、函数优化[5]等领域，GSA得到广泛的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GSA与常见的生物启发式算法相似，都属于群智能优化算法。在GSA中，每个粒子的位置表示问题的一个可行解，解的优劣与粒子的质量有关，质量最大的粒子占据最好的位置。在解空间内，粒子受到万有引力的作用而相互吸引，质量小的粒子向质量最大的粒子移动，以此完成算法的迭代寻优。基本GSA与常见的生物启发式算法一样，都存在着易早熟收敛、局部搜索能力差、缺少有效加速机制等问题，仍需对其加以改进，进一步提高其寻优性能。针对以上问题，国内外学者进行了大量研究，提出了诸多改进GSA：刘紫阳[7]等人在GSA的位置更新公式中引入Levy飞行策略，改进后的GSA具有更好的寻优精度和稳定性，但是并未明显提高GSA的收敛速度；Mirjalili[8]等人将“向全局最优移动”项加入GSA的速度更新公式，提高GSA的收敛速度和逃离局部最优的能力，然而GSA可能因为最优粒子的错误引导而早熟收敛； $\\mathrm { S u } ^ { \\left[ 9 \\right] }$ 等人在GSA的引力系数中加入基于粒子适应度值的反馈机制，并加入精英记忆保留策略，提高了GSA的收敛速度和鲁棒性，但GSA的寻优精度对比改进前提升有限；张维平[10]等人在GSA中引入反向学习策略、精英策略和边界变异策略，显著地提高了GSA的全局探索能力和局部寻优能力，但以上改进策略会增加算法的计算量，从而增加算法的计算时间；Joshi[I等人在GSA 中引入非线性变化的引力系数，提高了GSA的寻优精度和搜索效率，但是没有对GSA的收敛性能作出明显改进。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "综上可知，目前已有许多GSA的改进和应用，但GSA的全局探索能力和局部寻优能力仍有较大的提升空间。为了更有效的改善GSA易早熟收敛的缺点，增强GSA的寻优性能，本文提出基于改进自适应黑洞机制的引力搜索算法(improved adaptive black holegravity search algorithm,",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IABHGSA)。通过改进Tent映射生成初始种群，使得种群分布随机、均匀、遍历，增强算法的全局勘探能力；引入基于改进自适应策略的黑洞机制，使得粒子可以根据自身进化情况更为合理的选择位置更新策略，有效降低算法陷入局部最优的可能性；引入基于学习思想的最优与最差粒子更新策略，增强算法的逃离局部最优的能力和寻优速度；引入群体迁徙，为算法提供有效的加速机制，提高算法的收敛速度。最后对基准测试函数进行仿真实验，结果表明，相较于基本GSA和其他相关算法，IABHGSA在寻优精度、收敛速度及稳定性上都得到较大的提升。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 引力搜索算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设由 $N$ 个粒子 $X _ { i }$ 构成种群，在 $d$ 维引力系统中，定义粒子 $i$ 的位置 $X _ { i } = \\left( X _ { i } ^ { 1 } , X _ { i } ^ { 2 } , . . . X _ { i } ^ { d } , . . . X _ { i } ^ { n } \\right)$ ，其中 $i = 1 , 2 , . . . N$ 。根据万有引力定律，在 $^ d$ 维空间中，第 $t$ 次迭代时粒子 $i$ 、 $j$ 之间的引力 $F _ { i j } ^ { d } \\left( t \\right)$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i j } ^ { d } \\left( t \\right) = G ( t ) \\frac { M _ { i } \\left( t \\right) \\times M _ { j } \\left( t \\right) } { R _ { i j } \\left( t \\right) + \\varepsilon } \\left( X _ { j } ^ { d } \\left( t \\right) - X _ { i } ^ { d } \\left( t \\right) \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $G ( t )$ 为第 $t$ 次迭代时的引力系数； $M _ { i } ( t )$ 与 $M _ { j } ( t )$ 分别为粒子 $i$ 、 $j$ 在第 $t$ 次迭代时的惯性质量； $R _ { i j } \\left( t \\right)$ 为第 $t$ 次迭代时粒子 $i$ 、 $j$ 之间的欧氏距离； $\\varepsilon$ 为很小的常量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "引力系数 $G ( t )$ 和欧氏距离 $R _ { i j } \\left( t \\right)$ 的具体计算公式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nG ( t ) = G _ { 0 } \\times \\mathrm { e } ^ { \\left( - \\alpha \\frac { t } { \\mathrm { T } } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { i j } \\left( t \\right) = \\left. X _ { i } \\left( t \\right) , X _ { j } \\left( t \\right) \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $G _ { 0 }$ 为引力系数初始值； $\\alpha$ 为引力系数衰减因子； $\\textit { t }$ 、T分别为算法当前迭代次数和算法最大迭代次数； $X _ { i } \\left( t \\right) , ~ X _ { j } \\left( t \\right)$ 分别为粒子 $i$ 、 $j$ 在第 $t$ 次迭代时的位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "粒子 $i$ 的惯性质量 $M _ { i } ( t )$ 根据适应度函数定义为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nm _ { i } \\left( t \\right) = \\frac { f i t _ { i } \\left( t \\right) - \\operatorname* { m i n } \\left( f i t _ { i } \\left( t \\right) \\right) } { \\operatorname* { m a x } \\left( f i t _ { i } \\left( t \\right) \\right) - \\operatorname* { m i n } \\left( f i t _ { i } \\left( t \\right) \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { } M _ { i } \\left( t \\right) = \\frac { m _ { i } \\left( t \\right) } { \\sum _ { i = 1 } ^ { N } m _ { i } \\left( t \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $f i t _ { i } \\left( t \\right)$ 为第 $t$ 次迭代时粒子 $i$ 的适应度值； $\\operatorname* { m a x } \\left( f i t _ { i } \\left( t \\right) \\right)$ 、$\\operatorname* { m i n } ( f i t _ { i } \\left( t \\right) )$ 分别为第 $t$ 次迭代中粒子 $i$ 的最差、最优适应度值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了表示算法的随机性，作用在 $^ d$ 维上粒子 $i$ 所受合力$F _ { i } ^ { d } \\left( t \\right)$ 可以表示为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nF _ { i } ^ { d } \\left( t \\right) = \\sum _ { j = 1 , i \\neq j } ^ { N } r a n d _ { j } \\times F _ { i j } ^ { d } \\left( t \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $r a n d _ { j }$ 为[0,1]之间的随机数。在GSA的每次迭代中，粒子的速度、位置和加速度都会更新：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\nu _ { i } ^ { d } \\left( t + 1 \\right) = r a n d _ { j } \\times \\nu _ { i } ^ { d } \\left( t \\right) + a _ { i } ^ { d } \\left( t \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { d } \\left( t + 1 \\right) = x _ { i } ^ { d } \\left( t \\right) + \\nu _ { i } ^ { d } \\left( t + 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } ^ { d } \\left( t \\right) = \\frac { F _ { i } ^ { d } \\left( t \\right) } { M _ { i } \\left( t \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\nu _ { i } ^ { d } \\left( t \\right)$ 、 $x _ { i } ^ { d } \\left( t \\right)$ 、 $a _ { i } ^ { d } \\left( t \\right)$ 分别为粒子 $i$ 在第 $t$ 代时第 $^ d$ 维空间的速度、位置及加速度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进引力搜索算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1改进Tent映射生成初始种群",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基本GSA的初始种群是随机生成的，可能导致个体分布不均、种群多样性降低，影响算法后续的迭代寻优。混沌映射因其随机性、遍历性等特点，近年来已被应用于元启发式算法中来提高种群多样性[I2]。本文选用Tent映射来初始化种群，Tent映射具有结构简单、遍历性好、随机性好、混沌均匀性和迭代速度优于logistic 映射的特点[13]。将Tent 映射用于GSA的种群初始化，可以增加初始种群的多样性，避免算法陷入局部最优，GSA可以获得更好的寻优效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tent映射的表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { t + 1 } = \\left\\{ { \\begin{array} { l l } { 2 E _ { t } } & { 0 < E _ { t } < 0 . 5 } \\\\ { 2 ( 1 - E _ { t } ) } & { 0 . 5 \\leq E _ { t } < 1 } \\end{array} } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $E _ { t }$ 为 Tent 映射。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "分析Tent映射的迭代过程能够发现映射中存在不稳定周期点，同时由于计算机的运行特性，使得Tent映射在经历一定次数的迭代后总会落入不稳定周期点，导致Tent映射的遍历性降低。为了避免Tent 映射陷入不稳定周期点，提高Tent 映射的均匀性和遍历性，本文提出基于logistic 映射改进的Tent映射，利用logistic 映射的扰动效果消除Tent映射的不稳定周期点，使得Tent映射的分布更遍历、均匀。本文提出的改进Tent映射的表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { \\scriptscriptstyle { t + 1 } } = 4 L _ { \\scriptscriptstyle { t } } \\left( 1 - L _ { \\scriptscriptstyle { t } } \\right) 0 < L _ { \\scriptscriptstyle { t } } < 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nE _ { t + 1 } ^ { * } = \\left\\{ \\begin{array} { l l } { \\displaystyle \\operatorname* { m i n } \\Biggl ( 2 E _ { t } ^ { * } + \\frac { 1 } { N } \\times r a n d \\times L _ { t } , 1 \\Biggr ) } & { 0 < E _ { t } ^ { ' } < 0 . 5 } \\\\ { \\displaystyle \\operatorname* { m i n } \\Biggl ( 2 \\left( 1 - E _ { t } ^ { * } \\right) + \\frac { 1 } { N } \\times r a n d \\times L _ { t } , 1 \\Biggr ) } & { 0 . 5 \\le E _ { t } ^ {                                              } < 1 } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $L _ { \\mathrm { } _ { t } }$ 为logistic 映射； $E _ { t } ^ { ' }$ 为改进 Tent 映射。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1、2分别为Tent映射分布直方图和本文所提改进Tent映射分布直方图。从图1中可以看出Tent映射在[0.0.1]范围内的取值概率远高于其他各段的取值概率，这是因为Tent映射在迭代中陷入不稳定周期点，使得后续的映射值都为0，严重影响映射的均匀性和遍历性。观察图2，改进Tent映射在各段的取值概率相对均匀，表明本文提出的改进Tent映射成功消除了使得Tent 映射取值为0的点，改善了Tent 映射分布不均匀的现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e20586d328fc185816c66257d14504dfc245a70bf50cd02b3634108be48ebe07.jpg",
+        "img_caption": [
+            "图1Tent映射分布直方图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4edc7f79ea41a02d1dad8dd8ddbe80ff84f932d484ac2e8aa676d3c10070d9db.jpg",
+        "img_caption": [
+            "Fig.1Tent map distribution histogram ",
+            "图2改进Tent 映射分布直方图",
+            "Fig.2Improved Tent mapping distribution histogram "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "综上，本文使用改进Tent映射生成初始种群，利用改进Tent映射产生均匀分布的混沌序列，减少初始种群分布不均匀对算法优化效果的影响，增强算法的全局探索能力。基于改进Tent映射的种群初始化的表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ x _ { i } ^ { d } } = { x _ { \\operatorname* { m i n } } } + \\big ( { x _ { \\operatorname* { m a x } } } - { x _ { \\operatorname* { m i n } } } \\big ) \\times E _ { t } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { i } ^ { d }$ 为第 $i$ 个粒子在第 $^ d$ 维中的位置； $x _ { \\mathrm { m a x } }$ 、 $x _ { \\mathrm { m i n } }$ 分别为粒子位置的上、下限。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2改进自适应黑洞机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "zhang等人于2008年首次提出随机黑洞粒子群优化算法[14](random black hole particle swarm optimization, RBHPSO),",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RBHPSO在PSO中引入黑洞机制，使得粒子快速移动至全局最优附近，提高了算法的收敛速度，明显加速了算法的迭代过程。黑洞机制假设在解空间内存在一个黑洞，该黑洞以全局最优gbest为球心，R为半径。粒子进入黑洞有一定的概率被吸引，黑洞的吸引概率由[0,1]之间的常数阈值P来表示。对于随机数 $Y$ ，如果 $Y < \\mathbf { P }$ ，表明粒子被黑洞吸引，采用新的位置更新公式更新粒子位置；反之，表明粒子逃离黑洞，则使用原位置更新公式。经过黑洞机制改进后的位置更新公式为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { d } \\left( t + 1 \\right) = \\left\\{ \\begin{array} { l l } { x _ { i } ^ { d } \\left( t \\right) + \\nu _ { i } ^ { d } \\left( t + 1 \\right) } & { Y \\geq \\mathrm { P } } \\\\ { g b e s t + 2 \\mathrm { R } \\left( r _ { 1 } - 1 \\right) } & { Y < \\mathrm { P } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：gbest为全局最优； $\\mathrm { ~ \\tt ~ R ~ }$ 为随机黑洞的半径； $Y ~ , ~ r _ { 1 }$ 为[0,1]之间的随机数；P为黑洞吸引概率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "黑洞机制具有加速粒子收敛进程、提高算法收敛速度的优点，所以基于黑洞机制的GSA(Randomblackhole gravitysearchalgorithm,RBHGSA)具有较强的全局探索能力。但黑洞机制很可能导致粒子过早到达当前全局最优附近，增加了粒子陷入局部最优的可能性，RBHGSA无法克服GSA易早熟收敛的缺点。为了改善黑洞机制易使算法早熟收敛的问题，本文提出改进自适应黑洞机制，具体表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { t } ^ { 2 } = \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\left( \\frac { f i t _ { i } \\left( t \\right) - \\overline { { f i t ( t ) } } } { f } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf = \\operatorname* { m a x } \\left( f \\bar { u } t _ { i } \\left( t \\right) - \\overline { { \\mathcal { \\ - } f t ( t ) } } , 1 \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { x _ { i } ^ { d } \\left( t + 1 \\right) = } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ \\begin{array} { c c } { { x _ { i } ^ { d } \\left( t \\right) + \\nu _ { i } ^ { d } \\left( t + 1 \\right) } } & { { \\delta _ { t } ^ { 2 } < c } } \\\\ { { g b e s t + \\left( 2 \\times r a n d - 1 \\right) \\times \\left( g b e s t - r a n d \\times x _ { i } ^ { d } \\left( t \\right) \\right) } } & { { \\delta _ { t } ^ { 2 } \\geq c } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\delta _ { t } ^ { 2 }$ 为第 $t$ 代粒子的适应度方差； $\\overline { { f i t ( t ) } }$ 为所有粒子在第$t$ 次迭代时适应度值的平均值； $\\mid c \\mid$ 为适应度方差阈值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进自适应黑洞机制引入适应度方差 $\\delta _ { t } ^ { 2 }$ 取代黑洞吸引概率P，通过当代粒子的进化情况选择合适的位置更新策略，实现粒子位置更新策略的自适应选择。同时改进原黑洞位置更新公式，使得粒子以更为随机的步长向全局最优移动，降低粒子陷入局部最优的可能性。当 $\\delta _ { t } ^ { 2 } \\geq c$ 时，表明粒子较为分散粒子陷入局部最优的可能性小，此时通过改进黑洞位置更新策略快速抵达全局最优附近，算法的收敛速度得到提高；当 $\\delta _ { t } ^ { 2 } < _ { C }$ 时，表明粒子较为集中，粒子已移动至全局最优附近，此时通过原位置更新策略在局部区域仔细寻优，寻优精度得到提高。综上，相较于基本黑洞机制，改进自适应黑洞机制使得粒子的位置更新更为合理、有效，算法可以得到更好的优化效果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3基于学习思想的最优粒子与最差粒子更新策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "教与学优化算法[15](teaching-learning-based optimizationalgorithm,TLBO)是Rao等人于2012年提出的群智能优化算法，TLBO通过老师向学生教学和学生与学生之间相互学习两个阶段完成寻优。本文受到TLBO中教学与学习的启发，将TLBO中的教学与学习融入到GSA的粒子更新策略中，提出了基于学习思想的最优粒子与最差粒子更新策略，通过最优粒子的自我学习和最差粒子向最优粒子的学习，提高GSA的寻优精度和收敛速度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1基于自我学习的最优粒子更新",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在TBLO的教学阶段，每位学生根据自身成绩向老师进行差异性学习，从而提高全班成绩。但是随着迭代次数的增加，老师与学生之间的差距越来越小，导致种群多样性迅速丧失，降低了算法的局部勘探能力。为了提高算法的寻优性能，老师也需要提高自己的能力，从而得到更好的优化效果。在GSA中，最优粒子相当于TLBO中的老师，吸引其他粒子向其移动。基于以上分析，本文提出了基于自我学习的最优粒子更新策略，具体表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS = \\mathrm { s i n } { \\left( \\frac { t } { \\mathrm { T } } \\times \\frac { \\pi } { 2 } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { x _ { n e w } = g b e s t + g b e s t \\cdot \\left( \\left( 1 - S \\right) \\times C ( 0 , 1 ) + S \\times G ( 0 , 1 ) \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { \\mathrm { b e s t } } ^ { \\prime } = \\left\\{ \\begin{array} { l l } { g b e s t } & { f \\left( g b e s t \\right) < f \\left( x _ { n e w } \\right) } \\\\ { x _ { n e w } } & { f \\left( g b e s t \\right) > f \\left( x _ { n e w } \\right) } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $s$ 为自适应权重系数； $x _ { n e w }$ 为经过学习后的全局最优位置； ${ \\cal C } ( 0 , 1 )$ 为基于柯西分布的变异算子； $G ( 0 , 1 )$ 为基于高斯分布的变异算子； $f \\left( g b e s t \\right)$ 、 $f \\left( x _ { n e w } \\right)$ 分别为最优粒子和经过学习后的最优粒子的适应度值； $x _ { \\mathrm { b e s t } } ^ { \\mathrm { ' } }$ 为经过选择后的全局最优位置。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于自我学习的最优粒子更新策略通过式(19)对全局最优进行自我学习。在迭代初期， $\\textit { t }$ 值较小，此时柯西算子作用较大。通过柯西算子较大的变异尺度对全局最优进行扰动，避免算法落入局部最优，增强了算法的全局探索能力；在迭代后期，i值较大，此时高斯算子作用较大。通过高斯算子较小的变异尺度在局部范围内进行搜索，算法的收敛精度得到提高；在迭代中期，柯西算子和高斯算子出力均匀，能够更好的平衡算法的全局探索能力和局部寻优能力。最后根据式(20)选取学习前、后中的较优解作为新的全局最优，全局最优的适应度值水平得到提高，以达到最优粒子自我学习的目的。通过上述改进，可以有效降低GSA陷入局部最优的可能性，提高了算法的局部寻优能力，算法的收敛精度得到提高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2最差粒子向最优粒子的学习",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在TLBO的学习阶段，所有学生都会随机选择一名同学相互学习，以提高自身学习成绩。受到TLBO中学生相互学习的启发，本文提出了最差粒子向最优粒子的学习策略，对于全局最差粒子的学习，具体表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { n e w 1 } = x _ { \\mathrm { w o r s t } } + \\left( g b e s t - x _ { \\mathrm { w o r s t } } \\right) \\oplus \\mathrm { L e v y } ( \\beta )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ x _ { \\mathrm { w o r s t } } ^ { \\prime } = \\left\\{ \\begin{array} { l l } { x _ { \\mathrm { w o r s t } } } & { f \\left( x _ { \\mathrm { w o r s t } } \\right) < f \\left( x _ { n e w 1 } \\right) } \\\\ { x _ { n e w 1 } } & { f \\left( x _ { \\mathrm { w o r s t } } \\right) > f \\left( x _ { n e w 1 } \\right) } \\end{array} \\right. }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $x _ { n e w 1 }$ 为经过学习后的最差粒子的位置； $x _ { \\mathrm { w o r s t } }$ 为最差粒子的位置； $\\oplus$ 表示为点对点乘法； $x _ { \\mathrm { w o r s t } } ^ { \\mathrm { ' } }$ 为经过选择后的全局最差位置； $f \\left( x _ { \\mathrm { w o r s t } } \\right)$ 、 $f \\left( x _ { n e w 1 } \\right)$ 分别为最差粒子和经过学习后的最差粒子的适应度值； ${ \\mathrm { L e v y } } ( \\beta )$ 表示服从参数为 $\\beta$ 的Levy分布的随机路径。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Levy $( \\beta )$ 表示如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf { L e v y } ( \\beta ) \\sim \\frac { u } { | \\nu | ^ { \\frac { \\gamma } { \\beta } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$u$ 、 $\\nu$ 服从正态分布，分别表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nu \\sim N ( 0 , \\sigma _ { u } ^ { 2 } ) ; \\nu \\sim N ( 0 , \\sigma _ { \\nu } ^ { 2 } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma _ { u } = \\left\\{ \\frac { \\Gamma \\left( 1 + \\beta \\right) + \\sin \\left( \\pi \\times \\displaystyle \\frac { \\beta } { 2 } \\right) } { \\Gamma \\left( \\displaystyle \\frac { 1 + \\beta } { 2 } \\right) \\times \\beta \\times 2 ^ { \\frac { \\beta - 1 } { 2 } } } \\right\\} ; \\sigma _ { \\nu } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中：「为伽马函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "最差粒子向最优粒子的学习策略通过式(21)对全局最差粒子进行学习。利用Levy飞行更新全局最差粒子的位置，加速全局最差粒子向全局最优粒子移动，减少了算法的迭代时间，提高了算法的收敛速度。同时，Levy飞行的随机步长可以产生更随机的搜索过程，有利于保持种群多样性，避免算法陷入局部最优。通过式(22)比较学习前、后的最差粒子的适应度值，选择较优解作为新的全局最差，完成最差粒子向最优粒子的学习。通过上述改进，提高了算法的收敛速度，增强了算法的全局探索能力。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4群体迁徙 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在GSA寻优过程中，由于惯性质量的累积效应[16]，且由于GSA缺少有效的加速机制，导致粒子的速度随着迭代次数的增加而迅速减慢，削弱了GSA的全局勘探能力，使得GSA不能有效找到问题的最优解。为了增强GSA的收敛速度，提升算法的勘探性能，本文提出群体迁徙机制，加速种群向全局最优收敛，具体表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\np x _ { i } ^ { d } \\left( t + 1 \\right) = \\frac { \\left( 1 - \\zeta \\right) \\times g b e s t + \\left( 1 + \\zeta \\right) \\times x _ { i } ^ { d } \\left( t + 1 \\right) } { 2 + r a n d }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\zeta = r a n d ( - 0 . 5 , 0 . 5 )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $p x _ { i } ^ { d } \\left( t + 1 \\right)$ 为经过群体迁徙后的粒子的位置； $\\zeta$ 为调控因子。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "群体迁徙通过全局最优解和当前位置引导种群整体向全局最优靠近，增加了算法的收敛速度，有效改善GSA在迭代后期粒子移动速度慢的问题，为算法提供了一种有效的加速收敛机制。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 算法流程与时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1算法流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IABHGSA的流程如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dd488de258805d5f15e03eb8522c47be79bc740ad2505f8d090a87bf44a0498.jpg",
+        "img_caption": [
+            "图3IABHGSA流程Fig.3Flow chart ofIABHGSA"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "算法具体步骤如下：a)种群初始化：根据式(13)对种群进行初始化；b)根据适应度函数计算所有粒子的适应度值，选择出全局最优gbest；c)按照式(5)(2)(6)(9)(7)更新惯性质量M、引力系数G、粒子所受合力 $F$ 、粒子的加速度 $a$ 和速度 $\\nu$ ;d)按照式(15)计算当代粒子适应度方差 $\\delta _ { t } ^ { 2 }$ ；e)根据 $\\delta _ { t } ^ { 2 }$ 的值选择式(8)或者式(17)更新粒子位置 $x$ ；f)按照式(26)对粒子进行群体迁徙；g）根据适应度函数更新所有粒子的适应度值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "h)根据式(19)(21)对最优粒子和最差粒子进行学习，并按照式(20)(22)更新全局最优和全局最差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "i)判断当前运算是否满足停止条件，如果满足，输出最优结果，终止运算；若不满足，则跳转到c)继续运算。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 时间复杂度分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "设算法种群规模为 $N$ ，维度为 $^ d$ ，最大迭代次数为T。根据时间复杂度符号 $o$ 的运算规则，对于GSA，GSA初始化参数的时间复杂度为 $O ( 1 )$ ，计算GSA中各个粒子的适应度值的时间复杂度为 $O ( N )$ ，GSA完成 $\\mathrm { ~ T ~ }$ 次寻优的时间复杂度为 $O ( N \\times d \\times \\mathrm { T } )$ 。综上，GSA总的时间复杂度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO ( 1 ) + O ( N ) + O ( N \\times d \\times \\mathrm { T } ) { = } O ( N \\times d \\times \\mathrm { T } )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对于IABHGSA，增加改进Tent映射生成初始种群的时间复杂度为 $O ( N \\times d )$ ；增加改进自适应黑洞机制的时间复杂度为 $O ( N \\times d \\times \\mathrm { T } )$ ；增加基于学习思想的最优与最差粒子更新策略的时间复杂度为 $O ( d { \\times } \\mathrm { T } )$ ；增加群体迁徙机制的时间复杂度为 $O ( N \\times d \\times \\mathrm { T } )$ ，则新增改进策略的总时间复杂度为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { O \\left( N \\times d \\right) + O \\left( N \\times d \\times \\mathrm { T } \\right) + O \\left( d \\times \\mathrm { T } \\right) + O \\left( N \\times d \\times \\mathrm { T } \\right) } } \\\\ { { = O \\left( N \\times d \\times \\mathrm { T } \\right) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "GSA的时间复杂度为 $O ( N \\times d \\times \\mathrm { T } )$ ，本文所提改进策略的总时间复杂度为 $O ( N \\times d \\times \\mathrm { T } )$ ，所以IABHGSA的时间复杂度为$O ( N \\times d \\times \\mathrm { T } )$ 。和本文改进策略有相似之处的ITC-GSA[17]的时间复杂度为 $O ( N \\times d \\times \\mathrm { T } )$ 。综上表明，相较于GSA和目前较新的ITC-GSA，IABHGSA都没有增加计算负担。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 实验仿真与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证IABHGSA的优越性能，本文设置五个仿真实验：第一个实验将IABHGSA与4种近五年内的改进GSA进行比较；第二个实验将IABHGSA与5种启发式算法进行比较；第三个实验将IABHGSA与2种改进RBHGSA进行比较；第四个实验将4种结合单策略的GSA与基本GSA进行比较；第五个实验验证GSA、4种改进GSA、2种改进RBHGSA以及IABHGSA在高维测试函数上的性能。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1仿真实验环境",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文在 Intel?CoreTMi7-5500U CPU $\\Gamma @ 2 . 4 0 \\mathrm { G H z }$ ，内存8.00GB，Windows10操作系统和MATLAB2016a的环境下对文中所提所有算法进行仿真实验。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 基准测试函数",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验选取8个不同类型的基准测试函数，包括4个单峰基准测试函数、2个多峰基准测试函数和2个低维多峰基准测试函数。通过不同类型的基准测试函数全面验证IABHGSA的优越性和本文所提改进策略的有效性。各个基准函数的相关信息如表1所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0d812fde24734299257487192b90bb9c87c61a3fd2d6c49e8829f572fd5360f.jpg",
+        "table_caption": [
+            "表1基准测试函数",
+            "Tab.1Benchmark test functions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>类型</td><td colspan=\"2\">基准测试函数</td><td>范围</td><td>维度</td><td>理论最小值</td></tr><tr><td rowspan=\"3\">单峰</td><td colspan=\"2\">f=∑ix²</td><td>[-100,100]</td><td>30</td><td>0</td></tr><tr><td colspan=\"2\">f=∑-|xi|+II\"-_|x|</td><td>[-10,10]</td><td>30</td><td>0</td></tr><tr><td colspan=\"2\">f=∑(∑x）²</td><td>[-100,100]</td><td>30</td><td>0</td></tr><tr><td rowspan=\"3\">多峰</td><td>f4=maxi {lxil,1≤i≤n}</td><td>[-100,100]</td><td>30</td><td>0</td></tr><tr><td>-）+</td><td>[-600,600]</td><td>30</td><td>0</td></tr><tr><td>f=20exp-.∑x）exp(∑c（(x)）</td><td>[-32,32]</td><td>30</td><td>0</td></tr><tr><td rowspan=\"3\">低维多峰</td><td>=M[a（+ \"b²+bix+x4」</td><td>[-5,5]</td><td>4</td><td>0.0003</td></tr><tr><td>f=[1+(x +x+1)²(19-14x+3x²-14x+6xx+3x²)]×</td><td></td><td></td><td></td></tr><tr><td>[30+(2x-3x)²×(18-32x +12x² +48x-36xx+27x2)]</td><td>[-2,2]</td><td>2</td><td>3</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3算法参数设置 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文选取了4种近五年内的改进GSA:CAGSA-PSO[18]、SCGSA[19]、IGSA[20]、t-IGSA[21]，5 种启发式算法:PSO[22]、FPA[23]、BOA[24]、MA[25]、GWO[26]以及2种改进RBHGSA:ABHGSA[27]、RBHPSO-GSA[28]与 IABHGSA 进行对比实验。为了使实验结果可信、客观，设本文所有实验算法的种群规模 $N = 3 0$ ，算法最大迭代次数 $\\mathrm { T } = 1 0 0 0$ ，算法其他主要参数见表2。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/a5a9d708b3ce00330581525b3d2e665aca4f7054ca59b5245b0251f6a2c2f532.jpg",
+        "table_caption": [
+            "Tab.2The main parameters of the algorithm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>主要参数</td></tr><tr><td>GSA</td><td>G=50,α=10</td></tr><tr><td></td><td>CAGSA- y=100,n=0.1,@max =0.9,ωmin =0.4,c=1.5,c=0.5,其余</td></tr><tr><td>PSO</td><td>参数同GSA</td></tr><tr><td>SCGSA</td><td>kmax =2,kmin =0,其余参数同GSA</td></tr><tr><td>IGSA</td><td>@max =0.9，@min=0.5,c=0.5,c=1.5,其余参数同GSA 𝐶l=exp(-t/T),c=1-t/T,c=1.8×exp(-t/T)，其余参</td></tr><tr><td>t-IGSA</td><td>数同GSA</td></tr><tr><td>PSO</td><td>@max =0.9,@min =0.4,c=𝐶 =2</td></tr><tr><td>FPA</td><td>p=rand,a=0.01,λ=1.5</td></tr><tr><td>BOA</td><td>p=0.6,c=0.01,a=0.1</td></tr><tr><td>MA</td><td>a=1,a=1.5,a=1.5,β=2,d=5，fl=1,L∈U(-1,1)</td></tr><tr><td>GWO</td><td>amax=2,amin=0</td></tr><tr><td>ABHGSA</td><td>C=1.5,c=0.5,n=2,p=0.1,R=0.01,其余参数同GSA</td></tr><tr><td>RBHPSO-</td><td></td></tr><tr><td>GSA</td><td>α=1.5，α=0.5,p=0.1,R=0.01,其余参数同GSA</td></tr><tr><td>IABHGSA</td><td>c=1x10，β=1.5，其余参数同GSA</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.4IABHGSA与其他改进GSA的比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了验证IABHGSA的优越性，本节选取GSA、CAGSA-PSO、SCGSA、IGSA、t-IGSA和IABHGSA对8个基准测试函数进行仿真实验。为了使实验结果更加客观，每种算法在各个基准测试函数上独立运行30次。比较各算法在独立的30 次运行中的平均值(mean)、最优值(best)和标准差(std)，其中mean可以反映算法的寻优精度，best可以反映算法的求解质量，std可以反映算法的稳定性。不同算法寻优结果对比，见表3。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本文选取的基准测试函数中， $f _ { 1 }$ 至 $f _ { 4 }$ 为单峰函数， $f _ { 5 }$ 至 $f _ { 8 }$ 为多峰函数。从表2中可以看出，无论是求解单峰函数还是多峰函数，4种改进GSA和IABHGSA对比基本GSA的寻优精度都有一定的提升，其中IABHGSA的寻优结果是6种算法中最好的，验证了IABHGSA较强的探索和开发能力。在 $f _ { 1 }$ 至 $f _ { 6 }$ 上，部分改进GSA并未起到较好的优化效果，提升程度不大。对于 $f _ { 3 }$ ，GSA的寻优结果与理论最优相差较大，表明GSA在优化 $f _ { 3 }$ 时存在固有缺陷；4种改进GSA对$f _ { 3 }$ 的优化结果也与理论最优出现了较大差距，表明4种改进GSA并未克服GSA在 $f _ { 3 }$ 上存在的问题。而本文所提的IABHGSA在 $f _ { 3 }$ 上的寻优精度高出GSA和4种改进GSA约20个数量级，极大的提高了GSA在 $f _ { 3 }$ 上的寻优性能，克服了基本GSA在 $f _ { 3 }$ 上的固有缺陷。在 $f _ { 7 }$ 至 $f _ { 8 }$ 上，6种算法的寻优结果的平均值差距不大，体现了GSA这类算法在低维8多峰函数上具有较好的寻优性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综上，4种改进GSA在一定程度上提升了寻优性能，但是在面对GSA的固有缺陷时无法有效改善。本文所提IABHGSA可以有效提高算法的寻优精度并且能够有效解决GSA存在的问题。所以，从整体上看，IABHGSA具有较强的竞争优势。这是由于本文所提改进策略的作用，IABHGSA通过改进自适应黑洞机制选择合适的位置更新策略，使得粒子位置更新更为合理、有效。当算法陷入局部最优时，通过基于自我学习的最优粒子更新策略逃离局部最优，有效提高算法的寻优精度。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/06fe82d01c429edcaad71b9bd8d4e56efa58b4f88f8cadee0ea22d859ba4a911.jpg",
+        "table_caption": [
+            "表2算法的主要参数",
+            "表3算法寻优结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Tab.3 Comparison of algorithm optimization results</td></tr><tr><td>函数</td><td>算法</td><td>mean</td><td>best</td><td>std</td></tr><tr><td></td><td>GSA</td><td>6.82E-08</td><td>4.72E-08</td><td>1.32E-08</td></tr><tr><td rowspan=\"6\">f</td><td>CAGSA-PSO</td><td>2.36E-30</td><td>4.21E-31</td><td>2.45E-30</td></tr><tr><td>SCGSA</td><td>1.62E-10</td><td>2.16E-11</td><td>2.84E-10</td></tr><tr><td>IGSA</td><td>2.43E-09</td><td>1.07E-09</td><td>7.25E-10</td></tr><tr><td>t-IGSA</td><td>1.09E-18</td><td>1.36E-53</td><td>5.94E-18</td></tr><tr><td>IABHGSA</td><td>2.01E-54</td><td>4.76E-71</td><td>1.07E-53</td></tr><tr><td>GSA</td><td>9.42E-04</td><td>7.75E-04</td><td>1.23E-04</td></tr><tr><td></td><td>CAGSA-PSO</td><td>3.18E-06</td><td>1.73E-15</td><td>1.32E-05</td></tr><tr><td rowspan=\"6\">f</td><td>SCGSA</td><td>3.70E-05</td><td>2.31E-05</td><td>1.19E-05</td></tr><tr><td>IGSA</td><td>1.63E-04</td><td>1.19E-04</td><td>2.69E-05</td></tr><tr><td>t-IGSA</td><td>2.73E-35</td><td>1.78E-45</td><td>1.06E-34</td></tr><tr><td>IABHGSA</td><td>4.82E-45</td><td>5.12E-49</td><td>6.19E-45</td></tr><tr><td>GSA</td><td>2.38E+02</td><td>1.56E+02</td><td>5.90E+01</td></tr><tr><td>CAGSA-PSO</td><td>3.57E+02</td><td>7.90E+01</td><td>2.98E+02</td></tr><tr><td rowspan=\"6\">f</td><td>SCGSA</td><td>1.38E+02</td><td>3.98E+01</td><td>4.75E+01</td></tr><tr><td>IGSA</td><td>1.12E+00</td><td>8.49E-06</td><td>2.76E+00</td></tr><tr><td>t-IGSA</td><td>1.23E+01</td><td>8.80E-06</td><td>1.93E+01</td></tr><tr><td>IABHGSA</td><td>1.21E-19</td><td>7.49E-22</td><td>1.80E-19</td></tr><tr><td>GSA</td><td>1.98E+00</td><td>1.05E-04</td><td>1.73E+00</td></tr><tr><td>CAGSA-PSO</td><td>5.51E+00</td><td>9.65E-01</td><td>2.30E+00</td></tr><tr><td rowspan=\"6\">f4</td><td>SCGSA</td><td>3.94E-05</td><td>2.00E-05</td><td>2.41E-05</td></tr><tr><td>IGSA</td><td>3.48E+00</td><td>4.62E-01</td><td>3.14E+00</td></tr><tr><td>t-IGSA</td><td>6.16E+00</td><td>3.74E-06</td><td>3.85E+00</td></tr><tr><td>IABHGSA</td><td>7.42E-13</td><td>4.29E-18</td><td>1.19E-12</td></tr><tr><td>GSA</td><td>7.58E+00</td><td>3.46E+00</td><td>3.35E+00</td></tr><tr><td>CAGSA-PSO</td><td>4.76E+00</td><td>1.54E+00</td><td>2.57E+00</td></tr><tr><td rowspan=\"6\">f5</td><td>SCGSA</td><td>4.43E-03</td><td>3.90E-13</td><td>7.58E-03</td></tr><tr><td>IGSA</td><td>5.23E+00</td><td>9.13E-01</td><td>5.53E+00</td></tr><tr><td>t-IGSA</td><td>1.15E-03</td><td>0.00E+00</td><td>3.53E-03</td></tr><tr><td>IABHGSA</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>GSA</td><td>1.79E-04</td><td>1.46E-04</td><td>2.07E-05</td></tr><tr><td>CAGSA-PSO</td><td>1.97E-14</td><td>7.99E-15</td><td>7.05E-15</td></tr><tr><td rowspan=\"6\">f6</td><td>SCGSA</td><td>7.83E-06</td><td>3.20E-06</td><td>3.16E-06</td></tr><tr><td>IGSA</td><td>3.82E-05</td><td>2.41E-05</td><td>8.13E-06</td></tr><tr><td>t-IGSA</td><td>4.20E-15</td><td>8.88E-16</td><td>9.01E-16</td></tr><tr><td>IABHGSA</td><td>4.09E-15</td><td>8.88E-16</td><td>1.08E-16</td></tr><tr><td>GSA</td><td>2.45E-03</td><td>8.22E-04</td><td>1.27E-03</td></tr><tr><td>CAGSA-PSO</td><td></td><td></td><td></td></tr><tr><td rowspan=\"6\">f</td><td>SCGSA</td><td>6.90E-04</td><td>3.88E-04</td><td>1.61E-04</td></tr><tr><td>IGSA</td><td>1.78E-03 5.48E-04</td><td>1.21E-03</td><td>1.28E-03 3.56E-04</td></tr><tr><td>t-IGSA</td><td>5.64E-04</td><td>3.07E-04 3.07E-04</td><td>3.36E-04</td></tr><tr><td>IABHGSA</td><td></td><td></td><td></td></tr><tr><td></td><td>3.28E-04</td><td>3.40E-04</td><td>5.05E-05</td></tr><tr><td>GSA</td><td>3.00E+00</td><td>3.00E+00</td><td>3.66E-08</td></tr><tr><td rowspan=\"6\">fs</td><td>CAGSA-PSO</td><td>3.00E+00</td><td>3.00E+00</td><td>1.54E-15</td></tr><tr><td>SCGSA</td><td>3.00E+00</td><td>3.00E+00</td><td>5.74E-14</td></tr><tr><td>IGSA</td><td>3.00E+00</td><td>3.00E+00</td><td>4.40E-11</td></tr><tr><td>t-IGSA</td><td>3.00E+00</td><td></td><td></td></tr><tr><td></td><td></td><td>3.00E+00</td><td>1.28E-14</td></tr><tr><td>IABHGSA</td><td>3.00E+00</td><td>3.00E+00</td><td>2.13E-03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了更直观的展示不同算法的寻优过程，本节列出以上6 种算法在 $f _ { 1 }$ 至 $f _ { 8 }$ 上的迭代进化曲线，如图4\\~11所示。观察图2\\~7，可以看出IABHGSA具有不同于其他改进GSA的收敛特性。在 $f _ { 1 }$ 至 $f _ { 6 }$ 上，IABHGSA在迭代前期快速收敛，其收敛速度明显快于其他5种算法，并且从图中也可以更直观的看出IABHGSA的收敛精度得到了较大提升。对于 $f _ { 7 }$ 和 $f _ { 8 }$ ，6种算法都以较快的速度收敛至全局最优附近，收敛速度基本相同。以上表明IABHGSA提升了算法的收敛速度，IABHGSA具有较快的收敛速度主要是因为最差粒子向最优粒子学习策略和群体迁徙的作用。通过最差粒子向最优粒子学习策略，使得最差粒子快速移动至最优粒子附近，加速算法的收敛。同时由于群体迁移的作用，使种群在位置更新后整体向全局最优移动一定的距离，增强了算法的全局寻优能力。从图4、6、7、9可以看出，IABHGSA在迭代过程中多次跳出局部最优，在跳出局部最优后仍进行有效的收敛，该过程很好的证明了本文提出的改进策略可以帮助算法逃离局部最优，验证了IABHGSA良好的寻优性能。综上，IABHGSA提高了GSA的收敛速度，加强了GSA的全局寻优能力，并有效克服GSA易早熟收敛的问题。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "标准差可以检验算法的稳定性。从表3中可以看出，对于 $f _ { 1 }$ 至 $f _ { 6 }$ ，IABHGSA运行结果的标准差是6种算法中最小的，高出其他算法多个数量级。对于 $f _ { 7 }$ ，IABHGSA的稳定性和其他5种算法基本持平。对于 $f _ { 8 }$ ，IABHGSA的稳定性较差，表明本文提出的改进策略并未对GSA在 $f _ { 8 }$ 上的运行产生明显的优化效果。根据无免费午餐(no-free-lunch,NFL)定理，没有任何一种算法或者改进策略能在所有问题上达到最优。所以，在 $f _ { 8 }$ 上IABHGSA的稳定性较差是可以接受的。基于以上分析，相较于GSA和4种改进GSA，IABHGSA的稳定性得到了提升，算法的鲁棒性增强。IABHGSA较强的稳定性得益于最优粒子的自我学习，使算法有能力逃离局部最优，在每次寻优中都可以得到精度更高的解，从而使算法的稳定性和鲁棒性得到大幅度提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f1e7d53c29713941e6d0d1f98a56898a5f0bc3e00c29a25ba6373927a909e7f.jpg",
+        "img_caption": [
+            "图4各算法对 $f _ { 1 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/70905e63e7795048dbfd448a01a19312746fe92fc85cce34ad7f524627c552f3.jpg",
+        "img_caption": [
+            "Fig.4Iterative evolution curve of each algorithm to the $f _ { 1 }$ ",
+            "图5各算法对 $f _ { 2 }$ 的迭代进化曲线",
+            "Fig.5Iterative evolution curve of each algorithm to the $f _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f29d17826e30c01f0abd0df31bfd6f084ae087a93b462d32c9a473723928eaf6.jpg",
+        "img_caption": [
+            "图6各算法对 $f _ { 3 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e2eaafcf8165c0595f7486efdf057bac72bad6a50934c26c3d77553a196c55c.jpg",
+        "img_caption": [
+            "Fig.6Iterative evolution curve of each algorithm to the $f _ { 3 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/551c4cb78bf33f0bb07b53806c8c7560d7a0acf8bd785bb43b948728c0925444.jpg",
+        "img_caption": [
+            "Fig.7Iterative evolution curve of each algorithm to the $f _ { 4 }$ ",
+            "图8各算法对 $f _ { 5 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1d0588d223cb79b7af19f4b721f7b83dd6c4277262885c9fc6b2949d4552d8e.jpg",
+        "img_caption": [
+            "图7各算法对 $f _ { 4 }$ 的迭代进化曲线",
+            "Fig.8Iterative evolution curve of each algorithm to the $f _ { 5 }$ ",
+            "图9各算法对 $f _ { 6 }$ 的迭代进化曲线",
+            "Fig.9Iterative evolution curve of each algorithm to the $f _ { 6 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/92e4c11522ac7a21509571c88aace8e2a2ab07482af79d5885a96870f54c81e9.jpg",
+        "img_caption": [
+            "图10各算法对 $f _ { 7 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce5bd3a3de828d38e31fbd631dd72f798e577aed0a9cee57be69cd1123d263e4.jpg",
+        "img_caption": [
+            "Fig.10Iterative evolution curve of each algorithm to the $f _ { 7 }$ ",
+            "图11各算法对 $f _ { 8 }$ 的迭代进化曲线",
+            "Fig.11Iterative evolution curve of each algorithm to the $f _ { 8 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5IABHGSA与其他启发式算法的比较",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "第一个实验通过GSA、4种改进GSA与IABHGSA的比较，验证了IABHGSA的优越性能。为了进一步验证IABHGSA的优越性，本节采用5种启发式算法与IABHGSA进行对比分析，通过不同类型的算法比较进一步验证IABHGSA的优越性。本节选用的启发式算法包括PSO、FPA、BOA、MA以及GWO。选取以上5种算法对8个基准函数进行仿真实验，并选取本文表3中IABHGSA的实验结果与5种启发式算法进行对比。为了使实验结果更加客观，每种算法在各个基准测试函数上独立运行30次。比较各算法在独立的30 次运行中的平均值(mean)、最优值(best)和标准差(std)，不同算法寻优结果对比，见表4。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PSO 是一种经典的启发式算法，通过群体中个体自身的认知和个体之间的信息交流完成寻优，PSO收敛性好，结构简单，需要设置的参数少。FPA模拟自然界中显花植物花朵传粉过程，通过自花授粉、异花授粉完成寻优，具有收敛速度快等优点。BOA、MA、GWO是三种较新的基于种群的优化算法，其中BOA模拟蝴蝶的觅食行为，通过香味的强度完成全局搜索和局部搜索，BOA具有较高的收敛精度；MA模拟雄、雌蜉蝣的飞行行为和交配过程，通过交配产生下一代完成寻优，MA寻优能力强、收敛速度快；GWO模拟灰狼的领导层级和狩猎行为以此寻优最佳解决方案，GWO收敛速度快、寻优效果好。IABHGSA和上述5种启发式算法都属于群智能优化算法，其共同缺点为易早熟收敛、易陷入局部最优。从表4中可以看出，IABHGSA的寻优效果是6种算法中最好的。除IABHGSA在 $f _ { 1 }$ 和 $f _ { 4 }$ 上的寻优结果，IABHGSA在其他函数上都得到了6种算法中的最佳寻优精度。对于 $f _ { 2 }$ 、 $f _ { 3 }$ 、 $f _ { 5 }$ 、 $f _ { 6 }$ ，IABHGSA的寻优精度高出其他算法多个数量级，其寻优性能的优势明显。对于 $f _ { 1 }$ 和 $f _ { 4 }$ ，虽然IABHGSA的寻优结果不是6种算法中最佳的，但仍保持着较高的寻优精度。群智能优化算法通过最优个体的引导完成全局寻优，IABHGSA在此思想的基础上引入了对最优个体的自我学习，使最优个体可以根据自身进化情况有效更新自身位置，避免由于最优个体的错误引导使算法陷入局部最优中，有效增强了IABHGSA的局部寻优能力，显著提高了IABHGSA的寻优精度。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8df67db7f52d04b375067cd7fc00b3eed452d8cf0d239621a5993c7de41ab80.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "在稳定性方面，在 $f _ { 1 }$ 至 $f _ { 6 }$ 上，IABHGSA的标准差是6种"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">表4算法寻优结果对比</td></tr><tr><td></td><td>Tab.4 Comparison of algorithm optimization results</td><td></td><td></td><td></td></tr><tr><td>函数</td><td>算法</td><td>mean</td><td>best</td><td>std</td></tr><tr><td rowspan=\"7\">f</td><td>PSO</td><td>4.67E-04</td><td>3.23E-05</td><td>5.49E-04</td></tr><tr><td>FPA</td><td>1.54E+03</td><td>5.23E+01</td><td>2.74E+03</td></tr><tr><td>BOA</td><td>1.23E-13</td><td>1.14E-13</td><td>5.81E-15</td></tr><tr><td>MA</td><td>4.10E-14</td><td>5.58E-16</td><td>6.86E-14</td></tr><tr><td>GWO</td><td>1.15E-58</td><td>8.76E-61</td><td>2.05E-58</td></tr><tr><td>IABHGSA</td><td>2.01E-54</td><td>4.76E-71</td><td>1.07E-53</td></tr><tr><td>PSO</td><td>2.00E+00</td><td>2.24E-04</td><td>4.22E+00</td></tr><tr><td></td><td>FPA</td><td>4.13E+01</td><td>2.52E+01</td><td>1.16E+01</td></tr><tr><td rowspan=\"7\">f</td><td>BOA</td><td>6.54E-11</td><td>5.88E-11</td><td>3.53E-12</td></tr><tr><td>MA</td><td>2.47E-08</td><td>3.13E-11</td><td>4.23E-08</td></tr><tr><td>GWO</td><td>1.33E-34</td><td>2.39E-35</td><td>1.17E-34</td></tr><tr><td>IABHGSA</td><td>4.82E-45</td><td>5.12E-49</td><td>6.19E-45</td></tr><tr><td>PSO</td><td>3.31E+03</td><td>3.95E+02</td><td>3.49E+03</td></tr><tr><td>FPA</td><td>1.51E+04</td><td>6.92E+03</td><td>7.25E+03</td></tr><tr><td>BOA</td><td>9.84E-14</td><td>8.95E-14</td><td>9.23E-15</td></tr><tr><td rowspan=\"6\">f</td><td>MA</td><td>1.46E+03</td><td>2.36E+02</td><td>9.56E+02</td></tr><tr><td>GWO</td><td>8.50E-14</td><td>3.28E-20</td><td>2.34E-13</td></tr><tr><td>IABHGSA</td><td>1.21E-19</td><td>7.49E-22</td><td>1.80E-19</td></tr><tr><td>PSO</td><td>5.78E+00</td><td>3.99E+00</td><td>1.12E+00</td></tr><tr><td>FPA</td><td>2.43E+00</td><td>1.37E+00</td><td>1.37E+00</td></tr><tr><td>BOA</td><td>8.11E-11</td><td>7.34E-11</td><td>4.59E-12</td></tr><tr><td rowspan=\"8\">f4</td><td>MA</td><td>3.71E+01</td><td>2.35E+01</td><td>1.03E+01</td></tr><tr><td>GWO</td><td>1.58E-14</td><td>1.23E-15</td><td>1.91E-14</td></tr><tr><td>IABHGSA</td><td>7.42E-13</td><td>4.29E-18</td><td>1.19E-12</td></tr><tr><td>PSO</td><td>8.14E-03</td><td>3.13E-04</td><td>9.61E-03</td></tr><tr><td>FPA</td><td>4.25E+01</td><td>1.60E+00</td><td>7.25E+01</td></tr><tr><td>BOA</td><td>2.92E-15</td><td>0.00E+00</td><td>4.86E-15</td></tr><tr><td>MA</td><td>1.08E-02</td><td>1.11E-15</td><td>9.77E-03</td></tr><tr><td>GWO</td><td>1.40E-03</td><td>0.00E+00</td><td>4.41E-03</td></tr><tr><td rowspan=\"8\"></td><td></td><td></td><td>0.00E+00</td><td></td></tr><tr><td>IABHGSA</td><td>0.00E+00</td><td></td><td>0.00E+00</td></tr><tr><td>PSO</td><td>2.57E-02</td><td>2.00E-03</td><td>3.76E-02</td></tr><tr><td>FPA</td><td>1.58E+01</td><td>1.01E+01</td><td>3.77E+00</td></tr><tr><td>BOA</td><td>3.86E-11 2.32E-01</td><td>1.87E-11</td><td>1.65E-11</td></tr><tr><td>MA</td><td></td><td>5.00E-06</td><td>4.86E-01</td></tr><tr><td>GWO</td><td>1.58E-14</td><td>1.15E-14</td><td>2.80E-15</td></tr><tr><td>IABHGSA</td><td>4.09E-15</td><td>8.88E-16</td><td>1.08E-16</td></tr><tr><td rowspan=\"8\">f</td><td>PSO</td><td>2.63E-03</td><td>3.07E-04</td><td>6.25E-03</td></tr><tr><td>FPA</td><td>8.60E-04</td><td>6.78E-04</td><td>1.75E-04</td></tr><tr><td>BOA</td><td>3.45E-04</td><td>3.13E-04</td><td>2.22E-05</td></tr><tr><td>MA</td><td>6.61E-03</td><td>3.07E-04</td><td>9.51E-03</td></tr><tr><td>GWO</td><td>2.33E-03</td><td>3.07E-04</td><td>6.34E-03</td></tr><tr><td>IABHGSA</td><td>3.28E-04</td><td>3.40E-04</td><td>5.05E-05</td></tr><tr><td>PSO</td><td>3.00E+00</td><td>3.00E+00</td><td>5.34E-16</td></tr><tr><td>FPA</td><td>3.00E+00</td><td>3.00E+00</td><td>4.23E-04</td></tr><tr><td rowspan=\"6\">f</td><td>BOA</td><td>3.00E+00</td><td>3.00E+00</td><td>8.08E-03</td></tr><tr><td>MA</td><td></td><td></td><td></td></tr><tr><td></td><td>3.00E+00</td><td>3.00E+00</td><td>4.68E-16</td></tr><tr><td>GWO</td><td>3.00E+00</td><td>3.00E+00</td><td>1.19E-05</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>IABHGSA</td><td>3.00E+00</td><td>3.00E+00</td><td>2.13E-03</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "算法中最低的，稳定性最好；在 $f _ { 7 }$ 上，IABHGSA的稳定性略差于BOA，但IABHGSA的寻优精度优于BOA；在 $f _ { 8 }$ 上，IABHGSA的稳定性不及PSO和MA，但是在其他函数上IABHGSA的寻优精度和稳定性都优于PSO和MA。以上表明，虽然IABHGSA在部分函数上的稳定性不及其他算法，但是从总体上看，IABHGSA在每次寻优中都可以得到精度较高的结果，有效提高了IABHGSA优化成功的概率，使IABHGSA的稳定性更好、鲁棒性更强。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图12\\~14为6种算法在 $f _ { 1 }$ 、 $f _ { 2 }$ 、 $f _ { 5 }$ 上的迭代进化曲线。在图12、13中可以观察到PSO、FPA、BOA、MA因为收敛速度慢而得到较差的解。在图14可以看出，虽然GWO的收敛速度很快，但是其陷入了局部最优。从图12\\~14可以看出，IABHGSA具有较快的收敛速度，展示出了良好的收敛特性，并且在迭代后期具有较高的寻优精度。因此，与5种启发式算法相比，IABHGSA的收敛性能较好，验证了IABHGSA的优越性。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e1c99bca5bf176b5bd01fbf19992bbc6457823d7320b50c9d8506112f710d6a.jpg",
+        "img_caption": [
+            "图12各算法对 $f _ { 1 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c482b6d7664efb6c3858ac8f64dac48b38c727190e00b030f96732f9bbfb0313.jpg",
+        "img_caption": [
+            "Fig.l2Iterative evolution curve of each algorithm to the $f _ { 1 }$ ",
+            "图13各算法对 $f _ { 2 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d0dcd8e3d12b39e093ab5a29101911832972cdecd527f4745b23d7612ab6c1d.jpg",
+        "img_caption": [
+            "Fig.13Iterative evolution curve of each algorithm to the $f _ { 2 }$ ",
+            "图14各算法对 $f _ { 5 }$ 的迭代进化曲线",
+            "Fig.14Iterative evolution curve of each algorithm to the $f _ { 5 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.6IABHGSA与改进 RBHGSA的比较 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为了验证IABHGSA在同类型算法中的优越性，本节选取2种改进RBHGSA以及IABHGSA对 $f _ { 1 }$ 至 $f _ { 8 }$ 进行仿真对比。其中，2种改进RBHGSA分别为ABHGSA和RBHPSO-GSA。ABHGSA和RBHPSO-GSA分别在 $f _ { 1 }$ 至 $f _ { 8 }$ 上独行运行30次，得到2种算法运行结果的平均值(mean)、最优值(best)和标准差(std)。将上述实验结果与本文表3中IABHGSA的实验结果进行对比，不同算法的寻优结果对比，见表5。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "表5算法寻优结果对比",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/005739a654c2425d6c92eb8279e75f968f07201390ca00cff74d031479a820de.jpg",
+        "table_caption": [
+            "Tab.5Comparison of algorithm optimization results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>函数</td><td>算法</td><td>mean</td><td>best</td><td>std</td></tr><tr><td rowspan=\"3\">f</td><td>ABHGSA</td><td>7.73E-09</td><td>3.48E-09</td><td>2.21E-09</td></tr><tr><td>RBHPSO-GSA</td><td>4.12E-09</td><td>2.47E-09</td><td>1.12E-09</td></tr><tr><td>IABHGSA</td><td>2.01E-54</td><td>4.76E-71</td><td>1.07E-53</td></tr><tr><td rowspan=\"3\">f</td><td>ABHGSA</td><td>4.14E-04</td><td>2.49E-04</td><td>1.21E-04</td></tr><tr><td>RBHPSO-GSA</td><td>2.94E-04</td><td>1.97E-04</td><td>4.82E-05</td></tr><tr><td>IABHGSA</td><td>4.82E-45</td><td>5.12E-49</td><td>6.19E-45</td></tr><tr><td rowspan=\"3\">f</td><td>ABHGSA</td><td>9.81E-02</td><td>2.94E-03</td><td>1.31E-01</td></tr><tr><td>RBHPSO-GSA</td><td>4.03E+00</td><td>2.87E-01</td><td>5.68E+00</td></tr><tr><td>IABHGSA</td><td>1.21E-19</td><td>7.49E-22</td><td>1.80E-19</td></tr><tr><td rowspan=\"3\">f4</td><td>ABHGSA</td><td>1.66E-04</td><td>1.03E-04</td><td>5.09E-05</td></tr><tr><td>RBHPSO-GSA</td><td>3.04E+00</td><td>4.58E-05</td><td>2.11E+00</td></tr><tr><td>IABHGSA</td><td>7.42E-13</td><td>4.29E-18</td><td>1.19E-12</td></tr><tr><td rowspan=\"3\">f5</td><td>ABHGSA</td><td>1.71E-02</td><td>3.15E-10</td><td>2.09E-02</td></tr><tr><td>RBHPSO-GSA</td><td>1.56E+00</td><td>4.56E-10</td><td>1.27E+00</td></tr><tr><td>IABHGSA</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td rowspan=\"3\">f</td><td>ABHGSA</td><td>6.87E-05</td><td>5.23E-05</td><td>9.98E-06</td></tr><tr><td>RBHPSO-GSA</td><td>4.75E-05</td><td>3.45E-05</td><td>7.40E-06</td></tr><tr><td>IABHGSA</td><td>4.09E-15</td><td>8.88E-16</td><td>1.08E-16</td></tr><tr><td rowspan=\"3\">f</td><td>ABHGSA</td><td>6.58E-04</td><td>3.07E-04</td><td>3.08E-04</td></tr><tr><td>RBHPSO-GSA</td><td>6.03E-04</td><td>3.07E-04</td><td>2.84E-04</td></tr><tr><td>IABHGSA</td><td>3.28E-04</td><td>3.40E-04</td><td>5.05E-05</td></tr><tr><td rowspan=\"3\">fs</td><td>ABHGSA</td><td>3.00E+00</td><td>3.00E+00</td><td>7.49E-10</td></tr><tr><td>RBHPSO-GSA</td><td>3.00E+00</td><td>3.00E+00</td><td>7.52E-10</td></tr><tr><td>IABHGSA</td><td>3.00E+00</td><td>3.00E+00</td><td>2.13E-03</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ABHGSA、RBHPSO-GSA和IABHGSA都是在RBHGSA的基础上作出改进，基于同类型算法的改进算法之间的对比更能体现改进算法的优越性和所用改进策略的有效性。从表5中可以看出，相较于ABHGSA和RBHPSO-GSA的寻优结果，IABHGSA 在 $f _ { 1 }$ 至 $f _ { 8 }$ 上的寻优结果都是最好的，表明IABHGSA在同类型算法中竞争优势明显，验证了IABHGSA具有较强的寻优性能。同时从表5中可以看出，对于使用基本随机黑洞的ABHGSA和RBHPSO-GSA，其寻优结果相较于表3中GSA的实验结果，提升程度有限，大概提高了1个数量级左右。这是因为基本随机黑洞策略只能随机地在两种位置更新策略中进行选择，这样会导致算法过早抵达当前全局最优附近，从而早熟收敛，削弱了算法的局部勘探能力。IABHGSA不同于以上两种改进RBHGSA，IABHGSA对基本随机黑洞策略进行改进，根据当代粒子适应度方差选择合适的位置更新策略，使粒子位置的更新更符合粒子的迭代情况，避免因随机选择位置更新策略而导致的算法陷入局部最优，从而有效提高了算法的局部寻优能力。同时，基于自我学习的最优粒子更新策略可以避免算法陷入局部最优，也降低了算法陷入局部最优的可能性。两种改进策略使IABHGSA的寻优精度得到较大的提升，验证了IABHGSA在同类型算法中优异的寻优性能。在算法的稳定性方面，IABHGSA的综合表现较好，仅在 $f _ { 8 }$ 上的稳定性不如2种改进RBHGSA。综上表明，IABHGSA的稳定性在超过 $8 5 \\%$ 的测试函数上均有明显的优势，算法的寻优效果更为稳定，在面对各种优化问题时的稳定性和鲁棒性更好。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.7不同改进策略的比较",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本节通过GSA与4种结合单策略改进的GSA进行比较，从而验证本文所提改进策略的有效性。将结合改进Tent映射生成初始种群的GSA命名为GSA1；结合改进自适应黑洞机制的GSA命名为GSA2；结合基于学习思想的最优与最差粒子更新策略的GSA命名为GSA3；结合群体迁徙的GSA命名为GSA4。将GSA与4种结合单策略的GSA进行对比实验，并给出GSA1、GSA2、GSA3、GSA4在 $f _ { 1 }$ 至 $f _ { 8 }$ 上独立运行30次后得到的寻优结果的平均值(mean)、最优值(best)和标准差(std)，与本文表3中GSA的实验结果进行对比，相关数据见表6。由于篇幅原因，但为了更直观的比较不同改进策略对GSA 收敛速度的影响，本节给出各算法对 $f _ { 1 }$ 、 $f _ { 2 }$ 、$f _ { 5 }$ 、 $f _ { 7 }$ 的迭代进化曲线，如图15\\~18所示。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/6e8293a210931fec7b40cb7594afbb36ba934e4b808f4a77a3dcbec81e34657d.jpg",
+        "table_caption": [
+            "表6算法寻优结果对比",
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">1ab.6 Comp</td></tr><tr><td>函数</td><td>算法</td><td>mean</td><td>best</td><td>std</td></tr><tr><td></td><td>GSA</td><td>6.82E-08</td><td>4.72E-08</td><td>1.32E-08</td></tr><tr><td rowspan=\"5\">f</td><td>GSA1</td><td>7.65E-09</td><td>5.19E-09</td><td>2.54E-09</td></tr><tr><td>GSA2</td><td>1.10E-17</td><td>2.15E-19</td><td>2.21E-17</td></tr><tr><td>GSA3</td><td>1.10E-41</td><td>6.94E-51</td><td>3.23E-41</td></tr><tr><td>GSA4</td><td>1.89E-12</td><td>1.10E-15</td><td>3.71E-12</td></tr><tr><td>GSA</td><td>9.42E-04</td><td>7.75E-04</td><td>1.23E-04</td></tr><tr><td></td><td>GSA1</td><td>4.31E-04</td><td>3.10E-04</td><td>5.70E-05</td></tr><tr><td rowspan=\"5\">f</td><td>GSA2</td><td>6.82E-13</td><td>1.31E-13</td><td>5.98E-13</td></tr><tr><td>GSA3</td><td>3.92E-39</td><td>5.44E-47</td><td>5.92E-39</td></tr><tr><td>GSA4</td><td>8.84E-07</td><td>2.05E-07</td><td>1.20E-06</td></tr><tr><td>GSA</td><td>2.38E+02</td><td>1.56E+02</td><td>5.90E+01</td></tr><tr><td>GSA1</td><td>1.95E+01</td><td>1.74E+00</td><td>1.77E+01</td></tr><tr><td rowspan=\"6\">f</td><td>GSA2</td><td>3.13E-19</td><td>8.18E-21</td><td>4.34E-19</td></tr><tr><td>GSA3</td><td>6.87E+01</td><td>3.26E+01</td><td>3.38E+01</td></tr><tr><td>GSA4</td><td>1.11E-12</td><td>3.20E-16</td><td>3.08E-12</td></tr><tr><td>GSA</td><td>1.98E+00</td><td>1.05E-04</td><td>1.73E+00</td></tr><tr><td>GSA1</td><td>8.30E-01</td><td>4.01E-05</td><td>2.13E+00</td></tr><tr><td>GSA2</td><td>2.02E-12</td><td>5.40E-14</td><td>3.51E-12</td></tr><tr><td rowspan=\"6\">f5</td><td>GSA3</td><td>5.77E-01</td><td>3.69E-05</td><td>9.51E-01</td></tr><tr><td>GSA4</td><td>7.52E-07</td><td>5.61E-09</td><td>8.98E-07</td></tr><tr><td>GSA</td><td>7.58E+00</td><td>3.46E+00</td><td>3.35E+00</td></tr><tr><td>GSA1</td><td>2.89E+00</td><td>2.27E-10</td><td>5.50E+00</td></tr><tr><td>GSA2</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td>GSA3</td><td>0.00E+00</td><td>0.00E+00</td><td>0.00E+00</td></tr><tr><td rowspan=\"6\">f6</td><td></td><td></td><td></td><td></td></tr><tr><td>GSA4</td><td>3.46E-04</td><td>0.00E+00</td><td>1.89E-03</td></tr><tr><td>GSA</td><td>1.79E-04</td><td>1.46E-04</td><td>2.07E-05</td></tr><tr><td>GSA1 GSA2</td><td>6.74E-05 1.71E-12</td><td>4.15E-05 5.06E-14</td><td>1.09E-05</td></tr><tr><td>GSA3</td><td></td><td>8.88E-16</td><td>1.86E-12</td></tr><tr><td></td><td>4.09E-15</td><td></td><td>1.43E-15</td></tr><tr><td rowspan=\"6\">f</td><td>GSA4</td><td>2.48E-07</td><td>9.81E-09</td><td>4.81E-07</td></tr><tr><td>GSA</td><td>2.45E-03</td><td>8.22E-04</td><td>1.27E-03</td></tr><tr><td>GSA1</td><td>1.88E-03</td><td>6.25E-04</td><td>2.24E-03</td></tr><tr><td>GSA2</td><td>1.75E-02</td><td>7.41E-04</td><td>2.99E-02</td></tr><tr><td>GSA3</td><td>1.05E-03</td><td>5.11E-04</td><td>8.42E-04</td></tr><tr><td>GSA4</td><td>3.63E-04</td><td>3.08E-04</td><td>2.42E-04</td></tr><tr><td rowspan=\"5\">fs</td><td>GSA</td><td>3.00E+00</td><td>3.00E+00</td><td>3.66E-08</td></tr><tr><td>GSA1</td><td>3.00E+00</td><td>3.00E+00</td><td>3.19E-10</td></tr><tr><td>GSA2</td><td>2.06E+01</td><td>3.01E+00</td><td>2.78E+01</td></tr><tr><td>GSA3</td><td>3.00E+00</td><td>3.00E+00</td><td>2.70E-10</td></tr><tr><td>GSA4</td><td>3.00E+00</td><td>3.00E+00</td><td>3.87E-04</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从表6中可以看出，在 $f _ { 1 }$ 至 $f _ { 6 }$ 上，4种结合单策略改进的GSA的寻优精度和稳定性都得到了提升，表明结合单策略改进的GSA的寻优性能和鲁棒性更好。GSA2和GSA3在$f _ { 1 }$ 至 $f _ { 6 }$ 上的寻优效果较好，这验证了改进自适应黑洞机制和基于自我学习的最优粒子更新策略可以有效改善算法易早熟收敛的缺点，提升算法的寻优精度。对于 $f _ { 7 }$ 和 $f _ { 8 }$ ，GSA和4种结合单策略改进的GSA的寻优精度基本相同。在稳定性上，GSA2在 $f _ { 7 }$ 和 $f _ { 8 }$ 上表现不佳，但GSA2在其他函数上的收敛精度和稳定性都优于GSA，根据NFL定理，由此说明GSA2中的改进策略仍是有效的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从图15\\~18中可以看出，4种单策略改进的GSA的收敛速度优于GSA，表明本文所提的改进策略可以有效提高算法的收敛速度，增强了GSA的全局寻优能力。对于图17，GSA1的收敛速度得到提升，验证了改进Tent映射生成初始种群可以增强算法的全局探索能力。观察图17和18,GSA2和GSA3的曲线上存在多个转折点，表明改进自适应黑洞机制和基于自我学习的最优粒子更新策略可以有效的帮助算法逃离局部最优，提升算法的寻优精度。同时，GSA4在 $f _ { 1 }$ 、 $f _ { 5 }$ 和 $f _ { 7 }$ 上收敛速度提升明显，表明群体迁徙策略可以加速算法收敛，为算法提供了有效的加速收敛机制，克服了GSA缺少加速机制的缺点。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总结而言，GSA3的寻优结果的有效性显著，在寻优精度、收敛速度、稳定性上都有较大提升。GSA1的寻优结果是4种单策略改进的GSA中效果最差的，但其三个评价指标都略优于GSA。GSA2在 $f _ { 7 }$ 和 $f _ { 8 }$ 上表现较差，但在其他函数上的寻优精度、收敛速度、稳定性相较于GSA得到了较大提升。GSA4在$f _ { 2 }$ 上收敛速度与GSA 持平，但在 $f _ { 1 }$ 、 $f _ { 5 }$ 、 $f _ { 7 }$ 上收敛速度高于GSA，并且GSA4在 $f _ { 1 }$ 至 $f _ { 8 }$ 上有较高的寻优精度和稳定性。综上，虽然部分改进策略在某些函数上表现不佳，但是从总体上看是有效的，验证了本文所提改进策略的有效性。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5eac5ed5c1149bc74038e222f83703011e27909944bd97b7e1ed9bfb1b614d01.jpg",
+        "img_caption": [
+            "图15各算法对 $f _ { 1 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c4492453cb0c2c3a988a94ea7e93f12bbcaeaf199ee53bddcb2a6ab5d8ddbc1.jpg",
+        "img_caption": [
+            "Fig.15Iterative evolution curve of each algorithm to the $f _ { 1 }$ ",
+            "图16各算法对 $f _ { 2 }$ 的迭代进化曲线",
+            "Fig.l6Iterative evolution curve of each algorithm to the $f _ { 2 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3950791fdc3ddcabc8904596816003a4b189f9043c3e2e0f5f946969aa2e73ed.jpg",
+        "img_caption": [
+            "图17各算法对 $f _ { 5 }$ 的迭代进化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/811e73d48e8a0121f81fcdc863c8c01c2770b2cb2803f3153411edc9da75b860.jpg",
+        "img_caption": [
+            "Fig.17Iterative evolution curve of each algorithm to the $f _ { 5 }$ ",
+            "图18各算法对 $f _ { 7 }$ 的迭代进化曲线",
+            "Fig.18Iterative evolution curve of each algorithm to the $f _ { 7 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.8高维测试函数实验结果及分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文所提IABHGSA在低维函数上有较好的寻优精度、收敛精度和稳定性。但是一般的改进策略在面对实际工程问题，特别是高维测试函数时极易失效。为了进一步验证IABHGSA的优越性和本文所提改进策略的有效性，本节选取GSA、CAGSA-PSO、SCGSA、IGSA、t-IGSA、ABHGSA、RBHPSO-GSA以及IABHGSA对 $f _ { 1 }$ 至 $f _ { 6 }$ 进行高维测试函数的仿真实验。高维维度设置为500维，关于其他参数的设置，已在本文4.3节中详细阐述。为了使实验结果更加客观，每种算法在各个高维测试函数上独立运行30次。比较各算法在独立的 30 次运行中的平均值(mean)、最优值(best)和标准差(std)，不同算法寻优结果对比，见表7。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从表7中可以看出，在高维函数上，IABHGSA的收敛精度依旧较高，在 $f _ { 1 }$ 至 $f _ { 6 }$ 上都收敛至理论最优附近，表明IABHGSA在高维函数上依然有较好的寻优性能。对于GSA和6种改进GSA，其失效现象较为明显，尤其在 $f _ { 2 }$ 上。 $f _ { 2 }$ 是连续的、平滑的单模态函数，当自变量趋近于无穷大时，函数会形成大量局部极值区域，易陷入局部最优且不易跳出，在高维测试函数下求解难度较大。GSA、CAGSA-PSO、SCGSA、IGSA在 $f _ { 2 }$ 上严重失效，几乎未起到优化效果；虽然t-IGSA、ABHGSA和RBHPSO-GSA的寻优结果优于GSA、CAGSA-PSO、SCGSA、IGSA，但是失效现象依旧较为明显，这也证明了一般的改进策略在高维函数上极易失效。IABHGSA在 $f _ { 2 }$ 上的收敛精度高出GSA和6种改进GSA多个数量级，收敛精度远高于GSA和6种改进GSA，这是因为基于自我学习的最优粒子更新策略可以帮助算法逃离局部最优，增强算法的局部寻优能力，提高算法的收敛精度。同时，IABHGSA在 $f _ { 1 }$ 至 $f _ { 6 }$ 寻优结果的标准差都低于其他7种算法，表明在高维函数上IABHGSA的稳定性依旧较强、鲁棒性好。综上，对于高维函数，IABHGSA的寻优性能依旧强于基本GSA和6种改进GSA。以上表明IABHGSA可以有效的处理复杂的高维问题，验证了IABHGSA的优越性和本文所提改进策略的有效性。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/5c6a5930cc5b256f20f66f5ac9ded578c0226b641b26470ef398011dde38e71a.jpg",
+        "table_caption": [
+            "表7算法对高维测试函数寻优结果对比"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\">Tab.7 Comparison of optimization results of algorithms on</td></tr><tr><td></td><td colspan=\"3\">high-dimensional test functions</td><td></td></tr><tr><td>函数</td><td>算法</td><td>mean 4.06E+04</td><td>best 3.66E+04</td><td>std 3.31E+03</td></tr><tr><td rowspan=\"8\">f</td><td>GSA</td><td>1.30E+05</td><td>9.71E+04</td><td>1.98E+04</td></tr><tr><td>CAGSA-PSO</td><td></td><td></td><td></td></tr><tr><td>SCGSA</td><td>1.85E+04</td><td>1.56E+04</td><td>2.29E+03</td></tr><tr><td>IGSA</td><td>1.61E+05</td><td>1.13E+05</td><td>2.18E+04</td></tr><tr><td>t-IGSA</td><td>2.02E+05</td><td>1.67E+05</td><td>4.05E+04</td></tr><tr><td>ABHGSA</td><td>5.72E+04</td><td>4.65E+04</td><td>8.99E+03</td></tr><tr><td>RBHPSO-GSA</td><td>1.40E+05</td><td>1.19E+05</td><td>2.28E+04</td></tr><tr><td>IABHGSA</td><td>1.07E-17</td><td>4.21E-20</td><td>2.70E-17</td></tr><tr><td rowspan=\"11\">f</td><td>GSA</td><td>5.23E+266</td><td>1.59E+02</td><td>Inf</td></tr><tr><td>CAGSA-PSO</td><td>5.23E+266</td><td>2.87E+02</td><td>Inf</td></tr><tr><td>SCGSA</td><td>5.23E+266</td><td>2.57E+02</td><td>Inf</td></tr><tr><td>IGSA</td><td>5.23E+266</td><td>3.78E+02</td><td>Inf</td></tr><tr><td>t-IGSA</td><td>2.57E+01</td><td>4.60E-11</td><td>4.25E+01</td></tr><tr><td>ABHGSA</td><td>1.71E+02</td><td>1.53E+02</td><td>1.49E+01</td></tr><tr><td></td><td>RBHPSO-GSA</td><td>2.48E+02</td><td>1.95E+02</td><td>3.22E+01</td></tr><tr><td></td><td>IABHGSA GSA</td><td>2.56E-04</td><td>9.87E-08</td><td>4.99E-04</td></tr><tr><td></td><td></td><td>2.84E+05</td><td>1.74E+05</td><td>1.36E+05</td></tr><tr><td rowspan=\"10\">f</td><td>CAGSA-PSO</td><td>1.40E+06</td><td>7.76E+05</td><td>6.78E+05</td></tr><tr><td>SCGSA</td><td>1.50E+05</td><td>1.07E+05</td><td>3.11E+04</td></tr><tr><td>IGSA</td><td>3.59E+06</td><td>2.05E+06</td><td>1.26E+06</td></tr><tr><td>t-IGSA</td><td>3.13E+06</td><td>5.46E+05</td><td>2.00E+06</td></tr><tr><td>ABHGSA</td><td>1.04E+06</td><td>4.61E+05</td><td>7.47E+05</td></tr><tr><td>RBHPSO-GSA</td><td>2.18E+06</td><td>7.75E+05</td><td>1.41E+06</td></tr><tr><td>IABHGSA</td><td>7.53E-19</td><td>4.51E-20</td><td>1.00E-18</td></tr><tr><td>GSA</td><td>2.58E+01</td><td>2.31E+01</td><td>2.03E+00</td></tr><tr><td>CAGSA-PSO SCGSA</td><td>4.74E+01</td><td>4.46E+01</td><td>3.11E+00</td></tr><tr><td></td><td></td><td>2.22E+01</td><td>2.03E+01</td><td>1.71E+00</td></tr><tr><td rowspan=\"10\">f4</td><td>IGSA</td><td>5.99E+01</td><td>5.11E+01</td><td>4.00E+00</td></tr><tr><td>t-IGSA</td><td>5.69E+01</td><td>4.83E+01</td><td>5.43E+00</td></tr><tr><td>ABHGSA</td><td>4.57E+01</td><td>4.20E+01</td><td>3.26E+00</td></tr><tr><td>RBHPSO-GSA</td><td>4.92E+01</td><td>4.43E+01</td><td>3.93E+00</td></tr><tr><td>IABHGSA</td><td>7.78E-12</td><td>1.73E-12</td><td>4.26E-12</td></tr><tr><td>GSA</td><td>4.57E+03</td><td>4.40E+03</td><td>1.15E+02</td></tr><tr><td>CAGSA-PSO</td><td>1.65E+03</td><td>1.42E+03</td><td>1.66E+02</td></tr><tr><td>SCGSA</td><td>4.03E+02</td><td>3.53E+02</td><td>3.41E+01</td></tr><tr><td>IGSA</td><td>2.01E+03</td><td>1.31E+03</td><td>4.64E+02</td></tr><tr><td>t-IGSA</td><td>2.14E+03</td><td>1.92E+03</td><td>1.20E+02</td></tr><tr><td rowspan=\"12\"></td><td></td><td></td><td></td><td></td></tr><tr><td>ABHGSA RBHPSO-GSA</td><td>1.49E+03 1.81E+03</td><td>1.14E+03 1.43E+03</td><td>1.95E+02 2.50E+02</td></tr><tr><td>IABHGSA</td><td>3.33E-16</td><td>0.00E+00</td><td>6.62E-16</td></tr><tr><td>GSA</td><td>9.16E+00</td><td>8.71E+00</td><td>2.91E-01</td></tr><tr><td>CAGSA-PSO</td><td>1.35E+01</td><td>1.25E+01</td><td>7.71E-01</td></tr><tr><td>SCGSA</td><td>8.51E+00</td><td>7.75E+00</td><td>5.11E-01</td></tr><tr><td>IGSA</td><td>1.54E+01</td><td>1.46E+01</td><td>4.56E-01</td></tr><tr><td>t-IGSA</td><td></td><td></td><td></td></tr><tr><td></td><td>1.55E+01</td><td>1.46E+01</td><td>5.47E-01</td></tr><tr><td>ABHGSA</td><td>1.29E+01</td><td>1.12E+01</td><td>7.65E-01</td></tr><tr><td>RBHPSO-GSA</td><td>1.32E+01</td><td>1.23E+01</td><td>5.90E-01</td></tr><tr><td>IABHGSA</td><td>1.12E-11</td><td>1.57E-12</td><td>6.38E-12</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本文提出了一种基于改进自适应黑洞机制的引力搜索算法，使用基于logistic 映射改进的Tent映射进行种群初始化，改善算法的全局勘探能力。引入改进自适应黑洞机制，使粒子按照迭代进化情况选择位置更新策略，使得位置更新更为合理，同时提升了算法的寻优精度。引入基于学习思想的最优与最差粒子更新策略，有效避免算法陷入局部最优和提升算法的收敛速度。采用群体迁徙机制，有效增强了算法的全局探索能力，为算法提供了有效的加速机制。最后，通过仿真验证了IABHGSA的优越性和本文所提改进策略的有效性由于IABHGSA的研究处于初始阶段，接下来的研究方向主要为拓展IABHGSA至实际问题中的应用。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]Rashedi E,Nezamabadi-Pour H, Saryazdi S.GSA:a gravitational search algorithm [J].Information sciences,2009,179 (13): 2232-2248.   \n[2] 韩维，崔荣伟，苏析超，等．基于双种群模糊引力搜索算法的舰载机 甲板作业调度[J].控制与决策,2021,36(11):2751-2759.(Han Wei, Cui Rongwei, Su Xichao,et al.Flight deck operations scheduling based on dual population fuzzy gravitational search algorithm [J]. Control and Decision,2021,36 (11): 2751-2759.)   \n[3] 赵芮，顾幸生．基于引力搜索算法的混合零空闲置换流水车间调度 [J]计算机集成制造系统，2021,27(07):1909-1917.(Zhao Rui,Gu Xingsheng.Hybrid zero-idle replacement flow shop scheduling based on gravitysearch algorithm [J]. Computer Integrated Manufacturing Systems,2021,27(07): 1909-1917.)   \n[4]徐珊玲，李俊红，刘梦茹，等.Wiener 系统的混沌引力搜索迭代辨识 [J]．系统仿真学报，2021，33(09):2138-2146.(Xu Shanling,Li Junhong,Liu Mengru,et al. Iterative identificationof chaotic gravity search for Wiener systems [J].Journal of System Simulation,2021,33 (09): 2138-2146.)   \n[5]刘小刚，欧阳自根．改进万有引力搜索算法在函数优化中的应用 [J]．沈阳工业大学学报，2021,43(02):193-197.(Liu Xiaogang, Ouyang Zigen.Application of improved gravitational search algorithm infunction optimization [J].Journal of Shenyang University of Technology,2021,43 (02):193-197.)   \n[6] 李鹏，徐伟娜，周泽远，等．基于改进万有引力搜索算法的微网优化 运行[J]．中国电机工程学报,2014,34(19):3073-3079.(LiPeng,Xu Weina,Zhou Zeyuan,et al. Optimal operation of microgrid based on improved gravitation search algorithm [J]. Proceedings of the Chinese Society of Electrical Engineering,2014,34(19): 3073-3079.)   \n[7] 刘紫阳，庞志华，陶佩，等．记忆增强的莱维飞行引力搜索算法[J]. 计算机仿真,2022,39(01): 312-317.(Liu Ziyang,Pang Zhihua,Tao Pei, et al.Memory-enhanced Levy flight gravitational search algorithm [J]. Computer Simulation,2022,39 (01): 312-317.)   \n[8]Mirjalili S,Hashim S ZM.Anew hybrid PSOGSA algorithm for function optimization [C]//Proc of International Conference on Computer and Information Application. Bangalore: IEEE Press,2010: 374-377.   \n[9]Su Zikang,Wang Honglun.A novel robust hybrid gravitational search algorithm for reusable launch vehicle approach and landing trajectory optimization [J].Neurocomputing,2015,162:116-127.   \n[10]张维平,任雪飞,李国强,等.改进的万有引力搜索算法在函数优化中的应 用[J].计算机应用,2013,33(5):1317-1320.(Zhang Weiping,Ren Xuefei,Li Guoqiang,etal.Application of improved gravitational search algorithm in function optimization[J].Computer Applications,2013,33(5):1317-1320.)   \n[11] Joshi S K,Bansal JC.Parameter tuning for meta-heuristics [J]. Knowledge-Based Systems,2020,189:105094.   \n[12]高晨峰，陈家清，石默涵．融合黄金正弦和曲线自适应的多策略麻 雀搜索算法[J].计算机应用研究，2022,39(02):491-499.(Gao Chenfeng, Chen Jiaqing,Shi Mohan. Multi-Strategy Sparrow Search [J]．控制工程,2017,24(09):1823-1828.(BaiGuozhen,Jing Pengxiang. Delta manipulator trajectory planning based on improved gravity search algorithm [J].Control Engineering,2017,24(09):1823-1828.)   \n[14] Zhang Junqi,Liu Kun, Ying Tan,etal.Random black hole particle swarm optimization and its application [Cl//Proc of Intermational Conference on Neural Networks and Signal Processing. Zhenjiang: IEEE Press,20o8:359-365.   \n[15] Rao R V,Savsani VJ，Vakharia D P. Teaching-learning-based optimization: an optimization method for continuous non-linear large scale problems [J]. Information Sciences,2012,183 (1):1-15.   \n[16]孙翠珍，丁君，郭陈江．改进的引力搜索算法及在面阵综合中的应 用[J].西北工业大学学报,2020,38(05):1018-1024.(Sun Cuizhen, Ding Jun, Guo Chenjiang. Improved gravitational search algorithm and itsapplication in area array synthesis [J].Journal of Northwestern Polytechnical University,2020,38 (05):1018-1024.)   \n[17]张娜，赵泽丹，包晓安，等．基于改进的Tent混沌万有引力搜索算法 [J].控制与决策,2020,35 (04): 893-900. (Zhang Na, Zhao Zedan,Bao Xiaoan，et al. An improved Tent-based chaotic gravitational search algorithm[J]. Control and Decision,2020,35 (04): 893-900.)   \n[18] Zhang Peng, Cui Zhiwei,Wang Yinjiang,et al. Application of BPNN optimized by chaotic adaptive gravity search and particle swarm optimization algorithms for fault diagnosis of electrical machine drive system [J].Electrical Engineering,2022,104 (2): 819-831.   \n[19] Jiang Jianhua, Jiang Ran,Meng Xianqiu,et al. SCGSA: a sine chaotic gravitational search algorithm for continuous optimization problems [J]. Expert Systems with Applications,2020,144:113-118.   \n[20]王云锋，刘丹，裴作飞，等．基于改进引力搜索算法的 SVM 的参数 优化及应用[J]．计算机应用研究，2020,37(S1):152-154.(Wang Yunfeng,Liu Dan，Pei Zuofei,et al.Parameter optimization and application of SVM based on improved gravity search algorithm [J]. Computer Application Research,2020,37 (S1):152-154.)   \n[21]逐清玉，张晓明.一种自适应混合变异的引力搜索算法[J].重庆师范 大学学报：自然科学版,2017,34(3):85-90.(Lu Qingyu,Zhang Xiaoming. An Adaptive Mixed Mutation Gravitational Search Algorithm [J]. Journal of Chongqing Normal University: Natural Science,20l7,34(3): 85-90.)   \n[22] Kennedy J, Eberhart R.Particle swarm optimization [C]//Proc of IEEE International Conference on Neural Networks. Piscataway,NJ: IEEE Press,1995: 1942-1948.   \n[23] Yang Xinshe.Flower pollination algorithm for global optimization [C]/ Proc of International Conference on Unconventional Computing and Natural Computation. Berlin: Springer Press,2012: 240-249.   \n[24] Arora S,Singh S.Butterfly optimization algorithm: a novel approach for global optimization [J]. Soft Computing,2019,23 (3):715-734.   \n[25] Zervoudakis K, Tsafarakis S.A mayfly optimization algorithm [J]. Computers & Industrial Engineering,2020,145:106559.   \n[26] Mirjalili S,Mirjalili SM,Lewis A.Grey wolf optimizer[J].Advances in engineering software,2014,69: 46-61.   \n[27]吕方林，罗凤鸣，张兵城．基于随机黑洞和自适应策略的引力搜索算法 [J].西华大学学报：自然科学版,2019,38(03):55-60.(Lyu Fanglin,Luo Fengming,Zhang Bingcheng.Gravitational search algorithm based on random black holes and adaptive strategies [J]. Journal of Xihua University: Natural Science Edition,2019,38 (03): 55-60.)   \n[28]李咸善，王锦龙，杨丝琪，等．基于 RBHPSO-GSA 算法的微电网优化 运行方法[J]．智慧电力,2018,46(09):26-32.(LiXianshan,Wang Jinlong, Yang Siqi,et al.Optimization operation method of microgrid based on RBHPSO-GSAalgorithm [J]. Smart Power,2018,46 (09): 26-32.) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    }
+]

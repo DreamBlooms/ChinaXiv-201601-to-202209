@@ -1,0 +1,131 @@
+投喂时间影响大菱鲆幼鱼的生长及类胰岛素样生长因子-I基因的表达
+
+2 王艺超 郑珂珂 徐后国 梁萌青\*
+
+3 （中国水产科学研究院黄海水产研究所，青岛266071)
+
+4 摘要:本试验旨在研究投喂时间对大菱鲆幼鱼生长和类胰岛素样生长因子-I(IGF-I)基因  
+5 表达的影响。试验设3个组，分别于早上（06:00）、中午（12:00）、傍晚（18:00）3个不  
+6 同的时间点投喂大菱鲆幼鱼[初始平均体重为（ $8 . 9 5 { \pm } 0 . 1 3 \$ ）g]，每个组3个重复，每个重复  
+7 25尾。养殖试验周期为 $4 5 \mathrm { d }$ 。结果表明：06:00 投喂组大菱鲆幼鱼的增重率和特定生长率  
+8 显著高于其他2组（ $. P { < } 0 . 0 5$ ），3个投喂组间大菱鲆幼鱼摄食率无显著差异（ $P { > } 0 . 0 5$ ），但  
+9 06:00 投喂组与12:00投喂组的饲料效率显著高于18:00 投喂组（ $_ { ( P < 0 . 0 5 ) }$ ；06:00投喂组大  
+10 菱鲆肝脏中IGF-ImRNA相对表达量显著高于12:00 和18:00 投喂组（ $_ { . P < 0 . 0 5 }$ ），而投喂时间对大菱鲆幼鱼脑中IGF-ImRNA相对表达量无显著影响（ $. { \cal P } { > } 0 . 0 5$ ）。综上，建议体重$\textrm { \tiny 8 g }$ 左右的大菱鲆幼鱼的投喂时间为06:00。
+
+关键词：大菱鲆幼鱼；投喂时间；生长；类胰岛素样生长因子-I基因表达中图分类号：S963 文献标识码：A 文章编号：
+
+在现代化水产养殖生产中，饲料成本约占总成本的 $70 \%$ 。饲料的投喂策略是影响鱼类等水产养殖动物生长、饲料利用和生产效率的重要因素之一。很多鱼类存在天然的昼夜节律，是影响其摄食行为、生理代谢的主要因素之一。有研究表明，参考养殖动物的摄食节律选择投喂时间可以优化动物的生长[1]。Qin等[2]通过对瓦氏黄颡鱼(Pelteobagrus vachelli)生长及肝脏转录组进行研究，发现投喂时间显著影响了其生长及肝脏代谢。Hossain 等[3]发现，投喂时间显著影响革胡子鲶(Clarias gariepinus)的生长和饲料利用。杨严欧等[4]报道，投喂时间显著影响奥尼罗非鱼(Oreochromisniloticus $\mathcal { Q } \times O .$ aureus)的摄食量和活动节律。Boujard等[5]认为鱼类的摄食行为与鱼类的行为学和生理学有着密不可分的关系，其研究表明鱼类血液的营养成分和激素水平也有“生物钟”的存在，但具体生理机制尚不明确。而在目前的经济鱼类养殖生产中，投喂多数仅仅是基于生产者的经验，对于投喂方式缺乏应有的重视。投喂时间对水产养殖动物的生长、饲料利用及生理代谢等的影响，以及通过何种方式调节动物的代谢，还有待进一步深入的研究。
+
+类胰岛素样生长因子（insulin-like growth factors，IGFs）是一类具有胰岛素样代谢和促进有丝分裂功能的多肽类激素，能促进组织细胞的增值、分化和凋亡，是调控鱼类生长和发育的重要内分泌体系。IGFs系统包括类胰岛素样生长因子-I（IGF-I）、类胰岛素样生长因子-II（IGF-II）2种同源多肽。鱼类IGF-I在进化上相当保守，一级结构由 70个氨基酸序列组成，具有部分与胰岛素相似的功能，如减低血糖水平、促进鱼类对营养物质的消化吸收等。IGF-I通过循环系统发挥作用，其中 $90 \%$ 的IGF-I由肝脏合成，以内分泌的形式进入血液，部分组织如骨髓、脑等也能够合成IGF-1，主要通过旁分泌和/或内分泌的形式发挥作用。鱼类IGF-I的表达受到营养状况、生长环境及激素水平等因素的调节[6]。
+
+大菱鲆（Scophthalmus maximus），又称多宝鱼，属鲽形目（Pleuronectiformes）鲆科（Bothidae），以肉质鲜美、富含丰富胶原蛋白等营养物质著称，由于大菱鲆生长迅速、易驯化，对配合饲料接受能力强，适合高密度养殖的特点，自1992年由黄海水产研究所雷霁霖院士引进我国后，迅速发展成为我国北方最重要的经济鱼种之一。本试验通过研究不同投喂时间对大菱鲆幼鱼生长、饲料利用及肝脏IGF-I基因表达的影响，旨在为大菱鲆人工养殖中投喂方式的确定提供参考。
+
+1材料与方法
+
+# 1.1试验饲料
+
+试验用饲料为青岛七好生物科技有限公司生产的国产鲽鲆鳎类幼鱼专用2号饲料，粒径 $2 0 0 { \sim } 3 0 0 ~ \mu \mathrm { m }$ ，主要营养成分如下：粗蛋白质含量 $4 8 . 8 3 \%$ ，粗脂肪含量 $9 . 5 2 \%$ ，粗灰分含量 $12 . 5 3 \%$ 。试验用 Trizol Reagent 试剂盒、Transcriptor First Stand cDNA Synthesis Kit 反转录试剂盒和FastStart EssentialDNA Green Master实时荧光定量试剂盒均购自青岛赛尚科贸有限公司。试验用琼脂糖、氯仿、异丙醇、乙醇等均为国产分析纯试剂。
+
+# 1.2试验设计与饲养管理
+
+试验用大菱鲆幼鱼购自日照水产研究所试验基地，选取规格整齐、健康的大菱鲆幼鱼，驯养1周后开始分组，分组前对大菱鲆饥饿处理1d。试验按照投喂时间分为3个组，分别于早上（06:00）、中午（12:00）、傍晚（18:00）3个不同的时间点投喂大菱鲆幼鱼[初始平均体重为（ $8 . 9 5 { \scriptstyle \pm 0 . 1 3 }$ ）g]，每组3个重复，每个重复25尾。养殖试验在日照水产研究所深蓝色的容积为 $2 0 0 \mathrm { { L } }$ 的养殖桶中进行，采用室内静水养殖。采取表观饱食投喂，55 驯养期间每日投喂1次（18:00），正式试验期间按照设定的投喂时间投喂，投喂1h后收56 集残饵，称重，计算日投喂量。养殖试验过程中，日换水1次，投喂前1h换水，换水量57 $1 / 2 { \sim } 2 / 3$ 。试验用水为砂滤自然海水，温度为 $1 5 { \sim } 1 8 ^ { \circ } \mathrm { C }$ ，溶氧浓度 ${ \geqslant } 6 . 0 \ \mathrm { m g / L }$ ，盐度在58 $30 \text{‰}$ 左右， $\mathrm { p H } 7 . 5 \sim 8 . 0$ 。试验周期为 $4 5 \mathrm { d }$ 。试验期间，每隔1周对大菱鲆称重1次，根据59 大菱鲆体重相应调节投饲量；称重前停喂1d，定期对养殖桶进行清理消毒处理。
+
+# 1.3样品采集
+
+试验结束后取样前，对大菱鲆幼鱼进行禁食 $2 4 \mathrm { h }$ 处理。每个重复随机取出2尾鱼，用解剖剪将腹腔剪开，在相同位置取 $\mathrm { ~ 1 ~ g ~ }$ 左右肝脏，迅速放入液氮中速冻，速冻样品于 $. 8 0 ~ \mathrm { { ^ \circ C } }$ 下保存待测；剪开颅腔，小心挑出鱼脑，迅速放入液氮中速冻，速冻样品于 ${ } . 8 0 { } ^ { \circ } { \mathrm { C } }$ 下保存待测。
+
+1.4 生长指标计算公式增重率（ $\mathrm { \Delta W G R , \% } ~ \mathrm { = } 1 0 0 \times ~ ( ~ W _ { \mathrm { t } } \mathrm { - } W _ { 0 } ) ~ \mathrm { / } W _ { 0 } ;$ （20特定生长率（ $\mathrm { S G R } , \% ( \mathrm { d } ) \ = 1 0 0 \times ( \ln W _ { \mathrm { t } } - \ln W _ { 0 } ] \ / t _ { \mathrm { i } }$ 摄食率 $\mathrm { \langle F R , ^ { 0 } / 0 / d \rangle } { = } 1 0 0 \mathrm { \times } W _ { \mathrm { f } } / [ t { \times } W _ { \mathrm { t } } { + } W _ { 0 } ) / 2 ] \mathrm { \Omega } ;$ 饲料效率 $\left( \mathrm { F E } \right) ~ = ~ \left( ~ W _ { \mathrm { t } } { - } W _ { 0 } \right) ~ / W _ { \mathrm { f } \circ }$ 式中： $\boldsymbol { W _ { \mathrm { t } } }$ 为试验结束时大菱鲆幼鱼的平均体重（g）； $W _ { 0 }$ 为试验开始时大菱鲆幼鱼的平  
+均体重（g）； $\mathbf { \chi } _ { t }$ 为试验天数（d）； $W _ { \mathrm { f } }$ 为平均投喂量 $\mathbf { \tau } ( \mathbf { g } )$ 。
+
+1.5实时定量PCR检测肝脏和脑中 $I G F \mathrm { - } \ \mathrm { I } \ \mathrm { \ m R N A }$ 相对表达量
+
+采用 Trizol Reagent试剂盒提取大菱鲆幼鱼肝脏和脑中总RNA，利用Nanodrop 2000 微量核酸测定仪检测总RNA的浓度以及260与 $2 8 0 \mathrm { n m }$ 处吸光度（OD）值，采用 $1 \%$ 的琼脂糖凝胶电泳法检测总RNA的品质；选择 $\mathrm { O D } _ { 2 6 0 \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } }$ 值在 $1 . 8 \sim 2 . 0$ 之间，凝胶电泳条带分离清晰、无明显拖带现象的总RNA样本为模板，利用 Transcriptor First Stand cDNASynthesisKit反转录试剂盒，选用 $2 0 ~ \mu \mathrm { L }$ 反应体系合成cDNA；用 $1 \%$ 的琼脂糖凝胶电泳法检测合成的cDNA片段长度与目的基因是否相符，将得到的cDNA于 $. 8 0 ~ \mathrm { { ^ \circ C } }$ 保存备用。
+
+# 1.5.2实时荧光定量PCR
+
+试验采用相对荧光定量法，即 $2 ^ { - \Delta \triangle _ { \mathrm { C t } } }$ 法对大菱鲆幼鱼肝脏和脑 IGF-ImRNA表达量进行差异分析。首先，用参照基因对校准样本和待测样本进行校正，由于本试验属于相互对照，故随机选取1个重复作为对照样本，对其他待测样本进行校正；然后，对校准样本和待测样本的△Ct归一化处理；最后，表达差异计算 $2 ^ { - \Delta \triangle _ { \mathrm { C t } } }$ 值。计算公式如下：
+
+△Ct（校准样本） $\scriptstyle = \mathbf { C } _ { } { \mathrm { ~ t ~ } }$ （对照样本）-Ct（参照基因）；△Ct（待测样本） $\scriptstyle - \mathbf { C t }$ （待测样本）-Ct（参照基因）$\triangle \triangle C { \sf t = } \triangle C { \sf t }$ （待测样本）-△Ct（校准样本）。
+
+参照基因选用β照肌动蛋白（β动actin）（序列号：AY008305）、目的基因为大菱鲆幼鱼IGF-I（序列号：FJ160587.1），2个基因均根据GenBank数据库提供的基因序列设计引物，送交上海生工生物工程技术服务有限公司合成。引物序列见表1。
+
+试验选用 $2 0 \mu \mathrm { L }$ 反应体系，按FastStartEssentialDNAGreenMaster实时荧光定量PCR试剂盒说明操作，在实时荧光定量 PCR仪（Applied Biosystem 7500 Real-Time PCRSystem）上进行扩增和数据分析，反应程序： $9 5 . 0 \ \mathrm { { ^ \circ C } }$ ， $1 0 \mathrm { m i n }$ ； $9 5 . 0 \mathrm { ~ \textdegree ~ }$ ， $1 0 ~ \mathrm { s }$ ： $5 8 \ \mathrm { { ^ \circ C } }$ ，15S； $7 2 \ \mathrm { { ^ \circ C } }$ ， $2 0 ~ \mathrm { s }$ ；40个循环。
+
+# 表1试验所用实时荧光定量PCR引物
+
+<html><body><table><tr><td>引物 Primer</td><td>引物序列 Primer sequence(5'-3')</td><td>熔解温度 Annealing temperature/℃</td><td>引物长度 Product size/bp</td></tr><tr><td>β-肌动</td><td>F:CCAAAGCCAACAGGGAGAA</td><td>57.6</td><td>101</td></tr><tr><td>蛋白β-</td><td>R:AGAGGCATACAGGGACAGCACA</td><td>61.9</td><td></td></tr><tr><td>actin 类胰岛</td><td>F:CGCAATGGAACAAAGTCG</td><td>50.0</td><td>121</td></tr><tr><td>素样生 长因子-</td><td>R:CGGCGATTCAAAGGAACT</td><td>50.0</td><td></td></tr><tr><td>I IGF-</td><td></td><td></td><td></td></tr></table></body></html>
+
+# 1.6统计分析
+
+采用 SPSS17.0软件包对数据结果进行单因素方差分析（one-way ANOVA），差异显著时采用Duncan氏法进行多重比较，数据以平均值 $\pm$ 标准差表示，差异显著水平为$P { < } 0 . 0 5$ 。
+
+2结果
+
+2.1投喂时间对大菱鲆幼鱼生长的影响
+
+养殖试验期间无大菱鲆幼鱼死亡，各组存活率均为 $100 \%$ 。由表2可知，随着投喂时间的推移，大菱鲆幼鱼的增重率和特定生长率显著降低（ $. P { < } 0 . 0 5$ ），其中06:00投喂组大菱鲆幼鱼的增重率和特定生长率均达到最高，分别为 $9 7 . 2 3 \%$ 和 $1 . 9 4 \% / \mathrm { d }$ ，显著高于12:00 和18:00投喂组 $( P { < } 0 . 0 5 )$ ，12:00 投喂组增重率和特定生长率又显著高于18:00投喂组中 $\cdot P { < } 0 . 0 5$ ）。投喂时间对大菱鲆幼鱼的摄食率没有产生显著影响（ $\cdot P { > } 0 . 0 5$ ），3个投喂时间组的摄食率均介于 $1 . 5 \% / \mathrm { d } { \sim } 1 . 6 \% / \mathrm { d }$ 。18:00 投喂组大菱鲆幼鱼的饲料效率仅为0.91，显著低于06:00和12:00投喂组（ $\scriptstyle P < 0 . 0 5 { \mathrm { : } }$ ），06:00投喂组饲料效率略高于12:00投喂组，但差异不显著（ $P { > } 0 . 0 5 \$ ）。
+
+表2投喂时间对大菱鲆幼鱼生长的影响  
+Table 2 Effects of feeding time on growth of juvenile turbot （Scophthalmus maximus）  
+
+<html><body><table><tr><td>投喂时间 Feeding time</td><td>增重率 WGR/%</td><td>特定生长率 SGR/ (%/d)</td><td>摄食率 FR/ (%/d)</td><td>饲料效率 FE</td></tr><tr><td>06:00</td><td>97.23±4.06c</td><td>1.94±0.05c</td><td>1.62±0.03</td><td>1.11±0.02b</td></tr><tr><td>12:00</td><td>84.29±2.60b</td><td>1.75±0.04b</td><td>1.52±0.04</td><td>1.08±0.04b</td></tr><tr><td>18:00</td><td>72.21±0.24a</td><td>1.55±0.01a</td><td>1.61±0.05</td><td>0.91±0.03a</td></tr></table></body></html>
+
+同行数据肩标不同字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著$\cdot P { > } 0 . 0 5 \$ ）。
+
+Values in the same row with different letter superscripts are significantly different $( P { < } 0 . 0 5 )$ while with no or the same letters are not significantly different( $\cdot P { > } 0 . 0 5 )$ ：
+
+2.2投喂时间对大菱鲆幼鱼肝脏和脑中IGF-ImRNA相对表达量的影响
+
+对反转录合成的cDNA进行琼脂糖凝胶电泳，试验用Maker长度为 $2 0 0 0 { \mathrm { b p } }$ ，结果显示，合成的cDNA片段长度大约为121bp，与目的基因理论长度相符。
+
+如图1所示，投喂时间对大菱鲆幼鱼肝脏中IGF-ImRNA相对表达量有显著影响（ $P$ $< 0 . 0 5$ ）。06:00投喂组IGF-ImRNA相对表达量最高，其 $2 ^ {  \triangle \hat { \mathbf { C } } \mathrm { t } }$ 值高达2.17，显著高于其他2组（ $\scriptstyle P < 0 . 0 5 .$ ）；18:00 投喂组IGF-ImRNA相对表达量最低，其 $2 ^ { - \Delta \triangle _ { \mathrm { C t } } }$ 值仅有1.13,显著低于其他2组（ $\cdot < 0 . 0 5$ ）。
+
+如图2所示，投喂时间对大菱鲆幼鱼脑中IGF-ImRNA相对表达量没有显著影响（ ${ \it P } { > } 0 . 0 5$ ）。大菱鲆幼鱼脑中 $I G F \mathrm { - } \ \mathrm { I } \ \mathrm { \ m R N A }$ 相对表达量以06:00投喂组最高，其 $2 ^ { - \Delta \triangle } \mathrm { C t }$ 值为1.41；其次是18:00 投喂组，其 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 值为1.37；12:00 投喂组最低，其 $2 ^ { - \Delta \triangle } \mathrm { C t }$ 值为1.24。
+
+![](images/90a3eac97bd98aa3c76a5b519d5221e55eb027dfcd22f5c36eae9387f6166f18.jpg)  
+图1投喂时间对大菱鲆幼鱼肝脏中 $I G F  – \mathrm { ~ I ~ }$ mRNA相对表达量的影响
+
+数据柱标注不同字母表示差异显著 $( P { < } 0 . 0 5 )$ ，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。下图同。 Date columns with different letters are significantly different $( P { < } 0 . 0 5 )$ ,while with no or the same letters are not significantly different( $P { > } 0 . 0 5 )$ ）.The same as below.
+
+![](images/e54a2a68435a7d712803ae943eb5544d1f1c92eb399f4709f2dd716c7226becc.jpg)  
+Fig.1 Effects offeeding time on the relative expression level ofIGF-I mRNA in liver of juvenile turbot （Scophthalmus maximus）   
+图2投喂时间对大菱鲆幼鱼脑中IGF-ImRNA相对表达量的影响  
+Fig.2 Effects of feeding time on the relative expression level of IGF-I mRNA in brain ofjuvenile turbot（Scophthalmus maximus）
+
+3讨论
+
+# 3.1投喂时间对大菱鲆幼鱼生长的影响
+
+投喂时间往往比照养殖鱼类的摄食节律进行选择的，摄食节律是生物在长期进化过程中与自然环境相适应的结果，在自然环境下， $_ { 1 \sim 2 }$ 龄大菱鲆主要以糠虾和多毛类等小型甲壳动物为食，稍大个体逐渐进食小型鱼类和软体动物等，成鱼则开始食鱼[7]。糠虾和多毛类幼体有明显的趋光性，日间活动较夜间更加频繁，出于食源的选择，大菱鲆幼鱼在日间摄食活跃。同时，大菱鲆属冷水性鱼类，水温的升高会降低大菱鲆的运动与摄食，增加排氮[8]，减缓大菱鲆的生长。目前有很多学者证实了这种说法，常青等[]认为大菱鲆幼鱼几乎全天都有摄食行为，黎明时摄食活动最强。苗淑彦等[10]认为生态习性的转变会对摄食节律产生重大影响，鲽形目鱼类存在漂浮生活和底栖生活2个阶段，其摄食节律在2个阶段表现出不同的特点。同时，孙国祥等[研究发现，流速、温度以及养殖系统等也对大菱鲆的摄食节律有着显著影响。本试验研究发现，在06:00、12:00、18:00这3个时间投喂的大菱鲆幼鱼的摄食率没有显著差异，但投喂时间对饲料效率产生了显著的影响，06:00投喂组饲料效率显著高于其他2组；同时，在生长上则表现为06:00投喂组的增重率和特定生长率显著高于其他2组，验证了关于大菱鲆幼鱼摄食节律的说法。
+
+根据鱼类天然的生物节律、摄食周期来安排养殖生产中的投喂时间，可以提高鱼类对饲料的利用率，进而提高生产效率。不同时间投喂的大菱鲆幼鱼的摄食率没有显著差异，而日间(06:00、12:00)投喂组的大菱鲆幼鱼的饲料效率显著高于晚上(18:00)投喂组。类似的结果在以往研究中也有相关报道。夜间(20:00)投喂的瓦氏黄颡鱼和白天(08:00)投喂的瓦氏黄颡鱼在摄食率上没有显著差异，而夜间投喂组的饲料利用率显著优于白天投喂组[2]。Marinho 等[12]对塞内加尔鳎(Solea senegalensis)幼鱼的研究发现，与夜间投喂组相比，日间投喂组的的特定生长率和氮储积率显著提高，氨氮排放量显著降低，作者认为日间投喂组的塞内加尔鳎可以更好地将饲料蛋白质用于体生长。
+
+# 3.2投喂时间对大菱鲆幼鱼肝脏和脑中IGF-I基因表达的影响
+
+本试验结果表明，大菱鲆幼鱼肝脏中IGF-ImRNA相对表达量在不同投喂组间存在显著差异，其中06:00 投喂组的肝脏中IGF-I mRNA 相对表达量最高，与大菱鲆幼鱼的生长状况相适应，推断原因，可能是投喂时间的不同对调控相应激素的mRNA表达产生的刺激存在差异，从而影响到大菱鲆幼鱼循环系统的激素水平，进而影响到大菱鲆幼鱼的生长发育以及营养代谢等生理生化过程。陈乃松等[13]也发现，大口黑鲈的营养状况与其肝脏中IGF-ImRNA相对表达量呈正相关的关系。
+
+不同投喂时间对大菱鲆幼鱼脑中IGF-ImRNA相对表达量并没有产生显著影响。华益民等[14]在研究中发现，营养状况对鲤鱼幼鱼肝脏以外组织中IGF-ImRNA相对表达量没有显著影响。对银鲑(Oncorhynchus kisutch)的研究认为，IGF-I mRNA对营养状况的反应仅限于肝脏内，在饥饿状态下肝脏中IGF-ImRNA相对表达量下降，而在肝脏以外组织中并没有发现IGF-ImRNA相对表达量的下降[15]。
+
+4结论投喂时间的对大菱鲆幼鱼的生长以及肝脏中IGF-I mRNA相对表达量有显著影响，其中以06:00投喂组大菱鲆幼鱼的增重率、特定生长率、饲料效率以及肝脏中 IGF-ImRNA相对表达量最高，因此，建议 $\textrm { \tiny 8 g }$ 左右大菱鲆幼鱼的投喂时间为06:00。参考文献：[1]周志刚,解绶启,崔奕波.鱼类投喂系统的研究[J].中国畜牧兽医,2003,30(5):15-17.[2]QIN C J,GONG Q,WEN Z Y,et al.Comparative analysis of the liver transcriptome ofPelteobagrus vachelii with an alternative feeding time[J].Comparative Biochemistry andPhysiology Part D:Genomics and Proteomics,2017,22:131-138.[3] HOSSAIN M A R,HAYLOR G S,BEVERIDGE M C M.Effect of feeding time andfrequency on the growth and feed utilization of African catfish Clarias gariepinus (Burchell1822) fingerlings[J].Aquaculture Research,2001,32(12):999-1004.[4]杨严欧,解绶启,姚峰,等.投喂时间对奥尼罗非鱼活动水平和活动节律的影响[J].水生生物学报,2008,32(1):38-41.[5]BOUJARDT,LEATHERLANDJ F.Circadianrhythmsandfeedingtimeinfishes[J].Environmental Biology of Fishes,1992,35(2):109-131.[6] 章力,黄希贵,王德寿.鱼类胰岛素样生长因子(IGF)系统的研究进展[J].动物学杂志,2005,40(2):99-105.[7]马爱军,王新安,杨志,等.大菱鲆(Scophthalmus maximus)幼鱼生长性状的遗传力及其相关性分析[J].海洋与湖沼,2008,39(5):499-504.[8] 王吉桥,谭克非,张剑诚.大菱鲆养殖理论与技术[M].北京:海洋出版社,2006.[9]常青,梁萌青.大菱鲆的饲料与投喂[J].饲料工业,2001,22(10):13-14.[10] 苗淑彦,王际英,张利民,等.鲽形目鱼类摄食节律研究进展[J].齐鲁渔业,2009,26(2):16-18.[11]孙国祥.流速、温度对封闭循环水养殖大菱鲆摄食效应和动态投喂模型的研究[D].硕士学位论文.青岛:中国科学院研究生院(海洋研究所),2011.201 [12] MARINHO G,PERES H,CARVALHO A P.Effect of feeding time on dietary protein202 utilization and growth of juvenile Senegalese sole (Solea senegalensis)[J].Aquaculture203 Research,2014,45(5):828-833.204 [13]陈乃松,周洁,靳利娜,等.禁食对大口黑鲈生长和肝脏 IGF-ImRNA表达丰度的影响[J].中205 国水产科学,2010,17(4):713-720.206 [14]华益民,林浩然.营养状况对幼年鲤鱼肝脏 IGF-ImRNA表达的影响[J].动物学207 报,2001,47(1):94-100.208 [15]DUAN C M.Nutritional and developmental regulation of insulin-like growth factors in209 fish[J].The Journal of Nutrition,1998,128(2):306S-314S.210
+
+211 Feeding Time Affects Growth and Insulin-like Growth Factors-I Gene Expression of Juvenile   
+212 Turbot （Scophthalmus maximus）   
+213 WANG Yichao ZHENG Keke XU Houguo LIANG Mengqing\*   
+214 (Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences, Qingdao 266071,   
+215 China)   
+216 Abstract: This experiment was conducted to investigate the effects of feeding time on growth and   
+217 insulin-like growth factors- I (IGF- I） expression of juvenile turbot (Scophthalmus maximus).   
+218 Three different feeding time points [morning (06:00), noon (12:00） and evening (18:0o)] were   
+219 choose to fed juvenile turbot with the average initial body weight of( $8 . 9 5 { \scriptstyle \pm 0 . 1 3 }$ ）g,and the fish   
+220 were divided into three groups according feed time. Each group had three replicates and each   
+221 replicate had 25 fish. The growth trial lasted for 45 days.The results showed as following: the   
+222 weight gain rate and specific growth rate of juvenile turbot in O6:Oo feeding group were   
+223 significantly higher than those in other two groups ( $\begin{array} { r } { P < 0 . 0 5 , } \end{array}$ . No significant difference in the   
+224 feeding rate among three feeding groups $( P > 0 . 0 5 )$ ,but the feed efficiency in O6:00 and 12:00   
+225 feeding groups was significantly higher than that in 18:Oo feeding group $( P < 0 . 0 5 )$ ).The relative   
+226 expression level of IGF- I mRNA in liver of juvenile turbot in O6:00 feeding group was   
+227 significantly higher than that in 12:00 and 18:0O feeding groups $( P < 0 . 0 5 )$ ，while the relative   
+228 expression level of IGF- I mRNA in brain of juvenile turbot was not significant different among   
+229 three feeding groups $( P > 0 . 0 5 )$ . In summary, it is suggested that the optimum feeding time for the   
+230 juvenile turbot with the body weight about $\textrm { \tiny 8 g }$ is 06:00.   
+231 Key words: juvenile turbot; feding time; growth; IGF- I gene expression

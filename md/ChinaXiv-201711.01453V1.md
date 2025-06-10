@@ -1,0 +1,180 @@
+2种枯草芽孢杆菌源纤维素酶基因的克隆、融合表达及其酶学性质分析丁轲12 邱静静」罗伟光」李旺’李元晓1　曹平华」何万领」　赵龙妹」王玉琴张春杰²
+
+(1.河南科技大学宏翔生物饲料实验室，洛阳 471023；2.河南省动物疫病与公共卫生重点实验室，洛阳 471023；3.河南省肉羊繁育工程技术研究中心，洛阳 471023)
+
+摘要:本试验旨在构建不同纤维素酶的融合表达系统及探讨融合纤维素酶的酶学性质。利用PCR技术从实验室前期分离的枯草芽孢杆菌中分别扩增2个纤维素酶基因Cel42和Cel22，设计一段柔性接头（GSGGGS)，通过酶切连接将2个纤维素酶基因构建在一个开放阅读框(ORF）内，插入到 pET32a(+)中构建重组表达载体 pET32a(+)-Cel42-Cel22，转化大肠杆菌BL21(DE3)进行诱导表达，并对其酶学性质进行研究。结果表明：本试验成功克隆了2个纤维素酶基因Cel42 和Cel22，并构建了重组表达系统 BL21(DE3)/pET32a(+)-Cel42-Cel22，十二烷基硫酸钠聚丙烯酰胺凝胶电泳(SDS-PAGE)估计其分子质量约为 $\mathsf { 1 0 1 k u }$ ，粗酶液中葡聚糖内切酶活性为 $5 7 . 6 2 \ \mathrm { U / m L }$ ，葡聚糖外切酶活性为 $3 2 . 5 7 \ \mathrm { U / m L }$ 。试验所得融合纤维素酶Cel42-Cel22的最适反应温度为 $5 0 \ \mathrm { ^ \circ C }$ ，最适反应 $\mathfrak { p H }$ 为6.0，温度在 $3 0 { \sim } 7 0 ~ \mathrm { ^ { \circ } C }$ 范围内时可维持 $70 \%$ 以上的纤维素酶活性， $\mathfrak { p H }$ 在 $4 . 0 \sim 9 . 0$ 范围内时可保持 $7 5 \%$ 以上的纤维素酶活性。除$\mathrm { M n } ^ { 2 + }$ 外，其他金属离子对纤维素酶的活性均具有一定的抑制作用，其中 $\mathrm { H g } ^ { 2 + }$ 和 $\mathrm { C u } ^ { 2 + }$ 对的抑制作用较明显。由此可见，本试验在大肠杆菌 BL21(DE3)中成功表达出了融合纤维素酶Cel42-Cel22，且该酶具有一定的活性，可适应较宽广的温度和 $\mathfrak { p H }$ 范围，对金属离子敏感。
+
+关键词：纤维素酶；枯草芽孢杆菌；克隆；融合表达；酶学性质中图分类号：S852.2 文献标识码：A 文章编号：
+
+纤维素是一种由 800\~1200 个葡萄糖分子聚合而成的高分子化合物，是世界上最丰富的可再生有机资源。我国是农业大国，农作物秸秆产量约占世界的 $20 \% ^ { [ 1 - 2 ] }$ ，由于秸秆以多聚糖形式存在，目前仅有 $10 \%$ 的秸秆用于反刍动物饲料[3]。秸秆一般需要在体外先采用物理或化学方法进行处理后再进行利用，但这些方法不仅效率低，而且容易造成环境二次污染，很难推广应用[4-5]。因此，目前研究主要集中在秸秆的生物降解方面，即利用微生物产生的纤维素酶降解纤维素。纤维素酶主要分为三大类，即葡聚糖内切酶(endo-1,4- $\beta$ -D-glucanases)、葡聚糖外切酶(exo-1,4-β-D-glucanase)和 $\beta$ 葡萄糖苷酶(β-1,4-glucosidases)[6-7]，目前纤维素酶已应用于酒精、造纸、畜牧、食品和纺织等行业[8-10]，所以对纤维素酶的研究具有广阔的应用前景和社会意义。  
+由于天然微生物产酶量低、产酶单一，且产不同纤维素酶的微生物之间很难达到最佳配合，所以纤维素的自然生物降解是一个漫长的过程，根本无法适应实际生产的需求。因此，借助分子生物学方法将不同纤维素酶基因整合到微生物高效表达系统中是最理想最有效的措施。已有报道通过基因工程技术将不同来源的纤维素酶基因克隆到细菌、真菌、酵母等微生物中，但这些研究主要是对单一纤维素酶的克隆与表达[10-14]。纤维素酶单独应用效果不佳，须按照一定比例配合后才可应用。目前，蛋白质的融合表达技术已臻于成熟，可形成一种具有多功能的复合蛋白，大大简化了后期蛋白质的纯化和工艺流程等[15]。目前已有利用大肠杆菌 pET载体系列表达纤维素酶基因的报道[12,16-17]。但迄今为止，关于不同纤维素酶在大肠杆菌中的融合表达还鲜有报道。  
+在前期工作中，我们已经从土壤中筛选获得 2 株具有纤维素降解能力的枯草芽孢杆菌（Bacillus subtilis）N042 和Bacillus subtilis N22，并通过体外试验初步确定了分别含有2种纤维素酶。为进一步探讨这2种纤维素酶的协同作用，本研究首先克隆2个纤维素酶基因，根据2个纤维素酶基因两端的碱基特点，设计一段柔性连接肽将2个纤维素酶基因融合后重组入大肠杆菌表达载体 pET32a(+)中，评估其在大肠杆菌 BL21(DE3)中表达的效果，并对表
+
+达的融合纤维素酶的性质进行分析，以期获得1株能够高效表达不同纤维素酶融合蛋白的重！组大肠杆菌，并为进一步研究融合纤维素酶高效降解纤维素奠定基础。
+
+1材料与方法
+
+1.1材料
+
+1.1.1 菌株和质粒Bacillus subtilisN42、Bacillus subtilisN22为本实验室分离鉴定；感受态大肠杆菌 $\mathrm { D H } 5 \mathrm { a }$ 、  
+BL21(DE3)和 pMD18-T、pET32a $( + )$ 均购自TaKaRa 公司；BL21(DE3)/pET32a( $^ { ( + ) }$ -Cel42、  
+BL21(DE3)/pET32a( $^ { ( + ) }$ -Cel22为本实验室构建保存。
+
+# 1.1.2 酶和主要试剂
+
+PyrobestTM DNAPolymerase，T4 DNA 连接酶，限制性内切酶 BamHI、XhoI、NcoI、XhoI，DNAmarker，蛋白质marker均购于TaKaRa公司；异丙基- $\cdot \beta$ -D-硫代半乳糖苷（IPTG）、X-gal、Goldview 核酸染色剂、Ni-NTA SefinoseTM Resin Kit均购于北京索莱宝科技有限公司；质粒纯化试剂盒和DNA 琼脂糖凝胶回收试剂盒均购于北京天根生化科技有限公司。
+
+1.2 方法
+
+# 1.2.1 目的基因的克隆
+
+根据GeneBank上公布的Bacillus subtilis 的内切葡聚糖酶基因序列（KF240848.1）和β-1,3-1,4-葡聚糖酶基因序列(KM009051.1)，利用Primer premier 5.0 软件设计 2对引物,F1:5'-CATGCCATGGGAGTGCAGATGAAAC-3'，R1:5' -GGATCCACCGCCAGATCCATTTG-3'； F2:5'-CGGGATCCATGCCTTATCTGAAACG-3’，R2:5’-CCGCTCGAGTTATTTTTTTGTATAGCGC-3’。下划线部分为酶切位点碱基，引物R1和F2中方框内为连接肽碱基，用于2个基因的连接。引物由生工生物工程(上海)股份有限公司合成。
+
+以Bacillus subtilisN42和 Bacillus subtilisN22全基因组为模版，分别用引物F1/R1和
+
+F2/R2进行扩增，获取的基因分别命名为Cel42和Cel22，然后分别克隆至pMD18-T中，得到 pMD18-T-Cel42和pMD18-T-Cel22，并送生工生物工程(上海)股份有限公司测序。
+
+1.2.2 融合表达载体的构建  
+将上述质粒pMD18-T-Cel42 和pMD18-T-Cel22同时用 BamHI/XhoI进行双酶切,DNA琼脂糖凝胶回收试剂盒回收目的片段后用T4DNA连接酶16℃连接过夜，转化大肠杆菌DH5α 感受态细胞，筛选阳性克隆，PCR和双酶切鉴定，得到质粒pMD18-T-Cel42-Cel22。将该质粒与表达载体pET32a $( + )$ 分别经NcoI/XhoI酶切回收后连接，转化大肠杆菌DH5α感受态细胞，筛选阳性克隆，经PCR和双酶切鉴定后送生工生物工程(上海)股份有限公司测序，命名为pET32a(+)-Cel42-Cel22。  
+1.2.3重组质粒的转化及十二烷基硫酸钠聚丙烯酰胺凝胶电泳（SDS-PAGE）检测  
+将重组质粒pET32a(+)-Cel42-Cel22 转化宿主菌 BL21(DE3)中，挑取阳性菌株接入含氨苄青霉素终浓度为 $1 0 0 ~ \mathrm { \mu g / m L }$ 的LB 培养液中。 $3 7 \mathrm { ~ \textdegree ~ }$ 、 $2 2 0 ~ \mathrm { r / m i n }$ 过夜培养，以1:50 转接入$2 0 0 ~ \mathrm { m L }$ 含同样抗性浓度的LB培养液，培养至 $6 0 0 \mathrm { n m }$ 处光密度（OD）值 $= 0 . 6$ 时，加入 $0 . 5 \sim$ $2 . 0 \mathrm { m m o l / L }$ 浓度的 IPTG， $3 7 \mathrm { ^ { \circ } G }$ $1 8 0 ~ \mathrm { r / m i n }$ 诱导培养 $1 2 \mathrm { h }$ 。4℃、 $3 5 0 0 \mathrm { r / m i n }$ 离心 $3 0 \mathrm { m i n }$ 用1：20 体积的磷酸缓冲液(PBS， $\mathrm { p H } 7 . 0 )$ 洗涤细胞， $1 2 \ : 0 0 0 \ : \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ 。弃上清，加入 $6 ~ \mathrm { m L }$ 的PBS，放到-80℃冰箱中，反复冻融 $3 { \sim } 5$ 次，在冰上用超声破碎仪破碎细胞，12$0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 0 \mathrm { m i n }$ ，取上清用于 SDS-PAGE 检测。
+
+# 1.2.4融合纤维素酶Cel42-Cel22的酶活测定
+
+分别制备0、0.2、0.4、0.6、0.8、1.0、 $1 . 2 ~ \mathrm { m g / m L }$ 的葡萄糖标准溶液，测定其 $\mathrm { \Gamma _ { O D _ { 5 4 0 } n m } }$ （204号值，绘制葡萄糖标准溶液的标准曲线。将重组菌培养液4℃、 $1 2 0 0 0 \mathrm { r / m i n }$ 离心 $3 0 \mathrm { m i n }$ ，超声破碎后离心所得上清液即为粗酶液。
+
+# 1.2.4.1葡聚糖内切酶活性测定
+
+葡聚糖内切酶活性测定采用二硝基水杨酸（DNS）法l'。取 $1 \mathrm { m L }$ 粗酶液与 $2 \mathrm { m L } 1 . 0 \%$ 羧甲基纤维素钠溶液（ $\mathrm { p H } 4 . 8$ ）混匀，50℃恒温水浴 $3 0 \mathrm { m i n }$ ，加入 $2 { \mathrm { ~ m L ~ } }$ DNS 试剂，沸水浴 $1 0 \mathrm { m i n }$ ，冷却后定容到 ${ 5 } \mathrm { m L }$ ，混匀。采用分光光度计测定 $\mathrm { \mathrm { O D } } _ { 5 4 0 \mathrm { n m } }$ 值，计算溶液中的葡萄糖含量。根据在 pH4.8、50 ℃保温 $3 0 \mathrm { m i n }$ 条件下， $1 \mathrm { m i n }$ 内水解羧甲基纤维素钠生成 $1 \mu \ g$ 葡萄糖所需的酶量为1个酶活性单位(U)，计算葡聚糖内切酶的活性。1.2.4.2 葡聚糖外切酶活性测定取 $1 \mathrm { m L }$ 粗酶液与 $2 \mathrm { m L } 1 . 0 \%$ 的微晶纤维素钠溶液 $\mathrm { ( p H } 4 . 8 )$ 混匀， $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴反应 $3 0 \mathrm { m i n }$ 离心，取上清，同上步骤采用DNS 法测定上清液中的还原糖含量。根据 $ { \mathrm { ~ 1 ~ m i n ~ } }$ 内由底物产生 $1 . 0 ~ \mu \ g$ 还原糖所需的酶量定义为1个酶活性单位（U)，计算葡聚糖外切酶的活性。1.2.5融合纤维素酶Cel42-Cel22的最适反应温度与热稳定性取 $2 5 ~ \mu \mathrm { L }$ 经 Ni-NTA SefinoseTM Resin Kit纯化的融合纤维素酶 Cel42-Cel22 （ $\mathsf { p H 4 . 0 \sim }$ 5.0)，添加 $2 5  { \mu \mathrm { L } } 1 \%$ 羧甲基纤维素钠溶液（ $\mathfrak { p H } 4 . 8 \AA \lambda$ ，分别在30、35、40、45、50、55、60、65℃静置 $6 0 \ \mathrm { \ m i n }$ ，测定纤维素酶活性，以确定最适反应温度。为了确定融合纤维素酶Cel42-Cel22的热稳定性，将 $2 5 ~ \mu \mathrm { L }$ 纯化的融合纤维素酶Cel42-Cel22(pH4.0～5.0)分别在30、35、40、45、50、55、60、65、70、75、80、85、90 $\mathrm { { ^ \circ C } }$ 保温 $6 0 ~ \mathrm { { m i n } }$ ，取出后立即放入冰水浴中，再添加 $2 5 \mathrm { \mu L \nu _ { o } }$ 羧甲基纤维素钠溶液（ $\mathfrak { p H } 4 . 8 ) \$ ，静置作用 $6 0 ~ \mathrm { { m i n } }$ ，测定纤维素酶活性。
+
+# 1.2.6融合纤维素酶Cel42-Cel22的最适反应 $\mathfrak { p H }$ 及酸碱稳定性
+
+用 $1 0 0 \ \mathrm { m m o l / L }$ 柠檬酸钠缓冲液 $\mathrm { ( p H ~ } 3 . 0 \mathrm { ) }$ 、 $1 0 0 \ \mathrm { m m o l / L }$ 醋酸盐缓冲液 $\mathrm { ( p H ~ } 4 . 0 { \sim } 5 . 0 \$ ）、100mmol/L 磷酸盐缓冲液 $\mathrm { ( p H 6 . 0 { \sim } 7 . 0 ) }$ ）、100 mmol/L Tris-HCl( $\mathrm { p H } 8 . 0 { \sim } 9 . 0 \$ ） $1 0 0 \mathrm { m m o l / L }$ 碳酸氢钠/氢氧化钠缓冲液 $\mathrm { ( p H ~ 1 0 . 0 { \sim } 1 1 . 0 ) }$ 和 $1 0 0 \ \mathrm { m m o l / L }$ 氯化钾/氢氧化钠缓冲液 $\mathrm { ( p H ~ } 1 2 . 0 )$ 将 $2 5 ~ \mu \mathrm { L }$ 纯化的融合纤维素酶Cel42-Cel22分别调至 $\mathfrak { p H }$ 为3.0、4.0、5.0、6.0、7.0、8.0、9.0、10.0、11.0、12.0，然后加入 $2 5 \mu \mathrm { L }$ 相应 $\mathsf { p H }$ 的 $1 \%$ 羧甲基纤维素钠，于最适温度下反应 $6 0 \mathrm { m i n }$ ，测
+
+定纤维素酶活性。为了确定融合纤维素酶Cel42-Cel22的酸碱稳定性，将纯化的融合纤维素酶Cel42-Cel22分别调至 pH为3.0、4.0、5.0、6.0、7.0、8.0、9.0、10.0、11.0、12.0，于室温静置 $2 \mathrm { h }$ 后，再添加 $2 5 ~ \mu \mathrm { L }$ 相应 $\mathfrak { p H }$ 的 $1 \%$ 羧甲基纤维素钠，于最适温度下反应 $6 0 ~ \mathrm { { m i n } }$ ，测定纤维素酶活性。  
+1.2.7金属离子对融合纤维素酶Cel42-Cel22 活性的影响  
+为确定金属离子对融合纤维素酶Cel42-Cel22活性的影响，向融合纤维素酶Cel42-Cel22反应体系中分别加入不同的金属离子——Na+、 $\mathrm { K } ^ { + }$ 、 $\mathrm { M g } ^ { 2 + }$ 、 $\mathrm { F e } ^ { 2 + }$ 、 ${ \mathrm { C u } } ^ { 2 + }$ 、 $\mathrm { M n } ^ { 2 + }$ 、 $\mathrm { N i } ^ { 2 + }$ 、 $\mathrm { H g } ^ { 2 + }$ 、${ \mathrm { C o } } ^ { 2 + }$ 、 $\mathrm { A l } ^ { 3 + }$ 、 $\mathrm { F e } ^ { 3 + }$ ，使金属离子终浓度为 $1 \ \mathrm { m m o l / L }$ ，室温静置 $6 0 ~ \mathrm { { m i n } }$ 后，测定纤维素酶活性。2结果  
+2.1纤维素酶基因Cel42 和Cel22的克隆结果  
+以特异性引物扩增后得到2个基因片段(图1)，与预期目的片段大小相符，经测序大小分别为1515和729bp，并提交到GenBank(登录号分别为KJ130416 和KJ130415)，将这 2基因通过NCBI进行Blast，结果显示Cel42基因与Bacillus subtilis 的 $\beta$ -1,4-葡聚糖内切酶具有高度的同源性，Cel22基因与 Bacillus subtilis 的β-1,4-葡聚糖外切酶具有高度的同源性，说明已成功扩增出目的基因。
+
+![](images/3464292d2ea0044406a6d3a8d34ffe071119a2d26c1017367dec85ff1d3ac4f4.jpg)
+
+图A中，M代表DNAmarker，1代表Cel42基因，2代表阴性对照；图B中，M代表DNA marker，1代表Cel22基因，2代表阴性对照。
+
+In figure A,M represented DNA marker,1 represented Cel42 gene and 2 represented negative control; in figure B,M represented DNA marker,1 represented Cel22 gene and 2 represented negative control.
+
+2.2重组质粒pMD18-Cel42-Cel22的PCR扩增及酶切鉴定结果  
+以构建的pMD18-Cel42-Cel22质粒为模板，分别用引物F1/R1和F2/R2进行PCR 扩增，可以得到2条大小分别约为1.50和 $0 . 7 5 \ \mathrm { k b }$ 的DNA片段，分别与Cel42和Cel22基因片段大小相符。pMD18-Cel42-Cel22质粒经BamHI单酶切后可得到1条大小约为 $4 . 9 5 ~ \mathrm { k b }$ 的条带，经NcoI/BamHI双酶切后得到2条大小分别约为3.45和 $1 . 5 0 \mathrm { k b }$ 的条带，经NcoI/XhoI双酶切后得到2条大小分别约为2.70 和 $2 . 2 5 ~ \mathrm { k b }$ 的条带，经BamHI/XhoI双酶切后得到2条大小分别约为4.20和 $0 . 7 5 \mathrm { k b }$ 的条带，结果均与预期相符（图2)。  
+2.3重组质粒pET32a $( + )$ -Cel42-Cel22的PCR扩增及酶切鉴定结果  
+重组质粒pET32a(+)-Cel42-Cel22经NcoI/XhoI双酶切得到2条大小分别约为5.90 和$2 . 2 4 \mathrm { k b }$ 的条带，经XhI单酶切得到1条大小约为 $8 . 1 0 \mathrm { k b }$ 的条带，用引物对F1/R1扩增出1条大小约为 $1 . 5 0 \mathrm { k b }$ 的条带，均与预期结果一致（图3)。  
+M：DNA marker；1：F1/R1引物的PCR 扩增产  
+物；2：NcoI/BamHI双酶切产物；3：NcoI/XhoI  
+双酶切产物；4：BamHI单酶切产物；5：  
+BamHI+XhoI双酶切产物；6:F2/R2引物的PCR  
+产物。  
+M: DNA marker; 1: PCR amplification product  
+based on primers F1/R1;2:Nco I/BamHI digested  
+product; 3: Nco I/Xho Idigested product; 4:  
+BamHI digested product; 5:  
+BamHI/Xho Idigested product; 6:PCR  
+amplification product based on primers F2/R2.
+
+![](images/d221575513ad93671cca2789613ab049254cddbfb47cc6a4dba3c906916b6282.jpg)  
+图1Cel42和Cel22基因PCR扩增图 Fig.1 PCR amplification map of Cel42 and Cel22 genes
+
+图2重组质粒pMD18-Cel42-Cel22PCR 扩增产 物及酶切产物 Fig.2PCR amplification and enzyme digested products of recombinant plasmid
+
+![](images/081f62b230822e01f2e9efa9b0ceb787ea934aedd008a480217bb5e064f19183.jpg)
+
+M：DNAmarker；1：F1/R1引物的PCR 扩增产物, 2：NcoI/XhoI双酶切产物；3：XhoI单酶切产物。 M:DNA marker; 1:PCR amplification product based on primers F1/R1; 2: Nco I/Xho I digested product; 3: Xho Idigested product.
+
+图3重组质粒pET32a(+)-Cel42-Cel22PCR 扩增产 物及酶切产物 Fig.3PCR amplification and enzyme digested products of recombinant plasmid
+
+2.4融合蛋白的表达
+
+重组菌株 BL21(DE3)/pET32a $\left( + \right)$ -Cel42-Cel22 在 $2 5 \mathrm { ~ \textdegree C }$ 、1 mmol/L IPTG 的培养条件下诱导表达后，SDS-PAGE 结果显示，与对照菌株 BL21(DE3)/pET32a(+)相比，诱导的阳性重组菌株 BL21(DE3)/pET32a(+)-Cel42-Cel22 在 $\boldsymbol { 1 0 1 } \mathrm { \ k u }$ 附近出现1条明显条带，与预期估测的融合蛋白分子质量大小相似（图4)，表明 $C e l { 4 2 - } C e l { 2 2 }$ 纤维素酶融合基因通过大肠杆菌表达载体pET32a $^ { ( + ) }$ 得到了有效表达。
+
+2.5融合纤维素酶Cel42-Cel22酶活的测定结果
+
+根据标准溶液中不同浓度葡萄糖的 $\mathrm { \Gamma _ { O D _ { 5 4 0 } n m } }$ 值绘制的标准曲线（图5）和酶活计算方法，计算出粗酶液中葡聚糖内切酶的活性为 $5 7 . 6 2 \mathrm { U } / \mathrm { m L }$ ，葡聚糖外切酶的活性为 $3 2 . 5 7 \mathrm { U } / \mathrm { m L }$ 。
+
+![](images/bed812f7316c036634595b12c27a73af1174807b646a0111c947b618140b4185.jpg)
+
+![](images/f477e0a76b122f9a307195b93af6a97bc0fbdb693de67fe5a2e2a7c8703db1b8.jpg)  
+图5葡萄糖标准曲线Fig. 5 The standard curve of glucose
+
+1:BL21(DE3)/pET32a(+)；2 和 3:  
+BL21(DE3)/pET32a( $^ { ( + ) }$ -Cel42-Cel22;  
+4：蛋白质marker；5：纯化的融合  
+蛋白  
+1: BL21(DE3)/pET32a(+);2 and 3:  
+BL21(DE3)/pET32a(+)-Cel42-Cel22;  
+4:protein marker;5:purified fusion  
+protein.图4融合蛋白的 SDS-PAGE 图Fig.4 SDS-PAGE map of fusionprotein
+
+2.5温度对融合纤维素酶Cel42-Cel22活性及稳定性的影响纯化的融合纤维素酶Cel42-Cel22在 $3 0 { \sim } 6 5$ ℃温度下测得的纤维素酶活性结果如图5-A所示。由图5-A可以看出融合纤维素酶Cel42-Cel22最适反应温度为 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 。将纯化的融合纤维素酶Cel42-Cel22经 $3 0 { \sim } 9 0$ $\mathrm { { } ^ { \circ } C }$ 保温处理 $6 0 \mathrm { m i n }$ 后，再以羧甲基纤维素钠为底物，测定其残余纤维素酶活性，检测其对热的稳定性，检测结果如图5-B所示。由图5-B可以看出，在 $3 0 { \sim } 7 0$ ℃之间， $70 \%$ 以上的纤维素酶能够保持活性，而温度高于 $7 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 后则纤维素酶活性急剧下降。
+
+![](images/9d8841e584f7b7d639ad1e28c2303570140168367b63d947c699fd72f3e4912f.jpg)
+
+A:温度对融合纤维素酶Cel42-Cel22 活性的影响；B：温度对融合纤维素酶Cel42-Cel22   
+稳定性的影响；C：pH 对融合纤维素酶Cel42-Cel22 活性的影响；D：pH 对融合纤维素酶   
+Cel42-Cel22 稳定性的影响。 A: effect of temperature on fusion cellulose Cel42-Cel22 activity; B: effect of temperature   
+on stability of fusion cellulose Cel42-Cel22; C: effect of pH on fusion cellulase Cel42-Cel22   
+activity; D: effect of pH on stability of fusion cellulase Cel42-Cel22. 图5温度和pH对融合纤维素酶Cel42-Cel22 活性及稳定性的影响 Fig.5 Effects of temperature and pH on fusion cellulase Cel42-Cel22 activity and stability 1
+
+将纯化的融合纤维素酶Cel042-Cel22在不同pH条件下进行酶促反应，检测其纤维素酶活性，结果如图5-C 所示。由图5-C 可以看出，该融合纤维素酶Cel042-Cel22 酶促反应的最适pH为6.0。将纯化的融合纤维素酶Cel042-Cel22在 $\mathrm { p H } \ 3 . 0 { \sim } 1 2 . 0 \$ 范围内处理后，再检测其纤维素酶活性，测定其对pH的稳定性，结果如图5-D所示。由图 5-D可以看出， $7 5 \%$ 以上的纤维素酶在 $\mathrm { p H } 4 . 0 { \sim } 9 . 0 \$ 之间保持活性。
+
+2.6金属离子对融合纤维素酶Cel042-Cel22 活性的影响
+
+金属离子对融合纤维素酶Cel042-Cel22活性的影响如图6所示。由图6可以看出，在检测的离子范围内，除 $\mathrm { M n } ^ { 2 + }$ 对纤维素酶活性没有明显的影响外，其余金属离子均有不同程度的抑制作用，其中 $\mathrm { H g } ^ { 2 + }$ 对纤维素酶活性的抑制作用最大，相对活性只有 $2 8 . 9 4 \%$ ， ${ \mathrm { C u } } ^ { 2 + }$ 次之，相对活性为 $41 . 5 3 \%$ 。2 种铁离子（ $\mathrm { F e } ^ { 2 + }$ 、 $\mathrm { F e } ^ { 3 + }$ ）对纤维素酶活性的影响中， $\mathrm { F e } ^ { 2 + }$ 的生物学效价高于 $\mathrm { F e } ^ { 3 + }$ 。
+
+![](images/5a1abd05e64d2d515b7a404fa9677e75ba7dc44eb2801977822a0f3d2381d3bd.jpg)  
+图6金属离子对融合纤维素酶Cel42-Ce122活性的影响  
+Fig.6Effect of metal ions on fusion cellulase Cel42-Cel22 activity
+
+3讨论
+
+纤维素的降解是一个复杂的过程，需要多种不同种类的纤维素酶共同完成[18]。虽然利用混合菌种的复合菌系协同发酵能提高纤维素的降解率，但由于菌株选育、优化等过程较为复杂，从而限制了纤维素大规模的工业应用[19]。利用基因工程方法将不同的纤维素酶基因整合到单一菌株内，可使工业生产条件更易调控、生产过程更简化。而不同纤维素酶基因的融合是该方法的一个关键点，且基因之间合适的连接接头是保持融合蛋白空间结构稳定、发挥良好生物学活性的前提。一般用于接头的氨基酸主要包括脯氨酸（Pro）、甘氨酸（Gly)、（Ser）、苏氨酸（Thr）、丙氨酸（Ala）等[20]。本研究为了将2 种纤维素酶基因融合表达，
+
+在 Cel42 基因 $3 ^ { \prime }$ 端中添加了一段核苷酸序列GGATCTGGCGGT，翻译成的氨基酸为Gly-Ser-Gly-Gly，同时借助酶切位点 BamHI的碱基序列GGATCC 的优势，其翻译的氨基酸为 Gly-Ser，从而构成了一个由6个氨基酸组成的柔性接头（GSGGGS)，利用这样一段连接肽进行双纤维素酶基因之间的连接，使得2个纤维素酶基因位于同一个开放阅读框(ORF)内，获得了融合基因 Cel42-Cel22，并将其插入大肠杆菌表达载体 pET32a(+)中。通过 PCR和酶切鉴定结果可以看出，本研究成功构建了融合表达载体 pET32a(+)-Cel42-Cel22。该重组载体转化到 BL21(DE3)后，通过诱导可成功表达融合纤维素酶Cel42-Cel22，表达的粗酶液中葡聚糖内切酶活性为 $5 7 . 6 2 \ \mathrm { U / m L }$ ，葡聚糖外切酶活性为 $3 2 . 5 7 ~ \mathrm { U / m L }$ ，相对于已报道的在大肠杆菌表达葡聚糖内切酶和葡聚糖外切酶活性[16]具有一定的优势，但与其他表达系统表达的纤维素酶活性[21]相比还有些欠缺。由于pET系列载体表达的蛋白质容易形成包涵体，可导致部分蛋白质生物学活性丧失[22]，这可能是导致融合纤维素酶活性不是很理想的原因之一。  
+酶学性质研究中发现融合表达的纤维素酶的最适反应pH为6.0,最适反应温度为 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 这与短小芽孢杆菌 S124A 所产纤维素酶的最适反应 $\mathfrak { p H }$ 和最适反应温度[23]一致。本试验表达的融合纤维素酶Cel42-Cel22 在 $\mathrm { p H } 4 . 0 { \sim } 9 . 0 \$ 范围内时 $7 5 \%$ 以上的纤维素酶可以保持活性，温度在 $3 0 { \sim } 7 0$ ℃范围内时 $70 \%$ 以上的纤维素酶能够保持活性，而温度高于 $7 0 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 则其活性急剧下降，表明该融合纤维素酶Cel42-Cel22可适应较宽广的温度和 $\mathfrak { p H }$ 范围，所以较适合于实际生产应用。  
+由于纤维素的降解是内切葡聚糖酶、外切葡聚糖酶和 $\beta$ -葡萄糖苷酶协同作用的结果，而本研究中仅将来源于 2 株不同菌株的内切葡聚糖酶和外切葡聚糖酶的基因进行了融合表达，如想进一步提高融合纤维素酶的产量和活性，在后续研究中可根据生长的需要将更多的纤维素酶基因整合到该载体中。此外，如果将宿主菌改为乳酸菌之类的益生菌，并进一步将携带多种纤维素酶基因的乳酸杆菌开发成生物制剂，势必会提升其在实际生产中的应用价
+
+1值，值得进一步研究。
+
+4结论 ?本试验成功克隆了 Bacillus subtilis的β-1,4-葡聚糖内切酶基因Cel42和β-1,4-葡聚 糖外切酶基因Cel22，通过设计一段连接肽将2个基因融合在一个ORF内，并成功 实现了融合纤维素酶 Cel42-Cel22 在大肠杆菌中的表达，粗酶液中葡聚糖内切酶活 性为 $5 7 . 6 2 \mathrm { U } / \mathrm { m L }$ ，葡聚糖外切酶活性为 $3 2 . 5 7 \mathrm { U } / \mathrm { m L }$ 。 $\textcircled{2}$ 本试验所得融合纤维素酶Cel42-Cel22的最适反应温度为 $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ,最适反应 $\mathsf { p H }$ 为6.0,   
+温度在 $3 0 { \sim } 7 0$ ℃范围内时可维持 $70 \%$ 以上的纤维素酶活性， $\mathsf { p H }$ 在 $4 . 0 \sim 9 . 0$ 范围内时可保   
+持 $7 5 \%$ 以上的纤维素酶活性，金属离子 $\mathrm { H g } ^ { 2 + }$ 和 ${ \mathrm { C u } } ^ { 2 + }$ 则对其具有明显的抑制作用。   
+参考文献:   
+[1]张森翔,尹小燕,龚志伟,等.纤维素酶降解秸秆特性及其基因工程研究进展[J].生物技术 通报,2015,31(5):20-26.   
+[2]JIANG D,ZHUANG D F,FU J Y,et al.Bioenergy potential from crop residues in China:availability anddistribution[J].Renewable andSustainable Energy Reviews,2012,16(3):1377-1382.   
+[3]陈晓琳,孙娟,王月超,等.不同类农作物秸秆在肉羊瘤胃中的降解特性研究[J].中国畜牧 杂志,2015,51(5):45-51.   
+[4]蒋发现,徐勇,朱均均,等.稀酸预处理对玉米秸秆中 4 类非木质素组分的降解规律研究 [J].林产化学与工业,2015,35(2):38-46.   
+[5]YUAN J S,TILLER K H,AL-AHMAD H,et al.Plants to power:bioenergy to fuel the future[J].Trends in Plant Science,2008,13(8):421-429.   
+[6]RAHNAMA N,FOO HL,RAHMAN N A A,et al.Saccharification of rice straw by cellulase from a local Trichoderma harzianum SNRS3 for biobutanol production[J].BMC   
+[7] BHAT M K,BHAT S.Celulose degrading enzymes and their potential industrial applications[J].Biotechnology Advances,1997,15(3/4):583-620.   
+[8]JAIN K K,KUMAR S,DESWAL D,et al.Improved production of thermostable cellulase from Thermoascus aurantiacus RCKK by fermentation bioprocessing and its application in the hydrolysis of office waste paper,algal pulp,and biologically treated Wheat straw[J].Applied Biochemistry and Biotechnology,2017,181(2):784-800.   
+[9]SHARMA S,SHARMA V,KUILA A.Cellulase production using natural medium and its application onenzymatichydrolysisofthermo chemically pretreated biomass[J].Biotechnology,2016,6:139.   
+[10] OHMIYA K,SAKKA K,KIMURA T,et al.Application of microbial genes to recalcitrant biomass utilization and environmental conservation[J].Journal of Bioscienceand Bioengineering,2003,95(6):549-561.   
+[11] YANG P Z,ZHANG H F,CAO L L,et al.Construction of Aspergillus niger integrated with cellulase gene from Ampullaria gigas Spix for improved enzyme production and saccharification of alkaline-pretreated rice straw[J].Biotechnology,2016,6:236.   
+[12]IRFAN M,GULER H I,BELDUZ A O,et al.Cloning,purification and characterization of a cellulase-freexylanasefromGeobacillusthermodenitrificansAK53[J].Applied Biochemistry and Microbiology,2016,52(3):277-286.   
+[13] ZHOU H Z,GAO Y H,GAO G,et al.Oral Administration of recombinant Lactococcus lactis expressing the cellulase gene increases digestibility of fiber in geese[J].Current Microbiology,2015,71(6):693-698.   
+[14]LU R H,ZHAO A C,LI J,et al.Screening,cloning and expresson analysis of a cellulase
+
+derived from the causative agent of hypertrophy sorosisscleroteniosis,Ciboria shiraiana[J].Gene,2015,565(2):221-227.
+
+[15]ZHANG R G,DUAN G C,SHI Q F,et al.Construction of a recombinant Lactococcus lactis strain expressing a fusion protein of Omp22 and HpaA from Helicobacter pylori for oral vaccine development[J].Biotechnology Letters,2016:38(11):1911-1916.   
+[16]GAO D F,LUAN Y Q,WANG Q,et al.Construction of cellulose-utilizing Escherichia coli based ona secretable cellulase[J].Microbial Cel Factories,2015,14:159.   
+[17] WANG Q F,QIAN C L,ZHANG X Z,et al.Characterization of a novel thermostable $\beta$ -glucosidase from a metagenomic library of termite gut[J].Enzyme and Microbial Technol0gy,2012,51(6/7):319-324.   
+[18]STEPANOVA E V,KOROLEVA O V,VASILCHENKO L G,et al.Fungal decomposition of oat straw during liquid and solid state fermentation[J].Applied Biochemistry and Microbiology,2003,39(1):65-74.   
+[19]FANG H,XIA L M.High activity celllase production by recombinant Trichoderma reesei ZU-02 with the enhanced cellobiohydrolaseproduction [J].Bioresource Technology,2013,144:693-697.   
+[20] JIANG W,FANG B S.Construction and evaluation of a novel bifunctional phenylalanine-formate dehydrogenase fusion protein for bienzyme system with cofactor regeneration[J].Journal of India Microbiology & Biotechnology,2016,43(5):577-584.   
+[21]LI W,HUAN X J,ZHOU Y,et al.Simultaneous cloning and expression of two cellulase genes from Bacillus subtilis newly isolated from Golden Takin (Budorcas taxicolor bedfordi)[J].Biochemical and Biophysical Research Communications,2009,383(4):397-400. 1 [22]MIERENDORFR,YEAGER K,NOVY R.ThepETsystem:yourchiocefor 2 expression[J].AdvancedProducts and Protocols for Molecular Biology 3 Research,1994,1(1):3-36.   
+4 [23] BALASUBRAMANIAN N,SIMOES N.Bacillus pumilus S124A carboxymethyl cellulose;a 5 thermo stable enzyme with a wide substrate spectrum utility[J].International Journal of 6 Biological Macromolecules,2014,67:132-139.   
+7   
+8 Cloning, Fusion Expression of Two Cellulase Genes from Bacillus subtilis and Its Enzymatic 9 Properties   
+.0 DING Kel²QIU Jingjing’LUO Weiguang'LI Wang1LI Yuanxiao1,3CAO Pinghua' .1 HE Wangling'ZHAO Longmei1 WANG Yuqin³ZHANG Chunjie²   
+.2 (1. Hongxiang Biological Feed Laboratory, Henan University of Science and Technology, .3 Luoyang 471003, China; 2. Key Laboratory of Animal Disease and Public Health of Henan .4 Province, Luoyang 471003, China; 3. Research Center of Breeding Engineering Technology for .5 Meat Sheep of Henan Province, Luoyang 471003, China)   
+.6 Abstract: The aim of this experiment was to construct fusion expresson system based on different .7 cellulases and studied the enzymatic properties of fusion cellulase. The two different celulases .8 Cel42 and Cel22 were amplified from Bacillus subtilis isolated in previous researches in our .9 laboratory using PCR method, respectively. The two genes were linked with a flexible polypeptide ！0 （GSGGGS）， which could form a complete ORF, and the fusion gene was inserted into vector ！1 $\mathrm { p E T } 3 2 \mathrm { a } ( + )$ to construct the recombinant expression vector pET32a-Cel42-Cel22，which was ！2 transformed into Escherichia coli BL21(DE3). The recombinant strain was induced to express the ！3 fusion cellulose,and the the enzymatic properties of fusion cellulose were studied. The results ！4 showed that the two cellulase genes Cel42 and Cel22 were cloned successfully in this experiment, ！5 and obtained the recombinant expression system BL21/pET32a $( +$ )-Cel42-Cel22. Sodium dodecyl ！6 sulfate polyacrylamide gel electrophoresis (SDS-PAGE) indicated that the molecular weight of the Author, DING Ke, associate professor, E-mail:keding19@163.com (责任编辑菅景颖)
+
+fusion protein was about $1 0 1 \ \mathrm { k u }$ .Enzymatic activity of the crude enzyme liquid indicated that the endo-1,4- β -D-glucanases activity was $5 7 . 6 2 \ \mathrm { U / m L }$ ,and the exo-1,4- $\beta$ -D-glucanase activity was $3 2 . 5 7 ~ \mathrm { U / m L }$ . The reaction optimal temperature of the fusion cellulase Cel42-Cel22 was $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ and could still maintain above $70 \%$ cellulase activity when temperature was from 30 to $7 0 \mathrm { ~ \textdegree C }$ ： The optimal pH of the fusion cellulase Cel42-Cel22 was 6.0,and could still maintain over $7 5 \%$ cellulase activity in a $\mathfrak { p H }$ range of 4.0 to 9.0. In addition to $\mathrm { M n } ^ { 2 + }$ ,other metal ions had inhibitory effects on the activity of fusion cellulase Cel42-Cel22, especially $\mathrm { H g } ^ { 2 + }$ and ${ \mathrm { C u } } ^ { 2 + }$ . In conclusion, the fusion fusion cellulase Cel42-Cel22 is realized to efficiently express in Escherichia coli BL21(DE3),and has a higher activity within a wide range of temperature and $\mathfrak { p H }$ ,and is sensitive to metal ions. Key words: cellulase; Bacillus subtilis; clone; fusion expression; enzymatic properties

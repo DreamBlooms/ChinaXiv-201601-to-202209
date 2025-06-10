@@ -1,0 +1,291 @@
+[
+    {
+        "type": "text",
+        "text": "Fabrication of Flexible Transparent Conductive Films with Silver Nanowire by Vacuum Filtration and PET Mold Transfer ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wei Xu 1.2, Qingsong Xu 1, Qijin Huang 1, Ruiqin Tan 3, Wenfeng Shen 1.\\*, Weijie Song 1.2\\*\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Ningbo InstituteofMaterialTechnology and Engineering,ChineseAcademy ofSciences,Ningbo 315201,Chind   \n2 Ningbo Key Laboratoryof Silicon and Organic Thin Film Optoelectronic Technologies,Ningbo 315201,China   \n3FacultyofInformation Scienceand Engineering,Ningbo University,Ningbo 3152,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:   \nSilver nanowires   \nNanoparticles   \nPercolation threshold   \nTransparent conductive film ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The flexible transparent conductive films (FTCFs)of silver nanowire-polyethylene terephthalate (AgNWPET) were prepared by a facile method including Vacuum filtration and mold transferring.The effect of silver nanowire weightdensity on the optical and electrical properties offilms,as wellas the electrical percolation was investigated.The obtained typical AgNW-PETfilm exhibited high figure of merit of $3 1 . 3 \\times 1 0 ^ { - 3 } \\Omega ^ { - 1 }$ with low sheet resistance of $4 . 9 5 \\Omega \\mathsf { s q } ^ { - 1 }$ and high transparency at $5 5 0 \\mathrm { n m }$ of $8 3 . 0 \\%$ (excluding PET substrate).The resulting FTCFs based onPET substrate with high transmitance and low shet resistance have a great potential in the application of high-performance flexible electronics and photovoltaic devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Flexible transparent conductive films (FTCFs),which incorporateadvantages such as lighter weight,higher shock resistance, flexible stock,and roll-to-roll processing,have shown great promise in flexible electronics such as solar cells,organic light-emitting diodes,and flexible displays[1-4l.As most of the substrates used in FTCFs are polymer materials and cannot withstand the high temperature compared to rigid glass substrate,it is difficult to deposit high quality commonlyused doped metal oxide.Manyalternative transparent conductive materials,such as carbon nanotubes, graphenes,and metal nanowires,have been widely studied[5-7l. Among these materials,silver nanowires (AgNWs)have attracted increasing interest due to their high electrical conductivityand unique optical property[8.9l.Recently,many works have been done to fabricate silver nanowire to FTCF with different flexible substrate to obtain high conductivity and transparency[10-13]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Herein,we report fabrication of FTCFs with silver nanowires by vacuum filtration and PET mold transfer.The optical and electrical properties of FTCFs with different weight densities of silver nanowires were investigated.The FTCF possessing high figure of merit $\\left( \\Phi = 3 1 . 3 \\times 1 0 ^ { - 3 } \\Omega ^ { - 1 } \\right)$ witha low sheet resistance $\\left( R _ { s } = 4 . 9 5 \\Omega \\varsigma \\mathrm { q } ^ { - 1 } \\right)$ and hightransparency ( $T = 8 3 . 0 \\%$ at $\\lambda = 5 5 0 \\mathrm { n m }$ )wasobtained.The electrical percolation of AgNW films on PET substrate was studied as well. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.1.Materials ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Silver nitrate $\\left( { \\sf A g N O } _ { 3 } \\right)$ ,poly(vinylpyrrolidone) (PVP,K-3O),sodium chloride (NaCl),ethylene glycol (EG) and acetone were purchased from Sinopharm Chemical Reagent Co., Ltd.All reagents were of analytical grade and used without further purification. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2.2.Synthesisofsilvernanowires ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "AgNWs were synthesized bya modified polyol reduction process[14]. In a typical procedure, $1 5 0 \\mathrm { m l }$ of $0 . 1 5 \\mathrm { m o l } / \\mathrm { l }$ PVP EG s0- lution ina three-neck flask was heated to $1 6 5 ^ { \\circ } \\mathsf { C }$ for $^ { 1 \\mathrm { ~ h ~ } }$ under continuous magnetic stirring.Then, $1 2 0 \\mu \\mathrm { l }$ of $0 . 1 \\mathrm { \\ m o l / l \\ N a C l }$ EG SOlution wasadded to the flask.After $1 0 \\mathrm { m i n }$ = $1 5 0 \\mathrm { m l }$ of $0 . 1 \\mathrm { m o l } / 1 \\mathrm { A g N O } _ { 3 }$ EG solution was injected to the flask at a rate of $5 \\mathrm { m l / m i n }$ The obtained solution was cooled naturally to room temperature after $2 0 \\mathrm { m i n }$ ,filtered through $0 . 8 \\mu \\mathrm { m }$ pore-size filter membrane,and diluted with deionized water (3 times by volume).The AgNWs collected on filter membrane were redispersed in deionized water by sonication.Finally, the silver nanowire solution with a concentration of $0 . 0 4 \\mathrm { m g / m l }$ in deionized water was obtained. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Preparation of AgNWfilm on PET ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1(a) shows the fabrication process of FTCFs with AgNWs on PET substrate.The AgNW film was obtained by vacuum filtration using $0 . 8 \\mu \\mathrm { m }$ average pore size filter membrane,and then transferred toa flexible substrate bydirectPET molding.The PET film was heatedat $1 0 0 ^ { \\circ } \\mathsf { C }$ forabout $^ { 4 \\mathrm { h } }$ while the filter membrane with the AgNWs was placed on the surface.After cooling to room temperature,the filtermembrane was removed forminga silver nanowire film on the PET surface.It can be seen from photograph of FTCFs with different silver nanowire contents in Fig.1(b) that the fabrication process produced optically uniformand transparent,flexible PET with the area of AgNWs coverage defined by the filter membrane diameter $( { \\sim } 4 \\mathrm { c m } )$ .Theweightdensity of the AgNW networks (weight of AgNWs per square meter) on PET films was controlled by adjusting the volume of AgNWs solution during filtering. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4.Characterization and measurement ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The surface morphology of AgNW-PET films was examined by a field emission scanning electron microscope (FE-SEM,Hitachi S-4800,Japan).The optical transmittance of the AgNW/MC films was obtained using a UV-Vis-NIR spectrophotometer (Perkin-Elmer, Lambda 950,USA)with an integrating sphere.The sheet resistance was measured by a four-point probe system (Napson Corp. Cresbox). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and Discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Microstructure analysis ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As shown in the photograph of Fig.1(b), the films were transparent and the logo of NIMTE was clearly visible when the density was below $6 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ .Contrarily, the flms were opaque and the logo of NIMTE was vague when the density of AgNW was above $2 0 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ .Fig.2(a-d) shows the microstructure of FTCFs surface using SEManalysisof AgNWfilm on PET substrate.The AgNWswere distributed on the PET film uniformly.As the density of AgNWs increased,the AgNW-uncovered space of PET film became narrower, which led to the reducing of the transparence of FTCFs.Fig.2(e,f) shows the distributions of diameter and length by measuring 100 nanowires on the substrate.The silver nanowires present a relativelyhighaspect ratio (approximately19o)withanaverage length of $1 5 . 1 \\mu \\mathrm { m }$ and average diameter of $7 9 . 6 \\ : \\mathrm { n m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.2.Optical property ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The transmission spectra of FTCFs with different AgNW weight densities are shown in Fig.3.The absorption near $3 8 0 \\mathrm { n m }$ exhibited a surface plasmon resonance of silver nanowires[15,16l.As the reflectingand scattering light by the AgNWs,the transmittance of films decreased with increasing AgNW weight density. Fig.3(b) shows the difference of the transmittance at a fixed wavelength 中 $\\cdot 5 5 0 \\mathrm { n m } )$ with AgNW weight density.With the weight density of $1 6 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ ,the transmittance of the FTCF is slightly reduced from $8 7 . 5 \\%$ (for pure PET film) to $8 2 . 3 \\%$ Asthe AgNWweightdensityincreased to $8 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ ,the filmbecame semi-transparent,with the transmittance of $6 5 . 6 \\%$ Theinverse linear relation between transmittance of films and the AgNW weight density is quite similar to the results discussed elsewhere[17]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.3.Electrical property ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the electrical sheet resistance of the FTCFs as a function of the nanowire weight density at room temperature.With the AgNW increased from16 to $6 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ ,the sheet resistance of FTCF was reduced from 177.3 to $4 . 9 5 \\Omega \\mathsf { s q } ^ { - 1 }$ quickly. As the AgNW weight density increased from $1 0 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ to $4 0 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ ,the sheet resistance of the film decreased from 1.9 to $0 . 5 6 \\Omega \\mathrm { s q } ^ { - 1 }$ slowly. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The relationship between the experimentally determined sheet resistivity $R _ { s }$ and thearea fraction of AgNW $A _ { \\mathrm { f } }$ in films can be expressed as[18]: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR _ { s } = \\frac { M } { \\left( A _ { \\mathrm { f } } - A _ { \\mathrm { f c } } \\right) ^ { t } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $A _ { \\mathrm { f c } }$ is the critical area fraction of silver nanowires in FTCF,t is the conductivity exponent,and $M$ is a constant.The area ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/08c710e878fce4a07f268b4700657f7129f752bf140fe216307c9427ef6d3415.jpg",
+        "img_caption": [
+            "Fig.1.(a)SchematicofAgNWsonPETfimfabrication;(b)photographofFTCFswithdiferentdensitiesofAgNWsonPETsubstrate "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fd3e75d81fc20392dd3bf80099ebf6f21b70ca6e78dfc50ae097be0b1dde3fc.jpg",
+        "img_caption": [
+            "Fig.2.SEM images of FTCFs with different AgNW weight densities: (a) $2 4 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ (b) $4 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ ，(c) $8 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ and (d) $2 0 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ ； (e) histogram of diameter size distribution(100 nanowires measured);(f) histogram of length size distribution (1O0 nanowires measured). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "fraction of AgNW $A _ { \\mathrm { f } }$ can be calculated based on the following equation[19]: ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA _ { \\mathrm { f } } = \\frac { m _ { \\mathrm { s } } } { \\rho _ { \\mathrm { A g } } } \\frac { 4 } { \\pi \\langle D \\rangle }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $m _ { s }$ is the weight density of AgNWs and $\\rho _ { \\mathrm { A g } }$ is the density of silver. $\\scriptstyle < D >$ is the average diameter of AgNWs,which was confirmed to be $7 9 . 6 \\mathrm { n m }$ in this report with SEM analysis.As shown in Fig.4(Inset), the experiment data were fitted well with $R ^ { 2 }$ of 0.999 and Pearson's $r$ of $- 0 . 9 9 9$ .The critical area fraction $A _ { \\mathrm { f c } }$ was found to be $1 . 9 0 \\%$ ,which was in good agreement with the theoretical value $( 1 . 9 5 \\% )$ from Excluded Volume Modell20l. The conductivity exponent was extracted as $t = 1 . 3 7$ ，which was in agreement with theoretical value of 1.3 for the two-dimensional nanowires network[19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/de422981c4d4d7d8735e9b71674f83ab498f4bdca2d6893048de06cef524bf13.jpg",
+        "img_caption": [
+            "Fig.3.（a）TransmitanceofFFwithdiferentAgNweightdensities;（b）relationshipbetweenAgNWweightdensities,trasmitanceat $5 5 0 \\mathrm { n m }$ and figure of merit. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d92fec445015ac83fa142c7534cb3e3d496b5533f53e5901755fd733b49e3e3.jpg",
+        "img_caption": [
+            "Fig.4.Sheet resistance of FTCF with various AgNW weight densities.Inset: fit of the experimental data to the percolation equation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.Figure of merit ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The figure of merit $( \\phi )$ is usually used to describe the overall performance of transparent conductive film,which can be expressed as[16]: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathscr { O } = \\frac { T ^ { 1 0 } } { R _ { s } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $T$ is the transmittance excluding PET at a wavelength of $5 5 0 \\mathrm { n m }$ and $R _ { s }$ is the sheet resistance of the flm. According to Table 1, AgNWs playeda leading role in the electrical property of the film when the weight density of AgNWs is lower,which improved the figure of merit of our FTCFs.As the weight density of AgNWs became much higher, the transmittance of the films decreased rapidly,which resulted in a poor figure of merit.The maximum figure of merit was obtained to be $3 1 . 3 \\times 1 0 ^ { - 3 } \\Omega ^ { - 1 }$ when AgNW weight density was $6 0 \\mathrm { m g } \\mathrm { m } ^ { - 2 }$ with $T _ { 5 5 0 \\mathrm { n m } }$ (excluding PET substrate) of $8 3 . 0 \\%$ and sheet resistance of $4 . 9 5 \\Omega \\mathsf { s q } ^ { - 1 }$ . This result was higher than what previous literature reported[21,22]. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f0e044c14280c2628e6fef858bcbf50f714153084ae4bf39f1c822628565c1cb.jpg",
+        "table_caption": [
+            "Table 1 Comparison of the electrical and optical properties of FTCF with different AgNW weight densities "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Weight density (mg m-2)</td><td>(%) T550nm</td><td>T550nm (%) excluding PET</td><td>Sheet resistance (Ω sq-1)</td><td>Figure of merit (10-Ω-1)</td></tr><tr><td>16</td><td></td><td>94.0</td><td>177.30</td><td>3.0</td></tr><tr><td>24</td><td>82.3 80.5</td><td>91.9</td><td>34.09</td><td>12.6</td></tr><tr><td>30</td><td>79.3</td><td>90.7</td><td>19.30</td><td>19.5</td></tr><tr><td>40</td><td>75.1</td><td>85.8</td><td>8.98</td><td>24.1</td></tr><tr><td>60</td><td>72.6</td><td>83.0</td><td>4.95</td><td>31.3</td></tr><tr><td>80</td><td>65.6</td><td>75.0</td><td>2.92</td><td>19.3</td></tr><tr><td>100</td><td>57.1</td><td>65.3</td><td>1.94</td><td>7.3</td></tr><tr><td>120</td><td>49.1</td><td>56.1</td><td>1.57</td><td>2.0</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusion ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Insummary,we fabricated flexible transparent conductive PET film with silver nanowires using vacuum filtration and mold transfer.The effect of silver nanowire weight density to the optical and electrical properties of films was investigated.The obtained percolation threshold and conductivity exponent demonstrated the TFCFs in our experiment possess two-dimension nanowires network electrical percolation property.Byadjusting the weight density of the AgNWs,a typical TFCF with an optical transmittance at $5 5 0 \\mathrm { n m }$ of $8 3 . 0 \\%$ (excludingPET substrate),a sheet resistance of $4 . 9 5 \\Omega \\mathsf { s q } ^ { - 1 }$ and a figure of merit of $3 1 . 3 \\times 1 0 ^ { - 3 } \\Omega ^ { - 1 }$ was obtained.The TFCF based on PET substrate with high transmittance and low sheet resistance described here has a great potential in the application of highperformance flexible electronics and photovoltaic devices. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank the financial support from the National Natural Science Foundation of China (Grant No.21203226) and Ningbo Key Laboratory of Silicon and Organic Thin Film Optoelectronic Technologies (Grant No.2014A22002). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] Z. Yu, Q. Zhang,L.Li, Q.Chen,X. Niu,J. Liu, Q.Pei,Adv.Mater.23 (2011) 664-668. [2]S. Chen,L. Deng,J. Xie,L. Peng,L. Xie, Q. Fan,W. Huang, Adv. Mater. 22 (2010) 5227-5239. [3] M. Zhang, S.L. Fang, A.A. Zakhidov, S.B. Lee, A.E. Aliev, C.D.Williams, K.R. Atkinson, R.H. Baughman, Science 309 (2005) 1215-1219. [4]M.G. Kang,T. Xu, H.J. Park, X.Luo,L.J. Guo, Adv. Mater. 22 (201O) 4378-4383. [5]D.S.Hecht,L.Hu,G.Irvin,Adv.Mater.23 (2011) 1482-1513. [6] A.R. Rathmell, S.M. Bergin, Y.L. Hua, Z.Y. Li, B.J. Wiley, Adv. Mater. 22 (2010) 3558-3563. [7]S.Bae,H. Kim, Y.Lee, X. Xu,J.S. Park, Y. Zheng,J. Balakrishnan,T.Lei, H.R. Kim, Y.I. Song, Y.J. Kim, K.S. Kim,B. Ozyilmaz, J.H. Ahn, B.H. Hong, S. Iijima,Nat. Nanotechnol.5 (2010) 574-578. [8]C.Yang, Y. Tang,Z.Su,Z. Zhang,C.Fang,J. Mater. Sci. Technol.31(2015) 16-22. [9]W.He,C.Ye,J.Mater.Sci. Technol.31(2015) 581-588. [10]R. Krajcar,J. Siegel,P.Slepicka,P.Fitl, V.Svorcik,Mater.Lett.117 (2014) 184-187. [11] T. Tokuno, M. Nogi, J.T. Jiu, T. Sugahara, K. Suganuma, Langmuir 28(2012) 9298-9302. [12] C.N. Chen, T.Y. Dong,T.C. Chang, M.C. Chen, H.L. Tsai, W.S. Hwang,J. Mater. Chem. C1 (2013)5161-5168. [13]A. Madaria, A. Kumar, F. Ishikawa, C. Zhou, Nano Res.3 (201O) 564-573. [14] Q. Xu, W. Shen, Q. Huang, Y. Yang,R. Tan, K. Zhu, N. Dai, W. Song,J. Mater. Chem. C2 (2014)3750-3755. [15] M. Barbic,J.J. Mock,D.R. Smith, S.Schultz,J. Appl. Phys.91(2002) 9341-9345. [16]G.Haacke,J.Appl.Phys.47(1976) 4086-4089. [17] S.M. Bergin, Y.H. Chen, A.R. Rathmell, P. Charbonneau, Z.Y. Li, B.J. Wiley, Nanoscale4(2012) 1996-2004. [18]L. Hu, D.S.Hecht,G. Gruener, Chem. Rev.110 (2010) 5790-5844. [19] G. Khanarian, J. Joo, X.Q. Liu, P. Eastman, D. Werner, K. O'Connell,P. Trefonas, J. Appl.Phys.114(2013) 024302. [20]I. Balberg, C.H. Anderson, S. Alexander, N. Wagner,Phys. Rev. B 30(1984) 3933-3943. [21]S.De,T.M.Higgins,P.E.Lyons,E.M.Doherty,P.N.Nirmalraj,W.J.Blau,J.J. Boland, J.N. Coleman, ACS Nano 3 (2009) 1767-1774. [22] S.Wang, X. Zhang,W. Zhao,J. Nanomater. 2013 (2013) 456098. ",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "腾格里沙漠昂格尔图湖记录的988AD以来的古气候变化",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "曹志宏，安成邦，尹丽颖，段阜涛，郝盛吞，周爱锋（兰州大学西部环境教育部重点实验室，甘肃兰州730000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：通过对腾格里沙漠东南部昂格尔图湖岩芯AGE15A的粒度、碳酸盐的百分含量和主要化学元素等多项沉积学气候代用指标及精确定年的综合分析，重建了该区域988AD以来的古气候变化序列。结果表明：988AD以来的研究区的气候环境的演化过程与我国西北西风区古气候变化基本一致，呈现“冷湿一暖干”交替变化的特征，但在时间上存在一定的延迟。具体表现为： $9 8 8 \\sim$ 1383 AD,昂格尔图湖由洼地发育成小型湖泊，化学风化作用弱,湖区气候环境整体偏冷湿，期间出现几次暖波动； $1 3 8 3 \\sim 1 5 6 0 ~ \\mathrm { A D }$ ,研究区处在中世纪暖期，为温暖、干旱的气候特征，此时湖泊扩张，湖中水生植物生长茂盛，呼吸作用增强，造成大量的碳酸盐沉淀，最高值达到 $8 . 1 6 \\%$ ;1560 \\~1700AD,致使气候在昂格尔图湖形成之后出现最寒冷的时期，降水增加，气候湿冷，此时段与小冰期最盛期相对应;1700AD之后,温度开始上升,气候回暖,在1900AD左右达到最甚，此时沉积物中碳酸盐的百分含量也达到最大值，为 $1 0 . 1 5 \\%$ ，此期间湖泊继续扩张，出现几次气候冷波动。基于我国古代文献重建的历史时期气候变化基本不包括沙漠地区，所以本文利用湖相沉积记录来反演腾格里沙漠昂格尔图湖历史时期的气候环境演变，对中国沙漠研究有着重要参考价值，同时也为中国西北历史时期的气候重建提供科学依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：湖相沉积；粒度特征；XRF岩芯扫描分析；气候变化；腾格里沙漠中图分类号：P532 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "沙漠是干旱半干旱地区的地貌环境的重要组成部分，其面积占我国陆地国土面积的 $2 7 \\%$ ，主要分布在我国西北干旱、半干旱地区。沙漠中的湖相沉积遵循着区域气候变化的规律[1-3],研究沙漠地区的风尘堆积以及湖相沉积可以重建近万年甚至更长时间以来的气候变化序列[4-6]。我国的西北沙漠地区一般都有着很强的风蚀作用，导致在地表很难找到完整的连续风尘堆积，而沙漠里连续沉积的湖相沉积剖面详细地记录了环境变化的历史，在同等时间、条件的演化背景下，有着更为完整的年代序列，因而更容易受到古气候学家的青睐。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从事古气候重建的研究者们对中国干旱、半干旱区的沙漠及其毗邻地区进行了大量研究，根据湖泊或沙丘沉积物中的地球化学元素特征、孢粉、盐类矿物组成等物理化学指标，反演了毛乌素沙地[」、浑善达克沙地[8]、河西走廊[9]等地区的古气候环境变化。李琼[10]等对腾格里沙漠南缘白岩沟剖面各地层的粒度、色度和 $\\mathrm { C a C O } _ { 3 }$ 等气候环境指标进行分析，认为末次冰盛期以来该区主要经历过两次强烈扩张、两次退缩以及一次小幅度扩张;张虎才[]等通过对白碱湖古湖岸阶地和腾格里沙漠北缘的断头梁和土墩槽剖面分析确定，腾格里沙漠在距今约42$\\sim 1 8 ~ \\mathrm { { k a } }$ BP 时，曾形成总面积超过 $2 0 ~ 0 0 0 ~ \\mathrm { k m } ^ { 2 }$ 的湖泊；还通过对腾格里沙漠南缘红水河桥东侧的红水河剖面的地层分析[12],重建了腾格里沙漠南缘过渡区全新世 $8 \\sim 3 \\ \\mathrm { k a }$ BP 期间的古气候演变序列，认为$8 \\sim 6 . 9 \\mathrm { \\ k a }$ BP期间该区处于升温期， $6 . 9 \\sim 4 . 6 \\ \\mathrm { k a }$ BP期间为高温期， $. 4 . 6 \\sim 3 . 1 ~ \\mathrm { k a }$ BP期间为降温期。而隆浩[13]等通过对腾格里沙漠西北缘青土湖沉积物剖面的分析，认为 $9 \\sim 7 . 8 ~ \\mathrm { { k a } }$ BP期间，温度逐渐上升，是向全新世暖湿期转变的过程； $7 . 8 \\sim 7 . 5 \\mathrm { { \\ k a } }$ BP 期间，出现了百年尺度的干旱事件； $7 . 5 \\sim 5 . 0 ~ \\mathrm { k a }$ BP期间为全新世最为暖湿的气候适宜期; $5 . 0 \\ \\mathrm { k a }$ BP以来，该区域表现出了较为明显的干旱化趋势",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "上述研究为国内西北沙漠地区的古气候重建工作提供了有益的信息，但对于历史时期的变化，目前还没有较好的湖泊纪录。而且，因为沙漠地区相对缺乏文献记载，基于我国古代文献重建的历史时期气候变化基本不包括沙漠地区。所以，对沙漠地区湖泊记录的历史时期的气候环境变化，是目前研究中比较薄弱的环节，也是亟须加强的方面。本文利用腾格里沙漠东南部获得的湖相沉积岩芯，结合其粒度、地球化学元素以及烧失量等多项气候代用指标的分析，反演该区域近千年以来的古气候变化，为该区域的历史时期气候重建提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "腾格里沙漠位于内蒙古自治区阿拉善左旗西南部和甘肃、宁夏交界地区，东至贺兰山，西北部是雅布赖山，南越长城,面积约 $3 0 \\ 0 0 0 \\ \\mathrm { k m } ^ { 2 }$ ,是中国的第四大沙漠。地处我国东部季风边缘区，降水受到夏季风的影响,年降水量的变率很大[14]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "昂格尔图湖（ $: 3 8 ^ { \\circ } 2 4 ^ { \\prime } 2 . ~ 5 1 ^ { \\prime \\prime } \\sim 3 8 ^ { \\circ } 2 4 ^ { \\prime } 9 . ~ 2 2 ^ { \\prime \\prime } \\mathrm { N }$ $1 0 5 ^ { \\circ } 8 ^ { \\prime } 1 6 . 4 ^ { \\prime \\prime } \\sim 1 0 5 ^ { \\circ } 7 ^ { \\prime } 5 6 . 5 ^ { \\prime \\prime } \\mathrm { E } \\rangle$ 位于腾格里沙漠东南部(图1）,湖面海拔 $\\mathrm { ~ 1 ~ } 3 2 1 \\mathrm { ~ m ~ }$ ,水域面积 $0 . 0 9 \\ \\mathrm { k m } ^ { 2 }$ ，为一淡水湖,湖中生长大量芦苇,冬季结冰。由于该湖没有河水流入，其湖底沉积物主要来源是在地表砂粒粉尘通过风化作用和风力搬运沉入湖底[15]；而在冬季湖面结冰以后，周边的地表砂粒粉尘由经地面推移、跃移的方式搬运至冰面待来年冰体融化后沉入湖底[16]。湖泊周边无植被覆盖。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f59443e6f5454dc9cede7eb39af550d686491fac6a649eed71ce43022446170a.jpg",
+        "img_caption": [
+            "图1昂格尔图湖及AGE15A岩芯位置 Fig.1Map showing the location of Anggeertu Lake and AGE15A core in Tengger Desert "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2015年1月，在昂格尔图湖心 $( 3 8 ^ { \\circ } 2 4 ^ { \\prime } 5 . 8 9 ^ { \\prime \\prime } \\mathrm { N }$ $1 0 5 ^ { \\circ } 8 ^ { \\prime } 5 . 6 6 ^ { \\prime \\prime } \\mathrm { E }$ )水深 $1 . 7 \\mathrm { ~ m ~ }$ 处用重力采样器钻取了长为 $1 6 6 ~ \\mathrm { c m }$ 的平行湖泊沉积柱样（本研究中的样品标记为：AGE15A），沉积柱样贯穿湖底，底部为黄色风成砂。岩芯表层 $3 0 \\ \\mathrm { c m }$ 以褐色砂与粉砂为主，没有植物残体； $1 3 0 \\sim 1 6 0 \\ \\mathrm { c m }$ 以砂为主，有植物残体，且残体数量随着岩芯深度增加而逐渐增多，沉积物颜色由浅色逐渐变成黑色； $1 6 0 \\sim 1 6 6 ~ \\mathrm { c m }$ 以黄色风成砂沉积为主，没有植物残体。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AGE15A岩芯中的化学元素由荷兰生产的AvaatechXRF岩芯扫描仪上进行测试，实验方法与张晓楠[17]描述一致,从而获得I $\\mathrm { \\tilde { \\ t e } , C a , T i , M n , R b , S r }$ 等元素随岩芯深度的相对变化。粒度处理在MalvemMastersizer2000激光粒度仪上完成，严格按照实验室标准步骤进行[18],样品经过 $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ 溶液、HCl溶液前处理后，去掉了可溶性的化学沉积物、有机质和可溶性的碳酸盐，可以代表陆源沉积物的粒度大小。碳酸盐的百分含量采用烧失法[19 测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "此研究的以上实验全部在兰州大学西部环境教育部重点实验室进行。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1年代",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对AGE15A钻孔岩芯进行分样时，在整个钻孔的 $5 0 ~ \\mathrm { c m }$ 选取全有机样，在 $1 6 0 \\ \\mathrm { c m }$ 处选取全有机样和植物残体，冷冻干燥后送至美国Beta年代分析实验室进行AMS $^ { 1 4 } \\mathrm { C }$ 年代的测定，由 $1 6 0 \\ \\mathrm { c m }$ 层位的全有机样和植物残体的AMS $^ { 1 4 } \\mathrm { C }$ 年代结果得出碳库的年龄为 $3 2 0 \\mathrm { ~ a ~ }$ 。之后对AGE15A钻孔中2个全有机样（已经扣除碳库年龄的 $^ { 1 4 } \\mathrm { C }$ 年代)年代数据进行年代数据校正,AGE15A钻孔年代校正是基于CAL-IB7.0软件中的 $\\mathrm { I n t ~ C a l ~ 1 3 ~ ^ { 1 4 } C }$ 校正曲线数据库进行的[20]。扣除碳库年龄的各层位年代结果如下表所示(表1)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "通过对AGE15A钻孔两个深度（ $5 0 ~ \\mathrm { c m }$ 和160cm)全有机样品AMS $^ { 1 4 } \\mathrm { C }$ 测年结果进行校正，再扣除碳库年龄可知，湖深 $1 6 0 ~ \\mathrm { { \\ c m } }$ 处的年代约为1018",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/01235b1e16ee4c35889ad91b4e30edb238cdf412ed1a68ebc4d1cf40394e82d7.jpg",
+        "table_caption": [
+            "表1昂格尔图湖AGE15A钻孔岩芯AMS ${ } ^ { 1 4 } \\mathrm { C }$ 结果",
+            "Tab.1AMS $^ { 1 4 } \\mathrm { C }$ results of core AGE15A from Anggeertu Lake "
+        ],
+        "table_footnote": [
+            "注：RA校正 $^ { 1 4 } \\mathrm { C }$ 年代表示已经扣除碳库年龄（reservoir ages）的 $^ { 1 4 } \\mathrm { C }$ 年代"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">样品 编号</td><td rowspan=\"2\">深度 /cm</td><td rowspan=\"2\">813C /%0</td><td rowspan=\"2\">测年 材料</td><td rowspan=\"2\">AMS 14 C 年代／aBP</td><td rowspan=\"2\">RA 校正14C 年代／aBP</td><td colspan=\"2\">年代校正</td></tr><tr><td>中值(AD)</td><td>2σ(AD)</td></tr><tr><td>AGE15A—160</td><td>160</td><td>-26.8</td><td>植物残体</td><td>1 010 ±30</td><td>1</td><td>1</td><td>1</td></tr><tr><td>AGE15A—160</td><td>160</td><td>-27.3</td><td>全有机</td><td>1 330 ±30</td><td>1 010 ±30</td><td>1018</td><td>975~1149</td></tr><tr><td>AGE15A—50</td><td>50</td><td>-27.6</td><td>全有机</td><td>660 ±30</td><td>340 ±30</td><td>1560</td><td>1470~1639</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AD，湖深 $5 0 ~ \\mathrm { c m }$ 处的年代约为 $1 5 6 0 \\ \\mathrm { A D }$ 。计算出昂格尔图湖从1560AD至今的平均沉积速率为0.108$\\mathrm { c m } \\cdot \\mathrm { a } ^ { - 1 }$ ;从1018 AD 到1560 AD 的平均沉积速率为 $0 . 2 0 3 \\ \\mathrm { c m } \\cdot \\mathrm { a } ^ { - 1 }$ ,对于 $1 6 0 \\sim 1 6 6 ~ \\mathrm { c m }$ 的年代则由$5 0 \\sim 1 6 0 ~ \\mathrm { c m }$ 之间的沉积速率进行外推，得到钻孔底部 $1 6 6 ~ \\mathrm { c m }$ 处的年代约为 $9 8 8 ~ \\mathrm { A D }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2化学元素及烧失量",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AGE15A钻孔中各元素相对含量以及结合烧失法[2]得出碳酸盐百分含量随钻孔深度的变化曲线（图2），根据钻孔中碳酸盐的百分含量随深度的变化，把昂格尔图湖湖相沉积过程分为三个阶段：第I阶段( $1 6 6 \\sim 8 6 ~ \\mathrm { c m }$ ，下同)碳酸盐百分含量处于整个钻孔中最低值，变化幅度小,基本处在平稳的状态;第Ⅱ阶段( $8 6 \\sim 5 0 ~ \\mathrm { c m }$ ，下同)碳酸盐的百分含量呈现先增加后减少的趋势，最高值达到$8 . 1 6 \\%$ ;第Ⅲ阶段( $\\mathrm { 5 0 \\sim 0 ~ c m }$ ，下同)碳酸盐的百分含量随着钻孔深度的降低而呈现递增的趋势，最高值达到 $1 0 . 1 5 \\%$ 。由此可知，昂格尔图湖区的气候环境第 $\\mathbb { I }$ 阶段末到第Ⅲ阶段初，出现过一次降",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "温的过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在几种常见化学元素相对含量随钻孔深度变化的曲线中，第I阶段Fe、Ti、Mn、Rb的数值波动呈先上升后下降接着再上升的趋势，表明在此阶段气候由湿润转为干旱再转为湿润的过程，其中Fe、Ti在此期间的波动幅度大，历时久， $\\mathbf { M } \\mathbf { n }$ 的数值在此阶段出现全孔中的最低值，此时气候也最为干燥;Fe、Ti的数值在本段都达到了整个钻孔的最高值，而Ti、Mn的数值波动更为频繁，湿度可能达到湖泊历史的最高值。Sr和Ca两种元素的变化趋势与碳酸盐含量随深度的变化趋势一致，基本处于稳定或者波动范围极小的状态，可能是由于昂格尔图湖此时正处在湖泊发育的初级阶段，属于时令湖，其 $\\mathrm { R b / S r }$ 比值高，化学风化弱。第Ⅱ阶段， $\\mathrm { T i , F e , M n }$ 的数值呈逐步递减的趋势，气候逐渐变干，Rb的数值基本处于稳定，而 $\\mathrm { { S r , C a } }$ 的数值在第I阶段几乎没有变化的情况下，在第Ⅱ阶段极短时间内迅速上升，而后$\\mathrm { { S r , C a } }$ 的数值呈逐步递减的趋势，且波动范围和频率增大，昂格尔图湖在温暖的气候条件下继续发育，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mn(count × 103) Rb(count × 10) Ca(count × 105) Rb/Sr 01234 01234 01234 0.00.20.4 0.6 0 Em 7 mwW 上 F 0 \\~\\~ >\\~ W 儿 W 20 mwww 5 W 20 40 W Wwm wmwW MW M 40 Vwwm \\~>\\~\\~\\~W W 60 1 W 60   \nm/ 80 2 M m W 80 0/ W 3   \n深100 \\~\\~V m 100 120 w 3 120 140 140 160 之 M S W 160 [L Lu FL 0 04812 01234 0 4812 Fe(count ×104 Ti(count × 103 Sr(count × 104 碳酸盐/% ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "湖区面积增大，致使碳酸盐含量突增，Sr也随之沉淀，从而导致 $\\mathrm { R b / S r }$ 比值降低。第Ⅲ阶段，Fe、Ti的数值先在短时间内先上升后下降，气候回暖;Rb的数值在此阶段逐步递减， $ { \\mathrm { M n } } ,  { \\mathrm { S r } } ,  { \\mathrm { C a } }$ 的数值先在短时间内呈上升趋势，随后逐步递减， $\\mathbf { M } \\mathbf { n } , \\mathbf { C } \\mathbf { a }$ 数值在本段后期都达到了整个钻孔的最高值。此阶段开始，气候湿润,化学风化作用弱，随着时间推移，气候逐渐变的暖干，化学风化作用也逐渐变强，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 粒径",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "依据MalvemMastersizer2000 激光粒度仪测量出的各粒度的百分含量与深度之间的关系（图3），结果显示,粘土 $( < 4 ~ \\mu \\mathrm { m } )$ ）、细粉砂 $( 4 \\sim 1 6 ~ \\mu \\mathrm { m }$ ）、中粉砂( $1 6 \\sim 3 2 ~ \\mu \\mathrm { m } ,$ 的百分含量在第I阶段和第Ⅱ阶段基本保持不变，但在第Ⅲ阶段有明显的逐步递增趋势;粗粉砂 $( 3 2 \\sim 6 4 ~ \\mu \\mathrm { m } )$ 的百分含量在第I阶段波动很大；砂 $\\mathrm { ( ~ > 6 4 ~ \\mu m ) }$ 的百分含量从总趋势上来看逐步降低，但在第I阶段变化幅度较大，变化趋势与粗粉砂相反，砂的百分含量占到 $4 0 \\% \\sim 8 0 \\%$ ,甚至更高。粗粉砂的百分含量在第I阶段变化频繁，表明昂格尔图湖在成湖时期，属于时令湖或者是随着年际降水变化而变化的洼地。之后砂的含量呈逐步递减的趋势，粘土、粉砂的百分含量逐步增加，可初步判断在昂格尔图湖发育成小型湖泊之后，气候逐渐由干旱变得湿润，温度也逐渐降低。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1代用指标及其指代的气候环境意义",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "湖相沉积物的化学组分构成与湖泊内生沉积物以及湖泊流域输入的陆源碎屑物质有关。在未受到人为因素或者突发性地质事件的影响下，湖相沉积物的化学元素组成及其变化被认为受到了气候环境变化的控制。干旱、半干旱的气候环境下降水量的增加/减少、生物化学作用的相对增强/减弱、沉积作用的相对增强/减弱，会导致不同的化学元素在湖相沉积物中随着深度表现出不同的变化趋势。在气候干旱的条件下，湖区干旱少雨,相对于在碎屑矿物中的化学活性较弱组分 $\\left( \\mathrm { { A l } } _ { 2 } \\mathrm { { O } } _ { 3 } \\right. . \\mathrm { { T i O } } _ { 2 }$ ），活性较强的化学组分（如易溶于水的盐元素 $\\mathrm { C a } , \\mathrm { N a } )$ 更容易以胶体或离子状态的形式被地表水或者是地下水化学侵蚀的形式被搬运到湖区，在干旱、蒸发作用强烈的环境条件下，以被吸附或自生沉淀的方式富集沉淀于湖底[22]。相反,在湿润的气候条件下,湖区的降雨量较大，地表径流发育成熟，大量惰性化学组分以颗粒状态存在于径流当中，被雨水冲刷携带至湖区并以物理沉淀的方式沉淀至湖底，而此时湖泊处于发育扩张期，湖水淡化，化学活性组分以离子态存在于湖水中,难以形成沉淀[23-24]。由此可见,在干旱少雨的气候条件下，湖泊沉积物中活性化学组分含量",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d63477f567d1a2ad53837359b0a5e201b0410bc2ba58d072eb44be283c0913f.jpg",
+        "img_caption": [
+            "图3昂格尔图湖湖相沉积物中值粒径以及各组分的百分含量变化特征"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.3Median grain size and the percentage change of each component of the sediment from Anggeertu Lal相对较多，而惰性化学组分较少；反之，在湿润多雨的气候条件下，惰性化学组分增多，而活性化学组分相对减少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在湖相沉积物中，Fe，Mn大多是以不同价态的氧化物外壳的形式存在，其对氧化还原条件的变化较为敏感，在缺氧而富含有机质的淡水湖中要比咸水湖中的活性更强[24]。Fe, $\\mathbf { M } \\mathbf { n }$ 元素含量高,可以指示气候湿润，入湖地表径流多，湖泊处于扩张期；相反，若Fe, $\\mathbf { M } \\mathbf { n }$ 元素含量低，即指示着气候干燥，湖泊萎缩，湖水盐度上升。沉积物中的化学元素除了可以反映湖区的气候变化外，还可以反映化学风化作用强度。由于化学元素价态和形状的不同，在化学风化过程中常常会发生分馏，而Rb和Sr在化学风化过程中的分离导致了风化壳残留部分的Rb/Sr比值逐渐扩大，并与化学风化作用呈现出良好的负相关关系，而沉积物中Rb/Sr 比值大小基本由Sr的含量决定,低 Sr 含量对应高 Rb/Sr 比值[25]。化学风化对降水和温度变化非常敏感，在温暖、多雨的气候环境下利于化学风化，此时的化学风化作用随着降水量的减少而减弱;反之，在寒冷、少雨的气候环境下不利于化学风化，此时温度起主要作用,温度升高,化学风化作用增强[21,26-30]。在一般情况下,湖泊水体中的碳酸盐的溶解度会随着温度的降低而升高，因此，温度高时碳酸盐容易达到饱和状态而沉淀出来[19],即湖相沉积物中的碳酸盐百分含量越高,指示的沉积环境温度也就越高。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "研究表明，沉积物粒度的粗细与水动力强度有直接的关系，通常能较好地反映沉积物颗粒的来源和沉积环境[31]。在封闭湖泊中,沉积物粒度的粗细代表了湖泊的扩张与退缩，降水量越多，湖泊的水位越高[32-36],面积越大[37-38],气候越湿润[39],沉积物粒度越细;反之则反。而湖泊沉积物的中值粒径的大小可以反映风力大小，中值粒径越大，风力越强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 研究区的气候环境变化",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "腾格里沙漠昂格尔图湖位于中国西北西风区和东部季风区的交汇地带，气候环境复杂多变，既受到东部夏季风的影响，又受到西风影响。根据AGE15A钻孔中的主要元素含量、中值粒径大小、碳酸盐的百分含量与年代的关系变化作图（图4）比较，可以看出昂格尔图湖沉积第1阶段( $1 6 6 \\sim 8 6$ 号 $\\mathrm { \\Phi } _ { \\mathrm { m } , 9 8 8 } \\sim 1 3 8 3$ AD），此时昂格尔图湖属于时令湖，沉积物有风沙沉积和湖相沉积两种来源路径，导致沉积物中的各元素含量变化不一致。但从Ti、Fe的数值变化可以看出，湖区气候环境相对湿润，期间有两次干旱波动，而碳酸盐百分含量低，指示着湖区温度低，化学风化作用弱；沉积物的中值粒径变小，湖泊处于扩张期。第Ⅱ阶段 $: 8 6 \\sim 5 0 ~ \\mathrm { c m } , 1 3 8 3 \\sim 1 5 6 0$ AD）,湖区气候温暖、干旱，这与中国西部中世纪暖期的气候特征相似[40],但在时间上存在一定的滞后。相对于温度上升导致碳酸盐在湖中过饱和现象从而引起碳酸盐沉积而言，湖中 $\\mathrm { C O } _ { 2 }$ 浓度下降导致碳酸盐沉积更为明显。温度上升导致沉水植物和藻类等水生植物大量生长，通过生物呼吸作用增加水体中的 $\\mathrm { C O } _ { 2 }$ ，促使 $\\mathrm { C a C O } _ { 3 }$ 沉淀,而 Sr、Ca 的化学性质相似，都属于碱土金属元素，在湖水中伴随着 $\\mathrm { C a C O } _ { 3 }$ 的沉淀而发生沉淀[41];同时，温度上升导致湖水蒸发量大，也会形成大量的碳酸盐。在本阶段末期，温度开始下降，气候逐渐变得湿冷，使湖泊的蒸发作用减弱，盐度上升，碳酸盐的溶解性增强；另外降温使得湖区水生植物减少，这些都导致了碳酸盐含量在此阶段后期降低。第Ⅲ阶段 $\\mathrm { ~ ( 5 0 ~ \\sim 0 ~ \\ c m }$ ,1560 AD $\\sim$ 至今），湖区气候环境由寒冷向温暖转变。 $1 5 6 0 \\sim$ 1700AD是气候最为寒冷的时期，这与小冰期第二次冷期[42]出现的时间相同，此时湖区降水量增加。$1 7 0 0 \\sim 1 9 0 0$ AD,温度逐年上升，气候回暖，湖泊持续扩张，芦苇等水生植物和藻类等沉水植物又开始大量生长，消耗湖泊中的 $\\mathrm { C O } _ { 2 }$ ，致使PH上升，盐度下降，导致沉积物中碳酸盐的百分含量逐年递增。沉积物中碳酸盐的低峰值正与该地区其它纪录中[43]的相对明显的寒冷期相对应,为小冰期后一次冷波动。1900AD之后，由于湖区降水量增加，致使环境向湿润转变。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ba07741af990d6e1f0ec171e7e8da429495111233aca74d8f4d1cadf2d81e17d.jpg",
+        "img_caption": [
+            "图4昂格尔图湖湖泊沉积物中碳酸盐、粒径以及化学元素与年代的关系",
+            "Fig.4Relationship between carbonate,particle size,chemical elements and ages in the sediments of Anggeertu Lake "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用腾格里沙漠昂格尔图湖获得AGE15A 湖相沉积样，通过对沉积物的粒度、主要化学元素和碳酸盐的百分含量等气候代用指标及精确定年的综合分析，结果表明：988AD以来的研究区的气候环境的演化过程与我国西北西风区其它指示物记录的气候演化基本一致，呈现出“冷湿一暖干一冷湿一暖干\"交替变化，但在时间上出现延迟的特征。具体表现为：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第I阶段（ $9 8 8 \\sim 1 3 8 3 ~ \\mathrm { A D } )$ ：研究区气候环境为冷湿。昂格尔图湖此时属于时令湖，正处在湖泊扩张期，化学风化作用弱，期间出现两次暖波动。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第Ⅱ阶段( $1 3 8 3 \\sim 1 5 6 0$ AD)：研究区处于中世纪暖期，此时气候环境为温暖、干旱。湖面扩张，在相对温暖的气候条件下，水生植物生长茂盛，呼吸作用增强导致大量碳酸盐沉淀。在本阶段末期，气候趋向冷湿。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "第Ⅲ阶段（1560AD $\\sim$ 至今）：研究区在 $1 5 6 0 \\sim$ 1700AD是气候最为寒冷的时期，这与小冰期最盛期相对应。 $1 7 0 0 \\sim 1 9 0 0$ AD 温度逐年升高，湖泊继续扩张，气候由冷湿向暖干转变,期间出现过几次冷波动。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "值得提出的是，研究区在1900AD之后，各种气候代用指标的数值变化频繁，有可能是湖相沉积物受到湖底表层生物活动和湖水扰动所致，但整体气候环境由干旱向湿润转变，这表明20世纪以来，研究区的降水量逐年增加。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1］邬光剑,潘保田,管清玉,等.祁连山东段北麓近 $1 0 \\ \\mathrm { k a }$ 来的气候变化初步研究[J].中国沙漠，1998，18（3）：193-199.［WUGuangjian,PANBaotian,GUANQingyu,etal.Climatic changes inthe north piedmont of eastern Qilian Mountains since $1 0 \\ \\mathrm { k a }$ B.P.[J].Journal ofDesert Research,1998,18(3）:193-199.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]魏文寿,何清,刘明哲,等.准噶尔盆地的气候变化与荒漠环境研究［J].中国沙漠,2003,23（2）：101-105.［WEIWenshou,HE Qing,LIU Mingzhe,et al. Climate change and the desert envi-ronment in Junggar Basin,Xinjiang,China［J].Journal of DesertResearch,2003,23（2）:101-105.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[3］贾铁飞,银山,何雨,等.乌兰布和沙漠东海子湖全新世湖相沉积结构分析及其环境意义[J].中国沙漠，2003，23（2）：165-170.[JIA Tiefei,YIN Shan,HEYu,etal.Holocene sediment tex-ture and its environmental meaning of Donghaizi Lake in Ulan BuhDesert[J].Journal of Desert Research,2003,23（2）:165-170.][4]吕玉晓,李保生,靳鹤龄,等.萨拉乌苏河流域末次间冰期全球变化区域响应的主元素记录[J].中国沙漠，2004，24（2)：136-143.[LV Yuxiao,LI Baosheng,JIN Heling,et al. Major elementrecord in Salawusu River valley responding to global change duringLast Interglacial Period[J].Journal of Desert Research,2O04,24(2):136-143.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[5]钟巍,塔西甫拉提·特依甫,王立国,等.塔里木盆地南缘历史时期气候环境变化的过程与特征[J].中国沙漠，2004，24（3）：261-267.［ZHONGWei,TASHPOLAT,WANGLiguo，et al.Process and characteristics of historical climate and environmentchanges in southern margin of Tarim Basin[J].Journal of DesertResearch,2004,24(3）:261-267.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[6]张洪,靳鹤龄,苏志珠,等.全新世浑善达克沙地粒度旋回及其反映的气候变化[J].中国沙漠，2005，25（1）：1-7.［ZHANGHong,JINHeling,SU Zhizhu,et al.Climate changes revealed bygrain-size cycles of Holocene in Hunshandake Desert[J]. Journalof Desert Research,2005,25（1):1-7.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[7］李晋昌,高婧,苏志珠,等.毛乌素沙地西南缘灌丛沙丘沉积物的粒度和元素特征[J].中国沙漠，2015，35（1）：1-8.［LIJinchang,GAO Jin,SU Zhizhu,etal.The characteristics of grain sizeand chemical elements of the nebkha sediments in the southwesternmargin of the MuUs SandyLand[J].Journal ofDesert Research,2015,35(1) :1-8.]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[8］李森,孙武,李孝泽,等.浑善达克沙地全新世沉积特征与环境 演变[J].中国沙漠,1995,15(4）:323-331.[LISen,SUNWu, LI Xiaoze,et al. Sedimentary characteristics and environmental evolution of Otindag SandyLand in Holocene[J].Journal of Desert Research,1995,15(4）:323-331.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[9］李卓仑,张乃梦,王乃昂,等.晚冰期以来河西走廊花海古湖泊 演化过程及其对气候变化的响应[J].中国沙漠，2014，34（2）： 342-348.[LI Zhuolun,ZHANG Naimeng,WANG Nai'ang,et al. Lake evolution and its response to climate change during the late glacial:A record from the Huahai Lake in the Hexi Corridor of northwest China[J].Journal ofDesertResearch,2O14,34(2）:342 -348.] ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[10］李琼,潘保田，高红山,等.腾格里沙漠南缘末次冰盛期以来沙漠演化与气候变化[J].中国沙漠，2006，26(6）：875-879.［LIQiong,PAN Baotian,GAO Hongshan,et al.Desert evolution andclimate change of southern margin of Tengger Desert since LastGlacial Maximum[J].Journal of Desert Research,20O6,26（6）：875 -879.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[11］张虎才，马玉贞，彭金兰，等.距今 $4 2 \\sim 1 8 ~ \\mathrm { { k a } }$ 腾格里里沙漠古湖泊及古环境［J].科学通报，2002,47（24)：1847-1857.[ZHANGHucai,MA Yuzhen,PENG Jinlan,etal.Ancient lakesand paleoenvironment in the Tengger Desert in the 42\\~18 ka ago[J].Chinese Science Bulletin,2002,47(24）:1847-1857.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[12］张虎才，马玉贞，李吉均，等.腾格里沙漠南缘全新世古气候变化初步研究［J].科学通报，1998，43（12）：1252-1258.[ZHANG Hucai,MA Yuzhen,LI Jijun,etal.The southern marginof Tengger Desert Holocene ancient preliminary study on climatechange［J].Chinese Science Bulletin,1998,43（12）：1252-1258.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[13］隆浩，马海州，王乃昂，等.腾格里沙漠西北缘湖泊沉积物记录的全新世中期气候环境[J].海洋地质与第四纪环境，2007，27(3）:105-111.[LONGHao,MAHaizhou,WANG Naiang,et al.Mid-holocene climate variations from lake records of NW TenggerDesert[J].Marine Geology& Quaternary Geology,2OO7,27（3）：105 -111. ]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14］陈发虎,吴薇,朱艳,等.阿拉善高原中全新世干旱事件的湖泊记录研究[J].科学通报，2004，49（4）：1-9.［CHENFahu，WUWei,ZHUYan,etal.Thelakeof drought eventsrecorded in theresearch in Alxa Plateau Mid-holocene[J].Chinese Science Bulle-tin,2004,49(4):1 -9.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[15］张小电.亚洲粉尘的源区分布、释放、输送、沉降与黄土沉积[J].第四纪研究,2001,21（1）：29-40.［ZHANG Xiaoye.Source distributions,emission,transport,deposition of Asian dustand loess accumulation[J]. Quaternary Science,20o1,21（1）:29-40.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[16］肖舜，陈发虎，强明瑞，等.青海苏干湖表层沉积物粒度分布模式与大气粉尘记录[J].地理学报，2007，62（11）：1153-1164.[XIAO Shun,CHEN Fahu,QIANG Mingrui,et al.Distribution pat-tern of grain size in surface sediments from Sugan Lake and its potential inrecordingaeoliandust inarid ChinaJ」.Acta Geographi-ca Sinica,2007,62(11）:1153-1164.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[17］张晓楠，张灿，吴铎，等.基于XRF岩心扫描的中国西部湖泊沉 积物元素地球化学特征[J].海洋地质与第四纪地质，2015，35 (1):163-174.[ZHANG Xiaonan,ZHANU Can,WUDuo,et al. Element geochemistry of lake deposits measured by X-ray fluorescence core scanner in northwest China[J].Marine Geology & Quaternary Geology,2015,35（1）:163-174.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[18]PENGYJ,XIAO JL,NAKAMURA T,et al.Holocene East Asian monsoonal precipitation pattern revealed by grain-size distribution of core sediments of Daihai Lake in Inner Mongolia of north-central ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "China[J].Earth and Planetary Science Letters,20O5,233:467 - 479. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[19］刘子亭，余俊清，张保华，等.烧失量分析在湖泊沉积与环境变化研究中的应用［J].盐湖研究，2006，14（2）：67-72.［LIUZiting,YU Junqing,ZHANG Baohua,et al.Application of loss onignition to the study of lake sediments and environmental changes[J].Journal of Salt lake Research,2006,14(2）:67-72.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[20]REIMERPJ,BARDE,BAYLISSA,etal.IntCa113 and Marine13 radiocarbon age calibration curves O\\~ 5O,Ooo years cal BP[J].Radiocarbon,2013,55(4）：1869-1887.",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[21］陈诗越，王苏民，金章东，等.青藏高原中部湖泊沉积物中 $\\mathrm { Z r / }$ Rb值及其环境意义［J].海洋地质与第四纪地质，2003，23 (4）:35-38.[CHEN Shiyue,WANG Sumin,JIN Zhangdong,et al.Variation of $\\mathrm { Z r / R b }$ ratios in lacustrine sediments of the central Tibetan Plateau and its environment implications[J].Marine Geology&Quaternary Geology,2003,23（4）:35-38.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[22］陈敬安，万国江，陈振楼,等.洱海沉积物化学元素与古气候演 化[J].地球化学,1999,28（6）：562-570.[CHENJing'an, WANGuojiang,CHEN Zhenlou,et al.Chemical elements in sediments of Lake Erhai and palaeoclimate evolution[J].Geochimica, 1999,28(6) :562-570.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[23］雷国良，张虎才，朱芸,等.湖相沉积物酸溶与酸不溶组分常量元素的地球化学行为极其环境意义［J].山地学报，2013，31(2）：174-183.[LEIGuoliang,ZHANGHucai,ZHU Yun,et al.Geochemical behavior of acid soluble and insoluble fractions andtheir application to paleoenvironment reconstruction of lacustrinesediment[J].Journal of Mountain Science,2013,31（2）:174-183.]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[24］金章东.湖泊沉积物的矿物组成、成因、环境指标及研究进展 [J].地球科学与环境学报,2013,33（1）：34－44，77.[JIN Zhangdong. Composition,origin and environmental interpretation of minerals in lake sediments and recent progress［J].Journal of Earth Sciences andEnvironment,2013,33（1）:34-44,77.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[25］申洪源，贾玉连，李徐生，等.内蒙古黄旗海不同粒级湖泊沉积 物Rb、Sr组成与环境变化[J].地理学报，2006，61（11)：1208 -1217.[SHENHongyuan,JIA Yulian,LI Xusheng,et al.Environmental change inferred from distribution of Rb and Sr in different grain size fractions from lacustrine sediments in Huangqihai Lake,Inner Mongolia［J].Acta Geographica Sinica,2006,61 (11):1208-1217.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[26］曾艳，陈敬安，朱正杰，等.湖泊沉积物Rb/Sr比值在古气候/ 古环境研究中的应用与展望[J].地球科学进展,2011,26（8)： 805-81O.[ZENG Yan,CHEN Jing'an,ZHU Zhengjie,et al.Advance and porspective of Rb/Sr ratios in lake sediments as an index of paleoclimate/paleoenvironment[J].Advances in Earth Science,2011,26(8):805-810.] ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[27］金章东，张恩楼.湖泊沉积物Rb/Sr比值的古气候含义[J].科 学技术与工程,2002,2（3）:20-22.［JINZhangdong，ZHANG Enlou.Paleoelimate implication of Rb/Sr ratios from lake sediments[J].Science Technologyand Engineering,2002,2(3）:20- ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22.]   \n[28］成艾颖,余俊清，张丽莎,等.XRF岩芯扫描分析方法及其在湖 泊沉积研究中的应用［J].盐湖研究,2010,18（2）：7－13. [CHENG Aiying,YU Junqing,ZHANG Lisha,et al. XRF core scanning and applications on lake sediments[J].Journal of Salt lake Research,2010,18(2）:7-13.]   \n[29]BOYLE JF.Rapid elemental analysis of sediments amples by isotope source XRF[J].Journal of Paleolimnology,2000,23(2）:213 -221.   \n[30]DASCH E J. Strontium isotopes in weathering profiles,deep-sea sediments,and sedimentary rocks[J]. Geochim Cosmochim Acta, 1969,33:1521 -1552.   \n[31］郭景,李军,赵琦,等.内蒙古高原腾格淖尔中全新世湖泊干旱 环境的粒度和元素记录[J].海洋地质与第四纪地质,2012，32 (5）:115-122.[GUO Jing,LI Jun,ZHAO Qi,et al. The grain size and element record of the dry mid-holocene lake in the Tengger nuur,Inner Mongolia Plateau,China[J].Marine Geology & Quaternary Geology,2012,32(5）:115-122.]   \n[32］陈敬安,万国江.云南洱海沉积物粒度组成及其环境意义辨识 [J].矿物学报,1999,19（2）:175-182.［CHENJing'an,WAN Guojiang.Sediment particle size distribution an ditsenvironmental significance in LakeErhai,Yunnan Province[J].Acta Mineralogica Sinica,1999,19(2):175-182.]   \n[33］陈敬安,万国江，黄荣贵.云南程海沉积物粒度研究[J].环境 科学进展,1999b,7（4）:76-82.[CHEN Jing'an,WAN Guojiang,HUANG Ronggui. Study of sediment particle sizes in Lake Chenghai,Yunnan Province[J].Advances in Environmental Science,1999b,7(4):76-82.]   \n[34］李志明,吕金福,冷雪天,等.大布苏湖全新世沉积岩芯的粒度 特征与湖面波动[J].东北师大学报（自然科学版），2000,32 (2）:117-122.[LI Zhimin,LV Jinfu,LENG Xuetian,et al. The grain size characteristics and the fluctuation of lake surface of the core in Holocene in Dabusu Lake[J]. Journal of Northeast Normal University,2000,32(2) :117 -122.]   \n[35］王君波,朱立平.藏南沉错沉积物的粒度特征及其古环境意义 [J].地理科学进展,2002,21（5）：459－467.[WANG Junbo, ZHU Liping. Grain-size characteristics and their Paleo-environmental significance of Chen Co Lake sediments in southern Tibet[J]. Progress in Geography,2002,21(5）:459 -467.]   \n「36］类延斌.张成君.尚华明.等.青藏高原东北部希门错湖岩心粒 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "度特征及其环境意义［J].海洋地质与第四纪地质，2006，26",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（3）:31-39.[LEI Yanbin，ZHANG Chengjun,SHANG Huaming,et al.The grain size characteristics of Ximencuo Lake core in the northeast Tibet Plateau and its environmental significance[J]. Marine Geology & Quaternary Geology,2006,26(3）:31-39.]   \n[37]CHEN ATC,LOU JY,WANN JK. Preliminary paleoclimatological records from high mountain lakes in Taiwan[J].TAO,1993,4 (3):321-329.   \n[38］蒋庆丰,刘兴起,沈吉.乌伦古湖沉积物粒度特征及其古气候 环境意义［J].沉积学报,2006,24（6）：877－882.[JIANG Qingfeng,LIU Xingqi,SHEN Ji. Grain-size characteristics of Wulugu Lake sedmients and its palaeoclmiate and palaeoenvironment implication[J].Acta Sedimentologica Sinica,2006,24(6）:877 - 882.]   \n[39]CAMPBELL C.Late Holocene lake sedimentology and climate change in southern Alberta,Canada[J]. Quaternary Research, 1998,49;96 - 101.   \n[40］陈秀玲，李志忠，凌智永，等.新疆伊犁河谷晚全新世以来的风 砂沉积与环境演化[J].海洋地质与第四纪地质,2010,30(6)： 35-42.[CHEN Xiuling,LI Zhizhong,LING Zhiyong,et al. Holocene aeolian deposits and environmental evolution in Yili Valley, Xinjiang[J].Marine Geology & Quaternary Geology,2010,30 (6) :35 -42.]   \n[41］张成君,郑绵平,PROKOPENKO A,等.博斯腾湖碳酸盐和同位 素组成的全新世古环境演变高分辨率记录及与冰川活动的响 应[J]．地质学报,2007,18（12）：1658－1671.［ZHANG Chengjun,ZHENG Mianping,PROKOPENKO A,et al.The palaeoenvironmental variation from the high-resolution record of the Holocene sediment carbonate and isotopic composition in Bosten Lake and responding to glacial activity［J].Acta Geologica Sinica, 2007,18(12):1658 -1671.]   \n[42］李明启,靳鹤龄,张洪.小冰期气候的研究进展[J].中国沙漠, 2005,25(5）:731-737.[LI Mingqi,JIN Heling,ZHANG Hong. Advances of climate research in the Litle Ice Age[J].Journal of Desert Research,2005,25(5） :731-737.]   \n[43］金章东,王苏民,沈吉,等.小冰期弱化学风化的湖泊沉积记录 [J].中国科学（D辑）,2001,31（3）:221-225.[JIN Zhangdong,WANG Sumin,SHEN Ji,et al.The chemical weathering lakes sedimentary records in Little Ice Age[J]. Chinese Science ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bulletin,2001,31(3):221-225.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Climate change derived from Anggeertu Lake in the Tengger Desert since 988 AD ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CAO Zhi-hong， AN Cheng-bang， YIN Li-ying， DUAN Fu-tao， HAO Sheng-tun， ZHOU Ai-feng(KeyLaboratoryofWesternChina'sEnvironmentalSystems,Lanzhou University,Lanzhou73ooo,Gansu,hina)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Reconstruction of Chinese paleoclimatic changes based on ancient writen records basically seldom covered the desert regions.The studyon ancient climatechange based on records from lakes indeserts is a weak point and needs to be strengthened.Research on physicochemical properties of lacustrine sediment,such as the particle size,the chemical elements and the percentage composition of carbonate,isone of the most important methods of inverting the historyof local climate change.Inthis paper,the paleoclimatic/environmental changes of Tengger Desert,Inner Mongolia,China,since 988 AD are investigated by acquiring a $1 6 6 ~ \\mathrm { c m }$ long sediment core from the Anggeertu Lake in the desert.The physicochemical analyses mainly focus on the characteristics of grain size,X-ray Fluorescence （XRF） core scanning,losson-ignition,and precision dating.The results show that during $9 8 8 \\sim 1 3 8 3$ AD,the Anggeertu Lake was developed into small lakes from depressions and the chemical weathering in the lake was weak.The climate was overall cold and wet accompanied by several warm fluctuations.The period of $1 3 8 3 \\sim$ 1560 AD was in the Medieval Warm Period when the climate was warm and dry in the study area.The Anggeertu Lake was expanded with rapid growth of aquatic plants resulting in precipitation of massive carbonate,which accounted for $8 . 1 6 \\%$ of the lake sediment.With the arrival of Little Ice Age Maximum in China ( $1 5 6 0 \\sim 1 7 0 0 ~ \\mathrm { A D } )$ ， the coldest period cameafter the formation of the Anggeertu Lake.The precipitation was increasedand the climate went colder and weter.After 17OO AD,the particle size of lake sediment was getting finer year by year and Anggeertu Lake continued to expand.The temperature began to rise,reaching itspeak in 19OO AD along with several wet fluctuation during this period ( $1 7 0 0 \\sim 1 9 0 0$ AD).In addition,the percentage of carbonate reached $1 0 . 1 5 \\%$ . After the formation of the Anggertu Lake,the climate in the study area is characterizedby alternating“cold-wet”and “ warm-dry”.This kindof climatic evolution propertyof lacustrine sediment was consistent with what other indicators revealed in northwest westerly region of China.However,there exists a temporal hysteresis byusing physicochemical analyses.These preliminary results can provide important references to studythepaleoclimaticchanges of deserts in northwest China.At the same time,this paper has improved the unbalanced research work on arid and semi-arid area in China. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:lake sediment;characteristic of grain size； X-ray Fluorescence （XRF） core scanner analysis；cli-mate change；Tengger Desert",
+        "page_idx": 8
+    }
+]

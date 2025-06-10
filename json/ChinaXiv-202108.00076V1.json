@@ -1,0 +1,471 @@
+[
+    {
+        "type": "text",
+        "text": "秦岭森林植被物候及其对气象因子的响应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨琪¹²，李书恒¹²，李家豪¹²，王嘉川¹2（1.西北大学城市与环境学院,陕西 西安710127;2.陕西省地表系统与环境承载力重点实验室,陕西 西安710127)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：研究山地过渡带植被物候格局以及植被物候变化的驱动机制具有重要意义。基于2000—2018年MODISNDVI遥感数据,利用双Logistic曲线拟合法提取2000—2018年秦岭山地植被物候参数,结合气温和降水数据,运用趋势分析、相关分析、冗余分析等方法，研究秦岭山地不同物候期的时空变化特征和对气象因子的响应。结果表明：（1）秦岭山地物候始期集中于60\\~102d,物候末期主要集中在315\\~345d,生长季长度集中在225\\~255d,空间上看,具有明显的垂直地带分布特征,随海拔升高，物候始期、末期、生长期长度分别呈延迟、提前和缩短趋势。（2）从植被物候的年际变化来看，物候始期 $6 2 . 2 5 \\%$ 的区域呈现提前趋势， $5 3 . 4 2 \\%$ 的区域物候末期呈现推迟趋势，其中$5 9 . 1 8 \\%$ 的区域植被生长期长度延长，仅有 $5 . 1 2 \\%$ 位于中东部中高海拔区的部分区域显著延长。(3）植被物候始期大部分区域与2一5月平均气温和降水呈负相关关系，分别占总面积的 $5 0 . 2 9 \\%$ 和 $6 5 . 2 4 \\%$ ;物候末期与8一11月平均气温和月降水量主要呈正相关关系，分别占总区域的 $6 6 . 6 3 \\%$ 和 $5 9 . 7 7 \\%$ ;(4）冗余分析(Redundancy analysis,RDA)结果表明秦岭山地植被物候受当季和前期气象因子的共同影响,春季物候受物候发生期的影响大于上年冬季,物候末期前期的气温和降水对秋季物候的影响强度大于秋季,不同坡向物候变化对气象因子的响应程度有所差异。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：物候变化；气象因子；冗余分析；秦岭",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "植被物候是植物长期适应环境的季节性变化而形成的生长发育节律1，植物生长物候不仅能够反映季节变化，还对生态系统碳、水以及能量的循环具有决定性作用[2-3]。研究植被物候的变化规律及其对气象因子的响应程度，有助于理解和完善植被一气候关系。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于高时空分辨率遥感数据反演的NDVI、EVI等植被指数，国内外学者对全球不同尺度物候监测进行了研究，探讨了不同区域植被物候的变化及其对气象因子的响应。欧亚大陆北部1982—2004年遥感数据分析植被物候变化结果显示生长期开始日期平均提前了8d,结束日期则平均推迟了 $3 . 6 \\mathrm { ~ d } ^ { [ 4 ] }$ 在我国的东北[5]、西北[、青藏高原等地的植被物候也呈现出春季物候提前，秋季物候期推迟，生长季延长的现象，并且气温在物候变化中起主导作用；此外，降水也是影响植被物候变化不可缺少的重要气象因子，Xiao等8研究发现南美的热带雨林区遥感植被指数峰值出现在干旱季节后期至雨季前期；俎佳星等利用GIMMSAVHRR遥感数据分析我国东北地区物候对气候的响应，发现植被秋季物候变化主要受降水影响；以上的研究可以看出，植被物候变化存在区域性差异，同一地区时间范围、物候期提取所选方法和遥感数据源不同，植物物候表现也有所差异。因此，针对特定的研究区域，选择合适的时间序列和物候期提取方法，精确研究物候变化对气象因子的响应至关重要。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦岭一大巴山是我国南北过渡带的主体，是控制中国地理格局和空间变化的枢纽[10],秦岭作为我国重要的地理生物分界线[1],垂直地带性显著、自然地理跨度大、植被类型复杂多样，生态系统较为脆弱。同时随着全球气候变化，秦岭气温、降水[3等气象因子均产生了显著变化。随着气候变化秦岭山地的植被物候会产生怎样的变化？物候期趋势是否同其他地区一致？物候的变化与气象因子的关系如何？为了解决这些问题,本文利用双Logistic拟合，结合NDVI数据和地面气温、降水资料，提取了2000一2018年秦岭山地植被物候生长季始期、末期和生长期长度，分析秦岭山地植被物候变化趋势和规律，探讨物候时空变化及其对气象因子的响应程度，识别影响秦岭山地物候变化的主要范围时段，旨在为全球变化背景下山地生态系统的监测和保护提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区概况与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区为陕西境内的秦岭，即“陕西秦岭”，北临渭河，南面汉江,地理位置为 $1 0 5 ^ { \\circ } 3 0 ^ { \\prime } { \\sim } 1 1 0 ^ { \\circ } 0 5 ^ { \\prime } \\mathrm { E }$ $3 2 ^ { \\circ } 4 0 ^ { \\prime } { \\sim } 3 4 ^ { \\circ } 3 5 ^ { \\prime } \\mathrm { N }$ ，包含宝鸡、西安、商洛等七个地级市，海拔高度 $1 7 7 { \\sim } 3 7 4 6 \\ \\mathrm { m }$ （图1)。1959—2018年平均气温 $1 2 . 1 { \\sim } 1 4 . 4 \\mathrm { ~ \\textdegree C }$ ,年降水量 $4 9 5 { \\sim } 1 1 3 7 ~ \\mathrm { m m }$ 。秦岭是横亘于中国中部的东西走向的巨大山脉，特殊的地理位置和复杂的气候条件使得南北坡形成了差异明显的垂直带谱，拥有常绿阔叶林、针阔叶混交林、高山草甸等种类繁多的植被类型和褐土、棕壤、黄棕壤等多样化的土壤类型。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2数据来源与处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1NDVI数据 采用2000—2018年的MOD13Q1数据集，数据集来源于美国国家航空航天局NASA(https://www.nasa.gov/），时间分辨率16d,空间分辨率为 $2 5 0 ~ \\mathrm { m } { \\times } 2 5 0 ~ \\mathrm { m }$ 。首先使用MRT（MODISReprojectionTool,MRT)工具从MOD13Q1数据集提取第一波段NDVI,进行投影转换和图像拼接，其次采用MVC最大合成法消除残留的云、大气和太阳高度等，最后利用研究区边界对数据进行掩模提取，获得2000—2018年的月NDVI影像。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2气象数据气象数据为研究区内32个国家标准气象台站2000一2018年的气温、降水数据。数据来源于中国气象数据科学共享服务平台（wwwgeodata.cn)和陕西省气象局。以站点数据为基础，采用空间插值法将点状数据转换为面状气象数据，最后利用研究区边界进行掩模提取，得到秦岭山地气温、降水插值数据。其中，山地气温条件复杂，采用前人研究所得的秦岭气温垂直递减率结果进行空间插值,降水采用普通Kriging插值法，",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3其他数据DEM数据采用V2版本的AS-TERGDEM产品（空间分辨率为 $3 0 \\mathrm { m }$ ),来源于地理空间数据云（http://www.gscloud.cn）,对高程数据进行投影转换、重采样，最后掩模提取，得到空间分辨率 $2 5 0 \\mathrm { m }$ 的秦岭地形数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 植被物候遥感提取方法利用TIMESAT软件对植被物候期进行提取。首先，虽然MOD13Q1数据集经过最大值合成法(MVC)处理降低了云和大气的影响，但太阳高度角、观测角度、臭氧、气溶胶等一些随机性因素的存在仍使得曲线季节变化趋势不明显[14],因此,本文选用软件包中的双Logistic 拟合法(公式1)对2000—2018年NDVI影像进行拟合处理。其次，采用DL模型根据研究区提取2000一2018年的植被物候参数，即生长季始期（Start of the Growing Season,SOS）、生长季末期(Endof theGrowingSeason,EOS)和生长季长度(Lengthofthe Growing Season ,LOS)。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f16d433bb89d47539378e603a9e10219ffbf0c1d225499f1e67b767d647fd24.jpg",
+        "img_caption": [
+            "图1研究区示意图",
+            "Fig.1Sketch map of study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng { \\big ( } t ; \\alpha _ { 1 } , \\cdots , \\alpha _ { 4 } { \\big ) } = { \\frac { 1 } { 1 + \\exp \\left[ { \\frac { \\alpha _ { 1 } - t } { \\alpha _ { 2 } } } \\right] } } - { \\frac { 1 } { 1 + \\exp \\left[ { \\frac { \\alpha _ { 3 } - t } { \\alpha _ { 4 } } } \\right] } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathbf { \\chi } _ { t }$ 表示时间尺度； $\\alpha _ { 1 } { \\sim } \\alpha _ { 4 }$ 表示形状和位置参数； $\\alpha _ { 1 }$ 为生长季始期所处位置， $\\alpha _ { 2 }$ 为生长季始期变化率， $\\alpha _ { 3 }$ 为生长期末期所处位置， $\\alpha _ { 4 }$ 为生长期末期变化率。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2趋势分析采用一元线性回归分析法逐像元模拟2000一2018年生长季始期、末期、生长期长度的趋势斜率，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS l o p e = \\frac { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } ( i \\times P _ { i } ) - \\sum _ { i = 1 } ^ { n } i \\sum _ { i = 1 } ^ { n } P _ { i } } { n \\times \\displaystyle \\sum _ { i = 1 } ^ { n } i ^ { 2 } - \\left( \\sum _ { i = 1 } ^ { n } i \\right) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $n$ 为年数; $P _ { i }$ 为第 $i$ 年的生长参数；Slope为一元线性回归方程的斜率，Slope ${ > } 0$ 说明生长参数总体变化是推迟(延长)的，反之是提前(缩短)的。并对变化趋势进行显著 $T$ 检验",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.3相关性分析采用偏相关分析揭示气温和降水与植被物候变化之间的响应关系，公式如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { x y } = { \\frac { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\bar { x } } \\right) \\left( y _ { i } - { \\bar { y } } \\right) } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( x _ { i } - { \\bar { x } } \\right) ^ { 2 } { \\sqrt { \\displaystyle \\sum _ { i = 1 } ^ { n } \\left( y _ { i } - { \\bar { y } } \\right) ^ { 2 } } } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r _ { _ { x y } }$ 表示 $x$ 与 $y$ 之间的相关系数，表示两要素之间的相关程度， $r _ { _ { x y } } > 0$ ,表示正相关, $r _ { _ { x y } } < 0$ ,表示负相关； $\\bar { x } , \\ \\bar { y }$ 分别表示要素样本值的平均值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.4冗余分析冗余分析(Redundancy analysis,RDA)是多变量环境梯度分析[15],是响应变量矩阵与解释变量之间多元多重线性回归的拟合值矩阵分析，目前已广泛应用于生物、环境、土壤等研究领域[16-18]。本文选取秦岭山地物候开始和结束时间前8个月的气温和降水作为气象因子，采用冗余分析量化物候期参数与气象因子之间的关系。使用",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Canoco5软件进行冗余分析、蒙特卡罗检验（MonteCarloTest)和RDA排序图绘制，物种和环境变量图中，箭头所处的象限表示环境因子与排序轴间的正负相关性，箭头连线越长，表示某个环境因子与物种分布的相关程度越大，通过物种箭头垂直投影到环境变量箭头的线上来近似估算种类与环境变量之间的相关性，投影点沿箭头指示的方向越远，相关性越高，坐标原点附近的投影点表示相关性接近零，投影点位于反方向，表明为负相关。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1平均物候期空间分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从2000—2018年秦岭山地植被物候期(SOS、EOS、LOS)的空间分布可以看出(图2)，物候始期均值主要集中分布在第60\\~102d(3月至4月中旬），占研究区总面积的 $8 1 \\%$ ，物候始期呈现从南北两侧低海拔地区向中心高海拔区域推迟的规律，北坡的地势低平区，始期早于第60d，而在一些高海拔和山脊线附近的地区，始期则晚于第 $1 1 4 \\mathrm { d }$ ;由图2b可以看出，末期北坡平均发生于第 $3 0 4 \\mathrm { ~ d ~ }$ ,南坡平均发生于第325d,北坡较南坡平均早21d，其中汉中盆地和安康月河川道两地，物候末期较早，可能是由于两地地势低平，农业比较发达，受人类生产生活影响大，农作物生长期短于森林植被，成熟期较早；物候生长期长度，除南北两侧少部分低平区，基本呈现出从南北两侧至山脊线逐渐缩短的规律。总体来看，物候期分布格局与海拔高度和地形保持了较好的一致性，海拔越高，物候始期越晚，末期越早，生长期越短。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2变化趋势分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从秦岭山地物候期参数的年际变化趋势可知（图3）。物候始期 $6 2 . 2 5 \\%$ 的区域呈现提前趋势，$3 7 . 7 5 \\%$ 呈推迟趋势，但是提前和推迟的程度较小，其中显著提前的区域仅占 $2 . 1 2 \\% ( P { < } 0 . 0 5 )$ ，推迟趋势达到显著性( $\\scriptstyle P < 0 . 1 )$ 的区域仅占 $3 . 2 6 \\%$ ;显著推迟的区域主要分布在南北麓低海拔区和南部几个受人类影响较大的区域。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "物候末期主要呈现推迟的趋势（ $5 3 . 4 2 \\%$ )，其中， $T$ 检验结果表明，大部分区域呈不显著推迟和不显著提前趋势（ $8 3 . 3 7 \\%$ )，仅有 $7 . 6 2 \\%$ 的区域显著推迟 $( P { < } 0 . 0 5 )$ ),主要分布在秦岭北麓低海拔地区，显著",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bf00f491008952d5e8e5c1860702a81ea6a856908cfb3847b97618225163e40.jpg",
+        "img_caption": [
+            "图22000—2018年秦岭山地森林植被物候期多年均值空间分布",
+            "Fig.2Spatial distribution of multi-annual mean forest phenology in Qinling Mountains from 2000 to 201 ",
+            "图32000—2018年秦岭山地森林植被物候期年际变化空间分布及其显著性 Fig.3 Spatial distribution and significance of inter-annual changes in phenology of forest vegetation in Qinling Mountains from 2ooo to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "N20 106E (a)物候始期(SOS) 107°E 108E 109°E 华县华潼关 110E 111E 106E (b)物候始期(SOS) 107E 108E 109°E 华县 110E 华山潼关 111E 宝鸡 眉县周至 蓝田？ 宝鸡 眉县周至户 基长 蓝田 洛南 电 洛南 N00   \nN00 凤县 柞水 县丹凤商南 凤县 菲安 商县丹 商南   \n330 略阳 勉县 中 城固洋县 佛坪 宁陕 石泉 镇安 330 略阳勉县 汉中· 城固洋县 佛坪 宁陕 石泉 汉阴 旬阳 显著性 汉阴 旬阳 始期Slope/(d-a-1) 安康 极显著提前 不显著推迟 安康 紫阳 0 40km 提前 弱显著推迟 紫阳 0 40km -1\\~0 ■>2 L 不显著提前 ■极显著推迟 L L 107E 108E 109E 110E 111E 106E 107E 108°E 109°E 110E 111E (c)物候末期(EOS) 华县潼关 (d)物候末期(EOS) 华县 山 潼关 宝鸡 眉县 至 宝鸡 眉县 周至   \nN000 凤 商县 N0 凤具 柞水 坪反 留坝 柞水 南 留坝 佛坪 山阳 福 略阳 略阳 陕 勉县 勉县 城   \n330 330 显著性 信 旬阳 末期Slope/(d·a-1) 极显著提前■不显著推迟 0 40km 前 强显著推 0 40km -1\\~0>2 ■极显著推迟 L 1 1不显著提前   \n106E 107E 108°E 109E 110°E 111E 106E 107E 108°E 109°E 110E 111E (e)生长期(LOS) 1 T 华县华山潼关 (f)生长期(LOS) 华县华山潼关 1 宝鸡 眉县周至 户县长 蓝田？了 洛南 宝鸡 眉县周至广县 蓝 洛南   \nN000 凤县 太白 商县 N000 凤县 太白 女· 商县 中 镇安 丹凤 处 h05 作安 山阳丹风商南 N 留坝 佛坪 山阳 商南 留坝 佛坪 路阳勉县 城固洋县 宁陕 路阳勉县 城固洋县 宁陕   \n330 生长期opeda 石泉汉阴 安康阳 330 前不品著推明 安康 旬阳 ■<-2 0\\~1 紫阳 显著提前 ■弱显著推迟 紫阳 -2\\~-11\\~2 0 40km 弱显著提前 显著推迟 0 40km -1\\~0 2\\~3 不显著提前 极显著推迟 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "提前的区域仅有 $2 . 9 5 \\% ( P { < } 0 . 0 5 )$ ,主要分布于秦岭西侧。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "秦岭山地植被生长期 $5 9 . 1 8 \\%$ 的区域呈延长趋势， $4 0 . 8 2 \\%$ 的区域呈缩短趋势。其中，T检验结果显示，森林植被生长季长度的变化不显著， $5 0 . 1 5 \\%$ 和$3 7 . 4 6 \\%$ 的区域分别呈现不显著延长和缩短的趋势$( P { < } 0 . 0 5 )$ ,对于变化显著的区域而言， $1 . 5 6 \\%$ 显著缩短区域（ $_ { ( P < 0 . 0 5 ) }$ )主要分布在易受人类活动干扰的低海拔区， $5 . 1 2 \\%$ 显著延长域（ $( P { < } 0 . 0 5 )$ 主要集在中东部中高海拔区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3物候与气象因子相关性分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从物候始期与2一5月平均气温和降水的空间相关分析可以看出（图 $\\mathrm { 4 a }$ ，图4b)，秦岭山地植被物候始期大部分区域与同期气温和降水呈负相关关系，分别占总面积的 $5 0 . 2 9 \\%$ 和 $6 5 . 2 4 \\%$ ，从显著性水平来看，植被物候始期与气温显著的区域最多中 $( 1 2 . 4 3 \\%$ )，这表明气温降低、降水减少会使得植被生长季始期推后。空间上，2一5月平均气温对西部和北部大部分区域的物候始期具有负面影响，平均降水和物候始期在北侧低海拔区多为正相关关系，其余地区相关系数正负值分布均匀，这可能是因为西部地区海拔较高，而北部地区纬度偏北，2一5月气温回升速度较慢,使得物候始期时间晚于秦岭南",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "部地区。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "物候末期与8一11月平均气温和月降水量相关分析空间分布可以看出(图4c，图4d)，秦岭山地植被物候末期大部分区域与同期气温和降水呈正相关关系，分别占总面积的 $6 6 . 6 3 \\%$ 和 $5 9 . 7 7 \\%$ ,显著相关的面积分别为 $5 . 6 4 \\%$ 和 $8 . 2 7 \\%$ ,这表明温度升高，降水量增高使得秋季物候期推迟，空间上，表现为随气温升高而物候期推迟的区域主要位于高海拔地区，表明物候变化与地形起伏具有一致性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4冗余分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于气候变化和物候变化存在时间上的滞后性[9,且已有研究表明物候期不仅受当季的气温影响，同时前期气温与物候期具有显著相关关系[19]因此，本文选取物候始期和末期前8个月的气温、降水作为气象因子，应用冗余分析(RDA)量化秦岭山地南北两侧物候期参数与气象因子之间的关系。图5\\~图7中，向量越长表示气象因子越重要，气象向量与物候向量夹角的余弦值代表之间的相关系数。二者方向相同表明具有较强正相关关系，方向相反表明具有较强负相关关系，垂直表示不相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图5可以看出，所选的气象因子可以解释SOS和EOS的变化特征，不同气象因子前两轴累积解释的信息量都为1，表明排序轴反映了气象因子",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e2ac103f02ae7d3bbce55dd72442651f20a2d38c0d51c8235c1d8276ae68044.jpg",
+        "img_caption": [
+            "图4秦岭山地植被物候期对气温和降水响应的空间分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.4Spatialdistributionofresponseofvegetationphenologicalperiod totemperatureand precipitationin QinlingMountains与物候期的绝大部分信息。春季物候发生期2—5月的气温对物候始期的影响最强，与南坡和北坡物候始期均为负相关关系；2一5月的降水与北坡的物候始期呈正相关关系，与南坡物候始期相关性不显著；上年10月至当年1月对物候始期的影响最小。秋季物候发生前期4一7月降水对物候末期的影响最大，与南北坡物候末期均呈显著正相关关系；4—7月的气温对物候末期的发生影响次之;8一11月的气温与南北坡物候末期均呈正相关关系，8一11月降水与南坡物候末期呈正相关关系，与北坡物候末期基本不相关。综上所述，秦岭山地物候发生不仅受物候期气象因子的影响，物候发生期前期的气象因子影响同样重要；春季物候受物候发生期的影响大于上年冬季，而物候末期前期的气温和降水对秋季物候的影响强度大于秋季。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c88b5c525e369b3195930f3f9784987baf3f3388f17ec9f49ed1382364ae810.jpg",
+        "img_caption": [
+            "注：数字表示月份，T表示气温， $P$ 表示降水"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a30ce9895769f15d048f41e6137054f3fc2c6d08c61ab98985817b6bc4deb53c.jpg",
+        "img_caption": [
+            "图5秦岭植被物候期与气象因子的RDA排序图 Fig.5RDA ordination diagram of the vegetation phenology period and meteorological factors in Qinling Mountains "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e9dcb54c9c3511c64787d1887e0d285a7dba65d96c59ece75d95a5b4743ebfe0.jpg",
+        "img_caption": [
+            "注：数字表示月份，P为前一年数据，C为当年数据。图6秦岭物候始期与气象因子的RDA排序图Fig.6 RDA ordination diagram of the SOS andmeteorological factors in Qinling",
+            "图7秦岭物候末期与气象因子的RDA排序图 Fig.7 RDA ordination diagram of the EOS and meteorological factors in Qinling "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了识别影响植被物候的具体时段，针对气温和降水要素单独出图。由于每次分析仅选用一个物候参数，使得第一轴和第二轴相关系数为零，因此RDA排序图中仅可以通过象限判断物候期与气象因子的正负相关性，通过向量长短识别影响物候期最显著的月份。从图6和表1可以看出，秦岭北坡，物候始期与上年10一12月的平均气温相关性低，绝对值小于0.49，表明前一年气温因子对于SOS影响不大;物候始期主要受当年4月的气温控制，相关系数达到0.78；前一年12月的降水量与SOS呈显著正相关关系，表明物候始期的发生受上年冬季的降水量影响大于当年春季的降水。秦岭南坡，物候始期与当年3月、4月的气温呈显著负相关关系，表明气温越高南坡春季物候期起始时间越早;物候始期与上年11月的降水呈显著负相关关系，表明冬季降水越多不利于植物的生长发芽。由图6可以看出，秦岭北坡物候始期主要受当年4月气温和上年12月降水影响，而秦岭南坡主要受当年3一4月气温和上年11月降水影响，这可能与秦岭山地位于我国暖温带与亚热带分界线有关，南坡向阳，北坡背阴，二者所受太阳辐射不同，植被物候变化对气象因子的响应也有所差异。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图7和表2可以看出，秦岭北坡，物候末期与9月、10月气温呈较明显的负相关关系，相关系数在 $- 0 . 5 3 \\mathrm { \\sim } - 0 . 4 1$ ,与物候前期的4一6月的气温呈较明显的正相关关系，其余月份的影响较小;其中，4月降水与EOS呈显著正相关关系，表明前期的降水对秋季物候有显著影响。秦岭南坡，物候期与7月气温呈显著正相关关系，与10月呈显著负相关关系；南坡5月的降水对物候末期起显著的正面影响，相关系数达到0.80。秦岭山地南北两侧物候末期存在差异，北侧植被生长结束时间主要受当年9一10月气温,4月降水影响，而南坡主要受当年9一10月气温和5月降水影响。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/713167f3780ba2a65d7d2c8b2dc7ea82e40b93dfb51803a06b59e735e756432f.jpg",
+        "table_caption": [
+            "lab.1Correlationof two SOS'sRDAaxesandmeteorologicalfactorsofeachplotin Qinling Mountains from 2000 to201 "
+        ],
+        "table_footnote": [
+            "注：\\*表示通过0.05可信度检验的显著因子。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">月份</td><td colspan=\"2\">北坡气温</td><td colspan=\"2\">北坡降水</td><td colspan=\"2\">南坡气温</td><td colspan=\"2\">南坡降水</td></tr><tr><td>第1轴排序</td><td>第2轴排序</td><td>第1轴排序</td><td>第2轴排序</td><td>第1轴排序</td><td>第2轴排序</td><td>第1轴排序</td><td>第2轴排序</td></tr><tr><td>10</td><td>-0.30</td><td>0.00</td><td>-0.04</td><td>0.00</td><td>0.39</td><td>0.00</td><td>0.50</td><td>0.00</td></tr><tr><td>11</td><td>0.49</td><td>0.00</td><td>0.26</td><td>0.00</td><td>-0.14</td><td>0.00</td><td>-0.82°</td><td>0.00</td></tr><tr><td>12</td><td>0.29</td><td>0.00</td><td>0.69°</td><td>0.00</td><td>0.30</td><td>0.00</td><td>0.03</td><td>0.00</td></tr><tr><td>1</td><td>-0.01</td><td>0.00</td><td>-0.04</td><td>0.00</td><td>0.20</td><td>0.00</td><td>0.61</td><td>0.00</td></tr><tr><td>2</td><td>-0.14</td><td>0.00</td><td>-0.53</td><td>0.00</td><td>-0.03</td><td>0.00</td><td>0.05</td><td>0.00</td></tr><tr><td>3</td><td>-0.29</td><td>0.00</td><td>0.01</td><td>0.00</td><td>-0.71*</td><td>0.00</td><td>-0.19</td><td>0.00</td></tr><tr><td>4</td><td>0.78*</td><td>0.00</td><td>-0.56</td><td>0.00</td><td>-0.49*</td><td>0.00</td><td>0.34</td><td>0.00</td></tr><tr><td>5</td><td>0.15</td><td>0.00</td><td>-0.12</td><td>0.00</td><td>0.20</td><td>0.00</td><td>0.11</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/61b4631f5012a09e7af108bf297792db2769134c004abdaa332ad7660d134e24.jpg",
+        "table_caption": [
+            "表12000—2018年秦岭山地物候始期RDA排序前两轴与气象因子的相关系数",
+            "表22000—2018年秦岭山地物候末期RDA排序前两轴与气象因子的相关系数",
+            "Tab.2 Correlation of two $\\mathbf { E O S ^ { \\prime } s }$ RDA axes and meteorological factors of each plot in Qinling Mountains from 2ooo to 2018 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">月份</td><td colspan=\"2\">北坡气温</td><td colspan=\"2\">北坡降水</td><td colspan=\"2\">南坡气温</td><td colspan=\"2\">南坡降水</td></tr><tr><td>第1轴排序</td><td>第2轴排序</td><td>第1轴排序</td><td>第2轴排序</td><td>第1轴排序</td><td>第2轴排序</td><td>第1轴排序</td><td>第2轴排序</td></tr><tr><td>4</td><td>0.52</td><td>0.00</td><td>0.82°</td><td>0.00</td><td>0.13</td><td>0.00</td><td>0.03</td><td>0.00</td></tr><tr><td>5</td><td>0.47</td><td>0.00</td><td>0.20</td><td>0.00</td><td>0.16</td><td>0.00</td><td>0.80°</td><td>0.00</td></tr><tr><td>6</td><td>0.41</td><td>0.00</td><td>0.06</td><td>0.00</td><td>-0.01</td><td>0.00</td><td>-0.61</td><td>0.00</td></tr><tr><td>7</td><td>-0.29</td><td>0.00</td><td>-0.38</td><td>0.00</td><td>0.27*</td><td>0.00</td><td>0.15</td><td>0.00</td></tr><tr><td>8</td><td>-0.26</td><td>0.00</td><td>-0.20</td><td>0.00</td><td>0.15</td><td>0.00</td><td>0.23</td><td>0.00</td></tr><tr><td>9</td><td>-0.41</td><td>0.00</td><td>0.10</td><td>0.00</td><td>-0.27</td><td>0.00</td><td>-0.04</td><td>0.00</td></tr><tr><td>10</td><td>-0.53</td><td>0.00</td><td>-0.18</td><td>0.00</td><td>-0.64*</td><td>0.00</td><td>-0.27</td><td>0.00</td></tr><tr><td>11</td><td>0.03</td><td>0.00</td><td>0.46</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.40</td><td>0.00</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "地表植被是区域生态健康的鲜明指示因子，使用宏观遥感数据可以实现对森林植被的动态监测，反演山地生态系统植物物候的变化情况，分析其对气象因子的响应程度。通过分析，发现秦岭山地2000一2018年植被物候主要呈现物候始期提前，物候末期推迟，生长期延长的趋势，这与其他学者的研究相一致[20-24]",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究结果表明，秦岭山地植被物候期受气温和降水的共同作用，植被物候变化不仅受物候发生期当季的气象因子影响，同时物候前期的气象因子也会产生作用，并且秦岭山地南北两侧物候变化对气象因子的响应存在差异。物候始期秦岭北坡与当年2一5月的气温呈显著正相关关系，温度升高，太阳辐射增强，有效积温提前来到[25],从而使得春季物候期提前；秦岭南北两侧物候始期均受上年10月至当年1月降水的控制，呈负相关关系，这可能是因为秦岭山地地处内陆，冬季降水量少，降水以雪的形式出现，导致地表反射率增大，融雪消耗热量使得地表温度降低[26]，从而使得植被春季物候期推迟；秦岭南北两侧秋季物候与8—11月的气温和降水呈正相关关系，光照充足，有利于植物进行光合作用，而较多的降水会增加土壤水分含量，使得植被生长可利用水资源增加，从而延长植被生长季长度，使得物候结束期推迟",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "同时将研究区内西安站地面观测的物候数据同遥感提取的植被物候期进行了验证。通过收集西安物候观测站2000—2018年毛白杨、杜梨、七叶树和灯台树4种落叶乔木的展叶盛期和叶全变色期的物候数据,发现4种树木平均展叶盛期为第 $8 9 \\mathrm { d }$ 叶全变色期为第316d，与遥感提取的物候始期和物候末期集中天数基本相同，表明MODIS13Q1物候产品能够反映秦岭山地的森林物候特征，可用于秦岭山地的植被动态监测。由于遥感监测物候反映的是大尺度的整体植被物候变化期，而地面观测数据多为单个物种或单站点数据，遥感物候与野外实地观测的植物物候存在空间尺度扩展问题，但两者在物候的发生时间仍有很好的对应关系。因此，寻求一种合理的尺度转换方法进行遥感物候数据和地面物候观测数据的精度验证，是下一步研究的重点方向。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文利用DL模型，结合NDVI数据和地面气温、降水资料，提取了2000—2018年秦岭山地植被物候生长季始期、末期和生长期长度，分析秦岭山地植被物候变化趋势和规律，探讨物候时空变化及其对气象因子的响应，得出以下结论：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "（1）秦岭山地物候始期集中于第60\\~102d(3月至4月中旬)，呈现从南北两侧低海拔地区向中高海拔区域推迟的规律;生长季末期主要集中在第 $3 1 5 \\sim$ 345d,生长季长度集中在第225\\~255d，基本呈现出从南北两侧至山脊线逐渐缩短的规律。总体来看，物候期分布格局与海拔高度和地形保持了较好的一致性，海拔越高，物候始期越晚,末期越早,生长期越短。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(2）从植被物候的年际变化来看，物候始期$6 2 . 2 5 \\%$ 的区域呈现提前趋势， $5 3 . 4 2 \\%$ 的区域物候末期主要呈现推迟的趋势，其中 $5 9 . 1 8 \\%$ 的区域植被生长期长度延长，仅有 $5 . 1 2 \\%$ 位于中东部中高海拔区的部分区域显著延长。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(3）植被物候始期大部分区域与2—5月平均气温和降水呈负相关关系，分别占总面积的 $5 0 . 2 9 \\%$ 和 $6 5 . 2 4 \\%$ ;物候末期与8一11月平均气温和月降水量主要呈正相关关系，分别占总区域的 $6 6 . 6 3 \\%$ 和$5 9 . 7 7 \\%$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(4）冗余分析结果表明秦岭山地植被物候受当季和前期气象因子的共同影响，不同坡向物候变化对气象因子的响应程度有所差异，其中秦岭北坡物候始期主要受当年4月气温和上年12月降水影响，而秦岭南坡主要受当年3一4月气温和上年11月降水影响;北坡植被生长结束时间主要受当年9—10月气温和4月降水影响，而南坡主要受当年9—10月气温和5月降水影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References):",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]陆佩玲,于强,贺庆棠.植物物候对气候变化的响应[J].生态学 报,2006,26(3): 923-929.[Lu Peiling,Yu Qiang,He Qingtang. Responses of plant phenology to climatic change[J].Acta Ecologica Sinica,2006,26(3): 923-929.]   \n[2]Noormets A,Chen J,Gu L,et al. The phenology of gross ecosystem productivity and ecosystem respiration in temperate hardwood and conifer chronosequences[J].Phenology of Ecosystem Processes, 2009,59-85.D0I 10.1007/978-1-4419-0026-5_3.   \n[3]Richardson A D, Keenan TF, Migliavacca M,et al. Climate change，phenology,and phenological control of vegetation feedbacks to the climate system[J].Agricultural and Forest Meteorology,2013,169(3): 156-173.   \n[4]Delbart N,Toan TL, Kergoat L, et al. Remote sensing of spring phenology in boreal region: A free of snow-effect method using NOAA-AVHRR and SPOT-VGT data (1982-2004)[J]. Remote Sensing of Environment,2006,101(1): 52-62.   \n[5]胡召玲,戴慧,侯飞,等.中国东北城乡植被物候时空变化及其 对地表温度的响应[J].生态学报,2020,40(12):4137-4145.[Hu Zhaoling,Dai Hui,Hou Fei,etal.Spatio-temporal change of urban-rural vegetation phenologyand its response to land surface temperature in Northeast[J]. Acta Ecologica Sinica,2O20,40(12): 4137-4145.]   \n[6]杨光,宋戈,韦振锋,等.基于时序指数西北植被物候时空变化 特征[J].水土保持研究,2015,22(6):213-218.[Yang Guang, Song Ge, Wei Zhenfeng, etal. Characteristics of vegetation phenology in Northwest China based on sequential vegetation index[J]. Research of Soil and Water Conservation,2015,22(6): 213-218.]   \n[7]孔冬冬,张强,黄文琳,等.1982-2013年青藏高原植被物候变 化及气象因素影响[J].地理学报,2017,72(1):39-52.[Kong Dongdong, Zhang Qiang,Huang Wenlin, et al. Vegetation phenology change in Tibetan Plateau from 1982 to 2013 and its related meteorological factors[J]. Acta Geographica Sinica,2017,72(1): 39-52.]   \n[8]Xiao X, Hagen S, Zhang Q, et al. Detecting leaf phenology of seasonally moist tropical forests in South America with multi-temporal MODIS images[J]. Remote Sensing of Environment, 2006,103 (4): 465-473.   \n[9]俎佳星,杨健.东北地区植被物候时序变化[J].生态学报,2016, 36(7):2015-2023.[Zu Jiaxing,Yang Jian. Temporal variation of vegetation phenology in northeastern China[J].Acta Ecologica Sinica,2016,36(7): 2015-2023.]   \n[10] 张百平.中国南北过渡带研究的十大科学问题[J].地理科学进 展,2019,38(3):305-311.[Zhang Baiping.Ten major scientific is",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "sues concerning the study of China's north-south transitional zone ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[J].Progress in Geography,2019,38(3): 305-311.]   \n[11] 康慕谊,朱源.秦岭山地生态分界线的论证[J].生态学报,2007, 27(7): 2774-2784. [Kang Muyi, Zhu Yuan. Discussionand analysis on the geo-ecological boundary in Qinling range[J]. Acta Ecologica Sinica,2007,27(7): 2774-274.]   \n[12] 李双双,延军平,万佳.全球气候变化下秦岭南北气温变化特征 [J].地理科学,2012,32(7): 853-858.[Li Shuangshuang,Yan Junping,Wan Jia. The characteristics of temperature change in Qinling Mountains[J]. Scientia Geographica Sinica,2012,32(7): 853- 858.]   \n[13] 李英杰,延军平,刘永林.秦岭南北气候干湿变化与降水非均匀 性的关系[J].干旱区研究,2016,33(3):619-627.[Li Yingjie, Yan Junping, Liu Yonglin.Relationship between dryness wetness and precipitation heterogeneity in the North and South of the Qinling Mountains[J].Arid Zone Research,2016,33(3): 619-627.]   \n[14] Cong N,Piao SL, Chen AP,et al. Spring vegetation green-up date in China inferred from SPOT NDVI data: A multiple model analysis[J].Agricultural and Forest Meteorology,2012,165:104-113.   \n[15] 于健,徐倩倩,刘文慧,等.长白山东坡不同海拔长白落叶松径 向生长对气候变化的响应[J].植物生态学报,2016,40(1): 24- 35.[Yu Jian,Xu Qianqian,Liu Wenhui, et al. Response of radial growth to climate change for Larix olgensis along an altitudinal gradient on the eastern slope of Changbai Mountain[J]. Chinese Journal of Plant Ecology,2016,40(1): 24-35.]   \n[16] 侯朝伟,孙西艳,刘永亮,等.烟台近海浮游动物优势种空间生 态位研究[J].生态学报,2020,40(16):5822-5833.[Hou Chaowei,Sun Xiyan,Liu Yongliang,et al. Spatial niches of dominant Zooplankton species in the Yantai offshore waters[J].Acta Ecologica Sinica,2020,40(16): 5822-5833.]   \n[17]马源,杨洁,张德罡,等.高寒草甸退化对祁连山土壤微生物生 物量和氮矿化速率的影响[J].生态学报,2020,40(8):2680- 2690.[Ma Yuan, Yang Jie, Zhang Degang, et al. Effects of alpine meadow degradation on soil microbial biomass and nitrogen mineralization rate in the Qilian Mountains[J].Acta Ecologica Sinica, 2020,40(8): 2680-2690.]   \n[18]王小平,杨雪,杨楠,等.凋落物多样性及组成对凋落物分解及 土壤微生物群落的影响—二氧化碳倍增条件下[J].生态学 报,2020,40(17): 6171-6178.[Wang Xiaoping, Yang Xue,Yang Nan,et al.Effects of litter diversity and composition on litter decomposition characteristics and soil microbial community:Under the conditions of doubling ambient atmospheric $\\mathrm { C O } _ { 2 }$ concentration [J].Acta Ecologica Sinica,2020,40(17): 6171-6178.]   \n[19] 仲舒颖,葛全胜,郑景云,等.近30年北京自然历的主要物候 期、物候季节变化及归因[J].植物生态学报,2012,36(12): 1217-1225.[Zhong Shuying, Ge Quansheng, Zheng Jingyun, et al. Changes of main phenophases of natural calendar and phenological seasons in Beijing for the last 3O years[J]. Chinese Journal of Plant Ecology,2012,36(12): 1217-1225.]   \n[20] 邓晨晖,白红英,马新萍,等.2000-2017年秦岭山地植被物候 变化特征及其南北差异[J].生态学报,2021,41(3):1068-1080. [Deng Chenhui, Bai Hongying, Ma Xinping,et al. Variation characteristics and its north-south differences of the vegetation phenology by remote sensing monitoring in the Qinling Mountains during 2000-2017[J].Acta Ecologica Sinica,2021,41(3):1068-1080.]   \n[21] 夏浩铭,李爱农,赵伟,等.2001-2010年秦岭森林物候时空变 化遥感监测[J].地理科学进展,2015,34(10):1297-1305.[Xia Haoming,Li Ainong, Zhao Wei,etal. Spatiotemporal variations of forest phenology in the Qinling zone based on remote sensing monitoring 2001-2010[J]. Progress in Geography,2015,34(10):1297- 1305.]   \n[22] 郭少壮,白红英,黄晓月,等.秦岭太白红杉林遥感物候提取及 对气候变化的响应[J].生态学杂志,2019,38(4):1123-1132. [Guo Shaozhuang,Bai Hongying,Huang Xiaoyue,et al. Remote sensing phenology of Larix chinensis forest in response to climate change in Qinling Mountains[J].Chinese Journal of Ecology, 2019,38(4): 1123-1132.]   \n[23] 马新萍,白红英,贺映娜,等.基于NDVI的秦岭山地植被遥感 物候及其与气温的响应关系——以陕西境内为例[J].地理科 学,2015,35(12):1616-1621.[Ma Xinping,Bai Hongying,He Yingna, et al. The vegetation remote sensing phenology of Qinling Mountains based on NDVI and it's response to temperature: Taking within the territory of Shaanxi asan example[J]. Scientia Geographica Sinica,2015,35(12): 1616-1621.]   \n[24] 李登科,王钊.基于MCD12Q2的秦岭植被物候时空变化及对气 候的响应[J].生态环境学报,2020,29(1):11-22.[Li Dengke, Wang Zhao.Spatiotemporal variation of vegetation phenology and its response to climate in Qinling Mountains based on MCD12Q2 [J]. Ecology and Environmental sciences,2020,29(1): 11-22.]   \n[25]王连喜,陈怀亮,李琪,等.植物物候与气候研究进展[J].生态学 报,2010,30(2): 447-454.[Wang Lianxi,Chen Huailiang,Li Qi, et al.Research advances in plant phenology and climate[J].Acta Ecologica Sinica,2010,30(2): 447-454.]   \n[26] 顾润源,周伟灿,白美兰,等.气候变化对内蒙古草原典型植物 物候的影响[J].生态学报,2012,32(3):767-776.[Gu Runyuan, Zhou Weican,Bai Meilan,etal.Impacts of climate change on phenological phase of herb in the main grassland in Inner Mongolia [J].Acta Ecologica Sinica,2012,32(3): 767-776.] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Phenology of forest vegetation and its response to climate change in the Qinling Mountains ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "YANG Qi1²，LI Shuheng¹²，LI Jiahaol²，WANG Jiachuan',2 (1. Collge of Urbanand Environment Science,Northwest University,Xi'an 710127,Shaanxi,China; 2.Shanxi Key Laboratory of Earth Surface System and Environmental Carrying Capacity,Xi'an 71O127,Shaanxi, China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Abstract: It is important to investigate the vegetation phenology pattern and the driving mechanism of vegetation phenology change in a mountain transition zone.In this study,we used the double logistic curve fiting method to extractthe phenological parameters offorest vegetation in the Qinling Mountains on the basis of the moderate resolution imaging spectro radiometer and normalized diference vegetation index time-series images from 2000 to 2018.Combining temperature and precipitation data,we performed trend analysis,correlation analysis,and redundancy analysis to study the characteristics of time and space changes in different phenological periods and the response to climate elements in the Qinling area.The folowing results were obtained: (1)The start and end of the growing season ranged from 60 days to 102 days and from 315 days to 345 days,respectively.The length of the growth season ranged from 225 days to 255 days.From a spatial perspective, it has evident vertical zone distribution characteristics.With an increase in altitude,the start,end,and growth periodsof phenology were delayed,advanced,and shortened,respectively. (2)The beginning of phenology was advanced,whereas the end of phenology was postponed. The proportions of pixels in advance and delayed phenologies were $6 2 . 2 5 \\%$ and $5 3 . 4 2 \\%$ , respectively. The length of the growing season exhibited a lengthened trend of $5 9 . 1 8 \\%$ . Of the significantly extended area, $5 . 1 2 \\%$ area was mainly located in the middle and high altitude areas of the central and eastern regions. (3)The initial period of vegetation phenology was negatively correlated with the average temperature and precipitation from February to May, accounting for $5 0 . 2 9 \\%$ and $6 5 . 2 4 \\%$ of the total area, respectively. The end of phenology was positively correlated with the average temperature and precipitation from August to November,accounting for $6 6 . 6 3 \\%$ and $5 9 . 7 7 \\%$ of the total area, respectively. (4) Redundancy analysis results show that the vegetation phenology in the Qinling Mountains was affcted by both the current season and the earlier period of meteorological factors.The spring phenology was more affected in the phenology occurrence period than in the winter of previous year. Compared with autumn weather factors, temperature and precipitation in the early period of phenology exhibit a more significant relationship with the end of phenology.The phenological changes of different slopes exhibit different responses to meteorological factors. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords: phenological change； meteorological factors; redundancy analys; Qinling",
+        "page_idx": 9
+    }
+]

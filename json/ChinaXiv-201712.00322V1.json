@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "Decomposition characteristics of organic materials and their effects on labile and recalcitrant organic carbon fractions in a semi-arid soil under plastic mulch and drip irrigation ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HU Juan, WU Jinggui\\*, QU Xiaojing ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "College of Resource and Environmental Science,Jilin Agricultural University,Changchun 13Ol18,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Labile organic carbon (LC) and recalcitrant organic carbon (RC) are two major fractions of soil organic carbon (SOC) and play a critical role in organic carbon turnover and sequestration. The aims of this study were to evaluate the variations of LC and RC in a semi-arid soil (Inner Mongolia,China) under plastic mulch and drip irrigation after the application of organic materials (OMs),and to explore the effects of OMs from various sources on LC and RC by probing the decomposition characteristics of OMs using in-situ nylon mesh bags burying method. The field experiment included seven treatments,i.e., chicken manure (CM),sheep manure (SM),mushroom residue (MR), maize straw (MS),fodder grass (FG), tree leaves (TL) and no OMs as a control (CK).Soil LC and RC were separated by Huygens D's method (particle size-density),and the average soil mass recovery rate and carbon recovery rate were above $9 5 \\%$ 0 which indicated this method was suitable for carbon pools size analysis.The LC and RC contents significantly $( P { < } 0 . 0 1 )$ increased after the application of OMs. Moreover, LC and RC contents were $3 . 2 \\% - 8 . 6 \\%$ and $5 . 0 \\% - 9 . 4 \\%$ higher in 2016 than in 2015. The applications of CM and SM significantly increased $( P { < } 0 . 0 1 )$ LC content and LC/SOC ratio, whereas they were the lowest after the application of TL. However, SOC and RC contents were significantly higher $( P { < } 0 . 0 1 )$ after the applications of TL and MS. The correlation analysis indicated the decomposition rate of OMs was positively related with LC content and LC/SOC ratio. In addition, lignin, polyphenol, WOM (total water-soluble organic matter), WHA (water-soluble humic acid),HSL (humic-like substance) and HAL (humic acid-like) contents in initial OMs played important roles in SOC and RC. In-situ nylon mesh bags burying experiment indicated the decomposition rates of CM,SM and MS were significantly higher than those of MR,FG,and TL. Furthermore,MS could result in more lignin derivatives,WHA,and HAL polymers in shorter time during the decomposition process In conclusion,the application of MS in the semi-arid soil under a long-term plastic mulch and drip irrigation condition could not only improve soil fertility,but also enhance soil carbon sequestration. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: organic materials; abile organiccarbon; recalcitrant organiccarbon; decomposition characteristics; plastic mulch;drip irrigation; Inner Mongolia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Soil organic carbon (SOC) plays an important role in supplying plant nutrients,enhancing cation exchange capacity, improving soil aggregation and water retention,and supporting soil biological activity (Loveland and Webb, 2003;Lal, 2004; Sparling and Schipper, 2004; Haynes, 2005). At the same time, SOC is an index of sustainable land management (Nandwa, 2Oo1) and is critical in determining response to $\\mathbf { N }$ and $\\mathrm { ~ \\bf ~ P ~ }$ fertilization. Although labile organic carbon (LC） fraction accounts for a small part of total SOC,but it directly involves in soil biochemical processes and plays a vital role in soil health (Haubensak et al.,2OO2;McLauchlan and Hobbie,2O04; Cookson et al.,2005). Separation techniques of LC can be classified as physical, chemical,and biological methods. Especially, chemical method is more common used in previous studies.LC fractions included water-soluble organic carbon (WOC)，dissolved organic carbon (DOC)，microbial biomass carbon (MBC), particulate organic carbon (POC),and the permanganate oxidized carbon (POXC) have been identified by chemical method (Meng et al., 2013; Plaza-Bonilla et al., 2014). However, physical method does less damage to organic carbon structure than that of chemical method,and the separation of components can reflect the structure and function of undisturbed SOC (Zhang et al., 2O11). According to carbon cycle characteristics in Markov Chain Monte Carlo (MCMC) model (Muller et al.,2004), Huygens et al. (2007) have recently improved the soil separation method of Meijboom et al. (1995). They asserted SOC could be divided into LC and recalcitrant organic carbon (RC), which could be directly determined by this physical method. LC and RC are two important components of SOC,and their ratios to SOC (i.e.，LC/SOC and RC/SOC) could be used as indicators to describe SOC turnover and sequestration (Yu et al., 2015). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Management strategies to research the variation of SOC components have recently received much attention (Knoblauch et al.,2011; Du et al.,2013; Troy et al.,2013). One important strategy for sustainable agriculture production systems was the application of organic materials (OMs) into soils (Schmidt et al.,2011). Gougoulias et al. (2014) and Liu et al. (2016) have shown that the application of OMs contributed lots to LC content, which was mainly due to the OMs inputed into soil provide carbon source for soil microbial. Liang (2O12) and Chen et al. (2O15) also found that the application of OMs could significantly affect the contents of MBC, POC,and DOC. Moreover, Li et al. (2Ol6) indicated that soil DOC and MBC contents after the applications of straw, mushroom residue,and manure were significantly improved. A lot of studies have been conducted on the effects of the application of OMs on LC fractions using the chemical method; For example, Singh et al. (2OO9) found that the quality of OMs had an important influence on short-term soil carbon dynamic. The amounts of SOC and LC were closely related to the types and properties of exogenous OMs (Manna et al., 2Oo5). However, relatively few attmpts have been made on LC and RC fractions separated by Huygens D's method (2O07) and the relationship between chemical compositions of OMs and SOC fractions. Integrating the water saving of drip irrigation and evaporation reducing of plastic film mulch was more suitable for improving the water utilization efficiency,especially in semi-arid areas in western China.In recent years,the application areas of plastic mulch and drip irrigation in Inner Mongolia have been about $4 . 6 8 6 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 } .$ 、Jiang et al. (2014) and Yin et al.(2014) found that plastic film mulch could change the physical， chemical and biological properties of soils,as well as improve the decomposition of soil organic matter and the transformation and release of soil nutrients, thus increasing soil nutrient availability and soil fertility.Li et al. (2Oo7) found that the biomass and yield of corn increased after plastic film mulch,which resulted in the increase of corn residue returned into soil. Li et al. (2Oo9) also found that plastic film mulch promoted the decomposition of organic carbon and in turn decreased the light fraction organic carbon content of topsoil. In a word,lots of studies were carried out to research the efects of plastic mulch and drip irrigation on LC in different soils.However, little information is available in the efects of plastic mulch and drip irrigation on LC and RC. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this study was to evaluate the variations of LC and RC separated by Huygens D's method in a semi-arid soil under plastic mulch and drip irrigation after the application of six different origins of OMs, including natural organic materials (maize straw, fodder grass,and tree leaves),livestock manures (chicken manure and sheep manure),and half-decomposed organic materials (mushroom residue). In addition,in-situ nylon mesh bags burying experiment was conducted to explore the decomposition characteristics and variations in the chemical compositions of different OMs.We hypothesized that the application of OMs would increase SOC,LC,and RC contents, and affect the turnover and sequestration of SOC in a semi-arid soil under plastic mulch and drip irrigation condition. Moreover,the decomposition rate and chemical compositions of OMs would play important roles in SOC fractions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1Experimental site ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The experiment was conducted in Tumuji Town ( $4 6 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { N }$ ， $1 2 3 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E }$ ),which islocatedatJalaid Banner, Hinggan League, Inner Mongolia, China, and belongs to semi-arid areas. The annual average temperature is $4 . 0 ^ { \\circ } \\mathrm { C }$ ，the mean annual precipitation is $3 0 0 { - } 4 5 0 ~ \\mathrm { m m }$ ，and the frost-free period is approximate $1 5 0 \\mathrm { d }$ ，The average annual hours of sun exposure is $2 5 9 2 \\mathrm { ~ h ~ }$ ，and the total amount of solar radiation is $5 3 6 2 . 4 6 ~ \\mathrm { M J / ( m ^ { 2 } { \\cdot } a ) }$ . The effective accumulated temperature $\\geq 1 0 ^ { \\circ } \\mathrm { C }$ is about $2 7 0 0 ^ { \\circ } \\mathrm { C } - 3 3 0 0 ^ { \\circ } \\mathrm { C } .$ .The soil is classified as Chernozem, with a $\\mathrm { p H }$ of 8.2 and containing 19.8 $\\mathrm { g / k g }$ of organic matter, $6 . 5 5 ~ \\mathrm { m g / k g }$ of available phosphate, $5 1 . 3 6 ~ \\mathrm { m g / k g }$ of available potassium, and $8 4 . 8 2 \\mathrm { m g / k g }$ of available nitrogen. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design and soil sampling ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1Field experiment with the application of OMs ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The field experiment was conducted in May 2015 and 2016. The OMs used including chicken manure (CM), sheep manure (SM),mushroom residue (MR),maize straw (MS), fodder glass (FG), tree leaves (TL),and with no OMs as control (CK). CM and SM were collected from chicken-breeding farm and sheep-breeding farm,respectively. MR was the residue of edible fungus culture medium produced with corn as raw material. MS was maize straw, and TL was poplar leaves.FG was collected from Jalaid Banner pasture. The basic properties of initial OMs were shown in Table 1.The variety of maize used was XianYu 335.The area of each plot was 5 $\\mathrm { m } { \\times } 1 0 \\mathrm { ~ m ~ }$ . The field was randomly designed with three replicates for each treatment. The mechanized coated drip irrigation cultivation technique was used in planting process. OMs were fertilized to ridge artificially after ridging both in 2O15 and 2016.The height of the ridge was 10 cm.The inputted quantity of carbon was $7 7 1 9 \\mathrm { k g } \\mathrm { C } / \\mathrm { h m } ^ { 2 }$ and each organic material treatment was equivalent in 2015 and 2016. The application rates were $3 3 , 1 5 1 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ for CM, $2 7 , 7 0 8 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ （20 for SM, $2 2 , 9 5 3 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ for MR, $1 8 , 0 0 0 \\mathrm { k g / h m } ^ { 2 }$ for MS, $2 2 , 2 6 5 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ for FG, and $1 9 , 4 1 5 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ for TL.Each plot was fertilized with urea $( 2 1 0 \\mathrm { ~ k g ~ N / h m ^ { 2 } } )$ ，superphosphate $( 6 7 ~ \\mathrm { k g } ~ \\mathrm { P } / \\mathrm { h m } ^ { 2 } )$ and potassium chloride $( 8 7 ~ \\mathrm { k g } ~ \\mathrm { K / h m ^ { 2 } }$ ).Soil samples were collected from the junction of ridge and furrow in $0 { - } 2 0 ~ \\mathrm { c m }$ depth in October 2015 and 2016. Five samples of each plot followed “S\" method. Then the samples were air-dried and passed through a $2 \\mathrm { - m m }$ sieve after removal of crop residues and stones. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2Field experiment with in-situ nylon mesh bags burying ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The field experiment with in-situ nylon mesh bags burying was conducted at the same time and the field management was similar to the application of OMs. There were totally six treatments, i.e., CM, SM, MR,MS,FG,and TL. Every treatment consisted of three replicates,and each plot covered an area of $1 . 7 ~ \\mathrm { m } { \\times } 3 . 6 ~ \\mathrm { m }$ .The raw materials of MR,TL,CM,and SM were crushed into crumbs,while materials of MS and FG were cut into segments in about $2 { - } 3 \\ \\mathrm { c m }$ long. Each kind of OMs was weighed $2 0 \\ \\mathrm { g }$ and was placed into the 3OO mesh nylon bags in a size of $2 0 \\ \\mathrm { c m } { \\times } 1 5 \\ \\mathrm { c m }$ and then sealed. Totally, 24 parts of nylon mesh bags were buried in each plot. Nylon mesh bags were tiled with no overlaps directly below the drip irrigation belt at $2 0 \\mathrm { - c m }$ intervals in $1 0 \\mathrm { c m }$ deep soil. Three nylon mesh bags from each plot were randomly collected at 30,60,90,120,150,180, ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "360,and 54O days after burial, which were carried back to the laboratory and set aside after clearing up. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lignin and cellulose were measured by Van Soest acid detergent fiber (Van Soest, 1963). Organic C was measured by an exogenous thermal process with potassium dichromate (Walkley and Black,1934). Polyphenol was measured by ferrous tartrate (Turkmen et al.,2Oo6).Total N was determined by Kjeldahl method. The water-soluble organic matter and humic-like substance fractions were extracted according to the method of Wu et al. (2004). ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/47fdca75af40b011ae2474e16656308020d9abd95c5ac0267e70cc26218d3b95.jpg",
+        "table_caption": [
+            "Table 1Basic properties of the initial organic materials "
+        ],
+        "table_footnote": [
+            "Note:IM,intermediatequality.Data with thesame lowercase letter withinthesamerowdonotdifersignificantlyatthe $5 \\%$ level according to the least significant difference test.Mean±standard error. "
+        ],
+        "table_body": "<html><body><table><tr><td>Index</td><td>Chicken (cMre</td><td>Sheep m(sM)e</td><td>Mushroom reMid)e</td><td>Maize straw (MS)</td><td>Fodder grass (FG)</td><td>Tree leaves (TL)</td></tr><tr><td>Organic C (g/kg)</td><td>232.84±2.30</td><td>278.58±2.01d</td><td>336.29±3.34c</td><td>428.85±2.56a</td><td>346.68±4.18c</td><td>397.57±1.21b</td></tr><tr><td>Total N (g/kg)</td><td>15.19±0.61a</td><td>9.82±0.38bc</td><td>11.06±0.53b</td><td>6.13±0.72c</td><td>16.75±1.05a</td><td>8.72±0.68bc</td></tr><tr><td>C/N</td><td>15.33±0.82e</td><td>28.37±1.64c</td><td>30.42±1.33c</td><td>69.96±1.51a</td><td>20.70±0.97d</td><td>45.59±1.36b</td></tr><tr><td>Lignin (%)</td><td>2.29±0.33e</td><td>2.60±0.75e</td><td>6.90±0.42c</td><td>5.30±0.18d</td><td>8.49±0.83b</td><td>11.50±0.67a</td></tr><tr><td>Cellulose (%)</td><td>7.02±0.93e</td><td>20.53±1.24c</td><td>12.76±1.55d</td><td>37.81±2.17a</td><td>25.64±2.00b</td><td>13.47±0.64d</td></tr><tr><td>Hemicellulose (%)</td><td>4.16±0.22d</td><td>14.13±0.72b</td><td>4.35±0.21d</td><td>23.68±1.15a</td><td>16.25±1.07b</td><td>8.89±0.58c</td></tr><tr><td>Polyphenol (%)</td><td>0.69±0.05b</td><td>0.75±0.08b</td><td>0.72±0.09b</td><td>0.88±0.07b</td><td>0.81±0.04b</td><td>1.05±0.03a</td></tr><tr><td>Lignin/N</td><td>1.51±0.32d</td><td>2.65±0.19d</td><td>6.24±0.24cd</td><td>8.65±0.43b</td><td>5.07±0.41cd</td><td>13.19±0.92a</td></tr><tr><td>Quality class</td><td>IM</td><td>IM</td><td>IM</td><td>IM</td><td>IM</td><td>IM</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3Separation method of labile organic carbon (LC) and recalcitrant organic carbon (RC) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The extracted soil was subjected to LC and RC fractions using the Huygens D's method. Each sample was treated three times and the specific steps were listed as follows: $5 0 \\ \\mathrm { g }$ air-dried soil passing through a $2 \\mathrm { - m m }$ sieve was placed on the $0 . 2 5 \\mathrm { - m m }$ sieve,and then wet by deionized water. Put the set of sieves (O.25-, 0.15- and $0 . 0 5 \\mathrm { - m m }$ sieves） into the wet sieve barrel and added water to immerse the soil on the top of the $0 . 2 5 \\mathrm { - m m }$ sieve, then wet-sieve it with a sieving machine in $3 0 ~ \\mathrm { { m i n } }$ .Size fractions lying on sieves of $0 . 2 5 \\mathrm { - m m }$ and $0 . 1 5 \\mathrm { - m m }$ were washed into a bucket and swirled with injected deionized water. Upper turbid liquid was poured out and collected until the washing solution was clear to separate the macro organic matter $( > 0 . 1 5 \\ \\mathrm { m m \\ M O M } )$ and mineral fraction $( > 0 . 1 5 \\ \\mathrm { \\ m m \\ M F } )$ by decantation.Then，we collected the MOM,MF, $0 . 0 5 { - } 0 . 1 5 \\ \\mathrm { m m }$ fraction and $< 0 . 0 5 \\ \\mathrm { \\ m m }$ fraction (centrifuged with $3 0 0 0 ~ \\mathrm { r / m i n }$ in $5 \\ \\mathrm { m i n } ;$ ).Each fraction was oven-dried at $5 5 ^ { \\circ } \\mathrm { C }$ and weighed. Dried soils were grounded with planetary ball mill and normally stored for further carbon analysis. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LC was carbon content in terms of MOM in $1 ~ \\mathrm { k g }$ of original soil. RC was the sum of carbon content in terms of MF, $0 . 5 0 { \\ - } 0 . 1 5 \\ \\mathrm { m m }$ fraction and $< 0 . 0 5 \\ \\mathrm { m m }$ fraction in $1 ~ \\mathrm { k g }$ of original soil. Mass recovery referred to the percentage of the sum of different soil grades weight comprising total soil weight $\\left( 5 0 \\ \\mathrm { g } \\right)$ . In other words,carbon recovery meant the sum of carbon content in different soil grades which represented the carbon content in the total amount of soil. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Data and statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Decomposition percentage $( \\% ) { = }$ (mass of initial OMs-mass of residue OMs)/mass of initial $0 \\mathrm { M s } { \\times } 1 0 0 \\%$ (1 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cellulose decomposition percentage $( \\% ) =$ (content of initial OMs-content of residue OMs)/contentof initial $0 \\mathrm { M s } { \\times } 1 0 0 \\%$ (2) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Residual quantities of OMs in decomposition process were fitted by exponential equation: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $y$ (g)is residual quantity at time $t ; k$ is constant of decomposition rate calculated by the least-squares method, indicating the decomposing speed level; $\\textit { b } \\left( \\mathbf { g } \\right)$ is mass lost; and $a$ (g）is asymptote value of $y$ when $t$ is $\\propto$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "vhere $C _ { 0 }$ is $\\mathbf { C }$ content of initial OMs $( { \\bf g } / { \\bf k g } )$ · $M _ { 0 }$ is mass of initial OMs (g); $C _ { t }$ is $\\mathbf { C }$ content of OMs it time $t \\left( { \\bf g } / { \\bf k g } \\right)$ ; and $M _ { t }$ is mass of OMs at time $t \\left( \\mathbf { g } \\right)$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "C released quantities from OMs in decomposition process were fitted by the first-order kinetic equation: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nC _ { t } = C _ { 0 } \\times ( 1 - \\mathrm { e } ^ { - k _ { 0 } \\times t } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $k _ { 0 }$ is constant of carbon decomposition rate calculated by the least-squares method. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results were initially collected with Excel 201O (Microsoft,Redmond, WA,USA). All analyses were carried out with three replicates.The data were analyzed in the analysis of variance (ANOVA) procedure. Multiple comparisons were made under Duncan's new multiple ranges test (DMRT). Significant differences between treatments were determined at $9 5 \\%$ and $9 9 \\%$ levels of probability. Graphical material was prepared using Origin 2OO7 (Originlab, Northampton, USA). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1Soil organic carbon (SOC) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with CK, the SOC contents increased significantly $( P { < } 0 . 0 1 )$ after the application of OMs (Fig.1).Both in 2015 and 2016，SOC contents followed the descending order $\\mathrm { T L } { > } \\mathrm { M S } { > } \\mathrm { F G } { > } \\mathrm { M R } { > } \\mathrm { S M } { > } \\mathrm { C M }$ ，whereas SOC contents after the application of OMs in 2016 were $6 . 7 \\% - 1 2 . 6 \\%$ higher than those in 2O15. Compared with CK, SOC contents after the applications of TL and MS respectively increased $3 9 . 5 \\%$ and $3 6 . 2 \\%$ in 2016. SOC contents after the application of TL were $9 . 5 \\%$ ， $1 5 . 0 \\%$ ， $1 9 . 2 \\%$ ，and $2 0 . 7 \\%$ higher than those of FG, MR,SM and CM in 2016 $( P { < } 0 . 0 1 )$ . Meanwhile, SOC contents after the application of MS were $6 . 9 \\%$ ， $1 2 . 2 \\%$ ， $1 6 . 3 \\%$ ，and $1 7 . 8 \\%$ higher than those of FG, MR, SM and CM in 2016, respectively $( P { < } 0 . 0 1 )$ ： However, SOC content after the application of TL was $2 . 5 \\%$ higher than that of MS $( P { < } 0 . 0 5 )$ in 2016. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/760e5a6bf33b856d9f972e7ff8479e0d39f655a45f844f9dafbe896676240713.jpg",
+        "img_caption": [
+            "Fig.1Soil organic carbon (SOC) contents after the application of OMs (organic materials) in 2O15 and 2016. Theerror bars mean standard deviations.The different lowercase and capital letters above the bars mean the significances at $P { < } 0 . 0 5$ and ${ P { < } 0 . 0 1 }$ levels in the same year among different fertilization treatments.CK,control; MR,mushroom residue; CM,chicken manure; SM,sheep manure; TL,treeleaves; MS,maize straw; FG,fodder grass.Abbreviations are the same as follows. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2Labile organic carbon (LC) and recalcitrant organic carbon (RC) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The average mass recovery rate and carbon recovery rate were $9 5 . 5 3 \\%$ $( 9 4 . 5 1 \\% - 9 6 . 3 2 \\% )$ and $9 5 . 8 7 \\%$ $( 9 4 . 5 4 \\% - 9 6 . 2 5 \\% )$ ,respectively after separation.The separation method was simple and suitable for carbon pools size analysis, for the errors were controlled at a reasonable range. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Compared with CK, the LC and RC contents significantly increased $( P { < } 0 . 0 1 )$ after the application of OMs(Table 2).Moreover, LC and RC contents were $3 . 2 \\% - 8 . 6 \\%$ and $5 . 0 \\% - 9 . 4 \\%$ higher in 2016 than in 2O15,respectively. Compared with CK,LC contents in soil after the applications of CM and SM increased the most, and were $2 8 . 9 \\%$ and $3 0 . 7 \\%$ ,respectively in 2016. Furthermore,LC contents in soil after the applications of MS,MR and FG were $1 0 . 8 \\%$ ， $9 . 4 \\%$ and $8 . 5 \\%$ higher than that of TL $( P { < } 0 . 0 1 )$ in 2016, respectively. Compared with CK, RC contents after the applications of TL and MS,respectively increased $3 8 . 4 \\%$ and $3 3 . 0 \\%$ in 2016.RC contents after the application of TL were $1 1 . 7 \\%$ ， $1 7 . 0 \\%$ ， $2 1 . 8 \\%$ ，and $2 7 . 5 \\%$ higher than those of FG, MR, SM and CM in 2016, respectively $( P { < } 0 . 0 1 )$ . RC contents after the application of MS were $7 . 3 \\%$ $1 2 . 3 \\%$ ， $1 7 . 0 \\%$ ，and $2 2 . 4 \\%$ higher than those of FG,MR，SM and CM in 2016,respectively $( P { < } 0 . 0 1 )$ . RC content after the application of TL was $4 . 2 \\%$ higher than that of MS $( P { < } 0 . 0 1 )$ in 2016. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d4e494ae09046d020df8a21d6125a02bf29ca207d92547a5a937f77438a3581.jpg",
+        "table_caption": [
+            "Table 2LC and RC contents after the application of OMs in 2O15 and 2016 "
+        ],
+        "table_footnote": [
+            "Note:SOC,soilorganiccarbon;LC,labileorganiccarbon;RC,recalitrantorganiccarbon;OMs,organicmaterials.Thediferent lowercase and capital leters within the same row indicate the significances at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels in the same year among different fertilization treatments.Mean±standard error. "
+        ],
+        "table_body": "<html><body><table><tr><td>SOC component</td><td>Year</td><td>CK</td><td>MR</td><td>CM</td><td>SM</td><td>TL</td><td>MS</td><td>FG</td></tr><tr><td rowspan=\"2\">LC (g/kg)</td><td>2015</td><td>1.10±0.01eE</td><td>1.40±0.02cC</td><td>1.49±0.01aA</td><td>1.43±0.01bB1.31±0.01dD</td><td></td><td>1.40±0.02cC</td><td>1.34±0.01cC</td></tr><tr><td>2016</td><td>1.19±0.03dC</td><td>1.46±0.06bB</td><td>1.54±0.02abA</td><td>1.56±0.03aA</td><td>1.34±0.02cB</td><td>1.48±0.05bB</td><td>1.45±0.04bB</td></tr><tr><td rowspan=\"2\">RC (g/kg)</td><td>2015</td><td></td><td></td><td></td><td></td><td></td><td>11.32±0.09fE13.08±0.24dC11.53±0.10fE12.06±0.12cD14.68±0.06aA 14.26±0.11bB13.34±0.08C</td><td></td></tr><tr><td>2016</td><td></td><td>11.60±0.23&G13.73±0.15dD</td><td></td><td></td><td></td><td>12.59±0.11f 13.19±0.110E16.06±0.181aA 15.42±0.142bB14.37±0.269cC</td><td></td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Two-way ANOVA revealed that OMs treatments and years were both the main factors influencing SOC,LC,and RC contents (Table 3). The interactions between OMs treatments and years were significant for SOC and RC contents; however, it was not significant for LC content. ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/eea98d8993abc3af86f8f06d58599affe35b1b7d5577b8beb9b215d118397ef9.jpg",
+        "table_caption": [
+            "Table 3Significant efects of OMs treatments, years and their interactions on SOC,LC and RC contents "
+        ],
+        "table_footnote": [
+            "Note: \\*\\* indicates significance at $P { < } 0 . 0 1$ level; NS,not significant. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Main effect</td><td colspan=\"3\">SOC</td><td colspan=\"3\">LC</td><td colspan=\"3\">RC</td></tr><tr><td>Mean square</td><td>F value</td><td>Sig.</td><td> Mean square F value</td><td></td><td>Sig.</td><td>Mean square</td><td>F value</td><td>Sig.</td></tr><tr><td>OMs treatment (O)</td><td>14.58</td><td>316.42</td><td>**</td><td>0.094</td><td>115.71</td><td>**</td><td>12.30</td><td>511.94</td><td>**</td></tr><tr><td>Year (Y)</td><td>17.02</td><td>369.54</td><td>**</td><td>0.051</td><td>62.52</td><td>**</td><td>9.56</td><td>398.06</td><td>**</td></tr><tr><td>OxY</td><td>0.472</td><td>10.25</td><td>**</td><td>0.002</td><td>1.90</td><td>NS</td><td>0.206</td><td>8.57</td><td>**</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3Ratios of labile organic carbon and recalcitrant organic carbon to soil organic carbon (LC/SOC and RC/SOC) ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Allocation proportions of LC fractions were obviously different after the application of OMs (Fig. 2). Compared with CK,LC/SOC ratio after the applications of CM and SM significantly $( P { < } 0 . 0 1 )$ increased $3 1 . 7 \\%$ and $2 1 . 7 \\%$ in 2015,and significantly $( P { < } 0 . 0 1 )$ increased $1 1 . 5 \\%$ and $1 1 . 6 \\%$ in 2016, respectively. LC/SOC ratio significantly $( P { < } 0 . 0 1 )$ decreased after the application of TL in 2015,and significantly $( P { < } 0 . 0 1 )$ decreased after the applications of $\\mathrm { \\Delta T L }$ and MS in 2016.However, compared with CK,RC/SOC ratio after the applications of CM and SM reduced and had no significant differences in 2015 and 2016. Compared with six kinds of OMs,RC/SOC ratio after the application of TL was the highest, and followed by the MS. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4Pearson's correlation coefficient $( r )$ between chemical compositions of OMs and SOC fractions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A correlation analysis was conducted to explore the relationships between chemical compositions of OMs and SOC fractions (Table 4). As a result, the most important chemical compositions of SOC content were the lignin ( $\\scriptstyle \\cdot = 0 . 7 0 9$ ， $P { < } 0 . 0 1 \\rangle$ ，WOM( $\\scriptstyle \\cdot = 0 . 7 5 4$ ， $P { < } 0 . 0 1 \\rangle$ )，WHA( $_ { r = 0 . 6 5 2 }$ $P { < } 0 . 0 5 \\rangle$ ，HSL( $\\scriptstyle \\cdot = 0 . 6 8 5$ ， $P { < } 0 . 0 5$ )，polyphenol ( $_ { r = 0 . 6 5 5 }$ ， $P { < } 0 . 0 5 \\$ ,andHAL ( $_ { r = 0 . 6 1 9 }$ ， $P { < } 0 . 0 5 \\$ in ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e71905673ec055bde4266f027dac5633edbeed3e0f8a1af404d10f33fffd6d01.jpg",
+        "img_caption": [
+            "Fig.2Proportion of soil organic carbon components after the application of OMs in 2015 and 2016. CL,carbon loss quantities inseparation; LC,labile organiccarbon;RC,recalcitrant organiccarbon.The different lowercase and capital letters indicate significances at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels among different fertilization treatments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "OMs.LC content showed a negative relationship with C/N ratio ( $r = - 0 . 8 1 7$ ， ${ P \\mathrm { { < } } } 0 . 0 1 \\$ ）and WHA （ $( r = - 0 . 6 4 0$ ， $P { < } 0 . 0 1 \\rangle$ . RC content showed a positive relationship with lignin ( $\\scriptstyle \\cdot = 0 . 6 3 3$ ， $P { < } 0 . 0 5$ ）, polyphenol ( $\\scriptstyle \\cdot = 0 . 6 4 2$ ， $P { < } 0 . 0 5 )$ ,lignin/N ratio $_ { ( r = 0 . 6 2 7 }$ ， $P { < } 0 . 0 5$ ),WOM( $\\scriptstyle \\cdot = 0 . 7 3 3$ ， $P { < } 0 . 0 1$ ),WHA $_ { ( r = 0 . 7 5 0 }$ ， $\\scriptstyle P < 0 . 0 1 { \\dot { } }$ )，HSL( $\\scriptstyle \\cdot = 0 . 7 4 7$ ， $P { < } 0 . 0 1 \\rangle$ ）andHAL( $_ { r = 0 . 7 2 5 }$ ， $P { < } 0 . 0 1 \\rangle$ . The most important factor affecting the LC/SOC ratio was C/N ratio ( $\\stackrel { \\prime } { r } = - 0 . 7 1 8$ ， ${ P { < } 0 . 0 1 }$ ).Lignin ( $_ { r = 0 . 6 4 7 }$ ， $P { < } 0 . 0 5 \\rangle$ 1 and lignin/N ratio $\\scriptstyle \\cdot = 0 . 7 3 8$ ， $P { < } 0 . 0 1$ ）played important roles in RC/SOC ratio.In addition，a positive relationship was found between decomposition rates of OMs and LC content ( $_ { r = 0 . 5 0 7 }$ ， $P { < } 0 . 0 5 \\rangle$ ,andLC/SOC ratio ( $\\scriptstyle \\cdot = 0 . 7 3 4$ $P { < } 0 . 0 1 \\$ ） ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a90b21bec7be25af00350e7f90c51e35f03bd4e928a61f4dbd3c29791194c104.jpg",
+        "table_caption": [
+            "Table 4Pearson's correlation coefficient $( r )$ between chemical compositions of OMs and SOC fractions in 2016 "
+        ],
+        "table_footnote": [
+            "Note:LC/SOCratiooflabileorganiccarbontosoilorganiccarbon;RC/O,atioofrecalcitrantorganiccabontosoilorganiccarbo; WOM,total watersolubleoranicater;WOM,atersoubleliter-moleularganicater;WHA,atersoublumcid;H, humic-like substance；FAL,fulvic acid-like；HAL,humic acid-like. $r$ values were coefficients based on the results of Pearson's correlation analysis $\\scriptstyle ( n = 2 1 )$ ).\\*and \\*\\* indicate significances at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels,respectively.Decomposition rate of OMs was calculated by the contents of organic carbon dividing 540 days. "
+        ],
+        "table_body": "<html><body><table><tr><td>SOC fraction</td><td>SOC</td><td>LC</td><td>RC</td><td>LC/SOC</td><td>RC/SOC</td></tr><tr><td>Organic C</td><td>0.350</td><td>0.231</td><td>0.483</td><td>0.118</td><td>0.181</td></tr><tr><td>Total N</td><td>0.133</td><td>0.243</td><td>0.076</td><td>0.396</td><td>0.119</td></tr><tr><td>C/N</td><td>0.005</td><td>-0.817**</td><td>0.092</td><td>-0.718**</td><td>0.399</td></tr><tr><td>Cellulose</td><td>0.309</td><td>0.493</td><td>0.303</td><td>0.271</td><td>0.418</td></tr><tr><td>Hemicellulose</td><td>0.348</td><td>0.392</td><td>0.369</td><td>0.331</td><td>0.278</td></tr><tr><td>Lignin</td><td>0.709**</td><td>0.411</td><td>0.633*</td><td>0.456</td><td>0.647*</td></tr><tr><td>Polyphenol</td><td>0.655*</td><td>0.411</td><td>0.642*</td><td>0.318</td><td>0.408</td></tr><tr><td>Lignin/N</td><td>0.514</td><td>0.459</td><td>0.627*</td><td>0.504</td><td>0.738**</td></tr><tr><td>WOM</td><td>0.754**</td><td>-0.169</td><td>0.773**</td><td>0.266</td><td>-0.049</td></tr><tr><td>WLOM</td><td>0.286</td><td>0.182</td><td>0.292</td><td>0.260</td><td>0.320</td></tr><tr><td>WHA</td><td>0.652*</td><td>-0.640*</td><td>0.750**</td><td>0.099</td><td>-0.231</td></tr><tr><td>HSL</td><td>0.685*</td><td>-0.344</td><td>0.747**</td><td>0.036</td><td>-0.088</td></tr><tr><td>FAL</td><td>0.520</td><td>0.333</td><td>0.514</td><td>0.148</td><td>-0.220</td></tr><tr><td>HAL</td><td>0.619*</td><td>-0.240</td><td>0.725**</td><td>-0.100</td><td>0.086</td></tr><tr><td>Decomposition rate</td><td>0.218</td><td>0.507*</td><td>0.262</td><td>0.734**</td><td>-0.055</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5 Residual quantities and carbon released quantities of OMs in decomposition process ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The decomposition process of OMs could be divided into three stages, O-90 days for a “quick decomposition period\", 90-180 days for a “slow decomposition period\",and 180-540 days for a “stable decomposition period\" (Fig. 3). In 90 days, decomposition rate of OMs was over $70 \\%$ .In 540 days,residual quantities of CM, SM and MS decreased to 5.69, 6.11,and $6 . 5 3 \\ \\mathrm { g }$ from the initial $2 0 \\ \\mathrm { g }$ ，whereas those of MR,FG, and TL decreased to 8.05,8.84,and $1 0 . 3 2 \\ \\mathrm { g }$ ,respectively. Moreover, the decomposition rates of CM,SM,and MS $( 7 1 . 5 5 \\%$ ， $6 8 . 1 6 \\%$ ，and $6 8 . 2 1 \\% \\mathrm { , }$ ）were higher than those of MR,FG, and TL ( $5 8 . 6 4 \\%$ ， $5 5 . 2 8 \\%$ ,and $4 7 . 9 5 \\%$ ),respectively. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The trends of quantities of carbon released from OMs were first quickly increased and then tended to stable in decomposition process (Fig. 4). Quantity of carbon released from MS was higher than those of other OMs in each period. In 9O days,quantities of carbon released from OMs were over $65 \\%$ . In 540 days, quantities of carbon released from MS,TL,MR,FG, SM, and CM were 6.38, 4.85, 4.71, 4.64, 4.37, and $3 . 8 0 ~ \\mathrm { g }$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/df8693ca9edd8a2f70dfdce9b5bdb936dde737781e07016afede3381211386ed.jpg",
+        "img_caption": [
+            "Fig.3Dynamic changes of residual quantities of OMs in decomposition process under diffrent treatments. Error bars mean standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d2db182180c301cf0ddf7586d7ab38f1a3039550a06bf070c8e5f20395e5eed.jpg",
+        "img_caption": [
+            "Fig.4Dynamic changes of quantities of carbon released from OMs in decomposition process under different treatments.Error bars mean standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The changes of residual quantities of OMs in decomposition process could be fitted by the first-order kinetic equation $( { \\mathrm { y } } { = } a { + } b { \\times } \\mathrm { e } ^ { - k { \\times } t } )$ (Table 5),with a higher correlation $( R ^ { 2 } { > } 0 . 9 8 )$ ： $k$ values of CM, SM and MS were higher, and required 61, 63 and 69 days to decompose one half, respectively. However, $k$ values of MR,FG,and TL were lower than those of other OMs,and required 117,161 and even 59O days to decompose one half,respectively. The changes of quantities of carbon released from OMs in decomposition process could be fited by the first-order kinetic equation $C _ { t } = C _ { 0 } \\times ( 1 - \\mathrm { e } ^ { - k _ { 0 } \\times t } )$ ，with a higher correlation $( R ^ { 2 } { > } 0 . 9 8 )$ ： $C _ { 0 }$ value of MS was the highest (6.11),and folowed by TL (4.75), whereas those of CM and SM were lower (3.66 and 4.18,respectively). $k _ { 0 }$ value of SM was the highest (O.02O3)，and followed by MS (0.0194) and CM (O.0189),whereas that of TL was the lowest (O.0117). ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/62453ee727bd33578103d4b89172e4f249a193a0c193c0aff1f6e4da3a9fbcdd.jpg",
+        "table_caption": [
+            "Table 5Fitted equation of residual quantities and carbon released quantities of OMs and decomposition days "
+        ],
+        "table_footnote": [
+            "Note: $\\overline { { R ^ { 2 } } }$ is determination coefficient; $y$ is residual quantity at time t; k is constant of decomposition rate calculated by the least-squares method,indicating the decomposing speed level; $b$ is mass lost; $a$ is asymptote value of $y$ when $t$ is $\\propto$ ： $C _ { t }$ is quantities of carbon released from organic material at time $t$ $C _ { 0 }$ is carbon mineralization potentials; $k _ { 0 }$ is constant of carbon decomposition rate calculated by the least-squares method. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Treatment</td><td colspan=\"4\">y=a+bxe-kxt</td><td colspan=\"3\">C=Cx(1-e-koxt)</td></tr><tr><td>a</td><td>b</td><td>k</td><td>R²</td><td>Co</td><td>k</td><td>R²</td></tr><tr><td>MR</td><td>8.40</td><td>11.34</td><td>0.0162</td><td>0.9919</td><td>4.52</td><td>0.0160</td><td>0.9914</td></tr><tr><td>CM</td><td>6.12</td><td>13.67</td><td>0.0206</td><td>0.9945</td><td>3.66</td><td>0.0189</td><td>0.9950</td></tr><tr><td>SM</td><td>6.67</td><td>13.06</td><td>0.0218</td><td>0.9879</td><td>4.18</td><td>0.0203</td><td>0.9899</td></tr><tr><td>TL</td><td>10.64</td><td>9.56</td><td>0.0127</td><td>0.9916</td><td>4.75</td><td>0.0117</td><td>0.9923</td></tr><tr><td>MS</td><td>7.06</td><td>12.81</td><td>0.0209</td><td>0.9897</td><td>6.11</td><td>0.0194</td><td>0.9922</td></tr><tr><td>FG</td><td>9.16</td><td>10.62</td><td>0.0151</td><td>0.9912</td><td>4.51</td><td>0.0146</td><td>0.9950</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6Residual quantities of cellulose and lignin of OMs in decomposition process ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The trends of residual quantities of cellulose contents were quickly declined and then tended to stable in decomposition process，which were almost the same with the trends of residual quantities of OMs (Fig. 5). Cellulose contents of FG and TL quickly decomposed in O-60 days, whereas those of MS,MR, CM,and SM quickly decomposed in O-90 days.In 540 days,cellulose decomposition percentages of OMs followed the descending order $\\mathrm { M S } \\mathrm { > C M } \\mathrm { > F G } \\mathrm { > M R } \\mathrm { > T L } { \\mathrm { > S M } } .$ and reached to $6 4 . 8 7 \\%$ ， $6 2 . 6 7 \\%$ ， $6 2 . 4 4 \\%$ ， $5 5 . 9 3 \\%$ ， $5 1 . 3 6 \\%$ and $5 0 . 1 4 \\%$ ,respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Residual quantities of lignin contents of OMs increased in the early decomposition.Lignin contents of MS,CM,and SM increased mainly in O-6O days,whereas those of TL,FG,and MR mainly increased in O-90 days. Compared with lignin contents of initial OMs,in 540 days,lignin contents of TL,MS,MR,FG,SM and CM increased $2 6 . 7 7 \\%$ ， $2 1 . 3 6 \\%$ ， $1 9 . 1 4 \\%$ ， $1 6 . 0 9 \\%$ ， $1 1 . 8 4 \\%$ and $1 0 . 6 8 \\%$ ,respectively. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7c52035c3b432fec55e9f004a2455a9061ae55b2fe5ea9c856f4a9a1d6cd7ff.jpg",
+        "img_caption": [
+            "Fig.5Dynamic changes of residual quantities of celulose (a)and lignin (b)contents of OMs in decomposition process "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.7 Water-soluble organic matter of OMs in decomposition process ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dynamic changes of water-soluble organic mater (WLOM) of OMs in decomposition process were presented in Table 6. WLOM contents of OMs basically declined in decomposition process, and only MS and TL increased in 90 days.WOM and WHA contents of OMs showed rising trends in 90 days,and WOM contents of MS,FG and MR significantly increased and sustained a longer time, whereas those of CM, SM and TL slightly increased and sustained a shorter time, in addition, WHA contents of MS increased the most compared with those of other OMs. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.8Humic-like substance of OMs in decomposition process ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dynamic changes of humic-like substance of OMs in decomposition process were shown in Table 7. There were rising trends of HSL and HAL contents in decomposition process. HSL and HAL contents of MS increased in 6O days,and reached the maximum values in 9O days.Moreover, HSL and HAL contents of MS were obviously higher than those of other OMs in each period. HSL and ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/483ccee6819f8491a0ce83a7fe3e5c688f8e7070930416f29c97e72fb7a82e02.jpg",
+        "table_caption": [
+            "HAL contents of CM, SM, MR,TL,and FG increased in 9O days,and those of TL,MR and FG had a large increase. "
+        ],
+        "table_footnote": [
+            "Note:WOM,Total water-solublerganicmater;WLOM,water-soubleliter-molecularorganicmater;WHA,water-solublehumic acid.Mean±standard error. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">OMs</td><td rowspan=\"2\">Components</td><td colspan=\"9\">Decomposition days (d)</td></tr><tr><td>0</td><td>30</td><td>60</td><td>90</td><td>120</td><td>150</td><td>180</td><td>360</td><td>540</td></tr><tr><td rowspan=\"3\">MR</td><td>WOM</td><td>12.82±1.2</td><td></td><td>8.98±0.18 5.20±0.58 7.11±0.51 6.58±0.62 4.44±0.26 3.68±0.56 3.43±0.16 2.11±0.05</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WLOM</td><td>7.33±0.52</td><td></td><td>4.16±0.06 3.14±0.09 2.76±0.13 2.51±0.12 1.94±0.081.68±0.21 1.49±0.08 1.02±0.03</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WHA</td><td>5.49±0.26</td><td></td><td>4.82±0.17 2.06±0.10 4.35±0.18 4.07±0.21 2.51±0.26 2.00±0.16 1.93±0.11 1.09±0.08</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">CM</td><td>WOM</td><td></td><td></td><td>15.55±2.27 7.27±0.81 5.49±0.34 6.93±0.54 5.08±0.15 3.43±0.04 3.21±0.13 3.05±0.24 2.03±0.10</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WLOM</td><td>6.47±0.43</td><td>4.82±0.233.93±0.163.17±0.19 2.92±0.06 2.34±0.15 2.20±0.17 2.11±0.181.64±0.05</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WHA</td><td></td><td></td><td>9.07±1.242.45±0.03 1.56±0.073.76±0.27 2.16±0.07 1.09±0.09 1.01±0.08 0.94±0.06 0.39±0.03</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">SM</td><td>WOM</td><td></td><td></td><td>13.71±1.306.23±0.87 5.20±0.44 5.46±0.55 4.19±0.38 3.83±0.21 2.83±0.19 2.56±0.26 2.48±0.14</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WLOM</td><td>5.20±0.71</td><td>4.57±0.34 3.81±0.24 3.30±0.13 3.17±0.13 2.86±0.17 2.04±0.14 1.95±0.131.83±0.17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WHA</td><td>8.50±0.47</td><td>1.66±0.08 1.40±0.07 2.16±0.081.02±0.040.97±0.05 0.79±0.06 0.61±0.08 0.65±0.02</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">TL</td><td>WOM</td><td></td><td></td><td>11.04±1.26 9.01±0.96 6.60±0.78 7.11±1.17 5.71±0.43 4.57±0.23 4.32±0.37 4.09±0.42 3.28±0.13</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WLOM</td><td>4.91±0.25</td><td>3.08±0.09 2.57±0.07 2.45±0.04 2.38±0.06 1.70±0.041.64±0.26 1.57±0.06 1.42±0.06</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WHA</td><td>6.13±0.53</td><td>5.93±0.37 4.03±0.26 4.66±0.54 3.33±0.45 2.87±0.28 2.68±0.22 2.52±0.081.86±0.17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">MS</td><td>WOM</td><td></td><td></td><td>17.01±2.297.87±0.66 4.70±0.25 7.11±0.28 6.22±0.81 4.06±0.15 3.93±0.19 3.51±0.15 2.26±0.05</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WLOM</td><td></td><td>6.57±0.553.33±0.27 2.19±0.19 2.25±0.171.87±0.171.74±0.16 1.62±0.071.30±0.17 1.20±0.09</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WHA</td><td></td><td>10.44±2.22 4.54±0.25 2.51±0.15 4.86±0.35 4.35±0.26 2.32±0.14 2.31±0.18 2.21±0.111.06±0.08</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">FG</td><td>WOM</td><td></td><td></td><td>15.86±2.31 9.28±0.22 6.62±0.51 7.98±0.96 6.71±0.11 5.40±0.54 4.82±0.26 3.93±0.23 2.81±0.17</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>WLOM</td><td></td><td></td><td></td><td></td><td></td><td></td><td>7.68±1.184.70±0.40 4.06±0.26 4.16±0.22 3.93±0.16 3.55±0.233.11±0.38 2.74±0.09 2.55±0.11</td><td></td><td></td></tr><tr><td>WHA</td><td></td><td></td><td></td><td></td><td></td><td></td><td>8.19±1.14 4.58±0.38 2.56±0.06 3.82±0.16 2.78±0.04 1.85±0.071.71±0.06 1.19±0.04 0.26±0.03</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/92f39627d0395be9c50070626415b98fd24f245f13e170f9b4f1d21bf97a7d4c.jpg",
+        "table_caption": [
+            "Table 6Dynamic changes of water-soluble organic matter of OMs in decomposition process ",
+            "Table 7Dynamic changes of humic-like substance of OMs in decomposition process "
+        ],
+        "table_footnote": [
+            "Note:HSL,humic-like substance; FAL,fulvic acid-like;HAL,humic acid-like.Mean±standard error. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">OMs</td><td rowspan=\"2\">Components</td><td colspan=\"9\">Decomposition days (d)</td></tr><tr><td>0</td><td>30</td><td>60</td><td>90</td><td>120</td><td>150</td><td>180</td><td>360</td><td>540</td></tr><tr><td rowspan=\"3\">MR</td><td>HSL</td><td>7.93±1.20</td><td></td><td>5.08±0.95 3.17±1.13 11.30±1.82 9.01±1.63 8.63±1.22 7.36±0.85 4.32±0.67</td><td></td><td></td><td></td><td></td><td></td><td>3.32±0.39</td></tr><tr><td>FAL</td><td>4.47±0.29</td><td>4.06±0.32</td><td></td><td></td><td></td><td></td><td>2.79±0.16 4.95±0.33 4.70±0.18 4.19±0.24 3.93±0.29 3.55±0.15</td><td></td><td>2.91±0.16</td></tr><tr><td>HAL</td><td>3.46±0.22</td><td></td><td></td><td></td><td></td><td></td><td>1.02±0.08 0.38±0.17 6.35±0.70 4.31±0.34 4.44±0.21 3.43±0.18 0.77±0.13</td><td></td><td>0.41±0.08</td></tr><tr><td rowspan=\"3\">CM</td><td>HSL</td><td>6.16±1.30</td><td></td><td></td><td></td><td></td><td></td><td>4.19±0.23 2.67±0.06 7.62±1.27 7.87±0.83 7.36±0.91 6.28±0.54 3.05±0.11</td><td></td><td>2.05±0.05</td></tr><tr><td>FAL</td><td>4.19±0.25</td><td></td><td></td><td></td><td></td><td></td><td>2.79±0.05 1.78±0.12 2.73±0.06 2.41±0.14 2.28±0.10 2.16±0.16 2.05±0.08</td><td></td><td>1.55±0.06</td></tr><tr><td>HAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1.97±0.061.40±0.03 0.89±0.054.89±0.23 5.46±0.46 5.08±0.45 4.12±0.31 1.00±0.14</td><td></td><td>0.50±0.03</td></tr><tr><td rowspan=\"3\">SM</td><td>HSL</td><td>8.19±1.18</td><td></td><td></td><td></td><td></td><td></td><td>5.58±0.24 3.05±0.10 5.84±0.45 5.20±0.62 4.57±0.25 4.19±0.38 3.43±0.29</td><td></td><td>2.43±0.61</td></tr><tr><td>FAL</td><td>2.16±0.13</td><td>1.78±0.06</td><td></td><td></td><td></td><td></td><td>1.27±0.11 1.52±0.04 1.90±0.151.78±0.09 1.65±0.03 1.40±0.04</td><td></td><td>1.03±0.05</td></tr><tr><td>HAL</td><td>6.03±0.40</td><td>3.81±0.05</td><td></td><td></td><td></td><td></td><td>1.78±0.08 4.32±0.08 3.30±0.032.79±0.03 2.54±0.04 2.03±0.10</td><td></td><td>1.40±0.03</td></tr><tr><td rowspan=\"3\">TL</td><td>HSL</td><td></td><td>10.28±1.218.50±0.79</td><td></td><td></td><td></td><td></td><td>5.08±0.47 15.86±1.2710.53±1.21 9.90±1.27 8.96±1.19 6.09±0.23</td><td></td><td>4.09±0.16</td></tr><tr><td>FAL</td><td>5.97±0.34</td><td></td><td></td><td></td><td></td><td></td><td>4.82±0.462.16±0.09 6.22±0.75 4.70±0.26 3.68±0.18 3.47±0.15 2.79±0.14</td><td></td><td>1.79±0.11</td></tr><tr><td>HAL</td><td>4.32±0.26</td><td></td><td></td><td></td><td></td><td></td><td>3.68±0.352.92±0.13 9.65±0.76 5.84±0.24 6.22±0.84 5.49±0.46 3.30±0.27</td><td></td><td>2.30±0.08</td></tr><tr><td rowspan=\"3\">MS</td><td>HSL</td><td></td><td></td><td></td><td></td><td></td><td></td><td>17.45±2.21 13.20±2.1717.77±1.16 20.43±2.3717.26±1.3615.99±1.3513.96±2.249.58±0.89</td><td></td><td>6.58±0.46</td></tr><tr><td>FAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td>9.90±1.90 7.87±0.72 6.73±0.17 7.62±0.20 7.23±0.61 5.97±0.46 4.82±0.11 3.46±0.16</td><td></td><td>2.49±0.07</td></tr><tr><td>HAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td>7.55±0.85 5.33±0.36 11.04±1.2212.82±1.25 10.03±1.33 10.02±0.91 9.14±0.71 6.12±0.61</td><td></td><td>4.09±0.52</td></tr><tr><td rowspan=\"3\">FG</td><td>HSL</td><td></td><td>14.91±1.17 1.93±1.23 1.36±1.21</td><td></td><td></td><td></td><td></td><td>14.47±1.30 11.45±1.2110.77±1.34 8.78±1.19 7.50±0.88</td><td></td><td>5.50±0.63</td></tr><tr><td>FAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8.25±1.16 6.60±0.76 5.71±0.836.55±0.45 6.23±0.64 5.58±0.47 4.98±0.56 4.08±0.27</td><td>3.27±0.17</td></tr><tr><td>HAL</td><td></td><td></td><td></td><td></td><td></td><td></td><td>6.66±0.645.33±0.31 1.65±0.06 7.92±0.78 5.22±0.57 5.19±0.41 3.80±0.16 3.42±0.13</td><td></td><td>2.23±0.03</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Continuous application of OMs could influence the levels of soil organic matter and the quality of some or all of its pools (Cadisch and Giller,2OoO). Many studies have shown that OMs played a positive role in altering soil environment and promoting SOC storage (Liu et al.，2005; Purakayastha et al., 2008; Banger et al., 2010). Wang (2014) found that LOC and POC contents after the application of straw were significantly higher in semi-arid soil than in sub-humid soil. Thus,the result illustrated that the effects of OMs on labial organic carbon might be greater in the semi-arid soil. In this study，compared with no OMs (CK)，LC and RC contents in soil significantly increased $( P { < } 0 . 0 1 )$ after the continuous application of OMs for 2 years.Moreover, LC and RC contents were $3 . 2 \\% - 8 . 6 \\%$ and $5 . 0 \\% - 9 . 4 \\%$ higher in 2016 than in 2015,respectively, being consistent with the result of Wang (2O14),who found that the SOC,light fraction organic carbon (LOC),and particulate organic carbon (POC) contents of straw treatment under plastic mulch were higher in 201O than in 2OO9,and were significantly higher than that of no straw treatment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The application of OMs,and different sources and decomposing degrees of OMs were all affected the SOC fractions under plastic film mulch (Li et al.,2Oo9). Furthermore,Vanlauwe et al. (2005） indicated that short-term carbon dynamics was controlled by the quality parameters of OMs inputed,such as lignin,N,and polyphenol contents and this funding was confirmed further by Mandal et al. (2OO7) and Singh et al. (2009),who suggested that the quality of OMs was an important factor on agricultural soil carbon changes besides the amount of injected carbon. In this study, the amount of carbon inputted was equivalent in different OMs treatments.Therefore,the variation of SOC fractions mainly depended on the nature of OMs. Hence,a correlation analysis was conducted to explore the relationships between OMs compositions and SOC fractions. Results indicated that the lignin and polyphenol contents in OMs played important roles in SOC and RC contents in soil, which was consistent with the result of Gentile et al. (2O1O).Puttaso et al. (2013）found that lignin and polyphenols were more resistant and difficult to decompose compared with the cellulose and hemicellulose,and thus were benefited to the SOC improvement. Similarly, Trinsoutrot et al.(2Ooo) indicated that the residues with higher concentrations of lignin and polyphenols might be more stable as an important component of SOC by biochemical processes due to the highly recalcitrant lignin. Moreover, in this study,we found that the most important factors affecting the SOC and RC contents can be atributing to the WOM, WHA,HSL, and HAL contents in OMs. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The decomposition rate was an important index for its role in maintaining and improving soil organic matter distribution and soil fertility (Li et al.,2O15).In this study,we found that the decomposition rate of OMs was in the following descending order CM>SM>MS>MR>FG>TL, moreover, decomposition rates of CM, SM and MS were obviously higher than those of MR, FG and TL. Gao et al. (2O1O) and Liang et al. (2O11) showed that water soluble organic carbon (WOC) contents in soil after application of animal manures were higher than those of straw. In this study, LC contents in soil after the applications of CM and SM were significantly higher than those of other OMs,and folowed by MS,whereas that of TL was the lowest. Similarly,LC/SOC ratios after the applications of CM and SM were higher, which implied that applications of CM and SM were more in favor of SOC mineralization and turnover. Moreover, the decomposition rate of OMs was positively related with LC content and LC/SOC ratio. Therefore, applications of CM and SM significantly increased the LC contents and LC/SOC ratios mainly due to their higher decomposition rates. On the other hand, SOC and RC contents in soil after the applications of TL and MS were significantly higher than those of other OMs,and RC/SOC ratios were similarly higher, which implied that applications of TL and MS were more in favor of SOC storage. The higher RC and SOC contents of TL and MS treatments can be attributed to the higher lignin/N ratio,lignin and polyphenols contents in TL and MS,which is not consistent with the result of Long et al. (2O15)，who found that SOC content of pig manure treatment in silt loam was significantly higher than those of straw treatment. The inconsistence might be atributed to the various soil type and environment. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Wang et al. (2O14) and Liu et al. (2O14) researched the decomposition rate of maize straw in a semi-arid and dryland soil under plastic film mulch condition using nylon mesh bags burying method,and they found that plastic film mulch could promote carbon mineralization. Therefore, application of OMs in semi-arid soils under a long-term plastic film mulch condition is necessary. In this study，application of six kinds of OMs significantly increased the SOC,LC,and RC contents.However, the variations of LC and RC contents,LC/SOC ratio,and RC/SOC ratio were significant different among the six kinds of OMs treatments.For example, decomposition rate of MS was higher,and the WOM, WHA, HSL,and HAL contents in MS were the highest, and the more lignin derivatives,WHA,and HAL polymers were found in decomposition process. Thus, MS was recommended to use under plastic mulch and drip irgation in semi-arid soils. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A two-year of field experiment has showed that LC and RC contents in soil after the continuous application of OMs significantly increased. LC and RC contents were $3 . 2 \\% - 8 . 6 \\%$ and $5 . 0 \\% - 9 . 4 \\%$ higher in 2016 than in 2015.LC contents after the applications of CM and SM were significantly higher，and followed by MS，whereas that of TL was the lowest. In addition, LC/SOC ratios after the applications of CM and SM were significantly higher as well. SOC and RC contents in soil after the applications of TL and MS were significantly higher, whereas those of CM and SM were relatively lower. In addition, RC/SOC ratios after the applications of TL and MS were higher as well. In conclusion, the application of MS in the semi-arid soil under a long-term plastic mulch and drip irrigation condition could not only improve soil fertility, but also enhance soil carbon sequestration. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Key R&D Program of China (O17YFD0201801)and the Research Foundation of the Science & Technology Agency of Jilin Province, China (20150203004NY). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Banger K,ToorGS,BiswasA,etal.2Ol0.Soilorganiccarbonfractionsafter16-yearsofapplicationsoffertilizersandorganic manure in a Typic Rhodalfs in semi-arid tropics.Nutrient Cycling in Agroecosystems,86(3): 391-399.   \nCadisch GGilerKE.2O.Soilorganic matermanagement: theroleof residuequality incarbon sequestrationandnitrogen supply.In:ReesRM,BallB,CampbellCD,etal.Sustainable ManagementofSoilOrganic MatterWallngford,UK:CAB International,97-111.   \nChen AQ,FuB,LuY,etal.2O15.Exogenousorganicmaterialsapplied topaddyfield improvingsoilmicrobialbioma C,N anddisolvedorganicC,N.Transactionsof theChineseSocietyofAgriculturalEngineering,31(21):160-167.(inChinese)   \nCookson WR,AbayeDA,MarschnerP,etal.2Oo5.Thecontributionof soilorganic materfractions tocarbonand nitrogen mineralization and microbial community size and structure.Soil Biology and Biochemistry,37(9):1726-1737.   \nDuZL,RenTS,HuCS,etal.2Ol3.Soilaggregatestabilitydaggregate-associatedcarbonunderdiferenttillagestems in the North China plain.Journal of Integrative Agriculture,12(11): 2114-2123.   \nGao ZX,ZhouJB,WangX,etal.2Ol.Efectsofdiferentfertilzertreatmentsoncontentandcharacteristicsofdissolved organic carbon in soil.Acta Pedologica Sinica,47(1):115-121.(in Chinese)   \nGentileR,VanlauweB,KavooA,etal.Ol0.ResiduequalityandNfertizerdonot influeneaggegate stabilizationofCand N in two tropical soils with contrasting texture.Nutrient Cycling in Agroecosystems,88(1): 121-131.   \nGougoulias C,ClarkJM,ShawLJ.2014.Theroleof soil microbesin theglobal carboncycle:tracking the below-ground microbial processing of plant-derived carbon for manipulating carbon dynamicsinagricultural systems.Journal of the Science of Food and Agriculture,94(12): 2362-2371.   \nHaubensak KA,HartSC,StarkJM.2OO2.Influences ofchloroform exposure time and soil water contenton CandNrelease in forest soils. Soil Biology and Biochemistry,34(11):1549-1562.   \nHaynesRJ.2Oo5.Labileorganic matter fractionsascentralcomponentsof thequalityof agricultural soils:anoverview. Advances in Agronomy, 85: 221-268.   \nHuygensD,RutingT,BoeckxP,etal.207.Soilnitrogenconservationmechanisms inapristinesouth Chilean Nothofagus forest ecosystem. Soil Biology and Biochemistry,39(10): 2448-2458.   \nJiang Y,ShiCY,WangZZ,etal.2O14.Effectsofplasticfilmmulchingonarablelayersoil temperature,moistureandyieldof sweet potato.Chinese Journal of Eco-Agriculture,22(6): 627-634.(in Chinese)   \nKnoblauchC,MaarifatAA,PfeifferEM,et al.2O11.Degradabilityofblack carbonand itsimpacton tracegasfluxes and carbon turnover in paddy soils. Soil Biology and Biochemistry,43(9):1768-1778.   \nLal R.2004.Soilcarbonsequestration impacts on globalclimate change and food security.Science,304(5677):1623-1627.   \nLi H, Wang $Z \\mathrm { ~ H ~ }$ ，Wang X N,et al.2Oo7.Effects of cultivation types on yield formation and nitrogen accumulation and remobilization for winter wheat.Journal of Agro-Environment Science,26(1):369-374.(in Chinese)   \nLiLL,Wang ZH,Wang XN,etal.2O09.Effectsofsoil-surface mulchingonorganiccarbon,inorganiccarbonand light fractionorganic carbon in dryland soil.Plant Nutrition and Fertilizer Science,15(2): 478-483.(in Chinese)   \nLi XH,GuoHH,ZhuZL,etal.2O16.Efectsofdifferent trawreturnmodesoncontentsof soilorganiccarbonandfractions of soil activecarbon.Transactions of theChinese Societyof AgriculturalEngineering,32(9):130-135.(inChinese)   \nLi S P,Cai ZC,Yang H,etal.2O09.Efectsof long-term ferilizationand plasticfimcovering on somesoilfertity and microbial properties.Acta Ecologica Sinica,29(5): 2489-2498.(in Chinese)   \nLi ZP,Liu M,JiangCY2O15.Decomposition,accumulationanddistributionofsoiloganic matterintypicalredsoilgionof China. Soils,47(2):220-228.(in Chinese)   \nLiang Y,HanX Z,Song C,etal.2011.Impactsofreturning organic materialsonsoil labile organiccarbon fractions redistribution of mollisol in northeast China. Scientia Agricultura Sinica,44(17): 3565-3574. (in Chinese)   \nLiang Y2012.Efectof organic amendments aplicationondynamics,fractions and structural properties ofsoilorganic mater in black soil.PhD Dissrtation.Changchun:Northeast Institute of Geographyand Agroecology，Chinese Academyof Sciences. (in Chinese)   \nLiuS W,Zhang YJ,ZongYJ,etal.2016.Responseofsoilcarbon dioxide fluxes,soilorganiccarbonand microbialbiomass carbon to biochar amendment: a meta-analysis. Global Change Biology Bioenergy,8(2): 392-406.   \nLiu XB,LiuJD,Xing BS,etal.2Oo5.Efectsof long-term contiuouscropping,tillage,andfertilizationonsoilrganic carbon and nitrogenof black soils in China.Communications in Soil Scienceand Plant Analysis,36(9-10):1229-1239.   \nLiu XE,LiXGHaiL,etal.2O14.Film-mulchedridge-furow managementincreases maize productivityandsustainssoil organic carbon in a dryland cropping system. Soil Science Society of America Journal, 78(4): 1434-1441.   \nLong P,SuiP,Gao WS,etal.2l5.Effectsofagriculturalorganic wastesicorporationonsoilorganiccarbonandmicrobial carbon.Journal of China Agricultural University,2O(3):153-160.(in Chinese)   \nLovelandP,WebbJ.Oo3.Is thereacriticalleveloforganic mattrintheagriculturalsoilsoftmperateregions:areview.Soil and Tillage Research,7O(1): 1-18.   \nMandalB,Majumder B,BandyopadhyayPK,etal.2Oo7.The potentialofcropping systems andsoilamendments forcarbon sequestration in soils under long-term experiments in subtropical India.Global Change Biology,13(2):357-369.   \nManna MC,SwarupA,WanjariR H,et al.2O05.Long-term efect of fertilizer and manure applicationonsoilorganiccarbon storage,soil qualityand yield sustainabilityunder sub-humidand semi-arid tropical India.Field Crops Research,93(2-3): 264-280.   \nMcLauchlanKK,Hobbie SE.2O04.Comparisonof labile soilorganic materfractionation techniques.SoilScience Societyof America Journal, 68(5): 1616-1625.   \nMeijboomFW,Hassink J,Van Noordwijk M.1995.Density fractionationof soil macroorganic matterusing silicasuspensions. Soil Biology and Biochemistry,27(8): 1109-1111.   \nMeng QF,YangJS,YaoRJ,etal.2Ol3.FertilizationafectsbiomassproductionofSuaedasalsaandsoilorganiccarbopool in east coastal region of China.Journal of Integrative Agriculture,12(9): 1659-1672.   \nMuller C,StevensR J,Laughlin RJ.2004. A $\\mathbf { N } ^ { 1 5 }$ tracing model to analyze Ntransformations inold grassland soil. Soil Biology and Biochemistry,36(4) : 619-632.   \nNandwa S P.20o1.Soil organic carbon (SOC) management for sustainable productivityof cropping and agro-forestrysystems in Eastern and Southern Africa. Nutrient Cycling in Agroecosystems,61:143-158.   \nPlaza-BonillaD,Alvaro-FuentesJ,Cantero-Martinez C.2O14.Identifying solorganiccarbonfractionssensitive toagricultural management practices. Soil and Tillage Research,139:19-22.   \nPurakayastha J，RudrappaL，Singh D,etal.2008.Long-term impactof fertilizersonsoilorganiccarbon pools and sequestration rates in maize-wheat-cowpea cropping system. Geoderma,144(1-2): 370-378.   \nPuttaso A,VityakonP,RascheF,etal.2O13.Doesorganicresiduequalityinfluencecarbonretention inatropicalsandysoil? Soil Science Society of America Journal,77(3): 1001-1011.   \nSchmidt MWI,Torn MS,Abiven S,etal.2O11.Persistenceofsoilorganic materasan ecosystem property.Nature,478(7367): 49-56.   \nSingh KP,GhoshalN,Singh S.2O9.Soilcarbondioxideflux,carbonsequestrationandcropproductivityinatropicaldryland agroecosystem: influence of organic inputs of varying resource quality.Applied Soil Ecology,42(3):243-253.   \nSparling GSchipperL.2O04.Soilquality monitoring inNew Zealand:trendsand isuesarising fromabroad-scalesurvey. Agriculture,Ecosystems & Environment,104(3):545-552.   \nTrinsoutrotI,Recous S,BentzB,etal.2o.Biochemical qualityofcropresiduesandcarbonand nitrogen mineralization kinetics under nonlimiting nitrogen conditions. Soil Science Society of America Journal,64(3): 918-926.   \nTroy S M,LawlrPG,O'FlynCJ,etal.20l3.Impactofbiocharaditiontosoilogreenhouse gas emissions following pig manure application. Soil Biology and Biochemistry,6O:173-181.   \nTurkmenN,SariF,VeliogluYS.2O6.Efectsofextractionsolventsonconcentrationandantioxidantactivityofblackand black mate teapolyphenols determinedbyferrous tartrateandFolin-Ciocalteu methods.Food Chemistry,99(4):835-841.   \nVanSoestPJ.1963.Useofdetergents intheanalysisoffibrous feeds.II.Arapid methodforthedeterminationoffiberand lignin.Journal of the Association of Official Agricultural Chemists,46(5):829-835.   \nVanlauwe B,GachengoC,Shepherd K,etal.2Oo5.Laboratoryvalidationofaresourcequality-based conceptualframework for organic matter management. Soil Science Society of America Journal, 69(4): 1135-1145.   \nWalkleyA,Black CA.934.Acidextractable Zninsoilinrelationtotheoccurrenceof Zndeficiencysymptomsof co:A method of analysis.Soil Science Society of America Journal,12:143-148.   \nWang YP.2014.Effectofstraw returning and plastic film mulching couplingon maize yield andthe balanceof organic mater in the Loess Plateau.PhD Dissertation.Lanzhou: Lanzhou University. (in Chinese)   \nWangYP,LiXG,HaiL,etal.2O14.Filmfully-mulchedridge-furrowroppingaffectssoilbiochemical propertiesandmize nutrient uptake inarainfed semi-arid environment.Soil Science and Plant Nutrition,6O(4): 486-498.(in Chinese)   \nWuJG,LuY,WangMH,etal.O4.StudyondecompositionoforganicfertiizersbyF.PlantNutritionandFertilizer Science,10(3):259-266.(in Chinese)   \nYin T,He WQ,Yan CR,etal.2O14.Effectsof plastic mulchingon surfaceof no-tillstraw mulching onsoil waterand temperature.Transactions of the Chinese Society of Agricultural Engineering,3O(19):78-87.(in Chinese)   \nYu WS,LiG H,WangBS,etal.2015.Componentcharacteristicsof soillabileandrecalcitrantcarbon underlong-term different fertilization systems in eastern China.PlantNutritionandFertilizer Science,21(3): 675-683.(in Chinese)   \nZhang XB,Xu MG, ZhangWJ,et al.2O11. Characteristics of $\\mathrm { C O } _ { 2 }$ emission and microbial biomass dynamics after adding various organic materials in red soil. Scientia Agricultura Sinica,44(24):5013-5020.(in Chinese) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

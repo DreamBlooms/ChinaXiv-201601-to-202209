@@ -1,0 +1,374 @@
+[
+    {
+        "type": "text",
+        "text": "创伤后应激障碍个体对威胁刺激注意偏向的眼动研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "白玉，杨海波2,3",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1天津师范大学心理学部，天津 30387）（国民心理健康评估与促进协同创新中心，天津 300074)(教育部人文社会科学重点研究基地天津师范大学心理与行为研究院，天津 300074)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要 对威胁刺激的注意偏向是创伤后应激障碍（PTSD）个体的一种表现。近年来，研究者利用眼动技术探讨了注意偏向的加工特点及其内在机制。尽管针对是否存在注意定向加速、注意解除困难或注意回避的研究结果并不一致，但都试图为验证如警戒一回避模型、注意保持模型等提供眼动证据。未来研究在记录PTSD个体注视模式时，不仅需要从多个维度构建、整合PTSD个体的眼动模型，也要结合多种技术从多模态角度共同考察PTSD个体的威胁信息注意偏向机制。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词创伤后应激障碍，注意偏向，眼动",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "创伤后应激障碍（Posttraumatic Stress Disorder，PTSD）是一种常见的使人身心衰弱的精神障碍，对创伤性事件非主动式且不可控的侵入式回忆是其最明显的症状之一（American Psychiatric Association,APA,2013）。即使已经研发出相应的治疗药物，但情况并不乐观，仅有 $20 \\% { \\sim } 3 0 \\%$ 的痊愈率（Krystal et al.,2017）。PTSD 的认知模型指出，对创伤事件或威胁信息表现出更多的注意偏向是PTSD 患者认知缺陷的典型表现（Aupperle,et al,2012）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大量探讨PTSD个体对威胁信息注意偏向的研究主要采用反应时任务，其模式是：通过考察被试在不同威胁性刺激条件下完成任务的情况，推断其是否发生了注意偏向。如情绪Stroop 任务（Herzog,et al.,2017; Williams,et al.,1996）、点探测范式（MacLeod et al.,1986;Swick&Ashley,2017）等。然而，基于反应时任务的研究并未得到一致结论。比如，有研究者采用情绪 Stroop 任务发现PTSD个体对威胁刺激分配了更多的注意资源（Gindt et al,2017）；但是，Yuval等人（2016）则认为该类个体不存在显著的对威胁信息的注意偏向。也有研究者采用点探测范式发现，PTSD个体的注意偏向并非单一成分，其在对威胁信息的偏向和对威胁信息的回避之间存在波动（Iacoviello etal.,2014; Naim et al.,2015）。导致不一致结论的可能原因是该类任务具有间接性，在按键前后都无法直接考察注意加工阶段的时间进程（Lazarov et al.,2016; Lazarov et al.,2017; Price et al.,2016）。因此，为了准确地区分出注意偏向加工的不同方面，一些研究者开始采用眼动追踪技术，实时记录PTSD个体在注意加工过程中的眼动行为，旨在通过分析各类眼动指标来揭示PTSD个体注意模式的特征。本文总结了采用眼动追踪技术考察PTSD 威胁注意偏向的相关研究，并在此基础上分析目前的研究结果，在总结相应结论的同时，提出其中存在的不足，并为未来研究指出方向。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2注意偏向的成分和测量指标",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "注意偏向是指个体的注意加工持续地对真实的或实验诱发的威胁刺激分配更多的注意资源（Joyal etal.,2019）。注意偏向主要包含3个成分（Sheppes et al.,2013）：注意定向加速（facilitated attention）或警觉，注意解除困难（difficulty in attention disengagement）和注意回避（attentional avoidance）。注意定向加速或警觉是指PTSD个体会优先将注意指向威胁刺激，促进了察觉威胁信息的速度；注意解除困难是指PTSD个体一旦觉察到威胁刺激，便很难停止对其的注意加工；注意回避是指PTSD个体分配注意时优先避开威胁刺激，将注意指向非威胁刺激。这些成分看似相互排斥，但可能同时存在于信息加工的不同阶段（Weierich etal.,2008）。有研究发现，注意定向加速发生在早期自动加工阶段，注意脱离困难则发生在晚期阶段（Bishop,2009）。然而，前者的快速发生可能会影响后者，而后者可能独立于前者发生（Sheppes et al.,2013）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了揭示注意偏向各成分的差异，研究者利用眼动追踪技术来考察注意偏向加工过程。In-Albon 和 Schneider（2010）认为，随着时间的推移，个体对视觉刺激的注意分配与其注视位置、移动方向具有高度一致性，肯定了采用眼动技术考察注意偏向的合理性。一般情况下，研究者要求被试自由观看刺激序列（自由观看范式，Free-viewing），随后分析收集到的各种眼动指标来推断其注意加工过程。综合已有研究，注意偏向的常用眼动指标可以分为时间维度指标和空间维度指标。其中，时间维度指标与眼睛何时移动有关，具体是指对视野中特定内容进行编码的时间，如首次注视时间、总注视时间等，反映了个体对该视觉信息的注意维持；空间维度指标与注视移动位置有关，如注视顺序、眼跳位置等，通过分析注视位置的变化，可以实时地了解个体注意分配的情况或注意分配的多少；除此之外还有瞳孔变化（Pupillometry），如瞳孔大小和反应性（扩张或收缩），通过该类指标可以连续测量与情绪密切相关的非自主生理反应（Cascardi etal.,2015）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3PTSD个体的注意偏向机制 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1PTSD个体的注意定向加速",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1PTSD个体注意定向加速的眼动研究",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注意定向加速或警觉反映了个体的早期注意被威胁刺激捕获的速度。在眼动追踪研究中，常用首次注视和瞳孔变化指标来反映注意定向加速或警觉。当同时呈现威胁刺激和非威胁刺激时，如果PTSD个体的首次注视更多地落在威胁刺激上，或首次看向威胁刺激时的瞳孔扩张程度更大，则表明他们快速地将注意资源优先分配给了威胁刺激，出现了注意定向加速或警觉。瞳孔直径的变化受到自下而上和自上而下两方面的共同影响，前者是由外界刺激的物理变化引起的，如亮度等，后者是由刺激引起的心理变化引起的，如注意、情绪动机等（杨晓梦等,2020）。因此，以瞳孔为指标的研究者统一控制了材料的灰度，并且分别控制了词汇刺激的词频、词长，以及图片刺激的整体复杂度等因素，确保排除了非实验因素的干扰。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一些以威胁词汇为材料的研究为注意偏向的定向加速成分提供了证据（Bryant etal.,1995;Felmingham et al.,2011）。Bryant等人（1995）采用自由观看范式，向经历过机动车事故的PTSD个体同时呈现一个机动车事故相关威胁词汇（或中性词汇）和三个填充词汇。结果发现，当刺激中包含威胁词时，PTSD个体对它的首次注视比例更大；相反，健康组被试对两种类型词汇的首次注视比例没有显著差异。该结果表明PTSD个体会更加快速地将注意指向威胁刺激，证实了注意定向加速的存在。Felmingham等人（2011）将身体攻击词汇代替威胁词，采用类似的实验设计也证实了上述发现。然而，另一些研究将威胁刺激以图片形式呈现时，却发现不存在注意定向加速（Lee＆Lee,2012；Lee＆Lee,2014）。Lee和Lee（2012）的研究向被试同时呈现4种类型的图片（与创伤相关的暴力图片、烦躁、积极和中性图片），要求被试自由观看10s 后，并没有发现PTSD组、创伤暴露非PTSD 组和健康被试组的首次注视点位置（location of the first fixations）存在显著差异。他们认为，被试可能难以同时评估四种不同的视觉刺激；因此，为了进一步揭示PTSD的注意机制，Lee和Lee（2014）只在单个试次中同时呈现两个刺激，结果发现，在情绪（愤怒、恐惧、愉快）与中性配对和负性（愤怒、恐惧）与积极（愉快）配对的试次中，都没有显著的组间差异，表明各组被试首次选择注视每种情绪刺激的概率相同。Armstrong 等人（2013）以退伍军人为被试，也并未发现对威胁刺激存在定向加速；Kimble等人（2010）采用威胁图片时，也只发现了只有高症状PTSD退伍军人出现了更快地看向威胁图片（特别是伊拉克战争图片）的趋势。当以首次注视潜伏期为指标时，与首次注视位置指标的结果一致，并没有发现PTSD 组和非PTSD 组之间看向威胁刺激的时间存在显著性差异（Bryant et al.,1995;Felmingham et al.,2011;Kimble et al.,2010）。然而，当研究者以瞳孔反应作为指标时，发现结果具有异质性。经历身体虐待的PTSD个体看向威胁词汇的瞳孔扩张并没有显著增大，表明他们并没有表现出对威胁刺激更加警觉的行为（Felmingham et al.,2011）；但PTSD 退伍军人观看威胁图片时的平均瞳孔值更大（Kimbleetal.,2010），表现出了警觉现象。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一方面，瞳孔指标非同质性结果可能受到了威胁刺激呈现形式的影响，即相比词汇，被试观看威胁图片时更易表现出注意警觉；另一方面，选取相同创伤经历个体（PTSD退伍军人）、呈现相同威胁刺激类型（图片），Armstrong等人（2013）以首次注视威胁刺激的比例为指标时并未发现定向加速，而Kimble等人（2010）以瞳孔值为因变量分析时却得出了“PTSD个体存在注意定向加速”的结论，可能表明了不同眼动指标对考察结果的影响差异。首次注视次数比例属于空间维度的指标，与视线移动位置有关，而注视位置的改变则离不开眼跳，该项运动是一项需要时间计划和执行的反应（闫国利等,2013），表明在视线落到首次注视位置时，需要时间积累，而注意警觉是瞬间发生的现象，因此，可能更适合不依赖时间累计的瞳孔指标来进行考察。此外，经历身体虐待和战争导致的创伤后应激障碍个体表现出不一致的注意警觉也可能反映了不同创伤事件在注意偏向中发挥的不同作用即创伤特异性。人为和自然灾害创伤事件发生时，个体经历的情绪来源并非完全相同。即使两者都包含自身体验的“恐惧”等负性情绪，但前者还独立包含了他人带来的诸如“愤怒”类的负性情绪（施暴者情绪）。Hindash等人（2019）发现，相比施暴者的威胁情绪（愤怒），PTSD个体对其自身经历的创伤性情感的威胁情绪（恐惧）的注意偏向更大，而个体发展成为PTSD的重要病理机制与他们在经历创伤事件时形成的情绪记忆有关（王红波,朱湘茹,2016）。因此，这种情绪来源的差异性可能导致了创伤特异性对注意偏向的不同影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2PTSD个体注意定向加速的影响因素",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PTSD个体是否存在对威胁刺激的威胁定向加速，目前结果并不一致。眼动指标的选择与威胁刺激的呈现类型似乎会交互影响威胁定向加速：当以首次注视点位置考察快速觉察时，PTSD个体优先将注意指向威胁词汇刺激；当分析首次注视潜伏期时，PTSD个体不会表现出任何警觉现象；当测量瞳孔反应为时，威胁图片刺激才会引起PTSD个体的过度反应。该交互现象可能反映了刺激材料的复杂性与眼动指标的相互作用。相比图片刺激，个体可以从副中央凹预视词汇信息，导致词汇水平的加工发生更迅速，因此可以表现出威胁定向加速。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Armstrong 等人（2013）认为，由于图片缺乏能够从副中央凹激活创伤记忆的特异性，导致不能引起PTSD表现出威胁定向加速；此外，图片属于表意符号系统，对其的加工过程可描述为“图片一语义”，与此不同，英文词汇的识别过程会经过语音提取，即“单词一语音一语义”（韩玉昌,杨文兵,2003），表现为被试对图片的注视时间快于英文词。然而，韩玉昌和杨文兵（2003）在研究只使用了无背景的白描画，无关信息较少，复杂性较低。与以上研究使用的创伤相关图片（如与战争相关图片）和面孔图片（如愤怒面孔）不同，威胁图片包含了较多的无关背景信息，且具有较高复杂性。因此，相比威胁词汇，威胁刺激以图片形式呈现时，威胁信息以外的其它无关感知信息会干扰个体的威胁感知，最终导致个体对两类图片类型表现出不一致的注意定向结果。从呈现形式上来看，Felmingham 等人（2011）以 $4 { \\times } 2 ^ { \\circ }$ 的视角呈现刺激，小于图片呈现的视角（ $1 1 . 3 3 \\times 8 . 4 8 8 ^ { \\circ }$ 、 $5 . 6 4 \\times 8 . 6 4 ^ { \\circ }$ 、$1 1 . 5 { \\times } 1 4 ^ { \\circ }$ ）。视角较小表明距离中央凹越近，为了获取信息发生的眼跳距离越短，可以更快地获取信息。因此，这也可能导致了只在词汇刺激材料中发现了PTSD个体的注意定向加速。未来研究可以考察视角的改变是否会影响威胁注意偏向机制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "另一方面，词汇刺激对注意的唤醒水平较低，而能够诱发高唤醒水平的图片刺激则阻碍了对威胁刺激觉察的偏向，导致只有词汇刺激才能表现出威胁定向加速。也有研究者认为，图片的视觉凸显性和复杂性都会增加被试对刺激自动化注意捕捉的可能性，此时威胁性的作用不再明显，从而降低了PTSD个体对威胁刺激的觉察能力（Thomas,et al.,2013），以上差异可能更容易表现在首次注视点位置；然而，基于瞳孔变化指标时，图片的物理大小以及复杂性的增加所造成的冲击则更可能作用于瞳孔反应，因此，图片类型的威胁刺激会引起PTSD个体更显著的瞳孔反应；此外，眼睛的内隐移动可能发生在没有外显移动的情况下（Lee＆Lee,2012），而首次注视点潜伏期是基于个体眼球的外显移动行为进行记录的，因此，个体的快速警觉可能表现在内隐移动上，导致不能通过该指标进行全面考察。未来研究在有效考察注意定向加速或警觉本质的同时，也需注意眼动指标记录眼动行为的侧重点，避免指标的选择对结果的影响。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3 小结",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当以词汇刺激为威胁信息时，更适合选取依赖于时间累计的空间指标考察注意定向加速。图片为直接表意符号系统，但图片信息中包含的其它无关信息可能会干扰“图片一语义”的加工。相反，英文词汇间接通达语义，这种间接的方式可能给予眼球的外显移动一定的时间，能够快速地反映威胁词汇信息对PTSD个体的注意捕获；当以图片形式呈现威胁刺激时，受到图片刺激本身的属性（复杂性和凸显性）的影响，瞳孔指标似乎更能测量出警觉现象。对于首次注视潜伏期，该指标具体指被试从初始注视点发生眼跳到具体某类刺激所需的时间（Kimbleetal.,2010），与眼跳时间类似，表明了两个注视点之间眼球实际移动所需的时间（闫国利等,2013）。因此，无论威胁信息以何种形式呈现，可能受制于无法准确测量内隐移动的原因，潜伏期对注意定向加速的考察并不是非常灵敏。但要注意一点，这并不意味着某种形式的刺激只适用于一种指标来分析注意警觉现象，研究者应该综合使用多种眼动指标,从不同维度对数据进行细致分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2PTSD个体的注意解除困难 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1PTSD个体注意解除困难的眼动研究",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注意解除困难反映了个体将注意保持在威胁刺激上的程度。在眼动研究中，常用总注视时间指标来反映注意解除困难。如果相比非PTSD个体，PTSD个体对威胁刺激的总注视时间显著更长，则表明他们难以将注意转移至非威胁刺激上。研究者发现PTSD个体对威胁刺激存在注意 解除困难（Armstrong et al.,2013;Kimble et al.,2010;Lee& Lee,2012,2014）。Kimble等人（2010）将威胁图片分为创伤事件相关图片（伊拉克战争图片）和一般负性威胁图片（机动车事故图片），并要求伊拉克退伍老兵自由观看中性图片和威胁图片的配对刺激。结果发现，相比低PTSD症状个体，高症状个体对两类威胁图片的总注视时间更长，且该效应在10s 内保持稳定，表明PTSD个体对创伤相关威胁和一般负性威胁刺激都存在持续性注意。Armstrong等人（2013）同样以退伍老兵为考察群体，选取情绪面孔（厌恶、恐惧和愉快）和中性面孔作为刺激对时发现，相比健康被试，PTSD老兵对厌恶和恐惧面孔的注视时间更长，验证了PTSD个体对一般负性威胁刺激存在注意解除困难的结论。Lee 和Lee认为，相比健康被试，PTSD个体对愤怒面孔（2012）、暴力刺激和烦躁图片（2014）表现出注意解除困难的可能原因是，当他们再次看到可以唤醒创伤事件的刺激时，可能经历了真实的情绪唤醒，导致他们对此类刺激分配更多的注意资源；另外，PTSD个体入侵性和反刍思维也可能推动了他们对此类刺激的注意维持，造成对威胁刺激非自愿式的过度注意分配。Thomas 等人（2013）以大学生为被试也发现了PTSD个体对创伤相关的威胁图片表现出了持续性注意。相反，Felmingham等人（2011）向被试同时呈现一个身体攻击词和三个中性词时发现，经历了创伤事件的健康被试和PTSD个体对威胁词的平均首次注视时间没有显著差异。他们认为，组间差异的存在才可以证明PTSD个体存在注意解除困难，因此，否认了“PTSD的注意偏向与脱离解除困难有关”的观点。以上结果表明，注视时间指标可以反映PTSD对威胁信息的注意解除机制。然而，已有研究者通过空间指标注视次数（颜志强，王福兴，苏彦捷,2016）或其它指标瞳孔持续变化（Wirz&Schwabe,2020）考察了注意解除现象。因此，未来研究可采用多个眼动指标来从多个维度探讨PTSD的注意解除现象。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2PTSD个体注意解除困难的影响因素",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PTSD个体是否存在对威胁刺激的注意解除困难还未得到一致的结论，但多数研究（以图片为刺激）肯定了注意解除困难的存在，并且刺激呈现时间和创伤应激事件类型并不会对该现象的稳定性产生影响。对其他障碍疾病的眼动研究也发现，焦虑和抑郁症群体对威胁刺激的注视时间更长（Lazarov etal.,2016）。脑成像研究进一步认为，威胁刺激作为回忆起创伤事件的线索提示，可以激活如杏仁核等恐惧脑区（Hayes et al.,2012; Sergerie et al.,2008）或与注意控制有关的脑区（Fani etal.,2012;Hayes et al.,2012），从而增加了PTSD个体对威胁刺激的注视时间（Lee＆Lee,2014）。从威胁刺激的特性来说，威胁刺激的出现对PTSD个体意味着紧急情况的发生，为了防止自身受到伤害，他们便可能过度监测威胁刺激（Armstrong＆Olatunji,2012）；从注意控制的角度来说，PTSD个体的控制能力较弱，容易忽略其他分心目标（Sarapas et al.,2017）。有研究发现，高PTSD症状个体的注意控制力与将注意脱离威胁刺激、随意转移至远离威胁刺激的能力呈正相关（Bardeen et al,2016）。然而，当刺激替换为词汇时，副中央凹预视可以加快词汇加工过程，但是注意定向加速捕获词汇后，由于词汇包含的信息密度较低，不具备持续捕获个体注意的能力。因此，个体很容易将注意从威胁词汇中转移出来，导致没有表现出解除困难。这似乎意味着词汇和图片的自身属性特征导致了对它们的差异性加工，而该差异性加工进一步分离了注意解除困难现象的发生。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.3小结 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PTSD个体在威胁刺激上保持注意的时间越长，且与中性刺激的注视时间出现显著差异时，通常认为发生了注意解除困难现象。然而，词汇刺激包含的威胁信息可以被更快获取并加工（Lazarov,et.al,2018），且之后不再包含其它信息，因此，这种较低的信息密度可能降低了“威胁信号”捕获PTSD个体注意的持续程度。未来研究可以采取加词汇嵌套在一定的背景信息下来考察信息密度是否会改变PTSD个体对威胁词汇的注意解除困难，以便验证以上猜想；此外，可能存在这样一种现象，在日常生活中，个体接触词汇信息的方式多为阅读，这是一种静态的呈现方式，而图片刺激更具生态性，在贴近日常生活的同时，多以动态的形式呈现。这种频繁内隐的接触方式可能会给个体造成“词汇一静态”、“图片一动态”的无意识捆绑，促使在实验中对图片更多的是动态的认识，词汇则为静态。有研究发现，动态的注视线索具有更强的线索提示效应（张智君等,2015），导致动态比静态的呈现方式更容易维持个体的注意。因此，PTSD更可能对威胁图片表现出注意解除困难。未来研究可以通过内隐联想范式考察个体对词汇和图片是否存在静态、动态的无意识捆绑，并进一步探讨词汇动态呈现（如将词汇“闪烁”呈现）是否会影响PTSD个体的注意偏向。总之，研究者应该注意实验中所采用的威胁刺激的属性以及呈现方式，并通过不同的角度深入考察PTSD的注意解除困难现象。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3PTSD个体的注意回避",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.1PTSD个体注意回避的眼动研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注意回避反映了PTSD个体快速将注意从威胁信息转移到其他信息上的能力。在眼动研究中，常用时间进程分析法、第二次注视点指标来反映注意回避。当PTSD个体对威胁刺激的注视时间没有随着时间推移显著减少，或首次注视时间（首次注视点次数比例）比第二次注视时间（第二次注视点次数比例）显著更长（更多）时，则表明他们自愿终止持续注意威胁信息。已有大量研究探究了PTSD个体该方面的机制，但都没有发现他们存在注意威胁回避现象（Armstrong et al.,2013; Felmingham et al.,2011; Kimble et al.,2010; Lee & Lee,2012,2014; Thomas et al.,2013）。Armstrong 等人（2013）将刺激呈现时间分为6个 ${ 5 0 0 } \\mathrm { m s }$ 的时间间隔。结果并未发现时间间隔效应，表明PTSD组与其他两组（创伤暴露组和健康被试组）对威胁刺激（厌恶和恐惧面孔）的注视时间差异在3s 内相对稳定。Thomas 等人（2013）向被试呈现包含了与创伤事件相关的威胁图片的刺激序列时发现，在刺激呈现后0\\~2s 和4\\~6s 内，相比健康组被试，PTSD个体对威胁刺激的注视时间比例显著增加，并没有表现出回避现象。Lee 和Lee（2012,2014）将10s的呈现时间划分为5个2s的时间间隔，同样发现PTSD个体注视威胁刺激（暴力图片）的时间增量也保持相对稳定。此外，Felmingham等人（2011）以威胁词汇为兴趣区，分析了紧跟在首次注视点之后的第二次注视点位置。他们假设，相比只经历了创伤事件的健康被试，PTSD个体在首次注视威胁词汇刺激之后，落在威胁词汇刺激上的第二次注视点会减少。然而，两组之间的差异并不显著，并没有支持以上假设。Kimble等人（2010）考察注意回避时发现，高PTSD症状个体第二次注视威胁图片的时间并未显著减少。因此，他们认为PTSD个体并不存在注意回避现象。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.2PTSD个体注意回避的影响因素",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注意回避不仅可以理解为注意偏向的成分之一，也可将其视为PTSD个体在短期内积极应对威胁刺激的一种策略，避免威胁刺激引起的痛苦回忆带给自己的持续性伤害（Williams etal,1997）。然而，从长期发展来看，注意回避现象的存在可能会加剧PTSD症状，即习惯性地将注意从威胁刺激上脱离并转移至中性刺激也可能是一种适应不良的逃避策略（Bardeen&Daniel,2017），表现了PTSD个体不能正确对待威胁刺激。因此，相比短期受到的伤害，不存在注意偏向现象更可能是一种长期的自我保护。此外，再体验作为该类障碍个体主要的特征之一（APA,2013），表现为非自愿式的侵入性回忆，而且PTSD 个体的执行控制功能伴有损伤缺陷，无法自主脱离威胁刺激（Leskin＆White,2007），这两者的共同作用可能导致了他们更容易表现出注意解除困难，而不是注意回避。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.3小结 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上，改变分析方法（时间进程分析方法、第二次注视指标分析法）、刺激类型（词汇、面孔或图片）或刺激呈现时间都没有发现PTSD个体存在注意威胁回避现象。此外，当研究者采用时间进程分析法时，时间间隔的差异也不会影响研究结果。然而，PTSD个体的注意偏向加工过程可能存在变异性。Thomas 等人（2013）在刺激呈现的中间时间（非早期、非晚期）发现了PTSD个体对威胁刺激的注意回避趋势：在刺激呈现的0\\~2s中，相比健康被试，PTSD个体对创伤威胁图片的总注视时间比例更多；经过2s后（2\\~4s），他们对威胁图片的注意程度下降到与健康被试相当的水平；但在随后的4\\~6s内，他们对威胁图片的注意程度重新上升到与健康被试组表现出差异的水平。该趋势表明，PTSD个体在威胁警觉和威胁回避之间存在较大的注意波动趋势（Naim et al.,2015）。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "总之，利用眼动技术考察PTSD个体对威胁刺激的注意偏向时，三种成分的影响因素并不相同。第一，威胁刺激的类型和眼动指标的选择可能会交互影响注意定向加速。PTSD个体更易对词汇刺激表现出警觉不仅与图片与词汇在识别过程中受到的干扰有关，也受到两种词汇类型唤醒度、凸显性和复杂性的影响。当然，研究中采用的较小呈现视角也可能加速对威胁词汇信息的注意捕获，促使PTSD个体表现出对威胁词汇的注意警觉。另一方面，眼动指标的不一致选取也可能造成对注意定向加速的差异结果，这可能受到指标本身类型的影响：首次注视点潜伏期受到无法测量外显眼球运动而对该成分不敏感，空间指标更适合考察PTSD个体对威胁词汇的注意定向加速，瞳孔指标更适合反映PTSD个体对威胁图片的注意定向加速。第二，PTSD个体不存在对威胁词汇刺激的注意解除困难现象可能与词汇预视、信息密度以及无意识捆绑有关，词汇预视导致词汇加工迅速，但由于词汇包含的信息密度较低，导致不具备持续捕获的能力；后者则由于“静态一词汇”的无意识捆绑，导致静态方式的威胁词汇不易表现出注意解除困难；第三，对威胁信息不存在注意回避现象可能是PTSD个体采取的一种长期的自我保护策略，并不会受到分析方法、词汇类型以及呈现时间的影响。因此，从时间进程理解PTSD个体对威胁信息的注意偏向时，更可能是“注意定向加速一注意解除困难”的发生机制。也就是说，PTSD个体可以迅速察觉威胁刺激的存在，随后便难以脱离对威胁刺激的进一步加工。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4PTSD注意偏向的理论模型",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "注意成分理论认为注意偏向并不是单一阶段的现象，它存在于特定的注意成分中，如注意定向加速、注意解除困难和注意回避。但是，哪个阶段的注意成分可以准确地表达注意偏向，或注意偏向发生在哪个注意阶段尚存在争论。针对这一问题，研究者提出了以下不同的注意偏向阶段理论。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1警戒一回避模型",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "警戒一回避模型是针对焦虑症个体的威胁注意偏向现象提出的（Williams et al,1997）。该模型认为，焦虑症个体的注意偏向主要表现在两个方面：早期阶段的注意警觉和后期阶段的注意回避。也就是说，面对包含威胁刺激的刺激流时，焦虑个体的早期警觉会促进他们自动化地探测刺激，从而更容易发现威胁刺激。然而，当威胁刺激捕获视觉注意后，焦虑个体会采取一定的策略回避威胁刺激，这种后期的策略加工导致他们表现出回避现象。PTSD个体和焦虑个体都属于情感障碍，因此，该理论也被作为PTSD注意偏向的理论支撑。换句话说，根据警戒—回避模型，PTSD个体可以更加快速、准确地探测到威胁刺激，然而，一旦识别到自认为的威胁刺激后，又会采取回避行为，阻止对它们的进一步加工。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "从以上PTSD 威胁注意偏向的眼动研究结果来看，该类个体在威胁加工后期并不存在回避现象，而是否存在早期的警觉现象则会受到刺激材料和眼动指标的交互影响。首先，词汇刺激和图片刺激在不同的眼动指标上发现了早期注意警觉（首次注视点位置和瞳孔反应），肯定了警觉一回避模型中早期阶段的观点。但从刺激角度来看，通过以上内容的分析，刺激的复杂性、唤醒度等不同属性会对警觉现象产生影响。这可能在提醒研究者完善进一步完善该理论，如注意警觉现象的发生可能存在一些限定条件，对于不同复杂性或唤醒程度的威胁信息可能存在注意定向的分离。此外，以上研究均没有发现注意回避现象，这可能是PTSD个体采取的一种长期自我保护策略。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2注意保持假设 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注意保持假设（Fox etal.,2001）认为，PTSD个体的注意偏向主要表现在发现威胁刺激后的加工阶段。该模型与警戒一回避模型存在两方面的不同。第一，警戒一回避模型认为注意偏向发生在早晚两个阶段，早期表现为注意警觉，具体表现为PTSD个体可以快速地探测到威胁刺激。然而，注意保持假设则认为该类个体对威胁信息的早期探测阶段与正常个体不存在差异；第二，警戒一回避模型认为注意偏向的晚期阶段表现为回避现象，而该模型预测当PTSD个体探测到周围环境的威胁信息时，并不会出现回避行为，而是很难将注意从威胁刺激上脱离出来。正是这种发生在注意解除阶段的偏向，才导致了PTSD的威胁注意偏向发生在后期。总之，该模型认为，PTSD个体对威胁刺激的注意解除能力减弱，导致注意偏向表现为增加了对这些刺激的注视时间。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以上PTSD 威胁注意偏向的眼动研究结果表明，以图片为威胁刺激的研究支持了注意保持假设，然而以词汇为刺激时却没有得出相同的结论。通过前文的分析，这可能是由于刺激的不同属性造成的。词汇刺激加工迅速、信息密度较低、且可能存在“词汇一静态”的无意识捆绑等方面的综合因素可能共同导致了威胁信息不足以维持PTSD个体捕获刺激后的持续性注意。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5展望 ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "相比行为反应时研究，眼动追踪技术的优势在于可以实时监控PTSD个体加工威胁刺激时的时间进程，一方面可以深入了解不同创伤事件类型引发的PTSD个体的注意特征，另一方面可以验证如警戒一回避模型等注意偏向阶段理论。从现象考察到理论构建确实更加全面地考察了该类情感障碍的注意偏向加工机制。然而，研究者是否可以最大限度的发挥眼动技术的优势，从眼动机制的角度出发，从多个维度构建PTSD个体独特的注意偏向眼动模式和相应的眼动模型，仍然值得探讨。比如，从年龄维度来说，遭遇相同经历所造成的美国儿童青少年PTSD比率要高于美国成人（庞焯月等,2017），并且相比PTSD成人，PTSD儿童会表现出较多的警觉性过高、反复闯入的创伤性回忆等症状（Thienkrma et al.,2006）。此外，儿童青少年眼动生理体系的不成熟可能会导致更多的局限性或不一致的眼动行为。这两方面的差异叠加可能导致不同PTSD群体的注意偏向眼动模式产生异质性。因此，研究者有必要从年龄层面构建相应的注意偏向眼动模式以及理论模型，并随后对多个维度构建的眼动模式和眼动理论模型进行整合，不仅可以提供一种新的理解PTSD 威胁注意偏向机制的视角，也可以扩展、补充已有的PTSD注意偏向模型。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "在充分利用眼动技术考察PTSD注意偏向的同时，也有研究者质疑了眼动指标的可靠信。Sears 等人（2019）采用自由观看范式并以被试对威胁、悲伤和积极的面孔的注视时间和注视点个数为指标时发现其内部一致性较好。然而，当研究者以6个月为重测时间，将8s的呈现时间分割为4个2s间隔时发现，对以上所有类型面孔在0\\~2s内的注视时间信度（克隆巴赫 $\\mathfrak { a }$ 和分半信度）都较低。Skinner等人（2018）也发现，早期注意偏向指标的可靠性较低。因此，Sears等人（2019）认为，利用眼动指标考察注意偏向时，应该谨慎解释任务早期时间间隔内的数据。这其实从侧面反映出借助单一方法考察问题时具有一定的局限性。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为了打破这种困境，整合多种类型指标的结果成为了一种可靠又必要的方式，比如生理指标、脑电指标等。Felmingham等人（2011）采用眼动技术的同时以皮肤电为因变量时发现，相比创伤控制组，PTSD组首次看向创伤威胁刺激时的皮肤电增幅更大，表明自主神经反应性与PTSD 的注意偏向同时发生，证实了PTSD个体对威胁刺激的注意偏向与自主唤醒有关。此外，眼动和脑电技术的结合可以从反应时与电生理两方面考察注意偏向的时间进程，两种指标的互补更能揭示该机制的发生过程。当然，脑功能区域的结构也对创伤后应激反应和相关障碍的发生起到了重要的作用，如前额叶、杏仁核、海马等（王超逸等，2015）。结合空间分辨率较高的功能性磁共振技术以及眼动技术，从眼动现象到大脑区域的激活结合时空维度对PTSD注意偏向反应进行深入的考察。总之，多种指标和技术的结合不仅可以从更多方面的角度探讨PTSD注意偏向机制，也会成为一种研究趋势。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "韩玉昌,杨文兵,隋雷.(2003).图画与中、英文词识别加工的眼动研究.心理科学,26(3),21-24.庞焯月,席居哲,左志宏,(2017).儿童青少年创伤后应激障碍(PTSD)治疗的研究热点—一基于美国文献的知",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "识图谱分析.心理科学进展,25(7),1182-1196.   \n闫国利,熊建萍,臧传丽,余莉莉,崔磊，白学军.(2013).阅读研究中的主要眼动指标评述.心理科学进展， 21(4),589-605.   \n颜志强,王福兴,苏彦捷.(2016).疼痛面孔注意加工中共情的作用—一来自眼动的证据.心理科学,39(3), 573-579.   \n王超逸,高博,杨庆雄,李勇辉,(2015).创伤后应激障碍中的非适应性泛化现象.心理科学进展,23(2),252- 260.   \n王红波,朱湘茹.(2016).调控去甲肾上腺素能系统对防治创伤后应激障碍的影响.心理科学进展,24(6),923- 933.   \n杨晓梦，王福兴,王燕青,赵婷婷,高春颍,胡祥恩,(2020),瞳孔是心灵的窗口吗？一—瞳孔在心理学研究中 的应用及测量，心理科学进展,28(7),1029-1041.   \n张智君,张序堃，张振昊,(2015).动态和静态注视线索对注意转移的影响:运动线索的作用，应用心理学, 21(3), 195–202.   \nAmerican Psychiatric Association. (2013).Diagnostic and Statistical Manual of Mental Disorders (5th ed.). Arlington, VA: American Psychiatric Association.   \nArmstrong,T., Bilsky， S.A., Zhao,M.，& Olatunji,B.O. (2013).Dweling on potential threat cues: An eye movement marker for combat-related PTSD. Depression and Anxiety, 30(5), 497-502.   \nArmstrong,T.,& Olatunji,B. O.(2012).Eye tracking of atention in the affective disorders: A meta-analytic review and synthesis. Clinical Psychology Review, 32(8),704-723.   \nAupperle,R.L., Melrose,A. J., Stein, M.B.,& Paulus,M. P. (2012). Executive function and PTSD: Disengaging from trauma. Neuropharmacology, 62(2), 686-694.   \nBardeen,J.R.，& Daniel,T.A.. (2017).A longitudinal examination of the role of atentional control in the relationship between postraumatic stress and threat-related atentional bias: An eye-tracking study. Behaviour Research and Therapy,99,67-77.   \nBarden,J.R,Tull,M.T.,Daniel,T.A.,Evenden,J.,& Stevens,E.N. (2016).A preliminary investigationofthe time course of atention bias variability in posttraumatic stress disorder: The moderating role of attentional control. Behaviour Change,33(2), 94-111.   \nBishop,S. J. (2o09). Trait anxiety and impoverished prefrontal control of attention.Nature Neuroscience,12(1), 92-98.   \nBryant,R.A.,Harvey,A.G.,Harvey,E.,& Barry,R.J.(1995).Eye movement and electrodermal responses to threat stimuli in post-traumatic stress disorder. International Journal of Psychophysiology,20(3),209-213.   \nCascardi, M.,Armstrong,D., Chung,L.,&Pare,D. (2015). Pupil response to threat in trauma-exposed individuals with or without PTSD. Journal of Traumatic Stress,28(4),370-374.   \nFani,N.,Jovanovic,T.,ElyT.D.,Bradley,B.,Gutman,D.,Tone,E.B.,&Resser,K.J.(2O2).Neuralcorrelats of attention bias to threat in post-traumatic stress disorder. Biological Psychology,90(2),134-142.   \nFelmingham, K.L., Rennie, C., Manor, B.,& Bryant,R.A. (2011). Eye tracking and physiological reactivity to threatening stimuli in posttraumatic stress disorder. Journal of Anxiety Disorders, 25(5), 668-673.   \nFox,E.,Russo,R.,Bowles,R.J.,& Dutton,K.(2O01).Do threatening stimuli draw or hold visual atentionin subclinical anxiety.Journal ofExperimental Psychology: General,130(4),681-700.   \nGindt,M.,Nachon,O., Chanquoy,L.,Faure,S.,& Garcia,R.(20l7).Attentional bias in post-traumatic stress symptoms or anxiety. European Journal of Trauma and Dissociation,1(3),159-164.   \nHayes,J.P., Vanelzakker,M.B.,& Shin,L. M. (20l2). Emotion and cognition interactions in PTSD: Areview of neurocognitive and neuroimaging studies. Frontiers in Integrative Neuroscience, 6, 89.   \nHerzog J. I., Niedtfeld 1., Rausch S., Thome J.,Mueler-Engelmann M.,SteilR.,Priebe K.,Bohus,M.,& Schmahl C., (2017). Increased recruitment of cognitive control in the presence of traumatic stimuli in complex PTSD. European Archives of Psychiatry and Clinical Neuroscience. 269(2),147-159.   \nHindash,A. H.C.,Lujan, C., Howard, M.,& O'Donovan,A. (2019). Gender differences in threat biases: Trauma type matters in postraumatic stress disorder. Journal of Traumatic Stress,32(5),701-711.   \nIacoviello,B.M., Wu,G.,Abend,R.,Murrough,J.W.,Feder,A.,FruchterE.,LevinsteinY., Wald1.,BaileyC.R., Pine D.S.,Neumeister A.,Bar-Haim Y.,& Charney D.S. (2014). Atention bias variability and symptoms of postraumatic stress disorder. Journal of Traumatic Stress,27(2),232-239.   \nIn-Albon,T.,& Schneider,S. (2010). Using eye tracking methodology in children with anxiety disorders. In J. A. Hadwin &A.P.Field (Eds.),Information procesing biases andanxiety: Adevelopmental perspective(pp. 129-149). Chichester,UK: John Wiley & Sons Ltd.   \nJoyal,M.,Wensing,T.,Levasseur-Moreau,J.,Leblond,J.,T.Sack,A.,&Fecteau,S. (2019). Characterizing emotional Stroop interference in postraumatic stress disorder, major depression and anxiety disorders: A systematic review and meta-analysis. PLOS ONE,14(4), e0214998.   \nKimble,M. O.,Fleming,K., Bandy, C.,Kim,J.,& Zambeti, A. (2010).Eye trackingand visual attention to threating stimuli in veterans of the Iraq War. Journal ofAnxiety Disorders,24(3),293-299.   \nKrystalJ.H.,Davisd,L.L.,Neylan,T.C.,askindj,.A.,Schnurrl,P.P.,Steinh,.B.,Vessicchiob,J.,r, B.,Gleasona,T.D.,& Huangn,G.D.(2017).It is time to address the crisis in the pharmacotherapy of postraumatic stress disorder: A consensus statement of the PTSD psychopharmacology working group. Biological Psychiatry. 82(7), e51-e59   \nLazarov,A.,Abend,R.,& Yair,B.H. (2016). Social anxiety is related to increased dwelltime onsocially threatening faces.Journal of Affective Disorders,193,282-288.   \nLazarov,A.， Pine,D. S.，& Bar-Haim, Y. (2017). Gaze-contingent music reward therapy for social anxiety disorder: A randomized controlled trial. American Journal of Psychiatry, 174(7), 649-656.   \nLazarov,A., Suarez-Jimenez,B.,Tamman,A.,Falzon,L., Zhu,X.,Edmondson,D.E.，& Neria,Y.(2018) Attention to threat in posttraumatic stress disorder as indexed by eye-tracking indices: A systematic review.   \nLee,J.H.,&Lee,J.H. (2O12).Attntional bias to violent images in survivors of dating violence. Cognition and Emotion,26(6),1124-1133.   \nLee,J.H.,& Lee,J. H. (2014). Attentional bias towards emotional facial expressions in survivors of dating violence. Cognition and Emotion,28(6),1127-1136.   \nLeskin,L. P.,& White, P.M. (2o07). Atentional networks reveal executive function deficits in postraumatic stress disorder. Neuropsychology,21(3),275-284.   \nMacleod,C., Mathews, A.，& Tata,P. (1986). Atentional bias in emotional disorders. Journal of Abnormal Psychology,95(1),15-20.   \nNaim,R.,Abend,R.,Wald,1,Eldar.S.,Levi,O.,Fruchter,E.,Ginat,K.,Halper,P.,Sipos,M.L.,Adler,A.B, Bliese,P.D.,Quartana,P.J.,Pine,D.S.,& Bar-Haim,Y.(O15).Threat-related atention bias variability and postraumatic stress. American Journal of Psychiatry, 172(12), 1242-1250.   \nPrice,R. B., Greven,I. M., Siegle, G.J., Koster,E. H. W.,& De Raedt,R. (2016).A novel atention training paradigm based on operant conditioning of eye gaze: Preliminary findings. Emotion,16(1),110-116.   \nSarapas，C.，Weinberg,A., Langenecker,S.A.，& Shankman,S.A. (2O17).Relationships among attention networks and physiological responding to threat. Brain and Cognition,1l1, 63-72.   \nSears,C., Quigley,L.,Fernandez,A., Newman,K.,& Dobson,K. (2o19).The reliabilityof atentionalbiases for emotional images measured using a free-viewing eye-tracking paradigm. Behavior Research Methods, 51(6), 2748-2760.   \nSergerie,K., Chochol, C.,& Armony, J.L. (2008). The role of the amygdala in emotional procesing: A quantitative meta-analysis of functional neuroimaging studies. Neuroscience and Biobehavioral Reviews, 32(4), 811-830.   \nSheppes,G.,Luria,R.,Fukuda,K.,& Gros,J.J. (2013).There's more toanxiety than meets the eye: Isolating threat-related attentional engagement and disengagement biases. Emotion,13(3),520-528.   \nSkiner, I. W.,Hubscher,M.,Moseley, G.L.,Lee,H., Wand,B.M., Traeger,A.C.,..& McAuley, J.H. (2018). Thereliabilityof eyetracking to assess atentional bias to threatening words in healthy individuals. Behavior Research Methods,50(5),1778-1792.   \nSwick,D.,& Ashley,V. (2o17).Enhanced atentionalbias variability in post-traumatic stressdisorderand its relationship to more general impairments in cognitive control. Scientific Reports,7(1),14559.   \nThienkrua, W., Cardozo,B.L.,Chakkraband,M.S., Guadamuz,T.E., Pengjuntr,W.,Tantipiwatanaskul,P.,..& Tappero, J. W. (2oo6). Symptoms of postraumatic stress disorder and depression among children in tsunamiaffected areas in southern Thailand.JAMA,296(5), 549-559.   \nThomas,C.L., Goegan,L.D.,Newman,K.R.,Arndt,J.E.,& Sears,C.R. (2013).Atention to threat images in individuals with clinical and subthreshold symptoms of post-traumatic stress disorder. Journal of Anxiety Disorders,27(5),447-455.   \nWeierich,M.R.， Treat,T.A.，& Holingworth,A.(2008).Theories and measurement of visual atentional processing in anxiety. Cognition and Emotion,22(6),985-1018.   \nWiliams J. M. G.， Mathews A，& MacLeod C.(1996).The emotional Stroop task and psychopathology. Psychological Bulletin,120(1),3-24.   \nWilliams,J.M.G.，Wats,F.N.,MacLeod, C.，& Mathews,A.(1997). Cognitive psychology and emotional disorders (2nd ed.). Chicester: Wiley.   \nYuval,K., Zviell, A.,& Bernstein,A. (2016). Atentional bias dynamics and postraumatic stress in survivorsof violent conflict and atrocities. Clinical Psychological Science,5(1), 64-73. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The eye movement study of attentional bias towards threat in posttraumatic stress disorder ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Bai $\\mathrm { Y u } ^ { 1 }$ , Yang Haibo2,3 ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(FacultyofolojnlUivsityin,i)enerofollbratieovtiofort andPromotionofMentalHealth,Tianjin3oo74,China)(KeyResearchBaseofHumanitiesandSocialSciencesoftheMinistryof Education,AcademyofPsychologyandBehavior,TianjinNormal University,Tianjin3oo074,China) ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Attentional bias towards threat is a common phenomenon in Postraumatic Stress Disorder (PTSD) individuals. A number of studies have investigated the processing characteristics and internal mechanisms of attentional bias by using eye-movement technology. Results are inconsistent about components of attentional bias, but still provide evidences for different models, such as vigilance-avoidance model and attentional maintenance model. Based on eye-movement patterns from different dimensions, the future studies should pay attention to the model building and integration while recording the eye movements of PTSD individuals. Furthermore,researchers could combine multiple technologies to investigate the threat attention bias mechanism of PTSD individuals from a multimodal perspective. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: Posttraumatic Stress Disorder, attentional bias, eye-movement ",
+        "page_idx": 15
+    }
+]

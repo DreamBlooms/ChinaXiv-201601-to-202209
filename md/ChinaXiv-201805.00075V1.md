@@ -1,0 +1,159 @@
+DOI:10.11931/guihaia.gxzw201803038
+
+# 我国蓝草的传统植物学知识研究
+
+张俪斌1,2，王趁」，李姗‘，王雨华1\*
+
+（1.中国科学院昆明植物研究所资源植物与生物技术重点实验室云南省野生资源植物研发重点实验室，云南 昆明650201；2.中国科学院大学，北京100049）
+
+摘要：蓝草在我国历史上曾是重要的经济作物，蓝草制备的植物靛蓝具有抗菌消炎和抗紫外线等保健作用，然而在合成靛蓝商业化的冲击下，蓝草制靛技艺几乎消亡。近年来，伴随着人们对环保和生物多样性的关注，植物靛蓝需求量不断增加，对蓝草的研究也越来越受关注。在文献研究的基础上，简要介绍了我国民间利用的蓝草种类及分布，对我国蓝草制靛工艺的发展进行了梳理，并重点阐述了制靛工艺原理和工艺传承现状，最后对存在的问题进行了讨论。分析认为：文献记载的我国蓝草共11种，分属于6科6属，现利用的蓝草仅5种；我国蓝草制靛工艺从浸揉染色法发展为固态发酵制蓝法和液态发酵制靛法，只有液态发酵制靛法沿用至今；制靛工艺是将蓝草中的前体物质转化为靛蓝并伴有靛玉红等副产物生成的过程，影响靛蓝纯度的因素包括蓝草材料的选择、温度、浸泡时间、pH值、溶氧量等。目前我国蓝草的研究已取得了一些成果，但在蓝草种类的古籍考证、蓝草种质资源的挖掘以及蓝草传统制靛工艺的还原和再现等方面仍有待进一步研究。
+
+关键词：蓝草，植物靛蓝，制靛工艺，工艺原理，靛蓝
+
+文献标识码：A
+
+# Traditional Botanical Knowledge of Chinese Indigo Plants
+
+ZHANG Libin1,2, WANG Chen1, LI Shan1, WANG Yuhual 1\* (1. Key Laboratory of Economic Plants and Biotechnology, Yunnan Key Laboratory for Wild Plani
+
+Resources, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming 650201,China; 2
+
+University of Chinese Academy of Sciences, Beijing 1OoO49, China)
+
+Abstract: Natural indigo dyes are one of the oldest natural dyes in the world and have been used since the ancient periods.The plants used for fermenting natural indigo dyes are called indigo plants. Indigo plants once were important economic crops historically in China. Natural indigo dyes derived from indigo plants are believed to be safe because of their non-toxic, non-carcinogenic, non-allergenic and biodegradable nature.Further, natural indigo dyes do not cause pollution and waste water problems and represent a more environmental friendly alternative to synthetic indigo dyes.However, natural indigo dyes was struggling to disappear because of the commercialization of the synthetic indigo in the twentieth century. Synthetic indigo dyes are cheaper and more pure than natural indigo dyes but do harm to the environment. Recent years， global awareness for pollution mitigation ensuing from synthetic colorants has resumed interests for utilization and production of natural dyes. The continuously demand for natural indigo increasingly drew researchers attention in the study of indigo plants.Based on literature research, we briefly introduce the species and distribution areas of indigo plants used in China,comb the development of China's traditional folk-indigo manufacturing process. We focus on the chemical pigments formation of indigo process and the present situation of process inheritance in China.Finally,we discussed the problems that exist.The results are as following: while 11pecious of indigo plants used in China, which belongs to 6 families and 6 genera,there are only 5 specious stillin use by now; China's traditional folk-indigo manufacturing process has been evolved from direct dip dyeing method into solid and liquid fermentation methods.However,only liquid fermentation method survives nowadays.The pigments of indigo and indirubin are formed when the precursors of indigo plants undergo a serious of chemical reactions during the indigo process. The selection of indigo plants, temperature, fermentation duration, $\mathrm { \ p H }$ and dissolved oxygen concentration are directly or indirectly related to indigo yield. Although the research of indigo plants has made some progress，the botanical provenance of historical indigo plants， the identification of germplasm resources and the reconstruction of the traditional folk-indigo manufacturing process need further studying.
+
+Key words: Indigo plants, Natural indigo, China's traditional folk-indigo manufacturing process,
+
+Chemical pigments formation of indigo process, indigo
+
+蓝草是指用于制备植物靛蓝(Natural indigo)的植物总称，又称靛蓝植物（Indigo plant），古籍称为“蓝”(李维贤和陈卫华，2013)。蓝草在我国拥有着悠久的历史，蓝草所制植物靛蓝质优价廉、健康环保且染色效果优良，在传统染色中占有着重要地位，体现了我国古代独特的“尚青”文化，同时蓝草具有明显的药用价值，可炮制成中药青黛，具有清热解毒，凉血，抗肿瘤之功效(刘宗林和刘圣，1997)。然而在合成靛蓝商业化的冲击下，蓝草制靛技艺几乎消亡。近年来，随着人们环保意识和文化遗产保护意识的提高，蓝草制备的植物靛蓝需求量不断增加，对蓝草的研究也越来越受关注。
+
+目前蓝草的研究集中在古籍蓝染植物的考证(赵丰，1987；戴卫波和梅全喜，2016)；蓝草转化为植物靛蓝机制的探讨(杨明等，2010)；蓝草制靛工艺的优化(Purmama et al,2017)；蓝草制靛工艺现状与传承情况(占达东等，2013；王微和叶亚军，2017)。以蓝草为研究对象的文献，偏重于文献分析和实验室研究，野外调查相对较少，且野外调查仅在云南、贵州等7个省区。本文简要介绍了文献记载的我国蓝草的种类及分布，对蓝草制靛工艺的发展进行梳理，并重点阐述了蓝草利用的研究进展，最后对存在的问题进行讨论。
+
+# 1.我国蓝草的种类
+
+我国蓝草的记载最早可见于夏朝的《大戴礼记·夏小正》：“五月，启灌蓝蓼”，周代以后的文献就非常多了(张海超和曹津永，2015)。蓝草的根可制成中药板蓝根，果即中药蓝实，蓝草制靛的浮沫即中药青黛，均有杀菌消炎和清热解毒的药用功效(吴佩颖和王景敏，1996)，因此，古籍对蓝草的记载多见于历代“本草”中。唐代苏敬的《新修本草》列出“蓝实有三种”，分别是木蓝、菘蓝和蓼蓝；宋代苏颂的《本草图经》列出“按蓝有数种”，木蓝、菘蓝、蓼蓝、马蓝和吴蓝五种；明代李时珍的《本草纲目》“蓝凡五种”则列出了木诸蓝、菘蓝、蓼蓝、马蓝和吴蓝五种；明代宋应星在《天工开物》上也列出五种蓝，分别是茶蓝、蓼蓝、马蓝、吴蓝和苋蓝(榕嘉，1990)。
+
+关于古籍所载蓝草究竟是哪种植物，赵丰(1987)对《天工开物》染料植物进行考辨，指出茶蓝即菘蓝(Isatis indigotica），蓼蓝即蓼蓝(Polygonumtinctorium），马蓝即板蓝(Strobilanthes cusia)，吴蓝即木蓝(Indogofera tinctoria)，而苋蓝有待考证。尔后李维贤等(2013)对明至民国时期 50部地方志进行系统分析，Han Jing(2015)对明清时期4篇历史文献做跨学科研究结果都是赵丰所考证的 4种植物，李姗(2017)对 73本蓝染植物古籍整理分析除以上4种植物外，增加了野青树(Indigofera suffruticosa）。
+
+此外，《中国植物志》上还记载了6种可做蓝色染料的植物：夹竹桃科的蓝树(Wrightialaevis)（中国科学院中国植物志委员会，1977a）；萝蘑科的蓝叶藤(Marsdenia tinctoria var.
+
+tinctoria)、绒毛蓝叶藤(Marsdenia tinctoriavar.tomentosa)（中国科学院中国植物志委员会，1977b)、海南牛奶菜(Marsdenia hainansis var.hainansis)、翅叶牛奶菜(Marsdenia hainansis var.alata)(中国科学院中国植物志委员会，1977c)和假大青蓝(Indigofera galegoides）(中国科学院中国植物志委员会，1994)。将以上蓝草种类及分布范围整理成表1我国蓝草种类及分布，由表可知，文献记载的我国蓝草有11种，分属于6科6属。
+
+表1我国蓝草种类及分布
+
+Table 1 The species and distribution areas of indigo plants used in China   
+
+<html><body><table><tr><td>科名 Family</td><td>中文名 Chinese name</td><td>植物学名 Species</td><td>分布 Distribution</td></tr><tr><td>爵床科 Acanthaceae</td><td>板蓝 Ban lan</td><td>Strobilanthes cusia</td><td>我国中部、南部和西南部; 孟加拉国、印度北部、缅甸 等均有分布 Central, southern and southwestern China.Bangladesh，Northern India and Myanmar, etc.</td></tr><tr><td>夹竹桃科 Apocynaceae</td><td>蓝树 Lan shu</td><td>Wrightia laevis</td><td>广东、海南和云南等省区； 印度、缅甸、澳大利亚等也 有分布 Guangdong,Hainan and Yunnan,etc; India, Myanmar and Australia,etc.</td></tr><tr><td>萝藦科 Asclepiadaceae Lan ye teng</td><td>蓝叶藤</td><td>Marsdenia tinctoria var. tinctoria</td><td>西藏、四川和台湾等省区。 斯里兰卡、印度和缅甸等均 有分布 Xizang,Sichuan and Taiwan, etc; Sri Lanka, India and Myanmar,etc.</td></tr><tr><td>萝藦科 Asclepiadaceae</td><td>绒毛蓝叶 藤 Rong mao lan ye teng</td><td>Marsdenia tinctoria var. tomentosa</td><td>台湾、广西、云南和四川等 省区 Taiwan, Guangxi, Yunnan and Sichuan, etc.</td></tr><tr><td>萝藦科 Asclepiadaceae</td><td>海南牛奶 菜 Hai nan niu nai cai</td><td>Marsdenia hainansis var. hainansis</td><td>广东和海南特产 Specialties in Guangdong and Hainan</td></tr><tr><td>萝藦科 Asclepiadaceae</td><td>翅叶牛奶 菜 Chi ye niu nai cai</td><td>Marsdenia hainansis var. alata</td><td>广东和海南 Guangdong and Hainan</td></tr></table></body></html>
+
+<html><body><table><tr><td rowspan="2">十字花科 Cruciferae</td><td rowspan="2">菘蓝 Song lan</td><td colspan="2">原产我国，全国各地均有栽</td></tr><tr><td>Isatis indigotica</td><td>培 Native to China, cultivated all over the country</td></tr><tr><td>豆科 Leguminosae</td><td>木蓝 Mu lan</td><td>Indigofera tinctoria</td><td>安徽、台湾，海南有栽培; 广泛分布亚洲、非洲热带地 区，并引进热带美洲 Cultivated in Anhui, Taiwan and Hainan province;Widely distributed in Asia, tropical regions of Africa,and introduction of tropical</td></tr><tr><td>豆科 Leguminosae</td><td>野青树 Ye qing shu</td><td>Indigofera suffruticosa</td><td>江苏、浙江和云南等有栽 培；原产热带美洲，现广布 于世界热带地区 Jiangsu, Zhejiang and Yunnan have been cultivated; Native to tropical America, now widely distributed in tropical regions of the world</td></tr><tr><td>豆科 Leguminosae</td><td>假大青蓝 Jia da qing lan</td><td>Indigofera galegoides</td><td>产台湾、广东和海南等省 区；印度、泰国和印度尼西 亚等也有分布 Taiwan, Guangdong and Hainan, etc; India, Thailand and Indonesia, etc.</td></tr><tr><td>蓼科 Polygonaceae</td><td>蓼蓝 Liao lan</td><td>Polygonum tinctorium</td><td>我国南北各省区有栽培或为 半野生状态 There are cultivated or semi- wild in the provinces of north and south of China</td></tr></table></body></html>
+
+# 2.蓝草制靛工艺的发展
+
+我国传统制靛工艺是一个不断完善的过程，秦汉之前主要以浸揉染色技术为主，固态发酵制蓝法始于东汉，明朝以后逐渐被液态发酵制靛法取代，而液态发酵法最早详记于北魏贾思勰的《齐民要术》，一直沿用至今。
+
+浸揉染色法是将蓝草鲜叶与织物一起揉搓，或先将蓝汁揉出，辅以草木灰助染，与织物一起浸泡(张华玲，2010)。因浸揉染色受蓝草的产地和采收时期限制，古人在长期实践中发明了先将蓝草通过发酵等一系列传统工艺制成植物靛蓝，再将植物靛蓝还原上染织物的方法，打破了时间和空间的限制。根据所制植物靛蓝的形态，可将制靛工艺分为固态发酵制蓝法和液态发酵制靛法。
+
+固态发酵制蓝法的工艺流程为：“草出后，将其叶铺在地板上，渍之以水，使起酵发热，待至干燥，上下搅和，又渍水发酵，如是多次，至酵全息，则成暗青黑色，谓之蓝靛”（李姗，2017)。从东汉到隋蓼蓝都用这种方法制靛并以固态形式保存，此法发酵出来的蓝色染料古人称为“蓝丸”，隋代古籍《玉烛宝典》、唐代《初学记》和宋代《太平御览》都有类似的记载。明代以后，蓼蓝使用液态发酵来制靛的方法才逐渐普及(张海超和张轩萌，2015)。而在日本，固态发酵制蓝法仍在使用(Chavan,2015)。
+
+《齐民要术》是第一部详细记载液态发酵制靛法的古籍，工艺流程为：“刈蓝倒竖于坑中，下水，以木石镇压，令没。热时一宿、冷时再宿，漉去荄，内汁于瓮中。率十石瓮，著石灰一石五升，急抨之，一食倾之。澄清，泻去水。别作小坑，贮蓝淀著坑中。候如强粥，还出瓮中盛之，蓝淀成矣”（余强，2013)。明代宋应星的《天工开物》记载的也是此种方法，区别在于浸泡时间延长和石灰用量增加了。液态发酵制成的植物靛蓝因其“候如强粥”，又被称为“靛泥、土靛、蓝靛膏”。明代中后期，蓝色逐渐成为“国民色”，蓝草成为重要的经济作物，植物靛蓝的生产发展为一项独立的手工业。然而到了清末民国，受国外合成染料的市场冲击，民间种蓝制靛的繁荣景象逐步衰退(刘一萍等，2014)，目前传统制靛工艺也只有部分少数民族地区沿用。
+
+# 3.蓝草利用的研究现状
+
+# 3.1蓝草制靛的工艺原理
+
+# 3.1.1前体物质的转化机制
+
+制靛工艺是将蓝草中的前体物质转化为靛蓝(indigo)并伴有靛玉红(indirubin)等副产物生成的过程。前体物质的研究始于19 世纪，大多数蓝草（如蓼蓝、木蓝和板蓝等）的前体物质仅为靛苷 (a)，而菘蓝中除靛苷外还含靛红烷B(b)，也称菘蓝苷，前体物质是可溶于水的无色透明化合物，因此从蓝草的汁液中看不到任何蓝色的痕迹(Mohd& Shahid,2017)。
+
+制靛时前体物质靛苷在内源酶作用下、靛红烷B在酸或碱性条件下，水解为葡萄糖和吲哚酚(c)，靛蓝(d)的生成是在碱性条件和氧气的作用下两分子的吲哚酚缩合而成；在富氧环境下吲哚酚还与靛红(e)自发反应，生成副产物靛玉红(f)（图1）（杨明等，2010)。在实际制靛过程中，一旦前体物质被水解，副反应的发生不可避免，制成的植物靛蓝除主要色素成分靛蓝外，还含有靛玉红、异靛玉红及靛棕等色素，靛玉红约占总色素的 $5 \% - 2 0 \%$ ，其抗氧化性强于靛蓝(刘健等，2014)。因此，靛玉红也被作为鉴别织物是植物靛蓝染制还是合成靛蓝染制的指标之一。
+
+![](images/c8f8a86ae10bf55be61513f56425fdbafb6b5ab62662dc655aec2bdf723616bf.jpg)
+
+# 3.1.2影响靛蓝含量的因素
+
+植物靛蓝长期以来一直应用于民族服装和手工纺织品，因其纯度和质量难以实现标准化而无法像合成靛蓝一样大规模推广。影响靛蓝纯度的因素包括蓝草材料的选择、温度、浸泡时间、pH 值、溶氧量等(Dutta et al,2017)。
+
+# (1）材料选择
+
+Kokubun etal(1998)研究发现菘蓝的前体物质在嫩叶和老叶中的含量分别是干重比例的 $24 \%$ 和 $14 \%$ ，且同一叶片不同部位的含量差异不显著；YoshikoMinami等(2000)确定了蓼蓝的前体物质靛苷仅存在于新鲜叶片的液泡中，成熟植株中嫩叶比老叶含量高，这就解释了我国传统制靛为何使用新鲜蓝草地上部分而不用根部。菘蓝中的靛苷在4月时就能被检测到(Minami et al,2000)，且靛苷和靛红烷B的含量在6-9月有上升的趋势(Oberthur etal,2004)，这些研究结果便对古代“七月刈身造淀” (赵丰，1987)的采收时间做出了合理的解释。故适时采收前体物质含量较高，靛蓝的产量也就越高。
+
+# (2)温度
+
+前体物质靛苷是稳定的，而靛红烷B 在 $4 0 ^ { \circ } \mathrm { C }$ 的常规干燥处理后就会消失(Oberthuret al,2004)，Purnamaetal(2017)对木蓝制靛的预处理效应进行分析后得出 $3 0 ^ { \circ } \mathrm { C }$ 的冷水浸泡处理获得的靛蓝产量最高，超过 $4 8 ^ { \circ } \mathrm { C }$ 微生物便失活。这进一步验证了传统制靛直接使用鲜叶用冷水浸泡来提高靛蓝含量的科学性。
+
+# (3)浸泡时间
+
+靛苷属于苷类，在内源酶的作用下水解成吲哚，因此蓼蓝可直接搓染浸揉织物；菘蓝中的靛红烷B属于脂类，需在碱性条件下才能水解出吲哚酚，故《齐名要术》浸泡时间“热时一宿，冷时再宿”针对的是菘蓝，在如此短的时间内不加入微生物或其他营养物质，仅含靛苷的蓼蓝是无法生成靛的。因此《尔雅》和《唐本草》中所载的“蓼蓝不堪为淀”指的是短时间内发酵的方法对蓼蓝不适用，而非蓼蓝不能制靛(戴卫波和梅全喜，2016)。明代《天工开物》中“水浸七日”的发酵时间则兼顾了所有的蓝草(榕嘉，1991)。
+
+# (4)pH值和溶氧量
+
+由制靛原理可知，靛蓝的生产需碱性环境和氧气作用，我国民间常加入熟石灰、石灰粉和贝壳烧制的灰，主要化学成分是 $\mathrm { C a C O } _ { 3 }$ ，除创造碱性条件外，反应生成 $\mathrm { C a C O } _ { 3 }$ 沉淀能吸附悬浮的靛蓝，加快沉淀速度(榕嘉，1991)。加入石灰后需快速搅拌发酵液，民间称“打靛”，搅拌使发酵液与氧气反应生成靛蓝，若氧气过量反应朝着靛玉红方向，“快速”则在一定程度上控制了氧气浓度使反应向靛蓝方向进行。因此，古人已从实践经验中提示了pH 值和溶氧量是提高靛蓝纯度的关键结点了。
+
+# 3.2蓝草制靛工艺利用现状
+
+从野外调查类文献来看，目前我国蓝草传统制靛工艺仅在7个省有报道，制靛工艺都为液态发酵制靛法，包括浸泡、捞杂、加碱、打靛和静置五个步骤，不同地区浸泡时间和碱性物质种类及质量有所不同。用于制靛蓝草的种类分别是： $\textcircled{1}$ 贵州：板蓝、木蓝、蓼蓝、菘蓝(淳于步和李玲，2014)； $\textcircled{2}$ 云南：板蓝、木蓝、菘蓝、野青树(柴真真等，2017；李姗，2017)； $\textcircled{3}$ 浙江：板蓝(田青，2012；李雪艳，2015)； $\textcircled{4}$ 湖南：板蓝(刘光华等，2012)； $\textcircled{5}$ 广西：板蓝(苏仕林等，2013；何季玲，2015)； $\textcircled{6}$ 福建：板蓝(林可和林亦修，2015)； $\textcircled{7}$ 海南：木蓝（占达东等，2013)。其中，板蓝6个省都用于制靛，蓼蓝仅贵州为数不多的苗族村寨还在种植，野青树制靛的工艺仅云南省西双版纳地区有报道。
+
+另外，张国学(2007)在野外调查中发现观音草(Peristrophe baphica)和蓝叶藤(Marsdeniatinctoria)也可作为蓝色染料，当地用来染筷子和棉、麻线，但并未指出可用于制靛，故这两种植物是否为蓝草还需进一步验证。由于民间对蓝草称谓不一，部分文献并未严格按植物分类学将其所述植物鉴定、命名，便出现根据图片判断是板蓝而非文中所写的“该地种植的蓝草是蓼蓝”(张海超和张轩萌，2015)的情况。故目前我国蓝草的种质资源有待进一步全面系统地调查考证。
+
+# 4.存在的问题及讨论
+
+# 4.1蓝草的古籍考证
+
+对古代蓝草原植物的正确鉴别是文物染料化学鉴定和染色历史文献研究的重要基础。古籍称蓝草为“蓝”，蓝指代的内容从唐朝起便从特指染青色的草延伸到了泛指一切用于染色的草，这就造成了“蓝”的植物来源复杂(杨建军，2017)。对古籍所记载的蓝草进行原植物鉴别时，古人可指出“蓝凡五种”，现代学者也列出4-5 种蓝草，但如何将这些蓝草与不同地域以及不同经典中的习用名联系起来呢？历史文献中的蓝草多指一或两种甚至是其变种，存在同物异名的现象，缺少统一的命名规则及不同分类学体系之间的转换是蓝草源植物考证困难的主要原因。因此，蓝草种类的确定须忠实于原文，将不同时期的经典古籍结合地方志考证，兼顾我国古代植物分类和命名与现代植物系统学的差异。
+
+# 4.2蓝草制靛机制
+
+本文对菘蓝的前体物质转化机制针对的是Isatis indigotica这个种，又称中国菘蓝，而国外所用蓝草欧洲菘蓝(I.tinctoria)的前体物质除靛苷和靛红烷B外，还有靛红烷A(isatanA)和靛红烷C(isatan C)(Oberthur et al,2004; Maugard et al,2001)，Gilbert et al(2015)的研究确定中国菘蓝和欧洲菘蓝都含有靛红烷 B，Oberthur et al(2015)在中国菘蓝中也检测到了靛红烷C，但目前尚无研究表明中国菘蓝与欧洲菘蓝转化为靛的机制相同，故本文未对靛红烷A和靛红烷C的转化机制进行探讨。历史上，我国曾从日本京都引种栽培欧洲菘蓝(周正等，1994)，因此民间使用的菘蓝是否两个种都有涉及、两个种转化为靛的机制是否相同还有待进一步研究。
+
+# 4.3蓝草制靛工艺的优化
+
+对蓝草制靛工艺的优化即提高所制靛中靛蓝的纯度，目前的研究多从靛蓝产量的影响因素出发，但不同研究得到的结果却各不相同。如莫安飞等(2015)的研究表明最佳制靛工艺为：鲜叶与水比例是1:10， $3 0 ^ { \circ } \mathrm { C }$ 下浸泡 $3 6 \mathrm { ~ h ~ }$ ，浸泡液pH值为4.0，而Dutta etal(2017)实验结果却是鲜叶与水比例是1:10， $4 0 ~ ^ { \circ } \mathrm { C }$ 下浸泡 $1 2 \mathrm { ~ h ~ }$ 就可获得最高的靛蓝产量。由此看来，只从方法上改进难以实现标准化和规范化，必须深入民间开展传统制靛工艺调查，全面记录我国民间传统制靛工艺，找出关键控制结点和控制条件，进而还原和再现传统蓝草制靛工艺，另外还需关注制靛过程中的微生物，为建立标准的传统植物靛蓝制备和质量控制工艺流程奠定基础。
+
+# 5.结语
+
+我国民间积累了丰富的蓝草传统植物学知识，蓝草制备的植物靛蓝具有不可替代的生物可降解性和环境相容性，符合当代绿色环保的追求，具有极大的市场潜力。我国蓝草种质资源的挖掘、蓝草传统制靛工艺的还原和再现对促进纺织印染产品向绿色、健康转型具有较强的现实价值，并对承续国家文化命脉、保持民族精神特质、增强民族文化自信有着至关重要的意义。
+
+# 参考文献
+
+CHAVAN R B 2015.3-Indigo dye and reduction techniques[J]. Denim. 37-67.   
+CHAI ZZ，WANG C，WANG YH. Field survey on the dye plants used by Dai people in Xishuangbanna[J].Guihaia，2017,37(1):56－63．[柴真真,王趁,王雨华 2017.西双版纳傣族 传统染料植物的调查研究[J].广西植物,37:56-63.]   
+Chinese Plant Science Committee of the Chinese Academy of Sciences1977. Flora Reipularis Popularis Sincae[M].Beijing:Science Press:125.[中国科学院中国植物志委员会，1994.中国植 物志（第四十卷）[M].北京：科学出版社:271.]   
+Chinese Plant Science Committee of the Chinese Academy of Sciences1977. Flora Reipularis Popularis Sincae[M].Beijing: Science Press:125.[中国科学院中国植物志委员会，1977.中国植 物志（第六十三卷）[M].北京：科学出版社:125.]   
+Chinese Plant Science Commitee of the Chinese Academy of Sciences1977.Flora Reipularis Popularis Sincae[M].Beijing: Science Press:125.[中国科学院中国植物志委员会，1977.中国植 物志（第六十三卷）[M].北京：科学出版社:444.]   
+Chinese Plant Science Committee of the Chinese Academy of Sciences1977. Flora Reipularis Popularis Sincae[M].Beijing: Science Press:125.[中国科学院中国植物志委员会，1977.中国植 物志（第六十三卷）[M].北京：科学出版社:457.]   
+CHUN YB,LI L 2O14. Investigation on the growth environment of the main dyeing_sources of Guizhou ethnic minors [J].J Kaili Univ,32(6):46-49.[淳于步,李玲 2014.贵州少数民族植物染 色主染源的生长环境调查[J].凯里学院学报,32(6):46-49.]   
+DAI WB,MEI QX 2016. Botanical provenance of Lan of Elbow Reserve Emergency[J]. J Chin Med Mat,39(8):1915-1916.[戴卫波,梅全喜 2016．《肘后备急方》蓝的考证[J].中药材,39(8):1915- 1916.]   
+DUTTA S,ROYCHOUDHARY S,SARANGI B K 2017. Effect of different physico-chemical parameters_for natural indigo production during fermentation of Indigofera plant biomass[J]. Biotech, 7(5): 322.   
+GILBERT K G, HILL D J, CRESPO C, et al. 2OO0. Qualitative analysis of indigo precursors from woad by HPLC and HPLC-MS[J]. Phytochem Anal, 11: 18-20.   
+HEI JL 2015. Study on the inheritance of indigo Yao dress culture in Fengshan mountain[D]. Guangxi: Guanxi University for Nationality:25-27.[何季玲 2015.凤山蓝靛瑶服饰文化传承研究[D].广西： 广西民族大学：25-27.]   
+KOKUBUN T, EDMONDS J, JOHN P 1998. Indoxyl derivatives in woad in relation to medieval indigo production[J]. Phytochemistry, 49: 79-87.   
+LI K,LIN YX 2015. Production and living customs of indigo planting, indigo dyeing and Jiaxie in south Zhejing[J].Art of Design,(5):115-120.[林可,林亦修 2015.浙南地区的种靛、染蓝、夹 生产生活习俗[J].山东工艺美术学院学报,(5):115-120.]   
+LI S 2017. Investigation and examination of traditional natural indigo in Yunnan[D]. Kunming: Kunming Institute of Botany,21-26.[李姗 2017.云南传统植物靛蓝的调查与考证[D].昆明：中 国科学院昆明植物研究所:21-26.]   
+LI WX, CHEN WH 2013. Indigo planting in Guangdong area during the period from Ming Dynasty to the Republic of China[J].Agric His China: 46-57.[李维贤,陈卫华2013.明至民国时期广东蓝靛 植物的种植状况[J].中国农史,46-57.]   
+LI XY 2O15.Fading skills- field survey on the technological survey of indigo plants and indigo production at Yandang mountain in Zhejiang[J].Art of Design,(3):75-81.[李雪艳 2015.渐渐消失 的技艺- -记浙江雁荡山蓝草种植与靛蓝制取的工艺性调研[J].山东工艺美术学院学报,(3): 75-81.]   
+LIU GH, SHE CW, ZENG HY,et al. 2012. Ethnobotanical research on the dyeing Dong cloth in Tongdao,Hunan province[J].Guihaia，2012,32(3):310-314.[刘光华,佘朝文，曾汉元,等.2012. 湖南通道染制侗布的民族植物学研究[J].广西植物,32(3):310-314.]   
+LIU J,LIU WF,YU ZC 2014. Identification of cotton fabrics dyed with natural and synthtic indigo[J]. Advan Tex Technol,22(3):49-51.[刘健，刘文凤，余志成 2014.天然靛蓝和合成靛蓝染色棉织 物的鉴别[J].现代纺织技术,22(3):49-51.]   
+LIU YP,LU M, WU DY 2014. Indigo dyeing history and its development[J]. J Silk,51(11):67-72.[刘 -萍,卢明,吴大洋 2014.植物靛蓝染色历史及其发展[J].丝绸,51(11):67-72.]   
+LIU ZL,LIU S 1997. The pharmacological action and clinical application of Qingdai[J]. J Anhui TCMColl,16(2):58-59.[刘宗林,刘圣1997.青黛药理作用与临床应用[J].安徽中医药大学学报, 16(2):58-59.]   
+MAUGARD T, ENAUD E, CHOISY P,et al. 2001. Identification of an indigo precursor from leaves of Isatis tinctoria (Woad) [J]. Phytochemistry, 58: 897-904.   
+MINAMI Y，NISHIMURA O，HARA-NISHIMURA I， et al. 20O0.Tissue and intracelular localization of indican and the purification and characterization of indican synthase from indigo plants[J]. Plant & Cell Physiol, 41: 218-225.   
+MO AF, ZOU Y, LU YY, et al. 2015. Orthogonal design to optimize the process of plant Malan production[J].JKaili Univ,33(6):38-41.[莫安飞,邹勇,陆圆伊,等.2015.正交设计优化植物马 蓝制靛工艺[J].凯里学院学报,33(6):38-41.]   
+OBERTHuR C,GRAF H， HAMBURGER M 2O04. The content of indigo precursors in Isatis tinctoria leaves--a comparative study of selected accessions and post-harvest treatments[J]. Phytochemistry, 65: 3261-3268.   
+PURNAMA H, HIDAYATI N, SAFITRI D S, et al. 2017. Efect of initial treatment in the preparation of natural indigo dye from Indigofera tinctoria[C] // International Conference on Green Process. AIP Publish LLC:1855(1):284-291.   
+RONG J1990.Ancient Chinese indigo plants[J]. Jiangsu Silk,(5):29-31.[榕嘉 1990.我国古代的制 靛之蓝[J].江苏丝绸,(5):29-31.]   
+RONG J 1991. Ancient Chinese indigo dyeing process principle analysis[J]. J Silk,(1): 45-48.[榕嘉 1991.[古代靛蓝染色工艺原理分析[J].丝绸,(1):45-48.]   
+SHAHID-UL-ISLAM 2017. 2-Natural dyes from indigoid-rich plants: an overview[M]. John Wiley & Sons, Inc.27-46.   
+SU SL,MA B, HUANG K, et al. 2013. Ethnobotany study on dye-yielding plants of Zhuang people in the Western Guangxi province[J]. Chin Agric Sci Bull, 29(11):203-207.[苏仕林,马博,黄珂,等. 2013.桂西壮族染色植物民族植物学研究[J].中国农学通报,29(11):203-207.]   
+TIAN Q 2O12. The regional characteristics and inheritance and development of Chinese Folk Indigo dying[C]// The 12th national_textile design competition_and international theory seminar. Beijing: 83-98.[田青 2012.论中国民间靛蓝染地域特色与传承发展[C]//第十二届全国纺织品设计大 赛暨国际理论研讨会.北京：83-98.]   
+WANG W, YE YJ 2017. Local ecological knowledge of indigo of Miao people[J]. J Hubei Univ Nat (Phil Soc Sci),35(3):82-86.[王微,叶亚军 2017.论施洞苗族蓝靛技艺中的地方性生态知识[J]. 湖北民族学院学报(哲学社会科学版),35(3):82-86.]   
+WU PY, WANG JM 1996. Botanical provenance of Daqingye, Banlangen and Qingdai[J]. J Shanghai Univ Trad Chin Med,10(1):50-51.[吴佩颖,王景敏 1996.大青叶、板蓝根和青黛的本草考证. 上海中医药大学学报,10(1):50-51.]   
+YANG M, LIU ZY, SU TT, et al. 2010. Study on mechanism of precursors transforming into indigo and indirubin in blue-genera plants[J]. China J Chin Materiamed,35(7): 928-931.[杨明,刘泽玉, 苏柘僮，等.2010.“蓝"类植物中的前体物质转化为"靛"的机制探讨[J]．中国中药杂志,35(7): 928-931.]   
+YANG JJ 2O17. Discrimination of the ancient dye name of safflower and safron name research[J]. J Silk,54(2):73-81.[杨建军 2017.染料红花古名辨析兼及番红花名称考[J].丝绸,54(2):73-81.]   
+YU Q 2013. Natural indigo comes from indigo plants,but is more blue than its color-ecological selection of natural indigo blue dyeing[J]. Nat Mus China J,(10): 115-117.[余强 2013.青,取之于 蓝而胜于蓝—植物蓝靛染色的生态性选择[J].中国美术馆,(10):115-117.]   
+ZHAN DD,WANG ZB, ZHOU NN,et al. 2013. Traditional natural indigo dye of Li people[J]. J Qiongzhou Univ,20(2):11-14.[占达东,王哲波，周娜娜,等.2013.黎族传统染料靛蓝[J].琼州 学院学报,20(2): 11-14.]   
+ZHANG GX 2Oo7. Ethnobotanical studies on dyeing plants used in Xishuangbanna, Yunnan, China[D].Kunming: Kunming Institute of Botany: 48-52.[张国学 2007.西双版纳传统染色植物 之民族植物学研究[D].昆明：中国科学院昆明植物研究所：48-52.]   
+ZHANG HC, CAO YJ 2015.Research on ancient Chinese blue dyeing plants and related problems[J]. Stud Hist Nat Sci,34(3):330-341.[张海超,张轩萌 2015.中国古代蓝染植物考辨及相关问题研 究[J].自然科学史研究,34(3):330-341.]   
+ZHANG HL 2010. The development of preparation and dyeing technology on indigo dye[J]. J Ningde Teachers Coll(Nat SciEd),22(4):34-37.[张华玲 2010.靛蓝染料制备方法及染色工艺的发展[J]. 宁德师范学院学报(自然科学版),22(4):34-37.]   
+ZHAO F 1987. Dyestuff and pigment in the book of Zhang Shi Pian of Tian Gong Kai Wu[J]. Agric Archaeol,(1):354-358.[赵丰 1987．《天工开物》彰施篇中的染料和染色[J].农业考古,(1): 354-358.]   
+ZHOU Z,REN DQ, PENG WQ 1994. Preliminary report on the introduction and cultivation of Isatis indigotica and Isatis tinctoria[J].JChin Med Mat,17(3):6-9.[周正,任达全,彭文权1994.国产菘 蓝和欧洲菘蓝引种栽培初报[J].中药材,17(3):6-9.]

@@ -1,0 +1,293 @@
+[
+    {
+        "type": "text",
+        "text": "神经科学偏见效应：可重复性及其心理机制的探索",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "殷继兴1；胡传鹏2，3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.西北师范大学心理学院，兰州，730070）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(2.Deutsches Resilienz Zentrum, 55131 Mainz, Germany; ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3.Neuroimaging Center,University Medical Center of the Johannes Gutenberg University,55131 Mainz, Germany) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "神经科学的发展对其他学科以及社会产生了重要的影响。虽然神经科学方法与行为研究方法都是探索人类心理与行为的有效手段并各有所长，但神经科学的研究结果却可能引起人们过度的解读和信任。研究者发现，当某一结论使用神经科学结果作为证据时，比使用行为科学结果或者心理生理学指标作为证据时更加让人信服，即使神经科学结果与该结论之间毫无关系，这种现象被称为神经科学偏见（neuroscience bias）。通过系统回顾近年来关于神经科学偏见的研究，我们发现：（1）虽然神经科学偏见存在可重复性的争论，但该效应确实存在；（2）神经科学偏见的产生可能是因为个体倾向于还原论的解释（即使用低层次、简单的机制来解释更高层次上的现象）及心理本质主义的影响（即人们认为心理与行为的本质是神经活动）。神经科学偏见反映了公众对科学结果解读的偏见，未来研究需要探讨这种偏见的心理机制，从而引导科学结果的正确解读和运用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词神经科学偏见；神经法学；心理机制；可重复性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着无损脑成像技术的发展，研究者获得了测量人类心理活动的神经生物基础的手段。例如，核磁共振技术（magnetic resonance imaging,MRI）可以用来直接观察大脑的结构。随之发展的认知神经科学不仅可以探索与人类基本认知和高级社会认知功能相关的大脑结构和神经活动，也逐渐能够通过测量大脑的活动来“解码”认知过程(如,Horikawa,Tamaki,Miyawaki,&Kamitani,2013)。在此基础上，神经科学近年来得到了长足的发展，人类对心理与行为背后神经基础的理解日益增加。神经科学的影响也日渐增长，与神经科学交叉的新兴学科不断出现，如神经教育学(Hardiman,Rinne,Gregory,&Yarmolinskaya,2012)、神经营销学(Perrachione&Perrachione,2008)和神经法学(胡传鹏，邓晓红，周治金，邓小刚,2011;Aronson,2010)等，形成了“神经科学热”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "神经科学方法与行为研究方法均是探索人类心理与行为的有效手段并各有所长(Krakauer,Ghazanfar,Gomez-Marin,MacIver,& Poeppel,2017)。但有趣的是，神经科学的结果往往以非常生动的方式呈现（如彩色的大脑图像），加之神经科学的解释比行为科学的解释更加“生物”和“还原”，这使得神经科学在其他科学领域以及大众媒体中得到广泛的传播并且产生重要的影响。在这种情况下，研究者们开始关注一个问题：没有学习过神经科学相关知识的个体，是否能够正确解读诸神经科学的结果（如涉及到神经系统的图像或文字信息）？这个问题的一个极端形式是：即便神经科学信息与结论并不相关时，是否会仅因为神经科学信息的出现，就足以导致人们对该结论的更加信任？这种过度的信任类似于一种偏见（bias），即“凡是出现了神经科学信息的论断比仅出现行为科学信息的论断更可信”。这种对神经科学结果的非理性解读，可能会导致公众和媒体过度解读与传播神经科学结果。理解这种对神经科学的过度信任，在当前神经科学被广泛传播且具有渗透性影响的背景下具有重要的意义。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1神经科学偏见的早期发现",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对于神经科学偏见的探索开始于2008年。三个研究小组从不同的角度一致发现，与带有其他信息（如脑电地形图、条形图）的论断相比，带有神经科学信息的论断让人们觉得更有说服力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "McCabe 和Castel(2008)检验了神经成像信息作为论据时是否会影响人们对推论合理性的判断。实验中，被试需要阅读一篇科学短文并对其科学推理的合理程度进行评分，科学短文附有三种条件：神经成像图片（fMRI）组、条形图组和无图片组。结果显示，神经成像图片组的被试对该科学短文在科学推论的合理程度上的评分显著高于条形图组和控制组的被试的评分。即便使用脑电地形图（topographical maps of brain activation）替代条形图，神经成像图片组的评分仍然显著更高。为了进一步检验结果是否有良好的外部效度，研究者们采用了改编自BBC的报道，再次发现神经成像图片组的评分显著高于其他组(McCabe& Castel,2008)。以上结果表明，人们更相信带有神经成像的论断，且这种效应可能在人们的日常生活中发生。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Weisberg，Keil,Goodstein,Rawson 和Gray(2008)检验了神经科学的文字信息是否会影响人们对解释合理性的判断以及神经科学专业知识是否会调节神经科学信息所引发的过度信任。他们招募普通大学生与受过神经科学训练的专家作为被试，要求被试阅读文字材料并判断其解释的合理性。Weisberg 等(2008)设置了不同条件的文字材料：解释的合理性（合理或不合理）与是否出现神经科学信息（出现或不出现“大脑扫描表明”）。他们发现，如果文字材料中没有神经科学信息，不管是专家还是普通大学生，都能够区分合理的解释和不合理的解释；但是，当文字材料中出现了神经科学信息时，即使这些信息与材料中的解释毫无关联，非专家组的大学生也会认为文字材料中的解释是更合理的（相比于无神经科学信息组）。这一结果表明未受过神经科学训练的个体可能会过度地信任神经科学的结果(Weisberg,Keil, Goodstein,Rawson,& Gray,2008)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "而 Gurley 和 Marcus (2008)则探索了神经科学信息的出现是否会影响到法律决策。在实验中，他们让被试阅读一个刑事案件，该案件中被告人以精神错乱为理由进行无罪辩护（not guiltybyreason of insanity）。研究者操纵了被告人的证据信息，包括三种条件：有无MRI图片、有无脑部受损经历的证据以及精神疾病证据：精神失常（Psychosis）和反社会人格（Psychopathy）。他们的结果表明，神经成像显示脑部损伤的条件下的被试更容易做出因精神错乱而无罪的判决。判断结束后对被试的询问表明，那些承认自己受到精神病证据和神经成像证据影响的被试做出因精神错乱而无罪的判决的可能性是那些认为自己没有受到这些证据影响的被试的六倍(Gurley&Marcus,2008)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "总之，这些早期的研究一致地表明，即使在神经科学信息与论断并无实质关系的情况下，人们仍然会认为带有神经科学信息的论断更为可信，并会依此做出决策。此外，鉴于神经科学技术在测谎上的应用(Schauer,2010)，McCabe,Castel 和 Rhodes (2011)比较了普通测谎仪（即基于生理多导仪的测试技术，polygraph）、脸部热能图（thermal facialimaging）和神经成像测谎结果对人们判断的影响，他们发现，阅读神经成像结果的被试比其他组被试更多判断他人说谎(McCabe,Castel,&Rhodes,2011)。这一结果进一步表明，神经科学结果可能在实际生活中引发人们的过度信任并影响人们的判断。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这些早期的研究引起了研究者的关注，后续不少研究者从两个方面继续探索了神经科学偏见的现象。一部分研究者试图重复早期的研究结果，而另一些研究者则继续探索神经科学偏见的心理机制（见表1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2神经科学偏见研究中的重复研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gruber和Dickerson (2012)试图重复McCabe 和Castel(2008)关于神经成像图片对科学推理过程以及科学信息可信程度影响的研究。他们使用与原研究类似的实验范式，发现图片类型这个变量并未对被试的推理与判断产生影响，神经成像组的被试与科幻图片（sci-fiimage）组和虚幻图片（fantasy image）组的被试相比，在对信息的可信度、权威度、写作良好程度和科学合理程度四个方面的评分没有显著差异(Gruber&Dickerson,2012)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "此外，针对McCabe 等人(2011)关于神经成像作为测谎证据的实验，West等人(2014)也进行了重复实验。虽然在研究方法上尽量保持一致，但是他们却未发现神经成像的显著影响(West,Lawson,&Grose-Fifer,2014)。而在神经科学偏见对法律判决的影响上，Schweitzer等人进行了不少有意义的探索，他们的研究结果表明，呈现神经成像图片的证据并",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "会让人们更多地将嫌疑人判定为精神错乱而减轻惩罚(Schweitzer& Saks,2011)，也不会让人们更容易认为嫌疑人不会产生犯罪意图（mens rea）（Schweitzer,Saks,Murphy,&Roskies,2011)。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/77c8f0b22584d8aff0721902a3ac9898724c4abc86a4f0145b312cace8123904.jpg",
+        "table_caption": [
+            "表1.神经科学偏见文献及其主要结果"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原创性研究</td><td>支持与否</td><td>重复研究</td><td>支持与否</td></tr><tr><td>McCabe & Castel,2008,Cognition</td><td>√</td><td>Rhodes,et al., 2014,JExp Psychol Learn Mem Cogn</td><td>√</td></tr><tr><td>Gurley& Marcus,2008,Behav Sci Law</td><td>√</td><td>Fernandez-Duque et al.,2015, JCogn Neurosci</td><td>√</td></tr><tr><td>Weisberg, et al. 2008,J Cogn Neurosci</td><td>√</td><td>Weisberg, et al.,2015, Judgm Decis Mak</td><td>√</td></tr><tr><td>McCabe, et al.,2011,Behav Sci Law</td><td>√</td><td>Schweitzer& Saks,2011,Behav SciLaw</td><td>×</td></tr><tr><td>Keehner, et al., 2011, Psychon Bull Rev</td><td>√</td><td>Gruber& Dickerson,2012,Public Underst Sci</td><td>×</td></tr><tr><td>Greene& Chill,2012,Behav Sci Law</td><td>√</td><td>Michael & Newman,2013,Psychon Bull Rev</td><td>×</td></tr><tr><td>Ikeda,et al, 2013,Psychon Bull Rev</td><td>√</td><td>Schweitzer, et al.,2013, Cognition</td><td>×</td></tr><tr><td> Mynro & Munro,2014,BasicAplSoc</td><td>√</td><td>West, et al., 2014,Basic Appl Soc Psych</td><td>×</td></tr><tr><td>Scurich & Shniderman, 2014, PloS one</td><td>√</td><td>Appelbaum, et al.,2015, Psychol Public Policy Law</td><td></td></tr><tr><td>Plunkett, et al.,2014, Cogsci</td><td>√</td><td>Marshall, etal,2O17,JForensPsychiatry Psychol</td><td>×</td></tr><tr><td>Shariff & Greene et al,2014,Psychol Sci</td><td>√</td><td>Im, Cho et al,2018,PloS one</td><td>× ×</td></tr><tr><td>Sapolsky215Upubisedil</td><td></td><td></td><td></td></tr><tr><td>Diekmann, et al., 2015, Int JSel Assess</td><td>√</td><td></td><td></td></tr><tr><td>Hopkins, et al.,2016,Cognition</td><td>√</td><td></td><td></td></tr><tr><td>Minahan & Siedlecki,2016,Pers Individ</td><td>√</td><td></td><td></td></tr><tr><td>Dif</td><td>√</td><td></td><td></td></tr><tr><td>Im, et al.,2017,Br JEduc Psychol Macdonald,et al.,2017,Front Psychol</td><td>√</td><td></td><td></td></tr><tr><td>Blakey,2017, Front Psychol</td><td>√</td><td></td><td></td></tr><tr><td>Schweitzer, etal,2011,Psychol Public</td><td>√</td><td></td><td></td></tr><tr><td>Policy Law</td><td>×</td><td></td><td></td></tr><tr><td>Baker, et al, 2013, PLoS One</td><td>X</td><td></td><td></td></tr><tr><td>Hook & Farah,2013, JCogn Neurosci</td><td>×</td><td></td><td></td></tr><tr><td>Saks, et al, 2014, JEmpir Leg Stud</td><td>×</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "这些阴性的重复实验引发对神经科学偏见的争议。在这些重复实验中，一致地使用了神经成像图片刺激，因此可能否定了早期神经科学偏见中一个重要的假设：图片生动性假设，即神经科学偏见是神经科学结果呈现的生动性引起的。神经成像图片生动性影响人们判断的效应可能并不存在，但以文字方式呈现时，神经科学信息可能仍然会引起人们的过度信任。这一点与Michael等 (2013)进行的大规模重复实验结果一致。他们分别对使用神经成像材料的McCabe 和Castel(2008)的研究和使用神经科学信息的Weisberg 等人(2008)的研究进行了多次重复。对这些重复实验的元分析表明，有无神经成像图片差异效应量为Cohen' $d = 0 . 0 7$ ， $9 5 \\%$ CI[0.00,0.14]，而有无文字性神经科学信息差异的效应量为Cohen$d = 0 . 4 0$ ， $9 5 \\%$ CI[0.23,0.57] (Michael, Newman, Vuorre, Cumming,& Garry,2013)。这说明虽然神经成像结果可能不具有过度的说服力，但神经科学信息仍然会过度地影响公众的判断。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3对神经科学偏见心理机制的探索 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "重复研究排除了神经科学结果生动性的影响后，研究者进一步对神经科学偏见背后的心理机制进行了探索。其中一个重要的取向是将神经科学与其他科学领域中广泛传播的现象进行比较，例如基因研究结果(Turmwald etal.,2018)、食品健康研究结果(Redmond &Griffith,2004)、疫苗安全研究结果(Miton&Mercier,2016)以及全球变暖研究结果（https://www.apa.org/monitor/2018/11/cover-climate.aspx），但直接针对神经科学偏见的心理机制的实证研究还不多见，从目前对神经科学偏见的心理机制初步探索的结果来看，大致有如下三个层次。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1软科学VS硬科学",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "神经科学偏见存在一个重要潜在原因在于，公众通常认为行为研究属于软科学(Janda,England,Lovejoy,&Drury,1998)，而神经科学则属于硬科学。相对于硬科学而言，软科学会被认为实验方法不够严格，实验过程更加容易，实验的信度和效度较低(Munro&Munro,2014)。此外，相对于硬科学而言，人们认为他们在软科学领域的知识与该领域专家的知识之间的差距更小(Janda etal.,1998)。因此，相对于软科学的结论，人们可能会更加相信硬科学的结论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Munro 和Munro(2014)从软硬科学的角度对神经科学证据和认知测试证据做了对比。他们让被试阅读实验材料，并附上神经科学证据与认知测试证据。他们发现，人们在做评判时认为神经科学证据的质量明显高于认知测试证据(Munro&Munro,2014)。更有趣的是，有研究者指出，不仅公众更加偏好神经科学，心理学家可能也更加喜爱神经科学对心理和行为的解释(Lilienfeld,2012)。而人们对软科学和硬科学认识差异不仅存在于心理学领域，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hopkins,Weisberg 和Taylor(2016)对他们研究中包括物理学、化学、心理学和经济学在内的各个学科的证据进行分析，发现人们普遍认为硬科学比软科学更加严谨和困难(Hopkins,Weisberg,&Taylor,2016)。进一步深入探究这种认识的差异，其可能的原因在于硬科学的结果比软科学更加“还原”。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2还原论的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "软科学与硬科学的划分，与对还原论的偏好不可分割。还原论认为复杂的事物都可化简为部分的组合加以描述，对还原论的偏好则会让人们更支持还原论的解释，这些解释通常包括构成现象的更基础的成分和更基本的程序(Kim&Keil,2003)。比如，对人类行为进行解释时，行为可以还原为神经系统活动的结果，神经系统的活动又可以还原成神经细胞（神经元）相互作用的结果，神经元的相互作用还可以进一步还原为神经化学活动的结果。虽然还原论的解释是否在科学的每个领域中均适用有争议(Anderson,1972)，但是人们对还原论的偏好却是普遍存在的 (Webster,1973)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "神经科学证据相对行为证据的优势，是否是由于人们对还原论的偏好？Hopkins,Weisberg 和Taylor(20l6)对比了还原论解释 (reductive explanation)和横向解释(horizontalexplanation)对被试判断的影响。还原论解释来自于更基础的一门学科，比如行为的还原论解释来自于神经科学，而横向解释是用与现象直接相关的学科来解释现象，比如行为的横向解释就来自行为科学。他们的结果表明，被试在对两者进行评分的时候，还原论解释的评分显著高于横向解释(Hopkins,Weisberg,& Taylor,2016)。这一结果表明，神经科学偏见产生的原因很可能是神经科学的解释更加“还原”，因此让个体更加信服。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3心理本质主义的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "人们对还原论的偏好可能反映了人们的心理本质主义（psychological essentialism）。心理本质主义是指人们普遍存在的一种信念，即认为任何事物均具有一个“本质”，而“本质”使它们成为现在的状态(Medin,1989)。心理本质主义也被心理学家用于解释刻板印象，例如，心理本质主义可以是个体对他人进行分类的心理机制：每个类别里的成员被认为有不可变的共同特征，且不同类别具有排他性，这帮助人们形成了刻板印象（Yzerbyt,Rocher,& Schadron,1997)。同样的，心理本质主义也用来解释和预测内群体偏好现象，例如，由于人们可能会认为不同群体有着本质的差异，群体间的边界是不可改变的，所以人们很难消除对外群体的偏见(Roets&Van,2011)。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在神经科学偏见领域，如果人们相信神经活动是心理和行为的本质，心理活动以及行为是神经系统这个“本质”的产物，那么相对于行为科学证据，神经科学证据就会更加具有说服力。目前尚无实证研究对本质主义信念在神经科学偏见中的作用进行探索，但是关于人们对基因研究结果的态度的研究发现，心理本质主义与对基因科学证据的偏好有关(Dar-Nimrod & Heine,2011; Keller, 2005; Turnwald et al.,2018)。 Monterosso, Royzman 和Schwartz(2005)发现，相比行为证据(基于罪犯在童年时期被虐待经历的证据)，基因证据会让被试更加同情罪犯，更加相信罪犯的犯罪行为不是自愿的。神经科学证据与基因证据同样是对人类行为的生物学解释，因此心理本质主义也可能是神经科学偏见的心理机制之一。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论与展望 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "如前所述，对于研究者来说，行为科学和神经科学都是心理学研究必要且有效的手段，在做具体研究时，研究者应该根据研究目的选择正确的研究方法(Krakauer etal.,2017)。但是目前关于神经科学偏见的研究表明，神经科学偏见这一效应确实存在，其心理机制可能是一种普遍存在的对不同学科的偏见（软科学vs 硬科学），进一步而言，可能是由于人们的还原论倾向和心理本质主义。神经科学偏见的研究为我们带来两方面的启示：一方面，这种对神经科学信息的过度信任表明人们对神经科学的证据总体上是信任的态度，这种积极的态度可能使得社会进一步支持神经科学的发展，但另一方面，该效应也表明对于神经科学研究结论的传播需要更加谨慎，避免引起人们的过度解读。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "值得注意的是，神经科学的偏见可能是公众对科学的众多偏见中的一种。先前的调查显示，公众在转基因食品、全球变暖、疫苗安全等多个科学领域可能存在“偏见”(Funk&Rainie,2015)。公众对科学的偏见不仅仅会影响到他们对科研的态度，也可能直接影响到公众的日常生活。例如，在司法实践中，由于认知神经科学的结果可以以证据的形式出现在法庭(Alimardani& Chin,2019; Spranger,2011)]，因此，如果神经科学偏见具有较大的效应，那么神经科学结果可能是有偏的证据，这样的证据应该排除。在教育领域，神经科学影响力也在不断扩大，各种基于大脑开发和神经可塑性的培训机构不断涌现，教育工作者也开始尝试在教育实践中运用神经科学的研究成果，因此，教育工作者需要警惕神经科学偏见(Im,Varma,&Varma,2017)，避免误用神经科学的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前对神经科学偏见心理机制的探讨仍然是非常初步的。作为公众对科学的偏见中的一种，神经科学偏见可能与公众对其他科学领域的偏见有着共同的心理机制。心理学研究中已经有不少研究这类偏见的理论框架和方法，例如，关于态度与判断等问题上的双加工模型（Kahneman,2011），在方法上则有相对应的加工分离程序（process dissociationprocedure,PDP）（Jacoby,1991）和多项加工树模型（Hitter,M.,& Klauer,K.C.2016;刘媛媛,丁一,彭凯平,胡传鹏,2019）。如何将这种心理学中关于心理机制的研究，尤其是模型分析的方法引入到神经科学偏见的研究中，并找到偏见效应共同的心理机制，将是未来研究中值得关注的问题。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "最后，神经科学偏见的研究不仅仅是纯粹的学术探讨，也具有重要的实践意义，研究者要谨慎对待此问题。在当前心理学可重复危机背景之下(Szucs&Ioannidis,2017; OpenScience Collaboration,2015;胡传鹏等,2016)，以心理学研究结果为输入的学科领域对心理学研究的可重复性、透明性以及开放性的要求也正在增加(Hu,Jiang,Jeffrey,& Zuo,2018;Chin,2014; Chin,Growns,&Mellor,in press)。考虑到神经科学偏见可能会直接影响社会实践，研究者尤其需要重视其可重复性，以避免无法重复的结果给社会带来消极后果。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "致谢：感谢匿名审稿专家对本人提出的宝贵意见，感谢加州大学圣地亚哥分校(Universityof California San Diego)管理学院的尹亦丹、密歇根大学(Universityof Michigan)心理学系的刘婷婷对本文英文摘要的宝贵意见。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "陈云松,吴晓刚.(2012).走向开源的社会学——定量分析中的复制性研究.社会(03),1-23.   \n胡传鹏,邓晓红,周治金,邓小刚.(2011).神经法学:年轻的认知神经科学与古老的法学联姻.科学通报, 56(36), 3041-3053.   \n胡传鹏,王非,过继成思,宋梦迪,隋洁,彭凯平.(2016).心理学研究中的可重复性问题：从危机到契机.心 理科学进展,24(9),1504-1518   \n刘媛媛,丁一,彭凯平,胡传鹏.(2019).多项式加工树模型在社会心理学中的应用.心理科学,42(2),422- 429.   \nAlimardani,A.,& Chin,J.M. (2019).Neurolaw in Australia: The Use of Neuroscience in Australian Criminal Proceedings.Retrieved January 31,2019,from https://doi.org/10.1007/s12152-018-09395-z.   \nAnderson,P.W.(1972). More Is Different. Science,177(4047),393-396.   \nAppelbaum, P.S., Scurich,N.,& Raad, R. (2015). Eects of behavioral genetic evidence on perceptions of criminal responsibility and appropriate punishment.Psychology,Public Policy,and Law,21(2),134.   \nAronson,J.D. (2010).The law's use of brain evidence. Annual Review ofLaw and Social Science,6,93-108.   \nBaker,D.A.,Schweitzer,N.,Risko,E.F.,& Ware,J.M. (2013). Visual atention and the neuroimage bias. PLOS one, 8(9), e74449.   \nBlakey,R. (2O17). Does Watching a Play about the Teenage Brain Affect Atitudes toward Young Offenders? Frontiers in Psychology,8, 964.   \nChin, J. M. (2014). Psychological Science's Replicability Crisis and What It Means for Science in the Courtroom. Psychology,Public Policy, and Law,20(3),225-238.   \nChin, J., Growns, B.,& Mellor,D.T. (2019). Improving expert evidence: The role of open science and transparency. Retrieved January 31, 2019, from http://dx.doi.org/10.2139/ssrn.3345225   \nDar-Nimrod,I.,& Heine, S. J. (2011). Genetic essentialism: On the deceptive determinism of DNA. Psychological Bulletin, 137(5),800-818.   \nDiekman, J., Konig, C. J.,& Alls, J. (2015). The role of neuroscience information in choosing a personality test: Not as seductive as expected. International Journal of Selection and Assessment, 23(2), 99-108.   \nFernandez-Duque,D.,Evans,J., Christian, C.,& Hodges,S.D.(2015). Superfluous neuroscience information makes explanations of psychological phenomena more appealing. Journal of Cognitive Neuroscience, 27(5), 926-944.   \nFunk, C.,& Rainie,L.. (2015). Public and scientists’ views on science and society. Retrieved January 31, 2019,from htps://www.pewresearch.org/science/2015/01/29/public-and-scientists-views-on-scienceand-society.   \nGreene,E.,& Cahil, B.S. (2012). Effects of neuroimaging evidence on mock juror decision making. Behavioral Sciences &the Law, 30(3),280-296.   \nGruber,D.,& Dickerson, J.A. (20l2).Persuasive images in popular science: Testing judgments of scientific reasoning and credibility. Public Understanding of Science, 21(8), 938-948.   \nGurley,J.R.,& Marcus,D.K. (2oo8). The efects of neuroimaging and brain injury on insanity defenses. Behavioral Sciences & the Law, 26(1),85-97.   \nHardiman,M.,Rinne,L., Gregory,E.,&Yarmolinskaya,J. (2ol2).Neuroethics, neuroeducation,and classrool teaching: Where the brain sciences meet pedagogy. Neuroethics, 5(2), 135-143.   \nHook, C.J.,& Farah,M.J. (2O13). Look again: Effects of brain images and mind-brain dualism on lay evaluations of research. Journal of Cognitive Neuroscience,25(9),1397-1405.   \nHopkins,E. J., Weisberg,D.S.,& Taylor,J. C. (2016).The seductive allure is areductive allure: People prefer scientific explanations that contain logically irrelevant reductive information. Cognition,155,67-76.   \nHorikawa,T., Tamaki, M., Miyawaki, Y.,& Kamitani, Y. (2013). Neural Decoding of Visual Imagery During Sleep. Science, 340(6132), 639-642.   \nHu, C.-P., Jiang, X.,Jeffrey,R.,& Zuo, X.-N. (2018). Open Science as a Better Gatekeeper for Science and Society: A Perspective from Neurolaw. Science Bulltin, 63(23),1529-1531.   \nHutter, M., & Klauer, K. C. (2016). Applying processing trees in social psychology.European Review of Social Psychology,27(1),116-159.   \nIkeda,K.,Kitagami, S.,Takahashi,T.,Hattori,Y.,& Ito,Y. (2013).Neuroscientific information bias in metacomprehension: The effect of brain images on metacomprehension judgment of neuroscience research.Psychonomic Bulltin& Review,20(6),1357-1363.   \nIm, S.-h., Cho,J.-Y.,Dubinsky,J.M.,& Varma, S.(2018). Taking an educational psychologycourse improves neuroscience literacy but does not reduce belief in neuromyths.PLOS one,13(2),e0192163.   \nIm, S.h., Varma,K.,& Varma, S. (20l7).Extending the seductive allure of neuroscience explanations effect to popular articles about educational topics. British Journal of Educational Psychology,87(4),518-534.   \nJacoby,L.L. (1991).A process dissociation framework: Separating automatic from intentional uses of memory. Journal of Memory and Language, 30(5),513-541   \nJanda,L. H.,England,K.,Lovejoy,D.,& Drury, K. (1998). Atitudes toward psychology relative toother disciplines.Professional Psychology: Research and Practice,29(2),140.   \nKahneman, D. (2011). Thinking, fast and slow. New York: Farrar, Straus and Giroux.   \nKeehner,M.,Mayberry,L.,&Fischer,M.H. (2011). Different clues from diffrent views: The role of image format in public perceptions of neuroimaging results. Psychonomic Buletin & Review, 18(2), 422-428.   \nKeler, J. (20o5). In genes we trust: The biological component of psychological essentialismand its relationship to mechanisms of motivated social cognition. Journal of Personality and Social Psychology, 88(4), 686.   \nKim, N. S., & Keil,F.C.(2o3).From symptoms tocauses: Diversity effects indiagnosticreasoning. Memory & Cognition, 31(1),155-165.   \nKrakauer, J. W., Ghazanfar,A. A., Gomez-Marin, A., MacIver,M.A.,& Poeppel, D., (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480-490.   \nLilienfeld, S. O. (2012). Public skepticism of psychology: Why many people perceive the study of human behavior as unscientific. American Psychologist, 67(2),111-129.   \nLowenberg,K.(2010).fMRIlie detection fails its first hearing on reliability.Retrieved January 31,2019,from http://blogs.law.stanford.edu/lawandbiosciences/2010/06/01/fmri-lie-detection-fails-its-first-hearing-onreliability/   \nMarshal,J.,Lilienfeld, S.O.,Mayberg, H.,& Clark,S.E. (2017).The role of neurological and psychological explanations in legal judgments of psychopathic wrongdoers. The Journal of Forensic Psychiatry & Psychology,28(3),412-436.   \nMcCabe,D.P., & Castel, A.D.(2008). Seing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1),343-352.   \nMcCabe,D.P.,Castel, A.D.,& Rhodes, M.G. (2011). The influence of fMRI lie detection evidence on juror Decision-Making. Behavioral Sciences & the Law, 29(4),566-577.   \nMedin,D.L. (1989). Concepts and conceptual structure. American Psychologist, 44(12),1469.   \nMichael, R.B., Newman,E.J., Vuorre,M., Cumming, G.,& Garry,M. (2013). On the (non) persuasive power of a brain image.Psychonomic Bulletin & Review, 20(4),720-725.   \nMinahan,J.,& Siedlecki, K.L.(2016). Individual diferences in Need for Cognition influence the evaluation of circular scientific explanations.Personality and Individual Differences,99,113-117.   \nMiton,H.,& Mercier,H. (2016). Cognitive Obstacles to Pro-Vaccination Beliefs.Trends in Cognitive Sciences, 19(11), 633-636.   \nMonterosso,J.,Royzman,E.B.,& Schwartz,B. (2oo5).Explaining awayresponsibility: Effects ofcientific explanation on perceived culpability. Ethics & Behavior,15(2),139-158.   \nMunafo, M. R.,Nosek,B.A., Bishop,D. V.M., Button,K. S., Chambers, C.D.,Percie du Sert, N. Ioannidis,J.P.A. (2017).A manifesto for reproducible science. Nature Human Behavior,1(1),0021.   \nMunro, G.D.,& Munro, C.A. (2014).“Soft\" Versus “Hard” Psychological Science: Biased Evaluations of Scientific Evidence That Threatens or Supports a Strongly Held Political Identity. Basic and Applied Social Psychology, 36(6), 533-543.   \nPerrachione, T. K., & Perrachione, J. R. (0o8). Brains and brands: Developing mutually informative research in neuroscience and marketing. Journal of Consumer Behaviour, 7(4-5), 303-318.   \nPlunkett,D.,Lombrozo,T.,& Buchak,L. (2014). Because the brain agrees: The impact of neuroscientific explanations for belief. Cognitive Science,36(36),1180-1185.   \nRedmond,E. C.,& Grifith, C.J. (2o04). Consumer perceptions of food safety risk,control and responsibility. Appetite,43(3),309-313.   \nRhodes,R.E., Rodriguez,F., & Shah,P. (2o14). Explaining the alluring influence of neuroscience information on scientific reasoning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(5), 1432.   \nRoets,A.,& Van, H. A. (2011).The role of need for closure in essentialist entitativity beliefs and prejudice: An epistemic needs approach to racial categorization. British Journal ofSocial Psychology, 50(1), 52-73.   \nSaks,M. J., Schweitzer,N., Aharoni,E.,& Kiehl, K.A. (2014). The impact of neuroimages in the sentencing phase of capital trials.Journal of Empirical Legal Studies,11(1),105-131.   \nSapolsky,Z.G. (2015).Neuroscience information's effcton causal explanations ofpsychological disorders and treatment recommendations (Unpublished doctorial dissertation). Long Island University, New York, U.S.   \nSchauer,F.(2010). Neuroscience,lie-detection,and the law: Contrary tothe prevailing view,the suitability of brain-basedlie-detection for courtroom or forensic use should be determined according to legal and not scientific standards.Trends in Cognitive Sciences,14(3),101-103.   \nSchweitzer, N., Baker,D.A.,& Risko,E.F.(2013).Fooled by the brain: Re-examining the influence of neuroimages. Cognition, 129(3),501-511.   \nSchweitzer, N. J., & Saks, M.J. (2011). Neuroimage evidence and the insanity defense. Behavioral Sciences & the Law,29(4),592-607.   \nSchweitzer,N.J.,Saks,M.J.,Murphy,E.R.,Roskies,A.L., Sinnot-Armstrong, W.,& Gaudet,L.M.(2011). Neuroimages as evidence in a mens rea defense: No impact. Psychology,Public Policy, and Law,17(3), 357.   \nScurich,N.,& Shniderman, A. (2014). The selective alure of neuroscientific explanations. PLOS one, 9(9), e107529.   \nShariff,A.F., Greene,J. D., Karremans,J.C.,Luguri, J.B., Clark, C.J., Schooler,J.W.,..Vohs,K.D. (2014). Free will and punishment: A mechanistic view of human nature reduces retribution. Psychological Science, 25(8),1563-1570.   \nSpranger, T. M. (Ed.) (2011). International Neurolaw: A Comparative Analysis. Berlin, Germany: Springer Berlin Heidelberg.   \nSzucs,D.,& Ioannidis,J.P. (2017).Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature. Plos Biology,15(3),e2000797.   \nTurnwald,B.P., Goyer,J.P.,Boles,D. Z.,Silder,A.,Delp,S.L.,& Crum, A. J. (2018). Learning one's genetic risk changes physiology independent of actual genetic risk. Nature Human Behaviour.3,48-56   \nWebster,M.(1973).Psychological Reductionism,Methodological Individualism,and Large-Scale Problems. American Sociological Review, 38(2),258-273.   \nWeisberg,D.S.,Keil,F.C., Goodstein,J.,Rawson,E.,& Gray,J.R.(2008).The seductive allureof neuroscience explanations. Journal of Cognitive Neuroscience, 20(3),470-477.   \nWeisberg,D.S.,Taylor,J.C.,& Hopkins,E.J. (2015). Deconstructing the seductive alure of neuroscience explanations.Judgment and Decision Making,10(5),429.   \nWest,M.L.,Lawson, V. Z.,& Grose-Fifer,J. (2014).The effect of electrophysiological neuroscientific deception detection evidence on juror judgments in a criminal trial. Basic and Applied Social Psychology， 36(2),133-144.   \nYzerbyt,V.,Rocher,S.,& Schadron, G. (1997).Stereotypes as explanations: Asubjective essentialistic view of group perception. In R. Spears,P.J. Oakes,N. Ellemers,& S.A. Haslam (Eds.), The social psychology of stereotyping and group life (pp.20-50). Malden, Massachusets: Blackwell Publishing. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Neuroscience bias: Reproducibility and exploration of psychological mechanisms ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "YIN Jixing1; HU Chuanpeng2, 3 (1.School of psychology,Northwest Normal University,Lanzhou,73oo70,China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "(2.Deutsches Resilienz Zentrum, 55131 Mainz, Germany; ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.Neuroimaging Center,University Medical Centerof the Johannes Gutenberg University,55131 Mainz,Germany) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Behavioral and neuroscientific methods have uniquely contributed to our understanding of human mind and behavior. The advance in neuroscience and its potential implications (e.g, in legal systems) have attracted attention from both academia and society.However, researchers found that, when providing statements supported by either neuroscientific or behavioral/psychophysiological results, even if these neuroscientific results were logically irelevant to the statements, participants still considered statements with neuroscientific results as more trustworthy. This phenomenon was termed as neuroscience bias.By systematically reviewing empirical studies on neuroscience bias, we revealed that: (1) the reproducibility of neuroscience bias was debated, but the effect exists; (2) neuroscience bias could be atributed to people's preference for the reductionism and psychological essentialism. Neuroscience bias is one of many biases people may have when interpreting scientific results; future studies should further explore the psychological mechanisms of these biases and thereby provide guidelines for correctly interpreting and using scientific results. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Key word: neuroscience bias; neurolaw; psychological mechanisms; reproducibility ",
+        "page_idx": 13
+    }
+]

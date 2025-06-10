@@ -1,0 +1,601 @@
+[
+    {
+        "type": "text",
+        "text": "提高电力系统暂态稳定性的TCPST模糊逻辑控制器设计",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/5c7c859af870b9d1b0a6a3d25da5e8dbd177921947f7b0203a2006af78117c34.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨永前",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杨永前男 1990年生，硕士，主要从事输变电项目管理方面的工作。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（国网江苏省电力工程咨询有限公司 南京210008）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：暂态稳定性问题是目前电力系统遇到的几种主要的稳定性问题之一。由于晶闸管控制移相器（TCPST）等FACTS设备的快速切换性能，可用来提高电力系统的动态和暂态稳定性。传统的TCPST模糊逻辑控制器均以被控量的偏差和偏差变化率为输入，以TCPST的移相角直接作为控制输出来进行设计。本文设计了一种能够在暂态过程中动态调整传统TCPST一阶动态控制器增益的模糊逻辑控制器。该模糊逻辑控制器以传统TCPST一阶动态控制增益为输出，间接完成TCPST的控制。最后通过安德森3机9节点算例系统验证了该模糊逻辑控制器的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：晶闸管控制移相器 模糊逻辑控制电力系统暂态稳定性中图分类号：TM712",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Designing a Fuzzy Logic Controller for TCPST to Enhance the Transient Stability of Power System ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yang Yongqian (State Grid Jiangsu Electric Power Engineering Consulting Co.Ltd. Nanjing210008China） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Transient stability is one of the most important stability problems of power system.Because of the rapid response characteristics, Thyristor controlled phase shifting transformer(TCPST) can not only be used to control the steady power flow but also be used to improve the dynamic and transiet stability of power system. Conventional TCPST fuzzy logic controllers adopt error and changed error as inputs and the phase angle of TCPST as the outputs directly. A new fuzzy logic controller which can dynamically adjust the gain of the TCPST first order dynamic controller is designed in this paper. Case studies on Anderson 3-machine 9-bus system demonstrated that the fuzzy logic controller is effective and valid. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: TCPST, fuzzy logic control, power system, transient stability ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 引言",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "互联电力系统具有提高发供电可靠性、提高电能质量、提高稳定性和增强运行灵活性等优点[1]。然而，大系统的传输容量经常受到暂态稳定性问题的限制，从而不能充分发挥大系统的优势。因此各种各样的控制方法被引入电力系统，用以提高电力系统的暂态稳定性，并被应用于电力系统各种不同动态元件的控制中去[2]。由于包括晶闸管控制移相器（Thyristor Controlled Phase Shifting Transformer,TCPST）在内的柔性交流输电设备具有快速响应的特性，它们不仅可以被用于稳态潮流调控，而且可被用来抑制系统振荡和提高电力系统暂态稳定性[3-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "目前TCPST的控制器多采用一阶动态控制器等利用线性化方法设计，由于稳态运行方式的大幅度调整以及发生大扰动时系统运行点会大幅度偏离平衡点，因此在某个平衡点将系统线性化而根据线性化理论设计的控制器存在失效的可能性，对系统非线性、运行点大范围偏移和大扰动等不确定因素的鲁棒性不好。模糊逻辑控制（FuzzyLogicControl,FLC）具有较强的鲁棒性。文献[6]在单机无穷大系统中提出了采用模糊逻辑控制器实现TCPST的调节，以发电机的转速差 $\\Delta \\omega$ 和加速度差 $\\Delta \\dot { \\omega }$ 作为模糊逻辑控制器的输入信号，得到的输出与移相角参考值比较，再经过带增益的一个一阶惯性环节得到最终的输出信号。其中设计了包含27条IF-THEN规则的TCPST模糊逻辑控制器，通过仿真实验验证了控制器的有效性。本文在研究中发现利用被控量（通常为被控点母线电压）的偏差及偏差变化率作为控制器输入，而将TCPST的移相角 $\\varphi$ 直接作为输出的模糊逻辑控制器时输出出现了严重的抖振现象。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为避免上述现象，本文提出以传统的TCPST一阶动态控制器作为主控制器，以模糊逻辑控制器作为辅助控制器，在暂态过程中由模糊逻辑动态调整传统TCPST一阶动态控制器增益，从而间接完成TCPST控制的方法。由于传统的TCPST一阶动态控制器结构简单，并且在实际工程中已有应用。因此，研究可由模糊逻辑动态调节增益的TCPST一阶动态控制器，对于TCPST的工程应具有积极的作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 TCPST数学模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "安装在系统中 $i \\mathrm { - } j$ 节点之间的TCPST，能够用一个具有复变比的理想变压器和相应的等值阻抗表示，如图1所示，图中变压器的复变比 ${ \\dot { T } } = \\operatorname { e } ^ { - \\mathrm { j } \\varphi }$ ，其",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "阻抗值为 $Z _ { \\mathrm { T } }$ ，对应导纳值为 $Y _ { \\mathrm { { T } } } = 1 / Z _ { \\mathrm { { T } } } = g _ { \\mathrm { { T } } } + \\mathrm { { j } } b _ { \\mathrm { { T } } } ,$ 。通常情况下，TCPST的电阻值小，为方便建模及潮流计算，其阻抗值可忽略不计，即有 $g _ { \\mathrm { T } } = 0$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/50f4bf1ff27f07473c3dc2c5f94589ce87d7702b5bf861f6b19622295f229ccf.jpg",
+        "img_caption": [
+            "图1TCPST等效电路"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "图1中，两端口网络的注入电流与节点电压的关系为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\left( \\begin{array} { l } { { \\dot { I } } _ { i } } \\\\ { - { \\dot { I } } _ { j } } \\end{array} \\right) } = { \\frac { 1 } { Z _ { \\mathrm { T } } } } { \\left( \\begin{array} { l l } { ~ 1 } & { - { \\dot { T } } } \\\\ { - { \\dot { T } } ^ { * } } & { ~ 1 } \\end{array} \\right) } { \\left( \\dot { \\bar { U } } _ { i } \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统TCPST控制器一般为一阶惯性环节，如图2所示。控制器的输入信号通常为移相器所在线路输送的有功功率 $P _ { i j }$ ；有功功率参考值 $P _ { \\mathrm { r e f } }$ 即为稳态控制目标（通常设置线路正常运行方式下的稳态值为控制目标）； $K _ { \\mathrm { P S } }$ 为控制器增益； $T _ { \\mathrm { P S } }$ 为控制器时间常数； $\\varphi _ { \\mathrm { m a x } }$ 和 $\\varphi _ { \\mathrm { m i n } }$ 分别为移相角的上下限。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ac0f1448f81be04d4ed46ed92c9029fabe45a432667a2587c37aa12863a5beb.jpg",
+        "img_caption": [
+            "Fig.1The equivalent circuit of TCPST ",
+            "图2传统一阶动态TCPST控制器",
+            "Fig.2Conventional TCPST first order dynamic controller "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "该控制器的动态方程为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { \\mathrm { P S } } \\dot { \\varphi } = K _ { \\mathrm { p S } } ( P _ { \\mathrm { r e f } } - P _ { i j } ) - \\varphi\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的TCPST一阶动态控制器的增益 $K _ { \\mathrm { P S } }$ 为固定值，本文所设计的TCPST控制器则在系统暂态过程中按照模糊逻辑随系统运行状况动态调节 $K _ { \\mathrm { P S } }$ 。下面介绍TCPST模糊逻辑控制器的设计方法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 模糊逻辑控制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1模糊集合",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模糊集合是经典集合的推广，它能够描述一些并不具备清晰边界的集合，可弥补经典集合的局限性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义3.1 如果在论域 $U$ 到值域[0,1]给定了一个映射",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nA \\colon U \\to [ 0 , 1 ] , x \\to \\mu _ { _ A } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "则称 $A$ 是 $U$ 上的模糊集； $\\mu _ { A } ( x )$ 称为模糊集 $A$ 的隶属度函数（membershipfunction）， $\\mu _ { \\scriptscriptstyle A } ( x )$ 的取值范围为[0,1]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "与经典集合相同，模糊集合也有“交”、“并”和“补”等基本运算。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义3.2设模糊集合 $A$ 和 $B$ 同属于论域 $U$ ，记 模糊集 $A \\cap B$ 和 $A \\cup B$ 分别为 $A$ 与 $B$ 的交集和并集， 记模糊集A为 $A$ 的补集。 $\\forall x \\in U$ ，则 $A \\cap B$ 、 $A \\cup B$ 和 $\\overline { { A } }$ 这三个模糊集合的隶属度函数分别为 ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { _ { A \\cap B } } ( x ) = \\operatorname* { m i n } \\left[ \\mu _ { _ { A } } ( x ) , \\mu _ { _ B } ( x ) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { _ { A \\cup B } } ( x ) = \\operatorname* { m a x } \\left[ \\mu _ { _ { A } } ( x ) , \\mu _ { _ B } ( x ) \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { \\scriptscriptstyle \\overline { { A } } } ( x ) = 1 - \\mu _ { \\scriptscriptstyle A } ( x )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2模糊逻辑控制器基本结构",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "一个典型的模糊逻辑控制器由模糊器、模糊规则库、模糊推理机和解模糊器四个部分组成，其简要的结构框架如图3所示[8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a717386a214e5c6af18ef4cfa16ff276692186a3dd30d8a6325071d733e0a64.jpg",
+        "img_caption": [
+            "图3模糊逻辑控制器的基本结构图"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模糊规则库与模糊推理机是模糊逻辑控制器最重要的部分。模糊规则库通常是借助专家知识或经验设定的 $\\mathbf { \\Sigma } _ { m }$ 条IF-THEN形式的逻辑推理规则。规则库中第 $l$ 条IF-THEN规则 $\\boldsymbol { R } _ { u } ^ { l }$ 的基本形式为",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { R _ { u } ^ { l } }$ ：如果 $x _ { 1 }$ 为 $\\mathcal { A } _ { 1 } ^ { l }$ 且 $x _ { 2 }$ 为 $\\boldsymbol { A } _ { 2 } ^ { l }$ 且…且 $\\textstyle { \\mathfrak { x } } _ { n }$ 为 $\\boldsymbol { A } _ { n } ^ { l }$ 则 $y$ 为 $B ^ { l }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "规则 $R _ { u } ^ { l }$ 中 $x _ { 1 }$ ， $x _ { 1 } , \\cdots , x _ { n }$ 和 $y$ 为模糊规则的语言变量， $\\boldsymbol { A } _ { 1 } ^ { l }$ ， $A _ { 1 } ^ { l } , \\cdots , A _ { n } ^ { l }$ 和 $B ^ { l }$ 为模糊规则语言变量的值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模糊逻辑控制器首先通过模糊器利用相应的模糊化方法，将被控对象的清晰非模糊输入（crispinputs）转化为模糊推理系统能够识别的模糊输入(fuzzy inputs），完成物理量向模糊集合的转变。模糊推理机则利用模糊规则库制定的推理逻辑，将模糊器转换的模糊输入进行处理，给出相应的模糊输出（fuzzyoutputs)。最终模糊逻辑控制器再通过解模糊器，将模糊推理机输出的模糊集合转换为实际控制工程中需要的清晰输出（crispoutputs)。本文选择单值解模糊器、乘积推理机和中心平均解模糊器设计模糊逻辑控制器。该模糊逻辑控制器的输入$x$ 和输出 $y$ 之间的关系为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = f ( x ) = \\frac { \\displaystyle \\sum _ { l = 1 } ^ { m } \\overline { y } ^ { l } \\left( \\prod _ { i = 1 } ^ { n } \\mu _ { A _ { i } ^ { l } } ( x _ { i } ) \\right) } { \\displaystyle \\sum _ { l = 1 } ^ { m } \\left( \\prod _ { i = 1 } ^ { n } \\mu _ { A _ { i } ^ { l } } ( x _ { i } ) \\right) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\overline { { y } } ^ { l }$ 为标准模糊集 $B ^ { l }$ 的中心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "44丨电气工程学报",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由式（3）可以看出，图3的模糊逻辑控制器是一个非线性映射。当已知一个确定的数值输入 $x$ 时，模糊逻辑控制器经过该非线性映射能够给出清晰的数值输出 $y$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 TCPST模糊逻辑控制器设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1TCPST模糊逻辑控制器框架",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前采用的模糊逻辑控制器有两种主要形式：利用模糊逻辑控制器直接取代原有的传统控制器；将模糊逻辑控制和传统的控制方法结合形成混合模糊控制器。目前已有文献中的TCPST模糊逻辑控制器均属于第一种模糊逻辑控制器，即模糊逻辑控制器是以TCPST的移相角 $\\varphi$ 直接作为控制输出。本文尝试利用模糊逻辑调节传统TCPST一阶动态控制器的方法实现第二种TCPST模糊逻辑控制器的设计。该TCPST模糊逻辑控制器的框架结构如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8538d0451b0798520b6be31af6042259aacc633f51a9984b074ea35caa7333f.jpg",
+        "img_caption": [
+            "Fig.3The structure of fuzzy logic controller ",
+            "图4TCPST模糊逻辑控制器结构框图",
+            "Fig.4The structure of fuzzy logic controller for TCPST "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "图4中模糊逻辑控制器的输入量为被控线路功率 $P$ 和预设功率 $P _ { \\mathrm { r e f } }$ 的偏差 $e$ 及其变化率 $\\dot { e }$ ，其中$e = P _ { \\mathrm { r e f } } - P$ ； $s$ 为微分算子。为了保证控制器的通用性，模糊逻辑控制器采集到的输入量 $e$ 和 $\\dot { e }$ 分别乘以规格化系数 $K _ { e }$ 和 $K _ { \\dot { e } }$ ，将 $| e |$ 和 $| \\dot { e } |$ 的最大值限定到1附近，从而完成规格化处理。模糊逻辑控制器的输出并不直接作用于TCPST的移相角 $\\varphi$ ，而是作用于传统一阶动态控制器的增益 $K _ { \\mathrm { P } }$ 。在暂态过程中，模糊逻辑控制器可以根据被控量偏差的变化情况动态调节传统一阶动态控制器的增益，控制器增益 $K _ { \\mathrm { P } }$ 可在区间 $[ K _ { \\mathrm { P m i n } }$ ， $K _ { \\mathrm { P m a x } } ]$ 动态变化，从而间接完成对TCPST的调控。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.2模糊子集的划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "模糊逻辑控制器设计的核心之一是IF-THEN策略表的制定。而IF-THEN策略是根据模糊集合制定的，下面首先介绍模糊输入集合的确定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由第4.1节可知， $| e |$ 和 $| \\dot { e } |$ 的最大值已经通过规格化而被限定在数值1附近，因此可将 $e$ 和 $\\dot { e }$ 划分为LP（大正）、MP（中正）、SP（小正）、VS（很小）、SN（小负）、MN（中负）和LN（大负）等7个模糊子集。这7个模糊子集的划分是目前模糊逻辑中最常用的分类，各模糊子集对应的隶属度函数为三角形隶属度函数[]，如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eacfbf385a356901aeb293340614c32586c3f6eef29782f21a28a9451258766a.jpg",
+        "img_caption": [
+            "图5 $e$ 和 $\\dot { e }$ 的隶属度函数"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以 $e$ 的模糊子集LN为例，该模糊子集的隶属度函数具体表达式为",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { \\mathrm { L N } } ( e ) = \\left\\{ \\begin{array} { c c } { { 1 } } & { { - \\infty < e \\leqslant - 1 } } \\\\ { { - 3 e - 2 } } & { { - 1 < e < - 2 / 3 } } \\\\ { { 0 } } & { { e \\geqslant - 2 / 3 } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其他模糊子集的隶属度函数与式（4）相似，此处不再一一给出详细表达式。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图4可知，本文设计的模糊逻辑的输出为传统TCPST控制器的增益 $K _ { \\mathrm { P } }$ ，为编程的通用性，首先将 $K _ { \\mathrm { P } }$ 进行规格化处理，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { { p } } } ^ { * } = \\frac { K _ { \\mathrm { { p } } } - K _ { \\mathrm { { P m i n } } } } { K _ { \\mathrm { { P m a x } } } - K _ { \\mathrm { { P m i n } } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $K _ { \\mathrm { P } } ^ { * }$ 为规格化后的模糊逻辑控制器输出 $K _ { \\mathrm { P } }$ 。与模糊逻辑控制器的输入 $e$ 和 $\\dot { e }$ 类似，模糊逻辑控制器的输出 $K _ { \\mathrm { P } } ^ { * }$ 在论域[0,1]区间上可定义出ZE(零）、VS（很小）、S（小）、SB（稍大）、MB（中大）、B（大）和VB（很大）7个模糊子集。这7个模糊子集对应的三角形隶属度函数如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdb77b42c02eaf0d965f4ae1e1dcdaf91c3e05b48a82e5035c850fb4834bee1a.jpg",
+        "img_caption": [
+            "Fig.5The membership function of $e$ and $\\dot { e }$ ",
+            "Fig.6The membership function of $K _ { \\mathrm { P } } ^ { * }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.3模糊逻辑控制器控制策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "模糊逻辑控制器的输出 $K _ { \\mathrm { P } } ^ { * }$ 由如下的模糊规则确定：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果 $e$ 是A且é是B，那么 $K _ { \\mathrm { { P } } } ^ { * }$ 是C。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A、B和C对应输入 $e$ 和 $\\dot { e }$ 以及输出 $K _ { \\mathrm { P } } ^ { * }$ 值域空间上各自相应的模糊子集。本文制定了IF-THEN模糊逻辑控制策略表，见下表。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/903b597c9e77f6150d7be201336dfe5ea5b7b00e945a597fb6d1e3d75f556f12.jpg",
+        "table_caption": [
+            "表模糊逻辑控制策略表",
+            "Tab. The fuzzy logic controller strategy form "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>e</td><td>LN</td><td>MN</td><td>SN</td><td>VS</td><td>SP</td><td>MP</td><td>LP</td></tr><tr><td>LN</td><td>VB</td><td>VB</td><td>VB</td><td>S</td><td>VS</td><td>VS</td><td>ZE</td></tr><tr><td>MN</td><td>VB</td><td>VB</td><td>MB</td><td>SB</td><td>S</td><td>S</td><td>S</td></tr><tr><td>SN</td><td>VB</td><td>B</td><td>B</td><td>MB</td><td>VS</td><td>MB</td><td>SB</td></tr><tr><td>VS</td><td>B</td><td>B</td><td>VB</td><td>ZE</td><td>VB</td><td>B</td><td>B</td></tr><tr><td>SP</td><td>SB</td><td>MB</td><td>VS</td><td>MB</td><td>B</td><td>B</td><td>VB</td></tr><tr><td>MP</td><td>S</td><td>S</td><td>S</td><td>SB</td><td>MB</td><td>VB</td><td>VB</td></tr><tr><td>LP</td><td>ZE</td><td>VS</td><td>VS</td><td>S</td><td>VB</td><td>VB</td><td>VB</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在制定上表中的IF-THEN 控制策略时，本文主要考虑了如下准则[8]：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1）努力使控制器有一个较小的超调量和调节时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2）能够尽可能减少由于信号传递采集或者系统自身死区带来的控制延迟。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(3）为了确保系统被控量尽量维持在预设点，在预设点附近需要考虑尽可能多的控制器输出情况，避免超调的发生。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4）控制器能够尽可能有好的鲁棒性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据控制需求而制定的以上四个模糊规则在系统不同的运行情况下，通过模糊逻辑控制器自动调节控制器的增益。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据 $e$ 、 $\\dot { e }$ 和 $K _ { \\mathrm { P } } ^ { * }$ 所对应模糊子集的隶属度函数，以及表中所制定的IF-THEN模糊规则库，选择单值解模糊器、乘积推理机和中心平均解模糊器实现模糊逻辑控制器，模糊逻辑控制器输出值 $K _ { \\mathrm { { P } } } ^ { * }$ 与输入 $e$ 和é对应的映射曲面如图7所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ffd361ef3e33e46fd616fce7c5502acc0536cb3de36987dedb33c69a781f905a.jpg",
+        "img_caption": [
+            "图6 $K _ { \\mathrm { { P } } } ^ { * }$ 的隶属度函数",
+            "图7模糊逻辑控制器输入输出关系曲面Fig.7Input-output relation surface of FLC"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图7可以看出模糊逻辑控制器输入输出关系式（3）的非线性特性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据模糊逻辑控制器确定的 $K _ { \\mathrm { P } } ^ { * }$ ，可以将 $K _ { \\mathrm { P } } ^ { * }$ 还原为实际控制器需要的 $K _ { \\mathrm { P } }$ ，即",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK _ { \\mathrm { { p } } } = K _ { \\mathrm { { p , m i n } } } + K _ { \\mathrm { { p } } } ^ { * } ( K _ { \\mathrm { { P m a x } } } - K _ { \\mathrm { { P m i n } } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 算例分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "安德森3机9节点系统如图8所示。系统参数参见文献[9]。暂态仿真中负荷采用恒定阻抗，通过仿真算例来验证本文设计的TCPST模糊逻辑控制器的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/62240f8fe584b8b00301e1f0bb32ad95510365056e27b36c67769304d5c26633.jpg",
+        "img_caption": [
+            "图8含TCPST的9节点系统Fig.8A9-bus system contain TCPST"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文设计的模糊逻辑控制器采用TCPST所在支路传输的有功功率与稳态时预设的传输功率的偏差及偏差的变化率为输入信息。选取稳态增益 $K _ { \\mathrm { P o } } = 1 5$ .$K _ { \\mathrm { P } }$ 的变化范围为[8,25]，即 $K _ { \\mathrm { P m i n } } = 8$ ， $K _ { \\mathrm { P m a x } } = 2 5$ 。时间常数 $T _ { \\mathrm { p } } = 0 . 2$ 。具体的仿真结果如下。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.1仿真算例I ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "若在母线7处发生三相短路故障，故障 $1 0 0 \\mathrm { { m s } }$ 后切除5-7支路，再经过 $5 0 0 \\mathrm { { m s } }$ 支路5-7自动重合闸成功。系统中不安装TCPST、安装一台TCPST(8-9支路PS1）和安装两台TCPST（8-9支路和4-5支路）三种不同情况时，发电机2和发电机1的功角摆动曲线如图9所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图9可以看出，当不安装TCPST时，系统一直在等幅振荡；当系统安装一台TCPST时，系统可以保持稳定，但后续摇摆衰减的速度相对较慢；当系统安装两台TCPST时，系统能够保持稳定且后续的摇摆很快得到了有效的抑制。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真结果表明，采用TCPST模糊逻辑控制可以有效地抑制系统振荡，这一趋势与传统P型控制",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2dcbdd5c76d15c6df0781064e655e7052d45ff89dc52eeaca95fcbe0710b1dfc.jpg",
+        "img_caption": [
+            "图9发电机2和发电机1的功角摆动曲线 Fig.9The swing curves of power angle "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "器一致。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5.2 仿真算例II ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "当系统中只安装一台TCPST (8-9支路PS1)时，在仿真算例I相同条件下，模糊P型控制器和传统P型控制器的控制效果对比情况，如图10所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "仿真结果表明，由图10a可知，采用模糊P型控制器时发电机的相对功角（实线）比采用传统P型控制器时发电机的相对功角（虚线）振荡减幅的速度要更快一些。由图10b、10c可知，电机的功角摇摆幅值较大时，模糊P型控制器能够自动调节控制器的比例系数 $K _ { \\mathrm { P } }$ ，使得移相器输出较大的移相角从而提供更强有力的控制作用；而当发电机的功角摇摆幅值逐渐减小趋于平稳时，模糊P型控制器则动态调整比例系数，使TCPST需要调节移相角保持在接近于 $0 ^ { \\circ }$ 的很小的调节范围内。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4b1f74cd70845bf67eadeb7710c3383af55e56b7d051ed6edc8b3f39f02d5c9.jpg",
+        "img_caption": [
+            "(b）移相器PS1的移相角变化曲线"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/503d888508ca2088c9a82be411c15ffd033714175d28c028706a287f919dfd7f.jpg",
+        "img_caption": [
+            "图10模糊P型控制器与传统P型控制器控制效果对比 Fig.10Comparison between FLC and convintional controller "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上表明，本文设计的模糊逻辑控制器，在不同仿真情况下，均比传统P型控制器有更好的控制效果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6 结论 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前已有文献中所研究的TCPST模糊逻辑控制器均以TCPST的移相角直接作为模糊控制器的输出。本文设计了一种利用模糊逻辑动态调整传统TCPST一阶动态控制器增益的新型TCPST模糊逻辑控制器。该类型模糊逻辑控制器以传统控制的增益 $K _ { \\mathrm { P } }$ 作为输出，间接完成对TCPST的控制，因而是一种模糊逻辑控制与传统线性控制的混合控制。对安德森3机9节点系统的暂态仿真结果表明，本文所设计的模糊逻辑控制器既能提高电力系统的暂态稳定性，也可以加速暂态过程中线路功率振荡的恢复。但模糊逻辑控制器输出的 $K _ { \\mathrm { P } }$ 存在抖振问题，需要后续采取措施进行改进。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] 夏道止．电力系统分析[M]．北京：中国电力出版",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "社，2004.   \n[2] 兰洲，倪以信，甘德强．现代电力系统暂态稳定 控制研究综述[J]．电网技术，2005(15)：40-50. Lan Zhou,Ni Yixin,Gan Deqiang.A survey on transient stability control of modern power systems[J].Power System Technology,2005,29(15): 40-50.   \n[3] Song Y H,T Johns A.Flexible AC transmission system[M].Padstow, Cornwall: TJ Internation Ltd., 1999.   \n[4] Baker R,Guth G,Egli W,et al. Control algorithm for a static phase shifting transformer to enhance transient and dynamic stability of large power systems[J].IEEE Transactions on Power Apparatus and Systems,1982,PAS-101(9): 3532-3542.   \n[5] Wang HF,Swift FJ,Li M.Analysis of thyristorcontrolled phase shifter applied in damping power system oscillations[J]. International Journal of Electrical Power & Energy Systems,1997,19(1): 1-9.   \n[6] Tirtashi MRS,Mazlumi K,Rohani A.TCPS controller design using fuzzy logic controller for power system stability enhancement[C].2010 IEEE International Conference on Power and Energy, 2010:195-199.   \n[7] Wang L X.A course in fuzzy systems[M].USA: Prentice-Hall Press,1999.   \n[8] Mudi R K,Pal N R.A self-tuning fuzzy PI controller[J]. Fuzzy Sets and Systems, 2000,115(2): 327-338.   \n[9] Anderson P M, Fouad AA.Power system control and stability[M]. Wiley. com,2008. ",
+        "page_idx": 5
+    }
+]

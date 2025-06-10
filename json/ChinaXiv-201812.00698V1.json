@@ -1,0 +1,530 @@
+[
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和丁酸梭菌对五龙鹅雏鹅生长性能、屠宰性能、血清生化指标及抗 氧化能力的影响 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孙玲玲 王宝维\\* 龙建华柯昌娇 刁翠萍 葛文华张名爱（青岛农业大学优质水禽研究所，国家水禽产业技术体系营养与饲料功能研究室，青岛",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "266109) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究饲粮中添加枯草芽孢杆菌和丁酸梭菌对五龙鹅雏鹅生长性能、屠宰性能、血清生化指标及抗氧化能力的影响。选择1日龄体重相近的健康五龙鹅雏鹅 200 只，随机分为4个组，每组5个重复，每个重复10只鹅。Ⅰ组（对照组）饲喂基础饲粮，Ⅱ组在基础饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌，II组在基础饲粮中添加 $2 5 0 \\mathrm { m g / k g }$ 丁酸梭菌,V组在基础饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌 $+ 2 5 0 \\mathrm { m g / k g }$ 丁酸梭菌。试验期4周。结果表明：1）与对照组比较， $\\mathrm { I I }$ 、II、IV组鹅末重分别提高了 $7 . 7 8 \\% ( P { < } 0 . 0 5 )$ 、 $3 . 1 2 \\% ( P { > } 0 . 0 5 )$ 和$9 . 5 4 \\% ( P { < } 0 . 0 5 )$ ，平均日增重分别提高了 $7 . 8 9 \\% ( P { < } 0 . 0 5 ) . 3 . 3 9 \\% ( P { > } 0 . 0 5 )$ 和 $1 0 . 1 8 \\% ( P { < } 0 . 0 1 )$ 料重比分别降低了 $4 . 9 6 \\% ( P { < } 0 . 0 5 )$ 、 $1 . 6 5 \\% ( P { > } 0 . 0 5 )$ 和 $6 . 2 0 \\% ( P { < } 0 . 0 5 ) \\$ 。2）与对照组比较，ⅡI、III、IV组鹅胸肌率分别提高了 $2 . 1 0 \\% ( P { > } 0 . 0 5 ) . 2 . 8 0 \\% ( P { > } 0 . 0 5 )$ 和 $4 . 2 0 \\% ( P { < } 0 . 0 5 )$ ，腿肌率分别提高了 $9 . 5 0 \\% ( P { < } 0 . 0 5 ) . 8 . 6 0 \\% ( P { < } 0 . 0 5 )$ 和 $1 0 . 8 6 \\% ( P { < } 0 . 0 5 )$ ，腹脂率分别降低了 $7 . 7 4 \\% ( P { < } 0 . 0 5 )$ 、$5 . 8 1 \\% ( P { > } 0 . 0 5 )$ 和 $1 0 . 9 7 \\% ( P { < } 0 . 0 5 ) _ { \\circ } \\ 3$ ）与对照组比较，II、II、IV组鹅血清总抗氧化能力分别提高了 $4 . 4 6 \\% ( P { > } 0 . 0 5 )$ 、 $3 . 3 9 \\% ( P { > } 0 . 0 5 )$ 和 $1 2 . 3 3 \\% ( P { < } 0 . 0 5 )$ ，血清总超氧化物歧化酶活性分别提高了 $4 . 9 4 \\% ( P { < } 0 . 0 5 ) . 3 . 3 0 \\% ( P { > } 0 . 0 5 )$ 和 $7 . 6 9 \\% ( P { < } 0 . 0 1 )$ 。由此可见，饲粮中添加枯草芽孢杆菌和丁酸梭菌能够提高五龙鹅雏鹅生长性能、屠宰性能和抗氧化能力，二者配合使用的效果优于单一菌种。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：枯草芽孢杆菌；丁酸梭菌；五龙鹅雏鹅；生长性能；屠宰性能；血清生化指标；抗 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "氧化能力",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S835 文献标识码： 文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "枯草芽孢杆菌是一种被广泛使用的微生态制剂，是一种产孢子的革兰氏阳性染色需氧菌，有很强的恶劣环境存活能力，能够产生有助于动物消化吸收多种酶类，还能产生许多抗生素，有利于动物健康生长。丁酸梭菌也是一种产孢子的有益菌，厌氧生存，能够在无氧条件下消化道内定植发挥有益作用，其代谢产生的丁酸对动物肠道炎症修复有非常好的作用。因此，研究枯草芽孢杆菌和丁酸梭菌对动物保健的影响具有重要意义。庞敏等[研究发现，断奶仔猪饲粮中添加酪酸梭菌制剂可以显著降低仔猪腹泻率。Shimbo 等[2]研究表明，丁酸梭菌对治疗肠炎、腹泻、消化功能紊乱效果良好，也可用于恶性肿瘤的防治。郑春芳等[3]研究表明，饲粮中添加枯草芽孢杆菌会显著提高肉鸡42日龄的体重，并改善21\\~42 日龄的饲料利用率。廖秀冬[4]研究发现，饲粮中添加丁酸梭菌可显著提高肉鸡1\\~21日龄和 22\\~42日龄平均日增重，改善21和42 日龄肉鸡十二指肠形态结构，并提高了21日龄盲肠食糜中乙酸、丁酸和总短链脂肪酸(SCFA)含量；同时能够提高 21和42日龄肉鸡血清中免疫球蛋白M（IgM）的含量。目前，已有许多枯草芽孢杆菌对动物生长影响方面的研究报道，也有丁酸梭菌对动物肠道保护和治疗方面的研究，但有关枯草芽孢杆菌和丁酸梭菌联合使用对动物生长发育和抗氧化能力的研究还处于空白。因此，本试验以五龙鹅为动物模型，通过研究饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅生长性能、屠宰性能、血清生化指标及抗氧化能力的影响，旨在确定枯草芽孢杆菌和丁酸梭菌联合使用的效果，为探索新型微生态制剂提供技术支撑。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验动物与设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选择1日龄体重相近的健康五龙鹅雏鹅 200只，随机分为4个组，每组5个重复，每个重复10 只鹅。I组(对照组)饲喂基础饲粮，ⅡI组在基础饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌,II组在基础饲粮中添加 $2 5 0 \\mathrm { m g / k g }$ 丁酸梭菌，IⅣ组在基础饲粮中添加 $2 5 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌 $+ 2 5 0 \\mathrm { m g / k g }$ 丁酸梭菌。试验期4周。试验鹅由青岛农业大学优质水禽研究所育种基地提供，枯草芽孢杆菌和丁酸梭菌购自山东苏柯汉生物工程有限公司。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 基础饲粮 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基础饲粮的营养水平参照 NRC(1994)家禽营养需要量设计。基础饲粮组成及营养水平见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1基础饲粮组成及营养水平 (风干基础)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7075c2a3a843c1fef8b918d254c186889f9e6de5faa5add147aa3dd9327f8f1b.jpg",
+        "table_caption": [
+            "Table 1Composition and nutrient levels of the basal diet (air-dry basis) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>原料Ingredients</td><td>含量Content</td><td>营养水平 Nutrient levels2)</td><td>含量Content</td></tr><tr><td>玉米Corn</td><td>60.00</td><td>代谢能ME/（MJ/kg)</td><td>12.14</td></tr><tr><td>豆粕 Soybean meal</td><td>28.50</td><td>粗蛋白质 CP</td><td>19.32</td></tr><tr><td>鱼粉Fish meal</td><td>2.20</td><td>粗纤维CF</td><td>3.37</td></tr><tr><td>次粉 Wheat middling</td><td>4.80</td><td>钙Ca</td><td>0.75</td></tr><tr><td>玉米秸秆 Corn straw</td><td>2.00</td><td>有效磷 AP</td><td>0.34</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.84</td><td>赖氨酸Lys</td><td>1.12</td></tr><tr><td>石粉 Limestone</td><td>0.86</td><td>蛋氨酸 Met</td><td>0.32</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>半胱氨酸 Cys</td><td>0.31</td></tr><tr><td>微量元素 Trace</td><td>0.20</td><td></td><td></td></tr><tr><td>elements1)</td><td>0.30</td><td></td><td></td></tr><tr><td>多维Multivitamin1)</td><td></td><td></td><td></td></tr><tr><td>合计Total</td><td>100.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)多维和微量元素为每千克饲粮提供 The multivitamin and trace elements provided the following per $\\mathrm { k g }$ ofthe diet: VA $1 5 0 0 \\mathrm { m g }$ ， $\\mathrm { V D } _ { 3 } 2 0 0 \\mathrm { I U }$ ，VE 12.5 mg, $\\mathrm { V K } _ { 3 }$ 1.5 mg, $\\mathrm { V B } _ { 1 } 2 . 2 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 5 . 0 \\ : \\mathrm { m g }$ ，烟酸 nicotinic acid$6 5 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 6 } 2 \\log$ ，生物素 biotin $0 . 2 \\mathrm { m g }$ ，泛酸 pantothenate $1 5 \\mathrm { m g }$ ，胆碱choline $1 0 0 0 \\mathrm { m g }$ ，Fe $9 0 \\mathrm { m g }$ ，Cu（204号 $1 2 \\mathrm { m g }$ ， $\\mathrm { M n } 8 5 \\mathrm { m g }$ ， $Z n 8 5 { \\mathrm { ~ m g } }$ ， $\\mathrm { ~ I ~ } 0 . 4 2 \\mathrm { ~ m g ~ }$ ，Se $0 . 3 ~ \\mathrm { m g }$ ，Co $2 . 5 ~ \\mathrm { m g }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)代谢能为计算值，其余为实测值。ME was a calculated value,while others were measured values. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.3 饲养管理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "试验前，对鹅舍及器具进行严格的冲洗和消毒，然后熏蒸 $2 4 \\mathrm { h }$ ，通风净化后再开始试验。试验鹅喂料采取少喂勤添的方式，自由采食和饮水。育雏第1周温度为 $2 8 { \\sim } 3 0 ^ { \\circ } \\mathrm { C }$ ，第2周",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$2 6 { \\sim } 2 7 ^ { \\circ } \\mathrm { C }$ ，第3周 $2 4 { \\sim } 2 5 ^ { \\circ } \\mathrm { C }$ ，21日龄以后逐渐降到常温。光照：第1\\~2周 $2 3 \\mathrm { ~ h ~ }$ ；第3周$1 8 \\mathrm { h }$ ；之后采用自然光照。勤观察雏鹅的生长情况，及时做记录。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4 测定指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.1 生长性能指标 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以重复为单位统计试验鹅耗料量，余料回收，计算采食量。试验鹅4周龄末以重复为单位称重。称重前 $1 2 \\mathrm { h }$ 停料、不停水，第2天08：00 进行空腹称重，并作详细记录。计算1\\~4周龄平均日增重(ADG)、平均日采食量(ADFI)、料重比(F/G)。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.2 屠宰性能指标 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于饲养试验的4周龄末，从每组中分别抽取10只体重接近该组平均体重的鹅，每个重复2只，共40 只，颈静脉放血致死，用湿法拔毛冽干水分后称重，测定其屠宰性能。屠宰测定屠体重（鹅放血、去毛后的重量）、半净膛重（屠体重去除气管、食道、嗦囊、肠、脾脏、胰脏、胆、生殖器官、肌胃内容物及角质膜后的重量）、全净膛重（半净膛减去心脏、肝脏、胃、腹脂、头和脚后的重量）、腹脂重（腹部板油及肌胃周围脂肪剥离称重）、胸肌重（胸肌前段以臂二头肌为界，起始于肩关节，后端止于胸骨正中突，在胸骨的两端侧面，以胸骨侧突边缘为界，把胸肌与腹外肌分离，最后把整个胸肌从胸骨上剥离称重）、腿肌重（腿肌是先沿着耻骨边缘剥离肌肉，然后两端以缝匠肌为界，后端以半腱肌为界，沿尾提肌的边缘，连同肌肉把整个大腿、髋白分离称重）。屠宰性能指标计算公式[5如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "屠宰率 $( \\% ) =$ （屠体重/宰前活重） $\\times 1 0 0$ 半净膛率 $( \\% ) =$ （半净膛重/宰前活重） $\\times 1 0 0$ 全净膛率 $( \\% ) =$ （全净膛重/宰前活重） $\\times 1 0 0$ 胸肌率 $( \\% ) =$ （两侧胸肌重/全净膛重） $\\times 1 0 0$ 腿肌率 $( \\% ) =$ （两侧腿肌重/全净膛重） $\\times 1 0 0$ 腹脂率 $( \\% ) = [$ 腹脂重/（全净膛重 $\\cdot ^ { + }$ 腹脂重） $] { \\times } 1 0 0$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.4.3 血清生化指标测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于试验4周龄末，从每组中分别抽取10只体重接近该组平均体重的鹅，每个重复取 2只，共40只，翅静脉采血， $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心制得血清样品，分装， ${ \\bf - 4 0 ^ { \\circ } C }$ 冷冻保存。血清中尿素氮（UN）含量用脲酶法测定，血清中碱性磷酸酶（AKP）活性用比色法测得，血清中总蛋白(TP)含量采用双缩脲法测定，血清中甘油三酯（TG）含量采用磷酸甘油氧化酶法测定。所用试剂盒均购自南京建成生物工程研究所。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4.4血清抗氧化指标测定",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "于试验4周龄末，从每组中分别抽取10只体重接近该组平均体重的鹅，每个重复取 2只，共40只，翅静脉采血， $3 ~ 0 0 0 ~ \\mathrm { r / m i n }$ 离心制得血清样品，分装， ${ \\bf - 4 0 ^ { \\circ } C }$ 冷冻保存。比色法测定血清中总抗氧化能力(T-AOC)，羟胺法测定血清中总超氧化物歧化酶(T-SOD)活性，硫代巴比妥酸（TBA）法测定血清中丙二醛(MDA)的含量，二硫代二硝基苯甲酸法测定血清中谷胱甘肽过氧化物酶(GSH-Px)活性。所用试剂盒均购自南京建成生物工程研究所，用UV-1100 型紫外可见光分光光度计在不同波长下进行测定。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.5 统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用 Excel 2010预处理，采用 SPSS 17.0 软件中单因素方差分析(one-wayANOVA)中的LSD法进行多重比较，进行统计分析和相关分析， $P { > } 0 . 0 5$ 为差异不显著， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅生长性能的影响 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅生长性能的影响如表2所示。结果显示，饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅末重、平均日增重影响极显著 $( P { < } 0 . 0 1 )$ 。与对照组比较，II、III、IV组鹅末重分别提高了 $7 . 7 8 \\% ( P { < } 0 . 0 5 )$ 、 $3 . 1 2 \\% ( P { > } 0 . 0 5 )$ 和 $9 . 5 4 \\% ( P { < } 0 . 0 5 )$ ，平均日增重分别提高了 $7 . 8 9 \\% ( P { < } 0 . 0 5 )$ 、 $3 . 3 9 \\% ( P { > } 0 . 0 5 )$ 和 $1 0 . 1 8 \\% ( P { < } 0 . 0 1 )$ 。各组间平均日采食量差异不显著 $( P { > } 0 . 0 5 )$ ，II、III、IV组鹅平均日采食量分别提高了 $2 . 3 5 \\%$ 、 $1 . 4 4 \\%$ 和 $3 . 9 4 \\%$ 。与对照组比较， $\\mathrm { I I }$ 、IⅡ、IV组鹅料重比分别降低了 $4 . 9 6 \\% ( P { < } 0 . 0 5 )$ 、 $1 . 6 5 \\% ( P { > } 0 . 0 5 )$ 和$6 . 2 0 \\% ( P { < } 0 . 0 5 )$ 。IV组鹅死淘率最低。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌能够提高雏鹅体重和平均日增重，",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "且二者配合使用的效果优于单一菌种。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表2饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅生长性能的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef1fbad256bf6896e6491246fea202e55b3df69f6307fdd8eb586744428be3af.jpg",
+        "table_caption": [
+            "Table 2Effects of dietary Bacillus subtilis and Clostridium butyricum on growth performance of goslings "
+        ],
+        "table_footnote": [
+            "同行数据肩标相同、相邻和相隔小写字母分别表示差异不显著（ $P { > } 0 . 0 5$ ）、显著（ $\\cdot P { < } 0 . 0 5$ ）和极显著$\\scriptstyle { \\cdot } { } _ { P < 0 . 0 1 }$ ）。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"4\">组别 Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值 P-value</td></tr><tr><td>I</td><td>Ⅱ</td><td>IⅢI</td><td>IV</td></tr><tr><td>初重IW/g</td><td>75.69</td><td>80.07</td><td>74.87</td><td>79.43</td><td>2.42</td><td>0.872</td></tr><tr><td>末重BW/g</td><td>1 222.18b</td><td>1 317.21a</td><td>1 260.35b</td><td>1 351.08a</td><td>16.22</td><td>0.001</td></tr><tr><td>平均日增重 ADG/g</td><td>40.95c</td><td>44.18ab</td><td>42.34bc</td><td>45.12a</td><td>0.58</td><td>0.004</td></tr><tr><td>平均日采食量 ADFI/g</td><td>99.14</td><td>101.47</td><td>100.57</td><td>103.05</td><td>0.69</td><td>0.253</td></tr><tr><td>料重比F/G</td><td>2.42a</td><td>2.30b</td><td>2.38ab</td><td>2.27b</td><td>0.02</td><td>0.070</td></tr><tr><td>死淘率 Mortality/%</td><td>3.80</td><td>2.70</td><td>2.50</td><td>0.00</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same row,values with the same,adjacent and separated small letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，significant difference $( P { < } 0 . 0 5 )$ and extremely significant difference $( P { < } 0 . 0 1 )$ ,respectively. The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅屠宰性能的影响 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅屠宰性能的影响如表3所示。结果显示，饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅屠宰率、半净膛率和全净膛率的影响不显著$( P { > } 0 . 0 5 )$ ；对雏鹅胸肌率、腿肌率和腹脂率的影响显著 $( P { < } 0 . 0 5 )$ 。与对照组比较，ⅡI、III、IV组鹅胸肌率分别提高了 $2 . 1 0 \\% ( P { > } 0 . 0 5 ) . 2 . 8 0 \\% ( P { > } 0 . 0 5 )$ 和 $4 . 2 0 \\% ( P { < } 0 . 0 5 )$ ，腿肌率分别提高了$9 . 5 0 \\% ( P { < } 0 . 0 5 )$ 、 $8 . 6 0 \\% ( P { < } 0 . 0 5 )$ 和 $1 0 . 8 6 \\% ( P { < } 0 . 0 5 )$ ，腹脂率分别降低了 $7 . 7 4 \\% ( P { < } 0 . 0 5 )$ 、$5 . 8 1 \\% ( P { > } 0 . 0 5 )$ 和 $1 0 . 9 7 \\% ( P { < } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌能够提高雏鹅胸肌率、腿肌率，降低腹脂率，且二者配合使用的效果优于单一菌种。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7bd7b6948bfd2f0c108a36f8b91390ab3e68f6b7d3c0b34dc90f119b468dd7c4.jpg",
+        "table_caption": [
+            "表3饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅屠宰性能的影响",
+            "Table 3Efects of dietary Bacillus subtilis and Clostridium butyricum on slaughter performance of goslings% "
+        ],
+        "table_footnote": [
+            "2.3饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清生化指标的影响 "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别Groups</td><td rowspan=\"2\">SEM</td><td rowspan=\"2\">P值</td></tr><tr><td>I</td><td>Ⅱ</td><td>ⅢI</td><td>IV</td></tr><tr><td>屠宰率</td><td>87.51</td><td>88.79</td><td>88.33</td><td>89.18</td><td>0.48</td><td>0.707</td></tr><tr><td>Dressed percentage</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>半净膛率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage of</td><td>76.67</td><td>76.47</td><td>75.91</td><td>76.84</td><td>0.59</td><td>0.534</td></tr><tr><td>half-eviscerated yield</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>全净膛率</td><td>65.34</td><td></td><td>67.11</td><td></td><td></td><td></td></tr><tr><td>Percentage of eviscerated yield</td><td></td><td>64.67</td><td></td><td>66.47</td><td>1.65</td><td>0.968</td></tr><tr><td>胸肌率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage of breast</td><td>1.43b</td><td>1.46ab</td><td>1.47ab</td><td>1.49a</td><td>0.008</td><td>0.044</td></tr><tr><td>muscle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腿肌率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage of leg</td><td>16.11b</td><td>17.64a</td><td>17.49a</td><td>17.68a</td><td>0.23</td><td>0.011</td></tr><tr><td>muscle</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>腹脂率</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Percentage of</td><td>1.55a</td><td>1.43b</td><td>1.46ab</td><td>1.38b</td><td>0.02</td><td>0.033</td></tr><tr><td>abdominal fat</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清生化指标的影响如表4所示。结果表明，饲粮中添加草芽孢杆菌和丁酸梭菌对鹅血清尿素氮、总蛋白和甘油三酯含量及碱性磷酸",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "酶活性的影响不显著 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表4饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清生化指标的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbf9f6827f89ccca0e3586c4a308b539057c1e80a398e60789d78c538ccd8b21.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary Bacillus subtilis and Clostridium butyricum on serum biochemical indices of goslings "
+        ],
+        "table_footnote": [
+            "2.4饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清抗氧化指标的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"4\">组别Groups</td><td rowspan=\"2\">SEM</td><td>P值</td></tr><tr><td>I</td><td>Ⅱ</td><td>IⅢ</td><td>IV</td><td>P-value</td></tr><tr><td>尿素氮 UN/(nmol/L)</td><td>3.62</td><td>3.54</td><td>3.57</td><td>3.51</td><td>1.31</td><td>0.995</td></tr><tr><td>碱性磷酸酶 AKP/（金 氏单位/dL)</td><td>13.13</td><td>13.30</td><td>12.27</td><td>11.11</td><td>0.66</td><td>0.690</td></tr><tr><td>总蛋白 TP/(g/L)</td><td>35.65</td><td>36.03</td><td>34.62</td><td>34.89</td><td>0.59</td><td>0.858</td></tr><tr><td>甘油三酯 TG/(nmol/L)</td><td>0.84</td><td>0.83</td><td>0.82</td><td>0.76</td><td>0.08</td><td>0.724</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清抗氧化指标的影响如表5所示。结果表明，饲粮中添加草芽孢杆菌和丁酸梭菌对鹅血清总抗氧化能力和超氧化物歧化酶活性的影响显著 $_ { ( P < 0 . 0 5 ) }$ 。与对照组比较，ⅡI、ⅢI、IV组鹅血清总抗氧化能力分别提高了 $4 . 4 6 \\% ( P 5 0 . 0 5 )$ ，$3 . 3 9 \\% ( P { > } 0 . 0 5 )$ 和 $1 2 . 3 3 \\% ( P { < } 0 . 0 5 )$ ，血清总超氧化物歧化酶活性分别提高了 $4 . 9 4 \\% ( P { < } 0 . 0 5 )$ 、$3 . 3 0 \\% ( P { > } 0 . 0 5 )$ 和 $7 . 6 9 \\% ( P { < } 0 . 0 1 )$ 。各组鹅血清丙二醛含量和谷胱甘肽过氧化物酶活性差异不显著 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌均能够提高雏鹅抗氧化能力，且二者配合使用的效果优于单一菌种。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表5饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清抗氧化指标的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/31f8dce3607f3b2c69d4a7ef4add7749f9576560b06dcaa7703c7094d339f3e9.jpg",
+        "table_caption": [
+            "Table 5Effects of dietary Bacillus subtilis and Clostridium butyricum on serum antioxidant indices of goslings "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>组别Groups</td><td>SEM</td></tr><tr><td></td><td></td><td>P值</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ceb353a2506fbb9ebd1ac64b1e7ae7691e378e1f5495b8ff3e751fea85f8d7bf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>I</td><td>Ⅱ</td><td>ⅢI</td><td>IV</td><td></td><td>P-value</td></tr><tr><td>总抗氧化能力</td><td>9.41b</td><td>9.83b</td><td>9.78b</td><td>10.57a</td><td>0.15</td><td>0.020</td></tr><tr><td>T-AOC/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总超氧化物歧化酶</td><td>268.60c</td><td>281.88ab</td><td>277.45bc</td><td>289.26a</td><td>2.64</td><td>0.012</td></tr><tr><td>T-SOD/(U/mL)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>丙二醛</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MDA/（nmol/mL)</td><td>3.48</td><td>3.13</td><td>2.89</td><td>2.74</td><td>0.13</td><td>0.186</td></tr><tr><td>谷胱甘肽过氧化物酶</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1 688.89</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>1 626.67</td><td></td><td>1 706.67</td><td>1 742.22</td><td>33.18</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0.723</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅生长性能的影响 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "益生菌制剂作为一种健康的效果良好的功能性饲料添加剂已被相关行业广泛应用，在家禽领域的使用发展迅速，大量学者研究表明，饲粮中添加有益菌对于提高家禽生长性能有显著影响。蔡中梅等[研究表明，基础饲粮中添加 $6 0 \\mathrm { m g / k g }$ 巨大芽孢杆菌组的仔鹅体重显著大于对照组，平均日采食量显著高于对照组。张伟[7研究发现，饲粮中添加 $1 0 0 \\ : \\mathrm { g / t }$ 枯草芽孢杆菌肉鸡生长性能最佳，平均日采食量比对照组提高了 $7 . 2 9 \\%$ ，平均日增重提高了 $6 . 4 2 \\%$ 。齐博等[8]研究表明，与对照组相比，基础饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌组、 $2 0 \\mathrm { m g / k g }$ 硫酸黏杆菌素组能显著提高42 日龄肉仔鸡体重，提高后期平均日增重，显著降低后期和全期料重比，未对其他各试验阶段肉仔鸡的生长性能产生显著影响。尹艳军等[研究表明，试验前期、后期及试验全期，基础饲粮中添加 $0 . 2 \\%$ 和 $0 . 3 \\%$ 枯草芽孢杆菌均能显著提高肉鸡平均体重、平均日增重，降低肉鸡的料重比。Sena 等[1]研究发现，随着饲粮中枯草芽孢杆菌添加量的增多(0、 $0 . 1 5 \\%$ 、 $0 . 3 0 \\%$ 、 $0 . 4 0 \\%$ ，罗斯肉仔鸡生长性能呈线性增长趋势。潘康成等[I1]研究表明，在肉鸡基础饲粮中添加 $0 . 1 \\%$ 枯草芽孢杆菌制剂，肉鸡净增重、平均日增重显著提高，平均日采食量和饲料转化率也均有提高。Maneewan 等[12]研究发现，与对照组相比，枯草芽孢杆菌能够提高 $_ { 1 \\sim 2 8 }$ 日龄仔猪平均日增重。Sun 等[13]研究发现，纳豆枯草芽孢杆菌能够增加7日龄荷斯坦断奶公牛的平均日增重和饲料转化率。肖克权等[14研究表明，与对照组相比，试验组各阶段麻羽肉鸡的平均日增重显著提高；料重比均显著下降，试验全期分别降低了 $6 . 4 9 \\%$ 和 $6 . 0 0 \\%$ 。陈彩文等[15]研究表明，饲粮中添加枯草芽孢杆菌能显著提高爱拔益加肉鸡的生长性能，降低料重比。贾志新[1研究表明，与对照组相比，抗生素组和丁酸梭菌组1\\~21日龄樱桃谷肉鸭平均日增重显著提高，对1\\~21日龄料重比和 22\\~42 日龄平均日增重、料重比有改善趋势。本试验结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅体重、平均日增重有极显著的影响，与上述结论基本一致。饲粮中添加丁酸梭菌具有促进鹅生长发育的作用，主要原因是由于丁酸梭菌能够产生B族维生素、维生素K、淀粉酶、蛋白酶、糖苷酶和纤维素酶等物质，促进动物肠道双歧杆菌和乳酸杆菌等有益菌群增殖，从而促进了养分利用率，增加了鹅生长发育速度。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "本试验结果还显示，饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅平均日采食量的影响不显著，雏鹅料重比有降低趋势但差异不显著，本研究结果与上述结果不同，这可能与试验动物生长阶段不同有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅屠宰性能的影响 ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "张伟[7]研究发现，饲粮中添加 $1 0 0 \\ \\mathrm { g / t }$ 丁酸梭菌，肉鸡屠宰性能最佳，与对照组相比，屠宰率、全净膛率分别提高了 $0 . 4 2 \\%$ 、 $3 . 9 7 \\%$ ，腹脂率降低 $1 5 . 6 7 \\%$ 。齐博等[8]研究表明，与对照组相比，饲粮中添加 $5 0 0 ~ \\mathrm { m g / k g }$ 枯草芽孢杆菌组和 $2 0 \\mathrm { m g / k g }$ 硫酸黏杆菌素组肉仔鸡的屠宰性能无显著变化。蔡中梅等[研究表明，饲粮中添加 $6 0 \\mathrm { m g / k g }$ 巨大枯草芽孢杆菌组全净膛率、半净膛率显著高于对照组，各组之间胸肌率、腿肌率、腹脂率无显著差异。崔宇等[17]研究表明，与对照组相比，在肉鸡饲粮中添加枯草芽孢杆菌，肉鸡全净膛率、半净膛率分别显著提高了 $3 . 3 8 \\%$ 和 $1 . 8 3 \\%$ 。邓文等[18]研究发现，饲粮中添加丁酸梭菌能显著提高肉鸡的胸肌率，单独添加丁酸梭菌和低聚木糖以及二者同时添加能显著降低肉鸡腹脂率，二者互作效应明显。体重和平均日增重的提高与鹅采食量和消化吸收有关，采食量多，消化吸收越好，体重增长快；雏鹅健康，精神，运动量增加，胸肌和腿肌得到锻炼，因此胸肌率腿肌率增大，脂肪沉积减少。本试验结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌能够提高雏鹅体重和平均日增重，增加雏鹅胸肌率、腿肌率，降低腹脂率，与上述试验结果基本一致。本试验结果还表明，枯草芽孢杆菌和丁酸梭菌配合使用效果优于单一菌种，此结果为今后开发新型微生态制剂提供了重要启示。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清生化指标的影响尿素是动物体内蛋白质代谢的主要终产物，构成了血液中绝大部分的非蛋白氮，血液中尿素氮来源于肝脏，通过肾脏同尿液排出体外，肾脏功能衰竭、肾炎、泌尿道梗塞等可使血液尿素氮含量升高。碱性磷酸酶是磷酸酶的一种，是一种含锌的糖蛋白，常用于诊断肝胆疾病及骨病。血清总蛋白含量主要反映肝脏合成功能和肾脏病变造成蛋白质损失的情况。血清甘油三酯含量体现了肾脏功能的正常与否。Cao 等[19]研究发现，丁酸梭菌单独添加可显著降低肉鸡血氨含量。贾聪慧等[20]研究表明，与对照组相比，丁酸梭菌组肉鸡血清总蛋白含量显著升高，且在21和42 日龄时，血清总蛋白含量分别比抗生素组提高了 $3 1 . 3 3 \\%$ 和 $5 2 . 2 7 \\%$ 与对照组相比，丁酸梭菌组21和42日龄肉鸡血氨含量显著降低。辛娜等[21研究表明，芽孢杆菌对蛋鸡血清中胆固醇含量无显著影响，胆固醇含量降低了 $1 1 . 2 9 \\%$ 。Fukushim 等[22]研究结果表明，饲粮中添加巨大芽孢杆菌对血清低密度脂蛋白胆固醇含量具有显著影响。本试验结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌组雏鹅的血清尿素氮和甘油三酯含量低于对照组，与上述结果基本一致。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3.4饲粮中添加枯草芽孢杆菌和丁酸梭菌对雏鹅血清抗氧化指标的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "机体通过酶系统与非酶系统产生氧自由基，自由基能攻击生物膜中的多不饱和脂肪酸，引发脂质过氧化作用，并因此形成脂质过氧化物，丙二醛含量可反映机体内脂质过氧化的程度，间接反映出细胞损伤程度。机体防御体系的抗氧化能力的强弱与健康程度存在密切联系。余东游等[23]研究发现，饲粮中添加枯草芽孢杆菌能够显著或极显著增加罗斯 308 肉鸡血清与肝脏的总抗氧化能力以及谷胱甘肽过氧化物酶活性，降低血清中丙二醛、一氧化氮及肝脏中丙二醛含量。Rashid 等[24]研究认为，饲粮中添加枯草芽孢杆菌能够提高三黄肉仔鸡血清中谷胱甘肽过氧化物酶、过氧化物酶、谷胱甘肽还原酶、过氧化氢酶活性，降低丙二醛的含量，增强机体的抗氧化性能。陈彩文等[15]研究表明，枯草芽孢杆菌能提高血清中葡萄糖含量和超氧化物歧化酶活性，降低血清中丙二醛含量及谷丙转氨酶活性，对血清中谷草转氨酶活性的影响不显著。贾聪慧等[20]研究表明，与对照组相比，丁酸梭菌组42日龄肉鸡血清谷胱甘肽过氧化物酶和总超氧化物歧化酶活性显著增强，其中血清谷胱甘肽过氧化物酶活性比抗生素组显著提高了 $6 0 . 0 0 \\%$ ；抗生素组21日龄肉鸡血清总超氧化物歧化酶活性与对照组比较显著提高。本试验结果表明，饲粮中添加枯草芽孢杆菌和丁酸梭菌能够提高雏鹅抗氧化能力，与上述研究结果基本一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "饲粮中添加枯草芽孢杆菌和丁酸梭菌能够提高雏鹅生长性能、屠宰性能和抗氧化能力，",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "二者配合使用的效果优于单一菌种。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[1]庞敏.益生菌制剂对断奶仔猪肠道黏膜屏障功能的影响及其机理的研究[D].硕士学位论文.北京:中国农业科学院,2016.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[2]SHIMBO I,YAMAGUCHI T,ODAKA T,et al.Effect of Clostridium butyricum on fecal florainHelicobacter pylori eradication therapy[J].World Journal ofGastroenterology,2005,11(47):7520-7524.  \n[3]郑春芳,于桂阳.枯草芽孢杆菌对肉鸡生产性能的影响[J].家禽科学,2011(4):38-40.  \n[4]廖秀冬.丁酸梭菌的筛选及其对动物抗氧化能力和肉鸡肉品质影响的研究[D].博士学位论文.北京:中国农业大学,2015.  \n[5]杨宁.家禽生产学[M].北京:中国农业出版社,2002.  \n[6]蔡中梅,王志跃,杨海明,等.巨大芽孢杆菌对 $1 { \\sim } 7 0$ 日龄扬州鹅生长性能、屠宰性能、脏器指数及血清生化指标的影响[J].动物营养学报,2016,28(3):788-796.  \n[7]张伟.丁酸梭菌对肉鸡生长性能、血液指标、屠宰性能的影响[C]//中国畜牧兽医学会动物营养学分会第十二次动物营养学术研讨会论文集.中国畜牧兽医学会动物营养学分会,2016:1.  \n[8]齐博,武书庚,王晶,等.枯草芽孢杆菌对肉仔鸡生长性能、肠道形态和菌群数量的影响[J].动物营养学报,2016,28(6):1748-1756.  \n[9]尹艳军,邵紫培,杜付韬,等.枯草芽孢杆菌对肉鸡生长性能、肠道pH及微生态菌群的影响[J].饲料研究,2016(2):17-20.  \n[10]SENA S,INGALE S L,KIM Y W,et al.Effect of supplementation of Bacillus subtilis LS 1-2to broiler diets on growth nerformance.nutrient retention.caecal microbiologv and small",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "intestinal morphology[J].Research in Veterinary Science,2012,93(1):264-268. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[11]潘康成,杨金龙,王振华,等.枯草芽孢杆菌制剂对肉鸡生长、胴体和鸡肉品质的影响[J]. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "中国饲料,2005(20):11-14.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[12] MANEEWAN C,YAMAUCHI K E,THIRABUNYANON M,et al.Development of Bacillus subtilis MP and Efective utilization on productivity and microorganisms in feces of suckling piglets[J].Journal of Applied Research in Veterinary Medicine,2011,9(4):382-387. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[13] SUN P,WANG J Q,ZHANG H T.Effects of Bacillus subtilis natto on performance and immune function of preweaning calves[J].Journal of Dairy Science,2010,93(12):5851-5855. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[14]肖克权,张龙林.丁酸梭菌、枯草芽孢杆菌对麻鸡生长性能的影响[J].广东饲料,2017,26(9):30-32.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[15]陈彩文,张晓慧,曹赞,等.枯草芽孢杆菌对 $_ { 1 \\sim 2 1 }$ 日龄 AA 鸡生长性能、血液生化指标及肠道组织结构的影响[J].饲料工业,2015,36(19):10-14.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[16]贾志新.丁酸梭菌对樱桃谷肉鸭生长性能、免疫和抗氧化功能及肠道食糜VFA含量的影响[D].硕士学位论文.南京:南京农业大学,2014.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[17]崔宇,刘文举,田颖,等.枯草芽孢杆菌对 AA+肉鸡生产性能、屠宰性能及经济效益的影响[J].饲料研究,2014(23):5-8.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[18]邓文,焦玉萍,徐彬,等.丁酸梭菌和低聚木糖对肉鸡生产性能酸梭菌和低聚木糖对肉鸡生产性能、屠宰性能和肉品质的影响[J].中国家禽,2017,39(7):24-28.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[19] CAO G T,XIAO Y P,YANG C M,et al.Effects of Clostridium butyricum on growth performance,nitrogen metabolism,intestinal morphology and cecal microflora in broiler chickens[J].Journal of Animal and Veterinary Advances,2012,11(15):2665-2671. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[20]贾聪慧,杨彩梅,曾新福,等.丁酸梭菌对肉鸡生长性能、抗氧化能力、免疫功能和血清生化指标的影响[J].动物营养学报,2016,28(3):908-915.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[21]辛娜,刁其玉,张乃锋,等.芽孢杆菌制剂对蛋鸡生产性能、血清指标及盲肠微生物的影响[J].中国畜牧兽医,2011,38(10):5-9.",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "[22] FUKUSHIMA M,NAKANO M.The effect of a probiotic on faecal and liver lipid classes in rats[J].British Journal of Nutrition,1995,73(5):701-710. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[23]余东游,毛翔飞,秦艳,等.枯草芽孢杆菌对肉鸡生长性能及其抗氧化和免疫功能的影响[J].中国畜牧杂志,2010,46(3):22-25.",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[24] RASHID R I,LI Y L,XU X,et al.Supplementary effects of saccharomyces boulardii and bacillus subtilis B1O on digestive enzyme activities,antioxidation capacity and blood homeostasis in broiler[J].International Journal of Agriculture & Biology,2013,15(2):231-237. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Bacillus subtilis and Clostridium butyricum on Growth Performance, Slaughter Performance, Serum Biochemical Indices and Antioxidant Capacity of Wulong Goslingsi ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SUN LinglingWANG Baowei\\* LONG Jianhua KE Changjiao DIAO Cuiping GE Wenhua ZHANG Ming'ai ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(Nutrition and Feed Function Laboratory of China Agriculture Research System, Institute of High Quality Waterfowl, Qingdao Agricultural University, Qingdao 266109, China) ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Abstract:This study aimed to investigate the effects of dietary Bacillus subtilis and Clostridium butyricum on growth performance, slaughter performance, serum biochemical indices and antioxidant capacity of Wulong goslings. A total of 2O0 healthy one-day-old Wulong geese with similar body weight were randomly divided into 4 groups with 5 replicates in each group and 10 geese in each replicate. Geese in group I (control group) were fed a basal diet, geese in group II were fed the basal diet supplemented with $2 5 0 \\mathrm { m g / k g }$ Bacillus subtilis, geese in group III were fed the basal diet supplemented with $2 5 0 \\mathrm { m g / k g }$ Clostridium butyricum on, and geese in group $\\mathrm { I V }$ were fed the basal diet supplemented with $2 5 0 \\mathrm { m g / k g }$ Bacillus subtilis $+ 2 5 0 \\mathrm { m g / k g }$ （204号 Clostridium butyricum.The experiment lasted for 4 weeks. The results showed as follows: 1) compared with the control group, the final weight of geese of groups II， Il and $\\mathrm { I V }$ was increased by $7 . 7 8 \\%$ $( P { < } 0 . 0 5 )$ ， $3 . 1 2 \\%$ 0 $\\scriptstyle \\cdot { \\cal P } \\gamma \\geqslant 0 . 0 5 )$ and $9 . 5 4 \\%$ $_ { ( P < 0 . 0 5 ) }$ , respectively; the average daily gain was increased by $7 . 8 9 \\%$ $( P { < } 0 . 0 5 )$ ， $3 . 3 9 \\%$ $( P { > } 0 . 0 5 )$ and $1 0 . 1 8 \\%$ $( P { < } 0 . 0 1 \\$ ), respectively; and the feed to gain ratio was decreased by $4 . 9 6 \\%$ $( P { < } 0 . 0 5 )$ ， $1 . 6 5 \\%$ $( P { > } 0 . 0 5 )$ and $6 . 2 0 \\%$ 0 $_ { ( P < 0 . 0 5 ) }$ respectively. 2) Compared with the control group, the percentage of breast muscle of geese of groups II， II and $\\mathrm { I V }$ was increased by $2 . 1 0 \\%$ 0 $P { > } 0 . 0 5 )$ ， $2 . 8 0 \\%$ $( P { > } 0 . 0 5 )$ and $4 . 2 0 \\%$ $( P { < } 0 . 0 5 )$ ， respectively; the percentage of leg muscle was increased by $9 . 5 0 \\%$ $( P { < } 0 . 0 5 )$ ， $8 . 6 0 \\%$ 0 $( P { < } 0 . 0 5 )$ and $10 . 8 6 \\%$ $( P { < } 0 . 0 5 )$ , respectively; and the percentage of abdominal fat was decreased by $7 . 7 4 \\%$ （20 $( P { < } 0 . 0 5 )$ ， $5 . 8 1 \\%$ $( P { > } 0 . 0 5 )$ and $1 0 . 9 7 \\%$ $\\scriptstyle ( P < 0 . 0 5 )$ ), respectively. 3) Compared with the control group, the serum total antioxidant ability of geese of groups II， Il and $\\mathrm { I V }$ was increased by $4 . 4 6 \\%$ $( P { > } 0 . 0 5 )$ ， $3 . 3 9 \\%$ 1 $( P { > } 0 . 0 5 )$ and $12 . 3 3 \\%$ 1 $( P { < } 0 . 0 5 )$ , respectively; and the serum total superoxide dismutase activity was increased by $4 . 9 4 \\%$ 号 $( P { < } 0 . 0 5 )$ ， $3 . 3 0 \\%$ 0 $_ { ( P > 0 . 0 5 ) }$ and $7 . 6 9 \\%$ $( P { < } 0 . 0 1 \\$ ）, respectively. In conclusion, dietary Bacilus subtilis and Clostridium butyricum can improve the growth performance, slaughter performance and antioxidant capacity of Wulong goslings, and the effects of the combined use of the two bacteria is better than that of a single strain. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key words: Bacillus subtilis; Clostridium butyricum; Wulong goslings; growth performance; slaughter performance; serum biochemical index; antioxidant capacity ",
+        "page_idx": 15
+    }
+]

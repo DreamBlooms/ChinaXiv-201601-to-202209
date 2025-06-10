@@ -1,0 +1,484 @@
+[
+    {
+        "type": "text",
+        "text": "群际偏差的进化：人类对暴力与疾病威胁的适应",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周晴1吴奇1（1湖南师范大学教育科学学院心理学系，认知与人类行为湖南省重点实验室，长沙，410006)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：内群体偏好与内群体贬低现象普遍存在于社会生活中，但为何会存在这两种群际偏差的心理机制以及这两种群际偏差是否具有进化基础的问题一直没有得到解答。通过系统整理在暴力威胁和疾病威胁构成的生存压力下，两种群际偏差遵循烟雾探测原则和功能弹性原则处理威胁线索的研究报告，研究说明了两者虽然方向完全相反，但却是同一威胁管理机制对特定的内外群体关系产生的不同反应，具有进化的适应性，支持其进化假说。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词内群体偏好；内群体贬低；威胁；烟雾探测；功能弹性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在生物的整个进化历程中，有机体一直面对着极其复杂的自然环境，拥有的生存资源非常有限。为了应对这样的生存挑战，有机体进化出了形成社会群体的能力（VanVugt& Park,2009）。很多动物都倾向于通过群体来保障自身的生存。例如，鱼类会形成鱼群来保护自身，而狼能通过集体捕猎来提高获得食物的效率。对人类而言，依靠社会群体获得生存，是我们社会生活的普遍特征。在不同的社会群体形成过程中，“我们”与“他们”的区别便不可避免地在个体心里产生，个体对“我们”的行为反应会与对“他们”的行为反应表现出明显差别，即出现群际偏差（intergroup bias；Hewstone,Rubin,&Willis,2002）。研究者发现，当面对具有不同身份的群体成员时，人们会表现出内群体偏好（ingroup favoritism/ingroup bias）或内群体贬低'（ingroup derogation）的群际偏差。其中，内群体偏好表现为与不属于自身所属社会群体的外群体成员相比，个体会更加偏爱与保护自己的内群体成员（Petersen,2017）。而内群体贬低则指的是相较于对内群体成员，个体更加偏爱外群体成员（如 March&Graham, 2015; Wu,Liu, Li,Li, & Zhou,2016; Wu, Tan, Wang,& Zhou, 2015; Zhao, Wu, Shen,Xuan,&Fu,2012）。群际偏差在人类社会中非常普遍。无论是在现实世界中，还是在实验室的各种实验任务中，研究者均可稳定观察到该现象（如何晓丽，谢荣慧，2018;Montalan,Lelard, Godefroy,& Mouras,2012; Petersen, 2O17; Reicher, Templeton, Neville, Ferrari,& Drury,2016）。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "心理学家们一直试图解释人类社会为何会出现两种方向完全相反的群际偏差。例如，研究者认为内群体偏好的产生与被内群体同化的满足（Leonardeli& Brewer,2001）、外群体成员带来的现实冲突（Jackson,1993）等有关，而内群体贬低的产生与群体间成员的社会地位（Brewer,2007）、社会优势取向水平（Umphress,Simmons,Boswell,& Triana,2008）等有关。这些研究试图从近因性（proximate cause）的角度来描述群际偏差的心理机制。然而，它们依然无法回答为何群际偏差的心理机制能得以存在的问题（Scott-Phillips，Dickins，&West,2011）。近年来的研究显示，群际偏差具有进化的基础，是一种人类用以适应社会生活中出现的人际间的暴力威胁和疾病威胁的适应性心理机制。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文从进化的视角出发，系统梳理已公开发表的关于群际偏差的实证研究报告，从内群体偏好与内群体贬低的群际偏差通过遵循烟雾探测原则（smoke detector principle）和功能弹性原则（functional flexible principle）来应对暴力与疾病威胁的角度对群际偏差进化研究的现状进行分析，以说明这两种群际偏差是人类同一威胁管理系统（threat management system;Neuberg,Kenrick,& Schaller,2011; Schaller & Neuberg,2012；Wu et al.,2015,2016）对不同生态条件的适应性反应，并指出研究中存在的问题，以期在未来研究和应用中进行完善。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2内群体偏好的进化",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1内群体偏好的表现及其存在环境",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "内群体偏好是一种人类在对社会群体进行“我们”与“他们”的分类时，更为喜欢“我们”（Miller,Maner,&Becker,2010）的现象。平常的社会生活中，人们可能不太愿意承认对他人的这种区别对待，但是无论人们如何贬斥这一现象，这一现象也依然存在着。例如，以血缘关系为基础形成的群体古来有之，社会发展又不断赋予它新的内容，如婚姻关系、家庭关系，并以此为纽带将“我们”区别于“他们”。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相关研究显示，内群体偏好现象与我们的生活息息相关，形影不离。这一现象在不同的宗教信仰群体间（Terrizzi，Shook，& Ventis，2012）和政治主张群体间（Terrizzi，Shook，&Mcdaniel，2013）最为明显。同时，内群体偏好可以表现为不同的形式，例如在与他人交往过程中，个体可能会不经意间对不同种族群体具有刻板印象（Williams，Sng，& Neuberg,2016）、对残疾群体抱有偏见（Park,Faulkner,& Schaller,2003）、歧视具备某一特征的群体，如肥胖群体（Park,Schaller,&Crandall,2007）或老年人（Duncan& Schaller,2009）等。研究还发现，在实验室虚拟的仅有标签差别的最小群体（minimal group）中也存在内群体偏好，例如人为的用不同字母图片划分内外群体，结果偏好内群体成员现象依旧显著（如Makhanova,Miller,&Maner,2015）。内群体偏好现象几乎在所有的人类文化中都存在，但是更多的出现在以西方文化为背景（Becker,Mortensen,Anderson,& Sasaki,2014），以及具有较高社会地位的优势社会群体（Wilson,Hugenberg,&Rule,2017）的被试身上，而且在被评价的对象为群体中普通的正常个体（Reese,Steffens,& Jonas,2013）时，偏好内群体成员而贬低外群体成员的现象更加明显。内群体偏好不仅可能会对厌恶对象的身心造成消极影响（Lewis,Kravitz,Janssen,&Powell,2011），也会给人类社会带来巨大的负面作用，如群体间的敌意，攻击，甚至于战争等（Hewstone et al.,2002; Schaller& Neuberg,2012）。在这种情况下，内群体偏好却在人类社会中持续存在，影响深远，其内在原因令人费解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2内群体偏好的进化假说",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "发展心理学的研究提示，婴儿更倾向于从内群体成员那里进行语言学习（Shutts,Kinzler,McKee,&Spelke,2009），11个月时便能将人划分为“我们”和“他们”（Mahajan&Wynn2012），表明内群体偏好在人类发展早期阶段便有所展现。除此外，来自行为遗传学的证据显示，内群体偏好具有遗传上的基础（Orey&Park,2012）。而来自比较心理学和动物学的证据则表明，在人类近亲灵长类动物身上，也可以观察到内群体偏好现象（Mahajan et al.,2011），例如：对大多数灵长类动物而言，群体间的交流都比群体内的交流更加暴力（Schaller& Neuberg,2008）。这些证据提示，内群体偏好可能具有进化的基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "于是，针对人类为何会产生出内群体偏好及其究竟有何功能的问题，有研究者从威胁管理的角度，提出形成内群体偏好的心理机制是作为一种适应器被进化出来的（Schaller &Neuberg,2012;VanVugt&Park,2009）。在人类进化历史上，外群体成员会给人类祖先带来两大主要的威胁。首先，外群体成员会给个体带来暴力威胁：在发生资源竞争时外群体成员通过暴力行为可能直接导致个体受伤或者死亡。其次，外群体成员会给个体带来\"疾病\"的威胁：外群体成员可能携带有个体尚不能免疫的细菌、病毒、寄生虫等，从而使得个体染病；或者外群体成员不了解当地预防疾病的行为策略从而将疾病传播给个体。因此，促使个体对内外群体成员进行分辨，并采取行动减小外群体成员带来的威胁的影响，这种心理机制在进化上是适应的。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "除此外，研究者还提出，为了应对这两大威胁，内群体偏好的心理机制应通过遵循烟雾探测原则和功能弹性原则进行反应（Schaller＆Neuberg,2012）。烟雾探测原则即人类检测威胁的心理特征像烟雾探测器一样，具有过度敏感过度概括的特点：由于将外群体带来的真正威胁识别为安全线索需要付出的代价要远远高于将不具危险的特征识别为威胁线索的代价，因此，无论某个外群体成员是否存在真实威胁，个体都倾向于将其标志为危险人物。功能弹性原则指为了实现威胁管理的功能，相应心理机制的输出应该是灵活的，有弹性的，即为了在降低风险的同时尽可能减少相应代价（如错失的资源获取或繁殖机会等），内群体偏好的心理机制所产生的认知、情绪以及行为上的改变，应与外界威胁水平相适应，在威胁减少时降低输出，在威胁增高时提高输出。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，研究者主要从外群体带来暴力威胁和疾病威胁两大方面来探讨内群体偏好的进化。研究结果均一致性地显示，内群体偏好通过遵循烟雾探测原则和功能弹性原则获得了应对外群体暴力与疾病威胁的适应性特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3内群体偏好与对外群体暴力威胁的适应",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人类的进化历史过程中，始终伴随着群际间的合作与纷争，其中由纷争而引起的群际接触必然带有暴力色彩，个体生命安全也因此受到威胁，甚至可能意味着直接死亡（Schaller &Neuberg,2008）。因此，面对随时可能存在的暴力威胁，偏好内群体成员，厌恶与贬低外群体成员在其进化过程中是合理的，具有适应性的。当然，这一适应过程并不盲目，而是有序地遵循烟雾探测和功能弹性原则，以一代之而又随机应变。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1内群体偏好对暴力威胁的适应遵循烟雾探测原则 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "个体适应暴力威胁时遵循烟雾探测原则，即将许多不构成任何威胁的特征隐含地假设为构成某种潜在威胁的线索。对此，个体在面对外群体成员时表现更为明显。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为最大限度地降低生殖成本，个体可能会更倾向于将外群体成员与暴力威胁相联系，不加选择地全面贬损外群体成员，偏好内群体成员，以期提前避免伤害。如Miller等人（2010）发现个体更倾向于将外群体成员与暴力威胁相联系；Wilson 等（2017）的研究也发现白人男性倾向于将黑人男性定型为是具有威胁性的，而且在控制了目标人物的上肢力量后，该效应依然存在；Whitt和Wilson（2007）通过独裁者游戏发现曾经发生过种族冲突的各种族个体与其他种族进行资源分配时，会优先进行族内分配，说明即使已是和平年代，外群体成员已不构成威胁，但对外群体的防备心理依旧存在。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "然而，遵循烟雾探测原则并不是一个完全精确的方法，仅仅通过感官来识别的线索会发生这样或那样的错误，尤其是错误地将真实的暴力威胁识别为安全信号时。有机体迫切需要另一种补救方法来应对环境中突然增强的威胁。功能弹性原则便是个体用来根据环境变化，不断调整自身反应状态的方法（Schaller&Neuberg,2012）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2内群体偏好对暴力威胁的适应遵循功能弹性原则 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进化而来的内群体偏好，其机制的激活是弹性的，它应能根据外界环境权衡威胁程度，使个体在更有可能遭受暴力威胁时产生更大的反应。研究发现，一方面，直观的暴力威胁会增强个体的内群体偏好倾向，如 Bauer,Cassar,Chytilovä 和 Henrich（2013）发现，更多的暴露于战争中的个体会更加注重对内群体成员的平等而不是对外群体成员的平等；Mange,Sharvit,Margas 和Cecile(2015)发现当接触到带有暴力威胁的外群体成员线索时，会增加个体的攻击倾向，但接触内群体或无威胁的外群体成员线索时，个体的攻击倾向则不会发生变化；Mifune，Simunovic 和 Yamagishi（2017）使用抢先攻击游戏（preemptive strike game;PSG）发现，恶意的动机或恐惧的情绪会促进群际间的攻击行为。另一方面，即使面对仅仅是潜在的威胁时，个体的反应也会相应增强，这在个体的认知、记忆和实际的行为倾向上都有所体现。例如，在个体认知上，Becker等（2011）通过信号检测任务发现，当想象自己或朋友在外围城市遭到伏击时，个体通常倾向于将愤怒、外群体和男性的面孔视为敌人。在个体记忆上，Becker 等（2014）的研究结果显示带有威胁线索的面孔在个体的工作记忆中具有编码优势，即黑人男性（外群体)的愤怒面孔在非黑人被试的记忆中得到更高效的编码，并对其表现出更快速和更准确的识别。在个体实际的行为倾向上，Miller 等（2012）通过推拉摇杆考察发现暴力威胁启动条件下白人被试对黑人的回避（推动摇杆）速度会得到提高，而对黑人做出趋近反应（拉动摇杆）的速度则变慢了。除此外，研究还显示，个体并不是仅仅在出现暴力威胁的情况下增加自身的反应，而是能够根据相关线索灵活调节其反应的。例如，Cesario 和Navarrete（2014）发现，内群体成员的支持以及对外群体成员的评价可以调节个体对外群体成员带来威胁的接近程度的感知偏差；Xin，Yang 和 Liu（2016）也发现一定的生存压力对个体在投资博弈中与伙伴或对手的信任程度具有调节作用。这些研究均表明，产生内群体偏好的心理机制是一种弹性机制，它能根据外界环境调整自身输出，以免受外群体的暴力威胁。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "人类历史长河中，暴力威胁持续存在（Neubergetal.，2011）。但是，不可否认的是外群体除了可能带来暴力威胁，其可能携带的疾病威胁也不可忽视。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4内群体偏好与对外群体疾病威胁的适应",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在进化过程中，各种传染性病原体对于人类生存与繁衍一直是一个巨大的威胁。为此，人类进化出了生理免疫系统以有效探测和消灭入侵到身体里的病原体（Schaller，2011;Schaller＆Park,2011）。除此外，有研究者认为人类和其他动物一样，还具有一套在感染发生之前就能有效防御病菌感染的进化行为策略——行为免疫系统（behavioral immune system;Schaller,2006）。由于病原体太小而不能直接检测，行为免疫系统必须基于疾病风险的间接提示（例如，陌生人、恶臭物质）触发并对这些线索做出情感（厌恶）和行为（回避）上的反应（吴宝沛，张雷,2011; Van Leeuwen& Petersen,2018;Murray& Schaler,2016），这一过程包括一系列特定的情绪、认知和行为成分，同样也表现出了过度敏感(即烟雾探测原则)（Haselton& Nettle,2006）和环境调节（即功能弹性原则）（Schaller,Park,&Kenrick,2007）的特点。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "内群体偏好的进化假说认为与外群体成员间的社会互动可能带来疾病的感染，而且在罹患疾病时个体也不容易从外群体成员那里得到帮助。因此，行为免疫系统可能会对外群体成员产生厌恶反应，因为他们被认为可能携带本群体成员无法免疫的非本地的新异病原体（Fincher＆Thormhill，2012a），并可能由于违反当地的卫生规范而导致病原体的传播（O'Handley,Blair,&Hoskin,2017）。于是，偏好内群体成员、贬损外群体成员便成为了行为免疫系统的一种适应性输出，有助于降低个体被病原体感染的风险（Fincher＆ Thormhill,2012a; Schaller & Neuberg,2012）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.1内群体偏好对疾病威胁的适应遵循烟雾探测原则 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "个体适应疾病威胁时遵循烟雾探测原则，即无论外群体是否真实带有感染风险的病菌，个体都倾向于将外群体成员视为病菌携带者。众多研究显示，人们确实是将外群体成员与疾病相联系的（Fincher,Thormhill,Murray,& Schaller,2008）。当存在较明显的外在疾病线索时，害怕外群体成员带来自己无法抵御的病菌会使个体对外群体成员产生偏见。例如：Reicher等人（2016）发现与内群体成员的汗湿T恤相比，个体对外群体成员的汗湿T恤更加厌恶。同时在没有明显线索的情况下，只是认为自己更容易遭受疾病威胁的个体，也更倾向于将带有启发式疾病线索的肥胖群体与外群体成员相联系，并且更加偏好内群体成员（Lund&Miller,2014）。研究还发现，不仅仅是肥胖群体，人们对其他带有启发式疾病线索的群体，如老人（Duncan& Schaller,2009）、残疾人（Park et al.,2003）、同性恋（Inbar,Pizarro&Bloom,2012）等群体均存在同样的反应。Petersen（2017）的研究还显示，健康的外群体成员在人们心理表征上与受到疾病感染的内群体成员相似。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "面对外群体成员可能带来的疾病感染，行为免疫的威胁管理机制除了遵循烟雾探测原则之外，还遵循功能弹性原则以应对环境中不断变化的病原体负载水平，以实现对外群体疾病威胁的适应。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4.2内群体偏好对疾病威胁的适应遵循功能弹性原则 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "内群体偏好对疾病威胁的适应遵循功能弹性原则，它在个体更可能患病时产生更大的激活。相关研究支持了这一假设，如Miller 和 Maner（2012）的研究显示，相较于熟悉的内群体成员（白人），被试容易将陌生的外群体成员（亚洲人）与疾病相联系，而且，这种效应在认为自己更容易受到疾病侵扰的被试身上会更加明显；为降低疾病感染带来的生殖风险，处于受孕期的黑人和白人女性会对外群体男性甚至对实验室中人为创造的无实际意义的仅有\"标签\"差别的外群体男性表现出更大的内隐偏见（Mcdonald,Asher,Kerr,& Navarrete,2011）。当疾病威胁真实存在时，内群体偏好机制的激活则更加强烈。如 Miller 和 Maner（2011）通过推拉摇杆实验设计发现最近生病的个体会更快的做出对毁容者（带有启发式疾病线索）的回避而对面容正常者趋近的一致性反应。除此外，研究还显示，当个体面临的疾病风险降低时，其内群体偏好的激活程度也会得到缓和。例如,个体在接受疫苗接种和洗手等保护措施后对外群体成员的偏见有所改善（Huang，Sedlovskaya，Ackerman，& Bargh,2011）；担心二手产品可能携带病原体的个体，在接受洗手措施之后对购买来自陌生人的二手产品的意愿也显著提高（Huang,Ackerman,& Sedlovskaya,2017）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为应对外群体可能带来的疾病威胁，内群体偏好的功能弹性特征还应表现在个体对内群体成员的偏好程度会因各地区病原体负载（pathogen load）水平而发生变化。不同的地区有不同的病原体负载水平，在病原体负载水平较高的地区的人们应表现出更大的内群体偏好。目前的研究结果支持了这一假设。例如，Schaller 和 Murray（2010）发现，高病原体负载地区的人们，更难以接受让不同种族的人做自己的邻居。而且，这些地区也更容易由于民族问题爆发流血冲突（Letendre,Fincher,& Thornhill,2010）。集体主义文化某种程度上意味着更多地强调“我们\"和\"他们”，也更有利于抑制病原体的传播（Fincher et al.,2008），那么在病原体负载水平较高的地区，则应该更多的倡导集体主义。而Cashdan和 Steele（2013）发现，病原体负载水平较高的地区更倾向于将儿童社会化为集体主义价值，同时也更强调传统主义价值（(Tybur etal.,2016）；地区的病原体负载水平越高，人们就越是强调与内群体成员保持联系（Fincher & Thornhil,2012a; Van Leeuwen,Park,Koenig,& Graham,2012），对外群体成员的信任水平也越低（Le,2013;Varnum,2014）。总之，这些研究均发现了病原体负载水平与内群体偏好之间的联系，结果说明了在疾病威胁下，内群体偏好确实是行为免疫系统的一种有序输出，进一步支持了内群体偏好是对外群体疾病威胁的适应器的进化假说。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "目前，研究者从暴力威胁与疾病威胁角度获得的研究证据表明，内群体偏好是作为一种威胁管理适应器被进化出来的心理机制，它遵循烟雾探测与功能弹性的执行操作方法。但是，内群体偏好进化理论存在一个重要的缺陷，即无法解释研究中发现的有时候人们会喜欢外群体成员而贬损内群体成员的现象。这种现象在方向上与内群体偏好完全相反，在人类社会中也广泛存在(如Barker& Barclay,2016;Hu,Li,&Wu,2018)。这也无法以内群体偏好机制的烟雾探测或功能弹性特点来解释。那么，人类社会为何会出现内群体贬低现象呢？",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3内群体贬低的进化",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1内群体贬低的表现及其存在环境",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "内群体贬低是一种相对于外群体成员，个体对内群体成员的偏好或评价反而更低，即更偏好外群体的奇怪现象（李琼，刘力,2011;Hu etal.,2018;Wu et al.,2015,2016）。研究发现，与内群体偏好一样，内群体贬低并不是偶然现象，它也广泛存在于社会生活中，如当被评价的目标为社会中地位较低的弱势群体（向玲，赵玉芳，2013；佐斌，徐同洁，2015;Jost,2001)，以及内群体中与众不同的异类时（Reese etal.,2013），或者当被试身份为少数民族时（March& Graham,2015），个体会更加贬损内群体成员，偏爱外群体成员。这一现象在东方文化中更为普遍，如中国被试会更容易内隐的将中国人（而不是西方人）与不文明行为相联系（LiuShan,&Jin,2015），对自己家庭成员的评价也比西方人的更低，更倾向于内隐的将家庭成员与消极特质相联系，而将西方人内隐的与积极特质相联系（Ma-Kellams,Spencer-Rodgers&Peng,2011）；与内群体成员相比，中国学生更愿意与外群体成员合作（Wuet al.,2015），并认为外群体成员的面孔更漂亮名字也更好听（Zhao etal.,2012）；同时，与美国人相比，日本人也对自己亲人的评价更低（Endo,Heine,&Lehman,2000），并认为自己的城市与美国的城市相比，在地震中更脆弱(Kitayama,Palm,Masuda, Karasawa,& Carroll,1996)；与欧洲人相比，东亚人也更难对内群体成员做出积极评价（Cuddy etal,2009）。内群体贬低现象比比皆是，那么其存在是否也具有进化的基础?",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "从进化角度出发，内群体贬低这一现象似乎并不合理：在外群体更有可能带来暴力或疾病威胁的情况下，偏好内群体成员，贬损外群体成员才有利于个体生存繁衍，这样的基因才有可能代代相传，如果反其道而行，便很可能陷入被自然选择所淘汰的危机。因此，根据进化理论，人类社会中就不应该存在内群体贬低现象，即使存在，这种现象出现的概率也应该保持在很低的水平（即基因突变的概率是很低的），而这毫无疑问是与内群体贬低现象广泛存在的现实相矛盾的。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2内群体贬低的进化假说",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "内群体偏好的进化假说成立的前提条件为相较于内群体成员，外群体成员更具威胁。但是,在一定条件下，内群体成员也有可能会比外群体成员给个体带来更大的暴力或疾病威胁。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "为了更好的适应环境，各群体间会圈定相对固定的活动范围作为栖息地（Fincher &Thormhill,2012a）。当群体内人员数量增加或者生存资源相对匮乏的时候，群体内生存压力日渐增大，团内成员之间不免剑拔弩张。由于自然选择发生在基因水平上，使得内群体成员之间也会互相争夺资源（West,ElMouden,&Gardner,2011），这时内群体成员带来的潜在暴力威胁可能大于外群体带来的威胁。除此外，不同的环境有不同的病原体负载水平。当内群体栖息环境中的病原体负载水平高到一定程度时（例如某一时期的传染病大流行），内群体成员也将比外群体成员更有可能给个体带来疾病威胁。如果类似现象在人类进化的过程中频繁发生，则个体需要进化出偏爱外群体成员，贬损内团成员的心理机制来适应这种情况。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "于是，有研究者同样以威胁管理理论为基础，对内群体偏好的进化假说进行补充，提出了基于威胁管理机制的内群体贬低进化理论（Wuetal.,2015,2016），即内群体贬低是人类对内群体成员带来更多暴力与疾病威胁的特殊生态条件的适应器。针对内群体贬低进化的研究结果提示，内群体贬低与内群体偏好是人类进化而来的同一种威胁管理机制对特定的内外群体关系产生的不同反应，即内群体贬低跟内群体偏好一样有进化的基础，是一种与内群体偏好“略有不同”的群际偏差，并遵循烟雾探测原则和功能弹性原则。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3内群体贬低与对内群体暴力威胁的适应",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如果群体内女性配偶数量减少或者地区人口承载力达到上限时，攻击和暴力才有利于个体获得配偶和生存资源，这种情况下，群体内规则将会失去约束力，攻击内群体成员将会变成常态。此时，个体会更加贬损和敌视内群体成员，甚至将内群体成员视为主要威胁（Wu etal., 2016）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "为了验证这一假设， ${ \\sf W } { \\sf u }$ 等（2016）以计算机模拟的方法，研究了在内外群体成员均可以给个体带来暴力威胁的情况下的内群体贬低心理机制的进化过程。结果发现当群体内关系相对融洽时，有可能进化出内群体偏好；当群体内关系相对紧张时（群体内冲突导致个体死亡的可能性大于 $10 \\%$ ），则会进化出内群体贬低。在其后续研究中，Wu等（2016）进一步探究了中国被试的暴力威胁感知以及外在暴力威胁线索与内群体贬低态度的关系，结果发现当个体主观上感觉更容易受到暴力攻击，或者在直接环境中存在暴力威胁线索时，其内群体贬低态度更强烈；当内群体和外群体成员都显示出暴力威胁线索，个体对内群体成员的暴力威胁线索反应更强烈，对内群体成员抱有更高的贬低态度；结果还显示，即使在没有任何明确的暴力威胁线索的情况下，个体也倾向于认为来自内群体成员的侵略意图比外群体成员的更多，并且这种偏见与内群体贬低态度呈正相关，进一步支持了内群体贬低的进化假说。除此外，Barker 和 Barclay（2016）以及 Zuo,Chen 和 Zhao（2018）通过人际博弈范式也发现，当内群体的竞争压力大于来自外群体的竞争压力时，个体伤害内群体成员的意愿会比伤害外群体成员的意愿更加强烈。这也进一步支持了内群体贬低的进化假说。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4内群体贬低与对内群体疾病威胁的适应",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "如果内群体贬低假说成立，那么其应该与内群体偏好类似，是在疾病威胁下行为免疫系统的一种不同形式的输出，来应对群体内新近出现的传染病，或者内群体栖息环境中的病原体负载水平远高于外群体栖息环境中的病原体负载水平的情况。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "一些证据间接支持了这一假说。已有研究表明，厌恶敏感性（disgust sensitivity）与一般社会信任（generalized social trust）之间呈负相关，即厌恶敏感性较高的个体，不仅不信任外群体成员，对内群体成员的信任程度也同样较低（Aarge,Osmundsen,& Petersen,2016）。同时，研究还显示，无论是现在还是在历史上，中国的病原体负载水平都比欧洲更高（Fincheret al.,2008），而内群体贬低现象也确实是在中国更普遍（Ma-Kellams et al.,2011;Wu et al.,2015;Zhao etal.,2012）。除此外，研究还发现，病原体负载率与内群体偏好之间的关系并不是简单的线性关系，二者之间的关系可能用二次函数来描述更为恰当（即病原体负载率上升到一定水平时,内群体偏好降低；Cashdan& Steele,2013;Fincher& Thormhill,2012a,2012b;Hruschka& Henrich,2013; Talhelm et al.,2014）。Zhang（2018）的研究发现本地疾病负载率越高，则内群体之间信任程度越低，同时本地疾病负载率和外群体信任呈U 型关系，即到了一定程度后，本地疾病负载越高，外群体信任也越高。这些研究结果均提示，当本地的疾病负载高到一定程度时，个体会表现出内群体贬低的态度，即内群体贬低的出现与当地过高的疾病负载有关。通过计算机模拟的方法，研究人员也发现，不同疾病负载率的地区其社会群体态度也是不一样的，疾病负载率较低地区的群体更倾向于表现出内群体偏好态度，而疾病负载率较高地区的群体更倾向于表现出内群体贬低的态度（Huetal.,2018）；在高疾病负载率地区，投资内群体策略可能不是个体的最优选择，相较之下如果与外群体相关的感染风险不高时，个体可能更愿意与外群体合作（Brown，Fincher，&Walasek，2016；Thornhill &Fincher,2014）。另外，Wu等人（2015）通过最小群体范式探讨了行为免疫系统和内群体贬低的关系，也发现当内群体成员表现出启发式疾病线索时，内群体贬低程度会增强；当内外群体成员都表现出启发式疾病线索时，内群体贬低程度依然会增强。这些研究结果为内群体贬低的进化假说提供了直接的证据支持，提示内群体贬低确实是一种行为免疫系统的进化反应，同样也遵循着烟雾探测和功能弹性原则。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "综上所述，内群体贬低可能是在特定选择压力下产生出的与内群体偏好“略有不同”的群际偏差；内群体贬低的产生与对暴力威胁或疾病威胁的适应性有关，是威胁管理机制为了适应内群体成员带来更大暴力威胁或疾病威胁进化出来的一种心理机制。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4问题与展望",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "以往的研究使我们对群际偏差的产生与发展有了比较深层次的理解。然而，这其中也存在一些问题，有待在未来开展更为系统深入的研究予以解决。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1个体差异、情境激活以及二者的交互作用对群际偏差的影响",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "群际偏差存在着广泛的个体差异，例如对暴力与疾病威胁线索的感知差异，或者对暴力与疾病威胁的反应差异等（Ackerman,Hill,& Murray,2018），这种个体差异可能是由于受到其生存环境的影响，如长期生活在疾病负载率较高地区的个体会更加担心自己感染疾病（Tybur etal.,2016），长期生活在生存资源竞争较激烈地区的个体会更加担心受到暴力威胁（Baueretal.,2013）。但是个体的生存环境并不是一成不变的，例如当环境中存在咳嗽或者打喷嚏的人、令人恶心的气味，或者被其他特定群体成员进行资源掠夺、辱骂以及身体挑衅时，这些直接环境中可能存在的威胁线索便是激活个体群际偏差的最明显诱因（Ackermanetal.,2018），因此环境线索的变化也会对个体的群际偏差产生重要影响。同时，少数与内群体偏好相关的研究还发现，个体差异与情境激活线索具有交互作用，即个体对情境中存在的威胁线索的反应会因其对风险感知的个体差异而异，从而对个体的内群体偏好产生不同的影响。如长期患有慢性病的个体（敏感性较高）会更容易发现和响应相关的疾病威胁线索，而身体健康的个体（敏感性较低）则可能对疾病线索不太敏感（Murray＆ Schaller,2016）；长期感觉自己容易受到人际威胁的个体更倾向于将威胁目标（男性）归类为外群体成员（Miller etal.,2010）。个体差异、情境激活以及二者的交互作用都对内群体偏好具有不同程度的影响，那么是否对内群体贬低也具有同样的影响呢？目前关于内群体贬低在这一方面的研究还很欠缺，研究者只考虑了外在的威胁情境以及对外界威胁的感知是如何影响内群体贬低的态度的（Wuetal.,2015,2016）。若内群体贬低确实是一种针对特殊群体关系的适应器，研究者应可发现个体差异、情境激活以及这二者的交互对内群体贬低态度存在同样性质的影响。未来研究者应对这一问题进行研究以进一步检验内群体贬低的进化理论。同时，未来的研究还可以试图从其他方面，如对暴力和疾病威胁的控制能力，社会中卫生规范的严格程度等（Lab，2019），对群际偏差的个体差异进行解释，以及可以用其他情境线索，如嗅觉线索和触觉线索(Liuzza, Olofsson,Cancino-Montecinos,& Lindholm, 2019)对群际偏差进行研究，以进一步探索个体差异、情境激活线索以及二者的交互作用对群际偏差的影响。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2群际偏差对暴力与疾病威胁的适应的神经与生理机制",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "除了宏观层面的研究，群际偏差对暴力与疾病威胁适应的神经和生理上的反应也不可忽视，亦是未来可研究的重点。以往脑功能成像的研究发现，被试在接受与外群体有关的视觉刺激时，其杏仁核表现出显著的激活（Phelps et al.,2000）；电生理研究也显示接触外群体成员可能会触发与恐惧有关的认知和情绪反应（Blascovich，Mendes，Hunter，Lickel，&Knwai-Bell,2001;Phelps et al.,2000）。这些研究提供了内群体偏好在生理和神经水平上的初步的适应性证据。然而，还未有研究者对内群体贬低是否存在类似的生理与神经机制进行研究。若内群体贬低确实具有进化的基础，内群体贬低与内群体偏好确实是人类进化而来的同一种威胁管理机制对特定的内外群体关系产生的不同反应，则研究者们应该可以观察到与内群体贬低相联系的特定的生理与神经机制，且这一机制应与内群体偏好的机制相接近。对这一问题的考察，将为群际偏差的进化假说，提供更深层次的证据。除此外，个体的神经系统和生理系统的内在机制错综复杂，而已有研究并不能说明这些异常复杂的系统是如何实现对外界威胁的快速而准确的反应的。同时，为了有效提供抵抗威胁的功能性防御，个体的中枢神经系统反应、生理免疫系统反应与行为反应应该是协同工作的（Lab，2019；Murray,Prokosch,&Airington,2019），但是特定的反应倾向涉及到哪些特定的神经反应、免疫反应和行为反应，以及这三套系统如何相互作用，从而有效预防特定社会群体带来的暴力与疾病的威胁也是一个以往研究鲜少关注的问题。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3暴力威胁与疾病威胁的交互作用对群际偏差的影响",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "以往研究显示，威胁管理机制与其他动机存在交互作用，例如，Ainsworth 与 Maner（2014）发现主观饥饿的被试对外群体成员表现出更大的偏见，禁食后的饥饿被试偏向于将目标（肥胖和老年人）分类为与疾病相关的组别；Gilead与Liberman（2014）发现当外群体成员构成暴力威胁时，被要求回忆生下孩子后前几天照顾孩子情景的母亲对外群体成员表现出更大的偏见，即亲子照料动机的激活会提高我们对暴力威胁的回避水平。那么，暴力威胁和疾病威胁对群际偏差的威胁管理机制的影响是否也存在交互作用呢？当环境中暴力威胁和疾病威胁水平发生相对变化时，威胁管理机制应该也会产生相应的变化输出以与环境中的暴力和疾病威胁程度相适应。在一个理想环境中，有机体可以为个体生存繁衍提供无限的能量，也可以为其面临的无数其他适应性问题（避免暴力威胁、疾病威胁等）提供解决方案。但是，人类并不是生活在这样一个理想的世界中，每个个体用于管理预防威胁的资源都是有限的，同时面临多种威胁时，个体会对各种管理策略进行收益与代价的权衡，最后做出代价相对较小收益相对较高的决策（Hengartner,2017）。在这一过程中，暴力威胁与疾病威胁都是关乎生存的巨大威胁，不同程度的暴力威胁和疾病威胁应该会对个体的群际偏差造成不同的影响。而且，在人类的历史发展进程中，疾病威胁和暴力威胁是共同出现而不是单独出现的，群际偏差应当是由暴力和疾病这两种主要威胁，及这两种威胁的交互作用共同塑造的。例如，当个体身染疾病时，它在受到暴力威胁时将更加容易受伤；而个体在受到暴力威胁受伤后，也会变得更加容易感染疾病。暴力威胁和疾病威胁的交互作用具体会对群际偏差产生什么样的影响？个体在这样存在复杂风险的环境中，会如何分配自身已有的资源，做出怎样的决策？目前，还未有研究者对这些问题进行探讨。对这些问题的回答，将帮助我们从更深的层次理解自然选择对群际偏差的塑造作用。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.4内群体偏好与内群体贬低之间的转换及其适应性",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "以往研究提示，内群体偏好和内群体贬低的群际偏差都是个体为了生存繁衍进化而来的威胁管理机制，这一机制会根据自身所处的环境调整输出，即，虽然两种偏差表现形式不同，但可能都是同一威胁管理机制在发挥作用。那么这两种偏差之间是否具有转换的可能？这种转换在哪些文化背景的被试中能被观察到？若群际偏差的进化假说成立，研究人员应能观察到两种偏差进行转化的关键点，以及这种转化的跨文化的稳定性。即，当个体知觉到外群体带来的期望威胁（expected threat）大于内群体带来的期望威胁时，个体应表现出内群体偏好，反之，则应表现为内群体贬低。对这一问题的研究，将帮助我们对群际偏差的进化理论进行更深层次的检验。然而，目前还未有研究能为这一问题提供直接的经验性证据。 ${ \\sf W } { \\sf u }$ 等（2016）的计算机模拟结果提示当群体内冲突导致个体死亡的可能性大于 $10 \\%$ 时，则会进化出内群体贬低。这一结果提示单纯从暴力威胁角度考虑，两种偏差之间确实具有转换的可能。除此外，内群体贬低的进化假说也提示，若环境中存在指示外群体成员易患病的线索时，该心理机制应调整自身输出，使个体产生更大的内群体偏好效应。一段时间后，若线索指示内群体成员更容易带来疾病威胁，则这一效应可能会削弱、消除甚至反转为内群体贬低（Schaller&Neuberg,2012;Wuetal.,2015）。个体会在什么程度的暴力威胁与疾病威胁下发生内群体偏好与内群体贬低的转换，以及在暴力威胁与疾病威胁复杂交互的情况下，这种转换的功能适应性是未来可研究的有趣问题。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "总之，有关群际偏差的研究尚存在一些问题，有待未来的研究去探索解决。这些研究对进一步深入揭示群际偏差的条件及其本质，深化人们对群体关系形成条件及其互动过程的理解，增进我们对偏见本质的认识，为改善群体内与群体间的交流与合作、消除社会中存在的各种对“外人”和“自己人”的偏见与歧视具有重要意义。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "李琼，刘力.(2011).低地位群体的外群体偏好.心理科学进展,19(7),1061-1068.   \n何晓丽，谢荣慧．（2018）．群体共情对群际关系的影响：基于社会冲突解决的视角．心理科学,41(1), 174-179.   \n吴宝沛，张雷.(2011).疾病的心理防御：人类如何应对病菌威胁．心理科学进展,19(3),410-419.   \n向玲，赵玉芳.(2013).使用加工分离程序对低地位群体内/外群体偏爱的研究．心理科学,36(3),702-705.   \n佐斌，徐同洁.(2015)．低地位群体的内/外群体偏好：基于 SC-IAT 的检验．心理研究,8(1),26-30.   \nAarpe,L.,Osmundsen, M.,& Petersen,M.B.(2O16). Distrust as a disease avoidance strategy: Individual differences in disgust sensitivity regulate generalized social trust. Frontiers in Psychology,7,1038.   \nAckerman,J. M., Hill,S.E.,& Murray,D.R. (2O18).The behavioral immune system: Current concerns and future directions. Social & Personality Psychology Compass,12(2), e12371.   \nAinsworth, S.E.,& Maner,J. K.(2014). Hunger moderates the activation of psychological disease avoidance mechanisms.Evolutionary Behavioral Sciences,8(4),303-313.   \nBarker,J.L.,&Barclay,P.(2O16).Localcompetition increases people's wilingnessto harm others.Evolution and Human Behavior,37(4),315-322.   \nBauer,M., Cassar,A., Chytilova,J.,& Henrich, J. (2O13). War's enduring effects on the development of egalitarian motivations and in-group biases. Psychological Science, 25(1),47-57.   \nBecker,D.V., Mortensen, C.R.,Ackerman,J. M.,Shapiro,J. R.,Anderson, U.S.,Sasaki,T.,..Kenrick,D.T. (2011). Signal detection on the battlefield: Priming self-protection vs.revenge-mindedness differentially modulates the detection of enemies and allies. PLoS ONE, 6(9), e23929.   \nBecker,D.V., Mortensen,C.R.,Anderson, U.S.,& Sasaki,T. (2014). Out of sight but not out of mind: Memory scanning is attuned to threatening faces. Evolutionary Psychology,12(5),147470491401200.   \nBlascovich,J.,Mendes,W.B.,Hunter,S.B.,Lickel,B.,&Kowai-Bell,N. (2Oo1).Perceiver threat insocial interactions with stigmatized others. Journal of Personality and Social Psychology,80(2),253-267. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Brewer,M. B. (2Oo7). The importance of being we: Human nature and intergroup relations.American Psychologist, 62(8), 728-738. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Brown, G. D.A.,Fincher, C.L.,& Walasek,L. (2o16).Personality,parasites,political atitudes,andcooperation: A model of how infection prevalence influences opennessand social group formation. Topics in Cognitive Science, 8(1), 98-117.   \nCashdan,E.,& Steele,M. (2O13).Pathogen prevalence, group bias,and collctivism in the standard cross-cultural sample. Human Nature, 24(1), 59-75.   \nCesario,J.,& Navarrete,C.D.(2O14).Perceptual bias in threat distance: The critical roles of in-groupsupport and target evaluations in defensive threat regulation. Social Psychological and Personality Science,5(1),12-17.   \nCuddy,A. J. C., Fiske,S.T., Kwan, V. S.Y., Glick,P.,Demoulin,S.,Leyens,J.-P.,.. Ziegler,R. (2009). Stereotype content model across cultures: Towards universal similarities and some differences. British Journal of Social Psychology,48(1),1-33.   \nEndo,Y.,Heine,S.J.,&Lehman,D.R. (2OoO). Culture and positive illusions in close relationships: How my relationships are bettr than yours. Personality and Social Psychology Bulletin, 26(12),1571-1586.   \nDuncan,L. A.,& Schaler, M. (2O09). Prejudicial atitudes toward older adults may be exaggerated when people feel vulnerable to infectious disease: Evidence and implications. Analyses of Social Issues and Public Policy 9(1), 97-115.   \nFincher, C.L.,& Thornhil, R. (2012a). Parasite-stress promotes in-group assrtative sociality: The cases of strong family ties and heightened religiosity. Behavioral and Brain Sciences,35(2), 61-79.   \nFincher,C.L.,& Thornhil,R. (2012b).The parasite-stress theory maybe a general theoryof culture and sociality. Behavioral and Brain Sciences, 35(2), 99-119.   \nFincher, C.L.,Thornhill,R., Murray, D.R.,& Schaler,M. (20o8). Pathogen prevalence predicts human cross-cultural variability in individualism/collectivism. Proceedings of the Royal Society B,275(1640), 1279-1285.   \nGilead,M.,& Liberman,N. (2014). We take care of our own: Caregiving salience increases out-group bias in response to out-group threat. Psychological Science, 25(7), 1380-1387.   \nHaselton, M. G., & Nettle,D.(2O06). The paranoid optimist: An integrative evolutionary model of cognitive biases.Personality and Social Psychology Review,1O(1),47-66.   \nHengartner,M. P. (20l7). The evolutionary life history model of externalizing personality: Bridging human and animal personality science to connect ultimate and proximate mechanisms underlying aggressive dominance, ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "hostility,and impulsive sensation seeking.Review of General Psychology,21(4),330-353. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Hewstone,M.,Rubin,M.,&Wilis,H.(2002). Intergroupbias.Annual ReviewofPsychology,53(1),575-604. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Hruschka,D.J.,&Henrich,J.(2O13).Institutions,parasites and the persistence of in-group preferences.PLoS One, 8(5), e63642.   \nHuang,J. Y.,Ackerman, J. M.,& Sedlovskaya,A. (2O17). (De) contaminating product preferences: A multi-method investigation into pathogen threat's influence on used product preferences. Journal of Experimental Social Psychology,70,143-152.   \nHuang, J. Y.,Sedlovskaya, A.,Ackerman,J. M.,&Bargh,J. A. (2O11). Immunizing against prejudice: Effectsof disease protection on atitudes toward out-groups. Psychological Science, 22(12),1550-1556.   \nHu, C.,Li, X.,& Wu,Q. (2018, September). Pathogen load and the nature of ingroup derogation: Evolution of ingroup derogation based on the sexual penna model. In 2O18 4th International Conference on Social Science and Higher Education (ICSSHE 2018). Atlantis Press.   \nInbar,Y., Pizarro,D.A.,& Bloom,P. (2012). Disgusting smels cause decreased liking of gay men. Emotion, 12(1), 23-27.   \nJackson, J. W.(1993). Realistic group conflict theory: A review and evaluation of the theoretical and empirical. Psychological Record, 43(3),395413.   \nJost, J.T. (2OO1). Outgroup favoritism and the theory of system justification: An experimental paradigm for investigating the effects of socio-economic success on stereotype content. In G.Moskowitz (Ed.), Cognitive social psychology: The Princetonsymposium on the legacy and future of social cognition (pp.89-102). Mahwah, NJ: Erlbaum. Hungarian Translation.   \nKitayama,S.,Palm,R.I.,Masuda,T.,Karasawa,M.,&Carroll,J. (1996).Optimismin the USand pessimismin Japan:Perceptions of earthquake risk (Unpublished doctorial dissertation). Kyoto University   \nLab,T.H. (2O19,January31). Individual differences in pathogen avoidance motivation vary as a function of control over pathogen exposure and basal immunological activity. Retrieved April 12, 2019, from https://osf.io/rckh3/   \nLeonardelli, G. J.,& Brewer,M.B. (2O01). Minority and majority discrimination: When and why. Journal of Experimental Social Psychology,37(6),468-485.   \nLe, S.H. (2O13). Societal trust and geography. Cross-Cultural Research,47(4),388-414.   \nLetendre, K.,Fincher, C.L.,& Thornhill,R. (2OlO). Does infectious disease cause global variation in the frequency of intrastate armed conflict and civil war? Biological Reviews,85(3), 669-683 ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Lewis,T.T.,Kravitz,H.M.,Janssen,I.,&Powel,L.H. (2O11).Self-reported experiences of discriminatioand visceral fat in middle-aged african-american and caucasian women. American Journal of Epidemiology, 173(11), 1223–1231. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Liu, X.,Shan, W.,& Jin, S. (2O15). Civilised behaviour: A Chinese indigenous intergroup perception dimension. Journal of Pacific Rim Psychology, 9(2),108-119.   \nLiuzza,M.T.,Olofsson,J.K.,Cancino-Montecinos,S.,&Lindholm,T. (2o19).Body odor disgust sensitivity predicts moral harshness toward moral violations of purity. Frontiers in Psychology,10, 458   \nLund,E. M.,& Miller, S.L. (2O14). Is obesity un-American? Disease concerns bias implicit perceptions of national identity. Evolution and Human Behavior,35(4),336-340.   \nMa-Kellams, C.,Spencer-Rodgers, J.,& Peng,K. (2O11).Iam against us? Unpacking cultural cifferences in ingroup favoritism via dialecticism. Personality and Social Psychology Bulltin,37(1),15-27.   \nMahajan, N.,& Wynn, K. (2O12). Origins of“Us” versus“Them\": Prelinguistic infants prefer similar others. Cognition, 124(2), 227-233.   \nMakhanova,A., Miller,S.L.,& Maner, J. K. (2015). Germs and the out-group: Chronic and situational disease concerns affect intergroup categorization. Evolutionary Behavioral Sciences, 9(1),8-19.   \nMange,J.,Sharvit,K.,Margas,N.,& Cecile Sénémeaud.(2O15). Do Ishoot faster because Iamthinking about an outgroup or a threatening outgroup?. Social Psychology, 47(1),1-9.   \nMarch,D. S.,& Graham,R. (2015). Exploring implicit ingroup and outgroup bias toward Hispanics. Group Processes & Intergroup Relations,18(1), 89-103.   \nMcDonald,M.M., Asher,B.D., Kerr,N.L.,& Navarrete,C.D. (2011).Fertility and intergroup bias inracial and minimal-group contexts. Psychological Science, 22(7), 860-865.   \nMifune,N., Simunovic,D.,& Yamagishi,T. (2O17). Intergroup biases in fear-induced aggression.Frontiers in Psychology, 8, 49.   \nMillr,S.L.,& Maner,J. K. (2O11). Sick body,vigilant mind: The biological immune system activates the behavioral immune system. Psychological Science, 22(12),1467-1471.   \nMiler,S.L.,& Maner,J. K. (2012). Overperceiving disease cues: The basic cognition of the behavioral immune system. Journal of Personality and Social Psychology,102(6),1198-1213.   \nMiller,S.L.,Maner,J.K.,&Becker,D.V.(2O1O). Self-protective biases in group categorization: Threat cues shape the psychological boundary between“us” and“them\". Journal of Personality and Social Psychology, 99(1), 62-77. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Montalan,B.,Lelard,T.,Godefroy,O.,& Mouras,H.(2Ol2).Behavioral investigationof the influence of social categorization on empathy for pain: A minimal group paradigm study.Frontiers in Psychology,3,389. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Murray,D.R.,Prokosch,M.L.,&Airington,Z. (2019).PsychoBehavioroimmunology: Connecting the behavioral immune system to its physiological foundations.Frontiers in Psychology,10, 200. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Murray,D.R.,& Schaller,M. (2O16).The behavioral immune system: Implications for social cognition, social interaction,and social influence. Advances in Experimental Social Psychology,53,75-129.   \nNeuberg,S.L., Kenrick, D.T.,& Schaller,M. (2O11). Human threat management systems: Self-protection and disease avoidance. Neuroscience & Biobehavioral Reviews,35(4),1042-1051.   \nO'Handley,B.M., Blair, K.L.,& Hoskin,R.A. (2017). What do two men kising and a bucket of maggots have in common? Heterosexual men's indistinguishable salivary $\\mathfrak { a }$ -amylase responses to photos of two men kissing and disgusting images. Psychology & Sexuality, 8(3), 173-188.   \nOrey,B.D.,& Park, H. (2O12). Nature, nurture,and ethnocentrism in the minnesota twin study. Twin Research and Human Genetics,15(1), 71-73.   \nPark, J. H.,Faulkner,J.,& Schallr,M. (2O3).Evolved disease-avoidance processes and contemporaryanti-social behavior: Prejudicial atitudes and avoidance of people with physical disabilities.Journal of Nonverbal Behavior,27(2),65-87.   \nPark,J.H., Schaler, M.,& Crandall, C.S. (2Oo7).Pathogen-avoidance mechanisms and the stigmatization of obese people. Evolution and Human Behavior, 28(6), 410-414.   \nPetersen, M. B.(2O17). Healthy out-group members are represented psychologically as infected in-group members. Psychological Science, 28(12), 1857-1863.   \nPhelps,E. A.,OConnor, K.J., Cunningham, W.A.,Funayama,E.S., Gatenby,J.C., Gore,J. C.,& Banaji,M.R. (2000). Performance on indirect measures of race evaluation predicts amygdala activation. Journal of Cognitive Neuroscience,12(5),729-738.   \nReese,G., Steffens,M.C.,& Jonas, K.J. (2013).Religious afiliation and atitudes towards gay men: On the mediating role of masculinity threat. Journal of Community & Applied Social Psychology, 24(4),340-355.   \nReicher,S.D.,Templeton,A.,Neville,F.,Ferrari,L.,&Drury,J. (2o16).Core disgust isattenuatedby ingroup relations. Proceedings of the National Academy of Sciences,113(10),2631-2635.   \nSchaler, M. (2Oo6).Parasites,behavioral defenses,and the social psychological mechanisms through which cultures are evoked. Psychological Inquiry,17(2),96-101.   \nSchaler, M. (2O11).The behavioural immune system and the psychology of human sociality. Philosophical ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Transactions of the Royal Society B:Biological Sciences,366(1583),3418-3426. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Schaller,M.,& Murray,D.M.(2O10). Infectious diseases and the evolution of cross-cultural differences. In M. Schaller,S.J.Norenzayan,T.Heine,Yamagishi &T.Kameda (Eds.),Evolution,culture,and the human mind (pp.243-256). New York,NY: Psychology Press.   \nSchaler, M.,& Neuberg, S.L. (2008). Intergroup prejudices and intergroup conflicts.In C. Crawford & D.L. Krebs (Eds.),Foundations of evolutionary psychology (pp.399-412). Mahwah, NJ: Lawrence Erlbaum Associates.   \nSchaller,M.,& Neuberg,S.L. (2O12). Danger,disease,and the nature of prejudice(s). In J. M. Olson & M.P. Zanna (Eds.),Advances inexperimental social psychologyVol.46(pp.1-54). Burlington: Acadecr.   \nSchaler, M.,& Park, J. H. (2O11). The behavioral immune system (and why it matters). Current Directions in Psychological Science,20(2),99-103.   \nSchaller,M.,Park, J. H.,& Kenrick,D.T. (2oo7). Human evolution and social cognition.InR.I. M.Dunbar &L. Barrett (Eds.),Oxford Handbook of Evolutionary Psychology (pp. 491-504). Oxford: Oxford University Press.   \nScot-Philips,T. C.,Dickins,T.E.,& West,S.A. (2011). Evolutionary theory and the ultimate-proximate distinction in the human behavioral sciences. Perspectives on Psychological Science,6(1),38-47.   \nShutts,K., Kinzler,K.D.,McKee, C.B.,&Spelke,E.S. (2009). Social information guides infants’selectionof foods. Journal of Cognition and Development,10(1-2),1-17.   \nTalhelm,T.,Zhang, X., Oishi, S.,Shimin, C., Duan,D.,Lan, X.,& Kitayama, S. (2014). Large-scale psychological differences wWithin China explained by rice versus wheat agriculture. Science,344(6184), 603-608.   \nTerrizzi, J.A.,Shook,N.J.,&McDaniel,M.A.(2O13).The behaviral immune system and social conservatism: A meta-analysis. Evolution and Human Behavior, 34(2), 99-108.   \nTerrizzi, J. A., Shook,N.J.,& Ventis,W.L. (2012). Religious conservatism: An evolutionarily evoked disease-avoidance strategy. Religion, Brain & Behavior,2(2),105-120.   \nThornhill,R.,&Fincher, C.L.(2O14).The parasite-stress theory of values and sociality: Infectious disease, history and human values worldwide. Cham, Switzerland: Springer International Publishing.   \nTybur,J.M.,Inbar,Y.,Aaroe,L.,Barclay,P.,Barlow,F.K.,de Barra,M.,..Zezelj,I. (2016).Parasitestress and pathogen avoidance relate to distinct dimensions of political ideology acros 30 nations.Proceedings of the National Academy of Sciences, 113(44), 12408-12413.   \nUmphress,E.E., Simmons,A.L.,Boswel, W.R.,& Triana,M.del C.(2008). Managing discrimination in selection: The influence of directives from an authorityand social dominance orientation. Journal of Applied Psychology, 93(5), 982-993.   \nVan Leeuwen,F.,Park,J.H., Koenig,B.L.,& Graham,J. (2012). Regional variation in pathogen prevalence predicts endorsement of group-focused moral concerns. Evolution and Human Behavior,33(5), 429-437.   \nVan Leeuwen,F.,& Petersen, M. B. (2018). The behavioral immune system is designed to avoid infected individuals, not outgroups. Evolution and Human Behavior,39(2),226-234.   \nVan Vugt, M.,& Park, J. H. (2Oo9). Guns, germs,and sex: How evolution shaped our intergroup psychology. Social and Personality Psychology Compass,3(6), 927-938.   \nVarnum, M.E. W. (2O14). Sources of regional variation in social capitalin the United States: Frontiers and pathogens. Evolutionary Behavioral Sciences, 8(2),77-85.   \nWest, S.A.,El Mouden, C.,& Gardner,A.(20l1). Sixteen common misconceptions about the evolution of cooperation in humans. Evolution and Human Behavior, 32(4), 231-262.   \nWhitt,S.,& Wilson,R.K. (2O07).The dictator game,fairness and ethnicity in postwar Bosnia. American Journal of Political Science,51(3), 655-668.   \nWilliams, K.E. G.,Sng,O.,& Neuberg,S.L. (2015). Ecology-driven stereotypes overide race stereotypes. Proceedings of the National Academy of Sciences,113(2),310-315.   \nWilson, J. P., Hugenberg,K.,&Rule,N. O.(2O17). Racial bias in judgments of physical size and formidability: From size to threat. Journal of Personality and Social Psychology,113(1),59-80.   \nWu, Q.,Liu,W.,Li, C.,Li,X.,& Zhou,P. (2O16). A price paid for our internal strife: Escalated intragroup aggression and the evolution of ingroup derogation. Frontiers in Psychology,7, 1453.   \nWu, Q.,Tan, C., Wang,B.,& Zhou,P. (2O15). Behavioral immune system and ingroup derogation: The effects of infectious diseases on ingroup derogation attitudes. PLOs ONE,10(3), e0122794.   \nXin, Z., Yang, Z.,& Liu, Y. (20l7). The impact of friend-or-foe cues and survival pressure on trust in the investment game. Evolution and Human Behavior,38(2),181-189.   \nZhang,J. (2O18). Contemporary parasite stresscurvilinearly correlates with outgroup trust: Cross-country evidence from 2005 to 2014. Evolution and Human Behavior,39(5),556-565.   \nZhao,K., Wu, Q., Shen, X., Xuan, Y.,& Fu, X. (2O12). Iundervalue you but I need you: The dissociation of attitude and memory toward in-group members. PLoS ONE, 7(3), e32932.   \nZuo,Y.,Chen, B.,& Zhao, Y. (2O18). The destructive effect of ingroup competition on ingroup favoritism. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Evolution of intergroup bias: Adaptation to the threats of violence ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "and disease ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "ZHOU QING'; WU QI' ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "(Cognition and Human Behavior Key Laboratory of Hunan Province,Departmentof Psychology, Hunan Normal University,Changsha,410006,China) ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Ingroup favoritism and ingroup derogation are very common our social lives, but the researchers stilldon't know why these two kinds of intergroup biases can exist and whether these two kinds of biases have evolutionary functions. By systematically reviewing the research reports about the evidence that these two kinds of intergroup biases follow the principles of smoke detection and functional flexibility to deal with the threats of violence and disease incurred by ingroups and outgroups,the literature review showed that although the directions of ingroup favoritism and ingroup derogation are completely opposite to each other,both of these two biases are adaptive responses of the same threat management mechanism which is designed to deal with specific ingroup and outgroup threats. In conclusion, the current evidence suggests that the intergroup bias has adaptive functions and thus it supports the evolutionary hypothesis of intergroup bias. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Key words: ingroup favoritism; ingroup derogation; threat; smoke detection; functional flexibility ",
+        "page_idx": 21
+    }
+]

@@ -1,0 +1,200 @@
+1 饲粮粗蛋白质水平对断奶仔猪肝脏氨基酸代谢酶活性及转运载体mRNA表达的影响张相鑫1,2陈澄1,2唐志如 1,2 甄吉福1,2 许庆庆1,2孙志洪 1,2\*（1.西南大学生物饲料与分子营养实验室，重庆400715；2.西南大学动物科技学院，重庆
+
+F 5  
+5 摘要：本试验旨在研究饲粮粗蛋白质（CP）水平对断奶仔猪肝脏氨基酸代谢酶活性及转  
+6 运载体mRNA表达的影响。选用28日龄、体重[（ $7 . 0 { \pm } 0 . 5$ ） $\mathbf { \left| k g \right] }$ 相近、健康的“杜 $\times$ 长 $\times$ 大”  
+7 杂交断奶仔猪54头（公母各占1/2），随机分为3组 $[ 2 0 \%$ CP 组（对照组）、 $1 7 \%$ CP组和  
+8 $14 \%$ CP 组]，每组18个重复，每个重复1头猪。预试期 $^ { 7 \mathrm { d } }$ ，正试期 $4 5 \mathrm { d }$ 。正试期的第10、  
+9 25 和45 天，分别从每组挑选6头仔猪进行屠宰。结果表明：1）试验第10 天时， $14 \%$ 和 $1 7 \%$   
+10 CP 组断奶仔猪的肝脏谷草转氨酶（GOT）活性显著低于对照组（ $_ { . P < 0 . 0 5 ) }$ ； $14 \%$ CP 组的肝  
+11 脏谷氨酰胺合成酶（GS）活性显著低于其他2组（ $\cdot P { < } 0 . 0 5$ ）。第25天时， $14 \%$ CP 组的肝  
+12 脏GOT和GS 活性显著低于对照组（ $. P { < } 0 . 0 5 )$ ）； $14 \%$ 和 $1 7 \%$ CP 组的肝脏谷丙转氨酶（GPT)  
+13 和谷氨酸脱氢酶（GDH）活性显著低于对照组（ $P { < } 0 . 0 5$ ）。第45天时， $14 \%$ CP 组的肝脏  
+14 GPT 和GS 活性显著低于其他2组（ $\scriptstyle P < 0 . 0 5$ ）。2）试验第25天时， $14 \%$ CP 组断奶仔猪的  
+15 肝脏可溶性载体6家族成员15（SLC6A15）和可溶性载体38家族成员2（SLC38A2)的mRNA  
+16 相对表达量显著低于对照组（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ ）； $14 \%$ 和 $1 7 \%$ CP 组的肝脏可溶性载体36家族成员1  
+17 （SLC36A1）的mRNA相对表达量显著低于对照组（ $_ { . P < 0 . 0 5 }$ ）。第45天时， $14 \%$ 和 $1 7 \%$ CP  
+18 组的肝脏可溶性载体6家族成员20（SLC6A20）和 SLC38A2的mRNA相对表达量显著低于  
+19 对照组（ $P { < } 0 . 0 5 \$ ）； $14 \%$ CP 组的肝脏 SLC6A15 的mRNA 相对表达量显著低于其他2 组  
+20 1 $\cdot P { < } 0 . 0 5$ ）。由此可见，饲粮CP水平降低 $3 \%$ 和 $6 \%$ 可以降低断奶仔猪肝脏氨基酸代谢酶的  
+21 活性及转运载体mRNA的相对表达量。
+
+关键词：低蛋白质饲粮；仔猪；肝脏；氨基酸代谢酶；氨基酸转运载体中图分类号：S828 文献标识码： 文章编号：
+
+24 近年来，随着集约化程度的提高，养殖业产生的氮污染越来越严重。我国每年生猪养殖  
+25 所带来的氮排放量在 $1 8 0 0 \mathrm { t }$ 左右。因此，提高猪对蛋白质的利用效率，减少氮排放量，具
+
+有重要的科学和社会意义。目前，低蛋白质饲粮是降低猪氮排放量的通用技术。研究表明，降低 $1 \%$ 的猪饲粮粗蛋白质（crudeprotein，CP）水平可减少 $8 \%$ 左右的氮排放量[1]。在补充必需氨基酸的情况下，饲粮CP水平可以降低 $2 \% \sim 4 \%$ 而不影响猪的生长发育[2]。课题组前期研究发现，降低饲粮CP水平，仅平衡重要的必需氨基酸（EAA）[赖氨酸（Lys）、蛋氨酸（Met）、色氨酸（Trp）和苏氨酸（Thr）]会显著增加EAA在肝脏组织中的消耗量[3]。本试验拟研究饲粮CP水平对断奶仔猪肝脏氨基酸代谢酶活性及转运载体mRNA表达的影响，为阐明低蛋白质饲粮增加EAA在猪肝脏中的消耗量、减少氮排放的机制及如何提高断奶仔猪肝脏氨基酸代谢转化效率提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验设计与试验饲粮
+
+选用28日龄、体重[ $7 . 0 { \pm } 0 . 5 \$ ） $| \mathrm { k g } ]$ 相近、健康的“杜 $\times$ 长 $\times$ 大”杂交断奶仔猪54头（公母各占1/2），随机分为3组 $[ 2 0 \%$ CP组（对照组）、 $1 7 \%$ CP 组和 $14 \%$ CP 组]，每组18个重复，每个重复1头猪。 $1 7 \%$ 和 $14 \%$ CP 组添加 Lys、Met、Thr 和 Trp，使之水平与对照组一致。基础饲粮参照 NRC（2012）进行配制，试验饲粮组成及营养水平见表1。
+
+Table 1Composition and nutrient levels of experimental diets (air-dry basis)
+
+表1试验饲粮组成及营养水平(风干基础)  
+
+<html><body><table><tr><td>项目Items</td><td colspan="3">饲粮粗蛋白质水平 Dietary CP level/%</td></tr><tr><td></td><td>20</td><td>17</td><td>14</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>63.7</td><td>66.9</td><td>69.2</td></tr><tr><td>豆粕 Soybean meal</td><td>21.0</td><td>18.0</td><td>17.8</td></tr><tr><td>乳清粉 Whey powder</td><td>4.30</td><td>4.28</td><td>4.33</td></tr><tr><td>鱼粉 Fish meal</td><td>8.00</td><td>5.00</td><td></td></tr><tr><td>大豆油 Soybean oil</td><td>0.70</td><td>2.50</td><td>4.00</td></tr><tr><td>磷酸氢钙 CaHPO4</td><td>0.10</td><td>0.60</td><td>1.35</td></tr><tr><td>石粉 Limestone</td><td>0.36</td><td>0.43</td><td>0.56</td></tr><tr><td>食盐 NaCl</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>赖氨酸Lys</td><td>0.33</td><td>0.57</td><td>0.82</td></tr><tr><td>蛋氨酸 Met</td><td>0.09</td><td>0.17</td><td>0.27</td></tr></table></body></html>
+
+<html><body><table><tr><td>苏氨酸Thr</td><td>0.10</td><td>0.20</td><td>0.30</td></tr><tr><td>色氨酸Trp</td><td>0.02</td><td>0.05</td><td>0.07</td></tr><tr><td>预混料 Premix1)</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)2)</td><td>14.60</td><td>14.60</td><td>14.60</td></tr><tr><td>粗蛋白质 CP</td><td>20.00</td><td>17.00</td><td>14.00</td></tr><tr><td>赖氨酸Lys</td><td>1.23</td><td>1.23</td><td>1.23</td></tr><tr><td>蛋氨酸+半胱氨酸 Met+Cys</td><td>0.68</td><td>0.68</td><td>0.68</td></tr><tr><td>苏氨酸 Thr</td><td>0.73</td><td>0.73</td><td>0.73</td></tr><tr><td>色氨酸Trp</td><td>0.20</td><td>0.20</td><td>0.20</td></tr><tr><td>钙Ca</td><td>0.69</td><td>0.71</td><td>0.70</td></tr><tr><td>总磷TP</td><td>0.57</td><td>0.55</td><td>0.53</td></tr><tr><td>必需氨基酸/非必需氨基酸 EAA/NEAA</td><td>0.70</td><td>0.80</td><td>0.90</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of diets: VA 10 500 IU，VD 4 500 IU，VE 5.4 IU，VK $0 . 9 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 4 . 6 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 1 6 \ : \mathrm { m g }$ ，生物素 biotin 0.05 mg，叶酸 folic acid $0 . 2 9 \mathrm { m g }$ ，尼克酸 nicotinic acid $2 9 . 2 \mathrm { m g }$ ，泛酸 pantothenic acid $9 . 5 \mathrm { m g }$ ， 胆碱 choline $0 . 4 5 ~ \mathrm { g }$ ，核黄素 riboflavin $3 . 2 \mathrm { m g }$ ，硫胺素 thiamine $1 . 0 \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) 86 mg，Fe (as ferrous sulfate) $9 7 { \mathrm { m g } }$ ， Mn (as manganese sulfate) $3 . 3 ~ \mathrm { m g }$ ， $\mathrm { c u }$ (as copper sulfate) 5.3 mg， I(as potassium iodide) $0 . 1 4 \mathrm { m g }$ ， Se (as sodium selenite) $0 . 2 6 5 \mathrm { m g }$ 。 2）消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values.
+
+# 1.2 饲养管理
+
+试验在西南大学动物养殖基地进行。预试期7d，正试期 $4 5 \mathrm { d }$ 。试验仔猪置于不锈钢笼0 $( 1 . 5 0 \mathrm { m } { \times } 0 . 6 8 \mathrm { m } { \times } 0 . 7 5 \mathrm { m }$ ）中进行饲养，每笼1头。养殖房温度控制在(25±1）℃，试验仔猪均自由采食、饮水。每天于08:00、18:00 进行饲喂。试验期间保持圈内清洁、干燥。
+
+# 1.3样品采集
+
+试验期间，利用四分法采集各组饲粮3次，混合后粉碎过40目筛，常温保存。参照《饲料分析及饲料质量检测技术》[4]检测饲粮的干物质、CP、钙、磷、粗纤维和氨基酸等的含量。
+
+于正试期的第10天、25和45天，从每组挑选与平均体重最为接近的6头仔猪进行屠宰。采集肝脏样品，液氮冷冻后于-80℃保存。
+
+# 1.4检测指标
+
+# 1.4.1 肝脏氨基酸代谢酶活性
+
+称取 $0 . 6 { \sim } 0 . 9 \ \mathrm { g }$ 肝脏组织，放入预先添加 $0 . 9 \%$ 冷藏生理盐水的 $1 0 ~ \mathrm { m L }$ 离心管中，肝脏重量与生理盐水体积比为1:9，然后置于冰上匀浆。匀浆结束后在 $3 0 0 0 \mathrm { r / m i n }$ 、 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 条件下离心 $1 0 \mathrm { m i n }$ ，吸取上清液于-20℃保存，待测各种氨基酸代谢酶的活性。
+
+比色法测定肝脏组织中谷丙转氨酶（glutamic-pyruvic transaminase，GPT）（C009-2）、谷草转氨酶（glutamic-oxalacetic transaminase，GOT）（C010-2）、谷氨酰胺合成酶（glutaminesynthetase，GS）（A047）及谷氨酸脱氢酶（glutamic acid dehydrogenase，GDH）（A125）的活性，上述指标测定所用试剂盒均购自南京建成生物工程研究所，测定方法严格根据说明书进行。
+
+# 1.4.2 肝脏氨基酸转运载体mRNA表达
+
+# 1.4.2.1 RNA提取及cDNA反转录
+
+取-80℃保存的肝脏组织置于冰上，用已灭菌的剪刀将肝脏组织剪细，倒入液氮充分研磨（防止肝脏组织升温失活），待研磨均匀后将粉末状肝脏装入离心管内。用TotalRNAExtractor(上海生物工程有限公司)提取肝脏组织mRNA,已提取的肝脏组织mRNA用MMLVFirst Strand cDNA SynthesisKit（上海生物工程有限公司）进行反转录得到cDNA。
+
+1.4.2.2 引物设计
+
+采用PrimerPremier 5.0软件进行引物设计，由上海生物工程有限公司合成。肝脏氨基酸转运载体可溶性载体6家族成员15（solute carrier family 6member 15，SLC6A15）、可溶性载体6家族成员20（SLC6A20）、可溶性载体36家族成员1（SLC36A1）、可溶性载体38家族成员2（SLC38A2）及内参基因甘油醛-3-磷酸脱氢酶（GAPDH）的引物序列见表2。
+
+# 表2目的基因和内参基因的引物序列
+
+Table 2 Primer sequences for target genes and reference gene
+
+<html><body><table><tr><td>基因</td><td>产物长度</td><td>引物序列</td><td>熔解温度 Melting</td></tr><tr><td>Genes</td><td>Product length/bp</td><td>Primer sequences (5'-3')</td><td>temperature/℃</td></tr><tr><td>甘油醛-3-磷酸脱氢酶</td><td></td><td>F:GAAGGTCGGAGTGAACGGAT</td><td></td></tr><tr><td></td><td>149</td><td></td><td>63</td></tr><tr><td>GAPDH</td><td></td><td>R:CATGGGTAGAATCATACTGGAACA</td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>可溶性载体6家族成员15</td><td>140</td><td>F:GCTCAGGTGTTCTTTGCCTTA</td><td>60</td></tr><tr><td>SLC6A15 可溶性载体6家族成员20</td><td></td><td>R:AGTGTTGCCAGGATGGAAGTA F: TGTCTGCCCACTGAATAGCA</td><td rowspan="2">59</td></tr><tr><td>SLC6A20</td><td>102</td><td>R:GGTGAGATGTTGAGGGTCTTG</td></tr><tr><td>可溶性载体36家族成员1</td><td></td><td>F: GGCATCTTCTTCACCTACGC</td><td rowspan="2">63</td></tr><tr><td>SLC36A1</td><td>103</td><td>R: GGTCTATCACCAGCCTCCAA</td></tr><tr><td>可溶性载体38家族成员2</td><td></td><td>F:AATCCTTGGGCTTTCTTATGC</td><td rowspan="2">63</td></tr><tr><td>SLC38A2</td><td>126</td><td>R:CCTCCTTCATTGGCAGTCTT</td></tr></table></body></html>
+
+# 32 1.4.2.3 荧光定量PCR
+
+荧光定量PCR反应体系为 ${ 5 0 \mu \mathrm { L } }$ ，其中包括 Hotstart Fluo-PCR mix $2 4 ~ \mu \mathrm { L }$ ，上下游引物各 $2 \mu \mathrm { L }$ （ $2 5 \mathrm { \mu m o l / L }$ ），cDNA $2 \mu \mathrm { L }$ ， $\mathrm { d } \mathrm { d } \mathrm { H } _ { 2 } \mathrm { O } 2 0 \mu \mathrm { L }$ 。荧光定量PCR反应条件： $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 预变性4 min, $9 4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ， $6 0 { \sim } 6 3 \mathrm { ~ ~ } ^ { \circ } \mathrm { C }$ 退火 $3 0 \mathrm { ~ s ~ }$ （根据引物最适温度而定）， $7 2 \mathrm { ~ } ^ { \circ } \mathrm { ~ C ~ }$ 延伸 $3 0 ~ \mathrm { s }$ ，共35个循环。反应试剂均购自上海生物工程有限公司。采用比较Ct法进行相对定量表达差异的计算，目的基因的相对表达量 $= 2 ^ { - \triangle \triangle \mathrm { C t } }$ ，△△Ct=(Ct目的基因-Ct内参基因）试验组（Ct目的基因-Ct内参基因）对照组， $2 ^ { - \triangle \triangle \mathrm { C t } }$ 表示试验组目的基因的表达量相对于对照组的变化倍数。
+
+# 1.5 数据统计分析
+
+试验原始数据用Excel2007进行整理，再使用SAS8.2软件进行单因素方差分析（one-wayANOVA），LSD 法进行多重比较，结果以“平均值 $\pm$ 标准误”表示。 $P { < } 0 . 0 5$ 为差异显著。
+
+2结果
+
+\~ 2.1 饲粮CP水平对断奶仔猪肝脏氨基酸代谢酶活性的影响
+
+![](images/821f8c5e22b083a51e7fac73fcc165c6a5a54bd93cd35ffcd4b15efe4c777150.jpg)
+
+![](images/28c048f78fb078919d886b895dd2581dcf24065e0668676badd6558939b0f3b3.jpg)  
+图1饲粮CP水平对断奶仔猪肝脏氨基酸代谢酶活性的影响  
+Fig.1Effects of dietary CP level on the activities of amino acid metabolic enzymes in liver of weaned piglets
+
+由图1可知，试验第10天时， $14 \%$ 和 $1 7 \%$ CP组断奶仔猪的肝脏GOT活性显著低于对照组（ $P { < } 0 . 0 5$ ）；第25天时， $14 \%$ CP 组的肝脏GOT活性显著低于其他2组（ $_ { . } { \cal P } { < } 0 . 0 5$ ）。第25天时， $14 \%$ 和 $1 7 \%$ CP 组的GPT活性显著低于对照组（ $( P { < } 0 . 0 5 )$ ；第45天时， $14 \%$ CP组的肝脏GPT活性显著低于其他2组（ $\cdot P { < } 0 . 0 5$ ）。试验期第10和45天时， $14 \%$ CP组的肝脏GS 活性显著低于其他2组（ $_ { . P < 0 . 0 5 }$ ）；第25天时， $14 \%$ CP 组的肝脏GS 活性显著低于对照组 $( P { < } 0 . 0 5 )$ ）。第25天时， $14 \%$ 和 $1 7 \%$ CP 组的肝脏GDH活性显著低于对照组 $( P { < } 0 . 0 5 )$ 。
+
+# 2.2断奶仔猪肝脏氨基酸转运载体mRNA表达
+
+# 2.2.1 荧光定量PCR扩增曲线和溶解曲线分析
+
+由图2可知，在GAPDH、SLC6A15、SLC6A20、SLC36A1及 SLC38A2的扩增过程中，基线平稳，说明产生干扰的信号小。此外，扩增中设计的非模板对照（NTC）为平稳直线，说明试验过程中溶液没有污染和引物二聚体出现。
+
+![](images/afc665cfa948534de1fd4e981570743b764602bef8d8b7008f7e6dfa8c5f50af.jpg)  
+图2荧光定量PCR 扩增曲线  
+Fig.2Amplification curve of fluorescence quantitative PCR
+
+由图3可知，在GAPDH、SLC6A15、SLC6A20、SLC36A1及 SLC38A2的溶解曲线中均显示出一个单一尖锐峰，说明扩增过程中没有产生非特异性产物，引物特异性较好。
+
+![](images/131bbd3f15c0bc747f2ac0f264e2ea32d7f077331061afe2427b6f9ae59ffda5.jpg)  
+图3荧光定量PCR 溶解曲线  
+Fig.3Dissolution curve of fluorescent quantitative PCR
+
+2.2.2饲粮CP水平对断奶仔猪肝脏氨基酸转运载体mRNA表达的影响
+
+由表3可知，试验第25和45天时， $14 \%$ CP 组断奶仔猪的肝脏SLC6A15的mRNA相对表达量显著低于其他2组（ $_ { \cdot } P { < } 0 . 0 5 )$ ）；第25天时， $14 \%$ 和 $1 7 \%$ CP 组的肝脏SLC36A1的mRNA相对表达量显著低于对照组（ $\scriptstyle P < 0 . 0 5$ ）， $14 \%$ CP 组的肝脏 SLC38A2的mRNA相对表达量显著低于对照组( $( P { < } 0 . 0 5 )$ ；第 45天时， $14 \%$ 和 $1 7 \%$ CP 组的肝脏 SLC6A20 和 SLC38A2的 mRNA相对表达量显著低于对照组（ $\scriptstyle P < 0 . 0 5 .$ ）。
+
+# 表3饲粮CP水平对断奶仔猪肝脏氨基酸转运载体mRNA表达的影响
+
+Table 3Effects of dietary CP level on the mRNA expression of amino acid transporters in liver of weaned piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="3">饲粮粗蛋白质水平 Dietary CP level/%</td><td rowspan="2">SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>20</td><td>17</td><td>14</td></tr><tr><td>第10天 The 10th day</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>可溶性载体6家族成员15SLC6A15</td><td>1.11</td><td>0.92</td><td>0.81</td><td>0.13</td><td>0.32</td></tr><tr><td>可溶性载体6家族成员20SLC6A20</td><td>1.51</td><td>1.20</td><td>1.12</td><td>0.29</td><td>0.23</td></tr></table></body></html>
+
+<html><body><table><tr><td>可溶性载体36家族成员1SLC36A1</td><td>1.68</td><td>1.70</td><td>1.62</td><td>0.07</td><td>0.08</td></tr><tr><td>可溶性载体38家族成员2SLC38A2</td><td>1.59</td><td>1.57</td><td>1.21</td><td>0.33</td><td>0.17</td></tr><tr><td>第25天 The25th day</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>可溶性载体6家族成员15 SLC6A15</td><td>1.07a</td><td>1.07a</td><td>0.76b</td><td>0.08</td><td><0.05</td></tr><tr><td>可溶性载体6家族成员20SLC6A20</td><td>1.61</td><td>1.41</td><td>1.07</td><td>0.19</td><td>0.19</td></tr><tr><td>可溶性载体36家族成员1SLC36A1</td><td>1.53a</td><td>1.26b</td><td>1.04c</td><td>0.10</td><td><0.05</td></tr><tr><td>可溶性载体38家族成员2SLC38A2</td><td>1.40a</td><td>1.20ab</td><td>1.11b</td><td>0.12</td><td><0.05</td></tr><tr><td>第45天 The 45th day</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>可溶性载体6家族成员15 SLC6A15</td><td>0.75a</td><td>0.75a</td><td>0.55b</td><td>0.06</td><td><0.05</td></tr><tr><td>可溶性载体6家族成员20SLC6A20</td><td>1.77a</td><td>1.35b</td><td>1.04c</td><td>0.17</td><td><0.05</td></tr><tr><td>可溶性载体36家族成员1SLC36A1</td><td>1.51</td><td>1.28</td><td>1.04</td><td>0.20</td><td>0.14</td></tr><tr><td>可溶性载体38家族成员2SLC38A2</td><td>1.50a</td><td>1.19b</td><td>0.97c</td><td>0.05</td><td><0.05</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 { \cdot }$ ）。
+
+In the same row, values with different small leter superscripts mean significant difference $_ { ( P < 0 . 0 5 ) }$
+
+3讨论
+
+3.1饲粮CP水平对断奶仔猪肝脏氨基酸代谢酶活性的影响
+
+本试验结果显示，断奶仔猪肝脏GOT和GPT 活性随饲粮CP水平的升高而增加。GOT又称天门冬氨酸氨基转移酶，可以催化α-酮戊二酸（α-KG）和天冬氨酸（Asp）形成谷氨酸（Glu）和草酰乙酸。GPT又名谷氨酸转氨酶，可以催化 $\mathfrak { a }$ KG 和丙氨酸（Ala）形成Glu与丙酮酸。GOT 和GPT 是氨基酸代谢转化过程中的重要酶，且在肝脏内活性较高。GOT 和GPT 主要存在于细胞内，当组织细胞受到损害时，GOT 和GPT 就会通过细胞流入血液，因此GOT 和GPT 是检验肝脏功能的一个重要指标[5]。有关饲粮CP水平对猪肝脏GOT 和GPT活性影响的报道结果并不一致。罗钧秋[研究表明，当蛋白质营养供应不足时，会导致猪肝脏合成蛋白质的能力受到损伤，导致血浆GOT和GPT活性显著增加。罗洪明[报道认为，随饲粮CP水平的增加，仔猪血浆GOT 和GPT 活性呈先增加后下降再增加的趋势。从以上研究报道可以看出，判定CP水平对GOT和GPT 活性的影响，需要明确饲粮CP水平处于何种状态（正常、过营养、缺乏），处于不同状态降低或增加相同水平的CP 对机体GOT和 GPT 活性的影响是不同的。本研究表明，降低饲粮CP水平可能会减少仔猪肝脏中Glu
+
+的合成量。
+
+本研究显示，降低饲粮CP水平会降低断奶仔猪肝脏GS 和GDH活性。GS 是参与氨代谢的一种关键酶，存在于所有生物体内，催化 $L$ -Glu 转化为谷氨酰胺（Gln）[8]。GS在机体内具有重要的作用，不仅能够参与组织间氮的运输，降解体内高浓度的氨，而且还能够维持机体的酸碱平衡。GDH广泛存在于肝脏组织中，在氨基酸氧化脱氨基反应过程中具有重要作用。一般情况下，GDH可催化 $a -$ 亚氨基戊二酸合成Glu。此外，在氨基酸脱氨基反应过程中，GDH 能够和转氨酶形成GIn 和天冬酰胺，并转化为尿素[9]。罗钧秋[研究报道，饲粮不同氨基酸组成对猪血浆GDH活性的影响不显著，结合本试验结果（降低饲粮CP水平会降低肝脏GDH和GS 活性）可以推测，饲粮氨基酸的数量对肝脏GDH 和GS 活性具有重要影响。
+
+3.2饲粮CP水平对断奶仔猪肝脏氨基酸转运载体mRNA表达的影响
+
+本研究结果显示，所检测的4种氨基酸转运载体的mRNA 相对表达量均在不同程度上随饲粮CP水平的降低而降低。SLC6A15 是可溶性载体6家族（solute carrier family 6,SLC6)的成员之一，是一种结合 $\mathrm { \Delta N a ^ { + } }$ 和 CI-的中性氨基酸转运载体。Uhl等[10]于1992 年发现了SLC6A15,并依据其在 SLC6的作用,将其命名为 SLC6A15、BoAT2、SBAT1或 V7-3。Takanaga等[研究证实，SLC6A15 可以调节脯氨酸（Pro）、Met、亮氨酸（Leu）、氨酸（Val)和异亮氨酸（Ile）的代谢转化。Hagglund 等[12]研究发现，SLC6A15可以改变Leu的浓度，从而调节机体器官内的能量代谢。Drgonova 等[13]研究表明，敲除小鼠的 SLC6A15 基因导致Leu 和 Pro 摄取量分别下降 $40 \%$ 和 $1 5 \%$ 。Hägglund 等[14]研究发现，SLC6A15的mRNA表达主要在大脑，在肌肉、肠道、肝脏和眼睛中也能检测到部分 SLC6A15的mRNA 表达。SLC6A20又名 SIT1，是一种结合 $\mathrm { \Delta N a ^ { + } }$ 和 $\mathrm { C l ^ { - } }$ 的氨基酸转运载体。SLC6A20 主要分布于哺乳动物的肠道和肾脏中，是Pro 代谢过程中的重要成分，其通过结合Glu、精氨酸（Arg）和其他氨基酸而影响机体的糖稳态和能量稳态[15-16]。研究发现，SLC6A20 在肾脏中可调节II型糖尿病[17]。此外，亚氨基甘氨酸尿症与 SLC6A20 的突变也存在一定的联系[18]。由于SLC6A20 发现的比较晚，目前关于其在肝脏中的调节机制报道较少。SLC36A1又名 $P A T 1$ ，是一种编码质子结合氨基酸的转运载体，其主要分布于肠道和肾脏中,在肝脏中也有少量的 mRNA 表达[15]。SLC36A1 能够转运机体内 Ala、Pro、甘氨酸（Gly)等各类小氨基酸。在一定 $\mathrm { H ^ { + } }$ 浓度条件下，SLC36A1选择性激活 $\mathrm { { N a ^ { + } / H ^ { + } } }$ 交换体IⅢI产生亚氨基酸，从而使机体内 $\mathrm { H ^ { + } }$ 浓度维持在正常水平[19]。Chen 等[20]研究发现，SLC36A1在人体的小肠、大脑、肝脏、睾丸和肾脏组织中均有表达。
+
+SLC38A2是 SLC6家族成员之一，它是一种 Na+依赖的中性氨基酸转运载体，存在于哺乳动物组织中。SLC38A2几乎在所有细胞类型中都能表达[21]。Ortiz 等[22]研究发现，给大鼠饲喂高蛋白质饲粮可以增加 SLC38A2的表达，这表明 SLC38A2 能够将机体内多余蛋白质通过氨基酸的形式进行氧化分解。Conti等[23]研究表明，SLC38A2 能够结合Gln进入细胞内，并参与Glu-Gln代谢循环。本试验研究发现，断奶仔猪肝脏 SLC38A2的mRNA相对表达量随饲粮CP水平的增加而增加，这与Ortiz 等[22]的研究结果相一致。
+
+仔猪肝脏氨基酸转运载体的mRNA相对表达量随饲粮CP水平的变化趋势与氨基酸代谢酶活性的变化趋势一致。总体来看，降低饲粮CP水平 $3 \%$ 和 $6 \%$ 会减少某些氨基酸（如Glu、Pro、Arg、Leu等）进入肝细胞的数量，从而降低这些氨基酸在肝脏中的代谢速率。
+
+4结论
+
+$\textcircled{1}$ 饲粮CP水平降低 $3 \%$ 和 $6 \%$ 会显著降低断奶仔猪肝脏氨基酸代谢酶（GOT、GPT、GS、GDH）活性。  
+$\textcircled{2}$ 饲粮CP水平降低 $3 \%$ 和 $6 \%$ 会显著降低断奶仔猪肝脏氨基酸转运载体（SLC6A15、SLC6A20、SLC36A1、SLC38A2）的mRNA 相对表达量。
+
+参考文献：
+
+[1] KERR B J,EASTER R A.Effect of feeding reduced protein,amino acid-supplemented dietson nitrogen and energy balance in grower pigs[J].Journal of AnimalScience,1995,73(10):3000-3008.  
+[2] LE BELLEGO L,VAN MILGEN J,NOBLET J.Effect of high temperature and low-proteindiets on the performance of growing-finishing pigs[J].Journal of AnimalScience,2002,80(3):691-701.  
+[3]陈澄.日粮蛋白水平对仔猪肝脏氨基酸代谢转化的影响研究[D].硕士学位论文.重庆:西南大学,2015:21-24.  
+[4]张丽英.饲料分析及饲料质量检测技术[M].3版.北京:中国农业大学出版社,2007.[5] 邹思湘.动物生物化学[M].5版.北京:中国农业出版社,2008.  
+[6] 罗钧秋.猪饲粮不同来源蛋白质营养代谢效应的比较研究[D].博士学位论文.雅安:四川农业大学,2011.  
+[7]罗洪明.饲粮不同蛋白水平对早期断奶仔猪生产性能、血液生化指标及免疫机能的影响[D]硕士学位论文.四川:四川农业大学,2005.  
+[8]SHAKED I,BEN-DROR I,VARDIMON L.Glutamine synthetase enhances the clearance of
+
+extracellular glutamate by the neural retina[J].Neurochem,20o2,83(3):574-580.
+
+[9]李招权,魏明竟.血清谷氨酸脱氢酶的检测及临床意义[J].国外医学临床生物化学与检验 学分册,2001,22(4):209-210.   
+[10]UHL G R,KITAYAMA S,GREGOR P,et al.Neurotransmiter transporter family cDNAs in a rat midbrain library:orphan transporters’ suggest sizable structural variations[J].Molecular Brain Research,1992,16(3/4):353-359.   
+[11]TAKANAGA H,MACKENZIE B,PENG J B,et al.Characterization of a branched-chain amino-acid transporter SBAT1 (SLC6A15） that is expressed in human brain[J].Biochemical and Biophysical Research Communications,2005,337(3):892-900.   
+[12] HAGGLUND M G A,ROSHANBIN S,LOFQVIST E,et al.B0AT2 (SLC6A15) is localized to neurons and astrocytes,and is involved in mediating the efect of leucine in the brain[J].PLoS One,2013,8(3):58651.   
+[13]DRGONOVA J,LIU Q R,HALL F S,et al.Deletion of v7-3 (SLC6A15)transporter allows assessment of its roles in synaptosomal proline uptake,leucine uptake and behaviors[J].Brain Research,2007,1183:10-20.   
+[14] HAGGLUND M G A,HELLSTEN S V,BAGCHI S B,et al.Characterization of the transporterB0AT3(SLC6A17）intherodentcentralnervoussystem[J].BMC Neuroscience,2013,14:54.   
+[15]TAKANAGA H,MACKENZIE B,SUZUKI Y,et al.Identification of mammalian proline transporter SIT1 (SLC6A2O) with characteristics of classcal system imino[J].The Jourmal of Biological Chemistry,2005,280(10):8974-8984.   
+[16]JOBGEN W S,FRIED S K,FU W J,et al.Regulatory role for the arginine-nitric oxide pathwayinmetabolismofenergysubstrates[J].JournalofNutritional Biochemistry,2006,17(9):571-588.   
+[17]PATTERSON A D,BONZO J A,LI F,et al.Metabolomics reveals attenuation of the SLC6A20 kidney transporter in nonhuman primate and mouse models of type 2 diabetes mellitus[J].Molecular Bases of Disease,2011,286(22):19511-19522.   
+[18]BROER S,BAILEY C G,KOWALCZUK S,et al.Iminoglycinuria and hyperglycinuria are discrete human phenotypes resulting from complex mutations in proline and glycine transporters[J].Journal of Clinical Invertigation,2008,118(12):3881-3892.   
+[19] ANDERSON C M H,THWAITES D T.Indirect regulation of the intestinal $\mathrm { H ^ { + } }$ -coupled   
+amino acid transporter hPAT1 (SLC36A1)[J].Journal of Cellular   
+Physiology,2005,204(2):604-613.   
+[20] CHEN P E,GEBALLE M T,STANSFELD P J,et al.Structural features of the glutama   
+te binding site in recombinant NR1/NR2A N-methyl-D-aspartate receptors determined by sit   
+e-directed mutagenesis and molecular modeling[J].Molecular Pharmacology,2005,67(5):1470-   
+1484.   
+[21]YAO D D,MACKENZIE B,MING H,et al.A novel system A isoform mediating Na+/neutral   
+amino acid cotransport[J].The Journal of Biological Chemistry,2000,275(30):22790-22797.   
+[22]ORTIZ V,ALEM N G,ESCAMILLA-DEL-ARENAL M,et al.Promoter characterization and   
+role of CRE in the basal transcription of the rat SNAT2 gene[J].American Journal of   
+Physiology,2011,300(6):E1092-E1102.   
+[23] CONTI F,MELONE M.The glutamine commute:lost in the tube?[J].Neurochemistry   
+International,2006,48(6/7):459-464. Effects of Dietary Crude Protein Level on Activities of Amino Acid Metabolic Enzymes and mRNA Expression of Amino Acid Transporters in Liver of Weaned Piglets   
+ZHANG Xiangxin1,2 CHENCheng1,2TANG Zhiru1.2ZHEN Jifu1.2XUQingqing1,2SUN Zhihong1,2\* (1. Laboratory of Bio-Feed and Molecular Nutrition, Southwest University, Chongqing 400715, China; 2. Collge of Animal Science and Technology, Southwest University, Chongqing 400715, China)   
+Abstract: The aim of this study was to determine the effects of dietary crude protein (CP) level on   
+activities of amino acid metabolic enzymes and mRNA expresson of amino acid transporters in   
+liver of weaned piglets. Fifty-four 28-days-old healthy “Duroc $\times$ Landrace×Yorkshire” hybrid   
+weaned piglets (males and females in half) with the similar body weight $[ ( 7 . 0 { \pm } 0 . 5 ) \ \mathrm { k g } ]$ were
+
+randomly allotted to 3 groups $[ 2 0 . 0 \%$ CP group (control group), $1 7 . 0 \%$ CP group and $1 4 . 0 \%$ CP group],and 18 replicates per group and 1 pig per replicate. The pre-trial lasted for 7 days,and the trial lasted for 45 days. Six piglets were selected from each group and slaughtered at the $1 0 ^ { \mathrm { t h } }$ day, the $2 5 ^ { \mathrm { t h } }$ day and the $4 5 ^ { \mathrm { t h } }$ day,respectively. The results showed as follows: 1) at the $1 0 ^ { \mathrm { t h } }$ day, the activity of glutamic-oxaloacetic transaminase (GOT) in liver of weaned piglets in groups $14 \%$ and $1 7 \%$ CP was significantly lower than that in control group $( P { < } 0 . 0 5 )$ , and the activity of glutamine synthetase (GS) in liver in group $14 \%$ CP was significantly lower than that in the other 2 group $( P { < } 0 . 0 5 )$ . At the $2 5 ^ { \mathrm { t h } }$ day，the activities of GOT and GS in liver in group $14 \%$ CP were significantly lower than those in control group $( P { < } 0 . 0 5 )$ ， and the activities of glutamic-pyruvic transaminase (GPT) and glutamic acid dehydrogenase (GDH) in liver in groups $14 \%$ and $1 7 \%$ CP were significantly lower than those in control group $( P { < } 0 . 0 5 )$ . At the $4 5 ^ { \mathrm { t h } }$ day, the activities of GPT and GS in liver in group $14 \%$ CP were significantly lower than those in the other 2 groups （204 $( P { < } 0 . 0 5 )$ . 2) At $2 5 ^ { \mathrm { t h } }$ day, the mRNA relative expressions of solute carrier family 6 member 15 (SLC6A15) and solute carrier family 38 member 2 (SLC38A2) in liver of weaned piglets in group $14 \%$ CP were significantly lower than those in control group $( P { < } 0 . 0 5 )$ ， and the mRNA relative expression of solute carrier family 36 member 1 (SLC36A1) in liver in groups $14 \%$ and $1 7 \%$ CP was significantly lower than that in control group $( P { < } 0 . 0 5 )$ . At $4 5 ^ { \mathrm { t h } }$ day,the mRNA relative expressions of solute carrier family 6 member 20 (SLC6A20) and SLC38A2 in liver in groups $14 \%$ （20 and $1 7 \%$ CP were significantly lower than those in control group $( P { < } 0 . 0 5 )$ , and the mRNA relative expression of SLC6A15 in liver in group $14 \%$ CP was significantly lower than that in the other 2 group $( P { < } 0 . 0 5 )$ . In conclusion, reducing dietary CP level by $3 \%$ and $6 \%$ can reduce the activities of amino acid metabolic enzymes and the mRNA relative expressions of amino acid transporters in liver of weaned piglets.
+
+Key words: low-protein diets; piglets; liver; amino acid metabolic enzyme; amino acid transporter

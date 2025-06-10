@@ -1,0 +1,78 @@
+# 耳穴贴压治疗肉芽肿性小叶性乳腺炎 术后疼痛疗效观察
+
+李苏娜，刘可欣，陈宏（北京中医药大学东方医院外二乳腺科，北京100078）
+
+摘要：目的观察耳穴贴压治疗肉芽肿性小叶性乳腺炎术后疼痛的效果。方法将60例肉芽肿性小叶性乳腺炎患者随机分为对照组30例和治疗组30例。两组均接受手术治疗,对照组实施术后常规护理,治疗组在对照组基础上，于术后 $3 0 ~ \mathrm { m i n }$ 内给予耳穴贴压。采用数字评分法(NRS)评估患者术后 $6  { \mathrm { h } }  { \mathrm { \Omega } } \cdot 2 4  { \mathrm { h } }$ 和 $7 2 \mathrm { ~ h ~ }$ 疼痛程度，评价干预效果。结果术后 $2 4 \mathrm { h }$ ,疼痛有效缓解率治疗组为 $8 3 . 3 3 \% ( 2 5 / 3 0 )$ ，高于对照组的 $5 3 . 3 3 \%$ (16/30)，差异有统计学意义（ $( P { < } 0 . 0 5 )$ 。术后 $^ { 4 8 \mathrm { ~ h ~ } }$ ，疼痛有效缓解率治疗组为 $9 3 . 3 3 \% ( 2 8 / 3 0 )$ ，高于对照组的$7 3 . 3 3 \% ( 2 2 / 3 0 )$ ，差异有统计学意义（ $\scriptstyle \cdot < 0 . 0 5$ )。结论耳穴贴压能有效缓解肉芽肿性小叶性乳腺炎术后疼痛程度，且操作简单、安全。
+
+关键词：耳穴贴压；肉芽肿性乳腺炎；术后疼痛；中医护理
+
+# Therapeutic effect of auricular acupoint sticking and pressing on postoperative pain of patients with granulomatous lobular mastitis
+
+LI Suna，LIU Kexin，CHEN Hong (Second Department of Breast Surgery,Dongfang Hospital Beijing University of Chinese Medicine,Beijing 100078)
+
+ABSTRACT: ObjectiveTo observe the effect of auricular acupoint sticking and pressing on postoperative pain of patients undergoing surgical treatment for granulomatous lobular mastitis (GLM). MethodsTotally sixty GLM patients were randomly divided into control group and treatment group，with 3O cases in each group. All patients received routine post-operative nursing，and those in the treatment group were given auricular acupoint sticking and pressing therapy within half an hour after operation. The degree of postoperative pain was evaluated by Numerical Rating Scale（NRS） at $6 \textup { h }$ ， $2 4 \mathrm { ~ h ~ }$ and $^ { 7 2 \mathrm { ~ h ~ } }$ after operation，and the collected data were analyzed. ResultsThe overall rate of pain relief in the treatment group was higher than that in the control group at $2 4 \mathrm { ~ h ~ }$ after surgery ( $8 3 . 3 3 \%$ Vs. $5 3 . 3 3 \%$ ， $\textstyle P < 0 . 0 5$ )．The overall rate of pain relief in the treatment group was higher than that in the control group at $^ { 4 8 \mathrm { ~ h ~ } }$ after surgery ( $9 3 . 3 3 \%$ Vs. $7 3 . 3 3 \%$ ， $\textstyle P < 0 . 0 5$ ). ConclusionThe auricular acupoint sticking and pressing is an easy-to-operate and safe technique of Traditional Chinese Medicine，and it is effective in relief of postoperative pain in GLM patients.
+
+KEY WORDS: auricular acupoint sticking and pressing； granulomatous lobular mastitis ; postoperative pain； Traditional Chinese Medicine nursing
+
+肉芽肿性小叶性乳腺炎(GLM)是乳腺的非干酪样坏死局限于乳腺小叶的肉芽肿性病变，多以乳腺小叶为中心，以乳房肿块、皮肤溃疡、局部疼痛、肿胀为主要表现，病情严重可导致窦道形成、脓肿破溃，久治不愈。由于GLM具有较高复发率，且病程长，反复脓肿破溃及窦道形成会对女性生理及心理造成极大影响,其危害性不亚于乳腺恶性肿瘤[1-2]。目前GLM病因及致病机制不明，整体治疗反馈不佳，容易造成炎症遗留，进而导致二次复发需要再次治疗，且再次治疗时若处理不当易导致乳腺外部变形、降低乳腺外部美观度，因此只能选择手术将其切除[3]。术后疼痛不仅可导致患者的紧张、恐惧、焦虑情绪，而且影响手术的效果及术后康复[4]。因此合理、有效的镇痛可减轻或防止疼痛对身体和心理造成的一系列的不利影响，促进康复程度，提高患者的生活质量[5-6]。耳穴贴压法是中国传统医学宝库中的重要组成部分，通过刺激相应的穴位可调整脏腑的功能，达到缓解疼痛症状、促进疾病康复的目的。本研究通过对GLM根治术患者行耳穴贴压的方法，观察其在改善术后疼痛程度的效果，现报告如下。
+
+# 1资料与资料
+
+# 1.1一般资料
+
+选取2020年1月—2021年12月医院乳腺科收治的60例GLM患者，均在全麻下行GLM根治术。诊断标准：病例诊断符合国家中医药管理局颁布的《中医病证诊断疗效标准》中的GLM中医诊疗方案。纳入标准： $\textcircled{1}$ 施行GLM根治术； $\textcircled{2}$ 同意接受耳穴贴压并签署知情同意书； $\textcircled{3}$ 意识清楚，能表达自我感受和认知。排除标准： $\textcircled{1}$ 伴有严重心、肺、肝、肾功能障碍者； $\textcircled{2}$ 伴有血液系统疾病、免疫系统疾病者； $\textcircled{3}$ 伴有恶性肿瘤者； $\textcircled{4}$ 认知功能障碍者； $\textcircled{5}$ 皮肤过敏者； $\textcircled{6}$ 术后使用镇痛泵者。
+
+采用随机数字表法将患者分为对照组和治疗组。治疗组30例，年龄27\~44岁，中位年龄32.00岁；对照组年龄26～45岁，中位年龄32.50岁。两组一般资料表，差异无统计学意义（ $P$ $> 0 . 0 5 \$ 。
+
+# 1.2 方法
+
+对照组接受常规GLM术后护理方案。
+
+治疗组在对照组基础上，增加耳穴贴压中医护理特色技术。耳穴贴压操作方法： $\textcircled{1}$ 耳廓清洁：用 $7 5 \%$ 酒精去除灰尘、油脂、分泌物、脱屑等。 $\textcircled{2}$ 耳廓按摩：利用酒精的湿度和光滑度进行全耳按摩，刺激相关耳穴，激发经气，疏通经络，调气补血，使耳廓充血发热，以便于耳穴贴压。第一步，耳前按摩5次，耳后按摩5次;第二步，循环大周天(从耳垂1区沿着耳轮到耳屏，按摩一周)10次；第三步，循环小周天（从皮质下沿着对耳轮到角窝上，按摩一周)10次;第四步，耳甲内五脏，心肺脾肝肾的按摩10次；第五步，耳背降压沟、耳尖及耳轮结节的按摩10次，以局部微红微热为宜。 $\textcircled{3}$ 耳穴贴压：手持探棒探查耳穴敏感点，询问患者有无热、麻、胀、痛感，确定贴压部位。选取胸、乳腺、肝、肾上腺、脑垂体、神门、交感。用蘸有 $7 5 \%$ 酒精的棉签自上而下、由内到外、从前到后消毒耳部皮肤。选用质硬且表面光滑的王不留行籽或莱菔籽等丸状物粘附在 $0 . 7 { \times } 0 . 7 \mathrm { c m }$ 大小的胶布中央，用止血钳或镊子夹住贴敷于选好耳的部位上，并给予适当按压(揉)，使患者有热、麻、胀、痛感觉，即"得气”。观察患者局部皮肤情况，询问患者有无不适感。 $\textcircled{4}$ 操作时间：患者术后回病房的30min内进行耳穴贴压，为尽快达到止痛效果，术后$2 \mathrm { h }$ 内每隔 $1 5 \mathrm { m i n }$ 重复按压，每穴每次按压 $1 \mathrm { m i n }$ 之后每隔6h按压1次。
+
+# 1.3 观察指标
+
+采用疼痛数字评分法(NRS)评估术后疼痛程度。用数字"0”—“10”分别表示不同的疼痛强度并计分，0分表示无痛；1～3分表示轻度疼痛； $4 \sim$ 6分表示中度疼痛；7\~9分表示重度疼痛;10分表示剧痛。由当班护士评估记录患者术后 $6  { \mathrm { ~ h ~ } } , 2 4$ $ { \mathrm { ~ h ~ } } , 4 8  { \mathrm { ~ h ~ } }$ 的NRS评分[8]
+
+根据临床症状和NRS减少程度评价疗效，治疗后的缓解程度分为4级： $\textcircled{1}$ 完全缓解：完全无疼痛，疼痛数字评分减少到0分; $\textcircled{2}$ 明显缓解：疼痛明显减轻，或虽有疼痛但不影响睡眠和正常生活，疼痛数字评分减少 $1 / 2 \sim 3 / 4$ $\textcircled{3}$ 轻度缓解：疼痛减轻，但仍有明显疼痛，影响睡眠，疼痛数字评分减少小于1/2； $\textcircled{4}$ 无效：治疗后疼痛无变化，疼痛数字评分无减少[9-10]。有效率 $\ c =$ （完全缓解 $+$ 明显缓解)/总例数 $\times 1 0 0 . 0 0 \%$ 。
+
+# 2结果
+
+所有研究对象均无退出，治疗组患者未出现不良反应。术后 $6 \mathrm { n }$ ,两组疼痛有效缓解率比较，差异无统计学意义（ $\cdot P { > } 0 . 0 5 \$ )。术后 $2 4 \mathrm { h }$ ,疼痛有效缓解率治疗组为 $8 3 . 3 3 \% ( 2 5 / 3 0 )$ ，高于对照组的 $5 3 . 3 3 \%$ （16/30），差异有统计学意义（ $\scriptstyle \lfloor P <$ 0.05）。术后 $^ { 4 8 \mathrm { ~ h ~ } }$ ，疼痛有效缓解率治疗组为$9 3 . 3 3 \% ( 2 8 / 3 0 )$ ，高于对照组的 $7 3 . 3 3 \% ( 2 2 / 3 0 )$ ，差异有统计学意义（ $\scriptstyle \left( P < 0 , 0 5 \right)$ )。提示术后 $2 4 \mathrm { ~ h ~ }$ 及
+
+$4 8 \mathrm { ~ h ~ }$ 两组患者的疼痛程度均有明显改善，且治疗 组疼痛缓解程度优于对照组。
+
+表1两组患者术后疼痛干预效果比较 $[ \mathbf { n } ( \% ) ]$   
+
+<html><body><table><tr><td>时间</td><td>组别</td><td>完全缓解</td><td>明显缓解</td><td>轻度缓解</td><td>无效</td></tr><tr><td>术后6h</td><td>对照组(n=30)</td><td>0</td><td>14(46.67)</td><td>12(40.00)</td><td>4(13.00)</td></tr><tr><td rowspan="2">术后24h</td><td>治疗组(n=30)</td><td>0</td><td>15(50.00)</td><td>13(43.00)</td><td>2(6.67)</td></tr><tr><td>对照组(n=30)</td><td>6(20.00)</td><td>10(33.33)</td><td>11(36.67)</td><td>3(10.00)</td></tr><tr><td rowspan="2">术后48h</td><td>治疗组(n=30)</td><td>8(26.67)</td><td>17(56.67)</td><td>4(13.33)</td><td>1(3.33)</td></tr><tr><td>对照组(n=30)</td><td>19(63.00)</td><td>3(10.00)</td><td>6(20.00)</td><td>2(6.67)</td></tr><tr><td></td><td>治疗组(n=30)</td><td>23(76.67)</td><td>5(16.67)</td><td>1(3.00)</td><td>1(3.33)</td></tr></table></body></html>
+
+# 3讨论
+
+GLM发病率呈逐年上升趋势,在发展中国家约占乳腺良性疾病 $1 0 . 5 \% ^ { [ 1 1 ] }$ ,在临床上，主要的治疗手段为药物治疗和手术治疗。针对术后疼痛患者，临床上常采用药物进行镇痛治疗，然而止痛药常会出现胃肠道反应、药物依赖性等不良反应。耳穴埋豆治疗法作为中医特色治疗方法，其通过疏通经络,调理气血，以达到止血、镇痛、消炎、解痉，改善局部血液循环,缓解软组织痉挛的作用。现代研究表明2，术后局部组织受到手术的刺激和损伤，软组织和神经产生水肿或炎性反应通过对特定部位的耳穴进行间断刺激，从神经末梢传导到大脑皮层的相应区，使大脑兴奋和抑制而达到镇痛的效果。何志群等[13研究结果也同样证明耳穴压豆后可使局部压力感受器转化为神经冲动，形成的酸麻胀痛的感觉，如这些感觉的刺激强度超过一般感觉阈值时就会使痛觉降低或消失，而且压穴越准，止痛效果越佳，与麻醉镇痛的方式相比较，耳穴埋豆还具有操作简单、安全有效、无不良反应的优点。本研究根据肉芽肿术后疼痛的机理、中医脏腑及经络辨证的原理、耳穴作用特点选取穴位。选取乳腺、胸，为相应部位取穴，以致“气至病所”,从而达到“气至病除”。肝穴主要是调节冲任二脉、解郁理气、化痰消坚，并且足厥阴肝经，经乳房分布胁肋部，根据经络功能“经络说过，主治所在”，因此取肝穴。内分泌及脑垂体能够调节内分泌功能，改善周身情况。肾上腺穴，具有调节肾上腺和肾上腺皮质激素功能,有消炎止痛的效果。神门穴为止痛要穴，具有安神镇痛的作用，交感穴具有调节植物神经功能，故选神门穴、交感穴,用于解痉、镇痛。
+
+本研究结果显示，术后 $2 4 \mathrm { h }$ 和 $4 8 \mathrm { ~ h ~ }$ ,疼痛有效缓解率治疗组均高于对照组。相关研究[14-15]也表明,神门、交感等穴位，能调节人体机能，有助于提高疼痛阈值。对于乳腺疼痛的治疗，耳穴贴压疗法成本低，见效快，操作方便，采用视觉模拟评分法可直接看到耳穴贴压的疗效[16]。陈月峰等[2]对48例骨科手术后患者记录6、12、18、24、36、48、60、72h的NRS评分，得出结论耳穴埋豆能明显减轻患者术后的疼痛，其疗效较为满意。另有研究表明，耳穴贴压疗法术后镇痛起效快、维持时间长、效果可靠。窦金杰等18指出，通过耳穴贴压联合手指操治疗1例经桡动脉行冠状动脉造影术后疼痛的患者，能减轻术侧肢体疼痛感，缓解肢体肿胀麻木程度，且无明显不良反应，患者舒适度高。因此在缓解术后疼痛方面，还应不断探索耳穴贴压联合其他中医护理技术来提高疗效。
+
+综上所述，对GLM术后患者进行耳穴贴压干预，能有效缓解术后疼痛效，且耳穴贴压因其有效性、安全性、经济性和可操作性等优势，值得在手术后镇痛中应用和推广。
+
+利益冲突声明：作者声明本文无利益冲突。
+
+# 参考文献
+
+[1] CSERNIG，SZAJKIK.Granulomatous lobular mas-titis following drug-induced galactorrhea and blunttrauma[J].BreastJ,1999,5(6):398-403.  
+[2] FAROUKO，ABDELKHALEKM，ABDALLAHA，et al．Rifampicin for idiopathic granulomatouslobular mastitis :a promising alternative for treatment[J].WorldJSurg，2017,41(5)：1313-1321.  
+[3] 林燕青，张惠斌，曲利娟，等．肉芽肿性小叶性乳腺炎106例临床病理特征及病因分析[J].临床与实验病理学杂志，2017，33(9)：1013-1015.  
+[4] 姜鸳英．耳穴压豆联合穴位贴敷对乳腺肿物麦默通微创手术后患者疼痛和焦虑情绪的影响[J」．中国中医药科技，2020，27(6)：944-945.  
+[5] 陈立早，张泓．“调理髓海"针刺法配合耳穴贴压治疗中风后抑郁症疗效观察[J].上海针灸杂志，2011，30(8):525-526.  
+[6] 童培建，汪海东，马镇川，等．耳穴疗法在全膝关节置换围手术期镇痛的应用及疗效观察[J].中国中西医结合杂志，2010，30(9)：931-934.  
+[7] 国家中医药管理局．中医病证诊断疗效标准[S].南京：南京大学出版社，1994.  
+[8] 董玲娜，俞琦，叶君儿，等．耳穴贴压对剖宫产术后疼痛及血清皮质醇、白细胞介素6浓度的影响[J].中华护理杂志，2015，50(7)：839-844.  
+[9] 朱世杰，贾立群，李佩文．中医外治癌性疼痛的临床评价[J].中西医结合学报，2011，9(1)：11-14.  
+［10］陈宏，刘书红，孙晓蕾，等．中药贴敷局部治疗癌性疼痛的效果观察[J]．护理学报，2012，19(24)：55-57.  
+[11］XUE JX，YE B,LIU S，et al. Treatment efficacyof Chuang Ling Ye，a traditional Chinese herbalmedicine compound，on idiopathic granulomatousmastitis： a randomized controlled trial［J].EvidBased Complementary Altern Med，2O20，2020：6964801.  
+[12］陈月峰，陈卫衡，李龚，等．耳穴埋豆治疗骨科术后疼痛的疗效观察[J]．中医临床研究，2014，6(4):1-3.  
+[13」何志群，刘桂英，李杏慈，等．耳穴压豆联合围手术期心理护理干预剖宫产术后疼痛临床观察[J].山西中医，2017，33(4)：60-62.  
+[14］穆欣，赵士梅，王迪，等．耳穴压籽法防治急性阑尾炎术后疼痛的疗效观察[J].护理研究，2014，28(8): 978.  
+[15］黎华，文安怡．耳穴压豆对肾结石疼痛期的止痛效果[J]．国际医药卫生导报，2014，20(21)：3320-3322.  
+[16］张董晓，李桃花，黄巧，等．耳穴贴压治疗乳腺疼痛30例临床观察[J]．山东中医药大学学报，2014，38(6):575.  
+[17］张进．耳穴贴压对肛门病术后的镇痛效果观察[J]．中医药临床杂志，2010，22(4)：332.  
+[18］窦金杰，李玉叶，沈娟，等．耳穴贴压联合手指操治疗经桡动脉行冠状动脉造影术后疼痛1例的护理体会[J]．中西医结合护理，2021，7(9)：103-106.

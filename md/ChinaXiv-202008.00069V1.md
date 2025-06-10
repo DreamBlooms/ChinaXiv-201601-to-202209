@@ -1,0 +1,172 @@
+# 基于ASCOM标准的天文电动调焦器设计
+
+和寿圣²，丁旭²，王传军²，范玉峰"²，余晓光}²，王德清²，黄永萍²，伦宝利,2(1.中国科学院云南天文台，云南 昆明 650216；2.中国科学院天体结构与演化重点实验室,云南 昆明 650216)
+
+摘要：随着天文技术的不断发展，远程观测和自主观测逐渐成为天文观测的主流趋势，自动调焦技术也越来越受到重视。电动调焦器是天文望远镜不可或缺的附属设备，是实现自动调焦的关键设备。为实现云南天文台丽江天文观测站10英寸米德望远镜的自动调焦，自行研发了一套天文电动调焦器，设计相关控制电路，制定串口通信协议，并编写了一套开源ASCOM驱动程序SSFocuser。本文详细介绍了该电动调焦器的结构原理和实现方法，实测结果表明具有很好的稳定性，完全满足设计要求，为天文电动调焦器设计提供了可借鉴的经验和方法。
+
+关键词：电动调焦器；串口通信协议; ASCOM; SS Focuser中图分类号：P111；TP273 文献标识码：A 文章编号：
+
+随着天文技术的不断发展，远程观测和自主观测逐渐显露优势，成为时域天文学研究的重要工具，自动调焦技术也越来越受到重视。电动调焦器是天文望远镜不可或缺的附属设备，是实现自动调焦的关键设备。
+
+大中型专业天文望远镜通常自带结构复杂的专用电动调焦器，相关技术研究主要集中在自动调焦算法领域[2][3][4]。小型天文望远镜主要应用于天文选址、巡天观测及科普教育等领域，更多采用远程观测和自主观测模式，从而对电动调焦器需求更为广泛。小型天文电动调焦器通常为独立设备，结构相对比较简单。
+
+云南天文台丽江天文观测站10英寸米德望远镜配套的电动调焦器为摩擦传动式相对位置调焦器，其调焦精度和兼容性均不能满足观测应用需求。为实现该望远镜自动调焦，自行研发了一套支持天文公共对象模型（Astronomy Common Ob ject Model，ASCOM）的天文电动调焦器，设计相关控制电路，制定串口通信协议，并编写了一套开源ASCOM驱动程序SSFocuser②，本文重点介绍该电动调焦器的结构原理和实现方法。
+
+# 1系统结构
+
+天文电动调焦器结构如图1所示，由调焦控制器（即控制电路板）和含步进电机的调焦机构组成。16英寸以下小型天文望远镜负载能力和安装空间有限，通常采用重量小于5千克的商业CCD相机作为观测终端，相应的电动调焦器尺寸也不宜过大。为保障驱动能力同时减小空间尺寸，本设计采用减速比120:1的两相步进电机直接驱动调焦机构，合理设计加减速曲线有效防止步进电机丢步；采用集成化设计将调焦控制器与步进电机集成封装，并摒弃常规手控盒以最大程度优化外形尺寸。控制计算机与调焦控制器采用USB通信，可通过MaxIm DL、FocusMax等支持ASCOM协议的控制软件进行自动调焦操作，也可根据串口通信协议自主编写程序实现；手机终端与调焦控制器采用蓝牙无线通信，可通过手机APP替代手控盒实现初始化校准及手动控制功能。本电动调焦器集成温度采集模块，以支持上位机控制软件焦距补偿。
+
+![](images/e8d1e1d42cd5e6db7a3e277abc2f62736409286024ca09517a18db70296db873.jpg)  
+图1系统结构图  
+Fig.1 System schematic
+
+# 3电路设计
+
+电路设计包括控制器模块、电源模块、通信模块、驱动模块和温度模块五部分，图2为其核心电路原理图。
+
+控制器模块采用意法半导体的STM32F103C8T6单片机，负责与上位机通信、电机驱动、温度采集等工作。采用8M无源晶振作为外部时钟；串口1负责与控制电脑通信，串口2负责手机终端通信，串口3与驱动模块通信以配置驱动芯片参数；以STEP/DIR方式控制步进电机驱动芯片；采用一线协议采集温度传感器数据。
+
+电源模块外部输入采用直流12V，由DC5.5-2.1标准接口引入，加上二极管D1防反插。步进电机驱动电压12V，其它芯片3.3V，采用LM2596-3.3电源芯片将12V转为3.3V。小型天文电动调焦器基本上都采用控制电脑端存储位置的方式，由于不带绝对编码器会产生两个问题：一是转动过程中如控制电脑和电动调焦器先后掉电其位置会产生偏差；二是如控制电脑重装软件或者更换控制电脑需重新初始化位置。为了保证掉电瞬间存储位置及配置信息，增加掉电保存电路，检测到掉电情况发生立即存储数据。掉电检测通常可采用输入电压监控和电源管理芯片中断两种方式设计，本设计采用第一种方式。
+
+通信模块负责与上位机通信，考虑固定机位使用和户外移动使用两种情况，分别采用USB通信和蓝牙通信两种方式，前者用于固定台址电脑控制，后者用于户外移动手机控制。USB通信采用CH340C芯片（USB转UART芯片，实际上是串口通信），蓝牙通信采用汇承HC-08蓝牙串口透传模块，分别连接STM32单片机串口1和串口2。
+
+驱动模块采用TMC2208步进电机驱动芯片设计，该芯片有效电流（均方根电流)为1.4A，工作电压为5V-36V，最高可达256细分，支持低速静音模式和高速防抖模式。本设计直接通过MS1和MS2管脚接地设置8细分，同时PDN连接STM32单片机串口3预留配置接口。
+
+温度模块采用数字化温度传感器DS18B20，该芯片支持一线总线协议[6]。
+
+U1 LM2596-3.3V P1 VIN D1D12V0 1 IN LE 2 L1 D3V3 R1 533 SOURCE 3 SS24 1F 100nF TOCF CNN D3V3 S C2 3 5 Tos 三 C8 三 GND 1 HVBUS GND GND U5Bluetooth Y1 BTXI u 4 GND 聘 FF GND U3A STM32F103C8T6 GNDIV D12V0   
+B VIN2 10 2 PAO-WKUP PA1 PAA2 PB0 PB1 PB3 18 0BOOTI DIAG EN 29 28272525242322 TMC2208 29 30 PA4 PB4 NN   
+T证 三 中 234567 21028765   
+FEMP PA13 PB13 5 VREF 38 R9 8 GND HD3V3   
+XXX 2D PC13-TAMPER-RTC PC15-OSC32_OUT PDO-OSCIN BOOTO OSCOUT 44BOOT0 GNDROK 2.2247F C15 R10 R U3TXD GND TEMM 7R.1 RESET GND GND 一 NRST GND
+
+如图3所示，左边为电路板实物图，电源模块及蓝牙模块设计在其背面，右边为电动调焦器实物图，外形尺寸为 $5 2 \mathrm { m m } { * } 5 2 \mathrm { m m } { * } 4 4 \mathrm { m m } .$
+
+![](images/e2f0d52cbb00bcbf7de153b9b2af5f8003fce9f0690320fd3e9b52da531b9b77.jpg)  
+图2电路原理图  
+Fig.2 Circuit schematic   
+图3电路板实物  
+Fig.3 Physical circuit board
+
+# 4 软件设计
+
+软件设计是该天文电动调焦器设计的关键，包括调焦器程序、计算机驱动和手机APP三部分。
+
+# 4.1通信协议
+
+电脑通信采用USB接口，通过CH340C芯片转换为串口通信，波特率9600。米德串口命令协议是一种常用的标准通信协议，该协议基于同步通信，命令返回格式不规则，是否返回数据靠上位机判断处理。为了更好地支持异步通信，本设计采用类米德的自定义串口命令协议，命令以：号开头#号结尾，返回结果以：号开头#号结尾，所有命令都有返回,如表1为部分命令协议，更多命令可在Github网站项目源代码处查询。
+
+表1自定义串口命令协议  
+Tab.1 Custom Serial Command Protocol   
+
+<html><body><table><tr><td>Command</td><td>Return</td><td>Description</td></tr><tr><td>:F+#</td><td>:+#</td><td>Slew outward</td></tr><tr><td>:F-#</td><td>:-#</td><td>Slew inward</td></tr><tr><td>:FIn#</td><td>:I#</td><td>Initialize，On chip storage while n=O，Computer storage while n=1</td></tr><tr><td>:Fi#</td><td>:in#</td><td>Query Initialization state</td></tr><tr><td>:FB#</td><td>:Bn#</td><td>Query move state,Stopped while n=0</td></tr><tr><td>:FDsn#</td><td>:D#</td><td>Define position</td></tr><tr><td>: FPsnn#</td><td>:P#</td><td>Move to</td></tr><tr><td>:Fp#</td><td>:psn#</td><td>Query position</td></tr><tr><td>:FQ#</td><td>：Q#</td><td>Stop</td></tr><tr><td>:Ft#</td><td>: tsn. n#</td><td>Query temperature</td></tr></table></body></html>
+
+# 4.2调焦器程序
+
+调焦器程序指STM32单片机内部程序，采用C语言编写。步进电机驱动一般可采用PWM驱动和I0读写驱动两种方式[7][8]，本设计采用定时器PWM驱动方式，在定时器中断程序实现启停及加减速等动作，合理设置加减速曲线最大程度避免丢步现象。外部中断有两种：一是串口通信中断（电脑串口和蓝牙串口），每收到一条完整命令立即插入命令队列，命令计数加1；二是掉电中断，每次掉电中断立即保存当前位置和配置信息。软件流程如图4所示，程序开始进行初始化后循环执行以下流程：一、查询命令队列，如队列为空循环查询，不为空则取出最前面的一条命令进行解析，命令计数减1；二、根据所解析命令执行相应的动作，由于采用定时器PWM驱动步进电机，主流程在电机转动相关命令执行期间已经返回，可继续查询和执行下一条命令。为了避免通信中断导致连续移动撞击风险，连续移动命令（:F+#和:F-#)执行期间设置一个1秒钟的定时器用于自动停止转动，上位机需定时结束前再次发送相同命令以保持继续移动。
+
+![](images/f4a044084e7ccdd24a06d219fde4a9147bd213d53acab58eaa618ee9317bfc6d.jpg)  
+图4调焦器软件流程图  
+Fig.4 Focuser Software flowchart
+
+# 4.3计算机驱动
+
+不同于自行研发特殊设备如上海天文台新一代地球同步轨道动态监视系统FoCusGEO[9]，天文电动调焦器可采用标准ASCOM驱动实现集成控制。本设计采用C#语言编写，ASCOM平台选择ASCOM Platform 6.3，Focuser类的常用属性和方法如表2所示，其中Absolute属性为调焦器位置编码类型，True为绝对位置编码，False为相对位置编码，本设计采用绝对位置编码方式。
+
+表2Focuser类常用属性和方法  
+Tab.2 Common Properties and methods of Focuser Class   
+
+<html><body><table><tr><td>Name</td><td>Description</td><td>Name</td><td>Description</td></tr><tr><td>Connected</td><td>Connection property</td><td>Position</td><td>Position property</td></tr><tr><td>Absolute</td><td>Encoder property</td><td>Move ()</td><td>Move method</td></tr><tr><td>IsMoving</td><td>Moving state property</td><td>Halt ()</td><td>Stop method</td></tr><tr><td>Temperature</td><td>Temperature property</td><td>MaxStep</td><td>Maximum step property</td></tr></table></body></html>
+
+软件流程（严格意义上说是结合控制软件的流程，ASCOM驱动仅提供方法和属性）如图5所示，分为连接设备、初始化、调焦操作和断开连接4个阶段。连接设备设置属性Connected=True，断开设备设置属性Connected=False。初始化主要用于电脑端存储位置的情况，如默认调焦器端存储位置则不用初始化。调焦操作细节如下：1、查询状态，查询IsMoving发送:FB#，查询Position发送:Fp#，查询Temperature发送:Ft#，并将接收到的返回值赋值给相应属性；2、执行Move（方法发送目标位置给Position；3、执行Halt（方法发送停止转动命令；4、连续移动命令： $\operatorname { F } { + } \#$ 和：F-#并不是ASCOMFocuser类的标准方法，是代替手控盒按钮进行连续移动操作，主要用于初始化校准和手动控制。连续移动操作时需要开启小于1秒钟的定时器定时发送该命令，超时不发则自动停止转动，是保护电机的一种措施。
+
+![](images/d691b5a5b35597e6b8aba68f7e18df3a4f0a9a8faaf44367bc70d3ef59e984de.jpg)  
+图5计算机驱动流程图  
+Fig.5 Computer Software flowchart   
+图6Focuser设置界面  
+Fig.6 Interface of dome control
+
+计算机驱动需要配合支持ASCOM的控制软件才能工作，图6为该驱动设置对话框，选择对应的串口Device页面自动显示设备详情，选择Initialize页面可校准调焦器位置，具体操作非常简单方便，按住SlewIn或者Slew Out按钮不放转动调整到零位松开，然后点击DefineZero即完成校准。PC2Focuser为位置存储方式选项，勾选后位置信息存储在电脑端，未勾选则调焦器端存储。
+
+DeviceConnection Tester-64bit OS-Operating in 64bitmode   
+Select Device Type Focuser Choose PropertiesConnect to retrieve properties ASCOM.SSFocuser.Focuser Connect Get Profile] SSFocuserSetup X Create Creating device connected ynegtintodevice Focuser Settings Name Short driver name-please cus ComPort COM4 PC2Focuser X Description SS_Focuser DriverInfo Information about the driver MaxStep 50000 Trace on Driverversion 6.2 ASCOM Interfaceversion 2 Step Size 10.00 Joinus IsMoving False Position 3884 ASCOMFocuser Chooser X Device Initialize Trace Position Velocity Select the type of focuser you have,then be sure to dlivkrforrourtieserbuttontoconfigurethe 3884 7 SS Focuser Properties. Slew In Slew Out Define Zero Click the logo to learn OK more about ASCOM,aset ietndrdsrof Cancel OK Cancel ASCOM
+
+# 4.4手机蓝牙APP
+
+本设计摒弃传统手控盒，通过手机蓝牙实现手动控制。蓝牙通信采用汇承HC-08蓝牙串口透传模块，模块生产商提供完整的手机蓝牙透传源代码，稍加修改即可作为该天文电动调焦器控制APP，本文不再详述。
+
+# 5系统测试
+
+该天文电动调焦器在云南天文台10英寸米德望远镜及丽江高美古多台望远镜上做了一系列测试，经过不断完善目前已经比较稳定，在低速情况下垂直负重8千克正常工作不丢步，对大多数小型望远镜来说已经满足要求。如图7为在MaxImDL软件使用其自动调焦功能的截
+
+图（使用FocusMax等专用调焦软件自动调焦曲线更加平滑），从曲线图可以非常清晰地看出星像半宽和焦距的关系，星像半宽最小处即为焦点位置。
+
+电动调焦器的调焦分辨率可以作如下计算：
+
+$$
+R = \frac { l } { w ^ { \ast } r ^ { \ast } s }
+$$
+
+其中，w为调焦机构的减速比， $r$ 为步进电机减速比， $S$ 为步进电机每圈步数（不计电机减速，即360度/步距角），1为对应的调焦座移动距离。设计采用减速比120、步距角7.5度的步进电机（每圈48步），调焦机构减速比为1:1，由于电动调焦器输出端走一圈（5760步）调焦座移动 $2 0 \mathrm { m m }$ ，调焦分辨率为3.472um/步，该精度已经完全能够满足观测要求。为改善转动平稳性本设计采用步进电机细分驱动模式，但不作为分辨率计算依据。
+
+由于采用高减速比步进电机且不带编码器反馈系统，实际使用时传动机构齿轮间隙不能忽略，必须正确测量回差（齿轮间隙对应步数）进行补偿才能保证调焦精度。如图7MaxIm DL软件自动调焦过程回差设置为20步，选择向外移动时补偿。
+
+![](images/b2f4f82ea671dc53e45a3da90e9d7e42d4d3c7ef2ac104498cded7c53d36a9b0.jpg)  
+图7自动调焦界面  
+Fig.7 Interface of Auto focusing
+
+# 4结语
+
+本文以极简方式完成了云南天文台丽江天文观测站10英寸米德望远镜天文电动调焦器设计，以手机APP代替手控盒极大优化了外形尺寸，发布了开源ASCOM驱动程序SS Focuser.实测结果表明具有很好的稳定性，完全满足设计要求，为天文电动调焦器设计提供了一些可借鉴的经验和方法。
+
+# 致谢
+
+感谢云南天虎光学科技有限公司、临海市括苍光学仪器有限公司和昆明晶华光学有限公司对本设计提出的宝贵意见和建议！
+
+# 参考文献：
+
+[1］王川中，苏丽颖，韩军，崔辰州，王显海，樊东卫．远程天文台电源集成控制与监控模块的设计与实现[．天文研究与技术,2020,17(1):104-110.
+
+Wang Chuanzhong, Su Liying, Han Jun, Cui Chenzhou, Wang Xianhai, Fan Dongwei. Design and Realization of Remote Observatory Power Integrated Control and Monitoring Module. Astronomical Research & Technology, 2020, 17(1): 104-110.
+
+[2]李晓燕，朱庆生．一种基于图像清晰度评价的天文望远镜自动调焦系统U]．天文研究与技术,2008,5(3):294-298.
+
+Li Xiaoyan, Zhu Qingsheng. An Automatic Focusing System of Astronomical Telescope Based on Image Definition Evaluation[J]. Astronomical Research & Technology—Publications of National Astronomical Observatories of China, 2008, 5(3): 294-298.
+
+[3]苑嘉辉，蔡洪波，魏建彦．基于能量集中度的广角望远镜自动调焦快速清晰度评价算法．天文研究与技术,2017,14(4):472-480.
+
+Yuan Jiahui, Cai Hongbo,Wei Jianyan. Fast Image Definition Evaluation Based on Energy Concentration for Auto-Focusing on Wide-Angle Telescope[J]. Astronomical Research & Technology—Publications of National Astronomical Observatories of China, 2017, 14(4): 472-480.
+
+[4]苑嘉辉，蔡洪波，刘奇，等．广角望远镜实时自动调焦的清晰度评价方法[J].光学精密工程,2017,25(5):1368-1377.
+
+Yuan Jiahui, Cai Hongbo,Liu Qi, et al. Definition evaluation method for real-timeauto-focusing of wide-angle telescope[J]. Optics and Precision Engineering,2017, 25(5):1368-1377.
+
+[5］翁海勇，俞加明，叶大鹏．基于LM358的单片机掉电保护系统设计与实现]．电子世界，2013，2（4）,38.
+
+Weng Haiyong,Yu Jiaming,Ye Dapeng.The design and implementation of single chip microcomputer power-off protection system based on lm358[J]. Electronics
+
+World,2013,2(4),38.
+
+[6]林继鹏,王君,凌振宝.温度传感器和一线总线协议[].传感器技术,2002(02):44-45.
+
+Lin Jipeng,Wang Jun,Ling Zhenbao. Temperature sensor and its 1-wire bus protocol[J]. Journal of Transducer Technology, 2002(O2):44-45.
+
+[7]熊远生，刘春元，蔡伟忠．基于STM32的步进电机控制器设计[]．制造业自动化,2019,41(5):39-41.
+
+XIONG Yuan-sheng,LIU Chun-yuan, CAI Wei-zhong. Design of stepper motor controller based on STM32[J].Manufacturing Automation,2019,41(5):39-41.
+
+[8]张海超,黄风光,曹建树,等．基于STM32的步进电机加减速优化算法]北京石油化工学院学报，2019，27(2):71-76.
+
+Zhang Haichao,Huang Fengguang,Cao Jianshu,et al.Optimization Algorithm of Stepper Motor Increase and Decrease Speed Based on STM32[J].Journal of Beijing Institute of Petrochemical Technology,2019,27(2):71-76.
+
+[9］王维，毛银盾，陈国平，张永帅，于涌，罗浩.FocusGEO软件系统的设计与实现[]．天文研究与技术,2018,15(2):225-231.
+
+Wang Wei, Mao Yindun, Chen Guoping, Zhang Yongshuai, Yu Yong, Luo Hao. Design and Implementation of Software System for FocusGEO.Astronomical Research & Technology, 2018,15(2): 225-231.
+
+# A design method of small astronomical electric focuser
+
+He Shousheng²,Ding Xu1²,Wang Chuanjun'²,Fan Yufeng1²,Yu Xiaoguang'²,Wang Deqing'²,Huang Yongping¹²,Lun Baoli1,² (1．Yunan Observatories，Chinese Academy of Sciences，Kunming 650216，China，Email: heshousheng@ynao.ac.cn;2.Key Laboratory forthe Structureand Evolution of Celestial Objects，Chinese Academyof Sciences，Kunming 65O216，China)
+
+Abstract: With the continuous development of astronomical technology, remote observation and autonomous observation have gradually become the mainstream trend of astronomical observation,and the automatic focusing technology has been paid more and more attention.The electric focuser is an indispensable accessory equipment of the astronomical telescope,and it is the key equipment for remote observation and autonomous observation to realize automatic focusing.In order to realize the automatic focusing of the 1O inch Meade telescope at Lijiang astronomical observatory of Yunnan Observatory,we developed a set of small telescope electric focuser, designed the relevant control circuit, developed the serial communication protocol,and wrote an open source ASCOM driver-SS focuser.This paper introduces the structure principle and realization method of the electric focusing device in detail. The experimental results show that it has good stability and fully meets the design requirements. It provides the experience and method for the design of the astronomical electric focuser.
+
+Key words:Electric focuser; serial communication protocol; ASCOM; SS Focuser;

@@ -1,0 +1,182 @@
+[
+    {
+        "type": "text",
+        "text": "Biophysical Letter ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Force-Induced Unfolding of Leucine-Rich Repeats of Glycoprotein Ibα Strengthens Ligand Interaction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Lining Ju,1,3,4,5,\\* Jizhong Lou,6 Yunfeng Chen, $^ { 2 , 3 }$ Zhenhai Li,7 and Cheng Zhu1,2,3,\\* 1CoulterDepartmtofomeicalgiooduffhlfcalirinndPetitiutefong Biosciencesoiaituteooantaia;Heatseachsituteadreserkinntreiy Sydney，Campedoothalesstralia;aboratoryofogsituteofisadec Beijing,China;andQuantum Beam Science Directorate,Japan Atomic EnergyAgency,Kizugawa,Kyoto,Japan ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACTLeucine-rich repeat (LRR)isaversatile motif widely present inadhesiveproteinsand signa-transducing receptors.TheconcavestructureformedbyagroupofLRRsis thoughttofacilitatebinding toglobularproteindomainswithincreased affinities.However,litleisknownabouteconformationaldynamicsofRRsinsuchastructure,e.g，whetherandhowforce inducesconformationalchangesinLRRstoregulate proteinbindingandsignaltransduction.Herewe investigatedtheplatelet glycoprotein Ibα(GPlbα),ademonstratedmechanoreceptorwith knowncrystal structures fortheN-terminaldomain (GPlbaN), asamodelforLRR-containing proteins usingacombined methodof steered moleculardynamics simulationsand single-moleculeforce spectroscopy withabiomembrane force probe.Wefoundthatforce-induced unfolding of GPlbaN starts with LRR2-4 and propagates tootherLRRs.Importantlyforce-dependentlifetimesof individual VWF-A1 bonds with GPlb&areprolonged afterLRRunfolding.Enhancementof protein-protein interactions by force-induced LRRunfoldingmaybeaphenomenonof interest in biology. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received for publication 12 February 2015 and in final form 24 August 2015. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Correspondence: arnold.ju $@$ sydney.edu.au or cheng.zhu $@$ bme.gatech.edu ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BindingofvonWillebrand factor（VWF)toplateletmembrane receptor glycoprotein Ibα(GPIbα) initiates hemostasis and thrombosis under high shear conditions,mostly seenin arteries and restricted vessels(1).VWF is a multimeric protein composed of identical $2 5 0 \\mathrm { - k D a }$ subunits. Each subunit has a single 24-kDa A1 domain that binds to the $4 5 \\mathrm { { k D a } }$ ， ${ \\sim } 2 8 0$ residues,N-terminal domain of GPIbα (GPIbαN).The crystal structures of the A1-GPIbαN complex(2,3) reveal that GPIbαN consists of eight leucine-rich repeats(LRRs,K19-L2O8） that form an elongated shape (cf. Fig. ${ \\mathrm { ~ 1 ~ } } A { \\mathrm { ~ } }$ ).The concave LRR framework grabs the A1 in a pincerlike grip with an N-terminal contact (involving the $\\beta$ -finger motif and LRR1） and a C-terminal contact (involving LRR5-8 and the $\\beta$ -switch loop).Intriguingly, the middle portion of the GPIbαN,from LRR2-4,makes no contacts to the A1 in the crystal structures;yet, these LRRs are required for ristocetin-dependent and shear dependent VWF binding (4). Because crystal structures were obtained in the absence of force,they provide little insight into any possible conformational change induced by shear. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Single-molecule force spectroscopic studies using atomic force microscopy,an optical trap,and a biomembrane force probe(BFP） suggested that at least two conformational states may exist upon formation of the receptor-ligand complex (5).A recent crystal structure of a gain-of-function mutantA1 complexed with GPIbαN revealedA1 interaction with LRR3-5 that further enhances the A1-GPIbαN affinity (6). These findings suggest that force may induce a conformational change that alters the central A1-GPIbα LRR contact to enhance affinity. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Force induces LRR conformational change on A1-GPlbα bond in simulations ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To investigate whether the force applied on the A1-GPIbα complex can cause significant protein conformational change，we carried out 11 independent steered molecular dynamics(SMD） simulations and observed in four trajectories unfolding of GPIbaN before dissociation from A1. At the starting point $( t = 0 )$ ，GPIbαN contacts A1 via the $\\beta$ -switch and $\\beta$ -finger (Fig. ${ \\mathrm { ~ 1 ~ } } A { \\mathrm { } } ,$ At $t > 0$ ，the $\\textstyle \\ C \\alpha$ atom of GPIbαN C-terminal residue L267 was pulled to move horizontally at a constant speed to the right with the $\\textstyle \\ C \\alpha$ atom of the A1 N-terminal residue H1268 harmonically constrained.Upon loosening of the $\\beta$ -switch from the A1 central $\\beta$ -sheet at 9 ns (Fig. $\\textbf { 1 } \\boldsymbol { B } )$ ，the GPIbαN started to tilt about the $\\beta$ -finger-A1 hinge point, a counterclockwise rotation that continued throughout the remainder of the simulations.At $1 0 ~ \\mathrm { { n s } }$ ,the GPIbα $\\beta$ -switch dissociated from the A1 central $\\beta$ -sheet, but the $\\beta$ -finger remained bound to A1,although interacting with different A1 residues from those seen at O ns (Fig. $\\textbf { 1 } C )$ At 11 ns， several hydrophobic interactions near the GPIbαN $\\beta$ -finger were ruptured byfurther pulling (Fig. 1 $D$ ).Surprisingly，a few residues spanning the LRR3,T68-L89,uncoupled from each other and became loose.At $1 2 ~ \\mathrm { n s }$ ，theLRR3 was completely unfolded and extended by force (Fig. $\\textbf { 1 } E )$ .At $1 4 ~ \\mathrm { n s }$ ，the region below LRR3，e.g.，LRR4，started getting loose；however， the GPIbαN dissociated from A1 before complete unfolding of LRR4 was observed (Fig. $1 \\ F _ { \\ }$ . Additional simulations with different force loading rates and anchor points showed similar LRR unfolding behavior (Fig. S1 in the Supporting Material).Regardless of the anchor point, GPIbαN unfolding started at LRR2-3 in a fast pulling process, suggesting that rapid loading facilitates LRR extension (Fig. S1，B and $C$ ） ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/cff0e0e422a028121dd70064139e3f3d13f827899b6d8d415726882d85b2be3a.jpg",
+        "img_caption": [
+            "FIGURE 1 SMD simulation of GPlbαN dissociation from the A1 domain. Sequential snapshots of representative SMD-simulated structures revealing that force induces GPlbαN unfolding in the middle region of GPlbαN (LRR2-4). (Blue, A1; red, GPIbαN.) The equilibrated structure(A) was used as the starting structure for SMD simulations,which generated the structures in (B)-(F) at the indicated times. To see this figure in color, go online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental characterization of force-induced conformational change in individual A1-GPlbα complexes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next used the previously described BFP force spectroscopy（7,13） to observe conformational change in single A1-GPIbα complexes and its impact on force-dependent bond lifetimes (Fig. 2，A and $B _ { . }$ ).In the BFPforce traces,a sudden force drop occurring at $5 { \\mathrm { - } } 2 0 ~ \\mathrm { p N }$ ，caused byan abrupt length increase between the probe and the target,was consistently( ${ \\sim } 1 4 \\%$ occurrence）observed in the retraction phase when a ramp force $( 1 0 0 0 ~ \\mathrm { p N / s ) }$ was applied to the extracellular portion of GPIba,glycocalicin (GC), via A1 (Fig. 2, $C$ and $E$ ).Pulling GC via a monoclonal antibody(mAb)HIP1 yielded a similar unfolding occurrence as pulling via A1 (Fig. $2 E _ { \\mathrm { { \\ell } } }$ .Incontrast,unfolding event was eliminated when HIP1 was replaced by another mAb SZ2 on the probe or when GC was replaced by an anti-A1 mAb 5D2 on the target (Fig. 2, $D$ and $E$ ） This indicates that it was GC,not A1,that was being unfolded,and that unfolding occurred within the LRR region,because the binding epitope of SZ2 is mapped to the anionic region below all LRR domains (8) (Fig. $2 ~ G$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The force-extension analysis showed that the extension lengths range from the minimum of $1 8 ~ \\mathrm { n m }$ （ $l _ { \\mathrm { m i n } } =$ length of one LRR,assuming a contour length of $4 \\mathring \\mathrm { A }$ per residue) to the maximum of $5 6 \\ \\mathrm { n m }$ 0 $\\mathit { l } _ { \\mathrm { m a x } } =$ length of six LRRs) (Fig. 2, $F$ and $G$ ).Surprisingly， the A1-GC unfolding length histogram right-shifted when force loading rate was increased from 1000 to $3 0 0 0 \\ \\mathrm { p N / s }$ (Fig. $2 \\ F _ { , }$ ).The unfolding length difference between the $l _ { \\mathrm { m a x } } ( 3 0 0 0 ~ \\mathrm { p N / s ) }$ （204号 $( = 6 9 \\ \\mathrm { n m }$ ,i.e.,LRR2-8) and $l _ { \\mathrm { m a x } } ( 1 0 0 0 ~ \\mathrm { p N / s ) }$ $( = 5 6 ~ \\mathrm { n m }$ i.e., LRR3-8) is ${ \\sim } 1 3 \\ \\mathrm { n m }$ (Fig. $2 \\ G$ ),matching the length difference $( \\sim 1 1 \\ \\mathrm { n m } )$ between the unfolding starting points (LRR2 to LRR3） by different SMD ramping processes (Fig. S1). The combined SMD simulations (Figs.1 and S1）and the BFP results indicated that force can unfold multiple repeats of the LRR region starting from the noncontact LRR2-4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate the functional consequence of the forceinduced GPIbα unfolding，we measured lifetimes of A1 bonds with GC on a bead (Fig. $3 A$ ）or GPIbα on a platelet (Fig. $3 \\ B$ ).Consistent with our previous reports (7,9,13), force counterintuitively prolongs bond lifetime (catch bond) from 10 to $2 5 ~ \\mathrm { p N }$ .Further increase in force reduces bond lifetime (slip bond). To delineate the role of forceinduced unfolding, we segregated the lifetimes into two subgroups based on whether an unfolding event was observed in the force-ramp phase (Fig. $2 C )$ . In ${ \\tt > } 2 0 { \\tt p N }$ forces, however, bond lifetimes with unfolding events became longer than those without unfolding events (Fig. 3,A and $B$ ). This indicates that GPIbα unfolding can immediately prolong the lifetime of itsbond with VWF-A1. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most studies on the effect of force on the structure of the VWF-GPIbα axis focus on shear-induced conformational changes in the VWF. As a long molecule( $\\cdot { > } 4 0 ~ \\mathrm { n m }$ above the membrane）(1O)，however,GPIbα mayalso appear susceptible to the conformational change upon force application.A recent study identified a mechanosensitive domain in the juxtamembrane region below the GC portion that can be unfolded by pulling force (11). The authors suggest that no other GPIbα region can be unfolded,as mutations in this mechanosensitive domain abolished the force-induced unfolding they observed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5ec5d36d70c36cf3d7b87178f7804a0db334d4a7321079dcad31210bfb8e93b.jpg",
+        "img_caption": [
+            "FIGURE 2 GPlbαN unfolding observed by BFP force-clamp assay. (A) BFP photomicrograph. A micropipette-aspirated RBC witha bead (left,probe)attached to the apex formed a picoforce sensor.It was alignedwith anotherbead (right,target) aspirated by an apposing micropipette. (B)BFP functionalization with indicated molecules.( $\\pmb { c }$ and D)Force versus time traces from representative force-clamp cycles for A1-GC bond lifetime measurement (C) and antibody-protein stretch assay $( D )$ (Inset) The putative unfolding eventis circled and zoomed-in to show the details. (E) Occurrence frequencies of unfoldingversus-no-unfolding events (numbers are indicated in yellow) from all binding events mediated by the indicated interactions. (F) Normalized histograms (bar) and their Gaussian fits of unfolding length. $( G )$ Glycocalicin schematic(left) and GPlbαN domain organization (right).Starting and ending residues for each domain as well as the binding epitopes of two anti-GPlbα mAbs are all indicated.To see this figure in color, go online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Here we show GPIbαN conformational changes that enhance binding to VWF-A1,indicating the functional relevance of the LRR unfolding. Our results suggest that force extends the GPIbαN concave structure by unfolding a fewLRRs,allowing the globular A1 domain to fit better into the enlarged binding pocket and reach a longer-lived state (Fig. $3 ~ C )$ . This may explain platelets agglutination via VWF-GPIbα bonds without activation or binding of integrin GPIb/IIa at sites of atherothrombosis where severe vessel narrowing produces extremely high shears $( > 1 0 , 0 0 0 ~ \\mathrm { { s } } ^ { - 1 } )$ (12).Whether GPIbα mechanosensitivity endows this molecule with the capacity of mechanosensing requires future studies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SUPPORTING MATERIAL ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Supporting Materials and Methods and one figure are available at http:// www.biophysj.org/biophysj/supplemental/S0006-3495(15)00946-7. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AUTHORCONTRIBUTIONS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "L.J.and C.Z.designed experiments;L.J.,J.L.,Y.C.,and Z.L. performed experiments and analyzed the data; and all authors contributed to writing. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We thank Renhao Li and the Emory blood bank for providing outdated platelets,and Jing-feiDongand Vince F.Fiore for purifying glycocalicin. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cb31add126fe6254de563aa61bbc190d4257ab15fc40ce61662901e0c23d4ca.jpg",
+        "img_caption": [
+            "FIGURE 3 Unfolding of GPlbαN prolongs the bond lifetime. (A and B) Plots of lifetime (mean $\\pm$ SE of $> 2 0$ measurements per point) versus force of VwF-A1bonds with GC (A) or GPlbα on platelets (B). (C) Schematic of the A1-GPlbαN complexin normal state (left) and force,induceda longer-lived state (right).(Horizontal arrows)Tensile forces.To see this figure in color, go online. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by National Institutes of Health grants No.   \nHL091020 and No.HLR01HL093723 (to C.Z.). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Gardiner, E. E.,and R. K. Andrews. 2O14. Structure and function of platelet receptors initiating blood clotting. Adv. Exp. Med. Biol. 844:263-275.   \n2. Huizinga, E.G., S. Tsuji,.., P. Gros. 2002. Structures of glycoprotein Ibαand its complex with von Willebrand factor A1 domain. Science. 297:1176-1179.   \n3.Dumas, J.J.,R. Kumar, ...,L.Mosyak.2OO4. Crystal structure of the wild-type von Willebrand factor A1-glycoprotein Ibα complex reveals conformation differences with a complex bearing von Willebrand disease mutations. J. Biol. Chem. 279:23327-23334.   \n4. Shen, Y., S.L. Cranmer,...,R.K. Andrews. 2Oo6.Leucine-rich repeats 2-4 Leu0-Glu128) of platelet glycoprotein Ibα regulate shear-dependent cell adhesion to von Willebrand factor. J. Biol. Chem. 281: 26419-26423.   \n5. Liu, B., W. Chen, and C. Zhu. 2015. Molecular force spectroscopy on cells.Annu. Rev. Phys. Chem. 66:427-451.   \n6.Blenner, M. A., X. Dong,and T. A. Springer. 2014. Towards the structural basis of regulation of von Willebrand factor binding to glycopro teinIb. J.Biol. Chem. 289:5565-5579.   \n7. Ju,L., J.-F. Dong,..., C. Zhu. 2013. The N-terminal flanking region of the A1 domain regulates the force-dependent binding of von Willebrand factor to platelet glycoprotein Ibα. J. Biol. Chem. 288:32289-32301.   \n8.Shen，Y.,G.M.Romo，...，,R.K.Andrews.20oo.Requirement of leucine-rich repeats of glycoprotein (GP) Ibα for shear-dependent and static binding of von Willebrand factor to the platelet membrane GP Ib-IX-V complex. Blood. 95:903-910.   \n9. Yago, T., J. Lou,.., C. Zhu. 2008. Platelet glycoprotein Ibα forms catch bonds with human WT vWF but not with type 2B von Willebrand disease vWF.J. Clin. Invest. 118:3195-3207.   \n10. Fox, J. E., L. P. Aggerbeck, and M. C. Berndt. 1988. Structure of the glycoprotein Ib·IX complex from platelet membranes. J. Biol. Chem. 263:4882-4890.   \n11. Zhang,W.,W. Deng，...,R.Li. 2015. Identification of a juxtamembrane mechanosensitive domain in the platelet mechanosensor glycoprotein Ib-IX complex. Blood. 125:562-569.   \n12. Ruggeri, Z. M., J. N. Orje,..,A. J. Reininger. 2006. Activation-independent platelet adhesion and aggregation under elevated shear stress. Blood. 108:1903-1910.   \n13.Ju, L.,Y. Chen，...,M.A. Cruz. 2015. Von Willebrand factor-A1 domain binds platelet glycoprotein Ibα in multiple states with distinctive force-dependent dissociation kinetics. Thromb. Res. 136:606-612. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "type": "text",
+        "text": "Segmented TOF at 7 T MRI: Technique and clinical applications ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zihao Zhang ab, Xiaofeng Deng ‘, Dehe Wengd, Jing And, Zhentao Zuoa, Bo Wanga, Ning Wei a,b, Jizong Zhao c, Rong Xue a,e,\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tateKe   \nbGraduatehool,Uvesityofisecdemyofences,eiingo   \n‘Departmentof Neurosurgery,Beijing Tiantan Hospital,Capital Medical University,Beijing 10oo50,Chind   \ndSiemensShenzenagneticesonanceLtdenen7in   \neBeijing Institute for Brain Disorders,Beijing 10oo53,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE INFO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history: Received 17 March 2015 Revised 8 July 2015 Accepted 19 July 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:   \nSegmented TOF   \n7T   \nVenous suppression   \nSAR   \nMR angiography ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Purpose:Time-of-flight(TOF)MR angiography has anadvantage ofcontrast and resolution in ultra-high field（7T）MRI systems.However,increased specific absorption rate(SAR）prohibits the application of spatial saturation band,leading to venous contamination in maximum intensity projection (MIP) images. Methods: A segmented k-space filing scheme with sparse venous saturation pulses Was developed for 7 T TOF-MRA.The efectivenessof the segmented TOF sequence was verifed by Bloch equation simulation and experiments on 3 T.The protocol on 7Twas optimized and applied for healthy volunteers and patients with vascular diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results:Segmented TOF achieved equivalent contrast and venous suppression effect as conventional methods,while SAR values had aremarkable reductionand obeyed the limit of a7T MRI system.The decreased number of saturation pulses allowed shorter acquisition time than existing solutions.The comparison of segmented TOF and conventional TOF revealed flow direction in vascular diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: Segmented TOF is proved to bea time-efficient way to achieve high-resolution angiograms without venous contamination at ultra-high field.The sequence holds strong promise for non-contrast clinical diagnosis on cerebrovascular diseases. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathfrak { C }$ 2015 Elsevier Inc.All rights reserved. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Currently,time-of-flight (TOF) is one of the most commonly used non-contrast MR angiography in clinic,especially for intracranial angiograms [1]. TOF-MRA uses a slab-selective 3-dimentional gradient echo sequence with TR much shorter than the longitudinal relaxation time $\\left( \\mathrm { T } _ { 1 } \\right)$ of static tissue. Continuous radio frequency(RF) pulses with small flip angle(FA）are applied to suppress MR signals of stationary tissues or background,while inflowing blood with fully relaxed spins shows unsaturated high MR signal,resulting in a positive contrast of vessel to background.This technique has been proven to greatly benefit from the increased strength of static magnetic field $\\mathtt { B } _ { 0 }$ [2,3], because of longer $\\mathrm { T } _ { 1 }$ and higher signal noise ratio（SNR） in high field.The increase of $\\mathrm { T } _ { 1 }$ ,especially ${ { \\mathrm { T } } _ { 1 } }$ of blood,enhances the vessel-to-background contrast； together with the improvement of SNR higher spatial resolution for angiographispossible.For this reason,studyof ultra-high field MRA is an active area of work [4-6],for more detailed visualization of intracranial vessels. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To remove venous contamination in subjects,clinical TOF protocols at $\\mathtt { B } _ { 0 } \\le 3$ T typically use power-intensive spatial saturation pulses to minimize venous signal [2,7,8]. The tracking venous saturation band is applied to the distal end of an imaging slab,so that only up-flowing arterial blood has a high-intensity signal in final images.However,since the specific absorption rate(SAR) increases with $\\mathtt { B } _ { 0 }$ ,TOF-MRAat7T cannotuse normal large-FA saturation band in the protocolas in the lower field MR system. Consequently,TOF angiograms at $7 \\mathrm { T }$ were often obtained without venous saturation [3,9],or with compromised thickness of saturation band [1O]. Some studies used the variable-rate selective excitation(VERSE）pulse instead of sinc pulses for venous saturation;meanwhile,small-FA pulse Was used for saturation to reduce SAR in TOF-MRA at 7T [11,12].A previous study used fractional amounts of RF pulses to reduce the SAR of magnetization transfer pulses[13].But similar methods were not reported in spatial saturation band.In our study, weproposed a way of reducing SAR for TOF-MRA sequences by reducing the number of RF pulses of a saturation band,which is called segmented TOF with sparse saturation pulses.SAR can be significantly reduced by the new method;even faster acquisition is possible by shortening the TR of the sequence but still keeping the SAR value within the safe range.Artery pulsation artifacts can be further reduced by the segmentation technique since the k-space is not filled periodically.The segmented TOF on 7T MRI was further applied for clinical applications on cerebrovascular diseases,enriching diagnostic information with high-resolution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This paper firstly verifies the venous saturation effect of segmented TOF both by simulation of Bloch Equation and experiments on 3 T,then followed by examinations on $7 \\mathrm { T }$ ：SARvaluesare compared between segmented TOF and conventional methods as well.Finally,some clinical images of segmented TOF on $7 \\mathrm { T }$ are presented and evaluated with the help of two neurologists from Beijing Tiantan Hospital. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Material and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimentswere performed onawhole body 3T systemand a whole body 7T system. Both scanners were manufactured by Siemens Medical Solutions (Erlangen,Germany).The $3 \\mathrm { T }$ Tim Trio scanner was equipped with a volume coil for transmitting and a 12-channel phased-array head coil for receiving.In the 7T Magnetom scanner,a homemade 8-channel phased-array head coil was used for both transmitting and receiving [14].Healthy volunteers aged 2O-28 years were recruited from college students. 3 patients with cerebrovascular diseases were provided by Beijing Tiantan Hospital.Before the experiments,all the healthy volunteers and patients had signed a consent form approved by the local institutional review board. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Sequence ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In conventional TOF at $7 \\mathrm { T }$ ，the SAR contribution of venous saturation pulses to the sequence can be up to 5 times of the SAR contributed by excitation pulses.The extremely high SAR is attributed to the short TR (e.g., $2 0 ~ \\mathrm { m } s$ ),the high FA(e.g., $9 0 ^ { \\circ }$ and the multiple side-lobes(e.g.，6 lobes）of sinc pulse for venous saturation.The multiple side-lobes are necessary for assuring the rectangular profile of saturation band,so that the imaging slab is not mis-excited during the venous saturation phase.The FA of $9 0 ^ { \\circ }$ is used to tip the magnetization fully to the transverse plane,ensuring the saturation effect of venous blood.However,the time interval of saturation pulses can be prolonged,considering the limited flow speed in intracranial veins and the longer $\\mathrm { T } _ { 1 }$ of blood at $\\mathrm { B } _ { 0 } = 7 \\mathrm { T }$ The typical velocity of Superior Sagittal Sinus(SSS) is $9 . 8 ~ \\mathrm { c m } / s$ [15]. The thickness of a saturation band is often set to $4 0 ~ \\mathrm { m m }$ A spin of venous blood flowing through the saturation band will be tipped 20 timesby $9 0 ^ { \\circ }$ pulses,given the TR of $2 0 ~ \\mathrm { { m s } }$ For this reason,we think the venous saturation pulses are redundant and might be possible to be sparser,so that the duty cycle of venous saturation pulses can be reduced resulting in less energy deposition,i.e.small SAR value. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The sequence is implemented by one venous saturation pulse followed by several excitation pulses,so that the k-space is segmented filled,that is why we name it segmented TOF.The $\\mathrm { k _ { y } - k _ { z } }$ plane in $\\mathrm { \\bf k }$ -space is divided into several segments.The newly acquired $\\mathbf { k }$ -space line will be filled into the segments successively. Fig.1a illustrates the sequence of sparse venous saturation pulses in segmented TOF. Compared with conventional TOF which applies saturation pulses every time before imaging excitation pulse, segmented TOF saturates venous signal only before the first imaging excitation pulse in all segments.In this way,the SAR contributed by venous saturation pulses is reduced to 1/(number of segments) compared with ordinary TOF. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the segmentation concept,repetition time without a saturation pulse is $\\mathrm { T R } _ { 1 }$ in Fig.1a,but repetition time with one saturation pulse inserted is $\\mathrm { T R } _ { 2 }$ ，which is longer than $\\mathrm { T R } _ { 1 }$ As comparison,TR of conventional TOF is the same between excitations. In general,the averaged TR between every two excitation pulses in segmented TOF is shorter because of sparse saturation pulses, which makes it capable of finishing more excitationand acquisition within a certain time (see Fig.1a). Compared with previous studies employing VERSE or low-FA RF pulses for SAR reduction [11,12], segmented TOF results ina shorteracquisition time that is valuable in clinical MRA examination,which will be illustrated in later sections.The existence of $\\mathrm { T R } _ { 1 }$ and $\\mathrm { T R } _ { 2 }$ leads to a signal fluctuation when consecutive excitation pulses are applied,as shown in Fig.1b. Asaresult,allocating different fluctuated signals to different k-space will most likely affect vessel-to-background ratio（VBR）in final images.Hence3 schemesof $\\mathrm { \\Delta k }$ -space filling for segmented TOF are designed in Fig.1c.The numbers $( \\textcircled{1} - \\textcircled{5} )$ in Fig.1a-c represent the order of data collected in the $\\mathbf { k } _ { \\mathrm { y } } - \\mathbf { k } _ { \\mathrm { z } }$ plane after one venous saturation pulse. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2.Simulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To explore the effectiveness of sparse venous saturation pulse in segmented TOF,blood signal in veins was simulated with Bloch equation when saturation pulses were applied.The number of segments was chosen as 3 and 5,which reduced the SAR of saturation pulses to 1/3 and 1/5 of conventional TOF.Meanwhile,a simulation of conventional venous saturation pulse with reduced FA was conducted for comparison. Since SAR is proportional to the square of FAof RF pulses [16] when duration of pulse is the same,the FAs of conventional venous saturation pulses were reset to $5 2 ^ { \\circ }$ and $4 0 ^ { \\circ }$ ,corresponding to the same SAR level in segments of 3 and 5.The total simulation time was $8 1 6 ~ \\mathrm { { m s } }$ ,which is approximately twice the time for venous blood flowing from the top to the bottom of a saturation band(saturation band thickness $\\mathrm { 5 } = 4 0 ~ \\mathrm { m m }$ ,venous blood velocity $= 9 . 8 ~ \\mathrm { c m } / s$ [15]).Other parameters in the simulation were: $\\mathrm { T } _ { 1 } = 2 5 8 7 ~ \\mathrm { m s }$ [17], $\\mathrm { T } _ { 2 } ^ { * } = 1 3 ~ \\mathrm { m s }$ [18],FA of excitation $= { 1 8 } ^ { \\circ }$ = averaged $\\mathrm { T R } = 2 0 ~ \\mathrm { m s }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3.Scanning and protocol optimization ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Table 1,we listed all the experiments conducted in the study. Due to the SAR limitation,conventional TOF with full saturation pulses cannot be applied in vivo on a $7 \\mathrm { T }$ MR scanner. Accordingly, Exp.1 was performed on a3 TMR scanner to compare the saturation effect of full saturation pulses (conventional TOF)with that of sparse saturation pulses (segmented TOF).4 young healthy volunteers were recruited for the experiment.A single slab perpendicular to SSS was acquired for a good demonstration of venous flow.The images with normal venous saturation were acquired bya clinical TOF sequence. The number of segments (Seg) in segmented TOF ranged from 3 to 9, while FAs of saturation pulses were kept constant as $9 0 ^ { \\circ }$ .The remaining parameters in conventional TOF and segmented TOF were the same:dimension $= 3 \\mathrm { D }$ ，excitation $\\mathrm { F A } = 1 8 ^ { \\circ }$ ，averaged $\\mathrm { T R } =$ $2 0 ~ \\mathrm { { m s } }$ ， $\\mathrm { F O V } = 2 0 0 ^ { * } 1 8 1 \\ \\mathrm { m m } ^ { 2 }$ ，base resolution $= 3 8 4$ ， $s \\mathrm { l a b } = 1$ slices $= 4 8$ ，slicethickness $= 0 . 7 \\ \\mathrm { m m }$ ，no parallel imaging technique was applied.Signal intensity of vein and background were extracted for calculation.The region of interest (ROI) of vein was put inSSS,and the ROl of background was located nearby.The ratio of venous and background signal (venous VBR,vVBR）was calculated and used as the indicator of venous saturation effect. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Three experiments were designed for the $7 \\mathrm { T }$ MR scanner to compare with simulation,optimize the ordering of segments and explore clinical applications,respectively. In Exp.2,images of segmented TOF with sparse saturation pulses and of conventional TOF with low-FA saturation pulses were acquired and compared.14 volunteers aged between 2O and 28 were recruited for statistical test. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/4da01536c9740877e38b5939f1679356094abf8d380afecfcaebba9c3c8c1997.jpg",
+        "img_caption": [
+            "Fig c:K-space filling orders to allocate signals in a and b. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The number of segments varied from 3 to 13;correspondingly the FAs in conventional TOF were $5 2 ^ { \\circ }$ $4 0 ^ { \\circ }$ $3 4 ^ { \\circ }$ and $3 0 ^ { \\circ }$ .Averaged $\\mathrm { T R } =$ $2 5 ~ \\mathrm { { m s } }$ ，imaging pulse $\\mathsf { F A } = 1 9 ^ { \\circ }$ ；other parameters are: $\\mathrm { F O V } =$ $2 2 0 ^ { * } 1 7 4 ~ \\mathrm { { m m } } ^ { 2 }$ ，base resolution $= 5 1 2$ ， $s \\mathrm { l a b } = 1$ ，slices $= 4 8$ ，slice thicknes $\\mathsf { s s } = 0 . 5 \\ \\mathrm { m m }$ ，GRAPPA acceleration factor $= 2$ in phase encoding direction.vVBRs of SSS and its surrounding tissues were calculated and compared to reflect saturation efficiency. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/03173e943fb5d29dbc6f038deea8ec9559a475ef15edd0f5827d49846e0f5f32.jpg",
+        "table_caption": [
+            "Table 1 An overview of the experiments in the study. "
+        ],
+        "table_footnote": [
+            "\\* Including 1 volunteer and 3 patients. "
+        ],
+        "table_body": "<html><body><table><tr><td>Exp.</td><td>Scanner Purpose</td><td></td><td>Key parameters</td><td>Sample size</td></tr><tr><td>1</td><td>3T</td><td>To test the effect of sparseNo saturation, full venous saturation, compared with full</td><td>saturation and sparse saturation with</td><td>4</td></tr><tr><td>2</td><td>7T</td><td>saturation. To demonstrate and verity the superiority to low-FA saturation in compliance with</td><td>Seg=3~9. No saturation, sparse saturation with Seg=3~13and low-FA saturation.</td><td>14</td></tr><tr><td>3</td><td>7T</td><td>simulation. To optimize the ordering of segments.</td><td>Sparse saturation with Seg= 5and various</td><td>4</td></tr><tr><td>4</td><td>7T</td><td>To explore clinical applications.</td><td>k-space reordering scheme. Sparse saturation with Seg=5.</td><td>4*</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Exp.3 was to find an optimum $\\mathrm { \\Delta k }$ -space filling scheme to maximize contrast between artery and background.As illustrated in Fig.1c,centric-up,ascending and up-centric k-space reordering schemes were used in the experiments [19].The number of segments was set to 3,as it hada larger variation between $\\mathrm { T R } _ { 1 }$ and $\\mathrm { T R } _ { 2 }$ ,and therefore the signal fluctuation was more obvious in Fig.1b. Other parameters were the same as Exp.2. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the results of the above experiments,an optimized protocol was employed for examinations in Exp.4.Patients with cerebrovascular diseases were recruited.The number of segments was set to 5 for segmented TOF,because under this condition, the SARvalue of the sequence isalways within the safety limit for patients with various weights and shapes.Although it was reported that longer TR and larger FA(e.g. $\\mathrm { T R } = 3 0 ~ \\mathrm { m } s$ and $\\mathrm { F A } = 2 5 ^ { \\circ }$ )had better visualization for small vessels with slow-flowing blood [3],we chose $\\mathrm { T R } = 2 0$ ms and $\\mathrm { F A } = 1 8 ^ { \\circ }$ in our study. Because patients with cerebrovascular diseases could barely lie down still for1O minutes in a $7 \\mathrm { T }$ MRI scanner, the total acquisition time needed to be limited to 10 minutes.For $\\mathrm { T R } = 3 0 ~ \\mathrm { m s }$ ,one could not achieve the 1O-minute target,which caused additional motion artifacts in clinical scans; therefore,better visualization of small vessels was almost not possible for cerebrovascular patients.Conventional TOF with same parameters as segmented TOF except venous saturation pulses was employed for comparison on the same patient.The saturation effect of TOF images were examined by two clinical neurologists with separateassessments. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2409b548ae0f875dbee25ad6a4435350edd84bb223998e2a54bdaedcbaeb9927.jpg",
+        "img_caption": [
+            "Fig.2.Simulation of longitudinal magnetization of venous blood flowing through a saturation band.The bottom figure is a zoomed presentation for the main figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.Simulation ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2 shows the simulation result of Bloch equation for saturated venous blood magnetization.The dotted lines represent segmented TOF with sparse venous saturation pulse of $9 0 ^ { \\circ }$ ,and the solid lines are conventional TOF with lower FAs for venous saturation pulse.The yellow line represents conventional TOF in which FA of venous saturation pulse is $5 2 ^ { \\circ }$ ，the SAR value of which is the same as segmented TOF with segments $= 3$ (yellow dotted line).The blue line represents saturation pulses with $\\mathrm { F A } = 4 0 ^ { \\circ }$ ,which has the same SAR value like segmented TOF with segments $= 5$ (blue dotted line). The red line shows conventional TOF with FA of saturation pulses $\\ c =$ $9 0 ^ { \\circ }$ ,which servesasa reference of full saturation with the highest SAR level.At the beginning of saturation, the longitudinal magnetization $\\left( \\mathbf { M } _ { z } \\right)$ falls to the ground level immediately after the first $9 0 ^ { \\circ }$ saturation pulse is applied in segmented TOF,while the signal curve of conventional TOF declines slowly because of lower FAs.In the following saturation pulses, $\\begin{array} { r } { \\mathsf { M } _ { z } \\mathsf { s } } \\end{array}$ of segmented TOF after saturation pulses keep lower than its corresponding lower-FA TOF most of the time,however the fluctuations of $\\begin{array} { r } { \\mathsf { M } _ { \\mathrm { Z } } \\mathsf { s } } \\end{array}$ in segmented TOF is more conspicuous than that in conventional TOF.For quantitative comparison,we calculated the averaged $\\begin{array} { r } { \\mathsf { M } _ { \\mathrm { Z } } \\mathsf { s } } \\end{array}$ in segmented TOF (sparse saturation）and conventional TOF(low-FA saturation) during the time between two saturation pulses in segmented TOF, which is listed in Table 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.Experiment 1 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To eliminate the mismatch of vessel position introduced by head motion between scans,all the TOF images are aligned to the conventional TOF without venous saturation,using FLIRT [2O] in FSL [21].From the multi-slice images,the slice that has clear morphology of SSS is chosen to demonstrate the effect of venous saturation.Fig.3 shows a typical slice position on one subject and zoomed views of SSS.Intuitively,segmented TOF with a low number of segments has a better performance on venous saturation,approximate to the conventional TOF with $9 0 ^ { \\circ }$ venous saturation. For quantitative comparison,ROIs of SSS and itsadjacent brain tissue are marked in Fig.3c.vVBR and SAR of different protocolsare listed in Table3.With the number of segments increases,the signal of SSS gradually increases,but isalways far below the background brain signal. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1ba82d3175666b95479e723339d92c3b374a9347399cfeef9f16e7f306f6dfd.jpg",
+        "table_caption": [
+            "Table 2 Time-averaged $\\mathbf { M } _ { \\mathrm { z } }$ of venous blood in segmented TOF(sparse saturation）and conventional TOF(low-FA saturation）with the SAR level of(a） segments $= 3$ (b) segments $= 5$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time (ms)</td><td>Sparse saturation</td><td>Low-FA saturation</td><td>Full saturation</td></tr><tr><td>(a)</td><td></td><td></td><td></td></tr><tr><td>2.6~ 62.6</td><td>0.0115</td><td>0.4129</td><td>0.0048</td></tr><tr><td>722.6~ 782.6</td><td>0.0115</td><td>0.0158</td><td>0.0037</td></tr><tr><td>(b)</td><td></td><td></td><td></td></tr><tr><td>2.6~ 102.6</td><td>0.0191</td><td>0.4819</td><td>0.0054</td></tr><tr><td>702.6~802.6</td><td>0.0191</td><td>0.0278</td><td>0.0037</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f92ad90f49b47da911a8cf0180b5e23c4607b4e34f45c5d4cfa90e457d6f812e.jpg",
+        "img_caption": [
+            "Fig.3.Evaluation of venous saturation effect of segmented TOF at3 T.a: The yellow block stands for the imaging slab,and the red block stands for saturation band.The yellow line indicates the slice position of Fig.3b.b:The yellow box indicates the area and location shown in Fig.3c.c: The zoomed view of SSS in different protocols.The red and yellow circles are the ROIs to calculate vVBR in Table 3.Venous signal enhanced with the increment of number of segments (pointed by the red arrows). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3.Experiment 2 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With the same principle in drawing ROIs and calculating vVBRs, the effect of sparse saturation and low-FA saturation are compared in 7 T TOF images.Fig.4 shows vVBR averaged from 14 participants. The trend of vVBR from $\\mathsf { S e g } = 3$ to $\\mathsf { S e g } = 1 3$ is in accordance with the experiment at $3 \\mathrm { T }$ 、With the same SAR value,venous signal is always suppressed better by segmented TOF with sparse saturation pulses than by conventional TOF with low-FA saturation pulses.The vVBR of segmented TOF is $4 \\% \\sim 1 9 \\%$ less than the vVBR of conventional TOF.In each group,vVBR of segmented TOF with sparse saturation is significantly lower than that of conventional TOF with low-FA saturation $( \\mathtt { p } < 0 . 0 5 ) \\$ 。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.4.Experiment 3 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate the influence of signal fluctuations on segmented TOF images,the profile of a line across a peripheral artery is extracted to observe signals of blood and background in different k-space filling schemes,which is demonstrated in Fig.5.The reason of choosinga peripheral vessel for investigation is that the flow velocity is relatively slow in it,so that the spins of blood experience more excitation pulses than aortas.Meanwhile,artery with slow flow velocity is more sensitive to different $\\mathrm { \\bf k }$ -space filling schemes. FSL FLIRT[2O,21] is used to align the mismatches between slices.The scanning and extraction were repeated for 3 times to minimize measurement errors.The results are shown in Fig.5a-c.It shows that no filling scheme is consistently better than the other two schemes, regarding signal intensities in3 repeated scans.Therefore,there is no favorable filling scheme for the current protocol,when arterial VBR (aVBR)is chosen as evaluation index. ",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4185df720592936eaa845992582ccaa28f794c8b2c57ad983b637a2f11a4efac.jpg",
+        "table_caption": [
+            "Table 3 The mean of vVBR and SAR in validation experiments on 3 T,with standard error in the bracket. "
+        ],
+        "table_footnote": [
+            "The SAR values were normalized to full saturation in every subject before average. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>No Sat.</td><td>Full Sat.</td><td>Seg=3</td><td>Seg=5</td><td>Seg=7</td><td>Seg=9</td></tr><tr><td>VVBR</td><td>3.49(0.12)</td><td>0.33(0.02)</td><td>0.36(0.01)</td><td>0.39(0.01)</td><td>0.51(0.01)</td><td>0.59(0.02)</td></tr><tr><td>SAR</td><td>22%</td><td>100%</td><td>46%</td><td>34%</td><td>31%</td><td>29%</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.5.Experiment 4 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The above experiments proved that segmented TOF can suppress venous blood signal without exceeding SAR limitation.A protocol shown in Table 4 was designed for clinical patient scanning.6 slabs were used to cover the whole brain. The number of segments was set to 5 in order to have a good balance between SAR and venous suppression.This protocol was tested on healthy volunteers. Images of maximum intensity projection （MIP）are shown in Fig.6a.In these images,venous signal is well suppressed without loss of arterial signal.Fig.6b shows single-slice images where the pulsation artifact is ameliorated in segmented TOF with the centric-up k-space filling scheme. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The same protocol was used for patient examination.Fig.7a shows the skull-stripped images of a patient with venous malformations.There are remarkable differences between the conventional TOF and the segmented TOF images.With venous saturation pulse,a large number of normal and malformed veins are suppressed in the segmented TOF images,while there are a lot of signal interfering between venous and arterial signal in conventional TOF images. Details are shown in the slab-MIPs,where the vessel pointed by the yellow arrow is an abnormal draining vein and disappears in the right image due to the venous saturation pulses in the segmented TOF sequence,while the vessel indicated by the red arrow shows consistent intensity in the two images.In Fig.7b-c,images from two cases of cavernous malformation are shown. In Fig.7b,the flow originated from the focus is obviously crippled in segmented TOF. However,no such flow signal is observed in Fig.7c. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a01a2775044b6d32e30f8b5c220e406a5f8bbd0f369817809cec0660b37513c.jpg",
+        "img_caption": [
+            "Fig.5.Signal curves of a peripheral artery and its surroundings with different k-space filling schemes in segmented TOF.a,b,c: Signal curves of the extracted line in3 scans. d: The position of the extracted line. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1.Saturation effect ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The merit of segmented concept is reducing SAR by cutting down number of venous saturation pulses.However,the most important precondition is that venous suppression effect cannot be compromised.The simulation of Bloch equation in Fig.2 reveals that the evolution of longitudinal magnetization in sparse saturation follows closely with that of fully applied saturation. Both scenarios can reach steady state quickly，while low-FA saturation solution needs more saturation pulses before steady state is reached.It is advantageous of using $9 0 ^ { \\circ }$ pulses to tip the longitudinal magnetization into steady state.This feature is propitious to suppress venous blood signal experiencing fewer saturation pulses,such as signal of flows originating near the imaging slab.Compared with low-FA saturation,sparse saturation bringsabout $9 7 \\%$ 0 $\\mathrm { S e g } = 3$ )and $9 6 \\%$ 0 $\\mathrm { S e g } = 5$ )reductionof $\\mathrm { { M } } _ { \\mathrm { { z } } }$ at the beginning of saturation.Nevertheless,the practical venous signal is a mixture of all the blood spins flowing through the saturation band and therefore only $4 \\% \\sim 1 9 \\%$ reduction of vVBR is observed in volunteer scan (see Fig.4). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dd0f35050c979e794e4d5756879f6c856cc2ce3ab1a85d155e3130bf80c15e3.jpg",
+        "img_caption": [
+            "Fig.4.AveragedvVBR at $7 \\mathrm { T }$ TOF,with sparse and low-FA saturation pulses respectively.The corresponding SAR values are firstly normalized to the condition of $\\mathrm { S e g } = 3 / \\mathrm { F A } = 5 4 ^ { \\circ }$ and secondly averaged among all subjects. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2.Signal fluctuation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sparse saturation pulses introduce signal fluctuations,to both saturated venous signal and excited arterial signal.The larger the segment number,the longer the recovery time for the venous blood signal,so the net longitudinal magnetization of venous signal in segmented TOF after the saturation pulse is larger than that of conventional TOF with full saturation pulses (Table 2).However, the residual venous signal in segmented TOF is much lower than low-FA saturation at the same SAR level,although there is signal fluctuation introduced by segmentation concept. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The arterial signal fluctuation occurs when the repetition time of the last segment becomes longer than others (see Fig.1a),in another word,when the duration of one segment cannot include a saturation and an excitation, that is ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9962e44ae49dec2b26c9c9cb5fc53eead9ae8bc1598f22e2e4d38c8105a43c6.jpg",
+        "table_caption": [
+            "Table 4 The protocol of segmented TOF for clinical scanning. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>FA</td><td>18°</td><td>Field of view</td><td>210*164*115 mm</td></tr><tr><td>Segments</td><td>5</td><td>Resolution</td><td>0.32*0.32*0.40 mm</td></tr><tr><td>Averaged TR</td><td>20 ms</td><td>Phase partial fourier</td><td>6/8</td></tr><tr><td>Slabs</td><td>6</td><td>Slice partial fourier</td><td>7/8</td></tr><tr><td>Slices per slab</td><td>48</td><td>GRAPPA acceleration factor</td><td>3</td></tr><tr><td>Slice over sampling</td><td>25%</td><td>GRAPPA reference lines</td><td>46</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { T } _ { \\mathrm { S A T } }$ is the duration of saturation,and $\\mathrm { T _ { E X C } } + \\mathrm { A C Q }$ is the duration of excitation and subsequent acquisition. Since the saturation pulse only occurs before the first segment in segmented TOF,the difference in TR is attenuated with the increase of segment number. In our sequence,the relaxation time was evenly distributed after each excitation,whichavoid potential ringingartifacts in TOF images. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Due to the arterial signal fluctuation,various $\\mathrm { k \\Omega }$ -space filling schemes might produce intensity difference in images.However,in practical scans,different k-space filling schemes show similaraVBR infinal images.This could be due to the fact that the signal fluctuation is extremely tiny ( $2 . 5 2 \\%$ in segments $= 3$ and $0 . 3 8 \\%$ in segments $= 5$ ,smaller in higher number of segments).The effect of k-space filling scheme may be concealed by flow change (caused by cardiac pulsation)，partial $\\mathrm { \\Delta k }$ -space acquisition，noise and other factors.In another aspect,the signal of segmented TOF is not smaller than conventional TOF,so the aVBRs of segmented TOF and conventional TOF have no significant differences. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3.Artifact amelioration ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because of the more severe $\\mathtt { B } _ { 0 }$ inhomogeneity in ultra-high field MRA,high resolution TOF-MRA is frequently degraded due to pulsation artifacts [22].There is some evidence that pulsation artifacts in TOF images can be minimized by acquiring 3D-TOF data with a random k-space acquisition scheme [23]. In segmented TOF, the intervals of adjacent two $\\mathbf { k }$ -space lines are not identical but depend on the k-space filling scheme,while they are always the same in conventional TOF.Furthermore,the non-equivalent TRs in segmented TOF weaken the periodical motion of pulsation in k-space data sampling.Asa result,pulsation artifact is greatly reduced in segmented TOF which is observed in the experiment image in this work.Although pulsation artifacts are not intense enough to be observed in MIP images,minimizing pulsation artifacts can avoid misjudgments when single-slice images are investigated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b46ef1a9d665d44991788a99f93ac5744a5ca12d2c7800f954db75ef72f01fe2.jpg",
+        "img_caption": [
+            "Fig images.b: Single-slice images indicate pulsation artifact reduction in segmented TOF. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2e2d654ca80565c793ff47fd75cd83777c1a01c59ef2cb1716bd548eb26206c.jpg",
+        "img_caption": [
+            "Figl esea (pointedbyher:oesaeituiddate "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4. Time efficiency ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Unlike modification of FA or substitution of saturation pulses,our segmented TOF achieves good performance on venous suppression by employing fewer saturation pulses.The reduction of saturation pulses not only reduces the SAR,but also decreases the time of venous saturation to 1/segments of the usual.This is valuable especially on shortening total scan time in high-resolution TOF-MRA, because higher resolution requires bigger spoiler gradient after data sampling in readout axis in order to completely spoiling the residual transverse magnetization[16].The longer readout and spoiling time result in longer duration of excitation.If pulses with lower SAR (e.g. VERSE in[11,12])is used to replace normal sinc pulses for venous saturation, the TR is even longer.Whena venous saturation pulse is applied prior to every imaging excitation pulse,it is impossible to achieve a short TR.For example,with an ultra-high resolution of $0 . 3 ^ { * } 0 . 3 ^ { * } 0 . 5 ~ \\mathrm { m m } ^ { 3 }$ and venous saturation band enabled, the minimal TR of low-FA or VERSE saturation pulses is $2 4 ~ \\mathrm { { m s } }$ ,which is longer than the optimized TR of $2 0 ~ \\mathrm { { m s } }$ with excitation FA of $1 8 ^ { \\circ }$ Nevertheless,the minimal averaged TR of segmented TOF with saturationpulsesapplied every 5thinterval is $1 5 . 4 ~ \\mathrm { m s }$ ,thereforeTR of $2 0 ~ \\mathrm { { m s } }$ can be easily reached within the safety limit of SAR.In this way,we can obtain whole brain vein-suppressed TOF images with ultra-high resolution $( 0 . 3 ^ { * } 0 . 3 ^ { * } 0 . 5 ~ \\mathrm { m m } ^ { 3 } . \\$ ）within 10 minutes.This total acquisition time is more economic than previous studies [11], which will greatly benefit clinical examinations on patients at 7 T MRI systems. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.5.Clinical significance ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As is well known,TOF without venous contamination shows clearer arterial morphology in MIP images,especially in coronal MIP as the SSS is located in themiddle of rear brain.Therefore,venous saturation implemented by segmented TOF at7T MRl system filters out redundant venous signal for better depiction of arteries.SAR problem is avoided;features of $7 \\mathrm { T }$ TOF,such as higher SNR and resolution can be fully utilized to achieve better intracranial MRA. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Moreover,the time effciency provided by sparse saturation pulseswith short TR makes it possible foracquiring TOF images with and without venous saturation in one patient. For patients with cerebrovascular diseases,the comparison between high-resolution segmented TOF and TOF images can provide further information about cerebral blood flow.As shown in Fig.7a,discriminative saturation effects occur in the malformed vessels in the leftbrain of a venous malformation patient.Since the saturation band is applied above the imaging slab,the saturation difference reveals that the yellow-arrow indicated vessel hasa downward blood flow,while the red-arrow indicated branch flows upward.This helps to analyze the direction of blood flow，especially when there is no digital subtraction angiography,which is an invasive technique.In the diagnosis of cavernous hemangioma, the existence of draining veins is of great interest.In Fig. 7b,the blood signal attenuated in segmented TOF suggests that it be a draining vein rising in the focus and flowing downward.In contrast,there is no such draining vein in Fig.7c for there is no vessel suppressed in segmented TOF than conventional TOF. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. Conclusion ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A way of venous saturation was implemented for TOF at7 T MRI in which conventional saturation method does not work due to exceeding of SAR limitation.The method was proved to be efficient in suppressing venous blood signal in $7 \\mathrm { T }$ TOF images as well as conventional TOF on $3 \\mathrm { T }$ MR systems. Compared with previously proposed solutions,segmented TOF with sparse saturation has a better performance in saturation effect. With improvement of venous saturation efficiency，the averaged TR can be further shortened to allow faster acquisition of high-resolution TOF without venous contamination.This method provides not only better arterial angiogram,but also auxiliary information for clinical diagnosis on flow direction when comparing with conventional TOF. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Ms.Kun Hu for her technical assistance.This work was supported by the Ministry of Scienceand Technology of China Grants (2012CB825505,2015CB351701),National Nature Science Foundation of China Grant (91132302),Chinese Academy of Sciences Strategic Priority Research Program B Grants (XDB02010100,XDB02050001). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1]Hartung MP,Grist TM, Francois CJ. Magnetic resonance angiography: current status and future directions.J Cardiovasc Magn Reson 2011;13:19.   \n[2] Al-Kwifi O,Emery DJ,Wilman AH.Vessel contrast at three Tesla in time-of-flight magnetic resonance angiography of the intracranial and carotid arteries. Magn Reson Imaging 2002;20:181-7.   \n[3]Von Morze C,Xu D,Purcell DD,Hess CP,Mukherjee P,Saloner D,et al. Intracranial time-of-flight MR angiographyat7 Twith comparison to 3 T.JMagn Reson Imaging 2007;26:900-4.   \n[4] Van der Kolk AG,Hendrikse J, Zwanenburg JJM,Visser F,Luijten PR. Clinical applications of 7 T MRI in the brain. Eur JRadiol 2013;82:708-18.   \n[5] Kang C-K,Park C-W, Han J-Y, Kim S-H, Park C-A, Kim K-N, et al. Imaging and analysis of lenticulostriate arteries using 7.O-Tesla magnetic resonance angiography. Magn Reson Med 2009;61:136-44.   \n[6] Monninghoff C,Maderwald S,Wanke I. Pre-interventional assessment of a vertebrobasilar aneurysm with 7 Tesla time-of-flight MR angiography.Fortschr Rontgenstr 2009;181:266-8.   \n[7] Litt AW,Eidelman EM,Pinto RS,Riles TS,McLachlan SJ, Schwartzenberg S,et al. Diagnosis of carotid artery stenosis: comparisonof2DFTtime-of-flight MRangiography with contrast angiography in 50 patients. AJNR Am J Neuroradiol 1989;12:149-54.   \n[8] Chung CP,Hsu HY,Chao AC,Chang FC,Sheng WY,Hu HH. Detection of intracranial venous reflux in patients of transient global amnesia. Neurology 2006;66:1873-7.   \n[9] Kang CK,Hong SM,Han JY,Kim KN,Kim SH,Kim YB,et al. Evaluation of MR angiography at 7.0 tesla MRI using birdcage radio frequency coils with end caps. Magn Reson Med 2008;60:330-8.   \n[10] Maderwald S,Ladd SC,Gizewski ER, Kraff O, Theysohn JM,Wicklow K,et al. To TOF or not to TOF: strategies for non-contrast-enhanced intracranial MRA at 7 T. Magn Reson Mater Physics,Biol Med 2008;21:159-67.   \n[11] Schmitter S,Bock M, Johst S,Auerbach EJ, Ugurbil K,Van de Moortele P-F. Contrast enhancement in TOF cerebral angiography at 7 T using saturation and MT pulses under SAR constraints: impact of VERSE and sparse pulses. Magn Reson Med 2012;68:188-97.   \n[12] Johst S, Wrede K. Time-of-flight magnetic resonance angiography at 7 T using venous saturation pulses with reduced flip angles. Invest Radiol 2012;47: 445-50.   \n[13]Parker DL,Buswell HR,Goodrich KC,Alexander AL,Keck N,Tsuruda JS. The application of magnetization transfer to MR angiography with reduced total power. Magn Res0n Med 1995;34:283-6.   \n[14] Zuo Z, Park J, Li Y, Li Z, Yan X, Zhang Z,et al. An elliptical octagonal phased-A array head coil for multi-channel transmission ancbed reception at7 T.Proc Intl Soc Mag Reson Med 2012;20:2804.   \n[15] Stolz E,Kaps M,Kern A,Babacan SS,Dorndorf W. Transcranial color-coded duplex sonography of intracranial veins and sinuses in adults:reference data from 130 volunteers. Stroke 1999;30:1070-5.   \n[16] Bernstein MA, King KE, Zhou XJ, Fong W. Handbook of MRI pulse sequences. vol.32 Academic Press; 2005.   \n[17] Rooney WD,Johnson G,Li X,Cohen ER, Kim S-G, Ugurbil K,et al. Magnetic field and tissue dependencies of human brain longitudinal 1H2O relaxation in vivo. Magn Reson Med 2007;57:308-18.   \n[18] Li T-Q, van Gelderen P,Merkle H, Talagala L,Koretsky AP,Duyn J.Extensive heterogeneity in white matter intensity in high-resolution $\\mathrm { T } 2 ^ { * }$ -weightedMRIof the human brain at $7 . 0 \\mathrm { T } .$ Neuroimage 2006;32:1032-40.   \n[19] Holsinger AE, Riederer SJ.The importance of phase-encoding order in ultra-short TR snapshot MR imaging. Magn Reson Med 1990;16:481-8.   \n[20] Jenkinson M, Bannister P,Brady M, Smith S. Improved optimization for the robust and accurate linear registration and motion correction of brain images. Neuroimage 2002;17:825-41.   \n[21] Jenkinson M,Beckmann CF,Behrens TEJ，Woolrich MW.Smith SM.Fsl Neuroimage 2012;62:782-90.   \n[22] Drangova M,Pelc NJ. Artifacts and signal loss due to flow in the presence of BO inhomogeneity. Magn Reson Med 1996;35:126-30.   \n[23] Zhang T,Pauly JM, Vasanawala SS,Lustig M. Coil compression for accelerated imaging with Cartesian sampling.Magn Reson Med 2013;69:571-82. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

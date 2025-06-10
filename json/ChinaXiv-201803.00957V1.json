@@ -1,0 +1,535 @@
+[
+    {
+        "type": "text",
+        "text": "Crop positioning for robotic intra-row weeding based on machine vision ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Nan, Zhang Chunlong\\*，Chen Ziwen, Ma Zenghong, Sun Zhe, Yuan Ting, Li Wei, Zhang Junxiong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Collegeof Engineering,China Agricultural University,BeijinglOoo83,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biographies:LiNan,PDstudent,mainlyengaged inagriculturalroboticsand machinevision,Email: nanliOl3@cauedu.cn. Chen Ziwen,PhD student,mainly engaged in agricultural robotics,Email: chenziwen_ $\\boldsymbol { 0 3 0 9 @ }$ 163.com. Ma Zenghong,PhD student,mainly engaged in agricultural robotics and machine vision,Email: mzhsss $@ 1 2 6 . \\mathrm { c o m }$ . Sun Zhe,PhD student,mainly engaged inagriculturalroboticsandmachine vision,Email:799435186@qq.com.YuanTing,PD,lecturer,mainlyengagedin agricultural robotics and machine vision,Email:yuanting $1 2 2 @$ hotmail.com.Li Wei,PhD,professor,mainly engaged in agricultural robotics and machine vision,Email: liww $@$ cau.edu.cn.Zhang Junxiong，PhD,associated professor,mainly engaged in agricultural robotics and machine vision,Email: mech $1 8 @$ cau.edu.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*Corresponding author:Zhang Chunlong，PhD，mainly engaged inagricultural robotics and machine vision，Email: zcl1515 @cau.edu.cn. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Amachine-vision-based methodof locatingcrops isdescribed in thisresearch.Thismethod wasusedto provide real-time positionalinformationofcropplantsfora mechanical intra-row wedingrobot.Within the normalizedred,green, and blue chromatic coordinates (rgb),a modified excess green feature ( $\\scriptstyle \\mathbf { g } - \\mathbf { r } > \\mathbf { T }$ & $\\mathrm { g - b > T }$ ） was used to segment plant material fromback ground incolor images.The threshold Twas automaticall selected bythe maximumvariance (OTSU)algorithm to cope with variable naturallight.Taking intoacount the geometryofthecameraarrangementand thecroprow spacing,the targetegions covering thecroprows were defined based onapinholecamera model.According tothe statistical variation in thepixelhistogramineachtargetregion,locationsofthecropplants were initiallestimated.Toobtaintheaccuratelocations of crops,median filtering was conductedlocally in thebounding boxes ofthecrops close to the bottomof the images.Forthe lateral guidanceofthe robot,anovel methodof calculating lateral offset was proposed basedonasimplified match between a templateandthe detected crops.Field experiments wereconductedunderthre diferentilluminationconditions.Theresults showed that the accurate identification rates on lettuce,cauliflower and maize were all above $9 5 \\%$ .The positional error as within $\\pm 1 5 \\ \\mathrm { m m }$ ，and the average processing time for a $6 4 0 \\times 4 8 0$ image was $3 1 ~ \\mathrm { m s }$ .The method was adequate to meet the technical requirementof the weeding robot,and laid a foundation forrobotic weeding in commercial production system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: mechanical weeding,computer vision,real-time image processing,crop sensing,precision agriculture ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Every year,weed infestation causes huge losses in agricultural production over the world,although large amounts of labors and herbicides have been used. Furthermore， applyingofherbicidemaythreaten environmental, food and operator safety,while the cost of labor increases year by year.In big farms which produce organic crops,it is quite difficult to employ enough workers for hand weeding in limited time. Non-chemical automatic weeding devices are badly in need. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inter-rowweeds can be treated with traditional machineries, whileintra-rowweedsstill remain a problem. Robotic mechanical weeding is a potential meanstoreducetheenvironmentalloadingof agrochemicals in conventional agriculture and replace hand weeding in organic agriculture. Thus a research to intra-row weeding robot was conducted by our group in recent years. Acquiring the location information of the crop plants speedily and accurately is the premise of performing efficient automated intra-row weeding with low crop damage level.Machine vision was chosen as the technical means of detecting crop plants and acquiring their positional information.The reason was that it was more accurate or relatively cost effective compared to other approaches,e.g. RTK (real-time kinetics） GPS. Consideringoftherequirementsofcommercial productionsystem， themachine-vision-basedcrop location system was expected to be adequate for a traveling speed over $2 ~ \\mathrm { \\ k m / h }$ ：This required the algorithm to be as simple and fast as possible. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many efforts have been made to achieve fast and accurate plant location.Tillett et al.[1] used Kalman filter to track crop rows as well as to predict plant position,and a Mexican hat wavelet to filter the image and refine the plant position. The algorithm performed well under normal commercial weed infestation levels. Zhang et al.[2] developed an algorithm based on the histogram analysis of plant-pixels and tested on a robotic platform.The average time consuming was $2 0 ~ \\mathrm { { \\ m s } }$ which was quite efficient.Hu et al.[3] fitted a sinusoid to the lateral pixel histogram to locate crop plants and achieved high recognition rate.Weyrich et al.[4] developed an machine vision system that was able to detect the overlapping edges of leaves on NIR image so that the leaves were separated and assigned to the assessed stem position of plants.Researchers also explored the application of artificial intelligence on discriminating crop and weed plants by designing differentkindsofclassifiers[5-13].Most ofthe classification features were calculated from the color, texture and shape of plants. Besides using 2D vision system, Jin et al.[14] proposed that real-time stereo vision system may have better performance when sensing crop plants in outdoor lighting conditions and prominent weed infestation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aim of this research is to provide a practically useful approach to crop sensing for an intra-row mechanical weeding robot.Unlike many previously proposed methods[2,3,15], we did not extract the crop rows before locatingindividualplants, whileweuse perspective relation to determine the crop row area in the image，which could reduce the searching scope when processing image.Moreover, it made the algorithm more robust to the obstacle due to inter-row weeds. When obtaining accurate crop position,median filtering was conducted within the bounding boxes of crops,in order to reduce the disturbance of the weeds near the crop plants. Calculation of lateral offset did not depend on fitting of crop row center lines.Rather，it was determined by the best match between the centroids of the crops near the image bottom and a template. To demonstrate the capabilities of the method, experimental work was carried out on different crops under natural light. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and method ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Materials ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The machine vision system mainly consisted of a $7 5 2 \\times 4 8 0$ color camera(Do3think CMO36） with a $4 ~ \\mathrm { m m }$ lens (AZURE-O42Omm)，an industrial control computer (NORCO RPC-208) with a $2 . 8 ~ \\mathrm { G H z }$ Intel Core 2 Duo E7400 processor,and an 8-inch touch display.The resolution of the images was $6 4 0 \\times 4 8 0$ after setting the interest area of camera. The image processing software was developed in Microsoft Visual Studio 2O1O,based on the camera's SDK. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The system was mounted on a robotic intra-row weeding experimental platform (Figure 1） which was connected to a tractor through a 3-point linkage. The camera was mounted $1 . 8 5 \\mathrm { ~ m ~ }$ above the soil surface,and was tilted forward at an angle of $2 0 . 8 ^ { \\circ }$ from the vertical orientation. This arrangement allowed three crop rows to be viewed and at least three crops in each row to appear in the image. Cauliflower, lettuce and maize, were chosen as sample crops for analyzing and field trials. The sample crops were all transplanted with a semiautomatic transplanter. The nominal row spacing was set to $0 . 5 \\mathrm { m }$ ,while the nominal plant spacing varying from $0 . 4 \\mathrm { m }$ to $0 . 5 \\mathrm { m }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The intra-row weeding end-effectors of the platform were three C type cultivation blades modified from the rotating disc described by O'Dogherty et al.[16] and Huang et al.[17]. These blades moved along the crop row under the ground surface to remove the in-row weeds by cutting the roots or stems when the machine went ahead. Each of blades could rotate about a substantially vertical axis driven by a $4 8 \\mathrm { v } / 3 0 0 \\mathrm { w }$ electric motor.To prevent crop damage,the blades rotated when they got close to crops so that the cut-out sections would face the crops and make room for them (Figure 2). Thus the machine vision system had to provide the real-time distances between the approaching crops and the blades.In order to keep the blades working within the intra-row areas, the machine vision system also had to measure the lateral offset between the crop rows and the blades. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae17ff8fc95c00ef7c823162994bfacf5de7faac038f9e218f963bd97e75d54a.jpg",
+        "img_caption": [
+            "Figure 1The robotic intra-row weeding experimental platform "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e00b44815ce0499c2b5bcd3c566a05c4e42d37d7444638b3e49adea90e60db4d.jpg",
+        "img_caption": [
+            "Figure 2Weeding blade rotates to avoid crop plant "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Method ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Color to monochrome image ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The overall procedure of image processing algorithm is depicted in Figure 3. The first step after reading an image was to discriminate plant material from the background based on their difference in color feature.A variety of strategies for this step were enumerated by Montalvo[18]． One of the most widely used green plant extraction indexes was the excess green index (ExG) 2g-r-b,which was introduced by Woebbecke et al.[19]. This index was less sensitive to the intensity of the illuminating source and its angle with the target surface, but was sensitive to noise at pixels with low intensity. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cb495b502475c56aad4b94a794b2670274165f955ba253d1276b7d7494ee548.jpg",
+        "img_caption": [
+            "Figure 3Crop location method architecture "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "According to the analysis of red，green and blue channels from color images of different sample crops and the background (Figures 4c and 4d),we chose a modified $\\mathtt { E x G }$ index defined by Equation（1） to transform the color images into gray images. ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM = \\left\\{ \\begin{array} { c c } { { 2 5 5 \\times \\operatorname * { m i n } ( g - r , g - b ) \\ , } } & { { ( G \\geq R \\ \\& \\ G \\geq B ) } } \\\\ { { 0 } } & { { } } \\\\ { { 0 } } & { { } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where, $R , G$ and $B$ are the intensities of the red, green and blue channels of an image pixel; $r , \\ g$ and $b$ are the normalized chromatic coordinates of $R$ ， $G$ and $B ; M$ is the gray value of the pixel in the resulting image. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The gray images were transformed to monochrome images (Figures 4e and 4f) by applying the threshold automatically selected by OTSU[20] algorithm.This algorithm is self-adjustable，dealing well with images captured under different illumination conditions such as sunny or cloudy days[21]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Estimation of target regions ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As the crops grew in rows,searching of individual crop plants could be limited in the in-row areas.What's more,the inter-row weeds may act as a kind of noise disturbing the correct positioning of crop plants.In some cases,weeds grew neatly in rows between the crop rows and became a prominent feature.Figure 5 shows a luxuriant growth of weeds in the depressions on the ground caused by the depth wheels of the transplanter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to prevent the inter-row weed disturbance and reduce the time consuming of algorithm, estimation of the in-row areas were done before doing crop location. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Target regions covering the in-row areas were defined according to the geometry of the camera arrangement, the crop row spacing，size of the crops and the calculated lateral offset of last image. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The model of the camera over the crop plants is shown in Figure 6.It was assumed that row direction does not deviate too much from the y-axis in the image (normally no more than $\\pm 4 ^ { \\circ }$ ).Hague et al.[22] used the perspective relationship between world coordinates and image coordinates to determine the boundaries of the target regions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/66eb987c1afe96a50fdf515337c32b39910c8a234c509248a77dec17d57afbf7.jpg",
+        "img_caption": [
+            "c.Means and standard deviations of RGB channels of cauliflower and soil in (a) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4540624e20f8c595ac6265573d64405d3ba3b06dc5faf599de46e5255930b42.jpg",
+        "img_caption": [
+            "d.Means and standard deviations of RGB channels of maize and soil in (b) ",
+            "Figure 4Sample images and segmentation results "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数农 J 1 + e. Segmentation result of (a) f. Segmentation result of (b) ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e202847b9a3ecf2d65e841920b2004f73422b9c6ebfdea410fc1432c781ae8e8.jpg",
+        "img_caption": [
+            "Figure 5Weeds growing neatly in rows "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac46fb467741c315b51ca33e59e3f633bc5ef7ab4f29c5eaf8e4c53a148ef6d4.jpg",
+        "img_caption": [
+            "Figure 6Model of the camera over crop plants "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the vertical ordinate $y _ { i }$ decreased down the image in this vision system, it was opposite to that described by Hague et al.[21]Therefore,the relationship between the abscissa value $x _ { i }$ in the image coordinate system (Figure 6a） and its value $x _ { w }$ in the world coordinate system (Figure 6b) was described as Equation (2). Since the angular deviation of crop rows was ignored, points on a boundary line of a crop row area should have a same distance to the vertical axis in the world coordinate system.Giving a fixed value of $x _ { w }$ according to the row spacing and row width,equation of the boundary line in the image coordinate system could be obtained from Equation (2). The blue lines in Figure 7 show the target region estimation result in an in-door simulative scene. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } = \\frac { x _ { w } [ f _ { c } - ( y _ { i } - \\frac { I _ { y } } { 2 } ) \\tan \\phi ] } { Z } + \\frac { I _ { x } } { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where, $f _ { c }$ is the focal length of the camera lens which was obtained by a calibration procedure based onthe calibration toolbox of MATLAB; $I _ { x }$ and $I _ { y }$ are the width and height of the image in pixels respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/de47138ddcf91db13f772ab376e8c8ba2023d5f5d064f27438f2db53d1d9c8bf.jpg",
+        "img_caption": [
+            "Figure 7Estimation of target regions in a simulative scene "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3Localization of individual plants ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Once the target regions were defined, the black pixels of every horizontal line within each target region of the monochrome image were counted.Thus apixel histogram was formed. For better demonstration，an image with much noise was chosen as an example (Figure 8a) and Figure 8b is the related pixel histogram. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because of perspective, further plants appear smaller than the ones close to the camera even though they are similar in size.In order to eliminate or reduce the influence of perspective,number of black pixels in each line was multiplied by a factor: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } = N _ { i } \\times \\frac { W _ { 0 } } { W _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where, $N _ { i }$ is the number of black pixels in a horizontal line within the target region and $i$ is the vertical ordinate of the line; $W _ { i }$ is the width of the target region at line $i ( i$ increases from O to 479 up the image). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/93885b94f5bb882b8a7bfd5c24f013e71961f4096ac6e85a69c64ea554ea07e2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure 8Histogram of maize image with much noise crop areas delimitation "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To erase the non-crop black pixels, the average of the black pixel numbers in each region was subtracted from the black pixel number of each line: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left\\{ N _ { i } = N _ { i } - \\frac { \\displaystyle \\sum _ { i = 0 } ^ { 4 7 9 } N _ { i } } { 4 8 0 } , \\quad N _ { i } > \\frac { \\displaystyle \\sum _ { i = 0 } ^ { 4 7 9 } N _ { i } } { 4 8 0 } \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "After that, the pixel histogram was smoothed with a one-dimensional mean filter defined as Equation (5). Figure 8c shows the smoothed pixel histogram. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { i } = \\frac { 1 } { 9 } \\times \\sum _ { j = i - 4 } ^ { i + 4 } N _ { j }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The black areas left in the smoothed pixel histogram indicate the vertical location of the crop plants, though there still are some non-crop areas. By applying an area threshold to the black areas, the non-crop areas were eliminated. Thus the upper and lower boundaries of the individual crops can be obtained. With the boundaries of target regions, areas containing the cropswere delimited (Figure 8d). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to erase the single and isolated pixels in the delimited crop areas which may influence precise positioning， median filteringwasconducted locally within the crop areas. Since the weeding robot only required the distance to the nearest crop in each row, there was no need to acquire the accurate positions of all the crops. Therefore,only the lowest crop area in each crop row in the image was filtered. This significantly reduced the time consuming of the algorithm and redundancy of information. By calculating the centroids of the black pixels in the filtered areas,accurate locations of crop plants were obtained (marked with blue crosses shown as Figure 8d). The coordinates of the centroids in the world coordinate system defined in Figure 6b were obtained as Equations (6） and(7). Then the distances between the weeding blades and the approaching plants were calculated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { _ w } = { \\frac { Z ( x _ { i } - { \\frac { I _ { x } } { 2 } } ) } { f _ { c } - ( y _ { i } - { \\frac { I _ { y } } { 2 } } ) \\tan \\phi } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny _ { \\scriptscriptstyle { w } } = \\frac { Z ( y _ { \\scriptscriptstyle { i } } - \\displaystyle \\frac { I _ { \\scriptscriptstyle { y } } } { 2 } ) } { f _ { \\scriptscriptstyle { c } } \\cos \\phi - ( y _ { \\scriptscriptstyle { i } } - \\displaystyle \\frac { I _ { \\scriptscriptstyle { y } } } { 2 } ) \\sin \\phi }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.4Estimation of lateral offset ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Many effortshave been devoted to machine vision-based automatic guidance of robots,machines and autonomous vehicles within agricultural environments by detecting crop rows[23-27].Hough transform and the least squares method were very commonly used for crop line detection.However,these two methods are relatively computationally intense.According to thework characteristics of the weeding robot,we devised an efficient approach to obtain the lateral offset of the end-effectors. This approach did not depend on the location of the crop rows,but the location of the plants nearest to the end-effectors. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With the relationship expressed by Equation (6), the abscissas of the centroids in the image coordinates were converted in to abscissas in the world coordinates.A template symbolizing the nominal row structure (the blue lines in Figure 9a) was used to find the expected position of the intra-row weeding blades. This was done by matching the template with the calculated crop positions. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/62945cce41a0197d280ca71ee035f4edc0ddf27cf6cae9097afac9c52c457f73.jpg",
+        "img_caption": [
+            "Figure 9Illustration of template and assessment of blade positions "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When the robot was working in the field,centers of the blades were expected to be right in the centers of the crop rows.If a blade was placed on the left of the crop row center,coverage of the blade in the in-row area would drop. On the other hand, if the blade was placed on the right side of the row center,it may cause damage to the crops,which was inacceptable (Figure 9b).Based on this principle, the best match would achieve only when atleast one of the blue lines in Figure 9a coincided with the related row center while none of the others lay on the right of the row center (the practical row spacing may vary slightly along the rows,the three blue lines can hardly match the rows accurately at the same time). Figure 9a illustratesanexample of best match. Therefore,we only consider three situations that each of the blue lines overlapped with the corresponding crop centerrespectively. Each of the situationswas evaluated according to the relative positions of the non-overlapped lines and row centers,as described by Equations (8), (9) and (10). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { M _ { 1 } = \\left\\{ \\begin{array} { l l } { 1 , \\quad ( x _ { 2 } \\geq x _ { 1 } + D , x _ { 3 } \\geq x _ { 1 } + 2 D ) } \\\\ { 0 } \\\\ { 0 } \\end{array} \\right. } \\\\ & { M _ { 2 } = \\left\\{ \\begin{array} { l l } { 1 , \\quad ( x _ { 1 } \\geq x _ { 2 } - D , x _ { 3 } \\geq x _ { 2 } + D ) } \\\\ { 0 } \\\\ { 0 } \\end{array} \\right. } \\\\ & { M _ { 3 } = \\left\\{ \\begin{array} { l l } { 1 , \\quad ( x _ { 1 } \\geq x _ { 3 } - 2 D , x _ { 2 } \\geq x _ { 3 } - D ) } \\\\ { 0 } \\end{array} \\right. } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where, $M _ { 1 } , M _ { 2 } , M _ { 3 }$ are the evaluation of the match under the three assumed situations; crop rows are numbered 1, 2 and 3 from left to right in the image; $x _ { 1 } , x _ { 2 }$ and $x _ { 3 }$ are the calculated abscissas of the crop centroids; $D$ is the nominal row spacing; the value 1 indicatesthe achievement ofbestmatch. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After the best match was obtained, the lateral offset between the expected and practical positions of the blades was acquired subsequently by calculating the abscissa of the template center in the world coordinates (The practical center of the weeding blade set was at the origin of $X ^ { - }$ axis both in the image and world coordinates). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To inspect the location accuracy of the system，an in-door test was done by comparing data obtained in different ways.A series of distances from the crops to the weeding blades and lateral offsets were measured manually and by the machine vision system.In order to facilitate pointing out the centroids manually, three $\\phi 8 5$ mm green discs (Figure 1O) was used to instead of crop plants.The discs were fixed on an aluminum bar, separated from each other by equal spaces ( $5 0 0 \\ \\mathrm { m m } ,$ ） By changing the position of the discs in the view area of the camera,we got a set of data(Table 1) which showed the location error of the system was within $\\pm 1 5 \\ \\mathrm { \\ m m }$ The system accuracy was thought to be adequate for avoiding crop damage.Sources which affected the location accuracy mainly included the deviation in physical set up and lens distortions. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/de22c77890507a33c93a2966c4dea071694ac0af7c5bf90824ec854d13d6ab23.jpg",
+        "img_caption": [
+            "Figure 1OMaterials used in the in-door test "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ad813b529d0085ea3648ead78991a7b3598550a73968acd43caffbed614b3904.jpg",
+        "table_caption": [
+            "Table1 Results of in-door test ",
+            "mm "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Number of data</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td rowspan=\"4\">Measured by man</td><td>Distance 1</td><td>289.0</td><td>240.0</td><td>492.0</td><td>443.5</td><td>359.0</td><td>331.0</td><td>248.0</td><td>321.0</td><td>317.0</td><td>232.0</td></tr><tr><td>Distance 2</td><td>292.0</td><td>288.0</td><td>495.0</td><td>442.0</td><td>354.0</td><td>337.5</td><td>247.0</td><td>325.0</td><td>318.0</td><td>227.5</td></tr><tr><td>Distance 3</td><td>294.5</td><td>337.5</td><td>498.0</td><td>438.0</td><td>350.0</td><td>341.0</td><td>245.5</td><td>329.0</td><td>320.0</td><td>223.5</td></tr><tr><td>Offset</td><td>46.0</td><td>-65.0</td><td>57.5</td><td>36.0</td><td>55.0</td><td>70.5</td><td>-52.5</td><td>-86.0</td><td>60.0</td><td>82.0</td></tr><tr><td rowspan=\"4\">Measured by system</td><td>Distance 1</td><td>300.0</td><td>252.0</td><td>490.0</td><td>446.5</td><td>364.0</td><td>343.0</td><td>260.0</td><td>332.0</td><td>326.0</td><td>244.0</td></tr><tr><td>Distance 2</td><td>302.0</td><td>296.0</td><td>496.0</td><td>443.0</td><td>360.5</td><td>346.5</td><td>258.0</td><td>334.0</td><td>326.0</td><td>242.0</td></tr><tr><td>Distance 3</td><td>308.0</td><td>344.0</td><td>500.0</td><td>441.0</td><td>360.0</td><td>353.5</td><td>260.0</td><td>340.0</td><td>332.0</td><td>238.0</td></tr><tr><td>Offset</td><td>35.5</td><td>-75.5</td><td>51.0</td><td>35.5</td><td>43.5</td><td>-77.5</td><td>-61.0</td><td>-93.0</td><td>61.5</td><td>73.5</td></tr><tr><td rowspan=\"4\">Location error</td><td>Distance 1</td><td>-11.0</td><td>-12.0</td><td>2.0</td><td>-3.0</td><td>-5.0</td><td>-12.0</td><td>-12.0</td><td>-11.0</td><td>-9.0</td><td>-12.0</td></tr><tr><td>Distance 2</td><td>-10.0</td><td>-8.0</td><td>-1.0</td><td>-1.0</td><td>-6.5</td><td>-9.0</td><td>-11.0</td><td>-9.0</td><td>-8.0</td><td>-14.5</td></tr><tr><td>Distance 3</td><td>-13.5</td><td>-6.5</td><td>-2.0</td><td>-3.0</td><td>-10.0</td><td>-12.5</td><td>-14.5</td><td>-11.0</td><td>-12.0</td><td>-14.5</td></tr><tr><td>Offset</td><td>10.5</td><td>10.5</td><td>6.5</td><td>0.5</td><td>11.5</td><td>7.0</td><td>8.5</td><td>7.0</td><td>-1.5</td><td>8.5</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The performance of the system was also evaluated in experiments were conducted at approximately 14:OO and field environment at Tongzhou， Beijing.The field 16:30 under different directions of sun light on 3Oth April, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2015,and 14:3O on 6th May when it was cloudy. The tractor was driven at approximately $1 . 5 ~ \\mathrm { k m / h }$ .Before the experiments,the sample crops,cauliflower,maize and lettuce, had grown for $1 3 { \\mathrm { ~ d ~ } }$ since they were transplanted. Numbers of the crops were 225,287 and 257 respectively. Weeds in the field mainly consisted of amaranthus lividus,purslane and digitaria sanguinalis. The average weed density in the field was 126 per $\\mathbf { m } ^ { 2 }$ on 30th April and 266 per $\\mathbf { m } ^ { 2 }$ on 6th May.The first weeding treatment is usually conducted at this stage in normal vegetable production. The weeding blades of the experimental platform were taken off to prevent potential crop damage. The detected crops were marked with blue crosses in the image shown on the touch display. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the results of field experiments.It is shown that the correct recognition rates were all above $9 5 \\%$ .Generally, the system achieved better performance on cloudy day than in direct sun light.However, change in direction of the sun light did not affected significantly on the correct recognition rate.Lettuce was better detected than the other two crops since it had broad leavesandstrongcontrastwithsoilincolor. Cauliflower was not so well segmented from the back ground as lettuce.Maize was more likely to be unrecognized since it has long thin leaves and may be divided into separate parts (Figure 1la).Besides,some of the maize had leaf disease that did not appear green (Figure11b).A significant component ofthe misrecognition was due to large weeds that occasionally emerged near or between the crops. Those weeds were often recognized as crops (Figure 1lc).However, inter-row weeds could hardly influence the system.An important factor of failing to recognize crop plants was using of a fixed area threshold, which may discriminate a few undersized plants as weeds. Direct sun light caused more noise and less complete extraction of crops in the background segmentation procedure. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ded94df64fccd066156c3c45bac3a602ccd6b15da85d4f1d812bcf94bef5d233.jpg",
+        "table_caption": [
+            "Table2Results of the field experiment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Time</td><td>Crop</td><td>Non crops recognized as crops</td><td>Unrecognized crops</td><td>Total numbers of incorrect recognitions</td><td>Total numbers of crops</td><td>Correct recognition rate/%</td></tr><tr><td rowspan=\"3\">2:0 pm</td><td>Cauliflower</td><td>3</td><td>7</td><td>10</td><td>225</td><td>95.6</td></tr><tr><td>Maize</td><td>2</td><td>11</td><td>13</td><td>287</td><td>95.5</td></tr><tr><td>Lettuce</td><td>2</td><td>2</td><td>4</td><td>257</td><td>98.4</td></tr><tr><td rowspan=\"3\">34:30 pm</td><td>Cauliflower</td><td>3</td><td>8</td><td>11</td><td>225</td><td>95.1</td></tr><tr><td>Maize</td><td>2</td><td>9</td><td>11</td><td>287</td><td>96.2</td></tr><tr><td>Lettuce</td><td>2</td><td>2</td><td>4</td><td>257</td><td>98.4</td></tr><tr><td rowspan=\"3\">2:30Mmy</td><td>Cauliflower</td><td>4</td><td>4</td><td>8</td><td>225</td><td>96.4</td></tr><tr><td>Maize</td><td>3</td><td>6</td><td>9</td><td>287</td><td>96.9</td></tr><tr><td>Lettuce</td><td>4</td><td>1</td><td>5</td><td>257</td><td>98.1</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/4df220240fcb8b8cb96fccaea892fb256e3093b274c9dac473c949f5ba40be79.jpg",
+        "img_caption": [
+            "Figure 11Some special cases that affecting recognition rates "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The software automatically recorded the time soon after it finished processing a frame of image.The average time consuming of the algorithm was about 31ms. Therefore, the machine vision systemis adequate to provide real-time crop location when the robot is working at a forward speed of $1 . 5 \\mathrm { k m / h }$ or higher, e.g. $2 \\ \\mathrm { k m / h }$ .In fact, the system was able to achieve a good performance with a speed over $2 . 5 ~ \\mathrm { k m } / \\mathrm { h }$ ，if the platform traveled on a flat ground.However,when the platform was working on a complex field surface,with the increase of speed,intensified mechanical vibration caused greater location error.In that case，it was difficult for the platform to maintain a low crop damage rate. Thus,the authors considered the maximum speed for operation in field to be $2 ~ \\mathrm { k m / h }$ .As a result of calculation, the operation efficiency would be $2 . 4 ~ \\mathrm { h m } ^ { 2 } / \\mathrm { d }$ （204 $( 3 { \\times } 0 . 5 ~ \\mathrm { m } { \\times } 2 ~ \\mathrm { k m } / \\mathrm { h } { \\times } 8 ~ \\mathrm { h } { = } 2 . 4 ~ \\mathrm { h m } ^ { 2 } )$ ）if it works 8 hours per day under the speed of $2 ~ \\mathrm { k m / h }$ (Note that 3 is number of blades,O.5 indicates crop row spacing). That is about 34.3 times of the efficiency of a labor (usually 0.07 $\\mathrm { h m } ^ { 2 } / \\mathrm { d }$ ） ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4 Conclusions ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A novel method of locating crops is described and evaluated. The main contribution is to provide a fast and accurate approach to obtain the real-time positional information of crops close to the weeding robot. The algorithm was designed to cope with variable out-door illumination and weed disturbance in normal production system.To reduce the computational burden,very few computationallyintensivealgorithmswereused. Nevertheless, the method was robust to variation in illumination and crop species by taking advantage of color and position features of crops. Location error of the crop detection system was maintained within $\\pm 1 5 ~ \\mathrm { m m }$ Average time consuming for processing a $6 4 0 \\times 4 8 0$ image was 31 ms,which was quite efficient compared with most ofpreviously proposed methods.Results of field experiments indicated the method was effective to detect over $9 5 \\%$ of cauliflower,maize and lettuce under natural light. As a conclusion, the method is adequate to meet the technical requirement of intra-row weeding robots, and hopeful to be used in commercial production system. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge that this research was financially supported by the National “863 Plan” of China (2013AA1O24O6),National Natural Science Foundation of China (31301232)，Chinese Universities Scientific Fund (2O15QC0O4) and Beijing Higher Education Yound Elite Teacher Project (31056101). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[References] ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]Tillett N D，Hague T，Grundy A C，Dedousis A P. Mechanical within-row weed control for transplanted crops using computer vision.Biosystems Engineering，2008; 99(2): 171-178. doi: 10.1016/j.biosystemseng.2007.09.026.   \n[2]Zhang C L, Huang X L,Liu W D, Zhang Y,Li N, Zhang J X, et al.Information acquisition method for mechanical intra-row weeding robot.Transactions of the CSAE,2012; 28(9): 142-146.(in Chinese with English abstract)   \n[3]Hu L, Luo X W, Zeng S, Zhang Z G, Chen X F, Lin C X. Plant recognition and localization for intra-row mechanical weeding device based on machine vision． Transactions of the CSAM,2013;29(10):12-18.(in Chinese with English abstract)   \n[4]Weyrich M, Wang Y H, Scharf M. Quality assessment of row crop plants by using a machine vision system. In: Proceedings of IECON 2013 - 39th Annual Conference of the IEEE Industrial Electronics Society, Vienna, Austria, 2013; pp.2466-2471.   \n[5]Sogaard H T. Weed classification by active shape models. Biosystems Engineering, 2005; 93(3): 271-281.   \n[6]Persson M, Astrand B. Classification of crops and weeds extracted by active shape models. Biosystems Engineering, 2008; 100: 484-497.   \n[7]Swain K C,Norremark M,Jprgensen R N,Midtiby H S, Green O. Weed identification using an automated active shapematching(AASM）technique. Biosystems Engineering,2011; 110: 450-457.   \n[8]Guerrero JM, Pajares G, Montalvo M, Romeo J, Guijarro M. Support vector machines for crop/weeds identification in maize fields.Expert Systems with Applications,2012; 39: 11149-11155.   \n[9]Wu L L,Liu JY, Wen Y X,Deng X Y.Weed identification method based on SVM in the corn field.Transactions of the CSAM,2009； 40(1):162-166.(in Chinese with English abstract)   \n[10] Tellaeche A,Pajares g, Burgos-Artizzu X P, Ribeiro A.A computer vision approach for weeds identification through support vector machines. Applied Soft Computing，2011; 11: 908-915.   \n[11] Neto JC,Meyer G E, Jones D D,Surkan A J. Adaptive image segmentation using a fuzzy neural network and genetic algorithm for weed detection. ASAE Annual Meeting, Les Vegas, NV,2003; Paper No. 033088.   \n[12] Kavdlr I.Discrimination of sunflower, weed and soil by artificial neural networks.Computers and Electronics in Agriculture,2004; 44(2): 153-160.   \n[13] Lulio L C,Tronco ML,Porto AJV.ANN statistical image recognition method for computer vision in agricultural mobile robot navigation． Proceedings of the 2O1O IEEE International Conference on Mechatronics and Automation, Xi'an, China,2010;pp.1771-1776.   \n[14] Jin J,Tang L. Corn plant sensing using real-time stereo vision. Journal ofField Robotics,2009;26(6):591-608.   \n[15] Nieuwenhuizen A T,Hofstee JW,Henten E J.Adaptive detection of volunteer potato plants in sugar beet fields. Precision Agric,2010;11: 433-447.   \n[16]O'Dogherty MJ,Godwin RJ,Dedousis AP,Brighton JL, Tillett N D.A mathematical model of the kinematics of a rotating disc for inter and intra-row hoeing.Biosystems Engineering,2007; 96(2): 169-179.   \n[17] Huang XL,Liu W D, Zhang CL, Zhang Y,Li W.Optimal design of rotatingdisc for intra-rowweeding robot. Transactions of the CSAM,2012; 43(6): 42-46. (in Chinese with English abstract)   \n[18] Montalvo M,Guerrero JM,Romeo J,Emmi L,Guijarro M, Pajares G.Automatic expert system for weeds/crops identification in images from maize fields.Expert Systems with Applications,2013;40: 75-82.   \n[19]Woebbecke D M,Meyer G E,Bargen K V,Mortensen DA. Color indices for weed identification under various soil, residue and lighting conditions. Transactions of the ASAE, 1995; 38(1): 259-269.   \n[20] Otsu N.A threshold selection method from gray-level histogram. IEEE Transaction on System Manand Cybernetics,1979;9: 62-66.   \n[21]Tian L F, Slaughter D C.Environmentally adaptive segmentation algorithm for outdoor image segmentation. Computers and Electronics in Agriculture,1998；21: 153-168.   \n[22] Hague T,Tillett N D.A bandpass filter approach to crop row location and tracking.Mechatronics,20o1；11(1): 1-12.   \n[23] Sgaard H T,Olsen HJ.Determination of crop rows by image analysis without segmentation. Computersand Electronics in Agriculture,2003;38(2): 141-158.   \n[24] Rao H H， Ji C Y.Crop-row detection using Hough transformbasedonconnectedcomponentlabeling. Transactions of the CSAE,2007; 23(3): 146-150.(in Chinese with English abstract)   \n[25] Zhang H, Chen B, Zhang L. Detection algorithm for crop multi-centerlines based on machine vision. Transactions of the ASABE,2008;51(3):1089-1097.   \n[26] Xue JL，Zhang L，Grift T E.Variable field-of-view machine vision based row guidance of an agricultural robot. Computers and Electronics in Agriculture,2012;84: 85-91.   \n[27]Guerrero JM,Guijarro M,Montalvo M,Romeo J,Emmi L, Ribeiro A,Pajares G.Automatic expert system based on images for accuracy crop row detection in maize fields. Expert Systems with Applications,2013; 40: 656-664. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,206 @@
+# 固相萃取-超高效液相色谱-串联质谱法测定饲料中沃尼妙林和泰妙菌素
+
+王凤芹 杨媛媛 陈楚昊 胡喻涵 路则庆 汪以真\*（浙江大学饲料科学研究所，浙江省饲料与动物营养重点实验室，杭州310058）
+
+摘要：本试验旨在建立一种高效快速测定饲料中沃尼妙林和泰妙菌素的固相萃取-超高效液相色谱-串联质谱方法。用甲醇提取饲料中的沃尼妙林和泰妙菌素，经过Oasis MCX 固相萃取柱净化后，由 $\mathrm { C } _ { 1 8 }$ 色谱柱分离，流动相为水（含 $0 . 1 \%$ 甲酸）-乙腈（含 $0 . 1 \%$ 甲酸)，梯度洗脱，以电喷雾离子源（ESI）正离子扫描方式，在多反应监测（MRM）模式下进行测定，外标法定量。结果表明：本试验建立的固相萃取-超高效液相色谱-串联质谱法对饲料中沃尼妙林和泰妙菌素的检测限分别为25.0 和 ${ 5 . 0 \ \mathrm { n g / g } }$ 。沃尼妙林和泰妙菌素浓度在 $0 . 0 1 { \sim } 5 . 0 0$ $\mu \mathrm { g / m L }$ 范围内线性关系良好，相关系数 $( R ^ { 2 }$ )均大于 $0 . 9 9$ 。在3个添加水平（2.5、25.0、125.0mg/kg）下，沃尼妙林的回收率为 $8 5 . 1 7 \% { \sim } 9 4 . 5 5 \%$ ，相对标准偏差（RSD）为 $2 . 5 6 \% { \sim } 7 . 6 5 \%$ 泰妙菌素的回收率为 $8 4 . 6 9 \% { \sim } 9 9 . 3 6 \%$ ，RSD为 $1 . 5 7 \% { \sim } 4 . 9 5 \%$ 。结果表明，本试验建立的固相萃取-超高效液相色谱-串联质谱法操作简单、准确度高，可应用于饲料中沃尼妙林和泰妙菌素的快速定量测定。
+
+关键词：固相萃取；超高效液相色谱-串联质谱；饲料；沃尼妙林；泰妙菌素中图分类号：S859.84;S948 文献标识码： 文章编号：
+
+20 世纪50年代以来，为了促进动物生长和提高动物的健康水平，大量的兽药被用于畜牧业生产。然而，这些药物在食品生产性动物中的滥用和过度使用会导致其在肉、蛋和奶等产品中残留[1-5]。为了确保人畜安全，自2006 年开始，欧盟全面禁止在食品生产性动物中使用抗生素作为促生长饲料添加剂[。然而，抗生素仍然有可能被非法添加到饲料中。因此，监测饲料中的抗生素残留对于保障动物源性食品安全具有重要意义，监测饲料中的药物含量也就成为确保饲料和食品安全的重要手段[7]。
+
+沃尼妙林与泰妙菌素（图1）属同一类药物，是新一代截短侧耳素类半合成抗生素[8-9],属于双烯萜类，因其对革兰氏阳性菌及支原体有特效而被广泛使用在畜禽和水产养殖业以及饲料添加剂中。
+
+![](images/692a827fb092ed3fc23478b50529f7a457b65d51fb3cf95aa4db39aa76d79ac9.jpg)  
+图1沃尼妙林（a）和泰妙菌素（b）的化学结构  
+Fig.1Chemical structure of valnemulin (a) and tiamulin (b)
+
+目前，针对沃尼妙林和泰妙菌素这2种物质含量的检测方法主要有高效液相色谱（HPLC）法[10-12]和高效液相色谱质谱联用（HPLC-MS）法[13-16]。欧盟非强制执行法案（2002/657/EC）引入了质谱分析方法鉴定点数（identification point,IP）的概念。作为用于确定动物来源样品的确认方法，建议抗生素检测应基于不止一个特征。液相色谱串联质谱（LC-MS/MS）法在多反应监测（MRM）模式下，产生1个母离子和2个子离子，可提供4个IP，可用于抗生素的定量检测。而HPLC 耦合二极管阵列检测器只能产生1个 $\mathrm { I P ^ { [ 6 ] } }$ 。因此，对于沃尼妙林和泰妙菌素这2种物质的定量检测多采用LC-MS/MS 法。目前，对沃尼妙林和泰妙菌素含量检测的文献报道大多针对畜禽肉制品、水产品、牛奶、蜂蜜等动物源性食品[15,17-22]，而以饲料为分析对象的相关研究还比较少。
+
+从饲料的成分来讲，它可能包括谷类食品、糖类或水果、脂肪、根或块茎、豆科或油脂植物、氨基酸和矿物质等。因此，饲料基质本身是一种极为复杂的样品，在检测抗生素的过程中，主要干扰物有碳水化合物、脂类、蛋白质、维生素、无机物、添加剂以及污染物和残留物等。这些物质有可能被一起提取出来，导致在LC-MS/MS 法检测沃尼妙林和泰妙菌素含量过程中的信号抑制[6.23]，只有有效地提取和净化才能保证抗生素含量的准确测定。
+
+鉴于此，本试验针对配合饲料、浓缩饲料、预混合饲料这3种饲料样本，对仪器条件及前处理方法进行优化，拟成功建立一种快速有效监测饲料中沃尼妙林和泰妙菌素含量的固相萃取-超高效液相色谱-串联质谱（SPE-UPLC-MS/MS）法。
+
+1材料与方法
+
+# 1.1 试验材料
+
+1.1.1 试剂
+
+盐酸沃尼妙林（纯度 $: \geq 9 9 . 9 5 \%$ ）购自加拿大Toronto公司。泰妙菌素（纯度 $2 9 8 \%$ ）和色谱级甲酸（纯度 $2 9 8 \%$ ）购自美国Aladdin公司。色谱级甲醇和乙腈购自美国 Sigma-Aldrich
+
+公司。MCX固相萃取柱（ $6 0 ~ \mathrm { m g }$ ，3 CC）购自美国WatersOasis公司。氨水为分析纯，购自国药集团化学试剂有限公司。饲料样品由浙江科盛饲料股份有限公司提供。
+
+# 1.1.2 主要仪器
+
+超高效液相色谱-质谱联用仪（Waters ACQUITYTM UPLC TQ Mass detector，美国 Waters公司）、KQ-500E 超声波清洗器（昆山市超声仪器有限公司）、超纯水仪（德国 EMD Millipore公司）、电子分析天平（瑞士Mettler Toledo 公司）、ST40R离心机（美国 Thermo 公司）、氮吹仪（美国 Organomation 公司）。
+
+1.2 样品的预处理
+
+1.2.1提取
+
+称取 $2 . 0 \ \mathrm { g }$ 的饲料样品于 $5 0 ~ \mathrm { m L }$ 离心管中，加入 $1 5 ~ \mathrm { m L }$ 甲醇[24]，置于超声波清洗器中超声振荡 $3 0 \mathrm { m i n }$ ，将上述提取液离心 $1 0 \mathrm { m i n }$ ，转速设为 $5 0 0 0 \mathrm { r / m i n }$ ，收集上清液，并向沉淀中加入 $1 5 ~ \mathrm { m L }$ 甲醇，再次超声振荡 $3 0 \mathrm { m i n }$ ，按上述方法离心，离心结束后合并2次上清液，加入 $0 . 2 \%$ 甲酸水溶液，用容量瓶定容至 $5 0 ~ \mathrm { m L }$ 备用。
+
+# 1.2.2 净化
+
+从容量瓶中移取 $1 \mathrm { m L }$ 提取液，上MCX固相萃取柱，依次用 $2 \mathrm { m L } 6 0 \%$ 甲醇水溶液（含$0 . 1 \%$ 甲酸） $2 \mathrm { m L } 5 \%$ 甲酸水溶液、 $2 \mathrm { m L }$ 甲醇淋洗MCX固相萃取柱，弃去淋洗液。然后用$2 \mathrm { m L } 5 \%$ 氨水甲醇溶液洗脱，收集洗脱液， $5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 水浴，氮气吹干[24]。加入 $2 \mathrm { m L } 2 0 \%$ 乙腈水溶液（含 $0 . 1 \%$ 甲酸)，过 $0 . 2 2 \mu \mathrm { m }$ 滤膜，待超高效液相色谱-串联质谱(UPLC-MS/MS)分析。1.3UPLC-MS/MS分析条件
+
+# 1.3.1色谱条件
+
+色谱柱：BEH $\mathrm { C _ { 1 8 } }$ ， $5 0 \mathrm { m m } { \times } 2 . 1 \mathrm { m m }$ ，粒径 $1 . 7 \mu \mathrm { m }$ ；进样量： $2 \mu \mathrm { L }$ ；流速： $0 . 5 \mathrm { m L } / \mathrm { m i n } ^ { [ 2 5 ] }$ 流动相A相： $0 . 1 \%$ 甲酸水溶液，流动相B相： $0 . 1 \%$ 甲酸乙腈溶液，色谱分离梯度洗脱条件如表1所示。
+
+表1流动相梯度洗脱条件  
+Table1 Gradient elution conditions of mobile phases   
+
+<html><body><table><tr><td>时间 Time/min</td><td>A/% B/%</td><td>曲线类型 Curve type</td></tr><tr><td>0</td><td>80 20</td><td>6</td></tr><tr><td>2.0</td><td>20 80</td><td>6</td></tr><tr><td>2.5</td><td>10 90</td><td>6</td></tr><tr><td>3.8</td><td>10 90</td><td>6</td></tr><tr><td>4.0</td><td>80 20</td><td>6</td></tr><tr><td>5.0</td><td>80 20</td><td>6</td></tr></table></body></html>
+
+1.3.2质谱条件  
+离子源：电喷雾离子源；扫描模式：正离子扫描；检测方式：MRM；毛细管电压：3.5
+
+kV；离子源温度： $1 5 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ ；雾化温度： $5 0 0 \mathrm { ~ \textdegree ~ }$ ；雾化气、气帘气、辅助加热气为高纯氮气，碰撞气为高纯氩气。
+
+按照欧盟规定（2002/657/EC)，在质谱条件中，本试验每种物质选择了1个母离子，2个子离子。质谱分析条件如表2所示。
+
+表2质谱分析条件  
+Table 2 Conditions used for MS analysis   
+
+<html><body><table><tr><td>化合物 Compounds</td><td>定性离子对 Qualitative ion</td><td>定量离子对 Quantification ion</td><td>驻留时间 Dwell</td><td>锥孔电压 Cone</td><td>碰撞能量 Collision</td></tr><tr><td></td><td>pair/(m/z)</td><td>pair/(m/z)</td><td>time/s</td><td>voltage/V</td><td>energy/V</td></tr><tr><td>沃尼妙林</td><td>565.33/263.02</td><td>565.33/263.02</td><td>0.061</td><td>22</td><td>16</td></tr><tr><td>Vanemulin</td><td>565.33/163.88</td><td></td><td>0.061</td><td>22</td><td>32</td></tr><tr><td>泰妙菌素</td><td>494.29/192.01</td><td>494.29/192.01</td><td>0.061</td><td>32</td><td>22</td></tr><tr><td>Tiamulin</td><td>494.29/118.96</td><td></td><td>0.061</td><td>32</td><td>34</td></tr></table></body></html>
+
+1.4 标准曲线的制备
+
+准确称取 $1 3 . 3 1 \mathrm { m g }$ 盐酸沃尼妙林标准物质，用乙腈溶解并定容于 $2 5 ~ \mathrm { m L }$ 容量瓶中，配制成沃尼妙林浓度为 $5 0 0 . 0 \mu \mathrm { g / m L }$ 的储备液；准确称取 $1 2 . 5 0 \mathrm { m g }$ 泰妙菌素标准物质，用乙腈溶解并定容于 $2 5 ~ \mathrm { m L }$ 容量瓶中，配制成泰妙菌素浓度为 $5 0 0 . 0 \mu \mathrm { g / m L }$ 的储备液；吸取等体积的沃尼妙林和泰妙菌素储备液混合配成沃尼妙林和泰妙菌素浓度均为 $2 5 0 . 0 ~ \mu \mathrm { g / m L }$ 的混合标准工作液。
+
+将沃尼妙林和泰妙菌素浓度均为 $2 5 0 . 0 ~ \mu \mathrm { g / m L }$ 的混合标准工作液稀释成7个浓度梯度(0.25、1.25、2.50、12.50、25.00、62.50 和 $1 2 5 . 0 0 ~ \mu \mathrm { g / m L }$ )，称取7份空白饲料样品各 $2 . 0 \ \mathrm { g }$ 取上述7个浓度梯度的混合标准工作液各 $4 ~ \mathrm { m L }$ ，依次添加到7份 $2 . 0 \ \mathrm { g }$ 的空白饲料中，并按照1.2中方法对7份空白饲料进行处理，得到浓度依次为0.01、0.05、0.10、0.50、1.00、2.00和 $5 . 0 0 ~ \mu \mathrm { g / m L }$ 的沃尼妙林和泰妙菌素饲料基质混合标准工作液。每个浓度设2个平行，每个平行样进2针。另外称取6份空白配合饲料样品，除不添加混合标准工作液外，其他处理同上，作为空白基质。将上述样品过 $0 . 2 2 \mu \mathrm { m }$ 滤膜，待UPLC-MS/MS分析。
+
+# 1.5方法的准确度与精密度
+
+考虑到饲料中沃尼妙林和泰妙菌素的临床添加浓度在 ${ 5 { \sim } } 2 0 0 ~ \mathrm { { \mu } g / g }$ ，以及过高的检测浓度可能对液质联用仪造成污染等情况，本试验分别取1.25、12.5以及 $6 2 . 5 \mu \mathrm { g } / \mathrm { m L } 3$ 个浓度的混合标准工作液加入到饲料基质中，得到最终计算浓度为2.5、25.0以及 $1 2 5 . 0 \mathrm { m g / k g }$ 的3个药物添加水平。每种饲料在每个浓度下设6个平行，每个平行样进2针，计算回收率及变异系数。
+
+# 1.6 数据处理与分析
+
+数据处理采用Excel2010统计分析软件进行处理和计算，结果以平均值来表示。
+
+# 2结果与分析
+
+# 2.1方法的线性范围
+
+按照1.4的步骤进行处理，结果显示，在浓度为 $0 . 0 1 { \sim } 5 . 0 0 ~ \mu \mathrm { g / m L }$ 浓度范围内，沃尼妙林的标准曲线方程为 $y = 3 1 5 . 8 x - 2 1 \ 8 5 5 . 8$ ，相关系数 $\scriptstyle ( R ^ { 2 } ) \ = 0 . 9 9 8 \ 8$ ；泰妙菌素的标准曲线方程为 $y = 5 5 2 . 9 x + 5 9 \ 1$ 124.5， $R ^ { 2 } { = } 0 . 9 9 6 ~ 1$ 。
+
+# 2.2方法的检测限与定量限
+
+本试验中选定沃尼妙林的检测限为 $2 5 . 0 \mathrm { n g / g }$ ，泰妙菌素的检测限为 $5 . 0 \mathrm { n g / g }$ ，检测限均大于3倍信躁比；沃尼妙林和泰妙菌素的定量限均为 $0 . 5 ~ { \mu \mathrm { g / g } }$ ，定量限大于10倍信躁比，满足国际分析方法性能的要求。
+
+# 2.3方法的准确度与精密度
+
+本方法以配合饲料、浓缩饲料和预混合饲料为研究对象，称取 $2 . 0 \ \mathrm { g }$ 饲料，分别加入沃尼妙林和泰妙菌素浓度为1.25、12.5以及 $6 2 . 5 \mu \mathrm { g / m L }$ 的混合标准工作液 $4 ~ \mathrm { m L }$ ，按照“1.2”的操作方法制备样品溶液,每个加标水平重复6次,结果见表3。在添加水平为 $2 . 5 { \sim } 1 2 5 \ \mathrm { m g / k g }$ 范围内，沃尼妙林的回收率为 $8 5 . 1 7 \% { \sim } 9 4 . 5 5 \%$ ，相对标准偏差（RSD）为 $2 . 5 6 \% { \sim } 7 . 6 5 \%$ ，泰妙菌素的回收率为 $8 4 . 6 9 \% { \sim } 9 9 . 3 6 \%$ ，RSD为 $1 . 5 7 \% { \sim } 4 . 9 5 \%$ 。并且，由空白饲料色谱图（图2)可以看出，空白饲料完全没有沃尼妙林和泰妙菌素，在基质添加标准溶液色谱图（图3）中可以看出，峰形尖锐且没有杂峰干扰，表明该测定方法稳定，能满足国内外兽药残留检测分析方法性能的要求。
+
+![](images/bad7be13ab4acc6b9604a93a79f1b122f56c292c345a792f1957194cd36e708e.jpg)  
+图2空白饲料色谱图  
+Fig.2Chromatograms of blank feed
+
+![](images/46eb5c65667478ce970b2eaf53c2dcf6337afebc525f85102dd7ee28dbd33e99.jpg)  
+图3基质添加标准溶液 $( 0 . 0 5 ~ \mu \mathrm { g / m L }$ 色谱图  
+Fig.3Chromatograms of matrix with standard solution $( 0 . 0 5 \mu \mathrm { g / m L }$ 0
+
+# 表3饲料样品中的沃尼妙林和泰妙菌素回收率
+
+Table 3Recoveries of valnemulin and tiamulin in feed samples $( n { = } 6 )$ $\%$   
+
+<html><body><table><tr><td rowspan="3">化合物 Compounds</td><td rowspan="3">添加水平 Supplemental level/(mg/kg)</td><td colspan="2">配合饲料 Formula feed</td><td colspan="2">浓缩料 Concentrated feed</td><td colspan="2">预混合饲料 Premix feed</td></tr><tr><td colspan="2">回收率</td><td colspan="2">回收率</td><td colspan="2">回收率</td></tr><tr><td>Recovery</td><td>相对标 准偏差 RSD</td><td>Recovery</td><td>相对标 准偏差</td><td>Recovery</td><td>相对标 准偏差</td></tr><tr><td>沃尼妙林</td><td>2.5</td><td>85.17</td><td>3.5</td><td>87.76</td><td>RSD 4.75</td><td>94.55</td><td>RSD 6.91</td></tr><tr><td>Valnemulin</td><td>25.0</td><td>93.73</td><td>4.95</td><td>87.56</td><td>2.56</td><td>94.07</td><td>6.66</td></tr><tr><td></td><td>125.0</td><td>93.88</td><td>6.23</td><td>87.02</td><td>7.65</td><td>87.1</td><td>5.3</td></tr><tr><td>泰妙菌素</td><td>2.5</td><td>84.79</td><td>3.32</td><td>85.68</td><td>4.31</td><td>99.36</td><td>2.45</td></tr><tr><td>Timulin</td><td>25.0</td><td>84.69</td><td>1.88</td><td>84.81</td><td>3.82</td><td>95.13</td><td>2.82</td></tr><tr><td></td><td>125.0</td><td>91.71</td><td>4.05</td><td>95.83</td><td>1.57</td><td>91.7</td><td>4.95</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1样品基质效应
+
+样品的基质会对药物产生抑制或增强作用[24]，本试验检测上机浓度为 $0 . 0 5 \mu \mathrm { g / m L }$ 的混合标样与饲料基质标准溶液，统计2种标准溶液中沃尼妙林的子离子263.02和泰妙菌素的子离子192.01的含量时发现：沃尼妙林标准品的子离子263.02平均峰面积为12353，而饲料基质标准溶液的子离子263.02平均峰面积为11680；泰妙菌素标准品的子离子192.01的平均峰面积为51487，而饲料基质标准溶液的子离子192.01平均峰面积为44116。由于基质的影响面积均有下降，表明饲料基质对沃尼妙林和泰妙菌素均产生了抑制效应，所以本试验采用了空白饲料样品添加沃尼妙林和泰妙菌素的方法绘制标准曲线进行外标校正。
+
+# 3.2固相萃取柱的选择
+
+本试验发现，未经固相萃取柱净化的样品会产生较强的基质效应[26]，造成色谱柱污染，峰形变宽、柱压升高以及灵敏度下降等一系列问题。在这种情况下，本试验在参考文献[0-l1]的基础上，尝试了3种规格的MCX固相萃取柱3CC（ $6 0 ~ \mathrm { m g }$ ）、6CC（ $1 5 0 \mathrm { m g }$ ）和6CC（500mg)，结果发现2种6CC规格的固相萃取柱需要更多的洗脱液，而样品经3CC（ $6 0 \mathrm { m g }$ ）规格的固相萃取柱净化后可完全消除基质效应，并且得到可靠的试验结果。因此，从效率和经济的角度考虑，本试验最终选择了3CC（ $6 0 ~ \mathrm { m g }$ ）这个规格的MCX固相萃取柱用于饲料样品的净化。
+
+# 3.3净化条件的选择
+
+Oasis MCX填料是一种混合型阳离子交换反相吸附剂，对碱性化合物具有很高的选择性和灵敏度。它提供了离子交换和反相双重保留模式。在净化程序上，对于Oasis MCX 固相萃取柱的应用，一般文献会先依次用甲醇、水和甲酸水溶液对其进行预活化[10,14]，再进行上样。本研究经过试验发现，不需要经过预活化，直接对Oasis MCX固相萃取柱进行上样，随即再进行洗脱，完全可以消除基质效应，同时得到较高的回收率。
+
+# 3.4氮吹仪水浴温度的选择
+
+参考文献中对于含沃尼妙林和泰妙菌素的提取液或洗脱液的浓缩多采用氮吹仪，而水浴温度设置有 $3 7 ^ { [ 2 5 ] } \cdot 4 0 ^ { [ 2 7 ] }$ 和 $5 0 ^ { \circ } \mathrm { C } ^ { [ 2 4 ] } 3$ 个温度，本试验对沃尼妙林和泰妙菌素浓度为 $0 . 1 0 ~ \mu \mathrm { g / m L }$ 的混合标准工作液采用上述3个温度进行了氮气浓缩再稀释测定，与不经过浓缩直接配制的$0 . 1 0 ~ \mu \mathrm { g / m L }$ 混合标准工作液相比，发现不同的水浴温度对于沃尼妙林和泰妙菌素并没有影响，结果如表4所示。因此，为了提高试验效率，本试验选定水浴温度为 $5 0 ^ { \circ } \mathrm { C }$ 。
+
+表4不同水浴温度下沃尼妙林和泰妙菌素的回收率  
+Table 4Recoveries of valnemulin and tiamulin at different bath temperatures ( $( n { = } 6 )$ 号 %   
+
+<html><body><table><tr><td rowspan="2">化合物</td><td colspan="2">水浴温度</td><td colspan="2">水浴温度</td><td colspan="2">水浴温度</td></tr><tr><td colspan="2">Bath temperature:37 ℃</td><td colspan="2">Bath temperature：40 ℃</td><td colspan="2">Bath temperature: 50 ℃</td></tr><tr><td rowspan="3">Compounds</td><td>回收率</td><td>相对标准</td><td>回收率</td><td>相对标准</td><td>回收率</td><td>相对标准</td></tr><tr><td>Recovery</td><td>偏差RSD</td><td>Recovery</td><td>偏差RSD</td><td>Recovery</td><td>偏差RSD</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>沃尼妙林 Valnemulin</td><td>99.35</td><td>7.25</td><td>101.35</td><td>8.12</td><td>97.27</td><td>8.64</td></tr><tr><td>泰妙菌素 Timulin</td><td>97.72</td><td>4.27</td><td>97.85</td><td>4.60</td><td>96.58</td><td>4.63</td></tr></table></body></html>
+
+4结论
+
+$\textcircled{1}$ 本试验依次用 $2 m L 6 0 \%$ 甲醇水溶液（含 $0 . 1 \%$ 甲酸）、 $2 \mathrm { m L } 5 \%$ 甲酸水溶液、 $2 \mathrm { m L }$ 甲醇淋洗MCX固相萃取柱，然后用 $2 \mathrm { m L } 5 \%$ 氨水甲醇溶液洗脱，可得到获得净化的含沃尼妙林和泰妙菌素的提取液，成功建立了固相萃取净化程序。  
+$\textcircled{2}$ 本试验通过外标法校正基质干扰，通过UPLC-MS/MS分析，建立了定量测定饲料中沃尼妙林和泰妙菌素的方法。该方法中沃尼妙林和泰妙菌素的检测限分别为25.0和 $5 . 0 \mathrm { n g / g }$ 。
+
+$\textcircled{3}$ 沃尼妙林和泰妙菌素浓度在 $0 . 0 1 { \sim } 5 . 0 0 ~ \mu \mathrm { g / m L }$ 范围内线性关系良好， $R ^ { 2 }$ 均大于
+
+0.99。在3个浓度（2.5、25.0、 $1 2 5 . 0 \mathrm { m g / k g }$ ）下进行添加试验，沃尼妙林的回收率为 $8 5 . 1 7 \% { \sim } 9 4 . 5 5 \%$ ，RSD为 $2 . 5 6 \% { \sim } 7 . 6 5 \%$ ，泰妙菌素的回收率为 $8 4 . 6 9 \% { \sim } 9 9 . 3 6 \%$ RSD为 $1 . 5 7 \% { \sim } 4 . 9 5 \%$ 。
+
+$\textcircled{4}$ 综上，本试验建立的SPE-UPLC-MS/MS 法操作简单，准确度高，可应用于饲料中沃尼妙林和泰妙菌素的快速定量分析。
+
+# 参考文献:
+
+[1] BECKER M,ZITTLAU E,PETZ M.Residue analysis of 15 penicillins and cephalosporins in bovine muscle,kidney and milk by liquid chromatography-tandem mass spectrometry[J].Analytica Chimica Acta,2004,520(1/2):19-32.
+
+[2] BERRADA H,BORRULL F,FONT G,et al.Determination of macrolide antibiotics in meat and fish using pressurized liquid extraction and liquid chromatography-mass spectrometry[J].Journal of Chromatography A,2008,1208(1/2):83-89.
+
+[3] BOGIALLI S,CIAMPANELLA C,CURINI R,et al.Development and validation of a rapid assay based on liquid chromatography-tandem mass spectromtetry for determining macrolide antibiotic residues in eggs[J].Journal of Chromatography A,2009,1216(40):6810-6815.
+
+[4] CARRETERO V,BLASCO C,PICO Y.Multi-class determination of antimicrobials in meat by pressurized liquid extraction and liquid chromatography-tandem mass spectrometry[J].Journal of Chromatography A,2008,1209(1/2):162-173.
+
+[5] HERMO M P,NEMUTLU E,KIR S,et al.Improved determination of quinolones in milk at their MRL levels using LC-UV,LC-FD,LC-MS and LC-MS/MS and validation in line with regulation 2002/657/EC[J].Analytica Chimica Acta,2008,613(1):98-107.
+
+[6] BOSCHER A,GUIGNARD C,PELLET T,et al.Development of a multi-class method for the quantification of veterinary drug residues in feedingstuffs by liquid chromatography-tandem mass spectrometry[J].Journal of Chromatography A,2010,1217(41):6394-6404.
+
+[7] ZHANG G J,FANG B H,LIU Y H,et al.Development of a multi-residue method for fast screening and confirmation of 2O prohibited veterinary drugs in feedstuffs by liquid chromatography tandem mass spectrometry[J].Journal of Chromatography B,2013,936:10-17.
+
+[8] HUANG Q S,LI J C,XIA L J,et al.Residue depletion of valnemulin in swine tissues after oral administration[J].Analytica Chimica Acta,2010,664(1):62-67.
+
+[9] SUN F F,YANG S P,ZHANG H Y,et al.Comprehensive analysis of tiamulin metabolites in various species of farm animals using ultra-high-performance liquid chromatography coupled to quadrupole/time-of-flight[J].Journal of Agricultural and Food Chemistry,2017,65(1):199-207.
+
+[10] 杨军艳.盐酸沃尼妙林注射注液的制备及质量研究[D].硕士学位论文.石家庄:河北科技大学,2011:10-11.
+
+[11]程林丽,张素霞,沈建忠,等.高效液相色谱法快速检测猪组织中泰妙菌素残留[J].分析化学,2009,37(5):718-720.
+
+[12] GUO H B,LIU K Y,LIU Y H,et al.Molecularly imprinted solid-phase extraction for the selectivedetermination ofvalnemulin in feedswithhighperformance liquid chromatography[J].Journal of Chromatography B,2011,879(2):181-185.
+
+[13] GUO C N,WANG M R,XIAO H,et al.Development of a modified QuEChERS method for the determination of veterinary antibiotics in swine manure by liquid chromatography tandem mass spectrometry[J].Journal of Chromatography B,2016,1027:110-118.
+
+[14] 王蕊,远立国,贺利民,等.液相色谱-串联质谱法测定鸡组织中沃尼妙林残留[J].分析化学,2010,38(7):1031-1035.
+
+[15] BOHM D A,STACHEL C S,GOWIK P.Validated determination of eight antibiotic substance groups in cattle and pig muscle by HPLC/MS/MS[J].Journal ofAOAC International,2011,94(2):407-419.
+
+[16]耿士伟,朱志谦,曲斌,等.高效液相-串联质谱法测定畜禽肌肉中泰妙菌素残留[J].畜牧与兽医,2012,44(8):21-24.
+
+[17] LI H,WANG Y Y,LI X W,et al.Determination of valnemulin in swine and bovine tissues by ultra-high performance liquid chromatography-tandem mass spectrometry[J].Journal of Chromatography B,2016,1014:102-106.
+
+[18] BOHM D A,STACHEL C S,GOWIK P.Validation of a multi-residue method for the determination of several antibiotic groups in honey by LC-MS/MS[J].Analytical and Bioanalytical Chemistry,2012,403(10):2943-2953.
+
+[19] RIZZETTI T M,DE SOUZA M P,PRESTES O D,et al.Optimization of sample preparation by central composite design for multi-class determination of veterinary drugs in bovine muscle,kidney and liver by ultra-high-performance liquid chromatographic-tandem mass spectrometry[J].Food Chemistry,2018,246:404-413.
+
+[20] KANDA M,NAKAJIMA T,HAYASHI H,et al.Multi-residue determination of polar veterinary drugs in livestock and fisheryproductsby liquid chromatography/tandemmass spectrometry[J].Journal of AOAC International,2015,98(1):230-247.
+
+[21] KANG J,FAN C L,CHANG Q Y,et al.Simultaneous determination of multi-class veterinary drug residues in different muscle tissues by modified QuEChERS combined with HPLC-MS/MS[J].Analytical Methods,2014,6(16):6285-6293.
+
+[22] STOLKER A A M,RUTGERS P,OOSTERINK E,et al.Comprehensive screening and quantification of veterinary drugs in milk using UPLC-ToF-MS[J]. Analytical and Bioanalytical Chemistry,2008,391(6):2309-2322.
+
+[23] BORRAS S,COMPANYO R,GRANADOS M,et al.Analysis of antimicrobial agents in animal feed[J].TrAC Trends in Analytical Chemistry,2011,30(7):1042-1064.
+
+[24] ROBERT C,GILLARD N,BRASSEUR P Y,et al.Rapid multiresidue and multi-class screening for antibiotics and benzimidazoles in feed by ultra high performance liquid chromatography coupled to tandem mass spectrometry[J].Food Control,2015,50:509-515.
+
+[25]于倩倩,汪霞,李一婧,等.超高效液相色谱-串联质谱快速检测猪肉中的沃尼妙林残留[J]中国兽药杂志,2011,45(4):24-27.
+
+[26] NIESSEN W M A,MANINI P,ANDREOLI R.Matrix effects in quantitative pesticide analysis using liquid chromatography-mass spectrometry[J].Mass Spectrometry Reviews,2006,25(6):881-899.
+
+[27] 范光辉.猪肉中沃尼妙林和泰妙菌素残留高效液相色谱-串联质谱检测方法的建立[D].硕士学位论文.保定：河北农业大学,2013:15
+
+Determination of Valnemulin and Tiamulin in Feed by Solid Phase Extraction-Ultra Performance Liquid Chromatography-Tandem Mass Spectrometry
+
+WANG Fengqin YANG Yuanyuan CHEN Chuhao HU Yuhan LU ZeqingWANG Yizhen\* (Key Laboratory ofAnimal Feed and Nutrition of Zhejiang Province, Feed Science Institute of Zhejiang University, Hangzhou 310058, China)
+
+Abstract: This experiment was conducted to develop a fast and effective method for the determination of valnemulin and tiamulin in feed by solid phase extraction-ultra performance liquid chromatography-tandem mass spectrometry (SPE-UPLC-MS/MS). After the feed sample was extracted by methanol and cleaned-up on a Oasis MCX solid phase extraction (SPE) column, the valnemulin and tiamulin were separated by a $\mathrm { C _ { 1 8 } }$ chromatographic column with gradient elution using $0 . 1 \%$ formic acid in water and $0 . 1 \%$ formic acid in acetonitrile as mobile phase, and finally quantified for the external standard method under the multiple reaction monitoring (MRM) mode in the positive ionization scanning mode using electrospray ionization (ESI). The results showed that the limit of detection (LOD) of the SPE-UPLC-MS/MS method developed in this experiment was $2 5 . 0 ~ \mathrm { n g / g }$ for valnemulin and $5 . 0 ~ \mathrm { n g / g }$ for tiamulin. The correlation coefficient of linear calibration curve for valnemulin and tiamulin was over 0.99 within the concentration range 0.01 to $5 . 0 0 ~ \mu \mathrm { g / m L }$ . At the three supplemental levels (2.5,25.0 and $1 2 5 . 0 \mathrm { m g / k g } \$ , the recovery for the valnemulin was between $8 5 . 1 7 \%$ and $9 4 . 5 5 \%$ and the relative standard deviation (RSD) was from $2 . 5 6 \%$ to $7 . 6 5 \%$ ; the recovery for the tiamulin was between $8 4 . 6 9 \%$ and $9 9 . 3 6 \%$ and the RSD was from $1 . 5 7 \%$ to $4 . 9 5 \%$ .The results showed that the SPE-UPLC-MS/MS method developed in this experiment is simple and sensitive,and it is fit for the rapid and quantitative determination of valnemulin and tiamulin in feed.
+
+Key words: solid phase extraction； ultra performance liquid chromatography-tandem mass spectrometry; feed; valnemulin; tiamulin

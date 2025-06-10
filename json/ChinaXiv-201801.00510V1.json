@@ -1,0 +1,675 @@
+[
+    {
+        "type": "text",
+        "text": "Effects of mulches on water use in a winter wheat/ summer maize rotation system in Loess Plateau, China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YIN Minhua1,2, LI Yuannong1.2\\*, XU Yuanbo1.2, ZHOU Changming3 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1KeyLaboratoryofAgriculturalSoilandWaterEngineeringinAridandSemiaridAreas,MinistryofEducation,NorthwestA&F University, Yangling 712100, China; 2College of Water Resources and Architectural Engineering,Northwest A&FUniversity,Yangling7121o0,China; 3 School of Environmentaland Land Resource Management,JiangxiAgriculturalUniversityNanchang 33o045,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Limited water resources often result in reduced crop yield and low water productivity (WP). In northwestern China, crop production is generally dependent on precipitation. Therefore, a variety of agricultural rainwater harvesting (ARH) techniques have been used for conserving soil moisture, ameliorating soil environment,increasing crop yield,and improving water use eficiency. A two-year (2013- 2015) field experiment was conducted under a typical sub-humid drought-prone climate in Yangling 0 $1 0 8 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E }$ 。 $3 4 ^ { \\circ } 2 0 \\mathrm { N }$ ：3 $5 2 1 \\mathrm { ~ m ~ }$ a.s.l.), Shaanxi Province, China, to explore the effects of mulching (same for summer maize and winter wheat) on soil moisture, soil temperature, crop water consumption, and crop yield with a winter wheat/summer maize rotation. Crops were planted in a ridge-furrow pattern and the treatments consisted of a transparent film mulch over the ridges (M1),a crop straw mulch in the furrows (M2), a transparent film mulch over the ridges and a crop straw mulch in the furrows (M3),a black film mulch over the ridges and a crop straw mulch in the furows (M4),and a control with no mulch (CK). Results showed that M4 was the best treatment for improving soil water storage and content,and decreasing crop water consumption during the summer maize and winter wheat rotation. In both maize and wheat seasons,M1 had a higher soil temperature than M2 and CK,and M3 had a higher soil temperature than M4. In the maize seasons, M4 had the highest yield, WP,and precipitation productivity (PP), with the average values for these parameters increasing by $30 . 9 \\%$ ， $3 9 . 0 \\%$ ,and $3 1 . 0 \\%$ , respectively, compared to those in CK. In the wheat seasons, however, M3 had the highest yield, WP,and PP, with the average values for these parameters being $23 . 7 \\%$ 。 $2 6 . 7 \\%$ ,and $23 . 8 \\%$ higher, respectively, than those in CK. Annual yield (maize and wheat yields combined) and WP did not differ significantly between M3 and M4. These results suggested that M3 and M4 may thus be the optimal ARH practices for the production of winter wheat and summer maize, respectively, in arid and semi-arid areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: mulch; soil moisture; crop water consumption; water productivity; winter wheat/summer maize rotation ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drought, a worldwide problem for crop production, is particularly severe in northwestern China, where the area has more than $32 \\%$ of total cultivated land in China but owns only $6 \\%$ of the total annual runoff (Wu et al., 2Oo5). With the development of economy and explosion of population, the amount of water available for agriculture is decreasing (Macedonio et al., 2O12). Therefore, practices in improving precipitation conservation, increasing soil water content (SWC), and narrowing the gap between crop water demands and soil water supply are of great significance in improving agricultural production in arid and semi-arid regions (Rockstrom et al., 2Oo7; Xiao et al., 2007; Yue et al., 2016). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agricultural rainwater harvesting (ARH) strategies, including agronomic and tillage practices, are effective measures to increase crop production and improve water use efficiency, and have received much attention in recent years (Kahlon et al., 2O13; Wu et al., 2O15). Mulching with different materials, such as plastic film, biodegradable film, liquid film, crop residue, and gravel, is an important agronomic technique for reducing soil evaporation, increasing soil water retention, and promoting crop growth (Maurya and Lal, 1981; Nachtergaele et al., 1998; Nan et al., 2016). Crop straw mulching allows sustainable material recycling, which can increase soil organic content and improve soil quality (Choudhury et al., 2O14). Plastic film mulching is not conducive to water infiltration and may deplete the soil organic carbon in long term by accelerating the decomposition of organic matter (Li et al., 2004; Zhao et al., 2009). High soil temperature with plastic film mulching at later crop stages may block root respiration, decrease root activity, and thus results in premature ripening (Yin et al., 2O14). In regions where heat resources are limited, the application of crop straw mulching is unfavorable since economic benefits may be decreased due to lower soil surface temperature (Kim et al., 2007; Sarkar et al., 2O07). Appropriate tillage methods can also exploit the limited precipitation. Ridge-furrow planting is a widely used tillage technique for conserving soil water in crop production (Li et al.， 2OO7). Ridge tillage offers potential for modifying the pattern of soil water movement, as wellas soil temperature and soil solute movement (Clay et al., 1994). Under ridge-furrow planting, more water accumulates in the furrow than in the ridge (Bargar et al., 1999), which is beneficial for crop growth and yield formation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Combined with mulching and ridge-furrow planting, ridge-furrow planting with plastic film mulched ridges (RFPR) has been developed, where the ridge serves as a rainwater harvesting zone and the furrow serves as a planting zone (Mudatenguha et al., 2O14). The RFPR can prolong the period of soil water availability by doubling the amount of precipitation collected in the plant furrows, which allows a better use of light rains ( $( < 5 ~ \\mathrm { m m } )$ , and can attain a rainwater collection efficiencyof $87 \\%$ (Li et al., 200O; Wu et al., 2015). RFPR has become a well-evolved ARH practice for various crops, such as maize (Ren et al., 2008; Li et al., 2012; Zhou et al.,2012), wheat (Chen et al.,2015), oilseed rape (Gu et al., 2016),and potato (Tian et al., 2003; Wang et al., 2005; Qin et al., 2014), in sub-humid, semi-arid, and arid regions. RFPR, especially the ridge-furrow planting with plastic film mulched ridges and crop straw mulched furrows, can further prevent soil water loss and enhance rainwater harvesting ability (Carter and Miller, 1991). At the same time, it can fully display the positive aspects and avoid the adverse effects of plastic film and straw mulches. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many advances have been made in ARH. However, there is litle information about the effects of ridge-furrow planting with different mulching materials on soil moisture, soil temperature, crop water consumption, and water productivity (WP). Winter wheat (Triticum aestivum L.)/summer maize (Zea mays L.) rotation is a staple planting system in the North China Plain and in the wetter part of the Loess Plateau, where annual precipitation is about $4 8 0 { - } 6 5 0 ~ \\mathrm { m m }$ and irrigation is available but expensive. The objectives of this study were to evaluate the effects of mulching on the productivity of summer maize, winter wheat, and their rotation; and to identify the optimal mulches for summer maize and winter wheat. This study will provide valuable information for reducing the cost of irrigation,achieving efficient use of precipitation, improving the comprehensive benefits to farmland, and realizing high yields and sustainable agricultural development in arid and semi-arid areas. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Site description ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Field experiments were carried out from June 2013 to June 2O15 at the Key Laboratory of ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agricultural Soil and Water Engineering in Arid and Semi-arid Areas, Ministry of Education, Northwest A&F University, Yangling $( 3 4 ^ { \\circ } 2 0 \\mathrm { ^ { r } N }$ $1 0 8 ^ { \\circ } 2 4 ^ { \\prime } \\mathrm { E }$ · $5 2 1 \\mathrm { ~ m ~ }$ a.s.l.), Shaanxi Province, China. The region has a sub-humid drought-prone climate, with an annual mean temperature of $1 3 ^ { \\circ } \\mathrm { C }$ and an annual frost-free period of 21O d. The mean annual precipitation is $6 3 2 ~ \\mathrm { m m }$ with nearly $60 \\%$ falling in July to September. The soil is a medium loam, with a bulk density of $1 . 4 0 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ ,water content (gravimetric) at field capacity of $24 \\%$ , and permanent wilting point of $8 . 5 \\%$ in the upper $0 { - } 2 0 0 \\mathrm { c m }$ soil profile. The surface soil $( 0 { - } 4 0 \\mathrm { c m } )$ has the following properties: organic matter 10.18 $\\mathrm { g / k g }$ , total $\\mathrm { ~ N ~ 0 . 9 4 ~ g / k g }$ , total $\\mathrm { P 0 . 6 0 ~ g / k g }$ ,total】 $\\mathrm { \\langle 1 4 . 1 0 ~ g / k g }$ ,available $\\mathrm { ~ N ~ } 7 6 . 0 1 ~ \\mathrm { m g / k g }$ ,available $\\mathrm { \\bf P }$ $2 5 . 2 2 \\mathrm { m g / k g }$ , and available $\\mathrm { ~ K ~ } 1 3 1 . 9 7 \\mathrm { ~ m g / k g }$ . The meteorological data were provided by the weather station installed at the experimental station. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Experimental design ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ridge-furrow planting, where ridges serve as the ARH zone and furrows serve as the planting zone, was used in the trial (preceding crop was flat planting and had no other water conservation measures). For the summer maize, each ridge was $6 0 ~ \\mathrm { c m }$ wide and $2 5 ~ \\mathrm { c m }$ high, and each furrow was $6 0 \\mathrm { c m }$ wide. The maize was planted in furrow along two rows at the furrow edges, with $3 0 \\mathrm { c m }$ between each plant. For the winter wheat, each ridge was $3 0 \\ \\mathrm { c m }$ wide and $2 0 \\ \\mathrm { c m }$ high, and each furrow was $3 0 \\mathrm { c m }$ wide. The wheat was planted in each furrow along three rows at two edges and the middle of the furrow, at a seeding rate of $1 8 0 ~ \\mathrm { k g / h m ^ { 2 } }$ . The summer maize and winter wheat were seeded using hole and drill seeding, respectively. The site was divided into $4 ~ \\mathrm { m } { \\times } 5 \\mathrm { m }$ plots and was surrounded by $2 { \\cdot } \\mathrm { m }$ strips of the same crop. The plots were separated by $5 0 \\mathrm { - c m }$ wide spaces, with plastic film inserted $8 0 ~ \\mathrm { c m }$ into soil to prevent the lateral diffusion of water. Five treatments (Table 1) were set up with different mulching strategies (location lest) in a randomized design with three replicates. Strips of plastic film (transparent and black polyethylene film, $1 \\mathrm { m }$ wide and 0.008 mm thick) were laid tightly against ridge surfaces,and the two edges were covered with soil before sowing. Chopped straw ( $5 0 ~ \\mathrm { m m }$ long for maize straw and $1 0 0 ~ \\mathrm { { m m } }$ long for wheat straw, 6000 $\\mathrm { k g / h m } ^ { 2 } ,$ ） harvested from the preceding crop (furrows mulched with wheat straw during maize cultivation and with maize straw during wheat cultivation) was uniformly spread in furrows after sowing. Experimental design was the same for summer maize and winter wheat. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8dfb1edddb24a60effeda52ef85afa97caa28222c306f13be2dcf0aa561bf5ac.jpg",
+        "table_caption": [
+            "Table 1 Field trial treatments "
+        ],
+        "table_footnote": [
+            "Note: ARH, agricultural rainwater harvesting. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\"> Treatment</td><td>Ridge</td><td>Furrow</td></tr><tr><td>CK</td><td>Control</td><td>Without mulch</td><td>Without mulch</td></tr><tr><td>M1</td><td>Single ARH</td><td>Transparent film mulch</td><td>Without mulch</td></tr><tr><td>M2</td><td>Single ARH</td><td>Without mulch</td><td>Crop straw mulch</td></tr><tr><td>M3</td><td>Dual ARH</td><td> Transparent film mulch</td><td>Crop straw mulch</td></tr><tr><td>M4</td><td>Dual ARH</td><td>Black film mulch</td><td>Crop straw mulch</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Field trial management ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two high-yielding commercial varieties of summer maize, Luodan 9, and winter wheat, Xiaoyan 22, were used in this study. In accordance with local practice, $1 2 0 \\ \\mathrm { k g } \\ \\mathrm { N } / \\mathrm { h m } ^ { 2 }$ of urea, $1 2 0 ~ \\mathrm { k g }$ $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 } / \\mathrm { h m } ^ { 2 }$ of superphosphate and $6 0 \\mathrm { ~ k g ~ K } _ { 2 } \\mathrm { O } / \\mathrm { h m } ^ { 2 }$ of potassium sulfate were evenly spread on the soil surface and ploughed into the soil prior to the planting. Each maize plot was irigated with 50 $\\mathrm { m m }$ water at the seedling stage in 2O13 and at the jointing stage in 2O14 due to the lack of precipitation and the high air temperatures. Each wheat plot was irrigated with $4 0 \\mathrm { m m }$ water at the wintering period and the jointing stage, respectively, in both 2013 and 2014. Irrigation water was applied via pipelines and measured with a flow meter installed in the pipelines. The maize was planted on 17 June, 2013 and 15 June, 2014,and harvested on 11 October, 2013 and 10 October, 2014, respectively. After the maize harvested, the wheat was planted in the same plots on 18 October, 2013 and 17 October,2014,respectively,and harvested on 2 June, 2014 and 5 June,2015, respectively. Most of the residual plastic film was removed from the plots before the succeeding crop was sown in those plots mulched with plastic film. The residual crop straw, however, was left in those plots which were mulched with crop straw. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4Sampling and measurements ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 Soil water content (SWC) and soil water storage (SWS) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SWC was measured in each plot midway between rows in a furrow and in an adjacent ridge at 10 cm intervals within $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ layer and at $2 0 \\mathrm { c m }$ intervals within $1 0 0 { - } 2 0 0 \\mathrm { c m }$ layer before sowing and after harvesting, and at $1 0 \\mathrm { c m }$ intervals within $0 { \\mathrm { - } } 1 0 0 \\ \\mathrm { c m }$ layer at main growth stages (seedling, jointing, tasseling, and filling stages for maize, and seedling, jointing, heading, and filling stages for wheat). Soil samples were collected using a soil drill transferred to aluminum boxes and weighed immediately for the wet weights, and then oven-dried at $1 0 5 ^ { \\circ } \\mathrm { C }$ to constant weights. The average SWS was calculated by Equation 1 (Ren et al., 2008). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S W S } = \\sum _ { i } ^ { n } { h _ { i } \\times \\rho _ { i } \\times b _ { i } \\times 1 0 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where SWS (mm) is the average SWS of a ridge and a furrow, $h _ { i }$ (cm) is the soil depth, $\\rho _ { i } \\ : ( \\mathrm { g } / \\mathrm { c m } ^ { 3 } )$ is the soil bulk density in each layer, $b _ { i } \\left( \\% \\right)$ is SWC by weight, $n$ is the number of soil layers, and 10 stands for the conversion coefficient. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2Soil temperature ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil temperature was monitored by thermometers at 5,10, 15, 20, and $2 5 \\ \\mathrm { c m }$ layers both over the ridge and in the furrow for each plot. The observation intervals were 1O days for summer maize seasons (06:00-20:00 LST, 2-hour once) and 15 days for winter wheat seasons (08:00-18:00 LST, 2-hour once). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.3Crop water consumption ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Crop evapotranspiration (ET (mm)) was calculated using the soil water balance equation (Eq. 2;   \nHuang et al., 2005). ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathrm { E T } = ( P + I + C ) - ( R + D ) - \\Delta S , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where, $P$ (mm) is the precipitation during crop growing season, $I ( \\mathrm { m m } )$ is the amount of irrigation, $C$ (mm) is the groundwater supply, $R$ (mm) is surface runoff, $D _ { \\mathrm { \\ t m m ) } }$ is the downward drainage out of root zone, and $\\Delta S \\ \\mathrm { { ( m m ) } }$ is the change of stored water in soil profile between sowing and harvesting. The groundwater table at the experimental site was deeper than $5 \\mathrm { m }$ , and the field was flat and no heavy rains fell during crop growing seasons, so they were assumed to be negligible. The soil water balance equation can thus be simplified to Equation 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T } = ( P + I ) - \\Delta S .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.4Yield and yield components ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Plants were collected from an area of $1 ~ \\mathrm { m } ^ { 2 }$ in each plot for assessing crop yield. Grain yield, spike length, ear diameter, grains per ear, and 1OO-kernel weight were measured for maize; and grain yield, fertile tiller, grains per spike, spike length, and 1OOO-kernel weight were measured for wheat. Annual yield was the sum of maize yield and wheat yield. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.5WP and precipitation productivity (PP) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WP $( \\mathrm { k g / ( h m ^ { 2 } { \\cdot } m m } ) )$ and PP $\\left( \\mathrm { k g } / ( \\mathrm { h m } ^ { 2 } . \\mathrm { m m } \\right)$ ） were calculated by Equations 4 and 5 (Payero et al., 2008), respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { c } { { \\mathrm { W P } = Y / \\mathrm { E T } , } } \\\\ { { \\mathrm { P P } = Y / P , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $Y \\left( { \\mathrm { k g } } / { \\mathrm { h m } } ^ { 2 } \\right)$ is the crop yield. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5 Statistical analyses ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Data were analyzed using the SAS software (version 9.3) for windows (SAS Institute, Cary, NC, USA). Analysis of variance was performed using the PROC GLM SAS procedure to assess the effects of each treatment. Means were compared by least significant difference (LSD) test $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 Climatic conditions ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The weekly distribution of precipitation and mean temperature during the growing seasons of maize and wheat from 2013 to 2015 are presented in Figure 1. Precipitation were 269.5 and $3 5 5 . 3 ~ \\mathrm { m m }$ in the maize seasons in 2013 and 2014, and 273.1 and $2 3 9 . 4 \\ : \\mathrm { m m }$ in the wheat seasons in 2013-2014 and 2014-2O15, respectively. The precipitation pattern was similar for the two wheat seasons but varied greatly during the two maize seasons. Precipitation during the maize seasons was 95.5 and $5 0 . 7 ~ \\mathrm { m m }$ at the seedling stage, 70.5 and $5 2 . 6 ~ \\mathrm { m m }$ at the jointing stage, 64.7 and $2 0 6 . 5 ~ \\mathrm { m m }$ at the tasseling stage, and 38.8 and $4 5 . 5 ~ \\mathrm { m m }$ at the filling stage in 2013 and 2014, respectively. The weekly average temperature during the maize and wheat seasons ranged from $1 4 . 3 ^ { \\circ } \\mathrm { C }$ to $3 2 . 3 ^ { \\circ } \\mathrm { C }$ and $- 4 . 7 ^ { \\circ } \\mathrm { C }$ to $2 4 . 3 ^ { \\circ } \\mathrm { C }$ , respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "35 120 25 60 eeereeeeeeeee (a) Summer maize in 2013 (b) Winter wheat in 2013-2014. 30 -100 20 50 25- Rrr grreniiean 80 15 40 20- 60 10 30 15- 40 20 10- 5 20 0 10 0 0 -5 0 1012 141618 0 4 8 12 162024283236 35 120 25 60 (c) Summer maize in 2014 -100 20 (d) Winter weatin2014-2015 50 25 80 15 Average temperature 40 Frrrr rinengrrnm 20- 60 10 30 15- 40 20 10- 5 20 0 10 0 1 ■ 0 -5 0 024681012141618 0 312162024283236 Weeksafter sowing Weeksafter sowing ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 Summer maize ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 SWS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The amount of water stored in the soil profile was similar during the two maize seasons, decreasing from sowing to jointing stage and then increasing at the filling stage and staying high until after the harvest (Fig.2). SWS was significantly higher in the mulched ARH plots (M1, M2, M3,and M4) than the control plot (CK) throughout the two maize seasons. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In 2013, SWS before sowing did not differ significantly among the treatments. Differences became significant at the seedling and jointing stages, when SWS was significantly higher in M3 and M4 than in M1, M2, and CK but did not differ significantly between M3 and M4, nor between M1 and M2. SWS at the tasseling stage ranged from a high value of $2 1 1 . 0 \\mathrm { m m }$ in M4 to a low value of $1 7 9 . 7 \\mathrm { m m }$ in CK, and increased after the tasseling stage due to a precipitation of $4 9 . 3 ~ \\mathrm { m m }$ at the filling stage (Fig. 1). SWS before sowing did difer significantly among the treatments in 2014. Seasonal SWS fluctuated from 158.7 to $2 9 5 . 0 \\mathrm { m m }$ ，more thanthatin 2013（ $( 1 7 9 . 7 - 2 9 0 . 3 ~ \\mathrm { m m } )$ .The difference in SWS at the driest stages (tasseling in 2O13 and jointing in 2014) between the maximum (M4) and the minimum (CK) was $5 6 . 0 \\ \\mathrm { m m }$ ，larger than that in 2013 $( 3 1 . 3 ~ \\mathrm { m m } )$ ， suggesting that the ARH treatments, especially the dual ARH treatments (M3 and M4), contributed markedly to maintaining soil moisture when precipitation was low or the soil water content was inadequate. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e158dff2799c2fa44a034a304360681c8eb1a2d0631689dc675dc1f8a3bd81de.jpg",
+        "img_caption": [
+            "Fig. 2 Soil water storage (SWS) of $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer at the main growth stages of summer maize under each treatment in 2013 and 2014. CK,control with no mulch; M1,transparent film mulch over the ridges; M2,crop straw mulch in the furrows; M3,transparent film mulch over the ridge and crop straw mulch in the furrow; M4,black film mulch over the ridge and crop straw mulch inthe furrow; BS,before sowing; SS,seedling stage; JS,jointing stage; TS,tasseling stage; FS,filing stage; AH,after harvest. Different lowercaselettrs indicate significant dierence of SWS among different treatmentsat the same stage $( P { < } 0 . 0 5 )$ . Error bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 SWC ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The variations in average SWC were similar in all treatments in the two maize seasons, first decreasing then increasing with the soil depth (Fig. 3). SWC was significantly higher in the mulched ARH treatments than in the control except for those in the 90 and $1 0 0 ~ \\mathrm { c m }$ soil layers, respectively. The mean SWC at $0 { - } 2 0 ~ \\mathrm { c m }$ in M4 was $2 . 5 \\% - 1 2 . 9 \\%$ and $1 . 0 \\% - 1 4 . 5 \\%$ higher than those in the other treatments in 2013 and 2014， respectively， showing effective moisture conservation in the topsoil. SWC did not differ significantly between M1 and CK at $4 0 { - } 5 0 ~ \\mathrm { c m }$ in 2013 nor at $5 0 { \\mathrm { - } } 6 0 \\ \\mathrm { c m }$ in 2014,and was similar among the treatments at $9 0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ . SWC differed much more among treatments in 2014 than that in 2013，which probably due to intensive precipitation at the later growth stages of maize in 2O14 (Fig. 1), differences in SWS before sowing (Fig. 2), and the cumulative effects of different mulched treatments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bad9d6e44c169853b1700c03364ad4ff88121aeb41c86070e56ace3199e7b23.jpg",
+        "img_caption": [
+            "Fig. 3 Distribution of average soil water content (SWC) in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer of summer maize under each treatment. Mean SWC was determined by the soil samples taken at sowing,seedling, jointing,tasseling, filling stages, and harvest. Error bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 Soil temperature ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the effects of different mulch treatments on soil temperature (at 5 and $2 5 \\ \\mathrm { c m }$ soil layers) during 2O14 in maize field (Table 2). The dynamics of average soil temperature among treatments were consistent with a decreasing trend and a reducing diference throughout the maize season. During the observation periods, the average soil temperature at $5 \\ \\mathrm { c m }$ layer ranged from $1 9 . 4 ^ { \\circ } \\mathrm { C }$ to $4 2 . 5 ^ { \\circ } \\mathrm { C }$ ， with the highest and lowest values occurred in M1 and M2, respectively. Compared with M3, soil temperatures significantly increased in M1 within 4O days after sowing (DAS), while soil temperature averagely decreased by $1 . 4 ^ { \\circ } \\mathrm { C }$ in M4 within 50 DAS. M1 had higher soil temperatures than M3 from 50 to $1 0 0 \\mathrm { D A S }$ and M3 had higher soil temperatures than M4 from 60 to $1 0 0 \\mathrm { D A S }$ (except 7O DAS), but the differences between them were not significant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The ranking of average soil temperature under each treatment at $2 5 \\mathrm { c m }$ layer followed the same trend as at $5 \\mathrm { c m }$ layer. The change range, however, was reduced to $1 9 . 0 ^ { \\circ } \\mathrm { C } - 3 3 . 1 ^ { \\circ } \\mathrm { C }$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/96a24a73ba7340cca89ff6a0f30148031452ebb6d6dbed70422d3edbf5507fbe.jpg",
+        "table_caption": [
+            "Table 2 Average soil temperature at 5 and $2 5 ~ \\mathrm { c m }$ layers under each mulching treatment with days after sowing (DAS) during summer maize season in 2014 "
+        ],
+        "table_footnote": [
+            "Note:Thedataaretheaveragevaluesofsoiltemperatureovertheridgesandinthefurrows.Diferentlettrswithnalineindicate significant differences among treatments at $P { < } 0 . 0 5$ level at the same soil layer. DAS,days after sowing. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">DAS</td><td colspan=\"9\">Average soil temperature (C)</td></tr><tr><td colspan=\"5\">5 cm</td><td colspan=\"5\">25cm</td></tr><tr><td></td><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td></tr><tr><td>10</td><td>34.9d</td><td>37.8a</td><td>33.2℃</td><td>36.9b</td><td>35.7℃</td><td>28.6b</td><td>29.9a</td><td>28.0℃</td><td>29.2ab</td><td>28.9b</td></tr><tr><td>20</td><td>39.0d</td><td>42.5a</td><td>37.9e</td><td>41.8b</td><td>39.8c</td><td>31.5℃</td><td>33.1a</td><td>31.0d</td><td>32.4b</td><td>32.0b</td></tr><tr><td>30</td><td>39.2℃</td><td>41.6a</td><td>38.2d</td><td>40.8b</td><td>39.3℃</td><td>31.4°</td><td>32.8a</td><td>30.6d</td><td>32.4ab</td><td>32.0b</td></tr><tr><td>40</td><td>37.1b</td><td>39.3a</td><td>34.8d</td><td>37.5b</td><td>35.8℃</td><td>30.3℃</td><td>31.9a</td><td>30.0℃</td><td>31.2ab</td><td>30.8b</td></tr><tr><td>50</td><td>26.0c</td><td>28.2a</td><td>25.3d</td><td>28.0a</td><td>27.4b</td><td>25.0℃</td><td>26.1a</td><td>24.2d</td><td>25.7ab</td><td>25.3b</td></tr><tr><td>60</td><td>26.2°</td><td>28.5a</td><td>25.1d</td><td>27.7ab</td><td>26.8b</td><td>24.3℃</td><td>25.8a</td><td>24.0°</td><td>25.0ab</td><td>24.7b</td></tr><tr><td>70</td><td>26.5℃</td><td>28.1a</td><td>26.0℃</td><td>27.9a</td><td>27.2b</td><td>24.2℃</td><td>25.5a</td><td>23.8c</td><td>25.0ab</td><td>24.6b</td></tr><tr><td>80</td><td>23.2°</td><td>25.4a</td><td>22.7℃</td><td>24.7ab</td><td>24.0b</td><td>22.3℃</td><td>23.7a</td><td>22.0℃</td><td>23.0ab</td><td>22.6b</td></tr><tr><td>90</td><td>19.5℃</td><td>21.5a</td><td>19.4℃</td><td>20.9ab</td><td>20.1b</td><td>19.4b</td><td>20.3a</td><td>18.9℃</td><td>19.8b</td><td>19.6b</td></tr><tr><td>100</td><td>20.3℃</td><td>22.0a</td><td>19.9€</td><td>21.6ab</td><td>21.0b</td><td>19.3bc</td><td>20.5a</td><td>19.0℃</td><td>19.9b</td><td>19.6b</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.4 Water consumption",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ET from the maize crop varied among treatments (Table 3). Water supplies (by precipitation and irrigation) were identical in each treatment, so differences in ET were mainly due to differences in soil water loss during the maize season. ET was significantly higher in CK than in M1, M2, M3 and M4,and was significantly higher in M1 and M2 than those in M3 and M4 in both years. ET was higher in 2014 than in 2013, which may be due to the higher precipitation ( $\\mathrm { 8 5 ~ m m }$ higher) during the 2014 growing season. ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5648135d71014955ded7260089af5ffeb24a3f0f6d63b43da1280196b33a3656.jpg",
+        "table_caption": [
+            "Table3Water consumption, yield components, yield, water productivity(WP),and precipitation productivityof summer maize in 2013 and 2014 "
+        ],
+        "table_footnote": [
+            "Note:Pei grainsperear;O-Wkeeleght.Deretloweraselettswihinalneinicatesigniiantdireeamoit treatmentsat $P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">Parameter</td><td colspan=\"5\">2013</td><td colspan=\"5\">2014</td></tr><tr><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td></tr><tr><td rowspan=\"4\">Water source</td><td>P (mm)</td><td>270</td><td>270</td><td>270</td><td>270</td><td>270</td><td>355</td><td>355</td><td>355</td><td>355</td><td>355</td></tr><tr><td>I (mm)</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td></tr><tr><td>△S (mm)</td><td>61</td><td>55</td><td>43</td><td>37</td><td>30</td><td></td><td>-4</td><td>-2</td><td>-9</td><td>-12</td></tr><tr><td>ET (mm)</td><td>381a</td><td>375b</td><td>363℃</td><td>357cd</td><td>350d</td><td>406a</td><td>401b</td><td>403b</td><td>396℃</td><td>393c</td></tr><tr><td rowspan=\"4\">Yield component</td><td>Spike length (cm)</td><td>15.5℃</td><td>16.3b</td><td>15.7℃</td><td>17.0ab</td><td>17.5a</td><td>14.3℃</td><td>15.4b</td><td>14.8bc</td><td>15.9ab</td><td>16.4a</td></tr><tr><td>Ear diameter (mm)</td><td>44.01° 45.98b 45.12b</td><td></td><td></td><td></td><td>48.08a 47.48ab</td><td></td><td></td><td>42.18° 43.71b 43.29b</td><td>45.44a</td><td>45.72a</td></tr><tr><td>GPE</td><td>498℃</td><td>551b</td><td>508℃</td><td>564ab</td><td>582a</td><td>467d</td><td>519b</td><td>490℃</td><td>527ab</td><td>549a</td></tr><tr><td>100-KW (g)</td><td>28.19c30.03b 28.48 30.51ab</td><td></td><td></td><td></td><td>30.65a</td><td></td><td></td><td></td><td>25.06c26.94b 25.56° 27.32ab</td><td>27.46a</td></tr><tr><td colspan=\"2\">Grain yield (kg/hm²)</td><td>8046e</td><td>9881°</td><td>9275d</td><td>10348b</td><td>10591a</td><td>7712d</td><td>9212b</td><td>8728</td><td>9920ab</td><td>10038a</td></tr><tr><td colspan=\"2\">WP (kg/(hm²mm))</td><td>21.1d</td><td>26.3℃</td><td>25.6</td><td>29.0b</td><td>30.3a</td><td>19.0℃</td><td>23.0b</td><td>21.7b</td><td>25.1a</td><td>25.5a</td></tr><tr><td colspan=\"2\">PP (kg/(hm²-mm))</td><td>29.9€</td><td>36.7℃</td><td>34.4d</td><td>38.4b</td><td>39.3a</td><td>21.7d</td><td>25.9b</td><td>24.6</td><td>27.9ab</td><td>28.3a</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.5 YieldandWP ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Yield, yield components, WP, and PP of summer maize were significantly higher in the mulched ARH treatments than those in the control plots in both years (Table 3). Crop yield, WP,and PP were the highest in the M4 plots. Average yield was $3 0 . 9 \\%$ ， $8 . 0 \\%$ ， $1 4 . 6 \\%$ , and $1 . 8 \\%$ higher in M4 than those in CK, M1, M2 and M3, respectively, during the two seasons. Similarly, average WP was $3 9 . 0 \\%$ ， $1 3 . 2 \\%$ ， $1 8 . 2 \\%$ ,and $3 . 3 \\%$ higher in M4 than those in CK, M1, M2,and M3, respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3 Winterwheat ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 SWS ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Each plot was irrigated with $4 0 \\ \\mathrm { m m }$ water at both the seedling and jointing stages, and about 124 mm rain in 2013-2014 and $9 8 ~ \\mathrm { m m }$ rain in 2014-2015 fell during the jointing and heading stages (Fig. 1). Before sowing, SWS was 260.4 to $2 7 5 . 2 ~ \\mathrm { m m }$ in 2013-2014 and 275.4 to $2 9 0 . 6 ~ \\mathrm { m m }$ in 2014-2015, while after harvesting, SWS was 202.1 to $2 2 5 . 7 \\ : \\mathrm { m m }$ in 2013-2014 and 194.1 to 218.4 mm in 2014-2015 (Fig. 4). After SWS rose at the jointing and heading stages, following rain and irigation, it then decreased rapidly due to limited precipitation and high plant transpiration, and between-treatment differences increased. Similar to the situation in maize, SWS was significantly higher in the ARH treatments than that in the control plots during both wheat seasons. SWS was the highest in M4. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1205283c85a750d6c5a0b424c350006c3fae2c71a640d80ec86d63095440577.jpg",
+        "img_caption": [
+            "Fig. 4 SWS in $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer at the main growth stages of winter wheat under each treatment. Error bars represent standard deviations.Different lowercase lettrs indicate significant diffrence ofSWSamong dierent treatments at the same stage $( P { < } 0 . 0 5 )$ ： "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 SWC ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In both wheat seasons, SWC decreased sharply between 1O and $4 0 \\mathrm { c m }$ , varied slightly between 50 and $7 0 \\mathrm { c m }$ ,and increased gradually between 8O and $1 0 0 \\mathrm { c m }$ (Fig. 5). SWC was significantly higher in the ARH treatments than that in the control and was the highest in M4 throughout the $0 { - } 1 0 0 ~ \\mathrm { c m }$ layer in both wheat seasons. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.3.3 Soil temperature ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The variation characteristics of average soil temperatures at 5 and $2 5 \\mathrm { c m }$ layers in the wheat season of 2014-2O15 were taken as examples (Table 4). Increasing or decreasing in soil temperature caused by different mulching materials was maintained until 210 DAS,although the effects tended to decline with time. Before wintering $( 0 { - } 6 0 \\ \\mathrm { D A S } )$ , soil temperatures at both 5 and $2 5 \\ \\mathrm { c m }$ layers were significantly higher in CK than those in M2 and in M3 than those in M4. During $7 5 { - } 1 2 0 \\mathrm { D A S }$ ， M2 had higher temperatures than that in CK, which, to some extent, can protect plants from freezing damage. Relative to M4, the soil temperatures in M3 at 5 and $2 5 \\ \\mathrm { c m }$ layers increased by averages of $0 . 7 ^ { \\circ } \\mathrm { C }$ and $0 . 4 ^ { \\circ } \\mathrm { C }$ ,respectively. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/28cd196006db0b50089838f258b711f69fa9bb55df245f3fde78b923d55c69ab.jpg",
+        "img_caption": [
+            "Fig.5Distribution of average SWC in the $0 { - } 1 0 0 ~ \\mathrm { c m }$ soil layer for winter wheat under each treatment. Error bars represent standard deviations. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e362c9df6abeb6f297ed08b070671d40d8f66d3887d664c4312633a2c2ca8470.jpg",
+        "table_caption": [
+            "Table 4 Average soil temperature at 5 and $2 5 ~ \\mathrm { c m }$ layers under each mulching treatment with days after sowing during winter wheat seasons in 2014-2015 "
+        ],
+        "table_footnote": [
+            "Note:Thedataaretheaveragevaluesofsoiltmperatureovertheridgesandinthefurrows.Diferentlowercaseleters withinaline indicatesignificantdifferencesamong treatmentsat $P { < } 0 . 0 5$ level at the same soil layer. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">DAS</td><td colspan=\"10\">Average soil temperature (C)</td></tr><tr><td colspan=\"4\">5cm</td><td></td><td colspan=\"5\">25 cm</td></tr><tr><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td></tr><tr><td>15</td><td>23.8d</td><td>26.4a</td><td>22.0e</td><td>25.6b</td><td>24.4℃</td><td>20.6d</td><td>22.6a</td><td>19.5e</td><td>22.0b</td><td>21.3℃</td></tr><tr><td>30</td><td>17.2d</td><td>19.8a</td><td>16.3e</td><td>19.0b</td><td>18.2℃</td><td>15.3℃</td><td>16.2a</td><td>14.8d</td><td>16.0ab</td><td>15.7b</td></tr><tr><td>45</td><td>14.1°</td><td>15.8a</td><td>13.1d</td><td>15.3b</td><td>14.3℃</td><td>12.2°</td><td>13.8a</td><td>11.6d</td><td>13.4ab</td><td>13.0b</td></tr><tr><td>60</td><td>9.1℃</td><td>10.3a</td><td>8.5d</td><td>10.0a</td><td>9.3b</td><td>7.3℃</td><td>8.5a</td><td>6.9℃</td><td>8.1ab</td><td>7.8b</td></tr><tr><td>75</td><td>2.5d</td><td>3.3b</td><td>3.2°</td><td>4.0a</td><td>3.6ab</td><td>2.0℃</td><td>2.7b</td><td>2.4bc</td><td>3.2a</td><td>3.0a</td></tr><tr><td>90</td><td>1.4d</td><td>2.0b</td><td>1.8℃</td><td>2.5a</td><td>2.1ab</td><td>1.8℃</td><td>2.3b</td><td>2.1bc</td><td>2.8a</td><td>2.5ab</td></tr><tr><td>105</td><td>-2.8℃</td><td>-1.2a</td><td>-2.0b</td><td>-1.1a</td><td>-1.3a</td><td>-1.9d</td><td>-1.0b</td><td>-1.5℃</td><td>-0.4a</td><td>-0.6a</td></tr><tr><td>120</td><td>3.5d</td><td>5.6a</td><td>4.0℃</td><td>5.2ab</td><td>4.7b</td><td>3.5℃</td><td>5.0a</td><td>4.0bc</td><td>4.7ab</td><td>4.4b</td></tr><tr><td>135</td><td>9.6℃</td><td>11.5a</td><td>8.4d</td><td>11.2a</td><td>10.6b</td><td>7.6d</td><td>9.5a</td><td>7.0e</td><td>9.0b</td><td>8.5℃</td></tr><tr><td>150</td><td>12.5d</td><td>14.7a</td><td>12.0e</td><td>14.2b</td><td>13.6c</td><td>11.8d</td><td>13.4a</td><td>11.5d</td><td>13.0b</td><td>12.3℃</td></tr><tr><td>165</td><td>17.0℃</td><td>19.5a</td><td>16.2d</td><td>19.0ab</td><td>18.4b</td><td>16.5℃</td><td>18.5a</td><td>16.0d</td><td>18.3a</td><td>17.5b</td></tr><tr><td>180</td><td>23.9c</td><td>26.0a</td><td>22.8d</td><td>25.5ab</td><td>24.9b</td><td>22.6℃</td><td>24.1a</td><td>22.0d</td><td>23.7ab</td><td>23.4b</td></tr><tr><td>195</td><td>25.7℃</td><td>27.6a</td><td>25.0d</td><td>27.3ab</td><td>26.4b</td><td>24.0℃</td><td>25.6a</td><td>23.7°</td><td>25.2ab</td><td>24.8b</td></tr><tr><td>210</td><td>26.2°</td><td>29.6a</td><td>25.5d</td><td>29.3ab</td><td>28.7b</td><td>25.0℃</td><td>27.3a</td><td>24.7℃</td><td>27.0ab</td><td>26.5b</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.4 Water consumption",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ET from the wheat crop varied markedly among treatments in both the 2013-2014 and 2014-2015 seasons (Table 5). ET was the highest for the control plots, which differed significantly from that in the four ARH treatments. ET did not differ significantly between M1 and M2 nor between M3 and M4, and was the lowest in M3 and M4, underlining the importance of the integrated use of crop straw and plastic film. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3.5 Yield andWP ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Yield, yield components, WP and PP of the wheat crop were significantly higher in the mulched treatments than those in the control (Table 5), with an average increase in yield of $1 6 . 3 \\%$ and $1 7 . 1 \\%$ in 2013-2014 and 2014-2015, respectively. Grain yield was the highest in M3 at $9 2 8 1 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ in ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2013-2014 and $9 2 1 0 ~ \\mathrm { k g / h m } ^ { 2 }$ in 2014-2015, followed by M4 at $9 1 0 5 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ in 2013-2014 and $9 0 5 5 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ in 2014-2015. Yield components in all treatments were lower in 2014-2015 than those in 2013-2014. None of the yield components exhibited significant differences between M3 and M4 in the two seasons, except for numbers offertile tillers, suggesting that the yield differences between M3 and M4 mainly due to differences in the numbers of fertile tillers (Table 6). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "WPvaried from $1 8 . 3 ~ \\mathrm { k g / ( h m ^ { 2 } { \\cdot } m m ) }$ in CK to $2 3 . 1 \\mathrm { k g } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { m m } )$ in M3 in 2013-2014,and from $1 8 . 5 \\mathrm { k g / ( h m ^ { 2 } { \\cdot } m m ) }$ in CK to $2 3 . 5 \\mathrm { k g } / ( \\mathrm { h m } ^ { 2 } { \\cdot } \\mathrm { m m } )$ in M3 in 2014-2015, but did not differ significantly between M3 and M4. PP was the highest in M3 in both seasons. ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/f620b6dca668b79ec68868b11cf8d3f284f8542213d08111c5c4b5fa945560ce.jpg",
+        "table_caption": [
+            "Table 5Water consumption, yield components,yield, WP,and PPof winter wheat in 2013-2014 and 2014-2015 inder each mulching treatment "
+        ],
+        "table_footnote": [
+            "Note:△S,changeinsoilateroageurngeatseaon;SLsikelngth;Gaisperse;Frtiletiler;O0 grain weight.Different lowercase lettrs withina line indicate significant differenceamong diferent treatments at $P { < } 0 . 0 5$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\" colspan=\"2\">Parameter</td><td colspan=\"5\">2013-2014</td><td colspan=\"5\">2014-2015</td></tr><tr><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td></tr><tr><td rowspan=\"4\">Water source</td><td>P (mm)</td><td>273</td><td>273</td><td>273</td><td>273</td><td>273</td><td>239</td><td>239</td><td>239</td><td>239</td><td>239</td></tr><tr><td>I(mm)</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td></tr><tr><td>△S (mm)</td><td>58</td><td>52</td><td>53</td><td>49</td><td>47</td><td>83</td><td>78</td><td>77</td><td>73</td><td>71</td></tr><tr><td>ET (mm)</td><td>411a</td><td>405b</td><td>406b</td><td>402°</td><td>400℃</td><td>402a</td><td>397b</td><td>396b</td><td>392℃</td><td>390℃</td></tr><tr><td rowspan=\"4\">Yield component</td><td>SL (cm)</td><td>4.59b</td><td>4.68a</td><td>4.69a</td><td>4.72a</td><td>4.70a</td><td>4.56b</td><td>4.65ab</td><td>4.67a</td><td>4.70a</td><td>4.69a</td></tr><tr><td>GPS</td><td>36.8℃</td><td>38.3b</td><td>38.5b</td><td>40.9a</td><td>40.4a</td><td>36.5℃</td><td>39.0b</td><td>38.3b</td><td>40.5a</td><td>40.1a</td></tr><tr><td>FT (per m²)</td><td>846d</td><td>902℃</td><td>911°</td><td>968a</td><td>943b</td><td>830d</td><td>892℃</td><td>905℃</td><td>958a</td><td>931b</td></tr><tr><td>1000-KW (g)</td><td>46.21d</td><td>46.55℃</td><td>46.93b</td><td>47.78a</td><td>47.53a</td><td>46.19℃</td><td>46.75b</td><td>46.88b</td><td>47.82a</td><td>47.71a</td></tr><tr><td colspan=\"2\">Grain yield (kg/hm²)</td><td>7514e</td><td>8197d</td><td>8358℃</td><td>9281a</td><td>9105b</td><td>7426d</td><td>8218c</td><td>8294℃</td><td>9210a</td><td>9055b</td></tr><tr><td colspan=\"2\">WP (kg/(hm².mm))</td><td>18.3℃</td><td>20.2b</td><td>20.6b</td><td>23.1a</td><td>22.8a</td><td>18.5℃</td><td>20.7b</td><td>20.9b</td><td>23.5a</td><td>23.2a</td></tr><tr><td colspan=\"2\">PP (kg/(hm2.mm))</td><td>27.5€</td><td>30.0d</td><td>30.6℃</td><td>34.0a</td><td>33.4b</td><td>31.1d</td><td>34.4℃</td><td>34.7℃</td><td>38.5a</td><td>37.9b</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/0cce046fb40b2255b720ff5fa76ea6c273d55f49124e1e176e386f674f87d558.jpg",
+        "table_caption": [
+            "Table 6Multiple regresson analysis on yield components and yield between treatments of M3 and M4 in the two winterwheatseasons "
+        ],
+        "table_footnote": [
+            "Note:\\*indicatessignificantdifferenceat $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>Intercept</td><td>Spike length</td><td>Grains per spike</td><td>Fertile tiller</td><td>1000-grain weight</td></tr><tr><td>Estimate</td><td>0.143</td><td>-1.455</td><td>-1.785</td><td>1.247</td><td>-1.661</td></tr><tr><td>Standard error</td><td>0.090</td><td>1.289</td><td>0.665</td><td>0.259</td><td>1.435</td></tr><tr><td>P value</td><td>1.000</td><td>0.376</td><td>0.115</td><td>0.041*</td><td>0.367</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4 Winter wheat/summer maize rotation system ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4.1Annual water consumption ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Annual water consumption over the two experimental seasons is shown in Table 7. The change of stored water content in the soil profile (2-m depth) between the date of maize sowing and that of ",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa8a9aad2f7c4b9bcd1001dfec3e0365b2625887227324daa5cac29b847e14c1.jpg",
+        "table_caption": [
+            "Table 7Annual yield and annual WP under each treatment in a summer maize/winter wheat rotation system "
+        ],
+        "table_footnote": [
+            "Note:Differentlowercase lettrs withinaline indicate significant diference among diffrent treatments at $P { < } 0 . 0 5$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Paramter</td><td colspan=\"5\">2013-2014</td><td colspan=\"5\">2014-2015</td></tr><tr><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td><td>CK</td><td>M1</td><td>M2</td><td>M3</td><td>M4</td></tr><tr><td>P (mm)</td><td>583</td><td>583</td><td>583</td><td>583</td><td>583</td><td>605</td><td>605</td><td>605</td><td>605</td><td>605</td></tr><tr><td>I (mm)</td><td>130</td><td>130</td><td>130</td><td>130</td><td>130</td><td>130</td><td>130</td><td>130</td><td>130</td><td>130</td></tr><tr><td>△S (mm)</td><td>79</td><td>68</td><td>56</td><td>47</td><td>37</td><td>73</td><td>63</td><td>64</td><td>53</td><td>49</td></tr><tr><td>ET (mm)</td><td>792a</td><td>781b</td><td>769℃</td><td>759d</td><td>750e</td><td>808a</td><td>798b</td><td>799b</td><td>788℃</td><td>784℃</td></tr><tr><td>Yield (kg/hm²)</td><td>15,560d</td><td>18,078b</td><td>17,633℃</td><td>19,629a</td><td>19,696a</td><td>15,138c</td><td>17,430b</td><td>17,022b</td><td>19,130a</td><td>19,093a</td></tr><tr><td>WP (kg/(hm2-mm))</td><td>19.7℃</td><td>23.2b</td><td>22.9b</td><td>25.9a</td><td>26.3a</td><td>18.7℃</td><td>21.8b</td><td>21.3b</td><td>24.3a</td><td>24.4a</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "the following wheat harvest ranged from 37 to $7 9 ~ \\mathrm { m m }$ in 2013-2014 and from 49 to $7 3 ~ \\mathrm { m m }$ in 2014-2015. Annual ET was the lowest in M4, which was 42 and $2 4 ~ \\mathrm { m m }$ lower than those for CK in 2013-2014 and 2014-2015, respectively. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4.2 Annual productivity ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Annual crop yield (maize plus wheat) of all treatments (Table 7) ranged from 15.1 to $1 9 . 6 ~ \\mathrm { t / h m } ^ { 2 }$ during the two rotation seasons. Average annual yield was $2 6 . 4 \\%$ ， $9 . 2 \\%$ ,and $1 1 . 9 \\%$ higher in M4 than those in CK, M1,and M2, respectively, and the differences were statistically significant but there was no difference in annual yield between M3 and M4. Annual WP (Table 7) folowed the order of (M3 and M4) $\\mid >$ (M1 and M2)>CK. Annual WP was the highest in M4 but did not differ significantly from M3. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4.3Correlation analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 8 presented the correlation relationships of changes in SWS $( \\Delta \\mathsf { S } )$ and ET with the crop yield andWP, respectively. There was asignificantly $( P { < } 0 . 0 5 )$ negative correlation between soil water change and crop yield,and between soil water change and WP, with the correlation coefficients of $- 0 . 6 9 4$ and -0.713, respectively. Similarly, there was a significantly $( P { < } 0 . 0 5 )$ negative correlation between ET and crop yield with a correlation coefficient of $- 0 . 7 5 2$ , and an extremely significantly $( P { < } 0 . 0 1 )$ negative correlation between ET and WP with a correlation coefficient of $- 0 . 8 4 5$ . These indicated that reducing soil water consumption is an effective practice to improve crop yield and WP in the rotation system. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/0643d3e281592dcd283f20e4087db6356387abd0f33fe0aed363cd2aa8ed4aca.jpg",
+        "table_caption": [
+            "Table8Correlation relationships of△S and ET with crop yield and WP "
+        ],
+        "table_footnote": [
+            "Note:△S,changes in SWS in soil profile ( $2 \\textrm { m }$ depth) during the maize/wheat rotation.\\*and \\*\\* indicate significant differences at $P { < } 0 . 0 5$ and $P { < } 0 . 0 1$ levels, respectively. "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Crop yield</td><td>WP</td></tr><tr><td>△S</td><td>-0.694*</td><td>-0.713*</td></tr><tr><td>ET</td><td>-0.752*</td><td>-0.845**</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4.1Effects of mulches on soil moisture conservation ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ARH techniques can effectively conserve soil moisture by regulating the re-distribution of soil water and inhibiting the evaporation of water from the soil surface during the crop growing season (Yin et al., 2O15). In the current study, M4 was the most effective strategy for maintaining soil moisture in both maize (Figs. 2 and 3) and wheat (Figs. 4 and 5) seasons. Similar findings were reported by Li et al. (2O12). The black film placed over ridges can increase water flow to the root zones of plants in the furrows and reduce the losses by evaporation from the damp soil surface while the crop straw placed in furrows can minimize evaporation from the soil surface. In addition, compared with transparent film,the light transmittance of black film is lower, which can effectively suppress weed population and further decrease the loss of soil moisture. ARH practices retain soil moisture effectively when precipitation is insuficient and the SWC is inadequate (Ramakrishna et al., 2006; Zhou et al., 2OO9). In the present experiment, litte rain fell during the tasseling stage in 2013 and the jointing stage in 2O14 of the maize seasons, but SWS was markedly higher in ARH treatments compared to the control, especially in M3 and M4 (Fig. 2). The maintenance of adequate soil moisture content during short droughts will have beneficial effects on water and nutrient availability and will help the survival of young crops. The average SWC of the six sampling dates in the $0 { \\mathrm { - } } 1 0 0 \\ { \\mathrm { c m } }$ soil layer showed that the topsoil moisture content was higher in M1 than that in M2. In contrast, subsoil moisture content was similar in M1 and CK, and lower than in M2 (Figs. 3 and 5), which was in agreement with the results by Wang et al. (2O11). Plastic film mulch may thus increase soil dryness in deep layers and decrease farmland productivity in the long term (Li et al., 2004). Crop straw mulch in furrows, however, may increase the rate of water infiltration. The combination of plastic film and crop straw, especially black film mulch over the ridges and crop straw mulch in the furrows, may thus achieve a sustainable retention of soil moisture by combining the complementary effects of the different mulches. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2 Effects of mulches on soil temperature ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Regulating soil temperature is another important feature of ARH techniques besides conserving soil moisture. The effect of ARH techniques on soil temperature varies depending on soil types, climatic conditions,and mulching materials (Ghosh et al., 2OO6). Germination, emergence, and early seedling growth are essential to crop growth and yield formation. However, these crop growth processes are largely restricted by low temperature before winter and at the beginning of spring in many high latitude regions. Higher soil temperature with plastic film mulching can provide a better root growth environment (Dong et al., 2O09) and accelerate crop growth (Yin et al., 2016). The present study shows that M1 had a higher soil temperature than M2 and CK both during summer maize and winter wheat seasons. However, it is not the truth that the higher the soil temperature is, the more it is conducive to crop growth. In later crop growth stages, higher soil temperature with plastic film mulching is unnecessary, since it actually depresses photosynthesis, and eventually reduced crop yield (Li et al., 1999). The combined use of plastic film mulching over the ridges and crop straw mulching in the furrows can effectively regulate soil temperature. The higher soil temperature with plastic film mulching over the ridges promotes the early growth (air temperature is relatively low) of plants and the lower soil temperature with crop straw mulching in the furrows extends the reproductive cycle (air temperature is relatively high) of plant. A more recent study, which was conducted using spring maize, showed lower soil temperature with black film mulching than transparent film mulching is beneficial to improve the growth environment of roots and enhance the drought resistance of plants (Lu et al., 2O17). Similar result was obtained in this study. Regarding the two dual ARH treatments (M3 and M4), the lower soil temperature with M4 was favorable for summer maize production and the higher soil temperature with M3 was favorable for winter wheat cultivation. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.3Crop yield and WP under different ARH techniques ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "ARH techniques can increase crop yield by increasing soil moisture content and soil temperatures and by enhancing N transformation and availability (Fan et al., 2OO5; Zhang et al., 2O14). Wang et al. (2009) reported that maize yield was highest in a ridge-furrow ARH system with plastic-covered ridges and gravel/sand-mulched furrows, where yield was similar to that in a ridge-furrow ARH system with bare furrows plus $9 0 ~ \\mathrm { m m }$ irrigation treatment. This result showed the importance of moisture conserving methods as wel as irrigation. Han et al. (2O14) found that wheat yield was highest in ridge-furrow planting with transparent film mulch over the ridges and crop straw mulch in the furrows. Yield in ridge-furrow planted plots with transparent film mulch on the ridges and straw mulch in the furrows was $1 5 . 9 \\%$ and $1 7 . 4 \\%$ higher than that in plots with ridge-furrow planting but with transparent film mulch over the ridges only and with transparent film mulch over the ridges and liquid film mulch in the furrows, respectively. In the present study, maize yield over two seasons followed the order of dual ARH (M3 and M4)>single ARH (M1 and M2)>control (CK), with the yield in M4 being higher than that in M3 (Table 3). In contrast to maize, the highest grain yield during the two wheat seasons occurred in M3, followed by M4, and M3 had significantly more fertile tillers than M4 (Table 5). The large difference in fertile tillers between the two treatments caused the differences in yields between M3 and M4 (Table 6). Fewer fertile tillers may be a consequence of the lower soil temperature associated with black film over the ridges compared to the transparent film early in the crop season. Low soil temperature before winter and at the beginning of spring not only influences seed germination and tiller production, but also has an indirect but marked effect on other metabolic processes (Chaudhary and Chopra, 1983). Annual yield over the 2-year rotations,however, did not differ significantly between M3 and M4 (Table 7). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Increasing WP by a more effective use of precipitation is another important advantage of ARH cultivation measures in arid and semi-arid areas (Tubeileh et al.,2O16). In this study, WP and PP were higher in M4 in maize seasons and in M3 in wheat seasons than in the other treatments (Tables 3 and 5). Li et al. (2OOO) also found that ARH cultivation using plastic-covered ridges and gravelmulched furrows retained precipitation more eficiently than did bare ridges. Wang et al. (2009) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "obtained similar results for the effects of ARH and mulching technologies on WUE in the semiarid Loess Plateau in China. As with annual yield, annual WP followed the order of (M3 and M4)>(M1 and M2)>CK in the two rotation seasons(Table 7). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Heavy rains in September 2O14 severely affected the filling and development of maize kernels, which led to a lower yield, WP, and PP than those occurred in 2O13, despite an $8 5 . 8 ~ \\mathrm { m m }$ higher precipitation in 2014 than that in 2013 (Table 3). Ren et al. (201O) reported that an ARH treatment increased yield and WUE with precipitations of 230 and $3 4 0 \\mathrm { m m }$ , compared to traditional no-mulch planting, but not with a precipitation of $4 4 0 ~ \\mathrm { m m }$ . The discrepancies between our results and those of previous reports are most likely due to the differences in precipitation distribution and soil characteristics. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5Conclusions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The ARH treatments generally increased SWS and SWC, and decreased water consumption. The dual ARH treatments (M3 and M4) were superior to the single ARH treatments (M1 and M2), while black film mulch (M4) was more effective than transparent film mulch (M3). During both summer maize and winter wheat seasons, M1 had a higher soil temperature than M2 and CK; and M3 had a higher soil temperature than M4. The optimal ARH strategy for summer maize was M4, where maize yield, WP, and PP were, on average, $3 0 . 9 \\%$ ， $3 9 . 0 \\%$ ，and $3 1 . 0 \\%$ higher, respectively, compared with CK over the two seasons.For winter wheat, however, M3 proved to be the optimal ARH strategy, with the highest crop yield, WP,and PP, which, on average, were $2 3 . 7 \\%$ ， $2 6 . 7 \\%$ ,and $2 3 . 8 \\%$ higher than those in CK, respectively. Annual water consumption was the lowest in M4, and annual yield and WP were the highest in M4 but did not differ significantly from M3. M3 and M4 is a promising ARH technique for winter wheat and summer maize production,respectively, in subhumid drought-prone climate and other regions with similar ecologies. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This study was supported by the Special Fund for Agro-scientific Research in the Public Interest (201503125, 201503105) and the Chinese National High Technology Research and Development Program (2011AA100504). The authors acknowledge editors and anonymous reviewers for providing helpful comments on this manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "BargarB,SwanJB,JaynesD.1999.Soilwaterrechargeunderuncroppedridgesandfurows.SoilScienceSocietyofAmerica Journal, 63(5): 1290-1299.   \nCarterDC,Miler S.1991.Three years experience with an on-farm macro-catchment water harvesting system in Botswana. Agricultural Water Management,19(3): 191-203.   \nChaudharyTN,ChopraUK.1983.Effectofsoilcoverson growthand yieldof irigated wheatplanted attwodates.Field Crops Research, 6: 293-304.   \nChenYL,LiuT,Tian XH,etal.2015.Effectsofplasticfilmcombinedwithstraw mulchongrainyieldand wateruseeffciency of winter wheat in LoessPlateau. Field CropsResearch,172: 53-58.   \nChoudhurySG,SrivastavaS,nghR,etal.214.Tillgeandrsiduemaagementeffctsonsoilaggegationranicarbon dynamics andyieldatributeinrice-wheatcroppingsystemunderreclaimedsodic soil.SoilandTillageReseach,36:76-83.   \nClayDE,ClaySA,Brix-Davis K,etal.1994. Nitrate movementafteranhydrous ammoniaapplicationinaridge tilagesystem. Journal of Environmental Quality, 23(1): 9-13.   \nDongHZ,Li WJ,Tang W,etal.Oo9.Early plastic mulchingincreases standestablishmentandlintyieldofcoton inaline fields. Field Crops Research,111(3): 269-275.   \nFanMS,LiXJ,JiangRF,etal.2o5.Cropyiels,inteautrintefiiencyadhangesinsoilpropertiesiiceat rotations under non-flooded mulching cultivation.Plant and Soil,277(1-2): 265-276.   \nGhosh PK,DayalD,Bandyopadhyay K K,et al.2O06.Evaluationof straw and polythene mulch for enhancing productivityof irrigated summer groundnut. Field Crops Research, 99(2-3): 76-86.   \nGu X B,Li YN,DuYD.2016.Continuous ridges with film mulching improve soil watercontent,root growth,seed yield and water use efficiency of winter oilseed rape.Industrial Crops and Products,85: 139-148. humid drought-prone region in China. Acta Agronomica Sinica,40(1): 101-109.(in Chinese)   \nHuang YL,ChenLD,FuBJ,et al.2Oo5.The wheat yields and water-use eficiencyinthe Loes Plateau: straw mulchand irrigation effects. Agricultural Water Management, 72(3): 209-222.   \nKahlon MS,LalR,Ann-Varughese M.2O13.Twentytwo yearsof illgeand mulching impacts onsoil physicalcharacteristics and carbon sequestration in Central Ohio. Soil and Tillage Research,126: 151-158.   \n$\\mathrm { K i m } \\mathrm { \\thinspace S \\ : H }$ ,Gitz DC,SicherRC,etal.20o7.Temperaturedependenceof growth,development,and photosynthesis inmaizeunder elevated $\\mathrm { C O } _ { 2 }$ . Environmental and Experimental Botany, 61(3): 224-236.   \nLiFM,GuoAH, Wei H.1999.Effects ofclearplastic film mulchonyieldof spring wheat.FieldCropsResearch,63(1):79-86.   \nLiFM, WangJ, XuJZ,etal.2004. Productivityandsoilresponsetoplasticfilmmulching durations forspring wheat onntisols in the semiarid Loess Plateau of China. Soil and Tillage Research, 78(1): 9-20.   \nLi R, Wang M,JiaZ K,etal. 212.Efects ofdiffrentmulchingpates onsoiltemperature,moisture waterand yieldofspring maize in Weibei Highland. Transactions of the CSAE,28(2): 106-113. (in Chinese)   \nLi XL,Su DR, YuanQH.2o7.Ridge-furrow plantingofalfalfa (Medicago sativaL.)forimprovedrainwaterharvestinrainfed semiarid areas in Northwest China. Soil and Tillage Research, 93(1): 117-125.   \nLi XY,GongJD,Wei XH.2oo.In-siturnwaterharvestigandgravelmulchcombinationforcoproductioninthedrysemiarid region of China. Journal of Arid Environments,46(4): 371-382.   \nLu HD,XueJQGuoDW,etal.2017.Effectsofblack plastic fim mulching on soil temperature and humidity inroot zoneand photosyntheticcharacteristicsofrainfed maize.Transactions of theChineseSocietyofAgricultural Engineering,33(5):129 135. (in Chinese)   \nMacedonio F,Drioli E,GusevAA,etal.2O12.Eficienttechnologies for worldwide clean watersuply.ChemicalEnginering and Processing: Process Intensification, 51: 2-17.   \nMaurya PR,LalR.1981.Eects of diferent mulch materials on soil properties andontheroot growthand yieldofmaize (Zea mays)and cowpea (Vigna unguiculata). Field Crops Research,4: 33-45.   \nMudatenguha F,AnenaJ, KiptumCK,etal.2O14.Insiturain water harvesting techniques increase maize growthand grain yield ina semi-arid agro-ecologyof nyagatare,Rwanda.International Journal of Agriculture &Biology,16(5): 996-1000.   \nNachtergaeleJ,Poesen J, Van Wesemael B.1998.Gravel mulching invineyardsof southernSwitzerland.Soilandilage Research, 46(1-2): 51-59.   \nNan W G, Yue S C, Huang H Z, et al. 2016. Effects of plastic film mulching on soil greenhouse gases ( $\\mathrm { C O } _ { 2 }$ . $\\mathrm { C H } _ { 4 }$ and ${ \\bf N } _ { 2 } \\mathrm { O }$ concentration within soil profiles in maize fields on the LoessPlateau,China.Journal of Integrative Agriculture,15(2): 451- 464.   \nPayero JO,Tarkalson DD,Irmak S,etal.2Oo8.Effectofirrigation amounts applied with subsurfacedripirrigationoncorn evapotranspiration，yield，wateruseeficiency，and dry mater production inasemiarid climate.Agricultural Water Management, 95(8): 895-908.   \nQin S H,Zhang JL, Dai HL,et al. 2O14.Efect of ridge-furrow and plastic-mulching plantingpattersonyield formationand water movement of potato in a semi-arid area. Agricultural Water Management, 131: 87-94.   \nRamakrishna A,Tam HM, Wani SP,et al.2O6.Eect of mulchonsoil temperature, moisture, weed infestationand yieldof groundnut in northern Vietnam. Field Crops Research, 95(2-3): 115-125.   \nRen XL,Jia Z K,Chen XL.2Oo8.Rainfallconcentration forincreasingcorn productionundersemiarid climate.Agricultural Water Management, 95(12): 1293-1302.   \nRen $\\mathrm { ~ X ~ L ~ }$ , Jia Z K, Chen X L. 2010.Efect of micro-catchment rainwater harvesting on water and nutrient use effciency in farmlandunderdifferentsimulatedrainfallconditions.TransactionsofteChinese SocietyofAgriculturalEngineering,6(3): 75-81. (in Chinese)   \nRockstrom J, Lannerstad M, Falkenmark M.207. Assessing the water challengeof a new green revolution in developing countries.Proceedings of the National Academyof Sciences of the United States of America,104(15): 6253-6260.   \nSarkar S,Paramanick M, Goswami SB.2Oo.Soil temperature,water use and yieldof yellowsarson (Brassica napus L.var. glauca)in relation totillage intensityand mulch management under rainfed lowland ecosystem in eastern India.Soil and Tillage Research, 93(1): 94-101.   \nTian Y, SuDR,LiFM,etal.2O03.Eectofrainwaterharvestingwithridgeandfurrowoyieldofpotatoinsemiaridareas. Field Crops Research, 84(3): 385-391.   \nTubeilehA,BruggemanA,Turkelboom F.2016.Water-harvesting designs for fruit tree production indryenvironments. Agricultural Water Management, 165: 190-197.   \nWang M,Wang HX,Han QF,etal.2011.Efectsofdiferent mulching materialsonsoil water,temperature,andco growth. Acta Agronomica Sinica, 37(7): 1249-1258. (in Chinese)   \nWang XL,LiFM,JaY,etal.25.Increasingpotato yieldswithadditional waterandincreased soil temperature.Agricultural Water Management, 78(3): 181-194.   \nWangYJ,XieZK,MalhiSSetalO9.Efectsofrainfallharvestingandmulchingtechnologiesonwateruseeficiencynd crop yield in the semi-arid Loess Plateau, China. Agricultural Water Management, 96(3): 374-382.   \nWuSH,YinYH,ZhengD,etal.2Oo5.AridityumiditystatusoflandsurfaceinChinaduringthelastthree decades.Science in China Series D: Earth Sciences,48(9): 1510-1518.   \nWuY,JiaZKenXLetal.5.Efctsofdgeaduoatestisoeditatioooing water use eficiency of maize (Zea mays L.)in semi-humid area of China.Agricultural Water Management,158:1-9.   \nXiao GJ, Zhang Q, XiongYC,et al.2Oo. Integrating ranwater harvesting with supplemental iigationintorain-fed spring wheat farming. Soil and Tillage Research, 93(2): 429-437.   \nYin M H,LiYN,Yang Y,etal.2014.Effectsof irigationtreatmentsandfilm muching times on physiologyof spring maize. Journal of Northwest A&F University (Natural Science Edition),42(12): 199-207.(in Chinese)   \nYin MH,LiYN,ZhangTL,etal.2O15.Efectsofdiferentrainwaterharvestingpattersonsoilhydrothermalregimesand water use eficiencyofsummer maize.Transactionsof theChineseSocietyfor Agricultural Machinery,46(12):194-203,211. (in Chinese)   \nYin MH,LiYN,LiH,etal.2016.Efectsof mulching patternsonfarmlandsoil environment and winter heat growth. Transactions of the Chinese Society for Agricultural Machinery,47(4): 127-135,227. (in Chinese)   \nYue XF,ZhangTH,ZaoXYetal.6.EectsofrallpatesonaalplatsinHoriandyLnd,Inrogolia of China. Journal of Arid Land, 8(3): 389-398.   \nZhang JB,YangJS,YaoRJ,etal.2014.Theefectsoffarmyardmanureand mulchonsoil physicalproperties inarelaimed coastal tidal flat salt-affected soil. Journal of Integrative Agriculture, 13(8): 1782-1790.   \nZhao YC,Wang P,Li JL,etal.2009.The effects of twoorganic manures onsoil properties and crop yields ona temperate calcareous soil under a wheat-maize cropping system. European Journal of Agronomy,31(1): 36-42.   \nZhouLM,LiFM,JinSL,etal.2o9.Howtwodgesandthefurrowmulched withplasticfimaffctsoilwater,soltmeature and yield of maize on the semiarid Loess Plateau of China. Field Crops Research,113(1): 41-47.   \nZhouLM,JinSLLiuCA,etal.dgefurroadpsticulcintilageeacszeoiliteractios:o and challenges ina semiarid agroecosystem.Field CropsResearch,126:181-188. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

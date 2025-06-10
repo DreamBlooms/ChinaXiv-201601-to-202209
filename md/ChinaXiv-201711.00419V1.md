@@ -1,0 +1,113 @@
+# 脂肪与肥胖相关基因对动物脂肪代谢的调节
+
+张莹吴铁梅王雪闫素梅（内蒙古农业大学动物科学学院，呼和浩特010018）
+
+摘要：脂肪与肥胖相关（fat mass and obesity associated，FTO）基因是一种与普通肥胖相关的等位基因，该基因导致的肥胖是21世纪世界各国面临的最大公共卫生挑战之一。FTO基因与机体的普通肥胖有着密切的关系，而且与脂肪沉积和脂肪代谢相关激素及基因的表达有关。本文综述了FTO基因在脂肪细胞分化和脂肪代谢中的作用，揭示了FTO基因对脂肪沉积的影响，为深入研究动物脂肪代谢的机制提供理论基础。
+
+关键词：FTO基因；脂肪细胞分化；脂肪沉积中图分类号：S811 文献标识码：A 文章编号：1006-267X(2016)00-0000-00
+
+近年来，随着人民生活水平的提高，人们对肉品质提出了更高的要求，而肌内脂肪与肌肉的风味和品质有很大的关系。脂肪与肥胖相关（fat mass and obesity associated，FTO）基因是2007年新发现的与人类肥胖相关的基因，研究发现FTO基因可以通过调控脂肪细胞的成脂功能，从而调节人类肥胖的发生[]。目前的一些研究报道认为，FTO 基因通过转录因子—过氧化物酶体增殖物激活受体 $\gamma$ （PPARγ）和CCAAT/增强子结合蛋白（CCAAT/enhancerbinding protein，C/EBP）调节脂肪酸转运和脂肪代谢相关基因的转录，进而影响脂肪的代谢。其中，PPARγ 是脂肪形成过程中的核心转录因子；C/EBP 尽管不是脂肪细胞特有的，但由于含有C/EBP的结合位点，因此能启动脂肪细胞特异性基因的转录。然而，目前FTO 基因的研究主要集中在人、鼠及猪等哺乳动物领域，在其他动物中的报道甚少。本文主要从FTO基因的结构和调控脂肪代谢的角度，综述了该基因对脂肪代谢的影响及其在脂肪代谢中的作用，为从脂肪代谢水平改善动物的肉品质提供理论基础。
+
+1FTO基因及其表达的影响因素
+
+1.1 FTO基因结构与分布特点
+
+FTO 基因首次是Peters 等[]从患有脚址融合（Fused toes，Ft)的小鼠中克隆而来，当时命名为Fatso，它在小鼠胚胎和成年小鼠中都有表达。Fischer 等3建立了FTO基因敲除的小鼠模型，研究发现FTO基因的缺乏将明显降低体重并影响脂肪含量。相继的报道也发现FTO基因缺乏的小鼠促进了白色脂肪组织中白色脂肪细胞转化成棕色或浅棕色脂肪细胞，促进了棕色脂肪组织标记的解偶联蛋白1（UCP1）的表达[4]。
+
+人的FTO基因定位于16号染色体上，研究发现，FTO基因在胎儿以及成人组织中广泛表达，尤其在下丘脑、垂体、肾上腺和胰岛[5]。付言峰等研究了苏钟猪肺脏、肝脏、心脏、背膘和背最长肌等不同组织中FTO 基因的 mRNA表达谱信息，发现FTO 基因在背膘的表达量最高、背最长肌表达量最低。牛、羊和猪的FTO 基因定分别位于18号染色体、14号染色体和6号染色体上。王金泉等[7研究了小尾寒羊与阿勒泰大尾羊FTO 基因表达的差异，主要测定了2个品种绵羊下丘脑、海马、垂体、心肌、背最长肌、心周脂、肾周脂和尾脂FTO mRNA表达。这些结果提示FTO基因广泛分布在动物体的不同组织中，且在不同物种和相同物种的不同组织中存在差异。
+
+# 1.2影响FTO 基因表达的因素
+
+研究发现，FTO 基因的表达受许多因素的影响，其中，营养因素是影响其表达的因素之一[8-9]，如脂肪酸的类型、能量营养水平等。有研究指出人大量的摄入饱和脂肪酸代替总脂肪可以影响FTO 风险等位基因的表达，进而影响体重，但多不饱和脂肪酸的摄入对决定体重的FTO 基因多态性没有影响[10]。研究结果指出，小鼠的下丘脑 N46 细胞、鼠成纤维细胞和人的 HEK293 细胞中FTO 基因为必需氨基酸的利用提供了一个传感器[]。在小鼠的动物研究中也显示，高能量饲养可以上调FTO 基因的表达，而禁食下调了FTO 基因的表达[12]。Gulati 等[13]研究发现氨酰-tRNA合成酶与FTO 蛋白相互作用，促进FTO 蛋白的表达。此外，动物的品种和组织部位也影响FTO 基因的表达，王金泉等[研究了小尾寒羊与阿勒泰大尾羊FTO 基因表达的差异，结果显示阿勒泰大尾羊FTO 基因在背最长肌、心肌、肾周脂肪等组织间的表达显著高于小尾寒羊，其他组织中无显著差异，推测FTO 基因可能与2个品种绵羊的脂肪沉积规律不同有关。
+
+# 2FTO基因对动物脂肪代谢的影响
+
+通过全基因组关联分析（genome-wide association study，GWAS）和转基因小鼠肥胖模型的建立，到目前为止共发掘了835个与肥胖相关的基因和 317个与肥胖相关的多核苷酸位点[14-15]。最早FTO 基因的多态性分析主要集中在与人类肥胖相关的报道上。Li等[16]报道了FTO 基因rs9939609位点突变与我国成年人肥胖之间具有显著的相关性。研究发现，人类的FTO 蛋白结构与鼠、牛、羊、狗和马的蛋白结构同源性超过 $8 5 \% ^ { [ 5 ] }$ ，由此说明FTO 蛋白在不同物种间具有相似的功能，因此FTO 基因在不同的物种中也相继被研究。同时，随着对FTO 基因研究的不断深入，关于FTO基因与肉品质相关的报道也越来越多，发现该基因通过影响肌内脂肪沉积和背脂厚度影响肉的品质。Fontanesi 等[17]报道猪的FTO 基因内单核苷酸多态性位点(AM931150：g.276T>G)与脂肪特征、大理石纹、背脂厚度和肌内脂肪含量密切相关。Fan 等[18]研究指出猪的 FTO 基因单核苷酸多态性影响巴克夏 $\times$ 约克夏（BerkshirexYorkshire）二元杂交猪的平均日增重。Rempel等[19]以牛为试验动物的研究结果也指出,FTO 基因核苷酸多态性影响杂交牛的生长体重和平均日增重。Zhang 等[20]研究发现，兔的 FTO 基因内单核苷酸多态性位点[SNP c.499G>A(p.A167T)]显著影响 35 日龄、70 日龄和 84日龄新西兰兔的体重；同义单核苷酸多态性的CC 基因型 $\mathrm { c . 6 6 0 T > C }$ 显著影响84日龄新西兰兔的体重、平均日增重、背最长肌中肌内脂肪的含量，对84日龄新西兰兔肉品质的影响超过了爱尔兰兔中FTO基因同义单核苷酸多态性的TT 和TG基因型。FTO 基因随前体脂肪细胞 3T3-L1分化而成上调趋势，杜琛等[21研究发现FTO 基因在肌内前体脂肪细胞分化的任何时期都有较高表达水平，表达水平高于肌内前体脂肪细胞早期分化标志的 PPARy和脂蛋白脂肪酶（LPL）基因的表达。但是，FTO基因是否可以作为判断肌前体脂肪细胞分化早期的一个标志还需要进一步验证。此外，Zielke 等[22]研究发现 FTO 基因与乳品质也密切相关，指出FTO 基因在 $7 2 5 \mathrm { k b }$ 区域覆盖内有5个单核苷酸多态性位点和2个单体型，这些FTO 基因的多态性位点与它邻近的基因RPGRIPIL、U6ATAC以及5SrRNA不仅影响乳脂肪量，而且影响乳蛋白质量，且FTO 基因内的高频率的单核苷酸多态性位点增加乳脂肪和乳蛋白质的量分别为 2.8 和 $2 . 2 \mathrm { k g }$ 。
+
+# 3FTO基因对动物脂肪代谢的调节作用
+
+脂肪代谢调控是一个复杂连锁的反应，会受到转录因子、转运蛋白、脂肪代谢酶等相关因子的相互作用，FTO 基因如何调控脂肪代谢的研究还不够深入，主要局限于受到转录因子 PPARγ和C/EBP 的调控，或通过FTO 基因脱甲基化作用反向调控C/EBP 家族因子的转录水平来调控动物脂肪代谢的过程，且此前研究主要集中在小鼠和人等动物，在反刍动物中的研究极少。PPARγ是调控脂肪细胞分化和脂肪沉积的主要转录因子，在脂肪生成的转录调节中起重要作用。Wu 等[23]研究指出 FTO 是一个转录共激活子，可以增强C/EBP家族成员的结合，而C/EBP 家族可激活 PPARγ 的表达，说明 FTO 可能参与脂肪组织发育和维持的调节。该研究还进一步指出,FTO作为一个转录共激活子，通过反式激活未甲基化的C/EBP或抑制C/EBP 甲基化基因的启动子来激活C/EBP 家族的表达。这一研究结果与Merkestein等[24]的结果相似，FTO 基因过表达小鼠胚胎成纤维细胞中调控脂肪细胞分化的 PPARy和
+
+C/EBP以及脂肪酸结合蛋白（FABP4）表达显著升高，而在FTO基因敲除的小鼠胚胎成纤维细胞中相应表达量则显著降低。由此说明FTO基因通过调控脂肪细胞分化的转录因子和转运蛋白来调节脂肪代谢。另外，固醇调节元件结合蛋白（SREPB）作为调控动物脂肪细胞分化及脂肪合成的另一种重要转录因子，通过与PPARγ协同作用来调控动物的脂肪代谢，而 PPARγ又直接调控FTO 基因的表达，因此 SREPB 是否也会对FTO 基因的表达产生直接或间接的影响，还有待进一步的研究。
+
+研究指出，FTO基因含有DNA脱甲基酶基因——大肠杆菌（Escherichiacoli）烷烃羟化酶（AlkB）和哺乳动物 AlkB 同族体(mammalian AlkB homolog，ABH)，通过解除 DNA 甲基化调控脂肪代谢相关基因的表达[25]。DNA 甲基化对基因表达有重要的调控作用，甲基化通常发生在特定的CpG 二核苷酸上，从而阻遏 DNA 的转录。FTO 基因调控脂肪代谢的另一种途径是该基因编码 2-酮戊二酸依赖性双加氧酶，该酶参与多种氧化反应，在脂肪代谢过程和能量平衡过程中发挥重要作用[4]。有报道指出，FTO基因上与肥胖相关的多核苷酸位点不是通过FTO基因的表达来调控肥胖，而是通过影响相邻基因 IRX3和RPGRIPIL的表达实现对脂肪的合成[26-27]。Merkestein 等[24]通过体内试验比较研究了FTO 过表达小鼠胚胎成纤维细胞和FTO 基因敲除的小鼠胚胎成纤维细胞中脂肪细胞的含量，发现FTO 基因敲除的小鼠胚胎成纤维细胞中脂肪合成下降，而FTO 基因过表达小鼠胚胎成纤维细胞中脂肪合成增加，导致上述结果的原因可能是因为FTO基因通过增强促脂肪生成因子RUNXIT1的表达来实现对脂肪生成的调控。该报道与 Zhao 等[28]的研究结果一致，促脂肪生成因子RUNXITI在 3T3-L1细胞中过表达可以促进脂肪细胞的形成。牛丛丛等[29]通过构建FTO基因过表达载体，转染到有双荧光素酶报告基因检测系统的NIH/3T3 细胞系中，研究表明过表达FTO 基因后，脂肪合成相关的基因受到FTO 基因的正向调控，表达量升高；而脂肪分解相关的基因受到FTO基因的负向调控，表达量降低。
+
+研究发现FTO 基因在调控能量平衡、脂肪沉积和肥胖中发挥重要作用[30]。FTO基因通过脂肪细胞分泌的瘦素（leptin，LEP）调控食欲，FTO 基因的过表达可导致LEP 受体信号分子 STAT3的mRNA表达上调，而LEP 抑制下丘脑摄食中枢、产生饱腹感、降低食欲，并在外周组织调节能量代谢和肝脏葡萄糖的生成[31-32]。评价肉质的指标通常包括肉色、pH、系水力、嫩度、多汁性和大理石纹，这些指标是由肌内脂肪决定的，而肌内脂肪的含量是受控与转录因子和基因的调节。因此，FTO 基因被认为是调控脂肪积累和脂肪代谢的候选基因，在改善肉品质过程中发挥着重要作用。
+
+此外，脂肪代谢过程中还会受到一系列脂肪合成酶和脂肪分解酶的影响，因此脂肪酶基因表达是否与FTO基因的表达有密切关系，以及调控脂肪代谢过程的Wnt信号通路中相关信号分子的传递是否对FTO基因的表达产生影响也是我们亟待解决的问题。
+
+# 4小结
+
+本文主要从FTO 基因的结构和调控脂肪代谢的角度综述了该基因对脂肪代谢的影响及其在脂肪代谢中的作用，为从脂肪代谢水平改善动物的肉品质提供了理论基础。FTO 基因是转录共激活子，可通过脂肪细胞分泌的LEP 调控脂肪代谢，通过增强 PPARγ、C/EBP 和脱甲基化作用反向调控C/EBP 家族因子的转录水平，调节脂肪酸转运和脂肪代谢相关基因的转录。因此，系统地研究FTO 基因与调控脂肪代谢主要转录因子、转录酶及信号通路的相互作用和关系，对深入了解动物脂肪代谢的调节机制具有重要的理论意义。
+
+参考文献:
+
+[1]LOOS R JF,BOUCHARD C.FTO:the first gene contributing to common forms of human obesity[J].Obesity Reviews,2008,9(3):246-250.
+
+[2]PETERS T,AUSMEIER K,RUTHER U.Cloning of Fatso (Fto),a novel gene deleted by the Fused toes $( F t )$ mouse mutation[J].Mammalian Genome,1999,10(1O):983-986.
+
+[3]FISCHER J,KOCH L,EMMERLING C,et al.Inactivation of the FTO gene protects from obesity[J].Nature,2009,458(7240):894-898.
+
+[4]GERKEN T,GIRARD C A,TUNG Y C L,et al.The obesity-associated FTO gene encodes a 2-oxoglutarate-dependent nucleic acid demethylase[J].Science,2007,318(5855):1469-1472.
+
+[5]FRAYLING T M,TIMPSON N J,WEEDON M N,et al.A common variant in the FTO gene is associated with body mass index and predisposes to childhood and adult obesity[J].Science,2007,316(5826):889-894.
+
+[6]付言峰,李兰,王学敏,等.苏钟猪FTO基因的mRNA 表达、克隆测序及其生物信息学分[J].华北农学报,2013,28(1):128-134
+
+[7]王金泉,王肖燕,叶青,等.阿勒泰大尾羊与小尾寒羊不同组织FTO 基因的检测[J].动物医学进展,2013,34(12):84-88.
+
+[8]TUNG Y C L,AYUSO E,SHAN X Y,et al.Hypothalamic-specific manipulation of Fto,the ortholog of the human obesity gene FTO,affects food intake in rats[J].PLoS One,2010,5(1):e8771.
+
+[9]MCTAGGART J S,LEE S,IBERL M,et al.FTO is expressed in neurones throughout the brain and its expression is unaltered by fasting[J].PLoS One,2O11,6(11):e27968.
+
+[10] CORELLA D,ARNETT D K,TUCKER K L,et al.A high intake of saturated fatty acids strengthens the association between the fat mass and obesity-associated gene and BMI[J].The Journal of Nutrition,2011,141(12):2219-2225.
+
+[11] CHEUNG M K,GULATI P,O'RAHILLY S,et al.FTO expression is regulated by availability of essential amino acids[J].International Journal of Obesity,2013,37(5):744-747.
+
+[12]TUNG Y C L,AYUSO E,SHAN X Y,et al.Hypothalamic-specific manipulation of Fto,the ortholog of the human obesity gene FTO,affects food intake in rats[J].PLoS One,2010,5(1):e8771.
+
+[13]GULATI P,CHEUNG M K,ANTROBUS R,et al.Role for the obesity-related FTO gene in the cellular sensing of amino acids[J].Proceedings of the National Academy of Sciences of the United States of America,2013,110(7):2557-2562.
+
+[14]DAI H J,WU J C,TSAI R T,et al.T-HOD:a literature-based candidate gene database for hypertension,obesity and diabetes[J].Database,2013,2O13:bas061.
+
+[15]RANKINEN T,ZUBERI A,CHAGNON Y C,et al.The human obesity gene map:the 2005 update[J].Obesity,2006,14(4):529-644.
+
+[16] LI X Y,SONG F F,JIANG H,et al.A genetic variation in the fat mass- and obesity-associated gene is associated with obesity and newly diagnosed type 2 diabetes in a Chinese population[J].Diabetes/Metabolism Research Reviews,2010,26(2):128-132.
+
+[17]FONTANESI L,SCOTTI E,BUTTAZZONI L,et al.The porcine fat mass and obesity associated (FTO） gene is associated with fat deposition in Italian Duroc pigs[J].Animal Genetics,2009,40(1):90-93.
+
+[18] FAN B,DU Z Q,ROTHSCHILD M F.The fat mass and obesity-associated (FTO) gene is associatedwith intramuscular fat content and growth rateinthepig[J].Animal Biotechnology,2009,20(2):58-70.
+
+[19]REMPEL L A,CASAS E,SHACKELFORD S D,et al.Relationship of polymorphisms within metabolic genes and carcass traitsin crossbred beef cattle[J].Journal of Animal Science,2012,90(4):1311-1316.
+
+[20] ZHANG G W,LIAN G, CHEN S Y,et al.Single nucleotide polymorphisms in the FTO gene and their association with growth and meat quality traits in rabbits[J].Gene,2013,527(2):553-557.
+
+[21]杜琛,付绍印,韩志玲,等.绒山羊肌内前体脂肪细胞的基因表达分析[J]).畜牧兽医学报,2013,44(10):1532-1538.
+
+[22]ZIELKE L G,BORTFELDT R H,REISSMANN M,et al.Impact of variation at the FTO locus on milk fat yield in Holstein dairy cattle[J].PLoS One,2013,8(5):e63406.
+
+[23] WU Q,SAUNDERS R A,SZKUDLAREK-MIKHO M,et al.The obesity-associated Fto gene is a transcriptional coactivator[J].Biochemical and Biophysical Research Communications,2010,401(3):390-395.
+
+[24]MERKESTEIN M,LABER S，MCMURRAY F,et al.FTO influences adipogenesis by regulating mitotic clonal expansion[J].Nature Communications,2O15,6:6792.
+
+[25]JIA G F,YANG C G,YANG S D,et al.Oxidative demethylation of 3-methylthymine and 3-methyluracil in single-stranded DNA and RNA by mouse and human FTO[J].FEBS Letters,2008,582(23/24):3313-3319.
+
+[26]SMEMO S,TENA JJ,KIM K H,et al.Obesity-associated variants within FTO form long-range functional connections with IRX3[J].Nature,2014,507(7492):371-375.
+
+[27] STRATIGOPOULOS G,MARTIN CARLI J F,O'DAY D R,et al.Hypomorphism for RPGRIPlL,a ciliary gene vicinal to the FTO locus,causes increased adiposity in mice[J].Cell Metabolism,2014,19(5):767-779.
+
+[28] ZHAO X,YING Y,SUN B F,et al.FTO-dependent demethylation of N6-methyladenosine regulates mRNA splicing and is required for adipogenesis[J].Cell Research,2014,24(12):1403-1419.
+
+[29] 牛丛丛,周磊,安超强,等.猪FTO 的转录调控研究[J].畜牧与兽医,2012,44(增刊):191-192. [30] CHURCH C,MOIR L,MCMURRAY F,et al.Overexpression of FTO leads to increased food intake and results in obesity[J].Nature Genetice,2010,42(12):1086-1092.
+
+[31]STRATIGOPOULOS G,PADILLA S L,LEDUC C A,et al.Regulation of FTO/Ftm gene expression in mice and humans[J].American Journal of Physiology:Regulatory Integrative and Comparative Physiology,2008,294(4):R1185-R1196.
+
+[32] CECIL JE,TAVENDALE R,WATT P,et al.An obesity-associated FTO gene variant and increased energy intake in children[J].The New England Journal of Medicine,2008,359(24):2558-2566.
+
+Regulation of Fat Mass and Obesity Associated Gene in Animal Fat Metabolism: a Review ZHANG YingWU TiemeiWANG XueYAN Sumei\*
+
+(College of Animal Sciences, Inner Mongolia Agricultural University, Hohhot O1oo18, China)
+
+Abstract: Fat mass and obesity associated (FTO) gene is an allle related common obesity, and causes obesity which is one of the biggest public health challenges around the world in the 21st century. FTO gene not only has a close relationship with obesity,but also is associated with hormone and gene expression in fat deposition and metabolism. This paper reviewed the FTO gene roles in adipocyte differentiation and fat metabolism,revealed the FTO gene effects on fatty deposits, with the aim of providing theoretical basis for animal fat metabolism mechanism.
+
+Key words:FTO gene; adipocyte differentiation; fat deposition

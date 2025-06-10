@@ -1,0 +1,523 @@
+[
+    {
+        "type": "text",
+        "text": "引用格式:Ye Pei,Xu Ke,Xu Xiyu.Study on Denoising the Instrumental Errors of the Sea Surface Height Series Derived from Buoys[J].Remote Sensing Technology and Application,2015,30(4):661-66.[叶沛,许可,徐曦煜.基 于奇异谱分析的 DGPS 浮标海面高测量误差研究[J].遥感技术与应用,2015,30(4)：661-666.] doi:10.11873/j.issn.1004-0323.2015.4.0661 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于奇异谱分析的DGPS浮标海面高测量误差研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "叶沛1,2,3,许可1,2，徐曦煜1,2（1.中国科学院空间科学与应用研究中心微波遥感技术重点实验室，北京100190；2.中国科学院空间科学与应用研究中心，北京100190；3.中国科学院大学，北京100049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：在高度计绝对定标实验中，利用差分GPS(DifferentialGPS,DGPS)浮标进行现场海面高测量得到的海面高(Sea Surface Height,SSH)序列之中，除了包含有由风浪引起的高频噪声外，还包括了仪器误差造成的影响。前者可通过低通滤波方式消除，而后者由于是全频段的白噪声，不能通过低通滤波的方式消除。通过研究奇异谱分析(Singular Spectrum Analysis,SSA)的方法，确定了嵌入维数和截断长度的选取准则，并对其进行仿真，验证了该方法在消除海面高序列的仪器误差噪声中的有效性，同时也验证了嵌入维数和截断长度选取准则的有效性。最后,利用该方法处理了某次DGPS浮标实验获得的海面高序列，处理结果与原始序列相比较为平滑，且在精度上有一定的改善，验证了奇异谱分析方法的有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "∈键词：高度计定标;海面高序列;仪器误差;奇异谱分析;降噪中图分类号：P714 文献标志码：A 文章编号：1004-0323（2015)04-0661-06",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "引言",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C在高度计定标中，利用差分GPS 浮标获得的海面高序列之中通常包含了由风浪、仪器误差等引起的噪声分量，需要对这个原始时间序列进行平滑处理，从而消除噪声分量，得到星下点的平均海面高[]。为了消除海面高序列中的噪声分量，通常的做法是对该序列进行滑动平均或Vondrak滤波处理以消除其高频分量。然而，分析原始序列频谱可知，由风浪引起的噪声其频谱仅集中在某一频段内，而仪器误差引起的噪声分量则分布于整个频带上。滑动平均或者Vondrak 滤波本质上是一种低通滤波，因此可用于消除风浪噪声，但仪器噪声则不能通过这两种方法完全消除。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "消除仪器误差常用的方法有最小均方滤波和最小二乘滤波2，这两种方法都要求参考输入序列与原始序列相关。最小均方滤波要求输入序列必须是平稳的，而最小二乘滤波是以误差的平方和最小作为最佳准则的滤波方法，可适用于非平稳序列。用该方法进行滤波时，需要知道序列中噪声的统计特性，从而将一个与原始序列中噪声的统计特性相同的序列作为参考输入，实现滤波。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于一个含有噪声的矩阵的特征值反映了有用信号和噪声的分布情况，因此可用奇异谱分析法对序列进行去噪。利用奇异谱分析法进行滤波时，不需要任何原始序列中噪声的统计特性，仅需知道原始序列大概的信噪比即可。而在消除海面高序列仪器噪声实验中，并不知道任何仪器误差的先验统计特性，且仪器的绝对误差量与真实的测量值相比较小，此时若进行最小二乘滤波，由于没有任何仪器误差的先验信息，可能因此带来额外的误差。因而可用奇异谱分析的方法对混有仪器噪声的海面高序列进行降噪处理。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2奇异谱分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1奇异谱分析基本概念",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "奇异谱分析是一种基于主成分分析的序列处理方法[3]，它仅需较少先验信息即可对原始序列进行降噪处理，分析序列结构（提取原始序列中的趋势、周期成分等)，因此广泛应用于气象或地理方面时间序列的处理[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于矩阵的特征值能够反映矩阵的信息，并且可通过这些特征值及其对应的特征向量来恢复该矩阵，大的特征值对应的是信号中能量大的组分，小的特征值则可认为对应的是信号中的噪声信息。因此，当选择用较大的特征值及其对应的特征向量来恢复矩阵时，得到的就是含有较少噪声或不含噪声的矩阵，这就是奇异谱分析去噪的基本思想。奇异谱分析分为信号的分解与重建两个阶段[5-6]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设混有噪声的序列 $x _ { i } ( i = 1 , 2 , \\cdots , N )$ 为经过了中心化的 $1 \\times N$ 的序列，即序列 $\\mathbf { \\mathcal { X } } _ { i }$ 的均值为O。为了能够利用 SSA，可通过嵌入的方法，将序列 $\\mathbf { \\mathcal { X } } _ { i }$ 扩展为在时间上滞后排列的 $M \\times ( N - M + 1 )$ 的空间坐标矩阵(trajectory matrix) $X$ 。由式（1）可以看出，矩阵 $X$ 是Hankel矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX = { \\left[ \\begin{array} { l l l l l l } { x _ { 1 } } & { x _ { 2 } } & { \\cdots } & { x _ { i + 1 } } & { \\cdots } & { x _ { N - M + 1 } } \\\\ { x _ { 2 } } & { x _ { 3 } } & { \\cdots } & { x _ { i + 2 } } & { \\cdots } & { x _ { N - M + 2 } } \\\\ { \\vdots } & { \\vdots } & & { \\vdots } & & { \\vdots } \\\\ { x _ { M } } & { x _ { M + 1 } } & { \\cdots } & { x _ { i + M } } & { \\cdots } & { x _ { N } } \\end{array} \\right] } = \\left[ X _ { 1 } , X _ { 2 } , \\cdots X _ { i + 1 } , \\cdots X _ { N - M + 1 } \\right]\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $M$ 为嵌人的维数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随后，计算空间坐标矩阵 $X$ 的 $M \\times M$ 自协方差",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "矩阵 $T _ { x }$ ，这是一个Toeplitz 矩阵，即任何平行于主对角线上的元素均相同。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { x } = \\left[ \\begin{array} { c c c c c c c } { { \\begin{array} { c c c c c c c } { { { \\scriptstyle c ( 0 ) } } } & { { } } & { { { \\scriptstyle c ( 1 ) } } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\scriptstyle c ( M - 1 ) } } \\\\ { { { \\scriptstyle c ( 1 ) } } } & { { } } & { { { \\scriptstyle c ( 0 ) } } } & { { { \\scriptstyle c ( 1 ) } } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } \\\\ { { \\cdots } } & { { { \\scriptstyle c ( 1 ) } } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } \\\\ { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } & { { \\vdots } } \\\\ { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\scriptstyle c ( 1 ) } } \\\\ { { { \\scriptstyle c ( M - 1 ) } } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { \\cdots } } & { { { \\scriptstyle c ( 1 ) } } } & { { \\scriptstyle c ( 0 ) } } \\end{array} } } \\end{array} \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $C ( j )$ 是延时为 $j$ 时 $\\boldsymbol { \\mathscr { x } } _ { i }$ 的协方差。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc ( j ) = \\frac { 1 } { N - j } \\sum _ { t = 1 } ^ { N - j } x _ { t } x _ { t + j } \\quad 0 \\leqslant j \\leqslant M - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由式（3）可知 $T _ { x }$ 是非负的。对 $T _ { x }$ 分解特征值，得到其特征值 $\\lambda _ { k } ( k = 1 , 2 , \\cdots , M )$ ，将这些特征值按从大到小的顺序重新排列， $\\lambda _ { 1 } > \\lambda _ { 2 } > \\cdots > \\lambda _ { M } \\geqslant 0$ ，这些特征值对应的特征向量为 $E ^ { k }$ 0",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } ^ { k } = \\left\\{ \\begin{array} { c } { { \\displaystyle \\frac { 1 } { M } \\sum _ { j = 1 } ^ { M } a _ { i - j } ^ { k } E _ { j } ^ { k } } } \\\\ { { } } \\\\ { { \\displaystyle \\frac { 1 } { i } \\sum _ { j = 1 } ^ { M } a _ { i - j } ^ { k } E _ { j } ^ { k } } } \\\\ { { \\displaystyle \\frac { 1 } { N - i + 1 } \\sum _ { j = i - N + M } ^ { M } a _ { i - j } ^ { k } E _ { j } ^ { k } } } \\end{array} \\right.\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "原始序列元素 $\\mathbf { \\mathcal { x } } _ { i }$ 下的所有RC之和即可完全重建出 $\\mathbf { \\mathcal { X } } _ { i }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i } = \\sum _ { k = 1 } ^ { M } x _ { i } ^ { k } , i = 1 , 2 , \\cdots , N\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "定义第 $k$ 个主成分（PrincipalComponent，$\\mathrm { P C } ) \\boldsymbol { a } _ { i } ^ { k }$ 为原始时间序列 $x _ { i } ( i = 1 , 2 , \\cdots , N )$ 在 $E ^ { k }$ 上的投影：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\na _ { i } ^ { k } = X _ { i } \\bullet E ^ { k } = \\sum _ { j = 1 } ^ { M } x _ { i + j } E _ { j } ^ { k } \\quad 1 \\leqslant i \\leqslant M - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "求得 $a _ { i } ^ { k }$ 后，即可用来恢复原始序列，得到重建序列（Reconstruction Component, $\\mathrm { R C } ) ^ { [ 7 - 8 ] }$ ：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM \\leqslant i \\leqslant N - M + 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n1 \\leqslant i \\leqslant M - 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN - M + 2 \\leqslant i \\leqslant N\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于特征值能够反映序列的特征成分，也就是说，利用特征值及其对应的特征向量得到的PC能够反映序列的特征，前面的一些比较大的PC代表序列中有用信号的特征成分，而后面的一些比较小的PC则主要反映噪声的影响。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此外，对序列进行奇异谱分析相当于将序列按其组成成分分解成了若干份，每个成分的能量都有一个特征值与之对应，并且特征值的大小反映了各成分能量之间的相对关系，而序列的能量是一定的，所以嵌入维数M越大，特征值就越小，各个特征值原始序列的分解成分就越多，各成分的能量也越小。因此，嵌入维数相当于分解组成成分的“分辨率”。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用SSA对原始序列进行去噪处理时，可以截取前面比较大的特征值对应的PC来重建原始序列，从而达到去噪的目的。设利用前 $\\boldsymbol { \\mathscr { p } }$ 个PC恢复的序列 $\\hat { \\boldsymbol { x } } _ { i }$ 为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { x } _ { i } = \\sum _ { k = 1 } ^ { P } x _ { i } ^ { k } , i = 1 , 2 , \\cdots , N\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "因此，利用奇异谱分析的方法对序列进行去噪处理的关键在于选择合适的嵌入维数 $M$ 和截断长度 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 嵌入维数及截取长度的选取 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设序列 $Y _ { L } ^ { ( 1 ) }$ 和 $Y _ { L } ^ { \\left( 2 \\right) }$ 分别是对原始序列进行奇异谱分析时按其组成成分分解后得到的表示其两个不同成分的序列。这两个序列的加权相关系数为 $\\rho _ { 1 2 } ^ { ( w ) }$ 。通常利用加权相关系数 $\\rho _ { 1 2 } ^ { ( w ) }$ 来评价两个不同成分的序列间的分离度。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { 1 2 } ^ { ( w ) } = \\frac { ( Y _ { L } ^ { ( 1 ) } , Y _ { L } ^ { ( 2 ) } ) _ { w } } { \\parallel Y _ { L } ^ { ( 1 ) } \\parallel _ { w } \\parallel Y _ { L } ^ { ( 2 ) } \\parallel _ { w } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\parallel Y _ { L } ^ { ( i ) } \\parallel _ { w } = \\sqrt { ( Y _ { L } ^ { ( i ) } , Y _ { L } ^ { ( i ) } ) _ { w } }$ ; $( Y _ { L } ^ { ( i ) } , Y _ { L } ^ { ( j ) } ) _ { w } =$ $\\begin{array} { l } { { \\displaystyle \\sum _ { k = 1 } ^ { N } w _ { k } y _ { k } ^ { ( i ) } y _ { k } ^ { ( j ) } , ( i , j = 1 , 2 ) ; w _ { k } = \\operatorname* { m i n } \\{ k , M , N - k + 1 \\} , } } \\\\ { { \\displaystyle \\left( k \\leqslant \\frac { N } { 2 } \\right) \\circ } } \\end{array}$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式(8)中 $\\rho _ { 1 2 } ^ { ( w ) }$ 越小，表明两个序列的加权正交性越好,它们间的分离度也越好。若 $\\rho _ { 1 2 } ^ { ( w ) } = 0$ ,则表示两个序列完全加权正交，它们是“分离”的[9]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选取合适嵌入维数是为了使奇异谱分解时得到的各个独立的组成成分序列间的分离度尽可能高，以达到将序列中的有用信息完全从噪声中分离出来从而对序列去噪的目的。在DGPS浮标得到的海面高序列中，通常还包含了潮汐分量等，这在高度计定标实验中是有用的。由于嵌入维数相当于分解得到的组成成分的“分辨率”，若选择的嵌入维数过小，则潮汐分量等的组成成分有可能与仪器噪声的组成成分部分或完全混叠，使得在对海面高序列去噪时将潮汐分量等有用信息也消除了，导致定标结果的准确度和精度变差。Hossein[1o]在数学上证明了嵌入维数M最大只能取到 $\\left[ { \\frac { N + 1 } { 2 } } \\right]$ （[·]为·的整数部分)，且当",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$M = \\left[ { \\frac { N + 1 } { 2 } } \\right]$ 时，各成分之间的分离度最高。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { \\mathscr { p } }$ 的选择和噪声信号与有用信号之间能量的相对大小有关。若 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 选的合适，则前 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 个主成分表示有用信号，而 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 以后的主成分反映了原始序列中的噪声。由于在DGPS浮标海面高序列中，仪器误差对测量结果的影响较小，若将该海面高序列类比为混有仪器噪声的信号，则仪器噪声的能量远小于有用信号的能量，因此表示噪声信号的 $\\boldsymbol { \\mathscr { p } }$ 以后的特征值较小。由于仪器噪声是白噪声，其能量分布较均匀，因此表示噪声信号的 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 以后的特征值变化缓慢。故利用特征值的变化率来选择截断长度 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定义特征值变化率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr = ( \\lambda _ { k } - \\lambda _ { k + 2 } ) / 2 , k = 1 , 2 , \\cdots , M - 2\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式（9）中当 $r \\leqslant 0 . 0 0 1$ ，即 ${ \\mathrm { l g } r \\leqslant - 3 }$ 时，可认为此时 $\\begin{array} { r } { p = k - 1 } \\end{array}$ 为截断长度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 仿真及结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 奇异谱分析法仿真结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑一个由DGPS浮标得到的海面高序列$\\mathrm { S S H } ( t )$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S S H } ( t ) = \\mathrm { S S H } _ { \\circ } ( t ) + n ( t )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mathrm { S S H } _ { \\mathrm { 0 } } \\left( t \\right)$ 为真实海面高， $n ( t )$ 为仪器误差。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "假定真实的海面高为 $\\mathrm { S S H } _ { \\circ } \\left( t \\right) = 1 0 + 1 0 - 4 \\times t$ .$\\mathbf { \\Psi } _ { t }$ 为时间 $\\left. \\mathrm { S S H } _ { \\mathrm { 0 } } \\left( t \\right) \\right.$ 单位为 $\\mathrm { m }$ ，时间 $\\mathbf { \\Psi } _ { t }$ 单位为s);仪器误差为 $\\sigma _ { n } = 0 . 1 \\mathrm { ~ m ~ }$ ，用均值为0、方差为 $\\sigma _ { n } ^ { 2 }$ 的高斯白噪声模拟，需要说明的是，这里仪器误差不仅包括了浮标的仪器误差，还包括了DGPS数据处理中所引入的误差。序列采样间隔为 $1 ~ \\mathrm { H z }$ ，设定采样时间为长度为 $^ \\textrm { \\scriptsize 1 h }$ ，序列长度为 $N = 3 ~ 6 0 0$ ，则由浮标测得的瞬时海面高原始序列如图1所示。原始序列的标准差 $\\sigma _ { s h } = 0 . 1 4 4 4 ~ \\mathrm { m } .$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/69f967487253836ffbd44ab9034befa4b7d24d7d3d273783c007054eb5a40a41.jpg",
+        "img_caption": [
+            "图1 海面高序列仿真",
+            "Fig.1 SimulatedSSH series "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选择嵌入维数 $M = 1 ~ 8 0 0$ ，对序列进行奇异谱分析。图2是序列分解后得到的特征值的变化率曲线。根据判定准则， $k \\geqslant 9$ 时，变化率 $r$ 即小于0.001。因此选择 $\\phi = 8$ 作为截断长度。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/01d4ba1bc114341dfd228418b3be3ac106795605acbca32cf99fa9f17a2e4c61.jpg",
+        "img_caption": [
+            "图2特征值变化率"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "利用上述选定的 $M$ 和 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 再对原序列进行奇异谱分析，得到去噪后的重建海面高序列如图3，它与真实海面高序列 $\\mathrm { S S H _ { \\mathrm { 0 } } }$ 基本重合。重建的序列的标准差 $\\sigma _ { r } = 0 . 1 0 5 8 \\mathrm { ~ m ~ }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/011d538a9468d8cf9a04a14e289ceddc494c99cf298af9ad702d53fc51e5b349.jpg",
+        "img_caption": [
+            "Fig.2The eigenvalues change rate ",
+            "图3重建的海面高序列",
+            "Fig.3The reconstructed SSH series "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "应用 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 以后的主成分来重建噪声信号，图4是重建的噪声序列的频谱。可以看出，其功率在整个频段上分布均匀，符合白噪声的频谱分布特性。图5是重建噪声的幅度分布直方图，其幅度符合高斯分布。重建仪器噪声的标准差 $\\sigma _ { m } = 0 . 0 9 9 5 8 \\mathrm { ~ m ~ }$ ，均值 $m =$ $- 5 . 6 1 3 \\times 1 0 ^ { - 5 } \\mathrm { ~ m ~ }$ ，基本符合添加的噪声的统计特性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此，从仿真中可以看出，用奇异谱分析的方法能够较好地将序列中的有用信号和噪声信号分离出来，其去噪效果较好。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa37cf071418ac7c416870fcf324701957f9180e58e55596afb3657281a23aed.jpg",
+        "img_caption": [
+            "图4重建的噪声序列频谱 "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ad74eb6ccb4e24466b76031a84a1135ac1a42067a0cb3a50b8e8b6ba58793b2.jpg",
+        "img_caption": [
+            "Fig.4The frequency spectrum of reconstructed noise series ",
+            "图5仪器噪声幅度分布直方图",
+            "Fig.5The distribution histogram of instrumental noiseamplitude "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 不同嵌入维数和截断长度对仿真结果的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了进一步比较不同的 $M$ 和 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 对数据处理结果的影响，同时为了与上节仿真结果比较，分别用固定$\\phi = 8$ 改变 $M$ 和固定 $M = 1 ~ 8 0 0$ 改变 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 这两种方法处理上述海面高序列。表1是 $\\phi = 8$ 时不同 $M$ 下得到的序列的标准差，表2是 $M = 1 ~ 8 0 0$ 时不同 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 下得到的序列的标准差。由奇异谱分析去噪的原理可知， $\\boldsymbol { \\mathscr { p } }$ 必须小于 $M$ ，且 $p \\geqslant 1$ ,故在表1中 $M$ 从 $M = 9$ 变化到$M = 1 ~ 8 0 0$ ；表2中 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 从 $\\phi = 1$ 变化到 $\\phi = 1 \\ 7 9 9$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "比较表1及表2可以得到，重建海面高序列的标准差是随着 $M$ 的增大而减小，随着 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 的增大而增大的；重建噪声序列的标准差是随着 $M$ 的增大而越接近仿真中设定的噪声标准差，随着 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 的增大而越远离设定的噪声标准差的。虽然表2中 $ p = 2$ 时重建海面高序列的标准差最小，但其对应的重建噪声序列标准差较 $\\phi = 8$ 时偏离较多，故在 $M = 1 ~ 8 0 0$ 下，$\\phi = 2$ 不是最优的。因此，由以上分析可知，在上节仿真中选择 $M = 1 8 0 0 , \\ L _ { P } = 8$ 是较合适的。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/67cfd3c090127075cbf0f8f6b80d198d5458b0a4eb2360766b98e0ccbcea4a64.jpg",
+        "table_caption": [
+            "Table1The series std of Various $M$ with $\\scriptstyle { p = 8 }$ ",
+            "表2 $\\scriptstyle { M = 1 \\ 8 0 0 }$ 时不同 $\\pmb { p }$ 下得到的序列标准差"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>M</td><td>9</td><td>500</td><td>1000</td><td>1500</td><td>1800</td></tr><tr><td>重建海面高序列标准差</td><td>0.13566</td><td>0.10696</td><td>0.10657</td><td>0.10635</td><td>0.10581</td></tr><tr><td>重建噪声序列标准差</td><td>0.03096</td><td>0.09833</td><td>0.09919</td><td>0.09949</td><td>0.09958</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/80c29e20ed8227808fa8f87b6a7f6fac64a043bbb7a7a376ea872bdf6ce1db91.jpg",
+        "table_caption": [
+            "表1 $\\scriptstyle { p = 8 }$ 时不同 $M$ 下得到的序列标准差",
+            "Table 2The series std of Various $\\pmb { p }$ with $\\scriptstyle { M = 1 \\ 8 0 0 }$ "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>p</td><td>1</td><td>8</td><td>500</td><td>1000</td><td>1500</td><td>1799</td></tr><tr><td>重建海面高序列标准差</td><td>0.09490</td><td>0.10583</td><td>0. 12874</td><td>0.13914</td><td>0. 14444</td><td>0.14562</td></tr><tr><td>重建噪声序列标准差</td><td>0.10132</td><td>0.09955</td><td>0.06202</td><td>0.03727</td><td>0.01603</td><td>0.00284</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4利用 SSA消除海面高序列仪器噪声",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "下面以某次水库DGPS浮标实验为例，对其进行奇异谱分析来消除序列中仪器误差的影响。由于实验当天水面无风或风速很小，因此，水面无风浪或者风浪很小，可认为浮标得到的海面高仅受到仪器误差的影响。查看浮标采集到的GPS数据并截取其中质量较好的一段，利用GAMIT/GLOBK软件中的动态处理模块TRACK解算，得到浮标所在位置的海面高数据。图6是浮标在大地坐标下高度(海面高)方向的运动轨迹，其标准差 $\\sigma _ { 0 } = 2 . 8 8 ~ \\mathrm { c m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/08e4d8b03932073a01b5b521b8feca3927c83be5f10dea1458c91b75c773f0b0.jpg",
+        "img_caption": [
+            "图6浮标在H方向运动轨迹"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "选择 $M = 1 ~ 8 0 0$ 对序列进行奇异谱分析。图7是分解得到的特征值的变化率。根据判定准则选择${ \\boldsymbol { p } } \\mathbf { = } 1 0$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用上述选定的参数，再次对原序列进行奇异谱分析处理，得到的重建序列如图8所示，与原序列相比，重建的海面高序列较平滑。其标准差 $\\sigma _ { e } =$ $2 . 6 9 \\ \\mathrm { c m }$ ，在RSS意义上，标准差较处理前改善了约 $1 . 0 3 ~ \\mathrm { c m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbb01a56138a5606dbaecfbbf67d520460d21a3087eca47333862910c87b5033.jpg",
+        "img_caption": [
+            "图7特征值变化率"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/43841532d91ddcb6dafcdc5883956a5bd558d093e9396b640dc98923fe24a042.jpg",
+        "img_caption": [
+            "Fig.6The buoy H orientation movement path ",
+            "Fig.7The eigenvalues change rate ",
+            "图8重建的海面高序列",
+            "Fig.8The reconstructed SSH series "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结语 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在高度计绝对定标实验中，利用DGPS浮标进行现场海面高测量得到的海面高序列中，通常包括了仪器误差造成的影响。由于在浮标布放期间，仪器误差是白噪声，因此不能通过低通滤波的方式完全消除仪器误差对海面高序列的影响。奇异谱分析是一种基于主成分分析的序列处理方法，仅需较少的先验信息即可对序列进行降噪处理。本文研究了奇异谱分析的基本理论及如何选择合适的嵌人维数和截断长度，并通过仿真验证了奇异谱分析方法及嵌人维数和截断长度选取准则的有效性。随后，利用奇异谱分析处理了某次水库DGPS浮标实验的海面高序列，处理结果在精度上有一定的改善。因此奇异谱分析法在消除海面高序列仪器噪声中较为适用。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Chrstopher S W.Satellite Altimeter Calibration and Validation Using GPS Buoy Technology[D].Tasmania:Centre for Spatial Information Science,University of Tasmania,Australia,2005.   \n[2]Zhang Yong,Lu Daren.Vicarious Calibration of WindSat Polarimetric Channels based Sea Surface Background[J].Remote Sensing Technology and Application,2014,29(5):727- 734.[张勇，吕达仁.一种基于海面背景的WindSat极化通道 替代定标方法研究[J].遥感技术与应用，2014，29（5)：727- 734.]   \n[3] Schoellhamer D H. Singular Spectrum Analysis for Time Series with Missing Data[J].Geophysical Research Letters, 2001,28(16):3187-3190.   \n[4]Alonso FJ,Castillo J,Pintado P.Application of Singular Spectrum Analysis to the Smoothing of Raw Kinematic Signals [J].Journal of Biomechanics,2005,38:1085-1092.   \n[5] Shu H C,Chin HL.Application of Singular Spectrum Analysis to Structural Monitoring and Damage Diagnosis of Bridges [J].Structure and Infrastructure Engineering,2Ol3:1-20.   \n[6] Xie JG,Ji Z P.Singular Spectrum Analysis for Tropical Cylone Landing in Guangdong[J].Journal of Tropical Meteorology,2003,9(2):201-206.   \n[7] Wu Hongbao.Singular Spectrum Analysis Combined with Maximum Entropy Method[J].Gansu Meteorology，2o00，18 (1)：1-5.[吴洪宝.奇异谱分析——最大熵预报方法[J].甘肃 气象，2000,18(1)：1-5.]   \n[8] Liu Yuanfeng,Zhao Mei.De-noising of Chaotic Time Series based on Singular Spectrum Analysis[J].Journal of Shanghai JiaotongUniversity,2003,37(5)：778-780.[刘元峰，赵枚.基 于奇异谱分析的混沌序列降噪[J].上海交通大学学报，2003， 37(5):778-780.]   \n[9] Hossein H.Singular Spectrum Analysis:Methodology and Comparison[J].Journal of Data Science,20o7,5:239-257.   \n[10]Hossein H,Rahim M,Mohammad Z.Separability and Window Length in Singular Spectrum Analysis[J].Computers Rendus Mathematique,2011,349(17):987-990. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Study on Denoising the Instrumental Errors of the Sea Surface Height Series Derived from Buoys ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ye Pei1,2,3 ,Xu Kel2 ,Xu Xiyu 1,2 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1. The CAS Key Laboratory of Microwave Remote Sensing ,Center for Space Science and Applied Research ,Chinese Academy of Sciences ,Beijing 1Oo19o,China; 2.Center for Space Science and Applied Research ,Chinese Academy of Sciences,Beijing 1Ool9o,China; 3.University of Chinese Academy of Sciences,Beijing 1OoO49,China) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract:In absolute altimeter calibration campaigns,the Sea Surface Height(SSH) series derived from the in-situ Diferential GPS(DGPS) buoys always include high frequency errors such as wind waves and instrumental noises. The former can be removed bylow passfilters,while thelater can not,because the noises are white and can spread in the whole frequency band of interest.In this paper,the Singular Spectrum Analysis (SSA） method was applied to solve the problem,and select criteria of the embedding dimension and intercepting length.Simulations based on this innovative method were executed,the effctiveness in removing the instrumental noise and the selction criteria was validated.Finaly,SSH series derived from an in-situ DGPS buoy experiment were processed by this method,and the study suggested that the processed series were smoother compared to the original series,and had some mprovements in accuracy. Therefore,the validity of the SSA method was demonstrated. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key words:Altimetric calibration;SSH series;Instrumental errors;Singular Spectrum Analysis(SSA);De-noise ",
+        "page_idx": 5
+    }
+]

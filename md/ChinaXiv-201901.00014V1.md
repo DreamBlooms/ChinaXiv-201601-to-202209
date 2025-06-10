@@ -1,0 +1,199 @@
+# 基于新的轮廓特征的离线签名鉴别
+
+黄威，詹恩奇，郑建彬，汪阳(武汉理工大学 信息工程学院，武汉 430070)
+
+摘要：离线签名笔画内部点及背景点的局部二值模式（local binarypattem，LBP）非常相近，且对反映离线签名笔画特征有较大干扰，因此提出了一种轮廓处LBP直方图特征。提取签名轮廓上的LBP特征，同时引入了新的规则去除部分无用模式，可有效地提升LBP的有效性和鲁棒性。另外，针对方向链码特征在应用于签名鉴别时存在局限性的问题，提出了一种轮廓模式共生直方图特征。融合这两种轮廓特征，并使用主成分分析（principal componentanalysis，PCA）降维。最后，使用支持向量机分别在 MCYT和GPDS 两种公开离线签名数据库上测试，取得的平均错误率分别为 $1 3 . 5 1 \%$ 和 $1 2 . 9 7 \%$ 。在相同的数据集上与其他方法相比，具有更低的平均错误率。
+
+关键词：离线签名鉴别；轮廓特征；局部二值模式；轮廓模式共生 中图分类号：TP391 doi: 10.19734/j.issn.1001-3695.2018.07.0662
+
+Off-line signaute verification system based on novel contour features
+
+Huang Wei, Zhan Enqi, Zheng Jianbin,Wang Yang+ (College of Information Engineering,Wuhan UniversityofTechnology,Wuhan 43oo7o,China)
+
+Abstract: In theof-line signature,LBPsofbackground pixels,as wellas pixels inside the strokes,accounting foralarge proportion in a signature bitmap,are nearly the same.Consequently，they have greate interference to describe the characteristics of signature's strokes.So this paper proposedLBPC-basedfeature that mainlycalculatedthe histogramof the local binary pattrns on signature's contour and some useless paterns were removed by adding arule to improve the efectivenessand robustnessofLBP.Besides,seen asan improvement fordirectional chaincode forits limitations in he signatureverification,this paper introduced LCPC-based featurewhich aimed atcomputing the statistical featuresof the local contour patterns co-occurrence.Then，the PCA was applied to two above combined features due to the huge dimensionalityinall,toevaluatetheperformanceof proposedmethod,usingSVMscasifier,itconductedexperients on MCYT and GPDS open databases and the achievable average error rates were $1 3 . 5 1 \%$ and $12 . 9 7 \%$ respectively. Moreover,comparisons with other methods on the same datasets provide evidence thatthe proposed method obtains lower average error rate than others.
+
+Key words:of-line signature verification;contour feature;local binary pattrn;local contour pattern co-occurrence
+
+# 0 引言
+
+在生物识别技术中，通常会利用人的生理特征和行为特征来识别或鉴别某个人的身份[1]。生理特征反映的是人体的固有特征，具有不可复制的唯一性，如声音、人脸、指纹及手掌纹。行为特征则是与人的行为习惯息息相关，很难被复制。其中签名就是一种行为特征，它与人的书写习惯密切相关，且会随人的经历而发生一定的变化。
+
+对于签名的伪造可分为随机伪造、简单伪造和熟练伪造三种[1。随机伪造是指完全不知道对方名字的情况下伪造对方签名。而简单伪造是在仅知道对方名字但未曾见过对方签名的情况下伪造签名。熟练伪造是指不仅知道对方名字，且能熟练模仿对方签名的情况下刻意模仿其签名。签名鉴别系统的性能主要取决于对抗熟练伪造签名的能力，一些公开签名数据集中都提供有与每位笔者对应的熟练伪造签名供学者们使用。
+
+在自动签名认证系统可分为在线签名、离线签名。在线签名需要在一块触控屏上采集签名的时间顺序、坐标、加速度及压力信息等。离线签名则是在纸上获取签名图片，通常是一幅无动态信息的灰度图像，如字据、合同、遗嘱等[2]。自动离线签名鉴别的方法有很多[3]，其核心在于提取到有效特征。离线签名特征从大体上可分为全局特征和局部特征。为取得更好的效果，全局特征通常会结合局部特征[4]。基于签名骨架的特征，其中最为重要的一步就是细化。细化可有效去除干扰，但同时会丢失伪动态信息，且目前签名骨架的提取算法还存在诸多问题[5]。轮廓特征是另一种基于笔画的特征，不需要作细化处理。在文献[6,7]中分别提出了基于轮廓和链码直方图的方法，文献[8]则提出了一种方向特征和网格特征融合的方法，并对方向特征作出了改进。它们提出的轮廓特征本质上都是方向链码。方向链码的核心思想是统计边缘处的角度或方向分布，但一个方向链码（仅由两到三个像素点确定）包含的边缘像素点信息很少。针对这一问题，本文提出了一种轮廓模式共生直方图特征，比方向链码更为丰富、更为灵活。另外局部特征中，LBP作为一种重要纹理特征被广泛应用于人脸或指纹识别等领域，但因在签名图像中背景处与笔画内部的LBP几乎完全相同，直接应用于离线签名时效果不是很理想。因此本文还提出了基于轮廓处LBP直方图的方法，只关注轮廓上的LBP分布，从而有效地排除背景点与笔画内部点的干扰。最后，本文提出的自动离线签名鉴别系统的框图如图1所示。
+
+# 2 特征提取
+
+# 1 预处理
+
+![](images/90db02048592f4dbfaed3aae419eb86942e29ee194fa84266d1d27984970a57f.jpg)  
+图1自动离线签名鉴别系统
+
+签名图像在提取特征之前需进行预处理操作。有些数据库中的签名图像是带有背景的，而这些背景可能会给特征带来干扰。首先对签名的灰度图像使用OTSU算法进行阈值分割，确定前景像素和背景像素，将签名图像上的背景像素值置为255（即白点）。因为使用的纸张及笔墨的缘故，背景滤除后的签名的笔画可能会出现分叉的情况，非常影响提取到的轮廓质量。因此，预处理的第二步需要使用高斯滤波作平滑处理，滤除噪声点的同时能修复笔画中断断续续的点。由于本文提出的特征都是轮廓特征，所以还需要提取轮廓。接下来再次使用OTSU算法进行二值化。最后一步是边缘提取，得到签名轮廓。整个预处理流程如图2所示。
+
+# 2.1轮廓处局部二值模式 (LBPC)
+
+局部二值模式(local binary pattern,LBP）是一种局部纹理特征，其核心在于统计中心点与其邻域点间灰度值的差异，如图4(a)所示。LBP有矩形LBP和圆形LBP两种算子。圆形LBP算子可满足多尺度的需求而得到广泛应用。采用圆形LBP时，其邻域点灰度值的计算使用双线性插值法，如图4(b)所示，设 $( \mathbf { \boldsymbol { x } } _ { 0 } , \mathbf { \boldsymbol { y } } _ { 0 } )$ 为中心点，点 $^ { ( \mathrm { x } , \mathrm { y } ) }$ 的灰度值可由式(1)得出。
+
+![](images/3fe97dd234baedf05bda6937ce5a84cb9b94e50f520cf9f9f7dcd06abe4f9a41.jpg)
+
+对于统计特征，除了计算整幅签名图像的分布外，还可以采取网格方法将图像分成几块，计算对应的统计直方图。网格划分的方法有很多，Equimass是一种有效的网格划分方法[。首先，对签名的二值图像分别进行水平投影和垂直投影。在进行网格划分时，行分割时保证上、下两部分的黑像素点数相同，而列分割时保证左、右两部分的黑像素点数相同。利用此方法将签名图像分成四块，如图3所示，故一份签名图像可分成五段 $^ { 2 ^ { * } 2 }$ equimass $+ 1$ whole）。
+
+![](images/7d5ead0471499f504a575f2a879750b013734a294fe6de3aecbe58bee2c17e30.jpg)  
+图2预处理  
+图3Equimass 网格划分示例 Fig.3Example of equimass sampling grid method
+
+$$
+f ( \mathbf { x } , y ) = { \frac { ( 2 - { \sqrt { 2 } } ) } { 4 } } ^ { 2 } \times f ( x _ { 0 } , y _ { 0 } ) + { \frac { 1 } { 2 } } \times f ( x _ { 1 } , y _ { 1 } )
+$$
+
+![](images/00211cf6e5a9344b13aa3a912a2567b41e0dc79467824ecd4fbbf726ca00825a.jpg)  
+Fig. 1 Overview of automic offline signature verification   
+图4局部二值模式  
+Fig.4Local binary pattern
+
+LBP理论上有 $2 ^ { 8 }$ 种模式，且在背景点处的LBP值都是相同，如图5(a)所示，一幅签名图像大部分点都是背景点，因此LBP特征极易受签名尺寸的影响。如图5(b)所示，一些文献中通常做法是对签名图像伸缩变化到统一尺寸，这种做法会使原始签名发生畸变。另外，签名笔画内部像素点的LBP值也是几乎都是同一个值，笔画多延长一点或少写一点对结果都会有较大影响。基于以上分析，本文提出了一种轮廓处局部二值模式(local binary pattern on contour,LBPC)直方图特征，即只统计签名轮廓点处的LBP值。
+
+![](images/ddfc461b60884a211204cc0d5dae4c79bfe17c7182f41489fef0ebbbc928a5b9.jpg)  
+Fig.2 Pre-processing   
+(a)背景点及笔画内部点处LBP值(b)将签名图像归一化至统一尺寸图5LBP特征受签名尺寸的影响  
+Fig.5LBP-based features are vulnerable to size of signature
+
+$L B P _ { 1 , 8 } ^ { u }$ 是 59 维的Uniform LBP 特征，在原LBP 基础上将“01"跳变数超过2（ $U > 2$ ）的所有模式并作一种混合模式。UniformLBP大大缩减了LBP特征的维度，但在签名的轮廓点处有些模式是无用的。图6中展示了签名轮廓点处不应该出现的LBP模式，图6(a)和(b)分别表示八邻域内全是黑像素和全是白像素的情况；(c)和(d)分别代表八邻域内只有一个“黑点”或只有一个“白点”的情况；对于(e)的情况轮廓处八邻域内只可能是一边都是“白点”，另一边都是“黑点”。
+
+因此，本文在 $L B P _ { 1 , 8 } ^ { u }$ 基础上引入一项规则：等价模式中“1”连续的个数应该在2\~6间，并去掉混合模式。59维特征最终缩减到了 $( 6 - 2 + 1 ) \times 8 = 4 0$ 维，如图7所示。
+
+![](images/9d7edb628446ebac110305d3e92ee99721002a3c7f562cec6b44c8374dd91ef5.jpg)  
+图6签名轮廓点处不应该出现的LBP模式
+
+a）点 $\textbf { \em c }$ 为轮廓点。
+
+b）点 ${ \pmb p } _ { k }$ 代表从点 $\textbf { \em c }$ 的八邻域内某点开始（如 $\textbf { \em c }$ 的正右方），按照特定方向（如逆时针方向）的第 $\pmb { k }$ 个邻域点， $f ( \bullet )$ 代表点·处的灰度值。
+
+c）g(）的定义如式(2)所示，且必须满足式(3)中的条件，其中 $R O L$ 为循环左移操作符。
+
+$$
+\begin{array} { r } { \mathbf { g } ( p _ { k } ) = \left\{ \begin{array} { l l } { 2 ^ { k - 1 } \ f ( p _ { k } ) \geq f ( \mathbf { c } ) } \\ { 0 \quad f ( p _ { k } ) < f ( \mathbf { c } ) } \end{array} \right. } \end{array}
+$$
+
+$$
+\begin{array} { l } { \displaystyle \sum _ { \mathrm { k = 1 } } ^ { 8 } g ( p _ { k } ) = ( 2 ^ { i + 2 } - 1 ) R O L j } \\ { i \in \{ 0 , 1 , . . , 4 \} , j \in \{ 0 , 1 , . . , 7 \} } \end{array}
+$$
+
+d)轮廓点 $\textbf { \em c }$ 对应编码为 $8 \times \mathbf { i } + j$ 。统计签名轮廓上这 40种模式对应出现的次数，形成最终的LBPC直方图特征。
+
+![](images/7442ef9061412b4bf489de290a7585ec70999ce0237927818b6c179042d5b33b.jpg)  
+图7LBPC 特征提取  
+Fig.7Extraction of LBPC-based feature
+
+# 2.2轮廓模式共生 (LCPC)
+
+以签名轮廓作为特征的典型是方向链码。某轮廓点处的方向由前一轮廓点或其后一轮廓点决定，而方向链码的主要思想是统计轮廓点处的方向或方向变化的分布直方图，如图8(a)所示。方向链码的不足之处在于每个链码的计算仅依赖与当前轮廓点及其前后各一轮廓点，在描述签名的笔画习惯上存在不足。本文受链码和文献[2]的启发，提出了一种基于局部轮廓模式共生(local contour pattern co-occurrence,LCPC)的方法。
+
+每个轮廓点处，当前轮廓点与前后各一个轮廓点共3个像素点组合成一种基本模式，则共有 ${ \bf C } _ { 8 } ^ { 2 }$ 种基本模式，如图8(b)所示。同样是描述局部连续3个轮廓点，这些基本模式与方向链码很类似，但侧重点会有所不同。方向链码描述的是轮廓点方向的变化，而基本轮廓模式描述的是轮廓点与其前后像素点间得联系。后者的好处在于便于扩展，如后面将要提到的模式共生关系，而前者相当于已经描述了共生关系（即方向共生)。仅仅统计签名轮廓的这28种模式是不够的，因此引入了一种共生的概念（即当前轮廓点处的基本模式与其间隔一个轮廓点处的基本模式间构成一种共生关系）。
+
+在一条封闭的轮廓线上，以某个轮廓点为起点开始计算，设每连续5个轮廓点为 $( a , b , c , d , e )$ ，点 $\textbf { \textit { b } }$ 处的基本模式为 $\zeta _ { 1 }$ ，点 $\textbf { \em d }$ 处的基本模式为 $\zeta _ { 2 }$ ，计算出整幅签名轮廓上 $\zeta _ { 1 }$ 和 $\zeta _ { 2 }$ 的分布情况 $p ( \zeta _ { 1 } , \zeta _ { 2 } )$ ，且 $p ( \zeta _ { 1 } , \zeta _ { 2 } ) = p ( \zeta _ { 2 } , \zeta _ { 1 } )$ 。如图9所示，即长度为5 的轮廓段可由2种基本模式组合而成。28种模式共生关系有 $( 2 8 + 1 ) \times 2 8 \div 2 = 4 0 6$ 种，由此得到的签名轮廓模式共生直方图特征的维数为406。
+
+![](images/6b2c42d9b048f6c68b541d3a69035989d469f547d1515409cbfe289510e871f3.jpg)  
+Fig.61bps that shouldn'tappear on signature's contour 对签名图像的LBPC编码描述如下：   
+图8基本轮廓模式
+
+![](images/0b4f938561f5daf4908d732e12865813101824f1501bb862a32b7283c13a41c1.jpg)  
+Fig.8Basic contour patterns   
+图9局部轮廓模式共生示例
+
+![](images/5b7fa0a12e0f50e87b97be0270f40af0b58d23783a69f5cec2160e8d9c7384c8.jpg)  
+Fig.9Example of co-occurrence of local contour patterns.   
+图10统计局部轮廓模式的共生关系 Fig.10Example of statistics ofLCPC
+
+签名的LCPC直方图特征的提取过程如下：
+
+a)去除所有含轮廓像素点数不超过5的轮廓线。
+
+b）计算所有轮廓点处的基本模式，采用二进制压缩的方式编码，可按照图8(b)中所给的模板顺序（从左到右、从上到下），即每个轮廓点基本模式用 $\zeta \in \{ 1 , 2 , . . . , 2 8 \}$ 表示。
+
+c）对编码后的轮廓统计其所有的共生关系，如图10所示。与编码为“17”处间隔1个点的位置出现了一个编码“ $2 3 ^ { \prime \prime }$ 的轮廓点，则在对应统计矩阵 $A$ 的(23,17)和(17,23)位置上分别加1。由 $p ( \zeta _ { 1 } , \zeta _ { 2 } ) = p ( \zeta _ { 2 } , \zeta _ { 1 } )$ 得知矩阵 $A$ 应为对称阵。为方便表示，在图10中只给出对应的下三角矩阵。
+
+d）将对称阵 $\boldsymbol { A }$ 使用按行优先的方式存储压缩成一维数组，生成LCPC统计直方图。
+
+# 2.3归一化
+
+为解决签名尺寸的不一致可能带来的干扰，需对统计直方图进行归一化处理。传统做法是使用式(4)中的概率分布函数。其中： $c n t _ { i }$ 代表第 $i$ 种模式出现的次数； $N$ 代表直方图的长度； $F _ { i }$ 为归一化后的数值。
+
+$$
+F _ { i } { = } c n t _ { i } { \Bigg / } { \sum _ { j = 1 } ^ { N } } c n t _ { j }
+$$
+
+这种计算方法在特征维度比较大时，得到的特征数值非常小，几乎接近于零，甚至会出现小数点下溢的情况。这种归一化处理得到的特征集的数值过小，在使用SVM等分类器分类时可能会造成难以区分的局面。本文在作归一化时使用了最小最大规范化，如式(5)所示，其中： $\mathbf { \gamma } _ { m i n }$ 表示特征直方图中的最小值；max表示特征直方图中的最大值。式(5)
+
+是式(4)的线性变换，但特征的数值得到了较大的提升。
+
+$$
+F _ { i } = \left( c n t _ { i } - \operatorname* { m i n } \right) / \left( \operatorname* { m a x } - \operatorname* { m i n } \right)
+$$
+
+# 3 实验结果与分析
+
+本文使用了两种公开数据集有MCYT和GPDS英文离线签名库2个。 $\mathbf { M C Y T } ^ { [ 4 , 1 0 ] }$ 是一个含75人的离线签名数据集，每位作者都包含15个真实签名和15个伪造签名。GPDS-160是GPDSGray $9 6 0 ^ { [ 1 1 ] }$ 签名数据集的子集，是取其中前160人的数据。其中每位作者都包含24个真实签名和30个伪造签名。
+
+鉴别阶段使用分类的是RBF 核的支持向量机(supportvectormachine，SVM)，在调参阶段结合网格搜索和10次5折交叉验证法找到最佳的惩罚因子 $c$ 和高斯核参数。在分类鉴别阶段，需要对每位作者都构建一个二分类SVM，因此本文提出的方法是一种WD(writer-dependent)模型。
+
+评估模型的指标有FAR、FRR和AER。错误接受率(falseacceptancerate,FAR)是指测试时伪造签名被误判成真实签名的概率。错误拒绝率(falserejectionrate,FRR)则是指测试时真实签名被误判为伪造签名的概率。平均错误率(averageerror rate，AER)则是取FAR和FRR的平均值，即$A E R = 0 . 5 \times ( F A R + F R R )$ ，其中的FAR是指熟练伪造情况下的误纳率。
+
+# 3.1实验结果
+
+考虑到上一节提到的Equimass网格划分方法，签名图像可划分成五个部分，故LBPC特征共有200维，而LCPC特征共有2030维。这两种特征维数都比较高，需要使用主成分分析(principal component analysis,PCA)降维。在MCYT中LBPC和LCPC特征分别降到了15维和35维，在GPDS-160中LBPC和LCPC特征分别降到了16维和49维。
+
+对每位作者，随机选出一组参考签名（MCYT数据集中分别选取5、10个，GPDS-160中分别选取5、12个）和大量随机伪造签名用于训练，剩余的真实签名和熟练伪造签名及一部分随机伪造签名用于测试。由于每个作者的参考签名是从其所有真实签名中随机抽取的，可能对实验结果有一定的影响。为降低偶然性并保证结果的可靠性，将每次实验重复50次，选择这50次实验得到的AERs的中位数作为此次实验的最终结果。MCYT数据集上的实验结果（RF代表随机伪造，SF代表熟练伪造）如表1所示，取得最好的AER为 $1 3 . 5 2 \%$ 。GPDS-160数据集上的实验结果如表2所示，取得最好的AER为 $1 2 . 9 7 \%$ 。
+
+表1MCYT数据集上的实验结果  
+Table1Results on MCYT database   
+表3MCYT数据集上与其他方法的对比  
+
+<html><body><table><tr><td rowspan="2">特征</td><td rowspan="2">参考样本数</td><td rowspan="2">FRR/%</td><td colspan="2">FAR/%</td><td rowspan="2">AER/%</td></tr><tr><td>RF</td><td>SF</td></tr><tr><td rowspan="2">LBPC</td><td>5</td><td>19.6</td><td>0.29</td><td>19.91</td><td>19.76</td></tr><tr><td>10</td><td>11.47</td><td>0.72</td><td>23.56</td><td>17.52</td></tr><tr><td rowspan="2">LCPC</td><td>5</td><td>11.2</td><td>0.36</td><td>19.82</td><td>15.51</td></tr><tr><td>10</td><td>6.4</td><td>0.34</td><td>22.04</td><td>14.22</td></tr><tr><td rowspan="2">LBPC&LCPC</td><td>5</td><td>9.6</td><td>0.4</td><td>20.18</td><td>14.89</td></tr><tr><td>10</td><td>7.47</td><td>0.31</td><td>19.56</td><td>13.52</td></tr></table></body></html>
+
+# 3.2对比分析
+
+为展现本文提出的方法的有效性，在MCYT和GPDS-160数据集上分别与现有的几种方法进行了对比。其中TS(training samples)代表参考样本数。通过表3和4可以看出，本文提出的方法取得的AER明显要低于其他文章。在表3中，文献[13]中在MCYT数据集上使用LBP特征取得的AER为 $2 3 . 1 6 \%$ ，而本文提出的LBPC特征在AER上降低了
+
+$3 . 4 \%$ 。另外，在表4中，文献[8]和文献[17]都使用的是改进的方向特征，而本文的LCPC特征从AER上相比而言分别降低了 $1 . 4 2 \%$ 和 $3 \%$ 。
+
+表2GPDS-160 数据集上的实验结果Table 2Results on GPDS-16O database  
+
+<html><body><table><tr><td rowspan="2">特征</td><td rowspan="2">参考样本数</td><td rowspan="2">FRR/%</td><td colspan="2">FAR/%</td><td rowspan="2">AER/%</td></tr><tr><td>RF</td><td>SF</td></tr><tr><td rowspan="3">LBPC</td><td>5</td><td>26.91</td><td>1.16</td><td>17.9</td><td>22.41</td></tr><tr><td>12</td><td>17.66</td><td>1.11</td><td>19.08</td><td>18.37</td></tr><tr><td>5</td><td>26.94</td><td>0.46</td><td>12.31</td><td>19.63</td></tr><tr><td rowspan="2">LCPC</td><td>12</td><td>12.86</td><td>0.59</td><td>15.63</td><td>14.25</td></tr><tr><td>5</td><td>23.16</td><td>0.34</td><td>13.04</td><td>18.1</td></tr><tr><td>LBPC&LCPC</td><td>12</td><td>11.15</td><td>0.41</td><td>14.79</td><td>12.97</td></tr></table></body></html>
+
+Table3Comparison with other methods on MCYT   
+
+<html><body><table><tr><td>方法</td><td>TS</td><td>特征</td><td>AER/%</td></tr><tr><td>Soleimani[12]</td><td>10</td><td>DRT</td><td>15.69</td></tr><tr><td>Ferrer[13]</td><td>5</td><td>LBP</td><td>23.16</td></tr><tr><td>Alonso-Fernandez[14]</td><td>10</td><td></td><td>22.49</td></tr><tr><td>本文方法</td><td>10</td><td>LBPC&LCPC</td><td>13.52</td></tr></table></body></html>
+
+表4GPDS-160数据集上与其他方法的对比
+
+Table 4Comparison with other methods on GPDS-160   
+
+<html><body><table><tr><td>方法</td><td>TS</td><td>特征</td><td>AER/%</td></tr><tr><td>Gueribai[15]</td><td>12</td><td>Curvelet transform</td><td>15.07</td></tr><tr><td>Eskander[16]</td><td>12</td><td>Boosting feature</td><td>15.24</td></tr><tr><td>杨丹凤[8]</td><td>12</td><td>方向与网格特征融合</td><td>15.67</td></tr><tr><td>Nguyen[17]</td><td>12</td><td>MDF</td><td>17.25</td></tr><tr><td>本文方法</td><td>12</td><td>LBPC&LCPC</td><td>12.97</td></tr></table></body></html>
+
+# 4 结束语
+
+本文提出了两种新的离线签名的特征(LBPC和LCPC),将LBP与轮廓特征结合，同时丰富了轮廓链码。LBPC特征不仅可以减少LBP的维度，还能有效地去除签名尺寸的不一致带来的影响。LCPC特征则是对轮廓链码或方向链码的一种改进。在归一化阶段，使用最大最小规范化，使特征在数值上得到了提升。两种特征融合会导致维度过高，需要使用PCA降维。最后，使用SVM分类器分别在MCYT和GPDS-160两个数据集上进行实验。将本文提出的方法与其他方法进行比较，证明确实是有所改进。
+
+由于特征维度很高，有些轮廓模式可能作用不大，在未来工作中计划对轮廓模式展开深入研究，对轮廓模式的共生关系找到更为合适的组合规则，降低维度，进一步提升其有效性。
+
+# 参考文献：
+
+[1]Hafemann L G, Sabourin R,Oliveira L S.Offline handwritten signature verification:literature review [C]// Proc of the 7th International Conference on Image Processing Theory,Tools and Applications. Piscataway,NJ: IEEE Press,2017:1-8.   
+[2]Zois E N,Alewijnse L,Economou G. Offline signature verification and quality characterization using poset-oriented grid features [J].Pattern Recognition,2016,54(C): 162-177.   
+[3]Kumar A,Bhatia K.A survey on offline handwritten signature verification system using writer dependent and independent approaches [C]// Proc of the 2nd International Conference on Advances in Computing,Communication,and Automation.Piscataway,NJ:IEEE rress,∠U10: 1-0.   
+[4]Fierrez-Aguilar J,Alonso-Hermira N,Moreno-Marquez G,et al.An off-line signature verification system based on fusion of local and global information [C]//Proc of International Workshop on Biometric Authentication.Berlin: Springer,2004:295-306.   
+[5]周正扬，詹恩奇，郑建彬，等．局部关联度最优的手写汉字骨架提取 [J]．中国图象图形学报，2017,22(6):833-841.(Zhou Zhengyang, Zhan Enqi,Zheng Jianbin,et al. Skeleton extraction algorithm based on optimum local correlation degree for handwritten Chinese characters [J]. Journal of Image and Graphics,2017,22(6): 833-841.)   
+[6]Gilperez A，Alonso-Fernandez F,Pecharroman S，et al.Off-line signature verification using contour features [C]// Proc of the 11th International Conference on Frontiers in Handwriting Recognition. Montréal: CENPARMI,Concordia University,2008.   
+[7]Bharathi R K,Shekar B H. Off-line signature verification based on chain code histogram and support vector machine [C]//Proc of the 2nd International Conference on Advances in Computing,Communications and Informatics.Piscataway,NJ:IEEE Press,2013:2063-2068.   
+[8]杨丹凤，吕岳．方向特征和网格特征融合的离线签名鉴别[J]．中国 图象图形学报，2012，17(6):118-122.(Yang Danfeng，Lyu Yue. Offline signature verification based on combination of direction feature and grid feature [J].Journal of Image and Graphics,2O12,17 (6): 118-122.)   
+[9]Favata JT,Srikantan G.A multiple feature/resolution approach to handprinted digit and character recognition [J]. International Journal of Imaging Systems & Technology,1996,7(4): 304-311.   
+[10] Ortega-Garcia J,Fierrez-Aguilar J,Simon D,et al.MCYT baseline corpus:a bimodal biometric database [J].IEE Vision,Image and Signal Processing,2003,150(6):395-401.   
+[11]Vargas JF,Ferrer M A,Travieso C M et al.Off-line handwritten signature GPDS-96O corpus [C]// Proc of the 9th International Conference on Document Analysisand Recognition． Curitiba. Piscataway,NJ: IEEE Press，2007: 764-768.   
+[12] Soleimani A,Araabi B N,Fouladi K.Deep multitask metric learning for offline signature verification [J].Pattern Recognition Letters,2O16,80: 84-90.   
+[13] Ferrer M A,Vargas JF,Morales A，et al.Robustness of offline signature verification based on gray level Features [J].IEEE Trans on Information Forensics & Security,2012,7(3): 966-977.   
+[14]Alonso-Fernandez F,Fairhurst M C,Fierrez J,et al.Automatic measures for predicting performance in off-line signature [C]// Proc of IEEE International Conference on Image Processing.Piscataway,NJ: IEEE Press,2007:369-372.   
+[15] Guerbai Y,Chibani Y,Hadjadji B.The effective use of the one-class SVM classifier for handwritten signature verification based on Writer-independent parameters [M]. Kidlington: Elsevier Science Inc, 2015.   
+[16] EskanderGS,SabourinR，GrangerE.Hybridwriterindependent-writer-dependent offline signature verification system [J]. IET Biometrics,2013,2 (4): 169-181.   
+[17]Nguyen V,Kawazoe Y,Wakabayashi T,et al.Performance analysis of the gradient feature and the modified direction feature for off-line signature verification [C]//Proc of the 11th International Conference on Frontiers in HandwritingRecognition.Washington DC:IEEE Computer Society,2011: 303-307.

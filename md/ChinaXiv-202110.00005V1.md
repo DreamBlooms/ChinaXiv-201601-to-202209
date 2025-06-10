@@ -1,0 +1,136 @@
+# 德令哈13.7米望远镜实时数字FFT频谱仪
+
+李振强，张旭国，李积斌，孙继先，逯登荣，董守豪，李亚鹏，李生学(1.中国科学院紫金山天文台 青海观测站，青海 德令哈8170002.中国科学院射电天文重点实验室，江苏 南京210008)
+
+摘要：射电天文中，频谱仪作为接收机后端的频谱分析设备，由于实时性和噪声低等严格要求与商业通用频谱仪有很大区别。射电天文频谱仪经过几代发展，已经发展为以模数转换器（Analog-to-Digital Converter,ADC）和现场可编程阵列（Field Programmable GateArray,FPGA）等芯片为基础的实时数字频谱仪。实时数字频谱仪具有宽的带宽，高的频率分辨率，高的动态范围，长时间的稳定性等方面的优势，更重要的是，具有体积小，环境要求宽松等特点。德令哈13.7米望远镜接收机后端有18路实时数字快速傅里叶变换（FastFourierTransform,FFT）频谱仪。介绍13.7米望远镜的实时数字FFT频谱仪的性能和维护。
+
+关键词：现场可编程阵列；快速傅里叶变换；实时数字频谱仪；超导成像频谱仪中图分类号：P161.4 文献标识码：B 文章编号：
+
+# 0引言
+
+德令哈13.7米望远镜是我国重要的射电望远镜之一，开展银河系内分子云与恒星形成，行星状星云，恒星晚期演化，星际介质物理，星际分子谱线巡天等现代天文学和天体物理若干前沿领域的观测研究"。谱线轮廓和谱线宽度是分子谱线中重要的特征。谱线轮廓最直接反映的是辐射区的物理结构、速度场和谱线光厚等，其中物理结构分为均匀结构和不均匀结构(如团块、纤维状物质和空洞等)，速度场分为热速度场和非热速度场(如系统运动和湍动运动)。热速度场的谱线轮廓是高斯型的。湍动运动中的微湍谱线轮廓是近似高斯轮廓2。系统运动，包含膨胀、塌缩和转动等，均可通过相应的谱线轮廓进行分析。当前景云吸收光子时，如果两块云有相对运动，这种吸收反映到谱线上来就会产生不对称性，分子云坍缩时，吸收会偏向红翼的一边，形成蓝翼强于红翼的谱线特征。将谱线高斯拟合时，当谱线线翼的一侧或两侧超出高斯轮廓时，可认为分子云有高速的质量外流[3，大多数分子外向流具有双极结构。谱线致度由不同原因引起，多数表示分子运动的多普勒频移,其他有表示不同速度分量造成的谱线混合或重叠，有表示气体运动的非热速度场(湍动速度场和系统运动速度场等)。
+
+数字快速傅里叶变换(FastFourier Transform,FFT)频谱仪是德令哈13.7米望远镜接收机的一部分，对天线及接收机接收到的射电信号进行频谱分析。射电天文的频谱仪有特定的要求，一般要求具有高的实时性和低噪声，根据观测源的要求不同，通常还需要宽的带宽，高的频率分辨率，长时间的稳定性等方面特性。
+
+德令哈13.7米望远镜于1978-1981年完成选址[4]，1982年开始建设，1990年开展13毫米波段的天文观测。1990年，德令哈13.7米望远镜的频谱仪采用的是CFR-256-1型多通道滤波式频谱仪，该频谱仪中心频率 ${ 5 2 9 } ~ \mathrm { M H z }$ ，有256个通道，分辨率为1MHz。该类频谱仪是由带通滤波器和检波器组成，有通道一致性差，相邻通道频率相互串扰等缺点。之后，尝试了声表面波频谱仪[6]，并开展声光频谱仪(Acousto Optical Spectrometer,AOS)的研究和应用[7-9]。1996年，德令哈13.7米望远镜采用肖特基接收机开展3毫米波段的天文观测，1998年，接收机更新为超导接收机，极大地提高了望远镜的灵敏度，超导技术走入了我国的天文观测中。2002年，3毫米波段多谱线系统的研制成功后，德令哈13.7米望远镜采用3个声光频谱仪作为后端的频谱处理系统[10]。AOS的带宽分别为42.8/43.1/145.3 MHz，单个AOS有1024个通道，频率分辨率分别为80/86/208KHz[11]。3个AOS对应 $^ { 1 2 } \mathrm { C O }$ 、 $^ { 1 3 } { \bf C O }$ 、 $\mathrm { C } ^ { 1 8 } \mathrm { O }$ 的3条星际分子谱线，13.7米望远镜进入了3条C0分子谱线同步观测的时期。
+
+声光频谱仪主要由激光源、扩束器、声光偏转器、傅氏透镜、光电二极管阵和预处理机构成8。激光源需要稳定的单色光源，扩束器将激光扩展并使其形成平行光束。声光偏转器是声光频谱仪的核心，接收机得到的中频(Intermediate Frequency,IF)信号通过该器件输入，其中电信号转换为超声波，超声波在声光晶体内形成一个相位光栅，对入射的激光产生衍射。经傅氏透镜后，衍射光形成光学图像，被光电二极管接收，最终变换为数字信号进行处理。相比多通道滤波式频谱仪，声光频谱仪的组件数量少，可靠性和稳定性好。声光频谱仪应用于多个射电天文台。德国科隆大学研制的声光频谱仪曾运行在亚毫米波天文卫星(Submillimeter Wave Astronomy Satellite,SWAS)上[12-13]，该声光频谱仪带宽 $1 . 4 \mathrm { G H z }$ ，有1365个通道，功率非线性小于 $1 \%$ 。在每小时变化1度的环境温度下，ALLAN方差的稳定时间可达到100s。该声光频谱仪重 $7 . 8 ~ \mathrm { K g }$ ，功耗为 $5 . 4 ~ \mathrm { W }$ 。低功率消耗是声光频谱仪的一大优势，也是SWAS上采用的重要原因。
+
+随着GHz采样速度的多位模数转换器(Analog-to-Digital Converter,ADC)，海量数字处理芯片和高速总线技术的发展，使得实时快速傅里叶变换(Fast Fourier Transform,FFT)数字频谱仪得以快速发展。特别在射电天文的多波束接收机上，数字FFT频谱仪便于集成。在2007年，实时数字FFT频谱仪应用到德令哈13.7米望远镜[14]。2010年底，多波束接收机--超导成像频谱仪(Superconducting Spectroscopic Array Receiver,SSAR)安装到13.7米望远镜，13.7米望远镜开始了单天线多波束接收机观测时期[15]。SSAR后端采用18路实时数字FFT频谱仪进行频谱处理，一直使用至今。
+
+超导成像频谱仪是我国射电天文领域研制的第一台多波束接收机，也是国际上毫米波段的第一例边带分离型多波束接收机[16]。超导成像频谱仪开展天文观测已有10余年，期间有多项器件和技术更新：接收机抗射频干扰的提高[17-18]，本振系统信号发生器谐波信号干扰的消除[19]，本振系统信号发生器基底相位噪声的降低[20-21]，本振功率自动化调整等，为望远镜开展可靠稳定的天文观测提供了保障。实时数字FFT频谱仪作为后端频谱处理系统，同样是SSAR具有优越性能的重要的基础设备。这里介绍实时数字FFT频谱仪的性能参数以及工作10多年来的维护工作。
+
+# 1德令哈13.7米望远镜及实时数字FFT频谱仪介绍
+
+德令哈13.7米望远镜天线为地平式卡塞格林结构，工作在对毫米波透明的天线罩内，天线口径13.7米，指向精度小于5角秒，面板精度小于80微米。超导成像频谱仪的前端位于天线平台，在天文观测时随天线转动。接收机的波纹喇叭馈源在天线的卡焦点，天文信号经天线的主面和副面后直接进入波纹喇叭，未经过其他光学器件[22]，减少信号的损耗。波纹喇叭后 接 边 带 分离 型(Sideband Separation,2SB)超导 SIS(Superconductor-Insulator-Superconductor)混频器，该混频器将3毫米波段的信号变频到恰好能覆盖CO的3条分子谱线的2.14-3.14 GHz中频内，并将上下边带分离输出。混频器后依次接低噪声的HEMT(HighElectron Mobility Transistor)放大器、50 K环境下工作的HBT(Heterojunction bipolar transistor)放大器。这一部分器件构成接收机的前端，工作在高真空、低温的杜瓦内部。德令哈13.7米望远镜天线和接收机前端见图1。SSAR是1个9波束的焦平面阵列接收机，有18路输出，前端产生的18路信号经电缆传输到工作在室内的中频模块内，最终到实时数字FFT频谱仪进行频谱处理。SSAR的9波束采用1个数字化本振(LocalOscillator,LO）源，经本振分配系统后分成9路功率相对一致本振信号供2SB超导SIS混频器使用。
+
+![](images/dd3ef31839811ae943f5622ba7e668ec9402580f5526000776270507993df27e.jpg)  
+图1德令哈13.7米望远镜天线(左)和接收机前端(右) g.1Delingha 13.7m telescope antenna (left) and front end of receiver (right)
+
+9波束接收机及飞行(On The Fly,OTF)观测模式的应用，使望远的的观测能力得到了质的提高。德令哈13.7米望远镜每年约有1220万条天文谱线产出，是之前60倍左右。多波束接收机的发展，使望远镜可以开展宏大的观测项目一“银河画卷巡天”(MilkyWay ImagingScroll Painting,MWISP)。基于望远镜的多波束接收机、多谱线观测、高的空间分辨率、完整的空间取样以及大天区覆盖等多方面的优势，对北天银道面 $\pm 5 ^ { \mathrm { { \mathrm { 0 } } } }$ 范围的天区及近邻恒星形成区、高银纬星际分子云等区域进行CO多谱线巡天，观测区域范围达2700deg²。用于研究分子云结构及其在银河系的分布、分子云与其他物质的相互作用和关系。对了解恒星、行星乃至宇宙起源都具有重要意义。经过近10年的观测，MWISP已基本完成，并取得了一系列重要成果。
+
+超导成像频谱仪有18路实时数字FFT频谱仪，见图2，其中左图是上边带的9路，右图是下边带9路。实时数字FFT频谱仪前接中频模块。中频模块将接收机前端的2.14-3.14GHz频段信号变频到O-1GHz，并将信号的总功率通过内部电调衰减器(Electrically AdjustableAttenuator,EAA)设置为-5dBm左右，供实时数字FFT频谱仪进行频谱处理。
+
+![](images/6bdce947f61a4607ee4b225a52e3831fe18b76c712562bb3947b0e5706747072.jpg)  
+图2 超导成像频谱仪18 路实时数字FFT频谱仪。左图是上边带，右图是下边带。 18 real-time digital FFT spectrometers of SSAR.Left is the upper sideband,right is the lower sideb:
+
+实时数字FFT频谱仪硬件部分是Acqiris公司的频谱分析仪AC240。AC240内部有2个分辨率为8bit的ATMEL公司的TS8388B型号的ADC芯片，海量数字处理芯片采用的是Xilinx公司的Virtex-II Pro 70型号的现场可编程阵列(Field Programmable Gate Array,FPGA)芯片，并配有高速的数据传输PCI总线[23。ADC的采样率为1GS/s，2个ADC交织(相位差180度)采样，采样率可以达到2GS/s。实时数字FFT频谱仪的FFT数据处理内核是由中国科学院紫金山天文台和上海韦届特机电科技有限公司联合开发完成[24]。
+
+实时数字FFT频谱仪单点采样间隔为5ns，决定了频谱仪最大分析带宽为1GHz。1条频谱采样32768点，经FFT变换后，有16384个通道。1条频谱采样耗时16.384us，FPGA的数据FFT用时在16.384us内，保证了FFT频谱仪频谱获取的连续性，避免了频谱仪引入的空闲时间，保障了望远镜不间断的天文观测。频谱仪1条频谱的采样点数是由FFT算法决定的。数字频谱分析通常有三种算法[23]，傅里叶变换法，自相关法，数字滤波器组法。自相关法和数字滤波器组法需要巨量的数据量计算，耗时较长，常规的傅里叶变换法具有相同的特点，而当数据量恰好是2的幂次方时，傅里叶变换的计算量可以急剧地减少，此时的傅里叶变换称为快速傅里叶变换，这也是FPGA在16.384us时间内完成频谱分析的原因。在FFT时，只能对有限长度的数据进行变换，会增加窗函数对数据进行截断。常见的窗函数有矩形窗(Rectangular window)、汉宁窗(Hanning window)、汉明窗(Hamming window)、布莱克曼窗(Blackman window)等函数。德令哈望远镜的实时数字FFT频谱仪采用的是矩形窗函数。矩形窗函数的特点是主瓣窄，旁瓣大，频率识别精度高，幅度识别精度低。在分子谱线观测中，频率分辨率很重要，信号强度值通过斩波轮校准法进行校准完成[25]，实时数字FFT频谱仪保持足够的线性即可，因此，矩形窗函数是较好的选择。实时数字FFT频谱仪可通过内部固件加载1GHz、 $2 0 0 ~ \mathrm { M H z }$ 、500MHz三种带宽分析模式。多年来天文观测中最常用的模式是1GHz带宽，单个通道对应频率带宽为61.035KHz。在天文观测中，部分天文信号的谱线窄，需要高的频率分辨率进行观测，此时，将中频模块的输出带宽通过滤波器设为0-200MHz，FFT频谱仪加载200MHz的工作模式，FFT频谱仪的16384的通道数不变，单个通道对应频率带宽为 $1 2 . 2 0 7 \ : \mathrm { K H z }$ ，频率分辨率提高4倍。
+
+主控计算机通过局域网控制实时数字FFT频谱仪，设置频谱仪积分时间。频谱仪的单条谱线获取时间为16.384us，频谱仪的积分时间设定通过多条谱线累加完成。频谱仪将处理完成的数据通过局域网存储到磁盘阵列。
+
+# 2实时数字FFT频谱仪性能及维护
+
+FFT频谱仪是超导成像频谱仪接收机的最后一级，是将望远镜观测到的模拟信号转换到数字信号的一级，其线性影响着信号的强度校准精度。FFT频谱仪线性包含总功率的线性度和点频信号的线性度。FFT频谱仪的线性主要由ADC决定，FFT时采用的窗函数对信号的强度有影响，但对线性影响较小，理论上说，FFT频谱仪的线性好，我们通过测试给与验证。FFT频谱仪比商业通用频谱仪具有低的噪声，我们给出了两者的对比。
+
+# 2.1实时数字FFT频谱仪的线性
+
+采用了如图3所示的测试方案对FFT频谱仪的总功率线性进行了测试。其中噪声源采用的是超导成像频谱仪的前端，将超导混频器电压偏置在线性区，前端是稳定的噪声源，之后接中频模块，利用中频模块内部的电调衰减器调整接收机的输出功率，通过对比功率计测试的总功率值和FFT频谱仪所有通道的总值来计算FFT频谱仪的总功率线性。
+
+Noise IFfront NWIV FFT   
+source end spectrometer EAA Amplifier IF module   
+Noise IFfront MIV Power   
+source end meter EAAAmplifier
+
+电调衰减器以1dB为间隔设置不同的衰减值时，FFT频谱仪测试频谱见图4。图中可以看出，FFT频谱仪输入的宽带信号总功率较弱时，会出现干扰信号，这是FFT频谱仪内部的数字电路引入的，这些数字电路的电磁屏蔽的改善是下一代FFT频谱仪需要改进的地方。由于电调衰减器的1dB间隔并不精准，图中的频谱间隔差别较大。将功率计测试值与FFT频谱仪的频谱总功率进行拟合，得到FFT频谱仪总功率的线性，结果见图5。FFT频谱仪的总功率线性度为 $9 6 . 3 \%$ ，线性范围为-25dBm到3dBm，具有良好的线性度和高的动态范围。
+
+![](images/e704ddfa654409859cfae0c94dbbb109dee1891b72ecae7f63cb10a3c94dad37.jpg)  
+图3FFT频谱仪总功率线性的测试框图  
+Fig.3 The test block diagram of the total power linearity of the FFT spectrometer   
+图4电调衰减器间隔1dB时FFT频谱仪的频谱  
+Fig.4 The corresponding spectrum of FFT spectrometer to 1dB interval of EAA
+
+![](images/485b406d530c692261f56470367be1cbe14466f34bf6c482ee0e0a032b676816.jpg)  
+图5FFT频谱仪总功率的线性 Fig.5Linearity of total power of FFT spectrometer
+
+13.7米望远镜的天文观测以谱线观测为主，FFT频谱仪的点频信号的功率线性非常重要。在图3的上图的测试框图中，FFT频谱仪输入端的宽带噪声总功率设为-8dBm(天文观测时常用的状态)，点频信号通过中频模块耦合到宽带噪声中再输入到FFT频谱仪，测试点频信号的输入功率与FFT频谱仪得到的信号功率，计算FFT频谱仪的点频信号的线性，见图6。FFT频谱仪点频信号功率的线性度为 $100 \%$ 。将点频信号功率间隔4dB的FFT频谱仪上的频谱画图见图7。可以发现，由于宽频噪声的存在，图中的频谱强度并不是间隔4dB。当信号强度较强时，信号由原先的1个通道扩展到多个通道，这是由于FFT时使用矩形窗函数造成的频谱泄露引起的。
+
+![](images/67ba89b5fc555bc3a5bb782d080bc7fb7d78744e10d176055b0121e9a52e5ce1.jpg)  
+图6FFT频谱仪点频信号的功率线性 Fig.6 The power linearity of point frequency signal of FFT spectrometer
+
+![](images/207ba8237629bec966a0aa8ec378e4014d31487b4d1bc6d1f8ebf6a986565f92.jpg)  
+图7点频信号不同功率下的FFT频谱仪的频谱 Fig.7 The spectrum of FFT spectrometer at different power of point frequency signa
+
+# 2.2实时数字FFT频谱仪与商用频谱仪的噪声对比
+
+射电天文中频谱仪比商用频谱仪具有低的噪声。我们将FFT频谱仪和安捷伦的E4407B的商用频谱仪对相同频谱进行采集，对比频谱特性，见图8。图中FFT频谱仪积分时间是5 s,E4407B的积分时间是270s，对0.2-0.4GHz的频谱进行对比，可以看出，FFT频谱仪处理的频谱时间短，噪声低。
+
+![](images/10d0e220ec46c0ec8c325e76d372f58a297d98f82bcb3d93387621cf6299bd71.jpg)  
+图8FFT频谱仪与E4407B频谱仪测试的频谱对比 Fig.8 Spectrum comparison between FFT spectrometer and E44O7B spectrum analyzer
+
+# 2.3实时数字FFT频谱仪的维护
+
+18路实时数字FFT频谱仪工作在2个机箱内，观测站海拔3200米，空气相对稀薄，频谱仪整年不间断工作，因此，散热非常重要。频谱仪内部温度一旦过高，处理的谱线会出现异常。频谱仪内部有温度报警，一旦温度过高会及时提醒。频谱仪工作时，我们会采用风扇增加空气的流动性，增加内部器件的散热。当频谱仪因温度过高出现频谱异常时，在温度降低后，重启频谱仪可恢复正常。FFT频谱仪在10多年的连续工作中，除了因温度过高引起的频谱异常外，其他时间工作稳定，故障较少。在2011年出现过一次电源故障，见图9,经过维修，快速恢复了正常工作。
+
+![](images/7beb6e475c5c809bd469723c81af5f67ccfb816641606872220fa284f7d22a22.jpg)  
+图9FFT频谱仪的电源故障维修 Fig.9Maintenance of power failure of FFT spectrometers
+
+在每年7月份的仪器维护阶段，会对FFT频谱仪进行维护。经过一整年的工作，FFT频谱仪机箱内部会积累一些灰尘，我们对FFT频谱仪机箱内部进行清理，并对FFT频谱仪板卡内部进行清洁。
+
+FFT频谱仪发热功率最大器件是FPGA和ADC芯片，为了增加散热，芯片表面通过金属柱与金属板散热，在芯片与金属柱接触的地方通过涂抹导热硅脂增加散热接触。工作时间较长后，导热硅脂变干，导热性变差，因此，我们会更换高功耗芯片处及金属接触处的导热硅脂，见图10，增加散热，保障FFT频谱仪的长时间稳定工作。
+
+![](images/d920948994916c5a24fa8fd4ee4c72ce22cb57dec83af4c9be51e64a4b19d810.jpg)  
+图10 FFT频谱仪高功耗芯片及散热部件处更换导热硅脂 Fig.10 Replacement of thermal grease for high power chips and dissipation parts ofFFT spectrometers
+
+# 3总结
+
+以高速采样ADC和海量数字处理FPGA芯片为基础的实时数字FFT频谱仪具有频谱处理速度快，噪声低，带宽宽，频率分辨率高，动态范围广，稳定时间长等方面的优势，是目前最具有优势的射频天文用频谱仪。除此之外，还具有体积小，环境要求宽松，成本低等优势。随着技术的进步，FFT频谱仪向着更高带宽发展。在2010年，APEX(AtacamaPathfinder Experiment)望远镜的XFFT(the eXtended bandwidth FFT spectrometer） 处理带宽已经达到 $2 . 5 \mathrm { G H z } ,$ ，通道数达32K[26]。在我国，500米口径球面射电望远镜(FAST)的超宽带通用型数字后端(CRANE)处理带宽为3GHz，通道数达百万量级(4194304)2]。上海讯析电子科技有限公司最新一代的实时数字FFT频谱仪的处理带宽可达到5GHz。德令哈13.7米望远镜向更宽的中频带宽发展在频谱处理方面有了保障。在之后的实时数字FFT频谱仪的技术发展中，数字电路需要加强电磁屏蔽方面的工作，避免内部产生的单通道假谱。随着处理带宽的增加，高速采样ADC和海量数字处理FPGA芯片功耗也将增加，芯片的散热处理和多路频谱仪的集成机箱的散热方面需要作为一个重要方面考虑，以保障FFT频谱仪长时间工作的稳定性。
+
+# Real-time digital FFT spectrometer for Delingha 13.7m telescope
+
+I Zhen-qiang， ZHANG Xu-guo, LI Ji-bin， SUN Ji-xian,LU Deng-rong,DONG Shou-hao, Ll Ya-peng,Ll Sheng-xue (1.Qinghai station,Purple Mountain Observatory,Chinese Academy of Sciences,Delingha 817ooo,China 2．Key Laboratory of Radio Astronomy，Chinese Academy of Sciences,Nanjing 21oo08,China)
+
+Abstract: In radio astronomy,as the spectrum analysis equipment at the back end of the receiver, the spectrometer is very different from the commercial general spectrum analyzer. After several generations of development, the radio astronomy spectrometer has developed into a real-time digital spectrometer based on chips such as Analog-to-Digital Converter (ADC） and Field Programmable Gate Array (FPGA). Real time digital spectrometer has the advantages of wide bandwidth,high frequency resolution, high dynamic range and long-time stability, etc.,and more importantly，it has the characteristics of small volume and loose environmental requirements. There are 18 real-time digital fast Fourier transform (FFT） spectrometers at the back end of receivers for Delingha $1 3 . 7 \mathrm { m }$ telescope.The performance and maintenance of real-time digital FFT spectrometers for $1 3 . 7 \mathrm { m }$ telescope are introduced.
+
+Key Words: Field Programmable Gate Array (FPGA)； Fast Fourier Transform (FFT); Realtime digital spectrometer ;Superconducting Spectroscopic Array Receiver (SSAR)
+
+# 参考文献：
+
+[1]李振强,张旭国,徐烨,等.德令哈13米望远镜多波束接收机的运行[J].天文学报，2021,62(3):24 LI Z Q,ZHANG XG,XUY,et al.Operationof Multibeam Receiverof Delingha13.7m Telescope[J].Acta Astronomica Sinica,2021,62(3):24.   
+[2]孙锦,李守中.分子天体物理学基础[M].北京:北京师范大学出版社.2003:169. SUNJ,LI SZ.Fundamentals of molecular Astrophysics[M].BEJING: Beijing Normal University Press.203:169   
+[3]李波.分子天文学的研究方法与展望[J].临沂师范学院学报,2010,32(6):39-43. LIB.Studying MethodsandProspectsof MelecularAstronomy[J].JouralofLinyi Teachers'College,2010,32(6):39-43.   
+[4]韩溥.紫金山天文台青海毫米波射电天文观测站的选址[J].天文学报,1985,26(2):89-98. HANP.Site Choosing of Qing-Hai Millimeter-Wave Radioastronomy Stationof Purple Mountain Observatory[J].Acta Astronomica Sinica,1985,26(2):89-98   
+[5]梁镇猷,荣亚和,万献民,等.CFR-256-1型多通道滤波式频谱仪[J].紫金山天文台台刊,1991,10(1):56-63. LIANG ZY,RONG YH, WAN XM,et al.TheFilter-Bank Spectrometerof ModelCFR-256-1[J].Publicationsof Purple Mountain Observatory,1991,10(1):56-63.   
+[6]陈东培,宫俊杰,周献文,等.一种新型射电天文频谱仪—声表面波频谱仪[J].Chinese Joumal of Astronomy and Astrophysics,13(1):7. CHEN D P,GONGJJ,ZHOU XW,et al.A New Type of Radio Astronimical Spectrometer—SAW Spectrometer[J]. Chinese Journal of Astronomy and Astrophysics,13(1):7.   
+[7]丁祖高,黄光力,许政权,等.集成声光频谱分析仪(IAOSA)应用于射电天文学的展望[J].紫金山天文台台刊,1995(1). DING Z G,HUANGGL,XUZQ,etal.Prospects of the Applicationof Integrated Acousto-Optical Spectrum Analuzer (IAOSA) to Radio Astronomy[J].Publications of Purple Mountain Observatory,1995(1).   
+[8]郑兴武,雷成明.声光频谱仪频率校准的研究[J].天文学报,1997(4). ZHENG X W,LEICM.Measurement forthe Performanceof an Acousto-Optic spectrograph[J].Acta Astronomica Sinica, 1997(4).   
+[9]毛瑞青.13.7米射电望远镜谱线观测系统的稳定性与观测时间的优化使用[J].紫金山天文台台刊,1998(3):13-17. MAO R Q.The Stabilityof the Spectrum System on the 13.7m Telescope and Optimizing the Use of Telescope Time[J]. Publications of Purple Mountain Observatory,1998(3):13-17.   
+[10] 杨戟,史生才,裴立本,等.3毫米波段多谱线系统[Z].国家科学技术进步奖二等奖,2006. YANGJ,SHI SC.PEILB,etal.3mm band multi-line system[Z].Second Prize of National Scienceand Technology Progress Award,2006   
+[11] 林镇辉.宽带高分辨率实时 FFT频谱仪研制及应用研究[D].南京:中国科学院紫金山天文台,2007. LIN Z H.Development and Applied Research of Real-time FFT Spectrometer with Wide Bandwidthand High Frequency Resolution[D].Nanjing: Purple Mountain Observatory, Chinese Academy of Sciences,2007   
+[12] KLUMB M，FREICKJ,TOLLS V,et al.Submillimeter Wave Astronomy Satelite (SWAS)acousto-optical spectrometer[C].SPIE's1994 Intermational Symposiumon Optics,Imaging,and Instrumentation,1994,2268:305-315.   
+[13]FREICKJ，KLUMB M，SCHIEDERRT,etal.SWAS-AOS: the firstacousto-optical spectrometerin space[C].SPIE's International Symposium on Optical Science,Engineering,and Instrumentation,1999,3759.   
+[14]林镇辉,姚骑均,杨戟.用于射电天文数字频谱仪的新进展[J].天文学进展,2008,26(2):175-183. LIN ZH,YAOQJ,YANGJ.NewrogressonDigital Spectrometer forRadio Astronomy[J].ProgressinAstronomy,2008, 26(2):175-183.   
+[15] SHAN WL,YANGJ,SHIS C,et al. Development of Superconducting Spectroscopic Array Receiver: A Multibeam 2SB SISReceiver forMilimeter-WaveRadio Astronomy[J].IEEETransactionson Terahertz Science&Technology,2012 2(6):593-604.   
+[16] 杨戟,曹凝.超导成像频谱仪[J].中国科学院院刊,2011,26(4):478-481. YANGJ,CAON. Superconducting Spectroscopic Arry Receiver[J].Buletinof Chinese Academyof Sciences,2011,26(4) 478-481.   
+[17] 李振强,李积斌,张旭国,等.德令哈 $1 3 . 7 \mathrm { m }$ 望远镜接收机抗射频干扰研究[J].天文学报,2019,60(3):24. LI Z Q,LIJB，ZHANGXG,etal.Researchon Receiver Anti-RFIof Delingha13.7mTelescope[J].Acta Astronomica Sinica,2019,60(3):24.   
+[18]LI ZQ,LIJB，ZHANG XG,etal.Research on Receiver Anti-RFIof Delingha13.7m Telescope[J].Chinese Astronomy and Astrophysics,2019,43(4):590-608.   
+[19]李振强,张旭国,李积斌,等.德令哈毫米波望远镜本振谐波干扰问题[J].天文研究与技术,2020,17(1):60-67. LI Z Q,ZHANG XG,LIJB,et al.The harmonic interference problem of LO in Delingha mm wave telescope[J]. AstronomicalResearch& Technology,2020,17(1):60-67.   
+[20]李振强,张旭国,李积斌,等.边带分离型超导 SIS 接收机本振耦合噪声研究[J].天文学报,2020,61(2):73-84. LI ZQ,ZHANG XG,LIJB,et al.Investigation ofLO-Coupled Noise fora Sideband Separation Superconducting SIS Receiver[J].Acta Astronomica Sinica,,2020,61(2):73-84.   
+[21]LIZQ,ZHANGXG,LIJB,etal.InvestigationofLO-Coupled Noise fora Sideband Separation Superconducting SIS Receiver[J].Chinese Astronomy and Astrophysics,2020,44(3):383-398.   
+[22] ZUOYX,SHAN WL,YANGJ.Optical Design Considerations fora Millimeter-Wave Focal Plane Arry[C].2008 Global Symposium on Millimeter Waves,2008:197-200.   
+[23] BENZ AO,GRIGIS PC,HUNGERBUHLER V,etal.AbroadbandFFT spectrometer for radio and millimeter astronomy[J].Astronomy & Astrophysics,2005,442(2):767-773.   
+[24]林镇辉,杨戟,李升,等.宽带高分辨率实时快速傅立叶变换数字频谱仪:2.009100278232E11[P].2011-08-17. LINZH,YANGJ,LIS,etal.Broadband High Resolution Real-Time FastFourier Transform Digital Spectrometer : 2.009100278232E11[P].2011-08-17.   
+[25]杨戟.大气衰减以及毫米波与亚毫米波观测的强度校准[J].天体物理学报,1999,19(1):55-62. YANGJ.Atmospheric Attenuationand IntensityCalibration for Millimeterand Submillimeter-WaveObservations[J].Acta Astronomica Sinica,1999,19(1):55-62.   
+[26] KLEINB,HOCHGURTEL S,KRAMERI,etal.High-resolution wide-bandFastFourier Transform spectrometers[J]. Astronomy& Astrophysics,2012,542(2):1075-1082.   
+[27]张夏,俞欣颖,段然,等.FAST数字后端及超宽带百万通道频谱仪算法仿真[J].天文学进展,2016,34(2):249-257. ZHANGX,YUXY,DUANR,etal.FASTDigital Backendand Algorithm Simulation for BroadbandMilion Channel Spectrometer[J].Progress in Astronomy,2016,34(2):249-257.

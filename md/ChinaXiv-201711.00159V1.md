@@ -1,0 +1,162 @@
+# Theoretical Studies on the Excited-state Properties of Ru(II) Polypyridyl Complexe
+
+ZHANG Jian- $\mathbf { \cdot } \mathbf { \mathrm { F u } } ^ { ( 1 ) }$ (张建夫);MIAO Ti-Fang(2(苗体方);ZHANG Zhi-Qiang(3)(张智强);LI Shuang(2(李双);LUO Yao(2)(罗瑶)   
+（204号 $^ { ( 1 ) }$ School of Chemistry and Chemical Engineering, Zhoukou Normal University, Zhoukou 4660o1, China;(2) (School of Chemistry and Materials Science,Huaibei Normal University, Huaibei 235oo0, China;(3)   
+Department of Material and Chemical Engineering, Zhengzhou Institute of Light Industry, Zhengzhou 450002. China
+
+ABSTRACTUsing DFT/TDDFT methods, the excited-state lifetimes of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes were computed accurately and the reason of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes with long excited-state lifetimes was explained by the electron-transfer distances and HOMO-LUMO gaps.Finally,the photovoltaic conversion efficiencies of complexes were predicted using DFT and docking methods.This work has provided methods of predicting the excited-state lifetimes and photovoltaic conversion efficiencies of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes.
+
+Keywords: $\mathbf { R u ( I I ) }$ complexes; excited-state lifetimes; DFT; docking model; DOI: 10.14102/j.cnki.0254-5861.2011-1662
+
+# 1 INTRODUCTION
+
+Owing to the excellent photophysical and photochemical properties,Ru(II） polypyridyl complexes have attracted considerable atention in many important areas such as photochemical conversion of solar energy, DNA-photocleavage reagent, molecular ‘Light Switch', etc[1-4l. For example, $\mathrm { { R u ( I I ) } }$ polypyridyl complexes can effectively cleave DNA under light irradiation and the DNA-damage reason is atributed to the produced singlet oxygen $( { } ^ { 1 } \mathbf { O } _ { 2 } ) ^ { [ 5 ] }$ , usually related to the quantum yieldl6,7]. Besides, many $\mathrm { { R u ( I I ) } }$ polypyridyl complexes can emit strong fluorescence and their excited-state lifetimes play an important role in quantum yield. Hence, studies on excited-state lifetimes have been a hot topic and are explored widely in experiments.Research results[8-10] show that the emission intensity relates to the excited-state lifetimes of complexes，usually dominated by metal-centered (MC) states and metal-to-ligand charge (MLCT) states. However, these states are experimentally determined with difficulty. If MC and MLCT states of complexes can be obtained theoretically, the results willbe of great significance for predicting the emission intensity and directing the design of novel luminescence complexes.
+
+In this work，we select the experimentally reported $\mathrm { { R u ( I I ) } }$ polypyridyl complexes[11] $\mathbf { 1 } \sim \mathbf { 5 }$ i.e., $\mathrm { [ R u ( t p y  – P h C H _ { 3 } ) _ { 2 } ] ^ { 2 + } }$ ，[Ru(tpy)2]2+，[Ru(H2pbbzim)2]2+，[Ru(tpy-HImzphen)]²+and $( \mathrm { t p y – P h C H _ { 3 } } ) \mathrm { R u ( t p y - }$ HImzphen $) ] ^ { 2 + }$ (Structural diagrams are shown in Fig. 1) to perform a theoretical study using density functional theory (DFT)and time-dependent theory (TDDFT) methods[12-15l. In addition, as is well-known, many $\mathrm { { R u ( I I ) } }$ （204号 polypyridyl complexes can be widely used in dye-sensitized solar cels (DSSCs). To predict the photovoltaic conversion properties of these complexes,the excited-state properties of these complexes were also explored[16, 17l. We hope that this work laies a theoretical foundation for designing and synthesizing novel complexes with better luminescence properties.
+
+# 2 THEORYANDCOMPUTATIONALMETHODS
+
+# 2.1Computations of the excited-state lifetimes
+
+Full geometry optimization of the studied complexes $\mathbf { 1 } { \sim } 5$ in the ground state was carried out using the restricted B3LYP method with the LanL2DZ basis set[18,19] for Ru atom and with the $6 { - } 3 1 \mathrm { G } ( d )$ basis set for the other atoms.For the obtained structures,frequency calculations were also performed using the same method to verify that the optimized structure was an energy minimum. To obtain energies of MLCT and MC states, 240 singlet-excited-state energies of these complexes were calculated based on the optimized ground geometries with TDDFT method at the same level of theory.
+
+Many $\mathrm { { R u ( I I ) } }$ complexes can be excited under light irradiation and their excited-state lifetimes are governed by the nonradiative decay rate constant $k _ { \mathrm { n r } } .$ given by[8. 9]
+
+$$
+k _ { \mathrm { n r } } = k _ { \mathrm { n r } } ^ { \mathrm { ~ ~ 0 ~ } } + k _ { \mathrm { n r } } ^ { \mathrm { ~ ~ \prime ~ } }
+$$
+
+where the overall radiationless decay $k _ { \mathrm { n r } }$ is the sum of $k _ { \mathrm { n r } } ^ { \mathrm { ~ 0 ~ } }$ and $k _ { \mathrm { n r } } \mathrm { \dot { } }$ . Specifically, ${ k _ { \mathrm { n r } } } ^ { 0 }$ leads directly from the MLCT state to the ground state, whereas ${ k _ { \mathrm { n r } } } ^ { \prime }$ is related to a thermally activated process that takes into account a surface-crossing to a low-lying metal-centered (MC) level, so it depends on the energy gap $\Delta E$ between MLCT
+
+and MC states.
+
+The excited-state lifetimes $( \tau )$ of complexes can be obtained by the reciprocals of Eq.1,expressed as follows:
+
+$$
+\tau = 1 / ( k _ { \mathrm { n r } } ^ { 0 } + k _ { \mathrm { n r } } ^ { \prime } )
+$$
+
+The rate constant $k$ （ ${ k _ { \mathrm { n r } } } ^ { 0 }$ and $k _ { \mathrm { n r } } ^ { \mathrm { \Delta } } \mathrm { ^ { \prime } }$ ) can be obtained by Eq. 3.
+
+$$
+k = A \mathrm { e x p } [ - E _ { \mathcal { I } } ( R T ) ]
+$$
+
+where $A$ is the frequency factor, $T$ is the temperature, and $E _ { c }$ is the free activation energy. $A$ can be obtained by the following equation:
+
+$$
+A = 2 \pi d ^ { 2 } L { \sqrt { \frac { R T } { \pi M } } }
+$$
+
+where $d$ is the diameter of the complex, $L$ is the Avogadro constant, $T$ is the temperature,and $M$ is the molar mass of the complex. The excited-state lifetimes were obtained via Eqs. $2 { \sim } 4$
+
+# 2.2Computations of photovoltaic conversion properties
+
+The optimized structures of these complexes were docked with two $\mathrm { T i O } _ { 2 }$ molecules using the Dock6.0 program[20l. The box size, grid space, energy cutof distance,and maximum orientation were set as 20, 0.3, 9999 A,and 20o,0o0,respectively. The other parameters used in docking were default. There are rigid docking and flexible docking, which represent two quite diferent docking approaches. In rigid docking, which is based on receptor spheres generated by the SPHGEN module as wellas the heavy atom centers of the ligand,the ligand is docked rigidlyto the receptor，whereas in flexible docking，which is based onthe anchor-and-growing algorithm,the ligand is docked flexibly to the receptor. Here,using the rigid docking method， the docking models (complex $\cdot \mathrm { T i O } _ { 2 } \mathrm { . }$ ）were obtained. To accurately compute the electron-transfer properties between $\mathrm { { R u ( I I ) } }$ complexes and $\mathrm { T i O } _ { 2 }$ , the optimizations of the obtained docking models in ground state were further carred out using CAM-B3LYP method and with the LanL2DZ basis set[18,19] for Ru atom and with the $6 { \cdot } 3 1 \mathrm { G } ( d )$ basis set for the other atoms. The optimized results are given in Fig. 2. Meanwhile, the frequency calculation was also performed in order to verify the optimized docking model to be an energy minimum. In addition, to obtain the excited properties of the docking models, the docking models in the lowest triplet/singlet states were also optimized at the same level of theory.
+
+All calculations were preformed with the GaussianO9 program-package[21].
+
+# 3 RESULTSANDDISCUSSION
+
+# 3.1Evaluation of computational accuracy
+
+Complex 4 was selected for optimization at the level of B3LYP/LanL21 $\mathrm { O Z } + 6 { - } 3 1 \mathrm { G } ( d )$ ， since the crystal structure of complex 4 has been determined.The calculated results of complex 4 and corresponding X-ray data are listed in Table 1. Comparing the calculated geometrical parameters of complex 4 with corresponding $\mathrm { \Delta } X$ -ray data, we can clearly see that the calculated results using the DFT method are in a satisfying agreement with the corresponding X-ray data[11].
+
+In addition,complexes 4 and 5 were selected for calculations of electronic absorption spectra, since electronic absorption spectra of complexes 4 and 5 have been determined experimently. The computed electronic absorption spectra of 4 and 5 are given in Fig. 3. We can see that the computed maximum bands of complexes 4 and 5 are at $4 9 8 . 2 { \mathrm { n m } }$ （204号 $( f = 0 . 6 1 7 )$ and $5 0 2 . 8 \mathrm { n m }$ $\left( f = 0 . 7 5 9 \right)$ , respectively, in good accordance with experimental results[11] 492 and $5 0 2 \ \mathrm { n m }$ ，respectively. From Fig. 3,we can also see that the simulated absorption spectra of 4 and 5 agree well with experimental results whither from absorption-spectra shapes or positions of bands.This shows furtherthat the computed results are believable using such a DFT method.
+
+# 3.2Excited-state lifetimes of complexes
+
+The energies of MLCT and MC states of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes play an important role in the excited-state lifetimes.To obtain the excited-state lifetimes,absorption spectra of complexes $\mathbf { 1 } { \sim } 5$ were computed using TDDFT method and the computed energies of MLCT and MC states are given in Table 2 and the computed excited-state lifetimes $\tau$ via Eqs. $2 { \sim } 4$ and corresponding experimental results are given in Table 3.We can see that the computed $\tau$ of complexes $\mathbf { 1 } { \sim } 5$ are 4599216.6,6368.4， 202.6,66222084.1 and 8752385.3 ns, deviating from the experimental results very greatly. Nevertheless,the general tends are in accordance with the experimental results[ll, i.e., $\tau ( 4 ) > \tau ( 5 ) > \tau ( 1 ) > \tau ( 2 ) > \tau ( 3 )$ . The main reason of error may be that the rate constant $k$ in Eq. 3 was obtained by classical collision theory and light irradiation is not taken into account.Based on the idea,Eq.3 is revised further and expressed as follows:
+
+$$
+k = A A ^ { \prime } \mathrm { e x p } [ - E _ { c } / ( R T ) ]
+$$
+
+Complex 1 was selected as an example.The experimental result $\tau$ for 5.0 ns was substituted in Eq. 2 and $A ^ { \prime }$ for 920037.6 was obtained via $_ \mathrm { E q s . l } { \sim } 5$ .Using the obtained $A ^ { \prime }$ ， the revised $\tau$ values of complexes $2 { \sim } 5$ were computed being O.07, 0, 71.9 and $9 . 5 ~ \mathrm { n s }$ ，more close to the experimental results[11] of 0.25,O, 55.5 and 10.2 ns. Therefore,the frequency factor $A ^ { \prime }$ for 920o37.6 may be used for computations of excited-state $\mathrm { { R u ( I I ) } }$ polypyridyl complexes and the excited-state lifetimes of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes can be predicted
+
+accuratelyusing the frequency factor.
+
+# 3.3Molecular orbital analysis
+
+Frontier molecular orbitals play an important role in exploring relation between molecular structure and excited-state lifetimes.So,it is necessry to analyze and discuss enengies and components of frontier molecular orbitals.The highest occupied molecular orbitals (HOMO)，the lowest unoccupied molecular orbitals (LUMO) and HOMO-LUMO gaps were computed and listed in Table 4，and the coresponding stereocontour plots are shown in Fig. 4.
+
+From Fig.4, we can see that the“electron cloud”of the HOMO in ground states is mainly distributed on the end of one ligand,whereas that of the LUMO on another ligand for complexes 4 and 5.This shows that electrons transfer from the end of one ligand to another ligand when electrons are excited,leading to the electron-transfer distances to be far away. On the contrary,electrons transfer from one ligand to another ligand or from Ru atom to ligands when electrons are excited for complexes $\mathbf { 1 } { \sim } 3$ ，leading to the electron-transfer distances to be short relative to complexes 4 and 5.In addition,it can be seen from Table 4 that the computed HOMO-LUMO gaps of complexes $\mathbf { 1 } { \sim } 5$ are 3.222, 3.603,3.094,1.087 and $1 . 1 9 0 { \mathrm { ~ e V } } ,$ respectively, showing that complexes 4 and 5 have less HOMO-LUMO gaps relative to $\mathbf { 1 } { \sim } 3$ and they can be excited easily.
+
+From the above analysis,we can see that complexes 4 and 5 with long excited-state lifetimes have two characteristics: (1) lessHOMO-LUMO gaps; (2) long electron-transfer distances. The two characteristics may be the reason of excited-state lifetimes of complexes 4 and 5 longer than those of complexes $_ { 1 \sim 3 }$
+
+# 3.4Photovoltaic conversion property
+
+The calculated net charges of two $\mathrm { T i O } _ { 2 }$ molecules in the docking models of complexes $\mathbf { 1 } { \sim } 5$ in the ground states and in the lowest triplet states are listed in Table 5. Since the photovoltaic conversion efficiencies of complexes $\mathbf { 1 } \sim \mathbf { 5 }$ were not determined experimentally， for comparison， complexes[22] 3a and 3b with photovoltaic conversion eficiencies in experiments were also computed and the computed net charges of two $\mathrm { T i O } _ { 2 }$ molecules in the their docking models in the ground states and in the lowest triplet/singlet states were also listed in Table 5. For complexes 3a and 3b, the calculated net charges of two $\mathrm { T i O } _ { 2 }$ molecules in the docking models in the ground states are $- 0 . 3 0 7 9$ and $- 0 . 2 0 9 8 \ \vert \mathrm { e } \vert$ ，and those in the lowest singlet states are -0.3356 and-O.2305 lel,respectively.Their gaps (ε) are 0.0277 and O.0207 lel,showing that greater charges transfer from complex 3a to $\mathrm { T i O } _ { 2 }$ molecules relative to complex 3b and the photovoltaic conversion efficiency of 3a should be better than that of 3b,inconsistent with the experimental result[22l.Similarly,the calculated gaps of net charges of two $\mathrm { T i O } _ { 2 }$ in docking models between in the ground states and the lowest triplet states for
+
+3a and 3b are O.0217 and O.0499 lel, respectively, showing that less charges transfer from complex 3a to $\mathrm { T i O } _ { 2 }$ molecules relative to complex 3b and the photovoltaic conversion efficiency of 3b should be beter than that of 3a,in accordance with the experimental result[22. Therefore,the net charges in the docking models of complexes $\mathbf { 1 } { \sim } 5$ in the lowest triplet states were computed below.
+
+From Table 5,we can see that the gaps (ε) of net charges on two $\mathrm { T i O } _ { 2 }$ in docking models between in the ground states and in the lowest triplet states are 0.0127,0.0237,0.1256,0.0022 and 0.0287 el,respectively.We predict that the order of photovoltaic conversion efficiencies of complexes $\mathbf { 1 } { \sim } 5$ should be $\mathbf { 3 } > \mathbf { 5 } > \mathbf { 2 } > \mathbf { 1 } > \mathbf { 4 }$ Such a result is inconsistent with the excited-state lifetimes of complexes $\mathbf { 1 } { \sim } 5$ .This further shows that photovoltaic conversion eficiencies of complexes are not related with their excited-state lifetimes[22].
+
+# 4 CONCLUSION
+
+Theoretical studies on the excited-state lifetimes and photovoltaic conversion efficiencies of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes $\mathbf { 1 } { \sim } 5$ have been carried out using the DFT/TDDFT and docking methods, leading to the following results: (1) the calculational method of excited-state lifetimes for $\mathrm { { R u ( I I ) } }$ polypyridyl complexes $_ { 1 \sim 5 }$ was explored and the excited-state lifetimes can be predicted accurately. (2)The reason of excited-state lifetimes of complexes 4 and 5 longer than those of $_ { 1 \sim 3 }$ was explained by the electron-transfer distances and HOMO-LUMO gaps. (3) The photovoltaic conversion efficiencies of complexes $\mathbf { 1 } { \sim } 5$ were predicted.
+
+# REFERENCES
+
+(1)ge,; osmim()stdesiotldpotssisecalibtd photochemical and photophysical properties. Chem. Rev.1994,94, 993-1019.   
+(2)Balan 96, 759-833.   
+(3)ShiS.;Zao;X;LCYaL;HoJHagH;un;o;JoleaightifrGade cycling the switch on and off.Dalton.Trans.2012,41,5789-5793.   
+(4)LinLL;G solar Cells.Chin.J. Struct. Chem.2016,35,1517-1524.   
+(5）MiaoT.F;Li,J;LiS.；Wang,N.L.TheoreticalstudiesonDNA-photocleavageeficiencyandmechanismoffunctioalized $\mathrm { { R u ( I I ) } }$ （204号 polypyridyl complexes.J.Phys. Chem.A2014,118,5692-5699.   
+(6)Yu,HJ;HH;C;uJJio complexes $\mathrm { [ R u ( b p y ) _ { 2 } ( m i t a t p ) ] ^ { 2 + } }$ and $\mathrm { [ R u ( b p y ) _ { 2 } ( n i t a t p ) ] ^ { 2 + } }$ .J.Inorg.Biochem.2009,103,881-890.   
+(7）Williamsob.oleeaeee photocleavage by $\mathrm { R u ( I I ) }$ polypyridyl compounds.Inorg. Chem.2012,51,12669-12681. (8)Fangi Ruthe()oo 2854-2863.   
+(9)Fang; room-temperature luminescence properties of $\mathrm { { R u ( I I ) } }$ complexes with tridentate ligands.J. Am. Chem. Soc. 2002,124,7912-7913.   
+(10) Juris,A.; Balzani, V. $\mathrm { R u ( I I ) }$ polypyridine complexes: photophysics,photochemistry,electrochemistry,and chemiluminescence.Coord.Chem.Rev. 1988, 84, 85-277.   
+(1）Bi lumiescentdsdld (12)Miao,T.F;LiS.;Chen,J.C.;Wang,N.L;Zheng,K.C.TeoreticalstudiesonDNA-photocleavageeficienciesof $\mathrm { R u ( I I ) }$ polypyridyl Complexes. Dalton. Trans.2013,42,2463-2468.   
+(13)Miao,T.F.; Zhang,J.F;L,S.TD-DFTstudyon pyrazolinederivatives.Chin.J.Struct.Chem.2005,24,1169-1175.   
+(14)Wang,S.F.; Huang,Y. C.; Zhou,T. Blue/red-shift of the $p$ phenylene-ethynylene oligomers absorption spectra. Chin. J. Struct. Chem.2017,36, 549-561.   
+(15）Yao,J.LoX；u;S;o.bdidz:ericolecuarghtic”defuabfor G-quadruplex DNA. Dalton. Trans. 2013,42,5661-5672.   
+(16)LuN first fluorous bis-ponytailed amphiphilic Ru complexes. Inorg. Chem. 20l1,50,4289-4294.   
+(17)Shi,Y;ang;WagL;a,HouL;ZXuilgddal functioned coadsorbent for high eficiencydye-sensitized solar Cels.ACSAppl. Mater Interfaces 2013,5,144-153.   
+(18)HaP 1985, 82, 270-283.   
+(19)WadtW.Heooltes 1985, 82, 284-298.   
+(20) Kuntz,I.D.Structure-based strategies fordrug design and discovery.Science 1992,257,1078-1082.   
+(21)Frsch.sel A;NakatsujiHi.GLdaK; FukudaR;HadaOieeralE Bearparkd S.S.si R.E.YavOO DaebegV Gaussian 09,Revision D.01.   
+(22)Han,W.S.;Han,J.K.;Kim,H.Y.; Chi,M.J.; KangY.S.;PacC.; Kang,S.O.Electronicoptimizationofheteroleptic $\mathrm { { R u ( I I ) } }$ bipyridine complexes byremotesubstituents:sthesis,haracterzation,ndaplicationtoyesensitedsolarcels.Iorg.Chem.15,80.
+
+![](images/24062d7fa92c258a54347bf48a2259f0724966a5571b7e0ea8b902b51732cd42.jpg)  
+Fig.1. Structural diagrams of complexes $\mathbf { 1 } { \sim } 5$ and atom labels
+
+![](images/62cef55f4e65bb0297c7424d233ff9e11339baa76ef79f99561416116198db25.jpg)  
+Fig.2. Optimized docking models of complexes $\mathbf { 1 } { \sim } 5$ with two TiO2 molecules
+
+![](images/db15705c1962d729b98d6b29b59933486027c2a7530a1df504e6680695e77cad.jpg)  
+Fig.3.Simulated absorption spectra of complexes 4 and 5
+
+![](images/c4ecfcc2d2425a4989530124226e2fa7fadedecdc7c3c11320fd4d54c44921d8.jpg)  
+Fig.4.Molecularorbitalsofcomplexes $\mathbf { 1 } { \sim } 5$ in the ground states
+
+Table 1． Computed Selective Bond Lengths $( \mathring \mathbf { A } )$ and Bond Angles (°)of Complex 4 and Corresponding Experimental Data[11]   
+
+<html><body><table><tr><td>Bond</td><td>Dist.</td><td>Expt.</td><td>Angle</td><td>(</td><td>Expt.</td></tr><tr><td>Ru(1)-N(2)</td><td>2.1303</td><td>2.049</td><td>N(2)-Ru(1)-N(3)</td><td>78.04</td><td>78.84</td></tr><tr><td>Ru(1)-N(3)</td><td>2.0192</td><td>1.966</td><td>N(3)-Ru(1)-N(4)</td><td>78.05</td><td>79.31</td></tr><tr><td>Ru(1)-N(4)</td><td>2.1308</td><td>2.054</td><td>N(5)-Ru(1)-N(6)</td><td>77.37</td><td>78.03</td></tr><tr><td>Ru(1)-N(5)</td><td>2.1404</td><td>2.069</td><td>N(6)-Ru(1)-N(7)</td><td>77.38</td><td>78.84</td></tr><tr><td>Ru(1)-N(6)</td><td>2.0517</td><td>2.016</td><td>N(5)-Ru(1)-N(2)</td><td>92.79</td><td>92.43</td></tr><tr><td>Ru(1)-N(7)</td><td>2.1397</td><td>2.066</td><td>N(7)-Ru(1)-N(4)</td><td>92.73</td><td>92.29</td></tr></table></body></html>
+
+Table2.Calculated Related Excitation Energies $( \Delta E / { \bf e V } )$ ,Oscillator Strengths and Main Orbital Transition Contributions ofComplexes $\mathbf { 1 } { \sim } 5$ Usingthe TDDFTMethoc   
+
+<html><body><table><tr><td>Major contribution</td><td></td><td>△E/eV</td><td>λ/nm</td><td>f</td><td>Character</td></tr><tr><td rowspan="3">1</td><td>H-1→L+5 (45.1%)</td><td>3.7572</td><td>329.9</td><td>0.136</td><td>d→π* (MLCT)</td></tr><tr><td>H→L+6 (48.1%)</td><td></td><td></td><td></td><td></td></tr><tr><td>H-1→L+11(37.2%)</td><td>4.1062</td><td>301.9</td><td>0.023</td><td>d→d* (MC)</td></tr><tr><td rowspan="3">2</td><td>H→L+2 (79.4%)</td><td>3.0899</td><td>401.3</td><td>0.112</td><td>d→π* (MLCT)</td></tr><tr><td>H-2→L (27.3%)</td><td>2.9153</td><td>425.3</td><td>0.043</td><td>d→d* (MC)</td></tr><tr><td>H-1→L+1 (27.3%)</td><td></td><td></td><td></td><td>d→d* (MC)</td></tr><tr><td rowspan="3">3</td><td>H-1→L+3 (100%)</td><td>3.0121</td><td>411.6</td><td>0.013</td><td>d→π* (MLCT)</td></tr><tr><td>H-2→L+1 (45.9%)</td><td>2.9203</td><td>424.6</td><td>0.073</td><td>d→d* (MC)</td></tr><tr><td>H-1→L (45.9%)</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">4</td><td>H-7→L+1 (100%)</td><td>2.8757</td><td>431.4</td><td>0.033</td><td>d→π* (MLCT)</td></tr><tr><td>H-8→L+2 (60.8%)</td><td>3.2919</td><td>376.6</td><td>0.011</td><td>d→d* (MC)</td></tr><tr><td rowspan="2">5</td><td>H-7→L+2 (90.4%)</td><td>3.0453</td><td>407.1</td><td>0.136</td><td>d→π* (MLCT)</td></tr><tr><td>H-4→L (44.8%)</td><td>2.6824</td><td>462.2</td><td></td><td>d→d* (MC)</td></tr></table></body></html>
+
+Table3.CalculatedExcited-stateLifetimes $( \pmb { \tau } , \pmb { \mathrm { n s } } )$ ,Corrected Excited-stateLifetimes $( \pmb { \tau } ^ { \mathbf { c p } } ,$ ,ns) and the Experimental Values[11] of Complexes $\mathbf { 1 } { \sim } 5$   
+
+<html><body><table><tr><td>1</td><td></td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>T</td><td>4599216.6</td><td>6368.4</td><td>202.6</td><td>66222084.1</td><td>8752385.3</td></tr><tr><td>Expt.</td><td>5.0</td><td>0.25</td><td>0</td><td>55.5</td><td>10.2</td></tr><tr><td>τCp</td><td>5.0</td><td>0.07</td><td>0</td><td>71.9</td><td>9.5</td></tr></table></body></html>
+
+Table 4.Computed Energies (eV) of HOMO,LUMO and HOMO-LUMO Gaps (ε)   
+
+<html><body><table><tr><td></td><td>EHOMO</td><td>ELUMO</td><td></td></tr><tr><td>1</td><td>-10.308</td><td>-7.086</td><td>3.222</td></tr><tr><td>2</td><td>-11.186</td><td>-7.583</td><td>3.603</td></tr><tr><td>3</td><td>-10.278</td><td>-7.184</td><td>3.094</td></tr><tr><td>4</td><td>-8.130</td><td>-7.043</td><td>1.087</td></tr><tr><td>5</td><td>-8.120</td><td>-6.930</td><td>1.190</td></tr></table></body></html>
+
+Table 5.Computed Net Charges (lel) of Two TiO2 in Docking Models in the Ground States and in the Lowest Singlet/triplet States and Gaps (ε) for Complexes $\mathbf { 1 } { \sim } 5$ ,3a and 3b   
+
+<html><body><table><tr><td>Comp.</td><td>3a</td><td>3b</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>Chargea</td><td>-0.3079</td><td>-0.2098</td><td>-0.2601</td><td>-0.1532</td><td>-0.3309</td><td>-0.4061</td><td>-0.1569</td></tr><tr><td>Chargeb</td><td>-0.3296</td><td>-0.2597</td><td>-0.2728</td><td>-0.1769</td><td>-0.4565</td><td>-0.4083</td><td>-0.1856</td></tr><tr><td>Charge</td><td>-0.3356</td><td>-0.2305</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.0217</td><td>0.0499</td><td>0.0127</td><td>0.0237</td><td>0.1256</td><td>0.0022</td><td>0.0287</td></tr><tr><td></td><td>0.0277</td><td>0.0207</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+a express the net charges of two $\mathrm { T i O } _ { 2 }$ in docking models in the ground states;b express the net charges of two $\mathrm { T i O } _ { 2 }$ in docking models in the lowest triplet states; ‘ express the net charges of two $\mathrm { T i O } _ { 2 }$ in docking models in the lowest singlet states;d express the gaps of net charges on two $\mathrm { T i O } _ { 2 }$ in docking models between in the ground states and in the lowest triplet states;express the gaps of net charges on two $\mathrm { T i O } _ { 2 }$ in docking models between in the ground states and in the lowest singlet states
+
+# Theoretical Studies on the Excited-state Properties of $\mathbf { R u ( I I ) }$ Polypyridyl Complexes
+
+ZHANG Jian-Fu(张建夫） MIAO Ti-Fang(苗体方)ZHANG Zhi-Qiang(张智强） LI Shuang(李双） LUO Yao(罗瑶)
+
+The excited-state properties of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes were explored and their excited-state lifetimes and photovoltaic conversion efciencies were predicted.This work has provided methods of predicting the excited-state lifetimes and photovoltaic conversion efficiencies of $\mathrm { { R u ( I I ) } }$ polypyridyl complexes.
+
+![](images/65c7931e34b097da47b7afc9a59cfb653736c5f537feab264e8dc2804b6dd609.jpg)

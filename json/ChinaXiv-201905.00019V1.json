@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "基于生成对抗网络的模糊密钥加密通信研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李西明，吴嘉润，吴少乾，郭玉彬，马莎(华南农业大学 数学与信息学院，广州 510642)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：模糊密钥加密通信是指在通信方密钥具有一定差异的情况下实现安全的加密通信。生成对抗网络是一个通过对抗学习得到生成模型的新框架，通过生成模型和判别模型的博弈可实现生成模型对样本数据分布的准确估测，利用生成对抗网络实现了敌手存在情况下的安全通信。目的是解决模糊密钥加密通信问题，并利用生成对抗网络的方法初步实现了对称密钥下的模糊密钥加密通信方案。首先利用神经网络实现两方模糊密钥加密通信，实现16 bit特密钥对称加密通信中6bit 密钥差异的模糊密钥加密通信。在此基础上考虑敌手存在的模糊密钥加密通信模型，利用GAN 思想对通信双方与敌手进行对抗训练，实现16 bit密钥对称加密通信中4bit密钥差异的模糊密钥通信，实验所得模型中通信双方可正常通信而敌手在可获取密文情况下无法获取明文信息。实验证明了利用神经网络与生成对抗网络解决模糊密钥加密通信问题的可行性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：生成对抗网络；模糊密钥加密；批规格化；全连接神经网络；卷积神经网络中图分类号：TN918 doi: 10.19734/j.issn.1001-3695.2018.10.0888",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on fuzzy key encryption based on GAN ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Li Ximing, Wu Jiarun, Wu Shaoqian, Guo Yubin†,Ma Sha (School ofSouth ChinaAgricultural UniversityCollgeofMathematics&Informatics,Guangzhou 510642,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Fuzzy key encryption communication refers to implement secure encrypted communication when the key of the senderandreceiver are with several bits diference.Generative adversarial networks(GAN）isanew framework for generating neural network models through antagonistic learning in which the adversarial game of generating model and discriminant modelcan estimate the distributionofsampledataaccurately.Encrypted communications in thepresenceof the adversary by means of GANs.This paper studied the problem ofFuzzy KeyEncrypted Communication,and preliminarily realized a fuzzy key encryption communication scheme under symmetric key by GANs.It proposed a two-party fuzzy key encrypted communication schemewith neural network model.And the key difference can be6 bitsfor Symmetric Encryption with16 bits key.Based on these,it gave a fuzzy keyencrypted communicationscheme withadversaries.In this scheme,the2-partyofcommunicationare trainedinadversarial gamewith theiradversary,andasto Symmetric Encryption with l6 bits key,4 bits key diferenceis endurable for thecommunicators while the advisorycan get not more auxiliary information from ciphertext.Experiments show that it is feasible to solve Fuzzy KeyEncryption Communication problem by using Neural Networks and GAN. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: GAN; fuzzy key encryption; normalized; fully-connected neural network; convolutional neural network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "生成对抗网络（generative adversarial networks,GAN）是生成式模型的一种，它包括一个生成器和一个判别器，其核心思想是让生成模型和判别模型对抗学习，两者进行博弈，使得两者在互相对抗过程中不断强化，最后得到能够生成以假乱真数据的生成模型。自Goodfellow等人[1]提出GAN后，由于其一系列良好的特性，被迅速应用到各个领域并取得了非常好的成果，其中应用最广泛的是计算机视觉领域，包括图像生成及分割[2]、图像风格迁移[3]等，另外，在信息检索[4]、文本生成[5等领域中也取得了令人瞩目的成果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016年GoogleBrain团队Abadi等人发布了利用对抗神经网络保护安全通信方面的研究[6]。该加密通信模型由两个互相通信的神经网络Alice与Bob，以及一个窃听者神经网络Eve组成。当Alice与Bob 进行加密通信时，尽量限制Eve从窃听Alice和Bob之间的通信中获得的信息。在训练过程中，Alice与Bob在保证明文加密解密准确无误的情况下尽力提高加密解密复杂度，而Eve则尽量使自己的解密结果与明文相近，提高解密的准确性。通过对抗训练，可得到一个能够保证正常信息通信并抵抗外界窃听的加密通信模型。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "模糊密钥加密通信是指在通信双方的密钥存在一定差异情况下仍要保证正常通信，同时防止敌手窃听和攻击的一种加密通信方案。这种方案在很多加密通信的应用场景中出现。例如在基于生物特征的加密通信中，解密采集的指纹、虹膜等信息与原始采集的信息并不相同，当前的加解密系统需要通过提取器等技术生成唯一密钥后才能正确解密[7\\~I1]。再如，模糊身份加密中，如果加密信息使用的身份信息是高校教师，那么要求使用高校员工、教授等身份也可正确解密消息，同样双方密钥存在一定的差异[12\\~14]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "模糊密钥加密通信在传统的利用算法进行加密解密时实现非常困难。但在Abadi等人将安全通信的双方看做神经网络、并利用GANs进行对抗训练的思想增加了模糊密钥加密通信方案设计与实现的可行性。本文首先利用AbadiM等人的神经网络模型进行模糊密钥加密通信，实验表明他们所给出的神经网络在不考虑敌手的情况下无法直接实现模糊密钥加密通信，但解密者Bob在存在密钥差异的情况下所得到的信息比Abadi等人的实验中完全没有密钥的Eve要多。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，本论文对Alice 和Bob组成的两方模糊密钥加密通信模型进行设计，修改AbadiM等人神经网络模型，通过增加全连接层、修改其激活函数以及数据批正规化等方法实现了在16比特对称密钥情况下6比特密钥差异的安全保密通信。进而使用GAN思想，在敌手存在的情况下，实现了4比特密钥差异的安全保密通信。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 相关工作",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1利用GAN实现安全加密通信",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abadi 等人在其论文Learning to protect communicationswith adversarial neural cryptography[6]中将对称加密模型中的通信双方Alice 和Bob以及敌手Eve 都视为神经网络，并利用GAN实现了敌手存在情况下的加密安全通信。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其工作始于密码学中的经典场景，如图1所示。Alice向Bob发送一条信息。Alice首先利用密钥 $\\operatorname { K } ( \\ker )$ 对信息明文P(plaintext)进行加密，得到密文C(ciphertext)。Bob和Eve都可以接收C,Bob利用密钥K对密文C解密得到消息 $P _ { B o b }$ 。而Eve没有密钥，只能通过神经网络训练对C进行解密得到消息 $P _ { E \\nu e }$ 。由Alice和Bob 组成的加密解密模型与由Eve 组成的敌手模型在不断的对抗训练中进行学习，最终使得 $P _ { B o b } = \\mathrm { P }$ ，而 $P _ { E \\nu e }$ 与 $\\mathrm { ~ \\bf ~ P ~ }$ 存在尽可能大的差异。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f3090474438f4a1a2de6b22ebf5dfc28c6486c2dce5080340dfbde2148c75bc.jpg",
+        "img_caption": [
+            "图1对称加密系统中的Alice、Bob 和 Eve",
+            "Fig.1Alice,Bob,and Eve in a Symmetric Encryption System "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abadi等人实验所使用的Alice、Bob和Eve的神经网络模型相同，输入与输出各自不同，如图2所示。Alice使用此神经网络进行加密操作，其输入是P、K（图2中最左一组输入），输出为C。Bob进行解密操作，其输入为C、K（图2中最右一组输入），输出为 $P _ { B o b }$ ，而Eve 进行解密操作的输入是C（图2中中间一组输入），输出为 $P _ { E \\nu e }$ 。通过对抗训练，Alice的加密能力不断增强，解密方Bob随之增加解密能力，其解密结果 $P _ { B o b } = \\mathrm { P }$ 。而敌手Eve的解密结果 $P _ { E \\nu e }$ 在16位明文情况下与原文存在7-8位的差异，也就是说在16位明文中每位取值为-1和1情况下，其解密结果与随机生成每一位取值相似，无法通过对抗训练获得更多有用的信息。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2模糊密钥加密通信测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用Abadi等人的神经网络（见图2）进行模糊密钥加密通信，检测利用神经网络进行模糊密钥加密通信的可行性。检测首先只考虑Alice和Bob的模糊密钥加密通信，暂时去掉Eve。Alice的输入输出不变。Bob的输入中密文C不变，K改为 $\\mathbf { K } ^ { \\prime }$ ，表示与原密钥K有差异的模糊密钥，其输出仍用 $P _ { B o b }$ 表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/934dfad8a8004de7c869f44143d1a0b00119256f5356c0c1a7b89d8979643abb.jpg",
+        "img_caption": [
+            "图2神经网络Alice、Bob 和Eve 结构"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alice的输入端由明文P和密钥K组成，Bob的输入端由密文C和模糊密钥 $\\mathbf { K } ^ { \\prime }$ 组成，其中且P、K和K'均用长度为N的数组表示，检测时N取16。P和K中每一位随机取值为-1或1。随机选取密钥K中的 $\\mathbf { \\eta } _ { \\mathrm { ~ n ~ } }$ 位进行取反，生成模糊密钥K'，其中 $\\mathfrak { n }$ 代表密钥差异位数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验中Alice 和Bob 均采用AdamOptimizer优化器进行模型优化。进行10轮迭代训练，且在每一轮训练中，神经网络Alice和Bob均迭代训练 $\\mathbf { M } _ { 1 }$ 次，其中 $\\mathbf { M } _ { 1 }$ 取2000，模型的学习速率均设为0.0008。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为了对模糊密钥造成的解密损失进行评估，本文参考文献[6]中给出的损失计算方法给出损失率计算公式：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { B o b } = \\frac { 1 } { 2 \\mathrm { N } } * \\sum _ { i = 1 } ^ { \\mathrm { N } } \\lvert \\mathcal { P } _ { i } - P _ { B o b _ { i } } \\rvert\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 为 $P$ 的长度。因为明文各位取值为1或-1，损失率衡量的是 $P _ { B o b }$ 与 $P$ 不相同的位的个数占总位数的百分比。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文分别测试了密钥差异为1bit和2bit时Bob的解密情况，结果如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e8a54e53d764306f8ac77dce9e7c83f9996428a0cf55acc528f55caef3165a9.jpg",
+        "img_caption": [
+            "Fig.2Neural network structure ofAlice,Bob and Eve ",
+            "图3Bob解密结果",
+            "Fig.3Bob decrypts the result "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "从图3可知，当密钥差异为1，2时实验结果相差无几，Bob的损失率均为0.25左右，即，Bob解密得到的明文 $P _ { B o b }$ 与明文P的差距约为4位。而密钥差异从1增加到2，几乎没有影响Bob解密的损失率。这说明存在密钥差异时Bob无法正确解密，但其损失率较Abadi等人通过对抗训练得到的Eve的损失率却低很多（其实验结果中Eve损失7-8位，损失率约为 $50 \\%$ ）。这说明神经网络可使用差异密钥进行特征识别并影响实验结果。由此可知，对Alice、Bob神经网络模型的改进有可能实现模糊密钥通信。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 两方模糊密钥加密模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上检测，本节对Alice和Bob的神经网络进行改进实现两方模糊密钥加密通信。本节对Alice和Bob的神经网络进行了三方面的改进，分别给出实验结果及分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1新增全连接神经网络 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为增强对密文与模糊密钥的分析强度，本论文首先在Bob的解密模型中新增一层全连接层，如图4所示。为方便描述，本论文称此模型为 $\\mathbf { B o b } _ { 1 }$ 。此时Alice的神经网络模型及加密过程保持不变，仍使用图2所示模型。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ccc854c421d4e596ee568cc7c5188fa6ab0822061c7df454fec04c62d09deb8.jpg",
+        "img_caption": [
+            "图4解密模型Bobi"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用神经网络模型Bobi进行解密训练，分别取密钥差异为1，2，3比特，同样计算损失率，实验结果如图5所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c97a77d5346c409340661254c46cbe1afacf7e9a61bb9b479fda11cf7909e1ac.jpg",
+        "img_caption": [
+            "Fig.4Decryption model $\\mathbf { B o b } _ { 1 }$ ",
+            "图5密钥差异为1至3比特 $\\mathbf { B o b } _ { 1 }$ 损失率",
+            "Fig.5Loss rate of $\\mathbf { B o b } _ { 1 }$ with key difference of 1 to 3 bits "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验表明，在 $\\mathbf { B o b } _ { 1 }$ 模型辨析模糊密钥的能力有一定的提升。密钥差异为1比特或者2比特时，Bob可以完全正确解密密文，但当密钥差异为3比特及以上时，模型损失在0.1附近，即 $P _ { B o b }$ 与16比特的明文P存在1位左右的差距。即密钥差异为3比特时，Bob仍旧无法正确解密明文，但比图2检测结果中的解密损失要低。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2改进激活函数",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对模型进行分析，可知Bobi模型全连接层1的激活函数Sigmoid函数对于模型的权值更新不利。原因在于文献[15]中已指出，Sigmoid 函数的导数在(0.0.25]内，所以在反向传播更新权值的时候，神经网络中的信息量会被减少 $7 5 \\%$ ，经过两层Sigmoid函数后对模型的影响更大。而tanh函数的导数范围为(0.1]，可使通过神经网络的信息得到更充分的利用，故将模型 $\\mathbf { B o b } _ { 1 }$ 中第一层全连接神经网络的激活函数设置为tanh函数，Bob其余结构不变。为方便起见，本论文将 $\\mathbf { B o b } _ { 1 }$ 修改后的模型称为Bob2。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对神经网络模型Bob2进行解密训练，分别取密钥差异为1\\~5bit，同样计算损失率，实验结果如图6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/125fb7cd98a5bb2a49bbdbd148f0062a188a6618395289466676086112d0da8d.jpg",
+        "img_caption": [
+            "图6密钥差异为1至5比特 $\\mathbf { B o b } _ { 2 }$ 的损失率"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图6可以看出，随着训练次数的不断增加，模Bob2可以在密钥差异在4比特以下的情况下正解解密，处理模糊密钥的能力从2比特提升到了4比特。但当密钥差异为5比特时，Bob的损失率达到了0.25左右，即 $P _ { B o b }$ 与 $\\mathrm { ~ \\bf ~ P ~ }$ 的差距为2.5位左右，损失率不高，但Bob2仍无法正确解密。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 批规格化处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "批规格化[16通过标准化让激活函数分布在线性区间，从而加大搜索的步长，加快收敛的速度，同时也不容易陷入局部最优的情况。为了提升神经网络训练的收敛速度又要防止局部最优的情况，本文在Bob2的两个全连接神经层均加入了批规格化的操作，减少由于初始化情况不同造成模型无法找到最低损失点的概率，提高模型的稳定性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本节在Bobi和Bob2中均添加批规格化操作，模型结构均不变。对 $\\mathbf { B o b } _ { 1 }$ 和 $\\mathbf { B o b } _ { 2 }$ 进行解密训练时，分别取密钥差异为3、4、5比特和5、6、7比特，分别计算损失率，实验结果如图7和8所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图7、8可知，Bobi和Bob2在加入批规格化处理后，各自处理模糊密钥的能力都提升了1比特，即 $\\mathbf { B o b } _ { 1 }$ 可解密最高密钥差异为4比特的模糊密钥密文，Bob2可解密最高密钥差异为6比特的模糊密钥密文。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2df976ae6fda99a4b8c0c84cbf4c2e165ecc26ce162edf43e562d03660035d36.jpg",
+        "img_caption": [
+            "Fig.6Loss rate of $\\mathbf { B o b } _ { 2 }$ with key difference of1 to 5bits ",
+            "图7 $\\mathbf { B o b } _ { 1 }$ 增加全连接层批规格化后的损失率 Fig.7Loss rate of Bobi after Full connection layer BN "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c7160de5c367c9f186f189ab07829b8354ee43132ab183487f5b2e9203f6b51.jpg",
+        "img_caption": [
+            "图8Bob2增加全连接层批规格化后的损失率 Fig.8Loss rate of $\\mathbf { B o b } _ { 2 }$ after Full connection layer BN "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 对抗的模糊密钥加密模型",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本章利用生成对抗网络思想训练模糊密钥加密通信模型，即把Eve 模型加入进来，将通信方Alice、Bob 和敌手Eve看做对手进行训练，以期得到正确、安全的加密通信方案。本节所使用神经网络结构如图9所示。为方便描述，将此模型命名为A-B-E。可见Alice仍旧使用图2所示神经网络模型，Bob使用模型Bob2，神经网络Eve的结构与Bob2的结构一致，只是Eve的输入端为密文C，输出端为明文 $P _ { E \\nu e }$ 。其中 Alice、Bob和Eve结构中的全连接层均加入批规格化操作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过训练，Alice也许会产生Eve 和Bob 都无法理解的密文。持续训练Alice和Bob进行通信，使得Alice和Bob组成的两方模糊密钥模型得到不断加强，然后将两方模糊密钥模型与Eve 模型进行对抗训练，而随着不断的训练，使得模型A-B-E在保证两方在高密钥差异的情况下进行正常通信的同时可以抵御敌手Eve。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/553d4fe8b39df8d491fc9535b40d12d6bf4fb13587123160682dc0b7de389caf.jpg",
+        "img_caption": [
+            "图9神经网络Alice、Bob 和Eve 结构g.9Neural network Alice,Bob and Eve structure"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验中随机选取密钥的 $\\mathfrak { n }$ 位（取 $\\scriptstyle 1 = 3 , 4$ )进行密钥模糊，并采用式(1)计算Eve的损失率，即",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { E v e } = \\frac { 1 } { 2  { \\mathbf { N } } }  { \\mathrm { \\mathrm { \\Omega } } } ^ { * } \\sum _ { i = 1 } ^ {  { \\mathbf { N } } } \\bigl | P _ { i }  { \\mathrm { \\Omega } } ^ { 2 } P _ { E v e _ { i } } \\bigr |\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "通过 $L _ { { \\scriptscriptstyle B o b } }$ 和 $L _ { \\mathit { E v e } }$ 来计算Alice与Bob 损失率：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL _ { _ { A B } } = L _ { _ { B o b } } + \\left( 1 - L _ { _ { E v e } } \\right) ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式（3）反映了Alice和Bob希望最小化Bob的损失率，",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "并最大化Eve 的损失率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在训练过程中，同样采用AdamOptimizer优化器进行模型优化。模型A-B-E共进行60轮训练，且在每轮训练中，神经网络Bob和Eve均迭代训练2000次，学习速率均设为0.005。实验结果如图10所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab051128390023c1b919f26a58ff7e7a0db796b2492833e00e68863dcd3504b9.jpg",
+        "img_caption": [
+            "图10Bob和Eve 密钥差异为3、4比特的损失率 Fig.10Loss rate of Bob and Eve with key difference of 3 to 4 bits "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由图10可知，加入Eve后，在保证Alice与Bob能够进行正常通信的条件下，还能够有效地阻挡Eve破解通信内容，Bob处理模糊密钥解密的能力有所下降。随着训练次数的不断增加，在密钥差异为3比特的情况下，Alice 和Bob在可进行安全通信并低于Eve。但当密钥差异达到4比特时，虽然能够抵抗Eve的攻击，但同时Bob也无法正确解密密文。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文利用神经网络、生成对抗网络解决模糊密钥加密通信问题。本论文在16比特对称密钥的加密通信环境下进行实现，实验结果表明在两方加密通信时，通过神经网络模型的改进，可实现6比特密钥差异的模糊密钥加密通信。在敌手存在的情况下，可实现3比特密钥差异的模糊密钥加密通信。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文的实验还比较初步，还没能得出更多位密钥、非对称密钥加密等更复杂、更实用情景下，基于生成对抗网络的模糊密钥加密通信方案。但本文的工作说明了利用生成对抗网络解决模糊密钥加密通信问题的可行性。在实验中增加密钥位数、考虑更复杂、更实用的应用场景，给出实用的模糊密钥加密方案是下一步的工作。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1]GoodfellowIJ,Pouget-Abadie J,MirzaM,et al.Generative adversarial networks[EB/OL].(2014-06-10)[2018-08-26].https://arxiv. org/abs/1406.2661   \n[2]Shelhamer E,Long J,Darrell T.Fully convolutional networks for semantic segmentation [J].IEEE Trans on Pattern Analysis and Machine Intelligence,2017,39(4): 640 -651.   \n[3]Gatys L A,Ecker A S,Bethge M.Image style transfer using convolutional neural networks [C]//Proc of IEEE Conference on Computer Vision and Pattern Recognition.Piscataway,NJ:IEEE Press, 2016:2414-2423.   \n[4]Sunny S K,Angadi M.Potential roles and applications of thesauri in digital information retrieval systems [C]//Proc of the 5th International Symposium on Emerging Trends and Technologies in Libraries and Information Services.Piscataway,NJ:IEEE Press,2018:22-25.   \n[5]Hu Zhiting,Yang Zichao,Liang Xiaodan,et al. Toward controlled generation of text [C]// Proc of the 34th International Conference on Machine Learning. Sydney:PMLR Press,2017:1587-1596.   \n[6] Abadi M,Andersen D G.Learning to protect communications with adversarial neural cryptography [EB/OL].(2016-10-24) [2018-08-26]. https://arxiv.org/abs/1610.06918.   \n[7]李西明，杨波．构造高性能的指纹密钥提取器[J].计算机科学, 2011,38(3):107-11.(Li Ximing, Yang Bo.Construct a high performance fingerprint key extractor[J].Computer Science,2011,38 (3):107-11.)   \n[8]蒋广涵．基于指纹的生物特征加密技术研究[D]．西安：西安电子 科技大学,2017.(Jiang Guanghan.Research on biometric encryption technology based on fingerprint [D].Xian:.Xidian University,2017.)   \n[9]Guo Fuchun,Susilo W,Mu Yi.Distance-based encryption:how to embed fuzziness in biometric-based encryption [J].IEEE Trans on Information Forensics and Security,2016,11(2):247-257.   \n[10]葛杨铭．基于生物特征密钥的无线传感器网络用户认证和访问控制 协议的研究[D].南昌:南昌航空大学,2018.(Ge Yangming.Research on user authentication and access control protocol for wireless sensor networks based on biometric keys [D]. Nanchang: Nanchang Hangkong University,2018)   \n[11] Mehta G,Dutta MK,KimP S.Biometric data encryption using 3D chaotic system [C]//Proc of the 2nd International Conference on Communication Control and Intelligent Systems.Piscataway,NJ:IEEE Press,2016:72-75.   \n[12]李西明，杨波，郭玉彬，等．一种新的基于指纹的密钥隐藏方案[J]. 计算机研究与发展,2013,50(3):532-539.(Li Ximing,Yang Bo,Guo Yubin,et al.A new key hiding scheme based on fingerprint [J].Journal of Computer Research and Development,2013,50(3): 532-539.)   \n[13]吴立强，杨晓元，韩益亮．基于理想格的高效模糊身份加密方案[J]. 计算机学报,2015,38(4):775-782.(Wu Liqaing,Yang Xiaoyun,Han Yiliang.An efficient fuzzy identity encryption scheme based on ideal lattice [J].Chinese Journal of Computers,2015,38(4): 775-782.)   \n[14] Gianluca Fimiani. Supporting privacy in a cloud-based health information system by means of fuzzy conditional identity-based proxy re-encryption(FCI-PRE) [C]//Procofthe32ndInternational ConferenceonAdvancedInformationNetworking and Applications.Piscataway,NJ:IEEE Press,2018:569-572.   \n[15] Xu Bing,Huang Ruitong,et al.Revise saturated activation functions [EB/OL].(2016-05-02)[2018-08-26].https://arxiv.org/abs/1602.05980   \n[16] Ioffe S,Szegedy C.Batch normalization:accelerating deep network training by reducing internal covariate shift.[EB/OL].(2015-03-02) [2018-08-26].https://arxiv. org/abs/1502.03167 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    }
+]

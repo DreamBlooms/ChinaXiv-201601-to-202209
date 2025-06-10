@@ -1,0 +1,451 @@
+[
+    {
+        "type": "text",
+        "text": "天山雪岭云杉森林菌根真菌多样性及其影响因子",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "杜海燕'，常顺利'，宋成程¹，张毓涛²（1．新疆大学资源与环境科学学院绿洲生态教育部重点实验室,新疆 乌鲁木齐830046;2．新疆林业科学院森林生态研究所,新疆 乌鲁木齐830063)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：雪岭云杉（Picea schrenkiana)是天山森林的建群种,在中国北方针叶林中占有重要地位。本研究按海拔梯度在天山北坡采集菌根样品及表层土壤样品,采用分子生物学技术对菌根真菌进行鉴定;同时测定土壤有机碳、全N、有效P和全K等含量,通过构建系统发育树、典型对应分析(CCA)等方法,探讨了雪岭云杉森林菌根真菌多样性及其影响因子。结果表明： $\\textcircled{1}$ 雪岭云杉森林中菌根真菌共21种，隶属于2门6纲10目12科14属。 $\\textcircled{2}$ 担子菌门真菌在各海拔的雪岭云杉林中均有分布,而子囊菌门真菌主要分布在低海拔的雪岭云杉林中。随着海拔升高，菌根侵染率与香农－威纳指数先升后降，分别处于 $1 3 \\% \\sim 3 6 \\%$ 和 $1 . 1 4 \\sim 2 . 0 3$ 之间,辛普森指数在 $0 . 4 9 \\sim 0 . 6 3$ 之间则表现为逐渐下降的趋势;均匀度指数在 $0 . 4 7 \\sim 0 . 6 3$ ,随海拔先降后升。 $\\textcircled{3}$ 雪岭云杉森林菌根真菌分布、侵染率和多样性指数主要受海拔和土壤有机碳含量的影响，土壤全N含量仅显著影响了香农－威纳指数和均匀度指数。本研究可为雪岭云杉森林菌根真菌资源的认识和利用提供依据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：菌根真菌；侵染率；物种多样性；雪岭云杉；天山",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "雪岭云杉是天山森林群落的单优树种，主要分布在天山北坡海拔 $1 ~ 5 0 0 \\sim 2 ~ 7 0 0 ~ \\mathrm { ~ m ~ }$ 的中山带,面积约 $5 . \\ 2 8 \\ \\times \\ 1 0 ^ { 5 } \\ \\mathrm { h m } ^ { 2 }$ ，占新疆天然林林地面积的$4 4 . 9 \\%$ ,是构成新疆森林的主体。对天山的水源涵养、水土保持、净化空气、生物多样性保育等方面，起着重要的生态主导作用。但雪岭云杉森林存在着幼苗存活困难、易感染病虫害和不能自然更新等现象[2-3] ○",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "菌根真菌(mycorrhizalfungi)是生态系统中重要  \n的组成成分，影响着宿主植物的生长、发育与竞争。  \n随着菌根学研究的不断深入，发现菌根真菌具有协  \n同根毛吸收土壤中养分和水分的作用[4-6],可改善  \n根际环境，增强植物抗旱、耐盐、抗重金属等能  \n力[7-8],提高宿主对病害、虫害等生物逆境的耐受  \n性[9-10]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，关于菌根真菌多样性及其环境影响因子的研究，已成为菌根生态学和生物多样性研究的主要方面。降水[11]、海拔[12]、土壤肥力[13-15]、土壤生物、土地利用方式都是影响菌根真菌与其宿主分布的重要因素。Zhang 等[16]发现,在 $5 0 \\sim 4 0 0 ~ \\mathrm { m m }$ 的降水环境下，西藏高山草原生态系统中的紫花针茅（Stipa purpurea)倾向于细根发育,而不是与菌根真菌建立共生关系;Koorem 等[17]发现,丛枝菌根真菌在构建植物群落中的作用取决于土壤肥力；Li等[18]发现,蚯蚓和丛枝菌根真菌可为植物创造不同的营养生态位，蚯蚓会加强植株对氮元素的利用率，而丛枝菌根真菌可以促进植株对磷素的使用；而Reyes 等[19]的研究表明,退耕还林时期,树木的生长几乎不受丛枝菌根真菌的影响;Birhane 等[20]认为，虽然季节变化会影响菌根真菌的分布，但是干扰与土壤全氮是控制森林建成的关键因素。海拔梯度变化是影响新疆地区云杉森林的地理特征与分布的重要因素，但与其相关的菌根真菌的研究却鲜有报道。本文以海拔梯度为切入点，探究天山云杉森林菌根真菌的多样性，对更加深刻地认识雪岭云杉森林群落的健康有所助益。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文主要研究目的为： $\\textcircled{1}$ 鉴定分析雪岭云杉森林菌根真菌多样性类群； $\\textcircled{2}$ 探究天山云杉森林菌根真菌多样性的影响因子，以期加深对天山云杉森林微生物群落的了解，并为雪岭云杉菌种筛选和菌根",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "化育苗工作提供借鉴。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "野外样品采集工作在中国森林生态系统研究网络（CFERN，China Forest Ecology Research Net）天山森林生态系统定位研究站 $( 8 7 ^ { \\circ } 0 7 ^ { \\prime } \\sim 8 7 ^ { \\circ } 2 8 ^ { \\prime } \\mathrm { E }$ ，$4 3 ^ { \\circ } 1 4 ^ { \\prime } \\sim 4 3 ^ { \\circ } 2 6 ^ { \\prime } \\mathrm { N } )$ 进行。采样区年均气温为2～3$\\mathcal { C }$ ,历年极端最高气温为 $3 0 . 5 ~ \\mathrm { ^ { \\circ } C }$ ,极端最低气温为$- 3 0 . 2 \\mathrm { ~ \\textdegree C }$ ,年降水量 $4 0 0 \\sim 6 0 0 ~ \\mathrm { { m m } }$ ,年总辐射量达$5 . 8 5 \\times 1 0 ^ { 5 } \\mathrm { ~ J } \\cdot \\mathrm { c m } ^ { - 2 } \\cdot \\mathrm { ~ a ~ } ^ { - 1 }$ ,最大积雪深度 $6 5 \\ \\mathrm { c m }$ 。天山森林是一条在海拔 $1 \\ 8 0 0 \\ \\sim \\ 2 \\ 8 0 0 \\ \\mathrm { ~ m ~ }$ 之间的中山－亚高山森林带,以雪岭云杉为优势种的群落，土壤类型为典型山地灰褐色森林土。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采样于2014年8月进行，在天山云杉森林下线(海拔 $1 7 6 0 \\mathrm { ~ m ~ }$ )至上线（海拔 $2 8 0 0 \\mathrm { ~ m }$ )范围内采集云杉根系样品。每 $2 0 0 \\mathrm { ~ m ~ }$ 海拔落差为一个梯度，每个梯度内设置3个采样点（各采样点间水平距离大于 $1 0 0 \\mathrm { ~ m ~ }$ )。在各采样点，布设 $2 0 \\mathrm { ~ m ~ } { \\times } 2 0 \\mathrm { ~ m ~ }$ 样方,进行每木检尺，并选取接近平均胸径的3株雪岭云杉作为采样株。为保证所采的根样来自所选的云杉植株，遂在样株(正下方)下挖掘至 $3 0 \\ \\mathrm { c m }$ ,其后从暴露出的大量须根中进行采样。每株采集3\\~4个15cm 长的根段，进行编号后冷藏保存。此外，在每个样方内各采集表层 ${ \\mathrm { ( 0 \\sim 2 0 ~ c m ) } }$ 土壤，标号后带回实验室，经阴干、研磨、过筛后备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2真菌物种鉴定及其比对方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对天山雪岭云杉根段样品进行粉碎研磨后，选择 Solarbio真菌基因组DNA试剂盒进行根系真菌DNA的提取与鉴定。其中，根系真菌ITs序列引物为ITS1F( $5 ^ { \\prime }$ - CTTGGTCATTTAGAGGAAGTAA $- 3 ^ { \\prime }$ ）和ITS4（ $5 ^ { \\prime }$ -TCCTCCGCTTATTGATATGC-3'），对扩增产物胶回收后，连接到T载体上并导入大肠杆菌感受态细胞中。在含氨苄青霉素的LB培养基上，通过大肠杆菌感受态细胞对含有目的基因的阳性克隆进行筛选。之后，根据Hinf、RsaI及HhaI酶的酶切产物片段的大小,判断克隆样品中是否存在不同种真菌的基因，从而选取合适的克隆样品送出测序，最后，在NCBI数据库中比对、鉴定测序结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "运用GenBank的序列局部相似性查询系统（BLAST），对样品测序结果进行比对：若DNA相似度 ${ \\geqslant } 9 7 \\%$ ,则样品可以被鉴定至种; ${ \\geqslant } 9 0 \\%$ 可鉴定至属； $< 9 0 \\%$ 记为未知种[21]。根据真菌菌种在样品中被检测到的比例，认为在 $\\geqslant 6 0 \\%$ 样品中出现的菌种为“优势种”；在 $\\geqslant 3 0 \\%$ 样本中出现的菌种为“常见种”[22]  \nO",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3菌根真菌多样性分析及其浸染率测定",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本试验中雪岭云杉森林菌根真菌的物种多样性采用Simpson指数 $( D )$ 、Shannon-Winener指数 $( H )$ 和Pielou均匀度指数 $( J )$ ，公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = 1 - \\sum _ { i = 1 } ^ { s } { P _ { i } } ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\sum _ { i = 1 } ^ { s } ( P _ { i } \\mathrm { l n } P _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ = H / \\mathrm { l n } S\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { P } _ { i }$ 是种 $i$ 所占的比列； $s$ 为每个样地内全部菌根种类数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "将样品从冰箱里取出放入干净的筛中，用蒸馏水将根表面附着的土壤颗粒等杂物小心的清洗干净。将洗净的根样剪成约 $2 \\ \\mathrm { c m }$ 的根段，再将其放在体视显微镜下，用灭菌后的镊子、毛刷进行更细致清洗。清洗的同时，用计数器记录所观察到的根尖总数和被菌根真菌侵染的根尖数量，得到其菌根真菌侵染率;公式如下[23]：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "菌根真菌侵染率=存在真菌着丝点的根尖数， $\\times 1 0 0 \\%$ 总根尖数",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4 土壤样品的测试 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤有机碳采用重铬酸钾氧化－外加热法测定；土壤全N采用扩散法;土壤有效P采用 ${ \\mathrm { N a H C O } } _ { 3 }$ 钼锑抗比色法;土壤全K采用NaOH碱熔-火焰光度计测定法[24]。测定结果如表1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1不同采样点土壤C、N、P、K含量",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2468765fcffd34ff4716df6de0ed1607b9ef32bef9b4f3fe33be7c76e733561.jpg",
+        "table_caption": [
+            "Tab.1 The contents of C，N,Pand K at different sampling sites "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"3\">海拔/m</td><td>有机碳</td><td>全N</td><td>有效磷</td><td>全K</td></tr><tr><td colspan=\"4\">/（g·kg-1)</td></tr><tr><td>1800~2 000</td><td>116.19</td><td>2.52</td><td>0.93</td><td>2.17</td></tr><tr><td>2 000~2 200</td><td>114.20</td><td>1.76</td><td>1.04</td><td>2.03</td></tr><tr><td>2 200~2 400</td><td>169.56</td><td>2.61</td><td>1.16</td><td>2.35</td></tr><tr><td>2 400~2 600</td><td>161.22</td><td>2.47</td><td>0.90</td><td>1.93</td></tr><tr><td>2 600~2 800</td><td>114.11</td><td>2.06</td><td>1. 11</td><td>2.11</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5 数据统计分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "使用DNAMAN进行样品DNA序列前处理；系统发育树的制作使用MEGA7.0;真菌基因多样性分析由DNAsp 完成;使用Excel2013对土壤样品中$\\mathrm { ~ C ~ } , \\mathrm { { N } , \\mathrm { { P } , K } }$ 含量进行均值化处理;使用Canoco4.5中的典范对应分析（canonical correspondence analy-sis），探讨在海拔梯度上土壤养分含量对菌根真菌分布的影响;使用SPSS17.0中的相关性分析探讨海拔和土壤营养元素对菌根真菌侵染率的影响。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1天山雪岭云杉森林菌根真菌的组成",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于rDNAITS构建的NJ系统发育树（图1），进化树上有较为明显的2个进化分枝，子囊菌门（As-comycota）和担子菌门（Basidiomycota），支持率分别是 $9 9 \\%$ 和 $100 \\%$ 0",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分子鉴定结果显示，雪岭云杉森林的菌根种类共21种(表2）。其中外生菌根有5种，分属于盘菌纲（Pezizomycetes）和伞菌纲（Agaricomycetes）；能够直接鉴定到种水平的有2个，分别是（Choiromyceshelanshanensis）（KPO19344）和（Sebacina incrustans)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（JX630915）。内生菌根真菌有10种，分属于锤舌菌纲（Leotiomycetes）粪壳菌纲（Sordariomycetes）散囊菌纲（Eurotiomycetes）、银耳纲（Tremellomycetes）、伞菌纲（Agaricomycetes），能够直接鉴定到种水平的有5个，分别为Phialocephalalagerbergii（AB190400）、Pseudogymnoascus pannorum （DQ189228）、Eucasphaeria capensis（EU272516）、Stachybotryslongispora（AF081482）Exophiala heteromorpha（AB190397）。其中,子囊菌门（Ascomycota）的Phialocephala sp.和担子菌门（Basidiomycota）的Gautieria sp.为优势种,分别在9个样地和14个样地样品中被检测到,Choi-romyceshelanshanensis为常见种，其余均为少见种。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2雪岭云杉森林菌根真菌多样性沿海拔的分布特点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按海拔梯度对鉴定出的雪岭云杉森林菌根真菌按门进行排列。随海拔升高，真菌种类逐渐上升（图2),其中担子菌门真菌在采样海拔范围内均有分布;子囊菌门真菌主要分布于海拔 $2 \\ 4 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m }$ ;在海拔 $1 ~ 8 0 0 \\sim 2 ~ 0 0 0 ~ \\mathrm { m }$ 内仅分布有粪壳菌纲（Sordariomy-cetes)的一种未知真菌；在较低海拔( $1 ~ 8 0 0 \\sim 2 ~ 2 0 0$ m)内，天山云杉森林中的菌根真菌绝大多数为子囊菌门的物种；在高海拔（ $\\left( 2 \\ 2 0 0 \\sim 2 \\ 8 0 0 \\ \\mathrm { m } \\right)$ 内主要由担",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/75534e89fcdfc619110edb496877a2967b203aa57d8d21430d4ebfaa43cb0685.jpg",
+        "img_caption": [
+            "注：分支上的数字表示Bootstrap 验证中重复1000 次该节点的可信度（仅显示 $5 0 \\%$ 以上的数据)，分支长度表示演化距离。",
+            "图1邻接法(NJ)构建的系统发育树",
+            "Fig.1Phylogenetic tree constructed with the program Neighbor-Joining（NJ) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb2e4070e61b793ab7345f1c204bc0c0d9ed23b96d5356c796647ce2f231adc5.jpg",
+        "table_caption": [
+            "表2雪岭云杉森林菌根真菌鉴定结果",
+            "Tab.2Identified results of mycorrhizal fungi of Picea schrenkiana forest "
+        ],
+        "table_footnote": [
+            "注：√为外生菌根,其余为内生菌根。"
+        ],
+        "table_body": "<html><body><table><tr><td>编号</td><td>门</td><td>纲</td><td>目</td><td>科</td><td>属</td><td>种</td><td>相似度/%</td><td>登录号</td></tr><tr><td>1</td><td>Ascomycota 子囊菌门</td><td>Unkonwn 1</td><td></td><td></td><td></td><td></td><td></td><td>MF142367</td></tr><tr><td>2</td><td></td><td>Pezizomycetes</td><td>Pezizales</td><td>Pezizaceae 盘菌科</td><td>Trichophaea 长毛盘菌属√</td><td></td><td>95</td><td>KM215630</td></tr><tr><td>3</td><td></td><td>盘菌纲</td><td>盘菌目</td><td>Tuberaceae 块菌科</td><td>Choiromyces 块菌属</td><td>Choiromyces helanshanensis</td><td>99</td><td>KP019344</td></tr><tr><td>4</td><td></td><td></td><td></td><td></td><td></td><td></td><td>99</td><td>AB752265</td></tr><tr><td>5</td><td></td><td></td><td></td><td>Incertae Sedis 未分类</td><td>Phialocephala sp.</td><td>Phialocephala lagerbergii</td><td>98</td><td>AB190400</td></tr><tr><td>6</td><td></td><td>Leotiomycetes 锤舌菌纲</td><td>Helotiales 柔膜菌目</td><td></td><td>Cadophora 背芽突霉属</td><td></td><td></td><td>HM116752</td></tr><tr><td>7</td><td></td><td></td><td></td><td>Pseudeurotiaceae 假裸囉菌科</td><td>Pseudogymnoascus 假裸囊菌属</td><td>Pseudogymnoascus pannorum</td><td>97</td><td>DQ189228</td></tr><tr><td>8</td><td></td><td></td><td>Unkonwn 3</td><td></td><td></td><td></td><td>99</td><td>MF142411</td></tr><tr><td>9</td><td></td><td></td><td></td><td>Unkonwn 4</td><td></td><td></td><td></td><td>MF142415</td></tr><tr><td>10</td><td></td><td>Sordariomycetes</td><td>Hypocreales</td><td>Nectriaceae 丛赤壳科</td><td>Neonectria</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>粪壳菌纲</td><td>肉座菌目</td><td>Incertae Sedis</td><td>丛赤壳属 Eucasphaeria</td><td>Eucasphaeria capensis</td><td>95</td><td>KU588183</td></tr><tr><td>11</td><td></td><td></td><td></td><td>未分类</td><td></td><td></td><td>93</td><td>EU272516</td></tr><tr><td>12</td><td></td><td></td><td></td><td>Stachybotryaceae 葡萄穗霉科</td><td>Stachybotrys 葡萄穗霉属</td><td>Stachybotrys longispora 长孢葡萄穗霉</td><td>96</td><td>AF081482</td></tr><tr><td>13</td><td></td><td>Eurotiomycetes</td><td>Eurotiales 散囊菌目</td><td>Aspergillaceae 曲霉科</td><td></td><td></td><td></td><td>MF142399</td></tr><tr><td>14</td><td></td><td>散囊菌纲</td><td>Chaetothyriales 刺盾炱目</td><td>Herpotrichiellaceae 小蔓毛壳科</td><td>Unkonwn 5 Exophiala</td><td>Exophialaheteromorpha</td><td>99</td><td>AB190397</td></tr><tr><td>15</td><td>Basidiomycota</td><td></td><td>Filobasidiales</td><td>Filobasidiaceae</td><td>外瓶霉属 Cryptococcus sp.</td><td></td><td></td><td>KJ735021</td></tr><tr><td>16</td><td>担子菌门</td><td>Tremellomycetes 银耳纲</td><td>线黑粉菌目 Unkonwn 6</td><td>线黑粉菌科</td><td>隐球菌属</td><td></td><td>99</td><td></td></tr><tr><td>17</td><td></td><td></td><td>Gomphales</td><td>Gautieriaceae</td><td>Gautieria sp.</td><td></td><td>99</td><td>MF142371 JX860192</td></tr><tr><td>18</td><td></td><td></td><td>钉菇目 Corticiales</td><td>高腹菌科 Corticiaceae</td><td>高腹菌属 Phlebiella sp. √</td><td></td><td>99</td><td>KP783450</td></tr><tr><td>19</td><td></td><td>Agaricomycetes 伞菌纲</td><td>伏革菌目 Sebacinales</td><td>伏革菌科 Sebacinaceae</td><td>Sebacina</td><td>Sebacina incrustans </td><td>97</td><td>JX630915</td></tr><tr><td></td><td></td><td></td><td>蜡壳耳目</td><td>蜡壳耳科</td><td>蜡壳菌属</td><td>蜡壳菌</td><td></td><td></td></tr><tr><td>20 21</td><td></td><td></td><td>Unkonwn 2 Thelephorales 革菌目</td><td>Thelephoraceae 革菌科</td><td>Tomentella sp.</td><td></td><td>94</td><td>MF142372 AJ534916</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8b4278cc04624f8cd65070715fa19c1e335a1c3c8b062f271f42664e1f60d15.jpg",
+        "img_caption": [
+            "图2菌根真菌菌种门的海拔分布示意图 Fig.2Schematic diagram of the altitude distribution of mycorrhizal fungus phylum "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "子菌门的真菌组成。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对不同海拔梯度上雪岭云杉森林菌根真菌的侵染率和多样性指数分别进行计算发现，随海拔升高，菌根真菌的侵染率在海拔 $2 \\ 0 0 0 \\sim 2 \\ 2 0 0 \\ \\mathrm { ~ m ~ }$ 达到最大值 $( 3 6 . 1 5 \\%$ ）,之后显著下降( $\\ P < 0 . 0 5 )$ ；香农-威纳指数与侵染率表现出相同的变化趋势，其变化范围为$1 . 1 4 \\sim 2 . 0 3$ ；辛普森指数在 $\\left. 0 . 4 8 9 5 \\sim 0 . 6 3 1 3 \\right.$ ，并表现为随海拔升高逐渐下降；而均匀度指数在 $0 . 4 7 \\sim$ 0.63，并随海拔则先降后升。多样性指数在各海拔梯度间均无显著变化( $\\cdot P { > } 0 . 0 5 )$ （表3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3土壤养分对雪岭云杉森林菌根真菌多样性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文选择典范对应分析法（CCA)来探讨各采样",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表3不同海拔梯度菌根真菌侵染率和多样性指数",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/17ed7176796e81955bacdf1ef2b3221ec0638bbaaf44ca8e9a8cfc217fb6abf3.jpg",
+        "table_caption": [
+            "Tab.3Infection rate and diversity index of mycorrhizal fungi at different altitude gradients "
+        ],
+        "table_footnote": [
+            "注：\\*\\*代表极显著性差异( $P < 0 . 0 1$ ）， $*$ 代表差异显著( $P < 0 . 0 5$ ）。下同。"
+        ],
+        "table_body": "<html><body><table><tr><td>海拔/m</td><td>平均侵 染率/%</td><td>辛普森 指数(D)</td><td>香农-威纳 指数(H)</td><td>均匀度 指数(J)</td></tr><tr><td>1760~1980</td><td>32.58 *</td><td>0.631 3</td><td>1.831 7</td><td>0.6103</td></tr><tr><td>1 980~2 200</td><td>36.15 *</td><td>0.623 4</td><td>2.036 2</td><td>0.634 5</td></tr><tr><td>2 200~2400</td><td>17.68</td><td>0.5211</td><td>1.103 2</td><td>0.4710</td></tr><tr><td>2400~2600</td><td>12.53</td><td>0.501 6</td><td>1.143 3</td><td>0.5211</td></tr><tr><td>2 600~2 800</td><td>13.01</td><td>0.489 5</td><td>1.431 6</td><td>0.601 2</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：线段间夹角大小表示相关性的强弱， $\\angle 9 0 ^ { \\circ }$ 为正相关，${ > } 9 0 { ^ \\circ }$ 为负相关， $= 9 0 ^ { \\circ }$ 表示无相关性。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb1321547639843ff5a15832ae5565a8d9ae87c85f9dd0be00ddce46117181e0.jpg",
+        "img_caption": [
+            "图3海拔梯度(A)上土壤营养元素(C、N、P、K)与雪岭云杉森林菌根真菌(属)的典型对应分析",
+            "Fig.3Correlation between the soil nutrient content（C,N,P and K）and the mycorrhizal fungi phylum of Picea schrenkiana forest "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "点物种组成与海拔、土壤营养元素之间的关系。CCA分析结果显示：前2个排序的累积解释量达 $8 8 . 8 \\%$ ，并能解释 $9 4 . 6 \\%$ 的物种-环境间的相关性，因此前2个排序轴能较好地反映各海拔梯度的菌根真菌的物种组成。由前2个排序做出的物种分布与环境因子的二维排序图显示，第一轴与海拔具有较强的正相关关系，而第二轴与土壤有机碳含量有较强的负相关关系（图3)。当海拔较高时，土壤有机碳、全K含量较低,而全N、有效P含量较高，菌根真菌群落主要由担子菌门(Basidiomycota)的Phlebiella属、Gautieria属与子囊菌门（Ascomycota）的 Sordariomtceteunknow 属物种构成;随着海拔降低，土壤中营养元素含量均处于中等水平，此时菌根真菌群落包含担子菌门的Sebaci-na属物种。在低海拔处，土壤有机碳、全K含量较高，菌根真菌群落则主要由子囊菌门（Ascomycota）的Tomentella、Trichophaea等属构成。由自动向前选择成对各因子对排序贡献率进行 $\\mathbf { \\chi } _ { t }$ 检验后发现，海拔和土壤C含量对排序的影响程度较大，分别达到极显著（ $\\cdot P < 0 . 0 1 )$ 和显著( $\\textstyle P < 0 . 0 5 )$ 水平。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "以相关性分析来探讨海拔梯度上雪岭云杉森林菌根真菌群落特征与营养元素含量的关系，结果如表4所示。侵染率和海拔呈极显著负相关( $\\cdot P < 0 . 0 1 )$ ，而与有机碳呈显著正相关( $\\textstyle P < 0 . 0 5 )$ 。辛普森指数仅与海拔呈极显著负相关关系( $\\cdot P < 0 . 0 1 \\rangle$ ；香农－威纳指数与海拔和全氮分别呈极显著负相关( $P <$ 0.01)和显著负相关关系( $\\cdot P < 0 . 0 5 )$ ,而与有机碳呈显著正相关关系( $\\textstyle P < 0 . 0 5 ,$ );均匀度指数与土壤全N呈显著负相关( $\\textstyle P < 0 . 0 5 )$ ,与土壤有机碳显著正相关1 $\\cdot P < 0 . 0 5 ,$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1关于菌根真菌的分子鉴定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "天山北坡树种单一，菌根真菌种类较少，鉴定的外生菌根真菌种类与前人在贺兰山、长白山、大兴安岭等针叶林中的研究结果一致[25-26]。研究表明, $T _ { O }$ mentellasp.可促进群落稳定性，在温带森林中较为常见[27-28];而优势种 Phialocephala sp.可促进营养元素吸收[29],提高雪岭云杉抗逆性(30],可推测Phialo-cephalasp.与雪岭云杉为典型互利共生的关系;Neo-nectria对DPPH、羟自由基、超氧阴离子自由基、$\\mathrm { N O } _ { 2 } ^ { - }$ 具有较强的清除能力和螯合 $\\mathrm { F e } ^ { 2 + }$ 的能力[31],这也在一定程度上提高了雪岭云杉抵御冬季寒冷的逆境。研究表明，此类菌种可为天山雪岭云杉森林的菌根化育苗提供帮助。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3f9dbbf614a59238310d441662893d7ea1816a84dc26f7d29862f6daf1a4c006.jpg",
+        "table_caption": [
+            "表4雪岭云杉森林菌根真菌群落特征与海拔和土壤中营养元素含量的相关性分析( $\\pmb { n = 1 5 }$ 二",
+            "Tab.4Corelations among the mycorrhizal fungus communityand the elevation and soil nutrient content under Picea schrenkiana forest ${ \\bf \\langle } n = 1 5$ ） "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>海拔/m</td><td>有机碳/（g·kg-1）</td><td>全N/(g·kg-1)</td><td>全P/(g·kg-1)</td><td>全K/(g·kg-1)</td></tr><tr><td>平均侵染率/%</td><td>-0.891 **</td><td>0.602 *</td><td>-0.368</td><td>-0.198</td><td>0.020</td></tr><tr><td>辛普森指数(D)</td><td>-0.941 **</td><td>0.270</td><td>-0.236</td><td>-0.260</td><td>0.073</td></tr><tr><td>香农-威纳指数(H)</td><td>-0.647 **</td><td>0.677 *</td><td>-0.638 *</td><td>-0.197</td><td>-0.196</td></tr><tr><td>均匀度指数(J)</td><td>-0.343</td><td>0.581 *</td><td>-0.722 *</td><td>-0.286</td><td>-0.330</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对于未能在NCBI数据库中比对至种水平的菌根真菌，可以通过系统发育树来判断其分类学地位[32）。例如 Unkonwn 6与 Sebacina incrustans 在分类学上较为接近，因此推测Unkonwn6为伞菌纲Agaricomycetes蜡壳耳目Sebacinales属的物种。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2雪岭云杉森林菌根真菌多样性及其影响因子",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "雪岭云杉森林菌根真菌的分布主要受海拔高度和土壤有机碳含量的影响。研究表明不同的海拔梯度，通过降水量、温度、光照等条件影响菌根真菌的群落组成及分布[33]。研究区内,随海拔的逐渐升高，降水量呈大幅增加，到最高点后呈缓慢下降趋势，温度与光照随海拔升高逐渐降低，而各类菌根真菌群落对降水、温度和光照的喜好程度以及资源觅食策略不尽相同，故其群落组成及分布存在差异。土壤有机碳是菌根真菌的直接碳源[34],直接影响雪岭云杉菌根真菌群落分布,这与蔡晓布等[15]于藏东南色拉山所做结果一致。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究中，从天山云杉森林上线至下线，菌根侵染率介于 $8 . 3 6 \\% \\sim 3 6 . 1 5 \\%$ ,较其他干旱区研究的结果( $2 0 \\% \\sim 9 0 \\%$ )明显偏低。一般认为，由于干旱环境中的水分和营养物质有限,微生物与植物寄主物种之间的联系往往趋于紧密[35-37];但是天山山脉水热条件较干旱区的其他区域优越，不存在干旱区与半干旱区面临的环境胁迫条件，因此，菌根真菌在天山雪岭云杉森林中的入侵程度较低。雪岭云杉森林菌根真菌的Simpson指数平均为0.55，Shannon-Winener指数为1.62，Pielou均匀度指数为0.57，与大兴安岭的菌根侵染率相差不明显[38]；由此推测,虽然侵染率偏低，但是雪岭云杉森林菌根真菌群落发育良好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究发现,在海拔 $2 \\ 0 0 0 \\sim 2 \\ 2 0 0 \\ \\mathrm { ~ m ~ }$ ，菌根真菌的侵染率、多样性指数和菌根真菌种类均达到较高水平。由此判断，该区间为雪岭云杉森林菌根真菌群落的最适生长范围。该结论与部分学者通过对雪岭云杉植物功能性状的研究所得出海拔 $2 ~ 1 0 0 \\mathrm { ~ m ~ }$ 左右为雪岭云杉最适宜生长范围[39 的结论相符。这可能是因为菌根真菌可活化土壤中P、K等元素，并通过菌丝网络提高植株对营养元素的吸收。同时雪岭云杉为菌根真菌提供了碳源、蛋白质等营养物质，促进了菌根真菌的生长(40]。但是菌根在不同林龄、不同年份及不同季节间的分布均有所差异[41]。所以，对菌根真菌的鉴定需要进行长期观察及研究。菌根真菌的鉴定及其对雪岭云杉生长、繁殖、养分吸收、抗重金属能力的研究是探讨雪岭云杉森林群落动态特征的关键，对维护天山雪岭云杉森林的健康具有重要意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "雪岭云杉森林菌根真菌共21种，隶属于2门6纲10目12科14属。其中Gautieriasp.为优势种，Choiromyceshelanshanensis为常见种，其余均为少见种。海拔 $2 0 0 0 \\sim 2 2 0 0 \\mathrm { ~ m }$ 为雪岭云杉森林最适生长范围,在该范围内天山雪岭云杉森林菌根真菌的侵染率、多样性指数和菌根真菌种类均达到较高水平。本研究中，海拔和土壤有机碳含量显著影响雪岭云杉森林菌根真菌的分布。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References）:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]周月明，常顺利,张毓涛，等.天山雪岭云杉(Picea schrenkiana） 林净化空气功能研究[J].干旱区研究，2011，28（4）：660- 664.[Zhou Yueming,Chang Shunli,Zhang Yutao,et al. Study on air purification function of Picea schrenkiana forest in Tianshan Mountains[J].Arid Zone Research,2011,28(4）:660-664.]   \n[2]王婷,任海保,马克平,等.新疆中部天山雪岭云杉种群动态初 步研究[J].生态环境学报,2006,15（3）：564-571.[Wang Ting,RenHaibao,Ma Keping,etal.A preliminary study on Picea schrenkiana populationdynamicsin thecentral Tianshan Mountains,Northwestern China[J].Ecology and Environmental Sciences,2006,15(3):564-571.]   \n[3]王慧杰，常顺利,张毓涛，等.天山雪岭云杉森林群落的密度制 约效应[J].生物多样性，2016,24（3）：252-261.［WangHuijie,Chang Shunli,Zhang Yutao,et al.Density-dependent effects in Picea schrenkiana forests in Tianshan Mountains[J].Biodiversity Science,2016,24(3):252-261.]   \n[4] Franke T,BeenkenL,Doring M,etal.Arbuscularmycorrhizal fungi of the glomus-group a lineage（Glomerales,Glomeromycota）detected in myco-heterotrophic plants from tropical Africa[J].Myco logical Progress,2006,5(1):24-31.   \n[5]吴楠,张静,王玥,等.积雪和丛枝菌根真菌网络对尖喙牛儿 苗幼苗生长的影响[J].干旱区研究，2018，35（3）：624-632. [Wu Nan,Zhang Jing,Wang Yue,et al.Effects of snow cover and arbuscular mycorrhizal fungi network on the seedling growth of Erodium oxyrrhynchum[J].Arid Zone Research,2018,35(3） :624 - 632.]   \n[6]Smith SE,Read D J.Mycorrhizal Symbiosis[M].London,England: Academic Press,1998:41-52.   \n[7]徐丽娟,刁志凯,刘润进,等.菌根真菌的生理生态功能[J].应 用生态学报,2012,23（1）:285-292.[Xu Lijuan,Diao Zhikai, Liu Runjin,et al.Physiological and ecological functions of mycorrhizal fungi[J].Chinese Journal of Applied Ecology,2012,23 (1):285 -292.]   \n[8]Colpaert JV,Wevers JHL,Krznaric E,et al.How metal-tolerant ecotypes of ectomycorrhizal fungi protect plants from heavy metal pollution[J].Annals of Forest Science,2011,68(1) :17 -24.   \n[9]Courty P-E,Buee M,Diedhiou A G,etal. The role of ectomycorrhizal communities in forest ecosystem processes:New perspectives and emerging concepts[J].Soil Biology and Biochemistry,2010, 42(5) :679 -698.   \n[10]Yin D,Deng X,Chet I,et al.Physiological responses of Pinus sylvestris var.mongolica seedlings to the interaction between Suillus luteus and Trichoderma virens[J]. Current Microbiology,2014,69 (3) :334 -342.   \n[11]Bahram M,Polme S,Koljalg U,etal.Regional and local patterns of ectomycorrhizal fungal diversity and community structure along an altitudinal gradient in the Hyrcanian forests of Northern Iran[J]. New Phytologist,2012,193(2）:465-473.   \n[12］彭岳林,蔡晓布.丛枝菌根真菌群落沿高寒草原海拔梯度的变 化特征[J].生态学报,2015,35（22）:7 475-7 484.[Peng Yuelin,Cai Xiaobu. Changes of arbuscular mycorrhizal fungi community in an alpine grassland altitudinal gradient[J].Acta Ecologica Sinica,2015,35(22):7 475-7 484.]   \n[13]李月蛟,朱利英,尹华军,等.连续三年夜间增温和施氮对云杉 外生菌根及菌根真菌多样性的影响[J].生态学报,2015,35 (9）:2 967 -2 977.[Li Yuejiao,Zhu Liying,Yin Huajun,et al. Efects of 3-year continuous night-time warming and nitrogen fertilization on ectomycorhizae of Piceaasperata and the ectomycorrhizal fungal diversity[J].Acta Ecologica Sinica,2015,35（9）： 2 967 -2 977.]   \n[14］郑克举,唐旭利,张静,等.季风常绿阔叶林演替系列菌根资源 及其与群落多样性的关系[J].生态环境学报,2013,22（5）： 729-738.[Zheng Keju,Tang Xuli,Zhang Jing,et al. Mycorrhizae respond to plant diversity in monsoon evergreen broadleaved forest succession choronsequence[J].Ecology and Environmental Sciences,2013,22(5):729 -738.]   \n[15］蔡晓布,彭岳林.西藏高原不同海拔区域丛枝菌根真菌群落的 变化[J].应用生态学报,2015,26(9）:2 803-2810.[Cai Xiaobu,Peng Yuelin. Change of arbuscular mycorrhizal fungi community in response to elevational gradients on the Tibetan Plateau [J].Chinese Journal of Applied Ecology,2015,26(9）:2 803 - 2 810.]   \n[16]Zhang J,Wang P,Xue K,et al.Trait complementarity between fine roots of Stipa purpurea and their associated arbuscular mycorrhizal fungi along a precipitation gradient in Tibetan alpine steppe[J]. Journal of Mountain Science,2019,16(3）:542-547.   \n[17]Koorem K,Saks,Sober V,et al.Efects of arbuscular mycorrhiza on community composition and seedling recruitment in temperate forest understory[J].Basic and Applied Ecology,2012,13（8）:663 -672.   \n[18]Li Y,Wang S,Lu M,et al.Rhizosphere interactions between earthworms and arbuscular mycorrhizal fungi increase nutrient availabilityand plantgrowth in the desertification soils[J].Soil and Tillage Research,2019,186:146-151.   \n[19]Reyes HA,Ferreira PFA,Silva L C,et al. Arbuscular mycorrhizal fungi along secondary forest succession at the eastern periphery of Amazonia;Seasonal variability and impacts of soil fertility[J].Applied Soil Ecology,2019,136:1-10.   \n[20]Birhane E,Fatumah N,Gidey K,et al.Vegetation cover density and disturbance affected arbuscular mycorrhiza fungi spore density and root colonization in a dry Afromontane forest,Northern Ethiopia [J]. Journal of Forestry Research,2018,29(3）:675 -686.   \n[21]Huang J,Nara K,Lian C,et al.Ectomycorrhizal fungal communities associated with Masson pine（Pinus massoniana Lamb.）in Pb-Zn mine sites of central south China[J].Mycorrhiza,2012,22（8）： 589 -602.   \n[22]贺学礼,王凌云,马晶,等.河北省安国地区丹参根围AM真菌 多样性[J].生物多样性,2010,18（2）:175-181.[He Xueli, Wang Lingyun,Ma Jing,etal.AMfungal diversityin therhizosphere of Salvia miltiorrhiza in Anguo City of Hebei Province[J]. Biodiversity Science,2010,18(2）:175-181.]   \n[23]Gill W M,Lapeyrie F,Gomi T,et al.Tricholoma matsutake-an assessment of in situ and in vitro infection by observing cleared and stained whole roots[J].Mycorrhiza,1999,9(4）:227 -231.   \n[24]鲍士旦.土壤农化分析[M].北京，中国农业出版社,2007. [Bao Shidan.Soil Agrochemical Analysis[M].Beijing:China Agricultural Press,2007.]   \n[25］樊永军,闫伟,赵艳玲.贺兰山地区青海云杉EM真菌群落组 成与多样性[J].东北林业大学学报,2019,47（3）:89 -93. [Fan Yongjun,Yan Wei,Zhao Yanling.Diversity and community constitutionof EMFungi in forest communities of Picea crassifolia in Helan MountainsJ].Journalof NortheastForestry University, 2019,47(3) :89-93.]   \n[26］孟繁荣,邵景文.东北主要林区针叶林下外生菌根真菌及生态 分布[J].菌物系统,2001（3）:413-419.[Meng Fanrong,Shao Jingwen.Ectomycorrhizal fungi and their ecological distribution under coniferous forests in major forest areas of Northeast China[J]. Mycorrhizal System,2001(3）:413-419.]   \n[27]Haug I,Weiβ M,Homeier J,et al. Russulaceae and Thelephoraceae form ectomycorrhizaswith members of the Nyctaginaceae (Caryophyllales） in the tropical mountain rain forest of southern Ecuador[J].New Phytologist,2005,165(3）:923-936.   \n[28]Jakucs E,Kovacs G,Agerer R,et al. Morphological-anatomical characterization and molecular identification of Tomentella stuposa ectomycorrhizae and related anatomotypes[J].Mycorrhiza,2005, 15(4) :247 - 258.   \n[29]Crous P,Wingfield M,Burgess T,et al.Fungal Planet description sheets:558 -624[J].Persoonia: Molecular Phylogeny and Evolution of Fungi,2017,38:240.   \n[30]Kowalski T,Kehr R D.Two new species of Phialocephala occurring on Picea and Alnus[J].Canadian Journal of Botany,1995,73（1）: 26 -32.   \n[31］崔晋龙,郭婷婷,王俊宏,等.一株柴胡红景天中内生真菌的抗 氧化活性[J].食品科学,2015,36（17）:22-27.[Cui Jinlong， Guo Tingting,Wang Junhong,et al.research of an endophytic fungus antioxidant activity from Rhodiola bupleurum[J].Food Sci",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ence,2015,36(17):22-27.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[32]ReverchonF,Del Pilar Ortega-Larrocea M,Bonilla-Rosso G,et al. Structure and species composition of ectomycorrhizal fungal communities colonizing seedlings and adult trees of Pinus montezumae in Mexican neotropical forests[J].FEMS Microbiology Ecology, 2012,80(2):479 -487.   \n[33]George C,Wagner M,Kucke M,et al.Divergent consequences of hydrochar in the plant-soil system:Arbuscular mycorrhiza,nodulation,plant growth and soil aggregation effects[J].Applied Soil Ecology,2012,59:68-72.   \n[34]石兆勇，张晓锋，王发园.菌根真菌对土壤呼吸的影响[J].生 态环境报,2010,19（1）:233-238.[Shi Zhaoyong,Zhang Xiaofeng,Wang Fayuan.Influence of mycorrhizal fungi on soil respiration[J].Ecology and Environmental Sciences,2010,19(1）:233 -238.]   \n[35]ThrallPH,HochbergME,BurdonJJ,etal.Coevolution of symbiotic mutualists and parasites in a community context[J].Trends in Ecology& Evolution,2007,22（3）:120-126.   \n[36]任运涛，张晨曦，尚占燕，等.阿拉善荒漠区5种植物叶片性状 的季节动态[J].干旱区研究，2017,34（4）：823-831.［Ren Yuntao,Zhang Chenxi,Shang Zhanyan,et al. Seasonal variation of leaf traits of five eremophyte species in the Alxa desert[J].Arid ZoneResearch,2017,34（4):823-831.]   \n[37］郑艺，张丽，周宇,等.1982—2012年全球干旱区植被变化及驱 动因子分析[J].干旱区研究,2017,34（1）：59-66.[Zheng Yi,Zhang Li,Zhou Yu,et al. Vegetation change and its driving factors in global drylands during the period of 1982-2O12[J].Arid Zone Research,2017,34(1) :59 -66.]   \n[38］杨秀丽.大兴安岭兴安落叶松森林生态系统菌根及其真菌多 样性研究[D].呼和浩特：内蒙古农业大学,2010.［YangXiuli. Mycorrhizal Diversity in The Larix gmelinii Forest Ecosystems of Da Xingan Ling Mountains[D].Hohhot:Inner Mongolia Agricultural University,2010.]   \n[39]张慧文，马剑英,孙伟,等.不同海拔天山云杉叶功能性状及其 与土壤因子的关系[J].生态学报，2010,30（21)：5747- 5 758.[Zhang Huiwen,Ma Jianying,Sun Wei,et al.Altitudinal variationin functional traitsofPicea schrenkiana var.tianschanica and their relationship to soil factors in Tianshan Mountains,Northwest China[J].Acta Ecologica Sinica,2010,30（21）:5 747- 5 758.]   \n[40]贺小香,谭周进，肖启明,等.外生菌根的功能及与环境因子的关 系[J].中国生态农业学报,2007，15(2):201-204.[He Xiaoxiang,Tan Zhoujin,Xiao Qiming,et al.A review on the Functions of ectomycorrhizal and the effects of environmental factors on them [J].Chinese Journal of Eco-Agriculture,2007,15(2）:201-204.]   \n[41]图力古尔,陈今朝,王耀,等.长白山阔叶红松林大型真菌多样 性[J].生态学报,2010,30（17）:4549-4558.［Tuligur,Chen Jinchao,Wang Yao,et al.Macrofungal diversity in broad-leaved Korean pine forest in the Changbaishan National Nature Reserve [J].ActaEcologica Sinica,2010,30(17）:4 549-4 558.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Diversity of Mycorrhizal Fungi of Picea schrenkiana Forest and Its Affecting Factors in the Tianshan Mountains ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DU Hai-yan’， CHANG Shun-li'， SONG Cheng-cheng¹， ZHANG Yu-tao² (1.KeyLaboratoryofOasisEcologyunderthe MinistryofEducation,ColegeofResourcesandEvironmentalScience,Xinjang University,Urumqi 830046,Xinjiang,China； 2.Institute of Forest Ecology,Xinjiang Academy of Forestry,Urumqi 830063,Xinjiang,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Picea schrenkiana is an edificatoronthe northern slope of the Tianshan Mountains and plays an importantrolein theconiferous forests innorth China.In this study,the mycorhizaland topsoil samples werecollected fromthe northern slope according tothealtitude gradient inthe Tianshan Mountains.The mycorrhizal fungi were identified by molecular biology techniques,and the contents of soil organic carbon,total N,effective $\\mathrm { \\Delta P }$ and total $\\mathbf { K }$ （20 were measured.Phylogenetic treeand typical correspondence analysis （CCA）were used to investigate the diversity of mycorrhizal fungi and their affecting factors.The results showed that : $\\textcircled{1}$ There were 21 mycorrhizal fungi symbiotic with $P$ . schrenkiana forest,belonging to 2 genus,6 classes,10 orders,12 families and 14 genera; $\\textcircled{2}$ Basidiomycota fungi were distributed in various elevationand altitude zones,whileAscomycota fungi were mainly distributed in the low-altitude zone.With the increase of altitude,the mycorrhizal infection rate $( 1 3 \\% - 3 6 \\%$ ）and the ShannonWeiner index（1.14-2.O3）were increased at first and then decreased.The Simpson's index was in a gradual decrease trend in a range of $0 . 4 9 - 0 . 6 3$ ；the uniformity index varied from O.47 to O.63,and it was decreased at first and then increased with altitude; $\\textcircled{3}$ The distribution,infection rate and diversity index of mycorrhizal fungi were mainly affected by altitudeand soil organiccarboncontent.The totalNcontent affected significantlyonly the Shannon-Werner index and theuniformity index.This study could provide a basis for the recognition and utilization of mycorrhizal fungus resources of $P$ .schrenkiana. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words:mycorrhizal fungus； infection rate；species diversity； Picea schrenkiana； Tianshan Mountains",
+        "page_idx": 7
+    }
+]

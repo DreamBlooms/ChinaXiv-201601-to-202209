@@ -1,0 +1,219 @@
+# DOI: 10.5846/stxb201609121847
+
+陈孟晨,张景光，冯丽,滕嘉玲.沙坡头地区生物结皮覆盖区土壤种子库组成及垂直分布特征.生态学报,2017,37（22)：7614-7623.ChenMC,ZagelieoflieiShapotou Region.Acta Ecologica Sinica,2017,37(22）:7614-7623.
+
+# 沙坡头地区生物结皮覆盖区土壤种子库组成及垂直分布特征
+
+陈孟晨1,²，张景光1，\*，冯 丽，滕嘉玲1,2
+
+1中国科学院西北生态环境资源研究院 沙坡头沙漠试验研究站，兰州730000  
+2中国科学院大学，北京100049
+
+摘要：采用野外随机取样和室内萌发试验相结合的方法,对沙坡头人工植被区的藓类结皮、地衣结皮和裸沙覆盖区土壤种子库的组成及垂直分布特征进行了研究。结果表明:1)人工植被区土壤种子库的物种组成简单,以1年生草本为主,相较于裸沙，两种生物结皮的存在显著增加了土壤种子库的密度( $\Gamma < 0 . 0 1 { \dot { \cdot } }$ ),但降低了土壤种子库的物种多样性及其与地上植被的相似性;2)两种生物结皮覆盖区土壤种子库的总密度虽无显著差异，但在 $_ { 0 - 2 \mathrm { ~ c m } }$ 土层中,地衣结皮土壤种子库的密度显著高于藓类结皮（ $\ P < 0 . 0 5 ,$ )，而在2- ${ \cdot } 5 \ \mathrm { c m }$ 和5- $1 0 ~ \mathrm { c m }$ 土层中,藓类结皮土壤种子库的密度高于地衣结皮,但差异不显著；3)不同生物结皮覆盖区土壤种子库的垂直分布特征存在差异,藓类结皮覆盖土壤中有活力的种子主要分布在 $_ { 0 - 5 } \mathrm { c m }$ 土层中,而地衣结皮和裸沙覆盖土壤中有活力的种子主要分布在 $_ { 0 - 2 \mathrm { ~ c m } }$ 土层中,且随着深度的增加,土壤中有活力的种子急剧减少。该研究表明,相较于裸沙,生物结皮的存在不仅增加了土壤种子库的大小,还改变了土壤种子库的垂直分布格局。生物结皮层下仍有相当比例有活力的小种子,这些种子欠缺萌发条件,对地上植被的贡献作用较小,但它们的存在对荒漠生态系统健康及可持续发展具有重要意义。
+
+关键词：生物结皮;土壤种子库;垂直分布;物种多样性
+
+# The composition and vertical distribution characteristics of soil seed banks in soil coverage with biocrusts in the Shapotou Region
+
+CHEN Mengchen1,²， ZHANG Jingguang1 \* ，FENG $\mathrm { L i } ^ { 1 }$ ，TENG Jialing1,
+
+1ShapotouDeserteseachdExperientttiortstsituteofoEontdesources，insecdeyfiecso 730000，China   
+2 University of Chinese Academy of Sciences，Beijing 10oo49,China
+
+Abstract：Using random sampling inthe fieldandobserving the emergenceof seedlings，we studied the structure，the densityand verticaldistributionofsoilseed banksinmosscrusts，lichencrusts，and baresandsintheartificialyrevegetatedregion of Shapotou.We found thatthe soil seed banksof thisregion were mainlycomposedof annual herbs and hadasimple species compositionanda significantly higher seed density in soil coveredbybiocrusts than inbare sands( $P <$ 0.01).However,the existenceof biocrusts decreased the species diversityof soil seedbanksandthesimilarityofsoil seed banks with coresponding ground vegetation.Furthermore，although the total densityofsoil seed was not significantly diffrent betweenthetwotypesof crusts，there werediferences inthedistribution withinthediferent soil layers. Specifically,thesoilseeddensityintheO—2cmsoil layerof lichencrustswassignificantly higherthan inthe corresponding layer in moss crusts ( $\ P < 0 . 0 5$ ），while that of moss crusts was higher in the $2 { \mathrm { - } } 5 \ { \mathrm { c m } }$ and 5- $1 0 \ \mathrm { c m }$ soil layers.Finaly,theeffectsof biocrustson vertical distribution of soil seed banks varied with biocrust types.For example, germinativeseeds were primarilydistributedintheO—5cmsoil layerfor mosscrustsandintheO—2cmsoillayer for lichencrustsandbaresands，and their abundancedecreased with soil depths.Theseresults suggestthat biocrusts increase thesoileedbank density，butalsochangetheverticaldistributionpattmofsoilseedbanksinartificiallre-vegetated regions.A substantial proportionof small seedsare present insoilcovered bybiocrusts，andthese seeds lack germination potentialandcontribute litletotheabove-groundvegetation.However,theyplayasignificantroleinecosystemstabilityand the sustainable development of deserts.
+
+Key Words:biocrusts；soil seed banks；vertical distribution；diversity of species
+
+近半个世纪以来,由于气候变化和人类活动的影响,荒漠化已成为人类发展所面临的主要环境问题之一。植被建设是荒漠化治理的主要方法和手段[1],在荒漠地区,许多植被的生存与繁衍离不开土壤种子库的作用。土壤种子库是指存在于土壤上层凋落物和土壤中全部有活力种子的总和[2],它能反映植物群落过去和现在的特点[3-4],是植物种群生存与繁衍、群落更新与恢复的物质基础[45]。土壤种子库是植物在长期进化过程中形成的一种生存策略,它对缓冲物种灭绝具有重要作用,在地表植被受到干扰破坏时,土壤中存在的种子具有潜在的恢复力,能够保证植被的恢复和种群的延续[6],尤其是在环境恶劣的荒漠地区,这种作用更加突出。
+
+生物结皮(Biocrusts)是荒漠地表广泛分布的一种生物覆盖体,其覆盖度占荒漠地表活体覆盖的 $4 0 \%$ 以上[7],是荒漠生态系统的重要组成部分[8]。它是由隐花植物如蓝藻、荒漠藻、地衣、苔藓和土壤微生物,以及相关的其他生物体通过菌丝体、假根和分泌物等与土壤表层颗粒胶结形成的复合体[9-10]。生物结皮作为荒漠生态系统的初级演替者之一,它的形成和发育使得土壤表层在物理、化学和生物学特性上明显不同于松散的沙土,进而改变了荒漠地区维管束植物种子的传播、萌发、生长等过程[8911]。许多学者就生物结皮与维管束植物间的关系开展了大量的研究,主要涉及生物结皮对维管束植物的土壤种子库[12-15]、种子萌发[16-17]、幼苗存活[18]及植物生长[19]的影响等方面,然而两者间的关系是复杂的,影响作用是多方面的,许多结论相互矛盾,存在着广泛的争议[10]。 V
+
+目前,关于生物结皮对土壤种子库影响的研究多集中在种子库的组成及大小方面,主要存在增加[12-13]和减少[14-5]两种观点。这种争议可能是由于研究区域不同的气候条件、土壤质地、结皮类型以及不同生物学特征的植物和不同的研究方法造成的[10]。前人的研究多集中在生物结皮对土壤种子库组成及数量特征影响等方面,而关于生物结皮对土壤种子库垂直分布特征影响的研究则鲜有报道。占据地表生境的生物结皮在土壤表层形成了一道致密的结皮层,生物结皮的存在对土壤种子库垂直分布格局的影响人们仍不清楚。在荒漠生态系统,土壤中有活力的种子具有很明显的垂直分布格局,一般集中在表层土壤[20-21]。土壤中不同位置的种子具有不同的生态学意义,表层土壤种子具有较强的萌发力可对地上植被进行补充[22],而深层土壤中的种子因欠缺萌发条件通常形成持久种子库,增加生态系统的稳定性[23-24],因此研究土壤种子库的垂直分布特征有助于认识土壤种子库在植被恢复潜力及在生态系统稳定性中发挥的作用。
+
+本文以包兰铁路沙坡头段人工植被区为研究区域,选择该区域的藓类结皮、地衣结皮覆盖土壤与裸沙为研究对象,通过野外随机取样及室内萌发试验,研究了不同覆被类型对土壤种子库组成及垂直分布特征的影响。旨在加深对生物结皮与维管束植物的关系以及荒漠地区生态恢复与植被演替规律的认识，并为该区域生物多样性保护及生态系统管理提供理论依据。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+供试土样采集自中国科学院沙坡头沙漠试验研究站包兰铁路以北的人工植被区,该区位于腾格里沙漠东南缘（ $( 3 7 ^ { \circ } 3 2 ^ { \prime } \mathrm { ~ N ~ }$ ， $1 0 5 ^ { \circ } 0 2 ^ { \prime } \mathrm { ~ E ~ } ,$ ）,处于阿拉善高原荒漠与荒漠草原过渡地带,是典型的干旱荒漠地区。该区海拔$1 3 3 0 \mathrm { ~ m ~ }$ ,最高气温 $3 8 . 1 \mathrm { { ^ { \circ } C } }$ ,最低气温 $- 2 5 . 1 \mathrm { { ^ { \circ } C } }$ ,多年平均气温 $9 . 6 \%$ ,年平均降水量 $1 8 6 . 5 \ \mathrm { m m }$ ,降水主要集中在5—9月；全年日照 $3 2 6 4 \mathrm { ~ h ~ }$ ,年蒸发量 $2 3 0 0 { \ - } { \ - } 2 5 0 0 \ \mathrm { m m }$ ,土壤稳定含水量为 $2 \%$ 1 $3 \%$ [25]。
+
+为了确保包兰铁路沙漠地段的畅通无阻,自1956年中国科学院和有关单位建立了“以固为主、固阻结合”的植被固沙防护体系,在流动沙丘上扎设麦草方格并栽植耐旱灌木,之后实行围封使之自然发展,经过数十年的恢复,原来以流沙为主的景观变成与同一生物气候带相符的荒漠植被景观,生态环境得到了极大的改善[1]。目前人工植被区的地上植被主要优势种有：柠条（Caragana korshinskii）、花棒（Hedysarum scoparium）、油蒿（Artemisia ordosica）、小画眉草（Eragrostis poaeoides）、砂蓝刺头（Echinops gmelinii）、雾冰藜（Bassiadasyphylla）、刺沙蓬（Salsola ruthenica)等[25]。生物结皮在该地区发育良好,有着广泛的分布,主要包括真藓（Bryumargenteum）、土生对齿藓（Didymodon-vinealis）、刺叶赤藓（Syntrichiacaninervis）具鞘微鞘藻（Microcoleus vaginatus）、隐头舟形藻（Navicula cryptocephala）、隐鞘鞘丝藻（Lyngbya cryptovaginatus）、爪哇伪枝藻（Scytonema javanicum）、坚韧胶衣（Collema tenax）、石果衣（Endocarpon pusillum）和糙聚盘衣（Glypholeciascabra）［26]。本次试验采用的两种生物结皮为该区域分布最广的藓类结皮和地衣结皮,其中藓类结皮以真藓为优势种，地衣结皮以坚韧胶衣为优势种。 ?
+
+# 1.2 研究方法
+
+# 1.2.1 取样方法
+
+由于荒漠地区生境异质性强,土壤种子在水平和垂直方向上的分布具有较大的变异性,为减少取样的随机误差,提高精确性,在水平方向上采用小样方大数量的方法进行取样,在垂直方向上则采用分层取样[27]。2016 年3月底,在种子传播结束,生长季来临前进行采样,因此受试土壤的种子库包括瞬时和持久种子库。为避免地形因素干扰,随机选择地势平缓、并覆有大面积的藓类结皮和地衣结皮的丘间低地,布设5块 $3 0 ~ \mathrm { m } \times \mathrm { \Omega }$ $3 0 \mathrm { ~ m ~ }$ 的样地,各样地间间距大于 $1 0 0 \mathrm { ~ m ~ }$ 。在每块样地内，分别在藓类结皮、地衣结皮为优势覆被类型的区域布设1个 $1 0 \mathrm { ~ m ~ } \times \mathrm { ~ 1 0 ~ m ~ }$ 的样方,用以调查藓类结皮、地衣结皮覆盖区的土壤种子库。再在与各样地临近的半固定沙丘上,选择相同的地形布设5个 $1 0 \mathrm { ~ m ~ } \times \mathrm { ~ 1 0 ~ m ~ }$ 的裸沙样方,用以调查裸沙覆盖区的土壤种子库。藓类结皮、地衣结皮和裸沙各有5个 $1 0 \mathrm { ~ m ~ } \times \mathrm { ~ 1 0 ~ m ~ }$ 的样方,在每个样方内,避开灌丛、枯落物及动物巢穴等复杂地表的干扰后,随机选择生物结皮或裸沙发育完好的区域布设采样点,每个样方共20个采样点。2016年3月27日,在一次较大降水事件发生后,表层土壤充分湿润的情况下进行采样。在每个采样点，采用内径为 $6 . 1 8 ~ \mathrm { c m }$ 的定制环刀分3个土层依次进行取样,各土层分别为距地表 $0 { - } 2 { , } 2 { - } 5 \ \mathrm { c m }$ 和5— $1 0 \ \mathrm { c m }$ 的土壤。相同处理下每10 个取样点的土样均匀混合放入自封袋中记为1个重复,每种处理共10个重复。
+
+# 1.2.2 萌发试验
+
+由于该地区不同植物种类的种子大小差异较大,个别植物种子较为微小,采用物理分离法很难鉴别出一些植物种，故采用萌发法对种子库的物种组成进行鉴定。选择内径 $3 6 ~ \mathrm { c m }$ 、高 $5 \ \mathrm { c m }$ ，底部钻有输水孔的塑料托盘进行萌发试验，在每个托盘中平铺有约 $2 \ \mathrm { c m }$ 厚的无种子沙土（沙土 $1 2 0 \mathrm { ^ { \circ } C }$ 处理 $2 4 \mathrm { ~ h ~ }$ )。将采回的土样晾干轻轻捏碎,去除杂物后平铺在托盘中,然后将托盘放置于温室中,盖上透光纱网防止外来种子进入,进行种子萌发试验。试验期间每天下午定时喷洒适量水分,使托盘内的土壤保持湿润状态,每两天仔细观察并诊断幼苗种属,待可以辨别出幼苗种属后,记其数并将幼苗轻轻移除。试验进行 $3 0 \mathrm { ~ d ~ }$ 后,轻轻翻动托盘内的土壤,并采用浓度 $5 0 0 ~ \mathrm { m g / L }$ 的赤霉素溶液浇水[28],以尽量促使休眠种子萌发。种子萌发试验于2016年4月3日开始,直至连续4周内无种子萌发,视为萌发完毕,共持续 $1 0 0 \mathrm { ~ d ~ }$ 。
+
+# 1.2.3 地上植被调查
+
+2016 年7月底,在植被生长旺盛期对试验样地进行植被调查,在每个 $1 0 \mathrm { ~ m ~ } \times 1 0 \mathrm { ~ m ~ }$ 样方中，随机布设3个$1 \mathrm { ~ m ~ } \times \mathrm { ~ 1 ~ m ~ }$ 的样方,调查并记录每个样方中植物的种类、数量、盖度及各物种在样方中出现的频度。
+
+# 1.2.4 数据处理
+
+利用萌发试验统计到的土壤中种子数量和植物种数来评价土壤种子库的组成和大小,根据取样面积大
+
+小,将结果换算成单位面积土壤中含有种子的数量（粒/ $' _ { \mathrm { { m } } ^ { 2 } }$ ),用以表示土壤种子库的密度。应用SPSS19.0（IBM，USA）对数据进行统计分析,采用单因素方差分析(one-way ANOVA)中的多重比较方法（LSD）,比较不同覆被类型及各土层间土壤种子库的密度的差异。采用Origin 8.0（OriginLab，USA)进行绘图。
+
+# 1.2.5 物种多样性指数
+
+采用 Simpson 优势度指数、Shannon-Wiener多样性指数、Marglef 丰富度指数和 Pielou 均匀度指数来衡量土壤种子库的物种多样性[27]。各指数计算公式如下：
+
+Simpson优势度指数：
+
+Shannon-Wiener多样性指数：
+
+$$
+\begin{array} { c } { { D \displaystyle = 1 - \sum _ { i = 1 } ^ { s } \left( P _ { i } ^ { 2 } \right) } } \\ { { { } } } \\ { { H \displaystyle = - \sum _ { i = 1 } ^ { s } P _ { i } \ln P _ { i } } } \\ { { { } } } \\ { { R \displaystyle = \left( S - 1 \right) / \ \ln N } } \\ { { { } } } \\ { { { } { \displaystyle { } _ { E - U \enspace \in { \bf { \Phi } } \setminus { \cal { S } } } } } } \end{array}
+$$
+
+Margalef丰富度指数：
+
+Pielou均匀度指数： $E = H / \ \mathrm { l n } S$ 式中， $N$ 为种子库中所有植物种的种子总数； $P _ { i }$ 为第 $i$ 种植物的种子数占种子库中总种子数的比例;S表示物种数。
+
+土壤种子库间及地上植被间群落组成上的相似性采用 Sorensen 的相似性系数(similarity coefficient，SC)来计算： $S C = 2 w / { \left( a + b \right) }$ 式中 $S C$ 为相似性系数， $w$ 为土壤种子库和地上植被共有的物种， $\mathbf { \alpha } _ { a }$ 和 $\mathit { \Delta } _ { b }$ 分别为土壤种子库和地上植被的物种数。
+
+# 2结果与分析
+
+# 2.1土壤种子库的组成
+
+土壤种子库的物种组成及密度见表1,3种覆被类型的土壤种子库共记录到6种植物,隶属于3科6属。其中,藓类结皮上有3种植物,隶属于2科3属,地衣结皮上有4种植物,隶属于3科4属,裸沙上物种最多，共6种植物,隶属于3科6属。在物种组成的垂直分布方面,2种生物结皮覆盖区的2— $1 0 \ \mathrm { c m }$ 土层中，仅发现了小画眉草和油蒿两种植物的种子,而在流沙覆盖区的2— $1 0 \ \mathrm { c m }$ 土层中则发现了5种植物的种子。
+
+表1不同覆被类型土壤种子库的物种组成及其密度  
+Table1Species composition and seed density of soil seed banks in different land cover types（Mean $\pm \mathrm { S E }$ ）   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td rowspan="2">科 Family</td><td rowspan="2">生活型 Life form</td><td colspan="3">土壤种子库密度 Soil seed bank density(粒/m²)</td></tr><tr><td>藓类结皮 Moss crusts</td><td>地衣结皮 Lichen crusts</td><td>裸沙 Bare sands</td></tr><tr><td>植物总数 Total</td><td>一</td><td></td><td>1455.73±122.97</td><td>1617.03±146.17</td><td>342.76±84.12</td></tr><tr><td>小画眉草Eragrostis poaeoides</td><td>禾本科1)</td><td>AH</td><td>1250.07±130.85</td><td>1334.76±168.17</td><td>266.15±86.01</td></tr><tr><td>油蒿 Artemisia ordosica</td><td>菊科2)</td><td>SS</td><td>92.75±12.71</td><td>116.94±19.61</td><td>40.32±18.69</td></tr><tr><td>沙鞭 Psammochloa viollosa</td><td>禾本科</td><td>PH</td><td>112.91±18.09</td><td>129.04±18.89</td><td>4.03±4.03</td></tr><tr><td>刺沙蓬 Salsola ruthenica</td><td>藜科3)</td><td>AH</td><td>0</td><td>36.29±16.75</td><td>8.07±8.07</td></tr><tr><td>雾冰藜 Bassia dasyphylla</td><td>藜科</td><td>AH</td><td>0</td><td>0</td><td>12.10±8.49</td></tr><tr><td>沙米 Agriophyllum squarrosum</td><td>藜科</td><td>AH</td><td>0</td><td>0</td><td>12.10±12.10</td></tr></table></body></html>
+
+1）Gramineae;2）Compositae；3）Chenopodiaceae;AH：一年生草本,Anual herb;SS：半灌木,Semi-shrub;PH：多年生草本,Pereialherb
+
+从生活型划分,藓类结皮土壤种子库中有半灌木、多年生草本、1年生草本各1种,地衣结皮中有半灌木1种,多年生草本1种,1年生草本2种,裸沙上有半灌木1种,多年生草本1种,1年生草本4种。如图1所示，3种覆被类型的土壤种子库均以1年生草本为主,藓类结皮、地衣结皮、裸沙上1年生草本的种子分别占种子库总数的 $8 5 . 8 7 \%$ $. 8 4 . 7 9 \%$ 和 $8 7 . 0 6 \%$ 。
+
+# 2.2土壤种子库的大小及垂直分布特征
+
+3 种覆被类型的土壤种子库密度存在显著差异,如图2所示,裸沙土壤种子库的密度在各土层上均显著
+
+![](images/6e2e541287e83cd38b4b03c1c0160343f232d901ae6d6d1548673d5b33532e6e.jpg)  
+图1不同生活型植物和不同土层种子数量在各覆被类型中所占比例
+
+Fig.1Thepercentageofdiferentlifeformofsoilseedbanksandthepercentageofsedsindiferentsoillayersofdierentland cover types
+
+低于藓类结皮和地衣结皮( $\begin{array} { r } { P < 0 . 0 1 \dot { \iota } } \end{array}$ ),相较于裸沙,生物结皮的存在显著增加了土壤中有活力种子的数量。藓类结皮和地衣结皮虽在土壤种子库总密度上无显著差异,但在 $0 { - } 2 \ \mathrm { c m }$ 土层中,地衣结皮土壤种子库的密度显著大于藓类结皮( $P < 0 . 0 5 )$ ,而在其他两个土层,藓类结皮土壤种子库的密度高于地衣结皮,但并无显著差异。
+
+另外,种子库在土壤剖面各层的分布是不一致的,不同类型的生物结皮对土壤种子库垂直分布的影响存在差异，其中藓类结皮覆盖的土壤中有活力的种子主要分布在 $0 { - } 5 ~ \mathrm { c m }$ 土层中,而地衣结皮覆盖的土壤和裸沙中有活力的种子主要分布在0一 $- 2 ~ \mathrm { c m }$ 土层中（图1,图3）。藓类结皮覆盖的土壤0一 $- 2 ~ \mathrm { c m }$ 土层中有活力的种子数目低于2— ${ \cdot } 5 ~ \mathrm { c m }$ 土层,但无显著差异;而地衣结皮和裸沙在0一 $\cdot 2 \ \mathrm { c m }$ 土层中有活力的种子数目显著高于2- $- 5 \ \mathrm { c m } \ . 5 - 1 0 \ \mathrm { c m }$ 土层( $( P < 0 . 0 5 )$ ,且随着深度的增加土壤中有活力的种子也在减少。
+
+![](images/bc205877dc29b1d86106427296d26c37143e6b1afeed9e61c8a29b5460a1030e.jpg)  
+图2不同覆被类型土壤种子库的密度在各土层间的差异性比较 Fig.2The comparison of soil seed banks in different soil layers of different land cover types
+
+![](images/db362534ce188c8fc481278e4de34edc640d1a72c95080aca360f96ab6f0e158.jpg)  
+图3不同覆被类型土壤种子库密度的垂直分布特征 Fig.3Vertical distribution characteristics of soil seed bank density in different land cover types
+
+2.3生物结皮对土壤种子库物种多样性的影响由表2可知,人工植被区的土壤种子库物种组成较为简单,群落结构较为单一。土壤种子库的物种多样性指数和丰富度指数表现为裸沙 $>$ 地衣结皮 $>$ 藓类结皮，呈现出随着生物结皮的发育，物种多样性也随之降低的规律。
+
+Table2Richness，diversity and evenness of soil seed banks in different land cover tyl   
+
+<html><body><table><tr><td>覆被类型 Land cover types</td><td>物种数 Number of species</td><td>优势度指数 Simpson dominance index</td><td>香浓多样性指数 Shannon-Wiener diversity index</td><td>丰富度指数 Margalef richness index</td><td>均匀度指数 Peilow evenness index</td></tr><tr><td>藓类结皮 Moss crusts</td><td>3</td><td>0.253</td><td>0.505</td><td>0.340</td><td>0.460</td></tr><tr><td>地衣结皮 Lichen crusts</td><td>4</td><td>0.307</td><td>0.635</td><td>0.501</td><td>0.458</td></tr><tr><td>裸沙 Bare sands</td><td>6</td><td>0.380</td><td>0.825</td><td>1.125</td><td>0.460</td></tr></table></body></html>
+
+# 2.4土壤种子库与地上植被的关系
+
+如表3所示,地上植被调查共发现10种植物,其中藓类结皮上发现7种植物,地衣结皮8种植物,裸沙9种植物。根据地上植被及土壤种子库的物种组成,计算出藓类结皮、地衣结皮、裸沙的土壤种子库与地上植被Sorensen 相似性系数分别为0.40、0.50、0.75,呈现出随着生物结皮的演替,地上植被与土壤种子库的相似性系数逐渐降低的趋势。
+
+表2不同覆被类型土壤种子库物种多样性、丰富度、均匀度指数  
+表3各覆被类型不同土层中土壤种子库及地上植被的物种组成  
+Table3Speciescompositionof thesoilsedbanksindiferentsoillayersandabovegroundvegetationofvariouslandcovertypes   
+
+<html><body><table><tr><td rowspan="2">物种 Species</td><td colspan="4">藓类结皮 Moss crusts</td><td colspan="4">地衣结皮 Lichen crusts</td><td colspan="3">裸沙 Bare sands</td></tr><tr><td>0-2cm</td><td>2-5cm</td><td>5—10cm</td><td></td><td>0- -2cm</td><td></td><td>2-5cm</td><td>5—10cm</td><td>0-2cm</td><td>2-5cm</td><td>5—10 cm</td></tr><tr><td>小画眉草 Eragrostis poaeoides</td><td>+/+</td><td>+/+</td><td>+/+</td><td></td><td>+/+</td><td>+/+</td><td></td><td>+/+</td><td>+/+</td><td>+/+</td><td>+/+</td></tr><tr><td>油蒿Artemisia ordosica</td><td>+/+</td><td>+/+</td><td>+/+</td><td></td><td>+/+</td><td></td><td>+/+</td><td>+/+</td><td>+/+</td><td>+/+</td><td>+/+</td></tr><tr><td>沙鞭Psammochloa viollosa</td><td>+/1</td><td>1/1</td><td>+/-</td><td></td><td>+/1</td><td></td><td>-/1</td><td>1/1</td><td>+/+</td><td>1/+</td><td>1/+</td></tr><tr><td>刺沙蓬Salsola ruthenica</td><td>-/+</td><td>1/+</td><td>+</td><td></td><td>+/+</td><td></td><td>1/+</td><td>1/+</td><td>-/+</td><td>+/+</td><td>+/+</td></tr><tr><td>雾冰藜Bassia dasyphylla</td><td>-/+</td><td>/+</td><td>-/+</td><td></td><td>-/+</td><td></td><td>-/+</td><td>1/+</td><td>+/+</td><td>1/+</td><td>-/+</td></tr><tr><td>沙米 Agriophyllum squarrosum</td><td>-/-</td><td></td><td>-/-</td><td></td><td>1/1</td><td></td><td>-/1</td><td>1/1</td><td>-/+</td><td>+/+</td><td>+/+</td></tr><tr><td>砂蓝刺头 Echinops gmelinii</td><td>-/-</td><td></td><td>-/1</td><td></td><td>-/+</td><td></td><td>-/+</td><td>-/+</td><td>-/+</td><td>-/+</td><td>-/+</td></tr><tr><td>虫实 Corispermum mongolicum</td><td></td><td>/+</td><td>-/+</td><td></td><td>1/+</td><td></td><td>-/+</td><td>1/+</td><td>-/1</td><td>1/1</td><td>-/1</td></tr><tr><td>柠条Caragana korshinskii</td><td>-/+</td><td>-/+</td><td>-/+</td><td></td><td>1/+</td><td></td><td>1/+</td><td>1/+</td><td>-/+</td><td>-/+</td><td>-/+</td></tr><tr><td>花棒 Hedysarum scoparium 一</td><td>人 /+</td><td>-/+</td><td>-/+</td><td></td><td>-/+</td><td></td><td>/+</td><td>-/+</td><td>-/+</td><td>-/+</td><td>1/+</td></tr></table></body></html>
+
+$^ +$ ：出现此物种，-：未出现此物种，“/"上为土壤种子库，下为地上植被
+
+# 3讨论
+
+在荒漠生态系统,尤其是人工植被区,土壤种子库对地上植被的恢复与重建起着至关重要的作用[29-30]。沙坡头人工植被区植被动态演替的研究表明,人工植被建立后随着植被的演替,生物结皮出现在灌丛间的裸地上,改变了土壤水文过程,使得一些深根系的灌木逐渐从群落中退出,群落的结构由单一的灌木半灌木组成到一年生草本层逐渐占优势的较复杂结构。但由于生物结皮的发育,新的物种很难侵入该生态系统,该区的群落结构较于其他生态系统而言仍较为简单[31]。占据荒漠生态系统地表生境的生物结皮,强烈地改变了土壤表层的形态结构特征,进而影响了荒漠地区植物种子的传播与再分配过程,改变了土壤种子库的组成及时空分布格局[15]。
+
+# 3.1生物结皮对土壤种子库密度的影响
+
+人工植被区的藓类结皮、地衣结皮土壤种子库密度分为( $1 4 5 5 . 7 3 \pm 1 2 2 . 9 7 )$ 粒 $/ \mathrm { m } ^ { 2 }$ 、（ $1 6 1 7 . 0 3 { \scriptstyle \pm 1 4 6 . 1 7 } )$ 粒/$\mathbf { m } ^ { 2 }$ ,这与苏延桂等[12]、崔艳等[32]在该区域的研究结果较为一致。但对比其他荒漠生态系统,古尔班通古特沙漠的藓类结皮和地衣结皮土壤种子库的密度分别为( $1 1 3 8 \pm 3 8 0 ^ { \cdot }$ 粒 $\mathbf { \chi } _ { \mathbf { m } } ^ { \prime }$ 和( $5 9 0 5 { \scriptstyle \pm 7 7 8 }$ 粒 $/ \mathrm { m } ^ { 2 [ 1 3 ] }$ ,而科尔沁沙地的藓类结皮和藻类结皮土壤种子库密度分为4147 粒/ $\mathbf { \bar { m } } ^ { 2 }$ 和99粒 $/ \mathbf { m } ^ { 2 [ 3 3 ] }$ 。这说明不同地区生物结皮覆盖区的土壤种子库密度差异较大,这可能是由于研究区不同气候条件、不同结皮类型及不同植被类型造成的。土壤种子库的组成及数量特征不仅与地理区域、植被类型、地形特征紧密相关,还与该地区的植被自身繁殖模式有重要关系[34]。一些草本植物层片相当发达,在繁殖时通常采用r策略,会产生大量的小种子,这极大地提高了土壤种子库的密度[29」,造成了各地区土壤种子库密度间的差异。
+
+对种子而言,不管其大小形状如何,大多数可以轻易地被风和水在干燥、光滑的土壤表层搬运,最终停留在相对粗糙的区域[10.35]。生物结皮改变了土壤表层的微形态特征及粗糙程度,进而影响了植物种子的传播与再分配过程,生物结皮表层的粗糙程度直接影响种子被捕获的几率[10]。在以色列 Nizzana 沙地,Prasse 和Bomkamm[14]通过野外和室内试验发现,蓝藻结皮会分泌一些物质使土壤表层光滑化,种子在光滑的结皮表层停留能力很低,进行干扰破坏使蓝藻结皮表层粗糙化后,种子在土壤表层的捕获与停留明显增加。苏延桂等[12]也发现,随着苔藓结皮的发育,土壤种子库密度呈增加趋势,推测可能是由于随着生物结皮的发育,土壤表层更为粗糙导致的。本试验表明,藓类结皮和地衣结皮虽然在土壤种子库总密度上的差异并不显著,但是在0—2cm土层中,地衣结皮土壤种子库的密度显著高于藓类结皮。这说明地衣结皮的表层含有更多种子，表层更为粗糙的地衣结皮对种子的捕获能力要高于藓类结皮。此外,两种生物结皮土壤种子库的密度显著高于裸沙,这可能不仅是由土壤表层粗糙程度的差异导致的,还与各种覆被类型地上植被的盖度有着重要的关系。小尺度下,多数荒漠地区植物的种子选择就近传播[35」,种子库的来源主要是地上植被的种子雨,地上植被的组成及密度对地下土壤种子库的组成及密度存在很强的反馈作用[5]。而生物结皮的存在提高了表层土壤的水分及养分含量,为草本植物的生长提供了良好的条件19],地上植被调查结果也表明,生物结皮覆盖区的植被盖度及密度明显高于裸沙覆盖的区域。因此,相较于裸沙,生物结皮覆盖区的植物可能会产生更多的种子,从而提高了该区域土壤种子库的密度。
+
+# 3.2生物结皮对土壤种子库组成及物种多样性的影响
+
+从土壤种子库的物种组成来看,藓类结皮和地衣结皮的土壤种子库共发现了4种植物,低于裸沙上的6种植物。从物种多样性来看,覆被类型由裸沙到地衣结皮和藓类结皮的演替会降低土壤种子库的物种多样性。相较于裸沙,生物结皮的存在虽然增加了土壤种子库的密度,但减少了土壤种子库的物种数目。这与陈荣毅等[36] 苏延桂等[12] 郭轶瑞等[33]的研究结论较为一致。这可能是由于生物结皮的存在对一些植物的种子造成了传播制约（dispersal limitation）和建植制约（establishment limitation）,限制了这些物种在结皮上的分布。 I人7
+
+生物结皮在土壤表层形成一道致密的壳状或毛垫状的结皮层,它不仅通过改变土壤表层的粗糙度来影响植物种子的捕获和停留[10],还改变了植物种子的二次传播(secondary dispersal)过程。一些缺乏埋藏机制的种子尤其是大种子,即便在初始传播(primary dispersal)时散布到结皮层上,也很难在完整均一的结皮层上找到安全的停留点位。在风和水的作用下,裸露在地表的种子主要汇集到粗糙的灌丛下或动物巢穴周边,而在结皮上的散布量很低[15]。另一方面,相比较无生物结皮发育的区域,生物结皮的发育为啮齿动物、鸟类、昆虫、土壤动物等物种的定居提供了适宜的生境[25]。这些荒漠动物参与并改变了植物种子的传播过程[37]。生物结皮在土壤表层形成一道致密的结皮层,植物的种子尤其是体积较大的种子散布到结皮表层后很难及时被掩埋,裸露在地表,很容易被一些鸟类、啮齿类动物及昆虫捕食。相较于小种子,大种子有着更大的被捕食几率[38],并且荒漠动物对植物种子的取食具有选择性[38-39]。生物结皮的存在阻碍了一些植物种子的掩埋,增强了这种选择效应,动物的食性选择可能也是导致了生物结皮土壤种子库物种组成及多样性较低的原因之一。
+
+另外,生物结皮的存在抑制了一些植物的种子萌发及幼苗定居过程[17-18,40],减少了这些植物的种子在结皮上的分布,进而降低了土壤种子库与地上植被的相似性。Briggs 和 Morgan[17]发现,藓类结皮抑制了较大种子植物Austrodanthonia sp.的萌发,却促进了小种子植物Vitadinia gracilis 的萌发,这可能是由于小种子较于大种子而言,与土壤有更大的接触面积。沙坡头人工植被区的小画眉草和油蒿种子较小,很容易在生物结皮上找到萌发的安全点位（safe site）,结皮层下良好的水分养分条件也促进了这些浅根系的植物生长,进而增加了这些植物的种子在生物结皮上的分布。而地衣结皮层形成的物理屏障阻碍了雾冰藜幼苗的根与土壤接触，限制了其幼苗的定居,减少了这些植物种子在结皮上的分布,进而降低了物种多样性[18]。
+
+概括的讲,生物结皮强烈地改变了土壤表层的结构形态特征，进而改变了种子的初始传播及二次传播过程。生物结皮通过多种方式,有选择的对植物种子进行捕获、停留,改变了土壤种子库的物种组成,进而再通过对植物的种子萌发及幼苗存活的促进或抑制作用,改变了地上植被的群落结构组成。生物结皮通过这种“筛选作用”,直接或间接地改变了土壤种子库及地上植被的群落组成。
+
+# 3.3生物结皮对土壤种子库垂直分布的影响
+
+对于荒漠生态系统,绝大多数有活力的种子都分布在表层土壤[21,27],表层 $5 \ \mathrm { c m }$ 以下有活力的种子很少,而占据表层土壤的生物结皮层厚度一般在 $2 \ \mathrm { c m }$ 以内,因此本研究选取了0—2、2—5、5—10 cm3个土层研究土壤种子库的垂直分布。
+
+土壤种子库垂直分布特征是由种子的形态、大小特征和土壤结构、土壤粒径大小、动物干扰及其他物理过程共同决定的,成因较为复杂[20.41]。Bekker等[20]分析了欧洲9个地区土壤种子库垂直分布的研究结果,发现种子的形状、大小和其在土壤中的分布密切相关,小粒种子多分布在土壤表层,易于形成持久种子库。Guo等[41]探讨了北美4个沙漠地区土壤种子库的空间分布特征,发现在水平分布上,随着距灌丛距离的增加,土壤种子库的密度随之减小,在垂直分布上,土壤种子库的密度随着土壤深度的增加而减小,大种子和小种子在表层土壤分布较多，中等大小的种子则大多分布在较深层土壤。（
+
+本研究表明,3 种覆被类型的土壤中有活力的种子主要分布在表层土壤,其中藓类结皮覆盖的土壤中有活力的种子主要分布在0一 ${ - 5 \ \mathrm { c m } }$ 土层中,而地衣结皮覆盖的土壤和裸沙中有活力的种子主要分布在0—2cm土层中,这与Yan等[21]、李宁等[27]人的研究结论较为一致。而邢旭明等[13]发现在古尔班通古特沙漠,生物结皮发育的区域0一 $\cdot 2 \ \mathrm { c m }$ 土层中的种子数目可占土壤种子库总数的 $9 0 \%$ 以上。这可能是由于研究区域不同气候条件、不同植被类型、不同结皮类型所导致的。在空气干燥的荒漠地区,生物结皮的存在会使地表形成一些微小的裂缝，一些小粒种子在风和水的作用下很容易被这些裂缝捕获,从而进入较深层土壤[42]。降水事件也会改变种子在土壤中的空间分布格局[43],本研究区的年均降水量约为 $1 8 0 ~ \mathrm { m m }$ 远高于古尔班通古特沙漠研究区的 $8 0 ~ \mathrm { m m }$ ,在一定强度的降水下,一些小种子植物如小画眉草和油蒿的种子可能会更容易沉淀到结皮层下。此外,人工植被区结皮层下的种子可能是多年前随着生物结皮发育而遗留下来的。藓类结皮作为人工植被区生物结皮演替的高级阶段,是在藻类和地衣植物改善地表生境的基础上发育而来[44]，一些种子随着生物结皮的发育被保留下来。藓类结皮 $2 { \mathrm { - } } 5 \ \mathrm { c m }$ 土层中有活力的种子数目高于地衣结皮和裸沙,可能是由于藓类结皮在形成过程中对其他结皮的覆盖所致。
+
+生物结皮在土壤表层形成毛垫状或壳状的结皮层,不仅改变了生物结皮上种子的传播过程,也改变了结皮层下种子的命运。一些荒漠植物的种子具有分批萌发的特性,可以在多个生长季节萌发从而分担环境震荡的风险,这是其对多变荒漠环境的进化适应[29]。随着生物结皮的发育,这些植物的种子逐渐沉淀到深层土壤,形成持久种子库,对荒漠生态系统稳定性的维持具有重要意义。在重力及其他外力的作用下,种子在土壤中的移动是缓慢的,因此,深层土壤的种子年龄一般大于浅层土壤[42]。生物结皮层下有较高比例有活力的种子,这可能是因为生物结皮的存在改善了种子的贮藏条件。结皮层下分布的植物种子如油蒿,在萌发时需要一定强度的光照[45],而生物结皮的存在降低了表层土壤的透光性,进而抑制了这些植物种子萌发,促使它们形成持久种子库[24,46]。种子在土壤中持久性不仅与种子自身的生物学特性有关,还与种子在土壤中所处的环境密切相关[47-48]。在干燥的荒漠地区,温度是影响种子寿命的重要因素,相较于裸沙,致密的生物结皮层降低了土壤亚表层的温度,还阻碍了结皮层下土壤与地表的气体交换,使得结皮层下形成一个低温缺氧的微生境,有利于深层土壤种子的贮存。另外,有研究表明N、P、K 等养分的添加会增加种子的寿命[47]。生物结皮中的生物体通过固氮、光合、呼吸、分解和矿化作用,为贫瘠的荒漠系统输入大量的生命元素,显著增加了土壤养分的含量[7-8],这可能会增加生物结皮覆盖区域土壤种子库的持久性。此外,生物结皮的存在提高了表层土壤含水量,含水量的提高会减少种子的寿命[48],但在干旱的荒漠地区,水分可能不是影响种子寿命的主要环境因子。生物结皮的发育增加了土壤动物和微生物的种类和数量,这些生物因子也会影响种子的寿命[49],但具体影响作用有待于进一步研究。
+
+# 3.4土壤种子库与地上植被的关系
+
+土壤种子库与地上植被的相似性主要取决于地上植被中的优势种对土壤种子库的贡献程度[5」,两者间的组成及密度有着很强的相互作用关系[50]。随着降水梯度的增加,土壤种子库与地上植被的相似性有降低的趋势,这主要是由于土壤种子库中的优势种一般为草本植物,而随着降水梯度的增加,这些植物在地上植被中的优势度逐渐降低所致[51]。本研究中,小画眉草为3种覆被类型土壤种子库中的优势种,藓类结皮、地衣结皮及裸沙的土壤种子库与地上植被组成的相似性系数分别为0.40、0.50、0.75。相较于裸沙,2种生物结皮覆盖区的土壤种子库与地上植被相似性较低,这可能是因为生物结皮的存在抑制一些植物的种子萌发及幼苗存活。Hermandez 和 Sandquist[16]发现,完整的生物结皮虽然促进了当地的3种1年生草本萌发,却抑制了外来种 Avena barbata 和 Bromus madritensis 的萌发,推测这可能是由于当地的3种1年生草本的可能在形态和生理上适应了生物结皮的存在,而外来种缺乏这种适应。在人工植被区,沙鞭的种子3种覆被类型的土壤种子库中均有发现,但在地上植被调查时发现,沙鞭仅分布在裸沙上,在生物结皮上没有分布,这说明生物结皮的存在可能抑制了该物种的定居。
+
+# 参考文献（References）：
+
+[1] 李新荣，赵洋，回嵘，苏洁琼，高艳红.中国干旱区恢复生态学研究进展及趋势评述.地理科学进展，2014，33（11)：1435-1443.  
+[2] BekkerRM,VerweijGL，BakkerJP,FrescoLFM.Soilseedbankdynamicsinhayfieldsuccesion.JouralofEcology，288（4):594-607.  
+[3]CffnDeoh.Satialtpalatdkof-dadAcaalfota8()53-58.  
+[4] 马君玲，刘志民．植冠种子库及其生态意义研究.生态学杂志，2005，24(11)：1329-1333.  
+[5] 于顺利，蒋高明.土壤种子库的研究进展及若干研究热点.植物生态学报，2003，27（4)：552-560.  
+[6] 沈有信，赵春燕.中国土壤种子库研究进展与挑战.应用生态学报，2009,20(2）：467-473.  
+[7] BelnapJ.Surfacdisturbacs：eiroleinceleratingsertfatioEnvoetalitongndsessnt，,(）：9-7.  
+[8] Belnap J,LangeOL.Biological Soil Crusts；Structure,Function，and Management.Springer Berlin Heidelberg，2003.  
+[9] WestNE.StrutureductoofcoptlustsindostsfdtdgiosAdcsincoloalsah1990,20:179-223.  
+[10] 李新荣，张元明，赵允格.生物土壤结皮研究：进展、前沿与展望.地球科学进展，2009,24(1)：11-24.  
+[11]HarperK,edeRLCyaobacteadclsaaeaalablftlalsogplantsWAmerican Naturalist，1993，53(1)：59-72.  
+[12］苏延桂，李新荣，贾荣亮，潘艳霞.腾格里沙漠东南缘苔藓结皮对荒漠土壤种子库的影响.应用生态学报，2007，18（3）：504-508.  
+[13］邢旭明，马晓东，张元明.古尔班通古特沙漠生物土壤结皮对土壤种子库多样性与分布特征的影响.生态学杂志，2016，35（3)：612-620.  
+[14] PrasseR，BorkammR.Efect ofmicrobioticsoilsurfacecrustsonemergenceofvascularplants.PlantEcology，Ooo,15(1):65-75.  
+[15]LiXR,JiaXH,gLQ,ZerbeSfetofolgcallustsdbakgeaiodtablistoftoalplantseisinthe Tengger Desert（N China）.Plant and Soil,2005，277(1）：375-385.  
+[16]HeaneRR,adustD.DistubaceofologcalilusteassergeceofoticvsularplantsinCifoasgubantEcology，2011,212（10）：1709-1721.  
+1]rgJacelehectaofdodspao2010,212(1):91-103.  
+[18] 龙利群，李新荣.土壤微生物结皮对两种一年生植物幼苗存活和生长的影响.中国沙漠,2003，23(6)：656-660.  
+[19] 张元明，聂华丽.生物土壤结皮对准噶尔盆地5种荒漠植物幼苗生长与元素吸收的影响.植物生态学报，2011，35(4)：380-388.  
+[20] BekerRM,kkerJradinU,Kalameesibe,oschopsonK,lsHdi,apandverticalsoin the soil;indicators of seed longevity.Functional Ecology，1998,12(5）：834-842.  
+[∠1」Ian QL,Liu Z M,Znu JJ,Luo I M，Wang H M,JIang D M.Suructure,pattern and sanaaunesystemsin northeastern Inner Mongolia，China.Plant and Soil,2005,277(1）：175-184.  
+22]OlanoJabalsulsnoeyuoeidlaexpeediadditeeaeaioAnnals of Botany，2012，109(1）：299-307.  
+[23]Kalisz S,McPeek MA.Extinction dynamics，population growth and sed banks.Oecologia，1993,95(3）:314-320.  
+[24]PakeCE,enablSnksieraalspcatiosfisteedcoeisteceinablevirontsEolo6,77(5):1427-1435.  
+[25］李新荣，肖洪浪，刘立超，张景光，王新平.腾格里沙漠沙坡头地区固沙植被对生物多样性恢复的长期影响.中国沙漠，2005，25（2)173- 181.  
+[26] 滕嘉玲，贾荣亮，胡宜刚，徐冰鑫，陈孟晨，赵芸.沙埋对干旱沙区生物结皮覆盖土壤温室气体通量的影响.应用生态学报，2016(3): 723-734.  
+[27] 李宁，冯固，田长彦.塔克拉玛干沙漠北缘土壤种子库特征及动态.中国科学D辑：地球科学,2006,36(S2)：110-118.  
+[28] 秦佳梅，张卫东，赵书巍.返魂草种子休眠机理及处理技术研究.种子，2006，25(2)：4-5.  
+[29] 张景光，张志山，王新平，李新荣，王桑，马风云.沙坡头人工固沙区一年生植物小画眉草繁殖分配研究，中国沙漠，2005，25（2)：202-206.  
+[30] 杨磊，王彦荣，余进德.干旱荒漠区土壤种子库研究进展.草业学报，2010，19(2)：227-234.  
+[31] LiXR,ZhangZS，HuangLWangXReviofteodrologcalprocesesdfedackehasotrllngd-bingnsystems in sandy desert regions of China. Chinese Science Bulletin，2013,58(13）：1483-1496.  
+[32] 崔艳，王新平，潘颜霞，王正宁，戚鹏程.天然固定沙地不同微生境下土壤种子库差异.生态学报，2010，30（8)：1981-1989.  
+[33] 郭轶瑞，赵哈林，左小安，王少昆，张佳文.科尔沁沙地生物结皮的土壤种子库特征.水土保持学报，2007,21（6)：187-191.  
+[34] 尚占环，任国华，龙瑞军.土壤种子库研究综述一 规模、格局及影响因素.草业学报，2009，18(1)：144-154.  
+[35] 李儒海，强胜.杂草种子传播研究进展.生态学报，2007，27（12)：5361-5370.  
+[36] 陈荣毅，魏文寿，张元明，吴楠，张静.干旱区生物土壤结皮对种子植物多样性的影响.中国沙漠，2008，28（5）：868-873.  
+[37] 陈应武，李新荣，苏延桂，窦彩虹，贾晓红，张志山.腾格里沙漠人工植被区掘穴蚁（Fomica cunicularia）的生态功能.生态学报，2007,27(4): 1508-1514.  
+[38]SimpsonSJ，SiblyRM,LeeKP，BeherST，RaubenheimrDOptialforagingwenregulatingintakeofmuliplenurintsAnimalBehaviour,2004,68（6）：1299-1311.  
+[39］刘文亭，卫智军，吕世杰，孙世贤，贾利娟，张爽，王天乐，代景忠，卢志宏.荒漠草地植物多样性对草食动物采食的响应机制.植物生态学报，2016,40(6)：564-573.  
+[40] Pando-MoreoolinaV,uradoEesJftofolgcalslustsohiatiofeeplatspesudboadioBotanical Sciences，2014,92(2):273-279.  
+[41]GuoQFundelodallDraldertalstrtiofesaesusplcatsalEnvironments，1998,38(3）:465-478.  
+[42]EspinarJosonKaLigofddispesalgeratesaldkepthstrtiAanJoalota,92(10) : 1759-1763.  
+[43]Ocho-uaeEactsdpreiieposiodplantopetdiealfVegetation Science，2014,25(5）: 1289-1298.  
+[44] 张元明，王雪芹.荒漠地表生物土壤结皮形成与演替特征概述.生态学报，2010，30(16)：4484-4492.  
+[45］郑明清，郑元润，姜联合.毛乌素沙地4种沙生植物种子萌发及出苗对沙埋及单次供水的响应.生态学报，2006,26(8)：2474-2484.  
+46]ODoeJsKifoesiadesialtFreshwater Biology，2014,59(1):100-113.  
+[47]BekerRKeveICloinJBR,E,akrJilutrientieselogeitlexpeitiemeadow species.Functional Ecology，,1998,12(4）: 673-682.  
+[48] MiraS,EstresEoiEofateteeaueloviyaceesssfstorage.Plant Biology，2014，17(1）：153-162.  
+[49]Mohaed-YseenYaigerS,SplitstoeserWE，CostaaS.heoleofeoatsidviabilityTeBotaalevi994,6(4): 426-439.  
+[50]HolzapfelC，SchmidtW,ShmidaA.eoleofseedbankandsdaininterecolozatioofdisturbedsitesaloganaridityadient.Phytocoenologia，1993,23（1/4）: 561-580.  
+[51]KlasR,Zbel.efhigenatiiareouassaitolg4)：.

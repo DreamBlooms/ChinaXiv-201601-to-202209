@@ -1,0 +1,684 @@
+[
+    {
+        "type": "text",
+        "text": "基于BIM技术的施工工艺管理平台研究及应用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈滨津，于鑫，李鑫，蒋绮琛，姚守俨 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（中国建筑第八工程局有限公司上海市 200122）",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：近年来，动态施工工艺展示技术在工程实践中发挥了日益重要的辅助建造作用。针对动态施工工艺创建技术门槛较高、集成管理难度大、复用程度低的技术现状。本文从多源数据参数共享的角度，实现了动态施工工艺的快速、精准创建。同时，结合软件工程学的方法，研发了基于 BIM技术的施工工艺管理平台，实现了动态施工工艺的企业级的集中创建和集成管理，有效助力了现场管理。工程实践显示：基于BIM技术的施工工艺管理平台能够实现施工工艺的集成管理和广泛复用，具有极好的应用前景。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：BIM技术；多源数据参数共享技术；施工工艺管理平台",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research and Application of Construction Process Management Platform Based on BIM Technology ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chen Binjin,Yu Xin,Li Xin,Jiang Qichen,Yao Shouyan (China Construction Eighth Engineering Division Corp.,LTD,Shanghai, China，200122） ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract : In recent years,dynamic construction process display technology has played an increasingly important role in engineering practice.In practice,dynamic construction process has the following technical characteristics,such as difficult to create,difficult to integration management and low degree of reutilize. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Focusing on the above technical characteristics，this paper adopts a novel multi source data sharing technology and develops a construction process management platform based on BIM and dynamic construction technology which realize the enterprise-level centralized creation and integration management of dynamic construction technology and assist the on site management effectively. Engineering practices show that the construction process management platform can realize integrated management and extensive reuse of construction process and have an excellent application prospect. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words : BIM technology； Multi-source data parameter sharing technology ； Construction processmanagement platform",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一、引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着工程建设水平的不断提升，BIM技术在工程建设行业的普及程度也愈加广泛。大量工程实践显示：BIM 技术为工程建设行业赋予了全新的科技生命力[1]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2016年，在国家住房和城乡建设部主导编制的《中国建筑行业信息化发展报告》中，面向工程建设行业针对BIM技术的“应用覆盖程度”和“应用价值受认可程度”进行了广泛调研，调研结果显示：BIM技术在施工工艺展示中的应用是目前工程建设行业“应用覆盖程度最广”、“应用价值受认可程度最高”的应用内容[2]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在工程实践中，传统的施工工艺展示多以“静态展示”为主，这一展示方式存在着一定的技术不足。如：展示的维度不足，“静态展示”难以全面反映施工工艺中的技术、质量管控要点，对于施工工艺中蕴",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "[基金项目」国家重点研发计划项目“绿色施工与智慧建造关键技术”(2016YFC0702100)",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈滨津，1978年出生，男，天津市人，工学博士，高级工程师，主要从事施工领域BIM研发与应用工作，chenbinjin@cscec.com，13818936687",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "含的丰富而复杂的逻辑顺序、穿插时机等核心要素更是无法全面反映。在这一背景下，以3Ds Max为代表的“视频展示”逐渐成为施工工艺展示的主流方式。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着工程实践的深入：“视频展示”在工程建造中发挥了日益显著的辅助建造作用；但同时，这一展示方式在应用过程中也存在着如下的技术瓶颈，如：“视频展示”的创建技术门槛较高、“视频展示”成果的集成管理难度大、复用程度低，尤其是“视频展示”成果往往同BIM数据相分离，造成这一展示方式在工程实践中的应用受限[3」。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，如何将“静态展示”和“动态展示”深度融合，充分发挥二者的技术优势；如何基于现代信息技术，在降低“视频展示”的创建技术门槛的同时，实现施工工艺的集成管理和广泛复用，已经成为工程建设行业的新需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "二、多源数据参数共享技术研究",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "参数共享是 BIM技术的显著技术特征，也是BIM技术在工程建设全过程得以充分发挥其辅助建造作用的基础[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于工程实践我们发现：多源数据之间的参数共享能力不足，是造成基于BIM技术的施工工艺管理平台发展缓慢的主要技术制约。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对这一技术难题，我们对基于 Suite工作流的施工工艺参数共享技术进行了研究，从前端数据准备的角度，探索出一条适合于基于BIM技术的施工工艺创建的多源数据参数共享途径，为基于BIM技术的施工工艺管理平台研究及应用夯实基础。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1、基本原理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究中我们以BIM数据为源数据，以3Ds Max数据为目标数据，以Suite工作流为参数共享媒介，通过参数导出和传递，实现二者之间的参数共享。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2、实现流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在实现流程上，基于Suite工作流的多源数据参数共享实现流程如下所示：",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/09fd0ad404be2d6e5403ab10cb09abdc8869301e6a0fcf4ab1f8baef1df0674a.jpg",
+        "img_caption": [
+            "图1实现流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3、实现方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在具体实现上，基于Suite工作流的多源数据参数共享技术包括如下步骤：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)Suite工作流的创建",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Suite 工作流是Autodesk 提供的一种直接内嵌在 Autodesk 产品中的参数共享媒介。在使用过程中，Suite工作流将随着 Autodesk产品自动安装，Suite工作流可以在版本相同的 Autodesk 产品之间实现参数共享。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[在此处键入] ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d00bb55ce2087f6aa2825d81639e7844257f81388508c87a2dc45c1f3306755.jpg",
+        "img_caption": [
+            "图2Revit环境下Suite工作流的创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fdcfa78bb222612eb0939a6b247de0f2c4ae891be373b09afb5acb6567e2b1b.jpg",
+        "img_caption": [
+            "图3参数导出"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)参数导出",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第2步是参数导出。Revit环境下的参数导出包括：源数据和目标数据之间链接关系的导出；链接关系导出的意义在于：当源数据中的参数发生变化时，Suite工作流会将这一变化传递到目标数据。此外，Revit环境下的参数导出还包括材质属性、灯光属性、相机属性的导出。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)参数传递 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第3步是参数传递。3Ds Max环境下的参数传递用于实现参数从源数据到目标数据的传递。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d4d10c58e18fb12b8b6592cb9eabd532e5c5093523755d91af26cb1e19d9fdc.jpg",
+        "img_caption": [
+            "图4参数传递"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "至此，完成了基于Suite工作流的多源数据参数共享全过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4、性能分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "目前，除基于 Suite工作流的方法之外，常用的多源数据参数共享技术还包括基于中间媒介 （DWG、FBX）的方法和基于直接链接第方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "这里，将从参数共享效果、工作效率2个角度对基于 Suite工作流、基于中间媒介（DWG、FBX)、基于直接链接这3种多源数据参数共享技术的性能进行分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1、参数共享效果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "工程实践中，我们基于100 余个 BIM数据和 3Ds Max 参数共享样例，对上述3种参数共享技术的效果进行分析，分析结果如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/80b697577512fc7678d1d57dcbc9114a9b95d48c385e566c73087c953af5e3a2.jpg",
+        "table_caption": [
+            "表1参数共享效果分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>序号</td><td>数据共享方式</td><td>构件类型</td><td>构件数量</td><td>构件尺寸</td><td>工艺继承</td></tr><tr><td>1</td><td>Suite工作流</td><td>√</td><td>√</td><td>√</td><td>√</td></tr><tr><td>2</td><td>DWG</td><td>√</td><td>√</td><td>√</td><td>×</td></tr><tr><td>3</td><td>FBX</td><td>√</td><td>√</td><td>√</td><td>×</td></tr><tr><td>4</td><td>直接链接</td><td>√</td><td>√</td><td>√</td><td>×</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从表中可以看出：基于 Suite工作流、基于中间媒介（DWG、FBX)、基于直接链接这3种多源数据参数共享技术均可以将BIM数据中的构件类型、构件数量、构件尺寸传递到 $ { 3 \\mathrm { D s } }  { \\mathrm { M a x } }$ 数据中；但在工艺视频[在此处键入]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "继承方面，只有 Suite 工作流能够实现工艺视频继承，也就是说，和其它3种参数共享技术相比，Suite工作流在提升BIM模型的复用程度方面具有显著的技术优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、工作效率分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "目前，从源数据到目标数据之间的参数共享包括 BIM数据整理、转换设置、3Ds Max数据整理、材质添加4个环节。这里，将从上述4个环节所花费的时间，对基于Suite工作流、基于中间媒介(DWG、FBX)、基于直接链接这3种多源数据参数共享技术的性能进行分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a192b250c60a9f4a227bfdcac5138510fa2fc93b429064540c7029a36ebc1aeb.jpg",
+        "img_caption": [
+            "图54个环节的工作效率分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb09f509280de509dc919376ec2afde307169945f8715de9b19a84b7d07b4013.jpg",
+        "img_caption": [
+            "图6各种参数共享方式的整体工作效率分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从上图中可以看出，无论是整体工作效率还是4个环节的工作效率，和其它3种参数共享技术相比，Suite工作流在降低参数共享所耗费的时间、提升技术人员的工作效率方面显著的技术优势。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "三、基于BIM技术的施工工艺管理平台研究及应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "自2013年开始，我们面向各子企业，陆续举办了多期基于BIM数据和3DsMax 数据的施工工艺展示培训班，对施工工艺展示在在建工程中的创新应用、普适性应用进行了探索。随着工作的持续深入，我们发现：一方面，各子企业均不同程度的创建、积累了一批基于BIM数据和3DsMax数据的施工工艺成果;另一方面，由于BIM技术发展的不平衡性、由于业务领域的多元化，各子企业所创建、积累的基于BIM数据和3Ds Max 数据的施工工艺成果存在着如下的特征：其一是成果的创建水平具有较大的差异，标准化程度不一；其二是各子企业存在着相当程度的重复创建的现象；其三是成果的存储方式为“离散存储”，不利于成果在现场之间、在企业内部的共享、流转和集中管控。针对上述问题，我们将对基于BIM技术的施工工艺管理平台进行研发，实现施工工艺的集成管理和广泛复用[5][6]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1、基本原理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "研究中，我们以Java为程序设计语言，从企业集中管控的角度，对基于BIM技术的施工工艺管理平台进行研发，实现全局成果的集成管理和广泛复用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2、实现流程",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实现流程如下所示：",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/614ef3e3ace20620454c18e0181ee402c28eb7afd5d7523aa1344f78ea8f3df9.jpg",
+        "img_caption": [
+            "图7基于网络架构的施工工艺管理平台实现流程",
+            "图8施工工艺目录"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3、实现方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1、施工工艺数据创建",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在具体实现上，施工工艺数据创建包括如下步骤：(1）邀请现场的技术人员，依据施工工艺的先进性、复用性梳理出多专业的施工工艺目录。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.7-15 305 子系统通信接口  \n176 国面卷材防水局 306 火灾和可燃气体探测系统  \n177 屋面涂腰防水层  \n178 星面石港蕉土防水层 307 火警报警控制系统  \n179 雨水营、安形缝等细部制作安装 309 消防联系统 智能建筑  \n180 平瓦园面 建筑屋面  \n181 油毡瓦屋面 310 入侵报警系统  \n182 间瓦屋面 311 巡更系统  \n183 金属板屋面 312 出入口控制（门禁）系统  \n184 荣空原面 313 停车管理系统  \n185 苗水屋面 314 缆线敷设和终接  \n186 种镇屋面 315 机柜、机架、配线架的安装  \n18 火术安 317 信息插座缆终端安装  \n190 管道防脑、绝热 318 实时数据库  \n191 排水管道及配件安装 319 信息安全、功能接口  \n192 雨水管道及配件安装 320 智能建筑电源  \n193 管道及配件安装 321 智能建筑防雷及接地  \n194 辅助设备安装 322 空间环境  \n195 设备防腐、绝热 323 室内空调环境  \n6719 E 328 火灾自动要发防联动系统  \n200 管道及配件安装 327 安全防范系统  \n201 金属辐射板安装 328 物业管理系统 智能建筑  \n203 204 低温热统水压试射及调系统安装 统试及试 建筑给排水及采 暖 329 330 智能家信平台 送排风系统  \n205 给水管道安装 332 除尘系统  \n206 消防水泵接合器及室外消火栓安装 333 空调风系统 通风与空调  \n207 及配件安装 334 净化空调系统  \n209 系统水压试验及调试 335 制冷设备系统  \n210 设备防腐、绝热 336 空调水系统  \n211 建筑中水系统管道及辅助设备安装 337 电力驱动电引式或强制式电梯安装  \n212 泳池系统安装 338 液压电梯安装 电梯  \n213 锅炉安装 339 自动扶梯自动人行道安装",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）依据施工工艺目录，进行文字交底样板的编制。在编制的过程中，注重“依据标准、施工准备、工艺流程、施工方法、质量要求及保障措施、注意事项、成品保护、安全文明施工”方面的规定，研发团队依据上述规定进行文字交底样板的编制，形成文字库。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "分项工程技术交 表格编号CSCEC8-AS-SG-0000工程名称 xx项目 工单位 sr交底部位 层翻体 分项工程名称 气交届日期 J 负责 −交提要 1.交属飲据2睡工准备3工艺流程4.施工方法5盾里赛求6注意事项7.成品保护安全文明工交属内容；1.依据标准《勒排工程施工断量验收规范8（GB50203-2002）体工程专项方案施工图账图纸会审记录及设计变更2 施工准备工作2.1材料准备外蓬采用200厚B06级A3.5祭蒙压加气滋凝土翻块：袋装频拌砂浆。2.2砌筑前各项机具设备准备工作硬体工程及入的施工机具见表3.1.表2.1体工程投入的施工机具席号 项目 内11 电动自器 粘结制搅拌20 手接车 粘剑、块运3 手持切割机 开使用4 冲曲站 植用51 切割机 砂加气块切割67 刮匀 璐式增体7 机械设备 皮 筑增体校正用81 线坠 掉增体垂直度9. 手 切割器材料使用10) 角尺 别里11 钢出度板 技后未面部12 砂核 砌筑后表面园部维13 按情 管统预理与开147 尺 境体垂直度、平整度",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2271f6ea12c4337b3bf11445dbca10c847c837712b0dee27a8c9fa24e8908758.jpg",
+        "img_caption": [
+            "图9文字类数据的创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/06d322c9324b56446f76fb93bb51583d2ec52433ba70ded9ccc1fcccf3a2669b.jpg",
+        "img_caption": [
+            "图10文字类数据的创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ded3c0c80e1de31b5628a8294b551cb969e53246991db1760a88fa0ce39d0240.jpg",
+        "img_caption": [
+            "图11图片类数据的创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(3）对于常用的施工材料、施工机械进行总结，形成施工材料图片库、施工机械图片库。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4）集中各子企业的BIM技术骨干进行BIM模型样板、BIM族文件样板的创建。在创建的过程中，注重软件对样板的支撑作用，在此基础上，研发团队依据上述规定进行BIM 模型、BIM族文件的创建。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0067c043862f86882412936931028105f554543b99551790899ca10958e9629.jpg",
+        "img_caption": [
+            "图12企业BIM族库"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/933123c3e375ea041957e985d20a72f98a40092fe6ff8f12f029f151ce187996.jpg",
+        "img_caption": [
+            "图13BIM类数据的创建"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5）以BIM数据为源数据，进行基于BIM技术的动态施工工艺的创建，形成动态工艺库。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/51dc6b97910a7ab76814d6ef4539085c04f1e1b5df53764eef9bd8ee7a26ad20.jpg",
+        "img_caption": [
+            "图14动态视频库"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "至此，完成各类施工工艺数据的创建。在此基础上，将对施工工艺管理平台进行研发，实现对各类施工工艺数据的集成管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2、施工工艺管理平台功能介绍",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "依据面向对象的软件研发方法，我们以Java为程序语言，以BIM和3Ds Max为基础数据，进行施工工艺管理平台的研发[7][8]。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1708d16810a77e59121ea9075781842b7f9bb5522cee61bdc86d4ec3cecd96b.jpg",
+        "img_caption": [
+            "图15启动界面",
+            "图16整体功能"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "启动界面如上图所示。施工工艺管理平台，满足网页端、PC端、移动端3种使用方式。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/253ae5c8be3e338a7f1793f6138abd4dd39c15348c3a0b0b53c19251d9348198.jpg",
+        "img_caption": [
+            "图17各类施工工艺数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf5882c51d292e64ce7b3587641d41c32a9ce492a44666b47459b094b377a50a.jpg",
+        "img_caption": [
+            "图19图片类施工工艺数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/bffd1bccb0468f6664ef0661f9977c071aa507295368fbb843d49e84cdf8854f.jpg",
+        "img_caption": [
+            "图21动态视频类施工工艺数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/daae963098e4527a80098d308d9102cc33924ac6b29e3a10314734e2b7d5657c.jpg",
+        "img_caption": [
+            "图18文字类施工工艺数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b6819665e2645ae3f5dc5eda76540809c7c9d4f0428b3ddad8a9ccc4479bec6.jpg",
+        "img_caption": [
+            "图 $2 0 \\mathrm { B I M }$ 数据类施工工艺数据"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6710300cb3915091400a2ee0e7d031a556ab84a6b93ee363e68ee0f8b393b35.jpg",
+        "img_caption": [
+            "图22数据统计和分析"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "施工工艺管理平台以“文字 $^ +$ 图片 $^ +$ BIM数据 $^ +$ 动态视频”相结合为技术特征，从上述四大类数据资源相融合的角度，进行施工工艺数据的集中管控。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数据统计和分析功能如上图所示。基于这一功能，能够随时对用户的分布区域、各类施工工艺数据的下载数量等指标进行动态统计。基于数据统计和分析的结果，有针对性的确定后续的研发重点。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c1b4edd0db1c14474f7b4d85073e2aa117b1f225fb2affe687f0f604cdc7381.jpg",
+        "img_caption": [
+            "图23权限管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/74ad3032f9b7cd1143263666eb6e03b169d7e7d9848c114e022db9aade3b76ac.jpg",
+        "img_caption": [
+            "图24权限管理"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "基于授权码和员工编号，通过局总部和子企业2级认证审核机制，确保本子任务研发成果的数据安全。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[在此处键入] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "四、工程实践",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "目前，阶段性的研发成果面向各子企业进行广泛的培训、试用和推广，并依据现场应用情况对研发成果进行修正。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文以青岛新机场、重庆来福士、柬埔寨体育场项目为列，先后在40余个项目进行工程实践。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/158aad88ee5fb680f57f0b2c0306dc62980da3b76b768a40f134730bd7a1b2cc.jpg",
+        "img_caption": [
+            "图25施工工艺平台应用在青岛新机场项目中的应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/535934bc55bb4f6d1a775261445d1b5ba85fcf8cf543fcb0450858a036e82970.jpg",
+        "img_caption": [
+            "图26施工工艺平台应用在重庆来福士项目中的应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e4bd2613ba42d620297a47b3fc2f7baff487c4b86636fb622322e76fae41ef1.jpg",
+        "img_caption": [
+            "图27施工工艺平台应用在柬埔寨国家体育场项目中的应用"
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "工程实践显示：无论是投标阶段还是建造阶段，无论是面向企业员工的业务技能提升，还是面向劳务班组的精准交底，本成果均发挥了显著的辅助功效和推广应用前景，受到了工程各参与方的普遍好评。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "五、结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文从工程实践的需求出发，基于Suite工作流实现了BIM数据和3Ds Max 数据的施工工艺参数共享和数据复用。在此基础上，自主研发了基于 BIM技术的施工工艺管理平台。工程实践显示：基于BIM 技术的施工工艺管理平台能够实现施工工艺的集成管理和广泛复用，具有极好的应用前景。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "六、参考文献",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] BIM技术在土木工程施工领域的应用进展、隋振国、同济大学土木工程学院、《施工技术》、2013 (S2)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2] BIM在工程施工中的应用、张建平、清华大学土木工程系、《施工技术》、2012(16)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3]BIM技术贵在深度应用、马智亮、清华大学土木工程系、《建筑》、2015(17)",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[4]建筑信息模型技术在地下输电工程结构设计中的应用、陈明、上海交通大学船舶与建筑工程学院、《工业建筑》、2016(12)。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[在此处键入] ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[5]BIM技术在混凝土球壳配筋中的应用、刘天居、上海交通大学土木工程系、《空间结构》、2018 (01)。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[6]BIM技术在虹梅南路越江隧道工程中的应用、张天雨、同济大学建筑设计研究院（集团）有限公司、《城市住宅》、2016(08)。[7] 基于BIM的毛石装饰墙虚拟砌筑系统研制、马智亮、清华大学、《土木建筑工程信息技术》、2015 (02)。[8] 基于 BIM 技术的建筑信息平台的构建、李犁、上海交通大学土木工程系、《土木建筑工程信息技术》、2012(02)。",
+        "page_idx": 9
+    }
+]

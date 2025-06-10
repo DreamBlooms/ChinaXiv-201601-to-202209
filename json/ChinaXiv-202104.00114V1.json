@@ -1,0 +1,433 @@
+[
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛对植物群落和土壤微生物群落的促进效应研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张鹏，李颖，王业林，宋承承，高芳磊，解李娜，马成仓(天津师范大学生命科学学院,天津市动植物抗性重点实验室，天津300387)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以内蒙古荒漠区短脚锦鸡儿灌木为研究对象,采用野外调查法分析灌丛对植物群落的影响,采用传统培养法,结合分子鉴定法分析灌丛对土壤微生物群落的影响。结果表明:(1)灌丛内植物群落多度和总生物量显著大于灌丛外,但是物种丰度和Shannon-Wiener指数灌丛内外无显著差异;（2）随土壤深度的增加,表层土与深层土的土壤可培养细菌丰度和真菌多度差异不显著，其余土壤微生物群落多样性特征均表现为:表层土显著大于深层土;（3）灌丛对土壤微生物群落具有正效应，且表层土正效应最大；（4）灌丛对植物群落的促进作用大于对土壤微生物群落的作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：短脚锦鸡儿(Caragana brachypoda)；灌丛化；土壤可培养微生物；肥岛效应；植物群落",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "灌丛化（woody encroachment or thickening）是指天然草原灌木的密度、盖度和生物量逐渐增加的现象。目前,灌丛化已成为全球干旱半干旱草原植被演替的普遍现象，以锦鸡儿属(Caragana)植物为主导的灌木扩增现象是我国内蒙古草原主要的景观变化特征。灌木的扩张必然会与草地中固有的草本植物相互作用，进而影响植物群落结构和功能3-。因此,灌木对草本植物的影响一直是灌丛化研究的主要热点。例如：灌木扩张显著降低了草地群落的物种多样性，也导致草本植物的生物量和盖度显著减少;灌木对林下草本植物具有促进作用，表现为从灌丛中心到灌丛外围，草本植物密度、高度、盖度和生物量均明显递减，在灌丛外不远处消失8-;也有研究表明，木本植物入侵草原后提高了物种多样性[。地下生物群落，比如土壤微生物群落，是土壤有机质分解和养分矿化等生态过程的主要驱动者。因此，灌丛化的研究热点逐渐从对植物群落的影响转向对地下生物群落。研究发现：灌丛具有明显的肥岛效应，导致灌丛内土壤微生物数量明显高于灌丛外，从而改善了土壤微生物群落结构和功能[1I-12]。虽然，灌木入侵对植物群落和土壤微生物群落均有显著影响，但灌木对其影响的相对重要性以及这种影响随着土壤深度如何变化研究较少。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "灌木对植物群落不同属性影响不同。研究发现：在北美地区草地灌丛化过程中，由于灌木入侵，植物群落物种丰富度降低[3],而一年生植物群落地上生物量、丰富度、幼苗密度增加[4];灌丛导致干旱环境中林下植物群落物种丰富度增加[15];灌木扩张显著降低了植被的物种丰富度、Shannon-Wiener多样性指数和Simpson多样性指数，但Pielou均匀度指数呈上升趋势,灌木显著降低了草本植物的生物量和盖度,但对密度影响不显著。土壤微生物群落是生态系统中的重要组成成分，灌木对土壤微生物群落不同属性的影响是否存在差异目前还不清楚。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿（C.brachypoda）,豆科，落叶灌木，高 $2 0 { \\sim } 3 0 ~ \\mathrm { c m }$ ,枝条短而密集并多针刺，具有致密灌幅，在荒漠草场保水、固沙等方面发挥着重要作用，同时还为动物提供食物和庇护。短脚锦鸡儿主要分布于内蒙古西部(阿拉善东、西部，西鄂尔多斯及巴彦淖尔盟北部)，宁夏、甘肃等地也有分布，是荒漠草原主要优势灌木[。在内蒙古草原典型荒漠区，短脚锦鸡儿的生物量、盖度和密度显著增加，形成明显的灌丛斑块和草本斑块的分布格局。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文在内蒙古典型荒漠区，选取短脚锦鸡儿灌丛斑块和无灌丛草地斑块作为研究对象，探究(1)灌丛如何影响植物群落;(2）灌丛对土壤微生物群落的影响随着土壤深度如何变化；(3）灌丛对植物群落和土壤微生物群落影响的相对重要性。通过研究加深了解草原灌丛化的生态效应。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于内蒙古高原荒漠区阿拉善左旗$( 3 7 . 8 7 ^ { \\circ } \\mathrm { N }$ ， $1 0 5 . 3 4 ^ { \\circ } \\mathrm { E }$ ,海拔 $8 0 0 { \\sim } 1 5 0 0 ~ \\mathrm { m }$ )。该地区气候类型为典型大陆型气候，以风沙大、干旱少雨、蒸发强烈为主要气候特点。年平均气温 $7 . 2 ~ \\mathrm { ^ { \\circ } C }$ ，无霜期 $1 2 0 { \\sim } 1 8 0 \\mathrm { ~ d ~ }$ ;年降雨量 $8 0 { \\sim } 2 2 0 \\ \\mathrm { m m }$ ;年蒸发量$2 9 0 0 { \\sim } 3 3 0 0 ~ \\mathrm { m m }$ ;年日照时间 $3 0 9 6 \\mathrm { ~ h ~ }$ ;年总辐射量$6 2 8 . 1 { \\sim } 6 6 9 . 9 \\ \\mathrm { k J } \\cdot \\mathrm { c m } ^ { - 2 }$ 。该地区的优势灌木为短脚锦鸡儿（C.brachypoda）,约占植物总盖度的 $20 \\% { \\sim } 3 0 \\%$ （未发表数据），其他植物种类包括灌木种垫状锦鸡儿（C.tibetica）、荒漠锦鸡儿（C.roborovskyi）、白刺(Nitraria tangutorum）沙蒿（Artemisia desertorum）木蓼（Atraphaxis frutescens）、半日花（Helianthemumsongaricum）猫头刺（Oxytropisaciphylla）;草本植物有沙生针茅（Stipa glareosa）、天门冬（Asparagus co-chinchinensis）、刺沙蓬（Salsolaruthenica）、地梢瓜(Cynanchum thesioides）蒙古黄芪(Astragalus mem-branaceus）。研究区土壤质地以疏松的砂质壤土或沙土为主。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1 植物群落调查2015年7月在灌丛化草地内随机选取5个短脚锦鸡儿灌丛，在每个灌丛内外(距离灌丛边缘 $2 \\mathrm { m }$ 以上)分别设置 $5 0 \\mathrm { c m } { \\times } 5 0 \\mathrm { c m }$ 小样方（灌丛内： $n { = } 5$ ;灌丛外： $\\scriptstyle n = 5$ )。调查样方内所有植物物种组成和密度，并将样方内物种齐地剪下，装袋带回实验室， $6 5 ~ \\mathrm { { ^ { \\circ } C } }$ 烘干至恒重，测定地上生物量。1.2.2土壤微生物群落调查在5个短脚锦鸡儿灌丛中选取3个灌丛，在灌丛内、外分别采集0\\~10$\\mathrm { c m } \\setminus 1 0 { \\sim } 2 0 \\ \\mathrm { c m } \\setminus 3 0 { \\sim } 4 0 \\ \\mathrm { c m }$ 的土壤样品约 $3 0 0 ~ \\mathrm { g }$ 。土壤样品 $4 ^ { \\circ } \\mathrm { C }$ 保存，自封袋密封尽快带回实验室，用于土壤微生物测定。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用传统培养法分析土壤微生物群落多样性。土壤细菌使用牛肉膏蛋白肺培养基，真菌使用马丁氏培养基，放线菌使用高氏一号培养基。定温培养后，对菌落进行计数并根据形态特征分类，随后用平板划线分离法分离纯化微生物菌落。土壤微生物数量用每克干土所含的微生物菌落数表示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用生工Ezup柱式细菌/真菌基因组DNA抽提试剂盒提取细菌和真菌DNA。使用通用引物1492R（ $5 ^ { \\prime } { \\cdot }$ -GGTTACCTTGTTACGACTT- $3 ^ { \\prime }$ ）和27F（ $\\textlangle 5 ^ { \\prime } -$ AGAGTTTGATCCTGGCTCAG- ${ \\cdot } 3 ^ { \\prime }$ )扩增土壤细菌(包括细菌和放线菌)16SrRNA片段;GeoA2( $5 ^ { \\prime }$ -CCAG-TAGTCATATGCTTGTCTC- ${ \\cdot } 3 ^ { \\prime }$ )和Geo11( $5 ^ { \\prime }$ -ACCTT-GTTACTTTTACTTCC- $3 ^ { \\prime }$ )扩增真菌18SrRNA片段。PCR扩增产物由北京华大基因公司测序，使用BLAST（www.ncbi.nlm.nih.gov）将所得碱基序列与GenBank数据库进行比对分析，将菌株鉴定到属。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用地上植物丰度(物种数）、多度(物种总个体数）、生物量和Shannon-Wiener指数 $\\left( H ^ { \\prime } \\right)$ 计算与分析植物群落多样性。采用土壤微生物丰度、多度和Shannon-Wiener指数 $\\left( H ^ { \\prime } \\right)$ )分析土壤微生物群落多样性。用双因素方差分析检验灌丛和土壤深度对土壤微生物各个指标的影响，用TukeyHSD比较各土层间的差异性，用独立样本 $\\mathbf { \\Phi } _ { t }$ 检验分析灌丛内和灌丛外差异显著性(SPSS20.0)。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle H ^ { \\prime } = - \\sum \\left( P i \\times \\ln P i \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $P i$ 表示群落第 $i$ 个物种的个数分别占生物总数的比例。 $P i { = } N i / N , N i$ 表示群落中第 $i$ 个生物种的数量。 $N$ 为群落中个体总数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用相对相互作用指数 $\\mathrm { R I I } ^ { [ 1 7 ] }$ (Relative Interac-tionIndex)评估灌丛对植物群落(丰度和生物量)和土壤微生物群落(丰度和多度)的影响；同时，采用该指数评估同一土层灌丛对微生物群落的影响，采用单因素方差分析(SPSS20.0)检验不同土层之间的差异显著性。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\scriptstyle \\mathrm { R I I } = ( X _ { \\mathrm { s } } - X _ { \\mathrm { o } } ) / ( X _ { \\mathrm { s } } + X _ { \\mathrm { o } } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中： $X$ 表示灌丛内 $( X _ { \\mathrm { { s } } } )$ 和灌丛外 $( X _ { 0 } )$ 响应变量观测值。RI值在-1\\~1之间变化，RII值 $> 0$ 表示灌丛对群落具有正效应;RII值 $< 0$ 表示灌丛对群落具有负效应。微生物群落各指标RII计算公式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物群落：RII微生物 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ （RII细菌 $+ \\mathrm { R I I }$ 放线菌 $+ \\mathrm { R I I }$ 真菌)/3;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：RII细菌 $\\dot { \\bf \\Phi } = { \\bf \\Phi }$ （RI丰度 $+ \\mathrm { R I I }$ 细菌多度)/2;RII放线菌 $\\ c =$ (RII丰度 $+ \\mathrm { R I I }$ 放线菌多度)/2;RII真菌 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (RII丰度 $+ \\mathrm { R I I }$ 真菌多度)/2;",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RII微生物丰度 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (RII细菌丰度 $+ \\mathrm { R I I }$ 放线菌丰度 $+ \\mathrm { R I I }$ 真菌丰度)/3;",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RII微生物多度 $\\ c =$ （RI细菌多度 $^ +$ RII放线菌多度 $+ \\mathrm { R I I }$ 真菌多度)/3。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1灌丛对植物群落的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛对不同维度植物群落多样性属性影响不同。灌丛内植物群落多度和总生物量显著大于灌丛外( $P { < } 0 . 0 5$ ,图1b,图1c)，而植物丰度和Shannon-Wiener指数灌丛内外均无显著差异( $\\mathbf { \\nabla } \\cdot P >$ 0.05，图1a，图1d)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2灌丛对土壤微生物群落的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由图2可以看出，土壤微生物数量表现为：细菌 $\\mathrm { > }$ 放线菌 $\\mathrm { > }$ 真菌。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌丛显著影响土壤细菌丰度和Shannon-Wiener指数，但对其多度影响不显著(丰度： $F _ { 1 , 1 2 } { = } 3 2 . 3 1 { , } P { < }$ 0.01;Shannon-Wiener指数： $F _ { 1 , 1 2 } { = } 1 9 . 4 5$ . $P { < } 0 . 0 1$ ；多度： $F _ { 1 , 1 2 } { = } 2 . 4 7 , P { = } 0 . 1 4 )$ 。无论是土壤细菌丰度还是Shannon-Wiener指数，均表现为灌丛内大于灌丛外，其中，次表层土灌丛内外差异显著(图2d,图 $2 \\mathrm { g }$ ）。土壤深度对土壤细菌多度、丰度和Shannon-Wiener指数均有显著影响(多度： $F _ { 2 , 1 2 } { = } 2 0 . 0 9 , P { < } 0 . 0 1$ ;丰度：$F _ { 2 , 1 2 } { = } 5 . 3 7$ . $\\scriptstyle P < 0 . 0 5$ ; Shannon-Wiener指数： $F _ { 2 , 1 2 } { = } 8 . 3 9$ ，$\\scriptstyle P < 0 . 0 1 { \\mathrm { ~ , ~ } }$ )。灌丛内随着土壤深度的增加，土壤细菌多度逐渐减少；丰度呈现单峰曲线，表现为次表层土最大；其Shannon-Wiener指数表层土和次表层土没有明显差异，而深层土最小;灌丛外三个指数则没有显著变化(图2a,图2d，图 $2 \\mathrm { g }$ ）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌丛对土壤真菌多度和丰度均有显著影响，但对 Shannon-Wiener指数影响不显著（多度： $F _ { 1 , 1 2 } =$ 9.973, $P { < } 0 . 0 1$ ；丰度： $F _ { 1 , 1 2 } { = } 6 . 6 2 7$ ， $\\scriptstyle P < 0 . 0 5$ ； Shannon-Wiener指数： $F _ { 1 , 1 2 } { = } 0 . 2 7 6 , \\mathrm { P } { = } 0 . 6 0 9$ )。其中，灌丛内深层土壤真菌多度显著大于灌丛外，灌丛外次表层土壤真菌丰度显著大于灌丛内(图2b，图2e)。土壤深度显著影响土壤真菌多度、丰度和Shannon-Wie-ner指数（多度： $F _ { 2 , 1 2 } { = } 6 . 5 3 7$ ， $P { < } 0 . 0 5$ ；丰度： $F _ { 2 , 1 2 } =$ 86.069, $P { < } 0 . 0 1$ ; Shannon-Wiener指数： $F _ { 2 , 1 2 } { = } 1 9 . 0 4 3 , P { < }$ 0.01）。灌丛内外土壤真菌多度、丰度和Shannon-Wiener指数均表现为表层土最大（图2b，图 $2 \\mathrm { e }$ ，图2h）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "灌丛显著影响土壤放线菌多度，但对其丰度和Shannon-Wiener指数影响不显著（多度： $F _ { 1 , 1 2 } { = } 7 4 . 1$ ，$P { < } 0 . 0 1$ ;丰度： $F _ { 1 , 1 2 } { = } 1 . 7 1 9$ ， $\\scriptstyle P = 0 . 2 1 4$ ; Shannon-Wiener指数： $F _ { 1 , 1 2 } { = } 0 . 5 6 5 , P { = } 0 . 4 6 7 )$ 。灌丛内同一土层土壤放线菌多度大于灌丛外(图2c)。土壤深度对土壤放线菌多度、丰度和Shannon-Wiener指数均有显著影响(多度: $F _ { 2 , 1 2 } { = } 9 2 . 1 2 2 , P { < } 0 . 0 1$ ;丰度： $F _ { 2 , 1 2 } { = } 2 6 . 7 4 6$ $P { < } 0 . 0 1$ ; Shannon-Wiener指数： $F _ { 2 , 1 2 } { = } 4 0 . 0 7 1$ ， $P { < } 0 . 0 1$ ）。无论是灌丛内还是灌丛外，土壤放线菌多度、丰度和Shannon-Wiener指数随着土壤深度的增加逐渐减少（图2c，图2f，图2i）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3灌丛对土壤微生物群落优势属相对多度的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛内、灌丛外土壤细菌的优势属是芽孢杆菌属(Bacillus）、短小杆菌属（Curtobacteri-um)和类芽孢杆菌属(Paenibacillus）（图3a，图3b，图3c），其中，类芽孢杆菌属为深层土特有菌(图3c）。灌丛对3种优势菌属影响不显著( $( P { > } 0 . 0 5 )$ ，但土壤深度显著影响芽孢杆菌属( $F _ { 2 , 6 } { = } 9 . 3 3 9$ $P { < } 0 . 0 5$ )相对多度。随着土壤深度的增加，芽孢杆菌属密度逐渐增加(图3a)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b74eea0d09d72b4bbc0b31f360db175d69f9cf8bf8277b1b6491868c17aeaf2e.jpg",
+        "img_caption": [
+            "图1短脚锦鸡儿灌丛内和灌丛外植物群落特性",
+            "Fig.1Plant community characteristics inside shrub and outside Caragana brachypoda shrub canopies "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47da49d830ec0856db0866af667b86a2dbcee5bf06fb72db9d1d32927b0088b9.jpg",
+        "img_caption": [
+            "图2短脚锦鸡儿灌丛内外不同土壤深度土壤微生物群落特性",
+            "Fig.2Soil microbialcommunities inside shrubandoutside Caragana brachypodashrubcanopies atdiferentsoildept "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛内、灌丛外土壤真菌的优势属包括镰刀菌属（Fusarium）、曲霉菌属（Aspergillus）、小囊菌属(Microascaceae)和球毛壳菌属(Chaetomium)（图3d，图3e，图3f，图 $3 \\mathrm { g }$ )。其中，镰刀菌属和曲霉菌属在不同土层的灌丛内外均有分布(图3d,图3e)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛内、灌丛外土壤放线菌优势属是链霉菌属(Streptomyces）和诺卡氏菌属(Nocardia)(图3h，图3i);其中，诺卡氏菌属仅分布在表层和次表层。土壤深度显著影响链霉菌属相对多度(灌丛内： $F _ { 2 , 6 } { = } 3 7 . 0 4 1$ ， $P { < } 0 . 0 1$ ；灌丛外： $F _ { 2 , 6 } { = } 4 . 9 1 1$ ， $P =$ 0.055)；无论是灌丛内还是灌丛外，其相对多度都随土壤深度的增加显著增加(图3h)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4灌丛对植物群落和土壤微生物群落影响的相对重要性",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛土壤微生物群落RII值在3个土壤深度均为正值(图4)，这说明灌丛对微生物群落有正效应。土壤深度显著影响土壤微生物群落RI值 $F _ { 2 , 6 } { = } 5 . 9 3 3 , P { < } 0 . 0 5 )$ 。随着土壤深度的增加，RII值呈单谷模型，其中表层土RII值显著高于次表层(图4)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛植物群落丰度和生物量RII值均为正值(图5a)，这说明灌丛对地上植物群落具有明显促进作用。无论是群落丰度还是多度，地上植物群落(这里的植物群落生物量和微生物群落个体数量有类似涵义)RII值均大于土壤微生物群落，这说明灌丛对地上植物群落的影响大于对土壤微生物群落的影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/889cb26ce63763cd8af74a5c3953f7a8294dab84b04d5da27f846f2ef47455aa.jpg",
+        "img_caption": [
+            "图3短脚锦鸡儿灌丛内外不同土层土壤微生物(细菌、真菌、放线菌)群落优势菌相对多度"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9dcbc171be5de0c16754b8c64ef9bd70d5a6083d951c706c5a29e0b3de432afc.jpg",
+        "img_caption": [
+            "Fig.3Relativeabundanceofdominantspeiesinsoilmicrobialcommunities (soilbacteria,soilfungiandsoilactinomyete)iside shrub and outside Caragana brachypoda shrub canopies at different soil depth "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0b16979e3e4ee7bd2cdf60d129d024e7fc2b0f453e7725d46b2c31d7167416a.jpg",
+        "img_caption": [
+            "注：不同小写字母表示不同土层差异显著(TukeyHSD tests， $P { < } 0 . 0 5$ ）图4短脚锦鸡儿灌丛不同土层土壤微生物群落RII值Fig.4Relative interaction index(RIl) for soil microbial com-munitiesat different soil depthsof Caragana brachypoda shrub",
+            "图5短脚锦鸡儿灌丛植物群落和土壤微生物群落RII值 Fig.5Relative interaction index (RII) for plant communities and soil microbial communitiesofCaragana brachypoda "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1短脚锦鸡儿灌丛对植物和土壤微生物群落的促进效应",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "灌丛经常作为“施惠者\"(benefactor)影响其周围植物。研究发现，短脚锦鸡儿灌丛显著提高了灌丛内植物群落的多度和总生物量。一方面，因为灌丛的微环境改善效应。灌丛内较低的温度和风速[18]，较高的湿度[19-22],良好的土壤养分环境[23]促进植物的生长发育。另一方面，由于灌木为地上植物种子萌发和幼苗建成提供庇护，避免其被家畜和野生动物啃食[24,从而增加物种多度。除此之外，落叶灌木(比如锦鸡儿属植物)能促进林下禾本科植物氮吸收，同时增强灌丛内土壤有机质氮矿化[25，提高林下植物群落生产力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛不仅促进植物群落，对土壤微生物群落同样具有促进作用。灌木对土壤微生物的积极影响与地上植物群落类似，都归功于灌木的“肥岛效应”。另外，灌丛内较多的植物丰度和生物量会产生数量更多、质量更好的调落物，为土壤微生物提供了丰富的食物资源，促进其生长。这也解释了为什么在强干旱环境下，我们发现地上植物群落和土壤微生物群落都具有正的RII值(图5)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明，土壤微生物多度、丰度和Shan-non-Wiener指数存在明显的垂直分布异质性。如苦豆子（Sophoraalopecuroides）、芨芨草（Achnatherumsplendens）、油蒿(Artermisiaordosica)等植物的土壤微生物数量随土层加深呈下降趋势2；小兴安岭的原始红松林、硬阔叶林和白桦林3种林地的土壤微生物多样性指数随着土层深度的增加显著下降[27];乌拉特荒漠草原小针茅群落土壤细菌多样性表层显著高于下层[28。这与本研究结果一致，无论短脚锦鸡儿灌丛内还是灌丛外，土壤可培养细菌、真菌和放线菌的丰度、多度及Shannon-Wiener指数基本上都表现为：表层土或次表层土最大。这主要是因为地表植被丰富的凋落物提高了表层土壤养分含量，且土壤养分含量随土层深度增加逐渐减少，改变了土壤微生物资源的可利用性[2,进而引起土壤微生物群落的垂直分布[30。本文的研究结果也发现，土壤微生物群落RII值在不同土层具有明显差异，表层土RII值最大(图5a)。这说明灌丛对表层土壤微生物群落的影响最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "虽然，短脚锦鸡儿灌丛对植物群落和土壤微生物群落均具有明显的促进效应；但是，灌丛对植物群落的促进效应更大(图5)。这可能是因为植物群落可以更直接、更容易地从灌丛的微环境改善效应中获益[31]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2短脚锦鸡儿灌丛对生物群落不同属性的影响",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "灌丛对植物群落不同属性（比如丰度、多度、",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Shannon-Wiener指数、均匀度指数等)影响不同[32-33]本文研究发现，灌丛显著影响植物群落物种多度和总生物量，对植物丰度和Shannon-Wiener指数影响不显著(图1)。这说明植物群落多样性不同属性具有特异性响应，即灌丛对地上植物群落的影响依赖于所选植物多样性属性，不同植物多样性属性影响不同。我们研究表明，这种情况也存在于地下土壤微生物群落中，表现为灌丛对土壤微生物群落不同多样性属性(丰度、多度和Shannon-Wiener指数）、不同土壤微生物类群(细菌、真菌和放线菌)以及土壤微生物群落不同优势属的影响也不同。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "芽孢杆菌属对营养要求低且生长迅速，能够抵抗不良环境，是土壤细菌最具活力的类群之一，在土壤物质循环和促进植物生长等方面有重要作用[34。本文也发现,芽孢杆菌属为灌丛内和灌丛外的优势属，且相对丰度较大(图3a)。另外，芽胞杆菌属能够定植在植物根部，形成生物膜[35],主要利用植物根系分泌物进行快速生长繁殖。灌丛内深层土根系较发达(短脚锦鸡儿灌木根系长达 $1 \\mathrm { ~ m ~ }$ 以上），能够为芽孢杆菌属生长繁殖提供丰富的食物资源，因此，深层土相对多度最大(图3a)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "诺卡氏菌属广泛存在于土壤、腐烂的植被及动物的排泄物中，属于好气性腐生菌，能够降解表层土壤中的植物体和调谢物，从而获得生长所需的碳源、氮源3。由于浅层土具有丰富的凋落物,能够为生物生长直接提供所需的营养，这可能是诺卡氏菌属主要分布在表层土或次表层土的原因(图3i)。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "短脚锦鸡儿灌丛对植物群落和土壤微生物群落均有明显促进作用，但是灌丛对植物群落的正效应大于对土壤微生物群落。短脚锦鸡儿灌丛对植物群落和土壤微生物群落的影响依赖于其不同属性，不同土壤微生物类群(细菌、真菌、放线菌）、不同多样性属性(丰度、多度、多样性)以及不同优势属响应不同。土壤微生物群落具有明显表聚性，短脚锦鸡儿灌丛对表层土壤微生物群落正效应最大。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1] Van Auken O W.Shrub invasions of North American semiarid grasslands[J].Annual Review of Ecology and Systematics,2000, 31(1): 197-215. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[2]熊小刚,韩兴国.内蒙古半干旱草原灌丛化过程中小叶锦鸡儿 引起的土壤碳、氮资源空间异质性分布[J].生态学报,2005,25 (7): 1678-1683. [Xiong Xiaogang,Han Xingguo. Spatial heterogeneity in soil carbon and nitrogen resources,caused by Caragana microphylla,in the thicketization of semiarid grassland,Inner Mongolia[J]. Acta Ecologica Sinica, 2005,25(7): 1678-1683.]   \n[3]Eldridge DJ,Bowker MA,Maestre FT,et al.Impacts of shrub encroachment on ecosystem structure and functioning: Towards a global synthesis[J]. Ecology Letters,2011,14(7): 709-722.   \n[4]李淑霞,刘亚斌,钟鹏,等.西宁盆地4种草本和灌木植物降盐 效应试验研究[J].干旱区研究,2019,36(1):147-158.[Li Shuxia, Liu Yabin, Zhong Peng,et al. Soil salt reduction effect of four herbaceous and shrubby species in the Xining Basin,Qinghai Province[J]. Arid Zone Research,2019,36(1): 147-158.]   \n[5]邢媛媛,王永东,雷加强.草地灌丛化对植被与土壤的影响[J] 干旱区研究,2017,34(5):1157-1163.[Xing Yuanyuan, Wang Yongdong,Lei Jiaqiang. Influences of bush encroachment on vegetation and soil[J].Arid Zone Research,2017,34(5): 1157-1163.]   \n[6]闫宝龙,吕世杰,王忠武,等.草地灌丛化成因及其对生态系统 的影响研究进展[J].中国草地学报,2019,41(2):95-101.[Yan Baolong,Lyu Shijie,Wang Zhongwu,et al. The advance of shrub encroachment in grassland and its impact on ecosystem[J. Chinese Journal of Grassland,2019,41(2): 95-101.]   \n[7]赵凌平,梁方晖,魏楠,等.短脚锦鸡儿扩张对典型草原植被与 土壤的影响[J].中国草地学报,2020,42(2):169-174.[Zhao Lingping,Liang Fanghui, Wei Nan,et al.Influences of shrub Caragana brachypoda expansion on vegetation and soil in typical steppe on loess plateau[J]. Chinese Journal of Grassland, 2020,42 (2): 169-174.]   \n[8]赵哈林,苏永中,张华,等.灌丛对流动沙地土壤特性和草本植 物的影响[J].中国沙漠,2007,27(3):385-390.[Zhao Halin, Su Yongzhong,Zhang Hua,et al. Multiple effects of shrub on soil properties and understory vegetation in Horqin sand land,Iner Mongolia[J]. Journal of Desert Research,2007,27(3): 385-390.]   \n[9]何玉惠,刘新平,谢忠奎.红砂灌丛对土壤和草本植物特征的影 响[J].生态学杂志,2011,30(11): 2432-2436.[He Yuhui,Liu Xinping, Xie Zhongkui. Efects of Reaumuria soongorica on its underlying soil properties and herb plant characteristics[J]. Chinese Journal of Ecology,2011,30(11): 2432-2436.]   \n[10] GrellerS, WardD,Janeau JL,etal.Positive versus negative environmental impacts of tree encroachment in South Africa[J].Acta Oecologica,2013,53:1-10.   \n[11]Jia G M,Liu BR,WangG,et al. The microbial biomass and activity in soil with shrub (Caragana korshinskii K.）plantation in the semi-arid loess plateau in China[J]. European Journal of Soil Biology,2010,46(1): 6-10.   \n[12]Li H, Zhang JH,Hu HF,et al. Shift in soil microbial communities with shrub encroachment in Inner Mongolia grasslands, China [J].European Journal of Soil Biology,2017,79: 40-47.   \n[13]Ratajczak Z, Nippert JB, Collins S L.Woody encroachment decreases diversity across north American grasslands and savannas [J]. Ecology,2012,93(4): 697-703.   \n[14] Holzapfel C,Tielborger K,Parag HA,etal. Annual plant-shrub interactions along an aridity gradient[J]. Basic and Applied Ecology, 2006, 7(3): 268-279.   \n[15] Tewksbury JJ, Lloyd JD.Positive interactions under nurse-plants: Spatial scale,stress gradientsand benefactor size[J]. Oecologia, 2001, 127(3): 425-434.   \n[16] 内蒙古植物志编委会.内蒙古植物志,第3卷[M].呼和浩特：内 蒙古人民出版社,1991: 223-227.[Editorial Committee of flora of Inner Mongolia.Flora of Inner Mongolia: Vol.3[M].Huhhot: Inner Mongolia People's Press,1991: 223-227.]   \n[17]Armas C, Ordiales R, Pugnaire F I. Measuring plant interactions: A new comparative index[J]. Ecology,2004,85(10): 2682-2686.   \n[18] 安晶,哈斯,杜会石,等.内蒙古高原小叶锦鸡儿灌丛沙堆对气 流结构与风蚀的影响[J].干旱区研究,2015,32(2):304-312. [An Jing,Hasi Eerdun, Du Huishi,etal. Impact of Caragana microphylla nabkhas on airflow structure and wind erosion in Inner Mongolia Plateau[J]. Arid Zone Research,2015,32(2): 304-312.]   \n[19] Jankju M. Role of nurse shrubs in restoration of an arid rangeland: Effects of microclimate on grass establishment[J]. Journal of Arid Environments,2013,89:103-109.   \n[20] 田娜,古君龙,杨新国,等.中间锦鸡儿冠层降雨再分配特征[J]. 干旱区研究,2019,36(4): 854-862.[Tian Na,Gu Junlong,Yang Xinguo,et al.Redistribution of rainfall in canopy of Caragana intermedia[J]. Arid Zone Research,2019,36(4): 854-86.]   \n[21] 刘哲,梅续芳,张玮,等.荒漠区狭叶锦鸡儿灌丛的微气候特征 [J].干旱区研究,2016,33(2):308-312.[Liu Zhe,Mei Xufang, Zhang Wei, et al. Microclimate characteristics of Caragana stenophylla shrub canopy in desert region[J]. Arid Zone Research, 2016,33(2): 308-312.]   \n[22] 梅续芳,解李娜,刘哲,等.内蒙古高原荒漠区垫状锦鸡儿灌丛 的微气候特征[JJ.天津师范大学学报(自然科学版),2016,36 (4): 55-58.[Mei Xufang,Xie Lina,Liu Zhe,et al. Microclimate characteristics of Caragana tibetica shrub canopy in the desert of the Inner Mongolia Plateau[J].Journal of Tianjin Normal University (Natural Science Edition),2016,36(4): 55-58.]   \n[23] 关林婧,梅续芳,张媛媛,等.狭叶锦鸡儿灌丛沙堆土壤水分和 肥力的时空分布[J].干旱区研究,2016,33(2):253-259.[Guan Linjing,Mei Xufang,Zhang Yuanyuan, etal. Spatiotemporal distribution of soil moisture content and fertility of Caragana stenophyllashrub nabkhas in different habitats[J].Arid Zone Research, 2016,33(2): 253-259.]   \n[24]Xie L N,Guo H Y,Liu Z,et al. Shrubs facilitate recruitment of Caragana stenophylla Pojark: Microhabitat amelioration and protection against herbivory[J]. Annals of Forest Science,2O17,74(4): 70.   \n[25] Mazia N,Moyano J,Perez L,et al.The sign and magnitude of treegrass interaction along a global environmental gradient[J].Global Ecology andiogeography,01,25(12):1510-1519.   \n[26] 马文文,姚拓,靳鹏,等.荒漠草原2种植物群落土壤微生物及 土壤酶特征[J].中国沙漠,2014,34(1):176-183.[Ma Wenwen, Yao Tuo,Jin Peng,et al. Characteristics of microorganisms nd enzyme activity under two plant communities in desert steppe[J]. Journal of Desert Research,2014,34(1): 176-183.] [27] 孙雪,隋心,韩冬雪,等.原始红松林退化演替后土壤微生物功 能多样性的变化[J].环境科学研究,2017,30(6):911-919.[Sun Xue,Sui Xin,Han Dongxue,et al.Changes of soil microbial functional diversity in the degraded and successional primitive Korean pine forest in Lesser Khingan Mountain,northern China[J]. Research of Environmental Science,2017,30(6): 911-919.] [28] 王少昆,赵学勇,贾昆峰,等.乌拉特荒漠草原小针茅(Stipa klemenzii)群落土壤细菌多样性及垂直分布特征[J].中国沙漠,   \n2016,36(6):1564-1570.[Wang Shaokun, Zhao Xueyong, Jia Kunfeng,et al.Soil bacterial diversity and its vertical distribution in Stipa klemenzii community of Urad desert steppe[J]. Journal of Desert Research,2016,36(6): 1564-1570.] [29]De Deyn G B,Quirk H,Yi Z,et al.Vegetation composition promotes carbon and nitrogen storage in model grassland communities of contrasting soil fertility[J]. Journal of Ecology,2Oo9,97(5):   \n864-875. [30]Van Leeuwen JP,Djukic I,Bloem J,et al. Effects of land use on soil microbial biomass,activity and community structure at different soil depths in the Danube floodplain[J]. European Journal of Soil Biology,2017,79(2): 14-20. [31]Tewksbury JJ,Lloyd JD.Positive interactions under nurse-plants: Spatial scale,stress gradients and benefactor size[J].Oecologia, ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "∠UUI,1∠/(3): 4∠J-454.   \n[32]Maestre FT,ValladaresF,Reynolds JF.Is the change of plantplant interactions with abiotic stress predictable?A meta-analysis of field results in arid environments[J]. Journal of Ecology,2005, 93(4): 748-757.   \n[33] Cavieres LA, Badano E I.Do facilitative interactions increase species richness at the entire community level?[J] Journal of Ecology, 2009,97(6): 1181-1191.   \n[34]叶晶晶,曹宁宁,吴建梅,等.生防芽孢杆菌的应用研究进展[J]. 西北农林科技大学学报(自然科学版),2014,42(8):185-190. [Ye Jingjing Cao Ningning Wu Jianmei,et al.Research progress on application of biocontrol Bacillus[J]. Journal of Northwest A & F University(Natural Science Edition),2014,42(8): 185-190.]   \n[35]Chen YQ,Ntai I, Ju K S,et al.A proteomic survey of nonribosomal peptide and polyketide biosynthesis in actinobacteria[J].Journal of Proteome Research,2012,11(1): 85-94.   \n[36]孟会生,洪坚平,王向英,等.磷细菌肥对采煤塌陷区复垦土壤 放线菌群落的影响[J].应用与环境生物学报,2016,22(5):911- 916.[Meng Huisheng,Hong Jianping,Wang Xiangying,et al. Effect of phosphobacteria fertilizer on soil actinomycetes community in mining subsidence area[J]. Chinese Journal of Applied and Environmental Biology,2016,22(5): 911-916.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The positive effect of Caragana breviflora shrubs on plant communities and soil microbial communities in the Inner Mongolia desert region ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ZHANG Peng， LI Ying， WANG Yelin， SONG Chengcheng， GAO Fanglei, XIE Lina, MA Chengcang (Tianjin Key Laboratory of Animal and Plant Resistance, College of Life Sciences, Tianjin Normal University, Tianjin 3OO387,China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inthis study,weused Caragana breviflora inthe Inner Mongolia desert area as target shrubsand field investigation methods to evaluate the effect of shrubs on plant communities,while also using a combination of traditional cultivation methods and molecular biology technology to evaluate the effects of shrubs on soil microbial communities.The findings revealed that: (1） Both the abundance and biomass of herbaceous plants were significantly greater under C.breviflora shrub canopies than in open areas,whereas there was no significant difference in the richness and Shannon-Wiener diversity index between shrub canopies and open areas; (2)The richnessabundance,and Shannon-Wiener index ofsoil culturable bacteria,fungi,and actinomycetes tended to be highest at eitherthe top or subsurface soil layers; (3)C. breviflora shrubs had positive effcts on soil microbial communities,and these positive efects were the highest at the top soil layer; (4) C.breviflora shrubs had more positive effects on plant communities than on soil microbial communities. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Caragana brachypoda; shrub encroachment; soil culturable microorganism； soil fertile island;plant community ",
+        "page_idx": 7
+    }
+]

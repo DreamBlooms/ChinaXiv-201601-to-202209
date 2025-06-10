@@ -1,0 +1,629 @@
+[
+    {
+        "type": "text",
+        "text": "Dew amount and its long-term variation in the Kunes River Valley, Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FENG Ting1,2.3.4,， HUANG Farong1,2.4.5,， ZHU Shuzhen1,2.3.4, BU Lingjie1,2.3.4,， QI Zhiming6,LI Lanhai 1,2,3,4,.5\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State KeyLaboratoryof Desert and Oasis Ecology，Xinjiang Institute of Ecologyand Geography,Chinese Academy of   \nSciences,Urumqi 830011,China;   \n2Tianshan Station for Snowcover and Avalanche Research,Chinese Academy of Sciences, Xinyuan 8358oo,China;   \n3 University of Chinese Academy of Sciences,Beijing 1Oo049, China;   \n4 Xinjiang Key Laboratory of Water Cycle and Utilization in Arid Zone, Urumqi 830o11, China;   \n5Research Center forEcology and Environment of Central Asia, Chinese Academy of Sciences, Urumqi 830011,China;   \n6 Department of Bioresource Engineering,McGill University,Montreal H3A0G4,Canada ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Dew is an essential water resource for the survival and reproduction of organisms in arid and semi-arid regions. Yet estimating the dew amount and quantifying its long-term variation are challenging. In this study， we elucidate the dew amount and its long-term variation in the Kunes River Valley, Northwest China, based on the measured daily dew amount and reconstructed values (using meteorological data from 198O to 2021),respectively.Four key results were found: (1) the daily mean dew amount was $0 . 0 5 ~ \\mathrm { m m }$ during the observation period (4 July-12 August and 13 September-7 October of 2021).In 35 d of the observation period (i.e., $73 \\%$ of the observation period),the daily dew amount exceeded the threshold $( > 0 . 0 3 \\ \\mathrm { m m / d } )$ for microorganisms; (2) air temperature, relative humidity, and wind speed had significant impacts on the daily dew amount based on the relationships between the measured dew amount and meteorological variables;(3) for estimating the daily dew amount, random forest (RF) model outperformed multiple linear regression (MLR) model given its larger $R ^ { 2 }$ and lower MAE and RMSE; and (4) the dew amount during June-October and in each month did not vary significantly from 1980 to the beginning of the $2 1 ^ { \\mathrm { s t } }$ century. It then significantly decreased for about a decade,after it increased slightly from 2013 to 2021.For the whole meteorological period of 1980-2021,the dew amount decreased significantly during June-October and in July and September,and there was no significant variation in June,August, and October. Variation in the dew amount in the Kunes River Valley was mainly driven by relative humidity. This study illustrates that RF model can be used to reconstruct long-term variation in the dew amount, which provides valuable information for us to better understand the dew amount and its relationship with climate change. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:dew amount; long-term variation；meteorological variables；random forest model；multiple linear regressionmodel; KunesRiver Valley ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation:FENG Ting,HUANG Farong,ZHU Shuzhen,BULingjie,QI Zhiming,LILanhai.2O22.Dew amount and its long-termvariationintheKunesRiverValley，Northwest China.Journal ofArid Land,14(7):753-70. https://doi.0rg/10.1007/s40333-022-0099-4 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dew is a vital source of freshwater that directly condensates from the nearby surrounding environment. As an important part of the Earth's water cycle,dew can be found in almost all climate zones and ecosystems around the world (Gerlein-Safdi et al.,2O18).Particularly, in the arid and semi-arid regions where water resources are scarce, dew is a proven essential water source(Tuure et al.，2019；Hill et al.，2O2O)，whose hydrological and ecological effects are substantial. In arid and semi-arid regions,dewfall amount can account for more than $50 \\%$ of rainfall amount, even exceeding the amount of rainfall in specific periods (Hao et al.,2O12; Jia et al., 2019). Dew plays an important role in maintaining the water balance and it can efficiently reduce water loss caused by soil evaporation (Xiao et al., 2O09; Meissner et al.,2O1O; Lekouch et al.,2011). Moreover,dew can alleviate water deficit in vegetation because leaves may directly absorb it (Vaadia and Waisel,1963; Boucher et al.,1995; Zheng et al.,2011) and it can reduce the transpiration rates of plants (Munné-Bosch et al.,1999). Therefore, dew can promote the growth of plants and increase their aboveground or belowground biomass (Boucher et al.，1995; Munné-Bosch and Alegre,1999; Jacobs et al., 2000; Zheng et al.,2011; Zhuang and Ratcliffe, 2012).Furthermore,dew is a crucial source of water for insects and small animals in desert environments (Steinberger et al.，1989), because they can sustain themselves by drinking dew directly or by eating hygroscopic vegetation that has absorbed dew (Hamilton and Seely,1976; Broza,1979). Accordingly, both the hydrological and ecological significance of dew cannot be neglected, particularly in the arid and semi-arid regions. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The major limitation in quantifying the function of dew is the difficulty of measurement, and there is yet no standard and worldwide method or instrument for dew measurement (Zangvil, 1996; Hao et al., 2012; Zhuang and Zhao,2017). Since the last century, various dew-measuring devices have been developed， including the cloth-plate， plywood， glass-plate， and polyethylene-plate methods.These methods are collectively referred to as artificial-condensation surface methods to measure the dew amount (Kidron,1998,1999; Zhuang and Zhao,2017; Tuure et al.，2019).Another method relies on microlysimeters (Jacobs et al.，1999；Richard,2004; Meissner et al.,2OO7; Hao et al., 2012) to obtain the dew amount via direct weighing at the beginning and end of the condensation process (Zhuang and Zhao, 2O17). However, both methods require manual operation every day during the measurement period. Consequently, it is difficult to obtain continuous and long-term data on the measured dew amount. More effective observation instruments, such as Open Path Eddy Covariance (OPEC) system and Bowen Ratio Energy Balance (BREB) system based on the energy-balance principle,have been applied to measure the dew amount (Kalthoff et al.,2006; Moro et al.,2007; Hao et al.,2012; Zhuang and Zhao,2017), which can automatically measure the near-surface meteorological variables and energy flux. The difficulty of continuous measurement has been resolved by the advent of these advanced techniques.Nevertheless,prior to their emergence, historical continuous data on the dew amount is still unavailable. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moreover, some researchers have developed physical models,semi-empirical models,and empirical models to simulate the dew condensation (Moro et al.,2OO7).Physical models generally view the dew condensation process as the inverse process of evaporation; hence, the negative latent heat flux can represent the dew condensation. For example, Jacobs et al. (2Oo2,2008) developed the models based on land surface-vegetation-soil energy balance to predict the potential dewfall and dew amount from an artificial dew collector. In addition, the single-source Penman-Monteith evaporation model has been applied to calculate the condensation of water vapor (Monteith,1965; Jacobs et al.,2006; Moro et al.，2007; Uclés et al.,2013). Some other researchers have developed semi-empirical models with simple parameters or an empirical relationship in the physical models to simulate the dew condensation.For instance,in order to simulate the dew amount, Nikolayev et al. (1996) constructed a physical model based on the surface energy balance of dew condenser, which parameterized the emissivity of sky, emissivity of dew condenser, and absorptivity of short-wave radiation. Semi-empirical models and physical models have proven to be relatively accurate in dew estimation (Moro et al.,2OO7; Uclés et al., 2013),likely because they are based on the dew condensation mechanism and their model parameters have definite physical meanings,which can better reflect the energy transformation of the dew condensation process.However, there are still some uncertainties in these models, given that they generally rely on a simplification of the condensation surface energy balance.Moreover, these models require input variables with fine temporal resolution (generally half-hour or hour), as dew generally forms at night, which hinders their applicability when only daily data is available.Empirical models,such as a statistical model or machine learning model, can fill this gap.For example, using a multiple linear regression (MLR) model, Hao et al. (2Ol2) predicted the daily dew amount and its duration based on daily net radiation and actual vapor pressure. Furthermore,Lekouch et al.(2Ol2) developed a model for the dew amount prediction based on artificial neural networks.Although empirical models are limited in characterizing the physical mechanism of dew,they are useful and practical when the time resolution of input variables is not sufficiently fine and there are too few of them, particularly for the reconstructions of long-term historical dataset of the dew amount. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Based on the methods above, researchers have made numerous observations and predictions of the dew condensation in arid and semi-arid regions. Zhuang and Zhao (2O17) found that the most important factors affecting dew condensation are related to near-surface meteorological parameters. Temperature and water vapor conditions are considered as two critical parameters that control dew condensation (Beysens,1995; Hao et al., 2012; Zhuang and Zhao,2017).Low air and soil temperatures, high relative humidity,and moderate wind speed are known to be a favorable condition for dew condensation (Monteith,1957; Zangvil,1996). On the other hand,random forest (RF） model has proven to be an effective machine learning model in eco-hydrological variable reconstruction (Xu et al.,2O18; Fu et al.,2021; Zhang et al.,2O21). However, there are few studies using meteorological variables to reconstruct the dew condensation process over a long period with an RF model. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Arid and semi-arid regions in China account for $53 \\%$ of its land area,and they are expanding yearly (Zhuang and Zhao,2O17). Studies of dew in China have mainly focused on these arid regions.For instance,Zhang et al. (2Oo09) investigated the effects of three different types of biological soil crusts and bare sand on dew deposition in the Gurbantunggut Desert; dew condensation and its long-term trend in the Taklimakan Desert were elucidated by Hao et al. (2012);and dew's accumulation amount and duration were investigated in desert-oasis ecotone (Zhuang and Zhao, 2O14,2O17). Most studies about dew conducted in arid and semi-arid regions of northwest China were conducted in extremely arid desert regions (Zhang et al., 2O09; Hao et al.,2012; Zhuang and Zhao,2014,2017; Guo et al., 2O22),leaving fewer that have analyzed or estimated the dew amount in semi-arid regions. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Kunes River Valley, located in the upstream of the Ii River in northwest China,lies within a semi-arid region and is a key agricultural region (Liu et al., 2O17a, 2O2O). Thus, investigating the dew amount and its long-term variation in the Kunes River Valley is imperative.Hence,the objectives of this study were to: (1) quantify the dew amount in summer and autumn using measurements from cloth-plate method; (2) reconstruct the long-term dew amount using RF and MLR models based on the relationships between the measured dew amount and meteorological variables; and (3) explore the long-term variation in the dew amount by utilizing the reconstructed values of RF model or MLR model and assess which model can better estimate the dew amount. These findings are pivotal for understanding the long-term dew condensation,and will assist in analyzing the effects of climate change on hydrological processes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study was conducted in an observation field of Ii Station for Watershed Ecosystem Research (Ili Station), Chinese Academy of Science ( $4 3 ^ { \\circ } 2 0 \\mathrm { ^ { \\prime } N }$ ， $8 4 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { E }$ ： $1 1 5 7 \\mathrm { m }$ a.s.l.), located in the Kunes River Valley in Northwest China (Fig.1).The study area lies in a valley surrounded by mountains on three sides (Fig.la). The climate in this region is temperate continental, characterized mainly by semi-arid climate. The average annual precipitation in the valley ranges from 200 to $8 0 0 ~ \\mathrm { { m m } }$ the average annual evaporation ranges from 126O to $1 9 0 0 ~ \\mathrm { { m m } }$ (Liu et al.,2017b).The annual frost-fre period is approximately 13O-17O d and the average annual sunshine duration ranges from 270O to 300O h (Xu et al.， 2011). Vegetation is mainly consisting of Gramineae, Leguminosae, Compositae, etc. The soil type is dominated by alpine meadow soil. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c97f6a7c1d72eaab4a2d0502e89320e6e5f26ea66a7f083a8057c66e6755f000.jpg",
+        "img_caption": [
+            "Fig.1Location of the study area (a)；national weather station in Xinyuan County (Xinyuan Station,b); observation field in Ii Station for Watershed Ecosystem Research, Chinese Academy of Sciences (Ili Station,c); automatic weather station used in this study(d)；and measurement of the daily dew amount based on the cloth-plate method in observation filed (e). "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design and data collection ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 Dew amount measurement ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The daily dew amount was measured in summer (from 4 July to 12 August) and autumn (from 13 September to 7 October) of 2021.The daily dew amount was collected and measured by the cloth-plate method (Kidron,1988; Zhuang and Zhao, 2014). Cloth patches (each $1 0 . 0 0 \\mathrm { c m } { \\times } 1 0 . 0 0$ $\\mathrm { c m } { \\times } 0 . 1 5 \\mathrm { c m }$ ） were attached to the center of three glass plates (each $1 5 . 0 0 \\mathrm { c m } { \\times } 1 5 . 0 0 \\mathrm { c m } { \\times } 0 . 2 0 \\mathrm { c m } )$ （204号 overlaid on a piece of plywood（ $1 5 . 0 0 ~ \\mathrm { c m } { \\times } 1 5 . 0 0 ~ \\mathrm { c m } { \\times } 0 . 2 0 ~ \\mathrm { c m } )$ to create an isolated and homogenous substratum (Kidron， 1988). The measured dew amount was calculated as the difference in weight before and after dew collection (Fig.1e).Specificall,the clean and dry cloth-plate devices were weighed and placed in the observation field of Ili Station at 2O:0O (LST) the day prior to measurement.At 6:OO the next morning before sunrise,each cloth-plate device was individually weighed,and the diferences in weights were designated as the dew production for that night. The dew amount (DeWamount; mm) was calculated as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { D e w } _ { \\mathrm { a m o u n t } } = \\frac { 1 0 { \\times } ( W _ { r } - W _ { s } ) } { S } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { r }$ is the weight of cloth-plate device before sunrise $( \\mathbf { g } )$ ：， $W _ { s }$ is the weight of the cloth-plate device after sunset $( \\mathbf { g } )$ ; and $S$ is the surface area of a cloth patch $( \\mathrm { c m } ^ { 2 } )$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 Meteorological data ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meteorological variables used to analyze their bivariate correlations with the measured dew amount were measured by an automatic weather station (Fig. 1d),located at the observation field of Ili Station (Fig.1c). These measured meteorological variables included air temperature,relative humidity, wind speed, net solar radiation,atmospheric pressure, soil moisture at $1 0 \\mathrm { c m }$ depth, soil temperature at $1 0 \\mathrm { c m }$ depth,and soil surface temperature. These data were obtained at a frequency of $1 0 ~ \\mathrm { H z }$ and recorded every 5 min by a CR10oO data logger (Campbell scientific Inc., Logan, Utah,United States); they were stored as 3O-min average values. Based on the 30-min average values,we can get the daily values (including mean, minimum, and maximum) and nocturnal values (including mean, minimum, and maximum) by resampling. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Given that the Ii Station was established after 2O1O, meteorological data used to reconstruct the long-time series of the dew amount were collcted from the nearest national weather station in Xinyuan County (Xinyuan Station） and its data archive of long-term continuously observed meteorological data (Fig.la and 1b). The Xinyuan Station and Ili Station are both located within the Kunes River Valley,and their meteorological conditions are similar.Thus, meteorological data from Xinyuan Station can generally covey the regional meteorological conditions at the study site. Considering that the dew amount observation period spanned early July to early October in 2021,we chose the nearly half-year (i.e.,from June 2021 to October 2O21) time scale with similar environmental conditions to that in the observed period to estimate the long-term variation in the dew amount from 1980 to 2O21. The long-term meteorological data used in this study included daily minimum air temperature,daily mean relative humidity， daily mean wind speed,daily precipitation, and monthly precipitation. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3Reconstruction of the dew amount based on multiple linear regression (MLR） model indrandom forest(RF) model ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this study, we applied MLR and RF models to reconstruct the dew amount using Python 3.8. The MLR model is expressed as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = a _ { 1 } x _ { 1 } + a _ { 2 } x _ { 2 } + \\ldots + a _ { n } x _ { n } + b ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $y$ is the daily dew amount $\\mathrm { ( m m / d ) }$ · $x _ { 1 } , x _ { 2 } , . . . , x _ { n }$ are the meteorological variables explaining the variation in the daily dew amount on a corresponding date; $a _ { 1 }$ ， $\\scriptstyle a _ { 2 } , \\ldots$ ， $a _ { n }$ are regression coefficients of $x _ { 1 } , x _ { 2 } , . . . , x _ { n }$ , respectively; and $b$ is the intercept. The predictors selected for the fitting of the dew amount depended on the relationships between the measured dew amount and meteorological variables (i.e.， daily minimum temperature，daily mean temperature，daily maximum temperature,daily mean relative humidity, daily mean wind speed, daily mean soil moisture at $1 0 \\ \\mathrm { c m }$ depth,daily mean soil temperature at $1 0 \\ \\mathrm { c m }$ depth,and daily mean net solar radiation). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The predictors used in RF model were the same as those in MLR model. In this study, we used a grid search algorithm (Lujan-Moreno et al.,2O18) to explore the optimal parameter combination for fitting the dew amount according to RF model. The feature importance of each predictor obtained via RF model was ranked. Note that feature importance refers to the contribution rate of each predictor to the overal fiting accuracy; hence, the sum of the feature importance of all predictors for an RF model is $100 \\%$ , that is the larger the feature importance,the more important the predictor. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4 Statistical analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.1Relationship between the measured dew amount and meteorological variables ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pearson correlation coeficient was used to test the relationship between the measured dew amount and each meteorological variable.Considering the mechanism of dew condensation is complex,we used the non-parametric Mann-Whitney $U$ test to identify the significant influence of meteorological variables on the dew amount. Namely, we determined the significant difference of a given meteorological variable between the nights with large dew amount ( $( > 0 . 1 0 \\ \\mathrm { m m } )$ and the nights with small dew amount $\\left( < 0 . 0 3 \\ \\mathrm { m m } \\right)$ at $9 5 \\%$ confidence level. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 Evaluation of model performance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The determination coefficient $( R ^ { 2 } )$ ，mean absolute error (MAE)，and root mean square error (RMSE) were used to evaluate the goodness-of-fit of each MLR and RF model. The MAE and RMSE were calculated as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M A E } = \\frac { 1 } { m } \\sum _ { i = 1 } ^ { m } \\left| h ( x _ { i } ) - y _ { i } \\right| ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M S E } = \\sqrt { \\frac { 1 } { m } { \\sum _ { i = 1 } ^ { m } ( h ( x _ { i } ) - y _ { i } ) ^ { 2 } } } \\mathrm { ~ , ~ }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where MAE is the mean absolute error $\\mathrm { ( m m / d ) }$ ; RMSE is the root mean square error $\\mathrm { ( m m / d ) }$ ： $m$ is the sample capacity; $h ( x _ { i } )$ is the predicted value; and $y _ { i }$ is the measured value. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.3 Variation in reconstructed trend for dew amount ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We applied two methods to analyze the variation in the reconstructed dew amount from 1980 to 2021.First, the Sen's slope estimator (β) was used to obtain the annual variation magnitude in the dew amount (Theil, 1950; Sen, 1968); a value of $\\beta$ greater than O.OO represents an increasing trend,whereas a value of $\\beta$ less than O.OO represents a decreasing trend. Then，because this method lacks statistical significance testing for the variation trend, we utilized the Mann-Kendall (MK) test to analyze the significance of the variation trend (Mann,1945; Kendall,1975). Based on the absolute $Z$ value of the test statistic from the MK test, if $| Z |$ is greater than 1.96, the trend is significant at $5 \\%$ level.According to the values of $\\beta$ and $| Z |$ ，we divided the variation in the dew amount into five categories: significantly increase ( $( \\beta { > } 0 . 0 0$ and $\\lvert Z \\rvert > 1 . 9 6 )$ ，significantly decrease （20 $( \\beta { < } 0 . 0 0$ and $\\lvert Z \\rvert > 1 . 9 6 )$ ，increase（ $( \\beta { > } 0 . 0 0$ and $\\left. Z \\right. \\le 1 . 9 6 )$ ，decrease $( \\beta { < } 0 . 0 0$ and $\\left| Z \\right| { \\leq } 1 . 9 6 )$ ， and no obvious variation (Huang et al., 2021). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Measured dew amount and its relationship with meteorological variables ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this study, the dew amount was measured from 4 July to 12 August and from 13 September to 7 October in 2O21 to represent the measured dew amount in summer and autumn, respectively. The precondition for the dew condensation is that the temperature of condensation surface is lower than or equal to the dew point temperature.Figure 2 showed the nocturnal mean dew point temperature and nocturnal mean soil surface temperature during measurement period. Evidently,the nocturnal mean soil surface temperature was almost higher than the nocturnal mean dew point temperature.In addition,soil moisture at $1 0 \\mathrm { c m }$ depth declined at night (Fig. 2b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9.8 (b) 4 Jul 16.2 (c)9 Aug 25 9.7 16.0 (a) 9.6 15.8 20 9.5 15.6 (%) giniirr girs 9.4 15.4 15 r geireees 9.3 15.2 10 00: 0 0 0 二 21 g 3 55 3 6 8 5 / 8.7 (d) 26 Sep 17.4 (e) 5 Oct 0 -Nocturnal mean dew 8.5 17.3 point temperature 17.2 -5 Nocturnal mean soil 8.4 17.1 surface temperature 8.3 17.0 -10 3 2 35 0 0 1 205608800 Date Time (LST) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Combining these results with the criteria of dew types reported by previous study, it can be concluded that the measured dew amount corresponds to the total canopy condensation. Therefore, the main dew type in the Kunes River Valley arises from canopy condensation, and ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "this study thus focuses on this dew type. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The observation period included $4 8 \\mathrm { ~ d ~ }$ with the dew amount measurement and $1 5 \\mathrm { ~ d ~ }$ with precipitation at night (measurement could not be conducted as precipitation occurred at night). Total recorded of the dew amount was $2 . 5 0 \\mathrm { m m }$ ，with a daily mean value of $0 . 0 5 \\mathrm { m m }$ (Fig. 3). As can be seen from Figure 3, the dew amount in autumn was relatively higher than that in summer. The daily mean dew amount in summer and autumn was O.O4 and $0 . 0 6 ~ \\mathrm { { m m } }$ ,respectively, and the total dew amount in summer and autumn was 1.12 and $1 . 4 6 \\ \\mathrm { m m }$ ，respectively. Previous study demonstrated that $0 . 0 3 \\mathrm { m m }$ was the threshold amount of dew availability for microorganisms.We found that the daily dew amount greater than $0 . 0 3 ~ \\mathrm { m m }$ occurred on $3 5 { \\mathrm { ~ d } } .$ ，accounting for $73 \\%$ of the total measurement days. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/8029d90e2afe90a91a3467d83cb51f0a5595986e1c61c2662c4158fec49d0d9b.jpg",
+        "img_caption": [
+            "Fig.3Measured dew amount based on the cloth-plate method in summer and autumn of 2021 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The dew amount is often closely related to meteorological conditions. In order to further understand the relationship between meteorological variables and the dew amount, we analyzed correlations between them at a daily scale.The result showed that air temperature (including daily minimum air temperature, daily mean air temperature,and daily maximum air temperature), soil temperature at $1 0 \\ \\mathrm { c m }$ depth,and net solar radiation exhibited negative correlations with the dew amount, whereas positive correlations were found for daily mean relative humidity,daily mean wind speed,and soil moisture at $1 0 \\ \\mathrm { c m }$ depth (Fig. 4).However, only the temperature variables and relative humidity were significantly $( P { < } 0 . 0 5 )$ correlated with the dew amount, being stronger for the former than the latter. Correlations between the dew amount and other variables (daily mean wind speed, soil moisture at $1 0 \\ \\mathrm { c m }$ depth,and net solar radiation） were not statistically significant $( P { > } 0 . 0 5 )$ ： ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Previous studies have shown that the influence of wind speed, net solar radiation,and soil moisture on the dew amount should not be ignored. Thus,we analyzed the significance of differences in meteorological variables of nights with the dew amount more than $0 . 1 0 ~ \\mathrm { m m }$ and those with the dew amount less than $0 . 0 3 \\ \\mathrm { m m }$ based on the non-parametric Mann-Whitney $U$ test. The result was presented in Table 1. Nights with the dew amount more than $0 . 1 0 \\ \\mathrm { m m }$ exhibited lower wind speed,higher relative humidity,and lower temperatures than nights with the dew amount less than $0 . 0 3 ~ \\mathrm { { m m } }$ ，and these differences were significant ( ${ \\bf \\partial } P { < } 0 . 0 0 1 { \\bf \\partial }$ ; Table 1). By contrast,no significant differences $( P { > } 0 . 0 0 1 )$ were detected in soil moisture of nights with the dew amount more than $0 . 1 0 ~ \\mathrm { m m }$ and soil moisture of nights with the dew amount less than $0 . 0 3 \\mathrm { \\ m m }$ . It was clear that low temperature, high relative humidity,and low wind speed are ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "conducive to the dew condensation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b25a7835c1ee4155c68298e07d1e4ebc34045b3f5e935d2934d5eff890ce35e2.jpg",
+        "img_caption": [
+            "Fig.4Correlation coefficient $( r )$ between the dew amount and meteorological variables. $T _ { \\mathrm { m i n } } .$ ，daily minimum air temperature; $T _ { \\mathrm { m e a n } }$ ,daily mean air temperature; $T _ { \\mathrm { m a x } }$ ,daily maximum air temperature; $R H$ ，dailymean relative humidity; WS,daily mean wind speed; SM, soil moisture at $1 0 \\ \\mathrm { c m }$ depth; $S T _ { ☉ }$ ，soil temperature at $1 0 \\ \\mathrm { c m }$ depth; $R _ { n }$ net solar radiation. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3da3de584c4d21fc9cbb7df5212396555ae9fd1b93274acde9b429b09936948.jpg",
+        "table_caption": [
+            "Table1 Meteorological variables of nights with the dew amount more than $0 . 1 0 \\ \\mathrm { m m }$ and those with the dew amount less than $0 . 0 3 \\mathrm { m m }$ in the study site "
+        ],
+        "table_footnote": [
+            "Note: Significance was determined at the $9 5 \\%$ confidence level by a non-parametric Mann-Whitney $U$ test. "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">Meteorological variables</td><td>Nights withtheo.tw mount</td><td>Nights withahe.ewamount</td><td>Significeance</td></tr><tr><td rowspan=\"3\">Air temperature (C)</td><td>Minimum</td><td>1.50</td><td>9.80</td><td rowspan=\"3\"><0.001</td></tr><tr><td>Maximum</td><td>30.40</td><td>33.90</td></tr><tr><td>Mean</td><td>9.27</td><td>17.23</td></tr><tr><td rowspan=\"3\">Relative humidity (%)</td><td>Minimum</td><td>36.60</td><td>25.10</td><td rowspan=\"3\"><0.001</td></tr><tr><td>Maximum</td><td>80.10</td><td>65.40</td></tr><tr><td>Mean</td><td>64.24</td><td>45.45</td></tr><tr><td rowspan=\"3\">Wind speed (m/s)</td><td>Minimum</td><td>0.00</td><td>0.00</td><td rowspan=\"3\"><0.001</td></tr><tr><td>Maximum</td><td>4.57</td><td>5.58</td></tr><tr><td>Mean</td><td>1.22</td><td>1.52</td></tr><tr><td rowspan=\"3\">Soil moisture at 10 cm depth (%)</td><td>Minimum</td><td>8.26</td><td>8.29</td><td rowspan=\"3\">0.034</td></tr><tr><td>Maximum</td><td>17.85</td><td>25.84</td></tr><tr><td>Mean</td><td>13.32</td><td>13.69</td></tr><tr><td rowspan=\"3\">Soil temperature at 10 cm depth (C)</td><td>Minimum</td><td>9.10</td><td>13.56</td><td rowspan=\"3\"><0.001</td></tr><tr><td>Maximum</td><td>21.76</td><td>23.66</td></tr><tr><td>Mean</td><td>14.25</td><td>19.40</td></tr><tr><td rowspan=\"3\">Net solar radiation (W/m²)</td><td>Minimum</td><td>-105.05</td><td>-107.48</td><td rowspan=\"3\">0.366</td></tr><tr><td>Maximum</td><td>220.70</td><td>207.20</td></tr><tr><td>Mean</td><td>-55.98</td><td>-55.26</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "According to the above results,we found that the main meteorological variables affecting the daily dew amount were air temperature, relative humidity, wind speed,and soil temperature at 10 cm depth ( $( P { < } 0 . 0 0 1 )$ . Given that the daily minimum air temperature generally occurred at night when dew formed and soil temperature data was unavailable during the long-term period, we used the daily minimum air temperature,daily mean relative humidity,and daily mean wind speed to simulate the daily dew amount during 198O-2O21 based on the MLR and RF models. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2Performance of the daily dew amount fitting models ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This subsection presents the performance of MLR and RF models for the daily dew amount simulation.MLR and RF models were trained with $50 \\%$ of the measured dew amount data and then tested with the other $50 \\%$ , respectively. The two models used the same training and testing dataset that were randomly distinguished in Python 3.8. The values of $R ^ { 2 }$ ,RMSE,and MAE for the testing dataset are shown in Figure 5. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Compared with MLR model, the performance of RF model was better by virtue of its lager $R ^ { 2 }$ and smallerRMSE andMAE(Fig.5).The $R ^ { 2 }$ ofRF model reached 0.55 $( P { < } 0 . 0 5 )$ ,and itsRMSE and MAE were only O.031 and $0 . 0 2 4 ~ \\mathrm { m m } / \\mathrm { d }$ ,respectively;while, the $R ^ { 2 }$ of MLR model was 0.34, with RMSE and MAE being O.037 and $0 . 0 2 7 ~ \\mathrm { m m } / \\mathrm { d }$ ，respectively. Compared with MLR model, the total dew amount $( 1 . 2 5 ~ \\mathrm { m m } )$ and the daily mean dew amount $( 0 . 0 5 ~ \\mathrm { m m } )$ estimated by RF model were closer to the measured total dew amount ( $1 . 3 4 ~ \\mathrm { m m } )$ and the measured daily mean dew amount $( 0 . 0 6 \\mathrm { m m } )$ ） ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/19eae8d46527717ebfb99a9021729917f4fb5e3c46bd4ea93020de0842e97ae9.jpg",
+        "img_caption": [
+            "Fig.5Performance of multiple linear regression (MLR) and random forest (RF) models on the dew amount simulation.(a)and (c),the measured and simulated dew amount based on MLR and RF models,respectively; (b) and (d),the relationship of the measured dew amount with the dew amount simulated by MLR model and the dew amount simulated by RF model,respectively; RMSE,root mean square error; MAE,mean absolute error. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "To compare the simulation performance of MLR and RF models in detail, we classified the dew amount into five intervals，including 0.00-0.03, 0.03-0.05, 0.05-0.10, 0.10-0.15,and $0 . 1 5 { - } 0 . 2 0 \\ \\mathrm { \\ m m }$ ，and then drew the frequency distribution histograms of the measured and simulated daily dew amount (Fig. 6).Both MLR and RF models showed deviations in the simulated dew amount. Notable, both models underestimated the dew amount in the low-value $( 0 . 0 0 { - } 0 . 0 3 \\ \\mathrm { \\ m m } )$ and high-value $( 0 . 1 0 \\mathrm { - } 0 . 2 0 \\ \\mathrm { \\ m m } )$ intervals.Particularly,for the interval of $0 . 1 0 { - } 0 . 2 0 ~ \\mathrm { m m }$ ,neither model yielded the dew amount. Moreover, the two models overestimated the dew amount in the range of $0 . 0 3 \\mathrm { - } 0 . 1 0 \\ \\mathrm { m m }$ . For the testing dataset,although there were deviations in the dew amount simulated by the two models,compared with MLR,the frequency of the dew amount simulated by RF model was generally closer to the frequency of the measured dew amount. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/926a01a2a115957492efdc1602d3a090bf343c6a9f0a11aea421eb90abee45b1.jpg",
+        "img_caption": [
+            "Fig.6Frequency distribution histograms of the dew amount for the testing dataset "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Consistent with the above results in this section,RF model performed better than MLR model in the daily dew amount simulation,in terms of $R ^ { 2 }$ ，RMSE,MAE,and frequency distribution. Therefore,we choose RF model to simulate the long-term variation in the dew amount in the Kunes River Valley. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3Long-term variation in the dew amount ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Evaluating long-term variation in the dew amount is difcult due to the lack of long-term direct observations.Here,we used a RF model to assess the long-term variation in the dew amount based on the conventional meteorological observation data. To avoid the errors caused by precipitation, we deleted the data containing precipitation in the statistics and results. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 Statistics for the monthly dew amount ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 7 showed the simulated monthly dew amount during June-October from 198O to 2021,as well as the daily mean, maximum,and minimum dew amount of each month. The monthly dew amount ranged from O.33(June 2013） to $1 . 9 1 \\ \\mathrm { m m }$ (October 198O). The dew amount in most $( 8 0 \\% )$ months exceeded the threshold amount of dew availability for microorganisms $( 0 . 9 0 \\mathrm { m m } )$ ！ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There was no obvious difference in the monthly dew amount among different months, except for October. The mean dew amount in October ( $\\cdot 1 . 3 5 ~ \\mathrm { m m } )$ surpassed that in other months,being the lowest in June (Fig. 8). The monthly dew amount was 1.09,1.10,and $1 . 1 2 ~ \\mathrm { m m }$ in August, September, and July, respectively. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 Variation in the dew amount ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the long-term variation in the dew amount during June-October and in each month (Fig.9; Table 2).Besides the entire study period (from 1980 to 2021),we divided the dew amount series during June-October and in each month into three temporal stages,namely, Stage 1 (from 1980 to 2002), Stage 2 (from 2002 to 2013),and Stage 3 (from 2013 to 2012),according to the maximum and minimum dew amount during June-October from 198O to 2021. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The results from the Sen's slope and MK test showed that the dew amount during June-October was characterized by a significantly decreasing trend from 198O to 2021( $\\mathrm { | \\it - 0 . 0 0 }$ and $| Z | { > } 1 . 9 6 )$ ,as well as the dew amount in July and September showed a significantly decreasing trend. However, their variation rates (i.e.,absolute value of $\\beta$ ） were all less than O.O2 per year. The dew amount in other months showed no obvious variation trend from 198O to 2021 $\\left( \\left| Z \\right| < 1 . 9 6 \\right)$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Variation in the dew amount differed among the different temporal stages. Namely, the dew amount during June-October and in each month decreased significantly in Stage 2 (Fig.9). In this stage, the declined trend during June-October was the highest $( \\beta = - 0 . 3 1 )$ ,but the variation rate in each month was always lower than O.1O.However, in Stage 1 and Stage 3, the variation trends of the dew amount during June-October and in each month were all insignificant $\\left( \\left| Z \\right| < 1 . 9 6 \\right)$ . Further, the dew amount variation showed no obvious trend $( \\beta { = } 0 . 0 0 )$ in July or October in Stage 1; while, in the other months,it was distinguished by an increasing trend ( $_ { \\mathrm { { \\scriptsize ~  } } } \\mathrm { { \\scriptsize [ 3 > 0 . 0 0 } }$ ： ${ \\left| { Z } \\right| } { < } 1 . 9 6 )$ . Moreover, the variation in the dew amount featured an increasing trend in Stage 3 during June-October and in each month, exceeding that in Stage 1. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It was concluded that the dew amount during June-October and in each month slightly increased or did not change significantly from 198O to 2OO2, but then sharply decreased until 2013,and finally displayed a slightly increasing trend from 2013 to 2O21 (Fig.9). Moreover, the dew amount during June-October decreased significantly from 1980 to 2O21 (Table 2). ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c7103c844d83540425ede15c08b406354ae4b32755c96f643aba5cf8da970b7.jpg",
+        "img_caption": [
+            "Fig.7Simulated monthly dew amount and the daily mean,maximum,and minimum dew amount during June-October from 1980 to 2021 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d480cd15273765d9232e5e27546d7d37e6812795adaaf48b9857959f692644e.jpg",
+        "img_caption": [
+            "Fig.8Boxplot for the monthly dew amount during June-October from 198O to 2021.The boxes represent the range from the lower quantile（Q25）to the upper quantile（Q75） of the total monthly dew amount during June-October from 198O to 2O21.The dots and horizontal lines inside the boxes represent the means and medians, respectively.The dots outside the boxes represent outliers.The upper and lower whiskers indicate the maximum and minimum values,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/17533791221dad141b98a726d90fced9bc18870174da3ed95b401dc025ccddb0.jpg",
+        "img_caption": [
+            "Fig.9Variation in the dew amount during June-October(a) and in June (b),July(c),August (d),September (e), and October(f) from 1980 to 2021 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Manual measurements of the dew amount were carried out in the Kunes River Valley in summer and autumn of 2O21， providing valuable information about the dew condensation dynamics. Based on the empirical data,we trained and applied RF model to estimate the long-term dew amount. This is an important attempt to simulate the historical trend of the dew amount for 42 a (1980-2O21) based on a machine learning model. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1Measured dew amount and its correlation with meteorological variables ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work started with the dew amount observations. Specifically, in order to measure the dew amount,we used the cloth-plate method (Kidron,1998),a method previously used to robustly measure the dew amount in the Negev Desert in south Israel (Kidron,1998; Kidron et al., 2002; Kidron, 2Oo5),as well as the Badain Jaran Desert in northwestern China (Zhuang and Zhao, 2014).The results of our study showed that the daily dew amount was concentrated in $0 . 0 3 \\substack { - 0 . 1 0 }$ $\\mathbf { m m }$ (its frequency was $6 0 \\%$ ） during the observation period. Our results are generally consistent with findings reported for the Badain Jaran Desert (Zhuang and Zhao, 2O14; Zhuang et al., 2021). Manual measurement of the dew amount provided us with valuable information about daily dew condensation，by analyzing the relationship between the dew amount and meteorological variables.Previous studies found that dew condensation is a complex physical process,influenced by numerous micrometeorological variables (Ye et al.,2Oo7; Wang and Zhang,2011; Hao et al., 2012).He and Richards (2O15） reported that clear skies,moderate winds, strong inversions of temperature from the ground surface to the atmosphere, low surface temperatures,and high relative humidity were all favorable abiotic conditions for water vapor condensation. Our results showed that air temperature,relative humidity,and wind speed have robust relationships with the dew amount, which is similar to previous studies. Moreover, Zhuang and Zhao (2O17） reported ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Table 2Long-term variation in the dew amount in different temporal stages that high relative humidity was a prerequisite for water vapor condensation,and that $50 \\%$ was the lowest value of relative humidity enabling dew condensation. In addition, dew is controlled by wind speed and how wind speed affects dew condensation is complex (Zhuang and Zhao,2017). ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/72c98f2270dcd36eb5bafa0478ea6cda1de6922ff56f36d80c40caf731c79337.jpg",
+        "table_caption": [
+            "FENG Ting et al.: Dew amount and its long-term variation in the Kunes River Valley... "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"5\"></td></tr><tr><td>Month</td><td>Temporal stage</td><td></td><td>Z</td><td>Trend</td></tr><tr><td rowspan=\"4\">June-October</td><td>1980-2002</td><td>0.01</td><td>0.32</td><td>Increase</td></tr><tr><td>2002-2013</td><td>-0.31</td><td>3.50</td><td>Significantly decrease</td></tr><tr><td>2013-2021</td><td>0.20</td><td>0.73</td><td>Increase</td></tr><tr><td>1980-2021</td><td>-0.02</td><td>2.08</td><td>Significantly decrease</td></tr><tr><td rowspan=\"4\">June</td><td>1980-2002</td><td>0.01</td><td>0.85</td><td>Increase</td></tr><tr><td>2002-2013</td><td>-0.08</td><td>2.13</td><td>Significantly decrease</td></tr><tr><td>2013-2021</td><td>0.02</td><td>1.15</td><td>Increase</td></tr><tr><td>1980-2021</td><td>0.00</td><td>0.98</td><td>No obvious variation</td></tr><tr><td rowspan=\"4\">July</td><td>1980-2002</td><td>0.00</td><td>0.26</td><td>No obvious variation</td></tr><tr><td>2002-2013</td><td>-0.05</td><td>2.95</td><td>Significantly decrease</td></tr><tr><td>2013-2021</td><td>0.05</td><td>1.15</td><td>Increase</td></tr><tr><td>1980-2021</td><td>-0.01</td><td>2.10</td><td>Significantly decrease</td></tr><tr><td rowspan=\"4\">August</td><td>1980-2002</td><td>0.01</td><td>1.43</td><td>Increase</td></tr><tr><td>2002-2013</td><td>-0.06</td><td>2.95</td><td>Significantly decrease</td></tr><tr><td>2013-2021</td><td>0.03</td><td>0.94</td><td>Increase</td></tr><tr><td>1980-2021</td><td>0.00</td><td>0.80</td><td>No obvious variation</td></tr><tr><td rowspan=\"4\">September</td><td>1980-2002</td><td>0.01</td><td>0.69</td><td>Increase</td></tr><tr><td>2002-2013</td><td></td><td>2.81</td><td>Significantly decrease</td></tr><tr><td>2013-2021</td><td>-0.05 0.02</td><td>1.15</td><td>Increase</td></tr><tr><td>1980-2021</td><td>-0.01</td><td>2.36</td><td>Significantly decrease</td></tr><tr><td rowspan=\"4\">October</td><td>1980-2002</td><td>0.00</td><td>0.00</td><td>No obvious variation</td></tr><tr><td>2002-2013</td><td>-0.05</td><td>2.95</td><td>Significantly decrease</td></tr><tr><td>2013-2021</td><td>0.04</td><td>1.56</td><td>Increase</td></tr><tr><td>1980-2021</td><td>0.00</td><td>1.26</td><td>No obvious variation</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This might explain why we did not find a significant correlation between the dew amount and wind speed $( P { > } 0 . 0 5 )$ ,not unlike that reported by Hao et al. (2O12).However, in our study, there was a significant difference in wind speed at night when the dew amount was greater than O.10 mm and less than $0 . 0 3 ~ \\mathrm { m m }$ . Mean wind speed and maximum wind speed at night with the dew amount greater than $0 . 1 0 \\ \\mathrm { m m }$ were 1.22 and $4 . 5 7 ~ \\mathrm { m / s }$ ,respectively, corresponding to moderate wind speed. This finding supports other work showing that moderate wind speed can enhance the transport of water vapor and prevent the mixing of air at the ground surface with air above it (He and Richards，2O15).Previous studies also indicated that high wind speed inhibits the dew condensation (Monteith,1957; Nilsson,1996; Lekouch et al.,2012; Zhuang and Zhao,2017), but this study cannot reflect this opinion. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.2 Estimation of the dew amount ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A physical model to estimate the dew amount is not easy to set-up because the detailed thermal and radiative exchange of condensation surface cannot be accurately modeled. An alternative is to predict the dew amount based on the empirical relationship between the condensation volume and meteorological variables (Lekouch et al.， 2O12). Traditional statistical model, such as MLR model, may be successfully used to predict the dew amount based on the correlation between it and meteorological variables (Hao et al.,2Ol2).Because machine learning model is an efficient and robust mathematical technique of non-linear regression, which includes various capabilities, such as classification and prediction (Zhang et al.,1998), it can be implemented to estimate the dew amount from meteorological data. Machine learning model, for instance,an artificial neural network, has been applied to predict the dew point temperature (Shank et al., 2OO8) and the dew amount (Lekouch et al., 2O12). Here,we selected daily minimum air temperature,daily mean relative humidity,and daily mean wind speed as predictors to construct MLR and RF models to simulate the daily dew amount, and we compared the performance between RF model and MLR model. It is clear that RF model captured the dew amount variability better than MLR model, with smaller MAE and RMSE as well as higher $R ^ { 2 }$ . The $R ^ { 2 }$ of RF model increased by $62 \\%$ compared with MLR model，and correspondingly reduced the MAE and RMSE by $14 \\%$ and $1 9 \\%$ ， respectively. This improvement was mainly atributed to the strong adaptability of RF model, which could detect and express the non-linear relationships between the dew amount and meteorological variables.This advantage of RF model can also be illustrated by the results for its feature importance values. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.3Long-term variation in the dew amount and its driven factors ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study, we developed RF model to derive the long-term variation in the dew amount from 1980 to 2021.During the period,the most special period is from 2002 to 2013,when the dew amount significantly declined for about a decade. Using MLR model, Hao et al. (2O12) reported a similar significantly decreasing trend of the dew amount over the same years in the Taklimakan Desert, near our study area,but they did not try to explain the decreasing trend. To that end, we analyzed the variation in daily minimum air temperature,daily mean relative humidity,and daily mean wind speed,and total precipitation during June-October from 1980 to 2O21 (Fig.10). ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d3f2cb5ab1163645682d92b29f8424694bd0fca624c331076102960b306a1b5.jpg",
+        "img_caption": [
+            "Fig.10Variation in daily minimum air temperature (a),daily mean relative humidity (b),total precipitation (c), and daily mean wind speed (d) during June-October from 198O to 2021 "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "During the past 42 a, the variation in daily mean relative humidity showed a similar patern to the change of the dew amount. As shown in Figure 10, daily mean relative humidity significantly decreased from 2OO2 to 2O13,implying that the difficulty of attaining saturation for water vapor in the air,and this directly led to the reduction of the dew amount. Still, the reduction in daily mean relative humidity might have arisen from the increase of daily minimum air temperature and precipitation. Evidently, the daily minimum air temperature kept increasing from 2OO2 to 2013. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Although higher air temperature enables more water vapor stored in the atmosphere (Allen et al., 1998),the precipitation was almost stable，which suggests the overall source of atmospheric moisture might vary negligibly. As a result, there was a decrease in daily mean relative humidity. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.4 Limitations of this study ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The current study has some limitations, mainly concerning the measurement and estimation of the dew amount. First, we chose the cloth-plate method to empirically measure the dew amount in the field.This method has the advantages of practicality and low cost.But like other artificial condensation surface methods,their obtained results are often influenced by the compositions of the artificial surface (Jacobs et al., 2008; Hao et al., 2012; Zhuang and Zhao, 2017). Moreover, the cloth-plate method cannot accurately reflect the physical mechanism of dew condensation process that would occur on a natural condensation surface, though it still has climatological relevance to some extent. To beter understand natural dew condensation mechanism, future researches should focus on observing and comparing natural condensation surface.The long-term dew amount estimated by RF and MLR model can reflect the climatological significance of the dew amount from 198O to 2O21, since we trained and fitted RF and MLR in the same way based on the relationship between the measured dew amount by the cloth-plate method and meteorological variables. However,as empirical-based methods,MLR and RF models cannot reflect the energy transformation of dew condensation process like the physical models based on energy balance,such as the Penman-Monteith evaporation model. Second,it is more informative to compare the performance of MLR and RF models with other approaches， such as the Penman-Monteith model, with empirical parameters used for the estimation of the dew amount. The Penman-Monteith model needs data with high temporal resolution to estimate the dew amount, while the lack of that data in available long-term datasets impairs their usage in deriving long-term variations in the dew amount data based on Penman-Monteith model.As main aim of this study was to obtain a long-term series of the dew amount data,we relied on MLR and RF models because they only required data at a daily scale to estimate the dew amount. In the future, we will consider comparing the performance of MLR and RF models with that of PenmanMonteith and other physical models for the estimation of the dew amount. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The large-scale weighing lysimeter is currently a relatively perfect tool for measuring the dew amount, which can measure the dew amount on the land surface simply and reliably. The future researches on land surface dewfall should try to combine diferent methods, namely,the largescale weighing lysimeter, Open Path Eddy Covariance (OPEC） system, Bowen Ratio Energy Balance (BREB） system, measurement of common meteorological variables with high temporal resolution, and numerical models based on the physical mechanism of dew condensation. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Evaluating long-term variations in the dew amount is difficult due to the lack of long-term direct observation and the limitations of relevant estimation methods.To explore the long-term variation in the dew amount in the Kunes River Vally, we compared the performance of MLR and RF models in the dew amount simulation.We selected the predictors used in MLR and RF models based on the relationship between meteorological variables and the measured daily dew amount in summer and autumn of 2O21. It is concluded that dew formed frequently in the study area, where the daily dew amount exceeded the threshold amount of dew availability for microorganisms in most $( 7 3 \\% )$ of dew-measured days.The mean daily dew amount in autumn was a litle higher than that in summer. Air temperature, relative humidity,and wind speed played important roles in dew condensation; the threshold for dew condensation was relative humidity greater than $60 \\%$ and wind speed less than $1 . 5 ~ \\mathrm { m / s }$ 、In addition,RF model generally performed beter than MLR model, resulting a higher value of $R ^ { 2 }$ and lower MAE and RMSE for the dew amount estimation. According to the dew amount reconstructed by RF during June-October from 198O to 2021，we found that the dew amount in most months $( 8 0 \\% )$ exceeded the threshold amount of dew availability for microorganisms.There were differences in the variations of dew amount among different temporal stages from 198O to 2O21. The dew amount during June-October slightly increased before the beginning of the $2 1 ^ { \\mathrm { s t } }$ century, then it fell significant for about a decade,and rebounded slightly from 2013 to 2O21. Long-term variation in the dew amount was primarily impacted by relative humidity. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The present study is of great significance to explore the characteristic of the historical dew amount.The findings could help to explore how climate change affects dew condensation, and further to maintain the ecology stability in arid and semi-arid regions under the background of climate change. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the National Natural Science Foundation of China (41901048), the Project of State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecologyand Geography, Chinese Academy of Sciences (E151030101),the Project of National Cryosphere Desert Data Center of China (2O21kf02),and the Youth Innovation Promotion Association of the Chinese Academy of Sciences (2021438). We are grateful for the fieldwork support from members of the Ili Station for Watershed Ecosystem Research,Chinese Academy of Sciences. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Allen R G,PereiraLS,Raes D,etal.1998.Crop evapotranspiration:guidelines forcomputingcrop waterrequirements.Fao Irrigation and Drainage Paper 56.Rome: Food and Agriculture Organization of the United Nations.   \nBeysens D.1995.The formation of dew.Atmospheric Research,39(1-3): 215-237.   \nBoucherJF,MunsonAD,BernierPY.1995.Foliarabsorptionof dew influences shoot water potentialandroot growth in Pinus strobus seedlings.Tree Physiology,15(12): 819-823.   \nBroza M.1979.Dew,fogand hygroscopic foodasasourceof waterfordesert arthropods.Journal of Arid Environments,2(1): 43-49.   \nFuTL,LiXR,JiaRL,etal.2021.A novel integrated methodbasedonamachine learning modelfor estimating evapotranspiration in dryland.Journal of Hydrology,603:126881,doi:10.1016/j.jhydrol.2021.126881.   \nGerlein-Safdi C,KoohafkanMC,ChungM,etal.2018.Dewdepositionsuppresss transpirationandcarbon uptake inleaves. Agricultural and Forest Meteorology,259:305-316.   \nGuo XN,WangYF,YanHM,etal.2O22.Dew/hoarfrostonthecanopiesandunderlying surfacesof twotypicaldesert shrubs in NorthwestChinaandtheirrelevance todrought.JournalofHydrology,609:127880,doi:10.1016/j.jhydrol.2022.1880.   \nHamilton WJ,Seely MK.1976.Fog basking bythe Namib Desert betle,Onymacris unguicularis.Nature,262(566): 284-285.   \nHao XM,LiC,GuoB,etal.2Ol2.Dewformationand itslong-term trendinadesertriparian forestecosystemontheeaster edge of the Taklimakan Desert in China.Journal of Hydrology,472: 90-98.   \nHe SY,Richards K.2O15.Theroleofdew inthe monsoonseason assessedviastable isotopes inanalpinemeadowinNorthern Tibet.Atmospheric Research,151:101-109.   \nHillA J,LincolnNK,Rachmilevitch S,etal.O20.Modified hiltnerdewbalance toe-estimatedewfallaccumulationasa reliable water source in the Negev Desert.Water,12(10): 2952,doi:10.3390/w12102952.   \nHuangFR,FengT,GuoZK,etal.2O21.Impactof wintersnowfallonvegetationgreennessinCentralAsia.Remote Sensing, 13(21): 4205,doi: 10.3390/rs13214205.   \nJacobsAFG,HeusinkveldBG,BerkowiczSM.1999.Dew depositionanddryinginadesertsystem:asimple simulation model. Journal of Arid Environments,42(3): 211-222.   \nJacobsAFGHeusinkveldBGBerkowiczSM.2002.Asimplemodelforpotentialdewfallinanaridregion.Atmospheric Research,64(1-4): 285-295.   \nJacobsAFG,HeusinkveldBG,KruitRJWetal.2O06.Contributionofdewtothewaterbudgetofagraslandareainthe Netherlands.Water Resources Research,42(3):W03415,doi:10.1029/2005wr004055.   \nJacobsAFG,HeusinkveldBG,Berkowicz SM.2O08.Passivedewcollection inagrasslandarea,The Netherlands. Atmospheric Research,87(3-4): 377-385.   \nJia ZF,MaYD,LiuP,etal.2019.Relationshipbetwensanddewand plant leafdewand itssignificance inirigation water   \nKalthoffN,Fiebig-WitmaackM,MeiBnerC,etal.o.Teenergybalance,vapo-transpirationndocturaldewdeposition of an arid valley in the Andes.Journal of Arid Environments,65(3): 420-443.   \nKendall M G.1975.Rank Correlation Methods.London: Charles Griffin.   \nKidron G J.1998.A simple weighing method for dew and fog measurements.Weather,53(12): 428-433.   \nKidron GJ.199.Diferential waterdistribution over dune slopes as afected by slope position and microbioticcrust,Negev Desert, Israel. Hydrological Processes,13(11): 1665-1682.   \nKidron GJ.2Oo5.Angleandaspectdependentdewandfogprecipitation intheNegevdesert.JournalofHydrology,301(1-4): 66-74.   \nLekouch I, Museli M,Kabbachi B,etal.2Ol1.Dew,fog,andrainassupplementarysourcesof water in south-western Morocco.Energy,36(4): 2257-2265.   \nLekouchI,Lekouch K,MuselliM,etal.2O12.Roftopdew,fogndaincolletioninsouthwestMoroccoand predictivedew modeling using neural networks. Journal of Hydrology, 448: 60-72.   \nLiu X,MaJ,MaZW,etal.2O1a.Soilutrientcontentsandstoichiometryasectedbylanduseianagro-pastoralgionof northwest China.CATENA,150:146-153.   \nLiu X,LiLH,QiZM,etal.2Ol7b.Land-use impactsonprofiledistributionoflabileandrecalcitrantcarbon inthe IiRiver Valley, northwest China. Science of the Total Environment, 586:1038-1045.   \nLiu X,ChenDT,YangT,etal.2O2o.Changes insoillabileandrecalcitrantcarbonpolsafterland-usechangeinasm-arid agro-pastoral ecotone in Central Asia.Ecological Indicators,110:105925,doi: 10.1016/j.ecolind.2019.105925.   \nLujan-Moreno GA,HowardPR,Rojas OG,et al.2018.Design of experiments and response surface methodologyto tune machine learning hyperparameters,with arandom forestcase-study.Expert Systems with Applications,109:195-205.   \nMadeiraAC,KimKS,TaylorSE,etal.2Oo2.Asimplecloud-based energybalancemodel toestimatedew.Agriculturaland Forest Meteorology,111(1): 55-63.   \nMann HB.1945.Nonparametric tests against trend. Econometrica,13(3): 245-259.   \nMeisner R,Seeger J,Rupp H,et al.2Oo7.Measurementof dew,fog,and rime with a high-precision gravitation lysimeter. Journal of Plant Nutrition and Soil Science,17O(3):335-344.   \nMeisnerR,RuppH,WellerU,etal.2O10.Lysimeterresearch inEurope-technologicaldevelopmentsandresearchstrategies. In: $1 9 ^ { \\mathrm { t h } }$ World Congress of Soil Science: Soil Solutions fora Changing World. Brisbane,Australia.   \nMonteith JL.1957.Dew. Quarterly Journal of the Royal Meteorological Society, 83(357):322-341.   \nMoro MJ, WereA, Villagarcia L,et al.2Oo7.Dew measurement by Eddycovariance and wetness sensor in asemiarid ecosystem of SE Spain. Journal of Hydrology, 335(3-4): 295-302.   \nMunne-BoschS,AlegreL.1999.Roleof dewontherecoveryof water-stresed MelissoficinalisL.plants.Journalof Plant Physiology,154(5-6): 759-766.   \nMunne-Bosch S,Nogues S,Alegre L.1999.Diurnal variationsof photosynthesis and dewabsorptio byleaves in two evergreen shrub communities in Mediterranean field conditions.New Phytologist,144(1):109-119.   \nNikolayev V S,Beysens D, Gioda A,et al.1996.Water recovery from dew. Journal of hydrology,182(1-4): 19-35.   \nNilsonT.1996.Iitial experimentsondewcollection in SwedenandTanzania.SolarEnergyMaterialsandSolar Cels,40(1): 23-32.   \nRichards K.20o4.Observationand simulation ofdew in rural and urban environments.Progress in Physical Geography:Earth and Environment,28(1): 76-94.   \nSenPK.1968.Estimatesof theregressoncoeficientbasedonKendal'sTu.JournaloftheAmerican Statistical Association, 63:1379-1389.   \nSteinbergerY,LobodaI, Garner W.1989.Teinfluenceofautumndewfallonspatialand temporaldistributioofnematodesin the desert ecosystem. Journal of Arid Environments,16(2):177-183.   \nTheil H.195o.Arank invariant methodoflinearand polynomialregressionanalysis:Part II.Proceedingsof theRoyal Netherlands Academy of Sciences,53: 1397-1412.   \nTure J,Korpela A,Hautala M,etal.2O19.Comparisonofsurfacefoil materialsaddewcolectorslocation innaridarea:a one-year field experiment in Kenya.Agricultural andForest Meteorology,276-277:107613,doi:10.1016/j.agrformet. 2019.06.012.   \nUclesO,VillagarciaL,MoroMJ,etal.Ol3.Roleofdewfallinthewaterbalanceofasemiaridcoastalsteppeecosystem. Hydrological Processes,28(4): 2271-2280.   \nVaadia Y,Waisel Y.1963.Waterabsorption by the aerial organs of plants.Physiologia Plantarum,16(1): 44-51.   \nXiao H,MeisserR,Seeger J,etal.2O09.Effectof vegetation typeand growth stageondewfall,determined withhigh precision weighing lysimeters at a site in northern Germany. Journal of Hydrology,377(1-2): 43-49.   \nXuTR,GuoZX,LiuSM,etal.2O18.Evaluating diferent machine learning methods forupscaling evapotranspirationfrom flux towers to the regional scale.Journal of Geophysical Research: Atmospheres,123(16): 8674-8690.   \nXuYJ,CheY,iWetal1.istrbtionpaeofplantspeiesdvesityinteouainousRegionofiverValley Xinjiang.Environmental Monitoring and Assessment,177(1): 681-694.   \nZangvilA.1996.Sixyearsofdewobservations intheNegevDesert,Israel.JournalofAridEnvironments,32(4):361-371.   \nZhang C,LuoGP,HellwichO,etal.2O21.Aframework for estimatingactual evapotranspirationat weather stations without flux observations bycombining data from MODISand flux towers through a machine learning approach.Journal of Hydrology,603:127047,doi:10.1016/j.jhydrol.2021.127047.   \nZhang J,ZhangYM,DowningA,etal.2O09.Theinfluenceof biological soilcrustsondew depositionin Gurbantunggut Desert,Northwestern China.Journal of Hydrology,379(3-4):220-228.   \nZhengXJ,LiS,LiY.2Ol1.Leaf wateruptakestrategyofdesert plants intheJunggar Basin,China.ChineseJournalofPlant Ecology,35(9):893-905.(in Chinese)   \nZhuangYL,Ratclife S.2Ol2.Relationshipbetweendew presenceand Bassia dasyphyll plant growth.Jourmalof AridLand, 4(1): 11-18.   \nZhuangYL,Zhao WZ.2Ol3.Dewvariabilityinthree habitatsofasanddunetransectinadesertoasis ecotone,Northwestern China.Hydrological Processes,28(3):1399-1408.   \nZhuangYL,ZhaoWZ.2Ol7.Dew formationanditsvariationin Haloxylonammodendronplantationsattheedgeofadesert oasis,northwestern China.Agricultural and Forest Meteorology,247: 541-550.   \nZhuang YL,Zhao WZ,LuoLH,etal.2O21.Dewformationcharacteristics inthe gravel desert ecosystemandits ecological roles on Reaumuria soongorica.Journal of Hydrology,603:126932,doi:10.1016/j.jhydrol.2021.126932. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "基于伪装原理研究无意识视觉运动加工的方法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵佳旭1² 鲍敏12",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(中国科学院行为科学重点实验室，中国科学院心理研究所，北京100101)(中国科学院大学心理学系，北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "研究提出一种新的连续闪烁抑制（CFS）范式，利用透明度混合（alphablending）原理，使目标刺激的颜色与相应位置的掩蔽刺激的颜色时刻保持一致。研究随机招募了8名被试，向其优势眼呈现Mondrian图像序列，非优势眼呈现固定速率运动的多个正方形。结果表明目标为多运动点动态刺激时，该范式依然具备掩蔽作用，且当目标刺激与相应位置的掩蔽刺激的颜色完全一致时，掩蔽效果最好，证明这种新范式比传统CFS 范式对动态刺激的掩蔽作用更好。相比以往修改CFS 掩蔽刺激的思路，该范式为研究无意识视觉运动加工提供了新方法，且适用性更广。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词连续闪烁抑制，无意识加工，运动，伪装，透明度混合",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "分类号 B841",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "视觉是人类最重要的感觉之一。通过视觉，人类感知外界物体的大小、明暗、颜色、动静，获得对机体生存具有重要意义的各种信息。在有关视觉的多数研究中，研究者所使用的刺激都是处于意识上状态的，但视觉系统的知觉能力是有限的，并不是所有刺激都能够进入意识并被感知到。为了研究那些没能进入意识的视觉刺激，现阶段的视觉研究中已经形成了一些研究无意识视知觉过程的方法(Kim&Blake,2005)，其中一个较为常用的方法就是连续闪烁抑制（Continuous Flash Suppression, CFS）(Tsuchiya & Koch, 2005)。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "经典CFS 范式中，被试的一只眼接收到的刺激是连续、快速呈现的由颜色、大小不同的随机色块组成的图像（如图1中的Mondrian 图案化的彩色图像），这种刺激被称为掩蔽刺激；与此同时另一只眼睛接收静态的目标刺激。由于目标刺激受到掩蔽刺激的掩蔽，大约几秒内被试无法看见目标刺激，此时的目标刺激只能得到无意识水平的视觉加工(Tsuchiya &Koch,2005;Faivre et al.,2014)；之后由于掩蔽效果逐渐减弱，目标刺激能够突破掩蔽而被观察者看见，这被称为突破掩蔽。前人使用CFS 范式对许多和无意识视觉加工有关的问题进行了探讨。这里只举少许例子。一些研究者将有着不同特征或效价的面孔图片作为目标刺激，探讨对面孔的无意识加工过程，如 Jiang 等人(2007)使用正立及倒立面孔作为目标刺激，发现了正立面孔可以比倒立面孔更快地突破掩蔽。Yang 等人(2007)使用恐惧、中性、快乐三种效价的正立及倒立面孔作为目标刺激，发现了同样的结果，同时还发现恐怖面孔总是比中性或快乐面孔突破掩蔽得更快，且只呈现眼部的剪切图而不是完整面孔为目标刺激时，也出现了类似的结果。Capitao 等人(2014)使用威胁面孔、积极面孔和中性面孔作为目标刺激，发现焦虑症患者在目标刺激为威胁面孔时更容易突破CFS 的掩蔽作用。还有研究者将文字作为目标刺激，探讨人们是否可以在无意识情况下对文字进行语义加工。如 Jiang 等人(2007)使用汉语单词和希伯来语单词为目标刺激，发现当目标刺激为母语时，被试突破掩蔽得更快。Heyman 和 Moors (2014)使用英文单词和伪词作为目标刺激，发现两者突破CFS 掩蔽的时间无显著差异。Lang 等人(2018)将一系列配对的汉语单词作为目标刺激，让被试在CFS 范式中判断它们之间的相关性，也发现被试不能完成在无意识条件下的语义加工。此外，还有研究用 CFS 范式探索被试在无意识条件下是否依然具备格式塔中的完整和闭合倾向(Moors etal., 2016)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在CFS 范式被广泛应用的同时，研究者也在根据自身研究目的的不同不断对CFS 范式进行改进。如Korisky等人(2018)将经典CFS 范式原有的二维平面目标刺激改为三维立体的、现实生活中的物体，证明了现实生活中的三维物体同样可以在CFS 范式下被掩蔽，进而得到无意识视觉加工。Cha等人(2019)分别使用正常的、点列式的、打乱的点列式的物体与场景图片代替无意义的Mondrian 图像序列做为掩蔽刺激，发现由物体图片组成的CFS 掩蔽比场景图片具有更强的掩蔽作用；点列式图片也比打乱的点列式图片有更强的掩蔽作用。此外，Han 等人(2021)对CFS 范式中常用的 Mondrian 模式的动态掩蔽刺激进行了修改，分别使用正立面孔、倒立面孔、打破重组的面孔作为动态掩蔽刺激，并测试它们对呈现在另一只眼睛的面孔或光栅目标刺激的掩蔽程度，发现新类型的掩蔽刺激同样对目标刺激起着较强的掩蔽作用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "但到目前为止，大多数使用CFS 范式的研究所使用的目标刺激都是静态刺激（或者水平移动、原处转动的光栅，如Hong＆ Blake,2009;Veto et al.,2018），只有 Moors 等人(2014)的研究探讨了当目标刺激发生空间位移时，CFS 范式的掩蔽作用。Moors 等人(2014)使用一个朝着或者左右、或者上下、或者45 度倾斜方向进行平动的红色圆圈作为目标刺激，及许多与目标刺激大小相同的正方形作为掩蔽刺激。他们的掩蔽刺激的呈现模式分为两种条件，其中一种被称为动态 Mondrian 掩蔽（moving Mondrian Mask,MMM），即掩蔽刺激中的正方形们也逐帧平动，并被平均随机分配到6种运动方向上，因而总有一种运动方向和目标运动方向一致；另一种是通常的CFS 条件，即正方形们并不是逐帧地进行平动，而是像经典的 CFS 研究那样，每 $1 0 0 \\mathrm { { m s } }$ 随机地变换在屏幕上的位置。他们的研究结果表明，当MMM的运动速度接近目标运动速度时，MMM掩蔽刺激对运动的目标刺激的掩蔽效果比经典CFS范式的掩蔽效果更好。这个结果支持了掩蔽刺激与目标刺激的属性越接近，掩蔽刺激产生的掩蔽作用越强的一般观点。不过Moors 等人(2014)的研究并未涉及目标刺激具有多个运动点或者运动模式比较复杂的情形，从设计原理上也高度依赖在掩蔽刺激中呈现与目标刺激类似的运动。如何克服上述局限，更好地将运动刺激掩蔽在无意识水平，还需进一步探讨。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究提出一种新颖的范式，使用经典的CFS 掩蔽刺激结合一种特殊的目标刺激的呈现方式，探讨这种改进过的CFS 范式对具有多个运动点的目标刺激是否比单纯使用经典的CFS 范式具有更好的掩蔽作用。以往很多研究都已经说明掩蔽刺激与目标刺激在属性上越接近,CFS 的掩蔽效果越好(Han et al.,2021; Mei et al.,2015; Moors et al.,2014; Stein et al.,2011;Valuch,2021)。所以本研究利用伪装原理，从目标刺激与掩蔽刺激的颜色一致性切入，探讨是否在二者颜色一致性更高时，CFS 的掩蔽作用更强。就好比变色龙等动物通过伪装，保持自己的外观颜色时刻与所处的复杂环境的外观颜色相一致，进而不易被天敌或者猎物察觉。因此，我们给这种范式起名为\"变色龙\"范式。我们预期，在目标刺激与掩蔽刺激的颜色完全一致时，被试更难突破CFS 的掩蔽。由于本方法的这种伪装思路并不是通过修改CFS 掩蔽刺激使其包含目标刺激的运动信息，而是依靠与运动无关的图形颜色属性来实现伪装，这就保证了意识上呈现的CFS 掩蔽刺激并不包含也不会透露目标刺激的运动信息，这是本方法的优势之处。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1被试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "我们使用G\\*Power计算实验所需的样本量，表明需要至少7名被试作为样本，以在进行重复测量方差分析时可以检测中等规模的效应 $( f = 0 . 4 0$ ， $\\mathtt { a } = 0 . 0 5$ , power $= 0 . 9 5$ ) (Faul et al.,2007)。本研究从中国北京市的几所高校随机招募了8名被试，其中男生4人，女生4人。被试的年龄分布为21岁到26岁，平均年龄 $2 3 \\pm 1 . 6 6$ 岁。所有被试均有矫正至正常视力，无色盲或色弱，此前均未参加过类似实验。在进行实验前，被试均提供了知情同意书，完成实验后获得一定报酬。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2材料",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验所用的仪器是27.2英寸的华硕ACI2725ASUSVG278HE显示器 $( 1 9 2 0 \\times 1 0 8 0$ 像素；刷新率 $1 2 0 \\mathrm { H z }$ ；经过gamma 校正；平均亮度： $4 0 \\mathrm { c d } / \\mathrm { m } ^ { 2 } .$ ）。显示器使用Photo ResearchPR-655分光光度计进行了校准。屏幕的背景颜色是灰色（RGB：128128128），中央注视点为红色。同时，我们使用NVIDIA3DVision2设备，硬件方面包括支持3D立体技术的NVIDIAGPU 显卡、认证显示器、主动快闪式眼镜（NVIDIA3DVision 2P1431）、红外发射器几个部分，软件方面包括Windows 操作、NVIDIA3D立体驱动程序、支持四缓冲OpenGL立体技术的应用程序。让被试通过主动快闪式眼镜观看屏幕，以确保两只眼睛的视觉输入不同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验刺激是使用 PsychToolbox-3(Brainard,1997)在 MATLAB（The MathWorks,Natick,MA）中生成的。实验中所使用的视觉刺激由两部分组成：CFS 刺激和目标刺激。CFS 刺激由60 个Mondrian 图案化的图像组成，这些图像是通过绘制随机颜色和大小的矩形创建的（ $8 { \\times } 8 ^ { \\circ }$ ，以 $1 0 \\mathrm { H z }$ 闪烁，矩形的颜色及色彩空间数据见表1）。目标刺激依据与掩蔽刺激的颜色一致性被分为共4种条件，每种条件每一帧所呈现的均为10个运动的小正方形 $( 1 \\times 1 ^ { \\circ } )$ ）°10个正方形的位置是随机选择的，确保它们的位置均在与CFS 刺激（ $8 { \\times } 8 ^ { \\circ }$ ）对应的大小范围内，且两两之间不会重叠。10个正方形会同时匀速向上或向下运动，运动的速度是12 像素/秒，在运动1秒后，刷新10个正方形的位置，新生成的正方形在不同的位置以同样的速度向相同的方向继续运动。在实验中，目标刺激的呈现时间为10秒（更新10次正方形的位置）。在目标刺激的4种条件中，条件1为我们重点关注的实验条件，另外3种条件均为对照条件。对每个条件的具体说明如下：条件1：每一帧里运动的10个正方形的颜色均与向优势眼呈现的CFS 刺激中对应区域的像素的颜色完全一致；条件2：每一帧里运动的10 个正方形的颜色均与向优势眼呈现的CFS 刺激中对应区域的像素的颜色不一致；条件3：每一帧里运动的10个正方形的颜色均与在第一帧向优势眼呈现的CFS刺激中对应区域的像素的颜色相一致；条件4：每一帧里运动的10个正方形中，均有5个为纯黑色（RGB：000），5个为纯白色（RGB：255255255）。前三个条件的目标刺激制作都是基于透明度混合（alphablending）原理。以条件1为例，具体来说每一帧的图像都是RGBA矩阵，其中的RGB 三层的矩阵元素就是该帧的CFS 图像，但是A层也就是alpha 透明度层的元素数值则描述了此刻10个正方形的位置，10个正方形区域内的alpha 值都是255，而区域外的都是0。这样显示出来的该帧的目标刺激就是10个正方形，每个正方形内都是CFS刺激对应位置的像素颜色，而正方形外还是灰色背景。条件2与条件1的区别就是每帧图像的RGB三层的矩阵元素并不是此刻的CFS 图像，而是事先额外制作的其他CFS 图像，因此显示出来的目标刺激的10个正方形里的像素颜色与CFS刺激对应区域的像素颜色就不同。条件3则是每帧图像的 RGB三层的矩阵元素是该试次第一帧CFS 刺激的图像。可见四个条件里只有条件1满足在刺激呈现的任意时刻目标刺激与对应位置的CFS 刺激的颜色完全一致。条件2与条件1相比，目标刺激都具有闪烁的特点，但是与对应位置的CFS 刺激的颜色并不一致。条件3的目标刺激消除了闪烁，只是颜色仍是与CFS刺激第一帧时一样的彩色。条件4的目标刺激在消除闪烁的同时进一步消除了彩色。在每个条件中，掩蔽刺激与目标刺激的对比度保持不变，始终为 $100 \\%$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/335df15b7ff1ff550409e9515ca9ab0944c9b2f8b86cd61e78ae2fed3b7bc887.jpg",
+        "table_caption": [
+            "表1Mondrian图案化矩形的RGB值及CIE 颜色空间值 "
+        ],
+        "table_footnote": [
+            "注：R,G,B代表颜色系统中红、绿、蓝三个通道的颜色。x,y为CIE1931色彩空间中颜色的刺激值；u,v为CIE1960色彩空间中颜色的刺激值。"
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>R</td><td>G</td><td>B</td><td>X</td><td>y</td><td>u'</td><td>V</td></tr><tr><td>1</td><td>255</td><td>0</td><td>0</td><td>0.6422</td><td>0.3436</td><td>0.4400</td><td>0.5286</td></tr><tr><td>2</td><td>255</td><td>255</td><td>0</td><td>0.4296</td><td>0.5339</td><td>0.2010</td><td>0.5621</td></tr><tr><td>3</td><td>0</td><td>255</td><td>0</td><td>0.3174</td><td>0.6321</td><td>0.1276</td><td>0.5717</td></tr><tr><td>4</td><td>0</td><td>0</td><td>255</td><td>0.2000</td><td>0.2325</td><td>0.1484</td><td>0.3882</td></tr><tr><td>5</td><td>255</td><td>0</td><td>128</td><td>0.3507</td><td>0.1634</td><td>0.3293</td><td>0.3453</td></tr><tr><td>6</td><td>0</td><td>255</td><td>255</td><td>0.2277</td><td>0.3174</td><td>0.1433</td><td>0.4496</td></tr><tr><td>7</td><td>255</td><td>128</td><td>0</td><td>0.4689</td><td>0.4952</td><td>0.2343</td><td>0.5568</td></tr><tr><td>8</td><td>128</td><td>0</td><td>255</td><td>0.1518</td><td>0.0496</td><td>0.1845</td><td>0.1356</td></tr><tr><td>9</td><td>0</td><td>128</td><td>255</td><td>0.2479</td><td>0.1073</td><td>0.2615</td><td>0.2546</td></tr><tr><td>10</td><td>128</td><td>0</td><td>128</td><td>0.2837</td><td>0.1231</td><td>0.2902</td><td>0.2833</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3程序",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "实验在暗室中进行，要求被试端坐在屏幕正前方，将头放在固定位置的额托架上面，确保被试的眼睛距离屏幕的距离保持在大约 $9 0 \\mathrm { c m }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "首先，被试要先完成考察眼优势的前测任务。在前测任务中，实验环境以及实验设备和正式实验相同，刺激流程参考 Dong 等人(2022)关于CFS 掩蔽的研究中所采用的眼优势筛选测试。我们随机选择一只眼向被试呈现CFS 刺激（同正式实验），同时向被试的另一只眼呈现较弱的目标刺激，目标刺激为在屏幕的正中心呈现的黑色方框（ $1 . 2 { \\times } 1 . 2 { \\textdegree }$ ），内部有一条黑色的bar（ $0 . 4 ^ { \\circ } { \\times } 4$ 像素）。要求被试在看见黑色方框后判断方框内部的黑色bar 在红色注视点的哪个方向上，并做出相应的按键反应（上方：“\"键；下方：“↓\"键；左边： $^ { 6 6 } $ ”键；右边： $^ { 6 6 }  ^ { 1 }$ \"键）。前测实验共包括3个blocks，每个blocks 包括 80个 trials，在80个trials中，目标刺激所呈现的眼睛（左眼vs.右眼）和黑色bar 的呈现位置（上vs.下vs.左vs.右)被平衡匹配,之后在实验中以随机顺序呈现。在每个 trial中，首先在屏幕中心单独呈现 $8 0 0 \\mathrm { { m s } }$ 的红色注视点，然后随机选择一只眼呈现不固定时间的CFS 刺激（ $1 0 0 \\mathrm { m s } \\cdot 2 0 0 \\mathrm { m s } \\cdot 3 0 0 \\mathrm { m s } \\cdot /$ （204号400ms），另一只眼依然只呈现红色注视点。之后，向另一只眼呈现目标刺激，在这一过程中，被试可以进行按键反应并记录时间，在被试按键后，目标刺激消失，CFS 刺激继续呈现600ms 后也结束呈现，进入下一个trial。若被试没有做出反应，则目标刺激在呈现2s 后消失，CFS 刺激继续呈现 $6 0 0 \\mathrm { { m s } }$ 后也结束呈现，进入下一个trial（见图1）。在实验过程中，我们会收集被试按键反应正确的次数，来分别计算两只眼睛的突破率，选择突破率高的眼睛作为被试的优势眼。完成前测实验大约需要15分钟。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/476277abe4b361494ab0a607022172bfaa52f93b37de5a696508fe6d8d280c8d.jpg",
+        "img_caption": [
+            "图1 前测实验流程图。图中CFS 呈现在右眼，目标刺激呈现在左眼。实际上不同试次，CFS呈现在哪只眼是随机的。RT为反应时（reactiontime）的缩写。"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据前测的结果，我们选择在被试的优势眼呈现CFS 刺激，在非优势眼呈现目标刺激。如果实验前测未能成功选择出优势眼，则随机选择目标刺激所呈现的眼睛。在正式实验开始前，主试会为被试详细讲解实验流程，且会要求被试先进行几次练习，确保被试已经完全理解了我们的实验要求。正式实验共包括14个blocks，每个block 包含16个 trials，即目标刺激的4种条件各4 个 trials，其中目标向上和向下运动各2个 trials。每个 trial开始时，首先会在优势眼随机呈现500ms或 $1 5 0 0 \\mathrm { { m s } }$ 的CFS刺激，然后再进入按键反应任务。这时，我们在被试的优势眼呈现CFS 刺激，同时，在其非优势眼呈现随机的某一种条件下向上或向下运动的目标刺激，要求被试在看到目标刺激后判断目标刺激的运动方向，并作出相应的按键反应。看见向上运动的正方形按\"↑\"键，看见向下运动的正方形按\"↓\"键。在这一过程中，记录被试按键是否正确和反应时。如果被试进行了按键（按键正确则突破，错误则未突破)，则非优势眼呈现的目标刺激消失，优势眼继续呈现 ${ 5 0 0 } \\mathrm { m s }$ 的CFS 刺激，然后刺激消失；如果被试并没有进行按键（未突破），则在两眼的刺激均呈现10s后，结束两眼刺激的呈现。无论被试是否进行了按键反应，均在刺激消失之后呈现1s 的灰色背景，然后再开始下一个trial（见图2）。每个trial结束之后，屏幕上会呈现“休息一下！您还需要完成N个block。按\"空格\"键继续进行实验。”。被试可以选择休息，休息结束后，按\"空格\"键就可以进入下一个block。完成正式实验大约需要35分钟。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d511aeea0734dd4f4ad9a18b9d8ad904449be8322fc68bed05d7eeabbd41b9b0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图2 正式实验流程。优势眼中呈现的是CFS刺激；非优势眼中呈现的是目标刺激，为10个匀速向上或向下运动的正方形。图中非优势眼画面中的红圆圈及其右上角正方形大色块，以及优势眼画面中的红圆圈、右上角的圆形大色块及其红色正方形虚线仅作示意用，这些在实验中都不曾出现。其中，非优势眼画面中右上角的正方形是红圆圈部分中小正方形放大后的模样；优势眼画面中右上角的圆形是红圆圈对应位置放大后的模样。可见，只有条件1中正方形色块的像素颜色和圆形色块中正方形虚线里的像素颜色是完全一致的。此外，CFS 图像里的其他9个正方形虚线对应了非优势眼中其余9个正方形色块的视野位置。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.4数据分析 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本研究采用被试内的实验设计，自变量是目标刺激的4种条件类型以及实验包含的4个时段（将blocks 平均分为4组），每种条件下目标刺激都以一定速度进行上、下平动，其外观与CFS 刺激的颜色一致性程度不同；因变量是被试的突破率，突破即意味着被试克服了CFS 刺激引起的眼间掩蔽，将之前意识下加工的目标刺激转变为了意识上加工。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "在数据分析的过程中，我们不将前两个blocks 纳入数据分析，只分析后面12个blocks，以避免实验刚刚进行时数据的不稳定性对整体结果的影响。我们的数据分析过程如下：首先，分别计算每名被试在每个条件下的突破率，同时将纳入分析的12个blocks平均分为4组，考察被试的突破率在实验过程中的变化趋势。然后，以目标刺激的4种条件和blocks 分组为两个被试内因素，被试的突破率为因变量，进行4（条件：条件1vs.条件2vs.条件3vs.条件4） $\\times 4$ （blocks分组：第1组vs.第2组vs.第3组vs.第4组）的两因素重复测量方差分析，考察不同的目标刺激的条件类型以及实验时程（blocks分组）之间突破率是否存在显著差异。最后，对每种条件下的突破试次中，掩蔽刺激掩蔽目标刺激的平均反应时数据进行了报告。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1突破率的变化趋势 ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "我们只将被试的后12个blocks 纳入数据分析。首先，将12个blocks 平均分成4组，即每3个blocks为一组。然后，计算每组、每个条件下所有被试的平均突破率，并绘制成折线图来表现突破率的变化趋势。每名被试单独的突破率变化趋势如图3所示，由图3我们可以发现，大部分被试在条件1下的突破率都显著低于其他三种条件，而其他三种条件之间则并没有很大的差异。同时，我们也绘制了所有被试的总平均突破率变化趋势图（见图4），通过观察变化趋势图，可以发现，条件1的突破率在整个实验过程中都明显低于其他三条件，而其他三种条件之间看起来并不存在很显著的差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/3792be199b5ce1ee9b9fead579f52432f2c8a8222d93eab91da1b79890d26ec2.jpg",
+        "img_caption": [
+            "图3单独被试突破率变化趋势图。因为有的条件间部分数据重合，因此有的被试结果图里少了个别颜色的数据点。"
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9004e1827db8b8acb2427a766747986d7b4e3879178d600e1341d4e16c422cd.jpg",
+        "img_caption": [
+            "图4总平均突破率变化趋势图"
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2重复测量方差分析结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "其次，我们以目标刺激的条件及blocks 的分组为自变量，以被试在每个条件下的突破率为因变量，进行两因素重复测量方差分析，以进一步探讨每种条件及每组blocks 对突破率的影响。两因素重复测量方差分析的结果表明，条件的主效应显著 $( F _ { ( 1 , 1 . 2 0 1 ) } = 3 2 . 3 8 , p <$ 0.001, $\\boldsymbol { \\eta } ^ { 2 } = 0 . 8 2$ ,Greenhouse-Geisser 校正),blocks 分组的主效应不显著 $( F _ { ( 1 , 3 ) } = 1 . 6 2 , p = 0 . 2 1 5$ $\\eta ^ { 2 } = 0 . 1 9$ ），两者之间的交互作用不显著（ $F _ { \\left( 1 , \\ 3 . 0 3 8 \\right) } = 0 . 7 2$ ， $p \\ = \\ 0 . 5 5 2$ ， $\\eta ^ { 2 } = 0 . 0 9$ Greenhouse-Geisser 校正）。这与我们的假设也相一致，即是由于目标刺激条件的不同，导致了突破率存在显著的差异。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "只有条件这一因素的主效应显著，因此我们进一步比较条件这一因素下不同水平间突破率的差异。事后比较检验的结果表明，条件1的突破率（ $0 . 2 6 \\pm 0 . 1 1$ ）显著低于其他三种条件（条件1vs.条件 $2 \\colon p = 0 . 0 0 8 , 9 5 \\% C \\mathrm { I } \\left[ - 1 . 0 1 1 , - 0 . 1 7 6 \\right]$ ；条件1vs.条件 $3 { : } p = 0 . 0 0 2$ ， $9 5 \\% \\mathrm { C I }$ $[ - 1 . 0 6 3 , - 0 . 3 0 7 ]$ ；条件1vs.条件4： $p = 0 . 0 0 3 , 9 5 \\% \\mathrm { C I } [ - 1 . 0 5 3 , - 0 . 2 5 4 ] )$ ；而其他三种条件之间并不存在显著差异（条件2（ $0 . 8 5 \\pm 0 . 0 8 \\rangle$ vs.条件 $3 ~ ( 0 . 9 4 \\pm 0 . 0 4 )$ ： $\\textstyle p = 0 . 4 1 7$ ， $9 5 \\% C \\mathrm { I }$ $[ - 0 . 2 4 6 , 0 . 0 6 4 ]$ ；条件2vs.条件4 $( 0 . 9 1 \\pm 0 . 0 6 )$ ： $p = 0 . 0 5 7 , 9 5 \\% \\mathrm { C I } [ - 1 . 1 2 1 , 0 . 0 0 2 ]$ ；条件3vs.条件4: $p = 1 . 0 0 0 , 9 5 \\% \\mathrm { C I } \\left[ - 0 . 1 3 5 , 0 . 0 7 3 \\right] )$ ·",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3突破试次反应时结果",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "图5是每名被试在不同条件下所突破的试次的平均反应时。这里需要指出的是，反应时在本研究中并不适合作为准确、可靠的指标。这是因为本研究中每个试次限定了最长10 秒的时长，即使没有发生突破，试次到时间也自动结束。试想，假使我们把每个试次最长10秒的限制改成1分钟，甚至改为直到被试按键才截止。那么条件1的反应时均值势必远超现在突破试次的条件1的反应时均值，甚至远超过10秒。这就是为什么我们并不以反应时作为有效指标的原因。而我们之所以不采用\"直到被试按键才截止”，是因为预实验中发现条件1掩蔽效果特别好，担心如果采用\"直到被试按键才截止\"的话，可能有些被试的总实验时长会超过其能够忍受的极限。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由图可见，尽管这里只看被试可以突破掩蔽的试次，但大多数被试在条件1中完成突破所用的反应时最长。这也进一步佐证了我们的实验结果，即在目标刺激和掩蔽刺激颜色一致度更高时，被试更难突破。",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/75536ca8104a35fe1c9c93b9af5d94d0e00731f764ec8ae1e08ef1f033f93b4e.jpg",
+        "img_caption": [
+            "图5不同条件下单个被试突破试次的平均反应时对比图"
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4补充实验 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.1实验目的",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "由以上结果可知，在\"变色龙\"范式中，运动的目标刺激确实可以获得很好的掩蔽。我们希望这一范式可以应用在对无意识运动加工的研究中，因此，为了证明在该范式下被掩蔽的目标刺激的运动信息确实可以被大脑加工，我们进行了补充实验。在补充实验中，我们拟对比包含和不包含运动信息的两种目标刺激在\"变色龙\"范式中的被掩蔽情况。如果包含运动信息的目标刺激更容易突破掩蔽，则能证明是被无意识加工的运动信息帮助被试完成了突破，大脑可以对掩蔽下的运动信息进行无意识加工。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4.2被试 ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "为了可以较好地将\"变色龙\"范式中包含和不包含运动信息的两种目标刺激的被掩蔽情况进行对比，我们选择在原实验中\"变色龙\"条件下（条件1）突破率较高的两名被试（男女各一名）进行了补充实验，以确保被试有一定的可突破的试次（图3中的被试2和被试4，",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "被试1的突破率也较高，但由于新冠疫情不能参与实验）。在进行实验前，被试均提供了知情同意书，完成实验后获得一定报酬。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.3材料和程序",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "补充实验的实验材料与程序和正式实验的材料与程序相似。只是在原实验的基础上，将条件1分为了条件1-运动和条件1-静止两种子条件。我们将条件1原有的试次平均分为两组，一组和原实验相同，为条件1-运动组，使用的目标刺激为：每一帧都向同一方向运动的10个正方形，颜色与向优势眼呈现的CFS 刺激的颜色完全一致，这一组的目标刺激包含了运动信息。另一组则去除了运动信息，为条件1-静止组。使用的目标刺激为：每一帧都静止的10个正方形，颜色与向优势眼呈现的CFS 刺激的颜色完全一致。其他的实验条件（条件2、条件3、条件4）均与原实验完全相同。在每个条件中，掩蔽刺激与目标刺激的对比度保持不变，始终为 $100 \\%$ 。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.4数据分析与结果",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "补充实验的数据分析过程与原实验相同，即只分析后面12个blocks，将纳入分析的12个 blocks 平均分为4组，考察被试的突破率在实验过程中的变化趋势。实验结果如图6所示，两名被试在条件1-静止下的突破率最低，且明显低于条件1-运动情况。已知这两组的目标刺激只有是否包含运动信息这一点差异，因此，突破率间的差异是由运动信息导致的。是大脑对运动信息的无意识加工\"帮助\"被试突破了掩蔽刺激的掩蔽。因此，“变色龙\"范式中的运动信息是可以被大脑加工的。",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/cebb5245c8e67898c1ea81b825ec418a3ca74fe88390791e0b7542fd5b197afc.jpg",
+        "img_caption": [
+            "图6补充实验突破率结果。因为有的条件间部分数据重合，因此有的颜色的数据点被其他颜色数据点遮盖。"
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5讨论",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "本研究介绍了一种新颖的将多运动点目标刺激更好地维持在无意识水平的方法，即\"变色龙\"范式。我们发现当CFS 范式中的目标刺激为多运动点的动态刺激时，CFS 的掩蔽作用依然存在。同时，在向被试呈现与掩蔽刺激颜色完全相一致的动态目标刺激时，可以更好地通过掩蔽使被试对运动刺激持续进行无意识下的加工。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "首先，我们的研究结果证明了CFS 对多运动点的动态目标刺激依然有着较好的掩蔽作用。与Moors等人(2014)的研究相比，我们将单一运动点的动态目标刺激扩展为多运动点的目标刺激。在很多有关运动知觉的研究中，都会涉及到多个运动目标（如，光流运动、生物运动的刺激），因此，我们的结果进一步证明了CFS 范式在探讨无意识水平下运动刺激加工的可应用性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "其次，基于伪装原理，我们发现当掩蔽刺激和目标刺激的颜色完全一致时，CFS 的掩蔽作用显著强于二者颜色不一致的条件。无论是被试的突破率结果，还是突破试次所用的平均反应时的结果都体现了这一点。Moors 等人(2014)的研究结果也表明了当掩蔽刺激与目标刺激的特征更加类似时，CFS 的掩蔽效果更好。同时，Valuch(2021)分别使用颜色相同和不同的材料作为掩蔽刺激和目标刺激，也证明相比于掩蔽刺激和目标掩蔽颜色不同的试次，二者颜色一致的时候，被试更难突破CFS 的掩蔽。还有很多研究结果都证明了双眼刺激之间的特征相互匹配的程度对掩蔽效果的重要性，即CFS 刺激的特征和目标刺激越相像，掩蔽的时间越久(e.g.,Stein et al.,2011)。但这些研究都是通过改变 CFS 范式中掩蔽刺激的特征以达到对目标刺激更好的掩蔽作用，而这种思路存在一定的局限性。如在 Moors 等人(2014)的研究中，他们的预实验里发现传统的CFS 范式并不能很好地掩蔽对运动刺激的觉察，只有在CFS 中加入与目标刺激一致的运动信息才会很好地实现对运动目标刺激的掩蔽。这种改进的CFS 范式可能仅在掩蔽匀速平动的少数运动目标刺激时更适用，当面对多运动点或变速运动的较复杂目标刺激时（如生物运动的刺激），很难将MMM掩蔽刺激的运动方向和速度很好地与目标刺激完全一致地进行匹配。而在Valuch(2021)的研究中，研究者也是通过改变掩蔽刺激的特征，将掩蔽刺激的颜色改为和目标刺激一致的单色，才发现CFS 更好的掩蔽作用。当目标刺激变得复杂时，掩蔽刺激可能也要继续被相应地进行改变才会继续维持其掩蔽效果。可见一旦运动刺激数目较多或者较为复杂时，这种通过在掩蔽刺激中加入目标刺激的运动特征的方法使用起来很复杂，甚至无法实现。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "而在本研究中，我们所采取的方法是使用经典的CFS 并保持CFS 的特征不变，基于伪装原理对目标刺激的外观特征进行改变，以最大化目标刺激和CFS刺激在除了运动特征以外的其他特征（如颜色）的一致性。这种方法可以很容易地实现对较复杂的运动目标刺激进行掩蔽。同时，这种方法也确保了呈现CFS 的那只眼的视觉通路尽可能地不会输入研究者想掩蔽掉的视觉运动信息。如果掩蔽刺激中包含研究者所关注的视觉运动信息，可能会造成对实验结果解读的困难。因为不清楚记录的行为结果或者神经影像信号是取决于对被掩蔽的目标刺激的运动信息的无意识加工，还是取决于CFS 中所包含的视觉运动信息的加工。但我们基于伪装原理所使用的透明度混合方法，既让目标刺激在形状颜色这些外观特征信息上保持和对应的CFS刺激相一致，又让目标刺激所包含的运动信息与CFS 刺激完全独立，理论上可以对各种类型的运动目标刺激进行较好的掩蔽。且补充实验的结果也在很大程度上支持大脑可以对被掩蔽的运动信息进行加工的观点。因此，相比修改CFS 刺激的思路，本方法未来有着更为广阔、自由地应用在无意识运动信息加工研究中的可能性。",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "此外，关于目标刺激的突破，可能有疑问认为这不是由于对其运动信息的无意识水平加工造成的，而只是当双眼汇聚偶尔没有完全对齐时才会发生。对此疑问，我们给出以下两方面回答。第一，不同于许多使用CFS 范式的研究，本研究选用 NVIDIA主动快闪式眼镜（NVIDIA3DVision2P1431）而非立体镜来实现离眼刺激呈现。比起立体镜，它的一大优势就是可以有效地避免双眼汇聚有时不对齐的问题。这款眼镜在外观上和普通眼镜没有太大区别。佩戴它时，除了屏幕上呈现刺激的局部区域外，被试可以像戴平常的平光眼镜一样看见实验室的环境。这些自然场景发的光属于自然光以及日常照明，而不是屏幕发的光，也就不会受制于NVIDIA眼镜的工作原理（按奇偶帧分别交替呈现到两眼）。因此被试透过NVIDIA 眼镜看周围场景与透过平常的平光眼镜没有多大区别。这也就意味着，除了屏幕上的融合框以内的刺激受制于NVIDIA 眼镜的工作原理作离眼呈现，除此之外的所有的可视事物皆为双眼（穿过眼镜）正常观看。根据生活经验，当我们戴着一副平光镜双眼观看外界环境时，双眼自然汇聚很难出现问题。这也解释了使用 NVIDIA眼镜与使用立体镜有个很重要的区别，即被试看到的环境场景在客观上帮助了双眼自然地汇聚。第二，就算退一步说，被试双眼汇聚无法完全对齐才导致目标突破，那也难以解释清楚本研究的补充实验的结果。补充实验里“条件1-运动\"和“条件1-静止\"的唯一区别是目标运动与否。而对于这两种条件，在任意时刻，“变色龙\"的特性决定了两眼刺激的融合难易程度都是完全相同的。因此不难推论上述双眼汇聚对齐问题对于这两个条件应该有类似的影响，预期将造成相似的突破率。然而，实际结果却发现“条件1-运动\"比“条件1-静止\"的突破率更高。这个结果与无意识运动信息加工促使目标刺激突破掩蔽的解释一致，却很难用双眼汇聚对齐问题来解释。综合以上两方面解释，我们有理由相信实验中目标的突破不太可能只是因为被试双眼汇聚无法完全对齐才导致的，而更可能是无意识运动加工带来的结果。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "同时，以往研究中CFS范式经常被用来研究眼间抑制，并且常见的控制方法是将目标刺激与掩蔽刺激叠加至单眼呈现的方法，以确保抑制时间的差异来源于眼间抑制(Wang et al.2012)。这里需要指出，本研究无法用这种传统的方法证明\"变色龙\"范式的有效性是因为眼间抑制的作用，因为目标刺激与对应的掩蔽刺激颜色完全一致。如果将二者叠加到一起做单眼控制实验，被试会完全感知不到二者的差异。不过本研究的目的只是希望找到可以掩蔽运动信息、研究无意识运动信息加工的范式。至于这个范式背后的机制是否取决于眼间抑制并不是最关键的。而眼间抑制只是实现无意识加工的一个必要不充分条件，达成无意识加工的方法有很多种，例如拥挤效应范式（crowding）和后掩蔽范式（backward masking），这些范式也都不涉及眼间抑制。考虑到CFS 范式方便研究中央视野附近的、呈现时间较长的刺激，我们选择了比较常见的CFS 范式并对其进行了改进。我们认为，只要可以使目标刺激被呈现时，其所包含的运动信息在一段时间内不被察觉，确保\"变色龙\"范式可以使运动信息被无意识加工，就达成了本研究的目的。至于眼间抑制是否在其中起到作用，还需要未来研究进一步解决。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究在验证CFS 对动态目标刺激的可掩蔽性的基础上，首次基于伪装原理探讨了掩蔽刺激与动态目标刺激颜色一致性对CFS 掩蔽作用的影响。研究结果证明了二者的颜色一致性越高，CFS 对目标刺激的掩蔽作用越强，且这种类型的动态目标刺激很难在10s内突破CFS 的掩蔽。同时，这种改进的CFS 范式可以在很大程度上保证被试所觉察到的运动信息完全来自目标刺激。因此，本研究为CFS 范式在研究无意识视觉运动信息加工领域的应用提供了初步参考。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "致谢 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "感谢董雪在程序学习和程序编写上的帮助。感谢桑晓慧和宋方兴在数据采集和测量上的帮助。",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Brainard,D.H.(1997).The psychophysics toolbox. Spat Vis,10(4),433-436.   \nCapitao,L.,Underdown,S.,Vile,S.,Yang,E.,Harmer, C.,&Murphy,S.(2014).Anxiety increases breakthrough of threat stimuli in continuous flash suppression. Emotion,14(6),1027-1036.   \nCha,O.,Son,G., Chong,S.,Tovar,D.,& Blake,R. (2019). Novel procedure for generating continuous flash suppression: Seurat meets Mondrian. Journal of Vision, 19(14),1-22. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Dong,X.， Zhang,M.,Dong,B.，Jiang,Y.,& Bao,M.(2022).Reward produces learning of a consciously inaccessible feature.British Journal of Psychology,113(l),49-67. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Faivre,N.，Berthet, V.，& Kouider,S.(2014). Sustained invisibility through crowding and continuous flash suppression: a comparative review. Frontiers in Psychology, 5,475. htp://10.3389/fpsyg.2014.00475   \nFaul,F.,Erdfelder,E.,Lang,A. G.,& Buchner,A.(20o7). G\\*power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences.Behav Res Methods,39(2),175-191.   \nHan, S.,Alais, D.,& Palmer, C.(2O21). Dynamic face mask enhances continuous flash suppression.Cognition, 206,104473. http://10.1016/j.cognition.2020.104473   \nHeyman,T.,& Moors,P.(2014).Frequent words do not break continuous flash suppression differently from infrequent or nonexistent words: implications for semantic processing of words in the absence of awareness. Plos One, 9(8), e104719. http://10.1371/journal.pone.0104719   \nHong，S.W.，& Blake，R.(2o09).Interocular suppression differentially affects achromatic and chromatic mechanisms.Atention,Perception, & Psychophysics,71(2),403-411.   \nJiang,Y., Costello,P.,& He,S. (2oo7). Processing of invisible stimuli: advantage ofupright faces and recognizable words in overcoming interocular suppression. Psychological Science, 18(4), 349-355.   \nKim, C.Y.,& Blake,R. (2005). Psychophysical magic: rendering the visible ‘invisible'.Trends in Cognitive Sciences, 9(8),381-388.   \nKorisky,U.,Hirschhorn,R.，& Mudrik,L.(2018). \"Real-life\" continuous flash suppresson (CFS)-CFS with real-world objects using augmented reality goggles. Behavior Research Methods, 51(15),2827-2839.   \nLang,Y., Gao,T.，& Tang,R.(2018). Continuous flash suppression inhibits semantic processing of Chinese characters with unawareness: an event-related potential study. Journal of Behavioral & Brain Science, 8(10), 574-586.   \nMei, G.,Dong,X.,Dong,B.,&Bao,M.(2Ol5).Spontaneous recoveryof effcts of contrast adaptation without awarenes. Frontiers in Psychology, 6,1464. htp://10.3389/fpsyg.2015.01464   \nMoors,P.，Wagemans,J.，& De-Wit, L. (2014). Moving stimuli are less efectively masked using traditional continuous flash suppression (CFS) compared to a moving mondrian mask (MMM): a test case for feature-selectivesuppressionandretinotopicadaptation.PLoSONE,9(5)， e98298. http://10.1371/journal.pone.0098298   \nMoors,P.,Wagemans,J.,Ee,R.V.,& De-Wit,L.(2016).No evidence for surface organization in Kanizsa configurations during continuous flash suppression.Attention Perception & Psychophysics，78(3), 902-914.   \nStein,T.,Hebart, M.,& Sterzer,P.(2O11).Breaking continuous flash suppression: a new measure of unconscious processing during interocularsuppression? Frontiersin Human Neuroscience， 5, 167. http://10.3389/fnhum.2011.00167   \nTsuchiya,N.,& Koch, C. (2oo5). Continuous flash suppression reduces negative afterimages. Nature Neuroscience, 8(8),1096-1101.   \nValuch,C.(2O21).Color can shorten breakthrough times in continuous flash suppression through increased salience and task relevance.Vision,5,13.https://doi.org/10.3390/vision5010013   \nVeto,P.,Schutz,I,& Einhauser, W. (20l8).Continuous flash suppression: manualactionaffects eye movements but not the reported percept.Journal of Vision, 18(3),1-10.   \nWang,L., Weng, X.,& He,S. (2Ol2). Perceptual grouping without awarenes: superiority of kanizsa triangle in breaking interocular suppression. Plos One,7(6),e40106. htps://doi.org/10.1371/journal.pone.0040106   \nYang,E.， Zald,D.，& Blake,R. (20o7).Fearful expressions gain preferential access to awareness during continuous flash suppression. Emotion, 7(4),882-886. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A method for studying unconscious motion processing based on the camouflage principle ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Jiaxu1,², BAO Min1, 2",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(CASKeyLaboratoryofehavioralScience,InstituteofsychologyhineseAcademyofciences,eiingO,ina) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "(DepartmentofPsychology,University ofChineseAcademy ofSciences,Beijing10oo49,China) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Continuous flash suppression (CFS） is one of the common methods to study unconscious visual processing. In the regular CFS paradigms used in previous studies,dynamic or high contrast image sequences (such as the Mondrian pattern sequences） are presented to one eye as masks. Meanwhile,a static or lower contrast target is presented to the opposite eye，which can be rendered invisible by the masks for a short period of time. The present study was designed to explore whether the CFS can effectively block the conscious processing of multiple moving targets.Inspired by the camouflage of chameleons in the nature，we proposed a novel CFS paradigm (which we call the \"chameleon\" paradigm). By using the alpha blending algorithm, we ensured the color of the targets to be consistent with the corresponding regions of the CFS masks at any moment. We then tested whether the “chameleon” paradigm can obscure the targets’ motion information from awareness more effectively than the regular CFS paradigm. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "We randomly recruited eight participants. Their dominant eyes were presented with the regular CFS masks， meanwhile the nondominant eyes were presented with ten spatially non-overlapping squares as the targets which moved either upwards or downwards at a constant velocity. Each square had one second of lifetime. Thus, for each square,after every one second of movement, its position was reset, and then it continued to move in the same direction at the same speed.In each trial, the target squares were presented for ten seconds (refreshing their positions ten times） at most. By manipulating the degree of color consistency between the targets and the masks,a total of four experimental conditions were included, with a “chameleon”condition and three control conditions. Participants were instructed to report the moving direction of the targets on seeing the targets by pressing a corresponding buton. The program recorded both the response accuracy and the response time since the start of a trial (i.e. the time required for the targets to break into awareness,aka the breakthrough time). We also calculated the percentage of trials where the targets broke into awareness,which was called the breakthrough rate. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The results showed that the \"chameleon\" paradigm allowed the CFS masks to efficiently block the conscious processng of multiple moving targets. Specifically, as compared to the three control conditions with less degree of color consistency between the targets and the CFS masks, the breakthrough rate was significantly lower under the“chameleon” condition where the color of the targets was fully consistent with the CFS masks.No significant differences were found for the breakthrough rate between the three control conditions. Moreover, according to the grand average data,in the “chameleon” condition the moving targets could break into awareness within 1Os in only ${ \\sim } 2 5 \\%$ of the trials.For the three control conditions,this probability increased to more than $80 \\%$ , suggesting an overwhelming advantage of the “chameleon” paradigm in rendering multiple moving targets invisible. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Another advantage of the \"chameleon\" paradigm is that it does not require the CFS masks to contain any motion information resembling the targets, thereby it ensures that the measurement of unconscious visual motion processing is exclusively from the target. Compared with the idea of modifying CFS masks in the literature,our method is believed to have broader applicability. Therefore,we recommend the “chameleon” paradigm a useful tool for future investigations of unconscious visual motion information processing. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Key words Continuous flash suppression, unconscious processing, motion, camouflage, alpha blending ",
+        "page_idx": 19
+    }
+]

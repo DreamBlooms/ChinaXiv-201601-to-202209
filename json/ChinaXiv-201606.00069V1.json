@@ -1,0 +1,565 @@
+[
+    {
+        "type": "text",
+        "text": "学科化知识服务的型人研究以区域经济的学科竞争力分析为例",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "顾立平(台湾大学图书资讯系，台湾台北10617)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为扩展科学计量学的应用、将图书馆员的工作嵌入到研究所的研究团队，以及创新图书馆服务，分析了 SC I中 1999-2009年间研究中国香港、中国大陆和亚太的经济学论文。结果发现:（1)不同研究机构的不同特征；（2)不同研究机构内的不同研究人员的不同特征；（3)他们需要不同程度的建议和信息服务。研究建议:(1)利用平均发文量和平均被引量,绘制一套坐标体系;(2)在坐标体系上创建型人;(3)图书馆员运用型人与研究团队交流,以获得对图书馆服务的建议。研究表明,创建与使用型人(群组行为)能够开展学科化知识服务，而且不需要使用昂贵的数据库、复杂的数学公式和大量的人力与经费。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：学科咨询;信息服务；文献计量学；区域经济学；竞争力分析中图分类号：G312 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LA69000 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "竞争力分析是评估投资专案中,针对市场预测的研究,它主要分析拟建、新建、改建或扩建的项目在国内外市场竞争中获胜的条件、策略和可能性。分析家们帮助减少信息流量和数量，同时保证了产品的质量，就可以大大提高行政机关的运作能力和有效决策的信心[\"。学科竞争力分析是分析某一学科领域内的研究型大学或研究机构、研究团队、研究人员的科学与技术成果，以评估支持该学科领域创新研究的可行性。如果图书馆员掌握学科竞争力分析这一技能，就能够对该图书馆所服务之研究群体，进行深层次资讯服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前学科竞争力分析具有几项发展困境：（1)昂贵的数据库使得学科竞争力分析局限在少数图书情报机构；(2)复杂的数学公式使得多数基层图书馆员望而却步；（3)因为上述两个条件，进行学科竞争力分析需要大量经费和高端人才的投资；（4)这种大量投资对于促进科学发展的直接效果不完全显现；(5)相关的统计方法,例如科学计量学（sc ientometrics)的指标,多数用来排名和评比，而非用来深化图书馆服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "科学计量学是基于引文分析的领域视觉化研究所衍生出来的新学科,採用文献计量学的方法分析科学文献,对科技交流进行量化研究[2]。通过一些特殊方法，科学计量学已经广泛地应用于测量科学进步与科学家行为的研究中[3]。然而,这种方法能不能够简化后应用在图书馆的知识服务呢？",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文透过实证研究，提出一条简洁方案，即:(1)利用平均发文量和平均被引量，绘制一套坐标体系；(2)在坐标体系上创建型人；(3)图书馆员运用型人与研究团队交流，以获得对图书馆服务的建议。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1研究对象和研究问题",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "参考董瑜等人[4对农业科学研究影响力的分析,采用基本科学指标资料库（ESI可以分析国家/地区、研究机构、科学家、高被引论文、热点论文等内容。同理,在ESI中的经济与商业论文(香港八校)分析，请见表1。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "如表1所示,在ESI中的经济与商业（香港五校）科技成果里,香港城市大学（CityUniv HongKong)在论文总数位居中文大学和科技大学之后，被引总数和平均被引位居科技大学和中文大学之后，但是均位于香港大学和香港理工大学之前,其在",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ESI中的经济与商业研究成果在香港地区属于中间位置。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/5a17fe8f402c044d576402a46187145506d127152b31ac1c760cc21ba10c5a1f.jpg",
+        "table_caption": [
+            "表1在ESI经济与商业论文的香港八校资料"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>apers</td><td>C itations</td><td>C itations per papel</td></tr><tr><td>C ity Univ Hong Kong</td><td>457</td><td>3006</td><td>658</td></tr><tr><td>C h inese Univ Hong Kong</td><td>599</td><td>4507</td><td>7.52</td></tr><tr><td>U niv Hong Kong</td><td>387</td><td>2013</td><td>520</td></tr><tr><td>Hong Kong Polytech U n iv</td><td>446</td><td>2562</td><td>574</td></tr><tr><td>Hong Kong Univ Sci& Technol</td><td>572</td><td>4711</td><td>824</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "数据来源E ssential scien ce indicatiors访问时间 2010- O5- 24;领域E conom ics& Busin ess",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "备注：HongKongBaptitUniv缺乏 ECONOMICS& BUSNESS数据;缺乏L ingnanUniv和 HONG KONG NSTIIE OF EDUCATIN 数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ">本文的研究目的并不在于考察国家地区的排名，而在于发展一套简单的计量方法，以利图书馆员和研究团体交流,并达到学科化知识服务的目的。因此，如果从图书馆服务商学院的角度进行分析，需要协助他们厘清“竞争场域”“竞争对手”“竞争优／劣势”乃至“竞争策略”等课题,因而有如下研究问题：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（1)如果针对中国香港、中国大陆、亚太经济的研究论文进行计算,可以从 SSCI中观察到哪些现象？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（2)作为一个研究机构，香港城市大学针对香港中国大陆、亚太的区域经济研究,有哪些竞争对手？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "（3)承接问题2的分析,香港城市大学与其竞争对手有何差别？",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2研究设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21研究框架",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "按照SSCI所能提供之每位作者和机构的发文量与每篇文章之引用量的数据，舍弃复杂的科学计量学公式,采用两个研究假设，设计出一个坐标，根据此坐标创建型人模型（personasmodels),如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设1:发文量代表作者或机构的科技生产量;设为横坐标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假设2引用量代表作者或机构的科技生产质;设为纵坐标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据图1所示，设定研究框架为（1)在发文量$\\textcircled{ C}$ 1994-2012 China Academic Journal Electronic Publi:",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/87397a06605ff1d9ccda734229b8a6ec945f33d2c6f67c7f499238862e60cd25.jpg",
+        "img_caption": [
+            "图1研究现象的行为特征类型"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "和被引量平均线以下,称为“普通型”（nomal)；（2)在发文量平均线亦上、在被引量平均线以下，称为“勤奋型”（diligent)；（3)在发文量平均线以下、在被引量平均线以上,称为“天才型”（genius);在发文量和被引量平均线以下,称为“超级型”（supeman)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "22研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "采用书目文献计量学(biblime trics)。它是图书馆学的一种独特的研究方法，是定量分析一切知识载体的科学,着重量化文献(各种出版物,尤以期刊论文和引文居多）、作者（个人集体或团体）、词汇（各种文献标识,其中以叙词居多)的综合性知识体系。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "23研究过程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "操作过程为：(1)选定主题,分析关键词，在香港城市大学经济与金融学系的网页上，可见“Them ission of the Departm ent is to be a centre of excellence in research and teach ingusing econom ics andfinance for bus ness and public sector dec ision m ak ingin Hong Kong the Chinese ma n land and otherAs ia-Pacific econom ies ”[5],因此挑选“香港”、“中国大陆”、“亚太\"为关键词；（2)输入查询指令与选取领域,本文为“SSCI”（数据源）、“1999－2009”（年份）、“经济学”(领域)；（3)初看与细看分析结果;(4)复制结果到Word档；(5)进行数据清理；(6)数据清理后转录Excel格式;(7)利用Excel制作图表。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3结果",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1)针对中国香港、中国大陆、亚太经济的研究论文进行SSCI计算",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在1999-2009年间针对香港、大陆、亚太的经济研究论文总数与被引频次位居前p10位的机构，请",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "见表2 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/69a19f611cff260af4ec767fc94ce32239305b66c3f5c7f4d2a26584f472f862.jpg",
+        "table_caption": [
+            "表2对中国香港、中国大陆、亚太的经济研究位居前10位的机构"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>总发文量</td><td>总被引量</td><td>平均被引次数</td></tr><tr><td>香港中文大学</td><td>37</td><td>98</td><td>264</td></tr><tr><td>香港大学</td><td>24</td><td>91</td><td>379</td></tr><tr><td>香港理工大学</td><td>18</td><td>73</td><td>405</td></tr><tr><td>岭南大学</td><td>17</td><td>27</td><td>1 58</td></tr><tr><td>香港城市大学</td><td>15</td><td>77</td><td>513</td></tr><tr><td>新加坡国立大学</td><td>11</td><td>36</td><td>327</td></tr><tr><td>香港浸会大学</td><td>10</td><td>86</td><td>860</td></tr><tr><td>香港科技大学</td><td>9</td><td>49</td><td>544</td></tr><tr><td>加州大学圣克鲁兹分校</td><td>9</td><td>58</td><td>644</td></tr><tr><td>世界银行</td><td>8</td><td>51</td><td>637</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "资料来源: SSCI Time 20-05-2010 377records Topic $\\mathbf { \\sigma } = \\mathbf { \\sigma }$ HongKong）ORTop ic $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (Ch ina m ain lnd） OR Topic=（A sia- Pacifi)A nalys isSub ject A reas $\\ c =$ （ECONOM ICS） AND Docum ent Type $: = \\dag$ (ART ICLE)",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如表2所示,在前10位机构中,香港城市大学的总发文量位居第5位,总被引量位居第4位，平均被引次数位居第5位，这与表1所示的中间位置，在直观上没有太大差异。但是香港大学的竞争力凸显，而且岭南大学和香港浸会大学在ESI的经济与商业研究成果分析中,未见其名，却在 SSCI中的1999-2009区域经济研究成果分析中，占据第4和第7位。可见区域经济的学科竞争激烈。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2)机构内的研究人员的学科竞争力（香港中文大学）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图2所示,该研究机构各种型都有,虽然以普通型人居多，但是有两位勤奋型人、一位天才型人和一位超级型人。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b3dea66215ddb6c286dcbb51be678b9fd3a6421777173e63d51a32a958ed08d.jpg",
+        "img_caption": [
+            "图2香港中文大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)机构内的研究人员的学科竞争力（香港大",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图3所示，该研究机构以普通型人居多，而有两位勤奋型人和一位介于普通型和天才型的研究人员。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bcb94bc33b2c6ca28d55e5abb935b599a9fc1e1dccd6e5b18cd2dde49f32b94.jpg",
+        "img_caption": [
+            "图3香港大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4)机构内的研究人员的学科竞争力（香港理工大学）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图4所示,该研究机构以普通型人居多，而有一位天才型人。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5324e18ec05f451d4b9096ad2c823746e433766b80fd83d194aa305f19c0f883.jpg",
+        "img_caption": [
+            "图4香港理工大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(5)机构内的研究人员的学科竞争力（岭南大学）",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "如图5所示，该研究机构只有两类型人：普通型人和勤奋型人。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff8a314fd733cd2dbcc6b079f89443a68d16f0df79598e1873cb7129e469b59d.jpg",
+        "img_caption": [
+            "图5岭南大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(6机构内的研究人员的学科竞争力（香港城市大学）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，该研究机构也以普通型人居多，但是有三位天才型人、一位超级型人和一位介于天才型和普通型的研究人员,而没有勤奋型人。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8acdc36c4fb812891a20b4c7b4e3f7afc5d1074aeab5dd4a7736e528aa100699.jpg",
+        "img_caption": [
+            "图6香港城市大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（7)机构内的研究人员的学科竞争力（新加坡大学）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图7所示,该研究机构以普通型人居多，而有一位勤奋型人和一位天才型人，没有超级型人。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3a5a458ac999ec53cb274a795794c46bbb6808385de0d65dc2b97bc9c3ff70d.jpg",
+        "img_caption": [
+            "图7新加坡国立大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(8)机构内的研究人员的学科竞争力（香港浸会大学）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图8所示，该研究机构以普通型人居多，而有一位介于天才型和普通型的研究人员。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/55517e81245d45a92292b35eb3fc5efd87081296e7ea4ea1c949d5b2c15f30a4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(9)机构内的研究人员的学科竞争力（香港科技大学）",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图9所示，该研究机构以普通型人居多，而一位天才型人和一位超级型人，没有勤奋型人。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d7b8c222ce4b8ce910b512446b27dbace8b63e772148fde5c2e119be10715a5.jpg",
+        "img_caption": [
+            "图9香港科技大学的研究人员"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(10)八所研究机构的研究人员比较",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作为一个研究机构,香港城市大学针对中国香港、中国大陆、亚太的区域经济研究，主要有八个竞争对手。从型人分布来看,主要与香港科技大学类似，以少数的天才型人和超级型人加上多数的普通型人为其学科竞争力的特征。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbbe3561c931a257c0e588d38156c189f0e2e781f15bdbc5c588eb1a703dbb04.jpg",
+        "table_caption": [
+            "表3八个大学的四类型人比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>普通型人</td><td>勤奋型人</td><td>天才型人</td><td>超级型人</td></tr><tr><td>香港中文大学</td><td>62</td><td>2</td><td>1</td><td>1</td></tr><tr><td>香港大学</td><td>37</td><td>2</td><td>1</td><td>0</td></tr><tr><td>香港理工大学</td><td>36</td><td>0</td><td>1</td><td>0</td></tr><tr><td>岭南大学</td><td>18</td><td>3</td><td>0</td><td>0</td></tr><tr><td>香港城市大学</td><td>48</td><td>0</td><td>4</td><td>1</td></tr><tr><td>新加坡国立大学</td><td>17</td><td>1</td><td>1</td><td>0</td></tr><tr><td>香港浸会大学</td><td>16</td><td>0</td><td>1</td><td>0</td></tr><tr><td>香港科技大学</td><td>13</td><td>0</td><td>1</td><td>1</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "41以研究人员来看发展策略",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如果将图2至图9合并后，即可发现：针对中国香港、中国大陆、亚太的区域经济研究中，香港城市大学与另外七所研究机构的整合结果相比，超级型人和勤奋型人很少。如图10所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "机构内的人员发展策略应朝向:将普通型人转化为勤奋型人，再借由天才型人的合作，从勤奋型人转化为超级型人。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/40f85a5e559823e2ebdd81e5ee50dafbf963c3271f6870461ff511fb0c1f6e9a.jpg",
+        "img_caption": [
+            "图10从研究人员来看发展策略"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "42以研究机构来看发展策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从总发文量与总被引量来看，香港城市大学研究中国香港、中国大陆、亚太区域经济的团队，机构的发展策略应着重研究香港大学和香港中文大学对于相似研究方向的论文内容。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/905ead6a5a9dfeeaa0ae57530cd105dd99be3463554414c054dc327e67fef1ee.jpg",
+        "img_caption": [
+            "图11从研究机构来看发展策略"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "43以研究论文来看发展策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8篇高被引论文如表4所示，可以作为研究人员和研究机构之参考。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c01d2fa9b0ff144fef6e495d59aa3409d72235015135c98efcbd8bd709773268.jpg",
+        "table_caption": [
+            "表4八篇高被引论文"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>8</td><td>作者</td><td>题名</td><td>年份</td><td>被引</td></tr><tr><td></td><td>Mo PH</td><td>Coruption and econm ic grow th</td><td>2001</td><td>37</td></tr><tr><td></td><td>C heung YW,W ong CY P</td><td>A su ivey ofm arket practitioners(View s on exchange rate dynam ic s</td><td>2000</td><td>32</td></tr><tr><td></td><td>gJS,ZhaoYH,ParkA，etal</td><td>Econm ic retu ms to schoo ling in urban Ch ina 1988 to 2001</td><td>2005</td><td>21</td></tr><tr><td></td><td>Sun Q Tong WH S</td><td>The effect of market segn entation on stock p rices The Ch in a syndrome</td><td>2000</td><td>21</td></tr><tr><td></td><td></td><td>Tunnelingproppingand exprop riationev idence frm conn ected party tran sactions in Hong Kong</td><td>2006</td><td>20</td></tr><tr><td>AIY</td><td>B rockman P, Chung DY</td><td>Managerial tin ing and corporate liquid ity:evid ence frm ac tual share repu rchases</td><td>2001</td><td>18</td></tr><tr><td>a</td><td>Chang EC Cheng JW, Khorana A</td><td>An exam ination of herd behav ior in equ ity m ark etsAn intem ational persp ec tiv e</td><td>2000</td><td>18</td></tr><tr><td></td><td>Ch anHL,L ee SKWoo KY</td><td>Detecting rational bubb les in the res iden tial hous ing m aik ets ofHong Kong</td><td>2001</td><td>16</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "竞争对象和竞争策略",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "竞争对象包括：香港中文大学、香港大学、香港理工大学、岭南大学、新加坡国立大学、香港浸会大学、香港科技大学。而根据对竞争对象的一一解剖,分析出可行的竞争策略为：(1)关注香港中文大学与香港大学的相关研究；(2)增加勤奋型与超级型人才；(3)参考本文列举之八篇高被引论文。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "建立一套简洁的学科化知识服务模式，（1)让图书馆员提研究或教学团队减少海量信息带来的信息焦虑，准确找寻适合该团体发展特色之“竞争场域”分析与之相应的“竞争对手”评估彼此的“竞争优劣势”协助拟定“竞争策略\"等；（2)图书馆员可以不用昂贵的数据库、软件、复杂的数学公式和操作步奏，就可以进行学科化知识服务（当然，ESI和SSCI很昂贵，但是小型图书馆的馆员可以拟定好检索式后,在大型图书馆里获得一次性数据)。透过本文所揭示的型人理论和科学计量学（最简单的计量)结合，挖掘一系列潜在现象，然后运用型人和这些被观察到的研究现况与研究团队交流；（3)将图书情报工作有策略地、有附加价值地、有机地嵌入到研究团队或学习团队里面去。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图书馆学的科学方法论（methodlogy)应该是既可以进行实证研究（可观察、可重复、可验证），又可以广为各类型图书馆所用。本文的（4)研究过程可以重复,并且可遵循以下口诀：“选题挑词，划地搜文；转文入井、掘井求图”(注：循理取义，不可强求）",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "完成所有分析步奏。数学程度只需要中学二年级水平，但是细心程度要如同工龄10年的图书馆员。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对本文结论部分进行推广和推论时，需注意两项研究限制：（1)本文仅仅选择ESI和SSCI作为分析依据的数据库，分析样本有限；（2)研究只能说明部分机构针对香港、中国大陆、亚太经济研究的现况，而非它们的经济研究能力。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "未来应该着重(1)将ESISSCI和其它数据库的分析结果做交叉比对，以求更加周延地分析研究对象；(2)如有必要,采用其它科学计量指标,如媒介角色[；（3)对相关研究人员进行访谈,以虚心求学的态度向他们请教区域经济的研究方法和过程，以求更好地了解他们的行为模式。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "图书馆员过去强调资源的建设、利用和推广，而较少自己使用这些数据库来获得若干结论，然后去请教用户，和用户建立起合作伙伴的关系；这种图书馆服务转型可以借由型人理论来减少转型痛苦[7]。在数字驱动科研的环境下，需要考虑到内容（content、脉络（con text)和群体（comm un ity）的交互作用，以用户为中心来重组和设计一系列新型的服务内容、服务方式和服务组织[8]。在非正式信息交流行为日益成为用户搜索信息的主要方式之一的情况下,图书馆势必以更加数字化、网络化和个性化的方式服务用户。而这就需要从图书馆工作的实践中化繁为简,去芜存菁\"的保留一套人人可用的学科化知识服务模式，再从众多服务实践的经验交流中，找到用户的信息行为模式，以进行更合乎人性化的技术应用。所以，最重要的是：永不放弃对用户行为的探索与关怀，并且以科学方法和他们共同解决实际问题。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Craig S FleisherC SBensoussan BEBusiness andCom petitive Analysi Effective Applica tion of NewandC hssicM ethods[M]. Peaison Education New Jersey,  \n2007. 4.[2] Boemer K,Chen C M，Boyack K W.Visualizigk now ledge domains[J].AnnualReview of Info imatinsc ience& Technology 2003 37(5): 179-155[3］陈云伟.科学计量学的发展与佈局：1978-2008[J].现代图书情报技术，201Q188(1)：71-76[4] 董瑜，张薇，袁建霞,张博．1998-2008年农业科学影响力分析[J].科学观察，2009 4(6):9-16[5] C ity Un iveisity ofHong Kong Deparm ent of Econom ics&F inance[EB/OL]..http//www.ch cityu edu hk/hm e/?catego 1y $\\mathbf { \\tau } = \\mathbf { \\tau }$ depa rm ent& p ag e $\\mathbf { \\tau } = \\mathbf { \\tau }$ ef 2010- 05  \n1 22［6］汪丹．科学合作的媒介角色［D].北京:中国科学院研究生院，2009[7] 顾立平.促进图书馆实践20服务的策略一一焦点团体的实证研究[J].图书情报工作，201054（1)：67- 70.［8］张晓林.重新认识知识过程与知识服务［J].图书情报工作，200953(1):6-&",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Personas study for subject knowledge services- a case of subject campe titiveness analy sis on reg ional econam ics ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GU Li- Ping (Department ofL ibraiy and Infom atin Science Taw an University Taipei lO6l7, Chia) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AbstractForexpendngScientometrisappationabeddingthelbraystafworkintotheresearch teamofresearchistitution, andtoiovate libraryservicethepublished papersoftheresearchonHongKongChiamaihndandAsi-Pacificeconomicsin theSSCIduring99-2 weanalysisTheresultsappeasthat（）hediferentcharacteristisofdierentresearchinstitutins （2）thediferhactersicsofdferntresearcsoftedieretesearchstitutiand3）hreardferntutosoeed diferentlvelsugestinsandinfomatinservcesTherecommendatinsare（1）usingtheaverageofpublishedarticlesandtheav erageamountbeingciteddrwacoordinatesystam，（2）tocreatepersonasbythecoordinatesystem，（3）lbraystaffuseteperso nastcommuniatewihresearch teannmbersfrinprovetheirlbralyserviesThis studyshowsthatitisofsignificancetoceate anduse peisonas（goupbehaviour)forsubjectknowledgesevicesanditisnotnecessaryused expensivedatabasecomplexmathe m atical foimu hs and a lot ofm anpow er and budget ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "K ey wordssubject consultationinfomation seivicebiblimetricsregional econm is competitive analysis ",
+        "page_idx": 5
+    }
+]

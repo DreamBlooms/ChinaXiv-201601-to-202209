@@ -1,0 +1,494 @@
+[
+    {
+        "type": "text",
+        "text": "DOI: 10.5846/stxb201604180714 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王婷,刘丽丽,张克强,王风,杜会英,高文萱.牛场肥水灌溉对土壤 $n i r K , n i r S$ 型反硝化微生物群落结构的影响.生态学报，2017,37(11)：3655-3664.WangT,LiuLgldfsoil.Acta Ecologica Sinica,2017,37(11):3655-3664.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "牛场肥水灌溉对土壤nirK、nirS型反硝化微生物群落结构的影响",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王婷1,²，刘丽丽²，张克强¹，王 风¹,杜会英},高文萱1,3,\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1农业部环境保护科研监测所，天津300191  \n2 天津师范大学生命科学学院，天津300387  \n3天津大学化工学院，天津300072",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：以徐水县梁家营长期定位施肥试验田为研究对象,利用末端限制性片段长度多态性(T-RFLP)分析和克隆文库构建,研究了5种施肥处理(清水灌溉 CK、无机肥灌溉CF、牛场肥水不同浓度、不同次数灌溉 T4、T5 和T11)下土壤中 $n i r K , n i r S$ 型反硝化细菌群落多样性及其群落结构的演变。结果表明,不同施肥处理下nirK、nirS 型反硝化细菌群落多样性无显著差异,但群落结构却有明显变化;nirK型反硝化细菌群落结构既受施肥种类又受施肥量影响,优势种群尤其对施肥种类和施肥量响应显著； $n i r S$ 型反硝化细菌则主要受施肥种类影响,施肥量影响微弱。牛场肥水处理和无机肥处理分别促进和抑制不同的nirS 型反硝化细菌,群落主成分受无机肥促进、牛场肥水抑制。系统发育分析结果表明,土壤中nirK型反硝化细菌主要与假单胞菌属（Pseudomonas）、产碱杆菌属（Alcaligenes）和根瘤菌属（Rhizobium）的反硝化细菌具有较近的亲缘关系;nirS 型反硝化细菌主要与劳尔氏菌(Ralstonia）和红长命菌属（Rubrivivax)有较近的亲缘关系。试验土壤中反硝化微生物多与目前已报道的好氧反硝化细菌亲缘关系较近,这可能与微生物分析取自表层土有关。‘",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：nirK;nirS;反硝化细菌;牛场肥水灌溉；T-RFLP;群落多样性",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Effects of cattle fertilizer on community structure of nirK- and nirS- type denitrifying bacteria in soil ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Ting1,2，LIU Lili²，ZHANG\\Keqiang'，WANG Feng1，DU Huiying1，GAO Wenxuan $^ { 1 , 3 }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Agro-Environmental Protection Institute，Ministry of Agriculture,Tianjin 3OO191,China   \n2TianjinNormal University,college ofLife Sciences，Tianjin 30o387,China   \n3Tianjin University，School of Chemical Engineering and Technology，Tianjin 3ooO72,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Field experiments of winter wheat-summer maize rotation wereconductedin Xushui，Hebei Province，North China Plainirgationarea,toexploretheefectsofdairyeffluent irigationondiversityandcommunitystructureof nirKand nirS-type denitrifying bacteria through terminal restriction fragmentlength polymorphism（T-RFLP）analysis and gene sequenceanalysis.Fivetreatments weredesigned,includingnofertilizers treatment（CK），conventionalfertlization（CF) anddairyeffluentirigations with3fertilizerlevels（T4,T5andT11).Theresultsshowed thatnosignificantlydiferences werenoted in diversity indexesof nirK-andnirS-denitrifying bacteriainalltreatments.AndT-RFLPanalysisof $n i r K$ and nirSgenesaddressed significant differences incommunitycomposition：both fertlizertypeandamountafectedtherelative abundance ofnirK-T-RFssignificantly，especiallyfordominant T-RFs，andthereforeaffectednirK-community composition；organicand inorganicfertizer treatments increasedordecreaseddiferentnirS-T-RFs'relativeabundance, resultinginsignificant diferencesinnir-communitycomposition.Phylogeneticanalysisof nirKandnirSgeneindicated thatthe nirK-typedenitrifiersweremainlycomposedofPseudomonas，AlcaligeneandandRhizobium，nirS-typedenitrifiers weremainlycomposedof Ralstoniaand Rubriuivax.Mostofthese identifieddenitrifying bacteriawerebelong tofamiliesof aerobic denitrifying bacteria.A posible reason was that samples for biological analysis were taken from topsoil. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KeyWords：nirK；nirS；denitrifying bacteria；cattle fertilizer；terminal restriction fragment length polymorphism（TRFLP）；community structure ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "反硝化过程与土壤氮素损失和温室气体排放密切相关,是土壤研究中的重点问题[1]。反硝化作用致使土壤丧失 $20 \\%$ $3 0 \\%$ 的氮肥,是土壤肥力下降的重要原因[2];反硝化作用还产生大量 $\\mathbf { N } _ { 2 } \\mathbf { \\overline { { 0 } } }$ ，全球 $7 0 \\%$ 的 ${ \\mathrm { N } } _ { 2 } \\mathrm { O }$ 排放来自土壤[3],其中农业生态系统的排放量约占 $2 5 \\%$ [4],是导致温室作用的重要因素;因此,反硝化过程研究对于保持土壤肥力、减少温室气体排放具有重要意义。反硝化过程是土壤微生物还原硝态氮生成 $_ { \\mathrm { N O } , \\mathrm { N } _ { 2 } \\mathrm { O } }$ 和 $\\mathbf { N } _ { 2 }$ 的过程,其中亚硝酸还原酶(Nir)催化亚硝酸盐还原成 NO,是催化反硝化作用中最关键的一步反应,是整个反硝化过程中的限速步骤[5],因而其编码基因(nir)成为反硝化细菌中研究最多的功能基因[5」,在反硝化研究中被广泛用作分子标记[6]。亚硝酸还原酶分为cd1-亚硝酸还原酶和Cu-亚硝酸还原酶两种,分别由 nirS和nirK基因编码[6]。两种基因在微生物中的分布存在差异,nirS基因在反硝化菌中的存在比nirK更广泛,但nirK基因却存在于许多亲缘关系较远的菌株中[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "施肥是影响土壤质量及其可持续利用最深刻的农业措施之一,对土壤结构、生物肥力和生产力等方面产生重要影响[79],施肥制度的不同也可导致土壤微生物种群数量和活性发生变化,进而影响土壤反硝化过程[10]。Chang Yin等[1]研究发现,施加无机肥显著改变nirK型反硝化细菌的群落组成,而对nirS型反硝化细菌的群落组成影响不显著;而施加有机肥则对两者均无影响。宋亚娜等[12]发现,施用氮肥和氮肥用量增加有助于提高稻田土壤nirS 型反硝化细菌群落多样性指数和丰度,同时促使nirS 型反硝化细菌群落结构发生改变,尤其在表层土壤中及水稻齐穗期内表现最为明显。Wolsing 和Prieme[13]通过长期定位试验,发现施用有机肥和无机肥的农田中nirK型反硝化细菌的群落结构和反硝化速率均有明显差异。因此,当施肥制度发生变化时,有必要研究土壤微生物中nirK和nirS型反硝化细菌群落变化,进而明确新的施肥制度对土壤反硝化过程的影响。 1人7",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着集约化饲养程度的不断提高、养殖污染问题日益受到重视,将养殖废物发酵产生的沼液作为一种优质的有机液体肥料,通过水肥还田替代传统施肥方式,在很多国家和地区得到应用和推广[14-15]。研究发现相比不施肥和常规施肥,沼液肥水灌溉不仅能够提高作物质量,还能够提高土壤微生物活性[16-20]。如郑学博等[16]发现沼液全氮处理较不施肥和单施化肥处理提高了土壤细菌、真菌、放线菌数量和微生物总量；冯伟等[17]研究发现沼液与尿素配合施用可以提高小麦根际土壤微生物数量和酶活性;冯丹妮等[18]研究发现与清水对照和常规施肥相比,施用沼液会增加微生物数量并提高土壤酶活性。然而目前对于液态牛场肥水灌溉对土壤反硝化过程以及反硝化土壤微生物的影响尚未见报道。本研究利用在河北省徐水县长期定位试验,应用末端限制性片段多态性分析（Terminal restriction fragment length polymorphism,T-RFLP）和构建克隆文库方法，探明了按当地农民习惯施肥以及不同灌溉次数、不同浓度的牛场肥水灌溉的施肥方式下，冬小麦-夏玉米大田0—5cm土层中nirS、nirK型反硝化细菌群落的多样性和组成变化,为深入探讨牛场肥水灌溉施肥对大田氮素循环过程及反硝化作用影响提供相应依据，并为大田合理施肥、提高牛场肥水灌溉效果提供科学参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1试验设计与土壤样品采集",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本实验以徐水县梁家营长期定位施肥试验田为研究对象。徐水县地处太行山东麓,河北省中部,北纬",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$3 8 ^ { \\circ } 0 9 - 3 9 ^ { \\circ } 0 9$ ,东经 $1 1 5 ^ { \\circ } 1 9 - 1 1 5 ^ { \\circ } 4 6$ ,属大陆性季风气侯,年平均气温 $1 1 . 9 \\mathrm { ^ { \\circ } C }$ ，年均降水量546.9毫米，年日照时数平均2744.9小时。试验于2010年10月至2014年6月在河北省徐水县进行。冬小麦-夏玉米轮作是当地主要的种植制度,冬小麦当年10月上旬耕种,次年6月中旬收获,冬小麦秸秆还田;夏玉米在小麦收获后一周内耕种,当年9月底收获,夏玉米秸秆人工收获,作为青贮饲料喂养奶牛。试验地种植前耕层土壤有机质质量分数 $2 4 . 5 ~ \\mathrm { g / k g } \\cdot \\mathrm { p H }$ 值7.76、全氮质量分数 $1 . 3 9 ~ \\mathrm { g / k g }$ 、硝态氮质量分数 $1 3 . 0 9 ~ \\mathrm { m g / k g }$ 、铵态氮质量分数2.24$\\mathrm { m g / k g }$ 、速效磷质量分数 $6 4 . 1 9 ~ \\mathrm { m g / k g }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验田每个小区长 $9 \\mathrm { m }$ ，宽 $6 \\mathrm { m }$ ,面积 $5 4 \\mathrm m ^ { 2 }$ ，四周 $\\mathrm { 1 m }$ 土体内用塑料布隔开,种植方式为冬小麦-夏玉米轮作。共设5个处理,每个处理设置3个重复小区,且小区之间随机分布,CK处理为不施肥处理,仅用清水灌溉;CF 处理为常规施肥处理,在播种后、拔节期分别施加底肥（冬小麦播种时施复合肥（N 含量 $i 5 \\% , \\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ 含量 $2 1 \\% , \\mathrm { K } _ { 2 } \\mathrm { O }$ 含量 $6 \\% ) 3 7 5 ~ \\mathrm { { k g / h m } } ^ { 2 }$ ;冬小麦拔节期追肥尿素 $6 0 0 ~ \\mathrm { k g / h m } ^ { 2 }$ ;玉米播种时施复合肥（N含量 $2 5 \\%$ ，${ \\bf P } _ { 2 } 0 _ { 5 }$ 含量 $1 0 \\% , \\mathrm { K } _ { 2 } \\mathrm { O }$ 含量 $1 0 \\% ) 6 0 0 ~ \\mathrm { k g / h m } ^ { 2 } .$ ）,其他生育期清水灌溉;T4、T5 和T11为牛场肥水处理组,其中 T4处理用 $3 0 \\%$ 的沼液灌溉1次（越冬期）,T5 处理用 $3 0 \\%$ 的沼液灌溉2次(越冬期、返青期)，T11处理用 $5 0 \\%$ 的沼液灌溉两次(越冬期、返青期),其他生育期均以清水灌溉。各处理的施肥方式、施肥时间和施肥成分见表1;肥水沼液原液成分见表2。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/77a2cd9e6dfe263cd8393eb8a058395785930fa110cdd5658872fb5d5be41466.jpg",
+        "table_caption": [
+            "Table1Fertilizer amount in all treatment "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">处理代号 Code</td><td colspan=\"4\">灌溉 Irrigation</td><td colspan=\"3\">施肥成分Fertilizer amount</td></tr><tr><td>越冬期 (2013-11-20)</td><td>返青期 (2014-04-06)</td><td>拔节期 (2014-05-07)</td><td>灌浆期 (2014-05-26)</td><td>N/ （kg/hm²）</td><td>P205/</td><td>K0/</td></tr><tr><td>CK</td><td>清水</td><td>清水</td><td>清水</td><td>清水</td><td></td><td>（kg/hm²）</td><td>（kg/hm²）</td></tr><tr><td>CF</td><td>清水</td><td>清水</td><td>清水(底肥)</td><td>清水</td><td>300</td><td>120</td><td>75</td></tr><tr><td>T4</td><td>30%沼液 （体积比）</td><td>清水</td><td>清水</td><td>清水</td><td>105</td><td>39</td><td></td></tr><tr><td>T5</td><td>30%沼液</td><td>30%沼液</td><td>清水</td><td>清水</td><td>210</td><td>78</td><td></td></tr><tr><td>T11</td><td>（体积比) 50%沼液 （体积比）</td><td>（体积比) 50%沼液 （体积比）</td><td>清水</td><td>清水</td><td>317</td><td>117</td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/668a0304d888e097484c1cc74d8e5130f515d3ed2b8889027e0e620a5c31425b.jpg",
+        "table_caption": [
+            "表1各个处理施肥量",
+            "表2灌溉肥水沼液原液成分",
+            "Table 2The composition of catle fertilizer biogas slurry "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>COD/(mg/L)</td><td>TN/(mg/L)</td><td>NH4-N/(mg/L)</td><td>NO3-N/(mg/L)</td><td>TP/(mg/L)</td></tr><tr><td>● 范围Range</td><td>2185-3762</td><td>329.6—417.1</td><td>203.9-302.8</td><td>1.8-6.4</td><td>50.6-69.95</td></tr><tr><td>平均值 Average value</td><td>2809</td><td>382.3</td><td>244.2</td><td>3.2</td><td>61.8</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤样品在小麦收割后(6月中旬)进行采集,采用5点法采集土样,每个小区随机选取5点采集0—5cm的表层土,去除根系、杂草、土壤动物和石块等杂质后混匀,于 $- 2 0 \\%$ 冰箱保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2土壤微生物总DNA 提取",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "土壤微生物总 DNA 的提取方法和步骤按照土壤基因组 DNA 提取试剂盒FastDNAR SPIN Kit For Soil（MP Biomedicals,LLC)的说明进行。将提取的 DNA用 Nano Drop 核酸蛋白仪（ND-1000)测定浓度及质量,于$- 2 0 \\ \\mathrm { ^ { \\circ } C }$ 冰箱中保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3nirK、nirS型反硝化细菌T-RFLP分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "按照表3进行PCR扩增,扩增产物用 Mini BESTDNAFragmentPurification Kit VER4.0(TaKaRa)试剂盒进行纯化回收,并用Nano Drop 核酸蛋白仪（ND-1000)检测纯化产物浓度及质量。产物回收后,nirK基因扩增产物用内切酶 HaeII（TaKaRa)进行酶切,nirS 基因扩增产物用内切酶 HhaI（TaKaRa)进行酶切,反应体系和条件按各内切酶说明书进行。酶切产物送生工生物工程(上海)股份有限公司进行测序分析。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8a75605e546991926bcdf88986fb39c8f9e01db4280776026b491875a687c86.jpg",
+        "table_caption": [
+            "表3聚合酶链式反应中的引物及反应条件",
+            "Table 3Primers and PCR conditions used for the PCR amplification "
+        ],
+        "table_footnote": [
+            "1）上下游引物分别标注为F和R；2）用于PCRT-RFLP实验的上游引物都用6-FAM荧光标记"
+        ],
+        "table_body": "<html><body><table><tr><td>目标群落</td><td>引物</td><td>序列(5'-3')</td><td>片段长/bp反应条件</td><td></td></tr><tr><td>nirK</td><td>nirK-1F[19]</td><td>GCCTCGATCAG)A/G)TT(A/G)TGG</td><td>515</td><td>94℃预变性5min；94℃变性30s，58℃退火30 s, 72℃延伸40s,40个循环，72℃延伸5min</td></tr><tr><td rowspan=\"3\">nirS</td><td>nirK-5R[19]</td><td>GG(A/C)ATGGT(G/T)CC(C/G)TGGCA</td><td></td><td></td></tr><tr><td>nirS-4F[20]</td><td>TTC(A/G)TCAAGAC(C/G)CA(C/T)CCGAA</td><td>336</td><td>94℃预变性5min；95℃变性40s，52℃退火 40 s, 72℃,延伸 40s,31个循环,72℃延伸10 min</td></tr><tr><td>nirS-6R[20]</td><td>CGTTGAACTT(A/G) CCGGT</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.4nirK、nirS基因克隆及测序分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "以土壤基因组 DNA 为模板,按照表3 进行 PCR 扩增,产物用 Mini BEST DNA Fragment Purification KitVER4.0(TaKaRa)试剂盒进行纯化,纯化后的产物分别与 $\\mathrm { \\ p M D 1 9 ^ { R } }$ -TVector载体进行连接反应。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将 $1 0 ~ \\mu \\mathrm { L }$ 连接产物分别转化到 $1 0 0 ~ \\mu \\mathrm { L }$ 大肠杆菌JM109 感受态细胞中,涂在含有X-Gal、IPTG、Amp 的 LB琼脂平板培养基上 $3 7 \\mathrm { ~ \\textdegree C }$ 过夜培养后进行蓝白斑筛选,挑取白斑克隆子，用通用引物M13F( $5 ^ { \\prime }$ -TGT AAA ACGACG GCC AGT- ${ \\cdot } 3 ^ { \\prime }$ ,TaKaRa）,M13R( $5 ^ { \\prime }$ -CAG GAA ACA GCT ATG ACC- $\\cdot 3 ^ { \\prime }$ ,TaKaRa)进行菌落PCR验证,选取大约100 个克隆子扩大培养后送生工生物工程(上海)股份有限公司进行测序分析。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5 数据处理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合T-RFLP 数据,计算不同处理nirK、nirS型反硝化细菌多样性指数[14],并且用CANOCO forWindows4.5软件对 $n i r K , n i r S$ 基因T-RFLP 结果进行PCA分析。用MEGA5.O软件构建nirK、nirS基因系统发育树。相关数据的方差分析和相关性分析采用 SPSS17.0 软件进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1 施肥对土壤nirK型反硝化细菌的影响 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1不同施肥处理下土壤nirK型反硝化细菌群落结构变化",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "将不同处理土壤样品的nirK功能基因扩增后用限制性内切酶 HaeⅢ酶切并进行 T-RFLP 分析,得到 55、65、95、100、105、110、125、155和190bp9种主要片段（图1)。各处理间的优势片段存在明显差异，CK、CF、T4、T5 和T11处理的最大优势菌分别为155、110、95、105和 $1 5 5 \\mathrm { b p }$ ,说明不同施肥种类、不同施肥量都导致nirK基因T-RFs结果产生显著变化。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据nirK基因T-RFs数据进行主成分分析(图2）发现,第1主成分PC1可以解释 $4 6 . 8 \\%$ 的物种变量,第2主成分PC2可以解释 $30 \\%$ 的物种变量。不同浓度的牛场肥水处理(T4、T5、T11)之间nirK型反硝化细菌主要种类具有明显差异，T5处理主要分布在PC1的正轴，T4、T11则大部分分布在PC1的负轴，说明不同浓度的牛场肥水灌溉对土壤中nirK型反硝化细菌主要种类影响不同。同时，CF处理分布在PC2的正轴而其余处理在PC2上相差不大,说明施加无机肥使土壤中nirK型反硝化细菌次要种类有所增加,而牛场肥水灌溉则无明显影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f835ba879af59862f66f04d28524eee8a043d096c87f1c2d098c037e2c737411.jpg",
+        "img_caption": [
+            "图1不同处理 $n i r K$ 型反硝化细菌T-RFs相对丰度百分比Fig.1Percentage of relative abundance of bacteria nirKT-RFs indifferent treatments $\\mathrm { ( \\ m e a n { \\pm } S E { , } } n = 3 )$ 0"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.2 不同施肥处理下土壤nirK型反硝化细菌多样性变化",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用nirK基因T-RFs数据进行序列多样性分析（表4），发现所有处理组之间，Shannon-wiener指数、Simpson指数、Margalef指数和Pielou指数E都没有显著差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3nirK型反硝化细菌系统发育分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本研究选取所有处理nirK基因混合样品构建克隆文库，共挑选了120个克隆子测序并进行NCBI网站的BLAST比对分析，剔除假阳性克隆与重复数据，结合酶切分型分析最终获得了14个有代表性的操作分类单元。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e6b91a4dc9e0083a60f81e1da6e753e106c1d2d65aa58349df2325750b680f63.jpg",
+        "table_caption": [
+            "表4不同施肥处理土壤反硝化细菌nirK基因多样性指数",
+            "Table 4Thediversity index of soil denitrifying bacteria nirK under different fertilize treat "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理</td><td>Shannon-wiener 指数</td><td>Simpson 指数</td><td>Margalef 指数</td><td>Pielou 指数 E</td></tr><tr><td>Treatment</td><td>Shannon-wiener index</td><td>Simpson index</td><td>Margalef index</td><td>Evenness index</td></tr><tr><td>CK</td><td>3.105±0.375a</td><td>7.051±2.108a</td><td>1.052±0.170a</td><td>1.238±0.069a</td></tr><tr><td>CF</td><td>2.465±0.776a</td><td>4.895±2.915a</td><td>0.829±0.148a</td><td>1.064±0.261a</td></tr><tr><td>T4</td><td>2.637±0.481a</td><td>4.779±1.525a</td><td>0.866±0.204a</td><td>1.115±0.132a</td></tr><tr><td>T5</td><td>2.556±0.200a</td><td>4.777±0.469a</td><td>0.779±0.055a</td><td>1.146±0.025a</td></tr><tr><td>T11</td><td>2.7399±0.219a</td><td>5.269±0.832a</td><td>1.044±0.141a</td><td>1.091±0.095a</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用邻接法构建系统发育树（图3）,依据序列在进化树上的分布和已知微生物的相似度,将进化树分为3簇。第I簇片段包括55、65、130、155、170、190bp,与假单胞菌属（Pseudomonas）和产碱杆菌属（Alcaligenes）",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/24a74196bca05222aa70f660d877edc71be6a02869d42497b1e3dcb93ac102de.jpg",
+        "img_caption": [
+            "图2不同施肥处理土壤nirK型反硝化细菌群落的主成分分析Fig.2Principal component analysis of soil denitrifying bacterianirKunder different fertilize treat",
+            "图3基于nirK型反硝化细菌系统发育树（邻接法）",
+            "Fig.3Neighbour-joining phylogenetic tree of nirK gene sequences "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "100-Uncultured bacteriumclone AY249336 44 -Uncultured bacterium clone EF645009 100 nirKOTU150bp nirKOTU12 65bp(3) 79 92 -nirKOTU14130bp(2) 97 nirKOTU8155bp(5) 100 -nirKOTU5170 54 Nitrosomonas sp.AF339049 70 nirKOTU10190bp 91 Alcaliqenes 98 Pseudomonas mendocina nirK gene AY078255 nirKOTU6 190bp(3) nirKOTU13170bp 61 Mesorhizobium I 99 75 nirKOTU11105bp(14) nirKOTU2 95bp(10) 100 nirKOTU4 155bp(8) nirKOTU8 155bp(2) 48 Agrobacterium 59 PseudmasderugiosnirKgee34527 100 III 37 Ochrobactrum 79 Rhizobium hedysari nirK gene U65658 Rhizobiummelitoti Rm1021 nirK geneAJ224909 Rhizobiales bacterium nirK gene EF363543.1 35 0.02 47 100 nirKOTU355bpb5(3) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "每个克隆名称后面的数字表示酶切片段长度，括号中的数字表示相同片段的克隆数有较高的分类值;第Ⅱ簇片段包括95、105、170、190bp,与根瘤菌属（Rhizobium)有较高的分类值;第Ⅲ簇片段包括55、155和 $1 9 0 \\mathrm { b p }$ ,与根瘤菌属（Rhizobium）和假单胞菌属（Pseudomonas）的部分已知微生物相似。由于反硝化功能基因在不同微生物之间存在水平传递，所以反硝化菌nirK功能基因的系统发育学关系和16S rRNA分类对应关系很差[21],存在相同片段长度代表不同反硝化菌和不同片段长度代表相同反硝化菌的情况。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2 施肥对nirS型反硝化细菌的影响 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.1不同施肥处理下土壤nirS型反硝化细菌群落结构变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "将不同处理土壤样品的nirS 功能基因扩增后用限制性内切酶 HhaI酶切,主要得到70、100、110、120、160、172、327 和 $3 3 6 { \\mathrm { ~ b p ~ } } 8 { \\mathrm { ~ } }$ 种片段（图4）,其中172bp为CK、T4、T5 和T11处理的最大优势菌,120bp 为CF处理最大优势菌。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "70、100、120和 $1 7 2 \\mathrm { b p }$ 片段百分比含量受施肥影响显著，说明这四种T-RFs所代表的反硝化菌群可能对施肥条件敏感。其中172bp在牛场肥水灌溉处理组（T4、T5 和T11)中丰度较CF和CK 显著提高，而120bp表现出相反的趋势。这两种T-RFs都是nirS群落中的主要菌群，二者可能存在竞争关系，牛场肥水灌溉有利于172bp 菌群生长而不利于 $1 2 0 \\mathrm { b p }$ 菌群生长,而常规施肥(CF)具有相反影响。 $7 0 \\mathrm { { b p } }$ 和 $1 0 0 \\mathrm { b p }$ 片段丰度虽然出现显著变化，但是在各处理组间并未表现出明显的规律性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据nirS基因T-RFs数据进行主成分分析（图5）发现，第1主成分PC1可以解释 $8 1 . 7 \\%$ 的物种变量，第2主成分PC2可以解释 $1 0 . 1 \\%$ 的物种变量；牛场肥水灌溉处理(T4、T5、T11)与无机肥处理组(CF)的nirS型反硝化细菌主要种类PC1存在明显差异，无机肥处理组(CF)主要分布在PC1的正轴,牛场肥水处理组全部则分布在PC1的负轴，说明nirS型反硝化细菌主要种类(PC1)受施肥种类影响明显，牛场肥水处理大幅降低了主要成分所占比例而无机肥处理使主要成分比例提高;与清水灌溉相比，所有施肥处理均降低了nirS型反硝化细菌次要种类（PC2）所占比例，其中高施肥量处理(CF、T11)降低最明显，说明nirS型反硝化细菌次要种类(PC2)主要受施肥量影响，高施肥量使其比例降低。但由于第2主成分仅能解释 $1 0 . 1 \\%$ 的物种变量,远低于第1主成分 $( 8 1 . 7 \\% )$ ,所以施肥量对nirS型反硝化细菌总体贡献微弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/04bf71acd8b7b6cf78371c89f606e73c848819300ee6be216f7d550cc6121259.jpg",
+        "img_caption": [
+            "图4不同处理nirS型反硝化细菌T-RFs相对丰度百分比Fig.4Percentage of relative abundance of bacteria nirS T-RFs indifferent treatments $\\mathrm { \\ } ( \\mathrm { \\ m e a n } { \\pm } \\mathrm { S E } , n { = } 3 )$ 中"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf716842daeaa3a6fb36a19645d5c0044a23819f8e686a83b30793736498fee7.jpg",
+        "img_caption": [
+            "图5不同施肥处理土壤nirS型反硝化细菌群落的主成分分析Fig.5Principal component analysis of of soil denitrifyingbacterianirSunderdifferent fertilize treat"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.2不同施肥处理下土壤nirS型反硝化细菌多样性变化",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "利用nirS 基因T-RFs相对丰度数据进行序列多样性分析（表5）,发现清水灌溉组（CK)的 Shannon-wiener指数(不显著)和 Simpson指数(显著)略高于施肥处理组,而施肥处理组之间各指数均无显著差异,说明施肥处理可能使nirS型反硝化细菌群落多样性有所降低,而各施肥组之间多样性无显著差别。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 nirS型反硝化细菌系统发育分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本研究选取所有处理nirS 基因混合样品构建克隆文库,共挑选了110个克隆子进行测序分析,剔除假阳性克隆和重复数据，最终获得了27个有代表性的操作分类单元。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea7e77182ff3a05a6f33f22fe5d350b01b5b8a0c1f95f1dba683a9ce99585381.jpg",
+        "table_caption": [
+            "表5不同施肥处理土壤反硝化细菌nirS基因多样性指数",
+            "Table 5Thediversity index of soil denitrifying bacteria nirS under different fertilize treal "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>处理 Treatment</td><td>Shannon-wiener 指数 Shannon-wiener index</td><td>Simpson 指数 Simpson index</td><td>Margalef 指数 Margalefindex</td><td>Pielou 指数E Evenness index</td></tr><tr><td>CK</td><td>3.52±0.07a</td><td>9.85±0.56a</td><td>1.35±0.06a</td><td>1.31±0.01a</td></tr><tr><td>CF</td><td>3.16±0.13b</td><td>7.25±0.56b</td><td>1.17±0.14a</td><td>1.26±0.04ab</td></tr><tr><td>T4</td><td>3.21±0.09ab</td><td>7.67±1.25b</td><td>1.32±0.02a</td><td>1.23±0.03b</td></tr><tr><td>T5</td><td>.3.34±0.16ab</td><td>7.82±0.87b</td><td>1.33±0.12a</td><td>1.25±0.03ab</td></tr><tr><td>T11</td><td>3.22±0.16ab</td><td>7.33±1.16b</td><td>1.26±0.12a</td><td>1.26±0.03ab</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "实验得到的大多数nirS序列和已知的反硝化微生物相似性较低,但和NCBI数据库中来自土壤的其它nirS序列有较高的相似性( $7 3 \\% - 9 9 \\%$ )。利用邻接法构建系统发育树（图6），依据序列在进化树上的分布和部分已知微生物的相似度,将进化树分为5簇。克隆序列主要集中分布在第I、Ⅲ簇,其中第I簇与副球菌属（Paracoccus）有较高的相似度,包括 T-RFs70、120、160、172、180、190、203、244p 313 和 $3 3 5 ~ \\mathrm { b p }$ 片段;第Ⅲ簇与 $\\beta$ 变形菌纲( $\\beta$ -Proteobacteria）的伯克氏菌目（Burkholderiales）的 Ralstonia 和 Rubrivivax gelatinosus 有较高的每个克隆名称后面的数字表示酶切片段长度，括号中的数字表示相同片段的克隆数相似度，包括T-RFs70、100、160和 $1 7 2 ~ \\mathrm { b p }$ 片段。第Ⅱ、V、V簇没有相似的已知物种。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/00f52050ad6924d7b2f590fd1f828b67fd72c3949efee24e8c924e6854947f7a.jpg",
+        "img_caption": [
+            "图6基于nirS序化化细列的反硝菌系统发育树(邻接法) Fig.6Neighbour-joining phylogenetic tree of nirS gene sequences "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "影响土壤反硝化作用的因素主要有温度、 $\\mathrm { \\Phi _ { \\cdot } p H }$ 、水分、含氧量、碳氮类型和碳氮比以及土壤质地、土壤利用和耕作方式等[22]。在本研究中,各试验田的光照、土壤、作物、种植方式、灌溉方式均相同,即去除温度、水分、含氧量、土壤质地和耕作方式的影响，不同施肥方式通过 $\\mathrm { \\ p H }$ 、碳氮类型和碳氮量对反硝化微生物产生影响。本试验的土壤样品取自0—5cm的表层土,氧气含量高,利于好氧反硝化细菌生长。研究发现土壤中nirK型反硝化细菌主要与假单胞菌属（Pseudomonas）、产碱杆菌属（Alcaligenes）、根瘤菌属（Rhizobium）的反硝化细菌具有较近的亲缘关系。nirS型反硝化细菌主要与副球菌属（Paracoccus）、伯克氏菌目（Burkholderiales）反硝化细菌具有较近的亲缘关系;这些反硝化微生物多与目前已报道的好氧反硝化细菌亲缘关系较近。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "大量研究表明,nirK型反硝化细菌对施肥敏感,不同的施肥条件会对nirK型反硝化细菌群落结构产生影响。例如罗希茜等[23]发现长期单施化肥（尿素)即可明显改变nirK型反硝化细菌群落结构组成;Wolsing[13]、Chen[24]、以及 Martin Wolsing[25]等人均发现施加无机肥和有机肥对nirK型反硝化细菌群落结构演变造成显著差异。可见有机肥与无机肥的施用对nirK型反硝化细菌群落结构有显著影响。这与本研究中CK、CF 以及不同水平牛场肥水处理组(T4、T5和T11)造成nirK基因T-RFs显著变化的结果相一致。此外,本研究还发现,T4、T5 和T11之间nirK型反硝化细菌群落结构差异也显著,说明即使是相同施肥种类,不同的施肥量也会导致nirK型反硝化细菌群落结构发生明显变化;但CF、T4、T5、T11和CK之间群落变化不具有规律性,这一点也体现在PCA分析中,各处理点呈现随机分布的趋势。这种nirK型反硝化细菌群落结构随施肥的种类和施肥量呈现无规律显著变化的现象,说明nirK型反硝化细菌对施肥种类、施肥量都十分敏感,施肥条件小幅改变都可能造成群落结构出现显著变化。另外，本研究发现所有处理在四种多样性指数上都无显著差异,说明施肥条件改变不会对nirK型反硝化细菌群落多样性造成影响,这与罗希茜[23]等人的发现一致。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "有研究表明,nirS型反硝化细菌群落结构受环境影响显著,如莫旭华等[26]发现,不同类型的反硝化细菌对无机氮肥的反应不同而导致了nirS型反硝化细菌群落结构改变,但未改变nirS 型反硝化细菌的多样性;尹昌等[27]研究发现,黑土中nirS 型反硝化菌种群的群落结构和丰度对长期施用有机肥有显著的响应。也有研究发现nirS型反硝化菌种群对环境的变化不敏感,如Yoshida等[28]发现,在水稻土中nirS型反硝化菌对环境变化不敏感;Chang Yin等[1]发现,我国南方水稻土中nirS 型反硝化菌的群落结构对施加无机肥和无机肥处理处理均没有显著的响应。根据上述研究,nirS型反硝化细菌对施肥响应存在一定矛盾,推测可能与土壤条件、作物种类有关,nirS不敏感的研究都是以水稻为研究对象,再如罗希茜等[23]也发现水稻土nirS 型反硝化细菌群落结构对氮肥施加不敏感。本研究以冬小麦-夏玉米轮作田为研究对象,发现施肥种类会对nirS 型反硝化细菌群落结构产生显著影响,这与莫旭华等[26]和尹昌等[27]研究发现相符。此外,本研究发现牛场肥水灌溉条件下,不同施肥量(T4、T5 和 T11)之间群落结构变化不大。因此推测， $n i r S$ 型反硝化细菌对施肥种类有一定敏感性,而对不同牛场肥水施肥量在实验条件下不敏感。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "牛场肥水在代替化肥增加农田产量的同时,还能够改变土壤 $n i r K , n i r S$ 型反硝化细菌群落结构,这可能与牛场肥水成分有关。牛场肥水来自经过厌氧处理的养殖场污水,原液中含有大量总氮,其中以 $\\mathrm { N H } _ { 4 } ^ { + }$ -N 为主,含量为 $2 4 4 . 2 ~ \\mathrm { m g / L }$ ,远高于 $\\mathrm { N O } _ { 3 } ^ { - }$ -N的 $3 . 2 ~ \\mathrm { m g / L }$ ;且含有一定浓度的COD 和有机磷,这些营养物质对于土壤微生物生长十分有利,因此能够有效提高土壤的生物量和微生物活性[1-18]。与无机肥相比,牛场肥水来自生物发酵,营养成分更为丰富,因此更易被生物利用,这可能是导致 $n i r K , n i r S$ 对无机肥和牛场肥水响应出现显著差异的主要原因。此外,沈仕洲[29]等研究发现,采用不同浓度奶牛场沼液灌溉都使 ${ \\mathrm { N } } _ { 2 } \\mathrm { O }$ 排放较清水增加,但不高于常规化肥排放值;杜会英[30]等研究发现,牛场肥水灌溉使冬小麦-夏玉米轮作体系作物累计氮利用率逐年升高,且显著高于常规化肥处理。这些研究揭示出牛场肥水灌溉能够增加土壤反硝化过程,使 ${ \\mathrm { N } } _ { 2 } \\mathrm { O }$ 排放增加,但同时也会调整氮素平衡关系,使得氮素利用率提高。而本研究发现牛场肥水灌溉使 $n i r K , n i r S$ 型反硝化细菌群落结构发生显著变化，这提示出肥水灌溉对氮素平衡的调整作用很有可能是通过调整nirK、nirS 型反硝化细菌，以及其它参与氮素循环的微生物群落结构而实现的。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文采用T-RFLP技术,系统研究不施肥、无机肥和不同水平牛场肥水处理对nirK、nirS型反硝化细菌群落结构和多样性的影响。结果表明：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1)实验条件下,不同施肥条件使nir型反硝化细菌群落结构发生改变;nirK型反硝化细菌对施肥种类、施肥量都十分敏感;而nirS 型反硝化细菌对施肥种类有一定敏感性,对不同牛场肥水施肥量不敏感。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(2)实验条件下,不同施肥条件对nirK和nirS 型反硝化细菌群落多样性造成的影响无显著性差异。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(3)本试验土壤中nirK和nirS型反硝化细菌主要与好氧反硝化细菌亲缘关系较近。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "［1］黄树辉，吕军.农田土壤 ${ \\bf N } _ { 2 } \\mathrm { O }$ 排放研究进展.土壤通报，2004，35(4)：516-522.  \n[2]FirestoeKocaldtrtioI：irognicuuralSlF.Jevsooah，mecayAgronomy，1982，289-326.  \n[3]Conrad R.Soil microorganisms as controllers of atmospheric trace gases ( $\\mathrm { H } _ { 2 }$ ，CO,CH4，OCS，NO,and NO). Microbiology Reviews，1996,60:609-640.  \n[4]Mosier AR,Duxbury JM，Freney JR，Heinemeyer O，Minami K.Assessing and mitigating ${ \\bf N } _ { 2 } \\thinspace 0$ emissions from agriculture soils. ClimaticChange,1998,40:7-38.  \n[5]BrakerG,ZhouJ，WuL,DevolAH,TedjeJM.Nitriereductasegenes（nirKandnirS）asfunctioalmarkerstoinvestigatediversityfdenitrifyingacteriainacifcrtestarindintcoitiApldndEoentalobg（）：014.  \n[6]RischC，MergelA，BoteHBiodiversityofdenitrfingnddintrogefxingbacteriainnacidforestoilApledndEnotalMicrobiology，2002,68(8）:3818-3829.  \n[7]CarpenterBsLdyegaldJrgnicodcagent:EftsolSliececeteicJournal,2000,64：1651-1659.  \n[8]LiJ,Z,iaenzyme activities and soil fertility.Agriculture Sciences in China,2008,7(3）:336-343.  \n[9］王海涛，郑天凌，杨小茹.土壤反硝化的分子生态学研究进展及其影响因素.农业环境科学学报，2013，32（10):1915-1924.  \n[10]刘若萱，贺纪正，张丽梅.稻田土壤不同水分条件下硝化/反硝化作用及其功能微生物的变化特征.环境科学，2014，35（11)：4275-4283.  \n[11]YinCFog,iZiYoteallsdofetilizaiocdstcgfdrgitlfl.  \n[12］宋亚娜，林智敏，林艳.氮肥对稻田土壤反硝化细菌群落结构和丰度的影响.中国生态农业学报，2012，20(1)：7-12.  \n[13] WolsingMeoieifcland cattle manureby determining T-RFLPof nir gene fragment.FEMSMicrobiology Ecology，20O4,8：261-271.  \n[14] LiuJ，WangWZangY，ingstrategforsstainablelivestockusbandrywastewatertreatmentinina.InteatioalJoualfEnvironment and Pollution,2011,45(1/3):157-165.  \n[15］唐华，郭彦军,李智燕.沼液灌溉对黑麦草生长及土壤性质的影响.草地学报，2011，19(6)：939-942.  \n[16]郑学博，樊剑波，何园球，崔键，徐磊，祝振球，周静.沼液化肥全氮配比对土壤微生物及酶活性的影响.农业工程学报,2015,31（19)：142- 150.  \n[17］冯伟,管涛,王晓宇,朱云集,郭天财.沼液与化肥配施对冬小麦根际土壤微生物数量和酶活性的影响.应用生态学报，2011，04：1007- 1012.  \n[18］冯丹妮，伍钧，杨刚，张璘玮，张乙涵，王静雯.连续定位施用沼液对水旱轮作耕层土壤微生物区系及酶活性的影响.农业环境科学学报，2014，33(8)：1644-1651.  \n[19]BrakerG,FesefeldtA，WitzelKDevelopntofCRprersstesfaplificatoofitriteductases（nKandetetdenitrifying bacteria inenvironmental samples.Apliedand Environmental Microbiology，1998,64(10)：3769-3775.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "http://www.ecologica.cn ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[20]HillTJ，alsK，HaisJ，ofeBFsingeolocaldiversityeasresiacterialntiEcrobolo2003，43：1-11.  \n[21］宋亚娜，吴明基，林艳.稻田土壤 nirS 型反硝化细菌群落对氮肥水平的响应.中国农业科学,2013,46(9):1818-1826.  \n[22] 刘秋丽，马娟娟，孙西欢，李京玲.土壤的硝化-反硝化作用因素研究进展.农业工程,2011，1(4)：79-83.  \n[23] 罗希茜，陈哲，胡荣桂，吴敏娜，秦红灵，魏文学.长期施用氮肥对水稻土亚硝酸还原酶基因多样性的影响.环境科学，2010，31（2)：423-430.  \n24]CenZ,ctosflin a paddy soil.Microbial Ecology，2010,60(4）：850-861.  \n25]MartiWosinesreOetifalraitucunitrfngceiablartificialfertilizerandcatlemanurebydetemingTRFLPfnrgenefragments.FEMMcrobiologyEcolog，006,4（2）：26-271.  \n26]ibar，aligerabaFteanitrfaoteeaialldtlotoesofialluvial wetland. Ecological Engineering，2015,191-197.  \n[27］尹昌，范分良，李兆君，宋阿琳，朱平，彭畅，梁永超.长期施用有机和无机肥对黑nirS型反硝化菌种群结构和丰度的影响.环境科学，2012,11: 3967-3975.  \n2]YdbilnirS-harboring bacteria.Microbes and Environments,2010,25(1)：45-48.  \n[29］沈仕洲，王风，薛长亮，张克强.沼液灌溉对冬麦田 $\\mathrm { C O } _ { 2 } \\ 、 \\mathrm { N } _ { 2 } \\mathrm { O }$ 排放及土壤因子的影响.节水灌溉，2015，7：25-31.  \n[30］杜会英，冯洁，郭海刚，王风，赵君怡，张克强.麦季牛场肥水灌溉对冬小麦-夏玉米轮作土壤氮素平衡的影响.农业工程学报，2015，31，(3):159-165.",
+        "page_idx": 9
+    }
+]

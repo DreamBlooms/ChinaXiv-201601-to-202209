@@ -1,0 +1,495 @@
+[
+    {
+        "type": "text",
+        "text": "Cite this:CrystEngComm,2014,16, 2823 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical self-assembly of hierarchical dendritic $B i _ { 2 } S e _ { 3 }$ nanostructures ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Can Han,ab Jia Yang,a Chang Yan,a Yi Li,a Fangyang Liu,\\*a Liangxing Jiang,a Jichun $\\mathsf { Y e } ^ { \\star \\mathsf { b } }$ and Yexiang Liua ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 10th October 2013, Accepted 20th December 2013 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bismuth selenide $( \\mathsf { B i } _ { 2 } \\mathsf { S e } _ { 3 } )$ has proven to be an important material in thermoelectric and topological insulator applications.We report here a simple electrochemical self-assembly route for the preparation of well-defined hierarchical dendritic ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ nanostructures. Cyclic voltammetry was used to study the electrochemical reactions relevant to the growth of the prepared bismuth selenide.The compositional, morphological and structural properties of the deposited nanostructures were characterized using energy dispersive X-ray spectroscopy (EDS),scanning electron microscopy (SEM),transmission electron microscopy (TEM), X-ray difraction (RD), Raman spectroscopy and X-Ray Photoelectron Spectroscopy (XPS).The band gap of the prepared ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ dendritic nanostructures was estimated to be $0 . 5 0 \\pm 0 . 0 1$ eV by a UV-VIS-NIR spectrophotometer and the dendritic ${ \\sf B i } _ { 2 } { \\sf S e } _ { 3 }$ nanostructures showed an excellent photoelectrochemical activity.Additionaly，based on the investigationon the evolution of the morphology and composition during electrochemical growth,a possble formation mechanism of the dendritic structures was concluded.Furthermore,the efects of some synthesis conditions on the morphologies of the deposited bismuth selenide nanostructures were studied. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Due to the size,dimensionality and grain boundary structure effects in nanostructured materials,peculiar and unique prop erties superior to those of bulk materials are exhibited.For example,fundamental electrical and optical properties such as the electrical conductivity and band gap of semiconductors, can be tuned to a satisfied level as the material size evolves from bulk phases to nanostructures.1-4 In the past few years, nano-scaled materials have found extensive potential applications in thermo and optic devices,5,6 electronics, magnetics8 and catalysts.’ Nanostructures cover nanoparticles,nanorods, nanowires,nanotubes,nanobelts,quantum dots,etc.Building these nano-blocks into complex three-dimensional hierarchical architectures can combine the advantages of these nanoscaled constructing units,which has been an important approach to realize functional nanosystems,and thus stimulates a great interest.10-14 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asubiquitous hierarchical structures in nature,which follow a branching growth and have a main stem from side branches,15-18 dendritic materials are found to be potential materials in many fields.Up to now,many approaches have been developed for the controllable growth of hierarchically dendritic structured materials,including vapor-liquid-solid (VLS),19layer-by-layer(LBL),2ohydrothermalmethod,21 electrodeposition²² etc.Among these techniques,electrodepo sition presents a simple,quick,and economical method, which has been applied widely,especially in the field of functional material preparation.22-24 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bismuth selenide $\\left( \\mathrm { B i } _ { 2 } \\mathrm { S e } _ { 3 } \\right)$ is a narrow band-gap semiconductor $\\left( E _ { \\mathrm { g } } \\approx 0 . 3 5 ~ \\mathrm { e V } \\right) ^ { 2 5 }$ and exhibits a great potential in thermoelectric26,27 and topological insulator (TI) applications.28 In recent years,bismuth selenide compounds have been prepared into thin films or nanostructures,such as nanorods, nanospheres， nanowires， nanosheets，nanotubes， etc.29-33 Among various fabrication methods,the electrochemical approach has been considered to be a promising way from the viewpoint of simplicity,low cost and feasibility for largearea production.34 Li et al. reported the preparation of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ thin films through electrodeposition using $\\mathbf { B i } \\left( \\mathbf { N O } _ { 3 } \\right) _ { 3 } { \\boldsymbol { \\cdot } } 5 \\mathbf { H } _ { 2 } \\mathbf { O }$ and $\\mathbf { S e O } _ { 2 }$ as starting materials.35 Xiao et al. studied the electrochemical behaviors during the formation of bismuth selenide thin films via the route of electrochemical atomic layer deposition.36 Torane et al. accomplished the preparation of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ thin films from both an acidic bath4 and a nonaqueous medium.37 Furthermore, ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ thin films were also fabricated by galvanostatic deposition.38 However, there have been no reports about the preparation of hierarchical nanostructured bismuth selenide compounds via a simple electrochemical process to date. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper,we first report an electrochemical synthesis of the novel hierarchical dendritic nanostructures of bismuth selenide from an electrolyte solution using $\\mathbf { B i } \\left( \\mathbf { N O } _ { 3 } \\right) _ { 3 } { \\boldsymbol { \\cdot } } 5 \\mathbf { H } _ { 2 } \\mathbf { O }$ and $\\mathbf { S e O } _ { 2 }$ as the ion sources and KsCN as the complexing agent.Based on our experimental results,a possible formation mechanism was proposed.In addition, the effects of some synthesis conditions,such as the KsCNadditives in the electrolyte,the deposition potential and the deposition temperature on the morphology of the bismuth selenide nanostructures were discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.Experimental ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical experiments, including cyclic voltammetry (CV) and electrodeposition,were carried out in a stagnant threeelectrode cell configuration with a commercial $\\mathbf { S n O } _ { 2 }$ -coated glass substrate (Qinhuangdao Yaohua Xingye Coating Glass Co., Ltd, China, $2 0 ~ \\Omega ~ \\mathrm { { s q } ^ { - 1 } } ;$ ）as the working electrode,a pure graphite plate as the counter electrode and a saturated calomel electrode (sCE) as the reference electrode.All potentials in this work were reported with respect to this reference. The $\\mathbf { S n O } _ { 2 }$ -coated glass substrates were ultrasonically cleaned in acetone,ammonia and alcohol in sequence,and then rinsed with deionized water $\\left( 1 8 . 2 ~ \\mathrm { ~ M } \\Omega ~ \\mathrm { ~ c m } ^ { - 1 } \\right)$ ，and subsequently dried.The electrolyte solution contained $2 ~ \\mathrm { \\ m M }$ $\\mathrm { \\bf B i } ( \\mathrm { \\bf N O } _ { 3 } ) _ { 3 }$ ， $2 . 5 \\mathrm { ~ \\ m M }$ $\\mathbf { H } _ { 2 } \\mathbf { S } \\mathbf { e } \\mathbf { O } _ { 3 }$ ，and $\\mathbf { 0 { - } 2 0 m M }$ KSCN asa complexing agent. The $\\mathbf { p H }$ of the electrolyte was adjusted to 0.50 by adding drops of concentrated $\\mathbf { H N O } _ { 3 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A Princeton Applied Research 2273A potentiostat was used forall of the electrochemical experiments. The cyclic voltammograms were measured at a scan rate of $5 \\ \\mathrm { m } \\mathbf { V } \\ \\mathbf { s } ^ { - 1 }$ and scanned first to the negative direction.All film depositions and CV measurements were performed in a stagnant bath to maintain the designed temperature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The chemical composition of the obtained deposits was characterized by energy dispersive X-ray spectroscopy (EDs, EDAX-GENSIS6oS).The morphologies of the bismuth selenide samples were observed using scanning electron microscopy (SEM,Nova Nano SEM230) and transmission electron microscopy (TEM,JEM-21ooF),by which the corresponding selected area electron diffraction (SAED) and high-resolution transmission electron microscopy (HRTEM) results were also collected. Inaddition, the crystalline phase of the products was identified by X-ray diffraction (XRD,Rigaku 3014).The identification of elements and related valence state analysis was conducted by X-Ray Photoelectron Spectroscopy (XPS,K-Alpha 1063).Raman spectroscopy (Jobin-Yvon LabRAMHR-8oo,Horiba) wasused to further confirm the phase composition of the electrodeposited products.Furthermore, the optical and electrical properties of the deposits were measured bya UV-VIS-NIR spectrophotometer (UV-VIS-NIR,Hitachi U-41oo) and photoelectrochemical (PEC) tests (photocurrent-potential tests).The PEC tests were carried out in a $\\mathbf { 0 . 5 \\ M }$ （204号 ${ \\bf H } _ { 2 } { \\bf S O } _ { 4 }$ solution,and a Newport $3 0 0 \\mathrm { ~ W ~ }$ xenon lamp was used as the light source with the light intensity kept at $1 0 0 \\mathrm { m W } \\mathrm { c m } ^ { - 2 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.Results and discussion ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1.Cyclic voltammograms of the unitary Bi and Se systems and the binary Bi-Se system ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The electrochemical reactions relevant to the growth of bismuth selenide intermetallic compounds were studied by cyclic voltammetry.Fig.1a shows the cyclic voltammograms for the $\\mathbf { S n O } _ { 2 }$ electrode in the unitary Bi system containing 2 mM $\\mathbf { B i } ( \\mathbf { N O } _ { 3 } ) _ { 3 }$ and $1 0 \\ \\mathrm { m M }$ KSCN.It should be noted that the cathodic/anodic peak potentials are used in our CV analysis, rather than the potential of the half wave in order to simplify the analysis process.From Fig.1a, two distinct waves with the cathodic peak at about $- \\mathbf { 0 . 2 3 \\Delta V }$ and the anodic peak at about $\\mathbf { 0 . 0 6 \\ V }$ can be observed,which correspond to the reductive deposition of $\\mathbf { B i } ^ { 3 + }$ in the solution (eqn (1)) and the oxidative dissolution of the deposited Bi, respectively.32 In addition, there is another cathodic peak at about $- 0 . 6 5 { \\textbf { V } }$ in the curve, which can be attributed to the hydrogen evolution in the electrolyte solution (eqn (2)).39 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { B i } ^ { 3 + } + 3 \\mathbf { e } = \\mathbf { B i }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\mathbf { H } ^ { + } + 2 \\mathbf { e } ^ { - } = \\mathbf { H } _ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig.1b illustrates the cyclic voltammograms for the $\\mathbf { S n O } _ { 2 }$ electrode in the unitary Se system containing 2.5 mM ${ \\bf H } _ { 2 } { \\bf S } { \\bf e } { \\bf O } _ { 3 }$ and $\\mathbf { 1 0 \\ m M }$ KSCN.For the $\\mathbf { H } _ { 2 } \\mathbf { S e O } _ { 3 }$ solution,the curve displays two cathodic peaks at $- \\mathbf { 0 . 1 7 \\ v }$ and $- 0 . 6 1 { \\bf V } .$ 、In combination with previous studies,40,41 the weak cathodic wave with the peak at about $- \\mathbf { 0 . 1 7 \\ v }$ corresponds to the selenium depo sition through the four-electron reduction of $\\mathrm { S e ( w ) }$ to $\\mathbf { S e } ( 0 )$ proceeded by eqn (3).Another cathodic wave with a peak at about $- 0 . 6 1 \\textbf { V }$ corresponds to the six-electron reduction of $\\mathrm { S e ( w ) }$ to $\\mathsf { S e } ( - \\mathrm { \\Pi } _ { \\mathrm { I I } } ^ { } )$ according to eqn (4).The product $\\mathbf { S e ( - \\mathrm { { \\pi } \\mathrm { { I I } } } ) }$ then undergoes a comproportionation reaction with $\\mathrm { S e ( w ) }$ in the solution (eqn (5)),leading to the chemical formation of $\\mathrm { S e } ( 0 )$ 40 This process of selenium deposition according to the reactions of eqn (4) and (5) seems like the four-electron reduction (eqn (3)) when the concentration of $\\mathbf { H } _ { 2 } \\mathbf { S e O } _ { 3 }$ ishigh enough.Furthermore,the anodic current is always negative, and there is no obvious peak emerging during the positive scanning process,indicating that the applied potentials were not positive enough for the oxidation of Se,i.e. very little of the deposited selenium was redissoluted.This fact can also be confirmed from the observed basically unchanged color and the thickness of the deposits in our experiment process. ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H } _ { 2 } \\mathrm { S e O } _ { 3 } + 4 \\mathrm { H } ^ { + } + 4 \\mathrm { e } ^ { - } = \\mathrm { S e } + 3 \\mathrm { H } _ { 2 } \\mathrm { O }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { H } _ { 2 } \\mathbf { S e O } _ { 3 } + 6 \\mathbf { H } ^ { + } + 6 \\mathbf { e } ^ { - } = \\mathbf { H } _ { 2 } \\mathbf { S e } + 3 \\mathbf { H } _ { 2 } \\mathbf { O }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H } _ { 2 } S \\mathrm { e O } _ { 3 } + 2 \\mathrm { H } _ { 2 } S \\mathrm { e } = 3 S \\mathrm { e } + 3 \\mathrm { H } _ { 2 } \\mathrm { O }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cd7a3f596beea20781c8a2a589b4403570640cd64fa4650a7cccd64072d3407.jpg",
+        "img_caption": [
+            "Fig.1 Cyclic voltammograms of the $\\mathsf { S n O } _ { 2 }$ -coated glass substrate in (a) the unitary Bi system (containing $2 m M$ B $\\mathsf { i } ( \\mathsf { N O } _ { 3 } ) _ { 3 }$ and $1 0 ~ \\mathsf { m M }$ KSCN), (b) the unitary Se system (containing $2 . 5 ~ \\mathsf { m M }$ $H _ { 2 } S e O _ { 3 }$ and $1 0 \\ m M$ KSCN) and (c) the binary Bi-Se system (containing $2 m M$ Bi $( N O _ { 3 } ) _ { 3 }$ $2 . 5 ~ \\mathsf { m M }$ （204号 ${ \\sf H } _ { 2 } \\sf S e { O } _ { 3 }$ and $1 0 \\mathsf { m M } \\mathsf { K S C N } )$ ,scan rate $= 5 \\mathsf { m } \\mathsf { V } \\mathsf { s } ^ { - 1 }$ potentials vs.SCE. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.1c presents the cyclic voltammograms for the $\\mathbf { S n O } _ { 2 }$ electrode in the binary Bi-Se system containing $2 ~ \\mathrm { \\ m M }$ $\\mathrm { \\bf B i } ( \\mathrm { \\bf N O } _ { 3 } ) _ { 3 }$ ，2.5mM $\\mathbf { H } _ { 2 } \\mathbf { S e O } _ { 3 }$ and $1 0 \\ \\mathrm { m M }$ KSCN.In the negative scanning process of the applied potential,a cathodic wave peaking between $- 0 . 0 5 { \\mathrm { ~ V ~ } }$ and $- 0 . 2 0 { \\mathrm { ~ V ~ } }$ with a much larger current density than that of the unitary Se system is observed, which can be ascribed to the deposition of ${ \\bf B i } _ { 2 } { \\bf S e } _ { 3 }$ .Thisis supported by the following characterization of the deposits and because the reductive deposition of Se occurs earlier than that of Bi,which then induces the formation of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ with $\\mathbf { B i } ^ { 3 + }$ in the solution (eqn (6)), releasing a reactive Gibbs free energy of $- 3 1 6 . 3 9 2 \\mathrm { \\ k J \\ m o l ^ { - 1 } }$ (at 298 K).Compared with the reductive peak of $\\mathbf { B i } ^ { 3 + }$ at $- \\mathbf { 0 . } 2 3 \\textbf { V }$ in the unitary Bi system (Fig.1a), the deposition of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ shows a significant positive shift.This is characteristic of the induced underpotential deposition mechanism,which is caused by the large free energy release in the formation of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ .In addition,the peak corresponding to the six-electron reduction reaction of Se also presents an obvious positive shift,suggesting that this ${ \\bf B i } _ { 2 } { \\bf S e } _ { 3 }$ -modified surface lowered the overpotential of the $\\mathbf { H } _ { 2 } \\mathbf { S e O } _ { 3 }$ reduction; the generated ${ \\bf H } _ { 2 } \\mathrm { S e }$ immediately reacts with $\\mathbf { B i } ^ { 3 + }$ in the solution according to eqn (7), thus the other cathodic wave with the peak (Fig.1c) at about $- \\mathbf { 0 . 4 3 \\ v }$ can be reasonably assigned to another route of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ formation undergoing the reaction through eqn (7).As for the anodic wave,the continuous negative anodic current shows that the applied potentials were not positive enough for the oxidation of the deposits,and the peaks at about $_ { 0 . 0 2 \\mathrm { ~ V ~ } }$ and $\\mathbf { 0 . 3 5 \\ V }$ may correspond to the unconspicuous oxidation of Bi and Bi2Se3,respectively.32,42 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\mathrm { B i } ^ { 3 + } + 3 \\mathrm { S e } + 6 \\mathrm { e } ^ { - } = \\mathrm { B i } _ { 2 } \\mathrm { S e } _ { 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\mathrm { B i } ^ { 3 + } + 3 \\mathrm { H } _ { 2 } \\mathrm { S e } = \\mathrm { B i } _ { 2 } \\mathrm { S e } _ { 3 } + 6 \\mathrm { H } ^ { + }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 The characterization of the prepared $\\mathbf { B i } _ { 2 } \\mathbf { S e } _ { 3 }$ nanostructures ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Atypical potentiostatic electrolysis of bismuth selenide compound films was carried out at $- \\bf { 0 . 1 5 \\Delta V }$ in a solution of $2 \\ \\mathrm { m M }$ $\\mathbf { B i } ( \\mathbf { N O } _ { 3 } ) _ { 3 }$ ， $2 . 5 \\mathrm { \\ m M }$ （204号 $\\mathbf { H } _ { 2 } \\mathbf { S } \\mathbf { e } \\mathbf { O } _ { 3 }$ and $\\mathbf { 1 0 \\ m M }$ KSCN for $6 0 \\ \\mathrm { m i n }$ at room temperature $( 2 5 ~ ^ { \\circ } \\mathbf { C } )$ .The surface morphologies of the deposits were examined with SEM,and the representative SEM images with different magnifications are shown in Fig.2.It can beclearly observed from Fig.2a that the prepared sample is in a symmetrical dendritic shape with spiked branches.The central trunk is composed of orderly and closed-packed secondary branches in hundreds of nanometers,and the total length of the prepared bismuth selenides dendrites can be $5 { \\mathrm { - } } 1 0 ~ { \\mu } \\mathrm { m }$ .From the higher magnification ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/30f84fcf104fc313213ac143d0eb977a9a8e7950dd082db94134fe2416e817c1.jpg",
+        "img_caption": [
+            "Fig.2SEM images of prepared bismuth selenide nanostructures at (a) $1 0 0 0 0 \\times$ and (b) $3 0 0 0 0 \\times ,$ the electrolyte contains 2 mM Bi $( N O _ { 3 } ) _ { 3 }$ （20号 $2 . 5 ~ \\mathsf { m M }$ ${ \\sf H } _ { 2 } { \\sf S e O } _ { 3 }$ and $1 0 ~ \\mathsf { m M }$ KSCN $( \\mathsf { p } \\mathsf { H } ) = 0 . 5 0 )$ ,deposited at $- 0 . 1 5 \\vee$ vs.SCE and for 60 minutes. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SEM image shown in Fig.2b,it can be seen that these secondary branches were actually constructed with orderlynanoparticles with the size of several nanometers (which has been circled in the figure).The representative EDS pattern of the depositsis shownin Fig.3.Seleniumpeaksatabout $1 . 2 5 \\mathrm { ~ k e V }$ and $1 1 . 2 5 \\mathrm { ~ k e V }$ and bismuth signals at about $2 . 5 0 \\ \\mathrm { k e V }$ and $1 0 . 7 5 { \\mathrm { ~ k e V } }$ were observed.The composition analysis results of the sample revealed a composition of 39.88 atom% Bi and 60.12 atom% Se,implying the stoichiometry of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ of the prepared deposits. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 shows the typical XRD pattern of the electrodeposited bismuth selenide compounds,which reveals that the data are consistent with a rhombohedral ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ crystal structure [space group $\\left( R \\bar { 3 } m \\right)$ (166)],and the unit cell of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ can be displayed using a hexagonal coordinate system (JCPDS 33-0214).For this crystalline structure，the layered ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ is composed of hexagonal close-packed atomic layers which are periodically arranged along the $c$ axis with quintuple layers ordered in the Se-Bi-Se-Bi-Se sequence,43,44 as shown in the inset of Fig.4.Moreover,the peaks of $\\mathbf { S n O } _ { 2 }$ were also observed,which come from the substrate. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c6ddda4597b77cd4b6c63d60130aa39bd7f53df0160a649541d7a893b522d92.jpg",
+        "img_caption": [
+            "Fig.3 The representative spectrum of EDS with the quantitative analysis of the sample potentiostatically deposited at $- 0 . 1 5 \\mathrm { ~ V ~ }$ for 60 minutes in a $2 m M$ Bi, $2 . 5 ~ \\mathsf { m M }$ Se and $2 0 ~ \\mathsf { m } M$ KSCN solution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c62ff157aa093bff87e1adfdd4a0fafb75edc59095f0a17a065caaedd7243006.jpg",
+        "img_caption": [
+            "Fig.4 The XRD pattern of the dendritic ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ nanostructures deposited at a constant potential of $- 0 . 1 5 { \\mathrm { ~ V ~ } }$ for 60 minutes in a $2 m M$ Bi, $2 . 5 ~ \\mathsf { m } M$ Seand $2 0 ~ \\mathsf { m } M$ KSCN solution. (The insert is the space cell of the ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ crystal structure,the solid straight lines correspond to the covalent bonds.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further characterization by transmission electron microscopy (TEM) was carried out.The TEM image of the prepared ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ dendrite is shown in Fig.5a and the corresponding typical SAED pattern recorded from the top of the central trunkis presentedin the inset ofFig.5a.The electrondiffraction pattern consists of some diffraction spots and polycrys talline diffraction rings,indicating that the dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures are actually polycrystalline.In addition，the brightest diffraction spots in the SAED pattern correspond to the(0 1 5) crystal plane,which is consistent with the main diffraction peak in the previous XRD pattern.Further analysis was conducted through a recorded typical HRTEM image in the fringe of the branch (Fig.5b).A series of parallel and alternating dark and bright stripes can be seen in Fig.5b, but the crystal orientation of each grain is different.The spacings of $2 . 2 4 ~ \\mathrm { { n m } }$ and $2 . 1 1 \\ \\mathrm { n m }$ correspond to the (1 0 10) and (0 1 11) planes,respectively.The angle between the two facesis $6 3 . 4 ^ { \\circ }$ ,which is also in good agreement with the lattice parameters for hexagonal ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ ,JCPDS card no. 33-0214. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3ced48ce501e863a331a7fc5759a50a6eed04e3206dfcab2802edd272c4d8058.jpg",
+        "img_caption": [
+            "Fig.5c is the Fourier transform (FFT) pattern of Fig.5b and the crystal planes corresponding to different bright spots have been marked in the figure. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then,a surface analysis of the prepared bismuth selenide sample was carried out using X-ray photoelectron spectroscopy (XPS),which has been broadly applied in the identification of elements,the corresponding valence state and the semi-quantitative estimation in compounds.Fig.6 shows the XPS spectra of the as-prepared ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures.From the survey spectrum (Fig.6a),no peaks for other elements except Bi, Se,O,C and Sn were detected,indicating the high purity of the resulting product.29,45 The high-resolution core spectra for Se 3d and Bi 4fare shown in Fig.6b and c.The Se 3d spectrum consists of two peaks related to the valence state of $\\mathbf { S e ( - \\mathrm { I I } ) }$ in the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ compounds:one at about $5 3 . 4 5 \\ \\mathrm { \\ e V }$ which corresponds to Se $3 \\mathbf { d } _ { 5 / 2 }$ and the other at ${ 5 4 . 1 8 } ~ \\mathrm { e V }$ which corresponds to Se $3 \\mathbf { d } _ { 3 / 2 }$ .These binding energies of the Se 3d peaks show a splitting of $\\mathbf { 0 . 7 3 \\ e V }$ (vs.reported value of ${ \\bf 0 . 7 \\ e V }$ .As for the Bi 4f spectrum, the Bi $\\mathbf { 4 f } _ { 7 / 2 }$ peak at about $1 5 7 . 9 8 { \\mathrm { ~ e V } }$ and the $4 \\mathbf { f } _ { 5 / 2 }$ peak atabout $1 6 4 . 2 8 \\ \\mathrm { e V }$ related to the valence state of $\\mathbf { B i ( m ) }$ in the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ compounds are observed in Fig.6c,which displays a splitting of ${ \\bf 5 . 3 0 ~ e V }$ (just as the reported value).Furthermore,when comparing the obtained data with those of the pure bulk elemental Se and Bi,a red shiftofabout $\\mathbf { 1 . 1 \\ e V }$ of Se anda blue shift of about $1 . 3 8 ~ \\mathrm { e V }$ of Bi can be calculated.46 The opposite shifts are caused by the charge transfer from Bi to Se when the chemical bonds form in the bismuth selenide compound.The related data are presented in Table 1,which agree well with the information reported for $\\mathbf { B i } ^ { 3 + }$ and $\\sec ^ { 2 ^ { - } }$ in the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ compounds.30,45 However,another two peaks corresponding to Bi 4f in $\\mathbf { B i } _ { 2 } \\mathbf { O } _ { 3 }$ were detected,with the Bi $\\mathbf { 4 f } _ { 7 / 2 }$ at about $1 5 9 . 0 8 \\ \\mathrm { e V }$ and $4 \\mathbf { f } _ { 5 / 2 }$ peak at about $1 6 4 . 3 8 ~ \\mathrm { e V } , ^ { 4 7 }$ which suggests that some of the Bi atoms in the surface of our sample were oxidized in the air. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ada4097c4fb87b4579908dffefcdff3c4eaf0dc528b396d96d12719721924cb3.jpg",
+        "img_caption": [
+            "Fig.5(a)A TEM image (the inset is the SAED pattern),(b) HRTEM image，and (c) the corresponding FFT ED pattern of the sample potentiostatically deposited at $- 0 . 1 5 \\mathrm { ~ V ~ }$ for 60 minutes in a $2 ~ m M$ Bi, $2 . 5 ~ \\mathsf { m } M$ Se and $2 0 ~ \\mathsf { m M }$ KSCN solution. ",
+            "Fig.6The XPS spectra of the dendritic ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ nanostructures potentiostatically deposited at $- 0 . 1 5 { \\mathrm { ~ V ~ } }$ for 60 minutes in a $2 m M$ Bi, $2 . 5 ~ \\mathsf { m M }$ Seand $2 0 ~ \\mathsf { m M }$ KSCNsolution:(a)atypicalXPSsurveyspectrum;(b)thehig-resolutionXPScorespectraforSe3d;(c)thehighresolutionXPScorespectra for Bi 4f. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/11f02152b1163e225383a8d506b944953687b3a5d0104fcb5554c1fba0192a22.jpg",
+        "table_caption": [
+            "Table1 The binding energy in the XPS spectra of Bi, Se and the ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ in the as-prepared sample "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Transitions</td><td colspan=\"2\">Binding energy (eV)</td></tr><tr><td>Experimental data</td><td>Reported data46</td></tr><tr><td>Bi 4f7/2</td><td>157.98</td><td>157.6</td></tr><tr><td>Bi 4f5/2</td><td>163.28</td><td>162.9</td></tr><tr><td>Se 3d5/2</td><td>53.45</td><td>53.3</td></tr><tr><td>Se 3d3/2</td><td>54.18</td><td>54.0</td></tr><tr><td>Bi 4f, (pure element)</td><td>1</td><td>156.6</td></tr><tr><td>Bi 4f5 (pure element)</td><td>1</td><td>161.9</td></tr><tr><td>Se 3d5 (pure element)</td><td>1</td><td>54.5</td></tr><tr><td>Se 3d3 (pure element)</td><td>1</td><td>55.3</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7bcd4ae0484b8ec87d36b2dc00394ca94994ba70b0454770c9440de4925fca2.jpg",
+        "img_caption": [
+            "Fig.7 The Raman spectra of the dendritic $\\mathsf { B i } _ { 2 } \\mathsf { S e } _ { 3 }$ nanostructures deposited at a constant potential of $\\mathtt { - 0 . 1 5 \\vee }$ for 60 minutes in a $2 m M$ Bi, $2 . 5 ~ \\mathsf { m } M$ Seand $2 0 ~ \\mathsf { m } M$ KSCN solution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To further confirm the phase information of our sample,a Raman test was adopted to characterize the prepared ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures,and the corresponding Raman spectrum is shown in Fig.7.There are three characteristic peaks at $6 9 ~ \\mathrm { c m } ^ { - 1 }$ $1 2 9 ~ \\mathrm { { c m } ^ { - 1 } }$ and $\\mathbf { 1 7 1 ~ c m ^ { - 1 } }$ ,which are, respectively, consistent with the three vibrational modes of ${ A _ { 1 } } _ { \\mathrm { g } } ^ { 1 }$ $E _ { \\mathrm { g } }$ and ${ A _ { 1 } } _ { \\mathrm { g } } ^ { 2 }$ , as reported for the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ phase.30,44 Again, a peak corresponding to ${ \\bf B i } _ { 2 } { \\bf O } _ { 3 }$ at $9 4 ~ \\mathrm { { c m } ^ { - 1 } }$ (ref.48) was observed,implying the partial oxidation of Biin the deposits,whichis in accordance with the XPS results. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In order to preliminarily estimate the performance of the synthesized dendritic nanostructures compared with the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film (prepared at $- \\mathbf { 0 . 1 5 \\ V }$ and $5 0 ~ ^ { \\circ } \\mathbf { C }$ in the electrolyte solution containing 2 mM $\\mathbf { B i } ( \\mathbf { N O } _ { 3 } ) _ { 3 }$ ， $2 . 5 \\mathrm { \\ m M }$ （204号 ${ \\bf H } _ { 2 } { \\bf S } { \\bf e } { \\bf O } _ { 3 }$ ，and $1 0 ~ \\mathrm { m M }$ KSCN), optical transmittance tests using a UV-VIS-NIR spectrophotometer and some photoelectrochemical tests were conducted.According to the optical transmittance tests, the absorption coefficients of both samples are higher than $1 0 ^ { 4 } ~ \\mathrm { c m } ^ { - 1 }$ in the visible region (about $3 5 0 \\mathrm { - } 7 7 0 ~ \\mathrm { n m }$ ,supporting the direct band gap nature of the material.49 Fig.8 shows the plots of $( \\alpha \\mathbf { h } \\nu ) ^ { 2 }$ with $\\mathbf { h } \\nu$ (photon energy),which are converted from the transmission spectra recorded in the wavelength range of $3 0 0 { - } 2 5 0 0 ~ \\mathrm { n m }$ ,without taking into account the reflection and scattering loss.Based on the allowed direct interband transition,the band gaps of the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructured dendrites and ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film are determined to be $\\mathbf { 0 . 5 0 \\pm 0 . 0 1 }$ eV and $\\mathbf { 0 . 3 5 \\ : \\pm { \\ : 0 . 0 1 } }$ eV,respectively.The estimated value of the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ dendritic nanostructures is higher than the reported $\\mathbf { 0 . 3 5 \\ e V } ^ { 2 5 }$ of common ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ thin films,which can be reasonably ascribed to the energy level separation as the size of the crystalite decreases.1 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.9 displays the photocurrent-potential curves obtained by a photoelectrochemical test of both the deposited dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures and ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film in a $\\mathbf { 0 . 5 \\ M \\ H _ { 2 } S O _ { 4 } }$ solution,respectively.It is shown that the onset potential of the photocurrent is at about $\\mathbf { 0 . 3 \\ V } _ { : }$ ,and the photocurrent densities increase with the negative shift of the cathodic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film shows obvious electrochemical reductive peaks as the applied potential scans negatively,while the curve of the dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures presents a much more stable varying pattern,indicating that the dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures have a purer phase construction and a more stable photochemical response than that of the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film.53 ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b94972be3f0c2a5f0a6ba4b547e49c334cfc1deac60195b13ad8cdfb597b4b6d.jpg",
+        "img_caption": [
+            "Fig.8The plot of $( o \\mathsf { h } \\nu ) ^ { 2 }$ vs. hv for the dendritic $\\mathsf { B i } _ { 2 } \\mathsf { S e } _ { 3 }$ nanostructures (a) and $\\mathsf { B i } _ { 2 } \\mathsf { S e } _ { 3 }$ film (b); the estimated optical band gaps are $0 . 5 0 \\pm 0 . 0 1$ eV and $0 . 3 5 \\pm 0 . 0 1 \\mathrm { e V } .$ respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4c33d5b704eb9d5acc2df4730306c22cf4a1040b9b52688c493bf5446f59b49.jpg",
+        "img_caption": [
+            "Fig.9 The photocurrent-potential plot of the dendritic ${ \\mathsf { B i } } _ { 2 } { \\mathsf { S e } } _ { 3 }$ nanostructures and $\\mathsf { B i } _ { 2 } \\mathsf { S e } _ { 3 }$ film in $0 . 5 ~ \\mathsf { M }$ （20 ${ \\sf H } _ { 2 } { \\sf S } { \\sf O } _ { 4 }$ under $1 0 0 \\ m \\mathsf { W \\ c m } ^ { - 2 }$ illumination. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "potential, indicating the p-type conductivityofboth samples.5052 Nevertheless,the photocurrent densities of the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures are visibly higher than those of the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film, demonstrating that the obtained dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures have a better photoelectrochemical property than that of the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film.This phenomenon can be attributed to the large specific surface area in the dendritic nanostructures, which provides an adequate region for the separation of electron-hole pairs upon the interface of the semiconductor/ solution.Moreover, the photocurrent-potential curve of the ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "All of the above results allowus to conclude that dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures were obtained in this work.To the best of ourknowledge,this is the first report that the hierarchical dendritic $\\mathbf { B i } _ { 2 } \\mathbf { S e } _ { 3 }$ nanostructures can be prepared via an electrodepo sition method.Furthermore,the prepared dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures show an excellent photoelectrochemical activity. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.The possible growth mechanism of the dendritic $\\mathbf { B i } _ { 2 } \\mathbf { S e } _ { 3 }$ nanostructures and the effects of the additive,the deposition potential and the temperature on the morphology and composition of the deposits ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to clarify the formation mechanism of the dendritic structure,the evolution of the morphologywith the extension of time was investigated as shown in Fig.10a-e.At the initial stage of electrodeposition (Fig.1oa),clusters developed from electrochemical nucleation and growths with a mean size of about $5 0 0 \\mathrm { n m }$ were formed on the substrate dispersedly,some of which started to grow in preferred orientations,showing an original dendritic shape (insert of Fig.10a). When prolonging the time to $5 \\ \\mathrm { m i n }$ ,the clusterbecame dense anddistributed homogeneously around the substrate (Fig.1ob).As deposition continued,almost all of the clusters were developed into hierarchical dendritic structures (Fig.1oc),which showed a further increased volume (Fig.1od) and sub-branches (insert of Fig.1od).Itis noteworthy that a significant differentiation in volume appeared between these hierarchical dendritic structures during the electrochemical nonequilibrium growth ascan be seen in Fig.1oe.The larger dendrites can capture the reactive ions from the bulk electrolyte more easily, leading to further size increasing of themselves in trunks and branches，which cover the whole substrate finally，as displayed in Fig.1of.The smaller clusters seem to stop grow ing due to the lack of reactive speciesnearby,as can be identified in the circle of Fig.10f. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/3646a8e8680ebe39da12db95eedfcfc30c5c0300905fa4dd32f667d17348cf3d.jpg",
+        "img_caption": [
+            "Fig.10SEM images of the deposits prepared at various durations:(a)1 min (the insert is a detailed view at $5 0 0 0 0 \\times )$ ： (b) $5 ~ \\mathrm { m i n }$ (the insert is a detailed view at $5 0 0 0 0 \\times )$ ; (c) $1 0 \\mathrm { \\ m i n } .$ (d) $2 0 { \\mathsf { m i n } } .$ ：(e) $4 0 \\mathrm { \\ m i n }$ ：(f) $6 0 ~ \\mathrm { m i n }$ .All the samples were deposited at $- 0 . 1 5 { \\mathrm { ~ V ~ } }$ for 60 minutes in a $2 ~ \\mathsf { m } M$ Bi, （204号 $2 . 5 ~ \\mathsf { m } M$ Se and $2 0 ~ \\mathsf { m } M$ KSCN solution. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The atomic compositions of the deposits at different durations were obtained using EDS,as shown in Fig.11.A noticeable phenomenon can be observed that when the deposition time was less than 10 minutes,the average atom ratios of Bi and Se across the specimens present an increasing trend until the ratio of $2 : 3$ is reached,while the detected composition at the dendritic structure locations (insert of Fig.11) has the stoichiometry of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ at the very beginning,and remains at this atom ratio with the deposition going on. That is to say, the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ dendritic nanostructures were self-assembled from Se-rich deposits formed in the initial stage of the electrodeposition process.Combined with previous CV curves of the unitary Bi and Se systems (Fig.1a andb),the potential corresponding to the reductive peak of ${ \\bf H } _ { 2 } { \\bf S } { \\bf e } { \\bf O } _ { 3 }$ is more positive than that of the $\\mathbf { B i } ^ { 3 + }$ ions in the electrolyte,thus the deposition of Se occurred earlier than Bi,and the assumption can be proposed that,at the beginning duration of deposition，Se ions was deposited first,which then induces the reduction of the Bi ions in the electrolyte.It is noteworthy that besides part of the deposited Se joining in the assembly of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ compound clusters, the redundant Se results in the higher content of Se across the specimen than that of the cluster locations. As the deposition continues,the $\\mathbf { B i } ^ { 3 + }$ ions with an increased number in the electrolyte are reduced to combine with the deposited Se,and more ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ compounds are formed,which grow along the preferred directions,sprouting branches and sub-branches in sequence.Finally, the well-defined hierarchical dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructuresare fabricated. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac0705de3b0f78f6959ff3a36919138cc66691edf26dbeebbb8647f64d39186c.jpg",
+        "img_caption": [
+            "Fig.11The EDS composition of the average deposits prepared at different durations between 1 min and $6 0 \\mathrm { \\ m i n } .$ (The insert is the EDS composition of the pointed dendritic structure locations in different deposits.) "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "On the basis of the analysis presented above， the evolvement process of the acquired ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ dendritic nano structures should comply with the following rules:first, clusters with the stoichiometry of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ are formed from a Se-rich soil,which are subsequently developed into a primitive dendritic shape at the early stage of the process; then，branches and sub-branches are developed from the original dendritics,which grow into hierarchical nanostructures finally. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In our experiment, the concentration of KsCN was found to be a key factor that affects the morphologies of the prepared bismuth selenides.Fig. 12a-e illustrates the change of the deposit morphologies with the presence of KsCN. When no KSCN was present,thin films with flower-like clusters composed of wispy nanosheets were obtained (Fig.12a).When $\\mathrm { 5 ~ m M }$ KSCN was introduced, the bismuth selenide compounds demonstrate lumps in a different shape-controlled way (Fig.12b). When the concentration of KsCN reached $\\mathbf { 1 0 \\ m M }$ ，the morphology changed to be the wanted dendritic nanostructures (Fig.12c).When the KsCN addition was increased to $\\mathbf { 1 5 \\ m M }$ the dendritic structures grew thicker (Fig.12d),and a dramatic morphological transition from dendritic to flower-like occurred when $2 0 ~ \\mathrm { m M }$ KSCN was added into the solution (Fig.12e). The remarkable impact of KsCN on the production of ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ with a dendritic nanostructured morphology could be reasonably attributed to the adsorption effect of KsCN.It is well known that KSCN is a common chemical reagent in the electroplating industry,which contains a thiocyanate group as the ligand in the electrolyte. According to the Gibbs-Wulff theorem,54,55 additives can be used to control the morphology of the prepared sample through tuning the surface energies of specific crystallographic faces.Generally,when inorganic crystals are formed under equilibrium condition,the growing direction is determined by the relative order of the surface energies.In the process of the electrodeposition,as an appropriate amount of KSCN is introduced into the electrolyte,the $\\mathbf { B i } ^ { 3 + }$ and $\\mathbf { S e O _ { 3 } } ^ { 2 - }$ ions near the surface of the crystal are likely to be reduced,and the deposited atoms are adsorbed on some positive polar faces without passivation by additives,resulting in a faster growth along certain directions (such as the (01 5) plane in this study). However,when no or little KSCN is added in the electrolyte, thedeposited bismuth selenides would grow basically according to their intrinsic crystal surface energy,as shown in Fig.12a and b.On the other hand,deposits produced from the electrolyte with too high a KsCN concentration would also grow in uncertain orientations due to the excess passivation effect of the introduced additive on various crystal planes, just as the observed flower-like morphology in Fig.12e. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,as important parameters in electrodeposition technology, the effect of the deposition potential and the deposition temperature were also investigated.Fig.13 presents the morphology and dimension change of the product caused by the deposition potential.When deposited at $- \\mathbf { 0 . 0 5 \\ V }$ ，the product consisted of clusters with nanosheets (Fig.13a),and a dramatic morphology change happened when the deposition potential reached $- 0 . 1 0 { \\mathrm { ~ V } } .$ 、As can be seen from Fig.13b, structures of immature dendritics were gained at this potential. When the deposition potential was $- 0 . 1 5 \\mathrm { ~ V ~ }$ and $- \\mathbf { 0 . 2 0 } \\ \\mathbf { V } _ { : }$ ，the previous dendrites had developed into welldefined hierarchical dendritic nanostructures.However,as the deposition potential value arrived at $- 0 . 2 5 { \\mathrm { ~ V ~ } }$ ,adeterioration in the dendritic morphology of the deposits emerged, and the homogeneity of the hierarchical dendritic structures on the substrate became markedly weakened.Furthermore, from the EDS analysis of the deposits in Fig.14, the composition of the deposited bismuth selenides stays at the stoichiometry of ${ \\bf B i } _ { 2 } { \\bf S e } _ { 3 }$ with the deposition potential change, illustrating that the electrochemical process of the bismuth selenides follows a diffusion-controlled way,which provides an essential condition to promote the formation of the expected hierarchical dendritic nanostructured products. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/87a63c89ec5c1c236e67c966a849bfbf9f0182b7155f7c82a40df066549eec83.jpg",
+        "img_caption": [
+            "=ig.12SEM images of the deposits prepared with different concentrations of KSCN: (a) $0 \\mathrm { \\ m } M ;$ (b) $5 ~ { \\mathsf { m } } M ;$ (c) $1 0 \\ m M .$ ：(d） $\\boldsymbol { 1 5 } \\ : \\mathsf { m M } ;$ (e) $2 0 ~ \\mathsf { m } M$ Al ;amples were deposited at $- 0 . 1 5 \\vee$ for 60 minutes,and the electrolyte solution always contained $2 \\mathsf { m M B i } ( \\mathsf { N O } _ { 3 } ) _ { 3 }$ and $2 . 5 \\mathsf { m M } \\mathsf { H } _ { 2 } \\mathsf { S e O } _ { 3 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/95043e5e10d9b8a78848e7d47329ad43dc82e319633c19ed6a73222de56215fa.jpg",
+        "img_caption": [
+            "Fig.13SEM images of the deposits prepared at different deposition potentials: (a) $- 0 . 0 5 \\mathrm { V } ;$ (b) $- 0 . 1 0 ~ \\mathsf { V } ;$ (c） $- 0 . 1 5 { \\mathrm { ~ V } } ;$ (d) $- 0 . 2 0 ~ \\mathsf { V } ;$ (e)-0.25\\ The corresponding electrolyte solution always contained $2 m M$ Bi $( N O _ { 3 } ) _ { 3 }$ $2 . 5 ~ \\mathsf { m } M$ （204号 ${ \\sf H } _ { 2 } { \\sf S } { \\sf e } { \\sf O } _ { 3 }$ and $1 0 ~ \\mathsf { m M }$ KSCN. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d278cc59d23eba3d3153cb3083f36efdd18218a2ddcbff701f78643a610608b.jpg",
+        "img_caption": [
+            "Fig.14 The EDS composition of the deposits prepared at different deposition potentials varied from $- 0 . 0 5 \\vee$ to $- 0 . 2 5 { \\sf V } .$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fig.15 shows the morphology evolution of the sample with the deposition temperature change.It can be seen that the dendritic structures are degenerated gradually as the deposition temperature goes up.This phenomenon should be ascribed to the elimination effect of the temperature increase on the ion concentration polarization in the electrolyte,which is the governing factor in diffusion-controlled processes. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Well-defined hierarchical dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures have been synthesized onto $\\mathbf { S n O } _ { 2 }$ -coated glass substrates by potentiostatic electrodeposition from an aqueous acid bath containing $\\mathbf { B i } ( \\mathbf { N O } _ { 3 } ) _ { 3 }$ ， $\\mathbf { H } _ { 2 } \\mathbf { S } \\mathbf { e } \\mathbf { O } _ { 3 }$ and KSCN at $2 5 ~ ^ { \\circ } \\mathrm { C }$ ，The dendritic ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ nanostructures have a band gap of $\\mathbf { 0 . 5 0 \\pm 0 . 0 1 \\ e V }$ ， and show a more excellent photoelectrochemical property than the ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ film.Combined with CV analysis and our experiment results,the hierarchical ${ \\bf B i } _ { 2 } \\mathrm { S e } _ { 3 }$ dendritic nanostructures are grown from the primitive dendritics,which are developed from the clusters formed froma Se-rich soil at the initial stage of the electrodeposition.Furthermore,KsCN was found to be a structure directing agent that affects the morphology of the products.In addition,the deposition potential and the deposition temperature also play important roles on the morphologies of the prepared bismuth selenides. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9ca5a4b96fcb33c2d21464118c79b8c419036c9f0ff2d4ab557d6189a818c24.jpg",
+        "img_caption": [
+            "Fig.15SEM images of the deposits prepared at different deposition temperatures: (a) $2 5 \\ \\circ _ { \\mathsf { C } } ;$ (b) $3 0 \\circ \\mathsf C$ ：(c) $4 0 \\ { \\circ } _ { \\mathsf { C } } .$ (d) $5 0 ~ \\mathrm { { ^ \\circ C } ; }$ (e) $6 0 ~ ^ { \\circ } \\mathsf { C }$ All sample: weredepositedat $- 0 . 1 5 { \\mathrm { ~ V ~ } }$ for 60 minutes,and the electrolyte solution always contained $2 ~ m M$ $B i ( N O _ { 3 } ) _ { 3 } ,$ （20 $2 . 5 ~ \\mathsf { m } M$ ${ \\sf H } _ { 2 } \\sf S e { O } _ { 3 }$ and $1 0 ~ \\mathsf { m M }$ KSCN. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by the National High Technology Research and Development Program of China (863 Program, grant no.2012AA050703） and the National Natural Science Foundation of China (grant no.51222403 and 51204214). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "23 G.-R. Li, Q.-F.Ke, G.-K.Liu, P. Liu and Y.-X. Tong, Mater. Lett, 2007,61, 884-888.   \n24 G.-R. Li, F.-L. Zheng and Y.-X. Tong, Cryst. Growth Des., 2008,8,1226-1232.   \n25 B.R. Sankapal,R. S.Mane and C.D. Lokhande，Mater. Chem. Phys.,2000,63,230-234.   \n26 Z.Sun, S. Liufu, X. Chen and L.Chen, CrystEngComm,2010, 12,2672-2674.   \n27 X.Qiu,L.N. Austin，P. A. Muscarella,J. S. Dyck and C.Burda,Angew. Chem.,Int.Ed.,2006,45,5656-5659.   \n28 M.-X.Wang,C.Liu, J.-P.Xu, F.Yang,L. Miao,M.-Y. Yao, C.L. Gao, C. Shen,X. Ma,X. Chen,Z.-A. Xu,Y.Liu,S.-C. Zhang, D.Qian,J.-F.Jia andQ.-K. Xue,Science,2012,336,52-55.   \n29 L.Alegria, M. Schroer,A. Chatterjee,G. Poirier,M. Pretko, S.Patel and J. Petta,Nano Lett.,2012,12,4711-4714.   \n30 G. Zhang,H. Qin, J. Teng,J. Guo, Q. Guo,X. Dai, Z. Fang and K. Wu,Appl. Phys. Lett.,2009, 95,1-3.   \n31 S.Xu,W.-B. Zhao,J.-M.Hong,J.-J. Zhu and H.-Y.Chen, Mater. Lett.,2005,59,319-321.   \n32 H.Peng, J. Zhou, D. Tang, Y. Lai, F. Liu, J. Li and Y. Liu, Electrochim.Acta,2011,56, 5085-5089.   \n33 H.Cui,H. Liu, X. Li, J. Wang,F. Han, X. Zhang and R. Boughton,J. Solid State Chem.,2004,177,4001-4006.   \n34 A. P. Torane,C. D.Lokhande, P. S.Patil and C.H. Bhosale, Mater. Chem. Phys.,1998,55,51-54.   \n35 X.-L. Li, K.-F. Cai,H. Li,L. Wang and C.-W. Zhou, Int.J. Miner.,Metall. Mater.,2010,17,104-107.   \n36 C. Xiao, J. Yang,W. Zhu, J.Peng and J. Zhang, Electrochim. Acta,2009,54,6821-6826.   \n37A.P.Torane and C.H.Bhosale,Mater.Res.Bull,2001，36, 1915-1924.   \n38 J.D.Desai, Bull Electrochem.,1999,15,315-317.   \n39 Y.Lai, C. Han, X. Lv,J. Yang,F. Liu, J. Li and Y. Liu, J.Electroanal. Chem.,2012,671,73-79.   \n40 M.Kemell，H. Saloniemi，M.Ritala and M.Leskela, Electrochim. Acta,2000,45,3737-3748.   \n41Y.Q. Lai, . Y. Liu, J. Li, Z. A. Zhang and Y. X. Liu, J.Electroanal. Chem.,2010,639,187-192.   \n42 S. Ham, S. Jeon, M. Park, S. Choi, K.-J. Paeng, N. Myung and K.Rajeshwar,J.Electroanal. Chem.,2010,638,195-203.   \n43H.Peng,K.Lai,D.Kong，S.Meister，Y.Chen，X.-L.Qi, S.-C. Zhang, Z.-X. Shen and Y. Cui, Nat. Mater.，2010,9, 225-229.   \n44W.Richter,H.Kohler and C.R.Becker,A Raman and farinfrared investigation of phonons in the rhombohedral V2-VI3 compounds，Phys. Status Solidi B，1977，84, 619-628.   \n45 X. Yang, X.Wang and Z. Zhang,J. Cryst. Growth,2005,276, 566-570.   \n46 V. B. Nascimento, V.E.de Carvalho, R. Paniago,E.A. Soares, L. O.Ladeira and H.D.Pfannes,J. Electron Spectrosc. Relat. Phenom.,1999,104, 99-107.   \n47 R. Li, W. Chen,H. Kobayashi and C. Ma, The Royal Society of Chemistry: Supplementary Material (ES1) forGreen Chemistry,2010.   \n48A. J. Salazar-Pérez, M. A. Camacho-López, R. A. Morales-Luckie and V. Sanchez-Mendieta, Superficies Vacio,2005,18,4-8. 1 A.P.Alivisatos, Science,1996,271, 933-937. 2E. Sheka and V.Khavryutchenko,Nanostruct. Mater.,1995,6, 803-806.   \n3 H. Gleiter,Nanostruct. Mater.,1995,6,3-14.   \n4 P.Gupta,R.Pal，D.Bhattacharyya，S. Chaudhuri and A.K.Pal,Phys. Status Solidi A,1995,148,459-467.   \n5B.Poudel, Q.Hao,Y.Ma, Y. Lan,A. Minnich,B.Yu, X.Yan, D.Wang, A. Muto,D. Vashaee, X. Chen,J. Liu, M. S. Dresselhaus, G.Chen and Z.Ren, Science,2008,320,634-638.   \n6 C.Yan, C.Huang, J. Yang,F. Liu, J. Liu, Y.Lai, J. Li and Y.Liu, Chem. Commun.,2012,48, 2603-2605.   \n7H.Peng,K.Lai,D. Kong,S. Meister，Y. Chen，X.-L.Qi, S.-C. Zhang,Z.-X. Shen and Y.Cui, Nat. Mater.,201o,9,225-229.   \n8 F.Aguesse,A.-K. Axelsson,M. Valant and N. M. Alford, Scr.Mater.,2012,67,249-252.   \n9 X. Yu, J. He,D.Wang,Y. Hu, H. Tian and Z. He,J. Phys. Chem. C,2011,116,851-860.   \n10 Y.Shao,J. Sun and L. Gao,J.Phys.Chem. C,2009,113, 6566-6572.   \n11 G.-R. Li, C.-Z. Yao, X.-H. Lu, F.-L. Zheng, Z.-P. Feng, X.-L. Yu, C.-Y. Su and Y.-X. Tong, Chem. Mater., 2008,20,3306-3314.   \n12 C. Zhu, G. Meng, Q. Huang, Z. Huang and Z. Chu, Cryst. Growth Des.,2011,11,748-752.   \n13 H. Liang, Z. Li, W. Wang, Y. Wu and H. Xu, Adv. Mater., 2009,21,4614-4618.   \n14 D.P. Serrano,J.Aguado，M. José,J. M.Rodriguez and A. Peral, Chem. Mater.,2006,18,2462-2464.   \n15 Y. J. Song, J. Y. Kim and K. W. Park, Cryst. Growth Des., 2008,9, 505-507.   \n16 G.-R. Li,F.-L. Zheng and Y.-X. Tong, Cryst. Growth Des., 2008,8,1226-1232.   \n17R.Qiu,D. Zhang and P.Wang,Electrochim. Acta,2012,81, 112-116.   \n18 M.Kimura, Y. Sugihara,T.Muto,K. Hanabusa,H. Shirai and N. Kobayashi, Chem.-Eur.J.,1999,5,3495-3500.   \n19 M. O. Orlandi,E. R. Leite,R.Aguiar, J. Betini and E. Longo, Growth of SnO nanobelts and dendrites by a self-catalytic VLS process,J. Phys.Chem.B,2006,110,6621-6625.   \n20 G.Wang, Y. Fang,P. Kim,A. Hayek,M.R.Weatherspoon, J. W.Perry,K. H. Sandhage,S.R. Marder and S. C. Jones, Adv.Funct. Mater.,2009,19,2768-2776.   \n21 Y.Wang, G. Xu,L. Yang, Z. Ren, X. Wei, W.Weng,P.Du, G. Shen and G.Han,J. Cryst. Growth,2009,311, 2519-2523.   \n22 G.-R. Li, X.-H. Lu, D.-L. Qu, C.-Z. Yao,F.-L. Zheng, Q. Bu, C.-R. Dawa and Y.-X. Tong, J. Phys. Chem. C， 2007,111, 6678-6683.   \n49S.M.Pawar,A.V.Moholkar,U.B.Suryavanshi,K.Y.Rajpure and C.H.Bhosale,Sol.Energy Mater. Sol. Cells,2007,91, 560-565.   \n50S.A.Gamboa,P.J. Sebastian, X.Mathew,H. Nguyen-Cong and P.Chartier，Sol.Energy Mater.Sol.Cells,1999，59, 115-124.   \n51A.M.Fernandez,P.J.Sebastian,M.E.Calixto, S.A.Gamboa and O. Solorza, Thin Solid Films,1997,298,92-97.   \n52C.J.Huang,T.H.Meen,M.Y.Lai and W.R.Chen，Sol. Energy Mater.Sol.Cells,2004,82,553-565.   \n53J.Yang,F.Liu,Y.Lai,J.Li and Y.Liu,Electrochem. SolidState Lett.,2012,15,D19-D21.   \n54 H.Cao, X.Qian, C.Wang,X.Ma, J. Yin and Z. Zhu,J. Am Chem. S0c.,2005,127,16024-16025.   \n55 J. Xue,W. Liang, X. Liu, Q. Shen and B. Xu, CrystEngComm,   \n2012,14,8017-8022. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

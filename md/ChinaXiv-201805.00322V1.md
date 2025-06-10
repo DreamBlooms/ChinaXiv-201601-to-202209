@@ -1,0 +1,203 @@
+# DOI:10.5846/stxb201703160444
+
+毛玉泽,李加琦,薛素燕,葡凡,蒋增杰,方建光,唐启升.海带养殖在桑沟湾多营养层次综合养殖系统中的生态功能.生态学报,2018,38（9)：3230-3237.  
+MaoYZ,LiJ，ueinFiaZJgGTagolcactiosfeelcinjpicintegatedioaquaculture，Sanggou Bay，China.Acta Ecologica Sinica,2018,38(9) :3230-3237.
+
+# 海带养殖在桑沟湾多营养层次综合养殖系统中的生态功能 C
+
+毛玉泽1,²，李加琦1,²，薛素燕1²，葡凡1,³，蒋增杰1,³，方建光1,³，唐启升1,3，\*
+
+1农业部海洋渔业可持续发展重点实验室,山东省渔业资源与生态环境重点实验室,中国水产科学研究院黄海水产研究所,青岛 266071  
+2 海洋国家实验室海洋生态与环境科学功能实验室，青岛266071 o.C  
+3 海洋国家实验室海洋渔业科学与食物产出过程功能实验室，青岛266071
+
+摘要：采用现场和实验生态学方法研究了大型经济海藻——海带(Saccharina japonica)的生长、光合作用和氮营养盐的吸收特性。实验结果表明：在1个生长周期内(约 200d),海带的湿重与养殖天数呈明显的幂函数( $\mathit { W } = 1 . 3 8 8 6 ~ t ^ { 1 . 3 6 2 }$ $R ^ { 2 } = 0 . 9 6 1 1$ ），海带湿重是长度的幂函数( $W { = } 0 . 0 0 7 1 ~ L ^ { 2 . 0 8 8 2 }$ $R ^ { 2 } = 0 . 9 3 9 2 ^ { \cdot }$ );海带的光合作用放氧速率 $\mathrm { \Delta } \mathrm { O } _ { 2 } \mathrm { \ m g / h } \mathrm { \Omega } ,$ 与湿重(g)具有明显的线性相关( $R ^ { 2 }$ （20范围为0.950—0.981）,直线斜率(反应单位时间单位重量光合作用放氧速率)的变化范围为 $0 . 0 9 6 { - } 0 . 1 9 5$ （平均0.191）,养殖初期单位鲜重的光合放氧能力较弱,后期趋于稳定;不同部位海带藻片对 TIN 的吸收速率不同,中带部上部 $( 6 0 { - } 1 1 0 \mathrm { c m } )$ 和基部(20 ${ . 5 0 } \mathrm { c m }$ )的吸收速率大于中带部下部( $1 5 0 { - } 2 0 0 \mathrm { c m } ,$ )和边缘部,氮饥饿后最初0.5—1h对 TIN的吸收速率最高( $0 . 6 \mu \mathrm { m o l / g }$ WW）,培养 $2 4 \mathrm { h }$ 可去除介质中TIN（初始浓度 $2 4 . 2 \mu \mathrm { m o l / L }$ ，密度 $4 \mathrm { g } / \mathrm { L }$ 的 $6 4 . 2 \%$ 一 $9 7 . 1 \%$ $1 0 \%$ 条件下藻片对营养盐的吸收率和去除率均大于 $4 ^ { \circ } \mathrm { C }$ 。海带藻片对 $\mathrm { N O } _ { 3 }$ -N 的吸收速率大于对 $\mathrm { \Delta N H _ { 4 } - N }$ 的吸收速率， $2 4 \mathrm { h }$ 后对 $\mathrm { N O } _ { 3 }$ -N 的收速率趋于稳定。结果显示，海带具有较高的生长速度、光合作用产氧和营养盐吸收能力。海带养殖后期,每天可以增加氧气 $2 8 . 8 \mathrm { g } / \mathrm { m } ^ { 2 }$ （光周期按14h计算),收获时海带的平均碳氮含量分别为 $3 3 . 1 \%$ 和 $1 . 8 \%$ ,以桑沟湾海带养殖产量8.45万t计算，每年可移除2.8万t碳和1538t氮，海带在多营养层次综合养殖系统中具有较高的生态功能。
+
+关键词：海带;生长；光合作用;氮营养盐吸收;生态功能
+
+# Ecological functions of the kelp Saccharina japonica in integrated multi-trophic aquaculture， Sanggou Bay， China
+
+MAO Yuze1²，LI Jiaqi12,XUE Suyan1²，LIN Fan1,3， JIANG Zengjie13,FANG Jianguang $^ { 1 , 3 }$ ， TANG Qisheng $^ { 1 , 3 }$ ”，
+
+1Yellow SeaFisheriesResearch Institute，Chinese Academy ofFishery Sciences，Qingdao 266O71,China   
+2Laboratoryfoodtaleeidalbatorcedd   
+3LaboraoryforineshriesSieceddProducProcesesingdatialLboratoforarineeeTholi 266071，China
+
+Abstract:The growth rate，photosyntheticactivities，and nitrogen nutrient uptake characteristics of cultured commercial kelp（Saccharina japonica）were studied in situ andunder laboratoryconditions.The lengths of marked kelps were measured every10 to2O days throughouttheirentire lifecyclebycollecting 5—10 individuals for simultaneous weight measurement.Thein-situseaweed was incubated inhigh light transmisionpolyethylene tubes（theperimeterof the tube was 25- $5 0 \mathrm { { c m } }$ ； light transmittance was above $80 \%$ ） suspended in the kelp farming area，and the photosynthetic oxygen production rateat diferent growth stages was measuredinJanuary，March，May，andJuly.Inthe laboratory，the total inorganicnitrogen（TIN）uptakerate was measured fordiscstaken fromdiferent partsof thekelpundertwo temperature treatments of $4 \%$ and $1 0 \%$ . The $\mathrm { N H } _ { 4 }$ -N and $\mathrm { N O } _ { 3 }$ -N selective uptake characteristics of the discs were also measured. The results showed that the wet weights are power functions that are related to both culture days ( $W = 1 . 3 8 8 6 ~ \mathrm { t } ^ { 1 . 3 6 2 }$ ， $R ^ { 2 } = 0 . 9 6 \Pi$ and kelp length ( $\mathrm { W } = 0 . 0 0 7 1 ~ \mathrm { L } ^ { 2 . 0 8 8 2 }$ ， $R ^ { 2 } = 0 . 9 3 9 2$ ）duringthecultureperiod.Therewasaclear positivelinearcorrelation （ $\boldsymbol { R } ^ { 2 }$ ranged from 0.950 to 0.981） between the oxygen production rate ( $\left( 0 _ { 2 } \ \mathrm { m g / h } \right)$ ） and the wet weight （g），and the slope (related tothe photosynthetic oxygen production ratesof thekelp byunit timeandunit fresh wet）varied from 0.096 to 0.195 with an average of O.191.The oxygen productionrate inunit fresh weight was lower at the first growth stage (January），but gradually increasedand became stable after March.The TN uptakerate varied betwee diferent partsof the kelp.Theuptakerates of the upper partof the middle band（6O—110cm）andthebase of the plant（2O—50cm）were faster than the lower part of the middle band ( $1 5 0 { - } 2 0 0 \mathrm { c m } \$ ） and the marginal part of the plant. The highest TIN uptake rate was observed between O.5 and 1 hour after nitrogen starvation，and about $6 4 . 2 \%$ to $9 7 . 1 \%$ of the TIN in the culture medium (initial concentration was $2 4 . 2 \mu \mathrm { m o l / L }$ and the kelp density was $4 \mathrm { g / L }$ ）was removed within 24 hours. The TIN uptake and removal rate of the tested kelp incubated at $1 0 \%$ was higher than that at $4 \mathrm { ^ { \circ } C }$ . The NO,-N uptake rate of the kelp discs was higher than for $\mathrm { N H } _ { 4 }$ -N，and became stable after 24 hours.The results demonstrated that the kelp has a relatively high growth rate,nutrient uptakerate,andactive photosynthetic activities，which means ithas valuableecological functions asafarmed species.
+
+Key Words:Sacharina japonica；growth；photosynthesis；uptake characteristicsof nitrogen nutrient；ecological function
+
+大型海藻作为生物滤器技术起于20世纪70年代,近年发展迅速并逐步建立了海藻与鱼、虾、贝及多种类多营养层次综合养殖（IMTA,Integrated Multi-trophic Aquaculture)模式。大型藻类能吸收养殖动物释放到水体中的营养盐,转化为藻类自身生物量,同时兼具产氧、固碳、调节水体pH值等作用,其又可以作为鲍、海胆等经济动物的饵料。基于大型藻类的 IMTA 模式越来越受到国内外学者的重视,养殖大型海藻是净化养殖废水、控制水域富营养化、提高海域利用率和保护生态环境的有效措施[1-5]。
+
+桑沟湾面积144km,是位于山东半岛东端的半封闭海湾。湾内养殖海带、扇贝、牡蛎、鲍和刺参等 30 多个品种,养殖方式有筏式、底播、沿岸池塘和潮间带养殖等[6],是我国最早开展海水养殖的海湾,并先后开展了养殖生物生理生态学、养殖容量评估、生源要素的生物地球化学循环、水动力、养殖模型、综合养殖,以及养殖对环境的影响和评价等[6-9]研究工作,其IMTA 模式得到世界范围认可[6]。海带一直是桑沟湾开展养殖活动以来的主要养殖品种,遍布湾中部和外部,年产量超过8万t（干重）[8]。目前该湾开展规模化海水养殖生产活动30 余年,水质环境仍处于优良状态,与大型海藻养殖不无关系。
+
+海带(Saccharina japonica)是我国养殖的重要经济海藻,属低温型大型藻类,原仅在我国山东、辽宁等北方沿海地区养殖,近年来培育了一些耐高温品种,使养殖范围逐步扩大,现已在江苏、浙江和福建等沿海地区养殖,2015 年我国海带产量为141.1万t,占海藻产量的 $6 7 . 6 \%$ ,但关于其生态功能的研究鲜有报道。
+
+本文现场测量了桑沟湾养殖海带的生长和光合作用特性,实验室模拟研究了海带藻片对营养盐的吸收特性,包括海带藻片对 TIN 营养盐吸收随时间的变化、不同部位对 TIN 的吸收、对不同氮源( $\mathrm { N H } _ { 4 } { \mathrm { - N } } , \mathrm { N O } _ { 3 } { \mathrm { - N } } ,$ 吸收的选择性,并测定了C、N含量的季节变化。目的是了解海带在海水养殖生态系统中的生态调控作用,为建立和完善IMTA体系提供理论依据。
+
+http://www.ecologica.cn
+
+# 1材料与方法
+
+# 1.1 现场实验
+
+现场实验是在荣成桑沟湾海带养殖区进行( $( 1 2 2 ^ { \circ } 3 4 ^ { \prime } 4 2 ^ { \prime \prime } \mathrm { E } , 3 7 ^ { \circ } 8 ^ { \prime } 2 1 ^ { \prime \prime } \mathrm { N } )$ 。
+
+# 1.1.1 海带生长的测定
+
+在桑沟湾海带养殖区随机选取同一个养殖区的4 排筏架用于海带生长测定,每15—20d 测量海带的生长,每次采集3—5棵海带现场测定长度和湿重,然后带回实验室分段烘干,用于组织C、N含量的测定;同时采用打孔法[1°（标记30 棵海带)测定海带的长度。 ）
+
+桑沟湾海带养殖已经形成固定模式,一般每年10月18—20 日海带苗出库,移至海区暂养30d左右,11月18—22日开始分苗,此时海带苗长度约为 $1 5 { - } 2 0 \mathrm { c m }$ ,因夹苗工作持续时间较长,为了和实际生产数据比较,我们把12月1日确定为海带生长的初始时间(第1天),6月中旬基本收获完毕,一个生长周期约为 200d,在此范围内建立海带的生长模型。 2℃
+
+# 1.1.2 海带光合作用测定
+
+分别在1月、3月、5月和7月（尽管大部分海带在7月前收获,为探讨海带的生态功能,在7月份也测定了其光合作用),现场测定海带光合作用产氧速率。每2个月在实验海区采集大、中小3种不同长度的海带用于现场光合作用实验,每个规格3—5个重复。根据海带规格选用不同周长( $3 1 - 6 9 \mathrm { c m }$ )的聚乙烯塑料薄膜筒袋(材质相同,长度可定制)作为海带光合作用容器,长度以能装下整棵海带为宜。塑料筒袋用现场海水冲洗后,先把叶柄处系有细绳(固定海带,使其完全伸展)的整棵海带放入其中,把有海带稍部的一端扎紧,虹吸法装满现场海水（海水事先装在 $2 0 0 \mathrm { L }$ 的桶中混匀)，然后扎紧塑料筒带的另一端,固定在筏架上,实验进行2h,用虹吸法取充分混合水样用于DO 测定和营养盐分析,测定海带的湿重、塑料筒长度（用于体积计算）,根据下式计算海带的光和作用产氧速率。
+
+$$
+P _ { \mathrm { { \scriptscriptstyle 0 } } _ { 2 } } = ( { \cal { O } } _ { t } ^ { \prime } - { \partial } _ { t } - ( { \cal { O } } _ { c } ^ { \prime } ) - ) { \cal { O } } _ { c } ) ) \times V ( W \cdot t )
+$$
+
+式中， $P _ { \mathrm { o } _ { 2 } }$ 是光合作用产氧速率 $( \mathrm { m g ~ g } ^ { - 1 } \| \bar { \mathsf { r } } ^ { - 1 } ) , \mathsf { O } _ { t \bar { \mathsf { r } } } \mathsf { O } _ { t }$ 和 $\smash { \partial _ { c } \boldsymbol { \mathcal { O } } _ { c } }$ 分别是实验开始和结束时处理组（放置海带）和对照组(不放置海带) $\mathbf { 0 } _ { 2 }$ 的浓度（mg/L），V是实验用塑料桶的体积（L）， $W$ 是海带鲜重 $\left( \mathbf { \nabla } _ { \mathbf { g } } \right) , t$ 是实验时间（h）。
+
+# 1.1.3海带藻体组织碳氮含量测定
+
+测量长度和湿重的海带,用海水清洗干净,冷藏保存运回实验室。根据大小分成3—4段,用淡水和蒸馏水冲洗,称量湿重,在 $5 5 \%$ 下烘干48h 至恒重,计算含水率。烘干后粉碎过筛(80目)置于恒温干燥箱内冷藏备用。采用德国产Elemental Analyzer Vario ELcube元素分析仪测定藻体C、N含量。
+
+# 1.2 实验室实验
+
+# 1.2.1 海带采集和藻片制备
+
+选择健康成熟的海带（长度 $3 \mathrm { m }$ 以上）,清洗去除表面附着物,按照长度和位置把海带叶片分为4部分，分别为基部 $( 2 0 { - } 5 0 \mathrm { c m } )$ ）、中带部上部 $( 6 0 { - } 1 1 0 \mathrm { c m } )$ ）、中带部下部( $( 1 5 0 - 2 0 0 \mathrm { c m } )$ )和边缘部（MP）,用打孔器打成直径 $\mathrm { { 1 . 0 c m } }$ 的藻片,藻片分装于3L 的锥形瓶中(内装2L 消毒海水)暂养在不同温度( $4 ^ { \circ } \mathrm { C }$ 和 $1 0 ^ { \circ } \mathrm { C }$ )的光照培养箱中，光照为 $4 0 \mu \mathrm { m o l } \textrm { m } ^ { - 2 } \textrm { s } ^ { - 1 }$ 。
+
+1.2.2不同部位海带藻片不同温度对无机氮(TIN)的吸收三 选取上述4个部位的藻片,用吸水纸吸干海带片表面的水分,按照 $2 \mathrm { g } / \mathrm { L }$ 的密度放入 $5 0 0 \mathrm { m L }$ 的锥形瓶中（内装 $4 0 0 \mathrm { m L }$ 消毒海水）,用透气纸封住瓶口，在不同温度 $( 4 ^ { \circ } \mathrm { C } \ , 1 0 ^ { \circ } \mathrm { C } ^ { \cdot }$ )光照培育箱中培养，每个温度4个平行，实验进行 $2 4 \mathrm { h }$ ,其他条件与暂养条件相同。实验结束后将海带片取出,用蒸馏水反复冲洗后,称量湿重,然后放于 $5 5 \mathrm { { ^ \circ C } }$ 烘箱内烘干到恒重时称量干重。
+
+测定实验前后介质中无机氮(包括硝态氮、氨氮和亚硝酸氮)的浓度。测定方法按照海洋监测规范（GB17378.4—2007)进行,根据公式 ${ \mathrm { N U R } } = { \left( \begin{array} { l } { C _ { \mathrm { 0 } } - C _ { t } } \end{array} \right) } V / ( W \cdot t )$ 计算吸收速率（Nutrient uptake rate,NUR）,式中,
+
+NUR指吸收速率 $\mu \mathrm { m o l } \ \mathrm { g } ^ { - 1 } \mathrm { D W \ } \mathrm { h } ^ { - 1 }$ ， $C _ { 0 }$ 和 $C _ { \iota }$ 分别指开始和结束时培养瓶中TIN的浓度( $\mu \mathrm { m o l / L }$ ）， $V$ 指实验水体体积(L), $W$ 指藻体的湿重 $( \mathbf { g } ) { \mathbf { \sigma } } _ { \mathbf { \{ \lambda } } ^ { t } $ 指养殖时间（h）。
+
+# 1.2.3 海带藻片对氮吸收的时间变化
+
+加富氮(硝酸氮和氨氮比约为9:1)营养盐浓度为 $5 0 \mu \mathrm { m o l / L }$ 浓度参考桑沟湾海区无机氮浓度），加入$1 \mu \mathrm { m o l / L }$ 的 $\mathrm { K H } _ { 2 } \mathrm { P O } _ { 4 }$ 和 $\mathrm { f } / 2$ 微量元素培养液,将配制好的培养液装于1L的三角烧瓶中,内装 $8 0 0 \mathrm { m L }$ 培养液,放入相同重量的海带片( $\mathsf { 2 g / L } )$ ,藻片事先用吸水纸吸干表面水分,不放藻片的作为对照,每组4个平行,用透气培养纸将瓶口盖好,放人 $1 0 ^ { \circ } \mathrm { C }$ 的光照培养箱中进行培养,分别在 $0 . 0 . 5 , 1 , 2 , 5 , 1 0 , 2 2 \mathrm { h }$ 和 $2 8 \mathrm { h }$ 时取样测定TIN的浓度,分别计算各培养时间点营养盐浓度和吸收率(包括吸收率和阶段吸收率),吸收率( $\mathrm { N U R } _ { t }$ )计算方法同1.2.2，阶段吸收率( $\mathrm { N U R } _ { s }$ )指两个取样点时间段内藻片的吸收率。
+
+# 1.2.4海带藻片对不同氮源的吸收
+
+用 $\mathrm { N H } _ { 4 } \mathrm { C l }$ 和 $\mathrm { K N O } _ { 3 }$ 按照TIN含量为 $5 0 \mu \mathrm { m o l } / \mathrm { L }$ 配置4种不同比例的氮营养盐，氨态氮与硝酸态氮的比例分别为3:1、2:1、1:2和1:20(具体以实测值为准）。将培养液装于 $5 0 0 \mathrm { m L }$ 的三角烧瓶中，内装 $4 0 0 \mathrm { m L }$ 培养液,每个处理3个平行。每个培养瓶中放置相同重量的藻片( $\mathrm { 2 g / L } )$ ）,用封口纸盖好，放置在 $1 0 \%$ 的光照培养箱中培养。分别测定各处理实验开始,实验后6h 和 $2 4 \mathrm { h \ N H _ { 4 } }$ -N和 $\mathrm { N O } _ { 3 }$ -N 的浓度。
+
+# 2结果与分析
+
+# 2.1 海带的生长特性
+
+海带的生长的初始时间定在每年的12月1日,以此计算海带的生长模型（图1,图2）,在一个生长周期内（约 200d),海带的湿重和长度均是养殖天数的幂函数,单次测量长度的变化幅度较大,湿重的变化幅度相对较少,4月中下旬后海带逐渐开始收获(夹苗后150d）,6月中下旬海带基本收获完毕,收获期湿重为( $1 5 8 6 \pm$ $1 3 0 ) \mathrm { g }$ ,长度为 $( 3 1 3 { \pm } 2 6 . 6 ) \mathrm { c m }$ ,记录最长长度为365cm,湿重1838g。
+
+![](images/7446805ba0e1859f18c020fa5870c9b42f9727eb8b5e7031052c67c58267bb95.jpg)  
+图1桑沟湾海带湿重生长回归模型( $n = 7 0$ ）
+
+![](images/b5397731c00ae02f9529bbaafdde15d899fe2f6d9dc6de203e33e07d246564f4.jpg)  
+Fig.1 The fresh weight regression model of the cultured kelp in Sanggou Bay(n= 70） W：湿重,freshweight; $\mathbf { \chi } _ { t }$ ：养殖天数，farming days   
+图2桑沟湾海带长度生长回归模型( $n = 1 5 4$ ）  
+Fig.2The growth in length regression model of the cultured kelp in SanggouBay( $n = ~ 1 5 4$ ） $L$ ：长度，length； $\mathbf { \chi } _ { t }$ ：养殖天数，farming days
+
+在生长期内，桑沟湾海带湿重与长度符合幂函数，函数的幂为 $2 . 0 8 8 2 { > } 1$ ,表明随着长度的增加海带的湿重增加越来越快，这与海带的生长特性相吻合，但长度超过 $3 0 0 \mathrm { c m }$ 后，海带的长度增加较慢或不增长，而湿重仍然增加（图3）。
+
+# 2.2海带的光合作用
+
+海带光合作用与湿重呈明显的正相关，可以用线性方程 $P R _ { 0 } = \mathrm { a } W + \mathrm { b }$ 表示，式中 $P R _ { 0 }$ 为光合作用速率（ $ { \mathbf { m } }  { \mathrm { g } }  { \mathrm { ~ O ~ } _ { 2 }  { \mathrm { h } } ^ { - 1 } }$ 棵-1）， $W$ 为湿重(g),经残差检验,该模型符合正态分布。1月份a值最低为0.096,此时海带的光
+
+合产氧能力相对较弱，3月后海带光合作用与湿重的斜率比较稳定，范围在0.187一0.195之间，且变化不大，说明光合作用处于稳定的水平（表1）。
+
+# 2.3 不同部位海带对营养的吸收
+
+实验自然海水中无机氮浓度为 $2 4 . 2 \mu \mathrm { m o l } / \mathrm { L } , 2 4 \mathrm { h }$ 后各处理组TIN剩余浓度情况为，边缘 $>$ 中带部下部（ $1 5 0 \mathrm { c m } ) >$ 基部 $( 2 0 - 5 0 \mathrm { c m } )$ $>$ 中带部上部，TIN的吸收速率为中带部上部 $>$ 基部 $>$ 中带部下部 $>$ 边缘（图4，图5）， $4 ^ { \circ } \mathrm { C }$ 和 $1 0 ^ { \circ } \mathrm { C }$ 去除效率分别为 $6 4 . 2 \% - 9 4 . 2 \%$ 和$7 8 . 0 \% - 9 7 . 3 \%$ （密度为 $4 \mathrm { g } / \mathrm { L }$ )（图6)。不同温度下不同部位的藻片对TIN的吸收趋势相同，但是 $1 0 \%$ 时对TIN的吸收速率略高于 $4 ^ { \circ } \mathrm { C }$ ,为1.0—1.2倍。
+
+![](images/522c6955744b1a1abaabec32b54e34182ae534060d7386ce119357a48da219fb.jpg)
+
+表1不同月份海带湿重与光合作用回归模型参数  
+
+<html><body><table><tr><td rowspan="2">月份</td><td rowspan="2">a</td><td rowspan="2">b</td><td rowspan="2">判定系数</td><td colspan="2">调整判定系数</td><td rowspan="2">样本数n</td></tr><tr><td></td><td>F</td></tr><tr><td>1</td><td>0.096</td><td>1.262</td><td>0.975</td><td>0.973</td><td>471.5</td><td>14</td></tr><tr><td>3</td><td>0.187</td><td>2.189</td><td>0.950</td><td>0.943</td><td>132.5</td><td>9</td></tr><tr><td>5</td><td>0.195</td><td>-3.264</td><td>0.975</td><td>0.971</td><td>235.4</td><td>8</td></tr><tr><td>7</td><td>0.191</td><td>3.687</td><td>0.984</td><td>0.981</td><td>364.1</td><td>8</td></tr><tr><td>合计 Total</td><td>0.191</td><td>-0.959</td><td>0.968</td><td>0.967</td><td>1104.6</td><td>39</td></tr></table></body></html>
+
+![](images/aa946a6e2676c35ec1944668add13cfdb328820e68469b5a52220f2ac10c0dcc.jpg)  
+图4不同部位海带藻片在不同温度培养介质中DIN浓度的变化 Fig.4Changes of DIN concentration in the incubated water of kelp discs at different parts under ${ \textbf { 4 } } \mathbf { \mathcal { C } }$ and $\mathbf { 1 0 } { \mathrm { ~ \% ~ } }$ ，respectively TIN：总无机氮,total inorganic nitrogen；MP：边缘部,marginal parl
+
+![](images/d4c0a84de71b5358555501a88bfeadb17d42186679b772d407d4e966e74c1ee5.jpg)  
+图3桑沟湾海带湿重和长度的回归模型(n=70) Fig.3The regression model between the fresh weight and the length of the farmed kelp in Sanggou Bay (n = 70) W：湿重 Fresh weight;L:长度Length   
+图5不同部位海带藻片在不同温度条件下对TIN吸收率Fig.5The TIN uptake rate in different temperature of kelp discs atdifferent parts
+
+TIN：总无机氮,total inorganic nitrogen；MP：边缘部,marginal part
+
+# 2.4海带藻片对TIN 吸收的时间变化
+
+海带藻片表现出在1h 内快速吸收 TIN现象,2h 时吸收缓慢甚至停滞,介质中 TIN 浓度略有上升（图7,TIN曲线),1—2h 的阶段吸收速率(图7,NUR曲线)出现负值,然后又缓慢的上升,10h 后吸收率处于较低水平（图7）。2h内的累积吸收速率仍然较高( $2 . 1 \mu \mathrm { m o l } \lambda$ ）,10h内约为 $0 . 5 \mu \mathrm { m o l } / \mathrm { L }$ ,以后随培养时间增加而逐渐降低。
+
+![](images/6418b48fbeddc7d453431b0b90cc61408d774747a76fa6d3270526979c7d65b2.jpg)  
+图6不同部位海带藻片在不同温度条件对TIN去除率
+
+TIN：总无机氮,total inorganic nitrogen；MP：边缘部,marginal part
+
+![](images/6e9123adbcc0c389591699aaef89f85cab7f7151cb45bc53618e2fcbe7c47a83.jpg)  
+Fig.6The TIN removing efficiency in different temperature of kelp discsat different parts   
+图7海带藻片对TIN吸收速率的时间变化  
+Fig.7The variations over time of TIN uptake rate of kelp discs at different parts
+
+TIN：总无机氮,total inorganic nitrogen；NUR,：吸收率,nutrientuptake rate ; $\mathbf { N U R } _ { s }$ ：阶段吸收率,nutrient uptake rate in different stage
+
+# 2.5 海带藻片对不同氮源的吸收
+
+选取中带部海带为实验材料,分别在6h 和 $2 4 \mathrm { h }$ 测定了其对不同比例TIN（浓度为 $( 4 3 . 9 { \pm } 1 . 7 0 ) \mu \mathrm { m o l / L } \backslash$ 中$\mathrm { N H } _ { 4 }$ -N和 $\mathrm { N O } _ { 3 }$ -N 的吸收效率(图8)。不论何种比例,海带藻片对 $\mathrm { N O } _ { 3 } ^ { \mathrm { ( } } \mathrm { - } \mathrm { N }$ 的吸收速率均高于 $\mathrm { N H } _ { 4 }$ -N 的吸收速率， $6 \mathrm { h }$ 时海带在比值为1.83 时吸收速率最高,为 $0 . 9 8 \mu \mathrm { m o l } \ \mathrm { g } ^ { - 1 } \mathrm { h } ^ { - 1 } ; 2 4 \mathrm { h }$ 后不同比例TIN中,除比例为0.49 组外， $\mathrm { N O } _ { 3 } – \mathrm { N }$ 的吸收速率非常接近,为1.03— $1 . 0 6 \mu \mathrm { m o l ~ g ^ { - 1 } ~ h ^ { - 1 } }$ ，而 $\mathrm { \Delta N H _ { 4 } - N }$ 的吸收速率随着 $\mathrm { N H } _ { 4 } – \mathrm { N }$ 比例的降低出现明显的下降,在高 $\mathrm { N O } _ { 3 }$ -N 浓度下，对 $\mathrm { N H } _ { 4 }$ 的吸收为接近0的负值。
+
+![](images/4f410f0adbdfe696eab95d06406bf259c42989d60ce9481b66122a71cc5ae4df.jpg)  
+图8海带藻片对不同比例 $\mathbf { N H _ { 4 } }$ -N和 $\mathbf { N O _ { 3 } }$ -N的吸收速率  
+Fig.8The uptake rates of kelp discs at different parts under different ratios of $\mathbf { N H _ { 4 } }$ -N: $\mathbf { N O } _ { 3 }$ ←
+
+2.6 海带组织碳氮含量的季节变化
+
+桑沟湾养殖海带碳含量的变化范围为在 $3 1 . 7 \% - 3 6 . 1 \%$ （平均 $3 3 . 9 \%$ )，6—7月份C含量较低，1月和5月C 含量相对较高,但季节变化不明显。N含量变化范围为 $1 . 5 9 \% - 2 . 9 9 \%$ （平均 $2 . 2 4 \%$ ）， $\mathrm { C } / \mathrm { N }$ 比变化范围为11.6—20.2(平均15.5)（图9)。收获季节(养殖150—200d)海带碳氮含量平均为 $3 3 . 1 \%$ 和 $1 . 8 2 \%$ 。
+
+# 3讨论
+
+# 3.1 海带的生长
+
+海带是我国主要养殖大型经济海藻,产量占海藻养殖产量的一半左右,中国北方海带主要养殖方式为筏式养殖,养殖筏架一般长 $8 0 \mathrm { m }$ ,筏间距4- $\cdot 6 \mathrm { m }$ ,苗绳长 $2 . 5 \mathrm { m }$ ,夹苗35棵左右，苗绳间距 $1 . 0 { - } 1 . 2 \mathrm { m }$ ,多采用平养方式，两根苗绳连接在一起，通过吊绳平挂在两排筏架之间。由此推算，每平方米水面养殖海带8一9棵，每公顷养殖海带(去除航道和区间水面)按5万棵计算，收获时海带平均重量 $1 . 6 \mathrm { k g / }$ 棵，每公顷产量约80t,桑沟湾海带养殖面积约为 $7 5 0 0 \mathrm { { h m } ^ { 2 [ 1 1 ] } }$ ,估算鲜海带产量为60万t( $7 \mathrm { k g }$ 鲜海带可生产 $1 \mathrm { k g }$ 干海带），这与桑沟湾海带实际养殖产量8.45万t(干重)相当[8]。由于养殖面积较大，桑沟湾养殖海带在4月底(分苗后150d)开始逐渐收获，此时海带的平均长度为 $3 1 3 \mathrm { c m }$ ,这个阶段养殖长度平均生长速度约为 $1 . 9 5 \mathrm { c m / d }$ （分苗时长度约$2 0 \mathrm { c m } _ { \cdot }$ ),后期变化不大,甚至由于脱落出现负增长。养殖150d后，湿重还有较高的增速，后期逐渐趋于稳定，主要是因为海带进人厚成期后,稍部出现较多的脱落[1],本研究中海带的湿重和长度都大于 Zhang 等[11] 的研究结果,可能是因为养殖品种的差异而引起的。本研究中海带的生长没有采取打孔方法进行计算,主要是为了解海带的实际生长情况。 31
+
+![](images/6e791c7c77b0c49e6c630eb9ce0e028a789d19d7494da12c41baaf4df630e004.jpg)  
+图9桑沟湾海带干组织碳氮含量的季节变化 Fig.9The carbon and nitrogen content in the dried kelp sampled in different seasons
+
+# 3.2海带的光合作用
+
+大型藻类通过光合作用产生氧气,但这种作用往往因为海水中溶解氧的过饱和而被忽略,然而世界范围内近海低氧区面积呈指数增长，我国长江口外的东海缺氧区面积达 $1 0 0 0 0 \mathrm { k m } ^ { 2 }$ ,近年也有报道渤海夏季缺氧区面积达 $4 . 2 \times 1 0 ^ { 3 } \mathrm { k m } ^ { 2 [ 1 2 ] }$ ,甚至一些近岸海湾也出现缺氧现象。本文的研究结果表明海带的光合作用产氧速率与湿重呈正相关, $1 . 5 \mathrm { k g }$ 的海带每天产氧量约为 $3 6 0 0 \mathrm { m g } 7$ 棵(光周期按照 $1 4 \mathrm { h }$ 计算）,按照每平方米养殖8棵计算,每平方米可以增加氧气 $2 8 8 0 0 \mathrm { m g }$ ,是浙北地区常见绿化树种固碳量( $1 1 3 7 4 \mathrm { m g ~ C ~ m } ^ { - 2 } \mathrm { ~ d } ^ { - 1 } \mathrm { ~ , ~ }$ 的香樟产氧量（约$8 2 7 2 \mathrm { m g \ m } ^ { - 2 } \ \mathrm { d } ^ { - 1 }$ )的3.5倍[13],高于常见灌木绿化树种固碳量最高的种类,如马樱丹和假连翘等产氧量为7—$1 0 \mathrm { g } \mathrm { \ m } ^ { - 2 } \mathrm { \ d } ^ { - 1 [ 1 4 ] }$ ,也高于温带针叶林固碳较高的柳杉[15],固碳量为 $2 1 8 5 \mathrm { g ~ C ~ m } ^ { - 2 } \mathrm { ~ a } ^ { - 1 }$ ,折合产氧量为 $1 5 9 6 3 \mathrm { m g \ O } _ { 2 }$ （204号$\mathbf { m } ^ { - 2 } \mathbf { d } ^ { - 1 }$ 。以养殖区平均水深 $1 5 \mathrm { m }$ 计算,养殖海带可以使养殖海域溶氧增加 $1 . 9 \mathrm { m g / L }$ ,而夏季养殖海区溶氧通常因生物耗氧处于相对较低水平[16]。海带具有较高的碳含量,收获时(5—7月)海带的平均碳含量为 $3 3 . 1 \%$ ，以桑沟湾海带养殖产量8.45万t计算,可移除碳2.8万t,有研究表明寒带和温带原始林、未受干扰林和老熟林的碳固定速率平均为0.4t C $\mathrm { { h m } ^ { - 2 } \ \mathbf { a } ^ { - 1 } } \scriptscriptstyle { [ 1 7 ] }$ ,相当于7万 $\mathrm { { h m } } ^ { 2 }$ 森林一年的固碳量。
+
+# 3.3海带藻片对氮的吸收
+
+海带藻片在1h以内对无机氮有快速吸收过程。20 世纪80年代发现氮饥饿的大型海藻具有短期的快吸收现象,后来一些研究表明这一现象普遍存在于大型海藻中,是其对外界环境中营养盐变化的一种适应[18]。Pedersen 曾报道当将野外生长的石莼(Ulwa lactuca)置于室内高浓度 $\mathrm { N H } _ { 4 }$ -N 介质中后,开始 $1 5 \mathrm { m i n }$ 内对 $\mathrm { N H } _ { 4 }$ -N的吸收超过其对氮需求量的20 倍[19]。Chapman 的研究表明海带在冬季最高氮储量可高达 $1 5 0 \mu \mathrm { m o l / g }$ 鲜重，是环境中无机氮的28000 倍[20]。大型海藻的这一吸收特点可使其在营养丰富条件下积累充足的N库以备外界营养盐不足时补充生长的需要。许多研究表明,吸收速率随时间变化的原因可能是氮限制下细胞内的氮库较小[21],一开始的快吸收 $\mathrm { ^ { ' } _ { 1 0 - 6 0 \mathrm { m i n } } }$ )是用于充盈细胞内营养库的阶段,随后吸收率的下降至稳定阶段则可能是充盈的细胞内氮库的反馈抑制作用[19],接着是由介质营养盐浓度控制的吸收,随介质营养盐的消耗而迅速降低吸收率。本研究中海带在1h 内吸收速率很高,2h 出现短暂的负吸收现象,符合大型藻类营养盐吸收特点。不同部位对TIN的吸收不同,基部和中带部具有较高的无机氮吸收速率,这与海带的生长特点相适应，海带的分生组织位于叶片基部。
+
+在本实验条件下,海带片对 $\mathrm { N O } _ { 3 }$ -N 的吸收速率明显高于 $\mathrm { N H } _ { 4 }$ -N,这与 $\mathrm { X u }$ 等的研究结果一致[22],这是由大型藻类本身的特性决定的。海带的这种吸收特点非常适合在桑沟湾养殖,海带收获后 $\mathsf { N O } _ { 3 } – \mathsf { N }$ 的浓度会有
+
+明显的增加也是一个例证[23] ，
+
+海带也具有较高的氮含量，收获时(5—7月)海带的平均氮含量为 $1 . 8 2 \%$ ,以桑沟湾每年海带养殖产量8.45万t计算，每年可移除氮 $1 5 3 8 \mathrm { t }$ 。
+
+海带具有较快的生长速度、光合作用产氧/固碳能力、无机氮吸收能力,具有较高的生态功能,是潜力巨大的生物净化器。
+
+# 参考文献（References）：
+
+[1]NeoiA,suFE,ulihuefKope,higelM.oethetageead（Ulcu）ofiedsiotemariculture. Journal of Applied Phycology，2003，15(6）：543-553.  
+[2Tellg,osseue2003,226(1/4): 69-90.  
+[3]ChopinerJAeidGossSoeCpeaterteateultirocqacueiotaligtddiversification of fed aquaculture by extractive aquaculture.Reviews in Aquaculture，2O12,4(4)：209-220.  
+[4]AlexanderKA，PotsTP,FreemanS,IsraelD,JohansenJ，KletouD,MelandM,PecorinoD,ReboursC,ShortenM，AngelDL.TeimplicationsofaqacltureolcdglatiforhevelopetfteaedultitrocqacureiEuropuacur,416-23.  
+[5］毛玉泽，杨红生，王如才.大型藻类在综合海水养殖系统中的生物修复作用.中国水产科学，2005，12(2)：225-231.  
+[6]FangJG,ZngJ,Xi,HangDJ,iuStegratedmi-trocaqacuure（A）agoBa，ina.quaculureEitInteractions，2016,8：201-205.  
+[7］方建光，孙慧玲，匡世焕，孙耀，周诗赉，宋云利，崔毅，赵俊，杨琴芳,李锋，王兴章，汤庭耀.桑沟湾海带养殖容量的研究.海洋水产研究，1996，17(2)：7-17.  
+[8]Ning ZM,Liu SM,Zhang GL,Ning XY,LiRH,Jiang Z J. Fang JG, Zhang J. Impacts of an integrated multi-trophic aquaculture system onbenthic nutrient fluxes： a case study in Sanggou Bay， China.Aquaculture Envin teractions，2016，8：221-232.  
+[9]BacherC,GrantJ,HawisAJS，FangJG,ZhuMY，BesnadM.ModellngtheeffectoffodepletiononsallpgrowthinSngoBay（China）.Aquatic Living Resources，2003，16(1）：10-24  
+10]TalaFaleb）,82(1):39-54.  
+[11]ZhangJH,FangJG,WangW,Du MR,GaoY P,Zhang ML. Growth and loss of mariculture kelp Saccharina japonica in Sungo Bay,China.Journal of Applied Phycology，2012,24(5）:1209-1216.  
+[12］张华,李艳芳，唐诚，邹涛，于靖，郭凯.渤海底层低氧区的空间特征与形成机制.科学通报，2016,61(14)：1612-1620.  
+[13] 张娇，施拥军，朱月清，刘恩斌，李梦，周建平，李建国.浙北地区常见绿化树种光合固碳特征.生态学报，2013，33（6)：1740-1750.  
+[14] 林欣，林晨菲，刘素青，李林锋．18 种常见灌木绿化树种光合特性及固碳释氧能力分析.热带农业科学，2014，34（12）：30-34.  
+[15] MaguireDA，OsaaA,atitaJL.Priaryproductio，ielddcarbodymis/AdersonF,dEcosystesfthWorld.CoiferousForests. Amsterdam: Elsevier, 2005: 339-383.  
+[16]YngH,ZooYZgFowractesdotosyteticapaityofclrleefisshelfish farming area in Sanggou Bay，China. Journal of Applied Phycology，2005，17(3）：199-206.  
+[17]LuaertSeEDr,no,selD,BE，isaceJ.Olgrowforestsoiu,2008,455(7210) : 213-215.  
+[18] Rosenberg G, Probyn TA，Mann K H.Nutrientuptakeand growth kinetics inbrown seaweeds：response tocontinuousandsingleadditionsofammonium.Journal of Experimental Marine Biology and Ecology，1984，80(2）：125-146.  
+[19] PedersenMF.ransientammomuptakeinthmacroalga Ultuca（Chlorohta）：natureegulatio，andteonsequencesforhoicefmeasuring technique. Journal of Phycology，1994,30(6）：980-986.  
+[20] ChapanAOiJalowthimarilgcuiselatiositolctsaleMarine Biology，1977，40(3）：197-205.Naldi M，WhelerPA.ChangesinnitrogenpolsinUlafenestrata（chlorophta）ndGracilariapacfica（rodopyta）uderitratendammonium enrichment.Journal of Phycology，1999,35(1）：70-77.  
+[22]XuD,GoZQ,ZngXW,QiZH,MengCX,ZuangZM,YeN.Evauatioof hepotentiaroleftheacroalgaLaminariajapocforalleviating coastal eutrophication.Bioresource Technology，2011，102(21）：9912-9918.  
+[23]LiRH,LiuZgZJgJGdeoftsoaedieaedroceoBay，China.Aquaculture Environment Interactions,2016,8：285-309.

@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "理想天平与现实阶梯：心理学视角下的社会分层与公平研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/47660f2f815740d9a9e4a67a8bdb8b7f81168565be278ca593f600caf53373ae.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "郭永玉1\\*\\* 杨沈龙1\\*\\* 胡小勇²",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1华中师范大学心理学院青少年网络心理与行为教育部重点实验室武汉430079  \n2西南大学心理学部重庆400715",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要社会公平是人类永恒的追求，也是贯穿于当代中国社会治理的核心价值理念。然而当前社会存在严重的阶层差异与阶层固化现象，已在很大程度上制约了社会公平的实现。对此，社会阶层心理学从社会客观现实、民众主观感受和心理干预策略几个方面出发，围绕着社会分层阻碍社会公平的心理机制、不同阶层感知社会分层与公平的心理特点以及如何增强阶层流动进而更好地促进社会公平这几个核心问题展开了研究。未来心理学视角下的社会分层与社会公平研究应更加完善本土化的理论，运用多样化的研究方法，并且进一步推进研究成果的应用，为社会治理实践服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词社会分层，社会公平，社会阶层心理学，阶层固化 DOI 10.16418/j.issn.1000-3045.2017.02.002 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\*资助项目：国家社会科学基金重点项目（13AZD087）  \n\\*\\*共同第一作者  \n预出版日期：2016年11月21日",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "社会公平是人类永恒的追求[1]，也是贯穿于当代中国社会治理的核心价值理念[2]。从学术视角来看，社会公平是一个非常复杂的价值尺度，涉及权利的平等、分配的合理、机会的均等、司法的公允等多方面内容[34]。它的核心内涵是强调在社会过程中“标准同一性”[5]。当然普通民众心目中对社会公平的定位往往表现在一些更具象的层面，而学者们则普遍认为这些主观上的公平观念同样不容忽视[7]。例如人们常常用天平来表征公平[8]，尽管这也许并不能很契合地反映公平的定义，但它却真实体现了民众对公平的构想。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "然而与此呈水平状的“理想天平”形成鲜明对比的，则是现实中普遍存在的垂直的“阶梯关系”，即人和人之间是有等级之别的。社会科学习惯使用社会阶层（socialclass）来描述这种差别。总体来说，社会阶层是指在社会等级结构中处于不同地位的群体，这些群体之间不仅有客观的社会资源的差异，而且存在着主观上感知到的自身社会地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "位的差异[9]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当然，尽管不同社会阶层之间存在着主客观多方面的差异，但这一现象本身并不一定就意味着不公平，因为绝对平等是不存在的，绝对平均主义也不是一个理想的社会[1]。那么应如何衡量一个体系中的社会分层是否公平？根据目前较为统一的学术观点，除了要看高低阶层的分化是否过于严重，更重要的一个方面是看不同阶层之间是否有畅通的流动机制[1,12]。然而聚焦中国当前社会，这方面的数据不容乐观。尽管“寒门出贵子”和“富不过三代”的案例不少，但总体来说，个体取得的成就与其家庭背景有很大的相关性，低阶层出身的人在学业成就[13]、就业起点[14]、成功机会[15]和职业表现[1]等方面都明显不如高阶层出身者，而这些阶层差异也就直接造成了我国当前严重阶层固化的局面。因此可以说，尽管社会分层本身并不等于不公，但从现实社会状况来看，当前我国如要推进和实现社会公平，就不能不考虑社会分层在其中的作用。这一点在国内学界已经达成了多学科的一致共识[17-19]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在此问题中，心理学又能有怎样独特的贡献呢？与社会学、管理学、教育学等学科相比，心理学更偏重于精细、基础的实证研究，更鲜明地将研究对象定位于具体的个体或群体，通过对其内在心理规律的探讨，进而对整个系统中的社会阶层与社会公平状况作出揭示；并且能够从改变人心理与行为的角度出发，探索相关的应对策略。那么心理学视角下的社会阶层与社会公平研究涉及哪些问题，又有怎样的研究建树？在下面的部分我们将逐一展开介绍。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1客观现实：社会分层阻碍社会公平的心理机制",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关于社会分层对社会公平的影响，以往的政治学和社会学研究更多关注制度层面的机制[20-22]。但除此之外，不同阶层群体自身的因素是否也会起作用？对此，关注高低阶层心理与行为差异的社会阶层心理学（socialclasspsychology）作出了重要的补充解释。从心理学的视角来看，之所以高低阶层间存在着难以跨越的鸿沟，其中一个很重要的原因恰恰是分层本身一一正是高低阶层本身具有的多方面因素的差异，导致了低阶层难以向上流动[23]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 结构因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结构因素关注的是高低阶层者在所拥有的社会资源和可接触到的社会物质条件方面的差异。很多学者认为这些差异是低阶层者无法向高阶层流动进而造成社会不平等的一大原因[24]。虽然严格来说，结构因素不属于心理层面的内容，但它对低阶层者的影响也会通过作用于低阶层者的心理来实现。例如，与高阶层相比，低阶层的收入较低，居住条件较差，生活环境充满了更多不确定性，这使得低阶层者缺乏安全感，有更高的被剥夺感，这些都不利于低阶层者取得成功[23]。特别值得强调的是，长久以来教育一直被认为是打破阶层固化的有效手段，但是低阶层者所享有的教育条件通常无法与高阶层相比：低阶层父母受教育程度较低，无法很好地帮助子女；另外，他们从事较低地位的职业，收入也较少，不但难以让子女参加补习或请家教，而且其子女就读学校的办学水平一般较低，师资力量较差[25]。这些社会结构条件很大程度上制约了低阶层儿童的心理发展和学业成就。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2个体因素",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "除了环境的不利，低阶层个体特征（如特质、能力等）也是不利于低阶层向上流动的重要因素。社会阶层心理学最主要的贡献就是揭示了阶层属性给高低阶层者分别打下的不同的心理烙印，即高低阶层者在心理和行为特征上具有很显著的差异，而这些差异也在一定程度上会加剧阶层之间的固化和不平等[26]。例如，高阶层的个体通常具有较高的自我调节能力、自我效能感和阅读能力，而低阶层个体通常缺乏这些能力。许多研究者认为，低阶层学生就是因为缺乏这些能力，所以学业成就较差[27-29]。另外还有研究关注低阶层者在控制感[30]、控制策略[31]和成就归因[32]等方面与高阶层的差异，这些心理基础都与学业、事业的成功有着密切的关系，而研究恰恰表明低阶层在上述素质上均不及高阶层。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3 文化因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结构因素和个体因素分别从客观和主观条件人手分析了低阶层不利于取得成功的心理机制。但最近的理论和实证研究表明，这两方面还都并非最关键的因素，真正更为重要的是所谓文化因素的作用[33]。文化因素既不单纯属于客观结构因素，也不单单是主观个体因素，而是在人与环境交互作用下形成的，为一个阶层内部所共享的一种具有泛化意义的文化心理，如自我、规则、价值观念和习惯系统等[34]。例如在美国社会中，展现自我的独特性是一种为主流价值观所高度认同的美德——这恰恰是高阶层者的优势，而在低阶层者的文化价值观念中，他们更强调人与人之间的和谐互助，更少地强调自我独特性。又因为高阶层在社会中掌握更多的权力与资源，所以他们会更加标榜自己信奉的文化价值观；而低阶层则很难在这种文化冲突中处于优势，也很难融入高阶层的文化体系中[35]。因此研究者认为，结构因素和个体因素虽然都很重要，但高低阶层在文化上的差异才是最重要的制约低阶层向上流动的关键[33]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4代际传递因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上述种种因素都是低阶层者在向上流动中处于被动的原因，但更严重的是，这些因素不仅仅是只影响某一代的低阶层者，而是会一代一代地在低阶层群体中传递。正是这种代际传递将阶层分化变成了阶层固化，使得不平等得到了发展和延续[3。仍以社会阶层心理学高度强调的文化因素为例，这种高低阶层文化上的差异虽然不一定会被人清晰地意识到，但它却会以一种潜移默化的方式深刻地影响人的一生[23]。可以设想有两个孩子，一个出生于低阶层家庭，父母都是体力劳动者，也未接受过高等教育；而另一个孩子的父母都有高学历、丰厚的收人和令人尊敬的职业。两个孩子一出生就面临着不同的家庭教养环境，高阶层家庭因为弥漫着崇尚自由、个性与创新的文化价值，他们会鼓励孩子独立地探索世界、展现自我；而低阶层家庭受限于资源，感受着来自于经济和环境的压力，他们必须减少生活中的不确定性，强调与周围和谐相处，因此他们会严格地约束孩子，限制孩子自由地发展，而强调孩子在同伴交往中要更多考虑他人的感受[37-39]。当两个孩子进入学校，高阶层孩子勇于表现自己，独立而创新，往往更多得到老师的关注与赏识；而低阶层孩子内向拘谨，难以与老师的期待同步，更易被老师有意无意地忽视或反感[40]。在与老师互动方面，高阶层家长有更多的共同语言和更一致的教育理念，能够很好地配合老师；而低阶层家长即使也重视子女教育，但总感到自己没有足够的知识水平，很容易认为老师即是权威，只要一切都让老师负责即可。这种文化观念加深了家长与老师之间的隔阂，也使低阶层孩子的学业成就受到进一步的消极影响[41]。当结束学业开始找工作之时，高阶层家庭出身的年轻人已经拥有了良好的受教育水平，善于表达、个性突出、充满创意；而低阶层的年轻人，即使我们认为他拥有很多不错的素质，也更多在于善于合作、严谨认真、遵守规则等方面，但基于不同的素质，前者则更可能会继续父辈的白领体面工作，而后者多半会继承父辈体力工人的职业[42]。由此，高低阶层的文化差异在代际之间得以传递。在这些案例中可以明显看到，阶层的固化绝不仅仅是社会制度问题，文化心理在其中也起到了很重要的作用[36]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 主观体验：不同阶层感知社会分层与公平的心理特点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "上文揭示了当前现实中的社会分层导致社会不公平的心理机制。那么对于这些客观存在的社会分层与社会公平问题，民众有怎样的主观感受？高低阶层在这些感受上又有怎样的差异？对于这些问题的探讨将有助于我们更好地把握不同阶层的社会心态，为制定相应的治理思路打下良好基础。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1高低阶层感知社会分层的差异",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为什么有的人处于社会上层有的人处于下层？这种阶层分化的成因是什么？民众对于这一问题可能会给出很多答案，但是这些答案总的来说可以被归为两类。一类是个人自身因素（内因），比如高阶层者勤劳而低阶层者懒惰，高阶层者能力强而低阶层者能力差等；还有一类是社会系统因素（外因），比如高阶层者有关系门路、高低阶层机会不平等、体制存在弊端等[43]。很多研究数据一致表明，高阶层者更倾向于从内因的角度来理解阶层分化，而低阶层者更多是从外因角度来看这一问题[44]。也就是说，高阶层者多认为低阶层者之所以处于社会底层是因为他们自身能力本来就差；而低阶层者却认为高阶层者之所以处于社会上层并非源于他们的能力与努力，而是基于某种外部因素，如关系、门路、体制漏洞。这一结果充分体现了当前社会不同阶层彼此之间的偏见与歧视。除了对阶层分化的前因存在着不同的理解，高低阶层对未来阶层流动的判断也不同。有研究让民众判断在未来一段时期内低阶层有多大的机会能够向上流动，结果发现低阶层者对于这一问题的预期明显地比高阶层者悲观[45]。可见低阶层者不仅对于现有的阶层分化不满，也更加对于未来的低阶层向上流动不抱有信心。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2高低阶层者感知社会公平的差异",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "高低阶层者解释社会分层的差异会直接关系到他们对于社会公平的感知。大量研究表明，与高阶层者相比，低阶层者更加感到社会不公平[4]。而且国内的研究还进一步表明，对于社会分层的归因是高低阶层者感知社会公平存在差异的心理机制[47]。也就是说，低阶层者之所以不公平感更高，很大程度上就是出于他们更多地从外部归因的角度来理解阶层分化。这再次体现了阶层分化问题对于社会公平的影响，这种影响不仅是客观存在的，在民众主观心态中也是如此，只有当他们感到阶层分化是基于某种正当性的，他们才会认为社会是公平的。另外还有研究表明，高阶层更倾向于认为社会本就应该是不平等的，有些群体就应该一直处于上层而有些群体一直处于下层也是理所当然；低阶层者则更倾向于反对这种看法，他们更强烈地呼呼社会平等，认为人与人不应该有等级与地位之别[48]。通过这一研究结果，我们可以更明显地看出高低阶层者在理解社会公平上的深度隔阂。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3高低阶层者对于公平的敏感程度差异 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "低阶层者不仅更多感到社会不公，而且即使是遭遇了同样的不公，他们也会比高阶层者更为敏感。也就是说，低阶层者对于公平的敏感性和依赖性要比高阶层者更高，可是在现实社会中他们恰恰更难以得到公平[49]。根据社会阶层心理学的理论观点，高阶层者因为掌控的资源更为丰富，所以他们在追求自身目标的过程中，心理上相对来说并不大依赖环境的支持，因而对于客观情境要素（如是否公平）也相对不很敏感；但是低阶层自身资源有限，在目标行动中就特别依赖于环境的助力，长此以往使得他们对环境要素是否符合自己的预期变得非常敏感，而公平是环境中一种重要的支持力量，因而低阶层者对于公平的敏感和依赖程度也就较高阶层更高[50.51]。很多研究都支持了这一观点，比如低阶层更容易将模棱两可的事件解释为不公平事件[52]，真正遭遇不公平时也比高阶层表现出更低的容忍程度，甚至在生理指标上（脉搏、呼吸、皮电、肌电等）表现得也更为强烈[49]。由此我们不难想象低阶层者在现实生活中所面临的社会和心理困境。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 干预策略",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据前文所述，客观上社会分层已经严重阻碍了社会公平，而主观上社会下层群体也对于此现状有更多的不满，对公平有更迫切的期待。那么从心理学的视角出发，应该如何改变当下的困境，这是我们不得不探讨的问题。近年来，社会阶层心理学已经开始从单纯关注阶层差异的基础研究，扩展到关注阶层流动的应用研究[2，并且作出了很多有益的探索。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1国家层面：减少社会限制，增强公平感受",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "我们并不主张消除阶层和绝对平均，但是在一个分层的社会中，公平仍是为全社会所共同看重的核心价值。因此应该把更好地实现社会公平，作为本文所述及一系列问题的一个宏观落脚点，把如何提升民众特别是低阶层者的公平感受作为研究工作的一大目标。当然有必要强调的是，这里所讲的公平感提升不能以愚民作为目的和手段，例如单纯强调弱势群体在遭受不公时采取自我调节的策略，或寄希望于未来的公正，或为眼下的遭遇找到一种能让自己更易接受的合理化的解释。这些方法虽然能暂时平复受害者的情绪，但从长远来说，这种逆来顺受的思维非常不利于社会健康发展[53]。因此若要真正地促进公平正义，还是要从社会系统本身的弊端出发，采取相应的治理思路，从根本上提升民众的公平感。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对此，现有的社会阶层心理学研究可以带给我们一些宏观的启示。研究表明，低阶层在社会中有更强烈的限制感，过多的社会限制使得他们习惯性地感到自己的命运更多是由别人决定的，而不是由自己掌控的。也正是这一点，使得他们更多从外部归因的角度来理解社会分层，并导致了他们更多地将不公平归咎于社会体制[32.47]。那么如果减少相关的社会限制，增强弱势群体的自我掌控感，是否就可以改变上述心理过程呢？已经有明确研究支持了这一思路，表明限制感的减少能够明显改变低阶层者对社会分层和社会公平的态度，提升其公平感[47,54]。这一结果告诉我们：在宏观治理思路上，减少对于低阶层者的限制是化解其社会不满的有效途径。近年来，是“限制”还是“解除限制”，这一话题频现于政界和学界，在购房、交通、户籍等诸多方面争论颇多。以交通方面为例，不论是限制电动车，还是限制打车软件，政府出台相应策略尽管确有其良苦用心，但每一次都引发了民众广泛的不满情绪甚至反弹行为。当然，心理学的研究还没有能力为此类社会矛盾开具一整套完善的药方，但却可以从一个侧面为相应治理政策的出台提供一定的参考：社会生活中完全没有限制是不可能的，但不到万不得已时，对于底层民众的限制措施还是应尽量谨慎施行，而“一刀切”式的限制手段更要避免，正所谓“堵不如疏”，因地制宜、因人制宜的疏导策略才是更根本",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "的解决办法。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2社会层面：创设公平情境，促进目标追求",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "除了在宏观上构建提升民众公平感的社会基础之外，在实际治理工作中，一个个具体公平情境的创设也是非常有必要的。已有研究发现，低阶层者尽管对社会抱有更多负面情绪，尽管他们自身也存在一些不利于向上流动的条件，但是当环境相对公平的时候，这些情况都会有所缓解。例如，前面提到低阶层者比高阶层对于不公平对待有着更为强烈和敏感的反应，但是如果在实验前让低阶层感受到公平的环境条件，这一反应就会减弱[49]。而基于调查法的研究数据也表明，如果一个低阶层者在其成长过程中并未遭受较多不公平对待，则他对于不公平的这种敏感反应也不会过于强烈[49]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "公平环境对低阶层者的作用还不止于此。我们知道低阶层的向上流动有赖于他们对于学业、职业等人生重要目标付出长久的努力与坚持。但有研究表明，低阶层能否长期专注于其重要目标，会受到环境公平的显著影响：环境公平时他们会表现出很好的目标承诺与目标达成水平，但环境不公时他们常常会放弃努力[5]。这一结果很容易令我们联想到现实社会中一系列的公平问题。以就业公平为例，近年来一些企事业单位“萝卜招聘”“暗箱操作”等招聘乱象屡屡见诸报端，曾经的“学好数理化走遍天下都不怕”变成了“学好数理化不如有个好爸爸”[56]。从心理学的视角来看，这种就业不公的状况会很大程度上削弱那些出身于低阶层、无门无路年轻人的努力动机，让他们在本就不利的社会竞争环境中，进一步减弱自己追求目标的动力，从而大大降低了其向上流动的可能性。可见社会治理工作必须从立法、执法、监管等不同层面入手促进起点公平、过程公平与结果公平，出台具体的保障公平环境的法规，建立健全对于遭受不公平待遇者的司法保护机制，并且在明确认定标准的基础上规定责任方应承担的法律后果，以此综合治理思路来构建公平，使低阶层者能够更安心地坚持努力、达成目标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3个人层面：强化心理干预，塑造健全自我 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "上述策略均从社会治埋者的角度出发，但是从低阶层个体自身着眼，运用微观层面的心理技术，来帮助其克服不利因素，也许更具可操作性。因此这一方面的研究也是非常有价值的。例如，研究表明低阶层学生总体来说在学业表现上不如高阶层学生，但是当运用了自我肯定（self-affirmation）这一心理干预策略之后，低阶层的考试成绩可以有明显提高[57]。自我肯定的技术也很简单，其核心思想就是让个体强调、确认和肯定自己最看重的价值观。这一方法背后的逻辑，是这种对自我所珍视的价值的强调能够在一定程度上克服来自于社会的歧视与威胁，重构整合的自我意识，使自我系统恢复平衡。在一项长达两年的追踪研究中，自我肯定干预对于低阶层学生的积极效应得到了很好的支持，结果显示其干预效应不仅明显，而且可以维持较长时间。这一系列研究成果均发表在Science杂志上，显示了自我肯定技术的强大作用[57-59]。另一个很好的例子是执行意向（imple-mentation intention）的干预，它是指个体在执行自己很看重但又比较难以坚持的目标之前，对自己进行一种心理提醒（例如，当我一会儿坐到写字台前，我不要拿起手机，而要拿出计划本马上开始工作）。研究证明这一干预能够使个体坚持于自己设定的目标，最终实现原计划[60]。而且还有研究专注于低阶层者，发现当他们追求重要的事业和学业目标时，执行意向的积极作用同样显著[51]。总之，此类心理干预技术，简单易行，效应显著,可以非常灵活地从小范围试点扩展到大范围推广，体现社会治理精细化的本质要求。除此之外，在具体的工作中也可以贯彻落实社会治理所倡导的协同创新的思路[61]，建立起多主体协同的网络结构。例如对于低阶层家庭的儿童青少年，其所在学校可以通过心理课的形式开展干预；而对于成年人中的弱势群体，则可以通过各种自发或官方主导的社会组织来加以开展，通过选拔和培养一批配备专业化、技术规程标准化的心理干预队伍，帮助低阶层者克服生活上、心理上的一些不利因素，更",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "好地促进其自我整合与发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 小结与展望",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "至此，文章围绕着社会分层与社会公平问题，从社会客观现实、民众主观感受以及如何进行干预三个大方面，介绍了心理学在相关领域的研究进展。可以看出，心理学为这些问题打开了新的研究视角，能够使学界在关注上述问题时，更明显地感受人心与人性在其中的重要基础作用，感受民众的真实心态，体会民众的切实需求，从而更全面地理解这些重要的社会治理问题。当然，若要更好地推进“心”视角下的社会分层与社会公平研究，还需要研究者在以下几个方面实现更多的突破与创新。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（1）理论的本土化。社会阶层心理学之所以能在短短几年之内发展成为国际心理学界的一个前沿热点领域，很重要的一点是由于其具有一整套相对完善的理论体系[26]。由此可见中国心理学界对于社会阶层的探究也需要有扎实而系统的理论基础。当前国内心理学界在研究相关问题时，主要是借鉴国外已经相对成熟的理论框架，来考察中国的社会心理问题。尽管中国的社会分层和西方有很多的共同点，但毕竟文化的差异、社会制度的不同还是决定了中国的社会分层和社会公平问题具有其不同于西方社会的独特性[2]。因此，如何能够吸取国外理论的共性，发现中国社会的特殊性，进而构建起更适用于我国国情和民众的本土化理论，这是中国学者在未来的研究中需要深入思考和实践的。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "（2）方法的多样化。现有的心理学研究更多的是关注变量之间的关系，通过精密的研究设计、严谨的变量控制和信效度良好的心理测量来考察相对细致、微观的心理与行为规律。这对于科学研究来说是非常必要且有效的。然而若要将研究的问题扩展到更大的现实社会，将关注的心理规律放大为更复杂的社会心态和社会行为，则有必要考虑到更多系统性、整体性的作用因素，引入更多有针对性的研究方法。在这方面近些年其他领域的心理学研究者已经作出了很多有益的尝试。例如借助大数据的方法，研究者可以看到全国范围内民众幸福感的分布特征[63]；借助叙事的研究方法，通过让被试讲述的方式，可以系统化地揭示更完整的心理社会过程[64]；借助文本语义分析方法，可以准确地监测舆情，了解重大社会事件背景下的民意特征[65]，等等。诸如此类的新方法显然也可以更多地运用到我们所关注的社会分层与社会公平问题上，借助方法创新来揭示更多有价值的结论。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）结论的应用化。心理学关注社会分层与社会公平问题，尽管也有很强的理论价值，但更重要的还是要为社会治理的实践服务。客观来讲，在应用化的层面上，心理学一度是相对比较欠缺的，这与心理学在其学科发展道路上过于强调自然科学属性、忽视人文学科性质有关[。但近年来，无论是国际还是国内心理学界，关注应用取向、面向现实问题的趋势越来越明显，这方面的成功实践也越来越多，在社区工作、组织管理、学生教育、危机应对、人事选拔、犯罪矫治等很多领域，心理学已经发挥了非常重要的作用。我们也有理由相信，随着研究的深入，心理学能够在促进低阶层向上流动、改变高低阶层群体关系、增强民众公平感等更大的领域，凸显其独特的价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1Chomsky N,Foucault M.Human Nature:Justice versus Power:The Chomsky-Foucault Debate.London: Souvenir Press,2011.  \n2 高健，秦龙.社会公平：中国特色社会治理的核心诉求.理论与改革,2014,(1):68-71.  \n3俞可平.社会公平和善治是建设和谐社会的两块基石.中国特色社会主义研究,2005,(1):10-15.  \n4史耀疆,崔瑜.公民公平观及其对社会公平评价和生活满意度影响分析.管理世界,2006,(10):39-49.  \n5吴忠民.关于公正、公平、平等的差异之辨析.中共中央党校学报,2003,(4):15-20.  \n6 滕国鹏,金盛华,韩春伟,等.民众社会公平期望的结构及其预测机制.公共管理学报,2011,8(3):80-90.  \n7Jost JT, Kay A C.Social justice: History,theory,and research.In: Fiske S,Gilbert D,Eds.Handbook of Social Psychology.New York: McGraw-Hill,2010.1122-1165.  \n8 吴忠民.社会公正六题——防止中国社会天平的倾斜.东岳论丛,2004, (2):72-79.  \n9 Kraus MW,Piff PK, Mendoza R,et al. Social classsolipsism,and contextualism: How the rich are diferent from the poor.Psychological Review,2012,119(3):546-572.  \n10 陈新夏.人的发展视域中的社会公平．北京师范大学学报：社会科学版,2013,(2): 79-85.  \n11 李强.社会分层与社会空间领域的公平、公正.中国人民大学学报,2012, (1): 1-9.  \n12 高耀,刘志民.机会扩展、社会分层与高等教育公平——基于高校学生调查数据的实证研究.教育科学,2015,31(1):44-54.  \n13 刘志民,高耀.家庭资本,社会分层与高等教育获得.高等教育研究,2011, (12): 18-27.  \n14 岳昌君，张恺．高校毕业生求职结果及起薪的影响因素研究——基于2013年全国高校抽样调查数据的实证分析.教育研究,2014,35(11): 72-83.  \n15 李春玲．“80后”的教育经历与机会不平等——兼评《无声的革命》.中国社会科学,2014,(4):66-77.  \n16 李培林，朱迪.努力形成橄榄型分配格局——基于2006—2013年中国社会状况调查数据的分析.中国社会科学,2015,(1):45-65.  \n17 杨东平,王帅.从网点下伸、多种形式办学到撤点并校——徘徊于公平与效率之间的农村义务教育政策.清华大学教育研究,2013,34(5): 25-34.  \n18 郑功成.中国社会公平状况分析——价值判断、权益失衡与制度保障.中国人民大学学报,2009,23(2):1-11.  \n19 马宁,姜景,黄远.社会治理与社会活化能研究.中国科学院院刊,2015,(1): 82-89.  \n20 康晓强，陈小强，李海荣.冲破阶层固化和利益固化的藩篱",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为全面深化改革扫清障碍—“中国社会发展问题高端论坛·2014”综述.科学社会主义，2014,(4):28-32.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "21 张乐,张翼.精英阶层再生产与阶层固化程度—以青年的职业地位获得为例.青年研究,2012,(1):1-12",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "22 周长城,张敏敏.论阶层固化的成因与危害.人民论坛,2014,(11): 24-26.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23 Kraus M W, Stephens N M.A road map for an emerging psychology of social class. Social and Personality Psychology Compass,2012,6(9): 642-656. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24Wilson W J.More than Just Race:Being Black and Poor in the Inner City.New York:Norton,2009. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25HochschildJL.Social class in public schools.Journal of Social Issues,2003,59(4): 821-840. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26 郭永玉，杨沈龙，李静,等.社会阶层心理学视角下的公平研究.心理科学进展,2015,23(8):1299-1311.",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27Bradley R H,Corwyn R F.Socioeconomic status and child development. Annual Review of Psychology, 2013,53(1): 211- 224. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28HartSA,Petrill SA,DeckardKD,etal.SESand CHAOS as environmental mediators of cognitive ability:Alongitudinal genetic analysis.Intelligence,2007,35(3): 233-242. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29 Eisenberg N,Gershoff E T,Fabes R A,et al.Mothers' emotional expressivity and children’s behavior problems and social competence:Mediation through children’s regulation. Developmental Psychology,2001,37(4): 475-490. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30Lachman ME,Weaver SL.The sense of controlasa moderator of social class differences in health and well-being.Journal of Personality and Social Psychology,1998,74(3):763-773. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31 Chen E,Miller G E.“Shift-and-Persist” strategies:Why low socioeconomic status isn’talways bad for health.Perspectives on Psychological Science,2012,7(2):135-158. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32Kraus MW,PiffPK,DacherK.Social class,sense of control, and social explanation.Journal of Personality and Social Psychology,2009,97(97): 992-1004. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "33StephensNM,MarkusHR,FrybergSA.Social classdisparities in health and education: Reducing inequality by applying a sociocultural self model of behavior. Psychological Review, 2012, 119(4): 723-744.   \n34 Stephens N M, Townsend S S M. Rank is not enough: Why we need a sociocultural perspective to understand social class. Psychological Inquiry,2013,24(2): 126-130.   \n35 Stephens N M,Fryberg S A,Markus H R,et al. Unseen disadvantage: How American universities’ focus on independence undermines the academic performance of firstgeneration college students. Journal of Personality and Social Psychology,2012,102(6): 1178-1197.   \n36 Stephens N M, Markus HR,Phillips L T. Social class culture cycles: How three gateway contexts shape selves and fuel inequality. Annual Review of Psychology,2014,65: 611-634.   \n37 Bernstein B. Class, Codes and Control. Volume 3: Towards a Theory of Educational Transmissions. New York: Routledge, 1974.   \n38 Lareau A, Conley D. Social Class: How Does It Work? New York: Sage Found, 2008.   \n39 Lareau A.Social class differences infamily-school relationships: The importance of cultural capital. Sociology of Education, 1987, 60: 73-85.   \n40 Fryberg S A,Markus HR.Cultural models of education in American Indian,Asian American and European American contexts.Social Psychology of Education,2007,10(2): 213-246.   \n41 Reay D. Class Work: Mothers’ Involvement in Their Children's Primary Schooling. London: UCL Press,1998.   \n42 Rivera L A. Hiring as cultural matching the case of elite professional service firms.American Sociological Review,2012 77(6): 999-1022.   \n43 Ng S H, Allen M W. Perception of economic distributive justice: Exploring leading theories. Social Behavior and Personality: An International Jourmal,2005,33(5): 45-454. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "44Whyte MK,Han C.Popular attitudestowarddistributive injustice:Beijing and Warsaw compared.Journal of Chinese Political Science,2008,13(1): 29-51. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "45Kraus MW,TanJJX.Americans overestimate social class mobility. Journal of Experimental Social Psychology,2015,19: 101-111. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "46 Brandt MJ.Do the disadvantaged legitimize the social system? A large-scale test of the status-legitimacy hypothesis. Journal of Personality and Social Psychology,2013,104(5):765-785. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "47李静.不同社会阶层对贫富差距的心理归因研究.广州：世界图书出版公司，2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "48 Lee I C,Pratto F,Johnson B T.Intergroup consensus/ disagreement in support of group based hierarchy:An examination of socio-structural and psycho-cultural Factors. Psychological Bulletin,2011,137(6):1029-1064. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "49李小新.不同社会阶层对受不公平对待的威胁敏感性差异研究.博士学位论文.武汉：华中师范大学,2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "50 陈继文，郭永玉，胡小勇.教师自主支持与初中生的学习投入：家庭社会阶层与学生自主动机的影响.心理发展与教育，2015,31(2): 180-187.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "51胡小勇.低阶层者的目标追求：社会公平与自我调节的影响！博士学位论文.武汉：华中师范大学,2014.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "52KrausMW,Horberg EJ,Goetz JL,et al.Social class rank, threat vigilance,and hostile reactivity.Personality Social Psychology Bulletin,2011,37(10):1376-1388. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "53 周春燕，郭永玉.公正世界信念——重建公正的双刃剑.心理科学进展,2013,21(1):144-154.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "54赵志裕，区颖敏，陈静.如何研究社会、文化和思想行为间的关系？—共享内隐论在理论和研究方法上的贡献．中国社会心理学评论，2008,(4):147-170.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "55胡小勇，郭永玉，李静,等.社会公平感对不同阶层目标达成的影响及其过程.心理学报,2016,48(3):271-289.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "56余秀兰.教育还能促进底层的升迁性社会流动吗.高等教育研究,2014,35(7):9-15.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "57Walton G M, Cohen G L.A brief social-belonging intervention improves academic and health outcomes of minority students. Science,2011,331(6023): 1447-1451. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "58 Cohen GL,Julio G,Nancy A,et al.Reducing the racial achievement gap:A social-psychological intervention.Science, 2006,313(5791):1307-1310. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "59 Cohen GL,Julio G,Valerie PV,et al.Recursive processes in self-affirmation: Intervening to close the minority achievement gap. Science,2009,324(5925):400-403. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "60 Gollwitzer P M, Sheeran P.Implementation intentions and goal achievement:A meta-analysis of effects and processes.Advances in Experimental Social Psychology,2006,38: 69-119. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "61 范如国.复杂网络结构范型下的社会治理协同创新.中国社会科学,2014,(4):98-120.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "62 李强.改革开放30年来中国社会分层结构的变迁.北京社会科学,2008,(5): 47-60.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "63 Schwartz HA,Eichstaedt JC,Kern ML,et al. Characterizing geographic variation in well-being using Tweets.In: Proceedings of 7th International AAAI Conference on Weblogs and Social Media(ICWSM),Boston,2013. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "64 陈祥美.回返记忆中的母校与生命认同—一群上海圣约翰校友的叙说.心理科学，,2014,37(4):790-796.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "65Cohn MA,Mehl MR,PennebakerJW.Linguistic markers of psychological change surrounding September 11,2001. Psychological Science,2004,15(10):687-693. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "66 郭永玉，胡小勇.个人幸福·社会公平·世界和平—心理学家的人文情怀.华东师范大学学报：教育科学版,2015,(2):55-64.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ideal Balance versus Realistic Ladder: Social Stratification and Fairness Researches Based on Psychological Perspectives ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Guo Yongyu’Yang Shenlong' Hu Xiaoyong² ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(1SchoolofPsychology,Central China Normal University,KeyLaboratoryofAdolescentCyberpsychologyandBehavior ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ministry ofEducation,Wuhan 430079,China; ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2Faculty ofPsychology, Southwest University, Chongqing 40o715,China) ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "AbstractSocialfiessisoneofhuman'slongpursuit,aswellascorevaluesofsocial goveranceincontemporaryChinaevereclas differentiatioassaioietyoeveosatalssoreocl objectiveatuslesbeigdteeialaisalsspplosos mentalmchasmoichocialstratifonderscialissdertocialasss’psyhologicalaracteristfi ofocialstratifatiodsoalssdtopromoteocialobiltdocialf.Thfutureialtraificatiodal faiesesesgicalspeisouldvotedtetialatiotdoicalsityd of scientific achievement. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Keywords social stratification, social fairness,social class psychology,class solidification郭永玉华中师范大学心理学院教授、博士生导师、国家级心理学实验教学示范中心主任、人格与社会心理研究所所长。兼任教育部高校心理学教学指导委员会委员，中国心理学会理事，中国心理学会理论心理学与心理学史专业委员会副主任，中国心理学会人格心理学专业委员会副主任，湖北省心理学会常务理事，《心理科学》《心理学探新》《心理研究》《社区心理学研究》以及Journalof Transpersonal Research（Spain）等期刊编委。先后在中英文期刊上发表论文160余篇，出版专著、译著及主编或参编学术著作或教材10余部；主持国家自然科学基金项目（2011）、国家社会科学基金重点项目（2013）、教育部人文社会科学基金项目（2007）、全国教育科学“十五”规划项目（2003）、中国博士后科学基金项目（2001）等；获得教育部高等学校科学研究优秀成果奖（人文社会科学）、全国教育科学研究优秀成果奖、全国教育图书奖、湖北省社会科学优秀成果奖、湖北省优秀教师、湖北省教学成果奖等多项奖励。研究贡献包括：人本心理学及其当代发展的理论诠释，人格理论和实证研究知识体系的整合性建构，中国社会历史文化及其现代化背景下的人格与价值观问题，特别是社会阶层视角下的公平研究以及危机管理中的心理社会支持研究等与社会治理相关的现实问题研究受到学界关注。E-mail:yyguo@mail.cnu.edu.cn",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "GuoYongyundprofoirectorofsituteoersoalitydocialsyholgoolfsyhogentrall University.Healsosrvesasamemberofcouncil,ChinesePsychologicalSociety(PS);ViceChair,DivisionofPychologicaleory andHistory,CS;Viceairivisioofersoalityychology.Hsaiesearhfeldsfocusoumanisticyholodits contemporaryteticaleplaatioegatiofsoalithsdmpcaleacssoalitydessede socialistoagdialllalide researches in perspectives ofsocial classand psychosocial support incrisis management.E-mail: yguo@mail.cnu.edu.cn ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "杨沈龙男，华中师范大学心理学院博士生。主要研究方向为社会阶层心理学及其在社会治理中的应用。E-mail: yangsl@mails.ccnu.edu.cn",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "YangShenlongMale,Ph.andidateofScholofychologyCentralChinaNoalUniverstyResearchinterestsoverpsologyf social class and its application to social governance.E-mail: yangsl@mails.ccnu.edu.cn ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "记者证公示",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "《中国科学院院刊》编辑部杨柳春（女）通过了2016年度新闻记者证核验，特此公示。本刊监督举报电话：010-68597911，82614939；新闻出版总署监督举报电话：010-83138953;北京市新闻出版局监督举报电话：010-64081164。",
+        "page_idx": 10
+    }
+]

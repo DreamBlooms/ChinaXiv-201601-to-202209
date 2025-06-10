@@ -1,0 +1,324 @@
+# 联合边路和中路解码特征学习的多描述编码图像增强方法
+
+赵利军1，曹聪颖1，张晋京²，白慧慧³，赵耀³，王安红1
+
+1．太原科技大学 电子信息工程学院，太原030024;2.中北大学 大数据学院，太原 030051;3．北京交通大学信息科学研究所，北京 100044)
+
+摘要：提出一种联合边路和中路解码特征学习的多描述编码图像增强方法，该方法同时考虑了边路解码图像增强和中路解码图像增强的问题，因而可以通过联合学习优化中路解码和边路解码的特征来实现更好的网络训练。首先，考虑到多描述编码的边路独立解码和中路联合解码的特性，提出一种网络共享的边路低分辨率特征提取网络来有效地提取具有相同内容和差异细节的两个边路解码图像的特征，同时设计一种残差递归补偿网络结构并将其用于边路与中路低分辨率特征提取网络。其次，设计一个多描述边路上采样重建网络，该重建网络采用部分网络层参数共享策略，该策略能够减小网络模型参数量，同时提高网络的泛化能力。最后，提出一种多描述中路上采样重建网络，将两个边路低分辨率特征与中路低分辨率特征进行深层特征融合来实现多描述压缩图像的增强。大量的实验结果表明：在模型复杂度、客观质量和视觉质量评价方面，所提的方法优于很多的图像增强方法如ARCNN、FastARCNN、DnCNN、WSR和DWCNN。
+
+关键词：多描述编码；深度学习；图像增强；压缩失真；特征融合 中图分类号：TP391 doi:10.19734/j.issn.1001-3695.2022.02.0061
+
+# Multiple description coding image enhancement method with joint learning of side- and central-decoding features
+
+Zhao Lijun1†, Cao Congying1, Zhang Jinjing², Bai Huihui³, Zhao Yao³, Wang Anhong1 (1. CollegeofElectronic Information Engineering,Taiyuan UniversityofScience&Technology,aiyuan 03o24,China; 2.CollegeofBgSience&TechnologyNorthUniversityofChia,yuanO3o1,China;3.IstituteofInformationScience, Beijing Jiaotong University,Beijing 100044, China)
+
+Abstract: This paper proposes MDC image enhancement method by using joint learning of side- and central-decoding features,whichconsiders the problems ofside decoding image enhancement and central decoding image enhancement atthe same time,so itcanrealize better network training byoptimizing central decoding and side decoding features through joint learning.First,considering side independent decoding and central joint decoding features for MDC,this paper proposed a network-sharingsidelow-resolution feature extractionnetwork toefectivelyextract features fromtwo-sidedecoded images withthesame content and diferentdetails,while it design aresidualrecursivecompensationnetwork structure and aply it into both side and central low-resolution feature extraction network．Secondly，a multiple description up-sampling reconstruction network is designed,whichadopts parametersharing strategy forpartial layers ofnetwork,whichcanreduce parameter number of network model and improve network generalization ability.Finally,multiple description central upsamplingreconstruction network is proposed to perform dep feature fusion withtwo low-resolution side features andcentral features to enhance multiple description compresed images.A large numberof experimental results have shown that the proposed method issuperior to several image enhancement methods such as ARCNN,FastARCNN,DnCNN,WSR and DWCNN in terms of model complexity, objective quality and visual quality assessment.
+
+Keywords: multiple description coding; deep learning; image enhancement; compression distortion; feature fusion
+
+# 0 引言
+
+虽然现有的通信系统能够提供很宽的网络带宽，但是在人群密集的演唱会现场、足球比赛场地和学生宿舍楼群等场所常常会发生网络拥堵现象。此外，在很多情况下有限的通信设备资源会导致不可靠信道的数据包以很大的概率发生丢失。虽然很多现有的高效图像压缩标准能够缓解该问题，但是无法保证数据的可靠传输。不同于单描述编码，多描述编码(MultipleDescriptioncoding,MDC)将一个信源分成多个描述，在不同的信道上传输不同描述的数据。如果在接收端能够完全正确地接收到所有描述的数据包，那么，通过联合解码就能恢复出高质量的图像。如果在接收端只接收到一个描述的数据包，那么，通过边路解码器能够恢复出一个较高质量的图像。由此可见，多描述编码技术能实现图像的可靠传输。
+
+虽然多描述编码方法可以减少数据量，但是经过压缩的中路和边路图像会发生不同程度的失真，特别是接收到的边路图像存在严重失真，因此，非常有必要使用图像压缩伪影去除技术来提升MDC图像的解码质量。通常，将压缩伪影去除技术分成两类：传统的压缩伪影去除方法和基于深度学习的压缩伪影去除方法。例如，Dabov等人[提出了一种基于变换域的增强稀疏表示策略，并且通过分组和协同滤波来实现图像去噪。Foi等人[2]提出了基于形状自适应离散余弦变换的图像滤波方法，该方法定义了一种区域形状自适应的变换来有效地去除图像的块效应和边缘振荡效应。Chang等人[3]通过稀疏表示和冗余字典学习来减少JPEG(JointPhotographic ExpertsGroup)压缩所带来的伪影，但是该方法无法恢复丢失的一些高频信息。Zhang 等人[4提出了一种基于非凸低秩模型的图像去块方法，该方法的优势在于不改变现有编解码器的情况下，将量化约束显式地变换到可行解空间来约束非凸的低秩优化，同时该方法通过一种自适应参数调整的交替最小化策略来解决对应的优化问题。
+
+在ImageNet图像识别大赛上AlexNet一举夺冠，标志着进入了现代深度学习的萌芽时期。随后，AlphaGo以4:1的比分战胜了国际顶尖围棋高手李世石。自此，卷积神经网络(ConvolutionalNeuralNetworks,CNN)得到广泛的关注和发展在计算机视觉领域深度学习取得巨大成功，同时它能够解决图像超分、去雨、去雾和去噪等任务。基于深度学习的压缩伪影去除的方法也受到研究者的广泛关注。例如，Yu等人[5]提出了一种图像压缩伪影去除的方法并命名为ARCNN(ArtifactsReduction ConvolutionalNeuralNetwork),该方法验证了重用浅层网络的参数有利于训练模型的深层网络。为了解决深层网络难训练的问题，Zhang等人[6提出了一种基于残差学习的神经网络去噪方法，并将其命名为DnCNN(Denoising Convolutional Neural Network)，该方法利用残差学习和批归一化操作构建深层卷积神经网络，这种设计有助于提升网络的收敛速度和去噪性能。为了进一步提升图像增强的性能，Qiu等人提出了一种基于深度残差学习的JPEG压缩伪影去除方法，该方法将基于信号处理的图像恢复方法与深度残差学习模型相结合来恢复原始数据。虽然以上方法能够获得比传统的压缩伪影去除方法更好的性能，但是这些方法没有充分利用图像的上下文信息来实现图像质量的增强。为了解决这个问题，Chen等人[8提出了一种多尺度稠密残差网络，该网络将不同空洞因子的空洞卷积引入到残差网络的稠密模块并构建一种多尺度稠密模块来获得更大的感受野。
+
+不同于神经网络单域处理方法，Zhang 等人[9提出了一种双域多尺度卷积神经网络方法(Dual-domainMulti-scaleConvolutionalNeuralNetwork,DMCNN)，该网络能够有效地利用全局信息来消除JPEG压缩伪影。类似于DMCNN方法，Zheng 等人[10]提出了一种隐式双域卷积网络(Implicit Dual-domainConvolutionalNetwork，IDCN)来减少彩色图像的压缩伪影。虽然DMCNN与IDCN都采用了双支路的网络拓扑结构，但它们并没有充分地利用图像的高低频信息来实现特征互补。为了充分地利用图像高低频特征，Jin等人[提出了一种灵活的深度学习图像恢复方法，该方法首先将低质量的输入图分解为低频结构图和高频纹理图；其次，将两个图像分别送入质量增强网络，并将纹理特征用于增强结构特征；最后，使用聚合网络将预测的高质量纹理图和结构图合并起来。为了解决池化和膨胀滤波等带来的网格化问题，Liu 等人[12-13]提出了一种多级小波卷积神经网络(Multi-levelWaveletConvolutionalNeuralNetwork,MWCNN)，该网络在图像去噪单幅图像超分辨率和JPEG图像伪影去除等方面具有良好的效果。为了解决图像增强性能、网络参数量和推理时间之间的权衡问题，Zhang等人[14]提出一种轻量化的快速超分辨网络(WaveletSuper-Resolution,WSR)，该方法提出一种可变形
+
+卷积核来减少网络参数。
+
+虽然以上的这些方法可以取得良好的去噪性能，但是这些方法无法针对不同级别的压缩伪影实现自适应的图像增强这些方法往往需要训练多个去噪网络模型，这将必然提升图像增强方法的复杂度，而且经过训练的多个模型将占用较大的存储空间，因此这些方法很难被广泛地采用。为了解决这一问题，Li等人[15]提出了一种面向不同质量因子JPEG压缩的单模型压缩伪影去除方法，该方法分别使用恢复支路和全局支路来解决局部震荡伪影、全局的块伪影和颜色漂移问题。此外，Kirmemis等人[6]提出了一种BPG(BetterPortableGraphics)图像压缩的伪影去除方法，该算法需要从三个不同大小的压缩伪影去除网络中选择一个网络对图像进行去噪，但是如何挑选最佳的伪影去除网络是一个非常棘手的问题。除了压缩图像的增强问题外，很多的研究者致力于解决视频压缩质量增强问题。例如，Zhou等人[17]提出一种基于双网络的压缩视频重建方法，该方法先用压缩网络去除压缩伪影，再使用超分辨率网络进一步提高视频质量。
+
+为了解决多描述编码图像的压缩失真问题,Xuan 等人[18]通过相邻关键帧估计来实现压缩图像的增强。Zhao等人[19]将图像预处理和后处理技术结合起来，构建了一种兼容标准编码器的多描述编码新框架，该框架极大地提升了图像的编码效率和解码图像质量。类似地，Zhang[20]等人通过棋盘格下采样的方法获得多个单描述图像，然后使用标准编码器进行编码，最后使用卷积神经网络来增强单路和中路解码图像质量。Purica[21]等人提出将视频序列的两个低分辨率压缩描述合并为一个高分辨率描述。Zhang[22]等人采用奇偶分离的采样方式对接收到的边路描述进行重构增强。 $Z \mathrm { { h u } } ^ { [ 2 3 ] }$ 等人提出一种压缩约束去块算法，该算法有效地利用接收到的两个描述信息来减少中路解码图像的边界伪影。 $\mathrm { X u } ^ { [ 2 4 ] }$ 提出一种基于3D-LVQ (3DLatticeVectorQuantization)的图像编码预测解码方法，该方法能够提高边路图像解码的性能。总而言之，这些深度学习模型往往很难满足轻量化设备的需求，因此，需要研究低复杂度的深度学习模型。为了解决多描述压缩图像出现的压缩伪影问题，特别是边路解码图像会出现严重的结构分裂伪影问题，本文提出一种联合边路和中路解码特征学习的多描述压缩图像增强方法(MDE)。本文贡献点总结如下：
+
+a)为了解决现有深度学习模型占用存储空间大、计算复度高的问题，设计了一种残差递归补偿网络并将其作为边路和中路的低分辨率特征提取网络，而且使用参数共享策略来有效地提取两个具有内容相同而细节存在差异的两描述解码图像特征。
+
+b)考虑到多描述编码的边路独立解码特性，设计了多描述边路上采样重建网络。多描述边路上采样重建网络也采用部分网络层参数共享策略，从而减小所提方法的网络模型参数量并提高网络的泛化能力。
+
+c)考虑到多描述编码的中路联合解码的特性，设计了一种多描述中路上采样重建网络将两个边路低分辨率特征和中路低分辨率特征进行深层特征融合来实现多描述压缩图像的增强。
+
+# 1 所提的多描述压缩图像增强方法
+
+虽然现有的多描述编码方法能够有效地解决在不稳定网络环境下图像的可靠传输问题，但是有损的多描述编码难免会导致解码图像出现各种伪影、噪声、结构变形和结构分离等问题。相比于传统图像增强技术，深度学习图像增强技术能够更好地去除压缩伪影。然而，现有的深度学习增强模型存在计算复杂度过高、运算内存占用过大的问题，同时这些现有的网络只能解决单描述图像增强问题。将这些网络直接用于解决多描述增强任务时，只能单独地增强边路和中路解码图像，无法联合边路和中路特征进行解码。为此，提出了一种联合边路和中路解码特征学习的多描述编码图像增强方法。首先，所提的方法需要使用多描述随机偏移量化(MultipleDescription Random Offset Quantization，MDROQ)方法[25]对输入图像进行编码和解码。通过MDROQ方法可以获得两个带有失真的边路解码图像和一个中路解码图像。如图1所示，所提的方法将多描述图像增强分为低分辨率特征提取和高分辨率图像重建两个阶段。第一个阶段包括两个多描述边路低分辨率特征提取网络和一个多描述中路低分辨率特征提取网络。第二个阶段包括两个多描述边路上采样重建网络和一个多描述中路上采样重建网络。根据多描述编码的边路独立解码和中路联合解码的特性，设计了一种残差递归补偿网络结构并将其用于边路和中路的低分辨率特征提取网络。边路特征提取使用参数共享策略能够有效地提取两个外表相同但细节信息有所差异的两个描述解码图像的卷积特征。此外，所提的多描述边路上采样重建网络也采用部分网络层参数共享策略，这将极大地减小模型总参数量。
+
+不同于边路上采样重建网络，多描述中路上采样重建网络将两个边路低分辨率特征与中路低分辨率特征进行深层特征融合来实现压缩图像的增强。所提方法的增强过程可以表示为
+
+$$
+Y _ { \mathrm { i } } = X _ { i } + R _ { i } \left( i = 1 , 2 , 3 \right)
+$$
+
+其中， $i = 1 , 2 , 3$ 分别表示边路1、中路、边路2，Y表示增强后的图像， $X$ 表示输入的图像， $R$ 表示重建网络预测的残差图。
+
+![](images/bef9bce19c9c6b4f8377a20d492c5e404f956989b496f5031da6acb9cc795a47.jpg)  
+图1所提方法的网络结构  
+Fig.1Network structure in the proposed method
+
+# 1.1低分辨率特征提取网络
+
+不同于单描述图像编码，考虑到多描述图像编码的输出包含多个边路解码图像和中路解码图像，所提的低分辨率特征提取网络包括两种：边路低分辨率特征提取网络和中路特征提取网络。为了避免在深度神经网络训练过程中模型出现过拟合的现象，同时降低深度神经网络的可学习参数量，所提的边路低分辨特征提取网络采用残差块参数共享策略来有效地提取低分辨率特征。与以往方法不同的是，这里的参数共享策略不是将两个边路网络都共享，而是进行部分块间的共享，同时在网络递归过程中，将递归结果使用 $^ { 1 ^ { * } 1 }$ 卷积进行处理，再将其与前一个递归块相加的结果输入下一个递归块，这样既有效地减少了网络参数量，又保证了不同支路间的差异性，该网络的结构如图1所示。中路低分辨率特征提取网络与边路低分辨率特征提取网络的相似点在于采用同一网络拓扑结构，但是这两个网络的可学习参数取值有所不同，如图1所示。
+
+在两个边路和中路低分辨率特征提取网络中，首先使用一个卷积块的操作，即卷积(Convolution，Conv) $^ { + }$ 批归一化(BatchNormalization，BN) $+$ PReLU(ParametricRectifiedLinearUnit)激活函数，将其标记为Conb。将图像转换为卷积特征，这里使用步长为2的下采样卷积操作来减少运算量，然后采用所提的残差递归补偿方式对该卷积特征进行多层融合。在这个补偿过程中，使用了五个残差卷积块(ResidualConvolutionBlock，Resb)依次进行特征提取，同时将这些提取到的特征进行多次的通道加权平均融合。残差卷积块包括五个操作，即Conv+BN+PReLU+Conv+跳跃连接。经过第五个残差卷积块的特征提取之后，将其与初始的卷积特征和前四次通道加权融合的特征再次进行通道加权特征融合得到该特征提取网络的低分辨率卷积特征。边中路低分辨率特征提取网络每层的参数如表1所示。具体来说，使用Conb1进行下采样同时提取图像的特征，将Conb1提取的图像特征输入到Resb1中，同时将Conb1提取的图像特征输入到Conv1中，将Resb1的输出与Conv1的输出的和作为Resb2的输入。在Conv2中，将Resb1的输入与Resb2的输入作为Conv2的输入，然后将Resb2的输出与Conv2的输出的和作为Resb3的输入。类似于Resb2和Resb3操作，Resb4与Resb5执行同样的操作。在Conv3中，将Resb1的输入、Resb2的输入、Resb3的输入求和的结果作为Conv3的输入。类似于Conv2和Conv3操作，Conv4与Conv5执行同样的残差递归补偿操作。最后，将Resb5的输出与Conv5的输出的和作为低分辨率特征提取网络的输出，同时，将两个边路低分辨率特征提取网络输出的结果求和作为中路上采样重建网络的输入。概括来说，两个边路低分辨特征提取网络可以表示为
+
+$$
+Z _ { i } = g _ { s } \left( X _ { i } \right) , \left( i = 1 , 3 \right)
+$$
+
+$$
+Z _ { 1 3 } = Z _ { 1 } + Z _ { 3 }
+$$
+
+其中， $Z _ { i }$ 表示经过第 $i$ 个边路低分辨率特征提取网络表示后的特征图， $X _ { i }$ 表示多描述解码的第 $i$ 个边路图像， $g _ { s } ( \bullet )$ 表示边路 $X _ { i } \to Z _ { i }$ 的特征映射，即边路低分辨率特征提取网络的映射函数。 $Z _ { 1 3 }$ 是 $Z _ { \scriptscriptstyle 1 }$ 和 $Z _ { 3 }$ 特征图像线性组合。类似地，中路低分辨率特征提取网络可以表示为
+
+$$
+Z _ { 2 } = g _ { c } \left( X _ { 2 } \right)
+$$
+
+其中， $Z _ { 2 }$ 表示经过中路低分辨率特征提取网络表示后的特征图， $X _ { 2 }$ 表示多描述中路解码图像， $g _ { c } ( \bullet )$ 表示中路 $X _ { 2 }  Z _ { 2 }$ 的特征映射，即中路低分辨率特征提取网络的映射函数。
+
+表1边路和中路低分辨率特征提取网络的实现细节
+
+Tab.1Implementation details of side and central low-resolution feature extraction network.   
+
+<html><body><table><tr><td>模块</td><td>卷积核大小</td><td>卷积步长</td><td>零填充的尺寸</td></tr><tr><td>Conb-1</td><td>3</td><td>2</td><td>1</td></tr><tr><td>Resb-1</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conv-1</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Resb-2</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conv-2</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Resb-3</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conv-3</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Resb-4</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conv-4</td><td>1</td><td>1</td><td>0</td></tr><tr><td>Resb-5</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conv-5</td><td>1</td><td>1</td><td>0</td></tr></table></body></html>
+
+# 1.2边路和中路上采样重建网络
+
+经过上述边路低分辨率特征提取网络和中路低分辨率特征提取网络后，分别可以得到两组边路低分辨率卷积特征图和一组中路低分辨率卷积特征图。在第一个边路上采样重建网络中，将得到的第一个边路低分辨率特征输入到五个串联的卷积块操作得到重建特征，同时在第三个卷积块操作中引入跳跃连接，有助于梯度反向传播。最后，将得到的重建特征输入到上采样(Transposed Convolution，ConvT)卷积层，即可得到第一个边路解码增强图像。类似地，第二个边路上采样重建网络也是如此。如图1所示，在两个边路上采样重建网络中，深层的卷积层采用参数共享策略，这种策略能够保证参数量较少的同时增强图像重建效果。
+
+不同于边路上采样重建网络，中路上采样重建网络不仅可以使用从两个边路解码图像提取的特征图，而且还可以使用从中路解码图像提取的特征图。因此，在边路上采样重建网络的结构之上，设计了能够融合这些特征图的中路上采样重建网络。中路上采样重建网络与边路上采样重建网络都使用了五个卷积块操作，但不同的是在跳跃连接之后将得到的边路融合特征与中路低分辨率特征沿通道维度进行串联，同时在中路上采样重建网络中深层的卷积层没有与边路重建网络进行参数共享，这样做的主要原因是第四个卷积块的输入特征图之间存在较大差异，如图1所示。边路和中路重建网络每层的参数如表2所示。边路上采样重建网络的非线性映射关系可以表示为
+
+$$
+R _ { 1 } = f _ { s 1 } ( Z _ { 1 } )
+$$
+
+$$
+R _ { 3 } = f _ { s 3 } ( Z _ { 3 } )
+$$
+
+其中， $R _ { 1 }$ 和 $R _ { 3 }$ 分别表示两个边路经低分辨率提取网络和特征上采样重建网络重建后的图像， $Z _ { 1 }$ 和 $Z _ { 2 }$ 表示经低分辨率特征提取后的图像， $f _ { s 1 } ( \cdot )$ 和 $f _ { s 3 } \left( \cdot \right)$ 分别表示两个边路上采样重建网络的映射函数。中路上采样重建网络的非线性映射关系可以表示为
+
+$$
+R _ { 2 } = f _ { c } \left( Z _ { 1 } , Z _ { 2 } , Z _ { 3 } \right)
+$$
+
+其中， $R _ { 2 }$ 表示经低分辨率提取网络和特征上采样重建网络重建后的图像， $z$ 表示经低分辨率特征提取后的图像， $f _ { c } \left( \bullet \right)$ 表示 $Z \to R$ 中路上采样重建网络的映射函数。最后，所提方法的边路和中路的整个非线性映射关系可以表示为
+
+$$
+Y _ { 1 } = X _ { 1 } + R _ { 1 } = X _ { 1 } + f _ { s 1 } \left( Z _ { 1 } \right) = X _ { 1 } + f _ { s 1 } \left( g _ { s } \left( X _ { 1 } \right) \right)
+$$
+
+$$
+Y _ { 2 } = X _ { 2 } + R _ { 2 } = X _ { 2 } + f _ { c } \left( Z _ { 1 } , Z _ { 2 } , Z _ { 3 } \right)
+$$
+
+$$
+= X _ { 2 } + f _ { c } \left( g _ { s } \left( X _ { 1 } \right) , g _ { c } \left( X _ { 2 } \right) , g _ { s } \left( X _ { 3 } \right) \right)
+$$
+
+$$
+Y _ { 3 } = X _ { 3 } + R _ { 3 } = X _ { 3 } + f _ { s 3 } \left( Z _ { 3 } \right) = X _ { 3 } + f _ { s 3 } \left( g _ { s } \left( X _ { 3 } \right) \right)
+$$
+
+其中， $Y _ { 1 } , \ Y _ { 2 }$ 和 $Y _ { 3 }$ 分别表示边路1、中路、边路2增强后的图像， $X _ { 1 } , \ X _ { 2 }$ 和 $X _ { 3 }$ 分别表示输入的边路1、中路、边路2 解码图像， $R _ { 1 } , \ R _ { 2 }$ 和 $R _ { 3 }$ 分别表示经低分辨率提取网络和特征上采样重建网络重建后的边路1、中路和边路2残差图， $f _ { s l } \left( \bullet \right)$ 、$f _ { c } \left( \bullet \right)$ 和 $f _ { s 3 } \left( \bullet \right)$ 分别表示 $Z _ { \mathrm { 1 } }  R _ { \mathrm { 1 } }$ 、 $( Z _ { 1 } , Z _ { 2 } , Z _ { 3 } )  R _ { 2 }$ 和 $Z _ { 3 } \to R _ { 3 }$ 的特征映射函数。
+
+表2边路和中路上采样重建网络的实现细节
+
+Tab.2The implementation details of side and central up-sampling reconstruction network   
+
+<html><body><table><tr><td colspan="4">边路上采样重建网络</td><td colspan="4">中路上采样重建网络</td></tr><tr><td>模块</td><td>卷积核大小</td><td>卷积步长</td><td>零填充的尺寸</td><td>模块</td><td>卷积核大小</td><td>卷积步长</td><td>零填充的尺寸</td></tr><tr><td>Conb-2</td><td>3</td><td>1</td><td>1</td><td>Conb-2</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conb-3</td><td>3</td><td>1</td><td>1</td><td>Conb-3</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conb-4</td><td>3</td><td>1</td><td>1</td><td>Conb-4</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conb-5</td><td>3</td><td>1</td><td>1</td><td>Conb-5</td><td>3</td><td>1</td><td>1</td></tr><tr><td>Conb-6</td><td>3</td><td>1</td><td>1</td><td>Conb-6</td><td>3</td><td>1</td><td>1</td></tr><tr><td>ConvT</td><td>5</td><td>2</td><td>2</td><td>ConvT</td><td>5</td><td>2</td><td>2</td></tr></table></body></html>
+
+# 1.3损失函数
+
+现有图像重建损失包括内容损失、结构不相似性损失、全变分损失和梯度差损失等。对于图像重建的内容损失，往往采用L1范数或L2范数来构建损失函数。很多的研究工作表明由L2范数构建的均方误差损失会使得经过该损失函数约束的模型输出结果呈现过度平滑的效果。与之相比，由L1范数构建的平均绝对误差损失函数会使得经过该损失函数约束的模型输出结果和原图更接近。因此，本文采用平均绝对误差损失来作为图像增强任务的损失函数。所提方法的总损失Loss可以表达为
+
+$$
+\begin{array} { r } { L o s s = \alpha L o s s _ { 1 } + \beta L o s s _ { 2 } + \alpha L o s s _ { 3 } } \end{array}
+$$
+
+$$
+L 0 s s _ { 1 } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \left. I _ { 1 i } - \mathring { I } _ { 1 i } ^ { \gamma _ { o } } \right.
+$$
+
+$$
+L 0 s s _ { 2 } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \bigl \| I _ { 2 i } - \bigl / p _ { 2 i } \bigr \|
+$$
+
+$$
+L 0 s s _ { 3 } = \frac { 1 } { n } \sum _ { i = 1 } ^ { n } \bigl \| I _ { 3 i } - \bigl \mathit { f } \bigl \| \mathit { \Pi } _ { 3 i } \bigr \|
+$$
+
+其中， $\boldsymbol { L o s s } _ { 1 }$ 、 $L o s s _ { 2 }$ 和 $L o s s _ { 3 }$ 分别为第一个边路解码图像增强损失和中路解码图像增强损失以及第二个边路解码图像增强损失。 $I _ { 1 i }$ 和 $\tilde { I } _ { \mathrm { l i } }$ 分别为第一个边路的预测输出图和原始图像的第
+
+$i$ 个像素， $n$ 为原始图像的像素总数，其他标记类似。 $\alpha$ 为边路损失函数的权重， $\beta$ 为中路损失函数的权重。
+
+# 1.4算法描述
+
+本文所使用的训练数据集和测试数据集均来自于文献[26]。该数据集使用文献[27]和文献[28]的291张图像来获得训练图像块集合，其中91张图像来自于文献[27]的训练数据集，其余200 张图像来自于文献[28]的BSDS500训练数据集。文献[26]使用裁切、下采样和图像拼接的方式来得到训练数据集，最终获得1681张大小为 $1 6 0 ^ { * } 1 6 0$ 的图像，将该数据集简称为Set-1681。通过多描述随机偏移量化方法(MDROQ)对Set-1681数据集进行压缩来获得压缩后的数据集 Set-1681(C):使用数据集Set-1681和Set-1681(C)来构建MDE网络的训练数据集。这里，使用不同量化参数对(Qstep0,Qstep1)分别为(56,56.57)(96,96.57)(136,136.57)(176,176.57)和(216,216.57)来获得不同失真程度的压缩图像。当量化参数对(Qstep0,Qstep1)越小时，多描述图像压缩失真越小，即保留更多的原始信息。虽然训练数据集的大小和图像类型会影响深度学习网络的性能，但是本文所有对比方法的训练数据集和测试数据集都是相同的，从而保证了对比的公平性。
+
+接下来，将介绍所提MDE网络的训练算法。如算法1所示，首先利用多描述随机偏移量化方法(MDROQ)压缩Set-1681数据集，然后，构建MDE网络训练所需的数据集。其次，对边路低分辨率特征提取网络参数、中路低分辨率特征提取网络参数 $\pmb { \eta }$ 、边路上采样重建网络参数和中路上采样重建网络参数 $\xi$ 进行初始化。接下来，根据式(2)进行边路低分辨率特征提取，与此同时，根据式(4)进行中路低分辨率特征提取。考虑到多描述边路解码的独立性和中路的联合解码，根据式(5)(6和(7)进行边路和中路上采样重建预测。为了联合优化边路解码特征和中路解码特征，依据图像增强任务的总损失函数表达式(11)，通过梯度下降法更新网络参数 $\pmb { \eta }$ 、a和 $\xi _ { \circ }$ 经过训练后，输出并保存训练好的MDE网络模型。
+
+算法1 MDE 网络的训练算法
+
+输入：Set-1681数据集(图像总数 $\scriptstyle n = 1 6 8 1$ 张)，MDE网络优化的总迭代次数 $R = 5 \theta \theta$ ，优化器的初始学习率 $\scriptstyle { L r = 2 e - 4 }$ ，更新MDE网络的图像批大小 $b = 8$ 。  
+输出：训练好的MDE网络模型。  
+使用多描述随机偏移量化方法(MDR0Q)压缩Set-1681数据集，得到压缩后的数据集，标记为Set-1681(C)；使用Set-1681数据集和Set-1681(C)构建MDE网络训练所需的数据集。  
+对MDE网络参数进行初始化设置(边路低分辨率特征提取网络参数为5，中路低分辨率特征提取网络参数为 $\pmb { \eta }$ ，边路上采样重建网络参数为λ，中路上采样重建网络参数为 $\pmb { \xi }$ )。
+
+# for epoch $\scriptstyle = 1$ to R do
+
+for $\scriptstyle \mathbf { i } = 1$ to floor $( n / b )$ do
+
+根据式(2)进行边路低分辨率特征提取，同时根据式(4)进行中路低分辨率特征提取；考虑到多描述边路解码的独立性和中路的联合解码，根据式 $( 5 ) { \sim } ( 7 )$ 进行边路和中路上采样重建预测。
+
+为了联合优化边路解码特征和中路解码特征，依据图像增强任务的总损失函数表达式(11)，通过梯度下降法更新MDE网络参数 $\boldsymbol { \zeta }$ n、λ和。
+
+end for  
+end for  
+最后，输出并保存MDE网络模型。
+
+# 2 实验结果与分析
+
+为了验证所提 MDE方法的有效性，将其与现有的多个深度学习方法如ARCNN[5]、FastARCNN[5]、DnCNN[6]、WSR[14]、DWCNNV1[13]、DWCNNV1C[13]和DWCNNV2[12]进行比较。本实验将方法ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2的边路1、边路2和中路增强网络分别使用同一网络架构，但网络参数有所不同。考虑到WSR是一种基于小波变换的图像超分辨率方法，将WSR网络的上采样层去除来实现多描述压缩图像的增强。图2所展示的图像来自于文献[26]，将这些图像用于测试所提方法、ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2方法的性能。这里，将不仅使用客观质量评价指标PSNR和SSIM来比较各种图像质量增方法的性能，而且使用网络的总参数量、网络感知野的大小以及运行时间来评估这些方法的性能。此外，还将展示这些方法增强后图像的视觉效果对比图。
+
+![](images/38dd7decc7fc8f0dd4a5492370c6cf210036a10518f302883aec5cb7c057f06d.jpg)  
+图2测试数据集的样本示例图  
+Fig.2Sample diagram of testing dataset
+
+# 2.1仿真环境与训练设置
+
+本文在深度学习框架PyTorch 下使用NVIDIARTX2080TiGPU显卡来训练和测试所提的方法。采用ADAM优化器来训练所提的MDE网络，该优化器的初始学习率 $l r$ 设置为2e-4，每迭代100次更新一次学习率，学习率的乘性衰减率为0.5。每次使用批大小 $b$ 为8的一组图像来更新网络参数，网络训练的总迭代次数为 $R { = } 5 0 0$ 。
+
+# 2.2客观和主观质量评价
+
+为了验证所提方法的可行性，本实验将其与多个最新图像增强方法，如ARCNN[5]、FastARCNN[5]、DnCNN[6]、WSR[14]、DWCNNV1[13]、DWCNNV1C[13]和DWCNNV2[12]进行了比较,结果如表3\~5所示，其中最好的结果用双下划线加粗字体表示，排名第二的结果用单下划线加粗字体表示,排名第三的结果用加粗字体表示。如表3\~5 所示，当(Qstep0,Qstep1)=(56,56.57)(96,96.57)(136,136.57)(176,176.57)和(216,216.57)时，给出了不同方法的客观评价指标PSNR和SSIM对比结果。通过对比可以发现，经过所提方法增强的两个边路及中路解码图像的客观评价指标PSNR和SSIM明显高于其他方法。
+
+如表6所示，将所提的方法与ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2方法的网络参数量进行对比。从该表可以发现ARCNN、FastARCNN、WSR、DWCNNV1、DWCNNV1C的参数量是本文方法参数量的一倍多，而且这些方法的PSNR和SSIM指标低于本文方法。虽然DnCNN和WSR方法与所提方法的参数总量非常接近，但是经过所提方法增强的图像的客观评价指标PSNR和SSIM高于这两个方法。
+
+如图3\~5所示，将经过所提的方法、ARCNN、FastARCNNDnCNN、WSR、DWCNNV1、DWCNNV1CD和WCNNV2方法增强后的压缩图像进行比较。通过对比可以发现，边路解码图像存在严重的结构分裂伪影，而中路解码图像包含更多细节同时更加清晰。相比于ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2，所提方法能够使得增强后的压缩图像更清晰。如图3所示，从该视觉对比图中可以看出，经过ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2增强的压缩图像仍然存在严重的模糊伪影。与这些方法相比，所提方法的中路图像视觉效果更好一些，这进一步验证了本文所提方法的有效性。从图4、5可以看出，经过ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2方压缩图像视觉效果非常接近，而经过所提方法增 强的多描述压缩图像视觉效果仍然更好。
+
+表3在不同(Qstep0,Qstep1)下经过多描述图像编码方法 MDROQ 压缩的第一个边路增强图像的客观质量对比
+
+3Objective quality comparison of the first side enhancement image under different(QstepO,Qstepl) compres   
+
+<html><body><table><tr><td rowspan="2">对比方法</td><td colspan="2">(56,56.57)</td><td colspan="2">(96,96.57)</td><td colspan="2">(136,136.57)</td><td colspan="2">(176,176.57)</td><td colspan="2">(216,216.57)</td></tr><tr><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td></tr><tr><td>MDROQ</td><td>31.54</td><td>0.8435</td><td>29.06</td><td>0.7822</td><td>27.58</td><td>0.7402</td><td>26.13</td><td>0.6995</td><td>25.33</td><td>0.6692</td></tr><tr><td>ARCNN</td><td>32.42</td><td>0.8588</td><td>30.03</td><td>0.8049</td><td>28.59</td><td>0.7659</td><td>27.31</td><td>0.7315</td><td>26.32</td><td>0.7026</td></tr><tr><td>FastARCNN</td><td>32.26</td><td>0.8566</td><td>30.01</td><td>0.8047</td><td>28.56</td><td>0.7662</td><td>27.28</td><td>0.7313</td><td>26.40</td><td>0.7045</td></tr><tr><td>WSR</td><td>32.31</td><td>0.8561</td><td>29.92</td><td>0.8013</td><td>28.42</td><td>0.7606</td><td>27.06</td><td>0.7246</td><td>26.14</td><td>0.6967</td></tr><tr><td>DnCNN</td><td>32.47</td><td>0.8595</td><td>30.09</td><td>0.8052</td><td>28.57</td><td>0.7642</td><td>27.21</td><td>0.7276</td><td>26.30</td><td>0.6988</td></tr><tr><td>DWCNNV2</td><td>32.31</td><td>0.8577</td><td>29.89</td><td>0.8024</td><td>28.47</td><td>0.7668</td><td>27.20</td><td>0.7310</td><td>26.04</td><td>0.7000</td></tr><tr><td>DWCNNV1</td><td>32.50</td><td>0.8624</td><td>30.08</td><td>0.8084</td><td>28.45</td><td>0.7665</td><td>27.22</td><td>0.7319</td><td>26.17</td><td>0.7039</td></tr><tr><td>DWCNNV1C</td><td>32.35</td><td>0.8593</td><td>30.08</td><td>0.8078</td><td>28.49</td><td>0.7664</td><td>27.26</td><td>0.7332</td><td>26.25</td><td>0.7061</td></tr><tr><td>本文方法</td><td>32.52</td><td>0.8613</td><td>30.22</td><td>0.8100</td><td>28.59</td><td>0.7674</td><td>27.38</td><td>0.7342</td><td>26.48</td><td>0.7081</td></tr></table></body></html>
+
+表4在不同(Qstep0,Qstep1)下经过多描述图像编码方法 MDROQ压缩的第二个边路增强图像的客观质量对比
+
+Tab.4Objective qualitycomparisonof the second side enhancement image under diferent (QstepO,Qstepl)compressed by multi-description image coding method MDROQ   
+
+<html><body><table><tr><td rowspan="2">对比方法</td><td colspan="2">(56,56.57)</td><td colspan="2">(96,96.57)</td><td colspan="2">(136,136.57)</td><td colspan="2">(176,176.57)</td><td colspan="2">(216,216.57)</td></tr><tr><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td></tr><tr><td>MDROQ</td><td>31.54</td><td>0.8431</td><td>29.04</td><td>0.7828</td><td>27.60</td><td>0.7407</td><td>26.15</td><td>0.6981</td><td>25.38</td><td>0.6689</td></tr><tr><td>ARCNN</td><td>32.40</td><td>0.8589</td><td>30.03</td><td>0.8053</td><td>28.57</td><td>0.7659</td><td>27.27</td><td>0.7329</td><td>26.30</td><td>0.7025</td></tr><tr><td>FastARCNN</td><td>32.25</td><td>0.8563</td><td>30.01</td><td>0.8046</td><td>28.55</td><td>0.7652</td><td>27.26</td><td>0.7324</td><td>26.37</td><td>0.7046</td></tr><tr><td>WSR</td><td>32.28</td><td>0.8561</td><td>29.92</td><td>0.8011</td><td>28.41</td><td>0.7605</td><td>27.04</td><td>0.7254</td><td>26.11</td><td>0.6962</td></tr><tr><td>DnCNN</td><td>32.46</td><td>0.8597</td><td>30.14</td><td>0.8066</td><td>28.60</td><td>0.7638</td><td>27.18</td><td>0.7281</td><td>26.26</td><td>0.6986</td></tr><tr><td>DWCNNV2</td><td>32.33</td><td>0.8579</td><td>29.13</td><td>0.7879</td><td>28.37</td><td>0.7647</td><td>27.21</td><td>0.7316</td><td>26.15</td><td>0.7044</td></tr><tr><td>DWCNNV1</td><td>32.49</td><td>0.8624</td><td>30.11</td><td>0.8080</td><td>28.48</td><td>0.7669</td><td>27.18</td><td>0.7322</td><td>26.12</td><td>0.7017</td></tr><tr><td>DWCNNV1C</td><td>32.32</td><td>0.8592</td><td>30.06</td><td>0.8074</td><td>28.53</td><td>0.7684</td><td>27.22</td><td>0.7339</td><td>26.16</td><td>0.7046</td></tr><tr><td>本文方法</td><td>32.55</td><td>0.8628</td><td>30.25</td><td>0.8099</td><td>28.65</td><td>0.7690</td><td>27.41</td><td>0.7364</td><td>26.47</td><td>0.7085</td></tr></table></body></html>
+
+表5在不同(Qstep0,Qstepl)下经过多描述图像编码方法 MDROQ 压缩的中路增强图像的客观质量对比
+
+Tab.5Objective qualitycomparisonof thecentral path enhancement imageunderdiferent(Qstep0,Qstepl)compressed by multi-description image coding method MDROQ   
+
+<html><body><table><tr><td rowspan="2">对比方法</td><td colspan="2">(56,56.57)</td><td colspan="2">(96,96.57)</td><td colspan="2">(136,136.57)</td><td colspan="2">(176,176.57)</td><td colspan="2">(216,216.57)</td></tr><tr><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td><td>PSNR</td><td>SSIM</td></tr><tr><td>MDROQ</td><td>32.35</td><td>0.8591</td><td>29.85</td><td>0.8019</td><td>28.41</td><td>0.7619</td><td>26.94</td><td>0.7230</td><td>26.16</td><td>0.6944</td></tr><tr><td>ARCNN</td><td>33.09</td><td>0.8704</td><td>30.69</td><td>0.8159</td><td>29.25</td><td>0.7814</td><td>27.95</td><td>0.7480</td><td>26.94</td><td>0.7198</td></tr><tr><td>FastARCNN</td><td>32.94</td><td>0.8681</td><td>30.63</td><td>0.8181</td><td>29.19</td><td>0.7805</td><td>27.90</td><td>0.7475</td><td>27.01</td><td>0.7207</td></tr><tr><td>WSR</td><td>33.02</td><td>0.8684</td><td>30.60</td><td>0.8162</td><td>29.14</td><td>0.7776</td><td>27.71</td><td>0.7433</td><td>26.76</td><td>0.7154</td></tr><tr><td>DnCNN</td><td>33.15</td><td>0.8710</td><td>30.78</td><td>0.8193</td><td>29.26</td><td>0.7802</td><td>27.86</td><td>0.7445</td><td>26.96</td><td>0.7164</td></tr><tr><td>DWCNNV2</td><td>33.09</td><td>0.8706</td><td>30.67</td><td>0.8182</td><td>29.04</td><td>0.7766</td><td>27.98</td><td>0.7511</td><td>26.68</td><td>0.7190</td></tr><tr><td>DWCNNV1</td><td>33.21</td><td>0.8733</td><td>30.84</td><td>0.8226</td><td>29.23</td><td>0.7828</td><td>27.95</td><td>0.7508</td><td>26.92</td><td>0.7229</td></tr><tr><td>DWCNNV1C</td><td>32.87</td><td>0.8678</td><td>30.77</td><td>0.8217</td><td>29.15</td><td>0.7831</td><td>28.04</td><td>0.7512</td><td>26.91</td><td>0.7223</td></tr><tr><td>本文方法</td><td>33.25</td><td>0.8737</td><td>30.94</td><td>0.8238</td><td>29.35</td><td>0.7851</td><td>28.12</td><td>0.7535</td><td>27.13</td><td>0.7259</td></tr></table></body></html>
+
+Tab.6Comparison of parameter numbers for different methods $\scriptstyle 1 \mathbf { M } = 1 0 \mathbf { e } + 6 )$ （2   
+
+<html><body><table><tr><td>对比方法</td><td>网络总参数量</td></tr><tr><td>ARCNN</td><td>0.64M</td></tr><tr><td>FastARCNN</td><td>0.66M</td></tr><tr><td>WSR</td><td>0.62</td></tr><tr><td>DnCNN</td><td>0.34M</td></tr><tr><td>DWCNNV2</td><td>4.69M</td></tr><tr><td>DWCNNV1</td><td>8.61M</td></tr><tr><td>DWCNNV1C</td><td>0.71M</td></tr><tr><td>本文方法</td><td>0.32M</td></tr></table></body></html>
+
+# 2.3 复杂度分析
+
+如表7所示，将所提方法与ARCNN、FastARCNN、
+
+DnCNN、WSR、DWCNNV1、DWCNNV1C 和DWCNNV2方法的感知野进行对比。从该表中可以发现：所提方法的感知野比 ARCNN、FastARCNN、DnCNN、DWCNNV1和DWCNNV1C方法更大。但是，所提方法的感知野比WSR和DWCNNV2方法小。
+
+表6不同方法的参数量大小比较( $1 \mathrm { M } { = } 1 0 \mathrm { e } { + } 6 )$   
+表7不同方法的感知野大小比较  
+Tab.7Comparison of receptive field size for different methods   
+
+<html><body><table><tr><td>对比方法</td><td>感知野</td><td>对比方法</td><td>感知野</td></tr><tr><td>ARCNN</td><td>55</td><td>DWCNNV2</td><td>217</td></tr><tr><td>FastARCNN</td><td>141</td><td>DWCNNV1</td><td>145</td></tr><tr><td>WSR</td><td>967</td><td>DWCNNV1C</td><td>145</td></tr><tr><td>DnCNN</td><td>31</td><td>本文方法</td><td>187</td></tr></table></body></html>
+
+如表8所示，将所提方法不同感知野在量化参数对(Qstep0,Qstep1)为(216,216.57)时中路图像的PSNR和SSIM进行对比。
+
+从该表中可以发现，随着感知野的增加，所提方法的性能将有所提高。但是当感知野的值大于103时，性能将逐渐趋于饱和状态。此外，从该表中还可以发现，当不同感知野的增强模型拥有相同级别的参数时，它们的运行时间基本上差别不大。一般来说，大感知野的神经网络可以利用更多的空间相关性。虽然网络的性能在一定程度上受到感知野的影响，但是随着感知野的不断增加，空间位置差别较大的两个像素之间的相关性也会变弱，同时也增加神经网络的复杂度。由此可见，神经网络的感知野并不是越大越好。为了验证所提方法的有效性，将所提方法与ARCNN、FastARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2方法的运行时间进行比较，如表9所示。由表9可知：所提方法的运行时间比FastARCNN慢0.007秒，但它比ARCNN、DnCNN、WSR、DWCNNV1、DWCNNV1C和DWCNNV2方法都快。
+
+![](images/973720a1c74d005cc35027bf10702eb127f5921744c3e26fbb1f05fa8d0ecff6.jpg)  
+图3当量化参数对(Qstep0,Qstep1)为(216,216.57)时，中路增强图像质量对比
+
+![](images/a704fc241503c9813f071b0abdfa2482815576655764afb4fe72d4ac71008802.jpg)  
+Fig.3Image quality comparison of the central enhanced image with quantization parameter pair(QstepO,Qstep1) $\vDash$ (216,216.57   
+图4当量化参数对(Qstep0,Qstep1)为(216,216.57)时，第一个边路增强图像质量对比
+
+Fig.4Image quality comparisonof the first side enhanced image with quantization parameter pair(QstepO,Qstepl $\vDash$ (216,216.57)
+
+表8在量化参数对(Qstep0,Qstep1)为(216,216.57)时，所提方法使 用不同感知野的图像客观质量、网络总参数量和运行时间比较 Tab.8When the quantization parameter pair (Qstep0,Qstepl) is (216,216.57),the proposed method compares the objective image quality, the number of total network parameters and the running time of different receptive fields
+
+<html><body><table><tr><td>感知野</td><td>PSNR/SSIM</td><td>感知野</td><td>PSNR/SSIM</td></tr><tr><td>43</td><td>27.06/0.7219</td><td>187</td><td>27.13/0.7259</td></tr><tr><td>67</td><td>27.07/0.7233</td><td>223</td><td>27.10/0.7248</td></tr><tr><td>103</td><td>27.14/0.7246</td><td>367</td><td>27.11/0.7261</td></tr><tr><td>127</td><td>27.14/0.7250</td><td></td><td></td></tr></table></body></html>
+
+考虑到ARCNN 网络提取的特征存在着大量的冗余信息，而且该网络需要通过增加网络参数量来提升该网络的性能，这势必增加运行时间、计算成本和存储空间。虽然FastARCNN一定程度缓解了这些问题，但在量化参数对(Qstep0,Qstep1)较小即图像质量较高时，该方法恢复效果较差。相比于浅层网络ARCNN和FastARCNN方法，使用更深网络结构的DnCNN方法能够提升增强后的图像质量，但是也会增加网络的计算量。WSR和DWCNNV方法主要使用小波分解技术来解决图像增强问题。上述方法能够解决多描述压缩图像增强问题，但是它们并没有考虑到多描述编码的边路独立解码和中路联合解码的特性，而所提方法的网络结构可以充分利用多描述编码的边路独立解码和中路联合解码的特性以及参数共享的策略，在降低网络复杂度的同时扩大感知野使图像拥有更多的空间相关性。由此可见，本文方法是一种非常有效的多描述压缩图像增强方法。
+
+# 2.4消融实验与分析
+
+为了更好地分析所提的方法，将从以下四个方面进行消融实验仿真，即残差卷积块个数、边中路损失权重、训练批大小和学习率。首先，本实验提供了残差卷积块个数的消融实验结果，如表10 所示。在量化参数对(Qstep0,Qstep1)为(56,56.57)时，该表给出了当残差卷积块分别为1、3、5、7和9时所提方法的性能变化情况。从该表中可以看出，当残差卷积块的个数大于5时，所提方法的性能趋于稳定，但其参数量必然增加。在默认情况下，将残差卷积块的数量设置为5。其次，多描述编码图像不仅存在压缩伪影问题，而且存在不同程度的结构分裂问题，在训练时边路和中路的损失权重会影响所提方法的性能。本实验提供了当边路和中路损失函数边中路权重比分别是0.1:1、0:0.1和1:1时所提方法的性能对比，如表11所示。经过对比可知，当边中路损失函数权重为1:1时，所提方法的PSNR和SSIM指标最高。
+
+一般来说，CNN网络训练的超参数会影响网络的性能。最后，本实验提供了所提方法的学习率和批大小消融实验结果。如表12所示，对批大小为4、8、12和16进行了实验仿真。从该表中可以看出，所提方法对批大小不敏感。当批大小为8时，所提方法的PSNR和SSIM指标最高。如表13所示，本消融实验对学习率为1e-4、2e-4和3e-4分别进行实验仿真。从该表中可以发现所提方法对学习率也不敏感。虽然使用学习率为3e-4训练的模型的PSNR比2e-4的略高，但是使用学习率为3e-4训练的模型的SSIM比2e-4低，考虑到人眼更关注于图像的结构区域，在默认情况下将学习率设定为2e-4。
+
+![](images/573a79664a79728c94a60edbe18e6d786a6c176fe8ba2088ea0032d09bb97a40.jpg)  
+图5当量化参数对(Qstep0,Qstep1)为(216,216.57)时，第二个边路增强图像质量对比  
+Fig.5Image qualitycomparison of thesecond side enhanced image with quantization parameter pair(QstepO,Qstepl) $\vDash$ (216,216.57)
+
+Tab.9Comparison of average running time of different methods   
+
+<html><body><table><tr><td>对比方法</td><td>运行时间(秒/张)</td><td>对比方法</td><td>运行时间(秒/张)</td></tr><tr><td>ARCNN</td><td>0.045</td><td>DWCNNV2</td><td>0.056</td></tr><tr><td>FastARCNN</td><td>0.013</td><td>DWCNNV1</td><td>0.094</td></tr><tr><td>WSR</td><td>0.085</td><td>DWCNNV1C</td><td>0.032</td></tr><tr><td>DnCNN</td><td>0.022</td><td>本文方法</td><td>0.02</td></tr></table></body></html>
+
+# 3 结束语
+
+针对多描述编码的压缩失真问题，本文提出一种联合边路和中路解码特征学习的多描述编码图像增强方法。首先，提出一种残差递归网络，并将其作为边路和中路的低分辨率特征提取网络。其次，根据边路和中路的解码特性采用参数共享策略来有效地提取两个内容相同且具有差异性的边路图像特征。最后，将两个边路低分辨率特征/中路低分辨率特征通过边路/中路上采样重建网络来实现多描述压缩图像的增强。大量的实验结果表明，在模型复杂度、客观质量评价和视觉质量方面，本文方法优于很多的深度学习图像增强方法。在未来的工作中，将考虑使用单个深度学习模型解决不同量化参数下多描述编码图像的增强问题。
+
+表10所提方法的残差卷积块个数消融实验结果对比
+
+表9不同方法的平均运行时间比较  
+
+<html><body><table><tr><td rowspan="2">类别</td><td colspan="5">残差卷积块个数</td></tr><tr><td>1</td><td>3</td><td>5</td><td>7</td><td>9</td></tr><tr><td>边路1</td><td>32.33/0.8583</td><td>32.47/0.8610</td><td>32.52/0.8613</td><td>32.53/0.8613</td><td>32.53/0.8608</td></tr><tr><td>边路2</td><td>32.43/0.8587</td><td>32.54/0.8621</td><td>32.55/0.8628</td><td>32.57/0.8613</td><td>32.58/0.8629</td></tr><tr><td>中路</td><td>33.13/0.8703</td><td>33.24/0.8731</td><td>33.25/0.8737</td><td>33.27/0.8743</td><td>33.27/0.8738</td></tr><tr><td>平均数</td><td>32.63/0.8624</td><td>32.75/0.8654</td><td>32.77/0.8659</td><td>32.79/0.8656</td><td>32.79/0.8658</td></tr></table></body></html>
+
+表11所提方法的不同边中路损失权重消融实验结果对比
+
+Tab.l0Ablation study on the proposed method with diferent numbers of residual convolution block:   
+
+<html><body><table><tr><td>权重</td><td>边路1</td><td>边路2</td><td>中路</td><td>平均数</td></tr><tr><td>α: β=0.1:1</td><td>32.44/0.8579</td><td>32.55/0.8624</td><td>33.25/0.8734</td><td>32.75/0.8646</td></tr><tr><td>α:β=1:0.1</td><td>32.31/8.8534</td><td>32.52/0.8625</td><td>33.23/0.8737</td><td>32.69/0.8632</td></tr><tr><td>α:β=1:1</td><td>32.52/0.8613</td><td>32.55/0.8628</td><td>33.25/0.8737</td><td>32.77/0.8659</td></tr></table></body></html>
+
+表12所提方法的不同批大小消融实验结果对比
+
+Tab.11Ablation study on the proposed method with different side and central path loss weight:   
+Tab.12Ablation study on proposed method with different batch-size   
+
+<html><body><table><tr><td>批大小</td><td>边路1</td><td>边路2</td><td>中路</td><td>平均数</td></tr><tr><td>4</td><td>32.49/0.8623</td><td>32.52/0.86270</td><td>33.23/0.8740</td><td>32.75/0.8663</td></tr><tr><td>8</td><td>32.52/0.8613</td><td>32.55/0.8628</td><td>33.25/0.8737</td><td>32.77/0.8659</td></tr><tr><td>12</td><td>32.38/0.8595</td><td>33.55/0.8620</td><td>33.24/0.8737</td><td>32.72/0.8649</td></tr><tr><td>16</td><td>32.51/0.8630</td><td>32.52/0.8616</td><td>33.22/0.8729</td><td>32.75/0.8658</td></tr></table></body></html>
+
+表13所提方法的不同学习率消融实验结果对比  
+Tab.13Ablation study on proposed method with different learning rate:   
+
+<html><body><table><tr><td>学习率</td><td>边路1</td><td>边路2</td><td>中路</td><td>平均数</td></tr><tr><td>1e-4</td><td>32.47/0.8604</td><td>32.50/0.8617</td><td>33.18/0.8724</td><td>32.72/0.8648</td></tr><tr><td>2e-4</td><td>32.52/0.8613</td><td>32.55/0.8628</td><td>33.25/0.8737</td><td>32.77/0.8659</td></tr><tr><td>3e-4</td><td>32.52/0.8597</td><td>32.58/0.8626</td><td>33.28/0.8739</td><td>32.79/0.8654</td></tr></table></body></html>
+
+# 奓丐乂默：
+
+[1]Dabov K,Foi A,Katkovnik V,et al.Image denoising by sparse 3D transform domain collborative filtering [J].IEEE Trans on Image Processing,2007,16 (8): 2080-2095.   
+[2]Foi A,Katkovnik V,Egiazarian K.Pointwise shape-adaptive dct for highquality denoising and deblocking of grayscale and color images[J]. IEEE Trans on Image Processing,2007,16 (5): 1395-1411.   
+[3]Chang Huibin,Michael K Ng, Zeng Tieyong.Reducing artifacts in jpeg decompression via a learned dictionary [J].IEEE Trans on Signal Processing,2014,62 (3): 718-728.   
+[4]Zhang Jian, Xiong Ruiqin, Zhao Chen,et al. CONCOLOR: Constrained non-convex low-rank model for image deblocking [J]. IEEE Trans on Image Processing,2016,25 (3): 1246-1259.   
+[5]Dong Chao, Deng Yubin, Chen Chang Loy, et al. Compression artifacts reduction by a deep convolutional network [C]// Proceedings of the IEEE International Conference on Computer Vision.2015:576-584.   
+[6] Zhang Kai, Zuo Wangmeng,Chen Ynjin,et al. Beyond a gaussian denoiser:Residual learning of deep cnn for image denoising [J]. IEEE Trans on Image Processing,2017,26 (7): 3142-3155.   
+[7]Qiu Han,Zheng Qinkai,Memmi Gerard,et al. Deep residual learning based enhanced JPEG compression in the internet of things [J]. IEEE Trans on Industrial Informatics,2020,17:2124-2133.   
+[8]陈书贞，张祎俊，练秋生．基于多尺度稠密残差网络的 JPEG压缩伪 迹去除方法[J]．电子与信息学报,2019,41(10):2479-2486.(Chen Shuzhen，Zhang Yijun,Lian Qiusheng. JPEG compression artifacts reduction algorithm based on multi-scale dense residual network [J]. Journal of Electronics and Information Technology,2019,41 (10): 2479- 2486.)   
+[9]Zhang Xiaoshuai, Yang Wenhan,Hu Yueyu,et al.DMCNN: dual-domain multi-scale convolutional neural network for compression artifacts removal[C]// The 25th IEEE International Conference on Image Processing (ICIP) . IEEE,2018:390-394.   
+[10] Zhang Bolun,Chen Yaowu,Tian Xiang,et al. Implicit dual-domain convolutional network for robust color image compression artifact reduction[J].IEEE Trans on Circuits and Systems for Video Technology, 2020,30:3982-3994.   
+[11] Jin Zhi, Muhammad Zafar Iqbal,Bobkov Dmytro,et al.Aflexible deep CNN framework for image restoration [J]. IEEE Trans on Multimedia, 2019,22 (4): 1055-1068.   
+[12] Liu Pengju,Zhang Hongzhi,Lian Wei，etal. Multi-level wavelet convolutional neural networks [J]. IEEE Access,2019,7: 74973-74985.   
+[13] Liu Pengju, Zhang Hongzhi, Zhang Kai,et al. Multi-level wavelet-CNN for image restoration [C]// Proceedings of the IEEE conference on computer vision and pattern recognition workshops.2018: 773-782.   
+[14] Zhang Huanrong,Jin Zhi,Tan Xiaojun,et al. Towards lighter and faster: Learning waveletsprogressively for image super-resolution [C]// Proceedings of the 28th ACM International Conference on Multimedia. 2020: 2113-2121.   
+[15] Li Jianwei,Wang Yongtao,Xie Haihua,et al. Learning a single model with a wide rangeofquality factors for JPEG image artifacts removal [J]. IEEE Trans on Image Processing,2020,29: 8842-8854.   
+[16] Kirmemis O,Bakar G, Tekalp A M.Learned compression artifact removal by deep residual networks [C]// Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 2602-2605.   
+[17]周航，何小海，王正勇，等．采用双网络结构的压缩视频超分辨率重 建[J].电讯技术,2020,60(01):81-86.(Zhou Hang,He Xiaohai,Wang Zhengyong,et al. Super-resolution reconstruction of compressed video with dual network structure.Telecommunication Technology [J],2020, 60 (01): 81-86.)   
+[18]铉欣．基于多描述标量量化的分布式视频编码[D].西安：西安电 子科技大学,2012.   
+[19] Zhao Lijun,Bai Huihui,Wang Anhong,et al.Multiple description convolutional neural networks for image compresson [J]. IEEE Tran on Circuits and Systems for Video Technology,2018,29 (8): 2494-2508.   
+[20] Zhang Xiangjun,Wu Xiaolin.Standard-compliant multiple description image coding by spatial multiplexing and constrained least-squares restoration [C]// IEEE the 10th Workshop on Multimedia Signal Processing.IEEE,2008: 349-354.   
+[21] Purica A,Boyadjis B,Pesquet P B,et al.A convex optimization framework for video quality and resolution enhancement from multiple descriptions [J]. IEEE Trans on Image Processing,2018,28 (4):1661- 1674.   
+[22] Zhang Ting,Bai Huihui, Zhang Mengmeng,et al. Standard-compliant multiple description image coding based on convolutional neural networks [J].IEICE Trans on Information and Systems,2018,101 (10): 2543-2546.   
+[23] Zhu Shuyuan,He Zhiying,Meng Xiandong,et al.A new polyphase down-sampling-based multiple description image coding [J]. IEEE Trans on Image Processing,29 (2020): 5596-5611.   
+[24] Xu Yuanyuan.Predictive side decoding for human-centered multiple description image coding [J].EURASIP Journal onWireless Communications and Networking,2020 (2020): 1-14.   
+[25] Meng Lili,Liang Jie,Samarawickrama U,et al.Multiple description coding with randomly and uniformly ofset quantizers [J]. IEEE Trans on Image Processing,2013,23 (2): 582-595.   
+[26] Zhao Lijun,Bai Huihui,WangAnhong,et al.Learning a virtual codec based on deep convolutional neural network to compress image. Journal of Visual Communication and Image Representation,2019,63:102589- 102599.   
+[27] Yang Jianchao,John W,Thomas S H,et al.Image super-resolution via sparse representation, IEEE Trans on Image Processing,2010,19 (11): 2861-2873.   
+[28] Pablo A,Michael M,Charless F,et al. Contour detection and hierarchical image segmentation [J]. IEEE Trans on pattern analysis and machine intelligence,2010,33 (5): 898-916.

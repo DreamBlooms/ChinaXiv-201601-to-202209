@@ -1,0 +1,452 @@
+[
+    {
+        "type": "text",
+        "text": "智库建设",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中美三份智库评价报告的比较分析",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "|唐果媛 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中国科学院文献情报中心北京100190",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：[目的/意义]通过智库评价报告，探索智库评价对智库在政策制定中的作用、策略及局限性，分析智库评价的方法体系，引导智库发展，提升智库服务决策的途径，凝聚智库发展共识。[方法/过程]调研国内外智库评价报告，提炼出智库评价的一般流程，包括四个阶段：评价方法、评价体系、评价主客体以及评价结果，从这四个方面对中美三份智库评价报告进行对比分析。[结果/结论］中美三份智库评价报告各有特色，它们从不同的研究视野、构建了不同的评价指标体系，得出了具有差异性的评价榜单。中国智库应避免过度迷信榜单的排名，应借鉴国内外成功智库的经验，找到一条适合中国智库发展的道路。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：智库评价 评价体系专家评议法 智库分类号：C932.2DOI: 10.19318/j.cnki.issn.2096-1634.2016.02.13",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中共中央办公厅、国务院办公厅《关于加强中国特色新型智库建设的意见》印发后，国内各地区、各领域智库建设受到高度重视，智库报告、智库产品不断增多，但也存在着质量上良莠不齐的问题。如何科学、客观、公正地评价智库，是当前我国建设、发展和管理智库的一个重要内容。开展智库评价一方面有利于理解智库在政策制定中的作用、策略及局限性，另一方面通过分析智库评价的方法体系有助于引导智库发展，提升智库服务决策的途径，凝聚智库发展共识，因而具有重要的现实意义。但是如何能够较为全面真实地评估智库的影响力，是学术界正在积极探讨的一个问题。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近半年来，国内外相继发布了三份较有影响力的智库评价报告，分别为：2015年11月10日由中国社会科学院（以下简称“中国社科院”）中国社会科学评价中心发布的《全球智库评价报告》，这是首份由中国研究机构对全球智库发展情况做出的评价与排名；2016年1月27日由美国宾夕法尼亚大学（以下简称“宾大”）智库研究项目（TTCSP）发布的《全球智库报告2015》，这是自2006年以来，该项目发布的第九份全球智库研究发展报告，旨在研究全球各国智库在政府与社会发展中的作用，以期提高智库的知名度、绩效和影响力；同日，由上海社会科学院（以下简称“上海社科院”）智库研究中心发布的《2015中国智库报告》，该报告以分析中国智库成长与演进机制为基础，关注中国智库的发展现状，是自2014年以来，该研究中心发布的第三份中国智库报告。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前“智库”还没有一个确切的定义，较多学者和机构均对智库给出了自己的定义。三份报告也给智库下了不同的定义（见表1），但可发现其揭示的智库功能是一致的，即对公共政策的制定产生影响。中国社科院给出的智库定义强调了智库的成果一一自主的知识产品；宾大智库研究项目给出的智库定义较为具体，除了指明智库功能，还指出了其研究范畴为国内国际问题，研究成果是给出政策建议；上海社科院智库研究中心给出的智库定义比较宽泛，说明了智库的功能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1智库的定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/fb66d30206f88a87e19be07c46d4c4cd60102e584eb74200c674fe43aa789834.jpg",
+        "table_caption": [
+            "Table 1 The definition of think tanks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>报告名称</td><td>机构</td><td>智库定义</td></tr><tr><td></td><td>全球智库评价报告中国社科院中国社会科学评价中心</td><td>智库就是通过自主的知识产品对公共政策的制定产生影响的组 织。</td></tr><tr><td>全球智库报告2015</td><td>宾大智库研究项目</td><td>智库是参与和分析公共政策研究，对国内国际问题进行政策导向 研究、分析并提出建议的组织，从而使得决策者和公众对公共政 策作出明智的决定[1]。</td></tr><tr><td>2015年中国智库报告</td><td>上海社科院智库研究中心</td><td>智库是指对制定公共政策有影响力的专业组织。</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "这三份智库评价报告从不同研究视野、采用不同方法进行研究，其问世将推动国内外的智库建设与评价研究。可以认为，智库评价已形成多家竞争的新格局，评价方法的科学性、结果的合理性以及基于排名的智库分析成为评价智库排名的关键因素。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "智库评价流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在调研国内外智库评价报告的过程中，本文通过分析这些报告中的评价指标，发现智库评价不仅仅是评估智库对政策制定的影响力，还包括智库自身的研究能力、社会影响力、国际影响力等，只是不同的评价报告评价的侧重点有所不同。在此基础上，本文提炼出智库评价的一般流程，如图1所示，包含四个阶段：评价方法、评价体系、评价主客体以及评价结果。智库评价流程概括起来即是：首先确定采用某种或多种评价方法（定性分析、定量分析），并根据一定的评价依据搭建评价框架进而构建评价指标体系，然后借助评价客体（专家或客观数据）对一定范围内的智库进行评价，最后以排名的形式呈现评价结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "接下来，本文将从智库评价方法、评价体系、评价主客体和评价结果四个方面对三份智库报告进行对比分析，以期为正确对待智库评价榜单提供一定的依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/27bc352566c7cf5bdf146d48fd86fb035aec161a828822f4f030398dee6a1cc8.jpg",
+        "img_caption": [
+            "图1智库评价流程",
+            "Figure 1 The evaluation process of think tanks "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1评价方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国外的智库评价研究主要采用的方法为定量分析和定性分析。定量分析是依据一些易于识别且可计量的指标对智库活动和表现进行量化评估，概括起来一般包括四类指标[8：基本资源指标、知识生产指标、知名度指标、外部影响指标。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国外利用定量分析开展智库评价的学者有美国的多尔尼[2]（1996年，采用主流媒体对智库的引用率指标进行智库评价）、加拿大的埃布尔森[3（1999年，利用主流媒体和政府部门引用、咨询智库的次数来评价智库）、美国的智库专家里奇（2001年，通过智库的媒体引用和政府听证数据来评价智库）、加拿大的麦克纳特[5]（2009年，利用智库网站的超链接来评价智库的知名度），还有学者和机构对定量指标进行加权和赋值，如国际气候治理中心的气候研究领域智库报告[、芝加哥大学的斯塔克教授和海达威专家[]。定量分析方法评价的是智库的单项活动或某几项活动而非整体，其客观性较强，但目前学界对这些指标能否反映出智库的影响力并无共识。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "定性分析是指通过问卷调查、访谈、座谈及专家打分的方式来评价智库的方法，相比于定量分析，其特点是基于受访人和评议专家的主观印象对智库做出评价[8]。美国宾夕法尼亚大学的麦甘教授在1995年出版的《公共政策研究界的资金、学者和影响力竞争》中就曾使用定性分析来评价智库[9]，英国的Prospect杂志在 2001 年主办了年度最佳智库评选活动，采用方法是定性分析法中的专家评议法[8]",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d4d777980c936122e99363fe45e064381353bbbe5f7e10856165d42887c708a.jpg",
+        "table_caption": [
+            "表2三份智库评价报告采用的评价方法",
+            "Table 2 The evaluation methods of three think tank "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">evaluation reports</td></tr><tr><td>报告名称</td><td>评价方法</td><td>具体方法</td></tr><tr><td>全球智库报告2015 （宾大）</td><td>定性分析</td><td>专家评议法</td></tr><tr><td>2015 年中国智库报告 （上海社科院）</td><td>定性分析(主） 定量分析（辅）</td><td>主观排序法 多轮专家评议法</td></tr><tr><td rowspan=\"2\">全球智库评价报告 （中国社科院）</td><td>定性分析</td><td>专家评分法</td></tr><tr><td>定量分析（主）</td><td>智库调查问卷</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "三份智库评价报告采用的评价方法如表2所示。宾大《全球智库报告2015》采用了定性分析中的专家评议方法，即基于评选专家本人的主观感觉和印象对智库进行投票，然后根据专家的投票情况来确定全球各家智库的排名[10]。这一方法的优点是简便易操作，非常适合大量案例的研究，但缺点是主观偏见影响大，评价过程不可避免地会受到专家个人、地区、意识形态和学科的偏见，从而降低智库影响力测度的准确性[1]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "相比于宾大《全球智库报告2015》的单纯定性分析方法，上海社科院《2015年中国智库报告》主要采用定性分析和定量分析相结合的评价方法，虽然以定性分析为主、定量分析为辅，但在一定程度上辅助的定量分析弥补了定性分析主观性较大的缺陷。其中定性分析是通过调查问卷的形式采用主观排序法，定量分析是在定性分析的基础上参考部分智库的可公开指标进行多轮专家评议，对调查问卷得出的智库排名结果进行局部修正，力图在探索中不断完善主观评价与客观指标相结合的智库影响力评价方法。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与上海社科院《2015年中国智库报告》采用的评价方法相似，中国社科院《全球智库评价报告》同样采用了定量与定性相结合的评价方法，不同的是，以定量分析为主，力求突破单纯依靠主观定性评价方法的瓶颈，以构建全面的定性加定量的评价指标体系。相比于前两份报告仅对智库进行主观排名的定性分析方法，该报告采用了定性分析法中的专家评分法，通过分值对专家的主观性作了进一步区分。在定量分析方面，报告通过多种方式（邮件、电话、实地走访等）来搜集智库的相关客观评价数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评价体系",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "中国社科院的《全球智库评价报告》提出了智库的社会网络结构，报告[4]认为智库的传播者有制定政策者、影响政策者和利益相关者，三者之间有密切的交流，利益相关者试图直接影响政策制定者的决策，或者间接地通过政策影响者对政策制定者施压，获得对自身有利的政策出台。基于三类传播者，以及切合智库的工作流程，该报告提出从影响力、管理力、吸引力三个层次来构建全球智库综合评价框架。该报告将吸引力比作“漏斗”，显示智库的外在声誉和对外界的吸引能力；将管理力比作“孵化器”，展示智库的内在运行能力，即智库内部的有效管理；将影响力比作“喇叭”，展示智库的对外传播、政策作用等能力[15]。这三种能力相互作用，当影响力变大时会反哺吸引力，而吸引力变大则会促使更多的高品质人员聚集到智库，提升管理水平。该报告的评价指标体系共有五级指标，既包括定性指标（如研究结论独立性、明确的价值观和使命感等），也包括定量指标（如工作人员总数、人均年研发经费等）。同时，还为各指标设置了分值权重，其中影响力的分值权重最大，其次为吸引力，分值权重最小的为管理力。相比于另外两份评价报告，该报告的综合评价指标体系设计得更为细化具体，但没有交代权重分配的理论依据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "宾大智库研究项目的《全球智库智库报告2015》报告中虽没有明确提出其评价依据，但研究人员通过分析其评价指标体系，可以发现其评价依据[12]是政治学宏观理论中的多元理论和精英理论，以及微观理论中的知识运用理论。其中，多元理论指出政策是政府权衡各种利益集团的利益和要求的结果；精英理论指出政策是由少数有权势的社会精英决定的；知识运用理论将知识运用分为科学推动型、需求拉动型、扩散型和互动型四类。该报告从资源指标、效用指标、产出指标、影响力指标四个方面构建了一套评价体系，指标体系只包含了两级，第二级均为定性指标，是专家对智库进行排名参考的依据，且各指标重要性相同，由于均为定性指标，因此指标的可操作性较弱。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "该体系并未仅仅将研究成果作为衡量智库影响力的全部内容。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上海社科院的《2015年中国智库报告》只是对智库的影响力进行了评价，其评价体系的依据是约翰·加尔通的社会结构理论。该报告围绕智库的决策影响力、学术影响力、社会影响力、国际影响力、智库的成长能力五个方面构建了中国智库影响力评价指标体系，前四个影响力是与国际智库功能和影响的评价标准吻合的。该报告认为决策影响力是智库的核心影响力，是智库直接发挥作用与功能的有效途径；学术影响力、社会影响力是智库影响力构成的重要方面，能间接影响决策层；智库的国际影响力可以使其发挥“第二轨道”的独特作用；智库的成长能力体现的是智库本身的属性、掌握的社会资源以及未来的前景[13]。该指标体系包含三级，第二级指标共有12项，第三级指标共有27项，均为定量指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7660aaeb8c7c1f2824a6fe1ecb392ff31c9a8fa746470ba4765104578dc7c3b2.jpg",
+        "table_caption": [
+            "表3三份智库评价报告的评价体系 ",
+            "Table 3 The evaluation system of three think tank evaluation reports "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>评价依据</td><td>评价框架</td><td>指标级数</td><td>权重</td></tr><tr><td rowspan=\"2\">中国社科院《全球智库评价报告》</td><td rowspan=\"2\">社会网络结构</td><td>吸引力 管理力</td><td rowspan=\"2\">5级</td><td rowspan=\"2\">有</td></tr><tr><td>影响力</td></tr><tr><td rowspan=\"4\">宾大《全球智库报告2015》</td><td rowspan=\"4\">社会结构理论</td><td>资源指标</td><td rowspan=\"4\">2级</td><td rowspan=\"4\">无</td></tr><tr><td>效用指标</td></tr><tr><td>产出指标</td></tr><tr><td>影响力指标</td></tr><tr><td rowspan=\"5\">上海社科院《2015年中国智库报告》</td><td rowspan=\"5\">政治学宏观理论中的多元理论和精英理论， 以及微观理论中的知识运用理论</td><td>决策影响力</td><td rowspan=\"5\">3级</td><td rowspan=\"5\">无</td></tr><tr><td>学术影响力</td></tr><tr><td>社会影响力</td></tr><tr><td>国际影响力</td></tr><tr><td>智库成长能力</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3评价主客体",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1智库评价主体的来源智库评价报告的评价主体是智库，智库的范围、选取方法以及覆盖范围关系到智库排名的公信力。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从智库的范围来看（见表4），中国社科院《全球智库评价报告》和宾大《全球智库报告2015》均是对全球范围内的智库进行评价，上海社科院《2015年中国智库报告》评价的对象是中国活跃智库，其对活跃智库的定义[13]是：指具有比较固定的组织方式与运行方式，能够比较广泛和深入地参与公共制策过程，同决策层、媒体或学界保持良好互动关系，并享有一定国际或国内影响力的智库（存续时间在三年以上）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从智库选择的方法或渠道来看（见表4），三份智库评价报告采用的方法有所不同，因此获得智库的数量以及覆盖范围也有所差异。由于宾大《全球智库报告2015》和中国社科院《全球智库评价报告》评价主体均是全球智库，对比这两个报告，发现宾大《全球智库报告2015》的智库选择方法最简单，仅用了专家提名法，其要求专家在每个类别中提名5家智库，共获得了6848家提名智库，覆盖了全球200个国家。中国社科院《全球智库评价报告》选择智库的方法/渠道较为丰富，包括一手资料搜集（实地调研、问卷调研、电话调研、专家座谈）、二手资料搜集（网络搜集、图书资料、研究报告、智库网站公布的智库简介），共获得了全球1781家智库，数量仅约为宾大《全球智库报告2015》的1/4，报告中没有交代覆盖的国家数量。两份报告搜集的全球智库数量差距较大，其原因之一为目前智库还没有一个公认的确切定义，在专家提名阶段，专家会根据自己的理解来提名智库，标准不统一，可见宾大《全球智库报告2015》智库入选条件比较宽松，这是导致其数量较多的一个原因；原因之二为中国社科院《全球智库评价报告》采用了多种方法搜集筛选智库，在一定程度上对智库的范围进行了界定，因而中国社科院《全球智库评价报告》的来源智库数量较少。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/67be8a2871975e313d6e4084f963396228e270ca2a3a8a50190d8b5e8ae49f5c.jpg",
+        "table_caption": [
+            "表4智库评价主体 智库的来源",
+            "Table 4 Think tank subjects—the sources of think tanks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>范围</td><td>选择方法／渠道</td><td>智库数量</td><td>覆盖</td></tr><tr><td>宾大 《全球智库报告2015》</td><td>全球智库</td><td>专家提名</td><td>6846家</td><td>200个国家</td></tr><tr><td>中国社科院 《全球智库评价报告》</td><td>全球智库</td><td>一手资料搜集（实地调研、问卷调研、 电话调研、专家座谈），二手资料搜集 （网络搜集、图书资料、研究报告、智</td><td>1781家</td><td>未说明</td></tr><tr><td>上海社科院 《2015年中国智库报告》</td><td></td><td>库网站公布的智库简介） 中国活跃智库 互联网、主流媒体、图书馆、民政部门</td><td>除高校智库外，其余 智库共计279家</td><td>22个省</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "上海社科院《2015年中国智库报告》对智库的范围限定得比较窄，准入条件严格，强调的是高端智库，选择的智库历史较长、影响较大，有一定的组织系统。其选择渠道包括互联网、主流媒体、图书馆和民政部门，获得的智库总数在报告中没有交代，仅指出除高校智库外，其余智库共计279家，覆盖了22个省。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.2智库评价客体的来源智库评价客体主要包括参与评价的专家以及智库的客观数据",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从评价客体组成来看（见表5），宾大《全球智库报告2015》和上海社科院《2015年中国智库报告》的专家组成交代得比较清楚，相比上海社科院《2015年中国智库报告》，宾大《全球智库报告2015》的专家组成范围更广一些，还包括了行政管理人员、公共和私人捐助者，而中国社科院《全球智库评价报告》在专家组成方面则比较笼统，仅概括说明了专家来自各专业和各行业。但在三份报告中，中国社科院《全球智库评价报告》在客观评价数据获取方面做出了很大的努力，其通过邮件、电话和实地走访等方式尝试与所有来源智库联系获取相关评价数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从评价客体范围来看（见表5），上海社科院《2015年中国智库报告》不仅交代了覆盖的省份数量，还说明了部分权威专家的身份，以此阐释评价结果的公平性和权威性；宾大《全球智库报告2015》，仅交代了专家来自200个国家；中国社科院《全球智库评价报告》，说明了专家来自世界主要国家和地区，但没有说具体国家数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从评价客体的总量及有效量来看（见表5），中国社科院《全球智库评价报告》在全球给20162名专家发出了智库打分邀请，回收到的有效的专家打分结果数量报告中未曾提及，同时还向1575家智库发放了客观数据调查问卷，回收到有效问卷156份；宾大《全球智库报告2015》邀请了全球21500多名专家参加智库评选，共收到4750份有效回复；上海社科院《2015年中国智库报告》向全中国2500名专家发放了调查问卷，回收到1702份有效问卷。从数据的有效性来看（有效量/总量），上海社科院《2015年中国智库报告》，约为 $68 \\%$ ；宾大《全球智库报告2015》，约为$22 \\%$ ；中国社科院《全球智库评价报告》的客观数据获取的有效性为 $10 \\%$ O",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/7820a4053e1ac7623a3f1abeaa79d3d4c6e35ddc8c7573780d260e8ed6cc4d7d.jpg",
+        "table_caption": [
+            "Table 5 The sources of think tank objects "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>组成/方法</td><td>范围</td><td>总量</td><td>有效量</td></tr><tr><td>中国社科院《全球 智库评价报告》</td><td>专家组成：各专业及各行业的专家</td><td>世界主要国家和地区</td><td>20162名</td><td>未说明</td></tr><tr><td>宾大《全球智库报</td><td>客观数据获取方法：邮件、电话、实地走访 专家组成：大学教师、行政管理人员、新闻 记者、公共和私人捐助者、政府政策制定者、</td><td>所有来源智库 200个国家</td><td>1575</td><td>156</td></tr><tr><td>告2015》 上海社科院《2015</td><td>智库专家 科研院所科研人员、高校党校教师、政府官员、 媒体记者，全国性智库会议和党校培训的参 有424人拥有正高职称、或</td><td>覆盖中国22个省、自治区、 直辖市;</td><td>21500多名</td><td>4750</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4智库评价结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "三份智库评价报告给了不同数量和类别的榜单，各有特色。数量最少的为中国社科院《全球智库评价报告》，只有一份全球智库综合评价百强榜单，共有31个国家/国际组织的智库上榜，智库数量排第一的国家是美国（18家），排第二的为德国（11家），中国和日本以9家智库并列排第三。上海社科院《2015年中国智库报告》根据中国智库分类演化与研究领域的特点，设计了四类排行榜：综合影响力排名、分项影响力（决策影响力、学术影响力、社会影响力、国际影响力）排名、系统影响力（高校智库、地方科研院所智库、党政军智库、社会智库）排名、专业影响力（经济建设、政治建设、文化建设、社会建设、生态建设、国际关系）排名，共计15份排行榜。宾大《全球智库报告2015》榜单数量最多，四类榜单：全球榜单、区域榜单、研究领域榜单、特殊成就榜单，共计52份榜单。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中国社科院《全球智库评价报告》发布的是全球智库百强榜单，宾大《全球智库报告2015》发布的52份榜单中，上榜的智库数量较多，最多的为全球智库175强榜单，上海社科院《2015年中国智库报告》发布的15份榜单中，上榜的智库数量较少，最多为智库综合影响力15强榜单。可见中国发布的智库榜单上榜的智库普遍要少于美国宾大发布的智库榜单，美国智库榜单的入选条件宽松，因国情不同，美国发布的智库榜单中，美国智库大多数都是不同规模、不同定义、不同影响力的民间智库，非政府组织。可见，中国发布的智库榜单更注重质量、规模、影响力，而非数量，美国发布的智库榜单更注重数量而非质量和影响力。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/16b477e33156ad9e8f791eae6f35ccf5783d75c5c7c94922a50871dd5e9a032b.jpg",
+        "table_caption": [
+            "表5智库评价客体的来源",
+            "表6智库评价榜单类别",
+            "Table 6 The categories of think tank evaluation ranking lists "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>榜单类别 数量（份）</td><td>分值</td></tr><tr><td>中国社科院《全球 智库评价报告》</td><td>全球智库榜单 1</td><td>有</td></tr><tr><td>上海社科院《2015 年中国智库报告》 系统影响力（高校智库、地方科研院所智库、党政军智库、社会智库）</td><td>综合影响力 分项影响力（决策、学术、社会、国际) 15</td><td>无</td></tr><tr><td>宾大《全球智库报 告2015》 研究领域榜单</td><td>专业影响力（经济建设、政治建设、文化建设、社会建设、生态建设、国际关系） 全球榜单 区域榜单</td><td>52 无</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在全球智库综合排名方面，《全球智库报告2015》（宾大）公布了全球智库175强榜单，《全球智库评价报告》（中国社科院）公布了全球智库100强榜单。虽然两份报告采用了不同的评价方法、评价指标体系、评价主体/客体的选择方法，但两份报告得出的全球智库排行榜却并非完全不同，也存在一定的相似之处，可相互印证，也可说明两种评价方法都有所长。但从两份报告中可以看出，中国社会科学院的报告更追求严格的智库准入条件和评价方法上的科学性，采用了定性和定量形结合的评价方法，提出了相对严格的智库准入条件。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "接下来，本文从这两份报告全球智库综合排名榜中截取前20强（见表7）来对比两份智库报告评价结果的异同。首先从智库所属国家来看，均覆盖了8个国家，就数量来看，美国均是一家独大，在《全球智库报告2015》（宾大）前20强榜单中美国占了一半的席位，可见美国在全球智库领域占有绝对优势。其次从智库异同来看，两份榜单上接近一半的智库（共9家，其中美国6家、英国2家、比利时1家。）是相同的，见表7灰色部分。在《全球智库评价报告》中国社科院）的榜单中，美国智库排名第一是因为定性结合定量评价的计算得出的结果，并非单一定性评价的结果。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/787ef2db616be1ba1a4a702cc8d8a29c65afd8826541f7bbbe7ad27121a1732e.jpg",
+        "table_caption": [
+            "表7全球智库综合排名前20强",
+            "Table 7 The top 20 of the overall ranking of global think tanks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">《全球智库评价报告》 （中国社科院）</td><td colspan=\"3\">《全球智库报告2015》</td></tr><tr><td>排名</td><td>国家</td><td>机构名称</td><td>排名 国家</td><td>机构名称</td></tr><tr><td>1</td><td>美国</td><td>卡内基国际和平基金会</td><td>1 美国</td><td>布鲁金斯学会</td></tr><tr><td>2</td><td>比利时</td><td>布鲁盖尔</td><td>2 英国</td><td>查塔姆社——皇家国际事务研究所</td></tr><tr><td>3</td><td>美国</td><td>传统基金会</td><td>美国</td><td>卡内基国际和平基金会</td></tr><tr><td>4</td><td>英国</td><td>查塔姆社- -皇家国际事务研究所</td><td>美国</td><td>战略与国际研究中心</td></tr><tr><td>5</td><td>瑞典</td><td>斯德哥尔摩国际和平研究所</td><td>比利时</td><td>布鲁盖尔</td></tr><tr><td>6</td><td>美国</td><td>布鲁金斯学会</td><td>美国</td><td>外交关系委员会</td></tr><tr><td>7</td><td>德国</td><td>康拉德·阿登纳基金会</td><td>英国</td><td>国际战略研究所</td></tr><tr><td>8</td><td>美国</td><td>伍德罗·威尔逊国际学者中心</td><td>美国</td><td>兰德公司</td></tr><tr><td>9</td><td>中国</td><td>国务院发展研究中心</td><td></td><td>伍德罗·威尔逊国际学者中心</td></tr><tr><td>10</td><td>英国</td><td>国际战略研究所</td><td>10</td><td>国际特赦组织（大赦组织）</td></tr><tr><td>11</td><td>日本</td><td>公益财团法人日本国际问题研究所</td><td></td><td>加图研究所</td></tr><tr><td>12</td><td>日本</td><td>防卫研究所</td><td>12 美国</td><td>传统基金会</td></tr><tr><td>13</td><td>美国</td><td>外交关系委员会</td><td>13</td><td>番达曹格图里奥瓦尔加斯大学</td></tr><tr><td>14</td><td>英国</td><td>海外发展研究所</td><td>14</td><td>国际透明组织</td></tr><tr><td>15</td><td>日本</td><td>独立行政法人日本贸易振兴机构亚洲 经济研究所</td><td>15</td><td>日本国际事务研究所</td></tr><tr><td>16</td><td>韩国</td><td>科学技术政策研究院</td><td>16</td><td>法国国际关系研究所</td></tr><tr><td>17</td><td>英国</td><td>欧洲改革中心</td><td>17 加拿大</td><td>菲沙研究所</td></tr><tr><td>18</td><td>德国</td><td>生态研究所</td><td>18 德国</td><td>德国国际和安全事务研究所</td></tr><tr><td>19</td><td>美国</td><td>战略与国际研究中心</td><td>19 美国</td><td>美国进步中心</td></tr><tr><td>20</td><td>德国</td><td>贝塔斯曼基金会</td><td>20</td><td>彼得森国际经济研究所</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了更直观地比较三份智库报告给出的榜单的差异，接下来本文将对三份报告中智库综合排名的中国智库排名进行比较分析，表8展示了三份智库报告中中国智库的综合排名，结果有所差异。（1）高校智库的处理有所不同，《2015年中国智库报告》将高校智库二级单位合并到学校层面进行评价，《全球智库评价报告》和《全球智库评价报告》则直接对高校智库二级单位进行评价；（2）中国社会科学院在宾大《全球智库报告2015》和上海社科院《2015年中国智库报告》的榜单中均排中国智库第一名，但在中国社科院《全球智库评价报告》的榜单中没有出现，是因为评价课题组所在的中国社会科学评价中心隶属于中国社会科学院，为保证评价的客观公正，未将中国社会科学院及其所属智库纳入该报告的排行榜。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "但三份智库报告也存在一些相同的地方，即有些智库均进人了三份智库报告的榜单，如：国务院发展研究中心、中国国际问题研究院、北京大学、中国人民大学。当然，这也从一个侧面反映出这几家机构是中国表现比较突出的智库。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/0981f01e4cab8745171affb4e4f31fe69cc1ffce0902ec143d64dd42be890eac.jpg",
+        "table_caption": [
+            "表8三份智库评价报告中综合影响力排名靠前的中国智库",
+            "Table8 Chinese think tanks on the topof the comprehensive influence ranking listin three think tank reports "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"3\">《全球智库评价报告》 （中国社科院）</td><td colspan=\"2\">《全球智库报告2015》 （宾大）</td><td>《2015年中国智库报告》 （上海 社科院）</td></tr><tr><td>中国排名</td><td>全球排名</td><td>智库名称</td><td>全球排名</td><td>智库名称</td><td>智库名称</td></tr><tr><td>1</td><td>9</td><td>国务院发展研究中心</td><td>31</td><td>中国社会科学院</td><td>中国社会科学院</td></tr><tr><td>2</td><td>23</td><td>中国国际问题研究院</td><td>35</td><td>中国国际问题研究院</td><td>国务院发展研究中心</td></tr><tr><td>3</td><td>35</td><td>中国现代国际关系研究院</td><td>39</td><td>中国现代国际关系研究院</td><td>北京大学</td></tr><tr><td>4</td><td>40</td><td>中国国际经济交流中心</td><td>50</td><td>国务院发展研究中心</td><td>清华大学</td></tr><tr><td>5</td><td>59</td><td>国家发展和改革委员会宏 观经济研究院</td><td>64</td><td>北京大学国际战略研究院</td><td>中国科学院</td></tr><tr><td>6</td><td>67</td><td>商务部国际贸易经济合作 研究院</td><td>72</td><td>上海国际问题研究院</td><td>复旦大学</td></tr><tr><td>7</td><td>84</td><td>清华大学国情研究院</td><td>103</td><td>天则经济研究所</td><td>中共中央党校</td></tr><tr><td>8</td><td>87</td><td>中国人民大学国家发展与 战略研究院</td><td>110</td><td>中国与全球化智库</td><td>上海社会科学院</td></tr><tr><td>9</td><td>96</td><td>北京大学国家发展研究院</td><td>150</td><td>人大重阳金融研究院</td><td>中国人民大学</td></tr><tr><td>10</td><td></td><td></td><td></td><td></td><td>中国工程院</td></tr><tr><td>11</td><td></td><td></td><td></td><td></td><td>中国国际问题研究院</td></tr><tr><td>12</td><td></td><td></td><td></td><td></td><td>国家发改委宏观经济研究院</td></tr><tr><td>13</td><td></td><td></td><td></td><td></td><td>上海国际问题研究院</td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td>中国国际经济交流中心</td></tr><tr><td>15</td><td></td><td></td><td></td><td></td><td>南京大学</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "结语 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "三份评价榜单的出炉，反映了当前中美两国对智库发展的高度关注，也反映了对智库认知标准上的差异。虽然中国两份智库评价报告还存有不足，有待进一步完善，但两份报告与美国智库报告同时出炉，为提升中国智库的国际影响力，争夺中国智库的国际话语权，起到了积极的助推作用，也为人们客观了解美国智库和美国的评价体系，避免盲目照抄西方智库的模式，提供了可供比较的借鉴。中国非常需要通过建立高质量的智库来建立决策咨询制度，保证中国的政治、经济的可持续发展，参与全球治理。当下是建设中国特色新型智库最好的时代。智库评价报告为我们学习和借鉴国内外优秀智库提供了线索和参考，也为中国特色新型智库赶超发达国家（尤其是美国）智库提供了目标智库。但中国智库应避免过度看重榜单的排名，排名是相对的，智库成果的价值和智库自身对公共政策及社会的影响力更为重要中国智库的发展需要多多借鉴国内外成功智库的经验，找到一条适合中国新型特色智库发展的道路。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1]James G.McGann.2015 Global Go To Think Tank IndexReport[EB/OL]. [2016-4-4].http://repository.upenn.edu/cgi/viewcontent.cgi?article=1oo9&context=think_tanks.  \n[2] Michael Dolny,The think tank spectrum:For the media,some thinkers are more equal than others,May/June 1996  \n[3] Donald E.Abelson,Public Visibility and PolicyRelevance,1999,pp.240-270.  \n[4] Andrew Rich.Think Tanks,Public Policy and thePoliticsof Expertise [M].New York:Cambridge UniversityPress,2004.  \n[5] Kathleen McNutt and Gregory Marchildon,ThinkTanksand the Web,2009,pp.219-236.  \n[6] I.Alloisio et al.,The 2013 ICCG Climate Think TankRanking:A Methodological Report,Venice,Italy:International Center for Climate Governance,June 2014,pp.28-39.  \n[7]Raymond J. Struyk and Samuel R Haddaway,WhatMakes a Successful Policy Research Organization inTransitionand Developing Countries ? Nonprofit PolicyForum,Article 4,2.1,May 2011,pp.1-30.  \n[8] 崔玉军.国外智库评价：理论与实践[J].社会科学论坛,2015,11: 19-33.  \n[9] James G.McGann:The Competition forDollars,Scholarsand Influence in the Public Policy Research Industry,Latham, MD: Rowman& Littlefield,1995,pp.81-120.  \n[10]崔玉军.中国社会科学院信息情报研究院．《全球智库报告》“权威性”难以服众[N].中国社会科学报，2015-02-04B06.  \n[11]王继承.麦甘“全球智库报告”排名机制及其影响（上)[N].中国经济时报，2012-08-28(005).  \n[12]陈媛媛,李刚,关琳.中外智库影响力评价研究述评[J].新疆师范大学学报（哲学社会科学版）,2015,04:35-45.  \n[13]上海社会科学院智库研究中心.2015年中国智库报告-影响力排名与政策建议[R/OL].[2016.4.4]http://www.sass.stc.sh.cn/eWebEditor/UploadFile $/ 0 0 \\mathrm { n } /$ ull/20160128161350250.pdf.  \n[14]全球智库评价报告（第一部分）[EB/OL].[2016-4-4].http://ex.cssn.cn/xspj/xspj_tt/201511/t20151119_2704084.shtml.  \n[15]全球智库评价报告（第三部分）[EB/OL].[2016-4-4].http://www.cssn.cn/xspj/201512/t20151203_2739559_3.shtml.",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Comparative Analysis of Three Think Tank Evaluation Reports from China and America ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Tang Guoyuan ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "National Science Library, Chinese Academy of Sciences,Beijing 100190 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract: [Purpose/significancel This paper aims to explore the effect of the think tank evaluation on the function,strategies and limitation of think tanks in the process of making policies through analyzing think tank evaluation reports.It also analyzes the method system of the think tank evaluation to guide the development of think tanks,improve decision-making approaches of think tank services and gather the consensus of think tank development. [Method/process] We investigated and surveyed domestic and foreign think tank evaluation reports to summarize the general process of the think tank evaluation,including the evaluation method,the evaluation system,the evaluation subject as wellas object and evaluation results.Wecompared and analyzed three think tank evaluation reports from China and America in these four aspects.[Result/conclusion] Results show that there are different characteristics of these three think tank evaluation reports.They construct different evaluation index systems from diffrent perspectives of research and make evaluation lists with diffrences. Chinese think tanks should avoid emphasizing these ranking lists too much and learn from successful think tanks at home and abroad to find out an appropriate way of developing Chinese think tanks. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Keywords: think tank evaluation evaluation system expert evaluation method think tank 收稿日期：2016-04-10修回日期：2016-04-15本文责任编辑：初景利 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

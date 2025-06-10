@@ -1,0 +1,257 @@
+# 改进粒子群优化的极限学习机软测量建模方法
+
+盛晓晨‘，史旭东‘，熊伟丽a,b
+
+(江南大学 a.物联网工程学院，江苏无锡 214122;b.轻工过程先进控制教育部重点实验室，江苏 无锡 214122)
+
+摘要：工业过程常含有显著的非线性、时变等复杂特性，传统的极限学习机有时无法充分利用数据信息，故所建软测量模型预测性能较差。为了提高极限学习机的泛化能力和预测精度，提出一种改进粒子群优化的极限学习机软测量建模方法。首先，利用高斯函数正态分布的特点实现惯性权重的自适应更新，并线性变化学习因子，以提高粒子群优化算法的收敛速度和搜索性能；然后，将该算法用于优化极限学习机的惩罚系数和核宽，得到一组最优超参数；最后，将该方法应用于脱丁烷塔过程软测量建模中。仿真结果表明，优化后的极限学习机模型预测精度有明显的提高，验证了所提方法不仅是可行的，而且具有良好的预测精度和泛化性能。
+
+关键词：软测量建模；极限学习机；粒子群优化算法；自适应权重 中图分类号：TP273 doi:10.19734/j.issn.1001-3695.2018.11.0863
+
+Soft sensor modeling for extreme learning machine based on improved particle swarm optimization
+
+Sheng Xiaochena, Shi Xudonga, Xiong Weilia, b (a.SchoolofnternetofThingsEngineering,JiangnanUniversityb.KeyLaboratoryofAdvancedProcessControlforLight Industry (Ministry ofEducation),Jiangnan University,Wuxi Jiangsu214122,China)
+
+Abstract:Industrial processs oftencontain significant strong nonlinearityandtime-varying behavior.Traditional extreme learning machine (ELM) based soft sensor sometimes fails to makeuseof data informationefectivelyand has poor prediction performance.This paper proposed an improved particle swarm optimization algorithm.It has beter convergence speed and search ability than standard particle swarm optimization (PSO).This algorithm with an adaptive weight updates learning factorlinearlyand playsan important rolein finding theoptimalpenaltycoeficientand kernelparameterofELM. The butane concentration of debutanizer column process simulation results verify that the proposed method has good prediction accuracy and generalization performance.
+
+Key words: soft sensor modeling; extreme learning machine; particle swarm optimization; adaptive weight
+
+# 0 引言
+
+实际的工业生产过程中，存在许多与产品质量密切相关的质量变量，由于经济或技术局限难以进行在线实时监测和控制，如醋酸共沸精馏中的醋酸浓度1、油品黏度及组分、青霉素发酵过程产物浓度[2]等，软测量技术通过构建易测辅助变量和难测主导变量之间的数学模型，可以很好地解决这个问题[3]。常用的软测量模型如主元回归(principal componentregression,PCR)[4]、偏最小二乘(partial least squares,PLS)[5]、人工神经网络(artificial neural networks,ANN)[6]、支持向量机(support vector machines,SVM)[7]、高斯过程回归(Gaussianprocessregression,GPR)[8]等都可以得到良好的预测结果。
+
+软测量建模方法中，极限学习机(extreme learningmachine,ELM)由于具有预测精度高、学习速度快、参数少等优点，近几年被广泛应用于工业过程。相比于传统神经网络[10]、最小二乘支持向量机[]等，ELM模型克服了梯度下降学习算法需要多次迭代的缺点，能在满足所需精度要求的同时，提高神经网络的学习速度。然而 ELM 也存在一些自身的不足，如很难精确找到最优超参数、其泛化性能和预测精度也有待进一步提高等。尤其是参数选取不当，会导致网络学习性能严重不足，对查询样本的预测能力变差，从而不能满足实际工业的要求。目前，对于惩罚系数和核宽两个参数常采用人工选取的方式，该方式建立在大量的实验基础之上，花费的时间较长，且参数设置不当也会导致模型精度不高，因此，一些学者将群智能优化算法应用于ELM的惩罚系数和核宽的选取。Wang等人[12]提出用灰狼优化(greywolfoptimization，GWO）算法选取极限学习机的惩罚系数和核宽所建模型具有更高的分类精度。Lyu等人[13]将改进的细菌觅食优化(improved bacterial foraging optimization,IBFO）算法应用于ELM超参数的选取，且在躯体化障碍患者的诊断方面取得了成功的应用。然而GWO算法存在收敛速度慢、容易陷入局部最优的缺点，IBFO算法需要较多的参数设置，且寻优性能很大程度上受到趋化步长取值大小的影响，若优化算法的参数选取不当，仍然无法达到提高极限学习机模型泛化性能的目的。粒子群优化(particleswarmoptimization,PSO)[14]最早是由Kennedy 和Eberhart在1995年提出的，该算法原理清晰、可调参数少且收敛速度快，在机器学习算法的性能提升方面得到了较大的应用。Lin等人[15]利用PSO算法对SVM 进行特征选择以及最优超参数选取，明显提高SVM的泛化能力和分类准确性。陶新民等人[16提出了一种改进的粒子群-K均值聚类算法，该算法充分利用PSO全局搜索能力强的特性弥补了K-均值聚类算法易陷入局部最优的缺陷。Grimaldi等人[17]将PSO算法应用于神经网络权值配置，极大地改善了网络的学习性能。标准PSO算法在处理一些简单函数优化、参数选取等问题时体现出良好的寻优性能，但是在求解大量非线性、多峰函数的优化问题时存在早熟收敛、精度不高、稳定性差等缺陷，有时不容易得到全局最优解。
+
+本文通过引入一种基于高斯下降的惯性权重改变策略，并线性变化学习因子，将PSO算法进行改进，以更快地跳出局部最优，提高网络收敛速度，加快对全局最优解的搜索，寻优效果得到显著的提升；并将改进的PSO 算法用于选取ELM的惩罚系数和核宽，得到由最优超参数确定的ELM网络结构，不仅克服了由于参数选取不当导致神经网络收敛性差的缺点，而且明显提高了ELM模型的泛化能力和预测精度。通过脱丁烷塔过程的仿真研究，并通过不同建模方法的比较，对所提方法的有效性和精度进行了验证。
+
+# 1 极限学习机
+
+极限学习机是2004 年由Huang 等人提出的一种基于单隐层前馈神经网络(single-hidden layer feedforward networks,SLFNs）的学习算法[18]，该算法随机给定输入层权值和隐含层节点偏置，只需设置网络的隐含层节点个数，便可通过求解线性方程组的最小二乘解获得输出权值，以此得到最优解[9]。
+
+对于含有 $\mathbf { \Omega } _ { N }$ 个不同样本的训练集 $\left\{ X , Y \right\} = \left\{ \mathbf { x } _ { i } , \mathbf { y } _ { i } \right\} _ { i = 1 } ^ { N }$ ，其中$\pmb { x } _ { i } = \left[ x _ { i 1 } , x _ { i 2 } , \cdots , x _ { i n } \right] ^ { \mathrm { T } } \in R ^ { n }$ ， $\mathbf y _ { i } = \left[ \mathbf y _ { i 1 } , \mathbf y _ { i 2 } , \cdots , \mathbf y _ { i m } \right] ^ { \mathrm { T } } \in R ^ { m }$ ， $n$ 为输入样本的维数， $\mid m \mid$ 为输出样本的维数，该神经网络的输出可表示为
+
+$$
+f \left( \boldsymbol { \mathbf { \mathit { x } } } _ { i } \right) = \boldsymbol { \mathit { h } } \left( \boldsymbol { \mathbf { \mathit { x } } } _ { i } \right) \beta \ , i = 1 , 2 , \cdots , N
+$$
+
+其中： $\pmb { h } ( \pmb { x } _ { i } )$ 表示隐含层相对于 $\ \pmb { x } _ { i }$ 的输出向量，即隐含层输出矩阵， $\beta$ 表示输出权重。
+
+ELM的训练目标是最小化训练误差和输出权值范数，可表示为一个带约束的优化问题：
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle { \operatorname* { m i n } _ { \beta \in { \cal R } ^ { n _ { h } \times n _ { 0 } } } \frac { 1 } { 2 } \| \beta \| ^ { 2 } + \frac { C } { 2 } \sum _ { i = 1 } ^ { N } \| e _ { i } \| ^ { 2 } } } \\ { \displaystyle { s . t . h ( x _ { i } ) \beta = y _ { i } ^ { \top } - e _ { i } ^ { \top } , i = 1 , 2 , \cdots , N } } \end{array} \right.
+$$
+
+其中： $\pmb { e } _ { i } \in \pmb { R } ^ { m }$ 是第 $i$ 个训练样本的训练误差； $c$ 是惩罚系数。求解该优化问题，可得到
+
+$$
+\pmb { \beta } = \pmb { H } ^ { \operatorname { T } } \bigg ( \pmb { H } \pmb { H } ^ { \operatorname { T } } + \frac { \pmb { I } _ { N } } { C } \bigg ) ^ { - 1 } \pmb { Y }
+$$
+
+其中： $\pmb { H } = \left[ \pmb { h } ( \pmb { x } _ { 1 } ) ^ { \mathrm { T } } , \pmb { h } ( \pmb { x } _ { 2 } ) ^ { \mathrm { T } } , \cdots , \pmb { h } ( \pmb { x } _ { N } ) ^ { \mathrm { T } } \right] ^ { \mathrm { T } }$ ； $\pmb { Y } = \left[ \pmb { y } _ { 1 } , \pmb { y } _ { 2 } , \cdots , \pmb { y } _ { N } \right] ^ { \mathrm { T } }$ ； $\boldsymbol { I } _ { N }$ 是维数为 $N$ 的单位矩阵。应用Mercer's条件定义核矩阵[19]:
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \pmb { \mathcal { Q } } _ { E L M } = \pmb { H } \pmb { H } ^ { \mathrm { T } } } \\ { \Omega _ { E L M i , j } = h ( \pmb { x } _ { i } ) h \big ( \pmb { x } _ { j } \big ) = K \big ( \pmb { x } _ { i } , \pmb { x } _ { j } \big ) } \end{array} \right. } \end{array}
+$$
+
+在本文中选用高斯核函数：
+
+$$
+K { \big ( } x _ { i } , x _ { j } { \big ) } = \exp \left\{ - { \frac { \left\| x _ { i } - x _ { j } \right\| ^ { 2 } } { 2 \sigma ^ { 2 } } } \right\}
+$$
+
+其中： $\sigma$ 为核函数的宽度参数，决定了核函数的径向作用范围。此时，ELM的输出可由式(6)表示。
+
+$$
+\begin{array} { l } { { \displaystyle f \big ( \boldsymbol { x } \big ) = h \big ( \boldsymbol { x } \big ) \beta = h \big ( \boldsymbol { x } \big ) H ^ { \intercal } \bigg ( H H ^ { \intercal } + \frac { I _ { N } } { C } \bigg ) ^ { - 1 } Y } } \\ { { \displaystyle ~ = \overbrace { \left[ \begin{array} { c } { K \big ( \boldsymbol { x } , \boldsymbol { x } _ { 1 } \big ) } \\ { \vdots } \\ { K \big ( \boldsymbol { x } , \boldsymbol { x } _ { N } \big ) } \end{array} \right] } ^ { K \big ( \boldsymbol { x } , \boldsymbol { x } _ { 1 } \big ) } \overbrace { \left( \pmb { \mathscr { Q } } _ { E L M } + \frac { \boldsymbol { I } _ { N } } { C } \right) ^ { - 1 } Y } ^ { \big ] } } } \end{array}
+$$
+
+# 2 改进的粒子群优化算法
+
+# 2.1标准 PSO 算法
+
+在 $D$ 维空间内，种群规模为 $N$ 的粒子群可表示为${ \pmb X } = ( { \pmb x } _ { 1 } , { \pmb x } _ { 2 } , \cdots , { \pmb x } _ { N } ) ^ { \mathrm { \scriptscriptstyle T } } \in \mathrm { \bf R } ^ { N \times D }$ ，粒子的位置和速度可分别表示为$\pmb { x } _ { i } = ( \pmb { x } _ { i _ { 1 } } , \pmb { x } _ { i _ { 2 } } , \cdots , \pmb { x } _ { i D } ) ^ { \mathrm { T } }$ 和 $\pmb { \nu } _ { i } = ( \pmb { \nu } _ { i _ { 1 } } , \pmb { \nu } _ { i _ { 2 } } , \cdots , \pmb { \nu } _ { i D } ) ^ { \mathrm { T } }$ ，粒子和整个种群在经迭代后得到的历史最好位置，可分别表示为个体极值$p _ { \mathrm { b e s t } } = ( p _ { i 1 } , p _ { i 2 } , \cdots , p _ { i D } ) ^ { \mathrm { T } }$ 和群体极值 $g _ { \mathrm { { b e s t } } } = ( g _ { i 1 } , g _ { i 2 } , \cdots , g _ { i D } ) ^ { \mathrm { { T } } }$ 。
+
+在寻找最优值的迭代中，每个粒子 $\pmb { x } _ { i }$ 通过个体极值和群体极值来调整自身的位置和速度，即
+
+$$
+\nu _ { i d } ^ { k + 1 } = \nu _ { i d } ^ { k } + c _ { 1 } r _ { 1 } \left( p _ { i d } ^ { k } - x _ { i d } ^ { k } \right) + c _ { 2 } r _ { 2 } \left( p _ { g d } ^ { k } - x _ { i d } ^ { k } \right)
+$$
+
+$$
+x _ { i d } ^ { k + 1 } = x _ { i d } ^ { k } + \nu _ { i d } ^ { k }
+$$
+
+其中： $i = 1 , 2 , \cdots , N$ ； $d = 1 , 2 , \cdots , D$ ； $k$ 为当前迭代次数； $c _ { 1 } , c _ { 2 } \geq 0$   
+为学习因子； $r _ { 1 } , r _ { 2 }$ 均为介于(0,1）之间的随机数。
+
+为了调节粒子自身历史速度对当前时刻的影响，以达到更好的优化效果，Shi等人[14]在式（7）中引入了惯性权重 $\omega$ ，于是得到
+
+$$
+\nu _ { i d } ^ { k + 1 } = \omega \nu _ { i d } ^ { k } + c _ { 1 } r _ { 1 } ( p _ { i d } ^ { k } - x _ { i d } ^ { k } ) + c _ { 2 } r _ { 2 } ( p _ { g d } ^ { k } - x _ { i d } ^ { k } )
+$$
+
+式（7）和(9）称为标准粒子群优化(SPSO)算法。惯性权重 $\omega$ 主要调节局部搜索能力和全局搜索能力的平衡，一般取$\omega { = } 0 . 8$ 。学习因子 $\boldsymbol { c } _ { 1 } , \boldsymbol { c } _ { 2 }$ 主要调节个体极值和群体极值对粒子的影响，通常取 $c _ { 1 } = c _ { 2 } = 2$ 。
+
+# 2.2改进的 PSO
+
+标准PSO算法在搜寻最优解时表现了良好的优化效果，但同时也存在一些不足，例如标准算法在容易过早陷入局部最优解[20]，影响全局最优解的搜索。为了解决这个问题，国内外学者在研究惯性权重和学习因子的基础上提出了许多改进的PSO 算法。
+
+惯性权重是粒子群算法中的一个重要参数，较大的惯性权重可以提高PSO的全局搜索能力，反之有助于算法的局部搜索。 $\mathrm { \ S h i ^ { [ 1 4 ] } }$ 提出一种线性递减权重的PSO 算法（LDWPSO）：其惯性权重的增加而线性减小。Amoshahy等人[2I]提出了柔性指数非线性权重改变策略。Liang 等人[22]提出一种新的动态非线性变惯量权重自适应变异粒子群优化算法。文献[23]中介绍了一种新的惯性权重设置方式，在线性递减惯性权重的基础上做了改进，得到一种非线性递减权重的PSO算法(记做 $W _ { 1 } \mathrm { P S O } _ { , }$ ）。
+
+相比于 SPSO 算法，LDWPSO 算法在初期具有更好的全局搜索能力，后期具有更好的局部搜索能力，但是该算法在迭代过程中全局搜索和局部搜索的比例不变，在求解复杂非线性问题时效果往往不理想。 $| \boldsymbol { w } _ { 1 } \mathrm { P S O } _ { }$ 算法在寻优性能方面有了一定的提升，算法的稳定性和精度也得到了提高。为了进一步改善PSO的寻优效果，使算法在搜索前期具有较快的收敛速度，同时也避免搜索后期过早陷入局部最优，本文受高斯函数正态分布特点的启发，引入一种高斯下降的惯性权重$\omega$ 改变策略，并线性变化学习因子 $c _ { 1 }$ 和 $c _ { 2 } ^ { \phantom { 2 } } \left[ 2 4 \right]$ ，以此得到改进的PSO算法（记做IPSO），设置如下：
+
+$$
+\omega = 1 . 1 \exp \left( - \frac { k ^ { 2 } } { ( d \times k _ { \mathrm { m a x } } ) ^ { 2 } } \right)
+$$
+
+$$
+\left\{ \begin{array} { l l } { \displaystyle c _ { 1 } = c _ { \mathrm { 1 m i n } } + ( c _ { \mathrm { 1 m a x } } - c _ { \mathrm { 1 m i n } } ) \times \frac { k _ { \mathrm { m a x } } - k } { k _ { \mathrm { m a x } } } } \\ { \displaystyle c _ { 2 } = c _ { 2 \mathrm { m i n } } + ( c _ { 2 \mathrm { m a x } } - c _ { 2 \mathrm { m i n } } ) \times \frac { k } { k _ { \mathrm { m a x } } } } \end{array} \right.
+$$
+
+其中： $c _ { 1 } \in [ c _ { 1 \operatorname* { m i n } } , c _ { 1 \operatorname* { m a x } } ]$ ： $c _ { 2 } \in [ c _ { 2 \operatorname* { m i n } } , c _ { 2 \operatorname* { m a x } } ]$ ； $\textit { d }$ 为常数，本文取 $d = 0 . 8$ 。IPSO算法通过采用动态递减惯性权重，并同时线性改变学习因子的策略，平衡了算法的全局搜索和局部开发能力，保证了种群的多样性，在提高收敛速度的同时能够获得较好的优化结果。
+
+图1给出了三种不同PSO 算法的惯性权重变化曲线。IPSO算法的惯性权重 $\omega$ 随迭代次数的增加呈现高斯递减的下降趋势，相比于其他两种算法，该算法在迭代初期具有较大的惯性权重，收敛速度较快，具有较强的全局搜索能力，能够进行大范围搜索；在迭代后期搜索到最优值大致范围时设置较小的惯性权重，偏重发挥算法的局部开发能力，完成精细搜索。而IPSO的学习因子 $c _ { 1 }$ 随迭代次数的增加而减小，$c _ { 2 }$ 随迭代次数的增加而增加。采用这样的方式也是为了使粒子的飞行状态在搜索初期主要受个体最优位置的影响，提升粒子在整个搜索空间的开发能力；而在搜索后期粒子的状态主要受邻近粒子最优位置的影响，有助于算法的局部开发。
+
+![](images/3dac0395744b4ee6f7832a5ddc7edf07356c820131844afa27f592d02a390c64.jpg)  
+图1不同PSO算法的惯性权重变化曲线
+
+为了测试IPSO 算法求解复杂问题的性能，选取标准测试函数中的Rastrigin 函数对SPSO、LDWPSO、 $w _ { 1 } \mathrm { P S O }$ 、IPSO四种算法进行仿真。该函数各变量之间无关联，且局部最优值随着正弦波动，是一个典型的具有大量局部最小值的复杂多峰函数[25]，函数表达式如式(12）所示。
+
+$$
+f ( x ) = \sum _ { i = 1 } ^ { n } [ x _ { i } ^ { 2 } - 1 0 \cos ( 2 \pi x _ { i } ) + 1 0 ]
+$$
+
+其中： $\pmb { x } = \left[ x _ { 1 } , x _ { 2 } , \cdots , x _ { n } \right] ^ { \mathrm { T } }$ 。现求取Rastrigin 函数在二维空间$[ - 5 , 5 ] \times [ - 5 , 5 ]$ 区域内的最小值，算法参数设置如下：种群规模设为20，维数设为2， $c _ { \mathrm { 1 m a x } } = c _ { \mathrm { 2 m a x } } = 2 . 5$ ， $c _ { \mathrm { 1 m i n } } = c _ { \mathrm { 2 m i n } } = 0 . 5$ ， $d = 0 . 8$ ，$\nu \in \left[ - 0 . 0 2 , 0 . 0 2 \right]$ ， $\nu _ { d } \in [ - 5 , 5 ; - 5 , 5 ]$ 。最大迭代次数设为200次，算法各实验50次，测试结果如表1所示。
+
+表1不同算法的测试结果比较  
+Table1Test results comparison of different algorithms   
+
+<html><body><table><tr><td>方法</td><td>最差值</td><td>最优值</td><td>平均值</td><td>方差</td><td>标准差</td></tr><tr><td>SPSO</td><td>3.5746</td><td>3.53×10-6</td><td>0.3362</td><td>0.7312</td><td>0.8700</td></tr><tr><td>LDWPSO</td><td>2.5912</td><td>1.59×10-9</td><td>0.3085</td><td>0.4379</td><td>0.6618</td></tr><tr><td>WiPSO</td><td>2.5800</td><td>1.46×10-9</td><td>1.74×10-1</td><td>0.2465</td><td>0.4965</td></tr><tr><td>IPSO</td><td>0.2404</td><td>4.03×10-12</td><td>6.34×10-3</td><td>0.0012</td><td>0.0339</td></tr></table></body></html>
+
+从表1可以看出，相比于其他三种算法，本文提出的IPSO算法经多次迭代后能够以较高概率收敛于全局最优解，寻优效果更好，可利用该算法优化ELM的惩罚系数和核宽，以期得到预测精度更高的训练模型，改善回归性能。
+
+# 3 基于改进粒子群优化的极限学习机
+
+ELM的泛化性能在很大程度上取决于其参数包括惩罚系数和核宽的合理选取。因此，本文过改进的粒子群算法对极限学习机的超参数进行寻优，以获得精度更高的ELM预测模型。定义"粒子"为寻优解空间中的可能解 $( C , \sigma )$ ，选取式(13)所示的均方根误差(root mean square error,RMSE）作为粒子群算法的适应度函数[2]，将计算所得的适应度值记为fitness(i) 。
+
+$$
+{ \mathrm { R M S E } } = { \sqrt { { \frac { 1 } { n _ { \mathrm { t e s t } } } } \sum ( y _ { \mathrm { t e s t } } - y _ { \mathrm { p r e d } } ) ^ { 2 } } }
+$$
+
+其中： $n _ { \mathrm { { t e s t } } }$ 为测试样本个数； $y _ { \mathrm { { t e s t } } }$ 为测试样本真实值； $y _ { \mathrm { { p r e d } } }$ 为模型预测输出值。
+
+IPSO优化ELM参数的训练步骤如下：
+
+a)初始化粒子群算法相关参数，主要有种群规模 $N$ ，空间维数 $D$ ，学习因子 $c _ { 1 }$ 和 $\boldsymbol { c } _ { 2 }$ ，惯性权重 $\omega$ ，迭代次数 $k _ { \operatorname* { m a x } }$ ，粒子的速度限制 $[ \nu _ { \mathrm { m i n } } , \nu _ { \mathrm { m a x } } ]$ 和位置限制 $[ \boldsymbol { x } _ { d \operatorname* { m i n } } , \boldsymbol { x } _ { d \operatorname* { m a x } } ]$ 等，计算第1个粒子 $x _ { 1 }$ 的适应度值fitness(l)，令最优适应度值fitness(best) $\mathbf { \Sigma } = \mathbf { \Sigma }$ fitness(l)，并将粒子 $x _ { 1 }$ 作为 $p _ { \mathrm { { b e s t } } }$ 。
+
+b)随机初始化输入权值 $\omega _ { i }$ 和隐含层偏置 $b _ { i }$ ，构建ELM神经网络结构，并随机产生一组数据 $( C , \sigma )$ 作为初始解空间。
+
+c)采用粒子 $( C , \sigma )$ 对应的优化后的ELM模型对样本进行训练，计算适应度值并评价。每个粒子 $( C , \sigma )$ 通过比较个体极值的适应度值和全局极值的适应度值来调整自身的位置和速度。
+
+d)判断是否达到迭代次数，若达到，则算法终止，并给出搜索结果，否则继续迭代得到新的粒子群。
+
+e)将最终优化得到的粒子 $( C , \sigma )$ 作为极限学习机的惩罚系数和核宽，以此建立优化的ELM模型。
+
+IPSO优化ELM参数的算法流程如图2所示。
+
+![](images/fe7011e9ec59d7374280c16256cfe475afef1d9a9361881326c9b3479c1dfbda.jpg)  
+Fig.1Inertia weight trend of differentPSO algorithms   
+图2IPSO 优化ELM参数的算法流程 Fig.2Flow chart of ELMalgorithm with parameters optimized by IPSO
+
+# 4 仿真研究
+
+# 4.1 ELM算例仿真
+
+为了测试ELM的惩罚系数和核宽对其学习性能的影响，此处对函数 $f ( x ) = x \sin x$ 作回归分析。在本次实验中，随机生成200组数据 $\{ x _ { i } , f ( x _ { i } ) + \zeta _ { i } \}$ ，其中100组作为训练样本，100组作为测试样本， $\zeta _ { i }$ 为一组噪声，服从正态分布 $\zeta _ { i } \sim N ( 0 , 0 . 0 5 )$ 。选取RMSE 和跟踪系数(tracking precision，TP)[27]作为评价ELM拟合效果的性能指标。TP具体定义如式（14）所示。
+
+$$
+\mathrm { T P } = 1 - \frac { \sum \left( y _ { t e s t } - y _ { p r e d } \right) ^ { 2 } } { \sum y _ { t e s t } ^ { 2 } }
+$$
+
+考虑到测试结果的波动，每次实验做了10组并求取平均值，分别测试ELM的RMSE和TP，所得数据如表2和3所示。
+
+Table2 Effect of different penalty coefficient and kernel parametei   
+
+<html><body><table><tr><td colspan="8">on RMSE</td></tr><tr><td>Co</td><td>0.01</td><td>0.5</td><td>5</td><td>50</td><td>100</td><td>200</td><td>1000</td></tr><tr><td>0.01</td><td>0.3235</td><td>0.0720</td><td>0.0476</td><td>0.0559</td><td>0.0558</td><td>0.0540</td><td>0.0514</td></tr><tr><td>0.05</td><td>0.2678</td><td>0.0700</td><td>0.0561</td><td>0.0531</td><td>0.0532</td><td>0.0553</td><td>0.0575</td></tr><tr><td>0.1</td><td>0.3277</td><td>0.0567</td><td>0.0553</td><td>0.0569</td><td>0.0481</td><td>0.0482</td><td>0.0525</td></tr><tr><td>0.3</td><td>0.3115</td><td>0.0728</td><td>0.0574</td><td>0.0514</td><td>0.0488</td><td>0.0470</td><td>0.0570</td></tr><tr><td>0.5</td><td>0.2604</td><td>0.0829</td><td>0.0505</td><td>0.0501</td><td>0.0532</td><td>0.0459</td><td>0.0469</td></tr><tr><td>1</td><td>0.2589</td><td>0.0726</td><td>0.0537</td><td>0.0463</td><td>0.0463</td><td>0.0525</td><td>0.0508</td></tr><tr><td>5</td><td>0.2829</td><td>0.1414</td><td>0.0759</td><td>0.0560</td><td>0.0474</td><td>0.0545</td><td>0.0506</td></tr><tr><td>50</td><td>0.3493</td><td>0.2302</td><td>0.1032</td><td>0.0685</td><td>0.0688</td><td>0.0736</td><td>0.0693</td></tr><tr><td>100</td><td>0.2695</td><td>0.2606</td><td>0.1595</td><td>0.0657</td><td>0.0855</td><td>0.0724</td><td>0.0690</td></tr></table></body></html>
+
+Table3 Effect of different penalty coefficient and kernel parameter   
+
+<html><body><table><tr><td colspan="8">on TP</td></tr><tr><td>Cg</td><td>0.01</td><td>0.5</td><td>5</td><td>50</td><td>100</td><td>200</td><td>1000</td></tr><tr><td>0.01</td><td>0.2402</td><td>0.9484</td><td>0.9639</td><td>0.9541</td><td>0.9560</td><td>0.9604</td><td>0.9547</td></tr><tr><td>0.05</td><td>0.3774</td><td>0.9371</td><td>0.9545</td><td>0.9555</td><td>0.9594</td><td>0.9584</td><td>0.9603</td></tr><tr><td>0.1</td><td>0.2955</td><td>0.9591</td><td>0.9433</td><td>0.9564</td><td>0.9701</td><td>0.9614</td><td>0.9608</td></tr><tr><td>0.3</td><td>0.3054</td><td>0.9277</td><td>0.9573</td><td>0.9667</td><td>0.9690</td><td>0.9698</td><td>0.9501</td></tr><tr><td>0.5</td><td>0.3236</td><td>0.8997</td><td>0.9514</td><td>0.9687</td><td>0.9589</td><td>0.9709</td><td>0.9670</td></tr><tr><td>1</td><td>0.1984</td><td>0.9265</td><td>0.9573</td><td>0.9693</td><td>0.9677</td><td>0.9620</td><td>0.9625</td></tr><tr><td>5</td><td>0.0580</td><td>0.7397</td><td>0.9187</td><td>0.9590</td><td>0.9615</td><td>0.9547</td><td>0.9680</td></tr><tr><td>50</td><td>0.0045</td><td>0.2428</td><td>0.8272</td><td>0.9199</td><td>0.9379</td><td>0.9193</td><td>0.9303</td></tr><tr><td>100</td><td>0.0028</td><td>0.1196</td><td>0.6204</td><td>0.9192</td><td>0.9059</td><td>0.9282</td><td>0.9296</td></tr></table></body></html>
+
+从表2和3中可以看出，ELM的泛化性能与选取的惩罚系数和核宽大小有很大关系，在本测试中，选取 $C = 2 0 0$ ，$\sigma = 0 . 5$ 时ELM对该函数的拟合性能较好。在参数选取合适时，ELM体现了良好的学习能力，在噪声存在的情况下仍能以较高精度完成对函数值的预测；反之，ELM泛化性能较差。
+
+# 4.2脱丁烷塔过程仿真
+
+脱丁烷塔过程是化工过程石油炼制中脱硫和石脑油分离装置的重要组成部分[28]，塔底丁烷浓度对石油炼制影响较大且难以直接采用仪器测量，需要对该工业过程进行软测量建模。选取 $x _ { 1 }$ 顶层温度、 $x _ { 2 }$ 顶层压力、 $x _ { 3 }$ 回流流量、 $x _ { 4 }$ 进入下一流程流量、 $x _ { 5 }$ 第6塔板温度、 $x _ { 6 }$ 塔顶温度1、 $x _ { 7 }$ 塔顶温度2 等七个可测变量作为辅助变量，主导变量为塔底丁烷浓度。图3给出了脱丁烷塔过程示意图，并标注了辅助变量的测量点位置。
+
+![](images/531e9d2d107481f749854832b92d9033474c74b7470fc9253871139c589a54e5.jpg)  
+图3脱丁烷塔过程示意图
+
+共收集2000 组脱丁烷塔过程数据，其中1000 组作为训练样本集， $1 0 0 0$ 组作为测试样本集，建立三种不同的软测量模型：ELM模型、SPSO优化的ELM模型（记为PSOELM模型）、IPSO优化的ELM模型（简记为IELM模型），分别进行仿真实验并比较。种群规模设为100，最大迭代次数设为100次， $\nu \in [ - 0 . 5 , 0 . 5 ]$ ， $x _ { d } \in \left[ 6 , 3 ; 2 , - 2 \right]$ ，其余参数设置同章节2.2。选取RMSE[式(13)]、TP[式(14)]和相关系数(CorrelationCoefficient,COR)[式(15)]作为预测性能指标。
+
+$$
+\mathrm { C O R } = \frac { \mathrm { C o v } ( y _ { \mathrm { t e s t } } , y _ { \mathrm { p r e d } } ) } { \sqrt { \mathrm { v a r } ( y _ { \mathrm { t e s t } } ) } \cdot \sqrt { \mathrm { v a r } ( y _ { \mathrm { p r e d } } ) } }
+$$
+
+表4给出了三种建模方法对丁烷浓度的预测结果比较。从表中可以看出，经IPSO算法优化后得到的IELM模型对塔底丁烷浓度的预测精度明显高于传统ELM模型，进一步与PSOELM模型相比，IELM模型对丁烷浓度的预测误差减小，在泛化性能方面也有了一定的提升，表明本文方法可以有效提高模型的学习能力和预测精度，能够较好地完成对丁烷浓度的预测。
+
+表3惩罚系数和核宽对TP的影响  
+表4三种建模方法的预测结果比较  
+Table 4Prediction results comparison of three modeling methods   
+
+<html><body><table><tr><td>方法</td><td>RMSE</td><td>COR</td><td>TP</td></tr><tr><td>ELM</td><td>0.1051</td><td>0.7301</td><td>0.5323</td></tr><tr><td>PSOELM</td><td>0.0803</td><td>0.8462</td><td>0.7146</td></tr><tr><td>IELM</td><td>0.0746</td><td>0.8830</td><td>0.7643</td></tr></table></body></html>
+
+为了更直观地显示IELM算法的学习效果，图4给出了三种建模方法得到的软测量模型对丁烷浓度的预测结果。由图可知，IELM模型对丁烷浓度的预测值曲线更紧凑得跟随于真实值曲线，预测误差在0附近波动幅度更小，说明IELM模型输出的丁烷浓度预测值更接近真实值，预测结果与真实情况的更加吻合，预测产生的误差较小。相比于传统ELM模型仿真结果，本文方法对丁烷浓度的拟合能力更强，所建模型的泛化能力更强，预测精度更高。
+
+![](images/f6cc4aa902570a00aceffa568e99e07b35f4eb96afe7ef10dda0f27ec1d0525a.jpg)  
+(a)ELM、PSOELM对丁烷浓度的预测结果
+
+![](images/5bba91a1169efba6aae329ef541d3a0b8044c04becc2463ecda00db42a3f5049.jpg)  
+Fig.3Schematic diagram of debutanizer process   
+(a) Prediction results of ELM and PSOELM for C4 concentration   
+(b)PSOELM、IELM对丁烷浓度的预测结果
+
+(b) Prediction results of PSOELM and IELM for C4 concentration
+
+![](images/4aa73aa92b41515fd211cfc3512e4eaf36e9d25d7fd7b3b9c503744f7b793f57.jpg)
+
+为了进一步说明本文所提算法的有效性，图5给出了三种建模方法对丁烷浓度预测结果的散点图。可以看出，IELM模型仿真得到的散点更加接近于黑色对角线，而传统ELM模型和PSOELM模型得到的散点分布则相对较为分散，说明本文方法建立的模型得到的丁烷浓度预测结果更接近真实情况，预测精度明显得到提高。
+
+![](images/410c82e01b375e9ee9b22a52d21d27f453fdbd0e078caf9919e283da5bb6fd2b.jpg)  
+图4ELM、PSOELM和IELM的仿真结果 Fig.4Simulation results of ELM、PSOELMand IELM   
+图5ELM、PSOELM和IELM预测结果散点图Fig.5Scatter plot of ELM,PSOELMand IELM prediction results
+
+# 5 结束语
+
+利用一种改进的粒子群优化算法对极限学习机的惩罚系数和核宽两个参数同时进行优化，得到性能更优的极限学习机软测量模型，在增强模型泛化能力的同时，提高了模型对非线性工业过程质量变量的预测精度。通过脱丁烷塔过程的应用仿真，验证了该方法的有效性和精度，对于复杂工业过程的软测量建模具有一定的参考价值。
+
+参考文献：   
+[1]潘红芳．极限学习机的研究及其在醋酸精馏软测量建模中的应用 [D].华东理工大学，2014.(Pan Hongfang.Research on extreme learning machine and its application in acetic acid soft sensor modeling [D]. East China University of Science and Technology, 2014.）   
+[2]熊伟丽，姚乐，徐保国．基于EM算法的青霉素发酵过程多阶段融合 建模[J].化工学报,2014,65 (12): 4935-4941.(Xiong Weili, Yao Le, Xu Baoguo. Multi-stage fusion modeling of penicilin fermentation process based onEMalgorithm [J].CIESC Jourmal,2014,65(12): 4935-4941. )   
+[3]曹鹏飞，罗雄麟．化工过程软测量建模方法研究进展[J].化工学报, 2013,64 (3): 788-800.(Cao Pengfei,Luo Xionglin.Modeling of soft sensor for chemical process [J]. CIESC Jourmal,2013，64 (3): 788-800.）   
+[4] Niu Zhiguang, Wang Chong, Zhang Ying, et al. Leakage rate model of urban water supply networks using principal component regression analysis [J].Journalof Tianjin University,2018,24 (2): 172-181.   
+[5]Zheng Junhua, Song Zhihuan. Semisupervised learning for probabilistic partial least squares regression model and soft sensor application [J]. Jourmal ofProcess Control,2018, 64:123-131.   
+[6] Willis MJ,Montague G A,Massimo C D,et al. Artificial neural networks in process estimation and control [J].Automatica,1992,28 (6): 1181-1187.   
+[7]Cortes C.Support vector network [J].Machine Learning,1995,20 (3): 273-297.   
+[8] Xiong Weili， Shi Xudong. Soft sensor modeling with a selective updating strategy for Gaussian process regression based on probabilistic principle component analysis [J].Journal of the Franklin Institute,2018, 35: 5336-5349.   
+[9] Huang Guangbin, Zhu Qinyu, Siew C K. Extreme learning machine: a new learning scheme of feedforward neural networks [C]/ Proc of IEEEInternational Joint Conference on Neural Networks,.2005: 985-990.   
+[10] Sun Kai,Liu Jialin,Kang Jialin,et al.Development of a variable selection method for soft sensor using artificial neural network and nonnegative garrote [J]. Journal of Process Control，2014,24 （7): 1068-1075.   
+[11]赵彦涛，单泽宇，常跃进，等．基于 MI-LSSVM 的水泥生料细度软 测量建模 [J].仪器仪表学报,2017(2):487-496.(Zhao Yantao,Shan Zeyu,Chang Yuejin,et al.Soft sensor modeling for cement fineness based on least squares support vector machine and mutual information [J].Chinese Jourmal of Scientific Instrument,2017 (2): 487-496.)   
+[12] Wang Mingjing，Chen Huiling，Li Huaizhong，et al. Grey wolf optimization evolving kernel extreme learning machine:application to bankruptcy prediction [J]. Engineering Applicationsof Artificial Intelligence,2017, 63: 54-68.   
+[13] Lyu Xinen，Chen Huiling,Zhang Qian，et al.Animproved bacterial-foraging,optimization-based machine learning framework for predicting the severity of somatization disorder [J]. Algorithms,2018, 11 (2): 17.   
+[14] Shi Yuhui, Eberhart R.Modified particle swarm optimizer[C]// Proc.of IEEE ICEC Conference.1999: 69-73.   
+[15] Lin S W, Ying K C, Chen S C,et al. Particle swarm optimization for parameter determination and feature selection of support vector machines [J]. Expert Systems with Applications，2008,35 (4): 181/-1824.   
+[16]陶新民，徐晶，杨立标，等．一种改进的粒子群和K均值混合聚类算 法[J].电子与信息学报,2010,32(1):92-97.(Tao Xinmin,Xu Jing, YangLibiao,et al. Improved cluster algorithm based onK-means and particle swarm optimization [J].Journal of Electronics & Information Technol0gy,2010,32(1): 92-97.)   
+[17] Grimaldi EA,Grimaccia F,Mussetta M,et al.PSO as an effective learning algorithm for neural network applications [C]// Proc of International Conference on Computational Electromagnetics and ITS Applications.2004: 557-560.   
+[18] Huang Guangbin,Song Shiji,Gupta JN,et al. Semi-supervised and unsupervised extreme learning machines[J]. IEEETranson Cybernetics,2014,44(12):2405-2417.   
+[19]马超，徐守祥，刘远东．集成优化核极限学习机的冠心病无创性诊 断[J].计算机应用研究，2017,34(6):1671-1676.(MaChao，Xu Shouxiang,Liu Yuandong. Optimized kernel extreme learning machine based on ensemble method for heart diseases [J].Application Research of Computers,2017,34(6):1671-1676.)   
+[20]王存睿，段晓东，刘向东，等．改进的基本粒子群优化算法[J]．计 算机工程,2004,30 (21):35-37.(Wang Cunrui,Duan Xiaodong,Liu Xiangdong，et al.A modified basic particle swarm optimization algorithm[J].Computer Engineering,2004,30 (21):35-37.)   
+[21] Amoshahy MJ,Shamsi M,Sedaaghi M H.A novel flexible inertia weight particle swarm optimization algorithm [J].Plos One,2016,11 (8):e0161558.   
+[22] Liang Hongtao,Kang Fengju.Adaptive mutation particle swarm algorithm with dynamic nonlinear changed inertia weight[J]. Optik-International Journal for Light and Electron Optics,2016,127 (19):8036-8042.   
+[23]史峰，王辉，郁磊，等.MATLAB智能算法30个案例分析[M]．北京： 北京航空航天大学出版社,2011.(Shi Feng,Wang Hui,Yu Lei,et al. 30 case analysis of MATLAB intelligent algorithm [M].Beijing: BeihangUniversity Press,2011.）   
+[24] Ratnaweera A，Halgamuge SK,Watson H C. Self-organizing hierarchical particle swarm optimizer with time-varying acceleration coefficients [J].IEEE Trans on Evolutionary Computation,20o4,8(3): 240-255.   
+[25]鲁姝颖．粒子群优化算法的几种改进算法及应用[D].徐州：中国矿 业大学,2014.(Lu Shuying. Some improvements and applications of particle swarm optimization algorithm [D]. Xuzhou:China University of Mining and Technology, 2014.)   
+[26]王杰，毕浩洋．一种基于粒子群优化的极限学习机[J]．郑州大学学 报：理学版，2013，45(1):100-104.(Wang Jie,Bi Haoyang．An extreme learning machine based on particle swarm optimization [J]. Journal of Zhengzhou University:Engineering Science,2013,45(1): 100-104.)   
+[27] Zhang Wei,Li Yanjun,Xiong Weili,et al.Adaptive soft sensor for online prediction based on enhanced moving window GPR[C]//Proc of IEEE International Conference on Control,Automation and Information Sciences.2015:291-296.   
+[28] Fortuna L,Graziani S,Xibilia M G.Soft sensors for product quality monitoring in debutanizer distillation columns [J]. Control Engineering Practice,2005,13 (4):499-508.

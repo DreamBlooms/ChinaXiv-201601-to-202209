@@ -1,0 +1,202 @@
+纳米硒对产蛋鸡生产性能、血清免疫和生化指标及蛋黄中硒含量的影响杨清丽」彭豫东」 曲湘勇1\* 彭灿阳」曹冬梅²孙安权2（1.湖南农业大学动物科学技术学院，湖南省畜禽安全生产协同创新中心，长沙 410128；2.奥格生物技术（上海）有限公司，上海201203）
+
+摘要：本试验旨在研究纳米硒对产蛋鸡生产性能、血清免疫和生化指标及蛋黄中硒含量的影响。选取324只29 周龄体重相近的健康产蛋鸡，随机分为6个组，每组6个重复，每个重复9只鸡。对照组（A组）饲喂基础饲粮，试验组（B、C、D、E、F组）分别饲喂在基础饲粮中添加 $0 . 1 , \ 0 . 2 , \ 0 . 3 , \ 0 . 4 , \ 0 . 5 \ \mathrm { m g / k g }$ 纳米硒的饲粮。预试期为7d，正试期为 $6 3 \mathrm { ~ d } _ { \circ }$ 结果表明：1）与对照组相比，第21天C组的料蛋比显著降低（ $P { < } 0 . 0 5 \rangle$ ，第42、63天B、D 组的破壳率显著降低（ $\lceil P { < } 0 . 0 5 \rangle$ 。各组产蛋率、平均蛋重均无显著差异（ $P { > } 0 . 0 5 \$ )。2)与对照组相比，第42天，E 组血清免疫球蛋白 $\textbf { M } ( \mathrm { I g } \mathbf { M } )$ 、免疫球蛋白A（IgA）含量显著提高（ $P { < } 0 . 0 5 )$ ；各组血清免疫球蛋白G（ $\mathrm { I g G }$ ）含量差异不显著（ $( P { > } 0 . 0 5 )$ ；第63天，各组血清 $\mathrm { I g } \mathrm { M }$ 、IgA、IgG含量均差异不显著 $( P { > } 0 . 0 5 )$ 。3）与对照组相比，第42天， $\mathrm { ~ D ~ }$ 组血清白蛋白（ALB）含量显著提高（ $\cdot P { < } 0 . 0 5 \$ ， $\mathrm { ~ \bf ~ D ~ }$ 组血清甘油三酯（TG）和葡萄糖（Glu）含量极显著降低（ $\scriptstyle \cdot < 0 . 0 1 .$ )，F 组血清总蛋白（TP）含量显著升高（ $\scriptstyle P < 0 . 0 5 .$ )，E、F组血清尿酸（UA）含量显著降低（ $\scriptstyle \cdot < 0 . 0 5 )$ ；第63天，F组血清TP含量显著提高（ $\scriptstyle \left. { \begin{array} { r l } { P < 0 . 0 5 } \end{array} } \right)$ ，F组血清碱性磷酸酶（ALP）活性和Glu含量显著降低‘ $( P { < } 0 . 0 5 )$ )。4）与对照组相比，第21天，C、D、E、F组蛋黄硒含量显著或极显著提高（ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )；第42天，试验组蛋黄硒含量均显著或极显著提高（ $\cdot P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ )；第63天，C、D、E、F组蛋黄硒含量极显著提高 ( $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ )。各试验期蛋黄硒含量均以F组最高，且第42天各试验组蛋黄硒含量均高于第 21、63天。与对照组相比，除第 42 天试验组蛋黄锌含量显著高于对照组（ $P { < } 0$ 05）外，各组各试验期蛋黄铁、锰、锌、铜含量均无显著差异 $( P 5 0 . 0 5 )$ 。由此可见，饲粮添加纳米硒能改善产蛋鸡的生产性能，提高血清免疫力，促进机体蛋白质的合成，降低血液胆固醇含量，促进机体健康，提高蛋黄中硒含量。综合考虑，以饲粮添加 $0 . 4 ~ \mathrm { m g / k g }$ 纳米硒饲喂 42 d作用效果较明显。
+
+关键词：产蛋鸡；纳米硒；免疫功能；血清生化指标；蛋黄中硒含量中图分类号：S831
+
+硒是畜禽机体必需微量元素之一，缺乏会导致畜禽患病，过量会导致中毒甚至死亡，对动物健康有极其重要的作用。硒的添加量不仅与动物种类、生长阶段有关，还与不同硒源有关。阎素梅等[针对蛋雏鸡的研究报道，饲粮中添加以亚硒酸钠为硒源的硒超过 $0 . 9 9 5 \mathrm { \ m g / }$ $\mathrm { k g }$ 时蛋雏鸡出现慢性中毒症，超过 $4 . 9 9 5 \mathrm { \ m g / k g }$ 时出现急性中毒症。纳米硒是红色零价达到纳米级水平有优良的纳米特性的元素硒，其直径在 $6 0 \ \mathrm { n m }$ 以内（ $2 0 { \sim } 6 0 \ \mathrm { n m }$ 之间，平均粒径为 $3 6 \ \mathrm { n m }$ 时纳米特性更为鲜明)。相比于无机硒（硒酸盐、亚硒酸盐）和有机硒（酵母硒、硒代氨基酸、硒多糖)，纳米硒颗粒均匀细小，表面积大，不仅提高了胃肠道黏膜的黏着性，使自身易被动物肠道吸收，同时也使表面键态严重失配后出现许多活性中心，导致纳米体系的化学性质特异性变化，纳米硒的界面特性不仅是使纳米硒具有高活性和高吸收率的原因，还可作为谷胱甘肽氧化物酶等多种酶活性中心使酶具有更高活性，是其生物学特性得以发挥的主要原因[2]。白燕等[3]对纳米硒的界面化学作用进行了探讨，提出研究应该关注纳米硒与表面修饰剂的作用机制，及二者与外部离子、分子和其他个体之间的界面特性，尤其是生物活性分子作为纳米硒的表面修饰剂，在界面化学和生物作用方面的差异。研究还认为，纳米硒的抗氧化能力与其表面修饰剂有关[4。零价硒有黑、灰、红3种颜色之分，黑、灰色的硒几乎无毒性和生物活性，红色硒有生物活性但易聚合形成黑、灰色的硒，而以蛋白质为分散剂能够控制红色硒的聚合，使其保持生物活性[5。高学云等以蛋白质为分散剂制备的纳米硒针对小鼠急性毒性的研究表明，纳米硒的急性毒性约为亚硒酸钠的1/7，并推测可能是纳米硒的尺寸效应和表面效应，使其与生物体内谷胱甘肽（GSH）反应低产生有害自由基量少有关，研究表明，在急性毒性方面，无机硒和有机硒含量分别为15 和 $4 9 \mathrm { \ m g / k g }$ ，而纳米硒含量则为 $1 1 3 \mathrm { \ m g / k g }$ ；在亚慢性毒性方面，饲料中无机硒或有机硒含量为 $4 ~ \mathrm { m g / k g }$ ，而纳米硒含量为 $6 ~ \mathrm { m g / k g }$ 时也不会产生中毒现象。纳米硒高效安全，能促进畜禽的生长性能，增强机体免疫机制，被证实是已发现的急性毒性最低的补硒制剂。纳米硒因其具有高效低毒性，被广泛应用于动物试验研究。近年来，在硒的缺乏和中毒剂量研究的基础上，对不同硒源在畜禽生产的应用效果及适宜添加量的研究较多，并已取得了良好的效果，但由于受多种因素影响，研究结果不尽相同，针对产蛋鸡的研究又较少，所以有必要对特定种类的试验数据进行细化。本研究针对纳米硒的优势，在前人研究的基础上在产蛋鸡饲粮中添加不同水平的纳米硒，研究其对产蛋鸡生长性能、血清免疫和生化指标及蛋黄中硒含量的影响，并探讨其作用效果及适宜添加水平，为以后的研究及畜禽生产提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+纳米硒：商品名为喜来硒，有效成分硒含量 $1 \text{‰}$ ，纳米硒由透射电子显微镜观察，平均粒径为 $5 0 { \sim } 1 0 0 \ \mathrm { n m }$ 。
+
+1.2 试验设计与饲养管理
+
+试验于2015年4月至2015年6月在天心黄鸡育种有限公司进行，采用单因素试验设计，将 324只29 周龄体重相近、健康、采食正常的罗曼产蛋鸡，随机分为6个组，每组6个重复，每个重复9只鸡。对照组（A组）饲喂基础饲粮，试验组（B、C、D、E、F组）分别饲喂在基础饲粮中添加 $0 . 1 { \mathrm { ~ , ~ } } \ 0 . 2 { \mathrm { . ~ } } \ 0 . 3 { \mathrm { . ~ } } \ 0 . 4 { \mathrm { , ~ } } \ 0 . 5 \ \mathrm { m g / k g }$ 纳米硒的饲粮，基础饲粮组成及营养水平见表1。B、C、D、E、F组实测饲粮硒含量分别为0.185、0.275、0.387、0.465、0.546mg/kg。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table 1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料 Ingredients</td></tr><tr><td>玉米Corn 64</td></tr><tr><td>豆粕 Soybean meal 24</td></tr><tr><td>预混料Premix1) 5</td></tr><tr><td>石粉Limestone 7</td></tr><tr><td>合计 Total 100</td></tr><tr><td>营养水平 Nutrient levels2)</td></tr><tr><td>代谢能 ME/（MJ/kg） 11.47</td></tr><tr><td>粗蛋白质CP 16.83</td></tr><tr><td>钙Ca 3.50</td></tr><tr><td>有效磷 AP 0.36</td></tr><tr><td>赖氨酸Lys 0.79</td></tr><tr><td>蛋氨酸Met 0.37</td></tr><tr><td>硒 Se/ (mg/kg) 0.07</td></tr></table></body></html>
+
+1 预混料为每千克饲粮提供 The premix provided the following per $\mathbf { k g }$ of the diet:VA 6 00 $_ { \mathrm { ~ 0 ~ U ~ } }$ ， $\mathrm { V B } _ { 2 } ~ 5 . 5 ~ \mathrm { m g }$ ， $\mathrm { V D } _ { 3 } \ 2 \ 5 0 0 \ \mathrm { ~ U ~ }$ ， $\mathrm { V B } _ { 1 }$ $1 . 7 5 \ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } ~ 4 ~ \mathrm { m g }$ ， $\mathbf { V B } _ { 1 2 } \ 0 . 0 1 7 \ 5 \ \mathrm { \ m g }$ ，VE 25 mg， $\mathrm { V K } _ { 3 } 2 . 2 5 \mathrm { ~ m g }$ ，生物素 biotin $0 . 1 4 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 9 \mathrm { \ m g }$ ，烟酸nicotinic acid $3 4 ~ \mathrm { m g }$ ，泛酸 pantothenic acid $1 2 ~ \mathrm { m g }$ ，植酸酶 phytase $4 0 0 \mathrm { ~ U ~ }$ ，胆碱chloride $3 0 0 ~ \mathrm { { m g } }$ ，Fe $7 5 \ \mathrm { \ m g }$ ， $\mathrm { C u } ~ 7 . 5 ~ \mathrm { m g }$ ， $Z { \mathrm { { n } ~ 6 0 ~ m g } }$ ，Mn $6 0 ~ \mathrm { m g }$ ， $\mathrm { ~ I ~ } 0 . 7 5 \mathrm { ~ \ m g ~ }$ ，Se $0 . 1 5 ~ \mathrm { { \ m g } }$ ，Ca $9 . 5 \mathrm { ~ g ~ }$ ，P 2.0 g，食盐 $\mathrm { N a C l ~ } 3 . 7 \mathrm { ~ g ~ }$   
+2’硒为实测值，其他营养水平为计算值。Se was a measured value，while the other nutrient levels were calculated values.
+
+鸡舍采用水帘式降温，用3层阶梯式蛋鸡笼饲养，每笼3只。各组饲养管理条件相同，每日喂料3次（07:00、12:00、17:00)，收蛋2次（08:00、14:00)，自由采食，自由饮水。按鸡场常规管理程序进行卫生管理和免疫。预试期各组统一饲喂基础饲粮，正试期各组分别饲喂添加了不同水平纳米硒的饲粮。预试期7d，正试期 $6 3 \mathrm { ~ d } .$ 0
+
+# 1.3测定指标与方法
+
+# 1.3.1产蛋鸡生产性能的测定
+
+正式饲养期内，每日以重复为单位，记录采食量、产蛋数、产蛋量、破软壳数及鸡群的
+
+健康状况。试验期内每天记录各组日耗料量，每天添加饲粮时用电子秤准确称量，并详细记录。计算第21、42、63天的平均蛋重、产蛋率、料蛋比和破壳率。
+
+# 1.3.2血清免疫和生化指标的测定
+
+在试验期的第42、63天，每个重复随机选2只产蛋鸡，翅静脉采血 $5 \ \mathrm { m L }$ ，缓缓注入试管中，倾斜试管，静置 $3 0 \ \mathrm { m i n }$ 后，于 $3 \mathrm { \ t \ 0 0 0 \Delta r / m i n }$ 离心 $1 0 \ \mathrm { m i n }$ ，吸取上清液 $1 . 0 { \sim } 1 . 5 \ \mathrm { m L }$ 注入 $1 . 5 \mathrm { \ m L }$ 离心管中，标记组别及日期，置于 $- 2 0 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱保存，用于血清免疫和生化指标测定。
+
+采用酶标仪（汇松MB-530）和R&D公司试剂盒测定血清免疫球蛋白A（IgA）、免疫球蛋白G（IgG）、免疫球蛋白M（IgM）含量。
+
+采用全自动生化分析仪（迈瑞BS-200）和迈瑞生物公司生产的配套试剂盒测定血清白蛋白（ALB）、总蛋白（TP）、甘油三酯（TG）、总胆固醇（TC）、葡萄糖（Glu）、尿酸（UA）含量及碱性磷酸酶（ALP）活性。
+
+# 1.3.3蛋黄中矿物质元素含量的测定
+
+在试验期的第21、42、63天，每组随机选12个鸡蛋，每个重复2个，用于蛋黄中微量元素含量的测定。蛋黄中铁、锰、铜、锌含量参照GB/T 5009.90-2003、GB/T 9695.20-2008 火焰原子吸收光谱法测定，测定仪器为火焰原子吸收分光光度计（SP-AA3800)。蛋黄中硒含量参照邓士林等7的方法，采用流动注射氢化物发生原子吸收光谱法测定。
+
+# 1.4 统计分析
+
+试验数据用SAS9.0软件进行方差分析，然后通过Duncan氏法进行组间的多重比较。试验数据以平均值 $\pm$ 标准差表示， $P { < } 0 . 0 5$ 表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著。
+
+# 2结果
+
+# 2.1纳米硒对产蛋鸡生产性能的影响
+
+由表2、表3、表4可知，与对照组相比，第21、42天，试验组平均蛋重、产蛋率在数值上均有所提高，但差异不显著 $( P { > } 0 . 0 5 )$ ；试验组料蛋比均有所下降，除第21天C 组料蛋比显著低于对照组（ $. P { < } 0 . 0 5$ ）外，其余各组间均差异不显著（ $( P { > } 0 . 0 5 )$ ；第42、63天，试验组破壳率均有所降低，B、D组显著低于对照组（ $_ { _ { P < 0 . 0 5 } }$ ）°
+
+表2纳米硒对第21天产蛋鸡生产性能的影响  
+ible 2 Effects of nano-selenium on performance of laying hens at the 21st   
+
+<html><body><table><tr><td>组别Groups</td><td>平均蛋重 Average egg weight/g</td><td>产蛋率 Laying rate 1%</td><td>料蛋比 Feed to egg ratio</td><td>破壳率 Grain-hulling rate/%</td></tr><tr><td>A</td><td>58.68±0.76</td><td>84.76±8.53</td><td>2.41±0.26a</td><td>0.86±0.69</td></tr><tr><td>B</td><td>59.03±0.90</td><td>88.36±9.42</td><td>2.25±0.20ab</td><td>0.49±0.51</td></tr><tr><td>C</td><td>58.62±0.93</td><td>90.82±4.44</td><td>2.11±0.10b</td><td>0.70±0.53</td></tr><tr><td>D</td><td>58.25±0.57</td><td>90.87±5.18</td><td>2.28±0.20ab</td><td>0.64±0.49</td></tr><tr><td>E</td><td>58.68±0.52</td><td>91.18±6.53</td><td>2.15±0.12ab</td><td>0.28±0.39</td></tr><tr><td>F</td><td>58.07±0.88</td><td>86.24±9.18</td><td>2.27±0.13ab</td><td>0.42±0.84</td></tr></table></body></html>
+
+同列数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ ${ \scriptstyle P < 0 . 0 1 }$ )，相同或无字母表示差异不显著（ $. P { > } 0 . 0 5 ^ { \cdot }$ )。下表（除表7、表8）同。
+
+In the same column，values with diffrent small lettr superscripts mean significant difference ( ${ \bf \zeta } ^ { P < 0 . 0 }$ 5),and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ .The same as below（except Table 7 a nd Table 8）.
+
+Table 3Effects of nano-selenium on performance of laying hens at the 42nd day   
+
+<html><body><table><tr><td>组别 Groups</td><td>平均蛋重 Average egg weight/g</td><td>产蛋率 Laying rate</td><td>料蛋比 Feed to egg ratio</td><td>破壳率 Grain-hulling rate/%</td></tr><tr><td>A</td><td>59.63±0.86</td><td>1% 85.82±5.67</td><td>2.30±0.15</td><td>1.53±1.30a</td></tr><tr><td>B</td><td>60.42±0.61</td><td>88.89±7.45</td><td>2.20±0.13</td><td>0.36±0.25b</td></tr><tr><td>C</td><td>59.62±0.56</td><td>89.52±9.08</td><td>2.17±0.24</td><td>0.76±0.77ab</td></tr><tr><td>D</td><td>59.89±0.58</td><td>91.88±6.70</td><td>2.18±0.14</td><td>0.44±0.28b</td></tr><tr><td>E</td><td>60.30±0.73</td><td>92.68±4.51</td><td>2.21±0.26</td><td>0.80±0.75ab</td></tr><tr><td>F</td><td>59.66±0.69</td><td>86.22±7.50</td><td>2.26±0.20</td><td>0.68±0.57ab</td></tr></table></body></html>
+
+表4纳米硒对第63天产蛋鸡生产性能的影响
+
+表3纳米硒对第 42天产蛋鸡生产性能的影响  
+[able 4Effects of nano-selenium on performance of laying hens at the   
+
+<html><body><table><tr><td>组别 Groups</td><td>平均蛋重 Average egg weight/g</td><td>产蛋率Laying rate 1%</td><td>料蛋比 Feed to egg ratio</td><td>破壳率 Grain-hulling rate 1%</td></tr><tr><td>A</td><td>60.34±0.83</td><td>87.20±5.34</td><td>2.23±0.10</td><td>1.46±1.40a</td></tr><tr><td>B</td><td>61.28±0.59</td><td>89.34±6.50</td><td>2.16±0.12</td><td>0.36±0.39b</td></tr><tr><td>C</td><td>60.43±0.66</td><td>90.14±8.07</td><td>2.15±0.20</td><td>0.62±0.43ab</td></tr><tr><td>D</td><td>60.85±0.52</td><td>90.86±6.65</td><td>2.13±0.14</td><td>0.33±0.24b</td></tr><tr><td>E</td><td>61.05±0.76</td><td>92.74±4.29</td><td>2.20±0.22</td><td>0.71±0.57ab</td></tr><tr><td>F</td><td>60.70±0.56</td><td>82.83±9.90</td><td>2.28±0.19</td><td>0.84±0.85ab</td></tr></table></body></html>
+
+2.2纳米硒对产蛋鸡血清免疫指标的影响
+
+由表5、表6可知，第42天，与对照组相比，试验组血清 $\mathrm { I g } \mathrm { M }$ 、IgA的含量均有所提高，E 组血清IgM、IgA含量显著高于对照组（ $\cdot P { < } 0 . 0 5 \rangle$ ，分别提高了 $1 7 . 0 0 \%$ 、 $20 . 3 0 \%$ ；各试验组血清IgG 含量均有所提高，且以C 组最高，但各组间差异不显著 $( P { > } 0 . 0 5 )$ 。第63天，与对照组相比，试验组血清IgG含量均有所提高，但各组间血清 $\mathrm { I g } \mathrm { M }$ 、IgA、IgG含量均差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+63rd day   
+表5纳米硒对第 42天产蛋鸡血清免疫指标的影响  
+Table 5Effects of nano-selenium on serum immune indices of laying hens at the 42nd d ay ug/mL   
+
+<html><body><table><tr><td>组别</td><td>免疫球蛋白M</td><td>免疫球蛋白A</td><td>免疫球蛋白G</td></tr><tr><td>Groups</td><td>IgM</td><td>IgA</td><td>IgG</td></tr><tr><td>A B</td><td>35.94±2.49b 38.49±3.02ab</td><td>41.48±3.20b 45.40±6.21ab</td><td>497.15±42.94 535.61±65.87</td></tr><tr><td></td><td></td><td>44.40±2.05ab</td><td>558.43±41.78</td></tr><tr><td>C</td><td>40.86±1.55a</td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>D</td><td>40.06±1.53ab</td><td>44.80±3.05ab</td><td>525.28±45.83</td></tr><tr><td>E</td><td>42.05±4.52a</td><td>49.90±5.11a</td><td>545.93±43.80</td></tr><tr><td>F</td><td>38.97±3.14ab</td><td>47.89±2.09ab</td><td>516.87±39.31</td></tr></table></body></html>
+
+表6纳米硒对第63天产蛋鸡血清免疫指标的影响
+
+Table 6Effects of nano-selenium on serum immune indices of laying hens at the 63rd d ay μg/mL   
+
+<html><body><table><tr><td>组别 Groups</td><td>免疫球蛋白M IgM</td><td>免疫球蛋白A IgA</td><td>免疫球蛋白G IgG</td></tr><tr><td>A</td><td>40.36±2.37</td><td>47.54±1.34</td><td>503.21±19.05</td></tr><tr><td>B</td><td>42.72±5.50</td><td>51.91±4.86</td><td>568.23±74.40</td></tr><tr><td>C</td><td>41.04±2.80</td><td>47.50±0.76</td><td>545.85±23.09</td></tr><tr><td>D</td><td>38.43±4.00</td><td>48.97±3.62</td><td>514.18±34.22</td></tr><tr><td>E</td><td>40.00±1.93</td><td>48.03±2.46</td><td>557.42±54.48</td></tr><tr><td>F</td><td>38.73±1.72</td><td>48.86±2.84</td><td>509.55±91.95</td></tr></table></body></html>
+
+2.3纳米硒对产蛋鸡血清生化指标的影响
+
+由表7、表8可知，第42天，与对照组相比，D组血清ALB含量显著提高（ $\lceil P { < } 0 . 0 5 \rangle$ )，D 组血清TG和Glu含量极显著降低（ $\scriptstyle \cdot < 0 . 0 1 .$ )，F组血清TP含量显著升高（ $( P { < } 0 . 0 5 )$ ，E、F组血清UA含量显著降低（ $\scriptstyle \left. P < 0 . 0 5 \right)$ ；各组间血清ALP 活性和TC含量差异不显著 $( P { > } 0 . 0$ 5)。第63天，与对照组相比，F组血清TP含量显著提高（ $\scriptstyle \cdot < 0 . 0 5$ )，血清ALP活性和Gl$\mathbf { u }$ 含量显著降低（ $P { < } 0 . 0 5 )$ ；各组间血清 ALB、TC、TG、UA含量差异不显著 $( P { > } 0 . 0 5 )$ 。
+
+表7纳米硒对第 42天产蛋鸡血清生化指标的影响  
+Table 7Effects of nano-selenium on serum biochemical indices of laying hens at the 42n d day   
+
+<html><body><table><tr><td rowspan="2">贝 Itens</td><td colspan="6">组别 Groups</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>蛋白 ALB/(g/L)</td><td>13.39±0.94b</td><td>13.36±0.92b</td><td>13.71±0.95ab</td><td>14.55±0.95a</td><td>13.74±0.41ab</td><td>13.95±0.76ab</td></tr><tr><td>h 碱性磷酸酶 ALP/（U/</td><td>311.6±40.08</td><td>295.43±97.32</td><td>247.22±49.08</td><td>290.38±60.38</td><td>315.62±58.56</td><td>320.66±54.61</td></tr><tr><td>L) 总胆固醇 TC/（mmol/ L)</td><td>2.41±0.39</td><td>2.19±0.38</td><td>2.07±0.55</td><td>2.18±0.56</td><td>2.03±0.14</td><td>2.06±0.35</td></tr><tr><td>甘油三酯 TG/（mmol/</td><td>9.78±1.16Aa</td><td>8.28±1.22ABb</td><td>7.34±0.68Bbc</td><td>7.38±1.22Bbc</td><td>6.62±0.64Bc</td><td>6.69±1.44Bc</td></tr><tr><td>L） 总蛋白 TP/(g/L)</td><td>51.40±2.75b</td><td>52.33±3.94ab</td><td>52.50±1.82ab</td><td>54.35±2.77ab</td><td>54.43±2.38ab</td><td>55.22±1.32a</td></tr><tr><td>尿酸 UA/（μmol/L)</td><td>235.20±57.59a</td><td>189.76±71.70ab</td><td>177.02±46.21ab</td><td>180.68±34.36ab</td><td>158.23±37.24b</td><td>159.70±46.26b</td></tr><tr><td>葡萄糖 Glu/（mmol/L)</td><td>13.16±0.79Aa</td><td>12.51±0.34ABab</td><td>11.92±0.71BCbc</td><td>11.71±0.48BCbc</td><td>11.16±0.99Cc</td><td>11.64±0.49BCbc</td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $P { < } 0 . 0 5$ )，不同大写字母表示差异极显著（ $_ { . } { \cal P } { < } 0 . 0 1$ )，相同或无字母表示差异不显著（ $_ { \cdot P > 0 . 0 5 }$ 。表8同。
+
+In the same row,values with different small letter superscripts mean significant difference $( \mathrm { P } { < } 0 . 0 5 )$ and with different capital letter superscripts mean significant difference $( \mathrm { P } { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( \mathrm { P } { > } 0 . 0 5 )$ . The same as Table 8.
+
+表8纳米硒对第63天产蛋鸡血清生化指标的影响
+
+Table 8Effects of nano-selenium on serum biochemical indices of laying hens at the 63r d day   
+
+<html><body><table><tr><td>项目</td><td colspan="6">组别 Groups</td></tr><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>白蛋白 ALB/(g/L)</td><td>13.58±0.29</td><td>13.70±0.90</td><td>13.78±1.06</td><td>13.94±0.89</td><td>13.90±1.23</td><td>14.30±0.56</td></tr><tr><td>碱性磷酸酶 ALP/（U/</td><td>302±13.47a</td><td>296.57±76.10a</td><td>226.50±53.14ab</td><td>236.25±60.84ab</td><td>228.60±10.23ab</td><td>208.60±23.57b</td></tr><tr><td>L） 总胆固醇 TC/（mmol/</td><td>2.44±0.35</td><td>2.34±0.40</td><td>2.31±0.48</td><td>2.24±0.23</td><td>2.28±0.49</td><td>2.24±0.26</td></tr><tr><td>L) 甘油三酯 TG/（mmol/</td><td>7.87±0.26</td><td>7.57±1.53</td><td>6.71±0.53</td><td>6.86±1.13</td><td>7.33±0.81</td><td>7.06±0.94</td></tr><tr><td>L) 总蛋白 TP/(g/L)</td><td>51.97±6.05b</td><td>52.57±3.83ab</td><td>56.80±6.95ab</td><td>56.03±3.92ab</td><td>57.06±3.53ab</td><td>57.58±3.32a</td></tr><tr><td>尿酸 UA/（μmol/L）</td><td>213.57±1.86</td><td>196.80±60.37</td><td>190.27±52.18</td><td>201.45±44.43</td><td>204.63±26.40</td><td>208.39±33.52</td></tr><tr><td>葡萄糖 Glu/ (mmol/L)</td><td>12.94±0.31Aa</td><td>12.05±0.94ABb</td><td>12.12±0.86ABb</td><td>11.91±0.78ABb</td><td>11.78±0.76Bb</td><td>11.87±0.90ABb</td></tr></table></body></html>
+
+2.4 纳米硒对产蛋鸡蛋黄中硒、铁、锌、锰、铜含量的影响
+
+由表9、表10、表11、表12可知，第21天，与对照组相比，C组蛋黄中硒含量显著提高（ $\cdot P { < } 0 . 0 5 \$ ，D、E、F组蛋黄中硒含量极显著提高（ $\scriptstyle P < 0 . 0 1 { \dot { } }$ )，且E、F组蛋黄中硒含量极显著高于B、C、D组（ $\scriptstyle \cdot < 0 . 0 1 .$ )。第42天，与对照组相比，试验组蛋黄中硒含量均显著或极显著提高（ $\cdot < 0 . 0 5$ 或 $\scriptstyle P < 0 . 0 1 { \mathrm { . } }$ )，其中F组蛋黄中硒含量极显著提高了 $8 0 . 0 1 \%$ （ $P { < } 0$ 01)，且C、D、E、F组蛋黄中硒含量极显著高于B组（ $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ 。第63天，C、D、E、F组蛋黄中硒含量极显著高于对照组和B组（ $\scriptstyle \cdot < 0 . 0 1 )$ ，且C、D、E、F组间蛋黄中硒含量差异不显著 $( P 5 0 . 0 5 )$ 。从数值上看，各试验期蛋黄中硒含量均以F组的最高，且第42天各试验组蛋黄中硒含量均高于第 21、63天。
+
+与对照组相比，除第42天试验组蛋黄中锌含量显著高于对照组（ $\cdot P { < } 0 . 0 5$ ）外，各组各试验期蛋黄中铁、锰、锌、铜含量均无显著差异 $( P { > } 0 . 0 5 )$ 。
+
+# 表9纳米硒对产蛋鸡蛋黄中硒含量的影响
+
+Table 9Effects of nano-selenium on yolk selenium content of laying hens $\mu \mathrm { g / k g }$
+
+<html><body><table><tr><td>组别 Group</td><td>第 21天 The 21st day</td><td>第42天 The 42th day</td><td>第63天The 63rd期刊</td></tr><tr><td>A</td><td>294.36±16.41Cc</td><td>277.03±22.11Cd</td><td>271.74±32.70Bb</td></tr><tr><td>B</td><td>331.93±33.80BCbc</td><td>343.60±33.65Cc</td><td>289.73±24.62Bb</td></tr><tr><td>C</td><td>362.83±26.43BCb</td><td>416.40±37.12Bb</td><td>394.89±31.05Aa</td></tr><tr><td>D</td><td>376.32±48.10Bb</td><td>426.30±37.26Bb</td><td>403.63±31.24Aa</td></tr><tr><td>E</td><td>480.66±15.86Aa</td><td>449.97±24.52ABab</td><td>411.62±17.74Aa</td></tr><tr><td>F</td><td>486.64±27.73Aa</td><td>498.69±8.93Aa</td><td>442.89±45.54Aa</td></tr></table></body></html>
+
+# 表10纳米硒对第 21天产蛋鸡蛋黄中铁、锰、铜、锌含量的影响
+
+Table 10Effects of nano-selenium on yolk Fe,Mn,Zn and Cu contents of laying hens at the 21st   
+
+<html><body><table><tr><td></td><td></td><td>day mg/kg</td><td></td><td></td></tr><tr><td>组别</td><td>铁</td><td>锰</td><td>锌</td><td>铜</td></tr><tr><td>Groups</td><td>Fe</td><td>Mn</td><td>Zn</td><td>Cu</td></tr><tr><td>A</td><td>18.93±5.69</td><td>4.51±2.98</td><td>41.01±3.10</td><td>12.37±2.61</td></tr><tr><td>B</td><td>23.79±1.81</td><td>5.30±1.82</td><td>45.67±4.27</td><td>13.11±0.60</td></tr><tr><td>C</td><td>25.98±5.14</td><td>5.83±2.51</td><td>45.90±2.79</td><td>12.71±1.59</td></tr><tr><td>D</td><td>21.93±4.80</td><td>5.81±5.83</td><td>46.98±2.56</td><td>12.40±3.63</td></tr><tr><td>E</td><td>23.96±4.05</td><td>6.53±3.82</td><td>42.97±5.43</td><td>12.52±2.13</td></tr><tr><td>F</td><td>24.00±3.14</td><td>7.41±3.70</td><td>43.24±3.78</td><td>12.10±1.82</td></tr></table></body></html>
+
+表11纳米硒对第42天产蛋鸡蛋黄中铁、锰、铜、锌含量的影响 Table 1l Effects of nano-selenium on yolk Fe,Mn,Zn and Cu contents of laying hens a t the 42nd day mg/kg   
+
+<html><body><table><tr><td>组别</td><td>铁</td><td>锰</td><td>锌</td><td>铜</td></tr><tr><td>Groups</td><td>Fe</td><td>Mn</td><td>Zn</td><td>Cu</td></tr><tr><td>A</td><td>27.22±2.15</td><td>5.32±1.71</td><td>38.29±2.45b</td><td>13.31±1.13</td></tr><tr><td>B</td><td>28.52±3.97</td><td>5.30±3.74</td><td>45.07±2.23a</td><td>13.20±2.32</td></tr><tr><td>C</td><td>32.32±1.06</td><td>5.30±3.03</td><td>43.29±4.53a</td><td>13.31±1.90</td></tr><tr><td>D</td><td>30.00±4.39</td><td>6.82±2.43</td><td>44.31±1.11a</td><td>11.42±3.02</td></tr><tr><td>E</td><td>32.02±2.41</td><td>5.71±3.34</td><td>44.26±3.73a</td><td>10.91±4.34</td></tr><tr><td>F</td><td>29.72±4.28</td><td>6.01±2.31</td><td>45.09±1.20a</td><td>12.22±3.14</td></tr></table></body></html>
+
+表12纳米硒对第63天产蛋鸡蛋黄中铁、锰、铜、锌含量的影响
+
+Table 12 Effects of nano-selenium on yolk Fe,Mn,Zn and Cu contents of laying hens a t the 63rd daymg/kg   
+
+<html><body><table><tr><td>组别</td><td>铁</td><td>锰</td><td>锌</td><td>铜</td></tr><tr><td>A</td><td>34.53±3.48</td><td>5.92±1.90</td><td>47.01±3.52</td><td>10.60±0.87</td></tr><tr><td>B</td><td>35.68±1.77</td><td>6.03±2.71</td><td>46.67±1.73</td><td>10.51±1.00</td></tr><tr><td>C</td><td>32.41±3.98</td><td>6.00±0.84</td><td>47.01±2.72</td><td>11.66±0.93</td></tr><tr><td>D</td><td>33.92±3.14</td><td>6.21±0.91</td><td>43.58±2.64</td><td>12.26±1.54</td></tr><tr><td>E</td><td>36.72±1.30</td><td>6.23±2.82</td><td>43.58±3.39</td><td>11.32±0.66</td></tr><tr><td>F</td><td>35.35±3.07</td><td>6.23±3.91</td><td>47.80±2.55</td><td>12.64±1.07</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1纳米硒对产蛋鸡生产性能的影响
+
+添加硒能否提高生产性能是养殖者和研究者们首要关注的问题，近年来针对于不同硒源的作用效果的研究比较多，但是应用于产蛋鸡的研究比较少。李士平等[8研究表明，饲粮添加 $0 . 1 , 0 . 2 \mathrm { \ m g / k g }$ 的硒对产蛋鸡生产性能无显著影响。夏枚生等[9]研究表明，饲粮添加 $0 . 2 \sim$ $1 . 0 \ \mathrm { m g / k g }$ 的纳米硒能显著提高肉鸡的生长性能，且 $0 . 4 { \sim } 0 . 5 \ \mathrm { m g / k g }$ 纳米硒组的肉鸡平均日增重（ADG）和料重比显著优于 $0 . 2 ~ \mathrm { m g / k g }$ 纳米硒组； $0 . 4 { \sim } 1 . 0 \ \mathrm { m g / k g }$ 纳米硒组对肉鸡生长性能的影响显著高于相同水平的亚硒酸钠组， $0 . 1 { \sim } 0 . 3 \ \mathrm { \ m g / k g }$ 添加水平时，两者之间差异不显著。由此可知，无论是添加无机硒还是有机硒，只有添加一定剂量的硒才能对鸡的生产性能产生影响，并且纳米硒在一定水平下比亚硒酸钠作用效果好。李宝春等[10]针对蛋雏鸡的研究表明，饲粮添加 $0 . 4 ~ \mathrm { m g / k g }$ 的纳米硒， $1 6 { \sim } 2 6$ 日龄蛋雏鸡的ADG低于对照组，但能促进 $2 7 { \sim } 3 6$ 日龄蛋雏鸡的生长发育，且作用效果优于相同添加水平的亚硒酸钠。这说明纳米硒对处于不同生长期的蛋雏鸡的作用效果不同，所以针对不同品种的产蛋鸡饲粮的纳米硒添加量、添加时间和持续饲喂时间的研究也很重要。本研究表明，在产蛋鸡饲粮中添加不同水平 $\mathrm { ( 0 . 1 { \sim } 0 . 5 ~ \ m g / k g ) }$ ）的纳米硒，试验前期（第21天）产蛋率在数值上有一定的提高，但未达显著水平， $0 . 2 ~ \mathrm { m g / k g }$ 纳米硒组的料蛋比显著降低；随试验期的延长（第 42、63天)，0.$3 \mathrm { \ m g / k g }$ 纳米硒组的破壳率显著降低，试验至第 42、63 天，添加不同水平的纳米硒对平均蛋重、产蛋率、料蛋比无显著影响，但从数值上看， $0 . 1 { \sim } 0 . 4 \ \mathrm { m g / k g }$ 纳米硒有提高产蛋率和降低料蛋比的趋势。说明饲粮中添加适量的纳米硒对产蛋鸡生产性能有一定的促进作用。
+
+# 3.2纳米硒对产蛋鸡血清免疫指标的影响
+
+IgG、IgA、IgM 是家禽参与体液反应的3种主要的免疫球蛋白，其中IgG 在血清中的含量最高，其含量直接影响禽的体液免疫功能。IgA占血清免疫球蛋白的 $10 \%$ 左右，仅次于IgM，是机体黏膜局部抗感染免疫的主要抗体。 $\mathrm { I g } \mathrm { M }$ 是初次免疫应答中最早产生的免疫球蛋白，在血清中含量较少，但是作为高效抗体对体液免疫有重要作用。缺硒会导致血清 IgG、IgA、IgM含量的下降。研究表明，相比于对照组（ $0 . 2 ~ \mathrm { m g / k g }$ 硒)，低硒组( $\mathrm { 0 . 0 3 4 ~ 6 ~ m g / k }$ g硒）雏鸡血清IgG含量在14、28、42日龄时均极显著降低，血清 $\mathrm { I g } \mathrm { M }$ 含量在 28、42日龄时显著降低，血清IgA含量在42日龄时极显著降低[1]。由此可以看出，缺硒对血清免疫球蛋白的影响程度由大到小为IgG、IgM、IgA。Cai等[12]研究表明，在1日龄的肉鸡饲粮中添加 $0 . 3 \mathrm { \ m g / k g }$ 纳米硒，饲喂42d后能显著提高血清IgG、IgM的含量， $0 . 5 \mathrm { \ m g / k g }$ 纳米硒组血清IgG、IgM的含量显著低于 $0 . 3 \mathrm { \ m g / k g }$ 纳米硒组，然而饲喂21d时各试验组血清 IgG、IgM、IgA含量均无显著提高。胥保华[13]针对肉鸡的研究表明， $0 . 2 { \sim } 0 . 5 \ \mathrm { m g / k g }$ 的纳米硒能显著提高血清 IgG、IgM、IgA 含量，且血清IgG、IgM含量显著高于相同水平的亚硒酸钠组和硒代蛋氨酸组。由此可知，适量的纳米硒可增强禽类机体的免疫功能，且作用效果受纳米硒添加水平和饲养时间的影响。本试验结果与以上研究结果基本一致。添加 $0 . 1 { \sim } 0 . 5 \mathrm { ~ m g } /$ $\mathrm { k g }$ 的纳米硒能提高试验第42天产蛋鸡血清IgG、IgM、IgA的含量，相比于对照组， $0 . 4 \mathrm { ~ m ~ }$ g/kg 纳米硒组血清IgM、IgA的含量分别提高了 $1 7 . 0 0 \%$ 、 $2 0 . 3 0 \%$ ；试验第63天，各试验组的血清IgM、IgA含量均有一定的提高。本研究验证了纳米硒能提高产蛋鸡血清的免疫活性，且与对照组相比，试验至42d的作用效果最为明显。
+
+# 3.3纳米硒对产蛋鸡血清生化指标的影响
+
+畜禽血清生化指标能反映其机体健康及代谢状况，其中血清 TP、UA 含量反映蛋白质利用情况，血清 TC 和TG含量反映血脂水平，对动物的健康有重要的参考价值。曲湘勇等[14]研究表明，在鹑饲粮中添加 $0 . 2 , \ 0 . 4 \ \mathrm { m g / k g }$ 的纳米硒极显著降低了血清UA含量，0.4mg/kg 的纳米硒可极显著降低血清中TC、TP、ALB 含量，且作用效果优于酵母硒，但2种硒源对血清 TG 含量均无显著影响。Vigas 等[15]针对小鼠的研究表明，添加0.25、 $0 . 5 0 ~ \mathrm { m g / }$ $\mathbf { k g }$ 的亚硒酸钠可显著降低血清中 TG 的含量，但对血清中 TC 含量无显著影响。盛希群[16]针对小鼠的研究表明,浓度为 $2 \ \mathrm { m g / k g }$ 的亚硒酸钠对糖尿病小鼠有降Glu 的作用。由此可知，硒能在一定程度上降低血脂、血糖含量，对动物健康有促进作用。本研究表明，试验第 42天，添加 $0 . 3 { \sim } 0 . 5 ~ \mathrm { m g / k g }$ 水平的纳米硒能提高血清ALB、TP含量，降低血清 TG、UA、Gl$\mathbf { u }$ 的含量， $0 . 4 , \ 0 . 5 \ \mathrm { \ m g / k g }$ 纳米硒组作用效果最好；试验第63天， $0 . 5 \mathrm { \ m g / k g }$ 纳米硒组血清TP 含量显著提高，血清ALP 活性和Glu含量显著降低。与以上结论基本一致，并且血清 ALB、TP含量升高和UA含量降低说明纳米硒可促进产蛋鸡机体蛋白质的合成，合成大于降解，对机体健康有利。血清 ALP 由成骨细胞产生，反映动物肝脏和骨的生理机能状况，有报道称，成骨细胞受损，则血清的ALP 活性增加[17]。本研究表明，添加纳米硒能使血清 ALP 活性显著降低，可以防止产蛋鸡骨细胞受损。纳米硒具有降血脂、促进机体蛋白合成、防止肝硬化、糖尿病等疾病的作用，但目前在禽方面的研究比较少，作用机理还有待深入探
+
+讨。
+
+3.4 纳米硒对产蛋鸡蛋黄中硒、铁、锌、锰、铜含量的影响
+
+有机硒吸收率比无机硒高，因此动物产品中的硒含量更高[18-19]。Hu等[20]研究表明，在肉鸡饲粮中添加0.15、0.30、0.60、1.20 mg/kg 的纳米硒能显著提高血清、肝脏、肾脏、肌肉中的硒含量，且硒含量随着添加水平的增大而增加，作用效果显著高于相同水平的亚硒酸钠组，无论是口服还是静脉注射，纳米硒组全身硒含量和肝脏硒含量都显著高于亚硒酸钠组，结扎肠袢测得纳米硒组滞留于肠中的硒含量和转移到全身的硒含量分别显著低于和高于亚硒酸钠组。由此可知，相比于亚硒酸钠，纳米硒的安全线性范围广，硒沉积效果好，利用率高。杨清丽等[21针对产蛋鸽的研究表明，添加纳米硒能显著提高蛋黄中硒含量， $0 . 4 ~ \mathrm { m g / k g }$ 纳米硒组蛋黄硒含量提高了 $1 1 1 . 8 3 \%$ 。研究表明，饲粮中添加 $0 . 1 5 \mathrm { m g / k g }$ 的硒，对肉仔鸡肝脏、胰脏中铁、锰、铜、锌含量无显著影响[22]。李士平等研究表明，产蛋鸡饲粮中添加0.1、 $0 . 2 \mathrm { m g / k g }$ 的硒，蛋黄中硒的沉积量有增高趋势，对蛋黄中铁、锰、铜、锌等元素的沉积量无显著影响。本研究表明，饲粮添加 $0 . 2 { \sim } 0 . 5 \ \mathrm { m g / k g }$ 的纳米硒能显著提高蛋黄中硒含量，试验第 21天, $0 . 4 , 0 . 5 \mathrm { m g / k g }$ 纳米硒组分别提高了 $6 3 . 2 9 \% , 6 5 . 3 2 \%$ ，试验第42天 $\mathrm { , 0 . 5 \ : m g / k g }$ 纳米硒组提高了 $8 0 . 0 1 \%$ ；试验第63天， $0 . 5 \mathrm { m g / k g }$ 纳米硒组提高了 $6 2 . 9 8 \%$ 。各试验期中蛋黄硒含量均随饲粮纳米硒添加水平的增加而增大，随着添加时间延长至第42天时添加纳米硒组的蛋黄硒含量普遍高于第 21、63天时对应组别的蛋黄硒含量。饲粮添加纳米硒提高了试验第42天蛋黄锌含量，对各试验期蛋黄铁、铜、锰含量无显著影响。
+
+# 4结论
+
+综合考虑纳米硒对产蛋鸡生产性能、血清免疫和生化指标及蛋黄硒含量的作用效果，其适宜添加水平为 $0 . 4 ~ \mathrm { m g / k g }$ ，饲喂42d效果较好。
+
+# 参考文献:
+
+[1]阎素梅,赵志恭,王守清,等.微量元素 Se 缺乏或过量对雏鸡生长发育影响的研究[J].内蒙古农牧学院学报,1992,13(4):40-49.  
+[2]江龙.量子化尺寸纳米颗粒及其在生物体系中的作用[J].无机化学学报,2000,16(2):185-194.[3]白燕,罗海英,郑文杰.纳米硒的界面化学作用[J].暨南大学学报:自然科学版,2011,32(3):345-351.  
+[4]BAI Y,QIN B Y,ZHOU Y H,et al.Preparation and antioxidant capacity of element selenium nanoparticles sol-gel compounds[J].Journal of Nanoscience and Nanotechnology,2011,11(6):5012-5017.  
+[5]WHO Working Group.Selenium[Z].Environmental Health Criteria,1987,58(6):306-311.[6]高学云,张劲松,张立德.纳米红色元素硒的急性毒性和生物利用性[J].卫生研究,2000,29(1):
+
+57-58.
+
+[7]邓世林,李新凤,郭小林.流动注射氢化物发生原子吸收光谱法测定禽蛋中的硒[J].光谱学与光谱分析,2010,30(3):809-811.  
+[8]李士平,王安,单安山.锌、硒、碘对蛋鸡蛋黄着色效果的影响[J].东北农业大学学报,2004,35(3):329-333.  
+[9]夏枚生,潘金敏,胡彩虹,等.纳米硒对肉鸡生长、肝脏脱碘酶I活性和血清甲状腺激素的影响[J].西北农林科技大学学报:自然科学版,2005,33(4):24-28.  
+[10]李宝春,朱磊.不同硒源对蛋雏鸡生长性能和免疫器官发育的影响[J].畜牧与饲料科学,2009,30(2):15-17.  
+[11]彭西.日粮硒对雏鸡免疫功能影响的机理研究[D].博士学位论文.雅安:四川农业大学,2009:89-119.  
+[12]CAI S J,WU C X,GONG L M,et al.Effects of nano-selenium on performance,meat quality,immune function,oxidation resistance,and tissue selenium content in broilers[J].Poultry Science,2012,91(10):2532-2539.  
+[13]胥保华.纳米硒对 Avian 肉鸡的生物学效应及其分子机理的研究[D].博士学位论文.杭州:浙江大学,2003:1-91.  
+[14]曲湘勇,蔡超,魏艳红,等.不同有机硒源对鹑肉、蛋中硒含量及血清生化指标的影响[J].营养学报,2014,36(4):395-397.  
+[15]VIEGAS C A M,LANCA M J,VASCONCELOS S,et al.Effect of Selenium Supplementation on some blood biochemical parameters in male rats[J].Biological Trace Element Research,1995,47(1/2/3):343-347.  
+[16]盛希群.硒与糖尿病关系的研究[D].博士学位论文.武汉:华中科技大学,2004.  
+[17]冯婧.微量元素硒对笼养育成蛋鸭生长性能及生化指标的影响[D].硕士学位论文.哈尔滨:东北农业大学,2012.  
+[18]PAYNE R L,LAVERGNE T K,SOUTHERN L L.Effect of inorganic versus organic selenium on hen production and egg selenium concentration[J].Poultry Science,2Oo5,84(2):232-237.  
+[19] YOON I,WERNER T M,BUTLER J M.Effect of source and concentration of selenium on growth performance and selenium retention in broiler chickens[J].Poultry Science,2007,86(4):727-730.  
+[20]HU C H,LI Y L,XIONG L,et al.Comparative effects of nano elemental selenium and sodium selenite on selenium retention in broiler chickens[J].Animal Feed Science and Technology,2012,177(3/4):204-210.  
+[21]杨清丽,陈继发,曲湘勇,等.纳米硒对蛋鸽生产性能、蛋中硒含量及血清抗氧化指标的影响[J].动物营养学报,2015,27(12):3895-3903.  
+[22]王安,单安山.纤维、硒对肉仔鸡生长及组织中矿物元素含量的影响[J].中国饲料,1992(6):20-21,9.
+
+Effects of Nano-Selenium on Performance, Serum Immune and Biochemical Indices and Y olk Selenium Content of Laying Hens
+
+YANG Qingli1 PENG Yudong1QU Xiangyong1\*PENG Canyang1CAO Dongmei2 SUN Anquan²
+
+(1. Collaborative Innovation Center of Hunan Livestock and Poultry Safety Production， Colle ge of Animal Science and Technology， Hunan Agricultural University, Changsha 410128,C hina；2. Omega Biotech Shanghai Co.，Ltd.，Shanghai 201203，China)
+
+Abstract: This experiment was conducted to study the effects of nano-selenium on perfor mance，serum immune and biochemical indices and yolk selenium content of laying hens. A total of 324 laying hens (29 weeks of age） were randomly allotted to 6 groups with 6 replicates in each group,and each replicate contained 9 hens. Hens in the control group (group A） were fed a basal diet, and hens in experimental groups (groups B,C,D,E an d F）were fed the diets supplemented with O.1， O.2， 0.3， O.4 and $0 . 5 \mathrm { \ m g / k g }$ nano-sele nium,respectively. The adjustment period lasted for 7 days,and the experimental period la sted for 63 days. The results showed as follows:1） compared with the control group,the feed to egg ratio at the 21st day of group C was significantly decreased $( P { < } 0 . 0 5 )$ ，the gr ain-hulling rate at the 42nd and 63rd day of groups B and D was significantly decreased （20 $( P { < } 0 . 0 5 )$ . There were no significant effects on laying rate and average egg weight amng all groups( $P { > } 0 . 0 5 \$ ）．2）Compared with the control group,the contents of immunoglobu lin M (IgM) and immunoglobulin A (IgA) in serum at the 42nd day of group E were sig nificantly increased $( P { < } 0 . 0 5 )$ ，and there was no significant effect on serum immunoglobulin G $\mathrm { ( I g G ) }$ content at the 42nd day among all groups（ $P { > } 0 . 0 5$ ）.There were no significa nt effects on serum $\mathrm { I g } \mathrm { M }$ ， IgA and IgG contents at the 63rd day among all groups( $P { > } 0$ 05).3) Compared with the control group,at the 42nd day,the serum albumin content of group D was significantly increased $( P { < } 0 . 0 5 )$ ，the serum triglyceride（TG） and glucose(Gl u） contents of group D were significantly decreased $( P { < } 0 . 0 1 ) \$ )，the serum total protein (TP) content of group F was significantly increased( $( P { < } 0 . 0 5 )$ ，the serum uric acid（UA） conten t of groups E and $\mathrm { ~ F ~ }$ was significantly decreased $( P { < } 0 . 0 5 )$ .Compared with the control gro up,at the 63rd day, the serum TP content of group F was significantly increased $( P { < } 0 . 0 5 )$ ， the serum alkaline phosphatase（ALP） activity and Glu content of group $\mathrm { ~ F ~ }$ were signifi cantly decreased $( P { < } 0 . 0 5 )$ .4） Compared with the control group，the yolk selenium content at the 2lst day of groups C,D,E and $\mathrm { ~ F ~ }$ was significantly increased ( $_ { P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ ), the yolk selenium content at the 42nd days of experimental groups was significantly incr eased ( $_ { \it P < 0 . 0 5 }$ or $P { < } 0 . 0 1$ )，the yolk selenium content at the 63rd day of groups C,D，E and $\mathrm { ~ F ~ }$ was significantly increased $( P { < } 0 . 0 1 )$ .The yolk selenium content of group $\mathrm { ~ F ~ }$ was the highest at all experiment period,and the yolk selenium content of experimental groups at the 42nd days was higher than that at the 21st and 63rd day. There were no significant effects on yolk iron，manganese, zinc and copper contents among all groups( $. P { > } 0 . 0 5 )$ ， except the yolk zinc content at the 42nd day of experimental groups was significantly hig her than that of control group $( P { < } 0 . 0 5 )$ . In conclusion, dietary nano-selenium can improve the performance of laying hens, improve the serum immunity， promote the synthesis of $\boldsymbol { \mathrm { ~ p ~ } }$ roteins of organism,reduce the content of cholesterol in blood，promote the health of hens and increase the yolk selenium content. Comprehensive consideration， the optimum level of nano-selenium in the diet is $0 . 4 ~ \mathrm { m g / k g }$ ，and the effect is more obvious when experime nt last for 42 days.
+
+Key words: laying hens； nano-selenium; performance； serum biochemical indices； yolk selenium content

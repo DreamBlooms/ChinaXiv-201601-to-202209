@@ -1,0 +1,587 @@
+[
+    {
+        "type": "text",
+        "text": "移动边缘计算在车载网中的应用综述",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "谷晓会，章国安",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(南通大学 信息科学技术学院，江苏 南通 226019)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：移动边缘计算（MEC）技术将IT服务环境与云计算技术在网络边缘相结合，提高边缘网络的计算和存储能力，减少网络操作和服务交付时延。应用MEC的车载网络，可以满足车辆对服务延时和通信可靠性的严格要求，提升车辆用户的服务质量（QoS)。对移动边缘计算在车载网中的应用进行分析研究，首先概述MEC的基本概念及架构、典型应用场景；然后介绍MEC在车载网中的应用、基于软件定义网络（SDN）的车载网MEC研究现状以及车载网 MEC应用实例；最后给出了车载网中部署MEC所要面临的问题和挑战，并对该领域未来进一步的研究方向进行了展望。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：车载网；移动边缘计算；云计算；服务质量；软件定义网络中图分类号：TN92 doi:10.19734/j.issn.1001-3695.2019.01.0001",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Survey of mobile edge computing applications in vehicular networks ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gu Xiohui, Zhang Guoan† (School ofInformation Science & Technology,Nantong University,Nantong Jiangsu 226019,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Mobile edge computing technology combines IT service environments and cloud computing technologies atthe edge ofthe network to improve thecomputing and storage capabilitiesof edge networks while reducing network operations andservice deliverydelays.Vehicular networks integrating MEC,could meet the strict requirements ofvehicle service delay andcommunication reliabilityas wellas improve thequalityof service for vehicle users.This paper studiedandanalyzed MEC applications in vehicular networks.Firstly,it provided abrief on the basic concept and architecture of MEC,and its typical applicationscenarios.Thereafter,itdescribedacomprehensivesurveyofrelevant research intheareaofMEC-based vehicular networks along with a focus on the current SDN-related works on MEC-based vehicular networks,as wellas several usecases.Finally,tis paper discused the main problemsand challenges todeploy MEC in vehicular networks; and analyzed the future research directions on these areas. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: vehicular networks; mobile edge computing (MEC); cloud computing; quality of service(QoS)； software defined network (SDN) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "无线通信、传感和云计算技术的发展已经引起了汽车行业的转型[1,2]。车载网旨在利用无线通信技术改善交通安全程度并提升通行效率[3]，实现车辆与车辆（vehicletovehicle，V2V）、周边基础设施（vehicle to infrastructure，V2I）、路边行人（vehicle to person，V2P）、互联网（vehicle to network,V2N）和云服务器（vehicletocloud，V2C）等互相通信交换信息[4]，这些通信方式统称为V2X（vehicularto everything）。V2X是推动道路状况预测、协作避撞、自动驾驶等新型车载应用发展的关键因素[5]。V2X技术要求车辆、移动设备和路边基础设施具有短距离通信功能，通过短距离V2X通信提高行车安全和交通效率。因此，如何提升智能交通水平和V2X通信质量已经成为研究热点，受到了国内外的广泛关注。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "云化是移动网络的趋势，可以提供更高的效率和灵活性[7]。MEC利用运营商的网络，使分布式的网络边缘云与中心云互补，通过Uu（userequipment，用户设备）接口为车辆、行人提供低时延、高可靠性的本地服务（如本地化高清地图下载、通信链路拥塞控制优化、本地大数据分析等)，从而改善交通安全与自动驾驶的性能，提高交通效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "部署在RSU（roadsideunite，路边单元）和eNB（evolvedNodeB）上的MEC服务器提供车载网管理平台应用，就近分析和处理V2X数据，能够大大节省数据传输往返的时间。MEC能够直接从V2X终端获取本地消息，并通过车载网管理平台应用的算法分析，将需要实时传输的路况信息或交通事故信息下发至其通信覆盖范围内的V2X终端，便于车载系统提前决策，提高智能交通的安全性；MEC能够对终端用户上传的数据进行预处理，并将有价值的片段（如监控画面有变化的、出现预配置事件的）回传给终端用户，从而避免可能的核心网络的拥堵，也可以节省传输资源，提高智能交通的管理效率[8]。另外，MEC 服务器与RSU通过有线网连接在一起[9]，相互传输服务数据包，降低了网络带宽的压力。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 MEC背景",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1MEC概念及架构",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "欧洲电信标准化协会（Europeantelecommunicationsstandardsinstitute，ETSI）对MEC的定义是：在移动网络边缘、无线接入网（radioaccessnetwork，RAN）内以及移动用户附近，提供IT服务环境和云计算能力。欧洲5GPPP(5Gpublicprivatepartnership，5G公私合作伙伴关系)认为MEC是 5G网络的关键技术[10]。MEC在RAN提供云计算功能，在基站部署MEC服务器可以增强计算并避免核心网流量拥堵和系统故障。MEC向应用程序和内容开发人员提供实时RAN信息（如网络负载、用户位置)，用于向移动用户提供情景感知服务[II],提高用户的满意度并改善体验质量(qualityofexperience，QoE)。同时，网络运营商可以允许第三方合作伙伴处理无线网络边缘，为移动用户和企业开发新应用和边缘服务。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ETSIMECISG于2014年12月开始致力于MEC的研究，旨在制定在多供应商环境中运行第三方应用程序的统一规范[12]。在介绍 MEC 技术的白皮书[13]中,ETSIMEC ISG为MEC服务器（又名MEC平台）定义了一个参考框架，由托管基础设施和应用平台组成，如图1所示。托管基础设施包括MEC硬件组件（如计算、内存和网络资源）和MEC虚拟化层（将详细的硬件实现细节抽象到MEC应用平台)。MEC应用平台包括虚拟化管理器和基础设施即服务（infrastructureasaservice，IaaS)控制器，并提供多种MEC应用平台服务。MEC虚拟化管理器通过提供IaaS设备支持托管环境，而IaaS控制器为应用程序和MEC平台提供安全和资源沙箱（即虚拟环境)。MEC应用平台主要提供四种服务，即流量卸载功能、无线网信息服务、通信服务和服务注册。运营商通过MEC应用平台管理界面管理、配置MEC应用并控制其生命周期。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa86ba7d1b5f44b210a50d6f6fe81a873af1fd80aa170ce980e45013a8ef285f.jpg",
+        "img_caption": [
+            "图1 MEC 平台的基本框架Fig. 1 MEC platform overview"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2MEC的应用场景",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本节将介绍ESTI白皮书[13]中讨论的MEC的新型应用场景，如视频流分析、增强现实（augmented reality，AR）、计算卸载、移动大数据分析和智能交通等应用。这些应用计算密集且需要较大的存储容量，需要MEC为移动设备提供支持。此外，在文献[14]中，MEC的应用领域扩展到SDN。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7a7726464bd8d2ca35ea03f6278b9da50d4dbe80941692a6e678c36226cb626.jpg",
+        "img_caption": [
+            "图2使用MEC的视频流分析Fig.2MEC for video stream analysis"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.1视频流分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "视频流分析具有广泛的应用，如车辆牌照识别、人脸识别和安全监视，其基本操作包括对象检测和对象分类。视频分析算法通常具有较高的计算复杂度，因此优先选择将视频分析任务从视频捕获设备（如相机）卸载出去以简化设备设计并降低成本。将视频分析任务通过核心网路由到中央云进行处理，将消耗大量的网络带宽[15]，而在靠近边缘设备的地方进行视频分析，不仅可以减少延迟，还能避免上传视频流引起的网络拥塞。基于MEC的视频流分析系统如图2所示。其中MEC服务器具有视频管理和分析的能力，并将有价值的视频片段（或屏幕截图）备份到云数据中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/14a26a1bc91ce224fcb8ca67fd754908ea160978cb045536792d25214fada529.jpg",
+        "img_caption": [
+            "图3使用MEC的AR服务Fig.3MEC for AR service"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.2增强现实 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AR是物理现实世界环境中的实时直接或间接视图，其元素通过计算机生成的传感、感知信息（如声音、视频、图形或数据等）增强或补充。AR应用程序应实时提供所需数据信息，具有高度本地化的特点，需要具备低延迟和密集数据处理能力。AR最受欢迎的应用包括观看体育赛事和博物馆视频指南[16,17]，即手持移动设备能显示一些在现场不易展示的动态图像和某些藏品的详细信息。使用MEC的AR应用系统如图3所示。其中MEC服务器能够准确地分析输入数据并区分所请求的内容，然后将AR数据发送给终端用户。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2.3计算卸载",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着移动设备和用户需求的增加，越来越多的应用程序正在努力提供定制服务，对实时通信和计算能力提出严格的要求。但是移动设备的资源、计算能力和电池容量有限，因此将部分或全部计算任务上传到边缘服务器的移动边缘计算卸载（mobile edge computing offloading，MECO）技术成为研究热点。相比于将任务卸载到云服务器，MECO不仅可以节省带宽资源，还能减少计算延迟。图4(a)是多用户MECO系统；(b)显示了移动设备内部计算卸载的过程。输入的计算任务数据大小为 $d _ { n }$ ，上传到MEC服务器的任务量为 $d _ { n } \\alpha _ { n }$ ， $\\alpha _ { n }$ 是上传任务的比例，那么本地计算的任务量为 $d _ { n } \\left( 1 - \\alpha _ { n } \\right)$ ，根据用户的时延和能耗要求以及传输数据的信道状态，可以制定出最小化能耗或时延的卸载策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9bae32ccc761ad4ef1dc60857671cad7c638b160767bceaa67229faa55a322c.jpg",
+        "img_caption": [
+            "(a)多用户MEC系统 (a) Multi-userMEC system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b5f9c0785ed04d3cf669eb2fed571f8e562e04e9775ea357bd74196002e9c22.jpg",
+        "img_caption": [
+            "图4使用MEC的计算卸载"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.4移动大数据分析 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "近年来越来越多的人将手持移动设备作为上网的主要方式，因此分析大量移动设备产生的大数据，逐渐成为了解和分析目标市场的最有效途径[18]。大数据是由大量结构化和非结构化数据组成的数据集合。大数据分析是指对原始大数据进行分析，提取有意义的信息，制定更好的战略决策和业务动向的过程。传统的大数据分析要将边缘设备产生的数据收集并转发到核心网络进行分析[19]，此过程消耗大量带宽和时延。应用MEC平台在网络边缘分析大数据可以节约大量带宽，及时反馈分析结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.5智能交通",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "智能交通旨在解决城市居民面临的交通堵塞、道路条件差、停车位少、交通安全等问题。通过向路边基站（basestationBS）添加分布式计算和存储服务，MEC是推动车载网进步的关键技术。通过接收和分析来自邻近车辆和路边传感器的消息，互联的车辆微云能够在 $2 0 ~ \\mathrm { m s }$ 的端到端延迟内传播危险警告和延迟敏感消息，驾驶员根据收到的消息立即作出反映（图5)，使自动驾驶成为可能[20]。在车载网边缘收集路边摄像头和传感器设备的实时数据，可以实现交通控制自动化。传感器设备检测附近物体（如行人和车辆）的距离和速度，交通控制系统根据收集到的数据，向智能红绿灯发射信号指示车辆行为[2I]。类似地，智能停车系统可以通过收集用户上下班信息和分析附近用户周围的可用空间来提供停车信息或设计停车场。另外，车载网技术已引起汽车制造商（如沃尔沃、标致等）、汽车供应商（如博世）、电信运营商（如Orange、Vodafone、NTTDOCOMO等）、电信供应商（如QualComm，诺基亚，华为等)，以及许多研究机构的广泛关注。2015年11月9日，诺基亚在汽车驾驶测试平台上展示了两个车载网用例，包括紧急刹车灯和协作通行助理。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a018db20484df4fc15f124593a9c117d15b07bb42b6d28d04c270023c4e527dd.jpg",
+        "img_caption": [
+            "Fig.3MEC for computation offloading ",
+            "图5使用MEC的智能交通",
+            "Fig.5MEC for intelligent transportation system "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2.6 SDN ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SDN是一种新兴网络架构，将控制层和数据层分开实现灵活的网络管理。SDN的设计理念是在网络设备中只保留简单的数据转发功能，通过集中控制、软件编程的方式实现对网络设备的控制。编排多层边缘系统的SDN架构如图6所示[22]。基于软件的控制器具有底层网络的一般视图，负责在逻辑上控制整个网络系统，转发节点只需根据下发的逻辑策略作出相应动作。可以根据SDN控制器中的定制策略来查询和修改网络元件的路由和转发行为，通过定义修改OpenFlow的匹配/动作流规则和填充转发节点的流表来实现[23]。将MEC与SDN集中在一起集中控制网络，可以使网络管理更加有效和可靠，例如在网络拓扑变化快的车载自组织网络（vehicularadhocnetwork，VANET）中可以减少V2V通信的丢包率[24]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 MEC在车载网中的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1MEC在车载网中的研究进展",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在物联网和5G 通信愿景的推动下，近年来移动计算的模式从集中式移动云计算转移到了移动边缘计算。MEC的主要特点是将移动计算、网络控制和数据存储下沉到网络边缘(如基站和接入点)，以便在资源有限的移动设备上实现计算密集型和时延敏感型应用。MEC致力于实现大幅降低延迟和移动设备能耗的承诺，解决实现5G愿景的关键挑战。MEC取得的初步成果推动了学术界和产业界对该技术的广泛研究。MEC研究的一个主要目标是无缝融合无线通信和移动计算这两个学科，从而产生广泛的有关网络通信和架构等新设计。表1总结了MEC在车载网领域近年来的研究进展。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e2a3dcd8436f18f71efa7795acfff7f55d18058911e747c4d02e9d129e923af.jpg",
+        "img_caption": [
+            "图6SDN架构在MEC中的应用Fig.6SDN architecture for MEC"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ef1f520a9de29b835352af4e1f7ec3469a478d8480028f699d633491b8b8623.jpg",
+        "table_caption": [
+            "表1MEC 在车载网中的应用",
+            "Table 1MEC applications in vehicular networks "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>主题</td><td>文献时间</td><td></td><td>贡献</td><td>目标</td></tr><tr><td rowspan=\"5\">计算卸载</td><td>[25]2016</td><td></td><td>考虑到车辆移动性的计算卸载策略和 基于最优卸载策略的资源分配方案</td><td>最大化MEC 服务提供商的收益和 增强车辆的效用</td></tr><tr><td></td><td></td><td></td><td>最大化MEC 服务提供商的收益和</td></tr><tr><td></td><td>[27]2018</td><td>将任务按优先级划分的计算卸载和计算资源分配方案</td><td>增强车辆的效用</td></tr><tr><td>[28]2017</td><td></td><td>可以预测卸载的目标服务器的计算卸载方案 将蜂窝网络中的车辆通信业务卸载到VANET中</td><td>最小化卸载成本</td></tr><tr><td></td><td>[29]2018</td><td>V2V通信路径的计算卸载方案</td><td>减轻蜂窝网络负担</td></tr><tr><td rowspan=\"4\">资源分配</td><td></td><td>[30]2016</td><td>计算资源的分配</td><td>设计稳定的车辆控制系统</td></tr><tr><td></td><td>[31]2017</td><td>卸载服务器的选择和通信、计算资源的分配</td><td>最大化车辆的效用和服务器的收益</td></tr><tr><td></td><td>[33]2018</td><td>卸载服务器的选择和计算资源的分配</td><td>最大化系统的效用</td></tr><tr><td>[9]</td><td>2017</td><td>基于MEC的网络切片和服务定制</td><td>为基于蜂窝的车载通信提高</td></tr><tr><td>交通服务和 安全应用</td><td>[34]2017</td><td></td><td>基于MEC的分布式车辆信誉管理系统</td><td>低延迟和多样化的服务 确保服务的安全性、提高服务效率</td></tr><tr><td rowspan=\"4\">信息分发</td><td>[35]2018</td><td></td><td>基于MEC的VANET消息认证方案</td><td>提高消息认证的效率</td></tr><tr><td></td><td>[36]2016</td><td>车载延迟容忍网络MEC 协助的智能电网数据传播方案</td><td>减少数据传播时延、避免核心网拥塞</td></tr><tr><td>[37]2018</td><td></td><td>MEC 协助的VANET 发布/订阅消息的设计</td><td>实现实时消息的快速、大范围传播</td></tr><tr><td>[38]2018</td><td></td><td>MEC 协助的VANET中的内容预取和分发方案</td><td>高效共享大量车载数据</td></tr><tr><td rowspan=\"4\">网络架构</td><td>[39]2017</td><td></td><td>集成MEC和SDN的异构车载网架构</td><td>提供低延迟和高可靠性的通信</td></tr><tr><td></td><td>[40]2017</td><td>集成 MEC 和SDN 的 5G 车载网架构</td><td>丰富和增强5G车载网服务</td></tr><tr><td></td><td>[41]2018</td><td>基于SDN和ICN的车载网架构，MEC协助管理资源</td><td>动态分配网络、缓存和计算资源</td></tr><tr><td>[42]2018</td><td></td><td>基于 SDN的车载网协作边缘计算架构</td><td>有效利用异构的边缘计算基础设施</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1.1计算卸载(MECO)",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于云的车载网络是通过在远程云与本地车载终端之间分配计算任务来改进车辆服务的有前途的范例。为了进一步降低计算卸载的延迟和成本，Zhang 等人[25]在车载网络中提出了一个基于云的MECO 框架，并定义了基于契约 $( q _ { i } , p _ { i } )$ 车辆卸载任务 $i$ 所获得的效用。其中： $q _ { i }$ 是MEC 服务器为任务 $i$ 提供的计算资源量； $p _ { i }$ 是车辆卸载任务 $i$ 需要支付的费用。基于此框架，作者综合考虑服务提供商的收益和车辆的效用[26],采用契约理论方法设计了计算卸载策略。仿真结果表明,获得的最优且可行的卸载方案，最大限度地提高了MEC服务提供商的收益，增强了车辆的效用。另外，作者考虑到MEC服务器的资源限制和计算任务的延迟容忍度，提出了基于最优卸载策略的计算资源分配方案，进一步提高了MEC服务提供商的收益。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同样是采用契约理论方法设计计算卸载策略，最大化服务提供商的收益，同时增强车辆的效用，Zhang等人[27设计了一种新的车载边缘计算（vehicular edgecomputing，VEC）框架来模拟在双向道路上行驶的车辆的计算卸载过程。为了进一步提高VEC服务器的计算资源利用率，在制定卸载方案时将任务按优先级划分，并为高优先级任务提供附加资源，设计了一种包括VEC卸载服务器选择和计算资源分配的算法。数值结果表明，提出的方案大大提高了VEC服务器的收益，同时提高了计算资源的利用率。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Zhang等人[28]考虑到计算任务的要求和车辆的移动性，在基于云的车载网MECO框架下，分析了两种计算卸载方法的性能。第一种方法是直接通过V2I方式传输卸载，在高速公路上行驶的车辆首先将计算任务卸载当前连接的RSUi，在任务执行期间车辆可能通过多个RSU，MEC服务器通过无线回程链路将计算结果传输到车辆将要接入的RSUn，${ \\mathrm { R S U } } _ { \\mathrm { n } }$ 通过V2I通信将计算结果发送到车辆，该方法时间开销大、传输成本高；另一种方法是通过预测模式传输卸载，MEC服务器接收车辆上传的任务信息，计算任务的传输时间、执行时间和车辆在道路上花费的时间，再预测任务完成时车辆到达的某个 ${ \\mathrm { R S U } } _ { \\mathrm { n } }$ 的通信区域，并将该信息通知给车辆，然后车辆在到达 ${ \\mathrm { R S U } } _ { \\mathrm { n } }$ 之前通过V2V通信提前将任务发送到$\\mathsf { R S U } _ { \\mathrm { n } }$ 配置的MEC服务器，该方法无须多跳回程中继，可以节省传输成本。作者根据任务的延迟要求和计算成本，提出了最佳组合卸载方案，即根据计算任务i的延迟要求 $t _ { i , m a x }$ 选择在本地车辆终端执行任务（ $\\backslash t _ { i , l o c a l } < t _ { i , m a x } \\backslash$ ）或者将其卸载到MEC服务器 $( \\mathbf { \\Gamma } _ { t { i , l o c a l } } > \\mathbf { \\Gamma } _ { t { i , m a x } } )$ 。当车辆选择在MEC服务器上远程完成计算任务时，从车辆到RSU的传输文件有两种方法，第一种是直接V2I模式，另一种是预测传输模式。对该问题建模，即在满足时延约束下最小化卸载成本，并用纳什均衡（NE）进行求解，最终得到最佳卸载方案。实验结果表明，最佳组合卸载方案大大降低了计算成本，提高了任务传输效率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了解决蜂窝网络中存在的移动数据爆炸问题，Huang等人[29]提出了一种解决方法，将蜂窝网络中的车辆通信业务卸载到VANET中的V2V通信路径中，其中MEC架构内部的软件定义网络（SDN)，简称为SDNi-MEC服务器，用于解决VANETV2V卸载的复杂问题。在提出的SDNi-MEC架构中，每个车辆将其上下文信息（包括相邻车辆的位置、速度、方向和ID等）报告给SDNi-MEC服务器的数据库，部署在SDNi-MEC服务器内部的SDN控制器使用所提出的一种基于生命周期的网络状态路由（LT-NSR）算法和一种基于生命周期的路径恢复（LT-PR）算法，画出车辆关系图表，并根据该图表为正在进行蜂窝通信的车辆选择最合适的VANETV2V卸载路径。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.2资源分配",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "基于云的车辆控制系统易受到网络拥塞和数据包丢失的影响，因此，以超低延迟处理车辆数据的MEC技术受到了智能交通系统的关注。然而与云服务器相比，MEC服务器的计算资源是有限的，所以有必要在MEC服务器和云服务器之间动态协调和分配资源。Sasaki等人[30]提出了基于基础设施的车辆控制系统，可以共享边缘与云服务器之间的内部状态，为车辆动态的分配计算资源，并根据网络状况切换提供控制服务的服务器，实现安全驾驶。作者在微型汽车原型系统上评估了基于基础设施的车辆控制系统的稳定性，结果表明所提出的控制系统减轻了延迟波动导致的云控制的不稳定性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "考虑到MEC 服务器的计算资源有限，Zhang 等人[31提出了一种基于云的分层车载边缘计算卸载框架，引入了放置在道路旁边的备份计算服务器弥补MEC服务器计算能力有限的缺陷，并以一定价格出售计算资源。基于此框架，作者采用Stackelberg博弈理论（一种模拟多级卸载系统的有效方法[32]）设计卸载方案，包括VEC 服务器的选择和资源（通信和计算）的分配，并将该问题建模为在任务时延约束下分别最大化车辆的效用和计算服务器的收益问题。为了获得最优解，作者设计了一种分布式迭代算法证明目标函数的收敛性，并求得最优卸载策略。仿真和数值结果证明了该方案的有效性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Dai等人[33]同样考虑到了MEC服务器资源有限的问题，如果所有车辆选择同一个VEC服务器卸载任务，会降低卸载的效率和增加计算延迟。为了克服这个问题，作者提出了一种可以平衡VEC服务器负载的卸载策略，并将车辆的移动性考虑在内。由于任务处理时间是衡量车辆通信质量的关键指标，作者定义了一种基于QoS的效用函数，将VEC卸载问题建模为在时延、服务器计算能力约束下最大化系统效用的最优化问题，并设计了一种低复杂度的分布式算法求得最优卸载策略，包括计算任务是否卸载、选择卸载的VEC 服务器和为该任务分配的计算资源。数值结果显示，由于该方案联合优化了卸载和资源分配，得到的系统效用要优于其他单独优化的方案。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.3交通服务和安全应用",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为基于蜂窝的车载网络减少延迟和提供灵活的服务，Li等人[9]提出了一种新颖的车载网MEC架构，建议在无线接入网部署MEC服务器，并与道路旁的一组基站连接。介绍了MEC辅助网络切片的构想，即具有明确部署策略的MEC服务器托管一组车辆定制的网络功能（networkfunction，NF）和应用（application,APP)，并且在地理上靠近车辆提供各种实时服务。为了使MEC更好地支持网络切片和促进网络定制，进一步提出了一种数据流量调度方法用于提高服务交付的灵活性。然后，作为基于MEC定制网络服务的实例，设计了一种可以预测切换时间的车辆小区间切换机制，利用采集到的道路信息和MEC服务器的计算能力，使切换过程更加精确和顺畅，满足车载网切换技术对移动性和可靠性的要求。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Huang等人[34]关注车辆的信誉管理，以确保服务的安全性，并提高VEC的网络效率。提出了一种分布式信誉管理系统（DREAMS)，其中VEC服务器执行车辆的本地信誉管理任务，采用多重加权主观逻辑来更新DREAMS中的车辆信誉。在计算卸载场景中，作者设计了资源分配算法，并利用车辆信誉辅助优化，即服务提供商根据从DREAMS中获取车辆的信誉，为具有较高信誉值的车辆优先提供高质量的服务响应。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由于传统的消息认证方案效率低，无法识别无效消息，Cui等人[35]设计了一种基于MEC的VANET消息认证方案，RSU作为车辆云，选择部分车辆作为边缘计算节点帮助RSU进行消息认证，并将计算结果发送到RSU。RSU对车辆发送过来的消息认证结果验证筛选，并最终通过布谷鸟过滤器向车辆广播合法的消息。因此，车辆仅需要查询过滤器确定消息是否有效，不需要单独地验证所接收的消息，从而避免了冗余认证，提高了VANET消息认证的效率。实验结果表明，该方案能满足VANET的安全要求，在无攻击者的环境中性能良好，在VANET受到攻击时也能够快速识别有效和无效的消息。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.1.4信息分发",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Kumar等人[36提出了一种使用车载延迟容忍网络(vehiculardelaytolerantnetwork,VDTN)移动边缘计算向智能电网(smartgrid，SG)环境中的设备传播数据的方案。作者提出了一种集成MEC和SG环境的架构，其中地理上大范围部署的充电站的充/放电决策大多数是由位于网络边缘的车辆等移动设备计算得出的。实验评估了车辆作为终端用户时该方案的性能，结果表明与传统的使用集中式云计算的方案相比，作者提出的MEC辅助的数据方案的吞吐量提高了$10 \\text{‰}$ ，响应时间缩短了 $20 \\%$ ，延迟降低了 $10 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "传统的消息发布中心部署在云中心，很难实现实时消息的快速传播、开销大且资源利用率低。为了在车载网中实现实时消息有效、快速的传播，Hou等人[37]在车载网中提出了一个MEC 协助的发布/订阅消息传播的设计（DPSMD)，包括提供消息交换服务的消息代理、挖掘消息潜在价值的消息处理程序和桥接系统各个部分的消息中心。MEC服务器部署在网络边缘，通过光纤链路连接到多个RSU，节省了骨干网络延迟，配置在MEC服务器上的边缘信息中心（EMH）能够为车辆用户提供快速响应的服务。部署在云服务器中的中央消息中心（CMH)，在多个EMH之间传播消息，确保广泛的信息传播范围。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5G-VANET中许多应用程序的启用依赖于车辆之间的内容共享，但是车载网络拓扑变化快，且车流量分布不均衡，因此很难进行车载内容的有效共享。Luo等人[38]研究了5G-VANET中的内容预取和分发，设计了一个基于边缘计算的分布式VANET架构，网络节点具有不同的通信模式、存储能力和计算资源，因此节点之间应该协作地共享大量车载数据。基于该架构，提出了一种多点多因素内容预取方案，考虑到车辆社交网络的中心性和移动节点的路由，将内容预取到固定的基础设施和移动节点中，以应对快速变化的拓扑和流量的不均衡，减轻网络负担。此外，作者采用基于图论的方法来制定内容分发策略，基于车辆邻居信息图将内容分发转换为最大加权独立集问题，最后使用贪婪传输策略评估所提出的方案以证明其效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2基于SDN的车载网MEC 研究进展",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在车载网络中应用软件定义网络技术可以提高灵活性、可靠性和可扩展性。MEC技术将IT服务环境与云计算技术在网络边缘相结合，提高边缘网络的计算和存储能力，减少网络操作和服务交付时延。集成SDN和MEC的车载网，支持不同接入技术，提供低延迟和高可靠的通信，提升用户服务质量体验。本节综述集成SDN和MEC的车载网络的一些初期研究工作。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "目前，IEEE802.11p和不断发展的5G是车载行业的主流无线接入技术，但它们不能满足车辆通信的所有要求。为了提供低延迟和高可靠性的通信，Liu等人[39提出了一种支持SDN的可扩展的异构车载网络架构，并根据具体应用需求提供可靠的通信服务。此外，为了减少整体延迟和减轻骨干网络的流量负载，MEC技术被引入到所提出的架构中。作者以城市交通管理中的可靠通信为例，验证了该体系结构的可扩展性、响应性、可靠性和敏捷性，并讨论了一些关键技术问题，包括日期同步、无缝切换和可靠通信。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Huang等人[40]通过观察大量车辆数据，发现根据车辆与邻居车辆V2V通信连接持续时间组成的车辆邻居组（VNG）可以丰富和增强5G车载网服务，由此提出了5G支持的软件定义车载网络（5G-SDVN）架构。SDN负责动态管理5G和车载环境中的VNG，并利用MEC加强对5G-SDVN的网络控制。通过将软件定义网络与移动边缘计算相结合，为5G-SDVN引入了可编程、灵活且可控的网络架构，简化了网络管理，提高了资源利用率，实现了网络的可持续发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "He等人[4l]设计了一个集成SDN和ICN（informationcentricnetwork，信息中心网络）技术车载网框架，并由MEC协助管理资源，可以实现网络、缓存和计算资源的动态编排。作者基于此框架将资源分配方案建模成一个联合优化网络、缓存和计算收益的问题，并提出一种深度强化学习算法解决这个复杂的最优化问题。在不同场景下的仿真结果表明，该方案改善了车载网的性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Wang 等人[42]关注边缘计算节点之间的协作，提出了一种协作车载网边缘计算架构（CVEC)，基于SDN的CVEC中央控制器在逻辑上以集中的方式编程、操作和配置异构网络，灵活地管理分布广泛的边缘基础设施，以满足多样化的车辆需求。CVEC 支持 MEC 服务器控制域内与域之间的协作以及边缘计算与云计算之间的协作，充分利用车载网中的计算资源，提供实时车载服务和带宽分配服务。此外，作者还介绍了CVEC关键技术，包括网络功能虚拟化（networkfunctionsvirtualization，NFV），智能协作网络（smartcooperativenetwork，SCN）和区块链，最后讨论了实现CVEC系统的主要挑战和未来研究方向。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3车载网MEC应用实例",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对车载网移动边缘计算的研究工作，目前仍在起步阶段。本节将简要介绍几类典型应用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.1车辆避免碰撞 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "传统情况下，驾驶员通过自身判断前后行车距离采取刹车、减速、转向灯措施以避免车辆间的碰撞。但实际中，由于行车环境多变或车速过快，往往出现驾驶员没有足够的反映时间采取安全措施，从而导致车辆事故。先进的车辆碰撞预警系统或碰撞避免系统能够运用雷达、激光、摄像头及其他传感器设备，采集车辆行驶数据和行车环境数据，不断对周围车间安全距离进行评估，对碰撞事件进行预判。一旦检测到碰撞可能，系统会给驾驶员提供警报信息，甚至自动采取安全措施，以避免碰撞或减轻碰撞程度[43]。运用车载网技术在车辆之间、车辆与路边设施之间共享传感器数据，且运用云计算、MEC和人工智能技术（如神经网络）对海量车辆和环境数据进行高效融合与分析处理，不仅能够实现车辆对驾驶环境的精确感知与理解，也能够针对变化的驾驶环境完成对车辆的最优主动控制，达到更高的安全性能[44]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.2驾驶行为分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "交通环境中的事故成因很大程度上在于驾驶员不能准确判断危险情况而作出不适当的驾驶行为。若能够对驾驶员行为进行准确分析，对其意图进行提前判断，进而提供适当的辅助或警告，提高驾驶员对交通环境的警觉性，车辆安全驾驶系统将能够在减少事故、提高道路交通安全和效率方面发挥更重要的作用。对驾驶行为进行精确建模是一项极为复杂的任务，首先要快速收集车辆行驶的速度、加速度和方向等[45]；其次要了解驾驶员信息如年龄、驾龄和反映时间，还要与路边设施交互获取行驶环境信息，如周边交通、道路和行车状况，以及与十字路口或斑马线的距离等。MEC服务器之间协作工作，允许及时的大范围、长时间跨度采集各种相关数据[46]，并将其上传到云中心对高维数据进行深度处理和知识挖掘。由于数据上传到云端要消耗大量带宽和时延，MEC服务将流行的上下文信息存储在本地，提供及时响应服务，MEC也可以对收集到的数据进行简单分析，对车辆请求快速作出反映，使更科学、可靠、真实的驾驶行为分析成为可能。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3.3自动驾驶 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "自动驾驶是当今智能交通领域最前沿、最具挑战性的研究课题之一。利用自动驾驶技术代替人类驾驶员，达到零失误零事故行车，是近年来各国政府、企业和研究机构关注的焦点。例如，谷歌公司的无人驾驶汽车在2012年完成了50万公里的无事故行驶，百度公司的无人驾驶汽车也于2015年在北京实现市内路况行驶。通过车载网技术在V2X之间实现实时传感器数据共享和联合协作感知，从而提高单一自动驾驶汽车对行驶环境的理解能力[47]，进而进行决策并控制汽车驾驶状态，实现自动驾驶。现有自动驾驶技术面临以下挑战：如何对海量传感数据进行合理选择，以适合在多变的车载网无线信道中完成低时延高可靠性传输；如何将来自多源、多种类传感器的数据进行高效融合，快速挖掘出支持自动驾驶应用的核心信息。将IT服务环境和云计算能力迁移到网络边缘的MEC技术与云计算之间的协作有潜力解决以上挑战。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3 问题和挑战",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作为通信基础设施的MEC服务器能够显著降低移动设备的能耗和延迟，近年来引起了研究人员的广泛关注。但是在车载网中大规模应用MEC之前，还需要考虑车辆移动性、快速变化的网络拓扑结构、车载设备数量的不断增长、资源分配以及MEC的标准化和安全隐私等问题。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.1移动性问题",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "车辆的高移动性是车辆与边缘网络之间频繁断开连接的原因之一。当车辆处于高速移动状态时，V2X通信链路的参数（如延迟、带宽、噪声等）会发生变化，导致应用的服务质量下降。因此，MEC的一个重要挑战是采用移动性管理技术，车辆可以使用该技术访问边缘应用程序，而不会发生连接中断的情况，进而为各种网络服务的应用提供保证。另外，移动性管理技术应该兼顾车辆的横向和纵向移动性。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5G核心网络使用移动性管理策略表征和优化用户设备的移动性，为了设计5G系统的移动性管理策略，人们引入了移动模式的概念。具体地，移动模式可以由5G核心网中用户设备的订阅、移动性统计、辅助信息和网络本地策略来确定，监视和更新[48]。因此，集成5G网络中充分利用移动模式的高级移动性管理策略来帮助MEC系统开发有效的无线接口。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2命名和标准化",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在车载网MEC中，各种车载和传感设备会产生大量数据，为了便于处理和使用这些数据，需要对其进行整理和分类。在边缘节点的顶部，有许多应用程序在运行，每个应用程序都有自己提供服务的特殊结构。在智能交通系统中，边缘计算的命名方案对于编程、寻址、事物识别和数据通信非常重要。然而车载网MEC中的有效命名机制和标准化的开放环境尚未建立。MEC研究人员通常需要学习各种通信和网络协议，以便在异构车载网络中实现各种设备之间灵活的通信，允许跨MEC平台无缝、熟练地集成传统和新兴应用程序。MEC的命名方案和标准化需要考虑用户设备的移动性、动态的网络拓扑、安全和隐私保护等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为了保证互操作性和促进MEC部署，文献[49]介绍了应用MEC的技术要求，包括通用要求、服务要求、运行管理要求、安全要求、法规要求和收费要求等。另外，ETSI和各大厂商也都在致力于MEC的标准制定，相信经过科研人员的不懈努力，MEC的命名和标准将会不断完善和落实。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3计算卸载和资源管理",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由于移动设备的计算资源和电池容量有限，人们提出了将计算密集的任务卸载到MEC服务器执行计算，然后服务器将计算结果发送给移动用户，从而节省移动设备的能耗和计算时延。卸载策略基本上决定了任务在本地、远程或在两个位置协作计算，目前大多数研究卸载决策的文献[50\\~52]都只考虑了终端用户的能耗，但是，为了支持绿色网络的创建，在制定卸载决策过程中还应该考虑到MEC服务器的能源消耗。而且这些文献都假设移动设备在卸载之前和卸载期间是静态的，但是车辆移动速度快，在卸载过程中可能发生连接中断，导致任务卸载失败，因此这些策略不适用于车载设备高速移动的情景。另外，由于卸载任务的不同，需要的带宽和计算资源也不同，所以应该为每个任务分配合适的计算、存储、带宽等资源，随着研究的不断深入，将会设计出更适用于车载网的卸载策略。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4安全和隐私",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "随着汽车数量的爆炸性增长，数据和信息的相互作用也在显著增加。虽然MEC支持新型服务，但其独特的功能也带来了新的安全和隐私问题。为了确保车载网MEC中的通信安全和信息隐私，应该采取更高级的安全和保密措施。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "首先，当前云计算中应用的安全和认证机制可能达不到MEC的安全标准，将边缘设备和用户信息置于不安全的位置，不同层次的网关等网络实体的认证也是一个需要考虑的安全问题，因此，MEC系统必须解决认证、鉴权等安全性问题。当前一些研究工作者提出了基于对称密码学、基于公开密钥基础设施（public key infrastructure，PKI）、基于身份签名、基于无证书签名(certificateless signature，CLS)等解决方案[53\\~56]。一方面，MEC 的安全性问题的解决需要从 MEC 设计的架构上来考虑；另一方面，可以将各种安全性解决方案与MEC进行有机结合，以模块化的形式为系统提供不同程度的安全防护。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "其次，在基于MEC的计算协作和内容共享中以及在一些私有网络场景下，必须考虑用户的隐私保护问题，因此，有必要在MEC网络中加入隐私保护实体，如受信平台模块（trustedplatformmodule，TPM)。另外，由于隐私保护问题是偏向于定制型的业务，不同的用户和业务对于隐私保护的需求程度不同，所以可借鉴加入受信平台模块的思路，模块与平台之间只需遵循相应的 API(application programminginterface，应用程序编程接口)规范即可。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4 结束语",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "融合MEC的车载网络有望为资源受限的车载设备提供低延迟、高带宽、高可靠性的服务，提升智能交通水平。本文对MEC背景做了基本介绍，探讨了MEC在车载网中的应用研究，并对车载网MEC面临的问题与挑战做了简要的归纳。针对车载网大数据的研究目前仍处于起步阶段，创新的数据传输、存储、分析处理技术和新型的应用仍有待探索，以充分挖掘其巨大的潜在价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]Wan Jiafu,Zhang Daqiang,Sun Yantao,et al.VCMIA:A novel architecture for integrating vehicular cyber-physical systems and mobile cloud computing[J].Mobile Networks & Applications,2014,19 (2): 153-160.   \n[2]Jiang Jinfang,Han Guangjie,Wang Feng,et al.An eficient distributed trust model for wireless sensor networks [J]. IEEE Trans on Parallel and Distributed Systems,2015,26 (5):1228-1237.   \n[3]李佐昭，刘金旭．移动边缘计算在车联网中的应用[J].现代电信科 技,2017,47(3): 37-41.(Li Zuozhao,Liu Jinxu.Application of mobile edge computing in Internet of vehicles [J].Modern Science & Technology of Telecommunications,2017,47(3): 37-41.)   \n[4]Liu Jianqi,Wan Jiafu,Wang Qinruo,et al.A survey on position-based ∠v10, U4 (1). 1J-30.   \n[5]Han Guangjie,Jiang Jinfang,Guizani M,et al. Green routing protocols forwirelessmultimedia sensor networks[J].IEEEWireless Communications,2016,23 (6): 2-8.   \n[6] Chen Shanzhi, Hu Jinling,Shi Yan,et al. Vehicle-to-everything (v2x) services supported by LTE-based systems and 5G [J].IEEE Communications Standards Magazine,2017,1(2): 70-76.   \n[7]Wan Jiafu,Liu Jianqi, Shao Zehui,et al.Mobile crowd sensing for traffic prediction in internet of vehicles [J]. Sensors,2016,16(1): 88-75.   \n[8]吴振钰，黄旭民，余荣，等．车载边缘计算中基于信誉值的计算卸载 方法研究[J]．计算机应用研究，2018，35（9):2692-2695.（Wu Zhenshuan,Huang Xumin,Yu Rong,et al. Reputation-based approach forcomputation offloadingin vehicular edgecomputing[J]. Application Research of Computers,2018,35 (9): 2692-2695.)   \n[9]LiLiang，Li Yunzhou,Hou Ronghui.A novel mobile edge computing-based architecture for future cellular vehicular networks [C]//Proc of IEEE Wireless Communicationsand Networking Conference .Piscataway,NJ: IEEE Press,2017: 1558-2612.   \n[10] Hy Yc,Patel M, Sabella D,et al.Mobile edge computing:a key technology towards5G [R/OL].France,ETSI: Sophia Antipolis CEDEX, (2015). https://www. etsi. org/images/files/etsiwhitepapers/etsi_wpll_mec_a_key_technology_to wards_5g. pdf.   \n[11]赵丹．面向 5G 网络的边缘计算迁移策略研究与仿真[D].北京：北 京邮电大学，2018.(Zhao Dan.Research and simulation of edge computing migration strategy for 5G networks [D]. Beijing:Beijing University of Posts and Telecommunications,2018.)   \n[12]李子妹，谢人超，孙礼，等．移动边缘计算综述[J]．电信科学,2018, 34(1):87-101.(Li Zishu,Xie Renchao,Sun Li,et al.A survey of mobile edge computing [J]. Telecommunications Science,2018,34(1): 87-101.)   \n[13] PlatelM， NaughtonB， ChanC， etal.Mobile-edge computing-introductorytechnicalwhitepaper[R/OL]. France, ETSI:SophiaAntipolisCEDEX.(2014).htps://www.etsi. org/news-events/news/1009-2015-09-news-new-white-paper-etsi-s-mob ile-edge-computing-initiative-explained.   \n[14] Ahmed A, Ahmed E. A survey on mobile edge computing [C]// Proc of the l0th International Conference on Intelligent Systems and Control. Piscataway, NJ: IEEE Press,2016: 1-8.   \n[15] Anjum A,Abdullah T,Tariq M,et al. Video stream analysis in clouds: an object detection and classification framework for high performance video analytics [J]. IEEE Trans on Cloud Computing,2016: 1-17.   \n[16] EuropeanTelecommunicationsStandardsInstituteIndustry Specifications Group. Mobile-edge computing:service scenarios [R/OL] France,ETSI :Sophia Antipolis CEDEX.(2017). http://www.etsi. org/deliver/etsi_gs/MEC-IEG/001_099/004/01. 01. 01_60/gs_MEC-IEG004v010101p.pdf.   \n[17] Akcayir M, Akcayir G,Pektas H M,et al. Augmented reality in science laboratories:the efctsofaugmented realityon university students'laboratory skills and attudes toward science laboratories [J]. Computers in Human Behavior,2016,57: 334-342.   \n[18] Al-Fuqaha A,Guizani M,Mohammadi M,et al. Internet of things:a survey on enabling technologies,protocols,and applications [J]. IEEE Communications Surveys & Tutorials,2015,17(4):2347-2376.   \n[19] Shui Y,Meng L,Dou W,et al.Networking for big data: a survey [J]. IEEE Communications Surveys & Tutorials,2017,19 (1): 531-549.   \n[20] Gabriel B. Mobile edge computing use cases & deployment options [R/OL]. Sunnyvale, CA, USA: Heavy Reading. (2016). htps://www. juniper. net/assets/us/en/local/pdf/whitepapers/2000642-en. pdf.   \n[21] Datta S K,Bonnet C, Haerri J. Fog computing architecture to enable consumer centric internet of things services [C]// Proc of IEEE International Symposium on Consumer Electronics.Piscataway,NJ: IEEE Press, 2015: 1-2.   \n[22] Baktir A C,Ozgovde A, Ersoy C. How can edge computing benefit from software-defined networking:a survey，use cases & future directions [J]. IEEE Communications Surveys & Tutorials,2017,19 (4): 2359-2391.   \n[23] Open Networking Foundation. Open networking foundation OpenFlow [R/OL]. Califormia, U S: ONF.(017). htps://ww.opennetworking. org/sdn-resources/openflow.   \n[24] Chahal M,Harit S,Mishra K K,et al.A survey on software-defined networking in vehicular ad hoc networks: challenges,applications and use cases [J].Sustainable Cities & Society,2017,35:830-840.   \n[25] Zhang Ke,Mao Yuming,Leng Supeng，et al.Delay constrained offloading for mobile edge computing in cloud-enabled vehicular networks [C]/ Proc of International Workshop on Resilient Networks Design& Modeling.Piscataway,NJ:IEEE Press,2016:288-294   \n[26] Kelly F. Charging and rate control for elastic traffic [J]. IEEE Trans on Emerging Telecommunications Technologies,2012,8(1): 33-37.   \n[27] Zhang Ke,Mao Yuming，Leng Supeng，et al. Contract-theoretic approach for delay constrained offloading in vehicular edge computing networks [J]. Mobile Networks and Applications,2018:1-12.   \n[28] Zhang Ke,Mao Yuming, Leng Supeng, et al. Mobile-edge computing for vehicular networks: a promising network paradigm with predictive offloading [J].IEEE Vehicular Technology Magazine,2017,12 (2): 36-44.   \n[29] Huang Chuangming, Chiang Mengshu, Dao D T,et al. V2V data offloading for celllar network based on the software defined network (SDN) inside mobile edge computing (MEC） architecture [J]. IEEE Access,2018,6: 17741-17755.   \n[30] Sasaki K,Suzuki N,Makido S，et al. Vehicle control system coordinated between cloud and mobile edge computing [Cl// Proc of Society of Instrument & Control Engineers of Japan.Piscataway, NJ: IEEE Press,2016:1122-1127.   \n[31] Zhang Ke,Mao Yuming,Leng Supeng, et al. Optimal delay constrained offloading for vehicular edge computing networks [C]// Proc of IEEE International Conference on Communications.Piscataway,NJ:IEEE Press,2017: 2603-2608.   \n[32] Maharjan S, Zhu Quanyan， Zhang Yan,et al. Demand response management in the smart grid in a large population regime [J]. IEEE Trans on Smart Grid,2016,7(1): 189-199.   \n[33] Dai Yueyue,Xu Du, Maharjan S,et al. Joint ofloading and resource allocation in vehicular edge computing and networks [J]. IEEE Trans on Vehicular Technology,2018:1-7.   \n[34] Huang Xuming,Yu Rong,Kang Jiawen,et al. Distributed reputation management for secure and eficient vehicular edge computing and networks [J]. IEEE Access,2017,5: 25408-25420.   \n[35] Cui Jie,Wei Lu, Zhang Jing,et al.An eficient message authentication Scheme based on edge computing for vehicular ad hoc networks [J]. IEEE Trans on Intelligent Transportation Svstems.2018:1-12.   \n[36] Kumar N,Zeadally S,Rodrigues JJPC.Vehicular delay-tolerant networks for smart grid data management using mobile edge computing [J].IEEE Communications Magazine,2016,54(10): 60-66.   \n[37] Hou Lu,Lei Lei,Zheng Kan.Design on publish/subscribe message dissemination for vehicular networks with mobile edge computing [C]// Proc of IEEE Globecom Workshops.Piscataway,NJ:IEEE Press,2018: 1-6.   \n[38] Luo Guiyang,Yuan Quan,Zhou Haibo,et al. Cooperative vehicular content distribution in edge computing assisted 5G-VANET[J].China Communications,2018,15(7): 1-17.   \n[39] Liu Jian,Wan Jiafu,Zeng Bi,et al.A scalable and quick-response software defined vehicular network assisted by mobile edge computing [J].IEEE Communications Magazine,2017,55(7): 94-100.   \n[40] Huang Xumin,Yu Rong,Kang Jiawen,et al.Exploring mobile edge computing for 5G-enabled software defined vehicular networks [J]. IEEE Wireless Communications,2017,24 (6): 55-63.   \n[41] He Yin,Liang Chenchao, Zhang Zheng,et al. Resource allocation in software-defined and information-centric vehicular networks with mobile edge computing[C]// Proc of Vehicular Technology Conference. Piscataway,NJ: IEEE Press,2018:1-5.   \n[42] Wang Kai,Yin Hao,Quan Wei,et al.Enabling collaborative edge computing for software defined vehicular networks [J].IEEE Network, 2018,32 (5): 1-6.   \n[43] Jermakian J S,Bao S,Buonarosa ML,et al.Effects of an integrated collision warning system on teenage driver behavior [J]. Journal of Safety Research,2017,61: 65-75.   \n[44] Tak S,Woo S,Yeo H. Study on the framework of hybrid collision warning system using loop detectors and vehicle information [J].IEEE Trans Research Part C Emerging Technologies,2016,73:202-218.   \n[45] Wang Wenshou, Chang Liu,Ding Zhao.How much data are enough?A statistical approach with case study on longitudinal driving behavior [J]. IEEE Trans on Intelligent Vehicles,2017,2(2): 85-98.   \n[46] Shurman M M,Aljarah M K.Collaborative execution of distributed mobile and IoT applications running at the edge [C]// Proc of International Conference on Electrical & Computing Technologies & Applications.Piscataway,NJ: IEEE Press,2018:1-5.   \n[47]Héry E,Xu P,Bonnifait P. Along-track localization for cooperative autonomous vehicles [C]// Proc of Intelligent Vehicles Symposium. Piscataway,NJ: IEEE Press,2017: 511-516.   \n[48] Maurice P. Technical specification group services and system aspects [R/OL]. (2017). https://portal. 3gpp. org/desktopmodules/Specifications/SpecificationDetails. aspx?specificationId=3144.   \n[49] ETSI. Mobile edge computing (MEC): technical requirements [R/OL]. Sunnyvale，CA，USA:ISG.(2016).https://standards.globalspec. com/std/10001570/gs-mec-002.   \n[50] Chen Xu，Jiao Lei，Li Wenzhong，et al.Efficient multi-user computation offloading formobile-edge cloud computing[J]. IEEE/ACM Trans on Networking,2016,24(5):2795-2808.   \n[51] You Changsheng，Huang Kaibin，Chae H,et al.Energy-efficient resource allocation for mobile-edge computation offloading(extended version）[J].IEEE Trans on Wireless Communications,2017,16(3): 1397-1411.   \n[52] Wang Zhe,Zhong Zhangdui,Ni Minming.A semi-Markov decision process-based computation offloading strategy in vehicular networks [C]// Proc of IEEE International Symposium on Personal. Piscataway, NJ: IEEE Press,2017: 1-6.   \n[53] Vijayakumar P,Azees M, Chang V,et al. Computationally efficient privacy preserving authentication and key distribution techniques for vehicular Ad hoc networks [J].Cluster Computing，2017,20 (3): 2439-2450.   \n[54] Azees M,Vijayakumar P,Deboarh L J.EAAP:efficient anonymous authentication with conditional privacy-preserving scheme for vehicular ad hoc networks [J]. IEEE Trans on Intelligent Transportation Systems, 2017,18 (9): 2467-2476.   \n[55] Zhang Lei，Wu Qianhong，Domingo-Ferrer J，et al.Distributed aggregate privacy-preserving authentication in VANETs [J]. IEEE Trans on Intelligent Transportation Systems,2017,18 (3): 516-526.   \n[56] Tsai JL.A new efficient certificateless short signature scheme using bilinear pairings[J].IEEE Systems Journal,2017,11 (4): 2395-2402. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

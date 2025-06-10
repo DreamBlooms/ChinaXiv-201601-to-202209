@@ -1,0 +1,561 @@
+[
+    {
+        "type": "text",
+        "text": "Spatiotemporal variation in snow cover and its effects on grassland phenology on the Mongolian Plateau ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SA Chula12， MENG Fanhao1,2\\*，LUO $\\mathrm { { M i n ^ { 1 , 2 ^ { * } } } }$ ，LI Chenhao1,2，WANG Mulan1,²，ADIYA Saruulzaya³,BAO Yuhai1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Collge of Geographical Science, Inner Mongolia Normal University,Hohhot O10o22,China; 2 Inner Mongolia KeyLaboratoryof Remote Sensing and Geographic Information System,Inner MongoliaNormal University Hohhot 010022, China; 3Institute of Geography and Geoecology, Mongolian Academy of Science, Ulaanbaatar 15170,Mongolia ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Snow cover is an important water source for vegetation growth in arid and semi-arid areas, and grassand phenology provides valuable information on the response of terrestrial ecosystems to climate change. The Mongolian Plateau features both abundant snow cover resources and typical grassland ecosystems. In recent years,with the intensification of global climate change,the snow cover on the Mongolian Plateau has changed correspondingly, with resulting efects on vegetation growth. In this study, using MOD10A1 snow cover data and MOD13A1 Normalized Diference Vegetation Index (NDVI) data combined with remote sensing (RS) and geographic information system (GIS) techniques, we analyzed the spatiotemporal changes in snow cover and grassand phenology on the Mongolian Plateau from 2001 to 2018.The correlation analysis and grey relation analysis were used to determine the influence of snow cover parameters (snow cover fraction (SCF),snow cover duration (SCD), snow cover onset date (SCOD), and snow cover end date (SCED) on diferent types of grassland vegetation. The results showed wide snow cover areas,an early start time,a late end time,and a long duration of snow cover over the northern Mongolian Plateau. Additionall,a late start, an early end,and a short duration were observed for grassland phenology, but the southern area showed the opposite trend. The SCF decreased at an annual rate of $0 . 3 3 \\%$ . The SCD was shortened at an annual rate of 0.57 d. The SCOD and SCED in more than half of the study area advanced at annual rates of 5.33 and $5 . 7 4 ~ \\mathrm { D O Y }$ (day of year),respectively. For grassland phenology, the start of the growing season (SOS) advanced at an annual rate of $0 . 0 3 \\mathrm { D O Y } ,$ the end of the growing season (EOS) was delayed at an annual rate of $0 . 1 4 ~ \\mathrm { D O Y } ,$ and the length of the growing season (LOS) was prolonged at an annual rate of $0 . 1 7 \\mathrm { d } .$ .The SCF, SCD,and SCED in the snow season were significantly positively corelated with the SOS and negatively correlated with the EOS and LOS.The SCOD was significantly negatively correlated with the SOS and positively correlated with the EOS and LOS. The SCD and SCF can directly affect the SOS of grassland vegetation, while the EOS and LOS were obviously influenced by the SCOD and SCED. This study provides a scientific basis for exploring the response trends of alpine vegetation to global climate change. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: snow cover fraction; snow cover phenology; vegetation phenology; grey relation grade; climate change; Mongolian Plateau ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Snow cover is a unique natural attribute of the cold season at middle and high latitudes; it is also an important part of the cryosphere on Earth and can afect the surface water supply，global energy cycle,and atmosphere-freezing cycle (Liston,1999; Han et al.,2014). Affected by climate change,the global snow cover has changed significantly,and the snow cover area in the Northern Hemisphere has shown a decreasing trend (IPCC,2008；Brown and Mote， 2009； Brown and Robinson,2O11),which not only affects soil water, heat, and the radiation energy balance directly but also indirectly influences the ecosystem balance. Vegetation is a critical part of the ecosystem, and its phenological changes are regarded as a comprehensive \"indicator\" of ecological environmental change (Hou et al.,2014a; Kong et al.,2Ol7), which has become the core issue of global change and carbon cycle research (Piao et al.， 2O06； Shen et al.，2014). Vegetation phenological changes are generally believed to be closely related to climate change. Moreover, in recent years,the experimental and observational results of many scholars have shown that vegetation phenological changes are closely correlated with seasonal snow cover (Thompson et al.，2015； Jin et al.， 2O17)，and winter snow cover changes also affect plant growth and productivity (Peng et al.,2010; Wipf and Rixen,2010; Matsumura and Yamazaki, 2012; Trujillo et al.,2012; Mark et al., 2015; Thackeray et al., 2016; Wang et al., 2018a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Snow cover is an important water resource in arid and semi-arid areas.Important snow cover parameters, such as snow cover season (SCS), snow cover fraction (SCF), snow cover duration (SCD),snow cover onset date (SCOD),and snow cover end date (SCED),can reflect the climatic, hydrological,and ecological conditions of a certain area directly or indirectly (Thackeray et al., 2016; Wang et al., 2O16). Based on the 8 d snow cover products derived from MODIS (Moderate Resolution Imaging Spectroradiometer） Terra/Aqua data,Liu et al. (2O17） found that the inter-annual variations of snow cover presented a slight and non-significant increase trend from 2000 to 2O15 for the whole Central Asia. Chen et al.(2O16) pointed out that in China, the cooling effect of snow cover was enhanced from 1983 to 2O10,which indicates that snow cover does impact climate. Simultaneously, the thaw time of soil and its subsequent soil moisture content were found to be the main influencing factors of vegetation phenology in temperate and cold Zones (Shen et al., 2O11). After a long and cold winter, the warming temperature and meltwater promote vegetation growth,especially in alpine region (Dorji et al., 2013). Peng et al. (2010) noted that in China, winter snow cover plays a crucial role in regulating desert vegetation growth, and there is also a significant positive correlation between winter snow depth and grassland Normalized Difference Vegetation Index (NDVI). Wang et al. (2O18b） found that snow cover phenology has a strong controlling effect on the growth dynamics of alpine vegetation: the longer the SCD of alpine grassand lasts,the earlier the start of growing season (SOS) appears,and the longer the length of growing season (LOS) lasts. In addition, snow cover has a thermo protective effect, ensuring that vegetation can survive in harsh winter environments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Mongolian Plateau with abundant snow cover resources and typical grassland ecosystems is in the middle of Asia and belongs to the arid and semi-arid climate zone.The Inner Mongolian Plateau is the most important green ecological barrier and one of the snow-rich regions on the Mongolian Plateau (Sa et al.，2012; Bao et al., 2014; Dong et al., 2019). Snow cover varies regionally and has different effects on different vegetation types (Shen et al.，2O16; Qiao and Wang,2O19). There are few reports on snow cover on the Mongolian Plateau and its relationship with grassland phenology. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we extracted snow cover and vegetation phenological parameters based on MOD10Al snow data and MOD13A1 NDVI data, respectively, to reveal their spatiotemporal variation characteristics on the Mongolian Plateau. Correlation analysis and grey relation analysis (GRA) were used to analyze the potential influence of the spatiotemporal variation of snow cover parameters on grassland phenology and to explore the possible reasons for the relationship between snow cover and grassland phenology. The results of this study are of considerable relevance for the long-term ecological protection of the Mongolian Plateau and the formulation of countermeasures to adapt to global climate change. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Materials and methods ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 Study area ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Mongolian Plateau generally refers to the inland plateau of Northeast Asia, from the Da Hinggan Mountains in the east to the Altay Mountains in the west, and from the Sayan Mountains and Yablonoi Mountains in the north to the Yinshan Mountains in the south $( 3 7 ^ { \\circ } 2 2 ^ { \\prime } - 5 3 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N } _ { \\cdot }$ $8 7 ^ { \\circ } 4 3 ^ { \\prime } - 1 2 6 ^ { \\circ } 0 4 ^ { \\prime } \\mathrm { E }$ ; Fig.la). The Mongolian Plateau comprises Mongolia, parts of southern Russia, and northern parts of Inner Mongolia Autonomous Region and parts of Xinjiang Uygur Autonomous Region of China.The terrain of the Mongolian Plateau is high in the west and low in the east， with an average altitude of $1 5 8 0 ~ \\mathrm { ~ m ~ }$ a.s.l. The average annual precipitation is approximately $2 0 0 \\mathrm { m m }$ . The annual average temperature range is large and primarily above $4 0 ^ { \\circ } \\mathrm { C }$ The highest temperature in summer is over $3 0 ^ { \\circ } \\mathrm { C }$ ，and the lowest temperature in winter is $- 4 5 ^ { \\circ } \\mathrm { C }$ The natural vegetation from northeast to southwest is forests,grasslands,and deserts. Grassland, as a typical natural vegetation community of the Mongolian Plateau, can be divided into meadow steppe,typical steppe,desert steppe,and alpine steppe (Bao et al.，2Ol3). The distribution of grassland types on the Mongolian Plateau is shown in Figure 1b. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed62da200e9c5e4bc85d84c54bf6ecc1eea2bb5a58631f908f0871d6bc636f26.jpg",
+        "img_caption": [
+            "Fig.1Overview of the Mongolian Plateau (a) and distribution of grassland types (b) "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 Datasets ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Daily snow cover data at a spatial resolution of $5 0 0 \\mathrm { ~ m ~ }$ were obtained from the MOD10A1 Collction 6(C6) snow product derived from the National Snow and Ice Data Center (NSDIC; https://nsidc.org/data/MOD10Al/versions/6), with a time range from September of the current year to April of the next year during 200O-2O18. The MOD10A1 data were batched using the MODIS Reprojection Tool (MRT). The geographic coordinates were converted to World Geodetic System 84 datum, the projection was converted to Albers projection, and the format was converted to ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Geo-TIFF format, and then, the image mosaic was completed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The MODIS NDVI dataset is based on the MODIS NDVI product of MOD13A1 C6 with the temporal resolution of $1 6 \\mathrm { d }$ and spatial resolution of $5 0 0 \\mathrm { m }$ ；it was obtained from the Application for Extracting and Exploring Analysis Ready Samples (AppEEARS) by Land Processes Distributed Active Archive Center (LP DAAC) at the United States Geological Survey (USGS), with a time range from 2001 to 2018. Vegetation type classification (meadow steppe,typical steppe, desert steppe,and alpine steppe) data of the Mongolian Plateau were obtained from Bao et al. (2017). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER） Global Digital ElevationModel2 (GDEM2)， derived from the NASA'sLP DAAC (https://lpdaac.usgs.gov/products/astgtmvoo3/)， was used for elevation extraction with a spatial resolution of $3 0 \\mathrm { m }$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 Methods ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1 Snow cover parameters ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the spatiotemporal variation characteristics of snow cover on the Mongolian Plateau with several snow cover parameters,such as the SCS, SCF, SCD, SCOD,and SCED.We defined the period from 1 September of the current year to 3O April of the next year as an SCS; for example, period from 1 September 2000 to 30 April 2001 was the SCS of 2001,which can be relative to the time range of grassland phenology parameters. MODIS snow products C6 does not provide SCF dataset; thus, we calculated the SCF of the study area according to the equation in the MODIS snow products C6 user guide (Riggs et al., 2015). The formula is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S C F } = ( - 0 . 0 1 + ( 1 . 4 5 \\times \\mathrm { N D S I } ) ) \\times 1 0 0 \\% ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where NDSI is Normalized Difference Snow Index.The total number of snow days in the study area in an SCS is defined as the SCD. The SCOD is the day of year (DOY) when snow first appeared in any pixel and the following five consecutive days were covered by snow during an SCS. The SCED is the DOY when any pixel has snow for the last time,and the pixel was covered by snow for five consecutive days before. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The maximum value composite method was used to calculate the monthly SCF, and then the average value method was used to calculate the multi-year average of each snow cover parameter. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We classified the SCOD and SCED according to the month scale,i.e.,1-31 d corresponds to January,32-59 d corresponds to February, 60-90 d corresponds to March, 91-120 d corresponds to April,244-272 d corresponds to September, 273-304 d corresponds to October, 305-335 d corresponds to November,and 336-365 d corresponds to December. It is worth noting that SCOD or SCED might be too late or too early, causing discontinuities in time. Therefore, SCOD later than 365 DOY is uniformly classified as next year, while SCED earlier than 1 DOY is uniformly classified as last year. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2 Grassland phenology ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The phenology parameters were calculated by using the extreme value of the logistic curve curvature of the cumulative NDVI, which fitted the cumulative NDVI value in the year to simulate the NDVI change curve (Bao et al.,2O17) using the logistic function.The formula is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny ( t ) = \\frac { \\mathrm { c } } { 1 + \\mathrm { e } ^ { \\mathrm { a } + \\mathrm { b } t } } + \\mathrm { d } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is the Julian day; $y ( t )$ is the cumulative NDVI for logistic fitting corresponding to $t$ ；a and b are fiting parameters; c is the maximum accumulated NDVI; and d is the initial background NDVI value. Then，the logistic fitting curve curvature $( K )$ of the accumulated NDVI was calculated (Zhang et al.,2003;Hou et al.,2014b; Bao et al.,2017).Finally,the SOS and the end of the growing season (EOS） of grassland phenology were extracted by pixel though the curvature extreme value (Bao etal., 2O17). The formula is as follows: ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nK { = } \\frac { \\mathrm { d } \\alpha } { \\mathrm { d s } } { = } { - } \\frac { \\mathbf b ^ { 2 } \\csc ( 1 - z ) ( 1 + z ) ^ { 3 } } { \\Big [ \\left( 1 + z \\right) ^ { 4 } + \\left( \\mathbf b \\ c c z \\right) ^ { 2 } \\Big ] ^ { \\frac 3 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $a$ is the value of the accumulated NDVI; s stands for time; ${ z } { = } \\mathrm { e } ^ { ( \\mathrm { a } + \\mathrm { b } t ) }$ ; and a, b, c, and $t$ are the same as in Equation 2. The SOS and EOS determine the DOY when the cumulative curve curvature reaches its maximum and minimum values.LOS is the time between the beginning and the end of the vegetation growth season. According to the actual situation of the plateau and combined with the results of previous study (Bao et al.,2O2O),we believe that the region of $\\mathrm { N D V I } { < } 0 . 0 8$ is the area without vegetation growth. Finaly, we obtained the phenology parameter data from 2Oo1 to 2018 by using the average value method. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Grey relation analysis (GRA) ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To quantify the effect of snow cover on grassland phenology, we calculated the grey relation grade (GRG）and determined the order of correlation between grassland phenology and snow cover parameters using the GRA (Li et al.,2016; Chang et al.,2018; He et al.,2018). The GRA establishes the correlation degree between the corresponding sequences according to the similarity degree of the geometric shape of the comparison sequence and the reference sequence curve; the closer the curve is, the greater the correlation degree is. In this paper, the snow cover parameter was set as a comparison sequence, $\\scriptstyle { X _ { i } = x _ { i } ( k ) }$ (where $i { = } 1$ ,2,3,4,and $k { = } 1 , 2 , . . . , n )$ , and the phenology parameter was set as a reference sequence, $X _ { 0 }$ .To eliminate the impact of the dimension,we standardized the processing of the original snow cover and phenology data as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { X _ { i } ^ { ' } ( k ) = \\displaystyle \\frac { X _ { i } ( k ) - \\overline { { { X _ { i } } } } } { \\sigma _ { i } } } , } \\\\ { { X _ { 0 } ^ { ' } ( k ) = \\displaystyle \\frac { X _ { 0 } ( k ) - \\overline { { { X _ { 0 } } } } } { \\sigma _ { 0 } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\overline { { X _ { i } } }$ and $\\overline { { \\boldsymbol X _ { 0 } } }$ are the means of the comparison sequence and reference sequence, respectively; and $\\sigma _ { i }$ and $\\sigma _ { 0 }$ are the standard deviations of the comparison sequence and reference sequence, respectively. The formula for calculating GRG is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\xi _ { x _ { i } } ( k ) = \\frac { \\Delta \\operatorname* { m i n } + \\alpha \\Delta \\operatorname* { m a x } } { \\Delta \\delta _ { i } ( t ) + \\alpha \\Delta \\operatorname* { m a x } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\xi _ { x _ { i } } ( k )$ is the grey relation coefficient; $\\Delta \\delta _ { i } ( t )$ is the absolute value of the difference between the comparison sequence and the reference sequence；and $\\Delta \\mathrm { m i n }$ and △max are the minimum and maximum values of $\\Delta \\delta _ { i } ( t )$ ,respectively. $ { \\alpha }$ is the resolution coefficient, with the recommended value range of O.1-O.5；the smaller the resolution coefficient, the better the discrimination effect. Therefore, this study set the resolution coefficient $\\scriptstyle \\alpha = 0 . 1$ (Li et al.,2O16). Finally, the mean of the grey relation coefficient was calculated,and the GRG was obtained. The formula is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nr _ { i } = { \\frac { \\displaystyle \\sum _ { k = 1 } ^ { n } \\xi _ { i } ( k ) } { n } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\xi _ { i } ( k )$ is the grey relation coefficient; and $r _ { i }$ is the GRG of the comparison sequence and the reference sequence.A larger value of the GRG indicates that the effect of the comparison sequence on the reference sequence is more obvious. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Trend analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The parameter change rates of snow cover and phenology parameters on the Mongolian Plateau from 2001 to 2O18 were calculated using the unitary linear regression method,and the spatial variation trend of each parameter was studied.The formula is as follows: ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\theta _ { \\mathrm { s l o p e } } = \\frac { n \\times \\displaystyle { \\sum _ { i = 1 } ^ { n } i \\times X _ { i } } - \\sum _ { i = 1 } ^ { n } i \\times \\sum _ { i = 1 } ^ { n } X _ { i } } { n \\times \\displaystyle { \\sum _ { i = 1 } ^ { n } i ^ { 2 } } - ( \\sum _ { i = 1 } ^ { n } X _ { i } ) ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\theta _ { \\mathrm { s l o p e } }$ denotes the change trend of snow cover and phenology parameters; $n$ is the time series ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "length; $i$ is the year sequence number； and $X _ { i }$ is the value of each parameter in year i. $\\theta _ { \\mathrm { s l o p e } } { > } 0$ indicates a growth trend,and $\\theta _ { \\mathrm { s l o p e } } { < } 0$ indicates a decreasing trend. The results were tested using the $t$ test,and the significance level was set as $\\scriptstyle a = 0 . 0 5$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1Spatiotemporal characteristics of snow cover on the Mongolian Plateau ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Spatial characteristics of snow cover ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Using MODioAl snow cover data,we obtained the spatial distribution information of the snow cover parameters and calculated the trend of snow cover parameter changes on the Mongolian Plateau from 2001 to 2018 (Fig.2).Figure 2a shows that the average SCF of the Mongolian Plateau was $2 9 . 9 9 \\%$ ,and the spatial distribution exhibited a distribution of more in the north and less in the south. The high-value areas were concentrated in the Hangay Uul Mountains in the west, the Sayan Mountains in the northwest of the Mongolian Plateau,the Khentii Mountains in the north,and the Da Hinggan Mountains in the east, which are plateau and mountainous terrain, creating favourable conditions for snow cover accumulation,and the SCF can reach $7 5 . 0 0 \\%$ in local areas. The low-value areas were concentrated in the central and southern deserts of the Mongolian Plateau, the Gobi region and parts of the southeast. In addition,we found that there were obvious differences in the SCF between the eastern and western sides of the eastern Da Hinggan Mountains,and the SCF in the eastern forest area value was significantly smaller than that in the western grassand vegetation area. It is possible that the eastern region was affected by the forest canopy, which led to the underestimation of MODIS snow cover production. Figure 2e shows that the SCF in most areas of the Mongolian Plateau tended to decrease. In $7 3 . 5 1 \\%$ of the study area,the SCF tended to decrease and was mainly distributed in the southern and northern Khentii Mountains,eastern part of the Hulun Buir Plateau,and the Da Hinggan Mountains. Of these regions, $4 . 5 3 \\%$ showed a significant decrease and were mainly distributed in the southern part of the Altay Mountains.Twenty-six percent of the study area showed an increasing trend of the SCF, which were mainly distributed in the northwest of the Altay Mountains,the Hangay Uul Mountains,and the southeastern regions. Overall, the SCF of the Mongolian Plateau showed a downward trend with an annual change rate of $- 0 . 3 3 \\%$ （204 $( \\pm 0 . 5 6 \\% )$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 2b indicates that the average SCD on the Mongolian Plateau was $5 7 . 9 6 \\mathrm { d }$ ,and the spatial distribution was similar to that of the SCF; both of them showed a long-term SCS in the north and a short SCD in the south. The northern parts were stable snow cover regions, with the SCD above $6 0 \\textup { d }$ ,even reaching $1 2 0 \\mathrm { d }$ in parts of the northwest and northeast of the Mongolian Plateau. The central, southern and southeastern regions were unstable snow cover regions, with less than $6 0 \\textup { d }$ of the SCD.Figure 2f indicates that the SCD in most regions of the plateau was decreasing.A total of $7 0 . 7 3 \\%$ of the regions showed a shortening trend, mainly concentrated in the north and south; $2 9 . 2 7 \\%$ exhibited a lengthening trend,mainly distributed in the northwest and southeast. Overall, the SCD on the Mongolian Plateau showed a shortening trend with an annual change rate of $- 0 . 5 7$ $( \\pm 6 . 2 1 )$ d. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The SCOD over the plateau was very long and distributed between 305 and 365 DOY, showing early distribution characteristics in the north and late distribution in the southern regions (Fig. 2c). The areas with the early SCOD were distributed in the mountainous areas of the northwest,of which a small part of the SCOD were particularly early, between 244 and $2 7 2 { \\mathrm { D O Y } }$ .The area had a high altitude,low temperature,and early time of occurrence.The SCOD in the northern and eastern regions was mainly focused approximately $3 0 5 { - } 3 3 5 ~ \\mathrm { D O Y } .$ ，while the SCOD in the central and southwestern regions was mainly concentrated in 336-365 DOY.In the deep inland of the above areas, changes in precipitation patterns had a substantial effect on snow cover. According to Figure $2 \\mathrm { g }$ ，the SCOD in $67 . 0 \\%$ of the Mongolian Plateau showed an advanced trend, mainly in the northwest, northeast and south,with an annual change rate of -5.33 $( \\pm 5 . 1 7 )$ DOY, and $3 3 . 0 0 \\%$ of the area showed a delayed trend of the SCOD,which was irregular in the north and southeast, with an annual change rate of 2.59 $( \\pm 2 . 8 5 ) \\$ DOY. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "90°E95E100E105E110°E115E120°E125E 90°E95E100°E105E110°E115°E120°E125E (a) SCF (b) SCD Noos NoOs Noos NoOs N4 4444 NS 4454 N0 No00 No00 No00 0250500km 0250 500 km 95°E100°E105E110°E115E120 95°E100°E105°E110°E115°E120E Unit: d 0%10%20%30% 40% 50% 60% 70% 80%90% 0 20 40 60 80 100120140 90°E95E100°E105E110E115E120E125E 90°E95E100°E105E110°E115E120E125E (c) SCOD (d) SCED Noos 500 No NoOs No0s Nt 454 Nt Nt No04 N000 No00 No00 0250500km 0250500km 95E100E105E110E115E120°E 95E100E105E110°E115E120°E Unit: DOY244-272273-304 305-320321-335 Unit: DOY1-15 16-3132-4647-59 336-350351-365Last year 60-7475-9091-120Nextyear 90E95E 100°E105E110°E115E120E125E 90°E95E 100°E105E110E115E120E125E (e) Variation of SCF (f)Variation of SCD NoOs NoOs NoOs NoOs N4 4404 N5t 44 N0 No04 No00 No04 0250500km 0250 500 km 4.05°E100°E105°E110°E1150E 120% 95°E100E105E1100E13% 61.30% 25.36% 23.92% 40.95% 4.53%3.59% 0.63% 0.29% 4.53% 1.33% 0.03% 5.69% ■<-1,Significant decrease $\\mathop { < } \\mathop { - } 1 ,$ ,Decrease,but not significant 1-1-0,Significantdecrease-1-,Decrease,butnotsignifical 0-1,Significant increase 0-1,Increase,butnotsignificant >1, Significant increase >l,Increase,butnotsigniicant 90°E95E100E105E110°E115°E120°E125E 90°E95E100°E105E110E115E120E125E (g) Variation of SCOD (h) Variation of SCED Noos No0s No0s NoOs N4 444 Nt 444 N00 N000 No00 N000 0250500km 0250500km 95°E100°E105E110°E115E120E 95°E100E105E110°E115E120E 18.75%2.23% 15.04% 28.04% 23.57% 11.67% 32.98% 25.10% 11.15% 13.13% 2.26% 0.35% 12.37% 2.39% 0.21% 0.76% ■ $< - 2$ ,Significant decrease ■ $< - 2$ ,Decrease,butnotsignificant-2-0,Significantdecrease-2-0,Decrease,but notsignificant 0-2, Significant increase ■0-2,Increase,but not significant ■ ${ > } 2$ ,Significant increase >2, Increase, but not significant ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SCED on the Mongolian Plateau was equally long and distributed between 16 and 120 DOY, showing the late distribution characteristic of the south and early distribution characteristic in the north (Fig.2d). The early SCED in the south and southeast are focused approximately 1-31 DOY. Compared with other areas,these regions had high temperatures，which affected snow cover.The SCED in the northern region was late and focused approximately $6 0 { - } 1 2 0 ~ \\mathrm { D O Y }$ ；this region was in the high latitudes with low temperatures and strong snow protection. Figure 2h shows that $7 2 . 8 4 \\%$ of the regions on the Mongolian Plateau showed an advancing trend of the SCED, mainly in the south and east, with an annual change rate of -5.74 $( \\pm 5 . 5 8 )$ DOY. A total of $2 7 . 1 6 \\%$ of the area showed a delayed trend, mainly in the northwest, with an annual change rate of 2.83 $( \\pm 3 . 2 0 )$ DOY. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.2Interannual characteristics of snow cover ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The variation in snow parameters during different SCSs was not stable and showed a very intense wave.As shown in Figure 3, the SCFs fluctuated between $2 7 . 0 1 \\%$ and $5 3 . 9 6 \\%$ over the last $1 8 \\mathrm { ~ a ~ }$ ： the minimum SCF was $2 7 . 1 1 \\%$ in 2018,and the maximum was $5 3 . 8 4 \\%$ in 2002 (Fig.3a). The SCD fluctuated between 33 and $8 0 \\mathrm { ~ d ~ }$ from 2001 to 2018; the minimum SCD was $3 3 \\mathrm { ~ d ~ }$ in 2018, and the maximum was $8 0 \\textup d$ in 2012 (Fig.3b). The SCOD fluctuated between 317 and 343 DOY during the period of 2001-2018; the earliest SCOD was 318 DOY in 2012,and the latest was 343 DOY in 2005 (Fig.3c). The SCED fluctuated between 49 and 66 DOY from 2001 to 2018; the earliest ending day was 49 DOY in 2005,and the latest was 66 DOY in 2012 (Fig.3d). Overall, the SCF and SCD showed a nonsignificant downward trend, and the SCOD and SCED showed a nonsignificant postponement trend. ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/403eb4bb7e2af2ae342bb385320741320035d94637f9f2fa7ca9ab6eeb3019f0.jpg",
+        "img_caption": [
+            "Fig.3Temporal changes in the SCF(a),SCD(b),SCOD(c),and SCD(d) in the SCS on the Mongolian Plateau from 2001 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2Spatiotemporal characteristics of vegetation phenology on the Mongolian Plateau ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.2.1Spatial characteristics of vegetation phenology ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on MOD13A1 NDVI data，we obtained the spatial distribution and change trend in grassland phenology on the Mongolian Plateau from 2OOl to 2O18 by using the extreme value of logistic curve curvature of the cumulative NDVI (Fig. 4). The spatial distribution of grassland phenology was similar to that of snow cover, showing obvious differences between the north and the south. Figure 4a shows the spatial distribution of the average SOS of the Mongolian Plateau from 2001 to 2018.The SOS was concentrated in the range of 100-140 DOY, showing the spatial distribution characteristics of a delay from the south to the north，with a strong spatial heterogeneity. The SOS occurred early in the central and southern Gobi Desert areas, mostly on $9 1 \\mathrm { - } 1 1 0 \\mathrm { D O Y } .$ In contrast, the SOS in the northern region occurred late,mostly on $1 2 1 { - } 1 4 0 \\ \\mathrm { D O Y } ,$ （20 including the western Hangay Uul Mountains, the Sayan Mountains,and the eastern Da Hinggan Mountains; in some parts of the Hangay Uul Mountains and the Da Hinggan Mountains, the SOS occurred after 140 DOY.According to Figure 4d, more than half of the regions $( 5 1 . 9 0 \\% )$ on the Mongolian Plateau showed different degrees of advancement of the SOS,which were mainly distributed in the northwest of the Altay Mountains and the Sayan Mountains, the northern Hangay Uul Mountains,and the eastern Da Hinggan Mountains,with an annual change rate of -0.39 $( \\pm 0 . 3 7 )$ DOY.Forty-eight percent of the regions showed different degrees of delay in the SOS, mainly in the central region, with an annual change rate of 0.75 $( \\pm 7 . 4 7 )$ DOY. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 4b shows the average spatial distribution of the LOS on the Mongolian Plateau from 2001 to 2O18. The LOS of the Mongolian Plateau was concentrated during $1 2 1 - 1 8 0 \\mathrm { ~ d ~ }$ ，with the spatial distribution characteristics of a short growth season in the north and a long growth season in the south. The Altay Mountains,the Hangay Uul Mountains,and the Sayan Mountains in the northwest had the LOS of $1 0 0 { - } 1 2 0 \\ \\mathrm { d }$ ,but the mountain areas had an LOS of 141-16O d,which was approximately $2 0 \\textup { d }$ longer than that in the above areas.The LOS in other areas in the north was between 1O1 and $1 8 0 \\mathrm { ~ d ~ }$ ，which was mainly manifested by the short LOS in the Hulun Buir Plateau of between 1O1 and $1 2 0 \\mathrm { d }$ .The LOS in the Khentii Mountains and the eastern part of the Da Hinggan Mountains was long, ranging from 161 to $1 8 0 \\mathrm { d }$ .The LOS in the central and southern regions was relatively long, exceeding $1 6 1 - 1 8 0 \\mathrm { d }$ ，and the LOS in some areas even exceeded 181 d.Figure 4e shows that the LOS in most areas of the Mongolian Plateau showed an extended trend. A total of $5 9 . 7 0 \\%$ of the areas showed an increasing trend of the LOS,which was mainly distributed in the north and south.The southern side of the Altay Mountains in the northwest, the Khentii Mountains in the north,and the northern side of the Da Hinggan Mountains in the east showed a significant extended trend; $4 0 . 3 0 \\%$ of the areas showed a shortened trend of the LOS, mainly distributed in the central and eastern Hulun Buir Plateau. Overall， the LOS on the Mongolian Plateau showed a prolongation trend, with an annual change rate of 0.19 $( \\pm 1 . 2 9 )$ d. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure $\\scriptstyle 4 \\ c$ displays the average spatial distribution of the EOS on the Mongolian Plateau from 2001 to 2O18.The EOS on the Mongolian Plateau was concentrated from 261 to $2 8 0 ~ \\mathrm { D O Y } ,$ showing the spatial distribution characteristics of early in the north and late in the south.The EOS appeared early in the northern region, mostly between 256 and $2 7 0 ~ \\mathrm { D O Y }$ ，especially in the Altay Mountains,the Hangay Uul Mountains,and the Sayan Mountains.In a small area of the eastern Da Hinggan Mountains in the northwest, the EOS occurred very early, between 185 and 255 DOY. In contrast, the EOS occurred late in the central and southern regions,between 276 and 285 DOY. Figure 4f shows that the EOS in most areas of the Mongolian Plateau was delayed. Of all these regions, $6 4 . 3 1 \\%$ had delayed EOS,mainly distributed in the central Gobi Desert， the northern Khentii Mountains,and part of the eastern Da Hinggan Mountains. In $3 5 . 6 9 \\%$ of the regions,the EOS showed an advancing trend,mainly distributed in the northwestern Altay Mountains,the Sayan Mountains,the southern Ordos Plateau,the Ulanqab Plateau,and the eastern Hulun Buir Plateau. Overall, the EOS on the Mongolia Plateau showed a deferred trend, with an annual change rate of 0.31 $( \\pm 5 . 1 7 )$ d. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition,similar to the spatial distribution of snow cover, there were significant differences in the SOS,LOS,and EOS between the eastern and western Da Hinggan Mountains. The SOS in the eastern forest-covered area was earlier than that in the western inland grassand area,the EOS was later than that in the western inland grassand area,and the LOS was longer than that in the western inland grassland area. The Da Hinggan Mountains may block the abundant water vapour from entering the inland Pacific Ocean, which makes the temperature and precipitation conditions in the inland grassland area unable to meet the requirements of grassland phenology and gives the phenology in the Da Hinggan Mountains an obvious spatial heterogeneity. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "90°E95E100E105E110E115°E120E125E 90°E95E100°E105E110E115E120E125E (a)SOs (b)LOS NOs NoOs Noos NoOs N4 4404 N54 44 No04 N00 400b N00 0250500km 0250500km 95E 100°E 105°E 110E 115E120°E 95E 100E 105E 110°E 115E120E   \nJnit: DOY 1-90 91-100 101-110111-120 Unit:d<100 100-120121-140141-160 121-130 131-140 >141 Non-vegetation ■161-180>181 Non-vegetation 90E95°E100E105E110E115°E120E125E 90°E95E100E105E110E115E120E125E (c)EOS (d) Variation of SOs NoOs Noos NoOs NoOs N4 4454 N4 N454 No04 No00 N00 N0 0250500km 0250500km 95E 100°E 105E 110°E 115E 120°E 95E 100E 105E 110°E 115°E 120°E 0.78% 44.24% 1.21%   \nUnit:DOY185-255 256-260 261-265 266-270 44.80% 2.22%4.10% 1.16% 1.49% 271-275 ■276-280281-285 >286 1<-2,Significant decrease <-2,Decrease,but not significant Non-vegetation 2,Sgniane 2 1>2,Significant increase >2,Increase,but not significant 90E95E100105E110E115E120°E125E 90°E95°E100°E105°E110°E115°E120°E125°E (e) Variation of LOS (f) Variation of EOS NoOs No0s NoOs NoOs NS4 4454 4444 4404 N00 N00 No00 No00 0250500km 0250500km 95E 100°E 105E 110E 115°E 120°E 95E 100E105E 110°E115E 120°E 1.15% 4.13% 47.02% 6.69% 0.39% 1.16% 58.52% 1.51% 36.02% 33.66% 1.56% 1.57% 1.86% 0.47% 1.17% 0.65% <-2, Significant decrease □ $< - 2$ ,Decrease,but not significant -2-0,Significant decrease -2-0,Decrease,but not significant 0-2, Significant increase 0-2,Increase,but not significant >2, Significant increase □ ${ > } 2$ ,Increase,but not significant ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Interannual characteristics of vegetation phenology ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the time series,the change of grassland phenology parameters showed a dramatic inter-annual fluctuation (Fig. 5). In the past 18 a,the SOS has ranged from 112 to 130 DOY,with no significant changes.The earliest SOS was $1 1 2 \\mathrm { D O Y }$ in 2009,and the latest SOS was $1 3 0 \\mathrm { D O Y }$ in 2003.The EOS was between 263 and 279 DOY, showing a non-significant postponement trend, among which the earliest EOS was 263 DOY in 2009,and the latest EOS was 279 DOY in 2018. The LOS ranged from 140 to $1 5 8 \\mathrm { ~ d ~ }$ ， showing a non-significant prolongation trend,with the shortest value being $1 4 0 \\mathrm { d }$ in 2003 and the longest value being 158 d in 2007. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/3598d7605570662eb214cc7c5735c5523f33eafca4ea1cd639f18ac1c21af420.jpg",
+        "img_caption": [
+            "Fig.5Temporal changes in the grassland phenology of SOS (a),EOS(b),and LOS(c） on the Mongolian Plateaufrom 2001 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.3Impact of snow cover changes on grassland phenology ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Table 1 shows the correlation coefficient between the snow cover parameters of the Mongolian Plateau and the SOS of four grassland vegetation types from 20Ol to 2018. The SCF, SCD,and SCED were significantly positively correlated with the SOS of the four types of grassland,among which the SCF had the closest correlation with meadow steppe，the SCD had the closest correlation with desert steppe,and the SCED had the closet correlation with typical steppe.The SCOD was significantly negatively correlated with the SOS of the four types of grassland and was most strongly correlated with the SOS in the alpine steppe. This result means that with the increase in the SCF,the extension of the SCD,and the postponement of the SCED,the SOS of the four types of grassland vegetation will be postponed,among which the increase in the SCF will delay the SOS of the meadow steppe the most, the extension of the SCD will delay the SOS of the desert steppe the most,and the delay in the SCED will delay the SOS of the typical steppe the most; however,the postponement of the SCOD will advance the SOS of the four types of grassland vegetation, among which the SOS of the alpine steppe will be the most advanced. ",
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/eadf81b85782c6c89dd6842905c50b6a9e5382bc1ad72f3cc7cd721f3c22c695.jpg",
+        "table_caption": [
+            "Table1 Pearson correlation coefficient between the snow cover parameters and the start of growing season (SOS) of the four types of grassland on the Mongolian Plateau from 2OOl to 2018 "
+        ],
+        "table_footnote": [
+            "Note:SCF,snowcoverfraction;SCD,snowcoverduration;SCOD,snowcoveronsetdate;SCED,snowcoverenddate.\\*,significant correlation at $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Grassland type</td><td>SCF</td><td>SCD</td><td>SCOD</td><td>SCED</td></tr><tr><td>Meadow steppe</td><td>0.649**</td><td>0.489**</td><td>-0.300**</td><td>0.368**</td></tr><tr><td>Typical steppe</td><td>0.586**</td><td>0.632**</td><td>-0.336**</td><td>0.540**</td></tr><tr><td>Desert steppe</td><td>0.585**</td><td>0.647**</td><td>-0.267**</td><td>0.497**</td></tr><tr><td>Alpine steppe</td><td>0.567**</td><td>0.585**</td><td>-0.393**</td><td>0.522**</td></tr></table></body></html>",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The GRG value can indicate the influential intensity of different snow cover parameters on the SOS of grassland vegetation. Overall, the SCD had the greatest impact on the SOS of the four grassland vegetation types on the Mongolian Plateau (Fig. 6). For the meadow steppe, the mean GRG of the SCF was the largest (0.7152); for the typical steppe, desert steppe,and alpine steppe, the mean GRG of the SCD reached its maximum value (0.7152，0.7100，and 0.6891, respectively)，which shows that the SCF had a significant efect on the SOS of the meadow steppe,and the SCD had the greatest impact on the SOS of the typical steppe, desert steppe, and alpine steppe. The SCOD and mean GRGs of the four grassand vegetation species reached their minimum values (0.5774, 0.5639,0.5441，and O.5121,respectively)，which indicated that the SCOD had the least impact on their SOS.However, the residual snow parameters had different effects on the SOS of different grassland vegetation types. For typical steppe and alpine steppe, the SCED affected the vegetation SOS to a lesser extent than the SCD,and the SCF had the second greatest effect. The impact of the SCF on the SOS of the desert steppe was second only to that of the SCD, followed by the SCED.For the SOS of the meadow steppe,the impact of the SCF was second only to that of the SCD, followed by the SCED. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/55646c3fbec116d35a862f876a274b6d5167e0586099b0b3320e9627497b2691.jpg",
+        "img_caption": [
+            "Fig.6Grey relation grade(GRG) values between the snow cover parameters and the SOS for the four grassland vegetation types on the Mongolian Plateau from 2OO1 to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Tables 2 and 3 present the correlations of the snow cover parameters with the EOS and LOS of the four grassland vegetation types from 2001 to 2018.The correlation of the three snow cover parameters (SCF, SCD,and SCED) with EOS and LOS is just opposite to that with SOS. The specific manifestation is that the SCF, SCD,and SCED were significantly negatively related to the EOS of the four grassland types, while the SCOD and the EOS showed a significant positive correlation. The Pearson correlation coeficient between the snow cover parameters and the EOS of the alpine steppe reached a maximum value. This finding indicates that snow was closely related to the EOS of the alpine steppe.The increase in the SCF, the extension of the SCD,and the postponement of the SCED will lead to the advancement of the EOS in the alpine steppe, while the postponement of the SCOD will postpone the EOS in the alpine steppe. In addition, although the snow cover parameters had significant correlations with the meadow steppe, typical steppe,and desert steppe, the correlation coefficients were small, indicating that the EOS changes in these three grassland vegetation types showed a weak correlation with snow cover. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f59dbe8ad585a36fae37726c1a7de88cac6edf3684e69c8781cf8b5e2e14ed8.jpg",
+        "table_caption": [
+            "Table 2Pearson correlation coeffcient between the snow cover parameters and the end of the growing season (EOS)of the four grassland vegetation types on the Mongolian Plateau from 2oo1 to 2018 "
+        ],
+        "table_footnote": [
+            "Note:\\*\\*,significant correlation at $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Grassland type</td><td>SCF</td><td>SCD</td><td>SCOD</td><td>SCED</td></tr><tr><td>Meadow steppe</td><td>-0.298**</td><td>-0.138**</td><td>0.081**</td><td>-0.112**</td></tr><tr><td>Typical steppe</td><td>-0.275**</td><td>-0.275**</td><td>0.202**</td><td>-0.263**</td></tr><tr><td>Desert steppe</td><td>-0.193**</td><td>-0.201**</td><td>0.150**</td><td>-0.133**</td></tr><tr><td>Alpine steppe</td><td>-0.484**</td><td>-0.489**</td><td>0.425**</td><td>-0.402**</td></tr></table></body></html>",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/cfc873dacdc1d889ff9abb73e45cb0dbbbf1e5311feeea4a7c9a77e1580c6c1a.jpg",
+        "table_caption": [
+            "Table 3Pearson correlation coefficient between the snow cover parameters and the length of the growing season (LOS) of the four grassland vegetation types on the Mongolian Plateau from 2Oo1 to 2018 "
+        ],
+        "table_footnote": [
+            "Note:\\*\\*,significant correlation at $P { < } 0 . 0 1$ level. "
+        ],
+        "table_body": "<html><body><table><tr><td>Grassland type</td><td>SCF</td><td>SCD</td><td>SCOD</td><td>SCED</td></tr><tr><td>Meadow steppe</td><td>-0.626**</td><td>-0.418**</td><td>0.254**</td><td>-0.319**</td></tr><tr><td>Typical steppe</td><td>-0.615**</td><td>-0.650**</td><td>0.381**</td><td>-0.573**</td></tr><tr><td>Desert steppe</td><td>-0.624**</td><td>-0.683**</td><td>0.321**</td><td>-0.511**</td></tr><tr><td>Alpine steppe</td><td>-0.635**</td><td>-0.650**</td><td>0.487**</td><td>-0.562**</td></tr></table></body></html>",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The correlation between the snow cover parameters and the LOS was similar to that of the EOS (Table 3). The SCF, SCD,and SCED were significantly negatively related to the LOS of the four grassland vegetation types, while the SCOD had a significant positive correlation with the LOS, among which the SCF had the closest correlation with the LOS of the alpine steppe,the SCD had the closest correlation with the LOS of the desert steppe，and the SCED had the closest correlation with the LOS of the typical steppe.These findings indicate that with the increase in the SCF,the extension of the SCD and the extrapolation of the SCED will occur later,and the LOS of all four types of grassland will be shortened. The increase in the SCF will shorten the LOS of the alpine steppe the most, the extension of the SCD will shorten the LOS of the desert steppe the most,and the delay in the SCED will shorten the LOS of the typical steppe the most. The correlation between the SCOD and LOS was negative for all grassland vegetation types, which means that the delay in the SCOD will lead to the extension of the LOS,among which the LOS of the alpine steppe will be the most prolonged. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Overall,the SCOD and SCED had a greater impact on the EOS and LOS of the four grassland vegetation types on the Mongolian Plateau, while the SCF and SCD exhibited a smaller impact. Figure 7 shows that the order of GRG values of the EOS,LOS,and snow cover parameters of different grassland vegetation types was very similar, indicating that the influences of different snow cover parameters on the EOS and LOS of different grassland vegetation types are roughly the same. For the four types of grassland vegetation, the SCOD had the greatest impact on the EOS and LOS,followed by the SCED. For the meadow steppe, the SCF had the weakest effect on the EOS and LOS.For the other three grassand vegetation types,the SCD had the weakest influence on the EOS and LOS,which may be due to the lag effects of both the season and vegetation. ",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/6479445cc91a59dae563f2350692f1da515d3071d6beb26b6a31920be2e823ae.jpg",
+        "img_caption": [
+            "Fig.7GRG valuesbetween the snow cover parameters and the EOS (a）and between the snow cover parameters and the LOS (b)of the four grassand vegetation types on the Mongolian Plateau from 2Ool to 2018 "
+        ],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4Discussion ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Mongolian Plateau is one of the most snow-rich regions in Central Asia because of its cold and long winters.This study used MODIS snow cover data to analyze the snow cover situation on the Mongolian Plateau during 2O01-2O18.The results shown in Figure 2a-d indicated that the SCF was high, the SCD was long,the SCOD was early,and the SCED was late on the northern plateau,and the snow cover situation in the south was the opposite of that in the north (Sa et al., 2012;Han et al., 2O14). This difference may exist because the north is affected by Mongolian high pressure during the snow season and temperatures in the north are considerably lower than those in other regions; additionally, water vapor from the Arctic Ocean,the Black Sea,the Yellow Sea,and the Bohai Sea can easily reach this area to form precipitation. Further,the area is located at high latitudes,the solar radiation energy received during the snow season is relatively limited, and the snow cover reflects most of the solar radiation that travels to the surface,resulting in low surface temperatures. In the Gobi and desert areas of the central and southern plateau,it is difficult for water vapor to reach this area to form precipitation because of its inland location; the temperature in the above regions is higher than that in other areas in the same time range, which is not conducive to the formation of snow cover. In addition，both the sublimation and evaporation of snow cover can cause the surface snow cover to decrease (Zhang et al., 2016). These factors result in the small SCF, the short SCD,the late SCOD,and the early SCED in the central and southern plateau,and thus,there is a significant difference in the snow distribution from that in the north. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In this study, the grassand phenology of the plateau was analyzed between 2OO1 and 2018 using MODIS NDVI data,and the results show that the spatial heterogeneity of the grassland phenology on the plateau was also obvious due to the topography,altitude,latitude,climate difference,and human activities.At the spatial scale,the grassland phenology (late SOS,early EOS,and short LOS) in the northern regions (Fig. 4a-c) was basically consistent with the results of Bao et al. (2O17). This distribution pattern may be due to the high latitude and elevation in the north,which will result in lower temperatures, finally afecting vegetation growth. Although the southern regions were dry with less rainfall and high evapotranspiration，they showed the distribution of early SOS,late EOS,and long LOS compared with the northern regions,which may be due to the impact of human activities.Animal husbandry in this area (Tong et al.,2018) is the main economicactivity,and an earlier SOS can provide the large amount of forage needed for spring animal husbandry as early as possible.The extension of the grassland growth period is of great importance to herdsmen and local economies (Miao et al.,2O17). Considering the natural factors, the rising temperature and precipitation or spring snowmelt water due to global warming are the two main factors leading to an early SOS,a late EOS,and a long LOS of vegetation in the south (Gong et al., 2O15). During the SCS,snow can preserve the surface heat and protect crops (mainly winter wheat) from cold air (Chen et al., 2O15). An earlier SCED will advance the snowmelt date,which also will lead to significant changes in spring snowmelt time and runoff and increase the possibility of catastrophic events, such as spring flood and summer drought. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Affected by global warming,the snow cover area in the Northern Hemisphere is undergoing a decreasing trend (IPCC,2008; Brown and Mote, 2009; Brown and Robinson, 2011). In recent years,many studies have shown that the warming temperatures have reduced SCDs and snow depth (Gao et al.,2012; Guo and Li,2015; Ke et al.,2016; Xu et al.,2017), which is sure to affect the soil moisture in grassand areas and spring vegetation green up,as well as interfering with vegetation growth and affecting terrestrial ecosystems (Han et al., 2O15). Therefore, we analyzed the snow cover and grassland phenology on the Mongolian Plateau and found that the SCF and SCD were significantly positively correlated with the SOS,and the correlation coefficient was large (Table 1). This conclusion is consistent with those of previous studies (Xie et al.,2017; Wang et al.,2O18a). Figure 6 shows that the GRG values of the SCF and SCD to the SOS of the grassland vegetation are greater than those of the SCOD and SCED.These results indicate that the SCF and SCD are the main influencing factors affecting grassland vegetation green up on the plateau. This situation exists because in the cold winter, the snow that covers the surface will insulate the surface vegetation from the air, protect the vegetation from dying due to strong winds and cold temperatures, and play a warming role for the plants (Chen et al.,2O15; Qiao and Wang, 2019).In addition,snowmelt water becomes an important source of water for plants when the snow melts in spring (Guo and Li, 2O15; Wang et al.,2O18a). In this study, the SCF was used as a parameter to characterize the snow cover range on the surface,and the SCD was used as a parameter to ilustrate the SCD on the surface. These values can well indicate the growth conditions of grassland vegetation in spring under a natural state. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Similarly,we determined the relationship between the snow cover parameters and the EOS and LOS of the four grassland vegetation types and found that although the snow cover parameters were significantly related to the EOS and LOS,the correlation coefficients were small (Tables 2 and 3),which indicates that although snow cover had a certain influence on the EOS and LOS of grassland vegetation,it was not the main factor (Sha et al.,2O16). The order of GRG values in the snow cover parameters and the EOS as wellas the LOS shows that the SCOD is the main snow cover factor affecting the EOS and LOS of grassland vegetation. This result may arise because the early and late SCOD may affect the physiological indices of grassland vegetation (leaf area size, root development degree,and so on), thus affecting the EOS and LOS (Wang et al., 2O18a). For example,an earlier SCOD will result in frostbite on the surface parts of grassland vegetation, causing irreversible damage to vegetation and affecting turn green and subsequent growth and development of plants in the second year. At the same time,the SCOD can indirectly reflect the temperature and precipitation on the plateau in autumn and winter, and the temperature and precipitation are important factors afecting the growth of grassland vegetation. The SCED is the second snow cover factor affecting the EOS and LOS of grassland vegetation, which may affect the EOS and LOS by influencing the SOS of grassland vegetation (Wang et al., 2018a). In addition, the change in winter snow cover can change the soil water and heat conditions, thus affecting the nutrients needed for vegetation growth and the length of the vegetation growth period (Wang et al.，2O18a). In future study, the processes of snow cover, snow melt，and vegetation growth will be fully monitored，and the mechanism of snow cover that affects vegetation growth on the Mongolian Plateau grasslands will be clarified. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In this study, the spatiotemporal distributions and change trends of snow cover parameters and grassland phenology on the Mongolian Plateau were analyzed using MOD1oA1 snow cover data and MOD13A1 NDVI data from 200O to 2018. We used a correlation analysis and GRA to investigate the effects of snow cover parameters on grassland phenology on the Mongolian Plateau. The conclusions are outlined as follows: ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1）Winter snow cover exhibited a significant different spatial distribution on the Mongolian Plateau from 2O0l to 2O18. Compared with the southern part of the Mongolian Plateau, the northern part had a higher SCF,a longer SCD,an earlier SCOD,and a later SCED. The SCF and SCD showed non-significant downward trends at an annual rate of $- 0 . 3 3 \\%$ （204号 $( \\pm 0 . 5 6 \\% )$ and $- 0 . 5 7$ （204号 $( \\pm 6 . 2 1 )$ d,respectively. In total, the SCOD and SCED exhibited non-significant postponement trends in more than half of the Mongolian Plateau. The annual change rates were $- 2 . 6 3$ （204 $( \\pm 9 . 4 9 )$ and -4.01 $( \\pm 1 1 . 2 7 )$ DOY, respectively. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) From 2001 to 2018, the average SOS and EOS occurred on 121 DOY and 271 DOY, respectively. They showed an opposite spatial distribution,i.e.,the SOS was delayed from the south to the north, while the EOS delayed from the north to the south. The average LOS lasted for $1 5 0 \\mathrm { d }$ ; it showed a spatial distribution of delayed from the north to the south. The SCF, SCD,and SCED showed significant positive correlations with the SOS while significant negative correlations with the EOS and LOS for the meadow steppe,typical steppe,desert steppe,and alpine steppe. By contrast, the SCOD was significantly negatively correlated with the SOS and significantly positively correlated with the EOS and LOS. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(3) The result of GRA shows that the SCF had the greatest impact on the SOS of the meadow steppe,the SCD had the greatest impact on SOS of the typical steppe,desert steppe, and alpine steppe. The SCOD had the greatest influence on the EOS and LOS of the four grassland types. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This study analyzed the changes in snow cover and its impact on vegetation phenology on the Mongolian Plateau in recent 18 years, which can provide a basic support for coping with future climate change and vegetation growth in arid and semi-arid grassland ecosystem. In the next step, we will use land surface model to in-depth study the mechanism of snow cover change on vegetation phenology combined with multi-source remote sensing data, such as snow depth, snow water equivalent, soil temperature, soil water content, etc. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation of China (41861014),the Natural Science Foundationof Inner Mongolia Autonomous Region, China (2020BS03042,2O20BS0409)，and the Scientific Research Start-up Fund Projects of Introduced Talents (5909001803,1004031904). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Bao G,Qin ZH,BaoYH,etal.2Ol3.Spatial-temporalchangesofvegetationcoveriMongolianPlateauduring982-2006. Journal of Desert Research,33(3):918-927.(in Chinese)   \nBao G,Qin ZH,BaoYH,etal.2014.NDV-basedlong-term vegetatiodynamicsand itsresponse toclimaticchange inthe Mongolian Plateau.Remote Sensing, 6(9): 8337-8358.   \nBao G,BaoYL,TuyaA,etal.2Ol7.Spatio-temporal dynamicsof vegetationphenologyinthe MongolianPlateauduring 1982-2011.Remote Sensing Technology and Application,32(5): 866-874.(in Chinese)   \nBao G,TuyaA,Baarsaikhan S,etalO2o.Variationsandclimateconstraintsof terestralntprmaryproductivityover Mongolia. Quaternary International, 537: 112-125.   \nBrown RD,MotePW.2O09.Theresponseof Northemn Hemisphere snow cover toa changing climate.Journal of Climate, 22(8):2124-2145.   \nBrown RD,Robinson DA.2011.Northern Hemisphere spring snowcover variabilityand change over 1922-2O10including an assessment of uncertainty. The Cryosphere,5(1): 219-229.   \nChang S,HuangF,ZhaoJJ,etal.2O18.Identifying influential climate factorsof landsurface phenologychanges inSongnen Plain of China using grid-based grey relational analysis.Journal of Grey System,3O:18-33.   \nChen XN,LiangSL,CaoYF,etal.2O15.Observed contrastchanges insnowcoverphenology in northern middleand high latitudes from 2001-2014. Scientific Reports,5(1):1-9.   \nChen XN,LiangSL,CaoYF,etal.2O16.Distribution,aribution,andradiativeforcingofsnowcoverchangesoverCina from 1982 to 2013.Climatic Change,137(3-4): 363-377.   \nDorji T,TotlandO,Moe SR,et al.2Ol3.Plant functional traits mediatereproductive phenologyandsuccess inresponseto experimental warming and snow addition in Tibet. Global Change Biology,19(2): 459-472.   \nDong L,Liang C Z,LiFYH,et al.20l9.Community phylogenetic structure of grassandsand itsrelationship with environmental factors on the Mongolian Plateau. Journal of Arid Land,11(4): 595-607.   \nGaoJ,Williams MW,uXD,etal.2Ol2.Spatiotemporal distributionofsnowineasterTibetandtheresponsetoclimate change.Remote Sensing of Environment,121:1-9.   \nGong Z,Kawamura K,Ishikawa N,etal.2O15.MODIS normalized difference vegetation index (NDVI)andvegetation phenology dynamics in the Inner Mongolia grassland. Solid Earth,6(4): 1185-1194.   \nGuo LP,LiLH.2O15.Variationof the proportionof precipitationoccurring assnow inthe Tian Shan Mountains,China. International Journal of Climatology,35(7): 1379-1393.   \nHan F,Zhang Q,Buyantuev A,et al.2O15.Effectsof climatechangeon phenologyand primaryproductivityin the desert steppe of Inner Mongolia. Journal of Arid Land,7(2): 251-263.   \nHanLJ,TsunekawaA,TsuboM,etal.2O14.Spatial variations in snowcoverandseasonallyfrozen groundovernorthern China and Mongolia,1988-2010. Global and Planetary Change,116:139-148.   \nHeD,YiGH,ZhangTB,etal.2Ol8.Temporaland spatialcharacteristicsofEVIanditsresponse toclimaticfactorsinrecent 16 years basedon grey relational analysis in Inner Mongolia Autonomous Region,China.Remote Sensing,10(6):961,doi: 10.3390/rs10060961.   \nHou XH,Niu Z,Gao S.2O14a.Phenologyof forest vegetation in northeast of China in ten years using remote sensing.   \nHou XH,Gao S,Niu Z,etal.2O14b.Extractinggrasslandvegetation phenology in North China basedoncumulative SPOT-VEGETATION NDVI data. International Journal of Remote Sensing,35(9): 3316-3330.   \nIPCC(Intergovernmental Panelon Climate Change).2008.Climate Change 2007:Synthesis Report.Contribution of Working Groups I, II and IIIto the Fourth Assessment Report. Cambridge: Cambridge University Press,2-3.   \nJinHX,JonsonAM,Bolmgren K,etal.2O17.Disentanglingremotely-sensed plant phenologyandsnow seasonalityat northern Europe using MODIS and the plant phenology index.Remote Sensing of Environment,198:203-212.   \nKeC Q,LiXC,XieHJ,etal.2016.Variabilityin snowcoverphenology inChina from1952 to2010.Hydrologyand Earth System Sciences Discussions,20:755-770.   \nKongDD,Zhang Q,HuangWL,etal.2017.VegetationphenologychangeinTibetanPlateaufrom1982to2O13anditsrelated meteorological factors.Acta Geographica Sinica,72(1): 39-52.(in Chinese)   \nLi HD,LiYK,GaoYY,et al.2O16.Humanimpacton vegetation dynamics aroundLhasa,southern TibetanPlateauChina. Sustainability,8(11): 1146,doi:10.3390/su8111146.   \nListonG E.199.Interelationshipsamong snow distribution，snowmelt，and snowcover depletion:Implications for atmospheric,hydrologic,and ecologic modeling.Journal of Applied Meteorologyand Climatology,38(10):1474-1487.   \nLiu JP, Zhang WC,Liu T.2017.Monitoring recentchanges in snow coverin Central Asia using improved MODIS snow-cover products. Journal of Arid Land, 9(5): 763-777.   \nMark AF,KorstenAC,GuevaraDU,etal.20l5.Ecologicalresponsesto52yearsof experimental snowmanipulation in high-alpine cushionfield,Old Man Range,south-central New Zealand.Arctic，Antarctic,and Alpine Research,47(4): 751-772.   \nMatsumura S,Yamazaki K.2Ol2.Alonger climate memorycarried bysoil freeze-thaw processes in Siberia.Environmental Research Letters,7(4): 045402,doi: 10.1088/1748-9326/7/4/045402.   \nMiao LJ,Muller D,CuiXF,etal.2O17.Changes invegetation phenologyonthe MongolianPlateau andtheir climatic determinants.PLoS ONE,12(12): e0190313,doi:10.1371/journal.pone.0190313.   \nPeng SS,PiaoSL,CiaisP,etal.2O10.Change inwintersnowdepthand its impactson vegetationin China.Global Change Biology,16(11): 3004-3013.   \nPiaoSL,FangJY,ZhouLM,etalO6.Variations inatelite-derivedphenologyiChina'stemperatevegetation.Global Change Biology,12(4): 672-685.   \nQiao D J,Wang N Q.2019.Relationship between winter snow cover dynamics,climateand spring grassland vegetation phenologyin Inner Mongolia,China.ISPRS InternationalJournalofGeo-Information,8(1):42,doi:1.3390/ijgi8010042.   \nRiggs GA,Hall D K,Roman M.2015.MODIS Snow Products User Guide for Colection6(C6).[2020-05-12]. ttp:/static1. Squarespace.com/static/58b98f7bd1758e4cc271d365/t/5c379590c2241bd03a9691ec/1547146641859/Rigsandhall.pdf.   \nSa CL,Liu GX,Bao G2O12.The spatialand temporal changes of snowcoverof the Mongolian Plateau inrecent10 years. Journal of Inner Mongolia Normal University (Natural Science Edition),41: 531-535.(in Chinese)   \nSha ZY,ZhongJLBaiYF,etal.16.Spati-tempoalpaernsofsatellte-derved grassadvegetationpenologyfrom 1998 to 2012 in Inner Mongolia, China. Journal of Arid Land, 8(3): 462-477.   \nShenMG,TangYH,Chen J,etal.2011.Influencesof temperatureand precipitation before the growing seasonon spring phenologyin grasslandsof thecentral and eastern Qinghai-Tibetan Plateau.Agricultural andForest Meteorology,151(12): 1711-1722.   \nShen MG, Zhang GX,Cong N,etal.2O14.Increasingaltitudinal gradientof springvegetation phenology during the last decade on the Qinghai-Tibetan Plateau.Agricultural and Forest Meteorology,189:71-80.   \nShen XJ,LiuBJ,LiGD,etal.2O16.Impactsof grassand typesandvegetationcoverchangesonsurfaceairtemperaturein the regions of temperate grassland of China. Theoretical and Applied Climatology,126(1-2): 141-150.   \nThackeray CW,Fletcher CG,MudrykLR,etal.2O16.Quantifying theuncertaintyinhistorical and future simulationsof Northern Hemisphere spring snow cover. Journal of Climate,29(23): 8647-8663.   \nThompson JA,Paull DJ,Lees B G2015.Using phase-spaces to characterize land surface phenology in a seasonally snow-covered landscape.Remote Sensing of Environment,166: 178-190.   \nTong SQ,Lai Q,Zhang JQ,etal.2O18.Spatiotemporaldrought variabilityontheMongolianPlateau from198-2014 based on the SPEI-PM,intensity analysis and Hurst exponent. Science of the Total Environment,615:1557-1565.   \nTrujillo E,Molotch NP, Goulden ML,etal.2012.Elevation-dependent influenceof snowaccumulationon forest greening. Nature Geoscience,5(10): 705-709.   \nWangXY,WangSY,HangY,etal.2O16.SnowphenologyvariabilityintheQinghai-TbetanPlateauanditsresposeto climate change during 2002-2012.Journalof Geo-Information Science,18(11):1573-1579.(in Chinese)   \nWang XY,Wang T,Guo H,etal.2O18a.Disentanglingthemechanisms behind wintersnow impacton vegetationactivityin northern ecosystems.Global Change Biology,24(4): 1651-1662.   \nWang XY,WuCY,PengDL,etal.2O18b.Snowcoverphenologyafectsalpinevegetationgrowth dynamicsontheTibetan Plateau: Sateliteobserved evidence,impacts of diferent bomes,andclimate drivers.Agricultural andForest Meteorology, 256:61-74.   \nWipf S,Rixen C.2Ol0.Areview of snow manipulation experiments in Arctic and alpine tundra ecosystems.Polar Research, 29(1): 95-109.   \nXieJ,KneubuhlerM,GaronnaI,etal.2017.Altitude-dependentinfluenceofsnowcoveronalpine landsurfacephenology. Journal of Geophysical Research: Biogeosciences,122(5):1107-1122.   \nXu WF,MaLJ,MaMN,etal.2O17.Spatial-temporalvariabilityofsnowcoveranddepth inthe Qinghai-TibetanPlateau. Journal of Climate,30(4):1521-1533.   \nZhang RH,Zhang RN,Zuo ZY.2016.Anoverviewof wintertime snow cover characteristics over Chinaand theimpactof Eurasian snow coveron Chinese climate.Journal of Applied Meteorological Science,27:513-526.(in Chinese)   \nZhang XY,Friedl M A,Schaaf C B,et al.2O03.Monitoring vegetationphenology using MODIS.Remote Sensingof Environment, 84(3): 471-475. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,222 @@
+# DOI:10.5846/stxb201705160905
+
+别鹏飞,唐婷,胡进耀,蒋炜.珍稀濒危植物距瓣尾囊草(Urophysa rochki)）的开花物候和繁育系统特性.生态学报,2018,38（11):3899-3908.BiePF,TanguJgingdigfdddareUooci（cEcologica Sinica,2018,38(11) :3899-3908.
+
+# 珍稀濒危植物距瓣尾囊草（Urophysarochkii）的开花物候和繁育系统特性
+
+别鹏飞¹，唐婷¹，胡进耀1,2,\*，蒋炜²  
+1 绵阳师范学院,生命科学与技术学院,生态安全与保护四川省重点实验室,绵阳621000  
+2 绵阳市蜀创农业科技有限公司，绵阳621000
+
+摘要;通过野外观察,运用套袋授粉和联苯胺-过氧化氢法等实验方法对距瓣尾囊草开花物候以及种群的繁育系统特性进行研究。研究结果:1)距瓣尾囊草为两性花,聚伞状花序,花期较长,从头年12月持续到次年4月,单花花期持续8—15d,种群花期可持续4个月左右。2)距瓣尾囊草在花朵未开放前花粉没有活力,花药开裂当天花粉活力达到 $9 4 . 8 \%$ ,第2天为 $9 0 . 3 \%$ ，第3天为 $8 1 . 6 \%$ ,第4天为 $6 2 . 9 \%$ ,此后其花粉活力明显减弱;柱头可授性于散粉后第3天开始出现,散粉后4—5天最强,散粉后第8天柱头失去可授性;柱头可授性和花粉活力有5d左右的重叠期。3)其花粉胚珠比 $\mathrm { P } / \mathrm { 0 }$ 为 $9 3 8 . 5 { \scriptstyle \pm 2 5 0 }$ ,按照Cruden 标准划分，其有性繁育系统为兼性异交。4)按照Dafni的标准,距瓣尾囊草的OCI $\overline { { = 4 } }$ ,即繁育系统为异交、部分自交亲和、需要传粉者。5)人工异花授粉结实率达 $8 0 \%$ 以上,略高于自然结实率 $7 8 . 9 4 \%$ ;直接套袋结实率为 $5 . 7 1 \%$ ;去雄套袋和去雌套袋均不结实。以上结果表明,距瓣尾囊草繁育系统表现为异交为主、部分自交亲和并且不存在无融合生殖现象,其开花物候、花部特征和繁育系统为适应特殊的环境提供了一定的生殖保障,本次研究结果为距瓣尾囊草的迁地保护和种群的繁衍复壮提供理论依据。
+
+关键词：距瓣尾囊草；开花物候;繁育系统;花粉活力;柱头可授性;授粉
+
+# Flowering phenology and Breeding system of an Endangered and Rare Species Urophysa rockii (Ranunculaceae)
+
+BIE Pengfei1， TANG Ting1，HU Jinyao 1,2\*,JIANG Wei²   
+1TheecologcltotebfcrcifedlUs   
+621000, China   
+2 Mianyang Shu Chuang Agricultural Science and Technology Co.， Ltd， Mianyang 6210oo,China
+
+Abstract:The endangeredandrare species Urophysarocki belongs toa unique genus of seed plants that isonlydistributed in the Jiangyou area of Sichuan，China.Breding system characteristicsand flowering phenologyare themost important factors influencing plantreproductivesuccess.Theflowering phenology，floral characteristics，and breeding system characteristics of $U$ rocki were investigated in Jiangyou，Sichuan. Analysis showed that:1） It is a bisexual flower with an umbelandalongflowering period.Itlasted from DecembertoAprilofthefollowingyear.Theflowering periodofone flower was8to15 days，and theflowering period lastedfor about 4 months.2）The flowerof Urophysarockiishowed no polen activitybeforetheflower wasopened.Onthefirst，second,third，andfourth dayof antherdehiscence，pollenactivitywas $9 4 . 8 \%$ ， $9 0 . 3 \%$ ， $8 1 . 6 \%$ ，and $6 2 . 9 \%$ ，respectively，and pollen viability obviously decreased. Stigma receptivity began the thirddayafterpollen scater,andreached the highestlevelsonthe fourthandfifthday，thentheeighthdayafterpolen scatter，stigmareceptivitywaslost.Stigmareceptivityand pollenviabilityoverlappedforabout5days.3）Thepolln-ovule ratio was $9 3 8 . 5 { \pm } 2 5 0 \$ ， according to the Cruden standard and the sexual reproduction system was facultative outcrossing. 4) According to the standard of Dafni（1992），the $\mathrm { O C I } = 4$ ， showing that the breeding system was out-crossing， partly selfcompatible，and insect pollinator-dependent.5）The seed setting rate of palmification was above $8 0 . 0 \%$ ，slightly higher than the natural seed setting rate of $7 8 . 9 \%$ . Direct bagged seed setting rate was $5 . 7 1 \%$ ； emasculation by bagging and removing pistil bagging were mostly infertile.Theresultsshowed that in the breeding system ofthisspecies，out-crossing waspredominant，partiallyself-compatible，andthere wasnoapomixis，but itrequiredpolinators.Thefloral characteristics，flowering phenology，and breeding systemof Urophysarocki provided some reproductiveassranceand evolutionarypotentialforitsabilitytoadapttothespecialenvironment.Theaimofthisarticlewastoprovidethetheoretical basis for the ex-situ conservation and rejuvenation of population reproduction of Urophysa rockii. 1
+
+Key Words:Urophysa rockii； flowering phenology；breeding system；pollen viability； stigma receptivity; pollnation
+
+距瓣尾囊草(Urophysa rochkii)属于毛茛科（Ranunculaceae）尾囊草属（Urophysa Ulbr)植物。世界上尾囊草属的植物仅有两种，分别是尾囊草和距瓣尾囊草，全部自然分布在我国境内，而距瓣尾囊草仅在江油市涪江上游区段有少量分布[1-2]。同时该物种富含芳香类油脂,花瓣和叶片颜色随时间不断变化,花期很长（一般为头年12月至次年4月）,且是冬季开花植物,因此具有潜在的药用价值和园林观赏价值[3-5]。
+
+胡进耀等对江油武都水库距瓣尾囊草的生长环境、播种和移栽实验、群落土壤理化特征和生物学特性进行研究,结果表明原生土最适宜其种子萌发和生长[4-6]。张云香对距瓣尾囊草进行了种子散布及萌发特性研究[7],结果表明距瓣尾囊草对环境依赖性强的生殖过程以及种群生殖能力低下是其处于濒危状态的主要原因之一。王金锡[8-9]、刘彬[10]等对其进行了相关的文献考证及生物学特性、生态学特性与群落分析,苏泽源等根据以上研究总结提出了关于距瓣尾囊草“抢救性迁地移植保护方案”[1]。以上研究为进一步对距瓣尾囊草的研究提供了极有价值的资料,但这些研究限于群落特征等方面的研究。距瓣尾囊草目前野外仅有 2026株存活,其中本实验点向家沟种群约有 322株，占 $1 5 . 8 9 \% ^ { [ 8 ] }$ 。要保护该极小种群物种,首先要厘清其生殖生态学特性,了解其生殖能力低下的原因。
+
+繁育系统是指代表所有影响后代遗传组成的有性特征的总和,主要包括花形态特征、花的开放式样、花各部位的寿命、传粉者种类和频率、自交亲和程度和交配系统,其中交配系统是核心[12]。植物开花的时间分布、繁育系统与花部特征对其生殖成功与否起决定性作用[13-15],同时也影响植物的遗传多样性及其分布格局[16]。濒危植物在片断化生境中,每个小的居群中由于遗传多样性的丧失等原因,使其具有很高的灭绝风险[17-18]而繁育系统又是影响植物居群遗传多样性的最关键的生物学因素之一,对植物的花部特征与繁育系统特性的深入研究对濒危植物的保护及开发利用具有指导作用[1920]。因此,要保护该极小种群物种,首先要解决的科学问题是研究清楚该物种的开花物候和繁育系统。以期从生殖生态学角度探索其可能存在的濒危原因。为保护和利用该物种提供科学依据。
+
+# 1研究区概况与方法
+
+# 1.1研究区概况
+
+距瓣尾囊草对环境要求较高,现仅发现4个小种群。本实验选择江油地区的永胜镇向家沟作为试验点(图1)，其地理位置 $3 1 ^ { \circ } 5 9 ^ { \prime } 1 4 . 6 ^ { \prime \prime } \mathrm { N } \vphantom { \frac { 1 } { 1 } } . 1 0 4 ^ { \circ } 5 1 ^ { \prime } 0 1 . 8 ^ { \prime \prime } \mathrm { E }$ ，坡度 $8 5 ^ { \circ }$ ,坡向北偏西 $2 0 ^ { \circ }$ ,海拔 $9 1 0 { - } 9 7 0 \ \mathrm { m }$ 。该地区属亚热带季风气候区,具有冬暖春早、夏长秋短、无霜期长、雨量充沛、四季分明、雨热同季、地域变化明显的气候特点。生长区域平均年降水量 $1 1 4 3 . 2 \ \mathrm { m m }$ 。
+
+距瓣尾囊草生长在山中部石灰质崖壁较湿润处,伴生植物主要由铁线蕨（Adiantum capilusveneris）、报春花（Primulamalacoides）淫羊藿(Epimedium davidii Franch)等,距瓣尾囊草种群呈集聚型分布。
+
+http://www.ecologica.cn
+
+![](images/58657bfb287a5c0a0079fa283a60dd8fc6c9517af81b6f4fea85d5f15aff4cab.jpg)  
+图1距瓣尾囊草(Uroplysa rockii)分布图  
+Fig.1The distribution map of Uroplysa rockii communities
+
+# 1.2 方法
+
+# 1.2.1 开花物候及花部综合特征
+
+在 2011年和 2012年的花蕾期,在不同种群中随机选取50 株距瓣尾囊草植株进行标记,每株1个花序。为了观察单花花期，每2—3天观察1次花蕾，直至花朵开放。花朵开放后，每1天观察1次，直至花朵脱落或成为果实。每次观测均注意记录花朵开放、花粉散出、柱头伸长等,并记录花朵形状、大小、颜色和它们的时空动态,尤其注意柱头与花药的位置。对该种群的花序进行连续观察,记录花在花序上的开花动态过程,空间排列状况等,每天记录当天开花的数目,凋落或结果的花朵数目,每天计算当天开花率,累积开花率。用下列公式表示花序内花朵开放百分率：
+
+花序内花朵开放百分率 $\mathbf { \Sigma } = \mathbf { \Sigma }$ 某一特定日期的开花数目/（开放花朵 $^ +$ 未开放花蕾 $^ +$ 调落或结果的花朵)
+
+另外按照Dafni和 Maues[22]所述标准描述观测地点距瓣尾囊草的种群开花进程并记录其开始的时间： $\textcircled{1}$ 开始开花; $\textcircled{2} 2 5 \%$ 以下的植株开花; $\textcircled { 3 } 5 0 \%$ 以上的植株开花; $\textcircled{4} 2 5 \%$ 以下的植株尚处于花期,余者已经凋谢; $\textcircled{5}$ 开花末期（少于 $10 \%$ 的植株仍在开花）。
+
+# 1.2.2 花粉活力的动态
+
+8:30—18:30每隔3h分别采集不同发育时期的新鲜花备用。参照 Dafni[21]的实验方法,采用TTC 法测定(将新鲜花粉置于载玻片上,同时用火加热致死的花粉作对照)花粉活力。将开花后不同时期的花粉撒在载玻片上,滴加1-2滴 $0 . 5 \% \mathrm { T T C }$ 溶液（2,3,5-triphenyl tetrazolium chloride）,迅速盖上盖玻片,置入垫有湿润滤纸的培养皿中,放在 $2 5 \mathrm { ^ { \circ } C }$ 黑暗条件下培养 $^ { 2 \mathrm { ~ h ~ } }$ 左右。在显微镜下观察,若花粉变红则表明有活力,若红色很浅或无变化或变黑色则表明无活性。统计全部花粉中红色花粉所占比例（每片载玻片上的花粉数 $\cdot > 5 0 0$ 粒，重复5朵花)。以染色率表示花粉的活力百分率,即有活力花粉的比率 $\ c =$ 红色花粉数/观察花粉总数 $\times 1 0 0 \%$ 。
+
+# 1.2.3柱头可授性的动态
+
+采用联苯胺-过氧化氢法测定距瓣尾囊草雌花的柱头可授性[22],直到无活力为止。具体步骤为：（1)随机标记开花前一天的花朵,开花后每天10:00—11:00从每株上各取新鲜花朵,去除花的各部分仅剩下雌蕊（柱头);(2)将其放入凹玻片的凹槽中并在解剖镜下调整好视野;(3)加了联苯胺-过氧化氢溶液( $1 \%$ 联苯胺： $3 \%$ 过氧化氢：水 $= 4 { : } 1 1 { : } 2 2$ ,体积比)于凹槽中,并立即观察；(4)若柱头具有可授性,则柱头表现过氧化物酶活性，其周围发生反应,呈现蓝色并伴有大量气泡出现，此时认真观察并记录其活力情况;否则无气泡产生且不变蓝,对比确定自然条件下柱头颜色的变化与柱头可授性的相关规律。
+
+# 1.2.4 花粉-胚珠比（Pollen-ovuleratio，P/O)的估算
+
+随机摘取花蕾 50朵(每株最多2朵)花药尚未开裂固定于FAA,按照 Pias 和Guotian 的方法[23]统计单花花粉粒粒数。将每朵花的子房置于载玻片上，在40倍解剖镜下进行解剖,在载玻片上滴1滴蒸馏水,将子房置于其中。细心解剖将胚珠从胎座中解开,观察并计数。依据Cruden[24]的标准,P/O为18.1—39.0时,繁育系统为专性自交；P/O为31.9—396.0时，繁育系统为兼性自交； $\mathrm { P } / 0$ 为244.7—2588.0时，繁育系统为兼性异交;P/O为2108.0—195525.0时,繁育系统为专性异交;P/0值的降低意味着近交程度的升高,P/O值的升高伴随着远交程度的上升。 2
+
+# 1.2.5 杂交系数（Out-crossing index，OCI)的估算
+
+按照 Dafni的标准进行花序直径;花朵大小及开花行为测量及繁育系统的评判。具体方法：(1)花朵或花序直径 $< 1 ~ \mathrm { m m }$ 记为 $0 ; 1 { \ - } { \ - } 2 { \ \mathrm { m m } }$ 记为 $1 ; 2 { \mathrm { - } } 6 ~ \mathrm { m m }$ 记为 $2 ; > 6 \ \mathrm { m m }$ 记为3。（2)花药开裂时间与柱头可授期之间的时间间隔,同时或雌蕊先熟记为0;雄蕊先熟记为1。（3)柱头与花药的空间位置,同一高度记为0;空间分离记为1。三者之和为OCI值。评判标准为, $\mathrm { O C I } = 0$ 时,繁育系统为闭花受精; $\mathrm { O C I } = 1$ 时,繁育系统为专性自交（Obligate autogamy） ; $\mathrm { O C I } = 2$ 时,繁育系统为兼性自交（Facultative autogamy）; ${ \mathrm { O C I } } = 3$ 时,繁育系统为自交亲和有时需要传粉者; $\mathrm { O C I } = 4$ 时,繁育系统为部分自交亲和,异交,需要传粉者。。
+
+随机选择50朵花,对距瓣尾囊草花的直径以及开花后雌雄蕊时空分布的情况进行测量,计算出距瓣尾囊草的杂交指数,对照Dafni标准,结果作为其繁育系统的另一指标。
+
+# 1.2.6 繁育系统的鉴定
+
+在野外对花进行下述7种处理：(1)对照组,不套袋、不去雄、自由传粉,用于检测自然条件下的传粉情况。（2)自发的自花传粉,开花前套硫酸纸袋,不去雄,检测是否存在自交。(3)同株异花传粉,去雄套硫酸纸袋,同株异花之间人工授粉,检测是否存在同株异花式自交及是否亲和(检测能否受精结实)。（4)异株异花授粉,去雄、用不同植株相同类型的花粉进行人工授粉,然后套袋,检测杂交是否亲和。（5）自然条件下的异花授粉,去雄不套袋,自由传粉,与前面4项的结果比较,检测座果状况是否受采粉者限制以及各种授粉方式所占的比例。（6)去雄、套网袋,检测风媒传粉的效果。（7)去雄和去雌套硫酸纸袋不授粉,检测是否有无融合生殖现象。
+
+# 1.2.7 数据统计与分析
+
+采用 SPSS19.0统计软件检验变量之间是否存在差异,并用Excel软件进行绘图。
+
+# 2结果
+
+2.1开花物候与开花进程
+
+根据2011年和2012年野外实验观察发现，距瓣尾囊草为夏枯型植物。8月上旬距瓣尾囊草开始返青生长,10月初开始形成花芽,12月上旬花芽开始萌动并逐步膨大,这个过程持续时间较长,一般为1个月左右，然后经历开花、调谢,到花绝大部分凋谢时,开花物候结束（图2）。
+
+从种群第一朵花到最后一朵花凋谢即为种群的花期。从(表1)花的开花进程可以看出距瓣尾囊草整个种群的花期为 $1 2 0 { \mathrm { ~ d ~ } }$ 左右,随着气温不断升高,光照不断加强,距瓣尾囊草一般在2月中下旬开花速度明显加快,达到 $5 0 \%$ 以上。
+
+观察结果表明,距瓣尾囊草单花开花无固定时间,单花开花持续时间7—15d不等,以12d出现的频率最高(图3)，平均单花花期为 $\left( 1 1 . 1 8 { \pm } 1 . 6 4 \right) \mathrm { d }$ 。花蕾期花萼片常呈淡绿色或淡紫色，花序上的花朵为互生。花开放时,花萼片陆续张开,萼片颜色发生变化,由淡绿色变为白色或天蓝色(淡紫色),同一花序上一般都是顶端的花朵最先开放。晴天花蕾多在中午前后开放,这可能与开花当天的气温有关。花开放时,柱头明显高于花药的位置。花柱在花期伸长不明显;而花丝在开花当天或第2天开始伸长,直至花药开始裂开,花粉散出。所有花丝中内轮的花丝先伸长且其上的花药首先散出花粉。单花期依其形态和散粉特征可分为4个时期：散粉前期—开花当天至花药开裂前,花萼开裂,露出雄蕊群和雌蕊群,内轮花丝开始伸长;散粉初期—开花第4—6天,花萼片完全展开,内轮花丝伸长高于柱头,5—7个花药开裂;散粉盛期—开花第7—10天,大部分花药开裂,柱头弯曲;散粉末期—第11—15天,花药全部开裂或枯死,且花药中的花粉全部散出,花萼片开始凋落,柱头变为淡紫色。
+
+![](images/c3bba2eb0a1695cc62d39902c5cf08f2f1efa7b4b4f14b16c152f4f01908c3bb.jpg)  
+图2开花进程
+
+表1距瓣尾囊草的开花进程(日/月/年)  
+Table1Floweringcourse ofUrophysarochkii（Date/Month/Year)   
+
+<html><body><table><tr><td>观测项目 Items of observation</td><td>开花进程(日/月/年) Flowering course(D/M/Y)</td></tr><tr><td>个别植株开花Afew plans flowering</td><td>15/12/2011</td></tr><tr><td>25%植株开花25% individuals flowering</td><td>10/1/2012</td></tr><tr><td>50%及以上的植株开花50% or more individuals flowering</td><td>11/2/2012</td></tr><tr><td><25%植株尚在开花,其余谢花Less than 25% individuals flowering,the rest already shed</td><td>15/3/2012</td></tr><tr><td>开花末期,仅10%植株开花 End of flowering，less than 10% individuals flowering</td><td>28/3/2012</td></tr><tr><td>第一朵花开日期Fist floweringdate</td><td>15/12/2011</td></tr><tr><td>最后一朵花开日期Peak floweringdate</td><td>13/4/2012</td></tr></table></body></html>
+
+# 2.2花粉活力和柱头可授性的动态特征
+
+通过使用改良的TTC 法测定不同散粉时间花粉的活力。距瓣尾囊草在花朵未开放前花粉没有活力。花药开裂后第1天花粉活力达到 $9 4 . 8 \%$ ,第2天为 $9 0 . 3 \%$ ，第3天为 $8 1 . 6 \%$ ,以后花粉活力逐渐降低。研究结果表明，距瓣尾囊草在花药开裂后的第4天，花粉活力降至$6 2 . 9 \%$ ,此后其花粉活力明显减弱。
+
+花药散粉后2d内，距瓣尾囊草的柱头无可授性，柱头成柱状且柱头的位置略高于雄蕊群，绿色。散粉第3天，柱头展开并向花药弯曲，此时雄蕊的位置高于柱头，柱头变为紫绿色，表现出一定的可授性。散粉第
+
+![](images/56c24a58b8b1bf36694a21c7923332768cd8204233e23610ccd2df4775c3439d.jpg)  
+Fig.2The flowering process   
+图3单花开放持续时间频率分布  
+Fig.3The frequency distribution of single flower longevity of Urophysarochkii
+
+4—5天,柱头可授性最强,柱头弯曲程度增大且柱头完全埋于雌蕊群中。此后,柱头可授性逐渐减弱,直至散粉后的第8天,柱头变成紫色,失去可授性（表2）。
+
+Table2Pollen viability，stigma receptivity and its morphology of Urophysa rochki   
+
+<html><body><table><tr><td>散粉时间 Days after pollen shedding/d</td><td>花粉活力 Pollen viability/%</td><td>柱头可授性 Stigma receptivity</td><td>柱头形状 Stigma shape</td><td>柱头颜色 Stigma color</td></tr><tr><td>1</td><td>94.8</td><td>1</td><td>柱状</td><td>绿色</td></tr><tr><td>2</td><td>90.3</td><td>一</td><td>柱状</td><td>绿色</td></tr><tr><td>3</td><td>81.6</td><td>+</td><td>展开、卷曲</td><td>紫绿色</td></tr><tr><td>4</td><td>62.9</td><td>++</td><td>展开、卷曲</td><td>紫绿色</td></tr><tr><td>5</td><td>45.7</td><td>++</td><td>展开、卷曲</td><td>紫绿色</td></tr><tr><td>6</td><td>15.8</td><td>+</td><td>展开、卷曲</td><td>紫绿色</td></tr><tr><td>7</td><td>8.3</td><td>+</td><td>展开、卷曲</td><td>紫绿色</td></tr><tr><td>8</td><td>1</td><td>1</td><td>展开、卷曲</td><td>紫色</td></tr><tr><td>9</td><td>1</td><td>1</td><td>展开、卷曲</td><td>紫色</td></tr></table></body></html>
+
+$^ +$ 表示柱头具有可授性； $^ { + + }$ 表示柱头具有较强可授性；-表示花粉失活或柱头不具可授性
+
+# 2.3花粉-胚珠比(Pollen-ovule ratio，P/O)
+
+测量了20 朵距瓣尾囊草的花,其单花花药数、单花花粉量、单花胚珠数及花粉胚珠比如(表3)所示。
+
+表2距瓣尾囊草的花粉活力、柱头可授性及其形态特征  
+表3距瓣尾囊草花粉胚珠比(P/O)统计  
+Table 3 TheP/O statistic of Urophysa rochkii  
+
+<html><body><table><tr><td>花朵序号 Sequence number</td><td>单花花药数/个 Anther number</td><td>单花花粉量/个 胚珠数/个 Pollen grain number Ovule number</td><td>花粉胚珠比(P/O) Pollen-ovule ratio</td></tr><tr><td>1</td><td>48</td><td>93200 52</td><td>1792</td></tr><tr><td>2</td><td>40</td><td>45667 55</td><td>830</td></tr><tr><td>3</td><td>38</td><td>47500 43</td><td>1105</td></tr><tr><td>4</td><td>35</td><td>39083 51</td><td>766</td></tr><tr><td>5</td><td>35</td><td>24500 43</td><td>570</td></tr><tr><td>6</td><td>36</td><td>38100 36</td><td>1058</td></tr><tr><td>7</td><td>41</td><td>31775 45</td><td>706</td></tr><tr><td>8</td><td>31</td><td>26092 39</td><td>669</td></tr><tr><td>9</td><td>35</td><td>38012 45</td><td>845</td></tr><tr><td>10</td><td>35</td><td>38000 45</td><td>844</td></tr><tr><td>11</td><td>40</td><td>46772 50</td><td>935</td></tr><tr><td>12</td><td>35</td><td>40386 46</td><td>878</td></tr><tr><td>13</td><td>36</td><td>40574 40</td><td>1014</td></tr><tr><td>14</td><td>35</td><td>38352 43</td><td>892</td></tr><tr><td></td><td>40</td><td>45667 55</td><td>830</td></tr><tr><td>15</td><td>40</td><td>45832 52</td><td>881</td></tr><tr><td>16</td><td>38</td><td></td><td>1105</td></tr><tr><td>17</td><td>36</td><td>47500 43</td><td>1032</td></tr><tr><td>18</td><td>40</td><td>39217 38</td><td></td></tr><tr><td>19</td><td></td><td>45667 50</td><td>913 1105</td></tr><tr><td>20</td><td>38</td><td>47500 43 45.7±5.6</td><td></td></tr><tr><td>平均值 Average (x±SD)</td><td>37.6±3.6 (P<0.05)</td><td>42969.8±13604 (P<0.05)</td><td>938.5±250 (P<0.05) (P<0.05)</td></tr></table></body></html>
+
+距瓣尾囊草花粉量每朵花平均为( $4 2 9 6 9 . 8 \pm 1 3 6 0 4 )$ 粒，胚珠数每花平均为 $4 5 . 7 { \scriptstyle \pm 5 . 6 , } \mathrm { P / 0 }$ 值每花平均为$9 3 8 . 5 { \scriptstyle \pm 2 5 0 }$ ,按照Cruden的标准，距瓣尾囊草的有性繁育系统为兼性异交。
+
+# 2.4杂交系数(Out-crossing index，OCI)
+
+测量得出，距瓣尾囊草花直径为 $( 1 9 . 2 6 { \pm } 2 . 8 0 ) \$ ） $\mathbf { m } \mathbf { m }$ ,距瓣尾囊草具有明显的雌雄蕊异熟现象。距瓣尾囊草花药开裂时间与柱头的可授期之间的时间间隔为雌蕊先熟,柱头与花药位置不在同一高度。按照 Dafni 的标准,距瓣尾囊草的 $\mathrm { O C I } = 4$ ,即距瓣尾囊草的繁育系统为异交、部分自交亲和、需要传粉者(表4）。
+
+表4距瓣尾囊草杂交指数观测结果  
+Table 4The out-crossing index of Urophysa rochkii   
+
+<html><body><table><tr><td>观测项目 Items of observation</td><td>花朵直径 Diameter of flower/mm</td><td>花药散粉时间与柱头 间隔(雌雄异熟) Temporal separation of anther Dehescence and stigma Receptivity （Dichogamy)</td><td>柱头与花药 空间间隔 (雌雄异位） Spatial separation of anther Dehescenceand stigma（Herkogamy)</td><td>杂交指数OCI Out-crossing index</td><td>繁育系统类型 Type of breeding- system</td></tr><tr><td>结果Results</td><td>>6 mm(记为3)</td><td>雌蕊先熟(记为0)</td><td>不同高度(记为1)</td><td></td><td>异交、部分自交 亲和、需要传粉者</td></tr></table></body></html>
+
+# 2.5 繁育系统
+
+由图4可以看出，自然对照的40个距瓣尾囊草花序结实率为 $7 8 . 9 4 \%$ ，直接套袋结实率为 $5 . 7 1 \%$ ;去雄套网袋的结实率为 $1 3 . 1 6 \%$ ;去雄套袋和去雌套袋,均不结实;人工同株异花授粉的结实和人工异株异花授粉的结实率都比较高，达到 $8 0 \%$ 以上，略高于自然结实率；自然条件下异花授粉(去雄不套袋)的结实率为 $6 7 . 5 \%$ 远高于去雄、套网袋的结实率。
+
+对所得数据进行分析,研究结果表明：自然结实、去雄人工同株异花授粉、去雄人工异株异花授粉三者之间无显著差异,都高于去雄不套袋,且四者都极显著高于直接套袋处理和去雄套网袋处理的结实率( $P <$ 0.01);而直接套袋处理和去雄套网袋处理的结实率都极显著大于去雄套袋和去雌套袋( $\stackrel { \cdot } { P } < 0 . 0 1 \stackrel { \cdot } { _ { , } }$ ）。
+
+# 3结论与讨论
+
+100 %/as pees a a a 80 工 T 1 1 1 a 60 40 20 b b 0 子 业子 区子 处理Treatment
+
+传粉的成功依赖于较强活力的花粉与较高可受性柱头的相遇，生境不同，花粉活力与柱头可受性及二者的相遇期都会随之而变化[25]。本文对距瓣尾囊草的开花物候、花粉活性、柱头可授性以及繁育系统的鉴定做了初步研究，为下一步对其传粉生态学研究以及探究距瓣尾囊草繁育系统特性与其濒危原因之间的关系提供材料和依据。
+
+开花物候是植物重要的生活史特征之一[26]，也是植物生殖生态研究的一个重要内容[27-28],它主要研究植物开花式样与非生物因子间的关系以及植物开花的遗传基础和自然选择。探讨其适应意义[26,29],可表现在群落、科、属、种、种群、个体、花序和单花等多个水平
+
+不同字母表示差异显著（ $\scriptstyle P < 0 . 0 5$ ）
+
+上,植物个体或群体的开花物候可以用一系列参数如开花数、开花时间和开花持续时间等来量化,这些参数能显著影响植物的生殖成功[30]。一些研究表明,开花物候不仅与植物类群的系统发生及遗传特性有关[31],而且与环境条件有密切联系[32-34]。对距瓣尾囊草开花物候的观察表明,距瓣尾囊草花期较长,花期一般从第一年的12月上旬开始，一直持续到第二年的4月中下旬。开花时间长,且表现出明显的开花不同步性。这种开花持续时间长且开花不同步不仅可以保证植株在较长时间内都能成功完成传粉受精过程而保证生殖成功,而且也可以降低花期恶劣的自然环境如倒春寒对其生殖成功造成的不良影响，这是距瓣尾囊草长期适应环境影响所形成的一种生殖策略。正如焦培培等对濒危植物矮沙冬青开花物候的研究以及周正立等对濒危植物胡杨、灰叶胡杨开花物候的研究也支持了这一观点[35-36]。野外实验观察还发现,不同生长环境的距瓣尾囊草开花时间也不同步，一般生长在崖壁高处的开花时间都早于生长在崖壁下面的,这可能是由于光照时间和光照强度的不同，导致开花不同步。
+
+植物花粉的活力与寿命因植物种及环境条件不同而有所差异：如海枣花粉可维持活性数月至一年;茄的花粉在夏季只能存活1d,在冬季能维持 $3 ~ \mathrm { d } ^ { [ 3 7 ] }$ ;芍药的花粉活力可持续半个月以上[38];刺五加植株的花粉活力在开花之初较高,但3d后迅速下降,4d后大部分失去活力[25]。而柱头可授期是花朵成熟过程中的一个重要时期,它能在很大程度上影响自花传粉率、开花不同阶段的传粉成功率、各种传粉者的相对重要性、雄性和雌性功能之间的相互干扰、不同基因型的花粉之间的竞争以及配子体选择的机会等等[21]。不同植物的柱头可授期所持续的时间从几天到十几天不等,花朵的年龄、一天内的不同时间段以及柱头分泌物的有无等对其均有影响[28]。本文研究结果表明,距瓣尾囊草花粉活力较高时期与柱头可授性较高的时期不一致,同一朵花的柱头可授性较强期和花粉活力较高期基本没有重叠,表明距瓣尾囊草存在雌雄异熟现象,进一步证明其传粉机制是以异花传粉为主，是避免自交的一种适应性机制。
+
+自然界绝对自交或杂交的植物类群很少,大多是两者兼而有之并采取混合交配的繁殖对策模式[39]。对繁育系统的多样化及其作用模式和机制的研究,是理解植物各类群进化的一个重要基础[40]。本实验测定了距瓣尾囊草单花花粉胚珠比(P/O)为 $9 3 8 . 5 { \scriptstyle \pm 2 5 0 }$ ,按照Cruden 的花粉胚珠比(P/O)的标准划分，距瓣尾囊草的有性繁育系统为兼性异交。按照Dafni的标准,距瓣尾囊草的杂交系数OCI $\mathtt { \Omega } = \mathtt { 4 }$ ，即距瓣尾囊草的繁育系统为异交、部分自交亲和、需要传粉者。 >
+
+在不稳定的环境中植物会通过改变一些生态机制来保证生殖成功,比如植物常常会改变自身繁殖策略，包括植物对雌雄性资源投入的权衡[41-42]。而 P/O值是衡量植物对雄性资源分配量的一个指标[43]。本研究表明距瓣尾囊草的单花花粉量较大,而胚珠相对较少,P/O值较高。这可能是由于距瓣尾囊草的生境特殊性因素限制了访花昆虫的活动,使访花昆虫的种类和数量减少，从而限制距瓣尾囊草的有效传粉,但其雄性资源投入的增长，是其适应环境从而保证生殖成功的有效对策。
+
+一般而言,自交不亲和、雌雄异位和雌雄异熟被认为是促进异交、避免自交的重要机制[446]。在异花传粉者不足等选择压力下,一些物种能够演化出自交亲和或依赖自交的种群和个体[47-49]。为了生存的需要,生物往往发展出一整套必要的生殖补偿机制,保证物种繁衍的顺利进行[50]。本研究结果表明：自然对照的结实率远高于直接套袋结实率,说明距瓣尾囊草存在自交亲和现象,可以自发传粉;去雄、套网袋的结实率为$1 3 . 1 6 \%$ ,说明其存在风媒传粉的方式;去雄套袋和去雌套袋均不结实,说明不存在无融合生殖现象；人工同株异花授粉和人工异株异花授粉的结实率都略高于自然结实率,说明其繁育系统以异花传粉为主,可能存在传粉限制或花粉干扰;自然条件下异花授粉(去雄、不套袋)的结实率远高于去雄、套网袋的结实率,表明其在授粉过程中需要传粉者,其结实率受到传粉者的限制。以上结论还不能充分说明距瓣尾囊草的繁育系统特性是其致濒原因之一,需要结合传粉生态学等实验进一步验证说明。对于距瓣尾囊草混合型繁育系统,关于其权重比例及后代的生活力有待进一步研究。这种具兼性交配系统的现象在毛茛科其他植物,如独叶草、顿裂银莲花（Anemone obtusiloba）、小花草玉梅(Anemone rivularis）中叶存在[51]。
+
+致谢：感谢江油市林业局苏泽源高级工程师对实验的帮助。
+
+# 参考文献（References）：
+
+[1]UbrichE.RanunculaceaenovaevelcicaeVI.NizlttdesBotanischnGartensundMuseuszuBerln-ahlm,929,70.  
+[2]Wu ZY,Raven PH,Hong DY.Flora of China (6).Beijing:Science Press,2001:277-278.  
+[3]DuBG,YngFUropysarockiiUbr.，AareandedangeredplantneesurgentconservatioCurentSience,,994）：49-40.  
+[4］刘友权，刘刚，赵勋，张琼，刘英.距瓣尾囊草的生物生态学特性及栽培试验.四川林业科技，2007,28（2)：47-48.
+
+http://www.ecologica.cn
+
+[5] 胡进耀，罗丹，景晓宏，苏泽源.距瓣尾囊草(Urophysa rocki)群落土壤理化特征初步研究.绵阳师范学院学报，2010,29（2）：72-75.  
+[6］刘友权，徐作英，赵勋，刘刚.距瓣尾囊草生存环境调查及栽培试验研究.中国种业，2009，（2）：69-70.  
+[7] 张云香，胡灏禹，杨丽娟，王长宝，何兴金.珍稀濒危植物距瓣尾囊草种子散布及萌发特性.植物分类与资源学报，2013，35（3)：303-309.  
+[8] 王金锡，何兴金.四川江油距瓣尾囊草初步研究（一)距瓣尾囊草的文献考证与生物学特性.四川林业科技，2011，32（3）：69-73.  
+[9] 王金锡，何兴金，徐伟，孟文凯，苏泽源.四川江油距瓣尾囊草初步研究(二)生物学特性、生态学特性与群落学分析.四川林业科技2011,32(4): 28-32,39-39.  
+[10] 刘彬，王金锡，罗承德，林国岭，郝云庆.珍稀植物距瓣尾囊草（Uroplysa rocki)生境特征.四川农业大学学报，2011,29(4)：488-494.  
+[11] 苏泽源，王金锡，何兴金，徐伟.四川江油矩瓣尾囊草初步研究(三)抢救性迁地移植保护方案.四川林业科技，2011，32（5）：40-42,66-66.  
+[12] 何亚平，刘建全.植物繁育系统研究的最新进展和评述.植物生态学报，2003,27(2)：151-163.  
+[13] 张洪芳，李利强，刘仲健，罗毅波.菜粉蝶对两种迁地保护的兰科植物传粉和繁殖成功的作用.生物多样性，2010，18（1)：11-18.  
+[14]Mungoss，rJ，ar-ablaVeJAMealyisofotceeolowegegaalyflowering plants are favoured.Ecology Letters，2011,14(5）： 511-521.  
+[15]Cortes-FrJ，ndeEqivelK，onzleodrguea-anqueGeringenlg，ows，ndiisyndromesintropicaldryforestspecies：influenceofphylogenyandabioticfactors.AmericanJoualofBotany201704（)：39-49.  
+[16］予茜，张彦文，郭友好.传粉生物学常用术语释译.植物分类学报，2008,46(1)：96-102.  
+[17］陈小勇.生境片断化对植物种群遗传结构的影响及植物遗传多样性保护.生态学报，2000，20(5）:884-892.  
+[18] Frankham R,Balou JD,Briscoe DA.Introductionto Conservation Genetics.UK:Cambridge University Press,2010：56.  
+[19] 刘芬，李全健，王彩霞，连静静，田敏.濒危植物扇脉杓兰的花部特征与繁育系统.林业科学，2013，49(1)：53-60.  
+[20]宋玉霞，郭生虎，牛东玲，郑国琦，马洪爱，李苗.濒危植物肉从蓉（Cstanche desericola）繁育系统研究.植物研究，2008，28（3）：278-282,287-287.  
+[21]Dafni A.Polination Ecology:A Practical Approach.New York:Oxford University Press,1992:1-57.  
+[22] Dafni A,MauesMM.ArapidandsipleproceduretdeterinestigrecepivitySexualPlantReproductio998,1（3）)：71.  
+[23]PiasB，Guotian P.Flowering phenologyand poen-toovu e ratio in coastal dune communities near Eurosiberian-Mediterranean border in the NWIberian Peninsula.Flora,2001,196(6）：475-482.  
+[24]CrudenRW.Peovleatio:acosevativeidicatorofbedingstes inoweringplants.Evolutio977,1()346.  
+[25］刘林德，张洪军，祝宁，申家恒．刺五加花粉活力和柱头可授性的研究.植物研究，2001,21（3)：375-379.  
+26]OertoJcAJegeeatuaedsio99）.  
+[27] Willson MF.Plant Reproductive Ecolog y.New York: John Wiley & Sons,1983: 80-85.  
+[28] 马文宝，施翔，张道远，尹林克.准噶尔无叶豆的开花物候与生殖特征.植物生态学报，2008，32(4)：760-767.  
+[29] GuoHW,YangH,klerC,inCRegatiofflowerigtieyrbdopsspotoreceptoiee998,7955):6.  
+30]MntoshE.gderoducietisteofous（acace）a.  
+[31]OertonJDiazAEvidenceforsabilisingseletioactingofloweringtieiArummaculatum（Aace)theiueneofplyoadaptation. Oecologia，1999,119(3）: 340-348.  
+[32]RathckeB,LaceyEPhnologcalpatesf eestrialplantsalRevofEcoloandSsematis，985，6:79-214  
+3]SilvaIA,dlaDM,deCarvaoGHBataaMReproductivephenologofBraziliasavasandriparianforests：virotaldphylogenetic issues. Annals of Forest Science,2011, 68(7） : 1207-1215.Lessard-TherienM，DaviesJ，BolmgrenK.ApylogeneticomparativestudyoffoweringphenologlonganelevationalgadienttheCanadian subarctic.International Journal of Biometeorology，2014,58(4）：455-462.焦培培，李志军.濒危植物矮沙冬青开花物候研究.西北植物学报，2007，27(8)：1683-1689.36] 周正立，李志军，龚卫江，高山.胡杨、灰叶胡杨开花生物学特性研究.武汉植物学研究，2005，23（2)：163-168.  
+[37] 胡适宜.被子植物胚胎学.北京：人民教育出版社，1982.  
+[38] 红雨，刘强，韩岚.芍药花粉活力和柱头可授性的研究.广西植物，2003，23（1)：90-92.  
+[39］张金菊，叶其刚，姚小洪，张胜菊，黄宏文.片断化生境中濒危植物黄梅秤锤树的开花生物学、繁育系统与生殖成功的因素.植物生态学报，2008,32(4)：743-750.  
+[40]郭友好，黄双全，陈家宽.水生被子植物的繁育系统与进化.水生生物学报，1998，22（1)：79-85.  
+[41］李金霞，苏雪，刘玉国，陈明忠，孙坤.黄花角蒿(ncarilea sinensis vr.przewalski）开花动态及繁育系统的研究.植物研究，2011，31(2) : 147-151.  
+[42]Crosby-asse,slHlaiiUaosialterniflora.AmericanJournal of Botany，2015，102(5)：669-676.  
+[43］李志成，李进，吕海英，张侠.艾比湖沙拐枣的花部特征与繁育系统.园艺学报,2015,42（5)：939-949.  
+[44]IshiH,akaiSmpaltoinfoasplasizedidivualfllatioinacsofrtmic（ie.American Journal of Botany，2002,89(3）：441-446.  
+[45]AnderBidgeeartailaeuctiura：uaisptedaAmerican Journal of Botany，2003,90(7）：1009-1015.  
+[46] 侯勤正，段元文，司庆文，杨慧玲.青藏高原晚期开花植物线叶龙胆的传粉生态学.植物生态学报，2009,33（6)：1156-1164.  
+[47] BuschJW.Theevolutionofslf-compatibilityingeogaphicallyperipheralpopulationsofLeavenworthiaalabamica（Brasicaceae). AmericanJournal of Botany，2005,92(9)：1503-1512.  
+48]HeiC,ketCGEoutofftlaalgacpaoofmoacloaldativariablescentralsriraloulatiosofulegacadesis（auculcee）AmcanJoualfotay，9（）：451.  
+[49］彭德力，张志强，牛洋，杨扬，宋波，孙航，李志敏.高山植物繁殖策略的研究进展.生物多样性，2012，20（3）：286-299.  
+[50] 张丙林，穆春生，王颖，王彦静.五脉山黧豆开花动态及有性繁育系统的研究.草业学报,2006，15(2)：68-73.  
+[51］赵志刚，杜国祯.毛茛科植物交配系统的特征与花期资源分配对策.兰州大学学报：自然科学版，2003，39（5）：70-74.
+
+![](images/228d3f8f10ce3e0126c9023273157246d4c216ac86810f17e7283d12d9a11966.jpg)

@@ -1,0 +1,338 @@
+[
+    {
+        "type": "text",
+        "text": "miR146a通过Smad4参与多柔比星的心肌细胞毒性作用",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "秦瑶、赵鸿彦、张文航、王冬梅贵州省遵义医学院附属医院心内科，遵义市大连路149号，563003摘要目的：探讨miR146a参与多柔比星心肌细胞毒性作用的可能机制。方法：用多柔比星处理大鼠心肌细胞，用CCK-8方法检测细胞活力，用荧光定量PCR 检测miR146a的变化，用western blot检测切割的 Caspase3的蛋白变化。使用常间回文重复序列丛集（clusteredregularly interspaced short palindromic repeats，CRISPR）的方法，设计针对miR146a 的向导RNA,敲除 miR146a 的表达。用 CCK-8方法和western blot分别检测敲除细胞的活力和 Caspase3蛋白变化。用软件预测miR146a 的靶基因，利用荧光素酶系统进行验证。用western blot检测多柔比星处理后靶基因的变化，以及用western blot检测敲除miR146a 对靶基因变化的影响。结果：多柔比星处理导致大鼠心肌细胞活力降低，切割的Caspase3水平升高，同时发现miR146a表达升高（3.6倍)。使用CRISPR可有效敲除miR146a 的表达，敲除效果显著高于microRNA decoy的效果（ $8 8 . 6 \\%$ vS $5 7 . 6 \\%$ )。敲除miR146a的细胞用多柔比星处理，miR146a 增加不明显（1.08倍)，并且敲除miR146a 抑制了多柔比星导致的细胞活力降低和Caspase3升高。经生物信息学及荧光素酶检测证实在大鼠心肌细胞内 Smad familymember 4（Smad4）是miR146a的靶基因，用多柔比星处理心肌细胞后，Smad4的表达降低。而敲除miR146a 后，Smad4的表达升高，用多柔比星处理敲除miR146a的细胞，Smad4的表达变化不明显。结论：大鼠心肌细胞中，miR146a通过调节Smad4的表达参与了多柔比星对细胞的毒性作用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词多柔比星；miR146a；常间回文重复序列丛集；Smad家族成员4  \n中图分类号：R54",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多柔比星（Doxorubicin，DOX）临床使用时的心脏毒性一直是限制其使用的一个因素，其机制尚未完全解释清楚[1。有研究表明miR146a可以通过调节幼红细胞白血病病毒癌基因同源体4（ErbB4）的表达部分的参与了多柔比星的心脏毒性效应[2。miRNA通常可以调节多个基因的表达发挥其生理功能[3]，因此很可能有其他通路也参与了多柔比星的毒性效应。常间回文重复序列丛集（Clustered regularly interspaced short palindromic repeats，CRISPR）是近几年发展迅速的一种基因编辑技术，可以简单有效的敲除基因的表达[4。本研究中我们使用CRISPR技术敲除大鼠心肌细胞中miR146a的表达，获得了显著优于现有抑制miRNA功能方法的效果。在此基础上，我们证实了敲除miR146a可以抑制多柔比星导致的心肌细胞毒性，Smad家族成员4（Smad4）是miR146a的一个靶基因，并且参与了这一过程。本研究为探索多柔比星的毒性机制提供了一些新的证据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1．材料与方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1.1 试剂和仪器",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "大鼠心肌细胞系 H9c2 购于中国科学院细胞库；293FT细胞购于 LifeTechnologies 公司。多柔比星购于 Sigma-aldrich 公司；DMEM 培养基，胰酶，双抗购于 Life Technologies 公司；蛋白提取液，BCA蛋白浓度测定试剂盒购于碧云天生物技术研究所；ECL化学发光检测试剂盒购于 Bio-rad 公司；Smad4，Caspase3 抗体购于Cellsignaling 公司；CCK-8 试剂盒购于碧云天生物技术研究所；Blasticidin 和 Puromycin 购于 Life Technologies 公司；荧光素酶检测试剂购于 Promega 公司；miR-146a 检测试剂盒购于 Applied Biosystems 公司。普通 PCR 仪（ThermoScientific，USA），Nanodrop2000 分光光度计（Thermo Scientific，USA），Stratagene MX3000p荧光定量 PCR 仪（Agilent，USA）等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2CCK-8细胞活力检测 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检测过程按照试剂盒说明进行。按 $1 0 ^ { 4 } ,$ /孔将细胞铺入到96孔板中，每组5个孔，4h后加入DOX 处理， $2 4 \\ h$ 后，加入10μICCK-8检测试剂，混匀，孵育1h后，测定 $4 5 0 \\ \\mathsf { n m }$ 吸光度值。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3Western blot ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "用胰酶消化收集培养的细胞，加入蛋白提取液裂解，离心后收集上清，用BCA试剂盒测定蛋白浓度，取适量蛋白提取液进行 SDS-PAGE 电泳，按照常规操作流程进行Western blot 检测目的蛋白表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4miR146a表达检测 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "弃去培养细胞的上清，用PBS洗一次，然后加入Trizol裂解，按说明书流程提取RNA，然后按 miR-146a检测试剂盒说明书步骤进行荧光定量 PCR 检测,通过 U6作为内参校正miR-146a表达量。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5miR146a靶点预测通过TargetScan（http://www.targetscan.org/vert_71/）进行 miR146a 的靶点信息学分析[5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6载体构建 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在网站 http://crispr.genome-engineering.org/设计针对大鼠 miR146a 基因序列的 sgRNA靶点,共设计两个，靶点1：ctctgagaactgaattccat，靶点2：gctaaagaactgaacttcac。按序列合成寡聚核苷酸，用 BbsI 酶切敲除载体 pLentis-U6-sgRNA-SFFV-Cas9-T2A-PURO，将合成的寡聚核苷酸退火以后连入酶切的载体中，得到针对miR146a的敲除载体pLentis-U6-sgmiR146a-SFFV-Cas9-T2A-PURO，通过测序验证载体构建正确，针对两个不同靶点的干扰载体分别用 sgmiR146a-1和 sgmiR146a-2表示。  \n合成连续的5个miR146a的部分互补序列[2]，然后用 Bbsl连入载体pLentis-CMV-PURO 的puromycin 基因后，得到针对miR146a 的 Decoy 病毒载体。  \n合成250bp包含miR146a发卡区的基因组序列，然后用BbsI连入载体pLentis-CMV-PURO 的puromycin 基因后，得到 miR146a 的表达病毒载体，此载体中 puromycin 和 miR146a 的表达均由CMV启动子启动，以表达miR30的载体作为对照。  \n合成 Smad4 基因100bp 包含miR146a 结合靶点的UTR序列，然后用 Bbsl 连入载体pLentis-CMV-Luc-PGK-Bsd 的 Luciferase 基因后，得到针对miR146a 的荧光素酶报告载体。所用载体示意图如下。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1939db16d3dadfcc5a3948d5287263fc59b6f1e1143e9289b34827e97f200770.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.7 慢病毒制备",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "病毒制备按照文献报道方法进行[]。通过磷酸钙转染法将病毒载体和包装质粒共转染到293FT细胞中，培养48小时后收集上清，用0.45 $\\mu \\mu$ 滤器过滤后置于-20度保存。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.8细胞转染 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "用胰酶消化培养的H9c2细胞，按 $2 ^ { * } 1 0 ^ { 4 } /$ 孔铺入24孔板中，24小时后加入病毒液（转染复数20)，培养 20 小时后换为新鲜的DMEM 培养基，待细胞长满后传代，带有PURO 基因的病毒用Puromycin 筛选，带有 Bsd 基因的病毒用 Blasticidin 筛选，获得稳定转染的细胞。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.9 统计学分析",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验结果用GraphPad Prism5进行处理，组间差异使用非配对t检验， $\\mathsf { p } { < } 0 . 0 5$ 认为有统计学差异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1多柔比星毒性作用伴随miR146a表达增加多柔比星处理大鼠心肌细胞后，细胞活力为对照组的 $6 7 . 1 \\pm 3 . 1 \\%$ （图1a），Westernblot检测发现 DOX 处理后胞内有较明显的Caspase3 表达（图1b)，而处理细胞的miR146a 表达增加 $3 . 6 0 \\pm 0 . 2 4$ 倍（图1c）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb29750b8016c89a61ca5ba83ef175a4709cfe96894ae7a226052359bfad8ce5.jpg",
+        "img_caption": [
+            "图1多柔比星处理对大鼠心肌细胞活力，Caspase3水平以及miR146a表达的影响（ ${ \\overline { { x } } } \\pm s ,$ $n = 5$ $^ { * * * } \\mathsf { p } { < } 0 . 0 0 1 \\$ （20号",
+            "Figure 1 Effects of DOX on the cell viability， Caspase 3 level and miR146a expression of rat cardiomyocytes "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2使用CRISPR 敲除miR146a表达",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "设计针对miR146a 的两个 sgRNA靶点并构建病毒载体（图2a)，用构建的敲除病毒转染细胞并筛选后，检测miR146a的表达。两条序列均可以有效的敲除 $\\boldsymbol { \\mathsf { m i R 1 4 6 a } }$ ，1#靶点miR146a表达是对照细胞的 $1 2 . 8 \\pm 1 . 7 \\%$ ，2#靶点是正常细胞的 $2 0 . 4 \\pm 1 . 5 \\%$ ，选用 sgmiR146a-1进行后继的实验（图2b）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ebf14b1699f3b74ab1e61bb03be11691a52a6df0f2da607c0ed78395af31325d.jpg",
+        "img_caption": [
+            "图2使用CRISPR 敲除miR146a 的表达 $\\stackrel { - } { x } \\pm s , { \\mathsf n } = 5$ \\*\\*\\*p<0.001)Figure 2 Downregulating miR146a expression using CRISPR"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 CRISPR与Decoy对miR146a抑制效果比较",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Decoy 是常用的抑制 miRNA研究其功能的方法[7]，使用 miR146a Decoy 的病毒转染细胞并筛选后，检测到miR146a的表达是对照细胞的 $4 2 . 4 \\pm 3 . 7 \\%$ ，CRISPR介导的miR146a 敲除效果显著优于Decoy（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2ab07e4d844ba08421913fa0508ca154d34cb7983441d14442c9aa7627a7dcdb.jpg",
+        "img_caption": [
+            "图3 使用 CRISPR 和 miR Decoy 对 miR146a 抑制效率的比较 $\\stackrel { - } { x } \\pm s , { \\mathsf n } = 5$ $^ { * * * } \\mathfrak { p } { < } 0 . 0 0 1 \\}$ （2Figure 3 Comparison of miR146a knockdown efficiency between CRISPR and miR Decoy"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4敲除miR146a抑制多柔比星的毒性作用",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "敲除miR146a 的细胞用DOX处理后，miR146a的增加不明显（ $1 . 0 8 \\pm 0 . 0 6$ 倍， $n s$ （图 $\\mathsf { 4 a }$ )，处理细胞活力为对照组的 $8 0 . 4 \\pm 5 . 7 \\%$ （图4b），Western blot显示Caspase3表达也不明显（图4c)，证明敲除miR146a抑制了多柔比星对心肌细胞的毒性作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0cc10e3b8854bcd74a3c2dec74b6db3ece62bbad54a5aa812dfd995dff4aff18.jpg",
+        "img_caption": [
+            "图4 敲除miR146a 对多柔比星处理导致的miR146a 表达，细胞活力以及Caspase3水平变化的影响 $\\stackrel { - } { x } \\pm s , \\mathsf { n } = 5$ ns ${ \\mathsf { p } } { > } 0 . 0 5$ 1 $\\ast _ { \\mathsf { p } < 0 . 0 5 }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure4 Effects of miR146a downregultion on the cell viability， Caspase 3 level and miR146a expression of rat cardiomyocytes ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5miR146a通过Smad4参与多柔比星的毒性作用靶点预测显示 Smad4 是miR146a 的潜在靶基因（图5a)，用 Smad4 UTR 的荧光素酶报告病毒转染细胞建立稳定表达细胞后，再用表达miR146a的病毒转染此细胞，相对于对照，miR146a表达显著抑制了荧光素酶的表达 $\\langle 1 3 9 9 0 0 \\pm 1 0 6 5 0 \\mathrm { v s } 6 7 6 3 0 \\pm 8 4 1 9 , p < 0 . 0 1 ) ( \\$ 图5b)。而在 DOX 处理的心肌细胞内，Western blot检测发现 Smad4 表达下降（图 5c）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/10bb32073e3278f315e117675e60e7b59f01dab037e14343273ed6099eb6b9bd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5验证Smad4作为miR146a靶基因的荧光素酶实验以及多柔比星处理对Smad4表达的影响(x ±s,n=5, $^ { * * } \\mathfrak { p } { < } 0 . 0 1 )$ （20",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 Identification of Smad4 as a target of miR146a and the influence of DOX treatment on Smad4 expression ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "进一步检测发现在敲除miR146a 的细胞中，Smad4 表达升高，而 DOX 处理此细胞，Smad4变化不明显 (图6)。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef39eb6619ac763e34b5a036bd1d096dfda88471ee4e8a5913ed9469bf390485.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6敲除miR146a对多柔比星导致的Smad4表达变化的影响 Figure 6 Effect of miR146a downregulation on DOX induced Smad4 expression ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "揭示多柔比星的毒性作用机制，对于减小副作用，改良药物临床应用有着重要的意义。miRNA是一类重要的胞内小RNA，参与了细胞内各种基因的表达调控[3]。由于一个miRNA 可以通过结合不同的UTR区同时调控多个基因的表达，因此它常会参与多种细胞生理行为。本文中描述的miR146a，在一些免疫细胞中能够通过调节TRAF6 影响细胞的凋亡[8]，而在心肌细胞中，却通过调控另一个基因 ErbB4 影响细胞凋亡[2]。在我们的研究中，发现 Smad4 也是miR146a 的一个靶基因,在多柔比星处理的细胞中，miR146a 通过抑制 Smad4 促进细胞凋亡。这意味着miR146a是在此过程中是一个重要的效应分子，可以通过多条通路介导多柔比星的细胞毒性效应。敲除miR146a可以显著抑制多柔比星的毒性，提示miR146a 抑制剂有可能作为一种选择来缓解临床上多柔比星导致的心脏毒性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Smad4 是转化生长因子受体β（TGFβ）通路中的一个重要的信号分子，介导了TGFβ的胞内信号传递，对于细胞的增殖或凋亡有重要的影响[9]。在不同的细胞中，miR146a对 Smad4的调控可能会产生不同的结果。通常在肿瘤细胞中，TGF $\\beta$ 通路是细胞生长的负向调节因素，miR146a上调表达抑制 Smad4，从而抑制TGFβ通路，促进了细胞的生长[10]。而在另一些细胞，如软骨细胞，肝脏星形细胞中，TGFβ通路作为细胞增殖的正向调节因素，miR146a上调表达会抑制 Smad4，从而导致细胞凋亡[1,12]。由于细胞行为是多种信号共同控制的结果，因此对于特定的细胞由于内源性基因表达的差异，需要进行特定的分析，因此本研究证明在心肌细胞上，miR146a 表达的增加通过抑制 Smad4表达最终产生促进凋亡的效果（见下图)。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e13f21ffe927f91d6ee29d77d44e9a974227c711c06a3f3d21dcd1a2f7419a98.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CRISPR 作为现在最热门的基因编辑技术，被广泛的应用于基因功能研究中。使用CRISPR 可以非常简单的进行基因组的精准修饰。但在其应用中，对于miRNA 的编辑研究并不多见[13],有研究使用CRISPR 或 CRISPRi抑制 miRNA 的表达[14]，由于其采用的瞬时转染技术，对 miRNA的表达抑制率并不高。在本研究中，我们结合了慢病毒载体技术，从而获得高转染效率，有效的敲除了细胞中内源性的 miRNA 表达。并且与传统的使用 Decoy 或者 Sponge 的 miRNA抑制方法相比[，具有更高的抑制效率。本研究中使用的这一方法，对于miRNA的功能研究，具有积极的意义。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "miR146a participates in doxorubicin cardiotoxicity through ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Smad4 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "QIN Yao, ZHAO Hong-yan, ZHANG Wen-hang,WANG Dong-mei Department of cardiology, Afiliated Hospital of Zunyi Medical Colleague, Zun Yi, 563003, Chin: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abstract Objective To investigate the mechanism underlying miR146a participating in the cardiotoxicity of doxorubicin.Methods Rat cardiomyocytes H9c2 were treated with doxorubicin (DOX).After that,the cellviability was detected by CCK-8,the miR146a variation was quantified by $\\mathsf { q P C R }$ and the change of cleaved Caspase 3 was measured by Western blot (WB). Using CRISPR, two sgRNAs were designed to knockout (KO) the expression of miR146a. The cell viability and cleaved Caspase 3 of miR146a KO cels were respectively detected by CCK-8 and WB.The potential target of miR146a was predicted and validated by luciferase system. The change of target gene after DOX treatment,and the influence of miR146a KO on target gene were detected using WB.Results After DOX treatment, cell viability decreased,the level of cleaved Caspase 3 elevated and miR146a expression increased 3.6 folds. Using CRISPR,miR146a expression was successfully suppressed，with a much higher inhibitory rate than microRNA decoy $( 8 8 . 6 \\%$ VS $5 7 . 6 \\%$ . miR146a KO significant impeded DOX induced miR146a elevation, cellviability decrement and cleaved Caspase 3 increment. Smad family member 4（Smad4） was proved to be a target of miR146a by informatics prediction and luciferase experiment. The treatment of cardiomyocytes by DOX led to a decrease of Smad4 expression.In miR146a KO cells, the expression of Smad4 increased，which was not changed by DOX treatment. Conclusions In rat cardiomyocytes, miR146a participated in doxorubicin cardiotoxicity through Smad4. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Key Words Doxorubicin； miR146a； CRISPR； Smad family member 4",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] Jensen BV,Skovsgaard T, Nielsen SL. Functional monitoring of anthracycline cardiotoxicity:a prospective,blinded,long-term observational study of outcome in 120 patients.Ann Onco 1,2002,13(5):699-709.   \n[2] Horie T, Ono K, Nishi H, et al. Acute doxorubicin cardiotoxicity is associated with   \nmiR-146a-induced inhibition of the neuregulin-ErbB pathway. Cardiovasc   \nRes,2010,87(4):656-664.   \n[3] He Lin, Hannon GJ. MicroRNAs: small RNAs with a big role in gene regulation. Nat Rew Genet,2004,5(7):522-531.   \n[4] Cong L, Ran FA, Cox D,et al. Multiplex genome engineering using CRISPR/Cas systems. Science,2013,339(6121):819-823.   \n[5] Agarwal V, Bell GW, Nam JW, et al. Predicting effective microRNA target sites in mammalian mRNAs.eLife,2015,4:e05005.   \n[6] Kutner RH, Zhang XY, Reiser J. Production,concentration and titration of pseudotyped HIV-1-based lentiviral vectors. Nat Protoc,2009,4(4):495-505.   \n[7] Margaret SE, Joel RN,Phillip AS. MicroRNA sponges: competitive inhibitors of smal RNAs in mammalian cells. Nat Methods,2007,4(9):721-726.   \n[8] Guo Q, Zhang J,Li J,et al. Forced miR-146a expression causes autoimmune   \nlymphoproliferative syndrome in mice via downregulation of Fas in germinal center B cells. Blood,2013,131(24):4875-4883.   \n[9] Derynck R, Zhang YE.Smad-dependent and Smad-independent pathways in TGF-beta family signalling. Nature,2003,425(6958):577-584.   \n[10] Geraldo MV, Yamashita AS, Kimura ET. MicroRNA miR-146b-5p regulates signal transduction of TGF- $\\cdot \\beta$ by repressing SMAD4 in thyroid cancer. Oncogene,2012,31(15):1910-1922. [11] He Y, Huang C, Sun X,et al. MicroRNA-146a modulates TGF-beta1-induced hepatic stellate cell proliferation by targeting SMAD4.Cell Signal,2012,24(10):1923-1930.   \n[12] Jin L, Zhao J,Jing W,et al. Role of miR-146a in human chondrocyte apoptosis in response to mechanical pressure injury in vitro.IntJMol Med,2014,34(2):451-463.   \n[13] Xiao A,Wang Z, Hu Y,et al. Chromosomal deletions and inversions mediated by TALENs and CRISPR/Cas in zebrafish.Nucleic Acids Res,2013,41(14):e141.   \n[14] Zhao Y, Dai Z, Liang Y, et al.Sequence-specific inhibition of microRNA via CRISPR/CRISPRi system. Sci Rep,2014,4:3943. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,212 @@
+# LHCb △Acp of $D$ meson and R-Parity Violation
+
+Xue Chang $^ { 1 }$ ， Ming-Kai Du $^ { 1 }$ ， Chun Liu $^ { 1 }$ ， Jia-Shu Lu $^ { 1 }$ ， Shuo Yang $^ { 2 , 3 }$
+
+（20 $^ { 1 }$ State Key Laboratory of Theoretical Physics, Institute of Theoretical Physics， Chinese Academy of Sciences, P.O. Box 2735， Beijing 100190, P.R. China （20 $^ 2$ Department of Physics， Dalian University， Dalian 116622, P.R. China （204 $^ 3$ Center for High-Energy Physics， Peking University， Beijing， 100871, P.R. China\*
+
+# Abstract
+
+LHCb collaboration has recently announced a measurement of the difference of time-integrated CP asymmetries between $D \to K ^ { + } K ^ { - }$ and $D \to \pi ^ { + } \pi ^ { - }$ . This result provides the evidence of large direct CP violation in $D$ meson and reveals some important implications on underlying new physics. It is shown that the direct CP violation in $D$ meson can be enhanced by R-parity violating supersymmetry, while CP violations in $K$ and $B$ mesons are suppressed by this new physics, which is in consistence with previous experiments. Constraints on the model parameters and some consequences are also discussed.
+
+PACS numbers:11.30.Er,13.25.Ft,14.40.Lb,12.60.Jv
+
+# I.INTRODUCTION
+
+New physics might be discovered first through direct searches at colliders,or via an indirect way, i.e., be observed in precision measurements at 'low' energy. The key motivations of CP violation (CPV) measurements at LHCb are just precision tests of the Standard Model (SM) and searching for new physics. The CPV in $D$ meson is highly suppressed in SM, which hence provides a background-free search for new physics. Furthermore, the hadron built with charm quark is the only playground of CPV in $u$ -type quark sector because the top quark decays before it could be hadronized. Hadrons built with $u$ or $u$ ， such as $\pi ^ { 0 }$ and $\eta$ ,are their own antiparticles, therefore no CPV occurs in these systems.
+
+Recently, LHCb collaboration has announced a measurement of the difference between CP asymmetries in two $D$ meson decay channels [1],
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \triangle A _ { C P } ^ { \mathrm { d i r } } \equiv A _ { C P } ( D ^ { 0 } \to K ^ { + } K ^ { - } ) - A _ { C P } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) } } \\ { { } } & { { } } & { { } } \\ { { } } & { { } } & { { = [ - 0 . 8 2 \pm 0 . 2 1 ( \mathrm { s t a t . } ) \pm 0 . 1 1 ( \mathrm { s y s t } ) ] \mathcal { V } _ { 0 } ~ . } } \end{array}
+$$
+
+This measurement make it robust against systematics and is mainly sensitive to direct CPV. This result deviates significantly from the prediction of SM, in which it is at the order of $1 0 ^ { - 4 }$ [2-5]. Although ATLAS and CMS have not found any evidence of new physics, this large $\triangle A _ { C P } ^ { \mathrm { d i r } }$ at LHCb still can provide a hint of underlying new physics.
+
+In this work, we presented a tentative interpretation of the enhancement of direct CPV in $D$ meson with R-parity violating (RPV） supersymmetry, while leaving that of $K$ and $B$ mesons nearly unaffected, since the SM predictions of CPV in $K$ and $B$ mesons are consistent with previous experiments. In Sec. II, we gave a brief estimate of the direct CPV in SM, through which some essential RPV parameters were obtained. Then in Sec. III, we listed our conclusion and discussed some relevant implications.
+
+# II. $R _ { p }$ -SUSY AND DIRECT CP VIOLATION IN $D$ DECAY
+
+Before going to R-parity violating supersymmetry, let us make a brief review of SM calculation for this CPV [2-5]. In the SM, CP violations in $D ^ { 0 } ( D ^ { 0 } )  \pi ^ { + } \pi ^ { - }$ and $D ^ { 0 } ( D ^ { 0 } ) $ （204号 $K ^ { + } K ^ { - }$ decays are significantly suppressed by CKM parameters， loop efects， and GIM mechanism. At the quark-gluon level, the $\pi ^ { + } \pi ^ { - }$ case is depicted in Fig. 1,and the $K ^ { + } K ^ { - }$ case by the same diagrams with the replacement of $d \to s$ . CPV in the decays is due to the interference between the tree amplitude $\mathbf { \mathcal { M } } _ { T } ^ { S M }$ (Fig.1 left） and the penguin diagram amplitude $\mathbf { \mathcal { M } } _ { P } ^ { S M }$ (Fig.1 right). It is defined as [6]
+
+$$
+A _ { C P } ^ { \mathrm { d i r } } \equiv \frac { \Gamma - \bar { \Gamma } } { \Gamma + \bar { \Gamma } } \simeq \frac { \sum _ { T  P } ( - 2 ) \mathrm { I m } ( \alpha _ { T } ^ { * \mathrm { S M } } \alpha _ { P } ^ { \mathrm { S M } } ) \mathrm { I m } ( \mathcal { M } _ { T } ^ { * \mathrm { S M } } \mathcal { M } _ { P } ^ { \mathrm { S M } } ) } { | \alpha _ { T } ^ { \mathrm { S M } } | ^ { 2 } | \mathcal { M } _ { T } ^ { \mathrm { S M } } | ^ { 2 } } ~ ,
+$$
+
+where
+
+$$
+\begin{array} { r c l } { { } } & { { } } & { { \mathcal { M } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) = \alpha _ { T } ^ { \mathrm { S M } } \mathcal { M } _ { T } ^ { \mathrm { S M } } + \alpha _ { P } ^ { \mathrm { S M } } \mathcal { M } _ { P } ^ { \mathrm { S M } } ~ , } } \\ { { } } & { { } } & { { \alpha _ { T } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) = V _ { u d } V _ { c d } ^ { * } ~ , } } \\ { { } } & { { } } & { { \alpha _ { P } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) = - V _ { u b } V _ { c b } ^ { * } ~ . } } \end{array}
+$$
+
+To $\alpha _ { s }$ order, $A _ { C P } ^ { \mathrm { d i r } }$ can be simplified as
+
+$$
+A _ { C P } ^ { \mathrm { d i r } } ( \mathrm { S M } ) \simeq \frac { - 2 \mathrm { I m } ( \alpha _ { P } ^ { \mathrm { S M } } ) \mathrm { I m } ( \mathcal { M } _ { P } ^ { \mathrm { S M } } ) } { \alpha _ { T } ^ { \mathrm { S M } } \mathcal { M } _ { T } ^ { \mathrm { S M } } } \ .
+$$
+
+![](images/f69c9585dbf8478b235b1d11309fa54f54abe7b4fb8761222deee3f72f30bde1.jpg)  
+FIG. 1: $c  d d u$ tree level and penguin diagrams in the SM.
+
+The tree level diagram amplitude is
+
+$$
+\begin{array} { l } { { \mathcal M _ { T } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) } } \\ { { { } } } \\ { { = i \displaystyle \frac { G _ { F } } { \sqrt { 2 } } \langle \pi ^ { - } | \bar { d } \gamma ^ { \mu } c | D ^ { 0 } \rangle \langle \pi ^ { + } | \bar { u } \gamma ^ { \mu } \gamma _ { 5 } d | 0 \rangle \approx - \displaystyle \frac { G _ { F } } { \sqrt { 2 } } m _ { D } ^ { 2 } f _ { + } ( m _ { \pi } ^ { 2 } ) f _ { \pi } ~ , } } \end{array}
+$$
+
+where the hadronic matrix elements are parameterized as
+
+$$
+\begin{array} { l } { { \langle \pi ^ { + } | \bar { u } \gamma ^ { \mu } \gamma _ { 5 } d | 0 \rangle = i f _ { \pi } p _ { \pi ^ { + } } ^ { \mu } ~ , } } \\ { { \langle \pi ^ { - } | \bar { d } \gamma ^ { \mu } c | D ^ { 0 } \rangle = f _ { + } ( q ^ { 2 } ) ( p _ { D ^ { 0 } } + p _ { \pi ^ { - } } ) ^ { \mu } + f _ { - } ( q ^ { 2 } ) ( p _ { D ^ { 0 } } - p _ { \pi ^ { - } } ) ^ { \mu } , } } \\ { { q \equiv p _ { D ^ { 0 } } - p _ { \pi ^ { - } } ~ . } } \end{array}
+$$
+
+The imaginary parts of penguin diagram arise from a cut on the internal-line particles which involves on-shell particles and thus long-distance physics, so it is difficult to estimate. Nevertheless, we can first calculate the penguin diagram by assuming that the momentum of gluon is spacelike which is calculable, then carefully analytically continue the momentum to timelike to extract the imaginary part. While the result is not so accurate as in QED, it still can be considered as a reasonable estimation. The result is
+
+$$
+\begin{array} { r l r } {  { \mathrm { I m } ( \mathcal { M } _ { P } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) ) } } \\ & { } & { = i \alpha _ { s } ( \mu ) \frac { - 2 } { 2 7 } \frac { G _ { F } } { \sqrt { 2 } } [ - \langle \pi ^ { + } | \bar { u } \gamma ^ { \mu } \gamma _ { 5 } d | 0 \rangle \langle \pi ^ { - } | \bar { d } \gamma ^ { \mu } c | D ^ { 0 } \rangle + 2 \langle \pi ^ { + } | \bar { u } \gamma ^ { 5 } \gamma _ { 5 } d | 0 \rangle \langle \pi ^ { - } | \bar { d } c | D ^ { 0 } \rangle ] } \\ & { } & { \approx \alpha _ { s } ( \mu ) \frac { 2 } { 2 7 } \frac { G _ { F } } { \sqrt { 2 } } m _ { D } ^ { 2 } f _ { + } ( m _ { \pi } ^ { 2 } ) f _ { \pi } \Big [ - 1 + \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { d } ) ( m _ { u } + m _ { d } ) } \Big ] , } \end{array}
+$$
+
+where $\mu$ is the typical energy scale in this transition. By substituting Eqs. (3), (5) and (7) into Eq. (4), the final expression is obtained,
+
+$$
+\begin{array} { l } { { { \cal A } _ { C P } ^ { \mathrm { d i r } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) } } \\ { { = \alpha _ { s } ( \mu ) \displaystyle \frac { 4 } { 2 7 } \Big [ - 1 + \displaystyle \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { d } ) ( m _ { u } + m _ { d } ) } \Big ] \displaystyle \frac { \mathrm { I m } ( V _ { u b } V _ { c b } ^ { \ast } ) } { V _ { u d } V _ { c d } ^ { \ast } } } } \\ { { = \alpha _ { s } ( \mu ) \displaystyle \frac { 4 } { 2 7 } \Big [ - 1 + \displaystyle \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { d } ) ( m _ { u } + m _ { d } ) } \Big ] \displaystyle \frac { A ^ { 2 } \lambda ^ { 5 } \eta } { \lambda ( 1 - \lambda ^ { 2 } / 2 ) } } } \\ { { \simeq 0 . 0 0 8 6 \% , } } \end{array}
+$$
+
+and
+
+$$
+\begin{array} { l } { { { \cal A } _ { C P } ^ { \mathrm { d i r } } ( D ^ { 0 } \to K ^ { + } K ^ { - } ) } } \\ { { \displaystyle ~ = \alpha _ { s } ( \mu ) \frac { 4 } { 2 7 } \Big [ - 1 + \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { s } ) ( m _ { u } + m _ { s } ) } \Big ] \frac { \mathrm { I m } ( V _ { u b } V _ { c b } ^ { \ast } ) } { V _ { u s } V _ { c s } ^ { \ast } } } } \\ { { \displaystyle ~ = \alpha _ { s } ( \mu ) \frac { 4 } { 2 7 } \Big [ - 1 + \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { s } ) ( m _ { u } + m _ { s } ) } \Big ] \frac { A ^ { 2 } \lambda ^ { 5 } \eta } { \lambda ( 1 - \lambda ^ { 2 } / 2 ) } } } \\ { { \displaystyle ~ \simeq - 0 . 0 0 8 7 \% , } } \end{array}
+$$
+
+where we have taken $\mu ~ = ~ { _ { I I l } } _ { c }$ ， $\alpha _ { s } ( \mu ) = \alpha _ { s } ( m _ { c } ) = 0 . 3 9 6$ ，and $\lambda = 0 . 2 2 5 3$ ， $A \ : = \ : 0 . 8 0 8$ ， （20 $\eta = 0 . 3 4 1$ ， $m _ { K } = 4 9 3 . 6 7 7$ MeV, $m _ { \pi } = 1 4 0 \ \mathrm { M e V }$ ， $m _ { s } ( m _ { c } ) = 1 2 2 \ \mathrm { M e V }$ ， $m _ { c } = 1 2 9 0$ MeV, （204号 $m _ { d } ( m _ { c } ) = 6 . 1$ MeV, $m _ { u } ( m _ { c } ) = 3 . 0 5$ MeV[7, 8]. The U-spin relation $A _ { C P } ^ { \mathrm { S M } } ( D ^ { 0 } \to K ^ { + } K ^ { - } ) =$ $- { \cal A } _ { C P } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } )$ is guaranteed by the approximated $S U ( 3 ) _ { F }$ symmetry. Finally the difference between $A _ { C P } ^ { \mathrm { S M } } ( D ^ { 0 } \to K ^ { + } K ^ { - } )$ and $A _ { C P } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } )$ is
+
+$$
+\triangle A _ { C P } ^ { \mathrm { d i r } } ( \mathrm { S M } ) = - 0 . 0 2 \% \ .
+$$
+
+While uncertainties due to nonperturbative QCD might be considerable [8, 9], the experimental central value of $\triangle A _ { C P } ^ { \mathrm { d i r } }$ at the LHCb is still difficult to be understood within the SM. It is well known that CP violation in $D$ meson decays is a clean way to probe new physics, which has drawn many attentions [3,4, 6,10-14]. In the light of recent experimental result of $\triangle A _ { C P } ^ { \mathrm { d i r } }$ , it is expected that such kind of new physics would enhance direct CPV in charm quark decays [15-18], while leaving beauty and strange quarks nearly unaffected, it will be shown that RPV SUSY can provide such an opportunity.
+
+In SUSY, the general trilinear RPV interactions are
+
+$$
+\mathcal { W } _ { { \mathcal R } } \ : = \ : \epsilon _ { \alpha \beta } ( \frac { 1 } { 2 } \lambda _ { i j k } L _ { i } ^ { \alpha } L _ { j } ^ { \beta } E _ { k } ^ { c } + \lambda _ { i j k } ^ { \prime } L _ { i } ^ { \alpha } Q _ { j } ^ { \beta } D _ { k } ^ { c } ) + \frac { 1 } { 2 } \lambda _ { i j k } ^ { \prime \prime } U _ { i } ^ { c } D _ { j } ^ { c } D _ { k } ^ { c } ,
+$$
+
+where $\lambda _ { i j k } = - \lambda _ { j i k }$ ， $\lambda _ { i j k } ^ { \prime \prime } = - \lambda _ { i k j } ^ { \prime \prime }$ ，and ${ \lambda } _ { i j k } ^ { \prime }$ 's are completely free parameters. Here $L$ and $E ^ { c }$ （ $Q$ ， $U ^ { c }$ and $D ^ { c }$ ）correspond respectively to the lepton doublet and anti-lepton singlet (quark doublet and antiquark singlet ） left-handed superfields. Charm quark nonleptonic decays could be induced by $\lambda ^ { \prime } , \lambda ^ { \prime \prime }$ terms [6, 1O], the relevant Lagrangian is
+
+$$
+\ { \mathcal { L } } \supset \lambda _ { i j k } ^ { \prime } { \widetilde { l } } _ { i L } { \bar { d } } _ { k R } u _ { j L } - { \frac { 1 } { 2 } } \lambda _ { i j k } ^ { \prime \prime } ( { \widetilde { d } } _ { k R } ^ { * } { \bar { u } } _ { i R } d _ { j L } ^ { c } + { \widetilde { d } } _ { j R } ^ { * } { \bar { u } } _ { i R } d _ { k L } ^ { c } ) + { \mathrm { ~ h . c . ~ } } .
+$$
+
+For simplicity， baryon number conservation would be assumed, specifically only $\lambda ^ { \prime }$ terms would be taken into account. The new charm quark decay diagrams are shown in Fig.2. It is found that the following requirements are essential to understand the LHC-b CPV anomaly:
+
+1） Among various $\lambda _ { i j k } ^ { \prime }$ 's, only two terms would be introduced, $\lambda _ { 1 1 2 } ^ { \prime }$ and $\lambda _ { 1 2 2 } ^ { \prime }$ ，while $\lambda _ { 1 1 2 } ^ { \prime }$ （2 is real and $\lambda _ { 1 2 2 } ^ { \prime }$ is complex.
+
+2）Furthermore, the following relation is assumed,
+
+$$
+\frac { \mathrm { I m } ( \lambda _ { 1 2 2 } ^ { \prime } \lambda _ { 1 1 2 } ^ { \prime * } ) } { \widetilde { m } _ { e } ^ { 2 } } = \frac { \lambda _ { 1 1 2 } ^ { \prime } \mathrm { I m } ( \lambda _ { 1 2 2 } ^ { \prime } ) } { \widetilde { m } _ { e } ^ { 2 } } \simeq 4 0 \times \frac { \mathrm { I m } ( V _ { u b } V _ { c b } ^ { * } ) } { m _ { W } ^ { 2 } } g _ { 2 } ^ { 2 } ~ ,
+$$
+
+where $g _ { 2 }$ is the weak interaction coupling,and the numerical factor is inferred from the above SM calculation.
+
+Because of Eq.(13), there exist an interesting corollary: the new RPV tree diagrams is negligible compared to the SM tree diagram,
+
+$$
+\begin{array} { r l r } {  { \mathcal { M } _ { T } ^ { \mathrm { R P V } } ( D ^ { 0 } \to K ^ { + } K ^ { - } ) \sim \frac { \lambda _ { 1 2 2 } ^ { \prime } \lambda _ { 1 1 2 } ^ { \prime * } } { \widetilde { m } _ { e } ^ { 2 } } \sim 4 0 \times \frac { \mathrm { I m } ( V _ { u b } V _ { c b } ^ { * } ) } { m _ { W } ^ { 2 } } g _ { 2 } ^ { 2 } } } \\ & { } & { \ll \frac { V _ { u s } V _ { c s } ^ { * } g _ { 2 } ^ { 2 } } { m _ { W } ^ { 2 } } \sim \mathcal { M } _ { T } ^ { \mathrm { S M } } ( D ^ { 0 } \to K ^ { + } K ^ { - } ) , } \end{array}
+$$
+
+and
+
+$$
+\mathcal { M } _ { T } ^ { \mathrm { R P V } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) \sim \frac { \lambda _ { 1 2 1 } ^ { \prime } \lambda _ { 1 1 1 } ^ { \prime * } } { \widetilde { m } _ { e } ^ { 2 } } = 0 ,
+$$
+
+as a result,RPV contributions to the branching ratios of various $D$ and $K$ decays would be negligible compared to their SM decay modes.
+
+Up to now, all necessary ingredients have been prepared. The calculations are direct. First, consider the $D ^ { 0 } \to \pi ^ { + } \pi ^ { - }$ transition, the total amplitude is
+
+$$
+{ \mathcal M } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) = \alpha _ { T } ^ { \mathrm { S M } } \mathcal M _ { T } ^ { \mathrm { S M } } + \alpha _ { T } ^ { \mathrm { R P V } } \mathcal M _ { T } ^ { \mathrm { R P V } } + \alpha _ { P } ^ { \mathrm { S M } } \mathcal M _ { P } ^ { \mathrm { S M } } + \alpha _ { P } ^ { \mathrm { R P V } } \mathcal M _ { P } ^ { \mathrm { R P V } } ~ ,
+$$
+
+where
+
+$$
+\alpha _ { P } ^ { \mathrm { R P V } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) = \lambda _ { 1 2 2 } ^ { \prime } \lambda _ { 1 1 2 } ^ { ' * } ~ .
+$$
+
+Because of Eq. (15), the total direct CP asymmetry in $D$ meson can be simplifed as
+
+$$
+A _ { C P } ^ { \mathrm { d i r } } ( \mathrm { S M } + \mathrm { R P V } ) \simeq \frac { - 2 \left[ \mathrm { I m } ( \alpha _ { P } ^ { \mathrm { S M } } ) \mathrm { I m } ( \mathcal { M } _ { P } ^ { \mathrm { S M } } ) + \mathrm { I m } ( \alpha _ { P } ^ { \mathrm { R P V } } ) \mathrm { I m } ( \mathcal { M } _ { P } ^ { \mathrm { R P V } } ) \right] } { \alpha _ { T } ^ { \mathrm { S M } } \mathcal { M } _ { T } ^ { \mathrm { S M } } } \ .
+$$
+
+![](images/32ea30bf16ec6a1bad0455a41df22656f72531f39ffce9a01b7c7c7c9a0b8e2e.jpg)  
+FIG. 2: $c  d d u$ tree level and penguin diagrams in RPV SUSY.
+
+Following analogous procedures, the imaginary part of RPV penguin diagram is
+
+$$
+\begin{array} { l } { { \displaystyle \mathrm { m } ( \alpha _ { P } ^ { \mathrm { R P V } } ) \mathrm { I m } ( { \mathcal { M } } _ { P } ^ { \mathrm { R P V } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) ) } } \\ { { \displaystyle ~ \approx - \alpha _ { s } ( \mu ) \frac { m _ { D } ^ { 2 } f _ { + } f _ { \pi } } { 1 0 8 \widetilde { m } _ { e _ { L } } ^ { 2 } } \Big [ - 1 + \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { d } ) ( m _ { u } + m _ { d } ) } \Big ] \mathrm { I m } ( { \lambda _ { 1 2 2 } ^ { \prime } \lambda _ { 1 1 2 } ^ { \prime } } ) } } \\ { { \displaystyle ~ = 4 0 \times \alpha _ { s } ( \mu ) \frac { 2 } { 2 7 } \frac { G _ { F } } { \sqrt { 2 } } m _ { D } ^ { 2 } f _ { + } f _ { \pi } \Big [ - 1 + \frac { 2 m _ { \pi } ^ { 2 } } { ( m _ { c } - m _ { d } ) ( m _ { u } + m _ { d } ) } \Big ] \mathrm { I m } ( V _ { u b } V _ { c b } ^ { * } ) } } \\ { { \displaystyle ~ = 4 0 \times \mathrm { I m } ( \alpha _ { P } ^ { \mathrm { S M } } ) \mathrm { I m } ( { \mathcal { M } } _ { P } ^ { \mathrm { S M } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) ) . } } \end{array}
+$$
+
+The total direct CP violation in $D ^ { 0 } \to \pi ^ { + } \pi ^ { - }$ transition is now
+
+$$
+A _ { C P } ^ { \mathrm { d i r } } ( D ^ { 0 } \to \pi ^ { + } \pi ^ { - } ) \simeq 0 . 3 5 \% .
+$$
+
+Similar calculation results to total CP violation in $D ^ { 0 }  K ^ { + } K ^ { - }$ transition
+
+$$
+A _ { C P } ^ { \mathrm { d i r } } ( D ^ { 0 } \to K ^ { + } K ^ { - } ) \simeq - 0 . 3 6 \% ,
+$$
+
+Now,it is clear that our requirements indeed result in a considerable enhancement to direct CPV in $D$ decay. In order to be consistent with current experiments on $K$ mesons and $B$ mesons, one have to keep new contributions to $K$ and $B$ sectors suppressed. The $B$ （204 meson decays will not be affected, because only the $\lambda _ { 1 2 2 } ^ { \prime }$ and $\lambda _ { 1 1 2 } ^ { \prime }$ have been introduced. For $K$ meson, the RPV interactions $\lambda _ { i j k } ^ { ' } \tilde { \nu } _ { L } \bar { d } _ { R } ^ { k } d _ { L } ^ { j }$ will generate new diagrams for $s  { } d u { \bar { u } }$ with （204号 $s$ -quarks being the internal lines. However, the direct CPV in $K$ will not be affected, since the internal quarks can not all be on-shell and hence no imaginary part would arise through these additional diagrams, hence no extra direct CPV. In addition， strict experimental constraints in lepton flavor violation are evaded, since only the first generation of leptons and their SUSY partners are involved in new interactions.
+
+# III. CONCLUSIONS
+
+In this paper, we investigate supersymmetry without R-parity to interpret the recent observed large $\triangle A _ { C P } ^ { \mathrm { d i r } } \equiv A _ { C P } ( D ^ { 0 }  K ^ { + } K ^ { - } ) - A _ { C P } ( D ^ { 0 }  \pi ^ { + } \pi ^ { - } )$ at LHCb, which corresponds to 3.5 $\sigma$ significance. It is found that a significant enhancement for the CPV in $D$ meson is feasible after introducing delicate $R _ { p }$ -violation terms $\lambda _ { 1 2 2 } ^ { \prime }$ and $\lambda _ { 1 1 2 } ^ { \prime }$ . Phenomennological implications are discussed below:
+
+1) There are many constraints in RPV [19],among them the following one is of essential relevance to this work,
+
+$$
+| \lambda _ { i 2 2 } ^ { \prime } \lambda _ { i 1 2 } ^ { \prime } | < 2 . 1 1 \times 1 0 ^ { - 5 } \biggl [ { \frac { m _ { \widetilde { d } _ { k R } } } { 1 0 0 \mathrm { G e V } } } \biggr ] ^ { 2 } \ .
+$$
+
+Combining it with the result shown in Eq. (13),we get a relation
+
+$$
+m _ { \tilde { d } _ { R } } \geq 1 3 m _ { \tilde { e } } .
+$$
+
+This relation constrains strongly the parameter space of $\mathcal { R } _ { p ^ { - } }$ SUSY. After introducing the $\lambda _ { 1 2 2 } ^ { \prime }$ and $\lambda _ { 1 1 2 } ^ { \prime }$ , there are some exotic phenomenology [19]. At the LHC, the pair production of the scalar-quark, i.e. process $p p \to { \tilde { q } } { \tilde { q } }$ and the single production process $p p \to { \tilde { q } } e$ followed by the decay of $\tilde { q }  q ^ { \prime } + e$ have large cross section and exotic final states. The reconstructed invariant mass of $\tilde { q }$ from one jet and the electron, and delicate kinematic cuts make the signal distinguished from the backgrounds which mainly come from Z+jets [20]. It is expected that LHC could find the exotic signal of the $\tilde { q }$ or constrain further the parameter space of the model.
+
+2） For singly Cabibbo suppressed decay modes, such as $D _ { s } ^ { + } \to \pi ^ { + } + K ^ { 0 }$ ， it is expected that the same order direct CPV will be observed. Besides the direct CP violation, there is a small enhancement in the $D ^ { 0 } - D ^ { 0 }$ mixing from the new physics. It is, however, negligible compared to the SM， since the new couplings are actually CKM suppressed, as shown in Eq.(14). Analogously, the mixing in $K$ system can also be considered as unaffected.
+
+Although it is still far from a complete theoretical description, the RPV by itself is a very natural way to induce differentiated CP violations, since $u$ -type quarks and $d$ -type quarks are treated differently in RPV terms, which is essential to extend the SM, in which it is difficult to explain why $D$ meson is more special than $K$ and $B$ mesons. As the experimental data is accumulating, some more fundamental mechanisms might be discovered, through which we could understand why the ${ \lambda } _ { i j k } ^ { \prime }$ 's have taken such specific structures as in Eq. (13).
+
+# Acknowledgments
+
+We would like to thank Prof. Hai-Yang Cheng and Hua Shao for some helpful discussions. This work was supported in part by the National Natural Science Foundation of China under nos. 11075193，10821504 and 11175251.
+
+[1] M. Charles, Talk at HCP conference,LHCb-CONF-2011-06l; A.I. Go-lutvin, Talk at Nuclear Physics Section of Physics Division of RAN Session, ITEP,November 21, 2011.   
+[2] For reviews, see I. I. Y. Bigi and A. I. Sanda, “CP violation,” Cambridge Monographs on Particles Physics, Nuclear Physics and Cosmology 9,1 (200O0); G. C. Branco, L. Lavoura and J. P. Silva,“CP Violation,” International Series of Monographs on Physics 103,1(1999).   
+[3] S. Bianco, F. L. Fabbri, D. Benson and I. Bigi, Riv. Nuovo Cim. 26N7,1 (2003).   
+[4] F.Buccella, M. Lusignoli, G. Miele,A. Pugliese and P. Santorelli, Phys.Rev. D 51, 3478 (1995).   
+[5] Hai-Yang Cheng, Cheng-Wei Chiang,arXiv:1201.0785v1 [hep-ph].   
+[6] L. T. Handoko and J. Hashida, Phys. Rev. D 58, 094008 (1998).   
+[7] K.Nakamura et al. (Particle Data Group), J. Phys. G 37, 075021 (2010).   
+[8] A. J. Buras, arXiv:hep-ph/9806471.   
+[9] G. Buchalla, A. J. Buras and M. E. Lautenbacher, Rev. Mod. Phys. 68,1125 (1996)   
+[10] Y. Grossman, A. L. Kagan and Y. Nir, Phys. Rev. D 75, 036008 (2007)   
+[11] I.I. Bigi, A. Paul and S. Recksiegel, JHEP 1106, 089 (2011) [arXiv:1103.5785 [hep-ph]].   
+[12] S. Bergmann, Y. Grossman, Z. Ligeti, Y. Nir and A. A. Petrov, Phys. Lett.B 486, 418 (2000).   
+[13] I. I. Bigi, arXiv:0907.2950 [hep-ph].   
+[14] G.Blaylock,A. Seiden and Y. Nir, Phys.Lett.B 355, 555 (1995)；M. Bobrowski,A. Lenz, J. Riedl and J. Rohrwild, JHEP 1003, O09 (2010)； I. I. Bigi,M. Blanke,A. J. Buras and S. Recksiegel, the Littlest Higgs Model with T-Parity,” JHEP 0907, 097 (2009).   
+[15] G. Isidori, J. F. Kamenik, Z. Ligeti, G. Perez, arXiv:1111.4987 [hep-ph].   
+[16] J. Brod, A. L. Kagan, J. Zupan, arXiv:1111.500O [hep-ph].   
+[17] K. Wang. and G.-h. Zhu, arXiv:1111.5196 [hep-ph].   
+[18] Y. Hochberg and Y. Nir, arXiv:1112.5268 [hep-ph].   
+[19] For a review see,R. Barbier, C. Brat, M. Besanon, M. Chemtob,A. Deandrea, E. Dudas, P. Fayet, S. Lavignac, G. Moreau, E. Perez, Y. Sirois,Phys.Rept. 420, 1(2005).   
+[20] A.Belyaev, C. Leroy, R. Mehdiyev,A. Pukhov, JHEP 0509,005 (2005)； P. Fileviez Perez, T.Han, T. Li, M. J. Ramsey-Musolf, Nucl. Phys. B819,139 (2009).

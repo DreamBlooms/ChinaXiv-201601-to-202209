@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "An integrated assessment of the potential of agricultural and forestry residues for energy production in China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JI GAO1,AIPING ZHANG1, SHU KEE LAM²,XUESONG ZHANG4,ALLISON M. THOMSON5,ERDA LIN1,KEJUN JIANG,LEON E. CLARKE?,JAMES A. EDMONDSЗ, PAGEG. KYLE³,SHA YU³,YUYU ZHOU and SHENG ZHOU8 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1InstituteofEnvironmentand SustainableDevelopmentinAgriculture,ChineseAcademyof Agricultural Sciences,Beijing 100081,China,CroandSoiliencesection,FacultyofVeterinarydAgricuturalSiences,theniesityfeboe Melbourne,Vic.3O0,Australia,JointGlobalChangeResearchstitute,PacificNorthestNationalLboratorydUiity of Maryland,CollegePark,MD20740,USA,4GreatLakes BioenergyResearch Center,Michigan State Unioersity,East Lansing,MI 48824,USA,Field toMarket,TheAlianceforSustainableAgriculture,777NCapitol St.NE，Suite803, Washington,DC2002,USA,nergy ResearchInstitute (ERI),Beijing0038,China,DepartmentofGeological $\\mathcal { E }$ （204号 Atmosphericciences,Iowa tate UniersityAmes,IAl1A,stitutesofnergynironmentandonomy Tsinghua University,Beijing 00084,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biomass has been widely recognized as an important energy source with high potential to reduce greenhouse gas emissions while minimizing environmental pollution. In this study, we employ the Global Change Assessment Model to estimate the potential of agricultural and forestry residue biomass for energy production in China.Potential availability of residue biomassas an energy source was analyzed for the 21st century under different climate policy scenarios.Currently,the amount of total annual residue biomass,averaged over 2003-2007, is around 15 519 PJ in China, consisting of 10 818 PJ from agriculture residues $( 7 0 \\% )$ and 4701 PJ forestry residues $( 3 0 \\% )$ . We estimate that 12 693 PJ of the total biomass is available for energy production, with $6 6 \\%$ derived from agricultural residue and $34 \\%$ from forestry residue.Most of the available residue is from south central China(3347PJ),east China (2862 PJ) and south-west China (2229 PJ),which combined exceeds $6 6 \\%$ of the total national biomass. Under the reference scenario without carbon tax,the potentialavailability of residue biomass for energy production is projected to be 3380 PJby 2050 and 4108 PJby 2095,respectively. When carbon tax is imposed,biomass availability increases substantially.For the CCS $4 5 0 ~ \\mathrm { p p m }$ scenario,availability of biomass increases to 9002 PJ (2050) and 11 524 PJ (2095)，respectively.For the $4 5 0 ~ \\mathrm { p p m }$ scenario without CCS,9183 (2050)and 11150 PJ(2095)residue biomass,respectively,is projected to beavailable.Moreover,the implementation of CCS will have a litle impact on the supply of residue biomass after 2035.Our results suggest that residue biomass has the potential to be an important component in China's sustainable energy production portfolio. As a low carbon emission energy source, climate change policies that involve carbon tariffand CCS technology promote the use of residue biomass for energy production in a low carbon-constrained world. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:bioenergycarbontaxcarboncaptureandstorage,climatepolicyintegratedassessment,residuebiomas ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 21 May 2015;accepted 3 August 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "China's energy consumption has been soaring due to rapid increase in population and economic growth over the last decade.Its total energy consumption has increased from 44 022 PJ in 2001 to 110 055 PJ in 2013. Since 2011, China has been the largest energy consumer with oil and natural gas dependency rates of approximately $6 0 \\%$ and $3 3 \\%$ ,respectively (Shi,2013). The International Energy Agency (IEA） estimates that with an $8 0 \\%$ oil dependency rate, China will overtake the United States to become the world's largest oil-demanding countryby 2035 (IEA,2010).Meanwhile,China hasovertaken the United States as the world's largest carbon emitter since 2oo7 and is projected to account for half of the increase in global $\\mathrm { C O } _ { 2 }$ emissions through 2035 (IEA, 2011).In December 2009，China'sStateCouncil announced that China will reduce its carbon intensity per unit of GDP by $4 0 { \\mathrm { - } } 4 5 \\%$ by 2020,compared with 2005. Energy security，environmental health and greenhouse gases (GHGs) mitigation have been a major impediment to China's sustainable development. Bioenergy is often regarded as an environmentally acceptable and more efficient alternative for energy production (IEA,2007). China's abundance in biomass resources accentuates the potential of using biomass to promote its development in renewable energy in a carbon-constrained world. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unlike fossil fuel, biomass energy generates low or evennet-zero carbon emissions because $\\mathrm { C O } _ { 2 }$ isrecycled during the life cycle of using biomass for energy production. Therefore，temporary and permanent carbon storage based on biogenic sourcesis thought of as a key wayto achieve low $\\mathrm { C O } _ { 2 }$ concentrations and mitigate climate change (Guest et al.,2013). Bioenergy with carbon capture and storage (Bio-CCS) can lead to negative carbon emissions (IEA,2011). It could potentially have a $3 3 \\%$ share of overall mitigation by the end of the century (Klein et al., 2011) and is important to mitigating global warming. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although large-scale production may incur negative impacts such as increasing food price,accelerating soil erosion and runoff,decreased farmland productivity, and loss of wildlife habitat and biodiversity (Pimentel, 1994;Cramer，2oo7)，biomass can be environmentally friendly and renewable whenused ina sustainable and responsible manner (Gustavsson et al.，2oo7).Most of the studies on biomass energy were focused on energy production potential,energy conversion technologies, and associated environmental,political and financial problems (Liao et al.,2004; Elmore et al.,2008; Sun et al., 2011;Cui & Wu,2012;Li et al.,2012;Yu et al.,2012;He et al.,2013).However,previous studies have not examined the potential of biomass as a sustainable energy source in China with a global Integrated Assessment Modeling Framework. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，we estimated the energy potential of agricultural and forestry residue biomass and quantity of residue retention,as well as their spatial distribution in China.We employed the Global Change Assessment Model (GCAM) to simulate the future potential of residue biomass from agricultural and forestry residues for energy production in China in response to global and national energy demand and climate change policies. Results obtained here would improve the understanding of how the development of residue biomass for energy production can help China achieve climate change mitigation goals and contribute to global mitigation efforts. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Current auailability of residue biomass ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Determining potential auailability of agricultural residues. The four main categories of residue biomass for energy production are agriculture,forestry,municipal solid wastes (MSW) and emerging energy crops.Agricultural residues refer to field (e.g.，straw，stalks,stubble,leaves and seed pods）and pro cessed (e.g.,husks,seeds,bagasse,molasses and roots) residues from a variety of crops.Agricultural residues are used as fertilizer,forage,raw material for producing paper and generating energy for cooking and heating. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The total amount of agricultural residues was calculated using the estimated ratios of agricultural biomass residue to agricultural product in China (Bi et al.,2008;Bi 201O; Table 1). Not all residue biomass was available due to residue retention and loss during transportation and storage，and subsequent processing. These factors were taken into consideration when estimating the maximum available supply of residue biomass. We used the collectable and usable coefficient(Table 1) of agricultural residues (the ratio of collectable and usable residues to the aboveground biomass of crop） to estimate the maximum available supply of biomass residue (Bi et al.,20o8).We also calculated the total potential energy supply by agricultural residues based on their heating values on a dry mass basis.For each crop，we also estimated a residue retention fraction (Table 1) as the amount of residue to be retained for erosion control and nutrient cycling. The yields of main agricultural products of different crops averaged over 2003-2007 are presented in Table 1 and used as the baseline crop yields data for GCAM,for which simulation starts from year 20o5 through the end of the 21st century. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Determiningthepotential auailabilityofforestresidues.Forestryresiduesrefer to wastes associated with the processing of forest products including logging residues,wood-processing residues and tending/thinning residues (Cai et al.,2012).Logging residues originate from the harvesting operations and include stumps,roots,leaves,off-cuts,branches and sawdust. These residues are left on forestland.Wood-processing residues,or primary mill residues,are generated when processing roundwood at a sawmill, veneer mill,plywood mill or pulp mill.These residues include discarded logs,bark,sawdust and shavings (Liao et al.,2004;Yuan,2002).Tending/thinning residues are derived from the processing of tending and thinning of different forests and afforestation activities such as stumping, thinning and pruning. Forest residues are used for generatingheat,electricity, liquid fuels and solid fuels (Tan et al.,2010; MOA,1998). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The total biomass production from logging and tending/ thinning residues varies with forest type,location,and tree density and growth rate.The amount of forest residues was estimated by multiplying biomass yields by collectable coefficients of biomass (Table 2).Forests were divided into five categories according to the Forest Law of the People's Republic of China: timber stands,protection forest, economic forest, forest for special uses and firewood forest.In addition,residues from other kinds of forest were evaluated based on the number of trees,their productivity and collectability. In this category,we included sparse forest,shrubs,sipang forest and bamboo forest.Notably,orchards,urban greening forest and hedgerow may produce large amounts of biomass due to annual pruning, which might be a potential bioenergy source.Firewood was assumed to be entirely harvested and currently used for heating in rural areas.For wood-processing residues,the available amount was estimated based on the average annual production of roundwood in 2005 and 20o9,which included net imported roundwood.These residues collectively accounted for ca. $3 4 . 4 \\%$ of the total roundwood production (MOA,1998). For forest residues,we also estimated (i) the maximum available supply of residue biomass based on the coefficients of collectable residues,(ii) the total potential energy supply from forestry residues according to their heating values (Table 2) and (iii) a residue retention value (Table 2). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7be774a11308ca95727fb230a29ded4dad199b3e5bb851b7d6819e9380472b90.jpg",
+        "table_caption": [
+            "(ponunuts) ",
+            "errlerrerererernerreneeert "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Residue to product ratio</td><td colspan=\"3\">Average Crop production</td><td colspan=\"3\">Low heating</td><td rowspan=\"2\">Maximum energy potential (PJ)</td><td rowspan=\"2\">Energy potential availability (PJ)</td><td rowspan=\"2\">Source</td></tr><tr><td></td><td>Type of residue</td><td>(RPR)</td><td>(104 t) over (2003-2007)*</td><td>Sown area (10² ha)+</td><td>Water content (%)</td><td>value (KJ kg-1)</td><td>Collectable coefficient</td><td>Retention (t ha-1)</td><td></td></tr><tr><td>Rice</td><td>Straws</td><td>0.94</td><td>17761.68</td><td>28318.10</td><td>6.00[1]</td><td>14059.00</td><td>0.83</td><td>1.01</td><td>2354.78</td><td>1954.47</td><td>[1] Niu & Liu (1984)</td></tr><tr><td>一</td><td>Husks</td><td>0.21</td><td>17761.68</td><td>28318.10</td><td>9.00[1]</td><td>13067.00</td><td>0.95</td><td>0.00</td><td>487.39</td><td>463.02</td><td></td></tr><tr><td>Wheat</td><td> Straws and stalks</td><td>1.30</td><td>9872.99</td><td>22749.90</td><td>13.50</td><td>14766.00</td><td>0.65</td><td>1.97</td><td>1895.20</td><td>1231.88</td><td></td></tr><tr><td>Corn</td><td>Stalks</td><td>1.10</td><td>13787.72</td><td>26762.52</td><td>15.00</td><td>14356.00</td><td>0.90</td><td>0.57</td><td>2177.30</td><td>1959.57</td><td></td></tr><tr><td></td><td>Cobs</td><td>0.21</td><td>13787.72</td><td>26762.52</td><td>9.70</td><td>14359.00</td><td>0.90</td><td>0.00</td><td>415.75</td><td>374.18</td><td></td></tr><tr><td>Other grains</td><td> Straws and stalks</td><td>1.27</td><td>996.31</td><td>3917.91</td><td>11.35</td><td>14384.00</td><td>0.86</td><td>0.44</td><td>181.32</td><td>156.39</td><td></td></tr><tr><td>Millet</td><td>Straws</td><td>1.40</td><td>173.67</td><td>897.19</td><td>13.50</td><td>14569.00</td><td>0.85</td><td>0.41</td><td>35.42</td><td>30.11</td><td></td></tr><tr><td> Sorghum</td><td>Stalks</td><td>1.60</td><td>236.75</td><td>618.52</td><td>10.20</td><td>15105.00</td><td>0.90</td><td>0.61</td><td>57.22</td><td>51.50</td><td></td></tr><tr><td>Barley</td><td> Straws and stalks</td><td>1.09</td><td>316.60</td><td>826.68</td><td>10.40[2]</td><td>13720.00</td><td>0.85</td><td>0.63</td><td>47.35</td><td>40.25</td><td>[2] Lv & Wang (1998)</td></tr><tr><td>Others</td><td>Straws and stalks</td><td>1.09</td><td>269.29</td><td>1575.52</td><td>11.30</td><td>14142.00</td><td>0.85</td><td>0.28</td><td>41.51</td><td>35.28</td><td></td></tr><tr><td>Beans</td><td>Straws stalk leaves pod</td><td>1.60</td><td>2048.21</td><td>12505.55</td><td>5.10</td><td>14788.50</td><td>0.56</td><td>1.15</td><td>484.64</td><td>271.40</td><td></td></tr><tr><td>Gram</td><td> Straws stalk pod</td><td>1.60</td><td>90.46</td><td>735.45</td><td>10.30</td><td>14615.00</td><td>0.56</td><td>0.87</td><td>21.15</td><td>11.85</td><td></td></tr><tr><td>Small red bean Soy beans</td><td>Straws stalk pod Straws stalk</td><td>1.60 1.60</td><td>32.98 1538.99</td><td>219.59 9310.13</td><td>10.30 10.30</td><td>14548.00 15079.00</td><td>0.56 0.56</td><td>1.06 1.16</td><td>7.68 371.30</td><td>4.30 207.93</td><td></td></tr><tr><td></td><td>leaves pod</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Others</td><td>Straws stalk pod Stem and leaves</td><td>1.60</td><td>385.79</td><td>2240.38</td><td>10.30</td><td>14912.00</td><td>0.56</td><td>1.21</td><td>92.05</td><td>51.55</td><td></td></tr><tr><td>Tubers Potato</td><td>Stem and leaves</td><td>0.77</td><td>3209.70</td><td>8924.16</td><td>11.80</td><td>14125.50</td><td>0.73</td><td>0.75</td><td>349.11</td><td>254.85</td><td></td></tr><tr><td> Sweet potato</td><td>Stem and leaves</td><td>0.96 0.63</td><td>1361.79 1847.91</td><td>4528.09 4396.07</td><td>11.30 12.30</td><td>13498.00</td><td>0.73</td><td>0.78</td><td>176.46</td><td>128.82</td><td></td></tr><tr><td>Cotton</td><td> Stalk and torus</td><td>5.00[3]</td><td>641.08</td><td>5521.40</td><td>15.00</td><td>14753.00 14979.00</td><td>0.73 0.86</td><td>0.72 0.81</td><td>171.75 480.13</td><td>125.38 412.91</td><td>[3] Cui et al.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2008)</td></tr><tr><td>Oils crop Peanut</td><td>1 Stalks</td><td>2.32 1.50</td><td>2832.62 1360.35</td><td>14775.12 4472.96</td><td>9.92 10.23[4]</td><td>14775.12 15033.00</td><td>0.78 0.83</td><td>0.98 0.78</td><td>971.04 306.75</td><td>757.41 254.60</td><td>[4] Nan et al.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2008)</td></tr><tr><td>1 Rapes</td><td>Peanut hull Stem, leaves, pod</td><td>0.28 2.87[5]</td><td>1360.35 1183.85</td><td>4472.96 6679.35</td><td>7.80 10.78[4]</td><td>15682.00 14142.00</td><td>0.70 0.64</td><td>0.00 1.83</td><td>59.73 480.50</td><td>41.81 307.52</td><td>[5] Xie et al.</td></tr><tr><td>Sesame</td><td>Stem, leaves, pod</td><td>2.80</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(2011)</td></tr><tr><td>Sunflower</td><td>Residues after</td><td>2.80</td><td>62.82 156.99</td><td>590.89 925.69</td><td>Air drying 10.85[4]</td><td>15491.00 15021.00</td><td>0.83 0.86</td><td>0.51 0.66</td><td>27.25 66.03</td><td>22.62 56.79</td><td></td></tr><tr><td></td><td>Sunflower seed harvest</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Flax (linseed) Others (average)</td><td>Hemps blade tips Stem, leaves, pod</td><td>2.00 2.01[5]</td><td>37.61</td><td>393.60</td><td>Air drying</td><td>15439.00</td><td>0.74</td><td>0.50</td><td>11.67</td><td>8.64 8.16</td><td></td></tr><tr><td></td><td></td><td></td><td>30.99</td><td>1712.63</td><td>Air drying</td><td>15491.00</td><td>0.85</td><td>0.05</td><td>9.60</td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc4d5c3c5449326feb825e8e477a1bb55cf427e6a819bdf0a0adf3b3a272c609.jpg",
+        "table_caption": [
+            "[parrgutrr rlairg "
+        ],
+        "table_footnote": [
+            ""
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Residue to product ratio</td><td>Average Crop production (104 t) over</td><td></td><td>Low heating</td><td></td><td></td><td></td><td>Maximum energy</td><td>Energy potential availability</td><td></td></tr><tr><td></td><td>Type of residue</td><td>(RPR)</td><td>(2003-2007)*</td><td>Sown area (10³ ha)t</td><td>Water content (%)</td><td>value (KJ kg-1)</td><td>Collectable coefficient</td><td>Retention (t ha-1)</td><td>potential (PJ)</td><td>(PJ)</td><td>Source</td></tr><tr><td>Fiber crops[6]</td><td>Sticks, sheath, leaves, hempshell</td><td>2.86</td><td>93.01</td><td>310.10</td><td>Air drying</td><td>15491.00[7]</td><td>0.84</td><td>1.37</td><td>41.20</td><td>34.61</td><td>[6] Liu (1986); [7]</td></tr><tr><td> Jute and hemp</td><td>Sticks sheath</td><td>1.90</td><td>9.11</td><td>33.62</td><td>Air drying</td><td>15491.00</td><td>0.87</td><td>0.67</td><td>2.68</td><td>2.33</td><td>Jing (2006)</td></tr><tr><td>Flax (Linum)</td><td>Sticks sheath</td><td>1.10</td><td>50.75</td><td>123.86</td><td>Air drying</td><td>15491.00</td><td>0.82</td><td>0.81</td><td>8.65</td><td>7.09</td><td></td></tr><tr><td>Cannabis sativa</td><td>Sticks sheath</td><td>3.00</td><td>4.69</td><td>15.53</td><td>Air drying</td><td>15491.00</td><td>0.86</td><td>1.27</td><td>2.18</td><td>1.87</td><td></td></tr><tr><td>Ramie</td><td>Leaves hempshell</td><td>6.50</td><td>27.11</td><td>133.97</td><td>Air drying</td><td>15491.00</td><td>0.84</td><td>2.10</td><td>27.30</td><td>22.93</td><td></td></tr><tr><td>Others (like</td><td></td><td>1.90</td><td>1.36</td><td>3.11</td><td>Air drying</td><td>15491.00</td><td>0.85</td><td>1.24</td><td>0.40</td><td>0.34</td><td></td></tr><tr><td>jute and hemp) Sugar</td><td>Sugar bagasse</td><td>0.23</td><td>10262.47</td><td>1631.71</td><td>Air drying</td><td>15350</td><td>0.97</td><td>0.00</td><td>355.74</td><td>343.31</td><td></td></tr><tr><td></td><td> Sugar cane stalk</td><td>0.10</td><td>10262.47</td><td>1631.71</td><td>Air drying</td><td>14902</td><td>0.76</td><td>1.53</td><td>152.93</td><td>115.80</td><td></td></tr><tr><td></td><td>Sheath</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sugarcane 一</td><td>Bagasse Cane stalk sheath</td><td>0.24 0.10</td><td>9535.30 9535.30</td><td>1421.16</td><td>Air drying Air drying</td><td>15491.00 13816.00</td><td>0.97 0.70</td><td>0.48 一</td><td>354.51 131.74</td><td>343.87 92.22</td><td></td></tr><tr><td>Sugar beet</td><td>Bagasse</td><td>0.04</td><td>727.17</td><td>210.55</td><td>13.50</td><td>13500.00[8]</td><td>0.90</td><td>0.14</td><td>3.93</td><td>3.53</td><td>[8] Wang & Liu</td></tr><tr><td></td><td> Stems leaves</td><td></td><td>727.17</td><td>210.55</td><td>Air drying</td><td>14235.00</td><td>0.75</td><td></td><td>10.35</td><td>7.76</td><td>(1984)</td></tr><tr><td>Tobacco</td><td>Stems leaves</td><td>0.10 1.60</td><td>243.95</td><td>1249.10</td><td>3.51</td><td>11300.00[9]</td><td>0.95</td><td>0.16</td><td>44.11</td><td>41.90</td><td>[9] Zhang et al.</td></tr><tr><td>Flue-cured</td><td>Stems leaves</td><td>1.60</td><td>220.92</td><td>1136.71</td><td>3.51</td><td>11300.00[9]</td><td>0.95</td><td>0.16</td><td>39.94</td><td>37.94</td><td>(2012)</td></tr><tr><td>Tobacco Others</td><td>Stems leaves</td><td></td><td>23.03</td><td></td><td>Air drying</td><td>11300.009]</td><td></td><td>0.16</td><td>4.16</td><td>3.96</td><td></td></tr><tr><td>Vegetables and</td><td>Vine stems shell</td><td>1.60 0.10</td><td>62453.90</td><td>112.39 19681.70</td><td>Air drying</td><td>13498.00[1]</td><td>0.95 0.50</td><td>1.59</td><td>843.00</td><td>421.50</td><td></td></tr><tr><td>Melons Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8419.02</td><td></td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/360b31109037e94a6d8ca9a31087c5cb4af931eb4703657f66bdb8ed87272d2f.jpg",
+        "table_caption": [
+            "Table 2The theoretical energy potential availability of forestry residues from 2O04 to 2008 "
+        ],
+        "table_footnote": [
+            "\\*Comes from SFA (2009) except [1] Cai et al.,2012 and [2] NBS (2004-2008), $\\dagger$ and $\\ddagger$ determined following MOA,1998 and Lu, 1997; HeatingvaluedrivesfromOA99except3]angetl08Residueretetionfractioneteredbyforestareaolctable coefficient,product yield based on assumption of the $30 \\%$ availability of forest residues (MOA,1998). "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td>Type of residue</td><td>Forest area (104 ha) (2004-2008)*</td><td>Product yield (kg ha-1)t</td><td>Collectable</td><td>Water</td><td>value Heating</td><td>Retention</td><td>Energy potentia PJyr-1</td></tr><tr><td>Timber stands</td><td>Wood chips,sawdust, needle leaves, bark,</td><td>6007.44</td><td>3750</td><td>0.50</td><td>Dry weight</td><td>18600.0</td><td>1.31</td><td>2095.09</td></tr><tr><td>Protection forest</td><td>branches,cone Wood chips, sawdust, bark,branches</td><td>8194.68</td><td>3750</td><td>0.20</td><td>Dry weight 18600.0</td><td></td><td>0.53</td><td>1143.16</td></tr><tr><td>uses</td><td>Forest for special Wood chips,sawdust, bark,branches</td><td>1182.14</td><td>1875</td><td>0.10</td><td>Dry weight 18600.0</td><td></td><td>0.13</td><td>41.23</td></tr><tr><td>Firewood forest</td><td>Total train</td><td>174.73</td><td>3750</td><td>1.00</td><td>Dry weight 16747.0</td><td></td><td>0.00</td><td>109.73</td></tr><tr><td>Bamboo forest</td><td>Wood chips, sawdust, bark,branches</td><td>538.10</td><td>1875</td><td>0.10</td><td>Dry weight 17672.1</td><td></td><td>0.13</td><td>17.83</td></tr><tr><td>Economic forest</td><td>Wood chips,sawdust, bark, branches</td><td>2041.00</td><td>1875</td><td>0.10</td><td>Dry weight</td><td>18600.0</td><td>0.13</td><td>71.18</td></tr><tr><td>Sparse forest</td><td>Wood chips, sawdust, bark,branches</td><td>482.22</td><td>1875</td><td>0.50</td><td>Dry weight</td><td>18600.0</td><td>0.66</td><td>84.09</td></tr><tr><td>Shrubbery</td><td>Bark,branches</td><td>5365.34</td><td>938</td><td>0.50</td><td>Dry weight 18600.0</td><td></td><td>0.33</td><td>468.04</td></tr><tr><td> Sipang forest</td><td>Wood chips, sawdust, bark, branches</td><td>1121054.00 (104zhu)</td><td>2 (kg zhu-1)</td><td>0.50</td><td>Dry weight</td><td>18600.0</td><td>0.00</td><td>208.52</td></tr><tr><td>City greening forest;</td><td>Wood chips,sawdust, bark,branches</td><td>400.00[1]</td><td>1625</td><td>0.10</td><td>Dry weight</td><td>18600.0</td><td>0.11</td><td>12.09</td></tr><tr><td>Hedgerow Orchard</td><td>Fruitwood, pruning coconut shell, chestnut shell, walnut shell, etc.</td><td>996.66[2]</td><td>1875</td><td>0.10</td><td>Dry weight 18600.0</td><td></td><td>0.13</td><td>34.76</td></tr><tr><td>Mill</td><td>Lath, slab, woodshaving</td><td>10675.27</td><td>540 (kg m-3)</td><td>0.34</td><td>Dry weight 19500.0[3]</td><td></td><td>0.00</td><td>382.20</td></tr><tr><td>Waste wood products</td><td></td><td>2000.00[1]</td><td>250 (kg m-3)</td><td>0.34</td><td>Dry weight 19500.0[3]</td><td></td><td>0.00</td><td>33.15</td></tr><tr><td>Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>4701.06</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "While agricultural residues and forestry residues were the major focus of our study,MSW and energy crops were also considered and discussed.Note that the information provided here only reflects the gross amount of residues and energy potentials,which were derived based on the assumption that all the residues were economically exploitable and fully utilized. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The potential of residue biomass in the future ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To better describe the interrelations between agriculture, food, bioenergy and climate change and understand the potential role of this energy resource in the future, the residue availabilityparameters particularly derived for China,as introduced in the above section,were incorporated into the Global Change Assessment Model (GCAM) to simulate future availability of residue biomass for bioenergy production in response to global mitigation policies. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The GCAM is a long-term partial equilibrium model with 32 energy/economy regions and 283 agro-ecological zones (AEZs).Besides,it also includes a reduced form carbon cycle and climate module and runs from 1990 to 2100 in 5-year time step.GCAM was designed to estimate the long-term changes in the global energy/economy,agriculture/land use and water use and further explore the interactions between sectors (Kim et al.,2oo6).It will serve for understanding the potential ramifications of climate mitigation actions.GCAM has been used to investigate the potential roles of specific policy measures and different energy technologies such as bioenergy, CCS (carbon capture and storage),nuclear energy and other technologies used in different sectors Clarke et al., $2 0 0 7 \\mathrm { a }$ ：(Thomson et al.,2011).We used the standard release of GCAM 3.0 with a thorough representation of bioenergy，agriculture and land use as described in (Wise et al.,20o9;Wise & Calvin2011; Wise et al.,2014).GCAM can model three types of commercial biomass energy including dedicated energy crops,municipal solid waste and residue biomass (Wise et al.，20o9;Luckow et al.2010; Kyle et al.,2011). Biomass energy production from dedicated crops is mainly dependent on the availability and characteristics of land resources,technology options for production, competing land uses as well as bioenergy price in the context of energy markets.Potential energy production from residue biomass depends on crop production,harvest index and price of bioenergy.Potential production is also influenced bypopulation and income. Carbon fluxes associated with terrestrial ecosystems were simulated in 15 different carbon pools (Wise et al.,20o9),which inform bioenergy production under a carbon-constrained world. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For this analysis,the GCAM was used to simulate future bioenergy production from residue biomass under a reference scenario and two policy scenarios with and without CCS that are targeted at $4 5 0 ~ \\mathrm { p p m }$ atmospheric concentration of $\\mathrm { C O } _ { 2 }$ by the end of the 2lst century. The reference scenarios (Business as Usual) do not have greenhouse gas emissions constraints or taxes.For the policy scenario with carbon tax,we assumed that carbon emissions from the terrestrial ecosystems,fossil fuel and industrial sources are equally charged with a carbon price starting in 202O and increasing at $5 \\%$ per year through 2100.This scenario is noted as UCT (Universal Carbon Tax) (Edmonds et al.，2008;Wise et al.，2009).The carbon price pathway was set to limit atmospheric $\\mathrm { C O } _ { 2 }$ concentration to $4 5 0 ~ \\mathrm { p p m }$ .In the other policy scenario,bioenergy with CCS detailed in Clarke et al.(2o07b) was also considered,which has been shown as an effective technology to greatly reduce $\\mathrm { C O } _ { 2 }$ emissions for achieving low $\\mathrm { C O } _ { 2 }$ concentration targets. The policy scenario without CCS would be of higher cost. We used different carbon price starting in 202O at approximately7 $6  { \\mathrm { ~ \\textrm ~ { ~ ~ } ~ } } \\$  { \\mathrm { ~ t ~ } } ^ { - 1 }  { \\mathrm { C } } ^ { - 1 }$ (in $2 0 0 5 \\mathbb { S } ,$ ）without CCS and 129 $\\$ { t } ^ { - 1 }thinspace C ^ { - 1 }$ (in $2 0 0 5 \\mathbb { S } )$ with CCS.Future crop productivity needs be considered for projecting the energy production from residue biomass in the future.In the reference scenario, change in crop yield was based on FAO projection until 2050 to ensure global food security (Briunsma，20o9).Consistent with the historical trend,we assumed yields increase at a slower growth rate in the developed countries,but a relatively high yield growth rate in the developing countries.For instance，in China，the cropyield increase ratesare $0 . 8 3 \\% , 0 . 6 2 \\%$ and $0 . 3 5 \\%$ for 2020,2035 and 2050,respectively (Kyle et al., 2011). After 2050,the annual agriculture productivity changes converge to $0 . 2 5 \\%$ for all crops and regions in the world. Global population growth pathway was inherited from United Nation's 2011 (Eom et al.,2012).Chinese population and GDP growth was described in Jiang et al. (2009), peaking in around 2035 and decreasing thereafter due to population aging and low birth rate.We assumed that GDP increases at a fast growth rate in China before 2030,and changes to a lower growth rate close to other developed countries beyond that (Jiang et al.,2009; Zhou et al.,2013). In this study,we used the same social and macroeconomic drivers, including population, labor productivity and changes in crop productivity, for all the scenarios. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Current aoailability of agricultural residues ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total amount of agricultural residues and available energy supply are about 10 818 PJ and 8419 PJ per year, respectively (Table 1). This energy supply is roughly $8 \\%$ of the annual energy consumption (105 952 PJ) of China in 2012. The energy potential of rice residues (including rice husks) is the greatest (around 2418 PJ),followed by corn residues (including corn cobs） of 2334 PJ and wheat straws (1232 PJ).These three crop residues combined account for ca. $71 \\%$ of the total potentially available energy supply. The total processing crop residues, including rice husks,corn cobs,sugar bagasse and pea nut hull, account for approximately 1319 PJ and 1223 PJ, respectively，which dominantly represent about $12 \\%$ and $1 5 \\%$ of the total residue availability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The potential availability of crop residues for energy production in China was also analyzed spatially in Table 3. South central China has the highest potential for crop residue-based energy production of ca. 2419 PJ, followed by east China with ca.2198 PJ.North-east China has the lowest potential of ca. 648 PJ. Other districts，including south-west China，north-west China and north China, combined have the potential to provide crop residue-based energy production of more than 3156 PJ. In China，Henan，Shandong，Jiangsu, Guangxi, Sichuan, Hubei and Heilongjiang are the top seven provinces in terms of potential availability of agricultural residues, occupying $4 6 . 5 \\%$ of the total availability.Rice residues are mainly available over the central south China,east China and south-west China,accounting for $8 6 . 7 \\%$ (2098 PJ） of the national rice residue potential.Wheat residue is mainly available in north China,east China and south central China，which collectively account for about $8 0 . 5 \\%$ of the total of 1232 PJ. Henan, Shandong and Anhui provinces in located in these three districts account for about $7 0 . 1 \\%$ of the total wheat residue availability. The energy production potential of corn residues is distributed mainly over north-west China and north China, amounting to $5 1 . 4 \\%$ of the total national availability.The availability of the two root crops,viz.sugarcane and sugar beet，is the highest in Guangxi, Yunnan and Guangdong of central south and south-west of China,accounting for $8 2 . 9 \\%$ of the national energy production potential of 459 PJ (Table 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Current availabilityof forestresidues ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The total amount of forest residues for energy production was estimated at ca. 4274 PJ per year (Table 4) based on the data of the seventh National Forestry ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e94118ac2720854588e671c2df38ab4d9955cb460f368e170c2fc32d900b999.jpg",
+        "table_caption": [
+            "(ponuinuts) ",
+            "rrrerereerreerererntertrnnrgener "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Rice</td><td>Rice husks</td><td>Wheat</td><td>Corn</td><td>Corn cobs</td><td>Other grains</td><td>Beans</td><td>Tubers</td><td>Cotton</td><td>Oils crop</td><td>Peanut hull</td><td>Sugar bagasse</td><td>cane stalk sheath</td><td>Fiber crops</td><td>Tobacco</td><td>Vegetables and Melons</td><td></td></tr><tr><td>Residue to product ratio (RPR)</td><td>0.94</td><td>0.21</td><td>1.3</td><td>1.1</td><td>0.21</td><td>1.27</td><td>1.6</td><td>0.77</td><td>5</td><td>2.32</td><td>0.28</td><td>0.23</td><td>0.1</td><td>2.86</td><td>1.6</td><td>0.1</td><td></td></tr><tr><td>Heating value</td><td>14 059</td><td>13 067</td><td>14 766</td><td>14 356</td><td>14 359</td><td>14 384</td><td>14788.5</td><td>14125.5</td><td>14 979</td><td>14775.1</td><td>15 682</td><td>15349.9</td><td>14 902</td><td>15 491</td><td>11 300</td><td>13 498</td><td></td></tr><tr><td>(KJ kg-1) low Collectable</td><td>0.83</td><td>0.95</td><td>0.65</td><td>0.9</td><td>0.9</td><td>0.86</td><td>0.56</td><td>0.73</td><td>0.86</td><td>0.78</td><td>0.7</td><td>0.96504</td><td>0.7572</td><td>0.84</td><td>0.95</td><td>0.5</td><td></td></tr><tr><td>coefficient Beijing</td><td>0.06</td><td>0.01</td><td>2.89</td><td>8.18</td><td>1.56</td><td>0.08</td><td>0.34</td><td>0.20</td><td>0.23</td><td>0.70</td><td></td><td></td><td></td><td></td><td></td><td></td><td>15.82</td></tr><tr><td>Tianjin</td><td>1.08</td><td>0.26</td><td>5.53</td><td>10.54</td><td>2.01</td><td>0.20</td><td>0.46</td><td>0.05</td><td>6.27</td><td>0.37</td><td>0.08 0.02</td><td>0.00 0.00</td><td>0.00 0.00</td><td>0.00 0.00</td><td>0.00</td><td>3.13</td><td>28.11 INT1</td></tr><tr><td></td><td></td><td>1.30</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.00</td><td>3.35</td><td></td></tr><tr><td>Hhebei</td><td>5.47</td><td></td><td>139.59</td><td>176.11</td><td>33.63</td><td>8.96</td><td>6.87</td><td>5.86</td><td>4.08</td><td>39.68</td><td>4.17</td><td>1.31</td><td>0.4</td><td>0.2</td><td>0.14</td><td>45.5</td><td>474.78</td></tr><tr><td>Inner</td><td>6.02</td><td>1.43</td><td>16.99</td><td>147.47</td><td>28.16</td><td>13.61</td><td>19.03</td><td>13.54</td><td>0.26</td><td>27.20</td><td>0.07</td><td>3.73</td><td>1.26</td><td>0.65</td><td>0.31</td><td>8.00</td><td>259.53</td></tr><tr><td>Mongolia</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>TEGRATI</td></tr><tr><td>North China</td><td>12.74</td><td>3.02 10.956</td><td>193.81</td><td>428.47</td><td>81.82</td><td>32.82</td><td>32.37</td><td>26.77</td><td>55.04</td><td>74.04</td><td>4.43</td><td>5.39</td><td>1.82</td><td>0.88</td><td>0.56</td><td>66.47</td><td>934.20 ED</td></tr><tr><td>Liaoning</td><td>46.24</td><td></td><td>0.78</td><td>156.39</td><td>29.86</td><td>14.59</td><td>6.5</td><td>4.01</td><td>0.19</td><td>10.49</td><td>1.10</td><td>0.14</td><td>0.05</td><td>0.01</td><td>0.9</td><td>15.08</td><td>265.95</td></tr><tr><td>Heilongjiang</td><td>129.23</td><td>30.62</td><td>9.45</td><td>164.08</td><td>31.33</td><td>10.02</td><td>82.72</td><td>7.13</td><td>0.00</td><td>11.10</td><td>0.14</td><td>4.26</td><td>1.44</td><td>11.25</td><td></td><td></td><td>471.96</td></tr><tr><td>North-east</td><td>224.25</td><td>53.13</td><td>10.57</td><td>578.08</td><td>110.38</td><td>33.52</td><td>108.02</td><td>15.05</td><td>0.27</td><td>33.72</td><td>2.03</td><td>4.58</td><td>1.54</td><td>11.36</td><td>1.01 2.29</td><td>9.66 31.19</td><td>1107.58</td></tr><tr><td>China</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Shanghai</td><td>9.53</td><td>2.26</td><td>1.28</td><td>0.39</td><td>0.07</td><td>0.52</td><td>0.35</td><td>0.06</td><td>0.12</td><td>1.59</td><td>0.01</td><td>0.34</td><td>0.12</td><td>0.00</td><td>0.00</td><td>3.38</td><td>ASSESSMENT 19.92</td></tr><tr><td>Jiangsu</td><td>183.18</td><td>43.40 17.19</td><td>97.33</td><td>27.94</td><td>5.33</td><td>13.69 1.951</td><td>11.56</td><td>4.55</td><td>23.43</td><td>52.16</td><td>1.57</td><td>0.67</td><td>0.23</td><td>0.17</td><td>0.01</td><td>26.35</td><td>484.67</td></tr><tr><td>Zhehuang</td><td>72.58</td><td>102.39</td><td></td><td>2.5</td><td>0.48</td><td></td><td>1.98</td><td>3.36</td><td>21.48</td><td>11.30</td><td>0.13</td><td>2.90</td><td>0.8</td><td>0.05</td><td>0.44</td><td>14.25</td><td>135.93 OF</td></tr><tr><td></td><td>57.12</td><td>13.53</td><td></td><td>1.72</td><td></td><td></td><td>2.78</td><td>10.35</td><td>0.02</td><td></td><td>0.74</td><td></td><td></td><td></td><td></td><td></td><td>108.72 RESII</td></tr><tr><td>Fujian</td><td>180.95</td><td>42.87</td><td>0.24 0.31</td><td>0.85</td><td>0.33 0.16</td><td>0.32 0.18</td><td>3.40</td><td>4.32</td><td>6.31</td><td>6.86 20.94</td><td>1.08</td><td>2.86</td><td>0.96 0.86</td><td>0.01 0.45</td><td>2.00</td><td>9.94</td><td>273.06</td></tr><tr><td>Jiangxi</td><td>10.55</td><td>2.50</td><td>223.56</td><td>233.41</td><td>44.57</td><td>2.40</td><td>8.35</td><td>17.00</td><td>62.41</td><td>93.70</td><td>10.64</td><td>2.56 0.00</td><td>0.00</td><td></td><td>0.42</td><td>8.63</td><td>721.86 IDUI</td></tr><tr><td>Shandong</td><td>650.28</td><td>154.05 434.70</td><td></td><td>305.61</td><td>58.36</td><td>26.57</td><td>47.06</td><td>48.13</td><td>115.74</td><td>251.31</td><td>16.48</td><td>10.14</td><td>3.42</td><td>0.13 2.10</td><td>1.47 4.40</td><td>66.39</td><td>2197.57</td></tr><tr><td>East China</td><td>39.60</td><td>9.38 331.09</td><td></td><td>177.33</td><td>33.86</td><td>6.22</td><td>11.49</td><td>13.22</td><td>42.26</td><td>112.95</td><td>9.83</td><td>0.67</td><td>0.23</td><td>1.46</td><td>4.23</td><td>144.06 45.58</td><td>795.71 JES</td></tr><tr><td>Henan</td><td>160.70</td><td>38.07</td><td>30.32</td><td>27.02</td><td>5.16</td><td>2.63</td><td>7.69</td><td>10.19</td><td>28.40</td><td>74.34</td><td>1.78</td><td>1.31</td><td>0.44</td><td>1.96</td><td>1.48</td><td>21.57</td><td>406.12 FOR</td></tr><tr><td>Hubei Hunan</td><td>252.91</td><td>59.92</td><td>1.26</td><td>17.22</td><td>3.29</td><td>1.37</td><td>6.22</td><td>10.82</td><td>13.33</td><td>33.47</td><td>0.79</td><td>3.26</td><td>1.10</td><td>5.22</td><td>3.17</td><td>18.07</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/573a8d795bf0fddb21184f0b3dc8291a546c947f1d6596e5c5e3871031c42522.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Rice</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Sugar cane</td><td></td><td></td><td></td><td>Vegetables</td></tr><tr><td></td><td>Rice</td><td>husks</td><td>Wheat</td><td>Corn</td><td>Corn cobs</td><td>Other grains</td><td>Beans</td><td>Tubers</td><td>Cotton</td><td>Oils</td><td>Peanut hull</td><td>Sugar</td><td>stalk</td><td>Fiber</td><td></td><td>and</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>crop</td><td></td><td>bagasse</td><td>sheath</td><td>crops</td><td>Tobacco</td><td>Melons</td><td>Total</td></tr><tr><td>Sichuan</td><td>159.64</td><td>37.82</td><td>54.02</td><td>79.91</td><td>15.26</td><td>9.57</td><td>15.16</td><td>34.83</td><td>1.49</td><td>57.91</td><td>1.70</td><td>4.36</td><td>1.47</td><td>2.34</td><td>2.85</td><td>18.79</td><td>480.17</td></tr><tr><td>Guizhou</td><td>50.25</td><td>11.90</td><td>7.92</td><td>48.09</td><td>9.18</td><td>1.70</td><td>4.97</td><td>16.05</td><td>0.04</td><td>20.20</td><td>0.20</td><td>2.28</td><td>0.77</td><td>0.06</td><td>5.74</td><td>5.69</td><td>175.66</td></tr><tr><td>Yunnan </td><td>68.76</td><td>16.29</td><td>13.40</td><td>64.00</td><td>12.22</td><td>7.59</td><td>10.55</td><td>13.69</td><td>0.01</td><td>7.81</td><td>0.14</td><td>51.93</td><td>17.52</td><td>3.02</td><td>12.79</td><td>6.78</td><td>294.13</td></tr><tr><td>Tibet</td><td>0.06</td><td>0.01</td><td>3.29</td><td>0.24</td><td>0.04</td><td>9.70</td><td>0.42</td><td>0.09</td><td>0.00</td><td>1.45</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.26</td><td>15.52</td></tr><tr><td>South-west</td><td>330.74</td><td>78.35</td><td>87.35</td><td>223.58</td><td>42.69</td><td>29.93</td><td>35.80</td><td>84.65</td><td>1.55</td><td>97.13</td><td>2.27</td><td>58.95</td><td>19.88</td><td>5.86</td><td>22.83</td><td>37.42</td><td>1114.03</td></tr><tr><td>China</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Shaanxi</td><td>8.71</td><td>2.06</td><td>48.82</td><td>62.25</td><td>11.89</td><td>2.54</td><td>4.99</td><td>5.56</td><td>5.04</td><td>11.40</td><td>0.22</td><td>0.08</td><td>0.03</td><td>0.04</td><td>0.97</td><td>6.59</td><td>159.08</td></tr><tr><td>Gansu</td><td>0.42</td><td>0.10</td><td>32.63</td><td>34.09</td><td>6.51</td><td>13.85</td><td>5.12</td><td>14.38</td><td>7.27</td><td>12.42</td><td>0.01</td><td>0.65</td><td>0.22</td><td>0.46</td><td>0.51</td><td>6.39</td><td>128.50</td></tr><tr><td>Qinghai</td><td>0.00 6.33</td><td>0.00</td><td>5.84</td><td>0.14</td><td>0.03</td><td>2.03</td><td>1.42</td><td>1.87</td><td>0.00</td><td>7.45</td><td>0.00</td><td>0.01</td><td>0.00</td><td>0.01</td><td>0.01</td><td>0.59</td><td>19.36</td></tr><tr><td>Ningxia Xinjiang</td><td>5.85</td><td>1.50 1.38</td><td>9.49 45.68</td><td>17.98</td><td>3.43</td><td>1.14</td><td>0.72 3.14</td><td>2.26 1.07</td><td>0.01 143.97</td><td>2.96</td><td>0.00</td><td>0.01</td><td>0.00 4.61</td><td>0.00 4.75</td><td>0.02 0.03</td><td>1.79 7.14</td><td>44.21 296.42</td></tr><tr><td>North-west</td><td>21.31</td><td>5.05</td><td>142.46</td><td>51.90 166.36</td><td>9.91 31.77</td><td>3.27 22.82</td><td>15.40</td><td>25.14</td><td>156.27</td><td>9.97 44.20</td><td>0.02 0.25</td><td>13.66 14.41</td><td>4.86</td><td>5.26</td><td>1.54</td><td>22.50</td><td>647.58</td></tr><tr><td>China</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total</td><td>1954.47</td><td>463.02</td><td>1231.88</td><td>1959.57</td><td>0.00</td><td>156.98</td><td>271.40</td><td>254.85</td><td>412.95</td><td>757.36</td><td>0.00</td><td>343.31</td><td>115.80</td><td>34.61</td><td>41.90</td><td>421.50</td><td>8419.59</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [
+            "[parenair)raqei "
+        ],
+        "table_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Survey(2004-2008)， whenforestarea reached $1 9 5 \\times 1 0 ^ { 6 }$ ha and covered $2 0 . 4 \\%$ of China's land. The energy potential of timber stands is the greatest (around 2095PJ),followed by protection forest of 1143PJ.These four main forestry residues combined account for ca. $7 3 . 6 \\%$ of the total potentially available energy supply The total amount of residues from other forest types is about 778.48 PJ accounting for ca. $1 6 . 6 \\%$ of the total potentially available energy supply. The total wood-processing residues account for approximately 415PJ, which represents about $8 . 9 \\%$ of the total residue availability. The residues of orchards,urban greening forest andhedgerow are of the lowest potential of ca.46.9 PJ accounting $0 . 9 9 \\%$ of the total forestry residues.The energy potential of logging (including tending/thinning residues) and mills residues was about 4286 PJ and 415 PJ, respectively,with north-east China,north China and south-west China having the largest amount of forest residues availability.The top five provinces in terms of forest residue availability are Yunnan,Heilongjiang, Inner Mongolia, Sichuan and Guangxi,which combined account for $4 1 . 4 \\%$ of total logging residue. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Combined agricultural and forest residue auailability ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The total energy potential from all sources is about 12 693 PJ per year (Table 5),with agricultural residues contributing about 8419 PJ each year. The total energy potential of forest residues is ca. 4274PJ each year (excluding city greening forest;hedgerow,mills and waste wood).Agriculturalresiduesalone contributemore than $6 6 \\%$ of the national energy potential of biomass residues.The spatial distribution of the potential availability of biomass residues for energy production is shown in Tables 5 and 6.The total residue availability was the highest in south central China (3347 PJ), followed by the east China and south-west China with 2862 and 2229 PJ, respectively. These three regions collectively account for over $6 6 \\%$ ofthe national residue availability. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Futureresidue biomassauailabilityunderdifferent scenarios ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The total bioenergy potential from agricultural residues, forest residues and mills will reach 17 660,21 710 and 21 980 PJ by 2050 under BAU, CCS450 and NOCCS450, respectively，and 17 320，21 180 and 21 640 PJ by the end of the 2lst century,as a result of an increase in food demand,agriculture productivity and crop price. The energy potential under the reference scenario is lower than that of the two policy scenarios (Table 6). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To project bioenergy production in the future,bioenergyprice was calculated within the GCAM based on energy demand and competition with other energy ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/54342988ed8029e50a8ac751f87f03802c74d1cff564ddda33df6d5ac560ff32.jpg",
+        "table_caption": [
+            "igilreeenrrelrtrgrrenre ",
+            "rrarelrrrrigrreereeerer "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Timber stands</td><td>Protection forest</td><td>Forest for uses special</td><td>Firewood forest</td><td>Bamboo forest</td><td>Economic forest</td><td>Sparse forest</td><td>Shrubbery</td><td>Sipang forest</td><td>Orchard</td><td>Total</td></tr><tr><td>Product yields (kg ha-1)</td><td>3750</td><td>3750</td><td>1875</td><td>3750</td><td>1875</td><td>1875</td><td>1875</td><td>938</td><td>2</td><td>1875</td><td></td></tr><tr><td>Collectable coefficient</td><td>0.5</td><td>0.2</td><td>0.1</td><td>1.0</td><td>0.1</td><td>0.1</td><td>0.5</td><td>0.5</td><td>0.5</td><td>0.1</td><td></td></tr><tr><td>Heating value KJ kg-1</td><td>18 600</td><td>18 600</td><td>18 600</td><td>16 747</td><td>17672.1</td><td>18 600</td><td>18 600</td><td>18 600</td><td>18 600</td><td>18 600</td><td></td></tr><tr><td>Beijing</td><td>0.88</td><td>4.13</td><td>0.12</td><td>0.08</td><td>0.00</td><td>0.57</td><td>0.04</td><td>3.32</td><td>0.36</td><td>0.27</td><td>9.76</td></tr><tr><td>Tianjin</td><td>0.24</td><td>0.61</td><td>0.02</td><td>0.00</td><td>0.00</td><td>0.13</td><td>0.03</td><td>0.17</td><td>0.24</td><td>0.13</td><td>1.55</td></tr><tr><td>Hebei</td><td>23.03</td><td>28.37</td><td>0.36</td><td>5.36</td><td>0.00</td><td>3.18</td><td>1.46</td><td>8.97</td><td>70.70</td><td>3.82</td><td>145.24</td></tr><tr><td>Shanxi</td><td>8.10</td><td>19.07</td><td>0.42</td><td>0.19</td><td>0.00</td><td>1.58</td><td>3.14</td><td>10.36</td><td>3.34</td><td>0.96</td><td>47.18</td></tr><tr><td> Inner Mongolia</td><td>148.02</td><td>154.20</td><td>5.28</td><td>0.00</td><td>0.00</td><td>0.69</td><td>11.84</td><td>61.32</td><td>1.61</td><td>0.17</td><td>383.14</td></tr><tr><td>North China</td><td>180.27</td><td>206.38</td><td>6.20</td><td>5.63</td><td>0.00</td><td>6.16</td><td>16.50</td><td>84.14</td><td>76.24</td><td>5.36</td><td>586.87</td></tr><tr><td>Liaoning</td><td>44.47</td><td>26.23</td><td>0.47</td><td>20.23</td><td>0.00</td><td>4.26</td><td>0.99</td><td>5.12</td><td>2.13</td><td>1.09</td><td>105.00</td></tr><tr><td>Jilin</td><td>128.10</td><td>44.41</td><td>1.39</td><td>0.81</td><td>0.00</td><td>0.31</td><td>2.15</td><td>1.38</td><td>0.76</td><td>0.25</td><td>179.57</td></tr><tr><td>Heilongjiang</td><td>186.15</td><td>169.93</td><td>5.52</td><td>1.60</td><td>0.00</td><td>0.50</td><td>2.84</td><td>0.56</td><td>1.95</td><td>0.14</td><td>369.18</td></tr><tr><td>North-east China</td><td>358.72</td><td>240.57</td><td>7.38</td><td>22.64</td><td>0.00</td><td>5.08</td><td>5.98</td><td>7.07</td><td>4.83</td><td>1.49</td><td>653.75</td></tr><tr><td>Shanghai</td><td>0.03</td><td>0.12</td><td>0.08</td><td>0.00</td><td>0.01</td><td>0.08</td><td>0.00</td><td>0.03</td><td>0.47</td><td>0.09</td><td>0.91</td></tr><tr><td>Jiangsu</td><td>18.40</td><td>2.38</td><td>0.16</td><td>0.08</td><td>0.12</td><td>1.03</td><td>0.06</td><td>0.10</td><td>8.37</td><td>0.64</td><td>31.35</td></tr><tr><td>Zhejiang</td><td>79.66</td><td>21.88</td><td>0.29</td><td>0.00</td><td>2.59</td><td>3.92</td><td>0.67</td><td>2.74</td><td>4.13</td><td>1.04</td><td>116.92</td></tr><tr><td>Anhui</td><td>63.40</td><td>10.93</td><td>0.25</td><td>2.18</td><td>1.07</td><td>1.98</td><td>1.23</td><td>3.06</td><td>7.22</td><td>0.36</td><td>91.68</td></tr><tr><td>Fujian</td><td>130.63</td><td>21.51</td><td>1.17</td><td>2.26</td><td>3.29</td><td>3.53</td><td>1.59</td><td>1.81</td><td>0.73</td><td>1.91</td><td>168.44</td></tr><tr><td>Jiangxi</td><td>127.03</td><td>50.18</td><td>1.21</td><td>6.04</td><td>2.82</td><td>4.20</td><td>0.78</td><td>1.73</td><td>1.95</td><td>1.04</td><td>196.97</td></tr><tr><td>Shandong</td><td>29.83</td><td>9.33</td><td>0.13</td><td>0.00</td><td>0.00</td><td>3.43</td><td>1.17</td><td>0.74</td><td>10.56</td><td>2.56</td><td>57.75</td></tr><tr><td>East China</td><td>448.98</td><td>116.34</td><td>3.29</td><td>10.55</td><td>9.91</td><td>18.17</td><td>5.51</td><td>10.20</td><td>33.44</td><td>7.64</td><td>664.04</td></tr><tr><td>Henan</td><td>43.97</td><td>19.22</td><td>0.60</td><td>1.51</td><td>0.07</td><td>1.78</td><td>1.12</td><td>5.36</td><td>20.88</td><td>1.43</td><td>95.94</td></tr><tr><td>Hubei</td><td>42.63</td><td>49.50</td><td>0.50</td><td>10.25</td><td>0.50</td><td>1.94</td><td>2.18</td><td>12.56</td><td>4.90</td><td>0.94</td><td>125.89</td></tr><tr><td>Hunan</td><td>152.33</td><td>36.58</td><td>0.87</td><td>1.61</td><td>2.08</td><td>5.52</td><td>2.40</td><td>12.38</td><td>3.36</td><td>1.50</td><td>218.63</td></tr><tr><td>Guangdong</td><td>152.75</td><td>25.97</td><td>1.79</td><td>2.11</td><td>1.35</td><td>4.55</td><td>2.43</td><td>5.81</td><td>0.92</td><td>3.44</td><td>201.12</td></tr><tr><td>Guangxi</td><td>195.87</td><td>28.35</td><td>1.16</td><td>5.43</td><td>0.99</td><td>6.87</td><td>2.68</td><td>21.50</td><td>2.41</td><td>2.99</td><td>268.24</td></tr><tr><td>Hainan</td><td>8.28</td><td>5.10</td><td>0.83</td><td>0.00</td><td>0.05</td><td>3.16</td><td>0.04</td><td>0.33</td><td>0.37</td><td>0.58</td><td>18.74</td></tr><tr><td>Central south China</td><td>595.83</td><td>164.71</td><td>5.75</td><td>20.91</td><td>5.04</td><td>23.82</td><td>10.85</td><td>57.95</td><td>32.84</td><td>10.87</td><td>928.57</td></tr><tr><td>Chongqing</td><td>18.13</td><td>16.22</td><td>0.46</td><td>0.40</td><td>0.41</td><td>0.67</td><td>2.55</td><td>8.90</td><td>13.76</td><td>0.63</td><td>62.14</td></tr><tr><td> Sichuan</td><td>116.68</td><td>103.77</td><td>2.86</td><td>3.05</td><td>1.61</td><td>3.47</td><td>8.73</td><td>63.49</td><td>22.67</td><td>1.61</td><td>327.93</td></tr><tr><td>Guizhou</td><td>37.75</td><td>35.07</td><td>0.83</td><td>9.25</td><td>0.44</td><td>1.68</td><td>3.29</td><td>10.92</td><td>3.51</td><td>0.40</td><td>103.14</td></tr><tr><td>Yunnan</td><td>241.81</td><td>81.67</td><td>5.52</td><td>22.31</td><td>0.30</td><td>5.81</td><td>9.03</td><td>32.90</td><td>6.16</td><td>0.82</td><td>406.34</td></tr><tr><td>Tibet</td><td>49.34</td><td>81.59</td><td>3.98</td><td>0.35</td><td>0.00</td><td>0.02</td><td>5.04</td><td>74.55</td><td>0.67</td><td>0.00</td><td>215.56</td></tr><tr><td>South-west China</td><td>463.72</td><td>318.31</td><td>13.65</td><td>35.36</td><td>2.76</td><td>11.65</td><td>28.64 5.02</td><td>190.77 16.04</td><td>46.78 2.97</td><td>3.46 2.86</td><td>1115.10 144.94</td></tr><tr><td>Shaanxi Gansu</td><td>45.49 1.32</td><td>53.18 19.86</td><td>1.15 2.35</td><td>14.05 0.00</td><td>0.12 0.00</td><td>4.05 0.90</td></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/779ed366b85fd92bcdd6b3abd561221685b7094553cc00258445e7d0373aaaa7.jpg",
+        "table_caption": [
+            "Table 5The total theoretical energy potential availability of agriculture and forestryresidues (PJ) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>Forestry residues</td><td>Agriculture residues</td><td>Total</td></tr><tr><td>Beijing</td><td>9.76</td><td>15.82</td><td>25.58</td></tr><tr><td>Tianjin</td><td>1.55</td><td>28.11</td><td>29.67</td></tr><tr><td>Hebei</td><td>145.24</td><td>474.78</td><td>620.02</td></tr><tr><td>Shanxi</td><td>47.18</td><td>155.97</td><td>203.15</td></tr><tr><td>Inner Mongolia</td><td>383.14</td><td>259.53</td><td>642.66</td></tr><tr><td>North China</td><td>586.87</td><td>934.20</td><td>1521.07</td></tr><tr><td>Liaoning</td><td>105.00</td><td>265.95</td><td>370.95</td></tr><tr><td>Jilin</td><td>179.57</td><td>369.67</td><td>549.24</td></tr><tr><td>Heilongjiang</td><td>369.18</td><td>471.96</td><td>841.14</td></tr><tr><td>North-east China</td><td>653.75</td><td>1107.58</td><td>1761.33</td></tr><tr><td>Shanghai</td><td>0.91</td><td>19.92</td><td>20.83</td></tr><tr><td> Jiangsu</td><td>31.35</td><td>484.67</td><td>516.02</td></tr><tr><td>Zhejiang</td><td>116.92</td><td>135.93</td><td>252.86</td></tr><tr><td>Anhui</td><td>91.68</td><td>453.40</td><td>545.09</td></tr><tr><td>Fujian</td><td>168.44</td><td>108.72</td><td>277.17</td></tr><tr><td>Jiangxi</td><td>196.97</td><td>273.06</td><td>470.03</td></tr><tr><td>Shandong</td><td>57.75</td><td>721.86</td><td>779.61</td></tr><tr><td>East China</td><td>664.04</td><td>2197.57</td><td>2861.60</td></tr><tr><td>Henan</td><td>95.94</td><td>795.71</td><td>891.65</td></tr><tr><td>Hubei</td><td>125.89</td><td>406.12</td><td>532.01</td></tr><tr><td>Hunan</td><td>218.63</td><td>427.33</td><td>645.96</td></tr><tr><td>Guangdong</td><td>201.12</td><td>264.36</td><td>465.48</td></tr><tr><td>Guangxi</td><td>268.24</td><td>482.28</td><td>750.52</td></tr><tr><td>Hainan</td><td>18.74</td><td>42.84</td><td>61.58</td></tr><tr><td>Central south China</td><td>928.57</td><td>2418.64</td><td>3347.21</td></tr><tr><td>Chongqing</td><td>62.14</td><td>148.54</td><td>210.68</td></tr><tr><td>Sichuan</td><td>327.93</td><td>480.17</td><td>808.10</td></tr><tr><td>Guizhou</td><td>103.14</td><td>175.66</td><td>278.80</td></tr><tr><td>Yunnan</td><td>406.34</td><td>294.13</td><td>700.47</td></tr><tr><td>Tibet</td><td>215.56</td><td>15.52</td><td>231.08</td></tr><tr><td>South-west China</td><td>1115.10</td><td>1114.03</td><td>2229.12</td></tr><tr><td>Shaanxi</td><td>144.94</td><td>159.08</td><td>304.02</td></tr><tr><td>Gansu</td><td>64.46</td><td>128.50</td><td>192.96</td></tr><tr><td>Qinghai</td><td>32.90</td><td>19.36</td><td>52.26</td></tr><tr><td>Ningxia</td><td>5.65</td><td>44.21</td><td>49.86</td></tr><tr><td>Xinjiang</td><td>77.35</td><td>296.42</td><td>373.78</td></tr><tr><td>North-west China</td><td>325.30</td><td>647.58</td><td>972.88</td></tr><tr><td>Total</td><td>4273.62</td><td>8419.59</td><td>12693.21</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/dbdf22e0fe1b06ad7b4baac1e980dfbe50417b6017533aaad51b65b9376649e5.jpg",
+        "table_caption": [
+            "Table 6 The theoretical maximum energy potential under different scenario (EJ) "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>2020</td><td>2035</td><td>2050</td><td>2065</td><td>2080</td><td>2095</td></tr><tr><td>BAU</td><td>16.70</td><td>17.46</td><td>17.66</td><td>17.77</td><td>17.63</td><td>17.32</td></tr><tr><td>CCS450</td><td>18.71</td><td>20.65</td><td>21.71</td><td>22.09</td><td>21.87</td><td>21.18</td></tr><tr><td>NOCCS450</td><td>19.16</td><td>21.08</td><td>21.98</td><td>22.45</td><td>22.33</td><td>21.64</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Sources. Figure 1 shows the bioenergy prices for BAU and two limitation concentration scenarios. Growth of bioenergy market prices over time is enhanced by carbon price in a perspective of economics.Note that the carbon price was not added to the price of bioenergy based on the assumption of zero carbon emissions from bioenergy production (Wise et al.,20o9). Bioenergy price under the policy scenarios is much than that in the reference scenario after 2035.Among the two policy scenarios，bioenergy price under the NOCCS $4 5 0 ~ \\mathrm { p p m }$ scenario has a competitive advantage compared to the CCS $4 5 0 ~ \\mathrm { p p m }$ mitigation scenario after 2065,as evidenced by the trends of more bioenergy production from energy crop until the carbon prices are very high. ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7adc53ad376452cfc3b2b3aeed0ee16631201c7aaef1035149e2f37dae38b123.jpg",
+        "img_caption": [
+            "Fig.1 Bioenergy prices along two alternative UCT $\\mathrm { C O } _ { 2 }$ concentration target pathways (index year $2 0 0 5 = 1 . 0 \\rangle$ .Growth of bioenergy market prices over time is enhanced by carbon price under climate policy scenarios in a perspective of economics. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the reference scenario without carbon tax，more and more residue biomass from agriculture and forestry becomes available along with increase in energy demand and energy prices and reaches a projected outputofapproximately3380 PJ $\\mathrm { y r } ^ { - 1 }$ by2050and 4108 PJ $\\mathrm { y r } ^ { - 1 }$ by 2095 (Fig.2).Under the UCT scenarios, the carbon price is charged for the emission of $\\mathrm { C O } _ { 2 }$ This intensifies the demand and increases price of residue biomass for energy and further decreases the use of fossil fuels.The total bioenergy production from residue biomass is 9000 and 9180 PJ by 2050 under CCS $4 5 0 ~ \\mathrm { p p m }$ and NOCCS $4 5 0 \\ \\mathrm { p p m } ,$ respectively，and 11 520 and 11 150 PJ by the end of the century,respectively (Fig. 2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Figure 3 shows the carbon prices calculated within the GCAM that are required to drive a fundamental transformation of the global economy.To achieve the $4 5 0 ~ \\mathrm { p p m }$ $\\mathrm { C O } _ { 2 }$ concentration targets, the policy scenario without CCS will require higher carbon prices than the policy scenario with CCS,especially toward the end of the century. For example,the 2095 carbon price for the CC $\\$ 450\\ p p m$ scenario is $5 0 0 4 ~ \\$ 123,456$ ，which is much higher than the carbon price of $2 9 5 5 ~ \\mathfrak { F } \\mathrm { ~ t ~ } ^ { - 1 } \\mathrm { C } ^ { - 1 }$ under NOCCS $4 5 0 ~ \\mathrm { p p m }$ in 2095.However, the two policy scenarios do not differ substantially from each other in terms of supply of residue biomass after 2035 (Fig. 2). ",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b1e9c44fb8f2a26b24dd19b383e7e7ccd0e7d7d905ffed8f6ba012ce26fb172.jpg",
+        "img_caption": [
+            "Fig.2 The total available supply of residue biomass for energy under different scenarios from 2020 to 2095 (EJ).More and more residue biomass from agriculture and forestry becomes available along with increase in energy demand and energy prices,and the carbon price is charged under climate policy scenarios,which further intensifies the demand and increases price of residue biomass for energy. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/4cb06abc88ef82db89809149de540cb84cf9aaab27a2d538f55600e335300712.jpg",
+        "img_caption": [
+            "Fig.3 Carbon price pathway under different climate policy scenario $( 2 0 0 5 \\mathbb { S } )$ ．The carbon prices calculated within the GCAM that are required to drive a fundamental transformation of the global economy.The policy scenario without CCS will require higher carbon prices than the policy scenario with CCS, especially toward the end of the century for achieving the 450 ppm $\\mathrm { C O } _ { 2 }$ concentration targets. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 shows the total bioenergy production (including residuebiomass， energy crop and MSW) increases substantially over time under all three climate policy scenarios, but with higher bioenergy production under the CCS 450 ppm $\\mathrm { C O } _ { 2 }$ scenario than that under the other two scenarios after 2050. The NOCCS $4 5 0 \\ \\mathrm { p p m } \\ \\mathrm { C O } _ { 2 }$ scenario projects more bioenergy production compared with the other two scenarios before 2050. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 shows the proportion of bioenergy production from residue biomass over time in the total bioenergy production. In the reference scenario，bioenergy production from energy crops accounts for about $6 5 \\%$ of the total bioenergy production after 2035,as a result of no $\\mathrm { C O } _ { 2 }$ emission limitation. In the CCS 450 ppm $\\mathrm { C O } _ { 2 }$ scenario，residue biomass meets nearly half all the bioenergy production in 2035, $5 3 \\%$ by mid-century and $4 0 \\%$ by the end of the century. In the NOCCS $4 5 0 ~ \\mathrm { p p m }$ $\\mathrm { C O } _ { 2 }$ scenario,residue biomass contributes ca. $6 0 \\%$ of all the total bioenergy production in 2035, $5 5 \\%$ by 2050 and ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/94164657175c057a41d2ac72ed5cc09b914bf0dde8f278f42ae02189b1404bd2.jpg",
+        "img_caption": [
+            "Fig.4 The total bioenergy production (including residue biomass,energy crop and MSW) under different scenarios (EJ).In the future,the total bioenergy production substantially shows an increases,but with higher bioenergy production with the CCS scenario than that under two other scenarios after 2050, and the NOCCS scenario accounts for a great proportion in bioenergy production compared with two other scenarios before 2050. "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/6532a3aa9bab1bda36948ddaa1e4a2ca037a4b53dde3432b117187db8e6c74d1.jpg",
+        "img_caption": [
+            "Fig.5 The share of residue biomass and energy crop in the total bioenergy production under different scenarios.In the CCS scenario,residue biomass meets nearly half all the bioenergy production in 2035, $5 3 \\%$ by mid-century and $4 0 \\%$ by the end of the century.In the NOCCS scenario,residue biomass accounts for about $6 0 \\%$ of all the total bioenergy production in 2035, $5 5 \\%$ by 2050 and $4 8 \\%$ by the 2095. Bioenergy production from energy crops contributes to about $6 5 \\%$ of the total bioenergyproductionafter 2035 in the BAU. "
+        ],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$4 8 \\%$ by the 2095.Total bioenergy production will contribute about $31 \\%$ of the total energy production by 2050 and $3 5 \\%$ by 2095.These results show that more biomass energy from residue biomass will be produced under climate policies without carbon tax and additional land and that trade-off between energy prices competitiveness，options of low carbon technology (CCS)and climate policy (carbon tax) is required for bioenergy production. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We evaluated the energy potential of agricultural and forest residues in China and found that the total potential is about 12 693 PJ per year under current conditions. This is close to $10 \\%$ of the total primary energy demand of China in 2013 (110 055 PJ).However, it is important to note these estimated values may be affected by the availability and reliability of data on crop species,harvest index,location,soil properties and seasonal variation (Liao et al.,2004; Zhou et al.,2011). The potential of agricultural residues as a bioenergy source is complicated by their numerous alternative uses including feeding,fodder，fertilizer，household fuels and industrial fuels.Currently,agricultural residues are mainly used for forage $( 2 4 . 5 \\% )$ ，industry materials $( 3 . 9 \\% )$ ，base material for edible mushrooms $( 2 . 3 \\% )$ ，biogas $( 0 . 8 5 \\% )$ direct field restoration $( 1 4 . 1 \\mathrm { - } 1 4 . 6 \\% )$ ，direct combustion by farmers $( 2 4 . 9 \\mathrm { - } 3 0 . 7 \\% )$ ，whereas the rest are lost during collection $( 1 5 \\% )$ ，being discarded or directly burnt $1 2 . 3 \\mathrm { - } 2 0 . 5 \\%$ ）in the field (Bi et al.，2008;Wang et al., 2010).At present,the collectable and utilizable amount of agriculture residues as a bioenergy resource is estimated to be around only $2 3 . 9 \\%$ .In addition,the actual availability is also limited by economic,social,environmental，institutional and policy incentives，logistical considerations，infrastructural and technological constraints,and availability of skilled personnel (Bi,2010; Okello et al.,2013). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Overall,most of residue biomass should be returned to the field for improving soil fertility through maintaining soil organic matter and soil structure. The reasonable residue incorporation rate of $3 . 0 { - } 4 . 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ has been reported to slightly increase soil organic carbon and crop yield for rice and wheat and $4 . 5 { - } 6 . 0 \\mathrm { ~ t ~ h a } ^ { - 1 }$ for corn in China.The amount of residue retention was $1 9 1 1 7 2 1 \\times 1 0 ^ { 4 } \\mathrm { t } ,$ accounting for $2 2 . 7 \\%$ of the total residuebiomassin 2oo8.If theamountof residuesreturned directly to fields $( 9 2 \\times 1 0 ^ { 6 }$ t accounting for $1 0 . 9 \\%$ of the total residue biomass in 2oo8) is also considered, the amount of residue retention represents one-third of the total residue biomassin 2oo8,when a residueretention ratio of $2 . 3 3 \\mathrm { ~ t ~ h a } ^ { - 1 }$ is used (Bi, 201O).Note that this residueretentionratioislowerthan thedesiredresidue retention ratio for maintaining sustainable agroecosystems,which is an important factor in collecting residue biomass for energy production. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Notall forest residues are harvestable. Some of them must be retained for maintaining nutrient levels and preventing soil erosion.This study identified that the logging and processing forest residues would potentially provide 47O1 PJ of energy. Significant variation in the potential is observed，as influenced by numerous factors such as forest type,collectable fraction and geographical location.For example,the average yield of firewood forest in the southern mountain area is as high as $7 . 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ ，but only $3 . 7 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ in the North Mountainarea.Theyield shrub forest is $0 . 7 5 \\mathrm { ~ t ~ h a } ^ { - 1 }$ over the country，with a collectable coefficient of O.2 in the mountain area and O.5 in the plains area (Yuan,2002). Logging residues are usually located in remote regions, leading to difficulties for collecting and utilizing them. Theamount of forest residues available used for renewable energy production is also affected by technical, ecological and environmental factors.In fact, the potential for renewable energy production from logging residues and wood-processing residues is estimated to be about 1286-1607 PJ and 228.5 PJ,respectively，accounting for $3 0 { - } 3 7 . 5 \\%$ and $5 5 \\%$ of logging residues and woodprocessing residues in China (MOA,2006). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In the future, climate policy is a key factor affecting the supply of residue biomass. Imposing carbon tax is projected to be an effective way to reduce $\\mathrm { C O } _ { 2 }$ emissions and mitigate climate change (Wise et al.，2009). Terrestrial carbon storage has been thought to be a low cost method to address the climate change. For example,soil carbon on croplands is a key component of terrestrial carbon storage.In China, croplands (over $1 3 0 ~ \\mathrm { M }$ ha) contain 730 (329-1095) $\\mathrm { T g } \\mathrm { { C } }$ in the topsoil and are estimated to have sequestrated carbon at a rate of about 24.3 (11.0-36.5) $\\mathsf { T g C y r } ^ { - 1 }$ over the last 30 years (Yu et al.,2012,2013).Residue removal may lead to the loss of soil organic carbon，which can be minimized by improved management practices such as nitrogen fertilizer application， straw retention and incorporation and conservation tillage. These practices have been estimatedtoincreasesoilorganiccarbonfrom $3 8 . 5 ~ \\mathrm { M g ~ C ~ h a } ^ { - 1 }$ in 2010 to $5 6 . 9 ~ \\mathrm { M g } \\mathrm { ~ C ~ h a } ^ { - 1 }$ in 2050 on China's croplands (Yu et al.，2013)，which translate to $\\$ 2929\\mathrm{ \\ h a } ^ { - 1 }$ in 2010 and $\\$ 18$ in 2050 with the carbon price under the CCS $4 5 0 ~ \\mathrm { p p m }$ scenario. The carbon sequestration potential through optimal management is estimated to be approximately $2 . 3 9 \\ \\mathrm { P g } \\ C$ over the next 40 years nationally (Smith et al.,2007;Yu et al., 2013).Nevertheless,the carbon sequestration potential in China after 2O5O requires further evaluation under different future climate scenarios and management practices because soil carbon may reach a new equilibrium after 84 years of improved management practices and fertilizer amendment (Yan et al.，20o7;Yu et al., 2013). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this study,GCAM allows farmers to allocate the amount of residues to beretained on the field or to be removed for energy production,based on an economic assessment on carbon price,carbon stocks,the cost and benefit of the bioenergy (Wise et al.，20o9).Notably, imposing climate policies,such as carbon tax，can be difficult as it requires monitoring and evaluating terrestrial carbon emissions and stocks. Solutions to these barriers may require huge amounts of money to identify thelandownersand transfer the decrease orincrease of carbon stocks (Calvin et al.,2014). One limitation of this studyis that projected futureutilization ofresidue biomass depends on a series of assumptions within GCAM including crop productivity, economic growth and land policy. Residue biomass production seems to be highly sensitive to future changes in crop productivity that may reduce land-use change emissions under the climate policy scenario (Wise et al.,2oo9).In addition, the increasing demand for food to feed the rising world population may further limit residue availability (Gregg & Izaurralde,2009;Gregg & Smith,2010).As well,this will likely decrease unit mass collection cost and shift the supply curve accordingly. Dedicated energy crops will occupy more available agricultural land in order to achieve higher biomass yields while reducing production cost to compete with residue biomass by 2095.If crop yields increase only slightly or remain stable in the future，less residue biomasswould be harvested because a higher proportion of the residue must be left in fields to maintain soil quality and reduce erosion. Management options that may increase residue removal rate include the practice of conservation tillage,better crop rotation and the introduction of catch crops.In addition,under a UCT regime,all carbon emissions to be taxed are simulated as the best policy to limit the $\\mathrm { C O } _ { 2 }$ concentration.Forests with a higher below ground storage of carbon will be preferable due to their efficiency in limiting carbon emissions from land-use change.This implies that land polices limit the conversion from forests to bioenergy production and stress food production from agricultural lands (Calvin et al., 2014). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In summary, China is the largest developing agricultural country in the world.Agricultural and forest residues in China have considerable potential to be available as a bioenergy source to provide ca. $10 \\%$ of its total primary energy consumption in 2013.Accurate projection and successful utilization of residue biomass for energy production requires a comprehensive and multifactorial assessment. The integrated assessment results indicate that residue biomass for energy production could play an important role in mitigating the climate change. The production of bioenergy should be achieved in a sustainable way through optimal land management practices by conserving soil quality to enhance interactive economic,environmental and social purposes. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Ministry of Science and Technology of the People's Republic of China (2013BAD11B03 and 2012CB955801) and the National Natural Science Foundation of China (71373142). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Bi YY (2010) Study of straw resources evaluation and utilization. Chinese Academy of Agriculture Science in China PHD Dissertation.   \nBi YY,Wang DL,Gao CY,WangYH (2Oo8) Straw Resources Evaluation and Utilization in China.Chinese Agricultural Sciences and Technology, Beijing.   \nBriunsmaJ(2009) TheResource Outlook to 2050:ByHow Much Do Land,Water,and CropYieldsNeedtoIncreaseby205O?ExpertMeetingonHowto FeedtheWorld in 2050.Food and Agriculture Organization of the United Nations,Rome.   \nCai F,Zhang L, Zhang CH (2012) Potential of woody biomass energy and its availability in China.Journal of BeijingForestry University (Social Sciences),1,03-107.   \nCalvinK,WiseM,KyleP,PatelP,ClarkeL,EdmondsJ(2014) Trade-offsof different land and bioenergy policies on the path to achieving climate targets.Climatic Change,123,691-704.   \nClarke L,Edmonds J, Jacoby H, Pitcher H,Reilly J,Richels R (2007a) CCSP Synthesis and Assessment Product 2.1. Part A:Scenarios of Greenhouse Gas Emissions and Atmospheric Concentration.U.S. Government Printing Office,Washington, DC.   \nClarke L,Lurz J,Wise M,Edmonds J, Kim S, Smith S,Pitcher H (2007b) Model Documentation for the MiniCAM Climate Change Science Program Stabilization Scenarios: CCSP Product 2.1a.PNNL Technical Report.PNNL-16735.   \nCramerJ(ed.)(2O07) Testing Framework for Sustainable Biomass: Final Report from the Project Group \"Sustainable Production of Biomass\".Energy Transition's Interdepartmental Programme Management (IPM),The Netherlands.   \nCui H,Wu R(2012)Feasibilityanalysis of biomass power generation in China. Energy Procedia,16,45-52.   \nCui M,Zhao LX,Tian YS et al.(2Oo8)Analysis and evaluation on energy utilization of main crop straw resources in China.Transactions from the Chinese Society of Agricultural Engineering,12,91-295.   \nEdmonds J, Clarke L,Lurz JWise M (2008) Stabilizing $\\mathrm { C O } _ { 2 }$ concentrations with incomplete international cooperation. Climate Policy,8,355-376.   \nElmoreAJ,ShiX,Gorence NJ,LiX,JinH,Wang F,Zhang X(2008) Spatialdistribution of agricultural residue from rice for potential biofuel production in China. Biomass and ioenergy,3,2-27.   \nEom J, Calvin K,Clarke L et al. (2012) Exploring the future role of Asia utilizing a scenario matrix architecture and shared socio-economic pathways. Energy Economics,34(Supplement 3),S325-38.   \nGregg JS,IzauraldeRC(2009)Efectofropresidueharveston long-term crop yield,soil erosion and nutrient balance: trade-offs for a sustainable bioenergy feedstock. Biofuels,1, 69–83.   \nGregg J Smith S(2010)Global and regional potential for bioenergy from agricultural andforestry residue biomass.Mitigation and Adaptation Strategies for Global Change,15,241-262.   \nGuest G, Bright RM, Cherubini F, Stromman AH (2013) Consistent quantification of climate impacts due to biogenic carbon storage across arange of bio-product systems.Environmental Impact Asssment Reiew,43,30.   \nGustavsson L,Holmberg J Dornburg V, Sathre R,Eggers T,Mahapatra K,Marland G (2007) Using biomass for climate change mitigation and oil use reduction. Energy Policy,35,5671-5691.   \nHe G, Bluemling B,Mol APJ, Zhang L,Lu Y (2013) Comparing centralized and decentralized bio-energy systems in rural China.Energy Policy,63,34-43.   \nIEA (2007） Bioenergy ProjectDeelopment $\\mathcal { E }$ Biomass Supply.International Energy Agency, Paris.   \nIEA (010) World Energy Outlook 2010.International Energy Agency,Paris.   \nIEA(2011) Combining Bioenergy with CCS Reportingand Acounting for Negative Emissions under UNFCCC and the Kyoto Protocol.International Energy Agency,Paris.   \nJiang KJ, Zhuang $\\scriptstyle \\mathrm { X } ,$ Liu Q (2009) China's low-carbon scenarios and roadmap for 2050.Sino-lobalegy   \nJing WR (2O06)Power Generation Utilizing Biological Energy Sources.North China Power Engineering Co.,Ltd, Beijing.   \nKim SH, Edmonds J, Lurz J,Smith S, Wise M (2006) The object-oriented energy climate technology systems (ObjECTS) framework and hybrid modeling of trans\" portation in the MiniCAM Long-term,global integrated assessment model.The Energy Journal Special Isue:Hybrid Modeling of Energy-Environment Policies:Reconciling Bottom-up and Top-down,2,63-91.   \nKlein D,Bauer N, Bodirsky B, Dietrich JP,Popp A (201)Bio-IGCC with CCS a a long-term mitigation option in a coupled energy-system and land-use model.Energy Procedia,4,2933-2940.   \nKyle GP,Luckow P, Calvin K,Emanuel W, Nathan M,Zhou Y (2011) GCAM 3.0 Agriculture and Land Use:Data Sources and Methods.PNNL-21025.Pacific Northwest National Laboratory, Richland,WA.   \nLi Q,Hu S,Chen D,Zhu B (2012) System analysis of grain straw for centralised industrial usages in China. Biomass and Bioenergy,47,77-288.   \nLiao CP,Yan YJ, Wang CZ,Huang H-T (2004) Study on the distribution and quantity of biomass residues resource in China. Biomass and Bioenergy,27,111-117.   \nLiu TF (1986) Technology Economic Manual. LiaoNing Peopes's Publishing House, ShengYang.   \nLuN (1997) Introductionof NewEnergy，pp.152-153.China Agriculture Press, Beijing.   \nLuckow P,Wise MA,Dooley J,Kim SH (2010) Large-scale utilization of biomass energy and carbon dioxide capture and storage in the transport and electricity sectors under stringent $\\mathrm { C O } _ { 2 }$ concentration limit scenarios.International Journal of   \nLv ZW,Wang JL (1998)Evaluation of the nutritional value on Highland barley straw in Tibet.Shaanxi Journal of Agricultural Sciences,2,5-8.   \nMinistry of Agriculture (MOA) of the P.R.C Project Expert Team (1998) Assessment of Biomass Resource AoailabilityinChina.ChinaEnvironmentalSciencePress,Beijing.   \nMinistryof Agriculture (MOA)of the P.R.C Project Expert Team (2006)Preliminary research of wood energy development potential in China.China Forestry Industry, 1, 12–21.   \nNational Bureau of Statistics (NBS)of China of the P.R.C(2003-2007)China Statistical Year Book.China Statistics Press,Beijing.   \nNan ZD,Yang M,Han Wet al. (2008)Fast pyrolysis oil crops straw and characteristics of bio-oil.Chinese Journal of Oil Crop Sciences,30,501-505.   \nNational Bureau of Statistics of China of the P.R.C(2004-2008)China Statistical Yearbook. China Statistics Press,eijing.   \nNiu RF,Liu TF(1984)Agricultural Technology Economic Manual,Revisededn.China Agriculture Press, Beijing.   \nOkell C,PindozziS,FaugnoS,BociaL(3)ioenergypotentialofagrltual and forest residues in Uganda.Biomass and Bioenergy,56,515-525.   \nPimentel D (1994) Renewable energy: economic and environmentalissues. Bioscience, 44, 536–547.   \nShi D (2013)Changes in global energy supply landscape and implications to China's energy security. Sino-Global Energy,18,1-7.   \nSmith JO,Smith P,Watenbach Met al. (2007) Projected changes in the organic carbon stocks of cropland mineral soils of European Russia and the Ukraine,1990- 2070.Global Change Biology,13,342-356.   \nState Forestry Administration (SFA) of the P.R.C (2009)The Seventh National Forest Resources Inoentory and the Status of Forest Resources (2004-2008).State Forestry Administration (SFA) of the P.R.C, Beijing.   \nSunJChen,XiY,HouJ(20l1)Mapping thecostskofagriculturalresdeupply for energyapplication inrural China.Journal of Cleaner Production,19,21-128.   \nTan T,Shang F, Zhang $x$ (2010)Current development of biorefinery in China. BiotechnologyAdoances,28,4-55.   \nThomson A, Calvin K,Smith S et al.(2011) RCP4.5: a pathway for stabilization of radiative forcing by 2100.Climatic Change,109,77-94.   \nWang $\\scriptstyle \\mathbf { X } Z ,$ Liu YM (1984) Study of beet residue utilization.Heilongjiang Animal Scienceand Veterinary Medicine,5,13-15.   \nWang YJ, Bi YY,Gao CY (2010) The assessment and utilization of straw resources in China.Agricultural Sciences in China,9,1807-815.   \nWise M, Calvin KV (2011) GCAM 3.0 Agriculture and Land Use: Technical Descriptionof Modeling Approach.Pacific Northwest National Laboratory.PNNL-20971.   \nWise MK, Calvin A,Thomson L et al. (2009) Implications of limiting $\\mathrm { C O } _ { 2 }$ concentrations for land use and energy.Science,324, 1183-1186.   \nWise MA,Calvin KV,Kyle GP,Luckow P,Edmonds JE (2014) Economic and physical modeling of land use in GCAM3.0 and an application to agricultural productivity,land,and terrestrial carbon. Climate Change Economics,5,1450003.   \nXie GH,Han DQ,Wang XY,Lu RH (2011) Harvest index and residue factor of cereal crops in China. Journal of China Agricultural University,16,1-8.   \nYan H,Cao M,Liu J, Tao B (2oo7) Potential and sustainability for carbon sequestration with improved soil management in agricultural soils of China.Agriculture, Ecosystems&omnt5.   \nYu H, Wang Q, Ileleji KE,Yu C,Luo $Z ,$ Cen K,Gore J (2012) Design and analysis of geographic distribution of biomass power plant and satellite storages in China. Part 1: straight-line delivery.Biomass and Bioenergy,46,773-784.   \nYu Y,Huang Y, Zhang W (2013) Projected changes in soil organic carbon stocks of China's croplands under diferent agricultural managements,2011-2050. Agriculture,Ecosyse $\\mathcal { E }$ Environment,178,109-120.   \nYuan ZH (2002) Research and development on biomass energy in China. International Journalof Energy TechnologyandPolicy,,08-144.   \nZhang XL,Lv W,Zhang CH et al.(2008) China Forest Energy. China Agriculture Press, Beijing.   \nZhang SH, Yang ZX,Wang XH, Chen HP (2012) Experiment on agglomeration characteristics during fluidized bed combustion of tobacco stem. Transactions of the Chinese Society forAgricultural Machinery,43,97-101.   \nZhou XP,Wang F, Hu H, Yang L,Guo P,Xiao B (2011) Assessment of sustainable biomass resource for energy use in China. Biomass and Bioenergy,35,1-11.   \nZhou S,Kyle GP,Yu Set al. (2013) Energy use and $\\mathrm { C O } _ { 2 }$ emissions of China's industrial sector from a global perspective. Enereu Policu. 58.284-294. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    }
+]

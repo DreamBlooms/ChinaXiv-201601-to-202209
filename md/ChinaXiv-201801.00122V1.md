@@ -1,0 +1,111 @@
+# 我国土壤污染防治的挑战与战略定位
+
+陈卫平中国科学院生态环境研究中心城市与区域生态国家重点实验室北京100085摘要：[目的/意义]针对新世纪我国土壤污染凸显的严峻形势，探索能有效改善土壤质量、保护土壤环境和安全利用土地资源的战略机制，对保障农产品质量安全和公众健康、实现土地可持续利用和推动生态文明建设具有重要的现实意义和深远的战略影响。[方法/过程]本文系统分析了我国土壤污染防治过程中面临的主要问题及挑战，并从土壤环境保护和土地安全利用的宏观视角定位土壤污染防治的关键举措。[结果/结论]研究发现，我国土壤污染防治工作以农田和工业用地为治理重点，虽已在多方面取得重大进展，但仍存在以下主要问题：（1）针对农田污染，存在污染物空间异质性强、土壤污染与农产品超标差异大、土壤污染源头管控不到位和农田安全利用困难等问题；（2）针对工业污染地块，存在污染防治的政策法规体系不完善、技术能力建设滞后、片面强调工程修复和修复模式不持续等问题。为保护国家土壤生态安全，促进土地安全利用战略规划，应加快完善土壤污染防治顶层设计，系统开展源头治理、精准治理与综合治理，坚持“可持续修复、适度修复和绿色修复”原则，加强产业链中各利益方的密切合作，开拓多元稳定的土壤修复筹融资渠道，建立土壤环境质量预警机制。
+
+关键词：土地安全利用风险管控 可持续修复土壤污染防治农田污染工业污染地块
+
+分类号：X32；X53
+
+土壤是人类生存、兴国安邦的重要战略资源，关系国家生态安全和生态文明建设的可持续性[1]。随着长期以来我国快速城市化、工业粗放化和农业高度集约化发展，土壤污染问题日益凸显。据2014年环境保护部和国土资源部联合发布的《全国土壤污染状况调查公报》显示，我国耕地和工业用地土壤环境质量尤其堪忧，土壤点位超标率高居其它土地用途之首[2。严峻的土壤环境形势已影响到生态环境、农作物安全、人体健康和社会经济的可持续发展，引起党中央、国务院对土壤污染防治的高度重视。近年来，各级政府和部门陆续采取了积极措施开展土壤污染防治的决策部署和探索实践，并在法规标准制定、修复技术研发和工程示范等方面取得了有效进展，特别是2016年5月国务院发布的土壤污染防治行动计划（简称"土十条”），明确了“预防为主，保护优先，风险管控，安全利用"的土壤污染防治基本思路，从十个方面对有效开展土壤污染防治工作做了系统的战略部署，成为当前和今后一段时期我国土壤污染防治工作的行动纲领。
+
+基于对农田污染的食品安全问题和工业污染地块的公众健康隐患等方面的考量，可以肯定当前及未来很长一段时间我国土壤污染防治的重点将主要集中在农田和工业用地的土壤污染防治。目前，我国土壤污染防治工作仍显滞后，瓶颈问题未得到有效解决，具体表现如下。
+
+1农田土壤污染防治
+
+农田土壤环境质量与农产品质量安全和人体健康密切相关。目前，我国农田土壤重金属污染问题突出，污染率已从20 世纪80 年代末的不足 $5 \%$ ，上升至目前的近 $2 0 \% ^ { [ 3 ] }$ ，总体呈现污染类型增多、污染面积扩大、污染程度加剧、治理难度加大的趋势[4-9]。“用地与养地兼顾、产地与产品一体化”的管理目标与“污染物空间异质性、土壤与农产品差异性、污染源头管控及农田安全利用”等现实问题之间的矛盾为我国农田土壤污染防治工作带来了较大挑战。
+
+# 1.1污染物空间分布异质性强
+
+虽然“土十条”确定了土壤污染状况详查的基本任务，但目前我国农田污染仍家底不清，缺乏对农用地土壤污染及其对农产品质量影响的全面具体的数据。这是因为我国幅员辽阔，土壤类型多样，不同区域土壤重金属的背景值和现状值存在较大差异，加上距污染源距离、农作物品种、田间管理及气候条件等因素的复杂影响，导致农田土壤重金属污染具有较大的空间变异，甚至相邻地块表现出不同的污染特性。污染物空间分布的异质性不仅增加了农田土壤污染状况调查的难度，使得土壤污染状况详查难以落实到污染面积、分布和污染程度上，也不利于修复技术的大面积推广应用。
+
+# 1.2土壤污染与农产品超标差异明显
+
+事实上，土壤污染与农产品超标没有直接的、必然的联系。虽然农产品安全受土壤质量影响，但气候环境、大气与水体污染、重金属赋存形态等众多外源因素的影响也不容忽视，加上重金属在土壤-作物系统中的迁移机制不同，因此农产品中重金属的富集能力随不同作物或同一作物不同品种表现出较大差异[10-14]。这不仅增加了土壤污染治理的难度，也影响了土壤污染治理的效果和稳定性。
+
+# 1.3污染源头管控未引起足够重视
+
+土壤环境是一个开放的复杂系统，决定了土壤污染来源的广泛性。污染物自污染源产生经一定的途径进入土壤并在土壤内部发生一系列物理、化学反应，最后对暴露受体产生影响，形成污染风险的“源-径-汇"机制。控制和消除污染源是土壤污染防治的根本措施，而目前的污染防治过于强调已有污染的治理修复，忽视了对土壤污染的污染源解析及源头防控，导致土壤治理修复过程中仍存在大气沉降、污水灌溉、化肥与农药施用等行为持续的污染物输入。再者，土壤污染源十分复杂，布局分散、数量多、规模小，难以针对各污染源开展分散治理。由此看来，土壤污染防治效果不理想也就不足为奇。
+
+# 1.4农田安全利用存在困难
+
+我国人多地少，在切实保障18亿亩粮食安全红线、农民利益和保障农产品产出能力的前提下开展农田土壤污染防治和土地安全利用更是困难重重。一方面，土壤污染成因复杂，需采取风险管控措施配套工程修复技术的综合治理，但目前仍缺乏大规模、易推广的经济有效的农田土壤污染修复技术，加上农户对农艺调控、替代种植、种植结构调整等风险管控措施的落实缺乏配合，更不利于分散污染的统一管理。另一方面，多数地区治理修复责任及承担主体培育不足，修复措施还需依靠分散农户实施，而受传统耕作方式、收益风险等因素影响，农户参与积极性不高，造成土地流转困难，严重阻滞了土地的安全利用。
+
+# 2污染地块土壤污染防治
+
+随着城市布局和产业结构调整，近年来我国关停并转了大量工业企业，同时遗留了严重的场地土壤污染问题，环境安全隐患突出。结合土壤修复的实践案例可以看出，目前我国污染地块管理的关键问题在于缺乏风险管理理念的正确导向
+
+及对土壤修复投入产出的综合效益考量，导致过度修复、盲目修复和低效修复的现象普遍存在[15-20]，具体来说：
+
+# 2.1政策法规不完善，标准规范不健全
+
+借鉴发达国家污染地块管理的成功经验，土壤污染防治的关键在于有效的制度控制[21]，即完整的围绕核心法律不断补充配套的政策法规体系和精细化技术导则、标准的指导规范，确保土壤污染防治各阶段工作的有法可依、有章可循。目前土壤污染防治专门法律仍未出台，农用地和建设用地土壤环境质量标准还未施行，分级分类的风险管控制度体系尚未形成，缺乏针对不同类型污染地块的修复技术导则和可操作的修复行业规范指引。
+
+2.2技术能力基础薄弱，市场环境亟待完善
+
+自2011年以来，我国土壤污染防治的技术水平和设备自主创新能力快速提升，土壤污染治理专项预算逐年增加，土壤修复产业链不断优化，但相对我国土壤污染防治的现实需求，仍缺乏专业的人才队伍建设、自主设备研发与规模化工程应用、风险管控与可持续修复体系、全过程监管监测的大数据动态管理等技术。在市场方面，涉及资金筹措、市场激励、政府监管、企业操守、三方监督和无序竞争等方面。
+
+# 2.3过分强调工程修复，缺乏风险管控意识
+
+发达国家从全面修复到风险管控再到可持续修复的污染地块管理历程表明，污染地块的全面治理和彻底修复是不现实且不必要的。目前我国正处于从全面修复向风险管控转变的过渡时期，但还未全面树立正确的风险管控导向。土壤污染防治实践中仍普遍存在以绝对安全为目标的“过度修复”，这种治理方式不仅成本高昂，也不利于社会资源的优化配置、土地资源的多功能性和可持续利用，严重违背以风险管控为导向的土壤污染分级、分类、分区管理思想。
+
+# 2.4二次污染问题突出，修复模式不可持续
+
+目前的污染地块治理修复仅考虑降低污染物到目标浓度、易于实施、节省时间等因素，一方面，缺乏对修复工程实施过程中的资源材料消耗及产生的废物、修复材料和装备能源制造过程全生命周期的环境净效益的考量，加上工程操作不规范和部门监管不到位，易引起修复过程的二次污染；另一方面，项目前端设计往往忽视生态系统的完整性，将污染地块与周边环境和城市发展割裂开来，对于如何平衡公众社会效益和企业、政府利益，实现修复土地增值及土地周边企业与区域经济的整体协调发展缺乏深入认识。这种狭隘的修复理念限制了工程措施与非工程措施联合管理的潜在效益，造成土壤污染修复资金需求巨大的财政压力。
+
+3对策与建议
+
+基于我国土壤污染的严峻性和污染防治的紧迫性，在分析我国土壤污染防治存在的主要问题的基础上，根据习近平总书记在十九大报告中加快生态文明体制改革的战略部署，围绕“强化土壤污染管控和修复”的核心要求，本文从土壤环境保护和土地安全利用的宏观视角提出以下土壤污染防治对策。
+
+3.1加快完善土壤污染防治顶层设计
+
+完善顶层设计应从构建政策体系和统筹区域发展两方面开展。首先，以土壤污染防治法为原则性纲领文件，针对不同土地用途，加快制定配套的土壤污染防治标准、实施细则和技术导则，从中央和地方层面切实保证纲领性文件的条目细化、因地制宜和配套落实，系统有效的规范和指导土壤污染防治各阶段工作。目前这方面工作正深入推进，土壤污染防治法已经经过人大第一次审议，其他标准如《农用地土壤环境管理办法（试行）》也于近日施行。其次，明确治理思路，统筹土壤污染防治工程与地方基建项目、土地利用规划和区域发展布局的整体设计，优化社会资源配套和土地利用效率。
+
+# 3.2“三个治理”齐头并进
+
+同时推进土壤污染防治工程的源头治理、精准治理与综合治理，从“防”和“治”两个角度入手解决土壤污染问题：第一，土壤污染防治的重点在于源头防范，推动土壤环境管理从末端治理向源头预防的转变，预防和控制产生新污染，促进大气、水、土壤污染防治行动计划所涉及的重点污染行业企业实现清洁化转型和污染物减排，尽快改变“边污染，边治理”的管理模式。第二，土壤污染与大气污染、水污染密切相关，同时又具有明显的区域性、局部性特征，针对土壤污染物开展精细化治理的同时，也应兼顾生态环境的系统性和区域发展的整体可持续性，将大气、水体及其他可能影响因素纳入保护行动框架之中。
+
+# 3.3 树立基于风险的“三个修复”理念
+
+借鉴发达国家的绿色智能可持续修复理念，树立我国污染土壤修复的可持续修复原则、适度修复原则和绿色修复原则：第一，将可持续发展的理念贯穿于整个工程初始设计、实施和后期监测，综合考虑环境、社会和经济三方面因素，依据项目目的、成本、时间等，设计基于生命周期评价和成本效益分析的合理的修复技术方案。改变传统的“一刀切”治理模式，建立以风险管控为核心思想的集污染预防、风险管控、治理修复和土地流转再利用为一体的土壤可持续管理策略。第二，采取可有效控制潜在风险同时改善土壤功能的修复技术方案，从环境敏感性的角度降低或消除风险，结合城市发展和城市空间规划，适度修复，减少修复行为自身的环境足迹，实现环境、社会及经济效益的有机统一。第三，在保障人体健康和环境安全的同时，采用环境友好的多手段原位联合修复技术，避免二次污染和破坏土壤生态功能，同时也要保障修复效果的长期性和可持续性。
+
+# 3.4加强产业链中各利益方广泛合作
+
+利益相关者合作主要表现为土壤污染防治项目中各职能和土壤污染防治产业具有涉及领域广、专业性强、地域特色明显的特点，涵盖科技研发、工程施工、项目咨询、部门监理等多个环节。开展国内与国际、企业与政府的密切合作，特别是促进科学家与企业、政府对接，带动科技成果的转化落地，可显著提高社会资本利用效率和平衡各方利益，加快土壤治理修复新兴战略产业的健康有序发展。
+
+# 3.5拓宽融资渠道与筹资主体
+
+据估计，完成全部风险土地修复需数万亿的资金投入，目前用于土壤污染防治的中央专项资金远不能满足巨大的市场空间。虽然坚持“污染者付费”原则，实践证明，其在执行中会遇到各种挑战，如无法追溯责任人的历史污染、责任人无力承担巨额修复资金、多个污染方如何划分责任等。因此，有必要加强发挥市场作用，制定资金管理办法和使用制度，拓宽土壤修复融资渠道和资金缴纳主体。如利用土壤修复后巨大的再利用价值激励政府和社会资本合作的（PPP）模式，吸引国际基金、高风险企业保证金制度、环境税等其他创新融资手段。尽快建立以“谁污染谁治理，谁受益谁付费”为原则的多主体、多渠道、多目标的投融资体系，确保修复资金来源的稳定性、多元化和修复工作的可持续开展。
+
+# 3.6建立土壤环境质量预警机制
+
+土壤污染的隐蔽性、滞后性、累积性特点使得土壤污染难以被及时查明。而土壤一旦被污染，则影响范围大、影响时间长、危害严重、治理修复难、治理成本高，因此必须坚持“预防为主，保护优先”的原则，建立土壤环境质量预警机制，准确预测土壤环境质量的时空变化趋势。根据预警结果，及时采取调整产业布局、合理规划土地用途等措施有效防止土壤环境质量恶化，宏观调控区域空间尺度上土壤环境风险管理的战略实施，最终实现农产品质量安全、人体健康、生态环境保护、土地安全利用和社会经济协调发展的五者统一。
+
+# 参考文献：
+
+[1]赵其国，骆永明．论我国土壤保护宏观战略[J]．中国科学院院刊,2015,30(4):452-458. [2]环境保护部，国土资源部．全国土壤污染状况调查公报 [EB/OL].[2017-10-22]. http://websearch.mep.gov.cn/was40/search.   
+[3] 陈印军，方琳娜，杨俊彦．我国农田土壤污染状况及防治对策[J].中国农业资源与区划, 2014, 35 (4): 1-5.   
+[4]中华人民共和国环境保护部．2014 年中国环境状况公报[EB/OL]．[2017-10-22]. http://www.zhb.g0v.cn/gkml/hbb/qt/201506/t20150604_302942.htm.   
+[5]赵其国，黄国勤，钱海燕．生态农业与食品安全[J]．土壤学报,2007,44(6):1127-1134. [6] 宋伟，陈百明，刘琳．中国耕地土壤重金属污染概况[J]．水土保持研究，2013，20(2): 293-298.   
+[7]_Teng Y, Wu J, Lu S, et al. Soil and soil environmental quality monitoring in China: A review [J]. Environment International, 2014, 69: 177-199.   
+[8] Li M, Xi X, Xiao G, et al. National multi-purpose regional geochemical survey in China [J]. Journal of Geochemical Exploration,2014,139: 21-30.   
+[9]曾希柏，苏世鸣，马世铭，等．我国农田生态系统重金属的循环与调控[J]．应用生态学 报,2010,21(9):2418-2426.   
+[10] 曾希柏，徐建明，黄巧云，等．中国农田重金属问题的若干思考[J]．土壤学报，2013, 50(1): 186-194.   
+[11] Yang Y, Wang M, Chen W, et al. Cadmium accumulation risk in vegetables and rice in southern China: insights from solid-solution partitioning and plant uptake factor [J]. Journal of Agricultural and Food Chemistry, 2017, 65(27): 5463-5469.   
+[12] Ding C, Zhang T, Wang X, et al. Prediction model for cadmium transfer from soil to carrot (daucus carota l.） and its application to derive soil thresholds for food safety [J]. Journal of Agricultural and Food Chemistry,2013,61(43): 10273-10282.   
+[13]王美娥，彭驰，陈卫平．水稻品种及典型土壤改良措施对稻米吸收镉的影响[J].环境科 学,2015,36(11): 4283-4290.   
+[14] Liu W,Liang L, Zhang X, et al. Cultivar variations in cadmium and lead accumulation and distribution among 3O wheat (Triticum aestivum L.） cultivars [J]. Environmental Science and Pollution Research,2015,22(11): 8432-8441.   
+[15] Duan G, Shao G, Tang Z, et al. Genotypic and environmental variations in grain cadmium and arsenic concentrations among a panel of high yielding rice cultivars [J]. Rice,2O17,10(1): 9. [16]姜林，钟茂生，张丽娜，等．基于风险的中国污染地块管理体系研究[J].环境污染与防 治,2014,36(8): 1-10.   
+[17]龚宇阳，王静．美国超级基金法对我国污染地块修复的启示[J].世界环境，2016，4: 21-24.   
+[18]谷庆宝，颜增光，周友亚，等．美国超级基金制度及其污染地块环境管理[J].环境科学 研究,2007,20(5):84-88.   
+[19] Li X, Jiao W, Xiao R,et al. Contaminated sites in China: Countermeasures of provincial governments [J]. Journal of Cleaner Production, 2017,147: 485-496.   
+[20] Li X, Jiao W, Xiao R,et al. Evolution of Soil Polltion and Site Remediation Policies in China [J]. Environmental Reviews,2015,23:1-12.   
+[21] 周友亚，严增光，郭观林，等．污染地块国家分类管理模式与方法[J].环境保护，2007, 10: 32-35.   
+[22] UnitedStatesEnvironmentalProtectionAgency.SuperfundRemedyReport [EB/OL]. [2017-10-22]. https://www.epa.gov/remedytech/superfund-remedy-report.
+
+# Challenges and Strategies for Soil Pollution Prevention and Control in China
+
+Chen Weiping1 lState Key Laboratory of Urban and Regional Ecology, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences, Beijing 100085
+
+Abstract:[Purpose/significance] In the context of severe soil pollution in China, thispaper explores efficient strategies to improve soil quality， protect soil environment and use land resource safely,in the meanwhile, has important practical significance and profound strategic impact for food safety，public health，land sustainability use and ecological civilization construction.[Method/process] This paper systematically analyzes the challenges in the process of soil pollution prevention and control,and further proposes key measures in soil pollution treatment in the macro perspective of soil environment protection and land safety use. [Result/conclusion] The results show that soil pollution prevention and control in China focuses on farmland and contaminated sites.The nonignorable problems do exit though apparent progress has been made，such as: (1） Farmland pollution is facing critical challenges, including spatial heterogeneity of pollutants distribution, lack of linear relationship between pollutants in soil and those in crop,inadequate control of pollution source and difficult safety use of farmland; (2) For contaminated sites， problems including imperfect policy system， lagging technical capacity construction， unreasonable engineering remediation and unsustainable remediation mode have caused the government's attention. In this sense, strategies should be put forward as soon as possible to protect national soil ecological security and promote strategic planning of land use, specifically, to improve the top design of soil pollution prevention and control， to carry out pollution source management， precision management and comprehensive management systematically, to obey the principles of sustainable remediation, moderate remediation and green remediation, to widen the close cooperation among stakeholders involving in soil industrial market, to innovate various and stable funding approaches for soil remediation,and one more,to establish soil environment quality warning mechanism.
+
+Keywords: Land safety use risk management sustainability remediation soil pollution prevention and control farmland pollution contaminated sites 收稿日期：2017-11-17 修回日期：2017-12-04 本文责任编辑：唐果媛

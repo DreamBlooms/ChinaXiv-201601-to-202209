@@ -1,0 +1,606 @@
+[
+    {
+        "type": "text",
+        "text": "基于改进花朵授粉的K-均值聚类算法\\*",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陶志勇1，刘晓芳1,2†，刘影1，王和章1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.辽宁工程技术大学 电子与信息工程学院，辽宁 葫芦岛 125105;2.阜新力兴科技有限责任公司，辽宁 阜新123000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对K-means 聚类算法依赖于初始值并易陷入局部最优值的问题，提出了一种基于改进花朵授粉的 K-means聚类算法。该算法首先通过混沌映射的序列作为花朵种群的初值位置，保证花朵种群在搜索空间的多样性、确定性；然后在花朵授粉的后期搜索阶段引入禁忌搜索算法以避免陷入局部最优解；最后将改进后的FPA算法用以优化K-means 算法的初值。在5个聚类数据集上的实验结果表明，改进后算法的平均聚类准确率相比于花朵授粉聚类算法提高了 $12 . 2 \\%$ ，证明了该算法对于低维数据集具有更好的聚类效果。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：聚类；花朵授粉；混沌映射；禁忌搜索；k-means 中图分类号：TP301.6 doi:10.3969/j.issn.1001-3695.2018.05.0301 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K-means clustering algorithm based on improved flower pollination ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tao Zhiyongl, Liu Xiaofang1, 2†, Liu Yingl, Wang Hezhang1 (1.SchoolofElectronic&InformationEngineringLiaoningTechnicalUniversity,HuludaoLiaoning251o5,Chna2.Fuin LiXing Technology Company Limited,FuxinLiaoning1230oo,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorder to solve theproblemthatk-meansclusteringalgorithmisdependentonthe initialvalueandeasilyfals into the local optimum,this paper proposeda K-means clustering algorithm basedon improved flower polination.Firstly,the algorithmused thechaotic mapsequenceas the initialpositionofthe flower population to ensure the diversityanddeterminacy oftheflowerpopulationinthesearchspace;Then,it introducedatabusearchalgorithminthelate stageoflowerpolliation toavoid fallng intothelocaloptimalsolution;Finall,usedteimprovedfowerpollnationalgorithmtooptimizetheinitial value of the $\\mathbf { k }$ -means algorithm.Experimentalresults on five clustering datasets show thatthe improved algorithm improves the average clustering accuracy by $12 . 2 \\%$ compared with the flower pollination clustering algorithm, which proves that the proposed algorithm has better clustering performance for low-dimensional datasets. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:clustering; flower pollination; logistic map; tabu search;K-means ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "在当前应用于计算机数据分析的各种方法中聚类是较为常见且广泛应用的算法，尤其适合于进行模式识别、数据挖掘、图像分析等工作[11，这种算法分析的结果会依据数据的相似度对结果分类，使得相似度高的数据划为一类，相似度低的数据区分到不同种类。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "K-means因其实现简单、收敛速度快的优点而成为常用的聚类算法，但其聚类效果易受初始聚类中心的影响，而随机选取聚类中心的方法易使算法陷入局部最优值，为此许多学者对K-means 算法初始聚类中心的选取进行了改进。Duwairi等人[2]针对传统K-means 算法对初值中心敏感的问题，提出了一种初始化球形K-means算法，该方法在初始化阶段随机扰动未知解，并为集群的紧凑性引入了一种新的评估度量方法，该度量方法测量矢量对应聚类中心的方向离散度，并根据离散度确定最终聚类结果。Kumar等人[3将聚类中心定位在数据集的高密度区并确保每个聚类中心相隔较远，而密度区通过kd树进行标志，此方法提高了K-means算法的聚类性能，但增加了算法的时间复杂度。Bianchi等人[4提出了一种基于密度的非度量空间，它使用输入数据中最具有代表性的模型估计聚类中心，该方法不依赖数据集的形状，但算法的计算量十分庞大。为此，学者考虑使用群智能算法优化初始聚类中心。如Hu等人[5将差分进化算法中的差向量代替果蝇算法的随机搜索，结合后的算法用于优化K-means 算法。Rahman 等人[提出将遗传算法与K-means结合用于自动确定聚类中心，但因遗传算法局部搜索能力弱并易早熟，导致聚类精度不高。王波等人[提出了自适应布谷鸟与K-means 相结合的算法，并利用MapReduce 编程模型实现了算法的并行化，但因布谷鸟算法自身的缺点导致最终的聚类效果不理想且运行时间长。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花朵授粉算法（flowerpollination algorithm,FPA）[8]是最新提出的一种群智能优化算法，基础的花朵授粉算法由于某些缺点已被学者们进行了改进，其中国外学者Draa对此进行了定性和定量分析[9]；Sayed提出了将克隆技术和花朵授粉算法融合在一起的混合二进制算法，并以此进行特征选择[10]；Galvez 提出了一种多模态的花朵授粉算法，通过多模式功能对原始花朵授粉算法进行增强，以便在优化问题中找到所有可能的最优解[1]。国内学者对FPA算法也进行了大量的改进，文献[12]将差分进化策略与FPA算法进行融合，增强了种群的多样性，提高了算法的全局搜索能力；文献[13]在算法的全局寻优阶段采用自适应步长策略，在局部寻优阶段引入单纯形法以提高搜索能力；文献[14]利用高斯变异对全局搜索进行扰动以提高种群多样性，并加入了Powell法以提高局部开发能力。虽然以上文献对FPA算法的寻优能力进行了改进，但其仍存在收敛速度慢、寻优精度低的缺点。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于此，本文提出一种结合混沌理论和禁忌搜索的花朵授粉算法。该算法首先利用混沌理论初始化花朵种群，增加种群的多样性，加快算法的迭代速度；其次在搜索后期引入禁忌搜索，避免算法陷入局部最优解；然后将改进后的花朵授粉算法应用于K-means算法上，以确定聚类中心，增强了聚类效果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 聚类算法和花朵授粉算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 聚类相关问题",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "聚类问题是指：对于一个样本数为 $n$ 的数据集$Y = \\{ Y _ { 1 } , Y _ { 2 } , \\cdots , Y _ { n } \\}$ ，将其划分为 $k$ 个类，即 $C = \\{ C _ { 1 } , C _ { 2 } , \\cdots , C _ { k } \\}$ 。数据聚类的目的是尽量减小数据间的距离，即减小数据点和它所属集合的中心( $C _ { j }$ )，表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nM S E = \\sum _ { i = 1 } ^ { n } \\operatorname* { m i n } \\{ \\left\\| Y _ { i } - C _ { j } \\right\\| \\ \\left| \\ j = 1 , 2 , \\cdots , k \\right| \\}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $Y _ { i }$ 是给定的数据集， $C _ { j }$ 是聚类中心。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 K-means 算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "传统的K-means算法是从数据集随机选择 $k$ 个数据点作为初始聚类中心，对于剩下的点分配给离其最近的聚类中心，然后将每一类的平均值作为新的聚类中心，循环这一过程。K-means算法的过程如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a)随机选择 $k$ 个点作为聚类中心。  \nb)确定剩余数据点到其最近的聚类中心。  \nc)重新计算聚类中心。  \nd)重复这一过程直到每个数据点和最近的数据中心的平方",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "和不变。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3花朵授粉算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花朵授粉算法是模拟大自然中开花植物授粉的群智能优化算法。花朵授粉的过程分为两种，一种为异花授粉，其中异花授粉在大自然中是指授粉过程需要借助外力，比如蜜蜂、昆虫等授粉者且其符合莱维飞行，这一过程在花朵授粉算法中称为全局搜索。自花授粉是指花粉的传播不需要授粉者，而是利用风进行授粉，这一过程为局部搜索。算法中的全局搜索和局部搜索由转换概率 $p$ 决定。在现实中，每朵花可产生数百万乃至更多的花粉，为了简化问题，在算法中假设每颗显花植物仅有一朵花每朵花仅有一个花粉，这意味着一朵花或一个花粉对应优化问题中的一个解。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "花朵授粉算法需要达到以下理想条件：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）生物异花授粉过程中携带花粉的传播者（鸟、蜜蜂等）通过莱维飞行进行全局授粉；b）非生物自花授粉是指算法中的局部搜索过程；c）花的常性是指繁衍概率，繁衍概率与参与的两朵花的相似性成比例关系；d)转换概率 $\\boldsymbol { p } \\in [ 0 , 1 ]$ 决定全局搜索和局部搜索之间的转换，由于风和物理距离等其他因素的影响，在整个授粉过程中， $p$ 值的选取非常关键；",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，以上理想条件在花朵授粉算法可以用数学公式进行描述。当 $p > r a n d$ 时，算法执行全局授粉，可由式（2）实现。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\boldsymbol { x } _ { i } ^ { t + 1 } = \\boldsymbol { x } _ { i } + \\gamma L ( \\boldsymbol { \\lambda } ) ( g _ { * } - \\boldsymbol { x } _ { i } ^ { t } )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { x } _ { i } ^ { t + 1 }$ 、 $\\boldsymbol { x } _ { i } ^ { t }$ 分别指第 $t + 1$ 代和第 $t$ 代的解， $g _ { * }$ 表示当前种群中的最优解， $\\gamma$ 是控制步长的缩放因子，本文中 $\\gamma = 1$ ， $L ( \\lambda )$ 表示对应于花朵个体的莱维飞行位移， $L ( \\lambda )$ 的表示式如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nL ( \\lambda ) \\sim { \\frac { \\lambda \\Gamma ( \\lambda ) \\sin ( { \\frac { \\lambda } { 2 } } \\pi ) } { \\pi } } { \\frac { 1 } { s ^ { 1 + \\lambda } } } ( s > > s _ { 0 } > 0 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\Gamma ( \\lambda )$ 为伽马函数、 $\\lambda = 3 / 2$ ， $s$ 由式（4）决定。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = \\frac { \\mu } { \\left| \\nu \\right| ^ { 1 / \\lambda } } ; \\mu \\sim N ( 0 , \\sigma ^ { 2 } ) , \\nu \\sim N ( 0 , 1 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "式中的 $\\sigma ^ { 2 }$ 由式（5）得到：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sigma ^ { 2 } = \\left( \\frac { \\Gamma ( 1 + \\lambda ) } { \\lambda \\Gamma [ \\displaystyle \\frac { 1 + \\lambda } { 2 } ] } \\cdot \\frac { \\sin ( \\displaystyle \\frac { \\lambda } { 2 } \\pi ) } { 2 ^ { \\frac { \\lambda - 1 } { 2 } } } \\right) ^ { \\frac { 1 } { \\lambda } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "当 $p < r a n d$ 时，算法进行局部授粉，如式（6）所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ x _ { i } ^ { t + 1 } = x _ { i } ^ { t } + \\varepsilon ( x _ { j } ^ { k } - x _ { l } ^ { k } ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\varepsilon \\in [ 0 , 1 ]$ ， $\\boldsymbol { x } _ { i } ^ { t }$ 是第 $t$ 代花粉 $i$ ，解向量 $x _ { i }$ 、 $\\boldsymbol { x } _ { j } ^ { t }$ 、 $\\boldsymbol { x } _ { k } ^ { t }$ 分别代表同种植物的不同花朵的花粉，等同于种群的两个随机解，可增强种群的多样性，从而提高算法的局部搜索能力。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 改进的花朵授粉算法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基本的花朵授粉算法存在如下两个缺点：a)种群缺乏多样性；b)收敛速度慢，易陷入局部最优。针对缺点a）本文引用混",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "沌序列来增强多样性；针对缺点b）本文在后期搜索阶段引用禁忌搜索表，使花粉以较快速度找到最优解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1混沌优化策略",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "花朵授粉算法如常见的启发式优化算法一样对初始值比较敏感，因其在初始化阶段使用随机初始化，导致寻优过程中会增加迭代次数，尤其在处理复杂的非线性和多模态的问题时会降低整体的速度和精度。而混沌序列因其自身的特性可以弥补随机初始化种群分布不理想的缺陷。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "混沌序列已经被应用于大量的演化算法，同时也证明该理论对于增加种群多样性、提高算法的收敛速度具有可行性。混沌序列因本身具有遍历性，相比于盲目无序的随机搜索利用混沌变量进行优化搜索更有优越性，同时可减小演化算法陷入局部最优解的缺点。其基本原理是将待优化的未知量映射到混沌空间([0,1])，利用混沌映射规则，在混沌空间中搜索，并将搜索后得到的解映射回原始空间。用混沌序列初始化种群，可以使花朵个体在解空间进行遍历搜索，克服原始花朵种群初始化分布不均匀的问题。有多种生成混沌序列的混沌映射，本文使用Logistic map 来产生混沌序列的初始花朵种群，其函数的形式如式（7）所示[15]。",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i + 1 } = \\alpha x _ { i } ( 1 + x _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\alpha$ 是混沌系数， $\\alpha \\in [ 0 , 4 ]$ ，本文取 $\\alpha = 4$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在式（7）中， $x _ { i + 1 }$ 是随机初始化的混沌序列， $x _ { i + 1 }$ 的范围在0\\~1。使用混沌序列初始化花朵种群的过程为：首先随机初始化生成一个具有 $n$ 个花粉的种群P；然后使用式（7）产生与种群P对应的混沌种群CP。由于此方法对于使用混沌方式得到的种群仍然有初始化的个体，为了减小这部分个体对整体种群造成降低求解精度、减慢收敛速度的影响，对每次迭代得到的最优解采用式(7)进行一次混沌映射，得到的混沌解与最优解对比，若混沌解较优，则使用混沌解替代当前最优解，否则，保留当前的最优解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2禁忌搜索法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "禁忌搜索算法（tabusearch，TS）是一个用于局部优化的启发式算法，与常见的局部优化算法不同的是该算法采用禁忌技术，即禁止重复前面的工作，使用一个禁忌表记录下已经到达过的局部最优点，在下一次搜索中，利用禁忌表中的信息不再或有选择地搜索这些点[16]。上述过程使用流程框图描述如图1所示。采用的停止条件：给定每次运行后总循环的次数，即最大迭代步数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 基于改进花朵授粉的K-均值聚类算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上两点改进提出了基于改进花朵授粉的 $k$ 均值聚类算法。该算法的基本思想是：通过改进的FPA算法进行一次迭代寻优，将得到的新位置作为K-means算法的初始点并进行一次聚类，再用聚类获得的新的中心点更新花群，反复交替执行FPA算法和K-means算法直至算法结束。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进后的FPA算法计算步骤描述如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)对所有参数进行初始化。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)对种群 $\\mathrm { ~ \\bf ~ P ~ }$ 中的 $n$ 个花粉使用Logistic Map，利用式（1)计算每个花粉 $\\{ z _ { 1 } , z _ { 2 } , \\cdots , z _ { n } \\}$ 的适应度 $f ( x )$ □",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)对初始花群进行一次K-均值聚类，再次利用式（1）对每个花粉的适应度值进行计算，记录当前所得到的全局最优解和其对应的最优值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)如若 $p > r a n d$ ，则利用式（2）对所得到的解进行更新，并对解进行越界处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)如若 $p < r a n d$ ，那么根据式（6）对解进行更新，并对解进行越界处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)将 d)e)得到新解的适应度值与未更新的解进行比较，若新解的适应度更优，则用新解替换未更新的解作为最优解，否则保留未更新的解和其适应度值。对新花粉进行一次K-means聚类，并用划分后形成的新聚类中心更新花粉。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)若 $t > [ N _ { - } i t e r / 2 ]$ 转至 Step8，否则转至 Step4。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "h)利用TS算法的基本步骤对新种群进行局部寻优。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i)判断结束条件，若满足，则输出聚类结果；否则转至d)。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8539fb264fac0d19150bb8f41c4ee67f8a22b5b58364dc943df385351ff12a5.jpg",
+        "img_caption": [
+            "图1禁忌搜索流程"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 仿真实验与结果分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文算法的优越性及有效性，采用两组实验对改进算法进行验证，第一组实验是对本文算法、文献[12]算法（DEFPA）、标准FPA算法、差分进化算法（differentialevolution,DE）算法、粒子群算法（particle swarm optimizati-on，PSO）算法及人工蜂群算法（artificialbeecolony，ABC）分别在5个数据集上进行算法有效性测试；第二组实验是对数据集的聚类能力进行测试。实验环境：CPU为InterCorei3-2350，内存为4GB，操作系统为Window7，开发软件为Matlab2015a。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4.1改进FPA算法性能测试 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在本节中，选取了5个数据集来验证所提出算法的有效性，其中包括2个人工数据集和3个实际数据集（从UCI机器库中选取)。对于这些数据集，每个算法分别运行20次，得到的最优值、最差值、平均值和标准偏差分别记录在表1、2、4、5、6中，其中粗体表示本文算法优于另两个算法，下划线表示其他算法更好。针对每个数据集的算法收敛曲线如图2\\~6所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中人工数据集1（art1）是一个3维5类包含250个样本点的数据集，每一类服从均值分布，分别为 $U _ { 1 } ( 8 5 , 1 0 0 )$ ，$U _ { \\scriptscriptstyle 2 } ( 7 0 , 8 5 )$ ,U(55,70), $U _ { 4 } ( 4 0 , 5 5 )$ ， $U _ { 5 } ( 2 5 , 4 0 )$ [17];表1列出了art1数据集的算法比较，算法的收敛曲线如图2所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dd93d2ccd90b4ad839aba11d73ffa220dec51f05a5d0c46217f963629e208d7.jpg",
+        "table_caption": [
+            "表1在art1上各算法适应度比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>最优值</td><td>最差值</td><td>均值</td><td>标准偏差</td></tr><tr><td>本文算法</td><td>1709.31</td><td>2105.73</td><td>1984.45</td><td>189.98</td></tr><tr><td>DEFPA</td><td>1806.67</td><td>2109.28</td><td>1978.65</td><td>86.02</td></tr><tr><td>FPA</td><td>1977.74</td><td>2418.71</td><td>2173.41</td><td>115.49</td></tr><tr><td>DE</td><td>1752.89</td><td>2495.90</td><td>1992.03</td><td>200.67</td></tr><tr><td>PSO</td><td>1773.82</td><td>2444.89</td><td>2205.41</td><td>312.73</td></tr><tr><td>ABC</td><td>1902.56</td><td>2206.78</td><td>2079.42</td><td>107.49</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6da76f7dee8ace9a8a54a25cfb298a154c3180c1dff9dd405c7c81ae0449493f.jpg",
+        "img_caption": [
+            "图2各算法在art1上的收敛图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表1可知，本文算法的最优值、最差值均优于其余5个算法，虽然DEFPA算法的均值和标准偏差较小，但其最优值较差。同时由图2的6条仿真曲线可知，与其他5个算法相比，本文算法的适应度曲线较平滑，且收敛速度更快。这主要是由于本文算法在初始阶段加入混沌策略增强了全局搜索能力，加快了收敛速度，同时禁忌列表的引入保证了算法避开局部最优区域。虽然相比DEFPA算法在迭代初期聚类效果没有较大程度的改善，但在25次迭代之内本文算法有找到最优解的趋势。相比于DEFPA算法和DE 算法，PSO 算法的平均适应度略大，但在迭代50次能较快地趋于最优解，收敛速度更快，ABC算法和FPA算法随机初始种群，导致在75次迭代之前表现较差，寻找最优解能力较差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人工数据集2（art2）是一个2维4类包含600个样本点的数据集，所有的数据点由4个独立的双变量正态分布组成，分布形式如式（8）所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nN _ { 2 } \\Bigg ( \\mu = \\left( \\begin{array} { c } { { m _ { i } } } \\\\ { { 0 } } \\end{array} \\right) , \\Sigma = \\left[ \\begin{array} { c c } { { 0 . 5 } } & { { 0 . 0 5 } } \\\\ { { 0 . 0 5 } } & { { 0 . 5 } } \\end{array} \\right] \\Bigg )\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ni = 1 , 2 , 3 , 4 , m _ { 1 } = - 3 , m _ { 2 } = 0 , m _ { 3 } = 3 , m _ { 4 } = 6\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mu$ 和 $\\Sigma$ 分别表示均值向量和协方差矩阵 $[ 1 7 ]$ 。对于人工数据集2的算法比较如表2所示，算法收敛情况如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/380ec23d7dc96339e53f0fa5516038378f66bd92af47e006cc5a8beddf2aa00a.jpg",
+        "table_caption": [
+            "表2在art2上各算法适应度比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>最优值</td><td>最差值</td><td>均值</td><td>标准偏差</td></tr><tr><td>本文算法</td><td>512.05</td><td>512.07</td><td>512.06</td><td>2.13e-12</td></tr><tr><td>DEFPA</td><td>513.67</td><td>515.45</td><td>514.07</td><td>0.52</td></tr><tr><td>FPA</td><td>517.18</td><td>568.86</td><td>538.64</td><td>14.96</td></tr><tr><td>DE</td><td>512.01</td><td>514.21</td><td>513.94</td><td>0.08</td></tr><tr><td>PSO</td><td>513.90</td><td>514.20</td><td>513.95</td><td>0.04</td></tr><tr><td>ABC</td><td>514.69</td><td>534.42</td><td>518.32</td><td>4.43</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8026512ee762e0adcbfe9b0eb72ff305356af5dd5c51d47b92492045edf95cd7.jpg",
+        "img_caption": [
+            "图3各算法在art2上的收敛图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由表2可知，本文算法的最优值、最差值、均值、标准差在6个算法中最好，其中适应度的大小表示聚类效果的好坏，适应度越小表示聚类效果越好，本文算法的最优适应度低于FPA 算法5.13，且标准差接近于0，表明本文算法的聚类效果明显，稳定性较好。由图3可知，本文算法在25次迭代之内以较快速度接近全局最优解，在25\\~50次迭代之内即达到最优解，这表明本文算法的全局和局部搜索能力有明显增强，能精准确定聚类中心，提高聚类效果。PSO 算法在50次迭代达到的最优值与本文算法相近，但因局部搜索能力较弱，其易陷入局部最优。DEFPA算法在25\\~50次迭代之间适应度变化不大，表明已陷入局部最优。ABC算法的初始阶段随机选择聚类中心导致前期聚类效果较差，且在局部最优解附近多次迭代导致收敛速度减慢。FPA算法初始阶段表现良好，但寻找聚类中心的能力较弱，导致聚类适应度最高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从UCI中选取的3个真实数据集[18]的各项属性如3表所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c077b9ab183b84a61bb4f2eb79c6b14a014cea136721ba976fc3b5da60435535.jpg",
+        "table_caption": [
+            "表3数据集属性"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>数据集</td><td>样本点</td><td>维数</td><td>类别数</td></tr><tr><td>Iris</td><td>150</td><td>4</td><td>3</td></tr><tr><td>Wine</td><td>178</td><td>13</td><td>3</td></tr><tr><td>Heart</td><td>270</td><td>13</td><td>2</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中3个数据集的算法比较值在表4\\~6中，收敛情况如图4\\~6 所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f84700c57e42edde64075cef51525444676c0b2c838b88854e62d019bf1d3a5b.jpg",
+        "table_caption": [
+            "表4在Iris上的算法适应度比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>最优值</td><td>最差值</td><td>均值</td><td>标准偏差</td></tr><tr><td>本文算法</td><td>94.56</td><td>94.56</td><td>94.56</td><td>7.8e-13</td></tr><tr><td>DEFPA</td><td>96.67</td><td>97.09</td><td>96.34</td><td>0.23</td></tr><tr><td>FPA</td><td>97.47</td><td>103.57</td><td>99.79</td><td>1.68</td></tr><tr><td>DE</td><td>96.65</td><td>105.85</td><td>97.57</td><td>2.00</td></tr><tr><td>PSO</td><td>96.65</td><td>127.66</td><td>105.96</td><td>14.57</td></tr><tr><td>ABC</td><td>97.14</td><td>100.29</td><td>98.10</td><td>0.68</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7fda3a2c5e04854ed3ce98143d217d9ac87b0bef44e9cfbfdddeb31b3e22bcb.jpg",
+        "img_caption": [
+            "图4各算法在Iris上的收敛图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表4可以看出，本文算法的最优值、最差值、均值、标准偏差均优于其余5个算法，适应度均值与PSO算法低11，表明引入Logistic 映射和禁忌表的FPA 算法可准确确定k-means聚类中心，提高聚类精度。结合图4可知，在初期阶段，由于将解映射到混沌区间，增加了未知解搜索区域，使得算法的适应度变化较快。在搜索后期，由于禁忌表记录已搜索过的解，使算法不局限于局部空间的开采能力，避免了局部最优解。DE、DEFPA、PSO、ABC算法可达到相同的最优解，PSO前期表现较差，但收敛速度极快。FPA算法的收敛速度较缓慢，所达到的最优解也非最优。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/babfa49211cd6a192eefa050ee73b2c5039dfc90e3f9b94e134dac15e90d1f85.jpg",
+        "table_caption": [
+            "表5在wine上的算法适应度比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>最优值</td><td>最差值</td><td>均值</td><td>标准偏差</td></tr><tr><td>本文算法</td><td>16293.67</td><td>16294.37</td><td>16293.76</td><td>0.87</td></tr><tr><td>DEFPA</td><td>16296.48</td><td>16306.91</td><td>16299.75</td><td>2.76</td></tr><tr><td>FPA</td><td>16322.06</td><td>16381.60</td><td>16343.73</td><td>16.14</td></tr><tr><td>DE</td><td>16336.35</td><td>18124.03</td><td>16876.52</td><td>512.39</td></tr><tr><td>PSO</td><td>16293.89</td><td>16297.61</td><td>16294.22</td><td>1.19</td></tr><tr><td>ABC</td><td>16391.45</td><td>17439.25</td><td>16706.49</td><td>249.14</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/91e832973c08a4b9bb9331bf8e37e6e400b7fa9d652c27538f575199fcf44c96.jpg",
+        "img_caption": [
+            "图5各算法在wine上的收敛图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从表5可知，在wine 数据集下，本文算法的最优值、最差值、均值、标准偏差均优于其他算法，标准差低于DE算法511.52,表明本文算法每次迭代得到的适应度相差较小，聚类稳定性更好。由图5可知，在迭代初期，本文算法适应度相比DEFPA算法更大，但在第25次迭代可与DEFPA算法达到相同的适应值，后期的适应值更小于DEFPA算法，且在迭代后期最先收敛到迭代次数最优值。虽然DEFPA算法的最优解与本文算法一致，但是迭代速度较慢。FPA 算法总体状态优于PSO、DE、ABC 算法，DE、ABC虽然可得到较好最优解，但收敛极慢，PSO算法可以较快速度收敛到最优解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，本文算法的最优值、最差值、均值、标准偏差均最好，最优值低于ABC算法49.56，表明本文算法可准确的确定聚类中心，达到稳定聚类效果。从图6可看出，DE算法与本文算法的收敛情况均较好，在25次迭代之内本文算法即接近最优解，而DE算法则在 $2 5 { \\sim } 5 0$ 次迭代之间收敛缓慢，未能避开局部最优区域。其主要原因是DE算法对参数设置敏感，不适当的参数会导致局部最优问题，而本文算法的禁忌表存储已搜索过的局部解，避免了多次搜索从而跳出局部区域。DEFPA、PSO 算法初期下降更快，但离最优解较远，还需多次迭代，FPA算法与本文算法有相近的初始适应度，但因全局勘测和局部开采能力较弱，使得收敛速度缓慢，ABC算法因其易早熟且局部寻优能力较弱导致适应度偏高且不易达到最优值。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/83134d64ee7f6ac35db38c93c7c142904a49f6c2a7c4fa66581cbd1a05def0f2.jpg",
+        "table_caption": [
+            "表6在Heart上的适应度比较"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>最优值</td><td>最差值</td><td>均值</td><td>标准偏差</td></tr><tr><td>本文算法</td><td>10623.93</td><td>10624.79</td><td>10623.78</td><td>0.02</td></tr><tr><td>DEFPA</td><td>10624.28</td><td>10624.98</td><td>10624.78</td><td>0.52</td></tr><tr><td>FPA</td><td>10630.40</td><td>10646.41</td><td>1063.98</td><td>4.01</td></tr><tr><td>DE</td><td>10628.37</td><td>11283.58</td><td>10739.11</td><td>173.61</td></tr><tr><td>PSO</td><td>10624.20</td><td>10624.91</td><td>10624.67</td><td>0.11</td></tr><tr><td>ABC</td><td>10673.49</td><td>11148.80</td><td>10795.84</td><td>110.15</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d6a0534f25130453250efd36a7abf01017255760ab8b35212c976f9806739d11.jpg",
+        "img_caption": [
+            "图6各算法在Heart上的收敛图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从以上的实验中可以发现，本文算法在5个数据集上的最优值、最差值、均值和标准差优于其他算法，显示了新算法具有较强的稳定性和鲁棒性。同时本文算法在迭代初期加入了混沌序列，提高了种群多样性，使得算法收敛速度、全局搜索能力有明显提高；而在后期加入禁忌搜索，可增强算法跳出局部最优解的能力。但对于部分数据集本文算法在迭代初期表现不理想，初始的适应度较高，甚至高于FPA算法，这将是进一步优化的部分。而在不同的数据集下DEFPA、FPA、DE、PSO、ABC算法表现各有不同，从整体可以看出PSO和DE算法性能更好，DEFPA次之，ABC和FPA最差，同时此次实验可说明针对不同的数据集采用适合的算法可得到较好的聚类结果。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2改进算法的聚类实验 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在上一节中进行了大量的数值模拟实验，实验结果显示本文算法在解决聚类问题有一定的有效性，同时也表明本文算法是一种收敛速度更快、稳定性更高、可避免局部最优解的算法。在本节中，采用上一节所使用的6个算法和5个数据集进行聚类实验，通过比较迭代50次的平均聚类准确率进一步分析算法性能。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/42136bc44873378d41967151080d8d6588bf181263528089e88a6abca4648720.jpg",
+        "table_caption": [
+            "表7聚类准确率的平均值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>算法</td><td>art1</td><td>art2</td><td>Iris</td><td>wine</td><td>Heart</td></tr><tr><td>本文算法</td><td>97.92</td><td>96.78</td><td>96.41</td><td>93.76</td><td>76.28</td></tr><tr><td>DEFPA</td><td>90.21</td><td>91.62</td><td>93.78</td><td>92.48</td><td>71.39</td></tr><tr><td>FPA</td><td>83.01</td><td>84.06</td><td>90.16</td><td>79.02</td><td>63.92</td></tr><tr><td>DE</td><td>92.25</td><td>93.82</td><td>94.71</td><td>76.25</td><td>70.83</td></tr><tr><td>PSO</td><td>94.39</td><td>95.06</td><td>93.02</td><td>80.24</td><td>71.37</td></tr><tr><td>ABC</td><td>84.61</td><td>88.37</td><td>92.73</td><td>76.41</td><td>52.74</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表7可以看出，本文算法在5个数据集上的聚类准确率均优于其他算法，说明加入混沌序列和禁忌搜索，使得算法全局搜索能力增强，能够有效的跳出局部最优解，提高了聚类精度。相比另5个算法，本文算法的聚类准确率有很大提高，在art1数据集中比最优的PSO算法高出 $3 . 5 3 \\%$ ，在art2数据集中比最优的PSO 算法高出 $1 . 7 2 \\%$ 。在Iris 数据集中比最优的DE算法高出 $1 . 7 \\%$ ，在wine 数据集中比最优的DEFPA算法高出",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$1 . 2 8 \\%$ ，在Heart数据集中比最优的DEFPA算法高出 $4 . 8 9 \\%$ 这说明本文算法有较强全局搜索和避免局部最优的能力，能使花粉找到聚类效果最优的解。而DEFPA算法在wine 数据集表现出较好的聚类效果，聚类准确率明显高于DE、PSO、ABC 算法，FPA算法对每个数据集聚类效果都不理想，DE算法对Iris数据集聚类效果较好，准确率可达到 $8 4 . 7 1 \\%$ ，PSO 算法对artl数据集聚类能力最好，高于FPA算法 $1 1 . 3 8 \\%$ ，ABC算法的聚类结果与FPA相近。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "本文首先提出了一种改进的花朵授粉算法，分别在初始阶段加入混沌序列和在后期引入禁忌搜索，以解决原始算法随机初始化和易陷入局部最优解的问题。随后，针对 $\\mathbf { k }$ -means算法前期易受初始簇类中心的影响，在数据聚类中会导致聚类结果不精确和不稳定，结合改进的花朵授粉算法和 $\\mathbf { k }$ -means聚类，提出了一种能精准确定聚类中心的聚类算法。实验结果表明本文算法可提高聚类效果，加快寻优能力，同时避免了局部最优的问题。但本文算法在时间复杂度上表现较差，初始适应度较高，对于高维数据集聚类效果较差，这些将是下一步研究内容。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Jain AK.Data clustering: 5O years beyond K-means [J].Pattern Recognition Letters,2010,31(8): 651-666.   \n[2]DuwairiR,Abu M.A novel approach for initializing the spherical K-means clustering algorithm[J]. Simulation Modeling Practice and Theory,2015,54 (5): 49-63.   \n[3]Kumar K M,Reddy A R M.An efficient k-means clustering filtering algorithm using density based initial cluster centers [J].Information Sciences,2017,418:286-301.   \n[4]Bianchi F M,Livi L,Rizzi A. Two density-based k-means initialization algorithms for non-metric data clustering [J].Pattern Analysis and Application,2016,19 (3): 1-19.   \n[5]Hu Jixiong,Wang Chunzhi,Liu Chuan,et al. Improved K-means algorithm based on hybrid fruit fly optimization and differential evolution [C]//Proc of the 12th International Conference on Computer Science and Education. Piscataway,NJ: IEEE Press,2017: 464-467.   \n[6]Rahman MA, Islam M Z.A hybrid clustering technique combining a novel genetic algorithm with K-means [J].Knowledge-Based Systems,2014,71 (71): 345-365.   \n[7]王波，余相君．自适应布谷鸟搜索的并行 K-means 聚类算法[J].计算 机应用研究,2018,35(3):675-679.(Wang Bo,Yu Xiangjun.Parallel Kmeans clustering algorithm based on adaptive cuckoo search [J].Application Research of Computers,2018,35 (3):675-679.)   \n[8]Yang Xinshe.Flower pollination algorithm for global optimization [C]// Proc of Unconventional Computing and Natural Computation.Berlin: Springer,2012: 240-249.   \n[9]Draa A.On the performances of the flower pollination algorithmQualitative and quantitative analyses [J].Applied Soft Computing,2015,34 (C): 349-371.   \n[10]Sayed SA,NabilE,BadrA.Abinary clonal flower pollinationalgorithm for feature selection [J].Pattern Recognition Letters,2016,77 (C): 21-27.   \n[11] Galvez J, Cuevas E,Avalos O.Flower pollination algorithm for multimodal optimization [J]. International Journal of Computation-al Intelligence Systems,2017,10(2107):627-646.   \n[12]肖辉辉，万常选，段艳明．一种改进的新型元启发式花朵授粉算法[J]. 计算机应用研究,2016,33(1):127-131.(Xiao Huihui,Wan Chang-xuan, Duan Yanming.Improved novel metaheuristic flower pollination algorithm [J].Application Research of Computers,2016,33(1):127-131.)   \n[13]肖辉辉．基于单纯形法和自适应步长的花朵授粉算法[J].计算机工程 与科学，2016,38(10):2126-2133.(Xiao Huihui.A flower pollination algorithm based on simplex method and sel-adaptive step [J]. Computer Engineering and Science,2016,38 (10): 2126-2133.) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[14]肖辉辉，万常选，段艳明，等．融合高斯变异和Powell法的花朵授粉优 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "化算法[J].计算机科学与探索,2017,11(3):478-489.(Xiao Huihui,Wan Changxuan,Duan Yanming,et al.Flower pollination algorithm combination with gauss mutation and Powell search method [J].Journal of Frontiers of Computer and Technology,2017,11(3): 478-489.)   \n[15]吴秀丽，周永权．一种基于混沌和单纯形法的水波纹优化算法[J].计 算机科学,2017,44(5):218-225.(Wu Xiuli, Zhou Yongquan.Improved water wave optimization algorithm based on chaos optimization and simplex method [J].Computer Science,2017,44(5): 218-225.)   \n[16]Karimi E,Maleki H,Reza A.Tabu search algorithm to solve the intermodal terminal location problem[J]. Journal of Mathematical Extension,2015,9 (1): 75-89.   \n[17] Niknama T,Amiri B.An efficient hybrid approach based on PSO ACO and k-means for cluster analysis [J].Applied Soft Computing,201o,10(1): 183- 197.   \n[18] Blake C L,Merz C J.UCI repository of machine learning databases [DB/OL].[2018-04-29] http://archive.ics.uci.edu/ml/datasets.html. ",
+        "page_idx": 6
+    }
+]

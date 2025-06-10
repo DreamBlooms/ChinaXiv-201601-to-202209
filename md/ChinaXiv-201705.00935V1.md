@@ -1,0 +1,143 @@
+# 核心流强化传热对温差发电器性能的影响
+
+李彦哲　赵玉龙　何为　朱 强　王世学
+
+(中低温热能高效利用教育部重点实验室，天津大学，天津 300072)
+
+摘要半导体温差发电技术在汽车尾气余热的回收与利用方面具有很大的潜能。本文搭建了一套可以模拟汽车尾气排气的试验系统，并利用核心流强化传热技术研究其对采用热电发电模块回收汽车尾气的余热并将其转换成电能时的性能影响。
+
+关键词温差发电；金属泡沫；强化传热；核心流
+
+1分类号：TK115 文献标识码：A 文章编号:0253-231X(2017)04-0862-(
+
+# The Influence of the Core Flow Heat Transfer Enhancement on the Performance of Thermoelectric Generator
+
+LI Yan-ZheZHAO Yu-Long HE WeiZHUQiang WANG Shi-Xue (Key Laboratoryof Efcient UtilizationofLowand Medium GradeErgy,Tianjin University，Tianjin30o7,China)
+
+AbstractIt has great potential for recovering and dtilizing the exhaust gas heat of vehicle by thermoelectric power generation technology. Inthis paper we set up a testing system which can simulate the automobile exhaust，and use thecore flow heat transfer enhancement technology to research the performance of thermoelectricgenerator which use thermoelectric module to recover the waste heat from automobile exhaust andto convert it into electrical energy.
+
+Key wordsthermoelectric powergeheration; metal foam; heat transfer enhancement; core flow
+
+# 0前言
+
+随着科技的发展，社会士对能源的需求日益增多，能源短缺问题引起了人们的重视。而汽车工业的发展也加速了能源消耗，同时与之伴随的尾气排放也造成了严重的环境污染。在汽车发动机消耗燃料所释放的能量中有 $4 0 \%$ 随着尾气被排到环境中[1]。汽车尾气温度通常在 $3 0 0 { \sim } 6 0 0 ^ { \circ } \mathrm { C }$ ，若能回收并利用这一废热将有助于提高车辆的动力性能和燃油经济性，节约石油资源，减少温室气体排放，带来巨大的社会与经济效益[2]。如何利用这一废热是产学研各界当今关注的热点。迄今为止，学者们提出了利用废气加热工质，通过朗肯循环、布雷顿循环或斯特林循环等进行发电的方案，并对其进行了研究[3-5]。同时，近年来采用半导体温差发电技术利用汽车尾气中废热的余热回收方式受到越来越多的关注。半导体温差发电的工作原理主要基于三种基本效应[6]：塞贝克效应(Seebeck effect)、珀尔帖效应(Peltier effect）和汤姆逊效应(Thomson effect)。半导体温差发电与其它发电方式相比，优点在于不需要化学反应或流体介质，没有运动部件，因此发电过程中无噪音、无磨损、无介质泄漏，并且发电模块体积小、重量轻、移动方便、使用寿命长。因此，非常适用于余热回收利用系统，尤其在低品位能量利用方面，可将低品位热能直接转化为高品位的电能，这种技术对于汽车尾气余热的回收与利用具有相当大的吸引力早在1988年Birkholz等[7]就提出了利用汽车尾气余热发电的想法并在保时捷汽车尾气通道上进行了试验，实验结果发出了几十瓦电。2001年美国HI-z公司在康明斯 $2 5 0 \mathrm { k W }$ 柴油机载重货车排气管上用72热电模块圆周排列布置，冷却方式采用与发动机冷却集成式冷却系统，在 $2 5 0 { \sim } 2 7 0 \ \mathrm { K }$ 的温差下理论上提供 $2 { \sim } 4 \ \mathrm { k W }$ 的功率，装置实际产生30V/1kW电能[8]。1998年日本尼桑公司研制出一台由72个热电模块组成的用于汽车尾气余热回收的热电发电器，当汽车以速度 $6 0 ~ \mathrm { k m / h }$ 爬坡时，热电模块冷热端温差约为 $3 8 6 \mathrm { K }$ ，热电发电器的输出功率约为950 W[9]。尽管利用汽车尾气余热进行热电转换的研究开展了许多年，但其发电效率还很低，严重制约着这种新型车用余热回收方式的推广与应用，亟待相关的基础研究取得突破，进而为开发高效半导体发电装置提供支持。
+
+温差发电器的理论最大热电转换效率一般表示如下：
+
+$$
+\eta _ { \mathrm { m a x } } = { \frac { T _ { \mathrm { h } } - T _ { \mathrm { c } } } { T _ { \mathrm { h } } } } \left[ { \frac { \left( 1 + Z { \bar { T } } \right) ^ { 1 / 2 } - 1 } { \left( 1 + Z { \bar { T } } \right) ^ { 1 / 2 } + { \frac { T _ { \mathrm { c } } } { T _ { \mathrm { h } } } } } } \right]
+$$
+
+其中， $T _ { \mathrm { h } }$ 为发电模块热端温度， $Y _ { \mathrm { c } }$ 为发电模块冷端温度， $\overline { { T } }$ 为发电模块冷热端平均温度， $Z$ 为热电材料的优值系数，并分别由方程(2)和(3)计算。
+
+$$
+\bar { T } = \left( T _ { \mathrm { h } } + T _ { \mathrm { C } } \right) / 2
+$$
+
+$$
+Z = \frac { \alpha ^ { 2 } } { \rho \kappa } = \frac { \alpha ^ { 2 } \sigma } { \kappa }
+$$
+
+式中， \， $\alpha$ 为塞贝克系数， $\sigma$ 为电导率， $\kappa$ 为热导率
+
+通过以上公式可以得出，要提高热电转换效率，一方面可增加热电材料的优值，另一方面就是增加热电模块的冷热端温差。因此，本文从强化传热入手，探讨提高温差发电器热电转换效率的新途径。对于热电发电器，冷端通常采用水冷却，其换热系数很大，因此，增强热电发电器冷热端换热效果主要是要强化其热端换热。对此通常采用在通道内增加肋片来实现。由于平直肋片型板翅式换热结构换热系数较高、紧凑且压降小，Espinosa 等设计了一款5层板翅式换热结构,换热面积 ${ \dot { \varepsilon } } ( 0 ^ { 8 } { \dot { \varepsilon } } ^ { \mathrm { n } } ) ^ { \times 3 1 } { \mathrm { c m } }$ ，当尾气温度在 $3 0 0 ^ { \circ } \mathrm { C }$ 左右，尾气流量为 $0 . 4 ~ \mathrm { k g / s }$ 时，换热器的总换热量达 $2 3 ~ \mathrm { k W }$ ，压降为 $4 5 0 0 \mathrm { P a }$ ，但没有讨论温差发电器性能与压降的关系。为提高热电发电器的紧凑性，Ryosuke 等[11-13]研究设计了卷糕型换热器结构，在相同的热条件和输出功率要求下，该结构热电发电器尺寸大幅减小。Esarte 等[14] 比较了螺旋型、之字型、直肋型三种不同形状的换热器的换。热效果，实验结果表明，气体通过这三种结构时,热电发电器的热电模块两端温差分别为 $7 2 \mathrm { ~ K ~ }$ 72.9K和 $6 0 ~ \mathrm { K }$ ，发电器的压降分别为 $1 0 0 0 0 \mathrm { P a }$ 1 $1 3 0 0 0 0 \mathrm { P a }$ 和 $\mathrm { 3 0 0 ~ P a }$ ，虽然之字型结构换热器的温差最大，但其压降也是最大的。Baker 等[15]比较了五种换热结构（无任何增强传热结构的单层平板式换热结构、带有平直翅片的单层平板式、全部填充孔隙率 $9 2 \%$ 孔密度10PPI的多孔金属泡沫的单层平板式、三层平板式并联流道型、三层平板式蛇形流道串联连接型)的换热效果。结果表明填充多孔金属泡沫与蛇形流道结构的换热效果强于其他形式，但尾气流过通道时的压降所引起的泵功达到了千瓦，严重影响发电效率。与此同时部分学者对管内填充多孔介质强化换热方面进行了一系列研究。Meqerlin等[16]用不锈钢丝编织成网状和刷状内插物进行了管内强化换热的实验研究，两种多孔体的孔隙率约为 $8 0 \%$ 。实验结果表明，网状内插物与刷状内插物对管道均起到了强化换热效果，并且网状内插物的效果更好。Pavel等[17]利用金属丝网制造出的多孔插入物，结果表明高孔隙率的多孔介质能够有效提高通道的换热性能，并且孔隙率为 $9 8 . 1 \%$ 时的通道压降为 $6 4 . 8 \ \mathrm { P a }$ 5孔隙率为 $9 9 . 3 \%$ 时压降为 $1 9 . 1 \mathrm { P a }$ ，可见高孔隙率的多孔介质引起通道内的压降较小。Mohamad[18」比较了在圆管内流场核心部分填充及全部填充多孔介质时其换热性能的变化，结果发现当管内多孔介质填充比为1.0时，管内流场的温度均匀性要弱于填充比为0.4与0.6。即，当多孔介质完全占据整个流场时将削弱换热效果。这种只在流场核心部分填充多孔介质的换热强化方式称作核心流强化传热。
+
+管内核心流强化传热是一种用于流体的强化传热方法在管道内填充内插物的强化传热方式是边界流强化传热的延伸。由于泡沫金属骨架的导热系数远高于流体的导热系数，填充泡沫金属可以使流场有效导热系数增大，提高流体的均温性。因此在管道内核心区填充泡沫金属，可以使得管内填充泡沫金属区域流场的温度分布更加均匀，从而在管壁的边界流区域制造出一个较大的温度梯度达到强化传热的效果。但是，这种传热强化方式在温差发电器上的应用尚未见报道。众所周知，流体的强化换热常常伴随着流动阻力的增大，而在汽车尾气余热回收中，如果增大发动机的排气背压，将引起发动机输出功率的降低，削弱余热回收的效果，甚至会引起系统整体能量利用效率的降低。因此，本文建立了一套模拟汽车排气的高温余热利用实验系统，并初步研究了核心流强化传热对温差发电器性能的影响。
+
+# 1实验装置介绍
+
+温差发电模块的布置结构通常是由冷热源的种类以及系统散热方式决定，一般有平板式、圆筒式等[19]。虽然汽车排气管均为圆形或椭圆形，且排气管尺寸较小，但方形管结构的排气管设计有利于温差发电片的布置，并且在方形管内部容易增加扰流结构，强化发电器热端换热，因此本实验采用平板式通道布置温差发电模块，如图1所示。热电模块（TEHP1-12656-0.3）放置于矩形通道与冷却水箱之间，外部通过弹簧夹具将整个温差发电器夹紧，由于是弹簧柔性联接的固定，这样既可以保证温差发电模块冷热面能够充分的接触，又可以提高温差发电器的抗震性能和热电模块的稳定性。冷却水箱中的冷却水采取下进上出的方式充满整个箱体以达到最佳的冷却效果。
+
+![](images/76275c5aac9ebc34f5ad7b802a47d5ef31783e0fbf323e7cc3f22bc01d9707f1.jpg)  
+图1温差发电器二维结构示意图Fig.1 Two-dimension of thermoelectric generator structure diagram
+
+表1、表2、表3分别给出了温差发电器气体通道尺寸、温差发电器冷却水通道尺寸以及热电模块的基本参数。
+
+Table1 The structure size ofthermoelectric generator gaschannel   
+表2温差发电器冷却水通道结构尺寸  
+
+<html><body><table><tr><td>l/mm</td><td>w/mm</td><td>h/mm</td><td>8/mm</td></tr><tr><td>350</td><td>70</td><td>20</td><td>5</td></tr></table></body></html>
+
+表1温差发电器气体通道结构尺寸  
+
+<html><body><table><tr><td>l/mm</td><td>w/mm</td><td>h/mm wy/mm</td></tr><tr><td>300</td><td>70</td><td>20 5</td></tr></table></body></html>
+
+试验系统如图2所示。首先启动变频式空压机输出空气，经过储气罐稳压后，通过节流阀调节流量并送入回热器，在回热器中与来自实验段的高温排气进行换热，经预热后进入两组功率各 $1 0 ~ \mathrm { k W }$ 的加热器加热，通过调压器调整加热功率以达到实验所设定的加热温度。经过加热的高温空气进入矩形通道与壁面换热，一部分热量经热电模块转换为电能，同时通过调节外接电阻测量输出电压与输出电流，并据此计算输出功率。矩形通道出口的高温排气进入回热器与来自空压机的空气进行换热，然后排出室外。回热器的设置使得室温空气在进入加热器之前温度得到提升，既可以降低系统加热器的额定功率，还可以节约加热所需的能量。矩形通道壁面两侧各布置一排4块热电模块，模块的冷端与冷却水通道相接触，冷却水由水泵从一个容量为 $4 5 0 \mathrm { L }$ 的水箱里抽取，并循环使用。因冷却水箱容量较大，且实验过程中发电器启动至达到输出稳定状态所需时间较短，冷却水的温度基本保持不变。
+
+高温气体通道进出口温度、冷却水进出口温度及热电模块的冷热端温度均用热电偶进行实时测量，并用数据采集仪对温度及模块的开路电压进行采集与记录，空气与冷却水的流量分别用流量计(DY025/AFX015G）测量，矩形通道进出口设有压力表（TRD3051GP5E22M3B3）测量其压力并计算压差。 所
+
+# 2实验结果分析
+
+# 2.1无填充通道
+
+本文首先使用光滑通道，测量了进气流量120$\mathrm { { m ^ { 3 } / h } }$ ，进气温度 $2 0 0 ^ { \circ } \mathrm { C }$ 时温差发电器的性能。由于热电模块对称布置于方形通道两侧，图3只是给出了其单侧热电模块的相关参数。
+
+从图3(a)、(b)中可以看出，沿着气体流动方向，温差发电片的冷热端温差及开路电压并非一直下降的，靠近出口端的第4片模块的冷热端温差及开路电压均有所高。一般来说，当高温流体流过实验通道时，由于实验通道外侧被冷却水不断冷却，因此整个实验通道内气体温度沿流动方向是降低的。实际上，当实验通道两端存在不安装散热装置部分时，尽管气体通道内温度降低，但两侧的金属壁面作为扩展吸热面会向实验段进行横向的热传导，因此发电器两端模块的表面温度会有一定的升高，这一点在近出口侧表现得尤为明显，也是第4模块热端表面温度较第3模块为高的原因。
+
+如图3(c)、(d)为，温差发电器的输出功率及其随外接电阻的变化关系。当外接电阻为零时，输出功率为零，随着外接电阻的增大，输出功率逐渐增大，当外接电阻与温差发电器内部电阻相同时，输出功率达到最大值，这一点与一般电路表现相同，外接电阻继续增大，输出功率降低。
+
+Table O.9 The structure size of thermoelectricy generator water cooling channel   
+表3热电模块基本参数  
+Table 3 Basic parameters of thermoelectric module   
+
+<html><body><table><tr><td>l/mm</td><td>w/mm</td><td>h/mm</td><td>ri/</td><td>σ/10²Sm-1</td><td>κ/Wm-1K-1</td><td>α/VK-1</td></tr><tr><td>55</td><td>55</td><td>5</td><td>0.9</td><td>4000-5200</td><td>4-5</td><td>280×10-6</td></tr></table></body></html>
+
+![](images/3a83a45ae57f8fc4c5a741592d175f43ee7ed75e1728bb2ad2e3667dca0091c0.jpg)  
+Fig.2 Experiment system diagram
+
+1.空气压缩机；2.稳压罐；流阀；4.气体流量计；5.回热器；6.加热器；7.加热器；8.调压器；9.调压器； 10.压力表；11.压力表；12温差发电器；13.电脑；14.数字采集仪；15.液体流量计；16.节流阀；17.水泵； 18.冷却水箱；19.气体通道；20.冷却水通道；21.热电模块   
+1.aircompresor；2.gasholder；3.throtle；4.gasflowmeter；5.heatregenerator；6.heater；7.heater；8.voltageregulator; 9.voltage regulator；10.pressre gage；11.pressre gage；12. termoelectric generator；13.computer；14.data acquisition   
+instrument；15.fluidflowmeter；16.throtle；17.pump；18.cooling watertank9.gas channel；20.cooling waterchanel; 21.thermoelectric module 图2试验系统图
+
+# 2.2部分填充泡沫金属
+
+如前所述，汽车尾气余热温差发电器中，由于高温端属于气固间对流换热，换热温差较大，严重影响了温差发电器的性能，强化其高温端的换热对于提高温差发电器的性能应该具有明显效果。为此，本文提出利用核心流强化换热的方式提高高温端换热性能。图4为本文中气体通道内部分填充金属泡沫的结构示意图，其中 $L$ 为金属泡沫的填充厚度。本文采用两种填充厚度分别为10mm通道体积 $5 0 \%$ 与 $\mathrm { 1 5 ~ m m }$ (占通道体积 $7 5 \%$ 泡沫铜进行实验，其孔隙率为 $9 8 \%$ ，孔密度为 $4 0 ~ \mathrm { \tilde { P P I } _ { c } } ^ { \prime }$ 一方面利用金属的高导热性以及均温性提高管内流体换热能力，另一方面，由于是不完全填充，可以期待有效降低通道的压力损失。实验的进气流量 $\mathrm { 1 2 0 ~ m ^ { 3 } / h }$ 、进气温度$2 0 0 ^ { \circ } \mathrm { C }$ ，与2.1节相同。
+
+![](images/2baf5cd557ee7859dd322ad0b1f26aaa3a2b2f82c277ea0bcd1331899e616d36.jpg)
+
+![](images/235a9cc1f913fe476f752456525596aa859b9843b7859a4c87315db093db2dd4.jpg)  
+图3发电器单侧模块的相关参数及性能  
+Fig.3Related parameters and performance of the module on one side of the generator
+
+![](images/19a47a2ee86ca636730b36b6af24cb5f49e88e6c4faa7c1f74e3bb3ee21644fa.jpg)  
+图4填充金属泡沫的温差发电器示意图  
+Fig.4 Schematicof thermoelectric generator which filled metal foam
+
+图 $5 ( \mathrm { a } ) \sim$ (c）为在进气温度 $2 0 0 ^ { \circ } \mathrm { C }$ 、进气流量$1 2 0 ~ \mathrm { m ^ { 3 } / h }$ 下，通道内填充孔密度 40 PPI 的金属泡沫铜的温差发电器在不同的填充率下，沿程热电模块的冷热端温差、沿程开路电压及发电器的输出功率与无填充通道的对比。如图所示，在相同的进气温度与进气流量下，不同的泡沫金属的填充率对沿程热电模块的冷热端温差、开路电压以及温差发电器的输出功率均有较大影响。首先，泡沫金属的填充明显提高了温差发电器热电模块的冷热端温差、开路电压及输出功率。尤其是最大输出功率根据填充的比例不同，分别提高 $1 0 8 \%$ 和 $1 3 6 \%$ 之多。其原因在于泡沫金属的填充增加了通道内流体与壁面的换热系数。另外填充率为 $7 5 \%$ 时温差发电器的性能要高于填充率为 $5 0 \%$ 的。这是由于随着填充比的增加，管道内温度均匀的区域不断向管壁方向扩大，近壁处的温度梯度随之增加，形成了一个温度变化剧烈的流体薄层。图 5(d）表示壁面换热系数随泡沫金属填充率的变化。由图可见，由于填充了泡沫金属，壁面与流体间的换热系数从50W/ $\mathrm { { \dot { m } } ^ { 2 } }$ ·K)提高到 $2 0 0 \mathrm { W } / ( \mathrm { m } ^ { 2 } { \cdot } \mathrm { K } )$ 以上，达4倍之多,而且，填充率的增大换热系数随之明显提高，这也是温差发电器性能随泡沫金属填充率的增加而提高的原因。
+
+图6为前述条件下，温差发电器进出口端压降随泡沫金属填充率的变化。由图可知，金属泡沫铜的填充明显增大了温差发电器进出口端的压降，当填充率为 $5 0 \%$ 时，其压降增大8倍以上，而当填充率为 $7 5 \%$ 时，其压降相较于无填充通道增大了近18倍。因此，对于使用汽车尾气作为热源的温差发电系统，通过填充泡沫金属强化热端换热虽然可以提高发电器的性能，同时也会造成发动机排气背压的上升。因此，在温差发电器设计时，要整体考虑发电器的输出，应以整个系统的燃料有效利用率作为优化指标，或者通过送风泵弥补气体通道的压降，此时应以温差发电器的输出功率除去泵功，即，净功的最大化作为系统的优化设计指标。对此，后续的研究工作将予以关注。
+
+![](images/5826498a5c2d3210f121b861f77d41009de052d25085410925b936b26b645d9a.jpg)  
+图部分填充泡沫金属的温差发电器的性能变化
+
+![](images/af29149db9af2212268e2f426aceb057033af31c2e1c34ec6a62fd8dea4d0771.jpg)  
+Fig.5 Perf6rmance of thermoelectric generator which part filled the metal foam =   
+图6温差发电器压降  
+Fig.6 Pressure drop of thermoelectric generator
+
+# 3结论
+
+本文以利用半导体温差发电回收汽车尾气余热为背景，以强化高温气体与半导体模块热端之间的换热进而提高温差发电器的性能为目的，通过实验探讨了核心流强化传热对温差发电器性能的影响。结果表明，由于泡沫金属的填充，温差发电器气体通道壁面的换热系数从 $5 0 \ \mathrm { \ W / ( m ^ { 2 } K ) }$ 提高到200W/ $\mathrm { \langle m ^ { 2 } K \rangle }$ 以，达4倍之多。同时，温差发电器热电模块的热端温度、开路电压及输出功率明显提高。尤其是最大输出功率在泡沫金属填充比例为 $5 0 \%$ 和$7 5 \%$ 时，分别提高 $1 0 8 \%$ 和 $1 3 6 \%$ 之多。另外，值得注意的是，泡沫金属的填充会增加温差发电器进出□端的压降。当填充率为 $5 0 \%$ 时，其压降增大8倍以上，当填充率为 $7 5 \%$ 时，其压降增大了近18 倍。因此，设计温差发电器时，建议以净功的最大化作为系统的设计指标。
+
+# 参考文献
+
+[1]Chammas RE,Clodic D.Combined Cycle for Hybrid Vehicles [R]. SAE Technical Papers,Detroit,MI,US,2005- 01-1171   
+[2] Shinohara K,Kobayashi M,Kushibiki K,et al.Application of Thermoelectric Generator for Automobile [J]. Journal of the Japan Society ofPowder and Powder Metallurgy,1999,46(5): 524-528   
+[3]Hung TC,Shai T Y,Wang SK.AReview of Organic Rankine Cycles (ORCs) for the Recovery of Low-Grade Waste Heat [J].Energy,1997,22(7):661-667   
+[4] Zheng J,Sun F,Chen L,et al. Exergy Analysis for a Braysson Cycle [J].Exergy An International Journal, 2001,1(1): 41-45   
+[5]Cullen B,Mcgovern J.Energy System Feasibility Study of an Otto Cycle/Stirling Cycle Hybrid Automotive Engine [J].Energy,2010,35(2):1017-1023   
+[6] Rowe D M. Thermoelectrics Handbook [M].Crc Press, 2006   
+[7]Birkholz U,Grob E, Stohrer U,et al.Conversion of Waste Exhaust Heat in Automobiles Using FeSi2 Thermoelements. Proceedings of 7th International Conference on Thermoelectric Energy Conversion，University of Texas, 1988:124-128   
+[8] Kushch A S,Bass J C,Ghamaty S,et al. Thermoelectric Development at Hi-Z Technology [C]// 20 $^ \mathrm { t h }$ International Conference on Thermoelectrics,Beijing: China, IEEE,2001:422-430   
+[9]Ikoma K,Munekiyo M,Furuya K,et al. Thermoelectric Module and Generator for Gasoline Engine Vehicles [C]// 17 $^ \mathrm { t h }$ International Conference on Thermoelectrics, Nagoya,Japan,IEEE,1998:464-467   
+10]Espinosa N,Lazard M,Aixala L,et al.Modelinga Thermoelectric Generator Applied to Diesel Automotive Heat Recovery [J].Journal of Electronic Materials,201o,39(9): 1446-1455   
+11] Suzuki R O,Tanaka D.Mathematical Simulation fThe moelectric Power Generation with the Multi-Panels [J]. Journal of Power Sources, 2003,122(2): 201209   
+12] Suzuki R O,Tanaka D.Mathematic Simulation on Thermoelectric Power Generation with Cylindrical MultiTubes [J]. Journal of Power Sources,2003,124(1): 293- 298   
+[13] Suzuki R O,Tanaka D.Mathematic Simulation on Power Generation by Roll Cake Type of Thermoelectric Cylinders[J].Journal of Power Sources,2004,133(2):277-285   
+[14] Esarte J,Min G,Rowe D M.Modelling Heat Exchangers for Thermoelectric Generators [J].Journal of Power Sources,2001,93(1): 72-76   
+[15]Baker C,Vuppuluri P,Shi L,et al.Model of Heat Exchangers forWaste Heat Recovery fromDiesel Engine Exhaust for Thermoelectric Power Generation [J].Journal of Electronic Materials,2012,41(6):1290-1297   
+[16]MegerlinFE,MurphyRW,BerglesAE.Augmentation ofHeat Transfer in Tubes by Use of Mesh and Brush Inserts [J].Journal of Heat Transfer,1974,96(2):64-64   
+[17]Pavel BI,Mohamad A A.An Experimental and Numerical Study on Heat Transfer Enhancement for Gas Heat Exchangers Fitted with Porous Media [J].International Journalof Heat & Mass Transfer,2004,47(23): 4939- 18Mohamad AA.Heat Transfer Enhancementsin Heat Exchangers Fitted with Porous Media Part I:Constant Wall Temperature [J]. International Journal of Thermal Sciences,2003,42(4):385-395   
+[19] Saqr K M,Mansour M K,Musa M N.Thermal Design ofAutomobile Exhaust Based Thermoelectric Generators: Objectives and Challenges [J].International Journal of Automotive Technology,2008,58(2):155-160
+
+![](images/272bd15a348b10f39db2a25ccc964e3c6e9d27fe8e85f2fdeedf0851ee3f9ce1.jpg)

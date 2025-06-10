@@ -1,0 +1,179 @@
+# 盐池湾高寒湿地景观格局演变及其影响因素
+
+曾红霞，赵成章，王毓芳，李晓雅，赵婷婷，唐玉瑞（西北师范大学地理与环境科学学院，甘肃省湿地资源保护与产业发展工程研究中心,甘肃 兰州730070）
+
+摘要：高寒湿地是重要的水源涵养和生物多样性聚集地，研究其湿地景观格局演变及其影响因素有助于认识湿地生态系统的独特功能、演变规律以及环境影响机制。本研究基于1989—2019年的6期Landsat遥感影像数据，结合GIS技术、景观格局指数以及相关性分析等研究方法，分析了盐池湾高寒湿地景观格局时空演变特征及其影响因素。结果表明：(1)1989—2019年盐池湾湿地总面积呈增加趋势,沼泽化草甸、永久性河流和内陆盐沼分别增加$3 1 . 0 2 \%$ ） $1 7 . 5 3 \%$ 和 $3 . 7 7 \%$ ,草本沼泽和裸斑分别减少 $5 4 . 2 8 \%$ 和 $9 . 5 \%$ 。(2)类型水平上，1989—2019年永久性河流和沼泽化草甸的破碎化降低，其余各类型湿地的破碎化增加;景观水平上，湿地景观形状趋于简单化,湿地破碎化程度增加,蔓延度和香浓多样性指数减少,湿地景观分布向均衡方向发展。（3）气温和降水与湿地面积、景观格局指数之间存在差异化的相关关系。气候变化是导致盐池湾高寒湿地面积变化和景观格局演变的关键因素。研究高寒湿地景观格局时间序列动态演变特征，对于理解湿地的生态功能和生态过程具有重要的理论意义，对湿地可持续发展和景观规划管理具有实践意义。
+
+关键词：景观指数；湿地景观格局；盐池湾；时空演变；高寒湿地
+
+湿地是负地形或岸边带及其所承载的水体，是地表水和地下水相互转化的地理综合体1，湿地景观格局能够反映湿地景观要素在一定时空范围内的配置和组合方式，是理解干扰因子和自然环境之间协同适应关系的理论基础[2]，对于深入理解全球变化背景下环境因子对景观格局的演变具有重要的意义。湿地景观格局是时空尺度下多种生态水文过程综合作用的结果，能够反映湿地面积的数量变化和空间分布特征[3]；景观破碎化是自然或人文因素所导致的湿地景观由单一、均质和连续的整体趋向于复杂、异质和不连续的斑块镶嵌体，直接影响湿地景观中生物多样性、能量流动、物质循环等生态特征与过程[4]。高寒湿地是干旱和高寒气候条件下经常被地表水或地下水淹没或饱和，受季节性积雪融水补给并长有湿生植物的沼泽湿地，由于湿地类型的特殊性、积水条件的易变性[5],导致湿地的生态水文过程趋于复杂化。气象因子作为湿地变化重要的环境因子和进化选择力，通常在较大的时空尺度上作用于湿地的变化。由于降水、入渗、补给、径流过程的时空差异导致湿地积水条件[、土壤的积盐条件、湿地水-盐交互作用等水文过程的改变,进而导致不同湿地景观格局的改变。因此，探讨全球气候变暖背景下高寒湿地景观格局时空演变及其影响因素，对于维持湿地生态系统的稳定性、生物多样性、保障区域生态安全具有极为重要的意义。
+
+盐池湾处于青藏高原东北边缘、祁连山西段高山地带，作为国家级自然保护区的核心生态地区，其独特的地理环境、相对封闭的自然区块和优良的水质发育有特殊的高寒湿地，在我国西北荒漠区具有典型性、代表性以及特殊的科学研究价值。目前，学术界围绕湿地景观格局的区域分异及影响因素[8]、湿地景观破碎化过程[9]、景观多样性的空间关联性[0]、空间粒度变化[1]等方面开展了大量研究，以往的相关研究多集中在受海陆共同作用的东部滨海地区[12]、典型的湖泊湿地聚集地——长江流域[13]、深受土地利用方式影响的东北三江平原4和由气候、放牧制约的青藏高原若尔盖地区。许多学者多采用景观格局定量分析法、景观生态图叠置法和定性描述法[15],对若尔盖高原、巴音布鲁克以及青藏高原等高寒湿地进行了研究[16],然而以上研究范围多是中尺度和大尺度且监测湿地的时间多是2010年以前，使用遥感手段较小尺度的研究高寒湿地的报道较少，尤其是西北内陆高寒湿地景观格局演变特征及其影响因素的研究较为薄弱。鉴于此，本文基于Landsat数据和湿地群落学调查，采用GIS技术、景观指数分析法以及相关性分析，对盐池湾1989—2019年湿地面积变化、景观指数的变化及其影响因素进行了研究，以期理清在全球气候变化背景下盐池湾高寒湿地景观格局的演变机制，为盐池湾国际重要湿地的科学管理提供理论依据
+
+# 1数据与方法
+
+# 1.1 研究区概况
+
+研究区位于酒泉市肃北县盐池湾国家级自然保护区范围内，地理位置为 $9 4 ^ { \circ } 5 9 ^ { \prime } 4 2 ^ { \prime \prime } { \sim } 9 7 ^ { \circ } 2 1 ^ { \prime } 3 2 ^ { \prime \prime } \mathrm { E }$ $3 8 ^ { \circ } 1 8 ^ { \prime } 1 0 " { \sim } 3 9 ^ { \circ } 3 4 ^ { \prime } 1 1 " \mathrm { N }$ ，海拔 $6 0 0 { \sim } 2 2 0 0 ~ \mathrm { m }$ ，属典型的内陆高寒及干旱气候,年均气温为 $4 { \sim } 6 \mathrm { \ : { \ : } } { \mathrm { C } }$ ,年降水量在 $2 0 0 ~ \mathrm { m m }$ 左右，降水的季节性差异大，主要集中在夏秋季，蒸发量在 $2 5 0 0 ~ \mathrm { m m }$ 左右(图1)。土壤类型以风沙土、棕漠土、草甸土、沼泽土和高山寒漠土为主。有着党河南山和野马南山的山前洪积扇间洼地和河漫滩洼地的地貌,以党河南山-党河-野马南山相间分布的山、盆相间为主要特点，湿地水分主要来源于高山冰雪融水和自然降水补给，是河西走廊第二大内流河一一疏勒河一级支流的发源地，汇入敦煌绿洲。植被类型以湿地植被和荒漠植被为主，主要有赖草（Leymussecalinus）、芨芨草（Ach-natherumsplendens）水麦冬（Triglochinmaritimum）蒿草（Kobresia myosuroides）苔草（Carex caespititia）海乳草（Glauxmaritima）苦豆子（Sophora alopecuroi-des)和披针叶野决明（Thermopsis lanceolata）。
+
+# 1.2数据来源
+
+为准确揭示研究区景观格局动态变化特征，根据研究区已有卫星数据的影像质量、成像时间等信息，保证云量低于 $1 0 \%$ ，从1989—2019年每隔6a选取1989年、1995年、2001年、2007年、2013年和2019年的Landsat遥感影像，尽量选择年际降水量变化较明显的年份且植被生长较好的月份（7月中旬至9月上旬），以利于不同下垫面信息的准确提取，所有遥感影像都经过几何校正、正射校正、波段合成和裁剪等预处理。影像数据取自美国地质调查局(USGS)网站(http://earthexplorer.usgs.gov/)以及地理空间数据云网站(http://www.gscloud.cn/)。肃北蒙古自治县标准气象站点数据包括1989—2019年的年均气温、年降水量等气象数据，数据来源于中国气象科学数据共享服务网(http://data.cma.cn/）。
+
+# 1.3湿地类型划分与信息提取
+
+在进行监督分类前，参考国内外湿地分类标准以及中国湿地研究[17-19],并结合研究区实际情况，对盐池湾高寒湿地进行野外实地考察，结合湿地公约中的湿地分类系统2以及已有的土地利用分类系统，根据遥感影像的成像原理，将研究区湿地划分为沼泽湿地和河流湿地(永久性河流湿地)两大类型(表1)。沼泽湿地分为草本沼泽、沼泽化草甸、内陆盐沼以及裸斑，提取盐池湾的各类型湿地信息，
+
+![](images/b82c5b60b7fd6339deaa533a8b43f2a8eecd9808e2453277e997a228f15ba393.jpg)  
+图1研究区位置示意图  
+Fig.1 Schematic diagram of study area location
+
+# 表1盐池湾高寒湿地解译标志
+
+Tab.1 Interpretation sign of Yanchi Bay alpine wetland   
+
+<html><body><table><tr><td>湿地类</td><td>湿地型</td><td>景观特征</td><td>影像特征</td><td>543波段组合显示</td><td>实地图片</td></tr><tr><td rowspan="4">沼泽湿地</td><td>草本沼泽</td><td>水生和沼生的草本植物组成优势 群落的淡水沼泽，主要生长杉叶 藻、中间型荸荠和海韭菜</td><td>呈片状分布，形状不规 则,呈黑红色，影纹不均、 粗糙</td><td></td><td></td></tr><tr><td>内陆盐沼</td><td>生长碱地风毛菊、芨芨草、赖草等 盐生植被的沼泽,以苏打、氯化物 和硫酸盐为主的盐土</td><td>呈片状杂乱分布，形状不 规则,呈粉红色、青色，影 纹粗糙伴有红黑点</td><td></td><td></td></tr><tr><td>沼泽化草甸</td><td>地势低洼、排水不畅、土壤过分潮 湿、通透性不良等环境条件下发 育,有早熟禾、苔草和嵩草等植物</td><td>呈片状、大块分布，形状 不规则，呈红色，影纹 不均</td><td></td><td></td></tr><tr><td>裸斑</td><td>受强烈的蒸发作用,盐分在地表集 聚,无生长植被，呈白色</td><td>边界清晰，形状规则，呈 白色,影纹不均</td><td></td><td></td></tr><tr><td>河流湿地</td><td>永久性河流湿地</td><td>有明显泥沙淤积、河道以及水流 痕迹</td><td>常呈条带状分布，边界清 晰,呈绿色、浅绿色，影纹 较均匀</td><td></td><td></td></tr></table></body></html>
+
+得到6期湿地空间分布图，并对分类结果进行精度评价。
+
+1989年、1995年、2001年、2007年以及2013年历史分类结果的精度评价，将2019年调查的237个采样点与之前年份GoogleEarth高分辨率影像进行对比验证。通过生成混淆矩阵,以总体精度和Kappa系数作为精度评价指标，验证历史分类结果的精度，整体精度均大于 $78 \%$ ,Kappa系数均大于0.77。对于2019年的实验分类结果，由于时间相近，通过野外实地调查的237个点，抽取77个样点进行验证，2019年分类结果的总体精度为 $8 3 \%$ ,Kappa系数为 $0 . 8 1$ ○
+
+# 1.4景观指数选取和计算方法
+
+从斑块类型水平和景观水平两个方面选取景观指数。斑块类型水平选取的景观指数为斑块面积（Class Area,CA）、斑块数量（NumberofPatches,NP）最大斑块指数(LargestPatchIndex，LPI);景观水平选取的指数包括斑块密度(PatchDensity,PD）、景观形状指数(Landscape Shape Index,LSI）蔓延度指数（ContagionIndex,CONTAG)以及香浓多样性指数（Shannon's Diversity Index,SHDI)。各景观指数的计算公式以及生态学意义见表 $2 ^ { [ 2 1 ] }$ C
+
+表2景观格局指数计算公式及生态学意义  
+Tab.2 Computational formula of landscape index and ecological significance   
+
+<html><body><table><tr><td>景观指数</td><td>计算公式</td><td>生态学意义</td></tr><tr><td>斑块面积</td><td>a (10000) CA=∑</td><td>其大小反映了物种、能量和养分等信息的差异，值越大表示供给生物所需的物质 和能量越多。式中：ai为斑块i的面积。</td></tr><tr><td>斑块数量</td><td>NP=n</td><td>反映了景观的空间格局,其值的大小与景观破碎度呈正相关,NP越大，景观破碎化 程度越高。式中：n为某一斑块类型的斑块总个数。</td></tr><tr><td>最大斑块指数</td><td>LP[=M(00)0 A</td><td>对于景观优势类型等的确定有重要作用，其数值越大，对景观总体的影响越大，优 势度也越高,反之亦然。式中：分子为景观中最大斑块的面积;A为斑块总面积。</td></tr><tr><td>斑块密度</td><td>PD=N A</td><td>反应景观的破碎化程度，值越大说明景观的破碎化程度越大。式中：N为景观中所 有的斑块总数，A为总面积。</td></tr><tr><td>形状指数</td><td>√A LSI= 0.25E</td><td>LSI值越小,表明景观的形状越规整;LSI值越大,表明景观的形状趋于复杂。式 中：A为总面积，E为景观中所有斑块边界总长度，0.25为正方形校正系数。</td></tr><tr><td>蔓延度指数</td><td>m CONTAG=1+∑∑ln(p) 台台2lnm</td><td>其值越高,表明整体景观具有良好的连接性;其值越低,说明景观中连通性不好， 破碎化程度较高。式中;m为景观中斑块总数;Pi为斑块类型i与j相邻的概率。</td></tr><tr><td>香浓多样性指数</td><td>SHDI=-∑(p)logP: 𝑖 = 1</td><td>其值为0时,说明只有一个斑块组成了整个景观,随着SHDI增大，表明景观中不稳 定信息在增多，破碎化程度在增大。式中：Pi为景观类型i的斑块占景观所有斑块 的比例。</td></tr></table></body></html>
+
+# 2结果与分析
+
+# 2.1湿地景观格局时空演变特征
+
+由1989—2019年盐池湾高寒湿地分类结果（图2)和各类型湿地变化率(图3)可以看出，内陆盐沼主要分布在党河两侧较大山口的冲积扇末端与河漫滩交接的地带，内陆盐沼湿地在研究区中占比最大，占总面积的 $2 6 . 3 2 \% { \sim } 3 7 . 8 1 \%$ ,2001年的面积减小至最低值为 $9 8 . 8 7 \mathrm { k m } ^ { 2 }$ ,2019年面积增加至最大为$1 4 2 . 0 2 \ \mathrm { k m } ^ { 2 }$ 。草本沼泽主要分布于党河河漫滩和泉水出露地带，草本沼泽面积变化幅度较大，面积占比在 $9 . 0 1 \% \sim 3 3 . 9 2 \%$ ,变化率在 $- 0 . 7 3 \% \sim 0 . 7 1 \%$ ，1995—2019年呈现波动增加趋势。永久性河流湿地广泛分布于连接程度较大、地势平缓的党河主河道周围，面积占比为 $9 . 6 9 \% \sim 2 2 . 6 \%$ ,变化幅度较大，变化率在 $- 0 . 5 7 \% - 0 . 8 5 \%$ 。沼泽化草甸主要分布在河漫滩周围，2001年增大到最大值为 $9 5 . 1 4 \mathrm { k m } ^ { 2 }$ ,2007年减少到最小值为 $3 6 . 3 7 \mathrm { k m } ^ { 2 }$ ，变化率为 $- 6 7 . 1 6 \%$ 。裸斑主要分布在内陆盐沼和荒漠的过渡处，在地势较高处由于蒸发和特殊的生态水文过程形成，其面积变化较平稳，变化率在 $- 0 . 3 4 \% \sim 1 . 2 4 \%$ ,2007年增大到最大值为 $7 6 . 3 3 \mathrm { k m } ^ { 2 }$
+
+![](images/1544922a9bbb60d2ef87fd16e6ee0da1e522e243b3118ad4694ba5292c9d718e.jpg)  
+Fig.2Wetland type map of YanchiBay from1989 to 2019
+
+![](images/a4d399872e5c45885cf796cc1c389d7f14f40bd557b66dd39e1e5535e8912443.jpg)  
+图21989—2019年盐池湾湿地类型  
+图3各类湿地类型面积变化  
+Fig.3Area changes of various wetland types
+
+利用马尔科夫转移矩阵对研究区的湿地变化过程进行统计，构建各湿地类型之间的转移矩阵(表3)。1989—2019年，盐池湾高寒湿地类型之间转换速度也发生着变化。1989—2007年，草本沼泽的面积减少主要是转化为沼泽化草甸和内陆盐沼，转换的面积为 $9 . 0 6 \mathrm { k m } ^ { 2 }$ 和 $7 . 5 5 \mathrm { k m } ^ { 2 }$ 。2007—2019年间，内陆盐沼、沼泽化草甸以及沼泽化草甸之间的转换激烈，沼泽化草甸转换为草本沼泽和内陆盐沼的面积分别是 $1 0 . 9 3 \ \mathrm { k m } ^ { 2 }$ 和 $1 3 . 4 9 \ \mathrm { k m } ^ { 2 }$ ，内陆盐沼在这个时间段内转换为河流的面积为 $1 2 . 6 8 \ \mathrm { k m } ^ { 2 }$ ,而草本沼泽转化为内陆盐沼的面积也为 $6 . 5 1 \mathrm { k m } ^ { 2 }$ 。
+
+# 2.2湿地景观格局指数变化分析
+
+2.2.1景观水平上的湿地景观指数景观水平的景观格局指数可以在较大的空间尺度上反映区域整体景观特征，从景观水平的4个指数分析盐池湾高寒湿地的景观格局演变特征。由图4可以看出，1989—2019年PD先增大后减小再增大，2001年最大值为68.31块· $( 1 0 0 \mathrm { { h m } } ^ { 2 } ) ^ { - 1 }$ ,说明湿地景观破碎化程度呈现增大-减小-增大的趋势。LSI呈波动减少-增大-减小的趋势,2019年减小到最小值为88.85,说明湿地形状指数波动减少，湿地的几何形状趋于简单化，斑块不规则程度逐渐下降。CONTAG在1989—2001年呈现减小趋势，之后又增加到$3 0 . 1 2 \%$ ，景观中的某种优势拼块类型形成了良好的连接性，2013年之后又减小到2019年的 $2 4 . 4 8 \%$ ，景观愈加破碎，生态环境不稳定。SHDI是描述景观丰富程度的指标，当整个景观由一个斑块组成时，SHDI值为0,当SHDI值升高，说明景观斑块的类型增加。1989—2001年SHDI逐渐增大到最大值(1.61)，说明盐池湾高寒湿地景观丰富度在增加，且湿地景观分布向均衡方向发展。2001年之后又呈现减少-增加-减少的趋势，这表明研究区景观丰富度在下降，且各类型斑块在景观中呈不均匀化分布态势。
+
+表31989—2019年湿地转移矩阵变化  
+
+<html><body><table><tr><td colspan="7">Tab.3 ChangetableofwetlandtransiermatrixiromI989to2019 /Km</td></tr><tr><td>时段</td><td>景观类型</td><td>草本沼泽</td><td>裸斑</td><td>永久性河流湿地</td><td>沼泽化草甸</td><td>内陆盐沼</td></tr><tr><td rowspan="7">1989-2007年</td><td>草本沼泽</td><td>6.00</td><td>2.07</td><td>2.93</td><td>9.06</td><td>7.55</td></tr><tr><td>裸斑</td><td>1.08</td><td>3.52</td><td>7.89</td><td>0.70</td><td>3.37</td></tr><tr><td>永久性河流湿地</td><td>0.84</td><td>0.91</td><td>15.31</td><td>1.24</td><td>10.75</td></tr><tr><td>沼泽化草甸</td><td>2.72</td><td>0.68</td><td>1.13</td><td>50.38</td><td>11.44</td></tr><tr><td>内陆盐沼</td><td>1.15</td><td>0.95</td><td>3.73</td><td>7.44</td><td>71.31</td></tr><tr><td>草本沼泽</td><td>9.27</td><td>3.48</td><td>3.82</td><td>6.04</td><td>6.51</td></tr><tr><td>裸斑</td><td>1.15</td><td>7.70</td><td>4.70</td><td>0.70</td><td>3.30</td></tr><tr><td>永久性河流湿地</td><td>1.44</td><td>3.26</td><td></td><td>11.08</td><td>0.76</td><td>2.38</td></tr><tr><td></td><td>沼泽化草甸</td><td>10.93</td><td>1.14</td><td>3.10</td><td>48.63</td><td>13.49</td></tr><tr><td>内陆盐沼</td><td></td><td>5.06</td><td>4.21</td><td>12.68</td><td>10.13</td><td>53.43</td></tr></table></body></html>
+
+![](images/27843d83ea3046841fd4272880888a4204f1bb33074688bc6c6ddf2da0eabee2.jpg)  
+图4研究区湿地的景观指数  
+Fig.4Landscape index of wetland in the study area
+
+2.2.2类型水平上的湿地景观指数由表4可知，斑块数量最多的湿地类型为草本沼泽，1989—2019年草本沼泽的斑块数量呈现波动增加趋势,2001年达到最大值8416个，说明景观的破碎化程度最大。沼泽化草甸和永久性河流在这6个时期，斑块数量呈现波动减少趋势，景观破碎化程度降低。1989—2001年，裸斑的斑块个数从2301块增加到6560块，裸斑的破碎化程度增加，2011—2019年，裸斑的斑块数量逐渐减少，破碎化程度逐渐减弱。1989—2019年内陆盐沼的斑块数量呈现增大-减小-增大-减小的变化趋势，说明内陆盐沼湿地的破碎化程度呈现增大-减小-增大-减小的变化态势。由表5可知，各湿地类型的最大斑块指数在变小，说明最大斑块所占比例减少，景观破碎程度增大，湿地的退化形式主要以大斑块的破碎和小斑块的增多为主。
+
+由表6可知，1989—2001年，草本沼泽的最大斑块指数逐渐减小，说明研究区草本沼泽的最大斑块所占比例减少，景观破碎程度增大。2001—2007年增大，说明草本沼泽的最大斑块所占比例在增加，草本沼泽的破碎化程度也在降低，2007年以后又呈现减小趋势，2019年减小到最小值为 $0 . 1 2 \%$ 0
+
+# 表4各湿地类型的斑块数
+
+Tab.4 Number of patches of each wetland type   
+表5气候因子与湿地面积的相关系数  
+
+<html><body><table><tr><td rowspan="2">湿地类型</td><td colspan="6">斑块数/个</td></tr><tr><td>1989年</td><td>1995年</td><td>2001年</td><td>2007年</td><td>2013年</td><td>2019年</td></tr><tr><td>草本沼泽</td><td>7251</td><td>8412</td><td>8416</td><td>6317</td><td>6740</td><td>7837</td></tr><tr><td>沼泽化草甸</td><td>4394</td><td>2761</td><td>3173</td><td>5573</td><td>3238</td><td>2707</td></tr><tr><td>永久性河流</td><td>6716</td><td>5177</td><td>4533</td><td>4644</td><td>4267</td><td>3728</td></tr><tr><td>裸斑</td><td>2301</td><td>4971</td><td>6560</td><td>5670</td><td>4707</td><td>4394</td></tr><tr><td>内陆盐沼</td><td>3857</td><td>4185</td><td>3758</td><td>3972</td><td>4441</td><td>4207</td></tr></table></body></html>
+
+Tab.5 Correlation coeficient between climate factors and wetland area   
+
+<html><body><table><tr><td>湿地面积</td><td>草本沼泽</td><td>裸斑</td><td>沼泽化草甸</td><td>永久性河流</td><td>内陆盐沼</td></tr><tr><td>气温</td><td>-0.779</td><td>-0.672</td><td>0.823*</td><td>0.852*</td><td>0.123</td></tr><tr><td>降水</td><td>-0.671</td><td>-0.561</td><td>0.188</td><td>0.855*</td><td>0.400</td></tr></table></body></html>
+
+注：\*\*表示相关性在0.01上显著，\*表示相关性在0.05上显著。下同。
+
+表6各湿地类型的最大斑块指数  
+Tab.6 Maximum patch index of each wetland type   
+
+<html><body><table><tr><td rowspan="2">湿地类型</td><td colspan="6">最大斑块指数/%</td></tr><tr><td>1989年</td><td>1995年</td><td>2001年</td><td>2007年</td><td>2013年</td><td>2019年</td></tr><tr><td>草本沼泽</td><td>9.19</td><td>0.89</td><td>0.71</td><td>4.63</td><td>1.98</td><td>0.12</td></tr><tr><td>沼泽化草甸</td><td>1.43</td><td>7.71</td><td>14.37</td><td>0.92</td><td>3.01</td><td>0.32</td></tr><tr><td>永久性河流</td><td>1.15</td><td>1.24</td><td>3.85</td><td>0.73</td><td>1.24</td><td>0.26</td></tr><tr><td>裸斑</td><td>0.14</td><td>2.72</td><td>1.96</td><td>2.08</td><td>0.65</td><td>0.04</td></tr><tr><td>内陆盐沼</td><td>8.97</td><td>5.58</td><td>2.73</td><td>4.61</td><td>5.81</td><td>1.11</td></tr></table></body></html>
+
+1989一2019年沼泽化草甸、永久性河流、裸斑以及内陆盐沼的最大斑块指数呈现增大-减小-增大-减小的变化趋势，沼泽化草甸的变化幅度最大，永久性河流和裸斑较稳定。其中，内陆盐沼湿地的最大斑块指数较大，说明内陆盐沼湿地是研究区的优势景观。各湿地类型的最大斑块指数整体都呈波动减小的趋势，较大湿地斑块不断变小、景观破碎化程度增大。
+
+# 2.3湿地景观格局的影响因素分析
+
+2.3.1 气温和降水的年际变化1989—2019年盐池湾的平均气温和降水、5a滑动平均气温以及降水量整体呈上升趋势,年际变化率分别为 $0 . 0 9 ~ \mathrm { ^ { \circ } C } \cdot ( 5 \mathrm { a } ) ^ { - 1 }$ 和 $0 . 7 0 3 \ \mathrm { m m } \cdot ( 5 \mathrm { a } ) ^ { - 1 }$ ,多年平均气温为 $5 . 8 3 ~ \mathrm { \textdegree C }$ ,其波动范围在 $4 . 9 6 . 6 \mathrm { ~ \ : ^ ~ } \mathrm { { { C } } }$ 。1989—2000年的气温低于1999—2019年。多年平均降水量为 $8 0 . 1 7 \mathrm { m m }$ ，其年均降水量波动变化范围在 $2 6 . 8 2 { \sim } 1 2 0 . 3 7 \ \mathrm { m m }$ 01989一1999年降水量呈波动减少趋势，2000年之后降水量波动增加且幅度较大，高于多年平均水平，降水量最大值出现在2016年( $( 1 2 0 . 3 7 \mathrm { m m }$ ）。
+
+2.3.2气候因子与湿地面积的相关性分析从气候因素来看，盐池湾湿地属于典型的高寒、高海拔生态脆弱带，生态稳定性差，对气候变化较为敏感。通过分析了气温、降水与各类湿地面积的相关性表明(表5)，在不同的湿地类型中，气温与沼泽化草甸以及永久性河流的面积呈现显著正相关关系( $P <$ 0.05)，表明随着温度的升高，党河南山的冰雪逐渐融化，对沼泽化草甸和永久性河流的水源补给增多导致面积逐渐增加。与草本沼泽、裸斑的面积呈现负相关关系( $P { > } 0 . 0 5 )$ ,随着温度的升高，面积逐渐减少。降水与永久性河流的面积存在显著正相关( $P <$ 0.05)，这是因为河流湿地的水源补给主要靠大气降水，所以随着降水量的增加永久性河流的面积也变大。平均气温与草本沼泽以及裸斑的面积呈现负相关但不显著( $( P { > } 0 . 0 5 )$ ，气温、降水与内陆盐沼湿地的面积之间存在正相关关系（ $( P { > } 0 . 0 5 )$ 。与气温相比，降水与湿地面积变化量的相关系数相对较小，表明气温对湿地面积变化的影响作用大于降水。
+
+2.3.3气候因子与景观指数的相关性分析通过分析气温、降水与景观指数的相关性表明(表7)，气温与草本沼泽的斑块数量的相关系数为0.97、存在极显著正相关关系（ $\scriptstyle { \overbrace { P { < } 0 . 0 1 } } .$ )，说明随着气温变化，导致了草本沼泽湿地水文条件的改变，进而影响草本沼泽的湿地景观破碎化程度。气温与内陆盐沼的斑块数量呈现显著正相关关系( $_ { ( P < 0 . 0 5 ) }$ ,温度的上升使得湿地的蒸发强度变大，内陆盐沼湿地土壤的积盐速度和盐分表聚性增强，内陆盐沼湿地内部变化频率加强，景观破碎化过程明显。气温与沼泽化草甸以及永久性河流的斑块数量呈负相关关系（ $P >$ 0.05)。降水与裸斑的斑块数量存在显著正相关关系 $( P { < } 0 . 0 5 )$ ,说明随着降水量的增加，裸斑的斑块数量逐渐增多。降水量与草本沼泽以及内陆盐沼呈现正相关关系（ $( P { > } 0 . 0 5 )$ ，和沼泽化草甸的斑块数量呈负相关但不显著( $( P { > } 0 . 0 5 )$ 。除了气象因子对斑块指数有一定的影响，人类干扰活动如放牧等对湿地的景观破碎化也存在响应。
+
+# 3讨论
+
+# 3.1湿地面积变化的影响因素分析
+
+水文过程在湿地的发育、维持、演替直至消亡的过程中起着重要作用，地表水和地下水的运移状况、泥沙淤积2是湿地面积变化的重要影响因素。气候变化通过影响湿地水文过程、生态过程及生态格局改变地表水的空间分布格局。湿地的变化是生态系统中重要的生态过程[23],受地表水、土壤水、地下水的空间格局和运移动态影响较大。研究发现近30a盐池湾高寒湿地总面积呈波动增加趋势（图3)，各个湿地面积与气温、降水的关系差异显著。
+
+永久性河流、沼泽化草甸和内陆盐沼的面积呈增加趋势(图3)，与气温和降水存在显著正相关关系(表7)，这与孙鸿超等24的研究结果相一致，其原因是永久性河流湿地主要分布在连通性较强、地势平缓的党河主河道周围，随着气温和降水的增加，季节性洪水为党河补给了充足水源，河道逐渐变宽，使水面和河道外围消落带面积增加，促进了河流湿地的发育。黄越等25研究得出，随着温度和降水量的增加，高寒地区沼泽化草甸的面积逐渐退化，这是因为盐池湾沼泽化草甸分布在河漫滩外围，受地下水和季节性降水的影响，导致土壤水带和毛管水带常年处于连接状态，脱盐作用和土壤微生物的活动降低了土壤的PH值[26]，中性和偏酸性的环境下发育成了沼泽化草甸，受气温和降水的影响，沼泽化草甸面积增加。内陆盐沼湿地主要分布在冲积扇末端和河漫滩交接的地带，赵杰等的研究表明，近年来极端降水事件增加，季节性洪水频次和来水量呈增加趋势，冲积扇的面积逐渐增大，洪水携带的泥沙游积使得河漫滩的抬升导致土壤水带和毛管水带处于断裂状态，气候变暖情形下强烈的蒸发作用使得土壤的积盐速度和盐分表聚性增强，大量盐分被运移并积累在植物根系和地表，导致土壤积盐普遍发育成重度盐渍土，沼泽化草甸逐渐转变为内陆盐沼湿地(表3)，逐渐向河漫滩扩张使其面积增大，这与杜际增等[28]人的研究结果相一致。
+
+表7气候因子与景观指数的相关系数  
+Tab.7 Correlation coefficients of climate factors and landscape indices   
+
+<html><body><table><tr><td>斑块数量</td><td>草本沼泽</td><td>裸斑</td><td>沼泽化草甸</td><td>永久性河流</td><td>内陆盐沼</td></tr><tr><td>气温</td><td>0.97**</td><td>0.66</td><td>-0.45</td><td>-0.27</td><td>0.75°</td></tr><tr><td>降水</td><td>0.38</td><td>0.75*</td><td>-0.47</td><td>-0.21</td><td>0.10</td></tr></table></body></html>
+
+草本沼泽和裸斑的面积呈减少趋势(图3），与气温和降水存在负相关关系(表7)，裸斑主要分布在地势较高、排水通畅的区域，水量被蒸发耗散使裸斑面积发生微小缩减。草本沼泽与气温和降水存在负相关关系，这与王泉泉等29的研究结果相一致，其原因是温度是草本沼泽湿地水量流失的重要影响因素，随着温度的升高草本沼泽蒸散发增大、冻土融化层加深，导致土壤水分逐渐散失，湿地退化。温度升高还促进了高寒湿地土壤碳矿化，促进凋落物的分解，对高原湿地生态系统物质循环及其碳汇功能产生影响。盐池湾草本沼泽分布在紧邻河道和淡水泉周边区域，在河流来水量增加的同时大量的泥沙淤积致使河漫滩局部微弱抬升，使河漫滩区域向外围延伸，沟谷滞水洼地面积逐步扩大淹没草本沼泽区域，促使草本沼泽湿地面积锐减。
+
+# 3.2湿地景观格局变化的影响因素分析
+
+景观格局的变化是在地表水、地下水等水文过程变化的驱动下斑块变化过程[30]。随着降水和温度的升高，党河的来水量和泥沙淤积加剧，河流的回水湾和细小支流增多且降水和气温与河流的斑块数呈负相关关系 $( P { < } 0 . 0 5 )$ ，河流湿地稳定性较差（表7)，面积变化不稳定容易转换为其他湿地类型，在转化的过程中，原来的小斑块消失，使得河流景观斑块趋于规整，破碎化程度减弱。气象因子与沼泽化草甸的相关性为显著负相关关系（ $( P { < } 0 . 0 5 )$ ，说明随着草本沼泽和内陆盐沼湿地的小斑块受来水量的影响，小斑块连片转为沼泽化草甸，破碎化程度减弱。2006年，盐池湾地区晋升成为国家级自然保护区，湿地保育工程、退牧还草、人口向城市迁移等的实施，为湿地的休养生息提供了机会，湿地退化趋势得到缓解，产草量和优良草种群比例大幅度提高，植物群落结构明显改善，湿地植被覆盖度平均提高 $1 0 \%$ 以上。人口、大牲畜以及羊只的减少，湿地景观格局发生微弱改变，使得自然因素对景观格局的影响加强。
+
+草本沼泽、裸斑和内陆盐沼湿地的破碎化程度呈增加趋势(表3)，随着湿地水源补给的增多，湿地处于长时间连续输水，产生叠加效应，水体向周围区域蔓延，使得河流湿地外围的小斑块大量转化为草本沼泽湿地，草本沼泽的许多大斑块被破坏，破碎化程度增加；随着水位的下降，裸斑边缘的小斑块裸露，斑块数增加；内陆盐沼受水盐运移的影响，主要以大斑块破碎的形式为主，与此同时沼泽化草甸外围零散分布的大量小斑块受包气带变化的影响，逐渐转化为内陆盐沼湿地斑块，其景观斑块形状和边缘具有一定的阻滞性，相邻景观逐渐向其聚集性分布[31],边缘生态效应逐渐增强且斑块形状更为规整，湿地生态环境的稳定性逐渐减弱。盐池湾是草原牧区，城镇和道路建设规模较小，对景观格局的影响不明显，畜牧业的发展是其主要影响因素[32]由于市场牦牛肉和羊肉畅销，效益较好，牧民大量发展畜牧业，湿地区域内随处可见放养的牛羊增多，1989—2019年大牲畜从5502头增加到6175头，羊从54433只增加到83882只，流域内的草畜关系失衡严重，导致牲畜过度的啃食草场，致使草场得不到休养生息的机会，在牲畜的过度啃食和践踏下，加剧了草场板结化和湿地破碎进程。
+
+# 4结论
+
+1989—2019年盐池湾高寒湿地的面积整体呈现波动增加趋势，变化率在-0.14\~0.13,2019年湿地面积最大，2007年湿地面积最小;不同湿地类型的面积变化趋势不尽相同。草本沼泽和裸斑的面积减少，其余三类湿地的面积增加。1989—2019年，湿地景观斑块数量波动增加，景观破碎化程度增大、形状趋于简单;永久性河流和沼泽化草甸的破碎化降低，其余湿地的破碎化增加，区域各斑块规整且均匀分布，湿地景观分布向均衡方向发展。气温、降水与各类湿地面积以及景观指数之间存在不同的相关关系，气温、降水的变化是导致盐池湾高寒湿地面积变化和破碎化的主要原因。
+
+# 参考文献(References):
+
+[1]Guo M,Li J, Sheng C,et al.A review of wetland remote sensing[J]. Sensors,2017,17(4) 777.   
+[2]Li Z, Jiang W,Wang W,et al. Ecological risk assessment of the wetlands in Beijing-Tianjin-Hebei urban aglomeration[J].Ecological Indicators,2020,117: 106677.   
+[3]潘竟虎,刘晓.疏勒河流域景观生态风险评价与生态安全格局 优化构建[J].生态学杂志,2016,35(3):791-799.[Pan Jinghu, Liu Xiao.Landscape ecological risk assessment and ecological security pattern optimization in the Shule River Basin[J].Chinese Journal of Ecology,2016,35(3): 791-799.]   
+[4]付扬军,师学义,和娟.汾河流域景观破碎化时空演变特征[J]. 自然资源学报,2019,34(8):1606-1619.[Fu Yangjun,Shi Xueyi, He Juan. Spatial-temporal evolution of landscape fragmentation in Fenhe River Basin[J]. Journal of Natural Resources,2O19,34(8): 1606-1619.]   
+[5]王晓峰,延雨,李月皓,等.银川市湿地景观演变及其驱动因素 [J].干旱区研究,2021,5(7):1-14.[Wang Xiaofeng,Yan Yu,Li Yuehao,et al. Wetland landscape evolution and its driving factors in Yinchuan[J].Arid Zone Research,2021,5(7): 1-14.]   
+[6]黄犁,徐丽萍.玛纳斯河流域绿洲时空演变及其景观格局变化 [J].干旱区研究,2019,36(5):1261-1269.[Huang Li,Xu Liping. Spatiotemporal evolution of the oasis and change of landscape pattern in the Manas River Basin[J].Arid Zone Research,2019,36 (5): 1261-1269.]   
+[7]Wei W J, Wang B,Niu X.Soil erosion reduction by grain for green project in desertification areas of northern China[J].Forests,2020, 11(4): 473.   
+[8]Patru-Stupariu I, Stupariu M,Stoicescu I,etal. Integrating geo-bio diversity features in the analysis of landscape patterns[J]. Ecological Indicators,2017,80: 363-375.   
+[9]石玉琼,王宁练,李团胜,等.榆林市景观生态风险及其时空分 异[J].干旱区研究,2019,36(2):494-504.[Shi Yuqiong,Wang Ninglian,Li Tuansheng,et al.Landscape ecological risk and its spatial and temporal variation in Yulin City[J].Arid Zone Re
+
+search,2019,36(2): 494-504.]
+
+[10]Wei L,Luo Y,Wang M,et al. Essential fragmentation metrics for agricultural policies: Linking landscape pattern,ecosystem service and land use management in urbanizing China[J].Agricultural Systems,2020,182: 102833.   
+[11]时卉,杨兆萍,韩芳,等.干旱区高山湿地生态风险时空变化 ——以巴音布鲁克自然遗产地为例[J].干旱区研究,2015,32 (3): 614-621. [Shi Hui, Yang Zhaoping,Han Fang, et al. Analysis of ecological risk temporal-spatial change in Arid Alpine Wetland: A case study of Bayanbulak World Natural Heritage Site[J].Arid Zone Research,2015,32(3): 614-621.]   
+[12] 梁晓玉,古元阳,刘昌,等.空间尺度对地形异质性-物种多样 性关系的影响:粒度和幅度[J].生态学杂志,2021,40(2):577- 585.[Liang Xiaoyu,Gu Yuanyang,Liu Chang,et al. The effect of spatial scale on the relationship between topographic heterogeneityand species diversity:Granularity and magnitude[J].Chinese Journal of Ecology,2021,40(2): 577-585.]   
+[13] 巫丽芸,何东进,游巍斌,等.东山岛海岸带景观破碎化时空梯 度分析[J].生态学报,2020,40(3):1055-1064.[WuLiyun,He Dongjin,You Weibin,et al. Spatiotemporal gradient analysis of landscape fragmentation in Dongshan Island[J].Acta Ecologica Sinica,2020,40(3): 1055-1064.]   
+[14]刘吉平,高佳,董春月.1954—2015年三江平原沼泽湿地变化 的区域分异及影响因素[J].生态学报,2019,39(13):4821- 4831.[Liu Jiping,Gao Jia,Dong Chunyue.Regional differentiation and influencing factors of marsh wetland change in Sanjiang Plain during 1954-2015[J].Acta Ecologica Sinica,2019,39(13): 4821-4831.]   
+[15] 张秀霞,頡耀文,卫娇娇,等.1986—2015年干旱区敦煌绿洲景 观的时空演变过程[J].干旱区研究,2017,34(3):669-676. [Zhang Xiuxia, Xie Yaowen,Wei Jiaojiao,et al. Spatiotemporal evolution of landscapes in the Arid Dunhuang Oasis during the period of 1986-2015[J]. Arid Zone Research,2017,34(3): 669-676.]   
+[16] 侯蒙京,高金龙,葛静,等.青藏高原东部高寒沼泽湿地动态变 化及其驱动因素研究[J].草业学报,2020,29(1):13-27.[Hou Mengjing,Gao Jinlong,Ge Jing,etal.An analysisof dynamic changes and their driving factors in marsh wetlands in the eastern Qinghai-Tibet Plateau[J].Acta Prataculturae Sinica,2O20, 29(1): 13-27.]   
+[17]牛振国,宫鹏,程晓,等.中国湿地初步遥感制图及相关地理特 征分析[J].中国科学D辑:地球科学,2009,39(2):188-203. [Niu Zhenguo,Gong Peng,Cheng Xiao,et al.Analysis of remote sensing mapping and related geographical characteristics of wetland in China[J].Scientia Sincia (Terrae),2009,39(2):188-203.]   
+[18] 陈宜瑜.中国湿地研究[M].长春:吉林科学技术出版社,1995: 44.[Chen Yiyu.Wetland Research in China [M]. Changchun: Jilin Science and Technology Press,1995: 44.]   
+[19] 周亚军,刘廷玺,段利民,等.锡林河流域上游河谷湿地景观格 局演变及其驱动力I.干旱区研究,2020.37(3):580-590. [Zhou Yajun,Liu Yanxi,Duan Limin,et al.Driving force analysis and landscape pattern evolution in the up stream valley of Xilin River Basin[J]. Journal of Arid Zone Research,202O,37(3): 580- 590.]   
+[20]Xiao F,Gao G, Shen Q,et al. Spatio-temporal characteristics and driving forces of landscape structure changes in the middle reach of the Heihe River Basin from 1990 to 2O15[J].Landscape Ecology,2019,34(4): 755-770.   
+[21]郑新奇,付梅臣.景观格局空间分析技术及其应用[M].北京：科 学 出版社,2010.[Zheng Xinqi,Fu Meichen.Spatial Analysis Technology of Landscape Pattern and Its Application[M]. Beijing: Science Press,2010.]   
+[22] 刘梦洋,王小军,柯杭,等.甘肃省陇东地区夏季极端降水及典 型年环流特征分析[J].干旱区研究,2021,38(3):775-784.[Liu Mengyang,Wang Xiaojun,Ke Hang,et al. Analysis of extreme summer precipitation characteristics and typical years’circulation characteristics in Longdong Region[J]. Arid Zone Research, 2021,38(3): 775-784.]   
+[23] 王根绪,李元寿,王一博,等.近40年来青藏高原典型高寒湿地 系统的动态变[J].地理学报,2007,74(5):481-491.[Wang Genxu,Li Yuanshou,Wang Yibo,et al. Typical alpine wetland systems changes on the Qinghai-Tibet Plateau in recent 4O years [J].Acta Geographica Sinica,2007,74(5): 481-491.]   
+[24] 孙鸿超,张正祥.吉林省松花江流域景观格局脆弱性变化及其 驱动力[J].干旱区研究,2019,36(4):1005-1014.[Sun Hongchao, Zhang Zhengxiang. Changes and driving forces of landscape pattern vulnerability in Songhua River Basin,Jilin Province[J].Arid Zone Research,2019,36(4): 1005-1014.]   
+[25] 黄越,程静,王鹏.中国北方农牧交错区生态脆弱性时空演变格 局与驱动因素—以盐池县为例[J].干旱区地理,2021,44(4): 1175-1185.[Huang Yue, Cheng Jing, Wang Peng. Spatio-temporal evolution paternand driving factors of ecological vulnerability in agriculture-pastoral ecotone in northern China: A case study of Yanchi County[J]. Arid Land Geography,2021,44(4):1175- 1185.]   
+[26] 文广超,赵梅娟,谢洪波,等.伊犁河谷西部土地植被覆盖演化 及驱动力分析[J].干旱区研究,2021,38(3):843-854.[Wen Guangchao, Zhao Meijuan,Xie Hongbo,et al.Analysis of land vegetation cover evolution and driving forces in the western part of the Ili River Valley[J].Arid Zone Research,2021,38(3): 843- 854.]   
+[27] 赵杰,杜自强,武志涛,等.中国温带昼夜增温的季节性变化及 其对植被动态的影响[J].地理学报,2018,73(3):395-404. [Zhao Jie,Du Ziqiang,Wu Zhitao,et al. Seasonal variations of day and nighttime warming and their effects on vegetation dynamics in China's temperate zone[J]. Acta Geographica Sinica, 2O18,73(3): 395-404.]   
+[28] 杜际增,王根绪,杨燕,等.长江黄河源区湿地分布的时空变化 及成因[J].生态学报,2015,35(18): 6173-6182.[Du Jizeng, Wang Genxu,Yang Yan,et al. Temporal and spatial variation of the distributive paterns and driving force analysis in the Yangtze River and Yellow River source regions wetland[J].Acta Ecologica Sinica,2015,35(18): 6173-6182.]   
+[29] 王泉泉,王行,张卫国,等.滇西北高原湿地景观变化与人为、自 然因子的相关性[J].生态学报,2019,39(2):726-738.[Wang Quanquan,Wang Hang, Zhang Weiguo,et al. The correlation between wetland landscape and social-natural factors on Northwestern Yunnan[J].Acta Ecologica Sinica,2019,39(2): 726-738.]   
+[30] 康满萍,赵成章,白雪,等.苏干湖湿地植被覆盖度时空变化格 局[J].生态学报,2020,40(9):2975-2984.[Kang Manping, Zhao Chenghang,Bai Xue,etal.The temporal and spatial variation pattern of vegetation coverage in Sugan Lake wetland[J]. Acta Ecologica Sinica,2020,40(9): 2975-2984.]   
+[31] 周梅,张飞,王娟,等.新疆艾比湖流域景观格局尺度效应[J].干 旱区研究,2017,34(5):1184-1195.[Zhou Mei, Zhang Fei,Wang Juan,et al. Effect of landscape pattern scale in the Ebinur Lake Watershed, Xinjiang[J]. Arid Zone Research,2017,34(5):1184- 1195.]   
+[32] 赵成章,龙瑞军,马永欢,等.草地产权制度对过度放牧的影响 —以肃南县红石窝乡的调查为例[J].草业学报,2005,16(1): 1-5.[Zhao Chengzhang,Long Ruijun,Ma Yongxin,et al. The impact of the institution of grassland property right on overgrazing: A case from Hongshiwo county Gansu[J].Acta Prataculturae Sinica, 2005,16(1): 1-5.]
+
+# Landscape pattern evolution and its influencing factors of alpine wetland in Yanchi Bay
+
+ZENG Hongxia, ZHAO Chengzhang， WANG Yufang， LI Xiaoya, ZHAO Tingting, TANG Yurui (Collge of Geographyand Environmental Science,Northwest Normal University,Research Centerof Wetland Resources Protection and Industrial Development Engineering ofGansu Province,Lanzhou 73OO7o,Gansu,China)
+
+Abstract: Alpine wetlands are an important water conservation and biodiversity resource.Studying the evolution of wetland landscape patterns and its driving factors helps understand the unique functions,evolutionary processes,and environmental impact mechanisms of the wetland ecosystem. Using six periods of Landsat remote sensing image data from 1989 to 2019,combined with GIS technology,landscape pattern indices,and correlation analysis,this study analyzed temporal and spatial evolution of alpine wetland landscape paterns in Yanchi Bay. The results showed that (1)the total area of Yanchi Bay wetland showed an increasing trend from 1989 to 2019. The swamp meadows,permanent rivers,and inland salt marshes increased by $3 1 . 0 2 \%$ ， $1 7 . 5 3 \%$ ，and $3 . 7 7 \%$ ， respectively,and herbaceous marshes and naked spots decreased $5 4 . 2 8 \%$ and $9 . 5 \%$ ,respectively. (2) For wetland types, fragmentation of permanent rivers and swamp meadows decreased from 1989 to 2019 and fragmentation of other types of wetlands increased.At the landscape level, wetland shape was simplified,while the degree of wetland fragmentation increased,the spread and Shannon's diversity index decreased,and wetland landscape distribution developed evenly.(3)Further,there was a differential corelation among temperature and precipitation, wetland area,and landscape pattern index. Climate change was a key factor leading to changes in the area of the alpine wetland and evolution of landscape pattrns in Yanchi Bay.Studying dynamic evolution characteristics from time series of the alpine wetland landscape has important theoretical significance for understanding ecological functions and ecological processes,as well as practical significance for sustainable development of wetlands and landscape planning and management.
+
+Keywords: landscape index;wetland landscape pattern;Yanchi Bay； spatial-temporal evolution;alpine wetland

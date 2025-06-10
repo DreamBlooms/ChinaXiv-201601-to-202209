@@ -1,0 +1,468 @@
+[
+    {
+        "type": "text",
+        "text": "Precocious flowering of juvenile citrus induced by a viral vector based on Citrus leaf blotch virus: a new tool for genetics and breeding ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Karelia Velazquez,JesusAguero,MariaC.Vives,PabloAleza,JoséA.Pina,Pedro Moreno,Luis Navarroand José Guerri\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CentrodeProecintalteloiasitutleiotigaraias()ada ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 22 December2015;   \nrevised4February2016;   \naccepted 19 February2016.   \n\\* Correspondence (Tel $+ 3 4$ 96 342 4068; fax +34 96 342 4001; email jguerri@ivia.es) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:citrus vector,speed up genetic studies,early flowering in juvenile citrus plant. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The long juvenile period of citrus trees (often more than 6 years) has hindered genetic improvement by traditional breeding methods and genetic studies.In this work,we have developed a biotechnology tool to promote transition from the vegetative to the reproductive phase in juvenile citrus plants by expresson of the Arabidopsis thaliana or citrus FLOWERING LOCUS $T ( F T )$ genesusinga Citrus leafblotch virus-based vector (clbvlNpr-AtFTand clbvlNpr-CiFT, respectively). Citrus plants of different genotypes graft inoculated with either of these vectors started flowering within 4-6 months,with no alteration of the plant architecture,leaf,flower or fruit morphology in comparison with noninoculated adult plants.The vector did not integrate in or recombine with the plant genome nor was it pollen or vector transmissible,albeit seed transmission at low rate Was detected.The c/bvlNpr-AtFT is very stable,and flowering was observed over a period of at least 5 years.Precocious flowering of juvenile citrus plants after vector infection provides a helpful and safe tool to dramatically speed up genetic studies and breeding programmes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Breeding programmes for citrus,the main fruit crop worldwide, arenecessary to obtain high-quality competitive varieties and rootstocks.The complex reproductive biology of citrus trees due to apomixis,pollen and/or ovule sterility of several high-quality genotypes and self-and cross-incompatibility that are relatively common among citrus genotypes limits the possibilities to select parents for specific crosses (Ollitrault and Navarro，2012). However，the most important impairment for breeding programmes and genetic studies is the long juvenile period of citrus, often lasting more than 6 years (Krajewski and Rabe，1995). Plants in the juvenile phase are characterized by their vigorous growth,the presence of thorns and failure to flower even under inductive conditions; they must undergo a transition from the juvenile phase to the reproductive phase to develop flowering buds.Thus,the long juvenile period of citrus plants impairs for years the generation of segregating populations by back crossing, hybrid progeny evaluation to obtain new varieties or studies on inheritanceof fruit-relatedtraits. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The genetic factors that control the end of the juvenile phase to start the flowering period in citrus are presently unknown. Recent molecular studies suggested that the FLOWERING LOCUS T (FT)protein in Arabidopsis thaliana and its orthologs in other plant species are the primary component of the flowering signal cascade (Corbesier et al.，2007;Endo et al.，2005;Hecht et al., 2011;Imamura et al.，2011； Jaeger and Wigge，2007；Kong et al.,2010; Lin et al.,2007;Lv et al.,2012;Tamaki et al.,2007). In the shoot apical meristem,the FT protein forms a complex with the FD protein (with a basic domain/leucine zipper motif transcription factor)，which up-regulate the gene APETALA 1 $( A P \\mathbb { 1 } )$ in the meristem to induce an inflorescence (Abe et al., 2005;Wigge et al.，2005). In Satsuma (Citrus unshiu (Macf.) Marc.） and Moncada mandarins(C.clementina Hort.ex Tan. ${ \\bf \\nabla } \\times ( C . \\ u n s h i u \\ \\times \\ C .$ nobilis Lour.)),in which floral induction is triggered by low temperatures during the fall and winter,the messenger RNA (mRNA) level of the citrus ortholog of $F T$ (CiFT) increases during the spring just before blooming (MunozFambuena etal.,2011; Nishikawa et al.,2007,2009). Similarly, intrifoliate orange (Poncirus trifoliata (L.）Raf.)，in which floral induction and flower bud development occur during early summer as in many deciduous trees,the amount of CiFT mRNA increasesin early summer (Nishikawa et al.，20o9).Ectopic expression of CiFT under the control of the 35S promoter of Cauliflower mosaic virus (CaMV35S) induces an early flowering phenotype on trifoliate orange (Endo et al.，2oo5)； however, overexpression of $F T$ alsoaffects the growth and architecture of these plants that show a dwarfed aberrant appearance.Precocious flowering was also observed in juvenile transgenic plants expressing the flowering genes LEAFY and APETALA1 (Pena et al.，2001)，albeit plants expressing LEAFY also showed an abnormal phenotype.Additionally,recovery of transgenic citrus plants is usually slow and difficult. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Plant virus vectors have been used for both expression of foreign genes (Gleba et al.，2oo7)and suppression of endogenous target genes by virus-induced gene silencing (ViGS)in the infected plants (Senthil-Kumar and Mysore，2011).Using viral vectors is a quick system to deliver proteins in plants without any need for the transformation and regeneration techniques required to obtain transgenic plants.Moreover,expressing the FT protein with viral vectors is an emerging technology to induce precocious flowering in plants (McGarry and Ayre，2012；Yamagishi et al.,2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Citrus leaf blotch virus (CLBV),the type member of the genus Citrivirus，family Betaflexiviridae (Adamsetal.，2012；Martelli et al.,2oo7),has filamentous virions about $9 6 0 \\times 1 4 ~ \\mathsf { n m }$ in size composed of a single-stranded，positive-sense genomic RNA (gRNA) of 8747 nucleotides (nt) and a 41-kDa coat protein (CP) (Galipienso et al.,2001;Vives et al.,2001).The CLBV gRNA has three open-reading frames (ORFs) and untranslated regions of 73 and 541 nt at the $5 ^ { \\prime }$ and $3 ^ { \\prime }$ ends，respectively.The ORF1, encodinga ${ \\sim } 2 2 7 \\mathrm { - } \\mathsf { k D a }$ replicase polyprotein,istranslated directly from the gRNA.The ORF 2,encoding a ${ \\sim } 4 0 – \\ k \\mathsf { D } \\mathsf { a }$ protein with a motif characteristic of cell-to-cell movement proteins (MP) of the 30K superfamily,and the ORF3,encoding the CP,are translated from two $3 ^ { \\prime }$ co-terminal subgenomic RNAs (MP sgRNA and CP sgRNA，respectively).ORFs 2 and 3 are separated by a 64-nt intergenic region (Renovell et al.，2010;Vives et al.，2001, 2002a).Different viral vectors based on a full-genome infectious cDNA clone of CLBV (Vives et al.，20o8a)were previously obtained (Aguero etal.，2012,2014). The advantages of CLBV to be used asa viral vector for citrusare as follows: (i) it causesa symptomless infection in most commercial cultivars (Galipienso et al.，2ooo); therefore,phenotype changes due to endogenous gene silencing or foreign gene expression would not be masked by virus symptoms, (ii) because CLBV is not restricted to the phloem，these vectors are appropriate for gene expression or silencing in nonphloem tissues including meristematic regions (Aguero et al.，2013)，and (ii) contrarily to Citrus tristeza virus (CTV),also used as viral vector for citrus (Folimonov etal.,2007), CLBV is not transmitted by vectors and therefore it could be safely used in field experiments. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work，we have developed a biotechnology tool to promote an early transition to flowering of juvenile citrus plants byexpression of the A.thaliana or citrus $F T$ genein theclbviNpr vector (c/bvlNpr-AtFT orclbvlNpr-CiFTvectors,respectively).Graft inoculation of juvenile citrus plants with either of these vectors induced flowering in the second flush [about 4 months postinoculation,(mpi)].The vector c/bv/Npr-AtFT was very stable，and flowering of the vector-inoculated plants was observed in successive flushes over a period of at least 5 years.Precocious flowering after vector infection providesa helpful tool to dramatically speed up genetic studies and breeding programmes. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Induction of flowering in juvenile citrus plants by means of a CLBV-based vector expressing the FT gene ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To investigate whether ectopic expression of the $F T$ gene from a CLBV vector is able to induce flowering in infected juvenile citrus plants,a cDNA of the $F T$ gene from A. thaliana or from Valencia late sweet orange (Citrus. sinensis (L.)Osb.) was cloned into the clbvlNpr vector to generate the clbvlNpr-AtFT and clbvlNpr-CiFT constructs， respectively(Figure 1） (see‘Experimental procedures').These constructs were agroinoculated inNicotiana benthamiana plants,and 1 month later, the resulting recombinantvirions were purified and slash inoculated in two juvenile C.exce/sa Wester seedlings.At the end of the second flush, about 4 mpi，the citrus plants infected with both constructs flowered (Figure 2a).No differences were found in either the number of flowers or in the period of flowering between the plants inoculated with the vectors expressing AtFT or CiFT.Later, lateral shoots started growing until the formation of a new floral bud.Some shoots did not produce flowers，may be due to uneven distribution or accumulation of the recombinant virus in host plants (Agüero et al.，2014).As the constructs are very stable，flowering and fruit set occurred in successive flushes during the observation period (at least 5 years).Similar C.exce/sa plants noninoculated or inoculated with the wild-type CLBVvirus (WT-CLBV) (Figure 2b)did not produce flowers，but continued their vegetative growth for the same period. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The C.excelsa plants infected with the clbviNpr-AtFT or the clbv/Npr-CiFT constructs were used as inoculum sources for other citrus hybrid juvenile plantsobtained inthe framework ofa citrus breeding programme (Navarro et al.，2015)，following three different inoculation procedures:(i) seedling plants were graft inoculated with two infected bark patches and then cut back leaving one bud above the inocula (Figure 3a),(ii) buds from the juvenile hybrids were propagated onto a rootstock (e.g.a Rough lemon (C. jambhiri Lush))，simultaneously graft inoculated with two bark patches from the infected C.exce/sa plants (Figure 3b), and (ii) the root of small hybrid plantlets was cut-off at the crown and the aerial portion was top-worked onto a rootstock, simultaneously graft inoculated with two bark patches from the infected C.excelsa plants (Figure 3c).All plants inoculated by either procedure with the clbvlNpr-AtFT or the clbvlNpr-CiFT constructs became systemically infected,as detected by conventional reverse transcription PCR (RT-PCR)(Galipienso et al.,2004), usingprimers flanking the insertion site of the $F T$ gene in the vector (Aguero et al.，2014). Some genotypes flowered in successive flushes along the year,whereas others only flowered in the spring flush，suggesting that factors other than the FT protein may be necessary to induce flowering. Indeed no correlation was observed between flowering intensity and CLBV accumulation as estimated by RT quantitative real-time PCR (RTqPCR) (Ruiz-Ruiz et al.,20o9) (data not shown). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The expression of the FT protein did not affect manifestation of other citrus juvenile characters like thorniness (Figure 2c).No difference in thorn size or abundance was observed between plants noninoculated or inoculated with the WT-CLBV (Figure 2d) orinoculated with either the c/bvlNpr-AtFT or the c/bvlNpr-CiFT constructs (Figure 2c). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inoculation with c/bv/Npr-AtFT did not alter plant architecture or flowerand fruit characteristics ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theappearance of juvenile plants inoculated with c/bv/Npr-AtFT was similar to that of nonjuvenile plants,with no leaf deformation orstunting observed in any citrus genotype infected with the recombinant virus (Figure 4b). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To confirm the above observation,buds from juvenile and adult plants of C.exce/sa and Cleopatramandarin(C. reshni Hort.ex Tan.)were propagated on Rough lemon rootstock and the plants propagated with buds from juvenile plants were simultaneously graft inoculated with c/bv/Npr-AtFT.During the first year,only the juvenile plants inoculated with the viral vector flowered,whereas inthe second year，flowering occurred in both the juvenile c/bv/Npr-AtFT-infected plantsand theadult noninoculated plants. The juvenile c/bv/Npr-AtFT-infected plants showed the same architecture as the adult plants，with no dwarfing of leaf deformation being observed (Figures 4a,b). The adult and the clbviNpr-AtFT-infected juvenile C.excelsa plants usually developed inflorescences (Figures 4a,b),whereas the Cleopatra mandarin plants produced individual flowers at the end of the shoots. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ccc32956d34ce8426df407133e11af1f42fbf969db9eec5e20fe9b3cb7967c95.jpg",
+        "img_caption": [
+            "Figure1 Outline of the c/bv/Npr-AtFTorclbvlNpr-CitFTvectors generated by cloning the $F T$ gene from Arabidopsis.thaliana or Valencia late sweet orange(Citrus sinensis (L.) Osb.),respectively,in the Clbv/Npr vector. Triangle represents the duplicated CP sgRNA promoter.White box represents the $F T$ gene introduced. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7481edef40e46ce4aebb83b7c89551ccb066161009b5e2e8f2c586314e8f254.jpg",
+        "img_caption": [
+            "Figure2Flowering ofa juvenile C.exce/sa (Wester) plant (a),and a triploid hybrid recovered from a hybridization between a tetraploid Fina clementine (C.clementina Hort.ex Tan.) and a diploid tangor hybrid (C.clementina $\\times$ C.sinensis) (c) inoculated with the ClbviNpr-AtFT viral vector,respect to the same genotype inoculated with the wild-type CLBV virus (Figure 2b,d,respectively) propagated on Rough lemon (Citrus jambhiriLush) rootstock. ",
+            "Figure 3 Graft inoculation procedures used to infect citrus plants with the c/bv/Npr-FTviral vector to induce early flowering: (a) graft inoculation of seedling plants of the candidate genotype with two infected bark patches and then decapitation of the plant leaving one bud above the inocula, (b) propagation of a scion bud of the candidate genotype onto a Rough lemon rootstock with simultaneous graft inoculation of the rootstock with two bark patches from a plant infected with the viral vector,and (c) elimination of the root of a small plantlet of the candidate genotype and topworking the upper part on a Rough lemon rootstock with simultaneous graft inoculation of the viral vector as in (b). "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The floral morphology and the floral organs,such as sepals, petals,stamens orpistil,were normal inall juvenile c/bv/Npr-AtFTinfected plants.Pollination of pistils from juvenile c/bv/Npr-AtFT inoculated plants with pollen from adult plants of other citrus genotypes led to fruit set.The fruits developed normally and their size，skin colour and aroma were indistinguishable from those developed on adult plants.The fruit yield of both adult and juvenile c/bv/Npr-AtFT-infected plants was similar.Pollen from precocious flowers germinated on agar plates (Figure 5)and successfully fertilized flowers of adult plants of other citrus genotypes with subsequent fruit development and maturation, also indistinguishable from normal fruits of female adult plants (Figure 6). Fruits of these latter plants were collected when ripe and seeds were germinated.Forty-nine recovered plants were analysed with fiveSimple Sequence Repeat (SSR) markers (Froelicher et al.，2008; Ollitrault et al.，2012）and genetic analysis confirmed that all plants were hybrids of the parental genotypes used (Figure 7). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genetic stability of theclbvlNpr-AtFTvector ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genetic stability of the c/bv/Npr-AtFT vector was examined by RTPCR analysis of total RNA (RNAt) from the two originally infected (a) (b) 新 王 水 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C.excelsa plants and from 10 other citrus genotypes graft inoculated from them,using primers encompassing the insertion site of the AtFT gene in the CLBV genome.This analysis,carried out more than 4 years after inoculation,showed in nine of the 12 plants a unique band of the size expected for the full $F T$ sequence,whereas in the other three plants an additional weak band ofsmaller size was also observed.To quantify the recombination events, the PCR products were cloned and 422 individual clones were analysed by PCR using the same primers. Only 36 of these clones $( 8 . 5 \\% )$ hadan insert of a size smaller than that expected for the complete AtFT gene.To assess the sequence variability in the population, four small-sized and 156 full-sized clones were sequenced.The four small-sized clones showedan identical deletion between thenucleotides351 and 462 of the AtFT gene,suggesting that these nucleotides could be a hot spot for recombination.Also,as expected fora RNA virus population,nucleotide changes were observed in 90 of the 156 full-sized clones sequenced (54 clones with a single nt change,27 with two and 9 with three),with about $90 \\%$ of these mutations involving an amino acid change.Overall,these results indicate that 4 years after inoculation there were few important changes in the AtFT sequence and the functionality of FT protein remained unaffected. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Expression of flowering-related genes in citrus plants inoculated with the clbviNpr-AtFT vector ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To examine how the presence of AtFT in infected citrus plants affected the expression of flowering-related genes，budsof C.excelsa juvenile plants were propagated on ten Rough lemon seedling rootstocks,five of which were simultaneously graft inoculated with the c/bv/Npr-AtFT vector,and five with the WTCLBV as control. At the end of the second flush, RNAt from a pool of shoot tips (about $1 0 ~ \\mathsf { m m }$ in length) from each plant was purified and used to quantify the mRNA expression of the $A P 1$ and CiFT citrus genes by RT-qPCR.While significant differences in mRNA accumulation of the $A P 1$ gene were observed (ANOVA, $P < 0 . 0 5$ )in the shot tips of plants inoculated with c/bv/Npr-AtFT in comparison with similar tissues from plants infected with WTCLBV，no significant difference $( P > 0 . 0 5 )$ was observed in the mRNA levels of the CiFT gene (Figure 8). These results indicate that the expression of AtFT in infected plants did not trigger silencing of the endogenous CiFT gene,probably due to the low sequence identity $( 7 4 \\% )$ between AtFTand CiFTand the low CiFT mRNA expression in shot tips of juvenile citrus plants. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/52fcff0df816861aa61c2049a51c7acc43b428d11c7fb116b2f1b39255e9e8a4.jpg",
+        "img_caption": [
+            "Figure 4 Plant architecture of (a)a noninoculated adult C.exce/sa plant and (b)a juvenile C.exce/sa plant inoculated with the clbviNpr-AtFT viral vector. Both plants were prepared by propagation of healthy C.excelsa buds onto Rough lemon rootstocks. ",
+            "Figure5 Germination of pollen from a juvenile C.exce/sa plant inoculated with the c/bv/Npr-AtFT viral vector. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Horizontalandvertical transmissionofthec/bv/Npr-AtFT vector ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Toassess whether the clbv/Npr-AtFT vector ora part thereof can become integrated in the plant genome,total DNA was isolated from bark and leaves of infected C.excelsa plants and analysed by PCR using primers designed on different parts of the CLBV genome or on the AtFT gene.No DNA amplification was ever obtained with CLBV- or AtFT-specific primers，indicating that neither of them become integrated into the plant genome.Also, to examine potential recombination between the AtFT gene expressed from the viral vector and the endogenous CiFT gene, the DNA band PCR amplified with primers specific for the CiFT gene was cloned and 10 of these clones were sequenced.All of them had the characteristic sequence of CiFT,and no recombination event was detected. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d339cb106cb2dca0b3d05a981b0bafdb0e5c100c86f2191fc8c6e6415558540.jpg",
+        "img_caption": [
+            "Figure6 Fruit development in a triploid hybrid obtained by hybridization between a tetraploid Fina clementine and a diploid tangor.A triploid bud was propagated onto a Rough lemon rootstock inoculated with the c/bv/Npr-AtFT viral vector. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In a previous experiment，seed transmission of CLBV was observed at a rate of $2 . 5 \\%$ (Guerri et al.,2004).To examine whether the virus could be transmitted by pollen,we analysed RNAt from pollen from c/bv/Npr-AtFT-infected plants by RT-qPCR With CLBV-specific primers (Ruiz-Ruiz et al.，2Oo9)，but no amplification was detected.Moreover，cross-pollination of flowers from noninoculated plants with pollen from c/bv/Npr-AtFTinfected plants and further analysis of the offspring for the presence of CLBV resulted in none of the progeny plants being infected by the viral vector.Finally,to assesswhether c/bv/NprAtFT can be ovule-transmitted,125 seeds from different infected genotypes cross-pollinated with pollen from healthy plants were grown and individual seedlings were analysed for CLBV by RTPCR.Only in one of the plants analysed was c/bviNpr-AtFT detected,confirming the low seed transmission rate previously detected for CLBV. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The juvenile phase characteristic of some woody perennials like citrus has been a limiting factor for traditional breeding and genetic studies. Expression of the $F T$ gene from A. thaliana (AtFT) or citrus (CiFT) by means of a CLBV-based viral vector induced precocious flowering in juvenile citrus plants.When a juvenile citrus plant was graft inoculated with the c/bv/Npr-AtFT or the c/bv/Npr-CiFT vectors,the infected plant started flowering within the next 4-6 months depending on the genotype and time of the year,whereas similar citrus plants noninoculated or infected with WT-CLBV did not flower，but remained vegetatively growing under the same conditions. No difference in the juvenile plant response was observed using the clbvlNpr-AtFT or the clbvlNprCiFT vectors;however，to prevent a potential interference of endogenous CiFT silencing induced by the second vector，the clbv/Npr-AtFT construct was preferred in most of the experiments. These results suggest that the FT protein delivered by the viral vector could terminate the vegetative growth by inducing the transition from vegetative to reproductive meristematic tissues in the shoot apex.The ability of CLBV to invade meristematic regions in citrus (Agüero et al.,2014) may favour delivery of the FT protein in this region．Previous studies on expression of flowering-related genes in the shoot apex of mature citrus trees found increased CiFT mRNA levels upon transition from the vegetative to the reproductive growth state (Munoz-Fambuena et al.，2011;Nishikawa et al.，2009).Similar changes might be induced in the shoot apex of plants inoculated with the viral vector.Up-regulation of the floral meristematic gene $A P 1$ in shoot tips of plants inoculated with the viral vector in comparison with plants noninoculated or inoculated with WT-CLBV supports this hypothesis. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Constitutive expression of CiFT in transgenic P.trifoliata plants alsoinduced early flowering，but it was accompanied by phenotypic aberrations consisting of a dwarfed,highly branched growth,misshapen leaves and altered flowering habit and flower morphology in comparison with the nontransgenic controls (Endo et al.，2005；Nishikawa et al.，2010)．Contrastingly，in plants inoculated with either the clbvlNpr-AtFT or the clbviNpr-CiFT constructs,the plant architecture was not affected and leaves, flowers and mature fruits were normal.This different behaviour could be due to (i) the slow accumulation and movement of CLBV in the inoculated plants that would allow normal growth during the initial period,before reaching a threshold virus concentration (and FT expression） necessary to induce flowering and (ii) the uneven accumulation and limited virus titre in fully infected plants that would provide reduced amounts of the FT proteinin comparison with transgenic plants expressing FT in all their cells. Several observations support the slow accumulation and movement of CLBV:(i) in plants inoculated with a c/bv/Npr vector expressing the green fluorescent protein (c/bv/Npr-GFP)，CLBV was detected by RT-PCR only at the end of the first flush (about 1.5 mpi) (Agüero et al.,2012),(i)in plants inoculated with CLBVbased vectors carrying fragments of the endogenous citrus genes phytoene desaturase or sulphur，the silencing phenotype was rarely observed in the first flush and more usually in the second flush,always being more intense in the second flush,and (ii) the symptoms of chlorotic blotching and stem pitting induced by CLBVin Dweet tangor (C. tangerina Hort.ex Tan. $\\times \\ C .$ sinensis) and Etrog citron(C.medica L.),respectively,usually appear in the second flush，not in the first. Finding that while some citrus genotypes infected with c/bv/Npr-AtFT produced inflorescences, others produced individual flowers，or that some genotypes flowered only in the spring,whereas others repeatedly flowered in successive flushes along the year suggest that,in addition to the $F T$ gene，other factors are likely necessary to induce floral buds. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f770d01a7cac374c51ab7048070657ca4932bbed6d17668a235471fb6fd314a8.jpg",
+        "img_caption": [
+            "Figure 7Electropherograms obtained using the MEST191 SSR locus for genetic analysis of a diploid Honey hybrid mandarin (Citrus nobilis $\\times$ Citrusdeliciosa),the P-46 diploid tangor hybrid [(Citrusreticulata $\\times$ Citrus sinensis) $\\times$ Citrus sinensis)] and the triploid hybrid SA.14.187.1.6, displaying the alleles of both parents.The numbers indicate the size of alleles in nucleotides for each SSR locus. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Genetic instability associated with frequent recombination events and high mutation frequency during RNA replication are limiting factors in the use of plant viral vectors. However, clbvlNpr-AtFT was able to induce flowering during the long period studied (almost 5 years).PCR analysis of individual AtFT clones showed that only $8 . 5 \\%$ of the clones analysed yielded a DNAband of a size smaller than that expected for the complete gene， confirming that CLBV-based vectors are highly stable (Aguero et al.，2012，2014)．Although some of the clones sequenced showed nucleotide substitutions leading to amino acid changes,none of these changes affected the amino acids essential for the FT function (Hanzawa et al.，2oo5； Ho and Weigel,2014).On the other hand,genetic variation of CLBV isolates from different geographical origin or citrus host was shown to be very low in comparison with most RNA plant viruses (Vives et al.,2002b). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although genetic transformation to induce early flowering could bea helpful tool to accelerate breeding，thistechnique is less practical with citrus trees due to their low transformation efficiency and the long regeneration period required (Pena et al.，2001). While infection of a citrus plantwith the viral vector is fast (about 1 month),recovery of a transgenic citrus plant takes more than 1 year.Also,once the viral vector has systemically infected a citrus plant,it can be easily graft inoculated onto hundreds of different genotypes,whereas the transformation protocol has to be adapted and performed for each individual genotype.The juvenile plants inoculated with CLBV-based vectors expressing the $F T$ gene produced flowers at the end of the second flush (about $4 \\mathrm { \\ m p i }$ depending on the inoculated genotype and the season) and these successfully produced fruitswith normal seeds.Therefore，this technique allows obtaining seeds for the next-generation progeny within 1 year without any genome modification in the plant. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d49f0ba7c0edacfe9385bf66b96f83f336e73d2262ea65b3d4a14f5f2e075d8e.jpg",
+        "img_caption": [
+            "Figure 8 Relative mRNA expression of the endogenous APETALA $( A P 1 )$ and citrus FLOWERING LOCUST(CiFT) genes in plants of C.excelsa propagated on Rough lemon rootstock and inoculated with the c/bv/NprAtFT vector or with WT-CLBV.The mRNA levels were estimated by RT quantitative real-time PCR.The average expression in control plants infected with WT-CLBV was considered 1OO,and the expression in the c/bv/Npr-AtFT-infected plants was relative to theaverage of the control plants.Bars represent standard deviation values. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The viral vector developed in this work is being a helpful tool to speed up genetic studies and breeding programmes.While backcrossing has not been used in citrus breeding because the very long time needed to recover successive hybrid populations, now it has been routinely incorporated in our triploid breeding programme (Navarro et al.，2015).Tetraploid parents were produced by sexual hybridization and screened by molecular markers forsome desired traits,forexample resistance to the fungusAlternariaalternata (Cuencaetal.,2o13) or expression of the Ruby gen for accumulation of anthocyanins in fruits (Butelli et al.，2012).Then，selected hybrids are inoculated with the clbv/Npr-AtFTvector to induce precocious flowering and used in crosses with diploid parents to produce triploid progenies.More than16oo sexual crosses have been made so far following this procedure. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In many countries,the use of genetically modified plants is presently prohibited.The main concerns against the transgenic plants are the use of antibiotic resistance genes for selection of transformants， potential cross-pollination with other sexually compatible plants，plant genome alteration by integrationof foreign sequences or by recombination when additional copies of endogenous genes are introduced,and potential transduction of the binary plasmid used for transformation into other bacteria present in the plant or soil. Inoculation of CLBV-based vectors to citrus trees to induce early flowering is performed by grafting, and no antibiotic resistance gene，plasmid or bacteriaare introduced in the plants.Neither the viral vector nor the $F T$ gene introduced in the plants become integrated in the plant genome, and the CLBV virus is not transmitted either by insect vectors (Vives et al.,20o8b) or by pollen.Although a low seed transmission rate has been detected in a few genotypes,the virus is easily detected in the infected plants by RT-qPCR and it could be easily eliminated by shoot tip grafting in vitro (Navarro et al.,1975) to recover any desired genotype vector free.Overall，our results indicate that this viral vector should not be considered asa risky genetically modified organism and it can be transiently used under field conditions，with essentially no risk，in breeding programmes for early fruit evaluation even under field conditions. This will allow a quick screening of hybrid progeny to eliminate the genotypes with undesirable characters,which are the majority of the progeny in any breeding programme,and concentrate efforts in additional evaluation of selected potentiallynew varieties.Finally,selected varieties could be recovered vector free for commercial propagation.This approach will save expensive greenhouse space and labour and will accelerate the selection of newvarieties，making the breeding programmes much more efficient at lower cost.A field experiment has been recently established in our institute for early evaluation of a triploid hybrid progeny inoculated with the c/bvlNpr-AtFT vector. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Citrus breeding is also hampered by the scarcity of genetic studies on the inheritance of characters that cannot be phenotyped during the juvenile phase (Ollitrault and Navarro，2012). The use of CLBV-based vectors, together with the new genetic (Ollitrault et al.，2012)and genomic(Wu et al.，2014)tools available,will facilitate these studiesallowing the development of markers for focused introgression and early selection.These new toolswill enable general implementation of efficient breeding programmes based on marker-assisted selection. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Construction of the CLBV-based vectors expressing the $F T$ gene ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The AtFT and CiFT coding regions were amplified by RT-PCR from A. thaliana and Valencia late sweet orange RNAt extracts using appropriate primers (Table 1) and inserted into the Pm/l restriction siteof the clbv/Nprvector (Aguero et al.,2012) to generate the clbvINpr-AtFT and clbvINpr-CiFT constructs，respectively (Figure1).The c/bv/Npr vector was built by introducing a unique Pm/l restriction site at the intergenic region between the MP and the CP genes and then introducing a duplicate of the CP sgRNA promoter restoring the Pm/l restriction site to express foreign sequences by producing an extra sgRNA.In this vector,transcription of the new sgRNA was induced by the native promoter of de CP sgRNA,whereas the CP gene expression was controlled by the duplicated promoter (Aguero et al.，2012，2014)．All the constructs were confirmed by sequencing. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Plant growth and inoculations ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "N.benthamiana plants were grown in small pots with an artificial pottingmix( $5 0 \\%$ vermiculite and $50 \\%$ peat moss) in a plant growth chamber at $2 0 / 2 4 ^ { \\circ } C$ (night/day), $60 \\%$ relative humidity anda $1 6 / 8 - h$ light/dark regime.Citrus plants were grown as seedlings，or propagated on a Rough lemon rootstock，ina glasshouse at $1 8 / 2 6 ~ ^ { \\circ } C$ (night/day)，using 2-L plastic containers filled with $50 \\%$ sand and $50 \\%$ peat moss and a standard fertilizing procedure (Arregui et al., 1982). ",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f87f468f24b48e63380d6257ca1155aa1e958d9572698362a137e74ee1b4673.jpg",
+        "table_caption": [
+            "Table1 Primers used in this work "
+        ],
+        "table_footnote": [
+            "\\*Phosphorylated at the $5 ^ { \\prime }$ end. $^ \\dag _ { \\mathsf { N t } }$ positions are indicated on the sequence of the Arabidopsis thaliana $F T$ (FLOWERING LOCUS T) mRNA (GenBank accession number AB027504). $^ \\ddag \\mathsf { N t }$ postionsare indicatedon the sequence ofthe Citrus unshiu flowering locus CiFT2 mRNA(GenBankacesson number AB301934). $^ \\ S _ { \\mathsf { N t } }$ poitionsareindicatedontheequenceftheCitrusclementinahypotheticalproteinICLEv03249mg）NA(GeBankaesimber XM_006437813.1). "
+        ],
+        "table_body": "<html><body><table><tr><td>Gene synthesized</td><td>Primer</td><td>Sequence 5'-3'</td><td>Position (nt)</td></tr><tr><td>AtFT</td><td>AtFT F*</td><td>ATGTCTATAAATATAAGAGACCCTCTTATAGTAAGCAG</td><td>70-107†</td></tr><tr><td></td><td>AtFT R*</td><td>CTAAAGTCTTCTTCCTCCGCAGCCACTCTCC</td><td>597-567+</td></tr><tr><td>CiFT</td><td>CFT F*</td><td>ATGTCTAGCAGGGAGAGAGACCCTCTTATTG</td><td>117-147‡</td></tr><tr><td></td><td>CFT R*</td><td>TCATCGTCTGACAGGCCTTCCG</td><td>650-629†</td></tr><tr><td>AP1 q-PCR</td><td>qAP1F</td><td>ATCAAATTCAAAACCAGGTTCCCAACA</td><td>740-766$</td></tr><tr><td></td><td>qAP1R</td><td>ATCCAGCAAAGCATCCAAGGCTACAC</td><td>910-885</td></tr><tr><td>CiFT q-PCR</td><td>qCiFTF</td><td>ATGTCTAGCAGGGAGAGAGACCCTCT</td><td>117-142*</td></tr><tr><td></td><td>qCiFTR</td><td>ATTAACATCCTTGTTTGAATAGGTAAT</td><td>204-230*</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The CibvlNpr-AtFTand clbviNpr-CiFT constructs Were agroinoculated into N.benthamiana using Agrobacterium tumefaciens cells，strain COR 308 (kindly provided by Dr.C.M. Hamilton, Cornell Research Foundation).Once confirmed the systemic infection，semipurified virion extracts from N.benthamianainfected plants (Galipienso etal.，2ooo)were mechanically inoculated onto C.exce/sa plants by stem slashing (Garnsey et al.，1977)with scalpel blades dipped in the virion extracts (Galipienso et al.，2000;Vives et al.，2008a).Bark pieces from these plants or from plants infected with the WT-CLBV were used to graft inoculate other citrus species or hybrids. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNA extraction,RT-PCR detection and real-time RT-qPCR quantification ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "For RT-PCR amplification and detection,RNAt from $1 0 0 ~ \\mathrm { { m g } }$ fresh tissue was prepared using the TRlzol reagent (Invitrogen,Carlsbad,CA) following the manufacturer's instructions,and after alcohol precipitation，RNA was resuspended in $5 0 ~ \\mu \\ L$ of RNasefree water. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The $F T$ sequences inserted in the c/bv/Npr vector were detected by conventional RT-PCR (Vives et al.,2Oo2b) using the primer pair MpC/MP3U (Agüero et al.,2014),flanking the insertion site.The DNA synthesized was analysed by $2 \\%$ agarose gel electrophoresis and GelRed staining (Biotium Inc.，Hayward，CA)． The DNA fragments obtained were inserted into the pGEM-T plasmid vector (Promega Corp.Madison，Wl) and cloned in Escherichia coli DH5a cells.A total of 422 individual clones were analysed by PCR using the same primers,and the nucleotide sequence of 160 cloneswas determined with an ABl PRiSM DNA Sequencer3100 (Applied Biosystems，Paisley，UK).Multiple alignmentswere performed using the program Clustal W(Thompson et al.,1994). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To assess the endogenous gene expression by RT-qPCR, RNAt from young shoots from noninoculated or vector-infected plants was prepared using a standard protocol with two phenol: chloroform: isoamyl alcohol extractions,followed by RNA precipitation with 6 M lithium chloride (Ancillo et al.，20o7).RNAt extracts were treated with RNase-free DNase (Turbo DNA-free; Ambion，Paisley，UK).RNAt concentrations were measured in duplicate in a NanoDrop 1000 UV-VIS spectrophotometer (Thermo Fisher Scientific,Waltham，MA)and then adjusted to the same concentration.DNA-free RNAt from plants infected with the WT-CLBV or the clbv/Npr-AtFT constructs Was reversetranscribed using oligo(dT) and ThermoScriptTM reverse transcriptase (Invitrogen).Apetala (AP1) and CiFT mRNA levelswere estimated by RT-qPCR using SYBR GREEN detection and specific primers (Table 1).The relative mRNA levels were normalized to the RNAt amounts as previously described by Aguero et al. (2012)． The expression of each gene in the c/bviNpr-AtFTinoculated plants relative to the control WT-CLBV-infected plants was determined by the $2 ^ { - \\Delta \\Delta \\mathsf { C T } }$ method (Livak and Schmitgen, 2001).These values were subjected to multifactorial analysis of variance (ANOVA) using the IBM SPSS Statistics 20.0 program. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Genotyping the progeny by SSR marker analysis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The male and female parentsand the 49 hybrids selected were genotyped usinga total of five SSR markers: CIBE572O (Ollitrault et al.，2010)， MEST191， (Ollitrault et al.，2012)，MEST488 (Garcia-Lor etal.,2012),mCrCIR01F04a (Froelicher et al.,2008) and mCrCIR07F11 (Kamiri et al.，2011).Twenty-eight of the triploid hybrids were analysed from a $4 x \\times 2 x$ sexual hybridizationbetweena tetraploid Temple mandarin (C. temp/e Hort.ex Y. Tan.）and the P-48 diploid hybrid ((C.reticulata $\\times \\ C$ sinen$S i S ) \\ \\times \\ C .$ sinensis)，and the other 21 triploid hybrids froma $2 x \\times 2 x$ sexual hybridization between Honey mandarin (C. no$b i / i s \\times C .$ deliciosa Blanco) and the P-46 diploid hybrid ((C. reticulata $\\times \\ C .$ sinensis) $\\times \\ C$ sinensis)．In both hybridizations，the male parents were inoculated with the c/bv/Npr-AtFT viral vector. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA was isolated from the hybrids and their parent genotypes using the Plant DNAeasy kit (Qiagen，Hilden，Germany),following the manufacturer's protocol.PCR amplification of the genomic DNA with the SSR markers was performed using a Mastercycler epgradient S (Eppendorf,Hamburg,Germany).Each reaction contained O.8 U Taq DNA polymerase (Thermo Fisher Scientific), $2 \\ \\mathrm { n g / m L }$ Citrus DNA, $0 . 2 ~ \\mathsf { m m }$ well RED (Sigma-Aldrich, Gillingham，UK)dye-labelled forward primer, $0 . 2 ~ \\mathsf { m m }$ non-dyelabelled reverse primer, $0 . 2 ~ \\mathsf { m m }$ each dNTP, $1 0 \\times \\mathsf { P C R }$ buffer and $1 . 5 \\mathrm { \\ m m } \\mathrm { M g } { \\mathsf C } | _ { 2 }$ in a final volume of $1 0 ~ \\mathrm { m L }$ .The PCR protocol was asfollows:an initial denaturation step at $9 4 ~ ^ { \\circ } \\mathsf { C }$ for 5min followed by 40 cycles of $3 0 ~ \\varsigma$ at $9 4 ~ ^ { \\circ } C .$ ，1minute at $5 0 ~ ^ { \\circ } \\mathsf { C }$ or $5 5 ~ ^ { \\circ } C$ ，45sat $7 2 ^ { \\circ } C$ and a final elongation step of $4 ~ \\mathrm { m i n }$ at $7 2 ^ { \\circ } C$ .Capillary electrophoresis was performed usinga ${ \\mathsf { C E Q } } ^ { \\mathsf { T M } }$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8000 Genetic Analysis System (Beckman Coulter Inc., Fullerton, CA).Data were collected and analysed using GenomeLab? GeXP (Beckman Coulter Inc.) version 10.0 software. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Genome DNA analysis ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Toassess whether c/bv/Npr-AtFT integrates within the plant genome,genomic DNA extracts from bark and leaves of c/bv/NprAtFT-infected C.excelsa plants were analysed by PCR using primers designed on different parts of the CLBV genome and on the CiFT gene (Table 1). The DNA synthesized was analysed by $2 \\%$ agarose gel electrophoresis and GelRed staining (Biotium Inc., Hayward,CA).The DNA fragments obtained were inserted into the pGEM-T plasmid vector (Promega Corp.）and cloned in Escherichia coli DH5a cels.Positive clones were sequenced. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grant AGL2012-32 429,co-financed by FEDER(European Fund for Regional Development) and by the Ministerio de Economiay Competitividad (MINECO).Ma Carmen Vives was recipient of a contract from IVIA.We thank Maria Boil for excellent lab assistance. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abe，M.，Kobayashi，Y.，Yamamoto，S.，Daimon，Y.，Yamaguchi，A., Ikeda，Y.，Ichinoki，H.et al.(2005）FD，a bZIP protein mediating signals from the floral pathway integrator FT at the shoot apex. Science，309，1052-1056.   \nAdams, M.J., Candresse,T., Hammond,J., Kreuze, J.F.,Martelli,G.P., Namba, S.,Pearson,M.N.et al.(2012) Family Betaflexiviridae.In Virus Taxonomy: IXthReport of the International Committee on Taxonomy of Viruses (King, A.M.Q.,Adams,M.J.,Carstens,E.B.and Lefkowitz,E.J.,eds),pp.920-941. London,UK:Elsevier Academic Press.   \nAgüero,J.，Ruiz-Ruiz,S.，Vives,M.C.，Veläzquez，K.，Navarro,L.，Pena,L., Moreno,P.etal. (2012) Development of viral vectors based on Citrus leaf blotch virus to express foreign proteins or analyze gene function in citrus plants.Mol.Plant-Microbe Interact.25,1326-1337.   \nAguero,J.，Vives,M.C.，Velazquez，K.，Ruiz-Ruiz,S.，Juarez,J.，Navarro,L., Moreno，P.etal.(2013)Citrus leaf blotch virus invades meristematic regions in Nicotiana benthamiana and citrus.Mol.Plant Pathol.14, 610-616.   \nAguero,J.,Vives,M.C.,Velazquez,K.,Pina, J.A.,Navarro,L.,Moreno,P.and Guerri,J. (2o14) Effectiveness of gene silencing induced by viral vectors based on Citrus leaf blotch virus isdifferent in Nicotiana benthamiana and citrus plants.Virology,460-461,154-164.   \nAncillo,G.，Gadea,J.，Forment,J.，Guerri,J.and Navarro，L.(2Oo7)Class prediction of closely related plant varieties using gene expresson profiling.J. Exp. Bot.58, 1927-1933.   \nArregui,J.M.，Ballester,J.F.，Pina,J.A.and Navarro,L.(1982) Influencia del sustrato y de la fertilizacion en el crecimiento de plantas de lima Mejicana (Citrusaurantifolia (Christm.) Swing).An. INlA Ser.Tecnol.Agric.19,61-82.   \nButelli,E.,Licciardello,C., Zhang,Y., Liu,J.,Mackay,S.,Bailey,P.,ReforgiatoRecupero,G.et al. (2012）Retrotransposons control fruit-specific，colddependent accumulation of anthocyanins in blood oranges.Plant Cell,24, 1242-1255.   \nCorbesier,L.,Vincent, C., Jang,S., Fornara,F.,Fan,Q.,Searle,I., Giakountis,A. et al.(2oo7) FT protein movement contributes to long-distance signaling in floral induction of Arabidopsis. Science,316,1030-1033.   \nCuenca,J.,Aleza,P., Vicent,A., Brunel,D.,Olitrault, P.and Navarro,L. (2013) Genetically based location from triploid populations and gene ontology of a 3.3-mb genome region linked to alternaria brown spot resistance in citrus reveal clusters of resistance genes. PLoS ONE,8,e76755.   \nEndo,T.,Shimada,T.,Fuji,H.,Kobayashi,Y.,Araki,T.and Omura,M. (2005) Ectopic expression of an FT homolog from citrus confers an early flowering phenotype on trifoliate orange (Poncirus trifoliate L. Raf).Transgenic Res.14, 703-712.   \nFolimonov,A.S.,Folimonova,S.Y., Bar-Joseph,M.and Dawson,W.O.(2007)A stable RNA virus-based vector for citrus trees.Virology,368,205-216.   \nFroelicher,Y., Dambier,D., Bassene,J.B., Costantino,G.,Lotfy,S.,Didout, C., Beaumont,V.et al.(2oo8) Characterization of microsatellite markers in mandarin orange (Citrus reticulata Blanco).Mol. Ecol. Resour.8,119-122.   \nGalipienso,L.，Navarro,L.，Ballester-Olmos,J.F.，Pina,J.A.，Moreno,P.and Guerri, J.(2ooo) Host range and symptomatology of a graft-transmissible pathogen causing bud union crease of citrus on trifoliate rootstocks.Plant Pathol.49,308-314.   \nGalipienso,L., Vives,M.C.,Moreno,P.,Milne,R.G.,Navarro,L.and Guerri,J. (2001)Partial characterisation of Citrus leaf blotch virus,a new virus from Nagami kumquat. Arch. Virol.146,357-368.   \nGalipienso，L.，Vives,M.C.，Navaro,L.，Moreno，P.and Gueri,J.(2004)   \nDetectionof Citrus leaf blotch virus using digoxigenin-labeled cDNA probes and RT-PCR.Eur.J.Plant Pathol.110,175-181.   \nGarcia-Lor,A., Luro,F., Navarro,L.and Olitrault, P. (2012) Comparative use of InDel and SSR markers in deciphering the interspecific structure of cultivated citrus genetic diversity: a perspective for genetic association studies.Mol. Genet. Genomics,287,77-94.   \nGarnsey,S.M.,Gonsalves,D.and Purcifull,D.E.(1977) Mechanical transmission of citrus tristeza virus. Phytopathology,67,965-968.   \nGleba,Y., Klimyuk,V.and Marillonnet,S.(2oo7) Viral vectors for the expression of proteins in plants. Curr.Opin. Biotechnol.18,134-141.   \nGueri,J.，Pina,J.A.,Vives,M.C.，Navarro,L.and Moreno,P.(2004) Seed transmission of citrus leaf botch virus:implications inquarantine and certification programs.Plant Dis.88,906.   \nHanzawa,Y., Money,T.and Desmond Bradley,D.(2o05)A single amino acid convertsa repressor to an activator of flowering.Proc.Natl.Acad.Sci. USA, 102, 7748-7753.   \nHecht,V.,Laurie,R.E.,van der Schoor,J.K.,Ridge,S., Knowles, C.L.,Liew,L.C., Sussmilch,F.C.et al. (2011) The pea GIGAS gene is a FLOWERING LOCUS T homolog necessary for graft-transmissible specification of flowering but not for responsiveness to photoperiod.Plant Cell,23,147-161.   \nHo,W.W.H.and Weigel,D.(2014) Structural features determining flowerpromoting activity of Arabidopsis FLOWERING LOCUS T.Plant Cell,26,252- 264.   \nImamura,T., Nakatsuka,T., Higuchi,A., Nishihara,M.and Takahashi, H.(2011) The gentian orthologs of the FT/TFL1 gene family control floral initiation in Gentiana.Plant Cell Physiol.52,1031-1041.   \nJaeger，K.E.and Wigge,P.A.(2oo7) FT proteinacts asa long-range signal in Arabidopsis. Curr. Biol.17,1050-1054.   \nKamiri，M.,Stift,M.，Srairi,I., Costantino,G.,El Moussadik,A.,Hmyene,A., Bakry，F.et al. (2o11） Evidence for non-disomic inheritance in a Citrus interspecific tetraploid somatic hybrid between C.reticulata and C.limon using SSR markers and cytogenetic analysis. Plant Cel Rep.30,1415-1425   \nKong,F., Liu,B.,Xia,Z.,Sato,S.，Kim,B.,Watanabe,S.,Yamada,T.et al. (2010)Two coordinately regulated homologs of FLOWERING LOCUS T are involved in the control of photoperiodic flowering in soybean.Plant Physiol. 154,1220-1231   \nKrajewski,A.J.and Rabe,E.(1995) Citrus flowering:a critical evaluation.J. Hortic. Sci.70,357-374.   \nLin,M.K.，Belanger，H.,Lee,Y.J.，Varkonyi-Gasic,E.,，Taoka,K.I.，Miura，E.. Xoconostle-Cazares, B.et al. (2007)FLOWERING LOCUS T protein may act as the long-distance florigenic signal in the cucurbits.Plant $\\mathsf { C e } / /$ ,19,1488-1506.   \nLivak,K.J.and Schmittgen,T.D.(2oo1) Analysis of relative gene expression data using real-timequantitative PCR and the $2 ^ { - \\Delta \\Delta \\mathsf { C T } }$ method. Methods,25,402- 408.   \nLv, L.,Duan,J., Xie,J.H.,Wei,C.B.,Liu,Y.G.,Liu,S.H.and Sun,G.M.(2012) Isolation and characterization of a FLOWERING LOCUS T homolog from pineapple (Ananas comosus (L.) Merr).Gene,505,368-373   \nMartelli，G.P.，Adams，M.J.，Kreuze，J.F.and Dolja，V.V.(20O7）Family Flexiviridae:a case study in virion and genome plasticity.Annu.Rev. Phytopathol.45,73-100.   \nMcGarry,R.C.and Ayre,B.G.(2012) Geminivirus-mediated delivery of florigen promotes determinate growth in aerial organs and uncouples flowering from photoperiod in cotton. PLoS ONE,7,e36746.   \nMunoz-Fambuena,N.,Mesejo,C., Gonzalez-Mas,M.C.,Primo-Millo,E.,Agusti, M.and Iglesias, J. (2011) Fruit regulates seasonal expression of flowering in alternate-bearing “Moncada\"mandarin.Ann.Bot.1o8,511-519.   \nNavarro,L.,Roistacher,C.N.and Murashige,T.(1975) Improvement of shoottip grafting in vitro for virus-free citrus.J.Am. Soc. Hortic.Sci.1oo,471-479.   \nNavarro,L.,Aleza,P.,Cuenca,J.,Juarez,J.,Pina,J.A.,Ortega,C.,Navarro,A. et al.(2015) The mandarin triploid breeding program in spain.Acta Hort. 1065,389-395.   \nNishikawa,F.，Endo,T.，Shimada,T.，Fuji,H.，Shimuzu,T.，Omura,M.and Ikoma,I. (2Oo7) Increased CiFT abundance in the stem correlates with floral induction by low temperature in Satsuma mandarin (Citrus unshiu Marc.).J. Exp.Bot.58,3915-3927.   \nNishikawa,F.,Endo,T.,Shimada,T.,Fuji, H.,Shimizu,T.and Omura,M. (2009) Differences in seasonal expression of flowering genes between deciduous trifoliate orange and evergreen satsuma mandarin.Tree Physiol.29,921- 926.   \nNishikawa,F., Endo,T.,Shimada,T.,Fuji, H., Shimuzu,T., Kobayashi, Y.,Araki, T.et al. (2O1O)Transcriptional changes in CiFT-introduced transgenic trifoliate orange (Poncirus trifoliata L.Raf.).Tree Physiol.30,431-439.   \nOllitrault,P.and Navarro,L. (2012) Citrus.In Fruit Breeding: Handbook of Plant Breeding 8 (Badenes,M.L.and Byrne,D.H.,eds),pp.623-662.New York, USA: Springer.   \nOllitrault,F.,Terol,J.,Pina,J.A.,Navarro,L.,Talón,M.and Olitrault,P. (2010) Development of SSR markers from Citrus clementina (Rutaceae) BAC end sequences and interspecific transferability in citrus.Am.J. Bot.97,e124-e129.   \nOllitrault,P.,Terol,J., Chen,C.,Federici, C.T., Lotfy,S.,Hippolyte,I., Olitrault, F. et al. (2012)A reference genetic map of C.clementina Hort.ex Tan.; citrus evolution inferences from comparative mapping.BMC Genom.13,593.   \nPena,L.，Martin-Trillo，M.， Juarez,J.，Pina,J.A.，Navarro,L.and MartinezZapater，J.M.(2001）Constitutive expression of Arabidopsis LEAFY or APETALA1 genes in citrus reduces their generation time.Nat. Biotechnol. 19, 263-267.   \nRenovell,A.,Gago,S.，Ruiz-Ruiz,S.,Velazquez,K.,Navarro,L.，Moreno,P., Vives,M.C.et al. (2010) Mapping the subgenomic RNA promoter of the Citrus leaf blotch virus coat protein gene by Agrobacterium-mediated inoculation.Virology,406,360-369.   \nRuiz-Ruiz,S.,Ambrós,S.,Vives,M.C.,Navarro,L.,Moreno,P.and Guerri,J. (2009) Detection and quantification of Citrus leaf blotch virus by TaqMan real-time RT-PCR.J.Virol. Methods,160,57-62.   \nSenthil-Kumar,M.and Mysore,K.S. (2011) New dimensions for VIGS in plant functional genomics. Trends Plant Sci.16,656-665.   \nTamaki,S.,Matsuo,S.,Wong,H.L.,Yokoi, S.and Shimamoto,K. (2007) Hd3a protein is a mobile flowering signal in rice.Science,316,1033-1036.   \nThompson,J.D., Higgins, D.G.and Gibson,T.J.(1994) CLUSTAL W: improving the sensitivity of progressive multiple sequences alignment through sequence weighting,positions-specific gap penalties and weight matrix choice.Nucleic Acids Res.22,4673-4680.   \nVives,M.C.,Galipienso,L.,Navarro,L.,Moreno,P.and Guerri,J.(2o01) The nucleotide sequence and genomic organization of Citrus Ieaf blotch virus: candidate type species fora new virus genus.Virology,287,225-233.   \nVives,M.C.，Galipienso,L.，Navarro,L.，Moreno，P.and Guerri, J.(2002a) Characterization of two kinds of subgenomic RNAs produced by Citrus leaf blotch virus.Virology,295,328-336.   \nVives,M.C.，Rubio,L.，Galipienso,L.，Navarro,L.，Moreno，P.and Guerri,J. (2002b) Low genetic variation between isolates of Citrus leaf blotch virus from different host species and of different geographical origins.J.Gen. Virol. 83,2587-2591.   \nVives,M.C., Martin,S.,Ambrós,S.,Renovel,A.,Navarro,L,Pina,J.A.,Moreno P.et al. (2oo8a) Development of a full-genome cDNA clone of Citrus leaf blotch virusand infection of citrus plants.Mol.Plant Pathol.9,787-797.   \nVives,M.C.,Moreno,P.,Navarro,L.and Guerri,J.(2oo8b) Citrus leaf blotch virus.In Characterization,Diagnosis&Managementof Plant Viruses,Vol.2 (Rao,G.P.，Myrta,A.and Ling,K.,eds),pp.55-67.Houston,Texas,USA: Studium Press.   \nWigge,P.A.,Kim,M.C., Jaeger,K.E.,Busch,W.,Schmid,M.,Lohmann,J.U. and Weigel,D.(2oo5) Integration of spatial and temporal information during floral induction in Arabidopsis.Science,309,1056-1059.   \nWu,G.A.,Prochnik,S., Jenkins,J., Salse,J., Helsten,U.,Murat,F.,Perrier,X. et al.(2o14） Sequencing of diverse mandarin，pummelo and orange genomes reveals complex history of admixture during citrus domestication. Nat. Biotechnol.32, 656-662.   \nYamagishi,N.，Kishigami,R.and Yoshikawa,N. (2014) Reduced generation time of apple seedlings to within a year by means of a plant virus vector: a new plant-breeding technique with no transmission of genetic modification to the next generation. Plant Biotechnol. J.12,60-68. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

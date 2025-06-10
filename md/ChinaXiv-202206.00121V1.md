@@ -1,0 +1,225 @@
+# 古尔班通古特沙漠西南缘新月形沙丘内部沉积构造特征研究
+
+刘瑞2，李志忠1.2.3，靳建辉1.2.3，解锡豪1²，邹晓君1,2，马运强1.2(1.福建师范大学地理科学学院,福建 福州350007；2.福建师范大学湿润亚热带山地生态国家重点实验室培育基地，福建 福州 350007；3.福建师范大学地理研究所，福建 福州 350007)
+
+摘要：沙丘内部沉积构造保存了沙丘动力演变过程的重要信息。以古尔班通古特沙漠西南缘固定、半固定新月形沙丘区为研究区域，利用探地雷达在春、秋两季对固定、半固定新月形沙丘内部构造进行探测，获取了不同规模形态的固定、半固定新月形沙丘深约 $8 \mathrm { m }$ 的内部构造图像信息。通过图像增益处理、解译和对比分析表明：(1)古尔班通古特沙漠固定、半固定新月形沙丘共有5种沙丘内部构造雷达相，即高倾角斜层理、楔状交错层理、上凸形交错层理、低倾角-近水平层理和块状层理，其中前4种主要分布在 $3 { \sim } 5 \mathrm { ~ m ~ }$ 的浅层，而块状层理主要分布在 $4 { \sim } 5 \mathrm { m }$ 以下的深度。(2)高倾角斜层理、楔状交错层理主要分布在高大新月形沙丘(链)的迎风坡上部和丘顶地带，前者为背风坡前积层埋藏而成，反映高大新月形沙丘迎风坡上部和丘顶风沙活动较频繁，沙丘“固身缩顶”后埋藏的前积纹层因风蚀而出露，后者为迎风坡风蚀坑和风蚀槽中由风沙流充填而成的构造或在丘顶风向的季节性变化形成的构造。(3）与灌丛沙丘相关的上凸形交错层理广泛分布在新月形沙丘的迎风坡中下部，在背风坡也有局部出现,表明灌丛沙丘在沙丘表层的风沙过程中占有重要地位；而深部的块状层理可能是早期风积层受到强烈的生物扰动，原生层理消失而产生。(4)以上沙丘内部构造的类型与组合分布特点，反映了研究区新月形沙丘总体上趋于稳定或衰退状态，这与现代沙丘“固身缩顶”的地貌变化特征相一致。例如,迎风坡中上部和丘顶常见风蚀槽，背风坡因坡度变缓、前积层发育趋缓,现代风沙活动主要集中于新月形沙丘的上部和丘顶等。由此可见，研究区固定、半固定新月形沙丘内部构造及其组合分布特征异于流动新月形沙丘，也与半个多世纪以来北疆沙漠气候变暖变湿、平均风速减弱、植被盖度增加的区域自然地理环境变化趋势有一定的吻合性。
+
+关键词：探地雷达；古尔班通古特沙漠；固定、半固定新月形沙丘；沉积构造；环境意义
+
+# 文章编号：
+
+新月形沙丘是一种最简单的横向沙丘形态，具有凸而缓的迎风坡和凹而陡的背风坡，在背风坡两翼形成近似对称的2个兽角向下风方向延伸[-3]一般形成在供沙量不足和几乎为单向输沙风的无植被区域，大多零星分布于沙漠边缘、干盐湖下风向、海岸等地区，是地球表面最常见且研究较为深入的风积地貌[1-7]
+
+沙丘的内部沉积构造和空间变化特征保存了沙丘动力演变过程的重要信息，对于研究风沙地貌的形成机制和发展过程具有重要意义[2.8]。Bagnold的简化模型认为，新月形沙丘的内部构造在纵剖面上以向背风坡倾斜的高倾角斜层理为主，风沙粒度流形成的滑落面延伸到背风坡底部，迎风坡上部和丘顶为风沙流加积形成的低倾角-近水平的顶积层[1.2]。后续研究者多在此经典模型基础上不断验证和完善。例如，McKee[9在新墨西哥州通过开挖沙丘剖面观察发现，在顺风向的纵剖面上层理整体呈现向背风坡倾斜且层理倾角多与背风坡坡度一致的特征，但层理和界面的倾角早期较小，后期逐渐增大；在垂直风向的横剖面上，层理和界面的倾角均很小。研究发现，新月形沙丘(沙丘链)的顶积层一般保存不好[」
+
+探地雷达(Ground penetrating radar,GPR)技术出现后凭借其简捷、无损和分辨率高的特点很快在沙丘内部沉积构造研究中得到广泛应用[10-12]。俞祁浩等[13]对库姆塔格沙漠北缘新月形沙丘的迎风坡进行GPR探测，将沙丘内部结构分为3个区域并揭示了不同部位的构造特征；G6mez-Ortiz等[4]运用GPR探测西班牙海岸新月形沙丘内部构造后发现，沙丘迎风坡层理的倾角可以反映风沙活动的强度;Bristow[15则结合遥感技术利用GPR探测和讨论了摩洛哥塔尔法亚地区新月形沙丘沉积构造中不同层面的形成过程； $\mathrm { F u }$ 等8在毛乌素沙地的一座新月形沙丘上纵横布设41条GPR测线，获取了沙丘内部的三维沉积构造序列并探讨了演化过程。但以上新月形沙丘内部构造的研究案例，主要来源于对流动性新月形沙丘沉积构造的观测和探测分析。
+
+随着近半个世纪全球气候总体上变暖变湿以及持续实施的生态保护措施，我国西北干旱区土地沙漠化趋势正在减缓[16-18],沙漠边缘的一些流动性沙丘逐渐稳定下来形成固定、半固定沙丘，或广泛发育灌丛沙丘，成为区域沙漠化逆过程的风沙地貌学标志之一[19-21]。在流动性沙丘趋于稳定的发展过程中，其内部沉积构造将会发生什么样的变化，这是有待探讨的科学问题[22]。古尔班通古特沙漠是我国面积最大的固定、半固定沙漠[19.23],在沙漠西部、西南部边缘分布有一定面积的新月形沙丘(链)和梁窝状沙丘等[19.20]。关于这些沙丘的成因、形态特征和形成条件，前人有过一些定性描述和分析[24-26],但很少涉及它们的内部构造及其组合变化特征，这在一定程度上制约了我们对这些沙丘形态-动力学过程的深入了解。针对以上科学问题和研究方法的新进展，本文在实地考察基础上，选择古尔班通古特沙漠西南边缘的固定、半固定新月形沙丘区，采用GPR获取沙丘内部构造图像信息，结合区域自然地理、沙丘形态特征的综合分析，初步探讨固定、半固定新月形沙丘内部构造组合的空间变化、成因及其形态动力学意义，以期为区域沙漠化中长期发展趋势监测提供科学依据。
+
+# 1研究区概况
+
+古尔班通古特沙漠深居亚欧大陆腹地，位于新疆准噶尔盆地中央，是我国面积最大的固定、半固定沙漠[19-21](图1a)。沙漠气候主要受中纬度西风环流控制，年均气温 $5 { \sim } 7 ~ \%$ ,年降水量 $7 0 { \sim } 1 5 0 ~ \mathrm { m m }$ ;春、夏季降水略高于秋、冬季，冬、春季稳定积雪日数达$1 0 0 { \sim } 1 6 0 \ \mathrm { d }$ ，春季积雪融化后沙体可形成 $5 0 { \sim } 6 0 ~ \mathrm { c m }$ 的悬湿沙层[2.27-29]。这些独特的气候要素使得沙漠相对较为湿润,梭梭(Haloxylonammodendron）蛇麻黄(Ephedradistachya)等草灌丛植物广布其中，藻类、菌类和地衣等形成的生物结皮极为发育，仅在脊线附近存有尚在活跃的流动带，显著区别于我国其他沙漠[29-31]
+
+对古尔班通古特沙漠风沙地貌起控制性作用的是西风环流主导的西北风，蒙古高压风系受季节性和区域的局限性，仅在冬、春季对沙漠中部和东北部地区有较大意义，因此沙丘总的移动方向具有自西北向东南移动的特征[19.24]。古尔班通古特沙漠沙丘类型丰富多样，最有代表性的沙丘形态是线形沙丘(纵向沙垄），占固定、半固定沙丘总面积的$8 0 \%$ 以上，沙漠西南缘分布有梁窝状沙丘，中南部分布有蜂窝状沙垄和复合沙垄[3.19.24]（图1b)。
+
+沙漠西南缘的莫索湾地区以新月形沙丘、新月形沙丘链和梁窝状沙丘为主，新月形沙丘为研究区基本风积地貌类型[20.24],在西北风的作用下沙丘总体呈西北—东南走向[19.24]（图1c)。莫索湾西北侧分布有面积广大的盐碱地，下风区域总体上属于沙源供应不足的风沙环境，线形沙丘与新月形沙丘共生的现象很普遍，近30a来研究区新月形沙丘(链)的脊线位置变化不大，丘间地和沙丘表面灌丛植被覆盖面积持续增加[32-34]
+
+实地考察发现，研究区新月形沙丘迎风坡中下部和丘间地多见生物结皮和草灌丛植被（图 $2 \mathrm { a }$ ，可有效抑制风蚀、减小沙面活动，沙面整体处于稳定状态;迎风坡中上部广泛分布叠置的灌丛沙丘（图2b)和宽浅不一、走向平行于沙丘纵剖面方向的风蚀坑、风蚀凹槽(图2c)，风蚀特征明显；沙丘脊线凹凸起伏、弯曲变化，丘顶普遍存在 $5 { \sim } 2 0 ~ \mathrm { m }$ 宽度不等的流动带(图2d)，风沙活动较强，风蚀风积频繁；背风坡坡面遍布草灌丛植物(图2e)，中下部坡度变
+
+# 干辛区地理
+
+注：图b据钱亦兵等[2改绘。
+
+![](images/29dd40b74b3f1bae26a702efd6d0133acd00e6c5da16a696c3f215a462370e93.jpg)  
+Fig.1 Location of the study area and overview of the aeolian landform
+
+![](images/8d34f4abe89ec02806c63e69b2f95e6a275becdf0585af81a607fafea1c77b8c.jpg)  
+图1研究区位置及风沙地貌概况  
+图2莫索湾北部新月形沙丘(链)地貌特征与GPR工作照片
+
+Fig.2Geomorphological features of barchan dune (chain)and GPR working photography in northern Mosuowan Distric
+
+缓，新月形沙丘(链)趋于停止发育。
+
+# 2 研究方法
+
+采用 Sensors and Software Inc.生产 的 pulseEKKOPro探地雷达以剖面法进行实地探测，探测时天线彼此平行，共同垂直于地表放置(图2f)。首先，选择研究区内部构造出露清晰的沙丘剖面(图3a1、b1)进行探测，检验不同技术参数对探测结果的可能影响。根据前人研究 $[ 1 1 - 1 2 , 3 0 ]$ 和实地情况采用共中心点法确定雷达波速 $0 . 1 5 ~ \mathrm { m } \cdot \mathrm { n s } ^ { - 1 }$ ，以时间窗口360ns、脉冲电压 $4 0 0 \mathrm { V }$ 为基本参数，在叠加次数为64时可兼顾探测效果与工作效率，垂直理论分辨率约为$0 . 3 7 5 \mathrm { ~ m ~ }$ 。采用2种天线频率对比探测效果：天线频率为 $1 0 0 \mathrm { M H z }$ 时，天线间距为 $1 . 0 \mathrm { m }$ ,移动步长为0.2$\mathrm { ~ m ~ }$ ;天线频率为 $2 0 0 \mathrm { M H z }$ 时，天线间距为 $0 . 5 \mathrm { ~ m ~ }$ ,移动步长为 $0 . 1 \mathrm { ~ m ~ }$ 。其次，在2019年10月初（秋季）与2021年5月初(春季)对研究区同一新月形沙丘进行探测(图1c，M8)，以对比不同季节沙丘砂层湿度变化对探测结果的可能影响。
+
+![](images/055ad1124fe453ab8dd1f62763b9ad977072dc597923ea36ef951f13fcf833c1.jpg)  
+图3研究区沙丘剖面构造及实验探地雷达(GPR)图像  
+Fig.3Dune profile structure and experimental detection images of GPR in the study area
+
+正式探测研究选取形态特征和规模大小各不相同的5个新月形沙丘(图1c)，以获取不同发育阶段新月形沙丘内部构造组合变化的雷达图像信息。每条GPR测线均沿沙丘纵剖面，自迎风坡坡脚探测至背风坡坡脚，垂直沙丘脊线布设，6条测线累计长度约 $1 0 0 0 \mathrm { m }$ 。利用TrimbleR8GNSSRTK同步记录GPR探测剖面的高程变化。探测完成后使用EKKO_View2和EKKO_ViewDeluxe等软件进行地形校正、数字滤波、增益调适等以去除系统和环境噪声的信号干扰，为了保持数据的完整性和真实性,原始探测数据只进行必要的处理,如Dewow、AGC增益等。通过雷达反射纹理结构图像、切割交汇关系划分沙丘内部构造雷达相的基本类型，每个雷达相具有相似的反射模式（比如几何形态、连续性、振幅强度等），而后基于风积沙层结构发育理论，提取实际的沙丘内部构造空间变化信息
+
+# 3结果与分析
+
+# 3.1不同探测参数设置对探测结果的影响
+
+通过对比探测图像与实际剖面构造层序可以发现， $1 0 0 \mathrm { M H z }$ 频率的雷达天线(图3a2、b2)渗透性更佳，有效探测深度可达 $8 \mathrm { m }$ 。在深度 $3 { \sim } 4 \mathrm { m }$ 内探测得到的雷达图像，水平层理和交错层理剖面均与实际剖面呈现出了较好的一致性。其中， $2 { \sim } 3 \mathrm { ~ m }$ 的浅层显示较多上凸形交错层理和部分不连贯的高倾角斜层理，高倾角斜层理或板状交错层理的倾向相符倾角一致，真实地反映出了沙丘的内部构造信息。
+
+$2 0 0 \mathrm { M H z }$ 频率的雷达天线(图3a3、b3)发射信号的穿透深度较浅，仅在 $3 \mathrm { ~ m ~ }$ 深度内获取了清晰的、细节更为丰富的图像。但对比 $1 0 0 \mathrm { M H z }$ 天线探测结果发现，因沙丘浅层受生物扰动的影响较大， $2 0 0 \mathrm { M H z }$ 频率的天线可能放大了植物根系、动物洞穴等生物扰动作用，对风积层的沉积构造反射成像造成一定程度的干扰。
+
+# 干旱区地理
+
+实地考察发现，古尔班通古特沙漠植被覆盖度相对较高，除沙丘脊线外，沙丘表面广泛分布草灌丛植被和生物土壤结皮，在沙丘剖面中有较多的植物根系、根孔、灰黑色薄层砂质土壤层和土壤结皮层，同时也发现了较多的大沙鼠洞穴和蜥蜴洞穴等，这些现象使得沙丘原生层理受生物扰动影响十分明显。且研究区大部分沙丘高度在 $1 0 \mathrm { m }$ 以上，而$2 0 0 \mathrm { M H z }$ 频率的雷达天线探测深度较浅。综合以上因素，在本文探测研究中选择 $1 0 0 \mathrm { M H z }$ 频率的雷达天线作为发射和接收反射信号的基本频率。
+
+# 3.2沙丘亚表层湿度季节变化对探测结果的影响
+
+图 $4 \mathrm { a } { \sim } \mathrm { b }$ 为2021年5月春季探测获得的沙丘剖面图像(增益类型为AGCGain4)，图4c\~d为2019年10月秋季探测获得的沙丘剖面图像(增益类型为
+
+AGCGain3）。虽然研究区沙丘亚表层湿度季节变化较大，但通过调整增益强度可以降低湿度差异对探测结果的影响，使用软件进行不同程度的增益处理后，春季和秋季所获取的沙丘剖面图像在分辨率上并没有显著差异，2次有效探测深度均在 $8 \mathrm { ~ m ~ }$ 左右。
+
+春季探测图像（图 $4 \mathrm { a } { \sim } \mathrm { b }$ )中迎风坡浅层的层理构造更为清晰与丰富。迎风坡中上部 $5 \mathrm { m }$ 深度内高倾角斜层理和上凸形交错层理十分明显，偶见部分楔状交错层理；迎风坡下部浅表层 $2 \mathrm { m }$ 深度内依稀可见部分上凸形交错层理， $3 { \sim } 5 \mathrm { ~ m ~ }$ 深度以下全部呈现为低倾角-近水平层理与块状层理。这可能是由于春季沙丘中上部与丘间地和沙丘下部水分含量存在差异有关。已有研究表明，古尔班通古特沙漠春季亚表层沙的水分含量最高，沙丘不同部位水分含量也存在差异：沙丘中上部亚表层水分含量约为$2 . 0 1 \%$ ，而在丘间地和沙丘下部水分含量则达到了$4 . 0 0 \%$ 左右[29.35]。由于沙丘中下部水分含量较高，亚表层风沙层受到的冻融作用也更加明显，因此沙丘坡脚地带显示更多的水平层理。而秋季古尔班通古特沙漠亚表层沙的水分含量较低且沙丘不同部位水分含量差异不大，均在 $0 . 4 5 \% { \sim } 0 . 6 5 \%$ 之间，所以在秋季探测图像中(图4c\~d)上述差异并不明显。
+
+![](images/58c7fa01e89b8556115ce8c9a71fa05bae862b5b6a43a4dc8db19a4218ca0678.jpg)  
+  
+图4不同季节探测获得的新月形沙丘浅层构造图像及其解译  
+Fig.4 Shallow structure images and interpretation of barchan dunes from different seasons
+
+总体上看，秋季探测图像不同部位、不同深度雷达相的组合特点与春季探测图像类似，在迎风坡上部以上凸形交错层理和楔状交错层理为主，偶见高倾角斜层理；迎风坡中下部上凸形交错层理与高倾角斜层理、槽状交错层理间有分布，高倾角斜层理的倾斜角度和方向均与背风坡一致；背风坡上部则以高倾角斜层理为主，雷达相较为单一；而在3\~5m以下的沙丘深处为低倾角-近水平层理与块状层理。
+
+# 3.3沙丘内部构造雷达相类型及其分布特点
+
+依据上述实验探测及不同季节新月形沙丘GPR纵剖面综合分析，可以辨识沙丘内部不同类型的雷达图像结构，据此划分出5种基本的雷达相(表1)。
+
+高倾角斜层理雷达相反射面清晰，连续性好，倾角 $2 8 ^ { \circ } \sim 3 5 ^ { \circ }$ 向下风方向倾斜，与背风坡倾向一致。它们大多彼此平行或近平行分布于迎风坡中上部，迎风坡下部也有分布但埋藏较深，最大深度约为 $5 \mathrm { m }$ 。这种雷达相应为叠置沙丘落沙坡崩积层形成的前积层理，反映出迎风坡上部和丘顶叠置沙丘较为活跃的移动过程。迎风坡坡脚埋藏的高倾角斜层理应为早期新月形沙丘顺风移动残留的沉积构造。
+
+上凸形交错层理雷达相反射面清晰、振幅强、连续性好，呈凸形构造向两侧倾斜，广泛分布于迎风坡各部位，甚至在背风坡有局部出现，层理最大厚度可达 $5 \mathrm { m }$ 左右。根据对研究区广泛分布的灌丛沙丘坡脚风蚀剖面观察，这种雷达信号的结构形态与灌丛沙丘内部构造极为相似， $\mathrm { F u }$ 等发现这种上凸形交错层理往往分布于植物被沙丘埋藏的位置[8],探测过程中本文也注意到了同样的现象，因此将该雷达相解释为叠置灌丛沙丘构造被后期风沙层掩埋形成。
+
+低倾角-近水平层理雷达相主要分布于迎风坡坡脚、中上部局地下凹段和背风坡坡脚，成因上属于加积层理。一般分布在浅层 $3 { \sim } 5 \mathrm { ~ m ~ }$ 以内，上部反射面清晰连续。但随着深度增加，这种加积层理可能受到植物根系等生物扰动的影响，使得风积层的原生层理消失，反射信号变弱、分辨率较差，
+
+楔状交错层理雷达相反射面清晰，倾角较小，呈楔状彼此相切，分布在迎风坡中上部、丘顶和背风坡坡脚。在迎风坡浅层发育的楔状交错层理，可能是叠置灌丛沙堆之间的局部低洼地、风蚀槽风蚀坑被风沙流充填与上覆低倾角-水平层理交汇形成。丘顶部位发育的楔状交错层理可能源于风向的季节性变化，而在背风坡坡脚由低倾角的加积层与下伏风蚀界面交汇亦可形成楔状交错层理。
+
+表1研究区新月形沙丘雷达相类型及其特点  
+Tab.1 Radar facies and characteristics of barchan dunes in the study area   
+
+<html><body><table><tr><td>雷达图像</td><td>解译图像</td><td>雷达相</td><td>特征</td><td>解读</td></tr><tr><td></td><td></td><td rowspan="6">高倾角斜 层理 上凸形交 错层理 低倾角-近 块状层理 和结构均无分异现象，不显示细层构造的层理。</td><td rowspan="2">反射面倾角较大，一般呈28~35向下风方向 倾斜，主要分布于沙丘迎风坡中上部浅层。</td><td rowspan="2">叠置沙丘落沙坡崩积层形成的前积层理，反 映叠置沙丘较为活跃的移动过程</td></tr><tr><td></td></tr><tr><td></td><td>反射面呈凸形构造，向两侧倾斜,在沙丘迎风 坡和丘顶浅层皆有分布。</td><td rowspan="3">叠置在主沙丘上的灌丛沙丘被风沙埋藏形成 的沉积构造。 在迎风和背风的缓坡地带风速较低、风力较</td></tr><tr><td></td><td>层理倾角较小，一般为0~15，主要分布在迎</td></tr><tr><td>水平层理</td><td>弱，停滞的风沙形成水平的或缓倾角的加积 层,随着深度增加,风积层受到生物扰动的影</td></tr><tr><td rowspan="6"></td><td rowspan="6"></td><td rowspan="6">反射面清晰连续,但随着深度增加反射信号 变弱。</td><td></td></tr><tr><td>风坡和背风坡坡脚。在1~3m的较浅深度上</td></tr><tr><td>响，原生层理逐渐消失。</td></tr><tr><td>反射面呈楔状彼此相切，倾向相反，主要分布</td></tr><tr><td></td></tr><tr><td>一般分布在4~5m以下的深度，反射图像上观 察不到任何不均一现象,反映探测对象的组分 积层原生层理消失殆尽而形成。</td></tr><tr><td></td><td></td><td>楔状交 错层理</td><td></td></tr><tr><td></td><td></td><td>在迎风坡中上部、丘顶和背风坡坡脚浅层。</td><td>局部洼地、风蚀坑被风沙流充填形成，丘顶 的楔状交错层理可能由风向的季节变化形成。 沙丘深处的风积层受到长期的生物扰动使风</td></tr></table></body></html>
+
+# 干吴区地理
+
+块状层理雷达相一般分布在 $4 { \sim } 5 \mathrm { ~ m ~ }$ 以下的深度，未见底。在雷达反射图像上观察不到任何不均一现象,反映探测对象的组分和结构无明显分异现象，不显示细层构造的层理。其成因可能是沙丘深处的风积层受到长期的生物扰动使风积物原生层理消失殆尽而形成。
+
+# 4讨论
+
+# 4.1各探测剖面内部构造雷达相的分布特点
+
+图5为在不同形态和规模的新月形沙丘上布设的GPR测线位置示意图，以及所探测获得雷达图像剖面图。根据以上基本雷达相分类，可辨识各个探测沙丘浅层构造雷达相的分布特点。
+
+M6沙丘高度约 $3 \mathrm { ~ m ~ }$ ，尚未形成落沙坡，沙丘两坡较为对称，形态低缓，形似饼状沙堆。其探测剖面(图5a)以低倾角-近水平的加积层理为主，交错叠置小规模上凸形交错层理，丘顶局部有高倾角斜层理,雷达相类型较为单一。
+
+M5沙丘高度约 $5 \mathrm { m }$ ，已有较明显的落沙坡，但丘脊线钝圆，沙丘两翼形态也较为圆润，形似盾状沙丘。探测剖面(图5b)显示迎风坡上部分布有高倾角斜层理、在背风坡坡脚有低倾角-近水平层理。在迎风坡下部有规模较大的上凸形交错层理构造，厚度达 $5 \mathrm { m }$ ,应为一个埋藏的规模较大的灌丛沙丘内部构造影像。
+
+M4沙丘高度约 $8 \mathrm { ~ m ~ }$ ,迎风坡平缓微凸，坡度$1 5 ^ { \circ } { \sim } 2 0 ^ { \circ }$ ,落沙坡上部坡度 $2 6 ^ { \circ } { \sim } 3 0 ^ { \circ }$ ，下部较平缓，总体呈下凹形态，丘脊线明显，类似雏形新月形沙丘。探测剖面(图5c)显示迎风坡上密布上凸形交错层理，在中上部和丘顶局部有高倾角斜层理和楔状交错层理，丘顶叠置的上凸形交错层理厚度较大。在迎风坡低缓凹进地段分布有低倾角-近水平层理，落沙坡浅层则显示平行于沙丘坡面的加积层理构造。
+
+M7沙丘高度达 $1 7 \mathrm { m }$ ,迎风坡中上部普遍发育有风蚀槽风蚀坑，丘脊线明显，落沙坡上部坡度较大，可达 $2 8 ^ { \circ } { \sim } 3 5 ^ { \circ }$ ,但中下部坡度变缓，落沙坡分布有低矮草灌丛，沙丘平面形态呈现典型的新月形。
+
+![](images/3734344d1f90f18d225eba91aba34ff2eda0aaf7fd1628452be3416281f9fb7c.jpg)  
+注：M4\~M7为各个探测点新月形沙丘卫星影像及探测线设置,黑色线条和箭头表示GPR测线走向,对应左侧图a\~d。  
+图5不同规模形态新月形沙丘的雷达相及其组合特点
+
+Fig.5Radar facies and their assemblage characteristics of barchan dunes with diferent morphologies其探测剖面(图5d)显示，迎风坡浅层遍布叠覆密布的上凸形交错层理，楔状交错层理交替分布在迎风坡中上部和丘顶，同时在迎风坡上部、丘顶和落沙坡上部均分布有高倾角斜层理，反映叠置在迎风坡上部和丘顶的次级流动沙丘的移动过程，落沙坡上部的风沙流崩积作用也较为频繁；在丘顶出现的楔状交错层理还可能是风向季节性交替变化形成的。在迎风坡局部低缓凹地和落沙坡坡脚地带见有低倾角-近水平的加积层理。
+
+综上，随着研究区新月形沙丘发育不断成熟、规模逐渐扩大，沙丘深处开始发育有块状层理，浅层内部构造随着沙丘形态特征和动态变化过程逐渐丰富且规律起来，如迎风坡上的上凸形交错层理逐渐增多、丘顶逐渐发育楔状交错层理等。
+
+# 4.2流动新月形沙丘与固定、半固定新月形沙丘内部构造对比
+
+在新月形沙丘的运动过程中，由于沙粒不断地从迎风坡被搬运至落沙坡，沙丘内部往往形成与背风坡倾斜方向一致的板状交错层理[2.4]。因此，一般认为流动新月形沙丘的内部构造模式，在顺风向纵剖面上，早期阶段的层理向背风坡倾斜，倾角与背风坡坡度近似，即接近干沙休止角 $2 6 ^ { \circ } { \sim } 3 4 ^ { \circ }$ 的高倾角斜层理[2-4.36],而层理组界面以较小角度( $( 2 ^ { \circ } { \sim } 6 ^ { \circ } )$ 向下风方向倾斜。随着新月形沙丘发育不断成熟、沙丘高度和规模不断增加，沙丘内部的崩积层理和层组界面均趋向高倾角变化[2-3]。
+
+研究区新月形沙丘内部构造类型和分布特点与上述模式有很大差异。即，在顺风向纵剖面上，高倾角斜层理主要分布于沙丘上部(迎风坡和背风坡)和丘顶，在高大新月形沙丘中延伸分布在浅层$4 { \sim } 5 \mathrm { m }$ 深度以内，迎风坡中下部浅层也有局部出现;在小规模或初期发育阶段的新月形沙丘中，高倾角斜层理出现较少、延伸分布深度更浅。上凸形交错层理则是研究区不同形态规模、不同发育阶段新月形沙丘浅层构造中的常见层理类型。对于流动沙丘而言，一般仅保存背风坡层理，所以，研究区沙丘上探测到的迎风坡层理是沙丘流动性小的反映。沙丘不同部位沉积构造的差异，如迎风坡上部和丘顶的楔状交错层理、高倾角斜层理暗示研究区沙丘上部流动性更强，迎风坡中下部密布的上凸形交错层理表明该部位已趋于固定，这与研究区沙丘“固身缩顶"的地貌景观相吻合。在 $4 { \sim } 5 \mathrm { m }$ 深度以下，研究区固定、半固定新月形沙丘内部构造全部成像为与沙丘横断面起伏形态一致的低倾角-近水平层理雷达相和块状层理雷达相，而非与背风坡(落沙坡)倾斜方向一致的板状交错层理，探测图像的分辨率很差。根据对裸露沙丘剖面沉积构造序列及其特征的观察(图3a1），我们认为这种现象是埋藏在沙丘深处的风积层受到了植物根系等生物作用的强烈扰动，使得风积层原生层理消失，产生“均质化”形成的块状层理，因此使得探测图像的分辨率变得很差、GPR的探测深度受到很大限制。
+
+# 4.3研究区新月形沙丘(链)内部构造的成因
+
+新月形沙丘浅层构造中广泛发育上凸形交错层理，本文认为可能与区域气候趋向湿润变化、大范围封沙育林以致沙区植被盖度增加有密切的关系。研究表明,近60a来北疆年均降水量增加[37-40]、近地表平均风速降低4,沙区土壤湿度增加、植被生长条件转好；同时，国家加大了沙漠生态保护力度和生态建设，一系列综合治理措施促进了沙区植被保育,改善了沙区植被盖度状况[32-35,37,2-43]。这些过程导致古尔班通古特沙漠西缘沙丘面积减少[43],日趋扩展的草灌丛植被拦截风沙，在沙漠边缘广泛发育灌丛沙丘，在一些较大规模沙丘的迎风坡上也常叠置发育一些小尺度的灌丛沙丘，这些叠置灌丛沙丘直接影响母体新月形沙丘表层的风沙蚀积过程(图 $2 \mathrm { b } \mathrm { \sim } \mathrm { c }$ )。随着沙丘表面植物凋落物增加、分解物质的循环加强，生物土壤结皮广泛发育并在沙丘表层形成弱胶结的风沙土，进一步截留细粒沉积物并保护埋藏沙丘免遭风蚀，有利于保护埋藏灌丛沙丘的沉积构造。Roskin等[44]在以色列内盖夫沙漠植被线形沙丘内部构造研究中也发现，在线形沙丘演化的整个过程中都有生物土壤结皮的叠置发育。
+
+王雪芹等在古尔班通古特沙漠沙丘腹地对现代风沙活动进行了实地监测，发现沙丘(沙垄)的稳定程度从基部至顶部呈现明显的差异，表现为风沙流活动主要集中在沙丘(沙垄)中上部和丘顶，而沙丘(沙垄)中下部和丘间地很稳定[29.45-46]。古尔班通古特沙漠良好的水热配置为荒漠植被的生长提供了有利条件，植被尤其是短命植物是稳定沙面的主要贡献者[29.31],生物土壤结皮的假根可以紧密地附着在沙面上进一步提升丘间地和沙丘中下部的稳定性(图2a)。此外，在较大尺度新月形沙丘上，随着迎风坡地势升高、风速逐渐加大，在丘顶风速达
+
+# 干旱区地理
+
+到最大[13],因而沙丘中上部和丘顶的风沙蚀积过程很活跃[47],伴随风向的季节变化，丘顶风沙蚀积过程更为频繁(图2d)。所以本项探测中在大型新月形沙丘的中上部和丘顶浅层常见高倾角斜层理和楔状交错层理。
+
+在所有探测剖面深度 $4 { \sim } 5 \mathrm { m }$ 以下均为反射信号微弱、图像分辨率很低的块状层理，这些块状层理之间互相平行，总体产状随沙丘地形起伏而变化。其成因可能与强烈的生物扰动作用导致风积层原生层理构造消失的“均质化"过程有关。研究表明，古尔班通古特沙漠中梭梭和白梭梭的根系深度可达 $1 0 \mathrm { m } ^ { [ 3 5 ] }$ ,荒漠植物发达的根系活动不断扰动和粘结风沙层，在固定沙丘的同时也为荒漠动物活动提供有利的生态环境，尤其是穴居动物的频繁扰动，使不同层次间的沙粒进一步混合。在世界其他沙漠，一些研究者也发现类似的生物作用对沙丘内部构造的影响[48-50]。Bristow等[51]在澳大利亚辛普森沙漠发现植被线形沙丘上微生物和草灌丛大量捕获细粒组分，黏土含量的增加导致GPR的穿透能力受到限制，大量穴居生物扰动重置了沙丘的原生内部构造。我们在实地考察发现，在裸露沙丘剖面上（图2a1）， $\scriptstyle 1 \sim 2 { \mathrm { ~ m ~ } }$ 深度内有大量穿越风积层理的植物根系，并有较多灰黑色、淡灰黑色的薄层砂质土壤，在 $3 { \sim } 4 \mathrm { m }$ 以下层理逐渐消失，过渡为块状构造，说明研究区较高的植被盖度、深人沙丘内部的植物根系和频繁的生物活动对沙丘内部沉积构造产生了明显的影响。
+
+# 5结论
+
+在野外风沙地貌考察基础上，本文选取古尔班通古特沙漠西南边缘新月形沙丘(链)分布区，在春、秋两季对不同形态新月形沙丘内部构造进行GPR探测，在6个探测样方布设累计长度约 $1 0 0 0 \mathrm { m }$ 的探测线，获取了不同规模的固定、半固定新月形沙丘约 $8 \mathrm { ~ m ~ }$ 深度内的沉积构造信息，结合区域自然地理特征综合分析，获得研究区新月形沙丘(链)内部构造特征的一些初步认识：
+
+（1）根据雷达反射面纹理组合特点，本项探测共识别出5种内部构造雷达相，即高倾角斜层理、上凸形交错层理、楔状交错层理、低倾角-近水平层理和块状层理。其中，前4种层理的反射信号清晰，但分布深度较浅，主要在 $3 { \sim } 4 \mathrm { ~ m ~ }$ 深度以内。而在深度$4 { \sim } 5 \mathrm { ~ m ~ }$ 以下分布的块状层理雷达相，反射信号微弱、分辨率较差。这些层理类型及其组合分布特点不同于流动新月形沙丘的内部构造，
+
+(2）高倾角斜层理、楔状交错层理主要分布在高大新月形沙丘(链)的迎风坡坡脚、上部和丘顶地带。迎风坡坡脚埋藏的高倾角斜层理应为早期新月形沙丘移动的证据，迎风坡上部和丘顶的斜层理由流动的叠置沙丘背风坡风沙流不断崩积而成，反映了高大新月形沙丘(链)这些部位风沙活动频繁，沙丘“固身缩顶”后埋藏的前积纹层因风蚀而出露。楔状交错层理是在迎风坡上风蚀坑和风蚀槽中由风沙充填或在丘顶部位因风向的季节变化所致。
+
+（3）上凸形交错层理是风沙流围绕灌木植物堆积发育的向上弯曲的灌丛沙丘内部构造，这种层理构造类型广泛分布在研究区新月形沙丘的迎风坡浅层，并在背风坡下部浅层也有局部出现，表明叠置灌丛沙丘的生消变化在现代沙丘表层的风沙过程中占有重要地位，日渐扩展的植被盖度对研究区新月形沙丘的稳定和固化产生明显的影响。而深部块状层理可能是早期的风积层受到强烈生物作用，使得原生层理消失所致。
+
+(4）研究区沙丘内部构造类型和组合分布，反映了趋于稳定或衰退状态的新月形沙丘“固身缩顶"的地貌特征与动态变化特点，如广泛发育灌丛沙丘，迎风坡中上部和丘顶常见风蚀槽和风蚀坑，背风坡坡度变缓、崩积层停止发育，现代风沙活动集中于沙丘上部和丘顶等。这些变化特点与半个多世纪以来北疆沙漠气候变暖变湿、平均风速减弱、植被盖度增加的区域自然地理环境变化趋势有一定的吻合性，但有待于利用地质年代数据进一步验证。
+
+（5）在未来工作中，针对研究区较大尺度新月形沙丘(链)在纵剖面探测基础上，可以开展横剖面探测，以获取沙丘内部构造的三维图像信息。同时，根据新月形沙丘内部沉积构造序列特点，例如浅层高倾角斜层理、楔状层理分布区与深部块状层理分布区的上下叠覆关系，分层采样进行光释光测年研究、建立沙丘沉积序列的年代学框架，应当是全面认识新月形沙丘演化过程的重要途径。
+
+参考文献(References）   
+[1]Bagnold RA.The physics of blown sand and desert dunes[M]. London: Chapman and Hall Ltd,1941: 265.   
+[2]Pye K,Tsoar H. Aeolian sand and sand dunes[M]. Berlin: Springer,2009: 201-205.   
+[3]吴正.风沙地貌与治沙工程学[M].北京:科学出版社,2003: 144-151.[Wu Zheng. Aeolian landform and sand control engineering[M]. Beijing: Science Press,2003: 144-151.]   
+[4]Xu Z, Mason JA,Lu H,et al. Crescentic dune migration and stabilization: Implications for interpreting paleo-dune deposits as paleoenvironmental records[J]. Journal of Geographical Sciences, 2017,27(11): 1341-1358.   
+[5] Wiggs G F S. Dune morphology and dynamics[C]/Shroder JF. Treatise on Geomorphology.San Diego: Academic Press,2013: 201-218.   
+[6]Dong Z,Wang X,Chen G.Monitoring sand dune advance in the Taklimakan Desert[J]. Geomorphology,2000,35(3): 219-231.   
+[7]El belrhiti H,Douady S.Equilibrium versus disequilibrium of barchan dunes[J]. Geomorphology,2011,125(4): 558-568.   
+[8]Fu T, WuY,TanL,et al.Imaging thestructure andreconstructing the development of a barchan dune using ground-penetrating radar [J]. Geomorphology,2019,341: 192-202.   
+[9]McKee E.Structures of dunes at White Sands National Monument, New Mexico (and a comparison with structures of dunes from other selected areas)[J].Sedimentology,1966,7(1): 3-69.   
+[10] Bristow C S, Bailey SD,Lancaster N. The sedimentary structure of linear sand dunes[J]. Nature,2000,406(6791): 56-59.   
+[11]Jol H, Bristow C S.GPR in sediments: Advice on data collection, basic processing and interpretation, a good practice guide[J]. Geological Society of London Special Publications,2OO3,211(1): 9-27.   
+[12] 傅天阳,李孝泽.探地雷达在沙漠研究中的应用综述[J].中国沙 漠,2014,34(1): 49-55.[Fu Tianyang,Li Xiaoze.Application of ground penetrating radar to desert research[J]. Journal of Desert Research,2014,34(1): 49-55.]   
+[13]俞祁浩,屈建军,郑本兴,等.探地雷达在沙漠研究中的应用[J]. 中国沙漠,2004,24(3): 117-121.[Yu Qihao,Qu Jianjun,Zheng Benxing,et al.Application of ground penetrating radar in desert research[J]. Journal of Desert Research,2004,24(3): 117-121.]   
+[14]G6mez-Ortiz D, Martin-Crespo T,Rodriguez I, et al.The internal structure of modern barchan dunes of the Ebro River Delta (Spain) from ground penetrating radar[J]. Journal of Applied Geophysics, 2009,68(2): 159-170.   
+[15]Bristow C S. Bounding surfaces in a barchan dune: Annual cycles of deposition? Seasonality or erosion by superimposed bedforms? [J]. Remote Sensing,2019,11(8): 965,doi: 10.3390/rs11080965.   
+[16]冯莉莉.中国北方沙漠化土地时空演变及其驱动力分析[D].北 京：中国林业科学研究院,2017.[Feng Lili.Spatial-temporal evolution of sandy desertification land and its driving forces in north
+
+ern China[D]. Beijing: Chinese Academy of Forestry,2017.]
+
+[17] 郭泽呈,魏伟,石培基,等.中国西北干旱区土地沙漠化敏感性 时空格局[J].地理学报,2020,75(9):1948-1965.[Guo Zecheng, Wei Wei, Shi Peiji,etal.Spatiotemporal changes of land desertification sensitivity in the arid region of northwest China[J].Acta Geographica Sinica,2020,75(9): 1948-1965.]   
+[18] 姚旭阳,张明军,张宇,等.中国西北地区气候转型的新认识[J/ OL].干旱区地理.[2021-11-30]. http://kns.cnki.net/kcms/detail/ 65.1103.X.20211018.1255.004.html.[Yao Xuyang，Zhang Mingjun,Zhang Yu,et al.New understanding of climate transition in northwest China[J/OL]. Arid Land Geography.[2021-11-30]. http: //kns.cnki.net/kcms/detail/65.1103.X.20211018.1255.004.html.]   
+[19]朱震达,吴正,刘恕,等.中国沙漠概论(修订版)[M].北京:科学 出版社,1980:77-83.[Zhu Zhenda,Wu Zheng,Liu Shu,et al.An introduction to deserts in China (revised edition)[M]. Beijing: Science Press,1980: 77-83.]   
+[20] 钱亦兵,吴兆宁.古尔班通古特沙漠环境研究[M].北京:科学出 版社,2010:2-28.[Qian Yibing,Wu Zhaoning.Environmental study of the Gurbantunggut Desert[M]. Beijing: Science Press, 2010: 2-28.]   
+[21]王涛.中国风沙防治工程[M].北京:科学出版社,2011:14-60. [Wang Tao.Aeolian sand control project in China[M]. Beijing: Science Press,2011: 14-60.]   
+[22] Lee D B,Ferdowsi B,Jerolmack D J. The imprint of vegetation on desert dune dynamics[J]. Geophysical Research Leters, 2019, 46 (21): 12041-12048.   
+[23]吴正.中国沙漠及其治理[M].北京:科学出版社,2009:589- 595.[Wu Zheng. China's desertsand their governance[M]. Beijing: Science Press, 2009: 589-595.]   
+[24]中国科学院新疆综合考察队.新疆地貌[M].北京:科学出版社, 1978:228-231.[Xinjiang Comprehensive Investigation Team, CAS Geomorphology of Xinjiang[M]. Beijing: Science Press,1978: 228- 231.]   
+[25] 陈治平.准噶尔盆地古尔班通古特沙漠的基本特征[J].地理集 刊(地貌学),1963(5): 79-91.[Chen Zhiping.Basic characteristics of Gurbantunggut Desert in Junggar Basin[J]. Geographical Collector(Geomorphology),1963(5): 79-91.]   
+[26]Yang X,He Q,Liu X,et al. Saltation activity and its threshold velocity in the Gurbantunggut Desert, China[J]. Natural Hazards, 2018,90(1): 349-364.   
+[27] 季方,叶玮,魏文寿.古尔班通古特沙漠固定与半固定沙丘成因 初探[J].干旱区地理,2000,23(1):32-36.[Ji Fang,Ye Wei,Wei Wenshou.Preliminary study on the formation causes of the fixed and semi-fixeddunes in Gurbantonggut Desert[J].AridLand Geog raphy,2000,23(1): 32-36.]   
+[28] 周宏飞,李彦,汤英,等.古尔班通古特沙漠的积雪及雪融水储 存特征[J].干旱区研究,2009,26(3):312-317.[Zhou Hongfei,Li Yan,Tang Ying,et al. The characteristics of the snow-cover and snowmelt water storage in Gurbantunggut Desert[J]. Arid Zone Research,2009,26(3): 312-317.]
+
+# 干旱区地理
+
+[29] 王雪芹,王涛,蒋进,等.古尔班通古特沙漠南部沙面稳定性研 究[J].中国科学:地球科学,2004,34(8):763-768.[Wang Xueqin,Wang Tao,Jiang jin,et al.Study on sand surface stability in southern Gurbantungut Desert[J].Scientia Sinica (erae),004, 34(8): 763-768.]   
+[30]Li S H,Fan A.OSL chronology of sand deposits and climate change of last $1 8 ~ \mathrm { { k a } }$ in Gurbantunggut Desert, northwest China[J]. Journal of Quaternary Science,2011,26(8): 813-818.   
+[31]王雪芹,蒋进,雷加强,等.古尔班通古特沙漠短命植物分布及 其沙面稳定意义[J].地理学报,2003,58(4):598-605.[Wang Xueqin,Jiang Jin,Lei Jiaqiang,etal.The distributionof ephemeral vegetation on the longitudinal dune surface and its stabilization significance in the Gurbantunggut Desert[J].Acta Geographica Sinica,2003,58(4): 598-605.]   
+[32] 丁佩燕.近15年古尔班通古特沙漠植被覆盖度时空变化研究 [J].新疆林业,2017(4):18-21.[Ding Peiyan.Spatial-temporal variation of vegetation coverage in Gurbantunggut Desert in recent 15 years[J]. Xinjiang Forestry,2017(4): 18-21.]   
+[33] 尚白军,朱家龙,周智彬,等.近30年莫索湾垦区150团植被覆 盖度时空变化及现状评价[J.云南大学学报(自然科学版), 2021,43(2):412-420.[Shang Baijun, Zhu Jialong,Zhou Zhibin, et al. Spatio-temporal changes and current status evaluation of vegetation coverage in 15O Regiment of Mosuowan in recent 3O years [J].Journal of Yunnan University (Natural SciencesEdition), 2021,43(2): 412-420.]   
+[34] 袁盼丽,汪传建,赵庆展,等.基于深度学习的寒旱区多时序影 像土地利用及变化监测——以新疆莫索湾垦区为例[J].干旱 区地理,2021,44(6):1717-1728.[Yuan Panli,Wang Chuanjian, Zhao Qingzhan,et al. Dynamic monitoring of land-use/land-cover change in cold and arid region based on deep learning:A case study of Mosuowan reclamation area in Xinjiang[J]. Arid Land Geography,2021,44(6): 1717-1728.]   
+[35] 郑博文,胡顺军,周智彬,等.古尔班通古特沙漠南缘风沙土土 壤水分特征与毛管水最大上升高度[J].干旱区地理,2020,43 (4):1059-1066.[Zheng Bowen,Hu Shunjun, Zhou Zhibin,et al. Maximum height of capillary rising water and characteristic of soil moisture in the southern edge of Gurbantunggut Desert[J].Arid Land Geography,2020,43(4): 1059-1066.]   
+[36]Sauermann G,Rognon P,Poliakov A,et al. The shape of the barchan dunes of southern Morocco[J]. Geomorphology,2000,36(1): 47-62.   
+[37] 吴秀兰,张太西,王慧,等.1961—2017年新疆区域气候变化特 征分析[J].沙漠与绿洲气象,2020,14(4):27-34.[Wu Xiulan, Zhang Taixi, Wang Hui,et al. Characteristics of temperature and precipitation change in Xinjiang during 1961—2017[J].Desert and Oasis Meteorology,2020,14(4): 27-34.]   
+[38] 陈冬冬,戴永久.近五十年我国西北地区降水强度变化特征[J]. 大气科学,2009,3(5):923-935.[Chen Dongdong,Dai Yongjiu. Characteristics of northwest China rainfall intensity in recent 50 years[J]. Chinese Journal of Atmospheric Sciences,2O09,33(5): 923-935.]   
+[39] 王澄海,张晟宁,李课臣,等.1961—2018年西北地区降水的变 化特征[J].大气科学,2021,45(4):713-724.[Wang Chenghai, Zhang Shengning,Li Kechen, et al. Change characteristics of precipitation in northwest China from 1961 to 2018[J]. Chinese Journal of Atmospheric Sciences,2021,45(4): 713-724.]   
+[40] 王鹏祥,杨金虎,张强,等.近半个世纪来中国西北地面气候变 化基本特征[J].地球科学进展,2007,22(6): 649-656.[Wang Pengxiang, Yang Jinhu, Zhang Qiang, et al. Climate change characteristic of northwest China in recent half century[J].Advances in Earth Science,2007,22(6): 649-656.]   
+[41] 李红军,杨青,何清.艾比湖地区的输沙势分析[J].干旱区研究, 2003,20(4): 322-325.[Li Hongjun,Yang Qing,He Qing. Analysison thesand drift potentiality in the Ebinur Lake Region, Xinjiang[J].Arid Zone Research,2003,20(4): 322-325.]   
+[42] 杨怡,吴世新,庄庆威,等.2000—2018年古尔班通古特沙漠 EVI时空变化特征[J].干旱区研究,2019,36(6):1512-1520. [YangYi,Wu Shixin,Zhuang Qingwei,et al.Spatiotemporal change of EVI in the Gurbantunggut Desert from 20o0 to 2018[J]. Arid Zone Research,2019,36(6): 1512-1520.]   
+[43] 彭国栋.沙漠化与气候变化互馈机制探究——以古尔班通古特 地区为例[D].武汉:华中师范大学,2012.[Peng Guodong.Study on the reciprocal feeding mechanism of desertification and climate change: A case study in Gurbantunggut Region[D]. Wuhan: Central China Normal University,2012.]   
+[44]Roskin J,Blumberg D G, Katra I. Last millennium development and dynamics of vegetated linear dunes inferred from ground-penetrating radar and optically stimulated luminescence ages[J]. Sedimentology,2014,61(5): 1240-1260.   
+[45] 王雪芹,李丙文,张元明.古尔班通古特沙漠沙垄表面的稳定性 与顶部流动带的形成[J].中国沙漠,2003,23(2):28-33.[Wang Xueqin,Li Bingwen, Zhang Yuanming. Stabilization of dune surface and formation of mobile belt at the top of longitudinal dunes in Gurbantonggut Desert, Xinjiang, China[J]. Journal of Desert Research,2003,23(2): 28-33.]   
+[46] 郭洪旭,王雪芹,盖世广,等.古尔班通古特沙漠腹地半固定沙 垄顶部风沙运动规律[J].干旱区地理,2010,33(6):954-961. [Guo Hongxu,Wang Xueqin,Gai Shiguang,et al.Wind blown sand movement on the top of semi-fixed longitudinal dune in the hinterlandof Gurbantunggut Desert[J].Arid Land Geography, 2010,33(6): 954-961.]   
+[47]Faria R,Ferreira A D,Sismeiro JL,et al. Wind tunnel and computational study of the stoss slope effect on the aeolian erosion of transverse sand dunes[J]. Aeolian Research,2011,3(3): 303-314.   
+[48] McFarlane M J,Eckardt FD,Ringrose S,et al. Degradation of linear dunes in northwest Ngamiland,Botswana and the implications for luminescence dating of periods of aridity[J]. Quaternary International,2005,135(1): 83-90.   
+[49]Roskin J,Porat N,TsoarH,etal.Age,origin and climatic controls on vegetated linear dunes in the northwestern Negev Desert (Israel) [J]. Quaternary Science Reviews,2011,30(13): 1649-1674.
+
+[50]Siegal Z, Tsoar H,Karnieli A.Effects of prolonged drought on the vegetation cover of sand dunes in the NW Negev Desert: Field survey,remote sensing and conceptual modeling[J]. Aeolian Research,2013,9:161-173.
+
+[51]Bristow C S,Jones B,Nanson G,etal.GPR surveys of vegetated linear dune stratigraphy in central Australia:Evidence for linear dune extension with vertical and lateral accretion[J]. Special Paper of the Geological Society of America,2007,432:19-33.
+
+# Internal sedimentary structure of barchan dune in the southwest of Gurbantunggut Desert
+
+LIU Rui¹²，LI Zhizhong12³，JIN Jianhui²2³，XIE Xihao $^ { 1 , 2 }$ ， ZOU Xiaojun1²， MA Yunqiang1.2
+
+(1.CollegeofGeograpcaliencs,FujinNoalUniversityuzhou5o7,Fujian,Chia;2.StateKeyLabotorfor SubtropicalMountainEcologyoftheMinistryofScienceandTechnologyandFujianProvince,FujianNormalUniversityFuzhou 350007,Fujian,China；3.InstituteofGeography,FujianNormal University,Fuzhou35ooo7,Fujian,China)
+
+Abstract: The internal sedimentary structure of aeolian dunes preserves important information on the dynamic evolution of dune morphology.In this study,we detected the internal structure offixedand semi-fixed barchan dunes with various sizes and shapes using ground-penetrating radar in spring and autumn in southwest Gurbantunggut Desert in Xinjiang, China. The depth of the internal structure image information reached $8 \mathrm { ~ m ~ }$ . Through image gain processng, interpretation,and comparative analysis,the following observations are made: (1)This detection revealed five radar facies of the internal structure of dunes: high-angle dipping oblique bedding, wedge crossbedding,convex cross-bedding,low-angle to sub-horizontal bedding,and masive bedding.The first four bedding types are mainly distributed in shallow layers at $3 - 5 \mathrm { ~ m ~ }$ ，whereas the massive bedding is mainly distributed at depths below $4 \mathrm { m }$ to $5 \mathrm { m }$ (2) High-angle dipping oblique bedding and wedge cross-bedding are mainly distributed in the upper part ofthe windward slope and the crest of the high barchan dune (chain).The former is buried in the fore-deposit of the leeward slope,reflecting the frequent sand drift activities on the upper and topof the windward slope of the tall barchan dune,and the buried fore-deposit lamina is exposed because of wind erosion after the dune is “fixed and reduced".The lattr is formed by the filing of wind and sand flow in the windward pit and wind erosion groove of the windward slope or the seasonal variation in the wind direction at the crest.(3）The convex cross-beding of shrub dunes is widely distributed in the windward slope ofbarchan dunes,and there are local occurrences in the leeward slope,indicating that the shrub dunes are important in the process of wind and sand on the surface of dunes;the massive stratification may be caused by the disappearance of the original stratification caused by the strong bioturbation of the early aeolian stratification. (4) The sedimentary structural types and combined distribution characteristics reflect the overallstable or declining state of barchan dunes in the study area,which is consistent with the topography characteristics of modern dunes.For example,wind erosion troughs are common in the upper part of the windward slope and the crest,and the development of fore-deposit is slow. Modern sand drift activities are mainly concentrated in the upper part of the sand dune and the crest. Therefore,the internal structural characteristics of barchan dunes difer from mobile barchan dunes and are consistent with the change in the regional physical geography environment of northern Xinjiang characterized by the warming and wetting of the desert climate,the weakening of the average wind speed,and the increase in vegetation coverage.
+
+Key words: ground penetrating radar; Gurbantunggut Desert; fixed and semi-fixed barchan dune; sedimentary structure; environmental significance

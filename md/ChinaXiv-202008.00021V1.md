@@ -1,0 +1,183 @@
+# 钙盐及模拟干旱互作对大花套唇苣苔种子萌发和幼苗生长的影响
+
+洪欣1，单皖粤¹，张丹丹²，晁天彩²，温放3,4，周守标²\*
+
+（1.安徽大学 资源与环境工程学院，合肥230601；2.安徽师范大学 环境科学与工程学院，安徽 芜湖241002；3.广西壮族自治区中国科学院广西植物研究所，广西喀斯特植物保育与恢复生态学重点实验室，广西 桂林 541006；4.中国科学院桂林植物园，中国苦苣苔科植物保育中心，广西 桂林 541006)
+
+摘要：苦苣苔科原大花旋蒴苣苔(Boea clarkeana)为我国特有的复苏植物，在最近的修订中被并入套唇苣苔属(Damrongia Kerr)，更名为大花套唇苣苔(D.clarkeana)。本研究以大花套唇苣苔成熟种子为试验材料，通过观察钙盐和模拟干旱互作试验对其种子萌发和幼苗生长的影响，以期探究该植物对喀斯特特殊生境的适应机制。结果表明：钙盐及模拟干旱互作时，低浓度钙盐可减轻干旱对种子萌发和幼苗生长的抑制作用，并且低程度的干旱与低浓度的钙盐相互作用时反而会促进种子萌发和幼苗生长；低钙盐低旱复合条件对大花套唇苣苔生长的促进作用也体现了该物种对喀斯特地区保水性差的石灰岩土壤基质的专适性，也避免了和其他植物直接生态位的竞争。
+
+关键词：大花旋蒴苣苔，喀斯特地貌，模拟干旱胁迫，钙盐胁迫，幼苗生长，种子萌发中图分类号：Q945 文献标识码：A
+
+# Effects of calcium salt and simulated drought interaction on seed germination and seedling growth of
+
+Damrongia clarkeana
+
+HONG Xin1,3, SHAN Wanyue1, ZHANG Dandan², CHAO Tiancai², WEN Fang3,4, ZHOU Shoubiao2\*
+
+(1.SchoolofResource and Environmental Engineering,Anhui University,Hefei 23o601,China; 2.Schoolof Environmental Science and Engineeing,Anhui Normal University,Wuhu 241002,Anhui, China; 3. Guangxi Key Laboratory ofPlantConservationand Restoration Ecology in Karst Terrain,Guangxi Instituteof Botany,Guangxi Zhuang Autonomous Region and Chinese Academy of Sciences,Guilin 5410o6,Guangxi,China；4.Gesneriad Conservation Center of China, Guilin Botanical Garden, CAS,Guilin 541006,Guangxi, China ）
+
+Abstract: Boea clarkeana (Gesneriaceae) is a resurrection plant species endemic to China. In the recent revision,it was incorporated into Damrongia Kerr and renamed as $D$ .clarkeana. In this 基金项目：国家自然科学基金（31860047)；安徽省自然科学基金（1908085QC1)；广西喀斯特地形植物保 护恢复生态重点实验室基金（19-050-6)；广西自然科学基金（2017GXNS FAA198006）[Supported by the National Natural Science Foundationof China (3186O047)；Anhui Provincial Natural Science Foundation (1908085QC1);Fund of Guangxi Key Laboratoryof Plant Conservation and Restoration Ecology in Karst Terrain (19-050-6); the Natural Science Foundation of Guangxi (2017GXNSFAA198006)]。
+
+作者简介：洪欣（1989-），男，江苏苏州人，博士，讲师，主要研究方向为植物生态学，（E-mail）hongxin @ahu.edu.cn。
+
+通信作者：周守标，博士，教授，主要从事植物分类学、植物生态学等研究，（E-mail）zhoushoubiao@ vip.163.com。
+
+study,mature seeds of $D$ . clarkeana were used as experimental materials to observe the effects of calcium salt and simulated drought interaction experiments on seed germination and seedling growth in order to explore the adaptation mechanism of the plant to special karst habitats. The results showed that when calcium salt and simulated drought interact, low concentration calcium salt can reduce the inhibition of drought on seed germination and seedling growth,and when low concentration drought interacts with low concentration calcium salt， seed germination and sedling growth will be promoted instead. The promotion effect of low calcium salt and low drought combined conditions on the growth of $D$ . clarkeana also reflects the speciality of the species to limestone soil matrix with poor water retention in karst areas,and also avoids direct niche competition with other plants.
+
+Key words: Damrongia clarkeana, karst landform, simulated drought stress,calcium salt stress, seedling growth, seed germination
+
+水资源短缺和土壤盐渍化是目前世界范围内对作物生产构成威胁的两种最严重的非生物胁迫因子（Guoetal.,2014），并且还会形成盐害与干旱的复合胁迫，对植物生长发育、繁殖以及分布产生重要影响（毛海涛等，2016）。随着世界人口的增长，提高作物的抗盐旱能力是现代植物育种工作急需解决的关键问题之一（Campitelli et al.,2016;Shaar Moshe et al.,2017）。而对于大多数植物来说，幼苗期则是最为脆弱的时期（Gutterman,1993）。因此，植物在种子萌发和幼苗生长时期对盐生和干旱环境的适应能力是决定植物分布范围和种群生存能力的关键因素。华南至西南的喀斯特地区是我国苦苣苔科植物分布的主要生境，该科植物的自然分布具有高度的土壤专一性，大多倾向于分布在喀斯特高钙土壤中（Hao etal.,2015）。喀斯特地貌由于基岩裸露率高，土壤浅薄保水性较差，地表蒸发强烈，再加上降水丰富但不稳定，因此即使在雨量较丰富的地区，也会出现"岩溶干旱"现象（Zenget al.,2007;Zhou et al.,2009；梁开明，2010；刘艳，2016）。所以喀斯特生态系统是敏感度高的脆弱生态系统，一遭到破坏很难恢复，需要加强人为保护（Mingde，1990；冷疏影和刘燕华，1999；李玉辉，2000)。喀斯特生境中的基岩大多为 $\mathrm { C a C O } _ { 3 }$ 和 $\mathbf { M g C O } _ { 3 }$ 为主的碳酸盐类，土壤富钙成为喀斯特土壤最显著的特征（齐清文，2014）。在高钙、干旱、贫瘠的喀斯特特殊生境下，促进了植物抗逆性的特化发展，形成了适应喀斯特生境特殊的生理生化与遗传机制（李阳兵等，2004；Xiao etal.,2015）。所以研究喀斯特生态系统中典型植物的适应性，对理解喀斯特的植物群落对特殊土壤环境的生理适应机制有重要意义，也对岩溶生态学和恢复生态学的研究方面有重要启示意义（Haoetal.,2015）。
+
+大花套唇苣苔(Damrongia clarkeana)曾被当做是旋蒴苣苔属(Boea Comm.ex Lam.)的一员，修订前被称为大花旋蒴苣苔(B.clarkeana)，修订后成为套唇苣苔属(Damrongia Kerr)在我国的唯一一个种，主要分布在长江流域中下游的中低海拔喀斯特山地石灰岩裸岩表面和石缝里（李振宇和王印政，2005），分布面积广，有很强的耐旱性，表现出优异的脱水耐受性，是我国特有的复苏植物（晁天彩等，2013），是不可多得的抗旱遗传资源，具有重要研究价值（Gechev etal.,2012;Wang et al.,2018）。喀斯特地区土壤盐旱往往同时发生，前期的研究大部分表明钙盐及模拟干旱互作比单一胁迫对植物损害更大（Slama etal.,2007;Zhang et al.,2014; Sun et al.,2015）。研究中常采用 PEG6000 模拟干旱胁迫，其中聚乙二醇（PEG）是一种高分子渗透剂，其本身无法穿越细胞壁进入细胞质，故不会引起质壁分离，从而使植物细胞和组织处于类似于干旱的水分胁迫之中（Atree&Fowke,1993）。朱志国等人（2018）对不同产地的大花套唇苣苔种子分别开展不同程度的模拟干旱胁迫和盐分胁迫的单因子处理，结果表明种子具有一定的耐旱性和耐盐性。本研究在此基础上进一步研究干旱和盐胁迫共同作用对大花套唇苣苔种子萌发和幼苗生长的影响，分析了喀斯特生境高钙性土壤与植物的抗旱机制之间的相互关系，并讨论苦苣苔科植物对石灰岩土壤基质的专性适应性和其分布内部驱动因素。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+在朱志国等（2018）对于大花套唇苣苔四个居群的抗性研究表明，安徽居群的幼苗对钙离子胁迫更为敏感，且石台县棠溪乡作为拥有丰富石灰石资源的石灰岩地区，喀斯特地形明显。故选择安徽省石台县棠溪乡大花套唇苣苔成熟种子为试验材料。大花套唇苣苔的成熟种子于2010年10月在安徽省石台县棠溪乡随机采集。
+
+# 1.2研究方法
+
+# 1.2.1 处理设计
+
+本试验采取双因子正交设计，共20个处理：（1）水分梯度处理，采用PEG 6000模拟干旱条件（Michel&Kaufmann,1973）；干旱胁迫梯度为PEG 6000：0（CK）、50、100、150、$2 0 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 。（2）盐分梯度处理，采用 $\mathrm { C a C l } _ { 2 }$ 浓度模拟盐胁迫条件；盐分胁迫梯度为 $\mathbf { C a C l } _ { 2 }$ ：0(CK）、5、10、 $2 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 。
+
+# 1.2.2种子萌发和幼苗生长观察
+
+采用培养皿纸上发芽床，挑选饱满均匀的大花套唇苣苔种子，使用蒸馏水清洗3次，将种子有序地放在铺有两层滤纸的直径为 $9 \mathrm { c m }$ 的培养皿中。每个处理100粒种子，重复3次，共计60个处理。在每个培养皿中分别加入等量各梯度的PEG和盐溶液。在种子萌发过程中，每天用电子天平分析天平（岛津AUW120D，京都，日本）称量发芽皿，补充去离子水至原来的重量，并且每隔七天更换一次溶液，以保证种子顺利发芽和盐、PEG浓度尽可能不变。然后置于条件为光照强度 $2 5 0 \mu \mathrm { m o l } { \cdot } \mathrm { m } ^ { - 2 } { \cdot } \mathrm { s } ^ { - 1 } .$ 、光照时间 $1 2  { \mathrm { L } } / 1 2  { \mathrm { D } }$ 、温度25℃的全智能人工气候植物箱RXZ-1500（江南仪器厂，宁波，中国）内培养。每天在解剖镜下定时观察发芽过程，依《农作物种子检验规程》（国家技术监督局，1995），有明显的胚根“露白”认定为发芽。
+
+# 1.2.3数据分析
+
+统计种子的初始萌发时间和每日正常发芽的粒数，试验第10天测定发芽势，试验第30天测定根长和苗长，并根据下列公式计算发芽率、发芽势、萌发指数和活力指数。
+
+发芽率 $( \% ) =$ 正常发芽粒数/供试种子总数 $\times 1 0 0 \%$   
+发芽势 $( \% ) =$ 规定日数内发芽的种子数/供试种子数 $\times 1 0 0 \%$   
+萌发指数 $\mathrm { G i } { = } \Sigma$ Gt/Dt（Gt为第t日的萌发数，Dt为相应的萌发日数）；  
+活力指数 $\scriptstyle \mathrm { V i = S } \times \Sigma$ Gt/Dt（S为幼苗的平均长度）。  
+数据采用SPSS16.0软件进行单因素方差分析，差异显著用Duncan检测进行多重分析。
+
+# 2结果与分析
+
+# 2.1干旱与盐胁迫对大花套唇苣苔种子萌发势的影响
+
+测定不同盐浓度胁迫下的种子发芽情况是测定植物耐盐性的重要依据之一。植物的种子萌发期比植株生长期更容易遭受盐害，同时盐胁迫过程中植物种子萌发情况同植物本身耐盐性有一定关系（张立军等，2007）。
+
+不同程度的模拟干旱和钙盐胁迫下对大花套唇苣苔种子发芽势的测定结果：经过10天的连续观察统计发现（图1），当 $\mathrm { C a C l } _ { 2 }$ 浓度为 $5 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 的时候，种子的发芽势均高于相同PEG浓度下其他 $\mathrm { C a C l } _ { 2 }$ 浓度处理的种子的发芽势，且在无PEG处理时，发芽势最高，为 $44 \%$ ；而在无干旱处理条件下， $\boldsymbol { 1 0 } \mathrm { m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 的发芽势也大于CK处理的发芽势，但随着PEG浓度的升高，发芽势出现逐渐下降的趋势；当PEG浓度达到150和200 $\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 }$ 时，分别与高浓度20mmol· ${ \mathrm { L } } ^ { - 1 }$ 的 $\mathrm { C a C l } _ { 2 }$ 处理时，大花套唇苣苔种子的发芽势降为零，而同时低浓度 $\mathrm { 5 \ m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 处理的发芽势却大于CK。这表明干旱胁迫抑制种子萌发；低浓度的钙盐却可促进种子萌发，并减轻互作时干旱对萌发的抑制作用。
+
+![](images/a5f6b8bc8a62f7abebc4c8f9efee717748f44114524c4ae6b1869348e7b48854.jpg)  
+图1不同浓度的盐旱复合胁迫处理下大花套唇苣苔种子萌发势 Fig.1Germination potential of Damrongia clarkeana seds under different concentrations of salt and drought combined stress
+
+# 2.2干旱与盐胁迫对大花套唇苣苔种子萌发率的影响
+
+一般认为种子的发芽率随着盐浓度的提高而下降（顾振新等，2002），但在不同干旱胁迫和钙盐胁迫下对大花套唇苣苔种子发芽率测定结果发现：经过30天的连续观察统计发现(见图2)，随着PEG浓度升高，发芽率均逐渐降低；当 $\mathrm { C a C l } _ { 2 }$ 浓度为 $5 \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ ，PEG 浓度为0时，大花套唇苣苔种子的发芽率最高，且当 $\mathrm { C a C l } _ { 2 }$ 浓度为较低浓度时，种子的萌发率均高于相同 PEG 浓度下的 $\mathrm { C a C l } _ { 2 }$ 较高浓度处理的种子的萌发率；随着PEG 浓度升高，10（204号 $\mathrm { m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 处理的种子萌发率比CK处理的种子的萌发率相比先升高后降低。这表明：干旱胁迫能抑制大花套唇苣苔种子的萌发；适度钙盐促进种子萌发；二者互作时，低浓度的$\mathrm { C a C l } _ { 2 }$ 可以减轻PEG 对种子萌发带来的抑制作用，从而提高大花套唇苣苔的萌发率；但是随着 $\mathbf { C a C l } _ { 2 }$ 浓度和PEG浓度的不断升高，两者互作会协同抑制大花套唇苣苔种子萌发。
+
+![](images/0f9a61b4e64f751aa75778baf9afe2e232e2f566287e272a57bc05c02894e1bb.jpg)  
+图2不同浓度的盐旱复合胁迫处理下大花套唇苣苔种子萌发率Fig.2Germination rate of Damrongia clarkeana under different concentrations of salt anddrought combined stress
+
+# 2.3干旱与盐胁迫对大花套唇苣苔种子初始萌发时间的影响
+
+由图3可以看出，随着PEG浓度的升高，种子萌发时间逐渐被推迟；在不同程度的干旱胁迫中，当 $\mathrm { C a C l } _ { 2 }$ 浓度为 $5 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 时，大花套唇苣苔种子的初始萌发时间最早； $\mathrm { C a C l } _ { 2 }$ 浓度为 $2 0 \ \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 时，初始萌发时间最长；当PEG浓度为0、50、 $2 0 0 \ \mathrm { g { \cdot } L } ^ { - 1 }$ 时， $\mathrm { C a C l } _ { 2 }$ 浓度为0和10 mmol ${ \mathrm { L } } ^ { - 1 }$ 的初始萌发时间相同，PEG浓度为100、 $1 5 0 ~ \mathrm { g { \cdot } L } ^ { - 1 }$ 时， $0 \ \mathrm { m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 处理比0mmol· $\mathbf { L } ^ { - 1 } \mathbf { C a C l } _ { 2 }$ 处理的种子提前萌发。这表明，干旱胁迫会抑制大花套唇苣苔种子的萌发；低浓度盐分可以缩短种子萌发所需要的准备期并减弱干旱胁迫的抑制作用，促进不同干旱处理的大花套唇苣苔种子提前萌发； $2 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ （ $\mathbf { C a C l } _ { 2 }$ 与PEG互作则延长了种子萌发的准备期。
+
+![](images/d021304c0e9fbcd8f98719563e0ad917e1207e06f7442b938264b8f13f0d6d50.jpg)  
+图3不同浓度的盐旱复合胁迫处理下大花套唇苣苔种子开始萌发的时间Fig.3 Seed germination time of Damrongia clarkeana under different concentrations of salt anddrought combined stress
+
+# 2.4干旱与盐胁迫对大花套唇苣苔种子萌发指数的影响
+
+由图4可见，随着PEG浓度的升高萌发指数呈逐渐下降的趋势，但是低浓度 $\mathrm { C a C l } _ { 2 }$ 同时作用下，大花套唇苣苔种子的萌发指数较高，并且高于无 $\mathrm { C a C l } _ { 2 }$ 处理的CK处理。在浓度低于200$\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 } \mathbf { P } \mathbf { E } \mathbf { G }$ 干旱处理下，无 $\mathrm { C a C l } _ { 2 }$ 处理和 $1 0 \mathrm { m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 处理的萌发指数相近，仅在高浓度200$\mathbf { g } { \cdot } \mathbf { L } ^ { - 1 } \mathbf { P } \mathbf { E } \mathbf { G } .$ 作用时， $\mathrm { 1 0 ~ m m o l { \cdot } L ^ { - 1 } C a C l _ { 2 } }$ 低于无 $\mathrm { C a C l } _ { 2 }$ 处理的种子萌发指数。高浓度20 mmol·L1$\mathrm { C a C l } _ { 2 }$ 与干旱互作时，种子萌发指数显著降低。所以，干旱可以显著降低大花套唇苣苔种子的萌发指数；但是低于 $1 0 \ \mathrm { \ m m o l { \cdot } L ^ { - 1 } }$ 浓度的盐胁迫可以适当降低低浓度干旱胁迫带来影响，从而提高大花套唇苣苔种子的萌发指数；而盐胁迫与高浓度PEG互作时会增强其抑制作用。
+
+![](images/09be1efda3d104ef3a3695303965aadcdca953ffefad4550520854da2efad704.jpg)  
+图4不同浓度的盐旱复合胁迫处理下大花套唇苣苔种子的萌发指数Fig.4Germination index of Damrongia clarkeana seeds under different concentrations of saltand drought combined stress
+
+# 2.5干旱与盐胁迫对大花套唇苣苔种子活力的影响
+
+由图5可见，无 $\mathrm { C a C l } _ { 2 }$ 处理组比有 $\mathrm { C a C l } _ { 2 }$ 处理组的大花套唇苣苔种子活力指数更高；无$\mathrm { C a C l } _ { 2 }$ 处理时，随着PEG浓度的升高，活力指数先上升后显著下降，且在较轻干旱处理PEG浓度为 $5 0 \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 时活力指数达到最大。无干旱处理时，0和5mmol·L的 $\mathrm { C a C l } _ { 2 }$ 处理下的活力指数基本相同；钙盐及模拟干旱互作时，活力指数总体随着PEG浓度的升高呈逐渐下降的趋势；当高浓度PEG干旱胁迫和高浓度 $\mathrm { C a C l } _ { 2 }$ 相互作用时，大花套唇苣苔种子的活力指数降为0。所以，轻度单一干旱胁迫能提高其活力指数；低浓度钙盐处理与干旱互作时对大花套唇苣苔种子的活力指数会降低，但影响较小；高盐处理和重度干旱互作则显著降低其活力指数。
+
+![](images/8edb3d00e8ef3d3c647ea4a7ab558432fb95f0e3b0430d0f40c85bef262be5d8.jpg)  
+图5不同浓度的盐旱复合胁迫处理下的大花套唇苣苔种子活力指数Fig.5 Vitality index of Damrongia clarkeana seeds under different concentrations of salt anddrought combined stress
+
+# 2.6干旱与盐胁迫对大花套唇苣苔幼苗胚根根长的影响
+
+对盐旱不同浓度处理条件下大花套唇苣苔胚根根长统计结果显示（图6）：盐处理组的根长都显著低于相同PEG处理下的无盐处理组； $\mathrm { C a C l } _ { 2 }$ 浓度为CK、5mmol·L时，随着PEG浓度的升高，根的长度先上升，后逐渐下降； $\mathrm { C a C l } _ { 2 }$ 浓度为10、 $2 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ 时，根长随着PEG浓度的升高长度逐渐下降。故盐胁迫对于大花套唇苣苔胚根的伸长有抑制作用，且会逐渐抵消轻度干旱对根伸长的促进作用，而随着PEG浓度增大二者会协同抑制胚根伸长，但轻度钙盐及模拟干旱互作仍会促进胚根伸长。
+
+![](images/32db23df9d78955e69909dcf1bd253099a0fffb5a72b7642f4479958ca55e3f7.jpg)  
+图6不同浓度的盐旱复合胁迫处理下大花套唇苣苔幼苗胚根根长 Fig.6 Radicle length of Damrongia clarkeana under different concentrations of salt and drought combined stress
+
+# 2.7干旱与盐胁迫对大花套唇苣苔幼苗苗长的影响
+
+从图7可以看出随着PEG浓度的升高，大花套唇苣苔幼苗的苗长变化不显著，只有在$\mathrm { C a C l } _ { 2 }$ 浓度为 $2 0 \mathrm { m m o l } { \cdot } \mathrm { L } ^ { - 1 }$ ，PEG浓度为150和 $2 0 0 \ \mathrm { g } { \cdot } \mathrm { L } ^ { - 1 }$ 时，由于种子只初露胚根，因而苗长为0，所以可推测PEG对幼苗生长影响不大；同时有盐处理组的苗长都低于无盐处理组，故盐浓度对于大花套唇苣苔幼苗苗长的生长有轻微抑制作用，不如其对于根生长抑制作用显著；
+
+轻度盐胁迫与轻度干旱胁迫互作可抵消盐胁迫抑制作用并协同促进幼苗生长，高盐处理和重度干旱互作则显著抑制幼苗生长。
+
+![](images/ab34795316d1afe5a93961594223afb90fe413e34cd291790963645fc8570282.jpg)  
+图7不同浓度的盐旱复合胁迫处理下大花套唇苣苔幼苗苗长 Fig.7 Seedling length of Damrongia clarkeana under different concentrations of salt and drought combined stress
+
+# 3讨论
+
+干旱引起的渗透胁迫对植物生长发育具有很大影响（Zhangetal.,2004)，而盐分对种子萌发和幼苗生长的影响是由渗透效应以及离子毒害作用共同影响的（Levit,1980;Munns &Tester,2008；高润昕等，2019)。通过试验结果可得，干旱胁迫与盐胁迫及二者互作对大花套唇苣苔种子萌发及幼苗生长均有一定影响。单独作用时候，干旱胁迫主要抑制了大花套唇苣苔种子萌发，而盐胁迫则主要抑制幼苗根的伸长。
+
+在我们研究中发现钙盐及模拟干旱互作时，低浓度钙盐却可减轻PEG模拟干旱对种子萌发和幼苗生长的抑制作用，同时还加快了种子萌发速率。所以，与单一盐、旱胁迫相比，适度的钙盐及模拟干旱互作促进了种子萌发速率和幼苗胚根的生长，暨对于双重胁迫植物可表现出一定的适应性（解卫海等，2015；Hussainl etal.,2016）。这可能是由于适度的钙盐胁迫和干旱胁迫单独作用时皆可一定程度地提高大花套唇苣苔抗逆性，当二者互作时，植物体内的生理机制能够协同调节植物生长，增加其抗逆境能力，从而使得植物在盐旱复合胁迫下增强了其渗透调节能力和吸水性（Fahad etal.,2014;Liu et al.,2014；翁亚伟等，2016）。
+
+具体来说，种子开始萌发的时间随着干旱胁迫加剧而逐渐延长，但轻度的干旱胁迫可促进幼苗胚根的生长。这可能是由于种子为了抵抗干旱胁迫，延长了种子萌发的准备期，需要积累一定水分后才能萌发，这种萌发机制大大降低了植物在干旱区生存的风险(吕美婷等，2010)；积累足够养分达到萌发条件后，种子开始萌发生根，各项代谢活动增强，同时轻度干旱胁迫使植物对水分需求提高，为了满足代谢活动和生长发育需求，胚根需要继续伸长以获得更多水分（Brunner etal.,2015)。且前期研究也表明一定程度的干旱会使其体内脯氨酸和可溶性糖等含量增加，增加了植物的抗性，但重度胁迫时由于分解代谢大于合成代谢导致脯氨酸和可溶性糖含量下降从而抑制生长（张丹丹等，2016；Yang etal.,2020)。同时有研究表明（Wang et al.,2018)，大花套唇苣苔拥有非常丰富的耐旱修复和抗逆基因，体现了对其特殊生境的适应性。喀斯特地貌很容易出现“岩溶干旱”和石漠化现象，这种特殊干旱生境下植物种子能否保持活力及幼苗能否继续生长是植物存活的关键（秦文静和梁宗锁，2010)，同时也会影响到植物的分布。而纵观大部分苦苣苔科植物往往生长在洞穴中、或者溪流、瀑布向北的潮湿的苔藓石壁上（韦毅刚等，2010)，而大花套唇苣苔却大多分布在土层浅薄、保水性差的裸露石灰岩表面和石缝里，（晁天彩等，2013)，其种子和幼苗这种对干旱胁迫的适应机制使其能够更好地适应喀斯特干旱地貌。
+
+单独盐胁迫结果也同时表明一定程度的钙盐胁迫并不会显著影响大花套唇苣苔种子的萌发率，只有在较高浓度的钙盐胁迫才会影响苗的存活。大花套唇苣苔倾向分布在喀斯特特殊的高钙土壤中，具有较强的钙富集能力，一方面可将外源钙离子转化为自身结构储存起来，体内的钙的形态大部分是以果胶酸钙的形式存在于细胞壁和细胞器中，增强细胞的稳定性，更好地适应逆境（Hepler&Winship,2010；朱志国等，2015；张丹丹，2015)；另一方面控制植物对钙离子的吸收转运，维持体内正常钙含量，体现了植物对环境的适应性（姬飞腾等，2009)。钙作为植物必需的营养元素之一，不仅在植物生理代谢过程中起着重要的作用，还作为偶连植物胞外信号与胞内代谢的"第二信使"参与细胞信号转导的抗逆应答过程（Colin& Brownlee,2003)，对植物生理功能有着重要影响。研究表明，在植物面临盐害、干旱及氧化等环境胁迫时，细胞质中Ga+浓度增加，同时产生钙信号，启动基因表达抵抗外界环境胁迫，调节代谢过程和生长发育，提高植物对干旱等逆境的适应性，在植物逆境信号转导中发挥着重要作用（Hetherngton& Brownlee,2004;Lecourieux et al.,2006）。同时可溶性碳酸盐可与土壤腐殖质凝聚结合成稳定的腐殖酸钙，有利于土壤有机质的积累和植物的生根，具有保水、保护作用（李艳琼等，2016)。但高浓度钙盐也是一种细胞毒害剂，会影响植物的正常生理功能。
+
+种子萌发和萌发苗的早期生长，基本依靠种子的贮藏物质（张颖娟等，2008），所以种子萌发中对不可预测的环境变化的适应，是植物种子在恶劣环境中萌发的关键(黄振英等，2001)。高钙环境不仅仅可以抵消干旱对大花套唇苣苔的影响，还可以加快大花套唇苣苔种子萌发速率，可以进一步加大种子萌发和幼苗生长时期对喀斯特环境的适应能力。结果还进一步表明虽然不同盐浓度胁迫对幼苗根长的影响要大于对幼苗苗长的影响，表明幼根对盐胁迫更加敏感，这与齐清文等（2014）高钙处理对报春苣苔属植物根系系统的影响结果一致。但是，轻度干旱可减弱钙盐处理的抑制作用，反而促进其生长。这种生存机制对于生长在干旱的石灰岩表面上，并能在失水条件下存活下的大花套唇苣苔来说非常重要。同时，前期我们对其野外调查和遗传多样性的研究表明，相同条件下它对其他植物的竞争力较弱（温放和李湛东，2006)。所以，大花套唇苣苔凭借种子萌发过程中对渗透效应与离子效应的综合适应（Fercha&Azzedine,2014)，完美适应了其他植物种子无法萌发和生长的石灰岩极度干旱的表面，避免和其他植物直接生态位的竞争。
+
+# 参考文献：
+
+ATREE SM, FOWKE LC,1993. Embryogeny of gymnosperms: advances in synthetic seed technology of conifers [J]. Plant Cell, Tissue Organ Culture,35:1-35.   
+BRUNNER I, HERZOG C,DAWES MA, et al., 2015.How tree roots respond to drought [J]. Front Plant Sci, 6: 547.   
+CAMPITELLI BE,MARAIS DL, JUENGER TE, 2016. Ecological interactions and the fitness effect of water-use eficiency: Competition and drought alter the impact of natural MPK12 alleles in Arabidopsis [J]. Ecol Let, 19(4): 424-434.   
+CHAO TC, ZHOU SB, CHANG LL, et al., 2013. Effects of light intensity on the leaf morphology and physiological parameters of Boea clarkeana [J]. Chin JEcol, 32(5): 1161-1167． [晁天彩, 周守标，常琳琳，等,2013．光照强度对大花旋蒴苣苔叶形态和生理指标的影响 [J].生态 学杂志,32(5): 1161-1167.]   
+COLIN BROWNLEE,2O03. Plant signalling: Calcium first and second [J]. Curr Biol, 13: 923-924.   
+CSBTS,1996. Rules for agricultural seed testing-general directives [M]. Beijing: Standards Press of China.[国家技术监督局,1996.农作物种子检验规程 [M]．北京：中国标准出版社.]   
+FAHAD S, HUSSAIN S, MATLOOB A, et al., 2014. Phytohormones and plant responses to salinity stress: A review [J]. Plant Growth Regul, 75(2): 391-404.   
+FERCHA, AZZEDINE, CAPRIOTTI, et al., 2014. Comparative analysis of metabolic proteome variation in ascorbate-primed and unprimed wheat seeds during germination under salt stress [J]. J Proteomics,108: 238-257.   
+GAO RX, HUANG FZ, LI M, 2019. Effects of water potential and salt stress on seed germination and root growth in Arabidopsis [J].NHortic,(15): 8-14.[高润昕,黄凤珍,李萌,等,2019.水势 和盐胁迫对拟南芥种子萌发和根部生长的影响 [J].北方园艺,(15):8-14.]   
+GECHEV TS, DINAKAR C, BENINA M, et al.,2012. Molecular mechanisms of desiccation tolerance in resurrection plants [J]. Cell Mol Life Sci, 69: 3175-3186.   
+GU ZX, CHEN ZG,DUAN Y,2002. Eect of calcium on amylase activity of brown rice during germination time [J].Food Ferment Ind,28(11): 4-7.[顾振新，陈志刚，段颖,2002．钙处理对 发芽糙米中淀粉酶活力的影响 [J].食品与发酵工业,28(11):4-7.]   
+GUO J, LING H, WU Q, 2014. The choice of reference genes for assessing gene expression in sugarcane under salinity and drought stresses [J]. Sci Rep, 4: 1-10.   
+GUTTERMAN Y,1993. Seed germination in desert plants[M]. Berlin: Springer-Verlag.   
+HAO Z, KUANG YW, KANG M, 2015. Untangling the influence of phylogeny, soil and climate on leaf element concentrations in a biodiversity hotspot[J]. Funct Ecol, 29(2): 165-176 .   
+HEPLER PK,WINSHIP LJ,2O10. Calcium at the cell wall-cytoplast interface [J]. J Integrative Plan Biol, 52(2): 147-160.   
+HETHERNGTON AM, BROWNLEE C, 2004. The generation of $\mathrm { C a } ^ { 2 + }$ signals in plants [J]. Ann Rev Plant Biol, 55(55): 401-427.   
+HUANG ZY, ZHANG SX, YITZCHAK G, et al.,2001. Influence of light, temperature and salinity on the seed germination of Haloxylon ammodendron [J]. Acta Phytophysiol Sin, 27(3): 275-280.[黄振英，张新时,YitzchakG，等,2001．光照、温度和盐分对梭梭种子萌发的影响 [J]．植物生理学报,27(3): 275-280.]   
+HUSSAIN MI, LYRA DA, FAROOQ M, et al., 2014. Salt and drought stresses in safflower: A review[J]. Agron Sustain Dev, 36(1): 1-31.   
+JI TF, LI N, DENG X, 2OO9. Calcium contents and high calcium adaptation of plants in karst areas of China [J].ChinJPlant Ecol,33(5): 926-935.[姬飞腾，李楠，邓馨,2009．喀斯特地区植物 钙含量特征与高钙适应方式分析 [J]．植物生态学报,33(5):926-935.]   
+JIA MR,LI XW, 2005. Chinese ethnomedicine [M]. Beijing: China Medical Science and Technology Press.[贾敏如，李星炜,2005．中国民族药志要 [M]．北京：中国医药科技出版 社.]   
+LECOURIEUX D, RANJEVA R, PUGIN A, 2006. Calcium in plant defence-signalling pathways [J]. New Phytologist,171(2): 249-269.   
+LENG SY,LIU YH, 1999. A conceptual framework of sustainable developmental indicators of fragile environment of China [J]. China Popul,Resour and Environ, 9(2): 40-45.[冷疏影，刘 燕华,1999．中国脆弱生态区可持续发展指标体系框架设计[J]．中国人口·资源与环境， 9(2): 42-47.]   
+LEVIT J,1980. Reponses of plants to environmental stress(2nd edn)[M]. New York: Academic Press: 365-434.   
+LI YB,WANG SJ, RONG L, 20O4. Prospect of the study on rock desertification and its restoration in southwest Karst mountains [J]. Chin JEcol, 23(6): 84-88.[李阳兵，王世杰，容 丽,2004．西南岩溶山地石漠化及生态恢复研究展望[J].生态学杂志,23(6):84-88.]   
+LI YH,2Ooo. The evolution of implication of karst and its environmental protection [J]. Carsol Sin,19(3):260-267.[李玉辉,2000．喀斯特的内涵的发展及喀斯特生态环境保护 [J]．中国 岩溶,19(3): 260-267.]   
+LI YX,DENG XW, YI CY, et al., 2O16.Plant and soil nutrient characteristics in the karst shrub ecosystem of Southwest Hunan, China [J]. Chin JAppl Ecol,27(4):1015-1023.[李艳琼，邓湘 雯，易昌晏，等,2016．湘西南喀斯特地区灌丛生态系统植物和土壤养分特征[J]．应用生 态学报,27(4): 1015-1023.]   
+LI ZY, WANG YZ, 2O05. Plants of Gesneriaceae in China [M]. Zhengzhou: Henan Science and Technology Press.[李振宇，王印政,2005．中国苦苣苔科植物 [M]．郑州：河南科学技术 出版社.]   
+LIANG KM,2010. The ecophysiological traits of Primulina tabacum Hance in different Karst habitats [D].Beijing: University of Chinese Academy of Sciences.[梁开明,2O10.不同喀斯特 生境下珍稀濒危植物报春苣苔的生理生态特征 [D].北京：中国科学院大学.]   
+LIU J, XIA J, FANG Y, et al., 2O14. Effects of salt drought stress on growth and physiobiochemical characteristics of Tamarix chinensis seedlings [J]. Sci World J: 1-7.   
+LIU Y,2016.Research of spatial and temporal of diferent land use types on surface soil moisture on the slope in the region of depression between karst hills,in Southwest of China [D]. Nanning: Guangxi University.[刘艳，2016.喀斯特峰丛洼地不同土地利用方式下表层土壤水分的时 空规律研究 [D]．南宁：广西大学.]   
+LU MT, YANG JY, YANG M, 2010. Effects of different intensity drought stress on germination of Reaumuria songarica (Pall.) Maxim. seeds [J]. Chin JGrassl, 32(6): 58-63.[吕美婷，杨九艳, 杨明，等,2010.不同强度干旱胁迫对红砂种子萌发的影响 [J]．中国草地学报,32(6): 58-63.]   
+MAO HT,FAN ZC,HE HX, et al.,2016. On the effects of reservoirs in plain area to soil salinization in arid and semi-arid area[J].Arid Zone Res,33(1): 74-79.[毛海涛，樊哲超，何 华祥，等,2016.干旱、半干旱区平原水库对坝后盐渍化的影响 [J].干旱区研究,33(1): 74-79.]   
+MICHEL BE, KAUFMANN MR,1973. The osmotic potential of polyethylene glycol 6000 [J]. Plant Physiol, 51: 914-916.   
+MINGDE Y,1990. On the fragility of karst environment [J]. Yunnan Geogr Environ Res,2(1): 21-29.   
+MUNNS R, TESTER M, 2O08. Mechanisms of salinity tolerance [J]. Ann Rev Plant Biol, 59: 651-681.   
+QI QW,2014. Diversity of calcium speciation in leaves and effects on ecophysiological characteristics responding to exteral $\mathrm { C a } ^ { 2 + }$ concentration of Primulina species(Gesneriaceae) [D]. Beijing: University of Chinese Academy of Sciences.[齐清文,2014.报春苣苔属植物钙形态 多样性及对环境高钙的生理学响应[D].北京：中国科学院大学.]   
+QING WJ,LIANG ZS, 2010. Response and drought resistance of four leguminous pastures to drought during seed germination [J].Acta Pratac Sin,19(4): 61-70.[秦文静，梁宗锁,2010．四 种豆科牧草萌发期对干旱胁迫的响应及抗旱性评价 [J]．草业学报,19(4):61-70.]   
+SHAAR ML, BLUMWALD E, PELEG Z,2017. Unique physiological and transcriptional shifts under combinations of salinity, drought,and heat [J]. Plant Physiol,174(1): 421-434.   
+SLAMA I, GHNAYA T,MESSEDI D, etal.,2OO7.Effect of sodium chloride on the response of the halophyte species Sesuvium portulacastrum grown in mannitol-induced water stress [J]. J Plant Res, 120(2): 291-299.   
+SUN CX, GAO XX, FU JQ, et al., 2015. Metabolic response of maize(Zea mays L.)plants to combined drought and salt stress [J]. Plant Soil, 388(1-2): 99-117.   
+WANG Y,LIU K, BI D, et al., 2018. Molecular phylogeography of East Asian Boea clarkeana (Gesneriaceae) in relation to habitat restriction [J]. PLoS ONE,13(7),eO199780.   
+WEI YG,2010. Gesneriaceae of South China [M]. Nanning: Guangxi Science and Technology Publishing House:652．[韦毅刚,2010．华南苦苣苔科植物 [M]．南宁：广西科学技术出版 社: 652.]   
+WEN F,LI ZD, 2OO6. Research advance on Gesneriaceae plant [J]. Chin Wild Plant Resour, 25(1):1-6.[温放，李湛东,2006.苦苣苔科(Gesneriaceae)植物研究进展 [J]．中国野生植物 资源,25(1): 1-6.]   
+WENG YW,2016. Responses of wheat seedlings to salt combined with drought stress and its physiological mechanism [D]. Nanjijng: Nanjing Agricultural University.[翁亚伟,2O16.小麦 幼苗对盐旱复合胁迫的响应机理 [D]．南京：南京农业大学.]   
+XIAO LH, YANG G, ZHANG LC, et al., 2015. The resurrection genome of Boea hygrometrica: A blueprint for survival of dehydration[J]. Proc Nat Acad Sci, 112(18): 5833-5837.   
+XIE WH, MA SJ, QI L, et al., 2015. The mitigating effects of $\mathrm { { N a } ^ { + } }$ accumulation on the drought-induced damage to photosynthetic apparatus in cotton seedlings [J]. Acta Ecol Sin, 35(19):6549-6556.[解卫海，马淑杰，祁琳，等, $2 0 1 5 . \mathrm { { N a } ^ { + } }$ 吸收对干旱导致的棉花叶片光 合系统损伤的缓解作用 [J]．生态学报,35(19):6549-6556.]   
+YANG Y, GUO Y, ZHONG J, et al., 2020. Root physiological traits and transcriptome analyses reveal that root zone water retention confers drought tolerance to Opisthopappus taihangensis [J]. Sci Rep,10, 2627.   
+ZENG F, PENG W, SONG T, et al., 2007. Changes in vegetation after 22 years’ natural restoration in the Karst disturbed area in northwestern Guangxi, China [J]. Acta Ecol Sin, 27(12): 5110-5119.   
+ZHANG DD, 2015. The study on physiological ecology of resurrection plant Boea clarkeana from four regions [D].Wuhu: Anhui Normal University.[张丹丹,2015．四居群大花旋蒴苣苔 的生理生态学研究 [D].芜湖：安徽师范大学.]   
+ZHANG DD, ZHOU SB, ZHOU H, et al., 2016. Physiological response of Boea clarkeana to dehydration and rehydration[J].Chin JEcol,35(1):72-78.[张丹丹，周守标，周会，等,2016. 大花旋蒴苣苔对脱水与复水的生理响应 [J]．生态学杂志,35(1):72-78.]   
+ZHANG LJ,LIANG ZS, 2007.Plant Physiology [M]. Beijing: Science Press: 270-272.[张立军, 梁宗锁，2007．植物生理学 [M].北京：科学出版社:270-272.]   
+ZHANG JZ, SHI L, SHI AP, et al., 2O04. Photosynthetic responses of four Hosta cultivars to shade treatments [J].Photosynthetica, 42: 213-218.   
+ZHANG XK,LU GY,LONG WH, et al., 2014. Recent progres in drought and salt tolerance studies in Brassica crops [J]. Breed Sci, 64(1): 60-73.   
+ZHANG YJ, LANG XP, LI QF, 2008. Seed germination responses to light, temperature and moisture in species of Reaumuria trigyna and R. soongorica [J]. JArid Land Resour and Environ,22(10):167-171.[张颖娟，郎秀平，李青丰,2008．长叶红砂和红砂种子萌发对光 照、温度和水分的响应 [J]．干旱区资源与环境,22(10):167-171.]   
+ZHOU J, HUANG Y,MO M. 2OO9. Phylogenetic analysis on the soil bacteria distributed in karst forest[J].BrazJMicrobiol, 40(4): 827-837.   
+ZHU ZG, ZHOU SB, ZHANG DD, et al.,2018.Effects of Environmental stress on seed germination characteristics of Boea clarkeana [J]. JWest Anhui Univ,34(2): 73-83.[朱志国, 周守标，张丹丹，等,2018．环境胁迫对大花旋蒴苣苔种子萌发特性的影响[J]．皖西学院 学报,34(2): 73-83.]

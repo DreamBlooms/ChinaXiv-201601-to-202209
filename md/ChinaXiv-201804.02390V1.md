@@ -1,0 +1,199 @@
+# 在线用户打分行为长记忆效应与信任关系研究
+
+郭昕宇，郭强，刘建国(上海理工大学 复杂系统科学研究中心，上海 200093)
+
+摘要：在线评分行为的动态研究能够帮助深入理解社交网络用户集群行为和信任关系的演化机制，当前许多在线系统用户能够通过对物品进行评分传达自己的观点。通过去趋势波动分析研究了用户评分行为在信任关系建立前后的长记忆效应，并通过随机化打分时间和信任时间建立零模型，最后进行用户打分行为异质性分析。采用Epinions 数据集进行实证研究，结果表明用户打分的长记忆效应在信任关系建立前出现下降趋势( $8 . 0 6 \%$ )，并于之后逐步回升 $( 8 . 4 3 \%$ ，而在两个零模型中则分别稳定在0.5和0.6左右，且用户长记忆效应变动与用户度呈正相关，Pearson相关系数分别为0.9358和0.9278。该工作有助于深入理解用户集群行为和信任关系的动态演化机制。
+
+关键词：集群行为；信任关系；去趋势波动分析法；赫斯特指数中图分类号：TP311.1 doi:10.3969/j.issn.1001-3695.2018.03.0094
+
+# Study of long-term memory in online rating behavior for trust formation
+
+Guo Xinyu, Guo Qiang, Liu Jianguo (ResearchCenterofComplexSystemscience,UniversityofhanghaiforScience&Technologyhanghai2093,China)
+
+Abstract:Investigating the dynamicsof long-term memoryinonlinerating behaviors is significant forunderstanding the evolutionmechanismofcollective behaviorsandtrust formation foronline social networks.Sinceusers areallowedtodeliver ratings in manyonline systems,ratings can wellreflect theuser’sopinions.This paper empirically investigated thelong-term memory,measuredbythe DetrendedFluctuation Analysis,incollectiveratingbehaviors beforeandafterthetrustformation. Theresults fortheEpinionsdatasetshowthat,comparing with thenullmodel generatedbythereshuffle process,the Hurst exponent of trustors decreases $8 . 0 6 \%$ before and increases $8 . 4 3 \%$ after trust formation,which stably remains close to O.5 in null modelIandO.6innullmodelI,suggesting thatthecolectiveratingbehaviorplaysanimportantroleforthetrust formation. Furthermore,the paper dividedusers into 8 groupsaccordingtotheuser degree and find thatte corelationoftheuserdegree andthevariationofHurst exponent,measured bythePearson Correlation Coefcient,is09358andO.9278beforeandafter trustformationrespectively,reflectingasignificantcorelationbetweenuserdegreesandcollectiveratingbehaviorpaterns. This work helps deeply understand the intrinsic feedback effects between colective behaviors and trust relationship.
+
+Key words: collective behavior; trust formation; DFA; Hurst exponent
+
+# 0 引言
+
+近年来，互联网的飞速发展催生了许多新兴的在线系统，  
+使得人们可以方便地进行购买、评论、社交等线上行为。同时，  
+也为研究在线用户的行为模式、兴趣偏好等提供了丰富的数据  
+错误!未找到引用源。。
+
+传统的社会学和心理学方法在收集数据、处理数据等方面有一定的局限性[1]，如收集个人社交关系数据的隐私问题，收集长时间行为数据的成本问题和准确性问题等。基于问卷调查的研究，还会受到访问者效应，召回率等问题的影响。
+
+利用统计物理学方法，研究者在海量的在线用户数据中挖掘出了许多特别的集群行为模式[3]。比如：用户打分行为的时间间隔呈现阵发性，即用户倾向于短时间内爆发大量打分行为后经历长时间的沉寂或长时间内只进行少量打分错误!未找到引用源。为尝试解释这种打分行为的阵发性，研究者相继提出了基于任务的排队论模型错误!未找到引用源。以及兴趣驱动模型错误!未找到引用源。等。与之相反的是，用户打分行为本身存在记忆效应错误!未找到引用源。。经研究表明，在线用户行为存在“锚定效应"错误!未找到引用源。，而马尔可夫模型则被广泛应用于研究这种短记忆效应错误!未找到引用源。同时，在线用户集群行为还存在长记忆效应错误!未找到引用源。
+
+值得注意的是，以上集群行为研究成果并未考虑社交因素。在一些类似Epinions 的在线系统中，用户既可以通过打分表示个人偏好，又可以通过建立信任关系对其他用户表示信任，使得研究者可以同时获得用户的行为数据和信任关系数据并研究两者之间的关系错误!未找到引用源。
+
+本文通过去趋势波动分析法研究用户打分行为中的长记忆效应在建立信任关系前后的动态变化。通过实证数据中赫斯特指数在建立信任关系前的迅速减小和之后的逐渐增大，以及随机化零模型中赫斯特指数稳定不变对比可发现，用户打分行为在建立信任关系前后发生了显著变化，长记忆效应经历了先减弱后恢复的过程，与信任关系建立存在着显著的内在关联性，且此波动现象与用户度呈正相关。本文从宏观实证角度的研究，有利于进一步深入理解在线用户集群行为以及在线信任关系的动态演化机制。
+
+# 1 相关理论
+
+# 1.1长记忆效应
+
+长记忆效应又称做长程相关性，通常用来表示时间序列中两点之间的统计相关性水平错误!未找到引用源。。用户评分行为中的长记忆效应意味着用户偏好具有可预测性，而这一性质则有助于改善推荐系统，并提供更好的线上服务错误!未找到引用源。。长程相关性通常以指数衰减作为临界值，即行为时间序列中两点之间的统计相关性会随着两点之间的时间间隔增长而衰减，其衰减速度比指数衰减要慢，并呈幂律衰减的时候，则称此行为时间序列具有长记忆效应。
+
+# 1.2赫斯特（Hurst）指数
+
+赫斯特指数被广泛运用于衡量时间序列变量的长记忆效应错误!未找到引用源。。赫斯特指数的取值范围为具体取值情况如下：a)当 $\mathrm { H } { = } 0 . 5$ 时，该时间序列没有相关性，即为随机时间序列；b)当 $0 . 5 { < } \mathrm { H } { < } 1$ 时，该时间序列具有一致性，意味着如果现在评分时间序列中用户一直打高分，则接下来很可能继续打高分，反之如果用户一直打低分，则接下来用户很可能继续打低分；c)当 $0 { < } \mathrm { H } { < } 0 . 5$ 时,该时间序列具有反一致性，意味着如果现在评分序列中用户一直打高分，则接下来很可能打出低分，反之如果现在评分序列中用户一直打低分，则接下来很可能打出高分。
+
+赫斯特指数起初以英国水文学家哈罗德·赫斯特命名，并被用来分析尼罗河雨季旱季多变情况下的最佳大坝容量错误未找到引用源。。最初被用来计算赫斯特指数的 R/S 分析法在分析非平稳时间序列时无法确保其准确性。在分析非平稳时间序列时，去除时间序列中的趋势十分重要错误！未我到引用源，因此，Peng等人错误！未找到引用源·提出了去趋势波动分析法（DFA)。现今，DFA 由于能够有效甄别来源和形状均未知的噪声序列，而被广泛运用于研究非平稳时间序列中的长记忆效应[19]。
+
+# 2 用户评分序列长记忆效应分析
+
+# 2.1去趋势波动分析法(DFA)
+
+本文使用标准DFA计算用户评分行为的赫斯特指数，此处以评分时间序列 $R = \{ r _ { 1 } , r _ { 2 } , \ldots , r _ { N } \}$ 为例。首先将 $R$ （序列长度为$\Nu = 2 0 0$ ，如图1（a）所示）按照式（1）进行转换，表示为
+
+$$
+\begin{array} { r } { y ( x ) = \sum _ { i = 1 } ^ { x } ( r _ { i } - \bar { r } ) } \end{array}
+$$
+
+如图1（b）所示，其中 $x = 1 , 2 , \ldots ,  { \mathrm { N } } , r _ { i }$ 为第 $i$ 个打分， $\bar { r }$ 为平
+
+均打分 $\begin{array} { r } { ( \bar { r } = \frac { 1 } { N } \sum _ { i = 1 } ^ { N } r _ { i } ) } \end{array}$
+
+进而将转换后的序列 $\{ \mathbf { y } ( 1 ) , \mathbf { y } ( 2 ) , \dots , \mathbf { y } ( \mathbf { N } ) \}$ 划分为等长度 $( \boldsymbol { s } )$ （20的 $n$ 个时间窗口，并在每个时间窗口中进行最小二乘法拟合数据，拟合的曲线即为所在窗口的"趋势 $\mathfrak { v } _ { \widehat { \mathbf { y } _ { s } } \left( x \right) }$ （如图1(b)所示）。
+
+![](images/ced14e1c053ed1c425967ca5174785ba4a30f06d422968699474174a6ddcbefd.jpg)  
+logs
+
+图1DFA过程示例（a)长度为 $N = 2 0 0$ 的某用户打分时间序列 $R$ (b)打分序列 $R$ 转化序列 $\nu ( x )$ 及其分段拟合曲线（时间窗口长度 $\scriptstyle { s = 2 0 }$ ）(c)F(s)和 $s$ 在双对数坐标下的线性相关关系，拟合曲线斜率即为所求赫斯特指数
+
+接着，按照式（2）去除序列 $y ( x )$ 中的趋势并计算其均方根波动。
+
+$$
+\begin{array} { r } { \mathrm { F } ( s ) = \sqrt { \frac { 1 } { N } \sum _ { x = 1 } ^ { N } [ y ( x ) - \widehat { y _ { s } } ( x ) ] ^ { 2 } } } \end{array}
+$$
+
+整个计算过程重复于所有时间标度以得到F(s)和时间窗口大小$s$ 之间的幂律关系，如式（3）所示。
+
+$$
+\mathbf { F } ( s ) { \sim } s ^ { H }
+$$
+
+其中： $H$ 即为赫斯特指数。如图1（c）所示，即可得到F(s)和$s$ 在双对数坐标下的线性相关关系， $H$ 即为相关关系的斜率，如式（4）所示。
+
+$$
+\mathsf { l o g F } ( s ) { \sim } H \log s
+$$
+
+# 2.2用户集群评分行为的长记忆效应
+
+由式（1）-（4）可计算用户 $i$ 的赫斯特指数 $H _ { i } ^ { \mathrm { u } } ( \Delta \mathrm { t } )$ ，从而计算用户 $i$ 每周打分序列的 $R _ { i } ^ { \mathrm { u } } ( \Delta \mathrm { t } )$ 中的长记忆效应。因此，用户每周的平均赫斯特指数 $\langle H ^ { u } ( { \Delta } \mathfrak { t } ) \rangle$ 由式（5）计算可得。
+
+$$
+\begin{array} { r } { \left. H ^ { u } ( \Delta \mathfrak { t } ) \right. = \frac { 1 } { N _ { P } ^ { u } } \sum _ { i = 1 } ^ { N _ { P } ^ { u } } H _ { i } ^ { \mathrm { u } } ( \Delta \mathfrak { t } ) } \end{array}
+$$
+
+其中： $N _ { P } ^ { u }$ 为信任关系总数。
+
+0时刻的平均赫斯特指数 $\langle H ^ { u } ( \Delta \mathfrak { t } ) \rangle$ 由用户建立信任关系前3天、后3天以及建立信任关系当天共7天的评分记录计算而得。
+
+# 3 实验结果与分析
+
+# 3.1实验数据
+
+本文使用的实验数据是Epinions 数据集。在Epinions 网站上，用户可以对商品（包括汽车，书籍，电影，软件等）进行评论，还可以对其他用户的评论进行打分，1-5分分别表示用户对该评论的五种认同程度一“没有帮助"稍有帮助"有帮助"比较有帮助"最有帮助”。同时，用户可以与其他用户建立信任关系，也就是说，用户可以选择信任那些他们认为评论和打分一贯具有价值的用户。Epinions数据集同时包含信任关系和打分行为信息，为分析在线用户集群行为和信任关系提供了帮助错误！未找到引用源。
+
+该数据集包含415076个用户，13664916条关于1560182条评论的打分，以及717620条信任关系。整个数据集为2001年1月18日至2003年8月12日，共938天的数据记录。
+
+实验评估前，首先针对数据集中存在噪音数据现象，本文筛选出部分数据作为实验数据：针对Epinions数据集，要求每一个用户至少给100 条评论进行过打分并且至少建立过一条信任关系，以确保实验结果的准确性。除此之外，我们仅考虑在建立信任关系前后至少每周进行过1条打分的用户。
+
+# 3.2 相对时间转换
+
+本文仅关注用户建立信任关系前后的打分行为长记忆效应的变化，并定义相对时间 $\Delta { \sf t }$ ，以方便进行前后赫斯特指数的变化对比。首先，以用户信任关系建立时间为0时刻（ $\Delta \mathrm { t } = 0 \mathrm { \dot { \Omega } }$ ，则建立信任关系前2周即为 $\Delta \mathfrak { t } = - 1$ ，后2周即为 $\Delta \mathfrak { t } = 1$ 。以此类推，将原数据集中时间标转化为相对时间 $\Delta \mathfrak { t } \in$ $\{ - 7 , - 6 , \dots , 0 , \dots , 6 , 7 \}$ ，则信任关系的时间间隔转化为相对时间窗口-7到7。因此，本文考虑了第50天至第 866天的信任关系，占总信任关系的 $87 . 1 \%$ 。
+
+# 3.3 实验结果分析
+
+# 1）集群行为分析
+
+如图2所示，用户在建立信任关系前，整体打分行为的平均赫斯特指数 $\langle H ^ { u } ( { \Delta } \mathfrak { t } ) \rangle$ 随时间增加而减小（ $8 . 0 6 \%$ )，在建立信任关系时达到最小值（0.5716)，并在建立信任关系后又逐渐增大（ $8 . 4 3 \%$ )。具体计算结果如表1所示。
+
+![](images/d800e60950229b18a72150b5fb64ebc9093b7d13e1777f4ac7ea28eaf511ec54.jpg)  
+图2用户建立信任关系前后长记忆效应随时间的变化
+
+表1用户建立信任关系前后 $\langle H ^ { u } ( { \Delta } \mathfrak { t } ) \rangle$ 随时间的变化  
+
+<html><body><table><tr><td>△t</td><td>(Hu(△t))</td><td>△t</td><td>(Hu(△t))</td></tr><tr><td>0</td><td>0.5716</td><td>0</td><td>0.5716</td></tr><tr><td>-1</td><td>0.5858</td><td>1</td><td>0.5823</td></tr><tr><td>-2</td><td>0.5967</td><td>2</td><td>0.5941</td></tr><tr><td>-3</td><td>0.6019</td><td>3</td><td>0.6020</td></tr><tr><td>-4</td><td>0.6106</td><td>4</td><td>0.6116</td></tr><tr><td>-5</td><td>0.6126</td><td>5</td><td>0.6180</td></tr><tr><td>-6</td><td>0.6162</td><td>6</td><td>0.6185</td></tr><tr><td>-7</td><td>0.6176</td><td>7</td><td>0.6197</td></tr></table></body></html>
+
+结果表明，在建立信任关系前，用户打分行为中的长记忆效应随时间增长而迅速衰减，于建立信任关系时达到最低，而在建立信任关系后逐渐恢复。
+
+# 2）零模型（NullModels）
+
+本文建立两个零模型以对比实证结果，建立过程如下。
+
+首先，在两个零模型中，用户和评论数据与实证数据一致。其次，用户对评论的打分关系以及用户之间的信任关系不变。在 NullModelI中，将用户打分时间序列随机打乱，而用户和评论的对应关系保持不变；因此，用户打分行为的时序特性被移除。在NullModelII中，将用户建立信任关系的时间序列随机打乱；因此用户建立信任关系的时序特性被移除。NulModels的结果均取100次独立实验的平均值。
+
+如图3（a）所示，NullModelI中，用户建立信任关系前后的赫斯特指数值随着时间变化几乎稳定不变在0.5附近。意味着，NullModelI中，用户随机打分行为在建立信任关系前后均不存在长记忆效应。与实证结果对比可知，实证结果来自于真是用户打分行为，而无法产生于用户随机行为。
+
+如图3（b）所示，NullModelII中，用户建立信任关系前后的赫斯特指数值随时间变化几乎稳定不变在0.6附近。意味着，在NullModelII中，用户打分行为在非信任关系建立时间前后的长记忆效应并未发生明显变化。与实证结果对比可知，实证结果确实表现了用户打分行与在信任关系建立之间具有相关关系。
+
+![](images/858a04a3d55b195db946dde2db64fbded407e9e1e4e228576f5eb5f3a1ed004b.jpg)  
+图3零模型(NullModel)中赫斯特指数在建立信任关系前后的动态变化(a)NullModelI中用户打分时间随机化后的赫斯特指数变化 $( \mathsf { b } ) \mathsf { N u l l }$ ModelII中用户建立信任关系时间随机化后的赫斯特指数变化
+
+3）用户打分行为异质性
+
+已有研究表明，用户行为的差异性与其所处的社交网络的结构性质有关错误!未找到引用源。。其中特别的是，不同度的用户通常表现出不同的行为模式错误!未我到引用源。。因此，本文针对不同度用户的打分行为的长记忆效应进行进一步分析。
+
+首先，根据用户打分数量计算用户度 $k u$ ，将用户分为8组，  
+使第 $i$ 组用户的用户度 $k u \in \left( 1 0 ^ { l o g k u _ { m i n } + ( i - 1 ) d } , 1 0 ^ { l o g k u _ { m i n } + d } \right) ,$ （  
+其中 $\begin{array} { r } { d = \frac { 1 } { 9 } l o g \frac { k u _ { m a x } } { k u _ { m i n } } } \end{array}$ $k u _ { m i n }$ 和 $k u _ { m \mathbf { a x } }$ 分别为最小用户度和最大用$\begin{array} { r } { \langle k u \rangle = \frac { 1 } { N _ { \textrm { o } \mathrm { ~ \tiny ~ \mathscr ~ { ~ 1 ~ } ~ } } ^ { u } } \sum _ { i = 1 } ^ { N _ { P , g } ^ { u } } k u _ { i } ^ { \mathrm { u } } ( \Delta \mathrm { t } ) , } \end{array}$
+
+$$
+\begin{array} { r } { \left. \mathrm { H } _ { g } ^ { u } ( \Delta \mathrm { t } ) \right. = \frac { 1 } { N _ { P , g } ^ { u } } \sum _ { i = 1 } ^ { N _ { P , g } ^ { u } } H _ { i } ^ { \mathrm { u } } ( \Delta \mathrm { t } ) } \end{array}
+$$
+
+由式（1）～（4）和（6）计算每组用户的平均赫斯特指数$\langle H ^ { u } ( { \Delta } \mathfrak { t } ) \rangle$ ，则各组用户的平均赫斯特指数在信任关系建立前后的变化 $\Delta \langle H _ { g } ^ { u } ( \Delta \mathfrak { t } ) \rangle$ 可由式（7）计算得。
+
+$$
+\Delta \langle \mathrm { H } _ { g } ^ { u } ( \Delta \mathfrak { t } ) \rangle = \langle \mathrm { H } _ { g } ^ { u } ( \Delta \mathfrak { t } ) \rangle - \langle \mathrm { H } _ { g } ^ { u } ( 0 ) \rangle
+$$
+
+那么，平均用户度 $\left. k u \right.$ 和平均赫斯特指数的变化 $\Delta \langle H _ { g } ^ { u } ( \Delta \mathfrak { t } ) \rangle$ 之间的Pearson相关系数，如图（4）所示，随用户度增大，其赫斯特指数变动增大，打分行为的长记忆效应在建立信任关系前后波动更大。
+
+![](images/b4fc059f6f11f908876c0bfe3c75be7fd5cbfed689bea30655736de9e7b96177.jpg)  
+图4赫斯特指数波动与用户度的相关关系（a)8组用户打分行为赫斯特指数在信任关系建立前后的变动值（b）8组用户平均度
+
+计算可得，Pearson相关系数在建立信任关系前为0.9358，建立信任关系后为0.9278，即用户打分行为的长记忆效应变化程度与用户打分数量呈正相关。
+
+# 4）结果分析与应用
+
+根据在线用户打分行为中长记忆效应在建立信任关系前后动态变化的实证结果与零模型结果对比分析可知：用户打分行为中存在明显的长记忆效应，即用户打分行为中蕴含着其偏好的一致性；而在其与他人建立信任关系时，这种长记忆效应会被影响而发生显著减弱，并且影响程度与其历史打分数量（即经验丰富程度）呈正相关。
+
+因此，信任关系对在线用户行为偏好的相关影响，也预示着当下用户集群行为的研究中社交关系成为了不可忽视的影响因素之一。进而，社交关系也应在对用户行为偏好的预测以及根据偏好进行推荐的商业应用领域内广泛考虑。
+
+# 4 结束语
+
+本文利用去趋势波动分析法研究在在线用户打分行为的集群行为模式在建立信任关系前后的动态变化。首先，计算用户建立信任关系前后的赫斯特指数，结果显示建立信任关系前用户打分行为中的长记忆效应明显减弱（赫斯特指数由0.6176减小 $8 . 0 6 \%$ 至0.5716)，而建立信任关系后长记忆效应逐步恢复（赫斯特指数由0.5176增大 $8 . 4 3 \%$ 至0.6197)。其次，建立两个零模型，分别将用户打分和信任关系的时间随机化，结果显示赫斯特指数分别稳定在 $0 . 5 { \sim } 0 . 6 \$ 。与实证结果对比可知，用户打分行为中的长记忆效应的变化来源于用户打分行为偏好的一致性变化，与其信任关系建立确实存在内在关联性。最后，本文进行了不同度用户打分行为的异质性，结果表明随打分行为越丰富的用户，在建立信任关系前后其打分行为变动程度越大，用户度和用户赫斯特指数减少和增加的相关系数分别为0.9358和0.9278。
+
+总的来说，本文对在线用集群行为及其信任关系进行了实证研究。实证结果表明，用户在与其他用户建立信任关系时打分行为的一致性显著减弱。因此，在线用户行为分析研究中，社交因素的影响不应该被忽视。社交关系对用户偏好的影响，也应该被考虑进推荐系统、广告策略等，从而能为在线用户提供更好的线上服务。但是，本文仍存在明显的局限性。首先，文中使用DFA进行时间序列长程相关性分析，近期出现了许多改进方法进行更为精确的分析，如适用于交叉关联性的去趋势交叉关联分析法（DCCA）错误!未找到引用源。和适用于短时间序列的扩散熵分析（DEA）错误！未找到引用源。。此外，本文仅针对信任关系中的信任关系发出者进行了研究，而未涉及被信任者以及信任关系双方之间的互动，这也是本文下一步的研究目标。
+
+# 参考文献：
+
+[1]张一璐，倪静，郭强，等．在线用户兴趣多样性的实证研究[J].计算 机应用研究,2014,31(11):3250-3252.(Zhang Yilu,Jing Ning,Guo Qiang, et al.Empirical analysis of diversity of online user interests [J].Application Research of Computers,2014,31(11):3250-3252.)   
+[2]王澎，汪秉宏．在线人类行为动力学中的肥尾特征[J].上海理工大学 学报,2012,34(1):1-5.(Wang Peng,Wang Binghong.The heavy-tails in on-line human dynamic [J]. Journal of University of Shanghai for Science & Technology,2012,34 (1): 1-5.)   
+[3] 汪秉宏，周涛，周昌松．人类行为，复杂网络及信息挖掘的统计物理研 究[J].上海理工大学学报,2012,34(2):103-117.(Wang Binghong,Zhou Tao,Zhou Changsong.Statistical physics research for human behaviors, complex networks,and information mining [J]. Journal of University of Shanghai for Science& Technology,2012,34(2): 103-117.)   
+[4]Barabasi A.The origin of bursts and heavy tails in human dynamics [J]. Nature,2005,435 (7039): 207.   
+[5]Vazquez A, Oliveira JG,Dezso Z,et al. Modeling bursts and heavy tails in human dynamics [J].Physical ReviewE: StatisticalNonlinear& Soft Matter Physics,2006,73(2):036127.   
+[6]Han Xiaopu, Zhou Tao,Wang Binghong.Modeling Human Dynamics with Adaptive Interest [J].New Journal ofPhysics,2008,10(7): 1983-1989.   
+[7]Hou Lei,Pan Xue,Guo Qiang,et al.Memory effect of the online user preference [J]. Scientific Reports,2014,4: 6560.   
+[8] Zhang Yilu,Guo Qiang,Ni Jing,et al.Memory effect of the online rating for movies [J].Physica A: Statistical Mechanics & Its Applications,2015, 417: 261-266.   
+[9]Yang Zimo,Zhang Zike,Zhou Tao.Anchoring bias in online Voting [J]. Europhysics Letters,2013,100 (6): 68002.   
+[10] Craswell N, Szummer M.Random walks on the click graph [C]//Proc of the 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.New York:ACMPress,2007:239- 246.   
+[11] Rybski D,Buldyrev S V,Havlin S,et al. Scaling laws of human interaction activity[J].Proceedings of the National Academy of Sciences,2009,106 (31):12640-12645.   
+[12]Nie Dacheng,Zhang Zike,Zhou Junlin,et al. Information filtering on coupled social networks [J].PLoS One,2014,9(7): e101675.   
+[13] Beran J,Feng Yuanhua, Ghosh S,et al.Long-memory processes [M].Berlin: Springer, 2014.   
+[14] Zhou Tao,Kuscsik Z,Liu Jianguo,et al. Solving the apparent diversityaccuracy dilemma of recommender systems [J].Proceedings of the National Academy of Sciences,2010,107 (10): 4511-4515.   
+[15] Roche S,Bicout D,Macia E,et al. Long range correlations in DNA: scaling properties and charge transfer efficiency[J].Physical Review Letters,2003, 91 (22): 228101.   
+[16]Hurst HE.Long term storage capacity of reservoirs [J].Trans American Society ofCivil Engineers,1951,116(12):776-808.   
+[17] Wu Zhaohua,Huang NE,Long SR,et al.On the trend,detrending,and variability of nonlinear and nonstationary time series [J].Proceedings of the National Academy of Sciences,2007,104 (38): 14889-14894.   
+[18] Peng Chungkang,Buldyrev S V,Havlin S,et al. Mosaic organization of DNA nucleotides [J].Physical Review E,1994,49 (2):1685.   
+[19]Bunde A,Havlin S,KantelhardtJW,et al.Correlated and uncorrelated regions in heart-rate fluctuations during sleep [J].Physical Review Letters, 2000,85 (17): 3736.   
+[20]蔡国永，王丽媛，吕瑞．基于用户评论的信任预测方法研究[J].计算 机应用研究,2016,33(4):1019-1023.(Cai Guoyong,Wang Liyuan,Lyu Rui.Study on trust prediction based on user's reviews [J].Application Research of Computers,2016,33(4):1019-1023.)   
+[21] Guo Qiang,Shao Feng,Hu Zhaolong,et al. Statistical properties of the personal social network in the Facebook[J]. Europhysics Letters,2013,104 (2): 28004.   
+[22] Liu Jianguo,Ren Zhuoming,Guo Qiang,et al. Node importance ranking of complex networks [J].Acta Physica Sinica,2013,62(17): 178901-178901.   
+[23] Podobnik B,Stanley H E.Detrended cross-correlation analysis:a new method for analyzing two nonstationary time series [J].Physical Review Letters,2008,100 (8): 084102.   
+[24] Scafetta N,Grigolini P. Scaling detection in time series: diffusion entropy analysis [J].Physical ReviewE,2002,66(3): 036130.

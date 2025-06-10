@@ -1,0 +1,584 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.13930/j.cnki.cjea.160884 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "周松秀，陈林林，刘兰芳，王鹏，全球变化背景下南方丘陵区农业生态系统适应性时空演变特征研究——以衡阳盆地为 例[J]．中国生态农业学报,2017,25(2):147-156   \nZhouSX,ChenLL,LiuLF,WangP.Spatio-temporal evolutioncharacteristicsofagro-ecosystemadaptabilityresposeto global change in South China hillyregions:Acase studyof Hengyang Basin[J].Chinese Journal of Eco-Agriculture,2017, 25(2): 147-156 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "全球变化背景下南方丘陵区农业生态系统适应性时空演变特征研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "以衡阳盆地为例周松秀}，陈林林²，刘兰芳}，王鹏1(1．衡阳师范学院城市与旅游学院衡阳421002;2．浙江省德清县求是高级中学 湖州 313200)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：生态系统适应性已成为全球变化与发展的热点问题。生态系统适应性演变是全球变化区域响应的重要表现。我国南方丘陵区是典型的稻作农业区，研究其农业生态系统适应性十分重要。文章以衡阳盆地为例，从自然、社会、经济3个方面选择12个指标构建农业生态系统适应性评价指标体系，评价单元分为衡阳市区及其各县域，以1999—2014年共16年为研究时域，用熵权法确定指标权重，计算衡阳盆地的适应能力指数。结果表明：衡阳盆地农业生态系统适应性总体状况较好，其空间分异较复杂，耒阳市的适应能力最强，祁东县次之，常宁市最弱。时间演变表现为波动上升的特点，评价时域16年分为3阶段：1999—2004年为适应性小幅度振荡的低值阶段,2005—2010年为适应性显著波动总体上升阶段,2010—2014年为适应性快速上升阶段。研究结论可为研究区农业可持续发展提供借鉴。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农业生态系统；适应性；熵权法；空间分异；时间演变；衡阳盆地中图分类号：X171 文献标识码：A 文章编号:1671-3990(2017)02-0147-10",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spatio-temporal evolution characteristics of agro-ecosystem adaptability response to global change in South China hilly regions: A case study of Hengyang Basin ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHOU Songxiu', CHEN Linlin², LIU Lanfang1, WANG Peng1 (1.College ofCityandTourism,HengyangNoralUniversity,Hengyang 410o2,China;2.Deqing CountyQiushi SeniorMiddle School, Huzhou 313200,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Thereisrenewed interest inthe evolutionofthe adaptabilityofecosystem to globalchange.Itis importantto study ricefarmingregions inhillareas of Hengyang Basin.Asarice-based agriculturalregion,itisveryimportant to studythe adaptabilityof agricultural ecosystem (AAE)in South China.Previous studies have shown that in Hengyang Basin,atypical agriculturalecosystemin South China,obvious spatial distribution paterns ofAAE were higher inperipheryregionsnd lower in the middleregions of the basin.However,the temporal and spatial variation characteristics ofAAE were notcompletely clear.This research used Hengyang Basin as acase study to build the evaluation index system consisting of 12 indicators ranging from natural to social and thento economic aspects.Theevaluation unit consisted of Hengyang Basin and the surrounding counties.The AAE index for Hengyang Basin was calculated using an entropy method andl6 years of data (1999-2014)to determine index weight.Theresults showed thatacomplex and highly diferentspatio-temporal variations in AAE in Hengyang Basin forthe diferentcounties and diferent years.However,therangeof the AAEindex forthe eight counties (cities） in the basin was $0 . 2 4 9 \\ 8 { - } 0 . 6 7 9 \\ 4$ ,which indicated a medium and high AAE level in the region. In the eight counties (cities),Leiyang CityhadthehighestAAE,followed by Qidong County,and ChangningCountywas the weakest.The coefficients of variation forthe differentcounties(cities）showed thatchange inAAE was highest for Changning Cityand lowest for Hengnan County for theperiod1999-20l4.There wasa wave-liketrendinAAEforLeiyang City withrises and fall.The evaluated16 years was dividedinto three periods—the period1999-2004 was theperiodoflow index and small amplitudeoscilltion,theperiod2oo5-2O10was theoneofanoverallrse withsignificantfluctuationinadaptabilityandthen the period 2O10-2O14 was the period ofrapid riseAAE index.Theconclusions inthis study provided auseful reference to guide sustainable agricultural development in the hilly regions of South China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Keywords:Agricultural ecosystem;Adaptability;Entropy weight method;Spatialevolution;Temporal evolution;Hengyang Basir ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "适应性是全球变化区域响应研究的重点问题。适应性概念源于政府间气候变化专业委员会(IPCCIntergovernmental Panel on Climate Change)，并被学者认可和深入研究。IPCC于2001年提出适应性概念，表述为：为了应对实际发生的或预计到的气候变化及其各种影响(不利或者有利的)，而在自然和人类系统内进行的调整[1]。2007年IPCC的评估报告进一步对适应性从人-地系统属性角度加以阐述，认为应对全球气候变化的适应性是通过调整系统，降低脆弱性，增强系统弹性的系统过程。2012年IPCC报告对适应性作了更为清晰的表达：适应性是针对实际发生的或预计到的气候变化及其影响，人类系统为减少损失或趋利选择而进行的调整。基于IPCC对适应性框架的表述，众多学者对全球变化背景下人-地系统适应性开展研究。近年来，湿地生态系统适应性研究较多，研究案例涵盖了东洞庭湿地[2]、鄱阳湖湿地[3]、海岸带[4和盘锦湿地[5]，并取得了不少重要研究成果。水资源系统的适应性研究[6-也引起研究者的较大重视。兼顾湿地和水资源因素影响的农业生态系统适应性研究对国计民生具有深远意义。目前农区适应性研究已经引起学者的高度关注，陈凤臻等[9以北方农牧交错地带为例研究农区适应能力评价模型，何云玲等[10]对纵向岭谷区生态环境对气候变化的适应性进行了综合分析。这些典型农区生态系统适应性研究成果具有重要借鉴意义。但是适应性研究个案尚少，所涉及的地域有限。农区生态系统适应性研究是区域研究的新课题。作者团队对南方丘陵区农业生态系统适应性的空间静态分异及其驱动力进行了研究，发现衡阳盆地各县域的农业生态系统适应能力呈现出盆地四周高、中部低的分布规律，其驱动机制为农业投入和增长方式是首要驱动力，水热配合状况及水土保持条件是第2驱动力。但是空间维度的静态研究结果无法表达其演变趋势和速度，适应性时空动态演变才能反映系统的演变过程和趋势，能表达全球变化下系统属性和调整的迫切程度。变化环境下适应主体的适应性定量研究还处在积极的探索阶段[8]，作者借鉴农业系统对全球变化响应的研究成果[9-11]，拟从时空2个维度以衡阳盆地为例对南方丘陵区农业生态系统适应性特征进行研究，以期为研究区农业适应性调控策略提供科学依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "衡阳盆地属于典型的红色丘陵盆地，是南方湿热易侵蚀退化脆弱区，地势南高北低，由西南向东北复合倾斜，并由四周向中部降低。衡阳盆地$1 1 1 ^ { \\circ } 3 2 ^ { \\prime } 1 6 \" { \\sim } 1 1 3 ^ { \\circ } 1 6 ^ { \\prime } 3 2 \" \\mathrm { E }$ ， $2 6 ^ { \\circ } 0 7 ^ { \\prime } 0 5 ^ { \\prime \\prime } { \\sim } 2 7 ^ { \\circ } 2 8 ^ { \\prime } 2 4 ^ { \\prime \\prime } \\mathrm { N }$ ，南北全长 $1 5 0 \\mathrm { k m }$ 、东西跨 $1 7 3 \\mathrm { k m }$ ，面积约 $1 5 ~ 3 1 0 ~ \\mathrm { k m } ^ { 2 }$ 。其范围包括衡阳市辖区的5个县即衡阳县、衡南县、衡山县、衡东县和祁东县，以及2个县级市即耒阳市和常宁市。研究区气候属中亚热带湿润性季风气候，年降水量 $1 ~ 2 0 0 { \\sim } 1 ~ 6 0 0 ~ \\mathrm { m m }$ ，降水季节变率大,4—6月降水占全年降水的 $70 \\%$ ，形成明显的雨季，也是境内河流的主要补给来源。夏季潮湿炎热。本区热量条件属于全省最优越地区之一，主要表现在年均温高，积温多，无霜期长，严寒期短，各地历年平均气温为$1 7 . 5 { \\sim } 1 8 . 9 \\mathrm { ~ \\normalfont ~ \\textdegree ~ }$ 。湖南省的森林覆盖率平均达 $5 5 \\%$ ，而衡阳盆地森林覆盖率仅为 $43 \\%$ ，植被覆盖较差，如紫色土地区森林覆盖率仅为 $10 \\%$ 左右，土壤侵蚀严重。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 研究方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1农业生态系统适应性概念和内涵",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据IPCC对适应性的表述框架，借鉴相关学者的研究成果[12-13]，笔者认为农业生态系统适应性是农业环境、农业生产聚类和农业经济所构成的系统在应对全球变化时表现出的学习能力、降低风险潜力和维持系统稳定性的属性。农业生态系统适应性的内涵包括上述三者之间的协调演进能力，具体包括3个方面。 $\\textcircled{1}$ 全球变化背景下，农业环境发生演变，农业生态系统学习和吸收其有利变化，提升农业生产聚类结构水平和农业经济的发展能力，表现为适应性增强。 $\\textcircled{2}$ 全球变化下的农业环境演变剧烈并以自然灾害的形式表现出来时，农业系统对不利因素的消耗和容忍度，即弹性。 $\\textcircled{3}$ 人为调节推进，即人类在学习和掌握农业生态系统的胁迫和暴露性规律基础上，调整农业产业结构、发展和采用农业科技趋利避害，改善系统的稳定性和弹性。自适应和人为适应相互耦合，互相渗透，共同影响适应性强度及其演变特征。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2农业生态系统适应性评价指标体系的构建",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "农业生态系统适应性是自然环境、社会、经济等方面相互作用、相互耦合的综合体现[14]。自然环境是影响农业生态系统适应性的基础和本底条件，诱导自适应能力的强弱和演变方向，影响适应性的基础水平。社会因素和经济因素是人为适应的主要方式和途径，影响适应性的演化方式和速度。在遵循系统性、科学性、可取得性和可表达性等原则前提下，结合衡阳盆地地域特征，本文从自然、社会、经济3方面构建适应性评价指标体系。评价指标体系的适度构建是客观评价的关键。指标体系不能过于简单也不宜过于庞杂，以免疏漏或削弱主要指标的驱动作用，影响评价结果。根据研究团队以往的研究经验并借鉴相关研究成果，以10\\~15个指标为宜，本研究拟构建12个评价指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 自然环境因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "自然环境因素包括气候、地质、地貌、生物、土壤等方面。适应性演变的源动力是全球变化，气候变化是全球变化的首要体现，本文将气候作为首选自然环境要素。近代气候变化主要表现为近100年来全球气温波动上升，降水的变化远比温度变化复杂。全球变化背景下生态系统适应性研究在本质上属于气候变化对生态系统的影响研究范畴[15]。气候对农业产业影响深刻，气候变暖会导致作物适宜生长季延长，缩短实际生育期，在一些区域促进产量增高；但作物品质会降低，气象灾害与病虫害的规律发生改变[11]。水分供应以及水热匹配对农业生态系统至关重要，年平均气温和年平均降水直接影响农业生产类型和耕作制度，是重要的评价指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "衡阳盆地丰富的降水和光热充足的气候能够保证稻作农业的水分和温度条件，是适应性正向指标。衡阳盆地降水季节变化较大，4—6月降水占年降水量一半以上，多暴雨，过高的占比不仅增加了暴雨和洪涝风险，而且降低了水分的有效利用率。因而4—6月降水比重是影响适应性的负向指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "地质、地貌、土壤等自然环境因素受构造运动影响深刻，其变化需要的时间尺度大，在较短时域内难以发生较大变化，即便是外力作用和人类活动的影响，也具有相对稳定性。本文拟对21世纪90年代以来的适应性演变进行研究，选择1999—2014年作为研究时域，相对于构造运动而言时域很小，因而没有把地质、地貌、土壤等因素列入指标体系。生物因素是重要的自然环境因素，生物种群大小和群落结构在较大的时间尺度上受构造运动的影响深刻，在较小的时域内受气候、人类活动的影响较大。生物因素是自然环境的指示因素，尤其植物覆盖状况对环境的指示作用和驱动作用更显著。森林覆盖率[14]是自然环境质量的综合表现，被称作绿色储水库，对维持农业生态系统的稳定性具有重要作用，属于正向指标入选为评价指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 社会因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "农业生态系统适应性受社会因素的影响深刻。衡阳盆地人口密集，耕地承载负荷大，超载索取的农业方式严重，因而人口密度(负向指标)和人均耕地(正向指标)入选评价指标体系。合理的种植制度能充分利用热量资源，增加生态系统的适应能力。研究区属于亚热带季风湿润气候区，增加晚稻播种面积是充分利用气候资源的重要途径，因而把晚稻播种面积占稻谷播种面积比重列入评价指标体系，为正向指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.3 经济因素",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "经济因素影响适应性的强度和演化趋势。人均GDP和农民人均纯收入是诱导适应性增强的正向指标，恩格尔系数代表贫困程度，为负向指标。农药和化肥的使用尽管能保证短期的农业产量，但是会破坏土壤团粒结构，导致水土污染严重，且影响时间长，因而地均化肥使用量和地均农药使用量为负向指标。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选取自然环境因素、社会因素和经济因素中对农业生态系统适应性具有明显驱动作用的12个评价指标，建立了适应性评价指标体系(表1)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3评价单元及数据来源",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所选择的评价单元为衡阳市区以及衡阳市辖内各县域。衡阳盆地包括7个县域和衡阳市区。其中耒阳市和常宁市作为县级市，其余5个都是县。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/95448c3ab361ddad5fb9f53c8ad5cf71d2a367fedadae21ead64a37bfcac2a7c.jpg",
+        "table_caption": [
+            "表1农业生态系统适应性评价指标体系",
+            "Table 1Evaluation index system of agricultural ecosystem adaptability "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>因素 Factor</td><td>指标 Index</td><td>指标释义(单位) Definition (unit)</td><td>指标属性 Attribute</td><td>权重 Weight</td></tr><tr><td>自然环境因素 Natural</td><td>X：年平均气温 Annual mean temperature</td><td>年平均气温 Annual mean temperature (C)</td><td>正 Positive</td><td>0.089 5</td></tr><tr><td rowspan=\"6\">社会因素 Social</td><td>X2：年平均降水 Annual average precipitation</td><td>年平均降水 Annual average precipitation (mm)</td><td>正 Positive</td><td>0.080 7</td></tr><tr><td>X:4—6月降水比重 Precipitation proportion during April to June</td><td>4—6月降水量/年降水量 Precipitation during April to June ／annual precipitation</td><td>逆 Negative</td><td>0.0817</td></tr><tr><td>X4:森林覆盖率</td><td>(%) 森林面积/总面积</td><td>正</td><td>0.0984</td></tr><tr><td>Forest coverage X5：人均耕地</td><td>Forest area /total area (%) 耕地面积/总人口</td><td>Positive 正</td><td></td></tr><tr><td>Per capita arable land</td><td>Arable land area/total population</td><td>Positive</td><td>0.0637</td></tr><tr><td>X6：人口密度 Population density</td><td>总人口/总面积 Total population / total area (persons·km -2)</td><td>逆 Negative</td><td>0.099 7</td></tr><tr><td rowspan=\"8\">经济因素 Economy</td><td>X：晚稻播种面积比重</td><td>晚稻播种面积/稻谷播种面积</td><td>正</td><td></td></tr><tr><td>Proportion of later rice</td><td>Area of later rice/rice area (%)</td><td>Positive</td><td>0.079 5</td></tr><tr><td>Xg:人均GDP Per capita GDP</td><td>GDP/总人口</td><td>正</td><td>0.063 7</td></tr><tr><td>Xg：农民人均纯收入</td><td>GDP ／total population (¥·person-1) 农民人均纯收入</td><td>Positive 正</td><td>0.0642</td></tr><tr><td>Net income per farmer X1o:地均化肥使用量</td><td>Per capita net income of farmers (¥·person-1) 化肥使用量/耕地面积</td><td>Positive 逆</td><td></td></tr><tr><td>Fertilizer application rate</td><td>Amontoffertiiataraleaa</td><td>Negative</td><td>0.092 9</td></tr><tr><td>X:：地均农药使用量</td><td>农药使用量/耕地面积 Amount of pesticide application/total arable land area</td><td>逆</td><td>0.0980</td></tr><tr><td>Pesticide application rate X12:农民恩格尔系数 Farmer Engel coefficient</td><td>(t·hm-²) 食品消费支出/消费总支出 Food expenditure/total consumption expenditure (%)</td><td>Negative 逆 Negative</td><td>0.0881</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了方便起见，在本文中将它们统称为县域[16]。衡阳市区的农业生态系统虽然与各县域有较大差异，但是为了体现研究区的完整性，也将其列在研究单元范围。为分析整个衡阳盆地农业生态系统的时间演变，本文把衡阳全市(包括 7个县域和衡阳市区)的整体情况也进行了计算，并用衡阳全市代表衡阳盆地。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "数据来源：年平均气温、年平均降水、4一6月降水比重、晚稻播种面积占稻谷播种面积比重等数据来源于相应年份《衡阳统计年鉴》；人均耕地面积、人口密度、人均GDP、农民人均纯收入、农民恩格尔系数、地均化肥使用量、地均农药使用量等数据均来源于相应年份的《湖南农村统计年鉴》。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 数据处理与计算",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.1 数据的标准化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文把评价指标分为正向和逆向2类指标。正向指标表示评价指标值越大，适应能越强；反之为逆向指标。数据标准化方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "正向指标：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i j } ^ { \\prime } = \\left[ \\frac { x _ { i j } - \\operatorname* { m i n } \\left( x _ { 1 j } , x _ { 2 j } , \\cdots , x _ { n j } \\right) } { \\operatorname* { m a x } \\left( x _ { 1 j } , x _ { 2 j } , \\cdots , x _ { n j } \\right) - \\operatorname* { m i n } \\left( x _ { 1 j } , x _ { 2 j } , \\cdots , x _ { n j } \\right) } \\right] \\times 1 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "逆向指标: ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nx _ { i j } ^ { \\prime } = \\left[ \\frac { \\operatorname* { m a x } \\left( x _ { 1 j } , x _ { 2 j } , . . . , x _ { n j } \\right) - x _ { i j } } { \\operatorname* { m a x } \\left( x _ { 1 j } , x _ { 2 j } , . . . , x _ { n j } \\right) - \\operatorname* { m i n } \\left( x _ { 1 j } , x _ { 2 j } , . . . , x _ { n j } \\right) } \\right] \\times 1 0 0\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中： $x _ { i j } ^ { \\prime }$ 为第 $i$ 个地区第 $j$ 个指标的标准化值， $x _ { i j }$ 为第 $i$ 个地区第 $j$ 个指标的原始数值 $( i { = } 1 , 2 , \\ \\dots , 8 ; j { = } 1$ 2，…,12)。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4.2 指标权重确定",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "指标权重的确定方法较多，有主成分分析法、层次分析法、模糊综合法、熵权法等。层次分析法主观性较强；主成分分析法是一种客观确定权重的方法，评价指标比较庞杂时采用此方法确定权重较为有效；熵权法是另一种客观确定权重的方法。熵权法是由评价指标值(标准化值)构成判断矩阵得出指标权重的一种方法。对于数值型、且样本数据完整的指标系统，能够反映指标信息熵值的效用价值，适合运用熵权法确定评价指标权重[17-18]，其可信度较高，可减少不可控因素引起的不确定性[17]。本文运用熵权法计算指标的权重，具体方法如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)计算第 $j$ 项指标的熵值：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\ne _ { j } = - k \\sum _ { i = 1 } ^ { n } p _ { i j } \\ln ( p _ { i j } ) \\qquad [ k > 0 , k = 1 / \\ln ( n ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$e _ { j } \\geqslant 0 , n$ 为地区个数]",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2）计算第 $j$ 项指标的差异系数。对第 $j$ 项指标，指标值的差异越大，对方案评价的影响就越大，熵值就越小，定义差异系数：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\ng _ { j } = \\frac { 1 - e _ { j } } { m - E _ { e } } \\qquad ( 0 \\leqslant g _ { i } \\leqslant 1 , \\ \\sum _ { j = 1 } ^ { m } g _ { j } = 1 , m \\ \\Dot { \\mathcal { I } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "含指标个数) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3）求权重值 $( w _ { j } )$ ：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { j } = \\frac { g _ { j } } { \\displaystyle \\sum _ { j = 1 } ^ { m } g _ { j } } \\qquad ( 1 \\leqslant j \\leqslant m )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5农业生态系统适应能力计算",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "农业生态系统适应能力采用多指标线性加权函数法计算适应能力指数，具体计算模型如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { n } = \\sum _ { j = 1 } ^ { 1 2 } w _ { j } \\times x _ { i j } ^ { \\prime }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\boldsymbol { P _ { n } }$ 代表第 $\\mathbf { \\Omega } _ { n }$ 年的农业生态系统适应能力指数，$W _ { j }$ 代表第 $j$ 个评价指标的权重， $x _ { i j } ^ { \\prime }$ 代表第 $n$ 年的第 $i$ 个地区第 $j$ 个评价指标的标准化数值。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据衡阳盆地的实际情况和计算结果，借鉴已取得的研究成果[19-20]，将研究区农业生态系统的适应能力划分为4个等级，即：低适应能力、中适应能力、较高适应能力和高适应能力。具体区间划分：适应能力指数 $0 . 2 8 0 \\ 0 { \\sim } 0 . 3 8 0 \\ 0$ 的为低适应能力， $0 . 3 8 0 0 \\sim$ 0.4800为中适应能力， $0 . 4 8 0 \\ 0 { \\sim } 0 . 5 8 0 \\ 0$ 为较高适应能力， $0 . 5 8 0 \\ 0 { \\sim } 0 . 6 8 0 \\ 0$ 为高适应能力。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1 衡阳盆地适应性空间分异特征 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，衡阳盆地农业生态系统适应能力空间分异较为复杂，不同县域在不同年份，适应能力的相对强弱和演变速度及演化方向存在较大的差异。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e6f8a294d6511c688a63160d073ea2fb512dffd7b5b58a286015e9fcf10e065.jpg",
+        "img_caption": [
+            "图1衡阳盆地各县市1999—2014年农业生态系统适应能力演变Fig.1Temporal evolutionofthe agricultural ecosystem adaptabilityof diferent counties (cities）ofHengyang Basin from1999 to 2014"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 衡阳盆地的适应能力总体状况较好 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "衡阳盆地 8个县域(包括衡阳市区)适应能力为$0 . 2 4 9 \\ 8 { \\sim } 0 . 6 7 9 \\ 4$ ，以高于0.3800为主，即以中等适应能力及以上为主。这与衡阳盆地较为优越的自然环境和悠久的农业文化密切相关。衡阳盆地光热充足，雨量充沛，雨热同期有利于稻作农业发展。衡阳盆地稻作农耕文化悠久，农业套作和轮作经验丰富，广泛流传的一些农谚体现了农业生产者有着丰富的气象灾害预判断能力。这为降低农业风险，增强农业生态系统弹性提供了基础条件。另一方面，衡阳盆地农业生态系统作物多样性丰富，就粮食作物而言，稻谷、小麦、玉米、高粱、大麦和其他谷物都有种植；就稻谷来说，早稻、中稻与一季稻、晚稻等各自的种植面积和产量都占有重要份额。这种耕作制度和耕种方式能根据衡阳盆地光、热、水资源的季节分配而趋利辟害，适应能力较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2耒阳市的适应能力最强，常宁市适应能力最弱从图1可以看出，衡阳盆地的适应能力存在复杂的地域差异。总体来看，耒阳市的适应能力最强，祁东县次之；常宁市的农业生态系统适应能力最弱，衡东县的适应能力仅优于常宁市，排名倒数第2。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "耒阳市位于衡阳盆地东南缘，东部、南部为",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$3 0 0 { \\sim } 5 0 0 ~ \\mathrm { m }$ 的中低山，竹林、油茶林覆盖良好，水土流失和滑坡风险小。中部、西北较低 $( 6 0 { \\sim } 1 5 0 \\mathrm { m } )$ 的岗地平原是稻谷、小麦、高粱、烟草、花生等的种植区域，边缘的中低山为农业生产提供天然屏障。耒阳市水资源丰富，湘江水系在此支流网络发达，大小河流共79条，河长均超过 $5 \\mathrm { k m }$ ，总长 $1 2 0 3 . 9 4 \\mathrm { k m } _ { \\circ }$ 其中1级支流2条，即耒水和舂陵水，2级支流24条，3级支流39条，4级支流13条，5级支流1条。耒阳市水利设施建设完好，有大型水库1处即欧阳海灌区，中型水库3座，小型水库271座，山平塘27900口，水渠2947条达 $4 6 5 4 \\mathrm { k m }$ ，渡槽426处 $5 3 6 1 2 \\mathrm { m }$ ，总蓄、引、提水量4.42亿 $\\mathrm { ~ m } ^ { 3 }$ (其中蓄水3.27亿 $\\mathrm { m } ^ { 3 }$ 、引水0.48亿 $\\mathrm { m } ^ { 3 }$ 、提水 $0 . 6 7 \\ : 1 Z \\mathrm { m } ^ { 3 } .$ ，有效灌溉面积3.9万 $\\mathbf { h } \\mathbf { m } ^ { 2 }$ 占总耕地面积的 $78 . 1 \\%$ ，旱涝保收面积3.3万 $\\mathbf { h } \\mathbf { m } ^ { 2 }$ ，占总耕地的 $6 4 . 5 8 \\% ^ { [ 2 1 ] }$ 。以水库为骨干、塘坝为基础、蓄引提及大、中、小相结合的灌溉体系配以丰富的水资源条件，为农业生产提供了便利的灌溉水源，抗御旱涝灾害能力强，旱灾风险为衡阳盆地的最小值[22]。耒阳市是湖南省经济战略重点\"五区一廊\"的南大门，是承接珠三角产业转移的前沿地，经济综合实力屡居衡阳市首位。良好的自然环境和经济条件的相互耦合，耒阳市农业生态系统适应性强。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "常宁市位于衡阳盆地西南缘，南部山体高峻，$1 0 0 0 \\mathrm { ~ m ~ }$ 以上的达16座, $8 0 0 { \\sim } 1 ~ 0 0 0 ~ \\mathrm { m }$ 的山峰63座,群峰巍峨，常宁市南部山区不宜农耕。常宁市属中亚热带季风湿润气候，境内地形复杂，降水量、气温、日照等气象要素季节变化和年际变化变率大，气候环境脆弱性强。境内丰富的矿产资源一度成为常宁市的经济支柱，但长期的矿产资源开发使之成为资源枯竭型城市，大量的地下水漏斗区严重阻碍了农业发展，自然环境脆弱性强。常宁市距离衡阳市区较远，到自前没有铁路交通，在一定程度上制约了经济的发展。查阅历年的《衡阳市统计年鉴》发现，衡阳市的各县域中，常宁市的农民人均纯收入较落后，恩格尔系数偏高。自然环境的高敏感性与经济及交通的相对落后，导致常宁市农业生态系统适应性较弱。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1.3常宁市的适应能力波动最大，衡南县波动最小，耒阳市提升式波动明显",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "变异系数(coefficient of variation)即波动 $( C _ { \\mathrm { V } } )$ 表达地理数据变异程度或离散程度，可反映系统弹性和稳定性。计算各县域的变异系数，见表2。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表2可以看出，各县域中常宁市农业生态系统适应能力的波动最大，为0.2277；衡东县次之，为0.2162；衡南县的波动最小，为0.1329；祁东县",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表2衡阳盆地各县域1999—2014年农业生态系统适应能力的变异系数",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/40e38079148f4328e6a335a176a5d5ab054681e6b142b16ccc182226ec327aba.jpg",
+        "table_caption": [
+            "Table 2Coefficients of variation of the agricultural ecosystem adaptability of each county (city) in Hengyang Basin from 1999 to 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>区域Region</td><td></td><td>变异系数 Coeficient of variation</td></tr><tr><td>衡阳市区 Hengyang City</td><td></td><td>0.152 6</td></tr><tr><td>衡阳县Hengyang County</td><td></td><td>0.172 8</td></tr><tr><td>衡南县 Hengnan County</td><td></td><td>0.132 9</td></tr><tr><td>衡山县 Hengshan County</td><td></td><td>0.196 7</td></tr><tr><td>衡东县 Hengdong County</td><td></td><td>0.216 2</td></tr><tr><td>祁东县Qidong County</td><td></td><td>0.1511</td></tr><tr><td>耒阳市Leiyang City</td><td></td><td>0.196 7</td></tr><tr><td>常宁市 Changning City</td><td></td><td>0.227 7</td></tr><tr><td>衡阳全市 Hengyang Basin</td><td></td><td>0.2312</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "的变异系数仅大于衡南县，为0.1511。常宁市波动最大，表明系统稳定性最小，敏感性和脆弱性最强，农业生态系统的适应能力最弱。衡南县的适应能力指数整体水平居中，但是其波动最小，说明其农业生态环境较稳定，生态环境的演化缓慢。衡南县农业限制性因素不易改善，尤其是广泛分布的紫色土的保水和绿化难度大，需要制定长期计划和措施，以显著提高农业生态系统适应能力。耒阳市适应能力整体水平最高，但是波动性居第4位，但这种波动属于快速上升型的正向波动，这与20世纪末耒阳市大力调整产业结构相关。2005年以来，耒阳市大力调整产业结构，着力提高农业比较效益，形成了以粮食生产为基础，林、牧、副、渔全面发展的新格局。大型国家级优质杂交水稻制种基地、湖南省优势烤烟生产基地和草食动物基地等先后建成，以乡镇企业为主体的农村二、三产业发展迅速，农村经济得以迅速发展，适应能力大幅提高。耒阳市的农业生态系统适应性发展潜力和前景良好。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2衡阳盆地适应性时间演变特征",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 适应能力随时间演变总体呈上升趋势",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "为了概括衡阳盆地适应能力演变的总体特征，本文用衡阳全市值代表衡阳盆地。由图1可以看出各评价单元的变化较复杂，各县域的适应能力大体呈波动上升趋势，总体变化为由低、中适应能力到较高、高适应能力的变化趋势。这与研究区自然资源环境、经济发展、农业设施建设等密切相关。衡阳盆地农作物土熟程度较高，年均气温适宜，年降水量丰富，农业灌溉设施逐年完善，农民纯收入稳步提高等因素使得衡阳盆地农业生态系统弹性增强，农业生态系统适应能力提升。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/42c93376831d23c002cbd4149928d918a77199c613da9c7e721c6eb2750ac811.jpg",
+        "table_caption": [
+            "表3 衡阳盆地各年份农业生态系统适应能力等级",
+            "Table 3Degree of the agricultural ecosystem adaptability in Hengyang Basin from l999 to 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年份 Year</td><td>适应能力指数 Adaptability index</td><td>适应能力等级 Adaptability degree</td><td>年份 Year</td><td>适应能力指数 Adaptability index</td><td>适应能力等级 Adaptability degree</td></tr><tr><td>1999</td><td>0.4102</td><td>中Medium</td><td>2007</td><td>0.446 0</td><td>中Medium</td></tr><tr><td>2000</td><td>0.455 7</td><td>中Medium</td><td>2008</td><td>0.3712</td><td>低Lower</td></tr><tr><td>2001</td><td>0.3779</td><td>低Lower</td><td>2009</td><td>0.333 7</td><td>低Lower</td></tr><tr><td>2002</td><td>0.3952</td><td>中Medium</td><td>2010</td><td>0.4851</td><td>较高Higher</td></tr><tr><td>2003</td><td>0.329 6</td><td>低Lower</td><td>2011</td><td>0.455 9</td><td>中Medium</td></tr><tr><td>2004</td><td>0.3982</td><td>中 Medium</td><td>2012</td><td>0.532 3</td><td>较高Higher</td></tr><tr><td>2005</td><td>0.318 0</td><td>低Lower</td><td>2013</td><td>0.583 6</td><td>高Highest</td></tr><tr><td>2006</td><td>0.340 0</td><td>低Lower</td><td>2014</td><td>0.679 4</td><td>高Highest</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 时间演变波动大，具有放大效应",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "衡阳盆地农业生态系统适应性波动大，对各评价单元而言具有放大效应。放大效应可理解为：当衡阳盆地各评价单元适应能力指数处于较低水平时，衡阳盆地整体的适应能力低于评价单元的均值，显示为低于各评价单元适应能力状态；当各评价单元适应能力指数处于较高水平时，衡阳盆地的适应能力高于评价单元的均值，显示为高于各评价单元适应能力状态。分析图1和表3可知，2001—2006 年为适应能力低值阶段，衡阳盆地总体适应能力低于各评价单元的适应能力；2010—2014年为适应能力高值阶段，衡阳盆地的适应能力高于各县域。从时间波动来看(表2)，衡阳盆地的变异系数为0.2312大于各个县域的波动值。这些都体现明显的放大效应。这与气候波动密切相关，2001—2013年的平均干旱频率是近33年(1980—2013年)的最大值[23]，旱灾风险大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从演变特征和变化趋势来看，衡阳盆地市区及各县域农业生态系统适应性在研究时域的16年期间可分为3个阶段，时间区间分别为1999—2004年、2005—2010 年和2010—2014年。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1)适应能力中低值小幅度振荡阶段",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由图1和表2、表3可知，1999—2004年衡阳盆地农业生态系统适应能力以中、低适应能力为主，适应能力在中低值之间小幅振荡，其中衡阳市区、衡阳县以及衡山县的变化幅度最小，适应能力总体水平低。1999—2004 年，衡阳盆地农民人均纯收入为3480元，年均增长190元，人均GDP、恩格尔系数都有小幅度的变化，但水热配合等各类自然环境因素不稳定，水旱灾害频繁出现，农业生态系统稳定性较低，导致生态环境所提供的水热等资源不能被充分利用，农业产业与农业资源相悖[24]，农业生态系统适应能力较低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2)适应性显著波动上升阶段",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "衡阳盆地2005—2010年农业生态系统适应性波动较大，呈上升态势，2005年的适应能力指数为0.3180，2005年和2006年为低适应能力，2007年上升为中适应能力，2008年和2009年下跌为低适应能力，2010年提升为较高适应能力，可见其波动大且频繁，总体上升幅度达 $49 \\text{‰}$ ，各评价单元的波动情况有差异，衡南县、衡山县、衡东县、祁东县、常宁市以及耒阳市适应能力以上升为主，衡阳市区及衡阳县2007—2009年却呈下降趋势。农业生态系统与社会经济系统密切相关[22]，从 2005 年开始，全面取消农业税，农村“村村通\"公路工程实施，且衡阳市“十一五\"农业发展规划将农业生态环境保护列为重要内容，惠农政策初见成效。2005—2010年经济增幅较大，区域人均GDP由8800元上涨到20419元，同比增长 $56 \\%$ 。社会经济进步有利于增加农业投入，提高农业生态系统的适应性。另一方面，衡阳盆地位于湖南最干旱的衡邵干旱走廊，进入21世纪后旱灾频发，2003年、2005年、2007年、2009年和2011年都发生了严重干旱[25]，给农业生态系统带来严重损失，再如2008年我国南方罕见的冰灾给农业设施和冬春农业生产造成沉重打击，这些阶段性的气象灾害使农业生态系统表现强烈的敏感性和暴露度，农业生态系统适应性随之发生显著波动。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3)适应性快速上升阶段",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "研究时域2010—2014年，属较高和高适应能力阶段，适应能力迅速上升。其中2010年适应能力为0.4851，2014年为0.6794，上升幅度较大，上升趋势稳定。此阶段衡阳市推进农业“一流转五服务\"工作，农业集约化经营方式取代农业零散粗放经营，农业科技推广落到实处，化肥农药使用效率迅速提高[26]。“谁种粮谁受益，种多少补多少\"据实种粮直补政策使农民种田积极性显著提高，水田擢荒得到控制。农业生态系统适应性弹性发展，并呈持续上升趋势。本阶段衡阳县和衡南县的适应能力指数较小，且在2013年出现波动下滑，这与2013年衡南县和衡阳县的2次干旱扰动相关。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4讨论与结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1讨论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "生态系统适应性是全球变化与区域响应研究热点。基于适应性视角的农业生态系统应对全球变化区域响应的研究，属于本领域研究的核心内容。本项目在全球变化框架下，探索适应性时空演变特征研究尤其时间演变特征，是全新的尝试。在不同阶段适应性演变速度和趋势不同，受人类社会经济活动干预较大，加强适应性管理是提高适应性的重要途径。生态系统适应性定量研究尚处于探索阶段，尚无标准化的评价方法可通用，加强实证研究，才能充实生态系统适应性研究理论与方法。如何构建合理的评价指标体系和研究模型，是定量研究的关键。农业生态系统适应性定量研究需考虑农业产业特点，农业受自然环境影响极大，气候变化使农业生产条件发生重大改变，威胁农业生产[27]；社会因素和经济因素影响适应性演变方向和速度。作者团队对衡阳盆地农业生态系统适应性驱动力做过研究，社会经济因素是其首要驱动力，与本研究的时间演变原因基本吻合。农业劳动力的科学文化素质对适应性会有影响，本研究未将该因素列入评价指标，因为随着农村土地流转的深入，规模化的集约农业正在形成，一部分农村户籍人口外出打工而不是从事农业生产的农民，一部分农学类的大学生作为集约农业的技术人员从事农业但并不是农村户籍，因而农业从业人口及其科学文化素质等指标数据难以取得，未列入评价指标体系，这也与缺乏科研经费有关。今后的研究需加强实地调研，广泛采集资料数据，评价指标体系的构建应加强各类影响因素的耦合研究，把重要的微观指标、农业从业者素质及其数量、农业活动意愿及惠农政策的执行力等纳入指标体系，使评价更客观可靠，以指导农业经济活动。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2结论",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文选择自然因素、经济因素和社会因素3方面12个指标，建立了农业生态系统适应性的评价指标体系，用熵权法确定指标权重，进而计算出1999—2014年各县域及衡阳全市的农业生态系统适应能力指数。评价指标体系和评价模型客观、科学、合理，具有可推广性。作者研究团队及其他学者对农业生态系统的适应性研究成果多为以某年份为例的空间静态研究，对衡阳盆地时空2个维度的农业生态系统适应性动态演变研究尚属新的尝试和探索，无已有的研究结论可对比。本研究表明：衡阳盆地农业生态系统适应性整体状况较好，并呈波动上升趋势。结论与实际情况较吻合，可信度较高。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1)衡阳盆地农业生态系统适应性空间分异特征：衡阳盆地适应性整体状况较好，但空间分异复杂。耒阳市的适应能力最强，提升式波动明显；祁东县次之，年际波动小；常宁市的农业生态系统适应能力最弱，年际波动最大；衡东县的适应能力仅优于常宁市，年际波动仅小于常宁市。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2)衡阳盆地农业生态系统适应性时间演变特征呈现波动上升的演化特点，评价时域16年分为3阶段：1999—2004年为适应性小幅度振荡的低值阶段，2005—2010年为适应性显著波动总体上升阶段，2010—2014年为适应性快速上升阶段。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献 References",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1] IPCC.Climate Change 2001: Impacts Adaptation and Vulnerability. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change[M].Cambridge UK，New York，USA: Cambridge University Press,2001   \n[2] 梁婕，彭也茹，郭生练，等．基于水文变异的东洞庭湖湿地 生态水位研究[J]．湖泊科学,2013,25(3):330-334 Liang J,Peng Y R,Guo S L,et al.Determination of ecological water-level in the eastern Lake Dongting with hydrological alterations[J]. Journal of Lake Sciences,2013, 25(3):330-334   \n[3]刘剑宇，张强，顾西辉．水文变异条件下鄱阳湖流域的生 态流量[J].生态学报,2015,35(16):5477-5485 Liu JY, Zhang Q,Gu XH.Evaluation of ecological flow with considerations of hydrological alterations in the Poyang Lake basin[J].Acta Ecologica Sinica,2015,35(16):5477-5485   \n[4]於琳，许红梅，尹红，等．气候变化对陆地生态系统和海岸 带地区的影响解读[J]．气候变化研究进展，2014，10(3): 179-184 YuL,Xu H M,Yin H,et al.Interpretation of IPCC fifth assessment report on impacts of climate change on terrestrial ecosystems and coastal areas[J].Progressus Inquisitiones de Mutatione Climatis,2014,10(3):179-184   \n[5]刘丽芳，苏喜友，唐小平．气候变化背景下湿地生态系统 适应度评价—以盘锦湿地为例[J].四川农业大学学报, 2015,33(2): 153-158 Liu LF,Su X Y, Tang X P. The evaluation of adaption of wetland ecosystem to climate change:A case study in Panjin Wetland[J]. Journal of Sichuan Agricultural University, 2015, 33(2): 153-158 Zhang Q, Cui Y, Chen Y Q.Ecological flow evaluation based on hydrological alterations in the Dongjiang River basin[J]. Journal of Natural Resources,2012,27(5):790-800 [7] 周念清，赵露，沈新平．基于协同学理论评价湘江流域水 资源系统适应性[J]．人民长江,2012,43(24):9-12 Zhou N Q,Zhao L,Shen X P.Adaptability assessment for water resources system of Xiangjiang River Basin based on synergetics theory[J]. Yangtze River,2012,43(24): 9-12 [8]夏军，石卫，陈俊旭，等．变化环境下水资源脆弱性及其适 应性调控研究—以海河流域为例[J]．水利水电技术，2015, 46(6): 27-33 Xia J, Shi W,Chen JX,et al. Study on vulnerability of water resourcesand itsadaptive regulation under changing environment - A case of Haihe River basin[J].Water Resources and Hydropower Engineering,2015,46(6): 27-33 [9] 陈凤臻，姜琦刚，于显双，等．全球变化下北方农牧交错地 带区域适应能力评价模型研究[J]．地球科学与环境学报, 2010,32(3): 292-296 Chen F Z, Jiang Q G, Yu X S,et al. Study on regional adaptability model for farming-pastoral zone in the northern of China under global change[J]. Journal of Earth Sciences and Environment,2010,32(3): 292-296   \n[10] 何云玲，张一平．纵向岭谷区生态环境对气候变化的适应 性评价[J]．山地学报,2009,27(3):300-305 He Y L， Zhang Y P. Adaptation assessment of ecoenvironment in the longitudinal range-gorge region (LRGR) under the changing Climate[J]. Journal of Mountain Science, 2009,27(3): 300-305   \n[11] 谢立勇，李悦，钱凤魁，等．粮食生产系统对气候变化的响 应：敏感性与脆弱性[J].中国人口·资源与环境,2014,24(5): 25-30 Xie L Y,Li R,Qian F K,et al. Analysis on agricultural sensitivityand vulnerabilitytoclimatechangeand countermeasures[J]. China Population, Resources and Environment, 2014,24(5): 25-30   \n[12] 贾慧聪，潘东华，王静爱，等．自然灾害适应性研究进展[J]. 灾害学,2014,29(4):122-128 Jia H C,Pan D H,Wang J A,et al. Research progress of natural disaster adaptation[J].Journal of Catastrophology, 2014,29(4): 122-128   \n[13]崔胜辉，李旋旗，李扬，等．全球变化背景下的适应性研究 综述[J]．地理科学进展,2011,30(9):1088-1098 Cui S H,Li X Q,Li Y,et al.Review on adaptation in the perspective of global change[J].Progress in Geography, 2011, 30(9): 1088-1098   \n[14]阎建忠，张镜锂，朱会义，等．大渡河上游不同地带居民对 环境退化的响应[J]．地理学报,2006,61(2):146-156 Yan J Z, Zhang Y L, Zhu H Y, et al. Residents’response to environmental degradation: Case studies from three villages in the upper Dadu River Watershed[J].Acta Geographica Sinica,2006,61(2): 146-156   \n[15]周广胜，何奇瑾．陆地生态系统对气候变化的脆弱性评价 与适应性管理[J].中国基础科学,2015(3):26-31 ecosystems under climate change[J]. China Basic Science, 2015(3): 26-31   \n[16] 杨岁桥，杨建平，王世金，等．生态-经济系统对冰冻圈变 化的适应能力评价—以玉龙雪山地区为例[J]．冰川冻土, 2012,34(2): 485-493 Yang S Q,Yang JP,Wang S J,et al. Adaptive capacity evaluation of ecological-economic system to cryospheric change — A case study in the Mount Yulong[J]. Journal of Glaciology and Geocryology, 2012,34(2): 485-493   \n[17]周松秀，刘兰芳，王鹏，等．南方红壤丘陵区油茶种植的气 候适应性特征一 以湖南省常宁市为例[J]．生态科学, 2015,34(1): 61-67 Zhou S X, Liu L F,Wang P,et al. The features of the climate adaptability about Camellia oleifera planting in hilly red soil region of southern China: A case study of Changning City, Hunan Province[J]. Ecological Science,2015,34(1): 61-67   \n[18]王晶，沙景华，周进生，等．霍邱矿业经济区产业生态系统 适应性评价研究[J]．资源与产业,2014,16(3):87-94 Wang J,Sha JH, Zhou JS,et al.Adaptability of industrial ecological system in Huoqiu Mining Industry Zone[J]. Resources & Industries,2014,16(3): 87-94   \n[19]高奇，师学义，张琛，等．县域农业生态环境质量动态评价 及预测[J]．农业工程学报,2014,30(5):228-237 Gao Q, Shi X Y, Zhang C, et al. Dynamic assessment and prediction on quality of agricultural eco-environment in county area[J]. Transactions of the CSAE,2014,30(5): 228-237   \n[20]赵跃龙，张玲娟．脆弱生态环境定量评价方法的研究[J] 地理科学,1998,18(1): 73-79 Zhao Y L，Zhang L J. Study on method of quantitative assessment of fragile environment[J]. Scientia Geographica Sinica,1998,18(1): 73-79   \n[21]耒阳市志纂委员会．耒阳市志(自然地编)[EB/OL].(2016- 06-01）[2016-06-24]. htp://www.leiyang.ccoo.cn/bendi/info5432.html Leiyang City Committee. Journal of Leiyang City[EB/OL]. (2016-06-01） [2016-06-24]. http://www.leiyang.ccoo.cn/bendi/ info5432.html   \n[22] 刘兰芳，肖志成，陈涛，等.2013年中国南方地区农业旱灾 风险评估—以湖南省衡阳市为例[J]．水土保持通报, 2015,35(2): 274-278 Liu L F, Xiao Z C,Chen T, et al. Assessment of agricultural drought risk in southern China in 2013:A case study in Hengyang City, Hunan Province[J]. Bulletin of Soil and Water Conservation,2015,35(2): 274-278   \n[23]刘兰芳，肖志成，陈涛，等．近33 年衡阳盆地的气候变化 与干旱发展趋势[J]．湖南农业大学学报：自然科学版, 2014,40(6): 637-642 Liu L F, Xiao Z C,Chen T, et al. Climatic change and drought trend in Hengyang basin over recent 33 years[J]. Journal of Hunan Agricultural University: Natural Sciences,2014,40(6): 637-642   \n[24]王继军，郭满才，姜志德，等．农业生态经济系统耦合过程 模型的建立及应用[J].生态学报,2010,30(9):2371-2378 WangJJ,Guo MC,Jiang ZD,et al. The construction and application of an agricultural ecological-economic system coupled process model[J].Acta Ecologica Sinica,201o,30(9): 2371-2378   \n[25]柳德新．“丰水湖南\"为何干旱频发[EB/OL]．湖南日报, (2013-07-25） [2016-06-30]. http://finance.people.com.cn/n/ 2013/0725/c1004-22323011.html Liu D X.Why drought frequently happen in Hunan with water-rich[EB/OL].Hunan Daily,(2013-07-25)[2016-06-30]. http://finance.people.com.cn/n/2013/0725/c1004-22323011.html   \n[26]周松秀，蒋晴，刘兰芳，等．亚热带稻作区农业生态环境脆 弱性时间演变研究—以衡阳盆地为例[J].衡阳师范学院 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "学报,2015,36(6):57-62 Zhou SX,Jiang Q,LiuLF,et al.Research on the temporal evolution of agricultural eco-environmental vulnerability in subtropical rice areas - Take Hengyang basin asan example[J]. Journal of Hengyang Normal University,2015, 36(6): 57-62 [27]吴婷婷．南方稻农气候变化适应行为影响因素分析——基 于苏皖两省364户稻农的调查数据[J].中国生态农业学报, 2015,23(12): 1588-1596 Wu T T.Empirical analysis of farmers'adaptation to climate change in southern rice areas ofChina — Based on household survey data in Jiangsu and Anhui Provinces[J].Chinese Journal of Eco-Agriculture,2015,23(12):1588-1596 ",
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,505 @@
+[
+    {
+        "type": "text",
+        "text": "Joint-linkage mapping and GWAS reveal extensive genetic loci that regulate male inflorescence size in maize ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Xun Wu1.5, Yongxiang_Li1, Yunsu $\\mathsf { S h i } ^ { 1 }$ , Yanchun Song1,Dengfeng Zhang1,Chunhui $\\mathsf { L i } ^ { 1 }$ ,Edward S. Buckler2,3,\\*, Yu Li1'\\*， Zhiwu Zhang4,6,\\* and Tianyu Wang1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Instituteof Crop Science,Chinese Academy of Agricultural Sciences,Beijing, China   \n2Institute forGenomic Diversity，CornellUniversity,thaca,NY,USA   \n3USA Department of Agriculture-Agricultural Research Service,Ithaca,NY,USA   \n4DepartmentofAgronomy,NortheastAgricultural University,Harbin,Heilongjiang,China   \n5Nanchong Academy of Agricultural Sciences,Nanchong,Sichuan, China   \n6Department of Cropand Soil Sciences，Washington State University，Pullman,WA,USA ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 12 June 2015;   \nrevised31 October2015;   \naccepted 22 November2015.   \n\\*Correspondence (Tel 607 255 2300; fax 607254 6379;emails esb33@cornell.edu (ESB);   \nTel $+ 8 6$ 10 62131196;fax $+ 8 6$ 10   \n62131196; liyu03@caas.cn (YL); Tel 509- 335-2899;fax 509-335-8674;zhiwu.   \nzhang@wsu.edu (ZZ);   \nTel $+ 8 6$ 10 62186632;Fax $+ 8 6$ 10   \n62186647;wangtianyu@caas.cn (TW)) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Both insufficient and excessive male inflorescence size leads to a reduction in maize yield. Knowledge of the genetic architecture of male inflorescence is essential to achieve the optimum inflorescence size for maize breeding.In this study,we used approximately eight thousand inbreds,including both linkage populations and association populations,to dissect the genetic architecture of male inflorescence.The linkage populations include 25 families developed in the U.S.and 11 families developed in China. Each family contains approximately 200 recombinant inbred lines (RILs).The association populations include approximately 10oo diverse lines from the U.S.and China.All inbreds were genotyped by either sequencing or microarray.Inflorescence size was measured as the tassel primary branch number (TBN)and tassel length (TL).A total of 125 quantitative trait loci (QTLs) were identified (63 for TBN,62 for TL) through linkage analyses. In addition,965 quantitative trait nucleotides (QTNs) were identified through genomewide study (GWAS)at a bootstrap posterior probability (BPP) above a $5 \\%$ threshold.These QTLs/QTNs include 24 known genes that were cloned using mutants,for example Ramosa3 (ra3),Thick tassel dwarf1(td1),tasselseed2 (ts2),liguleless2(lg2),ramosa1 (ra1),barren stalk1 (ba1),branch silkless1 (bd1) and tasselseed6 (ts6).The newly identified genes encode a zinc transporter (e.g. GRMZM5G838098 and GRMZM2G047762), the adapt in terminal region protein (e.g. GRMZM5G885628), O-methyl-transferase (e.g. GRMZM2G147491), helix-loop-helix (HLH) DNAbinding proteins (e.g. GRMZM2G414252 and GRMZM2G042895)and an SBP-box protein (e.g. GRMZM2G058588).These results provide extensive genetic information to dissect the genetic architecture of inflorescence size for the improvement of maize yield. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:maize，male inflorescence size, joint-linkage,GWAS,QTLs, candidate gene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The male inflorescence (tassel）is an indispensable organ for maize production because it provides pollen for hybridization (Upadyayula et al.，2oo6).Although well-developed male inflorescences havebeen observed in teosintes (Pipernoand Flannery,2oo1),they were reduced during maize domestication and improvement (Duvick and Cassman，1999) becausea largermale inflorescence would compete for photosynthate or contribute to the shading effect (Crue and Wasson，1996).In fact,varieties with an ideal male inflorescence can produce sufficient pollen and transform more energy into kernels (Eveland etal.，2014;Upadyayula et al.，2006). Brewbaker (2015)reported a significant decrease in male inflorescencerelated traits,such as tassel primary branch number (TBN)and tassel length (TL),from typical landracesto temperate adapted lines.The male inflorescence is controlled bya large number of genetic loci/genes (Tanaka et al.，2013)； however，knowledge ofits molecular basis remains poor (Eveland et al.，2014). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Therefore，an in-depth investigation of the genetic loci/genes that control male inflorescence could provide information for determining the molecular mechanisms of its variation and could improve breeding strategies for enhancing maize grain yield. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There are considerable efforts to map quantitative trait loci (QTLs) for male florescence-related traits (Berke and Rocheford, 1999;Chen et al.，2014;Mickelson et al.，2002；Upadyayula et al.，2006).However，only limited number of QTLs were identified because only two parental inbreds were selected in each population，which resulted in a limited number of recombination events.To further dissect the genetic basis of the male inflorescence,Yang et al. (2014) used the GWAS method in a diverse panel and identified 3O TBN- and 33 TL-related genetic loci,which significantly improved the resolution compared with previous studies.However,the use of GWAS in diverse panels was challenged by the false discoveries caused by the population structure and unequal relatedness among individuals (Zhang et al., 2010). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thus,McMullen et al. (2oo9)employed a different design,that is the nested association mapping population (US NAM) to dissect genetic architecture of complex traits (Buckler et al.,20o9) using joint-linkage analysis.Furthermore,effective and reliable results were obtained from GWAS in these populations (Tian et al., 2011)．Using this US NAM population， many genetic loci associated with different traits of agronomic importance were identified (Brown et al.,2011;Buckler et al.,2009;Cook et al., 2012;Kump et al.,2011; Peiffer et al.,2014;Tian et al.,2011). In particular，Brown et a/. (2011) detected 39 TBN- and 37 TLrelated QTLs and also identified 241 TL-related QTNs and 325 TBN-related QTNs.In their study，13 male inflorescence-related genes that were cloned using mutant genetics were validated with TBN-or TL-related QTNs falling within 1 centi-Morgen (cM) of these genes.The NAM populations provide high power for the dissection of the genetic architecture of the male inflorescence of maize.However, the mapping resolution is less desirable for gene cloning due to limited number of recombination events. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Until now，only a few genes associated with the male inflorescence have been cloned,for example Thick tassel dwarf1 (td1)(Bommert et al.，20o5).Barreninflorescence2 (bif2)regulatesaxillary meristem development in the maize inflorescence (McSteen and Hake，2001).Ramosa1 (ra1) (Vollbrecht et al., 2005）and ramosa3 (ra3) (Satoh-Nagasawa et al.，20o6)are associated with the male inflorescence,as well as the indeterminate1 mutation (id1) (Aukerman and Amasino,1998),flowering1 (dlf1）and leafy1 (Ify1) (Colasanti etal.，1998)，knotted1(kn1) (Bolduc etal.,2012),branch angle defective1 (bad1) (Bai et al., 2012） and two SBP-box transcription factor genes of unbranched2 (ub2) and ub3 (Chuck et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently,with the development of high-throughput sequencing platforms,Eveland et al. (2014) identified 164 genes that were specifically expressed in the male inflorescence using transcriptional expression profile analysis ofra1-R，ra2-R and ra3-fea1 introgressed families with an identical genetic background of B73.They established a regulatory model and provided additional proof for validating the gene function of the male inflorescence.However， the understanding of the male inflorescence remains limited due to complex molecular networks (Eveland et al.，2014) and a limited number of parental lines used previously (Brown et al.,2011;Chen et al., 2014;Mickelson et al.，2002；Upadyayula et al.，2006). Therefore，more parental lines with wider genetic diversityare desirable，and a combination of joint-linkage mapping，GWAS and transcriptional expression profile analysis would be better for dissecting the genetic basis of the male inflorescence in maize. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study，we constructed another NAM population (CN NAM) using Huangzaosi (HZS)as the common parental line,with larger male inflorescence size (TBN of 13.93，TL of 29.06) compared with that of B73 (TBN of 10.24,TL of 28.76),which canprovide abundant pollen for hybridization in breeding practice.The other 11 parental lines of CN NAM were from different heterotic groups of Reid，Tangsipingtou (TSPT),Lancaster，and the P and Tem-tropic l groups (Wu et al.，2014), which would provide some new allelic variations. In addition,one global association panel (AP) of 945 diverse lines was collected, which could maximize the genetic diversity of the maize germplasm.The objective of this study was to identify the QTLs, QTNs and genes associated with TBN and TL by combining CN NAM,US NAM and AP to provide extensive genetic information for dissecting their potential molecular mechanisms. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic variations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phenotypes of TBN and TL are shown in Tables 1，S2 and Figure S2.The results indicated that there were abundant phenotypic variationsinthe experimental materials，which benefited the dissection of the genetic architecture of the male inflorescence.Broad-sense heritability ranged from 0.83 to 0.92 for TBN,and 0.69 to O.85 forTL.A correlation analysis of TBN and TL showed significantly positive associations among different environments,with a $P$ value less than $1 \\times 1 0 ^ { - 4 }$ (Table S3). ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/0dffa5f4cdb06ecc1bfaabe2f4e08a652eb51bf0308aa264c5f04520db469c76.jpg",
+        "table_caption": [
+            "Table1 Summary of genetic loci controlling tassel-related traits "
+        ],
+        "table_footnote": [
+            "\\*Dtaeet to total number of allQTNs identified through the GWAS strategy. "
+        ],
+        "table_body": "<html><body><table><tr><td>Trait</td><td>Population</td><td>Mean</td><td>Range</td><td>Broad-sense heritability</td><td>No. of QTL</td><td>PVE(%)</td><td>No. of QTNs</td><td>No. of common QTL*</td></tr><tr><td>Tassel length (TL) (cm)</td><td>USNAM parental lines</td><td>33.16</td><td>22.60-40.85</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>CNNAM parental lines</td><td>29.55</td><td>18.00-43.50</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>USNAM</td><td>32.70</td><td>3.80-58.50</td><td>0.69</td><td>37</td><td>64.35</td><td>106</td><td>53/106</td></tr><tr><td></td><td>CNNAM</td><td>29.26</td><td>9.80-53.00</td><td>0.85</td><td>25</td><td>67.99</td><td>39</td><td>27/39</td></tr><tr><td></td><td>CN&US NAM</td><td>29.43</td><td>3.80-58.50</td><td></td><td>1</td><td></td><td>253</td><td>139/253</td></tr><tr><td></td><td>US AP</td><td>29.00</td><td>6.20-59.60</td><td>0.75</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td></td><td>CN AP</td><td>29.86</td><td>11.90-48.91</td><td>0.85</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td></td><td>CN&US AP</td><td>30.88</td><td>6.20-59.60</td><td>0.80</td><td>1</td><td></td><td>19</td><td>9/19</td></tr><tr><td></td><td>Common</td><td></td><td></td><td></td><td>8</td><td></td><td></td><td>15/253</td></tr><tr><td>Tassel primary</td><td>US-NAM parental lines</td><td>12.09</td><td>5.80-24.00</td><td>一</td><td></td><td></td><td></td><td></td></tr><tr><td>branch number (TBN)</td><td>CN-NAM parental lines</td><td>11.55</td><td>2.75-25.00</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>US-NAM</td><td>9.42</td><td>1.00-41.00</td><td>0.90</td><td>35</td><td>65.11</td><td>163</td><td>87/163</td></tr><tr><td></td><td>CN-NAM</td><td>11.84</td><td>1.00-39.80</td><td>0.92</td><td>28</td><td>73.03</td><td>32</td><td>17/32</td></tr><tr><td></td><td>CN&US NAM</td><td>10.63</td><td>1.00-41.00</td><td></td><td>1</td><td>1</td><td>328</td><td>184/328</td></tr><tr><td></td><td>US AP</td><td>10.96</td><td>1.00-35.00</td><td>0.91</td><td>1</td><td>一</td><td>0</td><td>0</td></tr><tr><td></td><td>CN AP</td><td>9.33</td><td>1.00-38.80</td><td>0.83</td><td>1</td><td></td><td>11</td><td>2/11</td></tr><tr><td></td><td>CN&US AP</td><td>10.15</td><td>1.00-38.80</td><td>0.87</td><td>1</td><td>1</td><td>15</td><td>7/15</td></tr><tr><td></td><td>Common</td><td></td><td></td><td></td><td>13</td><td></td><td></td><td>29/328,3/15</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) ts6lg1 60 ts2 kn1zf2bad1 bal tulub3 ral ra3 bm4 1.0 40 -0.5 p d   \n007 。 。 0.0P 0 。 0.5 60 1.0 Chr1 Chr2 Chr3 Chr4 Chr5 Chr6 Chr7 Chr8 Chr9 Chr10   \n(b) 60 1.0 。 ub2id1 zf12 fea2tulub3 td1 chn2 tsh4ra3zmm2 bm4 o 40 福 0.5   \n。 20 中市市 0.0 20 -0.5 40 60 。 1.0 Chr 1 Chr 2 Chr3 Chr4 Chr5 Chr6 Chr7 Chr8 Chr9 Chr10 QTNs inCNNAM OQTNsinUSNAM ■ QTLin CNNAM QTNs inCN&USAP OQTNsinCN&USNAM ■ QTLinUSNAM ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore，a single best linear unbiased predictor (BLUP)value was calculated for TBN and TL across all locations. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Genetic loci controllingphenotypicvariations ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For CN NAM,28 TBN-related QTLs Were detected (Table1 and Fig.1a),12 of which were shared in single families (Fig. S3); the averagephenotypicvariationexplained (PVE) valuewas $1 0 . 1 9 \\%$ and this value varied from $5 . 6 9 \\%$ to $2 5 . 3 3 \\%$ (Table S5).A total of 25 TL-related QTLs were detected (Table 1 and Fig.1b),13 of which were shared in single families (Fig. S4),with an average PVE value of $1 1 . 4 6 \\%$ and a range of $5 . 9 2 \\%$ to $3 0 . 0 2 \\%$ (Table S5). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For USNAM,35 TBN-related QTLs were identified (Table1and Fig.1a),29 of which were shared in single families (Fig. S3); the average PVE value was $1 0 . 7 3 \\%$ ,and this varied from $3 . 7 5 \\%$ to $3 9 . 5 7 \\%$ (Table S6).A total of 37TL-related QTLs were identified (Table 1and Fig.1b),22of which were shared in single families (Fig.S4); the average PVE value was $1 0 . 5 8 \\%$ ,and this varied from $4 . 5 7 \\%$ to $3 1 . 1 2 \\%$ (Table S6). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The comparison analysis of the joint-linkage analysis results between CN and US NAM (Fig.2a) showed that 32 tassel-related ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "QTLs were observed specifically in CN NAM.A total of 51 tasselrelated QTLs were identified specifically in US NAM.A total of 21 QTLs,including13 TBN-and 8TL-associated QTLs,were identified as common to both CN and US NAM. In addition, there were 23 common QTLs between TL and TBN (Fig.2b). ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The GWAS results showed that a total of 549 TBN-related QTNs with BPP values greater than or equal to O.O5 ata Pvalue less than $5 . 4 6 \\times 1 0 ^ { - 6 }$ were identified.The use of CN&US NAM showed the largest detection power compared with any other population, where 328 QTNs were detected compared with163 in US NAM, 32 in CN NAM,15 in CN&US AP,O in US AP,and 11 in CN AP. Similarly,a total of 416 TL-related QTNs were identified with BPP values greater than or equal to O.05 at a $P$ value less than $5 . 6 6 \\times 1 0 ^ { - 6 }$ . CN&US NAM also showed the largest detection power(252 QTNs found) compared with 106 in US NAM,39 in CN NAM,19 in CN&US AP,and O in US AP and CN AP (Table S4).The comparison analysis of the GWAS results from CN,US and CN&US NAM showed that none of the common QTNs associated with TL were found in the three NAM populations (Fig.2c). However,28 TL-related QTNs were shared between US and CN&US NAM，5 were shared between CN and CN&US NAM,and3 were shared between CN and US NAM (Fig.2c).In addition,there was one common QTN associated with TBN in CN,US and CN\\$US NAM,45 QTNs were shared between US and CN&US NAM,2were shared between CN and US NAM,and 4 were shared between CNand CN&US NAM (Fig. 2d). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f759239db17f9ada19e98d73f876142743bb82f908edcf2a9a6eb0a1809b9630.jpg",
+        "img_caption": [
+            "Figure2Vendiagramofgeneticiomparisolota'sdtheomparisoofQsupportedbyitlinkageamonCNAndU.Plot 'b'showed the comparison of QTL supported by joint-linkage among TL and TBN.Plots $' c ^ { \\prime }$ and $\\therefore d ^ { \\prime }$ represent the comparison of QTNs associated with TL and TBN among CN NAM, US NAM and CN&US NAM respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Overlap between QTNsand QTLs ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Significant overlaps existed between the QTNs detected using GWAS and the QTLs detected using the joint-linkage analysis (Fig.3),with $P$ value less than 0.0o1 between actual proportion and expected ones.Detailed information on the QTNs and QTLs are listed in Table S4.For CN&US NAM，the frequency of the observed SNPs falling within the QTLs was significantly higher than that of random SNPs,and similar results were found in both CN NAM and US NAM (Fig.3b).In addition,for the TBN-related QTNs,300 of 549 QTNs were co-located within the QTL intervals, a finding that was supported by the joint-linkage analysis,with 78 QTNs specific only to the CN NAM QTL intervals，179 QTNs specific only to the US NAM QTL intervals,and 43 QTNs shared between the CN NAM and the US NAM QTL intervals.Among the 416 TL-related QTNs，243 were co-located within the QTL intervals，with 61 QTNs specific only to the CN NAM QTL intervals,161 QTNs specific only to the US NAM QTL intervals and 21QTNs shared between the CN NAM and US NAM QTL intervals.These loci would be more robust and closely linked to the causal effects of variations in the male inflorescence. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "QTN enrichment in candidate genes ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The QTNs identified in association studies only indicated the linkage disequilibrium between the SNPs and the phenotypes.To build connections between these associated SNPs and the potential causal genes,we conducted the enrichment studies on candidate genes.The results showed significant QTN enrichment within the candidate genes,with $3 . 4 7 \\ v s \\ 1$ between the actual QTNs and the random SNPs falling within $0 ~ \\mathsf { k b }$ of the candidate genes, $1 . 5 ~ v s ~ 1$ between the actual QTNs and the random SNPs falling within $5 0 ~ \\mathsf { k b }$ of the candidate genes, $1 . 4 \\ : v s \\ : 1$ between the actual QTNs and the random SNPs falling within $1 0 0 ~ { \\textk } { \\mathrm b }$ of the candidate genes, $0 . 8 2 \\ v s \\ 1$ between the actual QTNs and the random SNPs falling within $2 0 0 ~ \\mathsf { k b }$ of the candidate genes,and $0 . 6 1 \\ v s \\ 1$ between the actual QTNs and the random SNPs falling within $4 0 0 ~ \\mathsf { k b }$ of the candidate genes (Fig.4).In addition，113 candidate genes (Fig.1,Table 2 and Table S4) with peak signal SNPs falling Within $1 0 0 ~ \\mathsf { k b }$ of them are listed,among which 24 male inflorescence-related genes were previously cloned using mutant genetics.For example, the SNP of S7_166858805 with a $P$ value ${ \\tt o f 4 } \\times 1 0 ^ { - 1 0 }$ falls within $1 0 0 ~ { \\textk } { \\mathrm b }$ of the ra3 gene (Fig. 1a and b),and the SNP of S1_46687160 with a $P$ value of $5 . 3 \\times 1 0 ^ { - 1 0 }$ fallswithin 6 kb of the tasselseed2 (ts2) gene (Fig.1a and Table S4).Additionally，we identified 23 new candidate genes that were remarkably associated with tassel phenotypic variations and that are specifically expressed in the male florescence (Eveland et al.，2014).These candidate genes are involved in tassel development and provide positive information for dissecting the genetic basis of tassel architecture variations. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/74e1ccfaaceb64c18c991fcf7774151c05c888e0fa8e3cb2f9cf24b6d247ccf5.jpg",
+        "img_caption": [
+            "Figure 3 Overlapping between QTNs and QTL identified by joint linkage.Rectangles filled with dark-blue and dark-red meant observed values for TLand TBN,respectively.Rectangles filled with olive and purple meant random values for TL and TBN,respectively.Plot'a'showed the proportion of QTNs fell within QTL intervals. And plot $' \\mathrm { b ^ { \\prime } }$ showed the ratio of intra-QTL number versus that of inter-QTL intervals. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Comparison of GWAS among different populations ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The GWAS results using different populations were compared (Table1,Fig.5 and Table S4).For the TL trait,252 QTNs were identified when using the largest mapping population of CN&US NAM (6595 RILs)，which showed the highest number of QTNs among the three NAM populations; only 106 QTNs were identified in US NAM using 4623 RILs，and 39 QTNs were identified in CN NAM using 1972 RILs.In addition,the American panel with 280 lines and the Chinese panel with 665 lines showed no detection of TL-related QTNs when using the two populations independently;however，19 TL-related QTNs were identified when the two APs were combined (Fig.5 TL).For the TBN trait,328 QTNs Were identified using CN&US NAM,which also showed the highest number of QTNs compared with the other two NAM populations; no QTN was found in US AP, whereas11 QTNswere found in CN AP and15 QTNswere found in CN&US AP (Fig.5 TBN). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/5600fa16d2fdc12847cf159710d551c493685f7231eaee8d3271986a773fe82e.jpg",
+        "img_caption": [
+            "Figure 4 QTNs enrichment in candidate genes. Significantly overlapping was found. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Abundant phenotypic variations in the male inflorescence ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The US NAM involved included 26 diverse parental inbreds,which maximized the maize phenotypic diversity in the population (McMullen et al.,2oo9).In the study conducted by Brown et al. (2011),the population had a large phenotypic variation in TL, ranging from3.80 to $5 8 . 5 0 ~ { \\mathrm { c m } }$ ,and in TBN,ranging from1.00 to 41.00 (Table 1)，which was considerably higher than in the bi-parental populations of $\\mathsf { I L P \\times }$ B73 (Upadyayula et al.，2006) and Chang $7 \\mathrm { - } 2 \\times 7 8 7$ (Chen etal.，2014). Because greater phenotypic variation would be beneficial for dissecting the genetic architecture of the male inflorescence,more experimental materials,including 1732 RILs of CN NAM and 945 diverse lines of CN&US AP,were added in the present study.These lines were evaluated across 13 environments,and the results showed that the phenotypic variations in TL and TBN were remarkably higher than those in any single population described previously (Brown et al.,2011; Chen etal.,2014;Upadyayula etal.,2006). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Common and adaptive loci affect male inflorescence conjointly ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results obtained in this study revealed some common and adaptive genetic loci in both CN NAM and US NAM.A total of 25 common QTLs (17 for TBN and 8 for TL) between CN NAM and US NAM,32 specific QTLs in CN NAM(15 for TBN and 17 for TL) and 51 specific QTLs in US NAM (22 for TBN and 29 for TL) were identified (Fig.2a,b).In addition,64 QTNs were co-located within 25 common QTL intervals,340 QTNs fell within 51 US NAM QTL intervals，and 139 QTNs fell within 32 CN NAM QTL intervals (Table S4).A common genetic mechanism for the male inflorescence is perhaps under standable because some parental inbreds of CN NAM were clustered into the same group as that of US NAM (Fig.S1).The adaptive genetic loci that were detected might be explained by the different germplasm background of CN NAM and US NAM.The common parent of US NAM, that is B73,which isarepresentative inbred of the SS group,iswidely used in the U.S.maize breeding programme (van Heerwaarden et al.,2012), with TBN of $1 0 . 2 4 \\pm 4 . 9 4$ (Table S2).The other 25 parents of US NAM，including 13 inbreds from tropical regions (TBN of $1 1 . 5 7 \\pm 5 . 3 2$ )，9inbreds from temperate regions (TBNof $6 . 5 5 \\pm 5 . 9 6 )$ and 3 from Europe (TBN of $6 . 2 5 \\pm 5 . 7 8$ ，showed largervariations in the male inflorescence, that is the tropical lines showed the largest TBN value,which is consistent with the report of higher diversity in tropical maize germplasm (Yan et al.,2009). However,according to Mir et al. (2013),maize in Eastern Asia is closely related to the Mexican highland landraces.After its initial introduction into China，probably 5oo years ago，maize has extended to wide regions of this country and has formed a number of landraces with strong adaptability. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Huangzaosi (HZS) is a typical inbred line that was derived from local Chinese landraces.This line has well-developed tassels to provide abundant pollen under different ecological environments and has an average TBN of $1 3 . 9 3 \\pm 4 . 3 4 .$ ，which is significantly higher than that of B73 (Table S2).The feature of large tassels is one reason why HZS is more adaptive than B73 in the Chinese maizebreedingprogramme，especially intheHuanghuihai region. HZS has become a foundation line in the TSPT group, which isa popular heterotic group used in China (Wang et al., 2011).The other parents of CN NAM included 5 inbreds from TSPT，3 from modified Reid,1 from Lancaster and 2 from Temtropic l,some of which were derived from U.S.germplasm (Wang et al.,2008;Wu et al.,2014).Thus,although the number of QTL detected in CN NAM was less than that in US NAM due to a narrower genetic diversity of the CN NAM population，a joint analysis of the two NAM populations could reveal the common and adaptive genetic loci controling the male inflorescence of maize.This information may provide interesting clues for maize improvement programmes with different breeding targets aimed at different environments. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Larger and more diverse mapping populations improved the detection resolution ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Differences in the population size and genetic diversity would be the main factors for different detection resolutions and power because larger population sizes and allelic diversity would contain a greater number of recombinants (McMullen et al.,2o9). In this study,the two independent NAM populations were used in the joint-linkage analysis,resulting in 72and 53 male inflorescencerelated QTLs thatwere identified in US NAM using 4623 RILsand CN NAM using 1972 RILs，respectively (Table S5 and S6). In addition,269,71 and 580 male inflorescence-related QTNs were identified in US NAM,CN NAM and CN&US NAM,respectively (Table S4).For the association panels, CN&US AP with 945 diverse lines showed the highest resolution with 34 tassel-associated QTNs，whereas CN AP with 665 inbreds showed the second highest resolution with 11 tassel-associated QTNs,and US AP with 280 lines had no detection power (Table S4).The results suggest that larger and more diverse populations may benefit the dissection of the genetic architecture of complex traits,irespective of the linkage analysis and GWAS. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Extensive genetic loci and candidate genes involved in the male inflorescence ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To explore the biological connection of the QTLs/QTNs to the causal genes,we examined the genes that our QTLs/QTN landed exactly and the nearby candidate genes.The annotation of biological information (MaizeGDB:http://www.maizegdb.org) showed that a total of 503 QTNs fell within genes,including those encoding 57 transcription factors (TF),29 kinases,and 22 ubiquitin-proteasome system (UPS) and 395 unknown types (Table S4).Among the 13 TBN-and TL-related genes validated by Brown et al.(2011)with peak signal SNPs falling within 1 cM of the genes,8 genes were identified in this study,with peak signal SNPs falling within 2oO kb of the genes (Table 2),including kn1 (Bolduc et al.，2012)，lg2 (Walsh et al.，1998)，zfl2 (Bomblies et al.，2003)，td1 (Bommert et al.，2005)，ts2 (Kindiger et al., 1995),ra1 (Vollbrecht et al.,2005),ra3 (Satoh-Nagasawa et al., 2006)and fasciated ear2 (fea2) (Taguchi-Shiobara etal.,2001). In addition,another 16 known TBN- and TL-related genes cloned using mutant genetics were also validated in this study,including ba1 (Barazesh and McSteen,2008),bd1 (Chuck et al.,2002),ts6 (Chuck et al.，2007)， ts1 (Hultquist and Dorweiler， 2008), tasselsheath4 (tsh4) (Chuck et al.，201O)，bad1 (Bai et al., 2012)，ub2 and ub3 (Chuck etal.，2014)，and tga1(Preston et al.,2012) (Fig.1 and Table 2). ",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/8dd7420a2d9f4496fb8ed69010e44be1520e791d7c7100800ecc5cd9db212157.jpg",
+        "table_caption": [
+            "Table 2 Candidate genes involved in tassel development "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SNP</td><td>Trait</td><td>Chr.</td><td>Position</td><td>Falling in CN NAM QTL interval</td><td>Falling in US NAM QTLinterval</td><td>Name of gene/id</td><td>Expressi specific</td></tr><tr><td>S1_16777433</td><td>TL</td><td>1</td><td>16777433</td><td>Yes</td><td></td><td>GRMZM5G838098</td><td>Yes</td></tr><tr><td>S1_40420190</td><td>TP</td><td>1</td><td>40420190</td><td></td><td>Yes</td><td>ibp2</td><td></td></tr><tr><td>S1_46687160</td><td>TP</td><td>1</td><td>46687160</td><td></td><td>Yes</td><td>ts2</td><td></td></tr><tr><td>S1_52095937</td><td>TL</td><td>1</td><td>52095937</td><td></td><td>Yes</td><td>cal3</td><td></td></tr><tr><td>S1_61020552</td><td>TL</td><td>1</td><td>61020552</td><td></td><td>Yes</td><td>GRMZM5G885628</td><td>Yes</td></tr><tr><td>S1_64014376</td><td>TL</td><td>1</td><td>64014376</td><td>Yes</td><td></td><td>pdlk1</td><td></td></tr><tr><td>S1_119091806</td><td>TP</td><td>1</td><td>119091806</td><td></td><td></td><td>aic1</td><td></td></tr><tr><td>S1_180307882</td><td>TL</td><td>1</td><td>180307882</td><td>Yes</td><td>Yes</td><td>bx9</td><td></td></tr><tr><td>S1_187646982</td><td>TL</td><td>1</td><td>187646982</td><td>Yes</td><td>Yes</td><td>GRMZM2G141320</td><td>Yes</td></tr><tr><td>S1_188063921</td><td>TL</td><td>1</td><td>188063921</td><td>Yes</td><td>Yes</td><td>ub2</td><td></td></tr><tr><td>S1_199964537</td><td>TP</td><td>1</td><td>199964537</td><td>Yes</td><td>Yes</td><td>hm1</td><td></td></tr><tr><td>S1_238819120</td><td>TL</td><td>1</td><td>238819120</td><td></td><td></td><td>id1</td><td></td></tr><tr><td>S1_258800198</td><td>TP</td><td>1</td><td>258800198</td><td></td><td></td><td>tbp1</td><td></td></tr><tr><td>S1_267366245</td><td>TP</td><td>1</td><td>267366245</td><td></td><td></td><td>gln2</td><td></td></tr><tr><td>S1_269358662</td><td>TL</td><td>1</td><td>269358662</td><td></td><td></td><td>phyA1</td><td></td></tr><tr><td>S1_271913038</td><td>TP</td><td>1</td><td>271913038</td><td></td><td></td><td>kn1</td><td></td></tr><tr><td>S1_276255020</td><td>TL</td><td>1</td><td>276255020</td><td></td><td></td><td>exg1</td><td></td></tr><tr><td>S1_277844691</td><td>TL</td><td>1</td><td>277844691</td><td></td><td>Yes</td><td>mta1</td><td></td></tr><tr><td>SYN13726</td><td>TL</td><td>1</td><td>279007172</td><td></td><td></td><td>cka2</td><td></td></tr><tr><td>S1_281100720</td><td>TL</td><td>1</td><td>281100720</td><td></td><td>Yes Yes</td><td>lem1</td><td></td></tr><tr><td>S1_286514978</td><td>TP</td><td>1</td><td>286514978</td><td></td><td></td><td>vp8</td><td></td></tr><tr><td>S1_288396001</td><td>TP</td><td>1</td><td>288396001</td><td></td><td></td><td>GRMZM2G046163</td><td>Yes</td></tr><tr><td>S1_292326337</td><td>TP</td><td>1</td><td>292326337</td><td></td><td></td><td>ts6</td><td></td></tr><tr><td>S1_299609447</td><td>TP</td><td>1</td><td>299609447</td><td></td><td></td><td>akin1</td><td></td></tr><tr><td>S2_4101480</td><td>TP</td><td>2</td><td>4101480</td><td>Yes</td><td>Yes</td><td>lg1</td><td></td></tr><tr><td>S2_7099518</td><td>TP</td><td>2</td><td>7099518</td><td></td><td></td><td>sgb101</td><td></td></tr><tr><td>S2_10568439</td><td>TL</td><td>2</td><td>10568439</td><td>Yes</td><td></td><td>GRMZM2G049538</td><td>Yes</td></tr><tr><td>S2_12687587</td><td>TP</td><td>2</td><td>12687587</td><td></td><td>Yes</td><td>zf12</td><td></td></tr><tr><td>S2_14467324</td><td>TP</td><td>2</td><td>14467324</td><td>Yes</td><td></td><td>CDPK1</td><td></td></tr><tr><td>S2_16037854</td><td>TP</td><td>2</td><td>16037854</td><td>Yes</td><td></td><td>hon101</td><td></td></tr><tr><td>S2_17230208</td><td>TP</td><td>2</td><td>17230208</td><td>Yes</td><td></td><td>nfd102</td><td></td></tr><tr><td>S2_36359741</td><td>TP</td><td>2</td><td>36359741</td><td></td><td></td><td>mas1</td><td></td></tr><tr><td>S2_41479516</td><td>TP</td><td>2</td><td>41479516</td><td></td><td></td><td>grf1</td><td></td></tr><tr><td>S2_44203460</td><td>TP</td><td>2</td><td>44203460</td><td></td><td></td><td>GRMZM2G470882</td><td>Yes</td></tr><tr><td>S2_44697923</td><td>TP</td><td>2</td><td>44697923</td><td></td><td></td><td>ts1</td><td></td></tr><tr><td>S2_47088159</td><td>TP</td><td>2</td><td>47088159</td><td></td><td></td><td>opr5</td><td></td></tr><tr><td>S2_51005257</td><td>TL</td><td>2</td><td>51005257</td><td></td><td></td><td>gpm300</td><td></td></tr><tr><td>S2_54458735</td><td>TP</td><td>2</td><td>54458735</td><td></td><td></td><td>hrg1</td><td></td></tr><tr><td>S2_118615859</td><td>TL</td><td>2</td><td>118615859</td><td></td><td></td><td>GRMZM2G147491</td><td>Yes</td></tr><tr><td>S2_172491959</td><td>TP</td><td>2</td><td>172491959</td><td></td><td>Yes</td><td>akh2</td><td></td></tr><tr><td>S2_176647351</td><td>TP</td><td>2</td><td>176647351</td><td></td><td>Yes</td><td>vdac1a</td><td></td></tr><tr><td>S2_179817326</td><td>TP</td><td>2</td><td>179817326</td><td></td><td>Yes</td><td>bad1</td><td></td></tr><tr><td>S2_184964564</td><td>TP</td><td>2</td><td>184964564</td><td></td><td>Yes</td><td>GRMZM2G414252</td><td>Yes</td></tr><tr><td>S2_213205215</td><td>TP</td><td>2</td><td>213205215</td><td></td><td></td><td>GRMZM2G075244</td><td>Yes</td></tr><tr><td>S2_224064908</td><td>TP</td><td>2</td><td>224064908</td><td></td><td></td><td>rrb1</td><td></td></tr><tr><td>S2_229451557</td><td>TP</td><td>2</td><td>229451557</td><td></td><td></td><td>pls1</td><td></td></tr><tr><td>S2_235802795</td><td>TP</td><td>2</td><td>235802795</td><td></td><td></td><td>zap1</td><td></td></tr><tr><td>S3_53737606</td><td>TP</td><td>3</td><td>53737606</td><td>Yes</td><td></td><td>1g3</td><td></td></tr><tr><td>S3_137240173 S3_176567842</td><td>TP TP</td><td>3 3</td><td>137240173 176567842</td><td></td><td>Yes Yes</td><td>zag2 1g2</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c64df87c02fb81832b468c191ac4d17bdd6a3ed430249f49892a13010416448.jpg",
+        "table_caption": [
+            "Table 2 Continued "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>SNP</td><td>Trait</td><td>Chr.</td><td>Position</td><td>Falling in CN NAM QTL interval</td><td>Falling in US NAM QTL interval</td><td>Name of gene/id</td><td>Express specific</td></tr><tr><td>S4_133453055</td><td>TL</td><td>4</td><td>133453055</td><td></td><td></td><td>fea2</td><td></td></tr><tr><td>S4_143822114</td><td>TL</td><td>4</td><td>143822114</td><td></td><td></td><td>pip2c</td><td></td></tr><tr><td>S4_153535768</td><td>TP</td><td>4</td><td>153535768</td><td>Yes</td><td></td><td>pip1c</td><td></td></tr><tr><td>S4_166926544</td><td>TP</td><td>4</td><td>166926544</td><td></td><td>Yes</td><td>GRMZM2G362823</td><td>Yes</td></tr><tr><td>S4_167185789</td><td>TP</td><td>4</td><td>167185789</td><td></td><td>Yes</td><td>gln5</td><td></td></tr><tr><td>S4_170970713</td><td>TP</td><td>4</td><td>170970713</td><td></td><td>Yes</td><td>prh1</td><td></td></tr><tr><td>S4_175723750</td><td>TP</td><td>4</td><td>175723750</td><td></td><td></td><td>Ikrsdh1</td><td></td></tr><tr><td>S4_177599861</td><td>TP</td><td>4</td><td>177599861</td><td></td><td></td><td>acco20</td><td></td></tr><tr><td>S4_178821367</td><td>TP</td><td>4</td><td>178821367</td><td></td><td></td><td>tu1</td><td></td></tr><tr><td>S4_180444282</td><td>TP</td><td>4</td><td>180444282</td><td></td><td></td><td>rp/29</td><td></td></tr><tr><td>S4_181871621</td><td>TP</td><td>4</td><td>181871621</td><td></td><td></td><td>gol1</td><td></td></tr><tr><td>S4_188156035</td><td>TP</td><td>4</td><td>188156035</td><td></td><td></td><td>rcph2</td><td></td></tr><tr><td>S4_188415555</td><td>TP</td><td>4</td><td>188415555</td><td></td><td></td><td></td><td></td></tr><tr><td>S4_199365817</td><td>TP</td><td>4</td><td>199365817</td><td></td><td></td><td>zcn6 ub3</td><td></td></tr><tr><td>S4_200032051</td><td>TL</td><td>4</td><td>200032051</td><td></td><td>Yes</td><td>GRMZM2G465165</td><td></td></tr><tr><td>S4_233628414</td><td>TP</td><td>4</td><td>233628414</td><td></td><td></td><td>GRMZM2G015419</td><td>Yes Yes</td></tr><tr><td>S5_30165927</td><td>TL</td><td>5</td><td>30165927</td><td></td><td></td><td>eif7</td><td></td></tr><tr><td>S5_60804319</td><td>TL</td><td>5</td><td>60804319</td><td></td><td>Yes</td><td>cdpk1</td><td></td></tr><tr><td>S5_61671700</td><td>TL</td><td>5</td><td>61671700</td><td></td><td>Yes</td><td>td1</td><td></td></tr><tr><td>S5_83868038</td><td>TP</td><td>5</td><td>83868038</td><td></td><td></td><td>hppd1</td><td></td></tr><tr><td>S6_24606844</td><td>TL</td><td>6</td><td>24606844</td><td></td><td>Yes</td><td>gsh1</td><td></td></tr><tr><td>S6_80949310</td><td>TL</td><td>6</td><td>80949310</td><td></td><td></td><td></td><td></td></tr><tr><td>S6_82616120</td><td>TL</td><td>6</td><td>82616120</td><td></td><td></td><td>prc1 chn2</td><td></td></tr><tr><td>S6_121499756</td><td>TP</td><td>6</td><td>121499756</td><td></td><td></td><td>zcn11</td><td></td></tr><tr><td>S6_135884240</td><td>TP</td><td>6</td><td>135884240</td><td></td><td>Yes</td><td>sod3</td><td></td></tr><tr><td>S6_153206873</td><td>TP</td><td>6</td><td>153206873</td><td>Yes</td><td></td><td>GRMZM2G047762</td><td></td></tr><tr><td>PZE-107005664</td><td>TP</td><td>7</td><td>3892964</td><td></td><td></td><td>GRMZM2G450866</td><td>Yes</td></tr><tr><td>S7_22013295</td><td>TP</td><td>7</td><td>22013295</td><td></td><td></td><td>sid1</td><td>Yes</td></tr><tr><td>S7_24412425</td><td>TP</td><td>7</td><td>24412425</td><td></td><td>Yes</td><td>crt2</td><td></td></tr><tr><td>S7_110782210</td><td>TP</td><td>7</td><td>110782210</td><td>Yes</td><td>Yes</td><td>ra1</td><td></td></tr><tr><td>S7_133158462</td><td>TL</td><td>7</td><td>133158462</td><td>Yes</td><td></td><td>tsh4</td><td></td></tr><tr><td>S7_162978078</td><td>TP</td><td>7</td><td>162978078</td><td></td><td></td><td>tif5A</td><td></td></tr><tr><td>S7_166371210</td><td>TP</td><td>7</td><td>166371210</td><td>Yes</td><td>Yes</td><td>rps6</td><td></td></tr><tr><td>S7_166858805</td><td>TP</td><td>7</td><td>166858805</td><td>Yes</td><td>Yes</td><td>ra3</td><td></td></tr><tr><td>S7_168576142</td><td>TP</td><td>7</td><td>168576142</td><td></td><td></td><td>PDK2</td><td></td></tr><tr><td>S7_171933622</td><td>TP</td><td>7</td><td>171933622</td><td></td><td></td><td>bd1</td><td></td></tr><tr><td>S8_6359026</td><td>TL</td><td>8</td><td>6359026</td><td></td><td>Yes</td><td>GRMZM2G058404</td><td>Yes</td></tr><tr><td>S8_22641462</td><td>TL</td><td>8</td><td>22641462</td><td></td><td></td><td>zmm2</td><td></td></tr><tr><td>S8_100398177</td><td>TP</td><td>8</td><td>100398177</td><td>Yes</td><td></td><td>act1</td><td></td></tr><tr><td>PZE-108089142</td><td>TP</td><td>8</td><td>146114537</td><td></td><td></td><td>GRMZM2G070837</td><td>Yes</td></tr><tr><td>PZA02403.12</td><td>TP</td><td>8</td><td>153895493</td><td></td><td></td><td>GRMZM5G833406</td><td>Yes</td></tr><tr><td>S8_157747137</td><td>TL</td><td>8</td><td>157747137</td><td></td><td>Yes</td><td>GRMZM2G307756</td><td>Yes</td></tr><tr><td>S8_158571117</td><td>TL</td><td>8</td><td>158571117</td><td></td><td>Yes</td><td>elm1</td><td></td></tr><tr><td>S8_173079005</td><td>TL</td><td>8</td><td>173079005</td><td></td><td>Yes</td><td>gst1</td><td></td></tr><tr><td>S9_61296310</td><td>TL</td><td>9</td><td>61296310</td><td></td><td>Yes</td><td>pep1</td><td></td></tr><tr><td>S9_134997977</td><td>TP</td><td>9</td><td>134997977</td><td></td><td></td><td>phyB2</td><td></td></tr><tr><td>S9_135481090</td><td>TL</td><td>9</td><td>135481090</td><td></td><td></td><td>NAS1</td><td></td></tr><tr><td>S9_139749854</td><td>TL</td><td>9</td><td>139749854</td><td></td><td></td><td>IBP1</td><td></td></tr><tr><td>PZE-109103089 S9_151732656</td><td>TL TL</td><td>9 9</td><td>146685045 151732656</td><td>Yes</td><td>Yes</td><td>ZMM8 gst9</td></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/de5f5c540790bf62f1fd1b76b8914bec34479f26717f6420fd164ffbd34b1191.jpg",
+        "img_caption": [
+            "Figureompatectsoutsbvtethdev "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "More importantly，23 new candidate genes were identified With peak signal SNPs falling within $2 0 0 ~ \\mathsf { k b }$ of the genes (Table 2).These genes are specifically expressed in the male inflorescence (Eveland et al.,2014). For example,a TIFY domain protein (GRMZM5G838098) that was previously annotated as a zinc transporter and which is highly expressed in the florescence meristem of rice (Nishii et al.,2ooO)was suggested to coordinate tissue growth,modulate lamina size and regulate cell cycle arrest in Arabidopsis (White,2oo6).The adapt in terminal region protein (GRMZM5G885628) played multiple roles in regulatingthe soluble NSF attachment protein receptor (SNARE) activity and targeting via interaction with other traficking proteins (Vedovato et al.，2oo9),which indicates a central role in the mechanics of cell growth and development (Blatt et al.， 20o8)． Monogalactosyl-diacyl-glycerol (MGDG) synthase (GRMZM2G141320) was shown to be essential for the synthesis of galactolipids and the development of photosynthetic membranes in Arabidopsis (Dubots et al.，2010).Tryptophan synthase (GRMZM2G046163) isable to catalyse reaction-producing indole (Kriechbaumer et al., 2008),which is required for tryptophan synthesis for improving the nutritional quality of cereal (Wenefrida et al.,2013). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Terpene synthase (GRMZM2G049538) catalyses the biosynthesis of terpene，which defends the plant from insect attack (Schnee et al.,2002).O-methyl-transferase (GRMZM2G147491) isa key enzyme in the biosynthesis of lignin (Fornale et al.,2006), which could increase the strength and stiffness of fibres,improve the efficiency of water transport through the vascular systemand protect plants from pathogen attack (Boerjan et al.，2oo3).The helix-loop-helix (HLH) DNA-binding proteins (GRMZM2G414252 and GRMZM2G042895) regulate the biosynthesis of anthocyanin inmaize (Tominaga-Wada et al.,2012),which attracts pollinators and seed dispersers and defends plants against abiotic and biotic stresses (Petroni and Tonelli， 2011). Cytochrome(P450) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(GRMZM2G075244) affects meristem function (Miyoshi et al., 2004).Glutathione S-transferase (GRMZM2G447632) plays a role in the cellular response to auxins during the normal metabolism of plant secondary products, such as anthocyanins and cinnamic acid(BanerjeeandGoswami, 2013).Legumelectin (GRMZM2G465165)contains a conserved residue of carbohydraterecognition domain (CRD)，which isassociated with organisms from all kingdoms of life(De Hoff et al.，2oo9)and which can coordinate metals ( $\\cdot \\mathsf { C a } ^ { 2 + }$ and ${ \\mathsf { M } } { \\mathsf { n } } ^ { 2 + }$ (Arason,1996)and bind to phytohormones such as adenine-related cytokinins, abscisic acid and gibberellic acid (Bogoeva et al.，2oo4).The SBP-box protein (GRMZM2G058588) regulates primordia initiation,and family members of the transcription factor genesub2 and ub3 affect TBN (Chuck et al.,2014). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These candidate genes may play important roles in male inflorescence development,but their biological functions require further investigation.Although many of QTLs/QTNs identified in thisstudy were enriched for previous candidate gene studies,our study was primary served the first step towards full discoveries of genes controlling male inflorescence. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Materialsand methods ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Plant materials and phenotypic evaluations ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A total of 6595 recombinant inbred lines (RlLs) were used in this study,including 4623 RILs from US NAM and 1972 RILs from CN NAM.The construction of US NAM and CN NAM has been described previously (McMullen et al.，2oo9). In addition，one global association panel consisting of 945 diverse lines was used in this study，which was collected from the U.S.and China, including one U.S.association panel (US AP) with 280 diverse lines and one Chinese association panel (CN AP) with 665 diverse lines.Detailed information on the NAM parents,CN NAM RILs and AP lines are listed in Table S1 and shown in Figure S1. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For US NAM and US AP,the TBN and TL data were collected across eight environments that were described previously (Brown et al.，2O11).For CN NAM,TBN and TL were measured in six environments,including Beijing in 20o9 and 2010,Xinxiang in Henan Province in 2009 and 2010，and Urumqi in Xinjiang Province in 2009 and 2010.For CN AP，TBN and TL were measured insix environments，includingBeijingin2011, Changchun in Jinlin Province in 2O11，Nanchong in Sichuan Province in 2011，Tai'an in Shandong Province in 2011 and Xinxiang in Henan Province in 2011 and 2012.At each location, the parental lines and the RILs were planted according to a randomized experimental design,with a single row plot,a row lengthof $3 ~ \\mathsf { m } .$ $0 . 6 \\mathrm { ~ m ~ }$ between adjacent rows,two replications and 11 plants in each row.TL and TBN were measured 15 days after pollen shedding，according to a method described previously (Brown et al.,2011).TLwas defined as the length from the base of the first branch to the tip of the tassel,measured in centimetres (cm),and TBN was counted in the branch zone. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic data analysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic data analysis was performed using SAS software (Release 9.3;SAS Institute,Cary，NC)，and ANOVA was performed using the PROC GLM model.Pearson correlation analysis Was calculated using the PROC CORR model.The broad-sense heritability $( { \\mathsf { h } } ^ { 2 } )$ for TBN and TL was calculated as follows: $h ^ { 2 } = \\sigma _ { g } ^ { 2 } / ( \\sigma _ { g } ^ { 2 } + \\sigma _ { g \\mathrm e } ^ { 2 } / n + \\sigma _ { \\varepsilon } ^ { 2 } / n k )$ (Hallauerand_Miranda，1988), where $\\overline { { \\sigma _ { g } ^ { 2 } } }$ is the genotypic variance, $\\sigma _ { g e } ^ { 2 }$ is the interactive variance of genotype and environment, $\\sigma _ { \\it _ { \\it \\mathrm { ~ \\it ~ \\it ~  ~ } } } ^ { 2 }$ is the error variance,and $n$ and $k$ represent the environment and replication number,respectively. The best linear unbiased predictor (BLUP) calculation was performed using the PROC MIXED model，with genotype, location，genotype\\*location and replicationsas random effects (Brown et al.,2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Joint-linkageanalysis ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The RILs from CN NAM and US NAM were genotyped using the method of genotyping by sequencing (GBS) (EIshire et al.,2011). High-density markers $( \\sim 1 \\ 0 0 0 \\ 0 0 0 \\ 5 \\mathsf { N P S } )$ were obtained，and approximately 950 Oo0 high-quality SNPs were selected to construct a bin map.A total of 5296 and 4932 bin markers Were observed for US NAM and CN NAM, respectively (Li et al.. 2015).To perform the joint-linkage analysis of TBN and TL, these bin markers were selected independently in US and CN NAM using the stepwise selection procedure in the PROC GLMSELECT model (Brown etal.，2011).TBN- and TL-related QTLs were independently mapped in US NAM using 4623 RILs and in CN NAM using 1972 RILs.For US NAM， the family term was introduced into the model,and each of the 5296 marker-byfamily terms was made available for inclusion.Significance levels for the entry and exit of the model terms were determined by permutation as follows: Phenotypic data were separately permuted against the genotypic data within each family.All 5296 marker-by-family terms were tested,and the lowest $P$ valuewas recorded for each permutation.A total of 1ooo permutations were performed,and alpha was set at 0.001.For CN NAM,4932 bin markers were used to perform the joint-linkage analysis using the same method described for US NAM.For each single biparental family,QTLanalysis was performed using the IciMapping software with a modified algorithm of composite interval mapping (ICIM) (Li et al.,2007). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Genomewide association study of tassel-related traits ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The genomewide association study (GWAS) used the association panel (AP) that was genotyped previously using the MaizeSNP50 BeadChip (Cook et al.,2012;Wu etal.,2014) and the two NAMs that were genotyped as described above.All markers were screened according to the following criteria:(i) the minor allele frequency (MAF) was larger than O.O5,and (ii) the marker had an unambiguous position on the physical map.Subsequently,GWAS analysis was performed independently for US NAM,CN NAM, CN&US NAM，US AP，CN AP and CN&US AP.Approximately 0.5million SNPs for the NAMs and 44 OOO SNPs for AP were selected to conduct the GWAS by using mixed linear model implemented in the GAPlT R package (Lipka et al.,2012). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "On top of GWAS analysis，we used the subsampling-based multiple SNPs model (Brown et al.，2011；Tian et al.，2011). Briefly, $80 \\%$ of the original entries were sampled in the new subpopulation without replacement,and forward regression was used to fit the SNPs using permutation-derived significance thresholds.This process was repeated 1oo times to obtain a bootstrap posterior probability (BPP) value for each SNP,ranging from O to 1,which represented the proportion of samples in which that SNP was selected.Only SNPs with BPP values greater than or equal to O.o5 were considered to be significantly associated with phenotypic variations and were then designated to quantitative trait nucleotides (QTNs). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Overlapping between QTNs identified using GWAS and QTLs identified by joint-linkage analyses ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the overlap between the GWAS and joint-linkage results,549 observed TBN-,416 observed TL-associated QTNs and 125QTLs identified in CN NAM and U.S.NAM were selected to compare whether QTNs filled within QTLs according to the identical physical position.If one QTN filled within QTL，we deduced this QTN was overlapped with relevant QTL, in contrast, none overlapped was existed between QTN and QTL.Then, calculate the actual proportion of overlapped QTNs,with the number of QTNs filled within QTLs divided by the total number of QTNs,which was defined as actual intra-QTL ratio.In addition,a subset of 965 SNPs was randomly sampled from 0.5 million SNPs across the genome,with 1ooo replications.Then,the proportion of random SNPs falling within the QTL intervals was calculated as described above, this was defined as the expected intra-QTL ratio by chance.Then,a comparison analysis between the actual intraQTLratio and random intra-QTL ratio was performed using the binomial distribution test,and overlaps between the QTNs and QTLswere recorded as significant when the actual intra-QTL ratio was significantly higher than the expected intra-QTL ratio (Tian et al.，2011).Beyond that，we have compared the significant differences of (intra-QTL ratio)/(1-intra-QTL ratio)between actual values and expected ones using the binomial distribution test，providing another proof for validating the overlapping between GWAS results and linkage results. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "QTN enrichment in candidate genes associated with tassel traits ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the QTN enrichment,2O3 tassel-related candidate genes were collected according to previous literature (Bai et al., 2012；Brown et al.，2011；Chuck et al.，2007，2014;Eveland et al.,2014;McSteen and Hake,2001).These candidate genes included 43 male inflorescence-related genes cloned using mutant genetics and 164 candidate genes that are specifically expressed in the male inflorescence (Eveland et al.，2014).First,we have defined candidate genetic regions as O,50,100,200 and 400 kb apart from target candidate genes,then evaluate the overlapping between QTNs and relevant candidate genetic regions (CGLs). QTNs falling within CGLaccording to the identical physical position were overlapped with relevant CGLs that were defined as the actual intra-CGL，and relevant number was counted.Then, calculate the actual proportion of overlapped QTNs，with the number of QTNs filled within CGL divided by the total number of QTNs,which was defined as actual intra-CGL ratio.In addition,a subset of 965 SNPs Was randomly sampled from 0.5 million SNPs across the genome,with 10oO replications (Brown et al.,2011). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The proportion of random SNPs faling within CGL intervals was calculated as described above,which wasdefined as the expected intra-CGL ratio by chance.Then,a comparison analysis between the actual intra-CGL ratio and random intra-CGL ratio was performed using the binomial distribution test,overlaps between the QTNs and CGLs were recorded as significant when the actual intra-CGL ratio was significantly higher than the expected intraCGL ratio (Tian et al.,2O11),with ratio of actual values divided by expected ones to be more than 1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Elimination of potential biases due to population structure and nongenetic effects ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Asour plant material was developed and measured in both the USand China，it is critical to eliminate the biases due to germplasm and nongenetic effects such as the environmental difference between the US and China.We have modelled our analyses in three layers to eliminate the potential biases.First, the joint-linkage analyses and the association studies were performed on inbred BLUPs,which were adjusted by locations,and the interaction between inbreds and locations.The phenotypic differences due to nongenetic effects,such as the environmental differences between the US and China，were removed from BLUPs.Second，the joint-linkage analysis included families as covariates.The QTL effects were based on segregation within family.Third，we derived principal components (PCs)from all genetic markers that cover whole maize genome.We incorporated PCsas covariate in the US-CN joint GWAS to eliminate the bias due to population structure. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the National Natural Science Foundation (91335206),the Ministry of Science and Technology of China (2014CB138200,2011DFA30450,2013BAD01B02), the CAAS Innovation Program, the US NSF #0820619,#1238014, the USDA-ARS，and the China Postdoctoral Sciences Foundation (2014M550901). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Arason，G.J.(1996) Lectins as defence molecules in vertebratesand invertebrates.Fish Shellfish Immun.6,277-289.   \nAukerman,M.J.and Amasino,R.M.(1998) Floral induction and florigen.Cell, 93,491-494.   \nBai,F., Reinheimer,R.,Durantini, D., Kellogg,E.A.and Schmidt, R.J. (2012)TCP transcription factor,branch angle deffective1 (bad1),is required for normal tassel branch angle formation in maize.Proc.Natl Acad.Sci.USA,109, 12225-12230.   \nBanerjee,S.and Goswami,R.(2013) GST profile expression study in some selected plants:in silico approach.Mol. Cell. Biochem.380,283-300.   \nBarazesh，S.and McSteen，P.(2oo8)Barren inflorescence1 functions in organogenesis during vegetative and inflorescence development in maize. Genetics,179,389-401.   \nBerke,T.G.and Rocheford,T.R.(1999) Quantitative trait loci for tassel traits in maize. Crop Sci.39,1439-1443.   \nBlatt,M., Johansson,I., Paneque,M.,Pratelli,R., Campanoni,P.,Sokolovski,S. and Honsbein,A. (2Oo8) SNAREs at the traffic junction with signalling, transport and nutrition. Comp Biochem Phys A 150,S141-S141.   \nBoerjan,W.，Ralph,J.and Baucher,M. (2oo3) Lignin biosynthesis.Annu. Rev. Plant Biol. 54,519-546.   \nBogoeva,V.P.,Radeva,M.A.,Atanasova,L.Y.,Stoitsova,S.R.and Boteva,R.N. (2004)Fluorescence analysis of hormone binding activities of wheat germ agglutinin.Biochim.Biophys.Acta,1698,213-218.   \nBolduc，N.，Yilmaz，A.，Mejia-Guerra，M.K.，Morohashi，K.，O'Connor，D. Grotewold,E.and Hake，S.(2012) Unraveling the KNOTTED1 regulatory network in maize meristems. Genes Dev.26,1685-1690.   \nBomblies，K.，Wang，R.L.，Ambrose，B.A.，Schmidt，R.J.，Meeley，R.B．and Doebley,J. (2003) Duplicate FLORICAULA/LEAFY homologs zfl1 and zfl2 control inflorescence architecture and flowerpatterninginmaize. Development,130,2385-2395.   \nBommert,P.,unde,C.,ardmann,J.,Vollbrecht,E,Running,M,JacksonD, Hake,S.et al. (2oo5) thick tassel dwarf1 encodes a putative maize ortholog of the Arabidopsis CLAVATA1 leucine-rich repeat receptor-like kinase. Development,132,1235-1245.   \nBrewbaker,J.L.(2o15) Diversity and genetics of tassel branch numbers in maize. Crop Sci. 55, 65-78.   \nBrown,P.J.，Upadyayula,N.,Mahone,G.S.,Tian,F.，Bradbury，P.J.,Myles,S, Holland,J.B.et al. (2O11) Distinct geneticarchitectures for male and female inflorescence traits of maize. PLoS Genet.7,e1002383.   \nBuckler,E.S.,Holland,J.B.,Bradbury,P.J.,Acharya,C.B.Brown,P.Jrowne, C., Ersoz,E.et al.(2oo9) The genetic architecture of maize flowering time. Science,325,714-718.   \nChen,Z.,Wang,B.,Dong,X.,Liu,H.,Ren,L., Chen,J.,Hauck,A.et al. (2014) Anultra-high density bin-map for rapid QTL mapping for tassel and ear architecture in a large F(2) maize population. BMC Genom.15,433.   \nChuck,G.,Muszynski,M.,Kellogg,E.，Hake,S.and Schmidt,R.J.(2002)The control of spikelet meristem identity by the branched silkless1 gene in maize. Science,298,1238-1241.   \nChuck，G.，Meeley，R.，Irish,E.，Sakai，H.and Hake,S.(2OO7) The maize tasselseed4 microRNA controls sex determination and meristem cell fate by targeting Tasselseed6/indeterminate spikelet1. Nat. Genet.39,1517-1521.   \nChuck,G.,Whipple,C.,Jackson,D.and Hake,S. (2010) The maize SBP-box transcription factor encoded by tasselsheath4 regulates bract development and the establishment of meristem boundaries.Development,137,1243-1250.   \nChuck,G.S.,Brown,P.J., Meeley, R.and Hake,S.(2014)Maize SBP-box transcription factors unbranched2 and unbranched3 affect yield traits by regulating the rate of lateral primordia initiation.Proc. Natl Acad.Sci. USA,111,18775-18780.   \nColasanti，J.，Yuan，Z.and Sundaresan,V. (1998) The indeterminate gene encodes a zinc finger protein and regulates a leaf-generated signal required for the transition to flowering in maize. Cell, 93,593-603.   \nCook,J.P.,McMulln,M.D.,Holland,J.B.,ian,F.,Bradbury,P.,os-brra,, Buckler,E.S.et al. (2012) Genetic architecture of maize kernel composition in the nested asociation mapping and inbred association panels.Plant Physiol. 158,824-834.   \nCrue,R.and Wasson,C.(1996) Genetic analysis of tassel size and leaf senescence and their relationship with yield in two tropical low lands maize populations. Crop Sci.4,275-281.   \nDe Hoff,P.L., Brill,L.M.and Hirsch,A.M.(20o9)Plant lectins: the ties that bind in root symbiosis and plant defense. Mol. Genet. Genomics,282,1-15.   \nDubots,E.,Audry,M.,Yamaryo,Y.,Bastien,O.,Ohta,H.,Breton,C.,Marechal, E.et al.(2010)Activation of thechloroplast monogalactosyldiacylglycerol synthase MGD1by phosphatidicacid and phosphatidylglycerol.J.Biol. Chem. 285, 6003-6011.   \nDuvick,D.N.and Cassman,K.G.(1999) Post-green revolution trends in yield potential of temperate maize in the north-central United States. Crop Sci. 39, 1622-1630.   \nElshire,R.J.,Glaubitz,J.C.,Sun,Q.,Poland,J.A.,Kawamoto,K.，Buckler,E.S. and Mitchell, S.E. (2011)A robust, simple genotyping-by-sequencing (GBS) approach for high diversity species.PLoS One 6,e19379.   \nEveland,ALodshmidt,A.utler,orohashi，K.iseron-onfils Lewis,M.W.,Kumari, S.et al. (2014) Regulatory modules controlling maize inflorescence architecture.Genome Res.24,431-443.   \nFornale,S.,Sonbol,F..,Maes,T.,Capelldes,M.,uigdomenech,P.,igau,J. and Caparros-Ruiz, D. (20o6) Down-regulation of the maize and Arabidopsis thaliana caffeic acid O-methyl-transferase genes by two new maize R2R3- MYB transcription factors.Plant Mol. Biol.62,809-823.   \nHallauer，A.R．and Miranda，J.B.(1988)Quantitative Genetics in Maize Breeding.Ames,IA: lowa State University,283.   \nvan Heerwaarden，J.，Hufford，M.B．and Ross-lbarra,J.(2012）Historical genomics of North American maize. Proc. Natl Acad.Sci. USA,109,12420- 12425.   \nHultquist,J.F.and Dorweller,J..(ZUu8)Feminized tassels ot maize mopl and ts1 mutants exhibit altered levels of miR156 and specific SBP-box genes. Planta,229,99-113.   \nKindiger，B.，Blakey，C.A.and Dewald,C.(1995) Sex reversal in Maize X Tripsacum hybrids - allelic non-complementation of Ts2 And Gsf1.Maydica, 40,187-190.   \nKriechbaumer,V.,Weigang,L.,Fiesselmann,A.,Letzel,T.,Frey,M.,Gierl,A. and Glawischnig,E. (2oo8) Characterisation of the tryptophan synthase alpha subunit in maize.BMC Plant Biol.8,44.   \nKump，K.L.，Bradbury,P.J., Wisser,R.J., Buckler,E.S.，Belcher,A.R.，OropezaRosas,M.A., Zwonitzer,J.C.et al.(2011) Genome-wide association study of quantitative resistance to southern leaf blight in the maize nested association mapping population. Nat. Genet. 43,163-168.   \nLi, H.,Ye,G.and Wang,J. (20o7)A modified algorithm for the improvement of composite interval mapping. Genetics,175,361-374.   \nLi, C.H,Li,Y.X.,Bradbury,P.J.,W,X.,Shi,Y.S.,Song,Y.C.,Zhang,D.F.et al. (2015)Construction of high-quality recombination maps with low-coverage genomic sequencing for joint linkage analysis in Maize. BMC Biol.,13,78.   \nLipka,A.E.,Tian,F.,Wang,Q.,Peiffer,J.,Li,J., Bradbury,P.J., Gore,M.A. et al. (2012）GAPIT: genome association and prediction integrated tool. Bioinformatics 28,2397-2399.   \nMcMullen,M.D., Kresovich,S., Villeda, H.S., Bradbury,P., Li,H.,Sun,Q., FlintGarcia,S.et al. (2009) Genetic properties of the maize nested association mapping population.Science,325,737-740.   \nMcSteen,P.and Hake,S. (2001)barren inflorescence2 regulatesaxillary meristem developmentin the maize inflorescence.Development,128,2881-2891.   \nMickelson,S.M,Stuber, C.S.,Senior,L.and Kaeppler,S.M. (20o2) Quantitative trait loci controlling leaf and tassel traits in a ${ \\mathsf { B 7 3 ~ x } }$ MO17 population of maize. Crop Sci.42,1902-1909.   \nMir, C., Zerjal,T., Combes,V.,Dumas,F.,Madur, D., Bedoya,C., Dreisigacker, S.et al. (2013) Out of America: tracing the genetic footprints of the global diffusion of maize.Theor Appl Genet 126,2671-2682.   \nMiyoshi, K.,Ahn,B.O.,Kawakatsu,T.,Ito,Y,toh,J..,，Nagato,Y.andKurata N.(2004)PLASTOCHRON1,a timekeeper of leaf initiation in rice,encodes cytochrome P450.Proc. Natl Acad.Sci. USA,101,875-880.   \nNishii,A.,Takemura,M.，Fujita，H.， Shikata，M.，Yokota，A.and Kohchi，T. (2000)Characterization of a novel gene encoding a putative single zinc-finger protein，ZIM，expressed during the reproductive phase in Arabidopsis thaliana.Biosci. Biotechnol.Biochem.64,1402-1409.   \nPeier,J.A.,Romay，M.C., Gore,M.A.,Flint-Garcia,S.A.,Zhang,Z.,Millard, M.J. Gardner,C.A.et al. (2O14) The genetic architecture of maize height. Genetics,196,1337-1356.   \nPetroni，K.and Toneli，C.(2011） Recent advances on the regulation of anthocyanin synthesis in reproductive organs. Plant Sci.181,219-229.   \nPiperno,D.R.and Flannery,K.V.(2o01) The earliest archaeological maize (Zea mays L.) from highland Mexico: new accelerator mass spectrometry dates and their implications. Proc. Natl Acad.Sci. USA,98,2101-2103.   \nPreston,J.C.,Wang,H.,Kursel,L.,Doebley,J.and Kellogg,E.A.(2012)The role of teosinte glume architecture (tga1) in coordinated regulation and evolution of grass glumes and inflorescence axes.New Phytol.193,204-215.   \nSatoh-Nagasawa,N.,Nagasawa,N.,Malcomber,S.,Sakai,H.and Jackson,D. (2006)A trehalose metabolic enzyme controls inflorescence architecture in maize.Nature,441,227-230.   \nSchnee,C.,Kollner,T.G., Gershenzon,J.and Degenhardt,J. (20o2) The maize gene terpene synthase 1 encodes a sesquiterpene synthase catalyzing the formation of (E)-beta-farnesene,(E)-nerolidol，and (E，E)-farnesol after herbivore damage.Plant Physiol.130,2049-2060.   \nTaguchi-Shiobara,F.,Yuan,Z.,Hake,S.and Jackson,D.(2oo1) The fasciated ear2 gene encodes a leucine-rich repeat receptor-like protein that regulates shoot meristem proliferation in maize. Genes Dev.15,2755-2766.   \nTanaka,W.,Pautler,M.,Jackson,D.and Hirano,H.Y.(2013) Grass meristems Il: inflorescence architecture,flower development and meristem fate.Plant Cell Physiol. 54,313-324.   \nTian,F.,Bradbury,P.J.,Brown,P.J.,Hung,H.,un,Q.,Flint-Garcia,S.,Rocheford, T.R.et al. (2011) Genome-wide association study of leaf architecture in the maize nested association mapping population. Nat. Genet. 43,159-162.   \nTominaga-Wada,R., lwata,M.,Nukumizu,Y.,Sano,R.and Wada,T.(2012)A full-length R-like basic-helix-loop-helix transcription factor is required for anthocyanin upregulation whereas the N-terminal region regulates epidermal hair formation.Plant Sci. 183,115-122.   \nUpadyayula,N.,da Silva,H.S., Bohn,M.O.and Rocheford,T.R.(2006) Genetic and QTL analysis of maize tassel and ear inflorescence architecture.Theor. Appl. Genet. 112, 592-606.   \nVedovato,M.,Rossi,V.,Dacks,J.B.and Filippini,F.(2oo9) Comparative analysis of plant genomes allows the definition of the \"Phytolongins\":a novel nonSNARE longin domain protein family. BMC Genom.,10,1-13.   \nVollbrecht, E.,Springer,P.S.,Goh,L., Buckler,E.S.and Martienssen,R.(2005) Architecture of floral branch systems in maize and related grasses.Nature, 436,1119-1126.   \nWalsh,J.,Waters,C.A.and Freeling,M.(1998) The maize gene liguleless2 encodes a basic leucine zipper protein involved in the establishment of the leaf blade-sheath boundary. Gene Dev.12, 208-218.   \nWang，R.，Yu,Y.，Zhao, J.，Shi,Y.，Song,Y.，Wang,T.and Li，Y.(2008) Population structure and linkage disequilibrium of a mini core set of maize inbred lines in China.Theor.Appl. Genet.117,1141-1153.   \nWang,T.Y.,Ma,X.L.,Li,Y., Bai, D.P., Liu,C., Liu, Z.Z.,Tan,X.J.et al. (2011) Changes in yield and yield components of single-cross maize hybrids released in China between 1964 and 2001. Crop Sci. 51,512-525.   \nWenefrida,I., Utomo,H.S.and Linscombe,S.D.(2013) Mutational breeding and genetic engineering in the development of high grain protein content.J. Agric.Food Chem.61,11702-11710.   \nWhite，D.W.R. (2Oo6) PEAPOD regulates lamina size and curvature in Arabidopsis.Proc.Natl Acad. Sci. USA,103,13238-13243.   \nWu,X.,Li,Y.，Shi,Y.,Song,Y.,Wang,T.，Huang,Y.and Li,Y. (2014) Fine genetic characterization of elite maize germplasm using high-throughput SNP genotyping.Theor. Appl. Genet.127,621-631.   \nYan,J.,Shah,T.,Warburton,M.L., Buckler,E.S.,McMullen,M.D.and Crouch, J.(2009) Genetic characterization and linkage disequilibrium estimation of a global maize collection using SNP markers. PLoS ONE,4,e8451.   \nYang,N.,Lu,Y..,Yang,X.H.,Huang, J., Zhou,Y.,Ali,F.,Wen,W.W.et al. (2014)Genome wide association studies using a new nonparametric model reveal the genetic architecture of 17 agronomic traits in an enlarged maize association panel. PLoS Genet. 10,e1004573.   \nZhang,Z.W.，Ersoz,E.,Lai,C.Q.，Todhunter,R.J.，Tiwari,H.K.,Gore,M.A., Bradbury，P.J.et al. (201O)Mixed linear model approach adapted for genome-wide association studies. Nat. Genet. 42,355-U118. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Scatter plot of the first three principal components. Figure S2 Phenotypic variations of tassel-related traits.   \nFigure S3 QTL associated with tassel primary branch number (TBN)across the 36 RILs families.   \nFigure S4 QTL associated with tassel length (TL) across 36 RILs families.   \nTable S1 Summary information of the CN NAM and the lines in theassociation panel.   \nTable S2 Tassel traits observed across different environments. Table S3 Correlation analysis of tassel traits among different environments.   \nTable S4 QTNs associated with tassel traits.   \nTable S5 QTL detected in CN NAM by joint-linkage analysis and validated in single bi-parental RIL family.   \nTable S6 QTL detected in US NAM by joint-linkage analysis and validated in single bi-parental RIL family. ",
+        "page_idx": 11
+    }
+]

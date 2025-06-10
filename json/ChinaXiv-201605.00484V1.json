@@ -1,0 +1,604 @@
+[
+    {
+        "type": "text",
+        "text": "Overexpression of MdbHLH104 gene enhances the tolerance to iron deficiency in apple ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Qiang Zhao, Yi-Ran Ren, Qing-Jie Wang,Yu-Xin Yao, Chun-Xiang You and Yu-Jin Hao\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nti Agricultural University,Tai-An,Shandong,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received29August2015;   \nrevised 14 November2015;   \naccepted 7 December2015.   \n\\* Correspondence (Tel $+ 8 6$ 538 824 6692;   \nfax +86-538-824-2364;   \nemail haoyujin@sdau.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords:apple,IVc subgroup bHLH transcription factor,plasmamembrane $\\mathsf { H } ^ { + }$ -ATPase,iron deficiency,iron uptake. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fe deficiency is a widespread nutritional disorder in plants.The basic helix-loop-helix (bHLH) transcription factors (TFs),especially Ib subgroup bHLH TFs which are involved in iron uptake, have been identified.In this study,an IVc subgroup bHLH TF MdbHLH104 was identified and characterized as a key component in the response to Fe deficiency in apple.The overexpression of the MdbHLH104 gene noticeably increased the $\\mathsf { H } ^ { + }$ -ATPase activityunder iron limitation conditions and the tolerance to Fe deficiency in transgenic apple plants and cali.Further investigation showed that MdbHLH104 proteins bonded directly to the promoter of the MdAHA8 gene,thereby positively regulating its expression,the plasma membrane (PM) $\\mathsf { H } ^ { + } ,$ ATPase activity and Fe uptake.Similarly,MdbHLH104 directly modulated the expresson of three Fe-responsive bHLH genes，MdbHLH38,MdbHLH39 and MdPYE.In addition，MdbHLH104 interacted with 5 other IVc subgroup bHLH proteins to coregulate the expression of the MdAHA8 gene, the activity of PM $\\mathsf { H } ^ { + }$ -ATPase and the content of Fe in apple calli.Therefore, MdbHLH104 acts together with other apple bHLH TFs to regulate Fe uptake by modulating the expression of the MdAHA8 gene and the activity of PM $\\mathsf { H } ^ { + }$ -ATPase inapple. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Asanessential mineral element for plants,iron is required for DNA synthesis，photosynthesis,nitrogen fixation，hormone synthesis and electron transport in the respiratory chain (Briat and Lobréaux,1997).Although the total Fe content in earth generally satisfies plants'requirement,itsavailability is very low due to the unsuitable pH environments and low solubility in calcareous soils and anaerobic conditions,and approximately $30 \\%$ of the world's soilsare considered Fe limiting for plant growth (Korcak，1988). Therefore,Fe deficiency is one of the major factors limiting plant growth and development (Guerinot and Yi，1994).Thus，to maintain appropriate amounts of iron,plants have developed a number of sophisticated mechanisms to acclimate themselves to the surrounding conditions,including Fe limitation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The need for the efficient acquisition of iron from soil has resulted in the evolution of two phylogenetically distinct uptake strategies,that is strategy lin dicotyledonous plants and strategy Il in graminaceous monocots. Strategy I plants uptake Fe in a three-step process: the solubilization of $\\mathsf { F e } ^ { 3 + }$ complexes through rhizosphere acidification,the reduction of ferric $( \\mathsf { F e } ^ { 3 + } )$ into ferrous $( { \\mathsf { F e } } ^ { 2 + } )$ and lastly，the uptake of the ferrous into root cels (Marschner，1995；Romheld and Marschner，1986；Santi and Schmidt, 20o9).In contrast, strategy I plants synthesize mugineic acids in root and chelate iron to form $\\mathsf { F e } ^ { 3 + } .$ -MA complexes,which are transported into the cells of roots by yellow stripe transporters (Marschnerand Romheld,1986;Romheld and Marschner,1986). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In strategy lplants,the transformation of $\\mathsf { F e } ^ { 3 + }$ to $\\mathsf { F e } ^ { 2 + }$ depends onferric oxidoreductase ferric reductase oxidase 2 (FRO2), whereas the uptake of $\\mathsf { F e } ^ { 2 + }$ into root cells depends on iron transporter iron-regulated transporter 1 (IRT1).Both FRO2 and IRT1 genes are induced by Fe deficiency. It has been found that bHLH transcriptional factors (TFs) are involved in the regulation of Fe acquisition and homeostasis. In Arabidopsis，genes of bHLH subgroups Ib and IVc are induced by iron-deficient conditions (Li et al.，2Oo6).The Ib subgroup bHLH TFs characterized with a function in Fe deficiency are FER in tomato and its homolog FIT (FER-like iron deficiency-induced transcription factor) in Arabidopsis (Ling etal.,2002;Yuan etal.,2005).FIT directly binds to the promoters of FRO2 and IRT1 and up-regulates their expressionunder Fe deficiency (Colangelo and Guerinot,2004). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Prior to the reduction of $\\mathsf { F e } ^ { 3 + }$ to $\\mathsf { F e } ^ { 2 + }$ $\\mathsf { F e } ^ { 3 + }$ complexes must be solubilized through rhizosphere acidification (Marschner，1995). In dicotyledonous plants, the plasma membrane (PM) $\\mathsf { H } ^ { + }$ -ATPase (EC 3.6.1.35) is responsible for the proton extrusion out of cells and the formation of rhizosphere acidification,which has a huge effect on the soluble of Fe in the vicinity of the roots (Dell'Orto et al.，2000;Schmidt，2003).Inaddition，the actionof $\\mathsf { P M } \\mathsf { H } ^ { + } .$ ATPase generates an electrochemical gradient,which constitutes adriving force for the transport of mineral nutrients,toxic ions, solutes and metabolites across the PM.Therefore,PM $\\mathsf { H } ^ { + }$ -ATPase playsa crucial role in plants'responses to various environmental factors such as saline stress,low solution pH,nutrient supply and Fe deficiency (Niu et al.，1993；Schubert and Yan，1997;Yan et al.，1998;Dell'Orto et al.,2000;Palmgren,2001). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In Arabidopsis,PM ${ \\mathsf { H } } ^ { + }$ -ATPasesare encoded by11 AHA genes, which are induced by various environmental stimuli. Among them，the expressions of AHA2，AHA3，AHA4 and AHA7are up-regulated by Fe deficiency.In response to the absence of iron, AHA2 is responsible for the major acidification activity,whereas AHA7 may regulate root hair formation (Santi and Schmidt, 2009). Compared with the direct regulation of FRO2 and IRT1 by Ib bHLH TF FIT,it is largely unknown whether and how the PM ${ \\mathsf { H } } ^ { + }$ -ATPase gene is regulated by bHLH TF.Although AHA2 expression is up-regulated in F/T overexpression plants than fit-3 mutant in response to iron deficiency (lvanov et al.，2012; Long et al.，2o1O),several evidences show that it appears not to be directly controlled byFIT，suggestinga different induction pathway for AHA2 gene，compared with that for IRT1 and FRO2 genes (lvanov et al.,2012;Santi and Schmidt,2009). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to those of the Ib subgroup,IVc subgroup bHLHs influence the Fe chelate reductase activity and the acidification of rhizospheres to regulate plant growth and development under Fe-deficient conditions.Among them,PYE and IAA-Leu Resistant3 (ILR3，also named as bHLH105) target metal (or iron) homeostasis genes,which are involved in intracellular and longdistance metal (or iron) transport (Rampey et al.，2oo6;Selote et al.，2015).Meanwhile，PYE regulates the acidificationof rhizospheres under Fe-deficient conditions (Long et al.，2010; Selote et al.,2015).Most recently,it is found in Arabidopsis that the mutations to IVc subgroup bHLH genes AtbHLH104 and AtbHLH105 greatly reduce the tolerance to Fe deficiency, whereas their overexpressions improve the tolerance and lead to an accumulation of excess Fe under soil-grown conditions. AtbHLH1O4also regulates theacidification of rhizospheresunder Fe-deficient conditions (Zhang et al.， 2015). In chrysanthemum, CmbHLH1，which ishighlysimilarto AtbHLH105，regulates Fe uptake via mediating the acidification of the rhizosphere by enhancing the transcription of the $\\mathsf { H } ^ { + }$ -ATPase-encoding gene CmHA under iron-shortage conditions (Zhao et al.,2014). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this study,a Fe-responsive bHLH TF gene MdbHLH104 was isolated from the apple.It was identified to encode an IVc bHLH subgroup member and was induced by Fe deficiency.After beinggenetically transformed into apple plant andcalli, MdbHLH104 was characterized by a crucial function in Fe acquisition and the tolerance to Fe deficiency by directly binding tothe promoter regions oftheMdAHA8， MdbHLH38, MdbHLH39 and MdPYE genes，thereby modulating PM $\\mathsf { H } ^ { + }$ ATPase activity.Finally，the potential utilization of MdbHLH104 inthe genetic improvement of fruit tree tolerance to iron deficiency is discussed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "bHLH transcription factor MdbHLH104 is involved in responding to iron deficiency and promotes iron accumulation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BlastX search and phylogenetic tree analysis showed that there are 6 IVc subgroup bHLHTFs in apple (Figure S1a,b).Among them, the expression of the MdbHLH1O4 gene was noticeably induced by Fe deficiency (Figure S1c). It is also highly expressed in root (Figure S1d).To characterize its function,an expression vector 35S:: MdbHLH104-GFP was constructed and transformed into apple with an Agrobacterium-mediated method.As a result，five independent transgenic apple lines were obtained (Figure S2). Three lines,L1,L2 and L3,were chosen for further investigation, whereas the wild-type (WT)apple was used as a control. Expression analysis and an immunoblot assay with an anti-GFP antibody showed that all three transgenic apple lines generated many more MdbHLH104 transcripts and produced MdbHLH104-GFP fusion proteins (Figures 1a,b and S2d),indicating that MdbHLH104 was overly expressed inapple. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Toexamine whether MdbHLH104 protein plays a rolein response to iron starvation,three transgenic apple lines and the WT control were allowed to grow for 20 days under Fe-sufficient conditions and then shifted to Fe-deficient conditions for another 30 days.The results showed that the both transgenic and WT appleplantlets grew normally under Fe-sufficient conditions. After being treated with Fe starvation,the WT control exhibited much more severe chlorosis in appearance (Figure 1c),which was also indicated as low chlorophyll contents in the unfolding young leaves than in three transgenic lines (Figure 1c).In contrast,the three transgenic lines showed much less chlorosis than the control (Figure 1c).Furthermore,the iron content was measured in the unfolding young leaves.The result indicated that three 35S:MdbHLH104-GFP transgenic lines accumulated much higher ironthan the WT control under iron-deficient conditions (Figure 1c).These results indicated that the overexpression of MdbHLH104 confers remarkably increased tolerance to Fe deficiency in transgenic apple plantlets. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plant root responds to iron deprivation by pumping out protons into the apoplast,which lowers the rhizosphere pH and solubilizes iron,thus increasing iron availability (Yi et al.,1994).To test whether MdbHLH104 influences the rhizosphere pH in response to iron deprivation, the transgenic and WT apple plantlets grown undernormal conditions were treated for7 days ona Fe-deficient medium.Subsequently, they were shifted to a medium containing the pH indicator bromocresol purple for staining.The result showed that transgenic lines exhibited more obvious rhizosphere acidification，as indicated by the yellow colour of the medium around the roots， than the WT control under Fe-deficient conditions,and no phenotypic differences between the transgenic lines and WT control were revealed under Fe-sufficient conditions.Furthermore,the transport activity of PM $\\mathsf { H } ^ { + }$ -ATPase was determined.The result indicated that the three transgenic lines exhibiteda notably increased ATPase activity relative to the WT control under Fe-deficient conditions and no changes under Fe-sufficient condition (Figure 1e). These findings demonstrated thatMdbHLH1O4 overexpression leads to an increased acidification of the rhizosphere in response to iron deficiency. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MdbHLH104 binds to the promoter of MdAHA8 and activates its transcription ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Among 11 Arabidopsis AHAs,AHA1 and AHA2 are two major PM $\\mathsf { H } ^ { + }$ -ATPases responsible for rhizosphere acidification (Santi and Schmidt,2009). Correspondingly, there are 18 MdAHA genes in the apple genome (http://genomics.research.iasma.it/).The phylogenetic tree demonstrated that 7 MdAHAs are close to AHA1 and AHA2 (Figure S3a).RT-PCR analysis showed that among them，only MdAHA8 was noticeably up-regulated in the transgenic lines，compared with the WT control under Fe-deficient conditions (Figure 2a). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The bHLH transcription factors have been reported to be associated with the E-box( $5 ^ { \\prime }$ -CANNTG-3')or G-box( $5 ^ { \\prime } .$ -CACGTG3') cis element in the promoters of their target genes (Fisher and Goding，1992)．To elucidate how MdAHA8 is regulated by MdbHLH104,its promoter region was searched for putative cis elements that are recognized by MdbHLH104.As a result,6 E-box elements (CANNTG), that is P1 to P6,were found (Figures 2b and S3b).To verify whether MdbHLH104 binds to those elements,a chromatin immunoprecipitation PCR (ChIP-PCR) assay Was conducted with an anti-GFP antibody and six pairs of primers specific to 6 E-box elements using 35S:GFP and 35S::MdbHLH104-GFP transgenicapplecalli， whichoverexpressedGFPand MdbHLH104-GFP,respectively.A fragment of the actin promoter containing an E-box motif was used as a negative control.The ChIP-PCR assay demonstrated that only the P3-containing promoter regions of MdAHA8,but not the other 5 regions,were enriched by ChIP in the 35S::MdbHLH104-GFP transgenic calli compared to the 35S::GFP control (Figures S3c and 2b).In addition,there are E-box cis elements in the other6 MdAHAs, thatisMdAHA1,MdAHA3,MdAHA7,MdAHA9,MdAHA11and MdAHA12 (Figure S3b).However,ChIP-PCRassays demonstrated that none of them recruited MdbHLH104-GFP proteins (Fig ure S3c).These results provide in vivo evidence for the binding of MdbHLH104 to the MdAHA8 promoter region around the P3 element. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5390fba4c8cce80d33f37713307790806179dec2456edf4d117892a720ca64cc.jpg",
+        "img_caption": [
+            "Figure1Thepenotofdb4transcaleplanttsuderftdefdiios.aExpressolveloft4 geninthetransicaplelinadteild-tptyectootrol.)eeoftdb-fusiproteini:b GFPtransgenicleltedbotastidtiibddi appearance,totalrophllontentsandionontentsof3:dbH04-GtransgeicaplelisandtheWotrolgownformonthon Fe-sufficient $\\left( + \\mathsf { F e } \\right)$ or Fe-deficient $( - \\mathsf { F e } + \\mathsf { F r } \\mathsf { z } )$ media.The data represent the means $\\pm \\mathsf { S D }$ of three independent experiments.DW:dry weight. (d)The rhizosphere acidification and PM $\\mathsf { H } ^ { + }$ -ATPaseactivityof wild-typeand3S:MdbHLH104-GFP transgenicapplelines grown for7dayson Fe-suficient (+Fe) or Fe-deficient $( - \\mathsf { F e } + \\mathsf { F r } \\mathsf { Z } )$ media.Theyellwcolouraroundtherootsstainedwithbromocresolpurple indicates rhizosphereacidification,andtheplasma membrane vesicles were isolated for PM $\\mathsf { H } ^ { + }$ -ATPase activity analysis.The data represent the means $\\pm \\mathsf { S D }$ of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To verify the direct binding of MdbHLH1O4 to the P3- containing recognition site in the MdAHA8 promoter，an electrophoretic mobilityshift assay (EMSA)was performed with an oligo-probe containing a P3 cis element using purified recombinant His-MdbHLH1O4 fusion protein.As a result,specific DNA-MdbHLH104 protein complexes were detected when the P3 (sequence)-containingsequencewasused asalabelled oligo-probe.The formation of these complexes was reduced when increasing amounts of the unlabelled P3 competitor probe with the same sequence were added.This competition was not observed when the mutated version was used (Figure 2c).This specificity of competition verifies the physical interaction between the MdAHA8 promoter region and MdbHLH104 that requires the P3 cis element. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toexamine whether MdbHLH1O4 directly activates the MdAHA8 promoter,a biochemical staining assay was performed using GUS as the reporter gene. The construct PMdAHA8:GUS was genetically transformed into the WT apple calli,and then,35S:: MdbHLH104-GFP was introduced into the transgenic calli containing PMdAHA8:GUS (Figure S3d).The biochemical staining assay showed that the PMdAHA8::GUS+35S:MdbHLH104-GFP doubletransformed cali have higher GUS activity than the PMdAHAg:GUS one (Figure 2d,e)，indicating that MdbHLH104 is a positive regulator for the MdAHA8 promoter. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Taken together，it may be concluded that MdbHLH104 activates the transcription of the MdAHA8 gene by directly binding to the P3 cis element in its promoter. In addition, MdbHLH104 also binds to the promoters of MdbHLH38, MdbHLH39 and MdPYE (Figure S4a-c). ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1e7c184358add31ac3e0be8ecaf59bd333a17dc28f1c0106240b8d932db6eb9.jpg",
+        "img_caption": [
+            "Figure2MdbHH04directlyctivatestheexpressonofMdAHA8gne.(aqT-CRassysforMdbHH04andMdAHAgenesintrasgeniaple lines.(bllstrfprmoeeeotifseeltsofd theChIP-PCRexperintCsereefdsi:Fd:d4ecllegtactin promoterisnegatieotr.dbndstotheE-botifspresetintedH8promoteriitrosdicatedbyne MAHA8promoterfragmentcontainingtheE-boxmotifswasincubatedwithHs-MdbHLH104protein.CompetitionforMdbHLH104bindingwas performed with $5 0 \\times$ and $1 0 0 \\times$ unlabeed probes (wt)or G-box-mutated probes (mut).His was used as the control.Mut indicates mutated probes. $' + '$ indicateseabdieps 3S:MdbHH04-G+d8:GUtransenicaleclliGUactiasmeasuredusing4methumbeliferucurodsata represent the means $\\pm \\mathsf { S D }$ of three independent experiments. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MdbHLH104 modulates ${ \\mathsf { H } } ^ { + }$ -ATPaseactivityand Fe acquisition by regulating MdAHA8 under Fe deficiency ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because it isdifficult to obtain transgenic apple plants, particularly for those containing two or more exogenous genes, apple calli were thereafter used for genetic transformation and further investigation.To examinewhether apple calli can be used as a model system,apple transgenic calli containing 35S:: $G F P$ and35S::MdbHLH104-GFP，respectively，Were used to characterize the function of MdbHLH104 in modulating PM ${ \\mathsf { H } } ^ { + }$ -ATPase activity and Fe acquisition (Figure S5a).The result showed that MdbHLH1O4 increased the acidification of the apple calli and positively regulated the activity of PM ${ \\mathsf { H } } ^ { + }$ -ATPase (Figure S5b). In addition,the $\\mathsf { F e } ^ { 2 + }$ was analysed with a FerroZine method inthe apple calli. Theresult showed that 35S:: MdbHLH104-GFP transgenic apple calli exhibited a deeper colour than the $3 5 S . . . G F P$ control. Correspondingly，the former did accumulate more $\\mathsf { F e } ^ { 2 + }$ than the latter under Fe-deficient conditions (Figure S5c).Therefore，MdbHLH104 regulated PM ${ \\mathsf { H } } ^ { + }$ -ATPase activity and Fe acquisition in the apple calli just as it did in the apple plant. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using the apple calli，MdAHA8 was characterized with a function in PM $\\mathsf { H } ^ { + }$ -ATPase activity and Fe acquisition.The fulllength sense ORFs and antisense cDNA fragments of MdAHA8 were used to construct expression vectors.Two 35S-driven vectors， that isplR-MdAHA8 for overexpression and plRMdAHA8-Anti for suppression，were used for genetic transformation into apple calli. RT-PCR showed that transgenic calli pIR-MdAHA8 and pIR-MdAHA8-Anti were obtained and used for the determination of $\\mathsf { H } ^ { + }$ -ATPase activityand Feacquisition (Figure 3a).The result showed that the plR-MdAHA8 transgenic calli exhibited higher and the plR-MdAHA8-Anti calli exhibited lower PM $\\mathsf { H } ^ { + }$ -ATPase activity than the WT control.Asa result,as indicated by bromocresol purple staining into yellow colour,the pIR-MdAHA8 transgenic calli pumped out more and the plRMdAHA8-Anti calli pumped out less $\\mathsf { H } ^ { + }$ into the medium than the WT control under iron-sufficient and iron-shortage conditions (Figure 3b).Furthermore，plR-MdAHA8 transgenic calli accumulated more and the plR-MdAHA8-Anti calli accumulated less PM $\\mathsf { H } ^ { + }$ -ATPase activity than the WT control under iron-sufficient and iron-shortage conditions (Figure 3c).These findings indicated that MdAHA8 is involved in the regulation of PM $\\mathsf { H } ^ { + }$ -ATPase activity. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Subsequently， the vector plR-MdAHA8-Anti was genetically transformed into 35S:MdbHLH104-GFP transgenic calli.Asa result,a double transgenic cali that contained35S:MdbHLH104- GFP and plR-MdAHA8-Anti were obtained and used for acidification assay and PM $\\mathsf { H } ^ { + }$ -ATPaseactivity analysis.The result showedthat the 35S:MdbHLH104-GFP/plR-MdAHA8-Anti calli exhibited acidification and PM $\\mathsf { H } ^ { + }$ -ATPase activity that were noticeably reduced compared with the 35S::MdbHLH104-GFP calli,but similar to the WT control under starvation conditions (Figure 4a,b).Furthermore， the35S::MdbHLH104-GFP+pIRMdAHA8-Anticalliaccumulated lessFe than35S::MdbHLH104- GFP calli，but were similar to the WT control under starvation conditions (Figure 4c).Therefore, $M d A H A 8$ isrequired for the MdbHLH104-mediated regulation of $\\mathsf { H } ^ { + }$ -ATPaseactivityand Fe acquisition. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7ca8e6d6aa25f697ab1c91476c42ed27cb45f0e5a811c7d48322c9ad4636e48.jpg",
+        "img_caption": [
+            "Figure3MdAHA8 positivelyregulates PM $\\mathsf { H } ^ { + }$ -ATPase activity.(a)The relative expression of MdAHA8 in wild-type,pIR-MdAHA8 and plR-MdAHA8-Anti transgenic apple call.The data represent the means $\\pm \\mathsf { S D }$ of three independent experiments.(b)Acidification analysis of $M d A H A 8$ transgenic apple caltreatedtaidaomoplicisdloodl is true below unless otherwise indicated.(c) PM $\\mathsf { H } ^ { + }$ -ATPase activity of wild-type，pIR-MdAHA8 and pIR-MdAHA8-Anti transgenic apple calli grown for7 days on Fe-sufficient $( + \\mathsf { F e } )$ orFe-deficient (-Fe + Frz) media "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MdbHLH104 interacts with other apple IVc subgroup bHLH proteins to regulate MdAHA8 expression,PM $\\mathsf { H } ^ { + } .$ ATPase activityand iron accumulation ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to MdbHLH104,apple contains 5 other IVc subgroup bHLHTFs,that is MdbHLH105,MdbHLH115,MdPYE,MdbHLH11 and MdbHLH121.To detect whether MdbHLH104 interacts with each of them，yeast two-hybrid assays and pull-down analysis were conducted.The full-length cDNA of MdbHLH104 was integrated into vector pGBT9 (BD-MdbHLH104) as bait,whereas that of each MdbHLH105,MdbHLH115,MdPYE,MdbHLH11 and MdbHLH121 into pGAD424 (AD-MdbHLHs) was integrated as preys.Positive X-α-gal activity was observed in yeasts that contained either pGBT9-MdbHLH104 plus each pGAD424- MdbHLHs grown on the -Trp/-Leu/-His/-Ade screening medium, but not in those containing pGBT9-MdbHLH104 plus the empty pGAD424 vector. The result indicated that MdbHLH104 interacted with the other IVc subgroup bHLH TFs MdbHLH105, MdbHLH115,MdPYE，MdbHLH11 and MdbHLH121 (Figure 5a). Furthermore，the interactions between MdbHLH1O4 and each apple IVc bHLH TFs were verified with pull-down analysis (Figure 5b). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Then,a yeast assay system was used to examine whether the interaction affects the function of MdbHLH104, thereby altering the activity of the MdAHA8 gene promoter. The MdAHA8 promoter region of 2510 bp upstream the start codon was cloned and fused with the reporter gene GUS,resulting in an expression cassette PMdAHA8::GUS.The cassette Was inserted into the pBD-GAL4 vector，producing a plasmid pBD-PMdAHA8:GUS. Then，the coding sequence of MdbHLH104 was inserted into pBD-PMdAHAg:GUS，resulting in a plasmid pBD-MdbHLH104- PMdAHA&::GUS.Meanwhile, the coding sequences of 5 other IVc subgroup bHLH TF genes were cloned into pAD-GAL4, respectively，to generate 5 plasmids,that is pAD-MdbHLH115, pAD-MdbHLH11， pAD-MdbHLH121， pAD-MdPYE and pADMdbHLH105.Subsequently,the pBD plasmids were genetically transformed alone or together with each pDA one into yeast cells. The histochemical assay showed the GUS activity was much higher in the transformants that contained pBD-MdbHLH104- PMdAHA8:GUS plus each of pAD-MdbHLHs plasmids than in those that contained it alone,indicating that the cotransformation of MdPYE，MdbHLH105，MdbHLH115，MdbHLH11 and MdbHLH121 promoted the function of MdbHLH104 to alter the activity of the MdAHA8 promoter (Figure 6a). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To examine the biological function of the interaction between MdbHLH104 and other IVc subgroup bHLH TFs in planta, expression vectors35S::MdPYE， 35S::MdbHLH105， 35S:: MdbHLH115,35S:MdbHLH11 and35S::MdbHLH121 were constructed and cotransformed into 35S::MdbHLH104-GFP transgenic calli, respectively.The resultant transgenic calli were used for ChlP-qPCR assays with anti-GFP antibody and primers specific to the promoter fragment of the MdAHA8 gene.The results indicated a remarkable promotion of the recruitmentof MdbHLH104 to the promoter fragment of MdAHA8 (Figure 6b) when MdbHLH104 was cotransformed with each of the 5 other IVc subgroup bHLH TF genes. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a6eff3fe6ab5da0829b0eac1d59d2bc2b800a66c6a77f02848c603f63668e2f.jpg",
+        "img_caption": [
+            "Figure4AH8isdfb0eaedidiatiootetsofspodngfit.(aifiatioofid MdbHLH104-GFP and 35S::MdbHLH104-GFP/pIR-MdAHA8-Anti transgenicapple calli. (b) PM $\\mathsf { H } ^ { + }$ -ATPaseactivity in vesicles isolated fromwild-type,35S:: MdbHLH104-GFP and 35S::MdbHLH104-GFP/plR-MdAHA8-Anti transgenic apple calli treated with $( + \\mathsf { F e } )$ or without $( - \\mathsf { F e } + \\mathsf { F r } z )$ iron for 7 days. (c) Visualizationofrfftdetoiii4d0-ti trsgenalisapo 35S:MdbHLH104-GFP/pIR-MdAHA8-Anti grown on Fe-sufficient (+Fe) or Fe-deficient $\\left( - \\mathsf { F e } + \\mathsf { F r } \\mathsf { z } \\right)$ media for7 days.The data represent the means $\\pm \\mathsf { S D }$ of three independent experiments.DW,dry weight. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,a transient expression assay was conducted in transgenic apple calli to check the function of the interaction to modulate the activity of the MdAHA8 gene promoter.The coding sequences of 5 IVc subgroup bHLH TF genes were inserted into plR viral vector,resulting in 5 transient expression viral vectors, thatispIR-MdPYE，pIR-MdbHLH105，pIR-MdbHLH115，pIRMdbHLH11 and plR-MdbHLH121.The constructs were transiently transformed into PMdAHA8:GUSplus 35S:MdbHLH104-GFP transgenic apple calli background. IL6o-1 was used as a control. The results indicated that the cotransformation of each plRMdbHLHs vector showed much higher GUS activity than the controls，that is IL60-1/plR calli and $P _ { M d A H A B } . \\because G U S$ plus 35S:: MdbHLH104-GFP (Figure 6c).Therefore，MdbHLH104 interacts With other IVc subgroup bHLH TFs to control the activity of the MdAHA8 gene. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The real-time RT-PCR analysis showed that the co-expression of each IVc subgroup bHLH TF together with MdbHLH104 remarkably increased the transcript level of the MdAHA8 gene compared to MdbHLH104 alone (Figure 6d),demonstrating that the interaction between MdbHLH104 and each other IVc subgroup bHLH TF enhanced the expression of the MdAHA8 gene in apple calli. Finally, the PM $\\mathsf { H } ^ { + }$ -ATPase activity and the iron accumulation were detected in various transgenic apple calli，including35S:: MdbHLH104-GFPand35S:MdbHLH104-GFP plus 35S::MdPYE， 35S::MdbHLH105，35S::MdbHLH115，35S::MdbHLH11or35S:: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MdbHLH121.The result showed that the calli that contained 35S:MdbHLH104-GFP plus an interacting IVc subgroup TF gene exhibited higher PM $\\mathsf { H } ^ { + }$ -ATPase activity，pumped out more $\\mathsf { H } ^ { + }$ into the medium and accumulated more iron than that containing 35S:MdbHLH104-GFP alone(Figures 7and8).Therefore, MdbHLH104 functions together with other apple IVc subgroup bHLH proteins to enhance PM $\\mathsf { H } ^ { + }$ -ATPase activityand promote iron uptake and accumulation in transgenic apple calli. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Iron is essential for plants due to its various roles in life processes. Plant roots excrete protonsmediated by PM $\\mathsf { H } ^ { + } ,$ -ATPase leadingto the acidification of the rhizosphere，which in turn makes iron soluble and available in soil for uptake.In addition to proton extrusion and the associated electrochemical gradient,PM $\\mathsf { H } ^ { + }$ ATPase supplies energy for iron uptake and transportation. Therefore，PM ${ \\mathsf { H } } ^ { + }$ -ATPase plays a crucial role in iron acquisition and homeostasis in plants (Guerinot and Yi,1994;Palmgren, 2001).In Arabidopsis,there are 11 PM $\\mathsf { H } ^ { + }$ -ATPases,which are encoded by genes $A H A \\bar { 1 }$ to AHA11 (Palmgren,2001).Some of them are involved in Fe acquisition and homeostasis,particularly $A H A 2$ ，which is crucial for the acidification of the rhizosphere (Baxter et al.,2003;Haruta etal.,201O).Inaddition,several PM $\\mathsf { H } ^ { + }$ -ATPase genes have been characterized by their involvement in the response to iron deficiency and the uptake of iron elements in different plant species,such as cucumber (Santi et al.,2O05).In this study,it was found that MdAHA8,which is one of the closest homologs among 18 apple PM $\\mathsf { H } ^ { + }$ -ATPasesto Arabidopsis AHA2, transcriptionally responds to Fe deficiency.The overexpression of MdAHA8 promoted the proton excretion of the transgenic apple calli and increased the $\\mathsf { H } ^ { + }$ -ATPase activity in response to iron deficiency (Figure 3). ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec933c9faad1c81e90ff19023f963a74f3db304296cbd88647a2d05036e92717.jpg",
+        "img_caption": [
+            "Figure5MdbHLH104interacts withotherIVcsubgroupbHLHtranscriptionfactors.(a)MdbHLH104interactswithotherIVcsubgroupbHLH transcritionfctosinyeasttoridas.eeptyectplusdb4suedsotrolseyeastcelweregro SDIV media. The $x - a$ galassaywasused tofurtherconfirmthepositive interactions.(b)Pul-downassayshowedtheinteractionof His-MdbHLH104 withGST-Mdbs.TheHsdbH04GT-dbHsandSTereexprsedinB21andtentotalproteinsweredownbyaoead detected using anti-His and anti-GST antibodies,respectively. $' + '$ indicates presence. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Several types of TFs,such as bHLH,MYB and AP2 TFs,are involvedin the regulation of Fe acquisition and homeostasis (Hindt and Guerinot，2012；Kobayashi and Nishizawa，2012). Among them,bHLH TFs,particularly Ib and IVc subgroups bHLH TFs,play a central role in modulating the expressions of the major Fe acquisition genes(Yuan et al.,20o5).The first bHLH TF,which is characterized by its function in response to iron deficiency, is an Ib subgroup bHLH TF FER in tomato (Ling et al.,2OO2).FIT is its Arabidopsis homolog.This bHLH and other Ib subgroup bHLHs such as bHLH38 and bHLH39 (the homologs of MdbHLH38 and MdbHLH39)act together to directly regulate the expressions of FRO2and IRT1 genes under Fe-deficient and Fe-sufficient conditions (lvanov et al.，2012;Wang etal.，2012;Yuan et al., 2008).However,it seems not to directly modulate the expression of PM $\\mathsf { H } ^ { + }$ -ATPase genes (lvanov et al.,2012;Santi and Schmidt, 2009). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "IVc subgroup bHLHs are also involved in Fe acquisition and homeostasis in Arabidopsis.Among them，PYE and bHLH104 regulate the acidification of rhizospheres under Fe-deficient conditions (Long et al.，2010;Selote etal.，2015; Zhang et al., 2015).CmbHLH1 is a chrysanthemum homolog of bHLH105.It regulates rhizosphere acidification and Fe uptake by enhancing the transcription of an ${ \\mathsf { H } } ^ { + }$ -ATPase gene CmHA under ironstarvation conditions (Zhao et al.，2014).However,it is unclear whether and how IVc bHLH TFs regulate the genes encoding PM $\\mathsf { H } ^ { + }$ -ATPases.In this study,an IVc subgroup bHLH TF MdbHLH104 is up-regulated by Fe starvation in apple (Figure S1).It directly binds to the promoter of MdAHA8 and promotes itsexpression (Figure 2b,c),resulting in the enhanced PM ${ \\mathsf { H } } ^ { + }$ -ATPaseactivity (Figure 4). It is well known that PM $\\mathsf { H } ^ { + }$ -ATPase playsa crucial role in proton excretion from the plant root to the rhizospheric soil and in energy-promoted Fe uptake (Santi and Schmidt,2009). MdbHLH104 transgenic apple plantlets and calli showed an enhanced proton excretion and an improved tolerance to Fe deficiency (Figure 1).Therefore,MdbHLH104 positively regulates the activity of PM ${ \\mathsf { H } } ^ { + }$ -ATPase and the uptake and homeostasis of iron. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In Arabidopsis,Ib subgroup bHLH FIT is induced and directly up-regulates the expression of FRO2 and IRT1 under iron deficiency; however，its overexpression does not result in the strong induction of FRO2 and IRT1 under iron sufficiency (Colangelo and Guerinot，2004; Jakoby et al.，2004).This is likely because these bHLH transcription factors within a subgroup form homodimer or heterodimer complexes with their family members,and both partners may be required for their regulatory function to the target genes (Heim et al.,2oo3).To be active as a transcriptional regulator,AtFIT forms heterodimers with other Ib subgroup member such as AtbHLH38,AtbHLH39,AtbHLH100 or AtbHLH101 to activate the expression of FRO2 and IRT1 genes (lvanov et al.，2012；Wang et al.，2012;Yuan et al.，2008). ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/a4fd2919c1054c4b4259c4091fe852ba763cba6294be2d679a76f747ba7f301f.jpg",
+        "img_caption": [
+            "Figure6TheInteractioithoterMdbHLHsproteisafectsthefunctioofMdbHH04intheactivationofMdAHA8promoter.(a)ascriptio activatisasltld used1pAD/U;2D8GU;Db04dGU;48,tsfantyastceag PMdAHA:GUS pluspAD-MdbHLHplasmids,indluding4,AD-MdbHLH105;5,pAD-MdbHLH15;6pAD-MdbHLH117pAD-MdbHLH121;8ADMdPYE.(b)TeinteractioehancesthebndingoftheMdbH04proteintothepromoterfragmentoftheMAHA8gene.Teimmunoecpiatd DNAswerequantifiedtrouCRusingspecicprimersfadidatefragmentsontainingthEboxcislementeesultserequantifedste percentagftotali.teacticsascrtatiftbttroote byGUSstainctiestiesllixpr: cotransfoedslli:deasl thebackgroundfortransietcexpressnwitialvectorsp-dbsotainingotherIVcsubropgesbeledas4pR MdbHLH05;5pR-MdbH115;6,pR-MdbH117pR-Mb121;8,pR-MdPE.(d)ExpresionlevelsofMdAHA8geneinthe: MdbHLH104-GFP and co-expression of bHLHs transgenic apple calli,as determined with qPCR. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WT 8 35S:MdbHLH104 35S:MdbHLH105 e nosuen-Hasestt- er 300 135S:MH04G5S:MabH05 150 :MdbHLH WT 35S: 4-GFP 104 Fe+Frz 0 IFc -Fe+Frz 450 WT 35S:MdbHLH104-GFP 88 IdbHLH N 35S:MdbHLH104-GFP/35S:MdbHLH115 355:Mabh 150 Fe+Frz +Fe Fe+Frz WT 450 135S:MdbHLH104-GFP 35S:MdbHLH104 PHrt ntssttn-htesst 35S:MdbHLH104-GFP/35S:MdbHLH11 35S:MdbHLH11 [-nrdt 300 35S:MdbHLH104 多 d 150 -Fe+Frz +Fe -Fe+Frz PeHt 450 W 135S:MdbHLH104-GFP rpnrrt 135S:MdbHLH104-GF/35:MdbHLH121 MdbHLH104 LH121 自 300 :MdbHLI 35S:MdbHLH104- 35S: 150 WT +Fe -Fe+Frz +Fe -Fe+Frz 8 MdbHLH104 G:IMAPVE ee 300 450 I WS: M4bHLH104GFP 35S:MdbHLH104-GFP/35S:MdPYE 35S:MdbHLH104 55 150 WT Fe -Fe+Frz +Fe -Fe+Frz ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/24f3491033c758bb7e58e384a449a8218d3edcd24a7027c25c73fc444f606d31.jpg",
+        "img_caption": [
+            "Figur8enteractioitotdsprotesetstutiofb04inouptakeVsalizifrouundeFi Fe-deficientosiecalldFttsipclidapres $\\pm \\mathsf { S D }$ of three independent experiments. DW,dry weight. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Therefore，thecO-overexpressionofFIT/AtbHLH38，FIT/ AtbHLH39，FIT/AtbHLH100 or FIT/AtbHLH101noticeablypromotes iron uptake and enhances the tolerance to iron deficiency intransgenic plants (Wang et al.，2012;Yuan et al.，2008). Similarly,AtbHLH104 interacts with another IVc subgroup bHLH protein such as AtbHLH105 (ILR3),AtbHLH115 or AtPYE to form heterodimers (Selote et al.，2015;Zhang et al.，2015). In this study,it was found that MdbHLH1O4 interacted with another IVc subgroupmembersuchasMdbHLH105， MdbHLH115, MdbHLH11，MdbHLH121 or MdPYE to increase the expression of the MdAHA8 gene (Figures 5 and 6).Just like in Arabidopsis (Heim et al.,2oo3),the interacting partners may be required for the function of MdbHLH104 under Fe deficiency.Therefore, MdbHLH104 transgenic apple plants showed higher Fe content andATPaseactivity than the WT control only under Fe-deficient conditions,but not under Fe-sufficient conditions (Figure 1c,d). Taken together，MdbHLH104 works together with other IVc subgroup bHLH proteins to increase the $\\mathsf { H } ^ { + }$ -ATPaseactivityand iron content in transgenic apple calli (Figures 7 and 8). Furthermore,MdbHLH105 and other IVc subgroup bHLH members may function in a way similar to MdbHLH104，by binding to the promoter region of MdAHA8 gene and alleviating Fe deficiency. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition,Ib and IVc subgroup bHLH TFs not only regulate the $\\mathsf { H } ^ { + }$ -ATPase activity but also modulate other ion transports or transcription factors.ILR3 (bHLH105) plays an important role in the metal ion-mediated auxin sensing of roots and controls metal uptake by regulating the expression of intracellular iron transport genes,such as V/T1 (Kim et al.,2006;Rampey et al.,2006).PYE directly targets several genes suchas OPT3,FRD3,NRAMP4,ZIF1, NAS4 and FRO3，which are implicatedin long-distance iron transport (Long et al.，2010). In Arabidopsis,PYE directly regulates ANR1 and indirectly regulates other transcription factors, such as Ib bHLH subgroup TFs bHLH39 and bHLH101 (Long et al., 2010;Yuan et al.，2008).Additionally，bHLH104 and bHLH105 (ILR3)bind directly to the promoters of Ib subgroup bHLH genes such asbHLH38，bHLH39，bHLH10O and bHLH101 andto the promoter of Ib subgroup bHLH gene POPEYE (PYE; Zhang et al., 2015).In apple,there are four Ib and six IVc subgroup members. Among them,MdbHLH104 directly binds to the promoters of two Ib subgroup bHLH genes MdbHLH38 and MdbHLH39,and to that of an IVc subgroup one MdPYE (Figure S4).Therefore,bHLH104 plays pivotal roles in the regulation of Fe deficiency responses via targeting AHA genes,Ib or IVc subgroup bHLH genes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Iron deficiency often results in chlorosis,which affects photosynthesisand respiration (Kosegartenetal.，1998).Fruit treesare among the crops most affected by iron deficiency，which significantly decreases fruit yield and quality (Tagliavini et al., 2001).It is well known that most fruit trees take up Fe nutrients through their rootstock.Therefore,high Fe-efficient rootstock is a desirable trait for fruit production (Gonzalo et al.， 2011). Numerous genes are involved in Fe response and homeostasis. However,just few of them are characterized and used for genetic improvement in fruit rootstock.In an apple rootstock Malus xiaojinensis，MxF/Tisinducedby iron deficiency.It ectopic expression confers improved tolerance to iron deficiencyin transgenic Arabidopsis (Yin et al.,2014). Our findings regarding theregulatory mechanism involved in the iron responseand homeostasis are likely to favour the development of novel biotechnological tools for the generation of rootstocks for fruit trees with the enhanced ability of nutrient-use efficiency and adaptation to nutrient-poor habitats. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plant materials and growth conditions ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tissue cultures of apple (Malus $\\times$ domestic cv.'Royal Gala') were subcultured at a 1-month interval on an MS medium supplemented with $0 . 5 ~ \\mathsf { m g / L }$ 6-BA, $0 . 2 ~ \\mathsf { m g / L }$ NAA and $0 . 1 \\ \\mathrm { m g / L }$ GAat ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$2 5 \\pm 1 ^ { \\circ } { \\mathsf C }$ fora $1 6 / 8 - h$ light/night period $\\cdot 1 0 0 \\ \\mathrm { m m o l } / \\mathrm { m } ^ { 2 } / \\mathrm { s } )$ 1 whereas‘Orin'apple calli were subcultured at a 3-week interval on an MS medium containing $1 . 5 \\mathrm { \\ m g } / \\mathrm { L } 2 , 4 - \\mathrm { D }$ and $0 . 4 ~ \\mathrm { m g / L }$ 6-BA at $2 5 \\pm 1 ^ { \\circ } { \\mathsf { C } }$ under dark conditions.For Fe treatment,the calligrown subculture medium was an iron-sufficient $\\left( + \\mathsf { F e } \\right)$ MS medium supplemented with $1 . 5 \\mathrm { \\ m g / L } 2 , 4 \\mathrm { - D }$ and $0 . 4 ~ \\mathrm { m g / L }$ 6-BA for ‘Orin'apple calli.The iron-deficient $( - \\mathsf { F e } + \\mathsf { F r } \\mathsf { z } )$ medium was the same,without Fe-EDTA and with $3 0 0 ~ \\mathsf { m m }$ FerroZine,an iron indicator.Fortransgenic apple rooting plantlets，Hoagland's nutrient solution with or without iron was used. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Plasmid construction and genetic transformation in apple and apple calli ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The details are provided in the Data S1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Gene expression analysis ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The details are provided in the Data S1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Southern blot analysis ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The details are provided in the Data S1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Phenotypic analyses ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Chlorophyll content was measured in WT and transgenic apple lines under iron-deficient conditions.The young leaves were collected and ground into powder in liquid nitrogen.The powder was resuspended in $80 \\%$ acetone and centrifuged at $1 0 \\ 0 0 0 \\ g$ for5 min.Chlorophyll concentrations were calculated from spectroscopy absorbance measurements at 663.2，646.8 and $4 7 0 ~ \\mathsf { n m }$ ： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acidification assays were performed as described by Yi et al. (1994).Wild-type and transgenic apple calli or apple lines were grown on iron-sufficient media for 1O days and then transferred to iron-deficient media for 5 days.They were finally transferred to a $1 \\%$ agar plate containing $0 . 0 0 6 \\%$ bromocresol purple and $0 . 2 \\mathrm { \\ m m } \\mathrm { \\ C a S O _ { 4 } }$ (pH adjusted to 6.5 with $N a O H )$ for $2 4 { \\ - } 4 8 \\mathrm { ~ h ~ }$ Acidification is indicated by the yellow colour around the apple roots or calli. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FerroZine reagent forms a red-coloured complex with ferrous, but not with ferric iron,and the Fe(ll) is trapped by FerroZine to produce a red product (Stookey,1970). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Transgenic apple lines and calli were dried for 1-2 days at $8 0 ~ ^ { \\circ } C$ and then wet-ashed with $1 . 5 ~ \\mathrm { m L }$ of $1 3 . 4 \\mathrm { ~ M ~ } \\mathsf { H N O } _ { 3 }$ and $1 . 5 ~ \\mathsf { m L }$ of $8 . 8 \\mathrm { ~ M ~ } \\mathsf { H } _ { 2 } \\mathsf { O } _ { 2 }$ for $6 0 ~ \\mathrm { { m i n } }$ at $2 2 0 ^ { \\circ } \\mathsf C$ using a muffle furnace.Iron concentration measurement was carried out as described by Kobayashi et al. (2013). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Chromatin immunoprecipitation (ChIP)-PCR analysis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The details are provided in the Data S1. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Electrophoretic mobility shift assay (EMSA) ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "MdbHLH104 ORF was amplified with primers MdbHLH104-F: 5'- ATGGGGGAATGGATAGAGTAT- $3 ^ { \\prime }$ and MdbHLH104-R: $5 ^ { \\prime }$ -AGC AGCAGGGGGCCTAAG ${ \\cdot } 3 ^ { \\prime }$ containing BamHl and Sall restriction sites,respectively.Then,the gene was inserted into the expressionvector pET32a after digestion with BamHl and Sall.The resultant expressionvectorwastransformedinto BL21. MdbHLH104 proteins were prepared according to the instruction manual.The 36-bp MdAHA8 promoter probes containing a Gboxelement was synthesized and labelled with biotin at the $3 ^ { \\prime }$ end (Sangon，Shanghai，China).Unlabelled competitor probes were generated from the dimerized oligos of the MdAHA8 promoter regions containing E-box motifs.The EMSA was carried out as described in the instruction manual(Thermo Scientific, Rockford)．The double-stranded oligonucleotides wt (TTYAGTYYGGGATTACAAATGCAATACGGTCWTTCT） Were uSedas probes and competitors for the EMSAs.The mut (TTYAGTYYGGGATTAACAAGTCAATACGGTCWTTCT)was used as the mutated competitor. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Protein extraction and western blotting ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The details are provided in the Data S1. Transcription activation analysis in yeast cells The details are provided in the Data S1. Transcriptional activation assays in apple calli The details are provided in the Data S1. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "GUS analysis ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The details are provided in the Data S1. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Yeast two-hybrid (Y2H) assay ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Y2H assays were performed as described by Xie et al. (2012).The MdbHLH104-coding sequence Was cut with BamHl and $S a h$ double digestion and cloned into pGBT9 to generate an in-frame fusion with the GAL4 activation domain.The full-length cDNAs of IVc subgroup MdbHLHs genes Were cut by EcoRl and $S a h$ double digestion and cloned into pGAD424 to generate an in-frame fusion with the GAL4 DNA-binding domain.The plasmidsof pGAD424-MdbHLHs and pGBT9-MdbHLH104 were cotransformed into yeast.The yeast clones were grown on SD/-Trp-Leu and SD/-Trp-Leu-His-Ade media.A selection medium supplemented with -Leu/-Trp was used as a transformation control, whereas for interaction studies，-Leu/-Trp/-His/-Ade withor without5-bromo-4-chloro-3-indolylb-d-galactopyranosideacid (x-α-gal) was used to test for possible interactions. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pull-down assay ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The assays were carried out as described by Xie et al. (2012).The MdbHLH104-coding sequence Was cut with BamHl and $S a h$ double digestion and cloned into pET32a，and the full-length cDNAs of IVc subgroup MdbHLHs were cut by EcoRl and $S a h$ double digestion and cloned into $p G E X .$ The plasmids of $p G E X -$ MdbHLHs and pET-MdbHLH104 were transformed into Escherichia coli BL21 (DE3;Transgene，Beijing，China). For pull-down analysis with GST- and His-tagged proteins,GST-MdbHLH105/ 115/11/121/PYE proteins were first eluted from glutathioneagarose beads before being incubated with His-MdbHLH104, whichthat remained attachedto tetradentated-chelatednickel resin.In general,proteins were incubated at least $4 \\ h$ at $4 ^ { \\circ } C$ under shaking conditions before being centrifuged.Precipitates were washed no fewer than three times to remove unspecific bindings and boiled (10 min, $1 0 0 ~ ^ { \\circ } \\mathsf { C } )$ .Then,the precipitates were further analysed by SDS-PAGE and protein gel blotting using standard procedures. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Plasma membrane ${ \\mathsf { H } } ^ { + }$ -ATPase isolation ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Transgenic apple calli and apple lines or WT controls were grown onFe-sufficient medium and then transformed to a Fe-deficient medium.Plasma membranes were isolated with a buffer consistingof $1 5 ~ \\mathsf { m m }$ Tris-Cl $\\left( \\mathsf { p H } \\ 7 . 5 \\right)$ ,0.5M Sucrose，1 mM EGTA, $1 \\mathsf { m m }$ EDTA, $6 \\%$ (w/v) PVP, $0 . 1 \\%$ (w/v) BSA, $0 . 1 ~ \\mathsf { m m }$ DTT and $1 \\ \\mathsf { m m }$ PMSF.Microsomal pellets were obtained from the homogenate as described (Yang et al.,201O).All steps were performed at $4 ^ { \\circ } C$ or on ice.The homogenate was filtered through four layers of gauzes and centrifuged at $1 3 0 0 0 { \\pmb g }$ for $1 0 \\mathrm { \\ m i n }$ .The supernatant then was centrifuged for 5O min at $8 0 \\ 0 0 0 \\ g$ to obtain a microsomal pellet that was resuspended in a buffer containing $6 . 4 \\%$ (w/w） dextran T-500, $6 . 4 \\%$ (w/w) PEG 3350 (SigmaAldrich,St Louis,MO), $5 ~ { \\mathsf { m m } }$ phosphate buffer titrated to $\\mathsf { p } \\mathsf { H } 7 . 8$ with KOH,3 mM KCI, $0 . 1 ~ \\mathsf { m m }$ EDTA, $1 \\ m _ { \\mathsf { M } }$ DTT, $1 \\ m _ { \\mathsf { M } }$ PMSF, $1 \\times$ protease inhibitor and $0 . 3 3 \\mathrm { ~ M ~ }$ sucrose.The final upper phases were collected，diluted with a resuspension buffer containing $0 . 3 3 \\mathrm { ~ M ~ }$ sucrose, $10 \\%$ (w/v）glycerol, $0 . 1 \\%$ (w/v)BSA, $0 . 1 ~ \\mathsf { m m }$ EDTA, $2 ~ \\mathsf { m m }$ DTT, $1 \\times$ protease inhibitor and $2 0 ~ \\mathsf { m m }$ HEPES-KOH $( { \\mathsf { P } } { \\mathsf { H } } { \\mathsf { \\ 7 . 5 } } )$ and centrifuged for $5 0 ~ \\mathrm { m i n }$ at $1 0 0 \\ 0 0 0 \\ g$ The final membrane pellets were resuspended witha resuspension buffer containing $1 \\mathsf { m m }$ EDTA (Yang et al.,2010). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "PM ${ \\mathsf { H } } ^ { + }$ -ATPaseactivityassays ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "For PM $\\mathsf { H } ^ { + }$ -ATPase activity measurement, $\\mathsf { H } ^ { + }$ transport activity was measured as described (Yang et al.,201O).An inside-acid pH gradient $( \\Delta p \\mathsf { H } )$ was formed in the vesicles by the activity of the $\\mathsf { H } ^ { + }$ -ATPase and measured asa decrease (quench) in the fluorescence of quinacrine (a pH-sensitive fluorescent probe).The assays $( 2 ~ \\mathsf { m L } )$ contained $1 0 ~ \\mu \\mu$ quinacrine, $3 \\mathrm { \\ m w \\ M g { S O _ { 4 } } } ,$ $1 0 0 \\mathrm { \\ m m \\ K C l } .$ $2 5 ~ \\mathsf { m m }$ BTP-Mes-HEPES (Sigma-Aldrich),pH 6.5, $2 5 0 ~ \\mathsf { m m }$ mannitol and $5 0 ~ \\mathrm { m g / m L }$ ofa PM protein.The reactions were mixed by inversion several times and then placed in a dark chamber in a fluorescence spectrophotometer (Hitachi, Ltd.,Tokyo,Japan).The reactions were initiated by the addition of ATP to a final concentration of $3 \\mathsf { m m } ,$ and the formation of $\\Delta \\mathsf { p } \\mathsf { H }$ was measured at the wavelengths of $E _ { \\times } = 4 3 0 ~ \\mathrm { n m }$ and $E _ { \\times } = 5 0 0$ nm.At the end of each reaction, $1 0 ~ \\mu \\mathrm { M }$ m-chlorophenylhydrazone (CCCP) was added to stop any remaining pH gradient. Specific activity was calculated by dividing the change in fluorescence by the mass of PM protein in the reaction per unit time $\\langle \\Delta F / \\mathsf { m i n }$ per mg of protein). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from NSFC (31430074), Ministry of Agriculture of China (201203075-3)，Ministry of Education of China (IRT15R42) and Shandong Province (SDAIT03-022-03). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We thank Prof Ilan Sela of Hebrew University of Jerusalem, Israel，for IL-6O-BS and plR binary vectors and Dr Takaya Moriguchi at National Institute of Fruit Tree Science,Japan，for 'Orin'apple calli. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Baxter,I.,Tchieu,J., Sussman,M.R.,Boutry,M.,Palmgren,M.G.,Gribskov,M., Harper,J.F.et al.(20o3) Genomic comparison of P-type ATPase ion pumps in Arabidopsisand rice.Plant Physiol.132,618-628.   \nBriat,J.F.and Lobréaux,S.(1997) Iron transport and storage in plants.Trends Plant Sci.2, 187-193.   \nColangelo,E.P.and Guerinot,M.L. (2oo4) The essential basic helix-loop-helix protein FIT1 is required for the iron deficiency response.Plant Ce/,16,3400- 3412.   \nDell'Orto,M.，Santi,S.,De Nis,i P.,Cesco,S.,Varanini,Z.,Zocchi,G.and Pinton，R. (2ooo) Development of Fe-deficiency responses in cucumber (Cucumis sativus L.）roots:involvement of plasma membrane $\\mathsf { H } ^ { + }$ -ATPase activity.J.Exp.Bot.51,695-701.   \nFisher,F.and Goding,C.R.(1992) Single amino acid substitutions alter helixloop-helix protein specificity for bases flanking the core CANNTG motif. EMBOJ.11,4103.   \nGonzalo,M.J.,Moreno,M.A.and Gogorcena,Y.(2011) Physiological response and differential gene expression in Prunus rootstocks under iron deficiency Conditions.J.Plant Physiol. 168,887-893.   \nGuerinot,M.L.and Yi,Y.(1994) Iron: nutritious，noxious，and not readily available.Plant Physiol.104,815.   \nHaruta,M.,urch,H.L.,elson,R.B,Barret-Wil,G.line,K.G,Mhsin,.B. Young,J.C.etal. (2010) Molecular characterization of mutant Arabidopsis plants with reduced plasma membrane proton pump activity.J. Biol. Chem. 285,17918-17929.   \nHeim,M.A.,Jakoby,M.,Werber,M.,Martin,C.,Weisshaar,B.and Bailey, P.C (2003)The basic helix-loop-helix transcription factor family in plants:a genome-wide study of protein structure and functional diversity.Mol. Biol. Evol. 20,735-747.   \nHindt,M.N.and Guerinot, M.L. (2O12) Getting a sense for signals: regulation of the plant iron deficiency response.Biochim.Biophys.Acta，1823，1521- 1530.   \nIvanov,R.，Brumbarova,T.and Bauer,P.(2012)Fiting into the harsh reality: regulation of iron-deficiency responses in dicotyledonous plants.Mol. Plant, 5, 27-42.   \nJakoby，M.,Wang，H.Y.，Reidt,W.,Weisshaar,B.and Bauer,P.(2004) FRU (BHLH029)is required for induction of iron mobilization genes in Arabidopsis thaliana.FEBS Lett.577,528-534.   \nKim,S.A.,Punshon,T.,Lanzirotti,A.,Li,L.,Alonso,J.M.,Ecker,J.R., Kaplan,J. et al. (2006) Localization of iron in Arabidopsis seed requires the vacuolar membrane transporter VIT1. Science,314,1295-1298.   \nKobayashi，T.and Nishizawa,N.K.(2012) Iron uptake，translocation，and regulation in higher plants.Annu.Rev.Plant Biol.63,131-152.   \nKobayashi,T.,Nagasaka,S., Senoura,T.,Itai, R.N., Nakanishi, H.and Nishizawa, N.K.(2013) Iron-binding haemerythrin RING ubiquitin ligases regulate plant iron responses and accumulation. Nat. Commun.4,2792.   \nKorcak,R.F.(1988) Nutrition of blueberry and other calcifuges.Horticultural Rev. 10,183-227.   \nKosegarten,H.,Wilson,G.H.and Esch,A.(1998) The effect of nitrate nutrition on iron chlorosis and leaf growth in sunflower (Helianthus annuus L.).Eur.J. Agron. 8, 283-292.   \nLi,X.X., Duan,X.P., Jiang, H.X.,Sun, Y.J.,Tang, Y.P., Yuan,Z.,Guo,J.K. et al. (2006)Genome-wide analysis of basic/helix-loop-helix transcription factor family in rice and Arabidopsis.Plant Physiol.141,1167-1184.   \nLing,H.Q., Bauer,P., Bereczky,Z., Keller,B.and Ganal,M.(2OO2) The tomato fer gene encoding a bHLH protein controls iron-uptake responses in roots. Proc. Natl Acad.Sci. USA,99,13938-13943.   \nLong,T.A.,Tsukagoshi,H., Busch,W.,Lahner,B.,Salt, D.E.and Benfey, P.N (2010) The bHLH transcription factor POPEYE regulates response to iron deficiency in Arabidopsis roots.Plant Cel,22,2219-2236.   \nMarschner，H.(1995) Functions of mineral nutrients:macronutrients.Miner Nutr Higher Plants,2,379-396.   \nMarschner,H.and Romheld,V.(1986) Different strategies in higher plants in mobilization and uptake of iron.J. Plant Nutr.9,695-713.   \nNiu,X.,Narasimhan,M.L., Salzman,R.A., Bressan,R.A.and Hasegawa,P.M. (1993) NaCl regulation of plasma membrane $\\mathsf { H } ^ { + }$ -ATPase gene expression in a glycophyte and a halophyte.Plant Physiol.103,713-718.   \nPalmgren,M.G.(2001) Plant plasma membrane ${ \\mathsf { H } } ^ { + }$ -ATPases:powerhouses for nutrient uptake.Annu. Rev.Plant Biol.52,817-845.   \nRampey,R.A.,Woodward,A.W.,Hobbs,B.N.,Tierney,M.P.,Lahner,B.,Salt, D.E.and Bartel,B. (206)AnArabidopsis basic helix-loop-helix leucineipper protein modulates metal homeostasis and auxin conjugate responsiveness. Genetics,174,1841-1857.   \nRomheld，V.and Marschner，H.(1986) Evidence for a specific uptake system for iron phytosiderophores in roots of grasses.Plant Physiol.80, 175-180.   \nSanti,S.and Schmidt,W. (2oo9) Dissecting iron deficiency-induced proton extrusion in Arabidopsis roots. New Phytol.183,1072-1084.   \nSanti,S.,Cesco,S., Varanini,Z.and Pinton,R.(2oo5)Two plasma membrane $\\mathsf { H } ^ { + }$ -ATPases genesare differentially expressed in iron-deficient cucumber plants.Plant Physiol. Biochem.43,287-292.   \nSchmidt,W. (2oo3)Iron solutions: acquisition strategies and signaling pathways in plants.Trends Plant Sci.8,188-193.   \nSchubert,S.and Yan,F.(1997) Nitrate and ammonium nutrition of plants: effects on acid/base balance and adaptation of root cell plasmalemma $\\mathsf { H } ^ { + } .$ ATPase.Z.Ptlanzenemaehr und Bodenkd,160,275-281.   \nSelote,D., Samira,R.,Matthiadis,A.,Gilikin,J.W.and Long,T.A. (2015) Ironbinding E3 ligase mediates iron response in plants by targeting bHLH transcription factors.Plant Physiol.167,273-286.   \nStookey,L.L.(1970) Ferrozine-a new spectrophotometric reagent for iron.Anal. Chem. 42,779-781.   \nTagliavini, M.and Rombola,A.D.(2oo1) Iron deficiency and chlorosis in orchard and vineyard ecosystems.Eur.J.Agron.15,71-92.   \nWang,N.,Cui,Y., Liu,Y.,Fan,H., Du,J.,Huang,Z.and Ling,H.Q.(2012) Requirement and functional redundancy of Ib subgroup bHLH proteins for iron deficiency responses and uptake in Arabidopsis thaliana.Mol.Plant,6, 503-513.   \nXie,X.B.,Li,S., Zhang,R.F., Zhao,J., Chen,Y.C., Zhao,Q.and Hao,Y.J. (2012) The bHLH transcription factor MdbHLH3 promotes anthocyanin accumulation and fruit colouration in response to low temperature inapples.Plant, Cell Environ.35,1884-1897.   \nYan，F.，Feuerle，R.，Schäffer，S.，Fortmeier，H.and Schubert,S.(1998) Adaptation of active proton pumping and plasmalemma ATPase activity of corn roots to low root medium pH.Plant Physiol.117,311-319.   \nYang,Y.,Qin,Y.,Xie,C., Zhao,F.,Zhao,J., Liu,D.and Guo,Y. (2010) The Arabidopsis chaperone J3 regulates the plasma membrane $\\mathsf { H } ^ { + }$ -ATPase through interaction with the PKS5 kinase.Plant Cell,22,1313-1332.   \nYi,Y.，Saleeba,J.A.and Guerinot,M.L. (1994) Iron uptake in Arabidopsis thaliana.In Biochemistry of Metal Micronutrients in the Rhizosphere, J.Manthey,D. Luster and D.E. Crowley,eds (Lewis Publishers, Inc: Chelsea, MI),pp.295-307.   \nYin，L.，Wang,Y.，Yuan，M.，Zhang，X.，Xu,X.and Han,Z.H. (2014) Characterization of MxF/T,an iron deficiency induced transcriptional factor in Malus xiaojinensis.Plant Physiol. Biochem.75,89-95.   \nYuan,Y.X.，Zhang,J.，Wang,D.W.and Ling,H.Q.(2005) AtbHLH29 of Arabidopsis thaliana isa functional orthologof tomato FER involved in controlling iron acquisition in strategy | plants. Cel Res.15, 613-621.   \nYuan,Y.,Wu,H.,Wang,N.,Li,J.,Zhao,W.,Du,J.and Ling,H.Q.(2008) FIT interacts with AtbHLH38 and AtbHLH39 in regulating iron uptake gene expression for iron homeostasis in Arabidopsis. Cel/ Res.18,385-397.   \nZhang,J.,Liu,B.,Li,M.S.,Feng,D.R.,Jin,H.L.,Wang,P.,Liu,J.et al. (2015) ThebHLH transcription factor bHLH1O4 interacts with IAA-LEUCINE RESISTANT3 and modulates iron homeostasis in Arabidopsis.Plant Cell,27, 787-805.   \nZhao,M.,Song,A.,Li,P.,Chen,S.,Jiang,J.and Chen,F.(2014)A bHLH transcriptionfactorregulatesironintakeunderFedeficiencyin chrysanthemum. Sci. Rep.4,6694. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supporting information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional Supporting information may be found in the online version of this article: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 Alignment of apple IVc bHLH subgroup proteinsand expression analysis of MdbHLH104 gene.   \nFigure S2 Construction of MdbHLH104 overexpression vector and genetic transformation into apple plant.   \nFigure S3 Identification of apple MdAHAs genes and ChIP-PCR assays of MdbHLH104 protein in MdAHA gene promoters. Figure S4 MdbHLH104 protein binds to the E-box motifs in the promoters ofIb subgroup bHLH genes MdbHLH38 and MdbHLH39 and in that of IVc bHLH gene MdPYE.   \nFigure S5 Phenotypes of 35S:MdbHLH104-GFP transgenic apple calli under Fe-suficient and Fe-deficient conditions.   \nTable S1 Primers used for gene cloning.   \nTable S2 Primers used for qRT-PCR.   \nTable S3 Primers used for ChIP-PCR.   \nDataS1 Supplemental materialsand methods. ",
+        "page_idx": 12
+    }
+]

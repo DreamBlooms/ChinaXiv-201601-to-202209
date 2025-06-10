@@ -1,0 +1,367 @@
+[
+    {
+        "type": "text",
+        "text": "射电望远镜台站的Android手机干扰管理APP设计与实现",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "李军1,2，王娜1,3，刘志勇1,3，李宁1,2，杨垒1,2，颜帅4(1．中国科学院新疆天文台，乌鲁木齐 830011;  \n2．中国科学院大学，北京100049;  \n3．中国科学院射电天文重点研究室，南京210008;  \n4．成都七中育才中学，成都 610011)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：无线电监测表明，手机与基站通信产生的干扰信号会影响射电天文观测数据，为了抑制射频干扰,天文学家提出屏蔽站内电子设备、设置无线电宁静区等无线电管理办法，其中的手机信号因易移动、基数大而难于监测和管理。然而，开启手机的飞行模式或关机可以降低射频干扰。基于此，本文设计和开发了一款基于Android系统的手机干扰管理APP，采用定位技术来自动判别手机是否处于无线电宁静区，以提醒用户管理手机，并记录用户在宁静区内的操作。测试结果表明，当用户处于无线电宁静区时，APP能主动提醒用户开启飞行模式或关机，有效降低手机信号对天文观测数据的影响。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：手机干扰管理APP；射电天文观测；射频干扰；无线电宁静区中图分类号：P161 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着不断增加的固定电子设备(如基站、电脑和路由器等)和移动电子设备(如手机、便携式电脑和相机等)2的使用，射电天文台站受到的射频干扰越发严重。通常固定电子设备产生的信号可根据RFI管理条例、采用屏蔽等技术手段来抑制或消除[3]，而移动电子设备产生的信号具有实时监测困难、管控难度大等特点，尤以可移动、基数大的手机信号更为突出。用户在射电望远镜附近使用手机时产生的手机信号，如，手机与基站之间的通信信号、手机发出的热点信号、手机搜索基站的信号和开关机时产生的瞬时信号等[2,4]，会影响天文观测数据。据工信部统计，2018年我国手机用户达到15.7亿’，另据央视网公布2018年上半年FAST接待游客数量为513万人次。若不对游客携带的手机采取管控措施，会大大降低射电望远镜的科学作用。对于影响天文观测数据的手机信号，现有的解决办法包括：设置无线电宁静区，设定警示牌和使用无线探测器检测手机[3]。然而，上述解决办法存在着缺陷，如：工作人员管理寄存的手机会增加管理成本；台站如果不强制寄存手机，用户可能会忘记开启飞行模式或关机；警示牌的数量有限，致使作用收效甚微。可见现有方式基本不能主动、实时、有效",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地管理手机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对上述现状，本文设计和开发了一款基于Android系统的手机干扰管理APP(MobileInterference Management APP，简称MIMA)。当用户进入到离望远镜较近的区域，如无线电宁静区，手机会以振动和铃声的方式提醒用户开启飞行模式或关机，以降低手机信号对射电天文观测数据的影响。文章其余部分安排如下，第1部分介绍系统的功能需求；第2部分、第3部分和第4部分分别阐述系统设计、实现和测试；第5部分则对系统进行总结和讨论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 功能需求",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "设计一款能帮助手机用户在射电望远镜无线电宁静区内主动、智能管理手机运行状态的APP，其功能需求包括：(1)当手机用户进入宁静区时，可以主动提醒用户管理手机；(2)用户离开宁静区，手机会提醒用户恢复正常通信；(3)具有服务端与客户端；(4)初始化配置信息位于服务端，MIMA开启后能自动加载数据；(5)记录用户在宁静区内开启/关闭飞行模式或开关机操作，并将操作记录上传至服务端；(6)定位方式包括手机定位、基站定位和第三方定位；(7)能同时管理多个天文台站；(8)增加站点管理功能，并由管理人员负责审核。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2系统设计",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "良好的系统设计能保证MIMA系统可扩展、可移植和易维护等特性。本文主要从设计思路、架构设计和流程设计三个方面进行阐述。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 设计思路",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外射电天文台站的无线电宁静区(或电磁波宁静区)是依据射电望远镜的天线口径、频率，台址的电磁环境、地形特征、地方规则等因素来设置。因此，不同天文台站对无线电宁静区的层级范围有差异，命名规则也各不相同，但大多设置为3级，从内到外的要求逐步降低[5.6]。如FAST的三个层级从内到外分别对应区域的范围分别为半径5公里、10公里和30公里。QTT则依托地形特征将无线电宁静区从内到外划分为长方形的核心区和限制区，区域范围分别为2.5公里 $\\times 4$ 公里和10公里 $_ { \\times 1 5 }$ 公里，及半径为30公里的协调区。在判断用户与射电望远镜的位置关系时，使用球面距离公式 (1)计算手机与望远镜的距离，并判断用户所处区域。用户在不同的层级的提醒方式存在差异，当处于协调区时，MIMA会弹出对话框，且伴有铃声和振动(提醒时长为10s，提醒2次)；进入限制区后(用户不离开限制区)，提醒15秒，且最多提醒两次；当位于核心区时，提醒时长为20秒且只提醒一次。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$D = R \\cdot \\operatorname { a r c c o s } [ c o s \\beta _ { u 1 } \\cdot c o s \\beta _ { t 1 } \\cdot \\cos ( \\alpha _ { u 1 } - \\alpha _ { t 1 } ) + s i n \\beta _ { u 1 } \\cdot s i n \\beta _ { t 1 } ]$ (1)其中, $\\rho _ { 1 } , \\rho _ { t }$ 分别为地球上的两个坐标点 $( \\alpha _ { t 1 } , \\beta _ { t 1 } )$ 和 $( \\alpha _ { u 1 } , \\beta _ { u 1 } )$ ，D为点 $\\rho _ { 1 }$ 和点 $\\rho _ { t }$ 的距离， $R$ 为地球的半径。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在调研过程中发现，大多数天文机构有多个台站，MIMA能同时管理多个台站。其中，依据手机定位技术、球面距离公式等相结合的方式来判别与用户最近的射电望远镜，获取用户与望远镜的距离，判断用户是否处于无线电宁静区，以提醒用户管理手机。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 架构设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "系统架构由三层MVC架构的客户端系统架构和四层分层架构的服务端系统架构组成，这两个架构能提高模块之间的耦合性、降低模块的内聚性，保障系统层级间的接口定义标准，使系统具有可扩展、可移植和易维护的特性8]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.1客户端架构设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "客户端架构使用了三层的MVC架构，图1展示了客户端由用户层、应用层和存储层组成。其中，用户层为用户查看并与之交互的界面，能显示用户与射电望远镜的距离，将存在的缺陷或未添加的望远镜配置信息反馈给管理员，也可快速跳转到GPS或飞行模式界面。应用层是整个客户端架构的核心，通过分析第1部分的功能需求，提出了以下的解决方法：(1)根据手机耗电量和耗流量的不同，将第三方定位(如百度Android SDK定位)、基站定位和GPS定位等定位方式赋予不同的优先级(详见表1)；(2)用户所处位置的基站信号差(或无基站信号)、GPS已关闭和未开启飞行模式的情况下，APP会提醒用户开启GPS，以判定用户位置；(3)界面退出后，能继续实现定位、数据管理、判别距离、网络传输和进程管理等。存储层能保存位置信息、中间结果及配置信息等。SQLite存储射电望远镜的经纬度，宁静区的范围、层级，用户操作记录等。其中，射电望远镜配置信息表包括射电望远镜ID、名称、无线电宁静区的范围和层级等字段；用户操作记录表则包括用户ID、飞行模式状态、开关机状态、距离、手机序列号和开启/关闭飞行模式或开/关机的时间等字段。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7366c5f219e04d65bfbbb10b2b665700421be0a9c2206bfafc3faaf97bcbc126.jpg",
+        "img_caption": [
+            "图1客户端系统架构",
+            "Fig.1.Architecture of client System "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表1．手机定位类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/62f4c07a6add57aa6e62bfbbf140feda23d917775ca3134044815a8d6c74dbd7.jpg",
+        "table_caption": [
+            "Tab 1. Location type of mobile "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>技术类别</td><td>应用设备</td><td>耗电</td><td>耗流量</td><td>定位精度</td><td>通信</td><td>优先级</td></tr><tr><td>GPS定位</td><td>导航设备</td><td>很大</td><td>不消耗</td><td>约100米</td><td>不需通信</td><td>3</td></tr><tr><td>基站定位</td><td>手机</td><td>不消耗</td><td>消耗</td><td>约200米</td><td>蜂窝网络</td><td>2</td></tr><tr><td>百度定位SDK</td><td>导航设备</td><td>不消耗</td><td>不消耗</td><td>约200米</td><td>蜂窝网络</td><td>1</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2.2服务端架构设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "服务端系统架构使用了四层的分层架构，由用户层、逻辑层、数据层和存储层构成(详见图2)，能存储和查询手机用户在MIMA上的操作记录。用户层能显示用户的操作记录及搜索操作记录。逻辑层能管理用户层的请求分发，将存储层的数据返回到用户层。数据层提供数据访问、网络协议等接口，以完成数据的读取。存储层则保存手机用户的操作记录及管理员的操作记录。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/246b75cdaadba756d5b546f109efb1874657daed50ad90c9e64d90115b567228.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3设计流程",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为MIMA系统的设计流程，包括初始化配置信息，计算用户与射电望远镜的距离，识别与用户最近的射电望远镜，判断用户是否处于无线电宁静区，确定是否开启飞行模式或关机，最终将用户操作记录上传到服务端。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac00da20b4ba451f27d2f8926de374c0e86b0997995794d7f69130a5199f2ee2.jpg",
+        "img_caption": [
+            "Fig.2 System structure of server. ",
+            "图3MIMA系统流程图",
+            "Fig.3FlowchartofMIMAsystem. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3系统实现",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统实现包括初始化、系统功能实现、系统测试和干扰结果对比等方面，保证MIMA在无线电宁静区能主动智能地开启飞行模式或关机，记录用户在宁静区内的操作，并最终将用户在客户端的操作记录上传至服务端。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 初始化",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "系统初始化由初始化配置信息和初始化定位组成。配置信息的初始化以Key-Value键值对的形式存储于JSON中，初始化三种定位方式(如，GPS定位、基站定位等)则能获取手机用户的经纬度。其中，初始化Android SDK定位需导入jar、so包和添加开发密钥、权限等，且",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在应用程序初始化过程中需引用全局变量、调用初始化函数等。基站定位初始化包括导入jar、so包及添加权限等，通过调用初始化函数可获取经纬度、地理位置等。GPS定位的初始化过程则需导入jar、so包和添加权限等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2功能模块实现",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "客户端使用的MVC架构使APP的前台界面和后台服务分离。其中，开发环境为AndroidStudio，界面的开发工具为 $\\mathrm { \\Delta \\ J A V A + X M L }$ ，后台服务的开发语言为JAVA。图4为客户端功能模块类图，界面中的类MIMAFront展示用户与望远镜的距离，及将展示距离保留两位小数。后台服务是客户端的核心，在界面退出后，类BackService依赖类JudgeDis、KLService和ShowDiag能定位、计算、判断和提醒等。管理进程类KLService确保后台服务类BackService能正常运行状态，而类JudgeDis依赖初始化配置信息(类InitConInfo)、手机定位(类Location)，以判断用户与望远镜的位置关系。类ShowDiag为用户进入宁静区时，能弹出对话框提醒用户管理手机。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4669ea8d0ceeb4a7e393cad5b0652085df6acbbe0ce2c8e83cf7a5ce9f311ca.jpg",
+        "img_caption": [
+            "图4客户端模块类图",
+            "Fig.4 Class diagram of client module. ",
+            "图5服务端模块类图",
+            "Fig.5 Class diagram of server module. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "服务端中的用户层使用开发工具HTML、CSS和JavaScript，逻辑层、数据层和存储层的开发语言为JAVA。类BehRecSerImpl继承类DBUtil的数据库操作功能，以获取模型数据。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Page PageSetting DBUtil   \n-id -pageSize -DRIVER_URL   \n-name -currentPage -DRIVER_USER BehRecSer   \n-datetime -rowCount -DRIVER_PWD   \n-isoffphone -pageCount +commonUpdate(   \n-istartlymode +BehaviorRecord( -stardist -endIndex +commonQueryO   \n+getIdO +PageSettingO   \n+getName( +getPageSizeO BehRecSerImpl   \n+getDatetime( +getCurrentPageO   \n+getIsoffphoneO +getRowCountO +getAll(   \n+getIsstartflymodeO +getPageCountO +getRowCountO   \n+getDistance() +getPageList( +getPageSettingO +getStartIndexO +getListSelectorUser( ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "且在类BehRecSerImpl实例化了BehRecSer的接口函数getPageSettingO、getAll()等。与类BehRecSerImpl具有依赖关系的类PageSeting为管理页面的基本设置，pageSize为一个页面显示的信息条数，currentPage、rowCount、pageCount分别为当前页、信息的总条数和页面数量，startIndex、endIndex分别表示首页和尾页。类Page是PageSetting类的部分，为前台页面信息的展示。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 系统测试",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "系统测试包括功能测试和结果对比两部分，其中的功能测试为APP在宁静区内提醒用户管理手机，而结果对比则比较了手机在开启飞行模式和关闭的条件下产生的信号强度。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.1功能测试",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "该APP安装在手机之后，结合GPS定位、基站定位和Android SDK定位技术可获取用户的经纬度，使用球面距离公式(1)能计算用户与射电望远镜的距离，能判别离用户最近的望远镜并将数据显示于图6(a)，当用户处于无线电宁静区时，会弹出一个图6(b)所示的提醒对话框，此时用户点击\"飞行模式设置\"按钮便可进入图6(c)展示的飞行模式界面。同时，服务端存储用户在MIMA上的操作，管理员可查看或搜索手机用户在宁静区的操作记录。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/1745ef07a9d0704426b5210a3c7f47a392e638bdbb68bffb16b9133e58a41be4.jpg",
+        "img_caption": [
+            "图6MIMA系统界面"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.6MIMA system interface ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2结果对比",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/b4eff9dc31f3daf4c914fd32f639f04ed72c7643b19d1bf1ac9d0977136efc46.jpg",
+        "img_caption": [
+            "图7APP系统管理和抑制干扰前后对比"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.7 Contrast diagram of APP system management or suppression. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在测试手机的开启/关闭飞行模式中发现，正常运行时会发出信号去搜索2G、3G和4G的基站，以检测手机是否正常通信，此时搜索手机产生的信号详见图7(a)；开启飞行模式后，手机不会产生搜索信号，测试结果详见图7(b)。因此，MIMA能有效地管理手机产生的信号，以减小手机信号对射电望远镜天文观测数据带来的危害。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5总结与讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "电子设备产生的信号会影响射电望远镜的天文观测数据质量，且这类信号很难实时地监测、追踪和管理，尤以无线电宁静区周围用户随身携带手机产生的信号更为突出。因此，本文设计和开发了一款基于Android系统的MIMA，当用户进入宁静区时，能主动提醒用户开启飞行模式或关机，以降低手机信号对射电天文观测数据的不良影响。相比于其他抑制或消干扰的方法，该方法具有以下优势：（1）相对于投放大量的警示牌，使用MIMA的经济成本低；(2)通过手机的友好提醒，使游客知晓移动电子设备(如：手机)对射电天文观测数据的危害；(3)另外，本方法也是对RFI管理条例的补充。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MIMA的不足之处是目前的测试环境为Android系统，IOS平台尚未开发完成，需进一步的开发和完善，以实现智能手机平台的全面管理。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献:",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1]李颖,刘奇,刘艳玲 等．电子设备电磁辐射评估软件设计及实现.天文研究与技术,2016,13(1):134-142. Li Y,Liu Q,Lin YL, et al. The Design and Actualization of the Electromagnetic Emission Evaluation Software for the Electronic Equipment at the Radio Astronomy Station [J]. Astronomical Research and Technology，2016，13(1):134-142.   \n[2] 黄仕杰，张海燕，甘恒谦 等.FAST访客电子设备电磁干扰分析，天文研究与技术,2017,14(2):268-274. Huang S J, Zhang HY, Gan HQ,et al. A Study of Evaluation on Radio Interference ofFAST Vistor's Electronic Devices [J]. Astronomical Research and Technology，2017，14(2): 268-274.   \n[3] Willem A B. RFI Mitigation in Radio Astronomy [C]. Processedings of Science. 2010.   \n[4] 苏渭水．基于手机与通讯基站的电磁环境影响分析．科技视界,2018,15(71):156-157. Su W S.Electromagnetic Environment Influence Analysis Based on Mobile Phone and Communication Base Station [J]. Science & Technology Vision,2018,15(71): 156-157.   \n[5]刘晔，刘奇．大口径射电望远镜台址电磁干扰预测方法．中国科学：物理学 力学 天文学,2019,49(9): 099514 Liu Y,Liu Q. A prediction method for electromagnetic interference of large aperture radio telescope (in Chinese).Sci Sin-Phys Mech Astron,2019,49:099514.   \n[6]张博．解密FAST的电磁波宁静区．天文爱好者,2017,12:38-42. Zhang B. Decrypting FAST's electromagnetic radio quiet zone. Astronomy enthusiasts, 2017,12: 38-42.   \n[7]樊东卫，何勃亮，李长华等．球面距离计算方法及精度比较．天文研究与技术,2019,16(1):69-76. Fan D W, He B L, Li CH, et al. Research on Spherical Distance Computation and Accuracy Comparison [J]. Astronomical Research and Technology, 2019,16(1):69-76.   \n[8] Plakalovic D, Simic D. Applying MVC and PAC patterns in mobile applications [J]. Journal of Computing, 2012,2(1).65-72   \n[9] 谢光，钟城．手机定位方法与精度研究.现代信息科技,2018,2(7):36-38. XIE G,ZHONG C.Research on Mobile Phone Location Method and Precision of Mobile Phone [J].Modern Information Technology,2018,2(7):36-38. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Design and implementation of android mobile interference management APP for radio telescope station ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Li Jun12, Na.Wang13,Liu Zhiyong13,Li Ning12, Yang Lei12,Yan Shuai4 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(1.Xinjiang Astronomical Observatory, Chinese Academy of Sciences,Urumqi 83oo11,China;   \n2.University of Chinese Academy of Sciences,Beijing 100049,China; 3.100049,China;   \n3.KeyLaboratory of Radio Astronomy,Chinese Academy of Sciences,Nanjing 21ooo8,China;   \n4.Chengdu Qizhong Yucai Middle School, Chengdu 61oo11, China) ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Radio monitoring shows that interference signals generated by mobile communication with base stations may affect radio astronomical observation.Astronomers proposed radio management rules to mitigate radio frequency interference, such as shielding electronic equipment in the station and seting up radio quiet area. However, these rules are difficult to track and manage removable and a lot of signals, but seting the mobile on airplane mode or power off the mobile can reduce the generation of signals. On the basis of airplane mode or shutdown, this paper designs and develops a mobile interference management APP based on Android. The APP can judge whether the mobile is in the radio quiet zone by using mobile positioning technology,and reminds a user to manage his/her mobile,and saves user's operation record in the radio quiet zone.Through analyzing the results of experiments,once a user enters the radio quiet zone,the APP can remind the user to put the mobile on airplane mode or turn off, which could reduce the influence of signals on astronomical observation. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Key words: Mobile interference management APP; Radio astronomical observation; Radio frequency interference; Radio quiet zone ",
+        "page_idx": 7
+    }
+]

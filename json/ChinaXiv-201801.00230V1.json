@@ -1,0 +1,768 @@
+[
+    {
+        "type": "text",
+        "text": "DOI:10.5846/stxb201611152317 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐浩田,周林飞,成遣.基于PSR模型的凌河口湿地生态系统健康评价与预警研究.生态学报,2017,37（24）：8264-8274.XuHT,ZouL，eng.StudyooseaevaluatiodsesseforLieoudasedoodelActaolicaSinica,2017,37(24) :8264-8274.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "基于PSR模型的凌河口湿地生态系统健康评价与预警研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "徐浩田，周林飞\\*，成遣沈阳农业大学水利学院，沈阳110866",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：凌河口湿地自然保护区是辽河流域主要的湿地保护区域。选取1995年、2000年、2005年2009年和2014年TM影像作为研究的数据源,在3S技术平台支撑下构建了凌河口湿地空间信息数据库,获取了5个时期的景观格局指数。运用PSR数学模型,从压力、状态、响应3个方面选取10个评价指数,构建了凌河口湿地生态系统健康评价指标体系;采用AHP方法确定各项指标权重指数,应用逻辑斯蒂增长模型(Logistic growth model)对各个单项指标进行单因子评价，最后用计算CEI的综合评价法对5个时期湿地的生态健康情况进行综合评价。结果表明：1995年、200年生态系统健康指数为0.642、0.617,凌河口湿地生态系统状态为比较健康;2005年、2009年和2014年生态健康指数为0.524、0.436和0.405,凌河口湿地生态系统处于亚健康的状态,应及时采取措施对该研究区进行生态系统保护。最后通过选取基于灰色系统理论的预测模型,构建凌河口湿地生态健康预测模型GM(1,1),对模型进行精度检验,发现灰色绝对关联度、后验差比值和小误差概率的精度检验等级均为一级,预测模型精度较为理想,因此采用 $\\operatorname { G M } ( 1 , 1 )$ 模型对凌河口湿地进行生态系统健康预测研究。预测结果表明：未来 20 年的湿地生态健康值分别为:0.357、0.321、0.291、0.267,研究区处于一般病态,并有向病态发展的趋势,生态健康面临愈来愈严重的威胁,对湿地进行保护和管理刻不容缓。 1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：PSR模型;健康评价；灰色系统预测;凌河口湿地",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Study on ecosystem health evaluation and risk assessment for Linghekou wetlands based on a PSR model ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "XU Haotian， ZHOU Linfei\\*, CHENG Qian College ofWater Conservancy，Shenyang Agriculture University，Shenyang 11O866,China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:Asoneof the Liaoning nature reserves，theLingheestuary wetland isan important component of the Liaohe Delta.Data fromTMimages in1995,2000,2005,2009 and 2014,wereused tobuildaspatialinformation databaseof the Linghekou Wetland Nature Reserveand determine landscape dates of 5 periodsusing 3S technology.In thisstudy，we evaluated Linghekouwetland ecosystemhealth using the purpose-built Linghekou wetlandecosystem health evaluationbased on thePress-Status-Response（PSR）concept model.Weused the expert evaluation index combined with the AHP evaluation tocomprehensively evaluatetheuseofalogistic growth modelforeach indexbasedon the assessment of asingle index.The ecosystem health values were 0.642and 0.617 in 1995and 2000,respectively，indicating that the ecosystem health wasbeter in1995than 2000；the ecosystem health values were0.524,0.436,and0.405in 2005,2009 and 2014, respectively，which showed thattheecosystem was ina sub-healthy stateand some necessry measures should to be immediatelytaken.Basedonthis study，weusedthe Grey prediction modeltobuilda wetland ecosystem health prediction model and tested the model foraccuracy.Thecorelation and mean square errorratioand thesmallerror probability were primaryconcerns；themodelacuracywas high enough toeffectivelypredicttheecosystemhealthoftheLinghekouwetland. The predictionvalues forthe Linghekou wetland ecosystem health were0.357,0.321，0.291and0.267in 2019,2024, 2029 and 2O34.The wetland ecosystem health wasina general por stateandthis trend isexpected to worsen.Ecosystem health threatsarevery seriousand necesitate more protection and managementof wetland ecosystems to ensure their survival. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Key Words:PSR model；ecosystem health evaluation；Grey prediction；wetlands in Linghe River estuary ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "湿地作为地球上十分重要的自然资源和生态系统,在调节径流、净化环境、控制污染、涵养水源、抵御洪水、保护生物多样性和维持区域生态平衡等方面起着其他类型生态系统不可替代的作用[[2]。然而,随着人类活动的不断加剧,人类的需求发展同自然资源、环境的相互矛盾日趋尖锐,湿地资源受到了严重的干扰和破坏,同时导致了一系列生态环境问题的发生[3]。对湿地进行生态系统健康评价与预警研究,不仅可以评估湿地资源所面临的各种环境压力,分析其现在所处的状态,还能够预测湿地的演变规律,提出保护修复措施，从而确保湿地及其资源的可持续利用,为流域生态环境保护、工农业生产及协调区域经济发展提供科学依据,具有重要意义[4-5]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与基础资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "凌河口湿地 $( 4 0 ^ { \\circ } 4 5 ^ { \\prime } - 4 1 ^ { \\circ } 0 0 ^ { \\prime } \\mathrm { N } , 1 2 1 ^ { \\circ } 0 0 ^ { \\prime } - 1 2 1 ^ { \\circ } 3 0 ^ { \\prime } \\mathrm { E } )$ 自然资源丰富，生态环境美好，位于渤海辽东湾区域的北部,包含辽宁省凌海市约 $6 9 ~ \\mathrm { k m }$ 的海岸线,是辽河流域主要的湿地保护对象。凌河口湿地自然保护区拥有近8.36万 $\\mathrm { { h m } } ^ { 2 }$ 的面积,其生态系统属于典型的沿海湿地混合生态系统。凌河口受辽东湾北部潮汐、海流、波浪等海洋因素的影响,形成有大面积的滩涂、沼泽湿地。由于生态环境适宜,湿地内部动植物物种丰富,约有239科,1024种的动植物,每年经过凌河口湿地进行迁徙的鸟类约有7万余只,因此这里是国际上非常重要的候鸟迁徙停歇之地,也是目前世界上濒危鸟类中特有的黑嘴鸥（Larus saundersi）和丹顶鹤（Grus japonensis）的主要栖息地和繁殖场所[6-7]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 基础资料",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本研究的主要数据源是USGS 官网提供的卫星遥感影像,它们是 1995 年、2000 年、2005 年、2009 年和2014年的分辨率为 $3 0 \\mathrm { ~ m ~ }$ 的单幅 TM卫星遥感影像。研究过程中借助地理信息系统软件 ArcGIS 为信息技术平台,同时利用ERDAS 8.6软件对获取的影像依次进行了辐射校正（辐射定标和大气校正）、几何纠正、信息增强等影像预处理。其它收集的资料包括凌河口湿地研究区的水系图、周边行政界限图和大凌河地区以往的调查资料以及与研究区相关的地质地貌、水文气象和社会经济资料等。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据辽宁省土地利用分类系统划分及对凌河口湿地进行的实地调查资料，将研究区土地利用景观类型划分为八类,它们分别是：居民地、林地、芦苇沼泽、水田、湖泊-养殖塘、旱地、滩涂及河流。运用目视解译信息提取方法提取研究区地物信息,建立研究区主要解译标识,并通过GPS 野外定点验证解译标识的准确性,最后运用ArcGIS 10.0软件中的统计分析工具（Summary statistics）对校正好的影像进行分析计算,最后得出研究区5个时期的遥感信息数据(表1）。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2凌河口湿地生态系统健康评价",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 PSR概念模型的选取 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "压力-状态-响应模型(Pressure-State-Response,简称 PSR)最初是由 Tony Friend 和 David Rapport 提出的,用来分析研究自然环境所处的压力、现状与响应之间的关系。在20世纪70年代,国际经济合作与发展组织（OECD)对PSR模型进行了进一步的修改并将其应用于环境报告研究中;到90年代初期,OECD在对生态环境相关重要指标进行分析研究时,对PSR模型进行了适用性和有效性的分析[8]。PSR 模型就“发生了什么、为什么发生、我们将如何做\"这3个人与自然和谐共处的基本问题给出了具体答案,尤其是其创造的将评价对象自身所面临的相关压力-状态-响应指标和规范的参照标准进行对比的分析模式,得到了国内外众多学者的肯定,同时被广泛地应用在区域环境、水文水资源及天然湿地自然资源等具体环境指标体系的研究中[9]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c439fdb34928d415ae6361ae6275fffe83303ffd5b8b22793a02f66e410f9587.jpg",
+        "table_caption": [
+            "表1凌河口湿地属性信息",
+            "Table 1The attribute information of Linghekou Wetland "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">土地利用类型 Type of land use</td><td colspan=\"2\">1995</td><td colspan=\"2\">2000</td><td colspan=\"2\">2005</td><td colspan=\"2\">2009</td><td colspan=\"2\">2014</td></tr><tr><td>总面积 Total area/ km²</td><td>斑块数 Plaque/ 个</td><td>总面积 Total area/ km²</td><td>斑块数 Plaque/ 个</td><td>总面积 Total area/ km²</td><td>斑块数 Plaque/ 个</td><td>总面积 Total area/ km²</td><td>斑块数 Plaque/ 个</td><td>总面积 Total area/ km</td><td>斑块数 Plaque/ 个</td></tr><tr><td>林地 Forest land</td><td>116.65</td><td>27</td><td>33.66</td><td>82</td><td>24.85</td><td>42</td><td>10.05 ●</td><td>10</td><td>8.90</td><td>20</td></tr><tr><td>养殖塘/湖泊 Culture ponds/lakes</td><td>10.71</td><td>1</td><td>76.87</td><td>18</td><td>93.47</td><td>24</td><td>154.93</td><td>11</td><td>173.21</td><td>27</td></tr><tr><td>居民区 Residential area</td><td>73.61</td><td>182</td><td>80.18</td><td>164</td><td>129.09</td><td>200</td><td>59.50</td><td>154</td><td>52.92</td><td>165</td></tr><tr><td>芦苇沼泽 Reed swamp</td><td>48.27</td><td>3</td><td>64.23</td><td>14</td><td>81.19</td><td>12</td><td>72.32</td><td></td><td>62.76</td><td>17</td></tr><tr><td>旱地 Dry land</td><td>310.98</td><td>16</td><td>289.96</td><td>39</td><td>276.42</td><td>37</td><td>268.17</td><td>13</td><td>261.51</td><td>58</td></tr><tr><td>水田 Paddy field</td><td>137.42</td><td>25</td><td>152.83</td><td>30</td><td>96.37</td><td>34</td><td>177.09</td><td>29</td><td>197.67</td><td>43</td></tr><tr><td>滩涂 Mudflat</td><td>121.82</td><td>18</td><td>97.13</td><td>26</td><td>96.48</td><td>11</td><td>73.27</td><td>14</td><td>58.92</td><td>10</td></tr><tr><td>河流River</td><td>16.29</td><td>14</td><td>40.89</td><td>10</td><td>37.88</td><td>12</td><td>20.42</td><td>6</td><td>19.86</td><td>7</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "采用PSR 模型进行分析的优点是;研究区域的各个环境影响因子相互之间的逻辑关系明确,外界人为因素压力的干扰、研究区内部各个环境指标的变化和响应的具体措施得到了充分的分析。依据凌河口湿地的勘察资料和研究区具体内部情况,将 PSR模型引人到研究区生态系统健康评价中,构建凌河口湿地 PSR 基础框架模型(图1）。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ea05a0f668e8ca0f1772c1d2aecdca03712f17dbdebe1d4df6e7983db61c978.jpg",
+        "img_caption": [
+            "图1凌河口湿地PSR 模型",
+            "Fig.1PSR model in Linghekou Wetland "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2评价指标体系的构建 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对湿地生态系统健康进行评价，要将生态环境、经济影响和社会因素综合考虑进来，同时还应顾及天然湿地生态结构、经济体系以及社会构成在不同管理政策条件下所产生的动态变化，从而有利于维持湿地系统的持续性[10]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本研究依据凌河口天然湿地生态系统所面临的生态问题,从整体性、代表性和可操作性3个方面出发,结",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "合生态系统的组成、生态特征、功能作用、经济社会的影响等方面选取了10种评价指标，通过PSR评价模型构建了凌河口湿地生态系统的健康评价指标体系（表2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/398e1e1194ecb0057edaca3c1f9b46cc89ff148b352e68e83b918f53ad874599.jpg",
+        "table_caption": [
+            "表2凌河口湿地生态系统健康评价指标体系",
+            "Table 2The ecological health assessment index system of Linghekou Wetland "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>目标层 Target layerA</td><td>准则层Criteria layerB</td><td>指标层 Index layerC</td></tr><tr><td>凌河口湿地生态系统健康评价指标 Ecosystem health evaluation index</td><td>压力指标 B1</td><td>人口密度C11 人类干扰指数C12</td></tr><tr><td>of Linghekou wetlands</td><td>状态指标 B2</td><td>景观多样性指数C21 平均斑块面积C22 水文调节指数C23 景观优势度指数C24</td></tr><tr><td></td><td></td><td>均匀度指数C25 初级生产力C26</td></tr><tr><td></td><td>响应指标B3</td><td>湿地退化指数C31 斑块破碎化指数C32</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.1 压力指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "一般情况下可依据人类对自然的干扰程度将天然湿地分为4种类型,即完全自然型、受扰自然型、退化自然型和人工修复型。当前,天然湿地生态系统所面临的主要压力是人类频繁的对天然湿地进行干扰所造成的,以前理想中的湿地已逐渐消失殆尽,绝大部分湿地都遭受到了人为因素的破坏[11]。经实地勘察,凌河口湿地的生态健康主要是受到了人类活动的影响,如乱砍乱伐(大面积垦殖、肆意排放污水、破坏生态环境等,这些行为造成了湿地景观的严重破碎化、生物多样性降低,湿地生态健康面临严重威胁。因此,本文选取了人口密度指数和人类干扰指数这两个指标来构建凌河口湿地生态系统健康评价的压力指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）人口密度",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "人口密度是单位面积土地上居住的人口数。它是表示研究区内人口密集程度的指标。通常以每平方千米或每公顷内的常住人口为计算单位。人口密度 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 研究区人口数/湿地总面积;（单位：人 $\\mathrm { \\ k m } ^ { 2 }$ ）(2)人类干扰指数人类干扰是指由于人类生产、生活和其他社会活动形成的干扰体对环境和生态系统施加的各种影响。人类干扰指数 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ (旱地面积+城镇居民用地面积)/湿地总面积 $. \\times 1 0 0 \\%$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2.2 状态指标",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "状态指标不仅反映了环境要素的变化还体现了环境政策的终极目标,其中主要包括自然环境的现状和生态系统状况等,指标选择主要考虑环境或生态系统的生物、物理化学特征及生态功能[12-13]。本文从景观、湿地功能、生物及物理化学等多个角度和方面选取了以下六项指标,六项指标值分别是景观多样性指数、平均斑块面积、水文调节指数、景观优势度指数、均匀度指数和初级生产力。简述如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(1)景观多样性指数 $( H )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "景观多样性指数是指不同类型的景观要素或生态系统在空间结构、功能机理和时间动态等方面的多样性和变异性，揭示的是湿地中景观类型的丰富程度、多样性程度和复杂程度。 $H$ 的大小反映了景观要素的多少和各景观要素数量占总要素比例的变化。 $H = 0$ 时说明景观是均质的并且是由单一要素所构成；当 $H$ 趋于最大值时说明此时构成景观要素的元素多于两个并包括两个，且每种斑块类型面积占总面积的比例是一致的。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH = - \\sum _ { i = 1 } ^ { m } \\left( P _ { i } \\times \\log _ { 2 } { P _ { i } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， ${ \\boldsymbol { P } } _ { i }$ 为第 $i$ 类景观类型所占的面积比例； $m$ 为景观类型的数目。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(2)平均斑块面积(MPS)",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "平均斑块面积就是某类型斑块的面积和占该类型斑块总面积的比值。有研究表明可以用MPS来表示景观的破碎水平,MPS 值的变化能够反馈诸如湿地地类、植物面积、景观变化等多种景观生态信息,是反映景观性质改变的关键性指标。计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M P S } = { \\frac { S _ { i } } { N _ { i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $S _ { i }$ 是指第 $i$ 种湿地景观类型的总面积， $N _ { i }$ 是指第 $i$ 种湿地景观类型的斑块数目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3)水文调节指数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水文调节是湿地生态系统一个重要的服务功能.湿地具有巨大的渗透能力和蓄水能力,它能储蓄降水,减少并滞后了降水进入江河,在洪水期,它能削减并滞后了洪峰,从而减少了洪水径流,而在枯水期,它能够提供水源,以满足工农业生产的需要。凌河口湿地主要的服务功能体现在水文调节方面,如调蓄洪水、提供水源，以及众多水禽鸟类的栖息地和迁徙的中转站。因此,在本文的评价过程中,将湿地的水文调节指数作为评价湿地生态系统健康评价的一个指标。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "水文调节指数 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ （河流面积 $^ +$ 滩地面积)/湿地总面积",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（4)景观优势度指数 $( D )$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "景观优势度指数指一种或某一类构成景观空间格局中的景观类型占其支配地位的程度,用最大可能多样性指数( $\\cdot H _ { \\mathrm { { m a x } } }$ )的离差来表示。 $D$ 值由小到大依次表示优势度由低到高;同时也表示土地和覆盖的植被被利用和受支配程度由低到高。优势度指数与多样性指数为负相关且存在一定的相关系数。计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nD = H _ { \\mathrm { m a x } } - H = H _ { \\mathrm { m a x } } + \\sum _ { i = 1 } ^ { m } ( P _ { i } \\times \\mathrm { l o g } _ { 2 } P _ { i } )\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， $H _ { \\mathrm { m a x } }$ 为各类型景观所占面积比例相等的情况下,景观的最大多样性指数， $H _ { \\mathrm { m a x } } = \\log _ { 2 } m$ ${ \\mathbf { } } P _ { i }$ 为第 $i$ 类景观类型所占的面积比例； $m$ 为景观类型的总数目。～",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(5)均匀度指数(SHEI) ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "均匀度是用来反映湿地景观类型中每种斑块在湿地总面积上散布的不均匀程度,用 SHEI来表示,其比值由小到大表示各类景观在湿地中的分布由不均匀到均匀。计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { S H E I } = \\frac { \\displaystyle \\sum _ { i = 1 } ^ { m } P _ { i } \\log _ { 2 } P _ { i } } { \\log _ { 2 } m }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中， ${ \\boldsymbol { P } } _ { i }$ 为第 $i$ 类景观类型所占的面积比例； $m$ 为湿地景观类型的总数目。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(6)初级生产力",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "植被覆盖指数(NDVI)是一种指示因子,指植被的生长状态和植被覆盖度的最佳指示因子。研究表明,植被覆盖指数(NDVI)与植被的生产能力两者为正相关,所以衡量研究区初级生产力的主要指标应首选湿地内年均 NDVI值。计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } = { \\frac { T M _ { 4 } \\ - \\ T M _ { 3 } } { T M _ { 4 } \\ + \\ T M _ { 3 } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.2.3响应指标",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "响应指标是管理部门为使湿地生态系统遵循自身繁衍生息的规律向着健康、良性的方向发展而采取的必要管理措施。在人类活动的不断干扰下,湿地生态系统的内部结构和功能将会发生改变,造成景观的严重破碎化,进而逐步丧失生物多样性。当人类意识到环境破坏的严重后果时,会采取相应的保护措施。这种一系列的链式反应即湿地生态系统对人类干扰的响应、人类对湿地生态系统变化的响应[14]。因此,响应指标选取了湿地退化指数和斑块破碎化指数,简述如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1)湿地退化指数",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "湿地退化指数 $\\mathbf { \\Sigma } = \\mathbf { \\Sigma }$ 湿地减少的面积/原始湿地总面积(2)斑块破碎化指数 $( P D )$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "湿地景观总体的斑块分化程度和破碎化程度用景观斑块密度来表示。PD值大,表明一定面积上斑块规模小,破碎化程度高;反之，表明景观类型保存完好。通过对湿地景观要素的边缘密度进行分析后就可以说明湿地景观各要素的动态特性。计算公式如下：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP D = \\frac { \\sum N _ { i } } { \\sum A _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $P D$ 表示班块密度； $\\sum { N _ { i } }$ 为研究区景观斑块总数或某景观要素斑块类型的斑块总数目； $\\sum { A _ { i } }$ 为研究区总面积或某景观斑块类型的面积。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3 单因子评价 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "逻辑斯蒂增长曲线关系模型又被叫做自我抑制性曲线方程,是20 世纪20年代Lotka 和Volterra 在种群生态学中的总群数量增长过程的研究中提出的，至今应用仍比较广泛。湿地生态系统健康评价中各个指标的测试值并不能线性反应出湿地生态系统健康各个方面和层次状态水平。鉴于此,李永健、林茂昌等使用此模型分别对拉鲁湿地、闽江河口区湿地生态系统健康进行了单因子评价：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = { \\frac { 1 } { 1 + e ^ { ( \\mathrm { a } - \\mathrm { b } \\times R ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "式中， $P$ 表示单项指标的生态安全评价指标评价值， $R$ 表示单项指标测度值, $^ { \\mathrm { ~ a ~ } , \\mathrm { { b } } }$ 均为常数。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中 $^ { \\mathrm { ~ a ~ } , \\mathrm { { b } } }$ 的确定方法为：当 $R = 0 . 0 1$ 时， $P$ 的值近似取 $0 . { \\overline { { 0 0 1 } } }$ ；当 $\\operatorname { R } = 0 . 9 9$ 时， $P$ 的值近似取0.999,则此时方程中的a和b 的值求解分别为4.595 和9.19,因此,单项指标评价模型最终为：",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = { \\frac { 1 } { 1 + e ^ { ( 4 . 5 9 5 - 9 . 1 9 \\times R ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP = 1 - { \\frac { 1 } { 1 + e ^ { ( 4 . 5 9 5 - 9 . 1 9 \\times R ) } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "其中,当单项指标量值增加方向与生态环境质量的增加方向相同时,采用公式(1)进行评价;当单项指标量值的增加方向与生态环境质量增加方向相反时,采用公式(2)进行评价[15-16]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "根据凌河口湿地2005年和2014年遥感影像的解译信息和各个单项指标的公式计算,利用单因子评价法得到两个时期的单因子指标值及指标测度值（表3）。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0f18c90748c189edb8edf1755a1c1e9326c0e882526343462de4f80978bd381.jpg",
+        "table_caption": [
+            "表32005年和2014年各个单项指标值及指标测度值",
+            "Table 3Single measure values in 2ooo and 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评价指标 Evaluating indicator</td><td>2005</td><td>2014</td><td>指标测度值 Index measure value （R)</td></tr><tr><td>人口密度 Population Density/（人/km²)</td><td>834.57</td><td>1026.521</td><td>0.230</td></tr><tr><td>人类干扰指数 Human disturbance index</td><td>162.300</td><td>157.431</td><td>0.030</td></tr><tr><td>景观多样性指数 Landscape diversity indices</td><td>2.664</td><td>2.631</td><td>0.010</td></tr><tr><td>平均斑块面积 Mean patch area/km²</td><td>2.908</td><td>2.569</td><td>0.120</td></tr><tr><td>水文调节指数 Hydrological regulation index/%</td><td>0.405</td><td>0.296</td><td>0.270</td></tr><tr><td>景观优势度指数Landscape dominance index</td><td>0.336</td><td>0.369</td><td>0.100</td></tr><tr><td>均匀度指数 Evenness index</td><td>0.949</td><td>0.877</td><td>0.080</td></tr><tr><td>初级生产力Primary productivity</td><td>231.917</td><td>120.440</td><td>0.480</td></tr><tr><td>湿地退化指数 Wetland degradation index/%</td><td>368.587</td><td>276.440</td><td>0.250</td></tr><tr><td>斑块破碎化指数Patch fragmentation index/(个/km²)</td><td>0.344</td><td>0.389</td><td>0.130</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4综合评价",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据各个单项指标的评价值,采用AHP确定各个指标的权重,再用加权平均法求得湿地生态系统健康的综合评价指数（CEI），计算公式如下：",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { C E I } = \\sum _ { i = 1 } ^ { n } { W _ { i } } \\times P _ { i }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\textstyle \\ W _ { i }$ 为第 $i$ 个单项指标的权重值， $\\boldsymbol { P } _ { i }$ 为第 $i$ 个单项指标的评价值。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.5 评价标准",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "根据一般的评价方法,采用连续的实数区间[0,1]来表示湿地生态系统健康各个等级的标准值。标准值为1时,对应最佳状态时的湿地生态系统健康状况;当标准值为0时,对应最差时的湿地生态系统健康状况。将湿地的生态系统健康状况评价等级分为五级：很健康、健康、亚健康、一般病态、病态,同时结合大量参考文献及凌河口湿地的实际情况,确定了凌河口湿地健康评价分类标准(表4)[17-9]。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff85adace401d64ecf0fec30ab795c7e9f5d3194df32bea30f32e1a5595034af.jpg",
+        "table_caption": [
+            "表4湿地健康等级划分标准",
+            "Table 4 Wetland health rating standard "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>等级 Grade</td><td>综合评价指数 Comprehensive evaluation index</td><td>生态系统健康状况 Ecosystem health status</td></tr><tr><td>（I）很健康 Very healthy</td><td>0.8—1.0</td><td>湿地生态系统保持良好的自然状态,活力极强,组织结构十分合理,生态功能极其完 善，人类活动干扰等外界压力很小，湿地变化很小，无生态异常出现，系统极稳定，处 于可持续状态。</td></tr><tr><td>（Ⅱ）健康 Healthy</td><td>0.6-0.8</td><td>湿地生态系统自然状态保存较好，活力比较强，组织结构较合理，生态功能较完善， 湿地格局尚完美,弹性度比较强,人类活动干扰等外界压力小,湿地变化很小，无生 态异常，系统尚稳定，处于可持续状态。</td></tr><tr><td>（Ⅲ）亚健康 Sub-health</td><td>0.4—0.6</td><td>湿地生态系统自然状态受到一定的影响,结构发生一定程度的变化，受人类活动影 响较大，接近湿地生态阙值,系统尚稳定,但敏感性强，已有少量的生态异常出现，可 发挥基本的湿地生态功能，湿地生态系统可维持。</td></tr><tr><td>（IV）一般病态 General morbid</td><td>0.2—0.4</td><td>湿地生态系统自然状态受到相当程度的破坏，地生态系统活力较低,组织结构出现 缺陷,生态功能及弹性度比较弱，人类活动影响较大,生态异常较多,湿地生态功能 已不能满足维持湿地生态系统的需要，湿地生态系统已开始退化。</td></tr><tr><td>（V）病态 Sickness</td><td><0.2</td><td>湿地生态系统自然状态受到严重程度的破坏，地生态系统活力极低，组织结构极不 合理，人类活动影响很大,湿地斑块破碎化严重,湿地生态异常大面积出现,湿地生 态系统已经严重恶化</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6 评价结果分析 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "通过综合评价法计算出凌河口湿地2014年的生态系统健康指数为0.405（表5）,根据凌河口湿地生态系统健康评价等级标准可知,当前凌河口湿地生态系统健康属于第Ⅲ等级(亚健康）。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从以上评价结果可以看出,目前凌河口湿地生态系统健康状况不容乐观,由于人类活动的频繁干扰,湿地内部结构遭受到一定程度的破坏,内部生态系统仍保持稳定,但是具有极强的敏感性,已有多处生态异常现象产生,主要表现在;天然湿地面积大幅度退化、水禽栖息地遭受破坏、水质差且富营养化程度严重、景观多样性降低、斑块破碎化严重、生物多样性降低、生产能力下降、湿地功能水平严重退化、对外界的干扰响应迅速等。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6.1压力分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "”目前,凌河口湿地生态系环境的恶化主要是受到了人类频繁的活动干扰,并且对湿地本身产生的压力也在逐渐增加。经计算,2005年研究区内的人口密度为834.57人 $/ \\mathrm { k m } ^ { 2 }$ ,2014年增长到1026.521人 $' \\mathrm { k m } ^ { 2 }$ ;期间湿地面积减少了近 $1 0 0 ~ \\mathrm { k m } ^ { 2 }$ 。由此可知,人口密度变化和湿地面积变化成负相关,随着人类干扰压力的不断增强,研究区原有湿地面积日益减少、湿地功能下降、生物多样性降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.6.2 状态分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "从单项指标评价结果的趋势可以看出,研究区内平均斑块面积和景观多样性显著降低,平均斑块面积由",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2005 年的 $2 . 9 0 8 ~ \\mathrm { k m } ^ { 2 }$ 降到2014年的 $2 . 5 6 9 \\ \\mathrm { k m } ^ { 2 }$ ,景观多样性由2005年的2.664降低到2014年的2.631。以上结果足以表明研究区内湿地的景观异质性在逐渐的增加,湿地斑块破碎化现象也愈来愈严重,湿地功能水平持续降低，湿地生态健康面临病态的威胁。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/aba926cd9b03ce641d9b4edf005ad954064978e58b2c647f2306f66662700620.jpg",
+        "table_caption": [
+            "表52014年凌河口湿地生态系统健康综合评价计算结果",
+            "Table 5Comprehensive evaluation result of the Linghekou Wetland ecological health in 2014 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>评价指标 Evaluating indicator</td><td>指标测度值(R) Index mesure</td><td>单项评价值(Pi) Singlevaluation</td><td>单项权重(Wi) Individual weight</td><td>综合评价值(CEI) Colmarechenrive</td></tr><tr><td>人口密度 Population Density</td><td>0.230</td><td>0.077</td><td>0.099</td><td rowspan=\"6\">0.405</td></tr><tr><td>人类干扰指数 Human disturbance index</td><td>0.030</td><td>0.013</td><td>0.198</td></tr><tr><td>景观多样性指数Landscape diversity indices</td><td>0.010</td><td>0.989</td><td>0.035</td></tr><tr><td>平均斑块面积 Mean patch area</td><td>0.120</td><td>0.970</td><td>●0.030</td></tr><tr><td>水文调节指数Hydrological regulation index</td><td>0.270</td><td>0.108</td><td>0.217</td></tr><tr><td>景观优势度指数 Landscape dominance index</td><td>0.100</td><td>0.975</td><td>0.044</td></tr><tr><td>均匀度指数 Evenness index</td><td>0.080</td><td>0.979</td><td>0.088</td></tr><tr><td>初级生产力Primary productivity</td><td>0.480</td><td>0.454 0.984</td><td>0.126 0.123</td></tr><tr><td>湿地退化指数 Wetland degradation index</td><td>0.050 0.130</td><td>0.032</td><td>0.041</td></tr><tr><td>斑块破碎化指数Patch fragmentation index</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2.6.3 响应分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "湿地生态系统遭受外界环境的持续干扰或面临一定程度的压力时，就会发生与之相对应的响应。研究区内2005 年到2014年的天然湿地面积由 $3 6 8 . 5 8 7 ~ \\mathrm { k m } ^ { 2 }$ 减少到 $2 7 6 . 4 4 0 \\ \\mathrm { k m } ^ { 2 }$ ,减少了 $9 2 . 1 4 7 ~ \\mathrm { k m } ^ { 2 }$ ,约占原有湿地总面积的 $2 5 \\%$ ;景观破碎度也逐渐增加。结果表明,随着研究区周边城镇、农村的不断发展建设,大量的湿地被侵占、开垦为居民地或建设用地,湿地资源随之消耗殆尽,致使水禽栖息地逐渐萎缩，研究区内珍贵水禽的数量和种类日益减少,生物多样性逐年降低。而景观破碎度的增加也说明了凌河口湿地资源遭到了严重的破坏,湿地功能的稳定性降低,湿地保护水平较低。因此,需要控制凌河口湿地生态系统健康的压力和生态威胁,并对其采取相应的保护和修复措施,逐步改善当前的生态状况。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3凌河口湿地生态系统健康状况预警研究",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "根据本文第二部分对凌河口湿地2014年生态系统健康评价的计算方法,分别计算出1995年、2000 年、2005 年和2009年与之对应的综合评价指数,依次为0.642、0.617、0.524和0.436。结果表明,凌河口湿地生态系统健康状况有由健康状态向病态发展的趋势。利用凌河口湿地1995 年到2014年的生态系统健康状况综合评价指数,采用灰色系统理论中的系统预测方法,通过建立GM模型群,构建状态方程,进而实现对凌河口湿地未来20 年生态系统健康状况的合理预测。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1灰色预测 $G M ( 1 , 1 )$ 模型构建 ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "数列预测的基础是基于累加生成的数列的 $G M ( 1 , 1 )$ 模型,参考邓聚龙、朱卫红等人的研究[20-23],将凌河口湿地1995年、2000 年、2005 年、2009 年和2014年的生态系统健康综合评价指数记为原始数据序列$\\chi ^ { ( 0 ) } { \\mathcal { ( } { i } ) }$ ， $( i = 1 , 2 , 3 , 4 , 5 )$ ）。依据 $\\boldsymbol { X } ^ { ( 0 ) } ( i )$ 建立 $G M ( 1 , 1 )$ 模型,并对该预测模型进行检验分析。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 累加算子序列 $\\boldsymbol { X } ^ { ( 1 ) } ( i )$ ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由样本原始数据序列 $\\begin{array} { r l r } { X ^ { ( 0 ) } = } & { { } x ^ { ( 0 ) } \\left( 1 \\right) , x ^ { ( 0 ) } \\left( 2 \\right) , x ^ { ( 0 ) } \\left( 3 \\right) , x ^ { ( 0 ) } \\left( 4 \\right) , x ^ { ( 0 ) } \\left( 5 \\right) } & { = \\ \\left( 0 . 6 4 2 4 , 0 . 6 1 7 2 , 0 . 5 2 4 4 , 0 . 6 1 7 2 , 0 . 6 1 7 2 \\right) . } \\end{array}$ 0.4363,0.4051)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "对其作1-AGO,得： $\\begin{array} { r l r l } { X ^ { ( 1 ) } = } & { x ^ { ( 1 ) } ( 1 ) , x ^ { ( 1 ) } ( 2 ) , x ^ { ( 1 ) } ( 3 ) , x ^ { ( 1 ) } ( 4 ) , x ^ { ( 1 ) } ( 5 ) } & { = ( 0 . 6 4 2 4 , 1 . 2 5 9 6 , 1 . 7 8 4 0 , 2 . 2 2 0 3 , } \\end{array}$ 2.6254)",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 原始序列 $\\boldsymbol { X } ^ { ( 0 ) } ( i )$ 准光滑性检验",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由光滑比分公式 ${ g ^ { ( k ) } = \\frac { x ^ { ( 0 ) } ( k ) } { x ^ { ( 1 ) } ( k - 1 ) } }$ 得 ${ \\mathfrak { c } } ^ { ( 2 ) } = 1 . 9 6 0 8 , { \\mathfrak { g } } ^ { ( 3 ) } = 0 . 4 1 6 3 < 0 . 5 , { \\mathfrak { g } } ^ { ( 4 ) } = 0 . 2 4 4 6 < 0 . 5 , { \\mathfrak { g } } ^ { ( 5 ) } = 0 . 1 8 2 5 < 0 . 5$ 所以当 $k { > } 3$ 时，原始数据序列满足光滑条件。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.3累加算子序列 $\\boldsymbol { X } ^ { ( 1 ) } ( i )$ 准指数律检验 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由序列级比公式 $m ^ { ( 1 ) } ( k ) \\ \\in \\ \\left[ \\frac { } { } 1 , 1 . 5 \\right] , \\delta = 0 . 5 ,$ 得： $\\mathbf { m } ^ { ( 1 ) } \\left( 3 \\right) = 1 . 4 1 6 3 , \\mathbf { m } ^ { ( 1 ) } \\left( 4 \\right) = 1 . 2 4 4 6 , \\mathbf { m } ^ { ( 1 ) } \\left( 5 \\right) = 1 . 1 8 2 5$ 所以当 $k { > } 3$ 时， $m ^ { ( 1 ) } ( k ) \\ \\in \\ [ 1 , 1 . 5 ]$ ， $\\delta = 0 . 5$ ,准指数律成立。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "综上可知，可以对序列 $\\boldsymbol { X } ^ { ( 1 ) } ( i )$ 建立 $G M ( 1 , 1 )$ 模型。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.1.4构建 $G M ( 1 , 1 )$ 模型",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { X } ^ { ( 1 ) } ( i )$ 的紧邻均值生成： $\\begin{array} { r l r } { Z ^ { ( 1 ) } = } & { { } z ^ { ( 1 ) } \\big ( 2 \\big ) , z ^ { ( 1 ) } \\big ( 3 \\big ) , z ^ { ( 1 ) } \\big ( 4 \\big ) , z ^ { ( 1 ) } \\big ( 5 \\big ) } & { = \\big ( 0 . 9 5 1 0 , 1 . 5 2 1 8 , 2 . 0 0 2 2 , 2 . 4 2 2 9 \\big ) } \\end{array}$ 构造数据矩阵 $B$ 和数据向量 $Y$ ，设 $P = \\left( a , b \\right) ^ { T }$ ,根据最小二乘法估计参数,有：${ \\hat { P } } = \\left( { \\hat { a } } , { \\hat { b } } \\right) ^ { T } = \\left( B B ^ { T } \\right) ^ { - 1 } B ^ { T } Y = { \\binom { 0 . 1 4 9 1 } { 0 . 7 5 2 9 } } \\quad$ 所以原始序列x(（(𝑖）的GM(1,1）模为d( $\\frac { d x ^ { ( 1 ) } } { d t } + 0 . 1 4 9 1 x ^ { ( 1 ) } = 0 . 7 5 2 9$ ,其时间响应式为：$\\hat { x } ^ { ( 1 ) } ( k + 1 ) = \\left( x ^ { ( 0 ) } ( 1 ) - \\frac { \\hat { b } } { \\hat { a } } \\right) e ^ { - \\hat { a } k } \\ast \\frac { \\hat { b } } { \\hat { a } } = - 4 . 4 0 7 2 e ^ { - 0 . 1 4 9 1 k } + 5 . 0 4 9 6$ 由于 $G M ( 1 , 1 )$ 模型得到的是一次累加量,需要将预测值还原为 ${ x ^ { ( 0 ) } ( k ) }$ ，即${ \\hat { x } } ^ { ( 0 ) } ( k + 1 ) = { \\hat { x } } ^ { ( 1 ) } ( k + 1 ) - { \\hat { x } } ^ { ( 1 ) } ( k ) = ( 1 - e ^ { { \\hat { a } } _ { 3 } } { \\Big ( } { \\overset { \\ast } { { \\mathrm { s } } } } ^ { ( 0 ) } ( 1 ) - { \\frac { { \\hat { b } } _ { 4 } } { 4 } } { \\Big ) } e ^ { - { \\hat { a } } _ { 4 } } = - 0 . 7 0 8 6 e ^ { - 0 . 1 4 9 1 k } , ( k = 1 , 2 , \\cdots , n )$ （204号",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2 预测模型精度检验 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "按照相对误差 $\\boldsymbol { \\varepsilon }$ 检验、灰色绝对关联度 $o$ 检验、后验差比值 $C$ 检验及小误差概率 $P$ 检验等检验条件依次对由原始数据序列建立的GM(1,1）模型d+0 d+0.149L（ =0.7529进行验。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 相对误差 $\\boldsymbol { \\varepsilon }$ 检验",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "依据公式 $\\hat { x } ^ { ( 0 ) } ( k + 1 ) = \\hat { x } ^ { ( 1 ) } ( k + 1 ) - \\hat { x } ^ { ( 1 ) } ( k )$ 残差： $Q = \\left[ { { q \\left( { 1 } \\right) , { q \\left( { 2 } \\right) } , { q \\left( { 3 } \\right) } , { q \\left( { 4 } \\right) } , { q \\left( { 5 } \\right) } , } } \\right] ,$ 其中 $q ( k ) =$ ${ x } ^ { ( 0 ) } ( ( k ) - \\hat { x } ^ { ( 0 ) } (  k ) $ ；相对误差： ${ \\varepsilon } ( k ) = \\frac { q ( k ) } { x ^ { ( 0 ) } ( k ) } \\times 1 0 0 \\%$ 对预测模型 $G M ( 1 , 1 )$ 进行相对误差的计算检验(表6)：平均相对误差： $\\varepsilon \\left( \\mathit { a v g } \\right) = \\frac { 1 } { n \\mathrm { ~ - ~ } 1 } \\sum _ { k = 2 } ^ { n } \\ \\left| \\varepsilon \\left( k \\right) \\ \\right| = 2 . 2 1 8 1 \\%$ ",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/a41dfa3f586002659ee2404f49bdb4dbdc08241c52682ea8ad51c650429d71fc.jpg",
+        "table_caption": [
+            "表6预测模型残差检验",
+            "Table6Residual test of the model "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>X((i) ?</td><td>x(1(i)</td><td>x((i)</td><td>q(k)</td><td>ε(k)</td></tr><tr><td>0.6424</td><td>0.6424</td><td>0.6424</td><td>0</td><td>0</td></tr><tr><td>0.6172</td><td>1.2529</td><td>0.6105</td><td>0.0067</td><td>0.0109</td></tr><tr><td>0.5244</td><td>1.7788</td><td>0.5259</td><td>-0.0015</td><td>0.0029</td></tr><tr><td>0.4363</td><td>2.2318</td><td>0.4531</td><td>-0.0168</td><td>0.0384</td></tr><tr><td>0.4051</td><td>2.6222</td><td>0.3903</td><td>0.0148</td><td>0.0365</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 灰色绝对关联度 $o$ 检验 ",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\ns = { \\Bigg \\vert } \\sum _ { k = 2 } ^ { 4 } { \\left[ { x ^ { ( 0 ) } \\left( k \\right) - x ^ { ( 0 ) } \\left( 1 \\right) } \\right] } + { \\frac { 1 } { 2 } } { \\left[ { x ^ { ( 0 ) } \\left( n \\right) - x ^ { ( 0 ) } \\left( 1 \\right) } \\right] } { \\Bigg \\vert } = 0 . 4 6 8 0\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\hat { s } = \\Bigg \\vert \\sum _ { k = 2 } ^ { 4 } \\left[ \\hat { x } ^ { ( 0 ) } \\left( k \\right) - \\hat { x } ^ { ( 0 ) } \\left( 1 \\right) \\right] + \\frac { 1 } { 2 } \\big [ \\hat { x } ^ { ( 0 ) } \\left( n \\right) - \\hat { x } ^ { ( 0 ) } \\left( 1 \\right) \\big ] \\Bigg \\vert = 0 . 4 6 3 8\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mid \\hat { s } \\mathrm { ~ - ~ } s \\mid = 0 . 0 0 4 2\n$$",
+        "text_format": "latex",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "所以，灰色绝对关联度",
+        "page_idx": 9
+    },
+    {
+        "type": "equation",
+        "text": "$$\nO = \\frac { 1 + \\mid s \\mid + \\mid { \\hat { s } } \\mid } { 1 + \\mid s \\mid + \\mid { \\hat { s } } \\mid + \\mid { \\hat { s } } - s \\mid }\n$$",
+        "text_format": "latex",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由残差方差 $S _ { \\scriptscriptstyle 2 } = 0 . 0 1 0 4$ ;序列方差 $S _ { \\mathrm { 1 } } = 0 . 0 9 4 4$ ,可得后验差比值 $C = \\frac { S _ { 2 } } { S _ { 1 } } = 0 . 1 1 0 7$ 。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 小误差概率 $P$ 检验 ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由 $\\bar { q } = 0 . 0 0 0 6$ ， $0 . 6 7 4 5 S _ { 1 } = 0 . 0 6 3 7$ 所以小误差概率为 $P = P | q ( k ) \\ - \\bar { q } | < 0 . 6 7 4 5 S _ { 1 } = 1 _ { \\circ }$ ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "综上,小误差概率 $P = 1 { > } 0 . 9 5$ ;灰色绝对关联度 $O = 0 . 9 9 7 8 { > } 0 . 9 0$ ；后验差比值 $C { = } S _ { 2 } / S _ { 1 } { = } 0 . 1 1 0 7 { < } 0 . 3 5$ ,根据精度检验等级参照表(表7)可知:3个检验指标的精度检验等级均为一级,预测模型的预测结果好,说明本文所建立的 $G M ( 1 , 1 )$ 模型是可行的,因此可以对未来凌河口湿地生态系统健康状况进行预测分析。",
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/ddd05fdda870f073c1aeb4b9769caf2d305fa136c2fac260af19fb93151da2ab.jpg",
+        "table_caption": [
+            "表7精度检验等级参照表",
+            "Table 7Grey forecasting precision inspection level "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>精度检验等级 Accuracy test level</td><td>关联度 Correlation</td><td>后验差比值 Posterior difference ratio</td><td>小误差概率 Small error probability</td></tr><tr><td>一级(好)Good</td><td>0.90≤0</td><td>C ≤0.35</td><td>0.95≤P</td></tr><tr><td>二级（合格)Qualified</td><td>0.80≤0 <0.90</td><td>0.35< C ≤0.50</td><td>0.80≤P<0.95</td></tr><tr><td>三级（勉强）General</td><td>0.60≤0 <0.80</td><td>0.50< C ≤0.65</td><td>0.70≤P<0.80</td></tr><tr><td>四级(不合格)Failure</td><td>0 <0.60</td><td>0.65<C</td><td>P <0.70</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3 预测结果分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "对预测模型GM(1,1）的预测方程 $\\frac { d x ^ { ( 1 ) } } { d t }$ $0 . 1 4 9 1 x ^ { ( 1 ) } = 0 . 7 5 2 9$ 进行计算,得到未来20 年凌河口湿地生态系统健康状况值,分别是：2019年为0.3362、2024 年为0.2896、2029 年为0.2495、2034年为0.2350,均为一般病态，并有向病态发展的趋势。将1995 年至2034年凌河口湿地生态系统健康状况值绘制成趋势曲线图（图2），从图2可以看出，从2000年开始，生态健康状况急剧下降，2009—2014年期间下降幅度稍有缓和,2014年之后如果仍不对湿地采取任何防范保护措施，生态系统健康值将继续大幅度下降，直至达到完全病态。结果表明，随着人类活动对湿地产生的压力不断增加,湿地生态系统受到越来越严重的威胁,生态健康每况愈下,处于病态边缘。因此,急需控制湿地生态系统健康所受到的人类压力和生态威胁,并对其采取保护修复措施,使湿地生态系统朝着良性方向发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/74661bbceb02b796962ea8efdce5e19e2440dfa76e7b643dcf9217214b08d784.jpg",
+        "img_caption": [
+            "图2凌河口湿地生态系统健康综合评价指数模拟与预测 Fig.2The predictive value of Linghekou Wetland ecological health competitive evaluation "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究依据凌河口湿地生态系统实际面临的生态问题,采用压力-状态-响应模型(PSR)构建了凌河口湿地生态系统健康评价指标体系,利用AHP方法确定指标体系中的各个单项指标的权重,然后运用逻辑斯蒂增长曲线模型对其进行单因子指标评价,最后通过测算CEI值的综合评价法对1995 年到2014年凌河口湿地生态系统健康进行综合评价，由此得出结论：1995年到2000年湿地生态系统健康状况为健康;2005年到2014年湿地生态系统健康状况为亚健康,并有向一般病态发展的趋势。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "基于灰色系统预测模型建立凌河口湿地生态系统健康预测模型,对该模型进行多项指标检验,结果表明模型精度较高，可以对凌河口湿地生态系统健康进行预测研究。经过 $G M ( 1 , 1 )$ 模型构建,得出预测方程$\\frac { d x ^ { ( 1 ) } } { d t } + 0 . 1 4 9 1 x ^ { ( 1 ) } = 0 . 7 5 2 9$ ,经计算得出未来20 年凌河口湿地生态系统健康综合指数;2019 年0.3362、2024 年0.2896、2029 年0.2495、2034年0.2350,均为一般病态,并有向病态发展的趋势,整个湿地生态系统面临的威胁愈来愈严重。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]KEDDYPA.Wetland Ecology:Principlesand Conservation.Cambridge：Cambridge UniversityPress，2O0：124-238.  \n[2]HolndWeldsdeviroentalgadints//MulamotilG，WaerBGMcbeanEdsWetlandsEnviroentaladints，Boundaries，and Buffers.Boca Raton：CRCPress Inc.，1996：112-131. ?[3］林佳，宋戈，宋思铭.景观结构动态变化及其土地利用生态安全——以建三江垦区为例.生态学报，2011,31（20)：5918-5927.  \n［4］崔保山，杨志峰.湿地生态系统健康评价指标体系I理论.生态学报，2002，22（7)：1005-1011.  \n[5] 肖笃宁，陈文波，郭福良.论生态安全的基本概念和研究内容.应用生态学报，2002，13（3)：354-358.  \n[6］李新香.凌河口湿地科学考察.辽宁林业科技，2004，（1)：34-35.  \n[7］周林飞，徐浩田，张静.凌河口湿地自然保护区景观格局变化及功能区划分.湿地科学，2016，14（3）：403-47.  \n[8］麦少芝，徐颂军，潘颖君.PSR模型在湿地生态系统健康评价中的应用.热带地理，2005,25(4)：317-321.  \n[9] 全川.环境指标研究进展与分析.环境科学研究，2000，13(4)：53-55.  \n[10] 张峥，张建文，李寅年,王欣,刘泓,张敬国.湿地生态评价指标体系.农业环境保护，1999，18(6)：283-285.  \n[11] 崔保山，杨志峰.湿地生态系统健康研究进展.生态学杂志，2001，20(3)：31-36.  \n[12] 王一涵，周德民，孙永华.RS 和GIS 支持的洪河地区湿地生态健康评价.生态学报，2011，31（13）：3590-3600.  \n[13］周林飞，许士国，孙万光.基于压力-状态-响应模型的扎龙湿地健康水循环评价研究.水科学进展，2008，19（2)：205-213.  \n[14］朱卫红，郭艳丽，孙鹏，苗承玉，曹光兰.图们江下游湿地生态系统健康评价.生态学报，2012，32（21）：6609-6618.  \n［15］李永健.拉鲁湿地生态环境质量评价的景观生态学方法应用研究[D]．成都：四川大学，2002.  \n[16] 林茂昌.基于RS 和GIS 的闽江河口区湿地生态环境质量评价[D].福州：福建师范大学，2005.  \n［17］高桂芹.东平湖湿地生态系统健康评价研究[D].济南：山东师范大学，2006.  \n[18] 王薇.黄河三角洲湿地生态系统健康综合评价研究——以垦利县为例[D]．泰安：山东农业大学，2007.  \n[19］郑耀辉.滨海红树林湿地生态系统健康评价—以珠江口淇澳岛红树林为例[D].广州：中山大学，2009.  \n[20］刘思峰，邓聚龙. $\\operatorname { G M } ( 1 , 1 )$ 模型的适用范围.系统工程理论与实践，2000，20(5)：121-124.  \n［21］崔立志.灰色预测技术及其应用研究[D].南京：南京航空航天大学，2010.  \n[22］贾得海，曾建初.灰色系统理论 $\\mathrm { \\hat { G } M } ( 1 , 1 )$ 预测模型的应用.昆明理工大学学报：自然科学版，2013，38(6)：115-120.  \n[23］朱卫红，苗成玉，郑小军，曹光兰，王凡凡.基于3S技术的图们江流域湿地生态安全评价与预警研究.生态学报，2014，34（6)：1379-1390. 1",
+        "page_idx": 10
+    }
+]

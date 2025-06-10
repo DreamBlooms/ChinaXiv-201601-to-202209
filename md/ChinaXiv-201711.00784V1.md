@@ -1,0 +1,200 @@
+饲粮能量和蛋白质水平对滩羊小肠中小肽和氨基酸转运载体mRNA表达量的影响卢艳娟 王小芳 曾洁　陈玉林 张恩平\*（西北农林科技大学动物科技学院，杨凌712100)
+
+摘要：本试验旨在研究饲粮能量和蛋白质水平对滩羊小肠中小肽和氨基酸转运载体 mRNA表达量的影响。选取112只健康、体重相近的滩羊，随机分成4组，每组4个重复，每个重复7只羊。标准水平的饲粮能量和蛋白质水平参考《肉羊饲养标准》（NY/T816—2004），各组试验滩羊分别饲喂不同能量和蛋白质水平饲粮：0.84×标准水平（I组）、 $0 . 9 6 \times$ 标准水平（Ⅱ组）、 $1 . 0 8 \times$ 标准水平（IⅢ组）和 $1 . 2 0 \times$ 标准水平（IV组）。试验根据羊体重分2个阶段： $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 和 $3 6 { \sim } 4 0 ~ \mathrm { k g }$ 。于每个阶段末，每个重复屠宰1只试验羊，取其小肠组织样，运用实时荧光定量PCR 技术，研究小肽转运载体1(PepT1)、y+型氨基酸转运载体1(CAT1)、兴奋性氨基酸转运载体3(EAAT3)mRNA表达量的变化。结果表明：1）在 $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 阶段末，小肠中PepT1mRNA的表达量随着饲粮能量和蛋白质水平的提高呈先下降再上升的趋势，ⅡI组显著低于其他3组（ $\scriptstyle P < 0 . 0 5 .$ ）；IV组小肠中CAT1mRNA的表达量显著高于其他3组（ $. P { < } 0 . 0 5$ ）；III组小肠中EAAT3mRNA 的表达量显著高于其他3 组（ $P { < } 0 . 0 5$ ）。2）在 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段末，ⅡI组小肠中PepT1mRNA的表达量显著高于其他3组（ $. P { < } 0 . 0 5 \$ ）；ⅡI组小肠中CAT1mRNA的表达量显著高于IⅢI组（ $\scriptstyle \cdot < 0 . 0 5 .$ ）；小肠中EAAT3 mRNA的表达量随着饲粮能量和蛋白质水平的提高呈上升趋势，II组和IV组小肠中EAAT3mRNA的表达量显著高于I组和II组（ $. P { < } 0 . 0 5 .$ ）。由此可见，饲粮能量和蛋白质水平会影响滩羊小肠中PepT1、CAT1、EAAT3mRNA的表达量，使机体对小肽和氨基酸的吸收利用率随之改变，以适应滩羊的生长发育。
+
+关键词：滩羊；能量和蛋白质水平；小肽和氨基酸转运载体；mRNA表达量中图分类号：S826 文献标识码： 文章编号：
+
+动物从饲粮中摄入的营养物质需要经过胃肠道的一系列消化过程分解为小分子物质才能被机体吸收利用。蛋白质在消化酶的作用下分解为小肽和游离的氨基酸[1]，二者均为极性小分子物质，不能通过细胞膜的疏水区，需要在相应的转运载体的协助下通过胃肠道黏膜进入体循环，供机体不同组织利用[2]。目前，已知的小肽转运载体（PepT）有5 种[3]，其中，PepT1是一种肠道肽转运载体，具有低亲和力、高容量[4]。氨基酸转运系统的发展较为完善，根据转运蛋白的底物特异性可以分为3类：碱性、中性和酸性氨基酸转运载体。碱性氨基酸转运系统主要包括 $\mathbf { B } ^ { 0 , + }$ 、 ${ \bf b } ^ { 0 , + }$ 、y+、 $y ^ { + } \mathrm { L }$ 碱性氨基酸转运系统。其中， $\mathbf { B } ^ { 0 , + }$ 转运系统是钠离子（ $\mathrm { \Delta N a ^ { + } }$ ）依赖性转运系统，非 $\mathrm { { N a ^ { + } } }$ 依赖的 ${ \bf y } ^ { + }$ 转运系统是典型的单向转运系统，主要分布在上皮细胞的基底部位，顺着膜两侧的电势梯度转运氨基酸[5]。y+型氨基酸转运载体(CAT)共有4 个转运蛋白（CAT1\~4），其中CAT1是最主要且研究最多的，它分布广泛，除了肝脏几乎所有组织中都有，对 $L$ 型精氨酸、赖氨酸和鸟氨酸等碱性氨基酸具有高亲和力[]。 $ { \mathbf { b } } ^ { 0 , + }$ 碱性氨基酸转运系统是一种异二聚体转运系统，它可以转运碱性氨基酸和部分中性氨基酸，但是转运中性氨基酸的能力较碱性氨基酸弱，尤其对精氨酸有很高的亲和力[7]。中性氨基酸转运系统最庞大，包括A、ASC、N和L转运系统，它们几乎存在于所有类型的细胞，且大多数酸性氨基酸载体具有亲和力和专一性。酸性氨基酸在细胞中的转运主要是通过高亲和力的钠钾依赖性转运系统完成的，该系统的兴奋性氨基酸转运载体(EAAT)主要有EAAT1\~5[8-9],其中 EAAT3几乎在所有的组织中均有表达，并在小肠分布最多[10]，主要转运 $L$ -谷氨酸和天冬氨酸[]。大量研究表明，转运载体的活性和数量受多种因素的影响，但饲粮能量和蛋白质水平及动物的发育阶段是影响小肽和氨基酸转运载体表达的重要因素。因此，本试验通过饲喂滩羊不同能量和蛋白质水平的饲粮，对其肠道PepT1、CAT1、EAAT3 mRNA 的表达量进行研究，从而为合理配制阶段性滩羊饲粮提供理论依据。
+
+# 1材料与方法
+
+# 1.1试验动物与饲养管理
+
+本试验所用动物为宁夏滩羊，饲养于宁夏回族自治区吴忠市红寺堡天源良种繁育有限公司。选取体重相近的5月龄左右健康滩羊112只，公母各占1/2。将112只试验滩羊随机分为4组，每组4个重复，每个重复7只羊，且每个重复7只羊为1组进行饲喂。所有试验滩羊自由采食和饮水，每天饲喂3次。
+
+# 1.2试验饲粮与试验处理
+
+标准水平的饲粮能量和蛋白质水平参考《肉羊饲养标准》（NY/T816—2004），根据滩羊生长发育规律分为 $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 和 $3 6 { \sim } 4 0 ~ \mathrm { k g } ~ 2$ 个生长阶段，按日增重 $2 0 0 ~ \mathrm { g }$ 设计各生长阶段标准饲粮，I组、ⅡI组、I组、IV组、IV组饲喂能量和蛋白质水平分别为 $0 . 8 4 \times$ 标准水平、0.96×标准水平、 $1 . 0 8 \times$ 标准水平、 $1 . 2 0 \times$ 标准水平的4种饲粮，其他营养水平基本一致。饲粮用全价颗粒料，各阶段饲粮组成及营养水平见表1。
+
+# 表1各阶段饲粮组成及营养水平 (干物质基础)
+
+Table1Composition and nutrient levels of diets at different stages（DM basis ） %   
+
+<html><body><table><tr><td>项目</td><td colspan="3">第1阶段（29~35kg)</td><td colspan="4">第2阶段（36~40kg)</td></tr><tr><td>Items</td><td colspan="3">The first stage (29~35 kg)</td><td colspan="4">The second stage (36~40 kg)</td></tr><tr><td></td><td colspan="3">组别Groups</td><td colspan="4">组别Groups</td></tr><tr><td></td><td>I</td><td>Ⅱ</td><td>Ⅲ</td><td>V</td><td>I</td><td>Ⅱ</td><td>Ⅲ V</td></tr><tr><td></td><td>(84%)</td><td>(96%)</td><td>(108%) (120%)</td><td>(84%)</td><td>(96%)</td><td>(108%)</td><td>(120%)</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米Corn grain</td><td>23.21</td><td>24.85</td><td>32.60</td><td>32.19</td><td>18.41</td><td>22.97 27.24</td><td>35.89</td></tr></table></body></html>
+
+<html><body><table><tr><td colspan="3">豆油 Soybean oil</td><td colspan="5">3.00</td></tr><tr><td>豆粕 Soybean meal</td><td></td><td>2.89</td><td>7.40</td><td>6.45</td><td></td><td>0.03</td><td>12.76</td><td>4.84</td></tr><tr><td>葵花饼 Sunflower cake</td><td>16.86</td><td>12.26</td><td></td><td></td><td>16.62</td><td>17.00</td><td></td><td></td></tr><tr><td>谷草 Millet straw</td><td></td><td>5500</td><td>25.68</td><td></td><td>6.00</td><td>43.73</td><td>49.00</td><td></td></tr><tr><td>稻草 Rice straw</td><td>54.93</td><td></td><td></td><td></td><td>53.97</td><td>11.27</td><td>6.00</td><td></td></tr><tr><td>苜蓿Alfalfa</td><td></td><td></td><td>29.32</td><td>53.36</td><td></td><td></td><td></td><td>53.77</td></tr><tr><td>预混料 Premix1</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td colspan="9">营养水平 Nutrient levels²)</td></tr><tr><td>干物质 DM</td><td>88.8</td><td>89.52</td><td>88.82</td><td>88.62</td><td>89.05</td><td>89.38</td><td>89.49</td><td>88.26</td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>7.45</td><td>8.52</td><td>9.58</td><td>10.65</td><td>7.08</td><td>8.09</td><td>9.10</td><td>10.11</td></tr><tr><td>粗蛋白质 CP</td><td>8.28</td><td>9.46</td><td>10.65</td><td>11.83</td><td>8.04</td><td>9.19</td><td>10.34</td><td>11.49</td></tr><tr><td>粗脂肪 EE</td><td>2.26</td><td>1.97</td><td>1.97</td><td>4.86</td><td>2.13</td><td>2.04</td><td>1.91</td><td>2.52</td></tr><tr><td>粗纤维CF</td><td>17.05</td><td>20.98</td><td>21.97</td><td>23.96</td><td>18.65</td><td>20.81</td><td>18.52</td><td>24.11</td></tr><tr><td>粗灰分 Ash</td><td>7.87</td><td>5.61</td><td>5.24</td><td>4.91</td><td>8.17</td><td>6.09</td><td>5.92</td><td>4.89</td></tr><tr><td>钙Ca</td><td>0.93</td><td>0.89</td><td>1.24</td><td>1.54</td><td>0.93</td><td>0.9</td><td>0.9</td><td>1.54</td></tr><tr><td>磷P</td><td>0.39</td><td>0.34</td><td>0.40</td><td>0.49</td><td>0.37</td><td>0.37</td><td>0.31</td><td>0.49</td></tr></table></body></html>
+
+1’预混料为每千克饲粮提供 The premix provides the following per $\mathbf { k g }$ of diet: VA 7 500 IU,VD 1 050 IU,VE 10 IU,Fe $5 5 0 0 \mathrm { m g }$ ， $\mathrm { M n } 5 0 0 0 \mathrm { m g }$ ， $\mathrm { Z n 4 0 0 0 m g }$ ，Se $3 2 . 5 \mathrm { m g }$ ，C $_ { 0 } 3 2 . 5 \mathrm { m g }$ 。
+
+2)营养水平中消化能及干物质和粗蛋白质含量按常规方法测定[121，粗脂肪、粗纤维、粗灰分、钙和磷含量是根据原料组成计算所得(干物质基础)，方法参考《肉羊饲养标准》（NY/T816—2004）和《中国饲料成分及营养价值表》（2015年第 26版）制订说明[13]。TheDE andDM and CP contents in the nutrient levels are measured by conventional methods[12],EE, CF, Ash,
+
+Ca and Pcontents are calculated based on the obtained raw material composition (dry matter basis),and referenced Feeding Standard of Sheep (NY/T 816-2O04) and Tables of Feed Composition and Nutritive Values in China (2O15 Twenty-sixty Edition)[13].
+
+# 1.3样品采集
+
+于每阶段末每个重复选取1只试验羊（最接近组内平均体重），颈动脉放血至死（屠宰前不禁食），采集小肠组织样品 $2 \mathrm { c m } ^ { 2 }$ ，用焦碳酸二乙酯（DEPC）水冲洗干净，滤纸吸干，迅速包裹于锡箔纸里，置液氮速冻， $- 8 0 ^ { \circ } \mathrm { C }$ 保存备用。
+
+# 1.4总RNA的提取
+
+采用康为世纪超纯RNA提取试剂盒（Ultrapure RNAKit），按照操作手册提取小肠和肌肉组织总RNA。用核酸定量仪测定RNA 浓度和纯度，吸光度 $( \mathrm { O D } ) _ { 2 6 0 \mathrm { n m } } / \mathrm { O D } _ { 2 8 0 \mathrm { n m } } = 1 . 8 { \sim } 2 . 0$ 用 $1 \%$ 的琼脂糖凝胶电泳，评定RNA质量， $- 8 0 ^ { \circ } \mathrm { C }$ 保存备用。
+
+# 1.5cDNA第1条链的合成
+
+按照Thermo 反转录试剂盒（PrimeScriptTMRTMasterMix）操作说明合成cDNA，反转录产物，于 ${ } ^ { - 2 0 } { } ^ { \circ } \mathrm { C }$ 保存备用。
+
+# 1.6 引物设计
+
+参照GenBank 公布的绵羊 $\beta$ -肌动蛋白（ $\beta$ -actin）、PepT1、CAT1、EAAT3的mRNA序列，用PrimerPrimer5.0软件设计引物，并用Primer-BLAST软件进行引物特异性鉴定，然后送至南京金斯瑞生物科技有限公司合成，其中绵羊 $\beta$ -actin为内参基因。实时荧光定量PCR引物序列见表2。
+
+# 表2实时荧光定量PCR引物序列
+
+Table 2Primer sequence for real-time quantitative PCR   
+
+<html><body><table><tr><td>基因</td><td>登录号</td><td>引物序列</td><td>产物长度</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Genes</td><td>Accession No.</td><td>Primer sequences (5'-3')</td><td>Product</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td colspan="4"></td></tr><tr><td>β-肌动蛋白</td><td>NM_001009784</td><td>F:TCTGGCACCACACCTTCTAC</td><td>102</td></tr><tr><td>β-actin</td><td></td><td>R：TCTTCTCACGGTTGGCCTTG</td><td></td></tr><tr><td>小肽转运载体1</td><td>NM_001009758</td><td>F:ATTGACAAAACTCTGCCCGT</td><td>115</td></tr><tr><td>PepT1</td><td></td><td>R:GGTCACATGTCACTGTCGTT</td><td></td></tr><tr><td>y+型氨基酸转运载体1</td><td>XM_012184646</td><td>F:ATAATCGCCACCTTAACCTCG</td><td>234</td></tr><tr><td>CAT1</td><td></td><td>R:ATCGCTGCTGCTCACCAACT</td><td></td></tr><tr><td>兴奋性氨基酸转运载体3</td><td>XM_004004350</td><td>F:GAGTTGGAGCAGATGGATGTTT</td><td>152</td></tr><tr><td>EAAT3</td><td></td><td>R:GTGAATGAGATGGGTATCGGACTT</td><td></td></tr></table></body></html>
+
+F：上游引物 forward primer；R：下游引物 reverse primer。
+
+# 1.7 实时荧光定量PCR
+
+以绵羊 $\beta$ -actin 为内参基因，采用荧光染料SYBR@PremixEx TaqTMII对肠道组织中PepT1、CAT1和EAAT3mRNA进行实时荧光定量分析，测定这些基因mRNA的表达量，每个样品3个重复。实时荧光定量PCR反应体系 $2 5 \mu \mathrm { L }$ : 2xSYBR@Premix Ex TaqTM II $1 2 . 5 ~ \mu \mathrm { L }$ 上、下游引物各1μL，cDNA 模板 $2 \mu \mathrm { L }$ ， $\mathrm { d d H } _ { 2 } \mathrm { O } 8 . 5 \mu \mathrm { L }$ 。
+
+按上述步骤将试剂和样品混匀后，采用三步法进行实时荧光定量PCR，反应程序为：$9 5 ^ { \circ } \mathrm { C } ;$ 先预变性 $1 \mathrm { m i n }$ ，之后 $9 5 ^ { \circ } \mathrm { C }$ 变性 $3 0 ~ \mathrm { s }$ ， $6 0 ~ ^ { \circ } \mathrm { C } ;$ 退火 $3 0 ~ \mathrm { s }$ ， $7 2 ^ { \circ } \mathrm { C }$ 延伸 $4 5 \mathrm { ~ s ~ }$ ，进行40个循环，最后进行熔解曲线分析，温度为 $5 5 { \sim } 9 5 ^ { \circ } \mathrm { C }$ 。根据熔解曲线是否单一峰判断反应的特异性。
+
+# 1.8 数据分析
+
+所有样品以 $\beta$ -actin 为标准进行校正处理，采用 $2 ^ { - \Delta \Delta \mathrm { C t } }$ 法计算各基因的表达量（ $\scriptstyle { \cdot _ { n = 4 } }$ ），先用Excel2007整理原始数据，用 SPSS18.0 统计软件对试验数据进行单因子方差分析（one-wayANOVA），用Duncan氏法进行多重比较，数据用“平均值 $\pm$ 标准误（mean±SE）”表示， $P { < } 0 . 0 5$ 表示为差异显著。
+
+# 2结果与分析
+
+2.1饲粮能量和蛋白质水平对滩羊小肠中PepT1mRNA表达量的影响
+
+由图1可知，在 $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 阶段末，ⅡI组小肠中PepT1mRNA的表达量最低，显著低于其他3组（ $. P { < } 0 . 0 5$ ），这可能跟物种和试验动物的生长阶段有关。在 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段末，Ⅱ组小肠中PepT1 mRNA 的表达量显著高于其他3 组（ $P { < } 0 . 0 5$ ），且其他3组间无显著差异（ $P { > } 0 . 0 5$ ）。
+
+![](images/9d945e9cbb3bad4e1715a15f208f14bc9b59b6ba8a6b197adec1bbee90efa4be.jpg)
+
+同一阶段，数据柱上标不同小写字母表示差异显著（ $\scriptstyle \cdot < 0 . 0 5$ ），相同字母或无字母表示差异不显著（ $. P { > } 0 . 0 5$ ）。图中的具体数据见表3，每个数据的重复数 $( n )$ 为4。下图同。
+
+At the same stage,value columns with different small lettr superscripts mean significant difference（ $P { < } 0 . 0 5$ ），while with the same letter or no letter superscripts mean no significant difference（ $\scriptstyle P > 0 . 0 5 { \mathrm { , } }$ ）.The specific data in the figure are shown in Table 3,the number of repetitions of each data（ $n$ ）is 4.The same as below.
+
+1图1饲粮能量和蛋白质水平对滩羊小肠中 6 图2 饲粮能量和蛋白质水平对滩羊小肠   
+2 PepT1mRNA表达量的影响 7 中 CAT1mRNA表达量的影响   
+3 Fig.1 Effects of dietary energy and protein 8 Fig.2Effects of dietary energy and protein   
+4 levels on PepT1 mRNA expression in 9 levels on CAT1 mRNA expression   
+5 the small intestine of Tan sheep 10 in the small intestine of Tan sheep
+
+2.2饲粮能量和蛋白质水平对滩羊小肠中CAT1mRNA表达量的影响  
+由图2可知，在 $2 9 { \sim } 3 5 \mathrm { k g }$ 阶段末，随着饲粮能量和蛋白质水平的增加,IV组小肠中CAT1mRNA的表达量最高，显著高于其他3组（ $. P { < } 0 . 0 5$ ），且其他3组间无显著差异（ $. P { > } 0 . 0 5 .$ ）。在 $3 6 { \sim } 4 0 ~ \mathrm { k g }$ 阶段末，Ⅱ组小肠中CAT1mRNA 的表达量显著高于IⅢ组（ $. P { < } 0 . 0 5$ ），与I组、IV组间差异不显著（ $P { > } 0 . 0 5$ ），且I组、Ⅲ组、IV组之间差异也不显著（ $P { > } 0 . 0 5$ ），但是ⅢI组最低。  
+2.3饲粮能量和蛋白质水平对滩羊小肠中EAAT3mRNA表达的影响  
+由图3可知，在 $2 9 { \sim } 3 5 \mathrm { k g }$ 阶段末，II组小肠中EAAT3mRNA的表达量最高，显著高于其他3组（ $P { < } 0 . 0 5$ ），但其他3组间无显著差异（ $P { > } 0 . 0 5$ ）。在 $3 6 { \sim } 4 0 ~ \mathrm { k g }$ 阶段末，Ⅲ组和IV组小肠中EAAT3mRNA的表达量显著高于I组和Ⅱ组（ $P { < } 0 . 0 5$ ），且随着饲粮能量和蛋白质水平的增加，小肠中EAAT3mRNA的表达量呈逐渐上升趋势。
+
+![](images/2a46b0c6e9bb01362391c192d58041c8039e35cff0fab2dd91d3feede0226f0f.jpg)  
+图3饲粮能量和蛋白质水平对滩羊小肠中EAAT3mRNA表达量的影响
+
+Fig.3Effects of dietary energy and protein levels on EAAT3 mRNA expresson in the small
+
+intestine of Tan sheep
+
+2.4阶段与饲粮能量和蛋白质水平对滩羊小肠中PepT1、CAT1和 EAAT3mRNA 表达量的影响由表3可知，在 $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 阶段末，I组小肠中PepT1mRNA的表达量最低，显著低于其他3组（ $\scriptstyle P < 0 . 0 5 .$ ）；但在 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段末，Ⅱ组最高，显著高于其他3组（ $\scriptstyle P < 0 . 0 5 .$ ），其他3组间差异均不显著（ $. P { > } 0 . 0 5$ ）。在 $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 阶段末，IV组小肠中CAT1mRNA的表达量最高，显著高于其他3组( $. P { < } 0 . 0 5 )$ ；在 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段末,IⅢ组最低，显著低于I组( $_ { . } { \cdot } { \cdot } { \cdot } 0 . 0 5 )$ ，其他各组间差异不显著（ $. P { > } 0 . 0 5$ ）。在 $2 9 { \sim } 3 5 \mathrm { k g }$ 阶段末，IⅢ组小肠中EAAT3 mRNA表达量显著高于其他3组（ $( P { < } 0 . 0 5 )$ ；在 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段末，IⅢ组、IV组显著高于I组、Ⅱ组( $. P { < } 0 . 0 5$ ）。小肠中PepT1、CAT1mRNA的表达量均存在阶段与能量和蛋白质水平的互作效应( $_ { - P < 0 . 0 0 1 }$ 、$\scriptstyle P = 0 . 0 0 5$ ），小肠中 EAAT3mRNA 的表达量不存在阶段与能量和蛋白质水平的互作效应（ $\scriptstyle P = 0 . 1 1 8$ ）。
+
+表3阶段与饲粮能量和蛋白质水平对滩羊小肠中PepT1、CAT1和 EAAT3 mRNA表达量的影响
+
+Table 3Effects of stage and dietary energy and protein levels on PepT1,CATl and EAAT3 mRNA expression in
+
+<html><body><table><tr><td colspan="11">the small intestine of Tan sheep (n=4)</td></tr><tr><td></td><td></td><td></td><td></td><td>能量和蛋白质水平 Energy and protein levels</td><td></td><td></td><td></td><td colspan="2">P值 P-value 能量和</td><td>阶段×能量</td></tr><tr><td>基因</td><td>阶段</td><td>I</td><td>Ⅱ</td><td>ⅢI</td><td>IV</td><td></td><td>标准误</td><td>阶段</td><td>蛋白质 水平 Energy</td><td>和蛋白质 水平 Stagexener</td></tr><tr><td>Gene</td><td>Stage</td><td>(84%)</td><td>(96%)</td><td>(108%)</td><td>(120%)</td><td></td><td>SEM</td><td>Stage</td><td>and protein levels</td><td>protein levels gy and</td></tr><tr><td>小肽转</td><td>29~35</td><td>1.00±0.04a</td><td>0.41±0.04b</td><td>1.01±0.17a</td><td>1.28±0.05a</td><td>0.09</td><td>0.012</td><td></td><td>0.597</td><td><0.001</td></tr><tr><td>运载体</td><td>kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>36~40</td><td>0.61±0.14b</td><td>1.26±0.17a</td><td>0.40±0.13b</td><td>0.46±0.17b</td><td>0.10</td><td></td><td></td><td></td><td></td></tr><tr><td>PepT1</td><td>kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>y+型氨</td><td>29~35</td><td>1.00±0.14b</td><td>0.79±0.17b</td><td>0.80±0.15b</td><td>1.70±0.09a</td><td>0.11</td><td></td><td>0.361</td><td>0.002</td><td>0.005</td></tr><tr><td>基酸转</td><td>kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>运载体</td><td>36~40</td><td>1.05±0.06ab</td><td>1.17±0.08a</td><td>0.72±0.12b</td><td>1.01±0.21ab</td><td>0.07</td><td></td><td></td><td></td><td></td></tr><tr><td>1</td><td>kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CAT1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>兴奋性</td><td>29~35</td><td>1.15±0.25b</td><td>1.01±0.18b</td><td>1.87±0.29a</td><td>0.98±0.17b</td><td>0.14</td><td></td><td>0.008</td><td><0.001</td><td>0.118</td></tr><tr><td>氨基酸</td><td>kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>转运载</td><td>36~40</td><td>1.82±0.31b</td><td>1.92±0.14b</td><td>2.90±0.38a</td><td>2.97±0.37a</td><td>0.20</td><td></td><td></td><td></td><td></td></tr><tr><td>体3</td><td>kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+同行数据肩标不同小写字母表示差异显著（ $. P { < } 0 . 0 5$ ），相同小写字母或无字母表示差异不显著（ $P { > } 0 . 0 5$ ）。In the same row,values with different small letter superscripts mean significant difference（ $\scriptstyle P < 0 . 0 5 { \mathrm { . } }$ ），while with the same or no small letter superscripts mean no significant difference（ $( P { > } 0 . 0 5 )$ ：
+
+3讨论
+
+3.1饲粮能量和蛋白质水平对滩羊小肠中PepT1mRNA表达量的影响
+
+PepT1 mRNA 的表达调控可能有2个途径：一是增加PepT1mRNA 的转录水平；二是增加 mRNA 编码基因的稳定性，即翻译水平[14]。朱宇旌等[15]认为，PepT1的活性调控具有可塑性，当环境发生变化时，PepT1能够快速适应其变化。然而，饲粮和肠腔内底物的浓度会影响小肠营养素转运载体的表达活性，从而影响肠道营养物质的转运。现有大量试验表明饲粮蛋白质水平可能上调PepT1基因的活性。Ostaszewska等[1]研究表明，分别用不同的蛋白质源（游离氨基酸、二肽和完整蛋白质）饲喂鳕鱼，饲喂游离氨基酸和二肽的鳕鱼不仅体内PepT1mRNA的表达量显著增加，且平均体重比饲喂完整蛋白质的鳕鱼显著增加（大约8倍）。Ferraris 等[17]研究发现：相比低蛋白质饲粮（ $1 8 \%$ ），高蛋白质饲粮（ $7 2 \%$ ）会使小鼠空肠对二肽的吸收量提高 $3 0 \% { \sim } 7 0 \%$ 。另有研究表明，限饲、禁食或营养不良会导致小肠吸收面积减少，所以随着日龄增加，限饲会使营养转运载体表达增加[18]。Bucking 等[19]通过短期禁食，发现动物体内PepT1mRNA的表达量上调，但长期禁食反而使其下降。Chen 等[20]比较了饲粮蛋白质水平为 $12 \%$ 、 $1 8 \%$ 、 $24 \%$ 与饲粮蛋白质水平为 $1 8 \%$ 和 $24 \%$ 时限制饲喂对鸡小肠PepT1mRNA的表达量的影响，结果显示饲粮蛋白质水平为 $12 \%$ 时随日龄鸡小肠PepT1mRNA的表达量呈下降趋势，饲粮蛋白质水平为 $1 8 \%$ 和 $24 \%$ 时限制饲喂其表达量呈上升趋势，但进一步试验发现饲粮蛋白质水平为 $2 4 \%$ 自由采食时，PepT1mRNA的表达量
+
+反而下降。  
+试验证明,PepT1的表达受蛋白质消化产物的影响，底物含量过多或过少都会增加PepTl的表达。当底物浓度较高时会增加转运载体的数量和活性来增加对营养物质的转运，充分吸收利用底物，而低浓度时，机体又有一种补偿机制来增加载体的表达，供机体对营养物质的吸收，保证正常生命活动的需要9]。氨基酸的转运受多种途径的共同调节，其表达量可能受试验物种、饲粮、生长阶段、激素等的影响[6]。由本实验室田春丽[21的研究可知，饲粮能量和蛋白质水平对PepT1mRNA 的表达量的影响与采食量无关，可能与小肽的摄入量有关。本试验中，在 $2 9 { \sim } 3 5 \mathrm { k g }$ 阶段末，II组小肠中PepT1mRNA 的表达量最低，其他3 组都显著高于ⅡI组，且这3组之间无显著差异。此阶段小肠中PepT1mRNA的表达量变化与前人的结果[2有一些差异，但具体机制还有待进一步研究。在 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段末，Ⅱ组小肠中PepT1mRNA 的表达量最高，其他3组之间无显著差异，这与前人的结果[21]一致。  
+3.2饲粮能量和蛋白质水平对滩羊小肠中CAT1mRNA表达量的影响  
+CAT1是一种非钠离子依赖性的碱性氨基酸转运载体，具有高亲和力，已经被证明在胃肠道上皮细胞的顶膜与底膜中都发生表达。它主要转运赖氨酸与精氨酸，而这2种阳离子氨基酸都是羊的限制性氨基酸。CAT1属于y+转运系统，通过膜两侧的电势梯度单向转运氨基酸[22]。饲粮对氨基酸转运载体的影响，主要是饲粮的蛋白质含量和组成可以改变胃肠道中氨基酸转运载体的底物浓度，从而调节转运载体的表达。当氨基酸含量充足时，氨基酸转运蛋白的活性低（适应性抑制）；当氨基酸含量较低时，氨基酸转运蛋白的活性高（适应性阻遏）。生理学上，氨基酸转运的适应性调节可以作为细胞的有限氨基酸供应的防御机制的一部分，在去阻遏期间，转运蛋白的表达可以为细胞提供蛋白质，使氨基酸快速流入细胞，促进细胞恢复正常生长[23]。石常友等[24]试验用不同蛋白质水平饲粮喂育肥猪，结果高蛋白质水平（ $1 9 \%$ ）饲粮与低蛋白质水平（ $1 3 \%$ ）饲粮均可显著提高肥育猪十二指肠和空肠 CAT1mRNA 的表达量。而柏明娜[25]对爱拔益加（AA）肉鸡进行CAT1mRNA表达量分析，结果
+
+表明随着饲粮蛋白质水平的提高，表达量有下降的趋势，但是差异不显著。宁良川[26]用不同蛋白质水平的饲粮饲喂家兔，结果显示空肠和回肠中CAT1mRNA 的表达量随着蛋白质水平的升高显著上调。石常友等[24]的研究表明，不同饲粮蛋白质水平对CAT1mRNA 的表达量的影响可能与蛋白质和碱性氨基酸的摄入量有关，与采食量无关。根据田春丽[21的研究结果，饲粮能量和蛋白质水平对滩羊的平均日采食量没有显著影响，所以本试验饲粮能量和蛋白质水平对小肠中CAT1mRNA表达量的影响与滩羊的平均日采食量无关，本试验在 29\~35kg 阶段末，随着饲粮能量和蛋白质水平的提高，IV组小肠中CAT1 mRNA 的表达量最高，这与上述的研究结果基本一致。而前3组随着饲粮能量和蛋白质水平的提高，小肠中 CAT1mRNA的表达量呈下降趋势，这与石常友等[24]的研究结果一致。3.3饲粮能量和蛋白质水平对滩羊小肠中EAAT3mRNA表达量的影响EAAT 是Na+依赖性转运载体，对酸性氨基酸（主要是谷氨酸和天冬氨酸）有高亲和力，EAAT3 是其中研究最为广泛的一种，几乎在所有组织都有分布，对酸性氨基酸的转运有重要的意义[27]。饲粮的营养水平会影响 EAAT3基因的表达。Howell等[28]试验表明，在保证羔羊摄入相同量的饲粮蛋白质条件下，供给羔羊不同能量的饲粮，结果显示高能量饲粮组的EAAT3 的蛋白质表达量显著升高。宁良川[26]对家兔的研究表明，随着饲粮蛋白质水平的升高，肠道内环境中的可消化蛋白质水平升高，底物增加使得十二指肠和空肠中 EAAT3 mRNA的表达量也增加。另外，Howell等[28]研究表明，通过增加谷氨酸底物浓度可以增加 EAAT3mRNA的表达量，从而促进育肥羊生长和组织代谢。本试验在 $2 9 { \sim } 3 5 ~ \mathrm { k g }$ 阶段，羔羊正处于快速生长阶段，随着饲粮能量和蛋白质水平的增加，I组小肠中 EAAT3 mRNA 的表达量最大，IV组表达量和I组和ⅡI组无显著差异。本试验饲粮能量和蛋白质水平对小肠中 EAAT3mRNA 的表达量的影响与采食量无关，可能是随着饲粮能量和蛋白质水平的提高，肠道中可消化蛋白质含量增加，氨基酸底物浓度也随之升高，在一定范围内，小肠中 EAAT3 mRNA的表达量随着底物浓度的升高而增加，当饲粮蛋白质水平过高时，肠道内氨基酸底物浓度达到饱和，就会出现负反馈调节，小肠中EAAT3mRNA的表达量随之降低，但和前2组没有显著差异。在 $3 6 { \sim } 4 0 ~ \mathrm { k g }$ 阶段，生长发育开始变慢，脂肪开始大量沉积，随着饲粮能量和蛋白质水平的升高，小肠中EAAT3mRNA的表达量逐渐增加，这可能是大量沉积脂肪的需要。3.4阶段与饲粮能量和蛋白质水平对滩羊小肠中PepT1、CAT1和 EAAT3mRNA表达量的影响张爱华等[29]的研究表明，AA 肉仔鸡PepT1 mRNA 的表达量存在肠段与日龄的互作效应，而 EAAT3 mRNA的表达量不存在肠段与日龄的互作效应。本研究表明，小肠中PepT1、CAT1mRNA的表达量均存在阶段与能量和蛋白质水平的互作效应，不同阶段随着能量和蛋白质水平的提高，基因的表达量不同。小肠中EAAT3mRNA的表达量不存在阶段与能量和蛋白质水平的互作效应。这说明小肠中EAAT3mRNA的表达量分别受阶段及能量和蛋白质水平的影响，但二者之间无互作效应，这可能跟饲粮组成和滩羊生长发育阶段的特点有关。
+
+4结论
+
+$\textcircled{1}$ 饲粮能量和蛋白质水平对滩羊小肠中PepT1、CAT1和 EAAT3 的表达量在 29\~35 kg和 $3 6 { \sim } 4 0 \mathrm { k g }$ 阶段都有显著影响。
+
+$\textcircled{2}$ 滩羊小肠中PepT1、CAT1mRNA的表达量均存在阶段 $\times$ 能量和蛋白质水平的互作效应，小肠中EAAT3mRNA的表达量不存在阶段与能量和蛋白质水平的互作效应。
+
+参考文献：
+
+[1] HINDLET P,BUYSE M.RegulationofPepT1byleptinand physiological implications[J].Genes & Nutrition,2010,5(Suppl.1):15-17.
+
+[2]周玲,王晓清,刘臻,等.营养素转运载体的研究进展[J].饲料研究,2013(4):18-23.
+
+[3] HERRERA-RUIZ D,WANG Q,COOK T J,et al.Spatial expression pattrns of peptide transporters in the human and rat gastrointestinal tracts,Caco-2 in vitro cell culture model,and multiple human tissues[J].AAPS PharmSci,2OO1,3(1):100.
+
+[4] ZHANG L,STRONG J M,QIU W,et al.Scientific perspectives on drug transporters and their role in drug interactions[J].Molecular Pharmaceutics,2OO6,3(1):62-69.
+
+[5] BROER S,WAGNER C A.Structure-function relationships of heterodimeric amino acid transporters[J].Cell Biochemistry and Biophysics,2002,36(2/3):155-168.
+
+[6] 张爱华.肉仔鸡肠道主要营养素转运载体 mRNA 表达发育规律的研究[D].硕士学位论文.北京：中国农业科学院,2014.
+
+[7] 周英昊.陕北白绒山羊碱性氨基酸转运载体基因cDNA克隆及时空表达分析[D].硕士学位论文.杨凌：西北农林科技大学，2015.
+
+[8] WADICHE J I,AMARA S G,KAVANAUGH M P.Ion fluxes associated with excitatory amino acid transport[J].Neuron,1995,15(3):721-728.
+
+[9] 黄薪蓓,许庆彪,刘建新.肠道氨基酸和小肽转运载体的基因表达、影响因素与分子调控机制[J].动物营养学报,2015,27(1):21-27.
+
+[10] ARRIZA J L,FAIRMAN W A,WADICHE J I,et al.Functional comparisons of three glutamate transporter subtypes cloned from human motor cortex[J].The Journal of Neuroscience,1994,14(9):5559-5569.
+
+[11] KANAI Y,SMITH C P,HEDIGER M A.A new family of neurotransmiter transporter:the high-affinity glutamate transporters[J].The FASEB Journal,1993,7(15):1450-1459.
+
+[12]张丽英.饲料分析及饲料质量分析检测技术[M].3版.北京:中国农业大学出版社,2007:49-93.
+
+[13] 熊本海,罗清尧,赵峰,等.中国饲料成分及营养价值表(2015年第26版)制订说明[J].中国饲料,2015(21):23-33.
+
+[14] GILBERT E R,WONG E A,WEBB K E.BOARD-INVITED REVIEW:peptide absorption andutilization:implicationsfor animal nutrition and health[J].Journal ofAnimal
+
+Science,2008,86(9):2135-2155.
+
+[15] 朱宇旌,王秉玉,张勇,等.小肽转运载体1的生物学特性及其功能[J].动物营养学报,2012,24(10):1847-1853.
+
+[16] OSTASZEWSKA T,KAMASZEWSKI M,GROCHOWSKI P,et al.The effect of peptide absorption on PepTl gene expression and digestive system hormones in rainbow trout (Oncorhynchus mykiss)[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2010,155(1):107-114.
+
+[17] FERRARIS R P,DIAMOND J,KWAN W W.Dietary regulation of intestinal transport of the dipeptide carnosine[J].American Journal of Physiology,1988,255(2):G143-G150.
+
+[18] GILBERT E R,LI H F,EMMERSON D A,et al.Dietary protein quality and feed restriction influence abundance of nutrient transporter mRNA in the small intestine of broiler chicks[J].The Journal of Nutrition,2008,138(2):262-271.
+
+[19] BUCKING C,SCHULTE P M.Environmental and nutritional regulation of expression and function of two peptide transporter (PepT1) isoforms in a euryhaline teleost[J].Comparative Biochemistry and Physiology Part A:Molecular & Integrative Physiology,2012,161(4):379-387.
+
+[20] CHEN H,PAN Y X,WONG E A,et al.Dietary protein level and stage of development affect expression of an intestinal peptide transporter (cPepT1） in chickens[J].The Journal of Nutrition,2005,135(2):193-198.
+
+[21] 田春丽.不同能量和蛋白水平日粮对滩羊生长性能、养分消化率和经济效益的影响[D].硕士学位论文.杨凌:西北农林科技大学,2015
+
+[22]闫磊.日粮营养水平对前胃上皮几种氨基酸转运载体及 $\mathrm { { N a ^ { + } / H ^ { + } } }$ 交换蛋白mRNA表达的影响[D].硕士学位论文.南京:南京农业大学,2010
+
+transport:the story of the CAT-1 transporter[J].Annual Review of Nutrition,2004,24(1):377-399.
+
+[24] 石常友,王文策,耿梅梅,等.不同蛋白质水平日粮对肥育猪肠道氨基酸转运载体 CAT1mRNA表达量的影响[J].动物营养学报,2008,20(6):692-698.
+
+[25] 柏明娜.日粮不同蛋白质水平对 AA+肉鸡生长性能、氮代谢及回肠CAT1mRNA 表达量的影响[D].硕士学位论文.长春:吉林大学,2014.
+
+[26] 宁良川.家兔PepT1的原核表达及日龄、蛋白对PepT1mRNA 表达量的影响[D].硕士学位论文.泰安:山东农业大学,2015.
+
+[27] 魏宗友,徐柏林,郝志敏,等.氨基酸转运载体的研究进展[J].中国饲料,2010(13):19-25.
+
+[28] HOWELL J,MATTHEWS A D,WELBOURNE T C,et al.Content of ileal EAAC1 and hepatic GLT-1 high-affinity glutamate transporters is increased in growing vs. non-growing lambs,paralleling increase tissue concentrations of $\mathrm { d } -$ and l-glutamate and plasma glutamine and alanine[J].Journal of Animal Science,20O3,81(4):103O-1039.
+
+[29]张爱华,张姝,蔡辉益,等.爱拔益加肉仔鸡肠道PepT1、 $B ^ { 0 } A T$ 和EAAT3mRNA的表达差异 与发育规律[J].动物营养学报,2014,26(9):2841-2850.
+
+Effects of Dietary Energy and Protein Levels on mRNA Expression of Small Peptide and Amino Acid Transporters in Small Intestine of Tan Sheep LU YanjuanWANG Xiaofang ZENG Jie CHEN Yulin ZHANG Enping\* (College of Animal Science and Technology,Northwest A&F University, Yangling 712100, China)
+
+Abstract: This experiment was conducted to study the effects of dietary energy and protein levels on mRNA expression of small peptide and amino acid transporters in small intestine of Tan sheep.
+
+groups with 4 replicates per group and 7 sheep per replicate. The standard level diet referenced Feeding Standard of Sheep (NY/T 816-2004), sheep in the 4 groups were fed diet with different energy and protein levels diets: $0 . 8 4 \times$ standard level (group I), $0 . 9 6 \times$ standard level (group II), 1.08×standard level (group III) and $1 . 2 0 \times$ standard level (group IV),respectively. The test period were divided into two stages by body weight of sheep: 29 to $3 5 \mathrm { k g }$ and 36 to $4 0 \mathrm { k g }$ . At the end of each stage,one sheep was slaughtered at each replicate,and small intestinal samples were collected to study the expression of peptide transporter 1 (PepT1)，、 ${ \bf y } ^ { + }$ cationic amino acid transporter 1 （CAT1） and excitatory amino-acid transporter 3 (EAAT3) mRNA by real-time PCR. The results showed as follows: 1) at the end of 29 to $3 5 \mathrm { k g }$ stage, the small intestine PepT1 mRNA expression firstly decreased and then increased with diet energy and protein levels increased, and the small intestine PepT1 mRNA expresson in group II was significantly higher than that in other three groups $( P { < } 0 . 0 5 )$ ； the small intestine CAT1 mRNA expression in group $\mathrm { I V }$ was significantly higher than that in other three groups $( P { < } 0 . 0 5 )$ ; the small intestine EAAT3 mRNA expression in group II was significantly higher than that in other three groups ( $( P { < } 0 . 0 5 )$ . 2) At the end of 36 to $4 0 ~ \mathrm { k g }$ stage,the small intestine PepT1 mRNA expression in group II was significantly higher than that in other three groups $( P { < } 0 . 0 5 )$ ； the small intestine CAT1 mRNA expression in group I was significantly higher than that in group III $( P { < } 0 . 0 5 )$ ； the small intestine EAAT3 mRNA expresson had a significantly rise trend with diet energy and protein levels increased, and the small intestine EAAT3 mRNA expression in group III and group IV was significantly higher than that in group I and group I $( P { < } 0 . 0 5 )$ . In conclusion, dietary energy and protein levels can significantly affect the mRNA expression of PepT1， CATl and EAAT3 in small intestine of Tan sheep,which can change the absorption and utilization of the small peptides and amino acids to adapt to Tan sheep's growth and development.
+
+Key words: Tan sheep; energy and protein levels; small peptide and amino acid transporters;
+
+mRNA expression

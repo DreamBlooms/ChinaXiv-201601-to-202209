@@ -1,0 +1,125 @@
+# 临床研究
+
+# ROC曲线评估血小板参数对移植肾功能恢复延迟的预测价值
+
+李怿辰'，付绍杰'，于立新'，肖露露'，罗敏²，梁永杰'，奉艳林1  
+南方医科大学南方医院'器官移植科，检验科，广东广州510515
+
+摘要：目的 探讨血小板五项参数对移植肾功能恢复延迟(DGF)临床结局的预测价值。方法 对本中心330例肾移植术后患者的临床资料进行回顾性分析，其中DGF47例(DGF组),未发生DGF283例(非DGF组）,采用ROC曲线对肾移植术后受者外周血小板数量(PLT）、大型血小板比值(P-LCR)、血小板平均容积(MPV)、血小板分布宽度(PDW）、血小板压积(PCT)评估分析。结果术前DGF组血小板五项参数水平与非DGF组比较无明显差异。但在DGF诊断日,两组血小板参数相比具有显著的统计学差异( $( P { < } 0 . 0 5 )$ 。其中，DGF组PLT和PCT指标显著低于非DGF组( $P { < } 0 . 0 5 , P { < } 0 . 0 2 )$ ,而P-LCR、MPV、PDW指标则明显高于非DGF组 $\left( P { = } 0 . 0 1 , P { < } 0 . 0 1 , P { = } 0 . 0 3 6 \right)$ 。P-LCR、PDW和MPV的AUC分别为 $0 . 6 1 1 { \scriptstyle \pm 0 . 0 4 7 , 0 . 6 0 3 { \pm 0 . 0 4 8 } }$ 和 $0 . 7 6 2 { \scriptstyle \pm 0 . 0 3 7 }$ ,均显著大于机会参考下面积( $P { < } 0 . 0 5 )$ ，最佳临界值分别为 $3 4 . 8 0 \%$ 、12.95fl和11.55fl,其中,MPV的敏感度、特异度和youden指数均处于较高水平。PDW与P-LCR指标的敏感度较高,但特异性较低,两者对预测DGF的发生有一定的参考价值,但MPV预测DGF发生的价值更好,可作为诊断DGF发生的一种参考指标。PLT与PCT的AUC为0.37和0.38,对DGF无明显的预测价值。结论DGF发生时,血小板五项参数同未发生DGF的对照组比较有显著的差异,对肾移植术后早期受者MPV、PDW、P-LCR指标变化的监测,有助于早期诊断并及早治疗DGF,血小板参数MPV预测DGF的临床价值达到中度(0.7\~0.9),MPV>11.5l时,需警惕患者有发生DGF的风险。
+
+关键词：移植肾功能恢复延迟；血小板;血小板平均容积；肾移植
+
+# ROC curve-based evaluation of platelet parameters for predicting delayed renal graft function
+
+LI Yichen',FUShaojiel,YULixin,XIAOLulu,LUO Min2,LIANG Yongjiel,FENGanlin   
+Departmentofieysptaiepamntfcalboayanitaltdiclsity   
+510515, China
+
+Abstract: ObjectiveToinvestigate the valueof evaluating 5platelet parameters in predicting delayed graft function (DGF)in patients following kidney transplantation.Methods We retrospectively analyzed the pre-and postoperative (within2 months) data of 30renal transplantrecipients.Thecases withDGFandthose without were analyzed toassessthe associationbetween relationshipbetweenDGFfollowing transplantationandthe variationsof blood platelet parameters including plateletcount (PLT),large plateletratio (P-LCR)，mean plateletvolume (MPV)，plateletvolume distributionwidth (PDW)andplatelet hematocrit (PCT).ResultsThe DGFandnon-DGFcases were comparable forthe platelet parameters before theoperation. On postoperative day 7 when the diagnosis of DGF was made, PLT $_ { ( P < 0 . 0 5 ) }$ and PCT $_ { ( P < 0 . 0 2 ) }$ were significantly lower while MPV $( P { < } 0 . 0 1 )$ ,PDW $( P { = } 0 . 0 3 6 )$ and P-LCR $( P { = } 0 . 0 1 )$ significantly higher in DGF group than in non-DGF group. The AUCs of P-LCR $( 0 . 6 1 1 { \scriptstyle \pm 0 . 0 4 7 } )$ ,PDW $\left( 0 . 6 0 3 { \scriptstyle \pm 0 . 0 4 8 } \right)$ and MPV $( 0 . 7 6 2 { \scriptstyle \pm 0 . 0 3 7 } )$ were significantly higher than the reference area $_ { ( P < 0 . 0 5 ) }$ with cut-off values of $3 4 . 8 0 \% \%$ , 12.95fl and 11.55fl, respectively. MPV showed a high sensitivity specificity and Youden index for predicting DFG; PDWandP-LCRhadahighsensitivitybutalow specificity for predicting DFG witha modest diagnostic value.PLT and PCT,with AUCsof were0.37and0.38,respectivelydidnot havea predictive value forDGF.ConclusionsSignificant variations in platelet parameters occur in the eventof DGF inrenal transplant recipients,and monitoring the postoperative change in MPV,PDW,andP-LCRcanhelpinearlydiagnosisand treatmentof DGF.MPVhasa moderate value (0.7-0.9)in predicting DGF, and a $\mathrm { M P V } { > } 1 1 . 5 5$ fl suggests the risk of DGF.
+
+Key words: delayed graft function; platelets; mean platelet volume; renal transplantation
+
+同种异体肾移植术是终末期肾功能衰竭最佳的治疗手段，随着肾移植技术的进步、围手术期处理不断改善及新型免疫抑制剂的应用，移植肾成功率在不断提高，但是肾移植术后肾功能恢复延迟(DGF)仍是常见的并发症。有报道指出，在不同地区，不同中心尸体肾移植DGF发生率为 $2 \% { \sim } 5 0 \% ^ { [ 1 - 2 ] }$ ,DGF的早期诊断和及时治疗可明显提高肾移植的成功率和移植肾的远期存活率。移植肾延迟恢复为多因素作用的结果，我们已研究发现：肾移植受者在肾移植术后早期血小板参数的变化规律非常明显，DGF过程中与血小板的活化有密切关系[3。本文对我中心330例同种异体肾移植患者的临床资料进行回顾性观察研究，其中DGF47例(DGF组），未发生DGF283例（非DGF组），采用受试者工作特征曲线(ROC曲线)对肾移植术后受者外周血小板数量(PLT)、大型血小板比值(P-LCR)、血小板平均容积(MPV）、血小板分布宽度(PDW)、血小板压积(PCT)评估分析。本文研究价值在于在前文的研究基础上进一步深化探讨血小板五项参数对移植肾功能恢复延迟临床结局的预测价值，并对有预测价值的参数指标进行了量化，发现血小板部分参数对预测DGF的发生有一定的研究价值。对肾移植术后早期受者血小板参数指标变化的监测，临床上有助于早期诊断并及早治疗DGF。
+
+# 1 资料和方法
+
+# 1.1一般资料
+
+回顾性分析2009年1月\~2014年10月本院尸体供肾同种异体肾移植受者术后2个月内的临床资料，排除不符合纳入条件的样本，共纳入330例研究样本，其中男性243例，女性87例，年龄 $4 1 . 5 { \pm } 1 0 . 4 1$ 岁。原发病分别为慢性肾小球肾炎231例，糖尿病肾病28例，多囊肾14例，高血压肾病18例，IgA肾病11例,慢性移植肾肾病18例，梗阻性肾病3例，原发病不详7例。发生DGF47例，发生率为 $1 4 . 2 \%$ ,其中男性38例，女性9例，平均年龄 $3 9 . 8 { \pm } 9 . 7 3 \$ 岁，首次肾移植43例，二次肾移植4例。所有发生DGF的患者经规律血液透析、继续规范治疗后，移植肾功能逐步恢复并停止透析治疗，治疗时间 $2 4 . 7 { \pm } 5 . 4 7 \mathrm { d } _ { \odot }$ 。同期肾移植后未发生DGF的283例作为非DGF组(对照组)，其中男性205例，女性78例，年龄$4 0 . 6 { \pm } 7 . 8 1 \$ 岁，首次肾移植269例，二次肾移植14例。1.1.1 纳入标准供受者ABO血型均相符、淋巴毒试验阴性，HLA配型错配位点1\~5个，所有受者术前群体反应性抗体(panelreactionantibodyPRA)检测均阴性,术前均接受透析治疗(腹透或血透);供肾均为尸体供肾，供者与供肾均符合标准捐献条件;获取和保存器官时均使用HA-C灌注液;热缺血时间 $3 { \sim } 1 0 ~ \mathrm { m i n }$ ，冷缺血时间$6 { \sim } 2 4 \mathrm { h }$ ；术后所有受者均采用口服他克莫司(Tac) $+$ 霉酚酸酯（MMF) $^ +$ 醋酸泼尼松(Pred)三联药物免疫抑制方案；患者未发生急性或慢性感染等各项并发症。
+
+1.1.2排除标准术前7d内使用过影响血小板功能聚集的药物(如阿司匹林)的患者;术后2个月内出现各种感染和其他并发症的患者；因出血倾向或严重贫血输注过全血或血液制品者;观察时间内人肾丢失;亲属供肾活体肾移植受者；因各种原因导致临床资料收集不全者。1.1.3DGF诊断标准DGF诊断标准：患者行肾移植术后1周至少需要进行1次血液透析;患者未经过血液透析治疗，术后7d内肌酐未下降至 $4 0 0 \mu \mathrm { m o l } / \mathrm { L } ^ { \left[ 4 - 5 \right] }$ ;移植肾穿刺活检为检验DGF的金标准。
+
+# 1.2检测方法
+
+取受试者术前、手术当日及术后第7天(即DGF确诊日)外周静脉血各 $2 { \mathrm { ~ m L } }$ ,乙二胺四乙酸二钾抗凝，采用SysmexXE2100型全自动血液分析仪及配套进口试剂对血小板参数进行测定。所有血标本均严格在2h内进行测定。
+
+# 1.3统计学处理
+
+所有检测数据用均数 $\pm$ 标准误表示，采用SPSS20.0统计软件进行分析，计量资料组间比较采用独立样本t检验，并以PLT、MPV、PCT、P-LCR、PDW为检验变量，以DGF和非DGF为状态变量，绘制ROC曲线，各检验变量曲线下面积(AUC)比较采用 $Z$ 检验，以 $P { < } 0 . 0 5$ 为差异有统计学意义。
+
+# 2结果
+
+2.1血小板五项参数在DGF与非DGF不同结局中的比较
+
+由表1和表2可见，在手术前，DGF组血小板五项参数水平与非DGF组比较差异无统计学意义 $( P { > } 0 . 0 5 )$ ，提示移植前2组间血小板指标处于相同水平。但在DGF诊断日，两组血小板参数相比具有显著的统计学差异 $( P { < } 0 . 0 5 )$ 。其中，DGF组PLT和PCT指标显著低于非DGF组 $( P { < } 0 . 0 5 , P { < } 0 . 0 2 )$ ,而P-LCR、MPV、PDW指标则明显高于非DGF组 $\left( P { = } 0 . 0 1 , P { < } 0 . 0 1 , P { = } 0 . 0 3 6 \right)$ ，提示血小板在DGF的不同结局中有一定的变化规律。
+
+# 2.2血小板五项参数对DGF结局的临床预测价值
+
+外周血中P-LCR、PDW和MPV的AUC分别为$0 . 6 1 1 . 0 . 6 0 3$ 和0.762,均显著大于机会参考下面积( $\scriptstyle \left. P < \right.$ 0.05)，最佳临界值分别为 $3 4 . 8 0 \%$ 、12.95fl和11.55fl，其中,MPV的敏感度、特异度和youden指数均处于较高水平，预测DGF的临床价值达到中度(0.7\~0.9)，AUC均显著高于P-LCR和PDW( $P { < } 0 . 0 5 )$ ,提示血小板参数MPV对临床DGF预测价值较高， $\mathrm { M P V } { > } 1 1 . 5 5 \mathrm { f l }$ 时预示有更高的DGF的发生率。PDW与P-LCR指标的敏感度较高，但特异性较低，且AUC较小，提示对DGF有部分参考价值。PLT与PCT的AUC为0.37和0.38，与机会参考下面积比较无统计学意义（ $( P { > } 0 . 0 5 )$ ,对DGF无明显的预测价值。
+
+# 3讨论
+
+DGF是肾移植术后重要的并发症之一，并且能影响移植物近期和远期的生存率6。DGF临床表现为少
+
+表1DGF组与对照组术前血小板各项参数比较 Tab.1 Comparison of preoperative platelet parameters between DGF and non-DGF groups (Mean±SE)   
+
+<html><body><table><tr><td>Group</td><td>Cases</td><td>PLT (10/L)</td><td>P-LCR (%)</td><td>MPV (fl)</td><td>PDW (fl)</td><td>PCT (mL/L)</td></tr><tr><td>DGF</td><td>47</td><td>216.41±67.73</td><td>25.936±7.05</td><td>10.195±0.89</td><td>11.493±1.83</td><td>2.170±0.62</td></tr><tr><td>non-DGF</td><td>283</td><td>207.49±57.49</td><td>24.912±6.79</td><td>10.055±0.86</td><td>10.995±2.22</td><td>2.093±0.58</td></tr><tr><td>P</td><td></td><td>0.351</td><td>0.355</td><td>0.313</td><td>0.158</td><td>0.413</td></tr></table></body></html>
+
+# 表2DGF组与对照组DGF诊断日血小板各项参数比较
+
+Tab.2 Comparison of platelet parameters between DGF and non-DGF groups on the day of DGF diagnosis (Mean±SE)   
+
+<html><body><table><tr><td>Group</td><td>Cases</td><td>PLT (10/L)</td><td>P-LCR (%)</td><td>MPV (fl)</td><td>PDW (fl)</td><td>PCT (mL/L)</td></tr><tr><td>DGF</td><td>47</td><td>130.37±59.374</td><td>37.133±7.93</td><td>11.549±0.93</td><td>14.258±2.32</td><td>1.428±0.59</td></tr><tr><td>non-DGF</td><td>283</td><td>148.87±55.375</td><td>33.964±7.23</td><td>11.144±0.92</td><td>13.491±2.31</td><td>1.681±0.57</td></tr><tr><td>P</td><td></td><td>0.044</td><td>0.01</td><td>0.009</td><td>0.036</td><td>0.017</td></tr></table></body></html>
+
+![](images/fc28f6d2fc3d4be6ab69fdff955ed82308b39aea7f694c536069451ba08553d8.jpg)  
+图1DGF日外周血小板MPV预测临床DGF 的AUC曲线 Fig.1 ROC curve of MPV on the day of DGF diagnosis.
+
+![](images/1ff7bd54d2c1da7da170f0fd016c96affeb228a55a89500fc5632c7518d172c7.jpg)  
+图3DGF日外周血小板P-LCR预测临床 DGF的AUC曲线 Fig.3ROC curve of P-LCR on the day of DGF diagnosis.
+
+![](images/1cc451ca13d00eff7ba5ba2a0691f5628b57752c62dd889c4af0403c3df932ce.jpg)  
+图2DGF日外周血小板PDW预测临床DGF 的AUC曲线 Fig.2ROC curve of PDW on the day of DGF diagnosis.
+
+尿、无尿或非少尿型急性肾小管坏死，DGF的主要病理学表现为移植肾实质细胞的损伤和坏死，但因特异性不高、穿刺活检并发症多等原因而往往不被接受，目前DGF常用术后1周Scr未下降至 $4 0 0 \mu \mathrm { m o l / L }$ 作为诊断指标，但多数DGF发生于肾移植术后即刻，并且影响人肾存活时间、延长住院时间、增加治疗费用等。我们已研究发现38：血小板各项参数与肾移植术后DGF和急性排斥(AR)的发生密切相关，术后监测MPV、PDW、P-LCR3项参数变化趋势可作为诊断AR发生的一种辅助方法。本研究注重探讨血小板五项参数与肾移植术后移植肾功能延迟性恢复的关系，ROC曲线计算出精确的血小板活化的量化指标，并评估血小板参数对移植肾功能恢复延迟的预测价值。
+
+目前临床上常用的血小板检测指标包括PLT、MPV、PDW、PCT、P-LCR。目前认为血小板参数中的PLT是计数单位容积(L)周围血液中血小板的数量，反映血小板的生成和衰亡的动态平衡;MPV代表单个血小板的平均容积，反映骨髓造血功能变化及骨髓中巨核细胞增生、代谢和血小板的生成情况;PDW代表血小板分布宽度，反映血小板容积大小的离散度,PDW增高表明血小板大小悬殊;PCT是血小板压积，是指一定容积全血中血小板所占的百分比,反映单位容积的全血中血小板体积所占的比例;P-LCR是指大血小板所占比率，反应血小板的活化程度;Okuno等"也证实，当机体因炎症反应出现血小板活化时,PLT、PCT下降,MPV、PDW、P-LCR增加，体积大和差异程度高的血小板含有更多的颗粒和更高的活性。本研究中，DGF组和对照组患者在术前血小板参数无统计学差异且处于正常水平，但发生DGF时患者术后PLT、PCT低于对照组，而MPV、PDW、P-LCR明显高于非DGF组,与Okuno观点一致[1],表明此时血小板处于高度活化状态，血小板与DGF有密切关系，可能参与了DGF的一系列反应过程。
+
+表3DGF日外周血小板五项参数对临床DGF预测价值比较 Tab.3 Comparison of the value of platelet parameters on the day of DGF diagnosis in predicting DGF (area under curve, AUC)   
+
+<html><body><table><tr><td>Parameters</td><td>AUC</td><td>Cut-off values</td><td>Sensitivity</td><td>Specificity</td><td>Youden index</td></tr><tr><td>MPV</td><td>0.762±0.037</td><td>11.55</td><td>0.727</td><td>0.755</td><td>0.482</td></tr><tr><td>P-LCR</td><td>0.611±0.047*</td><td>34.80</td><td>0.619</td><td>0.574</td><td>0.193</td></tr><tr><td>PDW</td><td>0.603±0.048*</td><td>12.95</td><td>0.684</td><td>0.500</td><td>0.184</td></tr><tr><td>PCT</td><td>0.366±0.049</td><td></td><td></td><td></td><td></td></tr><tr><td>PLT</td><td>0.378±0.046</td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+ComparewithMPV, $^ { * } P { < } 0 . 0 5$
+
+DGF病理损伤的发病机制目前仍未清楚，可能是多种机制联合作用，首先是缺血再灌注损伤，其后可因免疫因素和药物肾毒性的影响而加剧。近年来，炎症反应学说也逐步得到了认可。研究表明[12-15],缺血-再灌注损伤可能会通过一系列通路导致细胞损伤和死亡，微血管功能障碍，并且加重了氧化应激，这种暂时性、系统性的氧化应激失调可以在移植的器官内通过激活非特异性免疫系统和前炎症反应信号通路诱发一系列炎症反应导致细胞损伤,导致移植肾持续受损。而Dolegowska等[16-17]证实：血小板的产物5-,12-,15-HETE的含量与移植后肾功能恢复情况相关。血小板另一产物血栓烷TXB2也可以作为肾功能恢复相关的移植前监测标志，提示血小板不仅参与止血、凝血过程，而且在炎症反应和免疫反应中也起重要作用。本研究构建的ROC曲线中，MPV、PDW、PLCR的AUC均显著大于机会参考线下面积，其中MPV的AUC达到 $0 . 7 1 2 { \scriptstyle \pm 0 . 0 3 9 }$ ,最佳临界值11.55fl,并且具有良好的灵敏度 $( 7 2 . 7 \%$ )和特异度$( 7 5 . 5 \%$ ),youden指数0.482,PDW的AUC达到 $0 . 6 0 3 \pm$
+
+0.048，最佳临界值12.95fl，但灵敏度 $( 6 8 . 4 \%$ 较高，特异度（ $5 0 \%$ )较低，而PLCR的敏感度 $( 6 1 . 9 \%$ )和特异度L $5 0 \%$ )和youden指数均低于MPV，Z检验比较MPV与PDW和P-LCR之间均有统计学差异 $( P { < } 0 . 0 5 )$ 。因此,血小板参数P-LCR和PDW对预测DGF的发生有一定的参考价值，但MPV预测DGF发生的价值更好，可作为诊断DGF发生的一种参考指标，当 $\mathrm { M P V } > 1 1 . 5 5 \mathrm { i }$ f1时预示可能有更高的DGF的发生率。这对DGF患者的早期诊断和选择治疗都有益处，而且该诊断方法创伤较穿刺活检小,标本易获取，患者较容易接受，在临床应用极具潜力。
+
+综上所述，DGF发生时，血小板5项参数同未发生DGF的对照组比较有显著的差异，发生DGF时患者术后PLT、PCT低于对照组,而MPV、PDW、P-LCR明显高于非DGF组，对肾移植术后早期受者MPV、PDW、P-LCR指标变化的监测，有助于早期诊断并及早治疗DGF,其中MPV预测DGF的临床价值达到中度(0.7-0.9)，当 $\mathrm { M P V } { > } 1 1 . 5 5 \mathrm { f l }$ 时，需警惕患者有发生DGF的风险。
+
+# 参考文献：
+
+[1] Chaumont M,Racapé J, Broeders N,et al.Delayed graft function in kidney transplants: time evolution,role of acute rejection,risk factors,and impact on patient and graft outcome[J].J Transplant, 2015,12(8): 163757.   
+[2]Ojo AO,Wolfe RA,Held PJ,et al.Delayed graft function:risk factorsandimplicationsforrenalallograftsurvival[J]. Transplantation,1997,63(7): 968-74.   
+[3]付绍杰,郭彬彬,于立新,等.血小板与肾移植术后早期移植肾功能延 迟性恢复的关系[J].南方医科大学学报,2014,34(7):994-9.   
+[4]Perico N,Cattaneo D, Sayegh MH,et al.Delayed graft function in kidney transplantation[J].Lancet,2004,364(9447): 1814-27.   
+[5]Sola R,Alarcon A,Jimenez C,et al. The influence of delayed graft function[J].Nephrology Dialysis Transplantation,2OO4,19(3): 32-7.   
+[6]Peter M, Stuart K.Kidney transplantation:Principles and Practice [M].6th, United States of America: Saunders Elsevier,20o8:215-6.
+
+（下转296页）
+
+clinical analysis of expanded Polytetrafluoroethylene-Covered transjugular intrahepatic portosystemic shunt stent grafts[J].J Vasc Interv Radiol,2015,26(9): 1257-65.   
+[2]Zhao JB,李彦豪,KolbeckKJ,etal.覆膜支架在经颈静脉门腔分流 术中的应用[J].中华放射学杂志,2008,42(8):830-4.   
+[3］赵剑波，陈 勇,何晓峰,等.聚四氟乙烯覆膜支架经颈静脉肝内门腔分 流术后分流道再狭窄及影响因素分析[J].介入放射学杂志,2013,22 (8):629-33.   
+[4]Saad WE,Darwish WM,Davies MG,et al.Stent-grafts for transjugular intrahepatic portosystemic shunt creation: specialized TIPS stent-graft versus generic stent-graft/bare stent combination [J].J Vasc Interv Radiol,2010,21(10): 1512-20.   
+[5]Rössle M,Siegerstetter V,Euringer W,et al. The use of a polytetrafluoroethylene-coveredstentgraftfortransjugular intrahepatic portosystemic shunt (TIPS):Long-term follow-up of 100 patients[J].Acta Radiol,2006,47(7): 660-6.   
+[6]Bureau C,Pagan JC,Layrargues GP, et al. Patency of stents covered with polytetrafluoroethylene in patients treated by transjugular intrahepaticportosystemicshunts:long-termresultsofa randomized multicentre study[J].Liver Int, 2007,27(6): 742-7.   
+[7]Zurera LJ,Espejo J,Canis M,et al. Transjugular intrahepatic portosystemicshuntingwith coveredstentsin children:a preliminary study of safety and patency[J].Radiologia,2O14,56 (4): 339-45.   
+[8]Bercu ZL,Fischman AM,Kim E,et al. TIPS for refractory ascites: a 6-year single-center experience with expanded polytetrafluoroethylene-covered stent-grafts[J].AJR Am J Roentgenol,2015,204(3): 654-61.
+
+(编辑：孙昌朋)
+
+# （上接293页）
+
+[7]朱有华.肾脏移植手册[M].北京：人民卫生出版社,2010:535-43.   
+[8]付绍杰,梁永杰,于立新，等.血小板参数与肾移植术后急性排斥反应 的关系[J].南方医科大学学报,2015,35(3):413-6.   
+[9]王鸿利.实验诊断学[M].北京:人民卫生出版社,2005:71.   
+[10]陈文彬,潘祥林.诊断学[M].7版.北京：人民卫生出版社,2008: 261-2.   
+[11] Okuno S,Ashida T,Ebihara A,et al.Distinct increase in hematocrit associated with paroxysm of atrial fibrillation[J].Jpn HeartJ,2000, 41(5): 617-22.   
+[12] Salvadori M,Rosso G,Bertoni E.Update on ischemia-reperfusion injury in kidney transplantation:Pathogenesis and treatment [J]. World JTransplant,2015,5(2):52-67.   
+[13]Lee DM,Jackson KW,Knowlton N,et al.Oxidative stress and inflammation in renal patients and healthy subjects[J].PLoS One, 2011,6(7): e22360.   
+[14] Shapiro MD,Bagley J,Latz J,et al.MicroRNA expression data revealsa signatureof kidneydamage following ischemia reperfusion injury[J].PLoS One,2011,6(8): e23011.   
+[15]Hariharan N, Zhai PY,Sadoshima J. Oxidative stress stimulates autophagic flux during ischemia/reperfusion[J].Antioxid Redox Signal,2011,14(11): 2179-90.   
+[16]Dolegowska B,Blogowski W, Safranow K,et al.Lipoxygenasederived hydroxyeicosatetraenoic acids--novel perioperative markers ofearly post-transplant allograft function [J].Nephrol Dial Transplant,2010,25(12): 4061-7.   
+[17]Dolegowska B,Blogowski W,Domanski L.Dynamicsof thromboxane level changesduring early phase ofallograft reperfusion[J]. Clin Transplant,2009,23(5): 716-22.
+
+(编辑：孙昌朋)

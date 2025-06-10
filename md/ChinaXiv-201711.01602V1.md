@@ -1,0 +1,154 @@
+酵母水解物与复合酶制剂或微生态制剂组合替代血浆蛋白粉对保育猪生长性能和血清生化指标的影响
+
+文超越1.2 李　勇³邢伟刚³李　彪4 刘　佳³马向东张宇喆」 李凤娜1,6\*
+
+（1.中国科学院亚热带农业生态研究所，中国科学院亚热带农业生态过程重点实验室，长沙410125；2.湖南师范大学生命科学学院，动物营养与人类健康实验室，长沙 410006；3.新希望六和股份有限公司，北京100102；4.安琪酵母股份有限公司，宜昌443003；5.青岛蔚蓝
+
+生物股份有限公司，青岛 266001；6.湖南畜禽安全生产协同创新中心，长沙 410128）摘要：本试验旨在研究酵母水解物与复合酶制剂或微生态制剂联合应用对断奶仔猪生长性能和血清生化指标的影响。选用体况良好、体重接近的"杜 $\mathbf { \nabla } _ { \mathbf { X } }$ 长 $\times$ 大"三元杂交35日龄保育猪480头，随机分成5组，公母各占 $1 / 2$ ，每组8个重复，每个重复12头猪。采用单因子试验设计，对照组饲喂基础饲粮，试验组分别在基础饲粮中添加 $2 \%$ 血浆蛋白粉（组1）、 $0 . 5 \%$ 酵母水解物（组2）、 $0 . 5 \%$ 酵母水解物 $+ 0 . 0 2 \%$ 复合酶制剂（组3）和 $0 . 5 \%$ 酵母水解物 $+ 0 . 0 3 \%$ 微生态制剂（组4)。试验预试期3d；正试期 $2 5 { \mathrm { d } }$ ，分为I期（1\~14d）和Ⅱ期（15\~25d）2个阶段。结果表明：1)试验I期，各试验组保育猪平均日增重（ADG）和平均日采食量（ADFI)均比对照组显著增加（ $_ { . } P { < } 0 . 0 5 )$ ，组3料重比（F/G）显著低于对照组（ $. P { < } 0 . 0 5 )$ ，其余各组数值介于两者之间；试验ⅡI期，ADG 和FG各组之间差异不显著（ $. P { > } 0 . 0 5 \$ )，但与对照组相比，组1保育猪的ADFI显著提高（ $\scriptstyle \cdot { P < 0 . 0 5 } ,$ ，且组1、组2和组4的腹泻率显著低于对照组与组 $3 ( P { < } 0 . 0 5 )$ ；试验全期，与对照组相比，组1保育猪ADG、ADFI均显著提高( $_ { _ { P < 0 . 0 5 ) } }$ ，其余各组数值介于两者之间。2）与组2 相比，组3保育猪血清中甘油三酯含量显著降低（ $_ { _ { P < 0 . 0 5 } }$ )，其余血清生化指标各组之间差异不显著（ $. P { > } 0 . 0 5 )$ 。由此可知，血浆蛋白粉和酵母水解物能不同程度地改善保育猪的生长性能，酵母水解物具有替代保育猪饲粮中血浆蛋白粉的潜能，但酵母水解物与微生态制剂或复合酶制剂的联合应用并未产生协同效应。
+
+关键字：酵母水解物；复合酶制剂；微生态制剂；生长性能；血清生化指标；保育猪中图分类号：S816.7 文献标识码：A 文章编号：
+
+血浆蛋白粉因其丰富的营养价值被广泛用于乳仔猪饲粮中，然而其生物安全性备受质疑，寻找血浆蛋白粉的替代品变得愈发重要。酵母水解物含有丰富的氨基酸、核苷酸、小肽、甘露寡糖[1]，能够提高断奶仔猪的生长性能、促进肠道发育[2]、减少腹泻的发生[3]；复合酶制剂可补充内源消化酶分泌不足，减少因为消化不良引起的仔猪腹泻，提高营养物质的消化率，从而提高生长性能[4-5]；微生态制剂因其能调控肠道微生态环境，减少腹泻的发生，从而促进仔猪生长回。可见，三者均可促进仔猪生长，且发挥作用的机制不尽相同。加之，酵母水解物与复合酶制剂或微生态制剂联合应用能否替代血浆蛋白粉，且是否具有协同作用未见报道。因此，本试验以保育猪为试验对象，对比不同营养干预的饲喂效果，并对猪生长性能和血清生化指标进行初步考察。
+
+# 1材料与方法
+
+# 1.1试验材料
+
+酵母水解物（安琪酵母NA100)，粗蛋白质（CP）含量 $> 3 5 \%$ ；复合酶制剂(青岛蔚蓝)，主要含蛋白酶、非淀粉多糖酶、木聚糖酶和 ${ \mathfrak { \beta } }$ -葡聚糖酶；微生态制剂（青岛蔚蓝）主要含枯草芽孢杆菌、屎肠球菌等，有效活菌数 $2 { \times } 1 0 ^ { 1 0 } \mathrm { C F U / g }$ 。
+
+# 1.2 动物与分组
+
+试验选用体况良好，初始体重（ $1 1 . 7 1 { \scriptstyle \pm 0 . 9 3 }$ ） $\mathrm { k g }$ 的 35日龄保育猪三元杂交（杜×长×大）保育猪 480 头。采用单因子试验设计，按体重及遗传背景基本一致的原则随机分为5个组，每组8个重复，每个重复12头猪，公母各占 $1 / 2$ ，每组试验猪随机饲喂其中1种试验饲粮。试验预试期3d；正试期 $2 5 { \mathrm { d } }$ ，分为I期（1\~14d）和Ⅱ期（15\~25d）2个阶段。
+
+# 1.3饲粮及饲养管理
+
+参照 NRC（2012）推荐的猪营养需要量并结合猪理想氨基酸模型，应用标准回肠可消化氨基酸体系，设计5个饲粮组成。试验分组见表1，饲粮组成及营养水平见表2。试验采用全封闭式保育猪舍，舍内温度恒定为 $2 6 ~ ^ { \circ } \mathrm { C }$ ，相对湿度为 $6 5 \% \sim 7 5 \%$ ，漏缝塑料地板，不锈钢可调式料槽，鸭嘴式饮水器。每天清洗代谢笼及地面，猪舍每周喷雾消毒1次。其他按常规管理程序进行驱虫和免疫，每天观察并记录猪只的健康状况。
+
+表1试验分组  
+
+<html><body><table><tr><td>组别Groups</td><td>处理Treatment</td></tr><tr><td>对照Control</td><td>基础饲粮</td></tr><tr><td>1</td><td>基础饲粮+2%血浆蛋白粉</td></tr><tr><td>2</td><td>基础饲粮+0.5%酵母水解物</td></tr><tr><td>3</td><td>基础饲粮+0.5%酵母水解物+0.02%复合酶制剂</td></tr><tr><td>4</td><td>基础饲粮+0.5%酵母水解物+0.03%微生态制剂</td></tr></table></body></html>
+
+表2饲粮组成及其营养水平(风干基础)
+
+Table1 Groups of the experiment   
+Table2Composition and nutrient levels of diets (air-dry basis)   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td></tr><tr><td>对照 Control</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>原料Ingredients</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>膨化大豆Extruded soybean (37%</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td><td>6.00</td></tr><tr><td>CP）</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>发酵豆粕 Fermented soybean meal</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td><td>5.00</td></tr></table></body></html>
+
+<html><body><table><tr><td>豆粕 Soybean meal (46% CP)</td><td>17.00</td><td>15.00</td><td>16.50</td><td>16.50</td><td>16.50</td></tr><tr><td>一级面粉 Grade flour</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td><td>10.00</td></tr><tr><td>膨化玉米 Extruded corn</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td><td>23.00</td></tr><tr><td>一级玉米 Grade corn (7.8% CP)</td><td>23.25</td><td>23.53</td><td>23.27</td><td>23.27</td><td>23.27</td></tr><tr><td>豆油 Soybean oil</td><td>2.60</td><td>2.44</td><td>2.60</td><td>2.60</td><td>2.60</td></tr><tr><td>石粉 Limestone</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td>乳酸钙 Calcium lactate（≥98%）</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>磷酸二氢钙Ca（HPO4）2</td><td>0.85</td><td>0.87</td><td>0.84</td><td>0.84</td><td>0.84</td></tr><tr><td>血浆蛋白粉 Plasma protein powder</td><td></td><td>2.00</td><td></td><td></td><td></td></tr><tr><td>(78% CP) 食盐 NaCl</td><td>0.30</td><td>0.23</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>酵母水解物 Yeast hydrolysate</td><td></td><td></td><td>0.50</td><td>0.50</td><td>0.50</td></tr><tr><td>乳清粉（80%乳糖）Dried whey</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td><td>3.00</td></tr><tr><td>(80% lactose)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>葡萄糖 Glucose</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>蔗糖 Sucrose</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td><td>2.00</td></tr><tr><td>氧化锌 ZnO</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td><td>0.30</td></tr><tr><td>赖氨酸Lys (98%)</td><td>0.60</td><td>0.53</td><td>0.59</td><td>0.59</td><td>0.59</td></tr><tr><td>氯化胆碱 Choline chloride (50%)</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td><td>0.10</td></tr><tr><td>预混料 Premixl)</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td><td>2.50</td></tr><tr><td>合计 Total</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td><td>100.00</td></tr><tr><td>营养水平 Nutrient levels2</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>消化能 DE/（MJ/kg)</td><td>14.60</td><td>14.60</td><td>14.60</td><td>14.60</td><td>14.60</td></tr><tr><td>粗蛋白质CP</td><td>18.42</td><td>18.82</td><td>18.49</td><td>18.41</td><td>18.46</td></tr><tr><td>标准回肠可消化氨基酸 Standard</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ileal digestible amino acids 赖氨酸 Lys</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>蛋氨酸Met</td><td>1.23</td><td>1.23 0.41</td><td>1.23 0.45</td><td>1.23</td><td>1.23 0.45</td></tr><tr><td>胱氨酸Cys</td><td>0.45</td><td>0.27</td><td>0.23</td><td>0.45 0.23</td><td>0.23</td></tr><tr><td>蛋氨酸+半胱氨酸Met+Cys</td><td>0.23</td><td>0.68</td><td>0.68</td><td>0.68</td><td>0.68</td></tr><tr><td></td><td>0.68</td><td></td><td></td><td></td><td></td></tr><tr><td>苏氨酸Thr 色氨酸 Try</td><td>0.73 0.20</td><td>0.73 0.20</td><td>0.73 0.20</td><td>0.73 0.20</td><td>0.73</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0.20</td></tr><tr><td>氨酸Val</td><td>0.72</td><td>0.76</td><td>0.72</td><td>0.72</td><td>0.72</td></tr></table></body></html>
+
+1)预混料为每千克饲粮提供 The premix provides the following per kg of diets:VA 5400 IU,VBl2 mg,VB2 $1 5 \ \mathrm { m g , V B _ { 1 2 } \ 3 0 \ \mu g , V D _ { 3 } \ 1 1 0 \ I U , V E \ 1 8 \ I U , V K \ 5 \ \mathrm { m g } } ,$ 氯化胆碱 choline chloride $8 0 ~ \mathrm { m g , C u }$ (as copper sulfate pentahydrate) $1 9 . 8 ~ \mathrm { m g , F e }$ (as ferrous sulfate) $4 0 0 \ \mathrm { m g , M n }$ (as manganese sulfate hydrate) $1 0 . 2 ~ \mathrm { m g , Z n }$ (as zinc sulfate heptahydrate) $3 5 9 \mathrm { m g , I }$ (as potassium iodide) $0 . 2 0 \mathrm { m g , S e }$ (as sodium selenite) $0 . 5 6 \mathrm { m g }$ 复合酶制剂(组4) multi-enzyme preparations (group 4) $2 0 ~ \mathrm { m g }$ 微生态制剂（组5）probiotics (group 5) $3 0 ~ \mathrm { m g }$ 。
+
+# 1.4 测定指标及方法
+
+# 1.4.1 生长性能的测定
+
+分别于正式试验的开始、第15和25天08：00空腹称重，记录每组每天的给料量、损失料量、剩余料量，计算平均日增重（average daily gain,ADG）、平均日采食量（average dailyfeed intake,ADFI）和料重比（feed/gain,F/G)。统计仔猪腹泻头次数，并计算腹泻率。
+
+# 1.4.2 血清生化指标的测定
+
+在饲喂Ⅱ期的最后1天，从每组随机选取6头猪，08：00空腹前腔静脉采血 $5 ~ \mathrm { m L }$ ，倾斜放置，血清析出后经 $3 ~ 0 0 0 ~ \mathrm { r / m i n }$ 离心 $1 5 ~ \mathrm { m i n }$ ，收集血清并分装于EP 管中， $- 2 0 { } ^ { \circ } \mathrm { C } ,$ 低温冷藏。使用深圳迈瑞 BS-190 全自动生化分析仪测定血清生化指标，试剂盒均购自南京建成生物工程研究所。
+
+# 1.5 统计分析
+
+试验数据采用 SPSS 22.0统计软件中的单因素方差（one-way ANOVA）模块进行分析，采用Duncan氏法进行多重比较，结果以平均值和标准误表示。 $P { < } 0 . 0 5$ 为差异显著， $P { > } 0 . 0 5$ 为差异不显著。
+
+# 2结果与分析
+
+2.1酵母水解物与复合酶制剂或微生态制剂联合应用对保育猪生长性能和腹泻率的影响
+
+如表3所示，试验I期，所有试验组ADG 和 ADFI均比对照组显著增加（ $_ { . } { \cdot } { \cdot } { \cdot } { \cdot } ( - . 0 . 0 5 )$ ；与对照组相比，酵母水解物与复合酶制剂联合应用(组3)能显著降低保育猪的F/G $( P { < } 0 . 0 5 )$ ，其余各组数值介于两者之间。试验Ⅱ期，各组ADG与F/G差异不显著（ $. P { > } 0 . 0 5 )$ ，但与对照组相比， $2 \%$ 血浆蛋白粉组（组1）能显著提高保育猪的ADFI（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )。试验全期，与对照组相比， $2 \%$ 血浆蛋白粉组ADG 和 ADFI均显著提高（ $. P { < } 0 . 0 5 )$ )，其余各组数值介于两者之间；与对照组相比，各组F/G 差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表3酵母水解物与复合酶制剂或微生态制剂联合应用对保育猪生长性能的影响  
+Table 3Efects of combined application of yeast hydrolysate and multi-nzyme preparations or probiotics on the growth performance of nursery piglets   
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td colspan="5">组别Groups</td><td>标准误</td><td>P</td><td>值</td></tr><tr><td>对照</td><td>1</td><td>2</td><td>3</td><td>4</td><td>SEM</td><td>P-value</td><td></td></tr><tr><td>I期 Stage I</td><td>Control</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>496b</td><td>545a</td><td>530a</td><td>524a</td><td>527a</td><td>18.40</td><td>0.04</td><td></td></tr><tr><td>平均日增重 ADG/g</td><td>397b</td><td>459a</td><td>444a</td><td>456a</td><td>434a</td><td>22.60</td><td></td><td>0.04</td></tr><tr><td>料重比F/G</td><td>1.26a</td><td>1.19bc</td><td>1.19bc</td><td>1.15℃</td><td>1.22ab</td><td>0.05</td><td></td><td>0.05</td></tr><tr><td>Ⅱ期 Stage II</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量 ADFI/g</td><td>758b</td><td>840a</td><td>795ab</td><td>777ab</td><td>777ab</td><td>45.80</td><td></td><td>0.03</td></tr><tr><td>平均日增重 ADG/g</td><td>536</td><td>564</td><td>539</td><td>537</td><td>564</td><td>49.60</td><td></td><td>0.74</td></tr><tr><td>料重比F/G</td><td>1.42</td><td>1.49</td><td>1.50</td><td>1.46</td><td>1.39</td><td>0.07</td><td></td><td>0.85</td></tr></table></body></html>
+
+<html><body><table><tr><td>平均日采食量 ADFI/g</td><td>617b</td><td>681a</td><td>653ab</td><td>641ab</td><td>642ab</td><td>28.20</td><td>0.04</td></tr><tr><td>始重 Initial body</td><td>10.03</td><td>10.02</td><td>10.07</td><td>10.01</td><td>10.06</td><td>0.03</td><td>0.48</td></tr><tr><td>weight/kg</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>末重 Final body weight/kg</td><td>22.21b</td><td>23.62a</td><td>23.12ab</td><td>23.06ab</td><td>22.93ab</td><td>0.34</td><td>0.06</td></tr><tr><td>平均日增重 ADG/g</td><td>461b</td><td>508a</td><td>488ab</td><td>494ab</td><td>494ab</td><td>29.20</td><td>0.04</td></tr><tr><td>料重比F/G</td><td>1.34</td><td>1.33</td><td>1.34</td><td>1.30</td><td>1.30</td><td>0.03</td><td>0.56</td></tr></table></body></html>
+
+同行数据肩标无字母或相同字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P < 0 . 0 5 )$ ，下表同。
+
+In the same row,values with no letter or the same letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference ( $_ { ( P < 0 . 0 5 ) }$ . The same as below.
+
+如表4所示，试验I期，各组腹泻率差异不显著（ $( P { > } 0 . 0 5 )$ ；试验Ⅱ期，对照组、酵母水解物与复合酶制剂联合应用组与其他组相比，腹泻率显著升高（ $( P { < } 0 . 0 5 )$ ；试验全期，各组之间腹泻率差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+Table 4Effects of combined application of yeast hydrolysate and multi-enzyme preparations or probiotics on incidence of diarrhea of nursery piglets   
+
+<html><body><table><tr><td colspan="3">腹泻率</td><td colspan="3">组别Groups</td><td>标准误</td><td>P值</td></tr><tr><td>Incidence of diarrhea/%</td><td>对照 Control</td><td>1</td><td>2</td><td>3</td><td>4</td><td>SEM</td><td>P-value</td></tr><tr><td>I期 Stage I</td><td>2.06</td><td>1.84</td><td>1.71</td><td>1.45</td><td>1.23</td><td>1.35</td><td>0.29</td></tr><tr><td>Ⅱ期 Stage II</td><td>3.02a</td><td>1.52b</td><td>1.92b</td><td>4.37a</td><td>1.38b</td><td>1.57</td><td>0.01</td></tr><tr><td>全期Whole stage</td><td>2.44</td><td>1.64</td><td>1.82</td><td>2.79</td><td>1.30</td><td>1.15</td><td>0.24</td></tr></table></body></html>
+
+2.2酵母水解物与复合酶制剂或微生态制剂联合应用对保育猪血清生化指标的影响
+
+如表5所示，与酵母水解物组（组2）相比，酵母水解物与复合酶制剂联合应用显著降低血清中甘油三酯含量（ $. P { < } 0 . 0 5 )$ ，其余血清生化指标各组之间差异不显著（ $( P { > } 0 . 0 5 )$ 。
+
+表5酵母水解物与复合酶制剂或微生态制剂联合应用对保育猪血清生化指标的影响
+
+表4酵母水解物与复合酶制剂或微生态制剂联合应用对保育猪腹泻率的影响  
+Table 5Effects of combined application of yeast hydrolysate and multi-enzyme preparations or probiotics on serum biochemical indices of nursery piglets   
+
+<html><body><table><tr><td rowspan="2">项目 Items</td><td colspan="5">组别Groups</td><td rowspan="2">标准误 SEM</td><td rowspan="2">P值 P-value</td></tr><tr><td>对照</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>总蛋白TP/(g/L)</td><td>Control 66.63</td><td>67.37</td><td>70.17</td><td>63.90</td><td>67.05</td><td>3.83</td><td>0.85</td></tr><tr><td></td><td></td><td>2.78</td><td>2.25</td><td>2.35</td><td>2.02</td><td>0.24</td><td></td></tr><tr><td>尿素氮 UN/(mmol/L)</td><td>2.22</td><td></td><td></td><td></td><td></td><td></td><td>0.27</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>氨 AMM/(umol/L)</td><td>60.92</td><td>72.47</td><td>73.20</td><td>68.27</td><td>52.25</td><td>7.39</td><td>0.25</td></tr><tr><td>碱性磷酸酶</td><td>315.63</td><td>336.73</td><td>304.25</td><td>354.63</td><td>365.58</td><td>35.28</td><td>0.71</td></tr><tr><td>ALP/(U/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>高密度脂蛋白</td><td>1.07</td><td>0.98</td><td>0.97</td><td>0.96</td><td>0.98</td><td>0.08</td><td>0.89</td></tr><tr><td>HDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>低密度脂蛋白</td><td>1.79</td><td>1.74</td><td>1.70</td><td>1.54</td><td>1.61</td><td>0.13</td><td>0.68</td></tr><tr><td>LDL-C/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>总胆固醇</td><td>3.36</td><td>3.20</td><td>3.17</td><td>2.95</td><td>3.08</td><td>0.20</td><td>0.71</td></tr><tr><td>TC/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>甘油三酯</td><td>0.70ab</td><td>0.63ab</td><td>0.87a</td><td>0.50b</td><td>0.64ab</td><td>0.08</td><td>0.06</td></tr><tr><td>TG/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>葡萄糖</td><td>7.25</td><td>7.64</td><td>6.65</td><td>6.97</td><td>7.14</td><td>0.48</td><td>0.68</td></tr><tr><td>Glu/(mmol/L)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1酵母水解物对保育猪生长性能的影响
+
+对早期断奶仔猪而言，添加 $3 \%$ 的酵母水解物与 $3 \%$ 的血浆蛋白粉，在ADG、ADFI上差异不显著[7]，这与本试验在保育猪的应用结果一致。以往研究表明，酵母水解物组ADG、ADFI显著高于血浆蛋白粉组，可能与保育期I、Ⅱ期添加量较高且添加量不同！ $( 5 . 0 \% , 2 . 5 \%$ ）有关[8]，这也提示我们可以根据动物的不同生理阶段，调整酵母水解物的添加比例。本试验中， $0 . 5 \%$ 的酵母水解物能够通过提高ADFI、ADG从而改善保育猪的生长性能，且与 $2 \%$ 血浆蛋白粉组无显著性差异，可见酵母水解物具有替代保育猪饲粮中血浆蛋白粉的潜能。
+
+酵母水解物含有8种必需氨基酸，其主要限制性氨基酸（赖氨酸）Lys：（蛋氨酸）Met:（色氨酸）Try：（苏氨酸） ${ \mathrm { T h r } } = 1 0 0 : 2 1 : 1 9 : 6 4$ ，接近NRC（1998）[9]的推荐值，有效能值较高，能提供更多的能量[10]。酵母水解物中天门冬氨酸和谷氨酸属于鲜味氨基酸，能够增强酵母自溶粉的诱食性，这也是本试验中酵母水解物组ADFI显著增加的原因之一。
+
+酵母水解物中核苷酸的含量约为 $8 \%$ ，在促进小肠的生长、发育、改善肠道微生物区系方面发挥作用。以往研究发现，在哺乳期间饲粮中添加 $0 . 1 \%$ 的酵母水解物核苷酸能够显著提高仔猪的断奶应激适应性，提高生长性能[]，极显著降低腹泻的发生[3]，这与本试验的结果基本一致。仔猪断奶后，空肠的形态学参数受到极显著影响，而核苷酸能够调节回肠微生态的改变，维护其稳定的微生态群[12]。饲喂 $0 . 0 5 \%$ 的核苷酸极显著增加了绒毛高度和隐窝深度，降低了绒毛高度和隐窝深度比值；另外还极显著增加了有丝分裂黏膜细胞（M)，减少了凋亡黏膜细胞（A)，降低了A/M指数，促进肠道发育，对回肠黏膜的形态学特征有积极的影响[13]。小肠吸收面积增大，利于养分吸收，推测这是本试验 ADG 显著增加的原因之一。
+
+3.2酵母水解物与复合酶制剂联合应用对保育猪生长性能的影响
+
+断奶仔猪消化系统发育不健全，易发生断奶应激，影响后续保育阶段的生长性能，在饲粮中添加外源性蛋白酶，则能补充内源酶的不足。以纤维素酶、半乳聚糖酶、甘露聚糖酶和果胶酶的复合酶组合显著提高仔猪ADG，降低F/G，极显著增加总肠道消化率，并显著降低磷的排泄[14]，在成本和环境友好方面都有出色的表现[15]。研究表明，酶制剂可降低由非淀粉性多糖造成的黏度，增加氨基酸、能量和磷的利用度[16]，显著减少胃内细菌代谢物[17]以及腹泻的发生[18]。本试验中，与其他组相比，酵母水解物与复合酶制剂组合却使保育猪II期的腹泻率增加，可能与ⅡI期仔猪自身分泌消化酶的能力未得到更好锻炼、脂肪累积过剩而导致腹泻有关，所以血清中甘油三酯的含量随之降低。
+
+# 3.3酵母水解物与微生态制剂联合应用对保育猪生长性能的影响
+
+在仔猪饲粮中添加微生态制剂可提高 ADG，降低 F/G，并降低腹泻发生率[19]，且与抗生素组相比，生长性能差异不显著，可作为抗生素的替代品[20]。据报道，复合微生态制剂能够有效降低血清尿毒氮浓度，增加氮在体内的沉积，显著降低断奶仔猪的 $\mathrm { F / G ^ { [ 2 1 ] } }$ 。此外，双歧杆菌等益生菌产酸，可降低肠道pH，破坏致病菌的生存环境，降低粪便中大肠埃希菌数量[22]，使肠道形态结构更加完整[23]，并可显著降低腹泻率，有效缓解应激引起的仔猪免疫下降[24-25]，且液体全酵工艺的应用效果在改善猪的生长性能、有益肠道微生物区系，减少有害肠道微生物区系方面优于固体培养基发酵[26]。但随着添加量的增加，生长性能降低[6],这可能与影响肠道菌群的平衡有关。酵母甘露寡糖不能在单胃动物消化分解，易富集到结肠，而定值于肠道的微生态制剂（双歧杆菌、乳酸菌）均有分解甘露寡糖的酶，可以将甘露寡糖作为能量来源加以利用，促进益生菌生长。本试验中，酵母水解物与微生态制剂联合应用，与单独应用酵母水解物相比，腹泻率差异不显著，可能与酵母水解物具有良好的肠道菌群调节作用有关。
+
+4结论
+
+$\textcircled{1}$ 饲粮添加 $2 \%$ 血浆蛋白粉或者 $0 . 5 \%$ 酵母水解物能通过提高 ADG、ADFI改善保育猪的生长性能，酵母水解物具有替代血浆蛋白粉的潜能。  
+$\textcircled{2}$ $0 . 5 \%$ 酵母水解物与 $0 . 0 3 \%$ 微生态制剂或 $0 . 0 2 \%$ 复合酶制剂的联合应用未对保育猪的生长性能产生协同效应。
+
+# 参考文献：
+
+[1]贺淼.复合酵母的营养价值评定[D].硕士学位论文.成都:四川农业大学,2013:3-8. [2]张永青,王龙生,陈安国.外源核苷酸对断奶仔猪生产性能和小肠发育的影响[J].中 国畜牧杂志,2007,43(21):19-21.   
+[3]MARTINEZ-PUIG D,MANZANILLA E G,MORALES J,et al.Dietary nucleotide supplementation reduces occurrence of diarrhoea in early weaned pigs[J].Livestock Science,2007,108(1/3):276-279.   
+[4]许熙来.益生酶在提高断奶仔猪生产性能中的应用与研究[D].硕士学位论文.长沙: 湖南农业大学,2013:11-15. [5]范成莉.β-葡聚糖、木聚糖复合酶对断奶仔猪生长轴激素的影响及其机理研究[D]. 博士学位论文.杭州:浙江大学,2008:63-111.   
+[6]VEIZAJ-DELIA E,PIU T,LEKAJ P,et al.Using combined probiotic to improve growth performanceofweanedpigletsonextensivefarmconditions.[J].Livestock Science,2010,134(1/3):249-251.   
+[7]郭小云,吴信,谢春燕,等.酵母水解物对早期断奶仔猪生长性能、血清生理生化指和 激素水平以及肠道黏膜形态的影响.[J].饲料工业,2015,36(8):61-64.   
+[8]CARLSON M S,VEUM T L,TURK JR,et al.Effects of yeast extract versus animal plasma in weanling pig diets on growth performance and intestinal morphology[J].Journal of Swine Health and Production,2004,13(4):204-209.   
+[9]NRC.Nutrientsrequirementsof swine[S].Washington,D.C.:National Academy Press,1998.   
+[10]贺淼,周安国,王之盛,等.复合酵母的营养价值评定[J].动物营养学 报,2013,25(8):1904-1910.   
+[11]SUPERCHI P,SALERI R,BORGHETTI P,et al.Effects of dietary nucleotide supplementation on growth performance and hormonal and immune responses of piglets[J].Animal,2012,6(6):902-908.   
+[12]ANDRES-ELIAS N,PUJOLS J,BADIOLA I,et al.Effect of nucleotides and carob pulp on gut health and performance of weanling piglets[J].Livestock   
+Science,2007,108(1/3):280-283.   
+[13]DOMENEGHINI C,GIANCAMILLO A D,SAVOINI G,et al.Structural patterns of swine ileal mucosa following $L$ -glutamine and nucleotide administration during the weaning period.An histochemical and histometrical study[J].Histology and Histopathology,2004,19:49-58.   
+[14] OMOGBENIGUNFO,NYACHOTI CM,SLOMINSKIBA.Dietary supplementation with multienzyme preparations improves nutrient utilization and growth performance in weaned pigs12[J].Journal of Animal Science,2004,82(4):1053-1061. [15]NGOC T T B,LEN N T,OGLE B,et al.Influence of particle size and multi-enzyme supplementation of fibrous diets on total tract digestibility and performance of weaning (8-20kg) andgrowing(20-40kg) pigs[J].Animal FeedScienceand Technology,2011,169(1/2):86-95.   
+[16]WILLAMIL J,BADIOLA I,DEVILLARD E,et al.Wheat-barley-rye- or corn-fed growing pigs respond differently to dietary supplementation with a carbohydrase   
+complex[J].Journal of Animal Science,2012,90(3):824-832.   
+[17]VAHJEN W,OSSWALD T,SCHAFER K,et al.Comparison of a xylanase and a complex of non starch polysaccharide-degrading enzymes with regard to performance and bacterial metabolism in weaned piglets[J].Archives of Animal Nutrition,2007,61(2):90-102. [18]付水广,王自蕊,游金明,等.复合酶制剂对断奶仔猪生长性能和养分消化率的影响
+
+研究[J].饲料工业，2010,31(7):40-42
+
+[19]刘宇,朱战波,孙秀军,等复合活菌制剂对断奶仔猪生长性能及血清溶菌酶含量的 影响.[J].中国微生态杂志,2010,22(9):784-787.   
+[20]QIAO L M,QIAO F Q,GUAN W Y,et al.Study on application of microbial ecological agent,replacements for antibiotics,in weaned piglet production[J].Agricultural Science and Technol0gy,2015,16(4):757-760.   
+[21]龚路峰.微生态制剂对断奶仔猪生产性能和免疫功能的影响[D].硕士学位论文.长 沙:湖南农业大学,2010:15-16.   
+[22]张建梅,李晓颖,谢全喜,等.复合微生态制剂对断奶仔猪生产性能、粪便菌群及血 液指标的影响[J].中国微生态学杂志,2012,24(9):796-800.   
+[23]ROSS G R,GUSILS C,OLISZEWSKI R,et al.Efects of probiotic administration in swine[J].Journal of Bioscience Bioengineering,2010,109(6):545-553.   
+[24]刘虎传,张敏红,冯京海,等.益生菌制剂对早期断奶仔猪生长性能和免疫指标的影 响[J].动物营养学报,2012,24(6):1124-1131.   
+[25]葛文霞,杨靖.复合微生态制剂对断奶仔猪生产性能的影响[J].中国饲 料,2013,19:39-42.   
+[26]CHOI J Y,SHINDE P L,INGALE S L,et al.Evaluation of multi-microbe probiotics prepared by submerged liquid or solid substrate fermentation and antibiotics in weaning pigs[J].Livestock Science,2011,138(1/3):144-151.   
+Effects of Combined Application of Yeast Hydrolysate and Multi-Enzyme Preparations or   
+Probiotics and Substitute for Plasma Protein Powder on Growth Performance and Serum Biochemical Indices of Nursery Piglets   
+WEN Chaoyue1,2 LI Yong3XING Weigang³LI Biao4 LIU Jia³MA Xiangdong5 ZHANG YuzhelLIFengna1.6\* (1. Key Laboratory of Agro-Ecological Processes in Subtropical Region,Institute of Subtropical Agriculture, Chinese Academy of Science, Changsha 41O125, China; 2.   
+Laboratory of Animal Nutrition and Human Health, School ofLife Sciences,Hunan Normal   
+University, Changsha 410006, China; 3. New Hope Liuhe Company Limited,Beijing 100102,   
+China; 4. Angle Yeast Company Limited, Yichang 443003, China; 5. Qingdao Vland Biotech   
+Incorporated, Qingdao 2660o1, China; 6. Hunan Co-Innovation Center of Animal Production Safety, Changsha 410128, China)
+
+Abstract: The experiment was conducted to explore the effects of combined application of yeast hydrolysate and multi-enzyme preparations or probiotics on the growth performance and serum biochemical indices of nursery piglets.Four hundred and eighty35-day-old healthy crossed-bred (DurocxLandracexYorkshine) piglets with similar body weight were randomly assigned 5 groups with 8 replicates in each group and 12 piglets in each pen balanced for gender. Using single factor experiment design, the piglets in the control group were fed a basic diet,and the others were fed the basic diet supplemented with $2 \%$ plasma protein powder (group 1), $0 . 5 \%$ yeast hydrolysate (group 2), $0 . 5 \%$ yeast hydrolysate $+ 0 . 0 2 \%$ multi-enzyme preparations (group 3),and $0 . 5 \%$ yeast hydrolysate $+ 0 . 0 3 \%$ probiotics (group 4), respectively. After 3 days of adaptive phase, the feeding trial was lasted for 25 days,including stage I(1 to 14 days) and stage I (15 to 25 days). The results showed as follows: 1) in stage I, compared with the control group, the average daily gain (ADG) and average daily feed intake (ADFI) of the nursery pigs in test groups were improved significantly $( P { < } 0 . 0 5 )$ ,also for the ratio of feed to gain (F/G) in group 3 ( $( P { < } 0 . 0 5 )$ ,while F/G in the other groups was between them; in stage II, the ADG and F/G in groups had no significant differences $( P { > } 0 . 0 5 )$ , however, compared with the control group, the ADFI of the pigs in group 1 was increased significantly $( P { < } 0 . 0 5 )$ ，and the incidences of diarrhea in groups 1，2，4 were significantly lower than that in the control group and group 3 $( P { < } 0 . 0 5 )$ ; in the whole stage, compared with the control group, the ADG and ADFI of the nursery pigs in group 1 were increased significantly $( P { < } 0 . 0 5 )$ ，and the data of those in the other three groups were between them. 2) The serum triglyceride content in the group 3 was significantly decreased compared with the group 2 $( P { < } 0 . 0 5 )$ ,and no significant difference was observed in the other serum biochemical indices among groups $( P { > } 0 . 0 5 )$ . In conclusion, plasma protein powder and yeast hydrolysate can improve the growth performance of nursery piglets in varying degrees,and yeast hydrolysate has a potential to replace plasma protein powder in pig diet. The combined application of yeast hydrolysate and probiotics or multi-enzyme preparations do not show a synergistic effect on pigs. Key words: yeast hydrolysate; multi-enzyme preparation; probiotics; growth performance; serum biochemical index; nursery piglet

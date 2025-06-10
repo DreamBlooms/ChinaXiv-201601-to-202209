@@ -1,0 +1,491 @@
+[
+    {
+        "type": "text",
+        "text": "NaCI溶液静态闪蒸泡沫层膨胀规律的实验研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "赵凯，张丹，于龙文，赵冰超，严俊杰（西安交通大学多相流国家重点实验室，西安710049）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本文搭建了静态闪蒸实验台，对不同初始参数下NaCl溶液静态闪蒸过程中的泡沫层膨胀规律开展了初步地实验研究和理论分析。实验中，过热度为 $2 . 9 { \\sim } 3 0 \\mathrm { ~ K ~ }$ ，初始液膜厚度为 $0 . 1 ~ \\mathrm { ~ m ~ } , ~ 0 . 2 ~ \\mathrm { ~ m ~ }$ ，溶液初始质量分数为0.2\\~0.25。实验结果表明：在较大的过热度或者较小的初始液膜厚底下，泡沫层膨胀开始较早，且膨胀较快；而溶液浓度对泡沫层膨胀规律几乎没有影响。此外，本文根据气泡生长理论和质量能量平衡建立并推导出了泡沫层膨胀规律计算模型，实现了对泡沫层高度随时间变化规律的计算，与实验结果吻合的较好。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：静态闪蒸；泡沫状沸腾；泡沫层膨胀规律；NaCl溶液中图分类号：TK124 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental study on expansion law of foam layer during static flash of aqueous sodium chloride solution. ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZHAO Kai ZHANG Dan YU Longwen ZHAO Bingchao YAN Junjie (State KeyLaboratoryofMultiphaseFlow in Power Engineering,Xi'an JiaoTong University, Xi'an 710o49,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Experimental study on expansion law of foam layer during static flash of aqueous sodium chloride solution waterfilm was carried out in this paper. In experiments, waterfilm superheat varied between 2.9 and $3 0 ~ \\mathrm { K }$ initial water film height between O.1 and $0 . 2 \\mathrm { m }$ ,initial water film concentration between 0.2 and 0.25.Experimental results showed that larger superheat orsmaler initial height of waterfilm led foam layer to expand earlier and faster. While waterfilm concentration concentration had nearly no influence on foam layer expansion. In adition,according to clasical theory of the bubble growth,and mass and energy balance during flash,a calculation model for foam layer expansion was deduced,according to which foam layer height evolution versus time could be calculated and the result matched well with experimental data. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key Words: Static flash; Foam-like boiling; Law of foam layer expansion; NaCl solution ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0前言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闪蒸是指当过热液体暴露在低于自身饱和压力的空间时，骤然蒸发并且自身温度迅速下降的现象。闪蒸因具有很高的分离效果和换热能力而在海水淡化，热力电站余热回收，盐化工中浓缩分离技术、干燥技术等领域都具有广泛的应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miyatakel对静态闪蒸进行了实验研究，提出过热度是闪蒸的原动力，并引入了不平衡温差NETD和不平衡分数NEF两个概念；Gopalakrishna[2]理论研究了不同压降速率下闪蒸气泡的生长规律，发现气泡生长速率随着压降速率增大而增大。毕勤成[等实验研究了NaCl溶液液滴的闪蒸过程。发现液滴浓度的提高或闪蒸腔压力的升高均可削弱液滴闪蒸强度；液滴浓度的提高还可改变液滴内部温度转变过程。Tewari[4]等人实验研究了常压和负压下NaC1溶液核态沸腾特性，发现沸腾传热系数随表面粗糙度的增加逐渐升高，随浓度的增加逐渐下降。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "泡沫层的演变是静态闪蒸过程中重要的现象，影响着沸腾传热与蒸汽携带，以往却研究很少，同时课题组之前建立的液滴托举模型不适用于大过热度下的泡沫状沸腾。针对以上不足，本文对过热度为 $2 . 9 { \\sim } 3 0 \\mathrm { K }$ ，初始液膜厚度为 $0 . 1 \\mathrm { { m } }$ ，$0 . 2 \\mathrm { ~ m ~ }$ ，溶液初始质量分数为0.2、0.23、0.25的NaC1溶液开展了实验研究，对静态闪蒸过程中的泡沫层膨胀开展了可视化研究，观察了泡沫层膨胀的演变过程；对比研究了过热度、初始液膜厚度、溶液初始浓度对泡沫层膨胀规律的影响；并根据经典气泡生长理论及闪蒸过程中能量、质量平衡推导得出了泡沫层上升的计算模型，实现了对泡沫层高度随时间变化规律的计算。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 实验系统",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1实验装置及流程",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "静态闪蒸实验系统如图1所示，电磁阀将实验系统分为高压侧与低压侧，高压侧主要部件为加热器与闪蒸腔，低压侧主要部件为真空腔、真空泵与辅助冷凝循环。另设置高速摄像机用以记录闪蒸过程泡沫层高度变化。闪蒸腔是系统的核心部件，尺寸为 $0 . 2 \\mathrm { m } \\theta$ 长 $\\boldsymbol { \\times } 0 . 2 \\mathrm { m }$ （宽） $\\mathsf { \\Omega } \\times 0 . 6 1 \\mathsf { m } \\mathsf { \\Omega }$ （高），其上安装有液位计用于读取液位及泡沫层高度。闪蒸腔内部压力通过其顶部的精度为 $0 . 7 5 \\%$ 的压阻式压力传感器测量。闪蒸腔内部温度由自下而上的布置在轴线位置绝热支架上的15支精度为0.2K的T型热电偶测量。高速摄像机采用PhantomV611型。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/28245cf52ceac28d5693710ab1a00d78d760eafd94d36aa95e65851bd459da13.jpg",
+        "img_caption": [
+            "Fig.1 Static flash evaporation experimental system "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1-加热器；2-闪蒸腔；3-真空腔；4-冷却水槽；5-冷凝器；6-真空泵；7-电磁阀；8-温度计；9-压力表；10-调节阀；11-压力传感器；12-排气阀；13-注水阀；14-疏水阀；15-冷却水泵；16-真空阀；17-热电偶；18-液位计；19-高速摄像机图1静态闪蒸实验系统",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "实验时，将配制好的NaC1溶液注入加热器内，加热至略高于设定温度，然后注入闪蒸腔，达到设定的液位。开启真空泵，将真空腔压力调节至设定值。开启电磁阀，闪蒸现象发生，记录闪蒸腔压力、气液温度以及真空腔温度、压力值，并开启高速摄像机采集可视化数据，采样速度为1000fps。闪蒸结束后，记录平衡液位高度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2不确定度分析",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文使用Moffat给出的方法对实验结果进行不确定度分析，表1给出了实验中所有参数的不确定度分析结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/54ee611ea1fb4420eb97d4d9e9b52d12d8011036a6d9b4073e10508f1300eb96.jpg",
+        "table_caption": [
+            "表1实验参数的不确定度",
+            "Table1 Uncertainty analysis of experiment parameters ",
+            "2 实验结果与分析"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>参数</td><td>绝对不确定度</td><td>最小测量 值</td><td>最大相对不 确定度</td></tr><tr><td>Hfoam /m</td><td>5.0×104</td><td>0.025</td><td>0.020</td></tr><tr><td>△T/m</td><td>0.2</td><td>2.9</td><td>0.070</td></tr><tr><td>H/m</td><td>5.0×10-4</td><td>0.1</td><td>0.005</td></tr><tr><td>fm</td><td>5.0×10-4</td><td>0.2</td><td>0.003</td></tr><tr><td>t/s</td><td>1.0 ×10-3</td><td>0.01</td><td>0.100</td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6003308c7792fa1f670cb8db8a34417f41f59df3d0b9d0d6e77033ec4d9d3fc.jpg",
+        "img_caption": [
+            "图2泡沫层上下边缘高度确定方法 Fig.2 Method for determining the height of the upper and lower edges of the foam layer "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "如图2，在泡沫层的膨胀过程中，其上下边缘高度可以在高速摄像机可视化照片中读取。泡沫层高度定义为泡沫层上下边缘高度差，即：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH _ { \\mathrm { f o a m } } = H _ { \\mathrm { u } } - H _ { \\mathrm { d } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $H _ { \\mathrm { f o a m } }$ 为泡沫层高度， $H _ { \\mathrm { u } }$ 为泡沫层上边缘高度， $\\boldsymbol { H } _ { \\mathrm { d } }$ 为泡沫层下边缘高度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1过热度对泡沫层膨胀规律的影响",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文所进行的实验初始过热度分布在2.9K与30K之间，对比不同过热度下的泡沫层高度随时间变化规律如图3所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "结果指出：过热度越大，泡沫层膨胀开始越早；泡沫层高度增长越快。说明过热度越大，闪蒸进行得越剧烈。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "造成上述现象的原因是在较大的过热度下，相同时间内有更多的液相转化为气相，从而生成",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "更多的气泡，导致泡沫层膨胀较快。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/60d04412e2ae1ba33fd115468464f201e22e2f1cd42278cc5b27d11725d6a549.jpg",
+        "img_caption": [
+            "图3过热度对泡沫层膨胀的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 Influence of superheat on the expansion of foam layer ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2初始液膜厚度对泡沫层膨胀规律的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文所进行的实验采用的初始液膜厚度为$0 . 1 \\mathrm { m } , 0 . 2 \\mathrm { m } ,$ 对比不同初始液膜厚度下的泡沫层高度随时间变化规律如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "结果指出：初始液膜厚度越大，泡沫层膨胀开始越晚；泡沫层高度增长越慢。说明初始液膜厚度越大，闪蒸进行得越缓慢。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cdc2aa2b5c3f7ef8a8041e4eb80d495fa3170e3f5f2ce998df2babc500b9e8b.jpg",
+        "img_caption": [
+            "图4初始液膜厚度对泡沫层膨胀的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig.4 Influence of initial water film height on the expansion ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of foam layer ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "造成上述现象的原因是随着液膜厚度的增加，液膜所产生的静压不可忽略，静压的升高导致过热度减小，闪蒸驱动力减小，闪蒸进行的较缓慢，这与上节得到的过热度是闪蒸驱动力的结论是一致。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2c7e62fd6d067a075aa10a36151f27c16635568b9d7ca48de6e12da5f132b3a.jpg",
+        "img_caption": [
+            "Fig.5 Influence of initial water film concentration on the expansion of foam layer "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/73097c1af3d0477b69cd856fd7beaaca64f3240e215efbab77bdc3ff8633975f.jpg",
+        "img_caption": [
+            "2.3溶液初始浓度对泡沫层膨胀规律的影响",
+            "图5溶液初始浓度对泡沫层膨胀的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本文选用质量分数作为衡量NaC1溶液浓度的指标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文所进行的实验采用的溶液初始质量分数为0.20、0.23、0.25，比不同溶液初始浓度下的泡沫层高度随时间变化规律如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结果指出：在不同溶液初始质量分数下，泡沫层膨胀规律无明显差别。说明溶液初始浓度对泡沫层膨胀几乎没有影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "造成上述现象的原因是NaC1溶液中的溶质多寡主要影响气泡成核阶段，而在后来的泡沫状沸腾阶段，泡沫层的膨胀主要取决于气泡的生成与破裂，而与气泡的成核多寡关系很小，因此溶液浓度对其没有影响。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3泡沫层膨胀计算模型的建立",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1泡沫层膨胀机理",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "如图6所示，在闪蒸过程中，有两个相反的作用影响着泡沫层的膨胀：首先，在泡沫层下边缘,液相在不断的向气相转变，新产生的气泡附着在泡沫层底部，使得泡沫层下边缘高度 $H _ { \\mathrm { d } }$ 上升$\\mathrm { d } H _ { \\mathrm { f o a m + } }$ ，定义其为泡沫层下边缘增加量；其次，在泡沫层上边缘，闪蒸腔上部空间压强不断降低，暴露在大空间中的气泡内外压力差不断增大，最终导致上边缘气泡破裂，使得泡沫层上边缘高度$H _ { \\mathrm { u } }$ 下降 $\\mathrm { d } H _ { \\mathrm { f o a m - } }$ ，定义其为泡沫层上边缘增加量。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fef80bd96cba8f8d33df2bf7e7221f3263e1ca7479fc51d7990d5a7a782aae1c.jpg",
+        "img_caption": [
+            "图6泡沫层增长机理",
+            "Fig.6Mechanismof foamlayer expansion "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "因此,结合图6推导得如式2所示，泡沫层高度变化量等于泡沫层上边缘与泡沫层下边缘增加量之和。",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } H _ { \\mathrm { f o a m } } = \\mathrm { d } H _ { \\mathrm { f o a m . } } + \\mathrm { d } H _ { \\mathrm { f o a m + } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2计算模型推导",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式2中， $\\mathrm { d } H _ { \\mathrm { f o a m + } }$ 项可以依据此前Bankof]等人得到的等温过程中气泡半径生长速率公式3",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "推导得到。 ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot { R } ^ { 2 } = \\frac { 2 \\left( P _ { \\mathrm { v } } - P _ { \\mathrm { l + \\infty } } \\right) } { 3 \\rho _ { \\mathrm { l } } } \\cdot \\left( 1 - \\frac { R _ { \\mathrm { 0 } } ^ { 3 } } { R ^ { 3 } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\dot { R }$ 为气泡生长速率， $P _ { \\mathrm { v } }$ 为气泡内部压强， $P _ { 1 + \\infty }$ 为无穷远处液体压强， $R$ 为气泡半径， $R _ { 0 }$ 为气泡初始半径。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "结合Miyatake 此前引入的不平衡分数NEF 的概念，进一步推导可得： ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } H _ { \\mathrm { f o a m + } } = b \\cdot N E F ^ { 1 . 5 } \\cdot \\mathrm { d } \\tau\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中 $b$ 为比例系数，定义为泡沫层膨胀系数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { d } H _ { \\mathrm { f o a m - } }$ 项可以通过质量以及能量平衡推得。闪蒸过程中，泡沫层上部气泡不断破裂，内部高温蒸汽不断溢出，这不仅导致泡沫层高度下降$\\mathrm { d } H _ { \\mathrm { f o a m - } }$ ，也导致泡沫层宏观温度下降，因此，可以通过宏观温度的下降来反推泡沫层高度的下降量 $\\mathrm { d } H _ { \\mathrm { f o a m - } }$ 。列出能量平衡方程：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\big ( m _ { \\mathrm { 0 } } - m _ { \\mathrm { s t m } } \\big ) c _ { \\mathrm { p } } \\Delta T \\cdot \\mathrm { d } N E F = h _ { \\mathrm { f g } } \\mathrm { d } m _ { \\mathrm { s t m } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $m _ { 0 }$ 为液膜初始质量， $m _ { \\mathrm { s t m } }$ 为产生蒸汽质量， $c _ { \\mathfrak { p } }$ 为定压比热容， $\\Delta T$ 为过热度， $h _ { \\mathrm { f g } }$ 为汽化潜热。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "进一步推导后可得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } H _ { \\mathrm { f o a m - } } = { \\frac { \\rho _ { \\mathrm { l } } H _ { \\mathrm { 0 } } c _ { \\mathrm { p } } \\Delta T } { \\rho _ { \\mathrm { s t m } } h _ { \\mathrm { f g } } } } \\cdot \\mathrm { d } N E F\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\rho _ { \\mathrm { { l } } }$ 为溶液密度， $H _ { 0 }$ 为液膜初始厚度。于是：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { d } H _ { \\mathrm { { f o a m } } } = b \\cdot N E F ^ { 1 . 5 } \\mathrm { d } \\tau + \\frac { \\rho _ { \\mathrm { l } } H _ { \\mathrm { 0 } } c _ { \\mathrm { p } } \\Delta T } { \\rho _ { \\mathrm { s t m } } h _ { \\mathrm { f g } } } \\cdot \\mathrm { d } N E F\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "积分可得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { H _ { \\mathrm { f o a m } } \\left( \\tau \\right) = b \\cdot \\displaystyle \\int _ { 0 } ^ { \\tau } { \\cal N E F ^ { 1 . 5 } } \\mathsf { d } \\tau - B \\cdot \\left[ 1 - N E F \\left( \\tau \\right) \\right] } \\\\ & { B = \\displaystyle \\frac { \\rho _ { \\mathrm { l } } H _ { \\mathrm { 0 } } c _ { \\mathrm { p } } \\Delta T } { \\rho _ { \\mathrm { s t m } } h _ { \\mathrm { f g } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "上式中，不平衡分数 $N E F$ 可以直接采用课题组之前已经拟合得到的不平衡分数随时间变化的计算式求得，系数 $B$ 中所涉及的物性参数均可以在NaC1溶液物性参数表中查得 $\\mathbf { \\Delta } , \\mathbf { \\Delta } ,$ 通过实验值的反推得到，并对其关于过热度、初始液膜厚度、溶液初始浓度线性拟合可得：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nb _ { \\mathrm { f i t } } = - 2 0 . 7 2 H _ { \\scriptscriptstyle 0 } + 0 . 0 5 \\Delta T - 3 9 . 9 0 f _ { \\scriptscriptstyle \\mathrm { m 0 } } + 1 9 . 0 8\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.3泡沫层高度随时间变化规律计算结果与实验结果的比较",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图7对比了不同初始条件下泡沫层高度的计算结果与实验结果，图8绘制出了模型计算结果与实验结果的最大相对误差。所示吻合情况良好，说明式8不仅可描述泡沫层高度随时间的变化过程，还较准确的反映了泡沫层膨胀随过热度、初始液膜厚度、溶液初始浓度的变化规律。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e95225a5daf237e572a7ba04adc712656c1775dc1ce1a7356b91451ff3c0094d.jpg",
+        "img_caption": [
+            "图7模型计算结果与实验结果的比较"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig.7Comparisonofcalculating resultwith the experimental ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "result ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/252802370802f23af7bb93729f0a7be467007c1a50b57ed26e40e0f182497475.jpg",
+        "img_caption": [
+            "图8模型计算结果最大相对误差",
+            "Fig.8 The maximum relative error of calcuting result "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文对液膜初始过热度为2.9\\~30K，初始液膜厚度为 $0 . 1 \\mathrm { m }$ 、 $0 . 2 \\mathrm { m }$ 和溶液初始质量分数为0.2、0.23、0.25的NaC1溶液开展了静态闪蒸实验，并对其中的泡沫层膨胀规律进行了初步的实验与理论研究，得出以下结论：(1)在较大的过热度下，泡沫层膨胀开始的较早，且膨胀速度较快。(2)在较大的液膜厚度下，泡沫层膨胀开始的较晚，且膨胀速度较慢。(3)溶液初始质量分数对泡沫层膨胀规律几乎无影响。(4)本文根据经典气泡生长理论以及闪蒸过程中的质量平衡、能量平衡推导出了泡沫层膨胀规律计算模型，实现了对泡沫层膨胀高度随时间变化规律的计算，与实验结果吻合的较好。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Miyatake O,Murakami K,Kawata Y,et al. Fundamental ExperimentswithFlashEvaporation[J].Heat Transfer-Japanese Research,1973,2(4):89-100.   \n[2]Gopalakrishna S,Purushothaman V,Lior N. An experimental study of flash evaporation from liquid pools[J].Desalination,1987,65:139-151.   \n[3]LIU Lu,BI Qincheng,LI Huixiong.Experimental investigation on flash evaporation of saltwater droplets released into vacuum. Microgravity Sci Technol. 2009;21:255-60.   \n[4]Tewari PK, Verma R K, Ramani M P S,et al. Studies on nucleate boiling of sodium chloride solutionsat atmospheric and sub-atmospheric pressures[J].Desalination,1985,52(3):335-344.   \n[5]施明恒，甘永平，马重芳等．沸腾和凝结[M]．王补 宣审校．北京：高等教育出版社，1995：21-55. SHI Mingheng,GAN Yongping,MA Chongfang,et al. Boiling and condensation heat transfer[M].Beijing:Hi gher Education Press,1995:21-55.   \n[6] 张丹．NaCl 水溶液液膜静态闪蒸的热力学特性 [D]．西安：西安交通大学．2013. ZHANG Dan.Experimental study on thermodynamic propertiesof aqueousNaCl film duringstatic flash.Xi'an:Xi'an Jiaotong University.2013. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "附页： 联系人：严俊杰教授 Email: yanjj@mail.xjtu.edu.cn Tel: 029-82665741 ",
+        "page_idx": 5
+    }
+]

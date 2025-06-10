@@ -1,0 +1,280 @@
+# 一种优化计算slater投票获胜者的picat方法
+
+敖欢la,1b，王以松la,b†，冯仁艳la,1b，邓周灰²，仝天乐(1．贵州大学a.计算机科学与技术学院;b.人工智能研究院，贵阳 550025;2.贵安科创产业发展有限公司,贵阳550025;3．贵州黔驴科技有限公司，贵阳 550025)
+
+摘要：slater 投票规则是基于锦标赛的投票规则，主要是通过构造无环锦标赛，找到与原锦标赛差异最小的一个，从中选出获胜者。针对求解难度为NP难的 slater 投票算法，提出了一种基于相似候选项集的优化求解 slater问题的picat 方法。相比于非优化求解 slater问题的方法，该方法缩小了 slater 算法的解空间，有效的减少了求解 slater获胜者的计算量，提高了计算速度。实验结果表明，优化求解 slater问题的 picat 方法的计算速度优于非优化的 picat 方法；当候选项人数少于20时，求解 slater 问题的回答集程序(ASP)方法的计算速度和计算能力优于优化的 picat 方法，但当候选项人数超过30时，优化的picat方法(用可满足问题求解器)的计算速度和计算能力优于ASP方法。
+
+关键词：slater投票问题；NP难问题；约束满足问题；picat程序设计；锦标赛；线性序列中图分类号：TP3 doi:10.19734/j.issn.1001-3695.2022.01.0013
+
+# Optimizing picat method for calculating slater voting winners
+
+Ao Huanla, 1b,Wang Yisongla,1bt, Feng Renyanla,1b, Deng Zhouhui², Tong Tianle3 (1.a.SchoolofComputerScience&Technology,b.InstituteofArtificialIntelligence,GuizhouUniversityGuyang025, China;2.KechuangIndustrialDevelopmentCompanyLimited,Guiyang 55025,China;3.GuizhouDonkeyTechnologies Company Limited, Guiyang 550025,China)
+
+Abstract:The slater votingrule isatournament-based votingrule.It mainlyconstructsaringlesstournament,finds theone withthe smallst diference from the original tournament,and selects the winner from it.Aiming attheNP-hard slater voting algorithm,this paper proposed a picat method to solve the slater problembased onthe optimization ofsimilarcandidate item sets.Compared withthe non-optimized picat methodforsolving the slaterproblem,this methodreduces the solution spaceof theslateralgorithm,effectivelyeducestheamountofcalculationforsolvingtheslaterwinner,andimprovesthecalculation sped.Theexperimentalresultsshowthatthecomputationalspeedoftheoptimizedpicatmethodforsolvingthe slaterproblem is beter than thatofthe non-optimized;whenthenumberofcandidates islessthan20,thecomputationalspeedandcomputing power of the answer set program (ASP)method for solving the slater problem are beter than those of the optimized picat method,but when the number of candidates exceeds 30,the optimized picat method (with a satisfiable problem solver) outperforms the ASP method in terms of computational speed and computational power.
+
+Key words: slatervoting; NP-hardproblem; constraintsatisfactionproblem;picatprogramming;tournament; inearsequence
+
+# 0 引言
+
+可计算社会选择理论(Computational Social Choice,COMSOC)是社会选择理论和计算机科学融合而成的一个交叉学科，在人工智能、经济和计算性理论等领域有着广阔的应用前景[1\~3]。社会选择研究各种社会决策能否尊重个体偏好和平衡利益分配，投票是最普遍的社会决策方式，其作用是将个人偏好转换为社会偏好,因此投票理论是可计算社会选择理论的主要研究内容之一，人们提出了各种投票投票算法规则：Kemeny[4]、Slater[5]、Banks[6]，其中 slater 投票算法的求解复杂度为 $\Theta _ { 2 } ^ { p }$ -完全的[7]，该算法求解的slater问题是约束满足问题。
+
+Picat程序设计是一种描述性问题求解的新范例。Picat程序设计针对约束满足问题的设计思想是：用一组规则描述所需要求解的问题，然后用相应的求解器计算出问题的解[8]。picat 融合了声明式语言特性和命令式语言特性，既有类似Prolog的声明式语言特性，又具有数组，函数等命令式语言的特性，因此用picat 对组合优化问题进行建模非常方便[9]文献[10\~12]提出使用回答集程序设计(ASP)求解 slater问题的方法。用ASP求解slater问题，虽然可以计算出至少一种解决方案，但当求解问题规模较大时，计算时间过长。鉴于在求解多人寻路问题(Multi-Agent Pathfinding Problem)的实验中，当问题规模较大时，picat 的求解时间少于ASP 的[13],此外，slater 问题是约束满足问题，而picat 支持约束编程，内置了三种求解器，都可以用来求解约束满足问题，所以本文用picat求解slater问题。此外，文献[14]提出了优化求解slater问题的方法，本文会用picat实现优化的方法，以此求解 slater 问题。
+
+本文介绍slater投票算法以及picat，阐述用picat优化求解 slater问题的方法，并分析其正确性。
+
+# 1 背景知识
+
+# 1.1问题描述
+
+投票活动中，当候选人数达到3个或3个以上，在成对候选项的选择结果中可能会出现“投票悖论”问题，即循环的选择结果[15]。例如，假设有3个候选项 $A$ ， $B$ ， $C$ ，三个人的投票分别为： $A > B > C$ ， $B { > } C { > } A$ 和 $C > A > B$ （ $x > y$ 表示 $x$ 比 $y$ 好)。按照少数服从多数原则，这样无法确定获胜者(或者 $A$ 、 $B$ 、 $C$ 都可能是获胜者)。针对投票悖论问题，研究者们提出了各种投票算法。slater投票算法就是其中之一，
+
+# 1.2slater投票
+
+slater投票是基于锦标赛的一种投票方式。锦标赛$T = ( C , P )$ ， $C$ 是候选项集， $P$ 是集 $C$ 上的完全二元关系，表示两两候选项之间的集体偏好关系，集体偏好关系反映的是两个候选项之间支持票数的多少。设 $x$ 和 $y$ 为任意两个候选项， $( x , y ) \in P$ (记为 $x > y$ )，表示支持 $x$ 的票数多于支持 $y$ 的。因此，锦标赛是个反对称的有向完全简单图。对于具有 $n$ 个元素的集合 $C$ 和 $C$ 中的元素 $x _ { i } ( 1 \leq i \leq n )$ ，称$l = x _ { 1 } > \mathbf { K } > x _ { n } ( x _ { i } \in C , 1 \leq i \leq n )$ 为集合 $C$ 上的任一严格线性序列，也记 $l = \{ ( x _ { i } , x _ { j } ) \vert 1 \leq i < j \leq n \}$ 。锦标赛可能不能形成一个严格的线性序列。
+
+定义1slater分数。给定锦标赛 $T = ( C , P )$ ， $C$ 上的一严格线性序列 $l$ 关于 $T$ 的slater分数定义为：$\left| \{ ( x , y ) { \big | } ( x , y ) \in l { \mathrm { E } } ( y , x ) \in P \} \right|$ 0
+
+具有最小slater 分数的任何 $C$ 上的线性序列，被称为slater序列，slater获胜者即slater序列的首项。slater问题即求解锦标赛T的slater获胜者。
+
+研究者们认为slater问题至少是NP难问题，对slater问题的计算复杂度的最新研究表明slater 问题是 $\Theta _ { 2 } ^ { p }$ 类问题[5,16]。Lampis证明slater问题是 $\Theta _ { 2 } ^ { p }$ -完全问题[7]。Slater问题的研究目标是研究在多项式时间之内计算出任何锦标赛的slater序列的方法。该方法可以用于求解回馈弧集问题(FeedbackArcSet problem),该问题是锦标赛研究中的NP完全问题[14,17\~19]。
+
+在 2019年，Bachmeier指出即使只有7名选民的情况下，求解slater问题的计算复杂度仍是NP难的[20]。2021年，Lampis指出即使只有7名选民的情况下，求解slater问题的计算复杂度是 $\Theta _ { 2 } ^ { p }$ -完全的[7]。因此slater问题是难计算的。
+
+用picat求解slater问题的难点，首先是如何构造可以描述投票描述的谓词，根据投票描述的谓词构造锦标赛。2019年，徐珩僭等人提出了一种基于回答集程序(ASP)的计算slater 问题的方法[11,12]。本文借鉴了其中定义投票描述的谓词构造锦标赛。
+
+再者，设计优化求解的算法是又一难点。构造完锦标赛之后，非优化求解slater问题的方法是利用求解器枚举所有的线性序列，与锦标赛比较，找出其中差异最小的，即slater分数最小的，从而求出获胜者。其时间复杂度是O(n!)。这样随着问题规模的增大，用非优化方法求解slater获胜者的计算时间过长。
+
+2006年Conitzer提出优化求解slater问题的新方法，他为候选项引入相似性概念：相似的项与任何其他项具有相同的偏好关系。通过搜寻原锦标赛中的相似项集构造加权锦标赛，该加权锦标赛的每一个顶点是一个相似项集，先计算加权锦标赛的slater 获胜者，该获胜者是一个相似项集，该相似项集中有一个候选项是原锦标赛的获胜者。然后递归求解由该相似项集构成的子锦标赛的slater获胜者，该slater获胜者即为原锦标赛的 slater 获胜者[14]。下面详细介绍其基本概念。
+
+定义2极大相似项集。给定锦标赛 $T = ( C , P )$ ,若 $s \subseteq C$ ，且对于任意两个候选项 $x , y \in S$ ，对于任意 $z \in C - S$ ， $x > z$ 当且仅当 $y > z$ ，或者 $z > x$ 当且仅当 $z > y$ ，则称 $s$ 为极大相似项集，称 $s$ 中的候选项为相似项。
+
+极大相似项集分为两种，非平凡相似项集和平凡相似项集。单个候选项和全体候选项都能构成一个相似项集，即若$\mid \mathrm { \cal S } \mid = 1$ 或者 $\mid \mathrm { \boldsymbol { S } } \mid = \mid \mathrm { \boldsymbol { C } } \mid$ 则称 $s$ 为平凡相似项集。若锦标赛中只存在平凡相似项集，则不能用优化方法求解slater获胜者。若$\displaystyle { 1 < | S | < | C | }$ ，则称 $s$ 为非平凡相似项集。优化算法的关键步骤是找出锦标赛中存在的非平凡相似项集。
+
+定义3加权锦标赛。给定锦标赛 $T = ( C , P )$ ，其加权锦标赛为 $T _ { w } = ( C _ { w } , P _ { w } )$ ，其中 $C _ { w } = \{ S _ { 1 } , { \bf K _ { \alpha } } , S _ { k } \}$ 是 $C$ 的极大相似项集的集合，即每个 $S _ { i } ( 1 \leq i \leq k )$ 都是 $C$ 上的一个极大相似集，其中 $k = \left| C _ { \nu } \right|$ ，而且每个 $S _ { i }$ 都自带权重，权重值为|S|。
+
+给定加权锦标赛 $T _ { \mathrm { w } } = ( C _ { \mathrm { w } } , P _ { \mathrm { w } } )$ ， $C _ { w }$ 上的一个严格线性序列$w l$ 的加权slater分数定义为
+
+$$
+\sum _ { ( S _ { m } , S _ { j } ) \in w l { \Delta P _ { w } } } \big | S _ { m } \big | \times \big | S _ { j } \big |
+$$
+
+加权锦标赛 $T _ { \scriptscriptstyle w }$ 的slater获胜者是具有最小加权slater分数的任何 $C _ { w }$ 上的线性序列的首项。
+
+# 1.3picat程序设计
+
+Picat(http://picat-lang.org/index.html)是通用目的编程语言，它结合了逻辑程序设计、函数式程序设计、约束程序设计和脚本语言等的特征；支持逻辑的合一、非确定选择、查表(tabling)等计算特征，也支持循环、数组、列表等控制和多种数据结构，基于高效的prolog引擎B-Prolog；目前结合了可满足问题(SAT)求解器、约束问题(CP)求解器和混合整数规划(MIP)求解器，被广泛应用在组合优化、图搜索和大量逻辑难题[8.9]。
+
+# 2 计算slater获胜者算法
+
+# 2.1构造相似项集
+
+给定锦标赛 $T = ( C , P )$ ,优化求解slater投票获胜者的第一步是找出锦标赛中存在的非平凡相似项集。
+
+设S为T中的一个极大相似项集，因为寻找的是非平凡相似项集，因此 $s$ 中至少有两个元素，因此任取两个不同的候选项 $x , y \in C$ 作为S的初始值，即 ${ \bf { S } } : = \left\{ { x , y } \right\}$ 。如算法1中步骤a)所示。根据定义2可知，对于任意的非平凡相似项集 $s$ 满足如下性质1：
+
+不存在 $s _ { 1 } , s _ { 2 } \in S$ ， $c \in C - S$ 使得 $s _ { 1 } > c > s _ { 2 }$ (或者 $s _ { 2 } > c > s _ { 1 }$ ),即不存在 $s _ { 1 } , s _ { 2 } \in S$ ， $c \in C - S$ 使得 $( s _ { 1 } , c ) \in P$ 并且 $( c , s _ { 2 } ) \in P$ 。性质1在后文3正确性分析中，将给出证明。
+
+为了确保 $\mathbf { \Phi } _ { x , y }$ 满足性质1，因此令 $S 1 { : = } \{ c \in C | x > c > y \}$ ，$S 2 : = \{ c \in C | y > c > x \}$ ，S1和S2 都是S的子集，如算法1中步骤 $\left[ \mathsf { b } \right) \sim \mathsf { d } )$ 所示。因为 $s 1 , S 2 \subseteq S$ ,所以对于任意 $c \in S 1 \cup S 2$ ，也要满足性质1，故若存在 $\{ \mathbf { u } , \mathbf { v } \} \subseteq S$ ， $a \in C - S$ ，使得$( u , a ) \in P , ( a , \nu ) \in P$ ，则 $a \in S$ 。令 $S 3 = \{ a \in C - S |$ （20 $u > a > \nu , \{ u , \nu \} \subseteq S \}$ ：S3 也是S 的子集。如算法1中步骤e)-g)所示。
+
+最后，输出相似项集 $S = \{ x , y \} \cup S 1 \cup \ S 2 \cup \ S 3$ ,如算法1中步骤h)所示。
+
+给定锦标赛 $T = ( C , P )$ 及任选两个不同候选项 $x , y \in C$ ，计算包含 $^ { \cdot } x , y$ 的非平凡相似项集的方法 $\mathrm { M S T } ( x , y , T )$ 如下：
+
+算法1 MST( $T = \left( C , P \right) , \left\{ x , y \right\} \subseteq C$ ） 输入： $T = ( C , P )$ ， $\{ x , y \} \subseteq C$ （204号 输出：包含 $x , y$ 的单个极大相似项集 $s$ a） $S : = \{ x , y \}$ ; b) $S 1 { : = } \{ c \in C | x > c > y \}$ ; c） $S 2 : = \{ c \in C | y > c > x \}$ ; d) $S : = S \cup S 1 \cup S 2$ ; e) $E { : = } C - S$ ; （204号 $\textsf { f }$ ）while( $\exists a \in E , \{ u , \nu \} \subseteq S$ 使得 $( u , a ) \in P , ( a , \nu ) \in P$ ） g) $S : = S \cup \{ a \} ; E : = E - \{ a \}$ h）return S
+
+# 2.2 构造加权锦标赛
+
+给定锦标赛 $T = ( C , P )$ ，优化求解slater投票获胜者的第二步是根据锦标赛 $T$ 构造其加权锦标赛 $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ ，主要是构造 $C _ { \ w }$ 和 $P _ { \scriptscriptstyle { w } }$ ，且初始值都为空集， $T L$ 表示可能存在新的相似项集的集合，其初始值为 $C$ ，Fail表示不在同一个相似项集中的两个候选项的集合，其初始值为空值。如算法2中步骤a)所示。
+
+$C _ { \ w }$ 是锦标赛 $T$ 中的所有极大相似项集的集合。换句话说，加权锦标赛中每个顶点都是一个极大相似项集，无论平凡的还是非平凡的。而利用算法1计算出 $T$ 中的极大相似项集的条件是，任取的两个候选项 $\mathbf { \Phi } _ { x , y }$ 可能互为相似项，即$( x , y ) \notin F a i l$ 并且 $\mathbf { \Phi } _ { x , y }$ 不能是别的非平凡相似项集中的候选项，即 $\{ x , y \} \subseteq T L$ ，此外， $T L$ 中至少要有两个候选项待选，即$\vert T L \vert > 2$ ，如算法2中步骤b)所示。
+
+算法1的计算出来的极大相似项集 $s$ 分为两种，若是非平凡相似项集，则S是 $C _ { w }$ 中的元素，若是平凡相似项集，则说明 $\mathbf { \Phi } _ { x , y }$ 不是同一个相似项集中的元素，因此 $\{ ( x , y ) , ( y , x ) \}$ 是Fail的子集，如算法2中步骤 $\mathbf { b } ) { \sim } \mathbf { g } )$ 所示。
+
+任取两个相似项集 $S _ { 1 } , S _ { 2 } \in C _ { w }$ ， $c _ { i } \in S _ { 1 } , c _ { j } \in S _ { 2 }$ ，因为 $S _ { 1 } , S _ { 2 }$ 由相似项构成，相似项在锦标赛 $T$ 中具有相同的偏好关系，所以，下面两种情况必然可以满足一个：
+
+a)对于每一个 $c _ { i }$ ， $\boldsymbol { c } _ { j }$ ，都存在 $c _ { i } \to c _ { j }$ b)对于每一个 $c _ { i }$ ， $\boldsymbol { c } _ { j }$ ，都存在 $c _ { j }  c _ { i }$
+
+因此在加权锦标赛 $T _ { \mathrm { { w } } } = ( C _ { \mathrm { { w } } } , P _ { \mathrm { { w } } } )$ 中，若 $( c _ { i } , c _ { j } ) \in P$ ，则$( S _ { 1 } , S _ { 2 } ) \in P _ { w }$ ；反之， $( c _ { j } , c _ { i } ) \in P$ ，则 $( S _ { 2 } , S _ { 1 } ) \in P _ { w }$ 如算法 2 中步骤$\mathrm { j } ) { \sim } 1 )$ 所示。
+
+给定锦标赛 $T = ( C , P )$ ，计算其加权锦标赛的方法MST(T)如下：
+
+算法2 MST( $T = ( C , P )$ ）
+
+输入：锦标赛T  
+输出：由 $\tau$ 的所有极大相似项集的集合 $C _ { w }$ 构成的加权锦标赛 $T _ { \scriptscriptstyle w }$ a） （20 $C _ { \nu } : = \emptyset$ ； $T L { : = } C$ ; $F a i l : = \emptyset$ ; $P _ { \nu } : = \mathcal { O }$   
+b）while( $\vert \tau L \vert \ \geq \ 2$ 并且 $\{ x , y \} \subseteq T L$ 并且 $( x , y ) \notin F a i l$ ）c） $S { : = } \mathsf { M S T } ( x , y , T L )$   
+d) $\mathbf { i } \mathsf { f } ( \mathsf { \Omega } ^ { 1 } \mathsf { \mathrm { < } } \mathsf { I } S \mathsf { | } \mathsf {  { < } } \mathsf { I } C \mathsf { | }$ ）then  
+e) $C _ { w } : = C _ { w } \cup \{ S \} \quad ; T L : = T L - S \textbf { ; }$ （204号  
+f) else  
+g） $F a i l : = F a i l \cup \{ ( x , y ) , ( y , x ) \}$   
+h) foreach( $a \in T L$ ）  
+i) $C _ { w } : = C _ { w } \cup \{ \{ a \} \}$ ;  
+j）foreach ( $\{ x , y \} \subseteq C _ { w }$ ）  
+k) if ( $\exists u \in x , \nu \in y$ 使得 $( u , \nu ) \in { \cal P }$ ）then  
+1) $P _ { \mathrm { { w } } } : = P _ { \mathrm { { w } } } \cup \{ ( x , y ) \}$   
+m）Return $T _ { \mathrm { w } } = ( C _ { \mathrm { w } } , P _ { \mathrm { w } } )$ （204号
+
+# 2.3计算出加权锦标赛的一个slater 获胜者
+
+给定锦标赛 $T = ( C , P )$ ，优化求解slater投票获胜者的第三步是计算出加权锦标赛 $T _ { \mathrm { * } } = \ d ( C _ { w } , P _ { w } )$ 的一个slater 获胜者。
+
+给定一个加权锦标赛 $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ ， $w l$ 为任意 $\boldsymbol { C } _ { \mathrm { \Sigma { w } } }$ 上的严格线性序列， $\boldsymbol { C } _ { \scriptscriptstyle w }$ 上具有最小加权slater分数的严格线性序列为 $T _ { \scriptscriptstyle w }$ 的 slater序列，其首项为 $T _ { \scriptscriptstyle { w } }$ 的一个slater获胜者。所以主要分为两步：一，描述 $C _ { \ w }$ 上的严格线性序列 $w l$ ；二，求解出 $C _ { w }$ 上具有最小加权slater分数的严格线性序列。
+
+对具有 $k$ 个元素的 $C _ { \phantom { } _ { w } }$ 和 $\boldsymbol { C } _ { w }$ 中的元素 $S _ { i } ( 1 \leq i \leq k )$ ，称$w l { = } S _ { 1 } > \mathbb { K } > S _ { k }$ 为 $C _ { \mathrm { \Delta } _ { w } }$ 上的任意严格线性序列，又记作$w l = \{ ( S _ { i } , S _ { j } ) \vert 1 \leq i < j \leq k \}$ ，即每个严格线性序列可以看做一个有序二元组集合。
+
+任意两个 $C _ { w }$ 上的严格线性序列之间的区别在于各个 $S _ { i }$ 的排列顺序。因此描述 $w l$ 的关键在于描述 $w l$ 中各个 $S _ { i }$ 的排列顺序。
+
+设 $c : = \{ s _ { i } | 1 \leq i \leq k \}$ ,其中 $k = \mid C _ { w } \mid$ ， $s _ { i } \in \{ 1 , . . . , k \}$ ， $s _ { i }$ 的取值表示任意 $w l$ 中 $S _ { i }$ 的排列位置，而且 $s _ { i }$ 的取值范围为1到 $k$ 。例如， $C _ { w } = \{ S _ { 1 } , S _ { 2 } , S _ { 3 } \}$ ， $\boldsymbol { c } = \left\{ 3 , 1 , 2 \right\}$ ,可以表示 $\boldsymbol { C } _ { \boldsymbol { w } }$ 上的一个线性序列 $S _ { 2 } > S _ { 3 } > S _ { 1 }$ 。
+
+集合c还有一个必要的约束条件，即c中 $k$ 个元素的取值各不相同，all_different(c)可以确保 $\boldsymbol { \mathscr { c } }$ 中的各个元素各不相等。all_different(FVar)是picat 内置的约束谓词，它的作用是确保集合FVar中任意两个元素各不相等。对于任意$V 1 , V 2 \in F V a r$ ,编译之后，all_different(FVar)会生成不等约束，即 $V 1 \neq V 2$ 。所以，对于任意 $s _ { i } , s _ { j } \in c$ ,编译之后all_different(c)会生成 $s _ { i } \neq s _ { j }$ 的约束，以确保 $\mid c \mid$ 中的元素各不相同。例如，$\mid c \mid = 3$ ，实例化c时，{1,1,1}或者{2,1,2}都不会是 $\mathbf { \Psi } _ { c }$ 。
+
+所以令 $C _ { w } : = \{ S _ { 1 } , { \bf K _ { \alpha } } , S _ { k } \}$ ， $c : = \{ s _ { 1 } , { \bf K _ { \omega } } , s _ { k } \}$ ，其中 $s _ { i } \in \{ 1 , 1 , k \ , k \}$ ，$1 \leq i \leq k$ 并且 $\boldsymbol { \mathscr { c } }$ 满足 $a l l _ { - } d i f f e r e n t { ( c ) }$ ，则 $\mathbf { \Psi } _ { c }$ 可以描述 $C _ { w }$ 上任意严格线性序列。如算法3中所示。
+
+约束 Minimize $\sum _ { 1 \leq i < j \leq k , s _ { i } < s _ { j } \atop ( S _ { s _ { j } } , S _ { s _ { i } } ) \in P _ { w } } { \mid S _ { i } \mid \times \mid S _ { j } \mid }$ （24号 可以求解出 $C _ { w }$ 上具有最小加权slater分数的严格线性序列。如算法3中步骤b)所示。后文在第3章正确性分析中证明。
+
+计算出加权锦标赛 $T _ { \scriptscriptstyle { w } }$ 的一个 slater 序列之后，该 slater序列的首项即加权锦标赛 $T _ { \scriptscriptstyle w }$ 的一个 slater 获胜者。如算法3中步骤c)所示。
+
+给定一个加权锦标赛 $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ ，计算出加权锦标赛 $T _ { \scriptscriptstyle w }$ 的一个slater 获胜者方法 slater_winner_w( $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ )如下：
+
+算法3slater_winner_w( $T _ { \mathrm { w } } = ( C _ { \mathrm { w } } , P _ { \mathrm { w } } )$ ）输入：加权锦标赛 $T _ { \nu }$ 输出： $T _ { \nu }$ 的一个 slater 胜者 $S _ { \mathrm { m i n ( c ) } }$ （20a）令 $C _ { w } : = \{ S _ { 1 } , { \bf K _ { \alpha } } , S _ { k } \}$ ， $c { : = } \{ s _ { 1 } , { \bf K _ { \omega } } , s _ { k } \}$ $/ { ^ * } s _ { i }$ 的取值表示 $S _ { i }$ 在一个严格线性序列中的排序\*/b） Minimize isijskssj $\sum _ { \stackrel { 1 \leq i < j \leq k , s _ { i } < s _ { j } } { ( S _ { s _ { j } } , S _ { s _ { i } } ) \in P _ { w } } } \left| S _ { i } \right| \times \left| S _ { j } \right|$ （204s.t. $1 \leq i \leq k$ ， $s _ { i } \in \{ 1 , 1 , K \ , k \}$ ,all_different(c)$/ { } ^ { * } { \mathsf { a l } } 1$ _different(c)表示 $\mathsf { \Lambda } _ { \mathsf { c } }$ 中的各个变量的取值不同 $^ { * } /$ $/ { * }$ 可用SAT、CP、MIP 等求解器计算上述优化Minimize问题\*/c）Return $S _ { \mathfrak { m i n } ( \mathfrak { c } ) }$
+
+注意，算法slater_winner_w也可用于计算非加权锦标赛$T = ( C , P )$ 的 slater 获胜者，此时C中每一个候选项 $c _ { i } ( 1 \leq i \leq n )$ 都可以看做一个平凡相似项集 $\{ c _ { i } \}$ 。下面采用Conitzer方法计算锦标赛的slater获胜者。即 $C _ { w }$ 中每个相似项集恰好都只有1个候选项(权重都为1)时， $C _ { \boldsymbol { w } } = \{ \{ c _ { 1 } \} , . . . , \{ c _ { n } \} \}$ ，则该加权锦标赛 $T _ { w } = ( C _ { w } , P _ { w } )$ 就是一个锦标赛 $T = ( C , P )$ ，其获胜者就是slater获胜者，故该方法slaterwinnerw称为计算slater获胜者的非优化方法。
+
+# 2.4计算锦标赛 $\intercal$ 的 slater算法
+
+给定锦标赛 $T = ( C , P )$ ，构造加权锦标赛 $T _ { w } = ( C _ { w } , P _ { w } )$ ，计算出加权锦标赛 $T _ { \nu }$ 的一个slater 获胜者为 $\boldsymbol { S } _ { \boldsymbol { w } }$ 。而 $\boldsymbol { S } _ { v }$ 是一个极大相似项集，优化求解slater投票获胜者的前三步如算法4中步骤 $\mathsf { a } ) { \sim } \mathsf { c } )$ 所示。
+
+优化求解slater投票获胜者的第四步是递归求解由 $H$ 构成的子锦标赛 $T _ { s u b } = ( S _ { \nu } , P | S _ { \nu } )$ 的slater获胜者，其中$( P | S _ { w } ) \subseteq P$ ， $( P | S _ { w } )$ 表示 $\{ ( x , y ) | \ ( x , y ) \in S _ { w } { } ^ { 2 } \cap P \}$ ，即由极大相似项集 $\boldsymbol { S } _ { \boldsymbol { w } }$ 中每一个候选项之间相连的边构成的边集。子锦标赛 $T _ { s u b }$ 的slater获胜者即锦标赛 $T = ( C , P )$ 的 slater获胜者。如算法4中步骤 $\mathrm { d } ) { \sim } \mathrm { e } )$ 所示。
+
+给定锦标赛 $T = ( C , P )$ ，计算锦标赛 $T$ 的slater 获胜者的算法如下：
+
+算法4slater_winner( $T = ( C , P )$ ） 输入：锦标赛 $T = ( C , P )$ （204
+
+输出：锦标赛的一个slater 获胜者
+
+a）计算 $c$ 的极大相似项集的集合 $C _ { w } : = \{ S _ { 1 } , { \bf K _ { \alpha } } , S _ { k } \}$ （20  
+b）由 $C _ { w }$ 和 $\tau$ 构造出加权锦标赛 $T _ { \mathrm { w } } = ( C _ { \mathrm { w } } , P _ { \mathrm { w } } )$   
+c）计算出加权锦标赛 $T _ { \scriptscriptstyle w }$ 的一个slater获胜者  
+$\boldsymbol { S } _ { \boldsymbol { w } }$ ： $\scriptstyle = s$ later_winner_w( $T _ { \scriptscriptstyle w }$ ）  
+d)递归求解子锦标赛 $T _ { s u b } = ( S _ { \nu } , P | S _ { \nu } )$ 的slater获胜者  
+$w \colon = \mathsf { s } \mathsf { 1 }$ ater_winner_w( $T _ { s u b } = ( S _ { w } , P | S _ { w } )$ ）  
+e）返回w
+
+# 3 正确性分析
+
+算法4即优化求解slater问题方法。现在分析4个步骤的正确性，以此证明优化求解slater问题的方法的正确性。
+
+定理1若 S 为相似项集，则存在一个原锦标赛 $T$ 上的slater序列，S中的候选项能够构成该slater序列中连续的一块子序列。(因此，不存在 $s _ { 1 } , s _ { 2 } \in S , c \in C - S$ 使得 $( s _ { 1 } , c ) \in P$ 并且 $( c , s _ { 2 } ) \in P$ ）
+
+证明设有两个C上的严格线性序列 $\mathbf { f } _ { 1 } , \mathbf { f } _ { 2 }$ ，S中的候选项在 $\mathbf { f } _ { 1 }$ 上被分割成 $m \left( m > 1 \right) .$ 块；而S中的候选项在 $\textrm { f } _ { 2 }$ 上被分割成 $m { - } 1$ 块。下面将阐述如何将 $\mathbf { f } _ { 1 }$ 转换成 $\textrm { f } _ { 2 }$ ，而且 $\mathbf { f } _ { \mathrm { ~ l ~ } }$ 和f $\dot { \mathbf { \Phi } } _ { 2 }$ 的slater分数相同。
+
+设 $\mathbf { f } _ { 1 }$ 由3块组成： $\{ s _ { i } ^ { 1 } \} , \{ s _ { i } ^ { 2 } \} \subseteq S$ 和 $\{ c _ { i } \} \subseteq C - S$ ，S 中的候选项被$\{ c _ { i } \}$ 分割成2块： $s _ { 1 } ^ { 1 } \textbf { f } _ { 1 } s _ { 2 } ^ { 1 } \textbf { f } _ { 1 } \textbf { K } \textbf { f } _ { 1 } s _ { l _ { 1 } } ^ { 1 } \textbf { f } _ { 1 } c _ { 1 } \textbf { f } _ { 1 } c _ { 2 } \textbf { f } _ { 1 } \textbf { K } \textbf { f } _ { 1 } c _ { l } \textbf { f } _ { 1 } s _ { 1 } ^ { 2 } \textbf { f } _ { 1 } s _ { 2 } ^ { 2 } \textbf { f } _ { 1 } \textbf { K }$ $\textbf { f } _ { 1 } \ : s _ { l _ { 2 } } ^ { 2 }$ 。因为S是相似项集，则给定一个 $c _ { i }$ ，其在锦标赛 $T$ 中与每一个 $s _ { i } ^ { j }$ 具有相同的偏好关系，要么是 $c _ { i }  s _ { i } ^ { j }$ ，要么是$s _ { i } ^ { j } \to c _ { i }$ 。因此，下面两种情况， $\{ c _ { i } \}$ 必然能满足其中一种：
+
+a) $\{ c _ { i } \}$ 中至少有一半 $c _ { i }$ 使得 $c _ { i }  s _ { i } ^ { j }$ 。
+
+b) $\{ c _ { i } \}$ 中至少有一半 $c _ { i }$ 使得 $s _ { i } ^ { j } \to c _ { i }$ 。
+
+如果是情况a)，则可以将 $\mathbf { f } _ { \mathrm { ~ l ~ } }$ 转换 $c _ { 1 } \textrm { f } _ { 2 } c _ { 2 } \textrm { f } _ { 2 } \textrm { K } \textrm { f } _ { 2 } c _ { l } \textrm { f } _ { 2 }$ $s _ { 1 } ^ { 2 } \textbf { f } _ { 2 } \ : s _ { 2 } ^ { 2 } \textbf { f } _ { 2 } \textbf { K } \textbf { f } _ { 2 } \ : s _ { l _ { 2 } } ^ { 2 } \textbf { f } _ { 2 } \ : s _ { 1 } ^ { 1 } \textbf { f } _ { 2 } \ : s _ { 2 } ^ { 1 } \textbf { f } _ { 2 } \textbf { K } \textbf { f } _ { 2 } \ : s _ { l _ { 1 } } ^ { 1 }$ 。设 $\left\{ { { s } _ { i } ^ { 1 } } \right\}$ 上的 slater 分数为A1， $\left\{ s _ { i } ^ { 2 } \right\}$ 上的slater分数为A2，因为 $\boldsymbol { l } = \left| \left\{ c _ { i } \right\} \right|$ ，假设 $\{ c _ { i } \}$ 中有$p$ 个 $c _ { i }$ 使得 $c _ { i }  s _ { i } ^ { j }$ ， $q$ 个 $c _ { i }$ 使得 $s _ { i } ^ { j } \to c _ { i }$ ，而且 $p + q = l$ 。那么f $\vdots _ { _ { 2 } }$ 和 $\mathbf { f } _ { \mathbf { \lambda } _ { 1 } }$ 的slater 分数都是 $l + A 1 + A 2$ 。同理，如果是情况b）则可以将 $\mathbf { f } _ { \mathrm { ~ l ~ } }$ 转换为 $s _ { 1 } ^ { 2 } \textbf { f } _ { 2 } \ s _ { 2 } ^ { 2 } \textbf { f } _ { 2 } \textbf { K } \textbf { f } _ { 2 } \ s _ { l _ { 2 } } ^ { 2 } \textbf { f } _ { 2 } \ s _ { 1 } ^ { 1 } \textbf { f } _ { 2 } \ s _ { 2 } ^ { 1 } \textbf { f } _ { 2 } \textbf { K } \textbf { f } _ { 2 } \ s _ { l _ { 1 } } ^ { 1 } \textbf { f } _ { 2 } \ c _ { 1 } \textbf { f } _ { 2 } \ c _ { 2 } \textbf { f } _ { 2 } \textbf { K }$ $\textbf { f } _ { 2 } c _ { l }$ ， $\textrm { f } _ { 2 }$ 的slater分数也是 $l + A 1 + A 2$ 。换句话说， $\mathbf { f } _ { 1 }$ 等价于 $\mathbf { f } _ { \mathbf { \lambda } _ { 2 } }$ -
+
+上述转换在 S 被分割成 $m$ （ $m > 2$ )时，同样适用，重复多次这种转换，可以将原来的线性序列转换成新的线性序列，原来的线性序列中同一相似项集S中的元素被分割成多块，新的线性序列中同一相似项集S中的候选项是一块的。而且两个线性序列的slater分数是一样的。定理1得证。
+
+算法1构造相似项集的方法是正确的，且每个相似项集都是极大的。分析如下：
+
+设 $s \subseteq C$ 且 $\mid S \mid \geq 2$ ，根据投票悖论的定义可知， $\vert C \vert \geq 3$ ，下面分情况分析构造相似项集 $s$ 的过程：
+
+a)当 $\mid S \mid = 2 , \mid C \mid \geq 3$ 时， $s _ { 1 } , s _ { 2 } \in S$ ，因为 $s _ { i } ( i = 1 , 2 )$ 是相似项，故对于任意 $t \in C - S$ ，每一个 $s _ { i }$ ，存在 $t > s _ { i }$ 或者 $s _ { i } > t$ ，不存在 $s _ { 1 } > t > s _ { 2 }$ 。
+
+b)当 $\mid S \mid = \mid C \mid = 3$ 时，则 $s$ 为平凡相似项集， $S = C$ ，因为$t \in S$ ，故不存在 $s _ { 1 } > t > s _ { 2 }$ 。
+
+c)当 $\mid S \mid = 3 , \mid C \mid > 3$ 时，设有一严格序列 $\textrm { f } _ { 3 }$ 中， $c$ 被分成三块 $\{ c _ { i } ^ { 1 } \} , \{ c _ { j } ^ { 2 } \} , \{ t \}$ ： $c _ { 1 } ^ { 1 } \textbf { f } _ { 3 } c _ { 2 } ^ { 1 } \textbf { f } _ { 3 } \textbf { K } \textbf { f } _ { 3 } c _ { l _ { 3 } } ^ { 1 } \textbf { f } _ { 3 } s _ { 1 } \textbf { f } _ { 3 } t \textbf { f } _ { 3 } s _ { 2 } \textbf { f } _ { 3 } c _ { 1 } ^ { 2 } \textbf { f } _ { 3 } c _ { 2 } ^ { 2 } \textbf { f } _ { 3 } \textbf { K } \textbf { f } _ { 3 } c _ { l _ { 4 } } ^ { 2 }$ 其中，对于每一个 $c _ { i } ^ { j }$ ,对于任意 $r \in \{ s _ { 1 , } s _ { 2 } , t \}$ ，存在 $c _ { i } ^ { j } > r$ 或者$r > c _ { i } ^ { j }$ 。根据极大相似项集的定义以及定理1可知，因为$s _ { 1 } , s _ { 2 } \in S$ ，故 $t \in S$ 。因此不存在 $s _ { 1 } > t > s _ { 2 }$ 。
+
+d)当 $\mid S \mid > 3 , \mid C \mid > 3$ 时，根据情况 $b _ { , }$ ）， $^ c )$ 的分析，同理可知，对于任意 $s _ { 1 } , s _ { 2 } \in S$ ， $t \in C - S$ ，不存在 $s _ { 1 } > t > s _ { 2 }$ ，因为若$s _ { 1 } > t > s _ { 2 }$ ，则 $t \in S$ 。
+
+综上所述，在锦标赛 $T = ( C , P )$ 中，任意 $s _ { 1 } , s _ { 2 } \in S$ ，$t \in C - S$ ，若 $s _ { 1 } > t > s _ { 2 }$ ，则 $t \in S$ 。因此算法1构造相似项集的方法是符合相似项集定义的，是正确的。
+
+算法2中构造加权锦标赛的方法是正确的，分析如下：给定锦标赛 $T = ( C , P )$ ，构造加权锦标赛 $T _ { w } = ( C _ { w } , P _ { w } )$ ，加权锦标赛中每个顶点都是一个相似项集，无论是非平凡相似项集还是平凡相似项集。 $T _ { \scriptscriptstyle { w } }$ 中一个顶点(相似项集)与其他顶点之间的边的指向性取决于该相似项集中候选项的偏好关系。2.2中算法2的算法描述和形式化说明，符合加权锦标赛的定义，故算法2正确。
+
+算法3计算出加权锦标赛 $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ 的一个slater获胜者的方法是正确的，分析如下： $T _ { \scriptscriptstyle w }$ 上的严格线性序列 $w l$ 的slater 分数为 $\sum _ { ( S _ { m } , S _ { j } ) \in w l { \Delta P _ { w } } } \big | S _ { m } \big | \times \big | S _ { j } \big |$ ，其中 $w l \Delta P _ { _ w } = ( w l \cup P _ { _ w } ) -$ (wl$\cap P _ { w } )$ ， $w l = \{ ( S _ { m } , S _ { j } ) \vert 1 \leq m < j \leq k , k = \vert C _ { w } \vert \}$ ， $w l \Delta P _ { \mathrm { { w } } }$ 表示 $w l$ 和 $P _ { \mathrm { { } } \nu }$ 中存在差异的边的集合，其中，若 $( S _ { m } , S _ { j } ) \in w l \Delta P _ { w }$ ，则$( S _ { j } , S _ { m } ) \in w l \Delta P _ { w }$ 。根据2.3中算法3的描述和形式化说明可知$\begin{array}{c} \sum _ { \begin{array} { l } { 1 \leq i < j \leq k , s _ { i } < s _ { j } } \\ { ( S _ { s _ { j } } , S _ { s _ { i } } ) \in P _ { w } } \end{array} } | S _ { i } | \times | S _ { j } |  \end{array}$ 愛和樂 $\sum _ { ( S _ { m } , S _ { j } ) \in w l { \Delta P _ { w } } } \big | S _ { m } \big | \times \big | S _ { j } \big |$ 是等价的。所以算法3中的 Minimize 约束求出加权锦标赛上加权slater分数最小的严格线性序列，并返回其首项。符合加权锦标赛的slater获胜者的定义。故算法3正确。
+
+算法4中第四步递归求解子锦标赛 $T _ { s u b } = ( S _ { w } , P | S _ { w } )$ 的slater获胜者是正确的。分析如下：
+
+给定锦标赛 $T = ( C , P )$ ，构造出加权锦标赛 $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ ，在找出 $T$ 中所有的极大相似项集之后，当需要计算出一个$T$ 的 slater序列时，根据定理1，可以将每一个相似项集$S _ { i } ( 1 \leq i \leq k , k = \mid C _ { w } \mid )$ 看做一个超级候选项，而且其权重为 $\mid S _ { i } \mid$ 。先计算出由超级候选项构成的slater序列，而因为一个 $S _ { i }$ 内部的slater序列和超级候选项构成的slater序列以及其他极大相似项集内部的slater序列无关，所以再递归求出每个 $S _ { i }$ 内部的候选项构成的slater序列。这样就可以计算出锦标赛$T$ 的一个 slater 序列。
+
+综合上述，算法4计算slater获胜者是符合文献[11]中提出的求解slater问题的定义。故算法4是正确的。
+
+# 4 实验与分析
+
+# 4.1举例说明
+
+给定锦标赛 $T = ( C , P )$ 如图1所示。根据算法2计算出 $T$ 中的所有的极大相似项集： $S _ { 1 } = \{ a , b , d \}$ 、 $S _ { 2 } = \{ c \}$ 和 $\boldsymbol { S } _ { 3 } = \{ \boldsymbol { e } , f \}$ ，因此 $C _ { w } = \{ ~ { \cal { S } } _ { 1 } , ~ { \cal { S } } _ { 2 } , { \cal { S } } _ { 3 } \}$ ，因为 $a \in S _ { 1 } , c \in S _ { 2 } , e \in S _ { 3 }$ ,又因为 $( c , a ) , ( c , e ) ;$ （2$( a , e ) \in P$ ，所以， $P _ { w } = \{ ( S _ { 2 } , S _ { 1 } ) , ~ ( S _ { 2 } , S _ { 3 } ) , ~ ( S _ { 1 } , S _ { 3 } ) \}$ 。由此，构造出加权锦标赛 $T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ ，如图2所示。
+
+![](images/a5bfedb5b3ab2475896fa67e6869a0210cd9082aaf34389701d21e76704925a4.jpg)  
+图1锦标赛
+
+![](images/8d1774b2e8753db66f775b44ce3b3c7bc9445f6f8bfcea16d9ea079be9de98cc.jpg)  
+Fig.1Tournament   
+图2加权锦标锦标赛  
+Fig.2Weighted tournament
+
+根据算法3计算出 $C _ { w }$ 上加权slater分数最小的严格线性系列，显然， $S _ { 3 } > S _ { 1 } > S _ { 2 }$ 的加权slater分数为2，最小，故 $S _ { 3 }$ 即加权锦标赛 $T _ { \scriptscriptstyle { w } }$ 的一个 slater 获胜者。
+
+根据算法4的第四步，递归求解子锦标赛 $T _ { s u b } = \ ( S _ { 3 } , P | S _ { 3 } )$ ，其中 $S _ { 3 } = \{ e , f \} , ~ P \vert S _ { 3 } = \{ ( e , f ) \}$ ，则子锦标赛 $T _ { s u b }$ 的slater获胜者为e,因此，锦标赛 $T$ 的一个 slater 胜者为e。
+
+# 4.2 实验与结果分析
+
+本文实验是在 debian 9.2、257.288G 内存、Intel(R)Xeon(R) Gold6132 CPU $\textcircled { 1 } 2 . 6 0 \mathrm { G H z }$ 环境下进行，分别在不同候选项人数的情况下随机生成100组测试用例。每组测试用例其实是一些基础谓词，其中包括votes(M,X,O,N),表示在第 N 种投票描述中，有M个选民支持X 排在第O位；candidate(1..L),表示总共有L名候选项；voters(X)表示一共有X位选民参与投票。与文献[8]中的回答集程序进行对比实验,比较picat程序和ASP程序的平均计算时间，时间单位为秒(s)。所有实验代码及实验数据已上传至github(https://github.com/Barnette-ao/picat)。
+
+在第一组实验中，候选项数量分别为5，10，15，20，单个测试用例的计算时间限制为60秒。因为picat内置了多种求解器：混合整数规划(MIP)，命题可满足性(SAT)，约束可满足性(CP)，本文分别用 ASP方法、picat 三种求解器的优化和非优化方法来计算slater获胜者。优化方法即本文介绍的方法，给定锦标赛 $T = ( C , P )$ ，构造加权锦标赛$T _ { \scriptscriptstyle w } = ( C _ { \scriptscriptstyle w } , P _ { \scriptscriptstyle w } )$ ，先求解加权锦标赛的slater获胜者，然后再递归求解由加权锦标赛的slater获胜者构成的子锦标赛的slater获胜者，该slater获胜者即锦标赛的slater获胜者；非优化方法则是，给定锦标赛 $T = ( C , P )$ ，求出与锦标赛差异最小的一个 $C$ 上的严格线性序列，其首项即为锦标赛T的slater获胜者。
+
+实验结果如表1\~2所示，求解方法名的后缀为0表示优化方法 slater_winner(算法 4)，后缀为1 表示非优化方法slater_winner_w(算法3)。表中“-”表示计算时间超出时间限制，结果表明：使用picat计算slater获胜者的优化方法比非优化的方法更有效(更少的平均时间和更少的超时实例数);picat 的三种方法中，SAT方法优于CP方法，CP方法优于MIP；另外，ASP(clingo5.2.2 htps:// github.com/ potassco/clingo/releases)方法仍然是这些方法中最有效的。
+
+表1各picat方法的平均计算时间对比
+
+Tab.1Comparison of the average computing time of   
+
+<html><body><table><tr><td colspan="5">each picat method</td></tr><tr><td rowspan="2">求解方法</td><td colspan="4">平均计算时间/s</td></tr><tr><td>C5</td><td>C10</td><td>C15</td><td>C20</td></tr><tr><td>Picat_SAT_0</td><td>0.0043</td><td>1.36</td><td>8.48</td><td>15.32</td></tr><tr><td>Picat_SAT_1</td><td>0.0090</td><td>7.81</td><td>25.58</td><td>57.89</td></tr><tr><td>Picat_CP_0</td><td>0.0005</td><td>3.77</td><td>15.24</td><td>14.66</td></tr><tr><td>Picat_CP_1</td><td>0.0011</td><td>55.87</td><td>-</td><td></td></tr><tr><td>Picat_MIP_0</td><td>0.0056</td><td></td><td></td><td></td></tr><tr><td>Picat_MIP_1</td><td>0.0110</td><td></td><td>-</td><td>-</td></tr></table></body></html>
+
+第二组实验，进一步探索比较 ASP(clingo)和 picat 的SAT优化方法以求解更多的候选项25、30、35、40、45和50，每个实例的求解时间限制为600秒，这两种方法的平均计算时间如图3所示，超出时间限制的实例的数量如图4所示。
+
+由图3可知，当候选项个数等于或者大于25时，ASP方法的平均计算时间多于Picat方法的平均计算时间。随着候选项个数的增多，ASP方法的平均计算时间也越来越长。而随着候选项个数的增加，picat方法的平均计算时间始终在 50 秒以下。由图4可知，当候选项的个数少于20时，ASP能够计算出更多的实例，当候选项的个数多于30时，picat能计算出更多实例。
+
+# 表2各picat方法的超时实例个数对比
+
+Tab.2Comparison of the number of timeout instances of   
+
+<html><body><table><tr><td colspan="5">each picat method</td></tr><tr><td rowspan="2">求解方法</td><td colspan="4">超时实例个数(总数为100)</td></tr><tr><td>C5</td><td>C10</td><td>C15</td><td>C20</td></tr><tr><td>Picat_SAT_0</td><td>0</td><td>0</td><td>0</td><td>9</td></tr><tr><td>Picat_SAT_1</td><td>0</td><td>0</td><td>0</td><td>10</td></tr><tr><td>Picat_CP_0</td><td>0</td><td>0</td><td>26</td><td>44</td></tr><tr><td>Picat_CP_1</td><td>0</td><td>0</td><td>100</td><td>100</td></tr><tr><td>Picat_MIP_0</td><td>0</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Picat_MIP_1</td><td>0</td><td>100</td><td>100</td><td>100</td></tr></table></body></html>
+
+![](images/23c2372ee5ed8d689b0f9467fda3f9c6e933049cb49f43fe62937cc8f9de374e.jpg)  
+图3picat_sat程序与ASP程序的平均计算时间对比Fig.3Comparison of the average computing time of picat_sa
+
+![](images/c979c450e4298534ce84a003568532d59cf2a3f6330acecd40b8d8f72b0d2f74.jpg)  
+图4picat_sat程序与ASP程序超时的实例数量对比  
+Fig.4Comparison of the number of instances of picat_sat_O program and ASP program timeout
+
+# 5 结束语
+
+本文对slater投票问题进行了分析，以picat方法实现文献[14]中提出的优化求解slater问题的算法，并证明了picat方法的正确性。实验结果表明，当候选项少于20时，ASP方法的计算效率和计算能力优于picat 方法，当候选项多于30时，picat的SAT方法计算效率和计算能力优于ASP方法。但本文方法的时间复杂度仍然较大，下一步将对其优化并计算其他投票策略的获胜者。
+
+# 参考文献：
+
+[1]Mattei N.Closing the loop: Bringing humans into empirical computational social choice and preference reasoning[C]// Proc of the   
+29th International Conference on International Joint Conferences on Artificial Intelligence (IJCAI 2021) .San Francisco:Margan Kaufmann,   
+2021:5169-5173. [2]Brandt F，Conitzer V,Endriss U，et al.Handbookof computational social choice [M]. Cambridge: Cambridge University Press,2016,1-20.   
+[3]Nardi O,Boixel A,Endriss U.A Graph-Based Algorithm for the Automated Justification of Collective Decisions [D] Amsterdam: University of Amsterdam， Institute for Logic,Languageand Computation (ILLC),2021.   
+[4]Hamm T,Lackner M,Rapberger A.Computing Kemeny Rankings from d-Euclidean Preferences [C]//Proc of the 7th International Conference on Algorithmic Decision Theory.Berlin: Springer,2021:147-161.   
+[5]Boussairi A,Chaichaa A,Chergui B,et al. Spectral Slater index of tournaments [J].The Electronic Journal ofLinear Algebra,2022(38):170-178.   
+[6]Brill M, Schmidt-Kraepelin U, Suksompong W.Margin of victory for tournament solutions [J].Artificial Intelligence,2022 (302):103600.   
+[7]Lampis M.Determining a Slater Winner is Complete for Parallel Access to NP [EB/OL].(2021-04-07) [2022-02-27].https://arxiv. org/pdf/2103. 16416. pdf   
+[8]Zhou Nengfa,Hakan K,Jonathan F.Constraint solving and planning with picat [M].Berlin: Springer, 2015: 1-33.   
+[9]Zhou Nengfa.Modeling and Solving Graph Synthesis Problems Using SAT-Encoded Reachability Constraints in picat [C]// Proc of the 37th International Conference on Logic Programming (ICLP),2021:165-178.   
+[10] De Haan R,Slavkovik M.Answer set programming for judgment aggregation [C]// Proc of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019) .Palo Alto,CA:AAAI Press,2019: 1668-1674.   
+[11]徐衔僭，王以松，冯仁艳．一种用于 slater与Kemeny 投票求解的 ASP 方法 [J].计算机工程，2019,45(09):198-203.(Xu Hengjian. Wang Yisong,Feng Renyan.An A-SP method for calculating slater and Kemeny voting [J].Computer Engineering,2019,45 (9):198-203.)   
+[12]徐珩僭.计算社会选择选举问题及其变形的描述性求解[D].贵州： 贵州大学,2019.(XuHengjian.An Descriptive solution of computational social choice ele-ction problem and its variants [D].Guizhou: Guizhou University,2019.)   
+[13] Bartak R.,Zhou Nengfa, Stern R,et al. Modeling and solving the multiagent pathfinding problem in picat [C]// Proc of the 29th International Conference on Tools with Artificial Intelligence (ICTAI) .Piscataway, NJ:IEEE Press,2017:959-966.   
+[14] Conitzer V. Computing slater rankings using similarities among candidates [C]// The 2lst Internation-al Conference on Artificial Intelligence and Soft Computing (ICAISC) .Palo Alto, CA: AAAI Press, 2006:613-619.   
+[15] Nurmi H,Kacprzyk J,Zadrozny S.Collective Decisions:Theory, Algorithms And Decision Support Systems [M].Berlin: Springer, 2022: 3-16.   
+[16] Govc D,Levi R,Smith JP.Complexes of tournaments,directionality filtrations and persistent homology [J]．Journal of applied and computational topology,2021,5(2): 313-337.   
+[17] Lemus J,Marshall G.Dynamic tournament design: Evidence from prediction contests [J].Journal of Political Economy,2021,129 (2): 383-420.   
+[18] Beretta L,Nardini F M,Trani R,et al.An Optimal Algorithm to Find Champions of Tournament Graphs [C]//Proc of the 26th International Symposium on String Processing and Information Retrieval.Berlin: Springer,2019:267-273.   
+[19] Baharev A,Schichl H,Neumaier A,et al.An exact method for the minimum feedback arc set problem [J].Journal of Experimental Algorithmics (JEA),2021 (26): 1-28.   
+[20] Bachmeier G,Brandt F,Geist C,et al.k-Majority Digraphs and the Hardness of Voting with a Constant Number of Voters[J].Journal of Computer and System Sciences,2019(105):130-157.

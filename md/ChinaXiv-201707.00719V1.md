@@ -1,0 +1,147 @@
+# 衣藻叶绿体表达重组蛋白及表达优化策略(修改 5)
+
+林优红 程霞英 严依雯 梁宗锁 杨宗岐\*（浙江理工大学生命科学学院，杭州310018）
+
+摘要：近年来，转基因技术已日趋成熟，医学、工业上的应用也越来越广泛。以重组蛋白为基础的药物治疗是日前医药生产领域发展最快的一项技术。它们的高特异性和低副作用使得治疗效率十分突出。但是重组蛋白表达的复杂性也给生产带来了一定限制。为了促进重组蛋白的应用，人们对适宜其表达的系统和能促进其表达的策略进行了探索。研究发现，衣藻叶绿体作为重组蛋白的生物反应器，能实现重组蛋白快速、高效、低成本生产。同时，衣藻能在人工培养基和人为控制的条件下生长，降低了受污染的风险。相较于传统的生产系统具有不可比拟的优越性。因此，衣藻叶绿体作为医药重组蛋白生物反应器在未来的生物技术领域将发挥巨大作用。
+
+关键词：重组蛋白；衣藻叶绿体；生物反应器；表达优化;
+
+# Expression and Optimization Strategy of Recombinant Proteins in Chlamydomonas Chloroplast
+
+LIN You-hong CHEN Xia-ying YAN Yi-wen LIANG Zong-suo YANG Zong-qi (College ofLife Science,Zhejiang Sci-Tech University,Hangzhou 31oo18,China)
+
+Abstract: In recent years,transgenic technology has developed rapidly,and it has found an increasingly wide utilization in medical and industrial fields.Drug therapy which based on recombinant proteins is the fastest growing technology in pharmaceutical production areas.Their high specificity and low side efect makes treatment effciency very prominent. However,the complexity of recombinant proteins synthesis also bring production to a certain restrictions.In order to promote the application of these recombinant proteins,expresson systems that fit it and strategies that can facilitate it were explored.Compared to other traditional production systems,the research found that Chlamydomonas chloroplast as a bioreactor has several incomparable advantages,it can achieve more rapidly, high yields,lower cost on the production ofrecombinant proteins,and can be grown in artificial medium and artificially controlled conditions,which reduce the risk of contamination.Through theapplication of some new techniques，synthesis of recombinant proteins has also been improved.Therefore，Chlamydomonas chloroplast will play a great role in the field of biotechnology in the futureas a recombinant proteins with pharmaceutical relevance bioreactor.In this article,the expression of recombinant proteins and the optimization strategies in Chlamydomonas chloroplast were reviewed.
+
+Keywords: Recombinant proteins; Algal chloroplast; Bioreactor; Optimization strategy; (修改 4)
+
+重组蛋白在医药、科学、工业等领域应用得越来越广泛，一系列表达系统也相继为人们所发现，目前开发较为成熟的包括细菌、酵母、昆虫、哺乳动物细胞以及许多种类植物[1]。每一种生产系统都有各自突出的表达优势，但也存在着一些局限性。近年来，以衣藻叶绿体作为重组蛋白生物反应器的研究越来越多。因其具有表达高效、易于操作、成本低廉等显著优势而愈发受到人们青睐。相比于传统表达系统，衣藻叶绿体具有自身独一无二的优势：衣藻可以在人为控制的封闭生物反应器中生长，生长环境易于控制，不仅降低了外界可能通过空气或者病毒传染污染物的风险，也避免了衣藻中转基因对外界环境的污染；其次，衣藻生长周期短，很容易进行规模化培养，从最初转化到大规模培养和蛋白表达仅需几周时间，相对于需要几个月甚至几年的高等植物来说具有明显优势；再者，衣藻作为单细胞生物，其体内蛋白积累种类少，大大简化了下游纯化处理工艺[2]。
+
+在重组蛋白表达方面，以叶绿体作为转化对象的积累量往往要高于核转化的积累量，因为叶绿体中没有基因沉默现象和由核基因编码蛋白阻碍重组蛋白表达的机制；并且外源基因能够以同源重组方式插入叶绿体基因组的特定位点，转化效率得以提高[3]。在遗传方面，叶绿体属于母性遗传，转入的外源基因可以直接传递给子代，对生物和环境安全[4]。在调控方面，叶绿体表达系统中无糖基化修饰现象，同时又具备折叠和组装复杂真核蛋白的能力和二硫键修饰功能。这对多数抗体的表达十分有利，对于一些治疗蛋白发挥其效用也是十分必要的[5]。
+
+目前，衣藻叶绿体已被证实是可以大规模、低成本生产重组蛋白的安全表达系统。其中，莱茵衣藻（Chlamydomonas reinhardtii）是用于表达重组蛋白最为广泛的受体藻种[5]。其培养条件简单、生长周期短、遗传背景清楚、光合效率高且具有许多与酵母相似的特性，因此又被誉为"光合酵母"[6]。
+
+# 1衣藻叶绿体转化原理
+
+莱茵衣藻作为衣藻叶绿体转化的模式生物，其叶绿体基因组已完成全部测序。基因组结构呈环状，全长 $2 0 3 3 9 5 \mathrm { b p } ^ { \mathrm { [ 7 ] } }$ ，包括了两个单拷贝区和两个反向重复序列。其中两个单拷贝区（80873bp 和78100bp）被两个反向重复序列（两者长度相近，约22211bp）分隔开，并且两个反向重复序列占了全序列的 $20 \%$ 以上。另外还有19500个短分散重复序列（SDRs）分散在整个基因组中[4]。这一显著的结构特征为叶绿体转化奠定了基础。
+
+莱茵衣藻叶绿体基因组中外源基因的转化采用同源重组方式,即通过与基因组反向重复序列互补配对的同源片段来实现外源基因在叶绿体基因组中的定点整合。同源重组片段、选择标记基因表达盒、外源目的基因及其启动子、终止子构成的表达盒等先构建到同一个表达载体上；选择标记基因主要是用于筛选转化成功的重组子；启动子和终止子来源于衣藻叶绿体基因组的特异调控序列，能被叶绿体RNA聚合酶识别，从而能有效避免外源基因表达沉默现象。表达载体构建完成后，运用高效的转化方法，例如基因枪法、玻璃珠转化法、电击转化法等，将表达载体导入叶绿体中。在同源片段指导下，外源基因可以顺利整合到叶绿体基因组的特定位点上。随着叶绿体基因组的复制和遗传，外源基因也随之表达。
+
+# 2衣藻叶绿体中重组蛋白的表达
+
+随着衣藻叶绿体表达系统的日益完善，近年来已有多种外源重组蛋白在衣藻叶绿体中成功表达，主要包括抗体，激素蛋白、疫苗抗原和报告基因蛋白等(表1)。
+
+# 表1衣藻叶绿体中表达的重组蛋白
+
+Tablel Expression of recombinant proteins in Chlamydomonas chloroplast
+
+<html><body><table><tr><td>时间</td><td>研究者</td><td>重组蛋白</td><td>应用</td><td>参考文献</td></tr><tr><td>1991</td><td>Goldschdmitclermont</td><td>氨基糖苷类腺嘌呤酶</td><td>报告基因</td><td>[8]</td></tr><tr><td>1999</td><td>Minko</td><td>海肾荧光素酶</td><td>报告蛋白</td><td>[9]</td></tr><tr><td>2002</td><td>Franklin</td><td>绿色荧光蛋白（GFP)</td><td>报告蛋白</td><td>[10]</td></tr><tr><td>2003</td><td>Sun Meng</td><td>O型口蹄疫病毒VP1抗原蛋白</td><td>药物</td><td>[三]</td></tr><tr><td>2004</td><td>Mayfield</td><td>luxCt荧光素酶</td><td>报告基因</td><td>[12]</td></tr><tr><td>2005</td><td>苏忠亮</td><td>别藻蓝蛋白</td><td>荧光蛋白</td><td>[13]</td></tr><tr><td>2006</td><td>杨宗岐</td><td>耐高温α淀粉酶</td><td>酶</td><td>[14]</td></tr><tr><td>2006</td><td>杨宗岐</td><td>人可溶性 TRAIL 蛋白</td><td>药物</td><td>[15]</td></tr><tr><td>2006</td><td>赵雅坤</td><td>人白细胞介素(hIL4)</td><td>药物</td><td>[16]</td></tr><tr><td>2008</td><td>Wang xiaofeng</td><td>人谷氨酸脱羧酶(hGAD65)</td><td>药物</td><td>[17]</td></tr><tr><td>2009</td><td>刘国宪</td><td>狂犬病毒疫苗</td><td>药物</td><td>[18]</td></tr><tr><td>2012</td><td>Gregory</td><td>pfs25 和 pfs28抗原蛋白</td><td>药物</td><td>[19]</td></tr><tr><td>2012</td><td>Tran</td><td>针对CD22抗体结构域和绿脓杆菌外毒素A酶活结</td><td>药物</td><td>[20]</td></tr><tr><td colspan="5">构域的免疫毒素</td></tr><tr><td>2013</td><td>Gregory</td><td>pfs25 抗原和霍乱毒素β亚基（CtxB）的融合蛋白</td><td>药物</td><td>[21]</td></tr><tr><td>2013</td><td>Demurtas</td><td>人类乳头瘤病毒（HPV）16 型E7癌蛋白的突变体</td><td>药物</td><td>[22]</td></tr><tr><td>2015</td><td>Barrera</td><td>骆驼VHH抗毒素蛋白</td><td>药物</td><td>[23]</td></tr><tr><td>2016</td><td>Ochoa-Méndez</td><td>抗血压蛋白</td><td>药物</td><td>[24]</td></tr><tr><td>2016</td><td>Beltran-Lopez</td><td>CTB 和ApoB100 的p210 抗原表位融合蛋白</td><td>药物</td><td>[25]</td></tr></table></body></html>
+
+衣藻叶绿体作为表达系统生产的各类治疗性蛋白中，以药物、疫苗的表达最为广泛。人谷氨酸脱羧酶（hGAD65）是目前治疗I型糖尿病的相关抗原。2008 年，Wang Xiaofeng 等[17]人首次尝试了在莱茵衣藻叶绿体中表达全长的自身抗原重组蛋白hGAD65。免疫杂交结果表明重组蛋白hGAD65成功表达并积累，表达量大约占叶绿体中可溶性蛋白的 $0 . 2 5 \substack { - 0 . 3 \% }$ ·ELISA检测和NOD小鼠脾细胞增殖实验结果显示衣藻叶绿体中表达纯化的hGAD65具有抗原性。这为在莱茵衣藻叶绿体中大规模生产低成本的hGAD65奠定了基础，也为I型糖尿病治疗带来了福音。
+
+2012年,Gregory等[19]人在莱茵衣藻叶绿体中表达了疟疾相关的抗原蛋白pfs25和pfs28。通过分析纯化后蛋白的结构和抗原性，pfs25 和pfs28 在结构上含有二硫键，而且接近于原始蛋白；表达蛋白在小鼠体内引发的抗体能够结合恶性虐原虫蛋白，表现一定的抗原性，能有效阻止疟疾传播。2013年，Demurtas 等[22]人在莱茵衣藻叶绿体中表达人类乳头瘤病毒（HPV）16型E7癌蛋白的突变体减毒蛋白E7GGG。E7蛋白存在于恶性转化细胞中，是生产HPV 相关病变或癌症疫苗的关键抗原。作者根据叶绿体密码子偏好性对抗原蛋白编码序列进行优化，与psbD 启动子、 $5 ^ { \circ }$ -UTR、psbA终止子、 $3 ^ { \circ }$ -UTR以及含 spec 抗性基因的表达盒、作为同源重组片段的内含子psaA序列构建表达载体并转入叶绿体表达。Westerm-blot检测结果表明重组蛋白成功表达且大多数是可溶的，表达量占细胞可溶性蛋白的 $0 . 1 2 \%$ 。同时，实验还设计了两组亲和标记对照 E7GGG-FLAG和 E7GGG-His6。通过提取叶绿体表达产物并注射免疫小鼠以及用肿瘤细胞感染小鼠试验，比较亲和纯化后的重组蛋白和未加工修饰的重组蛋白在诱导小鼠产生特异E7抗体和E7特异T细胞增殖方面的能力，发现减毒抗原蛋白不管是纯化后还是未纯化，都能保护小鼠抵抗肿瘤侵染。
+
+莱茵衣藻作为一种真核单细胞藻类，其中叶绿体约占细胞总体积的 $70 \%$ 。与细菌等原核表达系统不同，叶绿体中含有一系列的伴侣蛋白、二硫键异构酶和脯氨酸异构酶，从而使得疫苗抗原等复杂蛋白都能在其体内表达并具备可溶性和抗原性[20]。目前，医药领域中治疗性蛋白的生产成本都较为昂贵，莱茵衣藻的人工培养条件简单，生长周期短，大大降低了生产成本。上述分析也表明莱茵衣藻叶绿体是表达生产病毒抗原蛋白的有效平台。（修改2)
+
+衣藻叶绿体因具有真核性而能够表达积累复杂真核蛋白，并对其进行正确折叠、组装，但翻译系统的原核性又为其生产新蛋白，如免疫毒素，提供了一个独特的平台[5]。2012年，Tran 等[20]人将针对CD22（B细胞表面的一个抗原表位）的抗体结构域和绿脓杆菌外毒素A的酶活结构域融合，在衣藻叶绿体中表达了可溶性的单体和二聚体蛋白免疫毒素。根据分子和免疫活性检测，两种形式的蛋白在叶绿体中均成功表达积累，而且能在体外有效结合并杀死B 淋巴瘤细胞。无论是单体还是二聚体形式的毒素，均能保护被注入人类B细胞瘤的小鼠，并延长其寿命。2015年，Barrera 等[23]人尝试表达了含有骆驼 $\mathrm { V _ { H } H }$ 抗毒素不同结构域，能够中和肉毒杆菌神经毒素的抗毒素药物。通过对转化叶绿体中目的基因、重组抗体积累量、抗体中和抗原能力、细胞活性以及小鼠中完整抗毒素的检测，结果表明此药物能以可溶性蛋白形式正确折叠表达，表达量约占可溶性蛋白总量的 $4 . 6 \%$ ；并且具有中和BoNT/A和保护小鼠主要神经细胞免受毒素干扰的能力；口服喂养小鼠后，在小鼠的胃和小肠中仍能保持完整性。
+
+上述研究结果表明衣藻叶绿体中表达的免疫毒素能在体外有效结合并阻止靶细胞增殖，揭示了衣藻叶绿体表达系统可成为替代大肠杆菌等原核表达系统的新平台。此外值得一提的是，衣藻叶绿体内没有糖基化机制，因而不会对免疫毒素的抗原性和半衰期产生影响[23]。由于许多重要的药物蛋白都需要经过复杂折叠和二硫键形成等加工才具备治疗活性，而在以细菌为基础的生产平台上是无法实现的，衣藻叶绿体表达系统恰好为此提供了合适的表达场所[5]。（修改2)
+
+以衣藻叶绿体作为药物蛋白生产系统，其下游工艺几乎不需要进行纯化处理。在此基础上，一些口服型疫苗蛋白也相继被开发出来，为现代医疗提供了极大便利。2013年，Gregory等[21]人在莱茵衣藻叶绿体中融合表达了pfs25抗原蛋白和霍乱毒素β亚基（CtxB)，霍乱毒素β亚基（CtxB）作为粘膜免疫佐剂。通过对融合蛋白CtxB-pfs25分析，发现CtxB具备在肠上皮细胞内结合神经节苷脂GM1的能力；另外，以冻干衣藻饲喂小鼠检测融合蛋白免疫原性。结果显示CtxB-pfs25 能够引发CtxB特异的IgG 抗体生成及CtxB、pfs25 两者都特异的IgA 抗体生成。虽然 pfs25特异的IgG 抗体未形成，但CtxB-pfs25融合蛋白也能被特异单抗所识别并有效阻断疟疾传播。2016年，Ochoa-Méndez 等[24]人首次构建了含抗血压药物（AHP）序列的莱茵衣藻叶绿体表达载体，并导入衣藻叶绿体中表达。最后检测结果显示，藻株中重组蛋白最高表达量可达到干重的 $2 9 . 2 \%$ ；通过饲喂患有严重高血压的小鼠，发现其血压明显下降。Beltran-Lopez等[25]人构建了霍乱毒素B亚基(CTB)和载脂蛋白-b(ApoB 100)p210 抗原表位的融合表达载体，试图在莱茵衣藻叶绿体中表达特定的针对动脉粥样硬化的口服疫苗。p210 抗原表位能够引发动脉粥样硬化免疫应答反应；CTB作为一种强大的粘膜佐剂，承担着对p210 抗原表位的载体功能。结果显示，CTB:p210 蛋白的表达量在每克鲜重中达到60微克；口服喂养BALB/c 小鼠，ELISA试验证实小鼠血清中存在抗p210的抗体。
+
+莱茵衣藻不属于粮食作物，以此作为表达系统生产口服型疫苗蛋白不会占用适合作物生长的土地，因此也不会造成外源基因由衣藻向粮食作物的转移；其次，作为一种单细胞藻类，衣藻能更集中地聚集能量用于药物蛋白生产而不会分散至根、茎、叶等组织结构；此外，衣藻可在人工控制条件下实现大规模生长，既能保护衣藻自然种群免受其它转基因的意外转移又能有效降低疫苗的生产成本[23]。因此，莱茵衣藻叶绿体是表达口服型疫苗蛋白的良好选择。(修改2)
+
+通常，原核表达系统如大肠杆菌等不能正确折叠抗体片段或全长抗体这类复杂蛋白，这样得到的蛋白需要进行再折叠或二硫键形成等过程才能使其具有生物活性[5]。衣藻叶绿体具有折叠和组装复杂真核蛋白的能力，是作为药物蛋白表达系统的良好选择。但是需要注意的是，这些药物蛋白在临床应用前仍需进行更加深入的研究，以确保不会产生有害副作用[5]。
+
+# 3通过叶绿体基因工程体提高新陈代谢产物含量(修改3)
+
+衣藻叶绿体生产重组蛋白的优势越来越得到认可。人们逐渐把目光转移到是否能利用叶绿体表达系统生产新陈代谢途径相关代谢物上。2013年，Chen 等[26]人以 $C r C p A D H I$ 为外源目的基因，分别与rbcL启动子、终止子以及其编码序列前90个核苷酸构建表达盒；再将表达盒插入中间载体同源重组片段psaB-tRNAG-rbcL之间，构建了含有CrCpADHl基因的表达载体并将其导入莱茵衣藻叶绿体中表达。（修改6）结果发现不仅目的蛋白在叶绿体中得以有效积累，而且在生长基质中还检测到乙醇生成。由此推测目的蛋白可能作为叶绿体新陈代谢途径中的转基因酶而发挥作用。另外，胞质中生成的代谢产物乙醛可以扩散至叶绿体内，为乙醇的生产提供了代谢底物。
+
+2015年，Gangl等[27]人将外源基因CYP79A1插入载体PASapI上构成表达载体，导入衣藻叶绿体中使其表达细胞色素P450，表达产物能有效整合至类囊体膜上。细胞色素P450 作为一种末端加氧酶，参与双萜类化合物的生物合成。虽然细胞色素P450也参与叶绿体中胡萝卜素的生物合成，但其在叶绿体内含量比较低，在胡萝卜素合成需要时才予以表达。通过在叶绿体内稳定表达和积累P450s，可以为植物叶绿体新陈代谢产物有效积累提供工程酶。（修改7）
+
+衣藻叶绿体不仅可作为表达重组蛋白的生物反应器，还可以通过叶绿体基因工程提高新陈代谢过程中的代谢产物量。目前有研究报告表明利用衣藻生物反应器可有有效生产包括维生素、胡萝卜素、油脂、生物塑料以及生物燃料（氢气、脂肪酸等）等次生代谢产物[28]。尤其是通过衣藻叶绿体基因工程生产油脂和生物燃料可以为人类提供一条解决能源危机的新途径[28]。（修改8)
+
+# 4衣藻叶绿体转化和表达的策略
+
+随着对衣藻叶绿体转化研究的深入，如何提高衣藻叶绿体转化效率和外源基因表达水平已经成为了该领域的研究热点，一些新方法和策略也不断涌现。
+
+# 4.1模块化处理简化克隆程序
+
+衣藻叶绿体转化过程中，表达载体的设计和构建对转化效率至为关键，克隆程序也较为繁琐。Bertalan 等[29]人通过一种快速、模块化的手段，使克隆程序大大简化。（修改9）在以莱茵衣藻叶绿体为受体转化外源基因MPT64 的研究中，Bertalan构建了一个包含选择标记基因 $p s b A ( p s b A$ 是光合自养基因，在受体藻株的psbA被敲除后，重组子能够进行光合自养）、同源片段以及含有BsaI识别序列的多克隆位点的质粒pMM2。（修改10）模块化的形式即是利用5'末端带有BsaI酶切位点的引物将目的基因、5'端启动子、3'端终止子、标记基因等扩增而形成类似于模块化的片段，再使这些片段与经BsaI酶切开的pMM2质粒之间进行连接，实现了克隆程序的极大简化。
+
+# 4.2替代部分同源重组序列，提高目的蛋白表达量 (修改11)
+
+Manuell等[30]人此前在叶绿体中表达人单克隆抗体，其积累量只能达到可溶性蛋白的$0 . 5 \%$ 。但是，在对牛乳腺相关血清淀粉样蛋白（M-SAA）的研究中发现，以叶绿体内源psbA基因序列作为表达载体的同源重组片段，再通过设计酶切位点将目的基因表达盒插入同源重组片段之上，即替代掉部分同源重组序列。如此可将重组蛋白表达量提高到可溶性蛋白总量的 $5 \%$ 。（修改12）进一步研究分析表明内源psbA基因和对应mRNA的存在会和外源基因产生竞争机制，从而限制重组蛋白的表达。某些情况下也可能是由于psbA基因的表达产物所引起的反馈机制导致。
+
+# 4.3基因融合表达，增加目的蛋白的积累（修改13）
+
+目前大多数衣藻叶绿体遗传转化表达的是外源基因编码的单一蛋白质。Muto 等[31人发现基因融合表达能显著提高重组蛋白积累水平。因为莱茵衣藻叶绿体中表达的许多外源蛋白积累量都显著低于内源蛋白含量。因此，他们将重组蛋白luciferase 的编码序列和叶绿体内源rbcL基因（编码RubiscoLSU）进行融合表达。（修改14）结果发现融合表达量要远高于单一外源蛋白的表达量，并且发现敲除内源rbcL基因后表达量更高。这可能是因为敲除rbcL基因之后，融合蛋白的RubiscoLSU成为了整合进Rubisco 全酶的唯一来源，从而促进了外源基因更高效表达。同时考虑到融合蛋白的临床和商业价值比较低，他们还对外源重组蛋白设计了可切割位点，便于下游纯化操作。
+
+# 4.4采用叶绿体内源性强启动子，在转录水平上提高重组蛋白表达量（修改15）
+
+叶绿体基因的表达调控主要发生在转录、加工、翻译和翻译后水平。转录水平调控主要由启动子强度决定，强启动子可以显著提高目的基因的转录频率和外源基因表达量。目前，在衣藻叶绿体基因工程中常用的内源性高效启动子主要有atpA，psbA，psaB，psbD 等。
+
+Ishikkura 等[32]人采用莱茵衣藻叶绿体中组成型rbcL、psbA、atpA三种基因启动子，构建了启动子rbcL-uidA、psbA-uidA 和atpA-uidA三种外源基因表达框,研究不同启动子对 uidA基因的转录调控水平。表达框成功导入到莱茵衣藻叶绿体基因组中。实验结果显示，atpA启动子的转录水平最佳，GUS蛋白表达量达到可溶性总蛋白的 $0 . 0 8 \%$ ；rbcL启动子的效果次之；psbA作为启动子几乎检测不到重组蛋白活性。
+
+除了选择强启动子之外，也可以选择mRNA上各异的UTRs和外源基因编码区融合，在翻译水平上提高重组蛋白表达量。Barmes 等[33]人以GFP作为外源报告基因，分别与不同基因（rbcL、psbA、atpA、psbD）的 $5 ^ { \circ }$ -UTR和 $_ { 3 } ,$ -UTR融合表达。通过检测mRNA水平和蛋白含量发现， $5 ^ { \circ }$ -UTR对外源蛋白和mRNA水平积累的影响比 $_ { 3 } ,$ -UTR更大，其中又以atpA、psbD作为 $5 ^ { \circ }$ -UTR的调控效果较好，rbcL和psbA作为 $5 ^ { \circ }$ -UTR 表达蛋白的水平较弱；而$3 ^ { \circ }$ -UTR几乎不起作用，它可能与维持mRNA结构稳定性、协助转录终止等过程有关。此外，RNA结合蛋白和 $5 ^ { \circ }$ -UTR、 $3 ^ { \circ }$ -UTR之间的相互作用对蛋白翻译和转录子稳定性也非常重要。
+
+# 4.6衣藻叶绿体内源基因5’编码区也可提高外源基因表达量
+
+在探索叶绿体基因编码区对外源蛋白表达方面的作用时,Kasai等[34]人以uidA为报告基因，与莱茵衣藻叶绿体 rbcL、psbA、atpA、psbD 四个基因编码区的不同长度分别构建了多个载体。各载体的终止子都为rbcL，启动子和5’、3'-UTR分别和四个基因对应。根据mRNA和蛋白水平的检测结果，发现rbcL基因编码区构建的载体中，编码序列越长，mRNA的水平就越高，蛋白水平也越高；rbcL中的编码序列会增强rbcL启动子活性，mRNA水平、蛋白水平和转录活性呈现出正相关性；以psbA构建的载体中，大致与rbcL的变化类似，编码序列对mRNA的积累有积极作用，其中 $+ 1 \mathrm { - } + 6 0$ 区域对转录活性很重要；相较于上述两个基因的编码区，在以atpA为基础构建的载体中，编码序列对基因表达表现出不必要性，mRNA和蛋白水平之间也没有呈现出相关性；而以psbD 构建的载体中，编码序列对 mRNA水平完全没有影响。尽管对编码序列是如何增强启动子活性的机制还未知，可能是以顺式元件的方式发挥作用，增强了转录起始，抑或是促进了转录的延伸，但从研究结果来看，编码区对基因表达确实存在着一定的影响作用。
+
+# 4.7优化外源基因密码子，提高表达量
+
+上述表达载体中的启动子、编码区以及UTRs序列会对表达量产生影响，目的基因序列本身对重组蛋白的表达调控也有着重要作用[35]。一般来说，外源基因序列的编码要根据转化系统表达的高通量蛋白的序列偏好性来优化，叶绿体转化多倾向于A或T；Wu Shuangxiu等[36]人在衣藻叶绿体中表达来源于大豆根瘤菌的亚铁螯合酶 hemH基因和大豆的豆血红蛋白 lba 基因。结果发现经过人工优化合成的hemH-lba融合基因的表达量比没有优化的hemH-lba融合基因高6.8倍。而且表达的hemH-lba融合蛋白表现出很好的生物活性，优化hemH-lba融合基因衣藻叶绿体转化子的产 $\mathrm { H } _ { 2 }$ 量和呼吸速率比非优化衣藻转化子分别高 $22 \%$ 和 $44 \%$ ，比野生型阴性对照分别高 $45 0 \%$ 和 $134 \%$ 。实验结果进一步证明了密码子偏好性对基因在莱茵衣藻叶绿体中的表达具有重要调控作用。
+
+除了对提高衣藻叶绿体转化效率和表达量的研究，近年来也出现了一些试图对转化后阶段进行优化的实验技术。2013年，Johnson[37使用了实时荧光定量PCR技术，检测外源基因是否整合到莱茵衣藻叶绿体基因组中以及外源基因在叶绿体中的同质化程度。相对southem-blot来说，此法更加简便快速；而且对了解影响最初异质化程度的因素、如何有效实现异质化到同质化的转变、追踪细胞交配过程中基因组转化等问题也有很大帮助，同时该技术也可以应用于转基因分子检测。2016年，Zedler等[38]人对转化了CYP79A1和TPS4的莱茵衣藻进行试点规模化培养，为进一步扩大工业化生产创造良好的条件。通过一系列检测分析，包括对培养基营养代谢物，菌株自身特性（色素含量、同质化程度、干重、吸光度等)以及所合成的重组蛋白的检测，探索在所设置培养条件下衣藻各类生理指标的变化。实验发现在试点规模化培养条件下，细胞壁缺陷型衣藻在整个生长期都能在叶绿体中稳定表达重组目的蛋白，并且它们在混合营养条件下生长的更快、更好。
+
+# 5存在的问题
+
+衣藻叶绿体生物反应器虽然与其他生物反应器相比有很多显著的优点，但是仍然存在一些缺陷，而且仅在过去几年间这些技术和策略才被应用于衣藻叶绿体基因工程高效表达具有重要经济价值的药用蛋白质[2]。（修改16）而如何提高目的蛋白的表达量以及下游纯化工艺的优化仍是未来迫切需要解决的问题。此外，同质化水平、翻译后修饰、核基因表达产物以及培养条件等这些对重组蛋白产量有重要影响的因素也需要进行更深入的分析和探究。
+
+比如在同质化问题上，叶绿体基因组拷贝数众多，而外源基因经同源重组只能与部分叶绿体基因组发生整合，这就导致叶绿体在转化时会产生异质体。虽然目前通过一些技术，如抗生素筛选，能提高同质化程度，但仍然无法保证外源基因能与所有的基因组发生定点整合。在翻译后修饰方面，虽然大多数重组蛋白在衣藻叶绿体表达系统中能进行正确折叠，但叶绿体中没有糖基化修饰机制，这可能对需要进行糖基化修饰的蛋白发挥其效用产生一定的影响。在外界环境的影响方面，有文献报道称叶绿体基因组的表达对外界环境刺激很敏感，外界环境变化对叶绿体中外源基因的表达有很大的影响[4]。
+
+# 6展望
+
+随着近几年分子生物学技术的迅速发展，人们对衣藻叶绿体表达系统生产重组蛋白的转录、翻译和调控机制有了更深入的研究和了解，这又改善和促进了衣藻中表达重组蛋白的方法和技术的发展。（修改17）衣藻叶绿体作为生物反应器表达重组蛋白具有其它表达系统不具备的独特优点，尤其是衣藻的生长条件易于人工控制，低成本条件下就能实现规模化表达和生产具有重要药用价值的蛋白质，为人类医药的发展和疾病治疗提供了新的表达平台和途径[1,2]。以重组蛋白为基础的治疗蛋白生产是目前医药研究领域的一大热点。在莱茵衣藻叶绿体中表达具有治疗效用的重组异质蛋白已基本得以实现，技术日趋成熟。目前国内外许多实验室利用衣藻叶绿体都成功表达出了各种来源于细菌或病毒的药用蛋白，相信不久将来以衣藻叶绿体作为生物反应器生产疫苗蛋白、抗体蛋白以及口服型药物等重要医药蛋白质将实现质的飞跃[28]。（修改18)
+
+# 参考文献
+
+[1] Mayfield S P,Manuell A L,Chen S,et al. Chlamydomonas reinhardtiichloroplasts as protein factories [J]. Current Opinion in Biotechnology,2007,18 (2): 126-133.   
+[2] Specht E,Miyake-Stoner S,Mayfield S.Micro-algae come of age as a platform for recombinant protein production [J].Biotechnology Letters,2010,32 (10):1373-1383.   
+[3]Bock R. Plastid biotechnology:prospects for herbicide and insect resistance，metabolic enginering and molecular farming [J]. Current Opinion in Biotechnology,2007,18 (2): 100-106.   
+[4]韩四海，胡章立，王潮岗．外源基因在莱茵衣藻叶绿体中的表达 [J].生物技术通报,2007,(1):89-94. Han S H, Hu Z L，Wang C G.Exppession of foreign genes in Chlamydomonas reinhardtii chloroplast [J].Biotechnology Bulletin,2007,(1): 89-94. [5] Rasala B A,Mayfield S P. Photosynthetic biomanufacturing in green algae; production of recombinant proteins for industrial, nutritional,and medical uses [J]. Photosynthesis Research,2015,123 (3): 227-239.   
+[6] Rochaix JD. Chlamydomonas reinhardtiias the photosynthetic yeast[J].Annual Review of Genetics,1995, 29 (1): 209-230.   
+[7] Maul JE,Lilly JW, Cui L,et al. The Chlamydomonas reinhardti plastid chromosome: islands of genes in a sea of repeats [J]. Plant Cell,2002,14 (11): 2659-2679.   
+[8]Goldschmidtclermont M. Transgenic expression of aminoglycoside adenine transferase in the chloroplast: a selectable marker of site-directed transformation of Chlamydomonas [J]. Nucleic Acids Research,1991,19 (15): 4083-4089.   
+[9]Minko I, HollowayS P,Nikaido S,et al. Renilla luciferase as a vital reporter for chloroplast gene expression in Chlamydomonas [J].Molecular Genetics and Genomics,1999,262 (3): 421-425.   
+[10] Franklin S,Ngo B,Efuet E,et al.Development of a GFP reporter gene for Chlamydomonas reinhardti chloroplast [J]. Plant Journal, 2002,30 (6): 733-744.   
+[11] Sun M, Qian K, Su N,et al.Foot-and-mouth disease virus VP1 protein fused with cholera toxin B subunit expressed in Chlamydomonas reinhardtiichloroplast [J]. Biotechnology Letters,2003,25 (13): 1087-1092. [12] Mayfield SP,Schultz J. Development of a luciferase reporter gene,luxCt, for Chlamydomonas reinhardtii chloroplast [J]. Plant Journal, 2004,37 (3): 449-458.   
+[13] 苏忠亮．一种抗肿瘤蛋白基因在衣藻叶绿体中的重组与表达 [D].浙江大学,2005.   
+Su Z L. The Recombination and heterogeneous expression of an anti-tumor gene in the chloroplast of Chlamydomonas reinhardti [D].Zhejiang University, 2005.   
+[14] 杨宗岐，李轶女，张志芳，等来源于 Pyrococcus furiosus 的耐高温 $\mathbf { \alpha } _ { \mathbf { a } } .$ -淀粉酶基因在衣藻叶绿体中的表 达[J].生物工程学报,2006,22(4):545-549.   
+Yang Z Q,Li Y N, Zhang Z F,et al. Expression of the gene coding for a thermostable $\mathbf { a }$ -amylase from Pyrococcus furious in Chlamydomonas reinhardtiichloroplast [J].Chinese Journal of Biotechnology,20o6,22 (4): 545-549.   
+[15] 杨宗岐,李轶女，陈凤，等人可溶性 TRAIL 蛋白在衣藻叶绿体中的表达 [J].科学通报,2006,51(12): 1400-1405.   
+Yang Z Q,Li YN, Chen F,et al. Expression of human soluble TRAIL protein in Chlamydomonas reinhardti chloroplast [J]. Chinese Science Bulletin, 2006,51(12): 1400-1405.   
+[16] 赵雅坤，史贤明，张忠明．人白细胞介素4在衣藻叶绿体中的高效转化及表达[J].华中农业大学学报, 2006,25 (2): 110-116.   
+Zhao Y K,Shi X M, Zhang Z M. Efficient Transformation and expression of Human Interleukin-4 in Chlamydomonas reinhardtii chloroplast[J].Journal of Huazhong Agricultural University,2006,25 (2):110-116. [17] Wang X，Brandsma M， Tremblay R，et al.A novel expression platform for the production of diabetes-associated autoantigen human glutamic acid decarboxylase (hGAD65)[J]. BMC Biotechnology,2008, 8 (1): 87.   
+[18] 刘国宪．狂犬病G,N抗原基因在衣藻叶绿体中的定点重组和表达 [D]．首都师范大学,2009.   
+Liu G X. Site-specific Recombination and expresson of rabies virus G and N antigentic genes in chloroplast of Chlamydomonas reinhardti [D]. Capital Normal University,20o9.（修改1）   
+[19] Gregory JA,LiF,Tomosada L M,et al.Algae-Produced Pfs25Elicits Antibodies That Inhibit Malaria Transmission [J]. PLoS ONE,2012,7 (5): e37179.   
+[20]Tran M,Van C,Barrera DJ,et al. Production of unique immunotoxin cancer therapeutics inalgalchloroplasts [J].Proceedings of the National Academy of Sciences,2012,110(1): E15-E22.   
+[21] Gregory JA,Topol A B,Doerner D Z,et al. Alga-Produced Cholera Toxin-Pfs25 Fusion Proteins as Oral Vaccines [J]. Applied & Environmental Microbiology,2013,79 (13): 3917-3925.   
+[22] Demurtas O C,Mass S,Ferrante P, et al. A Chlamydomonas-derived Human Papillomavirus 16 E7 vaccine induces specific tumor protection [J]. PloS ONE,2013,8 (4): e61473.   
+[23] Barrera D J, Rosenberg JN, Chiu JG, et al.Algal chloroplast produced camelid $\mathrm { V _ { H } H }$ antitoxins are capable of neutralizing botulinum neurotoxin [J]. Plant Biotechnology Journal, 2015,13 (1): 117-124.   
+[24] Ochoa-Méndez CE,Lara-Hernandez I, Gonzalez L M,et al. Bioactivity of an antihypertensive peptide expressed in Chlamydomonas reinhardti [J]. Journal of Biotechnology,2016,240: 76-84.   
+[25] Beltran-LpezJI, Romero-MaldonadoA,Monreal-Escalante E,et al. Chlamydomonas reinhardtiichloroplasts express an orally immunogenic protein targeting the p210 epitope implicated in atherosclerosis immunotherapies [J]. Plant Cell Reports,2016,35 (5): 1133-1141.   
+[26] Chen H-CMelis A. Marker-free genetic engineering of the chloroplast in the green microalga Chlamydomonas reinhardtii[J]. Plant Biotechnology Journal,2013,11(7): 818-828.   
+[27] Gangl D,Zedler JA, Wodarczyk A,et al.Expression and membrane-targeting of anactive plant cytochrome P450 in the chloroplast of the green alga Chlamydomonas reinhardti [J]. Phytochemistry,2015,110: 22-28. [28]Almaraz-DelgadoAL,Flores-Uribe J,Pérez-Espana VH,etal.Production of therapeutic proteins in the chloroplast of Chlamydomonas reinhardtii [J]. AMB Express, 2014, 4: 57.   
+[29] Bertalan I, Munder M C,WeiB C,et al. A rapid, modular and marker-free chloroplast expresson system for the green alga Chlamydomonas reinhardtii[J]. Journal of Biotechnology,2015,195: 60-66.   
+[30] Manuell A L, Beligni M V, Elder JH,et al. Robust expression of a bioactive mammalian protein in Chlamydomonas chloroplast [J]. Plant Biotechnology Journal, 2007,5 (3): 402-412.   
+[31] Muto M, Henry R E, Mayfield S P.Accumulation and processing of a recombinant protein designed as a cleavable fusion to the endogenous Rubisco LSU protein in Chlamydomonas chloroplast[J]. BMC Biotechnology, 2009, 9: 26.   
+[32] Ishikura K,Takaoka Y,Kato K,et al. Expressionofa foreign gene in Chlamydomonas reinhardtiichloroplast [J].JBiosci Bioeng,1999,87 (3): 307-314.   
+[33] Barnes D,Franklin S, Schultz J,et al. Contribution of ${ 5 ^ { \prime } } .$ and $3 ^ { \prime } { \mathrm { . } }$ -untranslated regions of plastid mRNAs to the expression of Chlamydomonas reinhardtiichloroplast genes [J]. Molecular Genetics and Genomics,2005,74 (6): 625-636.   
+[34] Kasai S, Yoshimura S, Ishikura K,et al. Efect of coding regions on chloroplast gene expresson in Chlamydomonas reinhardtii[J]. JBiosci Bioeng,2003,95 (3): 276-282.   
+[35] Surzycki R,Greenham K, Kitayama K,et al. Factors effecting expression of vaccines in microalgae [J]. Biologicals,2009,37 (3): 133-138.   
+[36] Wu S, Xu L, Huang R,et al. Improved biohydrogen production with an expression ofcodon-optimized hemH andlbagenes in the chloroplast of Chlamydomonasreinhardtii[J].Bioresource Technology，2011，102 (3): 2610-2616.   
+[37] Johnson E A.Monitoring foreign gene incorporation into the plastome of Chlamydomonas reinhardtii by multiplex qPCR[J]. Photosynthesis Research,2013,115 (1): 81-87.   
+[38] Zedler JA Z,Gangl D,Guerr T,etal.Pilot-scale cultivation of wall-eficient transgenic Chlamydomonas reinhardti strains expressng recombinant proteins in the chloroplast[J]. Applied Microbiology and Biotechnology, 2016,100 (16): 7061-7070.

@@ -1,0 +1,160 @@
+绞股蓝内生真菌JY25胞外多糖对蛋雏鸡生长性能和肠黏膜免疫功能的影响焦志强」王雪琴」张慧茹1\*兰亚莉²
+
+（1.河南工业大学生物工程学院，郑州450000；2.河南省农业科学院畜牧兽医研究所，郑州450002)
+
+摘要：试验旨在探讨绞股蓝内生真菌JY25胞外多糖（JY25P）对蛋雏鸡生长性能和肠黏膜免疫功能的影响。将300羽健康的1日龄三黄蛋雏鸡，随机分为5组（每组设3个重复，每个重复 20 羽)：I组为灌服无菌水的空白对照组；ⅡI组、组和IV组分别为灌服 $0 . 0 4 \%$ 、$0 . 0 8 \%$ 和 $0 . 1 2 \%$ JY25P的试验组；V组为灌服 $0 . 0 8 \%$ 黄芪多糖的阳性对照组。结果表明：1)与I组相比，IV组蛋雏鸡平均日增重显著提高了 $1 5 . 8 6 \%$ ( $P { < } 0 . 0 5 )$ ，料重比极显著降低了$2 4 . 1 3 \%$ ( $P { < } 0 . 0 1$ )。2）试验各阶段，IⅢ组、IV组、 $\mathrm { \Delta V }$ 组均能显著提高蛋雏鸡血清中新城疫抗体效价 $. P { < } 0 . 0 5$ )。3)在15 日龄和20 日龄，IV组可以极显著增加肠黏膜白细胞介素-4(IL-4)、干扰素 $\mathbf { \Sigma } - \mathbf { \Sigma } \boldsymbol { \gamma }$ （ $\mathrm { I F N } { - } \gamma$ ）含量（ ${ \cdot } P { < } 0 . 0 1$ ），而对分泌型免疫球蛋白A（SIgA）和IFN-γ/IL-4的影响不显著（ ${ \cdot } P { > } 0 . 0 5$ ）。结果提示：灌服 $0 . 1 2 \%$ JY25P 能改善蛋雏鸡的生长性能，提高特异性新城疫抗体效价，增强非特异性肠黏膜IL-4 和 IFN-γ 的分泌，同时维持机体的免疫平衡，因此，该多糖具有较好的应用前景。
+
+关键词：JY25胞外多糖；蛋雏鸡；生长性能；肠黏膜免疫；新城疫抗体效价中图分类号：S816.7 文献标识码：A文章编号：1006-267X（2016）00-0000-00
+
+真菌多糖（fungus polysaccharide）是指从真菌的子实体、菌丝体及发酵液中分离出的，由10 个以上单糖以糖苷键结合而成的天然高分子聚合物，因其具有较强的免疫活性而引起人们广泛的关注[1]。胞外真菌多糖与植物多糖相比，除了不受季节、地域、病虫害和生长周期的限制外，还具有易于分离、可连续发酵等优势，同时具有高效、无毒、提高免疫力、抗菌抗病毒、无残留等特点，已然成为国内外学者研究的热点之一[2]。真菌多糖作为新型的绿色饲料添加剂，可以制成颗粒饲料或者以粉剂形式混合在饲料中使用。研究表明，真菌多糖应用在饲料中可以调整并维持肠道菌群平衡、增强机体免疫力、促进畜禽生长发育，在养殖业中有着广泛的应用[3]。刘金海等[4]研究表明香菇多糖应用在饲料中可以提高肉鸡的生长性能和饲料转化率，并且可以提高肉鸡免疫器官指数，增强免疫力。王小琼等[5研究表明灌服40 mg/kg 灵芝多糖，可以加快爱拔益加（AA）肉鸡抗体的产生速度，还可以显著提高机体产生抗体的水平，明显改善机体的免疫能力。药用植物内生真菌作为一种新型微生物资源，其产生的胞外真菌多糖在畜禽饲料上的应用尚未见报道。因此，本试验将绞股蓝内生真菌JY25 胞外多糖（JY25P）应用在蛋雏鸡饲养试验中，以研究其对蛋雏鸡生长性能和肠黏膜免疫功能的影响，为JY25P 作为绿色饲料添加剂在蛋雏鸡生产上的应用提供科学依据。考虑到本试验周期较短、鸡只小、采食量不稳定等，为保证多糖的摄入量，试验采用灌服的饲喂方式。
+
+1材料与方法
+
+# 1.1 试验设计
+
+选取 300羽健康的1日龄三黄蛋雏鸡，育雏到6日龄开始试验。试鸡随机分为5组，每组设3个重复，每个重复20羽：I组为空白对照组；Ⅱ组、组和IV组为灌服鸡体重 $0 . 0 4 \%$ 、$0 . 0 8 \%$ 和 $0 . 1 2 \%$ JY25P的试验组；V组为灌服鸡体重 $0 . 0 8 \%$ 黄芪多糖的阳性对照组。每天08：00 进行灌服，试验期 $1 5 { \mathrm { d } }$ 。鸡只按常规方法进行饲养管理和防疫消毒。
+
+# 1.2 试验材料与饲粮组成
+
+三黄雏鸡购自漯河市阳光禽业有限公司；黄芪多糖（ $70 \%$ ）购自生泰尔生物科技集团;JY25P 是由河南工业大学生物工程学院生理实验室保藏的专利菌种JY25（专利号：JN180937.1）发酵液中制取的多糖，多糖含量为 $6 9 . 4 4 \%$ ；分泌型免疫球蛋白A（SIgA）、白细胞介素-4（IL-4)、干扰素-γ（ $\mathrm { I F N } { - } \gamma$ ）ELISA 试剂盒购于博兴生物科技有限公司。
+
+蛋雏鸡饲料为PQ-2018 蛋鸡花型（ $_ { 1 \sim 2 1 }$ 日龄)，购自河南广安（集团）生物科技股份有限公司。基础饲粮组成及营养水平见表1。
+
+表1基础饲粮组成及营养水平 (风干基础)  
+Table1 Composition and nutrient levels of the basal diet (air-dry basis) %   
+
+<html><body><table><tr><td>项目Items 含量Content</td></tr><tr><td>原料Ingredients</td></tr><tr><td>玉米Corn 62.000</td></tr><tr><td>小麦麸 Wheat bran 3.200</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td>豆粕 Soybean meal</td></tr><tr><td>豆油 Soybean oil 1.000</td></tr><tr><td>磷酸氢钙 CaHPO4 1.300</td></tr><tr><td>石粉Limestone 1.200</td></tr><tr><td>食盐 NaCl 0.300</td></tr><tr><td>多维 Multi-vitamin1) 0.200</td></tr><tr><td>微量元素 Trace element2) 0.024</td></tr><tr><td>氯化胆碱 Choline choride 0.776</td></tr><tr><td>合计 Total 100.000</td></tr><tr><td>营养水平 Nutrient levels3)</td></tr><tr><td>代谢能 ME/(MJ/kg) 12.83</td></tr><tr><td>粗蛋白质CP 18.39</td></tr><tr><td>粗纤维CF 3.05</td></tr><tr><td>粗灰分 Ash 2.83</td></tr><tr><td>钙Ca 0.81</td></tr><tr><td>总磷TP 0.61</td></tr><tr><td>氯化钠 NaCl 0.30</td></tr><tr><td>蛋氨酸 Met 0.30</td></tr><tr><td>赖氨酸Lys 0.90</td></tr></table></body></html>
+
+1 为每千克饲粮提供 Provided the following per $\mathrm { k g }$ of the diet: $\mathrm { C u } 1 0 \mathrm { m g }$ ， $\mathrm { 1 0 . 7 5 m g }$ ，Fe $1 0 0 ~ \mathrm { { m g } }$ ，Mn 60 mg，Se $0 . 3 ~ \mathrm { m g }$ ， $\mathrm { { Z n 9 0 } \ m g }$ 。
+
+2 为每千克饲粮提供 Provided the following per $\mathrm { k g }$ of the diet: VA 10 000 IU, $\mathrm { V D } _ { 3 } \ 3 \ 5 0 0$ IU, VE $3 0 ~ \mathrm { m g }$ ，VK $1 . 5 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 2 . 9 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 6 . 4 ~ \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 2 . 5 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 5 ~ \mathrm { m g }$ ，生物素biotin $0 . 0 8 \mathrm { m g }$ ，叶酸 folic acid 1.0mg，泛酸 pantothenic acid $1 2 . 0 \mathrm { m g }$ ，烟酸nicotinic acid $3 5 ~ \mathrm { m g }$ ，乙氧喹啉 ethoxyquin $2 0 0 ~ \mathrm { { m g } }$ 。
+
+3）代谢能为计算值，其余为实测值。ME was a calculated value,while the others were measured values.
+
+# 1.3 测定指标及测定方法
+
+# 1.3.1 生长性能
+
+试验期间详细记录各组鸡只的日采食量。试验第5、10、15天，对禁食 $1 2 \mathrm { ~ h ~ }$ 后的鸡群空腹称重，计算各组蛋雏鸡的平均日增重（ADG）、平均日采食量（ADFI）和料重比（F/G)。
+
+# 1.3.2 免疫功能
+
+试验第5、10、15天，每个重复随机选取3只蛋雏鸡，检测特异性新城疫抗体效价以及肠道黏膜 SIgA、IL-4 和 IFN-γ含量，以此反映JY25P 对机体免疫功能的影响。
+
+新城疫抗体效价：翅静脉采血，分离血清，按照国标GB/T16550—2008新城疫诊断技术，采用微量血凝抑制试验检测新城疫抗体效价，用以代表机体特异性免疫水平。
+
+小肠黏膜 SIgA、IL-4 和 IFN- $\cdot \gamma$ 含量测定：取十二指肠后、空肠前约 $3 \mathrm { c m }$ 的肠道，称取质量，刮取肠黏膜，用 $2 { \mathrm { m L } }$ 含 $0 . 0 1 \mathrm { m m o l / L }$ 苯甲基磺酰氟（PMSF）的磷酸缓冲盐溶液（pH7.4）漂洗， $5 0 0 0 ~ \mathrm { r / m i n }$ 离心 $5 \mathrm { m i n }$ 收集上清液，分别按 SIgA、IL-4 和 IFN- $\cdot \gamma$ ELISA 试剂盒说明书操作，检测单位质量小肠黏膜中 SIgA、IL-4 和 IFN- $\cdot \gamma$ 的含量，并计算 IFN-γ/IL-4，以衡量机体非特异性免疫水平。
+
+# 1.4 数据统计分析
+
+试验数据用 SPSS19.0 统计分析软件进行单因素方差分析（one-way ANOVA)，并用Duncan 氏法进行多重比较， $P { < } 0 . 0 5$ 为差异显著， $P { < } 0 . 0 1$ 为差异极显著。试验结果以"平均值±标准误"表示。
+
+# 2结果与分析
+
+# 2.1JY25P对蛋雏鸡生长性能的影响
+
+由表2可知，灌服JY25P对蛋雏鸡的ADG、ADFI和F/G生长性能有不同程度的影响。与I组相比， $1 1 { \sim } 1 5$ 日龄，IV组ADG 显著提高了 $7 . 6 1 \%$ ( $_ { _ { P < 0 . 0 5 } ) }$ ； $1 6 { \sim } 2 0$ 日龄，ⅡI组、IⅢ组和IV组ADG分别提高了 $2 0 . 4 3 \%$ 、 $1 5 . 4 6 \%$ 和 $2 9 . 0 1 \%$ ( $_ { \cdot \cdot P < 0 . 0 5 }$ ），且Ⅱ组、组和IⅣ组组间差异不显著（ $. P { > } 0 . 0 5 \ '$ )。与Ⅰ组相比，16\~20日龄， $\mathrm { I I }$ 组、II组和V组显著提高蛋雏鸡ADFI（ $P { < } 0 . 0 5 \rangle$ )。与I组相比，I组和IⅣ组在 $6 \sim 1 0$ 日龄和 $1 1 { \sim } 1 5$ 日龄，极显著降低 F/G（ $P { < } 0 . 0 1$ ）， $\mathrm { I V }$ 组在 $1 6 { \sim } 2 0$ 日龄极显著降低 F/G（ $_ { - P < 0 . 0 1 }$ ）。从全期来看，JY25P对蛋雏鸡各项生长性能的促进，以IV组效果最好。与I组相比，IV组在 $6 { \sim } 2 0$ 日龄，平均末重提高了 $1 0 . 8 9 \%$ （ $\scriptstyle \cdot { \cal P } \ll 0 . 0 5 .$ ），ADG提高了 $1 5 . 8 6 \%$ ( $P { < } 0 . 0 5 \$ ），F/G降低了 $2 4 . 1 3 \%$ ( $_ { \scriptstyle P < 0 . 0 1 }$ ），表明JY25P效果优于黄芪多糖。
+
+表2JY25P对蛋雏鸡生长性能的影响  
+Table 2Effects of JY25P on growth performance of laying chicks   
+
+<html><body><table><tr><td>日龄</td><td colspan="6"></td></tr><tr><td></td><td>组别</td><td>平均初重 Average</td><td>平均末重 Average</td><td>平均日增重</td><td>平均日采食量</td><td></td></tr><tr><td>Days of</td><td></td><td></td><td></td><td></td><td></td><td>料重比F/G</td></tr><tr><td></td><td>Groups</td><td>initial weight/g</td><td>end weight/g</td><td>ADG/g</td><td>ADFI/g</td><td></td></tr><tr><td>age</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>6~10</td><td>I</td><td>45.05±0.32</td><td>71.35±0.35</td><td>5.26±0.28ab</td><td>14.25±0.13Aa</td><td>2.71±0.03Aa</td></tr><tr><td>日龄</td><td>II</td><td>46.00±0.12</td><td>72.35±0.31</td><td>5.27±0.15ab</td><td>11.55±0.08ABab</td><td>2.19±0.04Bb</td></tr><tr><td>6 to 10</td><td>ⅢI</td><td>46.50±0.17</td><td>69.55±0.28</td><td>4.61±0.20b</td><td>9.60±0.17Bb</td><td>2.08±0.02Bb</td></tr><tr><td>days of</td><td>IV</td><td>44.50±0.29</td><td>72.35±0.46</td><td>5.57±0.37a</td><td>11.48±0.11ABab</td><td>2.06±0.01Bb</td></tr><tr><td>age</td><td>V</td><td>45.20±0.19</td><td>69.30±0.30</td><td>4.82±0.23b</td><td>13.63±0.22Aa</td><td>2.83±0.03Aa</td></tr><tr><td>11~15</td><td>I</td><td>71.35±0.35</td><td>109.43±1.01</td><td>7.62±0.14b</td><td>22.71±0.27a</td><td>2.98±0.05Aa</td></tr><tr><td>日龄</td><td>I</td><td>72.35±0.31</td><td>111.64±2.46</td><td>7.86±0.23ab</td><td>19.29±0.16b</td><td>2.45±0.04ABbc</td></tr><tr><td>11 to 15</td><td>ⅢI</td><td>69.55±0.28</td><td>109.86±2.32</td><td>8.06±0.15ab</td><td>18.21±0.35b</td><td>2.26±0.03Bc</td></tr><tr><td>days of</td><td>IV</td><td>72.35±0.46</td><td>113.36±1.77</td><td>8.20±0.32a</td><td>17.19±0.33b</td><td>2.10±0.07Bc</td></tr><tr><td>age</td><td>V</td><td>69.30±0.30</td><td>112.07±1.64</td><td>8.55±0.27a</td><td>22.95±0.41a</td><td>2.68±0.06ABab</td></tr><tr><td>16~20</td><td>I</td><td>109.43±1.01</td><td>153.75±2.15b</td><td>8.86±0.23b</td><td>25.25±0.57b</td><td>2.85±0.05Aab</td></tr><tr><td>日龄</td><td>I</td><td>111.64±2.46</td><td>165.00±3.03ab</td><td>10.67±0.45a</td><td>29.13±0.83a</td><td>2.73±0.03Aab</td></tr><tr><td>16 to 20</td><td>ⅢI</td><td>109.86±2.32</td><td>161.00±2.18ab</td><td>10.23±0.57a</td><td>28.63±0.39a</td><td>2.80±0.07Aab</td></tr><tr><td>days of</td><td>IV</td><td>113.36±1.77</td><td>170.50±3.45a</td><td>11.43±0.43a</td><td>26.13±0.73b</td><td>2.29±0.05Bb</td></tr><tr><td>age</td><td>V</td><td>112.07±1.64</td><td>160.00±3.13ab</td><td>9.59±0.29ab</td><td>30.50±0.47a</td><td>3.18±0.08Aa</td></tr><tr><td>6~20</td><td>I</td><td>45.05±0.32</td><td>153.75±2.15b</td><td>7.25±0.28c</td><td>20.74±0.45ab</td><td>2.86±0.04Aa</td></tr><tr><td>日龄</td><td>II</td><td>46.00±0.12</td><td>165.00±3.03ab</td><td>7.93±0.45b</td><td>19.99±0.73ab</td><td>2.52±0.05ABab</td></tr><tr><td>6 to 20</td><td>ⅢI</td><td>46.50±0.17</td><td>161.00±2.18ab</td><td>7.63±0.37bc</td><td>18.81±0.41b</td><td>2.46±0.05ABab</td></tr><tr><td>days of</td><td>IV</td><td>44.50±0.29</td><td>170.50±3.45a</td><td>8.40±0.41a</td><td>18.27±0.35b</td><td>2.17±0.04Bb</td></tr><tr><td>age</td><td>V</td><td>45.20±0.19</td><td>160.00±3.13ab</td><td>7.65±0.25bc</td><td>22.36±0.26a</td><td>2.92±0.06Aa</td></tr></table></body></html>
+
+同列数据肩标相同字母或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著， $( P { < } 0 . 0 1 )$ 。下表同。
+
+In the same column, values with the same or no leter superscripts mean no significant diference ( $\scriptstyle \sum \lceil P > 0 . 0 5 \rceil$ ）， while with different small letter superscripts mean significant difference ( $\scriptstyle \sum 0 . 0 5$ ),and with different capital letter superscripts mean significant difference ( $\scriptstyle \phantom { = } \phantom { = } \left( P < 0 . 0 1 \right.$ ). The same as below.
+
+# 2.2JY25P对新城疫抗体效价的影响
+
+由表3可知，在试验各阶段，与I组相比，I组、IⅣ组和V组均能显著提高蛋雏鸡血清中新城疫抗体效价（ $. P { < } 0 . 0 5 )$ ，且在20日龄时，分别提高了 $9 . 4 7 \%$ 、 $1 4 . 3 2 \%$ 和 $1 0 . 5 7 \%$ 。由此可见，JY25P对蛋雏鸡新城疫抗体效价的影响与黄芪多糖相当。
+
+able 3Effects of JY25P on Newcastle disease antibody titer of laying chicks   
+
+<html><body><table><tr><td>组别</td><td>10日龄10</td><td>15日龄15</td><td>20日龄20</td></tr><tr><td>Groups</td><td>days of age</td><td>days of age</td><td>days of age</td></tr><tr><td>I</td><td>4.39±0.18b</td><td>4.67±0.12b</td><td>4.54±0.16b</td></tr><tr><td>II</td><td>4.57±0.11a</td><td>4.76±0.24ab</td><td>4.64±0.21b</td></tr><tr><td>Ⅲ</td><td>4.78±0.17a</td><td>5.12±0.22a</td><td>4.97±0.21a</td></tr><tr><td>IV</td><td>4.62±0.21a</td><td>5.27±0.26a</td><td>5.19±0.11a</td></tr><tr><td>V</td><td>4.69±0.07a</td><td>4.98±0.14a</td><td>5.02±0.17a</td></tr></table></body></html>
+
+# 2.3JY25P对蛋雏鸡肠黏膜免疫功能的影响
+
+由表4可知，试验各阶段，JY25P 和黄芪多糖对蛋雏鸡肠黏膜 SIgA 的分泌影响均不显著 $( P { > } 0 . 0 5 )$ 。与I组相比，10 日龄，JY25P 对蛋雏鸡肠黏膜IL-4含量影响不显著（ $( P { > } 0 . 0 5 )$ ：但15日龄，IV组和V组IL-4含量分别提高了 $2 . 3 6 \%$ 和 $2 . 4 6 \%$ ( $P { < } 0 . 0 1 \$ )；20日龄，II组和IV组IL-4含量分别提高了 $2 . 9 7 \%$ 和 $2 . 6 9 \%$ ( $_ { _ { P < 0 . 0 1 } }$ )。由此可见，随着灌服时间的增加，II组和IV组的灌服剂量能逐步提高蛋雏鸡肠黏膜中IL-4的含量。
+
+与I组相比，10 日龄，JY25P对蛋雏鸡肠黏膜 $\mathrm { I F N } _ { - \gamma }$ 含量影响不显著（ $. P { > } 0 . 0 5 )$ ，随着灌服时间增加，对 IFN-γ 的促进作用日益明显。15日龄， $\mathrm { I V }$ 组 $\mathrm { I F N } { - } \gamma$ 含量提高了 $2 . 3 8 \%$ （ $P { < } 0 . 0 1 \ \cdot$ )；20日龄，I组和IV组 $\mathrm { I F N } { - } \gamma$ 含量分别提高了 $2 . 5 6 \%$ 和 $2 . 8 6 \%$ （ $_ { | P < 0 . 0 1 \rangle }$ 。由此可见，IV组的灌服剂量对提高蛋雏鸡肠黏膜中 $\mathrm { I F N } { - } \gamma$ 含量的效果最好。
+
+与I组相比，在15日龄和20日龄时，V组显著降低了蛋雏鸡肠黏膜IFN-γ/IL-4( $P { < } 0 . 0 5 )$ ），而JY25P在各试验期对IFN-γ/IL-4影响不显著（ $. P { > } 0 . 0 5$ ）。
+
+表4JY25P对蛋雏鸡肠道黏膜 SIgA、IL-4和IFN-γ含量的影响
+
+Table 4 Effects of JY25P on SigA,IL-4 and $\mathrm { I F N } { - } \gamma$ in intestinal mucosal of laying chicks   
+
+<html><body><table><tr><td rowspan="2">日龄 Days of</td><td colspan="3"></td><td rowspan="2">干扰素-γ</td><td rowspan="2">白细胞介素-4/干扰</td></tr><tr><td>组别 Groups</td><td>分泌型免疫球蛋白A</td><td>白细胞介素-4</td></tr><tr><td>age</td><td></td><td>SIgA/(ng/mL)</td><td>IL-4/(ng/mL)</td><td>IFN-γ/(ng/mL)</td><td>素-γ IFN-γ/IL-4</td></tr><tr><td>10日龄</td><td>I</td><td>4.279±0.031</td><td>4.190±0.016</td><td>5.006±0.016</td><td>1.195±0.004ab</td></tr><tr><td>10 days</td><td>I</td><td>4.289±0.013</td><td>4.225±0.038</td><td>4.980±0.015</td><td>1.179±0.009b</td></tr><tr><td>of age</td><td>IⅢ</td><td>4.232±0.032</td><td>4.154±0.032</td><td>5.012±0.020</td><td>1.207±0.010ab</td></tr></table></body></html>
+
+# ChinaXiv合作期刊
+
+<html><body><table><tr><td></td><td>IV</td><td>4.291±0.036</td><td>4.071±0.019</td><td>4.974±0.015</td><td>1.222±0.009a</td></tr><tr><td></td><td>V</td><td>4.242±0.031</td><td>4.128±0.057</td><td>5.018±0.006</td><td>1.216±0.018a</td></tr><tr><td></td><td>I</td><td>4.254±0.017</td><td>4.236±0.032Bb</td><td>5.007±0.016Bc</td><td>1.182±0.012a</td></tr><tr><td>15日龄</td><td>I</td><td>4.233±0.038</td><td>4.273±0.009ABab</td><td>5.078±0.000ABab</td><td>1.188±0.002a</td></tr><tr><td>15 days</td><td>Ⅲ</td><td>4.224±0.027</td><td>4.264±0.011ABab</td><td>5.068±0.013ABab</td><td>1.189±0.006a</td></tr><tr><td>of age</td><td>IV</td><td>4.231±0.039</td><td>4.336±0.014Aa</td><td>5.126±0.006Aa</td><td>1.182±0.005a</td></tr><tr><td></td><td>V</td><td>4.252±0.017</td><td>4.340±0.012Aa</td><td>5.045±0.020ABbc</td><td>1.162±0.007b</td></tr><tr><td></td><td>I</td><td>4.341±0.031</td><td>4.281±0.013Bb</td><td>4.997±0.008Bb</td><td>1.167±0.005a</td></tr><tr><td>20日龄</td><td>II</td><td>4.293±0.020</td><td>4.287±0.009Bb</td><td>4.981±0.015Bb</td><td>1.162±0.005ab</td></tr><tr><td>20 days</td><td>ⅢI</td><td>4.336±0.003</td><td>4.408±0.021Aa</td><td>5.125±0.012Aa</td><td>1.163±0.007ab</td></tr><tr><td>of age</td><td>IV</td><td>4.381±0.007</td><td>4.396±0.024Aa</td><td>5.140±0.016Aa</td><td>1.169±0.008a</td></tr><tr><td></td><td>V</td><td>4.323±0.018</td><td>4.361±0.018ABab</td><td>5.053±0.016ABab</td><td>1.159±0.005b</td></tr></table></body></html>
+
+# 3讨论
+
+# 3.1JY25P对蛋雏鸡生长性能的影响
+
+研究表明，在畜禽饲粮中添加多糖对增进动物食欲、促进动物生长均有良好的效果。多糖主要通过促进肠道的发育，增加肠道内有益菌群的数量，提高营养物质的吸收利用效率，起到加快蛋白质的合成、促进生长的作用，从而改善动物的生长性能[]。葛红霞等[7研究表明饲粮中添加 $0 . 3 \%$ 姬松茸多糖可使AA肉鸡 ADG 提高 $6 . 4 9 \%$ ，ADFI提高 $3 . 6 8 \%$ ，F/G 降低$3 . 1 1 \%$ ，饲料报酬得到提高，这与本试验结果一致。本试验结果表明，灌服 $0 . 1 2 \%$ JY25P对提高蛋雏鸡生长性能的效果较好，优于黄芪多糖，可能原因是黄芪多糖为植物多糖，与真菌多糖促进机体的生长机制有一定差异，加之两者在能发挥作用的结构基团上可能有一些差别，使得2种多糖在促进生长性能方面有一定的差异性。
+
+# 3.2JY25P对蛋雏鸡新城疫抗体效价的影响
+
+新城疫抗体效价是反映鸡体对新城疫病毒抵抗能力的指标，也反映鸡体特异性体液免疫能力[8]。刘国庆等[9]研究表明饲粮中添加 $0 . 8 \%$ 的灵芝多糖可使艾维茵雏鸡新城疫抗体效价提高 $4 . 8 0 \%$ 。本试验中，与空白对照组相比，在20日龄时，IⅢI组、IV组、V组新城疫抗体效价分别提高了 $9 . 4 7 \%$ 、 $1 4 . 3 2 \%$ 和 $1 0 . 5 7 \%$ ，与灵芝多糖对鸡新城疫抗体效价的作用一致。此外，本试验研究结果证实，JY25P 和黄芪多糖对蛋雏鸡新城疫抗体效价的影响效果相当，而黄芪多糖中的有效成分可刺激机体的免疫系统，使机体的免疫功能始终处在较高的活性状态，从而延长B淋巴细胞抗体的分泌能力，延缓抗体滴度下降速度，提高新城疫抗体水平[10]。
+
+因此，笔者认为JY25P可以提高蛋雏鸡的特异性免疫性能和抵抗疾病的能力。
+
+# 3.3JY25P对蛋雏鸡肠黏膜免疫功能的影响
+
+肠黏膜的抗体主要是 SIgA，由于其存在于黏液中，能够阻止病原菌的入侵，发挥特异性免疫作用，所以黏膜免疫也称为 SIgA免疫[]。IL-4 主要由辅助性T淋巴细胞2（Th2 细胞）产生的特征性细胞因子，其主要作用于B淋巴细胞，抑制辅助性T淋巴细胞1（Th1 细胞）产生细胞因子，是一种有效的抗炎因子，能够增强体液免疫水平[12]。IFN-γ 主要由 Th1和自然杀伤（NK）等细胞产生，可以诱导细胞表达白细胞介素－2（IL-2）受体，从而使T淋巴细胞获得刺激而迅速增殖，提高细胞免疫应答水平[13]。通过 IFN-γ/IL-4 值的变化了解辅助性T 淋巴细胞（Th细胞）的分化情况，可判断机体 Th1细胞和 Th2 细胞对细胞免疫和体液免疫的调节是否处于相对平衡的状态[14]。
+
+本试验结果显示：在试验初期，JY25P 对蛋雏鸡肠道黏膜 IL-4 和 IFN-γ 含量变化影响不显著。但随着灌服时间的增加，灌服 $0 . 1 2 \%$ JY25P表现出激活并促进Th2细胞分泌IL-4的作用，从而提高蛋雏鸡肠道黏膜的体液免疫水平；同时，提高了肠道黏膜中 IFN-γ 的含量，增强了抗原递呈细胞与T淋巴细胞的作用，诱发细胞IL-2受体的表达，促进T淋巴细胞增殖，提高蛋雏鸡肠黏膜的细胞免疫应答水平。除此之外，JY25P 对蛋雏鸡肠黏膜 IFN-γ/IL-4均没有显著影响，这说明 JY25P 能同时刺激 Th1与 Th2亚群细胞，使机体的体液免疫和细胞免疫都得到增强，同时又维持了机体体液免疫和细胞免疫的动态平衡。
+
+4结论
+
+$\textcircled{1}$ JY25P 能显著提高蛋雏鸡 ADG，降低 F/G，改善其生长性能，从而降低蛋雏鸡饲养成本、提高经济价值。
+
+$\textcircled{2}$ JY25P 通过提高蛋雏鸡新城疫抗体效价，增加特异性免疫功能进而提高机体抗病能力；并通过促进蛋雏鸡肠道黏膜分泌IL-4和 $\mathrm { I F N } { - } \gamma$ ，提高机体体液免疫和细胞免疫水平，同时维持肠道黏膜免疫平衡，促进机体的非特异性免疫。
+
+参考文献：
+
+[1]连瑞丽,李宇伟,李存法.真菌多糖免疫增强剂在养禽生产中的研究与应用[J].江西农业学报,2013,25(2):73-75.
+
+[2]包怡红,梁雪,李锐达,等.产胞外多糖酵母菌株的筛选鉴定及发酵产糖[J].微生物学 报,2010,50(2):278-283.
+
+[3]赵英.绿色饲料添加剂的研究现状及发展前景[J].饲料广角,2012(11):31-33.
+
+[4]刘金海,陈承祯,文力正,等.红酒香菇多糖对肉鸡生长性能及抗病力的影响[J].安徽农业科
+
+学,2009,37(14):6441-6442.
+
+[5]王小琼,张志军,李淑芳,等.灵芝多糖提取物对鸡免疫水平的影响[J].饲料研究,2011(6):33-34.
+
+[6]刘瑞平,邱光忠,钟云平,等.肉仔鸡日粮中添加枸杞多糖的效果试验[J].江西饲 料,2013(3):1-2,6.
+
+[7]葛红霞,汉丽梅.姬松茸多糖对 AA 肉鸡生产性能的影响[J].当代畜牧,2014(4):35-36.
+
+[8]贾玉臣,陈庆森.生物活性肽对肠黏膜免疫调节作用的研究进展[J].食品科学,2009,30(21):409-415.
+
+[9]刘国庆,徐桂英,徐洪清,等.灵芝多糖对肉鸡免疫效果的影响[J].动物科学与动物医学,2003,20(11):57-58,67.
+
+[10]王虹玲,刘丹丹,姜诗文,等.复合微生态制剂与黄芪多糖对肉鸡生长性能、肠道菌群和免疫功能的影响[J].饲料添加剂,2014,35(6):10-14.
+
+[11]乔海博,谷新利,朱晓庆.复方中药多糖对鸡新城疫疫苗免疫效果的影响[J].石河子大学学报：自然科学版,2012,30(6):700-703.
+
+[12]胡志和,刘传国,李娜,等.牛乳铁素对几种免疫细胞因子的影响[J].食品科学,2010,31(17):245-249.
+
+[13]TAKAHASHI I.Mucosal immune system:the second way of the host defense[J].Nihon Rinsho.Japanese Journal of Clinical Medicine,2O07,65:102-108.
+
+[14]PERDIGON G,AIVAREZ S,DE MACIAS N M E,et al.The oral administration of lactic acid bacteria increases the mucosal intestinal immunity in response to enteropathogens[J].Journal of Food Protection,1990,53(5):404-410.
+
+Effects of Extracellular Polysaccharide Extracted from Gynostemma pentaphyllum Endophytic   
+Fungi JY25 on Growth Performance and Intestinal Mucosa Immune Function in Laying Chicks JIAO Zhiqiang1WANG Xueqin1ZHANG Huiru1\* LAN Yali² (1. College of Biological Engineering,Henan University of Technology, Zhengzhou 450000, China; 2. Institute of Animal Husbandry and Veterinary Science, Henan Academy of Agricultural Sciences, Zhengzhou 450002, China)
+
+Abstract: The experiment was to investigate the effects of extracelllar polysaccharide extracted from Gynostemma pentaphyllum endophytic fungi JY25 (JY25P for short） on the growth performance and immunologic function in the intestinal mucosa of laying chicks. Three hundred healthy one-day-old Sanhuang laying chicks were randomly divided into 5 groups with 3 replicates in each group and 2O chicks per replicate. Chicks in the blank control group (groupI) were drenched with sterile water,and in group I，III and $\mathrm { I V }$ were drenched with $0 . 0 4 \%$ $0 . 0 8 \%$ and $0 . 1 2 \%$ JY25P respectively, while in group $\mathrm { \Delta V }$ (positive control） were drenched with $0 . 0 8 \%$ Astragalus polysaccharide. The results showed as follows: 1) compared with group I ,the average daily gain in group $\mathrm { I V }$ was significantly improved by $1 5 . 8 6 \%$ 0 $( P { < } 0 . 0 5 )$ and the feed/gain in group $\mathrm { I V }$ was extremely significantly reduced by $2 4 . 1 3 \%$ 0 $_ { \scriptstyle P < 0 . 0 1 }$ ); 2）during all periods of the experiment, the serum Newcastle disease antibody titer in group II, $\mathrm { I V }$ and $\mathrm { \Delta V }$ was significantly increased ( $( P { < } 0 . 0 5 )$ ; 3） at 15 and 2O days of age,the contents of interleukin-4 (IL-4) and interferon- $\cdot \gamma$ (IFN-γ) in intestinal mucosal of chicks in group $\mathrm { I V }$ were extremely significantly increased $( P { < } 0 . 0 1 )$ ，while the secretory immunoglobulin A(SIgA） content or the proportion of IFN- $\gamma$ to IL-4 was not changed significantly $( P { > } 0 . 0 5 )$ .The conclusion is that chicks drenched with $0 . 1 2 \%$ JY25P get excellent performances on growth and Newcastle disease antibody titer, and $0 . 1 2 \%$ JY25P can enhance the secreted contents of IL-4 and $\mathrm { I F N } { - } \gamma$ ，which represented non-specific immune function in intestinal mucosal, and also maintain the body's immune balance. Thus it can be seen that JY25P has the potential application prospect.
+
+Key words: JY25 exopolysaccharides; laying chicks; growth performance； intestinal mucosal immunity; Newcastle disease antibody titer

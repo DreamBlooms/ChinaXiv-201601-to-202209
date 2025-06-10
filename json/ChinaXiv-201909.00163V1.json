@@ -1,0 +1,593 @@
+[
+    {
+        "type": "text",
+        "text": "内蒙古高原等地湖泊表层沉积物孢粉与植被覆盖度定量关系研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "陈东雪},²，王维²，刘立娜¹²，姜亚娟²，李岩岩1,2，牛志梅¹²，马玉贞³，何江1,²（1内蒙古大学生态与环境学院,内蒙古呼和浩特010021;2内蒙古大学环境地质研究所,内蒙古呼和浩特010021;3北京师范大学环境演变与自然灾害教育部重点实验室、地表过程与资源生态国家重点实验室,北京100875)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：过去植被覆盖度重建在长尺度气候模拟和陆地生态环境演变机制研究等方面具有重要意义。基于现代过程的孢粉一植被覆盖度转换函数研究，可为利用孢粉地层数据重建过去植被覆盖度变化提供一条新的途径。以内蒙古高原等地39个湖泊和7个水库中心的表层沉积物孢粉组合与归一化植被指数(NDVI)为研究对象，利用加权平均偏最小二乘法(WA-PLS）、局部加权加权平均法(LWWA)和最佳类比法(MAT)分别建立了孢粉—NDVI转换函数;通过留一交叉检验法、自助法和空间自相关性等检验，筛选出最优模型并应用于古地层孢粉数据，实现定量重建过去植被覆盖度变化。结果表明：MAT和WA-PLS模型均受到空间自相关性的显著影响，而LWWA模型则是建立孢粉—NDVI转换函数的最优模型。与已有类似转换函数表现能力的对比表明，本研究建立的转换函数具有较强的可靠性和应用潜力。基于本研究转换函数重建的内蒙古辉腾锡勒(HTL)区域全新世植被覆盖变化与孢粉重建的植被变化具有很好的一致性，进一步印证了本研究转换函数的较强潜力，均表现出对降水变化的响应更为显著。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关 键词：内蒙古高原；湖泊表层沉积物；孢粉组合；植被覆盖；归一化植被指数；转换函数",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "地表植被覆盖变化通过地表反照率和温室效应等机制，对地球气候系统能量转化和物质迁移产生重要作用[1-2]。地质历史时期地表植被覆盖变化可为气候模拟提供边界条件，帮助揭示过去气候变化的规律和机制[3]。利用化石孢粉组合数据可有效重建过去地表植被覆盖，而现代孢粉一植被覆盖转换函数关系的研究是利用化石孢粉重建过去植被覆盖的前提和基础，具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "随着近几十年来亚洲北方现代孢粉数据的与日俱增，研究者开展了一系列现代孢粉一植被覆盖转换函数关系研究，并定量重建了中国北方区域尺度的植被覆盖[4-7]。然而,已有研究多以表土孢粉为研究对象，然而表土在孢粉源区、沉积过程、保存等方面与湖泊岩芯沉积物差别较大[8-9];因而将表土孢粉组合的研究成果应用到湖泊沉积物来重建过去植被覆盖变化的工作具有较大的不确定性。湖泊中心表层沉积物孢粉在源区、沉积过程、保存等方面与湖泊岩芯沉积物相似,具有区域代表性[8-10],其孢粉一植被覆盖转换函数在湖泊岩芯孢粉植被覆盖重建中具有较大潜力。内蒙古高原位于我国北方季风边缘区，现代气候和植被分布变化梯度大[],各类型湖泊分布较多，为研究湖泊表层沉积物孢粉一植被覆盖转换函数提供了可能。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "利用遥感技术能够快速、大范围的获取植被光谱信息，建立与植被覆盖度的定量关系，用于指示植被变化[12]。归一化植被指数（Normalized DifferenceVegetationIndex,NDVI)等于近红外波段的反射值与红光波段的反射值之差比上两者之和，即（NIR-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$R ) / ( N I R + R )$ ，其中NIR为近红外波段的反射值， $R$ 为红光波段的反射值[13],具有削弱大气辐射和交叉辐射影响、对植被生长变化响应敏感、准确反映植被变化等优点[14-15]。CHOUDHURY等[16]和GILLIES等[17]对植被覆盖度和 NDVI关系的研究也表明NDVI能够准确地指示植被覆盖度。但是，NDVI数据获取会受云、气溶胶、太阳高度角和地物二向反射等因素的影响[18-19],GIMMS NDVI(以下简称NDVI)数据充分考虑了上述因素影响并进行了修正，能够准确地反应植被覆盖度[20]。因此,本文选取荷兰皇家气象研究所空间分辨率为 $0 . 2 2 ^ { \\circ } \\times 0 . 2 2 ^ { \\circ }$ 的NDVI指数，代表植被覆盖度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文利用内蒙古高原及黄土高原分布的39 个天然湖泊和7个水库中心表层沉积物孢粉百分比数据，结合归一化植被指数（NDVI），使用多种方法建立孢粉一NDVI转换函数，检验并评价其表现能力和应用潜力，确定最优模型并应用于古地层孢粉数据，定量重建内蒙古中部辉腾锡勒地区全新世NDVI的变化序列。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于我国北方干旱半干旱区( $\\mathrm { \\Omega ^ { \\prime } } 1 0 1 ^ { \\circ } 5 8 ^ { \\prime } \\sim$ $1 2 1 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { E } , 3 6 ^ { \\circ } 6 6 ^ { \\prime } \\sim 4 7 ^ { \\circ } 7 0 ^ { \\prime } \\mathrm { N } )$ ,跨越内蒙古高原及其邻近的宁夏回族自治区的黄土高原部分地区。研究区现代气候受亚洲冬、夏季风影响，属典型温带大陆性气候，冬季寒冷干燥，夏季温暖并伴有降水。年降水量自东向西逐渐减少，变化范围为 $5 0 \\sim 4 5 0 ~ \\mathrm { m m }$ ，呈显著干湿度地带性。年均温自南向北递减，变化范围为 $0 \\sim 8 \\mathrm { ~ } \\mathrm { ~ \\textdegree ~ }$ ,呈显著地带性[21]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "受气候条件控制，研究区植被自西向东呈荒漠、荒漠草原、典型草原、草甸草原、森林草原和森林分布，NDVI指数也呈增加趋势。此处NDVI指数及下文NDVI平均值的原始数据均来源于荷兰皇家气象研究所数据共享网站（http://climexp.knmi.nl）的1981年7月 $\\sim 2 0 0 6$ 年12月的逐月平均NDVI数据集。本研究中3个样点位于荒漠，其植被类型主要为红砂（Reaumuriasongarica）荒漠、西伯利亚白刺(Nitraria sibirica)荒漠、合头草（Sympegmaregelii）沙漠,NDVI平均值为0.07［NDVI平均值算法为26a的植物生长季(4\\~11月)月平均值之和的平均值];6个样点位于荒漠草原，植被类型为戈壁针茅(Stipatianschanica）草原和沙蒿（Artemisiadeserto-rum)—禾草草原,NDVI平均值为0.14;26个样点位于典型草原,植被类型有西北针茅（Stipa sareptana)草原、沙蒿—禾草草原、冷蒿(Artemisiafrigida）一丛生小禾草草原、短花针茅（Stipabreviflora）草原、羊草（Leymuschinensis）一丛生禾草草原、大针茅（Stipagrandis)草原,NDVI平均值为0.23;2个样点位于草注：本植被图引自《中国植被图集》[22],未区分森林草原和荒漠草原,本文样点植被类型(表1)划分依据野外调查记录",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e071ef934d098f7ac2226beedd9fe80fe519f8e6f973104797ddc1ade8d0b200.jpg",
+        "img_caption": [
+            "图1研究区植被概况及样点分布位置图",
+            "Fig.1Vegetation overview and sample location map of the study area "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1采样点位置及区域植被类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a480a99aea57f112577a7b47563b7049528bd0654ff296c06adcc3f46facf753.jpg",
+        "table_caption": [
+            "Tab.1 Location and surrounding vegetation "
+        ],
+        "table_footnote": [
+            "注：加\\*样点为水库"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"6\">types of lake surface pollen samples</td></tr><tr><td>样点代码</td><td>经度 /E</td><td>纬度 /N</td><td>海拔 /m</td><td>植被类型</td><td>来源</td></tr><tr><td>MOON</td><td>120.88</td><td>47.51</td><td>1190</td><td>森林</td><td>未出版数</td></tr><tr><td>DH</td><td>112.68</td><td>40.58</td><td>1 219</td><td>森林草原</td><td>本研究</td></tr><tr><td>LHHLHG *</td><td>121.47</td><td>45.13</td><td>291</td><td>森林草原</td><td>本研究</td></tr><tr><td>LXZ</td><td>119.32</td><td>47.70</td><td>848</td><td>森林草原</td><td>本研究</td></tr><tr><td>LZGST</td><td>116. 25</td><td>42.61</td><td>1 358</td><td>森林草原</td><td>本研究</td></tr><tr><td>TSK *</td><td>106.11</td><td>35.50</td><td>2 111</td><td>森林草原</td><td>本研究</td></tr><tr><td>ZSK *</td><td>106.07</td><td>35.55</td><td>2 034</td><td>森林草原</td><td>本研究</td></tr><tr><td>LST *</td><td>121.20</td><td>45.82</td><td>461</td><td>森林草原</td><td>本研究</td></tr><tr><td>LJX *</td><td>106.10</td><td>35.56</td><td>2 086</td><td>森林草原</td><td>本研究</td></tr><tr><td>HTL</td><td>112.66</td><td>41.08</td><td>1983</td><td>草甸草原</td><td>本研究</td></tr><tr><td>HTLL</td><td>112.65</td><td>41.11</td><td>1 985</td><td>草甸草原</td><td>本研究</td></tr><tr><td>LDW</td><td>118.92</td><td>46.61</td><td>908</td><td>典型草原</td><td>本研究</td></tr><tr><td>BJLP</td><td>109.31</td><td>39.79</td><td>1 365</td><td>典型草原</td><td>本研究</td></tr><tr><td>Dali</td><td>116.67</td><td>43.29</td><td>1 228</td><td>典型草原</td><td>本研究</td></tr><tr><td>Hulun </td><td>117.58</td><td>49.08</td><td>541</td><td>典型草原</td><td>本研究</td></tr><tr><td>BYH</td><td>113.16</td><td>41.49</td><td>1 402</td><td>典型草原</td><td>本研究</td></tr><tr><td>HTLP</td><td>109.36</td><td>39.42</td><td>1 309</td><td>典型草原</td><td>本研究</td></tr><tr><td>LHGNE</td><td>112.96</td><td>41.49</td><td>1 523</td><td>典型草原</td><td>本研究</td></tr><tr><td>CG</td><td>115.01</td><td>43.44</td><td>1013</td><td>典型草原</td><td>本研究</td></tr><tr><td>DBYHLP</td><td>112.94</td><td>41.25</td><td>1 616</td><td>典型草原</td><td>本研究</td></tr><tr><td>HDLP</td><td>109.34</td><td>39.52</td><td>1320</td><td>典型草原</td><td>本研究</td></tr><tr><td>Hongjian</td><td>109.90</td><td>39.10</td><td>1 220</td><td>典型草原</td><td>本研究</td></tr><tr><td>KTLP</td><td>109.11</td><td>39.38</td><td>1 334</td><td>典型草原</td><td>本研究</td></tr><tr><td>LBLG</td><td>115.87</td><td>44.25</td><td>938</td><td>典型草原</td><td>本研究</td></tr><tr><td>LDW</td><td>116.96</td><td>45.46</td><td>822</td><td>典型草原</td><td>本研究</td></tr><tr><td>LDW</td><td>118.44</td><td>46.28</td><td>865</td><td>典型草原</td><td>本研究</td></tr><tr><td>LHY</td><td>105.26</td><td>36.67</td><td>1 981</td><td>典型草原</td><td>本研究</td></tr><tr><td>LSNTY</td><td>113.03</td><td>42.17</td><td>1 275</td><td>典型草原</td><td>本研究</td></tr><tr><td>LSNTYQ</td><td>112.69</td><td>42.72</td><td>1093</td><td>典型草原</td><td>本研究</td></tr><tr><td>LTYS</td><td>106.62</td><td>37.45</td><td>1 337</td><td>典型草原</td><td>本研究</td></tr><tr><td>LWLNE</td><td>114.76</td><td>43.75</td><td>1 147</td><td>典型草原</td><td>本研究</td></tr><tr><td>WLHSLP</td><td>113.26</td><td>41.52</td><td>1 403</td><td>典型草原</td><td>本研究</td></tr><tr><td>XHZ</td><td>113.10</td><td>41.25</td><td>1 641</td><td>典型草原</td><td>本研究</td></tr><tr><td>ZH *</td><td>105.45</td><td>35.84</td><td>1 846</td><td>典型草原</td><td>本研究</td></tr><tr><td>LYC</td><td>106.98</td><td>37.74</td><td>1380</td><td>典型草原</td><td>本研究</td></tr><tr><td>YHLP</td><td>109.32</td><td>39.58</td><td>1 336</td><td>典型草原</td><td>本研究</td></tr><tr><td>LHJRY</td><td>113. 14</td><td>43.35</td><td>937</td><td>典型草原</td><td>本研究</td></tr><tr><td>LDM</td><td>109.90</td><td>42.35</td><td>1102</td><td>荒漠草原</td><td>本研究</td></tr><tr><td>WLTRMLP</td><td>108.44</td><td>39.94</td><td>1238</td><td>荒漠草原</td><td>本研究</td></tr><tr><td>LSNZ</td><td>112.08</td><td>44.30</td><td>1021</td><td>荒漠草原</td><td>本研究</td></tr><tr><td>HTYLP</td><td>108.59</td><td>39.13</td><td>1 407</td><td>荒漠草原</td><td>本研究</td></tr><tr><td>LDMT</td><td>110. 69</td><td>41.70</td><td>1 483</td><td>荒漠草原</td><td>本研究</td></tr><tr><td>LWH *</td><td>106.61</td><td>41.28</td><td>1 852</td><td>荒漠草原</td><td>本研究</td></tr><tr><td>LAY</td><td>103.63</td><td>39.87</td><td>1 493</td><td>荒漠植被</td><td>本研究</td></tr><tr><td>LYBL</td><td>102.79</td><td>39.41</td><td>1 229</td><td>荒漠植被</td><td>本研究</td></tr><tr><td>LTEH</td><td>101.58</td><td>42.01</td><td>890</td><td>荒漠植被</td><td>本研究</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "甸草原，植被类型为小糠草（Agrostisalba）—野大麦（Hordeumspontaneum）草甸草原和羊茅（Festucaovi-na)蒿类杂草，NDVI平均值为0.37;8个样点位于森林草原,植被类型有蒙古栎（Quercus mongolica）林、山杨(Populus davidiana)林、樟子松(Pinus sylvestris）林、山荆子(Malus baccata)—稠李(Prunuspadus）灌丛、榆（Pinussylvestris）疏林和长芒草（Stipabun-geana)草原,NDVI平均值为0.39;1个样点位于森林,植被类型为兴安落叶松(Larixgmelinii）林,伴生植被有春榆（Ulmuspumila）水曲柳(Fraxinusmand-shurica）核桃楸（Juglansmandshurica）林,NDVI平均值为0.49。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1样品采集与实验方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "人类影响指数(HII)是表征人类活动影响的量化指标[23]。为减少人类活动对本研究的影响,本文使用空间分辨率为 $1 \\ \\mathrm { k m } \\times 1 \\ \\mathrm { k m }$ 的全球HII数据集[23-24],筛选区域 HII值小于22 即受人类活动影响较小[25]的湖泊（样点)作为本文研究对象。此外，湖泊(或水库)的选取还满足以下条件：面积大于 $5 \\ \\mathrm { h m } ^ { 2 }$ ;采样时或上一个雨季湖泊处于未干涸状态。最终，本研究选取了46个湖泊(或水库)作为研究对象，其中仅1个湖泊采样时干涸，但上一个雨季并未干涸。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2010—2012年春季和夏季，我们开展了现代花粉样品单的野外采集工作。我们尽量选取靠近湖泊中心的位置，利用Hydrobios 437—400 湖泊沉积物采样器采集从湖底往下 $3 0 \\sim 5 0 ~ \\mathrm { ~ c m }$ 长度的短柱岩芯；之后垂直推出岩芯，采集其顶部 $2 \\ \\mathrm { c m }$ 来代表近$2 0 \\sim 3 0$ a 的现代沉积物[26-27];并记录下GPS 标定的采样点经纬度位置信息和Secchi圆盘测得的水深数据。最后将所有湖泊表层沉积物样品密封于聚乙烯塑料袋，保存于 $- 2 4 \\mathrm { ~ \\textdegree C }$ 恒温冰柜中，以备实验所用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "孢粉提取实验采用酸碱法结合筛滤法[28]：首先加入 $10 \\%$ （ $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ 碱液煮沸去除有机质,离心后再加入 $5 \\%$ HCL去除碳酸盐类杂质；其次洗至中性后加HF去除硅质再洗至中性，接着使用1:9浓硫酸：乙酸酐混合液水浴处理 $9 ~ \\mathrm { m i n }$ ,然后经过 $7 ~ \\mu \\mathrm { m }$ 筛超声波震荡，转至小指管;最后以叔丁醇脱水后加入硅油，制片于400倍生物显微镜下鉴定。鉴定参照正式出版的图版、手册[29-31]进行,鉴定单样陆生植物孢粉数量统计需在500粒以上。以陆生孢粉种属数量总和为基数，分别计算各孢粉种属百分比。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2 NDVI数据",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文NDVI数据来源于荷兰皇家气象研究所数据共享网站（http://climexp.knmi.nl）的1981年7月 $\\sim 2 0 0 6$ 年12月的逐月平均NDVI数据集，空间数据分辨率 $0 . 2 2 ^ { \\circ } \\times 0 . 2 2 ^ { \\circ }$ 。根据研究区植物生长时间[32],本文选择4～11月NDVI逐月平均数据,计算获取了26aNDVI的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3 排序分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用排序分析研究湖泊表层沉积物孢粉组合空间分布与主要影响因素的关系。本文选取的主要影响因素包括年均温（TANN）、年均降水量（PANN）和归一化植被指数(NDVI)。具体分析步骤为，首先对含量大于 $0 . 5 \\%$ 的孢粉种属进行除趋势分析（De-trended Correspondence Analysis,DCA）[33],依据其第一排序轴的梯度长度判定数据类型（线性或单峰），选择冗余分析（RedundancyAnalysis，RDA;线性数据）或典范对应分析（Canonical Correspondence A-nalysis，CCA;单峰数据）对孢粉种属百分比数据和影响因素数据进行分析，揭示其间可能存在的关系。分析使用Canoco4.5软件进行。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4孢粉一NDVI转换函数的建立与评价",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用C21.5.1软件[34]中的加权平均偏最小二乘法（WA-PLS）、局部加权加权平均法（LWWA）和最佳类比法(MAT)3种方法建立孢粉—NDVI转换函数。转换函数的评价分以下3个方面进行。首先，使用留一交叉检验法评价模型的预测能力，即比较各模型NDVI预测值与观测值的决定系数（ $R _ { \\mathrm { j a c k } } ^ { 2 }$ ）、预测均方根误差（Root Mean Squared Errorof Prediction,RMSEP）、最大偏差 $( M A X  – b i a s _ { \\mathrm { j a c k } }$ ),评价模型的表现和预测能力。其次，利用自助法[35]（Bootstrapping）比较 $R _ { \\mathrm { b o o t } } ^ { 2 }$ 值和 $M A X  – b i a s _ { \\mathrm { b o o t } }$ 值再次检验模型。最后，由于MAT和WA-PLS法建立的转换函数常受空间自相关性的影响[36],故采用Palaeosig1.1-2 程序包[37]检验 MAT和WA-PLS模型的空间自相关性，评价模型预测能力，确定最优转换函数模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 结果分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 孢粉组合特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "内蒙古高原等地湖泊表层沉积物孢粉样品共鉴定出68个孢粉种属类型，主要孢粉类型有松属( $P i .$ nus）落叶松属（Larix）、云杉属（Picea）、桦木属（Betula）栎属（Quercus）、榆属（Ulmus）蒿属（Arte-misia）禾本科（Poaceae）藜科（Amaranthaceae）、白刺属（Nitraria）、莎草科（Cyperaceae）等，其它孢粉类型有桤木属（Alnus）、胡桃属（Juglans）、柳属（Salix）蒲公英型菊科（Taraxacum-type）、紫菀型菊科（Aster-type）、春黄菊型菊科（Anthemis-type）、蔷薇科（Rosaceae）、怪柳科（Tamaricaeae）、十字花科（Brassicaceae）、唇形科（Lamiaceae）、蓼属（Polyg-noum）木樨科（Oleaceae）、唐松草属（Thalictrum）、沙棘属（Hippophae）、麻黄属（Ephedra）等。各植被类型孢粉组合特征显著，孢粉组合基本上可以区分植被类型。各植被类型孢粉组合特征如下（图2）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.1荒漠植被荒漠地区湖泊中心表层沉积物样品共3个，对应样点区域NDVI指数变化于",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/dd30d194510279094cc824adb94d5647a6556ff78d819e627b8b9bcf268ee385.jpg",
+        "img_caption": [
+            "图2内蒙古高原等地湖泊中心表层沉积物孢粉百分比图谱"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig.2Polln percentage plot of lakecentral surface sediment in Inner Mongolia plateau and adjacent area ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$0 . 0 5 \\sim 0 . 0 8$ 之间，平均值为0.07。孢粉组合以蒿属（平均值为 $5 6 . 0 \\%$ ，以下孢粉类型后括弧内数字均为平均值）和藜科（ $( 3 1 . 2 \\%$ ）为主，其次为松属（ $1 . 4 \\%$ ）、白刺属 $( 4 . 4 \\%$ ）、麻黄属（ $( 1 . 8 \\%$ ）、禾本科（204号 $( 1 . 1 \\% )$ 等,偶见桦木属、桤木属、榆属、蒲公英型菊科、紫菀型菊科、春黄菊型菊科、蔷薇科、禾本科、莎草科等平均含量低于 $1 \\%$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.2荒漠草原荒漠草原地区湖泊中心表层样品共6个，对应样点区域NDVI指数变化于 $0 . 1 0 \\sim$ 0.21之间，平均值为0.14。孢粉组合最大特点是蒿属 $4 7 . 3 \\%$ )和藜科 $( 4 1 . 0 \\%$ )之和为所有植被类型最高值，松属 $( 4 . 1 \\%$ ）、桦木属 $( 1 . 1 \\% )$ 和禾本科$( 2 . 5 \\% )$ 含量较低，白刺属 $( \\ 0 . \\ 5 \\%$ ）和麻黄属$( 0 . 7 \\% )$ 含量较荒漠地带显著降低，偶见木樨科、榆属、胡桃属、柳属、栎属、蒲公英型菊科、紫菀型菊科、春黄菊型菊科、十字花科、唇形科、蓼属、沙棘属、莎草科等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.3典型草原典型草原地区湖泊表层样品共26个，对应样点区域NDVI指数变化于 $0 . 1 4 \\sim 0 . 4 1$ 之间，平均值为0.23。孢粉组合中蒿属 $( 5 3 . 3 \\%$ 含量较高，藜科 $( 3 2 . 0 \\%$ )含量显著降低，松属（ $( 4 . 5 \\%$ ）和桦木属 $( 3 . 0 \\% )$ )含量略有增加，云杉属、木樨科、怪柳科、桤木属、榆属、胡桃属、柳属、栎属、蒲公英型菊科、紫菀型菊科、春黄菊型菊科、蔷薇科、十字花科、唇形科、唐松草属、蓼属、沙棘属、麻黄属、白刺属、莎草科等平均含量低于 $1 \\%$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.4草甸草原草甸草原地区湖泊表层样品共2个，对应样点区域NDVI指数变化于 $0 . 3 1 \\sim 0 . 4 3$ 之间，平均值为0.37。孢粉组合仍以蒿属 $( 6 0 . 0 \\% )$ 和藜科( $( 1 4 . 3 \\%$ )为主，乔木类松属( $1 4 . 2 \\%$ ）、桦木属 $( 3 . 8 \\%$ ）栎属 $( 2 . 1 \\% )$ 等含量增加,湿生草本类莎草科 $( 0 . 8 \\% )$ )含量升高，杂类草孢粉类型数量增加，云杉属、木樨科、榆属、蒲公英型菊科、紫菀型菊科、蔷薇科、唇形科、唐松草属、麻黄属、白刺属等平均含量低于 $1 \\%$ 0",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.5森林草原森林草原地区湖泊表层样品共8个，对应样点区域NDVI指数变化于 $0 . 2 6 \\sim 0 . 4 8$ 之间，平均值为0.39。孢粉组合最大的特征是乔木类孢粉含量显著升高，以松属( $1 2 . 7 \\%$ ）、桦木属$( 6 . 3 \\%$ ）、栎属 $( 1 . 7 \\% )$ 为主，灌木类沙棘属 $( 4 . 8 \\% )$ （2号含量达最高值，蒿属（ $4 6 . 5 \\%$ )和藜科 $( 1 7 . 0 \\%$ )含量略有降低但仍占据主导地位，莎草科 $( 2 . 4 \\% )$ 和禾本科 $( 2 . 9 \\% )$ 含量达最高，其它种属含量变化不大。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1.6森林森林地区湖泊表层样品仅1个，对应样点区域NDVI值为0.49。本样点孢粉组合以桦木属( $6 6 . ~ 8 \\%$ ）和蒿属（ $1 4 . ~ 4 \\%$ ）为主，落叶松属$( 2 . 1 \\%$ ）云杉属 $( 1 . 5 \\%$ ）、莎草科 $( 2 . 8 \\%$ ）、藜科中 $( 2 . 6 \\%$ ）松属 $( 2 . 2 \\%$ ）栎属 $( 1 . 5 \\%$ )次之，偶见桤木属、榆属、胡桃科、柳属、紫菀型菊科、蔷薇科、唐松草属等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2 排序分析 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对所有样品孢粉组合中含量大于 $0 . 5 \\%$ 的种属进行除趋势对应分析（DCA），结果表明（表2）第1排序轴的梯度长度为2.047，小于3，指示了线性数据类型，因此采用冗余分析(RDA)揭示孢粉组合空间分布特征与影响因素的关系[38]。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "RDA分析结果表明（表3），4个排序轴特征值分别为0.195、0.081、0.029、0.222，前两轴孢粉种属与影响因子的相关系数分别达0.796和0.654，解释种属百分比变化的累计贡献率达 $2 7 . 6 \\%$ 。因此，利用第1、2排序轴进行RDA分析（图3）。图3显示NDVI指向第1轴正向，与松属、桦木属等乔木孢粉夹角最小，与白刺属、麻黄属、怪柳科等荒漠孢粉类型夹角近 $1 8 0 ^ { \\circ }$ ,森林草原和森林样点多分布于第1轴正向，荒漠和荒漠草原样点多分布于第1轴负向，表明NDVI指数与孢粉空间分布关系紧密，是",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表2湖泊中心表层沉积物孢粉组合除趋势对应分析(DCA)结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/5afd47f326a7cef4eb00922b71ce315d5585a9aeae5a75988a5293702e787ec0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>轴1</td><td>轴2</td><td>轴3</td><td>轴4</td><td>总惯量</td></tr><tr><td>特征值</td><td>0.259</td><td>0.083</td><td>0.041</td><td>0.019</td><td>0.699</td></tr><tr><td>梯度长度</td><td>2.047</td><td>1.208</td><td>1.659</td><td>0.792</td><td></td></tr><tr><td>物种累积百分比变化率</td><td>37.0%</td><td>49.0%</td><td>54.8%</td><td>57.5%</td><td></td></tr><tr><td>典型特征值的总和</td><td></td><td></td><td></td><td></td><td>0.699</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3湖泊中心表层沉积物孢粉组合与影响因子冗余分析(RDA)结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f787174d6c0acd520751d3dbe18b565d88f0a8cb9edb1edfc12005fdc8fb6a9.jpg",
+        "table_caption": [
+            "Tab.2Detrended correspondence analysis（DCA）of pollen assemblage of lake central surface sediment ",
+            "Tab.3Redundancy analysis（RDA）of pollen assemblage oflake central surface sediment and influencing factors "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>轴1</td><td>轴2</td><td>轴3</td><td>轴4</td><td>总惯量</td></tr><tr><td>特征值</td><td>0.195</td><td>0.081</td><td>0.029</td><td>0.222</td><td>1.000</td></tr><tr><td>物种与环境相关性</td><td>0.796</td><td>0.654</td><td>0.652</td><td>0.000</td><td></td></tr><tr><td>物种累积百分比变化率</td><td>19.5%</td><td>27.6%</td><td>30.4%</td><td>52.6%</td><td></td></tr><tr><td>典型特征值的总和</td><td></td><td></td><td></td><td></td><td>1.000</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3f2f7e15414d11237fdfbd6f03134be5ec3bb219645e576b9e95fdd3d94b130.jpg",
+        "img_caption": [
+            "图3湖泊中心表层沉积物孢粉组合与影响因素冗余分析(RDA)图",
+            "Fig.3Plot showing the redundancy analysis（RDA）of pollen assemblage of lake central surface sediment and influencing factors "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "决定孢粉空间分布最重要因子，为本文构建孢粉一NDVI转换函数提供了依据。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3转换函数的建立及检验",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "应用C2程序中WA-PLS、MAT和LWWA3种方法分别建立了现代孢粉一NDVI转换函数并进行了相应检验。留一法交叉验证和自助法[35]检验结果表明（表4），LWWA_Inv模型留一交叉检验结果中 $R _ { \\mathrm { j a c k } } ^ { 2 }$ 达 $0 . 5 7 , M A X  – b i a s _ { \\mathrm { j a c k } }$ 达0.13,RMSEP达0.08,其自助法检验结果 $R _ { \\mathrm { b o o t } } ^ { 2 }$ 达0.57;WA-PLS-3（WA-PLS Component 3）模型留一交叉检验结果中 $R _ { \\mathrm { j a c k } } ^ { 2 }$ 达$0 . 5 6 , M A X  – b i a s _ { \\mathrm { j a c k } }$ 达0.11,RMSEP达0.07,其自助法检验结果 $R _ { \\mathrm { b o o t } } ^ { 2 }$ 达0.54;MAT模型留一交叉验证法检验结果 $R _ { \\mathrm { j a c k } } ^ { 2 }$ 达0.53,RMSEP 为 $0 . 1 6 , M A X  – b i a s _ { \\mathrm { j a c k } }$ 为0.08,其自助法 $R _ { \\mathrm { b o o t } } ^ { 2 }$ 为0.58。综上,LWWA和WA-PLS-3模型相比MAT模型具有较好的表现",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "对3种模型构建的转换函数的NDVI观测值和预测值以及残差散点图的分析结果表明（图4），LWWA和WA-PLS模型NDVI预测值与观测值线性关系较好，线性拟合决定系数 $\\scriptstyle ( R ^ { 2 } )$ 分别达0.72和0.77，残差主要分布范围在 $- 0 . 1 \\sim 0 . 1$ ,表明模型的预测值与观测值拟合效果较好；MAT模型预测值与观测值线性关系较差，线性拟合决定系数 $\\scriptstyle ( R ^ { 2 } )$ 为0.53，残差分布范围在 $- 0 . 3 \\sim 0 . 1$ 之间,拟合效果较差。综上，本研究MAT模型不适合建立孢粉一NDVI转换函数，这可能归因于数据训练集样点较少，不能发挥最佳类比法的优点找到最为近似的类比[39]",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MAT模型和WA-PLS模型的预测能力常受到空间自相关性的影响，而LWWA模型因其算法预测能力不受空间自相关性影响[40]。为进一步从LWWA_Inv和WA-PLS-3中选出最优模型，本文采用palaeosig程序包[37检验MAT和WA-PLS-3模型的空间自相关性。结果如图所示（图5），当删除样点个数相同时，两个模型中删除地理位置样点与删除环境因子相近样点相比， $R ^ { 2 }$ 值均显著降低，表明MAT模型和WA-PLS模型均受空间自相关性影响较大，不适用于孢粉一NDVI转换函数的建立。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "综上，本研究检验评价结果表明LWWA_Inv模型综合表现较好，适合应用于地层化石孢粉重建过去 NDVI变化。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb244761ce3b27ac4e82c3dc5df3106c58f6867b72c8a8095053a07b37042e13.jpg",
+        "table_caption": [
+            "表4不同模型效果检验结果",
+            "Tab.4Performance test results of different models "
+        ],
+        "table_footnote": [
+            "注：WA-PLS Component1（第一组分)为普通的加权平均法,WA-PLS Component2（第二组分)是对第一组分剩余残差优化后的加权平均法,WA-PLS Component3（第三组分)是对第二组分剩余残差优化后的加权平均法,MAT为计算过程中取平均值的最佳类比法,WMAT为计算过程中取加权平均值的最佳类比法,LWWA_lnv为局部加权平均法的反向回归,LWWA_Cla为局部加权平均法的典型回归。下同"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">方法</td><td colspan=\"3\">普通检验</td><td colspan=\"3\">留一交叉检验</td><td colspan=\"3\">自助法检验</td></tr><tr><td>R²</td><td>MAX-bias</td><td>RMSE</td><td>Rack</td><td>MAX-bias jack</td><td>RMSEP</td><td>Rboot</td><td>MAX-bias boot</td><td>RMSEP</td></tr><tr><td>WA-PLS Component 1</td><td>0.64</td><td>0.12</td><td>0.07</td><td>0.52</td><td>0.13</td><td>0.08</td><td>0.52</td><td>0.14</td><td>0.08</td></tr><tr><td>WA-PLS Component 2</td><td>0.73</td><td>0.08</td><td>0.06</td><td>0.56</td><td>0.12</td><td>0.07</td><td>0.54</td><td>0.12</td><td>0.08</td></tr><tr><td>WA-PLS Component 3</td><td>0.77</td><td>0.07</td><td>0.05</td><td>0.56</td><td>0.11</td><td>0.07</td><td>0.54</td><td>0.12</td><td>0.09</td></tr><tr><td>MAT</td><td>0.48</td><td>0.17</td><td>0.09</td><td>0.48</td><td>0.17</td><td>0.09</td><td>0.56</td><td>0.16</td><td>0.09</td></tr><tr><td>WMAT</td><td>0.53</td><td>0.16</td><td>0.08</td><td>0.53</td><td>0.16</td><td>0.08</td><td>0.58</td><td>0.15</td><td>0.09</td></tr><tr><td>LWWA_Inv</td><td>0.72</td><td>0.11</td><td>0.06</td><td>0.57</td><td>0.13</td><td>0.08</td><td>0.57</td><td>0.13</td><td>0.08</td></tr><tr><td>LWWA_Cla</td><td>0.69</td><td>0.25</td><td>0.11</td><td>0.52</td><td>0.34</td><td>0.14</td><td>0.54</td><td>0.19</td><td>0.13</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0d0b67f3e4014de6f89bbba69b6beaf9af38a1b3e69d0dc7002044c727a3db0.jpg",
+        "img_caption": [
+            "图43种模型(LWWA、WA-PLS、MAT)NDVI观测值与预测值散点图及残差分布 Fig.4Scater plots and residual plots between the observed values and predicted values of the NDVI of the three models(LWWA，WA-PLS，MAT) "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5391378210ba3874f329102411b9119e07f5a4c9473c295053e6861d85ee3e4.jpg",
+        "img_caption": [
+            "图5MAT和WA-PLS模型空间自相关性影响",
+            "Fig.5Effect on function $\\boldsymbol { R } ^ { 2 }$ during cross-validation for WA-PLS and MAT "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4讨论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1孢粉—NDVI转换函数(LWWA_Inv）可靠性 比较 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "为进一步评价本研究基于LWWA_Inv方法的孢粉一NDVI转换函数的可靠性，本文将其与前人建",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "立的类似转换函数的表现能力进行了比较。本研究重建因子为植被覆盖变化（NDVI)，因此选取的主要比较对象为亚洲大陆建立的孢粉一植被覆盖转换函数[4-7]。结果如下（表5),本文NDVI重建结果与LIU 等[5]、TIAN等[6]、HERZSUUH等[4]以及TARA-SOV 等[7]孢粉—植被覆盖转换函数相比, $R ^ { 2 }$ 值较高（ $R ^ { 2 } = 0 . 7 2 { \\it \\Omega } ,$ ），仅略低于TARASOV[7]的 $R ^ { 2 }$ 值（ $R ^ { 2 } = { }$ 0.77），表明本研究孢粉一NDVI转换函数（LWWA_Inv)表现良好，具有一定的可靠性。综上，本研究基于内蒙古高原等地湖泊中心表层沉积物孢粉建立的孢粉—NDVI转换函数（LWWA_Inv）可靠性较强，具有一定的应用潜力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/76340f66809e5d2c61aa7b192bcb4de2181a43f9cf06a3d7e1242d1c72de295f.jpg",
+        "table_caption": [
+            "表5不同转换函数模型预测能力比较",
+            "Tab.5Comparison between different transfer functions "
+        ],
+        "table_footnote": [
+            "注：NDVI为植被覆盖指数;LAI为叶面积指数；ANN为人工神经网络法；BMA为最佳类比法"
+        ],
+        "table_body": "<html><body><table><tr><td>研究成果</td><td>研究区域</td><td>环境因子</td><td>方法</td><td>R²</td><td>RMSEP</td></tr><tr><td>LIU等[5]</td><td>中国北方</td><td>NDVI</td><td>ANN</td><td>0.62</td><td>/</td></tr><tr><td>TIAN等[6]</td><td>东亚大陆</td><td>总林覆盖</td><td>MAT</td><td>0.66</td><td>9.18</td></tr><tr><td>HERZSUUH等［4］</td><td>青藏高原</td><td>LAI</td><td>WA-PLS</td><td>0.5</td><td>0.24</td></tr><tr><td>TARASOV等[7]</td><td>亚洲北方</td><td>总林覆盖</td><td>BMA</td><td>0.77</td><td>11. 69</td></tr><tr><td>本研究</td><td>内蒙古高原</td><td>NDVI</td><td>LWWA_Inv</td><td>0.72</td><td>0.08</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2孢粉一NDVI转换函数的应用",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "为评价孢粉一NDVI转换函数的应用潜力，本文将LWWA_Inv法建立的孢粉一NDVI转换函数应用到本课题组内蒙古中部辉腾锡勒地区全新世孢粉序列(HTL)[1],重建了其 $1 4 ~ 3 0 0 \\sim 4 ~ 8 0 0$ cal.a BP期间的植被覆盖变化，并将其与HTL孔的岩性、烧失量、乔木孢粉含量以及主要植被类型的孢粉群区化指数进行对比，验证本文孢粉一NDVI转换函数的可靠性及应用潜力（图6）。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "HTL孔孢粉重建的过去植被覆盖变化(NDVI)可分为6个阶段。阶段 $1 ( 5 4 8 \\sim 6 4 8 \\ \\mathrm { c m } , 1 2 \\ 6 0 0 \\ \\mathrm { c a l }$ aBP以前），孢粉重建的NDVI值变化于 $0 . 2 0 \\sim$ 0.30之间，平均值约0.26左右，介于本研究草原(0.23)和草甸(0.37)之间。该时期乔木孢粉含量极低，森林孢粉群区化指数极低，草原群区化指数为峰值,有机质含量(LOI)处于最小值,区域植被可能为亚高山草原，与本文孢粉重建的NDVI指数相吻合。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "阶段2（ $4 7 0  { \\sim } 5 4 8  { \\mathrm { ~ c m } }$ ,12600\\~11 490 cal.aBP），NDVI值增加，平均值为0.30左右。该时期尽管乔木孢粉含量及森林指数小幅增加，但增幅有限，不足以支持当地发育森林，相反，苔原指数显著增加，指示了亚高山莎草草甸(苔原)的植被景观，支持了孢粉重建的NDVI指数变化。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "孢粉群区化指数u 乔木花粉/% 针叶林 / 冷落叶阔叶林 温带阔叶林 苔原 南真 LOI-550/% 6556789 11 J 川 H M  \n代 W 4  \n年10 日2B au 美 3ulommlnommluu wn 214 1L L1 LFE0.2 0.4 0 40 80 0 2 4 0 2 0 1014 24 0 20 40",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "阶段3（ $3 6 2 \\sim 4 7 0 ~ \\mathrm { c m }$ ， $1 1 ~ 4 9 0 ~ \\sim 1 0 ~ 0 1 0$ cal. aBP)NDVI值持续增加，至末期达0.35左右，平均值约为0.32。该时期冷落叶阔叶林孢粉群区化指数持续增加，有机质含量也呈阶段性峰值，反映了植被持续改善的过程，至末期已形成桦木疏林草原植被景观，支持本文孢粉NDVI重建的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "阶段4（ $2 1 8 \\sim 3 6 2 ~ \\mathrm { c m }$ ,10 010 \\~7 510 cal.a ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "BP），孢粉重建的NDVI值继续增加，至末期达0.40，平均值为0.35左右。该时期乔木孢粉、针叶林指数、温带阔叶林指数以及有机质含量均呈现出逐渐增加的趋势，冷落叶阔叶林指数为峰值，反映区域植被结构发生改变，植被覆盖度不断增加，支持NDVI重建的结果。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "阶段5（ $1 3 0 \\sim 2 1 8 ~ \\mathrm { c m }$ ,7510\\~5 600 cal.a BP）,孢粉定量重建的NDVI指数为峰值，平均值达0.40左右，介于现代植被的森林草原和森林之间。孢粉指标也重建了森林草原的植被景观，该时期针叶林指数和温带阔叶落叶林指数均为峰值，草原指数为最低值，有机质含量也表现为峰值，反映了针阔混交森林草原的植被景观。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "阶段 $6 \\left( 0 \\sim 1 3 0 \\ \\mathrm { c m } , 5 \\ 6 0 0 \\sim 4 \\ 9 0 0 \\right)$ cal.a BP）,NDVI值降低，至末期达0.35左右，与现代植被中森林草原的平均值相当，相比上一阶段森林减少,植被覆盖度降低。NDVI值的变化得到了孢粉等指标的支持,该阶段乔木孢粉含量、有机质含量、针叶林指数、冷阔叶林指数以及温带阔叶林指数均显著下降，反映森林退化，但区域植被仍为稀疏森林草原。综上，HTL孔孢粉序列重建的植被变化与本文孢粉重建的NDVI值变化基本一致,表明本文基于现代湖泊表层沉积物的孢粉一NDVI转换函数具有良好的表现和应用潜力。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3季风边缘区全新世植被覆盖变化的响应机制",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "将辉腾锡勒HTL孔重建的NDVI植被覆盖度变化，与区域内已发表的植被变化序列进行对比，获得了季风边缘区全新世植被变化趋势。然后，再将其与季风边缘区已有非孢粉指标重建的全新世区域降水序列、大尺度综合重建的温度序列进行对比，探讨影响或控制季风边缘区植被变化的主要气候因子，从而认识植被对气候变化的响应机制。因季风边缘区全新世气候变化幅度较大，造成区域内植被在森林草原和草原间变化频繁，因此本文选取用于对比的代表植被覆盖变化的指标为乔木花粉百分比含量(percentage of arboreal pollen taxa $\\mathrm { A P \\% }$ )[41-44]。再者，考虑到孢粉重建的气候因子与孢粉重建的植被覆盖基于同一套资料，具有相关性的特点，本文选择非孢粉重建的区域气候因子与孢粉重建的植被覆盖变化进行对比，揭示全新世植被对气候变化的响应机制。拟对比的气候因子序列包括北半球综合重建的温度曲线[45] 反映区域降水的青海湖全新世红度曲线[46]和陕北榆林黄土剖面的磁化率曲线[47]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "结果表明，季风边缘区全新世植被覆盖变化具有区域一致性(图7)。在辉腾锡勒地区、岱海、公",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "乔木花粉 乔木花粉 乔木花粉 乔木花粉 红度 磁化率 温度 $3 0 ^ { \\circ } \\mathbf { N }$ 夏季日辐射NDVI /% 1% 1% /% /% /SI 7℃ /W·m-20.2 0.4 0204004080 02040 0 20 232629 0100 -0.400.4 0 200123 M Fwrm 无M m至  \n代 456 H wrmm m  \n年 789101 ? W ? PW12 13 mwuw uM14(a)本文 (b)岱海 (c）公海 (d)达里淖尔 (e)呼伦湖 (f)青海湖 $\\mathbf { \\rho } ( \\mathbf { g } )$ 榆林 (h)北半球温度 (i)北半球夏季日",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "海，达里淖尔和呼伦湖等地，植被变化表现出一致性，均表现出早全新世( $8 . 0 \\ \\mathrm { k a }$ BP以前）的植被好转期、中全新世 $( 8 . 0 \\sim 5 . 5 \\mathrm { \\ k a \\ } \\mathrm { E }$ 3P)的植被最宜期和中晚全新世( $5 . 5 \\ \\mathrm { k a }$ BP以后)的植被恶化期。上述植被覆盖变化与区域非孢粉指标重建的降水序列具有很好的对应关系，如图7f和图 $7 \\mathrm { g }$ 所示，青海湖红度指标和榆林黄土磁化率指标表现出了早全新世降水增多和中全新世降水最大特征。上述较好的对应关系表明全新世季风边缘区植被覆盖变化主要响应于年降水变化。相反，全新世季风边缘区植被覆盖变化模式与北半球中高纬度综合重建的温度曲线(图7h)和北半球夏季日辐射变化曲线[48（图7i)均呈不对应关系，前者差别主要在于早全新世，后者差别更大，表明全新世季风边缘区植被变化对年均温度变化响应不显著或者存在较大区间的滞后效应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）以内蒙古高原等地46个湖泊水库中心表层沉积物花粉组合与归一化植被指数（NDVI)为研究对象，利用WA-PLS、MAT及LWWA等方法建立了孢粉一NDVI转换函数。多种检验结果表明MAT和WA-PLS模型均受空间自相关性影响显著,LW-WA模型表现较优，可用于建立孢粉一NDVI转换函数。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（2）应用本文转换函数重建的HTL区域全新世植被覆盖变化与孢粉重建的植被变化具有较好区域的一致性,印证了本文转换函数具有较强的可靠性和应用潜力。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "（3）重建的HTL植被覆盖变化很好的指示了区域植被变化，当地植被及其植被覆盖对降水变化具有敏感的响应。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献(References)",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1］朱家文.IAP-DGVM和CoLM的耦合与模拟以及植被对气候的 反馈作用研究[D].北京：中国科学院大学,2014.［ZHU Jiawen.Studies of coupling IAP-DGVM with CoLM and the feedbacks of vegetation on climate[D].Beijing:University of Chinese Academy of Sciences,2014.]   \n[2］沈晓燕,张宇,王少影,等.若尔盖高原典型年份植被覆盖变化 对 2010 年区域气候影响的数值模拟[J].气候与环境研究， 2015,20(4）:443-453.[SHEN Xiaoyan,ZHANG Yu,WANG Shaoying,et al.A numerical simulation of the impact of vegetation cover changes in the Zoigé Plateau in typical years on the regional climate in 201o[J].Climatic and Environmental Research,2015, 20(4) :443-453.]   \n[3]TARASOV P E,WEBB T,ANDREEV A A,et al. Present-day and mid-Holocene biomes reconstructed from pollen and plant macrofossil data from the former Soviet Union and Mongolia[J]. Journal of Biogeography,1998,25(6）:1029-1053.   \n[4]HERZSCHUHU,BIRKS HJB,JIAN N,et al. Holocene land-cover changes on the Tibetan Plateau[J].Holocene,201O,20（1）： 91 -104.   \n[5]LIU G,YIN Y,LIU HY,et al. Quantifying regional vegetation cover variability in North China during the Holocene:Implications for climate feedback[J].Plos One,2013,8(8）:e71681.   \n[6]TIANF,CAO X Y,DALLMEYER A,etal. Quantitative woody cover reconstructions from eastern continental Asia of the last 22 kyr reveal strong regional peculiarities[J]. Quaternary Science Reviews,2016,137(137） :33-44.   \n[7]TARASOV P,WILLIAMS JW,ANDREEV A,et al. Satellite- and pollen-based quantitative woody cover reconstructions for Northern Asia:Verification and application to late-Quaternary pollen data [J].Earth& Planetary Science Letters,2007,264(1）:284-298.   \n[8］刘立娜,王维,马玉贞,等.呼伦湖表层沉积物花粉空间分布特 征及影响因素探讨[J].沉积学报,2015,33（4)：744－753. [LIULina,WANG Wei,MA Yuzhen,et al.Spatial distribution characteristics and environmental influencing factors of pollen assemblage of lake surface sediments from Lake Hulun[J].Acta Sedimentologica Sinica,2015,33(4) :744-753.]   \n[9]SUGITA S.Pollen representation of vegetation in quaternary sediments:Theory and method in patchy vegetation[J]. Journal of Ecology,1994,82(4) :881 -897.   \n[10]COLINPI.Pollen representation,sourcearea,and basin size:To ward a unified theory of pollen analysis[J].Quaternary Research, 1985,23(1) :76 -86.   \n[11］李岩岩.内蒙古辉腾锡勒地区 $1 3 9 8 0 \\sim 4 8 2 0$ cal.yr BP 植被和 气候变化研究[D].呼和浩特：内蒙古大学,2014.［LI Yanyan. Vegetation and climate changed during 13980\\~4820 cal.yr BP in Huitengxilearea of Inner Mongolia,a multiple indicator investigation of lake sediment of HTL[D].Hohhot:Inner Mongolia University,2014.]   \n[12］秦伟,朱清科,张学霞,等．植被覆盖度及其测算方法研究进展 [J]．西北农林科技大学学报（自然科学版）,2006,34（9）： 163-170.[QIN Wei,ZHU Qingke,ZHANG Xuexia,et al. Review of vegetation covering and itsmeasuring and calculating method [J]. Journal of Northwest A&F University（Natural Science Edition）,2006,34(9):163-170.]   \n[13］周兆叶,储少林,王志伟,等．基于 NDVI的植被覆盖度的变化 分析——以甘肃省张掖市甘州区为例[J]．草业科学,2008,25 (12）:23-29.[ZHOU Zhaoye,CHU Shaolin,WANG Zhiwei,et al. Analysis of vegetation coverage change based on NDVI:A case study in Ganzhou Area,Zhangye City,Gansu[J].Pratacultural Science,2008,25（12):23-29.]   \n[14]FANG JY,PIAO S L,HEJS,MA WH.Increasing terrestrial vegetation activity in China,1982—199[J].Science in China, 2004,47(3) :229 - 240.   \n[15]LI Z T,KAFATOS M. Interannual variability of vegetation in the United States and its relation to El Nino/Southern Oscillation[J]. Remote Sensing of Environment,2000,71(3）:239 -247.   \n[16]CHOUDHURY B J,AHMED N U,IDSO S B,et al. Relations between evaporation coefficients and vegetation indices studied by model simulations[J].Remote Sensing of Environment,1994,50 (1):1-17.   \n[17]GILLIES RR,KUSTAS W P,HUMES K S.A verification of the “triangle”method for obtaining surface soil water content and energy fluxes from remote measurements of the Normalized Difference Vegetation Index（NDVI）and surface e[J].International Journal of Remote Sensing,1997,18(15）:3145-3166.   \n[18]KOBAYASHI,HIDEKI,DENNIS G.Atmospheric conditions for monitoring the long-term vegetation dynamics in the Amazon using normalized diference vegetation index[J].Remote Sensing of Environment,2005,97(4）:519 -525.   \n[19]CIHLAR J,LY H,LI Z Q,et al. Multitemporal,multichannel AVHRR data sets for land biosphere studies:Artifactsand corrections[J].Remote Sensing of Environment,1997,60(1) :35 -57.   \n[20］耿丽英,马明国.长时间序列NDVI数据重建方法比较研究进 展[J].遥感技术与应用,2014,29（2）:362-368.[GENG Liying,MA Mingguo.Advance in method comparison of reconstructing remote sensing time series data sets[J].Remote Sensing Technology and Application,2014,29（2）:362 -368.]   \n[21］盛承禹.中国气候总论[M].北京:科学出版社,1986.[SHENG Chengyu. China climate pandect[M].Beijing: Science Press,， 1986.]   \n「22］中国科学院中国植被图编辑委员会.中国植被图集「M].北 ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "京：科学出版社,2001.［Chinese Vegetation Map Editorial Commitee of the Chinese Academy of Sciences. Chinese vegetation atlas[M].Beijing:Science Press,2001.]   \n[23]WCS/CIESN.Last of the wild data version 2:Global human influence index(HII)[DB/OL].New York:Wildlife Conservation Society（WCS）and Center for International Earth Science Information Network（CIESIN).[2018-11-09].http://sedac.ciesin. columbia.edu/data/set/wildareas $\\mathbf { v } 2$ -human-nfluence-index-geographic.   \n[24]SANDERSON E W,LEVY M J A,REDFORD K H,et al. The human footprint and the last of the wild[J].Bioscience,2002,52 (10):891-904.   \n[25]LI JY,ZHAO Y,XU Q H,et al. Human influence as a potential source of bias in pollen-based quantitative climate reconstructions [J].Quaternary Science Reviews,2014,99:112-121.   \n[26］BROOKS S J.A 1000-year chironomid-based salinity reconstruction from varved sediments of Sugan Lake,Qaidam Basin,arid Northwest China,and its palaeoclimatic significance[J]. Chinese Science Bulletin,2009,54(20）:3749-3759.   \n[27] ZHAO Y,YU Z C,CHEN F H,et al. Sensitive response of desert vegetation to moisture change based on a near-annual resolution pollen record from Gahai Lake in the Qaidam Basin,Northwest China[J].Global & Planetary Change,2008,62（1）:107-114.   \n[28]VIDAL G.A palynological preparation method[J]. Palynology, 1988,12(1) :215-220.   \n[29］李文漪,肖尚明,刘光绣,等.花粉分析指南[M].广西：广西人 民出版社,1987.［LI Wenxi,XIAO Shangming,LIU Guanxiu,et al. Guide to pollen analysis[M]. Guangxi: Guangxi People Press, 1987. ]   \n[30］宛涛,卫智军,杨静,等.内蒙古草地现代植物花粉形态[M]. 北京：中国农业出版社,1999:1-135.[WAN Tao,WEI Zhijun, YANG Jing,et al.Flora of grassland modern pollen Inner Mongolia [M].Beijing:China Agriculture Press,1999:1-135.]   \n[31］王伏雄,钱南芬,张玉龙,等.中国植物花粉形态[M].2版.北 京：科学出版社,1995.[WANG Fuxiong,QIAN Nanfeng,ZHANG Yulong,et al.Pollen flora of China[M].2nded.Beijing:Science Press,1995.]   \n[32］王亚军,马玉贞,鲁瑞洁,等.祁连山东延余脉——兴隆山树木 径向生长记录的公元1845 年来夏季 NDVI变化［J].地理研 究,2016,35（4）:653-663.[WANG Yajun,MA Yuzhen,LU Ruijie,etal. Summer NDVI variability recorded by tree radial growth in the Xinglong Mountain,the eastward extension of the Qilian Mountains,since 1845 AD[J]. Geographical Research,2016, 35(4) :653 -663. ]   \n[33]HILL M O,GAUCH H G. Detrended correspondence analysis :An improved ordination technique[J].Vegetation,1980,42(1/3):47 -58.   \n[34」JUGGINS S.C2 Version 1.5:Software for ecological and palaeoecological data analysis and visualisation[M].Newcastle upon Tyne:Newcastle University Press,2007.   \n[35]HALL P,WILSON S R.Two guidelines for bootstrap hypothesis testing[J].Biometrics,1991,47(2）:757 -762.   \n[36]TELFORD R,BIRKS H.Evaluation of transfer functions in spatially structured environments[J]. Quaternary Science Reviews,2009, 28(13):1309-1316.   \n[37]TELFORD R,TRACHSEL M.Palaeo Sig: Significance tests for palaeoenvironmental reconstructions,R package version 1.1 - 3 [M].Bergen:University of Bergen Press,2015.   \n[38]LEPS J,SMILAUER P. Multivariate analysis of ecological data using CANOCO[M].New York:Cambridge University Press,2003.   \n[39]JUGGINS S,BIRKS HJB. Quantitative environmental reconstructions from biological data[M].Dordrecht: Springer Netherlands Press,2012.   \n[40]JUGGINS S.The European diatom database（EDDI）:A new tool for palaeoenvironmental reconstruction[M].Newcastle upon Tyne : Newcastle University Press,2001.   \n[41]CHEN F,XUQ,CHEN J,et al. East Asian summer monsoon precipitation variability since the last deglaciation[J].Scientific Reports,2015,5(1) :11186.   \n[42]WEN R L,XIAO JL,CHANG Z G,et al. Holocene climate changes in the mid-high-latitude-monsoon margin reflected by the pollen record from Hulun Lake,Northeastern Inner Mongolia[J]. Quaternary Research,2010,73(2）:293-303.   \n[43]XIAO JL,XU Q H,NAKAMURA T,et al. Holocene vegetation variation in the Daihai Lake regionof North-Central China:A direct indication of the Asian monsoon climatic history[J].Quaternary Science Reviews,2004,23(14）:1669-1679.   \n[44]WEN RL,XIAO JL,FAN JW,et al.Pollen evidence for a midHolocene East Asian summer monsoon maximum in Northern China [J].Quaternary Science Reviews,2017,17(6）:29-35.   \n[45]MARCOTT S A,SHAKUN JD,CLARK P U,et al. A reconstruction of regional and global temperature for the past 113OO years [J]. Science,2013,339(6 124）:1198 -1201.   \n[46]JI J,SHEN J,BALSAM W,et al.Asian monsoon oscillations in the northeastern Qinghai-Tibet Plateau since the late glacial as interpreted from visible reflectance of Qinghai Lake sediments[J]. Earth & Planetary Science Letters,2005,233(1):61-70.   \n[47]LUHY,YISW,LIU ZY,et al.Variation of East Asian monsoon precipitation during the past 21 k.y.and potential CO $^ 2$ forcing [J].Geology,2013,41(9）:1023-1026.   \n[48]BERGERA,LOUTRE MF.Insolation values for the climate of the last 10 million years[J].Quaternary Science Reviews,1991,10: 297 -337. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Lake central surface sediment-based pollen-vegetation cover transfer functions and its application in Inner Mongolia Plateau and adjacent area ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "CHEN Dong-xue1,² , WANG Wei1,2, LIU Li-na1,2 JIANG Ya-juan $^ { 1 , 2 }$ ，LI Yan-yan1,2 NIU Zhi-mei1,2, MA Yu-zhen³, HE Jiang' 1,2 ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "(1College of Ecologyand Environment,Inner Mongolia University,Hohhot O1oo21,Inner Mongolia,China; 2Institute of Environmental Geology,Inner Mongolia University,Hohhot O1O021,Inner Mongolia,China; 3Key Laboratory of Environmental Change and Natural Disaster,Ministry of Education of China & State Key LaboratoryofEarthSurfaceProcessandResource Ecology,Beijing Normal University,Beijing1Oo875,China) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Vegetation cover was an important factorin palaeo-climate simulation.The study of polln-vegetation cover transfer function based on modern processes provides a way to reconstruct the past vegetation cover change by using pollen stratum data.The Inner Mongolia Plateau and itsadjacent area,which is locatedat the marginal monsoon area of northern China and has alarge climaticand vegetal gradient,provides us an ideal area to studythe pollen-vegetation cover transfer functions.Inthis paper,we investigated pollen assemblages of lakecentral surface sediment from 46 lakes and reservoirs,and developed transfer functions between lake surface sediment polln assemblage and Normalized Difference Vegetation Index（NDVI）using three different methods which include weighted average partial least squares（WA-PLS）,local weighted average method（LWWA）and modern analogue technique (MAT).We used leave-one-out cross-validation,bootstrapping and autocorrelation test to evaluate the performance of thosethree pollen-NDVI transfer functions and select the most reliable to reconstruct the Holocene vegetation coverhistory of Huitengxile Plateau of central Iner Mongolia.Asresults,the redundancyanalysis（RDA）was conducted onthe pollen dataand environmental data acording to the lineardata typeof the pollen data,as indicated by thegradient length（i.e.,2.O47）of the detrended correspondence analysis（DCA）.The RDA plot displays that the NDVI points tothe positiveof the first axis where forest andforest steppe sites clustered,and has smaler angles with the Pinus and Betula and larger angles with the desert pollen type such as Nitraria,Ephedra and Tamaricaeae, which suggested thatthe NDVI index was closely related tothe spatial distribution of polln and thus the polln-ND（204号 $\\boldsymbol { W }$ transfer functions could be reliably developed.The leave-one-out cros-validation and the botstrapping test showed that the LWWA_Inv( $: R _ { \\mathrm { { j a c k } } } ^ { 2 } = 0 . 5 7 , R _ { \\mathrm { { b o o t } } } ^ { 2 } = 0 . 5 7 \\$ and WA-PLS-3 ( $R _ { \\mathrm { j a c k } } ^ { 2 } = 0 . 5 6 , R _ { \\mathrm { b o o t } } ^ { 2 } = 0 . 5 4 \\AA ,$ ）models have better performance than the MAT ( $R _ { \\mathrm { j a c k } } ^ { 2 } = 0 . 5 3 , R _ { \\mathrm { b o o t } } ^ { 2 } = 0 . 5 8 \\rangle$ ）model. The autocorrelation test suggests that both MAT modeland WA-PLSmodel are greatlyaffected byspatial autocorelation,and thus not suitable to develop pollen-NDVI transfer function.Therefore,the LWWA Inv model issuitable toreconstruct the past vegetationcover history（NDVI）forits overallgood performance,and wasused to reconstructed the NDVI historyof Huitengxile Plateau of Inner Mongolia byapplying toa fossil pollen record of alacustrine sections from a unnamed smallcraterlake.The comparison shows there are broad consistence between pollen reconstructed NDVI and other pollen-based vegetation (i.e.,biome score in this paper）,which further demonstrated thereliabilityofour pollen-NDVI transfer functions. Furthermore,we compared those regional vegetation evolution with those non-polen based Holocene temperature and precipitation sequences.The result shows that the polln-based vegetation sequences were corelated well with the non-pollen based precipitations but not correlated with regional temperature sequences,which posibly indicated the Holocene vegetation change was closely responded to precipitation but temperature in marginal monsoon area of northern China. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Key words:Inner Mongolia Plateau； lake surface sediment； pollen assemblage；vegetation coverage；NDVI; transfer function ",
+        "page_idx": 11
+    }
+]

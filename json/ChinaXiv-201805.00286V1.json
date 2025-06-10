@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "考虑成本时拓扑可调无标度网络鲁棒性研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王尔申ab，王玉伟ä",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(沈阳航空航天大学a.电子信息工程学院;b.辽宁省通用航空重点实验室，沈阳 110136)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为了研究无标度网络拓扑结构对网络鲁棒性的影响，结合对复杂网络鲁棒性有重要影响的节点介数和边权重两种指标，提出一种考虑成本的拓扑可调无标度网络攻击方法。该方法在攻击网络中节点(边）时引入了节点（边）的攻击成本因素，以节点介数（边权重）来近似衡量节点（边）的攻击成本，采用不同节点（边）攻击策略对网络进行攻击，并采用最大连通子图相对值作为网络鲁棒性测度指标，利用该方法对无标度网络的幂率指数、平均度与网络鲁棒性的关系分别进行了研究。结果表明，采用蓄意攻击策略时，对于同一节点（边）攻击成本，无标度网络的幂率指数越小或平均度越大，网络的鲁棒性越强。仿真实验验证了该方法的有效性与可行性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：无标度网络；幂率指数；平均度；攻击策略；攻击成本；鲁棒性 中图分类号：TP393.02 doi: 10.3969/j.issn.1001-3695.2017.08.0723 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on robustness of tunable scale-free networks with cost ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wang Ershena, b, Wang Yuweia (a.Schoolof Electronic&Information Engineering,b.Liaoning GeneralAviation Key LaboratoryShenyang Aerospace University, Shenyang 110136,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Inorderto investigate the efects ofscale-free network'stopology features onnetworkrobustness.Combining two indexesofnode's betwennessandedge's weight,whichhas importantinfluence on networkrobustness.This paper proposeda tunable scale-free network atack method with cost.This method consideredtheattackcost of nodes(edges）when the network wasatacked.The method used the node's betweenness(edge's weight)toapproximately measure thecostof nodes(edges). This methodused diferent attack strategies ofnodes(edges)toattck the network.Andthis method usedthe largestcomponent to quantify the network robustness.Byusing the method,this paper investigated therelation between scale-free network's power-law exponent,average degree and networkrobustnes.When adopting theintentional atack strategyandfixing thecost valueofnodes(edges),theexperimentalresultsshowthatthelowerthe power-lawexponentofscale-fre networksorhe highr the average degreeofscale-free networks,the more robustof the network.The simulationresults verifytheeffectivenessand feasibility of the proposed method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KeyWords: scale-free networks; power-law exponent; average degree;attack strategy; attack cost; robustness ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，复杂网络受到越来越多学者的关注[1]。随着复杂网络研究的深入，其鲁棒性研究成为热点[2]。复杂网络鲁棒性是指网络受到攻击时，网络仍然能够继续维持其功能的能力[3]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "目前针对复杂网络鲁棒性方面的研究已取得许多重要进展文献[4]以自然连通度为网络鲁棒性度量指标，研究了度分布对鲁棒性的影响，认为度分布越不均匀鲁棒性越强。文献[5]针对车载自组织网络的鲁棒性进行了分析，认为车载自组织网络对随机攻击有较强的鲁棒性，在蓄意攻击下显得比较脆弱，基于节点介数的蓄意攻击对网络的破坏更快、更强。在文献[6]中，作者针对不同的开放数据集和爬取的新浪微博数据集，通过计算移除部分节点后的巨片和连通子图数目等指标，着重分析了蓄意攻击对网络的影响。文献[7]分析了航空投递网络和陆运投递网络的鲁棒性，并对这两种网络的鲁棒性进行了优化。但是，这些研究并没有将节点（边）的攻击成本因素考虑在内。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从目前的研究进展来看，大部分关于复杂网络鲁棒性方面的研究并没有考虑到节点（边）的攻击成本因素[8-1I]，文献[12]认识到这一问题，尝试在研究复杂网络鲁棒性时将节点的攻击成本考虑在内，采用节点的度来衡量节点的攻击成本。文献[12]认为当攻击成本较小时，节点度由小到大策略攻击效果较好；节点度由大到小策略只是在攻击成本较大时攻击效果最好，可见节点的攻击成本对节点攻击策略的攻击效果有一定的影响。然而，这些研究并没有以节点的介数来衡量节点的攻击成本，在攻击网络的边时也没有考虑边的攻击成本因素。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在前人研究复杂网络鲁棒性的基础上，文中首先介绍了一种基于成本的拓扑可调无标度网络攻击模型，然后研究了幂率指数和平均度对无标度网络鲁棒性的影响，最后给出文中得出的主要结论。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 基于成本的拓扑可调无标度网络攻击模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1指数可调无标度网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BA（barabasialbert）无标度网络度分布的幂率指数γ恒定为3，而很多具有无标度特性的真实复杂网络的幂率指数在 2到3之间。γ越小，网络在度分布上的非均匀性越强；反之，度分布均匀性越强。文献[1]提出一种生成幂指数可调的无标度网络的算法。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 介数",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "介数分为节点介数和边介数。介数能够反映节点（边）在整个网络中的影响力。节点介数具体定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { l } = \\sum _ { j \\neq l \\neq i } { \\frac { \\delta _ { j i } ( l ) } { \\delta _ { j i } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\delta _ { j i } ( l )$ 是连接节点 $j$ 和节点 $i$ 且经过节点 $l$ 的最短路径数量， $\\delta _ { { j i } }$ 是连接节点 $j$ 和节点 $i$ 之间的最短路径条数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.3加权复杂网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "现实中很多实际网络都是加权网络，Internet中不同链路有不同的带宽和流量，航空网络中存在客流量的差异等，这些信息无法采用无权网络来描述，因此必须采用加权网络，为每条边赋予一定的权重来反映这些差异信息。加权网络可以用集合$G = ( N , W )$ 描述( $N$ 为网络的节点数， $W$ 为网络中边的权重)，用加权邻接矩阵 $w = ( \\mathbf { w } _ { i j } ) _ { n \\times n }$ 来表示 $( i , j = 1 , 2 , . . . . . N )$ 。边权与两个节点的度相关，假设边 $e _ { i j }$ 所连两个节点的度值分别为 $k _ { i }$ 和$k _ { j }$ ，文献[10]使用的权重模型定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i j } = ( k _ { i } ^ { \\mathrm { ~ * ~ } } k _ { j } ) ^ { \\theta }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\theta ( \\theta > 0 )$ 是一个可调的权重参数，用于描述网络边的异质度。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "而文献[11]中给出了三种复杂网络边的赋权方式，分别为$w _ { i j } = B _ { i j }$ （边介数）， $w _ { i j } = ( B _ { i } ^ { * } B _ { j } ) ^ { \\theta }$ （边两端节点介数乘积的幂指数形式)和 $w _ { i j } = ( k _ { i } ^ { * } k _ { j } ) ^ { \\theta }$ (边两端节点度乘积的幂指数形式)。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "前人给出的复杂网络的一些加权方法，结合节点度和节点介数，文中采用复合边权重加权方法，其定义为：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { i j } = \\alpha \\frac { ( k _ { i } + k _ { j } ) } { \\operatorname* { m a x } \\{ k _ { i } , k _ { j } \\} } ~ + ( 1 - \\alpha ) \\frac { ( B _ { i } + B _ { j } ) } { \\operatorname* { m a x } \\{ B _ { i } , B _ { j } \\} }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\alpha$ 为比重系数 $( 0 \\leq \\alpha \\leq 1 )$ 。 $\\alpha = 0$ 代表边权仅节点介数相关， $\\alpha = 1$ 代表边权仅节点度相关。式（3）中的加权方式可以利用参数 $\\alpha$ 来灵活调节介数和度的比重。边权重综合考虑节点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "度和节点介数的影响，文中对于参数 $\\alpha$ 取0.5。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.4复杂网络鲁棒性测度",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "假如移除少量节点(边)后的网络中大多数节点仍然连通，就称该网络的连通性对节点（边）故障具有鲁棒性。复杂网络鲁棒性度量有很多种指标，如最大连通子图，平均反测地线距离等。文中采用最大连通子图相对值 $G$ 来衡量复杂网络鲁棒性.最大连通子图相对值具体定义为 $G = N ^ { ' } / N$ [8]， $\\mathbf { \\Omega } _ { N } \\mathbf { \\Omega } $ 为网络受到攻击后的最大连通分支的节点个数， $N$ 为网络受到攻击前节点总数。在某一攻击策略下，如果 $G$ 的值越大，表明网络鲁棒性越强，即该攻击策略有效性越差。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5攻击策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5.1节点攻击策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文献[12]采用的三种节点度攻击策略分别为：节点度由小 到大攻击（low degree removal strategy，LDRS）策略，节点度 随机攻击（randomdegree removal strategy，RDRS）策略和节点 度由大到小攻击（high degree removal strategy，HDRS）策略。 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "对上述文献中与节点度有关的概率移除方式进行改进可得到如下与节点介数有关的概率移除节点方式（节点移除后其所连的边也随之消失):",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\np _ { i } = \\frac { B _ { i } ^ { \\beta } } { \\sum _ { j } B _ { j } ^ { \\beta } }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中: $\\beta < 0$ 对应节点介数由小到大攻击策略（LowBetweennessRemovalStrategy，LBRS)：将网络中的节点按照其介数值由小到大排序后依次移除， $\\beta = 0$ 对应节点介数随机攻击策略（RandomBetweennessRemoval Strategy，RBRS)：将网络中的节点按照其介数值随机选择后移除， $\\beta > 0$ 对应节点介数由大到小攻击策略（HighBetweennessRemoval Strategy，HBRS）：将网络中的节点按照其介数值由大到小排序后依次移除。对于模型中参数 $\\beta$ 的选择，文中分别选取 $\\beta = - 3$ ， $\\beta = 0$ 和 $\\beta = 3$ 这三种情况来确定节点介数攻击策略。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.5.2边攻击策略",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "边攻击策略的定义是基于边的权重等重要性度量指标，即将边按照其权重的大小进行排序并移除。文中采用三种边攻击策略攻击网络，这三种边攻击策略定义分别如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a）边权随机攻击策略（random weight removal strategy,RWRS)。将网络的边按照边权重大小随机选择进行移除。b）边权由小到大攻击策略（low weight removal strategy，LWRS)。将网络的边按照边权重由小到大的顺序进行排序，按照此排序结果对边进行移除。c）边权由大到小攻击策略（high weight removal strategy,HWRS)。将网络的边按照边权重由大到小的顺序进行排序，按照此排序结果对边进行移除。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6攻击成本",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.6.1节点介数攻击成本",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "复杂网络的节点重要性指标有多种，如度，介数，接近度以及特征向量中心性等。文献[12]从“节点度\"角度出发，以节点",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "的度来近似衡量节点的攻击成本，其中总节点度攻击成本定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu = \\frac { \\displaystyle \\sum _ { \\nu \\in Z } k _ { \\nu } } { \\displaystyle \\sum _ { i = 1 } ^ { N } k _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $k _ { i }$ 是节点 $i$ 的度， $N$ 是初始网络中的总节点数， $\\boldsymbol { k } _ { \\nu }$ 是被移除节点的度， $z$ 是移除节点的数量总和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "考虑到节点介数也是节点重要性的度量指标，与文献[12]研究思路相似，本文则从“节点介数\"的角度出发，以节点的介数来近似衡量节点的攻击成本，并假设攻击成本与节点介数成正比。总的节点介数攻击成本定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho = \\frac { \\displaystyle \\sum _ { \\nu \\in Z } B _ { \\nu } } { \\displaystyle \\sum _ { i = 1 } ^ { N } B _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $B _ { i }$ 是节点 $i$ 的介数， $N$ 是初始网络的节点总数， $\\boldsymbol { B } _ { \\nu }$ 是被移除节点的介数， $z$ 是移除节点的数量总和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.6.2边攻击成本",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "以往的研究往往忽略边的攻击成本因素，而复杂网络边的攻击成本并不一定相同。为研究边攻击成本对各种边攻击策略攻击效果的影响，本文采用边的权重来衡量复杂网络边的攻击成本，即 $\\cos t _ { i } = w _ { i }$ 。总的边攻击成本定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\lambda = \\frac { \\displaystyle \\sum _ { l \\in \\cal Z } w _ { l } } { \\displaystyle \\sum _ { i = 0 } ^ { M } w _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中: $w _ { i }$ 是网络中边 $i$ 的权重； $M$ 是网络的总边数； $z$ 是移除网络边的数量总和。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.7算法流程",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据 $1 . 1 { \\sim } 1 . 6$ 节中的相关定义，基于介数（边）成本的复杂网络节点（边）攻击模型算法具体步骤设计如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)按照1.1节中的算法生成一定规模指数可调的无标度网络。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)按照式（1）求出网络中各个节点的介数；如果是边攻击则按照式（3）求节点之间所连边的权重。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)按照式（4）的概率将网络的节点进行移除；如果是边攻击则按照1.5.2节中的边攻击策略进行复杂网络边的攻击。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)设定复杂网络节点初始成本值，将被移除的节点的介数添加到 $\\sum _ { \\nu \\in Z } B _ { \\nu }$ 中，按照式（6）重新计算 $\\rho$ 值。如果 $\\rho$ 的值比所给成本值小，那么这个节点就被移除，重复步骤c)d)直到 $\\rho$ 的值达到所给节点成本值；如果是边攻击则设定复杂网络边成本初始值，将被攻击的边的权重按照式（7）计算 $\\lambda$ 值，如果 $\\lambda$ 的值比所给成本值小，那么这条边被移除，重复此步骤直到 $\\lambda$ 的值达到所给的边成本值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)计算网络最大连通子图的相对大小 $G$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 仿真验证与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "此部分将在考虑成本因素时，分别研究幂率指数和平均度对拓扑可调无标度网络鲁棒性的影响。每组实验均独立进行 40次，通过取平均值得出最后仿真结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1幂率指数对拓扑可调无标度网络鲁棒性的影响",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为探讨幂率指数对网络鲁棒性的影响，采用前面所述的拓扑可调无标度网络的生成机制，生成节点数 $N = 1 0 0 0$ ，平均度$< k > \\approx 1 0$ 的无标度网络，选取不同的幂率指数分别进行实验。采用节点度攻击策略时幂率指数对网络鲁棒性的影响，如图1所示。采用节点介数攻击策略时幂率指数对网络鲁棒性的影响，如图2所示。采用边攻击策略时幂率指数对网络鲁棒性的影响，如图3所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f4b5a4e2a74a37a2b1cf69292184ee33528ffacb62e0189e2719826c2903006.jpg",
+        "img_caption": [
+            "图1采用节点度攻击策略时幂率指数对网络鲁棒性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef515d11ee43850b7a026f3b02a576d8f465211947cbea5e0742a0342f340bd8.jpg",
+        "img_caption": [
+            "图2采用节点介数攻击策略时幂率指数对网络鲁棒性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f28cacdc9ae2984009533ad9f93d016a2be3d83a165a9872fa181947158415f4.jpg",
+        "img_caption": [
+            "图3采用边攻击策略时幂率指数对网络鲁棒性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图1为采用不同节点度攻击策略时幂率指数对网络鲁棒性的影响曲线。由图1（a）得知，采用LDRS 策略时，幂指数γ越小，网络鲁棒性曲线越陡，即网络鲁棒性越差。由图1（b)得知，采用RDRS 策略时，不同γ值对网络鲁棒性影响几乎相同。由图1（c）得知，采用HDRS 策略时，幂指数γ越小，网络鲁棒性曲线下降趋势越慢，即对应的网络鲁棒性越强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为采用不同节点介数攻击策略时幂率指数对网络鲁棒性的影响曲线。图2（a）中采用LBRS策略，幂指数 $\\gamma$ 越小，网络鲁棒性越差。图2（b）中采用 RBRS 策略，幂指数 $\\gamma = 2 . 2$ 比γ取其他值时对应的网络鲁棒性曲线变化趋势较大，但整体趋势大致相同。图2（c）中采用HBRS策略，幂指数 $\\gamma$ 越小，对应的网络鲁棒性越强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为采用不同边攻击策略时幂率指数对网络鲁棒性的影响曲线。图3（a）中采用LWRS 策略，当 $0 < \\lambda < 0 . 3$ 时，幂指数γ越小，网络鲁棒性越差；当 $0 . 3 < \\lambda < 1$ 时，对于同一边攻击成本值，幂指数 $\\gamma = 3$ 时对应的网络鲁棒性最弱。图3（b）采用RWRS 策略，当 $0 < \\lambda < 0 . 3 8$ 时，幂指数γ越大，网络鲁棒性越强；当 $0 . 3 8 < \\lambda < 0 . 5 5$ 时，幂指数 $\\gamma$ 越小，网络鲁棒性越强；当$0 . 5 5 < \\lambda < 1$ 时，不同 $\\gamma$ 值下得到的网络鲁棒性曲线几乎重合，即采用RWRS 策略且攻击成本较大时，不同γ值对网络鲁棒性影响几乎相同。图3（c）采用HWRS策略，幂指数γ越小，对应的网络鲁棒性越强。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2平均度对拓扑可调无标度网络鲁棒性的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为研究平均度对指数可调无标度网络鲁棒性的影响，当幂指数γ取3时，无标度网络的平均度 $< \\mathbf { k } >$ 分别取不同值。采用节点度攻击策略时平均度对拓扑可调无标度网络鲁棒性的影响，如图4所示。采用节点介数攻击策略时平均度对拓扑可调无标度网络鲁棒性的影响，如图5所示。采用边攻击策略时平均度对拓扑可调无标度网络鲁棒性的影响，如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9629654b79bde38532640c5d1c806aff03db5fab598ec2d4c2dde0600339e26.jpg",
+        "img_caption": [
+            "图4采用节点度攻击策略时平均度对网络鲁棒性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d8b145509bb54d65d7337a0da2ee8708345626eec44db956630fbda7a1bc057.jpg",
+        "img_caption": [
+            "图5采用节点介数攻击策略时平均度对网络鲁棒性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/388b9a64b03e3631c0f3b1d604b641ec6ff2aa335d671df7d7ad44d757cc6cb5.jpg",
+        "img_caption": [
+            "图6采用边攻击策略时平均度对网络鲁棒性的影响"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图4为采用节点度攻击策略时平均度对拓扑可调无标度网络鲁棒性的影响曲线。图4（a）中采用LDRS策略，不同平均度下得到的网络性能曲线几乎重合，这表明采用LDRS策略时，平均度的不同取值对网络鲁棒性影响几乎相同。图4（b）中采用 RDRS策略，当 $0 < \\mu < 0 . 5$ 时，平均度越小，对应的网络鲁棒性越弱；当 $0 . 5 < \\mu < 1$ 时，平均度的不同取值对网络鲁棒性影响几乎相同。图4（c）中采用 HDRS 策略，当 $0 < \\mu < 0 . 5$ 时，平均度越大，对应的网络鲁棒性越强；当 $0 . 5 < \\mu < 1$ 时，平均度的不同取值对网络鲁棒性影响几乎相同。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图5为采用节点介数攻击策略时平均度对拓扑可调无标度网络鲁棒性的影响曲线。图5（a）中采用LBRS策略，平均度越小对应的网络鲁棒性越强；图5（b）中采用RBRS策略，平均度越小对应的网络鲁棒性越弱；图5(c)中采用HBRS策略，平均度越大对应的网络鲁棒性越强。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "图6为采用边攻击策略时平均度对拓扑可调无标度网络鲁棒性的影响曲线。图6（a）中采用LWRS策略，平均度越大对应的网络鲁棒性越强;图6(b)中采用RWRS策略,当 $0 < \\lambda < 0 . 5$ 时，平均度越大对应的网络鲁棒性越强；当 $0 . 5 < \\lambda < 1$ 时，平均度的不同取值对网络鲁棒性影响几乎相同。图6（c）中采用HWRS策略，平均度越小对应的网络鲁棒性越弱。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文在前人研究复杂网络鲁棒性的基础上考虑了节点和边的攻击成本因素，将幂率指数和平均度对拓扑可调无标度网络鲁棒性的影响进行了研究。研究表明，当攻击成本不可忽略并采用蓄意攻击策略情况下（如文中采用的的HDRS策略，HBRS策略或HWRS策略)，节点或边的攻击成本值固定时，无标度网络的幂指数越小（度分布越不均匀）或平均度越大（网络越稠密)，网络鲁棒性越强，网络越不容易被破坏。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1]Goh KI, Kahng B,KimD. Universal behavior of load distribution in scale free networks [J].Physical Review Letters,2001,87 (27): 278701.   \n[2]Hong Chen,He Ning,Lordan O,et al.Efficient calculation of the robustness measure R for complex networks [J].Physica A: Statistical Mechanics and its Applications,2017,478: 63-68.   \n[3] Nie Tingyuan,Guo Zheng,Zhao Kun,et al. New attck strategies for complex networks [J].PhysicaA: Statistical Mechanics and its Applications, 2015,424: 248-253.   \n[4] 吴俊，谭索怡，谭跃进，等．基于自然连通度的复杂网络鲁棒性分析 [J]．复杂系统与复杂性科学,2014,11(1):77-86.   \n[5]冯慧芳，李彩虹．基于复杂网络的车载自组织网络鲁棒性分析[J].计 算机应用,2016,36(7):1789-1792,1806.   \n[6] 陆靖桥，傅秀芬，蒙在桥．复杂网络的鲁棒性与中心性指标的研究[J]. 计算机应用与软件,2016,33(4):302-309.   \n[7]谢逢洁，崔文田．加权快递网络鲁棒性分析及优化[J]．系统工程理论 与实践,2016,36(9):2391-2399.   \n[8] Motter A E,Lai Y C.Cascade-based attacks on complex networks [J]. Physical Review E: Statistical Nonlinear and Soft Matter Physics,2002,66 (6): 065102.   \n[9]彭兴钊，姚宏，张志浩，等．基于节点蓄意攻击的无标度网络级联抗毁 性研究[J]．系统工程与电子技术,2013,35(9):1974-1978.   \n[10] Wang Wenxu,Chen Guanrong.Universal robustness characteristic of weighted networks against cascading failure [J].Physical Review E: Statistical Nonlinear and Soft Matter Physics,2008,77(2): 026101.   \n[11] Mirzasoleiman B,Babaei M,Jalili M, et al.Cascaded failures in weighted networks [J].Physical Review E:Statistical Nonlinear and Soft Matter Physics,2011,84(2): 046114.   \n[12] Hong Chen,Cao Xianbin,Du Wenbo,et al.The effect of attack cost on network robustness [J]. Physica Scripta, 2013,87 (5): 458-465. ",
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,489 @@
+[
+    {
+        "type": "text",
+        "text": "公交车辆与司机调度问题通用算法设计及测试",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "孔云峰",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(河南大学黄河中下游地理信息技术教育部重点实验室，河南开封，475000)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘 要：针对我国城市公交企业生产作业计划编制的需求，设计了一个公交车辆与司机调度问题的通用算法。算法支持电动车辆调度，适用于单线或跨线运营管理，满足人车固定或人车分离的调度模式，也支持灵活的车辆与司机相关参数设置。问题目标包括车辆固定成本、车辆行驶成本、司机固定成本和司机津贴成本，约束条件包括最短停车时间、电动车辆续航里程及充电时间、司机休息与就餐等。算法框架中包含案例数据管理、问题定义、初始解生成、局部搜索算子、搜索策略、数学建模等基本模块，方便于常见优化算法的实现。使用62个单线案例和11个跨线案例进行算法测试，并比较了不同运营模式下调度结果的差异。测试结果验证了算法的功能和性能，案例结果比较发现：使用续航里程 $1 5 0 \\mathrm { k m }$ 电动车辆取代燃油车辆，单线运营车辆数量增幅为 $0 . 8 \\%$ ，跨线运营增幅为 $1 . 6 \\%$ ；与单线运营相比，跨线运营所需车辆和司机数量分别减少 $4 . 6 \\%$ 和 $2 . 4 \\%$ ；与燃油车辆人车固定调度模式相比，人车分离能显著减少所需车辆，单线运营减少 $3 . 6 \\%$ ，跨线运营减少 $1 . 8 \\%$ ，所需司机数量基本保持不变，但司机需要换车驾驶，平均约为2次。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：城市公共交通；车辆与司机调度问题；通用算法；案例研究中图分类号：U121",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "我国城市公共交通事业近年发展快速。首先，城市道路、公交专道、公交停车场、充电设施、公交站台等基础设施不断完善。其次，运营公交车辆数量保持增长，车辆性能和舒适度得到明显提升，且环保清洁的电动车辆占比越来越高。第三，公交信息化日益普及，大多数公交企业已建成信息化平台，提供车辆与司机管理、车辆跟踪、收银结算、客户服务等，部分城市建成目标更高的智慧公交系统。整体上，城市公交服务水平得到明显提升。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "公交线网优化是公交企业提升服务水平和生产效率的关键，也是智慧公交系统的核心功能。公交线网优化划分为五个过程0：网络设计、发车频率设置、时刻表确定、车辆调度和司机排班等过程。文献[2]详细地归纳了公交线网设计问题的模型定义、主要特征和求解方法。针对公交企业车辆与司机调度问题，发达国家已形成了较为成熟的解决方案，基本步骤如下[3][4]： (1)车辆调度(Blocking)，即根据公交班次任务进行车辆调度，最小化车辆数量及行驶成本，形成若干班次链(Block)；(2)司机调度(Runcutting)：划分班次链为若干任务段，分段点作为潜在的司机交接班时间和地点；根据司机工作时间、休息、就餐、报酬制度等，为司机分派任务，目标是降低所需司机数量和薪酬成本。(3)司机轮班(Rostering)：根据司机休假时间规定，按月安排司机轮班工作和休息。其中，司机调度问题最为困难，原因在于任务段组合空间巨大，且司机工作规范及薪酬规定企业间差异很大。通常采用“生成与选择\"方法求解司机调度问题：生成是根据调度经验生成数以十万计的班次链，选择是求解一个覆盖集问题模型，从候选班次链中选择一个成本较低的方案。除使用遗传算法求解覆盖集问题这一途径之外，学者也提出了其他优化方法，如基于禁忌搜索与遗传算法的混合元启发算法[5]、贪婪随机自适应搜索(GRASP)算法[6]、列生成算法[7]等。另外，Valouxis等提出使用混合算法进行车辆与司机",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "作者简介：孔云峰(1967-)，博士，教授，从事空间优化算法研究。E-mail: yfkong@henu.edu.cn基金项目：河南省自然科学基金(编号：182300410132)资助。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "一体化调度[8]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "我国学者也开展了多样化的研究。针对公交车辆调度问题，魏明等针对跨线车辆调度问题，以车辆数量、车辆等待和空驶时间最少为目标，考虑车场容量、车辆加油等因素，设计了蚁群算法，并使用5条线路上238个公交班次对算法进行了验证[9]；李一凡等构建了多车场多车型公交车调度问题的线性规划模型，使用Gurobi优化器求解，并讨论了电动车辆使用成本的变化对公交运营总成本的影响[10]；姚恩建等针对电动车辆跨线调度问题，设计遗传算法进行求解，并以北京市大兴区四条公交线路进行算法验证[11]；滕靖等采用粒子群算法求解单线路纯电动公交车辆运营时刻表设计和车辆调度问题，在上海市的一条公交线路验证了算法的可用性[12]；唐春艳等设计遗传算法求解电动公交车辆调度问题，在灵活调整发车时间的前提下减少所需车辆数量，提升车辆利用率[13]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "针对司机调度问题，刘涛系统地研究了公交司机排班问题的模型，比较了三种算法的求解性能[14]；陈明明等以最小化乘务组成本、停留等待成本和空驶成本为目标，采用禁忌搜索算法优化多车场公交乘务排班问题[15]；陈程探讨了兼顾车辆和司机的多目标公交车辆调度优化算法，力图找到Pareto最优集[16]；陈明明的博士论文针对多种公交管理模式系统地讨论了相关的问题模型和算法[17];侯艳娥等针对人车固定管理模式，提出混合元启发算法求解车辆调度与司机排班问题，通过13案例测试验证了算法的有效性[18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "国内外学者长期关注城市公交线网优化与运营管理，但针对我国城市公交管理模式的算法研究仍充满挑战。首先，我国公交企业通常采用单条线路且人车固定的运营管理模式，导致国际上按车辆调度、司机排班和司机轮班顺序进行作业规划的方法难以直接使用。第二，面向国内公交企业的车辆调度与司机排班问题研究存在若干局限，如问题定义过于简化导致算法适用性差，车辆调度未考虑司机排班，测试案例偏少且案例规模偏小等，难以为公交企业提供一套较为完整的解决方案。基于此，本文设计了一个通用的元启发算法，用于求解多个公交车辆与司机调度问题，支持燃油车辆或电动车辆、单线或跨线、人车国定或人车分离模式的调度模式。使用62个单线案例和11个跨线案例，从多个角度测试算法的功能和性能，力图为公交企业提供一个功能齐全、性能优良、灵活通用的生产作业计划编制工具。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1问题定义",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令集合 $R = \\{ r _ { I } , r _ { 2 } . . . r _ { m } \\}$ 、 $V = \\{ \\nu _ { I } , \\nu _ { 2 } . . . \\nu _ { n } \\}$ 、$D = \\{ d _ { _ I } , d _ { _ 2 } . . . d _ { _ p } \\}$ 和 ${ \\cal S } = \\{ { s _ { I } , s _ { 2 } . . . s _ { q } } \\}$ 分别表示 $m$ 条公交线路、 $n$ 个班次任务、 $p$ 个停车场 $q$ 个公交线路起讫点。每条公交线路上具有若干班次的公交任务，任务 $\\nu _ { i }$ 具有以下属性：线路编号、起点站、终点站、起始时间和结束时间。令 $t _ { i j }$ 表示车辆从站点 $i$ 空驶到站点 $j$ 的时间 $( i , j \\in D \\cup S ^ { \\cdot }$ ）",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "令班次链 $B _ { k } { = } \\{ d _ { k } , \\nu _ { k I } , \\nu _ { k 2 } { \\ldots } \\nu _ { k u } , d _ { k } \\}$ ，表示公交车辆 $k$ 从车场 $d _ { k }$ （ $\\cdot d _ { k } \\in D$ )出发，依次完成 $u$ 个公交任务，最终回到出发车场。当司机固定驾驶某车辆(人车固定)时，可按司机工作要求为 $B _ { k }$ 配置1\\~2个司机。当允许司机换驾车辆(人车分离)时，先进行车辆调度，再进行司机调度。车辆运行线路和司机驾驶任务均使用班次链表达。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "班次链 $B _ { k }$ 的可行性定义如下： (1)针对车辆行驶，两个连续任务之间的时间间隔需大于某一预先给定的数值，如前一任务运行时间的百分比 $10 \\%$ 。该值设置较大时，车辆等待时间偏长，可能导致需要较多的车辆；反之，需要较少的车辆，但当某一车辆出现晚点时，将影响后续班次任务的执行，也会导致司机休息时间得不到保证。(2)当车辆为电动车辆时，假设车辆在夜间完成充电，在运行过程中，可能需要在合适的时间和地点进行快速充电。(3)针对司机调度，班次链 $B _ { k }$ 需考虑司机休息和就餐，例如司机连续驾驶超过4小时，必须休息30分钟以上；在规定的就餐时间段内，必须有30分钟以上的就餐时间。定义班次链中两个班次的时间间隔为前一任务时间的某一百分比gap，是车辆到站后执行下一任务的等待时间，用于司机休息或交接班；司机连续驾驶超过 $t _ { l t }$ 分钟必须休息至少 $t _ { l b }$ 分钟；司机在11-13时和17-20时必须提供至少 $t _ { { \\scriptscriptstyle m } }$ 分钟就餐时间；针对电动车辆，给定电池有效电量 $G { \\mathrm { ~ k W h } }$ 、平均每分钟耗电$g _ { I } \\ \\mathrm { k W h }$ 、每分钟可充电 $g _ { 2 } \\mathrm { k W h }$ ，可以判断电池是否需要充电、是否能够充电及充电时长。基于这些参数可以判断班次链的可行性。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "与班次链 $B _ { k }$ 相关的成本如下： (1)车辆固定成本 $c _ { b f }$ ，包括车辆的年折旧成本、维护费用和保险费用。(2)车辆运行成本 $f _ { 1 } ( B _ { k } )$ ，包括行驶成本、空驶惩罚成本、充电成本等。给定班次链 $B _ { k }$ ，车辆行驶时间、空驶时间、充电时间和时长均已知，可通过定义单位成本计算运行成本：车辆每分钟行驶成本Cbd\\`车辆空驶每分钟惩罚成本 $c _ { b e }$ 、电池充电一次折旧成本 $c _ { e c }$ ，以及浮动电价 $c _ { \\scriptscriptstyle 0 } , c _ { \\scriptscriptstyle I } . . . c _ { \\scriptscriptstyle 2 3 }$ （代表0时、1时...23时的电价)；(3)司机固定成本$f _ { 2 } ( B _ { k } )$ ，计算过程如下：首先为班次链 $B _ { k }$ 分派司机，一般有4种可能：1正常班司机、1高峰班司机、1长班司机或2正常班司机，考虑司机轮班作业，该班次链 $B _ { k }$ 所需司机数量分别约为1.4、1.5、2.0和2.8。定义司机固定成本为 $c _ { d f }$ ，4种司机配置方式的司机固定成本分别为 $1 . 4 c _ { d f }$ 、 $1 . 5 c _ { d f }$ 、 $2 . 0 c _ { d f }$ 和 $2 . 8 { \\cal C } _ { d f }$ 。(4)司机津贴成本 $f _ { 3 } ( B _ { k } )$ ，如加班津贴、异地收工津贴、换车惩罚等。企业对于司机的津贴项目可能差异很大，本文仅考虑换车成本。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于以上成本定义，可以构造目标函数。对于“人车固定\"问题，采用班次链集合$B = \\{ B _ { I } , B _ { 2 } . . . B _ { K } \\}$ 表示该案例的一个解。其目标函数为： $f ( B ) = \\sum _ { b \\in B } ( c _ { b f } + f _ { I } ( b ) + f _ { 2 } ( b ) + f _ { 3 } ( b ) )$ 。对于“人车分离\"问题，先求解车辆行驶班次链 $\\boldsymbol { B ^ { ' } }$ ，在求解司机班次链 $B ^ { ' }$ ，其目标函数$f ( B ^ { ' } , B ^ { ' } ) = \\sum _ { b \\in B ^ { ' } } ( c _ { b f } + f _ { I } ( b ) ) + \\sum _ { b \\in B ^ { ' } } ( f _ { 2 } ( b ) + f _ { 3 } ( b ) )$ 。对于班次链 $b$ ，若不满足约束条件，赋予其足够大的成本，从而阻止非可行链的出现。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "根据实际需要，定义司机工作班制：正常班、高峰班和长班。(1)正常班司机驾驶车辆时间小于 $t _ { \\mathit { d n } I }$ 且上下班时间间隔小于 $t _ { \\mathit { d n 2 } }$ ，如分别取值为 7.5h 和 10h； (2)高峰班司机驾驶车辆时间小于 $t _ { \\mathit { d p l } }$ 、上下班时间间隔小于$t _ { \\mathit { d p 2 } }$ 且高峰间休息时间大于 $t _ { \\mathit { d p 3 } }$ ，如三者取值分别为 7.5h、13h 和 3h；(3)长班司机驾驶车辆时间小于 $t _ { \\mathit { d l I } }$ 且上下班时间间隔小于 $t _ { \\mathit { d l 2 } }$ ，如分别取值为10.5h和 $^ { 1 3 \\mathrm { h } }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2通用算法设计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于我国城市公交企业车辆调度与司机排班的需求，作者设计了一个通用算法框架，满足单条线路或多条线路、燃油车辆或电动车辆、人车固定或人车分离等情形下的问题求解。基本模块如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1)基础数据管理模块：管理公交车场、线路、首尾车站、任务时刻表、站点/站场间距离和行车时间等基础信息。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(2)问题定义模块：基于配置文件，设置问题类型和参数。问题类型是车辆类型、线路数量和人车关系的组合。人车固定调度同时考虑车辆行驶和司机配置，而人车固定调度先调度车辆再配置司机。问题参数较多，包括车辆相关成本、司机相关成本、司机班制定义、司机休息及就餐各种参数定义。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3)解表达及基本操作：将问题解表达为一个班次链集合；针对每个班次链，进行可行性判断操作，包括班次间隔时间可行性判断，电动车辆是否需要充电判断，电动车辆需要充电时是否有合适的地点和时段进行充电，司机就餐可行性判断，司机休息可行性判断等。第二类基本操作包括各类成本的计算，对于每个班次链，先计算车辆及运行成本，再计算司机成本。司机成本计算过程中，按成本增加顺序依次判断当前班次链是否满足1正常班司机、1高峰班司机、1长班司机和2正常班司机的基本要求。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(4)初始解构造：依据车辆运行时间间隔设置要求，构造车辆调度问题模型，求解模型获得若干车辆班次链。若某个班次链不满足司机休息及就餐要求，将该班次链分拆，直到班次链具有可行性。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5)班次链搜索算子：包括单班次移动、班次链交叉、班次链合并、班次链拆分等班次链调整算子[18]，循环调用算子改进车辆调度和司机排班方案。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6)搜索策略模块：基于群解的搜索，即维护多个问题解，每一轮迭代中，随机选择一个解进行搜索，搜索结束后更新群解；破坏重建搜索，即随机破坏当前解，再修复破坏的解，目的是扩大搜索空间，也避免算法陷入局部最优；",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7)参数设置模块：提供算法参数，如问题解群规模、计算时间限制、目标值未改进的连续循环次数等。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "基于以上基本模块，选择使用初始解构造方法、调整算子、搜索策略等，可以实现常见元启发算法。本文在文献[18]算法基础上实现了一个基于迭代局部搜索(ILS)的混合元启发算法。使用车辆调度问题(VSP)模型产生初始解；使用破坏重建方法避免局部最优；记录搜索历史，使用集分割问题(SPP)模型进一步优选问题解。同时进行了算法改进：维护一组目标值较低且具有一定差异的群解；每一轮搜索中使用变邻域下降(VND)方法进行搜索；支持跨线调度和人车分离调度模式；支持灵活的问题参数化定义和算法参数设置。对于人车固定模式，算法评估车辆和司机成本进行班次链搜索改进；对于人车分离模式，算法分两阶段执行，第一阶段最小化车辆数量和行驶成本，第二阶段最小化司机固定成本和司机换车次数。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3案例研究",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1案例数据及作业参数设置",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "作者收集了62条公交线路数据对本文算法框架进行测试。数据来源于三个大型城市",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "H、G和Z，大多是是城市干线公交线路，均为双向发车；线路长度处于 $8 . 9 \\mathrm { \\sim } 6 0 . 4 \\mathrm { k m }$ 之间，平均 $2 6 . 1 \\mathrm { k m }$ ；线路班次平均行驶时间处于 $2 5 . 8 { \\sim } 1 4 5 . 3 \\mathrm { m }$ ，平均 $8 3 . 0 \\mathrm { m }$ ，详细情况见表1。大部分案例中，线路起点或终点均设置停车场；个别案例中，停车场与线路起点或终点间需要 $5 { \\sim } 1 0 \\mathrm { m }$ 的行驶时间。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为测试跨线作业，作者设计了11条跨线案例(表2)。设计方法如下：在一个城市选择2-4条公交线路，假定其上行方向的起点站相同，作为枢纽站点。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "使用以上案例，进行车辆与司机调度实验。每个案例数据对应4个问题类型：燃油车辆人车固定作业、电动车辆人车固定作业、燃油车辆人车分离作业和电动车辆人车分离作业。针对电动车辆，选择两种车型，电池有效容量分别为150和 $1 2 0 \\mathrm { k W h }$ 。注意，电动汽车耗电情况较为复杂，本文未考虑地形、车辆载重、环境温度、电池衰减等因素，实际应用中应建立符合车辆状况与运行环境相一致的能耗模型。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "实验设计的主要参数如下：车辆固定成本 $c _ { b f } = 2 0 0 0 0 0$ ，车辆每分钟行驶成本 $c _ { b d } = 1$ 车辆空驶每分钟惩罚成本 $c _ { b e } = 1 0 0 0$ ；电动车辆电池有效电量 $G { = } 1 5 0$ 或 $1 2 0 \\ \\mathrm { k W h }$ 、行驶平均每分钟耗电 $g _ { I } = 0 . 3 \\mathrm { ~ k W h }$ 、每分钟可充电 $g _ { 2 }$ ${ \\it \\Omega } { \\it \\mathrm { = } } 2 . 0 \\mathrm { k W h }$ ；电池一次充电折旧成本 $c _ { e c } = 3 0$ ，浮动电价 $c _ { 0 } , c _ { I } . . . c _ { 2 3 }$ 处于 $0 . 5 { \\sim } 1 . 0$ 之间。司机固定成本 $c _ { \\mathit { d f } } = 1 0 0 0 0 0$ ；司机班制规定如下：正常班 $t _ { \\it d n 1 } = 7 . 5 \\mathrm { h }$ 、 $t _ { \\mathit { d n 2 } } = 1 0 \\mathrm { h }$ ；高峰班 $t _ { _ { d p I } } { = } 7 . 5 \\mathrm { h }$ 、$t _ { _ { d p 2 } } = 1 4 \\mathrm { h }$ 和 $t _ { \\it d p 3 } = 3$ ；长班 $t _ { \\mathit { d l l } } = 1 0 . 5$ 和$t _ { \\mathit { d l 2 } } = 1 3 \\mathrm { h }$ ；司机休息规定参数 $t _ { l t } = 4 \\mathrm { h }$ 和$t _ { l b } = 0 . 5$ ，就餐时间 $t _ { m } = 0 . 5 \\mathrm { h }$ 。车辆或司机班次链中，两个连续任务的间隔不小于前一任务时长的 $10 \\%$ ，即 $g a p { = } 1 0 \\%$ 。另外，要求车辆完成班次任务后，必须回到出发地。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "本文算法使用Python语言编程实现，测试环境为PC机，配置Corei7-67003.40GHz",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "CPU、8G内存、Windows1064位操作系统。  \nVSP和SPP模型采用CPLEX12.6优化器求解。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为加快算法执行速度，在PyPy (wwW.pypy.org)环境中运行算法。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1bfec06aebe57f27c68955db0325fb3d7133c56c124aac271aaaa6e15b84fe9f.jpg",
+        "table_caption": [
+            "表1单线案例基本特征 Table 1 Main features of the single-route instances ",
+            "表2跨线案例基本特征"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>案例</td><td>班次 数量</td><td>线长 /km</td><td>单程时 间/分</td><td>案例</td><td>班次 数量</td><td>线长 /km</td><td>单程时 间/分</td><td>案例</td><td>班次 数量</td><td>线长 /km</td><td>单程时 间/分</td></tr><tr><td>sh01</td><td>230</td><td>13.6</td><td>52.4</td><td>sza06</td><td>127</td><td>18.9</td><td>50.0</td><td>szb13</td><td>174</td><td>22.5</td><td>81.6</td></tr><tr><td>sh02</td><td>252</td><td>16.8</td><td>57.6</td><td>sza07</td><td>144</td><td>14.7</td><td>50.3</td><td>szb14</td><td>120</td><td>26.2</td><td>77.1</td></tr><tr><td>sh03</td><td>189</td><td>8.9</td><td>25.8</td><td>sza08</td><td>97</td><td>12.9</td><td>62.0</td><td>szc01</td><td>204</td><td>35.1</td><td>106.5</td></tr><tr><td>sh03</td><td>265</td><td>18.6</td><td>67.2</td><td>sza09</td><td>107</td><td>15.8</td><td>54.7</td><td>szc02</td><td>191</td><td>34.2</td><td>102.2</td></tr><tr><td>sh05</td><td>171</td><td>14.5</td><td>57.1</td><td>sza10</td><td>140</td><td>21.2</td><td>55.0</td><td>szc03</td><td>147</td><td>28.3</td><td>97.6</td></tr><tr><td>sh06</td><td>66</td><td>19.3</td><td>68.5</td><td>sza11</td><td>149</td><td>16.9</td><td>55.0</td><td>szc04</td><td>180</td><td>31.3</td><td>98.1</td></tr><tr><td>sh07</td><td>250</td><td>14.3</td><td>53.1</td><td>sza12</td><td>229</td><td>16.3</td><td>60.0</td><td>szc05</td><td>126</td><td>30.5</td><td>112.0</td></tr><tr><td>sg01</td><td>180</td><td>31.6</td><td>107.7</td><td>sza13</td><td>72</td><td>12.0</td><td>45.0</td><td>szc06</td><td>232</td><td>32.3</td><td>103.9</td></tr><tr><td>sg02</td><td>212</td><td>21.5</td><td>83.0</td><td>sza14</td><td>71</td><td>14.2</td><td>52.0</td><td>szd01</td><td>180</td><td>38.4</td><td>157.0</td></tr><tr><td>sg03</td><td>170</td><td>21.9</td><td>86.0</td><td>szb01</td><td>192</td><td>46.7</td><td>69.6</td><td>szd02</td><td>270</td><td>60.4</td><td>129.9</td></tr><tr><td>sg04</td><td>160</td><td>23.8</td><td>77.1</td><td>szb02</td><td>188</td><td>19.4</td><td>65.0</td><td>szd03</td><td>184</td><td>46.7</td><td>127.8</td></tr><tr><td>sg05</td><td>160</td><td>17.5</td><td>69.1</td><td>szb03</td><td>182</td><td>18.1</td><td>68.0</td><td>szd04</td><td>170</td><td>35.7</td><td>120.0</td></tr><tr><td>sg06</td><td>198</td><td>20.8</td><td>81.7</td><td>szb04</td><td>161</td><td>26.9</td><td>86.0</td><td>szd05</td><td>94</td><td>59.4</td><td>125.0</td></tr><tr><td>sg07</td><td>228</td><td>21.0</td><td>90.2</td><td>szb05</td><td>120</td><td>20.9</td><td>83.0</td><td>szd06</td><td>239</td><td>39.3</td><td>117.3</td></tr><tr><td>sg08</td><td>153</td><td>31.9</td><td>112.0</td><td>szb06</td><td>150</td><td>19.1</td><td>71.0</td><td>szd07</td><td>138</td><td>40.9</td><td>145.3</td></tr><tr><td>sg09</td><td>257</td><td>19.8</td><td>71.8</td><td>szb07</td><td>88</td><td>18.5</td><td>69.1</td><td>szd08</td><td>115</td><td>35.8</td><td>120.0</td></tr><tr><td>sza01</td><td>256</td><td>12.9</td><td>44.0</td><td>szb08</td><td>228</td><td>22.4</td><td>68.0</td><td>szd09</td><td>222</td><td>41.6</td><td>119.4</td></tr><tr><td>sza02</td><td>120</td><td>17.0</td><td>48.8</td><td>szb09</td><td>169</td><td>22.7</td><td>71.6</td><td>szd10</td><td>118</td><td>48.0</td><td>134.9</td></tr><tr><td>sza03</td><td>152</td><td>18.5</td><td>61.9</td><td>szb10</td><td>119</td><td>20.8</td><td>80.0</td><td>szd11</td><td>118</td><td>26.5</td><td>108.7</td></tr><tr><td>sza04</td><td>108</td><td>51.8</td><td>95.0</td><td>szb11</td><td>116</td><td>16.4</td><td>75.0</td><td>szd12</td><td>216</td><td>45.3</td><td>125.0</td></tr><tr><td>sza05</td><td>166</td><td>17.7</td><td>59.0</td><td>szb12</td><td>210</td><td>32.4</td><td>80.0</td><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2d9f491e5935dc9d2ef8edfdc3b813b7a98eed12273d93e0fb2e64a46008eda.jpg",
+        "table_caption": [
+            "Table 2 Main features of the multi-route instances "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>案例</td><td>线路</td><td>班次数量</td><td>长度/km</td><td>服务时间/m</td></tr><tr><td>shmr01</td><td>sh05, sh06</td><td>237</td><td>3753</td><td>14285</td></tr><tr><td>shmr02</td><td>sh01,sh05</td><td>401</td><td>5608</td><td>21819</td></tr><tr><td>sgmr01</td><td>sg04, sg05</td><td>320</td><td>6608</td><td>23400</td></tr><tr><td>sgmr02</td><td>sg07, sg08</td><td>381</td><td>9669</td><td>37697</td></tr><tr><td>szmr01</td><td>sza01,sza02,sza03</td><td>528</td><td>8154</td><td>26525</td></tr><tr><td>szmr02</td><td>sza04, sza04, sza06</td><td>401</td><td>10933</td><td>26404</td></tr><tr><td>szmr03</td><td>sza07,sza08,sza09,sza10</td><td>488</td><td>8027</td><td>26810</td></tr><tr><td>szmr04</td><td>szal1,szal2,szal3,sza14</td><td>521</td><td>8123</td><td>28867</td></tr><tr><td>szmr05</td><td>szc01, sza05</td><td>346</td><td>9840</td><td>38055</td></tr><tr><td>szmr06</td><td>szc02,sza01</td><td>526</td><td>19610</td><td>46331</td></tr><tr><td>szmr07</td><td>szc03,sza12</td><td>413</td><td>12326</td><td>37252</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2单线调度结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "针对62条单线案例，进行车辆与司机调度。每个案例设置调度场景如下：采用燃油车辆、较高性能电动车辆(\"电动1\")或较差性能电动车辆(\"电动2\")，并分别按人车固定和人车分离模式进行调度。这样，每个案例获得6个调度结果，调度结果满足4.1节设置的参数约束。因数据量较大，表3按案例分组列出主要指标，即每组案例所需车辆数量、单日所需司机数量、轮班所需司机数量及车辆空驶次数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/77870ec70a6ab28bd053c6062ac09b99d3bc04d2d2cb08e2fb3ad97cfd2d31ff.jpg",
+        "table_caption": [
+            "表3:单条线路作业计划统计",
+            "Table 3 Scheduling results from the single-route instances "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">案例 分组</td><td rowspan=\"2\">车辆类 型</td><td colspan=\"4\">人车固定调度</td><td colspan=\"4\">人车分离调度</td></tr><tr><td>车辆 数量</td><td>司机 数量</td><td>轮班司 机数量</td><td>空驶 数量</td><td>车辆 数量</td><td>司机 数量</td><td>轮班司 机数量</td><td>空驶 数量</td></tr><tr><td>sh</td><td>燃油</td><td>127</td><td>193</td><td>280.2</td><td>27</td><td>127</td><td>194</td><td>282.1</td><td>19</td></tr><tr><td>sh</td><td>电动1</td><td>130</td><td>195</td><td>283.5</td><td>23</td><td>127</td><td>194</td><td>281.9</td><td>19</td></tr><tr><td>sh</td><td>电动2</td><td>130</td><td>193</td><td>283.3</td><td>19</td><td>127</td><td>195</td><td>283.5</td><td>19</td></tr><tr><td>sg</td><td>燃油</td><td>212</td><td>356</td><td>518.9</td><td>26</td><td>205</td><td>358</td><td>517.9</td><td>30</td></tr><tr><td>sg</td><td>电动1</td><td>214</td><td>359</td><td>519.5</td><td>28</td><td>205</td><td>355</td><td>513.4</td><td>30</td></tr><tr><td>sg</td><td>电动2</td><td>215</td><td>353</td><td>514.2</td><td>26</td><td>205</td><td>356</td><td>514.4</td><td>30</td></tr><tr><td>sza</td><td>燃油</td><td>189</td><td>292</td><td>432.2</td><td>26</td><td>181</td><td>291</td><td>429.6</td><td>18</td></tr><tr><td>sza</td><td>电动1</td><td>190</td><td>294</td><td>431.8</td><td>20</td><td>182</td><td>292</td><td>424.4</td><td>16</td></tr><tr><td>sza</td><td>电动2</td><td>189</td><td>293</td><td>432.6</td><td>22</td><td>184</td><td>292</td><td>427.8</td><td>18</td></tr><tr><td>szb</td><td>燃油</td><td>272</td><td>423</td><td>630.2</td><td>47</td><td>256</td><td>424</td><td>627.4</td><td>29</td></tr><tr><td>szb</td><td>电动1</td><td>274</td><td>426</td><td>631.8</td><td>39</td><td>258</td><td>423</td><td>626.3</td><td>31</td></tr><tr><td>szb</td><td>电动2</td><td>275</td><td>425</td><td>632.3</td><td>31</td><td>261</td><td>422</td><td>625.5</td><td>25</td></tr><tr><td>SZC</td><td>燃油</td><td>186</td><td>257</td><td>395.7</td><td>2</td><td>180</td><td>257</td><td>393.7</td><td>2</td></tr><tr><td>SZC</td><td>电动1</td><td>189</td><td>259</td><td>394.9</td><td>2</td><td>180</td><td>258</td><td>393.2</td><td>2</td></tr><tr><td>SZC</td><td>电动2</td><td>188</td><td>259</td><td>396.8</td><td>2</td><td>180</td><td>261</td><td>393.9</td><td>2</td></tr><tr><td>szd</td><td>燃油</td><td>415</td><td>643</td><td>983.5</td><td>22</td><td>402</td><td>641</td><td>983.0</td><td>8</td></tr><tr><td>szd</td><td>电动1</td><td>415</td><td>644</td><td>984.8</td><td>22</td><td>403</td><td>641</td><td>980.2</td><td>14</td></tr><tr><td>szd</td><td>电动2</td><td>415</td><td>645</td><td>986.5</td><td>20</td><td>403</td><td>639</td><td>982.7</td><td>10</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "调度模式比较可以发现：(1)使用电动车辆取代燃油车辆，人车固定模式下，大多数线路无需增加车辆，个别线路需增加1辆车，平均增加 $0 . 8 \\%$ ；而人车分离模式，平均增加 $0 . 3 \\%$ 较高性能车辆或 $0 . 7 \\%$ 较低性能车辆；所需司机数量，总体上无明显变化。(2)与人车固定调度模式相比，人车分离调度能够减少所需车辆 $3 . 8 \\%$ ，减少司机 $0 . 4 \\%$ ，减少空驶次数 $20 . 3 \\%$ ,但司机在一个工作日内需要换车约2次。(3)针对燃油车辆人车固定模式，车辆日均行驶10.3h形成 $1 8 9 . 6 \\mathrm { k m }$ ，司机日均驾车6.7h行程 $1 2 3 . 6 \\mathrm { k m }$ ，表明车辆利用率较高，司机工作时间安排合理。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3跨线调度结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对11个跨线案例进行车辆与司机调度。每个案例设置调度场景如下：采用燃油车辆或电动车辆，并分别按人车固定和人车分离模式进行调度。表4为全部案例4种调度场景的主要结果，并于单线调度结果进行比较。可以发现：(1)与单线调度相比，跨线调度减少车辆 $4 . 6 \\%$ ，减少司机 $2 . 4 \\%$ ，但平均增加1.5次空驶；同时，每车日均运营由$2 0 1 \\mathrm { k m }$ 提升到 $2 1 1 \\mathrm { k m }$ ，司机日均驾车服务里程由 $1 2 3 \\mathrm { k m }$ 提升到 $1 2 6 \\mathrm { k m }$ 。(2)使用电动车辆取代燃油车辆，人车固定模式需增加0\\~2 辆车，平均增加 $1 . 6 \\%$ ，而人车分离不需增加车辆。(3)与人车固定调度模式相比，人车分离减少车辆 $2 . 6 \\%$ ，司机数量保持基本不变，空驶减少 $7 . 9 \\%$ ，但每个司机在一个工作日内需要换车约2次。总体上，因长短线路相协调，车辆调度更加灵活，能显著地减少所需车辆；同样，司机工作时间更为均衡，且容易为司机安排合理的休息和就餐时间。同时，跨线调度使调度规模大幅度增加，作业计划编者更为困难，手工作业难以胜任，必须依靠性能良好的调度算法工具。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4跨线调度结果及与单线调度比较 ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d59591d044257129898c221c13de5d33395ee6fea31ba505f67d3571e0ce64e.jpg",
+        "table_caption": [
+            "Table 4 Scheduling results from the multi-route instances "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">案例</td><td rowspan=\"2\">车辆</td><td rowspan=\"2\">人车关系</td><td colspan=\"3\">跨线调度</td><td colspan=\"3\">单线调度</td><td colspan=\"3\">改进百分比</td></tr><tr><td>车辆</td><td>司机</td><td>空驶</td><td>车辆</td><td>司机</td><td>空驶</td><td>车辆</td><td>司机</td></tr><tr><td>shmr01</td><td>燃油</td><td>固定</td><td>24</td><td>52.5</td><td>5</td><td>25</td><td>53.9</td><td>5</td><td>4.00%</td><td>2.60%</td></tr><tr><td>shmr02</td><td>燃油</td><td>固定</td><td>35</td><td>78.3</td><td>5</td><td>35</td><td>79.6</td><td>7</td><td>0.00%</td><td>1.63%</td></tr><tr><td>sgmr01</td><td>燃油</td><td>固定</td><td>31</td><td>80.9</td><td>8</td><td>33</td><td>82.6</td><td>8</td><td>6.06%</td><td>2.06%</td></tr><tr><td>sgmr02</td><td>燃油</td><td>固定</td><td>48</td><td>126.3</td><td>7</td><td>51</td><td>127.9</td><td>3</td><td>5.88%</td><td>1.25%</td></tr><tr><td>szmr01</td><td>燃油</td><td>固定</td><td>44</td><td>106.2</td><td>8</td><td>46</td><td>110.6</td><td>8</td><td>4.35%</td><td>3.98%</td></tr><tr><td>szmr02</td><td>燃油</td><td>固定</td><td>42</td><td>99.5</td><td>9</td><td>45</td><td>102.4</td><td>7</td><td>6.67%</td><td>2.83%</td></tr><tr><td>szmr03</td><td>燃油</td><td>固定</td><td>43</td><td>103.7</td><td>4</td><td>46</td><td>106.6</td><td>6</td><td>6.52%</td><td>2.72%</td></tr><tr><td>szmr04</td><td>燃油</td><td>固定</td><td>48</td><td>111.8</td><td>7</td><td>52</td><td>112.6</td><td>5</td><td>7.69%</td><td>0.71%</td></tr><tr><td>szmr05</td><td>燃油</td><td>固定</td><td>53</td><td>132.2</td><td>6</td><td>59</td><td>141.8</td><td>6</td><td>10.17%</td><td>6.77%</td></tr><tr><td>szmr06</td><td>燃油</td><td>固定</td><td>66</td><td>165.1</td><td>6</td><td>67</td><td>173.9</td><td>6</td><td>1.49%</td><td>5.06%</td></tr><tr><td>szmr07</td><td>燃油</td><td>固定</td><td>55</td><td>138.5</td><td>9</td><td>58</td><td>144.3</td><td>3</td><td>5.17%</td><td>4.02%</td></tr><tr><td>shmr01</td><td>电动</td><td>固定</td><td>24</td><td>51.1</td><td>5</td><td>25</td><td>55.0</td><td>3</td><td>4.00%</td><td>7.09%</td></tr><tr><td>shmr02</td><td>电动</td><td>固定</td><td>35</td><td>77.6</td><td>5</td><td>37</td><td>80.7</td><td>5</td><td>5.41%</td><td>3.84%</td></tr><tr><td>sgmr01</td><td>电动</td><td>固定</td><td>32</td><td>82.6</td><td>8</td><td>33</td><td>82.7</td><td>8</td><td>3.03%</td><td>0.12%</td></tr><tr><td>sgmr02</td><td>电动</td><td>固定</td><td>50</td><td>127.6</td><td>7</td><td>52</td><td>128.3</td><td>3</td><td>3.85%</td><td>0.55%</td></tr><tr><td>szmr01</td><td>电动</td><td>固定</td><td>46</td><td>104.0</td><td>10</td><td>46</td><td>108.8</td><td>6</td><td>0.00%</td><td>4.41%</td></tr><tr><td>szmr02</td><td>电动</td><td>固定</td><td>43</td><td>99.0</td><td>7</td><td>45</td><td>103.0</td><td>7</td><td>4.44%</td><td>3.88%</td></tr><tr><td>szmr03</td><td>电动</td><td>固定</td><td>43</td><td>104.8</td><td>4</td><td>47</td><td>105.5</td><td>2</td><td>8.51%</td><td>0.66%</td></tr><tr><td>szmr04</td><td>电动</td><td>固定</td><td>49</td><td>111.9</td><td>13</td><td>52</td><td>114.6</td><td>5</td><td>5.77%</td><td>2.36%</td></tr><tr><td>szmr05</td><td>电动</td><td>固定</td><td>53</td><td>132.3</td><td>6</td><td>59</td><td>142.6</td><td>8</td><td>10.17%</td><td>7.22%</td></tr><tr><td>szmr06</td><td>电动</td><td>固定</td><td>66</td><td>167.0</td><td>6</td><td>67</td><td>173.3</td><td>6</td><td>1.49%</td><td>3.64%</td></tr><tr><td>szmr07</td><td>电动</td><td>固定</td><td>56</td><td>140.5</td><td>7</td><td>58</td><td>144.5</td><td>3</td><td>3.45%</td><td>2.77%</td></tr><tr><td>shmr01</td><td>燃油</td><td>分离</td><td>24</td><td>51.8</td><td>5</td><td>25</td><td>54.2</td><td>3</td><td>4.00%</td><td>4.43%</td></tr><tr><td>shmr02</td><td>燃油</td><td>分离</td><td>33</td><td>79.9</td><td>9</td><td>35</td><td>78.6</td><td>3</td><td>5.71%</td><td>-1.65%</td></tr><tr><td>sgmr01</td><td>燃油</td><td>分离</td><td>31</td><td>81.9</td><td>8</td><td>32</td><td>82.6</td><td>8</td><td>3.13%</td><td>0.85%</td></tr><tr><td>sgmr02</td><td>燃油</td><td>分离</td><td>46</td><td>128.6</td><td>11</td><td>48</td><td>126.9</td><td>7</td><td>4.17%</td><td>-1.34%</td></tr><tr><td>szmr01</td><td>燃油</td><td>分离</td><td>44</td><td>104.3</td><td>6</td><td>46</td><td>108.7</td><td>6</td><td>4.35%</td><td>4.05%</td></tr><tr><td>szmr02</td><td>燃油</td><td>分离</td><td>41</td><td>99.8</td><td>5</td><td>43</td><td>102.9</td><td>5</td><td>4.65%</td><td>3.01%</td></tr><tr><td>szmr03</td><td>燃油</td><td>分离</td><td>42</td><td>103.7</td><td>4</td><td>44</td><td>105.1</td><td>2</td><td>4.55%</td><td>1.33%</td></tr><tr><td>szmr04</td><td>燃油</td><td>分离</td><td>48</td><td>113.3</td><td>3</td><td>48</td><td>112.9</td><td>5</td><td>0.00%</td><td>-0.35%</td></tr><tr><td>szmr05</td><td>燃油</td><td>分离</td><td>53</td><td>131.4</td><td>6</td><td>57</td><td>142.5</td><td>4</td><td>7.02%</td><td>7.79%</td></tr><tr><td>szmr06</td><td>燃油</td><td>分离</td><td>65</td><td>167.6</td><td>6</td><td>66</td><td>173</td><td>6</td><td>1.52%</td><td>3.12%</td></tr><tr><td>szmr07</td><td>燃油</td><td>分离</td><td>53</td><td>140.8</td><td>7</td><td>57</td><td>141.6</td><td>1</td><td>7.02%</td><td>0.56%</td></tr><tr><td>shmr01</td><td>电动</td><td>分离</td><td>24</td><td>51.8</td><td>5</td><td>25</td><td>54.2</td><td>3</td><td>4.00%</td><td>4.43%</td></tr><tr><td>shmr02</td><td>电动</td><td>分离</td><td>33</td><td>81.1</td><td>9</td><td>35</td><td>79.2</td><td>3 8</td><td>5.71% 3.13%</td><td>-2.40% -0.49%</td></tr><tr><td>sgmr01 sgmr02</td><td>电动 电动</td><td>分离 分离</td><td>31 46</td><td>82.8 127.8</td><td>8 11</td><td>32 48</td><td>82.4 126.5</td></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.4参数分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本文实现的算法不仅满足多模式公交车辆与司机调度，而且支持公交运营参数的设置。为验证参数设置对调度结果的影响，选择3个单线案例和1个跨线案例进行测试。表5是改变车辆中停时间参数Gap的计算结果，其他参数与前节案例测试相同，调度模式为燃油车辆人车固定。可以看出：随Gap增加，所需车辆数量增加，增加幅度显著；随 Gap 增加，单日公交作业所需司机数量、空驶数量有一定的波动。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/19ad7fc446aa9961dec4bea789d42a7e791e7db4a77eec8bcdc33583f4a7f021.jpg",
+        "table_caption": [
+            "Table 5 Effects of the bus waiting time(gap) on scheduling results "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">案例 Gap</td><td colspan=\"3\">sh01</td><td colspan=\"3\">sg07</td><td colspan=\"3\">szb12</td><td colspan=\"3\">szmr04</td></tr><tr><td>车辆</td><td>司机</td><td>空驶</td><td>车辆</td><td>司机</td><td>空驶</td><td>车辆</td><td>司机</td><td>空驶</td><td>车辆</td><td>司机</td><td>空驶</td></tr><tr><td>5%</td><td>18</td><td>28</td><td>2</td><td>28</td><td>46</td><td>4</td><td>26</td><td>40</td><td>2</td><td>46</td><td>69</td><td>7</td></tr><tr><td>7%</td><td>19</td><td>28</td><td>2</td><td>29</td><td>46</td><td>4</td><td>27</td><td>40</td><td>6</td><td>46</td><td>71</td><td>9</td></tr><tr><td>9%</td><td>19</td><td>28</td><td>2</td><td>28</td><td>47</td><td>6</td><td>28</td><td>39</td><td>2</td><td>47</td><td>72</td><td>7</td></tr><tr><td>10%</td><td>19</td><td>28</td><td>2</td><td>29</td><td>47</td><td>6</td><td>28</td><td>39</td><td>2</td><td>48</td><td>71</td><td>11</td></tr><tr><td>11%</td><td>20</td><td>28</td><td>2</td><td>30</td><td>46</td><td>4</td><td>28</td><td>39</td><td>4</td><td>49</td><td>74</td><td>9</td></tr><tr><td>13%</td><td>20</td><td>29</td><td>2</td><td>30</td><td>47</td><td>4</td><td>29</td><td>38</td><td>0</td><td>50</td><td>72</td><td>9</td></tr><tr><td>15%</td><td>20</td><td>29</td><td>2</td><td>30</td><td>48</td><td>6</td><td>29</td><td>37</td><td>4</td><td>50</td><td>72</td><td>9</td></tr><tr><td>20%</td><td>21</td><td>29</td><td>2</td><td>32</td><td>48</td><td>4</td><td>28</td><td>38</td><td>6</td><td>52</td><td>74</td><td>9</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "进一步测试司机班制设计对车辆与司机调度的影响。针对4个案例，设计5种班制，除司机班制定义外，其他参数与前节案例测试相同，调度模式为燃油车辆人车固定。计算结果见表6。可以看出：所需车辆与司机数量受司机班制影响较大，但对于不同的案例，其影响差异较大。针对案例sh01，因其双峰特征突出，不允许高峰班会使所需在10.5h，难以提高司机的工作效率。综上，司机工作班制设计对于公交司机调度影响显著，一方面需要高峰班和长班减少所需司机数量，另一方面，需要根据线路特征适当修改工作时长参数，有利于合理地为司机分派任务。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1557f28192464246beea15f4cf6256fe4873bf63e410ad0e7d48778113fde2e1.jpg",
+        "table_caption": [
+            "表5车辆中停时间(gap)对车辆调度的影响",
+            "表6司机班制设计对公交作业的影响",
+            "Table 6 Effects of the design of drivers’working shifts on scheduling results "
+        ],
+        "table_footnote": [
+            "司机数量大幅增加；而对于案例sg07、szb12和 $\\operatorname { s z m r } 0 4$ ，不允许长班会使所需司机数量大",
+            "幅增加。对于案例szb12，因单班次任务时间为 $8 0 \\mathrm { m }$ ，正常班时间为7.5h或长班时间限制"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">raoleoLneetsortnedesrghor 案例</td><td rowspan=\"2\">正常班 tn1</td><td rowspan=\"2\">长班 ta</td><td rowspan=\"2\">高峰班</td><td colspan=\"5\">1111S511 dgTesurts</td></tr><tr><td>长班</td><td>车辆</td><td>单日司 机数量</td><td>总司机 数量</td><td>空驶 数量</td></tr><tr><td>sh01</td><td>8</td><td>10.7</td><td>允许</td><td>允许</td><td>19</td><td>28</td><td>41.7</td><td>2</td></tr><tr><td>sh01</td><td>8</td><td>10.5</td><td>允许</td><td>允许</td><td>19</td><td>28</td><td>41.1</td><td>2</td></tr><tr><td>sh01</td><td>8</td><td>10.7</td><td>不允许</td><td>允许</td><td>19</td><td>30</td><td>46.2</td><td>2</td></tr><tr><td>sh01</td><td>8</td><td></td><td>允许</td><td>不允许</td><td>20</td><td>30</td><td>42.4</td><td>2</td></tr><tr><td>sh01</td><td>8</td><td>-</td><td>不允许</td><td>不允许</td><td>19</td><td>37</td><td>51.8</td><td>2</td></tr><tr><td>sg07</td><td>8</td><td>10.7</td><td>允许</td><td>允许</td><td>29</td><td>47</td><td>69.0</td><td>6</td></tr><tr><td>sg07</td><td>8</td><td>10.5</td><td>允许</td><td>允许</td><td>29</td><td>47</td><td>69.2</td><td>6</td></tr><tr><td>sg07</td><td>8</td><td>10.7</td><td>不允许</td><td>允许</td><td>29</td><td>48</td><td>72.0</td><td>6</td></tr><tr><td>sg07</td><td>8</td><td></td><td>允许</td><td>不允许</td><td>29</td><td>53</td><td>74.4</td><td>6</td></tr><tr><td>sg07</td><td>8</td><td>1</td><td>不允许</td><td>不允许</td><td>29</td><td>54</td><td>75.6</td><td>6</td></tr><tr><td>szb12</td><td>8</td><td>10.7</td><td>允许</td><td>允许</td><td>26</td><td>33</td><td>54.2</td><td>0</td></tr><tr><td>szb12</td><td>8</td><td>10.5</td><td>允许</td><td>允许</td><td>27</td><td>40</td><td>56.7</td><td>0</td></tr><tr><td>szb12</td><td>8</td><td>10.7</td><td>不允许</td><td>允许</td><td>26</td><td>33</td><td>55.2</td><td>0</td></tr><tr><td>szb12</td><td>8</td><td></td><td>允许</td><td>不允许</td><td>28</td><td>39</td><td>55.4</td><td>0</td></tr><tr><td>szb12</td><td>8</td><td></td><td>不允许</td><td>不允许</td><td>26</td><td>47</td><td>65.8</td><td>0</td></tr><tr><td>Szmr04</td><td>8</td><td>10.7</td><td>允许</td><td>允许</td><td>49</td><td>70</td><td>106.1</td><td>7</td></tr><tr><td>szmr04</td><td>8</td><td>10.5</td><td>允许</td><td>允许</td><td>48</td><td>72</td><td>110.5</td><td>11</td></tr><tr><td>szmr04</td><td>8</td><td>10.7</td><td>不允许</td><td>允许</td><td>48</td><td>75</td><td>115.8</td><td>7</td></tr><tr><td>szmr04</td><td>8</td><td></td><td>允许</td><td>不允许</td><td>49</td><td>83</td><td>117.5</td><td>9</td></tr><tr><td>szmr04</td><td>8</td><td>1</td><td>不允许</td><td>不允许</td><td>48</td><td>91</td><td>127.4</td><td>5</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.5计算时间",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文案例测试时间统计见表7。表中给出了6个单线调度案例组中每个案例的平均计算时间，11个跨线调度案例的计算时间。可以看出，计算时间与案例规模相关，也受线路长度、服务时长、所需车辆和司机数量的影响。对于相同的案例数据，使用电动车辆比使用燃油车辆计算时间大幅增加，因需要检测电池续航能力，并设置充电时间和地点。对于跨线调度案例，计算时间大幅增加，因部分搜索算子计算复杂度为 $O ( n ^ { 2 } )$ ，随案例规模增大，所需计算时间大幅增加。考虑到公交作业计划编制不是日常性工作，本文算法计算时间可以接受。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/09c07db879464c1ab67a7cdfacfb7d5fafc79a70b556dd5e5839f09fb0014a3f.jpg",
+        "table_caption": [
+            "表7案例计算时间(s)",
+            "Table 7 Statistics of computing times on instances "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>人车关系 车辆类型</td><td>固定 燃油</td><td>固定 电动1</td><td>固定 电动2</td><td>不固定 燃油</td><td>不固定 电动1</td><td>不固定 电动2</td></tr><tr><td>sh</td><td>157.3</td><td>203.3</td><td>252.0</td><td>186.8</td><td>250.1</td><td>329.3</td></tr><tr><td>sg</td><td>174.4</td><td>260.7</td><td>268.9</td><td>198.4</td><td>247.3</td><td>293.6</td></tr><tr><td>sza</td><td>67.9</td><td>118.0</td><td>103.4</td><td>74.5</td><td>114.6</td><td>118.0</td></tr><tr><td>szb</td><td>78.7</td><td>146.7</td><td>140.4</td><td>110.9</td><td>150.1</td><td>156.6</td></tr><tr><td>SZC</td><td>89.7</td><td>192.2</td><td>193.7</td><td>159.2</td><td>173.2</td><td>153.0</td></tr><tr><td>szd</td><td>78.8</td><td>117.8</td><td>133.6</td><td>101.3</td><td>121.7</td><td>148.3</td></tr><tr><td>shmr01</td><td>376.3</td><td>430.8</td><td>346.8</td><td>285.6</td><td>843.1</td><td>512.5</td></tr><tr><td>shmr02</td><td>509.1</td><td>777.1</td><td>670.9</td><td>574.2</td><td>1062.3</td><td>1132.7</td></tr><tr><td>sgmr01</td><td>437.1</td><td>745.2</td><td>697.9</td><td>646.0</td><td>937.5</td><td>1031.0</td></tr><tr><td>sgmr02</td><td>682.7</td><td>1056.4</td><td>715.3</td><td>792.8</td><td>1292.7</td><td>1227.3</td></tr><tr><td>szmr01</td><td>804.9</td><td>1139.7</td><td>1217.6</td><td>817.0</td><td>1522.2</td><td>1398.8</td></tr><tr><td>szmr02</td><td>528.4</td><td>927.1</td><td>1038.9</td><td>947.0</td><td>1240.6</td><td>1116.4</td></tr><tr><td>szmr03</td><td>626.9</td><td>897.6</td><td>1133.5</td><td>1367.1</td><td>1342.0</td><td>1496.3</td></tr><tr><td>szmr04</td><td>670.7</td><td>1121.7</td><td>1168.7</td><td>1250.4</td><td>1509.8</td><td>1600.5</td></tr><tr><td>szmr05</td><td>241.2</td><td>481.2</td><td>474.3</td><td>501.8</td><td>614.5</td><td>694.2</td></tr><tr><td>szmr06</td><td>728.5</td><td>1015.6</td><td>1071.7</td><td>1467.6</td><td>1659.8</td><td>1681.6</td></tr><tr><td>szmr07</td><td>606.5</td><td>1098.0</td><td>1075.0</td><td>987.7</td><td>1361.2</td><td>1373.5</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文设计了一个公交车辆与司机调度问题的通用算法。算法包含案例数据管理、问题定义、初始解生成、基本操作、局部搜索算子、搜索策略、数学建模等基本模块。算法模块灵活组合，支持燃油车辆或电动车辆调度，适用于单线或跨线运营管理，满足人车固定或人车分离模式的作业计划编制，也支持灵活的问题参数设置和算法参数设置。与现有算法相比，本文算法具有明显的优势：充分考虑车辆和司机相关的成本；支持多种调度模式，通用性好；能够满足我国公交企业的生产作业及运营变革需求。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文使用62个单线案例和11个跨线案例进行算法测试，并比较了不同运营模式下生产作业方案的差异。测试结果验证了算法的功能和性能，单线案例平均计算时间为163s，跨线案例平均为936s，运行时间可以接受。针对车辆与司机调度模式比较发现：案例中大多数公交线路能够以1：1的比例使用电动车辆取代燃油车辆；部分公交线路采用跨线运营后，车辆和司机效率提高显著；车辆执行任务间隔时间设置对于车辆利用率影响显著；工作班制设计对于公交司机调度影响显著，多班制组合及根据线路特征设置班制参数，有利于提升司机工作效率；与人车固定模式相比，人车分离运营能提升车辆和司机的效率，但司机日均2次的换车作业会带来一定程度说增加管理难度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文提出的公交车辆与司机调度问题的通用算法尚需进一步发展。首先，算法的计算效率有待进一步提高，特别是针对跨线调度运营模式。其次，针对人车分离模式，司机换车次数偏多，因此有必要在算法中增加司机换车次数约束及相关的搜索策略。最后，本文算法应当在应用实践中进一步发展和改进。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1]Ceder A，Wilson N H M. Bus network design [J]. Transportation Research B,1986, 20: 331-344.   \n[2]Kepaptsoglou K,Karlaftis M G. Transit Route Network Design Problem: Review [J]. Journal of Transportation Engineering, 2009, 135(8): 491-505.   \n[3]Pine Niemeyer J,R Chisholm.Transit scheduling: basic and advanced manuals [M].Washington: Transportation Research Board, 1998.   \n[4] NationalAcademies of Sciences, Engineering， and Medicine. Controlling System Costs:BasicandAdvanced Scheduling Manualsand Contemporary IssuesinTransitScheduling[M]. Washington DC: The National Academies Press,2009.   \n[5]Lourenco HR, Paixao J M, Portugal R, et al. Multiobjective Metaheuristics for the Bus Driver Scheduling Problem [J]. Transportation Science, 2001,35(3): 331- 343.   \n[6]De Leone R,Festa P, Marchitto E,et al.A Bus Driver Scheduling Problem: a new mathematicalmodelanda GRASP approximatesolution[J].Journalof Heuristics,2011,17(4): 441-466.   \n[7]Lin D，Hsu C. A column generation algorithm for the bus driver scheduling problem[J]. Journal ofAdvanced Transportation, 2016, 50(8): 1598-1615.   \n[8]Valouxis C,Housos E. Combined bus and driverscheduling[J].Computers& Operations Research, 2002,29(3): 243-259.   \n[9]魏明,靳文舟,孙博.求解区域公交车辆调 度问题的蚁群算法研究[J].公路交通科技, U(U).IT SUN B. Ant Colony Algorithm for Regional Bus Scheduling Problem [J]. Journal of Highway and Transportation Research and Development，2011， 28(6):141-145.in Chinese]   \n[10]李一凡，杨友磊.基于整数规划的多车场 多车型公交车辆调度问题研究[J].综合运 输,2019，41(12):61-66.[LIYF, YANGY L. Multiple DepotsandTypesBus Scheduling Problems Based on Integer Programming[J]. China Transportation Review,2019,41(12): 61-66.in Chinese]   \n[11] 姚恩建,卢沐阳,刘宇环,等.考虑充电约束 的电动公交区域行车计划编制[J].华南理 工大学学报(自然科学版),2019,47(9):68- 73.[YAO E J, LU M Y, LIU Y H, et al. Electric Bus Area Driving Plan Preparation ConsideringCharging Constraints[J], Journal of South China Universityof Technology (Natural Science Edition), 2019, 47(9):68-73. in Chinese] [12]滕靖，林琳,陈童.纯电动公交时刻表和车 辆排班计划整体优化[J].同济大学学报 （自然科学版),2019,047(012):1748-1755. [TENG J,LINL, CHEN T. Optimizing the Combination of Timetable and Vehicle Scheduling for Pure Electric Buses [J]. JournalofTongjiUniversity(natural science)， 2019， 047(012):1748-1755.in Chinese]   \n[13] 唐春艳,杨凯强,邬娜．单线纯电动公交车 辆柔性调度优化[J].交通运输系统工程与 信息，2020,20(3):156-162.[TANG CY, YANG K Q, WU N. Optimizing Flexible Vehicle Scheduling for Single-line Battery Electric Buses [J]. Journal of Transportation SystemsEngineeringandInformation Technology,2020，20(3):156-162.in Chinese]   \n[14] 刘涛.公交驾驶员排班与轮班问题的模型 与算法研究[D].北京:北京交通大学,2013. [LIU T. Models and Algorithms for Bus Driver Run Cutting and Rostering [D]. Beiiing:Beiing Jiaotong Universitv. 2013. in Chinese]   \n[15]陈明明，牛惠民．多车场公交乘务排班问 题优化[J].交通运输系统工程与信息, 2013,13(5):159-166.[Chen M M,NIU H M.An Optimization Model for Bus Crew Schedulingwith Multiple Depots[J]. JournalofTransportationSystems Engineering and Information Technology, 2013,13(5):159-166.in Chinese]   \n[16]陈程.基于多目标优化算法的公交车辆调 度研究[D].北京：北京邮电大学，2014. [Chen C. TheResearchonVehicle SchedulingProblemBasedonMultiobjective Optimization Algorithms[D]. Beijing: Beijing University of Posts and Telecommunications,2014. in Chinese]   \n[17]陈明明.城市公共交通乘务调度优化理论 和方法[D].兰州：兰州交通大学， 2016.[Chen M M Theory and Method for Crew Scheduling ProblemofUrban Public Transport [D].Lanzhou: Lanzhou Jiaotong University, 2016. in Chinese]   \n[18]侯彦娥,孔云峰,朱艳芳等.公交司机排班 问题的混合元启发算法研究[J].交通运输 系统工程与信息，2018，18(1):133-138. [HOUYE,KONGYF，ZHUYF,et al.A Hybrid Metaheuristic Algorithm for the TransitBusand DriverScheduling Problem[J].Journal ofTransportation SystemsEngineering and Information Technology, 2018, 18(1):133-138. in Chinese] ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A Unified Algorithm for the Transit Bus and Driver Scheduling Problems ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "KONG Yun-feng ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a.KeyLaboratory of Geospatial Technology for the Middle and Lower Yellow River Regions,Ministry of Education, Henan University, Kaifeng 475004, China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This paper introduces aunified hybrid metaheuristic algorithm for the transit bus and driver scheduling problems,such as the problem with fuel or electronic vehicles,the problem with single route or multiple routes,and the problem that arises from most transit companies in China where a driver should drive the same bus in the same day.The problems aim to minimize the fixed bus cost, the bus travel cost, the fixed driver cost and the allowance for drivers,while satisfying various operational rules on vehicles and drivers.The hybrid algorithm was implemented based on initial solution generation，local search improvement and the search strategies such as iterative local search (ILS),variable neighborhood decent (VND),and set partitioning.The performance of the proposed algorithm was tested on 62 single-route instances and 1l multi-route instances.There are three important findings for transit operations in China from the experimentation. First, electronic vehicles may replaces fuel buses by an increase of $0 . 8 \\%$ and $1 . 6 \\%$ vehicles for single-route instances and multi-route instances,respectively. Second, compared with the single-route scheduling, the multi-route scheduling has potentials to reduce $4 . 6 \\%$ of vehicles and $2 . 4 \\%$ of drivers.Third,if the drivers are allowed to change driving in their daily works,the number of vehicles required could be reduced significantly, especially for the single-route instances. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Keywords: public transit; bus and driver scheduling problem; unified algorithm; case study ",
+        "page_idx": 10
+    }
+]

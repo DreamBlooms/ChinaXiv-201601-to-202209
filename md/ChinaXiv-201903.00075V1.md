@@ -1,0 +1,194 @@
+# 基于虚拟阻抗的逆变器并联控制策略的研究
+
+陈薇,²赵强1,2
+
+![](images/86a161a21f30e2b2f0ca78850b9a9579ef24cbd3b22919c43ccaca6ccdbe24ca.jpg)
+
+陈薇女1981年生，博士，副教授，主要从事控制理论与控制工程等方面的教学与科研工作。
+
+（1.合肥工业大学电气与自动化工程学院合肥2300092.合肥工业大学智能制造技术研究院合肥230009）
+
+摘要：多逆变器并联运行时，由于各逆变器的设计参数、连线阻抗等都存在差异，各逆变器模块的等效线路阻抗也各不相同，往往会产生系统环流，导致系统不稳定。本文将对逆变器并联运行系统进行分析，并且提出一种基于虚拟阻抗的逆变器并联运行环流抑制方法。
+
+关键词：并联逆变器 环流分析主从控制 虚拟阻抗中图分类号：TM464
+
+# An Inverter Parallel Control Strategy Research Based on Virtual Impedance
+
+Chen Wei1,2 Zhao Qiang1,2 (1.Hefei University of TechnologyHefei 230009 China 2.Intelligent Manufacturing Institute of HFUT Hefei 230009 China )
+
+![](images/06bc8c837349ae07175164b0e56df8687e1535bb8369f269127d518216f7dfd8.jpg)
+
+Abstract: When multiple inverters are operated in parallel, because the design parameters and connection impedance of each inverter are different, the equivalent line impedance of each inverter module is also different. Therefore,system circulation will often occur,and it will lead to system instability. In this paper, the inverter parallel operation system is analyzed and a method based on the virtual impedance parallel operation of the inverter is proposed to suppress the circulation.
+
+赵强男1992年生，硕士研究生，主要研究方向为控制理论及应用。
+
+Keywords: Parallel inverter, circulation analysis, master-slave control strategy, virtual impedance
+
+# 1 引言
+
+近年来，包含大量分布式电源(DistributedGeneration，DG）的微电网成为国内外研究的热点。微电网中的分布式电源主要有风电、光伏、储能电池、柴油发电机和燃料电池等[1]，其中大部分DG均通过逆变器接入微电网。储能双向逆变器设备是用于储能系统的专业变流设备，通过与电池组和公共电网连接。在电网负荷低谷时，将电网上的交流电能转换成直流电能，给电池组充电；在电网负荷高峰期，它又将电池组的直流电能转换成满足电网要求的交流电能，回馈到公共电网中去，起到削峰填谷的作用，以保证电网的正常运行。
+
+多模块并联运行技术是开关逆变电源向大功率方向发展的一个重要途径，也是逆变电源从传统的集中式供电向分布式供电模式发展过程中的一项关键技术[2]
+
+逆变器的并联应用应能体现以下主要优点：
+
+（1）系统容量组合的高度灵活。积木式容量组合方案，为用户提供各种容量等级的逆变电源。(2）逆变模块中功率开关器件的电流应力小,可靠性高。各模块分担负载功率，大大减小了开关器件的电流应力，不仅可以突破因开关器件造成的对功率等级的限制，而且可使各逆变模块自身工作的稳定性、可靠性得到提高。（3）逆变器模块标准化、功率高密度，易于产业化生产。用于并联的逆变器模块，采用标准化生产，产品一致性好、互换性强。（4）系统冗余度高、可维护性好。通过多个冗余设计，使系统具有故障容错及冗余功能，检修维护简便。
+
+由于逆变器输出存在幅值和相位等多个参量，与直流电源模块的并联相比，实现逆变器并联运行更加困难。理想并联运行状态下，各逆变器模块的输出电压幅值相等、频率相等、相位一致，即任意时刻模块输出的电压差为零。但在实际逆变器并联系统中，由于电路参数的差异和负载的变化或由于控制系统的固有特性问题，各逆变器模块的输出电压瞬时值往往不可能完全相等。电压差的存在使系统内部形成环流，而环流对于逆变器系统的稳定性和可靠性以及逆变器内部功率器件都将产生不利影响，严重时会损坏功率器件使系统崩溃，导致供电中断。因此采取有效的环流抑制措施，是逆变器并联运行控制的关键[3]。
+
+常规的同步发电机并联供电系统，输出电压频率和相位可实现自动同步，而PWM逆变器并联系统不具有这种自同步能力[4]。为确保PWM逆变器并联运行的稳定与可靠，系统中的各逆变器模块必须满足以下基本条件：
+
+（1）输出电压的幅值、相位和频率应一致。频率微弱差异的积累将造成并联系统输出幅值的周期性变化和波形畸变；幅值不等将引起各并联单元之间的环流；相位不同将使输出不稳定，而在并联过程中则可能造成强烈冲击。
+
+(2）在输入电压和负载变化范围内，各逆变器模块均分负载电流，且动态响应特性好。若负载不均分，分担较重的模块会因为长期过载运行造成热应力大而降低系统可靠性。
+
+(3）可靠的保护措施。除模块内部故障保护外，当出现环流或同步异常，应快速采取相应措施，确保系统工作的可靠性。
+
+# 2 并联逆变器等效电路分析
+
+两台逆变器模块并联运行等效电路模型[5如图1所示。 $U _ { 1 }$ 、 $U _ { 2 }$ 分别为两个逆变器输出SPWM电压波中所含的基波分量； $U _ { 1 1 }$ 、 $U _ { 2 2 }$ 分别为各自输出端电压； $U _ { 0 }$ 为并联节点电压（即负载电压）； $L _ { 1 }$ 与$C _ { 1 }$ ， $L _ { 2 }$ 与 $C _ { 2 }$ 分别为两个逆变器的输出滤波电感、电容，滤波电感连接电阻分别为 $r _ { L 1 }$ 和 $r _ { L 2 }$ ，而 $r _ { 1 }$ 和 $r _ { 2 }$ 表示并联连接（导线）电阻； $Z _ { 0 }$ 为公共负载。
+
+![](images/e5f353eb0fe9125dfdcb2096546767aa9a02db6d1af3499cd106120ac6544c44.jpg)  
+图1逆变器并联运行等效电路模型  
+Fig.1Inverter parallel operation equivalent circuit model
+
+通常连接导线电阻很小，为了简化分析，忽略$r _ { L 1 }$ 和 $r _ { L 2 }$ 、 $\boldsymbol { r } _ { 1 }$ 和 $r _ { 2 }$ 的影响。根据图1可以列出以下电路基本方程为
+
+$$
+\begin{array} { r l } & { [ U _ { 1 } - { \bf j } \omega L _ { 1 } I _ { L 1 } = U _ { 0 }  } \\ & {  [ U _ { 2 } - { \bf j } \omega L _ { 2 } I _ { L 2 } = U _ { 0 }   } \\ & {   ] I _ { L 1 } + I _ { L 2 } = I _ { C 1 } + I _ { C 2 } + I _ { 0 1 } + I _ { 0 2 } } \\ & {   ] I _ { 0 1 } + I _ { 0 2 } = I _ { 0 } } \\ & {  I _ { C 1 } = { \bf j } \omega C _ { 1 } U _ { 0 }  } \\ & {  I _ { C 2 } = { \bf j } \omega C _ { 2 } U _ { 0 }  } \end{array}
+$$
+
+其中， $I _ { C 1 }$ ， $I _ { C 2 }$ 分别为流入电容 $C _ { 1 }$ 、 $C _ { 2 }$ 的电流。
+
+当 $C _ { 1 } = C _ { 2 } = C , L _ { 1 } = L _ { 2 } = L$ 时，可推得
+
+$$
+\begin{array} { r } { \left\{ \begin{array} { l l } { \displaystyle { I _ { L 1 } = \left( \frac { 1 } { 2 } I _ { 0 } + \mathbf { j } \omega C U _ { 0 } \right) + \frac { U _ { 1 } - U _ { 2 } } { 2 \mathbf { j } \omega L } } } \\ { \displaystyle { I _ { L 2 } = \left( \frac { 1 } { 2 } I _ { 0 } + \mathbf { j } \omega C U _ { 0 } \right) - \frac { U _ { 1 } - U _ { 2 } } { 2 \mathbf { j } \omega L } } } \end{array} \right. } \end{array}
+$$
+
+由式（2）可以得出以下结论：当 $U _ { 1 } = U _ { 2 }$ 时，$I _ { L 1 } = I _ { L 2 } = ( I _ { 0 } / 2 ) + \mathrm { j } \omega C U _ { 0 }$ ，两个逆变器均分负载电流；当 $U _ { 1 } \neq U _ { 2 }$ 时， $I _ { L 1 }$ 、 $I _ { L 2 }$ 由负载电流分量和环流分量两部分组成，两个逆变器对负载电流的分担是不均衡的；当 $U _ { 1 }$ 和 $U _ { 2 }$ 同相位时，不同幅值环流体现为无功分量，对电压高的逆变器环流呈容性，对电压低的逆变器环流呈感性；当 $U _ { 1 }$ 和 $U _ { 2 }$ 幅值相等时，相位超前者环流分量为正有功分量 (输出有功)，相位滞后的环流分量为负有功分量（吸收有功)；当$U _ { 1 }$ 和 $U _ { 2 }$ 既不同相位又不等幅值时，则环流分量中既有无功分量，又有有功分量。
+
+# 3并联逆变器系统的环流分析
+
+考虑因各逆变器单元输出特性间的差异所造成的环流影响，假设在静态下的 $U _ { 1 1 }$ 和 $U _ { 2 2 }$ 为标准正弦波，忽略波形畸变的影响，由图1可知
+
+即
+
+$$
+I _ { \mathrm { H } } = = { \frac { U _ { 1 1 } - U _ { 2 2 } } { 2 r } } = { \frac { 1 } { 2 r } } \Delta U
+$$
+
+由上述关系式可知：
+
+（1）因 $U _ { 1 1 }$ 和 $U _ { 2 2 }$ 幅值不等或相位差异而导致存在 $\Delta U$ ，更由于线路阻抗 $\boldsymbol { r }$ 非常小，从而可以形成较大的环流 $I _ { \mathrm { H } }$ 。
+
+(2）环流的相位及幅值仅与 $\Delta U$ 有关，而与负 载大小无关。
+
+(3）在相同环流大小情况下，负载阻抗角 $\varphi$ 越大则各逆变器输出电流的幅值差越大，纯阻性负载下输出电流的幅值差最小[6]。
+
+(4）环流 $I _ { \mathrm { H } }$ 可以看作两个相互垂直的电流相量的合成，其中与 $U _ { 1 1 }$ 和 $U _ { 2 2 }$ 同向的分量在线路阻抗、功率管压降、电感内阻上消耗了有功功率；而与 $U _ { 1 1 }$ 和 $U _ { 2 2 }$ 垂直的分量则以无功功率的形式在不同单元间传送，它会加大逆变模块中功率器件及输出滤波器等的电流应力和热应力，严重时将导致逆变器模块和并联系统无法正常工作，甚至损坏。
+
+# 4逆变器并联控制分析
+
+$$
+\left\{ \begin{array} { l l } { U _ { 0 } = ( I _ { 0 1 } + I _ { 0 2 } ) Z _ { 0 } = I _ { 0 } Z _ { 0 } } \\ { U _ { 1 1 } = U _ { 0 } + I _ { 0 1 } r _ { 1 } } \\ { U _ { 2 2 } = U _ { 0 } + I _ { 0 2 } r _ { 2 } } \end{array} \right.
+$$
+
+则有
+
+$$
+U _ { 0 } = \left( 1 - \frac { r _ { 1 } } { r _ { 1 } + r _ { 1 } / Z _ { 0 } } \right) U _ { 1 1 } + \left( 1 - \frac { r _ { 2 } } { r _ { 2 } + r _ { 2 } / Z _ { 0 } } \right) U _ { 2 2 }
+$$
+
+若 $r _ { 1 } = r _ { 2 } = r$ ，则有 $r \ll Z _ { 0 }$ ，则上式可简化为
+
+$$
+U _ { 0 } = \left( 1 - \frac { r } { r + r / Z _ { 0 } } \right) ( U _ { 1 1 } + U _ { 2 2 } ) \approx \frac { 1 } { 2 } ( U _ { 1 1 } + U _ { 2 2 } )
+$$
+
+定义环流为
+
+$$
+I _ { \mathrm { H } } = { \frac { 1 } { 2 } } { ( I _ { 0 1 } - I _ { 0 2 } ) }
+$$
+
+因 $I _ { 0 } = I _ { 0 1 } + I _ { 0 2 }$ ，故有
+
+$$
+\begin{array} { c } { { \displaystyle [ I _ { 0 1 } = \frac { 1 } { 2 } I _ { 0 } + I _ { \mathrm { H } }  } } \\ { { \displaystyle  [ I _ { 0 2 } = \frac { 1 } { 2 } I _ { 0 } - I _ { \mathrm { H } }  } } \end{array}
+$$
+
+所以系统的环流为
+
+$$
+I _ { \mathrm { H } } = { \frac { 1 } { 2 } } ( I _ { 0 1 } - I _ { 0 2 } ) = { \frac { 1 } { 2 } } \left( { \frac { U _ { 1 1 } - U _ { 0 } } { r } } - { \frac { U _ { 2 2 } - U _ { 0 } } { r } } \right)
+$$
+
+逆变器并联运行技术的研究主要分为有互联线并联控制和无互联线并联控制，其中有互联线并联控制包括集中控制、主从控制和分散逻辑控制；无互联线并联控制则主要通过下垂特性控制，来实现各单元间无互联线的并联控制[]。本文采用一种应用比较普遍的主从控制来实现对多逆变器的控制分析。
+
+主从控制的控制原理如图2所示，以两个逆变器为例进行研究。
+
+![](images/9f904642f0086591e6c6f8293da7ed66656b2e18b30ecb3f9be3828442ba0835.jpg)  
+图2主从控制的控制原理图  
+Fig.2Master-slave control schematic
+
+图2中， $u _ { \mathrm { r e f } }$ 为电压参考值， $u _ { \mathrm { o f } }$ 为电压反馈值；$G _ { \mathrm { v } } ( s )$ 、 $G _ { \mathrm { i } } ( s )$ 为电压调节器和电流调节器； $i _ { \mathrm { L M } }$ 为主单元生成的电流值； $i _ { \mathrm { L S } }$ 为从单元电流值[8]。 $i _ { \mathrm { L M } }$ 同时也是从单元的电流参考值，从单元根据 $i _ { \mathrm { L M } }$ 值进行调节，实现对主单元电流值的跟踪，继而达到均流的目的。
+
+利用Matlab中的Simulink搭建此仿真模型，其中两台逆变器采用电压型全桥逆变电路，直流侧电压为 $2 0 0 \mathrm { V }$ ，保证输出电压的幅值可达 $\pm 1 0 0 \mathrm { V }$ 可以满足仿真要求。调制波占空比为0.5，负载端为纯电阻负载，设为 $1 0 \Omega$ 。为了方便捕获和抓取电压值，可以在主机电压输出端设置一个滤波函数对输出信号进行低通滤波。
+
+输出电压波形如图3所示。
+
+![](images/bc8179c4d6d8d7827728c57d44ccd9925d423dd654c136fe65ba5c013cd28e0a.jpg)  
+Fig.3Inverter output voltage waveforms两台逆变器输出电流波形如图4、图5所示。
+
+-20000 1 2 3 4 5 6时间/ms
+
+/ 100°  
+-20000 1 2 3 4 5 6时间/ms
+
+![](images/12ce52bf4579d57b0956051ecaf3f9b9e07de71059be950ec8f4552efebda382.jpg)  
+图3输出电压波形  
+图4逆变器1的输出电流波形  
+Fig.4Inverter 1 output current waveforms   
+图5逆变器2的输出电流波形  
+Fig.5Inverter 2 output current waveforms   
+图6引入虚拟阻抗后的输出电压波形  
+Fig.6Output voltage waveforms under virtual impedance
+
+由仿真结果可以看出，系统输出的电压值达到预期值，为 $5 0 \mathrm { V }$ ，而电流值却远远大于预期值，从而导致系统输出的功率不稳。产生这种现象主要是
+
+因为两个逆变器的输出电压虽然大体相同，但依然会存在差异，而线路中的阻抗非常小，所以微小的电压差就引起了系统环流。从波形图上可以看到，环流所引起的电流值高达数千安培，若不采取相应的抑制措施，将会对系统以及功率器件造成极大的破坏。
+
+# 5 引入虚拟阻抗的并联控制分析
+
+在逆变器并联系统中，各逆变器线路长度不同，对应逆变器线路阻抗将存在差异，线路越长，电阻相对电抗越大，因而采用传统控制策略时会产生较大的系统环流。为提高逆变器并联系统的安全稳定性，可以采用外加限流电感法，即在逆变器输出端串联电感，可有效地抑制环流，但要达到很好的抑制效果，需要使用较大的电感，从而导致逆变器体积质量变大，造价提高，并且会导致线损较为严重，效率不高[9]。因此，本文引入虚拟阻抗技术对逆变器输出阻抗进行重新构造。
+
+一般情况下，虚拟阻抗有两种形式，即虚拟电感和虚拟电阻，虚拟电感可以使逆变器等效阻抗呈感性，而虚拟电阻可以使逆变器等效阻抗呈阻性。当加入感性虚拟阻抗时，容易受到高频谐波电流影响，引起较大的电压降落，使系统稳态性能下降。由于低压微电网中，线路阻抗阻感比较高，线路呈阻性，若逆变器等效阻抗构造呈感性，需要加入很大的虚拟电感，而加入虚拟电阻的形式显然很适合低压微网的控制，因此，本文采用加入虚拟电阻的形式构造逆变器输出阻抗[10]。
+
+虚拟阻抗技术即对电压、电流双环控制加入虚拟阻抗，构造逆变器输出阻抗，使其满足系统需求。
+
+在上述仿真模型中，引入虚拟阻抗后进行仿真验证。仿真结果如图6～图8所示。其中，图6为引入虚拟阻抗后的输出电压波形；图7、图8为引入虚拟阻抗后的输出电流波形。
+
+![](images/23738e804f950fa554b41c4aa57f9bc5b407ca9df682728919efa576e10b917a.jpg)  
+图7引入虚拟阻抗后逆变器1的输出电流波形 Fig.7Inverter 1 output current waveforms under virtual impedance
+
+![](images/5ad730be4594983851891a0d6f2ed412f6ced4e413f5ffd24111f1a55772f6ae.jpg)  
+图8引入虚拟阻抗后逆变器2的输出电流波形 Fig.8Inverter 2 output current waveforms under virtual impedance
+
+由以上仿真结果可以看出，加入虚拟阻抗后，输出的电压波形依然满足预期值，两个逆变器输出的电流值也趋于稳定，大大减小了系统的环流，有利于逆变器安全工作和系统稳定运行。
+
+# 6 结束语
+
+本文在简要分析了多模块化并联运行时各逆变器应满足的基本条件下，对并联系统的等效电路进行了具体分析。通过对并联系统环流的理论分析计算，分析了系统产生环流的根本原因，并且搭建了仿真模型，从仿真波形中更加直观地看到系统环流的存在对系统稳定性的影响。为了消除系统环流带来的影响，加入了虚拟阻抗来进行环流抑制，并在仿真模型中进行试验，通过仿真分析得出，引入虚拟阻抗可以有效抑制系统环流，系统的稳态性能得到了改善。
+
+# 参考文献
+
+[1] 李建林，徐少华，惠东．百MW级储能电站用PCS多机并联稳定性分析及其控制策略综述[J].中国电机工程学报，2016，36(15)：4034-4046.Li Jianlin,Xu Shaohua,Hui Dong.A review of
+
+stability analysis and control strategy of multi-paraller PCS for hundred MW level energy storagepower station[J]. Proceedings of the CSEE,2016,36(15): 4034-4046.  
+[2] 周孝信，鲁宗相，刘应梅，等．中国未来电网的发展模式和关键技术[J]．中国电机工程学报，2014,34(29): 4999-5008.Zhou Xiaoxin, Lu Zongxiang,Liu Yingmei, et al.China's future power grid development model andkey technologies[J]. Proceedings of the CSEE,2014,34(29): 4999-5008.  
+[3] 阚加荣，谢少军，吴云亚．无互联线并联逆变器的功率解耦控制策略[J]．中国电机工程学报，2008,28(21): 40-45.Han Jiarong, Xie Shaojun, Wu Yunya. Powerdecoupling control strategy for parallel-connectedinverters without interconnections[J]. Proceedings ofthe CSEE,2008,28(21): 40-45.  
+[4] 邵明强．微电网逆变器并联控制策略研究[J]．电力与能源，2016(3)：304-307.Shao Mingqiang. Study on parallel control strategyof microgrid inverter[J]. Electricity and Energy,2016(3): 304-307.  
+[5] 王文军，李斌，周博．一种主从改进型辅助逆变器并联控制方式研究[J]．变频器世界，2016(3)：60-63.Wang Wenjun,Li Bin,Zhou Bo.A master-slavemodified auxiliary inverter parallel control modestudy[J]. Inverter World,2016(3): 60-63.  
+[6] 张庆海，彭楚武，陈燕东，等．一种微电网多逆变器并联运行控制策略[J]．中国电机工程学报,2012，32(25): 126-132.Zhang Qinghai, Peng Chuwu, Chen Yandong, et al. Amicro-grid multi-inverter parallel operation controlstrategy[J]. Proceedings of the CSEE,2012, 32(25):126-132.  
+[7] 徐顺刚，许建平，曹太强．电压电流双闭环反馈逆变器并联控制[J]．电力自动化设备，2009,29(10): 103-106.Xu Shungang, Xu Jianping, Cao Taiqiang. Controlof parallel operating inverter with voltage andcurrent closed-loops[J]. Electric Power AutomationEquipment,2009,29(10): 103-106.

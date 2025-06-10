@@ -1,0 +1,534 @@
+[
+    {
+        "type": "text",
+        "text": "编号：167171",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "液力涡轮内部的强约束流动与空化现象",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "康灿，毛宁，张贵峰（江苏大学能源与动力工程学院镇江212013）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：为描述液力涡轮制动器内的流动特征及流动对制动器力矩性能的影响，采用计算流体动力学方法对制动器内的流动结构及空化现象进行了研究，获得了涡轮制动器瞬态启动和停止过程中转轮及挡板附近的流动参数分布，捕捉了制动器封闭腔体内的空化区位置和形态，求解了挡板上受到的流体载荷。结果表明，制动器腔体内存在着大尺度流动结构，其随着挡板与转轮之间的轴向距离增加而沿轴向发展；空化区出现在转轮叶片背面及根部附近，空化相体积份额随转轮转速增加而增大，但未对制动器的力矩系数造成明显影响；作用在挡板上的轴向流体作用力的合力方向始终指向转轮侧，该力的大小随转轮转速和叶轮与挡板间距增加而增加。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：涡轮制动器；流动结构；瞬态过程；空化；力矩中图分类号：O359,TH137 文献标识码：A",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Highly Confined Flows and Cavitation Phenomenon in a Hydraulic Retarder ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KANG Can, MAO Ning, ZHANG Gui-Feng (School of Energy and Power Engineering,Jiangsu University, Zhenjiang 212013,China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: To depictthe flow paternand its influence on the torque performanceofahydraulic retarder,computational fluid dynamics technique is employed to explore the iner flow and cavitation phenomenon involved.Distributions of flow parameters in the vicinityof therotor and the bafle during the start-up and stop processof the hydraulic retarder are obtained. Cavity position and morphology are virtually visualized in the closed retarder chamber.Hydraulic loads acting on the bafleare calculated as well.The results show that the large-scale flow structures exist in theretarder chamber.As the axial distance between the baffle and the rotor increases,these large-scale flow structures develop in theaxial direction.Cavitation occurs near the back surfaceof the rotor blades and nearthe rotor hub.Cavitation volume fraction rises as the rotational speed of the rotor increases but exerts a moderate influence on torque coeficient.The direction ofthe resultant hydraulic force acting on the baffle always points towards the rotor,and the force magnitude increases with the rotational speed and the axial distance between the rotor and the baffle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Turbine retarder; Flow structure; Transient process; Cavitation; Torque ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "液力涡轮制动器的优点已在诸多工程领域得到了认可[1]。近年来，液力涡轮制动器被尝试应用于飞机拦阻，获得了初步的结果。作为整个制动系统内的关键组件，制动器的性能决定了制动效果与系统的安全性[2]。目前，液力涡轮制动器的设计还多依据经验，相应的设计理论欠缺。随着计算流体动力学(CFD)技术的进步，液力涡轮制动器的性能及其内部流动特征可以在模型期得到预测，这对于涡轮制动器的优化设计具有重要意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "从涡轮制动器的结构来看，对其内部液体流动进行光学测量具有较大的难度。若利用探针测速，仅仅可获得静子叶片流道内的绝对速度，且测量装置和步进机构复杂。另外，涡轮制动器的转轮转速可能超过",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3000 $\\mathbf { r } / \\mathrm { m i n }$ ，引起的转轮叶片外缘线速度较高，由此引发的流体动压对透明实验装置构成严重的威胁。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "要产生大的制动力矩，一方面可以通过提高涡轮制动器的转轮转速实现，另一方面，可以增加涡轮制动器的外径。这两种方法均会增加制动器内发生空化的可能性。而目前对于涡轮制动器内空化现象的研究鲜见报道，甚至未见相关的推测。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "本文针对一液力涡轮制动器，其转轮叶片和静子叶片均为直叶片，在制动器腔体内设置轴向位置可调节的挡板。通过研究拟解释涡轮制动器内的大尺度流动结构及其对制动器力矩性能的影响，尤其对涡轮制动器内的空化区形态、发生位置和演化过程进行探究。研究中采用非定常数值模拟手段，模拟完整的涡轮制动器启动和停止过程，获得流动参数和空化现象的瞬",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "态特征，同时考虑转轮转速和挡板位置对制动器内部流动特征和性能的影响，通过流动参数分布求解挡板上受到的流动载荷及变化规律。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1涡轮制动器模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "液力涡轮制动器内部结构如图1(a)和(b)所示。该涡轮制动器的转轮包含9个直叶片，静子包含7个直叶片。在静子侧设置挡板，挡板的轴向位置可调节。此处以挡板和转轮叶片侧面之间的轴向距离 $x$ 表达挡板的轴向位置， $x$ 可在 $0 . 0 { - } 5 5 . 0 \\ \\mathrm { \\ m m }$ 之间调节。转轮和静子之间的相对位置保持不变。从图1(a)可以看出，挡板轴向位置不同时，挡板左侧的腔体容积不同，可以推断涡轮制动器产生的制动力矩也不同。本文中选取 $x { = } 2 5 \\mathrm { m m }$ 和 $\\scriptstyle { x = 4 5 \\mathrm { m m } }$ 两个挡板轴向位置进行研究。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/407839ce7a3285df6cea4a1549d5d26662bc9e8c0c60b99a363a066c38eec238.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "(b)轴向视图 (b) Axial view "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6b616dd239a76fa52e2b811958ebaab6c566bc45db8a6ef79b54fb5be62e9eb8.jpg",
+        "img_caption": [
+            "Fig.1Schematicdiagramofthe hydraulic retarder "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "转轮直径 $D _ { 2 }$ 为 $3 7 5 . 0 \\ \\mathrm { \\ m m }$ ，叶片宽度 $b _ { 2 }$ 为30.0$\\mathrm { m m }$ 。在转轮转速 $n$ 达到3200 $\\mathrm { { r } / \\mathrm { { m i n } } }$ 时，涡轮内最大的线速度约为 $6 3 ~ \\mathrm { ~ m / s ~ }$ 。对于静子部分，其与涡轮制动器的壳体联结为一个整体，涡轮制动器的壳体内表面的直径 $D$ 为 $3 8 5 ~ \\mathrm { m m }$ ，静叶宽度 $b _ { 1 }$ 为 $5 5 . 0 \\ \\mathrm { m m }$ 。挡板外缘与壳体内表面的径向间隙 $s _ { 1 }$ 为5.0 $\\mathrm { m m }$ ，挡板与静叶之间的周向间隙 $s _ { 2 }$ 为 $2 . 0 \\mathrm { m m }$ ，如图1(b)所示。间隙的存在使得介质以较高的流速通过间隙，使挡板左、右侧腔体连通，并且间隙流动将对腔体内的流动产生扰动。图1(c)为涡轮制动器的挡板和静子实物图。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2数值方案",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1控制方程与数值模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "被封闭在涡轮制动器腔体内的工作介质为常温的水，没有出流与入流。假设介质为不可压缩流体，且假定由于转轮叶片旋转主导的腔内流动为三维、非定常的湍流流动，受Navier-Stokes方程支配，由雷诺时均的形式表征。采用重整化群(RNG)k-ε湍流模型使控制方程组封闭。相比于标准k-ε湍流模型，RNGk-ε湍流模型在处理转轮旋转引起的流动行为时更具优势[3]。而且，此处研究的转轮叶片为直叶片且腔体的几何形状相对规则，采用RNGk-ε湍流模型可以获得逼近物理真实的结果。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "空化是一种瞬态相变现象，对于空化的机理，Rayleigh-Plesset方程模型提供了较为具体的描述。该模型不但从汽泡动力学这一基础层面反映空化的特征，还综合考虑到各种影响空化的参数如初始气核含量、气核直径等[4]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2初始和边界条件",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "根据涡轮制动器的实际应用，在运行的初始时刻，涡轮制动器内充满了常温纯水，腔体内的初始静压强",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大小为0.3MPa。由于涡轮制动器没有进出口，所以未设置进、出口边界条件。将转轮区域设为旋转域,在旋转域和静止域之间设置动静交界面条件。这些边界条件在CFD软件ANSYSCFX中进行设置，同时该软件还提供了求解器。在所有固壁处设置无滑移边界条件，近壁区采用可伸缩壁面函数进行处理。所有与介质接触的固壁的表面粗糙度设置为 $0 . 0 1 5 \\mathrm { m m }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3网格划分",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算域尺寸与实物尺寸比例为1:1。为保证模拟精度，采用高精度网格对所有的计算域进行空间离散。计算域中考虑了转轮叶片与壳体之间的径向间隙、静子叶片与壳体之间的径向间隙、挡板与静子叶片之间的周向间隙，这些间隙的计算域离散也采用针对性的网格。在间隙区域网格和与其相邻的计算网格之间设置非均匀分布网格以保证交界面处数据传递的有效性。经过网格无关性验证。最终采取的方案中采用的总网格数约为 2,200,000。 $x { = } 4 5$ mm情况下的近固壁区网格如图2所示，该网格方案的 $y ^ { + }$ 值在27—40之间。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6c010ce715f2e4dd9c60cb6ab6af462113067e831fd6caab50ed3d7e80b24e7.jpg",
+        "img_caption": [
+            "图2计算域的近固壁区网格 Fig.2 Near-wall meshes in computational domain "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.4制动器的力矩性能",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "涡轮制动器的运行过程中，转轮转速发生瞬间变化，必然引起制动器特性参数的瞬间变化[5]。此处在数值模拟过程中，根据制动器的实际运行数据构建了转轮转速的变化曲线，将以曲线作为条件施加到数值模拟中，该变化曲线如图3所示。这一曲线涵盖了完整的涡轮制动器启动与停止过程。整个启停过程耗时约3.5s，经历了转轮转速的急剧上升、缓慢下降和急剧下降过程，直接反映了制动器的功能特性。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d6340807744ea2e8e247672b81ec0268d6d2ed963d69924a73bfe93d805a51e.jpg",
+        "img_caption": [
+            "图3制动器运行过程中的转速变化曲线Fig.3 Variation of rotational speed of the retarder"
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "数值模拟中的时间步长与转轮转速应相匹配以捕捉制动器性能参数的瞬间变化、分布及制动器腔体内的流动结构演化过程。定义不同的时间步长与各转轮旋转速度相匹配，保证与每一个时间步长对应的转轮旋转角度均小于 $1 ^ { \\circ }$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "力矩是反映涡轮制动器性能的最直接参数，更与涡轮制动器内部流动特征密切相关。在涡轮制动器内充满纯水的状态下，力矩 $T$ 可由下式进行计算：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = \\lambda _ { \\mathit { T } } \\rho g n ^ { 2 } D ^ { 5 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中， $\\lambda _ { T }$ 为力矩系数, $\\rho$ 为纯水的密度, $D$ 为涡轮制动器腔体内径[]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "由数值模拟中求得转轮上的流体动力载荷，进而可以求得作用于转轮上的力矩 $T$ ，因而可以通过式(1)求出无量纲力矩系数 $\\lambda _ { T }$ 。计算获得的整个制动器运行过程中的瞬时力矩系数变化如图4所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f92cb9a85eb91d2a1a6db510d016ce8606466b644db3271583f8d57f82c3b088.jpg",
+        "img_caption": [
+            "图4力矩系数在制动器运行过程中的变化 Fig.4 Variation of torque coefficient during the operation "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从图4可以看出，两种挡板位置对应的力矩系数在整个运行过程中均较为稳定，除了启动和停止过程力矩系数值波动不明显。 $x { = } 4 5 \\ \\mathrm { m m }$ 时的力矩系数值明显高于 $x { = } 2 5 \\mathrm { m m }$ 情况，从制动器的外特性表现出挡板",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "左侧腔体体积增大有助于提高力矩性能的趋势。值得注意的是，转轮转速在制动器运行过程中不断变化，而力矩系数值却相对稳定，说明腔体内的流动参数随时间的变化并未对整体力矩性能造成显著影响。另外，对于 $\\lambda _ { T }$ 的量值，涡轮制动器的尺寸、转轮叶片形状等均为影响因素。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5涡轮制动器内部流动特征 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图4中反映出的挡板位置对力矩系数的影响与涡轮制动器内部的流动特征密切相关。从涡轮制动器腔体内的部件配置来看，腔体内的流动具有明显的受限流动特征，且主要受到边界条件和转轮旋转的影响。如果不设置静子，同时挡板距转轮叶片侧面的轴向距离 $x$ 足够大时，挡板左侧腔体内会出现大尺度的诱导涡，该涡的轴线与转轮轴共线[7]。当挡板右侧腔体的体积发生变化时，其内部流动结构也将随之改变。图5表示出了 $x { = } 2 5 \\ \\mathrm { ~ m m }$ 时，通过转轮轴线的轴面上的瞬时流动结构形态。为了进行比较，图5中表示出了与4个转轮转速：3200、2500、2000和 $1 5 0 0 ~ \\mathrm { \\ r / m i n }$ 对应的结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e4c61ed920bb3111205ec7ea01e7c55235ab2b7727c8087a9e17118b3039a56.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ba439f0b8aa83cd58df763d0cd16b892748e3e27c2b6e96ab155cc32e27cd51.jpg",
+        "img_caption": [
+            "图 $5 . x { = } 2 5 ~ \\mathrm { m m }$ 时轴面上的瞬时流动结构Fig.5Instantaneous flow structures on the meridional planeat $\\scriptstyle \\mathbf { x } = 2 5 { \\mathrm { ~ m m } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "尽管转轮转速不同，轴面上的流动结构相似。在转轮叶片之间，出现了尺度与叶片半径相当的旋涡，这些旋涡延展进入静子区域，如图5所示。然而，旋涡的轴向发展明显被挡板抑制。在挡板右侧腔体内出现了涡对，且该涡对对转速的变化不敏感。涡对中两个涡的尺度和强度均相当。值得注意的是，该涡对形成的动力主要来自于挡板外缘与壳体之间、挡板与静子叶片之间的间隙流动以及挡板右侧腔体的壁面作用。远离了转轮叶片转动的影响，该两涡的形状较规则且保持稳定。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用与图5相似的表达方法，将 $x { = } 4 5 \\quad \\mathrm { m m }$ 时的流动结构形态表示于图6中。在图6中，4种转速条件下的旋涡结构也相似，而且，在转轮叶片流道内出现了一个大尺度涡，这是由于静子叶片和挡板的联合作用所致[8]。相对于图5，转轮和挡板之间腔体体积的增加为旋涡的轴向发展提供了空间。同时，挡板右",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ChinaXiv合作期刊",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "侧腔体内的旋涡由于腔体缩小而得到抑制，尤其是靠近轮彀的旋涡。从图6可以推断，介质自挡板与制动器壳体内壁之间的间隙内流过，不断为挡板右侧腔体内的介质提供能量，同时，挡板右侧腔体内壁的形状",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/0f3c1db1db6355a88363c483bdf65771552453172c4bd358e16bcb2a8642115a.jpg",
+        "img_caption": [],
+        "img_footnote": [
+            "Fig.7Absolute velocity distribution on the rotor-stator interface "
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/143b94c484ef3e35683bb100208ed0abe47e3be262bea38b90b31418ce1a91d3.jpg",
+        "img_caption": [
+            "图6 $x { = } 4 5 \\ \\mathrm { m m }$ 时轴面上的瞬时流动结构Fig.6 Instantaneous flow structures on the meridional planeat $x { = } 4 5 \\ \\mathrm { m m }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "动静间隙内的流动状态是表征动静干涉现象的重要依据[10]。为描述转轮叶片与静子叶片之间的动静干涉现象，定义转轮叶片和静子叶片中间的轴截面为动静干涉面，提取了该面上的绝对速度分布。图7表示出了 $x { = } 2 5 ~ \\mathrm { \\ m m }$ 和 $x { = } 4 5 ~ \\mathrm { \\ m m }$ 两种情况下的速度分布，同时考虑了 $\\scriptstyle n = 3 2 0 0$ 和 $1 5 0 0 ~ \\mathrm { \\ r / m i n }$ 两个转速。图7中转轮旋转方向均为顺时针方向。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4fc1189d4226eb2f8d6d2b77f117e57e9873f11f3929ff5953858121b71e57c7.jpg",
+        "img_caption": [
+            "图7动静交界面上的绝对速度分布"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对于所考虑的两个挡板位置，转轮叶片外缘处的高速区形态有很大差异。 $x { = } 2 5 \\ \\mathrm { ~ m m }$ 时，叶片外缘速度区的周向连续性较强，具有较高周向速度的介质通过挡板与壳体内壁之间的径向间隙向挡板右侧的腔体内挤入。而在 $x { = } 4 5 \\mathrm { m m }$ 时，这种情况随着转轮叶片与挡板之间的轴向距离增大而缓解。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "随着转轮转速下降，介质的总体速度呈衰减趋势。相对于图7(a)，在图7(b)中发现转轮叶片外缘附近出现分散的小面积高速区，图7(a)和(b)中的速度分布特征相似，仅存在总体速度量级的差异。相对于图7(c)，图7(d)中的速度分布更趋于均匀化。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "在图7中，根据流动速度分布可识别转轮叶片和静子叶片的位置。可以预测，无论是转轮叶片数还是静子叶片数的变化都会引起截面速度分布形态的变化。此处的动静干涉区有别于一般概念中叶轮机械内的动叶和静叶之间的干涉，因为后者涉及入流和出流。挡板左侧腔体内的大尺度流动结构对动静干涉面上的流动速度分布的影响不可忽视，这一点可以从图7中位于径向中间部分的分散的速度单元看出[11]。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3空化现象",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "空化对液力涡轮制动器构成的影响至今未得到系统的解释。已有的报道中证实空化的存在可能使制动器的力矩性能下降 $3 \\% [ 1 2 ]$ 。在制动器实际运行过程中也能感受到空化泡溃灭诱发的噪声。对于所研究的4个转速，图8和9中表示出了制动器腔体内的空化相体积份额等值面。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ee8d4bf153d00364ac0c5846c5a6726a4e6dc1a19409bcf88b6ea4c1800365ef.jpg",
+        "img_caption": [
+            "图 $8 \\scriptstyle x = 2 5 { \\mathrm { m m } }$ 时的空化区形态(空化相体积份额为0.1) Fig.8 Cavitymorphologyat $x { = } 2 5 \\ \\mathrm { m m }$ (cavitation volume fraction is 0.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "空化发生的位置、空化区形态和空化相体积份额常被用来描述空化现象。对于空化的形成与发展进行描述不但是认识空化本身的需要，而且有助于研究部件发生空蚀破坏的位置。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由图8可以看出，空化区分散地分布在转轮叶片附近。在静子叶片之间，并无明显的空化区，这与直叶片的配置相关。在靠近转轮轮彀和转轮叶片吸力面附近，空化区体积较大，占据了总空化体积较大的份额。部分空化区位于动静交界面附近，距离转轮轴线约1/3 $D _ { 2 }$ 的径向距离。在图8中，尽管在 $n { = } 1 5 0 0$ $\\mathrm { { r } / \\mathrm { { m i n } } } .$ ，转轮旋转速度最低时，空化明显被抑制，但空化程度和转轮旋转速度之间的关系并不呈现明显的单调关系。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "当 $x { = } 4 5$ mm时，轴向流动发展更为充分，但总体空化程度较 $x { = } 2 5$ mm弱，如图9所示。 $\\scriptstyle n = 3 2 0 0$ $\\mathbf { r } / \\mathrm { m i n }$ 时，空化相总体积份额明显低于图8(a)，但从空化发生的位置来看，两者相似。对于图9(b)和9(c)，空化集中在几个径向尺寸有限的条带上，与转轮叶片之间的一一对应性较差。在图9(d)中，空化区较为集中且空化区的形态更趋条带状，而空化区的位置与其它工况相似。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e0e66c88ea3b68ee8f1abece54d6a859f31fad4e088b486990e707f859a17f7.jpg",
+        "img_caption": [
+            "图 $9 \\scriptstyle x = 4 5 { \\mathrm { ~ m m } }$ 时的空化区形态(空化相体积份额为0.1) Fig.9 Cavitation morphology at $x { = } 4 5 \\ \\mathrm { m m }$ (cavitation volume fraction is 0.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4挡板上的轴向作用力",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "挡板的轴向位置调节通过与挡板相连接的液力助推器实现。作用在挡板上的轴向力是选择液力助推器的重要参照之一。同时，挡板上的轴向作用力来自于挡板表面的流体压强，所以在涡轮制动器的运行过程",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册 注册码购买联系QQ:3049816538 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "中，轴向作用力的合力可能一直在变化，对涡轮制动器的振动性能产生重要影响[13]。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "基于数值计算获得的挡板表面的瞬时压强分布，可以计算出轴向合力的 $x$ 方向分力 $F _ { x }$ 随转轮旋转的变化，结果如图10所示。对于 $x { = } 2 5 ~ \\mathrm { m m }$ 和 $x { = } 4 5 \\ \\mathrm { m m }$ 两个挡板位置， $F _ { x }$ 一直指向转轮，这一点由图10中全为正值的 $F _ { x }$ 可以看出。同时，图10中的两条曲线与图3中所示的转速变化曲线形状符合。可以得出结论，作用于挡板上的轴向作用力的合力随着转轮转速增大而增大。对于所研究的两个挡板位置， $x { = } 4 5 \\ \\mathrm { ~ m m }$ 对应的 $F _ { x }$ 变化较为平缓， $x { = } 2 5 ~ \\mathrm { \\ m m }$ 对应的轴向作用力合力曲线包含了若干 $F _ { x }$ 剧烈下降的曲线段。由于轴向作用力是由挡板表面的压强积分得出，很难评价挡板的哪个表面对于轴向作用力波动的贡献更大一些。然而，通过 $x { = } 2 5 ~ \\mathrm { \\ m m }$ 和 $4 5 \\ \\mathrm { { \\ m m } }$ 情况下轴向力大小的对比可以明确看出 $x { = } 4 5 \\mathrm { m m }$ 条件下的轴向力较大。另外，从图5和图6可以看出，相对于挡板右侧腔体内出现涡对的情况，单个大尺度的涡旋有助于增加挡板上的轴向作用力合力。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "作用于挡板上的轴向力与多种因素相关，其中挡板与壳体、挡板与静子叶片间的间隙尺寸不可忽视。由于在挡板右侧腔体内的介质对通过间隙进入该腔体的流体敏感，间隙尺寸必然影响挡板右侧腔体内和挡板表面的静压强分布，因此需要综合考虑间隙尺寸与挡板轴向位置对 $F _ { x }$ 的贡献。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/74ced878bd14d6b1429f51188b809c4a8a1b4644ba8edc34323d32d7deffc166.jpg",
+        "img_caption": [
+            "图10挡板上的轴向合力在制动器运行过程中的变化Fig.lOVariation of resultant axial hydraulic force on the baffleduring the operation"
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(1）液力涡轮制动器腔体内存在大尺度流动结构，随着挡板与转轮的轴向距离增大，挡板与转轮之间腔体内的流动结构沿轴向发展，而挡板右侧腔体内的涡对被抑制，转速变化对挡板左右腔体内的流动结构特征影响不显著。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2）液力涡轮制动器的运行过程中，在转轮轮彀和叶片吸力面附近出现空化区，伴随每个叶片的空化区形态不同，空化相体积份额与转轮转速之间不存在单调变化关系。随着挡板与转轮之间腔体体积的增大，空化区所占的总体积份额减小。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3）在液力涡轮制动器的整个运行过程中，随着转轮转速的变化，制动器的力矩系数基本保持稳定；作用于挡板上的流体作用力的轴向合力随着转轮旋转速度提高而增大；当转轮与挡板间的腔体容积增大时，该轴向合力增大。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] LIU C Y, JIANG K J, ZHANG Y. Design and use of an eddy current retarder in an automobile[J],International Journal of Automotive Technology,2011, 12(4):611-616.   \n[2] Park J W, Jung D S,Lee B Y, et al. Study on the lifetime assessment of output shaft bearings for transmissions in tracked vehicle considering its supporting structures[J],Journal of Mechanical Science and Technology，2014,28 (10):3985- 3990.   \n[3] Bai L,Fieblg M,Mitra NK.Numerical analysis of turbulent flowin fluid couplings[J]. Journal of FluidsEngineeringTransactions of the ASME,1997,119(3):569-576.   \n[4]Plesset M S.The dynamics of cavitation bubbles[J].Journal of Applied Mechanics,1949,16(3):277-282.   \n[5] ZOU Bo,WEI Wei, YAN Qingdong. Research on parametric design of hydraulic retarder cascade[C]//Software Engineering and Knowledge Engineering: Theory and Practice,Berlin, Springer,2012:535-541.   \n[6] Stewart R L,Bridgwater J, Zhou Y C,et al. Simulated and measured flow of granules in a bladed mixer—a detailed comparison[J],，ChemicalEngineeringScience,2001, 56(19):5457-5471.   \n[7] YU Xianjun, ZHANG Zhibo,LIU Baojie. The evolution of the flow topologies of 3D separations in the stator passage of an axial compressor stage[J],Experimental Thermal and Fluid Science,2013,44(1):301-311.   \n[8] GAO Jie, ZHENG Qun,XU Tianbang,et al. Inlet conditions effect on tip leakage vortex breakdown in unshrouded axial turbines[J],Energy,2015,91:255-263.   \n[9]Jacquet-Richardet G, Torkhani M,Cartraud P,etal.Rotor to stator contacts in turbomachines. Review and application[J], Mechanical Systems and Signal Processing,2013,40(2):401- 420.   \n[10]Ernst M,Michel A,Jeschke P.Analysis of rotor-statorinteraction and blade-to-blade measurements in a two stage axial flow compressor[J]. Journal of Turbomachinery,2009, 133(1):186-192.   \n[11]Darin K,Carl A, Jason B. Cavitation detection in automotive torque converters using nearfield acoustical measurements[J], SAE transactions,2005,114(6):2796-2804.   \n[12]Watanabe S, Otani R,Kunimoto S,et al. Vibration Characteristicsdue to cavitation in stator element of automotive torque converter at stall condition[C]//Proceedings of ASME 2012 Fluids Engineering Division Summer Meeting Collocated with the ASME 2012 Heat Transfer SummeR Conference and the ASME 2012 1Oth International Conference onNanochannels,Microchannels,and Minichannels,Rio Grande,Puerto Rico: American Society of Mechanical ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Engineers,2012:535-541. [13]Tsai C Y,Huang S C.Transfer matrix for rotor coupler with parallel misalignment[J],Journal of Mechanical Science and ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "第一作者：康灿  \n通讯地址：江苏省镇江市学府路301号 江苏大学能动学院  \n手机号码：13605282893  \nEmail: kangcan $@$ ujs.edu.cn",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "WORD批量转PDF工具-未注册注册码购买联系QQ：3049816538",
+        "text_level": 1,
+        "page_idx": 7
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "type": "text",
+        "text": "知识辅助的无人机目标恒虚警率检测方法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "王峰¹，晋良念1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.桂林电子科技大学信息与通信学院，广西 桂林541004；2.桂林电子科技大学广西无线宽带通信与信号处理重点实验室，广西 桂林541004)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：无人机作为典型的低小慢目标，具有飞行速度慢、高度低、雷达反射面积(RCS)小等特点，使得无人机目标很难被检测和识别。针对无人机在复杂环境下存在信噪比低、检测困难的问题，提出了一种知识辅助的无人机目标恒虚警率(CFAR)检测方法。该方法首先分析3种常见的地杂波分布模型和均值类CFAR检测器,然后分别对这3种杂波分布下的回波信号采取CFAR检测方法,将检测性能最优的方法作为该杂波分布下最优的CFAR检测方法存人知识库，从而建立CFAR 知识库;通过对需要检测目标的回波信号的杂波分布进行估计,判断杂波分布的模型，并以此分布从雷达知识库中选择所对应的CFAR算法，从而完成回波信号的检测。最后利用雷达采集的实测数据进行了验证，仿真和实验结果验证了该方法的可行性和有效性。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：无人机;目标检测;知识辅助;恒虚警率;杂波分布模型图分类号：TN957.51 文献标志码：A 文章编号：1673-808X(2022)00-0000-00",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nowledge-aided detection method for radar target constant false alarm of UAV ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "WANG Feng1 ， JIN Liangnian1,2",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1.Schoolof Informationand Communication，Guilin Universityof Electronic Technology，Guilin 5410o4，China; 2. Guangxi Key Lab of Wireless Wideband Communication and Signal Processing, Guilin University of Electronic Technology，Guilin 541OO4，China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract:As a typical \"low，small，slow\"target，UAVhas thecharacteristicsof slowflight speed,lowaltitude，and small radar reflection area (RCS)，making it diffcult todetectand identify UAVtargets.Inviewof the problemoflowsignal-to noise ratio and difcult detectionof UAVs incomplex environments，a knowledge-aided constant false alarm rate(CFAR) detection method for UAV targets is proposed.This method first analyzes threecommon ground clutter distribution models and mean CFAR detectors，and then adopts CFAR detection methods for the echo signals under the three clutter distributions，and uses the method with the best detection performance as the cluter distribution The optimal CFAR detection method isstored intheknowledge baseto establishthe CFAR knowledgebase；by estimating thecluterdistributionof the echosigalofthetargettobedetected,thecluterdistribution modelisjudged，andthedistributionisobtainedfromtheradar knowledge base Select thecorresponding CFAR algorithm tocomplete theecho signal detection.Finaly，the actual measurement data collected by radar is used to verify the feasibility and effectiveness of the method. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words:UAV；target detection；knowledge aided；constant false alarm rate；clutter distribution model ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "近年来，无人机产业蓬勃发展，在农业、生活方面给人民带来方便的同时，也带来了一系列威胁。因无人机具有飞行高度低、速度慢、体积小等特点，导致对其检测存在巨大困难[1-3]。而且,无人机通常工作在复杂的环境中，存在较强的地物杂波干扰，因此提高对低小慢目标的检测性能是当前要解决的一个关键问题[4-7]。为了降低杂波环境影响，提高雷达对无人机目标的检测性能，常采用恒虚警率(CFAR)检测算法。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "传统的CFAR算法通过估计杂波背景功率水平来计算检测门限。例如，单元平均恒虚警率（CA-",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CFAR)是取临近待检测单元两侧单元的杂波功率均值来确定目标检测门限，类似的还有单元平均选大恒虚警率（GO-CFAR）、单元平均选小恒虚警率（SO-CFAR)和有序统计恒虚警率(OS-CFAR)等[8-10]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于上述传统的CFAR检测方法中环境类型比较单一，无法适用于复杂环境。文献[11提出了一种基于深度学习技术的CFAR目标检测方法。该方法证明了在不同信噪比下，DL-CFAR的性能优于传统的CFAR算法。文献12针对雷达探测系统，提出了一种改进的SOCA-CFAR 算法，通过降低目标功率对平均噪声估计的灵敏度来减轻多目标和大目标对检测算法的掩蔽效应。文献[13]利用地形覆盖相关信息（GIS)来辅助参考单元的选择，进而改善CFAR的检测性能。文献14提出一种参数化、结构化的雷达知识库模型，其中包含探测区域内的多种杂波环境信息，利用雷达知识库中的杂波分区知识来辅助选取参考单元。上述方法在一定程度上提高了目标检测性能，但并未针对无人机工作环境进行分析，不能满足无人机检测需求。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "为此，分析不同杂波背景下的CFAR检测性能，通过对比分析，选择检测效果最好的方法建立CFAR知识库，再针对不同的杂波分布，选择知识库中所对应的最优检测方法，从而实现对无人机目标的有效检测。与前述方法相比，该方法有效解决了传统CFAR检测方法中环境类型单一的问题，可适用于不同杂波环境下的无人机目标检测。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1建立CFAR知识库",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因为均值类CFAR检测算法通过对参考窗内采样数据取平均来估计背景功率，能够满足不同杂波环境下的目标检测，所以通过选用均值类CFAR检测算法建立CFAR知识库。知识库中的检测方法主要包括 CA-CFAR、SO-CFAR 和 GO-CFAR[15]。均值类CFAR检测框图如图1所示。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/11398d4ff8879437afe9b66fba67df80f4e8975edbd5bb45200df41fdef01bbd.jpg",
+        "img_caption": [
+            "图1均值类CFAR的检测框图"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CA-CFAR是均值类CFAR中最为经典的方法，该检测方法假定背景环境均匀且各参考单元之间独立同分布。待检测单元附近存在保护单元，避免因目标占据多个距离单元而对杂波功率估计造成影响。CA-CFAR杂波背景功率估计为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\sum _ { i = 1 } ^ { n } x _ { i } + \\sum _ { i = 1 } ^ { n } y _ { i } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $Z$ 为杂波功率估计； $n$ 为左右窗参考单元的长度； $\\boldsymbol { \\mathscr { x } } _ { i } \\setminus \\boldsymbol { y } _ { i }$ 分别为左右窗的参考单元。CA-CFAR 检测器在均匀瑞利杂波背景下的发现概率为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { \\tiny ~ d , C A } } = ( 1 + \\frac { T } { 1 + \\lambda } ) ^ { 2 n } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\lambda$ 为目标信号与噪声的平均功率比值。由于门限 $S { = } T Z$ 是一个随机变量，虚警概率为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { f a } } = \\mathrm { P } [ D \\mathcal { P } \\mathcal { S } _ { 0 } | H _ { \\circ } ] = \\exp \\Bigl ( \\frac { - S } { \\mu } \\Bigr ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "门限因子为 ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = ( P _ { \\mathrm { f a } } ) ^ { - \\frac { 1 } { 2 n } } - 1 \\circ\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GO-CFAR作为CA-CFAR的一种改进方法，主要针对强杂波区域目标的检测问题，其基本思路是取前后参考窗均值 $X , Y$ 中较大者作为背景功率的估计值。GO-CFAR的杂波功率估计为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\operatorname* { m a x } ( X , Y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中 $X = \\sum _ { i = 1 } ^ { n } x _ { i } , Y = \\sum _ { i = 1 } ^ { n } y _ { i }$ ,参考单元为 $n$ 个,将常数$1 / n$ 归到门限因子 $T$ 中。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "GO-CFAR的虚警概率为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { f a , G O } } = 2 ( 1 + T ) ^ { - n } - 2 \\sum _ { i = 0 } ^ { n - 1 } { \\binom { n + i - 1 } { i } } ( 2 + T ) ^ { - ( n + i ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "检测概率可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { \\Phi _ { d , G O } } } = 2 { \\left( 1 + \\frac { T } { 1 + \\lambda } \\right) } ^ { - n } -\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n2 \\sum _ { i = 0 } ^ { n - 1 } \\binom { n + i - 1 } { i } \\left( 2 + \\frac { T } { 1 + \\lambda } \\right) ^ { - ( n + i ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SO-CFAR检测器适用于杂波边缘的强杂波区域目标的检测，其杂波功率估计为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nZ = \\operatorname* { m i n } ( X , Y ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SO-CFAR的虚警概率：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { \\mathrm { f a , s o } } { = } 2 \\sum _ { i = 0 } ^ { n - 1 } \\binom { n + i - 1 } { i } ( 2 + T ) ^ { - ( n + i ) } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "检测概率可表示为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i = 1 } ^ { \\infty } P _ { \\mathrm { d , s o } } = 2 \\sum _ { i = 0 } ^ { n - 1 } { \\binom { n + i - 1 } { i } } \\left( 2 + { \\frac { T } { 1 + \\lambda } } \\right) ^ { - ( n + i ) } \\mathrm { ~ } _ { \\mathrm { ~ c ~ } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从以上分析可看出，均值类CFAR的虚警概率O与所设的门限因子 $T$ 及参数单元个数 $n$ 有关。本研究将3种CFAR检测方法应用于CFAR知识库的建立，分别使用3种CFAR检测方法处理不同杂波分布下的雷达回波信号，将检测效果最好的CFAR算法作为知识库中该杂波分布下目标检测所采用的方去。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "杂波类型估计 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.e 杂波分布类型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "确定CFAR知识库中的3种CFAR检测器后，对无人机杂波环境进行分析。无人机飞行的杂波环境比较复杂，一般用于杂波的幅度分布模型包括瑞利分布、对数正态分布、韦布尔分布及K分布等[16]表1为四类杂波分布模型的概率密度函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)瑞利分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "瑞利分布常用于描述地杂波和低分辨率的雷达系统，是描述杂波分布的一种最典型的模型。瑞利分布的概率密度函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = \\frac { x } { \\sigma ^ { 2 } } \\mathrm { e x p } \\Bigl ( - \\frac { x ^ { 2 } } { 2 \\sigma ^ { 2 } } \\Bigr ) , x \\geq 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $f ( x ) > 0 , x \\geqslant 0 ; \\sigma$ 为瑞利分布的尺度参数，$\\sigma > 0$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)对数正态分布",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对数正态分布能更好地描述复杂的海面或地形杂波。对数正态分布的概率密度函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = \\frac { 1 } { \\sqrt { 2 \\pi } \\sigma x } \\mathrm { e x p } \\Bigl ( - \\frac { ( \\mathrm { l n } x - \\mu ) ^ { 2 } } { 2 \\sigma ^ { 2 } } \\Bigr ) , x > 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\mu$ 为尺度参数； $\\sigma$ 为形状参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)韦布尔分布模型",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "韦布尔分布可用来描述处于瑞利分布和对数正态分布中间的模型的杂波。韦布尔分布的概率密度函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = { \\frac { \\phi } { q } } { \\left( { \\frac { x } { q } } \\right) } ^ { p - 1 } \\exp \\left[ - \\left( { \\frac { x } { q } } \\right) ^ { p } \\right] , x \\geq 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 为形状参数； $q$ 为尺度参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4)K分布",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "K分布是另一种能很好拟合海杂波的分布模型。K分布的概率密度函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf ( x ) = \\frac { 2 } { a \\Gamma ( \\rho ) } \\biggl ( \\frac { x } { 2 a } \\biggr ) ^ { \\rho } K _ { \\rho ^ { - 1 } } \\biggl ( \\frac { x } { a } \\biggr ) , x \\geqslant 0 ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $a$ 为尺度参数； $\\rho$ 为形状参数； $K \\left( x \\right)$ 为为修正函数； $\\boldsymbol { \\itGamma } ( \\cdot )$ 为伽马函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2分布模型参数估计",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于杂波数据，确定其符合哪种分布模型，需要对4种分布模型的分布参数进行估计。然而，无人机的飞行环境主要是城市和乡村，环境中主要是地杂波。针对地杂波的研究，目前主要有3种杂波模型，即瑞利分布、对数正态分布和韦布尔分布[17]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对于杂波参数估计常采用最大似然估计和基于部分矩估计的方法，再通过拟合优度检验来确定杂波分布类型。例如：瑞利分布采用最大似然估计和部分矩估计得到参数 $\\sigma$ ；对数正态分布采用最大似然估计法和矩估计方法可得到相应的形状参数 $\\sigma$ 和尺度参数 $\\mu$ ；韦布尔分布采用估计方法估计尺度参数 $q$ 和形状参数为 $\\boldsymbol { \\mathbf { \\mathit { \\Sigma } } } _ { \\mathcal { P } }$ 。通过对杂波拟合，根据杂波的概率密度函数判断杂波的分布类型[18-19]",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 CFAR算法的选择 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "基于上述分析，构建基于杂波知识辅助的CFAR检测流程，如图2所示。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "杂波分布 CFAR CFARCFAR处理  \n类型检验 算法库 算法选择",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "对回波数据进行杂波参数估计和拟合，判断出杂波分布类型，针对不同的杂波分布类型，采用知识库中所对应的CFAR检测方法，进行恒虚警率处理，判",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "断无人机目标的有无。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "不同的CFAR算法适用于不同的杂波分布情况，相同的杂波分布下，不同的CFAR检测算法也有较大差异。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4仿真与实测数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 仿真数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真基于MATLAB软件。所采用的雷达信号为线性调频连续波信号，信号中心频率 $f _ { \\mathrm { 0 } } = 3 0$ $\\mathrm { G H z }$ ,带宽 $B { = } 6 0 ~ \\mathrm { M H z }$ ,周期 ${ T = 5 1 2 \\ \\mathrm { m s } }$ ,采样点数为1024个。2架无人机目标距离探测点分别为$8 0 0 . 6 0 0 \\mathrm { ~ m }$ 。3种CFAR仿真的参考窗长度 $N$ 均为80,保护单元数为4,虚警概率为 ${ { 1 0 } ^ { - 6 } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "零记忆非线性变换法（ZMNL)[20],是利用相关高斯随机序列通过某种或几种非线性变换得到需要的雷达杂波数据序列。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "采用 ZMNL生成参数已知的瑞利分布、韦布尔和对数正态分布的杂波信号和含有2个目标的调频连续波信号叠加后做CFAR处理，观察3种CFAR处理后的检测结果。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1)使用3种CFAR检测器对瑞利分布杂波下的回波信号进行CFAR检测，仿真结果如图3所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ">从图3可看出，在相同的仿真参数下，瑞利分布杂波的CA-CFAR检测效果最好，能够有效检测出2个日标，同时没有虚警点。尽管GO-CFAR检测效果能够识别出无人机目标，但存在虚警点。而SO-CFAR在杂波环境中，存在多个虚警点，性能最差。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2)使用3种CFAR检测器对韦布尔分布杂波下的回波信号进行CFAR检测，仿真结果如图4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图4可看出，在相同的仿真参数下，韦布尔分布杂波的GO-CFAR 检测性能最好，2个目标均被有效检测出来。尽管SO-CFAR可以检测到目标，但存在多个虚警点目标，而CA-CFAR检测算法无法检测出目标。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)使用3种CFAR检测器对对数正态分布杂波下的回波信号进行CFAR检测，仿真结果如图5所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从图5可看出，在相同的仿真参数下，对数正态分布杂波的GO-CFAR 能够检测出2个无人机目标，且不存在虚假目标，效果最好。尽管CA-CFAR和SO-CFAR也能检测出运动目标，但是也存在多个虚警目标，不能满足检测需要。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "综合上述仿真结果，瑞利分布杂波下检测性能最好的CFAR检测器为CA-CFAR，韦布尔分布杂波下检测性能最好的CFAR检测器为GO-CFAR，对数正态分布杂波下检测性能最好的CFAR检测器为GO-CFAR。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6823295441d095ed1d79ffee83cd633d9cc2ebc54614356c6e77edd34033a56f.jpg",
+        "img_caption": [
+            "图3瑞利分布杂波仿真结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.2 实测数据分析 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "雷达实测数据是利用三角波线性调频连续波雷达在学校周边地区进行实测获得。雷达体制为相控阵雷达，载波频率为 $3 0 ~ \\mathrm { G H z }$ ，波长 $\\lambda { = } 8 ~ \\mathrm { m m }$ ，发射信号带宽为 $6 0 ~ \\mathrm { M H z }$ ，周期为 $7 0 0 ~ \\mu \\mathrm { s }$ ，采样频率为25$\\mathrm { M H z }$ 。测试目标为大疆精灵PHANTOM4Pro型号无人机，实验场景如图6所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/29cf68c16cf18a2207b8fbc6aa8e19335a74e75fa3ca8428e741565c04334d5b.jpg",
+        "img_caption": [
+            "图4韦布尔分布杂波仿真结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对雷达采集到的实测数据，采用知识辅助CFRA检测方法，先对瑞利分布、韦布尔分布、对数正态分布和实测数据进行拟合，判断杂波幅度类型，杂波分布拟合结果如图8所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "从图7可看出，实测数据的杂波明显偏离对数正态分布，与瑞利分布的PDF拟合得较好。因此，实测数据的杂波类型符合瑞利分布杂波。根据建立的雷达知识库，使用雷达知识库中瑞利分布杂波所对应的",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8bda44c39fdf91b4d1a2de157c9cc534907607fc24770cdcf99f2f4e2dd88b41.jpg",
+        "img_caption": [
+            "图5对数正态分布杂波仿真结果图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c5b6d03bf228f86313654a85b18ab607187d593d8a07005dec106c6954d036d.jpg",
+        "img_caption": [
+            "图6实验场景图"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/270dc68ab43c74894de48d0ad397b21bcc6c35c34499bde6bed27317250507a9.jpg",
+        "img_caption": [
+            "图7杂波分布拟合图"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CFAR检测器(CA-CFAR)进行处理，检测结果如图8所示。",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/921729cefe4fb1db0f852d2ce0a1ceb33885791ba131c6d2cca85549d0b3d85f.jpg",
+        "img_caption": [
+            "图8实验结果"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从图8可看出，在距离 $1 8 8 \\mathrm { ~ m ~ }$ 处发现目标，且不存在虚警目标，与实际情况相符，能够检测出无人机目标，验证了算法的可行性。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "针对无人机目标检测问题，提出了一种知识辅助CFAR检测方法。相对于传统CFAR检测方法，根据对无人机所处飞行的杂波环境，建立CFAR知识库，通过对当前无人机飞行杂波环境拟合，判断杂波分布情况，再从知识库中优选CFAR检测算法，提高无人机目标在杂波环境下的检测性能。在今后的工作中，将继续增加知识库的辅助信息，以提高对无人机目标的有效检测。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "［1］李艳.无人机探测技术研究[J].电子世界，2019，21",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2):10-12.  \n[2」夏铭禹,赵凯,倪威.要地防控反无人机系统及其关键技术[J].指挥控制与仿真,2018,40(2)：53-60.  \n[3」屈旭涛，庄东晔，谢海斌.“低慢小\"无人机探测方法综述[J].指挥控制与仿真,2020,42(2):128-135.  \n［4］许道明,张宏伟.雷达低慢小目标检测技术综述[J].现代防御技术,2018,46(1)：148-155.  \n［5」夏均忠,刘远宏,冷永刚,等.微弱信号检测方法的现状分析[J].噪声与振动控制,2011,31(3);156-161.  \n[6」杨景，欧阳缮,廖可非,等.基于神经网络的四旋翼无人机旋翼长度估计算法［J].桂林电子科技大学学报，2020,40(6):463-467.  \n[7］余启,饶彬,罗鹏飞.杂波背景下基于LFMCW 雷达的无人机检测性能分析[J].无线电工程，2018,48（12)：1065-1071.  \n[8」李晶晶，王首勇，胡文琳.基于多杂波分布模型的自适应单元平均恒虚警检测[J].空军雷达学院学报，2005，3(2) :4-7.  \n[9]HU Hang. Study and simulations on CFAR detectionin pulse Doppler radar processor[C]//InternationalSymposium on Antennas,2006 :1-4.  \n[10]都基焱，胡军，张百顺.七种恒虚警率处理方案及性能分析[J].现代雷达，2004,26(4)：47-50.  \n[11]XU Chunmei,LI Yang,JI Chao,et al. An improvedCFAR algorithm for target detection[C]//InternationalSymposium on Intelligent Signal Processing and Communication Systems,2017:883-888.  \n[12]MAIO A D,FARINA A,FOGLIA G. Design and ex-perimental validation of knowledge-based CFAR detec-tors［J]. Environmental Research EngineeringandManagement,2006:1-10.  \n[13]卢术平,宋海洋,易伟.基于雷达知识库的知识辅助恒虚警检测算法[J].现代雷达，2017，39(6)：46-49.  \n[14]何友，关键,孟祥伟.雷达目标检测与恒虚警处理[M].北京;清华大学出版社,2011:36-49.  \n[15］刘宁.地杂波背景下雷达目标检测方法的研究[D].西安电子科技大学，2018：10-16.  \n[16]刘玉静,张晓峰,金威,等.基于实测数据的Ka 波段海杂波极化特性研究[J].电波科学学报,2019,34（6)：687-692.  \n[17］查连忠,孙楷文,刘静,等.基于 DSP 的雷达地物杂波模拟与实现[J].现代雷达，2014,36(1)：75-79.  \n[18]查连忠,孙楷文,刘静,等.基于DSP 的雷达地物杂波模拟与实现[J].现代雷达,2014,36(1)：75-79.  \n[19］邓泽怀.基于实测数据的海杂波统计建模[D].西安电子科技大学,2014:8-24.  \n[20]刘宇,顾振杰，韩红斌.基于实测数据的海杂波建模方法「1].兵工自动化,2019,38(9):64-67.",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "编辑：张所滨",
+        "page_idx": 5
+    }
+]

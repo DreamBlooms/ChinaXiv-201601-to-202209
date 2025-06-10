@@ -1,0 +1,228 @@
+新型香糖、香鲜及香甜复合调味剂在仔猪饲粮中的应用效果李方方」刘清梅」张勇1,²黄铁军² 何茂龙²朱宇旌1\*
+
+（1.沈阳农业大学畜牧兽医学院，沈阳 110866;2.乐达(广州)香味剂有限公司，广州 510730）摘要：本试验旨在研究新型香糖、香鲜及香甜复合调味剂对断奶仔猪生长性能、血清胃肠肽指标、养分消化率及粪便微生物数量的影响。选取体重相近的（ $2 8 { \pm } 2$ ）日龄健康大白断奶仔猪128头，随机分成4个组，每组4个重复，每个重复8头仔猪。对照组（A组）饲喂基础饲粮，试验组在基础饲粮中分别添加香糖复合调味剂（ $0 . 8 ~ \mathrm { g / k g }$ 植物香味提取物 $+ 0 . 2 ~ \mathrm { g / k g }$ 糖精钠，B组）、香鲜复合调味剂（ $0 . 8 ~ \mathrm { g / k g }$ 植物香味提取物 $+ 0 . 2 ~ \mathrm { g / k g }$ 鲜味组合物，C 组）香甜复合调味剂 ( $\mathrm { \langle 0 . 8 ~ g / k g }$ 植物香味提取物 $+ 0 . 2 \ \mathrm { g / k g }$ 植物甜味提取物，D组)。试验期 $2 8 { \mathrm { d } } .$ 0结果表明：与对照组相比，1）饲粮中添加香糖和香鲜复合调味剂在试验第 $1 { \sim } 1 4$ 天显著降低了断奶仔猪料重比（ $. P { < } 0 . 0 5 ^ { \cdot }$ )；2）饲粮中添加香糖和香鲜复合调味剂显著提高了断奶仔猪有机物的消化率（ $. P { < } 0 . 0 5 ^ { \cdot }$ )；3）饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪血清胃肠肽指标和粪便微生物数量没有显著影响（ $P { > } 0 . 0 5$ )。由此可见，饲粮中添加香糖和香鲜复合调味剂能够改善断奶仔猪的生长性能与养分消化率。
+
+关键词：复合调味剂；断奶仔猪；生长性能；血清胃肠肽指标；养分消化率；粪便微生物中图分类号：S828
+
+在养猪生产中，仔猪的采食量是否充足尤为重要，若是仔猪的采食量不足会影响其生长性能，而且仔猪的生长状况对后期猪的育肥也具有重要的作用。提高断奶仔猪的采食量是保证其生长性能的重要措施。对于香、甜、鲜3种风味剂的研究显示，在生长猪饲粮中同时添加甜味剂和香味剂可以提其高采食量[1，说明香味剂与甜味剂相结合具有协同效应[2-4]，然而关于香味剂与鲜味剂共同添加是否有协同效应，目前尚未见报道。目前关于2种及2种以上不同类型复合调味剂共同在断奶仔猪饲粮中应用的研究报道较少。因此，本试验以断奶仔猪为研究对象，通过在饲粮中添加香糖、香鲜及香甜复合调味剂考察复合调味剂对断奶仔猪生长性能、血清胃肠肽指标、养分消化率及粪便微生物数量的影响，为在仔猪饲粮中使用香糖、香鲜及香甜复合调味剂提供科学依据。
+
+# 1材料与方法
+
+# 1.1 试验材料
+
+本试验所用香糖复合调味剂为植物香味提取物 $^ +$ 糖精钠；香鲜复合调味剂为植物香味提取物 $+$ 鲜味组合物；香甜复合调味剂为植物香味提取物 $+$ 植物甜味提取物。本试验所用的植物香味提取物（含植物提取物、酵母降解物、核苷酸及氨基酸，产品编号78026Z）、糖精钠、鲜味组合物（含植物提取物、酵母降解物、核苷酸、氨基酸及谷氨酸钠，产品编号 79021Z)及植物甜味提取物（含植物提取物、酵母降解物、核苷酸及氨基酸，产品编号79023Z）均由乐达（广州）香味剂有限公司提供。
+
+# 1.2 试验设计及试验饲粮
+
+试验选取体况良好、体重（ $7 . 3 8 { \pm } 0 . 6 8$ ） $\mathrm { k g }$ 的（ $2 8 { \pm } 2$ ）日龄的大白断奶仔猪128头，按性别和平均体重一致性原则随机分为4个组，每组4个重复，每个重复8头仔猪。分为对照组（A 组）和3个试验组（B组、C组、D组)，其中对照组饲喂不加香味剂和甜味剂的基础饲粮，试验组分别在基础饲粮的基础上添加香糖、香鲜及香甜复合调味剂，试验设计见表1。本试验选用玉米-豆粕型基础饲粮，参照NRC（1998）猪的营养需要配制，基础饲粮组成及营养水平见表2。试验期为 $2 8 \mathrm { d }$ 0
+
+# 表1试验设计
+
+# Table1Experiment design
+
+项目Items
+
+A 组（对照组）Group A(control group) 基础饲粮B 组 Group B 基础饲粮 $^ +$ 植物香味提取物（ $0 . 8 ~ \mathrm { g / k g }$ ） $+$ 糖精钠（ $0 . 2 ~ \mathrm { g / k g }$ ）C 组 Group C 基础饲粮 $^ +$ 植物香味提取物（ $0 . 8 ~ \mathrm { g / k g }$ ） $^ +$ 鲜味组合物（ $0 . 2 ~ \mathrm { g / k g }$ ）D 组 Group D 基础饲粮 $^ +$ 植物香味提取物( $\mathrm { \dot { \Omega } } 0 . 8 \ \mathrm { g / k g }$ ） $^ +$ 植物甜味提取物( $( 0 . 2 \ \mathrm { g / k g } )$ ）
+
+# 表2基础饲粮组成及营养水平(风干基础）
+
+Table 2Composition and nutrient levels of the basal diet (air-dry basis) %
+
+含量Content
+
+项目Items  
+原料 Ingredients  
+玉米Corn
+
+# C hinaXiv合作期刊
+
+普通豆粕 Common soybean meal 18.00  
+膨化大豆 Extruded soybean 4.40  
+进口鱼粉 Imported fish meal 3.00  
+石粉 Limestone 0.90  
+磷酸氢钙 $\mathrm { C a H P O _ { 4 } }$ （204号 1.40  
+食盐 NaCl 0.30  
+预混料 Premixl) 2.00  
+合计 Total 100.00  
+营养水平 Nutrient levels2)  
+代谢能 ME/(MJ/kg) 13.37  
+粗蛋白质CP 17.00  
+钙Ca 0.84  
+有效磷 AP 0.43  
+可消化赖氨酸 DLys 1.00  
+可消化蛋氨酸 DMet 0.24  
+可消化苏氨酸 DThr 0.64  
+可消化色氨酸 DTry 0.16  
+食盐 NaCl 0.45
+
+$^ { 1 ^ { \circ } }$ 预混料为每千克饲粮提供 The premix provided the following per $\mathrm { k g }$ of the diet: VA 8 000 IU，VD3 1 228 IU，VE 15 IU, $\mathrm { V K } _ { 3 } 3 . 0 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 } 1 . 3 \mathrm { m g }$ ， $\mathrm { V B } _ { 2 } 3 . 1 \mathrm { m g }$ ， $\mathrm { V B } _ { 6 } 1 . 2 \mathrm { m g }$ ，泛酸钙 calcium pantothenate $1 3 . 4 \mathrm { m g }$ ，氯化胆碱choline chloride $5 0 0 \mathrm { m g }$ ，生物素biotin $0 . 1 1 \mathrm { m g }$ ，烟 酸niacin $2 5 ~ \mathrm { m g }$ ，叶酸 folic acid $0 . 6 8 \mathrm { m g }$ ， $\mathrm { V B } _ { 1 2 } 0 . 0 3 ~ \mathrm { m g }$ ， Fe (as ferrous sulfate) $1 2 0 \mathrm { m g }$ ， $\mathtt { C u }$ (as copper sulfate) $1 0 ~ \mathrm { m g }$ ， $Z \mathrm { n }$ (as zinc sulfate) $1 3 0 ~ \mathrm { m g }$ ，Mn (as manganese sulfate) $1 0 0 ~ \mathrm { { m g } }$ ，I(as potassium iodide) $0 . 3 ~ \mathrm { m g }$ ， Se (as sodium selenite) $0 . 3 \mathrm { m g }$ ，赖氨酸盐酸盐 Lys·HCl( $78 \%$ 3g， 蛋氨酸Met $2 . 5 \ \mathrm { g }$ ， $L .$ 苏氨酸 $ { L } { \mathrm { - T h r 6 ~ g } }$ ， $L$ 色氨酸 $L$ Try $1 . 5 \ : \mathrm { g }$ 。
+
+2）代谢能与可消化氨基酸为计算值，其余为实测值。ME and digestible amino acids were calculated values,while the others were measured values.
+
+# 1.3 饲养管理
+
+试验在辽宁德宝农牧集团艾德蒙种猪繁育场进行，供试仔猪由艾德蒙种猪繁育有限公司提供。本试验的4个组在同一栋猪舍内进行，猪舍温度控制在（ $2 6 { \pm } 3$ ）℃，并保持良好的通风。按照常规管理规程及正常免疫程序进行饲养。试验期间断奶仔猪自由饮水，自由采食。
+
+# 1.4 测定指标及方法
+
+# 1.4.1 生长性能的测定
+
+分别于试验当天、第15天以及试验结束当天晨饲前对试验猪逐头进行空腹称重，计算试验期平均日增重（average daily gain，ADG)。试验过程中以重复为单位记录采食量，根据每日记录的给料量、剩余料量、损耗料量，计算试验期平均日采食量(average daily feed intake,ADFI)。根据 ADFI 和 ADG 计算料重比（feed/gain，F/G)。在试验期间，每天观察仔猪排粪情况，记录腹泻个体，计算腹泻率（diarrhea rate)。记录试验猪的死亡和淘汰情况，发生死淘猪时需及时结料，并对死淘猪进行称重。
+
+腹泻率（%）=[腹泻仔猪数量/(试验仔猪数量 $\mathbf { \nabla } \times \mathbf { \mu }$ 试验天数) $\lvert \times 1 0 0$
+
+# 1.4.2 血清胃肠肽指标的测定
+
+于试验结束当天，每个重复随机选取1头供试仔猪，用真空采血管进行空腹前腔静脉采血 $5 \mathrm { m L }$ ，采血后静置 $3 0 \mathrm { m i n }$ 以上，待血凝后，于离心机中以 $3 0 0 0 \mathrm { r / m i n }$ 离心 $1 5 \mathrm { m i n }$ ，分离血清，置于-20℃冰箱冻存待测。测定的指标包括：胆囊收缩素（cholecystokinin，CCK）、瘦素（leptin，LP）、胰高血糖素样肽-1（glucagon-likepeptide1，GLP-1）和胃饥饿素（ghrelin）。用放射免疫分析法测定CCK含量，按试剂盒说明书用 Sn-69513型免疫计数器进行测定，试剂盒购自上海第二军医大学神经生物学教研室。用酶联免疫分析法测定LP、GLP-1和胃饥饿素含量，按试剂盒说明书用MultiskanMK3酶标仪进行测定，试剂盒均购自南京贝森伽生物技术有限公司。
+
+# 1.4.3 养分消化率的测定
+
+于试验结束当天，从每个重复中采集粪样约 $2 0 0 ~ \mathrm { g }$ ，同一重复仔猪的粪便混匀，加入体积分数为 $10 \%$ 的盐酸溶液以防止氨气的挥发，并做好记录，将样品置于－20℃冰箱冷冻保存。饲粮和粪中有机物（OM)、粗蛋白质（CP）、粗脂肪（EE）、钙（Ca）和磷（P）含量的测定均按照饲料常规分析方法进行[5]。
+
+养分消化率采用内源指示剂法进行计算，使用盐酸不溶灰分（AIA）作为指示剂。计算公式为：
+
+$X { = } 1 0 0 { - } [ \ ( b { \times } c ) \ / \ ( a { \times } d ) \ ] { \times } 1 0 0$ 式中： $X$ 为养分消化率 $( \% ) { \mathrm { : } } \ a$ 为饲料中某养分含量 $( \% ) ; b$ 为粪样中某养分含量 $( \% )$ $\boldsymbol { c }$ 为饲料中AIA含量 $( \%$ ； $d$ 为粪样中AIA含量 $( \% )$ 。
+
+# 1.4.4粪便微生物数量的测定
+
+于试验结束当天，每个重复随机选取1头供试仔猪，分别使用无菌自封袋采集其新鲜粪便，封装、记录好后，置于 $4 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 冰箱内，保存待测，测定指标包括大肠杆菌、乳酸杆菌以及双歧杆菌的菌落数量，采用平板涂布法计数。试验所用的培养基均购自青岛高科园海博生物技术有限公司，不同菌种采用不同的培养基进行培养，大肠杆菌是麦康凯培养基（HB6238-1），乳酸杆菌是乳酸杆菌选择性琼脂培养基（LBS培养基，HB0385），而双歧杆菌则是双歧杆菌琼脂培养基（BBL培养基，HB0395）。其中大肠杆菌的培养条件为37°C有氧 $2 4 \mathrm { h }$ ；而乳酸杆菌和双歧杆菌的培养条件为 $3 7 \mathrm { ~ } ^ { \circ } \mathrm { C }$ 厌氧 $4 8 \mathrm { h }$ ，结果均采用每克粪样中所含有的菌落个数的对数值[lg(CFU/g)]进行表示。
+
+# 1.5 数据处理与统计分析
+
+试验数据经 Excel 2007 处理后，采用 SPSS19.0 软件进行单因素方差分析（one-wayANOVA)，差异显著时采用Duncan氏法进行多重比较，设定显著水平 $P { < } 0 . 0 5$ 为差异显著，$P { < } 0 . 0 1$ 为差异极显著，数据结果以“平均值±标准差”表示。
+
+# 2结果
+
+2.1饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪生长性能的影响
+
+由表3可知，与对照组相比，B组、C组、D组试验第 $1 { \sim } 1 4$ 天、第 $1 5 { \sim } 2 8$ 天以及整个试验期（第1\~28天)的F/G均有所降低，其中各试验组试验第 $1 { \sim } 1 4$ 天的F/G均显著降低（ $. P { < } 0 . 0 5 \$ ，分别降低了 $1 4 . 3 8 \%$ 、 $1 3 . 4 3 \%$ 和 $1 3 . 5 2 \%$ ；各试验组试验第 $1 5 { \sim } 2 8$ 天和整个试验期的F/G与对照组相比差异均不显著（ $P { > } 0 . 0 5$ ）。各组ADFI、ADG和腹泻率均差异不显著（ $. P { > } 0 . 0 5$ ）。
+
+表3饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪生长性能的影响
+
+Table 3Efects of dietary aromatic and saccharin,aromatic and umami, aromatic and sweet compound flavoring agents on growth performance of weaned piglets
+
+<html><body><table><tr><td rowspan="2">项目Items</td><td rowspan="2">阶段 Period</td><td colspan="4">组别 Groups</td></tr><tr><td>A</td><td>B</td><td>C D</td><td>P值 P-value</td></tr><tr><td>始重Initial</td><td></td><td>7.38±0.84</td><td>7.38±0.83 7.39±0.83</td><td>7.40±0.82</td><td></td></tr><tr><td>weight/kg</td><td></td><td></td><td></td><td></td><td>1.000</td></tr><tr><td>末重Final</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>weight/kg</td><td></td><td>16.06±0.92 17.16±1.33</td><td>16.98±1.70</td><td>15.72±1.29</td><td>0.394</td></tr><tr><td></td><td>第1~14</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>天Day1</td><td>419.67±39.18 432.71±49.91</td><td>421.69±62.27</td><td>375.16±29.22</td><td>0.358</td></tr><tr><td></td><td>to 14</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第15~28</td><td></td><td></td><td></td><td></td></tr><tr><td>平均日采食量</td><td>天Day 15</td><td>665.50±52.73</td><td>681.08±45.32 696.03±50.18</td><td>639.49±85.54</td><td></td></tr><tr><td>ADFI/(g/d)</td><td>to 28</td><td></td><td></td><td></td><td>0.606</td></tr><tr><td></td><td>第1~28</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>天Day1</td><td>542.58±43.83 556.89±25.60</td><td>558.86±48.76</td><td>507.32±41.23</td><td></td></tr><tr><td></td><td>to 28</td><td></td><td></td><td></td><td>0.299</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第1~14</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>天 Day1</td><td>251.92±42.48 302.54±53.26</td><td>290.47±49.07</td><td>255.63±29.06</td><td>0.323</td></tr><tr><td></td><td>to 14</td><td></td><td></td><td></td><td></td></tr><tr><td>平均日增重</td><td>第15~28</td><td></td><td></td><td></td><td></td></tr><tr><td>ADG/(g/d)</td><td>天Day 15</td><td>351.05±39.76</td><td>369.00±46.68 395.63±45.47</td><td>337.45±51.98</td><td>0.356</td></tr><tr><td></td><td>to 28</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第1~28</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>天Day1</td><td>309.70±27.36 349.10±41.17</td><td>340.37±42.37</td><td>297.46±24.14</td><td>0.168</td></tr><tr><td></td><td>to 28</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>第1~14</td><td></td><td></td><td></td><td></td></tr><tr><td>料重比F/G</td><td></td><td></td><td>1.46±0.08b</td><td>1.48±0.15b</td><td></td></tr><tr><td></td><td></td><td>1.68±0.18a</td><td></td><td></td><td>0.048</td></tr><tr><td></td><td>天Day 1</td><td></td><td>1.44±0.09b</td><td></td><td></td></tr></table></body></html>
+
+to 14
+
+<html><body><table><tr><td colspan="6">t0 14 第15～28</td></tr><tr><td>天 Day 15</td><td>1.91±0.17</td><td>1.86±0.12</td><td>1.77±0.14</td><td>1.90±0.13</td><td>0.516</td></tr><tr><td>to 28</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>第1～28</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>天 Day 1</td><td>1.75±0.06</td><td>1.61±0.13</td><td>1.65±0.12</td><td>1.71±0.10</td><td>0.394</td></tr><tr><td>to 28</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>14.51±2.32</td><td>11.28±2.56</td><td>11.61±2.16</td><td>12.17±1.38</td><td>0.192</td></tr></table></body></html>
+
+# 腹泻率Diarrhea
+
+rate/%
+
+同行数据肩标相邻小写字母表示差异显著（ $P { < } 0 . 0 5 \$ )，相间小写字母表示差异极显著（ $P { < } 0 . 0 1 \ \mathrm { \cdot }$ ，相同或无字母表示差异不显著（ $P { > } 0 . 0 5$ )。下表同。
+
+In the same row,values with adjacent letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ，and with alternate letter superscripts mean extremely significant difference $( P { < } 0 . 0 1 )$ ，while with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ).The same as below.
+
+2.2饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪血清胃肠肽指标的影响
+
+由表4可知，与对照组相比，各试验组的断奶仔猪血清CCK、LP、GLP-1和胃饥饿素含量差异不显著（ $P { > } 0 . 0 5$ ）。
+
+表4饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪血清胃肠肽指标的影响
+
+Table 4Efects of dietary aromatic and saccharin,aromatic and umami,aromatic and sweet compound flavoring agents on serum gastrointestinal peptide indexes of weaned piglets
+
+<html><body><table><tr><td rowspan="2">项目Item</td><td colspan="4">组别Groups</td><td>P值</td></tr><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>P-value</td></tr><tr><td>胆囊收缩素</td><td>33.38±6.79</td><td>32.71±18.17</td><td>29.49±9.52</td><td>35.15±9.38</td><td>0.920</td></tr><tr><td>CCK/(pg/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>瘦素</td><td>4.42±0.09</td><td>4.04±0.08</td><td>4.10±0.10</td><td>4.77±0.76</td><td>0.161</td></tr><tr><td>LP/(ng/mL)</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>胰高血糖素样肽</td><td>1.88±0.71</td><td>1.59±0.38</td><td>1.51±0.62</td><td>1.73±0.43</td><td>0.859</td></tr></table></body></html>
+
+GLP-1/(pmol/L)
+
+胃饥饿素
+
+<html><body><table><tr><td></td><td>442.49±103.66</td><td>469.15±78.89</td><td>479.71±39.11</td><td>437.92±63.84</td><td>0.881</td></tr><tr><td>Ghrelin/(ng/L)</td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>
+
+2.3饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪养分消化率的影响
+
+由表5可知，与对照组相比，试验组OM消化率均有所提高，其中B组和C组的OM消化率显著提高（ $\scriptstyle \cdot { \cal P } { < } 0 . 0 5 .$ )，分别提高了 $2 . 9 7 \%$ 和 $3 . 3 6 \%$ 。与对照组相比，各试验组的CP、EE、Ca以及P消化率差异均不显著（ $\scriptstyle \cdot { \cal P } > 0 . 0 5 )$ ）°
+
+表5饲粮中添加香糖、香鲜及香甜复合调味剂对养分消化率的影响
+
+组别 Groups
+
+Table 5Effects of dietary aromatic and saccharin,aromatic and umami,aromatic and sweet compound flavoring agents on nutrient digestibility of weaning piglets %   
+
+<html><body><table><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>P-value</td></tr><tr><td>有机物OM</td><td>79.66±0.96a</td><td>82.02±0.32b</td><td>82.34±2.09b</td><td>80.57±1.32ab</td><td>0.049</td></tr><tr><td>粗蛋白质CP</td><td>68.83±2.64</td><td>72.76±3.05</td><td>70.15±4.34</td><td>67.85±4.78</td><td>0.336</td></tr><tr><td>粗脂肪 EE</td><td>64.68±3.60</td><td>70.22±4.81</td><td>68.01±3.97</td><td>64.37±7.26</td><td>0.350</td></tr><tr><td>钙Ca</td><td>39.51±6.20</td><td>46.36±4.53</td><td>47.13±7.40</td><td>39.55±7.38</td><td>0.228</td></tr><tr><td>磷P</td><td>45.72±2.73</td><td>50.90±1.46</td><td>50.11±4.92</td><td>42.84±8.45</td><td>0.155</td></tr></table></body></html>
+
+项目Items
+
+2.4饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪粪便微生物数量的影响
+
+由表6可知，与对照组相比，各试验组的粪便大肠杆菌、乳酸杆菌和双歧杆菌数量均差异不显著（ $P { > } 0 . 0 5 )$ 。
+
+表6饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪粪便微生物数量的影响
+
+Table 6Efects of dietary aromatic and saccharin,aromatic and umami,aromatic and sweet compound flavoring agents on fecal microbe number of weaned pigletslg （CFU/g）
+
+项目
+
+<html><body><table><tr><td>Items</td><td>A</td><td>B</td><td>C</td><td>D</td><td>P-value</td></tr><tr><td>大肠杆菌Escherichia</td><td>7.25±0.29</td><td>6.96±0.36</td><td>7.05±0.29</td><td>7.24±0.27</td><td>0.481</td></tr></table></body></html>
+
+coli
+
+<html><body><table><tr><td>乳酸杆菌Lactobacillus</td><td></td><td>6.97±0.38</td><td>7.02±0.29</td><td>7.08±0.30</td><td>6.96±0.21</td><td>0.941</td></tr><tr><td>双歧杆菌Bifidobacteria</td><td></td><td>5.92±0.35</td><td>6.03±0.52</td><td>6.05±0.19</td><td>6.00±0.19</td><td>0.949</td></tr></table></body></html>
+
+# 3讨论
+
+3.1饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪生长性能的影响
+
+香甜及香鲜复合调味剂是先通过其香味来引诱仔猪采食，然后通过饲粮中的甜味或者鲜味来刺激其食欲。酵母提取物当中含有大量的鲜味物质，能够刺激仔猪味觉感受器；并且还可以减少仔猪的腹泻发生，进而促进仔猪的生长[7]。吴静研究表明，在育肥猪的饲粮中添加鲜味剂，对其增重有着正面的影响，可以提高其 ADG，降低 F/G，还能够提高经济效益；而且如适量添加还可以使育肥猪的饲料转换率有所提高。张克英等[4研究表明，同时添加甜味剂和香味剂仔猪的 ADFI及ADG 均有所提高。吕继蓉研究表明，饲粮中同时添加香味剂和甜味剂对生长猪的生长性能具有改善作用，可使ADFI提高 $3 . 4 \%$ ,ADG 提高 $1 0 . 3 \%$ 饲料利用率提高 $6 . 9 \%$ 。本试验中，饲粮中添加香糖和香鲜复合调味剂可以降低 F/G，这与前人研究的结果一致。可见断奶仔猪饲粮中添加香糖与香鲜复合调味剂能够改善其生长性能。
+
+3.2饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪血清胃肠肽指标的影响
+
+CCK在对动物的食欲方面有调控的作用，若血清中CCK含量降低，则会使动物采食量增加[10]。苟钟勇[1]试验表明，CCK 主动免疫对育肥猪生长性能有改善作用，使其 ADFI提高了 $2 . 2 3 \%$ ，ADG 提高了 $2 . 0 3 \%$ 。Baranyiova 等[12]对1日龄仔猪进行CCK 静脉注射，发现仔猪采食量显著降低。CCK 能促进LP 的分泌，而LP也是一种对食欲具有负调控作用的因子，在对动物的采食抑制与体重调节方面，二者具有协同作用。吕继蓉试验表明，在试验第1周，添加香甜复合调味剂使猪空腹时的血清LP含量比其试验前降低了 $2 6 . 1 \%$ ，且2周后试验猪的血清LP含量提高幅度显著低于对照组。本试验中，添加香糖与香鲜复合调味剂组的血清CCK 和LP 含量稍低于对照组，而添加香甜复合调味剂组的血清CCK 和LP 含量则比对照组稍高，与ADFI及ADG有相似的趋势。
+
+GLP-1是由肠道的L细胞所合成与分泌，而L细胞也能够表达甜味受体（T1R2/3），在营养物质的刺激下，甜味剂受体会被激活，并且引发信号转导。GLP-1的分泌量与食物的摄入量呈正比的关系，它能降低大鼠对食物的摄取，并降低其体重[13]。胃饥饿素是一种脑肠肽激素，能够促进食欲及脂肪合成，且能调节能量代谢，还能促进胃酸分泌以及胃肠运动等[14]。吕继蓉[9]试验表明，在试验第1周，添加香甜复合调味剂以及香味剂使猪在空腹时胃饥饿素含量的提高幅度要比对照组高；且空腹时胃饥饿素含量与猪的 ADFI变化趋势一致。本试验中，添加香糖和香鲜复合调味剂组的血清GLP-1和胃饥饿素含量低于对照组但差异不显著，这可能是因为添加的风味剂不同，具体原因还有待进一步的研究。
+
+3.3饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪养分消化率的影响
+
+香味剂与甜味剂或鲜味剂进行复合，可以使饲料中的“香”和“味”互相之间发生促进作用，进而使两者产生协同的作用，使仔猪对于采食这一行为产生愉快的感受，然后产生条件反射，促使消化系统中一系列的消化液以及消化酶的分泌增加，最终致使仔猪的生长性能以及饲料利用率提高[15]。牟永斌[16]研究表明，饲粮中添加香味剂能著提高仔猪的OM 消化率，但对干物质（DM)、CP、EE 以及粗灰分（Ash）的消化率并没有显著影响。刘爽[15]研究表明，饲粮中添加甜味剂可以显著提高仔猪对总能（GE)、CP、DM消化率。本试验中，饲粮中添加香糖与香鲜复合调味剂同样显著提高了OM消化率。
+
+3.4饲粮中添加香糖、香鲜及香甜复合调味剂对断奶仔猪粪便微生物数量的影响
+
+在正常的情况下，肠道菌群之间的数量以及其分布规律是保持平衡的[17]，但是当仔猪在断奶应激等状态下，胃肠道中的pH会升高[18]，导致适宜在中性或者碱性环境中生存的微生物如致腹泻的大肠杆菌大量繁殖，而如乳酸杆菌等适宜在酸性环境当中生存的微生物数量会减少[19]，这种微生态平衡状态被打破，会导致一系列的病症，尤其是腹泻，带来经济损失[20]。本试验中，饲粮中添加香糖、香鲜及香甜复合调味剂未对断奶仔猪肠道微生物数量产生显著影响。
+
+4结论
+
+$\textcircled{1}$ 饲粮中添加香糖和香鲜复合调味剂能够改善断奶仔猪的生长性能，添加香甜复合调味剂能够改善其F/G。  
+$\textcircled{2}$ 饲粮中添加香糖和香鲜复合调味剂显著提高了OM消化率，3种复合调味剂对仔猪血清胃肠肽指标和粪便微生物数量没有显著影响。  
+$\textcircled{3}$ 推荐使用香糖及香鲜复合调味剂，即 $0 . 8 ~ \mathrm { g / k g }$ 植物香味提取物 $+ 0 . 2 ~ \mathrm { g / k g }$ 糖精钠复合调味
+
+剂及 $0 . 8 ~ \mathrm { g / k g }$ 植物香味提取物 $+ 0 . 2 \ \mathrm { g / k g }$ 鲜味组合物。
+
+参考文献：  
+[1] 孙朋朋,宋春阳.甜味剂及其在仔猪中的应用[J].猪业科学,2014(1):76-77.  
+[2] 张鑫,李方方,朱宇旌,等.饲粮中添加风味剂对猪采食量的影响及其作用机理[J].动物营养学报,2016,28(5):1332-1338.  
+[3] 刘爽,陈玉林,孙世铎.几种甜味剂和香味剂对仔猪采食量和增重的影响[J].西北农业学报,2008,17(3):73-77.  
+[4] 张克英,陈代文,李永义.不同种类风味剂类型对仔猪生产性能的影响[J].四川畜牧兽医,2000,27(6):24-25.  
+[5]袁缨.动物营养学实验教程[M].北京:中国农业出版社,2006:12-91.  
+[6] 徐昌领,冯定远,陈训银,等.日粮中添加酵母核酸对断奶仔猪生长性能的影响[J].饲料工业,2011,32(2):28-30.  
+[7] KIARIE E,BHANDARI S,SCOTT M,et al.Growth performance and gastrointestinal microbialecology responses of piglets receiving Saccharomyces cerevisiae fermentation products after anoral challenge with Escherichia coli (K88)[J].Journal of Animal Science,2011,89(4):1062-1078.[8]吴静.鲜味诱食剂对育肥猪生产性能的影响[J].福建畜牧兽医,2007,29(6):8-10.  
+[9]吕继蓉.饲料风味剂对猪采食量和采食行为的影响及机理研究[D].博士学位论文.雅安:四川农业大学,2011:1-4.  
+[10] 袁中彪.胆囊收缩素主动免疫对猪的营养生理效应及其机制的研究[D].博士学位论文.雅安:四川农业大学,2004:1-3.  
+[11] 苟钟勇.猪胆囊收缩素基因的克隆表达及其调节猪采食量的生物学功能研究[D].硕士学位论文.武汉:华中农业大学,2008:2-3.  
+[12] BARANYIOVA E,HULLINGER R L.Effects of cholecystokinin on liquid diet intake ofearly weaned piglets[J].Physiology & Behavior,1999,68(1/2):163-168.  
+[13]吴桂堂,秦伟,王海久.胰高血糖素样肽1研究进展[J].医学综述,2011,17(21):3236-3240.
+
+[14] LAGO F,GONZALEZ-JUANATEY J R,CASANUEVA F F,et al.Ghrelin,the same peptide for different functions:player or bystander[J].Vitamins & Hormones,2Oo5,71:405-432.
+
+[15] 刘爽.几种甜味剂、香味剂和饲料颜色对仔猪增重效果的影响研究[D].硕士学位论文.杨凌：西北农林科技大学,2007:1-4.
+
+[16] 牟永斌.色氨酸和诱食剂对仔猪营养生理效应的影响研究[D].硕士学位论文.重庆:西南大学,2008:2-4.
+
+[17]李志鹏.谷氨酰胺对动物肠道黏膜屏障保护作用的研究[J].饲料研究,2009(11):15-18.
+
+[18] 董晓丽.益生菌的筛选鉴定及其对断奶仔猪、犊牛生长和消化道微生物的影响[D].博士学位论文.北京：中国农业科学院,2013:1-5.
+
+[19] WANG H F,WANG JL,WANG C,et al.Effect of bamboo vinegar as an antibiotic alternative on growth performance and fecal bacteria communities of weaned piglets[J].Livestock Science,2012,144(1/2):173-180.
+
+[20] DONG X L,ZHANG N F,ZHOU M,et al.Efects of dietary probiotics on growth performance,faecal microbiota and serum profiles in weaned piglets[J].Animal Production Science,2013,54(5):616-621.
+
+Application Effects of Novel Aromatic and Saccharin, Aromatic and Umami, Aromatic and Sweet Compound Flavoring Agents in Weaned Piglet Diets²
+
+LI Fangfang1LIU Qingmei1ZHANG Yong1,2 HUANG Tiejun² HE Maolong² ZHU Yujin1\*
+
+(1. College of Animal Sciences and Veterinary Sciences, Shenyang Agricultural University, Shenyang 110866, China; 2. Lucta (Guangzhou) Flavors Co., Ltd., Guangzhou 510730, China)
+
+Abstract: This study was conducted to investigate the effects of novel aromatic and saccharin, aromatic and umami, aromatic and sweet compound flavoring agents on growth performance, serum gastrointestinal peptide indexes, nutrient digestibility and fecal microbe number of weaned piglets. One hundred and twenty eight $( 2 8 \pm 2 )$ -day-old healthy Large White weaned piglets with the similar body weight were selected and randomly divided into 4 groups with 4 replicates per group and 8 piglets per replicate. Piglets in the control group (group A) were fed a basal diet, and piglets in the other groups were fed the basal diet added with aromatic and saccharin compound flavoring agent $( 0 . 8 ~ \mathrm { g / k g }$ plant aromatic extract $+ 0 . 2 ~ \mathrm { g / k g }$ saccharin sodium, group B),aromatic and umami compound flavoring agent ( ${ \mathrm { 0 . 8 ~ \ g / k g } }$ plant aromatic extract+0.2 g/kg umami compounds, group C) and aromatic and sweet compound flavoring agent ( $\mathrm { ( 0 . 8 ~ g / k g }$ plant aromatic extract $+ 0 . 2 ~ \mathrm { g / k g }$ plant sweet extract，group D),respectively. The trial lasted for 28 days. The results showed that compared with the control group: 1) dietary supplemented with aromatic and saccharin, aromatic and umami compound flavoring agents significantly decreased the ratio of feed to gain of weaned piglets at day 1 to 14( $P { < } 0 . 0 5$ ）; 2) dietary supplemented with aromatic and saccharin, aromatic and umami compound flavoring agents significantly increased the organic matter digestibility of weaned piglets $( P { < } 0 . 0 5 ) ~ ; ~ 3 )$ dietary supplemented with aromatic and saccharin, aromatic and umami, aromatic and sweet compound flavoring agents had no significant effect on serum gastrointestinal peptide indexes and fecal microbe number ( $P { > } 0 . 0 5 )$ . The results suggest that dietary supplemented with aromatic and saccharin,aromatic and umami compound flavoring agents can improve the growth performance and nutrient digestibility of weaned piglets.
+
+Key words: compound flavoring agents; weaned piglets; growth performance; serum gastrointestinal peptide indexes; nutrient digestibility; fecal microbe

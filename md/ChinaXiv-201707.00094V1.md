@@ -1,0 +1,212 @@
+# DOI: 10.5846/stxb201603220510
+
+辜晨,贾晓红，吴波,成龙，杨占武,杨德福，赵雪彬.高寒沙区生物土壤结皮覆盖土壤碳通量对模拟降水的响应.生态学报,2017,37（13）)4423-433. GuC,JiaXH,u,gLngZng,ZXtfulatedpriatoeabfiooalllin alpine sandy habitats.Acta Ecologica Sinica,2017,37(13）:4423-4433.
+
+# 高寒沙区生物土壤结皮覆盖土壤碳通量对模拟降水的响应
+
+辜晨¹，贾晓红1，\*,吴波}，成龙¹，杨占武²,杨德福³，赵雪彬3
+
+1中国林业科学研究院荒漠化研究所，北京100091  
+2 青海省农林科学院，西宁 810016  
+3青海共和荒漠生态系统国家定位观测研究站，共和813000
+
+摘要;生物土壤结皮作为干旱半干旱地区重要的地表覆盖类型和景观特征之一,其自身具备的光合与呼吸能力对荒漠生态系统地表与大气界面中的碳交换与循环产生了重要影响。水分是干旱半干旱地区许多生态过程中的主要限制因子,能够影响生物土壤结皮的光合与呼吸过程,进而影响生物土壤结皮覆盖土壤的碳通量规律。针对高寒沙区藓类和藻类结皮为主的生物土壤结皮覆盖土壤,设置了 $1 . 2 . 5 . 1 0 \mathrm { m m }$ 以及0(对照)的模拟降水梯度,利用LI-8100 土壤碳通量测定系统,对模拟降水后结皮覆盖土壤的碳通量进行测定,以探讨不同结皮种类和不同强度降水对碳通量的影响。结果表明：(1)降水对生物土壤结皮覆盖土壤的净碳通量、暗呼吸均有激发作用,使碳通量在极短时间内到达峰值且与对照差异显著,但各降水量之间差异不显著。两种不同结皮覆盖类型相比,藓类结皮覆盖土壤在降水后的碳通量峰值和受降水激发的有效时间均显著高于藻类结皮。（2）两种结皮覆盖土壤在模拟降水后的48h 累积碳释放随降水量的增加而增加且与对照差异显著。同时藓类结皮覆盖土壤累计碳释放显著高于藻类结皮覆盖土壤。（3)两种生物土壤结皮覆盖土壤的碳通量和土壤水分体现出显著的相关性,净碳通量和暗呼吸均随水分的增加而增加。因此,在降水条件下生物土壤结皮覆盖土壤表现出明显的碳源效应,其碳通量以及碳释放量都有显著的改变,在研究干旱半干旱地区碳交换规律时应该考虑不同生物结皮的覆盖和降水事件的影响。
+
+关键词：高寒沙区；碳通量;生物土壤结皮;模拟降水
+
+# Effect of simulated precipitation on the carbon flux in biological-soil crusted soil in alpine sandy habitats
+
+GU Chen¹， JIA Xiaohong1 \*，WU Bo’，CHENG Long'，YANG Zhanwu²，YANG Defu³， ZHAO Xuebin³   
+1Institute of Desertification Studies，Chinese Academyof Forestry,Beijing 1Ooo91,China   
+2 Qinghai Academiy of Agriculture andfForestry Science,Xining 81oo16,China   
+3 Qinghai Gonghe Desert Ecosystem Research Station,Gonghe 8130OO,China
+
+Abstract:Biological-soil crusts，a communityof cyanobacteria，lichens，and mosses that liveon the soil surface，are a critical partof land cover types in desert ecosystems.They play a significantrole in many biogeochemical processes, contributingtosoil fertility，stability，andvascular plant establishment.Thephotosyntheticandrespirometricactivityof biological-soilcrustscanaffectcarbon fluxesandexchangeindesertecosystems.Wateristhemajorlimitingfactorof ecosystem functions and proceses inaridand semi-arid regions.In environments withdryclimates，scarceprecipitation, and watershortages，watercanafectthephotosynthesisandrespirationof biological-soil crusts，leading tochanges in carbonfluxesandexchangeinthesoil.Inthepresentstudy,todeterminetheeffectofbiological-soilcrustsonsoilcarbon fluxesunder diferent amountsof precipitation，weusedthetwo dominantsoilcrusts types foundinthe Qinghai-Tibet Plateaualpine sandyvegetatedareas:mossand algae.Five diferent simulated precipitationamounts（1,2,5,10,and O mm）wereapplied,and thecarbon fluxof soil covered bybiological crusts was measuredusing Li-810Ointhedark as dark respirationand inthelight as the netcarbon flux.Theresults showthat the:（1）netcarbon flux and dark respirationof biological-soil crusted soil were stimulatedbysimulated precipitation,and increasedrapidlytotheir maximum levels.There wasasignificantdiferencebetweentheprecipitationtreatmentsandcontrol,butnosignificant diferencebetweendierent treatments.The maximum carbon flux and stimulated available time of moss-crusted soil were much higher and longer, respectively,thanthoseofalgae-crustedsoil；（2）totalaccumulatedcarbonreleaseoftwocrustedsoilsaftertheaditionof simulatedprecipitation increased with increasing precipitation，and there wasasignificantdiferencebetweencarbonrelease in the precipitation treatmentsand thecontrol.Thetotalaccumulated carbonreleaseof mosscrusted soilwas significantly morethanthatof algae-crusted soil；（3）carbon fluxof two crustedsoilsandthesoil volumetric water Content showed a significantcorelation.Theeffectsofsoil wateronnetcarbon fluxanddarkrespiration were stimulative.Theresultsof the analysis indicated thatthe biological-crustedsoilshowedan efectof thecarbonsource aftertheaditionof simulated precipitation.Precipitation can directly influence thecarbon fluxand release，and theresponseof thecarbon flux in biological-soil crusted soil tosimulated precipitation shouldbeconsidered when studyingcarbon exchange inaridand semiarid regions.
+
+Key Words: alpine sandy lands；carbon flux；biological soil crusts；simulated precipitation
+
+生物土壤结皮广泛分布于干旱半干旱地区,结构上主要由两个部分组成,上层为微生物和隐花植物例如藻类、藓类、地衣等，下层为覆盖的土壤颗粒，二者通过菌丝、假根和分泌物等的紧密胶结成为一个整体，是具有代谢活性的特殊地表覆盖层。在受非生物因素调控和胁迫的荒漠生态系统中,生物土壤结皮作为荒漠生态系统常见的地表覆被类型,是荒漠生态系统重要的组成部分和景观特征之一,广泛分布于干旱、半干旱区,地表覆盖度到达 $6 0 \%$ 以上甚至更高[1-2]。在荒漠景观地区有机和无机成分的循环与交流中,生物土壤结皮扮演着联系、指示和影响的角色,对许多生态过程产生直接或间接的影响。作为具有光合固碳活性的土壤与大气系统界面层,生物土壤结皮中的藻类和藓类植物以及下层土壤能够通过呼吸作用释放 $\mathrm { C O } _ { 2 }$ ,同时在有光条件下开始光合固碳过程,固定空气中的 $\mathrm { C O } _ { 2 }$ ,释放出氧气。因此生物土壤结皮是干旱、半干旱地区荒漠系统碳通量的重要影响因素[2-4]。
+
+在干旱半干旱区荒漠生态系统中,水分是主要的调控和限制因子,能够直接影响生物土壤结皮的生理活动[5]。生物土壤结皮的重要组分藻类、地衣及藓类植物作为变水植物对水分的变化尤其敏感,在频繁多变的水分条件下有着很强的适应能力,缺水时自身开始脱水进入休眠状态,而在水分条件适宜的情况下其生理活性才会逐渐恢复并显现。因此生物土壤结皮的碳通量和碳释放量受水分影响较为明显。受全球气候变化影响,未来干旱半干旱地区的降水格局将产生变化,降水频率和幅度都将增加,这将导致许多自然资源和地表覆盖类型产生巨大的空间异质性,地表植被的分布不均和自然资源的时空变异使我们在评估生物土壤结皮的碳源汇角色时增加了不确定性[6-9]
+
+目前国外有关研究集中在极地和苔原、科罗拉多高原、热带荒漠、亚热带草原、地中海中欧草原等,国内主要集中在黄土高原、腾格里沙漠、古尔班通古特沙漠、毛乌素沙地、科尔沁沙地等地。生物土壤结皮在降水影响下的碳通量交换规律的研究相对较少[4,10],在高寒沙区条件下进行的相关研究更是略显不足。本研究在青海省共和盆地中西部典型高寒沙区人工植被恢复区，进行不同水平模拟降水下生物土壤结皮覆盖土壤的净碳通量（NCF）、呼吸速率(DR）、光合速率( $\left( P _ { n } \right)$ 以及相关环境因子进行动态监测,探寻生物土壤结皮覆盖土壤碳通量对不同水平降水的响应规律,揭示了土壤碳通量与降水、土壤水分之间的关系,以期能够为该地区生物土壤结皮的碳交换研究做出参考,也为整个高寒干旱半干旱地区的生物研究提供有益的背景资料。
+
+# 1材料与方法
+
+# 1.1 研究区自然概况
+
+研究区位于青海省林业厅下属沙珠玉乡治沙实验站 $( 9 8 ^ { \circ } 4 5 ^ { \prime } - 1 0 1 ^ { \circ } 3 0 ^ { \prime } \mathrm { E } , 3 5 ^ { \circ } 0 3 ^ { \prime } - 3 5 ^ { \circ } 4 0 ^ { \prime } \mathrm { N } )$ 。该实验站地处共和盆地中西部,位于青海南山以南,是青海省荒漠化土地集中分布区之一,研究区总面积为 $5 . 2 8 \times 1 0 ^ { 2 }$ $ { \mathrm { k m } } ^ { 2 }$ ,沙地面积为 $1 . 7 4 \times 1 0 ^ { 2 } \mathrm { k m } ^ { 2 }$ ,海拔为 $2 6 0 0 { - } 3 4 0 0 \mathrm { m }$ 。年均气温为 $2 . 4 \ \mathrm { { ^ circ C } } \ , 1$ 月平均气温为 $- 1 2 . 5 \mathrm { ^ { \circ } C }$ ,7月平均气温为 $1 4 . 6 ~ \mathrm { { ^ { \circ } C } }$ 。年均降水量仅为 $2 4 6 . 3 \mathrm { m m }$ ,主要集中生长季,年内分配不均。降水多发生在夜间,历时短且降水量少。年均潜在蒸发量为 $1 7 1 6 . 7 \mathrm { m m }$ 。
+
+沙珠玉地区海拔较高,气温度较低,太阳辐射较强,水资源稀缺,生态环境脆弱;近几年来,草场和林地被破坏的情况增多,使得该区域环境更加恶化,土地沙漠化程度逐年提高。从上世纪下半叶开始,沙珠玉地区逐渐开始对荒漠化土地进行有效治理,通过人工植被培育,减缓甚至遏制了沙漠化发展趋势,稳固了沙丘,形成了具有一定规模的人工植被恢复区。本研究选择 1977年的植被恢复区为实验样地,该样地位于固定沙丘的顶部,样地内生物结皮发育良好,且分布广泛,主要有藻结皮、藓类结皮2种类型。土壤为棕钙土和栗钙土,非地带性土壤为草甸土、盐土和风沙土。研究区内的植被种类较少,群落结构简单。自然植被中多为草本群落，如短花针茅（Stipa breviflora Griseb)和芨芨草(Achnatherum splendens（Trin.）Nevski）。人工植被中,乔木主要有青杨（Populus cathayana Rehd.）、河北杨(Populus hopeiensis Hu et Chow)和小叶杨(Populus simoni Carr.）,灌木主要有柠条锦鸡儿（Caragana korshinskii Kom.）、沙棘（Hippophae rhamnoides Linn.）、怪柳（Tamarix chinensisLour.)等。藻结皮主要包含4类藻种,分别为漂浮克里藻（Klebsormidium fluitans）、微小色球藻（Chroococcusminutus）、窝形席藻（Phormidicum foveolarum）和溪生须藻（Homoeothrix fluviatilis）[11]。对该样地内的结皮盖度、厚度、结皮生物量等指标进行调查。由于结皮无法用烘干法测干物质的生物量,因此在本研究中藻结皮、藓结皮的生物量均测定叶绿素a 含量,用来表示其生物量。测定方法参照苏延桂等的方法[12]。采集生物土壤结皮样本放于土壤盒中（直径 $4 . 5 \mathrm { c m }$ ,表面积约 $1 5 . 9 \mathrm { c m } ^ { 2 }$ ),在实验室中测定生物结皮叶绿素a含量。
+
+用蒸馏水冲洗结皮样本后放入研钵中同 $1 . 5 \mathrm { m L }$ 乙醇(浓度 $9 8 \%$ )和少量石英砂、碳酸钙进行研磨。完全研磨后,再加入 $7 \mathrm { m L }$ 相同浓度乙醇进行2次各 $3 0 \mathrm { { m i n } }$ 的离心 $( 4 ^ { \circ } \mathrm { C } , 1 4 0 0 0 \mathrm { r } / \mathrm { m i n } )$ 。完成后把提取液转移至$2 5 \mathrm { m L }$ 容量瓶中，利用相同浓度的乙醇定容，之后将样品放于 $2 5 \mathrm { m L }$ 试管中。叶绿素a用紫外分光光度计（UV-2450；Shimadzu，Kyoto，Japan)测定,测定使用波长为 $6 4 9 \mathrm { n m } \ 、 6 6 5 \mathrm { n m }$ 。计算使用的公式如下：
+
+$$
+\operatorname { C h l a } = ( 1 3 . 9 5 \times \operatorname { A } _ { 6 6 5 } - 6 . 8 8 \times \operatorname { A } _ { 6 4 9 } ) \times 2 5 / 1 5 . 9
+$$
+
+式中,Chla 为叶绿素 $\mathbf { \dot { a } }$ 含量 $\mathrm { \langle m g / c m } ^ { 2 }$ )’ $\mathrm { A } _ { 6 6 5 } \setminus \mathrm { A } _ { 6 4 9 }$ 分别表示波长为 $6 4 9 \mathrm { n m } \ 、 6 6 5 \mathrm { n m }$ 时吸光值A,25 表示稀释体积（mL），15.9表示结皮的垂直投影面积 $\left( \mathrm { c m } ^ { 2 } \right.$ )。为了防止叶绿素a的降解,样品研磨、提取、测定均在相对黑暗的环境中进行。
+
+实验使用生物结皮样品的特征如表1所示。
+
+表1生物结皮概况  
+Table 1 Characteristic of Biological-soil crusts in study area   
+
+<html><body><table><tr><td>结皮类型</td><td>结皮盖度/%</td><td>结皮厚度/cm Crust thickness</td><td>结皮生物量/（mg/cm²) Crust biomass</td></tr><tr><td>Type of Biological-soil Crusts</td><td>Crust coverage</td><td>1.01±0.01</td><td>3.69±0.21</td></tr><tr><td>藻结皮Algea crust 藓类结皮 Moss crust</td><td>>95 >95</td><td>1.49±0.06</td><td>4.65±0.25</td></tr></table></body></html>
+
+生物结皮生物量用叶绿素a含量表示
+
+# 1.2 研究方法
+
+# 1.2.1 样地布置
+
+在研究区内坡度小于 $5 ^ { \circ }$ 的丛间地上选择发育良好的以藓类结皮、藻类结皮为主的生物土壤结皮覆盖土壤为研究样地,保证结皮覆盖度达到 $9 0 \%$ ,结构完整,种类统一。
+
+对于藓类、藻类结皮，分别设置4个 $1 0 \mathrm { m } \times 1 0 \mathrm { m }$ 的样方，每个样方之间相距 $5 \mathrm { m }$ 以上。在4个大样方中随机选择3个,设置4个 $5 0 \mathrm { c m } { \times } 5 0 \mathrm { c m }$ 的小样方,每个小样方内分别放置1个直径为 $2 0 \mathrm { c m }$ 的土壤环,进行 $1 \mathrm { m m }$ 、$2 \mathrm { m m } \ 、 5 \mathrm { m m } \ 、 1 0 \mathrm { m m }$ 的模拟降水处理,即 $\mathrm { P _ { 1 } , \mathrm { P _ { 2 } , \mathrm { P _ { 5 } , \mathrm { P _ { 1 0 } } } } }$ ,剩余一个大样方设置3个小样方,进行 $0 \mathrm { m m }$ （对照,CK）降水。土壤环使用PVC材料自制,在测定之前3d设置于样地内,以便内外充分平衡,放置时保证样环内结皮完整。整个样方设置分为2种结皮处理,5种降水处理,3个重复,共30个测定基座。
+
+# 1.2.2土壤碳通量测定
+
+参考当地多年降水资料,雨季集中在每年6月—9月，降水基本在 $1 0 \mathrm { m m }$ 以下以小降水事件为主。因此实验于2015年9月进行,设置 $1 . 2 . 5 . 1 0 \mathrm { m m } 4$ 种降水处理。在晴朗的天气条件下,每天日出之后,约7点左右开始人工模拟降水,使用喷壶喷洒,保证水流速度,使水滴均匀撒在地表,并保证不能形成地表径流,控制整个降雨过程在 $3 \mathrm { m i n }$ 之内,对不同的降水量使用完全相同的操作方法。在降水后的 $0 . 1 、 2 、 4 、 6 、 8 、 1 2 、 2 4 、 4 8 \mathrm { h }$ 进行净碳通量(NCF)和呼吸速率(DR)的测定。测定时间分别为第一日 $0 7 : 0 0 \ 、 0 8 : 0 0 \ 、 0 9 : 0 0 \ 、 1 1 : 0 0 \ 、 1 3 : 0 0 .$ 15:00、19:00、第2日07:00、第3日07:00,每次测定都在天亮时进行。碳通量的测定使用Li-8100土壤碳通量系统,配以便携测量室8100-103以及长期监测室8100-104C。净碳通量即为在光照条件下（使用长期检测室8100-104C,该气室使用透明材料制作,透光率 $> 9 9 \%$ ),测定通过空气-土壤界面层的 $\mathrm { C O } _ { 2 }$ 通量值,为生物土壤结皮的光合作用、呼吸作用与下层土壤的呼吸作用的总和。呼吸速率即为在遮光条件下（使用便携测量室8100-103,该气室外罩使用金属材质,保证测定在完全黑暗条件下进行）,测定通过界面的 $\mathrm { C O } _ { 2 }$ 通量值,为生物土壤结皮呼吸作用与亚表层土壤的呼吸作用的总和。使用Li-8100测定碳通量时,设定每次测定90s,仪器自动对变化曲线进行拟合得出斜率,即为通量值。根据 NCF 和DR 即可计算得到光合速率 $( P _ { n } )$ 。
+
+$$
+P _ { n } { = } \mathrm { D R } \not { - } \mathrm { N C F }
+$$
+
+式中， $\boldsymbol { P } _ { n }$ 为正并且数值越大时，表示光合速率越高，碳吸收能力越强。
+
+土壤体积含水量（SVWC）采用辅助传感器测定,测量土壤深度为 $5 \mathrm { c m }$ ,与土壤碳通量测定同时进行。
+
+# 1.2.3 数据处理与分析
+
+对模拟降水后的藓类覆盖土壤和藻类覆盖土壤的净碳通量、呼吸速率和光合速率进行了分析，同时对模拟降水后48h内的碳通量值进行了平均得到平均碳通量,并且对两种不同结皮覆盖土壤 $4 8 \mathrm { h }$ 内的碳通量变化规律曲线进行了积分，得到累积碳量。
+
+数据分析和图表绘制分别在 SPSS、Origin和Excel中进行。使用重复测量方差分析进行土壤覆盖类型对碳通量影响效果的分析。双因素方差分析用来对比不同降水处理之间的碳通量规律间的区别。回归方程用来模拟碳通量和土壤水分温度之间的关系。回归方程的显著性检验通过方差分析检验。
+
+# 2结果与分析
+
+2.1、生物土壤结皮覆盖土壤碳通量对模拟降水的响应
+
+2.1.1生物土壤结皮覆盖土壤净碳通量的动态变化
+
+降水量对生物土壤结皮覆盖土壤的NCF有极显著影响( $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ 。降雨前两种生物土壤结皮覆盖土壤的NCF分别是 $1 . 1 7 , 2 . 5 1 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 。降水后二者均表现出大量的碳释放,其NCF在短时间内到达峰值,然后随时间逐渐下降,在1h 左右重新上升,并在6h 时到达又一峰值后再次开始下降,呈现出先快后慢,先上升后下降的趋势（图1)。藓类结皮在 $2 4 \mathrm { h }$ 左右回到原始水平，而藻类结皮在12h左右基本回到原始水平。
+
+对于藓类结皮,五种处理下的 NCF 的最大值分别为 $0 . 3 3 \ { \scriptstyle \cdot 5 . 1 6 \ . 9 . 7 2 \ . 1 0 . 6 1 \ . 9 . 4 1 {  { \mu } } { \bmod { \mathrm { \ } } } { \mathrm { \ s } } ^ { - 1 } }$ ,即 ${ \mathrm { P } } _ { 5 } > { \mathrm { P } } _ { 2 } >$ （204号 $\mathrm { P _ { 1 0 } { > } P _ { 1 } { > } C K }$ 。藻类结皮覆盖土壤的NCF最大值分别为 $1 0 . 2 9 \ 、 2 . 6 1 \ 、 3 . 0 3 \ 、 4 . 4 0 \ 、 3 . 3 4 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 。NCF在两种结皮类型中差异显著( $\scriptstyle P < 0 . 0 1 { \dot { ) } }$ ),而4种降水处理与CK对比差异显著( $\scriptstyle \cdot < 0 . 0 1$ ),降水量之间对比不显著( $P { > } 0 . 0 1 \ \cdot$ ）(表2）。
+
+http://www.ecologica.cn
+
+![](images/377d2fc0cbbfc04ba2f1afaaf453f698dc95252971fd35c6057a1e465a3784ef.jpg)  
+图1生物土壤结皮覆盖土壤净碳通量对模拟降水的响应 Fig.1Response of net carbon flux in biological-soil crusted soil to simulated precipitation
+
+表2结皮类型和降雨量对土壤碳通量的影响  
+Table 2The effects of crusts and simulated precipitation on soil carbon flux   
+
+<html><body><table><tr><td rowspan="2">误差来源 Source of variance</td><td colspan="3">净碳通量NCF</td><td colspan="3">呼吸速率DR</td><td colspan="3">光合速率Pn</td></tr><tr><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td></tr><tr><td>结皮种类</td><td>1.000</td><td>1 42.285</td><td>0.000</td><td>1.000</td><td>51.393</td><td>0.000</td><td>1.000</td><td>0.946</td><td>0.333</td></tr><tr><td>Type of biological soil crusts 降水量 Precipitation</td><td>4.000</td><td>6.509</td><td>0.029</td><td>4.000</td><td>3.928</td><td>0.006</td><td>4.000</td><td>1.265</td><td>0.290</td></tr><tr><td>结皮种类×降水量</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>TypeXPrecipitation</td><td>4.000</td><td>2.139</td><td>0.044</td><td>4.000</td><td>0.329</td><td>0.858</td><td>4.000</td><td>0.940</td><td>0.940</td></tr></table></body></html>
+
+# 2.1.2生物土壤结皮覆盖土壤呼吸速率的动态变化
+
+降水量对生物土壤结皮覆盖土壤的 $D R$ 也有着显著影响( $_ { ( P < 0 . 0 1 ) }$ 。降雨前两种生物土壤结皮覆盖土壤的DR分别是 $1 . 1 6 , 0 . 7 9 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 。降水后两种生物土壤结皮覆盖土壤的 $D R$ 十分迅速的达到最高值,然后随时间逐渐下降。在峰值时藓类结皮 $D R$ 分别为 $0 . 9 5 \ , 3 . 6 6 \ , 4 . 7 8 \ , 5 . 2 5 \ , 8 . 9 3 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ,表现为 $\mathrm { P _ { 1 0 } { > } P _ { 5 } { > } P _ { 2 } { > } }$ $\mathrm { P _ { 1 } { > } C K , \mathrm { P _ { 1 0 } } }$ 显著高于其他处理， ${ \mathrm { P } } _ { 5 } \setminus { \mathrm { P } } _ { 2 }$ 和 ${ \mathrm { ~ P } } _ { 1 }$ 显著高于CK。藓类结皮的 $D R$ 在 $2 4 \mathrm { h }$ 后回到正常水平。
+
+藻类结皮覆盖土壤的 $D R$ 最大值分别为 $0 . 3 7 { \scriptstyle \mathrm { , 1 . 5 5 , 2 . 1 5 , 2 . 2 3 , 2 . 3 2 \mu m o l { \ m } ^ { - 2 } { \ s } ^ { - 1 } } }$ ,表现为 $\mathrm { P } _ { 5 } { > } \mathrm { P } _ { 1 0 } { > } \mathrm { P } _ { 2 } { > } \mathrm { P } _ { 1 }$ ，均显著高于CK,不同降水处理间有显著差异( $_ { ( P < 0 . 0 1 ) }$ 。对于藻结皮，除 $\mathrm { ~ P ~ } _ { 1 0 }$ 外其他降水处理均在 $2 4 \mathrm { h }$ 左右回到正常水平。两种结皮相对比，藓类结皮覆盖土壤的 $D R$ 受到模拟降水的影响较明显，且藓类结皮的 $D R$ 最大值高于藻类结皮。
+
+随着降水量的增大,两种结皮覆盖土壤的 $4 8 \mathrm { h }$ 内平均碳通量也随之增加,藓类结皮覆盖土壤的 NCF分别为 $1 . 4 2 , 2 . 6 6 , 2 . 8 0 , 3 . 0 1 , 2 . 8 7 \mathrm { { \mu m o l } \ m ^ { - 2 } \ s ^ { - 1 } , }$ $D R$ 分别为 $ { \uparrow 1 . 4 3 . 2 . 2 2 . 2 . 5 4 . 2 . 6 8 . 3 . 2 0  { \mu \mathrm { m o l } } \mathrm { m } ^ { - 2 } \mathrm { s } ^ { - 1 } }$ 。
+
+2.1.3生物土壤结皮光合速率的动态变化
+
+根据图4所示,降水后藓类结皮的 $\mathrm { ~ P ~ } _ { \mathrm { { n } } }$ 在降水后总体呈现出逐渐上升的趋势。初始值分别为-1.50、-4.94、$- 5 . 3 5 \ 、 - 0 . 4 7 \ 、 0 . 6 2 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ,在 2h 左右到达光合速率最大值,此时为 $0 . 2 6 \ 、 2 . 0 4 \ 、 1 . 5 0 \ 、 0 . 8 6 \ 、 0 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ，并在12h之后基本保持平稳。在整个测定过程中,藓类结皮的4种降水处理与对照之间差异显著( $P { < } 0 . 0 1 \ \mathrm { \ i }$ ，而每个降水量之间的差异不显著( $P { > } 0 . 0 1 \$ ）。
+
+![](images/39c93d46489bf7e01050da983d6b52cd58822cd3f96a9d868580cb1cf350d078.jpg)  
+图2生物土壤结皮覆盖土壤呼吸速率对模拟降水的响应
+
+![](images/c5e2311006ca4f67ec77f0f61103fe663f9beaa88a1f2129446b22a6fee04ece.jpg)  
+Fig.2Response of respiration rate in biological-soil crusted soil to simulated precipitation   
+图348h内平均碳通量和降水的关系  
+Fig.3The relationships between the average $\mathbf { C O } _ { 2 }$ flux and simulated rainfall amount over the first $\mathbf { 4 8 \ h }$ (AVR)
+
+藻类结皮 $\mathbf { P } _ { \mathrm { ~ n ~ } }$ 的变化趋势较之藓类表现的并不明显。藻类结皮在开始时分别为 $- 1 . 0 6 , - 0 . 8 8 , - 2 . 1 7 .$ $- 1 . 0 2 , 0 . 0 8 \mu \mathrm { m o l } \mathrm { ~ m } ^ { - 2 } \mathrm { ~ s } ^ { - 1 }$ ,其中 $\mathrm { ~ P ~ } _ { 1 0 }$ 随着时间其 $\boldsymbol { P } _ { n }$ 逐渐提高并在4h至6h左右到达最大值，并在降水后24h后恢复正常值。其他降水处理并没有表现出明显的光合速率增加趋势。藓类结皮光合速率表现出的最高值为藻类结皮的2.76倍,而藻类结皮的光合速率也比藓类结皮更早回到正常水平。
+
+![](images/5113cfa891688b449fe2b9e046770cd582376d959cfc80da0d101adb6c4a7011.jpg)  
+Fig.4Response of photosynthetic rate in biological-soil crusts to simulated precipitation
+
+2.2模拟降水对生物土壤结皮碳累积释放量的影响
+
+如图5所示，降水后，藓类结皮 $4 8 \mathrm { h }$ 内累计碳净释放量(有光条件下NCF累计量)随降雨量变化相对于CK 明显增加,分别为 $1 . 6 8 , 3 . 1 9 , 3 . 5 4 , 3 . 3 9 , 3 . 5 9 \mathrm { g C / m } ^ { 2 }$ 。表现为 $\mathrm { P } _ { 1 0 } > \mathrm { P } _ { 2 } > \mathrm { P } _ { 5 } > \mathrm { P } _ { 1 }$ ,各降水处理之间差异不显著 $( P { > } 0 . 0 1 )$ 。藻类结皮分别为 $0 . 3 7 \ 、 0 . 6 9 \ 、 0 . 6 9 \ 、 1 . 1 5 \ 、 0 . 8 8  { \mathrm { ~ g C / m ^ { 2 } } }$ 。各个降水处理之间差异不显著( $P { > } 0 . 0 1 )$ ，但是与CK之间差异显著( $P { < } 0 . 0 1 \rangle$ 。藓类结皮覆盖土壤净累积碳释放明显多于藻类结皮,分别为藻类结皮的
+
+![](images/ba4358d9463e8186a80bbe335fec7a2c7fa1ace4f429bbad8304303819580656.jpg)  
+图4光合速率对模拟降水的响应  
+图5模拟降水与累积碳释放量的关系  
+Fig.5The relationships between the total accumulated carbon relaease and simulated rainfall amount a $^ { , } \mathrm { b , c , d , e , f }$ 代表不同的显著性水平
+
+3.78、4.58、5.13、2.93、4.05倍。藓类呼吸累积碳释放量( $D R$ 累计量)同样随降雨量的增大而增大,分别为$1 . 6 8 , 3 . 2 0 , 3 . 5 4 , 3 . 4 0 , 3 . 5 9 \mathrm { g C / m } ^ { 2 }$ ,表现为 $\mathrm { P } _ { 5 } > \mathrm { P } _ { 1 0 } > \mathrm { P } _ { 2 } > \mathrm { P } _ { 1 }$ ,差异不显著（表3)。藻类呼吸累积释放量分别为$0 . 0 6 , 0 . 4 3 , 0 . 5 6 , 0 . 7 7 , 1 . 0 3 ~ \mathrm { g C / m ^ { 2 } }$ ,随着降雨量的增加而增加。
+
+2.3模拟降水后生物土壤结皮覆盖土壤碳通量和土壤水分、温度的关系
+
+为了分析土壤水分与碳通量的关系，使用对数方程分别对藓类结皮 ${ \mathrm { ~ P } } _ { 5 }$ 和藻结皮 $\mathrm { ~ P ~ } _ { 1 0 }$ 降水处理下的NCF与DR进行拟合。拟合方程分别为 $y = 0 . 4 8 5 \mathrm { l n } \left( \mathit { x } \right) \ + \ 3 . 1 8 8 5$ （藓类结皮覆盖土壤呼吸速率， $P < 0 . 0 1$ ),x=$2 . 2 2 2 6 \mathrm { l n } ( x ) + 6 . 7 7 2 8$ （藓类结皮覆盖土壤净碳通量， $P { < } 0 . 0 1 \ \cdot$ ）， $y = 3 3 . 2 2 5 \mathrm { l n } ( \mathit { x } ) \ + \ 3 6 . 6 8 4$ （藻类结皮覆盖土壤呼吸速率， $P { < } 0 . 0 1 \$ 以及 $y = 4 0 . 8 3 3 \mathrm { l n } ( x ) \ + \ 4 4 . 0 8$ （藻类结皮覆盖土壤净碳通量， $P { < } 0 . 0 1$ )。两种结皮覆盖土壤的NCF和 $D R$ 均表现出了随水分增大的趋势（图6,图7）。
+
+表3结皮类型和降水量对48h内累计碳释放的影响  
+Table 3The effects of crusts and simulated precipitation on carbon releases   
+
+<html><body><table><tr><td rowspan="2">误差来源 Source of variance</td><td colspan="3">净碳释放量(有光条件下) Carbon releases in light</td><td colspan="3">呼吸碳释放量(遮光条件下) Carbon releases in dark</td><td colspan="3">碳固定量 Carbon fixation</td></tr><tr><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td><td>df</td><td>F</td><td>P</td></tr><tr><td>结皮种类 Type of biological soil crusts</td><td>1.000</td><td>72.714</td><td>0.001</td><td>1.000</td><td>2.747</td><td>0.173</td><td>1.000</td><td>1445.647</td><td>0.000</td></tr><tr><td>降水量 Precipitation</td><td>4.000</td><td>2.874</td><td>0.166</td><td>4.000</td><td>0.342</td><td>0.838</td><td>4.000</td><td>8.265</td><td>0.058</td></tr><tr><td>结皮种类×降水量 TypexPrecipitation</td><td>4.000</td><td>3.432</td><td>0.025</td><td>4.000</td><td>0.700</td><td>0.598</td><td>1.000</td><td>56.650</td><td>0.012</td></tr></table></body></html>
+
+![](images/ec8fc6f5cb1af131e8505cd606cda5fbb10b154601f1daac384aa1aa8bf6c025.jpg)  
+图65mm降水处理下藓类结皮覆盖土壤净碳通量和呼吸速率 与土壤水分的关系 Fig.6The relationships between the NCF，DR and SVWC in moss-crusted soil under 5mm precipitation
+
+![](images/7d73ddb67432e93809be94d9c451196a35c3b246adce27029893179e0a2a07fb.jpg)  
+图710mm降水处理下藻类结皮覆盖土壤净碳通量和呼吸速率 与土壤水分的关系 Fig.7The relationships between the NCF，DR and SVWC in algea-crusted soil
+
+对藓类和藻类为主结皮覆盖土壤的 NCF和DR与土壤温度的相关分析表明,两类结皮覆盖土壤的 NCF和DR均与温度无明显的相关关系（图8,图9）。
+
+# 3讨论
+
+在沙漠中,土壤有效水分是决定植被种类,植物生理活性和其他相关生理过程的关键因素[13-14]。对于生物土壤结皮,水分能够直接影响其光合与呼吸作用。而土壤水分与降水直接相关,在干旱半干旱地区土壤中的水分绝大多数来自于降水。本研究表明降水会刺激藓类结皮和藻类结皮的碳释放，并且随着降水量的增加,碳释放量也有一定程度的增加,这与前人的研究一致[15-17]。
+
+研究中,生物土壤结皮覆盖土壤的净碳通量在模拟降水后迅速到达峰值然后下降,1h至2h 后再次上升，之后随着时间的推移逐渐下降至自然水平。对于这种现象,可能有以下几个原因。首先,降水前土壤水分处于干旱状态,土壤空隙较大,降雨后水分渗入土壤空隙将土壤空隙中的 $\mathrm { C O } _ { 2 }$ 排出,这就增加了土壤碳排放[18-19];其次,在干燥条件下土壤中可能累积一定的活性碳和呼吸底物,水分的增加可能影响了土壤微生物活性从而增加了土壤碳排放[20]。随着时间推移这一部分的碳排放会迅速减少,生物土壤结皮因为之前处于干燥状态而对水分的响应存在一定的延迟与滞后,在一段时间后才能增加呼吸速率和光合速率,所以在图中表现出了降水一段时间后碳通量的二次上升现象。两种结皮的净碳通量、呼吸速率、光合速率以及累积碳释放量在降水后均有明显的增加,但在数值上有较大差异,藓类结皮的净碳通量、呼吸速率和光合速率更高。这不仅是因为两种结皮自身存在着生理活性的差异,藓类结皮拥有着比藻类结皮更强的呼吸与光合能力,除此之外还存在其他影响因素。一方面,藓类结皮能够保持较长时间的水分有效性,因此能够在降水后长时间内保持湿润,减缓水分蒸发和下渗,保持自身活性。藻类结皮的保水持水能力较差,在降水事件,尤其是小降水事件后的 20h之内回到原始水平。另一方面,两种结皮覆盖土壤的性状也有所区别,藓类结皮覆盖土壤孔隙度较大,养分含量相对较高,而藻类结皮覆盖土壤的土壤稳定性较差、粘粒含量很少。两种结皮的覆盖对水分小循环的影响和对土壤性状的改变所表现出的差异也符合生物土壤结皮从藻类到藓类、从低级到高级的演替规律[21]。
+
+![](images/1d8621d0cf2857ee60ab8240022e47a0ceb9305c608036776487fe78f1563120.jpg)  
+图8土壤温度与藓类结皮覆盖土壤碳通量的关系 Fig.8The relationships between the $\mathbf { C O } _ { 2 }$ flux and the soil temperatures in moss-crusted soil
+
+![](images/df85b4b55ef9abd0b3059ed769b916efed5300bf26252b0814d26713260398b2.jpg)  
+图9土壤温度与藻类结皮覆盖土壤碳通量的关系 Fig.9The relationships between the CO, flux and the soil temperaturesin algea-crusted Soil
+
+虽然有研究认为生物土壤结皮能够通过光合作用固定大气中的 $\mathrm { C O } _ { 2 }$ ,是干旱半干旱区潜在的碳汇,但本次研究结果表明模拟降水后生物土壤结皮覆盖土壤扮演着碳源的角色。两种生物土壤结皮覆盖土壤在模拟降水后的净碳通量都表现为碳释放，这个过程中没有观测到生物土壤结皮的碳吸收,说明结皮覆盖土壤在模拟降水的刺激下始终保持着碳源效应。这与前人的研究具有相同之处[223]。这可能是由于生物土壤结皮的光合速率较低,不能抵消土壤呼吸所导致的。研究中发现藓类结皮的光合速率最大达到 $2 . 0 4 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ ，下降后基本在0至-1 $. 5 \mu \mathrm { m o l } \ \mathrm { m } ^ { - 2 } \ \mathrm { s } ^ { - 1 }$ 之间波动。藻类为优势种的结皮中光合速率通常为 $1 \mathrm { \mu m o l } \mathrm { \ m } ^ { - 2 } \mathrm { \ s } ^ { - 1 }$ 或更少[2426]。研究地区频繁的干旱胁迫导致生物土壤结皮经常保持在休眠状态,而在干旱休眠状态时的生物土壤结皮基本不具备光合能力。休眠中的生物土壤结皮在有了适当的水分时并不能立即完全表现出其光合生理活性,需要一定时间响应。所以这有可能是实验选择的小降雨量引起的生物土壤结皮光合速率尤其是藻类结皮覆盖土壤光合速率较低且变化不明显的原因。
+
+本研究中虽然根据自然降水情况设置了模拟降水,但是没有连续长时间的在自然条件下监测,同时也没有考虑某些特殊环境条件,例如冰雪融水、极端降水等,生物土壤结皮在干旱区碳循环中的功能以及碳循环中的碳源汇角色有待深入研究。
+
+# 4结论
+
+(1)降水对生物土壤结皮覆盖土壤的净碳通量和呼吸有极显著激发作用。两种生物土壤结皮覆盖土壤的净碳通量、呼吸、平均碳通量和累积碳释放均随着降水的增加而增加,各降水处理相比于对照差异显著。两种结皮覆盖土壤的光合速率在降水后也有增加的趋势,其中藓类结皮覆盖土壤的光合速率增加趋势较明显，各降水处理与对照差异显著。藻类结皮覆盖土壤的光合速率变化不明显，只有在高降水量处理下才有较明显的增加。
+
+(2)两种生物土壤结皮覆盖土壤在模拟降水后的净碳通量、呼吸和光合速率变化规律差异显著。藓类结皮覆盖土壤在模拟降水后的净碳通量、呼吸和光合速率的极值显著高于藻类结皮，同时藓类结皮覆盖土壤碳通量受降水激发的有效时间也高于藻类结皮覆盖土壤。两种生物土壤结皮覆盖土壤在模拟降水后48h 内的累积碳释放随着降水量的增加而增加,相对于对照差异显著,且藓类结皮覆盖土壤的48h 累计碳释放显著高于藻类结皮。
+
+(3)两种生物土壤结皮的净碳通量和呼吸速率与土壤水分有着较明显的相关性,表现出随土壤水分增大而增大的趋势，但与土壤温度没有明显的相关关系。
+
+# 参考文献（References）：
+
+[1]Su YG,Wu L, Zhou ZB,Liu YB,Zhang Y M.Carbon flux in deserts depends on soil cover type： study in the Gurbantunggute Desert,North China.Soil Biology and Biochemistry,2013,58：332-340.  
+[2]BelnapJ,LangeOL.Biological SoilCrusts：Structure,Function，and Management.Berlin：Springer-Verlag，2OOl:239-257.  
+[3]WassmannR,NeueHU,LantinRS,AdunaJB,AlbertoMCR,AndalesMJ,TanMJ,vander GonHACD,Hoffan H,Papen H,RennenbergH,SeilerW.TmporalpattensofmethaeemissiosfromwetlndricefieldstreatedbydiferentmodesofNapplicationJoualofGeophysical Research-Atmospheres，1994,991(D8）：16457-16462.  
+[4］李新荣，贾玉奎，龙利群，王新平，张景光.干旱半干旱地区土壤微生物结皮的生态学意义及若干研究进展.中国沙漠,2001,21（1)：4-11.  
+[5]GoteEEeaJusnDSaksrboegincallsoidedfretialpeauredlecontents:implications for global change. Global Change Biology，2010,16(10): 2763-2774.  
+[6] SchlesingerWkesJA,artlyAE,rossAFnespatialpaeoflutrientsiesertecossteEcolo97（）：364-374.  
+[7]Jasoni R L,Smith S D,Armone JA II. Net ecosystem $\mathrm { C O } _ { 2 }$ exchange in Mojave Desert shrub lands during the eighth year of exposure to elevatedCo $_ 2$ . Global Change Biology，2005，11（5）：749-756.  
+[8]Wohlfahrt G,Fenstermaker L F,Arnone JA III.Large annual net ecosystem $\mathrm { C O } _ { 2 }$ uptake of a Mojave Desert ecosystem. Global Change Biology,2008,14(7):1475-1487.  
+[ 9]XieJX, Li Y, Zhai C X,Li C H, Lan Z D. $\mathrm { C O } _ { 2 }$ absorption by alkaline soils and its implication to theglobal carbon cycle.Environmental Geology,2009,56(5): 953-961.  
+[10]José JJS,Bravo C $\mathrm { R . } \backslash \mathrm { C O } _ { 2 }$ exchange in soil algal crusts occuring in the trachypogon savannasof the Orinoco Llanos，Venezuela.Plant and Soil,1991,135(2) : 233-244.  
+[11］陈正宏.高寒草甸沙化过程中生物结皮藻类组成及分布的变化[D].兰州：兰州理工大学，2009.  
+[12］苏延桂，李新荣，陈应武，崔艳，鲁艳.温度和 $\mathrm { C O } _ { 2 }$ 浓度升高对荒漠藻结皮光合作用的影响.应用生态学报，2010，21（9)：2217-2222.  
+[13] Song W M, Chen SP,Wu B, Zhu YJ, Zhou Y D,Li $\mathrm { ~ Y ~ H ~ }$ ，Cao $\mathrm { ~ Y ~ L ~ }$ ,Lu Q,Lin G H. Vegetation cover and rain timing co-regulate the responsesof soil $\mathrm { C O } _ { 2 }$ efflux to rain increase inanarid desert ecosystem. Soil Biology and Biochemistry，2012,49：114-123.  
+14] Sponseller R A. Precipitation pulses and soil $\mathrm { C O } _ { 2 }$ flux in a Sonoran Desert ecosystem.Global Change Biology，2007,13(2）：426-436.  
+15 Housman DC,Grote EE,Belnap J.Annual $\mathrm { C O } _ { 2 }$ flux from a biological soil crust system on the Colorado Plateau：efects of increased temperatureand summer precipitation $/ /$ Ecological Society of America Annual Meeting Abstracts.2007.  
+[16]赵蓉，李小军，赵洋，杨昊天，陈栋.固沙植被区两类结皮斑块土壤呼吸对不同频率干湿交替的响应.生态学杂志，2015，34（1)：138- 144.  
+[17］赵洋，齐欣林，陈永乐，张志山，贾荣亮，胡宜刚，张鹏.极端降雨事件对不同类型生物土壤结皮覆盖土壤碳释放的影响.中国沙漠，2013，33(2):543-548.  
+[18] AndersonJM.Carbondoxideevolutionfromtwotemperate，dciduouswodlandsoils.JouralofAppliedcology，973,10（2）：6-78.  
+[19] Birch HF.Theeffectofsoil dryingon humus decompositionand nitrogen availability.Plantand Soil,，1958,1O(1）：9-31.
+
+http://www.ecologica.cn
+
+[20]Gordothdgegdisluipoidtcland Biochemistry，2008，40(2）：302-311.  
+[21]Zaady E,Kuhn U,Wilske B,Sandoval-Soto L,Kesselmeier J.Patterns of $\mathrm { C O } _ { 2 }$ Exchange inbiological soil crusts of successional age.Soil Biologyand Biochemistry，2000,32（7）：959-966.  
+[22] 吴林，苏延桂，张元明.模拟降水对古尔班通古特沙漠生物结皮表观土壤碳通量的影响.生态学报，2012，32（13）：4103-4113.  
+[23] 贾晓红，辜晨，吴波,李元寿,成龙,李新荣.干旱沙区生物土壤结皮覆盖土壤 $\mathrm { C O } _ { 2 }$ 通量对脉冲式降雨的响应.中国沙漠，2016（02）：423-432.  
+[24]LangeebHoisofoclsCfrddiutUrole of water content on light and temperature responses of $\mathrm { C O } _ { 2 }$ exchange.Functional Ecology，1998，12(2）：195-202.  
+25]BrostoffdeosotlstsoalldesdeMojave Desert，CA：field studies.Flora-Morphology，Distribution，Functional Ecologyof Plants,2005,20(6)：592-600.  
+[26]LiXR,ZoHangX,ZuYG,Ooreftsfndsablatiodrevegeatiooctogspesiesitdlfertility in the Tengger Desert，Northern China.Plant and Soil,20O3,251(2）：237-245. ?

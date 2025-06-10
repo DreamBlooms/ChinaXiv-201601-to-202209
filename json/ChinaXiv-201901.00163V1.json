@@ -1,0 +1,675 @@
+[
+    {
+        "type": "text",
+        "text": "基于ANN端元估计的高光谱图像解混算法",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "张衡1，贾志成1，陈雷2，郭艳菊1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(1．河北工业大学 电子信息工程学院，天津 300401;2.天津大学 精密仪器与光电子工程学院，天津 300072;3．天津商业大学 信息工程学院，天津 300134)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：针对高光谱图像解混问题进行研究，发现传统解混算法在保持端元数目不变的情况下，得到的解混精度不高。为此，基于人工神经网络（ANN）提出一种估计单像素点中端元数目和类别的解混算法。首先利用人工神经网络对遥感图像中各个像素的端元数目和类别进行估计，之后依据估计结果确定解混算法的目标函数，并引入改进的差分搜索算法对目标函数进行优化求解，最终获取地物丰度和待求参数，实现高光谱图像的解混。仿真数据和真实的遥感数据实验表明，与现有的解混算法相比，所提解混算法具有更高的解混性能，更加符合实际场景的情况。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：高光谱图像解混；ANN；端元估计；差分搜索算法 中图分类号：TP751 doi:10.19734/j.issn.1001-3695.2018.10.0777 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unmixing of hyperspectral images based on endmember estimation of artificial neural network ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhang Heng1, Jia Zhichengl, Chen Lei2,3,Guo Yanju1 (1.SchoolofElectronic InformationEngineeing,Hebei UniversityofTechnology,Tianjin301China;2.choolof PrecisionInstrument&Opto-ElectronicsEnginering,TianjinUniversity,Tianjinoo72,China;3.Schoolof Inforation Engineering,Tianjin University of Commerce,Tianjin 300134, China) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Aimed at the problems of hyperspectral unmixing,it was found that the unmixing accuracyof the traditional unmixing algorithm was not high when the number of endmember was kept constant in unmixing.Thus,based on the artificial neural network(ANN),this paper proposed anovelunmixingalgorithm ofestimating the number and categoryof endmember ina single pixel.Firstly,the unmixing algorithmusedtheartificial neural network to estimatethenumber and categoryofeach mixed pixel's endmember intheremote sensing image.Then,the objective function of thealgorithm was determined based on the estimation results,and the improved diferential search algorithm was introduced to solve the objective function.Finaly,the abundances andthe parameters areobtained torealize theunmixingofhyperspectralimages. The experimental results on simulated and real hyperspectral data demonstrate that compared with the existing unmixing algorithms,the proposed unmixing algorithm has higher performance and is more in line with the actual scene. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: hyperspectral images unmixing; ANN; endmember estimation; diffrential search algorithm ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0 引言",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "高光谱图像解混是指从观测的高光谱图像数据中分解得到地物的基本组成成分（称为端元）以及每种成分在各个像元中所占的比例（称为丰度)。由于受到空间分辨率以及地物复杂性的限制，高光谱遥感器获取的图像通常是由混合像元[1组成的。因此，如何从混合像元中提取端元和丰度成为国内外众多学者研究的核心问题[2]。近年来，一些学者通过建立数学模型来对混合像元的形成过程进行描述，将高光谱解混问题转换为对像元混合模型参数的优化问题，从而简化了遥感图像的解混过程，提高了解混的精度和效率，取得了一定的研究成果[3-5]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "由于对像元混合过程抽象程度的不同，常见的混合模型有线性混合模型（linearmixingmodel，LMM）[6]以及非线性混合模型（nonlinear mixingmodel，NLMM）[7]。其中，LMM假设一个光子只能代表一种地物，且地物之间没有相互作用就被遥感仪器接收成像，一般只适合线性混合的地物场景，而NLMM则考虑了地物之间在传递过程上的多层散射作用，可用于描述复杂的多线性混合的地物场景，更具有实际意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "但是现有的基于像元混合模型的算法无论是线性的还是非线性的，通常都假设在解混的过程中，端元数目是不变的，即各个像素点的端元数目都是相同的。而实际遥感图像在形成的过程中，图像中的大多数混合像元只是由整幅遥感图像端元的一种或几种组成，即某些混合像元并非所有的端元都参与了混合。因此，如果在解混的过程中，只选择相关的端元进行解混，则会相应的提高解混的精度。本文，首先对构建的人工神经网络（artificial neural network，ANN）[8]进行训练，之后利用训练好的网络在解混之前对每个像元的端元数目和类别进行估计，同时根据估计结果以及地物丰度约束项确定各个混合像元解混的目标函数，最后采用改进的差分搜索算法（differential searchalgorithm，DSA）[9]对目标函数进行优化求解，最终实现解混。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 高光谱图像混合模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1线性混合模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "LMM假设遥感图像中每个像素的观测值等于各端元的光谱特征按照对应的丰度进行的线性混合。其模型为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = M a + n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $y$ 为含有 $L$ 个波段和 $N$ 个像素的观测矩阵； $M$ 是光谱信号矩阵， $a$ 为丰度矩阵， $n$ 为白噪声。其中，由于丰度矢量$a$ 代表像素点中各端元所占的比例，其必须满足丰度非负(Abundance Nonnegative Constraint，ANC)和丰度和为一(Abundance Sum-to-oneConstraint，ASC)的约束条件[lo]，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\alpha _ { i } \\stackrel { \\triangledown } { = } 0 , \\sum _ { i = 1 } ^ { P } \\alpha _ { i } = 1\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2非线性混合模型",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "双线性混合模型[11]（bilinear mixture model，BMM）是近年来提出的可用于微观尺度上地物精确光谱分析的一类非线性模型，其更加符合高光谱图像混合的实际形成过程。典型的BMM主要包括Fan 模型[12]（fanmodel，FM)、GBM模型[13]（generalized bilinear model,GBM）、PPNMM 模型[14](polynomial post-nonlinear mixingmodel,PPNMM)等。其中，GBM是一个广义通用模型，该模型假设遥感仪器接收到的是经过多种地物依次反向散射的混合光谱信号，其定义如下：",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\pmb { y } = \\pmb { M \\alpha } + \\sum _ { i = 1 } ^ { R - 1 } \\sum _ { j = i + 1 } ^ { R } \\gamma _ { i j } \\alpha _ { i } \\alpha _ { j } \\pmb { m } _ { i } \\odot \\pmb { m } _ { j } + \\pmb { n }\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\gamma _ { i j }$ 为非线性系数，控制光谱之间的非线性效应的幅值。当 $0 { < } { \\gamma } _ { i j } { < } 1$ 时，GBM可以较好的诠释光谱信号的非线性作用；当 $\\gamma _ { i j } = 1$ 时，GBM就演变成Fan 模型；当 $\\gamma _ { i j } = 0$ 时，GBM就退化为LMM。而PPNMM是2012年由Altmann等人提出的一种双线性模型，其采用多项式级数来描述端元之间所提供的非线性作用，且考虑了对像元光谱具有重要贡献的端元自身的二次散射，其模型表达式为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\ny = M \\alpha + b \\left( M \\alpha \\right) \\odot \\left( M \\alpha \\right) + n\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $M$ 为光谱矩阵， $\\mathbf { \\Omega } _ { a }$ 为丰度矩阵。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "由于BMM忽略端元之间的三次及以上的高阶散射，在一些地形复杂的场景解混效果不太理想，因此，Heylen 等人在 2015 年提出了无穷阶非线性混合模型(multilinear mixingmodel,MLM)[15]，即",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { y } = ( 1 - p ) M \\pmb { a } +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - p ) p \\sum _ { i = 1 } ^ { R } \\sum _ { j = 1 } ^ { R } \\alpha _ { i } \\alpha _ { j } ( { \\pmb m } _ { i } \\odot { \\pmb m } _ { j } ) +\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n( 1 - p ) p ^ { 2 } { \\sum _ { i = 1 } ^ { R } \\sum _ { j = 1 } ^ { R } \\sum _ { k = 1 } ^ { R } } a _ { i } a _ { j } a _ { k } ( x _ { i } \\odot x _ { j } \\odot x _ { k } ) + \\cdots\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中：高阶散射系数 $p$ 使得MLM在BMM的基础上将混合模型扩展到无穷阶的非线性混合模型，MLM假设当光线照射到某一地物时，会以概率 $p$ 与它地物进行非线性作用，而以 $1 { - } p$ 的概率被遥感仪器接收，同时，当概率 $p { = } 0$ 时，MLM退化成LMM。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "基于像元混合模型的解混算法通常是在端元光谱已知的基础上，根据丰度约束以及误差最小化原则确立目标函数，进而将解混问题转换为对目标函数的最优化问题。因此，本文分别基于LMM、GBM、PPNMM、MLM，利用ANN对遥感图像各个像元参与模型混合的端元数目和类别进行估计，根据估计结果确定解混算法的目标函数，并采用收敛效果更好的群智能优化算法代替传统的梯度算法对目标函数进行求解，最终实现高光谱图像的解混。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 人工神经网络",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工神经网络是一种模仿人脑神经元的行为特征，进行分布式并行信息处理的数学模型，通过合理的改变系统中大量节点（神经元）之间相互连接的权重，从而达到对信息进行预测处理的目的，同时具有较高的容错性和自适应学习能力。近年来，人工神经网络的研究工作不断深入，已经取得了很大的进展，其在模式识别、医学、农业、图像等领域已成功地解决了许多现代计算机难以解决的实际问题，表现出了良好的智能特性[16-18]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "人工神经网络有多种模型结构，典型的有多层感知机（multilayer perceptron，MLP）[19] 模型、Hopfield 模型[20]、BAM双向联想记忆神经网络[2I等，其中，由于经典的多层感知机模型结构简单、计算量小、具有高度的非线性分类性能，本文基于MLP的算法理论，搭建人工神经网络，其结构如图1所示。整个网络由输入层、隐含层、输出层构成，并且用大量的节点将其连接起来，图中用圆圈代替节点（神经元)，每一个节点都代表一种激励函数，每两个节点之间都有一个通过该信号的权值，被称为权重。通过已知的输入、输出，不断的反向传播神经元的误差（Error）来更新前馈网络的权值参数矩阵，最终获取最优网络。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/faac4a13ef58d7d34c09bfb62a96f3de3a6ec18128c00d3940dbddb48c06b302.jpg",
+        "img_caption": [
+            "图1人工神经网络结构示意图",
+            "Fig.1Structural representation of artificial neural network "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 解混算法描述",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1ANN 端元估计 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文基于ANN对遥感图像各像素点的端元数目和类别进行估计，主要包括三个过程。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1）设置网络的拓扑结构",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文采用的ANN 输入层的节点数为高光谱图像的波段数；隐含层的节点数 $n$ 为",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nn { = } \\sqrt { N { + } M } { + } m\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 和 $M$ 分别为输入层和输出层的神经元个数； $\\mathbf { \\nabla } _ { m }$ 为1到8之间的整数；输出层节点的数目等于所有可能结果的总数，由整幅遥感图像中的端元数目决定，比如，一幅高光谱图像的最大端元数目为3，那么输出层的节点数output为$o u t p u t { = } C _ { 3 } ^ { 1 } + C _ { 3 } ^ { 2 } + C _ { 3 } ^ { 3 } { = } 7 .$ 其中，ANN的输出是包含 $\\{ + 1 , - 1 \\}$ 的向量，当 ANN估计端元结果是output 中的某一个时，其对应的向量值为 $\\{ + 1 \\}$ ，同时该像元估计输出结果的其他向量值为 $\\{ - 1 \\}$ 另外，ANN的隐含层和输出层的激活函数分别为Sigmoid 函数和双曲正切函数。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2）获取样本数据",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "在对ANN训练之前，需要准备样本数据，包括训练样本和测试样本。对于训练样本，本文首先随机设定符合条件的输出向量，然后根据每一个像元的端元输出情况，确定参与混合的相关端元，再由Dirichlet分布[22]产生丰度矩阵，分别基于不同的混合模型，添加白噪声进行混合，最终获得网络输入，即训练样本，同样的方法也可以获得测试样本。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）训练网络",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在训练阶段，本文采用反向传播算法[23]对网络进行学习训练，同时为了防止网络训练过程中出现过拟合的情况，以及提高网络的泛化能力，本文引入风险最小化的策略，即在原有经验风险的基础上添加正则化项作为网络的损失函数，其定义为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nI M S E = \\mu ( \\frac { 1 } { N } \\sum _ { i = 1 } ^ { \\nu } ( s _ { i } - y _ { i } ) ^ { 2 } ) + ( 1 - \\mu ) ( \\frac { 1 } { n } \\sum _ { i = 1 } ^ { \\nu } ( w _ { i } ) ^ { 2 } { \\big ) }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $N$ 为ANN输出层的节点数； $y _ { i }$ 和 $s _ { i }$ 分别为目标输出和实际的网络输出； $\\mu$ 是评价系数，其控制着向最优误差寻找的方向，可以加快寻优的速度； $n$ 为整个网络所有的参数的个数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2改进的差分搜索算法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "差分搜索算法是土耳其学者Civicioglu 根据生物体在迁徙过程中寻找有利生存区域（停歇地)，提出的一种群智能优化算法。文献[9]比较了DSA与其他优化算法在相同求解问题下的优化性能，并证明了其有效性。但是原始算法在种群搜索的过程中，由于搜索方向和搜索步长没有根据迭代次数的增加做相应的调整，以及当前个体和寻优个体之间没有进行实时的参数控制，导致算法进化后期收敛速度下降、局部收敛精度降低。为了平衡DSA的全局搜索能力和局部搜索能力，加快收敛速度，本文在生物种群的迁徙方程中添加了自适应平衡矩阵 $k$ ，使得种群在进化前期具有较好的全局收敛能力，同时在进化后期也有较高的局部收敛精度，其改进后的迁徙方程为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS t o p o v e r S i t e = k \\times P o s + R \\times m a p \\times ( d o n o r - P o s )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $k$ 是一个自适应平衡矩阵， $k = w ^ { * } m$ ,其中， $\\begin{array} { r } { w = I - O . O 5 * \\frac { e p k } { e p o c h } } \\end{array}$ ，epk为种群当前迭代次数，epoch为种群的最大迭代次数； $\\mathbf { \\nabla } _ { m }$ 是一个服从均值为1方差为0.3的均匀分布产生的一个大小为 $N { \\times } D$ 的随机矩阵。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "改进后的搜索方程， $w$ 会随着迭代次数的增加而进行自适应调整。在循环的初期， $w$ 的值较大，算法的全局搜索能力会被放大，随着迭代次数的增加， $w$ 的值会慢慢变小，算法的局部搜索能力会被变大。本文采用改进后的DSA作为目标函数的优化方法，通过将丰度值和待求参数映射为种群个体的位置变量，可以在少量的种群个体以及较少的迭代次数的情况下有效的实现解混。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.3 目标函数的确定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "针对基于模型的解混算法，都需要确定一个合适的目标函数，依据最优化理论将高光谱图像解混的实际问题转换为对目标函数的求解问题，从而得到端元的丰度值以及模型的待求参数。本文基于重构误差[24]（reconstruction error,RE)来构造优化问题的目标函数，如果丰度和模型的未知参数估计正确的话，那么高光谱成像仪得到的图像中单像素点的观测值 $y$ 与解混算法重构的该像素点高光谱图像矢量 $\\hat { \\textbf { y } }$ 将非常接近，于是，可确定解混算法的目标函数为",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nJ ( \\hat { a } , \\hat { \\gamma } ) = m i n \\| \\mathbf { y } - \\hat { \\mathbf { y } } \\| ^ { 2 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中： $\\hat { a }$ 和 $\\hat { \\gamma }$ 分别为待估计的单个像素点的丰度值和模型中的待求参数（LMM除外）。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.4解混算法步骤 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "在利用ANN获得每个混合像元的端元数目和类别以后，之后基于像元混合模型确定各个混合像元解混的目标函数，最后采用改进的DSA对目标函数进行优化求解，求得丰度向量，完成对遥感图像的解混。图2展示了本文所提整个解混",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "算法的示意图。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "解混算法的具体实现过程如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a)准备训练样本。首先利用HySime 算法[25]确定整幅遥感图像的最大端元数目，并用VCA算法[26提取端元光谱曲线，由此设定期望网络输出的每个像元所有的端元估计情况，同时采用Dirichlet分布产生丰度矩阵，根据网络输出结果以及像元混合模型添加一定信噪比的高斯白噪声合成训练样本",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "b)利用同样方法合成测试样本，设置并构建ANN网络，并对网络进行训练测试，最后保存符合条件(估计准确率 $9 5 \\%$ 以上）的网络。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "c)输入高光谱遥感图像，利用训练好的网络对遥感图像各个像元的端元数目和类别进行估计，获取单个像素点的估计结果。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "d)基于式（9）确定各个混合像元解混的目标函数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e)将目标函数中的丰度向量以及待求参数映射到改进的DSA中的位置向量，同时设定DSA的种群大小、维数、迭代次数、边界限制等参数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "f)初始化种群位置，得到初始丰度估计，根据像元混合模型得到重构的观测数据，并求得初始适应度值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "g)将种群按照式（8）进行搜索更新，并进行边界限制。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "h)根据DSA的贪婪选择机制，不断寻优，得到整个种群的全局最优值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "i)当达到迭代次数以后，输出当前最优值，完成单个像素点的解混，否则继续优化。",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2fb9a14b9e4ee991d5c28eb81e0a8d0dd596ec5f927815d2f4d904761dd45cca.jpg",
+        "img_caption": [
+            "图2解混算法示意图",
+            "Fig.2Schematic diagram of unmixing algorithm "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 实验结果与分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了验证本文所提出的基于ANN端元估计的高光谱图像解混算法的性能，接下来将分别使用仿真数据和真实的遥感数据进行实验。本文采用的解混性能评价指标有均方根误差[27]（root mean square error,RMSE）、重构 误差（Reconstruction Error,RE）、光谱角分布[28]（spectral anglemapper,SAM)。其中，重构误差和光谱角分布是从算法重构出的观测数据和实际高光谱数据之间的误差来评价算法的性能，而均方根误差用来评价真实丰度和算法估计的丰度之间的相似性。三种评价指标的定义如下：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1）RMSE ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR M S E = \\frac { 1 } { P } \\sum _ { i = 1 } ^ { P } \\sqrt { \\frac { 1 } { N } \\sum _ { j = 1 } ^ { N } ( \\alpha _ { i j } - s _ { i j } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $: a _ { i j }$ 和 $s _ { i j }$ 分别为高光谱图像第 $i$ 个端元在第 $j$ 个像素点的真实丰度和估计丰度； $P$ 和 $N$ 分别为高光谱图像的端元数目和像素数目。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2）RE ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR E = \\frac { 1 } { L } \\sum _ { i = 1 } ^ { L } \\sqrt { \\frac { 1 } { N } \\sum _ { j = 1 } ^ { N } ( y _ { \\psi } - \\hat { y } _ { \\psi } ) ^ { 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "其中 $\\cdot L$ 为高光谱图像的波段数目； ${ \\bf y } _ { \\psi }$ 和 $\\hat { y } _ { \\textsc { q } }$ 分别为高光谱图像的第 $i$ 个像素点的真实观测数据和重构数据。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3）SAM ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nS A M = \\frac { 1 } { N } \\sum _ { p = 1 } ^ { N } \\theta [ y ( p ) , \\hat { y } ( p ) ]\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中， $\\theta [ y ( p ) , \\hat { y } ( p ) ] { = } \\operatorname { a r c c o s } ( \\frac { \\langle y ( p ) , \\hat { y } ( p ) \\rangle } { \\| y ( p ) \\| \\| \\hat { y } ( p ) \\| } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1仿真实验 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "仿真实验的高光谱数据来自美国地质勘测局（USGS）提供的端元光谱库，库中的光谱曲线数据为224个波段。为了使实验更具有说服力，本文选择两个目标场景的图像进行解混：a）从光谱库随机选取了Actinolite,Almandine,Brucite这三种端元分别基于LMM、GBM、PPNMM、MLM4种混合模型来合成 $5 0 \\times 5 0$ 大小的高光谱图像，并在每幅图像混合的过程中依次添加信噪比（SNR）为40dB、30dB、20dB、10dB的白噪声，其中，混合过程中的丰度矩阵由Dirichlet分布产生，且满足ANC和ASC约束；b）从光谱库随机选取Almandine,Alunite,Olivine,Andradite,Gaylussite.这五种端元光谱按照第一种场景的混合方式进行合成。两种场景的端元光谱曲线图如图3、4所示。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cbb8950c7e399f10e72f199cdefd233a262917d1695606e4d8e930ac283437e1.jpg",
+        "img_caption": [
+            "图3目标场景1的端元光谱曲线图"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/77ce120531b3206e32ade2a9b64724d39b8c60b1927557c1fa08a29a70aaf009.jpg",
+        "img_caption": [
+            "Fig.3Endmember spectral of target scene 1 ",
+            "图4目标场景2的端元光谱曲线图Fig.4Endmember spectral of target scene 2"
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "为了验证基于ANN端元估计算法的有效性和抗噪性，本文分别基于LMM、GBM、PPNMM、MLM在同样的条件下使用改进的差分搜索算法进行优化求解，表1\\~6分别给出了两种目标场景下使用原始算法和本文算法在不同信噪比条件下的RMSE、RE、SAM值。为了避免随机性，所有实验结果均为独立进行10次以后所取的平均值。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5f2e12bde73c60e7709dbd701cf217f968b6f80554287436d58123aa1345e831.jpg",
+        "table_caption": [
+            "Table1Comparison of RMSE values of each algorithm in target scene "
+        ],
+        "table_footnote": [
+            "表2目标场景1下各算法的RE值比较"
+        ],
+        "table_body": "<html><body><table><tr><td>RMSE</td><td>SNR=40dB</td><td>SNR=30dB</td><td>SNR=20dB</td><td>SNR=10dB</td></tr><tr><td>LMM算法</td><td>0.3874</td><td>0.3945</td><td>0.3838</td><td>0.3598</td></tr><tr><td>本文算法</td><td>0.0042</td><td>0.0130</td><td>0.0141</td><td>0.0434</td></tr><tr><td>GBM算法</td><td>0.0221</td><td>0.0242</td><td>0.0374</td><td>0.0681</td></tr><tr><td>本文算法</td><td>0.0035</td><td>0.0095</td><td>0.0192</td><td>0.0181</td></tr><tr><td>PPNMM算法</td><td>0.0232</td><td>0.0376</td><td>0.0473</td><td>0.0842</td></tr><tr><td>本文算法</td><td>0.0019</td><td>0.0123</td><td>0.0182</td><td>0.0559</td></tr><tr><td>MLM算法</td><td>0.0182</td><td>0.0276</td><td>0.0477</td><td>0.0802</td></tr><tr><td>本文算法</td><td>0.0045</td><td>0.0112</td><td>0.0282</td><td>0.0359</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8aaad3de5f350d534e78b1c8452a82b9c28f132369f8ae5ff0d358789955e0d2.jpg",
+        "table_caption": [
+            "表1目标场景1下各算法的RMSE值比较"
+        ],
+        "table_footnote": [
+            "表3目标场景1下各算法的的SAM值比较"
+        ],
+        "table_body": "<html><body><table><tr><td>RE</td><td>SNR=40dB</td><td>SNR=30dB</td><td>SNR=20dB</td><td>SNR=10dB</td></tr><tr><td>LMM算法</td><td>0.0071</td><td>0.0223</td><td>0.0709</td><td>0.2226</td></tr><tr><td>本文算法</td><td>0.0060</td><td>0.0226</td><td>0.0632</td><td>0.2221</td></tr><tr><td>GBM算法</td><td>0.0109</td><td>0.0249</td><td>0.0756</td><td>0.2369</td></tr><tr><td>本文算法</td><td>0.0073</td><td>0.0178</td><td>0.0557</td><td>0.0639</td></tr><tr><td>PPNMM算法</td><td>0.0171</td><td>0.0264</td><td>0.0725</td><td>0.2237</td></tr><tr><td>本文算法</td><td>0.0054</td><td>0.0173</td><td>0.0533</td><td>0.1734</td></tr><tr><td>MLM算法</td><td>0.0167</td><td>0.0254</td><td>0.0525</td><td>0.1023</td></tr><tr><td>本文算法</td><td>0.0080</td><td>0.0121</td><td>0.0330</td><td>0.0821</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/171f4a941822b9ca61ec7a1700e426e5624c0fd1fc1598285f405a32cb05121e.jpg",
+        "table_caption": [
+            "Table 2Comparison ofRE values of each algorithm in target scene 1 "
+        ],
+        "table_footnote": [
+            "表4目标场景2下各算法的RMSE值比较"
+        ],
+        "table_body": "<html><body><table><tr><td>SAM</td><td>SNR=40dB</td><td>SNR=30dB</td><td>SNR=20dB</td><td>SNR=10dB</td></tr><tr><td>LMM算法</td><td>0.0100</td><td>0.0320</td><td>0.1002</td><td>0.3074</td></tr><tr><td>本文算法</td><td>0.0091</td><td>0.0316</td><td>0.0995</td><td>0.3063</td></tr><tr><td>GBM算法</td><td>0.0113</td><td>0.0323</td><td>0.1000</td><td>0.3069</td></tr><tr><td>本文算法</td><td>0.0061</td><td>0.0184</td><td>0.0006</td><td>0.0008</td></tr><tr><td>PPNMM算法</td><td>0.0254</td><td>0.0399</td><td>0.1042</td><td>0.3236</td></tr><tr><td>本文算法</td><td>0.0059</td><td>0.0192</td><td>0.0594</td><td>0.1867</td></tr><tr><td>MLM算法</td><td>0.0244</td><td>0.0300</td><td>0.0712</td><td>0.1896</td></tr><tr><td>本文算法</td><td>0.0062</td><td>0.0100</td><td>0.0470</td><td>0.0611</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/338a36226909bd990e7092bd3569ba3d6071e5cb59afedce3e70cbf5dea3dbca.jpg",
+        "table_caption": [
+            "Table 3Comparison of SAM values of each algorithm in target scene 1 "
+        ],
+        "table_footnote": [
+            "表5目标场景2下各算法的RE值比较"
+        ],
+        "table_body": "<html><body><table><tr><td>RMSE</td><td>SNR=40dB</td><td>SNR=30dB</td><td>SNR=20dB</td><td>SNR=10dB</td></tr><tr><td>LMM算法</td><td>0.4109</td><td>0.4447</td><td>0.4459</td><td>0.4447</td></tr><tr><td>本文算法</td><td>0.0263</td><td>0.0379</td><td>0.0544</td><td>0.0889</td></tr><tr><td>GBM算法</td><td>0.0541</td><td>0.0518</td><td>0.0542</td><td>0.0783</td></tr><tr><td>本文算法</td><td>0.0122</td><td>0.0243</td><td>0.0369</td><td>0.0651</td></tr><tr><td>PPNMM算法</td><td>0.3647</td><td>0.3654</td><td>0.3987</td><td>0.4077</td></tr><tr><td>本文算法</td><td>0.0232</td><td>0.0339</td><td>0.0500</td><td>0.0885</td></tr><tr><td>MLM算法</td><td>0.0789</td><td>0.0812</td><td>0.1032</td><td>0.1233</td></tr><tr><td>本文算法</td><td>0.0521</td><td>0.0623</td><td>0.0812</td><td>0.0911</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/58a28d21acefa4f8be62965d0be758e22a110afc4f4adcb0854ca32167a4b51a.jpg",
+        "table_caption": [
+            "Table 4 Comparison ofRMSE values of each algorithm in target scene 2 ",
+            "Table 5Comparison ofRE values of each algorithm in target scene 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>RE</td><td>SNR=40dB</td><td>SNR=30dB</td><td>SNR=20dB</td><td>SNR=10dB</td></tr><tr><td>LMM算法</td><td>0.0048</td><td>0.0154</td><td>0.0486</td><td>0.1543</td></tr><tr><td>本文算法</td><td>0.0081</td><td>0.0116</td><td>0.0330</td><td>0.1387</td></tr><tr><td>GBM算法</td><td>0.0165</td><td>0.0223</td><td>0.0532</td><td>0.1621</td></tr><tr><td>本文算法</td><td>0.0096</td><td>0.0328</td><td>0.0473</td><td>0.0240</td></tr><tr><td>PPNMM算法</td><td>0.0084</td><td>0.0165</td><td>0.0498</td><td>0.1535</td></tr><tr><td>本文算法</td><td>0.0062</td><td>0.0101</td><td>0.0347</td><td>0.1352</td></tr><tr><td>MLM算法</td><td>0.0091</td><td>0.0123</td><td>0.0331</td><td>0.0721</td></tr><tr><td>本文算法</td><td>0.0078</td><td>0.0091</td><td>0.0123</td><td>0.0334</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/079402b0429ccf0078851bc36fc7d90441c1537be4c58d2e9a98d64a6fc0b001.jpg",
+        "table_caption": [
+            "Table 6Comparison of SAM values of each algorithm in target scene 2 "
+        ],
+        "table_footnote": [
+            "由实验表格可以发现："
+        ],
+        "table_body": "<html><body><table><tr><td>SAM</td><td>SNR=40dB</td><td>SNR=30dB</td><td>SNR=20dB</td><td>SNR=10dB</td></tr><tr><td>LMM算法</td><td>0.0321</td><td>0.0321</td><td>0.1013</td><td>0.3110</td></tr><tr><td>本文算法</td><td>0.0210</td><td>0.0210</td><td>0.0845</td><td>0.2150</td></tr><tr><td>GBM算法</td><td>0.0376</td><td>0.0376</td><td>0.1032</td><td>0.3113</td></tr><tr><td>本文算法</td><td>0.0210</td><td>0.0210</td><td>0.0847</td><td>0.0317</td></tr><tr><td>PPNMM算法</td><td>0.0348</td><td>0.0348</td><td>0.1046</td><td>0.3143</td></tr><tr><td>本文算法</td><td>0.0227</td><td>0.0227</td><td>0.0769</td><td>0.2492</td></tr><tr><td>MLM算法</td><td>0.0224</td><td>0.0224</td><td>0.0490</td><td>0.0812</td></tr><tr><td>本文算法</td><td>0.0107</td><td>0.0107</td><td>0.0212</td><td>0.0512</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a)无论是目标场景1还是目标场景2，基于不同的像元混合模型，在相同的条件下，利用ANN 选择每个像素的相关端元进行解混的精度比解混过程中保持端元数目不变的算法精度更高。可以验证ANN端元估计的方法是有效的，而且结果是相对稳定的。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b)将表中不同SNR下的RMSE、RE、SAM值对比可以发现，所有解混算法的性能都会随着SNR的减小而逐渐变差，而且原有模型算法的实验结果比本文算法的结果下降的更加严重，可以发现，基于ANN 端元估计解混算法的抗噪声性能和鲁棒性均优于传统的解混算法。此外，在相同的实验条件下，GBM作为一个广义通用的解混模型具有最佳的解混性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "c)将两个目标场景的结果对比发现，当端元数目增加时，由于估计输出结果的增加以及ANN结构自身的局限性，本文解混算法的性能有所下降，但是总体上还是高于现有解混算法的效果。因此，本文提出的利用ANN估计端元的解混策略是有效的，同时本文所用ANN结构简单，在获取每个像元的端元数目和类别以后，可以实时减少模型参数，减小计算量，和传统的解混算法相比，具有更大的优越性。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2真实遥感数据实验",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "为了进一步验证本文所提的基于ANN 端元估计的高光谱图像解混算法的性能，选取由美国FloridaEnvironmentalResearchInstitute拍摄的Samson数据作为高光谱解混的测试对象，该数据中一共记录了156个波段，其波段范围为$4 0 1 { \\sim } 8 8 9 ~ \\mathrm { n m }$ ，光谱分辨率为 $3 . 1 3 ~ \\mathrm { n m }$ ，由于原始图像共有952$\\times 9 5 2$ 个像素点，图像较大，为了降低计算复杂度，通常选取如图5所示的 $9 5 \\times 9 5$ 子区域进行实验，该图像区域主要包含树木、岩石和水三种地物。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在本节中，为了更加直观地验证本文算法的性能，同时鉴于GBM具有广泛的适应性和较大的灵活性，既能详细地描述非线性混合的地物场景，也能涵盖线性混合场景，本文选定GBM作为所提解混算法的像元混合模型，并用实际的高光谱遥感图像数据进行验证。由于实际场景的先验信息缺失，本文首先使用VCA算法获取整幅遥感图像的所有端元的光谱曲线，之后基于GBM模型并添加白噪声随机合成训练样本来训练网络，并用符合条件的网络估计实际遥感图像各像素点的端元数目和类别，最终采用改进的差分搜索算法对目标函数进行优化求解，完成解混。表7给出了本文算法与LMM算法[29]、GBM算法[I3]、PPNMM算法[14]、MLM算法[15]的RE、SAM值，图6给出了几种算法的实际解混丰度图。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "根据实验结果以及对比实际的解混丰度图可以发现，本文基于ANN 端元估计的高光谱图像解混算法和现有主流的解混算法相比，具有更高的解混精度和更优的解混效果。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9eaafbc1099ada1544daaafbdb3ca8b82102d80fc4d0d7578a6a896cc6f4903c.jpg",
+        "img_caption": [
+            "图5Samson 三维立体彩色图Fig.5Samson 3D color map"
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4841baef0115bf556d324c2629d0aefa775c514d9a93564e2d6d4c833ef0c3c8.jpg",
+        "img_caption": [
+            "图6各种算法的解混丰度图",
+            "Fig.6Unmixing abundance maps of various algorithms "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f37622bd638a0b149cb44a850dbf23c427f457e2df5b98783d4a7a21965e112f.jpg",
+        "table_caption": [
+            "表6目标场景2下各算法的SAM值比较",
+            "表7不同解混算法的结果比较",
+            "Table7Comparison of results of different unmixing algorithms "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>比较算法</td><td>RE</td><td>SAM</td></tr><tr><td>LMM算法</td><td>0.0990</td><td>0.1723</td></tr><tr><td>GBM算法</td><td>0.0754</td><td>0.1547</td></tr><tr><td>PPNMM算法</td><td>0.0670</td><td>0.1561</td></tr><tr><td>MLM算法</td><td>0.0660</td><td>0.1449</td></tr><tr><td>本文算法</td><td>0.0321</td><td>0.0702</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5 结束语",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "本文提出一种基于ANN 端元估计的高光谱图像解混算法，首先利用ANN对遥感图像各个像元的端元数目和类别进行估计，之后根据估计结果确定目标函数将解混问题转换为目标函数优化问题，同时利用改进的差分搜索算法对目标函数进行优化求解，最终实现图像解混。仿真实验和真实的遥感数据实验表明，本文所提解混算法不仅提高了解混精度，而且克服了梯度求解算法的局限性，最终改善了解混算法的效果。同时，本文选取的ANN结构简单，对于地物种类数目较多的场景，解混算法的性能有所下降，在今后的研究中，可采用更加复杂的网络模型比如卷积神经网络（ConvolutionalNeuralNetwork，CNN）[3o]、深度置信网络(Deep BeliefNetwork，DBN)[31]等，进一步提高解混算法的性能。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Kowkabi F,Ghassemian H, Keshavarz A. Incorporation of spatial and spectral contents in mixed-pixel decomposition of hyperspectral images [Cl// Proc of Iranian Conference on Electrical Engineering.Piscataway, NJ: IEEE Press,2017: 1851-1856..   \n[2]Bioucas-Dias JM,Plaza A, Camps-Valls G,et al.Hyperspectral remote sensing data analysis and future challenges [J]. IEEE Geoscience and Remote Sensing Magazine,2013,1(2): 6-36.   \n[3]张立毅，刘静光，陈雷，等．基于差分搜索的高光谱图像解混算法 [J]．计算机应用研究，2016,33（10):3177-3180.(Zhang Liyi,Liu Jingguang,Chen Lei,et al.Hyperspectral image unmixing algorithm based on differential search [J].Computer application research,2016, 33 (10): 3177-3180.)   \n[4]Chen Jie,Cedric Richard,Paul Honeine,et al. Nonlinear unmixing of hyperspectral data based on a linear-mixture/onlinear-fluctuation model[J].IEEE Trans on Signal Processing,2013,61(2): 480-492.   \n[5]Altmann Y,Dobigeon N,Tourneret JY. Bilinear models for nonlinear unmixing of hyperspectral images [C]// Proc of the 3rd Workshop on Hyperspectral Image and Signal Processing:Evolution in Remote Sensing. Piscataway, NJ: IEEE Press,2011: 1-4.   \n[6]Thouvenin P A,Dobigeon N,Tourneret JY. Hyperspectral unmixing with spectral variability using a perturbed linear mixing model [J]. IEEE Trans on Signal Processing,2015,64 (2): 525-538.   \n[7]Dobigeon N,Tourneret J,Richard C,et al. Nonlinear unmixing of hyperspectral images:modelsand algorithms [J]. IEEE Signal Processing Magazine,2013,31 (1): 82-94.   \n[8] Ahmed A,Duran O, Zweiri Y,et al. Hybrid spectral unmixing: using artificial neural networks for linear//non-linear switching [J].Remote Sensing,2017,9(8): 775.   \n[9]Civicioglu P. Transforming geocentric cartesian coordinates to geodetic coordinates by using differential search algorithm [J]. Computers & Geosciences,2012,46 (3): 229-247.   \n[10] Han Zhongzhi,Wan Jianhua, Zhang Jie,et al.Abundance quantification by independent component analysis of hyperspectral imagery for oil spill coverage calculation[J]. Chinese Journal of Oceanology and Limnology,2017,35 (4): 1-9.   \n[11] Qu Q,Nasrabadi N M,Tran T D.Abundance estimation for bilinear mixture models via joint sparse and low-rank representation [J]. IEEE Trans on Geoscience & Remote Sensing,2014,52 (7): 4404-4423.   \n[12] Fan W Y,Hu B X,Miller J,et al.Comparative study between a new nonlinear model and common linear model for analysing laboratory simulated-forest hyperspectral data [J]. International Journal of Remote Sensing,2009,30 (11): 2951-2962.   \n[13] Halimi A,Altmann Y,Dobigeon N,et al. Unmixing hyperspectral images using the generalized bilinear model [Cl// Proc of Geoscience and Remote Sensing Symposium. Piscataway,NJ: IEEE Press,2011: 1886-1889.   \n[14] Altmann Y, Halimi A,Dobigeon N,et al. Supervised nonlinear spectral linmixing nsing nnstnonlinear miving model fnr hvnercnectral   \n[15] Heylen R, Scheunders P.A multilinear mixing model for nonlinear spectral unmixing[J]. IEEE Trans on Geoscience & Remote Sensing, 2016,54 (1): 240-251.   \n[16]绳慧峰，刘晴，许苹，等．人工神经网络在医疗风险预测中的应用研 究[J].中国卫生质量管理,2017,24(4):15-17.(Sheng Huifeng,Liu Qing,Xu Ping,et al.Application of artificial neural network in medical risk prediction [J].China Health Quality Management,2017,24(4): 15-17.)   \n[17] Francik S,Slipek Z,Fraczek J,et al. Present trends in research on application of artificial neural networks in agricultural engineering [J]. Agricultural Engineering,2017,20 (4).   \n[18] Niazian M, Sadat-Noori S A,Abdipour M,et al. Image processing and artificial neural network-based models to measure and predict physical properties of embryogenic callus and number of somatic embryos in ajowan (trachyspermum ammi, (L.）sprague)[J]. In Vitro Cellular & Developmental Biology-Plant,2018,54 (1): 54-68.   \n[19] Amato F,Mazzocca N,Moscato F,et al. Multilayer perceptron:an intelligent model for classification and intrusion detection [C]// Proc of International Conference on Advanced Information Networking and Applications Workshops.New York: IEEE Press,2017: 686-691.   \n[20] Li Jing,Li Xiaorun,Huang Bormin,et al.Hopfield neural network approach for supervised nonlinear spectral unmixing [J].IEEE Geoscience & Remote Sensing Letters,2017,13(7): 1002-1006.   \n[21] Nejadgholi I, Seyyedsalehi S A, Chartier S.A brain-inspired method of facial expressiongeneration using chaoticfeatureextracting bidirectional associative memory [J]. Neural Processing Letters,2017 (6): 1-18.   \n[22] Nascimento JMP, Bioucas-Dias JM. Hyperspectral unmixing based on mixtures of dirichlet components [J]. IEEE Trans on Geoscience & Remote Sensing,2012,50 (3): 863-878.   \n[23] Hassanin MF,Shoeb A M,Hassanien AE.Grey wolf optimizer-based back-propagation neural network algorithm [C]// Proc of Computer Engineering Conference.New York: IEEE Press,2017:213-218.   \n[24] Xu Mingming,Zhang Liangpei,Du Bo,et al．An image-based endmember bundle extraction algorithm using reconstruction error for hyperspectral imagery [J]. Neurocomputing,2016,173: 397-405.   \n[25] Gonzalez C,Lopez S,Mozos D,et al. FPGA implementation of the hySime algorithm for the determination of the number of endmembers in hyperspectral data [J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing,2015,8(6): 2870-2883.   \n[26] Nie Mingyu,Liu Zhi,He Xiaofu,et al. End-member extraction based on segmented vertex component analysis in hyperspectral images [J]. Applied Optics,2017,56 (9): 2476.   \n[27] Liu Rong, Zhang Liangpei,Du Bo.A novel endmember extraction method for hyperspectral imagery based on quantum-behaved particle swarm optimization [J]. IEEE Journal of Selected Topics in Applied Earth Observations & Remote Sensing,2017,10 (4): 1610-1631.   \n[28] Wiliams M,ParodyR,FafardA,et al. Validationof abundance map reference data for spectral unmixing [J]. Remote Sensing,2017, 9 (5): 473.   \n[29] Wang Liguo, Liu Danfeng, Wang Qunming. Geometric method of fully constrained least squares linear spectral mixture analysis [J]. IEEE Trans on Geoscience & Remote Sensing,2013,51(6): 3558-3566.   \n[30] Chen Yushi, Jiang Hanlu,Li Chunyang,et al.Deep feature extraction and classification of hvperspectral images based on convolutional ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "neural networks [J].IEEE Trans on Geoscience & Remote Sensing, 2016,54(10): 6232-6251. [31] Chen Yushi, Zhao Xing,Jia Xiuping. Spectral-spatial classification of hyperspectral data based on deep belief network [J].IEEE Journal of Selected Topics in Applied Earth Observations&Remote Sensing,2015, 8 (6): 2381-2392. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    }
+]

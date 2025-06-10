@@ -1,0 +1,388 @@
+[
+    {
+        "type": "text",
+        "text": "Effect of Heat Loss on Laminar Flamelet Species Concentration ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Marco Boccanera, Diego Lentini ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dipartimentodi Ingegneria Meccanicae Aerospaziale,Sapienza Universitadi Roma,Via Eudossiana 18,O184Rome, Italy ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effcts of heat losson the structure of laminar flamelets,which are the constitutive elements ofturbulent flames under the most common operating conditions,are investigated for typical aeronautical gas-turbine operatingconditions at take-off.The magnitude of heat loss is quantified viathe“enthalpy defect”measured with respect to an adiabatic flame.A procedure to generate laminar flamelets with an assigned enthalpy defect at the boundaries is devised and applied to nonpremixed propane/air flames,aspropane reproduces the essential features of higher hydrocarboncombustion.It is found,contrary to commonlyheldbeliefs，thattheenthalpydefect has a significant efect on the concentration not only of minor species,but also of main reaction products.Such effects are found in general to be more pronounced for fuel-rich conditions.An impact is anticipated on the formation rate of nitric oxides.The effects ofscalar dissipation rate are also discussed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Turbulent Combustion,Heat Transfer,Laminar Flamelets,Hydrocarbon Combustion,Aeroengines, Gas Turbines ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Models for turbulent combustion in industrial applications lean heavily on the “laminar flamelet” approach [1-5]which,under suitable assumptions which are found to hold in most cases,reduces the value of any state quantity $\\varphi$ (e.g.，density, temperature，concentrations, etc.） in a laminar flame to a function of a single quantity, the conserved scalar (or mixture fraction) $Z$ ，with the meaning both of a suitably scaled elemental mass frac tion (ora linear combination of the mass fractions of the different elements） and,under the assumption of equal diffusivities, of a scaled enthalpy: ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi = \\varphi \\left( Z \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In turbulent flows, the mean value of the state quantity under consideration can be recovered by introducing an appropriately defined probability density function (pdf) of the conserved scalar, and then convoluting Eq.(1) with this pdf.Higher scalar moments,such as variances, can also be obtained in a similar way. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The model can be extended to account for finite-rate chemistry (albeit limited to relatively small departures from equilibrium) by introducing a second fundamental state quantity, the scalar dissipation rate conditioned at the flame front (e.g.,at stoichiometric,or at the location of peak temperature, or peak heat release), denoted as $\\chi _ { c }$ In this approach, termed “stretched laminar flamelet\" [6-9],any state quantity can accordingly be expressed as a function of these two quantities: ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi ~ = ~ \\varphi ~ ( Z , ~ \\chi _ { c } )\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "and evaluation of mean values in turbulent flows requires the introduction of a joint pdf of $Z$ and $\\chi _ { c }$ ，which is still manageable.The functions(2) are evaluated by dedicated codes handling complex chemical kinetics and detailed transport for counterflowing jets of fuel and oxidizer,which allow (once an appropriate definition of the conserved scalar is put forth) to recover all state quantities as a function of $Z .$ The conditioned scalar dissipation rate $\\chi _ { c }$ acts as a parameter (specified indirectly by assigning the velocity of the two counterflowing jets), which must be varied from near-zero (equilibrium) to the quenching limit $\\chi _ { q }$ .For $\\chi _ { c } > \\chi _ { q } ,$ the flamelet is extinguished, and state quantities do not depend any longer on $\\chi _ { c }$ ： ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In high-temperature combustion, heat loss effects (by radiation in particular) have a direct bearing on state relationships；in such circumstances,a third fundamental state quantity is required to define state functions in la minar flamelets (incidentally, $Z$ no longer represents enthalpy in this case).The radiant fraction (fraction of combustion-generated heat lost by radiation） is sometimes used [1O]；laminar flamelet profiles for the nonadiabatic case at hand are then derived by ad hoc adjustments of the corresponding adiabatic profiles (e.g., see [11]).A more rigorous approach [12] involves introducing the enthalpy defect (difference between the enthalpy of two flamelets,one adiabatic, the other undergoing heat transfer, for the same value of $Z$ ).Non-adiabatic flame lets can be calculated by enforcing appropriate boundary conditions (see next Section),and lead to the form ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\varphi = \\varphi ~ ( Z , ~ \\chi _ { c } , ~ \\zeta )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "which requires a three-variable pdf for evaluating mean values in turbulent flames.Adopting the threevariable approach accordingly necessitates a very extensive flamelet “library”,with both $\\chi _ { c }$ and $\\zeta \\mathrm { a s }$ a parameter. We refer to the whole of the flamelets with a given enthalpy defect as to a“shelf',and in particular, for $\\zeta = 0$ as to the “adiabatic shelf'. In order to get an accurate solution,each shelf may require from 10 to 2O flamelets (with different values of $\\chi _ { c , \\ - }$ ，andinhighly radiating flames, as many as 15 shelves are used[13,14].This means that, on the whole,computation of quite a few hundred flamelets is required.Although the computation isperformed off-line,this involves a substantial amount of computational work. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This is most often avoided in models of current usage by invoking independence of species concentration on the enthalpy defect (or, somewhat equivalently,on the radiant fraction),and consequently assuming that heat transfer affects only temperature (and density). This assumption is generally thought to be well verified for major species,but in a study [15] concerning a syngas/air flame (syngas is a mixture of $40 \\%$ CO, $30 \\%$ $\\mathrm { H } _ { 2 }$ $30 \\%$ （204号 $\\Nu _ { 2 }$ in volume),the authors find that concentration of some minor species is significantly affected by the enthalpy defect (despite the fact that relatively limited enthalpy defects, down to $- 8 0 \\mathrm { k J / k g }$ only,are considered there). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moving on these grounds,a more ambitious investigation is carried out in the present paper, aimed at generating a flamelet library to be used to model gas-turbine combustion at typical take-off conditions.In this case,air is preheated to a high temperature in the compressor, while the fuel is liquid kerosene.However,owing to the high air temperature,fuel burns effectively very much like a vapour [16] (at least at full power operation), then phase transition effects can be neglected.Further,higher hydrocarbon chemistry is extremely complex,and a universally accepted reaction mechanism does not exist Nonetheless,it is well known that propane closely re produces the main features of higher hydrocarbon combustion,and kerosene in particular [17]. Accordingly, fuel is modelled as propane in this study,and typical gasturbine inlet conditions at take-off $( T _ { a i r } = 8 5 2 \\mathrm { ~ K ~ } _ { ☉ }$ $p =$ $2 . 9 8 5 ~ \\mathrm { M P a } ,$ ）are considered. The main focus of the present paper is on results concerning flamelets subjected to low strain (corresponding to a scalar dissipation rate $\\chi _ { c } \\sim$ $0 . 4 ~ \\mathrm { s } ^ { - 1 } ,$ ,but some results are also reported relative to a more extensive investigation concerning flamelets with strain rates up to extinction, though limited to the adiabatic shelf for the sake of conciseness. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the next Section, the computational procedure is concisely outlined,whereas results are reported in the subsequent Section. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ComputationalProcedure ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Flamelets are computed by means of the OPPDIF code [18],with detailed transport properties and thermal diffusion included. The reaction mechanism is taken after Peters and Rogg [19], including 34 species (up to $\\mathrm { C } _ { 3 ^ { - } }$ ） and 87 reversible reactions. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inorder to account for heat transfer,the flamelet libraryis organized in“shelves\".The“adiabatic” shelf is computed by enforcing temperature boundary conditions corresponding to the nominal temperatures of oxidizer and fuel ( $\\left( T _ { a i r } = 8 5 2 \\mathrm { ~ K ~ } \\right.$ ， $T _ { f u e l } = 3 0 0 ~ \\mathrm { K } )$ ，at the respective sides.In order to account for heat losses,nonadiabatic shelves are introduced,with lower boundary temperatureswith respect to the adiabatic reference shelf.If the assumption of unity Lewis numbers for all species is retained,it is possible to compute a shelf with a uniform enthalpy defect by merely assigning appropriate boundarytemperatures.However,when differentialdiffusion is introduced, assigning appropriate temperatures at the extremes does no longer allow a uniform enthalpy defect across the flamelet. In the following we therefore adopt the enthalpy defect at the boundaries (oxidizer and fuel side), denoted as $\\zeta _ { b }$ ,as the parameter to quantify the effect of heat losses,with the understanding however that the enthalpydefect $\\zeta$ across the flamelet will not be uniform at the value $\\zeta _ { b }$ (see also Fig.1 below). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assume that shelf denoted by index $m$ (i.e.,with a specified value of $\\boldsymbol { \\mathcal { O } }$ has already been computed,and that another shelf $m { + } l$ is going to be computed, featuring an additional enthalpy defect $\\varDelta \\zeta$ (negative） with respect to the former. The boundary conditions (temperature and species concentration) at the oxidizer and fuel sides must be derived accordingly. An immediate way to enforce the requested enthalpy defect at the extremes is to lower the corresponding temperatures,so that the oxidizer and fuel enthalpies exhibit the requested defect $5 ^ { + } 4 \\zeta$ with respect to the adiabatic shelf. This procedure however is limited to small enthalpy defects,because as the temperature is reduced below ambient the gases soon condense,or anyway lose their perfect-gas behaviour. An alternative, more general procedure is therefore required. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To this end, we observe that, for a given value of the conserved scalar $Z _ { i }$ ，the temperature drops rapidly as the enthalpy is reduced,while the species concentrations experience only relatively minor changes close to the oxidizer and fuel sides (while significant differences may arisecloser to stoichiometric).With this in mind, the following procedure is suggested. The mixture enthalpy is related to temperature and composition as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nh \\ = \\ \\varSigma _ { i } Y _ { i } h _ { i } \\left( T \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If the composition of the mixture of $N$ species is known,and the enthalpy is assigned, this can be easily inverted to recover the corresponding temperature ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT = T ( h , \\ Y _ { 1 } , \\ Y _ { 2 } , \\ . . . , \\ Y _ { N } )\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Points of shelf $m$ close to the boundaries can be processed after Eq. (5)，with enthalpy assigned as the relevant enthalpy of shelf $m$ ，diminished by $\\varDelta \\zeta ,$ and with fixed composition. The first point, moving away from the boundary, for which the resulting temperature turns out to be equal or greater than a prescribed temperature $T ^ { * }$ e.g.,the ambient temperature (incidentally,different $\\boldsymbol { T } ^ { * \\prime } \\boldsymbol { \\mathbf { s } }$ might be assigned at the two sides, if required),is chosen to enforce the boundary condition for shelf $m { + } l$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When detailed transport properties are introduced, further problems arise in the definition of the flamelet library. While dedicated computational codes compute flamelets in physical space,these must be converted in conserved scalar space in order to be used by turbulent combustion models.Unfortunately, the definition of conserved scalar is ambiguous in the presence of differential diffusion.The problem is tackled in the literature by introducing heuristic definitions of the conserved scalar, aimed at obtaining a monotonic trend of the conserved scalar $Z$ vs. the physical coordinate $x$ .In the present study $Z$ is defined in terms of a scaled mass fraction of element nitrogen, $Z _ { N }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $Z _ { N , a i r }$ and $Z _ { N , f u e l }$ denote the nitrogen elemental mass fractions in the oxidizer and fuel stream,respectively (the latter being zero in the present case). This is found to produce the desired monotonic behavior. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The procedure described above to assign the enthalpy defect for the shelf under consideration ensures that the flamelet features the required enthalpy defect at the boundaries,i.e.,at the oxidizer and fuel sides. However, due to the effect of differential diffusion,the enthalpy defect will not be uniform across the flamelet thickness, as indicated in Fig.1.It is in principle possible to compute the properties of a‘pseudo-flamelet’with uniform enthalpy defect by interpolating between adjacent shelves; this would make the application to turbulent combustion models straightforward.The discretization error inherent in the interpolation procedure can be reduced to an arbitrarily small proportion by adopting a suitably small $\\varDelta \\zeta$ between adiacent shelves.The interpolation procedure is important in applications to turbulent flames,but represents anyway a sort of higher-order correction to the flamelet profiles.Accordingly, itis not considered in the following comments,mainly focused at emphasizing that there is an effect of the enthalpy level on species concentrations.The range of enthalpy defects at the boundaries, $\\zeta _ { b }$ ,considered in this test case is O (adiabatic), $- 5 0 \\mathrm { k J / k g } ,$ （2 $- 1 0 0 \\mathrm { k J / k g }$ ， $- 1 5 0 \\mathrm { k J / k g }$ and $- 2 0 0 \\mathrm { k J / k g }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b63f73fc7cdaf3f7ea13b3ea4e496dcc3e8333bc0b42e2d13cab819805b76d4.jpg",
+        "img_caption": [
+            "Fig.1Enthalpy defect, temperature,density: solid line $\\zeta _ { b } = 0$ long-dashed line $\\zeta _ { b } = - 5 0 \\ \\mathrm { k J / k g }$ ，short-dashed line $\\zeta _ { b } =$ $- 1 0 0 ~ \\mathrm { k J / k g }$ ，dash-dotted line $\\zeta _ { b } = - 1 5 0 \\ \\mathrm { k J / k g }$ dashdouble dotted line $\\zeta _ { b } { = } ~ { - 2 0 0 \\mathrm { k J / k g } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Incidentally,even larger enthalpy defects may take place in furnaces,thereby further stressing the need to correctly account for the effects under consideration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In analyzing the results below, it must be borne in mind that stoichiometric conditions for propane/air combustion corresponds to the value $Z _ { s t } = 0 . 0 7$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 also shows the effect of the enthalpy defect on temperature profiles,as well as the ensuing effect on density (although the latter is also affected by the mixture molecular weight, varying with composition). Temperature is of course reduced when increasingly negative enthalpy defects are considered, with the effect being more apparent at the fuel boundary. For instance,the peak temperature of the adiabatic flamelet is $2 5 6 2 \\mathrm { ~ K ~ }$ ，which is reduced to 2464for $\\zeta _ { b } = - 2 0 0 \\mathrm { k J / k g }$ .It is also noted that the range of $Z$ spanned by the different curves is reduced with increasingly negative $\\zeta _ { b } , \\mathbf { s } .$ ，asa result of the procedure described in the previous Section to avoid unrealistically low temperatures at the boundaries.The high numerical values for the density are due to the high pressure conditions under consideration. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 reports the concentration of major chemical species,in terms of mass fractions.In particular, the enthalpy defect is seen to have a major impact on molecular hydrogen $\\mathrm { H } _ { 2 }$ . While its peak concentration is nearly unaffected, flames with highly negative enthalpy defects feature a major increase of $\\mathrm { H } _ { 2 }$ concentration near the fuel side，with the appearance of a secondary peak which eventually becomes even higher than the one of the adiabatic flamelet. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Molecular oxygen $\\mathrm { O } _ { 2 }$ concentration is seen to increase with increasingly negative enthalpy defects,indicating that combustion is less complete.For instance,if we focus on $\\mathrm { O } _ { 2 }$ concentration at $\\scriptstyle { Z = 0 . 0 2 }$ ,it is found that for $\\zeta _ { b }$ $= - 2 0 0 ~ \\mathrm { k J / k g }$ this is increased by $13 \\%$ relative to the adiabatic flamelet.No $\\mathbf { O } _ { 2 }$ is found beyond stoichiometric (but this is no longer the case for higher $\\chi _ { c } \\mathbf { s }$ ，see Fig. 4 below). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Concentration of propane $\\mathrm { C } _ { 3 } \\mathrm { H } _ { 8 }$ is somewhat affected by the enthalpy defect, even though the effect is not apparent due to the fact that the ordinate scale spans the full range zero to unity. Notice that no overlap is seen between $\\mathbf { O } _ { 2 }$ and $\\mathrm { C } _ { 3 } \\mathrm { H } _ { 8 }$ at the low value of $\\chi _ { c }$ under consideration; the picture is different for higher $\\chi _ { c } \\mathbf { s }$ ,i.e.,increasing finite-rate chemistry effects,in which case some overlap is apparent, similar to what is shown in Fig. 4 below for molecular oxgen. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "An important effect is observed on water gas $\\mathrm { H } _ { 2 } \\mathrm { O }$ which is the major reaction product (together with $\\mathrm { C O } _ { 2 }$ and eventually CO). Peak concentration is seen to increase about $1 5 \\%$ with respect to adiabatic for $\\zeta _ { b } = \\ - 2 0 0$ $\\mathbf { k J } / \\mathbf { k g }$ ,thus underlining the need to accurately account for enthalpy defect effects in combustion models. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another important species featuring a marked effect of the enthalpy defect is carbon monoxide CO，with the peak value decreasing about $2 5 \\%$ (with respect to adiabatic）in the range mentioned above.It is anyway seen that CO concentration is important only for mixtures operating near stoichiometric and fuel-rich,which is not the case for gas turbines.It is anyway safe to say that CO predictions are subjected to considerable uncertainty. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The resulting effect on $\\mathrm { C O } _ { 2 }$ turns out instead to be much less significant, in the range of about $2 \\%$ (with respect to adiabatic). ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Methane $\\mathrm { C H } _ { 4 }$ represents (together with other species, see below） unburnt hydrocarbons；its concentration is seen to be somewhat affected by the enthalpy defect for $Z { > } 0 . 1 7$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acetylene $\\mathrm { C } _ { 2 } \\mathrm { H } _ { 2 }$ is important both as an unburnt hydrocarbon,and a precursor of soot formation.It appears in significant concentrations in fuel-rich combustion,and it is seen to show some dependence on the enthalpy defect for $Z { > } 0 . 1 3$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another unburnt hydrocarbon is ethylene $\\mathrm { C } _ { 2 } \\mathrm { H } _ { 4 }$ ，which is seen to be relatively sensitive to the enthalpy defect for $Z { > } 0 . 1 8$ ： ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Concentrations of some minor chemical species are reported in Fig.3.As they occur in appreciable proportions only near stoichiometric, the range of the conserved scalar reported in the Figures is in this case restricted to [0, 0.2]. The enthalpy defect is seen to produce an appreciable effect on atomic hydrogen H concentration, with a peak value reduced by $30 \\%$ on a relative basis when passing from the adiabatic flamelet to the $\\zeta _ { b } = - 2 0 0 ~ \\mathrm { k J / k g }$ one. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/736ca3fd6fcdd23cb6b8cc3aaac6e0debb525c5eb3bd63e4aff9cfc1f15bc446.jpg",
+        "img_caption": [
+            "Fig. 2Concentration of major species: solid line $\\zeta _ { b } { = } 0$ ，long-dashed line $\\zeta _ { b } = - 5 0 \\mathrm { \\ k J / k g }$ ，short-dashed line $\\zeta _ { b } = \\mathrm { - } 1 0 0 \\mathrm { \\ k J / k g } ,$ （204 dash-dotted line $\\zeta _ { b } = - 1 5 0 \\mathrm { k J / k g }$ ,dash-double dotted line $\\zeta _ { b } { = } ~ { - 2 0 0 \\mathrm { k J / k g } }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/052d24759aee2f7ba4c0202a7b205a02d6695af747c1b4d332b34f15df38a842.jpg",
+        "img_caption": [
+            "Fig.3Concentration of minor species: solid line $\\zeta _ { b } { = } 0$ ,longdashed line $\\zeta _ { b } = - 5 0 \\mathrm { \\ k J / k g } .$ short-dashed line $\\zeta _ { b } = \\mathrm { ~ - 1 0 0 ~ }$ $\\mathrm { k J / k g }$ ，dash-dotted line $\\zeta _ { b } = \\ - 1 5 0 \\mathrm { k J / k g }$ ，dash-double dotted line $\\zeta _ { b } = - 2 0 0 \\mathrm { k J / k g }$ "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A particularly important effect is noted for atomic oxygen O,with peak concentration decreasing by over $3 5 \\%$ in the same range as above. This species is relevant to nitric oxide emissions,as the production term due to the thermal mechanism can be expressed as ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nw _ { N O , t h } = 2 M _ { N O } B _ { 1 } T ^ { \\alpha _ { 1 } } \\exp \\left( - \\frac { E _ { 1 } } { R ^ { 0 } T } \\right) \\cdot \\rho ^ { 2 } \\frac { Y _ { o } } { M _ { o } } \\frac { Y _ { N 2 } } { M _ { N 2 } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where the $M _ { i } , \\mathbf { s }$ indicate molar masses,and rate constants refer to the rate-limiting reaction ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { N } _ { 2 } + \\mathbf { O } \\to \\mathbf { N O } + \\mathbf { N }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The effect of reduced oxygen concentration with increasinglynegative $\\zeta$ addsup to the accompanying temperature decrease.It is therefore expected that taking into account the effect of enthalpy defect can lead to refined predictions of nitrogen oxide emissions from flames and combustors. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Hydroxil OH,which affects soot oxidation, is another rate-limited species,and is seen to be significantly affected by the enthalpy defect (peak concentration reduced by up to $20 \\%$ in the range quoted). Anyway, it is also very sensitive to $\\chi c$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The reaction intermediate hydrogen peroxide $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ also shows a significant effect of $\\zeta$ (peak reduced by over $20 \\%$ ） ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Methylidyne CH is closely associated with formation of promptNO; the enthalpy defect appears to bringabout relatively minor effects on its concentrations.At any rate, level are so small that significant formation of prompt NO seems unlikely (though this might be an effect of the approximation involved in identifying fuel as propane). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Formyl CHO is seen to occur in trace concentration only.Anyway,itisoften used asa reaction zone marker inhydrocarbon combustion; its concentration is observed to be very sensitive to enthalpy defect, as the peak is reduced by over $40 \\%$ when passing from adiabatic to $\\zeta _ { b } =$ $- 2 0 0 \\mathrm { k J / k g }$ ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lastly, some effects of the impact of finite-rate chemistry,as identified by the conditioned scalar dissipation rate $\\chi _ { c }$ ,are reported in Fig. 4 for the adiabatic shelf only. As many as 17 flamelets, for stretch conditions ranging from near-equilibrium to near-extinction (which is found to occur beyond $\\chi _ { c } = 3 2 7 ~ \\mathrm { s ^ { - 1 } } \\cdot$ ）have been generated, though only 5,plus the inert mixing state,are shown in the Figure in order to avoid clutter. It is seen that while in near-equilibrium conditions the mass fraction of molecular oxygen is basically zero beyond stoichiometric,for increasing $\\chi _ { c } \\mathbf { s }$ some oxygen can survive on the rich side of the flame due to insufficient residence time for complete combustion. Further,acetylene concentration is shown to be quite sensitive to stretch conditions,with an attendant significant effect on soot formation.Similar significant effects are found for the concentration of atomic oxygen, appearing in Eq.（7) for the nitric oxide formation rate，and of hydroxyl,an important sootoxidizing agent. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/aabd3c3dd503e086de9167229dee0d8afd8e80fee0b85c99e5b9e055573368b2.jpg",
+        "img_caption": [
+            "Fig.4Concentration of molecular oxygen and acetylene: solid line $\\chi _ { c } = ~ 0 . 4 ~ \\mathrm { { s ^ { - 1 } } }$ ，long-dashed line $\\chi _ { c } = 8 2 \\mathrm { ~ s } ^ { - 1 }$ ， short-dashed line $\\chi _ { c } = 2 7 8 \\mathrm { ~ s } ^ { - 1 }$ ， dash-dotted line $\\chi _ { c } =$ $3 0 9 ~ \\mathrm { { s } ^ { - 1 } }$ ，dash-double doted line $\\chi _ { c } = 3 2 7 \\mathrm { ~ s } ^ { - 1 }$ ，dotted line inert state. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Present results emphasize the need to correctly account for the effect of heat loss on the concentration of chemical species in laminar flamelets,which in turn are the thermochemical database passed as an input to turbulent combustion models.Effects are seen to be quite remarkable not only for minor species,but also for some major reaction products such as $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ and CO.Effects are in general more pronounced at the fuel side, though sig nificant effects are also seen for $\\mathrm { O } _ { 2 }$ ,which is only present at the lean side (at least for the low value of $\\chi _ { c }$ considered in this study).Further,it is as well to remark that the range of enthalpy defects considered in this study is quite limited with respect to the one which can actually take place in furnaces,where heat transfer to the wall is the goal. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Future work will involve exploration of the feasibility and possible advantage of the approach of the‘pseudoflamelets’with uniform enthalpy defect $\\zeta ,$ to be generated by interpolation,and the evaluation of the effect of heat losses on rate-limited species, such as nitric oxide. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "[1]Hawthorne,R.W.,Weddell, D.S.and Hottel,H.C.,Mixing and combustion in turbulent gas jets,3rd Symp. Comb.,Flame Expl.Phen.,Williams and Wilkins,Baltimore,1949,pp.266-288.   \n[2]Bilger,R.W., Turbulent flows with nonpremixed reactants,in Turbulent Reacting Flows (Libby,P.A.and Williams,F.A.,Eds.), Springer-Verlag,Berlin,1980,pp.65- 113.   \n[3] N.Peters, Turbulent Combustion, Cambridge Univ.Press, 2004.   \n[4] N.Peters,Combustion Theory,CEFRC Summer School, Princeton,2010.   \n[5] Cuenot,B.,The flamelet model for non-premixed combustion,in Turbulent Combustion Modeling (Echekki,T. and Mastorakas,E.,Eds.),Springer-Verlag,Berlin,2011, pp. 43-63.   \n[6]Liew, S.K., Bray, K.N.C. and Moss, J.B.,A stretched laminar flamelet model of turbulent nonpremixed combustion, Combust.Flame,Vol. 56,pp.199-213,1984.   \n[7]Peters,N.,Laminar diffusion flamelet models in nonpremixed turbulent combustion, Prog. Energy Combust. Sci., Vol.10, pp.319-339,1984.   \n[8]Lentini,D.,Assessment of the stretched laminar flamelet approach for nonpremixed turbulent combustion, Combust. Sci.and Tech., Vol.100,pp.95-122,1994.   \n[9]Lentini,D.and Puri,I.K.，Stretched laminar flamelet modeling of turbulent chloromethane-air nonpremixed jet flames,Combust.Flame,Vol.103,pp.328-338,1995.   \n[10]Modest, M.F. and Haworth,D.C., Radiative Heat Transfer in Turbulent Combustion Systems, Springer, Berlin, Heidelberg, Germany, 2016.   \n[11]Fairweather, M., Jones,W.P., Lindstedt,R.P.and Marquis, A.J., Predictions of a turbulent reacting jet in a cross-flow, Combust.Flame, Vol. 84, pp.361-375,1991.   \n[12]Bray, K.N.C.and Peters,N.,Laminar flamelets in turbulent flames, in Turbulent Reacting Flows (Libby,P.A. and Williams,F.A.,Eds.), Academic Press,London,1994, pp. 63-113.   \n[13]Marracino,B.and Lentini, D.,，Radiation modelling in non-luminous nonpremixed turbulent flames, Combust. Sci. and Tech., Vol.128,pp.23-48,1997.   \n[14]Giordano,P. and Lentini，D.，Combustion-radiationturbulence interaction modeling in absorbing/emitting nonpremixed flames, Combust. Sci.and Tech,Vol.172, pp.1-22,2001.   \n[15]Boccanera,M.and Lentini, D.,Extensive stretched laminar flamelet library with enthalpy defect for syngas/air combustion，AIAA paper 2001-3421， Salt Lake City, 2001.   \n[16]Jones, W.P. and Whitelaw, J.H., Modelling and measurements in turbulent combustion, 20th Symp.(Int.）on Combust., The Combustion Institute,Pittsburgh,1984, pp. 233-249.   \n[17]Turns, S.R. and Lovett J.A., Measurements of oxides of nitrogen emissions from turbulent propane jet diffusion flames, Combust. Sci. and Tech., Vol. 66, pp. 233-249, 1989.   \n[18]Lutz, A.E.，Kee，R.J.，Grcar, J.F. and Rupley， F.M., OPPDIF: a Fortran program for computing opposed flow diffusion flames, Rept. SAND 96-8243,1997.   \n[19]Peters, N.and Rogg, B., Reduced Kinetic Reaction Mechanisms for Application in Combustion Systems, Springer-Verlag,Berlin,1993. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    }
+]

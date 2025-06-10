@@ -1,0 +1,118 @@
+# Viviparity in a Triassic marine archosauromorph reptile
+
+LI Chun1 Olivier RIEPPEL² Nicholas C.FRASER³
+
+(1KeyLaboratoryofVertebrateEvolutionand HumanOriginsofChineseAcademyofSciences,InstituteofVertebrate Palaeontology and Palaeoanthropology,ChineseAcademyofSciencesBeijing l0o044,China lichun@ivpp.ac.cn)   
+(2Field Museum of Natural History Chicago IL 60605,USA)   
+(3National Museums Scotland Edinburgh EH11JF,UK)
+
+Abstract Eggs or embryos have been reported in various groups of fossil reptiles,where viviparity is a common mode of reproduction in aquatic taxa such as the ichthyopterygians, some groups of sauropterygians,mosasauroids, some taxa of choristoderans and certain protorosaurs. Here, we describe a complete embryo of a marine protorosaur, based on a well-preserved,curledup skeleton. The new discovery is referred to a taxon closely related to the remarkable longnecked Dinocephalosaurus.It further confirmed viviparity in an archosauromorph group and indicates an increasing taxonomic diversity not only within this group,but of Triassic marine reptiles in general.
+
+keywordsarchosauromorph,protorosaur,embryo,viviparity,marine
+
+Citation Li C,Rieppel O,Fraser N C,2017.Viviparity in a Triassic marine archosauromorph reptile.VertebrataPalAsiatica,55(3):210-217
+
+# 1 Introduction
+
+A number of terms such as oviparity, ovoviviparity and viviparity have been used to describe reproductive strategies in reptiles.However, in the fossil record only oviparity and viviparity can be distinguished,thus allowing a straight-forward definition simply based on the deposition of eggs versus giving birth to live offspring (Guillette,1993; Blackburn,1993). Ovoviviparity of different intermediate stages,which is often observed in modern squamates would then be referred to the category of viviparity, whatever the stages of maturity and nutritional patterns are.
+
+The earliest possible record of viviparity,or live birth among aquatic amniotes is an Early Permian mesosaur (Pineiro et al,20l2). More numerous instances of viviparity are known from Mesozoic marine reptiles, including a number of specific examples (Deeming et al, 1993; Dal Sasso and Pinna,1996).In the Early Triassic Chaohusaurus,the embryos are positioned with their heads orientated posteriorly such that they were born head-first (Motani et al, 2014).
+
+This has been considered evidence for a terrestrial origin of viviparity in this lineage. By contrast, the majority of ichthyosaur embryos (with rare exceptions) are oriented such that they were born tail first. Viviparity is universal within Jurassc and Cretaceous ichthyopterygians and is considered a key innovation in that clade (Böttcher,199o; Deeming et al,1993; Maxwell and Caldwell,2003; Motani et al,2014). Viviparity has also been suggested within pachypleurosaurs and nothosaurs (Sander,1988; Lin and Rieppel, 1998;Renesto et al, 2003), but it is only more recently that there has been any evidence for viviparity in pachypleurosaurs (Cheng et al.,2004) and plesiosaurs (O'Keefe and Chiappe,2011).As in some groups of extant Squamates, Cretaceous mosasauroids (Caldwell and Lee,2001) also gave birth to live young. Other examples of viviparity were described in archosaurmorph taxa, including fresh water choristoderans (Ji et al, 201O) and marine protorosaurs (Liu et al, 2017).
+
+Here we report a well-preserved embryo skeleton (IVPP V 22788),which due to its immaturity does not allow for its description as a new taxon, but which represents a new species of marine protorosaur with close relationships to Dinocephalosaurus.
+
+# 2 Description
+
+Originating from the Guanling Formation (Member II,Anisian) of Luoping County, Yunnan Province,southern China,the small, but complete, skeleton is preserved tightly curled so as to produce an almost perfect circular outline, which is strongly indicative of an embryonic position constrained by an uncalcified egg membrane (Fig.1). The embryo is completely isolated on the bedding plane with no evidence of any other marine reptile remains in the immediate vicinity of the specimen, although marine reptiles (including juvenile nothosaurs and ichthyosaurs) together with fishes and invertebrates are abundant in these deposits (Jiang et al, 2009).
+
+With a length of $2 0 . 6 ~ \mathrm { m m }$ ,the relatively very large skull is over half as long as the diameter of the circular outline of the embryo and it occupies approximately $20 \%$ of the total area of the embryonic circle (Table 1).The skullis notable for the prominent sclerotic plates preserved in the orbits with the remnants of up to 19 individual plates in each orbit. Exposed in dorsal view, individual elements of the skullare clearly visible,including the nasals,paired frontals and parietals,and the circumorbital series of bones.The tooth bearing elements are fragmentary, but the somewhat bulbous snout displays sharply pointed conical teeth.
+
+The minimum total vertebral count is 119,comprising 24 cervicals,29 dorsals,2 sacrals and a minimum of 64 caudals. The vertebral column is largely exposed in right ventrolateral view. The cervical ribs are exceptionally long and thin and arranged in narrow bundles extending posteriorly along either side of the neck.Each rib bridges at least five intervertebral joints in the middle to the posterior sections of the neck.The boundary between the cervicals and dorsals is not well defined,but the ribs associated with vertebrae 23 and 24 retain a posterior deflection and are relatively short while the rib associated with vertebra 25 is straight and also longer. This is also consistent with the position of what we take to be the scapula.
+
+<html><body><table><tr><td>Table1 Dimensions of the“egg”and the skull</td><td>(mm)</td></tr><tr><td>Max width (from snout to edge of vertebral column)</td><td>35.3</td></tr><tr><td>Minimum width (perpendicular to previous dimension,i.e.from tail to manual phalanges of left forelimb)</td><td>34.0</td></tr><tr><td>Length of skull (snout to posterior end of parietal table)</td><td>20.6</td></tr><tr><td>Width of skull across temporal region (right side to edge of sclerotic ring on left side)</td><td>14.5</td></tr><tr><td>Length of right orbit</td><td>8.5</td></tr><tr><td>Length of left orbit</td><td>9.5</td></tr></table></body></html>
+
+![](images/fbb50165491837c531abe2c2ae4b713458dafc6fbf1386f2ba2e101a04d08ed0.jpg)  
+Fig.1 Dinocephalosaur embryo (IVPP V 22788) (A) with interpretative drawing (B) Abbreviations: ax.axis; cv.cervical vertebra;d.dentary; dv.dorsal vertebra; f.frontal; fe.femur; fib.fibula; hu.humerus; mx. maxilla; n. nasal; p.parietal; ph.phalanx; pm. premaxila; po.postorbital; prf. prefrontal; ra.radius; sa. sacral vertebra; sc.scapula; scl. scleral ossicles; sq.squamosal; ul. ulna
+
+The dorsal centra are about half as long as the cervical vertebrae. The dorsal ribs are holocephalous and curve to a very slightly expanded distal end.There is an incredibly fine and delicate cuirass of gastralia with approximately 90 individual elements exposed.
+
+In lateral view, the proximal caudal vertebrae display a relatively broad, rectangular neural spine. Many of the proximal caudals are associated with chevrons that are relatively simple, broad structures.
+
+Both forelimbs and hindlimbs are reasonably well preserved, although poorly ossified. The right forelimb is relatively complete comprising scapula, humerus,radius and ulna,but no phalanges. No ossified carpals are preserved.
+
+There are no remains of the pelvic girdle preserved. The two hindlimbs overlap each other and as a consequence it is diffcult to separate the phalanges from each side.Nevertheless,as with the carpals, it would seem that the tarsals have yet to ossify at this stage of development, and this might be true for some of the metatarsals and phalanges as well.
+
+All the limb elements are simple ossifications with no development of processes or complex articular surfaces.The forelimbs are noticeably longer than the hindlimbs (Table 2).
+
+Table 2 Lengths of limb elements (mm)   
+
+<html><body><table><tr><td>Right humerus</td><td>5.3</td></tr><tr><td>Right ulna</td><td>3.4</td></tr><tr><td>Right radius</td><td>3.0</td></tr><tr><td>Left femur</td><td>3.8</td></tr><tr><td>Right fibula</td><td>2.3</td></tr></table></body></html>
+
+# 3 Discussion
+
+The very characteristic bundles of elongate cervical ribs are compelling evidence for this embryo to be referable to the protorosaurian lineage (Fraser and Rieppel, 20o6; Fraser et al,2013). The large numbers of cervical vertebrae,their relatively short length together with the rather simple,pillar-like limb elements,most closely resemble Dinocephalosaurus amongst described protorosaurians (Rieppel et al, 2Oo8). Also,with such an early stage in ontogeny, there might be an expectation of reduced levels of ossification in the limb elements. In Dinocephalosaurus,the forelimb is only slightly longer than the hindlimb (Rieppel et al, 2008),but in this embryo there is a more noticeable disparity in their relative lengths. The fewer cervical vertebrae (24 as opposed to 33 (based on an undescribed specimen kept in the IVPP)),and the presence of sclerotic plates are features inconsistent with Dinocephalosaurus. This embryo therefore documents the presence of at least one additional dinocephalosaur-like species swimming in the Middle Triassic of the Eastern Tethys Sea.Although it undoubtedly represents a new taxon, the embryonic nature of the specimen precludes its formal description as a new species,for which reason it is here simply referred to as a dinocephalosaur.
+
+The presence of well-developed scleral ossicles forming an overlapping series is significant on two counts.Firstly,apart from a few isolated elements in a single specimen of Tanystropheus (Nosoti, 2007), scleral ossicles have previously not been described in any protorosaur. Secondly, they are indicative of the specimen representing a very late stage embryo and probably close to the neonate condition.For example,in the embryonic development of Chelydra serpentina it was recorded that the scleral ossicles only form an overlapping series of bones by the time of hatching (Franz-Odendaal, 2O06).It has also been noted that the onset of skeletogenesis in ocular elements is highly variable among vertebrates, but that in general they develop relatively late in ontogeny (Franz-Odendaal et al., 2006).
+
+There is no indication of a calcified eggshell. However, given the nature of the fossil record, the absence of a preserved eggshell does not necessarily constitute absolute evidence for the true absence of a calcified eggshell. For example, the shell was not preserved in a Cretaceous bird egg fossil from lacustrine facies (Zhou et al.,2Oo4). On the other hand, the manner in which the specimen is coiled up forming a circle is highly suggestive of it being bounded by some kind of uncalcified membrane.A similar preservational pattern was also reported in fossl embryos of a Cretaceous choristoderan, again an aquatic viviparous reptile (Ji et al.,201o). The Triassic Keichousaurus,a small marine sauropterygian, is also known to be viviparous based on gravid specimens (Cheng et al,2O04),and isolated embryos that are again preserved in the same curled-up position. Furthermore, whereas in living turtles and archosaurs the eggshell is calcified,the lack of any traces of a calcified eggshell in the current specimen is inconsistent with a land based egg-laying habit,and provides further circumstantial evidence for a viviparous habit in the new archosauromorph.In addition, from a taphonomic point of view and according to the observation of extant marine turtles and the marine iguana, who bury their eggs in sands beyond the tide,the transport of an egg with a calcified shell from the beach into the sea is of a very smal probability. Moreover, it seems highly improbable that such a delicate structure could have survived transport from a nesting site on the shoreline. A similar argument was used by Ji et al (2Oo6) to argue for viviparity in the choristoderan Hyphalosaurus.So, the probability of the egg being encased in a calcified shell and originally deposited on land is very small.
+
+The extraordinarily long neck and the flipper-like limbs do not suggest any land-based locomotion. We therefore argue that this was an aborted egg or that the embryo was not viable at parturition. In turn this demonstrates that at least some marine protorosaurs were viviparous. This can therefore be considered a firm record of viviparity in a lineage of archosauromorphs. Besides the viviparous choristoderans,which are placed by some authors as the most basal archosauromorphs, some pieces of fragmentary bones interpreted as those of an embryo, together with a digested fish,were recently described preserved in the abdomen of a Dinocephalosaurus orientalis skeleton (Liu et al.,2017). The association of these “embryonic”
+
+remains alongside a fish means that there was some question as to their identity as an embryo or whether they could have been eaten.But the new find tends to corroborate the occurrence of viviparity in at least some archosauromorph lineages.Extant members (birds and crocodiles) of this major radiation are universally oviparous and to date extinct forms such as dinosaurs and pterosaurs are also only known to have had terrestrial egg-laying habits (Norel et al. 1994; Chiappe et al, 1998; Zhou and Zhang, 2004; Wang and Zhou, 2004).
+
+AcknowledgementsWe are grateful to Li Yutong for the preparation of the specimens, Chen Yu and Guo Xiaocong for the line drawings,and Gao Wei for photographic work.This work was supported by the Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences and State Key Laboratory of Palaeobiology and Stratigraphy (Nanjing Institute of Geology and Palaeontology, CAS) No.153105.
+
+# 三叠纪胎生主龙型海洋爬行动物
+
+李淳 OlivierRIEPPEL² Nicholas C.FRASER³
+
+(1中国科学院古脊椎动物与古人类研究所，中国科学院脊椎动物演化与人类起源重点实验室北京 10044)  
+(2美国菲尔德自然历史博物馆芝加哥60605)  
+(3英国苏格兰国家博物馆 爱丁堡EH11JF)
+
+摘要：现代爬行动物的生殖方式包括卵生、卵胎生和“胎生”三种类型。总体而言，卵生即母体在陆地上产出羊膜卵，并依靠外界环境加以孵化；卵胎生系指羊膜卵在母体内孵化，随即产出幼子，其间胚胎的营养来源和代谢废物均限于羊膜卵内；所谓“胎生”，是指某些类群的卵在母体内孵化后没有立刻产出，胚胎与母体建立了某种程度的营养乃至气体交换关系，此后再以幼体的形式娩出。卵胎生和“胎生”见于有鳞类。在化石中，由于无法识别胚胎与母体的营养联系等信息，通常只以“生产方式”加以定义，即除卵生以外，所有“含胚胎的化石”都统称为“胎生”，目前“胎生”已有的准确记录包括鱼龙类、鳍龙类、沧龙类和离龙类。近期报道的“怀孕恐头龙”显示原龙类可能也有此种生殖方式，但标本的保存状态显示不能排除其“同类相食”之可能。本文记述了产自云南罗平地区中三叠系内一独立保存的、完整的圆胚状化石，标本的大小、形态、姿态和埋藏环境显示这是一个处于孵化后期、因某种原因而流产的胚胎。头后骨骼显示该标本代表了一种全新类型的海生原龙类，但是由于在个体发育中很多性状特征会有较大变化，因此胚胎乃至幼体标本不宜作为正型标本而建立新属种。这也是又一个主龙型爬行动物胎生的确切证据；同时这也进一步反映了盘县一罗平动物群中原龙类的高度多样性。
+
+关键词：主龙型类，原龙类，胚胎，胎生，海生中图法分类号：Q915.864 文献标识码：A 文章编号：1000-3118(2017)03-0210-08
+
+#
+
+Reterences   
+Blackburn DG,1993.Standardized criteria forthe reproductionof reproductive modes insquamate reptiles.Herpetologica, 49(1): 118-132   
+BottcherR,990.Neue ErkentissuberdieFortpflanzungs biologiederIchthyosaurier(Reptilia).StuttgBeitrNaturkd, Ser B:Geol Paläontol,164: 1-51   
+Caldwell MW,LeeMSY,2Ool.Livebirth in Cretaceous marine lizards(mosasauroids).ProcR SocLondB,268:2397- 2401   
+Cheng Y,Wu X,Ji Q,2004.Triassic marine reptiles gave birth to live young.Nature,432: 383-386   
+ChiappeLM,CoriaRA,Dingus Letal.,1998.Sauropod dinosaur embryos from the Late Cretaceous ofPatagonia.Nature, 396: 258-261   
+Dal Sasso C,Pinna G,1996.Besanosaurus leptorhynchus n.gen.n.sp.,anew shastasaurid ichthyosaur from the Middle Triassic of Besano (Lombardy,N. Italy). Paleont Lombarda,4: 3-23   
+Deeming DC,HalsteadLB,Manabe Met al.,1993.Anichthyosaur embryo from the Lower Lias (Jurassic: Hettangian)of Somerset, England,with comments on the reproductive biology of ichthyosaurs.Mod Geol,18: 423-442   
+Franz-OdendalTA,0o6.Intramembranousosificationofsleralosicles inhelydraserpentin.Zoology09:75-81   
+Franz-OdendalTA,Vickaryous MK,2006.Skeletal elements in the vertebrate eye and adnexa: morphological and developmental perspectives.Dev Dynam, 235:1244-1255   
+Fraser N C,Rieppel O,206.Anew protorosaur (Diapsida)from the Upper Buntsandstein of the Black Forest,Germany. J Vert Paleont,26: 866-871   
+Fraser NC,Rieppel O,Li C,2013.Along-snouted protorosaur from the Middle Triassicof southern China.JVertPaleont, 33: 1120-1126   
+Guillette LJ,1993.The evolution of viviparity in lizards.Bio Sci,43:742-751   
+Ji Q,Ji S,LuJetal.,O6.EmbryosofEarlyCretaceous horistodera(Reptilia)fromtheJehol BiotainwesternLiaoning, China. JPaleont Soc Korea,22: 111-118   
+Ji Q,Wu X,Cheng Y,2Ol0.Cretaceous choristoderanreptilesgavebirth to liveyoung.Naturwisenschaften,97: 423- 428   
+Jiang D,MotaniR,Hao Wetal.,2O09.Biodiversityand sequenceof the Middle TriasicPanxian Marine Reptile Fauna, Guizhou Province, China.Acta Geol Sin,83: 451-459   
+LinK,RieppelO,1998.Functional morphologyandontogenyofKeichousaurus hui (Reptilia:Sauropterygia).Fieldiana (Geol),39: 1-39   
+Liu J,OrganCL,Benton MJetal.,2017.Livebirth inan archosauromorph reptile.Nat Commun,8,doi:10.1038/ ncomms14445   
+MaxwellE E,CaldwellM W,2003.First recordoflive birth in Cretaceous ichthyosaurs: closingan 80 milion year gap. Proc R Soc Lond B,270: 104-107   
+MotaniR,JiangD,TintoriAetal.,2014.Terrestrial originof viviparity inMesozoic marinereptilesindicatedbyEarly Triassic embryonic fosils.PLoS ONE,9(2): e88640,doi:10.1371/journal.pone.0088640   
+Norell MA,ClarkJM,DemberelyinDetal.,1994.Atheropoddinosaurembryoand theaffnitiesof theFlaming Clifs dinosaur eggs. Science,266: 779-782   
+Nosoti S,20o7.Tanystropheus longobardicus (Reptilia,Protorosauria):re-interpretationsof theanatomybased on new specimens from the Midle Triassic of Besano (Lombardy,northern Italy).Mem Soc Ital Sci Nat Mus Civ Stor Nat Milano,35: 1-88   
+O'KeefeFR,Chiappe L M,20l1. Viviparity and K-selected life history in a Mesozoic marine plesiosaur (Reptilia: Sauropterygia). Science, 870: 870-873   
+PineiroG,Ferigolo J,Meneghel Metal.,20l2.Theoldestknownamnioticembryos suggest viviparity inmesosaurs.Hist Biol,24: 620-630   
+Renesto S,LombardC,TintoriAetal.,2Oo3.Nothosauridembryos from the MiddleTriassicof northern Italy:aninsight into the viviparity of nothosaurs.JVert Paleont,23: 957-960   
+RieppelO,LiC,FraserNC,08.TheseletalanatomyftheTriasicprotorosaurDinocephalosaurusrientalisLifrom the Middle Triassic of Guizhou Province,southern China.J Vert Paleont,28:95-110   
+Sander PM,1988.A fossil reptile embryo from the Middle Triassic of the Alps.Science,239:780-783   
+Wang X, Zhou Z,2004.Pterosaur embryo from the Early Cretaceous of China.Nature,429: 621   
+Zhou Z,Zhang F,2004.Aprecocial avian embryo from the Lower Cretaceous of China.Science,306: 653
+
+# 纪念杨钟健院士诞辰120周年系列活动在京举办
+
+杨钟健院士是中国古脊椎动物学、古人类学与第四纪地质学研究的开创者和奠基人，是我国地学和自然科学初创阶段的重要推动者之一，是世界杰出的古脊椎动物学家之一。杨钟健院士历任1\~5届全国人大代表、中国科学院编译局局长、古脊椎动物与古人类研究所所长、西北大学校长、北京自然博物馆馆长、中国地质学会理事长、中国古生物学会理事长、中国第四纪研究委员会副主任、九三学社中央委员会委员、常委、《古脊椎动物学报》第一任主编等。
+
+2017年适值杨钟健院士诞辰120周年，中国科学院古脊椎动物与古人类研究所、九三学社北京市委、中国古脊椎动物学会联合举办纪念杨钟健院士诞辰120周年学术会议和纪念活动。全国政协副主席、九三学社中央主席韩启德院士，中国科学院副院长、中国科学院大学校长丁仲礼院士，孙枢院士、张弥曼院士、吴新智院士、邱占祥院士，以及来自中国科学院，中国社会科学院，北京大学，西北大学，北京自然博物馆，重庆自然博物馆，中国古脊椎动物学会，杨老家乡、曾工作过的地方政府、大学、科研机构和博物馆的领导、学者，杨老及为中国地质学、古生物学的发展作出重要贡献的部分院士先贤的家属等近200名嘉宾、代表出席了纪念活动。中国科学院大学副校长郭正堂院士、重庆自然博物馆欧阳辉馆长、古脊椎所邓涛副所长、徐星研究员、张兆群研究员、刘俊研究员受邀作学术报告，报告内容包括中国土状堆积研究、小哺乳动物化石研究、恐龙研究、古两栖爬行动物研究、博物馆建设以及古脊椎所研究工作的回顾与展望，向杨钟健院士在这些领域作出的开拓性贡献致敬，鼓励后辈学者在杨老开辟的道路上继续前进。
+
+《古脊椎动物学报》在2017年第55卷第2期特别出版专辑，纪念杨钟健院士对科学事业作出的巨大贡献，并深切缅怀他的高尚品格和道德情操。
+
+(编辑部)

@@ -1,0 +1,547 @@
+[
+    {
+        "type": "text",
+        "text": "妊娠后期饲粮中添加小麦水解蛋白对母猪繁殖性能、血清生化指标和氨基酸含量及胎盘组织营养物质转运相关基因表达的影响1",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "寇　娇」梁海威」刘宁」戴兆来」李　菊²　潘俊良²朱芳周³伍国耀1.4　武振龙",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1\\* ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.中国农业大学动物科学技术学院，北京100193；2.河南银发牧业有限公司，郑州451100;3.郑州新威营养技术有限公司，郑州450100；4.德克萨斯州农工大学动物科学院，大学城77843)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究妊娠后期饲粮中添加小麦水解蛋白（HWG）对母猪繁殖性能、血清生化指标和氨基酸含量及胎盘组织营养物质转运相关基因表达的影响。试验选用3\\~4胎次、预产期相近的妊娠母猪33头，随机分为3组，每组11个重复，每个重复1头母猪。对照组母猪饲喂基础饲粮，试验组母猪在基础饲粮中于妊娠第 90\\~114天期间分别添加 $1 \\%$ 和$2 \\%$ 的 HWG，所有饲粮均等能等氮。结果表明：1）与对照组相比，饲粮中添加1%HWG 显著提高了仔猪平均初生活仔重 （ $\\scriptstyle P < 0 . 0 5 { \\mathrm { : } }$ ，饲粮中添加 $2 \\% \\mathrm { { H W G } }$ 显著提高了仔猪初生窝重、初生活仔窝重（ $_ { . } { \\cal P } { < } 0 . 0 5$ )。2）与对照组相比，饲粮中添加 $1 \\%$ 和 $2 \\% \\mathrm { { H W G } }$ 显著提高了妊娠第107天母猪血清中天冬酰胺、组氨酸、鸟氨酸含量和脐带血清中组氨酸、异亮氨酸、亮氨酸、苯丙氨酸和酪氨酸含量（ $. P { < } 0 . 0 5 \\$ )，显著降低了母猪血清中血氨、甘氨酸含量和脐带血清中血氨含量（ $( P { < } 0 . 0 5 )$ ；饲粮中添加 $1 \\% \\mathrm { H W G }$ 显著提高了母猪血清中缬氨酸含量（ $( P { < } 0 . 0 5 )$ ，饲粮中添加 $2 \\% \\mathrm { { H W G } }$ 显著提高了母猪血清中异亮氨酸、苏氨酸含量和脐带血清中精氨酸、谷氨酸、谷氨酰胺、甘氨酸、蛋氨酸、丝氨酸、苏氨酸、色氨酸、氨酸、白蛋白、葡萄糖含量及碱性磷酸酶活性（ $P { < } 0 . 0 5$ )。3）与对照组相比，饲粮中添加 $1 \\% \\mathrm { H W G }$ 显著提高了胎盘组织中性氨基酸转运载体2（SNAT2）、谷氨酸转运载体3（EAAT3）、碱性氨基酸转运载体 2（LAT2）、葡萄糖转运载体2（GLUT2）的mRNA相对表达量（ $( P { < } 0 . 0 5 )$ )，饲粮中添加 $2 \\% \\mathrm { { H W G } }$ 显著提高了胎盘组织中性氨基酸转运载体1（SNAT1）、SNAT2、EAAT3、LAT2、小肽转运载体1（PepT1）、小肽转运载体2（PepT2）、葡萄糖转运载体1（GLUT1）、GLUT2、葡萄糖转运载体3（GLUT3）的mRNA相对表达量（ $P { < } 0 . 0 5$ )。由此可见，妊娠后期饲粮中添加HWG 能提高胎盘组织营养物质转运相关基因的表达，促进母体营养物质的转运效率和胎猪的生长发育，提高仔猪初生窝重。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "关键词：小麦水解蛋白；妊娠母猪；繁殖性能；血清生化指标；氨基酸；胎盘中图分类号：S828 文献标识码：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "文章编号：",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "小麦是我国最主要的粮食作物之一，其蛋白质、氨基酸和矿物质等含量丰富。除食用外，小麦还是重要的能量饲料原料。随着国内玉米价格的上涨，小麦及其副产品由于具有营养价值与玉米相近、价格相对平稳等优势在饲料工业中的应用逐渐增多。小麦蛋白（也称谷胱粉、活性面筋粉）是小麦淀粉生产过程中的主要副产物，由麦醇溶蛋白、麦谷蛋白、麦清蛋白和麦球蛋白组成，前2种蛋白质组分约占小麦蛋白的 $90 \\% [ 1 ]$ 。小麦蛋白特殊的结构造成其水溶性低、黏性大，因而限制了其在饲料中的添加和应用[2-3]。近年来，随着生物酶解技术发展，以小麦蛋白为原料经复合酶解加工工艺制备而来的水解产物[也称小麦水解蛋白（hydrolyzedwheat gluten,HWG）、小麦水解活性肽等]提高了其可溶性与消化率，并且含有多种活性小肽，推动了其在饲料工业中的应用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HWG的蛋白质含量约为 $80 \\%$ ，富含多种氨基酸和小肽，如谷氨酰胺、谷氨酸和亮氨酸，其中谷氨酰胺约占氨基酸总量的 $3 0 \\% ^ { [ 4 - 5 ] }$ 。谷氨酰胺和谷氨酸是猪肠道发育的重要能量底物和信号分子。饲粮中 $67 \\%$ 左右的谷氨酰胺和 $9 7 \\%$ 左右的谷氨酸在小肠被分解利用，维持小肠上皮细胞的增殖与更新，保障肠黏膜的屏障功能和肠上皮细胞间紧密连接蛋白的表达[]。前期的研究发现，饲粮中添加 $1 \\%$ 谷氨酰胺能够提高血浆中谷氨酰胺含量，改善断奶仔猪小肠绒毛结构，提高上皮细胞间紧密连接蛋白的表达，减少肠上皮细胞通透性[6-7]。谷氨酰胺调节紧密连接蛋白表达主要是通过钙调素依赖蛋白酶[8]。同时谷氨酰胺、谷氨酸能够缓解氧化应激引起的猪肠上皮细胞凋亡，维持肠上皮屏障功能[9]。亮氨酸是机体重要的必需氨基酸，约占机体氨基酸的 $7 \\%$ 。饲粮中补充亮氨酸能够促进仔猪肠绒毛发育，促进蛋白质合成和氨基酸转运载体的表达，提高仔猪的生长性能[10]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HWG作为一种优质的植物性蛋白质，在欧洲等国家广泛应用于乳仔猪教槽料、水产料、犊牛代奶粉及宠物饲料[I]。断奶仔猪饲粮中添加HWG 可显著提高断奶仔猪平均日增重，降低料重比和腹泻率，提高空肠绒毛长度并显著降低隐窝深度，从而缓解断奶应激造成的肠黏膜损伤和生长受阻等影响[12]。HWG 可部分替代鱼粉，从而降低饲料成本[13]。妊娠后期胎儿及乳腺快速发育、母猪体内激素和营养物质代谢急剧变化，其营养状况对胎猪生长性能和繁殖性能有重要影响。到目前为止，HWG在母猪饲粮中的研究还鲜有报道。因此，本试验通过在母猪妊娠后期饲粮中添加HWG，研究其对母猪繁殖性能、血清生化指标和氨基酸含量及胎盘组织营养物质转运相关基因表达的影响，为其在母猪生产中的应用提供依据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 试验材料",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "试验所用的HWG由郑州新威营养技术有限公司提供，其氨基酸组成见表1。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/422412b3b9264f0c8cfdee00d20881cf048721ecead239d1a692be6d8fff410f.jpg",
+        "table_caption": [
+            "表1HWG的氨基酸组成",
+            "Table 1 Amino acid composition of HWG % "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>氨基酸 Amino acids</td><td>含量Contentl)</td></tr><tr><td>天冬氨酸 Asp2)</td><td>2.75</td></tr><tr><td>苏氨酸 Thr</td><td>1.90</td></tr><tr><td>丝氨酸 Ser</td><td>3.53</td></tr><tr><td>谷氨酸 Glu3)</td><td>29.90</td></tr><tr><td>脯氨酸Pro</td><td>8.27</td></tr><tr><td>甘氨酸 Gly</td><td>2.42</td></tr><tr><td>丙氨酸 Ala</td><td>1.85</td></tr><tr><td>氨酸Val</td><td>3.29</td></tr><tr><td>异亮氨酸 Ile</td><td>3.18</td></tr><tr><td>亮氨酸Leu</td><td>5.69</td></tr><tr><td>酪氨酸Tyr</td><td>2.56</td></tr><tr><td>苯丙氨酸 Phe</td><td>4.01</td></tr><tr><td>组氨酸His</td><td>1.57</td></tr><tr><td>赖氨酸Lys</td><td>1.33</td></tr><tr><td>精氨酸Arg</td><td>2.44</td></tr><tr><td>半胱氨酸Cys</td><td>1.98</td></tr><tr><td>蛋氨酸 Met</td><td>1.26</td></tr><tr><td>色氨酸Trp</td><td>0.73</td></tr><tr><td>合计Total</td><td>79.62</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1)实测值。Measured values. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2)蛋白质水解后天冬酰胺以天冬氨酸的形式被检测。The asparagine was determined as aspartate in protein hydrolysate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3)蛋白质水解后谷氨酰胺以谷氨酸的形式被检测。The glutamine was determined as glutamate in protein hydrolysate. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.2试验动物、分组与饲养管理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "选用 3\\~4胎次、预产期相近的妊娠第90天的大白母猪33头，其随机分为3组，每组",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11个重复，每个重复1头母猪。参考NRC（2012）标准配制妊娠母猪基础饲粮，对照组母猪饲喂基础饲粮，试验组母猪在基础饲粮中于妊娠第 $9 0 { \\sim } 1 1 4$ 天期间分别添加 $1 \\%$ 和 $2 \\%$ 的HWG，所有饲粮均以丙氨酸和玉米淀粉进行等能等氮，并平衡必需氨基酸。试验饲粮组成及营养水平见表2。试验期间每日饲喂2次（06:00 和14:00)，饲喂量为 $3 \\mathrm { k g / d }$ ，预产期前1周将试验母猪转入彻底消毒的产房，其余按猪场日常管理程序进行饲养管理。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/28539e446c427813fa8376472d01217a078640d7c3bac286c290f78f06468f43.jpg",
+        "table_caption": [
+            "表2试验饲粮组成及营养水平(干物质基础)",
+            "Table 2Composition and nutrient levels of experimental diets (air-dry basis) "
+        ],
+        "table_footnote": [
+            "1)预混料为每千克饲粮提供 The premix provided the following per kg of diets：VA 8 550IU, $\\mathrm { V B } _ { 1 } 0 . 1 1 \\mathrm { m g }$ ， $\\mathrm { V B } _ { 2 } 3 . 2 \\ : \\mathrm { m g }$ ， $\\mathrm { V B } _ { 1 2 } 0 . 0 1 7 \\ : \\mathrm { m g }$ ，VDi1 544IU，VE 34.6IU，生物素 biotin 0.172mg，叶酸 folic acid $1 . 5 8 \\mathrm { m g }$ ， $D$ 泛酸 $D$ -pantothenic acid $1 8 ~ \\mathrm { m g }$ ，烟酸 nicotinic acid $2 5 ~ \\mathrm { m g }$ "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td colspan=\"3\">HWG 水平 HWG level/%</td></tr><tr><td>0</td><td>1</td><td>2</td></tr><tr><td>原料 Ingredients</td><td></td><td></td><td></td></tr><tr><td>玉米Corn</td><td>76.800 0</td><td>76.800 0</td><td>76.800 0</td></tr><tr><td>豆粕 Soybean meal (46%)</td><td>10.500 0</td><td>10.500 0</td><td>10.500 0</td></tr><tr><td>麦麸 Wheat bran</td><td>6.500 0</td><td>6.500 0</td><td>6.500 0</td></tr><tr><td>豆油 Soybean oil</td><td>0.500 0</td><td>0.500 0</td><td>0.500 0</td></tr><tr><td>石粉Limestone</td><td>0.500 0</td><td>0.500 0</td><td>0.500 0</td></tr><tr><td>磷酸氢钙CaHPO4</td><td>2.200 0</td><td>2.200 0</td><td>2.200 0</td></tr><tr><td>小麦水解蛋白 HWG</td><td></td><td>1.000 0</td><td>2.000 0</td></tr><tr><td>玉米淀粉 Corn starch</td><td>0.396 2</td><td>0.197 6</td><td></td></tr><tr><td>L-丙氨酸 L-Ala</td><td>1.500 0</td><td>0.750 0</td><td></td></tr><tr><td>L-赖氨酸盐酸盐L-Lys·HCl</td><td>0.026 6</td><td>0.013 3</td><td></td></tr><tr><td>DL-蛋氨酸 DL-Met</td><td>0.024 6</td><td>0.012 3</td><td></td></tr><tr><td>L-色氨酸 L-Trp</td><td>0.014 6</td><td>0.007 8</td><td></td></tr><tr><td>L-苏氨酸 L-Thr</td><td>0.038 0</td><td>0.019 0</td><td></td></tr><tr><td>食盐 NaCl</td><td>0.500 0</td><td>0.500 0</td><td>0.500 0</td></tr><tr><td>预混料 Premix1)</td><td>0.500 0</td><td>0.500 0</td><td>0.500 0</td></tr><tr><td>合计 Total</td><td>100.000 0</td><td>100.000 0</td><td>100.000 0</td></tr><tr><td>营养水平 Nutrient levels2)</td><td></td><td></td><td></td></tr><tr><td>消化能 DE/(MJ/kg)</td><td>13.85</td><td>13.85</td><td>13.85</td></tr><tr><td>粗蛋白质 CP3)</td><td>14.39</td><td>14.02</td><td>14.05</td></tr><tr><td>粗纤维CF</td><td>2.40</td><td>2.10</td><td>2.50</td></tr><tr><td>粗灰分 Ash</td><td>3.90</td><td>3.90</td><td>4.00</td></tr><tr><td>钙Ca</td><td>0.63</td><td>0.62</td><td>0.59</td></tr><tr><td>总磷TP</td><td>0.48</td><td>0.46</td><td>0.48</td></tr><tr><td>赖氨酸Lys</td><td>0.63</td><td>0.63</td><td>0.63</td></tr><tr><td>蛋氨酸 Met</td><td>0.27</td><td>0.27</td><td>0.27</td></tr><tr><td>色氨酸Trp</td><td>0.17</td><td>0.17</td><td>0.17</td></tr><tr><td>苏氨酸 Thr</td><td>0.55</td><td>0.55</td><td>0.55</td></tr><tr><td>谷氨酸 Glu4)</td><td>2.50</td><td>2.78</td><td>3.10</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cu (as copper sulfate) $1 3 . 2 \\mathrm { m g }$ ,Fe (as ferrous sulfate) $1 2 0 ~ \\mathrm { m g }$ ， Mn (as manganese sulfate) $7 0 \\mathrm { m g }$ Zn (as zinc sulfate) $6 8 ~ \\mathrm { m g }$ ， I(as potassium iodide) $1 . 8 4 \\mathrm { m g }$ ， Se (as sodium selenite) $0 . 4 \\mathrm { m g }$ 。 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2)消化能为计算值，其余为实测值。DE was a calculated value,while the others were measured values. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3)粗蛋白质包括饲粮中添加的丙氨酸和 HWG。Crude protein included the alanine and HWGaddedtothediet. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4)饲料水解后谷氨酰胺以谷氨酸的形式被检测。The glutamine was determined as glutamate in feed hydrolysate. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3 指标测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 母猪繁殖性能测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "在母猪分娩结束4h内，记录每头母猪的总产仔数、产活仔数、死胎数、仔猪初生窝重和初生活仔窝重，并计算仔猪平均初生重和平均初生活仔重。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.2 血清生化指标的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "于母猪妊娠第107天，每组随机选取6头母猪，采集前腔静脉血；母猪分娩时，每组随机选取6头母猪，采集脐带血。血样室温静置 $^ { \\textrm { 1 h } }$ 后， $3 0 0 0 \\times g$ 离心 $1 0 \\mathrm { m i n }$ ，取上清液于 $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存，用于血清生化指标检测分析。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.3 血清游离氨基酸含量的测定",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "高效液相色谱(HPLC)测定血清中的游离氨基酸含量，样品前处理：将血清样品从 ${ \\displaystyle - 2 0 ~ } ^ { \\circ } \\mathrm { C }$ 取出，冰上溶化，取 $2 0 { \\mu \\mathrm { L } }$ 血清样品于 $1 . 5 ~ \\mathrm { m L }$ 离心管；加入 $8 0 ~ \\mu \\mathrm { L } ~ 1 . 5 ~ \\mathrm { m o l / L } ~ \\mathrm { H C l O } _ { 4 }$ 除去血清中蛋白质，振荡混匀， $4 ^ { \\circ } \\mathrm { C }$ 静置 $3 0 \\mathrm { m i n }$ ；加入 $4 0 \\mu \\mathrm { L } 2 \\mathrm { m o l } / \\mathrm { L } \\mathrm { K } _ { 2 } \\mathrm { C O } _ { 3 }$ 调节溶液 $\\mathfrak { p H }$ ，振荡混匀； $1 4 8 0 0 \\mathrm { r / m i n }$ 离心 $1 0 \\mathrm { m i n }$ ，取 ${ 5 0 \\mu \\mathrm { L } }$ 上清液于 $1 . 5 \\mathrm { m L }$ 离心管，用HPLC 水稀释3倍；取${ 5 0 \\mu \\mathrm { L } }$ 稀释后样品、 $5 0 ~ \\mathrm { \\textmu L } ~ 1 . 2 \\%$ 苯甲酸和 $7 0 0 ~ \\mu \\mathrm { L }$ HPLC 水于HPLC 自动进样瓶中混匀，于HPLC仪（ThermoFisherScientific 公司，美国）测定。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1.3.4胎盘组织营养物质转运相关基因表达的测定",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "母猪自然分娩排出胎盘时，采集胎盘绒毛膜样品于 $- 2 0 \\mathrm { ~ \\textdegree C }$ 保存。胎盘组织样品采用TRIpure 试剂盒（艾德莱生物科技有限公司，北京）提取mRNA，通过核酸蛋白测定仪（IMPLEN，德国）测定各样品总RNA浓度，反转录得到cDNA（天根生化科技有限公司，北京），通过实时荧光定量PCR 法（7500 Real-Time PCR，Applied Biosystems，美国）检测目的基因的表达，基因引物序列见表3。反应体系为 $1 0 ~ \\mu \\mathrm { L }$ ：cDNA 模板 $1 ~ \\mu \\mathrm { L }$ ，上、下游引物各 $0 . 3 ~ \\mu \\mathrm { L }$ （ $\\mathrm { 1 0 \\ : \\mu m o l / L }$ ， $2 \\times$ SuperReal Premix ${ 5 \\mu \\mathrm { L } }$ ，Rox 染料 $0 . 2 ~ \\mu \\mathrm { L }$ ， $\\mathrm { \\ d d H _ { 2 } O }$ 补齐至 $1 0 \\mu \\mathrm { L }$ 。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "反应程序如下：1) $9 5 ~ ^ { \\circ } \\mathrm { C }$ 预变性 $1 5 \\mathrm { m i n }$ ；2）PCR反应： $9 5 ^ { \\circ } \\mathrm { C }$ 变性 $1 0 \\mathrm { ~ s ~ }$ ， $6 0 ~ ^ { \\circ } \\mathrm { C }$ 退火 $3 2 { \\mathrm { ~ s ~ } }$ ，循环 40 次。以甘油醛-3-磷酸脱氢酶(GAPDH)为内参基因，采用 $2 ^ { - \\Delta \\Delta \\mathrm { C t } }$ 法进行目的基因mRNA相对表达量的计算[14]。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/72304812d358ce4a7b571764ae44888b187fc903f2fe9ce04977d24bce1c6e15.jpg",
+        "table_caption": [
+            "表3基因引物序列",
+            "Table 3 Gene primer sequence "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>基因</td><td>登录号</td><td>引物序列</td><td>产物大小</td></tr><tr><td>Genes 甘油醛-3-磷酸脱氢酶</td><td>Accession No.</td><td>Primer sequence (5'-3') F:CTCGGAGTGAACGGATTTGG</td><td>Product size/bp 109</td></tr><tr><td>GAPDH 中性氨基酸转运载体1</td><td>NM_001206359.1</td><td>R:AGTGGAGGTCAATGAAGGGG F:AGAAGTCTCACGAACAGCCA</td><td>83</td></tr><tr><td>SNAT1 中性氨基酸转运载体2</td><td>XM_003355629.4</td><td>R:AAAACGGACATGCCTAGGGA F:GATTGTGGGCAGTGGAATCC</td><td>146</td></tr><tr><td>SNAT2 谷氨酸转运载体3</td><td>NM_001317081.1</td><td>R:AAGACCCTCCTTCATTGGCA F:GACGTCACCCTGATCATTGC</td><td>242</td></tr><tr><td>EAAT3 碱性氨基酸转运载体2</td><td>NM_001164649.1</td><td>R:TTGTCAACAGCAAAGCCTCC F:AGAGAAGCTCCTAGGGGTCA</td><td></td></tr><tr><td>LAT2 小肽转运载体1</td><td>XM_003128550.6</td><td>R:AGGGTGGAGATGCATGTGAA</td><td>207</td></tr><tr><td>PepT1 小肽转运载体2</td><td>NM_214347.1</td><td>F:GCTGCTTCGGTTATCCCTTG R:ATTCCAGCCGATGAAAAGCC</td><td>122</td></tr><tr><td>PepT2 葡萄糖转运载体1</td><td>NM_001097514.1</td><td>F:TCAATGGTCGGCTTGAGTCT R:GATCTCCACCAAAAGCTGCC</td><td>76</td></tr><tr><td>GLUT1</td><td>XM_021096908.1</td><td>F:GGCCTTCATATCTGCTGTGC R:CGCAGTACACACCGATGATG</td><td>95</td></tr><tr><td>葡萄糖转运载体2 GLUT2</td><td>NM_001097417.1</td><td>F:ACCAATTCCAGCTACCGACA R:GCGTAAACAGGTTGGCTGAT</td><td>137</td></tr><tr><td>葡萄糖转运载体3 GLUT3</td><td>XM_021092392.1</td><td>F:ATCACTGGTGGCTGCCTTAT R:CGCAGAAGAGGCCAATAACC</td><td>91</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.4统计分析",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "试验数据采用 SAS9.1.3软件中one-wayANOVA程序进行方差分析,GraphPadPrism 6.0软件作图。结果用平均值 $\\pm$ 标准误差表示， $P { < } 0 . 0 5$ 表示差异显著。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2结果",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.1妊娠后期饲粮中添加HWG 对母猪繁殖性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "由表4可知，与对照组相比，饲粮中添加 $1 \\% \\mathrm { { H W G } }$ 显著提高了仔猪平均初生活仔重中 $_ { , P < 0 . 0 5 ) }$ ；饲粮中添加2%HWG显著提高了仔猪初生窝重和初生活仔窝重（ $( P { < } 0 . 0 5 )$ 。饲粮中添加HWG 对窝产仔数、窝产活仔数、死胎数、平均初生重无显著影响（ $P { > } 0 . 0 5 \\$ ）°",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4妊娠后期饲粮中添加HWG对母猪繁殖性能的影响",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f858f11aa0f98b2160179179d815233038d371b9a420f07c6900dbdbd7e3980.jpg",
+        "table_caption": [
+            "Table 4Effects of dietary HWG in late pregnancy on reproductive performance of sows "
+        ],
+        "table_footnote": [
+            "同行数据肩标相同字母或无字母表示差异不显著（ $. P { > } 0 . 0 5 )$ )，不同小写字母表示差异显著（ $_ { . { P < 0 . 0 5 } }$ )。下表同。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"3\">HWG 水平 HWG level/%</td></tr><tr><td>0</td><td>1</td><td>2</td></tr><tr><td>窝产仔数</td><td>11.09±0.56</td><td>11.18±0.52</td><td>12.09±0.55</td></tr><tr><td>Piglet born per litter/头 窝产活仔数</td><td></td><td>10.64±0.49</td><td>11.91±0.59</td></tr><tr><td>Piglet born alive per litter/头</td><td>10.55±0.58</td><td></td><td></td></tr><tr><td>死胎数 Numberof stillbirths/头</td><td>0.55±0.28</td><td>0.55±0.21</td><td>0.18±0.12</td></tr><tr><td>初生窝重 Total litter weight at birth for all</td><td>16.73±0.72b</td><td>18.53±0.85ab</td><td>19.87±1.11a</td></tr><tr><td>piglets born/kg 初生活仔窝重</td><td></td><td></td><td></td></tr><tr><td>Total litter weight at birth for all live</td><td>16.13±0.83b</td><td>17.79±0.87ab</td><td>19.61±1.11a</td></tr><tr><td>piglets/kg 平均初生重</td><td></td><td></td><td></td></tr><tr><td>Average birth weight of all piglets</td><td>1.52±0.05</td><td>1.66±0.04</td><td>1.64±0.06</td></tr><tr><td>born/kg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>平均初生活仔重</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Average birth weight of all piglets born alive/kg</td><td>1.54±0.05b</td><td>1.68±0.04a</td><td>1.65±0.06ab</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with the same leter superscripts or no letter mean no significant difference $( P { > } 0 . 0 5 )$ while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ . The same as below. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.2 妊娠后期饲粮中添加HWG对母猪和脐带血清生化指标的影响 ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "由表5可知，与对照组相比，饲粮中添加 $1 \\% \\mathrm { { H W G } }$ 显著降低了妊娠第107天母猪和脐带血清中血氨含量（ $( P { < } 0 . 0 5 )$ ；饲粮中添加 $2 \\% \\mathrm { { H W G } }$ 显著提高了脐带血清中白蛋白、葡萄糖含量和碱性磷酸酶活性（ $_ { , P < 0 . 0 5 ) }$ ，显著降低了母猪和脐带血清中血氨含量（ $_ { ( P < 0 . 0 5 ) }$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a9c64bd417e1c690ede9722fef231a856f4c2af0e72929c79d99b8d6d3b5634.jpg",
+        "table_caption": [
+            "表5妊娠后期饲粮中添加HWG对母猪和脐带血清生化指标的影响",
+            "Table 5Eects of dietary HWG in late pregnancy on serum biochemical parameters of sows and umbilical cord "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目 Items</td><td colspan=\"3\">HWG 水平 HWG level/%</td></tr><tr><td>0</td><td>1</td><td>2</td></tr><tr><td>母猪血清 Serum of sows</td><td></td><td></td><td></td></tr><tr><td>总蛋白 Total protein/(g/L)</td><td>73.20±1.79</td><td>73.21±1.46</td><td>79.47±2.49</td></tr><tr><td>白蛋白 Albumin/(g/L)</td><td>30.24±0.71</td><td>30.68±0.48</td><td>31.95±1.60</td></tr><tr><td>尿素氮 Urea nitrogen/(mmol/L)</td><td>4.51±0.17</td><td>4.24±0.25</td><td>4.13±0.23</td></tr><tr><td>血氨 Blood ammonia/(μmol/L)</td><td>70.31±3.76a</td><td>55.29±2.32b</td><td>50.63±2.12b</td></tr><tr><td>葡萄糖 Glucose/(mmol/L)</td><td>4.23±0.16</td><td>4.23±0.14</td><td>4.44±0.15</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa8be9ea717002550678963d8c5dc8ac34182c1a4bc711dc11512defcb92c47c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2.3妊娠后期饲粮中添加HWG对母猪和脐带血清中氨基酸含量的影响"
+        ],
+        "table_body": "<html><body><table><tr><td>碱性磷酸酶 Alkaline phosphatase/(U/L)</td><td>47.65±3.97</td><td>47.13±3.26</td><td>50.00±0.76</td></tr><tr><td>脐带血清Serumof umbilical cord</td><td></td><td></td><td></td></tr><tr><td>总蛋白 Total Protein/(g/L)</td><td>22.43±0.73</td><td>24.35±0.98</td><td>24.00±0.69</td></tr><tr><td>白蛋白 Albumin/(g/L)</td><td>4.73±0.18b</td><td>5.25±0.55ab</td><td>5.47±0.28a</td></tr><tr><td>尿素氮 Urea nitrogen/(mmol/L)</td><td>5.05±0.44</td><td>4.88±0.43</td><td>4.86±0.27</td></tr><tr><td>血氨 Blood ammonia/(μmol/L)</td><td>77.88±2.90a</td><td>56.47±4.66b</td><td>62.48±5.22b</td></tr><tr><td>葡萄糖 Glucose/(mmol/L)</td><td>2.74±0.71b</td><td>3.95±0.95ab</td><td>3.97±0.41a</td></tr><tr><td>碱性磷酸酶 Alkaline phosphatase/(U/L)</td><td>317.08±24.85b</td><td>446.59±52.00ab</td><td>506.17±82.78a</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "由表6可知，与对照组相比，饲粮中添加 $1 \\% \\mathrm { H W G }$ 显著提高了妊娠第107天母猪血清中天冬酰胺、组氨酸、氨酸和鸟氨酸含量（ $\\scriptstyle P < 0 . 0 5 )$ ，显著降低了母猪血清中甘氨酸含量（ $\\cdot P { < } 0 . 0 5 )$ ；饲粮中添加 $2 \\% \\mathrm { { H W G } }$ 显著提高了母猪血清中天冬酰胺、组氨酸、异亮氨酸、苏氨酸和鸟氨酸含量（ $_ { , P < 0 . 0 5 ) }$ ，显著降低了母猪血清中甘氨酸含量（ $. P { < } 0 . 0 5 )$ 。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2fe6c9b58963ea489375029d2aaa1c9e855a34efb6db95e15ae27aee0be0e09a.jpg",
+        "table_caption": [
+            "表6妊娠后期饲粮中添加HWG对母猪血清中氨基酸含量的影响",
+            "[able 6Effects of dietary HWG in late pregnancy on serum amino acid contents of sowsnmol "
+        ],
+        "table_footnote": [
+            "如表7所示，与对照组相比，饲粮中添加 $1 \\% \\mathrm { H W G }$ 显著提高了脐带血清中组氨酸、异"
+        ],
+        "table_body": "<html><body><table><tr><td>项目</td><td colspan=\"3\">HWG水平 HWGlevel/%</td></tr><tr><td>Items</td><td>0</td><td>1</td><td>2</td></tr><tr><td>丙氨酸 Ala</td><td>594±31</td><td>559±38</td><td>553±34</td></tr><tr><td>精氨酸 Arg</td><td>324±16</td><td>352±13</td><td>360±25</td></tr><tr><td>天冬氨酸Asp</td><td>13±1</td><td>13±0</td><td>12±1</td></tr><tr><td>天冬酰胺 Asn</td><td>61±3a</td><td>82±8b</td><td>82±6b</td></tr><tr><td>谷氨酸 Glu</td><td>143±12</td><td>153±5</td><td>144±9</td></tr><tr><td>谷氨酰胺Gln</td><td>377±25</td><td>435±27</td><td>435±18</td></tr><tr><td>甘氨酸 Gly</td><td>1 434±54a</td><td>1 255±30b</td><td>1 137±57b</td></tr><tr><td>组氨酸His</td><td>78±5a</td><td>107±10b</td><td>110±5b</td></tr><tr><td>异亮氨酸 IIe</td><td>121±6a</td><td>129±6ab</td><td>142±7b</td></tr><tr><td>亮氨酸Leu</td><td>235±10</td><td>264±11</td><td>266±21</td></tr><tr><td>赖氨酸Lys</td><td>176±15</td><td>193±22</td><td>202±6</td></tr><tr><td>蛋氨酸 Met</td><td>51±3</td><td>55±4</td><td>52±4</td></tr><tr><td>苯丙氨酸 Phe</td><td>112±6</td><td>123±5</td><td>133±9</td></tr><tr><td>丝氨酸 Ser</td><td>195±9</td><td>198±6</td><td>184±13</td></tr><tr><td>苏氨酸Thr</td><td>192±6a</td><td>190±6a</td><td>214±7b</td></tr><tr><td>色氨酸Trp</td><td>63±4</td><td>76±5</td><td>63±5</td></tr><tr><td>酪氨酸Tyr</td><td>149±6</td><td>174±10</td><td>161±13</td></tr><tr><td>氨酸Val</td><td>235±8a</td><td>273±14b</td><td>267±14ab</td></tr><tr><td>β-丙氨酸 β-Ala</td><td>60±6</td><td>73±7</td><td>64±7</td></tr><tr><td>瓜氨酸Cit</td><td>121±8</td><td>136±10</td><td>136±12</td></tr><tr><td>鸟氨酸Orm</td><td>137±8a</td><td>179±17b</td><td>169±11b</td></tr><tr><td>牛磺酸 Tau</td><td>110±6</td><td>121±11</td><td>96±9</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "亮氨酸、亮氨酸、苯丙氨酸和酪氨酸含量（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 .$ )；饲粮中添加 $2 \\% \\mathrm { { H W G } }$ 显著提高了脐带血清中精氨酸、谷氨酸、谷氨酰胺、甘氨酸、组氨酸、异亮氨酸、亮氨酸、蛋氨酸、苯丙氨酸、丝氨酸、苏氨酸、色氨酸、酪氨酸和氨酸含量（ $_ { , P < 0 . 0 5 ) }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f4dcd6dce4b692b95b70f7dc7c8fa93378ee56703c594dbd6006a94f014c3160.jpg",
+        "table_caption": [
+            "表7妊娠后期饲粮中添加HWG对脐带血清中氨基酸的影响",
+            "Table 7Effects of dietary HWG in late pregnancy on serum amino acid contents of umbilical cord nmol/mL "
+        ],
+        "table_footnote": [
+            "2.4妊娠后期饲粮中添加HWG对胎盘组织营养物质转运相关基因表达的影响"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目</td><td colspan=\"3\">HWG 水平 HWG level/%</td></tr><tr><td>0</td><td>1</td><td>2</td></tr><tr><td>Items 丙氨酸 Ala</td><td>1 222±127</td><td>1 187±177</td><td>1 023±86</td></tr><tr><td>精氨酸Arg</td><td>108±12a</td><td>136±8ab</td><td>148±10b</td></tr><tr><td>天冬氨酸 Asp</td><td>33±1</td><td>34±4</td><td>34±3</td></tr><tr><td>天冬酰胺 Asn</td><td>61±5</td><td>62±12</td><td>81±11</td></tr><tr><td>谷氨酸 Glu</td><td>205±39a</td><td>270±20ab</td><td>329±44b</td></tr><tr><td>谷氨酰胺Gln</td><td>440±33a</td><td>564±64ab</td><td>628±75b</td></tr><tr><td>甘氨酸 Gly</td><td>687±74a</td><td>743±67ab</td><td>1 088±151b</td></tr><tr><td>组氨酸 His</td><td>46±2a</td><td>73±10b</td><td>93±16b</td></tr><tr><td>异亮氨酸IIe</td><td>49±3a</td><td>67±7b</td><td>114±17b</td></tr><tr><td>亮氨酸 Leu</td><td>101±9a</td><td>144±14b</td><td>202±24b</td></tr><tr><td>赖氨酸Lys</td><td>251±15</td><td>268±32</td><td>285±25</td></tr><tr><td>蛋氨酸 Met</td><td>16±1a</td><td>28±8ab</td><td>44±7b</td></tr><tr><td>苯丙氨酸Phe</td><td>62±3a</td><td>95±13b</td><td>114±13b</td></tr><tr><td>丝氨酸 Ser</td><td>228±3a</td><td>238±33ab</td><td>318±40b</td></tr><tr><td>苏氨酸 Thr</td><td>167±12a</td><td>165±22a</td><td>251±33b</td></tr><tr><td>色氨酸Trp</td><td>25±2a</td><td>30±2a</td><td>40±3b</td></tr><tr><td>酪氨酸Tyr</td><td>76±6a</td><td>103±9b</td><td>143±10c</td></tr><tr><td>氨酸Val</td><td>267±19a</td><td>267±13a</td><td>326±18b</td></tr><tr><td>β-丙氨酸 β-Ala</td><td>39±7</td><td>52±8</td><td>41±5</td></tr><tr><td>瓜氨酸 Cit</td><td></td><td>63±4</td><td>62±2</td></tr><tr><td>鸟氨酸Om</td><td>66±3</td><td>64±5</td><td>99±18</td></tr><tr><td>牛磺酸Tau</td><td>74±8 121±15</td><td>159±20</td><td>158±13</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "由图1可知，与对照组相比，饲粮中添加 $1 \\% \\mathrm { { H W G } }$ 显著提高了胎盘组织中氨基酸转运载体中性氨基酸转运载体2（SNAT2）、谷氨酸转运载体3（EAAT3）、碱性氨基酸转运载体2（LAT2）和葡萄糖转运载体2（GLUT2）的mRNA相对表达量（ $\\scriptstyle P < 0 . 0 5 )$ ；饲粮中添加 $2 \\%$ 显著HWG 提高了胎盘组织中性氨基酸转运载体1（SNAT1）、SNAT2、EAAT3、 $L A T 2$ ，小肽转运载体1(PepT1）、小肽转运载体 2（PepT2)和葡萄糖转运载体葡萄糖转运载体1（GLUT1)、GLUT2、葡萄糖转运载体3（GLUT3）的mRNA相对表达量（ $_ { P < 0 . 0 5 ) }$ 。",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fd9082f0945027ca0d6940c77e8dac72468eb4506f782e43318f7ff3d265eb43.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "数据柱形标注不同小写字母表示差异显著（ $\\scriptstyle \\cdot { \\cal P } { < } 0 . 0 5 ,$ ）。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Value columns with different small letters mean significant difference $( P { < } 0 . 0 5 )$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "图1妊娠后期饲粮中添加HWG 对母猪胎盘组织营养物质转运载体相关基因表达的影响 Fig.1Effects of dietary HWG in late pregnancy on placental tissue nutrient transporters related gene expression of sows ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "妊娠期间胎儿的营养物质主要决定于母体的营养状况和胎盘转运营养物质的效率[15]。在实际养猪生产中常通过限饲的方法减少母猪在妊娠期体脂过度积累，同时也在一定程度上限制了胎儿的营养物质供给和生长发育。胎儿 $60 \\%$ 的体增重均发生在妊娠后期，尤其是妊娠第90\\~114天，限饲对胎儿的生长发育带来的影响在这一阶段可能更为明显[16]。蛋白质营养在调节胎儿生长、发育和存活中起着重要作用[17]。蛋白质缺乏或不平衡可能引起胎儿体增重减慢，均匀度降低，增加宫内发育迟缓（IUGR）仔猪的发生率[18]。HWG 是一种天然的植物源性蛋白质，富含谷氨酰胺、谷氨酸、亮氨酸和小肽。HWG 对胎儿生长发育的影响目前还未见报道。本试验在妊娠后期母猪饲粮中添加HWG，探讨其对胎儿生长发育和繁殖性能的影响，研究结果发现，饲粮中添加2%HWG 显著提高了仔猪初生窝重和初生活仔窝重，这与前人研究在母猪饲粮中添加谷氨酰胺提高初生活仔窝重和平均初生重，降低窝内变异系数的结果[6,19]相一致。本试验检测了母猪和脐带血清中游离氨基酸，结果发现饲粮中添加 $1 \\%$ 和 $2 \\% \\mathrm { { H W G } }$ 显著提高了母猪血清中天冬氨酸、组氨酸和鸟氨酸含量，显著降低了甘氨酸含量；饲粮中添加 $1 \\% \\mathrm { H W G }$ 显著提高了脐带血清中组氨酸、异亮氨酸、亮氨酸、苯丙氨酸和酪氨酸含量；饲粮中添加 2%HWG 显著提高了脐带血清中精氨酸、谷氨酸、谷氨酸氨、甘氨酸、组氨酸、异亮氨酸、亮氨酸、蛋氨酸、苯丙氨酸、苏氨酸、酪氨酸和氨酸含量。这提示HWG添加可能通过促进氨基酸更多转运到脐带血，促进胎儿的生长发育。血清生化指标检测发现，饲粮中添加HWG 对母猪血清中总蛋白、白蛋白、葡萄糖、尿素氮含量和碱性磷酸酶活性无显著影响，但显著降低了血氨含量；饲粮中添加2%HWG 显著提高了脐带血清中白蛋白、葡萄糖含量和碱性磷酸酶活性，减少了血氨的生成，提示HWG 提高了仔猪的营养供给和蛋白质的利用效率。这可能是HWG 提高了仔猪平均初生重的原因之一[5]。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "胎盘是母体血液中营养物质转运到胎儿的主要器官，胎盘组织中氨基酸转运载体和葡萄糖转运载体是调节胎儿营养物质供给的重要介质[20-21]。HWG 可提高脐带血清中氨基酸和葡萄糖的含量[16],本试验进一步检测了妊娠后期胎盘组织中重要的氨基酸和葡萄糖转运载体的mRNA表达量，结果发现，饲粮中添加2%HWG 显著提高了母猪胎盘组织的氨基酸转运载体 SNAT1、SNAT2、EAAT3、LAT2和小肽转运载体 PepT1、PepT2以及葡萄糖转运载体GLUT1、GLUT2、GLUT3的mRNA表达量。葡萄糖是胎儿和胎盘的主要能量底物，氨基酸可以通过哺乳动物雷帕霉素靶蛋白（mTOR）途径促进蛋白质的合成，调节胎儿的生长发育[22]。这提示 HWG 可能通过调节胎盘组织中氨基酸和葡萄糖的转运，改善母体到胎儿的营养物质运输。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "以上结果表明，妊娠后期母猪饲粮中添加HWG 可以提高母猪血清中氨基酸含量，调节胎盘组织中氨基酸和葡萄糖转运载体的表达，从而改善胎儿营养物质供给和蛋白质利用效率，促进胎儿的生长发育，进而提高仔猪初生窝重、初生活仔窝重。我国小麦蛋白资源丰富，通过酶解工艺的优化生产优质的水解蛋白，有助于实现已有蛋白质资源高效利用，减少我国养猪业对进口大豆的依存度，促进养猪业的可持续发展。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "母猪妊娠后期饲粮中添加HWG可提高胎盘组织中营养物质转运相关基因表达的表达，促进母体营养物质的转运效率和胎猪的生长发育，提高仔猪初生窝重和初生活仔窝重。参考文献：[1]WIESER H.Chemistry of gluten proteins[J].Food Microbiology,2007,24(2):115-119.[2] 王延州.小麦蛋白谷氨酰胺肽制备及对肠粘膜损伤修复效果的研究[D].硕士学位论文.北",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "京：中国农业科学院,2014:13-16.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[3] DE SANTIS M A,GIULIANI M M,GIUZIO L,et al.Differences in gluten protein composition between old and modern durum wheat genotypes in relation to 2Oth century breeding in Italy[J].European Journal of Agronomy,2017,87:19-29. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[4]何林玲.富含谷氨酰胺小麦水解蛋白的制备及其性质的研究[D].博士学位论文.武汉:武汉轻工大学,2015:40-49.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[5]WANG X Q,FENG Y,SHU G,et al.Effect of dietary supplementation with hydrolyzed wheat gluten on growth performance,cell immunity and serum biochemical indices of weaned piglets (Sus scrofa)[J].Agricultural Sciences in China,2011,10(6):938-945. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[6] WU G,BAZER F W,JOHNSON G A,et al.Triennial growth symposium:important roles for $L$ -glutamine in swine nutrition and production[J].Journal of Animal Science,2011,89(7):2017-2030. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[7] WANG H,ZHANG C,WU G Y,et al.Glutamine enhances tight junction protein expression and modulates corticotropin-releasing factor signaling in the jejunum of weanling piglets[J].The Journal of Nutrition,2015,145(1):25-31. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[8] WANG B,WU Z L,JI Y,et al. $L$ -glutamine enhances tight junction integrity by activating CaMK kinase 2-AMP-activated protein kinase signaling in intestinal porcine epithelial cells[J].The Journal of Nutrition,2016,146(3):501-508. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[9]JIAO N,WU Z L,JI Y,et al] $L$ -glutamate enhances barrier and antioxidative functions in intestinal porcine epithelial cells[J].The Journal of Nutrition,2015,145(10):2258-2264. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[10] SUN Y L,WU Z L,LI W,et al.Dietary $L$ -leucine supplementation enhances intestinal development in suckling piglets[J].Amino Acids,2015,47(8):1517-1525. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[11]王立,戈蕾.小麦水解蛋白的生产及应用现状[J].饲料与畜牧,2016(10):47-49.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12]原伟伟,王井亮,代兵,等.小麦水解蛋白对早期断奶仔猪生产性能及肠道健康的影响[J].  \n畜牧与兽医,2017,49(7):23-27.",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[13]BLASCO M,FONDEVILA M,GUADA JA.Inclusion of wheat gluten as a protein source in diets for weaned pigs[J].Animal Research,2005,54(4):297-306. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[14]LIVAK K J,SCHMITTGEN T D.Analysis of relative gene expression data using real-time quantitative PCR and the $2 ^ { - \\Delta \\Delta \\mathrm { C T } }$ method[J].Method,2001,25(4):402-408. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[15] BRETT K E,FERRARO Z M,YOCKELL-LELIEVRE J,et al.Maternal-fetal nutrient transport in pregnancy pathologies:the role of the placenta[J].International Journal of Molecular Sciences,2014,15(9):16153-16185. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[16]LAGER S,POWELL T L.Regulation of nutrient transport across the placenta[J].Journal of Pregnancy,2012,2012:179827. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[17]WU G Y,BAZER F W,CUDD T A,et al.Maternal nutrition and fetal development[J].The Journal ofNutrition,2004,134(9):2169-2172. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[18]MCPHERSON R L,JI F,WU G,et al.Growth and compositional changes of fetal tissues in pigs[J].Journal of Animal Science,2004,82(9):2534-2540. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[19]朱玉华.谷氨酰胺通过抑制microRNA-29a和细胞自噬调控宫内生长受限仔猪肠道发育的研究[D].博士学位论文.北京:中国农业大学,2017:84-104.",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[20]PANTHAM P,ROSARIO F J,NIJLAND M,et al.Reduced placental amino acid transport in response to maternal nutrient restriction in the baboon[J].American Journal of Physiology : Regulatory,Integrative and Comparative Physiology,2015,309(7):R740-R746. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[21] ILLSLEY N P.Current topic:glucose transporters in the human placenta[J].Placenta,2000,21(1):14-22. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[22] WU G Y.Functional amino acids in growth,reproduction,and health[J].Advances in Nutrition,2010,1(1):31-37. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Effects of Dietary Hydrolyzed Wheat Gluten in Late Pregnancy on Reproductive Performance, Serum Biochemical Parameters and Amino Acid Contents,and Placental Tissue Nutrient Transporters Related Gene Expression of Sows ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "KOU JiaolLIANG Haiwei1LIU Ning]DAI Zhaolai1LI Ju²PANJunliang² ZHU Fangzhou³WU Guoyao1.4WU Zhenlong1\\* ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1. College of Animal Science and Technology, China Agricultural University, Beijing 100193, ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "China; 2. Henan Yinfa Animal Husbandry Co.,Ltd., Zhengzhou 451100, China; 3. Zhengzhou Newwill Nutrition Technology Co.,Ltd., Zhengzhou 450100, China; 4.Department of Animal Science, Texas A & M University,College Station 77843, USA) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment was conducted to investigate the effects of dietary hydrolyzed wheat gluten (HWG) in late pregnancy on reproductive performance, serum biochemical parameters and amino acid contents, and placental tissue nutrient transporters related gene expression of sows. Thirty-three gestation sows (3 to 4 parities) with similar expected date of childbirth were randomly allocated to 3 groups with 11 replicates per group and 1 sow per replicate. Sows in the control group were fed a basal diet, and the others in the experimental groups were fed the basal diets supplemented with $1 \\%$ and $2 \\%$ HWG during day 90 to 114 of pregnancy, respectively. All diets were isonitrogenous and isocaloric. The results showed as follows: 1） compared with the control group, dietary $1 \\%$ HWG supplementation significantly increased the average birth weight of all piglets born alive of piglets $( P { < } 0 . 0 5 )$ ，dietary $1 \\%$ HWG supplementation significantly increased the total litter weight at birth for all piglets born and total litter weight at birth for all live piglets $( P { < } 0 . 0 5 )$ . 2) Compared with the control group, dietary $1 \\%$ and $2 \\%$ HWG supplementation significantly increased the contents of asparagine, histidine and ornithine in serum of sows, and contents of histidine, isoleucine,leucine, phenylalanine and tyrosine in serum ofumbilical cord on day 107 of pregnancy $( P { < } 0 . 0 5 )$ , whereas, significantly decreased the contents of ammonia, glycine in serum of sows and umbilical cord serum ammonia content $( P { < } 0 . 0 5 )$ ； dietary $1 \\%$ HWG supplementation significantly increased the serum valine content of sows $( P { < } 0 . 0 5 )$ ， dietary $2 \\%$ （20 HWG supplementation significantly increased the contents of isoleucine and threonine in serum of sows， and contents of arginine， glusate， glutamine， glycine，methionine, serine， threonine, tryptophan, valine, albumin, glucose and alkaline phosphatase activity in serum of umbilical cord （20 $( P { < } 0 . 0 5 )$ . 3） Compared with the control group, dietary $1 \\%$ HWG supplementation significantly increased the mRNA relative expressions of sodium-dependent neutral amino acid transporter （ SNAT） 2, excitatoryamino acid transporter 3（EAAT3）, $L$ -type amino acid transporter 2 （LAT2）and glucose transporter（GLUT） 2 in placental tissue $( P { < } 0 . 0 5 )$ ， dietary $2 \\%$ HWG supplementation significantly increased the mRNA relative expressions of SNAT1, SNAT2, EAAT3, LAT2，peptide transporter (PepT)1， PepT2，GLUT1，GLUT2 and GLUT3 in placental tissue （20 $( P { < } 0 . 0 5 )$ . In conclusion, dietary HWG in late pregnancy can improve the placental tissue nutrient transporters related gene expression， promote the efficiency of transport efficiency of maternal nutrients and the growth and development of fetal pigs,improve the total liter weight at birth for all piglets born. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: hydrolyzed wheat gluten; gestation sows; reproductive performance; serum biochemical parameters;amino acids;placenta ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    }
+]

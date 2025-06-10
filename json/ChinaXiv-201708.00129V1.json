@@ -1,0 +1,765 @@
+[
+    {
+        "type": "text",
+        "text": "Post-ACME2013 CP-violation in Higgs Physics and Electroweak Baryogenesis ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ligong Bian,1 Tao Liu,² and Jing Shu1 （20 $^ { 1 }$ State Key Laboratory of Theoretical Physics and Kavli Institute for Theoretical Physics China, Institute of Theoretical Physics，Chinese Academy of Sciences，Beijing 100190,P.R. China $^ { \\mathcal { Z } }$ Department of Physics, The Hong Kong University of Science and Technology,Clear Water Bay，Kowloon, Hong Kong ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We present a class of cancellation mechanisms to suppress the total contributions of Barr-Zee diagrams to the electron electric dipole moment (eEDM).This class of mechanisms are of particular significance after the new eEDM upper limit,which strongly constrains the alowed magnitude of CP-violation in Higgs couplings and hence the feasibility of electroweak baryogenesis (EWBG), were released by the ACME collaboration in 2013.We point out: if both the CP-odd Higgs-photonphoton ( $Z$ boson） and the CP-odd Higgs-electron-positron couplings are turned on,a cancellation may occur either between the contributions of a CP-mixing Higgs boson，with the other Higgs bosons being decoupled,or between the contributions of a CP-even and a CP-odd Higgs bosons. With the assistance of the cancellation mechanisms，a large CP-phase in Higgs couplings with viable electroweak baryogenesis (EWBG） is still allowed. The reopened parameter regions would be probed by the future neutron, mercury EDM measurements,and direct measurements of Higgs CP-properties at the LHC and future colliders. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The baryon asymmetry in the Universe(BAU) nowadays, i.e., [1, 2] ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { n _ { b } } { s } \\approx ( 0 . 7 - 0 . 9 ) \\times 1 0 ^ { - 1 0 } \\neq 0\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "has puzzled people for more than half a century. Here $s$ is entropy density of the Universe. Among various dynamical mechanisms to solve this puzzle,electroweak baryogenesis (EWBG) falls in the most popular class, due to its potential testability at the Large Hadron Collider and in the other experiments.A generic feature of the EWBG is that the CP phases employed to generate the cosmic baryon asymmetry need to enter the couplings between the Higgs sector and particles which either exist in the Standard Model (SM) or are introduced in new physics,no matter the CP-phases are flavor-diagonal, offdiagonal [3],or flavor-decoupled.Otherwise,these CPphases are decoupled from electroweak phase transition (EWPT) and the EWBG will never be implemented. The measurement of the Higgs CP-properties therefore provides important information to solve the BAU puzzle. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motivated by this, the CP-properties of the Higgs boson discovered in 2O12 [4] have been extensively studied by both theorists [5-9] and experimental groups [11] since its discovery [4],by using a method of direct measurements at the LHC.Given the limited statistics,however,the sensitivity of the LHC at this stage is still low. On the other hand,fast progress has been made in indirect measurements.Using the polar molecule thorium monoxide (ThO),the ACME collaboration reported an upper limit on the eEDM recently [12] [56] ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n| d _ { e } | < 8 . 7 \\times 1 0 ^ { - 2 9 } e \\mathrm { c m }\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "at $9 0 \\%$ confidence level, an order of magnitude stronger than the previous best limit. This limit severely constrains the allowed magnitude of CP-phases in the Higgs couplings [6-9] via Barr-Zee diagrams,causing a tension between the observation and the CP-phase required for successfully implementing EWBG (e.g.， see [10] where the expected projection of the eEDM bounds to the EWBG in the MSSM was studied.) [57]. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this letter we point out that in these studies a crucial effect was more or less ignored,which can dramatically change the conclusions.This is due to the fact that generally both the CP-odd Higgs-photon-photon and the CP-odd Higgs-electron-positron couplings can be or tend to be turned on. These two couplings contribute to the eEDM separately and simultaneously. If there exists a cancellation between their contributions (as we will show below in two different contexts: the type-II two Higgs Doublet Model (2HDM)where the tree-level CP-phase arises from the pure Higgs sector,and the Minimal Supersymmetric Standard Model (MSSM) where the treelevel CP-phase arises from Higgs-superparticle interaction sectors.),even if the magnitudes of the CP-phases in Higgs couplings are large,the current ACME bound can be well-satisfied.In such a case,EWBG can still be successfully implemented. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "GENERAL ANALYSIS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In an effective Lagrangian for a Higgs sector, the relevant operators are given by: ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\mathcal L } _ { \\mathrm { e f f } } ~ = ~ \\frac { m _ { f } } v \\sum _ { i } h _ { i } \\bar { f } \\left( c _ { f } ^ { i } + i \\tilde { c } _ { f } ^ { i } \\gamma ^ { 5 } \\right) f } } \\\\ { { ~ + \\frac \\alpha { \\pi v } \\sum _ { i } h _ { i } \\left( c _ { \\gamma } ^ { i } F ^ { \\mu \\nu } V _ { \\mu \\nu } + \\tilde { c } _ { \\gamma } ^ { i } F ^ { \\mu \\nu } \\tilde { V } _ { \\mu \\nu } \\right) , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "where $F _ { \\mu \\nu }$ is feld strength of photon，with $\\tilde { F } _ { \\mu \\nu } \\equiv$ $( 1 / 2 ) \\epsilon _ { \\mu \\nu \\rho \\sigma } F ^ { \\rho \\sigma }$ ， $V _ { \\mu \\nu }$ is field strength of photon and $Z$ boson,with Vv=(/2)eμvVe,nd0= ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "defines the CP-phase of the Yukawa couplings. These op erators can be inserted in the Barr-Zee EDM diagrams. Integrating out the internal degrees of freedoms,we have ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal { L } } _ { \\mathrm { e f f } } ~ = ~ - i d _ { e } { \\bar { e } } \\sigma ^ { \\mu \\nu } \\gamma _ { 5 } e \\partial _ { \\mu } A _ { \\nu } ~ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with its contribution to the eEDM given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\frac { d _ { e } } { e } } \\ = \\ { \\frac { \\alpha m _ { e } } { 4 \\pi ^ { 3 } v ^ { 2 } } } \\sum _ { i } } } } \\\\ { { { \\left[ - c _ { e } ^ { i } \\tilde { c } _ { \\gamma } ^ { i } \\log \\left( { \\frac { \\tilde { \\Lambda } _ { \\mathrm { U V } } ^ { i 2 } } { m _ { h _ { i } } ^ { 2 } } } \\right) + \\tilde { c } _ { e } ^ { i } c _ { \\gamma } ^ { i } \\log \\left( { \\frac { \\Lambda _ { \\mathrm { U V } } ^ { i 2 } } { m _ { h _ { i } } ^ { 2 } } } \\right) \\right] . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $v = 2 4 6$ GeV is the normalized vacuum expectation value（VEV） of the Higgs fields,and $\\Lambda _ { \\mathrm { U V } } ^ { i } \\ ( \\tilde { \\Lambda } _ { \\mathrm { U V } } ^ { i } )$ is the relevant scale for the $h _ { i } F ^ { \\mu \\nu } V _ { \\mu \\nu }$ $( h _ { i } F ^ { \\mu \\nu } V _ { \\mu \\nu } )$ operator. It is clear that the Barr-Zee contributions depend on not only the CP-odd Higgs di-photon coupling $\\tilde { c } _ { \\gamma } ^ { i }$ ，but also the CP-even one $c _ { \\gamma } ^ { i }$ if the Higgs bosons have a CP-odd coupling with electrons ( $\\tilde { c } _ { e } ^ { i } \\neq 0$ ） ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5087e70b347340588c2dc06f4b39da8ae2c8ad13a4a19622f6e54f98fceb5f7.jpg",
+        "img_caption": [
+            "FIG.1:Two cancellation mechanisms of the Bar-Zee contributions to the eEDM.Upper: cancellation occurs between the contributions of a CP-mixing Higgs boson. Bottom: cancellation occurs between the contributions of a CP-even and a CP-odd Higgs bosons. "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ACME measurement greatly improved the current bound on the eEDM, leading to ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\sum _ { i } \\left[ - c _ { e } ^ { i } \\tilde { c } _ { \\gamma } ^ { i } \\log \\left( \\frac { \\tilde { \\Lambda } _ { \\mathrm { U V } } ^ { i 2 } } { m _ { h _ { i } } ^ { 2 } } \\right) + \\tilde { c } _ { e } ^ { i } c _ { \\gamma } ^ { i } \\log \\left( \\frac { \\Lambda _ { \\mathrm { U V } } ^ { i 2 } } { m _ { h _ { i } } ^ { 2 } } \\right) \\right] < 0 . 1 4\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This strongly constrains the allowed CP-violation in a single Higgs coupling,e.g., in the case with one (SM-like) Higgs only and meanwhile $\\tilde { c } _ { e } = 0$ [13],unless this Higgs boson is decoupled.However，if a cancellation occurs among these inference terms，CP symmetry is allowed to be significantly violated,without contradicting with the current eEDM bound. Below we will use the type ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "II 2HDM and the MSSM to show two different cancellation mechanisms,both of which are mainly motivated byEWBG:(1) cancellation occurs between the contributions of a CP-mixing Higgs boson,while the other Higgs bosons are decoupled (see the upper diagrams in Fig.1); and(2） cancellation occurs between the contributions of a CP-even and a CP-odd Higgs bosons (see the bottom diagrams in Fig. 1). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TYPEII2HDM ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As an illustration,we consider type II 2HDM with a softly $Z _ { 2 }$ symmetry ( $\\phi _ { 1 }  - \\phi _ { 1 }$ and $\\phi _ { 2 }  \\phi _ { 2 }$ ）[14].Its tree-level Higgs potential is given by: ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle V = \\frac { \\lambda _ { 1 } } { 2 } ( \\phi _ { 1 } ^ { \\dagger } \\phi _ { 1 } ) ^ { 2 } + \\frac { \\lambda _ { 2 } } { 2 } ( \\phi _ { 2 } ^ { \\dagger } \\phi _ { 2 } ) ^ { 2 } + \\lambda _ { 3 } ( \\phi _ { 1 } ^ { \\dagger } \\phi _ { 1 } ) ( \\phi _ { 2 } ^ { \\dagger } \\phi _ { 2 } ) } \\qquad ( 7 ) } }  \\\\ { { { \\displaystyle \\quad + \\lambda _ { 4 } ( \\phi _ { 1 } ^ { \\dagger } \\phi _ { 2 } ) ( \\phi _ { 2 } ^ { \\dagger } \\phi _ { 1 } ) + \\frac { 1 } { 2 } \\left[ \\lambda _ { 5 } ( \\phi _ { 1 } ^ { \\dagger } \\phi _ { 2 } ) ^ { 2 } + \\mathrm { h . c . } \\right] } } } \\\\ { { { \\displaystyle \\quad - \\frac { 1 } { 2 } \\left\\{ m _ { 1 1 } ^ { 2 } ( \\phi _ { 1 } ^ { \\dagger } \\phi _ { 1 } ) + \\left[ m _ { 1 2 } ^ { 2 } ( \\phi _ { 1 } ^ { \\dagger } \\phi _ { 2 } ) + \\mathrm { h . c . } \\right] + m _ { 2 2 } ^ { 2 } ( \\phi _ { 2 } ^ { \\dagger } \\phi _ { 2 } ) \\right\\} . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Here $m _ { 1 2 }$ and $\\lambda _ { 5 }$ are complex parameters.Their relative phase $\\mathrm { A r g } ( \\lambda _ { 5 } m _ { 1 2 } ^ { 4 * } )$ leads to CP violation in the Higgs sector. We take the convention that both Higgs doublets $\\phi _ { 1 , 2 }$ carry a hypercharge of one unit and that the general Higgs VEVs are ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left. \\phi _ { 1 } \\right. = \\left( \\begin{array} { c } { { 0 } } \\\\ { { v _ { 1 } } } \\end{array} \\right) , \\left. \\phi _ { 2 } \\right. = \\left( \\begin{array} { c } { { 0 } } \\\\ { { v _ { 2 } e ^ { i \\xi } } } \\end{array} \\right) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $\\sin ^ { 2 } \\beta = | v _ { 2 } | ^ { 2 } / ( | v _ { 1 } | ^ { 2 } + | v _ { 2 } | ^ { 2 } )$ ， $v _ { 1 } = v \\cos \\beta / \\sqrt { 2 }$ and $| v _ { 2 } | = v \\sin \\beta / \\sqrt { 2 }$ . Then the unitary matrix $R$ , defined to diagonalize the Higgs mass matrix M ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR \\mathcal { M } R ^ { \\mathrm { T } } = \\mathrm { d i a g } ( M _ { h _ { 1 } } ^ { 2 } , M _ { h _ { 2 } } ^ { 2 } , M _ { h _ { 3 } } ^ { 2 } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "in the mass engenstate $( h _ { 1 } , h _ { 2 } , h _ { 3 } )$ can be easily figured out，given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\nR = \\left( \\begin{array} { c c c } { { - s _ { \\alpha } c _ { \\alpha _ { b } } } } & { { c _ { \\alpha } c _ { \\alpha _ { b } } } } & { { s _ { \\alpha _ { b } } } } \\\\ { { s _ { \\alpha } s _ { \\alpha _ { b } } s _ { \\alpha _ { c } } - c _ { \\alpha } c _ { \\alpha _ { c } } } } & { { - s _ { \\alpha } c _ { \\alpha _ { c } } - c _ { \\alpha } s _ { \\alpha _ { b } } s _ { \\alpha _ { c } } } } & { { c _ { \\alpha _ { b } } s _ { \\alpha _ { c } } } } \\\\ { { s _ { \\alpha } s _ { \\alpha _ { b } } c _ { \\alpha _ { c } } + c _ { \\alpha } s _ { \\alpha _ { c } } } } & { { s _ { \\alpha } s _ { \\alpha _ { c } } - c _ { \\alpha } s _ { \\alpha _ { b } } c _ { \\alpha _ { c } } } } & { { c _ { \\alpha _ { b } } c _ { \\alpha _ { c } } } } \\end{array} \\right) 1 0 )\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "with $c _ { i } = \\cos \\alpha _ { i }$ ， $s _ { i } = \\sin \\alpha _ { i }$ . Here $\\alpha$ ， $\\alpha _ { b }$ ， $\\alpha _ { c }$ are mixing angles between two CP-even Higgs， the light CP-even and the CP-odd Higgs,and the heavy CP-even and the CP-odd Higgs,respectively. The angular range, beyond which $R$ is repeated,can be chosen as $0 < \\alpha \\le \\pi$ ， $- \\pi <$ $\\alpha _ { b } \\leq \\pi$ and $- \\pi / 2 < \\alpha _ { c } \\le \\pi / 2$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The tree-level $h _ { 1 }$ couplings rescaled by the SM values are given by ",
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { c _ { t } ~ = ~ \\displaystyle \\frac { \\cos \\alpha \\cos \\alpha _ { b } } { \\sin \\beta } , ~ } } & { { c _ { b } = c _ { e } = - \\displaystyle \\frac { \\sin \\alpha \\cos \\alpha _ { b } } { \\cos \\beta } , } } \\\\ { { \\tilde { c } _ { t } ~ = ~ - \\cot \\beta \\sin \\alpha _ { b } , ~ } } & { { \\tilde { c } _ { b } = \\tilde { c } _ { e } = - \\tan \\beta \\sin \\alpha _ { b } ~ , } } \\\\ { { a _ { V } ~ = ~ \\cos \\alpha _ { b } \\sin ( \\beta - \\alpha ) } } & { { ~ ( - \\cos \\alpha _ { b } \\sin ( \\beta - \\alpha ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "here $h _ { 1 }$ is SM-like and $a _ { V }$ represents the $h _ { 1 } W W$ and $h _ { 1 } Z Z$ couplings. The CP-phase of the top Yukawa coupling $\\theta _ { t }$ is given by ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\tan \\theta _ { t } = - \\frac { \\cos \\beta } { \\cos \\alpha } \\tan \\alpha _ { b } \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These tree-level effective coupling further contribute to $c _ { \\gamma }$ and $\\bar { c } _ { \\gamma }$ at loop level ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { } } & { { } } & { { c _ { \\gamma } ^ { t } ~ = ~ Q _ { f } ^ { 2 } c _ { f } / 2 = 2 c _ { t } / 9 } } \\\\ { { } } & { { } } & { { \\tilde { c } _ { \\gamma } ^ { t } ~ = ~ - 3 Q _ { f } ^ { 2 } \\tilde { c } _ { f } / 4 = - \\tilde { c } _ { t } / 3 } } \\\\ { { } } & { { } } & { { c _ { \\gamma } ^ { W } ~ = ~ - 7 a _ { V } / 8 ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note that the signs of $c _ { \\gamma } ^ { i }$ or $\\tilde { c } _ { \\gamma } ^ { i }$ are derived in the convention of Eq.(3).To achieve the cancellation indicated by Eq. (5), we have $c _ { \\gamma } ^ { t , W } \\widetilde { c } _ { e } / \\widetilde { c } _ { \\gamma } ^ { t } c _ { e } \\sim \\tan \\beta \\sim 1$ ： ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this setup,the lightest Higgs boson $h _ { 1 }$ leads to a leading-order contribution to the eEDM [15-17], ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\displaystyle \\left[ \\frac { d _ { e } } { e } \\right] _ { t } ^ { h _ { 1 } \\gamma \\gamma } = \\ \\frac { - 1 6 \\sqrt { 2 } \\alpha G _ { F } m _ { e } } { 3 ( 4 \\pi ) ^ { 3 } } \\left( f \\left( z _ { t } \\right) \\tilde { c } _ { e } c _ { t } + g \\left( z _ { t } \\right) \\tilde { c } _ { t } c _ { e } \\right) , } } \\\\ { { \\displaystyle \\left[ \\frac { d _ { e } } { e } \\right] _ { W } ^ { h _ { 1 } \\gamma \\gamma } = \\ - \\frac { 2 \\sqrt { 2 } \\alpha G _ { F } m _ { e } } { ( 4 \\pi ) ^ { 3 } } \\left[ 3 f \\left( z _ { W } \\right) + 5 g \\left( z _ { W } \\right) \\right] a _ { V } \\tilde { c } _ { e } ( 1 } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "viatheBa-Zeediagrams18]here $z _ { t } ~ = ~ m _ { t } ^ { 2 } / m _ { h _ { 1 } } ^ { 2 }$ （20 $z _ { W } = m _ { W } ^ { 2 } / m _ { h _ { \\perp } } ^ { 2 }$ and the loop functions $f ( z )$ and $g ( z )$ are given in [18]. Numerically,we have $f ( z _ { t } ) = 1 . 0$ and （204号 $g ( z _ { t } ) = 1 . 4$ .These quantities depend on three free parameters $\\alpha$ ， $\\alpha _ { b }$ and $\\beta$ .For simplicity we will work in the alignment limit $\\beta = \\alpha + \\pi / 2$ ,where the free parameters are reduced to $\\beta$ ， $\\alpha _ { b }$ ，with $\\tan \\theta _ { t } = - \\cot \\beta \\tan \\alpha _ { b }$ ， and the 125 GeV Higgs boson is SM-like,if there is no CP-violation. The overall contribution to the eEDM is then ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\left[ \\frac { d _ { e } } { e } \\right] ^ { h _ { 1 } \\gamma \\gamma } \\ = \\ \\frac { 2 \\sqrt 2 \\alpha G _ { F } m _ { e } } { ( 4 \\pi ) ^ { 3 } } \\left[ f ^ { \\prime } \\left( z _ { t } , \\tan \\beta \\right) - g ^ { \\prime } \\left( z _ { W } , \\tan \\beta \\right) \\right] } \\\\ { \\sin \\alpha _ { b } \\cos \\alpha _ { b } , \\ ~ ( 1 5 ) } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "with $f ^ { \\prime } ( z , x ) = - 8 ( x f ( z ) + g ( z ) / x ) / 3 \\rangle$ and $g ^ { \\prime } ( z , x ) =$ $( 3 f ( z ) + 5 g ( z ) ) x$ . The contributions from neutral Higgs with the $Z$ gauge boson and charged Higgs with $W$ gauge boson as the propagator are generally smaller, so we neglect them in the calculation [19]. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d00f207a3cd005338c20696b63a09985f14ef1101c641ccb4a922959be4e15d.jpg",
+        "table_caption": [
+            "TABLE I: The LHC data used for the fitting. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td colspan=\"2\"></td><td colspan=\"2\">WW *</td><td colspan=\"2\">ZZ*</td></tr><tr><td>ATLAS</td><td colspan=\"2\">1.17±0.27 [20]</td><td colspan=\"2\">0.99±0.38 [22] 0。</td><td colspan=\"2\">1.440.40 [24]</td></tr><tr><td>CMS</td><td colspan=\"2\">1.14028 [21]</td><td>0.72018[23]</td><td></td><td>0.930.25[25]</td><td></td></tr><tr><td></td><td colspan=\"2\">bb</td><td colspan=\"2\">TT</td><td colspan=\"2\"></td></tr><tr><td>ATLAS</td><td>0.52 ±0.40</td><td>[26]</td><td>1.4±0.4 [28]</td><td></td><td colspan=\"2\"></td></tr><tr><td>CMS</td><td>1.15 ± 0.62</td><td>[27]</td><td>0.78 ±0.27</td><td>[29]</td><td colspan=\"2\"></td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc460c98508471ca90a6194a61dc770bc1f849af73548a5e980a85350b98f5fc.jpg",
+        "img_caption": [
+            "FIG.2:The allowed parameter region $\\left| \\alpha _ { b } \\right|$ versus $\\tan \\beta$ from the Higgs global fits and EDM experiments. The grey,yellow, green region are the 1,2,3 $\\sigma$ allowed region for the LHC Higgs fits.The left and right region bounded by the black dashed lines and the upper region bounded by the green solid line are excluded by the eEDM and neutron EDM experiment at $9 0 \\%$ C.L.The constraint from Mercury experiment [30] is weaker than the one from neutron EDM so we do not plot it.The light blue region is the theoretical bound from the Higgs mass spectra $m _ { h } = 1 2 5$ GeV, $m _ { H ^ { + } } = 4 2 0$ GeV, $m _ { H 2 } = 4 0 0$ GeV and $m _ { H 3 } = 4 5 0$ GeV [8]. The blue solid contours represent the CP-phase of the top Yukawa coupling $\\tan \\theta _ { t }$ . The orange band and contours give the baryon-to-entropy density ratio in unit of $1 0 ^ { - 1 1 }$ . To calculate the BAU,a wall velocity $v _ { w } = 0 . 0 2$ ， a wall width $L _ { w } ~ = ~ 5 / T _ { c }$ and a critical temperature $T _ { c } \\ =$ 100 GeV are assumed for the bubbles generated during the EWPT. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The fitting results are presented in Fig. 2 where the inclusive LHC data published in March 2O13 (see Table I) and the most recent ACME results [12] are applied.In the presence of CP-even and CP-odd Higgs mixing,both the current ACME constraints and the Higgs global fits favors the region with $\\tan \\beta \\sim 1$ ,where we have $\\tan \\theta _ { t } \\sim - \\tan \\alpha _ { b }$ . The former is easy to understand since a cancellation between $f ^ { \\prime } ( z _ { t } , \\tan \\beta )$ and $g ^ { \\prime } ( z _ { W } , \\tan \\beta )$ in Eq.(15)requires $\\tan \\beta \\ : = \\ : 1 . 0 4$ .The latter is because a relatively small $\\tan \\beta$ can help avoid a too large signal rate of $h  b b$ ,and hence an over-suppressed $h  \\gamma \\gamma$ rate (see Table I).In this cancellation region,a CP-violation effect with $| \\tan \\alpha _ { b } | , | \\tan \\theta _ { t } | > 0 . 1$ is allowed while the most stringent constraints are from the nEDM. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MSSM ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Though the MSSM is of type II 2HDM,there is no tree-level CP-violation in the Higgs sector either explicitly or spontaneously [58],due to a vanishing $\\lambda _ { 5 }$ term in Eq.(7). So，the CP-phases used for EWBG mostly arise in the tree-level superparticle sectors,such as the chargino,neutrolino,squark and slepton sectors. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The explicit CP-violation in these sectors can break the CP symmetry in the Higgs sector at loop level, leading to CP-even and CP-odd mixing terms in the Higgs squared mass matrix.But the Higgs CP-mixture caused by this effect is small due to the loop suppression. For nonstandard Higgs bosons we notice that the CP-mixture is typically below $1 0 \\%$ ，consistent with [32],even if the CP-phase arises from the stop sector,while for the SMlike Higgs boson, the CP-mixture is suppressed more by an extra $\\tan \\beta$ factor. So the Higgs eigenstate are approximately CP-eigenstates，with their couplings with electrons are either $| c _ { e } | \\gg | \\tilde { c } _ { e } |$ (for CP-even Higgs bosons) or $| c _ { e } | \\ll | \\tilde { c } _ { e } |$ (for CP-odd Higgs bosons).On the other hand,a relatively large $\\tan \\beta$ is favored in the MSSM, given that the tree-level mass of the SM-like Higgs boson is larger in this case.This leads to $| c _ { e } ^ { h } | \\ll | c _ { e } ^ { H , A } |$ ，and hence a small $h$ contribution to the eEDM (mainly via the $c _ { e } \\bar { c } _ { \\gamma }$ term).So in the MSSM with the EWBG mechanism implemented, the main contributions to the eEDM are made by nonstandard Higgs bosons unless they are highly decoupled. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Among these CP-violating sources, the one arising in the chargino sector is of particular interest because of its high efficiency in generating the BAU via EWBG.The charginos enter the $H \\gamma \\gamma$ and the $A \\gamma \\gamma$ loops as new mediators,inducing non-trivial contributions to the eEDM via the $c _ { e } \\bar { c } _ { \\gamma }$ and $\\bar { c } _ { e } c _ { \\gamma }$ terms,respectively. Though these two contributions are comparable in magnitude,their signs are typically different.Given an extra minus sign for the term $c _ { e } ^ { i } \\tilde { c } _ { \\gamma } ^ { i }$ in Eq.(5), this scenario is strongly constrained by the ACME eEDM bound [6]. However,recall that charged particles like stau leptons enter the $A \\gamma \\gamma$ loop as well.If a non-trivial CP-phase is turned on in the stau sector,new contributions to the eEDM will be introduced via the $\\bar { c } _ { e } c _ { \\gamma }$ term.(Note,such a CP-violating coupling will not induce non-trivial contributions to the eEDM via the $H \\gamma \\gamma$ loop or the $c _ { e } \\tilde { c } _ { \\gamma }$ term，since stau leptons are scalar particles.） This provides a potential cancellation, such that a CP-phase in the Higgs-chargino couplings which is large enough for implementing the EWBG mechanism,is still allowed. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With the CP-violation turned on in the stau sector, the main contributions to the eEDM are then given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l r } { \\left[ \\frac { d e } { e } \\right] } & { \\approx } & { C \\tilde { c } _ { e } ^ { A } \\sum _ { j = 1 , 2 } \\left( { c } _ { \\gamma } ^ { \\tilde { \\chi } _ { j } ^ { \\pm } } \\ln \\frac { 1 } { z _ { \\tilde { \\chi } _ { j } ^ { \\pm } } ^ { A } } + { c } _ { \\gamma } ^ { \\tilde { \\tau } _ { j } ^ { \\pm } } \\ln \\frac { 1 } { z _ { \\tilde { \\tau } _ { j } ^ { \\pm } } ^ { A } } \\right) } \\\\ & { } & { - C c _ { e } ^ { H } \\sum _ { j = 1 , 2 } \\tilde { c } _ { \\gamma } ^ { \\tilde { \\chi } _ { j } ^ { \\pm } } \\ln \\frac { 1 } { z _ { \\tilde { \\chi } _ { j } ^ { \\pm } } ^ { H } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "withthe terms in thefirst andthe secondlines mediated ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "by A and H, respectively. Here C = 4me, ， $\\begin{array} { r } { z _ { x } ^ { y } = \\frac { m _ { x } ^ { 2 } } { m _ { y } ^ { 2 } } } \\end{array}$ and ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nc _ { \\gamma } ^ { \\tilde { \\chi } _ { i } ^ { \\pm } } = - \\sum _ { i } \\frac { M _ { W } } { 2 \\sqrt { 2 } m _ { \\tilde { \\chi } _ { i } ^ { \\pm } } } \\tilde { c } _ { \\tilde { \\chi } _ { i } ^ { \\pm } } , c _ { \\gamma } ^ { \\tilde { \\tau } _ { i } } = - \\sum _ { i } \\frac { M _ { W } } { 2 \\sqrt { 2 } m _ { \\tilde { \\tau } _ { i } } } \\tilde { c } _ { \\tilde { \\tau } _ { i } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asfor $m _ { \\tilde { \\chi } _ { i } ^ { \\pm } }$ ， $\\ddot { c } _ { \\tilde { \\chi } _ { i } ^ { \\pm } }$ (CP-odd interaction between $H$ and charginos),we refer to [33] for the details. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e0b2ebaa9ccad2ffa73051662de74fb4467693af5d2a9e82808b8eb87948a87.jpg",
+        "img_caption": [
+            "FIG.3:Parameter region allowed by the current eEDM, mercury EDM and neutron EDMbounds,and favored by the EWBG (orange band) in the $\\mu - \\tan \\beta$ plane.The chargino, stau contributions to the eEDMare plotted with black dashed and blue dashed contours,respectively. The magenta and red regions have been excluded by the ACME and the Mercury experiments [30]. The bounds of neutron EDM are much weaker and fall outside of the figure. Here we are assuming: charged Higgs mass $m _ { H ^ { \\pm } } ~ = ~ 4 5 0$ GeV；trilinear softly SUSY-breaking parameters (except $A _ { t }$ ）1.5TeVand $A _ { t } \\ =$ 2.5 TeV; soft masses of gauginos $M _ { 1 } = 0 . 1$ TeV, $M _ { 2 } = 0 . 4 5$ TeV and $M _ { 3 } = 3 . 5 ~ \\mathrm { T e V }$ ； soft masses of squarks and sleptons $0 . 1 M _ { Q _ { 1 } , U _ { 1 } , D _ { 1 } } = 0 . 1 M _ { Q _ { 2 } , U _ { 2 } , D _ { 2 } } = M _ { Q _ { 3 } , U _ { 3 } , D _ { 3 } } = 1 . 2$ TeV, and $0 . 1 M _ { L _ { 1 } } ~ = ~ 0 . 1 M _ { L _ { 2 } } ~ = ~ M _ { L _ { 3 } } ~ = ~ 0 . 1 5 ~ \\mathrm { T e V } , ~ 0 ~$ $0 . 0 5 M _ { E _ { 1 } } ~ =$ $0 . 0 5 M _ { E _ { 2 } } = M _ { E _ { 3 } } = 0 . 3 5$ ，TeV，and CP-phases $\\mathrm { A r g } ( \\mu M _ { 2 } ^ { * } ) =$ $\\mathrm { A r g } ( \\mu A _ { f } ^ { * } ) = 9 0 ^ { o }$ .With their mass set to be $\\sim 1 0$ TeV,the contributions of the squarks and sleptons of the first two generations to the one-loop EDM are suppressed. To calculate the baryon asymmetry generated via EWBG,we closely follow the work done in [31],with an expansion velocity $v _ { w } = 0 . 0 2$ ， a wall width $L _ { w } = 5 / T _ { c }$ and a critical temperature $T _ { c } = 1 0 0$ GeV assumed for the bubbles generated during the EWPT. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 3 depicts all low energy experimental constraints calculated by the CPsuperH [33,34].Note,however, the CPsuperH codes used in the analysis was revised by the authors or this letter (for details,see Appendix C),in which we corrected a sign error in the anomalous dimension of the dipole operators,updated the QCD hadron matrix elements,and incorporated the mixing effects between the dipole and psedo-scalar operators during renormalization group running,and the missed contributions to the eEDM of the $W$ -mediated $h \\gamma \\gamma$ loop in the BarrZee diagrams.With these corrections,we notice that the neutron and mercury bounds may become substantially weaker than the ones given by the original CPsuperH. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As indicated in Fig. 3， the charginos have a negative contribution to the eEDM (black-dashed contours)，by coupling with both $A$ and $H$ .The staus, on the other hand，have a positive contribution to the eEDM (blue-dashed contours)，by mainly coupling with $A$ .Both contributions are enhanced by $\\tan \\beta$ because of $\\tilde { c } _ { e } ^ { A } \\enspace \\propto \\enspace \\tan \\beta$ and $c _ { e } ^ { H } \\ \\propto \\ 1 / \\cos \\beta$ Their dependences on the $\\mu$ parameter however is differ$H / A$ $g _ { H \\chi _ { i } ^ { \\pm } \\chi _ { i } ^ { \\pm } } ^ { P } \\approx i ( C _ { R } ) _ { i 1 } ( C _ { L } ) _ { i 2 } ^ { * } / 2 - h . c .$ $g _ { A \\chi _ { i } ^ { \\pm } \\chi _ { i } ^ { \\pm } } ^ { S } \\approx$ $- i ( C _ { R } ) _ { i 1 } ( C _ { L } ) _ { i 2 } ^ { * } / 2 - h . c .$ $i = 1 , 2$ $\\mu > M _ { 2 }$ sumed here,a small $\\mu$ value will increase the off-diagonal term in the chargino mixing matrices, $( C _ { L } ) _ { 1 2 }$ and $( C _ { R } ) _ { 2 1 }$ ， and hence the overall eEDM contribution.As for staus, a larger $\\mu$ leads to a lighter $\\tilde { \\tau } _ { 1 }$ because of a larger mixture term $\\propto | \\mu \\tan \\beta - A _ { \\tau } |$ ．Therefore,their contribution to the eEDM increases for a larger $\\mu$ value.Due to their cancellation there exists a blank region in Fig.3 where the totaleEDMis below the current ACME bound.This region overlaps with the EWBG favored region which has been excluded by the ACME bound, if only the chargino contribution is taken into account.One benchmark point ispresented in TableII. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "top Yukawa coupling, induced by the Higgs CP mixing. In the MSSM, a large $\\tan \\beta$ is favored by the LHC Higgs bounds,and the contributions of the Barr-Zee diagrams to the eEDM are mainly mediated by nonstandard CPeven and CP-odd neutral Higgs bosons (if they are not as heavy as 1O TeV scale or above).With a cancellation between them,a maximal CP-phase in their couplings with superparticles like charginos is still allowed. In both cases a successful EWBG is possible,which turns out to be challenging without the assistance of these cancellation mechanisms. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The EWPT,another key element for the EWBG,is not addressed in this letter，since it is“orthogonal”to the discussions above.It is straightforward to generalize the discussions on the eEDM cancellation to the 2HDM $^ +$ a singlet,or the MSSM extensions with an extra singlet superfield or gauge group,where a strong enough EWPT is not diffcult to achieve (e.g., see [36-38]. Furthermore, in the MSSM while an extremely light right handed stop scenario ( $\\sim 1 1 0$ GeV)[39,40] has been ruled out by the Higgs global fits [41-43] and direct searches，a moderately light stop with another light scalar particles (like sbotoom or stau） may still be viable [44]. The detailed discussions in this regard will be left for future studies. ",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c19920c3134d4c6d73255b85ec66ba5015e94cdd21372258a1a3cb4a597eb3b.jpg",
+        "table_caption": [
+            "TABLE II:An benchmark in the MSSM,with the other parameters set as Fig.3. "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>Ryy</td><td>tan β</td><td>μ(TeV)</td><td>mH1(GeV)</td></tr><tr><td>0.84</td><td>12.8</td><td>1.31</td><td>125.4</td></tr><tr><td>[de/e] (cm)</td><td>[dHg/e](cm)</td><td>[dn/e](cm)</td><td>nb/s</td></tr><tr><td>4.2×10-29</td><td>3.0×10-29</td><td>9.6×10-27</td><td>0.85×10-10</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank Michael Ramsey-Musuolf, Carlos Wagner and Yue Zhang for useful discussions;and David McKeen for collaboration at the early stages of this project. TL is supported by his start-up fund at the Hong Kong University of Science and Technology. We also would like to acknowledge the hospitality of the Kavli Institute for Theoretical Physics and the Aspen Center for Physics (Simons Foundation),where part of this work was completed. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION AND CONCLUSION ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Neutron and Mercury EDMs in the MSSM: the CPsuperH vs.Our Analysis ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In this letter,we present a class of cancellation mechanisms to suppress the total contributions of Barr-Zee diagrams to the eEDM,which may occur either between the contributions of a CP-mixing Higgs boson,with the other Higgs bosons being decoupled, or between the contributions of a CP-even and a CP-odd Higgs bosons. As an illustration，we study two scenarios: the typeII 2HDM where the tree-level CP-phase arises from the Higgs sector，and the MSSM where the tree-level CPphase arises from Higgs-superparticle interaction sectors. In the 2HDM, $\\tan \\beta \\sim 1$ is favored by the LHC Higgs bounds and the contributions of the Barr-Zee diagrams to the eEDM are mainly mediated by a CP-mixed SMlike Higgs boson.With a cancellation between them，a CP-phase as large as $\\mathcal { O } ( 0 . 1 - 1 )$ is still allowed for the ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the Appendix,we will introduce the modifications and corrections made to the CPsuperH in our analysis. Then we will make a comparison between the constraints of neutron and Mercury EDMs given by the original CPsuperH and the modified one.As a start,let's simply introduce the theoretical methods used for calculating the neutron and Mercury EDMs,basically following ref [52, 54]. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1） Renormalization Group Running of Wilson Coefficients ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The EDM of a fermion ( $d _ { f } ^ { E }$ ; electron EDM is an exception which is denoted by $d _ { e }$ in this letter),the Chromo",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EDM of a quark $( d _ { q } ^ { C } )$ ，and the Weinberg operator coupling ( $d ^ { G }$ ）are defined by the Lagrangian ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\mathcal { L } } _ { \\mathrm { ( C ) E D M } } ~ = ~ - { \\displaystyle \\frac { i } { 2 } } { \\cal d } _ { f } ^ { E } F ^ { \\mu \\nu } { \\bar { f } } \\sigma _ { \\mu \\nu } \\gamma _ { 5 } f } } \\\\ { { ~ - { \\displaystyle \\frac { i } { 2 } } { \\cal d } _ { q } ^ { C } g _ { s } G ^ { a \\mu \\nu } { \\bar { q } } \\sigma _ { \\mu \\nu } \\gamma _ { 5 } T ^ { a } q } } \\\\ { { ~ + { \\displaystyle \\frac { 1 } { 6 } } d ^ { G } f ^ { a b c } \\epsilon ^ { \\mu \\nu \\lambda \\sigma } G _ { \\rho \\mu } ^ { a } G _ { \\lambda \\sigma } ^ { b } G _ { ~ \\nu } ^ { c } { } ^ { ~ \\rho } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here $F ^ { \\mu \\nu }$ and $G ^ { a \\ : \\mu \\nu }$ are the electromagnetic and strong field strengths, $T ^ { a } = \\lambda ^ { a } / 2$ denotes the generators of the $\\mathrm { S U } ( 3 ) _ { C }$ group. In the MSSM, the Weinberg operator $d ^ { G }$ is given by: ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd ^ { G } = ( d ^ { G } ) ^ { \\tilde { g } } + ( d ^ { G } ) ^ { H } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $( d ^ { G } ) ^ { \\bar { g } }$ being contributed by the quark-squark-gluino coupling [45] and $( d ^ { G } ) ^ { H }$ being contributed by neutral Higgs bosons [46,47]. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Defining the wilson coefficients as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\delta _ { f } \\equiv - { \\frac { \\Lambda ^ { 2 } d _ { f } ^ { E } } { 2 e Q _ { f } m _ { f } } } , \\quad \\tilde { \\delta } _ { q } \\equiv - { \\frac { \\Lambda ^ { 2 } d _ { q } ^ { C } } { 2 m _ { q } } } , \\quad C _ { \\tilde { G } } = { \\frac { \\Lambda ^ { 2 } d ^ { G } } { 3 g _ { s } } } \\quad ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $m _ { f }$ and $\\Lambda$ denoting the fermion masses and the MSSM scale respectively, the Lagrangian (18） can be rewritten as ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle { \\mathcal { L } } _ { ( C ) E D M } ~ = ~ i \\sum _ { f } { \\frac { \\delta _ { f } } { \\Lambda ^ { 2 } } m _ { f } Q _ { f } e F ^ { \\mu \\nu } { \\bar { f } } \\sigma _ { \\mu \\nu } \\gamma _ { 5 } f } } } } \\\\ { { { { } } } } \\\\ { { { \\displaystyle { ~ + i \\sum _ { q } { { { \\frac { \\tilde { \\delta } _ { q } } { \\Lambda ^ { 2 } } } m _ { q } g _ { s } G ^ { a \\mu \\nu } { \\bar { q } } \\sigma _ { \\mu \\nu } \\gamma _ { 5 } T ^ { a } q } } } } } } \\\\ { { { { } } } } \\\\ { { { \\displaystyle { ~ + { \\frac { C _ { \\tilde { G } } } { 2 \\Lambda ^ { 2 } } g _ { s } f ^ { a b c } \\epsilon ^ { \\mu \\nu \\lambda \\sigma } G _ { \\rho \\mu } ^ { a } G _ { \\lambda \\sigma } ^ { b } G _ { ~ \\nu } ^ { c } { } ^ { ~ \\rho } } } . } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To calculate the neutron and mercury EDMs,we need to incorporate the effect of renormalization group running of the WIlson coefficients from new physics scale to a hadron scale. During this process, flavor-conserving CP-odd four-fermion operators may lead to nontrivial corrections to the Wilson coefficients of the CEDM and Weinberg operators via mixing. So a more complete Lagrangian for the calculation of the neutron and mercury EDMs should be ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathcal { L } _ { \\mathrm { C P V } } ~ = ~ \\mathcal { L } _ { ( C ) E D M } + \\displaystyle \\sum _ { q } \\frac { C _ { 4 } ^ { q } } { \\Lambda ^ { 2 } } \\mathcal { O } _ { 4 } ^ { q } } } \\\\ { { ~ + \\displaystyle \\sum _ { q ^ { \\prime } \\neq q } \\frac { \\widetilde { C } _ { 1 } ^ { q ^ { \\prime } q } } { \\Lambda ^ { 2 } } \\widetilde { \\mathcal { O } } _ { 1 } ^ { q ^ { \\prime } q } + \\displaystyle \\frac { 1 } { 2 } \\sum _ { q ^ { \\prime } \\neq q } \\frac { \\widetilde { C } _ { 4 } ^ { q ^ { \\prime } q } } { \\Lambda ^ { 2 } } \\widetilde { \\mathcal { O } } _ { 4 } ^ { q ^ { \\prime } q } ~ . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Here the first two CP-odd four-fermion operators ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\mathcal { O } _ { 4 } ^ { q } = \\ \\overline { { q } } q \\overline { { q } } i \\gamma _ { 5 } q , } \\\\ { \\widetilde { \\mathcal { O } } _ { 1 } ^ { q ^ { \\prime } q } = \\ \\overline { { q ^ { \\prime } } } q ^ { \\prime } \\overline { { q } } i \\gamma _ { 5 } q } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "can be generated through CP-violating neutral Higgsboson mixing in the $t$ -channel and CP-violating Yukawa threshold corrections.The corresponding CP-odd coefficients are given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { { \\cal C } _ { 4 } ^ { q } } } & { { = } } & { { g _ { q } g _ { q } { \\frac { c _ { q } \\tilde { c } _ { q } } { M _ { H } ^ { 2 } } } , } } \\\\ { { { \\tilde { \\cal C } } _ { 1 } ^ { q ^ { \\prime } q } } } & { { = } } & { { g _ { q ^ { \\prime } } g _ { q } { \\frac { c _ { q ^ { \\prime } } \\tilde { c } _ { q } } { M _ { H } ^ { 2 } } } , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with $g _ { q ( q ^ { \\prime } ) } = m _ { q ( q ^ { \\prime } ) } / v$ and $v = 2 M _ { W } / g$ . The last CP-odd four-fermion operator ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\widetilde O } _ { 4 } ^ { q ^ { \\prime } q } \\ = \\ { \\overline { { q _ { \\alpha } ^ { \\prime } } } } \\sigma ^ { \\mu \\nu } q _ { \\beta } ^ { \\prime } { \\overline { { q _ { \\beta } } } } i \\sigma _ { \\mu \\nu } \\gamma _ { 5 } q _ { \\alpha } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "on the other hand, is generated from the operatror mixing effects of $\\widetilde { C } _ { 1 } ^ { q ^ { \\prime } q }$ and ${ \\widetilde { C } } _ { 1 } ^ { q q ^ { \\prime } }$ which follow the Eq.(27） below. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To calculate the Wilson coefficients $\\left( \\frac { \\delta _ { q } } { Q _ { q } } , \\tilde { \\delta } _ { q } , - \\frac { 3 C _ { \\tilde { G } } } { 2 } \\right)$ t $\\begin{array} { r } { \\textbf { C } = \\ \\left( \\frac { \\delta _ { q } } { Q _ { q } } , \\tilde { \\delta } _ { q } , - \\frac { 3 C _ { \\tilde { G } } } { 2 } , C _ { 4 } ^ { q } , \\widetilde { C } _ { 1 } ^ { q ^ { \\prime } q } , \\widetilde { C } _ { 1 } ^ { q q ^ { \\prime } } , \\widetilde { C } _ { 4 } ^ { q ^ { \\prime } q } \\right) } \\end{array}$ evom thn MSSM scale $\\Lambda$ down to GeV scale,based on the Renormalization Group Equations (RGE) [50-52] : ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\frac { d } { d \\ln \\mu } } \\mathbf { C } = \\mathbf { C } \\cdot \\mathbf { r }\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The one-loop anomalous dimension matrix is given by ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathbf { \\Gamma } \\mathbf { \\Gamma } = \\left[ \\frac { \\frac { \\alpha _ { s } } { 4 \\pi } \\gamma _ { s } } { ( 4 \\pi ) ^ { 2 } } \\gamma _ { s f } \\frac { \\alpha _ { s } } { 4 \\pi } \\gamma _ { f } \\frac { \\mathbf { \\Gamma } \\mathbf { 0 } } { \\Gamma \\mathbf { \\Gamma } } \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "with ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { s } = \\left[ \\begin{array} { c c c } { + 8 C _ { F } } & { 0 } & { 0 } \\\\ { + 8 C _ { F } } & { + 1 6 C _ { F } - 4 N } & { 0 } \\\\ { 0 } & { + 2 N } & { N + 2 n _ { f } + \\beta _ { 0 } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { \\gamma _ { f } = \\left[ - 1 2 C _ { F } + 6 \\right] , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { f } ^ { \\prime } = \\left[ \\begin{array} { c c c } { { - 1 2 C _ { F } } } & { { 0 } } & { { - 1 } } \\\\ { { 0 } } & { { - 1 2 C _ { F } } } & { { - 1 } } \\\\ { { - 1 2 } } & { { - 1 2 } } & { { - 8 C _ { F } - \\frac { 6 } { N } } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { s f } ^ { \\prime } = \\left[ \\begin{array} { c c c } { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { 0 } } & { { 0 } } & { { 0 } } \\\\ { { - 1 6 \\frac { m _ { q } ^ { \\prime } } { m _ { q } } \\frac { Q _ { q } ^ { \\prime } } { Q _ { q } } } } & { { - 1 6 \\frac { m _ { q } ^ { \\prime } } { m _ { q } } } } & { { 0 } } \\end{array} \\right] ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\gamma _ { s f } = \\left[ + 4 \\ + 4 \\ 0 \\right] .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Herel $\\mathrm { V } = 3 , \\ C _ { F } = ( N ^ { 2 } - 1 ) / ( 2 N ) = 4 / 3 , \\ \\beta _ { 0 } = ( 1 1 N -$ $2 n _ { f } ) / 3$ ， $n _ { f }$ is the flavor number, and $q$ runs over $u , d , b ,$ ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Besides the RG running and operator mixing effects calculated from Eq.(26) which give corrections to the Wilson coefficients $\\delta _ { q }$ ， $\\ddot { \\delta } _ { q }$ and $C _ { \\tilde { G } }$ ，there are two additional bottom quark threshold effects which needs to be emphasized below. First, the Weinberg operator receives a shift from the bottom quark CEDM after the bottom quark is integrated out at $m _ { b }$ [51, 53]: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta C _ { \\tilde { G } } ( m _ { b } ) = \\frac { \\alpha _ { S } ( m _ { b } ) } { 1 2 \\pi } \\tilde { \\delta } _ { b } ( m _ { b } ) \\ .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Here $\\tilde { \\delta } _ { b } ( m _ { b } ) = \\tilde { \\delta } _ { b } ^ { 0 } ( m _ { b } ) + \\Delta \\tilde { \\delta } _ { b } ( m _ { b } )$ is the $b$ -quark CEDM at the $m _ { b }$ scale,with $\\tilde { \\delta } _ { b } ^ { 0 } ( m _ { b } )$ being the direct CEDM calculated from two-loop Barr-Zee graphs. The $\\Delta \\tilde { \\delta } _ { b } ( m _ { b } )$ is the bottom quark CEDM correction from RG running and operator mixing. Keeping the leading logarithmic terms that contributes to $\\Delta \\tilde { \\delta } _ { b } ( m _ { b } )$ at the matching scale （204 $\\mu = m _ { b }$ ，wehave ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\tilde { \\delta } _ { b } ( m _ { b } ) \\approx { \\frac { 1 } { 8 \\pi ^ { 2 } } } C _ { 4 } ^ { b } ( M _ { H } ) \\log { \\frac { M _ { H } } { m _ { b } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which could be figured out from Eq.(27)and is from integrating out b quark at one-loop level. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The second important corrections by integrating out the bottom quark are the shift to CEDMs of quarks: ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta \\tilde { \\delta } _ { q } ( m _ { b } ) \\ \\approx \\ \\frac { g _ { s } ^ { 2 } } { 6 4 \\pi ^ { 4 } } \\frac { m _ { b } } { m _ { q } } \\ ~  \\\\ { ( \\tilde { C } _ { 1 } ^ { b q } ( M _ { H } ) + \\tilde { C } _ { 1 } ^ { q b } ( M _ { H } ) ) \\left( \\log \\frac { M _ { H } } { m _ { b } } \\right) ^ { 2 } } \\nonumber\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which are actually a two loop effects where the operator $\\tilde { C } _ { 1 } ^ { b q }$ and $\\tilde { C } _ { 1 } ^ { q b }$ first mix into ${ \\widetilde { C } } _ { 4 } ^ { q q ^ { \\prime } }$ and then mix into $\\Delta \\ddot { \\delta } _ { q } ( m _ { b } )$ . Numerically, the suppression from one additional loop is compensated by the $m _ { b } / m _ { q }$ enhancement. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(2)Neutron and Mercury EDMs ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The neutron EDM is calculated by ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { n } = \\left( e \\zeta _ { n } ^ { u } \\delta _ { u } + e \\zeta _ { n } ^ { d } \\delta _ { d } \\right) + \\left( e \\tilde { \\zeta } _ { n } ^ { u } \\tilde { \\delta } _ { u } + e \\tilde { \\zeta } _ { n } ^ { d } \\tilde { \\delta } _ { d } \\right) + \\beta _ { n } ^ { G } C _ { \\tilde { G } }\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the CPsuperH,we updated hadronic matrix elementswith $\\zeta _ { n } ^ { u } = 0 . 8 2 \\times 1 0 ^ { - 8 }$ ， $\\zeta _ { n } ^ { d } = - 3 . 3 \\times 1 0 ^ { - 8 }$ ， $\\tilde { \\zeta } _ { n } ^ { u } = 0 . 8 2 \\times$ $1 0 ^ { - 8 }$ $\\bar { \\zeta } _ { n } ^ { d } = 1 . 6 3 \\times { 1 0 ^ { - 8 } }$ and $\\beta _ { n } ^ { G } = 2 \\times 1 0 ^ { - 2 0 } e \\mathrm { c m }$ [54].",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Compared to the electron EDM $d _ { e }$ and the CP-odd electron-nucleon interactions ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { l } { { \\mathcal { L } = C _ { S } \\bar { e } i \\gamma _ { 5 } e \\bar { N } N } } \\\\ { { \\ } } \\\\ { { \\ + { C _ { P } } \\bar { e } e \\bar { N } i \\gamma _ { 5 } N + C _ { P } ^ { \\prime } \\bar { e } e \\bar { N } i \\gamma _ { 5 } \\tau _ { 3 } N , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "the nuclear Schiff moment ( $S$ ）has a larger contribution to the mercury EDM. The Schiff moment is generated by long-range, pion-exchange mediated P- and T-violating nucleon-nucleon interactions, ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathcal L } _ { \\pi N N } ^ { \\mathrm { T V P V } } = \\bar { N } \\left[ \\bar { g } _ { \\pi } ^ { ( 0 ) } \\vec { \\tau } \\cdot \\vec { \\pi } + \\bar { g } _ { \\pi } ^ { ( 1 ) } \\pi ^ { 0 } + \\bar { g } _ { \\pi } ^ { ( 2 ) } ( 2 \\tau _ { 3 } \\pi ^ { 0 } - \\vec { \\tau } \\cdot \\vec { \\pi } ) \\right] N ( 3 8 )\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In a general context， the isoscalar and isovector couplings $\\bar { g } _ { \\pi } ^ { ( 0 ) } , \\bar { g } _ { \\pi } ^ { ( 1 ) }$ are dominant over the isotensor coupling $\\bar { g } _ { \\pi } ^ { ( 2 ) }$ [54], so the mercury EDM is approximately given by [54], ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\nd _ { \\mathrm { H g } } = \\kappa _ { S } S \\approx \\kappa _ { S } \\frac { 2 m _ { N } g _ { A } } { F _ { \\pi } } \\left( a _ { 0 } \\bar { g } _ { \\pi } ^ { ( 0 ) } + a _ { 1 } \\bar { g } _ { \\pi } ^ { ( 1 ) } \\right) \\ ,\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "in which ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r l } & { \\bar { g } _ { \\pi } ^ { ( 0 ) } = \\tilde { \\eta } _ { ( 0 ) } ( \\tilde { \\delta } _ { u } + \\tilde { \\delta } _ { d } ) + \\gamma _ { ( 0 ) } ^ { \\tilde { G } } C _ { \\tilde { G } } , } \\\\ & { \\bar { g } _ { \\pi } ^ { ( 1 ) } = \\tilde { \\eta } _ { ( 1 ) } ( \\tilde { \\delta } _ { u } - \\tilde { \\delta } _ { d } ) + \\gamma _ { ( 1 ) } ^ { \\tilde { G } } C _ { \\tilde { G } } , } \\\\ & { g _ { A } \\approx 1 . 2 6 , \\ F _ { \\pi } = 1 8 6 \\mathrm { M e V } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To do the calculation，in the CPsuperH we updated hadronic matrix elements with [54]: $\\tilde { \\eta } _ { ( 0 ) } = - 2 \\times 1 0 ^ { - 7 }$ $\\tilde { \\eta } _ { ( 1 ) } ~ = ~ - 4 \\times 1 0 ^ { - 7 }$ ， $\\gamma _ { ( 0 ) } ^ { \\tilde { G } } \\ \\approx \\ \\gamma _ { ( 1 ) } ^ { \\tilde { G } } \\ = \\ 2 \\times 1 0 ^ { - 6 }$ ；updated the nuclear matrix elements with [55]: $a _ { 0 } = 0 . 0 1 e \\mathrm { f m ^ { 3 } }$ ， $a _ { 1 } = \\pm 0 . 0 2 e \\mathrm { f m ^ { 3 } }$ ; and assume a new atomic sensitivity coefficient $\\kappa _ { S } = - 2 . 8 \\times 1 0 ^ { - 4 } \\mathrm { f m ^ { - 2 } }$ [55]. At last we would like to emphasize again that both the sign correction of the anomalous dimension coefficient $\\gamma _ { e }$ and the mixing effect of the RGE operators have been incorporated in calculating $\\{ \\delta _ { u } , \\delta _ { d } , \\tilde { \\delta } _ { u } , \\tilde { \\delta } _ { d } , C _ { \\tilde { G } } \\}$ at a hadron scale in our analysis,which may cause an important change for the bounds of both the neutron and mercury EDMs given by the original CPsuperH. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3)The CPsuperH vs.Our Analysis ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In the CPsuperH,we made the following corrections and modifications: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.A sign error in an anomalous-dimension coefficient （204号 $\\gamma _ { e }$ was fixed，which is equal to the (1,1） component of Eq.(28)，up to some numerical factor caused by different definitions. The CPsuperH follows Ref. [49] where $\\gamma _ { e } = 8 / 3$ is defined. As pointed in Ref. [48,50],however, $\\gamma _ { e }$ should be $- 8 / 3$ rather than $8 / 3$ in the notation of Ref. [49].   \n2. The mixing effects between the Weinberg's gluonic operator,quark color dipole operator,quark electric dipole operator and the CP-odd four-fermion operators which are defined by Eq. (33-35) are incorporated in the CPsuperH.   \n3.The hadronic matrix elements are updated.   \n4.The Barr-Zee diagrams with the Higgs-photon photon( $Z$ boson）loop mediated by a $W$ boson are incorporated. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These corrections and modifications made to the CPsuperH may significantly change the neutron and the mercury EDM bounds for CP-violation in the MSSM.As a comparison,the neutron and mercury EDM bounds after and before the revision of the CPsuperH are shown in ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4d023bcd9b3d4c7678417b78be36f4ace97d0d954061f37d1968f034117e21ff.jpg",
+        "img_caption": [
+            "Fig.3 and Fig.4,respectively,with a chiral model is assumed for hadrons and the same parameter values assumed in both plots.The comparison indicates that both the neutron and mercury EDMbounds are overestimated by the original CPsuperH for the assumed parameter values. ",
+            "FIG.4:The neutron and mercury EDM bounds before the revision of the CPsuperH,with the parameter values assumed to be the same as the ones defined in Fig.3. The green and the red regions are excluded by the neutron and mercury EDM bounds,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ph]].   \n[11] [ATLAS Collaboration],ATLAS-CONF-2012-079.   \n[12] J.Baron et al. [ACME Collaboration], Science 343, no. 6168,269 (2014) [arXiv:1310.7534 [physics.atom-ph].   \n[13] D.McKeen,M. Pospelov and A.Ritz, Phys.Rev.D 86, 113004 (2012) [arXiv:1208.4597 [hep-ph].   \n[14] S.L.Glashow and S.Weinberg,Phys.Rev.D 15,1958 (1977).   \n[15] J.F.Gunion and D. Wyler,Phys. Lett.B 248,170 (1990).   \n[16] M.Chemtob,Phys.Rev.D 45,1649 (1992).   \n[17] T. Hayashi, Y. Koide, M. Matsuda and M. Tanimoto, Prog.Theor.Phys.91,915 (1994) [hep-ph/9401331].   \n[18] S.M. Barr and A. Zee,Phys.Rev. Lett. 65, 21 (1990) [Erratum-ibid.65,2920 (1990)].   \n[19] D.Chang,W.Y.Keung and T.C. Yuan, Phys. Rev.D 43,14 (1991).   \n[20] G. Aad et al.[ATLAS Collaboration],arXiv:1408.7084 [hep-ex].   \n[21] V.Khachatryan etal. [CMSCollaboration], arXiv:1407.0558 [hep-ex].   \n[22] G. Aad et al. [ATLAS Collaboration], Phys. Lett. B 726, 88 (2013) [arXiv:1307.1427[hep-ex].   \n[23] S. Chatrchyan et al. [CMS Collaboration], JHEP 1401, 096 （2014) [arXiv:1312.1129 [hep-ex].   \n[24] G. Aad et al. [ATLAS Collaboration],arXiv:1408.5191 [hep-ex].   \n[25] S.Chatrchyan et al.[CMS Collaboration],Phys.Rev.D 89,092007 (2014) [arXiv:1312.5353 [hep-ex]].   \n[26] G. Aad et al.[ATLAS Collaboration],arXiv:1409.6212 [hep-ex].   \n[27] The CMS collaboration, CMS-PAS-HIG-13-005.   \n[28] The ATALAS collaboration， ATLAS-CONF-2013- 108.   \n[29] S.Chatrchyan et al. [CMS Collaboration],JHEP 1405, 104 (2014) [arXiv:1401.5041 [hep-ex].   \n[30] W.C.Griffith,M.D. Swallows, T.H. Loftus,M.V. Romalis,B. R. Heckel and E. N. Fortson, Phys. Rev. Lett. 102,101601 (2009).   \n[31] C. Lee, V. Cirigliano and M. J. Ramsey-Musolf, Phys. Rev.D 71,075010 (2005) [hep-ph/0412354].   \n[32] A.Arbey, J. Elis,R. M. Godbole and F. Mahmoudi, arXiv:1410.4824 [hep-ph].   \n[33] J. S. Lee,A. Pilaftsis, M. S. Carena, S.Y. Choi, M. Drees, J.R.Ellis and C.E.M.Wagner,Comput.Phys.Commun. 156,283 (2004) [hep-ph/0307377].   \n[34] J. S. Lee,M. Carena,J. Ells,A. Pilaftsis and C.E.M. Wagner, Comput. Phys. Commun.184, 1220 (2013）[arXiv:1208.2212 [hep-ph].   \n[35] J.R. Ellis,J. S. Lee and A. Pilaftsis, JHEP 0810,049 (2008）[arXiv:0808.1819 [hep-ph].   \n[36] W. Huang,Z. Kang, J. Shu, P. Wu and J. M. Yang, arXiv:1405.1152 [hep-ph].   \n[37] J. Kozaczuk, S. Profumo, L. S. Haskins and C. L. Wainwright,arXiv:1407.4134 [hep-ph].   \n[38] J.Kang,P. Langacker,T. j.Li and T. Liu, Phys. Rev. Lett.94,061801 (2005) [hep-ph/0402086]; J. Kang, P.Langacker, T.Li and T.Liu, JHEP 1104, 097 (2011) [arXiv:0911.2939 [hep-ph]].   \n[39] M. S.Carena,M.Quiros and C.E.M. Wagner,Phys. Lett.B 380,81 (1996) [hep-ph/9603420].   \n[40] D.Delepine,J. M. Gerard,R.Gonzalez Felipe and J.Weyers,Phys.Lett.B 386，183(1996)[hepph/9604440].   \n[1]P.A. R.Adeet al.[PlanckCollaboration], arXiv:1303.5076 [astr0-ph.CO].   \n[2]J.Beringer et al.[Particle Data Group Collaboration], Phys.Rev.D 86,010001 (2012).   \n[3] T.Liu,M.J.Ramsey-Musolf and J.Shu,Phys.Rev. Lett.108,221301(2012)[arXiv:1109.4145 [hep-ph]].   \n[4] G．Aad et al.[ATLAS Collaboration]，Phys.Lett.B 716,1(2012)[arXiv:1207.7214 [hep-ex]].S.Chatrchyan et al.[CMS Collaboration],Phys.Lett.B710,26 (2012) [arXiv:1202.1488 [hep-ex]].   \n[5]J.Shu and Y.Zhang，Phys.Rev.Lett.111，O91801 (2013)[arXiv:1304.0773 [hep-ph]].   \n[6]J.Brod,U.Haisch and J. Zupan, JHEP 1311,180 (2013) [arXiv:1310.1385 [hep-ph].   \n[7]F．Bishara，Y.Grossman，R.Harnik,D.J.Robinson，J.Shu and J.Zupan，JHEP 1404，084 (2014) [arXiv:1312.2955 [hep-ph]].   \n[8] S. Inoue, M. J. Ramsey-Musolf and Y.2 Zhang, arXiv:1403.4257 [hep-ph].   \n[9] K.Cheung，J. S. Lee,E. Senaha and P. -Y. Tseng, arXiv:1403.4775 [hep-ph].   \n10] Y.Li， S.Profumo and M.Ramsey-Musolf,Phys. Rev.D 78，075009 (2008）[arXiv:0806.2693 [hep-ph]}; V.Cirigliano,Y.Li, S. Profumo and M.J. RamseyMusolf,JHEP 1001,002 （2010) [arXiv:0910.4589 [hep  \n[41] M.Carena,G.Nardini,M.Quiros and C.E.M.Wagner, JHEP 1302,001（2013)[arXiv:1207.6330 [hep-ph].   \n[42] T.Cohen,D.E.Morrissey and A.Pierce,Phys.Rev.D 86,013009(2012）[arXiv:1203.2924 [hep-ph]].   \n[43]D.Curtin，P.Jaiswal and P.Meade，JHEP 12o8,005 (2012）[arXiv:1203.2932 [hep-ph]].   \n[44] W.Huang,J.Shu and Y. Zhang,JHEP1303,164 (2013) [arXiv:1210.0906 [hep-ph]].   \n[45]J.Dai,H.Dykstra，R.G.Leigh，S.Paban and D.Dicus,Phys.Lett.B 237(1990)216 [Erratum-ibid.B 242 (1990) 547].   \n[46] D.A. Dicus,Phys.Rev.D 41 (1990) 999.   \n[47] S.Weinberg,Phys.Rev.Lett.63(1989) 2333.   \n[48] G.F.Giudice and A.Romanino,Phys.Lett.B 634,307 (2006)[hep-ph/0510197].   \n[49] R.L.Arnowitt,J.L.Lopez and D.V.Nanopoulos,Phys. Rev.D 42,2423 (1990).   \n[50]G.Degrassi,E.Franco,S.Marchetti and L.Silvestrini, JHEP0511,044（2005）[hep-ph/0510137].   \n[51]J.Hisano,K.Tsumura and M.J.S.Yang,Phys.Lett.B 713,473(2012) [arXiv:1205.2212 [hep-ph].   \n[52]W.Dekens and J.de Vries，JHEP 1305，149 (2013) [arXiv:1303.3156[hep-phl].J.Hisano，K.Tsumura and M.J.S.Yang，Phys.Lett.B 713，473 (2012) [arXiv:1205.2212 [hep-ph]].   \n[53]G.Boyd,A.K.Gupta,S.P. Trivedi and M.B.Wise, Phys. Lett.B 241, 584 (1990).   \n[54] J.Engel,M. J.Ramsey-Musolf and U.van Kolck,Prog. Part.Nucl.Phys.71，21(2013)[arXiv:1303.2371 [nuclthl].S.Inoue,M.J.Ramsey-Musolf and Y.Zhang,Phys. Rev.D 89,115023(2014) [arXiv:1403.4257 [hep-ph]].   \n[55]V.A.Dzuba,V.V.Flambaum，J.S.M.Ginges and M.G.Kozlov，Phys.Rev.A 66，012111（2002）[hepph/0203202].   \n[56]In principle,the CP-odd electron-nucleon interactions can also contribute to the effective electron EDM in a paramagnetic system like Tho.However,those operators are mediated by Higgs bosons and hence highly suppressed by the electron and valence quark masses,thus the ACME results can be safely interpreted as an upper limit for the electron EDM $d _ { e } ^ { E }$ ：   \n[57]One exception is [3],where the EWBG is driven by flavor off-diagonal CP-phases,with their contributions to the EDM being trivial.In this case,the observables in the $B$ -or the other meson systems are potentially more important probes.   \n[58] This is different from what happens in the singletextensions of the MSSM where tree-level CP-violation is possible in the Higgs sector. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    }
+]

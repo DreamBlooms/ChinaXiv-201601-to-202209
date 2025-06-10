@@ -1,0 +1,85 @@
+# 疏水表面上液滴滞后阻力的实验研究
+
+闵春华，郭宇虹，田丽亭，齐承英（河北工业大学能源与环境工程学院，天津，300401)(Tel: 022-60205781,Email: chmin@hebut.edu.cn)
+
+摘要：水滴在接触物体表面上的移动过程所表现出的阻力特性与固体滑块之间发生相对位移时产生的摩擦阻力具有明显的差异。为了进一步揭示这一特性，本文动态测量了水滴在聚二甲基硅氧烷(PDMS)疏水表面上的移动过程，给出了定量解释。结果表明：在不同材料表面上水滴移动的动态特性并不相同，液滴在聚二甲基硅氧烷表面上移动的滞后阻力主要受铺展功到影响。
+
+关键词：接触角；疏水表面；滞后阻力；铺展功
+
+中图分类号：TK124 文献标识码：A
+
+# Experimental study of droplet hysteresis resistance on the hydrophobic surface
+
+Min Chun-Hua, Guo Yu - Hong, Tian Li - Ting, Qi Cheng- Ying (SchoolofEnergyand Environmental Engineering,Hebei UniversityofTechnology,Tianjin 300401) (Tel: 022-60205781, Email: chmin@hebut.edu.cn)
+
+Abstract: The resistance characteristic of a moving water droplet on a contact surface is different to that of two solids with relative displacement.To further reveal the above characteristic of a moving water droplet on a solid surface,the moving process of a water droplet on the polydimethylsiloxane (PDMS) hydrophobic surface was experimentally examined and quantitative interpreted.The results showed that the water droplet have different dynamic characteristic on diferent solid surface.The hysteresis resistance of a water droplet moving on the PEMS surface is mainly affected by spreading work.
+
+Key Words: Contact Angle t; Hydrophobic surface; Hysteresis resistance; Spreading work
+
+# 0引言
+
+疏水表面上水滴的运动、蒸发、冷凝等现象广泛存在工业生产应用中，并且在界面特性、降膜蒸发、强化换热等领域扮演着重要的角色。表现水滴在固体表面上的存在的一个重要参数就是接触角。接触角是液体浸润性的重要指标。由于实际中的固体表面并不能满足Young方程中所需的绝对平滑表面，而是具有微小凸起的显微结构，因此Cassic方程与Wenze方程根据液滴在固体表面的实际浸润情况而给出了平衡状态的描述。由于固体表面的粗糙性，液滴与固体表面存在一定的滞后张力。王晓东等[1研究了表面粗糙度对滞后性的影响。当液滴在固体表面上移动时，受表面粗糙度的影响，润湿过程的动态接触角略小于静态时的值，退湿过程的动态后退角略大于静态时的值[2]。郭树虎[3]指出，当固体表面倾斜至一定程度，使液滴的后坡面与前坡面接触角分别达到后退角与前进角，液滴才会开始运动。Nasonovsky和Bhushan4从Cassie方程导出了粗糙表面液滴滚动角的计算公式，并指出接触角的滞后等于粘附滞后和粗糙度效应之和[5]。秦亮和刘天庆[得到了液滴在亲水或疏水表面上移动时所受到的滞后阻力统一的表达式。宋云超等人的研究给出了液滴在倾斜表面上临界状态下接触角与滞后阻力的关系。
+
+# 1实验系统
+
+# 1.1实验材料的制备
+
+采用的实验材料为覆盖有聚二甲基硅氧烷涂层的玻璃片。玻璃片尺寸 $4 0 \mathrm { m m } \times 4 0 \mathrm { m m } \times 2 \mathrm { m m }$ 。将玻璃片表面用清水冲洗并擦拭干净，吹去灰尘。将硅油溶解于三氯甲烷，在玻璃片表面滴取适量溶液，晃动玻璃片，使得硅油的三氯甲烷溶液均匀覆盖在玻璃片表面，由于三氯甲烷的强挥发性，很快玻璃片表面剩余未固化的硅油液膜。将玻璃片放置于烘干箱，在 $1 4 0 ^ { \circ } \mathrm { C }$ 高温下烘干90分钟后取出。此时，硅油发生固化并且均匀牢固地覆盖在玻璃片表面，可以在水流的冲刷下保持稳定。文献[8]测量发现，水滴在平滑的硅油涂层与经过激光刻蚀的粗糙硅油涂层接触面上的接触角范围是 $1 1 3 ^ { \circ } \sim 1 6 5 ^ { \circ }$ 。
+
+# 1.2实验装置
+
+实验装置如图1所示，主要包括三部分：接触角测量仪系统、温度控制系统和计算机系统。采用德国dataphysicsOCA2.0 型接触角测量仪，包括摄像头、加热/倾斜表面操作台、光源、注射器及其电动马达等部件。温度控制系统通过软件控制。
+
+![](images/567af464f06d8a74ec79f60e896778a3a5df98c93e8ab92915b9f4f7dfa4434d.jpg)  
+图1实验系统示意图  
+Fig.1 Schematic view of experiment system
+
+# 1.3 实验步骤
+
+在室内温度、无风环境条件下。将硅油涂层的玻璃片放置在操作台上，调节接触角测量仪，对水滴滚动过程进行录像采集，录像采集频率为52 帧/秒，最大分辨率为 $7 6 8 \times 5 7 6$ 像素，频率太低则不能很好的捕捉水滴滚动过程的细微动态变化，频率太高则会造成数据文件过大，不利于保存与读取处理过程缓慢，数据冗杂等缺点；在硅油涂层表面由注射器注射一定体积的纯净水；开始录像采集，缓慢倾斜操作台，直至水滴开始向下滑动，记录此时的倾斜角度，并停止录像采集；利用SCA_20_uEye 软件采用切线法分析水滴滑动瞬间和滑动过程的前进角与后退角，得到相关数据。
+
+# 2实验结果与分析
+
+# 2.1硅油涂层表面水滴接触角的测量
+
+水滴在硅油涂层表面的静态接触角如图2所示。测量时滴取液滴体积为 $4 \mu 1$ ，在硅油涂层表面选取不同位置多次测量，取平均值。通过测量得到，水滴在硅油涂层表面接触角为 $1 2 0 ^ { \circ }$ 。水滴的前进接触角与后退接触角的测量通过加液与减液的方法来得到，经过计算得到，硅油涂层表面平均前进角 $\theta _ { \mathrm { a } }$ 为$1 3 2 . 3 ^ { \circ }$ ，平均后退角 $\theta _ { \mathrm { r } }$ 为 $1 2 7 . 7 ^ { \circ }$ 。
+
+![](images/658de80755079cfc30e5b274bd567ad2ba0daf544453b979eb48267d69d85d19.jpg)  
+图2 硅油表面水滴的静态接触角  
+Fig.2 Contact angle of water static on silicone oil surface
+
+# 2.2水滴的滚动特性分析
+
+体积 $V$ 分别为 $2 5 \mu 1$ 、 $3 5 \mu \mu$ 、 $4 5 \mu 1$ 和 $5 0 \mu \mu$ 的水滴在倾斜表面上的滚动角 $\scriptstyle a$ 、前进角 $\theta _ { \mathrm { a } }$ 和后退角 $\theta _ { \mathrm { r } }$ 以及滚动状态的前进角 $\theta _ { \mathrm { a } } ^ { ' }$ 和后退角 $\boldsymbol { \theta } _ { \mathrm { r } } ^ { ' }$ 如表1所示。可以看出，水滴的体积越大，相对应的滚动角 $\scriptstyle a$ 越小。这是因为随着水滴体积增加，重力所起的作用逐渐增强，使滚动角减小。水滴在硅油疏水倾斜表面上移动过程中，动态前进角与动态后退角和各自的临界状态相比都有所减小，但差别较小。这可由最大滞后张力和最小滞后张力与临界滞后张力的关系进行解释。
+
+表1水滴在倾斜面滚动状态参数  
+Table 1 Parameters of water droplets on the inclined plane   
+
+<html><body><table><tr><td>V (μl) α(°)</td><td>010,（°）</td><td>0a/0（°）</td></tr><tr><td>25</td><td>91.6/82.9</td><td>123.8/118.4</td></tr><tr><td>35</td><td>95.2/80</td><td>130.2/113.9</td></tr><tr><td>45 33.5</td><td>94.3/85.3</td><td>125.2/121.8</td></tr><tr><td>50</td><td>90.9/76.44</td><td>126.2/120.8</td></tr></table></body></html>
+
+前进角和后退角的定义为：
+
+$\cos \theta _ { \mathrm { a } } = \frac { \gamma _ { \mathrm { { s v } } } - \gamma _ { \mathrm { { s l } } } } { \gamma _ { \mathrm { { l v } } } } - \frac { f _ { \mathrm { w e t i n g } } } { \gamma _ { \mathrm { { l v } } } } \ , \ \cos \theta _ { \mathrm { a } } ^ { \prime } = \frac { \gamma _ { \mathrm { { s v } } } - \gamma _ { \mathrm { { s l } } } } { \gamma _ { \mathrm { { l v } } } } - \frac { f _ { \mathrm { { m a x } } } } { \gamma _ { \mathrm { { l v } } } } \ ,$ $\cos \theta _ { \mathrm { r } } = \frac { \gamma _ { \mathrm { s v } } - \gamma _ { \mathrm { s l } } } { \gamma _ { \mathrm { l v } } } + \frac { f _ { \mathrm { d e w e t t i n g } } } { \gamma _ { \mathrm { l v } } } ~ , ~ \cos \theta _ { \mathrm { r } } ^ { \prime } = \frac { \gamma _ { \mathrm { s v } } - \gamma _ { \mathrm { s l } } } { \gamma _ { \mathrm { l v } } } + \frac { f _ { \mathrm { m i n } } } { \gamma _ { \mathrm { l v } } } ~ \mathrm { c }$ 式中， $f _ { \mathrm { m a x } }$ 和 $f _ { \mathrm { m i n } }$ 分别为滚动临界时前端线处最大滞后张力和后端线处最小滞后张力； $f _ { \mathrm { w e t t i n g } }$ 为润湿过程的滞后张力，fdewettig 为退湿过程的滞后张力。由$f _ { \mathrm { w e t t i n g } } < f _ { \mathrm { m a x } }$ 和 $f _ { \mathrm { d e w e t t i n g } } > f _ { \mathrm { m i n } }$ ，即可得出 $\theta _ { \mathrm { a } } < \theta _ { \mathrm { a } } ^ { ' }$ 和$\theta _ { \mathrm { r } } { < } \theta _ { \mathrm { r } } ^ { ' }$ 。
+
+水滴由滚动前到滚动的瞬变过程如图3所示。可以看出，水滴由临界状态到移动的转变并不是一个瞬时的水滴整体移动的过程，而是有一些微小的形态上的变化。随着滚动角的增大，硅油疏水表面上水滴的移动首先是水滴的后端保持不变，前端接触线以铺展的方式向前移动一小段距离，将水滴整体向前拉长；然后，随着倾斜角度继续的增大一个微小值，前端接触线保持位置不变，后端接触线向前移动一段距离，水滴处于收缩状态；最后，水滴的形态保持不变，前进角与后退角保持各自恒定值，水滴向下滚动。本文观察到的水滴滚动时前后端线的移动次序与文献[7]相反，该文的实验研究发现，水滴在疏水表面上达到滚动角时的移动首先是后端接触线以翘起脱离表面的方式发生移动，随后前端接触线在发生移动而开始液滴的整体移动。该文认为，产生这一区别的原因是在疏水表面上液滴的阻力体现在后端的运动中，所受阻力为粘附功。本文发现水滴前段线线移动，原因是在实验疏水表面上，水滴需要克服的阻力是铺展功，即 $\gamma _ { \mathrm { { l v } } } ( 1 - \cos \theta )$ 。
+
+P 小 P
+
+# 3结论
+
+通过对水滴在倾斜的聚二甲基硅氧烷表面滚动角滞后现象的实验研究，得到以下结论：
+
+（1）随着液滴体积增大，滚动角减小。（2）随着接触面倾斜角度不断增大，液滴形态不断发生变化，前进角不断变大，后退角不断减小。（3）在硅油疏水倾斜表面上，随着倾斜角增大，液滴前端首先向前运动发生铺展，将液滴整体拉长，倾斜角度继续增大，前端接触线保持不变，后端接触线向前移动，直至液滴达到临界前进角与临界后退角，此时硅油接触面倾斜角度为临界接触角，此后液滴整体开始移动。（4）液滴最先开始运动的前端是固液界面取代液气和固气界面的过程，水滴受到的阻力体现在前端的运动中，这个过程中液滴需要克服的阻力为铺展功 $\gamma _ { \mathrm { { l v } } } ( 1 - \cos \theta )$ 。
+
+# 参考文献
+
+[1]王晓东，彭晓峰，李笃中.粗糙表面上的移动接触线和动
+
+态接触角.化工学报，2004,55（3）:402-407. WANG Xiaodong, PENG Xiaofeng, LEE Dujong. Moving contact line and dynamic contact angle on rough solid surfaces. Journal of Chemical Industry and Engineering (China),2004, 55(3): 402-407.   
+[2]王晓东，彭晓峰，陆建锋，刘涛，王补宣．粗糙表面接 触角滞后现象分析．热科学与技术,2003,2(3):230-234. WANG Xiaodong,PENG Xiaofeng,LU Jianfeng, LIU Tao, WANG Buxuan. Analysis of contact angle hysteresis on rough surface. Journal of Thermal Science and Technology, 2003,2(3): 230-234.   
+[3]郭树虎，于志家，罗明宝，孙晓哲．超疏水表面润湿理 论研究进展.材料导报,2012,26（3）:74-78. GUO Shuhu, YU Zhijia, LUO Mingbao, SUN Xiaozhe. Research progress in wetting theory of superhydrophobic surface. Materials Review,2012,26(3): 74-78.   
+[4]Nosonovsky M, Bhushan B. Hierarchical roughness makes superhydrophobic states stable. Microelectron Eng,2007, 84: 382.   
+[5]Nosonovsky M,Bhushan B. Energy transitionsin superhydrophobicity:Low adhesion， easy flowand bouncing [J].JPhys-CondensMater，2008，20(39): 395005.   
+[6]秦亮，刘天庆．亲/疏水表面上液滴滞后阻力的研究．化 工进展，2012,31（8）:1711-1716. QIN Liang,LIU Tianqing. Investigation on the hysteretic force of droplet on hydrophilic and hydropobic surface. Chemical Industry and Engineering progress, 2012, 31(8): 1711-1716.   
+[7]宋云超，宁智，王春梅.基于唯象分析方法的壁面润湿模 型．燃烧科学与技术，2012,18（6）:521-527. SONG Yun-chao,NING Zhi，WANG Chun-hai． Wall Weting Model Based on phenomenological analysis method. Journal of Combustion Science and Technology. 2012,18 (6） : 521-527.   
+[8]美金花，廖明义，江雷．超疏水性聚二甲基硅氧烷膜的 制备及其表面吸附性研究．高等学校化学学报，2007,5 (5): 996-998. JIN Mei-Hua, LIAO Ming-Yi, JIANG Lei. Preparation of super-hydrophobic PDMS films and study on surface Adhesion. Chemical Journal of Chinese Universities,2007, 28(5): 996-998.

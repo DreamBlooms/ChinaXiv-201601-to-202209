@@ -1,0 +1,135 @@
+# CN 53-1189/P ISSN 1672-7673
+
+# 月基低频天线技术研究
+
+何若愚1²，张洪波¹，苏彦¹，孔德庆'，朱新颖}，刘建军1(1．中国科学院国家天文台，北京100012；2.中国科学院大学，北京100049)
+
+摘要：月基低频天线是近年来射电天文技术领域的研究热点之一。由于地球电离层的屏蔽，频率在 $3 0 \mathrm { M H z }$ 以下的电波在地面上难以有效观测。月球表面尤其是月球背面被证实是进行低频射电天文观测的绝佳地点。通过对国内外月基低频天线研究现状的调研，阐述了月基低频天线相较地基低频天线在低频射电观测上的优势，介绍了月基低频天线国内外研究的现状，详细论述了国家天文台月球与深空探测重点实验室的交叉偶极子阵列天线设计方案。利用电磁仿真软件HFSS 对该阵列天线进行了建模和仿真，给出了仿真结果。仿真结果表明，交叉偶极子阵列天线具有较高的增益，方向性较好，具有分辨来波方向的能力。最后介绍了月基低频天线的关键技术，为了满足航天器有效载荷小型化、轻量化、可折叠的设计要求，给出了交叉偶极子阵列天线单元的一种卷尺型设计方式。
+
+关键词：月基天线；低频天线；有源天线
+
+图分类号：P172.4 文献标识码：A 文章编号：1672-7673(2017)01-0017-08
+
+宇宙低频电磁辐射可以揭示很多其他频段电磁辐射不能揭示的现象[1]，如低能量宇宙射线粒子；不连续射电源的热环境；银河系内外物体由于等离子体过程产生的相干辐射；气体在星际介质中的大尺度分布；寻找类地行星；太阳日冕物质抛射和射电爆发；木星射电爆发；低频和甚低频脉冲星辐射；银河电离氢分布探测等[2-3]。来自宇宙的频率低于 $3 0 \mathrm { M H z }$ 的电磁辐射信号，特别是频率低于 $5 \mathrm { M H z }$ （20的信号，由于地球电离层的反射和衰减，难以穿透地球电离层到达地面。尤其在 $1 ~ \mathrm { M H z } \sim 1 0 ~ \mathrm { K H z }$ 频段，仍是天文电磁波谱观测的一个准空白领域。因此，要开展低频射电观测，就要突破地球电离层的限制，利用行星着陆器上搭载的射电天线或利用空间探测器上搭载的探测雷达进行观测研究。每一次新的射电窗口的打开都为空间科学的发展提供了新的机遇，并且有许多重大发现。可以预见低频射电观测将为当今重大科学课题带来新的视野，并带来新的发现[4-5]。
+
+# 1月基低频天线的优势
+
+# 1.1人造低频电磁噪声被地球电离层限制在其内部
+
+地基射电天线受到人工电磁信号的强烈干扰。地面上数量庞大的广播站、通信电台等无时无刻不在发射无线电信号，使地基射电天文观测受到巨大干扰，在一些频段甚至根本无法观测。因此，当代射电天文望远镜都建立在无线电相对寂静的乡村地区。但低频无线电信号随距离的衰减量小，电波的传输距离可达上万千米，使建立在乡村地区的低频射电望远镜仍然受到较强干扰。地球电离层具有对频率低于 $3 0 \mathrm { M H z }$ 电磁波的屏蔽和衰减作用，这些人造电磁噪声同样无法穿透地球电离层进入地球以外的空间，使月基低频天线免受地面人工噪声的干扰，从而能分辨微弱的宇宙低频射电信号[6]
+
+1.2地球电离层产生的低频电磁噪声被月面环形山或月球本身遮挡屏蔽来自地面的人造低频噪声信号被地球电离层阻隔在其内部，同时由于太阳风携带的高能粒子与地球电离层相互作用，电离层会向外辐射很强的低频电磁波。木星和土星这类气体行星也有很强的低频电磁辐射，这些辐射都是对宇宙进行低频射电观测的干扰信号。避免干扰最基本的物理方法是用一个远大于无线电信号波长的物体来实现对天线阵列的屏蔽。由于这类波长往往高达几千米甚至更多，因此月球较大的环形山山谷或者月球背面就成为建设低频天线的最佳地点。例如在月球背面和月球南北极较大环形山的山谷中，地球电离层辐射的电磁波被完全屏蔽，噪声仅是宇宙微波背景辐射，是最佳的低频/甚低频射电天文观测地点[7]。
+
+# 1.3月面微重力真空环境可简化天线结构的复杂程度
+
+月表重力仅为地表重力的1/6，比地球小得多的重力环境可大幅减小天线的重力形变。天线电性能与自身形状息息相关，形变会引起电性能的恶化。由于低频段电磁场波长很长，要达到所需的增益，天线必须做得很大，在地面建造时需要很多防止天线形变的支撑部件，这又增加了天线自重。天文用地基天线的重量往往成百上千吨，其中大部分是天线支撑部件的重量。月基天线的重力形变比地基天线小得多，因而可以大幅度减少天线支撑部件的数量，降低自重。月球表面没有大气层，因而没有刮风、下雨、打雷、下雪、冰雹等大气灾害，在进行天线设计时，不需要加装抵御大气灾害的加固部件和防雷设备，大大简化了天线结构，降低了天线自重和建设成本。
+
+# 2 国内外研究现状
+
+1968 年7月4日，为了研究地球电离层的低频辐射现象，美国航空航天局（National Aeronauticsand Space Administration，NASA）用Delta运载火箭发射了地球高轨道卫星无线电天文探测器1号（Radio AstronomyExplorer-1，RAE-1），它的观测频率为 $2 0 0 ~ \mathrm { K H z } \sim 2 0 ~ \mathrm { M H z }$ ，运行在距地面 $6 0 0 0 ~ \mathrm { k m }$ 的圆形轨道上。它第1次证实了因太阳爆发而产生的高能粒子流与地球磁层相互作用会形成很强的低频电磁辐射[8-9]
+
+1973年6月10日，为了避开地球电离层向外层空间的低频电磁辐射干扰，美国航空航天局用Delta 火箭发射了月球轨道卫星无线电天文探测器2号（Radio Astronomy Explorer-2，RAE-2），它的观测频率为 $2 5 \mathrm { k H z } \sim 1 3 ~ \mathrm { M H z }$ 。在这次任务中科学家成功观测到当RAE-2卫星运行到月球背面时，月球有效地屏蔽了来自地球强烈的低频电磁辐射，低频电磁辐射强度降低了 $1 0 \sim 2 0 ~ \mathrm { d B ^ { \textregistered } }$ ，证明月球背面乃至月球南极是避开地球电离层的强烈电磁辐射干扰进而对宇宙进行低频射电观测的最佳地点。
+
+文献资料表明，目前国内外还没有在役的月基低频射电天线。但近年来，国际上对月基低频射电天线的研究兴趣越发浓厚。由于在月球表面建设低频射电天线具有地基射电天线不具备的突出优点，欧美各国研究人员积极探讨了在月球建立低频射电观测装备的可行性[10-1]，提出了一些极具创新性的方案，有的已经研制出原理样机，正在进行模拟月面环境测试。我国科研人员也对建立月基低频天线开展月基射电观测进行了积极的探讨，分析了存在的困难和挑战，取得了一些研究成果。
+
+# 2.1月基射电天线
+
+月基射电天线（Lunar Radio eXperiment，LRX)是欧洲宇航局（European Space Agency，ESA）计划在2019 年登陆月球南极的欧洲月球着陆器(European Lunar Lander，ELL)上搭载的有效载荷。它的主要科学目标：（1)研究月球电离层；（2)地球低频电磁波辐射；（3）月表流星撞击；（4)月球低频通信等。天线的工作频段有两个：中频段 $1 0 0 \mathrm { K H z } \sim 3 ~ \mathrm { M H z }$ ；高频段 $3 \mathrm { M H z } \sim 1 0 0 \mathrm { M H z }$ 。它是由3根偶极子天线构成的“三极子”天线，每根偶极子长 $2 . 5 \mathrm { m }$ ，3根偶极子相互正交。3根偶极子的指向为沿垂直方向（ $z$ 轴)对称分布，故每根偶极子与水平面的夹角为 $3 5 . 3 ^ { \circ }$ ，这种空间位置排列方式使天线具有全向的辐射方向性。天线由一条金属长棍将信号传输到欧洲月球着陆器上进行后续处理，金属长棍的另一端安装在着陆器的上甲板。低噪声放大器（LNA）、滤波器、放大器都集成在偶极子中心馈电点处。国家天文台参与了欧洲月基甚低频射电干涉仪的设计研制工作，对所使用的三极子有源天线的性能进行了详细研究，并提出了估计来波方向（Direction Of Arrival，DOA)的算法[12]
+
+# 2.2 暗时代月球干涉仪
+
+暗时代月球干涉仪（Dark Ages Lunar Interferometer，DALI)是美国航空航天局资助正在研究的月基射电干涉仪，它的工作频段为 $3 0 \ \mathrm { M H z } \sim 2 0 0 \ \mathrm { M H z }$ ，最长基线长度 $1 0 ~ \mathrm { k m }$ ，设计寿命5年，该项目仅进行了地面样机研制，尚未在月球部署。美国航空航天局希望将它部署在月球表面上低频射电辐射干扰最小的月球背面或月球南极的环形山谷中。它的基础辐射单元是平面印刷型交叉偶极子，它们排列成纵队置于薄膜条带中。6条薄膜带以与相邻条带间距 ${ 6 0 } ^ { \circ }$ 排列成米字形，很多站组成完整的月球干涉仪。每条薄膜采用聚酰亚胺，长 $1 0 0 \mathrm { m }$ ，宽 $1 . 5 \mathrm { m }$ ，厚 $2 0 ~ \mu \mathrm { m }$ ，完整果覆嵌于其中的交叉偶极子，薄膜能够防止月尘污染天线和电子元件。每个站包含1500个交叉偶极子，总共约300个站构成月基低频射电天线。印刷偶极子要有易卷曲特性，每一条薄膜带需要卷成一卷由着陆器带到月表，再由宇航员展开铺设在月球土层表面[13]。
+
+# 2.3月基太阳射电望远镜
+
+月基太阳射电望远镜（Radio Observatory on the Lunar Surface for the Sun studies，ROLSS)是美国航空航天局研制的月球正面低频射电阵列天线，该阵列仅进行了地面样机研制，尚未在月球部署。天线的工作频率为 $1 ~ \mathrm { M H z } \sim 1 0 ~ \mathrm { M H z }$ ，角度分辨率达 $2 ^ { \circ }$ ，设计寿命1年。天线呈Y字型结构，3条臂每条长度为 $1 0 0 0 \mathrm { m }$ 。每条臂上有16个展宽的电小偶极子天线，每个偶极子天线长 $1 4 ~ \mathrm { m }$ 。为了得到较好的成像效果，偶极子天线以对数方式排列以提供傅里叶间距。天线完全被聚酰亚胺薄膜包裹，被偶极子截获的低频信号由天线上的低噪声放大器放大后经微波传输线传输到位于3条臂中间的中央电子设备（Central Electronics Package，CEP)上，再经由中央电子设备中的滤波器滤波后进行数模转换。中央电子设备及其后的电池模块均离开月面 $1 \mathrm { m }$ ，以避免月尘污染。3条长臂卷成卷塞进月球着陆器，落月后由机器人/宇航员以着陆器为中心向3个方向铺开，这种方案要求月球表面地质条件较好[14]。
+
+# 2.4射电宇宙学月基阵列望远镜
+
+射电宇宙学月基阵列望远镜(Lunar Array for Radio Cosmology，LARC)是美国航空航天局资助的月基射电天文项目。美国航空航天局希望将天线布置在月球背面山谷中的无线电安静区，以减轻来自地球的低频电磁干扰。天线工作频带为 $4 5 ~ \mathrm { M H z } \sim 9 0 ~ \mathrm { M H z }$ ，每个辐射单元由带有背腔的螺旋天线构成,天线直径 $1 . 2 \mathrm { m }$ ，布置前压紧在背腔盒子中，布置时弹出成形，故螺旋天线顶部直径要小于 $1 . 2 \mathrm { ~ m ~ }$ ，以使整个天线能压缩成一个平面，弹出后天线高 $8 . 2 \mathrm { ~ m ~ }$ 。螺旋天线可实现左旋圆极化或右旋圆极化,最大增益 $1 3 . 9 \mathrm { d B i }$ ，副瓣电平 $- 1 2 . 5 ~ \mathrm { d B }$ ，具有很强的方向性，且方向图具有很好的轴对称型。
+
+3个螺旋天线构成正三角形阵列自引导阵列节点和通信元件（Self Tending Array Node and Commun-ications Element，STANCE），每个螺旋天线几何中心到阵列中心的距离为 $1 . 2 \mathrm { ~ m ~ }$ 。位于同一个阵列中的每个螺旋天线具有相同的极化方式，STANCE的方向图绕阵列几何中心轴对称，最大增益 $1 6 . 7 \mathrm { d B i }$ ，主瓣宽度 $2 5 ^ { \circ }$ ，在 $7 0 \mathrm { M H z } \sim 9 0 \mathrm { M H z }$ 频段内副瓣电平均低于 $- 1 5 \mathrm { d B }$ 。位于阵列中心的是电子设备，其内部装有每个阵列所需的低噪放、滤波器、数模转换等电子元件，还有保持工作温度的相关设备。整个天线预计由3000至15000个螺旋天线构成，具体由科学目标决定单元数目。在电子设备外部装有连接到整个天线中心控制器上的光纤通信设备，采用光纤连接每个STANCE和中心控制器是为了防止微波通信泄漏等原因造成的谐波干扰[15]。
+
+# 2.5嫦娥二期月基甚低频干涉仪
+
+嫦娥二期月基甚低频干涉仪是国家天文台为嫦娥二期月面软着陆任务提出的月基甚低频干涉仪。它由两组偶极子天线组成，一组偶极子固定在着陆器(登月舱)上，着陆器一旦着陆月球将不能移动；另外一组偶极子安装在巡视器(月球车)上，随着巡视器的移动，两组天线不断进行干涉测量。宇宙甚低频电磁辐射按照带内最高频率奈奎斯特采样后进行简单处理发往地球，地面站接收反馈信号后应用干涉技术和相控技术进行后续处理。仿真结果显示，当观测频率为 $1 0 ~ \mathrm { M H z }$ ，两组天线距离 $3 ~ \mathrm { k m }$ 时，干涉仪的角度分辨率优于 $1 ^ { \circ [ 1 6 ] }$
+
+# 3国家天文台月球与深空探测重点实验室的月基低频天线
+
+月基低频天线需要经过火箭搭载并发射、降落月面和月表铺设3个阶段，要求天线系统必须具有小型化、轻量化和易折叠收纳的技术特点。天线的工作波长较长（中心频率处波长达 $1 9 . 9 2 \mathrm { ~ m ~ }$ )，因此绝大多数常用的天线形式在此并不适用。经充分讨论和研究，最终决定月基低频天线采用有源交叉偶极子天线（Active CrossDipole)作为阵列单元。在较低频段，相比于螺旋天线或对数周期天线等其他宽带天线，交叉偶极子天线具有结构简单、重量轻的突出优点，并且小型化和收纳技术比较成熟可靠，在月面的展开也相对容易。故国内外低频天线大都采用偶极子天线作为阵列单元。
+
+# 3.1有源交叉偶极子电小天线的设计
+
+月基低频天线的工作频带为 $0 . 1 ~ \mathrm { M H z } \sim 3 0 ~ \mathrm { M H z }$ ，带宽跨越300倍频程，属于极宽频带天线，且工作频率较低，电波波长很长。故交叉偶极子应设计为相应频段的电小天线，电小天线的长度一般为
+
+波长的 $1 / 8 \sim 1 / 4$ 左右。由于月基低频天线中心频点( $1 5 . 0 5 \mathrm { M H z } ,$ 的1/8波长为 $2 . 4 9 \mathrm { m }$ ，故设计了长度为 $2 . 4 9 \mathrm { m }$ 、宽度为 $0 . 0 1 \mathrm { ~ m ~ }$ 的交叉偶极子天线，如图1。该交叉偶极子由两个平行于月球表面的有源偶极子天线构成，两个偶极子互相垂直，分别接收水平极化波和垂直极化波，交叉偶极子具有接收线极化波和圆极化波的能力。低频偶极子天线的两臂可做成卷尺的形式，展开前收纳在卷尺盒里，到月表后可通过触发装置伸出卷尺盒，从而形成偶极子两臂。这种设计形式在月球微重力环境下的形变不大，对天线电性能几乎没有影响。
+
+![](images/5475f076d32d1b202fe5a246a96f0c62a185b9a6c6c5ffb4d6b62cfffac508a3.jpg)  
+图1HFSS 中的交叉偶极子模型Fig.1Cross Dipole in Ansoft HFSS
+
+对交叉偶极子天线在HFSS 中进行了仿真，仿真结果见图2。图中，两根偶极子分别馈电， $Z _ { 1 1 }$ 表示偶极子1的输入阻抗， $\boldsymbol { Z } _ { 2 2 }$ 表示偶极子2的输入阻抗。从图2中可见，两根互相垂直的偶极子的端口输人阻抗几乎完全相同，这说明两根偶极子是对称的。图2(a)两根偶极子的电阻值较小，符合电小天线辐射阻抗较小的一般规律。图2(b)两根偶极子的电抗小于0，说明偶极子在频带上呈电容性，在电路中可以等效为一个几欧姆的电阻串联一个电容器。电抗的绝对值很大，要求后续接收机的低噪声放大器具有很高的输入阻抗，故应设计成电压放大器的形式。
+
+![](images/c1a61fb208b9fcb95c95a4e35415f33cdb7cde60739392d5e9185a3c52f3241c.jpg)  
+图2（a）交叉偶极子的电阻曲线；（b）交叉偶极子的电抗曲线Fig.2（a）Resistance curve of the Cross Dipole；（b）Reactance curve of the Cross Dipole
+
+# 3.2有源交叉偶极子天线阵列的设计
+
+考虑到天线的布置场所为月球表面，天线的组阵应着重考虑稀疏阵列形式，应用较少的阵元数量，达到尽可能高的分辨率。初步设计为 $2 \times 2$ 的4阵元的正方形阵列形式，相邻两个阵元的间距为$4 . 9 8 \mathrm { ~ m ~ }$ 。在高频电磁仿真软件AnsoftHFSS中进行了建模和仿真，得到了天线阵列在 $3 0 \mathrm { M H z }$ 时的方向图，如图3。当阵列天线的每个阵元同相位接收电磁信号时，天线对垂直于天线平面的来波具有最强的接收能力，即天线阵列的主瓣指向天顶方向，此时天线阵的增益达 $8 . 1 5 { \mathrm { ~ d B i } }$ ，如图3(a）。调整天线阵元之间的相位关系，使天线阵列的主瓣指向 $E$ 面 ${ 3 0 } ^ { \circ }$ ，得到此时的阵列天线方向图，如图3（b）。可见，此时阵列天线的最大增益位于 $E$ 面 $2 7 ^ { \circ }$ 附近，与期望指向的 $E$ 面 ${ 3 0 } ^ { \circ }$ 有了 $3 ^ { \circ }$ 左右的角度偏差;此时的最大增益为 $6 . 3 5 \ \mathrm { d B i }$ 。使阵列天线对 $H$ 面 $4 5 ^ { \circ }$ 角方向的来波有最大接收能力，此时阵列天线的接收方向图如图3（c)。由图中可以看出，此时阵列的最大增益指向 $H$ 面 $4 8 ^ { \circ }$ 角方向，与需要的 $4 5 ^ { \circ }$ 角有 $3 ^ { \circ }$ 的增大，此最大增益为 $8 . 3 3 { \mathrm { ~ d B i } }$ 。
+
+![](images/8e04fd37282b3856515a7aab7bb0c98c7c28f0947341a8c1cd58d5355aa159cd.jpg)  
+图3（a）不扫描时阵列天线方向图；（b）主瓣指向 $E$ 面 ${ 3 0 } ^ { \circ }$ 时的方向图；（c）主瓣指向 $H$ 面 $4 5 ^ { \circ }$ 时的方向图 Fig.3（a）The Radiation Pattern of the Array when the main beam points at the $E$ -Plane with zero angle; （b）The Radiation Pattern of the Array when the main beam points at the $E$ -Plane with anangle of ${ 3 0 } ^ { \circ }$ ; （c）The Radiation Pattern of the Array when the main beam points at the $H$ -Plane with anangle of $4 5 ^ { \circ }$ （204号
+
+从仿真结果可以看出，该阵列天线具有较高的增益，可以对来自天空不同方向的电波进行观测和接收，并具有分辨来波方向的能力。
+
+# 4关键技术
+
+# 4.1低频天线小型化技术
+
+天线是将时变电流携带的能量转化成时变电磁场辐射出去的设备，要求天线尺寸与射线波长相比拟，低频射电天线观测电波的波长较长，天线单元尺寸较大。月基低频射电天线要求易于月面部署，天线在达到电性能指标的基础上小型化。天线小型化技术也是其他民用、军用天线着重关注的问题，在天线领域有很多效果较好的设计方法，可以为月基低频天线的设计提供参考。如欧洲月基天线采用卷尺型结构，部署前偶极子两臂分别卷缩在 $2 \mathrm { c m } \times 4 \mathrm { c m } \times 4 \mathrm { c m }$ 的盒子中，部署时两臂如卷尺般分别弹出 $1 . 2 5 \mathrm { m }$ ，形成长度为 $2 . 5 \mathrm { m }$ 的完整偶极子天线。月面的微重力环境使这种卷尺天线展开伸长后的形变仅为几厘米，不会对天线的电性能造成任何影响；月表稳定的真空环境又使展开后的卷尺天线不会发生由于风雨雪等的形变。卷尺结构的欧洲月基天线总质量仅为 $0 . 5 6 ~ \mathrm { k g }$ ，且卷尺天线的展开部署方便快捷，满足火箭对载荷重量的要求。美国航空航天局为暗时代月球干涉仪和月基太阳射电望远镜两个月基低频项目开发的天线也是卷尺类型，区别是这两个项目所使用的天线需要由机器人或宇航员平铺在月球表面[17]。
+
+# 4.2有源天线技术
+
+为了能对频率相差很多倍的宇宙低频信号做出响应，低频天线的频带一般都非常宽：欧洲月基天线频带宽度达到1000倍，这固然是因为天文观测对天线电性能的要求不像通信对天线的要求那么严格，但要让一副天线达到如此宽的带宽对天线工程师而言也是一个非常大的挑战，传统的无源天线根本做不到。故国内外天线工程师设计的此类天线多是有源天线，有源天线由于自身带有低噪声放大器等有源器件，能极大拓展天线的工作频带，实现对很宽频带内微弱宇宙信号的接收。
+
+# 4.3非频变/超宽带天线技术
+
+宇宙低频射线的频带非常宽，从几十 $\mathrm { k H z }$ 到几百MHz都有覆盖，为了接收这么宽频带内的电磁波，月基低频射电天线的观测频带必须相应很宽，往往高达几十或几百倍频程，如：欧洲月基天线是1000倍频程，美国暗时代月球干涉仪是6.67倍频程，美国月基太阳射电望远镜是10倍频程，这就要求接收天线具有非频变或超宽带的特性。天线的电性能是频率的函数，频率太低或太高都会使天线性能恶化，如方向图畸变、反射增大等。
+
+影响天线带宽的最重要原因是天线阻抗与馈线特征阻抗失配。射频信号通过同轴电缆送入天线，同轴线的特征阻抗与频率无关，一般是 $5 0 ~ \Omega$ ；而天线阻抗是频率的函数，当天线阻抗不等于 $5 0 ~ \Omega$ 时，在天线与同轴线连接处就会产生能量反射，使失配损耗 $L _ { \mathrm { M I S } }$ 增大。可调谐的宽带阻抗匹配电路能够在很宽的频带上匹配天线阻抗和馈线阻抗，它的原理类似于收音机的调谐电路。
+
+# 5未来发展趋势
+
+现阶段的主要任务是探测月球电离层、月表等离子体环境，探索在月表建立低频射电天线可能遇到的困难和挑战。采用的天线阵不能很大，阵列中天线个数不能很多，基线较短。阵元天线结构较简单，多为偶极子或单极子天线；观测灵敏度和角度分辨率较低，欧洲月基射电天线即属于这一类型。小型天线阵列的月面建设较简单，可由地面远程遥控布设。在对月表电磁环境充分了解和建立小型月基射电天线经验的基础上，建立大型低频射电天线阵。大型天线阵的基线长度比小型阵大大延长，阵列单元数目大大增加，可以达到上千个阵元。美国暗时代月球干涉仪、月基太阳射电望远镜和射电宇宙学月基阵列望远镜都属于这一类射电天线阵。这些低频天线阵能够分辨遥远距离以外几个相距很近天体的低频电磁辐射。大型射电阵列天线属大型天文基础设施，工程量较大，需要月表机器人甚至宇航员参与月面建设[18]。
+
+# 6结语
+
+本文重点阐述了月基低频天线较地基低频天线的优势、国内外研究现状、关键技术和未来发展趋势，并介绍了国家天文台月球与深空探测重点实验室的月基低频天线设计方案和仿真结果。结果表明，设计的交叉偶极子电小阵列天线具有较高的增益，较好的方向性，具有分辨来波方向的能力。希望能对月基天线领域的研究人员有所帮助和启迪。
+
+# 参考文献：
+
+[1] 张墨，黄茂海，颜毅华.卫星定位精度对在轨甚低频干涉测量影响分析［J].天文研究与技 术——国家天文台台刊，2014，11(4)：362-368. Zhang Mo，Huang Maohai，Yan Yihua.An analysis of influences of satelite positioning accuracies on Earth-orbit Ultra-Long Wavelength interferometry [J]. Astronomical Research & Technology——Publications of National Astronomical Observatories of China,2014，11(4） : 362 -368.   
+[2] Bougeret JL. Very low frequency radio astronomy [J]. Advances in Space Research，1996，18 (11): 35-41.   
+[3] 张金鹏，何乐生，董亮，等.低频射电天线数字终端的设计与实现［J]．天文研究与技术， 2016,13(2): 170-177. Zhang Jinpeng，He Lesheng，Dong Liang，et al. The design and implementation of a low frequency radio antenna array digital terminal[J]. Astronomical Research & Technology，2016, 13(2) : 170-177.   
+[4] Weiler K W.Low frequency astrophysics with a space arry[M].Berlin: Springer-Verlag, 1990: 8-18.   
+[5] 徐永华，汪敏，郝龙飞，等．太阳低频射电干涉阵的构建仿真［J]．天文研究与技术——国 家天文台台刊，2013，10(3)：242-248. Xu Yonghua，Wang Min，Hao Longfei，et al. Simulations of a low-frequency solar radio interferometry array [J].Astronomical Research & Technology- —Publications of National Astronomical Observatories of China，2013，10(3）:242-248.   
+[6] Smith H J. Very low frequency radio astronomy from the moon [M]. Berlin:Springer-Verlag, 1990: 29-33.   
+[7] Burns JO.The Lunar Observer Radio Astronomy Experiment（LORAE）[M]. Berlin: SpringerVerlag，1990:19-28.   
+[8] Herman JR，Caruso JA，Stone R G.Radio Astronomy Explorer（RAE）-I. observations of terrestrial radio noise ［J]. Planetary and Space Science，1973，21(3）: 443-461.   
+[9] Kaiser M L. Reflections on the radio astronomy explorer program of the 196Os and 7Os [M]. Berlin: Springer-Verlag，1990：1-7.   
+[10] Alexander JK， Kaiser M L，Novaco JC,et al. Scientific instrumentation of the Radio-AstronomyExplorer-2 satellite [J]. Astronomy and Astrophysics，1975，40(4）:365-371.   
+[11]Zarka P，Bougeret J-L，Briand C，et al.Planetary and exoplanetary low frequency radio observations from the Moon [J]. Planetary and Space Science，2012，74(1）:156-166.   
+［12］陈林杰，AminaeiA，颜毅华．月基甚低频射电干涉仪 Tripole天线特性研究［J]．电波科学 学报，2010，25(6)：1064-1072. Chen Linjie，Aminaei A，Yan Yihua. Characteristics analysis of tripole antenna for lunar very low frequency interferometer ［J]. Chinese Journal of Radio Science，2O10，25（6）：1064- 1072.   
+[13] Wolt M K，Aminaei A，Zarka P，et al.Radio astronomy with the European Lunar Lander: opening up the last unexplored frequency regime ［J]. Planetary and Space Science，2012，74 (1): 167-178.   
+[14] Lazio J，Carilli C，Hewitt J,et al.The lunar radio array（LRA）[C]// Proceedings of the SPIE.2009.   
+[15] Lazio T JW，MacDowall R J,Burns JO,et al. The Radio Observatory on the Lunar Surface for Solar studies [J].Advances in Space Research，2011，48(12）:1942-1957.   
+[16] 陈学雷.关于开展我国空间低频射电天文学研究的一些设想［C］/／中国宇航学会深空 探测技术专业委员会第二届学术会议.2005.   
+[17] Jester S,Falcke H. Science with a lunar low-frequency array:from the dark ages of the Universe to nearby exoplanets ［J].New Astronomy Reviews，2009，53(1-2）:1-26.   
+[18] Jones D L.An evolutionary sequence of low frequency radio astronomy missions [M].Berlin: Springer-Verlag，1990:34-41.
+
+# Low Frequency Antenna on the Moon
+
+He Ruoyu $^ { 1 , 2 }$ , Zhang Hongbo¹,Su Yan’，Kong Deqing1， Zhu Xinying1，Liu Jianjun1 (1.Nationnal Astronomical Obersevatories，Chinese Academyof Sciences，Beijing10oo12,China,Email；hery@nao.cas.cn； 2.University of Chinese Academy of Sciences，Beijing 1Ooo49，China)
+
+Abstract：Low frequency antenna on the Moon gains increasing research atention in recent years. Because of the shield effect caused by the Earth's Ionosphere，electromagnetic wave ranging from 3OMHz and below isvery diffcult to detect.Especialy,radio wave below 5MHz cannot be received byearth-based antenna at all.It is proved that lunar surface,especially the surfaceof the Moon's far side,is a perfect region for low frequency radio observation.This paper presents advantages of low frequency astronomy observation with low frequency antenna installd on the lunar surface after comparing with observations using low frequency earthbased antenna.By investigating scientific and technical literature，this paper also presents research progresses of low frequency antenna on the Moon both domestic and abroad.It discuses in detail the lunar low frequency antenna designed by the Key Laboratory of the Moon and Deep Space Exploration of the National Astronomical Obersevatories，Chinese Academy of Sciences.The antenna array is modeled in CAD and simulated in HFSS. Simulation results show that the gain of the antenna array of the Cross Dipole is relatively highand the Cross Dipole array has the ability to detect the wave's direction.This paper then discusss the key techniques of designing lunar low frequency antennas.In order to meet requirements of the payload of a spacecraft—small, lightweight and foldable，this paper gives a“tape”design scheme of the Cross Dipole：the array element. Development trend of low frequency antenna on the Moon is introduced at the end of this paper.
+
+Key words: Lunar antenna；Low frequency antenna；Active antenna

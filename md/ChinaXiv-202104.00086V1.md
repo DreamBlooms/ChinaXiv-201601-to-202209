@@ -1,0 +1,241 @@
+# 新颖语义联结在顿悟促进记忆效果中的作用
+
+陈石＂梁正1#李香兰1#陈嫣然」赵庆柏1\*于全磊\*李松清」周治金\*刘丽中²(1青少年网络心理与行为教育部重点实验室,华中师范大学心理学院,湖北省人的发展与心理健康重点实验室,武汉430079)
+
+(华中师范大学教育学院,武汉 430079)
+
+摘要采用成语谜题选择任务,通过学习-测验范式探究顿悟促进记忆的认知神经机制。实验1采用行为实验,验证成语谜题选择范式在探究顿悟促进记忆中的有效性,结果显示,相比于寻常联结条件,新颖联结条件下被试在学习阶段具有更高的顿悟感得分,在测试阶段具有更高的正确率，范式的有效性得以验证。实验2采用 fMRI技术探究顿悟促进记忆的关键脑区。结果显示，相比于失败记忆新颖联结条件,成功记忆新颖联结条件更强地激活了顿悟过程相关脑区,包括海马、杏仁核、额中回、颞上回和颞中回。这说明在学习阶段的顿悟问题解决过程中,对信息的深加工与积极情绪促进了随后的记忆;对其进一步分析发现,相比于寻常联结记忆，新颖联结对记忆的促进效应主要与右侧海马激活有关，它可能反映了在顿悟问题解决中新颖联结形成过程建立了情节记忆以及新颖且有价值的语义联结。研究结果表明新颖语义联结形成在顿悟促进记忆中发挥了重要作用。
+
+关键词新颖语义联结,顿悟,记忆,海马,成语谜题
+
+# 1引言
+
+顿悟是
+
+个体在问题解决陷入思维僵局后,打破思维定势并突然完成问题解决的创造性思维形式(沈汪兵 等,2013)。顿悟的产生常伴随着一种“啊哈”体验,个体会对突然意识到的答案感到惊讶并确信解决方案的正确性，同时产生激动愉快的情绪(Bowden&Jung-Beeman,2003)。顿悟能超越先前知识经验的限制,形成新异且有价值的信息联结,有利于个体实现对新环境的适应,因此被认为是一种重要的深度学习模式(Ohlsson,2011)。
+
+先前研究发现,顿悟能促进学习效果的提升。Auble 等人(1979)采用复杂句子理解任务(例如,句子是“由于两端太大,那个男人的背很疼”,线索是“杠铃”)首次探究了顿悟对记忆的促进效应。该研究将在句子之前呈现线索定义为非顿悟条件,在句子之后呈现线索作为顿悟条件。结果发现,被试在顿悟条件比非顿悟条件回忆出更多的句子和线索。随后,Wills等人(2000)将顿悟的记忆优势效应研究扩展到图片刺激领域。他们采用类似的范式(事前是否呈现线索)在连点成图任务中发现类似结果—一顿悟条件下的被试具有更好的记忆效果。然而，上述两个研究并没有检验顿悟是否发生，也没有要求被试报告是否能在无线索提示下自行解决谜题。鉴于此,Danek 等人(2013)在一项观看魔术揭秘的视频任务中要求被试报告是否存在顿悟体验,以此来区分顿悟和非顿悟条件,结果同样发现了顿悟的记忆优势效应。作者提出,顿悟体验是促进记忆的关键。在此基础上,Kizilirmak,Galvao Gomes da Silva 等人(2016)进一步考察了顿悟问题解决的学习阶段中答案产生方式(被试自主想出答案、未想出继而呈现答案)和主观“啊哈”体验(有“啊哈”和无“啊哈”)对记忆效果的促进作用。结果发现在测试阶段,答案产生方式和主观“啊哈”体验在旧问题解决率(间接测验)与旧问题再认率(直接测验)上不存在相互影响,自主想出答案对间接测验的影响更大，而“啊哈”体验对直接测验的影响更大。
+
+除行为实验外,也有研究者采用功能核磁共振成像(fMRI)手段来探究顿悟促进记忆的作用机制。Ludmer等人(2011)通过难以识别的模糊图片来诱发知觉顿悟,并采用 fMRI记录被试的大脑活动。在一周后测试记忆效果,并对比成功记忆与未成功记忆图片在学习顿悟阶段中激活的脑区。结果发现,成功记忆条件中被试的中层视觉皮层和内侧前额皮层激活更强，其中杏仁核的激活能显著正向预测图片的长时记忆保持效果。Ludmer 等人认为,杏仁核与积极的顿悟体验有关，能作为强化物塑造大脑皮层活动，从而促进长时记忆。除此之外，Kizilirmak,Thuerich等人(2016)采用复合远距离联想任务探究顿悟促进记忆的作用机制，该任务要求参与者根据呈现的三个看似不相关的单词(例如cloth,tennis,manners),找到能与三个单词组合成复合词的第四个单词(table)。他们通过呈现真、假答案来区分顿悟和控制条件,结果发现顿悟更强地激活了前扣带回、内侧前额皮层和海马。同时,通过比较24小时后记得和不记得的题目在顿悟解决时的脑激活的差异,研究者发现了左侧纹状体和杏仁核的更强激活。由此,该研究指出顿悟诱发的正性情绪体验能促进奖赏学习,进而提升记忆效果。
+
+先前的行为和神经成像研究都证实了“啊哈”体验在顿悟促进记忆中的作用。尽管“啊哈”体验是顿悟的典型特征,但其本质上只是顿悟结果的副产品。作为一种创造性思维形式或者深度学习方式,顿悟的核心在于打破思维定势,形成新颖且有效的信息联结(赵庆柏，魏琳琳 等,2017)。Kizilirmak 等人(2019)采用复合远距离联想任务探究了顿悟中新颖语义联结的学习。该研究发现顿悟更强地激活了海马，内侧前额皮层,杏仁核和纹状体,但只有内侧前额皮层和颞顶新皮质与随后的学习记忆有关，海马与记忆效果并无关系。Kizilirmak 等人认为,顿悟中新颖语义联结的学习依赖于一个独立于海马的内侧前额皮层网络。然而,先前关于顿悟的大量研究证实,海马是新颖语义联结形成的关键脑区(Luo&Niki,2003;Zhaoet al.,2013;Zhao etal.,2014;赵庆柏,柯娓 等,2017),而且海马也是情景和语义记忆的关键脑区(Opitz,2014)。那么,为何该研究中发现了顿悟条件下海马的激活,却未发现海马在顿悟促进记忆中的作用？研究者解释称,海马主要参与了答案词与题目词形成过程的评估，而内侧前额皮层主要参与复合词语义相关的概念知识的激活,因此内侧前额皮层促进了依赖于先前知识的长时记忆,而非海马。
+
+尽管Kizilirmak 等人给出了自己的解释,但未发现顿悟条件下海马促进记忆这一结果可能与其所选择的顿悟任务—一复合远距离联想有关。复合远距离联想任务是由Bowden 和Jung-Beeman (2003)基于Mednick(1962)的远距离联想测验开发的,该任务中答案词可以同时与三个看似无关的词组成复合词,从而形成新颖的语义联结,激发被试的“啊哈”体验。
+
+但这种任务形式是以实验为目的人为进行编制的,仅存在于实验室创造力研究当中。在日常生活并不存在此类任务活动，所建立的新颖联结在脱离了实验情境后便失去意义。由此,海马虽参与了复合远距离联想任务学习编码过程中新颖语义联结形成,但并未促进其记忆效果。
+
+相对于复合远距离联想任务,汉语成语谜题任务的素材取自汉语成语谜语库,是一种广为流传的语言形式。在猜测成语谜语问题的谜底时,参与者一般需要重新编码谜面信息，即重构问题的心理表征,形成新颖语义联结,并获得“啊哈”体验,因此成语谜题属于顿悟问题。即使在脱离实验情境时,参与者仍可以将其运用到日常生活的休闲娱乐、文字游戏中。由此可见,该任务不仅能诱发顿悟过程,而且在解决过程中形成的新颖语义联结具有一定的现实价值(赵庆柏 等,2015)。在激发顿悟的方式上,尽管让被试自主生成答案最能体现顿悟问题解决的过程与特点,但是采用此实验任务完成时间较长，成功率较低。而直接向被试呈现答案又难以反映完整的顿悟问题解决过程(黄福荣 等,2013)。因此，7本研究采用答案选择任务范式,较好地兼顾这两者。
+
+综上,本研究采用汉语成语谜题任务，考察新颖语义联结,特别是海马在顿悟促进记忆效果中的作用。实验1采用行为实验,验证成语谜题的答案选择范式在考察顿悟促进记忆效果研究中的有效性;实验2则采用fMRI技术,考察顿悟促进记忆效果的神经机制。
+
+# 2实验1
+
+# 2.1实验目的
+
+采用行为实验，验证成语谜题的答案选择范式在考察顿悟促进记忆研究中的有效性。
+
+# 2.2研究方法
+
+2.2.1被试
+
+被试量的确定依据两方面：一方面,先前关于顿悟促进记忆的行为研究被试量为20人到30人,即可得到显著的差异性结果(Danek et al.,2013;Kizilirmak,Galvao Gomes da Silva etal.,2016)。另一方面,根据Danek 等人(2013)研究中记忆效果差异的效果量(Cohen's $d =$ 0.61),采用G-power 软件计算,设置Power为0.8,α水平为0.05,计算需要被试样本量为24。本研究招募31名大学本科生(男生10
+
+,女生21
+
+)为被试,年龄在18\~22岁。所有被试均为汉语母语的右利手者,视力或矫正视力正常,均为自愿参加实验。实验前告知被试实验注意事项,并签署知情同意书。实验结束后,被试均获得相应的报酬。
+
+# 2.2.2实验设计
+
+采用单因素两水平被试内设计,自变量为被试在学习阶段选择成语谜语答案的类型,分为寻常联结和新颖联结两种水平。因变量是后期测验阶段被试对学习阶段中所选答案的回忆正确率。
+
+# 2.2.3实验材料
+
+从成语谜语材料库(黄福荣 等,2013)中选取56道题目,8道题目用于练习阶段,48道题目用于正式阶段。在答案选择任务中,为每道谜题设置4个备择选项,包括一个新颖答案、一个寻常答案和两个无关答案。其中,新颖答案与谜面存在内隐的语义关联,是成语谜语原本匹配的答案。以“越做越快”为例,其新颖答案是“积劳成疾”，在谜底中“疾”的凸显语义是“疾病”，而成语情境会强化这一凸显语义的激活。但在谜面与谜底建立语义关联时，需要打破“积劳成疾”这个成语的整体意义,并抑制“疾”字作为“疾病”的凸显语义,激活其“飞快”的非凸显语义。也就是说,新颖答案的选择需要破解成语谜底的整体含义(组块),对关键字进行语义别解,并重新组合成新的含义,这一过程便是新颖语义联结的产生过程。寻常答案取自研究者以往预实验中被试针对谜面自主生成且生成率较高的成语,寻常答案的平均生成率为 $3 2 . 5 \% \pm 5 . 9 \%$ 。无关答案取自被试针对其他谜面生成的答案。该任务要求被试选择新颖且合适的答案。表1列举了在实验1中所用到的两道谜题以及备选答案。
+
+表1实验1成语谜题答案选择任务材料举例  
+
+<html><body><table><tr><td>谜面</td><td>新颖答案</td><td>寻常答案</td><td>无关答案1</td><td>无关答案2</td></tr><tr><td>越做越快</td><td>积劳成疾</td><td>熟能生巧</td><td>飘飘欲仙</td><td>变化多端</td></tr><tr><td>观光</td><td>一览无余</td><td>游山玩水</td><td>歌颂功德</td><td>至死不渝</td></tr></table></body></html>
+
+# 2.2.4实验程序
+
+实验开始前,被试先进行8道谜题的练习,确保熟悉实验流程再进入正式实验。实验分为两个阶段。在学习阶段,要求被试尽量选出新颖且合适的答案,并向其介绍“啊哈”体验的定义、例子与主要特征,要求被试对每个试次的“啊哈”体验进行自评。实验流程是：首先在屏幕中央呈现十字注视点1s,间隔0.5 s后,呈现谜面4s,在谜面不消失的情况下呈现4个答案(新颖答案、寻常答案以及无关答案的空间位置进行了平衡)。要求被试在6s内选出新颖且合适的答案。被试进行按键选择后,出现“啊哈”体验评定界面。“啊哈”体验定义参考先前的研究者(Kizilirmak,Galvao Gomes da Silva et al.,2016),要求被试根据选择答案时体验到的“啊哈”程度进行1\~6等级评分，1表示无“啊哈”,6表示有强烈的“啊哈”体验。“啊哈”程度评定后,进入下一试次。两试次间隔2s。实验材料随机呈现,中间休息一次。学习阶段实验流程如图1所示。学习阶段实验结束后,告知被试1周后的同一时间前来进行另一实验。
+
+![](images/e128cb00fbef415e6ce03ab1da4c983f83ef20cd24e2cc74fb07a8d0236ec2c6.jpg)  
+图1实验1学习阶段实验流程图
+
+1周后进行测验阶段。实验流程基本与学习阶段相似,不同的是要求被试选出在之前学习阶段所选的答案,并且在被试对答案进行选择之后,不进入“啊哈”体验评定界面。为了考察被试真实的记忆情况,参考前人的研究(Kizilirmak,Galvao Gomes da Silva et al.,2016),要求被试选择答案后对选择的原因进行按键回答(限时4秒)。选1表示记得,即记得自己上周选择了该答案;选2表示觉得熟悉,对所选答案有一种熟悉感;选3表示猜测,即所选的答案是猜测的结果。
+
+# 2.2.5数据处理
+
+根据被试在学习阶段所选择的成语谜题的答案类型进行分类,区分新颖联结和寻常联结两种条件。根据测验阶段中被试的按键反应,分别计算被试在两种条件下的正确率(测验阶段所选答案与学习阶段所选答案一致视为正确,不一致视为错误)。在探究条件对于回忆正确率和选择反应时的影响时,采用线性混合模型(LMMs)排除被试选择新颖与寻常答案数量以及条目本身(如难度、问题字数等)差异所带来的影响,采用基于 R语言环境下的 Ime4 统计软件包中的 lmer 程序进行分析。
+
+# 2.3实验结果
+
+在学习阶段的48道谜题中，被试选择新颖答案的比例为 $5 9 . 0 1 \% \pm 1 4 . 7 4 \%$ ，选择寻常答案的比例为 $3 0 . 8 1 \% \pm 1 4 . 7 0 \%$ 。被试在两种条件下的选择反应时和“啊哈”体验评分见表2。对两种条件下的反应时和“啊哈”体验评分进行线性混合模型分析。在模型中,分别将反应时和“啊哈”体验评分设为因变量,条件(新颖联结或寻常联结)作为固定效应,加入了选择数目、难度和问题字数作为控制变量,指定被试作为随机效应。模型的R公式如下：model $\mathbf { \Sigma } = \mathbf { \Sigma }$ lmer(反应时/啊哈”体验评分 $\sim$ 条件 $^ +$ 选择数目 $^ +$ 难度 $^ +$ 问题字数 $+ \left( 1 \right|$ 被试))。将该模型与去掉条件固定效应的模型进行比较,结果显示：排除控制变量的影响后,条件对反应时无显著影响 $( \chi ^ { 2 } ( 1 ) = 0 . 2 0 , p = 0 . 6 5 )$ ，而条件影响“啊哈”体验评分 $( \chi ^ { 2 } ( 1 ) = 2 3 . 9 3 , p <$ 0.001),新颖联结条件比寻常联结条件的“啊哈”体验评分高 $0 . 4 6 \pm 0 . 0 8$ (标准误)。
+
+表2 学习阶段被试的选择反应时和“啊哈”体验评分 $( M \pm S D )$   
+
+<html><body><table><tr><td>新颖联结</td></tr><tr><td>寻常联结</td></tr><tr><td></td></tr><tr><td></td></tr></table></body></html>
+
+<html><body><table><tr><td>选择反应时</td><td>3.65 ± 0.51 s</td><td>3.85 ± 0.54 s</td></tr><tr><td>“啊哈”体验</td><td>3.96 ± 1.01</td><td>3.00 ± 1.05</td></tr></table></body></html>
+
+在测试阶段，新颖联结条件下的正确率 $( 8 4 . 1 0 \% \pm 9 . 6 3 \% )$ 显著高于寻常联结条件 $( 6 8 . 3 5 \%$ $\pm 1 5 . 2 6 \% )$ 。对两种条件下的正确率进行线性混合模型分析,模型与先前一致,仅将因变量设定为正确率。结果显示：排除控制变量的影响后,条件影响正确率 $( \chi ^ { 2 } ( 1 ) = 6 . 2 6 , p = 0 . 0 1 )$ ，新颖联结比寻常联结条件的正确率高 $5 . 7 9 \ \% \pm 2 . 2 5 \%$ (标准误)。
+
+对被试在两种条件下的正确率进行进一步的细分,不同原因下的正确率结果见表3。配对样本 $t$ 检验结果显示,在原因“记得”上,新颖联结条件的正确率显著高于寻常联结条件 $t$ $( 3 0 ) = 7 . 0 4 0$ ， $p < 0 . 0 0 1$ , Cohen's $d = 1 . 2 8$ ，差异的 $9 5 \%$ CI为[19.53,35.49];在原因“熟悉”和“猜测”上，新颖联结形成的正确率显著低于寻常联结条件 $t ~ ( 3 0 ) = - 2 . 8 6 1$ ， $p = 0 . 0 0 8$ Cohen's $d = 0 . 6 0$ ，差异的 $9 5 \%$ CI为 $^ { \prime } [ - 1 2 . 9 6 , - 2 . 1 7 ] ; t ( 3 0 ) = - 2 . 7 5 2 , p = 0 . 0 1 ,$ Cohen's $d = 0 . 6 6$ 0差异的 $9 5 \%$ CI为[-11.94,-1.77]。该实验结果表明,新颖联结形成条件下,被试记忆更准确。
+
+表3实验1测试阶段不同原因下的正确率 $( M \pm S D )$   
+
+<html><body><table><tr><td></td><td>新颖联结(%)</td><td>寻常联结(%)</td></tr><tr><td>记得</td><td>61.56 ± 18.19</td><td>34.05 ± 24.26</td></tr><tr><td>熟悉</td><td>17.68 ± 10.40</td><td>25.24 ± 14.39</td></tr><tr><td>猜测</td><td>4.71 ± 4.57</td><td>11.56 ± 13.85</td></tr></table></body></html>
+
+# 2.4讨论
+
+实验1的研究目的在于验证成语谜题的答案选择范式在考察顿悟促进记忆研究中的有效性。在本实验中,新颖联结条件是通过谜面与谜底之间的联系进行的客观区分,新颖答案的选择需要被试打破答案的成语组块,对其中的关键字进行语义的广泛激活,形成成语的新含义，并在谜底和谜面之间建立新颖的语义联系。由于被试在选择新颖联结的答案时报告产生了显著更强的顿悟体验，说明客观的认知过程和主观的情绪体验均表明新颖语义联结条件下顿悟的发生。另外，相对于寻常联结条件,被试在新颖联结条件下测试正确率更高,且主要原因是“记得”。以上结果表明,在成语谜语选择任务中同样出现了顿悟对记忆的促进效应。
+
+# 3实验2
+
+# 3.1实验目的
+
+采用fMRI实验,考察新颖语义联结(特别是海马)在顿悟促进记忆中的作用。
+
+# 3.2研究方法
+
+# 3.2.1被试
+
+被试量的确定依据两方面：一方面,先前关于顿悟促进记忆的 fMRI研究被试量在17人到26人之间,且可得到显著的差异性结果(Kizilirmak et al.,2019;Ludmer et al.,2011)。另一方面,根据同样使用 fMRI的Kizilirmak,Thuerich 等人(2016)的研究中记忆效果差异的效果量(Cohen's $d = 0 . 9 5 5$ ),采用G-power 软件计算设置Power为0.8, $\mathfrak { a }$ 水平为0.05,计算需要被试样本量为11人。本研究招募被试为26名高校学生(男生11
+
+,女生15
+
+),年龄在19\~28 岁。其中,5名被试在 fMRI扫描中头动大于 $3 \mathrm { m m }$ ，另3名被试在测试阶段正确试次过少,因此只有18名被试的数据进入后期分析。所有被试均为汉语母语的右利手者,视力或矫正视力正常,均为自愿参加实验。实验前告知被试注意事项,并签署知情同意书。实验结束后被试均获得相应的报酬。
+
+# 3.2.2实验设计
+
+采用单因素两水平被试内设计，自变量为被试选择成语谜语答案的类型。在学习阶段结束后,根据被试选择答案的类型,分为寻常联结和新颖联结两种水平。因变量是被试在学习阶段的大脑激活程度以及在后期测验阶段对学习阶段中所选答案的回忆正确率。
+
+# 3.2.3实验材料
+
+在实验1中,新颖联结和寻常联结条件在测试阶段的正确率分别为 $8 4 . 1 0 \%$ 和 $6 8 . 3 5 \%$ 这意味着失败记忆的试次较少。然而,fMRI数据分析需要对成功记忆和失败记忆进行比较。为保证失败记忆条件有足够的试次用于数据分析,实验2从成语谜语材料库(黄福荣 等,2013)中选取98道题目,8道用于练习阶段,90道用于正式阶段。
+
+另外学习阶段答案选择的难度以及测试阶段记忆提取的难度被提高。在答案选择任务中无关答案被替代为似是而非答案,此时每道谜题共有3个备择选项,包括一个新颖答案、一个寻常答案和一个似是而非的答案。新颖答案与谜面存在内隐的语义关联,是成语谜语原本匹配的答案。寻常答案取自研究者以往预实验中被试针对谜面自主生成且生成率较高的成语。似是而非答案取自预实验中被试针对谜面自主生成且与谜面存在一定关联,但扣合度低的成语。表4列举了在实验2中所用到的两道谜题以及备选答案。在测试阶段的答案选择界面中,谜面下方的备择答案不是完整的四字成语，而是只有成语的第二和第三个字,如,学习阶段的“积劳成疾”，在测验阶段呈现的是“劳成_”。
+
+表4实验2成语谜题答案选择任务材料举例  
+
+<html><body><table><tr><td>谜面</td><td>新颖答案</td><td>寻常答案</td><td>似是而非答案</td></tr><tr><td>越做越快</td><td>积劳成疾</td><td>熟能生巧</td><td>突飞猛进</td></tr><tr><td>神曲</td><td>不同凡响</td><td>天籁之音</td><td>响彻云霄</td></tr></table></body></html>
+
+# 3.2.4实验程序
+
+实验分为学习和测试两个阶段。
+
+在学习阶段,通过指导语要求被试尽量选出新颖且合适的答案。被试先进行8道谜题的练习,确保熟悉实验流程再进入正式实验。正式实验分三部分进行,每部分包含30道题目，总计30分钟。正式实验流程与实验1相似,不同的是在答案选择和顿悟感判断界面前各增加1s的空屏,“啊哈”体验改为1\~3评分,两个试次之间的时间间隔增长至6s。采用 fMRI
+
+技术记录被试在学习阶段的大脑活动。
+
+1周后进行测验阶段。实验流程基本与实验1相似。
+
+# 3.2.5数据记录与分析
+
+根据被试在学习阶段所选择的成语谜题的答案类型进行分类,区分新颖联结和寻常联结两种条件。根据测验阶段中被试的按键反应,分别计算被试在两种条件下的正确率(测验阶段所选答案与学习阶段所选答案一致视为正确,不一致视为错误)。与实验1相似,在探究条件对于回忆正确率和选择反应时的影响时,采用基于R语言环境下的线性混合模型(LMMs)进行数据分析。
+
+使用西门子公司的 Siemens Trio 3.OT磁共振扫描仪和配备EPI功能的头线圈进行脑成像扫描。采用磁化准备快速梯度回波序列获取每个被试T1加权像。扫描参数： $\mathrm { { T R / T E } = }$ $9 . 7 ~ \mathrm { m s } / 4 ~ \mathrm { m s } .$ 翻转角9度,视野(FOV) $2 5 6 \mathrm { m m } \times 2 5 6 \mathrm { m m }$ ，轴向128层,层厚 $1 . 2 5 \mathrm { m m }$ 。功能性图像采用多次激发梯度回波EPI序列,在T2加权图像的层面上进行BOLD功能磁扫描,取32层 $3 . 7 5 \mathrm { m m }$ 厚隔层扫描记录全脑活动。成像参数为：平面分辨率 $3 \mathrm { m m } \times 3 \mathrm { m m }$ $\mathrm { T R } = 2 ~ \mathrm { s }$ ，$\mathrm { T E } = 3 5 ~ \mathrm { m s }$ ， $\mathrm { F A } = 8 0 ^ { \circ }$ $\mathrm { F O V } = 1 9 2 ~ \mathrm { m m } \times 1 9 2 ~ \mathrm { m m }$ ,Matrix $= 6 4 \times 6 4$ 。为防止头动,在头线圈与被试头部之间用海绵块填塞。使用 SPM8软件对得到的 fMRI功能像数据进行分析处理。首先进行层间时间校正,参考层选择图像扫描顺序的中间层;随后进行头动校正,将每个实验序列中的所有图像与该序列的第一幅图像对齐;然后将功能像和结构像进行对齐,分割,把不同的大脑图像进行 $2 \ : \mathrm { m m } \times 2 \ : \mathrm { m m } \times 2 \ : \mathrm { m m }$ 的大小重采样处理,标准化到MNI的EPI模板上,最后进行 $8 \mathrm { m m }$ 的高斯平滑处理。
+
+根据被试选择的答案区分出两种条件，寻常联结形成条件和新颖联结形成条件，再根据后期测试任务的结果,区分出成功记忆和失败记忆两种条件。这样就共分为4种事件类型，即成功记忆新颖联结条件、失败记忆新颖联结条件、成功记忆寻常联结条件和失败记忆寻常联结条件。采用一般线性模型得到四种条件的个体激活,并采用 flexible factorialdesign 方法进行组分析,分别得到新颖连结相关脑区、记忆相关脑区以及二者交互作用相关的脑区。由于成语谜题的解决过程相对复杂,同类材料中不同题目的认知加工过程存在差异,甚至对于相同题目不同被试的认知加工也可能不完全相同，因此fMRI组分析参考先前成语谜题任务研究(Zhao etal.,2013)采用相对宽松的阈值,进行条件间比较,选择阈值 $p < 0 . 0 0 1$ (未矫正)且连续激活体素大于20的区域。由引言综述可知，本研究预测海马在新颖语义联结促进记忆中发挥重要作用,因此选择海马作为感兴趣区,提取其在每个条件下的Beta值,进行 2(语义联结类型：新颖联结VS 寻常联结) $\times 2$ (记忆类型：成功记忆VS失败记忆)重复测量方差分析。海马脑区坐标参考fMRI数据分析中的交互作用相关结果。方差分析的 $p$ 值用Greenhouse-Geisser 法校正。
+
+# 3.3实验结果
+
+# 3.3.1行为结果
+
+在学习阶段,90 道谜题中被试选择新颖答案的比例为 $4 2 . 4 7 \% \pm 1 4 . 8 2 \%$ ，选择寻常答案的比例为 $3 4 . 3 8 \% \pm 1 4 . 6 5 \%$ 。新颖联结条件下，反应时为 $2 . 9 9 \pm 0 . 7 7 \mathrm { s }$ ，“啊哈”体验评分2.41$\pm 0 . 2 4$ ；寻常联结条件下反应时为 $2 . 8 8 \pm 0 . 8 8 \mathrm { ~ s ~ }$ ，“啊哈”体验评分 $2 . 1 1 \pm 0 . 3 3$ 。对两种条件下的反应时和“啊哈”体验评分进行线性混合模型分析。模型与实验1相似,其R公式如下：model $\mathbf { \Sigma } = \mathbf { \Sigma }$ lmer(反应时/啊哈”体验评分 $\sim$ 条件 $^ +$ 选择数目 $^ +$ 难度 $^ +$ 问题字数 $+ \left( 1 \right|$ 被试))。将该模型与去掉条件固定效应的模型进行比较,结果显示：排除控制变量的影响后,条件对反应时无显著影响 $( \chi ^ { 2 } ( 1 ) = 0 . 0 2$ $p = 0 . 8 9 \mathrm { \cdot }$ ，而条件影响“啊哈”体验评分 $\left( \chi ^ { 2 } ( 1 ) = 6 . 1 9 \right.$ $p =$ 0.01),新颖联结条件比寻常联结条件的“啊哈”体验评分高 $0 . 1 8 \pm 0 . 0 7$ (标准误)。
+
+在测试阶段，新颖联结条件下的正确率为 $6 2 . 5 2 \% \pm 1 3 . 4 5 \%$ ，寻常联结条件下的为$6 2 . 7 6 \% \pm 1 2 . 8 2 \%$ 。对两种条件下的正确率进行线性混合模型分析,模型与先前一致,仅将因变量设置为正确率。结果显示：排除控制变量的影响后,条件对正确率无显著影响 $\begin{array} { r } { ( \chi ^ { 2 } ( 1 ) = } \end{array}$ 0.001, $p = 0 . 9 7 \$ 。对被试在两种条件下的正确率进行进一步的细分,不同原因下的正确率结果见表5。配对样本 $t$ 检验结果分别显示,在原因“记得”上,新颖联结条件的正确率显著高于寻常联结条件 $t \left( 1 7 \right) = 2 . 1 2 4$ $p = 0 . 0 4 9$ , Cohen's $d = 0 . 6 2$ ，差异的 $9 5 \%$ CI 为[0.057, 17.65];在原因“熟悉”上,新颖联结形成的正确率显著低于寻常联结条件 $t \left( 1 7 \right) = - 3 . 0 1 2 , p = 0 . 0 0 8$ Cohen's $d = 1 . 0 1$ ，差异的 $9 5 \%$ CI为[-16.04,-2.83];在原因“猜测”上,两种条件不存在显出差异， $p > 0 . 0 5$ 。
+
+表5实验2测试阶段不同原因下的正确率 $( M \pm S D )$   
+
+<html><body><table><tr><td></td><td>新颖联结(%)</td><td>寻常联结(%)</td></tr><tr><td>记得</td><td>44.27 ± 16.36</td><td>35.42 ± 11.71</td></tr><tr><td>熟悉</td><td>11.48 ± 4.72</td><td>20.91 ± 12.34</td></tr><tr><td>猜测</td><td>6.77 ± 4.65</td><td>6.47 ± 5.25</td></tr></table></body></html>
+
+# 3.3.2fMRI结果
+
+采用 flexible factorial design 分析获得语义联结类型(新颖联结 VS 寻常联结)主效应、记忆类型(成功记忆 VS 失败记忆)主效应以及二者交互作用的脑区(见表6)。语义联结类型主效应结果显示,相对于寻常语义联结条件,新颖语义联结条件更强地激活了双侧小脑、右侧海马旁回和左侧额中回。
+
+记忆类型主效应结果显示,相比于失败记忆，成功记忆更强地激活了右侧嗅球、小脑和中央前回以及左侧额中回、额下回和杏仁核。对记忆效应进行细分发现,新颖联结条件下，记忆相关的脑区包括右半球的嗅球、海马、脑岛和中央前回以及左半球的杏仁核、角回、额中回、颞上回和颞下回;寻常联结条件下,记忆相关的脑区涉及小脑和嗅球。
+
+语义联结与记忆二者交互作用相关的脑区涉及右侧海马以及左侧小脑和颞上回。选择右侧海马作为感兴趣区，以海马脑区的激活极值点为中心,提取半径为 $6 \mathrm { m m }$ 的球体内所有体素,计算其Beta值的平均值作为感兴趣区的激活强度值。采用2(语义联结类型：新颖联结 VS 寻常联结) $\times 2$ (记忆类型：成功记忆VS失败记忆)重复测量方差分析对海马的脑激活强度进行差异性检验。结果显示,记忆类型的主效应显著 $F \left( 1 , 1 7 \right) = 7 . 2 6 , p = 0 . 0 1 5 .$ 偏 $\eta ^ { 2 }$ $= 0 . 3 0$ ；语义联结和记忆的交互作用显著 $F \left( 1 , 1 7 \right) = 1 1 . 3 3 , p = 0 . 0 0 4$ ，偏 $\eta ^ { 2 } = 0 . 4 0$ 。简单效应分析结果显示,新颖联结条件下成功记忆条件的海马激活强度显著大于失败记忆 $F \left( 1 , 1 7 \right) =$ 29.74, $p < 0 . 0 0 1$ ，偏 $\eta ^ { 2 } = 0 . 6 4$ ，而在寻常联结条件下成功记忆和失败记忆之间不存在显著差异 $p > 0 . 0 5$ (见图2)。
+
+表6新颖语义联结、记忆以及交互作用相关脑区  
+
+<html><body><table><tr><td rowspan="2"></td><td rowspan="2"></td><td rowspan="2">半球</td><td rowspan="2">簇大小</td><td colspan="3">MNI坐标</td><td rowspan="2">t值</td></tr><tr><td></td><td>Y</td><td>Z</td></tr><tr><td colspan="9">新颖语义联结相关脑区</td></tr><tr><td></td><td>小脑</td><td>左</td><td>208</td><td>-14</td><td>-28</td><td>-36</td><td>5.10</td></tr><tr><td></td><td>海马旁回</td><td>右</td><td>102</td><td>32</td><td>-10</td><td>-32</td><td>4.29</td></tr><tr><td></td><td>小脑</td><td>右</td><td>60</td><td>20</td><td>-30</td><td>-32</td><td>4.19</td></tr><tr><td></td><td>小脑</td><td>左</td><td>75</td><td>-6</td><td>-46</td><td>-40</td><td>3.98</td></tr><tr><td></td><td>额中回</td><td>左</td><td>23</td><td>-54</td><td>22</td><td>32</td><td>3.68</td></tr><tr><td colspan="9">记忆相关脑区</td></tr><tr><td></td><td>嗅球</td><td>右</td><td>369</td><td>26</td><td>8</td><td>-14</td><td>5.32</td></tr><tr><td></td><td>小脑</td><td>右</td><td>102</td><td>38</td><td>-64</td><td>-50</td><td>4.92</td></tr><tr><td></td><td>额中回</td><td>左</td><td>153</td><td>-46</td><td>48</td><td>-2</td><td>4.52</td></tr><tr><td></td><td>杏仁核</td><td>左</td><td>585</td><td>-24</td><td>2</td><td>-18</td><td>4.32</td></tr><tr><td></td><td>中央前回</td><td>右</td><td>31</td><td>60</td><td>-2</td><td>40</td><td>3.77</td></tr><tr><td></td><td>额下回</td><td>左</td><td>24</td><td>-50</td><td>30</td><td>14</td><td>3.61</td></tr><tr><td colspan="9">新颖联结记忆</td></tr><tr><td></td><td>嗅球</td><td>右</td><td>1090</td><td>18</td><td>6</td><td>-12</td><td>5.41</td></tr><tr><td></td><td>海马</td><td>右</td><td></td><td>30</td><td>-12</td><td>-12</td><td>4.13</td></tr><tr><td></td><td>杏仁核</td><td>左</td><td>824</td><td>-24</td><td>4</td><td>-16</td><td>4.82</td></tr><tr><td></td><td>脑岛</td><td>右</td><td>88</td><td>44</td><td>-8</td><td>8</td><td>4.08</td></tr><tr><td></td><td>中央前回</td><td>右</td><td>23</td><td>34</td><td>-12</td><td>48</td><td>3.92</td></tr><tr><td></td><td>小脑</td><td>右</td><td>22</td><td>36</td><td>-64</td><td>-50</td><td>3.89</td></tr><tr><td></td><td>角回</td><td>左</td><td>24</td><td>-42</td><td>-64</td><td>54</td><td>3.88</td></tr><tr><td></td><td>额中回</td><td>左</td><td>61</td><td>-32</td><td>52</td><td>2</td><td>3.86</td></tr><tr><td></td><td>颞上回</td><td>左</td><td>128</td><td>-46</td><td>-20</td><td>0</td><td>3.78</td></tr><tr><td></td><td>颞中回</td><td>左</td><td>20</td><td>-52</td><td>-36</td><td>-10</td><td>3.73</td></tr><tr><td></td><td>中央前回</td><td>右</td><td>28</td><td>54</td><td>-8</td><td>46</td><td>3.62</td></tr><tr><td colspan="9">寻常联结记忆</td></tr><tr><td></td><td>小脑</td><td>右</td><td>25</td><td>40</td><td>-66</td><td>-50</td><td>3.91</td></tr><tr><td></td><td>嗅球</td><td>右</td><td>25</td><td>24</td><td>12</td><td>-18</td><td>3.81</td></tr><tr><td colspan="9">交互作用相关脑区</td></tr><tr><td></td><td>海马</td><td>右</td><td>77</td><td>40</td><td>-20</td><td>-10</td><td>4.35</td></tr><tr><td></td><td>海马</td><td>右</td><td>99</td><td>28</td><td>-10</td><td>-16</td><td>4.03</td></tr><tr><td></td><td>小脑</td><td>左</td><td>139</td><td>-8</td><td>-56</td><td>-50</td><td>3.86</td></tr><tr><td></td><td>颞上回</td><td>左</td><td>21</td><td>-46</td><td>-16</td><td>-4</td><td>3.60</td></tr></table></body></html>
+
+![](images/33abb1037c0effe18a8ba4e010a455c1a904ee136d8af243eb27ff17b0a594e9.jpg)  
+图2左图为语义联结类型与记忆类型二者交互显著激活的右侧海马（黄色区域）；右图为该脑区在不同条件下的脑激活强度（Beta值）及其差异(注：\*\*\*表示 $p < 0 . 0 0 1 \$ ）
+
+# 3.4讨论
+
+实验2采用fMRI实验考察新颖语义联结在顿悟促进记忆中的作用。行为结果显示,测试阶段中新颖联结条件和寻常联结条件的正确率不存在显著差异。这与实验1结果并不一致。在实验1中,新颖联结和寻常联结条件在测试阶段的正确率分别为 $8 4 . 1 0 \%$ 和 $6 8 . 3 5 \%$ 这意味着失败记忆的试次较少。实验2增加了实验试次数目,并提高了学习阶段答案选择、测试阶段记忆提取的难度后,新颖联结和寻常联结条件在测试阶段的正确率分别降至 $6 2 . 5 2 \%$ 和 $6 2 . 7 6 \%$ 。除此之外,在学习阶段新颖答案的选择比例也由 $5 9 . 0 1 \%$ 降至 $4 2 . 4 7 \%$ ，而寻常答案选择比例则变化不大，由 $30 . 8 1 \%$ 变为 $34 . 3 8 \%$ 。可见,似是而非的答案对新颖联结条件在行为结果上的影响大于寻常联结条件,这可能是实验2测试阶段两种条件正确率不存在显著差异的原因。尽管如此,实验2结果依然发现新颖联结条件下“记得”的比例显著高于寻常联结条件。这同样表明了新颖联结对记忆效果的促进效应。
+
+fMRI结果显示,相对于寻常语义联结条件,新颖语义联结更强地激活了左侧额中回和右侧海马旁回。两个脑区均是各类顿悟(字谜、组块破解和成语迷题)问题解决的典型激活脑区,其中左侧额中回激活可能反映了顿悟问题解决中的定势转移过程，而海马旁回则与新颖语义联结形成过程有关(沈汪兵 等,2012)。
+
+先前研究通过“随后记忆”或者由记忆导致的差异(差别记忆)效应探究了长时记忆编码的神经机制(Friese etal.,2013)。在“随后记忆”程序中,根据随后项目是否被成功记忆来区分条件,对比成功记忆与失败记忆项目之间的大脑活动差异。这一程序的假设是成功记忆与失败记忆激活的脑活动差异反映了有效编码加工过程的差异。本研究中,将成功记忆和失败记忆在学习编码阶段的脑激活进行比较,得到记忆相关脑区,包括左侧额下/中回和杏仁核等。以往关于言语材料的记忆任务发现,成功回忆与左侧前额叶前部的显著激活有关，该区域反映了基于意义的加工,表明语义加工深度影响了学习项目在后期的提取(Wagner et al,1998)。而杏仁核在记忆形成过程中发挥了重要作用,反映了积极情绪的体验(Ludmer et al.,
+
+2011; Opitz, 2014)。
+
+进一步对记忆效应进行区分发现,新颖语义联结条件下记忆相关脑区包括海马、杏仁核、额中回、颞上回和颞中回。先前的研究指出，颞叶与问题解决中广泛语义信息的激活有关(Zhao etal.,2014),额中回参与了不适宜的心理定势的打破过程(Shen etal.,2018),杏仁核与顿悟的积极体验有关(Zhao et al.,2013),而海马则是在概念间建立新颖联结的关键脑区(赵庆柏,魏琳琳 等,2017)。成功记忆比失败记忆更强地激活了顿悟认知过程相关的脑区，说明这些试次的解决过程被分配了更多的认知资源,进行了更多的认知努力，即学习阶段顿悟问题解决过程中对信息的深加工可以促进记忆效果的提升。另一方面,杏仁核更强的活动反映了顿悟所产生的情绪体验对记忆的作用(Yu etal.,2019)。在顿悟过程中,杏仁核与额区的认知加工相互作用,在此基础上产生的积极情绪体验可能促进长时记忆(Ludmer et al.,2011)。综上,对于那些被成功解决的顿悟问题,促进记忆的机制可能是一个认知与情绪的复合作用(赖燕群 等,2019)。
+
+实验2发现右侧海马在顿悟促进记忆(更好的记忆效果)中发挥作用。根据先前的文献，海马在促进记忆上的作用机制可能有两种解释。第一种解释是过程性解释,即海马的激活可能反映了成语谜语答案选择过程中对情节记忆的学习表征。以往的研究发现,海马参与了对各个情节成分的同时加工,形成完整的情节记忆表征(Opitz,2014)。在本实验的学习阶段,被试除了对呈现的言语材料进行信息编码,还要对选择答案时的思维过程以及“啊哈”体验进行编码,事件的各个方面组成了一个整体，储存在被试的记忆之中。当后期需要对该事件进行提取时，事件的这些方面就可能成为被试可用的线索，使事件得以顺利成功提取(Waldhauser et al.,2016)。实验2的结果显示,除了海马之外,新颖联结条件下成功记忆比失败记忆还更多地激活了右侧颞上回、左侧额下回和杏仁核以及双侧颞中回,这些均是与新颖联结形成的认知过程的相关脑区。这表明问题解决的认知加工过程会影响新颖联结记忆效果。需要说明的是,当与寻常联结条件下记忆相关脑区进行比较时，只有海马表现出更强的激活,这可能是由于实验2采用的答案选择范式,即使被试最终选择了寻常答案,但依然会对新颖答案和似是而非答案进行加工,这便使得在寻常联结条件下,与新颖语义加工过程相关的颞叶激活也处于较高的水平。
+
+第二种解释是结果性解释,即海马的激活反映了新颖且有价值的语义联结的建立。记忆功能是人类适应环境的结果(李荆广,郭秀艳,2009),同时也是人类适应环境、解决问题的基础。由此,记忆内容的价值性是影响其长时记忆效果的重要因素。同时,相对于寻常问题解决,顿悟能解决先前未知问题,具有更强的环境适应性(Ohlsson,2011)。因此,在顿悟问题解决中建立的新颖且有价值的语义联结应具有更好的记忆效果,相应地，与新颖语义联结形成相关的海马在顿悟促进记忆效果中发挥重要作用。然而,先前的研究只揭示了海马在顿悟问题解决过程中的激活,并未发现海马在增强记忆效果中的作用(Kizilirmak etal.,2019)。这可能是先前实验所采用的复合远距离联想任务导致的。该任务是专为实验室情景中研究顿悟而设计,脱离了实验情境便失去了它的意义。而成语是汉语语言的一种创造性产物,在日常生活中被广泛地使用。成语谜题是在成语的基础上发展起来的一种语言游戏,该任务不仅具有趣味性,同时还能体现对成语知识的理解和把握,因此具有现实意义。本研究实验2发现相比于寻常联结条件,新颖联结条件的记忆增强效应与海马更强的激活有关。这可能反映了新颖且有价值的语义联结在顿悟促进记忆效果中的重要作用。
+
+# 4结论
+
+本研究采用行为实验和fMRI技术,探究顿悟促进记忆效果的认知神经机制,特别是海马在其中的作用。结果显示,相对于寻常联结记忆,新颖联结记忆更强地激活了右侧海马。这可能反映了顿悟问题解决中新颖联结形成过程的情节记忆，以及新颖且有价值的语义联结的建立。研究结果表明了新颖语义联结形成在顿悟促进记忆中的关键作用。
+
+# 参考文献
+
+Auble,P.M.,Franks,J.J.,& Soraci, S.A.(1979).Effrt toward comprehension: Elaboration or "aha"? Memory & Cognition, 7(6), 426-434.   
+Bowden,E. M.,and Jung-Beeman, M. (20o3). Aha! insight experience correlates with solution activation in the right hemisphere. Psychonomic Bulletin & Review, 10, 730-737.   
+Danek,A. H., Fraps,T., von Muller,A., Grothe, B.,& Ollinger, M. (2013). Aha! experiences leave a mark: facilitated recall of insight solutions.Psychological Research,77(5),659-669.   
+Friese,U.,Koster, M.,Hassler, U.,Martens, U.,Trujill-Barreto,N.,& Gruber, T. (2013). Successful memory encoding is associated with increased cross-frequency coupling between frontal theta and posterior gamma oscillations in human scalp-recorded EEG. Neuroimage, 66, 642-647.   
+Huang, F.R., Zhou, Z.J.,& Zhao, Q.B. (2013).An eye movement study of associate competition in Chinese idiom riddles solving.Acta Psychologica Sinica,45(1),35-46.   
+[黄福荣,周治金,赵庆柏.(2013).汉语成语谜语问题解决中思路竞争的眼动研究.心理学报,45(1), 35-46.]   
+Kizilirmak, J.M.， Galvao Gomes da Silva, J., Imamoglu, F.，& Richardson-Klavehn,A. (2016). Generation and the subjective feling of "aha!" are independently related to learning from insight.Psychological Research,80(6), 1059-1074.   
+Kizilirmak,J.M., Schot,B.H.,Thuerich,H.,Sweeney-Reed, C.M.,Richter,A.,Folta-Schoofs,K,& Richardson-Klavehn,A. (2019). Learning of novel semantic relationships via sudden comprehension is associated with a hippocampus-independent network. Consciousness and Cognition, 69, 113-132.   
+Kizilirmak,J.M.,Thuerich,H., Folta-Schoofs,K., Schot,B.H.,& Richardson-Klavehn,A. (2016). Neural correlates of learning from induced insight: A case for reward-based episodic encoding. Frontiers in Psychology, 7, 1693.   
+Lai, Y.,Yang, Q., Huang, B.,& Sai,L. (2019) The promoting effect of insight on memory. Advances in Psychological Sciences,27(12),2034-2042.   
+[赖燕群,杨琪,黄宝珍,赛李阳.(2019).记忆的顿悟优势效应.心理科学进展,27(12),2034-2042.]   
+Li, J.,& Guo, X. (20o9).A functional approach to memory research. Advances in Psychological Sciences, 17(5),922-930.   
+[李荆广,郭秀艳.(2009).记忆研究的功能取向.心理科学进展,17(5),923-930.]   
+Ludmer, R., Dudai, Y.,& Rubin, N. (2011). Uncovering camouflage: Amygdala activation predicts long-term memory of induced perceptual insight. Neuron, 69(5), 1002-1014.   
+Luo, J.,& Niki, K. (2oo3). Function of hippocampus in "insight" of problem solving. Hippocampus, 13(3),316-323.   
+Mednick, S.A. (1962). The associative basis of the creative process.Psychological Review, 69,220- 232.   
+Ohlsson, S. (Ed.). (2011). Deep learning: how the mind overrides experience. Cambridge University Press: New York.   
+Opitz,B. (2014). Memory Function and the Hippocampus. Monographs in Neural Sciences, 34(3), 51- 59.   
+Shen W., Liu, C., Yuan, Y.， Zhang, X., & Luo, J. (2013) Temporal dynamics_of mental impasses underlying insight-like problem solving. Science China: Life Sciences, 43(3), 254-262.   
+[沈汪兵,刘昌,袁媛,张小将,罗劲.(2013).顿悟类问题解决中思维僵局的动态时间特性．中国科 学：生命科学,43(3),254-262.]   
+Shen,W.,Luo,J.,Liu, C.,& Yuan, Y. (2012) One decade for insightful brain: New advances on neural correlates of insight. Chinese Science Bulletin,57(21),1948-1963.   
+[沈汪兵,罗劲,刘昌,袁媛.(2012).顿悟脑的10年：人类顿悟脑机制研究进展.科学通报,57(21), 1948-1963]   
+Shen，W.，Tong，Y.，Li，F.，Yuan， Y.，Hommel，B.，Liu,C.，& Luo，J.(2018).Tracking the neurodynamics of insight: A meta-analysis of neuroimaging studies. Biological Psychology, 138,189-198.   
+Wagner, A. D., Schacter, D.L., Rotte, M., Koutstaa, W., Maril, A., & Dale, A. M. (1998). Building memories: Remembering and forgeting of verbal experiences as predicted by brain activity. Science,281,1188-1191.   
+Waldhauser, G.T.,Braun, V.,& Hanslmayr, S. (2016). Episodic memory retrieval functionally relies on very rapid reactivation of sensory information. Journal of Neuroscience, 36(1), 251-260.   
+Wills,T.W., Soraci, S.A., Chechile,R.A.,& Taylor, H.A. (20oO). "Aha" effects in the generation of pictures. Memory & Cognition, 28(6), 939-948.   
+Yu,F.,Zhang,J.,Fan, J.,Luo,J.,& Zhang, W. (2019).Hippocampus and amygdala: Aninsight-related network involved in metaphorical solution to mental distress problem. Cognitive, Affective,& Behavioral Neuroscience, 19(4), 1022-1035.   
+Zhao,Q.B., Ke, W., Tong,B., Zhou, Z.J.,& Zhou, Z.K. (2017). Creative processing of internet language: Novel N400 and LPC.Acta Psychologica Sinica, 49(2), 143-154.   
+[赵庆柏,柯娓,童彪,周治金,周宗奎.(2017).网络语言的创造性加工过程：新颖 N400与LPC.心 理学报,49(2),143-154.]   
+Zhao, Q.B.,Li, S.Q., Chen, S., Zhou, Z.J.,& Cheng,L. (2015). Dynamic neural processing mode of creative problem solving. Advances in Psychological Science, 23(3), 375-384.   
+[赵庆柏,李松清,陈石,周治金,成良.(2015).创造性问题解决的动态神经加工模式.心理科学进 展,23(3),375-384.]   
+Zhao, Q.B., Wei,L.L.,Li,Y., Zhou, Z.J.,et al. (2017). Right hemispheric dominance in forming novel semantic associations.Acta Psychologica Sinica,49(11),1370-1382.   
+[赵庆柏,魏琳琳,李瑛,周治金,赵黎莉,唐磊.(2017).新颖语义联结形成的右半球优势效应.心理 学报,49(11),1370-1382.]   
+Zhao, Q. B., Zhou, Z. J., Xu, H. B., Chen, S., Xu, F., Fan, W.L.,& Han, L. (2013). Dynamic neural network of insight: A functional magnetic resonance imaging study on solving Chinese ‘chengyu' riddles.PLoS One, 8(3),e59351.   
+Zhao,Q. B., Zhou, Z. J., Xu, H. B., Fan, W. L.,& Han,L. (2014). Neural pathway in the right hemisphere underlies verbal insight problem solving. Neuroscience,256,334-341.
+
+# The role of novel semantic association in the promoting effect of insight on memory
+
+CHEN Shi',LIANG Zheng],LI Xianglan $\begin{array} { l } { 1 } \\ { . } \end{array}$ , CHEN Yanran1, ZHAO Qingbai $^ 1$ ,YUQuanlei',LI Songqing', ZHOU Zhijin',LIULizhong
+
+(' Key Laboratoryof Adolescent Cyberpsychology and Behavior (CCNU),Ministry of Education; Schoolof Psychology,Central China Normal University;KeyLaboratoryofHuman Developmentand Mental Health ofHubei Province,Wuhan 430079,China)( School of Education,Central China Normal University, Wuhan, 430079, China)
+
+# Abstract
+
+Previous empirical research has found the effect of insight on promoting memory retention during problem solving. Furthermore, neuroimaging studies have revealed that the amygdala,which is assumed to be associated with Aha experience, plays an important role in long-term memory of insightful events.While the emotional Aha experience is a key characteristic of insightful problem solving,some researchers emphasized that the core processes in creating insights involve breaking the mental set and forming novel and valuable associations.However，the cognitive and neural mechanisms underlying the promoting effect of insight on memory have not yet been fully explored. In this study, the paradigm of choice of answers to Chinese Chengyu riddles was adopted to investigate how the process of forming novel associations impacts the effect of insight on promoting subsequent memory.
+
+Two experiments were conducted in this study. In Experiment 1，the paradigm of choice of answers to Chinese Chengyu riddles consisted of two phases. In the learning phase, participants were asked to select the novel and suitable answer to the Chengyu riddle from four options; after one week, in the testing phase they were asked to recallthe answer that they chose in the learning phase. The novel association and normal association condition were distinguished according to the selections of participants.The paradigm used in Experiment 2 was similar to that of Experiment 1.Additionally, the functional Magnetic Resonance Imaging (fMRI) was used to record the neural activity in the learning phase.
+
+The results of Experiment 1 showed that the score of Aha experience in the learning phase and accuracy in the testing phase were significantly higher in the novel association condition compared to the normal association condition.In addition,Experiment 2 showed that the activity in the brain regions related to insight， including the hippocampus，amygdala, middle frontal gyrus, superior temporal gyrus and middle temporal gyrus, were significantly greater in the successful recall compared to the failed recall in novel association condition. Further analysis indicated that successful recall of novel association involved more activity in the right hippocampus compared to the recall of normal association.
+
+The current study verified the promoting effect of insight on memory,and indicated that forming novel semantic associations and related activity in the hippocampus may underlie this effect. Key words Novel semantic association, Insight, Memory, Hippocampus, Chengyu riddle

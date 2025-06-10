@@ -1,0 +1,251 @@
+ChinaXiv合作期刊
+
+1 组氨酸对体外培养奶牛乳腺上皮细胞 $\beta \mathrm { . }$ -酪蛋白及酪氨酸激酶2-信号转导与转录激活子5/哺  
+2 乳动物雷帕霉素靶蛋白信号通路相关磷酸化蛋白表达的影响  
+3 王珊珊1.2.3 高海娜2.3赵圣国2.3郑楠2.3 张养东2.3王加启1,2.3闫素梅1\*  
+4 (1.内蒙古农业大学动物科学学院，呼和浩特 010018；2.农业部奶及奶制品质量监督检验测  
+5 试中心（北京），北京 100193；3.中国农业科学院北京畜牧兽医研究所，动物营养学国家  
+6 重点实验室，北京 100193)  
+7 摘要：本试验旨在研究不同浓度的组氨酸对体外培养奶牛乳腺上皮细胞 $\beta \mathrm { . }$ -酪蛋白及酪氨  
+8 酸激酶2（JAK2）-信号转导与转录激活子5（STAT5）/哺乳动物雷帕霉素靶蛋白（mTOR）  
+9 信号通路相关磷酸化蛋白表达的影响。将原代奶牛乳腺上皮细胞进行体外培养，分为对照组  
+10 和7个试验组，采用无必需氨基酸的培养基，对照组不添加组氨酸，试验组是在对照组基础  
+11 上分别添加0.15、0.60、1.20、2.40、4.80、9.60、19.20 mmol/L 的组氨酸。采用噻唑蓝比色  
+12 法检测原代奶牛乳腺上皮细胞 $1 2 \mathrm { ~ h ~ }$ 增殖；运用蛋白质免疫印迹检测 ${ \mathfrak { \beta } } \qquad $ 酪蛋白和7个信号通  
+13 路相关磷酸化蛋白表达。结果表明：1）当组氨酸浓度为 $0 . 1 5 { \sim } 9 . 6 0 ~ \mathrm { m m o l / L }$ 时，与对照组相  
+14 比，奶牛乳腺上皮细胞数量均增加。2) $\beta$ -酪蛋白表达量随组氨酸浓度的增加出现先升高后  
+15 降低的趋势，但试验组均极显著高于对照组（ $P { < } 0 . 0 1$ ）。3）与对照组相比，组氨酸的添加  
+16 可极显著促进各信号通路相关磷酸化蛋白的表达（ $_ { . P < 0 . 0 1 }$ ）；试验组中，随着组氨酸浓度的  
+17 升高，磷酸化哺乳动物雷帕霉素靶蛋白[P-mTOR( $\mathrm { S e r } ^ { 2 4 8 1 }$ )]和磷酸化真核细胞翻译延伸因子  
+18 2[P-eEF20 $\mathrm { T h r } ^ { 5 6 } .$ )]蛋白的表达量下降，而磷酸化核糖体 S6蛋白激酶1[P-S6K1 $\mathrm { T h r } ^ { 3 8 9 } ,$ ]的蛋白  
+19 表达增加；当组氨酸浓度为 $2 . 4 0 \mathrm { m m o l / L }$ 时，磷酸化酪氨酸激酶 2[P-JAK2(Tyr107/1008）]、磷  
+20 酸化真核细胞始动因子4E 结合蛋白1[P-4EBP1（Thr7）]和磷酸化真核细胞起始因子  
+21 2α[P-eIF2α(Ser51）]蛋白的表达量最高，磷酸化信号转导与转录激活子5[P-STAT5 $( \mathrm { T y r } ^ { 6 9 4 } )$ 小  
+22 磷酸化 mTOR 调控蛋白[P-raptor $( \mathrm { S e r } ^ { 8 6 3 } )$ ]和 mTOR 复合物1中的绑定蛋白（GβL）蛋白在组  
+23 氨酸浓度为 $9 . 6 0 \mathrm { m m o l / L }$ 时表达量最高。综合可知，组氨酸的添加可通过促进JAK2-STAT5  
+24 信号通路中P-JAK2(Tyr1007/1008)和P-STAT5(Tyr694)蛋白的表达来进而调控 $\beta \mathrm { . }$ 酪蛋白表达。最
+
+ChinaXiv合作期刊
+
+5 适浓度（ $\mathrm { 0 . 1 5 { \sim } 9 . 6 0 \ m m o l / L }$ ）范围内的组氨酸还可通过mTORC1的P-raptor $( \mathrm { S e r ^ { 8 6 3 } } .$ 蛋白作用  
+6 于下游靶点P-4EBP1 $( \mathrm { T h r } ^ { 3 7 } )$ 来促进 $\beta$ -酪蛋白表达，最终调控乳蛋白合成。
+
+关键词：组氨酸；细胞增殖；酪氨酸激酶2；哺乳动物雷帕霉素靶蛋白； $\beta \mathrm { . }$ -酪蛋白
+
+中图分类号：S823  
+乳蛋白是衡量乳品质的重要营养指标，主要包括酪蛋白和乳清蛋白，其中酪蛋白约占其总量的 $82 \%$ ，而 $\alpha _ { \mathrm { s 1 } }$ -酪蛋白和 $\beta \mathrm { . }$ -酪蛋白均占到酪蛋白总量的 $3 8 \%$ 。 $\beta$ -酪蛋白在酪蛋白中比例恒定，结构相对稳定，它的合成和分泌可作为乳腺细胞分泌作用的标志之一[]。前人研究已经证实，牛乳中大于 $90 \%$ 的乳蛋白是乳腺上皮细胞以血液中的氨基酸为原料合成的[2-3]。氨基酸已经成为乳蛋白合成过程中的主要限制性因素[4-5]，除赖氨酸和蛋氨酸外，其他氨基酸对于乳蛋白合成过程也是必需的[2.5-7]。其中组氨酸也被证实不仅可作为粗饲料中主要的限制性氨基酸之一[8],还可作为细胞内关键的限制因素来调节乳蛋白合成[9]。同时也有研究表明，乳腺组织从血液中摄取的氨基酸与乳腺合成乳蛋白的氨基酸并不一致，亮氨酸、异亮氨酸、缬氨酸、精氨酸和赖氨酸摄入量大于输出量；而组氨酸、苏氨酸、苯丙氨酸和蛋氨酸摄入量低于输出量[10-1]。因此，研究乳蛋白合成过程中所需的适宜氨基酸浓度是非常必要的。氨基酸除可作为蛋白质合成的底物还可作为信号分子通过信号通路调控乳蛋白合成$\left[ 1 2 \mathrm { - } 1 3 \right] _ { \circ }$ Yang 等[14]以奶牛乳腺上皮细胞为模型试验得出蛋氨酸二肽可通过酪氨酸激酶 2(JAK2)-信号转导与转录激活子5（STAT5）和哺乳动物雷帕霉素靶蛋白（mTOR）信号通路调控αs1-酪蛋白的成。高海娜等[15]也已证实在奶牛乳腺上皮细胞中组氨酸的额外添加可通过 mTOR信号通路促进酪蛋白合成相关基因的表达。蛋白质翻译后的化学修饰，对于大多数蛋白质来说，是蛋白质生物合成的较后步骤。常用的修饰类型有糖基化、甲基化、乙酰化、磷酸化等。其中磷酸化翻译后修饰是目前大家研究较为普遍的共价修饰，在哺乳动物的生命过程中，占总共价修饰的三分之一便是磷酸化修饰。在真核生物中，磷酸化主要发生于丝氨酸、苏氨酸和酪氨酸等残基[16]。因此，推测组氨酸也可通过JAK2-STAT5 和mTOR 信号通路进行调控，最终影响 ${ \mathfrak { \beta } } \qquad $ -酪蛋白合成相关磷酸化蛋白的表达。  
+本研究旨在以体外培养的原代奶牛乳腺上皮细胞为模型，研究添加不同浓度组氨酸对奶牛乳腺上皮细胞增殖的影响，研究组氨酸对 $\beta$ -酪蛋白、JAK2-STAT5和mTOR信号通路相关磷酸化蛋白表达的影响，为组氨酸对乳中 $\beta \mathrm { . }$ -酪蛋白合成调控机理提供科学依据。
+
+52 1材料与方法
+
+1.1试验材料
+
+1.1.1 主要仪器
+
+恒温二氧化碳培养箱（Thermo）、倒置显微镜（Olympus）、酶标仪（Thermo）、电泳仪（北京君意东方电泳设备有限公司）、光密度分析仪（Bio-Rad）等。
+
+1.1.2主要试剂
+
+DMEM/F12培养基（Gibco，货号：11995-065/11765-054）、无必需氨基酸培养基（Gibco定制，货号：ICH11404101）、胎牛血清（FBS，Gibco，货号：10099-141）、青链霉素（碧云天生物技术研究所，货号：C0222）、胰酶（碧云天生物技术研究所，货号：C0203）、 $L -$ 组氨酸（Sigma，货号：H-5659-25G）、噻唑蓝(MTT，Sigma，货号：0793-5G)、二甲基亚砜(DMSO，Sigma，货号:D4540）、mTOR（Immunoway，货号：YT2913）、磷酸化mTOR[P-mTOR(Ser2481)，Immunoway，货号：YP1134]、真核细胞始动因子 4E 结合蛋白1（4EBP1，Immunoway，货号：YT0018）、磷酸化 4EBP1[P-4EBP1（ $\mathrm { T h r } ^ { 3 7 }$ ），Immunoway,货号：YP0001）、mTOR 调控蛋白（raptor，Cell Signaling Technology，货号：sc-27744）、磷酸化mTOR 调控蛋白[P-raptor $( \mathrm { S e r } ^ { 8 6 3 } )$ ，Santa cruz，货号：sc-130214]、核糖体 S6蛋白激酶1（S6K1，Cell Signaling Technology，货号：nos 9202）、磷酸化 S6K1[P-S6K1 $\mathrm { ( T h r ^ { 3 8 9 } ) }$ ，CellSignaling Technology，货号：nos 9205]、真核细胞翻译延伸因子2（eEF2，CellSignalingTechnology，货号：nos 2332）、磷酸化 eEF2[P-eEF2( $\mathrm { T h r } ^ { 5 6 } \mathrm { \AA }$ ），Cell Signaling Technology，货号：nos2331]、真核细胞起始因子 $2 \alpha$ ( $\mathrm { e I F } 2 \alpha$ ，Immunoway，货号：YT1507）、磷酸化eIF2α[P-eIF2α(Ser51)，Immunoway，货号：YTO093]、JAK2（Santa cruz，货号：sc-278）、磷酸化JAK2[P-JAK2( $\mathrm { T y r ^ { 1 0 0 7 / 1 0 0 8 } }$ ),Santa cruz,货号:sc-21870]、STAT5(Bioss，货号:bs-1142R）、磷酸化STAT5[P-STAT5 $\mathrm { ( T y r ^ { 6 9 4 } ) }$ ),Bioss,货号:bs-1659R]、mTOR复合物1中的绑定蛋白(GβL，Cell Signaling Technology，货号：nos.3274）、 ${ \mathfrak { \beta } } \qquad $ 酪蛋白（Biorbyt，货号：orb18512）、β-激动蛋白（ $\beta$ -actin，Immunoway，货号：YT0099）、羊抗兔（Sigma，货号：A9169）、兔抗羊（Millipore，货号：AP106P）。
+
+1.2 试验方法
+
+8 1.2.1 原代奶牛乳腺上皮细胞体外培养
+
+C hinaXiv合作期刊
+
+实验室前期已建立原代奶牛乳腺上皮细胞体外培养体系（选取初产、泌乳天数为100 d的3岁中国荷斯坦奶牛）[17]。将原代奶牛乳腺上皮细胞置于含有 $10 \%$ FBS的DMEM/F12培养基中，在38℃、 $5 \%$ $\mathrm { C O } _ { 2 }$ 恒温培养箱中培养。当细胞长满培养皿(Corning，货号：430165)的 $8 0 \% { \sim } 9 0 \%$ 时，用胰酶溶液于 $3 8 ^ { \circ } \mathrm { ~ \textbar { ~ C ~ } ~ }$ 、 $5 \%$ $\mathrm { C O } _ { 2 }$ 恒温培养箱中消化，待细胞质回缩，细胞间隙增大缩成圆形时，用DMEM/F12培养基终止消化反应；用移液器反复吹打后，收集细胞悬液于离心管中， $9 0 0 \mathrm { \Delta r / m i n }$ 室温离心 $5 \ \mathrm { m i n }$ ；弃上清液，加入新鲜的含有 $10 \%$ FBS的DMEM/F12培养基，制成细胞悬浮液。
+
+# 1.2.2MTT检测细胞增殖
+
+将细胞密度调整到大约 $5 { \times } 1 0 ^ { 4 }$ 个 $/ \mathrm { m L }$ 接种到96孔培养板（Corning），每孔 $2 0 0 ~ \mu \mathrm { L }$ ，用含有 $10 \%$ FBS 的DMEM/F12培养基贴壁处理 $2 4 \mathrm { h }$ ，用不含FBS 的DMEM/F12培养基饥饿6 h，细胞处理时用无必需氨基酸的培养基（Gibco 定制，货号：ICH11404101）代替正常培养基。试验分为对照组和7个试验组，对照组不添加组氨酸，试验组是在对照组基础上分别添加0.15、0.60、1.20、2.40、4.80、9.60、 $1 9 . 2 0 \ \mathrm { \ m m o l / L }$ 的组氨酸，每种处理设6个重复，每组试验重复3次。培养 $^ \textrm { \scriptsize 8 h }$ 后向每孔添加 $2 0 ~ \mu \mathrm { L }$ MTT工作液（ $\mathrm { \Omega } 5 \mathrm { \ m g / m L }$ ），继续培养4h后弃去上清后向每孔加入 $1 5 0 ~ \mu \mathrm { L }$ DMSO，37℃振荡 $1 0 ~ \mathrm { m i n }$ 后用全自动酶标仪检测各孔 $4 5 0 \ \mathrm { n m }$ 波长下的吸光值 $\mathrm { ( O D } _ { 4 5 0 \ n m ) }$ 来判定细胞增殖状况。细胞相对增殖率(relativegrowthrate，RGE)计算公式：
+
+RGR $( \%$ ） $\ c =$ 试验组 $\mathrm { O D } _ { 4 5 0 \mathrm { n m } } /$ 对照组 $\mathrm { \Delta O D _ { 4 5 0 n m } }$ 9
+
+# 1.2.3蛋白质免疫印迹（WB）检测
+
+# 1.2.3.1 试验处理
+
+将原代奶牛乳腺上皮细胞接种到含有 $10 \%$ FBS 的 DMEM/F12 培养基的培养皿中（Thermo，172958）中贴壁处理 $2 4 \mathrm { h }$ ，用不含FBS的DMEM/F12培养基饥饿培养过夜，然后对细胞进行6h的处理。试验分为对照组和4个试验组，对照组不添加组氨酸，试验组是在对照组基础上分别添加0.15、2.40、9.60、 $1 9 . 2 0 \ \mathrm { m m o l / L }$ 的组氨酸。每种处理3个重复，每组试验重复3次。
+
+# 1.2.3.2样品总蛋白提取
+
+处理结束后提取原代奶牛乳腺上皮细胞总蛋白。向RIPA裂解液中添加1mmol/L 苯甲
+
+ChinaXiv合作期刊
+
+基磺酰氟(PMSF) $1 \%$ 蛋白酶和磷酸酶抑制剂制成混合液混合后置于冰上。用细胞刮(Costar，货号：3008）收集细胞裂解物 $2 0 0 0 \times g$ 离心 $3 \mathrm { m i n }$ ，吸取上清置于离心管中分装。取适量样品采用BCA（碧云天生物技术研究所，货号：P0012）法测样本总蛋白浓度，剩余样品冷冻以备用。
+
+# 1.2.3.3蛋白质免疫印迹检测
+
+分别向每种样品中添加SDS-PAGE 蛋白上样缓冲液（ $\left( 5 \times \right)$ ，95 $\mathrm { { } ^ { \circ } C }$ 加热 $1 0 \ \mathrm { m i n }$ 使蛋白质热变性。调整上样量为 $3 0 ~ { \mu \mathrm { g } }$ 进行电泳，浓缩胶( $8 0 ~ \mathrm { m V }$ ， $3 0 \mathrm { m i n }$ ，分离胶（ $1 2 0 \mathrm { m V }$ ，120min）。蛋白质经电泳分离后，转移到聚偏二氟乙烯（PVDF）膜上（ $2 0 0 \mathrm { m A }$ ，4℃转膜50min）。转移后，取出PVDF膜，用TBST漂洗3次，每次 $5 ~ \mathrm { m i n }$ 。TBST配成的 $3 \%$ 血清封闭液( $3 0 0 ~ \mu \mathrm { L }$ 鸡血清加 $1 0 ~ \mathrm { m L }$ TBST），放在摇床上封闭PVDF 膜 $^ { 5 \mathrm { ~ h ~ } }$ ，取出PVDF 膜后用TBST漂洗3次，每次 $5 \mathrm { m i n }$ 。将其与 $1 \times$ 磷酸盐缓冲液（PBS）稀释的1000倍的第一抗体结合，在摇床上孵育过夜，取出PVDF 膜后用TBST漂洗3次，每次 $5 \mathrm { m i n }$ 。后与 $1 { \times } \mathrm { P B S }$ 稀释3000 倍的第二抗体结合，在摇床上孵育 $^ { 2 \mathrm { h } }$ 。再次用TBST漂洗3次，每次 $5 \mathrm { m i n }$ 。用ECL显色法试剂盒（pierce，32106）进行显色。在暗室用胶片（柯达，XBT-1）在 $\mathrm { \Delta } \mathrm { X }$ 射线摄影暗匣（广东粤华，AX-II）内曝光，用光密度仪（Bio-Rad，GS-800）扫描胶片。最后用ImageJ2x分析灰度值。
+
+1.3数据统计分析
+
+试验数据采用 SAS9.2软件 ANOVA程序进行方差分析，平均值多重比较采用Duncan氏法， $P { < } 0 . 0 5$ 时表示差异显著， $P { < } 0 . 0 1$ 表示差异极显著，结果均以平均值±标准误表示。蛋白质免疫印迹数据采用各试验组与对照组相比的方法。
+
+2结果
+
+# 2.1组氨酸对体外培养奶牛乳腺上皮细胞增殖的影响
+
+由图1所示，与对照组相比，在无必需氨基酸的培养基中组氨酸的浓度为1.20\~4.80mmol/L时，奶牛乳腺上皮细胞增殖显著增加( $_ { \scriptstyle P < 0 . 0 1 }$ )；而当浓度增加到 $1 9 . 2 0 \mathrm { m m o l / L }$ 时，可抑制细胞的增殖，但与对照组相比差异不显著（ $P { > } 0 . 0 5$ ）；其他组氨酸浓度的添加对奶牛乳腺细胞增殖有促进作用，但与对照组差异均不显著（ $_ { \cdot P > 0 . 0 5 }$ ）。
+
+C hinaXiv合作期刊数据点/柱标注不同小写字母表示差异极显著 $( P { < } 0 . 0 1 ) \$ 。图2同。
+
+![](images/384a268e82c9a1b7d45723c7e03d04ed25065a534a2ef3f5a51bb964fc562dd1.jpg)  
+图1组氨酸对奶牛乳腺上皮细胞培养12h相对生长率的影响
+
+Values points/columns with different small letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ . The same as Fig.2.
+
+Fig.1Effect of His on bovine mammary epithelial cels relative growth rate after cultured for $1 2 \mathrm { h }$
+
+2.2组氨酸对体外培养奶牛乳腺上皮细胞 $\beta$ -酪蛋白表达的影响
+
+由图2可知，当组氨酸浓度为 $0 . 1 5 { \sim } 1 9 . 2 0 \ \mathrm { m m o l / L }$ 时， $\beta \mathrm { . }$ -酪蛋白表达量随组氨酸浓度的增加出现先升高后降低的趋势，但均显著高于对照组（ ${ \cal P } { < } 0 . 0 1$ ）；且当浓度为 $2 . 4 0 \ \mathrm { m m o l / L }$ 时， $\beta \mathrm { . }$ -酪蛋白表达量最高。这说明组氨酸对奶牛乳腺上皮细胞 $\beta$ -酪蛋白表达的促进效果与剂量有关。
+
+![](images/6b96e013cfe8b39894c50d55bb243de9f13d6e0ec6de4056a7127af4eb5beaa5.jpg)  
+图2|组氨酸对奶牛乳腺上皮细胞 ${ \mathfrak { \beta } }$ -酪蛋白表达的影响
+
+Fig.2Effect of His on expression of ${ \beta } .$ -casein in bovine mammary epithelial cells
+
+<html><body><table><tr><td>批注[Z2]:左边 第一行数字上方补 组氨酸浓度 Histidine concentration/(mmol/L)</td></tr><tr><td></td></tr><tr><td>右边图</td></tr><tr><td>纵坐标</td></tr><tr><td>β-酪蛋白表达量 β-casein expression 横坐标删掉</td></tr><tr><td>图例最上方补充</td></tr><tr><td>组氨酸浓度 Histidine concentration/(mmol/L)</td></tr><tr><td></td></tr><tr><td>图例改为</td></tr><tr><td>0</td></tr><tr><td>0.15</td></tr><tr><td></td></tr><tr><td>2.40</td></tr><tr><td>9.60</td></tr><tr><td>19.20</td></tr></table></body></html>
+
+ChinaXiv合作期刊
+
+2.3组氨酸对体外培养奶牛乳腺上皮细胞JAK2-STAT5信号通路相关磷酸化蛋白表达的影响
+
+由表1和图 3-a 可知，与对照组相比，组氨酸的添加可极显著提高 P-JAK2(Tyr1007/1008)和P-STAT5 $( \mathrm { T y r } ^ { 6 9 4 } )$ 蛋白的表达量（ $P { < } 0 . 0 1$ ）。当组氨酸浓度为 $2 . 4 0 \ \mathrm { \ m m o l / L }$ 时，P-JAK2(Tyr100/008)蛋白表达量最高；而组氨酸浓度为 $9 . 6 0 \mathrm { m m o l / L }$ 时，P-STAT5 $\scriptstyle ( \mathrm { T y r } ^ { 6 9 4 } )$ 蛋白的表达量最高。这说明组氨酸的添加可促进JAK2-STAT5 信号通路相关磷酸化蛋白的表达，但高剂量添加促进效果减弱。
+
+表1组氨酸对奶牛乳腺上皮细胞JAK2-STAT5信号通路相关磷酸化蛋白表达的影响
+
+Table 1Efects of His on expressions of phospho-proteins ofJAK2-STAT5 signaling pathway in bovin   
+
+<html><body><table><tr><td colspan="6">161 mammary epithelial cells</td></tr><tr><td>页目Items</td><td colspan="4">组氨酸浓度 Histidine concentration/(mmol/L)</td></tr><tr><td></td><td>0</td><td>0.15 2.40</td><td>9.60</td><td>19.20</td><td>P值 P-value</td></tr><tr><td>磷酸化酪氨酸激酶2P-JAK2(Tyr1007/1008)</td><td>1.22±0.02d</td><td>3.46±0.02a</td><td>2.80±0.04b</td><td>2.32±0.01c</td><td><0.01</td></tr><tr><td>磷酸化信号转导与转录激活子5P-STAT5(Tyr694)</td><td>1.00e 1.00e</td><td>3.55±0.07c 5.53±0.01b</td><td>5.62±0.01a</td><td>1.98±0.02d</td><td><0.01</td></tr></table></body></html>
+
+162 同行数据肩标不同小写字母表示差异极显著 $( P { < } 0 . 0 1 ) ^ { \circ } ,$ 。表2，表3同。  
+163 In the same row,values with different small lettr superscripts mean significant difference $( P { < } 0 . 0 1 )$ . The  
+164 same as Table2 and Table 3.  
+165 2.4组氨酸对体外培养奶牛乳腺上皮细胞中mTOR信号通路相关磷酸化蛋白表达的影响  
+166 由表2和图3-a可知，与不添加组氨酸的对照组相比，添加 $0 . 1 5 { \sim } 1 9 . 2 0 \ \mathrm { m m o l / L }$ 组氨酸  
+167 的试验组其P-mTOR(Ser $^ { 2 4 8 1 }$ )、P-raptor $( \mathrm { S e r } ^ { 8 6 3 } . \$ )和GβL蛋白的表达量均极显著增加( $_ { | P < 0 . 0 1 \rangle }$ ，  
+168 其中，当组氨酸浓度为 $0 . 1 5 \mathrm { m m o l / L }$ 时， $\mathrm { P - m T O R } ( \mathrm { S e r ^ { 2 4 8 1 } } .$ 蛋白的表达量最高，当组氨酸浓度  
+169 为 $9 . 6 0 \mathrm { m m o l / L }$ 时P-raptor(Ser863)和GβL蛋白的表达量最高,但更高剂量添加促进效果减弱。  
+170 由表3和图3-b 可知，与对照组相比，组氨酸的添加可极显著促进P-S6K1 $\mathrm { T h r } ^ { 3 8 9 } )$ 、  
+171 P-4EBP1 $( \mathrm { T h r } ^ { 3 7 } .$ )、P-eIF2α(Ser51)和P-eEF2( $\mathrm { T h r } ^ { 5 6 } )$ 的蛋白的表达量（ $P { < } 0 . 0 1$ ）。当组氨酸浓度  
+172 为 $0 . 1 5 \ \mathrm { \ m m o l / L }$ 时，P-eEF2 $\mathrm { T h r } ^ { 5 6 } )$ 蛋白的表达量最高；当组氨酸浓度为 $2 . 4 0 \ \mathrm { \ m m o l / L }$ 时  
+173 P-4EBP1 $( \mathrm { T h r } ^ { 3 7 } )$ 和P-eIF2α(Ser51)蛋白的表达量最高；而当组氨酸浓度为 $1 9 . 2 0 \ \mathrm { \ m m o l / L }$ 时  
+174 P-S6K1 $\mathrm { ( T h r ^ { 3 8 9 } ) }$ 蛋白的表达量最高。可见，组氨酸的添加可促进mTOR信号通路相关磷酸化  
+175 蛋白的表达。
+
+Table 2Effects of His on expressions of phospho-proteins of mTORC1 signaling pathway in bovine mammary   
+
+<html><body><table><tr><td colspan="7">178 epithelialcells</td></tr><tr><td>项目Items</td><td></td><td>组氨酸浓度 Histidine concentration/(mmol/L)</td><td></td><td></td><td></td><td>P值</td></tr><tr><td></td><td>0</td><td>0.15</td><td>2.40</td><td>9.60</td><td>19.20</td><td>P-value</td></tr><tr><td>磷酸化哺乳动物雷帕霉素靶蛋白P-mTOR(Ser2481)</td><td>1.00e</td><td>4.55±0.03a</td><td>2.95±0.02b</td><td>1.74±0.02c</td><td>1.08±0.02d</td><td><0.01</td></tr><tr><td>磷酸化哺乳动物雷帕霉素靶蛋白调控蛋白 P-raptor(Ser83)</td><td>1.00e</td><td>2.00±0.47d</td><td>5.52±0.70b</td><td>6.90±0.65a</td><td>4.86±0.27c</td><td><0.01</td></tr><tr><td>哺乳动物雷帕霉素靶蛋白复合物1中的绑定蛋白GβL</td><td>1.00e</td><td>3.72±0.10d</td><td>4.48±0.09c</td><td>10.00±0.05a</td><td>6.47±0.04b</td><td><0.01</td></tr></table></body></html>
+
+表3组氨酸对奶牛乳腺上皮细胞mTOR下游信号蛋白表达的影响
+
+<html><body><table><tr><td colspan="6">180 Table ithelial M</td></tr><tr><td>181</td><td colspan="3">cells</td><td rowspan="2">P值</td></tr><tr><td>项目Items</td><td></td><td>组氨酸浓度 Histidine concentration/(mmol/L)</td><td></td><td></td></tr><tr><td></td><td>0</td><td>0.15</td><td>2.40</td><td>9.60</td><td>19.20 P-value</td></tr><tr><td>磷酸化核糖体 S6蛋白激酶1P-S6K1(Thr389)</td><td>1.00e</td><td>2.44±0.04d</td><td>3.82±0.14c</td><td>7.05±0.10b</td><td>12.59±0.30a <0.01</td></tr><tr><td>磷酸化真核细胞始动因子4E 结合蛋白1P-4EBP1(Thr)</td><td>1.00e</td><td>3.72±0.03c</td><td>7.27±0.02a</td><td>6.37±0.06b</td><td>2.28±0.03d <0.01</td></tr><tr><td>磷酸化真核细胞起始因子2αP-eIF2α(Ser51)</td><td>1.00e</td><td>1.25±0.01d</td><td>5.77±0.01a</td><td>4.52±0.01b</td><td>2.46±0.01° <0.01</td></tr><tr><td>磷酸化真核细胞翻译延伸因子2P-eEF2(Thr6)</td><td>1.00e</td><td>2.65±0.02a</td><td>2.48±0.04b</td><td>2.38±0.06c</td><td>1.46±0.02d <0.01</td></tr></table></body></html>
+
+182a
+
+核糖体S6蛋白激酶1 S6K1酪氨酸激酶2 JAK2磷酸化酪氨酸激酶2 磷酸化核糖体S6蛋白激酶1P-JAK2(Tyr1007/1008 P-S6K1 (Thr389)  
+信号转导与转录激活子5 STAT5 真核细胞始动因子4E结合蛋白1  
+磷酸化信号转导与转录激活子5 4EBP1P-STAT5(Tyr694) 磷酸化真核细胞始动因子4E结合雷帕霉素靶蛋白 mTOR 蛋白1 P-4EBP1 (Thr37)磷酸化雷帕霉素靶蛋白真核细胞起始因子2a eIF2αP-mTOR(Ser2481)磷酸化真核细胞起始因子2αmTOR调控蛋白Raptor磷酸化mTOR调控蛋白 P-eIF2α (Ser51)P-Raptor(Ser863) 真核细胞翻译延伸因子2 eEF2mTOR复合物1中的绑定蛋白 磷酸化真核细胞翻译延伸因子2GβL P-eEF2 (Thr56)β-肌动蛋白β-Actin β-肌动蛋白β-Actin185
+
+mammary epithelial cells
+
+3讨论
+
+90 3.1组氨酸对体外培养奶牛乳腺上皮细胞增殖的影响
+
+氨基酸与激素、维生素、生长因子等相似，是影响乳腺组织增殖、分化和泌乳的重要营养物质[18]。徐柏林[19]研究表明精氨酸的外源添加可促进奶牛乳腺上皮细胞的增殖。同样李喜艳[20]采用单一添加赖氨酸或蛋氨酸检测24、48和 $^ { 7 2 \mathrm { ~ h ~ } }$ 的增殖结果也表明,赖氨酸或蛋氨酸的添加可促进奶牛乳腺上皮细胞的增殖。本文以体外培养的原代奶牛乳腺上皮细胞为模型，在无必需氨基酸的培养基中添加不同浓度的组氨酸，结果表明组氨酸的添加可促进乳腺上皮细胞的增殖，但随着浓度的增加增殖率出现先增后降的现象，这与高海娜等[15]的试验结果相似，这可能是组氨酸过量所产生的毒理作用导致[21]。
+
+3.2组氨酸对信号通路介导 $\beta$ -酪蛋白合成相关磷酸化蛋白表达的影响
+
+Bionaz 等[1为探究调控奶牛乳腺组织蛋白质合成关键基因网络之间的关系，采用乳腺组织活检，检测了JAK2-STAT5信号通路、mTOR信号通路、胰岛素信号通路、氨基酸和葡萄糖转运体等44个关键基因表达的变化，揭示了乳蛋白合成的启动与氨基酸被转运到乳腺上皮细胞的过程是相关的。Appuhamy等[22]和Apelo 等[23]通过以奶牛乳腺上皮细胞为模型的试验证明必需氨基酸可通过mTOR 信号通路调控mTOR、4EBP1、S6K1、eEF2和eIF2α 等因子的磷酸化作用进而影响乳蛋白合成。此外，高海娜等[15]利用实时定量PCR(qRT-PCR)检测体外培养奶牛乳腺上皮细胞中 $\beta \cdot$ -酪蛋白基因（CSN2）表达量时发现，在厄尔平衡溶液中添加 $0 . 1 5 { \sim } 9 . 6 0 \ \mathrm { m m o l / L }$ 的组氨酸时，与阴性对照组相比，CSN2的表达量显著上调。这些试验结果均为进一步研究氨基酸对奶牛乳腺上皮细胞中乳蛋白的合成机理提供了理论依据。
+
+本试验采用蛋白质免疫印迹检测添加不同浓度的组氨酸对体外培养原代奶牛乳腺上皮细胞β-酪蛋白和JAK2-STAT5、mTOR信号通路相关磷酸化蛋白水平的影响。结果表明，组氨酸对奶牛乳腺上皮细胞β-酪蛋白表达的促进效果与剂量有关，一定浓度可促进表达，高浓度反而使促进效果减弱，这与前人的研究报道相似[24]。组氨酸浓度为 $1 9 . 2 0 \ \mathrm { m m o l / L }$ 时，出现对 $\beta \mathrm { . }$ -酪蛋白促进效果减弱，可能与此浓度组氨酸下的细胞增殖率下降有关。Mercier 等[25]证明，乳蛋白的合成率很大程度上受到乳腺上皮细胞数量的影响。这说明组氨酸的添加可通过增加奶牛乳腺上皮细胞数量的途径来调控乳蛋白质的合成和分泌。此外，在生产方面Lee 等[26]通过提供可代谢蛋白缺乏饲粮过瘤胃保护组氨酸证实，组氨酸的添加可以增加采食量进而提高乳蛋白产量。Kim 等[8也通过组氨酸灌注试验证明组氨酸可显著提高产奶量和乳蛋白产量。这与本试验的结果是相一致的。
+
+STAT5最先发现是在研究催乳素刺激乳房上皮细胞的过程中，其可被多种细胞因子包括催乳激素、生长激素、促红细胞生成素等激活[27-28]，进而维持细胞正常功能、调节增殖和分化[29]。史琳琳[1]已经证明，在奶牛乳腺上皮细胞中额外添加激素类物质时，其可通过JAK2-STAT5信号通路影响 $\beta \cdot$ -酪蛋白合成。在JAK2-STAT5信号通路中，STAT5C端的Tyr(STAT5aTyr694和STAT5bTyi $\cdot ^ { 6 9 9 }$ 的磷酸化对于STAT5核转移及STAT5的DNA结合能力有重要的作用[30]。激活的JAK2 激酶磷酸化 STAT5 作用到细胞核内相应的脱氧核糖核酸区域，进而调控转录过程影响蛋白质合成。本研究结果显示组氨酸的添加可以增强P-JAK2(Tyr1007/1008)和P-STAT5(Tyr694)的表达；P-STAT5 $\mathrm { ( T y r ^ { 6 9 4 } ) }$ 蛋白为组氨酸浓度为9.60mmol/L 时表达量最高，与 $\beta$ -酪蛋白表达并未未完全一致，可能原因是其他如激素类物质参与信号通路调控过程所致。
+
+mTOR、raptor 和GβL 均为雷帕霉素靶蛋白复合物1（mTORC1）的组成成分。mTOR作为调控乳蛋白合成的关键因子，已有学者证明除P-mTOR(Ser2448)外P-mTOR(Ser2481)也可作为调控乳蛋白合成的重要位点[24.31]。本试验中也证实了与对照组相比，组氨酸的添加可显著提高P-mTOR(Ser2481)的蛋白表达量。raptor 能够绑定mTOR与信号通路下游蛋白 S6K1和4EBP1 结合，进而调控细胞内蛋白表达量最终改变细胞的生长和增殖状态[32-33]。GβL 在mTOR 的激活过程中也起着正向的调控作用，它作为mTOR 的绑定蛋白与mTOR 和 raptor共同调控mTOR 活性。前人研究表明GβL与P-mTOR(Ser2448)之间存在正相关[34]，本研究也证明了GβL与 P-mTOR(Ser2481)也是正相关的。且当组氨酸浓度为 $9 . 6 0 \ \mathrm { \ m m o l / L }$ 时P-raptor $( { \mathrm { S e r } } ^ { 8 6 3 } )$ 和GβL蛋白表达量同时达到最高水平。
+
+S6K1、4EBP1、eEF2、eIF2α 作为mTOR 信号通路下游重要的靶蛋白，它们的磷酸化状态与乳蛋白的合成过程密切相关。S6K1在哺乳动物细胞中普遍表达，可以被多种细胞外信号激活，而被mTOR 磷酸化的 S6KI活性可以上升近百倍。前人研究发现mTOR可以直接或间接的调控 S6K 中多个磷酸化位点，其中P-S6K1 $\mathrm { T h r } ^ { 3 8 9 } )$ 可直接被mTOR 磷酸化，间接调控可通过改变磷酸酶活性来完成[35。本文结果也证实了与对照组相比，组氨酸的添加可显著促进P-S6K1 $\mathrm { T h r ^ { 3 8 9 } } ,$ 蛋白的表达，且其表达量随组氨酸浓度的增加而增加。而 $\beta$ 酪蛋白表达并未与P-S6K1 $( \mathrm { T h r } ^ { 3 8 9 } ,$ 的表达完全一致，可能原因是组氨酸高浓度时P-S6K1 $( \mathrm { T h r } ^ { 3 8 9 } .$ 0会促进其他酪蛋白如 $\mathbf { \alpha } _ { \mathbf { a } _ { \mathrm { S } } }$ -酪蛋白和 $\kappa \cdot$ -酪蛋白的表达。此外，激活mTOR调控蛋白质的翻译还
+
+ChinaXiv合作期刊
+
+可通过诱导4EBP1磷酸化而完成[22]，高海娜等[15]试验得出，组氨酸的添加可通过mTORC1的P-raptor(Ser792)作用于下游靶点P-S6K10 $\mathrm { T h r } ^ { 3 8 9 } .$ )促进酪蛋白表达。本试验进一步证明，组氨酸在最适浓度范围内的添加还可通过mTORC1的P-raptor $\mathrm { ( S e r ^ { 8 6 3 } ) }$ 作用于下游靶点P-4EBP1 $( \mathrm { T h r } ^ { 3 7 } )$ 促进酪蛋白表达。
+
+在蛋白质合成过程中，eEF2通过诱导肽基转运RNA从核糖体A位到P位的移位而使肽链进一步延伸，eEF2可通过磷酸化苏氨酸56位点降低其与核糖体的亲和力从而终止肽链延伸[36]。本试验结果也表明，随着组氨酸浓度的增加P-eEF2 $\mathrm { T h r } ^ { 5 6 } )$ 蛋白的表达量是下降的但均极显著高于对照组。此外真核生物还可通过激活蛋白激酶使eIF2α磷酸化，在翻译水平调节基因的表达，这是一种重要的调节方式。eIF2α磷酸化后，除了对大多数mRNA翻译起抑制作用外，还能特异性激活某些mRNA 的翻译，合成特异的蛋白质以调节靶基因的表达[37]。本文结果表明组氨酸的添加对 P-eIF2α(Ser1)蛋白的表达存在先向上升后下降的作用，且在浓度为 $2 . 4 0 \mathrm { m m o l / L }$ 表达量最高。
+
+综上所述，以体外培养奶牛乳腺上皮细胞为模型，组氨酸的添加可通过促进JAK2-STAT5和mTOR信号通路相关磷酸化蛋白的表达，影响β-酪蛋白合成，进而调控乳蛋白合成。
+
+4结论
+
+在无必需氨基酸的培养基中浓度为 $0 . 1 5 { \sim } 9 . 6 0 \ \mathrm { m m o l / L }$ 的组氨酸时，可促进体外培养原代奶牛乳腺上皮细胞的增殖，但当浓度增加到 $1 9 . 2 0 \ \mathrm { m m o l / L }$ 时可抑制其增殖。β-酪蛋白表达量最高时组氨酸的浓度为2.40mmol/L。
+
+组氨酸的添加可通过促进JAK2-STAT5信号通路中P-JAK2( $\mathrm { T y r ^ { 1 0 0 7 / 1 0 0 8 } ) }$ 和P-STAT5(Tyr4)蛋白的表达来进而调控 $\beta$ -酪蛋白表达。最适浓度（ $\mathrm { 0 . 1 5 { \sim } 9 . 6 0 m m o l / L }$ ）范围内的组氨酸还可通过 mTORC1的P-raptor(Ser863)作用于下游靶点P-4EBP1 $\mathrm { T h r } ^ { 3 7 } )$ 来促进β-酪蛋白表达，最终调控乳蛋白合成。
+
+参考文献：
+
+[1]BIONAZ M,LOOR J J.Gene networks driving bovine mammary protein synthesis during the lactation cycle[J].Bioinformatics and Biology Insights,2O11,5:83-98. [2] GUINARD J,RULQUIN H.Effects of graded amounts of duodenal infusions of methionine
+
+ChinaXiv合作期刊
+
+on themammaryuptake of major milk precursors in dairy cows[J].Journal of Dairy Science,1995,78(10):2196-2207.   
+[3]BEQUETTE B J,BACKWELL FR C,CALDER A G,et al.Application of a U- $^ { 1 3 } \mathrm { C }$ -labeled amino acid tracer in lactating dairy goats for simultaneous measurements of the flux of amino acids in plasma and the partition of amino acids to the mammary gland[J].Journal of Dairy Science,1997,80(11):2842-2853.   
+[4]REYNOLDS C K,HARMON D L,CECAVA M J.Absorption and delivery of nutrients for milk protein synthesis by portal-drained viscera[J].Journal of Dairy Science,1994,77(9):2787- 2808.   
+[5]BEQUETTE B J,BACKWELL FR C,CROMPTON L A.Current concepts of amino acid and protein metabolism in the mammary gland of the lactating ruminant[J].Journal of Dairy Science,1998,81(9):2540-2559.   
+[6]BAUMRUCKER C R.Amino acid transport systems in bovine mammary tissue[J].Journal of Dairy Science,1985,68(9):2436-2451.   
+[7]RIUS A G,APPUHAMY JA D R N,CYRIAC J,et al.Regulation of protein synthesis in mammary glands of lactating dairy cows by starch and amino acids[J].Journal of Dairy Science,2010,93(7):3114-3127.   
+[8]KIM C H,CHOUNG J J,CHAMBERLAIN D G.Estimates of the efficiency of transfer of L-histidine from blood to milk when it is the first-limiting amino acid for secretion of milk protein in the dairy cow[J].Journal of the Science of Food and Agriculture,20o1,81(12):1150-1155. [9]PRIZANT R L,BARASH I.Negative effects of the amino acids Lys,His,and Thr on S6K1 phosphorylation in mammary epithelial cells[J].Journal of Cellular Biochemistry,2008,105(4):1038-1047.   
+[10] KIM D H,SARBASSOV D D,ALI S M.mTOR interacts with Raptor to form a nutrient-sensitive complex that signals to the cell growth machinery[J].Cell,2002,11O(2):163-175. [11]ZHU C F,QI X L,CHEN Y N,et al.PI3K/Akt and MAPK/ERK1/2 signaling pathways are involved in IGF-1-induced VEGF-C upregulation in breast cancer[J].Journal of Cancer Research
+
+ChinaXiv合作期刊
+
+and Clinical Oncology,2011,137(11):1587-1594.   
+[12] MEIJER A J.Amino acidsas regulators and components of nonproteinogenic pathways[J].Journal of Nutrition,2003,133(6):2057S-2062S.   
+[13]KIMBALL S R.Regulation of translation initiation by amino acids in eukaryotic cells[J].Progress in Molecular and Subcellular Biology,2001,26:155-184.   
+[14]YANG J X,WANG C H,XU Q B.et al.Methionyl-methionine promotes α -s1 casein synthesis in bovine mammary gland explants by enhancing intracellular substrate availability and activatingJAK2-STAT5andmTOR-mediatedsignalingpathways[J].Journalof Nutrition,2015,145(8):1748-1753.   
+[15]高海娜,胡菡,王加启,等.亮氨酸或组氨酸通过哺乳动物雷帕霉素靶蛋白信号通路影响 奶牛乳腺上皮细胞中酪蛋白的合成[J].动物营养学报,2015,27(4):1124-1134.   
+[16]史琳琳.奶牛乳腺上皮细胞 JAK2-STAT5 和 mTOR 信号通路协同调控乳蛋白合成[D]. 硕士学位论文.哈尔滨:东北农业大学,2013:1-75.   
+[17]HU H,WANG J Q,BU D P,et al.In vitro culture and characterization of a mammary epithelial celline from Chinese Holstein dairy cow[J].PLoS One,2009,4(11):e7636.   
+[18]EHMANN U K,PETERSON W D.Jr.,MISFELDT D S.To grow mouse mammary epithelial cells in culture[J].The Journal of Cell Biology,1984,98(3):1026-1032.   
+[19]徐柏林.精氨酸对乳腺上皮细胞中酪蛋白合成的影响及其调控机制[D].硕士学位论文. 扬州：扬州大学,2012:2-55.   
+[20]李喜艳.奶牛乳腺上皮细胞中赖氨酸蛋氨酸配比模式对酪蛋白合成的影响及机理研究 [D].硕士学位论文.北京:中国农业科学院,2011:1-32.   
+[21]SESTILI P,CANTONI O.CATTABENI F,et al.Evidence for separate mechanisms of cytotoxicity in mammalian cels treated with hydrogen peroxide in the absence or presence of L-histidine[J].Biochimica et Biophysica Acta (BBA): Molecular CellResearch,1995,1268(2):130- 136.   
+[22]APPUHAMY JAD RN,BELL A L,NAYANANJALIE WAD,et al.Essential amino acids regulate both initiation and elongation of mRNA translation independent of insulin in MAC-T
+
+ChinaXiv合作期刊
+
+cells and bovine mammary tissue slices[J].The Journal of Nutrition,2011,141(6):1209-115. [23]APELO S I A,SINGER L M,LIN X Y,et al.Isoleucine,leucine,methionine,and threonine effects on mammalian target of rapamycin signaling in mammary tissue[J].Journal of Dairy Science,2014,97(2):1047-1056.   
+[24]GAO H N,HU H,ZHENG N,et al.Leucine and histidine independently regulate milk protein synthesis in bovine mammary epithelial cells via mTOR signaling pathway[J].Journal of Zhejiang University Science B,2015,16(6):560-572.   
+[25]MERCIER J C,GAYE P.Early events in secretion of main milk proteins:occurrence of precursors[J].Journal of Dairy Science,1982,65(2):299-316.   
+[26]LEE C,HRISTOV A N,CASSIDY T W,et al.Rumen-protected lysine,methionine,and histidine increase milk protein yield in dairy cows fed a metabolizable protein-deficient diet[J].Journal of Dairy Science,2012,95(10):6042-6056.   
+[27] RANESG,REDDYEP.JAKs,STATsand src kinases in hematopoiesis[J].Oncogene,2002,21(21):3334-3358.   
+[28]MUTZE J,ROTH J,GERSTBERGER R,et al.Nuclear translocation of the transcription factorSTAT5in therat brain aftersystemicleptinadministration[J].Neuroscience Letters,2007,417(3):286-291.   
+[29]BUITENHUIS M,COFFER P J,KOENDERMAN L.Signal transducer and activator of transcription5(STAT5)[J].TheInternationalJournalofBiochemistry&Cell Biology,2004,36(11):2120-2124.   
+[30]GRIMLEY P M,DONG F,RUI H.Stat5a and Stat5b:fraternal twins of signal transduction and transcriptional activation[J].Cytokine & Growth Factor Reviews,1999,10(2):131-157. [31]PETERSON R T,BEAL P A,COMB M J,et al.FKBP12-rapamycin-associated protein (FRAP)autophosphorylates at serine 2481 under translationally repressve conditions[J].Journal of Biological Chemistry,2000,275(10):7416-7423.   
+[32]DAVIS S R,MEPHAM T B.Metabolism of $L – ( \mathrm { U } – ^ { 1 4 } \mathrm { C } )$ valine $L$ $\scriptstyle \ldots ( \mathrm { U ^ { - 1 4 } C } )$ leucine, $\mathrm { L } { - } ( \mathrm { U } { - } ^ { 1 4 } \mathrm { C } )$ （204号 histidine and $L – ( \mathrm { U } – ^ { 1 4 } \mathrm { C } )$ phenylalanine by the isolated perfused lactating guinea-pig mammary
+
+ChinaXiv合作期刊
+
+[33]BACKWELL F R,BEQUETTE B J,WILSON D,et al.Evidence for the utilization of   
+peptides for milk protein synthesis in the lactating dairy goat in vivo[J].American Journal of   
+Physiology,1996,271(4):R955-R960.   
+[34] KIM D H,SARBASSOV D D,ALI S M,et al.GβL,a positive regulator of the   
+Rapamycin-sensitive pathway required for the nutrient-sensitive interaction between Raptor and   
+mTOR[J].Molecular Cel,2003,11(4):895-904.   
+[35]SHIMA H,PENDE M,CHEN Y,et al.Disruption of the $\mathrm { p 7 0 ^ { s 6 k } / p 8 5 ^ { s 6 k } }$ gene reveals a small   
+mouse phenotype and a new functional S6 kinase[J].The EMBO Journal,1998,17(22):6649-6659.   
+[36]NOVOA I,ZENG H Q,HARDING H P,et al.Feedback inhibition of the unfolded protein   
+response by GADD34-mediated dephosphorylation of eIF2 α [J].The Journal of Cell   
+Biology,2001,153(5):1011-1022.   
+[37]韩钦,杨克恭.eIF2α 激酶和 eIF2α 磷酸化对特异的蛋白质合成的激活作用研究进展[J].   
+国外医学分子生物学分册,2002,24(6):325-329. Effects of Histidine on Expressions of $\beta$ Casein and Janus Kinases 2-Signal Transducer and Activator of Transcription 5 and Mammalian Target Rapamycin Signaling Pathways Related Phospho-Proteins of in Vitro Cultured Bovine Mammary Epithelial Cells WANG Shanshan1,2,3GAO Haina2,3ZHAO Shengguo2,3ZHENG Nan2,3ZHANG Yangdong2,3WANG Jiaqi1.2.3YAN Sumeil\*   
+(1.College ofAnimal Science,Inner Mongolia Agricultural University,Hohhot Oloo18,China;2. Ministry ofAgriculture-Milk and Dairy Product Inspection Center, Beijing 100193, China; 3. State Key Laboratory ofAnimal Nutrition,InstituteofAnimal Science,ChineseAcademy of Agricultural Sciences,Beijing 100193,China)   
+Abstract:The aim of this study was to investigate the effects of supplementation of different   
+concentrations of histidine on expressions of $\beta$ -casein and Janus kinases 2 (JAK2)-signal
+
+ChinaXiv合作期刊
+
+transducer and activator of transcription 5(STAT5）and mammalian target rapamycin (mTOR) signaling pathways related phospho-proteins of in vitro cultured bovine mammary epithelial cells. The primary bovine mammary epithelial cells were used in this study，the special culture medium without essential amino acid（EAA） was used. Supplementation levels of histidine were 0 (control),0.15,0.60,1.20,2.40,4.80,9.60 and $1 9 . 2 0 \mathrm { m m o l / L }$ ,respectively.After cultured for $1 2 \mathrm { h }$ primary bovine mammary epithelial cels proliferation was dectected by thiazolyl blue (MTT) method,the expressions of $\beta$ -casein and 7 signaling pathway related phospho-proteins were determined by Western-Blot.The results showed as follows: 1) compared with control group the bovine mammary epithelial cell proliferation was increased after the supplementation of 0.15 to （204 $9 . 6 0 \ \mathrm { m m o l / L }$ of histidine. 2) With the increase histidine concentration, the expression of $\beta$ -casein measured tended to be increased at first and then decrease,and all experimental groups were significantly higher than control group $( P { < } 0 . 0 1 )$ ．3）Compared with control group，the supplementation of histidine could significantly promote the expressions of signaling pathway relatedphospho-proteins $( P { < } 0 . 0 1 )$ ；amongexperimental groups， theexpressionsof phospho-mTOR [P-mTOR $( \mathrm { S e r } ^ { 2 4 8 1 } ) \dot { } $ and phospho-eukaryotic translation elongation factor 2 [P-eEF2 $( \mathrm { T h r } ^ { 5 6 } )$ ]were reduced along with the increasing histidine concentration， and the expression of phospho- ribosome protein subunit 6 kinase 1 [P-S6K1 $( \mathrm { T h r } ^ { 3 8 9 } )$ ] was increased with the increasing histidine concentration； the expression of phospho-JAK2 [P-JAK2( $\mathrm { T y r ^ { 1 0 0 7 / 1 0 0 8 } ) } ]$ phospho-eukaryoticinitiationfactor4Ebindingprotein[P-4EBP1 $( \mathrm { T h r } ^ { 3 7 } ) ]$ and phospho-eukaryotic initiation factor 2α [P-eIF2α $( \mathrm { S e r ^ { 5 1 } } )$ ] were the highest at the supplementation of2.40 mmol/L histidine，and the expressions of phospho-STAT5[P-STAT5 $\mathrm { ( y r ^ { 6 9 4 } ) ] }$ phospho-mTOR raptor [P-raptor $( \mathrm { S e r } ^ { 8 6 3 } )$ ] and mTOR complex binding protein (GβL）were highest at the supplementation of $9 . 6 0 \ \mathrm { m m o l / L }$ histidine.These results demonstrate that histidine can promote the expression of $\beta$ caseinviaP-JAK2(Tyr1071008）andP-STAT5(Tyr694）of JAK2-STAT5 signaling pathway. Histidine at optimal concentration (O.15 to $9 . 6 0 \ \mathrm { m m o l / L }$ ）range can also promote the expression of $\beta$ -casein via P-raptor $\left( \mathrm { S e r } ^ { 8 6 3 } \right.$ ）of mTORC1，which act on down-stream targets P-4EBP1 $( \mathrm { T h r } ^ { 3 7 } ,$ , and finally regulation of milk protein synthesis.

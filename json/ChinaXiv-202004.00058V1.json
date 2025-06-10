@@ -1,0 +1,557 @@
+[
+    {
+        "type": "text",
+        "text": "基于遥感数据的新疆开一孔河流域农业区种植结构提取 ①",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "茶明星1,2,3，汪小钦1,2.3，李娅丽1,2,3， 邱鹏勋1,2.3（1．福州大学空间数据挖掘与信息共享教育部重点实验室,福建 福州350108;2．卫星空间信息技术综合应用国家地方联合工程研究中心，福建 福州350108；3．数字中国研究院(福建）,福建 福州350108)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：农作物种植结构是农作物空间格局的重要组成部分,是区域土地资源和水资源优化配置的基础。以新疆开一孔河流域农业区为研究区域,综合利用作物物候信息和2016年的MODIS NDVI时序曲线,获得不同作物生长差异明显的关键期,选择关键期的Landsat 8OLI影像,构建主要作物提取知识规则,基于决策树方法开展农作物的分类识别。开一孔河农业区2016年主要作物种植面积为 $5 . 0 7 \\times 1 0 ^ { 5 } \\ \\mathrm { h m } ^ { 2 }$ ,其中棉花种植面积最大，为 $1 . 9 7 \\times 1 0 ^ { 5 }$ $\\mathrm { { h m } } ^ { 2 }$ ,玉米、小麦次之。博斯腾湖和开都河农业区以辣椒、玉米和小麦为主要作物,种植结构比较零散;孔雀河农业区种植结构比较单一,以棉花和香梨为主要作物。与仅利用时间序列的 MODIS 数据进行作物分类识别的结果对比表明,综合利用MODIS 和Landsat 数据的作物识别精度有显著提高，总体分类精度从 $6 2 . 5 8 \\%$ 提高到 $8 8 . 3 7 \\%$ ，kappa系数从0.53提高到 $0 . 8 6$ 。该方法综合利用了MODIS 数据的时序特征和Landsat 数据较高的空间分辨率特征,有效地避免了MODIS 数据空间分辨率不足而导致分类精度较差的情况，又避免了Landsat数据时间分辨率不足所引起的时相选择盲目性或数据冗余,在干旱区农业种植结构的提取领域具有一定的应用价值。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：农作物；种植结构；MODIS；Landsat8；多源数据集成；开都—孔雀河流域",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "农作物种植结构描述的是一个地区或农业生产单位内农作物的类型及其空间分布[1]，是农作物空间格局的重要组成部分，是区域土地资源和水资源优化配置的基础[2]。准确高效地获取农作物种植结构和主要农作物产量信息不仅对作物种植结构的优化和调整具有重要意义[3],对于提高农业用水效率以及缓解干旱区水资源紧张也具有重要的意义。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "多种农作物通过一定的种植方式组合形成了复杂的农业土地系统，单一的遥感影像难以覆盖所有作物光谱识别的最佳时相，利用时间序列遥感影像表征作物季相及物候变化规律，进而开展作物遥感提取的方法得到了广泛应用[4-5]。高时间分辨率的MODIS数据在大面积作物种植信息提取研究中的应用较多[6-10],实现了小麦、玉米和大豆等农作物的分类识别和种植结构的提取研究。利用时间序列的MODIS影像进行作物信息提取能够充分发挥高时间分辨率的优势，但受空间分辨率的限制，只能应用于大面积农作物种植区域，在农作物种植结构相对复杂的区域无法获得理想的提取效果。中等空间分辨率的Landsat数据在作物种植信息提取的研究中也有一定的应用[11-12],实现了水稻等典型作物的信息提取。利用单一中等空间分辨率的Landsat影像进行作物分类识别的方法一定程度上降低了存在大量混合像元的现象，提高了作物分类的精度，却难以获得时间序列较为完备和密集的影像数据。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "集成多时空分辨率的多源遥感数据能够增强作物在物候和空间等特征上的差异信息，一定程度上克服了作物分类时“同物异谱，异物同谱”现象的发生，有利于较高精度的作物识别。目前，部分学者利用时空融合技术构造高空间和时间分辨率的时序数据集，开展基于多源遥感数据的作物信息提取研究。如陈梦露等[13]在我国北方种植大省河北、黑龙江、新疆典型农区，基于时空数据融合模型，利用Land-sat和MODIS影像构建了高时空分辨率影像数据集，探讨时空数据融合模型在农业信息提取领域的适用性;Hao 等[14]、Laura-Piedelobo 等[15]综合Land-sat 和Sentinel-2等数据实现了多源数据的作物信息提取研究。虽然集成多时空分辨率遥感数据在农业信息提取领域具有一定的优势和适用性，但目前尚无一种能够适用于不同数据源和应用目的的时空融合算法出现[16]。已有的时空融合算法都有其各自的优点和局限性，多源遥感影像的几何和辐射特性差异的校正、异质地表混合像元模型的非线性散射特征的处理和地物时相变化模型的建模等过程对不同的数据源和地物的变化会造成不同程度的误差，而且模型比较复杂，不利于方法的推广应用。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "本文以新疆开都一孔雀河流域（以下简称开一孔河流域)农业区为研究区，综合利用高时间分辨率的MODIS影像数据获得作物差异明显的关键生长时期，选择同时期较高空间分辨率的Landsat8影像，开展作物种植结构的提取研究，以期提供一种简单有效地集成多源数据的样本点选择和作物识别方法，为干旱区农业种植结构信息的提取和应用提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究区概况与数据源",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区位于新疆开一孔河流域（ $8 2 ^ { \\circ } 5 6 ^ { \\prime }$ \\~$8 8 ^ { \\circ } 1 2 ^ { \\prime } \\mathrm { E }$ $4 0 ^ { \\circ } 4 8 ^ { \\prime } \\sim 4 3 ^ { \\circ } 2 0 ^ { \\prime } \\mathrm { N } \\rangle$ 农业区（图1），主要包括博斯腾湖农业区 $1 \\ 0 1 9 \\ \\mathrm { k m } ^ { 2 }$ 、开都河农业区2459$\\mathrm { k m } ^ { 2 }$ 以及孔雀河农业区 $2 \\ 7 8 9 \\ \\mathrm { k m } ^ { 2 [ 1 7 ] }$ 。开一孔河流域具有明显的大陆性干旱气候特征，总体特点为日照时间长、昼夜温差大、气候波动频繁、降雨稀少、蒸发剧烈。农业区降水主要集中在4一7月，最大降水量在 $2 0 \\sim 4 0 ~ \\mathrm { m m }$ ,农作物生长期主要集中在3—10月。博斯腾湖、开都河以及孔雀河农业区是该地区重要的特色农产品生产基地，其中博斯腾湖和开都河农业区主要集中在和静县、和硕县、焉耆县和博湖县，主要种植作物有小麦、玉米、棉花、辣椒等;孔雀河农业种植区主要集中在库尔勒市和尉犁县，主要种植作物有棉花和香梨。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 数据源及预处理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究采用的数据包括遥感数据、主要农作物物候信息和野外考察样本点数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "遥感数据包括Landsat8OLI数据和MODIS数据（表1），其中Landsat8OLI数据空间分辨率为30m,从地理空间数据云平台（http://www.gscloud.$\\mathrm { c n / \\Omega }$ )下载2016年4—9月的7景Landsat8OLI数据；从 NASA 官网（https://ladsweb.nascom.nasa.gov/search）下载的2016年全年23期分辨率为250m 的MOD13Q1以及秋、夏季节的4景 $5 0 0 \\mathrm { ~ m ~ }$ 分辨率的 MOD09A1产品数据。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Landsat8OLI数据预处理主要包括辐射定标、",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b2b2ce66b7b2e0ce2955affaf1195706b5b496e2221c67b8673d3e971a5234b9.jpg",
+        "img_caption": [
+            "图1研究区地理位置及样本点空间分布示意图",
+            "Fig.1Location of study area and spatial distribution of sample points "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1遥感数据列表",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a1bff8990e0c6dd70650d7d577b3d96e6a758f372e5e04c2e539831f65d9f657.jpg",
+        "table_caption": [
+            "Tab.1 Remote sensing data list "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>传感器</td><td colspan=\"7\">获取时间/月－日</td></tr><tr><td>Landsat 8</td><td>04-14</td><td>05-16</td><td>06-01</td><td>07-27</td><td>08-04</td><td>09-05</td><td>09-21</td></tr><tr><td rowspan=\"4\">MOD13Q1</td><td>01-01</td><td>01-17</td><td>02-02</td><td>02-18</td><td>03-05</td><td>03-21</td><td>04-06</td></tr><tr><td>04-22</td><td>05-08</td><td>05-24</td><td>06-09</td><td>06-25</td><td>07-11</td><td>07-27</td></tr><tr><td>08-12</td><td>08-28</td><td>09-13</td><td>09-29</td><td>10-15</td><td>10-31</td><td>11 -16</td></tr><tr><td>12-02</td><td>12-18</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>MOD09A1</td><td>06-09</td><td>07-11</td><td>08-12</td><td>09-13</td><td></td><td></td><td></td></tr></table></body></html>",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "大气校正、影像裁剪等内容。MODIS数据已经过严格的几何校正、辐射定标、大气校正等预处理，利用MRT工具对数据进行投影变换（正弦投影转UTM_Zone_45N）格式转换（HDF转TIF）、波段提取（ND-VI波段和对应的QC 波段）、影像裁剪以及S-G 滤波[18-19]等处理。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "从中国气象数据网（https://data.cma.cn/）获得新疆开一孔河流域小麦、玉米、棉花3种农作物物候期资料;实地调查获得辣椒、香梨和芦苇物候期资料(表2）。由于博斯腾湖农业区分布有大量的芦苇,也将其作为农作物分类识别的对象之一。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "研究区内农作物样本点数据主要通过实地调查并结合GoogleEarth进行采集。2018年7月对研究区内的农作物种植情况采用GPS定点及拍照的方式进行了实地调查，采集实地的农作物样本点。此外，结合GoogleEarth上影像的色彩以及纹理等特征增加样本点，并删除2016年与2018 年影像不一致的野外考察样本点。采集的样本点总计368个（图1)，其中小麦67个、玉米50个、棉花63个、辣椒76个、香梨42个、芦苇70个，主要用于精度验证。",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a086c3e13fd81b0056f78cfe92958c2daea237043650da4397badbc970c8202d.jpg",
+        "table_caption": [
+            "表2开一孔河流域主要农作物物候候历",
+            "Tab.2Main crop phenology of the Kai-kong River Basin "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>月</td><td>2</td><td></td><td>3</td><td></td><td></td><td>4</td><td></td><td></td><td>5</td><td></td><td>6</td><td></td><td>7</td><td></td><td>8</td><td></td><td></td><td>9</td><td></td><td></td><td></td><td>10</td></tr><tr><td>旬</td><td>下 上</td><td></td><td>中</td><td>下</td><td>上</td><td>中</td><td>下</td><td>上 中</td><td>下 上</td><td>中</td><td>下</td><td>上</td><td>中下</td><td>上</td><td>中</td><td>下</td><td>上</td><td>中</td><td>下</td><td>上</td><td>中</td><td>下</td></tr><tr><td>小麦</td><td>播种</td><td></td><td></td><td>出苗</td><td></td><td></td><td>分叶、拔节</td><td></td><td>拔节、孕穗</td><td></td><td>乳熟</td><td></td><td>收割</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>玉米</td><td colspan=\"4\"></td><td></td><td>播种</td><td colspan=\"10\">出苗 拔节</td><td>收获</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>棉花</td><td colspan=\"4\"></td><td></td><td>播种</td><td colspan=\"10\">出苗、长叶 现蕾 生长</td></tr><tr><td>辣椒</td><td colspan=\"4\">播种</td><td>出苗</td><td colspan=\"7\">定植</td><td colspan=\"4\">开花 结果</td><td colspan=\"4\">收获</td></tr><tr><td>香梨</td><td colspan=\"4\"></td><td>开花</td><td colspan=\"7\"></td><td colspan=\"4\"></td><td colspan=\"4\">果实成熟 成熟</td></tr><tr><td>芦苇</td><td></td><td colspan=\"4\">返青 发芽</td><td colspan=\"7\">展叶 生长</td><td colspan=\"4\">孕穗 抽穗</td><td colspan=\"2\">落叶</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "为了解决研究区实际样本点无法获取的困难，本文基于Landsat8OLI 和 MODIS NDVI 影像构造作物样本点。进而得到不同作物的NDVI年际变化曲线，分析可得作物生长明显差异的关键期，选择关键期的Landsat8影像，通过构造作物识别知识规则，基于决策树分类方法开展作物的识别与分类，并基于单一MODIS影像数据进行作物识别与分类的方法进行对比分析，探讨基于多平台遥感数据在农业种植结构提取方面的适用性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1 选取作物样本点",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "实验中采用的是2016年的数据，由于无法获得研究区实际的农作物样本点，本文基于Landsat8和MODIS 影像，结合不同作物的物候信息构造和筛选作物样本点。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "首先，利用专家知识,根据不同作物在同一时期的 NDVI差异及同种作物在不同时期的NDVI变化,选择不同月份的Landsat8影像建立初始样本点。具体方法为（图2）：选择a时期影像和b时期影像，其中a、b时期影像中的每个小矩形代表一部分像元，颜色代表像元的NDVI值，NDVI不同则颜色不同。在影像a、b中，可以区分出深绿色和白色为不同的作物，对a、b影像进行叠加，则可以区分出红色、橘色、蓝色和紫色4种不同的作物。结合农作物物候信息，再对4类作物进行区分，确定具体为哪一类作物，直到选择出所有作物样本点。基于该方法，构造的候选样本点总计394个，其中小麦43个、玉米61个、棉花52个、辣椒68个、香梨71个、芦苇99个。完成候选样本点构造后，利用MODIS数据对候选样本点进行筛选。计算394个候选样本点的全年23期MODIS影像的NDVI值进行提取，得到每个候选样本点的NDVI时序变化曲线,剔除每一类候选样本点中NDVI明显异常的曲线和不符合农作物物候规律的曲线，得到符合作物生长NDVI曲线的样本点总计149个，其中小麦16个、玉米29个、棉花15 个、辣椒26个、香梨30个、芦苇33个。结合高分辨率的GoogleEarth影像对筛选得到的样本点进行验证，并与2018年野外考察的样本数据中确认未发生变化的地物样本点进行对比，结果显示最终筛选出的样本点符合实际情况",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f08eee27013f739de12dcca1c048f6c200ff96742929c74769515b229bec0e6.jpg",
+        "img_caption": [
+            "图2候选样本点选择方法",
+            "Fig.2Candidate sample point selection method "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2作物生长期NDVI曲线分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对最终确定的典型作物样本点NDVI曲线求平均得到小麦、玉米、辣椒、棉花、香梨和芦苇的NDVI年际变化曲线（图3）。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "由农作物生长期NDVI曲线可知，小麦、香梨和芦苇3种作物的生长期早于辣椒、棉花和玉米，这与作物物候历是吻合的，说明所选择的样本点符合实际情况。小麦、香梨和芦苇3种作物在3月中旬左右开始生长，而辣椒、棉花和玉米3种作物则在4月中旬左右开始种植。据此，我们可以选择3月中旬到4月上旬的关键时期影像将其分为两大类，然后再进行细分。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e97f213983ab749637be44a880e9732f1729f3f7b95546571c72351862c0ade0.jpg",
+        "img_caption": [
+            "图3不同作物及易混淆地表覆盖NDVI年内变化曲线",
+            "Fig.3Annual variation curve of NDVI covered by different crops and confusing surface "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3基于决策树分类的作物识别与提取 ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "根据不同作物NDVI年际变化曲线找到差异明显的关键时间节点，并选择该节点所对应的同时期较高空间分辨率的Landsat8影像通过构建知识规则，可以最大程度地利用较少影像实现NDVI差异明显的作物分类，但对于生长期较为相似的作物，仅基于NDVI无法实现分类。因此，结合作物在不同波段的光谱差异进一步进行分类。同时，为了避免其他信息对农作物提取的干扰，需要预先提取出水体和其他非植被区域。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.1MNDWI规则利用MNDWI(Modification ofnormalized diference water index）[20]对水体进行提取。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M N D W I } = { \\frac { \\mathrm { G r e e n } - \\mathrm { S W I R } } { \\mathrm { G r e e n } + \\mathrm { S W I R } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：SWIR表示短波红外波段的反射率值，Landsat8OLI第6波段、Landsat7ETM $^ +$ 第5波段的反射率值;Green表示可见光绿色波段的反射率值，Landsat8OLI第3 波段、Landsat $7 ~ \\mathrm { E T M } +$ 第2波段的反射率值。为了避免冰雪融化的干扰，选择5月16日(第137d）9月5日（第 $2 4 9 { \\mathrm { ~ d } }$ )以及9月21日（第265d)3个时期的影像分别代表夏初、秋初和秋末来提取水体信息,具体规则为( $\\mathrm { \\Delta M N D W I } _ { 5 / 1 6 } > 0 . \\mathrm { \\Delta } 1 )$ and$\\mathrm { \\langle M N D W I _ { 9 / 5 } > 0 . 1 \\rangle a n d ( \\mathrm { M N D W I _ { 9 / 2 1 } > 0 . 1 \\rangle } }$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.2NDVI规则本文利用NDVI(NDVI-Normal-ized Difference Vegetation Index）[21]对农作物进行提取。计算公式如下：",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { N D V I } = { \\frac { \\mathrm { N I R } - \\mathrm { R e d } } { \\mathrm { N I R } + \\mathrm { R e d } } }\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "式中：NIR表示近红外波段的反射率值，Landsat8OLI第5波段或Landsat $7 ~ \\mathrm { E T M } +$ 第4波段的反射率值；Red表示可见光红色波段的反射率值，Landsat8OLI第4波段或Landsat $7 ~ \\mathrm { E T M } +$ 第3波段的反射率值。选择5月16日（第137d）、7月27日（第209d)、9月21日(第265d)三个均有植被覆盖时期的影像来排除裸地，具体规则为：( $\\mathrm { N D V I } _ { 5 / 1 6 } > 0 . \\ 1 \\ \\rangle$ or$\\mathrm { \\langle N D V I _ { \\circ / 5 } > 0 . 1 \\rangle \\mathrm { o r } ( N D V I _ { \\circ / 2 1 } > 0 . 1 ) }$ C",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3.3农作物知识规则的建立小麦、香梨和芦苇3 种作物的生长期早于辣椒、棉花和玉米,5月中旬，小麦处于孕穗期，香梨处于叶子生长期，植被覆盖度很高;而玉米、棉花和辣椒处于出苗期，植被覆盖度很低，NDVI值远低于0.4。选择5月16日（第137d)的关键期影像将其分为两大类，分类规则为：$\\mathrm { ( N D V I } _ { 5 / 1 6 } > 0 . 4 \\mathrm { ) }$ 。接下来在每一类中进行细分。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "（1）小麦、香梨、芦苇提取",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "小麦与香梨和芦苇分离的关键节点在7月下旬，此时小麦已经收割，在7月27日（第209d)的NDVI值远低于0.3，而此时香梨和芦苇NDVI值在0.5以上，通过设置规则( $ { \\mathrm { \\Delta N D V I } } _ { 7 / 2 7 } < 0 . 5 )$ 将小麦与香梨和芦苇进行分离。由于香梨和芦苇的NDVI生长曲线相似，单一的基于NDVI值无法将两者很好地分离，因此，结合光谱规则进行分离。经过多次实验及反复对比，选择蓝色波段（bandblue）和近红外波段(bandNIR)的值作为光谱特征参数对香梨和芦苇的空间分布特征进行识别和提取，具体规则为：芦苇( $\\mathbf { B } _ { \\mathrm { N I R } } { \\leqslant } 2 ~ 5 0 0$ or $\\mathrm { B } _ { \\mathrm { b l u e } } { \\leqslant } 6 0 0$ ）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2）玉米、棉花、辣椒提取 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "玉米与与其他作物分离的关键节点在9月下旬，此时玉米已经收割，棉花和辣椒仍然处于生长期。在9月21日（第 $2 6 5 { \\mathrm { ~ d } }$ )玉米的NDVI值远低于0.4，而此时棉花和辣椒的NDVI值在0.5以上，通过设置规则( $\\mathrm { \\Delta \\ N D V I _ { 9 / 2 1 } } < 0 . 5 )$ 将玉米与棉花和辣椒进行分离。由于芦苇生长状况参差不齐，利用5月16日影像进行分类时，玉米、棉花和辣椒中也被分进部分芦苇。因此，在分离棉花和辣椒之前需要把芦苇提取出来。选择5月16日蓝光波段（bandblue）,设置规则（ $\\mathbf { B } _ { \\mathrm { b l u e } } \\leqslant 8 0 0$ )可将芦苇从棉花和辣椒中剔除。9月21日，棉花处于花铃收获期，辣椒处于采摘期，都已停正生长。但由于棉花是白色，辣椒是红色，其光谱特征存在差异。为了准确识别二者的空间分布特征，选择蓝光波段（bandblue）和近红外波段（bandNIR)的值作为特征参数对辣椒和棉花空间分布特征进行识别和提取，具体规则为：辣椒( $\\mathrm { B } _ { \\mathrm { b l u e } } { \\leqslant } 5 5 0$ or $\\mathbf { B } _ { \\mathrm { N I R } } \\leqslant 5 5 0$ )。基于分类规则构造的决策树如图4所示。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4分类精度评价方法",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "混淆矩阵是表示精度评价的一种标准格式，用$n$ 行 $n$ 列的矩阵形式来表示。具体的评价指标有总体精度OA（overall accuracy）Kappa系数等。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "总体分类精度描述的是对每一个随机样本，所分类的结果与参考数据所对应区域的实际类型相一致的概率，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { O A } = \\sum _ { i = 1 } ^ { n } X _ { i i } / N\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 表示样本点总数； $X _ { i i }$ 表示被分到正确类别的样本数。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Kappa系数是一种定量评价遥感分类图精度的方法，计算公式如下：",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { K a p p a } } = { \\frac { N { \\displaystyle \\sum _ { i = 1 } ^ { n } } X _ { i i } - { \\displaystyle \\sum _ { i = 1 } ^ { n } } ( X _ { i + } X _ { + i } ) } { N ^ { 2 } - { \\displaystyle \\sum _ { i = 1 } ^ { n } } ( X _ { i + } X _ { + i } ) } }\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "式中： $N$ 表示样本点总数； $X _ { i i }$ 表示被分到正确类别的样本数； $X _ { i + }$ 和 $X _ { + i }$ 分别表示第 $\\mathbf { \\chi } _ { i }$ 行和第 $\\mathbf { \\chi } _ { i }$ 列的总样本数量。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3结果评价与分析",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.1分类结果",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用图4构建的决策树，对开一孔河农业区的主要农作物进行分类，获得初步分类结果。由于决策树分类是基于像元的作物分类方法，其分类结果不可避免地出现一些像元孤岛等“椒盐”现象，利用分类后处理功能模块对分类结果进行小斑块去除。随后根据当地作物实际种植的经验知识，并借助GoolgeEarth影像，对去除小斑块后的结果再进行适当的人机交互处理。由图5a可知，博斯腾湖和开都河农业区作物种植主要为小麦、玉米、辣椒及芦苇。其中芦苇为自然生长，其分布集中在博斯腾湖西部外围区。而小麦、玉米、辣椒分布较零散，没有明显的规律。相比之下，孔雀河农业区主要为棉花和香梨,种植比较集中，只零星分布一些玉米和小麦。开展仅利用时间序列的MODIS影像的农作物种植结构提取，同样基于图5的规则对阈值进行适当调整，经分类后处理得到的农业种植结构提取如图 $5 \\mathrm { b }$ 。由于MODIS影像的空间分辨率为 $2 5 0 \\mathrm { ~ m ~ }$ ，混合像元较多，对比图5a和图5b，直观上可以看出分类的效果较差，很大一部分农作物的像元被分到非植被区域。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2分类精度评价 ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "利用野外考察样本点，采用混淆矩阵的方法对上述分类结果进行精度验证（表4）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "综合利用MODIS和Landsat8影像的分类方法与利用单一MODIS影像的分类方法相比，除香梨提",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4b83cf63f0f1614a56eaa5a620dab9a33765bebf5aabb4670b941c7702382751.jpg",
+        "img_caption": [
+            "图4农作物分类决策树"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b70e17d8ff588977cb8a6ec485deebc280695365fe03ac91f965ba96eaf8a66.jpg",
+        "img_caption": [
+            "Fig.4Decision tree of crop classification ",
+            "图5基于决策树的分类结果图",
+            "Fig.5Classification result graphs based on decision tree "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "表4分类精度",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/dcd25c9c0c594f4fe972a867dbbbdb1c521bd0d96a132ef048749582dd4674e3.jpg",
+        "table_caption": [
+            "Tab.4 Classification accuracy ",
+            "/% "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>方法</td><td>小麦</td><td>玉米</td><td>棉花</td><td>辣椒</td><td>香梨</td><td>芦苇</td><td>总体精度</td><td>Kappa 系数</td></tr><tr><td>MODIS + Landsat</td><td>78.48</td><td>87.50</td><td>94.12</td><td>85.92</td><td>96.43</td><td>97.62</td><td>88.37</td><td>0.86</td></tr><tr><td>MODIS</td><td>48.48</td><td>38.71</td><td>64.71</td><td>68.42</td><td>90.91</td><td>84.00</td><td>62.58</td><td>0.53</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "取精度略微提高外，其他作物的提取精度都有显著的提高。综合利用MODIS和Landsat影像进行分类的评价结果，Kappa系数为0.86，总体分类精度达到$8 8 . 3 7 \\%$ 。其中芦苇、香梨、棉花分类精度较高，分别为 $9 7 . 6 2 \\%$ （ $9 6 . 4 3 \\%$ 及 $9 4 . 1 2 \\%$ 。而小麦、辣椒与玉米分类精度相对降低。主要是因为在 $3 0 \\mathrm { ~ m ~ }$ 分辨率的Landsat8影像上，3种作物的种植结构零散且复杂多样，造成混合像元的出现。此外，小麦分类精度较辣椒和玉米更低的原因，是小麦收割以后的地块上会种植蔬菜等其他作物，导致小麦收割后的NDVI值仍然处于有植被状态，从而产生误分。而基于单一MODIS影像进行分类的评价结果Kappa系数为0.53，总体分类精度只有 $6 2 . 5 8 \\%$ 。其中芦苇和香梨分类精度相对较高，分别为 $84 \\%$ 和 $9 0 . 9 1 \\%$ ,而其他作物的分类精度则较低，其中玉米的分类精度最低，仅为 $3 8 . 7 1 \\%$ ,主要是大量的玉米像元被误分为小麦。由于MODIS 影像的空间分辨率较低，在250$\\mathbf { m }$ 分辨率的影像上存在着大量的混合像元，这是导致作物分类精度低最主要的原因。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3主要作物种植面积分析",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "在综合利用MODIS和Landsat影像进行分类的基础上,进一步对各县市的主要农作物种植面积信息进行统计分析（图6）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/5696d4b27ee52aa5fd3e99a64670c9fcfd77a98263dd3c25c34e1c0259de2c99.jpg",
+        "img_caption": [
+            "图6各县农作物统计图 Fig.6Crop statistics of each county "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "开一孔河农业区主要作物种植总面积为 $5 . 0 7 \\times$ $1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ 。其中棉花种植面积最大,为 $1 . 9 7 \\times 1 0 ^ { 5 }$ $\\mathbf { h } \\mathbf { m } ^ { 2 }$ 。其次是玉米和小麦,种植面积分别为 $1 . 2 3 \\times$ ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ 和 $1 . 0 3 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ,辣椒种植面积为 $6 . 1 7 \\times$ $1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ ,香梨种植面积最小为 $2 . 2 8 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 。由图6可知,孔雀河农业区以棉花种植为主，辅以香梨、玉米、小麦和辣椒等作物，约占整个开一孔河农业区主要作物种植面积的 $4 3 . 3 9 \\%$ 。库尔勒市和尉犁县的棉花种植面积均占绝对优势，香梨主要分布在库尔勒市。博斯腾湖和开都河农业区小麦、玉米和辣椒的种植面积较为均衡，约占整个开一孔河农业区作物种植面积的 $56 . 6 1 \\%$ 0",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "和硕、和静和焉耆地区作物种植结构比较分散，地块较为破碎， $3 0 \\mathrm { ~ m ~ }$ 分辨率的Landsat影像上仍然存在一定的混合像元，农田地块之间的防护林像元会被误分为农作物，使得作物种植结构的统计结果出现一定的偏差。小麦收割以后的地块上会种植蔬菜等其他作物，导致小麦收割后的NDVI值仍然处于有植被状态，从而产生误分，使得和硕、焉耆等县市小麦的统计结果低于实际种植信息。在今后的工作中，可以考虑结合高分辨率的遥感数据开展作物种植信息的提取。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（1）提出了综合利用作物物候期、多时期Land-sat8及时序MODISNDVI影像的信息样本点选取方法，为不易获得样本点年份和区域农作物的提取提供了较好的解决方案。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（2）利用主要作物MODISNDVI时序曲线，找到不同作物差异明显的关键时期，进而选择关键时期较高空间分辨率的Landsat8数据，综合考虑作物的NDVI差异以及光谱差异规则，基于决策树的分类方法对作物种植结构较为复杂区域的作物识别能够取得较为理想的分类结果。该方法可以充分发挥两种数据的优势，弥补MODIS数据空间分辨率，及Landsat8数据难易对多种作物进行区分的不足，简单高效地实现对作物种植信息的提取。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "（3）开一孔河流域农业区主要作物种植面积为$5 . 0 7 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ 。其中棉花种植面积最大为 $1 . 9 7 \\times$ $1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ 、玉米种植面积为 $1 . 2 3 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ 、小麦种植面积为 $1 . 0 3 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ 、辣椒种植面积为 $6 . 1 7 \\times 1 0 ^ { 4 }$ $\\mathbf { h } \\mathbf { m } ^ { 2 }$ 、香梨种植面积为 $2 . 2 8 \\times 1 0 ^ { 4 } ~ \\mathrm { h m } ^ { 2 }$ 。博斯腾湖和开都河农业区约占整个开孔河农业区作物种植面积的 $5 6 . 6 1 \\%$ ,以小麦、玉米和辣椒为主，作物种植较为零散。孔雀河农业区约占整个开孔河农业区作物种植面积的 $4 3 . 3 9 \\%$ ,作物种植比较单一,以棉花和香梨为主。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References）：",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[1］唐华俊,吴文斌,杨鹏,等.农作物空间格局遥感监测研究进展 [J].中国农业科学,2010,43（14）:2879-2888.[Tang Huajun, Wu Wenbin,Yang Peng,et al.Recent progresses in monitoring crop spatial patterns by using remote sensing technologies[J]. Scientia Agricultura Sinica,2010,43（14） :2879-2888.]   \n[2]蔡超,夏建新,任华堂.基于蓝水资源的新疆农业种植结构调 整分析[J].农业现代化研究,2015,36（2)：265-269.［Cai Chao,Xia Jianxin,Ren Huatang. Blue water oriented optimization of plantation industry in Xinjiang［J].Research of Agricultural Modernization,2015,36(2）:265-269.]   \n[3］胡琼,吴文斌,宋茜,等.农作物种植结构遥感提取研究进展 [J].中国农业科学,2015,48（10）:1900－1914.[Hu Qiong, Wu Wenbin,Song Xi,et al. Recent progresses in research of crop patterns mapping by using remote sensing[J].Scientia Agricultura Sinica,2015,48（10）:1900-1914.]   \n[4]Elodie Vintrou,Desbrosse Annie,Bégué Agnes,et al. Crop area mapping in West Africa using landscape stratification of MODIS time series and comparison with existing global land products[J]. International Journal of Applied Earth Observation & Geoinformation,2012,14(1):83-93.   \n[5］胡琼.基于时序MODIS影像的农作物遥感识别方法研究［D]. 北京：中国农业科学院,2018.［Hu Qiong.Research on Crop Remote Sensing Recognition Method Based on Time-series MODIS Image[D].Beijing:Chinese Academy of Agricultural Sciences, 2018.]   \n[6]Lorenzo Buseto,Zwart Sander-J,Boscheti Mirco.Analysing spatial-temporal changes in rice cultivation practices in the Senegal River Valley using MODIS time-series and the PhenoRice algorithm [J].International Journal of Applied Earth Observation and Geoinformation,2019,75:15-28.   \n[7]Qiu B,Lu D,Tang Z,et al. Automatic and adaptive paddy rice mapping using Landsat images:Case study in Songnen Plain in Northeast China[J].Science of the Total Environment,2017,598： 581-592.   \n[8］宫诏健,刘利民,陈杰,等.基于 MODIS NDVI数据的辽宁省春 玉米物候期提取研究［J].沈阳农业大学学报,2018,49（3）： 257-265.[Gong Zhaojian,Liu Limin,Chen Jie,et al.Phenophase extraction of spring maize in Liaoning Province based on MODIS NDVI data[J]. Journal of Shenyang Agricultural University,2018, 49(3) :257 -265.] ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[9]周思,何祺胜,刘宝柱.基于MODIS 的黑龙江省农作物种植结",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "构提取研究[J].地理空间信息,2018,16（1):79-82.[Zhou Si,He Qisheng,Liu Baozhu.Extraction of crops planting structure based on MODIS in Heilongjiang Province[J].Geospatial Information,2018,16(1) :79 -82.]   \n[10］郭昱杉,刘庆生,刘高焕,等.基于 MODIS 时序 NDVI主要农作 物种植信息提取研究[J].自然资源学报,2017,32（10）:1808 -1818.［Guo Yushan,Liu Qingsheng,Liu Gaohuan,et al.Extraction of main crops in Yellow River Delta based on MODIS NDVI time series[J]. Journal of Natural Resources,2017,32（10）:1808 -1818.]   \n[11］刘吉凯,钟仕全,梁文海.基于多时相Landsat8 OLI影像的作物 种植结构提取[J].遥感技术与应用,2015,30（4）：775－783. [Liu Jikai,Zhong Shiquan,Liang Wenhai. Extraction of crop planting structure based on multi-temporal Landsat8 OLI image[J]. Remote Sensing Technology and Application,2015,30（4）: 775- 783.]   \n[12］阳雄伟,陈春花.基于融合时间特征 Landsat 影像的水稻面积 提取[J].地理空间信息,2018,16(6）:87-89.[Yang Xiongwei,Chen Chunhua.Paddy fields area extraction based on landsat data with integrating temporal features[J]. Geospatial Information, 2018,16(6):87 -89.]   \n[13］陈梦露,李存军,官云兰,等.基于 ESTARFM模型的区域农田 高时空分辨率影像产生与应用[J].作物学报,2019,45（7）： 1099 -1110.[Chen Menglu,Li Cunjun,Guan Yunlan,et al. Generation and application of high temporal and spatial resolution images of regional farmland based on ESTARFM model[J]. Acta Agronomica Sinica,2019,45（7):1099 -1110.]   \n[14]Hao P,Wang L,Niu Z. The potential of time series merged from Landsat-5 TM and HJ-1 CCD for crop classification:a case study for bole and Manas Counties in Xinjiang,China[J].Remote Sensing,2014,6(8）:7610-7631.   \n[15]Laura-Piedelobo A,David Hernández-Lopez,Ballesteros Roci0. Scalable pixel-based crop classification combining Sentinel $^ { - 2 }$ and Landsat $^ { - 8 }$ data time series: Case study of the Duero river basin [J].Agricultural Systems,2019,171:36-50.   \n[16］黄波,赵涌泉.多源卫星遥感影像时空融合研究的现状及展望 [J].测绘学报,2017,46（10）：1492－1499.［HuangBo,Zhao Yongquan. Research status and prospect of spatiotemporal fusion of multi-source satelite remote sensing imagery[J].Acta Geodaetica et Cartographica Sinica,2017,46(10）:1492-1499.]   \n[17］李卫红,陈忠升,李宝富.新疆开都一孔雀河流域绿洲需水量 与稳定性分析[J].冰川冻土,2012,34（6)：1470－1477.［Li Weihong,Chen Zhongsheng,Li Baofu.Analysis of water demand and stability for oasis in Kaidu-Kongque River Basin,southern Xinjang[J]. Journal of Glaciologyand Geocryology,2012,34（6）: 1470 -1477. ]   \n[18]Viv6truyols G,Schoenmakers P-J.Automatic selection of optimal Savitzky-Golay smoothing[J].Analytical Chemistry,2006，78 (13) :4598.   \n[19］李爱农,宋孟强,马利群.MODIS 植被指数时间序列 SavitzkyGolay 滤波算法重构[J].遥感学报,2010,14（4）:725－741. [Li Ainong,Song Mengqiang,Ma Liqun.Reconstruction of NDVI time-series datasets of MODIS based on Savitzky-Golay filter[J]. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Journal of Remote Sensing,2010,14(4）:725-741.][20］徐涵秋.利用改进的归一化差异水体指数(MNDWI)提取水体信息的研究[J].遥感学报,2005,9（5）：589-595.［XuHan-qiu.A study on information extracting of water body with the modi-fiednormalized difference water index（MNDWI)[J].Journal of",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Remote Sensing,2005,9(5） :589-595.][21］符思涛，周云.基于遥感影像的归一化植被指数算法研究[J].江西测绘，2010（3）：17-33.［FuSitao，ZhouYun.Researchonnormalized vegetation index algorithm based on remote sensing im-age[J].Jiangxi Cehui,2010(3）:17-33.]",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Crop planting structure extraction based on remote sensing data in Kai-Kong River Basin, Xinjiang ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CHA Ming-xing1,2.3, WANG Xiao-qin1,2.3，LI Ya-li1.2.3，QIU Peng-xun1,2,3 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(1.Key Laboratory of Spatial Data Mining and Information Sharing of Ministryof Education,Fuzhou University， Fuzhou 350108,Fujian,China ;   \n2.National &Local Joint Engineering Research Centerof Satelite Geospatial Information Technology,Fuzhou 350108,Fujian,China; 3．Academy of Digital China(Fujian）,Fuzhou 3501O8,Fujian,China) ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Crop planting structure plays an important rolein crop spatial patern,and it is the foundation for the optimalallocationof regionallandand waterresources.Inthis paper,takingthe Kai-Kong River Basinagriculturalarea in Xinjiang as the study area,a method for crop clasification that comprehensively utilizes high temporal resolution MODIS images and high spatial resolution Landsat images was proposed.Due to large scope of study area,itis dificult to obtain crop sample points uniformly throughout whole research area with trafic and time constraints.MODIS and Landsat data for 2Ol6,combined with crop phenology data,were used to construct experimental sample points;thereby providing a better solution forcrop extraction in this area wherein sample accessis diffcult.NDVItime-series curves fordiffrent crops were constructed basedon experimental sample points.Based on the NDVItime-series curves,the critical period of cropsduring growing season were obtained.For these keyperiods,Landsat 8 OLI images were selected.Next,extraction knowledge rules for the main crops wereconstructed,and identification and clasificationof crops were performed based on decision tree.In 2O16,main crop planting area was $5 . 0 7 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ of the Kai-Kong River Basin agricultural region,with largest planting area found for cotton ( $( 1 . 9 7 \\times 1 0 ^ { 5 } ~ \\mathrm { h m } ^ { 2 }$ ）,followed by those for corn and wheat.Bosten Lakeand Kaidu Riveragricultural area was dominatedbypepper,corn,and wheat,and the planting structure was relatively scatered.Planting structureof the Peacock River agricultural area was relatively simple,with cotton and pear as main crops.A comparative experiment based on time-series MODIS images for crop recognition and clasification was also conducted.Results were verified and compared with sample points of field survey.The accuracy of crop classification using MODIS and Landsat data was obviously improved as compared with the accuracy of crop classification using only time-series MODIS data. Overall classification accuracy increased from $6 2 . 5 8 \\%$ to $8 8 . 3 7 \\%$ ， andkappa coefficient increased fromO.53 toO.86.Theuseof high temporal resolution MODIS dataand high spatial resolution Landsat datacan improve theaccuracyof cropextraction toacertain extent；this avoided（1）porclassificationaccuracy caused bythe insuficient spatial resolution of MODISdata and（2）phase selection blindness ordata redundancycaused bythe insuficientresolutionofLandsat data.Therefore,thisapproach has highpotential application value in the extraction of crop planting structure in arid areas. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Key words:crop；planting structure；MODIS；Landsat 8 OLI；Multi-source data integration；Kaidu-Kongque River Basin ",
+        "page_idx": 8
+    }
+]

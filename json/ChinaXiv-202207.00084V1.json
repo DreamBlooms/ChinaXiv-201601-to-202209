@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "当量法在社区卫生机构成本测算和绩效评价中的应用研究赵丽颖1,2，王卫，李媛1，娄翠迪1，程薇1,2\\*",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1北京中医药大学管理学院北京100029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2北京中医药大学国家中医药发展与战略研究院北京100029",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3北京市西城区社区卫生服务管理中心",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【作者单位】北京中医药大学管理学院社会医学与公共卫生事业管理，北京，100029【作者简介】赵丽颖，女，1986年，讲师，研究方向：卫生财务管理、卫生机构成本核算与管理，E-mail: 700502@bucm.edu.cn",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【通讯作者】程薇\\*，女，教授，E-mail：605014@bucm.edu.cn。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【摘要】目的 通过对样本机构的成本测算和绩效评价，探究当量法在一类保障二类管理背景下社区卫生服务机构管理中的应用。方法以真实数据为原型,结合当量法和DEA法，对比分析当量结果在应用于成本测算、新增项目成本测算、人员与机构效率评价等应用。结果2020年14家每当量成本平均69.80元，共提供疫情相关服务13.48万当量，成本消耗为103.78万元。14家机构人均负担当量相差较大，综合效率有效的有2家，纯技术效率有效9 家，规模效率有效2家。结论 当量法为社区卫生服务机构工作量考核标准化提供基础，可以快速核算服务成本消耗，为政府分类补偿、精准管理提供抓手，有助于社区卫生服务机构有特色、高水平发展。样本机构的纯技术效率相对较高，投入的各项资源获得有效利用，但规模技术效率相对较低，呈规模递增，应适当加大投入，提高投入产出效率。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "【关键词】 当量法；社区卫生服务成本测算；社区卫生服务绩效评价；超效率DEA中图分类号：R179 文献标识码：A 文章编号：",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on the application of equivalence method in cost measurement and performance evaluation of community health institutions ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zhao Liying1,2,,Wang Wei³,Li Yuan1, Lou Cuidi', Cheng Wei1,2 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 School ofManagement, Beijing University of Traditional Chinese Medicine,Beijing 100029 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2 National Institute of Traditional Chinese Medicine Development and Strategy, Beijing University of Traditional Chinese Medicine, Beijing 100029 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3 Beijing Xi Cheng District Community Health Service Management Center ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Corresponding author: Cheng Wei； E-mail: chengwei@bucm.edu.cn 【Abstract】Objective To explore the application of equivalence method in cost management and performance evaluation of community health institutions. Methods Using the real data as a prototype, combined with the equivalent method and the DEA method, the equivalent results were compared and analyzed in cost estimation,cost estimation of new projects,and efficiency evaluation of personnel and institutions. Results In 2020,the average cost per equivalent of 14 stores was 69.80 yuan,and a total of 134,800 equivalents of epidemic-related services were provided, with a cost consumption of 1,037,800 yuan. Among the 14 institutions, there is a large difference in the equivalent per capita burden. There are 2 institutions with efective comprehensive eficiency, 9 institutions with eective pure technical efficiency,and 2 institutions with effective scale efficiency. Conclusion The equivalent method provides the basis for the standardization of workload assessment of community health service institutions,can quickly calculate the service cost consumption, and provide a starting point for government classfication compensation and precise management, which is conducive to the distinctive and high-level development ofcommunity health service institutions.The pure technical effciency of the sample institutions is relatively high,and the various resources invested are efectively used, but the scale technical eficiency is relatively low,and the scale is increasing,and the input should be appropriately increased to improve the input-output efficiency. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "【Key words】 Equivalent method; community health service performance evaluation; superefficiency DEA ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "随着我国城镇化、老龄化进程加快，多种疾病负担并存、多重健康影响因素交织的复杂状况将长期存在，人民群众就近享有多层次多样化便捷的健康服务需求将持续快速增长[1,基层医疗卫生机构是卫生健康服务体系的网底，承担着为人民群众提供便捷、多样、优质、高效卫生健康服务的职责。坚持基层医疗卫生机构的公益性质，充分发挥绩效考核的激励和约束作用，有助于基层医疗卫生服务能力提升和质量持续改进[2]。作为基层医疗卫生机构的重要组成部分，社区卫生机构服务功能涉及医疗、预防保健、康复、中医药等，服务项目类别众多，单位不一致，机构间绩效考核结果难以比较[3]。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "因此，本研究以某区县14家样本社区卫生机构为例，应用当量法对其成本消耗情况进行测算，并结合数据包络分析（DEA）对服务绩效进行评价，在基层卫生机构推进“公益一类财政保障、公益二类绩效管理”的背景下，为社区各项资源精准、科学投入及不同特点社区进行绩效评价提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1研究方法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.1 当量法",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（1）基本原理。当量法是测算基层社区卫生服务机构成本的主要方法之一。当量法最早是世界卫生组织于1998年提出的，用于核算卫生技术人员配置需求的方法，将当量法用于成本核算，是将“标准服务当量值”的概念引入，将各类服务或活动的工作“人时数”进行当量值转化，从而可以直接相加和比较各类服务的工作量，并以服务当量为标准分摊各项成本[4]。由于当量法仅需要根据服务规范确定各服务项目的当量值，年度财务数据和服务量数据，因此具有简便性和科学性[5]-[6]。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（2）数据来源。人员基础数据来自各机构《卫生财务报表-基层医疗卫生机构基本数字表》，基本医疗人数和公共卫生人数在此基础上，结合机构人员个案调查工作量分配计算得到。财务数据主要来自于各机构《卫生财务报表-基层医疗卫生机构收入费用盈余明细表》。基本医疗服务项目及服务量数据由各机构从HIS系统中导出；公共卫生项目及服务量数据由各机构在妇幼保健、慢病管理等各系统导出后手工填报，疫情新增项目由专家确定，数据量由机构根据系统导出后手工填报。研究选取某区县辖区内全部14家社区卫生服务机构作为研究样本，由于数据保密性，对原始数据进行了技术处理，重点探讨当量法在管理中的应用。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "（3）测算过程。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第一步，确定成本测算对象和范围。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第二步，确定标准当量值和所有项目当量。本研究在以往研究基础上，参照北京市社区卫生协会的《北京市社区卫生服务机构绩效管理指南》中当量设定，与专家咨询确定1次标准的门诊服务（15 分钟)，为1个标准服务当量。并参照《全国医疗服务价格项目规范工作手册（2012 年版)》，在操作时间外，引入操作难度和风险程度两个参数，并将标准门诊服务的操作难度和风险程度设为1。其他项目当量确定在参照比对以上两个文件和价格系数等基础上，初步测算基本医疗和公共卫生服务当量。采用三轮专家焦点小组座谈会，以1次标准门诊服务工作为1当量，在综合考量操作时间、操作难度和风险程度的基础上，评估各项目相当于做了几个当量为原则，在初步测算当量基础上进行调整，最终确认其他项目当量值。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第三步，统计各服务项目工作量，计算总当量。某服务项目总当量 $\\mathbf { \\bar { \\rho } } = \\mathbf { \\rho }$ 单位某服务项目当量值 $\\times$ 某服务项目工作量，社区机构总当量 ${ \\mathrm { : = } } \\sum$ （单位某服务项目当量值 $\\times$ 某服务项目工作量)。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "第四步，成本归集和计算。结合公立医院的成本核算要求（《关于印发公立医院成本核算规范的通知》（2021版)）和社区的财务数据特点，基本医疗项目的成本构成为“人员经费、非单收费的卫生材料费、固定资产折旧费、无形资产摊销费、提取医疗风险基金、其他运行费用”六大类，公共卫生项目成本构成为“人员经费、卫生材料费、药品费、其他运行费用”四大类，进行成本的归集。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第五步，计算标准当量项目成本。标准当量成本 $\\dot { . } = \\mathbf { \\nabla }$ 总成本/总当量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "第六步，计算服务项目成本。其中：单位服务项目成本 $\\scriptstyle : = { \\mathrm { i } }$ 标准当量成本 $\\boldsymbol { \\cdot } \\times$ 单位某服务项目当量值；开展某服务项目成本 $\\vdots = \\thinspace$ 单位某服务项目成本 $. { \\times }$ 某服务项目工作量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.2数据包络分析法",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（1）基本原理。数据包络分析（Data Envelopment Analysis，DEA），是一种基于被评价对象间相对比较的非参数技术效率分析方法。由于DEA具有适用范围广、原理相对简单的特点，特别是在分析多投入多产出的情况时具有特殊优势，因此其应用范围扩展迅速[7]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "（2）研究过程。本研究利用当量法数据结果，采用传统DEA和超效率DEA将14 家社区卫生机构作为决策单元（DUM)，对其服务效率进行分析、评价。传统DEA采用基于规模报酬可变的BCC 模型，综合技术效率有效的决策单元效率值为1，且其纯技术效率和规模效率均有效，三者的关系为：综合技术效率 $\\ c =$ 纯技术效率 $. { \\times }$ 规模技术效率，其中“技术有效”是指决策单元所对应的生产活动从技术角度看，资源获得了充分利用，投入要素达到最佳组合，取得了最大的产出效果，“规模有效”指决策单元在该投入下达到最大产出。但由于传统DEA模型得出的效率值最大为1，通常会出现多个决策单元有效的情况，为了判断这些有效的决策单元效率的具体高低，进一步建立超效率DEA 模型[7][8]。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2应用分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1在社区卫生服务机构成本测算中的应用",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "在全成本测算下，2019 年和 2020年14 家每当量成本平均为67.64元和69.80元。其中，基本医疗服务每当量成本平均为167.14元和 215.43元，受2020 年疫情影响，基本医疗服务量下降明显，因此基本医疗每当量成本上升明显；公共卫生服务平均为18.86元和19.78元。医疗服务的当量成本高于公共卫生服务，且机构间差异性更大。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "从机构角度分析，总体上，S1、S11及 S4 的每当量成本较低，S8 和 S9的每当量成本较高，其中，基本医疗方面，S1、S11 和 S7的成本较低，S6、S5和 S14 的成本较高；公共卫生方面，S3、S6、S7成本较低，S8、S1、S10 成本较高。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表12019年-2020年各社区卫生服务机构每当量成本",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Table 1 Cost per equivalent of each community health service institution from 2O19 to 2020 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "单位：元/当量",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9847a56e21c987ac890bdffdc727068faa39c67b9a2eb3163d9cb80125765cf3.jpg",
+        "table_caption": [
+            "表22019年-2020年各社区卫生服务机构当量值"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构名称</td><td colspan=\"2\">总体</td><td colspan=\"2\">基本医疗</td><td colspan=\"2\">公共卫生</td></tr><tr><td>2019年</td><td>2020年</td><td>2019年</td><td>2020年</td><td>2019年</td><td>2020年</td></tr><tr><td>S1</td><td>33.06</td><td>33.10</td><td>32.76</td><td>40.78</td><td>33.90</td><td>21.56</td></tr><tr><td>S2</td><td>47.35</td><td>46.32</td><td>185.35</td><td>196.68</td><td>9.54</td><td>12.49</td></tr><tr><td>S3</td><td>53.67</td><td>56.48</td><td>181.38</td><td>226.26</td><td>7.94</td><td>11.20</td></tr><tr><td>S4</td><td>46.19</td><td>47.52</td><td>132.40</td><td>141.18</td><td>12.80</td><td>16.13</td></tr><tr><td>S5</td><td>92.65</td><td>71.00</td><td>291.10</td><td>313.33</td><td>15.38</td><td>17.26</td></tr><tr><td>S6</td><td>76.53</td><td>80.26</td><td>299.15</td><td>359.68</td><td>7.34</td><td>11.08</td></tr><tr><td>S7</td><td>49.92</td><td>59.35</td><td>99.48</td><td>149.01</td><td>9.78</td><td>14.83</td></tr><tr><td>S8</td><td>108.56</td><td>114.18</td><td>144.12</td><td>213.87</td><td>38.98</td><td>36.54</td></tr><tr><td>S9</td><td>44.94</td><td>50.27</td><td>119.17</td><td>273.14</td><td>9.50</td><td>4.38</td></tr><tr><td>S10</td><td>106.79</td><td>131.36</td><td>195.59</td><td>308.71</td><td>29.47</td><td>36.13</td></tr><tr><td>S11</td><td>39.70</td><td>35.81</td><td>46.05</td><td>45.75</td><td>24.61</td><td>16.85</td></tr><tr><td>S12</td><td>89.79</td><td>85.19</td><td>186.64</td><td>219.14</td><td>18.97</td><td>21.25</td></tr><tr><td>S13</td><td>86.04</td><td>93.57</td><td>133.51</td><td>214.98</td><td>26.98</td><td>25.56</td></tr><tr><td>S14</td><td>71.79</td><td>72.84</td><td>293.22</td><td>313.56</td><td>18.87</td><td>31.66</td></tr><tr><td>平均值</td><td>67.64</td><td>69.80</td><td>167.14</td><td>215.43</td><td>18.86</td><td>19.78</td></tr><tr><td>变异系数</td><td>4.56</td><td>5.58</td><td>19.85</td><td>20.18</td><td>2.65</td><td>2.20</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "结合服务量可以进行深入个案分析，如 S1的总当量明显高于其他机构，以开展基本医疗服务为主，因此，其单位当量成本，尤其医疗当量成本明显低于其他机构，同时其服务量受到疫情影响最为严重，总当量下降最多。S6、S5 和 S14均属于服务当量较小机构，以公共卫生服务为主，因此公共卫生服务当量成本较低，但是基本医疗服务成本高。S7是基本医疗和公共卫生服务相对比较均衡的机构，两项成本均较低。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/74bc57f54f508f1c789be25b6b58f88469316520f1b3cb0c9a65bbcf87cc8fb2.jpg",
+        "table_caption": [
+            "Table 2The equivalent value of each community health service institution from 2O19 to 2020 单位：万当量 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构 名称</td><td colspan=\"3\">总当量</td><td colspan=\"3\">基本医疗当量</td><td colspan=\"3\">公共卫生当量</td></tr><tr><td>2019 年</td><td>2020 年</td><td>增速 (%)</td><td>2019 年</td><td>2020 年</td><td>增速 (%)</td><td>2019 年</td><td>2020 年</td><td>增速 (%)</td></tr><tr><td>S1</td><td>260.30</td><td>199.76</td><td>-23.26</td><td>191.48</td><td>119.90</td><td>-37.38</td><td>68.82</td><td>79.86</td><td>16.04</td></tr><tr><td>S2</td><td>83.03</td><td>102.30</td><td>23.21</td><td>17.86</td><td>18.79</td><td>5.23</td><td>65.17</td><td>83.51</td><td>28.13</td></tr><tr><td>S3</td><td>43.43</td><td>43.93</td><td>1.15</td><td>11.45</td><td>9.25</td><td>-19.23</td><td>31.98</td><td>34.68</td><td>8.45</td></tr><tr><td>S4</td><td>110.91</td><td>127.73</td><td>15.16</td><td>30.96</td><td>32.06</td><td>3.55</td><td>79.95</td><td>95.66</td><td>19.66</td></tr><tr><td>S5</td><td>43.37</td><td>48.72</td><td>12.35</td><td>12.15</td><td>8.84</td><td>-27.23</td><td>31.22</td><td>39.88</td><td>27.75</td></tr><tr><td>S6</td><td>34.91</td><td>50.72</td><td>45.29</td><td>8.28</td><td>10.07</td><td>21.61</td><td>26.63</td><td>40.66</td><td>52.66</td></tr><tr><td>S7</td><td>105.70</td><td>95.15</td><td>-9.98</td><td>47.30</td><td>31.57</td><td>-33.26</td><td>58.39</td><td>63.58</td><td>8.88</td></tr><tr><td>S8</td><td>28.11</td><td>28.94</td><td>2.97</td><td>18.60</td><td>12.67</td><td>-31.87</td><td>9.51</td><td>16.27</td><td>71.16</td></tr><tr><td>S9</td><td>99.91</td><td>96.70</td><td>-3.21</td><td>32.29</td><td>16.51</td><td>-48.86</td><td>67.62</td><td>80.19</td><td>18.58</td></tr><tr><td>S10</td><td>34.15</td><td>32.75</td><td>-4.10</td><td>15.90</td><td>11.44</td><td>-28.02</td><td>18.26</td><td>21.31</td><td>16.73</td></tr><tr><td>S11</td><td>60.07</td><td>75.17</td><td>25.13</td><td>42.29</td><td>49.31</td><td>16.60</td><td>17.78</td><td>25.86</td><td>45.41</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/d4d671060cd4ff1ccf56d74770ac74cdb3a86a3dfbba84971b9757134367ef6c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>S12</td><td>46.30</td><td>55.69</td><td>20.28</td><td>19.55</td><td>18.00</td><td>-7.97</td><td>26.75</td><td>37.70</td><td>40.94</td></tr><tr><td>S13</td><td>30.48</td><td>32.25</td><td>5.79</td><td>16.90</td><td>11.58</td><td>-31.49</td><td>13.58</td><td>20.67</td><td>52.17</td></tr><tr><td>S14</td><td>20.34</td><td>18.26</td><td>-10.23</td><td>3.92</td><td>2.67</td><td>-32.02</td><td>16.42</td><td>15.59</td><td>-5.02</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.2在新增项目成本测算中的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从新型冠状病毒肺炎爆发至疫情进入常态化防控阶段，社区卫生服务机构充分发挥了守门人的作用，社区公共卫生服务内涵、外延进一步拓展。机构在疫情期间提供的公共卫生服务包括预检分诊、一般人群管理、中高风险地区人群管理等。当量值调查情况见表3。2020年，14家机构共提供疫情相关服务13.48万当量，成本消耗为103.78万元。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/59fb930e1c28060ad4c48249a5ba3613bcf1494f80a28e496245751860b45f49.jpg",
+        "table_caption": [
+            "表3疫情新增服务项目及当量值",
+            "Table 3 Newly-added service items and their equivalent values during the epidemic "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>疫情新增项目</td><td>单位</td><td>当量</td></tr><tr><td>PCR 新冠核酸检测（咽拭子）</td><td>人次</td><td>0.2</td></tr><tr><td>新冠病毒抗体检测</td><td>人次</td><td>1</td></tr><tr><td>新冠疫苗接种</td><td>人次</td><td>3</td></tr><tr><td>预检分诊</td><td>人次</td><td>0.5</td></tr><tr><td>一般人群管理</td><td>人次</td><td>0.4</td></tr><tr><td>中高风险地区人群管理</td><td>人次</td><td>0.3</td></tr><tr><td>境外返京人员管理</td><td>人次</td><td>0.5</td></tr><tr><td>居家密切接触者管理（含一密、二密）</td><td>人次</td><td>0.5</td></tr><tr><td>密切接触者转运</td><td>人次</td><td>2</td></tr><tr><td>药店购买发热药品人员追访</td><td>人次</td><td>0.3</td></tr><tr><td>防疫副主考</td><td>次</td><td>40</td></tr><tr><td>复工复产复学的防疫指导</td><td>机构数/次</td><td>8</td></tr><tr><td>新冠疫苗咨询</td><td>人次</td><td>0.5</td></tr></table></body></html>",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.3在人员绩效评价中的应用",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "计算各机构人均负担当量与每百元人力投入产出当量了解各机构人员工作负荷量与人员经费的使用效率。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从人均负担角度分析，各社区卫生服务机构人均负担当量相差较大。S1最高，2019 年和2020 年人均负担当量分别为11725当量和8918当量;S14最低，分别为2338当量和 2148当量。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "从人力投入角度分析，每百元人力投入产出同样相差较大，S1最高，2019年和2020 年每百元人力投入产出分别为3.41当量和2.55当量；S14最低，分别为0.93当量和0.69当量。由于人均负担大的机构相对工资水平较高，因此相较于人均负担当量，每百元人力投入",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "产出当量的机构差异度降低。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/587065aff4b94d104c8b6da4dd19a4366f3ab00f3be594f581c14f47de11b6ec.jpg",
+        "table_caption": [
+            "表42019-2020年各社区卫生服务机构人均负担当量及每百元人力投入产出当量Table 4 The per capita burden equivalent of each community health service institution andthe output equivalent of labor input per 10O yuan in 2019-2020"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构</td><td colspan=\"2\">人均负担当量（当量/人）*</td><td colspan=\"2\">每百元人力投入产出当量(当量/百元) ※</td></tr><tr><td>2019年</td><td>2020年</td><td>2019年</td><td>2020年</td></tr><tr><td>名称 S1</td><td>11725</td><td>8918</td><td>3.41</td><td>2.55</td></tr><tr><td>S2</td><td>5189</td><td>6089</td><td>2.03</td><td>2.04</td></tr><tr><td>S3</td><td>5232</td><td>5229</td><td>1.64</td><td>1.53</td></tr><tr><td>S4</td><td>4908</td><td>5728</td><td>1.95</td><td>1.89</td></tr><tr><td>S5</td><td>2891</td><td>3143</td><td>1.02</td><td>0.98</td></tr><tr><td>S6</td><td>3422</td><td>4569</td><td>1.15</td><td>1.46</td></tr><tr><td>S7</td><td>5563</td><td>5088</td><td>1.95</td><td>1.48</td></tr><tr><td>S8</td><td>2362</td><td>2453</td><td>0.83</td><td>0.75</td></tr><tr><td>S9</td><td>5742</td><td>5402</td><td>2.06</td><td>1.63</td></tr><tr><td>S10</td><td>2339</td><td>2259</td><td>0.89</td><td>0.74</td></tr><tr><td>S11</td><td>6391</td><td>7913</td><td>2.23</td><td>2.43</td></tr><tr><td>S12</td><td>3238</td><td>3640</td><td>1.11</td><td>1.10</td></tr><tr><td>S13</td><td>2822</td><td>3014</td><td>0.93</td><td>0.88</td></tr><tr><td>S14</td><td>2338</td><td>2148</td><td>0.93</td><td>0.69</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.4在机构运行效率评价中的应用",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "社区卫生机构在人、财、物等多种投入下，形成医疗、公共卫生服务等多产出。在机构总体效率DEA 评价时选取在职职工总人数（X1）、财政拨款总收入（X2）、固定资产净值（X3）作为投入指标，选取机构总当量（Y1）作为产出指标；由于基本医疗以医疗收入为主，财政为辅，但是医疗设备等消耗大，因此，基本医疗评价的投入指标选择基本医疗人员数（X4）、固定资产净值（X3)，产出指标选择基本医疗总当量（Y2)；公共卫生服务几乎依靠财政补助收入，但是医疗设备等消耗少，因此，公共卫生评价的投入指标为公共卫生人员数（X5）、公共卫生的财政补偿投入（X6)，产出指标为公共卫生总当量（Y3）。",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a3f3ef99dfc3bba77e8e7a7047865cd3f6f41b571cd5e387c63eea66cbfbcf4.jpg",
+        "table_caption": [
+            "表5社区卫生服务机构投入产出效率DEA评价指标体系",
+            "Table 5 The DEA evaluation index system of input-output efficiency of community health service institutions "
+        ],
+        "table_footnote": [
+            "※注：人均负担当量 $\\cdot =$ 当量合计/平均在职职工数每百元人力投入产出 $\\ c =$ 当量合计／（业务活动费用中人员经费 $^ { \\ast } +$ 单位管理费用中人员经费） $\\times 1 0 0$ "
+        ],
+        "table_body": "<html><body><table><tr><td>评价维度</td><td>投入指标</td><td>产出指标</td></tr><tr><td rowspan=\"2\">总体评价</td><td>在职职工总人数（X1)</td><td rowspan=\"2\">机构总当量（Y1)</td></tr><tr><td>财政拨款总收入（X2）</td></tr><tr><td rowspan=\"2\">基本医疗评价</td><td>固定资产净值（X3） 基本医疗人员数（X4） ※</td><td rowspan=\"2\">基本医疗总当量（Y2）</td></tr><tr><td>固定资产净值（X3）</td></tr></table></body></html>",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/614a8a5270a37403a4091e13ecf6c36141f7415332e618554aa1db9067f00095.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>公共卫生人员数（X5） 公共卫生评价</td><td>公共卫生总当量（Y3） 公共卫生的财政补偿投入（X6）</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：基本医疗人数和公共卫生人数在机构《卫生健康财务报表》基本数字基础上，并结合机构人员个案调查工作量分配计算得到。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "从机构总体效率分析，14家机构中，2019 年和 2020 年均只有S1和S7达到了综合效率相对有效。结合超效率，2019年 S7投入产出效率最优，其次为S1，其余12家机构的效率明显较低，机构效率差异较大；2020年 S1效率最优，其次为S7，其余12 家机构的总体效率均有所提升，机构间差异减少。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "纯技术效率上，2019年 S1、S2、S3、S6、S7、S11、S14 共7家机构达到相对有效，达到总机构数量的 $50 \\%$ ;2020 年在此基础上S4、S5机构达到有效，达到总机构数量的 $6 4 . 2 8 \\%$ 。说明总体而言社区卫生服务的技术效率较好，其投入的各项资源获得了有效利用，投入组合较优。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "综合效率无效的机构主要是由规模效率无效导致，2019年规模效率无效的12家机构全部为规模效率递增，即可以通过增加投入使机构的投入产出效率提升；2020 年规模效率无效的12家机构中11家为规模递增，仅 S2为规模递减，但其规模效率值达到了0.98，接近有效。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 6 Overall DEA efficiency value of each community health service institution ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2a93a56ae3c57999e62147bcf64e8ca08312fbe4c2d63c1121c5b360c2cef5ec.jpg",
+        "table_caption": [
+            "表6各社区卫生服务机构总体DEA效率值"
+        ],
+        "table_footnote": [
+            "基本医疗角度分析，2019年和 2020 年的 S1和 S7达到综合效率有效，且两年均为 S1最优，相比于机构总效率，机构间基本医疗效率差距更加明显。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构 名称</td><td colspan=\"5\">2019年</td><td colspan=\"5\">2020年</td></tr><tr><td>超效 率</td><td>综合 效率</td><td>纯技术 效率</td><td>规模 效率</td><td>规模 效益</td><td>超效 率</td><td>综合 效率</td><td>纯技术 效率</td><td>规模 效率</td><td>规模 效益</td></tr><tr><td>S1</td><td>2. 17</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1</td><td>2.03</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1</td></tr><tr><td>S2</td><td>0.66</td><td>0.66</td><td>1.00</td><td>0.66</td><td>递增</td><td>0.98</td><td>0.98</td><td>1. 00</td><td>0.98</td><td>递增</td></tr><tr><td>S3</td><td>0.45</td><td>0.45</td><td>1. 00</td><td>0.45</td><td>递增</td><td>0.59</td><td>0.59</td><td>1. 00</td><td>0.59</td><td>递增</td></tr><tr><td>S4</td><td>0.70</td><td>0.70</td><td>0.84</td><td>0.83</td><td>递增</td><td>0.96</td><td>0.96</td><td>1. 00</td><td>0.96</td><td>递减</td></tr><tr><td>S5</td><td>0.36</td><td>0.36</td><td>0.95</td><td>0.37</td><td>递增</td><td>0.49</td><td>0.49</td><td>1. 00</td><td>0.49</td><td>递增</td></tr><tr><td>S6</td><td>0.33</td><td>0.33</td><td>1.00</td><td>0.33</td><td>递增</td><td>0.61</td><td>0.61</td><td>1. 00</td><td>0.61</td><td>递增</td></tr><tr><td>S7</td><td>2.39</td><td>1. 00</td><td>1.00</td><td>1.00</td><td>1</td><td>1. 64</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1</td></tr><tr><td>S8</td><td>0.20</td><td>0.20</td><td>0.70</td><td>0.29</td><td>递增</td><td>0.28</td><td>0.28</td><td>0. 71</td><td>0.39</td><td>递增</td></tr><tr><td>S9</td><td>0.49</td><td>0.49</td><td>0.69</td><td>0.71</td><td>递增</td><td>0.61</td><td>0.61</td><td>0.66</td><td>0.92</td><td>递增</td></tr><tr><td>S10</td><td>0.20</td><td>0.20</td><td>0.58</td><td>0.34</td><td>递增</td><td>0.25</td><td>0.25</td><td>0.58</td><td>0.44</td><td>递增</td></tr><tr><td>S11</td><td>0.55</td><td>0.55</td><td>1.00</td><td>0.55</td><td>递增</td><td>0.89</td><td>0.89</td><td>1.00</td><td>0.89</td><td>递增</td></tr><tr><td>S12</td><td>0.28</td><td>0.28</td><td>0.59</td><td>0.47</td><td>递增</td><td>0.41</td><td>0.41</td><td>0.58</td><td>0.71</td><td>递增</td></tr><tr><td>S13</td><td>0.24</td><td>0.24</td><td>0.77</td><td>0.31</td><td>递增</td><td>0.34</td><td>0.34</td><td>0.80</td><td>0.42</td><td>递增</td></tr><tr><td>S14</td><td>0.22</td><td>0.22</td><td>1. 00</td><td>0.22</td><td>递增</td><td>0.24</td><td>0.24</td><td>1. 00</td><td>0.24</td><td>递增</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "纯技术效率上，2019年 S2机构总体纯技术效率有效，但是基本医疗纯技术效率无效；2020年此类机构增加至S2、S4和S5，这些机构应加强医疗技术的提升。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "规模效率上，两年12家规模效率无效的机构，且规模效率全部为递增，即可以通过增加基本医疗的投入使机构的投入产出效率提升。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0766514dabeee457ef553676298cfbc696715f9bb0391ce3c1b36ad99a952778.jpg",
+        "table_caption": [
+            "Table 7 Basic medical DEA efficiency value of each community health service institution "
+        ],
+        "table_footnote": [
+            "公共卫生角度分析，与机构总体及基本医疗的情况不同，2019年和2020年为S2 和 S9达到综合效率有效，两年均为S9最优，与基本医疗相比，机构间公共卫生服务效率差异相对较小，且11家卫生服务机构相对基本医疗服务效率有所提升。"
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构 名称</td><td colspan=\"5\">2019年</td><td colspan=\"5\">2020年</td></tr><tr><td>超效 率</td><td>综合 效率</td><td>纯技术 效率</td><td>规模 效率</td><td>规模 效益</td><td>超效 率</td><td>综合 效率</td><td>纯技术 效率</td><td>规模 效率</td><td>规模 效益</td></tr><tr><td>S1</td><td>2. 74</td><td>1. 00</td><td>1.00</td><td>1.00</td><td>1</td><td>1.98</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1</td></tr><tr><td>S2</td><td>0.23</td><td>0.23</td><td>0.81</td><td>0.28</td><td>递增</td><td>0.40</td><td>0.40</td><td>0.81</td><td>0.49</td><td>递增</td></tr><tr><td>S3</td><td>0.17</td><td>0. 17</td><td>1.00</td><td>0. 17</td><td>递增</td><td>0.21</td><td>0.21</td><td>1.00</td><td>0.21</td><td>递增</td></tr><tr><td>S4</td><td>0.32</td><td>0.32</td><td>0.65</td><td>0.50</td><td>递增</td><td>0.56</td><td>0.56</td><td>0.74</td><td>0.77</td><td>递增</td></tr><tr><td>S5</td><td>0.16</td><td>0.16</td><td>0.84</td><td>0.19</td><td>递增</td><td>0.19</td><td>0.19</td><td>0.85</td><td>0.22</td><td>递增</td></tr><tr><td>S6</td><td>0. 11</td><td>0. 11</td><td>1.00</td><td>0. 11</td><td>递增</td><td>0.23</td><td>0.23</td><td>1.00</td><td>0.23</td><td>递增</td></tr><tr><td>S7</td><td>1. 46</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1</td><td>1.47</td><td>1.00</td><td>1.00</td><td>1.00</td><td>1</td></tr><tr><td>S8</td><td>0.18</td><td>0.18</td><td>0.70</td><td>0.26</td><td>递增</td><td>0.20</td><td>0.20</td><td>0.68</td><td>0.29</td><td>递增</td></tr><tr><td>S9</td><td>0.19</td><td>0.19</td><td>0.47</td><td>0.41</td><td>递增</td><td>0.16</td><td>0.16</td><td>0.42</td><td>0.37</td><td>递增</td></tr><tr><td>S10</td><td>0.11</td><td>0. 11</td><td>0.51</td><td>0.22</td><td>递增</td><td>0.13</td><td>0.13</td><td>0.51</td><td>0.26</td><td>递增</td></tr><tr><td>S11</td><td>0.52</td><td>0.52</td><td>1.00</td><td>0.52</td><td>递增</td><td>0.96</td><td>0.96</td><td>1.00</td><td>0.96</td><td>递增</td></tr><tr><td>S12</td><td>0.15</td><td>0. 15</td><td>0.56</td><td>0.27</td><td>递增</td><td>0.21</td><td>0.21</td><td>0.52</td><td>0.40</td><td>递增</td></tr><tr><td>S13</td><td>0.17</td><td>0. 17</td><td>0.74</td><td>0.23</td><td>递增</td><td>0.19</td><td>0.19</td><td>0.73</td><td>0.26</td><td>递增</td></tr><tr><td>S14</td><td>0.06</td><td>0.06</td><td>1.00</td><td>0.06</td><td>递增</td><td>0.06</td><td>0.06</td><td>1.00</td><td>0.06</td><td>递增</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "纯技术效率上，2019 年 S1、S7、S11和 S14的机构总体纯技术效率有效，但是其公共纯技术效率无效，2020 年此类机构增加为S1、S5、S6、S7、S11和 S14，这些机构应加强公共卫生服务技术提升。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "规模效率上，2019年，12家规模效率无效的机构，S1、S4为规模递减，其余为规模递增，2020年仅S4位规模递减，其他机构均为规模递增。即大部分机构可以通过增加公共卫生的投入能使机构的投入产出效率提升。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e54b799eb4f729d3ea54c85c6ac673049088c6393eac4c2b7c640cbe618be6f.jpg",
+        "table_caption": [
+            "表7各社区卫生服务机构基本医疗DEA效率值",
+            "表8各社区卫生服务机构公共卫生DEA效率值",
+            "Table 8 Public health DEA eficiency values of various community health service institutions "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">机构 名称</td><td colspan=\"5\">2019年</td><td colspan=\"5\">2020年</td></tr><tr><td>超效 率</td><td>综合 效率</td><td>纯技术 效率</td><td>规模 效率</td><td>规模 效益</td><td>超效 率</td><td>综合 效率</td><td>纯技术 效率</td><td>规模 效率</td><td>规模 效益</td></tr><tr><td>S1</td><td>0.44</td><td>0.44</td><td>0.47</td><td>0.93</td><td>递减</td><td>0.44</td><td>0.44</td><td>0.45</td><td>0.98</td><td>递增</td></tr><tr><td>S2</td><td>1.02</td><td>1. 00</td><td>1.00</td><td>1.00</td><td>1</td><td>1.23</td><td>1. 00</td><td>1. 00</td><td>1. 00</td><td>1</td></tr><tr><td>S3</td><td>0.57</td><td>0.57</td><td>1.00</td><td>0.57</td><td>递增</td><td>0.53</td><td>0.53</td><td>1. 00</td><td>0.53</td><td>递增</td></tr><tr><td>S4</td><td>0.65</td><td>0.65</td><td>1. 00</td><td>0.65</td><td>递减</td><td>0.66</td><td>0.66</td><td>1. 00</td><td>0.66</td><td>递减</td></tr><tr><td>S5</td><td>0.46</td><td>0.46</td><td>0.88</td><td>0.52</td><td>递增</td><td>0.50</td><td>0.50</td><td>0.88</td><td>0.57</td><td>递增</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb62517d6520548ca0512d30737ae5852aa0f55f001a1f840a57d0e5eb384ffe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>S6 0.61</td></tr><tr><td></td><td>0.61</td><td>1.00</td><td>0.61</td><td>递增</td><td>0.55</td><td>0.55</td><td>0.91</td><td>0.60</td><td>递增</td></tr><tr><td>S7</td><td>0.59 0.59</td><td></td><td>0.66</td><td>0.90</td><td>递增</td><td>0.53</td><td>0.53</td><td>0.63 0.84</td><td>递增</td></tr><tr><td>S8</td><td>0.13</td><td>0.13</td><td>0.84</td><td>0.16</td><td>递增</td><td>0.20</td><td>0.20</td><td>0.83</td><td>0.24 递增</td></tr><tr><td>S9</td><td>1.78</td><td>1.00</td><td>1.00 1.00</td><td>1.00</td><td>1 递增</td><td>2.13</td><td>1.00</td><td>1.00 1.00</td><td>一</td></tr><tr><td>S10 S11</td><td>0.32</td><td>0.32</td><td></td><td>0.32</td><td></td><td>0.31</td><td>0.31 1. 00</td><td>0.31 0.39</td><td>递增</td></tr><tr><td>S12</td><td>0.29</td><td>0.29 0.35</td><td>0.96 0.78</td><td>0.30 0.45</td><td>递增 递增</td><td>0.39</td><td>0.39</td><td>0.99</td><td>递增</td></tr><tr><td>S13</td><td>0.35 0.22</td><td>0.22</td><td>0.98</td><td>0.23</td><td>递增</td><td>0.42 0.30</td><td>0.42 0.30</td><td>0.79 0.54</td><td>递增</td></tr><tr><td>S14</td><td>0.25</td><td>0.25</td><td>0.89</td><td>0.28</td><td>递增</td><td>0.21</td><td>0.21</td><td>0.97 0.31 0.88 0.24</td><td>递增 递增</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3讨论与分析",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.1当量法可为不同特点的社区卫生机构间的服务成本比较、绩效评价提供基础，有利于社区卫生机构降低运营成本、提升运营效率，促进社区卫生服务有特色的、高水平发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "由于社区卫生服务机构基本医疗和公共卫生的特点不同，不同社区机构的规模、特色和优势等各不相同。如 S1以医疗见长，医疗服务总量和效率明显高于其他社区，S9 则重公共卫生，且公共卫生服务效率最佳，当量法可提供一个相对统一的“标尺”，实现社区卫生机构服务效率的考核标准化。此外，S1在总体服务效率最高的同时，单位当量成本最低，成本产出效率最高，而 S8、S10单位当量成本最高，其总体服务效率也较低。因此可以结合成本和效率，建立单位成本服务效率产出的指标体系，促进社区卫生机构降低运营成本、提升运营效率，并综合服务质量、健康管理效果、满意度等建立全方位绩效管理体系，为社区卫生机构对内部不同科室和各级卫生行政部门实现对不同社区卫生服务机构的全面绩效考核提供基础，促进社区卫生服务有特色、高水平发展。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.2 当量法可以快速测算新增疫情防控服务成本，能够为后疫情时代社区卫生服务的内涵和外延扩展的人力补充、财政补偿等提供依据。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "社区防控是新冠肺炎疫情防控的重要环节。习近平总书记指出：“抗击疫情有两个阵地，一个是医院救死扶伤阵地，一个是社区防控阵地。坚持不解做好疫情防控工作关键靠社区”。2020年，14家机构共提供疫情防控相关服务13.48万当量，成本消耗为103.78万元。除了传染病防控，随着老龄化进程加快，慢性非传染性疾病的防控同样迫切，人民群众的健康需求快速增长，为做好“健康守门人”，社区卫生机构的医疗、公共卫生等服务的内涵和外延需要不断扩展，利用当量法等方法可以快速测算现有服务和新增服务成本，为政府分类补偿、精准管理提供抓手。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.3样本社区卫生服务机构的纯技术效率相对较高，投入的各项资源获得有效利用，但规模技术效率相对较低，呈规模递增，应适当加大投入，提高投入产出效率。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "本研究的14家社区卫生服务机构纯技术效率相对较高，投入的各项资源获得有效利用，而综合技术效率相对较低主要是由于规模效率较低，无论是基本医疗还是公共卫生均呈递增状态，通过增加人、财、物的投入，可以提升服务产出效率。因此，可以根据 DEA效率评价，针对不同的机构相对薄弱点进行投入，如 S1可加大对公共卫生投入，而对 S9可加大对基本医疗的投入。因此，应该完善基层卫生机构的投入机制，完善更适宜不同社区卫生机构服务特点的人才培养、财政补偿、绩效评价等机制，打造高水平高质量基层卫生服务。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.4社区卫生服务机构需加强运营管理，促使运营管理与业务管理同步提升。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "社区卫生服务机构需同步加强业务管理和运营管理能力建设，业务与运营管理相融合，运营管理为业务管理做好服务，提升效率及质量。社区卫生服务机构的管理者应当认识到运营管理的重要性，培养社区卫生服务机构运营管理人才，此外还应加大信息技术的资金投入，建立和完善运营信息化管理系统建设，多项手段全面提升运营管理能力。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]国家卫生健康委员会.《国家卫生健康委关于全面推进社区医院建设工作的通知国卫基层发（2020）12号》［EB/OL]．（2020-07-13）[2022-01-12].  \n[2]关于加强基层医疗卫生机构绩效考核的指导意见（试行）国卫办基层发（2020）9号http://www.nhc.gov.cn/jws/s7882/202008/0ad3357cflc747e0af8e5e145698d571.shtml  \n[3]杨慧敏,尹德卢,赵建功,李宁燕,殷涛,政晓果,石亚丽,许琪,王利红,辛倩倩,李瑞莉,肖峰,陈博文.北京市西城区社区卫生服务机构工作量量化考核模型研究[J].中国全科医学,2015,18(07):751-754.  \n[4] 姜颖颖.北京市社区卫生服务项目成本测算模型研究[D].北京中医药大学,2012.  \n[5] 陈博文,尹德卢,程薇,王炜,刘钢,许俊峰,荣志清,崔明明,刘亚军,姜颖颖,赵丽颖.社区卫生服务项目成本测算方法探讨[J].中国卫生经济,2015,34(01):40-41.  \n[6] 尹德卢,陈博文,程薇,王炜,刘钢,许俊峰,荣志清,崔明明,刘亚军,姜颖颖,赵丽颖,杨维中.北京市社区卫生服务项目成本测算模型构建[J].中国卫生经济,2015,34(01):42-44.  \n[7] 成刚.数据包络分析方法与MaxDEA 软件[M].北京：知识产权出版社，2014.  \n[8]蒋艳,白冰楠,王芳,程薇.基于超效率 DEA 的北京市社区公共卫生服务效率评价研究[J].中国卫生经济,2019,38(02):59-63.",
+        "page_idx": 10
+    }
+]

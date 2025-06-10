@@ -1,0 +1,109 @@
+基础研究
+
+# 慢病毒介导靶向survivin基因的shRNA抑制子宫内膜在裸鼠腹腔种植生长
+
+彭冬先，何援利
+
+南方医科大学珠江医院妇产科，广东广州510282
+
+摘要：目的 研究慢病毒介导生存素(survivin)基因特异性短发夹状RNA(shRNA)对人子宫内膜在裸鼠腹腔种植生长的影响。方法 将45只裸鼠随机分为实验组、阴性对照组及空白对照组,每组15只,将子宫内膜异位症患者在位内膜注射入裸鼠腹腔，同时将survivin-shRNA慢病毒、空载慢病毒及磷酸盐缓冲液分别注射至3组裸鼠腹腔内,2周后观察各组子宫内膜种植成功率，光镜下观察异位病灶的形态学特点，免疫组化方法检测各组病灶中survivin的表达水平。结果实验组子宫内膜种植成功率$( 2 6 . 6 7 \%$ 明显低于阴性对照组（ $7 3 . 3 3 \%$ )及空白对照组 $( 8 0 \% , P { < } 0 . 0 1 )$ ;实验组成活的异位内膜腺体发育不良，间质伴有不同程度的坏死;该组病灶中survivin蛋白表达亦明显下降，与两对照组比较差异有显著性 $\scriptstyle ( P < 0 . 0 0 1 )$ 。结论慢病毒介导survivin基因特异性shRNA能够通过靶向沉默survivin基因明显抑制人子宫内膜在裸鼠腹腔中的种植生长。
+
+关键词：生存素；短发夹状RNA;子宫内膜异位症；慢病毒;裸鼠
+
+# Lentiviral vector-mediated short hairpin RNA targeting survivin inhibits abdominal growth of human endometrium xenograft in nude mice
+
+PENG Dongxian,HE Yuanli DepartmentofGynecologyandObstetrics,ZhujiangHospital,outhernedicalniersityGuangzhou8ina
+
+Abstract: Objective To investigate the inhibitory efectof lentiviralvector-mediated short hairpin RNA targeting survivin (LV-survivin shRNA)on the growth of human endometrium xenograft in the abdominalcavity of nude mice. Methods The endometrium xenografts from 8 women with endometriosis were injected into the peritoneal cavitiesof 45 nude mice.The mice werethenrandomlyasigned toreceive intraperitoneal injectionofLV-survivin shRNA,pGCL-NC-GFP (negative control)orPBS(blankcontrol).Two weks later,thenumberandmorphometryofendometriotic lesions werequantifiedand the expresionof survivinprotein were detected byimmunohistochemistry.ResultsTheformationof endometriotic lesions wa significantly suppressed in mice receiving LV-survivinshRNAinjection ascompared withthose inthe twocontrol groups $( P { < } 0 . 0 0 1 )$ . The mice in LV-survivin-shRNA group showed significantly down-regulated expresion levels of survivin protein compared with those inthenegativeand blankcontrol groups,presentingalsonecrosis intheendometriosis-likelesions in microscopicobservation.Conclusion Lentiviral vector-mediated shRNAcaneffectively inhibit the expresionof survivin in human endometrium xengrafts and suppressthe formation and growth of endometriotic lesions intheabdominal cavities of nude mice.
+
+Key words: survivin; short hairpin RNA; endometriosis; lentivirus; nude mice
+
+子宫内膜异位症(内异症)是发生在生育年龄妇女的常见病，生存素(survivin)是迄今发现作用最强的凋亡抑制因子，研究表明其在内异症的发病中起着重要作用[1-3]。我们前期研究发现慢病毒介导靶向 survivin基因的短发夹状RNA(以下简称LV-shRNA)在体外、体内能诱导异位内膜细胞凋亡，抑制裸鼠皮下异位病灶的生长[47]。本研究通过观察LV-shRNA对人子宫内膜在裸鼠腹腔内种植及生长的影响，探讨其对内异症发生、发展的预防效果。
+
+# 1材料与方法
+
+# 1.1子宫内膜组织标本的选择与收集
+
+选取珠江医院妇产科行手术治疗的内异症患者8例，手术前3个月未接受激素治疗。于术时或子宫离体后立即刮取子宫内膜组织,洗去血块和粘液，将标本剪成 $0 . 5 ~ \mathrm { m m } ^ { 3 }$ 碎块，装入含双抗的冰磷酸盐缓冲液中备用。标本的采集均经患者的知情同意。
+
+# 1.2裸鼠
+
+购自中山大学动物实验中心的BALB/c雌性裸鼠，6\~7周龄，体质量 $1 8 { \sim } 2 0 \ \mathrm { g }$ ，SPF级标准化环境饲养。
+
+# 1.3主要试剂
+
+LV-shRNA自行构建[4]。阴性对照空载慢病毒由上海吉凯基因化学公司提供。兔抗人survivin多克隆抗
+
+体购自南京凯基生物科技发展有限公司。
+
+# 1.4分组及处理
+
+将45只裸鼠随机分为实验组、阴性对照组和空白对照组，每组15只。取裸鼠下腹部为手术部位，碘酒、酒精消毒后，18G针头吸取含内膜碎屑的培养液，以裸鼠腹部脐下正中为穿刺点，确信未伤及腹部脏器，每只裸鼠注入 $1 ~ \mathrm { m l _ { c } }$ 。同时，实验组、阴性对照组和空白对照组分别给予腹腔注射LV-shRNA稀释液、空载慢病毒稀释液和磷酸盐缓冲液 $1 \mathrm { m l }$ 。术后分笼饲养,注意卫生及保暖，加强营养及喂水。注射后第15天，断颈法处死裸鼠，切开腹壁，全面检视腹腔，剥离出异位内膜病灶，以$10 \%$ 甲醛固定，常规石蜡包埋。部分行HE染色，光镜下观察病灶组织学形态，其余部分行免疫组化检测。
+
+# 1.5 子宫内膜种植成功判断标准[8]
+
+肉眼观种植病灶直径 ${ \geq } 2 ~ \mathrm { m m }$ ，表面被结缔组织覆 盖并有血管形成;病理证实种植病灶中可见子宫内膜腺 上皮细胞、腺体和间质的生长。
+
+# 1.6免疫组化检测Survivin蛋白表达
+
+收集各组异位病灶组织，制作石腊切片，采用免疫组化检测Survivin。具体方法参考文献[9进行。
+
+# 1.7统计学处理
+
+用SPSS13.3统计软件处理，计量资料以均数 $\stackrel { \cdot } { \pm }$ 标准差表示，采用单向方差分析，如方差齐，多重比较采用SNK分析;如方差不齐，Welch法校正后采用Dunnett'sT3分析。计数资料采用x检验。检验水准均为 $\scriptstyle \mathtt { \alpha } = 0 . 0 5$ 。
+
+# 2结果
+
+2.1人子宫内膜异位种植成功率及种植病灶的病理检查
+
+病灶多位于盆腹腔的腹壁、肠系膜及肠管表面，大小约 $3 . 0 \mathrm { m m } ^ { 3 }$ ，呈隆起的小囊状，表面可见小血管爬行；实验组、阴性对照组及空白对照组子宫内膜异位种植成功的例数分别为4例 $( 2 6 . 6 7 \%$ ）、11例 $( 7 3 . 3 3 \%$ 和12例中 $8 0 . 0 0 \%$ ),3组种植成功率差异有显著性意义 $\scriptstyle ( \chi ^ { 2 } =$ 10.556, ${ \it P } { = } 0 . 0 0 5$ )。其中实验组存活率最低，明显低于其他两组。
+
+# 2.2裸鼠腹腔种植病灶的病理学形态特点
+
+HE染色后光镜下观察，阴性对照组和空白对照组可见异位子宫内膜生长良好，可以看到完整的腺体及间质结构;实验组可见异位内膜明显减少，细胞稀疏，腺体萎缩，部分结构不完整，间质伴有不同程度的坏死(图1)。
+
+# 2.3腹腔种植病灶survivin的表达
+
+![](images/96ce945a40afe3aaacb383d502fa7d8d8f7b57193609c40481186ede5abcd7c9.jpg)  
+图1裸鼠腹腔异位种植内膜病理改变
+
+所有腹腔种植病灶中均可检测到survivin的表达，蛋白表达的阳性颗粒主要位于腺上皮细胞的胞浆及胞核内，也可见于少数内膜间质细胞中(图2)。实验组
+
+survivin蛋白表达强度最低，明显低于两对照组( $P <$ 0.001);阴性对照组与空白对照组比较，survivin蛋白的表达强度差异无统计学意义( $\mathrm { \ P { > } 0 . 0 5 }$ ，表1)。
+
+![](images/dee5682862c0afa7f5826470c47ec64d6732782c05e5e49fa3c3a662e5fc8207.jpg)  
+Fig.1 Pathological examination of the endometrotic lesions in nude mice (HE staining,original magnification: $\times 2 0 0$ ).A: Blank contro group; B: Negative control group; C: LV-survivin shRNA group.   
+图2免疫组化检测病灶内survivin蛋白的表达 Fig.2 Expression of survivin protein in the endometrotic lesions (Original magnification: $\times 4 0 0$ ). A: Blank control group; B: Negative control group; C: LV-survivin shRNA group.
+
+# 表1各组裸鼠腹腔种植病灶survivin蛋白表达的比较
+
+Tab.1 Expression of survivin protein in the endometrotic lesions (Mean±SD)   
+
+<html><body><table><tr><td>Group</td><td>n</td><td>Survivin protein</td></tr><tr><td>LV-survivin shRNA</td><td>4</td><td>0.087±0.022</td></tr><tr><td>Negative control</td><td>11</td><td>0.307±0.039</td></tr><tr><td>Blank control</td><td>12</td><td>0.327±0.038</td></tr></table></body></html>
+
+# 3讨论
+
+研究表明，异位子宫内膜细胞抗凋亡能力的增强是内异症发生和发展的重要因素[10-12]。Survivin作为一种关键性的凋亡抑制因子，在内异症异位内膜及在位内膜组织中表达增强促进了内异症的发生和发展[1-3]。本课题组已开展了关于抑制Survivin基因表达治疗内异症的研究，在前期实验中已成功构建了LV-shRNA3，体外实验表明，该慢病毒能够明显促进异位内膜细胞凋亡、抑制细胞的增殖[5。同时，LV-shRNA可明显抑制内异症鸡胚绒毛尿囊膜模型的血管生成及异位种植灶生长[。另外,为进一步明确LV-shRNA对内异症的体内治疗效果，我们建立了皮下种植的裸鼠内异症模型，结果显示该慢病毒的局部应用能够有效地抑制裸鼠皮下种植异位内膜病灶的生长
+
+裸鼠内异症模型的异位病灶可以建立在腹腔、腹部或背部皮下[13-14],但人类内异症病灶最常见于盆腹腔，自发的皮下内异症相对少见，腹腔种植模型更能体现移植物在宿主体内的自然生长过程，更好地体现腹腔内环境的变化。因此，本研究通过观察LV-shRNA对人子宫内膜在裸鼠腹腔内种植生长的影响，探讨其对内异症发生发展的预防效果。实验结果发现慢病毒介导shRNA通过靶向抑制Survivin基因的表达，明显抑制子宫内膜在裸鼠腹腔内的种植生长，大大降低子宫内膜的种植成功率，且存活的异位病灶亦存在不同程度的发育不良或坏死，而其他两组没发现类似现象，间接表明Survivin基因参与调控了子宫内膜的异位种植，通过靶向抑制Survivin的表达即有可能延缓和预防内异症的发生发展，
+
+本课题对LV-shRNA预防内异症的有效性进行了初步的评估，但其远期疗效以及对机体器官功能的影响尚不清楚，有待进一步研究。
+
+MT1-MMP,and TIMP-2: their impact on survival,implantation, and proliferation of endometriotic tissues[J].Virchows Arch,2012, 461(5): 589-99.   
+[2]Watanabe A,Taniguchi F,Izawa M,et al. The role of survivin in the resistance of endometriotic stromal cells to drug-induced apoptosis [J].Hum Reprod,2009,24(12): 3172-9.   
+[3]Li MQ, Luo XZ, Meng YH, et al. CXCL8 enhances proliferation and growth and reduces apoptosis in endometrial stromal cells in an autocrine manner via a CXCR1-triggered PTEN/AKT signal pathway[J]. Hum Reprod,2012,27(7): 2107-16.   
+[4］彭冬先,何援利,丘立文.shRNA转染对异位内膜细胞survivin基因 的靶点抑制作用[J].南方医科大学学报,2010,30(4):859-62,866.   
+[5]彭冬先,何援利,丘立文,等.慢病毒介导短发夹状RNA沉默生存素基 因对人异位内膜细胞增殖和凋亡的影响[J].现代妇产科进展,2010, 19(12): 881-4.   
+[6]彭冬先,何援利,丘立文.慢病毒介导shRNA沉默survivin基因对鸡 胚绒毛尿囊膜子宫内膜异位症模型的影响[J].南方医科大学学报, 2012, 32(7): 995-9.   
+[7］彭冬先,何援利,丘立文.慢病毒介导靶向 survivin基因的shRNA对 裸鼠子宫内膜异位病灶生长的影响[J].现代妇产科进展,2013,22 (9): 704-7.   
+[8]Awwad JT, Sayegh RA,Tao XJ,et al.The SCID mouse: an experimental model for endometriosis[J].Hum Reprod,1999,14 (12): 3107-11.   
+[9］彭冬先,何援利,丘立文.靶向 shRNA抑制 survivin基因对子宫内膜 异位症裸鼠模型异位内膜caspase-3表达的影响[J].实用医学杂志, 2014,30(2): 210-2.   
+[10]Depalo R, Cavallini A,Lorusso F, et al. Apoptosis in normal ovaries of women with and without endometriosis [J].Reprod Biomed Online,2009,19(6): 808-15.   
+[11] Sanchez AM,Vigano P,Quattrone F,et al. The WNT/β-catenin signaling pathway and expression of survival promoting genes in luteinized granulosa cells:endometriosis as a paradigm for a dysregulated apoptosis pathway [J].Fertil Steril,2014,101(6): 1688-96.   
+[12] Pirdel L,Pirdel M. Role of Iron overload-induced macrophage apoptosis in the pathogenesis of peritoneal endometriosis [J]. Reproduction,2014,147(6): R199-207.   
+[13]Wang N, Hong S,Tan J,et al.Ared fluorescent nude mouse model of human endometriosis:advantages of a non-invasive imaging method[J]. Eur JObstet Gynecol Reprod Biol,2014,176: 25-30.   
+[14] Yamanaka A,Kimura F, Takebayashi A,et al.Primate model research for endometriosis[J].Tohoku JExp Med,2012,226(2): 95-9.
+
+# 参考文献：
+
+(编辑：吴锦雅）

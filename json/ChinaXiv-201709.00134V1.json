@@ -1,0 +1,336 @@
+[
+    {
+        "type": "text",
+        "text": "Observational Constraints on Variable Chaplygin Gas ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zong-Kuan Guo $b$ \\* and Yuan-Zhong Zhang $^ { a , b }$ ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（204号 $a$ CCAST (World Lab.)， P.O. Box 8730, Beijing 100080, China $b$ Institute of Theoretical Physics, Chinese Academy of Sciences, P.O. Box 2735, Beijing 100080, China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigate observational constraints on the variable Chaplygin gas model from the gold sample of type Ia supernova data and the recent measurements of the X-ray gas mass fractions in galaxy clusters. Combining these databases, we obtain a tight constraint on the two model parameters. Our results indicate that the original Chaplygin gas model is ruled out by the data at 99.7% confidence level. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recent observations of type Ia supernovae (SNe Ia) suggest that the expansion of the universe is accelerating and that two-thirds of the total energy density exists in a dark energy component with negative pressure [1]. In addition， measurements of the cosmic microwave background (CMB) [2] and the galaxy power spectrum [3] also indicate the existence of the dark energy. The simplest candidate for the dark energy is a cosmological constant $\\Lambda$ , which has pressure $P _ { \\Lambda } = - \\rho _ { \\Lambda }$ . Specifically, a reliable model should explain why the present amount of the dark energy is so small compared with the fundamental scale (fine-tuning problem) and why it is comparable with the critical density today (coincidence problem). The cosmological constant suffers from these problems. One possible approach to construct a viable model for dark energy is to associate it with a slowly evolving and spatially homogeneous scalar feld $\\phi$ , called “quintessence” [4, 5]. Such a model for a broad class of potentials can give the energy density converging to its present value for a wide set of initial conditions in the past and possess tracker behavior. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recently, the Chaplygin gas model was proposed as an alternative to the cosmological constant in explaining the accelerating universe [6]. The Chaplygin gas is characterized by an exotic equation of state $P = - A / \\rho$ ，where $A$ is a positive constant. An attractive feature of the model is that it can naturally explain both dark energy and dark matter. The reason is that the Chaplygin gas behaves as dust-like matter at early stage and as a cosmological constant at later stage. Some possble motivations for this model from the field theory point of view are discussed in Refs.[7]. The Chaplygin gas appears as an effective fluid associated with $d$ -branes [8] and can also be derived from the Born-Infeld action [9]. An interesting range of models was found to be consistent with SN Ia data [10], CMB experiments [11] and other observational data [12]. The Chaplygin gas model has been extensively studied in the literature [13]. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, the Chaplygin gas model produces oscillations or exponential blowup of the matter power spectrum that are inconsistent with observation [14]. In Ref. [15],we considered a variable Chaplygin gas (VCG） model and showed that it interpolates between a universe dominated by dust and a quiessence-dominated one described by the constant equation of state. Furthermore，we showed that the model corresponds to a Born-Infeld tachyon action [15]. Recently, the model parameters were constrained using the location of peaks of the CMB spectrum and SN Ia data [16]. In this paper we consider observational constraints on the VCG model from the gold sample of 157 SN Ia data and the recent measurements of the X-ray gas mass fractions in 26 galaxy clusters. We perform a combined analysis of these databases and obtain the confidence region on the two parameters. Our results indicate that the original Chaplygin gas is ruled out at $3 \\sigma$ confidence level. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Variable Chaplygin Gas ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let us now consider the VCG characterized by the equation of state ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP _ { v } = - \\frac { A ( a ) } { \\rho _ { v } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $A ( a )$ is a positive function of the cosmological scale factor $a$ . This assumption is reasonable since $A ( a )$ is related to the scalar potential if we take the Chaplygin gas as a Born-Infeld tachyon field [9,15]. In a spatially flat Friedmann-Robertson-Walker (FRW) universe, the energy conservation equation is ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { d \\rho _ { v } } { d a } = - 3 \\frac { \\rho _ { v } + P _ { v } } { a } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By inserting Eq. (1) into the above equation, one finds that the VCG density evolves as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { v } ( a ) = a ^ { - 3 } \\left[ 6 \\int A ( a ) a ^ { 5 } d a + B \\right] ^ { 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $B$ is an integration constant. Given a function $A ( a )$ ， Eq. (3) allows us to obtain a solution $\\rho _ { v } ( a )$ . We assume $A ( a )$ is of the form $A ( a ) = A _ { 0 } a ^ { - n }$ , where $A _ { 0 }$ and $n$ are constants. This ansatz has the following important features: a) the VCG model with $n = 0$ reduces to the original scenario, b) we will see that the VCG behaves as a quiessence rather than a cosmological constant at late times and c) the function $\\rho ( a )$ can be calculated analytically. Then from Eq. (3) it follows that ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { v } ( a ) = \\sqrt { \\frac { 6 } { 6 - n } \\frac { A _ { 0 } } { a ^ { n } } + \\frac { B } { a ^ { 6 } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note that $n = 0$ corresponds to the original Chaplygin gas scenario, in which the Chaplygin gas behaves initially as dust-like matter and later as a cosmological constant [6]. However, Eq. (4) shows that, in the VCG scenario,it interpolates between a dust-dominated phase and a quiessence-dominated phase described by the constant equation of state $w = - 1 +$ $n / 6$ [17]. From Eq. (4) we get the present value of the energy density of the VCG ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { v 0 } = \\sqrt { \\frac { 6 } { 6 - n } A _ { 0 } + B } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where the present value of the scale factor is normalized to unity, i.e., $a _ { 0 } = 1$ .Defining $B _ { s } \\equiv B / \\rho _ { v 0 } ^ { 2 }$ ,Eq.(4) takes the form ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { v } ( z ) = \\rho _ { v 0 } \\left[ B _ { s } ( 1 + z ) ^ { 6 } + ( 1 - B _ { s } ) ( 1 + z ) ^ { n } \\right] ^ { 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $z = 1 / a - 1$ is redshift. In the spatially flat FRW metric the Friedmann equation can be written as ",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nH ^ { 2 } = \\frac { \\kappa ^ { 2 } } { 3 } ( \\rho _ { b } + \\rho _ { v } ) ,\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "where $H \\equiv { \\dot { a } } / a$ is the Hubble parameter, $\\kappa ^ { 2 } \\equiv 8 \\pi G$ is the gravitational coupling and $\\rho _ { b }$ is the energy density of the baronic matter. Substituting Eq. (6) into the Friedmann equation (7） gives ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { H ^ { 2 } ( z ) / H _ { 0 } ^ { 2 } } & { = } & { \\Omega _ { b } ( 1 + z ) ^ { 3 } + ( 1 - \\Omega _ { b } ) } \\\\ & & { } & { \\times \\left[ B _ { s } ( 1 + z ) ^ { 6 } + ( 1 - B _ { s } ) ( 1 + z ) ^ { n } \\right] ^ { 1 / 2 } } \\\\ & { \\equiv } & { E ^ { 2 } ( z ; \\Omega _ { b } , B _ { s } , n ) , } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $H _ { 0 } \\equiv 1 0 0 h \\mathrm { k m s ^ { - 1 } M p c ^ { - 1 } }$ is the present value of the Hubble parameter and $\\Omega _ { b }$ is the density parameter of the baryonic matter component. Then it is straightforward to show that the luminosity distance $d _ { L }$ and the angular diameter distance $d _ { A }$ in the spatially flat FRW universe are respectively given by ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r c l } { { d _ { L } } } & { { = } } & { { \\displaystyle \\frac { c } { H _ { 0 } } ( 1 + z ) \\int _ { 0 } ^ { z } \\frac { d z } { E ( z ) } , } } \\\\ { { d _ { A } } } & { { = } } & { { ( 1 + z ) ^ { - 2 } d _ { L } . } } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Supernova Ia Constraints ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let us now consider constraints on the VCG model from the gold sample of 157 SN Ia data compiled in Ref. [18]. The parameters in the model are determined by minimizing ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi _ { \\mathrm { S N } } ^ { 2 } = \\sum _ { i = 1 } ^ { 1 5 7 } \\frac { [ \\mu _ { \\mathrm { m o d } } ( z _ { i } ; h , \\Omega _ { b } , B _ { s } , n ) - \\mu _ { \\mathrm { o b s } } ( z _ { i } ) ] ^ { 2 } } { \\sigma _ { i } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\sigma _ { i }$ is the total uncertainty in the observation, $\\mu _ { \\mathrm { o b s } }$ is the observed distance modulus of SNe Ia, and $\\mu _ { \\mathrm { m o d } } ( z _ { i } )$ is the theoretical distance modulus ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mu _ { \\mathrm { m o d } } ( z _ { i } ) = 5 \\log _ { 1 0 } \\frac { d _ { L } ( z _ { i } ) } { \\mathrm { M p c } } + 2 5 .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To determine the likelihood of the parameters $B _ { s }$ and $n$ ，we marginalize the likelihood function $L = \\exp ( - \\chi ^ { 2 } / 2 )$ over $h$ and $\\Omega _ { b }$ . We adopt Gaussian priors such that $h = 0 . 7 2 { \\pm } 0 . 0 8$ （20 from the Hubble Space Telescope Key Project [19] and $\\Omega _ { b } h ^ { 2 } = 0 . 0 2 1 4 \\pm 0 . 0 0 2 0$ from the observed abundances of light elements together with primordial nucleosynthesis [20]. The results of our analysis for the VCG model are displayed in Fig. 1. We show $6 8 . 3 \\%$ ， $9 5 . 4 \\%$ and marginalized and 99.7% confidence level contours in the $1 \\sigma$ error barsare $B _ { s } = 0 . 2 2 3 _ { - 0 . 0 5 9 } ^ { + 0 . 0 5 7 }$ $( B _ { s } , n )$ plane. The best-fit model parameters and $n = - 3 . 0 _ { - 6 . 2 } ^ { + 2 . 4 }$ with $\\chi _ { \\mathrm { m i n } } ^ { 2 } = 1 7 4 . 2 5 3$ . The results show that the two parameter $B _ { s }$ and $n$ are highly degenerate. It is interesting to note that the dark energy component with $w < - 1$ is favored,which allows the possibility that the dark energy density in increasing with time. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/55ede9962844319a0a04972f605afac63f3fc17c1b9a1641aa92a997b532d4c6.jpg",
+        "img_caption": [
+            "Figure 1: Probability contours for $B _ { s }$ versus $n$ are shown at $1 \\sigma$ ， $2 \\sigma$ ，and $3 \\sigma$ when $\\Omega _ { \\mathrm { t o t } } = 1$ = These constraints use the gold sample of 157 SN Ia data [18]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf7d8f794a55a7be14d384ed79b95b72393601b1c48e05a631ed983255e2fafb.jpg",
+        "img_caption": [
+            "Figure 2: Probability contours for $B _ { s }$ versus $n$ are shown at $1 \\sigma$ ， $2 \\sigma$ ，and $3 \\sigma$ when $\\Omega _ { \\mathrm { t o t } } = 1$ = These constraints use the X-ray gas mass fraction in 26 galaxy clusters [25]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Constraints from the X-ray Gas Mass Fraction of Galaxy Clusters ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The matter content of rich clusters of galaxies is thought to provide a fair sample of the matter content of the universe as a whole. The observed ratio of the baryonic to total mass in clusters should therefore closely match the ratio of the cosmological parameter $\\Omega _ { b } / \\Omega _ { m }$ where $\\Omega _ { b }$ and $\\Omega _ { m }$ are the mean baryon and total mass densities of the universe in units of the critical density. The combination of robust measurements of the baryonic mass fraction in clusters with accurate determinations of $\\Omega _ { b }$ from cosmic nucleosynthesis calculations can therefore be used to determine $\\Omega _ { m }$ [21]. The measurements of the apparent redshift dependence of the baryonic mass fraction can also, in principle, be used to constrain the geometry and dark energy density of the universe [22]. The first successful application of such a test was carried out by Allen et al. using a small sample of X-ray luminous, dynamically relaxed clusters with precise mass measurements, spanning the redshift range $0 . 1 < z < 0 . 5$ [23] (see also [24]). Recently Allen et al. present a significant extension and obtained a tight constraint on the mean matter density and dark energy equation of state parameter. The clusters sample is significantly larger and includes 26 X-ray luminous, dynamically relaxed systems spanning the redshift range $0 . 0 7 < z < 0 . 9$ [25].We will use this database to constraint the VCG model. To determine the confidence region of the model parameters, we use the following $\\chi ^ { 2 }$ function ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi _ { \\mathrm { X r a y } } ^ { 2 } = \\sum _ { i = 1 } ^ { 2 6 } \\frac { \\left[ f _ { \\mathrm { g } a s } ^ { \\mathrm m o d } ( z _ { i } ; h , \\Omega _ { b } , B _ { s } , n ) - f _ { \\mathrm { g a s } , i } ^ { \\mathrm o b s } \\right] ^ { 2 } } { \\sigma _ { \\mathrm { g a s } , i } ^ { 2 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $f _ { \\mathrm { g a s } , i } ^ { \\mathrm { o b s } }$ is the measured X-ray gas mass fraction $f _ { \\mathrm { g } a s }$ with the defaut standard cold dark matter (SCDM) cosmology, $\\sigma _ { \\mathrm { g a s } , i }$ is the symmetric root mean square errors, and $f _ { \\mathrm { g a s } , i } ^ { \\mathrm m o d }$ is the model function ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\nf _ { \\mathrm { g a s } } ^ { \\mathrm { m o d } } ( z _ { i } ) = \\frac { b \\Omega _ { b } } { ( 1 + 0 . 1 9 h ^ { 1 / 2 } ) \\Omega _ { m } ^ { \\mathrm { e f f } } } \\left[ \\frac { h } { 0 . 5 } \\frac { d _ { A } ^ { \\mathrm { S C D M } } ( z _ { i } ) } { d _ { A } ^ { \\mathrm { m o d } } ( z _ { i } ) } \\right] ^ { 3 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where the bias factor $b = 0 . 8 2 4 \\pm 0 . 0 8 9$ [25] is a parameter motivated by gas dynamical simulations,which suggest that the baryon fraction in clusters is slightly depressed with respect to the universe as a whole, and the efective matter density parameter is ",
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Omega _ { m } ^ { \\mathrm { e f f } } = \\Omega _ { b } + ( 1 - \\Omega _ { b } ) \\sqrt { B _ { s } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Adopting Gaussian priors such that $h \\ : = \\ : 0 . 7 2 \\pm 0 . 0 8$ and $\\Omega _ { b } h ^ { 2 } = 0 . 0 2 1 4 \\pm 0 . 0 0 2 0$ ，the $6 8 . 3 \\%$ ， $9 5 . 4 \\%$ and 99.7% confidence level contours in the $( B _ { s } , n )$ plane are shown in Fig. 2. The best-fit model parametersand marginalized $1 \\sigma$ error bars are $B _ { s } = 0 . 0 4 9 _ { - 0 . 0 1 5 } ^ { + 0 . 0 1 6 }$ and $n = 0 . 5 _ { - 1 . 1 } ^ { + 1 . 0 }$ with $\\chi _ { \\mathrm { m i n } } ^ { 2 } = 2 4 . 4 3 7$ .Theresults favortheoriginal Chaplygin gas model with $n = 0$ ： ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/93621a2071b7067d872c5f113cba93499d0d0c26cd425766522aa8769695af81.jpg",
+        "img_caption": [
+            "Figure 3: Probability contours for $B _ { s }$ versus $n$ are shown at $1 \\sigma$ ， $2 \\sigma$ ，and $3 \\sigma$ when $\\Omega _ { \\mathrm { t o t } } = 1$ These constraints use the gold sample of 157 SN Ia data [18] and the X-ray gas massfraction in 26 galaxy clusters [25]. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5 Combined Analysis, Conclusions and Discussions ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Let us now consider a combined analysis of the constraints from the gold sample of SN Ia data and the measurements of the X-ray gas mass fraction in galaxy clusters. The fit is done by minimizing the following $\\chi ^ { 2 }$ function ",
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\chi _ { \\mathrm { t o t } } ^ { 2 } = \\chi _ { \\mathrm { S N } } ^ { 2 } + \\chi _ { \\mathrm { X r a y } } ^ { 2 } .\n$$",
+        "text_format": "latex",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fig.3 shows the constraints on $B _ { s }$ and $n$ obtained from the analysis of the combined the SN Ia and the X-ray gas mass fraction data set. We see that $\\mathrm { S N I a } + f _ { \\mathrm { g a s } }$ data set provides a remarkablytightconstraintinthe $( B _ { s } , n )$ plane,with best fit values $B _ { s } = 0 . 0 5 5 _ { - 0 . 0 1 2 } ^ { + 0 . 0 1 3 }$ （： $1 \\sigma$ error bar） and $n = 1 . 7 0 _ { - 0 . 5 2 } ^ { + 0 . 3 3 }$ （ $\\boldsymbol { \\bot \\sigma }$ error bar)with $\\chi _ { \\mathrm { m i n } } ^ { 2 } = 2 0 5 . 4 5 7$ .We find that the original Chaplygin gas model is ruled out by the data at 99.7% confidence level. Fig. 4 and Fig. 5 show the probability distribution for $n$ and $B _ { s }$ , respectively, marginalized over $B _ { s }$ and $n$ in the spatially flat FRW universe. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The VCG model, which plays the role of both dark energy and dark matter in terms of a single component， deserves to explore its various observational effects [16]. In this paper we have focused our attention on the gold sample of SN Ia data and the recent measurements of the X-ray gas mass fractions in galaxy clusters. Adopting simple Gaussian priors of $h$ and $\\Omega _ { b } h ^ { 2 }$ ， we have obtained stringent constraints on the two parameters, $B _ { s }$ and $n$ ， which describe the effective density parameter of the dark matter component and the effective equation of state of the dark energy component, respectively. The combined analysis of these databases shows that the original Chaplygin gas model is ruled out and the universe tends to be quiessence-dominated rather than phantom-dominated at $3 \\sigma$ confidence level in the VCG scenario. It would be interesting to investigate the evolution of density perturbations in this VCG model. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ea342bea13517c33fd179f59f480e3d08f257bdc2062ee7a373dea0388c68d9.jpg",
+        "img_caption": [
+            "Figure 4: Probability distribution for $n$ marginalized over $B _ { s }$ obtained from the analysis of the combined SNIa+ $f _ { \\mathrm { g a s } }$ data set in the VCG model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/14db0020286e2bb6c6e69a9d315e178d94d2d376edf9d8c6b69c85b5a44edf50.jpg",
+        "img_caption": [
+            "Figure 5: Probability distribution for $B _ { s }$ marginalized over $n$ obtained from the analysis of the combined SNIa+ $f _ { \\mathrm { g a s } }$ data set in the VCG model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to Zong-Hong Zhu and Adam G. Riess for helpful discussions. We would like to thank Robert W. Schmidt for sending us their compilation of the X-ray mass fraction data. This project was in part supported by National Basic Research Program of China under Grant No. 2003CB716300 and by NNSFC under Grant No. 90403032. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1] A.G. Riess et al., Astron. J.116 (1998) 1009; S. Perlmutter et al., Astrophys. J. 517 (1999) 565.   \n[2] D.N. Spergel et al., Astrophys. J. Suppl. 148 (2003) 175.   \n[3] M. Tegmark et al., Phys. Rev. D69 (2004) 103501.   \n[4] B.Ratra and P.J.E. Peebles, Phys. Rev. D37(1988) 3406; C. Wetterich, Nucl. Phys. B302 (1988) 668.   \n[5] I. Zlatev, L.M. Wang and P.J. Steinhardt, Phys. Rev. Lett. 82 (1999) 896; P.J. Steinhardt,L. Wang and I. Zlatev,Phys. Rev. D59 (1999) 123504.   \n[6] A. Kamenshchik, U. Moschella and V. Pasquier， Phys. Lett. B511 (2001) 265； V. Gorini， A. Kamenshchik and U. Moschella, Phys. Rev. D67(2003) 063509.   \n[7] M.C.Bento, O. Bertolami and A.A. Sen， Phys. Rev. D66 (2002) 043507; N. Bilic, G.B. Tupper and R.D. Viollier, Phys. Lett.B535 (2002) 17； N. Bilic, G.B. Tupper and R.D. Viollier, astro-ph/0207423.   \n[8] M. Bordemann and J. Hoppe, Phys. Lett. B317 (1993) 315; J.C. Fabris, S.V.B. Gonsalves and P.E. de Souza, Gen. Rel. Grav. 34 (2002) 53.   \n[9] M.C. Bento, O. Bertolami and A.A. Sen,Phys. Lett. B575 (2003) 172.   \n[10] M. Makler， S.Q. de Oliveira and I. Waga, Phys. Lett.B555 (2003)1; J.C. Fabris, S.V.B. Goncalves and P.E. de Souza, astro-ph/0207430; Y. Gong and C.K. Duan, Mon. Not. Roy. Astron. Soc. 352 (2004) 847; Y. Gong, JCAP 0503 (2005) 007.   \n[11] M.C. Bento, O. Bertolami and A.A. Sen, Phys. Rev. D67 (2003) 063003; L. Amendola, I. Waga and F. Finelli, astro-ph/0509099.   \n[12] A. Dev, J.S. Alcaniz and D. Jain, Phys. Rev. D67 (2003) 023515; R. Bean, O. Dore, Phys. Rev. D68 (2003) 023515; Z.H. Zhu, Astron. Astrophys. 423 (2004) 421.   \n[13] P.F. Gonzalez-Diaz, Phys.Lett. B562 (2003) 1; L.P. Chimento, Phys.Rev. D69 (2004) 123517; T. Barreiro, A.A. Sen, Phys. Rev. D70 (2004) 124013; L.P. Chimento and R. Lazkoz, Phys. Lett. B615 (2005) 146; U. Debnath, A. Banerjee and S. Chakraborty, Class. Quant. Grav. 21 (2004) 5609; W. Zimdahl and J.C. Fabris, gr-qc/0504088.   \n[14] H. Sandvik, M. Tegmark, M. Zaldarriaga and I. Waga, Phys. Rev. D69 (2004) 123524.   \n[15] Z.K. Guo and Y.Z. Zhang, astro-ph/0506091.   \n[16] G. Sethi, S.K. Singh, P. Kumar, D. Jain and A. Dev, astro-ph/O508491.   \n[17] Z.K. Guo, N. Ohta and Y.Z. Zhang, Phys. Rev. D72 (2005) 023504.   \n[18] A.G. Riess et al., Astrophys. J. 607 (2004) 665.   \n[19] W. Freedman et al., Astrophys. J. 553 (2001) 47.   \n[20] D. Kirkman, et al.， Astrophys. J. Suppl. 149 (2003) 1.   \n[21] S.D.M. White and C.S. Frenk, Astrophys. J. 379 (1991) 52.   \n[22] S. Sasaki, Publ. Astron. Soc. Jpn., 48 (1996) L119; U. Pen, New Astronomy 2 (1997) 309.   \n[23] S.W. Allen, et al., Mon. Not. Roy. Astron. Soc. 334 (2002) L11; S.W. Allen, et al., Mon. Not. Roy. Astron. Soc. 342 (2003) 287.   \n[24] Z.H. Zhu, M. Fujimoto and X.T He, Astron. Astrophys. 417 (2004) 833； Z.H. Zhu and M. Fujimoto,Astrophys. J. 602 (2004) 12; Z.H. Zhu, M. Fujimoto and X.T He, Astrophys.J. 603 (2004) 365; Z. Chang, F.Q. Wu and X. Zhang,astro-ph/0509531.   \n[nr] q  ∧11>\\~ ←> \\\\~Λ\\~+ T З5ə （000∧） ∧57 ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    }
+]

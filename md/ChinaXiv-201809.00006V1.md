@@ -1,0 +1,143 @@
+# 模拟增温增雨对典型草原土壤酶活性的影响
+
+钞然¹²，张东¹²，陈雅丽¹²，万志强¹,²，高清竹²，包铁军¹，杨喆'（1．内蒙古大学生态与环境学院,内蒙古 呼和浩特010021;2．中国农业科学院农业环境与可持续发展研究所,北京100081)
+
+摘要：气候变化对生态系统的影响呈增加趋势。土壤酶作为草地土壤中活跃的组分之一,与草地土壤养分含量关系密切。为探究半干旱地区酶活性及土壤养分对气候变化的响应,利用开顶式生长室于2011—2016年在典型草原进行模拟增温增雨试验。结果表明： $\textcircled{1}$ 增温使 $0 \sim 1 0 \ \mathrm { c m }$ 土层的硝态氮和铵态氮含量分别增加 $4 0 . 2 \%$ 和$1 2 9 . 1 \%$ ,增雨使硝态氮含量增加 $6 3 . 5 \%$ ,铵态氮含量降低 $6 3 . 6 \%$ 。 $\textcircled{2}$ 土层的增温使 $0 \sim 1 0 \ \mathrm { c m }$ 土层的过氧化氢酶活性和蔗糖酶活性分别降低 $4 . 8 \%$ 和 $1 3 . 3 \%$ 。与增温的效果相反，增雨使碱性磷酸酶活性、蔗糖酶活性和脲酶活性分别提高 $7 . 1 \% . 3 5 . 7 \%$ 和 $1 4 . 9 \%$ ,对过氧化氢酶无显著影响( $P > 0 . 0 5 )$ 。 $\textcircled { 3 } 0 \sim 1 0 \ \mathrm { c m }$ 土层的硝态氮和铵态氮含量有增加趋势（ $\ P < 0 . 0 5 \$ ),不同种类的土壤酶活性对气候变化的响应存在差异,这可能与气候变化趋势下土壤养分循环的变化有关。
+
+关键词：气候变化；典型草原；土壤养分；土壤酶活性；增温增雨；内蒙古
+
+随着气候变化趋势加剧，至21世纪末的2081—2100年，全球地表平均温度可能会上升$1 . 5 \sim 4 ~ \mathrm { { ^ { c } } }$ ，且相较于1986—2005年全球大部分草原的平均降水量可能会增加，高海拔地区降水强度和频率的增加尤为明显[1。气候变化可能会对全球生态系统产生深远影响，而水热因子作为陆地生态系统的关键因子会深刻影响土壤养分循环[2]目前已有许多对于生态系统响应气候变化的研究，结果表明增温降低生态系统稳定性[3]、温度升高和大气二氧化碳浓度增加改变温室气体源与汇的功能[4],增温还对土壤碳储量、速效氮、速效磷等含量有显著影响[5-7) ○
+
+土壤酶活性是地球生态系统新陈代谢的主要动力,一定程度上能反映微生物的活性(。通常情况下,增温提高土壤酶活性[8，但同时可能引起土壤湿度下降[3],这时微生物会产生更多的酶来应对不利的环境条件[9]。实际上，温度升高不仅影响环境中酶的产生和降解[10],而且酶活性的变化还会影响分解等其他生态系统过程[1]。Allison 等[12]在阿拉斯加寒温带森林的研究表明，增温对土壤酶活性的影响不显著，与土壤碳和磷循环有关。与增温的效应相反，增雨对土壤酶活性有促进作用[8]Zhou 等〔13]的研究表明,增加降水使温带草原土壤脲酶和酸性磷酸酶的活性提高，土壤可利用氮素增多，速效磷含量降低。总结已有的研究来看，目前对自然环境中土壤酶活性响应的气候变化交互作用的研究较少，因此探究水热因子对土壤酶活性的影响，对理解气候变化趋势下土壤养分循环有一定意义。
+
+生态系统对全球变暖的响应在区域间有巨大差异。草地作为陆地生态系统的一部分，有不可替代的生态系统服务功能，且对全球变化较为敏感[14-16]。内蒙古典型草原位于中国北方半干旱地区，是湿润气候到干旱气候的过渡带，属于气候变化的敏感区域[17]。近50a来,该地区的平均升温速率为 $0 . 4 3 \mathrm { ~ \textdegree ~ { ~ } ~ } \cdot \mathrm { ~ ( ~ 1 0 a ~ ) ~ } ^ { - 1 }$ ,增温幅度远高于全国平均增温幅度，年际间降雨量波动幅度呈现增加趋势[17-19]。本研究以典型草原为研究对象,利用开顶式生长室增温和人工增雨，探究未来气候变化背景下土壤酶活性和理化性质的变化，以期为未来草原管理和利用提供参考。
+
+# 1材料与方法
+
+# 1.1 研究区概况
+
+研究区位于内蒙古锡林浩特市东郊 $4 0 ~ \mathrm { k m }$ 处的毛登牧场( $4 4 ^ { \circ } 0 9 ^ { \prime } 4 9$ ： $0 ^ { \prime \prime } \mathrm { N }$ ， $1 1 6 ^ { \circ } 2 9 ^ { \prime } 0 2 . ~ 3 ^ { \prime \prime } \mathrm { E }$ ，海拔$\mathrm { ~ 1 ~ } 1 0 2 \mathrm { ~ m ~ }$ ),属温带大陆性气候，冬季干冷，夏季湿热。年平均气温 $2 . 6 ~ \mathrm { { ^ { 9 C } } }$ ,最低气温1月与最高气温7月的平均温度分别为 $- 2 3 . 8 \mathrm { ~ \textdegree C }$ 和 $2 4 . 9 ~ \mathrm { ^ { q } C }$ 。年平均降水量为 $2 7 1 . 4 2 \ \mathrm { m m }$ ;降水集中在5一9月，占全年总降水量的 $8 7 . 3 \%$ ,年蒸发量为 $1 ~ 6 0 0 \sim 1 ~ 8 0 0 ~ \mathrm { m m } _ { \odot }$ 0研究区土壤类型为栗钙土。建群种为克氏针茅（Stipa krylovii）和羊草（Leymus chinensis）。
+
+# 1.2 试验设计
+
+本试验于2011年7月在试验样地布置16个植物生长均匀的小区，采用开顶式生长室进行增温，生长室顶部和底部均为圆形，制作材料为聚氯乙烯塑料（透光率大于 $9 0 \%$ ），圆台型框架材料为钢筋「万运帆等，2011年“可自动降温开顶式气室”专利（专利号ZL201120302004.7)〕，内置风扇进行控温。开顶式生长室全年固定在样地内，以避免人为干扰；并于2011年(7—9月）及2012—2016年(5—9月)进行生长季模拟增雨。试验设置4个处理，分别是对照、增温、增雨、增温增雨。每个处理设置4个重复，共16个小区。对照处理为自然状态；增温处理利用开顶式生长室进行增温，增雨处理则是在自然状态下使用人工喷壶增加降水，增温增雨处理在增温的基础上利用人工喷壶增加降水。试验小区采用随机区组设计，每个小区的面积为 $3 \mathrm { ~ m ~ } \times 3 \mathrm { ~ m ~ }$ ,相邻小区间隔 $3 ~ \mathrm { ~ m ~ }$ 。试验的增温幅度基于该地区近50a(1961—2010年)生长季月平均温度增幅和IPCC第四次(2007年)评估报告，将温度增幅设为 $2 \ \mathrm { { ^ circ C } }$ ；增雨幅度为近 $5 0 \mathrm { ~ a ~ }$ 各月平均降水量的 $20 \%$ ，确定对应
+
+# 表11961一2010 年生长季月均增温幅度、月平均降水量和增雨量
+
+Tab.1Monthly temperature increase and monthly precipitation in growing season during the period of 1961-2010   
+
+<html><body><table><tr><td>月份</td><td>温度增幅 △T/C</td><td>降水量 /mm</td><td>增雨量 △P/mm</td></tr><tr><td>5</td><td>1.23</td><td>25.06</td><td>5.01</td></tr><tr><td>6</td><td>2.12</td><td>45.11</td><td>9.02</td></tr><tr><td>7</td><td>1.74</td><td>77.85</td><td>15.57</td></tr><tr><td>8</td><td>1.95</td><td>64.44</td><td>12.89</td></tr></table></body></html>
+
+各月的降水量增幅(表1）。在生长季每个月的月初和月末分2次进行增雨。
+
+# 1.3土壤样品采集与温湿度测定
+
+2016年8月20日采集 $0 \sim 1 0 \ \mathrm { c m }$ 土壤样品,鲜土进行铵态氮和硝态氮的浸提，其余样品风干处理，分别过筛 $0 . 1 5 \ \mathrm { m m } \setminus 0 . 8 5 \ \mathrm { m m }$ 和 $1 . 0 \ \mathrm { m m }$ ,用于土壤化学性质和土壤酶活性的测定。土壤温湿度的测定用温湿度数据采集器（温度探头型号：DS18B20；湿度探头型号：EC-5,EcotekInc.，Beijing，China）记录 $1 0 \ \mathrm { c m }$ 土层土壤温湿度。
+
+# 1.4土壤样品分析与酶活性测定
+
+土壤有机质测定方法采用重络酸钾氧化法，土壤全氮含量采用半微量凯氏定氮法，土壤全磷含量采用 $\mathrm { H C l O } _ { 4 } - \mathrm { H } _ { 2 } \mathrm { S O } _ { 4 }$ 法，土壤速效磷采用钼锑抗比色法,土壤硝态氮的测定采用 $\mathrm { C a C l } _ { 2 }$ 浸提法[20]。土壤铵态氮的测定采用靛酚蓝比色法(20]。脲酶活性采用苯酚钠－次氯酸钠比色法，其活性以 $2 4 \mathrm { ~ h ~ }$ 后$\mathrm { ~ 1 ~ g ~ }$ 土壤中 $\mathrm { N H } _ { 3 } - \mathrm { N }$ 的毫克数表示[21]。蔗糖酶活性采用3,5－二硝基水杨酸比色法，活性以 $\mathrm { ~ 1 ~ g ~ }$ 干土生成葡萄糖毫克数表示[21]。过氧化氢酶活性采用高锰酸钾滴定法，土壤过氧化氢酶活性以所消耗的$\mathrm { K M n O } _ { 4 }$ 的毫克数来表示[21]。碱性磷酸酶采用磷酸苯二钠比色法，以 $\mathrm { 1 0 0 ~ g }$ 土壤中 ${ \bf P } _ { 2 } { \bf O } _ { 5 }$ 的毫克数表示磷酸酶活性[21]
+
+# 1.5 统计分析
+
+所有数据使用MicrosoftExcel2010和IBMSPSSStatistics19.0软件进行统计分析，使用单因素方差分析（one-wayANOVA)酶活性处理间差异，双因素方差分析(two-wayANOVA)土壤理化性质处理间的差异显著性，多重比较采用Duncan法。
+
+# 2结果与分析
+
+# 2.1增温增雨对土壤温湿度的影响
+
+模拟增温增雨对2016年生长季不同月份的土壤温度影响不同，6月和8月增雨处理土壤温度显著低于增温和增温增雨处理( $\ P < 0 . 0 5 )$ ，7月各处理间温度差异不显著(表2)。5月增温处理的土壤湿度显著低于增雨处理( $P < 0 . 0 5 )$ ,6月增温处理的土壤湿度显著低于对增雨和增温增雨处理( $\cdot P < 0 . 0 5 )$ 。7月和8月各处理间土壤湿度差异不显著。
+
+# 2.2增温增雨对土壤化学性质的影响
+
+增温使硝态氮和铵态氮含量分别增加 $4 0 . 2 \%$ $^ { \prime } P < 0 . 0 1 )$ 和 $1 2 9 . 1 \%$ （ $\ P < 0 . 0 1 \rangle$ ,增雨使硝态氮含量增加 $6 3 . 5 \%$ （ $P < 0 . 0 1 \$ ），铵态氮含量降低 $6 3 . 6 \%$ （204号 $\left( P < 0 . 0 1 \right)$ 。增雨显著降低土壤 $\mathrm { p H } ( P = 0 . 0 2 2 )$ 。各处理对全氮、有机碳、全磷、有机碳无显著影响（ $\textstyle P > 0 . 0 5 )$ （表3，图1）。
+
+# 2.3增温增雨对土壤酶活性的影响
+
+增温显著降低过氧化氢酶活性、蔗糖酶活性1 $\scriptstyle P < 0 . 0 5 )$ 。与增温引起的效应不同，增雨显著提高脲酶活性、蔗糖酶活性和碱性磷酸酶活性1 $\ P < 0 . 0 5 ,$ )，对过氧化氢酶活性无显著影响。增温增雨交互作用显著提高脲酶活性( $P < 0 . 0 5 )$ ，显著降低过氧化氢酶活性( $\textstyle P < 0 . 0 5 ,$ ，对蔗糖酶和碱性磷酸酶活性影响不显著(图2）。
+
+# 2.4土壤养分与酶活性的相关性分析
+
+相关分析结果表明，土壤酶活性与土壤温湿度和速效氮含量相关性较好。土壤脲酶活性与土壤湿度呈显著正相关，与铵态氮含量呈显著负相关。过氧化氢酶与土壤温度呈显著负相关，与硝态氮含量呈显著正相关。碱性磷酸酶活性与土壤湿度呈显著正相关，与铵态氮含量呈显著负相关。蔗糖酶活性与土壤湿度呈显著正相关，与土壤温度、铵态氮、全磷和有机质含量呈显著负相关(表4）。
+
+Tab.2Effects of temperature and precipitation increase on soil temperature and soil moisture content in typical steppe in 2016   
+
+<html><body><table><tr><td></td><td>月份</td><td>对照</td><td>增温</td><td>增雨</td><td>增温增雨</td></tr><tr><td rowspan="3">土壤温度/C</td><td>5</td><td>12.01 ±0.33b</td><td>13.06±0.12ab</td><td>12.61 ±0.09b</td><td>13.44 ±0.17ab</td></tr><tr><td>6</td><td>17.11 ±0.08b</td><td>18.07 ±0.34a</td><td>16.49 ±0.43b</td><td>17.73 ±0.22a</td></tr><tr><td>7</td><td>21.91 ±0.16a</td><td>22.78 ±0.25a</td><td>21.61 ±0.37a</td><td>22.36 ±0.13a</td></tr><tr><td rowspan="5">土壤湿度/%</td><td>8</td><td>21.87 ±0.35ab</td><td>23.07 ±007a</td><td>21.78 ±0.52b</td><td>22.39 ±0.41a</td></tr><tr><td>5</td><td>18.81 ±0.21ab</td><td>16.49 ±0.17b</td><td>19.08 ±0.24a</td><td>18.35±0.19ab</td></tr><tr><td>6</td><td>18.82 ±0.30a</td><td>16.64 ±0.15b</td><td>19.11 ±0.27ab</td><td>18.44 ±0.03a</td></tr><tr><td>7</td><td>18.01 ±0.15a</td><td>15.95 ±0.46ab</td><td>18.31 ±0.28a</td><td>17.67 ±0.18a</td></tr><tr><td>8</td><td>19.01 ±0.18a</td><td>16.41 ±0.35ab</td><td>19.34 ±0.08a</td><td>18.31 ±0.15a</td></tr></table></body></html>
+
+注：不同小写字母表示各处理在0.05水平上差异显著。下同。
+
+表22016年增温增雨对典型草原土壤温湿度的影响  
+表3双因素方差 $P$ 值总计的增温增雨对土壤化学性质的影响  
+Tab.3Effects of temperature and precipitation increase on soil physicochemical properti   
+
+<html><body><table><tr><td>处理</td><td></td><td>全氮</td><td>硝态氮</td><td>铵态氮</td><td>全磷</td><td>速效磷</td><td>有机碳</td><td>pH</td></tr><tr><td rowspan="3">增温</td><td>F</td><td>0.029</td><td>59.610</td><td>70.867</td><td>5.000</td><td>3.348</td><td>1. 985</td><td>1. 372</td></tr><tr><td>P</td><td>0.870</td><td><0.01</td><td><0.01</td><td>0.056</td><td>0.105</td><td>0.197</td><td>0.283</td></tr><tr><td>F</td><td>4.267</td><td>209.823</td><td>26.116</td><td>1.800</td><td>1. 704</td><td>3.664</td><td>8. 024</td></tr><tr><td></td><td>P</td><td>0.073</td><td><0.01</td><td><0.01</td><td>0.217</td><td>0.228</td><td>0.092</td><td>0.022</td></tr><tr><td>增温</td><td>F</td><td>2.322</td><td>15. 734</td><td>0.423</td><td>1.800</td><td>0.426</td><td>1. 234</td><td>2.520</td></tr><tr><td>增雨</td><td>P</td><td>0.166</td><td><0.01</td><td>0.529</td><td>0.217</td><td>0.532</td><td>0.299</td><td>0.151</td></tr></table></body></html>
+
+![](images/b4addf85073f804183e53358cb0a7f3fadd461edf5fe1e74f4e7324a0dca96c2.jpg)  
+图1增温增雨对土壤硝态氮和铵态氮的影响  
+Fig.1Effects of temperature and precipitation increase on soil ${ \mathrm { N O } } _ { 3 } ^ { - } \ - { \mathrm { N } }$ and $\mathrm { N H } _ { 4 } ^ { + }$ -N
+
+![](images/b4e455a8d7a56b72da08f3e768264c58894b861486e865d234cb56efb2fe0789.jpg)  
+图2增温增雨对土壤酶活性的影响  
+Fig.2Effects of temperature and precipitation increase on soil enzyme activity
+
+表4土壤理化性质与土壤酶活性的相关性分析  
+Tab.4Correlation analysis between soil physicochemical properties and soil enzyme activity   
+
+<html><body><table><tr><td></td><td>土壤温度</td><td>土壤湿度</td><td>铵态氮</td><td>硝态氮</td><td>速效磷</td><td>全氮</td><td>全磷</td><td>有机质</td><td>pH</td></tr><tr><td>脲酶</td><td>-0.437</td><td>0.726 **</td><td>-0.628 **</td><td>-0.026</td><td>0.283</td><td>-0.496</td><td>-0.338</td><td>0.399</td><td>-0.181</td></tr><tr><td>过氧化氢酶</td><td>-0.565 *</td><td>0.096</td><td>-0.487</td><td>0.548 *</td><td>-0.296</td><td>0.004</td><td>-0.29</td><td>-0.248</td><td>0.337</td></tr><tr><td>碱性磷酸酶</td><td>0.411</td><td>0.708 **</td><td>-0.740**</td><td>0.159</td><td>0.307</td><td>0.49</td><td>-0.276</td><td>-0.36</td><td>-0.47</td></tr><tr><td>蔗糖酶</td><td>-0.655 **</td><td>0.796**</td><td>-0.839**</td><td>0.484</td><td>-0.152</td><td>-0.221</td><td>-0.508 *</td><td>-0.655**</td><td>-0.364</td></tr></table></body></html>
+
+注： $*$ 和 $* *$ 分别表示相关性在0.05和0.01水平显著。
+
+# 3讨论
+
+气候因素是控制生态系统物质循环过程的重要因素，而水热因子作为草地类型区分的主要标准之一,有着决定性作用[22]。升高温度会促使系统朝一个更充分利用非吸附反应物的方向进行，且温度对需要更多的能量的吸附反应有更多影响[23]；升温促进扩散和溶解，导致土壤碳的淋溶损失，使更多的物质进入土壤养分循环[24]。本研究结果表明,增温处理显著增加铵态氮和硝态氮含量( $\textstyle P < 0 . 0 5 ,$ ，与前人的研究结果相似[25]。增温促进微生物活性,使矿化速率增加，土壤有效氮增多，植物可利用养分也随之增多[26]。与增温的效应相反,增雨显著降低铵态氮含量( $P < 0 . 0 1 { \mathrm { ~ } } )$ 和土壤 $\mathrm { \ p H }$ 值( $P = 0 . 0 2 2 { \mathrm { ~ , ~ } }$ ，与前人的研究结果一致[13]。土壤中铵态氮易挥发,虽然增雨显著降低土壤 $\mathrm { \ p H }$ 值，但仍然处于碱性环境（ $\mathrm {  ~ \ p H = 8 . 0 0 } ^ { \cdot } ,$ ），满足铵态氮挥发的条件。
+
+土壤环境与酶活性息息相关，土壤温度能够直接影响酶活性，也可以通过影响释放酶类的微生物或动力学特征间接影响酶活性[27]。本研究结果表明，增温抑制过氧化氢酶和蔗糖酶活性，对脲酶和碱性磷酸酶活性无显著影响。增温对酶活性的促进作用已被证实[28];然而,由于土壤酶活性对较小幅度的增温敏感，而小幅增温下的酶活性取决于土壤湿度的变化；增温引起干旱时，土壤养分溶解和扩散速率较低,酶活性受到限制[29]。过氧化氢酶活性与植物生长状况有较强相关性(30],增温不利于半干旱地区植物生长，可能间接限制了土壤过氧化氢酶活性。微生物受外界环境限制时,会调节酶的产生[31]。以上结论表明，增温对土壤酶活性的影响，与土壤中酶的种类以及增温幅度和土壤水分有关；本研究区域生长季土壤和植物代谢旺盛,表层土壤水分受限，加重生态系统水分散失，抵消增温引起的正效应[2]。因此，增温对土壤酶活性的影响在不同酶的种类间呈现不同结果。土壤酶活性对土壤水分变化十分敏感,通常情况下，土壤水分增加能够促进土壤酶活性的提高。土壤脲酶、蔗糖酶和碱性磷酸酶活性与土壤湿度呈显著正相关[13.27],这与本研究结果一致;因为脲酶活性和蔗糖酶活性与土壤水分之间有很强的相关性，土壤水分增加提高土壤孔隙间联通，使养分更容易获取。Brzostek 等[33]对草地进行的增温试验结果表明,增雨能够提高蛋白酶活性。增温增雨处理对本研究中4种酶活性的影响水平在增温处理和增雨处理之间，说明半干旱地区，水分与温度是相互影响的环境因子，且更容易受水分条件的制约。因此，水分对土壤酶活性的影响与水分引起土壤温度变化等因素相关。
+
+本研究相关分析结果表明，土壤酶活性与土壤温湿度和土壤铵态氮及硝态氮含量相关性较好，说明半干旱地区土壤温湿度是主要影响因素，铵态氮和硝态氮对酶活性的影响表现为协同作用。土壤有机质含量与蔗糖酶活性呈显著负相关( $\textstyle P < 0 . 0 5 )$ ，这与蔗糖酶影响土壤中碳素转化有关。脲酶参与土壤氮素循环,一定程度上能够反应土壤肥力[27],但是在半干旱地区受土壤水分制约。Jing 等[29]对高寒草甸的增温研究表明,土壤养分受限时，土壤微生物通过增加碳、氮获得酶的产生，来补偿由氮素限制导致的土壤微生物量氮的减少。相同的研究结果也出现在Weintraub 等[34的研究中，土壤蛋白酶活性峰值出现在生长季中期,此时土壤养分含量较低。本研究中，土壤硝态氮含量与过氧化氢酶呈显著正相关( $P < 0 . \ 0 5 ^ { \cdot }$ )，这与生长季植物生产力高有关[35]
+
+# 4结论
+
+增温增雨对不同种类土壤酶活性影响不同，且与土壤温湿度和铵态氮、硝态氮含量有关。在半干旱地区，水分更容易成为限制因素，进而影响土壤化学性质。未来气候变化背景下，典型草原土壤表层硝态氮和铵态氮有增加趋势，不同种类的土壤酶对水热因子变化的响应存在差异。本文未深入分析增温增雨对土壤养分循环的影响，因此，土壤酶活性与土壤养分循环的关系还有待进一步研究。
+
+# 参考文献（References）：
+
+[1]IPCC.Highlight of IPCC Working Group IFifth Assessment Report [M].Progressus Inquisitiones De Mutatione Climatis,2014.   
+[2]Luo Y.Terrestrial Carbon Cycle Feedback to Climate Warming [C]//IOP Conference Series: Earth and Environmental Science, 2009:2 022.   
+[3]Ma Zhiyuan,Liu Huiying,Mi Zhaorong,et al. Climate warming reduces the temporal stability of plant community biomass production [J].Nature Communications,2017,8(8）:15 378.   
+[4]Dijkstra F A,Morgan JA,Follett RF,et al. Climate change reduces the net sink of $\mathrm { C H } _ { 4 }$ and ${ \bf N } _ { 2 } \mathrm { O }$ in a semiarid grassland[J]. Global Chang Biology,2013,19(6):1816 -1 826.   
+[5]杨月娟,周华坤,姚步青,等.长期模拟增温对矮嵩草草甸土壤 理化性质与植物化学成分的影响[J].生态学杂志,2015,34 (3）:781- 789.[Yang Yuejuan,Zhou Huakun,Yao Buqing,et al.Effects of long-term simulated warming on soil physicochemical properties and plant chemical components of Kobresia humilis meadow[J].Chinese Journal of Ecology,2015,34（3）:781 - 789.]   
+[6]Allson S D,Treseder K K. Warming and drying suppress microbial activity and carbon cycling in boreal forest soils[J].Global Change Biology,2010,14(12):2 898-2 909.   
+[7]Ren Haiyan,Xu Zhuwen,Forest Isbell,et al.Exacerbated nitrogen limitation ends transient simulation of grassland productivity by increased precipitation[J]. Ecological Monographs,2017,87.   
+[8]Bell Terrence H,Henry Hugh AL.Fine scale variability in soil extracellular enzyme activity is insensitive to rain events and temperature in a mesic system[J].Pedobiologia,2011,54(2）:141-146.   
+[9]Allson S D,Wallenstein M D,Bradford M A.Soil carbon response to warming dependent on microbial physiology[J].Nature Geoscience,2010,3:336-340.   
+[10]Wallenstein M,Alison S D,Ernakovich J,et al.Controls on the Temperature Sensitivity of Soil Enzymes:A Key Driver of In Situ Enzyme Activity Rates[M].Soil Enzymology Springer Berlin Heidelberg,2010:245-258.   
+[11]Waldrop MP,Zak D R,Sinsabaugh RL,et al.Nitrogen deposition modifies soil carbon storage through changes in microbial enzymatic activity[J].Ecological Applications,2004,14(4）:1 172-1177.   
+[12]Allson SD,Treseder K K. Warming and drying suppress microbial activity and carbon cycling[J].Global Change Biology,2008,4： 2 898-2 909.   
+[13]Zhou Xiaoqi,Chen Chengrong,Wang Yanfen,et al.Warming and increased precipitation have differential effects on soil extracellular enzyme activities in a temperate grassland[J].Science of the Total Environment,2013,444(2）:552 -558. [14］杨雪梅,杨太保,刘海猛,等.气候变暖背景下近30a北半球植 被变化研究综述[J].干旱区研究,2016,33（2）：379－391. [Yang Xuemei,Yang Taibao,Liu Haimeng,et al.Vegetation variation in the North Hemisphere under climate warming in the last 30 years[J].Arid Zone Research,2016,33(2）:379 -391.] [15］张雪峰,牛建明,张庆,等.内蒙古锡林河流域草地生态系统水 源涵养功能空间格局[J].干旱区研究,2016,33（4）：814-   
+821.[Zhang Xuefeng,Niu Jianming,Zhang Qing,et al.Spatial pattern of water conservation function in grassand ecosystem in the Xilin River Basin,Inner Mongolia[J].Arid Zone Research,2016,   
+33(4) :814 -821. [16]陈建宇,赵景波.1960—2014 年内蒙古极端天气事件趋势分析 [J].干旱区研究,2017,34(5）:997-1009.[Chen Jianyu,Zhao Jingbo.Trends of extreme weather events in Inner Mongolia during the period of 1960 -2014[J].Arid Zone Research,2017,34（5）：   
+997 -1 009.] [17]Christensen L,Coughenour M B,Ellis JE,et al.Vulnerability of the Asian typical steppe to grazing and climatic change[J]. Climatic Change,2004,63（3）:351-368. [18]云文丽,HOUQ,乌兰巴特尔.近50 年气候变化对内蒙古典型 草原净第一性生产力的影响[J].中国农业气象,2008,29（3）：   
+294-297.[Yun Wenli,Hou Q,Wulanbateer.Impacts of climate change over last 5O years on net primary productivity in typical steppe of Inner Mongolia[J]. Chinese Journal of Agrometeorology,   
+2008,29(3):294-297.] [19］陈楠楠.2000—2014 年气候变化背景下锡林郭勒盟草地气候 生产力的时空动态分析[D].呼和浩特：内蒙古大学,2016. [Chen Nannan. Temporal and Spatial Dynamics of Grassland Climatic Productivity in Xilinguole from 2000 to 2014[D].Hohhot: Inner Mongolia University,2016.] [20]鲍士旦.土壤农化分析[M].第3版.北京：中国农业出版社,   
+2007.［Bao Shidan.Soil and Agricultural Chemistry Analysis[M].   
+3rd.Beijing:China Agriculture Press,2007.] [21］关松荫.土壤酶及其研究方法[M].北京：农业出版社,1986. [Guan Songyin.Soil Enzymes and Research Methods[M].Beijing: Agriculture Press,1986.] [22］盛文萍.气候变化对内蒙古草地生态系统影响的模拟研究 [D].北京：中国农业科学院,2007.[Sheng Wenping.Simulation of Climate Change ImPacton Grassand Ecosystem in Inner Mongolia［D].Beijing:Chinese Academy of Agricultural Sciences,   
+2007.] [23]Marschner B,Bredow A.Temperature effects on release and ecologically relevant properties of dissolved organic carbon in sterilised and biologically active soil samples[J].Soil Biology and Biochemistry,2002,34(4) :459 -466. [24］黄锦学,熊德成,刘小飞,等.增温对土壤有机碳矿化的影响研 究综述[J].生态学报,2017,37（1）：12-24.[Huang Jinxue, Xiong Decheng,Liu Xiaofei,et al.Effects of warming on soil organic carbon mineralization：A review[J].Acta Ecologica Sinica, 2017,37(1) :12 -24.]   
+[25]Sardans J,PenUelas J,Estiarte M. Changes in soil enzymes related to C and N cycle and in soil C and N content under prolonged warming and drought in a Mediterranean shrubland[J].Applied Soil Ecology,2008,39(2):223-235.   
+[26］白春华.控制性增温和施氮肥对土壤性质的影响[D].呼和浩 特：内蒙古农业大学,2011.[Bai Chunhua.The Effects of Experimental Warming and Nitrogen Addition on Soil Properties[D].Ho hhot :Inner Mongolia Agricultur-al University,2011.]   
+[27］李源.东北黑土氮素转化和酶活性对水热条件变化的响应 [D].长春:东北师范大学,2015.[Li Yuan.The Influence of Hydrothermal Conditions Change on Nitrogen Transformation and Enzyme Activities in Black Soil in Northeast China[D]. Changchun; Northeast Normal University,2015.]   
+[28]Stone M M,Weiss M S,Goodale C L,et al.Temperature sensitivity of soil enzyme kinetics under N fertili-zation in two temperate forests[J].Global Change Biology,2012,18(3）:1 173 -1 184.   
+[29]Jing Xin,Wang Yonghui,Chung Haegenu,et al.No temperature acclimationof soil extracellar enzymes toexperimental warming in an alpine grassland ecosystem on the Tibetan Plateau[J].Biogeochemistry,2014,117(1） :39 -54.   
+[30］鲁萍,郭继勋,朱丽.东北羊草草原主要植物群落土壤过氧化 氢酶活性的研究[J].应用生态学报,2002,13（6）:675-679. [Lu Ping,Guo Jixun,Zhu Li. Soil catalase activity of main plant communities in Leymus chinensis grassland in Northeast China[J]. Chinese Journal of Applied Ecology,2002,13(6）:675 -679.]   
+[31]Allison S D,Treseder K K.Warming and drying suppress microbial activityand carbon cycling in boreal forest soils[J]. Global Change Biology,2008,14(12):2 898 -2 909.   
+[32］王珍.增温和氮素添加对内蒙古短花针茅流漠草原植物群落、 土壤及生态系统碳交换的影响[D].呼和浩特：内蒙古农业大 学,2012.[Wang Zhen.Influences of Warming and N Addition on Plant Community,Soil and Ecosystem C Exchange on Inner Mongolia Desert Steppe[D].Hohhot:Inner Mongolia Agricultural University,2012.]   
+[33]Brzostek ER,John MBlair,DukesJS,et al.The effect of experimental warming and precipitation change on proteolytic enzyme activity:Positive feedbacksto nitrogenavailability are notuniversal [J].Global Change Biology,2012,18(8）:2 617 -2 625.   
+[34]Weintraub MN,Schimel JP.Seasonal protein dynamics in Alaskan arctic tundra soils[J].Soil Biology and Biochemistry,2005,37 (8) :1 469 -1 475.   
+[35］鲁萍.东北羊草草原主要植物群落土壤酶活性的研究[D].长 春：东北师范大学,2002.[Lu Ping.The Research on Soil Enzyme Activities in Main Plant Communities of Leymus chinensis grassland [D].Changchun:Northeast Normal University,2002.]
+
+# Effects of Simulated Temperature and Precipitation Increase on Soil Enzyme Activity in Typical Steppe
+
+CHAO Ran1²，ZHANG Dong'²，CHEN Ya-li²，WAN Zhi-qiang12，GAO Qing-zhu², BAO Tie-jun1，YANG Jiel (1.College of EcologyandEnvironment,Inner Mongolia University,Hohhot O1oO21,Inner Mongolia,China; 2. Institute of Environment and Sustainable Development in Agriculture,CAAS,Beijing 1Ooo81,China)
+
+Abstract：The impacts of climate change on ecosystems willbe expanded inthe future.Soil enzyme is one of the activecomponents ingrasslandsoil,and itiscloselyrelated tosoil nutrientcontent.Inthisstudy,thetop-opened growth chambers were used to simulate the temperature increase and rainfallincrease in a typical steppe in 2011 so as to explore the response of soil nutrient content and enzyme activity to climate change in semiarid area.The experiment wascarriedoutunder four treatments,i.e.thew CK（controlled）,T（temperaturecontrolled）,P（rainfallincreased）and TP(both temperature and rainfallincreased）respectively.The values of soil nutrient availability and of activityof four enzymes were measured.It was found thatthe contents of soil nitrate nitrogen and ammonium nitrogen were increased by $4 0 . 2 \%$ and $1 2 9 . 1 \%$ respectively by increasing temperature.The nitrate nitrogen content was increased by $6 3 . 5 \%$ by increasing rainfall,but the ammonium nitrogen content was decreased by $6 3 . 6 \%$ . The activities of catalase and sucrose enzyme were decreased by $4 . 8 \%$ and $1 3 . 3 \%$ respectively by increasing temperature.Contrarily,the activities of alkaline phosphatase,sucrose enzyme and urease were increased by $7 . 1 \%$ ， $3 5 . 7 \%$ （20 and $1 4 . 9 \%$ respectively by increasing rainfall,but there was no significant effect of rainfall increase on catalase ( $P$ （204号 $> 0 . 0 5$ ).The contents of nitrate nitrogen and ammonium nitrogen were in an increase trend under the interaction of both temperature increase and rainfall increase ( $\ P < 0 . 0 5 \$ ).The responses of four soil enzyme activities to climate change were different,which may be related to the change of nutrient cycling with climate change.
+
+Key words:climate change ;typical steppe ;soil nutrient,soil enzyme activity

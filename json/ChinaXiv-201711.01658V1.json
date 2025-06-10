@@ -1,0 +1,475 @@
+[
+    {
+        "type": "text",
+        "text": "早期补喂瘤胃液对羔羊血浆免疫球蛋白、细胞因子和小肠黏膜免疫相关细胞的影响",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "（1.新疆农业大学动物科学学院，新疆肉乳用草食动物营养重点实验室，乌鲁木齐830052；2.新疆畜牧科学院生物技术研究中心，新疆维吾尔自治区动物生物技术重点开放实验室，农业部草食家畜遗传育种与繁殖重点实验室，乌鲁木齐830000）",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：本试验旨在研究早期补喂瘤胃液对羔羊血浆免疫球蛋白、细胞因子含量和小肠黏膜免疫相关细胞数量的影响。选取12只特克赛尔（Texel）初生羔羊，随机分成2组，每组6只。试验组羔羊出生后连续补喂瘤胃液14d，每天1次，对照组羔羊补喂等量生理盐水。羔羊7、14、21和28日龄时，颈静脉采血并分离血浆；28日龄时，屠宰收集肠道内容物。测定血浆中免疫球蛋白[免疫球蛋白A（IgA）和免疫球蛋白G（IgG）]、细胞因子[白细胞介素-1β（IL-1β）、白细胞介素-6（IL-6)、肿瘤坏死因子 $\\mathbf { - a }$ （TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ )、干扰素 $- \\gamma$ （IFN-γ）],肠道内容物中 $\\mathrm { I g G }$ 和免疫球蛋白Fc片段（Fc）含量。结果表明：试验组21日龄血浆中IgA和IgG 含量显著或极显著低于对照组( $. P { < } 0 . 0 5$ 或 $P { < } 0 . 0 1$ ),其他日龄组间差异不显著( $( P { > } 0 . 0 5 )$ 试验组血浆中IL-1β 和IL-6 含量较对照组高，但差异不显著（ $( P { > } 0 . 0 5 )$ ；血浆TNF- $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ 含量在14 日龄时显著高于对照组（ $P { < } 0 . 0 5 )$ ，在其他日龄差异不显著（ $P { > } 0 . 0 5 \\rangle$ ；试验组羔羊血浆IFN-γ含量低于对照组，但差异不显著（ $P { > } 0 . 0 5 \\ '$ ；给新生羔羊补喂瘤胃液对28日龄羔羊肠道内容物中 $\\mathrm { I g G }$ 和Fc含量无显著影响（ $( P { > } 0 . 0 5 )$ ；试验组肠道上皮内淋巴细胞数量较对照组增加，尤其在回肠，与对照组差异显著（ $P { < } 0 . 0 5 \\$ ）;肠道肥大细胞数量各肠段组间无显著差异（ $. P { > } 0 . 0 5 .$ )。上述结果表明，早期补喂瘤胃液对羔羊体液免疫无显著影响，可在一定程度上增强由免疫细胞介导的免疫功能；早期补喂瘤胃液对羔羊小肠转运母源免疫球蛋白无显著影响；早期补喂瘤胃液能刺激羔羊小肠黏膜免疫系统的发育，使免疫屏障功能尽早完善。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：新生羔羊；瘤胃液；血浆；免疫球蛋白；细胞因子；黏膜免疫相关细胞",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：S826",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "羔羊、犊牛等从出生至断奶，是动物一生中最为关键的时期。近年来，关于添加各种益生菌对羔羊、犊牛生产性能、健康（如腹泻）等影响的报道越来越多，但是，在羔羊出生后第1次喂给初乳的同时或出生后 $2 4 \\mathrm { ~ h ~ }$ 内就补喂微生物的相关研究很少。早期的报道表明，瘤胃微生物或者瘤胃液接种物对犊牛和羔羊有积极作用[]。James 等[2]从安装有十二指肠瘘管的健康哺乳期犊牛采集十二指肠液，在犊牛出生后第1次喂给初乳的同时，给试验组犊牛一次性补喂 $2 0 0 ~ \\mathrm { m L }$ 十二指肠液，提高了试验组犊牛出生后7日龄的平均日增重；Muscato等[3]在特牛出生后第1次喂给初乳的同时，补喂 $8 ~ \\mathrm { m L }$ 不同方法处理的健康奶牛瘤胃液，使犊牛的腹泻天数显著缩短；显著提高犊牛出生至2周龄的体增重。目前研究者大多偏重于对瘤胃微生物营养价值的研究[2-4]，很少注意到瘤胃液或瘤胃细菌对新生羔羊机体免疫方面的可能作用。反刍动物瘤胃液中含有种类多样的细菌，包含着成百种的细菌多聚糖分子[5-6],这些细菌或成分可能通过促进新生幼畜黏膜免疫进而增强机体整体免疫能力。因此，本试验给新生羔羊补喂瘤胃液，通过测定血浆中免疫球蛋白和细胞因子含量，探讨早期补喂瘤胃液对新生羔羊机体免疫的影响，通过测定羔羊小肠黏膜免疫相关细胞数量，探讨早期补喂瘤胃液对新生羔羊肠道黏膜免疫的影响，为进一步研究瘤胃液可能的免疫作用提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1瘤胃液的采集及制备 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "选用安装有永久性瘤胃瘘管的1.5岁中国美利奴羊（新疆型）公羊，饲喂精粗比（干物质基础）为30:70的饲粮，精料补充料的主要成分是粉碎玉米和棉籽粕，粗料为玉米秸秆。在饲喂后3h采集瘤胃液，60目尼龙袋过滤后收集滤液，再将滤液 $1 2 0 0 \\times g 4 ^ { \\circ } \\mathrm { C }$ 离心 $2 0 \\mathrm { m i n }$ 后收集上清液， $- 2 0 \\ { ^ { \\circ } C }$ 保存，备用。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2 试验动物及饲养管理",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "试验在新疆畜牧科学院下属的中澳绵羊繁育中心进行。选取12只体重相近的，母羊奶水充足的特克赛尔（Texel）初生羔羊，随机分成2组，分别为试验组和对照组，每组6只。试验组羔羊在出生哺喂初乳后 $^ { 1 2 \\mathrm { ~ h ~ } }$ 内补喂瘤胃液 $1 0 ~ \\mathrm { m L }$ （细菌数 $6 . 0 { \\times } 1 0 ^ { 9 }$ 个 $/ \\mathrm { m L }$ ），之后每天09:00，用奶瓶饲喂，连续14d，对照组羔羊在同一时间点补喂等量生理盐水，母羊及羔",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "羊的饲养管理由羊场统一进行。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3样品的采集及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.1 血液采集与处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "分别在羔羊7、14、21和28日龄时晨饲(09:00)前空腹颈静脉采集血液（肝素钠抗凝)，$4 \\mathrm { { ^ \\circ C } }$ 放置 $3 0 \\mathrm { m i n }$ 后 $1 5 0 0 \\times g$ 离心 $1 5 \\mathrm { m i n }$ ，收集上清液 $- 2 0 \\ \\mathrm { { ^ \\circ C } }$ 保存，待测。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.3.2羔羊的屠宰、样品采集及处理",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "羔羊28日龄时用抹脖法放血屠宰，在手术台上保定，使腹部朝上，沿腹线用手术刀划开腹腔，立即分离胃肠道各段，在各胃肠段之间的连接部位用线绳扎紧，在各胃肠道的远端部位用手术剪刀剪断，收集内容物到封口袋中，标记好后放入保温箱加入液氮冷冻，后转移到 ${ \\cdot } 7 0 \\ \\mathrm { ^ { \\circ } C }$ 冰箱保存，待测。指标测定前将采集的肠道内容物充分混匀后称取 $\\boldsymbol { 2 } \\mathrm { \\ : g }$ 样品，加入5 倍体积的去离子水，振荡浸提1h，然后将液体 $4 \\mathrm { ~ \\textdegree ~ } 1 2 0 0 0 { \\times } g$ 离心 $2 0 \\mathrm { m i n }$ ，收集上清液，再用 $0 . 4 5 \\mu \\mathrm { m }$ 纤维树脂滤膜抽滤上清液，收集滤液， $- 2 0 \\ { ^ { \\circ } \\mathrm { C } }$ 保存，备用。用预冷的生理盐水反复冲洗肠段，除去多余水分，各取十二指肠前端、空肠中端和回肠后端 $5 \\mathrm { c m }$ 左右在Bouin固定液中固定，用于小肠黏膜免疫细胞计数。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.4 指标测定",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "羔羊血浆中免疫球蛋白A（immunoglobinA，IgA）和免疫球蛋白G（immunoglobin G,IgG)，细胞因子包括白细胞介素- $\\cdot 1 \\beta$ （interleukin- $\\cdot 1 \\beta$ ， $\\mathrm { I L } { - } 1 \\beta$ ）、白细胞介素-6（interleukin-6,IL-6)、肿瘤坏死因子 $\\mathbf { \\sigma } \\cdot \\mathbf { a }$ （tumor necrosis factor $\\mathfrak { a }$ ，TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ ）、干扰素 $- \\gamma$ （interferon $\\gamma$ ，IFN $\\cdot \\gamma$ ）含量均由北京华英生物技术研究所测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "肠道内容物中免疫球蛋白IgG及免疫球蛋白Fc片段（Fc）含量由北京华英生物技术研究所测定。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "羔羊小肠肠道上皮内淋巴细胞（intestinal intraepithelial lymphocyte,iIEL）和肥大细胞（mastcell,MC)数量的测定采用常规石蜡切片法，取已固定的肠段组织约 $1 \\mathrm { c m }$ ，石蜡包埋，制备连续横断切片（厚 $6 \\mu \\mathrm { m } \\dot { }$ )，每隔10张取1张，分别用常规苏木精-伊红（HE）染色和甲苯胺蓝（MTB)染色，光镜下观察iIEL和肥大细胞的形态及分布。切片染色后使用Image-ProPlus 6.0 软件进行图像处理，每段小肠各取5张切片，每张切片各选5个视野拍照，统计每100个肠黏膜上皮细胞中iIEL数量，各段小肠分别统计5张切片横断面全层的肥大细胞数，",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "计算单位面积内的肥大细胞数量。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1.5数据统计及分析试验结果均以平均值±标准差（mean±SD）表示。试验数据的统计分析均采用SPSS16.0中独立样本t检验进行方差分析，以 $P { < } 0 . 0 5$ 和 $P { < } 0 . 0 1$ 分别为差异显著和极显著的标准。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2结果与分析",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.1补喂瘤胃液对羔羊血浆中IgA 和IgG含量的影响",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "补喂瘤胃液对羔羊血浆中IgA 和 $\\mathrm { I g G }$ 含量的影响见表1。随日龄增加，羔羊血浆中 IgA含量变化不大，但在21日龄时对照组血浆中IgA含量显著高于试验组（ $P { < } 0 . 0 5 \\mathrm { ~ }$ ，28日龄时2组之间差异不显著（ $. P { > } 0 . 0 5 .$ )。羔羊血浆中IgG含量随日龄逐渐降低，14日龄后含量变化较小；对照组羔羊血浆中IgG 在各个日龄均高于试验组，尤其是在21日龄时差异达到极显著( $P { < } 0 . 0 1 \\rangle$ 。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/90f098dd60e39873e62f41f828504eb48ac421ed7600b567ebe7bc53871cc018.jpg",
+        "table_caption": [
+            "表1补喂瘤胃液对羔羊血浆中IgA和IgG含量的影响"
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">Table1 Effectsofadministrationofruminalfiuidonplasma1 gAandIgGcontentsinlambs</td></tr><tr><td>项目Items</td><td>日龄 Days</td><td>对照组 Control group</td><td>试验组Trial group</td></tr><tr><td></td><td>of age 7</td><td>0.64±0.06</td><td>0.67±0.03</td></tr><tr><td>免疫球蛋白A</td><td>14</td><td>0.66±0.03</td><td>0.64±0.03</td></tr><tr><td>IgA</td><td>21</td><td>0.67±0.06a</td><td>0.58±0.04b</td></tr><tr><td rowspan=\"2\"></td><td>28</td><td>0.71±0.05</td><td>0.65±0.05</td></tr><tr><td>7</td><td>20.73±0.53</td><td>20.04±1.48</td></tr><tr><td>免疫球蛋白G</td><td>14</td><td>17.75±1.78</td><td>15.69±1.09</td></tr><tr><td>IgG</td><td>21</td><td>18.67±2.98A</td><td>14.13±1.05B</td></tr><tr><td></td><td>28</td><td>17.71±3.23</td><td>15.75±2.37</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "同行数据肩标相同或无字母表示差异不显著 $( P { > } 0 . 0 5 )$ ，不同小写字母表示差异显著 $( P { < } 0 . 0 5 )$ ，不同大写字母表示差异极显著（ ${ \\cal P } { < } 0 . 0 1$ )。下表同。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the same row, values with the same or no letter superscripts mean no significant difference $( P { > } 0 . 0 5 )$ ，while with different small letter superscripts mean significant difference $( P { < } 0 . 0 5 )$ ,and with different capital letter superscripts mean significant difference $( P { < } 0 . 0 1 )$ ).The same asbelow. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2补喂瘤胃液对羔羊血浆中细胞因子含量的影响",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "补喂瘤胃液对羔羊血浆中细胞因子的影响见表2。总体上,28日龄羔羊血浆中IL-1β、IL-6 和 IFN- $\\gamma$ 含量高于7日龄。试验组羔羊各日龄血浆中 $\\mathrm { { I L } \\mathrm { { - } 1 \\mathrm { { \\beta } } } }$ 和IL-6含量较对照组高，但差异不显著（ $P { > } 0 . 0 5 \\$ )。试验组羔羊血浆中TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量在14日龄时显著高于对照组（ $\\scriptstyle \\cdot { \\cal P } \\ll 0 . 0 5 .$ )，在其他日龄差异不显著（ $. P { > } 0 . 0 5 \\$ )。随日龄增加，羔羊血浆中 $\\mathrm { I F N } { - } \\gamma$ 含量先增加后降低，各日龄试验组羔羊血浆 $\\mathrm { I F N } _ { - \\gamma }$ 含量均低于对照组，但差异不显著（ $\\scriptstyle \\cdot { \\cal P } > 0 . 0 5 )$ ）°",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/2baafe95aec14111ea1b71bb2e96b7dbabf3d736721fde3441f5424124c342d9.jpg",
+        "table_caption": [
+            "Table 2Effects of administration of ruminal fluid on plasma cytokine contents in lambs pg/mL "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">项目Items</td><td rowspan=\"2\">日龄 Days of age</td><td rowspan=\"2\">对照组 Control group</td><td rowspan=\"2\">试验组Trial group</td></tr><tr><td></td></tr><tr><td></td><td>7</td><td>24.59±3.35</td><td>26.14±6.47</td></tr><tr><td>白细胞介素-1β</td><td>14</td><td>26.52±4.60</td><td>27.62±7.23</td></tr><tr><td>IL-1β</td><td>21</td><td>27.97±4.07</td><td>28.68±7.39</td></tr><tr><td></td><td>28</td><td>28.17±5.67</td><td>29.98±6.02</td></tr><tr><td></td><td>7</td><td>107.84±11.15</td><td>102.74±3.56</td></tr><tr><td>白细胞介素-6</td><td>14</td><td>118.49±23.29</td><td>136.63±10.36</td></tr><tr><td>IL-6</td><td>21</td><td>103.34±3.90</td><td>116.15±19.43</td></tr><tr><td></td><td>28</td><td>119.06±13.51</td><td>124.51±24.32</td></tr><tr><td></td><td>7</td><td>69.77±9.13</td><td>65.18±12.07</td></tr><tr><td>肿瘤坏死因子-α</td><td>14</td><td>53.27±4.12b</td><td>61.34±4.49a</td></tr><tr><td>TNF-α</td><td>21</td><td>70.37±5.94</td><td>68.69±10.17</td></tr><tr><td></td><td>28</td><td>63.83±9.07</td><td>59.62±6.57</td></tr><tr><td>干扰素-γ</td><td>7</td><td>51.39±8.94</td><td>43.83±5.47</td></tr><tr><td></td><td>14</td><td>56.84±11.57</td><td>54.45±6.99</td></tr><tr><td>IFN-γ</td><td>21</td><td>66.02±18.24</td><td>58.55±5.75</td></tr><tr><td></td><td>28</td><td>58.43±3.63</td><td>54.40±4.77</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.3补喂瘤胃液对28 日龄羔羊肠道内容物中IgG和Fc含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "补喂瘤胃液对28日龄羔羊肠道内容物中IgG 和Fc含量的影响见表3。补喂瘤胃液的羔羊肠道内容物中的IgG和Fc含量与对照组相比差异不显著（ $( P { > } 0 . 0 5 )$ )，但是补喂瘤胃液羔羊十二指肠内容物IgG含量数值上高于对照组。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表3补喂瘤胃液对28日龄羔羊肠道内容物中IgG和Fc含量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb7b0bafe4eae176485665a0c8f7fc3ef604c2bd9ef26823bea210bacb2da41b.jpg",
+        "table_caption": [
+            "表2补喂瘤胃液对羔羊血浆中细胞因子含量的影响",
+            "Table 3Effects of administration of ruminal fluid on IgG and Fc contents in intestinal digesta in lambs mg/g "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>项目Items</td><td>肠段 Intestinal segment</td><td>对照组 Control group</td><td>试验组Trial group</td></tr><tr><td>免疫球蛋白G</td><td>十二指肠 Duodenum</td><td>341.38±21.82</td><td>361.53±22.73</td></tr><tr><td>IgG</td><td>空肠 Jejunum</td><td>378.55±9.65</td><td>376.16±19.24</td></tr><tr><td></td><td>回肠 Ileum</td><td>382.80±16.91</td><td>389.62±16.71</td></tr><tr><td>免疫球蛋白Fc片段</td><td>十二指肠Duodenum</td><td>0.77±0.06</td><td>0.72±0.05</td></tr><tr><td>Fc</td><td>空肠 Jejunum</td><td>0.83±0.06</td><td>0.79±0.04</td></tr><tr><td></td><td>回肠Ileum</td><td>0.77±0.03</td><td>0.80±0.03</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4补喂瘤胃液对28日龄羔羊肠道免疫细胞形态和分布及数量的影响",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.4.128日龄羔羊肠道iIEL形态和分布",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "HE染色结果显示，肠道iIEL为散在分布于肠绒毛上皮细胞间的一群特殊淋巴细胞，小肠各段均有分布，多数位于上皮细胞基底膜附近，少量见于上皮核层和顶层，以小型细胞为主，胞核大而圆，且染色较深，小肠各段iIEL的形态无明显差异（图1）。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/9950e1a4af9e94849240cde2781bd8d919971aa088b2c4e505611112231e76b4.jpg",
+        "img_caption": [
+            "图128 日龄羔羊肠道iIEL形态和分布 (HE 染色）"
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A：对照组十二指肠 duodenum of control group；B：试验组十二指肠 duodenum of trial group；C：对 照组空肠 jejunum of control group；D：试验组空肠 jejunum of trial group；E：对照组回肠 ileum of control group；F：试验组回肠 ileum of trial group。图2同。The same as Fig.2. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fig.1Morphology and distribution of iIEL in intestinal tract in lambs aged 28 days (HE stain， $2 0 0 \\times )$ 补喂瘤胃液对28日龄羔羊肠道iIEL数量的影响见表4。试验组肠道iIEL数量均高于对照组，但十二指肠和空肠中2组差异不显著（ $. P { > } 0 . 0 5$ ），在回肠试验组iIEL数量较对照组显著增加1 $\\scriptstyle \\cdot - 0 . 0 5$ ）。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 4Effects of administration of ruminal fluid on iIEL count in intestinal tract in lambs aged 28 days% 肠段 Intestinal segments 对照组 Control group 试验组Trial group 十二指肠 Duodenum 4.16±0.46 6.10±1.77 空肠Jejunum $4 . 8 5 { \\scriptstyle \\pm 1 . 0 6 }$ （204号 6.05±1.47 回肠 Ileum 7.45±0.78b 12.42±1.65a ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2.4.228日龄羔羊肠道肥大细胞形态和分布",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "肥大细胞经MTB染色后，呈深蓝紫色，形态多为圆形、椭圆形，少量为梭形，胞浆内颗粒丰满，部分细胞呈脱颗粒状。肥大细胞多位于肠腺周围，且常见于小血管和小淋巴管周围。28日龄羔羊小肠中主要分布在肠壁固有层内和肠腺周围，黏膜下层、肌层少见（图2）。",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/4419f1552dfa758db2229e142d424b2e5bd6a608b6c23bda5f8f6c42cb43a904.jpg",
+        "img_caption": [
+            "图228日龄羔羊肠道肥大细胞形态和分布（MTB 染色）",
+            "Fig.2Morphology and distribution of mast cell in intestinal tract in lambs aged 28 days (MTB stain, $2 0 0 \\times$ 0 "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "补喂瘤胃液对 28日龄羔羊肠道肥大细胞数量的影响见表5。从各肠段来看，肥大细胞均在十二指肠分别最多，空肠降低，回肠数量又增多。各肠段间试验组与对照组差异不显著中 $( P { > } 0 . 0 5 )$ 。",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "表5补喂瘤胃液对28日龄羔羊肠道肥大细胞数量的影响",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Table 5Effects of administration of ruminal fluid on mast cell count in intestinal tract in lambs aged 28 days （204 $1 0 ^ { 3 }$ 个 $/ \\mathrm { m m } ^ { 2 }$ （204号 肠段 Intestinal segment 对照组 Control group 试验组Trial group ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "十二指肠 Duodenum 2.49±0.20 2.56±0.09   \n空肠 Jejunum 1.27±0.22 1.59±0.21   \n回肠Ileum 1.61±0.48 2.21±0.29 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3讨论",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1补喂瘤胃液对羔羊血浆中IgA和IgG含量的影响 ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IgG 和IgA是血液中的重要抗体，在体液免疫中发挥关键性作用，血液中IgG 能够阻止相应抗原穿透黏膜进入组织中[7]；IgG 和IgA含量可反映出免疫器官组织发育、发达程度及其功能变化，研究免疫调节剂对动物血液中各类免疫球蛋白含量的影响，是免疫器官组织的体液免疫功能在外周的重要标志。羔羊出生后，自身没有抵抗疾病的能力，需要在出生后24h 内从初乳中获得足量的免疫球蛋白来获得被动免疫，随着日龄的增长这种被动免疫机制逐渐减弱，大约在4周龄后自身免疫能力逐渐建立[8]。在出生至28 日龄期间，血液中的 IgA和IgG 主要来源于母乳中IgA 和IgG 的主动转运（对大部分的初生及幼龄哺乳动物而言），少数由骨髓形成的浆母细胞合成。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "本试验中，羔羊血浆中IgA含量随日龄呈升高趋势，与吴婷婷[9]、张俐华[10]所得结果一致。本试验通过给新生羔羊补喂瘤胃液，在28日龄时，试验组羔羊血浆中IgA含量较对照组低，而吴婷婷[9]、张俐华[10]通过补喂瘤胃液使试验羔羊28日龄时血浆中IgA显著增加。本试验羔羊血浆中IgG含量随日龄的增加而降低，这与吴婷婷9]、张俐华[]所得结果不同。本试验中，试验组羔羊血浆中IgG含量较对照组低，这与Scharek等[1给仔猪补喂益生菌屎肠球菌（Enterococcus faecium）血清中IgG含量变化一致，而Sun等[12]研究表明，饲喂纳豆枯草芽孢杆菌（Bacillus subtilis natto）可以提高犊牛血清中IgG含量，对犊牛血清中IgA含量无影响。造成本试验结果可能有以下原因：1）母乳中免疫球蛋白含量的变化，初乳中的IgG占初乳中免疫球蛋白总量的 $8 5 \\% { \\sim } 9 0 \\%$ ，母乳中IgG含量在出生1\\~3d时较高，在3\\~4周时显著降低[13],由于本试验中所有羔羊在此阶段仅采食母乳，由于母乳中IgG含量的降低使28日龄羔羊时血浆中IgG含量降低。2）幼畜对母乳免疫球蛋白的吸收，新生羔羊肠道上皮细胞发育尚不完全，通过胞吞作用摄取母源抗体IgG，随着时间的延长，肠道正常机能的建立，细菌微生物的刺激在很大程度上能促进新生动物肠道黏膜免疫的成熟[14]，IgG将不能以完整的形式被肠道吸收。本试验中，对照组羔羊血浆中IgA和IgG含量均高于试验组，可能原因是在羔羊出生吃上初乳后12h内补喂瘤胃液，大量的细菌、微生物以及细菌多糖分子等作为抗原物质进入仔畜肠道，促进肠道上皮细胞的发育，降低了小肠的通透性，从而使其对大分子物质包括IgG和IgA的吸收率降低，而28日龄时羔羊肠道黏膜免疫系统尚未建立完善，肠道固有层还不能大量产生IgG和IgA[15]，血浆中的IgG含量随着自身的降解（IgG的半衰期为20\\~23d）和机体的利用呈下降趋势，这表明补喂瘤胃液对28日龄羔羊的机体体液免疫没有影响。机体体液免疫有赖于细胞免疫的发育和成熟，而细胞发育成熟的时间是不容易改变的。因此，补喂瘤胃液对28日龄羔羊机体的体液免疫并不能产生影响。因为细菌或模式识别分子要进入机体并到达免疫器官组织，刺激免疫细胞的发育成熟基本不可能。正常情况下，细菌或模式识别分子通过肠黏膜组织的天然免疫作用即被消除。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.2补喂瘤胃液对羔羊血浆中细胞因子含量的影响",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "动物机体局部性的炎症也能在血浆细胞因子层面得到反映。肠道微生物通过释放促炎症因子和抗炎症因子调节宿主免疫反应[16]。白细胞介素-1（IL-1）是一个参与抗感染免疫防御的促炎性细胞因子[17]；IL-6 是其中一个最重要的免疫和炎症介质，调节各种细胞功能包括B 细胞和T细胞的增殖和分化[18]。TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 是一个能够诱导细胞凋亡，细胞增殖，分化和炎症反应的促炎性细胞因子[19]；IFN-γ 是 Th1 型细胞，大量微生物的接触时，巨噬细胞快速释放大量 $\\mathrm { I F N } { - } \\gamma$ ，迅速启动宿主早期防御[20-21]。Maassen 等[22]报道的给 BALB/c 小鼠补喂乳酸杆菌使 IL-1 和 TNF- $\\mathfrak { a }$ 含量增加，从而增强机体体液免疫。Castillo等[23]研究发现，干酪乳杆菌（Lactobacilluscasei）CRL431能够提高小鼠肠道TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 和 $\\mathrm { I F N } _ { - \\gamma }$ 的分泌。本试验中，补喂瘤胃液的羔羊血浆中IL-1、IL-6 和 TNF- $\\mathbf { \\nabla } \\cdot \\mathbf { a }$ 含量的升高，结果与可能是由于大量细菌及微生物进入肠道，促进肠道黏膜中Toll样受体的表达，从而释放更多的细胞因子，提示了瘤胃液在一定程度上提高了肠道黏膜天然免疫机能，但不会导致羔羊机体整体免疫过度。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3补喂瘤胃液对羔羊肠道内容物中IgG和Fc含量的影响",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "反刍动物出生时体内的IgG 含量基本为零，新生幼仔吸收初乳和乳，在肠道中通过Fc受体（Fc receptor，FcRn）运输初乳和乳中的IgG 而获得被动免疫[24]。FcRn 能否运输 IgG主要受体内环境 pH 生理梯度的影响[25]。研究表明，FcRn 也可以在成年动物的血管内皮、肝脏、肾脏等组织中表达，主要是调节血液中IgG 含量。当血液中IgG 低于正常时，更多的 FcRn与IgG 结合，IgG 降解减少，血液中IgG的含量上升；当血液中IgG含量高于正常水平时，受体已饱和，不能再结合IgG，这样被降解的IgG 增多，血液中的IgG 含量下降[26]。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "测定肠道内容物中IgG 和Fc 的含量可以间接反映羔羊对母乳中IgG 的被动转移量。本试验数据表明，补喂瘤胃液并未导致羔羊肠道的IgG和Fc 含量有显著升高，提示相比补喂生理盐水，补喂瘤胃液并未显著影响羔羊肠道对母乳源的 IgG 被动转运。问题是补喂生理盐水是否会导致肠黏膜转运通道的关闭？从大鼠的试验结果看，IgG 能否正常转运主要取决于肠黏膜上的FcRn的表达[27]，本研究对肠黏膜的FcRn表达未进行研究，但是，在成年人、成年大鼠的肠道组织仍有 FcRn 表达来看[27-28]，补喂生理盐水或瘤胃液对母乳中IgG 的转运无影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3.4补喂瘤胃液对28日龄羔羊肠道iIEL、肥大细胞细胞的影响",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "近年来，肠道iIEL作为肠道相关淋巴组织中的一个特殊组分，是肠黏膜免疫系统中最先接触抗原的免疫活性细胞，在肠道黏膜中起重要的免疫屏障作用[29]，在抗感染、调节上皮细胞的完整性和外来抗原的免疫应答方面起重要作用，其数量的变化可以在一定程度上反映消化道的局部免疫状况[30]。有研究报道，一部分淋巴细胞可穿过基膜进入固有膜，黏膜iIEL数量越多，进入腔中的淋巴细胞机会就越多，黏膜防御病原微生物入侵的能力就越强[31],iIEL的数量可以反映小肠局部黏膜免疫屏障的完整及免疫防御功能的完善程度。从本试验中可以看出，随着瘤胃液中的细菌微生物到达各个肠段，羔羊小肠iIEL增多，说明瘤胃液中的抗原物质能够刺激羔羊小肠黏膜免疫系统的发育，使免疫屏障功能尽早完善。此外，本研究还发现羔羊小肠不同肠段iIEL的数量分布也明显不同，其中十二指肠数量最少，回肠分布最多，这可能与小肠不同部位所接触病原微生物及食物抗原的种类和数量不同有关，造成具体原因有待进一步分析。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "肥大细胞是天然免疫的效应细胞之一，不仅在天然免疫中发挥重要作用，还是抗感染免疫的第一线细胞，而且能通过分泌细胞因子参与获得性免疫[32]。从试验结果可以看出，补喂瘤胃液后，试验组羔羊肠道中肥大细胞数量均有所增加，尤其在空肠和回肠段，肥大细胞数量受瘤胃液影响较大，小肠内的肥大细胞集中分布在黏膜层与黏膜免疫防护有关。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4结论",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{1}$ 早期补喂瘤胃液对羔羊体液免疫无显著影响，可在一定程度上增强由免疫细胞介导的免疫功能。$\\textcircled{2}$ 早期补喂瘤胃液对羔羊小肠转运母源免疫球蛋白无显著影响。",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{3}$ 早期补喂瘤胃液能刺激羔羊小肠黏膜免疫系统的发育，使免疫屏障功能尽早完善。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[1]POUNDEN W D,HIBBS JW.The influence of pasture and rumen inoculation on the establishment of certain microorganisms in the rumen of young dairy calves[J].Journal of Dairy Science,1949,32(12):1025-1031. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[2]JAMES R E,POLAN C E,BIBB TL.et al.Effect of orally administered duodenal fluid on susceptibility of newborn calves to an Escherichia coli challenge[J].Journal of Dairy Science,1976,59(8):1495-1501. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3]MUSCATO T V,TEDESCHI L O.RUSSELL JB.The effect of ruminal fluid preparations on the growth and health of newborn,milk-fed dairy calves[J].Journal of Dairy Science,2002,85(3):648-656. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ZHONG R Z,SUN H X,LI G D,et al.Effects of inoculation with rumen fluid on nutrient digestibility,growth performance and rumen fermentation of early weaned lambs[J].Livestock Science,2014,162:154-158. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "COSTERTON J W,DAMGAARD H N,CHENG K J.Cell envelope morphology of rumen bacteria[J].Journal of Bacteriology,1974,118(3):1132-1143. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "KRAUSE D O,RESSELL JB.How many ruminal bacteria are there?[J].Journal of Dairy Science,1996,79(8):1467-1475. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BRANDTZAEG P,TOLO K.Mucosal penetrability enhanced by serum-derived antibodies[J].Nature,1977,266(5599):262-263. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "LOGANE F,MCBEATHD G,LOWMANB G.Quantitative studies on serum immunoglobulin levels in suckled calves from birth to five weeks[J].Veterinary Record,1974,94(16):367-370. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[9]吴婷婷.补喂4种方法处理的瘤胃液制备物对新生羔羊肠道黏膜免疫的影响[D].硕士学位论文.乌鲁木齐：新疆农业大学,2013:35-36",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[10]张俐华.补喂绵羊瘤胃液制备物对1\\~35 日龄羔羊、犊牛增重和血浆免疫球蛋白含量的影响[D].硕士学位论文.乌鲁木齐:新疆农业大学,2013:30",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "[11] SCHAREK L,GUTH J,REITER K,et al.Influence of a probiotic Enterococcus faecium strain on development of the immune system of sows and piglets[J].Veterinary Immunology and Immunopathology,2005,105(1/2):151-161. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[12]SUN P,WANG J Q,ZHANG H T.Effects of Bacillus subtilis nato on performance and immune function of preweaning calves[J].Journal of Dairy Science,2O10,93(12):5851- 5855.   \n[13]BURTON JL,KENNEDY B W,BURNSIDE E B,et al.Variation in serum concentrations of immunoglobulins G,A,and M in Canadian Holstein-Friesian calves[J].Journal of Dairy Science,1989,72(1):135-149.   \n[14]ASHIDA H,OGAWA M,KIM M,et al.Bacteria and host interactions in the gut epithelial barrier[J].Nature Chemical Biology,2011,8(1):36-45.   \n[15]BAUER E,WILLIAMS B A,SMIDT H,et al.Influence of the gastrointestinal microbiota on development of the immune system in young animals[J].Currect Issues Intestinal Microbiol,2006,7(2):35-52.   \n[16]KLAENHAMMER TR,KLEEREBEZEM M,KOPP M V,et al.The impact of probiotics and prebiotics on the immune system[J].Nature Reviews Immunology,2012,12(10):728-734.   \n[17]AKDIS M,BURGLER S,CRAMERI R,et al.Interleukins,from 1 to 37,and interferon-y:receptors,functions,and roles in diseases[J].The Journal of Allergy and Clinical Immunol0gy,2011,128(4):739.   \n[18]SOBOTA R M,MULLER P J,KHOURI C,et al.SHPS-1/SIRPlα contributes to interleukin-6 signalling[J].Cellular Signaling,2008,20(7):1385-1391.   \n[19]LIBBY P,RIDKER P M,MASERI A.Inflammation and atherosclerosis[J].Circulation,2002,105(9):1135-1143.   \n[20]GESSANI S,BELARDELLI F.IFN-γ expression in macrophages and its possible biological significance[J].Cytokine & Growth Factor Reviews,1998,9(2):117-123.   \n[21]FRUCHT D M,FUKAO T,BOGDAN C,et al.IFN-γ production by antigen-presenting cells:mechanisms emerge[J].Trends in Immunology,2001,22(10):556-660. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "[22]MAASSEN C B M,VAN HOLTEN-NEELEN C,BALK F,et al.Strain-dependent induction of cytokine profiles in the gut by orally administered Lactobacillus strains[J].Vaccine,2000,18(23):2613-2623. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "[23]CASTILLO N A,PERGIGON G,DE MORENO DE LEBLANC A.Oral administration of a probiotic Lactobacillus modulates cytokine production and TLR expression improving the immune response against Salmonella enterica serovar Typhimurium infection in mice[J].BMC Microbiology, 2011,11(1):177.   \n[24]MARTIN M G,WU S V,WALSH J H.Ontogenetic development and distribution of antibody transport and Fc receptor mRNA expression in rat intestine[J].Digestive Diseases and Sciences,1997,42(5):1062-1069.   \n[25]RODEWALD R.pH-dependent binding of immunoglobulins to intestinal cells of the neonatal rat[J].The Journal of Cell Biology,1976,71(2):666-669.   \n[26]GHETIE V,WARD E S.Multiple roles for the major histocompatibility complex classI -related receptor FcRn[J].Annual Review of Immunology,2000,18(1):739-766.   \n[27]BENLOUNES N,CHEDID R,THUILLIER F,et al.Intestinal transport and processing of immunoglobulin G in the neonatal and adult rat[J].Biology of the Neonate,1995,67(4):254 263.   \n[28]ISRAEL E J,TAYLOR S,WU Z,et al.Expresson of the neonatal Fc receptor,FcRn,on human intestinal epithelial cels[J].Immunology,1997,92(1):69-74.   \n[29]XU R J,WANG F,ZHANG S H.Postnatal adaptation of the gastrointestinal tract in neonatal pigs:a possible role of milk-borne growth factors[J].Livestock Production Science,2000,66(2):95-107.   \n[30]GASKINS HR.The intestinal immune system:gut reaction and growth of the pig[J].Journal of Animal Science,1996,74(Suppl.1):169.   \n[31]陈付菊,陈耀星,王子旭,等.新生犊牛小肠黏膜结构的早期发育及上皮内淋巴细胞和杯 状细胞的数量变化[J].中国兽医科学,2007,37(6):519-523.   \n[32]STENTON G R,VLIAGOFTIS H,BEFUS A D.Role of intestinal mast cells in modulating ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "gastrointestinal pathophysiology[J].Annals of Allergy,Asthma & Immunology,1998,81(1):1-12,15. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Effects of Early Administration of Ruminal Fluid on Plasma Immunoglobins and Cytokines, and Mucosal Immunity-Associated Cells in Small Intestine in Lambs WU Tingting1HAN Bing² LIU Zhen1HE Zhourui1YANG Kailun1\\* (1. Xinjiang Key Laboratory of Meat & Milk Production Herbivore Nutrition, Xingjiang Agriculture University， Urumqi 830052, China; 2. Key Laboratory ofAnimal Biotechnology of Xinjiang, Key Laboratory of Genetics,Breeding and Reproduction of Grass-Feeding Animal,   \nMinistry of Agriculture, Biotechnological Research Center, Xinjiang Academy of Animal Science, Urumqi 830000, China) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Abstract: This experiment aimed to study the effects of early administration of ruminal fluid on plasma immunoglobins and cytokines,and mucosal immunity-associated cells in smallintestine in lambs. Twelve Texel newborn lambs were randomly allotted to two groups with 6 lambs per group. Ruminal fluid was orally administered once daily over a period of 14 days in trial group,and physiological saline was administered in control group. Blood was collected from jugular vein to separate plasma at 7,14, 21 and 28 days of age,respectively; lambs were slaughtered to obtain small intestinal digesta at 28 days of age. Immunoglobins [immunoglobin A (IgA） and immunoglobin G (IgG)] and cytokines [interleukin- $1 \\beta$ (IL-1β），interleukin-6（IL-6)， tumor necrosis factor α（TNF-α ） and interferon Y（IFN-γ）] contents in plasma,and IgG and immunoglobin Fc fragment $( \\mathrm { F c } )$ contents in intestinal digesta were determined. The results showed as follows: at 21 days of age,the contents of IgA and IgG in plasma in trial group was significantly lower than those in control group ( $\\cdot \\mathrm { \\partial } P { < } 0 . 0 5$ or ${ P \\mathrm { { < } } } 0 . 0 1 \\$ ),but there were no significant differences at the other days of ages $( P { > } 0 . 0 5 )$ ; the contents of $\\mathrm { I L } { - } 1 \\beta$ and IL-6 in plasma in trial group were higher than those in control group, but the differences were not significant $( P { > } 0 . 0 5 )$ ： plasma TNF- $\\mathfrak { a }$ content in trial group was significantly higher than that in control group at 14 days of age $( P { < } 0 . 0 5 )$ ，but there were no significant differences at the other days of ages $( P { > } 0 . 0 5 )$ plasma $\\mathrm { I F N } { - } \\gamma$ content in trial group was higher than that in control group, but the difference was not significant $( P { > } 0 . 0 5 )$ ; there was no significant difference of IgG and Fc contents in intestinal digesta at 28 days of age $( P { > } 0 . 0 5 )$ ； the administration of ruminal fluid increased intestinal intraepithelial lymphocyte count, especially in ileum,trial group was significantly different from control group $( P { < } 0 . 0 5 )$ ；mast cell count at different intestinal segments was not significantly different between groups $( P { > } 0 . 0 5 )$ . It is concluded that early administration of ruminal fluid has no influence on humoral immune in lambs,while to some extent,can enhance cell-mediated immune; early administration of ruminal fluid has no influence on intestinal transport of maternal immunoglobins in lambs;early administration of ruminal fluid can stimulate intestinal mucosal immune system in lambs,and contribute to immunologic barrier establishment. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key words: newborn lamb; ruminal fluid; plasma; immunoglobin; cytokine； mucosal immunity-associated cell ",
+        "page_idx": 14
+    }
+]

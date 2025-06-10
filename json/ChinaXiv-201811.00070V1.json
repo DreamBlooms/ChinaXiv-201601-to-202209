@@ -1,0 +1,472 @@
+[
+    {
+        "type": "text",
+        "text": "慕士塔格山卡尔塔马克冰川补给径流与非冰川补给径流水化学特征及主控因素研究",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "闫崇宇1,2,4，曾辰1²，史晓楠2，王冠星1,24，张凡1,2.3  \n(1中国科学院青藏高原研究所环境与地表过程实验室,北京100101；2中国科学院青藏高原研究所高寒  \n生态学与生物多样性重点实验室,北京100101；3中国科学院青藏高原地球科学卓越创新中心,北京100101;4中国科学院大学,北京100049)",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "摘要：2016年7\\~8月对慕士塔格山卡尔塔马克冰川补给径流与非冰川补给径流进行了采样分析,通过统计分析、主成分分析、Piper图、Gibbs图、正演模型等方法分析了冰川补给径流和非冰川补给径流的水化学特征及其主控因素。结果表明：冰川补给径流和非冰川补给径流两种水体均呈碱性，水化学类型皆为 $\\mathrm { C a } ^ { 2 + } \\mathrm { ~ - ~ } \\mathrm { S O } _ { 4 } ^ { 2 - } \\mathrm { ~ - ~ } \\mathrm { H C O } _ { 3 } ^ { - }$ ，但冰川补给径流和非冰川补给径流的 $\\mathrm { \\ p H }$ 值 $, E C$ 和TDS均存在显著差异( $\\left( p < 0 . 0 5 \\right)$ ，主要离子浓度间均存在极显著差异 ${ \\bf \\chi } ( p < 0 . 0 1 )$ 。冰川补给径流中所有离子具有同源性，而非冰川补给径流 $\\mathrm { N O } _ { 3 } ^ { - }$ 显示出与其它离子来源不同。正演模型结果显示，大气输入、硅酸盐风化、碳酸盐风化和蒸发岩溶解对冰川补给径流和非冰川补给径流中离子浓度的贡献率分别为 $1 0 . 4 7 \\% 0 . 5 5 \\% 6 5 . 6 1 \\% . 2 3 . 3 7 \\%$ 和 $1 . 5 2 \\% 1 9 . 5 7 \\% 6 0 . 3 7 \\% 1 8 . 1 8 4 \\%$ 。在冰川补给径流中，碳酸盐风化对径流中离子浓度的贡献占主导地位，蒸发岩溶解占次要地位;在非冰川补给径流中，碳酸盐风化亦占主要支配地位，而硅酸盐风化占次要地位。两者差异的原因是硅酸盐风化相比蒸发岩溶解更难进行，冰川补给径流中水岩相互作用时间较短，故硅酸盐风化贡献率较低；而非冰川补给径流经过更充分的水岩相互作用，故硅酸盐风化贡献率较高。其成果可为西部地区水资源管理应用提供参考。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "关键词：冰川补给径流；非冰川补给径流；水化学特征;",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "中图分类号：P592 文献标识码：A 文章编号",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "水化学特征是水环境的重要指标，对气候环境变化具有重要的指示作用[1]。研究径流的水化学特征对水循环过程和水资源环境保护具有重要的科学意义[2-3],揭示其主要离子来源及其影响因素是研究水环境和水文问题的重要课题之一[4]。受冰川运动及融水冲刷等因素影响，冰川作用区的风化速率通常高于全球大陆的平均值，对其周围区域的环境和生物地球化学循环具有重要影响[5-7]。同时冰川作用区多位于高寒地带，几乎不受人类活动的直接影响，故水体各种化学物质的含量可以很好地代表自然界未受人类活动影响的水化学的本底值，其水化学组成更直接反映了径流流经途径的水文地质特征[8-9]",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "冰川补给径流对气候变化十分敏感[10]。受全球变暖的影响，特别是近20多年来，冰川加速退缩，区域水循环加剧,开展冰川补给径流的水化学研究，有助于我们了解未来气候情景条件下山区河流水质的变化趋势[11-16]。21 世纪以来,冰川水化学研究取得很多成果。STUMPF等使用Gibbs图分析等方法对南极洲克拉克冰川和霍华德冰川补给径流进行研究，表明径流离子浓度可能主要受岩石风化影响[17];PRIYA 等使用相关性分析等方法对印度拉达克地区喜马拉雅山区域冰川补给径流进行研究，表明径流离子浓度存在明显的季节变化，径流小时离子浓度较低,径流大时离子浓度较高[18]。近年来一些学者对我国西部部分冰川补给径流水化学开展了研究。冯芳等利用摩尔比值和Piper图等方法对天山乌鲁木齐河源1号冰川补给径流进行研究，表明径流水体离子主要受碳酸盐、黄铁矿和长石类矿物风化作用影响[10]。武小波等利用相关性分析研究了祁连山七一冰川补给径流，结果表明径流离子浓度空间变化主要受水岩作用时间的控制[19]。赵爱芳等使用离子组合比值法和Gibbs图分析等方法对托木尔峰青冰滩72号冰川补给径流进行研究，结果表明径流离子组成的主控因素是岩石及土壤风化[20]。",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "慕士塔格山卡尔塔马克冰川是我国西部帕米尔高原地区观测内容较为丰富的冰川，中国科学院慕士塔格西风带综合观测研究站在卡尔塔马克冰川进行了长期的水文特征研究，赵华标等初步分析了卡尔塔马克冰川补给径流的主要离子来源[2I],但未涉及冰川补给径流与非冰川补给径流主要离子特征和来源对比研究。本研究采用野外观测采样、实验室测试和数据分析相结合的方法，对慕士塔格山卡尔塔马克冰川补给径流和非冰川补给径流进行分析，明确冰川补给径流和非冰川补给径流的水化学特征，量化并对比冰川补给径流和非冰川补给径流的主要离子来源，以期为区域水资源管理应用提供参考。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 材料与方法",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.1 研究区概况",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "慕士塔格山( $\\langle 7 5 ^ { \\circ } 0 4 ^ { \\prime } \\mathrm { E } , 3 8 ^ { \\circ } 1 7 ^ { \\prime } \\mathrm { N } \\rangle$ 位于帕米尔高原东缘（图1），峰顶海拔 $7 ~ 5 0 9 ~ \\mathrm { { m } }$ ,其主峰周围和山脊两侧发育了数量较多、规模较大的冰川[22]。慕士塔格山地区降水主要来源于西风环流，受山体屏障作用的影响，年降水量自西侧向东侧逐渐减少[22]]据推算，慕士塔格山冰川雪线处的年均降水量在$4 5 0 \\sim 6 0 0 ~ \\mathrm { m m }$ 之间[23]。慕士塔格岩体是西昆仑造山带出露面积最大的侵入岩体,主要由石英二长岩、花岗闪长岩和二长花岗岩组成[24]。位于慕士塔格峰西侧的卡尔塔马克、洋布拉克等冰川补给径流，出山谷后补给卡拉库里湖，出湖后经康西瓦河进入盖孜河,最终流入塔里木盆地[21]",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "卡尔塔马克冰川位于慕士塔格山西坡，冰川面积为 $4 . 4 8 ~ \\mathrm { k m } ^ { 2 }$ ,冰川末端海拔 $4 4 2 1 . 5 \\mathrm { ~ m ~ }$ 。冰川补给径流的年内变化很大，径流集中于6\\~9月，在7\\~8月达峰值,其余时间径流较小[25]。消融期内径流量与气温之间存在显著的相关性，同时气温具有明显的日内变化过程，因此，径流量也表现出明显的日内变化过程[21] O",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "研究区内海拔 $3 \\ 6 5 0 \\ \\mathrm { m }$ 处设有中国科学院青藏高原研究所慕士塔格西风带环境综合观测研究站（以下简称慕士塔格站，图1中S3）。根据该站2010一2015年的气象观测资料（表1），该区多年平均气温为 $0 . 4 ~ \\mathrm { ^ { \\circ } C }$ ,多年平均风速为 $3 . 6 \\ \\mathrm { m } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,多年平均气压为 $6 5 3 . \\ 2 \\ \\mathrm { \\ h P a }$ ,多年平均相对湿度为$4 5 . 5 \\%$ ,多年平均降水量为 $1 4 9 . 0 ~ \\mathrm { m m }$ 。",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.2样品采集与数据分析 ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2016年7\\~8月每天 $1 3 : 0 0 \\sim 2 1 : 0 0$ （北京时间）对卡尔塔马克冰川补给径流（图1中S1)和非冰川",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/73fcd2862fc7badf27c74525e04f1d572f80e3df6448050ef3d0d0d96309998d.jpg",
+        "img_caption": [
+            "图1研究区地形和采样点示意图（基于研究区SRTM $9 0 \\mathrm { ~ m ~ }$ 分辨率DEM的数据提取制作)",
+            "Fig.1DEM map of the study area and the sampling sites "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "表1 2010—2015年慕士塔格站气象观测数据",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed4dd01e4dfaddcc1dcfce64b00efdd49c87b6cc482397343f59e69d9a3ee1f9.jpg",
+        "table_caption": [
+            "Tab.1Meteorological data observed at the Muztagata Station during 2010—2015 "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td>年均气温 /C</td><td>年均降水 年均风速 年均相对 量／mm</td></tr><tr><td></td><td>m·s-1湿度/% /hPa 653.2</td></tr><tr><td>0.4 149.0 3.6 45.5</td><td>平均值</td></tr><tr><td>1.0 199.4</td><td>3.8 49.6 654.0</td></tr><tr><td>最大值 最小值 -0.8 112.8 3.4</td><td>41.6 652.4</td></tr><tr><td>标准差 0.6 31.2</td><td>0.1 2.7 0.5</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "补给径流(图1中S2)进行逐小时采样，并在8月3日11：00至8月4日10：00对冰川补给径流进行连续加密采样。观测期间共采集193个冰川补给径流样品，29个非冰川补给径流样品（间歇性有水），采样同时结合水尺和flowatch流速仪测量结果计算径流量。采集的水样储存于预先用去离子水浸泡冲洗的聚乙烯瓶中。采样时，先用待取水样清洗采样瓶3次，再装入水样密封保存,最后带回实验室进行分析测试。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "水样的 $\\mathrm { \\ p H }$ 值 $, E C , T D S$ 使用PCSTestr-35笔式多参数测试仪(美国优特)于现场直接测定，主要阳离子 $\\mathrm { C a } ^ { 2 + } \\ 、 \\mathrm { K } ^ { + } \\ 、 \\mathrm { N a } ^ { + } \\ 、 \\mathrm { M g } ^ { 2 + }$ 使用ICP-OES 等离子体发射光谱仪(德国斯派克)测量，主要阴离子 $\\mathrm { C l } ^ { - }$ 、$\\mathrm { N O } _ { 3 } ^ { - } \\ 、 \\mathrm { S O } _ { 4 } ^ { 2 - }$ 使用ICS-900 离子色谱仪(美国戴安）测量。 $\\mathrm { H C O } _ { 3 } ^ { - }$ 与 $\\mathrm { C O } _ { 3 } ^ { 2 - }$ 浓度通过阴阳离子电荷平衡法利用公式(1）、(2)估算得出[26-27]：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { \\ p H = - \\ l g [ H ^ { + } ] }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { [ \\mathrm { \\bf ~ H } ^ { + } \\mathrm { \\bf ~ ] } [ \\mathrm { \\bf ~ C O } _ { 3 } ^ { 2 - } \\mathrm { \\bf ~ ] } } { [ \\mathrm { \\bf ~ H C O } _ { 3 } ^ { - } \\mathrm { \\bf ~ ] } } = 1 0 ^ { - 1 0 . 3 3 }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $\\mathrm { \\ p H }$ 为实测值; $\\left[ \\mathrm { H } ^ { + } \\right]$ 为氢离子浓度； $\\mathrm { C O } _ { 3 } ^ { 2 - } \\coprod$ 为碳酸根浓度； $\\mathrm { H C O } _ { 3 } ^ { - }$ ]为碳酸氢根浓度。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "通过SPSS方差分析判断水体间差异的显著性，利用相关性分析法和主成分分析法计算各离子的相互关系及基本分类，判断并分析水体离子来源及影响因素[28]。使用正演模型量化河水溶质中各种输入来源的贡献比例研究化学风化速率和控制因子之间的关系[29]。在正演模型中,认为径流中溶质主要来源于大气输入、碳酸盐风化、硅酸盐风化和蒸发岩溶解，对于任意元素 $X$ 可以表示为：",
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "text": "$$\nX _ { r w } = X _ { a t m } + X _ { c a r b } + X _ { s i l } + X _ { e v a }\n$$",
+        "text_format": "latex",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "式中： $r w$ 为径流; $a t m$ 为大气输入;carb为碳酸盐风 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "化； $s i l$ 为硅酸盐风化;eva为蒸发岩溶解。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2结果与讨论",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1卡尔塔马克冰川补给径流与非冰川补给径流水化学特征对比分析",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "冰川补给径流和非冰川补给径流的水化学参数统计结果如表2所示，冰川补给径流和非冰川补给径流的 $\\mathrm { \\ p H }$ 值 $\\mathbf { \\nabla } _ { E C }$ 和TDS浓度分别为 $9 . 1 0 \\pm 0 . 3 4$ /$6 4 \\pm 2 1 \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 } \\cdot 3 2 \\pm 1 0 \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 和 $9 . 3 0 \\pm 0 . 1 1$ 、$3 3 4 \\pm 5 5 ~ \\mu \\mathrm { S } \\cdot \\mathrm { c m } ^ { - 1 } \\setminus 1 6 9 \\pm 2 7 ~ \\mathrm { m g } \\cdot \\mathrm { L } ^ { - 1 }$ 。统计结果表明，冰川补给径流和非冰川补给径流的 $\\mathrm { \\ p H }$ 值、 $E C$ 和 TDS 均存在显著差异 $( p < 0 . 0 5 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表3为两种径流水体主要离子浓度对比。可知，总体上非冰川补给径流主要离子浓度的平均值普遍高于冰川补给径流主要离子浓度平均值。其可能原因为非冰川补给径流流速较缓慢（观测期间非冰川补给径流平均流速为 $0 . 0 9 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ )，同时段冰川补给径流平均流速为 $0 . 7 0 \\mathrm { ~ m ~ } \\cdot \\mathrm { ~ s ~ } ^ { - 1 }$ ,水岩相互作用时间长，可溶盐溶解充分，故非冰川补给径流离子浓度更高[30]。此外,两种水体优势阴阳离子所占比例不同， $\\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\\mathrm { C a } ^ { 2 + }$ 在冰川补给径流中分别为$8 1 . 3 8 \\%$ 和 $8 1 . 0 1 \\%$ ，而在非冰川补给径流分别为$6 2 . 5 6 \\%$ 和 $6 3 . 9 6 \\%$ 。统计分析结果表明，冰川补给径流和非冰川补给径流各主要离子浓度间均存在极显著差异 $( p < 0 . 0 1 )$ 。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "利用独立样本 $\\mathbf { \\chi } _ { t }$ 检验将研究区冰川补给径流与中国西部其它典型冰川补给径流的主要离子浓度的平均值[29]进行对比可知，除了海螺沟冰川补给径流的 $\\mathrm { C a } ^ { 2 + }$ 以及老虎沟12号冰川补给径流的 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 之外，总体上卡尔塔马克冰川补给径流的主要离子浓",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "表2两种径流水体的pH值、电导率和TDS对比",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b4e68164e0f949bf93da7e014f9997dde362cc7f691a83f7548bbf79511a4d78.jpg",
+        "table_caption": [
+            "Tab.2Comparison of pH,EC and TDS of the two "
+        ],
+        "table_footnote": [
+            "注：不同小写字母表示数据间具有显著差异( $_ { p < 0 . 0 5 ) }$ "
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"4\">typesofrunoffwater</td></tr><tr><td>水体类型</td><td>pH值</td><td>EC /μS·cm-1</td><td>TDS /mg·L-1</td></tr><tr><td>卡尔塔马克冰</td><td>平均值 9.10 b</td><td>64b</td><td>32b</td></tr><tr><td>川补给径流</td><td>最大值 10.42</td><td>95</td><td>48</td></tr><tr><td rowspan=\"6\">非冰川补 给径流</td><td>最小值</td><td>8.52</td><td>30 15</td></tr><tr><td>标准差 0.34</td><td>21</td><td>10</td></tr><tr><td>平均值 9.30 a</td><td>334 a</td><td>169 a</td></tr><tr><td>最大值</td><td>9.62 408</td><td>204</td></tr><tr><td>最小值 9.18</td><td>245</td><td>122</td></tr><tr><td>标准差 0.11</td><td>55</td><td>27</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/deb105d5c1fb920e6537bdd39b98c3e9abde05cb172b0716ae508a14e1b04b07.jpg",
+        "table_caption": [
+            "表3卡尔塔马克冰川补给径流与非冰川补给径流之间及其它区域冰川补给径流主要离子浓度对比 $/ \\mathbf { m g } \\cdot \\mathbf { L } ^ { - 1 }$ （204号 Tab.3Comparisons of mean concentrations of major ions between Katalmark glacier runof and the non-glacier runoff as well as other glacier runoffs $/ \\mathbf { m g } \\cdot \\mathbf { L } ^ { - 1 }$ （20号 "
+        ],
+        "table_footnote": [
+            "注：不同大写字母表示数据间具有极显著差异( $_ { . p < 0 . 0 1 }$ ）"
+        ],
+        "table_body": "<html><body><table><tr><td colspan=\"2\">水体类型</td><td>Ca²+</td><td>Mg²+</td><td>K +</td><td>Na +</td><td>Cl-</td><td>NO3</td><td>SO-</td><td>HCO3</td></tr><tr><td rowspan=\"2\">慕士塔格山卡尔塔马克冰川补给径流</td><td>平均值</td><td>12.41B</td><td>0.71B</td><td>0.94B</td><td>0.82B</td><td>0.57B</td><td>0.92B</td><td>6.33B</td><td>34.17B</td></tr><tr><td>最大值</td><td>18.71</td><td>1.35</td><td>1.87</td><td>1.40</td><td>1.01</td><td>1.47</td><td>12.63</td><td>52.01</td></tr><tr><td rowspan=\"6\"></td><td>最小值</td><td>2.81</td><td>0.12</td><td>0.23</td><td>0.20</td><td>0.29</td><td>0.44</td><td>1.36</td><td>5.23</td></tr><tr><td>标准差</td><td>4.18</td><td>0.28</td><td>0.27</td><td>0.32</td><td>0.17</td><td>0.24</td><td>3.14</td><td>11. 17</td></tr><tr><td>平均值</td><td>58.47A</td><td>11.63A</td><td>6.81A</td><td>14.51A</td><td>22.52A</td><td>3.54A</td><td>68.22A</td><td>153.22A</td></tr><tr><td>最大值</td><td>70.14</td><td>14.75</td><td>8.72</td><td>20.06</td><td>31.12</td><td>4.43</td><td>85.97</td><td>186.07</td></tr><tr><td>最小值</td><td>43.18</td><td>7.01</td><td>4.88</td><td>6.70</td><td>9.54</td><td>3.08</td><td>44.06</td><td>110.20</td></tr><tr><td>标准差</td><td>8.15</td><td>2.57</td><td>1.13</td><td>4.55</td><td>7.22</td><td>0.39</td><td>14.08</td><td>23.00</td></tr><tr><td>祁连山老虎沟12号冰川补给径流[31]</td><td>平均值</td><td>9.73</td><td>2.78</td><td>0.69</td><td>0.98</td><td>1.02</td><td>0.56</td><td>6.01</td><td>36.47</td></tr><tr><td>贡嘎山东坡海螺沟冰川补给径流[31]</td><td>平均值</td><td>12.21</td><td>0.82</td><td>4.56</td><td>0.95</td><td>0.49</td><td>0.33</td><td>16.76</td><td>27.77</td></tr><tr><td>天山科其喀尔巴西冰川补给径流[31]</td><td>平均值</td><td>7.20</td><td>0.83</td><td>1.82</td><td>1.96</td><td>2.04</td><td>0.53</td><td>8.45</td><td>18.90</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "度与其它三个冰川补给径流的离子浓度均值存在极显著差异( $_ { . p < 0 . 0 1 ) }$ ，这与不同研究区的岩性不同有关[24,31] ○",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图2为冰川补给径流和非冰川补给径流主要离子浓度Piper图。可知，两种径流的阳离子均主要在 $\\mathrm { C a } ^ { 2 + }$ 端元,阴离子均主要在 $\\mathrm { H C O } _ { 3 } ^ { - }$ 和 $\\mathrm { S O } _ { 4 } ^ { 2 - }$ 端元，水化学类型均为 $\\mathrm { C a } ^ { 2 + } \\mathrm { ~ - ~ } \\mathrm { S O } _ { 4 } ^ { 2 - } \\mathrm { ~ - ~ } \\mathrm { H C O } _ { 3 } ^ { - }$ ,其优势阴阳离子与祁连山老虎沟12 号冰川、贡嘎山东坡海螺沟径流和天山科其喀尔巴西冰川补给径流的主要水化学类型相同[31]",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "对冰川补给径流和非冰川补给径流的主要离子进行主成分分析，结果如表4所示，冰川补给径流只提取出一个主成分，并且所有离子的载荷值均较高，说明冰川补给径流的所有离子具有同源性；在非冰川补给径流中，提取出 $\\mathrm { N O } _ { 3 } ^ { - }$ 及其它主要离子两个主成分，表明非冰川补给径流中 $\\mathrm { N O } _ { 3 } ^ { - }$ 可能还有其它来源。王利杰等[30]对藏南卡鲁雄曲河水研究也表明$\\mathrm { N O } _ { 3 } ^ { - }$ 与其它离子来源不同,并指出 $\\mathrm { N O } _ { 3 } ^ { - }$ 可能受人类活动影响。本研究区冰川补给径流远离人类活动区，主要受自然因素影响，而非冰川补给径流周围存在住户和牧场，故可能受自然和人类活动共同影响，因此冰川补给径流离子存在1个主成分，非冰川补给径流离子存在2个主成分。",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b57a91c06071f9f679595194be8eea508ad14ffa9e8da95afe08bcdb5d404575.jpg",
+        "img_caption": [
+            "图2二种水体 Piper 图",
+            "Fig.2Piper chart about two types of water "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2卡尔塔马克冰川补给径流和非冰川补给径流离子浓度与径流的关系",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "图3为2016年8月3日11：00至8月4日10：00期间冰川补给径流 $2 4 \\mathrm { ~ h ~ }$ 加密分析结果。总体来看，主要阴阳离子和TDS浓度变化基本一致，与流量的日内变化呈相反的趋势，与冯芳等[10]在天",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "表4冰川补给径流和非冰川补给径流主成分分析",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/10757316959045c8c11c2913fe2d56cef8d515d736bf5e851c9f8da8929d9761.jpg",
+        "table_caption": [
+            "Tab.4Principal component analysis of the glacier runoff and the non-glacier runoff "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\"></td><td>冰川补给径流</td><td colspan=\"2\">非冰川补给径流</td></tr><tr><td>主成分1</td><td>主成分1</td><td>主成分2</td></tr><tr><td>Ca² +</td><td>0.97</td><td>0.90</td><td>0.16</td></tr><tr><td>Mg²+</td><td>0.98</td><td>0.99</td><td>0.03</td></tr><tr><td>K+</td><td>0.90</td><td>0.97</td><td>-0.15</td></tr><tr><td>Na +</td><td>0.96</td><td>0.98</td><td>-0.02</td></tr><tr><td>Cl-</td><td>0.87</td><td>0.97</td><td>0.04</td></tr><tr><td>NO3</td><td>0.82</td><td>-0.13</td><td>0.98</td></tr><tr><td>SO4-</td><td>0.94</td><td>0.96</td><td>-0.05</td></tr><tr><td>HCO3</td><td>0.95</td><td>0.83</td><td>0.16</td></tr></table></body></html>",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "山乌鲁木齐1号冰川补给径流的研究结果一致。当流量较小时，流速较慢，水岩相互作用充分，主要阴阳离子和TDS浓度较高；在流量增大的初期，河水水位上涨和河面拓宽使得水岩接触面积增大，大量可溶盐溶解于水中,故主要阴阳离子和TDS 浓度随之增大，达到峰值(当日17：00)；此后，当流量继续增大时，水位和河面宽度增加较小但流速增加较快，使得水岩相互作用时间缩短，同时增加的径流水体稀释了可溶盐浓度，故主要阴阳离子和TDS浓度随之降低。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "已有研究结果显示[32-34],大部分径流的可溶离",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "子和径流量呈乘幂函数关系 $C = a Q ^ { b }$   \n式中： $c$ 为离子浓度 $\\left( \\mathbf { m } \\mathbf { g } \\cdot \\mathbf { L } ^ { - 1 } \\right.$ ）； $Q$ 为径流量( $\\mathbf { m } ^ { 3 }$ ：$\\mathrm { ~ s ~ } ^ { - 1 }$ ）； $\\textit { a } , \\textit { b }$ 为拟合参数,其中参数 $b$ 反映河流离子浓度与径流量的变化速率。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "对两种径流主要离子浓度和径流量进行相关性分析，结果如表5，除非冰川补给径流的 $\\mathrm { N O } _ { 3 } ^ { - }$ 外，两种水体的主要离子浓度与径流量均呈负幂函数关系（图4和图5）。二者相比，冰川补给径流参数 $\\textit { b }$ 绝对值相对较高，说明冰川补给径流中的离子受径流影响较大，这与冰川补给径流水体与冰川和冰前岩体接触时间相对较长有关。",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff160f59c8bb493f9653f604c6a679651c93864d4727191f1c94c8f00391de9e.jpg",
+        "img_caption": [
+            "图3冰川补给径流24小时加密观测结果",
+            "Fig.3Results of 24-hour observations on the glacier runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "表5冰川补给径流和非冰川补给径流主要离子浓度与径流量之间的相关性",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0af3eb97382dc4472d3219a965f90cbcec0e940bf2c523bda7e5db17b02604b1.jpg",
+        "table_caption": [
+            "on of the concentration of major ions and the discharge of the glacier runoff and the non-glacier runo "
+        ],
+        "table_footnote": [
+            "注：\\*\\*在0.01水平(双侧)上显著相关 "
+        ],
+        "table_body": "<html><body><table><tr><td></td><td></td><td>Ca²+</td><td>Mg²+</td><td>K+</td><td>Na+</td><td>Cl-</td><td>NO3</td><td>s0-</td><td>HCO3</td></tr><tr><td>冰川补给径流</td><td>Q</td><td>-0.78**</td><td>-0.71**</td><td>-0.56**</td><td>-0.66**</td><td>-0.68**</td><td>-0.61**</td><td>-0.76**</td><td>-0.74**</td></tr><tr><td>非冰川补给径流</td><td>Q</td><td>-0.71**</td><td>-0.92**</td><td>-0.83**</td><td>-0.90**</td><td>-0.92**</td><td>-0.08</td><td>-0.82**</td><td>-0.67**</td></tr></table></body></html>",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f107873d1fff193f873c36026a0bdb82c3a1a2530e1b50ac5e1c736e3ed86ef3.jpg",
+        "img_caption": [
+            "图4冰川补给径流主要离子浓度和径流量之间的关系",
+            "Fig.4Relationship of the concentration of major ions and discharge in the glacier runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c59710a5f1287dad3f24e88f85f24c6d4663f275cf32add269775023a7a3b219.jpg",
+        "img_caption": [
+            "图5非冰川补给径流主要离子浓度和径流量之间关系",
+            "Fig.5Relationship of the concentration of major ions and discharge in the non-glacier runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2.3卡尔塔马克冰川补给径流与非冰川补给径流水化学特征主控因素分析",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "图6为两种径流的离子浓度Gibbs图。可知，冰川补给径流受岩石风化和降水的共同影响，非冰川补给径流从离子比例上看主要受岩石风化影响，但与其它岩石风化主导水体相比，其TDS偏低，说明非冰川补给径流中还有部分离子来源于降水[35 -36]。径流中不同离子浓度的对比可以反映不同岩石风化对径流中离子浓度的影响[37-38],根据冰川补给径流和非冰川补给径流中的离子浓度计算（ $\\mathrm { C a } ^ { 2 + } / \\mathrm { N a } ^ { + }$ ， $\\mathrm { ^ { \\prime } H C O _ { 3 } ^ { - } } / \\mathrm { \\ N a } ^ { + }$ ），( $\\mathrm { M g ^ { 2 + } / \\Omega N a ^ { + } }$ )，结果如图7所示，可知冰川补给径流和非冰川补给径流的样品点主要落在碳酸盐风化区域，表明冰川补给径流和非冰川补给径流中离子浓度均主要受碳酸盐风化影响。",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "正演模型计算的离子各控制端源的平均贡献率百分比如表6。在冰川补给径流中，碳酸盐风化的贡献占主要支配地位，蒸发岩溶解占次要地位；在非冰川补给径流中，碳酸盐风化也占主要支配地位，而硅酸盐风化占次要地位。分析其可能原因为硅酸盐风化相比于蒸发岩溶解更难进行，冰川补给径流中水岩相互作用时间较短，故在冰川补给径流中硅酸盐风化贡献率较低；而在非冰川补给径流中经过充分的水岩相互作用，硅酸盐风化贡献率较高。",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/02de773822676b4a91e1198a3b688597131131ef4871d2ac45148ebb54568b8d.jpg",
+        "img_caption": [
+            "图6研究区冰川补给径流和非冰川补给径流二种水体Gibbs 图"
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/c62381569d082929359528132e59c80b04f5ff7541e42958a116c28a14e4546b.jpg",
+        "img_caption": [
+            "Fig.6Gibb chart of the glacier runof and the non-glacier runoff in the study area ",
+            "图7冰川补给径流和非冰川补给径流中相对于 $\\mathrm { { N a } ^ { + } }$ 的摩尔比值的混合图",
+            "Fig.7Mixing diagrams using $\\mathrm { { N a } ^ { + } }$ - normalized molar ratios of the glacier runoff and the non-glacier runoff "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "表6冰川补给径流和非冰川补给径流离子各控制端源贡献率",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/0acea550da9b74d9caa5baf854939bd150d4b935128d24ebe871cdeff7746a0e.jpg",
+        "table_caption": [
+            "Tab.6Contribution rate of each control source of the glacier runoff and the non-glacier runoff "
+        ],
+        "table_footnote": [],
+        "table_body": "<html><body><table><tr><td></td><td>大气 输入</td><td>硅酸盐 风化</td><td>碳酸盐 风化</td><td>蒸发岩 溶解</td></tr><tr><td>冰川补给径流／%</td><td>10.5</td><td>0.6</td><td>65.6</td><td>23.4</td></tr><tr><td>非冰川补给径流／%</td><td>1.5</td><td>19.6</td><td>60.4</td><td>18.5</td></tr></table></body></html>",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3结论",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "本文通过对慕士塔格山卡尔塔马克冰川补给径流和非冰川补给径流的水化学特征进行采样分析，得到以下主要结论：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "（1）冰川补给径流和非冰川补给径流的水化学类型皆为 $\\mathrm { C a } ^ { 2 + } \\ - \\ \\mathrm { S O } _ { 4 } ^ { 2 - } \\ - \\ \\mathrm { H C O } _ { 3 } ^ { - }$ ,但二者的水化学参数和主要离子间均存在显著差异。（2）冰川补给径流和非冰川补给径流离子均主要受水岩相互作用影响，但非冰川补给径流还可能受到人为因素的影响。(3）对于冰川补给径流，碳酸盐风化对融水中离子浓度的贡献占主要支配地位，蒸发岩溶解占次要地位；对于非冰川补给径流，碳酸盐风化的贡献亦占主要支配地位，而硅酸盐风化占次要地位。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "参考文献（References)",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "[1］王晓艳,李忠勤,周平,等.天山哈密榆树沟流域春洪期水化学 特征及其控制因素研究[J].干旱区地理，2014，37（5)：922- 930.［WANG Xiaoyan,LI Zhongqin,ZHOU Ping,et al.River water chemical characteristics and controls during the spring flood period in Yushugou Basin,Hami,Eastern Tianshan Mountains,China[J]. AridLand Geography，2014,37(5)：922-930.]   \n[2]朱海勇，陈永金,刘加珍，等.塔里木河中下游地下水化学及其 演变特征分析[J].干旱区地理，2013,36（1):8-18.［ZHU Haiyong,CHEN Yongjin,LIU Jiazhen,et al.Variation and evolution of groundwater chemistry in the middle and lower reaches of the Tarim River[J].Arid Land Geography,2013,36(1）:8-18.]   \n[3]郜银梁,陈军锋,张成才,等.黑河中游灌区水化学空间变异特 征[J].干旱区地理,2011,34(4):575-583.[GAO Yinliang, CHEN Junfeng,Zhang Chencai,et al.Hydrochemical characteristics of the irrigation area in the middle reaches of the Heihe River Basin[J].Arid Land Geography,2011,34(4）:575 -583.]   \n[4］年福华,李新.中国干旱区地理水文研究概述[J].干旱区地 理,2000,23(1）:91-95.[NIAN Fuhua,LI Xin.A comprehensive review of the research on hydrography in arid lands in China [J].Arid Land Geography,2000,23(1）:91 -95.]   \n[5]BROWN G H. Glacier meltwater hydrochemistry[J].Applied Geochemistry,2002,17(7） :855 -883.   \n[6] HODSON A,PORTER P,LOWE A,et al. Chemical denudation and silicate weathering in Himalayan glacier basins:Batura Glacier,Pakistan[J]. Journal of Hydrology,2002,262(1）:193-208.   \n[7]PRESTRUD ANDERSON S,DREVER JI, HUMPHREY N F. Chemical weathering in glacial environments[J]. Geology,1997, 25(5) :399.   \n[8]SINGH A K,HASNAIN S I. Aspects of weathering and solute acquisition processes controlling chemistry of sub-alpine proglacial streams of Garhwal Himalaya,India[J].Hydrological Processes, 2002,16(16) :835 -849.   \n[9]SHARP M,TRANTER M,BROWN G H,et al. Rates of chemical denudation and CO drawdown in a glacier-covered alpine catchment[J].Ugeskr Laeger,1995,141(29）:2007 -2009.   \n[10］冯芳,冯起,刘贤德,等.天山乌鲁木齐河源1号冰川融水径流 水化学特征研究[J].冰川冻土,2014,36（1)：183－191. [FENG Fang,FENGQi,LIU Xiande,etal.A study of hydrochemical characteristics of meltwater runof of the Uruimqi No.1 glacier, Tianshan Mountain[J].Journalof Glaciology&Geocryology， 2014,36(1) :183 -191.]   \n[11］施雅风.2050 年前气候变暖冰川萎缩对水资源影响情景预估 [J].冰川冻土,2001,23（4）:333-341.[SHI Yafeng.Estimation of the water resources affected by climatic warming and glacier shrinkage before205O[J]．Journal of Glaciolgy& Geocryology， 2001,23(4) :333 -341.]   \n[12］沈永平,苏宏超,王国亚,等.新疆冰川、积雪对气候变化的响 应(I)：水文效应[J].冰川冻土,2013,35（3)：513－527. [SHEN Yongping,SU Hongchao,WANG Guoya,et al. The responses of glaciers and snow cover to climate change in Xinjiang（I）： hydrological effects[J].Journalof Glaciology& Geocryology, 2013,35(3): 513 -527.]   \n[13］毛炜峰,樊静,沈永平,等.近50a来新疆区域与天山典型流域 极端洪水变化特征及其对气候变化的响应［J].冰川冻土， 2012,34(5):1037-1046.[MAO Weiyi,FAN Jing,SHEN Yongping,et al.Variations of extreme flood ofthe rivers in Xinjiang region and some typical watersheds from Tianshan Mountain and their response to climate change in recent 5O years[J]. Journal of Glaciology& Geocryology,2012,34（5）:1037-1046.]   \n[14］李忠勤,李开明,王林.新疆冰川近期变化及其对水资源的影 响研究［J].第四纪研究,2010,30（1）:96-106.[LI Zhongqin, LI Kaiming,Wang Lin. Study on recent glacier changes and their impact on water resources in Xinjiang [J]. Quaternary Sciences, 2010,30(1) :96-106.]   \n[15]YDE JC,RIGERKUSK M,CHRISTIANSEN HH,et al. Hydrochemical characteristics of bulk meltwater from an entire ablation season,Longyearbreen,Svalbard[J].Journal of Glaciology,2008, 54(185):259 -272.   \n[16]LIUF,WILLIAMS M,CHENG G,et al. Hydrochemical process of snowmelt and stream water in Urumqi River,Tianshan Mountains [J].Journal of Glaciolgy& Geocryology,199.   \n[17] STUMPF AR,MADDEN M E E,SOREGHAN G S,et al. Glacier meltwater stream chemistry in Wright and Taylor Valleys,Antarctica:Significant roles of drift,dust and biological processes in chemical weathering in a polar climate[J]. Chemical Geology,2012,322 -323:79 -90.   \n[18]PRIYA N,THAYYEN R J,RAMANATHAN A L,et al. Hydrochemistry and dissolved solute load of meltwater in a catchment of a cold-arid trans-Himalayan region of Ladakh over an entire melting period[J]. Hydrology Research,2016,66(1）:111-125.   \n[19］武小波,李全莲,宋高举,等.祁连山七一冰川融水化学组成及 演化特征[J].环境科学,2008,29（3）：613-618.[WU Xiaobo,LI Quanlian,SONG Gaoju,et al. Hydrochemical characteristics and evolution of runoff at Qiyi Qlacier,Qilian Mountain[J].Environment Science,2008,29(3）:613-618.]   \n[20］赵爱芳.天山托木尔峰青冰滩72号冰川径流水化学特征研究 [D].兰州:西北师范大学,2013.[ZHAO Aifang.Hydrochemical characteristics in the glacier No.72 of Qingbingtan,Tomur Peak, Tianshan Mountain[J].Lanzhou; Northwest Normal University, 2013.]   \n[21］赵华标,姚檀栋,徐柏青.慕士塔格卡尔塔马克冰川作用区的 水文与水化学特征[J].冰川冻土,2006，28（2）:269－275. [ZHAO Huabiao,YAO Tandong,XU Baiqing. Hydrological and hydrochemical features of the Kartamak glacier area in Muztag Ata [J].Journal of Glaciology & Geocryology,2006,28（2）:269- 275.]   \n[22］施雅风.中国冰川与环境:现在、过去和未来[M].北京：科学 出版社,2Ooo.[SHI Yafeng.Glacier and environment in China: Present,past and future[M].Beijing:Science Press,2000.]   \n[23］苏珍,刘时银,王志超.慕士塔格山和公格尔山的现代冰川 [J].自然资源学报,1989,16（3）:241-246.[SU Zhen,LIU Shiyin,WANG Zhichao.Modern glaciers of MT.Muztag and MT. Kongur[J]. Journal of Natural Resources,1989,16（3）:241 - 246.]   \n[24］康磊,校培喜,高晓峰,等.西昆仑慕士塔格岩体的岩石地球化 学特征、岩石成因及其构造意义[J].地质通报,2012,31（12）： 2001 -2014.[KANG Lei,XIAO Peixi,GAO Xiaofeng,et al. Geochemical characteristics and petrogenesis of Muztagata intrusion in wester Kunlun orogenic belt and their tectonic significance[J]. Geological Bulletin of China,2012,31（12）:2001-2014.]   \n[25］何晓波,丁永建,刘时银,等.慕士塔格卡尔塔马克冰川水文观 测与特征分析[J].冰川冻土,2005,27(2）:262-268.[HE Xiaobo,DING Yongjian,LIU Shiyin,et al.Obsevationand analyssof hydrological process of the Kaltamak glacier in Muztag Ata[J]. Journal of Glaciology& Geocryology,2005,27（2）:262-268.]   \n[26］王苏民.中国湖泊志［M].北京:科学出版社,1998.［WANG Sumin.Chinese Lakes[M].Beijing,Science Press,1998.]   \n[27］李皎,李明慧,方小敏,等.柯鲁克湖水化学特征分析[J].干旱 区地理,2015,38（1）:43-51.[LIJiao，LI Minghui,FANG Xiaomin,et al.Hydrochemical characteristics of the Hurleg Lake[J]. Arid Land Geography,2015,38（1）:43-51.]   \n[28］魏凤英.现代气候统计诊断与预测技术［M].北京：气象出版 社,2007.[WEI Fengying.Statistical diagnosisand prediction technology of modern climate[M]. Beijing: Weather Press,2007.]   \n[29] GARRELS R M. Genesis of some ground waters from igneous rocks [J].Researches in Geochemistry,1967,2.   \n[30］王利杰,曾辰,王冠星,等.西藏山南地区沉错湖泊与径流水化 学特征及主控因素初探[J].干旱区地理,2017,40(4）：737- 745.[ WANG Lijie,ZENG Chen,WANG Guanxing,et al. Chemical characteristics and impact factors of the Drem-tso Lake and supplying runoff in the southern Tibet[J].Arid Land Geography,2017, 40(4) :737 -745.]   \n[31］李向应.中国西部典型冰川区冰川融水的水文化学特征研究 [D].兰州：中国科学院寒区旱区环境与工程研究所,2009.[ LI Xiangying.Studyon hydro-culturology characteristics of glacial meltwater in typical glacier area in western China[D].Lanzhou: Northwest Institute of Eco-Environment and Resources，CAS, 2009.]   \n[32]GISLASON S R,OELKERS E H,EIRIKSDOTTIR E S,et al. Direct evidence of the feedback between climate and weathering[J]. Earth& Planetary Science Letters,2009,277(1）:213-222.   \n[33]ANDERSON S P. Glaciers show direct linkage between erosion rate and chemical weathering fluxes[J].Geomorphology,20o5,67（1）： 147 - 157.   \n[34]MAY X,HUANGHQ,XUJX,et al.Variability of efective discharge for suspended sediment transport in a large semi-arid river basin[J]. Journal of Hydrology,2010,388(3）:357 -369.   \n[35］吕婕梅,安艳玲,吴起鑫,等.贵州清水江流域丰水期水化学特 征及离子来源分析[J].环境科学,2015,36(5）：1565－1572. [LVJiemei,ANYanlin,WUQixin,etal.Hydrochemical characteristics and sources of Qingshuijiang River Basin at wet season in Guizhou Province[J].Environmental Science,2015,36(5）:1565 -1572.]   \n[36］高坛光,康世昌,张强弓,等.青藏高原纳木错流域河水主要离 子化学特征及来源[J].环境科学,2008,29（11）:3009 -3016. [GAO Tanguang,KANG Shichang,ZHANG Qianggong,et al. Major ionic features and their sources in the Namco Basin over the Tibetan Plateau[J].Environmental Science,2008,29（11）:3009 - 3016.]   \n[37] NEGREL P,ALLEGRE C J,DUPRE B,et al. Erosion sources determined by inversion of major and trace element ratios and strontium isotopic ratios in river water:The Congo Basin case[J].Earth & Planetary Science Letters,1993,120(1-2）:59 -76.   \n[38]GAILLARDET J,DUPRE B,ALLEGRE C J,et al. Chemical and physical denudation in the Amazon River Basin[J].Chemical Geology,1997,142(3-4) :141 -173. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hydrochemical characteristics and controlling factors of the glacierized and non-glacier runoff in the Kaltamac Glacier area of Muztagata Mountain ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "YAN Chong-yu $^ { 1 , 2 , 4 }$ ，ZENG Chen1,²，SHI Xiao-nan12，WANG Guan-xing12,4，ZHANG Fan12.3 (1KeyLaboratoryofTibetanEnvironmentalChangesndLandSurfaceProcesss,IstituteofibetanPlateauResearch,hinee Academyofiencs,eijingOoo,hna；2KeyboratoryoflpineEcologyndodiversitystituteofibeantea Research,ChineseAcademyofScience,Beijing0ooChina；3CASCenterforExcelenceinTibetanPlateau EarthScience， Beijing 10o101,China；4University of Chinese Academy of Sciences,Beijing 100049,China) ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Abstract：Water samplesof the Kaltamac glacier runoffand the non-glacier runoff werecollected during July to August in 2O16,meanwhile,statistically analysis,principle component analysis,Piper figure,Gibbs figureand forward model were conducted thereafter to analyze the hydrochemistry characteristicsand identify the major ion sources ofthe two runoff water samples.Results showed thatthe two typesof waterare both alkaline,and the hydrochemical types included $\\mathrm { C a } ^ { 2 + } \\mathrm { ~ - ~ } \\mathrm { H C O } _ { 3 } ^ { - } \\mathrm { ~ - ~ } \\mathrm { S O } _ { 4 } ^ { 2 - }$ . However, $\\mathrm { p H } , E C , T D S$ and major ions of the two water samples showed significant differences that the non-glacier runof always showed higher values than the glacier runoff.All the ions showed similar source in glacier runoff while $\\mathrm { N O } _ { 3 } ^ { - }$ showed different source in the non-glacier runoff compared to other ions.Result of forward model showed that the contribution of atmospheric input,silicate weathering,carbonate weathering,and evaporite dissolution totheion concentrations of theglacierand the non-glacierrunoff were $1 0 . 4 7 \\%$ ， $0 . 5 5 \\%$ ， $6 5 . 6 1 \\%$ ， $2 3 . 3 7 \\%$ and $1 . 5 2 \\%$ ， $1 9 . 5 7 \\%$ ， $6 0 . 3 7 \\%$ ， $1 8 . 5 4 \\%$ ,respectively. It can be seen that theionconcentrationsof the glacier runoff was mainly affctedbycarbonate weathering,folowed bythedissolution of evaporite；the ionconcentrations of the non-glacier runoff was mainly affected bycarbonate weathering,followed bythe silicate weathering.Thereason for the diferenceis that silicate weathering was more difficult to proceed than evaporitedissolution.The water-rock interaction timeof the glacier runoffwas shorter,so the contribution of silicates weathering was lower；while the water-rock interaction timeof the non-glacier runoff was longer,so that the silicate weathering contribution is higher.This studycan provide guidelines for water resource management for western regions in China. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key words：Glacierized catchment；non-glacier catchment；hydrochemical characteristics；controling factors; Muztagata ",
+        "page_idx": 10
+    }
+]

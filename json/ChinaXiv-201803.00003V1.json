@@ -1,0 +1,500 @@
+[
+    {
+        "type": "text",
+        "text": "Planting density affected biomass and grain yield of maize for seed production in an arid region of Northwest China ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JIANG Xuelian1,2, TONG Ling1\\*， KANG Shaozhong1， LI Fusheng³， LI Donghao1, QINYonghui1, SHI Rongchao1, LI Jianbing4",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Center for Agricultural Water Research in China, China Agricultural University,Beijing 10oo83, China;   \n2 KeyLaboratoryof BiochemistryandMolecular Biologyin Universitiesof Shandong,Weifang University,Weifang61061, China;   \n3 College of Agriculture, Guangxi University, Nanning 53ooo5, China;   \n4EnvironmentalScienceandEngineringProgram,Universityof Northern British Columbia,PrinceGeorgeBC V2N4Z9 Canada ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract: Field experiments were conducted from 2012 to 2015 in an arid region of Northwest China to investigate the effects of planting density on plant growth,yield,and water use effciency(WUE)of maize for seed production. Five planting densities of 6.75, 8.25, 9.75,11.25 and 12.75 plants/ $\\mathrm { i n } ^ { 2 }$ were conducted in 2012, and a planting density of 14.25 plants/ $\\mathrm { i n } ^ { 2 }$ was added from 2013 to 2015. Through comparison with the AquaCrop yield model,a modified model was developed to estimate the biomass accumulation and yield under different planting densities using adjustment coeficient for normalized biomass water productivity and harvest index. It was found that the modified yield model had a beter performance and could generate results with higher determination coefcient and lower error. The results indicated that higher planting density increased the leaf area index and biomass accumulation, but decreased the biomass accumulation per plant. The total yield increased rapidly as planting density increased to 11.25 plants/ $\\mathbf { \\chi } _ { \\mathrm { m } ^ { 2 } } ^ { \\prime }$ ,but only a slight increase was observed when the density was greater than $1 1 . 2 5 \\ \\mathrm { p l a n t s } / \\mathrm { m } ^ { 2 }$ .The WUE also reached the maximum when planting density was 11.25 plants/ $\\mathrm { i n } ^ { 2 }$ ， which was the recommended planting density of maize for seed production in Northwest China. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: planting density; yield model; biomass accumulation; grain yield; water use eficiency; Northwest China ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Planting density is one of the most important agronomic factors affecting crop grain yield and water use efficiency (WUE). An increased planting density usually improves the seasonal interception of solar radiation (Harper et al., 1979; Papadopoulos and Pararajasingham, 1997; Westgate et al., 1997) that leads to increased canopy photosynthesis and biomass accumulation (Loomis and Connor, 1992; Coeto et al., 2013), and thus a higher grain yield and water productivity would be reached (Lang et al., 1956; Holt and Timmons,1968; Fulton, 1970; Qiu et al.,2013). However, the grain yield tends to decline when planting density is above a certain level (Mohamed,1999; Griesh and Yakout, 2Oo1) because of limited supply of carbon and nitrogen under intense interplant competition for intercepted radiation, soil nutrient and water. This would also increase the barrenness and decrease the kernel number (Lemcoff and Loomis, 1986). Consequently, an optimal planting density exists for maximizing the utilization of available resources and achieving the maximum yield per unit area by coordinating crop population and individual development. For example, a few studies have reported that maize grain yield and WUE increased with planting density when it was below an optimum level (Lang et al., 1956; Holt and Timmons, 1968; Westgate et al.,1997). The optimal planting density of maize varies depending on maize varieties and microclimate conditions. Olson and Sanders (1988) noted that the optimal maize planting density ranged from 3.00 to over 9.00 plants $/ \\mathrm { m } ^ { 2 }$ . Under the surface irrigation conditions, the optimal planting density was found from 5.00 to 5.60 plants $\\mathrm { \\Delta } m ^ { 2 }$ in Egypt (Mohamed, 1999; Griesh and Yakout, 2001), while El-Hendawy et al. (2008) observed an optimal planting density of 7.10 plants $/ \\mathrm { m } ^ { 2 }$ under full irrigation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In recent years, the planting area of maize has increased rapidly in China, while the demand for maize seeds has also significantly increased. Particularly, in the arid region of Northwest China, the natural isolation conditions, abundant resources of light and heat are quite suitable for maize for seed production. As a result, the maize for seed production has become the main irrigated crop in this region with a rapidly increased planting area. As diferent from hybrid maize, the maize for seed production includes the female and male parents of short inbred lines without heterosis. A variety of studies have been conducted to examine the effects of planting density on the yield of common maize (Fulton,1970; Mohamed,1999; Griesh and Yakout,2001; El-Hendawy et al.,2008) However, few studies were reported to investigate the effects of planting density on the yield and WUE of maize for seed production, especially by using yield models. The AquaCrop model developed recently by the Food and Agriculture Organization of the United Nations (FAO) assumed that the growth rate of aboveground biomass was linearly proportional to transpiration through biomass water productivity (WP), while the yield was determined by the harvest index (HI) and multiplication of the aboveground biomass (Raes et al., 2009; Steduto et al., 2009). It was found that HI increased as the increase of planting densities but started to decline after the optimal planting density achieved (DeLougherty and Crookston， 1979; Rahmati， 2009). To obtain a conservative estimation for a given crop, we should normalize WP for climate by taking into account the ratio of transpiration to reference crop evapotranspiration (Stedutoet al., 2O09). For example, the normalized biomass water productivity $( \\mathrm { W P ^ { * } } )$ was found to be about 30 to $3 5 ~ \\mathrm { g } / \\mathrm { m } ^ { 2 }$ for $\\mathrm { C } _ { 4 }$ crops (Raes et al., 2O11). However, it is unclear whether $\\mathbf { W P ^ { * } }$ and HI in the AquaCrop yield model can be taken as constants under different planting densities of maize for seed production, and this needs further investigation. The objectives of this study were then (1) to investigate the effects of planting density on plant growth, yield and WUE of maize for seed production; (2) to modify $\\mathbf { W P ^ { * } }$ and HI in the AquaCrop yield model and improve the estimated accuracy under different planting densities; and (3) to determine the recommended planting density of maize for seed production in the arid region of Northwest China. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Materials and methods ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Experimental site ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiments were conducted during the growing seasons from 2012 to 2015 at Shiyanghe Experimental Station of China Agricultural University $( 3 7 ^ { \\circ } 5 2 ^ { \\prime } \\mathrm { N }$ ， $1 0 2 ^ { \\circ } 5 0 ^ { \\prime } \\mathrm { E }$ ：： $1 5 8 1 \\mathrm { ~ m ~ }$ a.s.l.) located in Wuwei, Gansu Province, China. This station is in a typical continental temperate climate zone, with the mean annual precipitation of $1 6 4 . 4 ~ \\mathrm { m m }$ ， mean annual pan evaporation of $2 0 0 0 \\ \\mathrm { m m }$ . average groundwater table lower than $2 5 \\mathrm { ~ m ~ }$ below the ground surface, mean annual sunshine duration over $3 0 2 8 \\mathrm { h }$ ,mean frost-free days of $1 5 0 \\mathrm { d }$ , and annual mean temperature of $8 . 8 ^ { \\circ } \\mathrm { C }$ (Jiang et al., 2014). The soil texture at the experimental station was a light sandy loam with the mean soil dry bulk density of $1 . 3 8 ~ \\mathrm { g } / \\mathrm { c m } ^ { 3 }$ and field water capacity of $0 . 2 9 ~ \\mathrm { c m } ^ { 3 } / \\mathrm { c m } ^ { 3 }$ ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2Experimental design ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maize for seed production is normally planted at a planting density of 9.75-10.5 plants $/ \\mathrm { m } ^ { 2 }$ in Northwest China. In 2O12, the experiments were designed five planting densities, including 6.75, 8.25, 9.75, 11.25 and 12.75 plants $/ \\mathrm { m } ^ { 2 }$ referred as D1, D2, D3, D4 and D5, respectively. A planting density of 14.25 plants $/ \\mathrm { m } ^ { 2 }$ was added from 2013 to 2015, referred as D6. A randomized complete block design with three replicates per planting density treatment was used. The experimental plot size was in $9 . 6 \\mathrm { ~ m ~ }$ long and $6 . 0 \\mathrm { m }$ wide. Maize in all plots was sown in each one row-male parents with seven-row female parents in 2012,and with five-row female parents from 2013 to 2015. Each planting density treatment had the same row spacing of $4 0 \\ \\mathrm { c m }$ ,and thus the six different planting densities of D1, D2, D3, D4, D5 and D6 were associated with different plant spacing within row of 37, 30, 25,22, 20 and $1 8 ~ \\mathrm { c m }$ , respectively. Before sowing, all plots were fertilized with $\\mathbf { N }$ of 136 $\\mathrm { k g / h m } ^ { 2 }$ ， $\\mathrm { P } _ { 2 } \\mathrm { O } _ { 5 }$ of $2 4 0 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ and ${ \\sf K } _ { 2 } \\mathbf { O }$ of $5 0 ~ \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ as basal fertilizers.After fertilization, the soil surface in each plot was partly covered with $1 . 2 \\mathrm { ~ m ~ }$ width of film and $0 . 4 \\mathrm { ~ m ~ }$ width of bare soil between two rows. The plots were top-dressed with $\\mathrm { \\bf N }$ of $3 6 4 \\mathrm { k g } / \\mathrm { h m } ^ { 2 }$ on 10 June 2012, 5 June 2013, 8 June 2014, and 8 June 2O15, respectively. The irrigation quota was $1 0 0 ~ \\mathrm { { m m } }$ using a border irrigation method. Table 1 lists the meteorological variables, irigation and planting time of maize. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/bacde40570901f41a4c702a966f662bae08381a3c17ebbe4c8440db7f98cbea2.jpg",
+        "table_caption": [
+            "Table1Meteorological variable as wellas the planting and irigation time over the whole growth stage of maize for seed production in 2012-2015 "
+        ],
+        "table_footnote": [
+            "Note: ${ \\bf R } _ { \\mathrm { s } }$ ,solar radiation; P, precipitation; VPD, vapor pressure deficit; $\\mathrm { { T _ { a } } }$ ,air temperature; -, no data. "
+        ],
+        "table_body": "<html><body><table><tr><td rowspan=\"2\">Year</td><td colspan=\"4\">Meteorological variable</td><td colspan=\"2\">Planting and irrigation time</td></tr><tr><td>Rs</td><td>P</td><td>VPD</td><td>Ta (℃)</td><td>Planting</td><td> Irrigation</td></tr><tr><td>2012</td><td>(W/m²) 265.38</td><td>(mm) 129.40</td><td>(kPa) 1.23</td><td>19.02</td><td>16 Apr (Female)</td><td>6 Jun</td></tr><tr><td rowspan=\"6\"></td><td rowspan=\"6\">208.73</td><td rowspan=\"6\"></td><td rowspan=\"6\"></td><td rowspan=\"6\">19.29</td><td>23 Apr (Male)</td><td>26 Jun</td></tr><tr><td>26 Apr (Male)</td><td>13 Jul</td></tr><tr><td>一</td><td>8 Aug</td></tr><tr><td></td><td>27 Aug</td></tr><tr><td>13 Apr (Female)</td><td>6 Jun</td></tr><tr><td>20 Apr (Male)</td><td>26 Jun</td></tr><tr><td rowspan=\"5\">2014</td><td rowspan=\"5\">222.06</td><td rowspan=\"5\">206.2</td><td rowspan=\"5\">1.28</td><td></td><td>23 Apr (Male)</td><td>13 Jul</td></tr><tr><td></td><td></td><td>8 Aug</td></tr><tr><td></td><td></td><td> 27 Aug</td></tr><tr><td>17.94</td><td>15 Apr (Female)</td><td>1 Jun</td></tr><tr><td></td><td> 22 Apr (Male)</td><td>1 Jul</td></tr><tr><td rowspan=\"5\">2015</td><td rowspan=\"5\">228.78</td><td rowspan=\"5\">142.00</td><td rowspan=\"5\">1.46</td><td></td><td>25 Apr (Male)</td><td>20 Jul</td></tr><tr><td></td><td></td><td>23 Aug</td></tr><tr><td>19.22</td><td>17 Apr (Female)</td><td>8 Jun</td></tr><tr><td></td><td>24 Apr (Male)</td><td>2 Jul</td></tr><tr><td></td><td>29 Apr (Male)</td><td>21 Jul</td></tr><tr><td colspan=\"6\"></td><td>26 Aug 7 Aug</td></tr></table></body></html>",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3Measurements ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.1Meteorological variables ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The meteorological variables including solar radiation $( \\mathbf { R } _ { \\mathrm { s } } )$ , precipitation (P), air temperature $\\mathrm { ( T _ { a } ) }$ and relative humidity (RH) during the growing seasons of 2O12-2O15, were continuously observed by using a standard automatic weather station (Hobo, Onset Computer Corp., USA) that was 100 m away from the experimental plot. The $3 0 ~ \\mathrm { m i n }$ averages of all meteorological variables were calculated and recorded using a data logger. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3.2Leaf area index (LAI) and biomass accumulation Five female plants in each plot were randomly selected to measure the LAI and biomass accumulation. Leaf length and maximum width were measured with a ruler at intervals of 7-10 days after 15 days since sowing. The leaf area was determined by summing the rectangular area (lengthxmaximum width) of each completely developed leaf, and then adjusted by a factor of 0.74 (Li et al., 2O08). The leaf area per plant was divided by the surface area per plant to obtain LAI. The plant samples were collected at each growing stage. The total biomass accumulation was obtained after the leaves were oven dried at $6 0 ^ { \\circ } \\mathrm { C }$ when the weights of plant samples kept constant in three hours, and then weighed using an electronic scale with the precision of $0 . 0 1 \\ \\mathrm { g }$ ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.3 Determination of transpiration ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Soil water content in the root-zone was monitored by Diviner 2OOO system (Sentek Pty Ltd., Australia). Two PVC access tubes were installed below the mulching and bare soil respectively in each plot. The measurements were made at $0 . 1 \\mathrm { ~ m ~ }$ intervals within $0 { - } 1 \\mathrm { m }$ soil depth every 5-7 days as well as before and after each irrigation and heavy rain event. The calibration of measurements was conducted using gravimetric method as near as possible to the probe. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The evapotranspiration (ET (mm)) was estimated through soil water balance analysis (Rana and Katerji, 2Ooo). Since the experimental plot was flat and the rainfall was not intensive, the surface runoff was neglected. The groundwater recharge was also negligible since groundwater level was lower than $2 5 \\mathrm { ~ m ~ }$ below the ground surface. Moreover, the measured soil water content at the $9 0 -$ $1 0 0 ~ \\mathrm { c m }$ soil layer did not change before and after each irrigation event, thus the drainage can be ignored. ET is then estimated by Equation 1. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { E T } = P _ { \\mathrm { e } } + I - \\Delta W ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $P _ { \\mathrm { { e } } }$ is the effective precipitation (mm), I is the irrigation amount $( \\mathrm { m m } )$ , and $\\Delta W$ represents the water content change $\\left( \\mathrm { m m } \\right)$ in the root-zone that is determined by Equation 2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta W = W _ { t _ { 2 } } - W _ { t _ { 1 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $W _ { t _ { 1 } }$ and $W _ { t _ { 2 } }$ represent the mean water content $( \\mathrm { m m } )$ in the root-zone at time $t _ { 1 }$ and $t _ { 2 }$ respectively. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The soil evaporation $\\left( E \\left( \\mathrm { m m } \\right) \\right)$ ） was measured with two micro-lysimeters placed within the bare soil between two plastic films in each plot. The micro-lysimeter with $2 0 \\mathrm { c m }$ height was made from PVC tubes with the inner and outer cylinder diameters of 1O and $1 1 \\ \\mathrm { c m }$ ,respectively. The outer cylinder was fixed into the soil with its top leveling with soil surface.The inner cylinder inside the outer cylinder was filled with an intact soil core, and was weighed at $1 9 { : } 0 0 \\ \\mathrm { L S T }$ every day by an electronic scale with the precision of $0 . 1 \\mathrm { g }$ . After the measurement of $E$ ,the crop transpiration under different planting densities during the growing season $( T _ { r } ( \\mathrm { m m } ) )$ was calculated by Equation 3. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nT _ { r } = \\mathrm { E } \\mathrm { T } - E .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.3.4Grain yield, water use efficiency (WUE) and harvest index (HI) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fifteen plants in the center of each plot were randomly selected for manual harvesting in each season. The seeds were weighed after sun-drying to obtain grain yield $( Y , \\mathsf { t / h m ^ { 2 } } )$ . TheWUE $( \\mathrm { k g } / \\mathrm { m } ^ { 3 } )$ was calculated using Equation 4. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n{ \\mathrm { W U E } } = { \\frac { Y } { { \\mathrm { E T } } } } .\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The HI $( \\% )$ under different planting densities was given by Equation 5. ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H I } = { \\frac { Y } { B _ { \\mathrm { A } } } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $B _ { \\mathrm { A } }$ is the aboveground biomass accumulation $( { \\mathrm { t } } / { \\mathrm { h m } } ^ { 2 } )$ ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4 Estimation of biomass accumulation and yield ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In AquaCrop model, the $B _ { \\mathrm { A } }$ was estimated using the crop transpiration under different planting densities during the growing season $( T _ { \\mathrm { r } } )$ under different planting densities during the growing season and normalized water productivity under standard crop management practice $( \\mathrm { W P } _ { 0 } ^ { * } \\$ ）by Equation 6 (Steduto et al., 2009): ",
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { \\mathrm { A } } = K _ { \\mathrm { S _ { \\mathrm { b } } } } { \\mathrm { W P _ { \\mathrm { 0 } } ^ { \\ast } } } \\sum _ { \\mathrm { E T _ { \\mathrm { 0 } } } } \\sp { T } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { E T _ { 0 } }$ is the reference crop evapotranspiration calculated according to the FAO PenmanMonteith equation (Allen et al., 1998); $K _ { \\mathrm { S _ { b } } }$ is the air temperature stress coefficient which can be taken as 1 due to no temperature stress occurred during the growing season in this study; $\\mathbf { W P } _ { 0 } ^ { * }$ is the normalized water productivity under standard crop management practice which was represented by a reference planting density of 11.25 plants $/ \\mathrm { m } ^ { 2 }$ in the study area. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The harvestable yield $( Y _ { \\mathrm { A } } \\ \\mathrm { \\Omega } ( \\mathrm { t } / \\mathrm { h m } ^ { 2 } )$ was then calculated by $B _ { \\mathrm { A } }$ and $\\mathrm { H I }$ under standard crop management practice $\\left( \\mathrm { { H I } _ { 0 } } \\right)$ using Equation 7. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array} { r } { Y _ { \\mathrm { A } } = \\mathrm { H I } _ { \\mathrm { 0 } } B _ { \\mathrm { A } } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The AquaCrop yield model was modified in this study by introducing the adjusted $\\mathbf { W P ^ { * } }$ under different planting density $( \\mathrm { W P _ { a d j } ^ { * } } )$ and the adjusted $\\mathrm { H I }$ under different planting density $\\mathrm { ( H I _ { a d j } ) }$ . A linear relationship (Eq. 8) was assumed between the relative ${ \\mathbf W } { \\mathbf P } ^ { * }$ $( \\mathrm { W P _ { a d j } ^ { * } / W P _ { 0 } ^ { * } } .$ ） and the relative planting density $( D _ { \\mathrm { a d j } } / \\mathrm { D } _ { 0 } )$ ： ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { W P _ { a d j } ^ { * } } } { \\mathrm { W P _ { 0 } ^ { * } } } = \\mathrm { a } \\frac { D _ { \\mathrm { a d j } } } { \\mathrm { D _ { 0 } } } + \\mathrm { b } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $D _ { \\mathrm { a d j } }$ is the planting density (plants $/ \\mathrm { m } ^ { 2 } .$ ）and ${ \\bf D } _ { 0 }$ is the reference planting density (11.25 plants $/ \\mathrm { m } ^ { 2 } .$ ). a and b represent the empirical coefficient which can be fitted using the measured transpiration and aboveground biomass accumulation in 2012 and 2O13, and they were found as 0.37 and O.61, respectively. $\\mathrm { H I _ { a d j } }$ can be calculated as Equation 9. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\frac { \\mathrm { H I } _ { \\mathrm { a d j } } - \\mathrm { H I } _ { \\mathrm { 0 } } } { D _ { \\mathrm { a d j } } - \\mathrm { D } _ { \\mathrm { 0 } } } { = } \\mathrm { c } D _ { \\mathrm { a d j } } + \\mathrm { d } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where c and d represent the empirical coefficients which were fitted using the measured yield and aboveground biomass accumulation in 2O12 and 2O13,and they were found as $- 0 . 1 8$ and 1.29, respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { W P _ { a d j } ^ { * } }$ and $\\mathrm { H I _ { a d j } }$ can be calculated by Equations 10 and 11 based on Equations 8 and 9. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { W P _ { a d j } ^ { * } } = \\left( \\mathrm { a \\frac { { \\cal D } _ { a d j } } { { \\cal D } _ { 0 } } + b } \\right) \\mathrm { W P _ { 0 } ^ { * } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { H I } _ { \\mathrm { a d j } } { = } \\mathrm { H I } _ { \\mathrm { 0 } } { + } \\big ( \\mathrm { c } D _ { \\mathrm { a d j } } { + } \\mathrm { d } \\big ) \\big ( D _ { \\mathrm { a d j } } { - } \\mathrm { D } _ { \\mathrm { 0 } } \\big ) .\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The aboveground biomass accumulation $( B _ { \\mathrm { d } } )$ and grain yield $( Y _ { \\mathrm { d } } )$ under different planting densities were then obtained using the modified model (Eqs. 12 and 13). ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nB _ { \\mathrm { d } } { = } \\left( \\mathrm { a } \\frac { D _ { \\mathrm { \\ a d j } } } { \\mathrm { D } _ { 0 } } { + } { \\bf b } \\right) { \\bf W } \\mathrm { P } _ { 0 } ^ { * } { \\sum } \\frac { T _ { \\mathrm { r } } } { \\mathrm { E } \\mathrm { T } _ { 0 } } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\nY _ { \\mathrm { d } } \\mathrm { = } \\big ( \\mathrm { H I } _ { \\mathrm { 0 } } { + } \\big ( \\mathrm { c } D _ { \\mathrm { a d j } } { + } \\mathrm { d } \\big ) \\big ( D _ { \\mathrm { a d j } } { - } \\mathrm { D } _ { \\mathrm { 0 } } \\big ) \\big ) B _ { \\mathrm { d } } \\ . \n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5 Data analysis and evaluation of model performance ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SPSS 13.0 software (SPSS Inc., USA) was used for statistical analysis. The means were compared using Duncan's multiple-range test at the $5 \\%$ probability level. The modeling performance was evaluated based on a linear regression between the estimated $( E _ { i } )$ and observed $( Q _ { i } )$ values of yield. Meanwhile, the mean absolute bias error (MAE) and root mean square error (RMSE) were included and were calculated as Equations 14 and 15 (Legates and McCabe, 1999), respectively. ",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { M A E } { = } \\frac { 1 } { N } \\sum _ { i = 1 } ^ { N } \\bigl | Q _ { i } - E _ { i } \\bigr | ,\n$$",
+        "text_format": "latex",
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm { R M S E } { = } \\left\\{ \\frac { 1 } { N } { \\sum _ { i = 1 } ^ { N } } \\big ( E _ { i } - Q _ { i } \\big ) ^ { 2 } \\right\\} ^ { 1 / 2 } ,\n$$",
+        "text_format": "latex",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the number of data samples. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3Results and discussion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1 Effect of planting density on LAI and biomass accumulation ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 shows the LAI of maize for seed production under different planting densities in all seasons. Under each planting density, the LAI started to increase rapidly at the shooting stage, reached the maximum at the heading stage, and declined at the maturity stage due to leaf yellowing or wilting. During each season, the LAI increased with planting density, except at the seeding stage. The LAI difference between different planting densities reached the maximum at the heading stage. The maximum LAI differences of about $60 \\%$ in 2012, $70 \\%$ in 2013, $8 8 \\%$ in 2014, and $80 \\%$ in 2015 were observed between D1 planting density and the maximum planting density, respectively. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7985b46dd560a046b30d44528475e72942a69beda96e95d322ad4c9b1610e7d.jpg",
+        "img_caption": [
+            "Fig.1Leaf area index (LAI) of maize for seed production under different planting densities. Eror bars denote standard eror of the mean.D1,D2,D3,D4,D5andD6 areplanting densities of 6.75,8.25,9.75,1125,12.75and 14.25 plants. $/ \\mathrm { m } ^ { 2 }$ ,respectively. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figures 2 and 3 present the variation of biomass accumulation and the biomass per plant with planting densities in different years. It was observed that the biomass accumulation and biomass per plant showed a logistic growth pattern, and increased gradually with the advance of plant growth regardless of planting density. Except at the seeding stage, the biomass accumulation increased rapidly as planting density increased to 12.75 plants $/ \\mathrm { m } ^ { 2 }$ (D5), followed by only slight increase with planting density (Fig. 2). However, higher planting density had an adverse effect on the biomass per plant in allseasons (Fig. 3). The biomass accumulation difference and biomass per plant diference between the lowest and highest planting densities reached the maximum at the maturity stage. For example, compared to the lowest planting density (D1), the highest planting density increased biomass accumulation by $5 5 \\%$ in 2012, $67 \\%$ in 2013, $60 \\%$ in 2014 and $67 \\%$ in 2015, but decreased biomass per plant by $18 \\%$ in 2012, $21 \\%$ in 2013, $24 \\%$ in 2014 and $21 \\%$ in 2015, respectively. This can be explained by the fact that the aboveground biomass accumulation was associated with LAI which increased with planting density. A higher LAI increased the proportion of available radiation interception which then led to higher canopy photosynthesis and biomass accumulation (Loomis and Connor, 1992; Coetto et al., 2013). However, higher planting density resulted in more interplant competition, and thus led to reduced biomass per plant. The above results are consistent with previous findings (Akmal et al., 2O14; Thimmappa et al., 2014; Dai et al., 2015). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d128c0bee445d207647b519744c288f51d3ef13c17cbcb5151a4a44cc1d934a.jpg",
+        "img_caption": [
+            "Fig.2Aboveground biomass accumulation of maize for seed production under different planting densities.Error bars denote standard error of the mean. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/1fd01766630ba4ba076d200afa7eafc25cc35f203be5e7c3569bc705c7f9f30f.jpg",
+        "img_caption": [
+            "Fig.3Biomassper plant of maize for seed production under different planting densities.Error bars denote standard error of the mean. "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2 Effect of planting density on yield and WUE ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 2 presents the yield and WUE results of maize for seed production under different plant densities from 2O12 to 2015. It was found that the results showed a large difference in the study years due to the difference in microclimate conditions. The yield per plant and grain yield in 2012 were higher than in other years, while the yield per plant declined with planting density in all the study years. Similar results were also found by Griesh and Yakout (2OO1) and El-Hendawy et al. (2008). This result might be atributed to more interplant competition at high planting density which led to reduced biomass per plant (Fig. 3) and thus a decreased yield per plant (Kamel et al., 1983; Soliman et al., 1995). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "However, the grain yield illustrated different variation trend from yield per plant. It increased rapidly as the planting density increased to $1 1 . 2 5 \\mathrm { \\ p l a n t s } / \\mathrm { m } ^ { 2 }$ (D4), followed by a slight increase when the planting density was above 11.25 plants/ $\\mathbf { \\langle m } ^ { 2 }$ . The yield started to decrease when the planting density was above 12.75 plants $/ \\mathrm { m } ^ { 2 }$ . This can be explained by the fact that under lower planting density (D1-D4), the interplant competition was small and thus the grain yield increased with the radiation interception by leaf area which increased during reproductive growth (Johnsonb et al.,1982; Duncan, 1986). However, when the planting density was great enough to intercept essentially all of the radiation at full canopy, further increase in planting density will not increase the yield (Duncan, 1986). Moreover, a higher planting density may lead to the formation of fewer flower initials, poor polination resulting from asynchrony of tasseling and silking, or the abortion of kernels after fertilization, and consequently, a reduction of grain yield (Karlen and Camp, 1985; Hashemi-Dezfouli and Herbert, 1992). ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The WUE ranged from 1.84 to $2 . 4 6 ~ \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ in 2012, 0.90 to $1 . 1 9 ~ \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ in 2013, 1.13 to 1.39 $\\mathrm { k g / m ^ { 3 } }$ in 2014 and 0.86 to $1 . 3 6 \\mathrm { k g } / \\mathrm { m } ^ { 3 }$ in 2015, respectively (Table 2). The WUE in 2012 was highel due to higher grain yield. However, the impact of planting density on WUE was similar for all te study periods. The WUE increased significantly with planting density when it was below 11.25 plants. $/ \\mathrm { m } ^ { 2 } ( \\mathrm { D } 4 )$ , but no significant increase was observed when the planting density was beyond D4. Table 2 showed that significant decrease of grain yield and WUE was observed when the planting density was below 11.25 plants. $/ \\mathrm { m } ^ { 2 }$ or above 12.75 plants $/ \\mathrm { m } ^ { 2 }$ . Thus the densities of 11.25 or 12.75 plants $/ \\mathrm { m } ^ { 2 }$ were optimal under the conditions of this study. Cox and Otis (1993） reported the maximum grain yield of maize at 7.41 plants $/ \\mathrm { m } ^ { 2 }$ . Tetio-Kagho et al. (1998) noted that the grain yield of maize increased parabolically to the maximum yield of $\\scriptstyle 1 0 8 0 \\ { \\mathrm { g } } / { \\mathrm { m } } ^ { 2 }$ at about 10.00 plants/ $/ \\mathrm { m } ^ { 2 }$ Sangoi et al. (2O02) reported an estimated optimum plant density of maize at about 8.50 plants $/ \\mathrm { m } ^ { 2 }$ El-Hendawy et al. (2008) indicated that the optimal density of maize in Egypt was 4.80 or 7.10 plants/ $\\cdot \\mathrm { m } ^ { 2 }$ . The optimal planting density in our study was significantly higher than that of hybrid maize.The main reason was that the parent lines of maize for seed production were different from hybrid maize since the female and male parents were short inbred lines without heterosis,and the smaller interplant competition of parent lines led to more tolerance of higher planting density. When the planting density was 11.25 plants $/ \\mathrm { m } ^ { 2 }$ ,WUE reached the maximum. However, the WUE did not significantly increase when the planting density was too high. Moreover, a higher planting density resulted in large evapotranspiration and LAI (Table 2; Fig. 1), leading to the waste of water resources. It also becomes more difficult in eficiently carrying out agronomic practice under a higher planting density. Therefore, it is more economical to select the recommended planting density of11.25 plants $/ \\mathrm { m } ^ { 2 }$ for maize for seed production in Northwest China. ",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b068a63d089255a727a36fa4ea9a6709444483dfefb1e17da531c030c2a9f21.jpg",
+        "table_caption": [
+            "Table 2 Yield and water use efficiency (WUE) of maize for seed production under different plant densities "
+        ],
+        "table_footnote": [
+            "Note:Different lowercase lettrs indicate significant diffrences among different treatments for the same yearat the $P { < } 0 . 0 5$ level. ET, evapotranspiration;WUE,wateruse efficiency. "
+        ],
+        "table_body": "<html><body><table><tr><td>Year</td><td>Treatment</td><td>Yield per plant (g/plant)</td><td>Grain yield (t/hm²)</td><td>ET (mm)</td><td>WUE (kg/m³)</td></tr><tr><td rowspan=\"5\">2012</td><td>D1</td><td>121.26a</td><td>8.02d</td><td>435.74e</td><td>1.84d</td></tr><tr><td>D2</td><td>116.76ab</td><td>9.77℃</td><td>453.43d</td><td>2.15℃</td></tr><tr><td>D3</td><td>111.98bc</td><td>11.09b</td><td>473.97℃</td><td>2.34b</td></tr><tr><td>D4</td><td>106.95cd</td><td>12.22a</td><td>495.68b</td><td>2.46a</td></tr><tr><td>D5</td><td>100.90d</td><td>12.66a</td><td>515.67a</td><td>2.46a</td></tr><tr><td rowspan=\"6\">2013</td><td>D1</td><td>56.40a</td><td>3.81d</td><td>421.80f</td><td>0.90℃</td></tr><tr><td>D2</td><td>54.20ab</td><td>4.47℃</td><td>443.30e</td><td>1.01°</td></tr><tr><td>D3</td><td>53.10ab</td><td>5.17b</td><td>462.80d</td><td>1.12b</td></tr><tr><td>D4</td><td>50.50bc</td><td>5.68ab</td><td>486.10c</td><td>1.17a</td></tr><tr><td>D5</td><td>47.50℃</td><td>6.05a</td><td>507.10b</td><td>1.19a</td></tr><tr><td>D6</td><td>38.80d</td><td>5.53ab</td><td>531.90a</td><td>1.04℃</td></tr><tr><td rowspan=\"6\">2014</td><td>D1</td><td>71.23a</td><td>4.81d</td><td>424.08f</td><td>1.13d</td></tr><tr><td>D2</td><td>67.32b</td><td>5.55℃</td><td>452.82e</td><td>1.23℃</td></tr><tr><td>D3</td><td>64.84℃</td><td>6.32b</td><td>473.72d</td><td>1.33b</td></tr><tr><td>D4</td><td>62.40d</td><td>7.02a</td><td>503.60c</td><td>1.39a</td></tr><tr><td>D5</td><td>55.55e</td><td>7.08a</td><td>519.79b</td><td>1.36a</td></tr><tr><td>D6</td><td>49.30f</td><td>7.02a</td><td>542.79a</td><td>1.29b</td></tr><tr><td rowspan=\"6\">2015</td><td>D1</td><td>73.20a</td><td>4.12e</td><td>477.00f</td><td>0.86d</td></tr><tr><td>D2</td><td>71.85a</td><td>4.94d</td><td>485.35e</td><td>1.02℃</td></tr><tr><td>D3</td><td>69.64b</td><td>5.66℃</td><td>489.53d</td><td>1.16b</td></tr><tr><td>D4</td><td>68.18b</td><td>6.39b</td><td>495.29c</td><td>1.29a</td></tr><tr><td>D5</td><td>63.96c</td><td>6.80a</td><td>501.12b</td><td>1.36a</td></tr><tr><td>D6</td><td>47.53d</td><td>5.64℃</td><td>505.83a</td><td>1.11b</td></tr></table></body></html>",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.3The modification of yield model under different planting densities ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure 4 presents the estimated biomass accumulation and grain yield under different planting densitiesusing the AquaCrop yield model ( $\\mathrm { \\Delta } B _ { \\mathrm { A } }$ and $\\begin{array} { r } { Y _ { \\mathrm { A } _ { \\ / , } } } \\end{array}$ )and themodified yield model. Compared to the measured biomass accumulation $( B )$ and grain yield (Y), the results ( $B _ { \\mathrm { A } }$ and $\\begin{array} { r } { Y _ { \\mathrm { A } } \\overset { \\cdot } { _ { \\mathrm { A } } } } \\end{array}$ )from AquaCrop yield model were higher than the observed values when the planting density was below the reference planting density, but lower than the observation when the planting density was above the reference planting density (Fig. 4). The determination coefficient $( R ^ { 2 } )$ ,MAE and RMSE was 0.78, 1.41 and $1 . 8 5 ~ \\mathrm { t / h m ^ { 2 } }$ for biomass accumulation,and O.88, O.62 and $0 . 5 0 ~ \\mathrm { t / h m ^ { 2 } }$ for grain yield, respectively (Table 3). The main reason is that the $\\mathbf { W P ^ { * } }$ and HI for maize under different planting densities were taken as constants in the AquaCrop yield model, which resulted in large error in model estimation. In fact, they were not constants. For example, $\\mathbf { W P ^ { * } }$ increased with planting density until the optimal density as shown in Figure 5. Moreover, HI increased with planting density when it was below the reference planting density (Fig. 5), but started to decline when the planting density was above the optimum planting density. Similar results were also found in other studies (DeLougherty and Crookston, 1979; Rahmati, 2OO9). In this study, the effect of planting density on $\\mathbf { W P ^ { * } }$ and $\\mathrm { H I }$ was considered in the modified AquaCrop yield model. The estimated biomass accumulation and grain yield by the modified model were closer to the observed values (Fig. 4), with higher $R ^ { 2 }$ , lower MAE and RMSE as compared to the original AquaCrop model (Table 3). As a result, the modified AquaCrop yield model was considered to have a better performance in simulating biomass accumulation and grain yield under different planting densities of maize for seed production. ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c5200a0d3c80b3d3762e05095fbe32be1f2e62c1e0eb1c8a5a137d8cd1736d0.jpg",
+        "img_caption": [
+            "Fig. 4 Comparison of modeling results with the measured value $B$ and $Y$ in 2012-2015. $Y _ { \\mathrm { A } }$ ,yield estimated by the AquaCrop yield model; $Y _ { \\mathrm { d } }$ ,yield estimated by the modified AquaCrop yield model; $B _ { \\mathrm { A } }$ ,biomass accumulation estimated by the AquaCrop yield model; $B _ { \\mathrm { d } }$ ,biomass accumulation estimated by the modified AquaCrop yield model. "
+        ],
+        "img_footnote": [],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/325798a60ca2b6dd7768ddc2b2e845b6fff1235cce7228bfa1939f3f3d6ee670.jpg",
+        "img_caption": [
+            "Fig.5Parameter variation of maize for seed production under different planting densities in 2012-2015.WP\\*, normalized biomass water productivity; HI, harvest index. "
+        ],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fb5d03c8e3da25d9ea4c671979b13f9722440710af87e0292d5a9f0db6c85e1.jpg",
+        "table_caption": [
+            "Table 3Statistical analysis of modeling results from AquaCrop yield model ( $B _ { \\mathrm { A } }$ and $\\begin{array} { r } { Y _ { \\mathrm { A } } } \\end{array}$ )and modified yield model L $B _ { \\mathrm { d } }$ and $\\begin{array} { r } { Y _ { \\mathrm { d } } } \\end{array}$ )incomparisonwith themeasured values ( $B$ and $Y$ 0 "
+        ],
+        "table_footnote": [
+            "Note: $R ^ { 2 }$ ,determination coeficient;MAE,mean absolute bias error;RMSE,root mean square error. "
+        ],
+        "table_body": "<html><body><table><tr><td>Item</td><td>Regression equation</td><td>R²</td><td>MAE (t/hm²)</td><td>RMSE (t/hm²)</td></tr><tr><td rowspan=\"2\">Biomass accumulation</td><td>BA=1.04B</td><td>0.78</td><td>1.41</td><td>1.85</td></tr><tr><td>Bd=1.00B</td><td>0.98</td><td>0.47</td><td>0.56</td></tr><tr><td rowspan=\"2\">Grain yield</td><td>YA=1.03Y</td><td>0.88</td><td>0.62</td><td>0.50</td></tr><tr><td>Yd=0.97Y</td><td>0.97</td><td>0.33</td><td>0.21</td></tr></table></body></html>",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4Conclusions ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A field experiment was conducted in 2012-2015 to examine the impacts of planting density on the biomass accumulation and yield of maize for seed production in Northwest China, and the AquaCrop yield model was modified by taking into account the effect of planting density on the $\\mathbf { W P ^ { * } }$ and HI. The results indicated that increasing the planting density led to the increase of LAI and aboveground biomass accumulation, but significantly decreased the yield and biomass per plant. The grain yield and WUE increased rapidly as planting density increased to 11.25 plants $/ \\mathrm { m } ^ { 2 }$ 0 but there was only a slight increase in the grain yield when the planting density was above 11.25 plants $/ \\mathrm { m } ^ { 2 }$ . It is thus more economical to select a recommended planting density of 11.25 plants $/ \\mathrm { m } ^ { 2 }$ for maize for sed production in Northwest China. Within the range of planting densities used in the experiments, the original AquaCrop yield model produced a large error, with significantly greater estimation than the measured biomass accumulation and grain yield when the planting density was below the reference planting density. It had a lower estimation than the measured value when the planting density was above the reference planting density. However, the estimated results using the modified yield model were closer to the measured values, with higher determination coefficient, and lower MAE and RMSE, indicating that the modified yield model by considering the effect of planting density had a better performance in estimating the biomass accumulation and grain yield of maize for seed production in the arid region of Northwest China. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We are grateful for the research grants from the National Natural Science Foundation of China (51379208, 91425302, 51621061),the Government Public Research Funds for Projects of the Ministry of Agriculture (201503125) and the Discipline Innovative Engineering Plan (111 Program, B14002). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Akmal M,AsimM, GilbertM.2014.Influenceofseasonal variationonradiationuseeficiencyandcrop growthof maize planted at various densities and nitrogen rates. Pakistan Journal of Agricultural Sciences,51(4): 835-846.   \nAlen R G,Pereira L S,Raes D,et al.1998.Crop evaporation: guidelines for computing crop water requirements.In: FAO Irrigation and Drainage Paper No. 56. Rome: FAO, 300.   \nCoettoE,Di CandillM,CasteliFetal.013.Comparingsolarradiationintereptionanduseeficiencyfortheenegyos giant reed (Arundo donax L.)and swet sorghum (Sorghum bicolorL.Moench). Field Crops Research,149:159-166.   \nCox WJ,OtisDJ.1993.Grainandsilageyieldresponsesofcommercialcornhybridstoplantdensities.In:AgronomyAbstracts. Madison,Wisconsin: American Society of Agronomy,132.   \nDai JL,LiWJ,Tang W,etal.2O15.Manipulationof drymateraccumulationand partitioning with plantdensityinrelationto yield stability of cotton under intensive management. Field Crops Research,18O: 207-215.   \nDeLoughertyRL,CrookstonR K.1979. Harvestidex ofcornafectedby population density,maturityating,andenviroent. Agronomy Journal, 71(4): 577-580.   \nDuncan W G. 1986. Planting patterns and soybean yields. Crop Science, 26(3): 584-588.   \nEl-HendawySE,El-Latief EAA,AhmedMS,etal.2O08.Irigatiorateand plantdensityefectson yieldand wateruse efficiency of drip-irrigated corn. Agricultural Water Management, 95(7): 836-844.   \nFulton JM.197o.Relationships among soil moisture stress,plant populations,row spacing and yieldofcorn.Canadian Journal of Plant Science,50(1): 31-38.   \nGriesh M H, Yakout GM. 20o1. Effect of plant population densityand nitrogen fertilization on yield and yield components of some white and yellow maize hybrids underdrip irigationsystem in sandysoil.In: Horst WJ,Schenk MK,BurkertA,et al. Plant Nutrition. Dordrecht: Springer, 810-811.   \nHarperLA,PallsJEJr,BruceRR,etal.1979.Greenhouse microclimate fortomatoes inthe southeast USA.AmericanSociety for Horticultural Science, 104(5): 659-663.   \nHashemi-Dezfouli A,HerbertSJ.1992.Intensifying plant densityresponseofcorn withartifcial shade.Agronomy Journal, 84(4): 547-551.   \nHolt DF,Timmons DR.1968.Influenceof precipitation,soil water,and plant population interactionsoncorn grain yields. Agronomy Journal, 60(4): 379-381.   \nJiang XL,KangSZ,TongL,etal.2014.Copcoeicientandevapotranspirationof gain maize modifiedbyplantingdesityin an arid region of northwest China. Agricultural Water Management, 142: 135-143.   \nJohnsonbRR,Green DE,Jordan CW.1982. Whatis thebestsoybeanrow width?AU.S.perspective.CropsandSoils Magazine, 43(4): 10-13.   \nKamelMS,El-RaoufMS,MahmoudEA,etal.1983.Responseoftwomaizevarieties todiferentplantdensitiesinelationto weed control treatments. Annals of Agricultural Sciences, 19: 79-93.   \nKarlenDL,CampCR.1985.Row spacing,plantpopulation,and water management effects oncorn in the AtlanticCoastal Plain. Agronomy Journal, 77(3): 393-398.   \nLang AL,PendletonJW,Dungan G H.1956.Influenceofpopulationand nitrogen levels on yield and protein andoilcontents of nine corn hybrids. Agronomy Journal, 48(7): 284-289.   \nLegatesDR, McCabe GJJr.1999.Evaluating the use of“goodnes-of-fit”measures in hydrologic and hydroclimatic model validation. Water Resources Research,35(1): 233-241.   \nLemcoff JH,Loomis R S.1986.Nitrogen influences on yielddetermination in maize. Crop Science,26(5): 1017-102.   \nLi SE,Kang SZ,LiFS,et al. 2O08. Evapotranspiration andcrop coeficientof spring maize with plastic mulch using edy covariance in northwest China. Agricultural Water Management, 95(11): 1214-1222.   \nLoomis R S,Connor DJ.1992.Crop Ecology: Productivityand Management in Agricultural Systems.Cambridge,UK: Cambridge University Press.   \nMohamed MMA.1999.Efectof some agronomic practices oncorn production (Zea mays L.)under drip irigationsystem.PhD Dissertation. Ismailia, Egypt: Faculty of Agriculture, Suez Canal University,107.   \nOlson R A, Sander D H. 1988. Corn production. In: Sprague G F, Dudley J W. Corn and Corn Improvement ( $3 ^ { \\mathrm { r d } }$ ed.). Madison, WI: American Society of Agronomy, 639-686.   \nPapadopoulos AP,Pararajasingham S.1997.The influenceof plant spacing on light interception and use ingreenhousetomato (Lycopersicon esculentum Mill.): a review. Scientia Horticulturae,69(1-2): 1-29.   \nQiu R J,Song JJ,DuTS,etal.2O13.Responseof evapotranspirationandyieldtoplantingdensityof solar grenhouse grown tomato in northwest China. Agricultural Water Management, 130: 44-51.   \nRaes D,StedutoP,HsiaoTC,etal.2009.AquaCrop-TheFAOcrop modeltosimulateyieldresponse to water:II Mainalgorithms and software description. Agronomy Journal, 101(3): 438-477.   \nRaes D, Steduto P, Hsiao C,et al.2011. AquaCrop Version 3.1Plus Reference Manual. Rome, Italy: FAO.   \nRahmati H.20o9.Efectofplantdensityand nitrogenrateson yieldand nitrogen eficiencyofgraincorn. World Applied Science Journal, 7(8): 958-961.   \nRanaG,KaterjiNo.Measurementandestimationofactalvapotraspirationinthefieldunderediteraneaclimate:a review. European Journal of Agronomy, 13(2-3): 125-153.   \nSangoiL,Gracieti MA,RampazoC,etal.2O2.ResponseofBrazilian maize hybrids from different eras tochange in plant density. Field Crops Research, 79(1): 39-51.   \nSolimanFH, Goda AS,RaghebMM,etal.1995.Responseof maize (Zea mays L.)hybrids to plant populations densityunder different environmental conditions. Hip International, 23(6):124-124.   \nSteduto P, HsiaoTC,Raes D,etal.20o9.AquaCrop-theFAOcropmodel tosimulate yield response to water: I. Conceptsand underlying principles. Agronomy Journal, 101(3): 426-437.   \nTetio-KaghoFGardnerFP998.Responsesofaizetolantpopulationdensity.IReproductivedevelopment,yield,dield adjustments. Agronomy Journal, 80(6): 935-940.   \nThimmappa VReddy MS,ReddyU,et al.2014.Efectof nitrogen levels and plant densities on growth parameters,yield attributes and yield of kharif maize (Zea mays L.). Crop Research,47(1-3): 29-32.   \nWestgate ME,ForcelaFReicoskyDC,etal.1997.Rapidcanopyclosurefor maize productioninthenorthern UScornbelt: Radiation-use efficiency and grain yield. Field Crops Research, 49(2-3): 249-258. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    }
+]

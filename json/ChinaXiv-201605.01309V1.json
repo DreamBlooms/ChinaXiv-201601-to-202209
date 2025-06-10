@@ -1,0 +1,413 @@
+[
+    {
+        "type": "text",
+        "text": "SCIENTIFIC REPORTS ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OPEN ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A small molecule compound IMB-LA inhibits HlV-1 infection by preventing viral Vpu from antagonizing the host restriction factor BST-2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received:18 May2015   \nAccepted:19 November 2015   \nPublished:16 December 2015 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Zeyun Mi1,5,\\*, Jiwei Ding1,\\*,Quan Zhang1,\\*, Jianyuan Zhao²,Ling $\\mathsf { M } \\mathsf { a } ^ { 1 }$ ,Haisheng $\\mathbf { \\boldsymbol { \\mathsf { Y } } } \\mathbf { \\boldsymbol { \\mathsf { U } } } ^ { 6 } .$ Zhenlong Liu,GuangzhiShan¹, XiaoyuLi¹,Jinming Zhou¹,Tao Wei²,Liguo Zhang,Fei Guo4, Chen Liang³& Shan Cen1 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Human BST-2 inhibits HIV-1 replication by tethering nascent virions to the cellsurface.HIV-1codes Vpu that counteracts BST-2 by down-regulating this restriction factor from thecellsurface.This important function makes Vpu a potentialtherapeutic target.Yet, no agents have been reported to block Vpu from antagonizing BST-2.In this study, we report a smallmolecule compound IMB-LA that abrogates the function ofVpu and thereby strongly suppresses HIV-1 replication by sensitizing the virus to BST-2 restriction.Further studies revealed that IMB-LA specifically inhibits Vpu-mediated degradationof BST-2 and restores the expression of BST-2 at the cell surface. Although IMB-LA does not prevent Vpu from interacting with BST-2 or $\\beta$ -TrCP2-containing ubiquitin E3 ligase,sorting of BST-2 into lysosomes in Vpu-expressing cels is blocked byIMB-LA.Most importantly, HIV-1release and infection is inhibited byIMB-LAonlyin BST-2-expressing cels.Insummary, results herein demonstrated that IMB-LA could specifically inhibit the degradationofBST-2induced by Vpu,and impair HIV-1 replication ina BST-2 dependent manner, suggesting the feasibility ofutilizing smallmolecule compounds to disable the antagonist function ofVpu and thereby expose HiV-1 to the restriction by BST-2. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since its firstpractice inclinics thirty yearsago,highlyactiveantiretroviral therapy(HAART)has greatlyimproved thelife expectancyof AIDS patients.Atthecoreof HAART isarepertoireof potent HIV inhibitors.The inevitable development of drug resistanceand unavailability of effctive vaccines necesitate continuous discovery of new drugs to renewthe existing arsenalof HIV inhibitors.Despite the existence of many targetsinHIVlife cycle that canbe pharmacologically intervened,onlyfive targetsare blocked bythe currentlyprescribed HIVinhibitors, these include reverse transcriptase, integrase,protease,envelop glycoprotein and the co-receptor CCR5.With thediscovery ofpotenthost restriction factors and theappreciation of the role of innate immunity in controlling HIV infection, more and more atention is paid to develop strategies to enhance the activities of host restriction factors as one means to battle HIV infection1.Our group and others have previously developed small molecule compounds that are able to block HIV-1 Vifprotein from antagonizing host restriction factor caled APOBEC3G and thereby expose HIV-1 to APOBEC3G inhibition²-4. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One recently discovered host restriction factor is BST-2(also called tetherin,CD317or HM1.24) that acts by blocking the releaseof diverse enveloped viruses5-9.BST-2 is mainly expressed in mature Bcels and plasmacytoid dendritic cells,but can be induced in many other celltypes by type-1 interferon $( \\mathrm { I F N } ) ^ { 1 0 - 1 2 }$ .Human BST-2 consists lInstitute of Medicinal Biotechnology, ChineseAcademyof MedicalSciencesand Peking Union Medical School, Beijing 100050,China.²Beijing Union University,Beijing100101,China.3Lady Davis Institute-Jewish General Hospital, McGilUiversityontrealuebec,Canada.4InstituteofathogenBiologyCnesecademyofdical Science,Beijing,China.5DepartmentofBiochemistryandMolecularBiology,ianjin MedicalUniversity,ianjin, China.nstitute of Biophysics,Chinese AcademyofSciences, Beijing,China.\\*These authors contributed equallyto this work.Corespondence and requestsformaterialsshould beaddressedto C.L.(email: chen.liang@mcgill.ca)or S.C.(email: shancen@imb.pumc.edu.cn) ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of 180 amino acids and shows atype 2 membrane topology with aN-terminal cytoplasmic(CT)domain,followed byatransmembrane (TM)domain,alarge extracellular domain containing two posible N-glycosylation sites,and a C-terminal glycophosphatidylinositol(GPI)anchor thatserves as a second membrane binding site5,9,13. BST-2 is able to retain virus particles atthecell surfaceby physically linking theviral and plasma membranes,thereby impairing viral replication9,4. In addition,the factthat BST-2can be incorporated into HIV-1 particles and can decrease the infectivity ofthe progeny viruses suggests another possible mechanism underlying the anti-HIV activity of BST-215,16. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As a countermeasure,HIV-1accessory protein viral protein U(Vpu) is able to interactwith BST-2and overcome itsantiviralactivity9,17-19.Teearlystudies showed that Vpu contributes todown-regulationof the CD4 receptor. Vpu is able to degrade newly synthesized CD4 molecules thatbindto viral envelope glycoproteins (Env) in the endoplasmic reticulum (ER) through the ubiquitin-proteasome pathway20-22 Recently, Vpu was found to promote HIV-1 particles release by suppressing the activity of human BST-2. A series ofstudies suggest that Vpu targets BST-2 to the trans-Golgi network (TGN) or to lysosomes/proteasomes for degradation via a $\\beta$ -TrCP2-dependent mechanism.In doing so,Vpu removes BST-2 from the cellsurface and consequently enhances the release of the progenyviruses17-19,23-26Vpuinteractswith BST-2 via the trans-membranedomains (TMDs)26-30Vpuutilizes the 51-DpSGxxpS-56 motif to interact with $\\beta$ -TrCP2 that is a substrate adaptor of an SCF ubiquitin E3 ligase complex17.18. Vpu thus recruits the E3 ligase complex to ubiquitinate BST $\\cdot 2 ^ { 1 7 , 1 \\bar { 9 } , 3 1 }$ ： ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Theoreticaly,blocking the antagonist functionof Vpushould expose HIV-1to the potentrestriction byBST-2 and therefore constitutes anew strategy to treat HIV-1infection.Indeed,severalatempts have been made to discover small molecular compounds targeting HIV-1 Vpu. BIT225,an amiloride analogues, was identified as a late-phase inhibitor targeting Vpu,which significantly inhibits HIV-1release from bothacutelyand chronically infected macrophages32.However, subsequent work showed that BIT225 does not exert itsantiviral function by inhibiting Vpu-mediated BST-2 down-regulation,ratherby specificaly targeting the viroporin function of $\\mathrm { \\Delta V p u } ^ { 3 3 }$ .In this work,we have screenedacompound libraryfor Vpuinhibitors utilizingacel-based high throughput assay to monitor Vpu-mediated down-regulation of BST-2 from the surface of HeLacels.The results revealed one leading compound IMB-LAthat restoredcell-surface BST-2 in the presenceof Vpu.Importantly,IMB-LA inhibitedthe releaseand replication ofwild type HIV-1in BST-2-expressing cels.This work provides proof-of-concept evidence supporting novel strategies for anti-HIV drugs development. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IMB-LA restores the level of cellsurface BST-2 in a Vpu-dependent manner.To identify small molecules that inhibit Vpu-mediated degradation ofBST-2,we previouslydeveloped ahigh-throughput screen (HTS) Cell-ELISA assay using a HeLacelline that stably expresses Vpu(called HeLa-Vpucel)4. Usingthis assay, we screenedacompound libraryand identified one hit named IMB-LA thatis knownas lapachol(Fig.1A).IMB-LA increased cell-surface BST-2 by approximate $5 0 \\%$ in HeLa-Vpu cells (Fig. 1B and C). As a positive control, the lysosome inhibitor concanamycin A(ConA)also increased BST-2 expressonin HeLa-Vpucells through blocking Vpu-mediated lysosome degradation of BST-2(Fig.1B).To further validate the result from the ELISA and FACS asays,cellsurface BST-2 was assessed by immune-fluorescence microscopyand the result showed that BST-2 was increased atthecellsurfaceinthe presenceofIMB-LA(Fig.1D).Similarly,IMB-LA iscapableofrestoringthecellularcontentofBST-2as ConAdoes (Fig.1E).Further experiments showeddose-dependentup-regulationof cel-surface BST-2 byIMB-LA in HeLa-Vpu cells,but not incontrol HeLa cels thatdo not express Vpu(Fig.1Fand G), which uggests that IMB-LA restores BST-2 expression in a Vpu-dependent manner. IMB-LA barely affected the transcription of BST-2,as shown by the result ofreal-timeRT-PCR that measured BST-2 mRNA (Fig.1H).In order to examine whether IMB-LA increases BST-2 level bydiminishing Vpu expresson,levelof Vpu was measured by Western blot and no effctby IMB-LA was observed (Fig.1I).Taken together,these results suggestthat IMB-LA increases cell-surface BST-2 by targeting Vpu-mediated BST-2 degradation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IMB-LA inhibits Vpu-mediated BST-2 down-regulation in a highly specific manner. We next investigatedhow specifcallyIMB-LA interferes with the Vpu/BST-2 pathway.Tothis end,we firsttested whether IMB-LA exerts a general effect on the lysosome degradation pathway which is involved in Vpu-mediated BST-2 degradation.We thus chose to measure the efect of IMB-LA on down-regulation of interferon- $\\alpha$ receptor 1 (IFNAR1) by interferon $\\propto$ （ $\\left( \\mathrm { I F N } \\alpha \\right)$ ,which occurs through ubiquitination of IFNAR1 by the Skpl-Cullin1- HOS-Rocl(SCFHOS) ubiquitin E3 ligase and subsequent degradation via the lysosomal pathway35.HeLa cells were transfected with pcDNA3.1-IFNAR1-FLAG,then treated with IFNα.Either IMB-LAor ConA was addedat the indicated concentrations.As shown inFig.2B,onlyConA,notIMB-LA,wasable to ihibitthedown-regulation of IFNAR1 in the presence of $\\mathrm { I F N } \\mathrm { \\alpha }$ . These results suggest that IMB-LA does not exert a general impact on the lysosome-dependent protein degradation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next tested whether IMB-LA affects Vpu-mediated down-regulation of CD4.It is known that that Vpu induces proteasome-dependent degradation of CD4 by recruiting to the multi-subunit $\\mathrm { { \\sc S C F / \\beta } }$ -TrCP (1or 2)ubiquitinE3lseeaeed CD4in the presenceof Vpu,no such efect was detected for IMB-LA(Fig.2C),which further supports thespecificity of IMB-LA to rescue Vpu-mediated down-modulation of BST-2 but not other celllar proteins such as CD4. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, we tested the efectof IMB-LA onanother viralantagonistofBST-2,called K5 (also knownas MIR2) ofKaposi's sarcoma-associated herpesvirus (KSHV)37.K5 belongs to membrane-associated RING-CH(MARCH) protein that mediates ubiquitination ofthe cytoplasmic portion of transmembrane proteins38,39.K5 counteracts BST-2 byubiquitinating BST-2and targeting it forlysosomal degradation37,39.To determine whether IMB-LA inhibits K5-mediated down-regulation of BST-2,we transfected HeLacels with pcDNA3.1-K5-HA,a plasmid that expresses K5,and then treated cells with IMB-LA.A significant down-regulation ofBST-2byK5 protein was observed.Yet,unlike MG132,IMB-LA failed to rescue this reductionof BST-2 in the presenceof K5 (Fig. 2D). ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/15165808cc4139095e34fa9f687450e070d524fb8059584a2549e688ddd3981a.jpg",
+        "img_caption": [
+            "Figure 1. IMB-LA prevents Vpu from downregulating BST-2 from the cellsurface.(A) The structure of IMB-LA. (B) HeLa-Vpu cells were treated with DMSO, $5 0 \\mathrm { n M }$ ConA and ${ 5 \\mu \\mathrm { M } }$ IMB-LA for $2 4 \\mathrm { h }$ . Cell-surface BST-2 was determined by Cell-ELISA.(C) HeLa-Vpu cells were treated with DMSO, $5 \\mu \\mathrm { M }$ IMB-LA for $2 4 \\mathrm { h }$ ： The cells were immunostained for cel-surface BST-2 using anti-BST-2 antibodyand FITC-conjugated goatanti-rabbitsecondaryantibody,folowedby flow cytometry.HeLa-Vpucels were also stained withacontrol antibodyand the signalsserveasacontrol as representedby the gray line.BST-2levels inHeLa-Vpucels treated with DMSOand IMB-LAare indicated bythered line and blue line,respectively,the black line represents level of cell surface BST-2 in HeLa cells.(D)HeLa and HeLa-Vpu Cells were treated with DMSO or ${ 5 \\mu \\mathrm { M } }$ IMB-LA. 24h later,cels were incubated with mouse anti-BST-2 antibodies and FITC-conjugated secondaryantibodies. Images were recorded using a spinning disc confocal microscope.Signals of BST-2 are pseudocolored as Green.(E)Western blot analysis for BST-2 protein in HeLa-Vpu cells treated with DMSO, $5 0 \\mathrm { n M }$ ConAand $5 { \\mu \\mathrm { M } }$ IMB-LA. BST-2 and $\\beta$ -actin expression were detected using an anti-BST-2 rabbit antibody (top panel) and anti- $\\cdot \\beta$ -actin antibody (bottom panel). (F) HeLa-Vpu cells were treated with various concentrations of IMB-LA for $2 4 \\mathrm { h }$ and cell surface BST-2 was determined using Cell-ELISA.(G)HeLa cells were treated with different concentrations of IMB-LA for $2 4 \\mathrm { h }$ and cell surface BST-2 was determined using Cell-ELISA. $\\mathbf { \\Pi } ( \\mathbf { H } )$ HeLa and HeLa-Vpu cells were treated with DMSO or ${ 5 \\mu \\mathrm { M } }$ IMB-LA for $2 4 \\mathrm { h }$ .The amount of bst-2 mRNA was measured by realtime RT-PCR and normalized with that of gapdh mRNA.(I) HeLa-Vpu cells were treated withDMSO and IMB-LA for $2 4 \\mathrm { h }$ .Cell lysates were examined by Western blotting using antiVpu and anti- $\\cdot \\beta$ -actin antibodies.Each bar represents the mean and standard deviation of at least three independent experiments.\\*\\*denotes $P { < } 0 . 0 1$ .Full-length blots/gels are presented in Supplementary data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f72d0096f751ea6f39fd4f7d111d4ea4e5a1f80fd124a3b774e8de2189c6130.jpg",
+        "img_caption": [
+            "Figure 2.IMB-LA specifically inhibits Vpu-mediated degradationof BST-2.(A) Schematic illustration of downregulation of BST-2 and CD4 by Vpu.The downregulation of IFNAR1 upon treated with IFN- $\\alpha ,$ and the downregulation of BST-2 by K5 are also shown.(B)HeLacells were transfected with pcDNA3.1-IFNAR1- FLAG or empty vector. $4 0 \\mathrm { h }$ later,cells were treated with different agents at the indicated concentration. IFN- $\\mathbf { \\nabla } \\cdot \\mathbf { \\alpha } \\propto$ ： $1 0 0 0 \\mathrm { U / m l } ;$ cycloheximide: $2 0 \\mu \\mathrm { g } / \\mathrm { m l } ;$ ConA: $5 0 \\mathrm { n M }$ ; IMB-LA: ${ 5 \\mu \\mathrm { M } }$ . Western blot was performed with antiFLAG and anti- $\\cdot \\beta$ -actin antibodies.(C) HEK293T cells were co-transfected with plasmids coding for human CD4 and HIV-1 Vpu. Cells were treated with DMSO and $5 { \\mu \\mathrm { M } }$ IMB-LA.Then cells surface CD4 was stained and analyzed by flow cytometry. (D)HeLa cells were transfected with $5 0 0 \\mathrm { n g }$ pcDNA3.1-K5-HA per well in a 6-well plate. $2 4 \\mathrm { h }$ later, cells were treated with DMSO,MG132 and ${ 5 \\mu \\mathrm { M } }$ IMB-LA for another $2 4 \\mathrm { h }$ .Then cells surface BST-2 was stained and analyzed by flow cytometry.Ful-ength blots/gels are presented in Supplementarydata. "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Takentogether,these results demonstrateahigh specificityofIMB-LA in inhibiting thedown-regulationof BST-2 by Vpu. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "IMB-LA does not affect formation ofthe BST-2/Vpu/β-TrCP2 complex.It is known that Vpu directly interacts with BST-2 and $\\beta$ -TrCP2,and that these two interactions are both required for Vpu to down-regulate BST- $2 ^ { 1 9 , 4 0 }$ .We therefore asked whether IMB-LA overcomes the antagonist function of Vpu by disrupting these two important interactions.To this end,we first established the BRETassayto monitor Vpu/BST-2 interaction in livecels.Inthis assy,YFPand luciferase (RLuc)werefused with Vpuand BST-2,respectively.Asignificantly higher than background BRET value was detected when RLuc-BST-2 and YFP-Vpu wereco-expressed in HEK293T cells, which indicates the association of Vpuand BST-2(Fig.3A).This BRETvaluedid notchange when cels were treated with IMB-LA,suggesting that IMB-LA has no effect on the interaction of BST-2 and Vpu.To validate the BRET data,we further asessed the interaction between BST-2 and Vpu through co-immunoprecipitation. Vpu and BST-2-HA were co-expressed in HEK293T cels.BST-2-HA was immunoprecipitated from celular lysates using anti-HAantibodies,and the presence of Vpuintheimmunoprecipitates was sucessfullydetected by western bloting (Fig.3B).Again,IMB-LA failed to dissociate this interaction (Fig.3B).We then performed BRETand co-immunoprecipitation experiments to assess the possble effect of IMB-LA on the interaction of $\\beta$ -TrCP2and Vpu.As a control,we included the VpuS52A mutant that is unable to bind to $\\beta$ -TrCP2and therefore generated only a very low BRET value in the presence of hRLuc $\\cdot \\beta$ -TrCP2 (Fig. 3C). Treatment with IMB-LA did not change the BRET value of hYFP-Vpu and hRLuc- $\\cdot \\beta$ -TrCP2 (Fig.3C).Similarly, no effect from IMB-LA was observed on the co-immunoprecipitation of $\\beta$ -TrCP2 by Vpu (Fig.3D). Taken together, these data suggest that IMB-LA does not affect the interactions of Vpu with BST-2 or $\\beta$ -TrCP2. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/52903d8c28c089ac5aff56e614ff51742cf9854de1b9f48d12f7f0fd7298b143.jpg",
+        "img_caption": [
+            "Figure 3.Effect of IMB-LA on the interactions of Vpu with BST-2 and $\\beta$ -TrCP2.(A)HEK293Tcellswere co-transfected with pEYFP-N1-Vpu and pRluc-C3-BST-2 at the ratio of 1:1. $2 4 \\mathrm { h }$ post-transfection,cells were treated with DMSO or ${ 5 \\mu \\mathrm { M } }$ IMB-LA for $2 4 \\mathrm { h }$ .BRET ratio was measured as described in Methods. (B)HEK293Tcels were co-transfected with the pcDNA3.1-Vpu and pcDNA3.1-BST-2-HA at the ratio of 1:1. $2 4 \\mathrm { h }$ later,cells were treated with the agents as described inFig.3A.Lysates were immunoprecipitated with rabbit anti-HA antibody and proteinA-Agrose folowed by immunoblotted with anti-BST-2-HA and anti-Vpu antibodies.The pre-IP lysates represent $1 \\%$ of the IP input and were also immunoblotted for $\\beta$ -actin as aloading control. (C)HEK293Tcels were co-transfected with pEYFP-N1-Vpu,pRlucC3- $\\cdot \\beta$ -TrCP2-HA and pcDNA3.1-BST-2-FLAG(1:1:1). pEYFP-N1-VpuS52A was used as a negative control for this assay. $2 4 \\mathrm { h }$ post-transfection,cells were treated with DMSO and ${ 5 \\mu \\mathrm { M } }$ IMB-LA for $2 4 \\mathrm { h }$ .BRETratio was measured as described in Methods.(D) HEK293T cells were co-transfected with pcDNA3.1-Vpu, pcDNA3.1- $\\cdot \\beta$ -TrCP2-HA and pcDNA3.1-BST-2 -FLAG(1:1:1) and treated with the agents as described in Fig.3C.Lysates were immunoprecipitated with rabbit anti-HA antibody and proteinA-Agrose followed by immunoblotted with anti- $\\cdot \\beta$ -TrCP2-HA and anti-Vpu antibodies.The pre-IP lysates represented $1 \\%$ of the IP input and were also immunoblotted for $\\beta$ -actin as a loading control.Each bar represents the mean and standard deviation of at least three independent experiments.\\*\\*denotes $P { < } 0 . 0 1$ . Full-length blots/gels are presented in Supplementary data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "IMB-LA had no effect on the ubiquitination of BST-2. Studies have shown that Vpu causes ubiquitinationof BST-2,which serves asakey signalfor BST-2 degradation bythe lysosomal machinery41.We therefore investigated whetherIMB-LAaffected Vpu-mediatedBST-2ubiquitination.First,BST-2-HA,Vpu,and Myc-tagged ubiquitin were transiently expressd in HEK293Tcels,followed by the treatmentofIMB-LA.BST2-HA was then immunoprecipitated from cellular lysates using anti-HA antibodies and the immunoprecipitates were analyzed by Western blotting. Ubiquitinated BST-2 was approximately $5 5 \\mathrm { k D a }$ ,representing polyubiquitinated BST-2 as reported previously41.Vpu stimulated ubiquitination of BST-2 by 2 to 3 folds. ConA treatment increased the amountofubiquitinated BST-2,whereas IMB-LA exerted marginal effctonubiquitinationofBST-2in the presence of Vpu(Fig.4).These data suggest that IMB-LA has no effect on Vpu-induced ubiquitination of BST-2. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/59c3ac6bf39303f760d56572fcfe5cc54067c56fb1a44b394446cd1a3254e068.jpg",
+        "img_caption": [
+            "Figure 4.Eectof IMB-LAon the Vpu-induced ubiquitination of BST-2.HEK293Tcels were co-transfected with pcDNA3.1-BST-2-HA,pcDNA3.1-Vpu and pCW7(1:2:4). $2 4 \\mathrm { h }$ post-transfection,cells were treated with DMSO, ${ 5 \\mu \\mathrm { M } }$ IMB-LA and $5 0 \\mathrm { n M }$ ConA for $2 4 \\mathrm { h }$ .Lysates were incubated with rabbit anti-HA antibody and then immunoprecipitated with protein A-agrose.The pre-IP lysates represented $1 \\%$ of the IP input. The immunoprecipitated samples were analyzed by Western blot.The amount of ubiquitinated BST-2 was quantified using Image Lab $^ { \\mathrm { T M } } 2 . 0$ software,and normalized with that of the group expressing BST-2 and Vpu in the presence of DMSO.Full-length blots/gels are presented in Supplementary data. "
+        ],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IMB-LA blocks sorting of BST-2 into lysosomes in the presence ofVpu. To be degraded in lysosomes,theubiquitinated BST-2 needs tobe sorted into lysosomalcompartments.Indeed,inHeLa-Vpucells that stably expressVpu,strong colocalization ofBST-2 with the lysosomal markerLAMPl was observed (Fig.5).This observation is based on theanalysis often views ofeach setof micrographs that were randomly selected and the results ofthePearson's Correlation Coefcientsofthe twochannels ineach set (Fig.5,left panel).IMB-LAtreatment ledto astriking increase inthe co-localization ofBST-2 with thelate endosomal marker CD63 in HeLa-Vpu cells (Fig.5B),whereas no effect was observed in HeLacels thatdo notcontain Vpu(Fig.5A).Concomitant with this increase,colocalizationofBST-2 withLAMP1 dramaticall diminished inHeLa-Vpucells(Fig.5C),which suggest that IMB-LA blocks the sorting of BST-2 into lysosomes for degradation in the HeLa-Vpu cells. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IMB-LA inhibits HIV-1 replication in a BST-2-dependent manner.We next investigated whether IMB-LA was able to inhibit HIV-1 release and infectivity in the presence of endogenous or exogenous BST-2 through its abilityof blocking Vpu-mediated BST-2 degradation.The experiments were carred out in HeLa and HEK293Tcells.HeLa cell expressendogenous BST-2 whereas HEK293Tcellshave no detectable BST-2 expression. We generated onecellines,HeLa-BST2-KD that was depleted of endogenous BST-2 with shRNA.As for HEK293T cels, we overexpressed pcDNA3.1-BST-2-HA (named 293T-BST-2)and pcDNA3.1 (named 293T-control) for exogenous BST-2 test.We co-transfected these celines with pNL4-3Luc(R-E-)and pHIT/G to produce VSV-G pseudotyped viruses with or without IMB-LA treatment. Western blot analysis of virus-producing cells showed that IMB-LA increased the level ofBST-2 compared with thatof DMSO-treated 293T-BST-2and HeLa cells,and exhibited no effecton Gag expression (Fig.6Aand B,left panel).Inaddition,production of progeny virions was determined by measuring HIV-1 p24CA with ELISA.BST-2 significantlydiminished the release of Vpu(-) but not the Vpu $( + )$ HIV-1 (Fig.6A and B, middle panel).IMB-LA did not affect HIV-1 production in the HEK293T cells and the HeLa-BST2-KDcels,both ofwhichdid not expres BST-2.Incontrast,IMB-LAreduced HIV-1 production by $8 0 \\%$ and $6 0 \\%$ in 293T-BST-2 and HeLa cells both of which expressed BST-2 respectively(Fig. 6A and B,middle panel).Inaddition to the reduction in viral particle releasing,released viruses derived from BST-2containing cells exhibitedimpaired infectivity(Fig.6AandB,right panel).Furthermore,IMB-LAshowedasimilar inhibitoryeffect ontheinfectivity of virions with HIV-1Env protein instead of VSV-G(Fig.6C).These data indicate that IMB-LA exerts its inhibition on HIV-1 production and infectivity mainly dependent of BST-2 expresion. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We nextasked whether IMB-LA is capable of inhibiting the replication of wild type HIV-1 in the presence of BST-2.We therefore investigated the effectofIMB-LAon HIV-1replication in TZM-blcells,which are derived from HeLaand expres endogenous BST-2.The results showed that IMB-LA inhibited HIV-1 replication by 2 to 3 orders of magnitude at concentrations from $2 . 5 \\mathrm { - } 1 0 \\mu \\mathrm { M }$ (Fig.6D),which demonstrates a potent anti-HIV activity of IMB-LA.Moreover, we performeda subtilisin strip assythathas been widely used toanalyze BST-2 mediated tetheringeectonvirionreleasing.Theresultshowedthatsubtilisin treatment,which isabletocleave BST-2and thereby releasing virions tetheredatcellsurface byBST-2,significantly increasedtheamountofvirions in the supernatant from 293Tcells treated with IMB-LA (Fig. 6E).This provides further evidence supporting that IMB-LA treatment caused the accumulationofvirions tetheredbyBST-2atcellsurface,resultingin the inhibitionon HIV-1replication. ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a91e79c217c77ef943e7487014bb97d61f22fe96022a3139ef66c1cd5f27709c.jpg",
+        "img_caption": [
+            "Figure 5.Effect of IMB-LA on cellular distribution of BST-2 in HeLa-Vpu cells.HeLa (A)and HeLa-Vpu cells (B) were treated with DMSO or ${ 5 \\mu \\mathrm { M } }$ IMB-LA. $2 4 \\mathrm { h }$ later,cells were incubated with rabbit anti-BST-2 and mouse anti-CD63 antibodies.Cels were then stained by fluor-conjugated secondary antibodies.Images were recorded using a spinning discconfocal microscope.Signals of BST-2 are pseudocolored as red, CD63 as green. (C) HeLa-Vpu cells were incubated with rabbit anti-BST-2 and mouse anti-LAMP1 antibodies.BST-2 signals are shown in red,LAMP1 in green.The left panels in(A,B)and(C) graphically represent the results of the Peason's Correlation coefficients of the two channels in each set (Fig.5,left panel). "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A □ NL4-3+VSV-G+DMSO NL4-3+VSV-G+DMSO pcDNA3.1 NL4-3+VSV-G+IMB-LA NL4-3+VSV-G+IMB-LA BST2-HA NL4-3(Vpu-)+VSV-G 新   \nNL43-udup 55KDa 40KDa 80 中 P24 25KDa 60 35KDa Peiielear 40 40 BST2-HA 15KDa 20 +\\*\\* 20 \\*\\* β-actin 0 40KDa 293T-BST-2 293T-Control 293T-BST-2 293T-Control   \nB Hela BST2-KD Du 5 3ST2-KD B 140NL4-3(Vpu-)+VSV-G NL4-3+VSV-G+IMB-LA □NL4-3+VSV-G+DMSO NL4-3(Vpu-)+VSV-G □NL4-3+VSV-G+DMSO NL4-3+VSV-G+IMB-LA NL4-3-luc + NL4-3-luc(Vpu-) P55 55KDa 中 100 40KDa 80 H 80 25KDa \\*\\* P24 35KDa 60 40 +\\*\\* BST-2 40 + 15KDa 20 \\*\\* 20 β-actin 40KDa 0 HeLa HeLa-BST2-KD HeLa HeLa-BST2-KD   \nC D G 1.51 IMB-LA(uM) IMB-LA(uM) IMB-LA(uM) IMB-LA(μM) eeieege 00.5550 00.5550 108 0.5 5 10 0.55 10 1.0 80 106 60 0.5 40 20 0.0 104 1 HeLa-BST2-KD HeLa HeLa-BST-2-KD   \nE F NL4-3(Vpu-) NL4-3 + NL4-3 NL4-3(Vpu-) - VSV-G + VSV-G + so BST-2-HA+ 国 D BST-2-HA + 2 IM 35KDa ￥ P55 55KDa \\* B E P24 25KDa p24CA 25KDa P55 55KDa 40KDa P55 55KDa 1 × 2 Cell lysate ++ p24CA 25KDa ++ ++ β-actin 一 40KDa ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "fireflyluciferase activities (right panel). (B) HeLa and HeLa-BST-2-KD cells were transfected with $5 0 0 \\mathrm { n g }$ pNL4- 3luc(R-E-) or pNL4-3luc (-Vpu) and $3 5 0 \\mathrm { n g } \\mathrm { p H I T / G }$ . Protein expression in cels (left panel),amounts of viruses (middle panel) and infectivity of the progeny viruses (right panel) were determined as described in Fig. 6A. (C) $5 \\times \\bar { 1 0 ^ { 5 } }$ HeLa orHeLa-BST2-KD cells were transfected with $0 . 3 \\mu \\ g$ NL4-3deltaLuc and $0 . 3 \\mu \\ g$ Env, and then were treated with DMSO or IMB-LA,respectively.The supernatant was used to infect TZM-bl cells and luciferase activity was measured. (D) TZM-bl cells were infected with wild type NL4-3 viruses and then incubated with the indicated compounds,folowed byluciferase activity measurement.(E)293Tcells were transfected with pcDNA3.1-BST-2 and either HIV-1(WT) or HIV-1 $\\mathrm { ( d e l V p u ) }$ ,followed by treatment with either DMSO or $5 { \\mu \\mathrm { M } }$ IMB-LA.Released particles were harvested from culture supernatants before (top panel) and after(botom panel) subtilisin strip,respectively,and then subjected to Western blotanalysis.(F)HEK293Tcells were co-transfected with pcDNA3.1-BST-2-HA,pNL4-3luc(R-E-)and pHIT/G as described in Figure 6 (A). Cels and virions were subjected to western blot analysis.(anti-p24and anti-HA,as indicated).(G)The HeLaBST-2-KD cells were exposed to virion supernatants containing the same amount of ${ \\tt p } 2 4 . 2 4 \\mathrm { h }$ later, cells were treated with IMB-LA for $2 4 \\mathrm { h }$ .Firefly luciferase activities in cell lysate were determined.Each bar represents the mean and standard deviation of at least three independent experiments.\\*\\*denotes $P { < } 0 . 0 1$ .Full-length blots/ gels are presented in Supplementary data. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We have previously shown and presented herein that,inaddition to inhibit virus release,BST-2also diminishes HIV-1 infectivity15.Inaddition to the reduction in viral particle releasing,released viruses derived from BST-2 containing cels exhibited impaired infectivity(Figs 6Aand B,right panel).We therefore asked whether IMB-LA also causes the incorporationofBST-2into HIV-1particles and consequentlydecreases virus infectivity.Indeed,the level of BST-2 inHIV-1 particles increased by $7 0 \\%$ when 293T-BST-2 virus producer cells were treated by IMB-LA (Fig.6F).When these virus particles were used to infect SupT1 cells,their infectivity dropped by $4 0 \\% - 6 0 \\%$ ,whereas no effect from IMB-LA was detected on the infectivityof viruses that were produced from HeLa-BST2-KD and HEK293Tcels thatdo not express BST-2 (Fig.6A and B).Taken together,tese data suggest that IMB-LA inhibits HIV-1inaBST-2-dependent mannerand thatthisantiviraleffectisaresultoftwoactions,i.e.,reducingtherelease of virus particles and diminishing virus infectivity. In agreement with it,a marginal efect (approximate $1 0 \\%$ was observed on the infectivity when IMB-LA (up to $5 \\mu \\mathrm { M } \\dot { }$ was added either during or prior to infection.This suggests that IMB-LA exhibit some non-specific but marginal effect on HIV-1 infectivity (Fig. 6G). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Forthe first time,we have identifiedasmallmoleculecompound IMB-LA that inhibits HIV-1infection by exposing HIV-1to BST-2restriction.IMB-LA/Lapacholisanaphthoquinone [2-hydroxy-3-(3-methyl-2-butenyl-)-1, 4-naphthoquinone] which has been reported to possess multiple therapeutical efects including anti-malarial and anti-cancer activities42.43.However, its antiviral activities have notbeen reported uptodate.IMB-LA does so by specificallypreventing Vpu-mediated down-regulationof BST-2and therebyrestoring BST-2 expressonatthe cell surface (Figs land 2).Further studies showed that IMB-LA diminished localization of BST-2 to lysosomes and thereby rescuing BST-2 from lysosomal degradation (Fig.5).IMB-LA does notaffect the interactionof Vpu with BST-2 or $\\beta$ -TrCP2 (Fig.3),nor modulates the ubiquitination of BST-2 (Fig.4).It is possible that IMB-LA blocks thetransfer of ubiquitinated BST-2 into lysosomes and thereby inhibits BST-2 degradation.Most importantly, HIV-1 release and infection are markedly inhibited by IMB-LA in BST-2 expressing cells.This study provides a proof-of-concept that utilizes smallmolecule compounds to block viralantagonismand expose viruses to nnate immune response. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "One major concern in drug development is the specificity ofthe compounds toward the target.In the context of IMB-LA,one isse is whether this compound exerts a general efect on the endosomal/lysosomal pathwayby which Vpu degrades BST-2,especially given that the $\\mathrm { H } \\dot { + }$ ATPase inhibitor ConA is able to prevent Vpu from down-regulating BST-2byblocking thelysosomal pathway.This posibilitywas refuted bythe results showing that IMB-LA did not affect the degradation of IFNAR1 in response to $\\mathrm { I F N } \\alpha$ (Fig.2). IFNAR1 is recognized by $\\beta$ -TrCP2 thatrecruits E3 ligase to IFNAR1 through binding to the phosphor-motifs DpSGXXpS in its substrate.Therefore, IMB-LA does not likely exert a general impact on lysosome-dependent protein degradation. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition to antagonizing BST-2,Vpu hasanother important function to down-regulate CD4,the receptor of HIV-1.This function provides another opportunity to test the specificity of IMB-LA in targeting Vpu/BST-2. No effect of IMB-LA on Vpu-mediated down-regulation of CD4 was observed (Fig.2).Since Vpu utilizes the $\\beta$ -TrCP2-containing ubiquitin E3 ligase to degrade both CD4 and BST-2,it can be concluded that IMB-LA has a great selectivityto target Vpu/BST-2 pathway.In support of this conclusion,results of both BRET and co-immunoprecipitation experiments showed no effect of IMB-LA on the interaction of Vpu with $\\beta$ -TrCP2 and BST-2. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Enveloped viruses have developed different means to counter BST-2.For example,the K5 proteinof KSHV is an ubiquitin E3ligaseand ubiquitinates the K18 residue at the cytoplasmic region of BST-2.This ubiquitination event leads to localization of BST-2 to lysosomes and subsequent degradation.The observation that IMB-LA did notafect K5-mediated down-regulation of BST-2 further supports the high specificity of this compound toward targeting the antagonist function of Vpu. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "How does IMB-LA block Vpu from antagonizing BST-2?We pursued this question on the basis of the known mechanisms of Vpuantagonism.First,Vpu needs to interact with BST-2 through their transmembrane domains26.44.A number ofkey residues across their transmembrane domains have been identified that are essential for this interaction and their mutations abrogate Vpu counteraction of BST $2 ^ { 3 0 , 3 1 }$ .Our data of both BRET and co-immunoprecipitation experiments showed no efect of IMB-LA on Vpu and BST-2 interaction, suggesting that IMB-LA does not target the transmembrane domains ofthesetwo proteins.Second,Vpuutilizes its S52/S56 motif to recruit $\\beta \\mathrm { - T r } \\mathrm { C P } 2 ^ { 4 \\bar { 5 } }$ .This interaction is essential for BST-2 polyubiquitination and subsequent degradation in lysosomes17,18.IMB-LAdoes notaffect this interaction either.Inaddition,no effectofIMB-LA was seenon the degree ofBST-2ubiquitination.Third,theubiquitinated BST-2 is sorted to lysosomes fordegradation4In the presence ofIMB-LA,localizationof BST-2 to lysosomes isdrasticalldecreased withconcomitant increaseofBST-2 in $\\mathrm { C D } 6 3 +$ endosomal compartments.This observation suggests that IMB-LA specifically blocks the sorting of BST-2 into lysosomes and thus inhibits Vpu-induced degradationofBST-2.Subsequently,theinhibitionof BST-2 degradation may restore BST-2 level at cell surface as conA does. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We currently do not know how IMB-LA prevents the sorting of ubiquitinated BST-2 into lysosomes. It is known that not allthecomponents inlateendosomes are destined fordegradation inlysosomes47,48.For example, some endosomes can fuse with plasma membranes and release as exosomes into the extracellular environment. Late endosomes can also backfuse with limiting membranes which leads to the release of toxin or RNA into the cytoplasm ina processthatis controlled byLBPA,ALIX and ESCRTs47.LDL-derived cholesterol can utilize this back-fusion processto escape from sorting into lysosomes47.Itis known that Ub-cargos are sorted by receptors that recognize the ubiquitinchains49.These Ub receptors include the Hrs/STAM complex,CGA proteins and Tom1-Tollpcomplex4850Loss ofCGAandTom1-Tolipresults insortingdefectofparticularUb-cargoes5051One study reported that HRS is required for BST-2 down-regulation by $\\mathrm { \\Delta V p u } ^ { \\bar { 5 } 2 }$ . It would be interesting to test whether IMB-LA affects this function of HRS. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Although it is not completely clearhow IMB-LA blocks BST-2 degradation,IMB-LA inhibits HIV-1infection only in cells that express BST-2.IMB-LA,in the presence of Vpu,allows BST-2 to express atthecell surfaceand enables BST-2toblock HIV-1release and also todiminishthe infectivityof nascentvirus particles.Given the great ffctiveness and importance ofinterferon in protecting the hosts from infectionbyavastdiversityof viruses, our study further supports the feasibility of utilizing smallmolecule compounds to disarm viral antagonism and expose viruses to the restriction of innate immune responses,especialy for persistent viral infection53.This new generation ofantiviral strategy also has autility as vaccine adjuvant to boost local innate immunity. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Plasmids,antibodies and compounds.The plasimid pVphu expresses codon-optimized Vpu.The vesicular stomatitis virus glycoprotein (VSV-G) expressing vector pHIT/G and HIV-1 proviral indicator construct pNL4-3Luc(R-E-) were provided byJohnny He. pNL-Luc.R-E-Vpu-has the first ATG of Vpu coding sequence changed to ACG and expresses luciferase as the reporter. pcDNA-IFNAR1-FLAG and pcDNA- $\\cdot \\beta$ -TrCP2-HAwere provided by Serge Y.Fuchs. pcDNA3.1-BST2-HA was from Paul D.Bieniasz. pcDNA3.1-K5-HA was from Klaus Fruh. pCW7 that expresses Myc-tagged ubiquitin was provided by Xiaofang Yu. Anti-Vpu rabbit antibody and anti-BST-2rabbit antibody were obtained fromthe National Institutes of Health (NIH)AIDS Research &Reference Reagent Program. Mouse anti-BST-2 antibody, mouse anti-CD63 antibody and mouse anti-LAMPl antibody were purchased from Abcam.HA antibody,beta-actinantibody, HRP (horseradish peroxidase)-labeled donkey anti-rabbit,HRP-labeled rabbit anti-mouse and goat anti-rabbit IgG-FITC secondary antibodies were purchased from Santa Cruz Co. Anti-mouse IgG-FITC secondary antibody and anti-rabbit IgG-TRITC secondary antibody were purchased from Zhong Shan Gold Bridge. Concanamycin A,MG132 and IMB-LA/Lapachol were purchased from Sigma.IMB-LA was resolved inDMSO (solubility $> 2 4 2 . 2 7 \\mathrm { m g / m l } )$ ： ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cells and transfections.HeLa, HEK293T,HeLa-Vpu,HeLa-BST2-KD and TZM-bl cell were cultured in DMEM(GBICO) supplemented with $1 0 \\%$ fetal bovine serum (FBS) (GIBCO). SupT1 cells were maintained in RPMI-1640 (Hyclone) containing $1 0 \\%$ FBS.HeLa-Vpu cells were generated by transfection of pVphu vectors and then selected with $4 0 0 \\mu \\mathrm { g / m l }$ G418.HeLa-BST2-KD cells were generated by transfection of shRNA-BST2 and puromycin $\\left( 5 0 0 \\mathrm { n g / m l } \\right)$ selection.HeLa cells were transfected using Fugene HD transfection reagents (Roche), according to the manufacturer's instruction.Transfections of HEK293T were performed using Lipofectamine 2000 (Invitrogen) according to the manual. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cell-ELISA.The Cell-ELISA was carried out as described previously34. Inbrief, HeLa-Vpu cells were seeded into 96-well plates.Twenty-four hours later,cells were treated with drugs for $2 4 \\mathrm { h }$ .Cells were then washed with PBS at room temperature,followed by the fixation with $4 \\%$ paraformaldehyde (PFA) ( $\\mathrm { 1 0 0 } \\mu \\mathrm { l } /$ well).After fixation for 20 minutes,cells were incubated with BST-2 antiserum for lh at $3 7 ^ { \\circ } \\mathrm { C }$ and then washed with PBS.HRP-labeled second antibody(1:5ooo) was added to each well.After incubation for $4 0 \\mathrm { m i n }$ at room temperature, $1 0 0 \\mu \\mathrm { l }$ TMB substrate solution was added and incubated for another $3 0 \\mathrm { m i n }$ at room temperature avoiding light.Finally, the reaction was stopped by adding $5 0 \\mu \\mathrm { l }$ of $0 . 5 \\mathrm { M }$ HCl. The absorption at $4 5 0 \\mathrm { n m }$ was measured immediately. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry.For analysis of cell surface BST-2,HeLa-Vpu cels were treated with IMB-LA or DMSO for 24h.Then the cells were trypsinized and resuspended in flow cytometry bufer (containing $1 0 \\%$ fetal bovine serum),and following incubated with anti-BST-2 rabbit antibody in $2 \\%$ BSA at $4 ^ { \\circ } \\mathrm { C }$ forlh.The cells were then washed with prechilled PBS containing $2 \\%$ BSA for 4 times followed by staining with anti-rabbit IgG conjugated with FITC for $3 0 \\mathrm { m i n }$ ,then analyzed on a FACS caliber system (BD biosciences). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Virion release and infectivity analysis.To assess the effect of IMB-LA on the release of progeny virions, the experiments were carried out in HEK293Tand HeLacells.HEK293Tcells were co-transfected with $2 \\mu \\mathrm { g } \\mathsf { p N L 4 } .$ 3Luc(R-E-), $1 . 4 | \\mu \\ g \\rrangle \\mathrm { H I T / G }$ and 300ng BST-2-HA (or pcDNA3.1) in $1 0 \\mathrm { - c m }$ dishes.HeLa and HeLa-BST2-KD cells were co-transfected with $3 \\mu \\mathrm { g } \\mathsf { p N L 4 } - 3 \\mathrm { L u c } ( \\mathrm { R - } ]$ E-)， $2 . 1 \\mu \\mathrm { g } \\mathsf { p H I T } / \\mathrm { G }$ .After $2 0 \\mathrm { h }$ ,the media was changed and IMB-LA was added.24h later,thecells were harvest for western blotting,and thesupernatants were collected and fltered through a $0 . 4 5 \\mu \\mathrm { m }$ filter. The amounts of viruses were determined by measuring HIV-1 p24CA antigen with antigen enzyme-linked immunosorbent assay (p24CA ELISA)(Vironostika HIV-1 Antigen) and ultracentrifugation assay. The p24CA ELISA assay was peformed according to the manufacturer's instruction.For ultracentrifugation, the supernantants were pelleted through a $2 0 \\%$ sucrose cushion at 35000 rpm for $6 0 \\mathrm { { m i n } }$ ,and harvest the viral sample for western blotting. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To assess the infectivity of HIV-1,the SupT1 cells $( 1 \\times 1 0 ^ { 5 } )$ in 96-well plates were exposed to virion supernatants containing the same $\\mathtt { p } 2 4$ value.Forty-eight hours later, SupT1 cells were lysed and firefly luciferase activities were determined using a firefly Luciferase Assay System (Promega). ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To assess the effect of IMB-LA on the replication of wild type HIV-1, $2 \\times 1 0 4$ TZM-bl cells were infected with WTNL4-3 viruses at $\\mathrm { M O I } = 0 . 1$ for 8h.8h post-infection,the medium was refreshed and the cells were incubatec with the indicated compounds above foranother $7 2 \\mathrm { h }$ .Cellswere harvested and luciferase activitywas measured ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Co-lmmunoprecipitation.For BST-2 and Vpu IP assay, HEK293 T cells were seeded in $1 0 \\mathrm { c m }$ dishes. $2 4 \\mathrm { h }$ later, the cells were cotransfected with $2 \\mu \\ g$ Vpu and $2 \\mu \\ g$ BST-2-HA.Another $2 4 \\mathrm { h }$ later, the cells were treated with DMSO or $5 \\mu \\mathrm { M }$ IMB-LA for $2 4 \\mathrm { h }$ .At last, the cells were collected and lysated in NP-40-containing buffer for $3 0 \\mathrm { m i n }$ on ice. Cell lysates were centrifugated at $1 0 , 0 0 0 \\times { \\bf g }$ for $1 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ and supernatant was transferred to a fresh $1 . 5 \\mathrm { m l }$ tube on ice.The cell lysates were incubated with anti-HA rabbit antibody for 3h at $4 ^ { \\circ } \\mathrm { C }$ $3 0 \\mu \\mathrm { l }$ of proteinA-Agarose (Santa Cruz) was added and incubated overnight at $4 ^ { \\circ } \\mathrm { C }$ .The beadswerewashed 4 times with lysis buffer (cold) and at last boiled in $4 0 \\mu \\mathrm { l }$ sample buffer for $5 { \\mathrm { - } } 1 0 \\operatorname* { m i n }$ . The samples were analyzed by Western blotting. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "For Vpu and $\\beta$ -TrCP2-HA IP assay,HEK293T cells were seeded in $1 0 \\mathrm { c m }$ dishes. $2 4 \\mathrm { h }$ later, the cells were cotransfected with $2 \\mu \\mathrm { g } \\mathrm { V p u } , 2 \\mu \\mathrm { g }$ BST-2-FLAG and $2 \\mu \\ g$ TrCP2-HA. The following experimental procedures were the same as Vpu and BST-2 IP assay. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ubiquitination Assay.Ubiquitination assay was performed as previously reported41. In brief $7 0 \\mathrm { - } 8 0 \\%$ confluent HEK293T cells were transfected with $2 . 5 \\mu \\mathrm { g }$ BST-2-HA, $5 \\mu \\ g$ of $\\mathrm { \\Delta V p u }$ and $1 0 \\mu \\mathrm { g } \\mathsf { p C W } 7$ -Ubquitin-Myc in $_ { 1 0 \\mathrm { - c m } }$ dishes.Twenty-four hours later,IMB-LA was added.Another $2 4 \\mathrm { h }$ later, the cells were collected and lysed in NP-40-containing buffer for 30 min on ice. Cellysates were centrifugated at $\\mathbf { 1 0 , 0 0 0 \\times g }$ for $1 0 \\mathrm { m i n }$ at $4 ^ { \\circ } \\mathrm { C }$ and supernatantwas transferred toa fresh $1 . 5 \\mathrm { m l }$ tube on ice.The cell lysateswere incubated with anti-HA rabbit antibody for3hat $4 ^ { \\circ } \\mathrm { C }$ $3 0 \\mu \\mathrm { l }$ of proteinA-Agarose (Santa Cruz) was added and incubated overnight at $4 ^ { \\circ } \\mathrm { C }$ The beads were washed 4 times with cold lysis buffer and then boiled in $4 0 \\mu \\mathrm { l }$ sample buffer for $5 { \\mathrm { - } } 1 0 \\mathrm { m i n }$ .The samples were analyzed by Western blotting. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Confocal microscopy.HeLa-Vpu(or HeLa) cells were treated with IMB-LA for $2 4 \\mathrm { h }$ ,then washed with cold PBS, fixed with $4 \\%$ PFA for $1 5 \\mathrm { m i n }$ and permeabilized with $0 . 2 \\%$ Triton X-100 for $1 0 \\mathrm { m i n }$ .Cells were incubated with anti-BST-2 and anti-CD63 antibodies (or anti-LAMP1 antibodies) overnight at $4 ^ { \\circ } \\mathrm { C } ,$ followed by washing with PBS,and further incubated with the secondary antibodies for $ { 1 \\mathrm { h } }$ at room temperature.Images were recorded by an UltraVIEW vox spinning disc confocal scanning system (Perkin Elmer) on a Olympus IX 81 microscope. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pearson's Correlation Coeffcients was used to assess the colocalization of two protein obseved in confocal microscope.This index isa measure of the strengthand directionof the linear relationship between two variables thatis defined as the(sample)covariance ofthe variables divided bythe productof their (sample)standard deviations.Formula is shown was followed ",
+        "page_idx": 10
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\rho _ { X , Y } = { \\frac { \\sum X Y - { \\frac { \\sum X \\sum Y } { N } } } { \\sqrt { \\left( \\sum X ^ { 2 } - { \\frac { \\left( \\sum X \\right) ^ { 2 } } { N } } \\right) \\left( \\sum Y ^ { 2 } - { \\frac { \\left( \\sum Y \\right) ^ { 2 } } { N } } \\right) } } } \n$$",
+        "text_format": "latex",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Real time PCR.Total RNA was extracted from cels using TRIZOL Reagent (Invitrogen)folowing the instruction.RNA was converted to cDNA using M-MLV Reverse Transcriptase (Promega) with random primers.The cDNAs were quantified using SsoFast EvaGreen Supermix (Bio-Rad)and Bio-Rad iCycler iQ5 Real-Time PCR systems. Primer sequences for quantifying cDNAs were as follows: BST-2 (sense: CTGCAACCACACTGTGATG, antisense: ACGCGTCCTGAAGCTTATG)19, GAPDH (sense: GTCCACTGGCGTCTTCACCA,antisense: GTGGCAGTGATGG CATGGAC). Level of GAPDH mRNA was used as an internal control to normalize the level of BST-2 mRNA. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BRET assay.The BRET assay was used to monitor protein-protein interaction as previously described54. Briefly,HEK293Tcells were co-transfected with hYFP-Vpu and hRLuc-BST2 (or $\\beta$ -TrCP2-RLuc),and harvested 48hafter transfection.Cels were then distributed into 96-wellmicroplates (white Optiplate; Perkin-Elmer) with a density of $1 \\times 1 0 ^ { 5 }$ cells/well.Rluc substrate coelenterazine h was added at a final concentration of ${ 5 \\mu \\mathrm { M } }$ .The signalswere detected at 480 $( \\pm 1 0 )$ nm and 535 $( \\pm 1 0 )$ nm.BRET ratio was determined as“emission at $5 3 5 \\mathrm { n m } /$ （204号 emission at $4 7 5 \\mathrm { n m } ^ { \\mathrm { ? } }$ .： ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Subtilisin Strip Assay.For Subtilisin Strip Assay, $2 9 3 \\mathrm { T }$ cells were transfected with pcDNA3.1-BST-2, HIV-1(WT) or HIV-1(delVpu). $2 4 \\mathrm { h }$ later, the cells were treated with DMSO and ${ 5 \\mu \\mathrm { M } }$ IMB-LA for another 24h. Constitutively released particles were harvested from culture supernatants.Thereafter,cells were incubated for $1 5 \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ inbuffer ( $\\mathrm { \\Delta } 1 0 \\mathrm { m M }$ of Tris/HCl $\\left( \\mathrm { p H 8 . 0 } \\right)$ ,150 mMNaCl, $5 \\mathrm { m M C a C l } 2 ,$ with or without the addition of subtilisin $( 1 0 0 \\mu \\mathrm { g / m l } )$ . The stripping reaction was stopped with DMEM/FBS containing $5 \\mathrm { m M }$ PMSF. Cells were pelleted and the supernatants were filtered $( 0 . 2 \\mathrm { m m } )$ before harvesting the released virion particles,by pelleting through sucrose. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis.Allstatisticalanalyses were carried out using the KaleidaGraph 4.0 statistical software. Values and error bars in the bar graphs represent the means and standard deviations ofresults from atleast three independently performed experiments.Comparisons between groups for statistical significance were carried out with the2-tailed paired Student's t-test.Inall cases, $\\mathrm { P } < 0 . 0 5$ was considered statistically significant. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Drug Screening.A high-throughput screen (HTS) Cell-ELISA assy was exploited to perform a primary screen against a library of 56ooo compounds at a concentration of $1 0 \\mu \\mathrm { M }$ ,which include Microsource Spectrum Collection (200),NCI Diversity SetI(1974),NCIDiversitySet I (1364)and natural productcollectionat the Institute of Medicinal Biotechnology.A positive hitwasdefined asa compound that increases cellELISAoptical densityat OD450 by more than 3 standard deviations (SD).75 positive hits from the primary screen were further tested for cellular toxicity effects,dose-response assessments and anti-HIV activities. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1.Flexner,C.HIV drug development: the next 25 years. Nat Rev Drug Discov 6,959-966 (2007).   \n2.Cen,S.etal.SmallolecularcompoundsinibitHV-1replicatinthoughspecificallabilzingAPOBECG.JiolCem8, 16546-16552 (2010).   \n3.Matsui,M.etal.Smallmolecules that inhibit Vif-induceddegradationof APOBEC3G.VirolJ.11,122(2014). 4.Zuo,T.etal.Smalloleculinibiionofumanimmunodeficiencyvius tyeleplicationbytargetingtheinteractionbetween Vif and ElonginC.J Virol 86,5497-5507 (2012). 5.Swiecki,Me,Nre,TJuaoagoblogt antiviral factor. Mol Immunol 54,132-139 (2013).   \n6.VanDamme,N.etal.Theinterferon-inducedproteinBST-2restrictsHV-1releaseandisdowregulatedfromthecellsurfaceby the viral Vpu protein.Cell Host Microbe 3,245-252 (2008).   \n7KaletskyRLica,Jal-e,Cesdatedcioudgisgdb the Ebola glycoprotein.Proc Natl Acad Sci USA106,2886-2891(2009).   \n8.Jouvenet,N.etal.Broad-spectrumibtionofretrovalandfloviralprticlereleasebyteteri.JVirol3-844(009).   \n9.Neil,S.J,ang.ieeseagdute4)   \n10.Brehin,A.C.etal.DynamicsofimmunecellrecruitmentduringWestNileencephalitisandidentificatioofanewCD9B2 BST- $^ { 2 + }$ leukocyte population.JImmunol 180,6760-6767 (2008).   \n11.Schliemann,C.etal.InvivootiylatioofthevasulatureinB-cellympoaidentifsBT-2asatargetforantbodbased therapy.Blood 115,736-744(2010).   \n12.Tokarev,scK&atell,iefedrro Res Hum Retrovir 25,1197-1210 (2009).   \n13.KupzigS.alst-/.4isaftasiatedacalmebraneproteiithuusaltoogafic4,694().   \n14.Perez-Cabaero,D.etal.TetherininhbitsHV-1releasebydirectlytetheringvirions tocels.Cell139,499-51(2009).   \n15.Zhang,J.& Liang,C.BST-2 diminishes HIV-1 infectivity.j Virol84,12336-12343 (2010).   \n16.Fitzpatrick,K.taliectestrictioseleasdcorortioofteferoiuedprote-ntices. PLoS Pathog6,e1000701 (2010).   \n17.MitchellR.S.talVuntagozes--meatedrestrictioofHV-leaseviaeta-TCded-lysosoaltacing PLoSPathog 5,e1000450 (2009).   \n18.Douglas,JL.etal.VpudirectsthedegradationoftheumanimmunodeficiencyvirusrestrictionfactorB-2/Tetherinviaa{beta TrCP-dependent mechanism.J Virol 83,7931-7947 (2009).   \n19.Mangeat,B.etal.HIV-1VpuneutralizestheantiviralactorTetherin/BT-2bybindingitanddirectingitsbeta-TrCP-depedent degradation.PLoS Pathog 5,e1000574 (2009).   \n20.Bour,S.&rbel,KeHuproen:ultiftiolerialprticeeleascobesfect,9).   \n21.Binete,J.talRequrementsforteselectiedegradatioofCD4receptoroleculesbheumanimunodeficiencyviuste 1 Vpu protein in the endoplasmic reticulum. Retrovirology 4,75 (2007).   \n22.Buticaz,Ccheli,OWiger,J,Tlenti,.&Rothenbergerencgobotbeta-CPdHO(eta-CP)s to suppress humanimmunodeficiencyvirus type1 Vpu-mediated CD4down-modulation.JVirol81,1502-1505 (2007).   \n23.Hauser,Hetal.HV-1VpuandHV-2EnvcounteractBST-2/tetheribysequestrtioninaperinuclearcompartmentRetroiology 7,51 (2010).   \n24.Arias,J.E,Iwabu,Y.&Tkunaga,K.itesofactionofHV1VpuinT/tetherindowregulation.CurrHVRes,-91 (2012).   \n25.Gofinet,CetlHV-ntagosmofD1isspeiessecifcadvolsVu-datedproteasoaldgadatiofectio factor.Cell Host Microbe 5,285-297(2009).   \n26.Iwabu,Y.etal.HV-acessoryprotenVpuinteralzescellsurfaceB-2/tetrintroughtransmembraneiteractislading to lysosomes.J Biol Chem 284,35060-35072 (2009).   \n27.Ruiz,A.etal.BST-2 mediated restrictionofsimian-human immunodeficiencyvirus.Virology406,312-321(2010).   \n28.Skasko,M.etal.ST-2isapidlydow-regulatedfromthecellsurfacebytheHV-1proteinVpuvidenceforapost-ERmnis of Vpu-action.Virology 411,65-77 (2011).   \n29.Mi,Z.et al.A novel peptide to disrupt theinteraction of BST-2and Vpu.Biopolymers 102,280-287 (2014).   \n30.Pang,X.etal.IdentificatioofnovelkeyaminoacidsattheinterfaceofthetransmembanedomainsofumanBST-2andHV-1 Vpu.Retrovirology 10,84 (2013).   \n31.Kobayash,etalIdntifctionofmioacidsiemateeritransmembandominesponsibleforHV-Vunteaction and susceptibility.J Virol85,932-945 (2011).   \n32.KhouryGEwart,Guob,C,l,.&iinsonJAivialeacftenovelmd2t1 release from human macrophages.Antimicrob Agents Chemother 54,835-845 (20i0).   \n33.Kuhl,BDetaleHuopinto2sctVededetiagome6 (2011).   \n34.Zhang,Q.tal.HightroughputassytodentifyibitorsofVpu-mediateddown-regulationofcellsurfaceBS-2.AntiviralRes 91,321-329 (2011).   \n35.Kumar,K.G.etal.SCF(HOS)ubiquitinlgasemediatestheligad-nduceddow-rgulationoftheinterferon-alphareceptorEMBO J22,5480-5490 (2003).   \n36.Margottin,Fetal.Anovelhuman WDprotein,h-betaTCp,hatinteractswithHIV-1VpuconnectsCD4totheERdegradation pathway through an F-box motif.Mol Cell1,565-574(1998).   \n37.Mansouri,M.etal.MolecularmechanismofBST/tetherindownregulationbyK5/M2ofKaposi'srcoma-associatedrpeirus. JVirol 83,9672-9681 (2009).   \n38.Nathn,J&Lner,PJetracingandregulationofmembranereceptorsbeG-ubquitiE3lgassxpllRes   \n315,1593-1600 (2009).   \n39.Pardieu,C.etal.TheRING-CHligase K5antagonizesrestrictionofKSHVandHIV-1particlereleasebymediatingubiquitindependent endosomal degradation of tetherin.PLoS Pathog 6,el0oo0843 (2010).   \n40.Arias,JEIwabu,Y.&kunaga,KtructuralBasfortentivialActivityf-/theriandItsViralAntagosrot Microbiol2,250 (2011).   \n41.Tokarev,A.A,ungua,J.,&Guatell,JC.erintreonnebquitiatinmediatedowregulatiof-/tetridel of restricted virion release by HIV-1 Vpu.J Virol 85,51-63 (2011).   \n42.Fiorito,Strothoctivitfancercelsflacolditsatualandsticrvaisod Chem Lett 24,454-457 (2014).   \n43.Wels,T.NNaturalproductsastartingpointsforfutureanti-malarialterapies:goingbacktoourots?MalrJSuppl,3 (2011).   \n44.SkaskoM.etal.HV-1Vpuproteiantagozesinaterestrictiofactor-2ialipd-embeddedhelix-helixinteractios.iol Chem 287,58-67 (2012).   \n45.Tervo,H.M.etaleta-TrCPisdispensableforVpu'sbilitytoovercometheCDl/etherin-mposedrestrictiontoHV-release. Retrovirology 8,9 (2011).   \n46.Gustin,J.KouglasJ.L,&ses,A.VUiuitiatinof-2rotebyHV-Vuproteidoesnotreqle serine,or threonine residues within the BST-2 cytoplasmic domain.J Biol Chem 287,14837-14850 (2012).   \n47.Scott,C.C.,Vacca,F&Gruenberg,JEndosome maturation,transportandfunctions.eminCellDevBiol3C,-10(014).   \n48.Piper,R.C.&Katzmann,D.J.Bigenesisandfunctionofmultivesicularbodies.AnnuRevCellDevBiol2,519-547(2007).   \n49.Piper,R.C.&Lehner,P.J.Endosomal transport viaubiquitination.Trendscellbiol21,647-655 (2011).   \n50.Puertolano,R.&Bonifacino,JS.InteractionsofGGA3withtheubqutinsortingmachineryNatCellol6,244-251(4).   \n51.Brissoni,B.etal.Intracellulartrafckingofinterleukin-1receptorIrequires Tollp.Curriol16,2265-2270(006).   \n52.Janvier,K.etal.TheESCRT-0componentHRSisrequiredforHV-1Vu-mediatedST-2/tetherindown-regulationPLoSPathog   \n7,e1001265 (2011).   \n53.Chang,,GuoE,ao,.&uo,J-rapeicrategiesfoructioalurroicpatitisvusiectiocta Sin B 4,248-257 (2014).   \n54.Zhou,M.etal.ong-termmaintenancefumanfetalhepatocytesandprolongedsusceptibilitytoHVinfectionycocultureith non-parenchymal cells.J Virol Methods 195,185-193 (2014). ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank Drs.Paul D.Bieniasz,SergeY.Fuchs and Klaus Frih,the National Institutes of Health (NIH) AIDS Research & Reference Reagent Programas welas National Infrastructureof Microbial Resources (NIMR-2014-3) for providing valuable reagents. This work was supported by 973 program (2012CB911102 CS),National Megaproject for Innovative Drugs (2012ZX09301002-001-015 and 2012ZX09301002-005-002 CS),National MegaProject for Infectious Disease (2013ZX1000 4601-002 CS),FRSQ(03-1314 CL),and The National Natural Science Foundation of China(81271844 ZJM,31470272 CS,81302815 SGZ).Shan Cen is supported by Xiehe Scholar. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Z.Y.M.screened the compound library depending on Cell-ELSA assay. Z.Y.M.and Q.Z.carried out the experiments of mechanism study. J.W.D.drafted the manuscript.JW.D.,L.M.and H.S.Y.carried out the infectivity analysis experiments.J.Y.Z.didCo-IPassay of BST-2/Vpu/TrCP2.ZLL helped Co-Focus assay.J.M.Z.analysed the structure of compound IMB-LA.J.W.D., Q.Z.,JY.Z.,Z.L.L., G.Z.S.,JM..,X.Y.L.,T.W.,FG.and L.G.Z. analyzed thedata. S.C.and C.L. designed the study and wrote the paper. Allauthors approved the final version of the manuscript. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Additional Information ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Supplementary information accompanies this paper at http://www.nature.com/srep ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing financial interests: The authors declare no competing financial interests. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "How to cite this article: Mi,Z.et al. A small molecule compound IMB-LA inhibits HIV-1 infection by preventing viral Vpu fromantagonizing the hostrestriction factor BST-2.Sci.Rep.5,18499;doi: 10.1038/ srep18499 (2015). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This work is licensed undera Creative Commons Attribution 4.0 International License.The images or other third party materialin this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.To viewa copy of this license,visit http://creativecommons.org/licenses/by/4.0/ ",
+        "page_idx": 12
+    }
+]
